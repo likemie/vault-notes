@@ -223,7 +223,7 @@ updated: 2026-10-16
 > [!theory-components] 中观学校生态与跨层组织使能机制
 > - **学校循证生态四要素框架（[[Self-Improving School System\|SISS]] 4-Factor Organizational Framework）** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, pp. 120–123)]] 基于英格兰自发改善学校系统背景，将学校支持研究利用的组织生态操作化为四大互构要素：① 组织能力（Capacity，含[[Absorptive Capacity\|知识吸收能力]]与资源配置）；② 探究与变革文化（Culture of inquiry & innovation）；③ 学习环境（Learning Environment，含心理安全感与社会网络）；④ 结构与系统（Structures & Systems，含正式分享论坛、时间保障与评价流程）。
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
-> - **高利害问责与证据利用的“[[Activity Traps\|活动陷阱]]”（Accountability Pressures & Activity Traps）** 在市场化与高利害绩效督导（如 [[Ofsted]]）压力下，学校倾向于将循证简化为应对问责的表演性策略（[[Performativity]]）；教师极易陷入疲于实施碎片化外部干预而缺乏反思的“活动陷阱”（Activity Traps；Katz & Dack, 2013; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 124–125]]），导致研究使用停留在形式合规，难以触及底层假设重构。
+> - **高利害问责与证据利用的“[[Activity Traps\|活动陷阱]]”（Accountability Pressures & Activity Traps）** 在市场化与高利害绩效督导（如 [[Ofsted]]）压力下，学校倾向于将循证简化为应对问责的[[Performativity|表演性]]策略（[[Performativity]]）；教师极易陷入疲于实施碎片化外部干预而缺乏反思的“活动陷阱”（Activity Traps；Katz & Dack, 2013; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 124–125]]），导致研究使用停留在形式合规，难以触及底层假设重构。
 
 当中观学校组织置于宏观国家教育治理系统之下时，研究利用不可避免地面临行政权力的政治可行性筛选与外部问责体制的刚性制约。
 
@@ -315,7 +315,7 @@ updated: 2026-10-16
 > **四类机制的跨层协同治理** 基于对 109 项实证研究的[[Framework Synthesis\|框架综合]]，学校研究使用并非主要受教师个人能力单一因素制约，而是受信任、技能发展、可持续结构与关系四类横切机制共同治理；这些机制贯通个体、组织与系统层级，彼此关联，表明学校层面的研究使用依赖跨层支持生态的建设。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 8, 17–18)]]
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
-> **治理体制分化与象征性防御模式** 比较英格兰、苏格兰与德国汉堡基础教育体系的研究使用表明，研究利用并非由个体[[Research Literacy\|研究素养]]单向决定，而是深受宏观政治语境与治理体制的塑造：在英格兰高度市场化竞争与严苛督导（[[Ofsted]]）问责下，校长将权威机构（如 [[Education Endowment Foundation\|EEF]]）证据作为向督导证明专业胜任力、防范降级乃至为削减编制提供合理解释的表演性防御工具（Performative [[Strategic Compliance|compliance]]）；而在苏格兰与德国汉堡等低利害问责或行政缓冲生态中，学校领导者对外部研究保持审慎态度，依凭实践中的[[Contributory Expertise\|贡献型专长]]校准通用证据，将研究作为同侪对话与校本探究的起点。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–15, 19–23)]]
+> **治理体制分化与象征性防御模式** 比较英格兰、苏格兰与德国汉堡基础教育体系的研究使用表明，研究利用并非由个体[[Research Literacy\|研究素养]]单向决定，而是深受宏观政治语境与治理体制的塑造：在英格兰高度市场化竞争与严苛督导（[[Ofsted]]）问责下，校长将权威机构（如 [[Education Endowment Foundation\|EEF]]）证据作为向督导证明专业胜任力、防范降级乃至为削减编制提供合理解释的[[Performativity|表演性]]防御工具（Performative [[Strategic Compliance|compliance]]）；而在苏格兰与德国汉堡等低利害问责或行政缓冲生态中，学校领导者对外部研究保持审慎态度，依凭实践中的[[Contributory Expertise\|贡献型专长]]校准通用证据，将研究作为同侪对话与校本探究的起点。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–15, 19–23)]]
 
 ---
 
@@ -375,7 +375,7 @@ updated: 2026-10-16
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
-> - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为表演性辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
+> - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
 ---
 
@@ -476,7 +476,7 @@ updated: 2026-10-16
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代专业敏感型理论。
 > - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
-> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被表演性利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被[[Performativity|表演性]]利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 
 ---
 

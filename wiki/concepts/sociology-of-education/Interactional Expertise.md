@@ -8,7 +8,7 @@ aliases:
 summary: "行动者能够熟练掌握并运用特定领域的专门语言与概念体系进行有效沟通、知识转译与理性论辩，但缺乏在实践现场直接开展实际操作的具身经验与默会手艺的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[School Leadership]]"
   - "[[Reflexivity]]"
+  - "[[Performativity]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Interactional Expertise
@@ -134,7 +135,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **合法性构建机制** | 依赖修辞论辩、技术客观性与方法学权威 | 政策咨询、智库评估与跨界转译 | Collins & Evans; Eyal |
-> | **治理生态与异化** | 市场化环境导致交互专长商品化与表演性应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
+> | **治理生态与异化** | 市场化环境导致交互专长商品化与[[Performativity\|表演性]]应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
 
 ---
 

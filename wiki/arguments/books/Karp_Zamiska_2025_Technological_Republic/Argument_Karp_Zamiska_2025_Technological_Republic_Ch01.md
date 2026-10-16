@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Techno-Utopianism]]"
   - "[[Other Transaction Authority]]"
   - "[[Artificial General Intelligence]]"
+  - "[[Performativity]]"
   - "[[Red Tape]]"
   - "[[Problem Solving]]"
   - "[[Research Translation]]"
@@ -80,7 +81,7 @@ sources:
 part_of: "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch01
 
@@ -259,7 +260,7 @@ updated: 2026-10-08
 
 > [!pathways] 重构技术共和国的双向行动路径
 > - **科技产业的公共责任回归** 软件与算法精英打破商业中立幻象，将工程智力重新投入国家防卫、战略基础设施与重大社会治理挑战。（pp. 10–11）
-> - **公共部门吸纳工程组织文化** 政府机构引入注重实战结果、摒弃表演性[[Red Tape|繁文缛节]]、赋权一线[[Problem Solving|问题解决]]者并建立领导者真实责任担当的组织运作逻辑，彻底消灭阻碍[[Research Translation|技术转化]]的[[Innovation Desert|创新荒漠]]。（pp. 14–15）
+> - **公共部门吸纳工程组织文化** 政府机构引入注重实战结果、摒弃[[Performativity|表演性]][[Red Tape|繁文缛节]]、赋权一线[[Problem Solving|问题解决]]者并建立领导者真实责任担当的组织运作逻辑，彻底消灭阻碍[[Research Translation|技术转化]]的[[Innovation Desert|创新荒漠]]。（pp. 14–15）
 
 ---
 

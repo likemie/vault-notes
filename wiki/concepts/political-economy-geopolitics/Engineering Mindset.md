@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它打破了官僚体制的避险合规与程序虔敬迷思，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Pecking Order]]"
   - "[[Epoché]]"
   - "[[Founder Culture]]"
+  - "[[Performativity]]"
   - "[[Predictive Policing]]"
   - "[[Blackstone's Ratio]]"
   - "[[Man-Computer Symbiosis]]"
@@ -274,7 +275,7 @@ updated: 2026-10-16
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **实效伦理与创始人文化跨越荒漠断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，工程思维在公共治理中的核心价值在于确立了以**客观实效**为最高准绳的行动伦理：
-> 1. **以实质痛苦消减为伦理判准** 工程师的最高道德使命在于以可验证的技术方案减少真实世界中的饥饿、暴力、疾病与教育匮乏，坚决抵制文化精英坐在安全距离外发表道德说教的奢侈信念与表演性道德主义；
+> 1. **以实质痛苦消减为伦理判准** 工程师的最高道德使命在于以可验证的技术方案减少真实世界中的饥饿、暴力、疾病与教育匮乏，坚决抵制文化精英坐在安全距离外发表道德说教的奢侈信念与[[Performativity|表演性]]道德主义；
 > 2. **创始人文化重构公共行政** 面对公共部门因人事规章束缚与避险[[Bureaucracy|官僚制]]造成的[[Innovation Desert|创新荒漠]]，必须将工程界的“创始人文化”注入公共机构——选拔具有利益绑定（Skin in the game）与决断魄力的领导者，以端到端交付与系统构建取代形式主义合规；
 > 3. **法治保障与工程干预的辩证统一** 在[[Predictive Policing|预测性警务]]与民生大数据应用中，工程思维不回避[[Blackstone's Ratio|布莱克斯通比率]]（Blackstone's Ratio）对保护无辜者的法治要求，但坚决拒绝因噎废食，主张通过[[Man-Computer Symbiosis|人机协同]]软件在捍卫公民权利的同时积极挽救濒临暴力边缘的生命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 165–178)]]
 

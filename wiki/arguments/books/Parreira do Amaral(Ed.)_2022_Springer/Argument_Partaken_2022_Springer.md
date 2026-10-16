@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Panopticism]]"
   - "[[Network Society]]"
   - "[[Clash of Civilizations]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -100,7 +101,7 @@ citation_aliases:
 > 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
-> - Foucault 的全景敞视主义 — 分析监视如何通过"永久可见性"自动运行权力
+> - Foucault 的[[Panopticism|全景敞视主义]] — 分析监视如何通过"永久可见性"自动运行权力
 > - Freire 的被压迫者教育学 — 分析[[Forced Knowledge Transfer\|强制知识转移]]中的权力梯度
 > - Nagel 的 concealment/exposure 概念 — 分析破坏知识中的双重操控
 
@@ -211,7 +212,7 @@ Partaken 将中美技术紧张作为整个论证的经验验证案例嵌入此�
 - 美国模式(Snowden, 2019 揭露)：全球大规模监视在公众不知情、更不用说同意的情况下运作，违反联邦宪法，"对普通公民的侵害超过对真正罪犯"(p.81)。
 - 中国模式：[[China Social Credit System|社会信用体系]]——大数据被用于公民行为的永久性评估，"根据个人累积评分，公民被允许或禁止旅行，其子女被允许或拒绝获得优质教育"(p.81)。
 
-Partaken 在此援引 Foucault《[[Disciplina and Doctrina|规训]]与惩罚》(1995)中 Bentham 全景敞视监狱的核心洞察来分析两种模式共享的运作逻辑："有意识和永久性可见的状态确保权力自动运行……监视在其效果上是永久性的，即使其行动是间断的"(p.201, 引自 p.81)。因此，国家支持的全民监视的"最严重损害"不是曝光了多少信息，而是"以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的[[Virtue-Oriented Learning Process|美德导向]]价值论的贬低"(p.81)。
+Partaken 在此援引 Foucault《[[Disciplina and Doctrina|规训]]与惩罚》(1995)中 Bentham [[Panopticism|全景敞视]]监狱的核心洞察来分析两种模式共享的运作逻辑："有意识和永久性可见的状态确保权力自动运行……监视在其效果上是永久性的，即使其行动是间断的"(p.201, 引自 p.81)。因此，国家支持的全民监视的"最严重损害"不是曝光了多少信息，而是"以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的[[Virtue-Oriented Learning Process|美德导向]]价值论的贬低"(p.81)。
 
 **模态四：审查（§5.6.5）**
 

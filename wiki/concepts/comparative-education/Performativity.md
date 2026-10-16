@@ -3,56 +3,80 @@ title: Performativity
 aliases:
   - 操演性
   - 绩效性
-summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
+  - 表演性
+  - 表演性危机
+  - terrors and fabrications
+summary: "Lyotard 提出的输入输出效率原则与 Ball 发展的教育治理规训技术，要求社会系统与教育主体不断优化表现并以高度可见的方式生产合规证明，在微观上导致专业道德空心化与表演性危机，在宏观上驱动全球政策网络的话语空洞化与实用主义联盟"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 47
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/global-education-governance
   - theme/network-society
   - theory/postmodernism
+  - performativity
+  - labor-process
 related_concepts:
-  - "[[Pragmatic Paradigm]]"
-  - "[[Commensuration]]"
-  - "[[Discourse]]"
-  - "[[Performativity of Measurement]]"
-  - "[[Knowledge Production]]"
-  - "[[Policy Science in Comparative Education]]"
-  - "[[Praxis]]"
-  - "[[Policy Network]]"
-  - "[[Global Policy Space]]"
-  - "[[Floating Signifier]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Performance Indicators]]"
-  - "[[Paradigm]]"
-  - "[[Network Governance]]"
+  - "[[Commensuration]]"
+  - "[[Ontology]]"
+  - "[[Policy Network]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[New Managerialism]]"
+  - "[[Neo-Taylorism]]"
+  - "[[Learning Intentions]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Institutional Displacement]]"
+  - "[[Learning Gain]]"
+  - "[[Reliability]]"
+  - "[[Strategic Compliance]]"
+  - "[[Pride in Learning]]"
+  - "[[Discourse]]"
+  - "[[Policy Mobility]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Floating Signifier]]"
+  - "[[Operationalization]]"
   - "[[Space of Flows]]"
+  - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Success Criteria]]"
+  - "[[School Inspection]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Lifelong Learning]]"
+  - "[[Attrition]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Soft Power]]"
 related_theories:
-  - "[[Network Society]]"
   - "[[Post-structuralism]]"
+  - "[[Network Society]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Correlational Research]]"
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
-  - "[[Ray Pawson]]"
-  - "[[Manuel Castells]]"
   - "[[Stephen Ball]]"
   - "[[Jason Beech]]"
+  - "[[Ray Pawson]]"
+  - "[[Manuel Castells]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Partaken_2022_Springer]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Performativity
@@ -62,119 +86,132 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **操演性/绩效性（Performativity）** 最初是由[[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以“输入/输出逻辑”为核心的社会运作与知识合法化原则，其终极目标是优化系统表现。在教育政策治理研究中，操演性是指机构或行动者为了在[[Network Society\|网络社会]]中获取并维持主导地位，必须使其绩效表现**高度可见**，并以**影响力广度**（如政策采纳率、数据引用率）作为评估成效的核心机制，这导致了[[Pragmatic Paradigm\|实用主义]]联盟压倒意识形态的政治逻辑。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 352–353]])
+> **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观[[Disciplina and Doctrina|规训]]技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
 
-> [!concept-lens] 概念透镜
-> - **指向机制** 操演性指向评估逻辑对社会关系的渗透。它强制要求系统成员不断生产出可[[Commensuration\|通约]]的绩效证明，并将“可见的绩效”等同于“实际的价值”。
-> - **研究用途** 帮助研究者透视超国家教育组织（如 [[OECD]]、[[World Bank\|世界银行]]）通过数据发布和排名确立地缘政治权威，以及政策行动者如何在不具意识形态共识的情况下结成临时协作网。
-> - **边界** 它描述的是宏观与中观层面的治理机制与系统规则，侧重于评估环境对行动者身份和[[Discourse|话语]]特征的形塑，不适合解释微观课堂中具体的教学策略或单纯的方法论测量偏差。
-
-> [!citation-card]- 关键表述 利奥塔原初定义
-> “绩效性原则意味着输入与输出的逻辑，其终极目标是优化特定社会系统的表现。这一原则对社会关系的渗透带来某种程度的恐怖，可以用这句话来表达：‘要么可操作（即可通约），要么消失’。”
-> 
-> *“The principle of performativity implies a logic of input/output in which the final objective is to optimise the performance of a given social system. The pervasion of this principle through social relations implies a certain level of terror expressed in the phrase 'be operational (that is, commensurable) or disappear'.”* — (Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, p. 352]])
-
-> [!boundary]- 概念边界 辨析与局限
-> - **不等于 [[Performativity of Measurement]]** 后者属于方法论和测量技术范畴，专指测量行为本身反向塑造和干扰被测量对象行为的反应性现象；而本条目的操演性属于社会理论和教育政策社会学，讨论的是后现代[[Knowledge Production\|知识生产]]的合法化规则和网络空间的生存博弈。
-> - **不等于 Butler 的表演性（Performative）** 后者属于性别研究与[[Post-structuralism\|后结构主义]]主体建构理论，探讨主体身份如何通过身体与言语碎片的重复操演被建构出来；而本条目侧重于[[Policy Science in Comparative Education\|政策科学]]、新自由主义审计文化下的系统治理技术。
+> [!concept-lens] 双层分析透镜
+> - **宏观系统与全球网络层面** 操演性表现为后工业系统与[[Policy Network|全球政策网络]]的准入与存续法则：凡是不能用输入/输出指标与可见成果证明自身效能的机构都面临被网络边缘化排除的系统恐怖，促使国际组织（如 [[OECD]]、[[World Bank|世界银行]]）超越意识形态分歧结成[[Pragmatic Paradigm|实用主义]]同盟，竞相生产高度抽象、去情境化的政策报告（[[Argument_Beech_2009_CE|Beech, 2009a]]）。
+> - **中观学校与微观劳动过程层面** 操演性表现为[[New Managerialism|新管理主义]]与[[Neo-Taylorism|新泰勒主义]]的控制工具：将复杂的师生育人过程降格为对照核查清单的操作（如强制白板张贴[[Learning Intentions|学习意图]]），使教师从具有情境判断力的专业主体异化为应付督导检查的流水线演员（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–30]]）。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
-> | 维度 | 治理操演性（Performativity in Governance） | 测量操演性（[[Performativity of Measurement]]） | 身份表演性（Performative Gender/Identity） |
-> |------|--------|----------------|----------------|
-> | **分析对象** | 后现代社会系统的合法化逻辑与网络空间治理规则。 | 教育评价与统计测量技术对[[Praxis\|实践]]行为的扭曲。 | 个体主体性与社会身份（如性别）的生成机制。 |
-> | **核心机制** | 可见性强制、输入输出优化、[[Pragmatic Paradigm\|实用主义]]联盟。 | 测量指标替代实际目标，如“为考试而教”（Washback）。 | 言语行为的重复实施，通过模拟和操演建构实体。 |
-> | **代表学者** | 让-弗朗索瓦·利奥塔（[[Jean-François Lyotard]]）、斯蒂芬·鲍尔（Stephen Ball） | 戴维·科恩（David Cohen）、[[Ray Pawson\|雷·波森]]（Ray Pawson） | 朱迪斯·巴特勒（Judith Butler）、雅克·德里达（Jacques Derrida） |
-> | **教育应用** | [[Policy Network\|全球政策网络]]的话语流通、绩效评估体系的“恐怖”机制。 | 大学排名、标准化考试的非意图后果（Goodhart定律）。 | 课堂教学中师生多元性别身份的[[Discourse\|话语]]建构与协商。 |
+> [!contrast-table] 治理表演性与临近概念的四维区隔
+> | 比较维度 | 治理与劳动表演性（Performativity in Governance & Labor） | 测量反应性（[[Performativity of Measurement]]） | 身份操演性（Performative Identity / Gender） | 科学管理控制（[[Neo-Taylorism]]） |
+> |---|---|---|---|---|
+> | **分析层次** | 教育社会学、政策哲学与微观劳动过程理论。 | 计量社会学、方法论与量化评价技术。 | 语言哲学、性别研究与[[Post-structuralism\|后结构主义]]。 | 产业劳动过程理论、管理学与科层[[Disciplina and Doctrina\|规训]]。 |
+> | **核心机制** | 可见性强制、审计恐怖、数据捏造与合规表演。 | 指标扭曲行为（Goodhart 定律 / 坎贝尔定律）。 | 言语行为与身体碎片的重复操演以建构实体主体。 | 动作分解、工时测定、技术清单与管理层集权。 |
+> | **代表学者** | [[Stephen Ball]]、[[Jean-François Lyotard]]、[[Jason Beech]] | 戴维·科恩（David Cohen）、[[Ray Pawson]] | 朱迪斯·巴特勒（Judith Butler）、德里达 | 弗雷德里克·泰勒（F. W. Taylor）、Eacott |
+> | **典型表征** | 白板硬性打卡检查、督导前的表面材料包装秀。 | “为考试而教”（Washback 效应）、应试操纵。 | 课堂中师生多元性别与文化认同的仪式化再生产。 | 将教学比附为外科手术或高山救援的机械清单。 |
 
 ---
 
-## 核心要素
+## 核心机制与理论要素
 
-> [!feature] 核心要素
-> - **表现可见性要求（Visibility Requirement）** 参与[[Global Policy Space\|全球政策空间]]的网络成员必须持续生产并展示其成果，使绩效表现高度可见。在这种规则下，不可见的表现等同于“不存在”，这迫使全球教育机构大量生产报告、排名与政策宣言，将其作为获取合法性的生存工具。
-> - **影响力广度为评估标准（Breadth of Influence）** 表现的核心评估标准是影响范围的广度，而非影响的深度。这倒逼网络节点去剥离具体的历史情境，转而生产高度抽象且去语境化的“[[Floating Signifier\|漂浮能指]]”[[Discourse|话语]]。
-> - **[[Pragmatic Paradigm\|实用主义]]压倒意识形态（Pragmatic Alliances）** 操演性的效率驱动使得行动者在选择盟友时，首要考量是网络合作能否最大化地提升自身的生存能见度与影响力，意识形态的契合度退居其次。这导致原本在立场上对立的组织会结成临时的、去意识形态的绩效同盟。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 352–353]])
-
-> [!logic-map]- 要素关系
+> [!logic-map] 表演性治理的生成机制与实践异化路径
 > ```mermaid
 > flowchart TD
->     A["操演性原则 (效率/投入产出逻辑)"] --> B["表现可见性强制"]
->     A --> C["影响力广度评估"]
->     B --> D["机构持续产出 (报告/指标/排名)"]
->     C --> E["去语境‘漂浮能指’话语生产"]
->     D & E --> F["网络生存与地位维持"]
->     F --> G["实用主义联盟压倒意识形态"]
+>     A["外部问责压力与效率原则 (Lyotard)"] --> B["可见性与通约性强制要求"]
+>     B --> C["管理指标考核与排行竞赛 (Ball)"]
+>     C --> D["捏造文化 (Fabrications) 与表演性危机"]
+>     D --> E1["微观：教师专业自主萎缩与职业倦怠 (Johnson)"]
+>     D --> E2["宏观：去情境化漂浮能指与实用主义联盟 (Beech)"]
 >     
 >     style A fill:#dbeafe,stroke:#2563eb,stroke-width:2px
->     style G fill:#fee2e2,stroke:#dc2626,stroke-width:2px
+>     style D fill:#fee2e2,stroke:#dc2626,stroke-width:2px
+>     style E1 fill:#fef3c7,stroke:#d97706,stroke-width:2px
 > ```
 
----
-
-## 围绕概念形成的命题
-
-### 命题类型一：操演性逻辑下的系统恐怖与网络排除机制（Terror & Exclusion）
-
-> [!concept-lens] 绩效评估的[[Disciplina and Doctrina\|规训]]压迫
-> 该命题关注操演性原则作为一种无声的行政技术，如何通过将社会关系重构为“可[[Commensuration\|通约]]的数字/指标”，对行动者实施规训，并排除无法被指标化的实践。
-
-> [!claim] [[Jean-François Lyotard\|Lyotard, J. F.]]
-> 操演性在渗透社会关系时会施加一种“系统恐怖”——“要么可操作（即可通约），要么消失”。凡是不能用输入/输出指标、数字和可见表现证明自身效率的知识形态或社会机构，都将被系统视作无用而予以边缘化。(Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, p. 352]])
-
-> [!claim] [[Manuel Castells\|Castells, M.]]
-> [[Network Society\|网络社会]]遵循纳入与排除的二元逻辑。随着操演性原则在网络空间中成为绝对的编程指令，不能优化输出或失去可见影响力的节点将被网络自动重组、绕过和排除，网络成员时刻面临被边缘化的生存恐慌。(Castells, 2000c, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, pp. 350–351]])
-
-> [!claim] [[Stephen Ball\|Ball, S.]]
-> 在微观教育治理中，绩效性是一套重新定义教师专业身份的规训技术。它导致了“恐怖与捏造”（terrors and fabrications）现象：教师与学校被迫把精力集中在生产应付审计的绩效数据和外在质量展示上，从而造成专业道德的空心化和主体身份的自我撕裂。
+> [!dimension] 表演性治理的四大构成要素
+> - **表现的绝对可见性要求（Visibility Imperative）**
+>   在绩效主义网络中，未经量化和展示的教学与研究被视作不存在。学校和教师必须持续不断地向外界呈现其优异产出，将真实的育人过程转化为能够被远程审查的数字足迹与可视景观。
+> - **指标替代实质价值的[[Commensuration|通约化]]（Commensuration [[Institutional Displacement|displacement]]）**
+>   复杂、情境化的人格滋养与伦理关怀被排除在审计视野之外，取而代之的是标准测验成绩、增值评分（[[Learning Gain]]）与达标率等单一指标，造成高效度牺牲换取高[[Reliability|信度]]的测量陷阱。
+> - **恐怖与捏造的防卫性适应（Terrors and Fabrications）**
+>   面对排名垫底和资金削减的高利害风险，学校与教师被迫采纳[[Strategic Compliance|策略性合规]]机制，花费海量工时精心制作符合评估标准的虚假档案与橱窗展示（Window Dressing），专业[[Pride in Learning|自豪]]感被欺瞒自责所侵蚀。
+> - **[[Pragmatic Paradigm|实用主义]]同盟与[[Discourse|话语]]空洞化（Pragmatic Alliances & Floating Signifiers）**
+>   在宏观[[Policy Mobility|政策流动]]中，操演性以影响力广度为第一诉求，迫使相互竞争甚至意识形态对立的机构结成去政治化的实用主义网络，批量生产像[[21st Century Skills and Competencies Discourse|核心素养]]、循证实践等缺乏实质约束力的跨国[[Floating Signifier|漂浮能指]]。
 
 ---
 
-### 命题类型二：影响力广度驱动下的实用主义联盟与话语空虚化（Pragmatism & Floating Signifiers）
+## 围绕概念形成的命题与理论论战
 
-> [!concept-lens] 影响力扩散对教育价值的重塑
-> 该命题关注操演性以“影响力广度”为评估导向，如何瓦解传统的意识形态对抗，并将具体的教育主张改造为缺乏实质内涵、方便跨语境移植的空洞口号。
+### 命题一：操演性逻辑下的系统恐怖与网络空间排除机制
 
-> [!claim] [[Jason Beech\|Beech, J.]]
-> 在[[Global Policy Space\|全球政策空间]]中，操演性迫使多元行动者以[[Pragmatic Paradigm\|实用主义]]逻辑取代意识形态原则。为了在流动网络中扩大自身能见度，不同机构会围绕特定的抽象词汇（如“能力发展”、“尊重多样性”）建立起超越意识形态壁垒的“空洞联盟”，导致教育政策文本呈现为革新与保守主张拼贴而成的混合物。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 352–353]])
+> [!claim] 系统恐怖与要么操作要么消失的生存困境（Lyotard, 1984；Castells, 2000）
+> [[Jean-François Lyotard|利奥塔]]确立了现代社会系统操演性的无情法则：系统为了最大化输入/输出比，对所有社会关系施加[[Commensuration|通约化]][[Disciplina and Doctrina|规训]]。凡是拒绝被标准化[[Operationalization|操作化]]的实践形态，都会被系统判定为无效冗余并予以剔除。卡斯特指出，在[[Network Society|网络社会]]的[[Space of Flows|流动空间]]中，这一逻辑演变为排他的二元编码——无法在可见性排名中提供优异指标的节点，将被网络算法自动绕过与物理切断，引发全景式的生存恐慌。
+
+### 命题二：微观劳动过程的控制与教师专业灵魂的资产负债表
+
+> [!critique-logic] 恐怖与捏造：专业道德空心化与表演性分裂（Ball, 2003）
+> [[Stephen Ball|斯蒂芬·鲍尔]]将分析视角下沉至学校现场：绩效性并非中立的管理工具，而是一种旨在重塑教师灵魂的深层规训技术。
+> - **多重评价目光的撕裂** 教师不再依据内在教育信念与学生真实需要施教，而是时刻被置于外部巡检员、家长评价、学生评分以及同行攀比的多重凝视之下。
+> - **真实性与表演性的断裂** 教学实践演变为一场展示专业性的戏剧表演，真正的[[Professional Judgment|专业判断]]让位于对达标证据的虚构。这种内在信念与外在履约之间的长期背离，使教师陷入深刻的精神分裂与道德痛苦。
+
+### 命题三：工业清单移植与形式主义打卡诱发的基层表演性危机
+
+> [!critique-logic] [[Neo-Taylorism|新泰勒主义]]与形式主义板书打卡的实践异化（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–30]]）
+> 约翰逊与詹岑结合澳大利亚维多利亚州推行《[[Visible Learning|可见的学习]]》高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的实证案例，揭示了表演性在当代[[Evidence-Based Education|循证教育]]改革中的具体变体：
+> - **白板打卡与巡检问责** 教师被行政命令强制要求在上课铃响前必须在教室白板上端正抄写当堂课题与[[Learning Intentions|学习意图]]（Learning Intentions and [[Success Criteria]]），否则在行政巡堂中便会被扣分问责。这一规定将丰富的教学导入矮化为僵化的形式主义打卡。
+> - **同行信任瓦解与教师倦怠** 当教学质量被等同于是否执行了规定清单时，教师根据课堂现场氛围机智施教的专业能动性被彻底剥夺，学校内部的同僚合作信任让位于对合规证据的防卫性自保，诱发大面积的教师流失与职业倦怠（Lilley, 2022; Wescott, 2022）。
+
+### 命题四：视觉霸权与数据成瘾驱动的本体论不安全感
+
+> [!critique-logic] 数据成瘾与文化政治维度的景观操演（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, pp. 34–42]]）
+> 视觉作为主导性与殖民性感官，构建出全景式互相窥视的监控文化。教育系统沉溺于国家测试分数与排行榜的瞬间结果，将无法量化的关怀伦理推向边缘；教师始终处于随时被审查的[[Ontology|本体论]]不安全（Ontological Insecurity）状态，迫使教师将教学简化为迎合数字指标的被动防御。
 
 ---
 
-### 命题总览
+## 命题总览
 
-> [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> [!contrast-table] 表演性理论命题与学术谱系归纳
+> | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
 > |---|---|---|---|
-> | **系统恐怖与排除机制** | 无法被[[Performance Indicators\|绩效指标]]量化与展示的节点在网络中将面临被排除和淘汰的风险，引发审计恐慌。 | 超国家机构排名竞争、学校绩效问责、教师日常审计。 | Let-François Lyotard; Manuel Castells; Stephen Ball |
-> | **实用主义联盟与[[Discourse\|话语]]空虚化** | 以影响力广度为导向，促使行动者搁置意识形态分歧结成项目联盟，迫使政策话语脱离具体历史经验而空洞化。 | [[Policy Network\|全球政策网络]]的话语生产、跨国教育项目的混合话语分析。 | Jason Beech |
+> | **命题一：系统恐怖与网络排除** | 操演性作为系统准入指令，将不可[[Commensuration\|通约]]的教育价值系统性排除在网络之外 | 输入/输出效率法则、网络节点二元排除、通约化暴力 | [[Jean-François Lyotard\|Lyotard (1984)]]；[[Manuel Castells\|Castells (2000)]] |
+> | **命题二：灵魂侵蚀与数据捏造** | 绩效审计文化迫使教师生产合规证明，导致专业道德空心化与自我撕裂 | 恐怖与捏造（Fabrications）、多重评价凝视、专业灵魂账本 | [[Stephen Ball\|Ball (2003)]] |
+> | **命题三：清单管理与打卡异化** | 机械清单与行政监控软件将复杂育人活动矮化为白板打卡与表演性过关 | [[Victorian HITS and Literacy Toolkit\|HITS]] 策略强制打卡、[[Assessment Tools for Teaching and Learning\|asTTle]] 监控原型、专业自主权剥离 | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]；Lilley (2022) |
+> | **命题四：视觉霸权与数据成瘾** | 视觉中心主义使教育系统陷入追逐极端量化指标的数据成瘾与[[Ontology\|本体论]]危机 | [[Panopticism\|全景敞视]]目光、本体论不安全、不可度量情感关怀边缘化 | [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] |
+> | **命题五：[[Discourse\|话语]]空洞与[[Pragmatic Paradigm\|实用主义]]** | 影响力广度导向促使组织结成去意识形态的绩效联盟，生产通用[[Floating Signifier\|漂浮能指]] | [[Policy Network\|政策网络]][[Space of Flows\|流动空间]]、漂浮能指拼接、无实质内涵联盟 | [[Argument_Beech_2009_CE\|Beech (2009a)]] |
 
 ---
 
-## 概念演变
+## 典型应用案例
 
-> [!dev-timeline] 概念演变
-> - **1979/1984 — 知识合法性[[Paradigm\|范式]]确立** [[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]在《后现代状况》中正式提出“操演性”概念。他诊断后工业社会中，知识的合法化基础不再是真理或解放，而是其提升系统表现的效率，实现了从“真理导向”向“效率导向”的重大转变。(Lyotard, 1984, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, p. 352]])
-> - **2003 — 教育审计文化批判** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）发表《专业灵魂的资产负债表》（*The Teacher's Soul and the Terrors of Performativity*），将绩效性引入教育社会学微观透视。他揭示了学校如何成为绩效审计文化下的“捏造机器”，以及教师专业伦理在数字指标监控下面临的结构性摧残。
-> - **2009 — 全球教育政策空间治理分析** 杰森·毕奇（[[Jason Beech]]）在《比较教育》中将操演性引入宏观[[Network Governance\|网络治理]]分析。他结合 Castells 的空间/网络理论，阐明在[[Space of Flows\|流动空间]]主导的[[Policy Network\|全球政策网络]]中，操演性如何作为网络自我重组和[[Discourse|话语]]（如“能力”、“多样性”）抽象流通的驱动力。([[Argument_Beech_2009_CE\|Beech, 2009a]])
+> [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 政策与课堂白板打卡异化
+> 维多利亚州教育部依据《[[Visible Learning|可见的学习]]》编制了高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求全州公立中小学严格对照执行。许多学校管理层为了应对区域绩效评估，出台了硬性规定：教师进教室第一件事必须在白板张贴标准化格式的学习目标，并向巡课视导人员出示对应的量化核查表。教师将此形容为把活生生的教学异化为舞台杂耍，一线教师被迫在形式主义表演与真实学生关怀之间疲于奔命（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
+
+> [!case] 英国：[[Ofsted]] [[School Inspection|学校督导]]与捏造文化的制度化
+> 英国教育标准局（[[Ofsted]]）的高利害学校督导与学校绩效排名表（[[Global Universities Rankings|league tables]]）是全球表演性治理的典型温床。[[Stephen Ball|斯蒂芬·鲍尔]]的研究记录了学校在面临督导检查时全员进入战备表演状态：教师通宵改写教案、统一制作符合督导标准的评语模板、将学习困难学生调离公开视察课堂。学校投入巨量公共资源生产光鲜的合规幻象，教学的实质价值却遭到系统性破坏（Ball, 2003）。
+
+> [!case] [[Policy Network|全球政策网络]]：国际组织跨国[[Discourse|话语]]的去情境化生产
+> 杰森·毕奇（[[Argument_Beech_2009_CE|Beech, 2009a]]）剖析了操演性如何主导国际组织的话语生产。为了在国际竞争中最大化政策成果的引用广度，[[OECD|经合组织]]（[[OECD]]）与[[World Bank|世界银行]]不再探讨具体的历史文化与社会制度，而是发明诸如[[Lifelong Learning|终身学习]]、基于能力的教育等高度抽象的话语。这些话语因其内涵空洞而能被任何国家的政客任意挪用，使国际[[Policy Mobility|政策流动]]蜕变为跨国话语的表演性循环。
 
 ---
 
-## 争议与批评
+## 关键引用
 
-> [!critique] 外部批评 专业灵魂的侵蚀
-> - **对教师专业精神的侵蚀** [[Stephen Ball\|斯蒂芬·鲍尔]]指出，绩效性导致了“捏造”（fabrication）文化。教师们被迫把大量精力用于制造能够向评估者证明“质量”的数据，合作关系被绩效考核驱动的竞争性嫉妒所替代，导致教育的实际体验被工具化数值所绑架。
-> - **教育多元价值的窒息** 毕奇指出，操演性以“影响力广度”作为评估标准，使得任何不能被跨语境通用、不能被标准化测量的教育哲学和本土经验被制度性忽视，从而导致了全球教育发展方案的单一化和本地意义的流失。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 352–353]])
+> [!citation-card] Lyotard 论绩效性原则与系统恐怖
+> 绩效性原则意味着输入与输出的逻辑，其终极目标是优化特定社会系统的表现。这一原则对社会关系的渗透带来某种程度的恐怖，可以用这句话来表达：要么可操作（即可[[Commensuration|通约]]），要么消失。（Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]）
+>
+> *“The principle of performativity implies a logic of input/output in which the final objective is to optimise the performance of a given social system. The pervasion of this principle through social relations implies a certain level of terror expressed in the phrase 'be operational (that is, commensurable) or disappear'.”*
 
-> [!warning] 适用局限 非万能解释工具
-> - 操演性理论偏向于批判新自由主义教育治理的负面异化效应，但在解释具体学校层面如何通过绩效管理在有限资源下优化教学资源分配、以及量化绩效在某些发展中地区教育质量托底中的正面功能时，该概念存在视角盲区。
+> [!citation-card] Ball 论表演性作为[[Disciplina and Doctrina|规训]]技术与专业灵魂的侵蚀
+> 表演性是一种纪律、一种技术、一种压迫的形式……它要求教师和学校不断生产关于自身产出的证据与数据。结果是捏造的盛行——制造用于外部消费的专业外观，以掩盖真实的日常实践。在这个过程中，教育者的专业灵魂遭受了深重创伤。（Ball, 2003, pp. 215–216）
+>
+> *“Performativity is a technology, a culture and a mode of regulation that employs judgements, comparisons and displays as means of incentive, control, [[Attrition]] and change... The terrors of performativity produce fabrications—spectacles of [[Strategic Compliance|compliance]] produced for external consumption.”*
+
+> [!citation-card] Johnson & Janzen 论维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 策略诱发的表演性打卡危机
+> 当教学策略被强制固化为机械的核查清单时，一线教育不可避免地滑向鲍尔所指出的表演性危机。在澳大利亚维多利亚州，教师被硬性要求在上课铃响前必须在白板上完整写出[[Learning Intentions|学习意图]]，否则在行政常规检查中便会遭受批评。这种僵化的量化打卡不仅摧毁了教师根据现场生发灵感教学的自主权，更使教学实践彻底异化为追求形式主义合规的技术表演。（[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]）
+>
+> *“The reliance on rigid checklists inevitably induces what [[Stephen Ball]] termed the crisis of performativity. In Victoria, Australia, teachers face punitive administrative monitoring if learning intentions and [[Success Criteria]] are not displayed on whiteboards before the bell rings, reducing the nuanced art of pedagogy into a hollow spectacle of compliance.”*
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织[[Discourse|话语]]生产与临时联盟的底层逻辑。
-> - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）语境中，运用操演性与效率逻辑，分析了[[Soft Power\|软实力]]话语与“科学知识”通过国家与产业赞助合法化的深层机制。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织[[Discourse|话语]]生产与临时联盟的底层逻辑。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 揭露可见学习商业体系如何依托新泰勒制清单与 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件，在课堂一线诱发白板打卡等表演性危机。
+> - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学视角解构可见学习对量化结果的数据成瘾与教师的[[Ontology|本体论]]不安全感。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge|知识地缘政治]]语境中，运用操演性与效率逻辑，分析科学知识通过产业赞助合法化的深层机制。
+> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州推行高影响力教学策略（HITS）并导致白板形式主义打卡的经典政策实践案例。

@@ -5,7 +5,7 @@ aliases:
 summary: "在测量、问责和经济竞争逻辑下，教育内容被拆分为可评估、可比较和可交易的小单位，用于描述课程知识与技能的碎片化组织方式。"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Performativity of Measurement]]"
+  - "[[Performativity]]"
   - "[[Complexity Reduction]]"
   - "[[Epochal Key Problems]]"
   - "[[Bildung]]"
@@ -66,7 +67,7 @@ updated: 2026-10-16
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Performativity of Measurement]] — 测量的表演性强调测量如何制造世界；知识与技能原子化强调测量和问责如何把教育内容拆成可治理的碎片。
+> - vs [[Performativity of Measurement]] — 测量的[[Performativity|表演性]]强调测量如何制造世界；知识与技能原子化强调测量和问责如何把教育内容拆成可治理的碎片。
 > - vs [[Complexity Reduction]] — 复杂性化简是治理系统减少选项以提高可预测性的过程；知识原子化是这种化简在课程和学习内容层面的表现。
 > - vs [[Epochal Key Problems]] — 时代关键问题把课程组织在复杂公共问题周围；知识原子化则把这些问题拆成可评估的技能项目，削弱其规范性和公共性。
 > - vs [[Phenomenon-Based Learning]] — PhBL 的整体取向试图把学科知识、生活世界和复杂问题重新连接起来；知识原子化则把这些关系拆散为可测单位([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-11]])。

@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15"
 argument_display_title: "“Into the Desert”"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Technological Escapism]]"
   - "[[Predictive Policing]]"
   - "[[Engineering Mindset]]"
+  - "[[Performativity]]"
   - "[[Reliability]]"
   - "[[Demonstration Effect]]"
   - "[[Public Value]]"
@@ -110,7 +111,7 @@ updated: 2026-10-16
 >
 > - **炫耀性信念的阶层转嫁与以创始人文化重铸技术共和国**
 >
->   引入亨德森的炫耀性信念概念与专栏作家戴维·布鲁克斯（David Brooks）的阶层批判，指出抵制警务科技是特权阶层低成本炫耀道德地位、转嫁治安恶果的特权产物；结合佩吉·努南（Peggy Noonan）关于建制派审美偏见的洞察，批判拒绝政治对话的傲慢；提出必须以讲求实战成果（减少饥饿、犯罪与疾病）的[[Engineering Mindset|工程思维]]取代表演性道德主义，在政府治理中引入权责对称的[[Founder Culture|创始人文化]]与所有权社会（pp. 177–178）。
+>   引入亨德森的炫耀性信念概念与专栏作家戴维·布鲁克斯（David Brooks）的阶层批判，指出抵制警务科技是特权阶层低成本炫耀道德地位、转嫁治安恶果的特权产物；结合佩吉·努南（Peggy Noonan）关于建制派审美偏见的洞察，批判拒绝政治对话的傲慢；提出必须以讲求实战成果（减少饥饿、犯罪与疾病）的[[Engineering Mindset|工程思维]]取代[[Performativity|表演性]]道德主义，在政府治理中引入权责对称的[[Founder Culture|创始人文化]]与所有权社会（pp. 177–178）。
 
 ---
 
@@ -269,7 +270,7 @@ updated: 2026-10-16
 
 重构现代[[Technological Republic|技术共和国]]，必须彻底摆脱空洞的口号表演，将崇尚实效、责任对称的工程精神深度植入国家治理机制。
 
-> [!contrast-table] 表演性道德主义与工程实效治理[[Paradigm|范式]]的对比
+> [!contrast-table] [[Performativity|表演性]]道德主义与工程实效治理[[Paradigm|范式]]的对比
 > | 比较维度 | 表演性道德主义 | 工程[[Output-Oriented Governance\|结果导向治理]] |
 > |:---|:---|:---|
 > | **最高衡量准绳** | 象征性口号胜利、政治言辞合规与道德优越感展示 | 人民生活质量的实质改善（减少饥饿、降低犯罪、消灭疾病） |

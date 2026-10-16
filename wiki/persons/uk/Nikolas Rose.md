@@ -8,7 +8,7 @@ summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -151,7 +152,7 @@ updated: 2026-10-16
 > > 争论的核心在于高级自由主义的[[Governing at a Distance|远处治理]]网络是否真正如理论描述的那样滴水不漏地掌控了现代社会。
 > >
 > > - **结构性治理术批判视角（Rose et al.）** 强调量化监控、自我技术与审计文化的渗透力极其强大，能够将反抗意识反向收编为个体自我优化的新自由主义动力。
-> > - **文化抵抗与基层能动性学者** 批评该理论存在“全景敞视主义[[Causal Over-determination|过度决定]]论”倾向，忽视了一线实践者、边缘群体与工人在日常微观生活中持续展开的逃逸、嘲弄与反向颠覆。
+> > - **文化抵抗与基层能动性学者** 批评该理论存在“[[Panopticism|全景敞视主义]][[Causal Over-determination|过度决定]]论”倾向，忽视了一线实践者、边缘群体与工人在日常微观生活中持续展开的逃逸、嘲弄与反向颠覆。
 >
 > > [!axis] 心理学与神经科学的社会功能：纯粹控制工具还是个体赋权资源？
 > > 争论的核心在于心理咨询与脑科学的发展究竟是压抑性的社会控制装置，还是促进人类福祉的解放手段。

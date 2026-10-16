@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Interactional Expertise]]"
   - "[[Contributory Expertise]]"
   - "[[Epistemological Break]]"
+  - "[[Performativity]]"
   - "[[Reflective Thinking]]"
   - "[[Absorptive Capacity]]"
   - "[[Evidence-Informed Practice]]"
@@ -70,7 +71,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Monash Q Project
@@ -167,7 +168,7 @@ updated: 2026-10-15
 > > [[Questionnaire\|问卷调查]]与[[In-depth Interview\|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 184]]）
 >
 > > [!axis] 系统理性模型假设 vs 专长类型断裂与治理现实
-> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的表演性合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
+> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的[[Performativity|表演性]]合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
 
 > [!lessons] 经验教训与启示
 > - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的[[Path Dependence|路径依赖]]，必须将增量资源投向一线教师的[[Absorptive Capacity\|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
@@ -204,4 +205,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立高质量使用六大特征并量化检验榜样领导与时间赤字的决定性影响。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨卫生、社工、教育与政策四领域 112 篇核心文献[[Systematic Review\|系统综述]]，正式确立适切证据与审慎实施双核互构的 [[Quality Use of Research Evidence Framework\|QURE]] [[Analytic Framework\|分析框架]]。
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 运用专长社会学框架，对英格兰、苏格兰与德国汉堡基础教育[[Research Utilization\|研究使用]]展开跨国比较，批判 Q 项目等系统性模型所预设的理性乌托邦假定，揭示高利害市场化治理如何将证据异化为表演性合规工具。
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 运用专长社会学框架，对英格兰、苏格兰与德国汉堡基础教育[[Research Utilization\|研究使用]]展开跨国比较，批判 Q 项目等系统性模型所预设的理性乌托邦假定，揭示高利害市场化治理如何将证据异化为[[Performativity|表演性]]合规工具。

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_display_title: "“Piety and Its Price”"
 argument_kind: "book-chapter"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Paradigm]]"
   - "[[Red Tape]]"
+  - "[[Performativity]]"
   - "[[Sage]]"
   - "[[Competitiveness]]"
   - "[[Innovation Desert]]"
@@ -60,7 +61,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch16
 
@@ -120,7 +121,7 @@ updated: 2026-10-09
 将公职薪酬压低至严重脱离市场价值，在机制上阻断了普通工薪技术精英的从政道路。
 
 > [!claim] 公职薪酬扭曲与阶层垄断命题
-> 将公职薪酬人为压低到远离市场真实价值的水平，不仅无法实现选贤任能的初衷，反而造成了严重的逆向淘汰：它在制度上逼迫候选人必须在进入公共部门前先积累巨额财富，从而将国家治理演变为富豪阶层的志愿活动，或者促使缺乏资产的从政者将公职视为建立个人知名度的跳板，在任内热衷于激进的表演性政治，以便在卸任后通过游说、演讲和咨询实现商业变现（pp. 180–181）。
+> 将公职薪酬人为压低到远离市场真实价值的水平，不仅无法实现选贤任能的初衷，反而造成了严重的逆向淘汰：它在制度上逼迫候选人必须在进入公共部门前先积累巨额财富，从而将国家治理演变为富豪阶层的志愿活动，或者促使缺乏资产的从政者将公职视为建立个人知名度的跳板，在任内热衷于激进的[[Performativity|表演性]]政治，以便在卸任后通过游说、演讲和咨询实现商业变现（pp. 180–181）。
 
 > [!logic-map]- 公职低薪制对治理能力与人才结构的负向锁定机制
 > ```mermaid

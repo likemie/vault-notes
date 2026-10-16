@@ -49,6 +49,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Class Size]]"
   - "[[Business as Usual]]"
+  - "[[Performativity]]"
   - "[[Variable]]"
   - "[[New Public Management]]"
   - "[[Activity Traps]]"
@@ -72,7 +73,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Contributory Expertise]]"
-  - "[[Performativity]]"
   - "[[Methodological Nationalism]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -313,7 +313,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 
 > [!finding-cards] 循证学校把关人的四种证据转译形态
 > - **防御性合规采纳**
->   在以英格兰 [[Ofsted]] 为代表的高利害问责体制下，面临评级降级乃至接管危机，校长将采纳 [[Education Endowment Foundation\|EEF]] 权威证据标签作为自保徽章，追求快速见效且具备合法性防御的外挂方案（表演性合规）。
+>   在以英格兰 [[Ofsted]] 为代表的高利害问责体制下，面临评级降级乃至接管危机，校长将采纳 [[Education Endowment Foundation\|EEF]] 权威证据标签作为自保徽章，追求快速见效且具备合法性防御的外挂方案（[[Performativity|表演性]]合规）。
 > - **商业化外包采购**
 >   学校领导者因缺乏直接评估原始学术文献的时间与专长，高度依赖商业中介包装的现成循证产品（如 Thrive 等商业包），将校本证据解读职能实质性外包。
 > - **反思性校本研讨与同侪会商**
@@ -569,7 +569,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在[[Qualitative Research|质性研究]]设计中系统确立把关人的五项审查问题框架，将获得把关人批准定位为进入现场的关键前置步骤。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统探讨质性与[[Sensitive Research|敏感研究]]中的把关人机制，阐明准入谈判原则、非对称利害关系、六种风险防卫行为及担保人角色演变。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 将学校校长定性为教育变革把关人，实证检验其对 22 项治理工具的过滤态度，证实把关人价值认同对学校改进活动与微观工时配置具有强烈的塑造效应。
-> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 开展英德两国 20 所学校跨国质性比较，揭示外部高利害（[[Ofsted]]）与低利害（[[Institute for Educational Monitoring and Quality Improvement|IfBQ]]）治理问责体制如何决定学校把关人对研究证据的采纳模式（表演性合规 vs [[Reflexivity|反思性]]同侪会商）及教师专长发展。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 开展英德两国 20 所学校跨国质性比较，揭示外部高利害（[[Ofsted]]）与低利害（[[Institute for Educational Monitoring and Quality Improvement|IfBQ]]）治理问责体制如何决定学校把关人对研究证据的采纳模式（[[Performativity|表演性]]合规 vs [[Reflexivity|反思性]]同侪会商）及教师专长发展。
 > - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 提出政策生命周期把关人驱动证据权变假说，通过全美 [[Common Core State Standards|CCSS]] 政策推进的三阶段追踪，阐明议程设置、方案设计与法定采纳中政治领袖、专家工会与法定表决机构等制度把关人如何迫使实证证据从宏观象征符号向微观技术工具演化。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育五位置模型，揭示半外围国家身份重叠的跨国把关人群体如何通过科研资助与议程垄断闭合国家教育可思空间。
 

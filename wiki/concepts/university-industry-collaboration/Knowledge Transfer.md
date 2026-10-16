@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Systems of Innovation]]"
+  - "[[Panopticism]]"
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Effect Size]]"
@@ -173,7 +174,7 @@ updated: 2026-10-16
 > 批判后殖民研究长期将重心偏置于[[Knowledge Production\|知识生产]]的静态特征，确立知识运动与转移在权力宰制中的独立冲突源地位。
 
 > [!claim] [[Argument_Partaken_2022_Springer\|Partaken (2022)]]
-> **知识在运动中的地缘权力冲突** 知识一旦被生产即进入挪用与流通，成为生产者与获取者互动的客体。权力不仅是获取经济利益的工具，更是独立的冲突根源（Katz, 1965）。当代新自由全球化中的新殖民动力与地缘对抗，主要不是体现在知识是在何处被生产的，而是体现在知识在跨国流动中如何遭遇强制转移、国家支持的工业间谍、全景敞视式数据监视与审查阻断。知识转移本身构成了独立的地缘政治博弈[[Champ\|场域]]。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75, 84)]]
+> **知识在运动中的地缘权力冲突** 知识一旦被生产即进入挪用与流通，成为生产者与获取者互动的客体。权力不仅是获取经济利益的工具，更是独立的冲突根源（Katz, 1965）。当代新自由全球化中的新殖民动力与地缘对抗，主要不是体现在知识是在何处被生产的，而是体现在知识在跨国流动中如何遭遇强制转移、国家支持的工业间谍、[[Panopticism|全景敞视]]式数据监视与审查阻断。知识转移本身构成了独立的地缘政治博弈[[Champ\|场域]]。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75, 84)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Research Translation]]"
   - "[[Tracking]]"
+  - "[[Performativity]]"
   - "[[Lesson Study]]"
   - "[[Business as Usual]]"
   - "[[What Works Movement]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pupil Premium
@@ -182,7 +183,7 @@ updated: 2026-10-15
 > > - **[[Critical Pedagogy\|批判教育学]]者** 强调单纯依靠津贴转移支付而不触动文法学校体制是“治标不治本”的政治修辞。
 > > - **循证决策倡导者** 认为无论宏观制度如何，向最贫困学生精准追加资金并落实高效教学是当下最务实、最可操作的改良手段。
 >
-> > [!axis] 循证问责下的认知过载与表演性依从
+> > [!axis] 循证问责下的认知过载与[[Performativity|表演性]]依从
 > > 政策将津贴开支与官方推荐证据强制挂钩并在督导评估中加以核查，但在实践中催生了校长的信息过载与策略性应对。
 > >
 > > - **一线校长实践反映** 质性实证调查显示，约半数校长并未真正依据 [[Education Endowment Foundation\|EEF]] 证据规划支出甚至对此并不知情；在海量商业方案推销的轰炸下，校长往往凭人际推荐决策，甚至将 EEF 证据作为裁减助教等经济紧缩措施的表演性借口。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11, 19)]]

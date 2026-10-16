@@ -7,7 +7,7 @@ aliases:
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Executive Education]]"
   - "[[Discourse]]"
+  - "[[Performativity]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Cultural Diplomacy
@@ -110,7 +111,7 @@ updated: 2026-10-10
 > [!warning]
 - **绕开制度建设的软性工具**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出，文化外交在威权和半威权国家中扮演着特殊角色——它允许这些国家在不进行社会和政治制度改革的情况下，仍然获得国际社会的"进步"认可。大学、博物馆和高端文化机构成为**替代**（而非补充）民主制度建设的合法性来源（pp.200, 211）
 - **大学的工具化代价** 当大学被用作文化外交工具时，其作为社会批判和民主促进场所的传统功能可能被系统性地压制。"大多数项目提供的是自然科学课程，而非社会科学"（p.212）——因为这恰好避免了大学在枢纽国家发挥社会批判功能的风险
-- **[[Soft Power|软实力]]排名的表演性** 阿联酋在 2020 年全球软实力指数排名第 18 的"证据"本身建立在国家大量投资于排名相关指标的基础上——"软实力"在操作中可能从"被赢得的尊重"滑向"被购买的排名"
+- **[[Soft Power|软实力]]排名的[[Performativity|表演性]]** 阿联酋在 2020 年全球软实力指数排名第 18 的"证据"本身建立在国家大量投资于排名相关指标的基础上——"软实力"在操作中可能从"被赢得的尊重"滑向"被购买的排名"
 
 ---
 

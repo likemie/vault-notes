@@ -1270,7 +1270,10 @@
     "path": "wiki/concepts/comparative-education/Performativity.md",
     "aliases": [
       "操演性",
-      "绩效性"
+      "绩效性",
+      "表演性",
+      "表演性危机",
+      "terrors and fabrications"
     ]
   },
   {
@@ -15706,6 +15709,19 @@
       "卢曼系统理论",
       "Luhmannian Systems Theory",
       "社会系统理论"
+    ]
+  },
+  {
+    "title": "Panopticism",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Panopticism.md",
+    "aliases": [
+      "全景敞视主义",
+      "全景监视理论",
+      "全景敞视建筑",
+      "全景敞视",
+      "panopticon",
+      "panoptic surveillance"
     ]
   },
   {

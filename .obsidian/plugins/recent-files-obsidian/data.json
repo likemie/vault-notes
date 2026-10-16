@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Johnson_2023_CE",
+      "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md"
+    },
+    {
+      "basename": "Sage",
+      "path": "wiki/concepts/chinese-philosophy/Sage.md"
+    },
+    {
+      "basename": "Panopticism",
+      "path": "wiki/theories/educational-philosophy/Panopticism.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
       "basename": "Visible Learning Branding and Global Influences",
       "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
-      "basename": "Argument_Johnson_2023_CE",
-      "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md"
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
+      "basename": "Argument_Wecker_2016_ZfE",
+      "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
+      "basename": "Cargo Cult Science",
+      "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md"
+    },
+    {
+      "basename": "Learning Intentions",
+      "path": "wiki/concepts/curriculum-instruction/Learning Intentions.md"
     },
     {
       "basename": "21st Century Skills and Competencies Discourse",
@@ -15,10 +47,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
@@ -171,34 +199,6 @@
     {
       "basename": "Technical Rationality",
       "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
-      "basename": "Argument_Olmos_Torres_2009_StateTheories",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
-    },
-    {
-      "basename": "Institutional Layering",
-      "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
-    },
-    {
-      "basename": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
-      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
-    },
-    {
-      "basename": "Argument_Kickert_1995_Governance",
-      "path": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch11.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
     }
   ],
   "omittedPaths": [],

@@ -10,7 +10,7 @@ subtype: organization
 region: "uk"
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Literature Search]]"
   - "[[Contributory Expertise]]"
+  - "[[Performativity]]"
   - "[[STEM Education]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # General Teaching Council for Scotland
@@ -105,7 +106,7 @@ updated: 2026-10-15
 > [!indicators]- 影响力维度与指标
 > - **专业覆盖规模** 注册并监管苏格兰逾 75,000 名中小学、特教及高校教师教育工作者。
 > - **国际治理声誉** 作为全球首个完全独立的法定教师专业委员会，其以同行监管和[[Practitioner Enquiry\|实践者探究]]为核心的治理架构被多个英联邦国家与欧洲体系借鉴。
-> - **实践文化塑造** 实证研究表明，GTCS 的专业标准成功在苏格兰培育了抵制“通用循证教条”的一线专业文化，使校长与教师具备深厚的[[Contributory Expertise\|贡献型专长]]，有效对冲了外部商业化包装与高利害表演性合规（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 19–23]]）。
+> - **实践文化塑造** 实证研究表明，GTCS 的专业标准成功在苏格兰培育了抵制“通用循证教条”的一线专业文化，使校长与教师具备深厚的[[Contributory Expertise\|贡献型专长]]，有效对冲了外部商业化包装与高利害[[Performativity|表演性]]合规（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 19–23]]）。
 
 ---
 
@@ -132,4 +133,4 @@ updated: 2026-10-15
 > | [[Ofsted]] | Fact (Organization) | 英格兰自上而下高利害督导机构，与 GTCS 同行治理、低利害专业更新形成鲜明对照。 |
 > | [[Contributory Expertise]] | Concept | GTCS 治理机制所捍卫与培育的一线教师具身实践手艺专长。 |
 > | [[Knowledge Co-production]] | Concept | GTCS 推动大学与中小学在实践者探究中建立平等协作的知识共创模式。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断表演性依从的文献。 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断[[Performativity\|表演性]]依从的文献。 |

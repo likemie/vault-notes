@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学与思想史概念，指具备超越自利、承受公众非议并愿意为之承担现实代价与声誉风险的实质信念；与缺乏代价意识、流于合规避险与道德姿态的软信念形成鲜明对立。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
+  - "[[Performativity]]"
   - "[[Open-Mindedness]]"
   - "[[Hard Power]]"
 related_theories:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Hard Belief
@@ -115,7 +116,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **代价检验命题** | 论证无代价的信念必然异化为表演性合规与官僚平庸 | 大学行政领导力、科技企业地缘战略、公共公职选拔 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
+> | **代价检验命题** | 论证无代价的信念必然异化为[[Performativity\|表演性]]合规与官僚平庸 | 大学行政领导力、科技企业地缘战略、公共公职选拔 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **道德真空命题** | 揭示程序自由主义放弃实质道德辩护导致的政体合法性危机 | 民主政治哲学、公共交往生态、政治极化 | [[Michael Sandel\|Sandel]] (1998) |
 
 ---

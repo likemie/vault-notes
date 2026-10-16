@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[School Autonomy]]"
   - "[[Habitus]]"
+  - "[[Performativity]]"
   - "[[Center of Calculation]]"
   - "[[Champ]]"
 related_theories:
@@ -76,7 +77,7 @@ related_facts:
   - "[[EU]]"
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 # Argument_Hartong_Forschler_2019_BDS
 
@@ -356,7 +357,7 @@ updated: 2026-09-18
 > 1. **学校监测是高度杂糅的试错装配** 州级教育监测在技术表象下是一套高度依赖即兴调整与非正式修补的社会-技术实验，所谓中立客观的指标实质上是算法选择与规范权衡的产物。（pp.4–5）
 > 2. **做数据实践被五维治理张力贯穿** 行政行动者普遍受困于数据简化与准确、统计公平与本地比较、生成速度与单一事实权威、透明公开与数据安全、问责效能与策略博弈的多重撕裂。（pp.5–10）
 > 3. **[[Commensuration\|通约]]机制引发普遍的地域抗拒** 跨越空间的去地域化统计相似对标遭遇基层学校的强烈文化排斥，迫使行政系统在标准化通约与个性化定制之间反复妥协。（pp.6–7）
-> 4. **问责利害必然诱发系统性博弈** 无论是美国的高利害接管还是德国的资源倾斜配置，一旦指标与实质利益绑定，均迅速诱发数据操纵与表演性防卫行为。（pp.9–10）
+> 4. **问责利害必然诱发系统性博弈** 无论是美国的高利害接管还是德国的资源倾斜配置，一旦指标与实质利益绑定，均迅速诱发数据操纵与[[Performativity|表演性]]防卫行为。（pp.9–10）
 > 5. **治理权力呈现分布式网络特征** 教育数据化并未形成单一权能[[Center of Calculation\|计算中心]]，亟待将传统的数据集识读能力提升为面向整个社会-技术生态的[[Data Infrastructure\|数据基础设施]]素养。（pp.10–11）
 
 > [!stat-cards]- 核心数据

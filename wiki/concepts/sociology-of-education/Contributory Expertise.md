@@ -8,7 +8,7 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
+  - "[[Performativity]]"
   - "[[Variable]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Informed Practice]]"
@@ -157,7 +158,7 @@ updated: 2026-10-16
 > - **2002 — 专长第三次浪潮奠基** Collins and Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
 > - **2007 — 周期专长理论化与《重思专长》** Collins and Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
-> - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
+> - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发[[Performativity|表演性]]依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
 
 ---
 
@@ -191,7 +192,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，指出教育治理体制与专长形态深刻决定了证据接触方式，揭示高利害市场化问责导致证据被表演性利用，而贡献型专长是抵制脱离情境教条的关键支柱。
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，指出教育治理体制与专长形态深刻决定了证据接触方式，揭示高利害市场化问责导致证据被[[Performativity|表演性]]利用，而贡献型专长是抵制脱离情境教条的关键支柱。
 
 ---
 

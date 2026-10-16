@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Interactional Expertise]]"
   - "[[Contributory Expertise]]"
+  - "[[Performativity]]"
   - "[[Unit of Analysis]]"
   - "[[Research-Engaged School]]"
   - "[[Tacit Knowledge]]"
@@ -275,7 +276,7 @@ updated: 2026-10-16
 > **双向能力建设与从实施转向整合** [[Knowledge Mobilisation\|知识动员]]的瓶颈在于研究生产者与使用者均普遍存在能力短板；推进 EIP 依赖优质知识产出、协作伙伴关系与全系统能力承诺的三位一体。跨国[[Systematic Review\|系统综述]]表明，学校[[Research Utilization\|研究使用]]正由自上而下的机械实施范式，转向强调[[Teacher Professional Agency\|教师能动性]]、信任网络与跨层治理的整合范式。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–15)]]
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
-> **专长类型断裂与治理异化** 宏观治理环境与专长类型分野是决定 EIP 成败的深层结构[[Variable\|变量]]。推崇医学模式与随机对照试验的技术客观性代表了研究者与中介机构的[[Interactional Expertise\|交互型专长]]，而一线教师与校长的实践知识则属于高度具身、默会的情境化[[Contributory Expertise\|贡献型专长]]。在英格兰等高利害市场化治理体制下，证据被异化为学校领导者迎合外部督导与证明专业正当性的表演性工具；唯有在低利害问责并保障[[Practitioner Enquiry\|实践者探究]]（如苏格兰部分实践与德国同行咨询）的生态中，两类专长才能展开良性协同。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 21–23)]]
+> **专长类型断裂与治理异化** 宏观治理环境与专长类型分野是决定 EIP 成败的深层结构[[Variable\|变量]]。推崇医学模式与随机对照试验的技术客观性代表了研究者与中介机构的[[Interactional Expertise\|交互型专长]]，而一线教师与校长的实践知识则属于高度具身、默会的情境化[[Contributory Expertise\|贡献型专长]]。在英格兰等高利害市场化治理体制下，证据被异化为学校领导者迎合外部督导与证明专业正当性的[[Performativity|表演性]]工具；唯有在低利害问责并保障[[Practitioner Enquiry\|实践者探究]]（如苏格兰部分实践与德国同行咨询）的生态中，两类专长才能展开良性协同。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 21–23)]]
 
 ---
 
@@ -359,7 +360,7 @@ updated: 2026-10-16
 > - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 依托[[OECD\|经合组织]]（OECD）项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
 > - **2022 — 实践倾斜反思、商业异化与循证医学镜鉴** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 考证 EIP 重心由政策端向实践端的历史转移（如 [[Education Endowment Foundation\|EEF]] 与 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 的兴起），警告过度偏向课堂易诱发政策层自我脱责；揭示证据知情标签存在被商业资本与自利操纵者绑架的异化风险，并援引循证医学危机阐明僵化指南对专业判断的潜在侵蚀。
 > - **2022 — 从证据质量向使用质量的[[Paradigm\|范式]]跃升** [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] 结合澳大利亚 4 州 906 名教育者实证调查，将 EIP 由单纯讨论证据生产转向深耕使用质量，凝练出高质量使用六大特征并确立榜样领导与工时排程的刚性使能地位。
-> - **2025 — 专长社会学与治理体制对 EIP 的塑造与异化** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 引入专长社会学（[[Contributory Expertise\|贡献型专长]]与[[Interactional Expertise\|交互型专长]]），通过英格兰、苏格兰与德国汉堡的三地比较，揭示高利害市场化问责体制导致 EIP 异化为迎合外部督导与自我辩护的表演性仪式，而低利害探究生态则支持教师[[Reflexivity\|反思性]]专业研判。
+> - **2025 — 专长社会学与治理体制对 EIP 的塑造与异化** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 引入专长社会学（[[Contributory Expertise\|贡献型专长]]与[[Interactional Expertise\|交互型专长]]），通过英格兰、苏格兰与德国汉堡的三地比较，揭示高利害市场化问责体制导致 EIP 异化为迎合外部督导与自我辩护的[[Performativity|表演性]]仪式，而低利害探究生态则支持教师[[Reflexivity\|反思性]]专业研判。
 > - **2025 — 欧陆本土中介范式与骨干深化** [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] 总结德语区首个清算中心 [[Clearing House Unterricht\|CHU]] 近十年实践，确立以[[Meta-analysis\|元分析]]为证据源头、经通俗二次加工向高校[[Normal School\|师范教育]]者骨干群体辐射的[[Knowledge Transfer\|知识转移]]模式，论证适配受众需求的精炼产品、师资培训枢纽与双向反馈机制是破解[[Research-Practice Gap\|转移困境]]的制度化保障。
 > - **2026 — 从线性实施转向多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 基于跨国[[Systematic Review\|系统综述]]，主张 EIP 应由外部干预的机械执行，转向强调[[Teacher Professional Agency\|教师能动性]]、多源知识交互与跨层治理的整合范式。
 
@@ -425,7 +426,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与汉堡 53 名[[School Leadership\|学校领导]]者：高利害问责使[[Research Utilization\|研究使用]]沦为象征性合规，低利害探究文化促进[[Contributory Expertise\|贡献型]]与[[Interactional Expertise\|交互型专长]]融合。
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与汉堡 53 名[[School Leadership\|学校领导]]者：高利害问责使[[Research Utilization\|研究使用]]沦为象征性合规，低利害探究文化促进贡献型与[[Interactional Expertise\|交互型专长]]融合。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 结合 [[Clearing House Unterricht]] 十年运行与 189 名教师教育者的评估，论证以[[Meta-analysis\|元分析]]为证据基底、以师资培训者为支点，可推进 EIP 并缓解[[Research-Practice Gap\|转移困境]]。
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。

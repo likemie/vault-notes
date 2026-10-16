@@ -29,6 +29,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
+  - "[[Performativity]]"
   - "[[Contributory Expertise]]"
   - "[[Epistemology]]"
   - "[[Interactional Expertise]]"
@@ -84,14 +85,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -111,7 +112,7 @@ issuing_organization: ""
 > 尽管[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织与各国政府极力倡导一线教育者践行[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），但在真实学校[[Champ\|场域]]中，将外部[[Research Translation\|研究转化]]为[[Academic Achievement\|学业成就]]提升的努力普遍陷入困境。本研究旨在回答：在英格兰、苏格兰与德国这三个政策传统与治理体制截然不同的欧洲教育体系中，国家治理机制与[[Knowledge Mediation\|知识中介]]生态如何塑造[[School Leadership\|学校领导]]者的证据接触经验？学校领导者在何种制度约束下接触、筛选、吸收或排斥研究证据？
 
 > [!claim] 核心主张
-> 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与表演性依从，使研究异化为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。（pp. 21–23）
+> 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与[[Performativity|表演性]]依从，使研究异化为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。（pp. 21–23）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英格兰、苏格兰与德国汉堡三地的基础教育治理政策与中介文献（49 份），以及 9 位对应学段中小学校长与高级管理者的深度[[Semi-structured Interview\|半结构化访谈]]。
@@ -131,7 +132,7 @@ issuing_organization: ""
 > | **医学化与学习科学模型批判**<br>Furlong and Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论假设，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
 
 > [!warrant]- 理论如何支撑论证
-> 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致表演性依从；而在低利害与专业自主体制下，贡献专长方能获得生长土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）
+> 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致[[Performativity|表演性]]依从；而在低利害与专业自主体制下，贡献专长方能获得生长土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）
 
 ---
 
@@ -258,7 +259,7 @@ issuing_organization: ""
 ### 论证步骤三 高利害督导问责将研究证据异化为表演性合法性辩护工具
 
 > [!claim] 步骤三核心主张
-> 在面临生存威胁的高利害问责体制下，研究证据被异化为学校领导者迎合外部督导、规避行政惩戒与争夺市场声誉的表演性防御工具；而在具备制度安全感与专业信任的低利害环境中，研究证据方能回归为促进同侪反思与实践探究的催化剂。（pp. 19–23）
+> 在面临生存威胁的高利害问责体制下，研究证据被异化为学校领导者迎合外部督导、规避行政惩戒与争夺市场声誉的[[Performativity|表演性]]防御工具；而在具备制度安全感与专业信任的低利害环境中，研究证据方能回归为促进同侪反思与实践探究的催化剂。（pp. 19–23）
 
 #### 1. 问责生存危机促使校长转向工具主义证据合规
 
@@ -299,7 +300,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **治理体制深刻决定[[Knowledge Mediation\|知识中介]]形态与实践者心理负荷** 英格兰的市场化治理催生了过载的中介机构与商业方案，导致校长陷入信息疲劳并转向熟人网络求助；苏格兰通过地方当局与高校协作保留了弹性缓冲；德国汉堡依托稳定的州级官僚研训与低利害监测，校长对外部研究光环保持淡定与去魅。（pp. 11–15）
 > 2. **[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的[[Epistemology\|认识论]]鸿沟制约[[Research Translation\|研究转化]]** 推崇技术客观性与还原论的医学化循证模型脱离一线教学的复杂情境；当外部中介证据（如 [[Education Endowment Foundation\|EEF]] 评估认为助教成本高而成效低）与一线校长长期积累的具身手艺知识直接冲突时，一线专业人员展现出强烈的怀疑主义与实践抵触。（pp. 19–21）
-> 3. **高利害问责导致研究证据被异化为表演性防卫工具** 在生存焦虑笼罩下的英格兰体系中，[[Evidence-Informed Practice\|证据知情实践]]在很大程度上退化为校长迎合督导审查、向家长证明专业胜任力乃至为财政裁员提供合理化借口的工具性外衣，反而挤压了真正的[[Reflexivity\|反思性]]实践空间。（pp. 19–23）
+> 3. **高利害问责导致研究证据被异化为[[Performativity|表演性]]防卫工具** 在生存焦虑笼罩下的英格兰体系中，[[Evidence-Informed Practice\|证据知情实践]]在很大程度上退化为校长迎合督导审查、向家长证明专业胜任力乃至为财政裁员提供合理化借口的工具性外衣，反而挤压了真正的[[Reflexivity\|反思性]]实践空间。（pp. 19–23）
 > 4. **[[Practitioner Enquiry\|实践者探究]]构筑弥合专长断裂的制度桥梁** 苏格兰将[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland\|GTCS]]），使教师能够结合具体学校情境对外部证据进行调适、检验与重构，展现了弥合交互专长与贡献专长的有效路径。（pp. 15–16, 23–24）
 
 > [!stat-cards]- 核心数据

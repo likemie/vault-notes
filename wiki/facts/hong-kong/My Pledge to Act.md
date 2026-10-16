@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
+  - "[[Performativity]]"
   - "[[Critical Thinking Disposition]]"
   - "[[School Autonomy]]"
 related_theories:
@@ -103,7 +104,7 @@ updated: 2026-10-16
 > [!finding-cards] 效果与评价
 > - **内地“感恩教育”[[Discourse|话语]]的移植** 该计划实质上共享了中国内地威权主义下“感恩教育”的本质——通过灌输对家长和政治建制的绝对服从，消除青年寻求政治参与的能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 > - **体制问责的彻底消解** 将结构性的民生困难、地缘冲突与学习重压，转化为学生个人的心理弹性（resilience）和心态管理问题。
-> - **学生表演性顺从的加剧** 强制性的“快乐”和“感恩”要求无法促成实质性的情感认同，反而加剧了师生在体制面前的表演性行为，造成“表面感恩、内心疏离”的撕裂状态（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。
+> - **学生[[Performativity|表演性]]顺从的加剧** 强制性的“快乐”和“感恩”要求无法促成实质性的情感认同，反而加剧了师生在体制面前的表演性行为，造成“表面感恩、内心疏离”的撕裂状态（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。
 
 ---
 
@@ -116,7 +117,7 @@ updated: 2026-10-16
 > > - **[[Argument_Vickers_2024_CE\|Vickers（2024, pp.153–154）]]** 批评该计划是典型的“[[Psychologisation\|心理化]]治理”手段，通过强制推行“快乐”与“感恩”说教，掩盖社会正义与制度改革的核心诉求。
 > > - **教育局官员（2020）** 认为感恩是普世的道德规范，开展此类活动能够有效改善青少年在动荡社会中的精神健康，绝非政治工具。
 > 
-> > [!axis] 表演性配合 vs. 实质认同构建
+> > [!axis] [[Performativity|表演性]]配合 vs. 实质认同构建
 > > 争论聚焦于通过仪式化签署承诺书和制作感恩卡能否真正实现青年认同的转变。
 > > - **[[Argument_Yan_2025_JCS\|Yan and Morris（2025, pp. 490–491）]]** 指出强制性的感恩与宣誓只会带来犬儒主义的配合，学生在日常展演中发展出双重人格以应付学校考评，并不能培育真正的国家归属感。
 > > - **建制校长联会（2021）** 坚信在学校形成积极乐观的感恩文化，能为青年提供健康的同辈成长环境，有助于香港社会的整体疗愈。

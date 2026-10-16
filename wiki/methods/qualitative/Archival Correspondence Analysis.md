@@ -7,7 +7,7 @@ summary: "利用个人通信、报纸报道和外交函件等一手档案资料�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Reliability]]"
   - "[[International Education]]"
+  - "[[Performativity]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > [!warning]
 > - **语言和获取门槛** 档案通信通常分散在不同国家的档案馆中，获取需要时间和资源。[[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]]主要依赖英文资料，俄文档案未被系统纳入——这在美苏交流的研究中构成一个内在视角不对称。
 > - **通信的选择性保存** 被保存和收录的信件本身经过了选择——通信集的编辑者（如 Hickman 等人）决定了哪些信件"值得收录"，这一层的选择逻辑通常不可见。
-> - **信件的表演性** 私人通信不等于"真实想法"——写信人可能根据收信人调整语气和内容。Shatskii 对 Dewey 的告别信使用了"民主"一词，这可能是真诚信念，也可能是在迎合 Dewey 的价值观。
+> - **信件的[[Performativity|表演性]]** 私人通信不等于"真实想法"——写信人可能根据收信人调整语气和内容。Shatskii 对 Dewey 的告别信使用了"民主"一词，这可能是真诚信念，也可能是在迎合 Dewey 的价值观。
 
 ---
 

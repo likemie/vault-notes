@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 130
+related_count: 131
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Legislative Policy Brief]]"
   - "[[Discourse]]"
+  - "[[Performativity]]"
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
   - "[[Evidence Backlash]]"
@@ -335,7 +336,7 @@ updated: 2026-10-16
 > **从客观[[Boundary Spanner\|边界跨越者]]退化为利益游说商** 在商业资本与教育科技（EdTech）大举侵入教育知识系统的背景下，原本承担客观中介职能的机构与专家面临被市场裹挟的严峻风险。中介[[Discourse|话语]]极易从公正连接供需的“边界跨越者”（Boundary Spanners）蜕变为借由“证据知情”黄金外衣兜售特定商业产品与技术方案的“自利操纵者”（Spinners），将公共循证运动异化为商业营销手段。（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）
 
 > [!claim] Kelly et al.
-> **市场化中介激增与一线实践者认知过载** 在高度分化与市场化的教育治理环境中，公共财政将中观支持开放给多元商业与慈善实体，促成中介机构的大量繁衍。中介密集推销的摘要工具与培训资源使得一线[[School Leadership\|学校领导]]者陷入严重的信息轰炸与信任疲劳（“每周都有新花样”），导致校长退回至熟人网络推荐，甚至将中介工具包异化为应对督导问责的表演性防御修辞。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–12, 21–22)]]
+> **市场化中介激增与一线实践者认知过载** 在高度分化与市场化的教育治理环境中，公共财政将中观支持开放给多元商业与慈善实体，促成中介机构的大量繁衍。中介密集推销的摘要工具与培训资源使得一线[[School Leadership\|学校领导]]者陷入严重的信息轰炸与信任疲劳（“每周都有新花样”），导致校长退回至熟人网络推荐，甚至将中介工具包异化为应对督导问责的[[Performativity|表演性]]防御修辞。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–12, 21–22)]]
 
 > [!claim] Gough, D.
 > **中介机构知行合一的自我循证五大支柱** [[Knowledge Mediation\|知识中介]]机构向公众和决策者推介研究成果时，本质上提出了关于有效性的实质主张；若中介机构自身的介入策略缺乏严密的[[Theory of Change\|变革理论]]与[[Evidence Standards\|证据标准]]支撑，不仅其服务成效大打折扣，更会诱发严重的信誉危机。中介机构必须建立面向自身的因果评估规程，将中介实践构筑于需求分析、系统嵌入、行为变革理论、证据标准与长期成效评估五大支柱之上。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–148, 157–158)]]
@@ -460,7 +461,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 从[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络治理]]视阈，系统解剖以 [[Social Ventures Australia\|SVA]] 为核心的异层[[Policy Network\|政策网络]]如何相继装配 [[Australian Schools Plus\|Schools Plus]]（筹款中介）、[[Evidence for Learning\|E4L]]（工具包试验中介）与 [[Australian Education Research Organisation\|AERO]]（国家证据中介）三大教育中介实体，论证现代国家向培育与特许私营中介的催化平台与市场缔造者的根本演进。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 梳理德语区五大[[Educational Science Communication\|教育科学传播]]与中介媒介谱系（学术期刊、指南读物、音视频播客、清算中介 [[Clearing House Unterricht\|CHU]]/[[Forschungsmonitor Schule\|FMS]] 与社交媒体），剖析乘数模式与直接触达的渠道权衡，提出将研究综述（Forschungssynthesen）纳入学科学术认可的制度倡议。
-> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 总结德语区 [[Clearing House Unterricht]] 十年的二阶[[Knowledge Mediation\|知识中介]]经验，论证以[[Meta-analysis\|元分析]]为证据源、以师范教育者为支点的中介模式可缓解[[Research-Practice Gap\|研究-实践转移困境]]。
+> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 总结德语区 [[Clearing House Unterricht]] 十年的二阶[[Knowledge Mediation\|知识中介]]经验，论证以[[Meta-analysis\|元分析]]为证据源、以[[Normal School|师范教育]]者为支点的中介模式可缓解研究-实践[[Research-Practice Gap|转移困境]]。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 系统考证过去15年间全球教育中介机构在治理模式、方法论立场与服务受众上的历史演化，揭示其受制于政治与预算周期的生存悖论，并在循证医学反思下提出建设[[Cumulative Knowledge Base\|累积性知识库]]与“中介的中介”元协调倡议。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 政策调查数据，详尽描绘 16 个教育系统中官方中介机构的双重活跃度画像、多元组织形态（统计局、企业化中介、国家评估院）以及与教育部委之间存在的联结脱节悖论。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 比较跨领域四大主流[[Knowledge Mobilisation\|知识动员]]模型，解析[[Knowledge Mediation\|知识中介]]在系统模型中作为连接[[Knowledge Production\|知识生产]]与知识使用核心纽带的职能定位。

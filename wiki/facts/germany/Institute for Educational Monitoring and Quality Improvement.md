@@ -11,9 +11,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: state-educational-research-and-monitoring-institute
 headquarters: "Hamburg, Germany"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Universities Rankings]]"
   - "[[School Leadership]]"
+  - "[[Performativity]]"
   - "[[Data Literacy]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Informed Practice]]"
@@ -152,7 +153,7 @@ updated: 2026-10-16
 > > 探讨以 IfBQ 为代表的形成性数据支持体系与以 Ofsted 为代表的惩罚性督导问责体系在驱动教育改进机制上的深层差异。
 > >
 > > - **汉堡 IfBQ 形成性模式** 依赖客观数据镜像、社会指数补偿、内部非公开反馈与同侪专业研讨；严禁公开发布学校排名，致力于激发学校自驱改进动力，保护专业自主（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]]；[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 12–14]]）。
-> > - **英格兰 Ofsted 问责模式** 依赖公开四级评级、全国学校表现排行榜、外部突击检查与强制学院化惩戒；将循证实践演变为高压下的防御性合规徽章，容易诱发严重的表演性达标与商业方案依赖（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 10–12]]）。
+> > - **英格兰 Ofsted 问责模式** 依赖公开四级评级、全国学校表现排行榜、外部突击检查与强制学院化惩戒；将循证实践演变为高压下的防御性合规徽章，容易诱发严重的[[Performativity|表演性]]达标与商业方案依赖（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 10–12]]）。
 >
 > > [!axis] 社会指数刚性与动态变迁争议（科学客观性 vs 学校策略博弈）
 > > 探讨依据宏观普查数据确立的学校分类指数在长期运行中的实效性与博弈困境。

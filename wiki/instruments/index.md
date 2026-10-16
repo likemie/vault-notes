@@ -75,7 +75,7 @@ Total entries: **80**
 > [!index-list]- Tests (26)
 > - [[Abbreviated Torrance Test for Adults]] — 托兰斯创造性思维测验的成人标准化精简版本，包含1项言语活动与2项图形活动，用于在高等教育与组织情境中快速测定成人的发散思维潜能与多维创造力表现指标。
 > - [[Alternate Uses Test]] — 由 J. P. Guilford 于 1967 年开发的经典发散思维与创造力认知测评工具，要求被试在限定时间内为日常物品提出非常规、新颖且实用的用途，从流畅性、灵活性、原创性与精致性四个维度量化发散认知潜能。
-> - [[Assessment Tools for Teaching and Learning]] — 新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，支持教师目标设定、诊断分析与时间序列增值评估
+> - [[Assessment Tools for Teaching and Learning]] — 新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性
 > - [[BioMedical Admissions Test]] — 由剑桥大学考评部研发的高利害医学与生物医学本科入学选拔考试，其第一模块思维技能通过32道情境题系统测度问题解决与批判性思维。
 > - [[California Critical Thinking Skills Test]] — 基于美国哲学学会APA德尔菲共识报告开发的经典标准化批判性思维认知能力测验，包含分析、推论、评价、演绎与归纳五个核心分测验。
 > - [[Cognitive Ability Test KFT]] — 由 Heller & Perleth (2000) 修订的德国标准化认知能力测验，包含图形类比与言语类比分测验，在大规模教育研究中通过项目反应理论（IRT）估计一般认知推理能力（g 因子）。

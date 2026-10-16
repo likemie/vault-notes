@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Interactional Expertise]]"
   - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Performativity]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
@@ -154,7 +155,7 @@ updated: 2026-10-16
 > | [[Teacher Professional Agency]] | 概念 | 实践者探究以激活教师在教学决策中的专业能动性为首要旨归。 |
 > | [[Action Research]] | 替代/关联方法 | 实践者探究继承了行动研究的传统，更强调批判性文献对话与专业标准内嵌。 |
 > | [[General Teaching Council for Scotland]] | 事实 (机构) | 将实践者探究确立为苏格兰教师法定专业标准与专业更新要求的监管实体。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | 论证 | 跨国实证揭示苏格兰实践者探究如何弥合专长断裂并阻断表演性依从的核心文献。 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | 论证 | 跨国实证揭示苏格兰实践者探究如何弥合专长断裂并阻断[[Performativity\|表演性]]依从的核心文献。 |
 
 ---
 

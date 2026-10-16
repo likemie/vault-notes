@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过量化指标、跨国测评排名与最佳实践工具箱对主权国家实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Technological Republic]]"
   - "[[International Education]]"
+  - "[[Performativity]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
 related_theories:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Soft Power
@@ -183,7 +184,7 @@ updated: 2026-10-14
 > > - **全球治理与比较教育学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 揭示像 [[OECD]]、[[World Bank\|世行]]这样的非主权组织，凭借跨国数据生产与[[Policy Brokerage\|政策中介]]，已成为在全球范围内调动软权力的独立制度巨头。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–546)]]
 
 > [!warning] 适用局限与边界
-> 软实力指数与排名的表演性异化：当前全球大量商业机构开发了“全球软实力指数”等评估榜单，部分国家通过定向资金投入与形象公关“购买”软实力位次，导致软实力操作逐渐脱离了民众自发的“真诚吸引与尊重”，滑向虚幻的指标操弄与象征性表演。
+> 软实力指数与排名的[[Performativity|表演性]]异化：当前全球大量商业机构开发了“全球软实力指数”等评估榜单，部分国家通过定向资金投入与形象公关“购买”软实力位次，导致软实力操作逐渐脱离了民众自发的“真诚吸引与尊重”，滑向虚幻的指标操弄与象征性表演。
 
 ---
 

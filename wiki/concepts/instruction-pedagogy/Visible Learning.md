@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 74
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -15,6 +15,9 @@ tags:
   - subject/instruction
   - level/k12
 related_concepts:
+  - "[[Construct]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Cargo Cult Science]]"
   - "[[Learning Progression]]"
   - "[[Professional Judgment]]"
   - "[[Neo-Taylorism]]"
@@ -28,6 +31,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Formative Assessment]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Homework]]"
+  - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Evaluative Judgement]]"
@@ -35,21 +40,29 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Performance Indicators]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Performativity]]"
+  - "[[Metascience]]"
   - "[[Class Size]]"
   - "[[Sage]]"
   - "[[Automated Data Extraction]]"
+  - "[[Chain of Evidence]]"
+  - "[[Reliability]]"
+  - "[[Preregistration]]"
+  - "[[Research Question]]"
+  - "[[Commensuration]]"
   - "[[Analytical Stance]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
   - "[[Reproducibility Crisis]]"
-  - "[[Critiques of Visible Learning]]"
+  - "[[PICO Framework]]"
   - "[[Critical Thinking]]"
-  - "[[Variable]]"
   - "[[Growth]]"
   - "[[Criterion-Referenced Test]]"
-  - "[[PICO Framework]]"
-  - "[[Interactional Expertise]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Falsification]]"
+  - "[[Scientism]]"
+  - "[[Data Infrastructure]]"
   - "[[School Leadership]]"
   - "[[Research Utilization]]"
 related_theories:
@@ -58,11 +71,13 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Classroom Observation]]"
   - "[[Practitioner Enquiry]]"
   - "[[Intraclass Correlation Coefficient]]"
-  - "[[Content Analysis]]"
   - "[[Correlational Research]]"
+  - "[[Content Analysis]]"
+  - "[[Audit Trail]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -70,14 +85,14 @@ related_persons:
   - "[[Thomas Nordahl]]"
   - "[[Scott Eacott]]"
 related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Visible Learning Meta-X]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Cognition Education]]"
   - "[[Gonski 2.0]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[Visible Learning Meta-X]]"
-  - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McKnight_2020_Discourse]]"
@@ -85,6 +100,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
@@ -95,6 +111,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -102,6 +119,9 @@ updated: 2026-10-16
 ---
 
 # Visible Learning
+
+> [!tip] 知识网络与子条目维护分流指引
+> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。关于商业化运作网络、全球政策采纳、学理批判与底层[[Meta-analysis|元分析]]数据库的专门子条目维护分流矩阵，详见文末 [[#相关条目网络与维护指引|相关条目网络与维护指引]]。在更新本条目时，必须根据内容主题同步分流维护 [[Visible Learning Branding and Global Influences]]、[[Critiques of Visible Learning]]、[[Visible Learning Meta-X]] 与 [[Cargo Cult Science]] 等关联条目。
 
 ---
 
@@ -179,6 +199,9 @@ updated: 2026-10-16
 > [!claim] Kalmendal et al.
 > **通用连续体与关节点判准的统计破产** 卡尔门达尔（Kalmendal）等学者对 VL 全库 322 个影响因素开展独立审计发现，$d=0.40$ 通用连续体存在根本性统计破产：Hattie 将不同对照条件（对照组为空白控制、常规教学还是积极替代干预）进行无加权简单平均。根据常规规律，相比于空白对照，与积极干预比较产生的效应量通常减半；当混合两类对照时，平均效应量纯粹取决于两类研究的样本比例，丧失了实质解释力。加之 27% 的影响因素混杂了组内与组间设计（估计完全不同的总体参数），所谓跨情境统一的 $0.40$ 关节点基准并不具备科学效力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 16)]]
 
+> [!claim] Johnson, G. R. & Janzen, M. D.
+> **隐藏计算公式与简单算术平均陷阱** 约翰逊与詹森（Johnson & Janzen）系统核查附录 A 指出，VL 确立的效应量高度依赖未加权的简单算术平均。以[[Homework|作业]]（[[Homework]]）为例，正文仅报告 $d=0.29$，完全隐去计算公式；实际运算是将 5 项研究规模从 15 到 77 项不等的元分析数值简单相加除以 5，违背了依据[[Sample Size Determination|样本量]]加权的基本统计原则。此外，笼统的总体平均值掩盖了小学（$d=0.15$）与高中（$d=0.64$）的实质学段差异，而 $d=0.40$ 的所谓期望门槛仅仅是纳入的 138 个[[Variable|变量]]的简单均值，不具备任何客观实体物理基准。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 25–27)]]
+
 ---
 
 ### 命题二　教师教学效能是学校系统内部可控的最大因果枢纽，测验数据本质是检验教师自身教学的镜子
@@ -221,6 +244,9 @@ updated: 2026-10-16
 > [!claim] [[Scott Eacott\|Eacott, S.]]
 > **[[Neo-Taylorism\|新泰勒主义]]风险与[[Cult of the Guru\|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求[[Performance Indicators\|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency\|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE\|(Eacott, 2019, pp. 777–778)]]
 
+> [!claim] Johnson, G. R. & Janzen, M. D.
+> **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 本质上是披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其标志性的气压计图表并非纯粹的[[Feedback|教学反馈]]工具，而是直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
+
 ---
 
 ### 命题总览
@@ -228,10 +254,10 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但全库元科学审计揭示其对照组混并与跨设计缺陷瓦解了该连续体 | 教育政策循证筛选与教学干预效果评估（及元科学审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但全库元科学审计揭示其对照组混并与跨设计缺陷瓦解了该连续体，且依赖未加权简单平均与隐藏公式 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
 > | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] |
-> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单与新泰勒主义 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] |
+> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
 
 ---
 
@@ -244,8 +270,9 @@ updated: 2026-10-16
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 Corwin（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
+> - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) 班级规模结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
 > - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction\|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81），确立了人机混合验证的质控新标准。
-> - **2025–至今 — 全量元科学审计与证据链可信度崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个预注册全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足研究问题纳入基准，27% 混杂了不可通约的组间、组内及相关设计，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
+> - **2025–至今 — 全量[[Metascience|元科学]]审计与[[Chain of Evidence|证据链]]可[[Reliability|信度]]崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个[[Preregistration|预注册]]全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
 
 ---
 
@@ -259,17 +286,22 @@ updated: 2026-10-16
 > - **通用效应量汇总立场（蓝方）** 主张通过大样本[[Meta-analysis\|元分析]]提炼跨学科、跨学段的通用[[Effective Teaching\|有效教学]]规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
 > - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–33)]]
 >
-> [!tension] 核心张力三：宏观合成证据权威 vs 元科学审计下的可复现性危机（[[Reproducibility Crisis\|可复现性危机]]）
+> [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]（[[Reproducibility Crisis\|可复现性危机]]）
 > - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等核心教育规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
-> - **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 PICO 标准）、将不可通约的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> - **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 [[PICO Framework|PICO]] 标准）、将不可[[Commensuration|通约]]的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+>
+> [!tension] 核心张力四：客观中立的实证科学 vs 政商利益结盟与财政紧缩修辞
+> - **中立证据综合立场（蓝方）** 倡导者坚称 VL 是超越意识形态的纯学术研究，旨在为政策制定者提供关于“什么有效”的客观概率指引，帮助学校将有限资源集中投入到高效应量领域。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–88)]]
+> - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/考文出版社）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 30–33)]]
 
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
 > - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]]
+> - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023)]]
 > - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
 
 > [!warning] 适用局限
-> 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限；同时全库 27% 存在组间、组内与相关设计的违规混并，加权缺失进一步放大了极端偏倚。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
+> 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限；同时全库 27% 存在组间、组内与[[Correlational Research|相关设计]]的违规混并，加权缺失进一步放大了极端偏倚。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
 
 ---
 
@@ -292,32 +324,39 @@ updated: 2026-10-16
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段[[Growth\|成长]]曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与编码统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 从 [[Visible Learning Meta-X]] 随机抽取 156 项一阶元分析（468 个统计数据点） | 专家双轮仲裁金标准比对评测 | 原数据库录入 vs. 金标准[[Intraclass Correlation Coefficient\|组内相关系数]]与一致率 | 原数据库录入 $\text{ICC} = 0.81$，一致率 80%；存在 57 处单方偏离与 31 例信息遗漏 | 单方偏离度显著高于人类独立作者（$\text{ICC} = 0.95$）与大语言模型（$\text{ICC} = 0.96–0.97$） | 实证揭示早期大规模人工录入的历史局限性，论证了引入多模型与专家仲裁混合质控的必要性 |
-| [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, pp. 14, 18–19)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）中 301 个影响因素（检索精读 1,369 篇一阶元分析） | 预注册全库质量评估与独立复现检验 | PICO 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 [[PICO Framework|PICO]] 纳入标准；仅 **2 项**（<1%）成功复现数据提取；**44%** 报告效应量在原文中完全不存在 | — | 全量实证揭示 VL 体系存在系统性概念错位、提取失真与数据链崩溃，不可作为政策与教学决策依据 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, pp. 14, 18–19)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）中 301 个影响因素（检索精读 1,369 篇一阶元分析） | [[Preregistration\|预注册]]全库质量评估与独立复现检验 | [[PICO Framework\|PICO]] 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 [[PICO Framework\|PICO]] 纳入标准；仅 **2 项**（<1%）成功复现数据提取；**44%** 报告效应量在原文中完全不存在 | — | 全量实证揭示 VL 体系存在系统性概念错位、提取失真与数据链崩溃，不可作为政策与教学决策依据 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, pp. 25–26)]] | 《可见的学习》附录 A 中 5 项[[Homework\|家庭作业]]元分析（涵盖 161 项研究与超 10 万名学生） | 数学逆向还原与算法核查 | 综合效应量计算公式与加权方式 | 5 项元分析报告的 Cohen's $d$ 分别为 0.36、0.21、0.39、0.21、0.28；直接相加除以 5 等于报告的 $d=0.29$ | 包含 15 项研究的文献与 77 项研究的文献被赋予相同权重；正文完全隐去该计算公式 | 实证确证其核心效应量依赖未加权的简单算术平均，掩盖了小学（$d=0.15$）与高中（$d=0.64$）的实质学段差异 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, pp. 31–32)]] | 《可见的学习》全书文本（涵盖全部章节与索引） | 词频统计与文本分析 | 班级规模（[[Class Size]]）与自我报告成绩提及频次对比 | 班级规模提及 95 次（分布于 16 个章节）；全书排名第一的影响因素自我报告成绩仅提及 6 次 | 频次反差高达近 16 倍（1600%） | 实证揭示其对班级规模无用论的高频倾斜服务于政府财政紧缩意图，而非基于客观统计均衡性 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与学业成绩收益曲线提取 | 原文证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 原文正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与认知教育公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
 
 ---
 
-## 相关条目网络
+## 相关条目网络与维护指引
 
-> [!entry-map]
-> 
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Visible Learning Meta-X]] | Fact (Program) | 承载 Visible Learning 核心实证数据的底层[[Meta-meta-analysis\|二阶元分析]]汇聚数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
-> | [[Visible Learning Branding and Global Influences]] | Fact (Event) | 记录 Visible Learning 从学术出版到跨国品牌化运营与政策扩散的制度化历程与争议。 |
-> | [[Critiques of Visible Learning]] | Concept | 系统梳理对 Visible Learning 在统计方法学、教学论与商业化推广维度的批判性文献。 |
-> | [[Effect Size]] | Method | VL 衡量教育干预相对有效性与绘制全域证据地图的通用统计度量衡。 |
-> | [[Evidence-Based Education]] | Concept | VL 是全球循证教育运动中最具政策影响力与争议性的教学综合框架之一。 |
-> | [[Contributory Expertise]] | Concept | 一线实践者用于审视、去魅与本土校准 VL 流行概念的具身实践专长。 |
-> | [[Interactional Expertise]] | Concept | VL 所依托的[[Meta-analysis\|元分析]]统计综合语汇与技术客观性知识形态。 |
-> | [[Professional Judgment]] | Concept | VL 倡导的 DIE 循环以教师评价性专业判断为核心，反对机械执行清单。 |
-> | [[Assessment Tools for Teaching and Learning]] | Instrument | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，奠定了 VL 的形成性三提问机制。 |
-> | [[John Hattie]] | Person | 可见的学习框架的开创者与[[Meta-meta-analysis\|二阶元分析]]主要学者。 |
-> | [[Education Endowment Foundation]] | Fact (Organization) | 广泛借鉴 VL 证据综合模式并构建教学工具包的英国循证机构。 |
-> | [[Argument_Hattie_2005_ACER\|Hattie, 2005]] | Argument | 奠定 VL 理论与统计框架、提出 $d=0.40$ 关节点与 30% 教师方差贡献的核心文献。 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie, 2015b]] | Argument | 提炼八项教师思维框架与 DIE 教学动态循环的代表性文献。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示苏格兰[[School Leadership\|学校领导]]者如何依托实践者探究对 VL 开展批判性校准的文献。 |
-> | [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] | Argument | 评测大模型在 VL Meta-X 数据提取准确性的最新文献，揭示原数据库录入质量与混合质控[[Paradigm\|范式]]。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]] | Argument | 开展首个全库预注册元科学质量审计，实证揭示 VL 仅 19% 满足 PICO 标准且数据复现率仅 0.66% 的文献。 |
+> [!entry-map] Visible Learning 知识网络与子条目维护分流矩阵
+> 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。当需扩充特定细分领域、商业化运作、国别政策采纳或学理批判深层机制的知识时，**AI 助手与维护者必须优先分流丰富或建立对应的专门子条目，严禁将所有衍生事实堆砌在母条目中**，以维持知识库的模块化清晰度。
+>
+> | 知识模块 | 条目 | 类型 | 关系与维护定位（分流维护指引） |
+> |:---|:---|:---|:---|
+> | **核心理论与教学论** | [[Visible Learning]] | 概念 | 本母条目；聚焦二阶元分析理论架构、$d=0.40$ 关节点、教师思维框架、形成性三提问与双向可见性教学论；宏观理论框架维护于此。 |
+> | **核心理论与教学论** | [[Learning Intentions]] | 概念 | 显性学习意图构念与教学目标敞开机制；课堂教学设计与认知透明度扩充维护于此。 |
+> | **核心理论与教学论** | [[Success Criteria]] | 概念 | 显性成功标准构念与分阶成就阶梯；评价标准共享与学生自评机制扩充维护于此。 |
+> | **核心理论与教学论** | [[Feedback]] | 概念 | 形成性反馈三层级模型（任务、过程、自我调节）；反馈交互机制维护于此。 |
+> | **核心理论与教学论** | [[Learning Progression]] | 概念 | 学业进阶与质性认知发展轨迹；进阶测评与成长模型维护于此。 |
+> | **商业化与全球政策扩散** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 Visible Learning 从新西兰学术成果扩展为 VLplus 商业专营品牌、世哲旗下考文出版社收购（年营收 5000 万美元）、认证培训产业、以及英国、澳大利亚、丹麦等国官方政策采纳；**所有商业化运作、版税收益、专营培训与跨国政策扩散事实统一分流维护于此**。 |
+> | **商业化与全球政策扩散** | [[Cognition Education]] | 事实 / 机构 | 新西兰教育服务改制成立的商业咨询公司，设立 VLplus 品牌并长期向学者支付高额劳务报酬；政商机构演进维护于此。 |
+> | **商业化与全球政策扩散** | [[Victorian HITS and Literacy Toolkit]] | 事实 / 政策 | 澳大利亚维多利亚州依据 VL 强制推行的高影响力教学策略清单与治理实践；地方行政强推与板书打卡异化细节维护于此。 |
+> | **商业化与全球政策扩散** | [[Gonski 2.0]] | 事实 / 政策 | 澳大利亚联邦政府聘请 Hattie 领衔主持的基础教育质量审查与政策报告；澳洲国家级教育改革细节维护于此。 |
+> | **系统学理批判与争议** | [[Critiques of Visible Learning]] | 概念 | 针对 VL 的学术批判专门知识库；涵盖方法论假性精确、学科[[Heterogeneity\|异质性]]抹杀、新自由主义意识形态与政策反思；**所有外部学理批判、论战文献与质本质疑系统分流维护于此**。 |
+> | **系统学理批判与争议** | [[Cargo Cult Science]] | 概念 | 货物崇拜科学；从科学哲学视角解构 VL 具备复杂图表外壳却隐藏计算公式、缺乏可错论求真诚意与回避学术[[Falsification\|证伪]]的伪科学特征；哲学与划界批判扩充维护于此。 |
+> | **系统学理批判与争议** | [[Neo-Taylorism]] | 概念 | 新泰勒主义；批判 VL 将育人复杂劳动拆解为标准化动作清单、依托量化气压计剥夺[[Teacher Professional Agency\|教师专业能动性]]并推行行政全景监控的劳动过程理论；管理[[Disciplina and Doctrina\|规训]]批判维护于此。 |
+> | **系统学理批判与争议** | [[Scientism]] | 概念 | 科学主义；批判 VL 将自然科学实验与物理研发[[Paradigm\|范式]]机械移植到教育人文领域的宏观意识形态基底。 |
+> | **系统学理批判与争议** | [[Cult of the Guru]] | 概念 | 大师崇拜；批判教育界对学术明星及其商业处方的盲目追捧与教条化信仰现象。 |
+> | **系统学理批判与争议** | [[Performativity]] | 概念 | 表演性；批判量化指标如何迫使教师陷入伪造合规证据、应付外部审查的职业倦怠。 |
+> | **实证[[Data Infrastructure\|数据基础设施]]** | [[Visible Learning Meta-X]] | 事实 / 项目 | 承载 VL 核心实证数据的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项一阶[[Meta-analysis\|元分析]]、350+ 影响因素）；**数据库技术指标、[[Automated Data Extraction\|自动化数据提取]]质控与更新迭代维护于此**。 |
+> | **测量与评估工具** | [[Assessment Tools for Teaching and Learning]] | 测量工具 | asTTle 计算机评估系统；Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，其界面直接衍生出 VL 标志性的气压计图表；测评工具构念与管理功能维护于此。 |
+> | **核心人物** | [[John Hattie]] | 人物 | 约翰·哈蒂；VL 理论框架开创者、二阶元综合首席研究员，曾兼任认知教育公司董事；学者生平、学术转向与争议履历维护于此。 |
 
 ---
 
@@ -331,5 +370,6 @@ updated: 2026-10-16
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] — 批判 VL 测量工具对表层技能的偏向，倡导建立区分知识层次的动态学习模型。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]经验，实证指出苏格兰校长面对 VL 等流行概念时，依托“[[Practitioner Enquiry\|实践者探究]]”（Practitioner Enquiry）与[[Contributory Expertise\|贡献型专长]]进行批判性审视与情境化校准。（pp. 20–21）
-> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 开展预注册全库元科学审计，实证揭示 VL 体系仅 19% 满足 PICO 标准且仅 2 项可复现数据提取，为学界彻底终结该体系的政策依赖提供了实证定论。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 开展[[Preregistration|预注册]]全库[[Metascience|元科学]]审计，实证揭示 VL 体系仅 19% 满足 [[PICO Framework|PICO]] 标准且仅 2 项可复现数据提取，为学界彻底终结该体系的政策依赖提供了实证定论。
+> - [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] — 运用[[Cargo Cult Science|货物崇拜科学]]、劳动过程监控与政治经济学批判框架，系统解构 VL 的简单算术平均算法缺陷、对[[Class Size|班级规模]][[Meta-analysis|元分析]]的失真提取以及兼任商业咨询机构董事的高额版税收益链条。
 

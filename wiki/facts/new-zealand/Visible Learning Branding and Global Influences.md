@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 53
+fact_related_count: 52
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -178,7 +177,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > >
 > > - **政策口号化批判（[[Argument_ONeill_2012_NZJES\|O'Neill, 2012]]）** 揭示政策制定者将源自大学生评教的“教学质量”偷换为中小学教师绩效问责工具，系统忽略 Hattie 本人关于“相关不等于因果”与“不代表日常课堂”的审慎警示。[[Argument_ONeill_2012_NZJES\|(O'Neill, 2012, pp. 154–157)]]
 > > - **时效性与创新抑制（[[Argument_Blass_2020_JESP\|Blass, 2020]]）** 指出 VL 汇总的数据多数来自 1980–1990 年代传统课堂，政策制定者却用其为[[Direct Instruction\|直接教学]]辩护，成为抑制[[Project-Based Learning\|项目式学习]]（PBL）与[[Inquiry-Based Learning\|探究式教学]]的借口；而 Hattie 本人晚期已放弃单一排行榜并转向三阶段学习模型，政策应用与学术反思出现脱节。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 91–97)]]
-> > - **底层数据库质量的最新实证（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 最新的[[Meta-meta-analysis\|二阶元分析]]评测显示，[[Visible Learning]] 既有数据库历史录入与专家仲裁金标准相比存在 57 处单方偏离（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.81$），实证揭示了早期人工录入的历史局限，呼吁在政策转化前进行严格的独立多源核验。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–18)]]
+> > - **底层数据库质量的最新实证（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 最新的[[Meta-meta-analysis\|二阶元分析]]评测显示，[[Visible Learning]] 既有数据库历史录入与专家仲裁金标准相比存在 57 处单方偏离（[[Intraclass Correlation Coefficient\|组内相关系数]] $\text{ICC} = 0.81$），实证揭示了早期人工录入的历史局限，呼吁在政策转化前进行严格的独立多源核验。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–18)]]
 
 ---
 
@@ -212,7 +211,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Victorian HITS and Literacy Toolkit]] | Fact (Policy) | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
 > | [[Hattie på dansk]] | Fact (Event) | 汇集丹麦学者批判公立学校法案机械照搬 VL 的标志性论争事件与文集。 |
 > | [[Visible Learning in Sweden]] | Fact (Event) | 记录瑞典学校法“科学基础”要求下 VL 转向课堂改进工作流程的实践历程。 |
-> | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄[[Nikolas Rose\|罗斯]]学界关于跨文化适用性与方法论的学术争论。 |
+> | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
 > | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。 |
 > | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |

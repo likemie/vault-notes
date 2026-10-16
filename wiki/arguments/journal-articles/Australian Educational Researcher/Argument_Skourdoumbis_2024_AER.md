@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
+  - "[[Performativity]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
   - "[[Apprenticeship]]"
@@ -84,7 +85,7 @@ part_of: ''
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-09-13
+updated: 2026-10-16
 year: 2024
 doi: ""
 citation_aliases:
@@ -269,7 +270,7 @@ citation_aliases:
 ### 论证步骤六：惩罚性问责的逻辑闭环：AITSL认证扩权与教育存在论转向
 
 > [!claim] 步骤六主张
-> 改革将认证机构 AITSL 的行政监控权力推向了新的高度。通过将强制课程、惩罚性资金划拨和毕业生合格标准绑定，建立起表演性问责的逻辑闭环。这最终破坏了大学教师教育的[[Ontology\|本体论]]与存在论基础，从根本上消解了教学的专业性和灵活性。
+> 改革将认证机构 AITSL 的行政监控权力推向了新的高度。通过将强制课程、惩罚性资金划拨和毕业生合格标准绑定，建立起[[Performativity|表演性]]问责的逻辑闭环。这最终破坏了大学教师教育的[[Ontology\|本体论]]与存在论基础，从根本上消解了教学的专业性和灵活性。
 
 > [!proc] 惩罚性问责的制度死锁路径
 > 1. **核心内容强制硬嵌入** AITSL 将“大脑与学习”等核心课程强制列为国家 ITE 项目认证标准的附表（建议1，p. 17）。
@@ -295,7 +296,7 @@ citation_aliases:
 > - **32%** 报告选择性提取的 GOS 2022 调查中认为需要更好更相关课程内容的比例，以此作为大修全国课程的核心证据。（p. 23）
 > - **75%** GOS 2022 调查中毕业教师对 ITE 课程的真实整体满意度，表明所谓“培训质量低下”是个政策伪命题。（p. 30）
 > - **200次** 报告中“证据/循证”（evidence/evidence-based）出现的频次，与其仅出现2次的“工作量”（workload）形成刺眼对比。（p. 6）
-> - **197次** 报告中“认证”（accreditation）出现的频次，凸显了行政监视与表演性问责是本次改革的实质手段。
+> - **197次** 报告中“认证”（accreditation）出现的频次，凸显了行政监视与[[Performativity|表演性]]问责是本次改革的实质手段。
 > - **370万澳元** [[Australian Council for Educational Research\|ACER]] 从独家运营 职前教师准入测试（[[LANTITE]]）中获取的估算年均收益，揭示了循证政策背后的巨额市场化经济利益。（p. 10）
 
 ---

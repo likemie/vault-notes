@@ -9,7 +9,7 @@ aliases:
 summary: "批判性组织社会学概念，描述大型科层企业与政府机构中演化为虚妄表演、争夺地位与抢占资源的庞大日常会议机制；揭示政治型员工如何利用漫长无休的例会与预备会排挤实干工程师，导致稀缺创造力严重内耗与员工心理窒息。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Status Transactions]]"
   - "[[Discourse]]"
   - "[[Creativity]]"
+  - "[[Performativity]]"
   - "[[Technological Republic]]"
 related_theories: []
 related_methods: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Meeting-Industrial Complex
@@ -96,7 +97,7 @@ updated: 2026-10-15
 > 剖析大企业会议文化如何将稀缺的[[Creativity|创造性]]脑力扭曲为内耗性政治防卫。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **会议政治化与人才外流断言** 卡普与扎米斯卡论证指出，美国传统大企业模式已沦为一种毫不掩饰的榨取性体制，其最具破坏性的特征就是会议工业复合体将员工绝大部分精力耗费在防卫内部威胁、结盟与争权上；硅谷初创企业正是大企业会议折磨与心理窒息的直接受益者——无数厌倦了表演性政治的天才工程师作为文化流亡者逃离了传统公司。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]
+> **会议政治化与人才外流断言** 卡普与扎米斯卡论证指出，美国传统大企业模式已沦为一种毫不掩饰的榨取性体制，其最具破坏性的特征就是会议工业复合体将员工绝大部分精力耗费在防卫内部威胁、结盟与争权上；硅谷初创企业正是大企业会议折磨与心理窒息的直接受益者——无数厌倦了[[Performativity|表演性]]政治的天才工程师作为文化流亡者逃离了传统公司。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]
 
 ---
 

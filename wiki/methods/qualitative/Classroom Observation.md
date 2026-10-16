@@ -10,7 +10,7 @@ summary: "研究者或评价者深入真实或录制的课堂教学现场，依�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Active Learning]]"
   - "[[Classroom Management]]"
+  - "[[Performativity]]"
   - "[[Hawthorne Effect]]"
   - "[[Class Size]]"
   - "[[Construct]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Classroom Observation
@@ -186,7 +187,7 @@ updated: 2026-10-15
 
 > [!method-fit] 适用判断
 > - **适合使用** 诊断真实课堂师生互动质量、识别不同背景群体的教学指导差异、为教师提供基于证据的个性化辅导（Coaching）、检验教学干预政策的落地忠实度。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
-> - **谨慎使用** 单次单片段观察极易受教师发挥波动或表演性教学（[[Hawthorne Effect]]）干扰，必须通过多日多片段重复抽样以平滑测量误差。
+> - **谨慎使用** 单次单片段观察极易受教师发挥波动或[[Performativity|表演性]]教学（[[Hawthorne Effect]]）干扰，必须通过多日多片段重复抽样以平滑测量误差。
 > - **不适合使用** 脱离系统诊断而单纯用于高利害惩戒性解聘筛选；缺乏严格观察员认证考核的大规模行政督导往往导致评分严重失真。
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-10-15
 
 > [!method-limits] 方法局限
 > - **观察员认知偏误** 个人经验滤镜、[[Halo Effect|光环效应]]、首因效应、极端分回避及跨教师比照易严重破坏评分一致性。
-> - **[[Hawthorne Effect|霍桑效应]]与表演性失真** 外部观察员进入教室可能改变师生的常态互动，产生刻意迎合量规的短期表演行为。
+> - **[[Hawthorne Effect|霍桑效应]]与[[Performativity|表演性]]失真** 外部观察员进入教室可能改变师生的常态互动，产生刻意迎合量规的短期表演行为。
 > - **大[[Class Size|班额]]情境下的测量死角** 在 60–100 人的超大班额中，后排与角落学生的学习状态极易被遮蔽漏判。
 > - **改进防范措施** 建立严格的视频双盲认证考试（通过率达标上岗）、推行双段独立观察设计并配套定点纠偏手册。
 

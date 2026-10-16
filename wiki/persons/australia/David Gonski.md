@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Teacher Professional Agency]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Performativity]]"
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # David Gonski
@@ -129,7 +130,7 @@ updated: 2026-10-15
 > > [!axis] 资源投入公平 vs 成果产出审计对[[Teacher Professional Agency\|教师专业自主权]]的侵蚀
 > > 争议 Gonski 2.0 将重点转向“因果证据”与“学习成长增益”对基层教学的冲击。
 > >
-> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，演变为以因果实验与指标排行榜[[Disciplina and Doctrina\|规训]]教师的表演性问责工具。
+> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，演变为以因果实验与指标排行榜[[Disciplina and Doctrina\|规训]]教师的[[Performativity|表演性]]问责工具。
 > > - **政策技术官僚** 认为单靠砸钱无法解决澳洲 [[PISA]] 成绩长期下滑的困境，必须借助循证证据指导财政使用方向，确保资金真正转化为学习效能。
 
 ---

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Self-Efficacy]]"
   - "[[School Leadership]]"
+  - "[[Performativity]]"
   - "[[School Autonomy]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
@@ -34,7 +35,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[New Public Management]]"
   - "[[Decodification]]"
-  - "[[Performativity]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Causality]]"
@@ -145,7 +145,7 @@ updated: 2026-10-16
 > 这类命题探讨外部高利害问责对课堂教学实践的塑造，重点关注[[Performance Indicators\|绩效指标]]对教学目标的替换以及对创新教学法的抑制。
 
 > [!claim] [[Stephen Ball\|Ball, S.]] J.
-> **表演性文化与教学窄化** 依赖考试成绩规制教学会产生表演性文化，将教学焦点窄化为官方绩效指标可测量的目标，挤压了更广泛的教育目的。[[Argument_Wang_2025_CE\|(Ball, 2003, 引自 Wang & McLaughlin, 2025, p. 588)]]
+> **[[Performativity|表演性]]文化与教学窄化** 依赖考试成绩规制教学会产生表演性文化，将教学焦点窄化为官方绩效指标可测量的目标，挤压了更广泛的教育目的。[[Argument_Wang_2025_CE\|(Ball, 2003, 引自 Wang & McLaughlin, 2025, p. 588)]]
 
 > [!claim] [[Michele Schweisfurth\|Schweisfurth, M.]]
 > **固定标准对探究教学的挤压** 当以固定标准评判学生时，探究性、灵活的教育模式，如以学生为中心教育，容易在应试压力下成为奢侈品。[[Argument_Wang_2025_CE\|(Schweisfurth, 2013, 引自 Wang & McLaughlin, 2025, p. 588)]]
@@ -220,7 +220,7 @@ updated: 2026-10-16
 > > [!axis] 对教育质量与教学实践的影响
 > > 焦点在于考试问责是提供了清晰的[[Framework for Teaching|教学框架]]支持，还是导致了课程窄化与应试异化。
 > >
-> > - **Ball（2003）** 认为问责导致表演性文化与课程窄化。
+> > - **Ball（2003）** 认为问责导致[[Performativity|表演性]]文化与课程窄化。
 > > - **Boardman and Woodruff（2004）** 认为测试为特定技能教学提供了有益框架。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
 >
 > > [!axis] 对教育公平与阶层流动的机制

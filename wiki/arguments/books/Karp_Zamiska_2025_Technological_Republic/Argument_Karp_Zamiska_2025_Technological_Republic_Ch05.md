@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05"
 argument_display_title: "The abandonment of belief"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Grandes Ecoles]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Performativity]]"
   - "[[Feeding Frenzy]]"
   - "[[Institutional Displacement]]"
   - "[[Generative Artificial Intelligence]]"
@@ -66,7 +67,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch05
 
@@ -141,7 +142,7 @@ updated: 2026-10-08
 > [!case] 2023 年高校国会听证会：顶尖高校校长的合规辞令与道德瘫痪
 > - **视情境而定的冷酷法律辞令** 2023 年 12 月，哈佛[[Grandes Ecoles|大学校]]长克劳丁·盖伊（Claudine Gay）、宾夕法尼亚大学校长伊丽莎白·马吉尔（Elizabeth Magill）与麻省理工学院（Massachusetts Institute of Technology, MIT）校长萨莉·科恩布鲁斯（Sally Kornbluth）因校园抗议事件出席国会听证会。面对议员关于呼吁对犹太人进行种族灭绝是否违反学校反骚扰规定的质询，在知名律师事务所 WilmerHale 辅导下的校长们给出了极其冷漠的法律程序性回答，马吉尔更是回应称：“这是一个视情境而定的决定”（pp. 59–60, 64）。
 > - **微观语言[[Disciplina and Doctrina|规训]]与重大道德中立的体制双标** 这些大学在日常管理中极其严格地排查可能引起学生心理不适的微侵犯言论，但在面对公开煽动仇恨的重大原则问题时，却突然退守到冷冰冰的法律条文与抽象的程序中立之中，暴露出精英阶层为了保住职位而放弃真正信念的内在矛盾。
-> - **领导力实质溃败与校长辞职风暴** 听证会引发全美舆论强烈谴责，马吉尔与盖伊随后相继被迫辞职。哈佛大学前校长劳伦斯·萨默斯（Lawrence Summers）指出，即便国会的质询带有明显的政治表演性质，公众也完全有理由要求身处顶尖学府领导位置的人展现出更高的道德担当（pp. 60, 64–65）。
+> - **领导力实质溃败与校长辞职风暴** 听证会引发全美舆论强烈谴责，马吉尔与盖伊随后相继被迫辞职。哈佛大学前校长劳伦斯·萨默斯（Lawrence Summers）指出，即便国会的质询带有明显的政治[[Performativity|表演性]]质，公众也完全有理由要求身处顶尖学府领导位置的人展现出更高的道德担当（pp. 60, 64–65）。
 
 > [!factors] 管理者信念空洞化的制度成因
 > - **公众舆论对真诚信念的惩罚机制** 任何敢于亮明真实观点、承担争议的公共人物都会在舆论场中遭遇严厉围攻，这种机制直接淘汰了有独立思想的实干家，选拔出善于规避风险的平庸官僚（pp. 60–61）。

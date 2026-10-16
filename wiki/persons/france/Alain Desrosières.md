@@ -9,7 +9,7 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Data Infrastructure]]"
+  - "[[Performativity]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
@@ -76,7 +77,7 @@ updated: 2026-10-16
 > - **代表贡献** 创立量化历史社会学分析[[Paradigm|范式]]，系统提出[[Space of Equivalence|等值空间]]（Space of Equivalence）与[[Commensuration|通约化]][[Analytic Framework|分析框架]]，揭示统计工具兼具“证明”（Prouver）与“治理”（Gouverner）的双重政治属性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card]- 人物定位的关键来源
-> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目并未被动记录各国的既有教育成就，而是借助阿兰·德罗西埃所界定的统计建构逻辑，凭空制造出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了绝对优先于本土效度与[[Ontology|本体论]]多样性的至高地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目并未被动记录各国的既有教育成就，而是借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，凭空制造出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了绝对优先于本土效度与[[Ontology|本体论]]多样性的至高地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured.*
 
@@ -116,7 +117,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 量化统计绝非对既有外部客观世界的中立测量与被动镜像，而是一种通过制定规范惯例、消除地方情境差异并建立“[[Space of Equivalence|等值空间]]”（Space of Equivalence）来强行“将事物凝聚在一起”（*tenir ensemble*）的制度建构工程。量化兼具科学“证明”（Prouver）与政治“治理”（Gouverner）的双重功能；一旦统计指标脱离认知探索而沦为行政问责与资源分配的工具，它便会借助数字的客观科学伪装，掩盖极其复杂的政治价值决断，并通过自我实现的[[Commensuration|通约]]机制深度重塑被测量对象的实践生态。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
-> [!citation-card] 德罗西埃论统计作为制造等值空间的制度公约
+> [!citation-card] [[Alain Desrosières|德罗西埃]]论统计作为制造等值空间的制度公约
 > 测量意味着以一种可通约的方式，将性质各异的个体与地方事件置于同一度量尺度之下。这一过程首先要求建立一套制度公约与社会认同，即建构一个“等值空间”。在这一空间内部，个别事物的特异性被系统性剥离，唯有那些符合标准化度量维度的属性才被赋予可见性。因此，统计并非发现现实，而是在参与制造可供行政国家与跨国市场治理的全新社会现实。
 >
 > *Quantifying means to make something into a number ... It implies that a series of distinct events or objects are considered equivalent according to a convention. The creation of a space of equivalence is an essential prerequisite for any measurement and comparison.* (Desrosières, 1998)
@@ -132,7 +133,7 @@ updated: 2026-10-16
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[Alain Desrosières|德罗西埃]]的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
 
 ---
@@ -155,13 +156,13 @@ updated: 2026-10-16
 > > 争论的核心在于公共统计是否构成了不以人的意志为转移的社会物理学事实。
 > >
 > > - **传统[[Positivism|实证主义]]与官僚技术主义者** 坚持统计测度的现实主义立场，认为经过严格抽样与标准化校准的数字忠实刻画了外部世界的客观运行规律。
-> > - **德罗西埃与公约社会学派** 坚持关系建构论立场，论证量化依赖于特定的社会编码制度与政治妥协，脱离了[[Space of Equivalence|等值空间]]的公约支持，数字将彻底失去现实依托。
+> > - **[[Alain Desrosières|德罗西埃]]与公约社会学派** 坚持关系建构论立场，论证量化依赖于特定的社会编码制度与政治妥协，脱离了[[Space of Equivalence|等值空间]]的公约支持，数字将彻底失去现实依托。
 >
 > > [!axis] 量化治理的政治后果：增进民主问责还是削弱实质审议？
 > > 争论的核心在于公共部门普遍推行的量化管理是否真正改善了民主治理绩效。
 > >
 > > - **[[New Public Management|新公共管理]]与循证政策倡导者** 认为数字指标能够打破官僚黑箱，为纳税人与决策层提供透明、客观的监督与资源配置抓手。
-> > - **批判治理学者与德罗西埃** 警示指标治理会导致“反向因果操纵”与深层非政治化，迫使公共机构陷入数字达标的表演性狂热，扼杀了实质性民主审议。
+> > - **批判治理学者与德罗西埃** 警示指标治理会导致“反向因果操纵”与深层非政治化，迫使公共机构陷入数字达标的[[Performativity|表演性]]狂热，扼杀了实质性民主审议。
 
 > [!warning] 未解问题与边界
 > 德罗西埃的理论聚焦于国家统计局与跨国组织的宏观测度系统建立过程，主要分析公约如何在制度顶层达成妥协；对于基层被测对象（如一线教师、学生或底层工人）如何在微观日常实践中主动反向操纵、规避或战略性挪用量化指标，其经典文本论述相对偏弱，需结合微观[[Ethnography|民族志研究]]予以补充。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]

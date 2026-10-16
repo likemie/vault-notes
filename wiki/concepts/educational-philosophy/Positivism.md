@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 121
+related_count: 122
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Technological Republic]]"
+  - "[[Performativity]]"
   - "[[Working Hypothesis]]"
   - "[[Grand Theory]]"
   - "[[Discourse]]"
@@ -377,7 +378,7 @@ updated: 2026-10-16
 > - **1990 年代 — 历史维度流失与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
-> - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与表演性道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
+> - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与[[Performativity|表演性]]道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -158,7 +159,7 @@ updated: 2026-10-16
 > - 国家监控学者
 > - "科学凌驾于社会科学之上"
 >
-> > "Visible Learning is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."
+> > "Visible Learning is the perfect tool for the 'new management [[Panopticism]]' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."
 >
 > **测量如何制造服从**
 >

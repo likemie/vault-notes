@@ -7,7 +7,7 @@ aliases:
 summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空间化拓展，指出治理不仅是对身体与时间的规训，更本质地依赖于空间的构想、划界与操控；该理论通过领地化划界、空间化统治之眸与空间质地建模三大轴线，揭示了现代学校如何作为封闭性空间容器与资格筛选装置，规制不同人口群体的物理与社会流动。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
   - "[[Educational Governance Framework]]"
+  - "[[Panopticism]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -81,7 +82,7 @@ updated: 2026-10-16
 > [!theory-origin] 空间化[[Educational Governance Framework|治理分析框架]]的提出
 > - **提出者与原始文本** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）于 1999 年在著作《自由的力量：重构政治思想》（*Powers of Freedom: Reframing Political Thought*）中正式系统阐发了政[[Governmentality|治理性]]与治理思想的空间化维度。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **原初问题** 现代自由主义国家如何在不诉诸普遍暴力的前提下，维持庞大人口的社会秩序并引导个体实现“自我治理”；空间如何从单纯的物理距离转变为权力和自由相互博弈的技术载体。
-> - **理论资源与材料** 吸收了福柯关于空间区隔（如全景敞视建筑、临床医学空间）的洞见，结合 19 世纪以来公共卫生普查、城市贫民窟空间调查（如 James Kay-Shuttleworth 1832 年关于曼彻斯特劳工阶层的调查）以及现代人口统计学的历史材料。
+> - **理论资源与材料** 吸收了福柯关于空间区隔（如[[Panopticism|全景敞视建筑]]、临床医学空间）的洞见，结合 19 世纪以来公共卫生普查、城市贫民窟空间调查（如 James Kay-Shuttleworth 1832 年关于曼彻斯特劳工阶层的调查）以及现代人口统计学的历史材料。
 > - **形成路径** Rose 从权力运行对“可见性（Visibility）”与“可计算性（Calculability）”的依赖出发，提炼出领地化划界、空间化统治之眸与空间质地建模三大分析轴线，指出自由主义治理的实质就是构建适宜特定人类品性生存与自我调节的微观空间。
 
 ### 后续修订与扩展

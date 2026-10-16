@@ -8,7 +8,7 @@ aliases:
 summary: "政治心理学与言论审查控制机制概念，由汉学家林培瑞提出；指通过维持潜伏未定的威慑气场诱发广泛的心理警惕与前置自我审查，而非依赖机械化明文禁令的深层规训机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Grandes Ecoles]]"
-related_theories: []
+related_theories:
+  - "[[Panopticism]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Anaconda in the Chandelier
@@ -63,7 +64,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 吊灯里的巨蟒（心理审查隐喻） | 机械条文审查（苏联式手册审查） | 全景敞视建筑（Panopticon） |
+> | 维度 | 吊灯里的巨蟒（心理审查隐喻） | 机械条文审查（苏联式手册审查） | [[Panopticism\|全景敞视建筑]]（Panopticon） |
 > |---|---|---|---|
 > | **[[Disciplina and Doctrina\|规训]]机制** | 模糊红线引发前置心理恐惧与主动自律 | 依靠明文禁令清单逐项比对过滤 | 确信时刻处于中心凝视下的行为合规 |
 > | **执行成本** | 极低（依靠被管理者自我审查完成规训） | 高昂（需庞大官僚机器逐字核验） | 中等（依靠建筑与技术架构威慑） |

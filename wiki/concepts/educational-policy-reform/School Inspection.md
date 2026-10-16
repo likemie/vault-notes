@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
   - "[[Self-control]]"
+  - "[[Performativity]]"
   - "[[Public-Private Partnership]]"
   - "[[Professional Learning Community]]"
   - "[[Academic Achievement]]"
@@ -121,7 +122,7 @@ updated: 2026-10-16
 > - **School Inspection（学校督导）vs Test-Based Accountability（基于测试的问责）**
 >   - 后者纯粹依赖统一标准化测验分数（如考绩排列表、附加值指标），实施算法化远程监控；前者则依托专业督学开展质性实地走访、[[Classroom Observation|课堂观察]]与质询，给出定性等级报告。现代治理常将二者混合，即用测试[[Winnowing\|数据筛选]]重点督查对象。
 > - **Punitive Inspection（惩罚性问责督导）vs Diagnostic-Supportive Inspection（诊断支持型督导）**
->   - 前者（以英国教育标准办公室（Office for Standards in Education, Children's Services and Skills, [[Ofsted]]）为代表）将督导等第与撤换校长、强制转制挂钩，制造恐慌与表演性合规；后者（以德国学校视导／督导 Schulinspektion / Schulvisitation 为代表）侧重对全州所有学校开展办学条件与教学过程的普查式诊断，指导行政部门定点帮扶，利害性较低而治理指导性更强。
+>   - 前者（以英国教育标准办公室（Office for Standards in Education, Children's Services and Skills, [[Ofsted]]）为代表）将督导等第与撤换校长、强制转制挂钩，制造恐慌与[[Performativity|表演性]]合规；后者（以德国学校视导／督导 Schulinspektion / Schulvisitation 为代表）侧重对全州所有学校开展办学条件与教学过程的普查式诊断，指导行政部门定点帮扶，利害性较低而治理指导性更强。
 > - **Punitive Inspection（惩罚性督导）vs Dialogical Target-Agreement Inspection（目标协定对话型督导）**
 >   - 前者依托突击检查、单一定级与行政制裁；后者（如奥地利 SQA 模式）依托督学与校长的双向平等对话与周期性目标责任书，将督导嵌入单校自主规划与发展循环，强调协商共识而非外部高压惩戒。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20)]]
 > - **Public Statutory Inspection（公共法定督导）vs Commercial Outsourced Inspection（商业外包督导）**

@@ -36,7 +36,6 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Neo-Taylorism]]"
   - "[[Falsification]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[Global Education Reform Movement]]"
   - "[[Teacher Professional Agency]]"
@@ -46,6 +45,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Learning Intentions]]"
   - "[[Sage]]"
   - "[[Academic Achievement]]"
@@ -54,7 +54,8 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Ecological Validity]]"
   - "[[Heterogeneity]]"
-related_theories: []
+related_theories:
+  - "[[Panopticism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -109,14 +110,14 @@ updated: "2026-10-16"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Cargo Cult Science\|货物崇拜科学（Cargo Cult Science）]]**<br>[[Cargo Cult Science]] | 借用物理学家理查德·费曼（Richard Feynman）的科学哲学诊断，揭示 VL 虽具图表、海量文献与[[Effect Size\|效应量]]等科学外观，却缺乏科学家竭尽全力证明自己可能出错的诚实与严谨品格。（pp. 34–35） |
-> | **[[Neo-Taylorism\|新泰勒主义（Neo-Taylorism）]]**<br>[[Neo-Taylorism]] | 承接弗雷德里克·温斯洛·泰勒（Frederick Winslow Taylor）的工业科学管理逻辑，将复杂的育人活动拆解为可度量的技术清单，把劳动控制权从一线教师转移至管理层与数据系统。（pp. 28–29） |
-> | **全景监视理论（Panopticism）**<br>[[Disciplina and Doctrina]] | 结合米歇尔·福柯（Michel Foucault）关于全景敞视的论述，剖析哈蒂主持开发的[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle）系统如何将教师置于随时被观察与被考核的状态。（p. 28） |
-> | **[[Performativity\|表演性（Performativity）]]**<br>[[Performativity]] | 采用学者[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）的规训概念，分析教师价值如何被简化为可度量的指标，迫使日常教学演变为迎合外部审查的技术表演。（p. 29） |
-> | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]**<br>[[Global Education Reform Movement]] | 借用帕西·萨尔伯格（Pasi Sahlberg）的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。（pp. 30–31） |
+> | **[[Cargo Cult Science\|货物崇拜科学（Cargo Cult Science）]]** | 借用物理学家理查德·费曼（Richard Feynman）的科学哲学诊断，揭示 VL 虽具图表、海量文献与[[Effect Size\|效应量]]等科学外观，却缺乏科学家竭尽全力证明自己可能出错的诚实与严谨品格。（pp. 34–35） |
+> | **[[Neo-Taylorism\|新泰勒主义（Neo-Taylorism）]]** | 承接弗雷德里克·温斯洛·泰勒（Frederick Winslow Taylor）的工业科学管理逻辑，将复杂的育人活动拆解为可度量的技术清单，把劳动控制权从一线教师转移至管理层与数据系统。（pp. 28–29） |
+> | **[[Panopticism\|全景监视理论（Panopticism）]]** | 结合米歇尔·福柯（Michel Foucault）关于全景敞视的论述，剖析哈蒂主持开发的[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle）系统如何将教师置于随时被观察与被考核的状态。（p. 28） |
+> | **[[Performativity\|表演性（Performativity）]]** | 采用学者[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）的规训概念，分析教师价值如何被简化为可度量的指标，迫使日常教学演变为迎合外部审查的技术表演。（p. 29） |
+> | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]** | 借用帕西·萨尔伯格（Pasi Sahlberg）的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。（pp. 30–31） |
 
 > [!warrant]- 理论如何支撑论证
-> 四组理论工具逐层递进，将表面上的统计学缺陷与深层社会制度联系起来：首先运用科学哲学辨析其伪科学属性；接着运用劳动过程理论说明其在课堂上对[[Teacher Professional Agency|教师专业自主权]]的压缩；再通过教育社会学展现一线教师遭遇的职业异化；最终上升至政治经济学，揭露其服务于政府财政紧缩与教育商业化的真实功能。（pp. 24–25, 34–36）
+> 五组理论工具逐层递进，将表面上的统计学缺陷与深层社会制度联系起来：首先运用科学哲学辨析其伪科学属性；接着运用劳动过程理论说明其在课堂上对[[Teacher Professional Agency|教师专业自主权]]的压缩；再通过教育社会学展现一线教师遭遇的职业异化；最终上升至政治经济学，揭露其服务于政府财政紧缩与教育商业化的真实功能。（pp. 24–25, 34–36）
 
 ---
 
@@ -226,7 +227,7 @@ updated: "2026-10-16"
 
 #### 3. 澳大利亚维多利亚州强推标准清单，导致形式主义表演与专业自主性萎缩
 
-过度迷恋量化数据催生了学者鲍尔所指出的表演性困境，教师被要求不断提供外在材料来证明自身的合规性。（pp. 29–30）
+过度迷恋量化数据催生了学者鲍尔所指出的[[Performativity|表演性]]困境，教师被要求不断提供外在材料来证明自身的合规性。（pp. 29–30）
 
 > [!case] 维多利亚州推行高影响力教学策略的实践恶果
 > 澳大利亚部分地区将基于 VL 提炼的高影响力教学策略（High Impact Teaching Strategies, [[Victorian HITS and Literacy Toolkit|HITS]]）变成刚性制度，给基层学校带来严重困扰：

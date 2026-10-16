@@ -6,10 +6,10 @@ aliases:
 summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - neo-taylorism
 - educational-administration
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
   - "[[Scientific Method]]"
-related_theories: []
+related_theories:
+  - "[[Panopticism]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -110,7 +111,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - Taylor（1911）*The Principles of Scientific Management* — 经典源头：科学管理的四原则（寻找唯一正确方法、任务拆解、消除磨洋工、最大化效率）
 - Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史[[Analytic Framework|分析框架]]：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
 - [[Technical Rationality]] — Schön（1983）的[[Positivism|实证主义]]专业实践模型是 Neo-Taylorism 的[[Epistemology|认识论]]内核：手段-目的思维、[[Value Neutrality|价值中立]]、工程/医学模式
-- Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 [[Assessment Tools for Teaching and Learning|asTTle]]/VL 的监控逻辑提供理论框架
+- Foucault（1977）*Discipline and Punish* — 全景监狱（[[Panopticism|panopticon]]）隐喻为理解 [[Assessment Tools for Teaching and Learning|asTTle]]/VL 的监控逻辑提供理论框架
 - [[New Public Management]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分
 
 ## 制度表现

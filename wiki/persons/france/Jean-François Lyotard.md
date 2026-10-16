@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Jean-François Lyotard
@@ -128,7 +128,7 @@ updated: 2026-10-15
 > - **Late 1960s–1970s中 — 感性美学与力比多经济学转向阶段** 回应经典马克思主义和结构主义对欲望的系统压制，转向力比多强度的释放。
 >   - **代表著作** 《论述，形象》（*Discours, figure*, 1971）、《力比多经济学》（*Libidinal Economy*, 1974）。
 >   - **关键概念／方法** 形象（Figure）解构、力比多流、欲望强度。
->   - **阶段转向** 在此阶段利奥塔彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。
+>   - **阶段转向** 在此阶段[[Jean-François Lyotard|利奥塔]]彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。
 > - **Late 1970s–1980s — 后现代状况与分歧哲学阶段** 研究后工业社会知识合法性的蜕变，探讨去中心化公正以及无法[[Commensuration\|通约]]的言说不义。
 >   - **代表著作** 《后现代状况》（*The Postmodern Condition*, 1979）、《公正》（*Au juste*, 1979）、《分歧》（*Le Différend*, 1983）。
 >   - **关键概念／方法** [[Performativity\|绩效性]]（[[Performativity]]）、[[Grand Theory\|元叙事]]怀疑、分歧（The Differend）、[[Incommensurability\|不可通约性]]（[[Incommensurability]]）。
@@ -168,7 +168,7 @@ updated: 2026-10-15
 > *I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.*
 
 > [!citation-card] 知识商品化：后现代知识旨在进入市场售卖
-> 正如利奥塔早在二十世纪八十年代所指出的那样，在我们这个时代，知识的生产是为了进入市场售卖。当大学的教育学院开发出关于如何使学校、学区或国家体系“更为高效与有效”的专门知识时，它们便将其作为商品投入咨询市场出售，以提升组织的创收绩效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]；引自 Lyotard (1984)
+> 正如[[Jean-François Lyotard|利奥塔]]早在二十世纪八十年代所指出的那样，在我们这个时代，知识的生产是为了进入市场售卖。当大学的教育学院开发出关于如何使学校、学区或国家体系“更为高效与有效”的专门知识时，它们便将其作为商品投入咨询市场出售，以提升组织的创收绩效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]；引自 Lyotard (1984)
 >
 > *As Lyotard (1984) noted some time ago, in our times knowledge is produced in order to be sold. So, if the Department of Education of a given University develops certain knowledge about how to make schools (or districts or national systems) more 'efficient and effective' they should sell this knowledge in the market in order to contribute to the performance of the organisation.*
 
@@ -186,13 +186,13 @@ updated: 2026-10-15
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心[[Competitiveness|竞争力]]不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]提供了时代合理性。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network\|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier\|漂浮能指]]”的生存博弈机制。
 > - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引利奥塔知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引[[Jean-François Lyotard|利奥塔]]知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
 
 ---
 
 ## 历史评价
 
-> [!citation-card] Beech论利奥塔知识商品化命题对大学咨询市场扩张的解释力
+> [!citation-card] Beech论[[Jean-François Lyotard|利奥塔]]知识商品化命题对大学咨询市场扩张的解释力
 > 利奥塔在《后现代状况》中揭示的“[[Knowledge Production|知识生产]]为了售卖”命题，在当代全球教育转移与大学转型中得到了深刻印证：在政府公共财政紧缩压力下，大学教育学院将研发的[[School Effectiveness|学校效能]]与治理方案打包为高价咨询商品，向海外发展中国家开辟市场以补充政府拨款，推动了跨国[[Policy Borrowing|政策借用]]主体从主权国家官员向学术咨询资本的深刻质变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 >
 > *As Lyotard (1984) noted some time ago, in our times knowledge is produced in order to be sold. So, if the Department of Education of a given University develops certain knowledge about how to make schools (or districts or national systems) more 'efficient and effective' they should sell this knowledge in the market in order to contribute to the performance of the organisation.*
@@ -203,7 +203,7 @@ updated: 2026-10-15
 
 > [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
-> - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视利奥塔的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
+> - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视[[Jean-François Lyotard|利奥塔]]的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
 > - **现代跨国教育流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **机构／运动／项目** 
 >   - “社会主义或野蛮”（Socialisme ou Barbarie）极左翼政治组织 — 1954–1964年间为其核心成员，秘密支持阿尔及利亚独立运动。
@@ -236,4 +236,4 @@ updated: 2026-10-15
 > | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
 > | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis\|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 援引利奥塔知识商品化理论，剖析大学国际发展部将学校效能打包为跨国咨询商品的运作逻辑。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 援引[[Jean-François Lyotard\|利奥塔]]知识商品化理论，剖析大学国际发展部将学校效能打包为跨国咨询商品的运作逻辑。 |

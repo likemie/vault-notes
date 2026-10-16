@@ -7,7 +7,7 @@ aliases:
 summary: "社会学者罗伯·亨德森提出的社会分层与文化资本概念；指特权阶层为彰显自身道德优越感与社会地位而采纳、自身承担极低成本却将严重社会代价转嫁给底层弱势群体的意识形态信念（例如削减地方执法支持或抵制技术警务）。"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Externalization]]"
+  - "[[Performativity]]"
   - "[[Discourse]]"
   - "[[Procedural Piety]]"
   - "[[Cultural Capital]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Luxury Belief
@@ -81,7 +82,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **地位象征功能（Status-Signaling Function）** 精英通过倡导脱离现实的激进观念在同行中建立文化声望，形成道德垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 > - **代价[[Externalization|外部化]]（Cost Externalization）** 倡导者自身居住于高安全富裕社区，享有私人安保或良好治安，免受政策恶果的直接冲击。
-> - **表演性道德[[Discourse|话语]]（[[Procedural Piety|Performative Moralism]]）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
+> - **[[Performativity|表演性]]道德[[Discourse|话语]]（[[Procedural Piety|Performative Moralism]]）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
 
 ---
 
@@ -105,7 +106,7 @@ updated: 2026-10-08
 > 批判以虚假道德纯洁性为由抵制前沿科技在执法中应用对底层生命安全造成的漠视。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **表演性道德辞令剥夺了弱势群体的安全保障** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，部分民权倡导者与科技公司高管全面禁止人脸识别与治安数据分析软件的呼吁，是典型的炫耀性信念。这种做法将全部道德义愤倾泻在新型技术本身上，却对每年数以千计死于暴力犯罪的底层生命表现出冷漠与麻木；将虚饰的道德表态置于实际降低犯罪率的工程实效之上，不仅割裂了公共对话，更在地方执法中筑起了阻断创新的荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 176–178)]]
+> **[[Performativity|表演性]]道德辞令剥夺了弱势群体的安全保障** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，部分民权倡导者与科技公司高管全面禁止人脸识别与治安数据分析软件的呼吁，是典型的炫耀性信念。这种做法将全部道德义愤倾泻在新型技术本身上，却对每年数以千计死于暴力犯罪的底层生命表现出冷漠与麻木；将虚饰的道德表态置于实际降低犯罪率的工程实效之上，不仅割裂了公共对话，更在地方执法中筑起了阻断创新的荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 176–178)]]
 
 ---
 

@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -17,6 +17,7 @@ tags: [paradigm/poststructural, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Determinism]]"
   - "[[Artefact]]"
+  - "[[Performativity]]"
   - "[[Discourse]]"
   - "[[Reflective Thinking]]"
   - "[[Grand Theory]]"
@@ -62,7 +63,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过表演性[[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
+> **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过[[Performativity|表演性]][[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言、文本、话语与能动主体之间的建构性张力，否定客观规律预设与单一本质主义意义。
@@ -100,7 +101,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
 > - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，而是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
-> - **数据即表演性[[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
+> - **数据即[[Performativity|表演性]][[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
 > - **解构与意义特权化揭示（Deconstruction and [[Institutional Layering|layering]] of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
 > - **四重视角阐释网络（Multiple Perspectives Network）** 探究必须协同捕捉参与者、研究者、研究受众与研究读者的多重视角，并将研究发现锚定在参与者对自我的主观认知之中。
 > - **[[Knowledge Production\|知识生产]]与合法化反思（Production and Legitimation of Knowledge）** 审视教育研究中的知识是如何被特定权力网络生产、赋予合法性并加以运用的，破除客观中立神话。
@@ -172,7 +173,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — 哲学发轫与解构主义确立** 雅克·德里达（Jacques Derrida）发表《论文字学》与米歇尔·福柯（Michel Foucault）确立[[Discourse|话语]]实践谱系学，标志着对传统结构主义固定符号中心论的解构，主体被重塑为处于话语交错网中的动态存在。
-> - **1987 — 现代性与[[Critical Theory\|批判理论]]的哲学交锋** 于尔根·[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）在《现代性的哲学话语》中激烈批评后结构主义与[[Postmodernism\|后现代主义]]，认为其总体化理性解构陷入了“表演性自相矛盾”，反对批判理论与后结构主义的简单媾和。
+> - **1987 — 现代性与[[Critical Theory\|批判理论]]的哲学交锋** 于尔根·[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）在《现代性的哲学话语》中激烈批评后结构主义与[[Postmodernism\|后现代主义]]，认为其总体化理性解构陷入了“[[Performativity|表演性]]自相矛盾”，反对批判理论与后结构主义的简单媾和。
 > - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** 伯曼与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
 > - **2010s 至今 — [[Reflective Thinking\|反思性探究]]与[[Paradigm\|范式]]共生前沿** 贝姬·弗朗西斯（Francis, 2010）与 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将后结构主义确立为联结[[Interpretive Paradigm\|诠释范式]]、[[Complexity Theory\|复杂性理论]]与批判理论的关键纽带，强调四重视角网络与放弃[[Determinism\|决定论]]因果律。
 
@@ -186,7 +187,7 @@ updated: 2026-10-16
 > > 争论后结构主义对理性与本质的彻底解构是否会摧毁教育正义的规范性基础。
 > >
 > > - **后结构倡导阵营（Foucault; Derrida）** 主张消解单一真理与本质主义能粉碎霸权[[Discourse|话语]]的[[Disciplina and Doctrina\|规训]]特权，为被压抑的他者与边缘经验撕开解放空间。
-> > - **[[Critical Theory\|批判理论]]学派（Habermas, 1987）** 批评后结构主义陷入总体化怀疑论与表演性矛盾；若否定普遍交往理性的有效性诉求，教育批判将丧失区分正义与压迫的规范性道德支点。
+> > - **[[Critical Theory\|批判理论]]学派（Habermas, 1987）** 批评后结构主义陷入总体化怀疑论与[[Performativity|表演性]]矛盾；若否定普遍交往理性的有效性诉求，教育批判将丧失区分正义与压迫的规范性道德支点。
 >
 > > [!axis] 泛文本主义 vs 物质制度与现实不平等的唯物客观性
 > > 争论将一切数据、对话与[[Artefact\|人工制品]]泛化为“文本/话语”是否掩盖了教育资源的客观物质壁垒。
