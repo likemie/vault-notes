@@ -28,7 +28,6 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
-  - "[[Going Native]]"
   - "[[Open-Mindedness]]"
   - "[[Response-ability]]"
   - "[[Virtual World]]"
@@ -149,7 +148,7 @@ updated: 2026-10-16
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 为什么[[International Education\|国际教育]]模式在不同国家落地时会产生截然不同的地方改组与[[Going Native\|本土化]]（indigenisation）现象。
+> - **适合解释** 为什么[[International Education\|国际教育]]模式在不同国家落地时会产生截然不同的地方改组与本土化（indigenisation）现象。
 > - **谨慎使用** 涉及强力的宏观地缘干预或军事政治安全强力介入改变课程边界的历史节点，自组织自创生机制可能部分失效。
 > - **不适合解释** 简单的技术性因果效应关系或精确的教育干预产出比例。
 > - **常见误用** 将教育自创生理解为绝对的地理隔离或绝对的不可改变，混淆了系统“操作上的封闭性”与“能量与材料交换上的[[Open-Mindedness|开放性]]”。
@@ -178,7 +177,7 @@ updated: 2026-10-16
 > > [!axis] Isomorphism vs Indigenisation
 > > 争论世界社会到底是向西方的同质化模型强制性收敛，还是通过本国的自参照独立运作发生无尽的折射与印记保留 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])。
 > > - **Meyer and Ramirez (2000)** 强调由于全球普世[[Cultural Models\|文化模型]]的输出，教育政策呈现广泛的形式趋同。
-> > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和实践层面发生着根深蒂固的[[Going Native\|本土化]]重塑与拒绝。
+> > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和实践层面发生着根深蒂固的本土化重塑与拒绝。
 
 > [!critique]- 批评索引
 > - [[Argument_Amos_2022_Springer\|Amos, 2022]] — 批评自创生理论在应对晚期现代性关系伦理时，对 connectivity 和 response-ability 的敏锐度不足，需要用 sympoiesis 对抗[[Transhumanism\|超人类主义]]的技术优化狂热。

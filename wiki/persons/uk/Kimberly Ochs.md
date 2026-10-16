@@ -25,7 +25,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Concept Mapping]]"
   - "[[Global Universities Rankings]]"
-  - "[[Going Native]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -87,6 +86,6 @@ updated: 2026-10-16
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Policy Borrowing\|政策借用]]四阶段模型** — [[Cross-National Attraction\|跨国吸引]]力→决策→实施→内化／[[Going Native\|本土化]]（Phillips & Ochs, 2003）
+> - **[[Policy Borrowing\|政策借用]]四阶段模型** — [[Cross-National Attraction\|跨国吸引]]力→决策→实施→内化／本土化（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 六类政策焦点 + 13 种情境因素（Ochs & Phillips, 2002）
 > - **四种吸引力"火花"分类** — 为理解为什么外国范例被引入国内辩论提供了分析工具

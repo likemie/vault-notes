@@ -33,7 +33,6 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
-  - "[[Going Native]]"
   - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Epoché]]"
@@ -212,7 +211,7 @@ updated: 2026-10-16
 > - **1979 — 《区隔》品味与生活方式拓展** 借助法国社会大规模经验调查，将文化资本概念拓展至审美品味、艺术消费与生活方式领域，确立其作为阶级区隔的工具性质。
 > - **1986 — 《资本的三种形态》独立理论建构** Bourdieu 独立发表理论文章，正式确立文化资本的三种存在形态（具身化、客体化、制度化），奠定了其在社会学中的[[Operationalization\|操作化]]基础。
 > - **2000 年代 — 大规模量化操作化与认知中介拓展** 国际大型教育评估（[[PISA]]、[[TIMSS]]、[[TOSCA]]）普遍采用“家庭藏书量”操作化客体化文化资本，[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 进一步证实文化资本能够通过塑造学生的[[Epistemological Beliefs\|认识论信念]]间接赋能[[Academic Achievement\|学业成就]]。
-> - **2020 年代 — 跨文化情境的转译与反思** [[Yajun Zheng\|郑雅君]]将具身化文化资本[[Going Native\|本土化]]为精英大学[[Champ\|场域]]中的出路直觉；[[Argument_Teng_2025_CE\|Teng and Wang (2025)]] 则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。
+> - **2020 年代 — 跨文化情境的转译与反思** [[Yajun Zheng\|郑雅君]]将具身化文化资本本土化为精英大学[[Champ\|场域]]中的出路直觉；[[Argument_Teng_2025_CE\|Teng and Wang (2025)]] 则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。
 
 ---
 
@@ -229,7 +228,7 @@ updated: 2026-10-16
 > > - **家庭藏书量指标支持者** 认为藏书量能精准反映家庭实质性的智力氛围与文化刺激，对学生认知与[[Epistemology\|认识论]]发展具有强解释力（如 [[TOSCA]] 研究）。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 354)]]
 > > - **[[Qualitative Research\|质性研究]]学者** 呼吁采用[[Mixed Methods Research\|混合方法]]，指出单一数量指标难以还原具身化文化资本在具体互动中的动态博弈过程。
 >
-> > [!axis] 西方中心主义的局限性与[[Going Native\|本土化]]调适
+> > [!axis] 西方中心主义的局限性与本土化调适
 > > 经典理论对高雅文化（歌剧、古典音乐）的预设在非西方社会或小城市中可能失效。
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]** 将其本土化为精英高校[[Champ\|场域]]中的制度性出路直觉，成功实现了中国语境下的转译。
 > > - **[[Argument_Teng_2025_CE\|Teng and Wang (2025)]]** 论证了小城市简化选拔机制下文化资本的边缘化与妥协。

@@ -30,7 +30,6 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Evaluation Research]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Going Native]]"
   - "[[Policy Brokerage]]"
   - "[[Metacognition]]"
   - "[[Peer-Supported Learning]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Critical Pedagogy]]"
+  - "[[Going Native]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Discourse]]"
@@ -112,7 +112,7 @@ updated: 2026-10-16
 > - **执行机构与跨学科研发团队** 执行总部设于圣地亚哥，由执行总监 Javier González 与副总监 Rafael Carrasco 领导，汇集经济学、社会学、教育学与数据科学领域的跨国跨学科研究团队（80% 以上拥有硕士学位，约三分之一获博士学位）。
 
 > [!pathways]- 证据中介与[[Knowledge Mobilisation\|知识动员]]机制
-> 1. **国际证据[[Going Native\|本土化]]校准（Global-to-Local Adaptation）** 引进英国 [[Education Endowment Foundation\|EEF]] 等国际成熟因果证据库，组织本土专家对其方法论、干预成本及适切性实施审查，完成从英语到西班牙语与葡萄牙语的语境化转译。
+> 1. **国际证据本土化校准（Global-to-Local Adaptation）** 引进英国 [[Education Endowment Foundation\|EEF]] 等国际成熟因果证据库，组织本土专家对其方法论、干预成本及适切性实施审查，完成从英语到西班牙语与葡萄牙语的语境化转译。
 > 2. **本土干预因果试验孵化（Local Evidence Generation）** 依托 EDU-LAC 影响力基金与各国教育部协同机制，在拉美本土学校一线设计并执行[[Randomised Controlled Trials\|随机对照试验]]（RCT）与准实验评估，克服全球北方证据无法直接外推的局限。
 > 3. **政策与实践端双向反馈（[[Policy Brokerage]] & Embedding）** 通过 CAPE 部长级联席会议与一线教师工作坊（如 PRISA 平台、La Voz Docente 调查），将评估发现直接嵌入各成员国教师培训大纲与国家教育拨款指南中。
 
@@ -148,7 +148,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心规模数据
 > - **21** 个拉美与加勒比合作国家教育部
 > - **10** 国前教育部高级官员与顶尖学者组成董事会
-> - **30+** 项教学策略工具箱[[Going Native\|本土化]]因果综述
+> - **30+** 项教学策略工具箱本土化因果综述
 > - **1** 个覆盖拉美全境的独立证据与创新实验室法人实体
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-10-16
 > > 争论焦点在于直接引入源自英国的因果工具箱是否会助长新自由主义下的[[Positivism\|实证主义]][[Technical Rationality\|技术理性]]。
 > >
 > > - **批评视角（[[Critical Pedagogy\|批判教育学]]者）** 质疑将英国 EEF 的实证主义[[Effect Size\|效应量]]指标直接移植至贫富差距悬殊、基础设施严重匮乏的拉美学校，存在将复杂的结构性社会不平等降维为单纯“课堂干预技巧”的风险，可能加剧“技术治理迷信”。
-> > - **机构立场（SUMMA 与合作学者）** 强调工具包经过深度语境[[Going Native\|本土化]]（[[Going Native\|Going Native]]），且配套设立 EDU-LAC 基金专攻本土 [[Randomised Controlled Trials\|RCT]] 试验，其根本目的在于运用科学实证保护弱势学生免受无根据的政治拍板与无效商业教育软件侵害。
+> > - **机构立场（SUMMA 与合作学者）** 强调工具包经过深度语境本土化（[[Going Native\|Going Native]]），且配套设立 EDU-LAC 基金专攻本土 [[Randomised Controlled Trials\|RCT]] 试验，其根本目的在于运用科学实证保护弱势学生免受无根据的政治拍板与无效商业教育软件侵害。
 >
 > > [!axis] 矿业跨国资本注资与[[Venture Philanthropy\|风险慈善]]异层治理
 > > 审视[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）巨额资助对拉美公共教育研究自主性的潜在影响。

@@ -30,7 +30,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Habitus]]"
   - "[[Problem Solving]]"
-  - "[[Going Native]]"
   - "[[Knowledge Production]]"
   - "[[Humility]]"
   - "[[Third Space Discourse]]"
@@ -94,7 +93,7 @@ updated: 2026-10-16
 > - **双语与多模态沟通实践** 
 >   在家庭与多元文化社区中穿梭使用的多语言代码转换能力、叙事传统与口头沟通技艺。
 > - **地方性知晓方式与[[Epistemology\|认识论]]直觉** 
->   对自然气候、动植物习性及物理环境的长期观察直觉与[[Going Native\|本土化]]解释框架。
+>   对自然气候、动植物习性及物理环境的长期观察直觉与本土化解释框架。
 
 ---
 

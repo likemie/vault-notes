@@ -23,7 +23,6 @@ tags:
   - theme/lesson-drawing
 related_concepts:
   - "[[Policy Borrowing]]"
-  - "[[Going Native]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Externalization]]"
@@ -88,7 +87,7 @@ updated: 2026-10-16
 >   - **代表著作** *Lesson-Drawing in Public Policy* (Chatham House, 1993)；"What is Lesson-Drawing?" (*Journal of Public Policy*, 1991)。
 >   - **关键概念** Lesson-Drawing、Policy Transfer、Policy Copying、Policy Emulation。
 >   - **阶段转向** 从描述"政策如何移动"转向批判性追问"政策学习在何种条件下真正有效"。
-> - **2000 年代至今 — 跨国政策知识流动与[[Going Native\|本土化]]失真** 持续追踪全球政策趋同中的去情境化与本土化失真问题，与 Dolowitz、Marsh 等政策转移研究者形成对话。
+> - **2000 年代至今 — 跨国政策知识流动与本土化失真** 持续追踪全球政策趋同中的去情境化与本土化失真问题，与 Dolowitz、Marsh 等政策转移研究者形成对话。
 >   - **关键概念** Policy Failure in Transfer、Misfit in Lesson-Drawing、External Referencing。
 
 ---

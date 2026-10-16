@@ -51,7 +51,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Normal School]]"
   - "[[Comparative Pedagogy]]"
-  - "[[Going Native]]"
   - "[[Severability of Politics and Pedagogy]]"
   - "[[Problem Finding]]"
   - "[[Falsification]]"
@@ -59,6 +58,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Educational Meliorism]]"
   - "[[Value Neutrality]]"
+  - "[[Going Native]]"
   - "[[Theoretical Standpoint]]"
   - "[[Knowledge Production]]"
   - "[[Development Education]]"
@@ -272,7 +272,7 @@ updated: 2026-10-16
 > - **时间轴：历史渊源与思想承续**
 >   考证不同时代的思想继承与体裁演进，如德国天主教文学对古典主义的塑造、古典主义向浪漫主义的过渡、莎士比亚对英语文学传统的重构，以及现代欧洲对古典文明的吸收。
 > - **空间轴：地理流动与母题迁徙**
->   追踪母题与体裁在不同地理与文化间的跨国传播，如宗教改革思想渡海抵达北美、托尔斯泰与梭罗的思想启发印度作家的独立运动文学，以及唐璜原型在各民族文学中的[[Going Native|本土化]]变体。（p.124）
+>   追踪母题与体裁在不同地理与文化间的跨国传播，如宗教改革思想渡海抵达北美、托尔斯泰与梭罗的思想启发印度作家的独立运动文学，以及唐璜原型在各民族文学中的本土化变体。（p.124）
 > - **教育实践维度：体制规程与政策本土化重组**
 >   系统解构教育观念、教学方法、学校组织与政策法令如何在不同主权国家之间流动、吸收与再造，确立历史实证主义的[[Epistemology|认识论]]合法性。（pp.123–124）
 

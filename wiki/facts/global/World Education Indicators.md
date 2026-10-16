@@ -34,7 +34,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Operationalization]]"
   - "[[Structural Adjustment Programs]]"
-  - "[[Going Native]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Class Size]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Social Imaginary]]"
   - "[[Paradigm]]"
+  - "[[Going Native]]"
   - "[[Multilateral Surveillance]]"
   - "[[Steering at a Distance]]"
 related_theories:
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > - **国别执行机构与统计对口部门（各参与国教育部与统计局）** 负责落实本国内部各层级学校数据的统一采集、汇总与校验，组建国家协调团队，参与跨国工作研讨。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 
 > [!pathways]- 实施路径与管理
-> - **指标[[Going Native|本土化]]适配与概念对齐** 在严格遵循[[International Education|国际教育]]标准分类（ISCED）的前提下，由联合专家组协助各参与国梳理本国学制分段与办学形态，化解中等职业教育、成人培训等多元制度在跨国比较中的分类冲突。
+> - **指标本土化适配与概念对齐** 在严格遵循[[International Education|国际教育]]标准分类（ISCED）的前提下，由联合专家组协助各参与国梳理本国学制分段与办学形态，化解中等职业教育、成人培训等多元制度在跨国比较中的分类冲突。
 > - **网络化能力培训与工作坊** 定期在巴黎、蒙特利尔或各参与国首都举办跨国统计培训班与专家研讨会，培育了一批[[Refined Mastery|精通]]经合组织指标规范的发展中国家技术官僚群体。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 > - **定期政策审议与联合旗舰出版物** 坚持三方联合署名机制，出版系列跨国比较报告与国别概况简报，借助国际学术声誉对参与国国内教育资源分配产生柔性审议效应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
 

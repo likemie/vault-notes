@@ -28,7 +28,6 @@ related_concepts:
   - "[[Order Effects]]"
   - "[[Open-Mindedness]]"
   - "[[Rote Learning]]"
-  - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
   - "[[Self-Efficacy]]"
@@ -197,7 +196,7 @@ issuing_organization: ""
 > 3. **关于真理确定性的信念（CK）** 学生是否坚信世界上所有事情都有唯一的标准答案？是否盲目认为科学家只要努力就一定能找到绝对永恒的真理？
 
 > [!chain-link] 证据到判断：[[Questionnaire\|问卷]]编制与因子分析结果
-> 早期 Schommer 问卷主要面向大学生，共包含 63 个题项。本研究在加拿大十年级学生中进行了[[Going Native\|本土化]]适配：
+> 早期 Schommer 问卷主要面向大学生，共包含 63 个题项。本研究在加拿大十年级学生中进行了本土化适配：
 > - 经 24 名中学生预试，简化了用词表达，剔除了理解困难的题项；
 > - 删除了在青少年群体中未稳定成型的全知权威题项（10 题），最终保留 52 题；
 > - 采用主轴[[Exploratory Factor Analysis\|探索性因子分析]]（Varimax 正交旋转，特征值 $\ge .98$），提取出 18 个因子，其中前 3 个最具理论解释力的核心因子共解释 16.81% 方差（见下表）。

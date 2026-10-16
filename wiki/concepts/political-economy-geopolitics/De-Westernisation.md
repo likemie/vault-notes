@@ -26,7 +26,6 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Epistemology]]"
   - "[[Innovation Hub]]"
-  - "[[Going Native]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Revolutionism]]"
@@ -88,7 +87,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **资本主义框架保留（Survival of Capitalism）** 去西方化在经济上不挑战资本主义积累逻辑，而是通过发展高技术民族主义和[[Innovation Hub\|创新中心]]参与竞争。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
-> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与[[Going Native\|本土化]]文化[[Discourse|话语]]，挑战西方主导的多边[[Disciplina and Doctrina\|规训]]权威。
+> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与本土化文化[[Discourse|话语]]，挑战西方主导的多边[[Disciplina and Doctrina\|规训]]权威。
 > - **认识与主体性张力（Epistemic Tension）** 虽然在制度运作上对抗西方的[[Governing at a Distance\|远处治理]]，但在评估和[[Competitiveness|竞争力]]话语中仍受西方新自由主义框架规训（例如国内高校对西方大学排名评价标准表现出的高度敏感）。
 
 > [!logic-map]- 要素关系

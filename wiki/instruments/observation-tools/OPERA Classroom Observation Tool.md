@@ -31,7 +31,6 @@ tags:
   - region/africa
 related_concepts:
   - "[[Discourse]]"
-  - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Rote Learning]]"
   - "[[Class Size]]"
@@ -66,7 +65,7 @@ updated: 2026-10-16
 > [!instrument-profile] OPERA [[Classroom Observation]] Tool
 > - **工具类型** 多模态课堂外部[[Classroom Observation|教学观察]]与[[Discourse|话语]][[Coding in Qualitative Research|质性编码]]工具（observation-tool）。
 > - **开发者与年份** AFD et al. (2013, 2015)（由法国开发署、远程教师培训计划 IFADEM 及法语国家教育部部长联席会议 CONFEMEN 联合研发）。
-> - **测量目的** 深入探究法语区撒哈拉以南非洲（如布基纳法索、马达加斯加等国）小学课堂中，教师实际教学实践如何直接塑造学生的读写算基础学业获得，为[[Going Native|本土化]]在职师训提供微观实证诊断。
+> - **测量目的** 深入探究法语区撒哈拉以南非洲（如布基纳法索、马达加斯加等国）小学课堂中，教师实际教学实践如何直接塑造学生的读写算基础学业获得，为本土化在职师训提供微观实证诊断。
 > - **实施方式** 采用多机位课堂录像与现场结构化网格记录并行，结合定格时间切片对教师主导、全班合唱式应答、个别互动及书面练习进行分段精细[[Transcription in Qualitative Research|转录]]与编码。
 
 在发展中国家微观教学研究中，OPERA 开创了结合语言学分析与教学时间计量的多模态[[Paradigm|范式]]。

@@ -40,7 +40,6 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Determinism]]"
   - "[[Total Quality Management]]"
-  - "[[Going Native]]"
   - "[[Market Failure]]"
   - "[[Measurement Alignment]]"
   - "[[Securitization of Technology]]"
@@ -224,7 +223,7 @@ updated: 2026-10-16
 > 辨析全球化是否削弱民族国家分析意义，论证跨国公司的技术创造依然深度依附母国国家[[Systems of Innovation|创新系统]]。
 
 > [!claim] Freeman, C.
-> **母国环境锚固论** [[Kenichi Ohmae|大前研一]]等学者提出的无国界全球经济消解民族国家作用的断言并不符合真实产业规律。跨国专利与投资数据确凿证实，美国跨国公司的海外研发支出占比不足 10%，日本跨国公司更是低于 2%；跨国企业的战略技术决策与核心知识产权创造依然压倒性地保留在母国大本营，其海外机构大多仅从事[[Going Native|本土化]]适应性改装或技术监测。[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）的断言完全成立：全球竞争非但没有让母国过时，反而强化了国家创新系统的重要性；后发国家唯有依托本土自主的教育与研发体系，才能有效消化跨国技术扩散。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–17, 20–21)]]
+> **母国环境锚固论** [[Kenichi Ohmae|大前研一]]等学者提出的无国界全球经济消解民族国家作用的断言并不符合真实产业规律。跨国专利与投资数据确凿证实，美国跨国公司的海外研发支出占比不足 10%，日本跨国公司更是低于 2%；跨国企业的战略技术决策与核心知识产权创造依然压倒性地保留在母国大本营，其海外机构大多仅从事本土化适应性改装或技术监测。[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）的断言完全成立：全球竞争非但没有让母国过时，反而强化了国家创新系统的重要性；后发国家唯有依托本土自主的教育与研发体系，才能有效消化跨国技术扩散。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–17, 20–21)]]
 
 ---
 

@@ -38,7 +38,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Active Learning]]"
   - "[[Critical Thinking]]"
-  - "[[Going Native]]"
 related_theories: []
 related_methods:
   - "[[Observation Protocol]]"
@@ -148,4 +147,4 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 UTOP 作为核心观察工具纳入要素资源库进行实证筛选与[[Going Native|本土化]]调适。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 UTOP 作为核心观察工具纳入要素资源库进行实证筛选与本土化调适。

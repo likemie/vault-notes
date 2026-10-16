@@ -28,7 +28,6 @@ tags:
   - essa-moderate
   - region/us
 related_concepts:
-  - "[[Going Native]]"
   - "[[Evidence Standards]]"
   - "[[Response to Proven Instruction]]"
 related_theories:
@@ -60,7 +59,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Math Recovery（数学恢复方案）** 是由澳大利亚南十字星大学学者鲍勃·赖特（Bob Wright）基于莱斯利·斯蒂菲（Leslie Steffe）的[[Radical Constructivism\|激进建构主义]]数感发展理论研发、并在英美广泛[[Going Native\|本土化]]推广的小学一年级数学 Tier 3 个别化辅导方案；其核心目标是通过认证专业教师开展精细的临床式数感评估与每日一对一针对性微课，帮助一年级数学学习严重受阻的儿童重建数数、空间模式识别与基础心算表征。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **Math Recovery（数学恢复方案）** 是由澳大利亚南十字星大学学者鲍勃·赖特（Bob Wright）基于莱斯利·斯蒂菲（Leslie Steffe）的[[Radical Constructivism\|激进建构主义]]数感发展理论研发、并在英美广泛本土化推广的小学一年级数学 Tier 3 个别化辅导方案；其核心目标是通过认证专业教师开展精细的临床式数感评估与每日一对一针对性微课，帮助一年级数学学习严重受阻的儿童重建数数、空间模式识别与基础心算表征。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 理论雏形源于 1990 年代初澳大利亚早期数学研究，2000 年后在美国成立 US Math Recovery Council 进行全美本土化推广，经范德堡大学实证评估后常态化运行至今。

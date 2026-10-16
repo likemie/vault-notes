@@ -47,7 +47,6 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Paradigm Wars]]"
   - "[[Champ]]"
-  - "[[Going Native]]"
   - "[[Cultural Capital]]"
   - "[[Interpretivism]]"
   - "[[Causality]]"
@@ -200,7 +199,7 @@ updated: 2026-10-16
 > [!proc] 自然主义质性探究的标准五阶段规程
 > 1. **场域准入与信任建构** 选定自然主义研究情境，与关键报道人建立平等坦诚的合作契约。
 > 2. **浸润式深度观察与主位访谈** 结合[[Participant Observation\|参与观察]]、无结构/半结构访谈与实物人造物收集，记录详尽的田野手记。
-> 3. **归纳编码与持续比较** 依据[[Grounded Theory\|扎根理论]]规程，开展[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]与选择编码，提炼[[Going Native\|本土化]]概念。
+> 3. **归纳编码与持续比较** 依据[[Grounded Theory\|扎根理论]]规程，开展[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]与选择编码，提炼本土化概念。
 > 4. **成员校验与同行评议** 将形成的初步理论解释返还参与者核实校验，确保解释不偏离主观体验。
 > 5. **情境化[[Rich and Thick Description\|厚描述]]撰写** 编织包含直接引语、情感肌理与组织历史脉络的深度叙事报告。
 

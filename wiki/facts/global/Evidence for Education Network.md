@@ -30,10 +30,10 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Incubation]]"
   - "[[Counterfactual]]"
-  - "[[Going Native]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
+  - "[[Going Native]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Document]]"
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > - **学术与方法论协同网络** 由跨国专家与评估团队组成，协调统一各语言版本工具包的方法学透明度标准（如证据[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Counterfactual\|反事实]]设计规范与[[Effect Size\|效应量]]计算校准）。
 
 > [!pathways]- 核心业务三大支柱（Three Pillars of EEN）
-> 1. **证据利用与语境化（Evidence Use）** 系统转译并[[Going Native\|本土化]]全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究文献深层融合，打破单向西方中心主义局限。
+> 1. **证据利用与语境化（Evidence Use）** 系统转译并本土化全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究文献深层融合，打破单向西方中心主义局限。
 > 2. **证据动员与专业赋能（Evidence Mobilisation）** 将枯燥复杂的统计报告提炼为面向一线教师与校长的操作性指南；通过与教育部、教师学院合作，将证据规程嵌入在职培训课程体系。
 > 3. **本土证据生成与孵化（Evidence Generation）** 面对发展中国家高水平干预稀缺的挑战，资助与指导本土研究团队开展严谨的前置试点（Pilot Studies）与因果实验，填补全球南方因果实证空白。
 
@@ -136,7 +136,7 @@ updated: 2026-10-16
 > | **威尔士政府**<br>Welsh Government (Llywodraeth Cymru) | 英国（威尔士） | **地方分权政府教育行政主管部门**<br>配合威尔士新国家课程改革，将循证工具包深度嵌入地方督导与学校拨款 | 英语、威尔士语；威尔士[[Evidence-Based Education\|循证教育]]实践资源网、学校改善实证清单 | [威尔士政府教育网](https://gov.wales/education-skills) |
 
 > [!finding-cards] 核心成果与业务矩阵
-> - **5 大语种[[Going Native\|本土化]]工具包矩阵** 成功完成《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》向**西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语和法语**五大世界语种的深度本土化转译，并全面嵌入区域本土因果文献。
+> - **5 大语种本土化工具包矩阵** 成功完成《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》向**西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语和法语**五大世界语种的深度本土化转译，并全面嵌入区域本土因果文献。
 > - **数字化公共品与能力开发工具箱** 联合智利 SUMMA 推出循证评估设计工具箱 **Impacta+**；上线 **evidence.education** 全球知识门户，实现全球因果综述与干预成本数据的自由共享。
 > - **全球南方本土前置试验孵化** 成功资助并实施了包括约旦“儿童流利阅读”（Let's Read Fluently!）、喀麦隆女童月经健康干预对就学影响试验、以及拉美 EDU-LAC 影响力基金系列本土课堂教学法试验。
 
@@ -156,7 +156,7 @@ updated: 2026-10-16
 > > 审视由英国 [[Education Endowment Foundation\|EEF]] 统领的全球[[Evidence Network\|证据网络]]是否构成了新形式的“知识帝国主义”。
 > >
 > > - **[[Critical Pedagogy\|批判教育学]]与后殖民视角** 质疑以 EEF 为模板的量化 [[Randomised Controlled Trials\|RCT]] 与工具包框架过于迷信[[Positivism\|实证主义]]指标，将复杂、深植于地缘政治与社会阶层结构的教育不平等，简化为全球统一的“[[Effect Size\|效应量]]月数增益”，有削弱发展中国家本土教育哲学与文化多样性的危险。
-> > - **网络官方与务实主义立场** EEN 强调去中心化的“[[Going Native\|本土化]]改造”（[[Going Native\|Going Native]]），各节点拥有完全自主权将本土文献与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
+> > - **网络官方与务实主义立场** EEN 强调去中心化的“本土化改造”（[[Going Native\|Going Native]]），各节点拥有完全自主权将本土文献与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
 >
 > > [!axis] 后资助时代的“可持续性断崖”与主权财政挑战
 > > 探讨企业大额慈善期满后，全球中介网络的生存策略。

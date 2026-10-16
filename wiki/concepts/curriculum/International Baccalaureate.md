@@ -32,7 +32,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Critical Thinking]]"
   - "[[Academic Self-Concept]]"
-  - "[[Going Native]]"
   - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Whole Person Education]]"
@@ -211,7 +210,7 @@ updated: 2026-10-16
 
 ### 命题二　IB 课程向亚洲移植时面临西方文化根源与本土情境的潜在冲突
 
-> [!concept-lens] 课程移植与[[Going Native|本土化]]
+> [!concept-lens] 课程移植与本土化
 > IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学假设是否普适。
 
 > [!claim] Slethaug, G.

@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Going Native]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
@@ -58,7 +57,7 @@ updated: 2026-08-20
 > [!theory-components] 教育免疫反应的运行机制
 > - **抗原识别与主动排异**
 >   外来的学制和评估模式（“抗原”）一旦被强行引入本土，往往与本土传统的利益结构或深层信念（如儒家传统、文化自治权）发生遭遇，触发制度排异，使移植政策在外在或内在功能上发生剧烈[[Shape-Shifting\|形变]]。
-> - **[[Going Native\|本土化]]过滤与选择性翻译**
+> - **本土化过滤与选择性翻译**
 >   本土免疫机制极少进行简单的全面抵制，而是倾向于通过“转译（Translation）”阶段的选择性吸收，主动剔除外来思想中对本土既有秩序或核心利益有威胁的成分，仅“驯化”并保留对自身有利的工具性工具（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 323]]）。
 > - **长时段历史博弈的报复**
 >   即使外来几何在初期依靠强力（如战争、军事占领或财政裹挟）实现强制嵌入，本土的社会力量、文官系统与文化逻辑也会在漫长的日常实践中进行持续拉锯，最终导致外来体制的消亡（灭绝）或发生本土化形变（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–323]]）。

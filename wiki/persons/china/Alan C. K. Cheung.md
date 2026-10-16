@@ -34,7 +34,6 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Going Native]]"
   - "[[Metacognitive Laziness]]"
   - "[[Scaffolding]]"
   - "[[Man-Computer Symbiosis]]"
@@ -116,7 +115,7 @@ updated: 2026-10-16
 >     - Cheung, A. C. K., & [[Chen Xie\|Xie, C.]] (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. [[Argument_Cheung_2021_ECNUROE\|(Cheung & Xie, 2021)]]
 >     - [[Robert Slavin\|Slavin, R.]] E., Cheung, A. C. K., & [[Tengteng Zhuang\|Zhuang, T.]] (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. [[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]
 >   - **关键概念／方法** [[Evidence-Based Reform]]、[[Evidence-Based Education]]、[[Randomised Controlled Trials]]、[[Best Evidence Encyclopedia]]。
->   - **阶段特征** 强调以医学[[Clinical Trial\|临床试验]]标准规范教育干预，识别中国学者对证据本位[[Paradigm\|范式]]的[[Epistemology\|认识论]]与[[Going Native\|本土化]]质疑并进行系统辩护。
+>   - **阶段特征** 强调以医学[[Clinical Trial\|临床试验]]标准规范教育干预，识别中国学者对证据本位[[Paradigm\|范式]]的[[Epistemology\|认识论]]与本土化质疑并进行系统辩护。
 > - **2022–至今 — 新兴技术循证评价、[[Meta-analysis\|元分析]]标准与教育公平拓展阶段**
 >   - **核心问题** 破解早期生成式 AI 教育研究方法学不严密、过度乐观膨胀与抽屉文件偏倚，探究智能技术在跨文化与不同资源环境中的差异化分配效用。
 >   - **代表著作** 

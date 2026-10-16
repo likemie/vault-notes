@@ -29,7 +29,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Institutional Displacement]]"
-  - "[[Going Native]]"
   - "[[Structural Holes]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Soft Power by Hard Facts]]"
@@ -109,7 +108,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或[[Going Native|本土化]]教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或本土化教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨[[World Bank|世界银行]]等国际组织与受援国之间的非对称权力博弈。
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
@@ -151,7 +150,7 @@ updated: 2026-10-16
 > - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的假设，与[[Niklas Luhmann|卢曼]]的系统理论及外在化概念相结合，构建起以本土政治需要为驱动的借用理论；进而开辟[[Governing by Numbers|数字治理]] 2.0 与[[Policy Brokerage|政策中介]]理论。
 > - **方法路径** 倡导两项关键方法创新：一是应用社会[[Network Analysis|网络分析]]识别政策经纪人（Policy Brokers）的节点权力；二是率先推行口述史（Oral History）方法以抢救学者个案与制度记忆；三是践行[[Methodological Transnationalism|方法论跨国主义]]解构全球/国家联结。
 > - **[[Concept Mapping|概念地图]]建构** 其关于借用动机与行动者的论述，被 Jeremy [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 采纳为比较教育概念地图中[[Pre-Transfer Agency|前转移能动性]]的核心基石。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 224–227)]]
-> - **经验政策研究** 深刻启发了对东欧、中亚转型国家、中国大学学分制改革、北欧国家以及东亚地区[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]抵制的经验实证分析。
+> - **经验政策研究** 深刻启发了对东欧、中亚转型国家、中国大学学分制改革、北欧国家以及东亚地区[[Policy Borrowing|政策借用]]与本土化抵制的经验实证分析。
 
 ---
 
@@ -173,7 +172,7 @@ updated: 2026-10-16
 > [!debates] 学术争议与反思
 >
 > > [!axis] 本土政治能动性与全球同质化力量的张力
-> > 施泰纳-卡姆西强调本土行动者对外部政策的策略性利用、[[Going Native|本土化]]颠倒与杂糅，而世界文化学派（[[World Society Theory|World Culture Theory]]）学者则主张跨国组织和全球模型具有不可抗拒的制度同质化力量。两派围绕全球化究竟强化了多元[[Heterogeneity|异质性]]还是促成了制度趋同展开了长期论战。
+> > 施泰纳-卡姆西强调本土行动者对外部政策的策略性利用、本土化颠倒与杂糅，而世界文化学派（[[World Society Theory|World Culture Theory]]）学者则主张跨国组织和全球模型具有不可抗拒的制度同质化力量。两派围绕全球化究竟强化了多元[[Heterogeneity|异质性]]还是促成了制度趋同展开了长期论战。
 >
 > > [!axis] 口述史的主观建构性与历史档案实证
 > > 倡导口述史虽然能有效抢救未见历史与边缘人物声音，但也面临口述回忆受当下记忆重构、个人叙事美化以及学科自我神话化影响的史学有效性挑战。

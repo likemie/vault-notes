@@ -30,7 +30,6 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Return on Investment]]"
-  - "[[Going Native]]"
   - "[[Grandes Ecoles]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
@@ -103,7 +102,7 @@ updated: 2026-10-16
 > - **2002 — 创办与风投资本纪律引入** 在霍华德联邦政府推行促进企业慈善立法的背景下，由麦肯锡公司前高管罗伯特·麦克莱恩发起成立，注册为担保有限公司；首任首席执行官迈克尔·特雷尔确立引入商业咨询、尽职调查与多年期资本支持的模式（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
 > - **2011–2013 — 跨国网络对接与咨询业务商业化** 对接麦肯锡全球总裁 [[Michael Barber]] 影响下创立的英国 EEF；设立高度盈利的商业咨询部门（SVA Consulting），年营业额迅速成长至近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
 > - **2013 — 发起亮点学校连接与孵化学校加计划** 发起由联邦政府、澳大利亚联邦银行与三星联合资助的亮点学校连接项目以重塑 50 所弱势公立学校；同年作为核心发起方孵化全澳首家面向公立学校的企业免税捐赠中介学校加计划（[[Australian Schools Plus\|Schools Plus]]），SVA 首席执行官迈克尔·特雷尔出任首任董事长，初创三年直接共用 SVA 注册法人地址（Traill, 2016; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
-> - **2014 — 全资试验原型 [[Evidence for Learning\|E4L]] 启动** 获英国 EEF 及澳大利亚联邦银行联合出资，SVA 设立全资教育中介子公司证据学习中心（E4L），由商业律师 Matthew Deeble 掌舵，率先[[Going Native\|本土化]] EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为游说国家级证据机构的样板试验田（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
+> - **2014 — 全资试验原型 [[Evidence for Learning\|E4L]] 启动** 获英国 EEF 及澳大利亚联邦银行联合出资，SVA 设立全资教育中介子公司证据学习中心（E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为游说国家级证据机构的样板试验田（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **2016 — 渗透联邦生产力委员会国家证据调查** 联邦财长委托生产力委员会开展“国家教育证据基础”审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，以 EEF 为范本游说，报告最终采纳建议（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
 > - **2017–2018 — [[Gonski 2.0]] 审查借道与 5000 万澳元注资承诺** 联邦启动卓越学校教育审查，由 SVA 前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事长[[David Gonski\|戴维·冈斯基]]领衔；报告正式提出设立独立证据机构的第 23 条建议；《全国学校改革协议》锁定联邦与各州 5000 万澳元联合注资（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
 > - **2018–2020 — 跨国矿业资本注入与立法特许合作** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation]]）启动为期五年项目，加速模式输入；联邦政府修订《公共治理、绩效与问责规则》（PGPA Rule），正式在法律上确立新机构与慈善资本合作并向私营咨询分包的特许权（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
@@ -129,7 +128,7 @@ updated: 2026-10-16
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **全澳教育[[Educational Brokerage Agency\|证据经纪人]]原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面[[Going Native\|本土化]]英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
+> - **全澳教育[[Educational Brokerage Agency\|证据经纪人]]原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面本土化英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **公立学校筹款中介孵化（[[Australian Schools Plus\|Schools Plus]]）** 2013 年主导设立全澳首家面向公立学校的企业免税捐赠实体，游说联邦专门通过《2014年税收与养老金法律修正案（第5号措施）》赋予 [[Deductible Gift Recipient\|DGR1]] 资质并注入 500 万澳元启动资金（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **弱势学校商业化重塑（亮点学校连接项目）** 联合联邦政府、澳大利亚联邦银行与三星集团赞助，率先对全澳 50 所低社会经济地位公立学校展开商业重组与领导力改造试点（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 > - **国家政策审查专项建议书** 针对 2016 年联邦生产力委员会调查提交 50 页深度建议书，并在 [[Gonski 2.0]] 审查中深度发力，主导将“设立独立国家教育证据机构”写入官方建议第 23 条（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。

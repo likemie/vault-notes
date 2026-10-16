@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Social Impact Investing]]"
-  - "[[Going Native]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
@@ -83,7 +82,7 @@ updated: 2026-10-16
 > [!dev-timeline]- 组织发展历程
 > - **2013–2017 — 创设与传统企业慈善期** 依托集团矿产业务所在地开展社区援助与助学项目，运营模式接近传统的企业社会责任（Corporate Social Responsibility，CSR）直接赠款。
 > - **2018 — 启动“全球[[Evidence Ecosystem\|教育证据生态系统]]”五年战略项目** 必和必拓基金会转型采取现代[[Venture Philanthropy\|风险慈善]]策略，宣布与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）正式结成全球战略伙伴，出资启动为期 5 年的跨国教学证据生态建设计划，旨在将 EEF 的因果评估与循证工具包模式向全球关键区域辐射扩散。
-> - **2018–2021 — 扶持跨国证据中介节点（[[SUMMA]] 与 [[Evidence for Learning\|E4L]]）** 基金会资金直接支持建立拉丁美洲和加勒比地区的区域证据枢纽 [[SUMMA]]（总部设于智利圣地亚哥），以及澳大利亚的有效学习组织（Evidence for Learning，E4L），开展工具包[[Going Native\|本土化]]调试与本土多中心试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 扶持跨国证据中介节点（[[SUMMA]] 与 [[Evidence for Learning\|E4L]]）** 基金会资金直接支持建立拉丁美洲和加勒比地区的区域证据枢纽 [[SUMMA]]（总部设于智利圣地亚哥），以及澳大利亚的有效学习组织（Evidence for Learning，E4L），开展工具包本土化调试与本土多中心试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–至今 — 深度介入澳大利亚国家教育大纲改革** 借助注资项目形成的人事与机构网络，深度参与推动澳大利亚联邦政府创设官方证据旗舰——[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO），并通过人事跨界渗透主导了澳大利亚全国初任教师教育大纲《有力开端》（[[Strong Beginnings Report\|Strong Beginnings]]）的制度化重塑。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8, 11)]]
 
 ---
@@ -108,7 +107,7 @@ updated: 2026-10-16
 > [!finding-cards] 核心项目与业务矩阵
 > - **全球[[Evidence Ecosystem\|教育证据生态系统]]五年计划（[[Building a Global Evidence Ecosystem for Teaching]]）** 2018 年与英国 [[Education Endowment Foundation\|EEF]] 联合设立的旗舰计划，旨在超越英国本土单一中心，在全球范围内建立多国互联、扎根区域本土情境的现代证据生态网络。
 > - **[[SUMMA\|拉美和加勒比卓越教育中介网络]]（[[SUMMA]]）** 基金会资金重点支持的跨国证据平台（设于智利圣地亚哥），联合拉美十余国教育部将《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》翻译为西班牙语与葡萄牙语版本（《有效教育实践平台》），并结合拉美本土学情资助开展原创性学校现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
-> - **澳大利亚学习有效性组织（[[Evidence for Learning]]，E4L）** 基金会资助建立的澳大利亚循证中介平台，依托社会创投基金开发了适配澳大利亚公立学校、原住民社区与偏远地区的[[Going Native\|本土化]]教学工具包。
+> - **澳大利亚学习有效性组织（[[Evidence for Learning]]，E4L）** 基金会资助建立的澳大利亚循证中介平台，依托社会创投基金开发了适配澳大利亚公立学校、原住民社区与偏远地区的本土化教学工具包。
 > - **澳大利亚国家教育大纲项目支撑** 为澳大利亚联邦初任教师教育专家评审团提供研究支持与证据输入，直接促成了以显性教学法和[[Cognitive Load Theory\|认知负荷理论]]为核心的《有力开端》（[[Strong Beginnings Report\|Strong Beginnings]]）国家法案落地。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 > [!citation-card] 基金会全球证据生态建设计划战略愿景

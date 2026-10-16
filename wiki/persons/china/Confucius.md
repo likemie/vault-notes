@@ -37,7 +37,6 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Learner-Centred Education]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Going Native]]"
   - "[[Recontextualization]]"
   - "[[Discourse]]"
   - "[[Sage]]"
@@ -140,7 +139,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents\|原始文献]]，建构东亚与西方文化学习模型的对比框架。
-> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native\|本土化]]赋能。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的本土化赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization\|再脉络化]]与反转调用。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示当代217册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 剖析政治[[Discourse|话语]]（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。

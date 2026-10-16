@@ -43,7 +43,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Preregistration]]"
   - "[[Innovation Hub]]"
-  - "[[Going Native]]"
   - "[[Professional Learning Community]]"
   - "[[Knowledge Production]]"
   - "[[Recommendations for Practice]]"
@@ -263,7 +262,7 @@ updated: 2026-10-16
 > | **面临挑战** | 机构运营成本高昂，边界无序膨胀，容易与既有师训机构冲突 | 高度依赖外部体制的成熟度与法定授权，在松散治理领域难以复制 |
 
 > [!case] 证据生态系统的系统级实践载体与治理创新
-> - **英国[[Education Endowment Foundation\|教育捐赠基金会]][[Research Schools Network\|研究学校网络]]（EEF Research Schools Network）与全链条证据生态** EEF 在英格兰构建了全球最大规模的学校因果试验动员与证据中介生态体系：累计资助逾 200 项学校现场试验（占过去十年全球已知教育 [[Randomised Controlled Trials\|RCT]] 约 19%），动员过半数公立学校（14,000 余所校次与 158 万学生）；通过建立三方独立协议防火墙与强制 [[ISRCTN]] 方案[[Preregistration\|预注册]]杜绝利益冲突；依托[[National Pupil Database\|国家学生数据库]]（NPD）建立了汇集 105 项试验微观数据的全球首个开放档案库；评选 40 所标杆学校（32 所常设与 8 所联合研究学校）组建全国研究学校网络作为区域[[Innovation Hub\|创新枢纽]]，面向中小学校长与教师开展常态化循证教学培训，依托学者与一线教师深度结对开展学习对话（Learning Conversations），在课堂真实情境中协同调试与[[Going Native\|本土化]]创生教学证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 48–56)]]
+> - **英国[[Education Endowment Foundation\|教育捐赠基金会]][[Research Schools Network\|研究学校网络]]（EEF Research Schools Network）与全链条证据生态** EEF 在英格兰构建了全球最大规模的学校因果试验动员与证据中介生态体系：累计资助逾 200 项学校现场试验（占过去十年全球已知教育 [[Randomised Controlled Trials\|RCT]] 约 19%），动员过半数公立学校（14,000 余所校次与 158 万学生）；通过建立三方独立协议防火墙与强制 [[ISRCTN]] 方案[[Preregistration\|预注册]]杜绝利益冲突；依托[[National Pupil Database\|国家学生数据库]]（NPD）建立了汇集 105 项试验微观数据的全球首个开放档案库；评选 40 所标杆学校（32 所常设与 8 所联合研究学校）组建全国研究学校网络作为区域[[Innovation Hub\|创新枢纽]]，面向中小学校长与教师开展常态化循证教学培训，依托学者与一线教师深度结对开展学习对话（Learning Conversations），在课堂真实情境中协同调试与本土化创生教学证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 48–56)]]
 > - **英国[[Teaching and Learning Research Programme\|教学与学习研究项目]]（Teaching and Learning Research Programme，TLRP，2000–2011）** 将教师与决策官员作为平等研究伙伴嵌入立项与执行全过程，跨越高校与中小学校际边界组建跨[[Professional Learning Community\|专业学习共同体]]，联合界定实践难题并协同完成研究设计与成果转化，为全系统培育兼具学术洞察与实践敏感度的跨界人才。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
 > - **斯洛文尼亚与挪威教育部常设内部中介单元** 斯洛文尼亚教育部质量与分析处及挪威教育与研究部政策分析处设立于行政中枢内部，充当常驻专职[[Boundary Spanner\|知识经纪人]]。团队由高级公务员与科研人员混合组成，快速响应决策官员的实证需求，分发研究要报并开展定制化量化分析，有效突破外部中介响应滞后的制度壁垒。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81)]]
 > - **荷兰与匈牙利一线教师科研制度化支撑机制** 荷兰科学研究组织（NWO）教师博士资助计划常态化资助学前至高职一线教师开展课堂实证研究，全额承担代课聘用成本以保障最高 0.4 全职当量的法定带薪科研工时；匈牙利 pedagogical career 模式设立研究型教师（Researcher Teacher）终身职级，为通过博士考核的教师配备 5 年可续规划与法定专项津贴，打破大学对[[Knowledge Production\|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–92)]]
@@ -402,7 +401,7 @@ updated: 2026-10-16
 > - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism\|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis\|最佳证据综合]]（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm\|范式]]确立** Best and Holmes (2010) 提出[[Knowledge Mobilisation\|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
 > - **2011–2019 — 系统级中介、双层嵌套与[[Research Schools Network\|研究学校网络]]探索** 英国 [[Teaching and Learning Research Programme\|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、转译与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 41–43)]]
-> - **2018–2021 — 跨国教育证据生态扩散与全球南方[[Going Native\|本土化]]网络** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）携手[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 [[SUMMA]]（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018–2021 — 跨国教育证据生态扩散与全球南方本土化网络** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）携手[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 [[SUMMA]]（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–2022 — 跨国政策调查与五维诊断体系** [[OECD]] 启动[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，覆盖 29 国 37 个教育系统，正式构建涵盖结构、关系、质量、文化与能力的证据生态系统五维[[Analytic Framework\|分析框架]]。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 24–27)]]
 > - **2022 — 跨国证据生态组织图景与政务联结实证测度** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] 基于 OECD 调查对 29 国 37 个教育系统开展系统性实证诊断，首次绘制出 17 类组织生态位分布、部委网络规模与强度非线性解耦、专业中介角色的行政端集聚，确证了“学术供给过剩、微观转化贫瘠”的中心—外围失衡结构。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 78–96)]]
 > - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–46, 51–52)]]

@@ -34,7 +34,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Screening Off]]"
   - "[[Governing by Numbers]]"
-  - "[[Going Native]]"
   - "[[Data Literacy]]"
   - "[[Analytical Stance]]"
 related_persons:
@@ -198,7 +197,7 @@ updated: 2026-10-16
 > > 超国家教育治理究竟是导致了各国政策的同质化收敛，还是仅仅提供了可被本土语境随意剪裁的象征性修辞。
 > >
 > > - **Sellar and Lingard (2013b)** 强调 [[OECD]] 通过[[Governing by Numbers\|数字治理]]与比较技术正在建立一个主导性的全球教育治理机制，促成各国向新自由主义政策趋同。
-> > - **[[Argument_Grey_2018_CE\|Grey and Morris (2018)]]** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与[[Media Logic\|媒介逻辑]]重塑，治理在实质上是高度[[Going Native\|本土化]]且由媒介驱动的。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–127)]]
+> > - **[[Argument_Grey_2018_CE\|Grey and Morris (2018)]]** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与[[Media Logic\|媒介逻辑]]重塑，治理在实质上是高度本土化且由媒介驱动的。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–127)]]
 >
 > > [!axis] 媒体功能异化是系统性共谋还是结构性能力不足
 > > 新闻界在跨国评估报道中展现出的[[Policy Avoidance\|政策规避]]，究竟是因意识形态与执政党暗合，还是源于媒体行业缺乏专业[[Data Literacy\|数据素养]]与深度调查资源。

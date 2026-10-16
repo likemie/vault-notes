@@ -32,7 +32,6 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Policy Mobility]]"
   - "[[Cross-National Attraction]]"
-  - "[[Going Native]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Epistemology]]"
   - "[[Scholiocentric Approach]]"
@@ -217,7 +216,7 @@ updated: 2026-10-16
 > - **[[Externalization\|外化]]机制** 决策者将内部改革需求投射到“国际趋势”或“传统”参照系中，使国内反对者难以抗拒（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 230]]）。
 > - **政治合法化功能** 借用具有高国际声望的教育话语为争议性国内决定提供正当性护航（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]）。
 > - **方案先行与问题后建** 决策者往往在引入国际参照前已确定改革方案，随后才建构与之匹配的“体系陈旧”问题（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 486–487]]）。
-> - **四阶段生命周期** [[Policy Mobility\|政策流动]]涵盖[[Cross-National Attraction\|跨国吸引力]]、决策、实施到内化／[[Going Native\|本土化]]的完整发展历程（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 225]]）。
+> - **四阶段生命周期** [[Policy Mobility\|政策流动]]涵盖[[Cross-National Attraction\|跨国吸引力]]、决策、实施到内化／本土化的完整发展历程（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 225]]）。
 > - **形态变异与转译** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能转译（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 319–320]]）。
 > - **吸引力修辞火花** 政策辩论中使用外国范例的四种动机：丑闻化、合法化、警示与颂扬（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 229]]）。
 > - **社会-物质[[Assemblage\|政策装配]]** 借用不仅是文本与话语的借调，更是测试软件、题库与[[Data Infrastructure\|数据基础设施]]的物理装配（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
@@ -477,7 +476,7 @@ updated: 2026-10-16
 > - **2000 — 政策借用[[Analytic Framework\|分析框架]]系统化** 施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]）
 > - **2002 — [[Cross-National Attraction\|跨国吸引力]]结构类型学** 奥克斯与菲利普斯（Ochs & Phillips）提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。（[[Argument_Rappleye_2006_RCIE\|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]]）
 > - **2003 — [[Externalization\|外化]][[Discourse|话语]]概念提出** 施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。（[[Argument_Rappleye_2006_RCIE\|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]]）
-> - **2003–2004 — 四阶段循环模型系统化** 菲利普斯与奥克斯（Phillips & Ochs）整合推出跨国吸引力、决策、实施、[[Going Native\|本土化]]的四阶段循环生命周期模型。（[[Argument_Rappleye_2006_RCIE\|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]]）
+> - **2003–2004 — 四阶段循环模型系统化** 菲利普斯与奥克斯（Phillips & Ochs）整合推出跨国吸引力、决策、实施、本土化的四阶段循环生命周期模型。（[[Argument_Rappleye_2006_RCIE\|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]]）
 > - **2006 — 跨国吸引力情境地图** 拉普莱（[[Jeremy Rappleye]]）提出推拉力情境[[Concept Mapping\|概念地图]]，理清了[[Pre-Transfer Agency\|前转移能动性]]与多层次结构因素的作用机制。（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006]]）
 > - **2009 — 形态变异理论主张** 考恩建立“转移—转译—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）
 > - **2009 — 德英双轨传统消解与浅层借用[[Epistemology|认识论]]警示** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter, 2009）系统对比了欧洲比较教育的德英双轨建制模式：英国面向专业实践、政策借用与实务咨询，德国依托[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）与教化哲学（[[Bildung]]）坚守形而上学价值反思；并在当代大规模国际测评热潮下警示：比较学者必须坚守“[[Navigation Metaphor in Comparative Education|航海隐喻]]”的中立警示职责，抵御去情境化的浅层政策借用对学科批判认识论身份的消解。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89, 95–99)]]

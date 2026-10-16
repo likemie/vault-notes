@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
-  - "[[Going Native]]"
   - "[[Phronesis]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Paradigm]]"
@@ -75,7 +74,7 @@ updated: 2026-10-16
 > - **2017** 发表关于政策与实践中[[Research Utilization\|证据使用]]学习机制的跨部门比较研究，呼吁学界系统探索教育实践中证据使用的质量与特质。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 184]]）
 > - **2019** 联合保罗·拉姆齐基金会启动为期五年的[[Monash Q Project\|莫纳什 Q 项目]]，通过跨领域[[Systematic Review\|系统综述]]提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]初阶构想。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 184–185]]）
 > - **2020–2022** 领导团队对澳大利亚 4 个州 900 余名中小学教师与管理者展开实证调查与[[In-depth Interview\|深度访谈]]，在[[OECD\|经合组织]]（OECD）研究专著中系统阐述高质量研究使用的实践内涵与系统支持策略。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 182–199]]）
-> - **2023–至今** 深化 QURE 框架的[[Going Native\|本土化]]工具研发，推出面向中小学校的证据使用自我诊断与反思工具。
+> - **2023–至今** 深化 QURE 框架的本土化工具研发，推出面向中小学校的证据使用自我诊断与反思工具。
 
 ---
 

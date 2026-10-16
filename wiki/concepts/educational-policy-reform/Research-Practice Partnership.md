@@ -47,12 +47,12 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Inspection]]"
   - "[[External Validity]]"
-  - "[[Going Native]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Heterogeneity]]"
   - "[[International Education]]"
+  - "[[Going Native]]"
   - "[[Scale of Measurement]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -289,7 +289,7 @@ updated: 2026-10-16
 > 瑞典中央政府于 2017–2021 年正式委托开展 ULF 试点项目，后经政府决定延长至 2024 年作为过渡期，目标是确立为永久性国家法定制度。该项目覆盖瑞典全国拥有教师教育资格的全部 25 所大学、150 多个市镇教育局以及数以千计的中小学教师。其核心制度创新在于：打破大学单向立项垄断，赋予学校教师直接发起科研课题的法定权利；构建兼具理论反思与教学敏感性的[[Third Space Discourse\|第三空间话语]]（third space [[Discourse]]）；并在常态化小型工作坊中理清角色定位，让教师担任决策与议题把关专家，学者负责研究设计，各守其位以维系科学严谨性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220, 224–225)]]
 
 > [!case] 案例五：匈牙利赫约凯赖斯图尔小学大学-学校深度组织共创（[[Complex Instruction Programme\|CIP]] 推广）
-> 匈牙利一所处于经济萧条与罗姆族聚居区的薄弱小学，在经历 2008 年外来工时调研（无反馈、高负担的单向采掘）失败后，转向与综合性大学建立深度共创伙伴关系。双方围绕评估组织运转、考察教职工动机、测绘管理效能三大支柱系统诊断，成功将斯坦福大学复合教学计划（CIP）[[Going Native\|本土化]]。学校依托 2013 教师生涯阶梯，由专职名师主抓校内日常教学转化，由享有带薪科研时间的研究型教师主抓大学对接与跨校辐射，最终将 CIP 模式辐射推广至全匈牙利近 200 所中小学校。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 213–216, 219–220)]]
+> 匈牙利一所处于经济萧条与罗姆族聚居区的薄弱小学，在经历 2008 年外来工时调研（无反馈、高负担的单向采掘）失败后，转向与综合性大学建立深度共创伙伴关系。双方围绕评估组织运转、考察教职工动机、测绘管理效能三大支柱系统诊断，成功将斯坦福大学复合教学计划（CIP）本土化。学校依托 2013 教师生涯阶梯，由专职名师主抓校内日常教学转化，由享有带薪科研时间的研究型教师主抓大学对接与跨校辐射，最终将 CIP 模式辐射推广至全匈牙利近 200 所中小学校。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 213–216, 219–220)]]
 
 > [!index-table] 亨里克等（Henrick et al., 2017）RPP 有效性五大维度评估操作矩阵
 > | 评估维度 | 核心衡量内涵 | [[Operationalization\|操作化]]落地指标 | 对资助与治理机构的导向功能 |

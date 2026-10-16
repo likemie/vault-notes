@@ -21,7 +21,6 @@ tags:
   - theme/professional-agency
   - neo-taylorism
 related_concepts:
-  - "[[Going Native]]"
   - "[[Phronesis]]"
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"
@@ -88,7 +87,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、[[Going Native|本土化]]课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。它强调教师不是被动执行死板清单与应试考评的技术操作工，而是具备反思能力、根据特定情境建设师生学习共同体的专业实践者，并在遭遇不合理行政规约、新泰勒制监控与资本渗透时具备批判性政策审议与集体维权的民主行动能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。它强调教师不是被动执行死板清单与应试考评的技术操作工，而是具备反思能力、根据特定情境建设师生学习共同体的专业实践者，并在遭遇不合理行政规约、新泰勒制监控与资本渗透时具备批判性政策审议与集体维权的民主行动能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，拒绝将教学降格为流水线上的机械操作清单。

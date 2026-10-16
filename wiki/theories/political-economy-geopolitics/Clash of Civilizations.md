@@ -24,12 +24,12 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Cognitive Decoupling]]"
   - "[[Pride in Learning]]"
-  - "[[Going Native]]"
   - "[[Policy Borrowing]]"
   - "[[De-Westernisation]]"
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
   - "[[Student Mobility]]"
+  - "[[Going Native]]"
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
 related_theories:
@@ -108,7 +108,7 @@ updated: 2026-10-16
 ## 核心命题
 
 > [!theory-proposition] 命题一｜冷战后全球政治冲突的深层根源在于文明认同而非意识形态或经济利益
-> **解释** [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化[[Pride in Learning|自豪]]感（[[Going Native|本土化]]复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
+> **解释** [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化[[Pride in Learning|自豪]]感（本土化复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
 >
 > **应用实例** 在跨国教育[[Policy Borrowing|政策借用]]中，非西方国家在引进西方科学技术（硬技术）的同时，往往坚决抵制西方关于人权、世俗化与通识价值的规范输出，呈现出“技术现代化与文化[[De-Westernisation|去西方化]]”并行的制度特征。
 

@@ -42,7 +42,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Informationalization]]"
-  - "[[Going Native]]"
   - "[[Return on Investment]]"
   - "[[Recommendations for Practice]]"
   - "[[Presence]]"
@@ -316,7 +315,7 @@ citation_aliases:
 
 #### 1. 培生集团通过实效标准与智库研究输出政策主张
 
-培生集团展现了全球性教育跨国企业在[[Going Native|本土化]]代理与全球政策议程设置中的双重角色。
+培生集团展现了全球性教育跨国企业在本地代理机构与全球政策议程设置中的双重角色。
 
 > [!org-context] 培生集团（Pearson plc）组织档案
 > - **成立时间** 1844 年（教育业务重组于 1990 年代）

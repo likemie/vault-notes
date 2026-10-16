@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Reference Society]]"
   - "[[Creativity]]"
-  - "[[Going Native]]"
   - "[[PISA Literacy]]"
   - "[[Scientific Literacy]]"
   - "[[PISA Scientific Literacy]]"
@@ -75,6 +74,7 @@ related_concepts:
   - "[[Cultural Validity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Going Native]]"
   - "[[Center of Calculation]]"
   - "[[PISA Shock]]"
   - "[[Plaintive Comparison]]"
@@ -191,7 +191,7 @@ updated: 2026-10-16
 ## 测评领域与核心素养构念体系
 
 > [!dimension] 三大核心轮换学科素养[[Construct|构念]]
-> - **阅读素养（Reading Literacy）** PISA 2000 年首轮以及 2009 年、2018 年的主测领域。测评聚焦学生理解、使用、评估、反思多源文本并参与阅读以实现个人目标、拓展潜能和融入社会的能力；国家政策层面的[[Going Native|本土化]]学力重构详见专门条目：[[PISA Literacy]]。
+> - **阅读素养（Reading Literacy）** PISA 2000 年首轮以及 2009 年、2018 年的主测领域。测评聚焦学生理解、使用、评估、反思多源文本并参与阅读以实现个人目标、拓展潜能和融入社会的能力；国家政策层面的本土化学力重构详见专门条目：[[PISA Literacy]]。
 > - **数学素养（Mathematical Literacy）** 2003 年、2012 年、2022 年的主测领域。考查个体在各种现实生活情境中将问题转化为数学表征、运用数学概念推理并解释数学解的能力，强调数学在现代社会决策中的实际效用。
 > - **[[Scientific Literacy|科学素养]]（Scientific Literacy）** 2006 年、2015 年、2025 年的主测领域。确立面向全体未来公民的普惠科学胜任力基准（解释科学现象、评估与设计探究、解释数据与证据）。**完整三维知识模型、认知框架演化矩阵与教学论论辩详见专门条目：[[PISA Scientific Literacy]]**。
 

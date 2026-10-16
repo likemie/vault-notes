@@ -8,7 +8,7 @@ aliases:
 summary: "以投资而非赠款为核心逻辑的金融化慈善模式，将风险投资与私募股权纪律引入公共治理，强调组织能力建设与量化回报；在教育政策中通过跨国资金流动与人事重叠构建影子网络，推动国家向异层治理转型，重构公共财政再分配并引发民主问责侵蚀争议。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

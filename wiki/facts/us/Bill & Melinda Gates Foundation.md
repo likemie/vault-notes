@@ -28,7 +28,6 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Theories of Policy Change]]"
   - "[[College and Career Readiness]]"
-  - "[[Going Native]]"
   - "[[Effective Teaching]]"
   - "[[Learning Gain]]"
 related_theories: []
@@ -73,7 +72,7 @@ updated: 2026-10-16
 > [!dev-timeline] 组织发展历程
 > - **2000–2008年 — 小学校运动（Small Schools Movement）的受挫与战略转型** 早期投入逾 20 亿美元资助将巨型公立高中拆解为小型自主学校；后续实证评估表明该举措未能稳定提升全美统考成绩，促使基金会从“学校物理组织形态改造”果断转向“课程标准与教师效能”的系统性政策杠杆。
 > - **2008–2014年 — 巨额注资推动[[Common Core State Standards|共同核心标准]]运动（CCSS）** 确立以[[College and Career Readiness|大学与职业就绪]]为核心的国家学术标准战略，成为推动跨州通用标准研制、推广与采纳最核心的资金中枢，直接催化了全美 45 个州的法定通过。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **2015年–至今 — 教师评价深化、应对地方反弹与课程多元化** 面对全美对标准化统考与高利害问责的反弹，基金会逐步优化资助结构，转向支持高质量[[Going Native|本土化]]教材库建设、个性化学习以及弱势学区支持。
+> - **2015年–至今 — 教师评价深化、应对地方反弹与课程多元化** 面对全美对标准化统考与高利害问责的反弹，基金会逐步优化资助结构，转向支持高质量本土化教材库建设、个性化学习以及弱势学区支持。
 
 ---
 

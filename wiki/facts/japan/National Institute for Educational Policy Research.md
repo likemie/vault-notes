@@ -27,7 +27,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Evaluation Research]]"
-  - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
@@ -91,7 +90,7 @@ updated: 2026-10-16
 > [!pathways]- 核心业务运行机制
 > - **教育政策研究与综合** 针对文部科学省政策优先领域，开展教育课程改革、学校管理、教师培训、教育公平等议题的实证研究与国际比较分析，产出政策简报与研究报告。
 > - **全国学力调查实施** 承担日本全国学力与学习状况调查的设计、实施与数据分析工作，每年为全国约 200 万名小学六年级与初中三年级学生提供学力测评数据支撑。
-> - **国际大规模测评协调** 作为 OECD PISA、TALIS（[[Teaching and Learning International Survey]]）等项目的日本国家协调机构，负责日本参与国际测评的抽样设计、测试工具[[Going Native\|本土化]]与数据提交工作。
+> - **国际大规模测评协调** 作为 OECD PISA、TALIS（[[Teaching and Learning International Survey]]）等项目的日本国家协调机构，负责日本参与国际测评的抽样设计、测试工具本土化与数据提交工作。
 > - **数据库与知识服务** 维护教育统计数据库（e-[[Students and Teachers Accessing Tomorrow\|STAT]] 教育系列）与教育政策文献库，面向研究者、政策制定者与公众提供开放数据检索服务。
 
 ---

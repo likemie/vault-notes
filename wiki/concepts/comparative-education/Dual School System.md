@@ -30,7 +30,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Normal School]]"
   - "[[Paradigm]]"
-  - "[[Going Native]]"
   - "[[Compensatory Legitimation]]"
   - "[[Cultural Capital]]"
   - "[[Policy Borrowing]]"
@@ -183,7 +182,7 @@ updated: 2026-10-16
 > **单轨公学是对欧洲双轨封建特权压迫的历史决裂** 霍勒斯·曼在考察欧洲教育后坚决排斥欧陆双轨制，主张自由共和政体绝不能容忍将公民按出生阶级划分轨道的制度残余；他在马萨诸塞州推行的公共学校（Common School）确立了单轨贯通架构，主张公立学校由全体公民共同税收供养、面向全体儿童平权开放，通过知识的普遍平等分配从根基上摧毁欧陆双轨制所维系的寡头特权垄断。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–34)]]；引自 Butts (1973:408)
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] and [[Andreas Kazamias\|Kazamias, A.]] M.
-> **国家政权形态决定跨国借用的过滤与转化模式** 比较教育学发端期的制度借用自始至终深嵌于本土政治哲学中；法国大资产阶级中央集权政体借用普鲁士经验强化了自上而下的垂直双轨分流建制，而北美自由共和政体则将普鲁士初等公学、师范与教学法经验抽取出来，[[Going Native\|本土化]]转译为反对阶级分立、捍卫共和民主的单轨公共学校基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 25, 33–34)]]
+> **国家政权形态决定跨国借用的过滤与转化模式** 比较教育学发端期的制度借用自始至终深嵌于本土政治哲学中；法国大资产阶级中央集权政体借用普鲁士经验强化了自上而下的垂直双轨分流建制，而北美自由共和政体则将普鲁士初等公学、师范与教学法经验抽取出来，本土化转译为反对阶级分立、捍卫共和民主的单轨公共学校基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 25, 33–34)]]
 
 ---
 

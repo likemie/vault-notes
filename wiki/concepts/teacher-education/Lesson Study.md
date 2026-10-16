@@ -35,7 +35,6 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[Normal School]]"
   - "[[Academic Achievement]]"
-  - "[[Going Native]]"
   - "[[Self-Improving School System]]"
   - "[[Peer-Supported Learning]]"
   - "[[Variable]]"
@@ -175,7 +174,7 @@ updated: 2026-10-16
 > [!dev-timeline] 课例研究历史演变与国际传播脉络
 > - **1870s–1950s — 日本[[Normal School\|师范教育]]萌芽与制度化** 明治维新时期从西方引入师范学堂，结合本土寺子屋研讨传统发展出“公开授業”；战后成为日本各级公立学校不可动摇的法定义务教研体系（校内研修）。
 > - **1999 — 《教学差距》出版与全球引介狂潮** 斯蒂格勒与希伯特在 [[TIMSS]] 录像分析中系统总结课例研究，将其塑造为揭示东亚高[[Academic Achievement\|学业表现]]秘密的“灵丹妙药”，欧美各国掀起大规模模仿引进浪潮。
-> - **2000s–2010s — 西方[[Going Native\|本土化]]改造与手册化普及** 英国、美国等相继开发本土课例研究操作规程（如 Dudley 模式），被政府教育部门与教师专业协会广泛背书，成为公认的优质专业发展标志。
+> - **2000s–2010s — 西方本土化改造与手册化普及** 英国、美国等相继开发本土课例研究操作规程（如 Dudley 模式），被政府教育部门与教师专业协会广泛背书，成为公认的优质专业发展标志。
 > - **2017–2021 — 循证去魅与因果实证反思** 英国 [[Education Endowment Foundation\|EEF]] 资助开展 181 所学校的大规模整群 [[Randomised Controlled Trials\|RCT]]（Murphy et al., 2017; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]），证实其在西方学校情境中对学生统考成绩零效应。学术界开始深入反思“制度保障脱嵌”、“缺乏专业引领”与“时间挤出”等移植边界条件。
 > - **2018 — [[Self-Improving School System\|SISS]] 视阈下 [[Joint Practice Development\|JPD]] 证据融通载体的定位重塑** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 在自我改进学校系统研究中，赋予课例研究以全新的循证定位：将其界定为联合实践发展（JPD）的典范机制，能够消除实践者自主探究与外部[[Research Utilization\|研究使用]]的鸿沟，为 [[Professional Learning Community\|PLC]] 提供了在课堂情境中协同“测试、实施与微调”外部循证方案的正式制度载体。
 
@@ -217,7 +216,7 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 案例：英国 Dudley 课例研究模式[[Going Native\|本土化]]探索
+> [!case] 案例：英国 Dudley 课例研究模式本土化探索
 > 在英国中小学本土化推广中，达德利（Pete Dudley, 2013）开发了强调跟踪“个案学童”（Case Pupils）的课例研究操作指南。三名教师组成课例小组，在集体备课后选择具有不同学习特质的 3 名学生作为聚焦点。在公开授课环节，观课教师不记录全班通识纪律，而是专职记录这 3 名学童在面对特定任务时的困惑表情、言语互动与解题步骤；课后反思会基于这些微观证据重构教案并由另一位教师在平行班执教。该模式为西方教师提供了结构化的微观学情观察工具，成为英格兰最广泛应用的课例[[Paradigm\|研究范式]]。
 
 ---

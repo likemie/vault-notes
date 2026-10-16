@@ -36,7 +36,6 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
   - "[[Megascience Installations]]"
-  - "[[Going Native]]"
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
@@ -287,7 +286,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与[[Theoretical Sampling\|理论抽样]]分两阶段选取 62 名个案，用以检视叙述[[Reliability\|可靠性]]并确证意向与行为的关联。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education\|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability\|考试问责]]压力下推进 LCE 的路径差异
-> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations\|大科学装置]][[Going Native\|本土化]]四个切面案例
+> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations\|大科学装置]]本土化四个切面案例
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking\|批判性思维]]教学模式
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme\|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge\|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 以 [[Education Endowment Foundation\|EEF]] 为单一案例，从内部视角剖析其推动学校大规模 [[Randomised Controlled Trials\|RCT]] 的制度设计、独立评估与[[Implementation and Process Evaluation\|IPE]]演进。

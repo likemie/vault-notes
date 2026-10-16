@@ -35,7 +35,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Operationalization]]"
   - "[[Discourse]]"
-  - "[[Going Native]]"
   - "[[Epistemic Friction]]"
   - "[[Rich and Thick Description]]"
   - "[[AI Hallucination]]"
@@ -183,7 +182,7 @@ updated: 2026-10-16
 >   - 采用[[Grounded Theory\|扎根理论]]或[[Template Analysis\|模板分析]]等高度依赖概念分层、持续比较与网络建模的方法论时。
 > - **谨慎使用**
 >   - 纯粹的深层[[Narrative Research\|叙事探究]]（Narrative Research）或诗意[[Discourse|话语]]研究：过度依赖软件切片检索可能打碎故事连续性与整体时序经验，需辅以整篇连贯叙事记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
->   - 涉及地方高度口语化方言、深层双关隐喻或特定亚文化禁忌的文本：传统检索与大语言模型极易误判，必须依赖研究者密集的[[Going Native\|本土化]]语境核验。
+>   - 涉及地方高度口语化方言、深层双关隐喻或特定亚文化禁忌的文本：传统检索与大语言模型极易误判，必须依赖研究者密集的本土化语境核验。
 > - **不适合使用**
 >   - 将软件作为“自动化结论生成机”，研究者放弃对经验材料的直接阅读与[[Reflexivity\|反身性]]诠释。
 >   - 数据量极小（如 1–3 个个案）且研究聚焦于整体生命史体验的研究，过度复杂的软件节点建模反而会增加不必要的[[Epistemic Friction\|认知摩擦]]与疏离感。

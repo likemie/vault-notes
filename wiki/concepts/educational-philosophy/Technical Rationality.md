@@ -34,7 +34,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Research Utilization]]"
   - "[[Technology Transfer]]"
-  - "[[Going Native]]"
   - "[[Epoché]]"
   - "[[Social Imaginary]]"
   - "[[Discourse]]"
@@ -157,7 +156,7 @@ updated: 2026-10-16
 > *Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century... If the inspirational deities of the old comparativists were history, philosophy and 'humanistic culture/paideia', those of some influential modernist 'scientific' parvenus were 'science' and the 'scientific method', 'empiricism', 'instrumentalism' and 'technocratic rationalism'.*
 
 > [!citation-card] “证据自身发声”的技术理性迷误与单向供给破产
-> 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）尖锐批判了循证运动背后的技术理性深层预设。技术理性将[[Research Utilization\|证据使用]]构想为一种线性的、去情境化的[[Technology Transfer\|技术转移]]，误认为只要研究证据具备严格的方法学质量，就能“自身发声”并直接规范一线行为；而跨四大领域的[[Systematic Review\|系统综述]]表明，忽视实践者对证据的深思熟虑审议与[[Going Native\|本土化]]批判诠释，单向证据供给必然在复杂实践中陷入停滞与异化。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 139–141)]]
+> 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）尖锐批判了循证运动背后的技术理性深层预设。技术理性将[[Research Utilization\|证据使用]]构想为一种线性的、去情境化的[[Technology Transfer\|技术转移]]，误认为只要研究证据具备严格的方法学质量，就能“自身发声”并直接规范一线行为；而跨四大领域的[[Systematic Review\|系统综述]]表明，忽视实践者对证据的深思熟虑审议与本土化批判诠释，单向证据供给必然在复杂实践中陷入停滞与异化。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 139–141)]]
 >
 > *Evidence does not speak for itself (Coburn et al., 2009)... The focus within much of the literature has been on the production and availability of research rather than its use... High-quality use requires not just appropriate evidence, but thoughtful engagement by professionals who interpret, debate and integrate research within their specific context.*
 

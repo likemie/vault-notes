@@ -25,7 +25,6 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Normal School]]"
-  - "[[Going Native]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatism in China]]"
+  - "[[Going Native]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国现代著名教育家、民主主义者、平民教育与乡村教育运动倡导者，哥伦比亚大学[[Normal School\|师范学院]]毕业，师从[[John Dewey\|杜威]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–621]]）
-> - **核心角色** [[John Dewey\|杜威]]在华思想的批判性改造者与[[Going Native\|本土化]]转译者，主导《新教育评论》并推动民国教育从“激进民主”向“[[Scientific Attitude\|科学态度]]”的[[Paradigm|范式]]转换。
+> - **核心角色** [[John Dewey\|杜威]]在华思想的批判性改造者与本土化转译者，主导《新教育评论》并推动民国教育从“激进民主”向“[[Scientific Attitude\|科学态度]]”的[[Paradigm|范式]]转换。
 > - **代表贡献** 提出[[Scientific Attitude\|科学态度]]三大要素（基于客观事实、实验渐进精神、精细研究）；创办晓庄试验乡村师范；提出“生活即教育、社会即学校、教学做合一”本土化教育理论。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
 
 > [!citation-card]- 人物定位的关键来源
@@ -87,7 +87,7 @@ updated: 2026-10-16
 > - **1917–1922年 — 追随[[John Dewey\|杜威]]与新国家建构阶段** 呼应[[Jiang Menglin\|蒋梦麟]]的激进民主观，主张学校与政治分离并建构“小共和国”。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.619]]）
 >   - **代表著作** 《新教育之要旨》（1919）。
 >   - **关键概念** 新教育、民主公民。
-> - **1923–1928年 — “[[Scientific Attitude\|科学态度]]”确立与[[Going Native\|本土化]]转向阶段** 创办《新教育评论》，以“科学态度”取代“民主”原则，批判保守的“衣食主义”转译。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
+> - **1923–1928年 — “[[Scientific Attitude\|科学态度]]”确立与本土化转向阶段** 创办《新教育评论》，以“科学态度”取代“民主”原则，批判保守的“衣食主义”转译。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
 >   - **代表著作** 《新教育评论发刊词》（1925）、《伪知识阶级》（1927）。
 >   - **关键概念** [[Scientific Attitude\|科学态度]]、衣食主义批判、国情适应。
 >   - **阶段转向** 从激进政治民主转向客观事实与渐进实验方法。
@@ -100,7 +100,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 陶行知的思想经历了从追随[[John Dewey\|杜威]]到批判性[[Going Native\|本土化]]改造的飞跃。他提出以“[[Scientific Attitude\|科学态度]]”（基于客观事实、实验渐进精神、精细研究）取代激进政治民主作为教育改革原则；他强烈批判将杜威思想误读为顺从现状的“衣食主义”；他倡导教育必须适合中国国情并深入平民大众。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
+> 陶行知的思想经历了从追随[[John Dewey\|杜威]]到批判性本土化改造的飞跃。他提出以“[[Scientific Attitude\|科学态度]]”（基于客观事实、实验渐进精神、精细研究）取代激进政治民主作为教育改革原则；他强烈批判将杜威思想误读为顺从现状的“衣食主义”；他倡导教育必须适合中国国情并深入平民大众。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
 
 - **从激进民主转向“[[Scientific Attitude|科学态度]]”** 1925年主导《新教育评论》时，明确以“科学态度”取代《新教育》的“民主”原则，强调教育改革必须基于客观事实、采取实验渐进精神、开展精细研究。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.620]]）
 - **批判“衣食主义”与保守适应论** 当杜威《民主主义与教育》在中国被保守转译为“每个人做恰当准备、待在恰当位置”时，陶行知敏锐批评这种解读是放弃变革的“衣食主义”（yishizhuyi）。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.77]]）
@@ -143,7 +143,7 @@ updated: 2026-10-16
 > > [!axis] [[Jiang Menglin\|蒋梦麟]]“民主原则”与陶行知“[[Scientific Attitude\|科学态度]]”的[[Paradigm Wars\|范式之争]]
 > > 民国教育界关于新教育改革灵魂的论战：以追赶西方民主为主，还是以适应国情的科学态度为主。
 > >
-> > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.619–621)]]** 论证了从蒋梦麟到陶行知的转向成功将[[Pragmatic Paradigm\|实用主义]]渐进方法与中国国情实现了[[Going Native\|本土化]]衔接。
+> > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.619–621)]]** 论证了从蒋梦麟到陶行知的转向成功将[[Pragmatic Paradigm\|实用主义]]渐进方法与中国国情实现了本土化衔接。
 
 > [!critique]- 批评索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, p.77)]] — 记载了陶行知对民国保守派将[[John Dewey\|杜威]]思想降格为“衣食主义”的深刻批评。

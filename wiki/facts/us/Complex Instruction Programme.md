@@ -29,7 +29,6 @@ tags:
   - theme/research-practice-partnership
 related_concepts:
   - "[[Cooperative Learning]]"
-  - "[[Going Native]]"
   - "[[Learned Helplessness]]"
   - "[[Heterogeneity]]"
   - "[[Open-Mindedness]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity]]"
+  - "[[Going Native]]"
   - "[[Research-Practice Partnership]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 > [!program-context] 项目背景
 > - **立项时间与理论源起** 20 世纪 80 年代发源于美国斯坦福大学，基于社会学“期望状态理论”（Expectation States Theory）与地位特征理论构建，重点解决学校种族融合与学业异质班级中弱势学童遭孤立边缘化的问题。
-> - **跨国引进与[[Going Native\|本土化]]改造** 21 世纪初由匈牙利赫约凯赖斯图尔小学校长埃梅谢·K·纳吉（Emese K. Nagy）团队引入中东欧，联合米什科尔茨大学等高校研究团队，针对罗姆人（Roma）少数族裔聚集的高贫困乡村学校展开系统二次创新。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
+> - **跨国引进与本土化改造** 21 世纪初由匈牙利赫约凯赖斯图尔小学校长埃梅谢·K·纳吉（Emese K. Nagy）团队引入中东欧，联合米什科尔茨大学等高校研究团队，针对罗姆人（Roma）少数族裔聚集的高贫困乡村学校展开系统二次创新。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
 > - **覆盖范围与规模** 在北美被广泛应用于双语与多元文化公立学校；在匈牙利本土化后辐射推广至全国近 200 所中小学校，成为国家公共教育系统认可的优质创新教学方案。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 > - **核心问题导向** 破解传统合作学习流于形式、高地位优等生独占发言权并主导成果、低地位弱势生陷入[[Learned Helplessness\|习得性无助]]并被同伴边缘化的结构性顽疾。
 
@@ -86,7 +86,7 @@ updated: 2026-10-16
 > - **[[Cooperative Learning\|合作学习]]规范与精细角色分工（Cooperative Norms and Roles）** 4–5 人小组内设立明确的角色轮换制（如主持人、记录员、资源管理员、检查员），赋予每个人明确的独立责任与群体互赖约束。
 > - **教师显性地位处理（Status Treatment）** 教师在课堂巡视中敏锐捕捉低地位弱势学童在某一任务维度展现的真实亮点，并在全班面前进行客观、公开且实质性的表扬与指认，直接重塑同伴群体对该学生的智力期望。
 
-> [!citation-card] 复合教学方案的[[Going Native\|本土化]]诊断与校本共生
+> [!citation-card] 复合教学方案的本土化诊断与校本共生
 > 一所国内顶尖大学在学校启动了一项旨在进行组织诊断并将成果融入学校的科研项目。该项研究对学校规模化推广一项重大创新至关重要。学校引进了斯坦福大学开发的复合教学计划（CIP），将其改造为一项全新的校本创新，并开始向其他学校推广。大学研究团队根据学校管理层和一线教师的持续反馈制定[[Questionnaire\|问卷]]，防止工具过于宽泛而产生误导，为项目的稳固生根奠定了坚实的科学基础。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 >
 > *The school had adapted the Complex Instruction Programme developed by Stanford University, transformed it into a new innovation, and began to disseminate it to other schools... University researchers prepared a questionnaire based on continuous [[Feedback]] received from school management and teachers to help ensure that the measurement could be conducted in other schools as well.* (Nagy, 2022; cited in Bangs et al., 2022, p. 214)
@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 > [!dev-timeline]- 项目推进历程
 > - **1980–1990 年代 — 斯坦福实验室创立与北美实证期** 科恩团队开展数十项大规模课堂对照实证研究，严格证实地位干预能够显著提高低地位学童的小组互动频次与标准化阅读数学测验成绩。
-> - **2000–2010 年代 — 匈牙利校本引进与深度组织诊断期** 纳吉校长将 CIP 引入赫约凯赖斯图尔乡村公立小学，联手米什科尔茨大学研究团队，围绕组织运转、教师动机与管理效能展开长达数年的深度组织诊断与量表[[Going Native\|本土化]]调适。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
+> - **2000–2010 年代 — 匈牙利校本引进与深度组织诊断期** 纳吉校长将 CIP 引入赫约凯赖斯图尔乡村公立小学，联手米什科尔茨大学研究团队，围绕组织运转、教师动机与管理效能展开长达数年的深度组织诊断与量表本土化调适。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 > - **2010 年代至今 — 全匈规模化辐射与梯队制度化沉淀** 结合匈牙利 2013 年出台的“研究型教师职级制度”，由校内名师负责将 CIP 巩固为日常校本教学常规，由兼任大学教员的研究型教师负责向全匈牙利近 200 所中小学校推广培训，使该校成为名副其实的知识创造型组织。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-10-16
 
 > [!pathways]- 实施路径与管理
 > - **系统性组织诊断** 引进推广前首先对目标学校的[[Organizational Culture\|组织文化]]、师资心理动机与管理架构开展前置实证摸底。
-> - **测评量规[[Going Native\|本土化]]共创** 大学学者根据一线教师的直接经验持续剔除晦涩、误导性条目，确保问卷能精准捕捉教学法落地的真实障碍。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
+> - **测评量规本土化共创** 大学学者根据一线教师的直接经验持续剔除晦涩、误导性条目，确保问卷能精准捕捉教学法落地的真实障碍。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 > - **双轨梯队辐射机制** 形成“名师主内抓深耕改进、研究型教师主外抓系统辐射”的制度化扩散链条。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 215)]]
 
 ---

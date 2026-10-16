@@ -29,7 +29,6 @@ related_concepts:
   - "[[Test Validity]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Going Native]]"
 related_theories: []
 related_methods:
   - "[[Multi-phase Sampling]]"
@@ -142,7 +141,7 @@ updated: 2026-10-16
 > > [!axis] 外部技术主导与主权国家统计能力的真实赋能
 > > 关于发展中国家对国际机构数据援助依附性的政治反思。
 > >
-> > - **[[Going Native\|本土化]]批判学者** 指出许多低收入国家由于自身财政枯竭，其统计部门长期沦为西方援助机构的外包包工头，缺乏自主维护与开发数据系统的动力。
+> > - **本土化批判学者** 指出许多低收入国家由于自身财政枯竭，其统计部门长期沦为西方援助机构的外包包工头，缺乏自主维护与开发数据系统的动力。
 > > - **UNICEF 治理回应** 坚称 MICS 始终坚持与国家统计局共同拥有版权，调查过程本身已成为全球南方本土统计官员最重要的数据实战熔炉。
 
 > [!lessons] 经验教训与启示

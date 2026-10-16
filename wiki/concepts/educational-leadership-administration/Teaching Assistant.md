@@ -25,7 +25,6 @@ related_concepts:
   - "[[Interactional Expertise]]"
   - "[[Contributory Expertise]]"
   - "[[School Leadership]]"
-  - "[[Going Native]]"
   - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
@@ -78,7 +77,7 @@ updated: 2026-10-16
 > [!boundary]- 概念边界
 > - **不等于 [[School Leadership\|学校领导]]与主讲教师** 助教处于辅助支持层级，不承担法定教学大纲设计、学业统考评定与班级整体管理的正式专业责任。
 > - **不等于 特殊教育协调员（SENCO）** SENCO 持有专业资质并统筹全校特殊教育方案，助教则是具体辅助支持的执行者。
-> - **不适用于 脱离特定治理体制的简单外推** 英国助教的人事编制、薪酬体系及 [[Pupil Premium]] / [[Pupil Equity Funding]] 资助机制高度[[Going Native\|本土化]]。
+> - **不适用于 脱离特定治理体制的简单外推** 英国助教的人事编制、薪酬体系及 [[Pupil Premium]] / [[Pupil Equity Funding]] 资助机制高度本土化。
 
 ---
 

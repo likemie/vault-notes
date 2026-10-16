@@ -41,7 +41,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
-  - "[[Going Native]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -341,7 +340,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] 全球南方与[[World Bank|世界银行]] Teach 案例
 > - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
-> - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的[[Going Native|本土化]]改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
+> - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的本土化改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
 
 ---
 

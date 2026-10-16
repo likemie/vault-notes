@@ -52,7 +52,6 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Washington Consensus]]"
   - "[[Policy Borrowing]]"
-  - "[[Going Native]]"
   - "[[Space of Flows]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Gatekeepers]]"
@@ -236,7 +235,7 @@ updated: 2026-10-16
 >   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”[[Disciplina and Doctrina|规训]]机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 则从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 22 [[Argument_Beech_2009_GlobalGarden]]；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
->   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去[[Going Native\|本土化]]分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性转译逻辑；Ch. 22 引入语篇位置与[[Space of Flows|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 则揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者。
+>   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去本土化分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性转译逻辑；Ch. 22 引入语篇位置与[[Space of Flows|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 则揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者。
 > - **空间转向、流动性与人口治理**
 >   - **相关章节** Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]；Ch. 61（空间认知地图）；Ch. 67（Phillips 转移地理学）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现比较教育学如何从[[Enlightenment|启蒙运动]]将空间从属于时间的线性进化史观，转向批判性空间实践与[[Governmentality|治理术]]微观解剖；解构现代学校作为封闭容器对跨国与国内流动人口（移民、游牧民、[[Migrant Children|随迁儿童]]）的规训机制，揭示欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]（欧洲一体化公民资本 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 漂泊失范）的阶层化道德双标，并统合知识理性系统与结构性参与公平。

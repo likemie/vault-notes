@@ -31,7 +31,6 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Going Native]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
 related_methods: []
@@ -136,7 +135,7 @@ updated: 2026-10-16
 > > - **科学自由派观点** 坚信科学探索的突破依赖不受政治干预的学者自由选题与同行评审，反对将国家安全审查机制过度渗透至大学基础研究资助中。
 > > - **国家战略派主张** 认为在全球地缘博弈白热化时代，联邦资助必须服务于国家核心利益与关键供应链安全，NSB 必须主动承担统筹国家战略技术攻关的治理责任。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 237–238)]]
 >
-> > [!axis] 国际开放科研生态 vs 关键技术防范与[[Going Native|本土化]]审查
+> > [!axis] 国际开放科研生态 vs 关键技术防范与本土化审查
 > > 围绕全美高层次工程科研人才对国际学者的高依赖度，探讨如何平衡学术开放与防范知识产权流失。
 > >
 > > - **学术全球化立场** 强调美国科研领导力完全建立在开放吸纳全球顶尖留学生与科学家的基础之上，设置严苛的国籍与安全审查将直接导致美国本土实验室陷入人才枯竭。

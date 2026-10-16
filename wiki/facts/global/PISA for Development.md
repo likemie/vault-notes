@@ -27,7 +27,6 @@ related_concepts:
   - "[[Floor and Ceiling Effects]]"
   - "[[Grade Retention]]"
   - "[[Variable]]"
-  - "[[Going Native]]"
   - "[[Learning Crisis]]"
   - "[[Policy Brokerage]]"
   - "[[Development Turn in Comparative Education]]"
@@ -94,7 +93,7 @@ updated: 2026-10-15
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2014–2016 年 — 理论框架调整与工具[[Going Native\|本土化]]期** 重新标定阅读、数学与科学试题难度参数，设计入户失学儿童访调量表，在塞内加尔、赞比亚等地建立国家协调团队。
+> - **2014–2016 年 — 理论框架调整与工具本土化期** 重新标定阅读、数学与科学试题难度参数，设计入户失学儿童访调量表，在塞内加尔、赞比亚等地建立国家协调团队。
 > - **2016–2018 年 — 跨洲试点实测与数据清洗期** 完成 9 国数万名在校与校外青少年野外实测，首次在国际大规模测评中成功将失学青少年的认知素养映射到主线 [[PISA]] 坐标尺上。
 > - **2019 年至今 — 主线吸纳与 [[UN Sustainable Development Goals\|SDG 4]] 监测工具化** 发布全球综合技术评估报告；其创立的低阶能力量规（1b 与 1c 级）被正式并入全球主线 PISA 2021/2022 测评体系，[[OECD\|经合组织]]据此正式成为联合国监测 SDG 4.1.1 关键指标的法定数据提供方。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 

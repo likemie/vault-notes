@@ -19,7 +19,6 @@ tags:
   - theme/educational-evidence-clearinghouses
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Going Native]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research Utilization]]"
   - "[[Praxis]]"
@@ -100,7 +99,7 @@ updated: 2026-10-16
 >
 > - **第四代（2020 年代）：国际扩散与制度重组**
 >
->   澳大利亚、瑞典、荷兰等国建立[[Going Native\|本土化]]清算中心。英国的 ESRC 并入国家科研与创新署（UK Research and Innovation，UKRI），DCSF 改组为教育部（Department for Education，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
+>   澳大利亚、瑞典、荷兰等国建立本土化清算中心。英国的 ESRC 并入国家科研与创新署（UK Research and Innovation，UKRI），DCSF 改组为教育部（Department for Education，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
 
 
 ## 证据清算中心
@@ -171,7 +170,7 @@ updated: 2026-10-16
 
 > [!finding-cards] [[Evidence-Based Education\|循证教育]]机构格局的三条主线
 > 1. **重心转移：从方法论驱动到实践驱动** 早期以 [[EPPI-Centre]] 的[[Systematic Review\|系统综述]]方法论为引擎，中期以 [[What Works Clearinghouse\|WWC]] 和 [[Education Endowment Foundation\|EEF]] 的政策工具为推手，后期以 [[ResearchED]] 为代表的教师草根运动将证据拉回课堂。驱动力从学术方法论逐步转向政策需求、再转向一线实践者。
-> 2. **地理扩散：从英美中心到全球多中心** 2010 年代后澳大利亚、瑞典、荷兰、中国等国纷纷建立[[Going Native\|本土化]][[Educational Evidence Clearinghouses\|证据清算中心]]与研究机构，循证教育不再仅限于英语发达国家。但美国与英国仍然是机构密度和影响力最高的两个中心。
+> 2. **地理扩散：从英美中心到全球多中心** 2010 年代后澳大利亚、瑞典、荷兰、中国等国纷纷建立本土化[[Educational Evidence Clearinghouses\|证据清算中心]]与研究机构，循证教育不再仅限于英语发达国家。但美国与英国仍然是机构密度和影响力最高的两个中心。
 > 3. **制度脆弱性：拨款依赖与行政连续性** 近半数英国早期机构（UK CBEP、[[Evidence Network]]、[[Research Informed Practice Site]]）已关闭或整合，美国 WWC 在 2025 年突然停摆。循证教育制度基础设施高度依赖政府拨款和行政连续性，其长期可持续性仍是一个开放问题。
 
 

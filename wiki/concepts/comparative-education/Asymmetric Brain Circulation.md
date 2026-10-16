@@ -19,7 +19,6 @@ tags:
   - "region/global"
 related_concepts:
   - "[[Competitiveness]]"
-  - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
 related_theories: []
@@ -75,7 +74,7 @@ updated: 2026-10-16
 > [!claim] 核心智力赤字命题
 > 当流出的学者在学术产出和学科前沿性上远高于流入的区域学者时，即便科学人口总量通过移民或引进实现“数字平衡”，由于高端人才循环通道被阻断，该系统的“双向学术信息流”将出现严重质性赤字，导致前沿创新的发生率大幅衰减。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 37, 41]])
 
-> [!claim] [[Going Native\|本土化]]指标注水反馈
+> [!claim] 本土化指标注水反馈
 > 面对非对称循环和严苛的国际化指标考核压力，大学和研究所会发展出防御性适应策略。它们通过将短期来访的访问学者与长期合同聘用工合并计算，虚假提高国际化率，这不仅稀释了国家财政的引智效能，反而导致行政管理对实际合作质量的监督失效。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 41–42]])
 
 ---

@@ -22,7 +22,6 @@ tags:
   - quality-monitoring
   - region/asia
 related_concepts:
-  - "[[Going Native]]"
   - "[[International Education]]"
 related_theories: []
 related_methods:
@@ -71,7 +70,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心影响
 > - **政策影响** NAEQ 的建立标志着中国教育评估从单一的高利害考试（中考、[[Gaokao\|高考]]）扩展至基础教育质量系统监测。[[PISA]] 的比较逻辑被嵌入了中国的国内教育评估体系。
-> - **方法影响** 中国对 PISA 指标的采纳并非直接照搬，而是基于批判性研究和[[Going Native\|本土化]]改编——这反映了中国在外部影响与内部改革之间的体用框架策略：采纳国际评估形式（用），但保留国内教育价值取向（体）（Xie et al., 2022）。
+> - **方法影响** 中国对 PISA 指标的采纳并非直接照搬，而是基于批判性研究和本土化改编——这反映了中国在外部影响与内部改革之间的体用框架策略：采纳国际评估形式（用），但保留国内教育价值取向（体）（Xie et al., 2022）。
 > - **国际影响** NAEQ 是 PISA 在中观决策层面推动各国建立全国性教育评估体系的典型案例之一——与瑞士 [[HarmoS]]、加拿大 [[Canadian Education Indicators Program|CEIP]] 并列（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---

@@ -110,7 +110,6 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Dependent Variable]]"
   - "[[Familiarization]]"
-  - "[[Going Native]]"
   - "[[Research Purpose]]"
   - "[[Test Validity]]"
   - "[[Champ]]"
@@ -1355,7 +1354,7 @@ Hudson and Miller (1997) 提出了最大化邮寄问卷回应率的十二项策�
 > - 研究者在探索当下时可能**不了解重要的先发事件**
 > - 信息提供者可能在研究中**不具代表性**
 > - 观察者的在场可能引发**不同行为（反应性和生态效度）**
-> - 研究者可能 **"[[Going Native\|本土化]]"（go native）**——过于依附群体而无法足够冷静地看待它
+> - 研究者可能 **"本土化"（go native）**——过于依附群体而无法足够冷静地看待它
 
 Denzin (1989) 建议通过**数据来源和方法论的三角验证**来解决。
 

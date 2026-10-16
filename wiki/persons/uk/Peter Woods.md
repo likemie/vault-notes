@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
-  - "[[Going Native]]"
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Decodification]]"
@@ -76,7 +75,7 @@ updated: 2026-10-16
 
 > [!timeline] 生平与职涯
 > - **1934** 出生于英国，早年投身中等教育一线教学实践，积累了关于学校日常运转与师生互动生态的丰富感性经验。
-> - **1970s** 进入英国开放大学任教，长期担任教育学院社会学教授，致力于将芝加哥学派[[Symbolic Interactionism\|符号互动论]]与微观[[Ethnography\|民族志]]方法[[Going Native\|本土化]]转译于英国学校研究。
+> - **1970s** 进入英国开放大学任教，长期担任教育学院社会学教授，致力于将芝加哥学派[[Symbolic Interactionism\|符号互动论]]与微观[[Ethnography\|民族志]]方法本土化转译于英国学校研究。
 > - **1979** 出版代表作《分化的学校》（*The Divided School*），在英国教育社会学界确立了微观互动论的经验[[Paradigm\|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
 > - **1983–1986** 相继出版《学校社会学》（*Sociology and the School*）与《走进学校》（*Inside Schools*），系统化阐发课堂民族志与质性探究的方法论操作准则。
 > - **1996** 出版《研究教学的艺术》（*Researching the Art of Teaching*），将[[Qualitative Research\|质性研究]]深化至教师创意、情感与专业直觉，后获评开放大学荣休教授。

@@ -25,9 +25,9 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
   - "[[Space of Flows]]"
-  - "[[Going Native]]"
   - "[[Cross-National Attraction]]"
   - "[[Praxis]]"
+  - "[[Going Native]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
   - "[[Governance by Spin]]"
@@ -129,7 +129,7 @@ updated: 2026-10-16
 > *…translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'.* (p. 255)
 
 > [!citation-card] 罗伯特·考恩论权力压缩与深层质变
-> 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖[[Going Native\|本土化]]和灭绝的变形范围。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
+> 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
 > 
 > *…transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form.* (p. 255)
 
@@ -157,7 +157,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **转移 (Transfer) — 空间跨越与[[Discourse|话语]]抽离** 发生在“[[Space of Flows\|流动空间]]”中的物理或虚拟移动（Space-gate Moment）。理念常被抽离特定历史经验变成高可塑性的[[Floating Signifier\|漂浮能指]]，受国际关系[[Paradigm\|范式]]塑造。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 349)]]
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新编码外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin\|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism\|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）。
-> - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native\|本土化]]到“灭绝”的光谱上（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）。
+> - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在本土化到“灭绝”的光谱上（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）。
 > - **五位置[[Champ|场域]]中介与[[Gatekeepers|守门人]]转译机制（Five-Position Structural Relay & Gatekeeper Translation）** 比奇将 3T 过程嵌入跨国教育场域的五位置流通网络：转移（Transfer）贯穿第一位置（全球学术空间）至第二位置（国际多边组织）再向第三位置（国家官僚系统）的流动，由国际机构通过紧迫[[Pragmatic Paradigm|实用主义]]删剪为标准化五大支柱模型并绑定贷款；转译（Translation）在第四位置（本土学术空间）被兼具大学学者、教育部顾问与国际智库专家的跨界“[[Gatekeepers|守门人]]”网络垄断，使合法政策话语沦为外部处方的注脚；转化（Transformation）则在第五位置（微观教育机构）遭遇极端物质匮乏与历史[[Habitus|惯习]]的重力压缩，导致一线教师产生普遍的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
 > - **[[Transfer Space\|转移空间]]与自指性系统转译（Transfer Space & Autopoietic Translation）** 转移不仅是地理空间位移，更是行动者、国际组织与智库中介交汇的多维关系[[Champ\|场域]]（Transfer Space）。依据[[Autopoiesis\|自创生]]系统论，外部规制（如[[New Public Management\|新公共管理]]的结果导向管理）必须在教育系统内部被转译为其自身的逻辑和语言编码（在教育中表现为“从教学转向学习”，并最终演变为“[[Datafication of Learning\|学习的数据化]]”）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **社会-技术转译与拓扑数据装配（Sociotechnical Translation & [[Topological Spatialisation\|Topological Re-Assemblage]]）** 在科学技术学与政策拓扑学视角下，“转译”打破了纯话语文本分析，被阐释为异质行动者（决策官员、心理测量学者、算法参数、国家题库与数字平台）在“问题化、利益化、征募与动员”四阶段中被招募并装配为耐用基础设施的过程。在绩效数据治理中，国家标准借助数字自适应练习平台等“不变移动物”跨越宪政行政壁垒，直接折叠进微观教学实践，实现跨尺度的[[Governing at a Distance\|远处治理]]重组。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 136–144)]]
@@ -192,7 +192,7 @@ updated: 2026-10-16
 > [!claim] [[Argument_Cowen_2009_CE\|Cowen (2009b)]]
 > - **空间移动与“太空门时刻”（Transfer）** 知识跨越国界移动，被从原初语境中剥离。（p.255）
 > - **文本重编与“变色龙过程”（Translation）** 接受国行动者根据本土需求与文化框架进行重新编码与制度化。
-> - **权力压缩与“本质[[Shape-Shifting\|形变]]／灭绝”（Transformation）** 本土社会经济权力施加重力挤压，导致产物在“[[Going Native\|本土化]]”到“灭绝”的光谱上发生形变。
+> - **权力压缩与“本质[[Shape-Shifting\|形变]]／灭绝”（Transformation）** 本土社会经济权力施加重力挤压，导致产物在“本土化”到“灭绝”的光谱上发生形变。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **三层社会空间映射与五位置中介链条** 比奇将 3T 阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的社会空间，解释了拉美课程改革中[[Floating Signifier|漂浮能指]]如何转化为学校层面的再生产障碍（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–355]]）。并在全球教育[[Champ|场域]]五位置模型中进一步确证：转移（Transfer）由国际组织经紧迫[[Pragmatic Paradigm|实用主义]]删剪为标准化五大支柱模型并推向主权国家；转译（Translation）由外围本土跨界“[[Gatekeepers|守门人]]”网络垄断合法解释权并排除替代性知识；转化（Transformation）则在微观学校遭遇物质极端匮乏与历史[[Habitus|惯习]]的重力压缩，最终异化为与改革初衷背道而驰的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]

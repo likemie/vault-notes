@@ -28,7 +28,6 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Assemblage]]"
-  - "[[Going Native]]"
   - "[[Modern Industrial Policy]]"
   - "[[Academic Achievement]]"
   - "[[Policy Conditionalities]]"
@@ -88,7 +87,7 @@ updated: 2026-10-16
 > [!timeline] 政策时间线
 > - **2021 年 11 月** 国会通过《[[Infrastructure Investment and Jobs Act|两党基础设施法案]]》（IIJA），BABA 作为该法核心条款正式颁布成为法律。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **2022 年 4 月** 白宫管理与预算办公室（OMB）发布全联邦实施 BABA 初始指南，成立“美国制造办公室”（Made in America Office）统一监督。
-> - **2023 年 2 月** 联邦公路管理局（FHWA）针对电动汽车充电设施发布首个代表性的 BABA 分阶段临时豁免规程，确立从短期外壳[[Assemblage|组装]]豁免向 2024 年 55% 成本[[Going Native|本土化]]的渐进过渡路径。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
+> - **2023 年 2 月** 联邦公路管理局（FHWA）针对电动汽车充电设施发布首个代表性的 BABA 分阶段临时豁免规程，确立从短期外壳[[Assemblage|组装]]豁免向 2024 年 55% 成本本土化的渐进过渡路径。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 > - **2023 年 8 月** OMB 发布最终统一联邦法规指南（2 CFR Part 184），明确制造品、建筑材料的严格分类与本土化认定标准。
 
 ---
@@ -119,7 +118,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心规模数据
 > - **1.2 万亿美元** IIJA 基础设施投资总体规模，构成 BABA 条款实施的资金需求底座。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
-> - **100% [[Going Native|本土化]]** BABA 对联邦资助基建中所用铁、钢制造过程的法定本土化比例要求。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
+> - **100% 本土化** BABA 对联邦资助基建中所用铁、钢制造过程的法定本土化比例要求。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **55% 成本门槛** 电动汽车充电桩等制造品在过渡期后必须达到的本土零部件成本最低比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---

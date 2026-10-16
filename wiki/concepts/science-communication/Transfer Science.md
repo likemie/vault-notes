@@ -38,7 +38,6 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Praxis]]"
   - "[[Knowledge Mediation]]"
-  - "[[Going Native]]"
   - "[[Incommensurability]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Variable]]"
@@ -198,7 +197,7 @@ updated: 2026-10-16
 > - **1980 年代 — 理论与实践冲突的传统哲学辩难** 德国教育学界在反思实证转向时，集中探讨教育科学中理论与实践的关系问题（Theorie-[[Praxis]]-Problem），奠定了教育学难以直接推演教学行动准则的[[Epistemology|认识论]]基础（Benner, 1980; Vogel, 1990）。
 > - **2000 年代初 — 语言学与传播学界转移科学的奠基** 德国语言学者格尔德·安托斯（Gerd Antos）与齐格弗里德·维希特（Siegfried Wichter）系统提出转移科学（Transferwissenschaft）纲领，探讨在信息爆炸与专家-外行分化时代知识流动的障碍、质量标准与反思机制（Antos, 2001; Antos & Weber, 2005; Wichter & Busch, 2006）。
 > - **2000 年代中后期 — 德国联邦-州联合大型改革试验的转移探索** 伴随德国跨州大型模型试验项目（如[[SINUS|提高数理教学效率联合改革试验]] SINUS 及其后续项目 SINUS-Transfer、[[Chemie im Kontext|情境中的化学]] CHiK）的推行，研究者开始经验性追踪网络化教研中的创新扩散规律，但仍缺乏系统性转移理论建构（Nickolaus & Gräsel, 2006; Stadler et al., 2007; Krebs & Prenzel, 2008）。
-> - **2010 年代末至今 — 教育科学作为转移科学的自觉与批判深化** 针对新治理工具在学校层面缺乏实质成效的现实危机，教育学者呼吁吸纳国际[[Knowledge Mediation|知识中介]]研究，将教育科学确立为研究转移全过程的转移科学，并建立[[Going Native|本土化]]清算与监测体系（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]; Schreiner et al., 2019; [[Argument_Besa_2024_UW|Besa, 2024]]）。
+> - **2010 年代末至今 — 教育科学作为转移科学的自觉与批判深化** 针对新治理工具在学校层面缺乏实质成效的现实危机，教育学者呼吁吸纳国际[[Knowledge Mediation|知识中介]]研究，将教育科学确立为研究转移全过程的转移科学，并建立本土化清算与监测体系（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]; Schreiner et al., 2019; [[Argument_Besa_2024_UW|Besa, 2024]]）。
 
 ---
 

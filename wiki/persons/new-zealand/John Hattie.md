@@ -29,7 +29,6 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Feedback]]"
   - "[[Formative Assessment]]"
-  - "[[Going Native]]"
   - "[[Individualised Instruction]]"
   - "[[Academic Achievement]]"
   - "[[Learning Progression]]"
@@ -80,6 +79,7 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Falsification]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Going Native]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Scaffolding]]"
 related_theories:
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席，兼任澳大利亚[[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席。
 > - **核心角色** 《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
-> - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包[[Going Native\|本土化]]转化。
+> - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
 
 > [!citation-card]- 人物定位的关键来源
 > 我是测量人员，我是统计学家，我不是理论家。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
@@ -199,7 +199,7 @@ updated: 2026-10-16
 > - **2010–2014** 推进跨国商业化扩张，2011 至 2015 年间累计从[[Cognition Education|认知教育]]（Cognition Education）获得第三方版税与顾问款项达 869,453 新西兰元（2011 年 10,000 元、2012 年 93,322 元、2013 年 272,133 元、2014 年 270,559 元、2015 年 223,439 元），数额相当于公立重点高中校长数倍年薪；[[Gerald Grace]] 发文介入论战。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 48–50, 67)]]; [[Argument_Grace_2010_NZJES|(Grace, 2010, p. 90)]]
 > - **2011** 转任澳大利亚墨尔本大学教育研究生院教授兼研究所主任。
 > - **2013–2014** 出任 1600 万澳元澳大利亚科学学习研究中心副主任；获任命为澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）董事会主席，其工作全面嵌入国家教师与校长专业标准。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 50)]]
-> - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；丹麦公立学校改革引发《可见的学习》[[Going Native\|本土化]]激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
+> - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；丹麦公立学校改革引发《可见的学习》本土化激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 > - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 > - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的[[Preregistration|预注册]]全量[[Metascience|元科学]]审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足[[Research Question|研究问题]]纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 
@@ -262,7 +262,7 @@ updated: 2026-10-16
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen, 2017]] — [[In-depth Interview\|深度访谈]]剖析 Hattie 对实证、翻译、理论与“结果的暴政”的反思与自白。
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl, 2015]] — 阐释斯堪的纳维亚学校如何将 Hattie 转译为组织改进与专业判断的内部支点。
-> - [[Argument_Fredens_2015_Paideia\|Fredens, 2015]] — 从脑科学与学习科学视角评析 Hattie 教学原则在丹麦的[[Going Native\|本土化]]转译。
+> - [[Argument_Fredens_2015_Paideia\|Fredens, 2015]] — 从脑科学与学习科学视角评析 Hattie 教学原则在丹麦的本土化转译。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015]] — 运用动态知识学习模型回应丹麦批评，重建学习结果多维概念。
 > - [[Argument_Laursen_2015_Paideia\|Laursen, 2015]] — 评估《可见的学习》核心综合在丹麦公立学校改革中的总体适用性。
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]] — 从[[Niklas Luhmann\|卢曼]]系统论与[[Structural Coupling\|结构耦合]]视角为 Hattie 辩护，批判意识形态解释社群。
@@ -295,7 +295,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis\|元综合]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis\|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction\|自动化数据提取]]前沿实证评测。
-> - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native\|本土化]]转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
+> - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧本土化转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
 > - **批评者／论敌** [[Christof Wecker]]、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership\|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning\|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation\|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 

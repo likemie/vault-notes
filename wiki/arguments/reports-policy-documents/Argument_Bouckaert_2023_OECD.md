@@ -55,7 +55,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Computerized Adaptive Testing]]"
   - "[[Domain Specificity]]"
-  - "[[Going Native]]"
   - "[[Ecological Validity]]"
   - "[[Reliability]]"
   - "[[Student Engagement]]"
@@ -314,7 +313,7 @@ updated: 2026-10-16
 >   - **测评技术突破** 重点推进[[Computerized Adaptive Testing\|计算机化自适应测验]]（Computerized Adaptive Testing, CAT）、多维[[Item Response Theory\|项目反应理论]]（Multidimensional IRT）统计模型以及多学段纵向[[Cohort Study\|追踪研究]]。
 >   - **制度化价值** 建立了兼具[[Domain Specificity\|学科特异性]]与通用高阶思维的测评工具库，为德国高校质量保障与国际高教评估提供了扎实的心理测量学依据。（pp. 16–17）
 
-> [!case] 意、英、美对高阶能力评价的[[Going Native\|本土化]]探索与实践
+> [!case] 意、英、美对高阶能力评价的本土化探索与实践
 > - **意大利 ANVUR [[TECO Project\|TECO]] 试验（2012–2015）：情境化表现测试跨国移植**
 >   - **制度背景与转译** 意大利国家大学与科研评估署（Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca, ANVUR）探索国家级本科质量监测，与[[Council for Aid to Education\|美国援助教育理事会]]（Council for Aid to Education, CAE）深度合作，将大学学习评估（[[Collegiate Learning Assessment\|CLA+]]）系统翻译与文化本土化为意大利大学生素养测验（Test sulle Competenze, TECO）。
 >   - **实证检验** 2015 年在全意 23 所大学对 6,000 多名本科生实施全真施测，成功验证了在欧洲大陆大学语境下运用真实文档库情境化表现任务（Performance Tasks）测量批判性思维与书面沟通的[[Ecological Validity\|生态效度]]与测量[[Reliability\|信度]]。（p. 17）

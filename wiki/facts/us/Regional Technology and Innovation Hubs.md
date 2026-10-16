@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Going Native]]"
   - "[[Research Universities]]"
   - "[[Technology Readiness Level]]"
   - "[[Valley of Death]]"
@@ -67,7 +66,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **区域技术与[[Innovation Hub|创新枢纽]]计划（Regional Technology and Innovation Hubs, Tech Hubs）** 是美国商务部（United States Department of Commerce, DOC）下属经济发展局（Economic Development Administration, EDA）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）设立的旗舰级地方导向[[Modern Industrial Policy|现代产业政策]]工程。该计划授权总投资 100 亿美元，旨在通过在全美非传统科技高地培育集聚性区域产业创新联盟，推动关键核心技术的中试转化、规模化制造与供应链[[Going Native|本土化]]，打破少数沿海都会对科技资本的垄断并重塑国家创新地理拓扑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–22)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
+> **区域技术与[[Innovation Hub|创新枢纽]]计划（Regional Technology and Innovation Hubs, Tech Hubs）** 是美国商务部（United States Department of Commerce, DOC）下属经济发展局（Economic Development Administration, EDA）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）设立的旗舰级地方导向[[Modern Industrial Policy|现代产业政策]]工程。该计划授权总投资 100 亿美元，旨在通过在全美非传统科技高地培育集聚性区域产业创新联盟，推动关键核心技术的中试转化、规模化制造与供应链本土化，打破少数沿海都会对科技资本的垄断并重塑国家创新地理拓扑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–22)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年由《芯片与科学法案》正式授权立项，2023 年 10 月公布首批 31 个指定技术枢纽（Designated Tech Hubs），2024 年 7 月完成首轮实施资助拨付，项目设计支持周期为 5 至 10 年。
@@ -127,7 +126,7 @@ updated: 2026-10-16
 > [!indicators]- 评估指标体系
 > - **投入与撬动指标** 联邦拨付资金到位率、地方政府与慈善基金配套率、私营资本跟投乘数效应（Private Capital Leverage Ratio）。
 > - **中试与转化指标** 开放式[[Pilot Scale Platform|中试平台]]利用率、专利转化与衍生企业成立数、[[Technology Readiness Level|技术就绪水平]]平均跃迁级数。
-> - **产业与就业指标** 战略供应链[[Going Native|本土化]]采购比例、新增高薪技术岗位规模、非传统背景与少数族裔工人进入半导体与先进制造业的比率。
+> - **产业与就业指标** 战略供应链本土化采购比例、新增高薪技术岗位规模、非传统背景与少数族裔工人进入半导体与先进制造业的比率。
 
 > [!finding-cards] 核心实证结论
 > - **多极创新拓扑初步成形** 首批 31 个枢纽覆盖全美 32 个州和波多黎各，成功将联邦产业研发重心引向五大湖区、阿巴拉契亚及山地走廊等内陆地带，显著改变了美国科技资本的地理流向。

@@ -37,7 +37,6 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[National Innovation System]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Going Native]]"
   - "[[Variable]]"
 related_theories:
   - "[[Path Dependence]]"
@@ -216,7 +215,7 @@ updated: 2026-10-16
 > > 自由市场学派强调纵向离散在全球范围内实现了极限要素配置效率；地缘政治经济学派则警示核心工序的地理极端集中造成了脆弱的单点断链咽喉。
 > >
 > > - **自由贸易分工论** 认为跨国专业化分工将各环节成本降至最低，推动全球电子消费品的大普及。
-> > - **[[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]** 指出尖端制程（[[Taiwan Semiconductor Manufacturing Corporation|台积电]] 90%+）与光刻设备（ASML）的极度地理集中构成了全球系统性断链风险，倒逼各国推行高成本的供应链[[Going Native|本土化]]与友岸分散政策。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92, 98–103)]]
+> > - **[[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]** 指出尖端制程（[[Taiwan Semiconductor Manufacturing Corporation|台积电]] 90%+）与光刻设备（ASML）的极度地理集中构成了全球系统性断链风险，倒逼各国推行高成本的供应链本土化与友岸分散政策。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92, 98–103)]]
 
 > [!warning] 适用局限
 > 纵向离散模式高度依赖稳定的全球多边规则与无摩擦的跨国贸易物流；一旦遭遇地缘政治冲突、单边技术出口管制或大流行等结构性冲击，其超长分工链条与单点咽喉将被迅速武器化，暴露出严重的系统脆弱性。

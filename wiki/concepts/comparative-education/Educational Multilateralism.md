@@ -29,7 +29,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Liberalization]]"
-  - "[[Going Native]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
@@ -170,7 +169,7 @@ updated: 2026-10-11
 > - **批判政治经济学世界体系论（资本[[Disciplina and Doctrina|规训]]立场）** 强调多边主义本质上是中心国家控制边缘国家的制度杠杆，多边机构以技术援助掩盖利益掠夺，阻碍了边缘国家建立内生性教育民主体制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 110–111)]]
 
 > [!warning] 适用局限
-> 教育多边主义框架主要聚焦跨国制度协调与宏观政策转移，若不结合微观学校[[Ethnography|民族志]]与本土行动者研究，容易忽视地方基层行动者在落地实施过程中的抵制、变通与[[Going Native|本土化]]重塑。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
+> 教育多边主义框架主要聚焦跨国制度协调与宏观政策转移，若不结合微观学校[[Ethnography|民族志]]与本土行动者研究，容易忽视地方基层行动者在落地实施过程中的抵制、变通与本土化重塑。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
 ---
 

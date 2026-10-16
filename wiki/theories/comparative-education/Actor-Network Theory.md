@@ -37,7 +37,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Effective Teaching]]"
   - "[[Policy Network]]"
-  - "[[Going Native]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Question]]"
   - "[[Champ]]"
@@ -150,7 +149,7 @@ updated: 2026-10-16
 > [!theory-proposition] 命题二｜政策和知识的跨空间流通是非线性的转译过程，而非机械的跨国领土借用
 > **解释** 全球教育改革倡议（如[[PISA\|国际学生评估项目]]［Programme for International Student Assessment, PISA］或[[Effective Teaching\|有效教学]]模型）的跨空间流动，不能被视作在一个中心生产、在另一个边缘原样接收的静态物理转移。政策流通是处于[[Relational Space\|关系空间]]中的流动[[Discourse|话语]]，必须经过本土多行动者网络（决策官员、政党智库、媒体评论员、教研员）在“问题化”、“利益化”、“征募”与“动员”四个阶段的博弈重构与物质条件折射，才能扎根为起作用的局部实践。（Callon, 1986; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]；[[Argument_Li_2025_HSSC\|Li et al., 2025, p. 6]]）
 >
-> **应用实例** 国际[[OECD\|经合组织]]（OECD）发布 PISA 数据后，并不能自动引发成员国教育改革；只有当本国[[Policy Network\|政策网络]]将数据转化为本土危机叙事，并借助[[Going Native\|本土化]]测试指南与媒体动员完成二次转译时，测评数据才能转化为具体的问责政策。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）
+> **应用实例** 国际[[OECD\|经合组织]]（OECD）发布 PISA 数据后，并不能自动引发成员国教育改革；只有当本国[[Policy Network\|政策网络]]将数据转化为本土危机叙事，并借助本土化测试指南与媒体动员完成二次转译时，测评数据才能转化为具体的问责政策。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）
 
 > [!theory-proposition] 命题三｜耐用材料与无生命客体的策略性装配能够构筑跨时空[[Governing at a Distance\|远处治理]]并掩盖公私权力渗透
 > **解释** 将社会关系具身于耐用材料（durable materials，如公司章程、法律修订案、标准化量规、咨询合同）中，是一种高效的秩序化策略。无生命客体能够跨越广袤地理空间维系形状，使科研事实与政策指令产生普遍性表象；与此同时，这种由客观仪器与法规文本构成的“互客体性”黑箱，往往掩盖了私营金融资本、智库游说与商业分包网络在国家行政内部的深层筑巢，规避了民主公开审议。（Law, 1992; Latour, 2002; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
@@ -243,6 +242,6 @@ updated: 2026-10-16
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 ANT [[Center of Calculation\|计算中心]]理论与[[Topological Spatialisation\|拓扑空间]]学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的[[Governing at a Distance\|远处治理]]与政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料装配视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
-> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
+> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并本土化转译 [[OECD]] [[PISA]] 评估信息。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
 

@@ -24,10 +24,10 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
-  - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Fitness for Purpose]]"
   - "[[Revoicing]]"
+  - "[[Going Native]]"
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
@@ -65,7 +65,7 @@ updated: 2026-10-16
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外来复合学术思想在进入非西方危机社会时的[[Knowledge Transfer\|知识转移]]、翻译编码、制度转译与政治可塑性。
 > - **用途** 为比较教育学与教育史研究提供超越“忠实度/误读”二元评价的理论透镜，解释同一理论如何被不同政治阵营各取所需。
-> - **边界** 专指实用主义在中国历史与政治情境中的[[Going Native\|本土化]]演变；不等于作为通用研究方法论基础的 [[Pragmatic Paradigm\|实用主义范式]]。
+> - **边界** 专指实用主义在中国历史与政治情境中的本土化演变；不等于作为通用研究方法论基础的 [[Pragmatic Paradigm\|实用主义范式]]。
 
 > [!citation-card]- 关键表述：杜威思想在华的不断重新发明与碎片化
 > 杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–610]]）

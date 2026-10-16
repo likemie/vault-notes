@@ -24,7 +24,6 @@ tags:
   - venture-philanthropy
   - network-governance
 related_concepts:
-  - "[[Going Native]]"
   - "[[Academic Achievement]]"
   - "[[Initial Teacher Training]]"
   - "[[Discourse]]"
@@ -66,7 +65,7 @@ updated: 2026-10-16
 ## 计划定位与核心宗旨
 
 > [!claim] 核心定位
-> 新西兰先行者教育（Teach First New Zealand Ako Mātātupu, TFNZ）是 2011 年成立的独立注册教育慈善信托，作为全球先行者网络（Teach for All, TFA）的新西兰[[Going Native|本土化]]实体，面向高[[Academic Achievement|学业表现]]的顶尖大学毕业生与职业转变专业人士，推行为期两年的基于就业的初级教师教育（[[Initial Teacher Training|Initial Teacher Education]], ITE）与领导力培养方案，专向低社会经济地位的公立学校输送师资。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 53)]]
+> 新西兰先行者教育（Teach First New Zealand Ako Mātātupu, TFNZ）是 2011 年成立的独立注册教育慈善信托，作为全球先行者网络（Teach for All, TFA）的新西兰本土化实体，面向高[[Academic Achievement|学业表现]]的顶尖大学毕业生与职业转变专业人士，推行为期两年的基于就业的初级教师教育（[[Initial Teacher Training|Initial Teacher Education]], ITE）与领导力培养方案，专向低社会经济地位的公立学校输送师资。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 53)]]
 
 > [!org-context] 机构背景
 > - **创设时间与发起方** 2010 年启动可行性研究，2011 年正式登记为慈善信托，2013 年迎来首批学员。由在英国接受过教师培训的教育企业家肖恩·萨顿（Shaun Sutton）与新西兰政商界人士联合发起。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]
@@ -83,7 +82,7 @@ updated: 2026-10-16
 >
 >   项目发轫于跨国对冲基金与本土家族基金会的协同资助，依托名校名流赞助迅速完成政策合法性建构。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 28)]]
 >
->   - **2010 年** 获得奥克兰廷德尔基金会（Tindall Foundation）与注册在纽约及开曼群岛的奥特亚罗瓦基金会（Aotearoa Foundation，美国对冲基金亿万富翁朱利安·罗伯逊主导）对等匹配资助，完成新西兰[[Going Native|本土化]]可行性论证。
+>   - **2010 年** 获得奥克兰廷德尔基金会（Tindall Foundation）与注册在纽约及开曼群岛的奥特亚罗瓦基金会（Aotearoa Foundation，美国对冲基金亿万富翁朱利安·罗伯逊主导）对等匹配资助，完成新西兰本土化可行性论证。
 >   - **2011 年** 信托正式注册成立，确立包括前奥克兰[[Grandes Ecoles|大学校]]长约翰·格雷厄姆爵士（Sir John Graham）在内的名流赞助人阵容；与教育部签订合作备忘录。
 >
 > - **2013–2014 年** **首批学员入驻与业务常态化**

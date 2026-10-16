@@ -63,7 +63,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Innovation Hub]]"
-  - "[[Going Native]]"
   - "[[Tacit Knowledge]]"
   - "[[Formative Assessment]]"
   - "[[Research Impact]]"
@@ -261,7 +260,7 @@ updated: 2026-10-16
 > - **研究学校网络（Research Schools Network）**
 >   由 EEF 评选标杆学校担任区域[[Innovation Hub\|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，打破大学与中小学的制度壁垒。(EEF, 2019; |Révai, 2022, pp. 20–21)
 > - **研究学习网络（Research Learning Networks, RLNs）**
->   依托学者与一线教师的深度结对，开展平等的“学习对话”（Learning Conversations），在课堂真实情境中协同调试与[[Going Native\|本土化]]创生教学证据（Brown, 2018）。(|Révai, 2022, p. 21)
+>   依托学者与一线教师的深度结对，开展平等的“学习对话”（Learning Conversations），在课堂真实情境中协同调试与本土化创生教学证据（Brown, 2018）。(|Révai, 2022, p. 21)
 
 > [!theory-components] 激活证据生态系统的复杂系统核心构件（Best & Holmes, 2010）
 > - **证据与知识多元统筹（Evidence and Knowledge）**

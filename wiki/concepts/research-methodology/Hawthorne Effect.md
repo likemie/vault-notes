@@ -22,7 +22,6 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
   - "[[Variable]]"
-  - "[[Going Native]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
@@ -120,7 +119,7 @@ updated: 2026-10-16
 > > - **Adair (1984)** 综述大量研究，确认"被研究意识"确实改变行为，但效应大小因情境而异。
 >
 > > [!axis] 在教育研究中是否可避免
-> > 一些研究者认为在自然主义研究中通过长期在场的"[[Going Native\|本土化]]"可以消除霍桑效应；另一些则认为任何研究本质上都是一种干预——研究者永远无法完全消失。
+> > 一些研究者认为在自然主义研究中通过长期在场的"本土化"可以消除霍桑效应；另一些则认为任何研究本质上都是一种干预——研究者永远无法完全消失。
 > >
 > > - **Lincoln and Guba (1985)** 主张通过长期田野参与和持续观察使研究者的在场变得自然化。
 > > - **Hammersley and Atkinson (1983)** 提醒：即使长期在场，研究者的社会特征（性别、年龄、阶层、族裔）仍然持续塑造着被研究者的反应。

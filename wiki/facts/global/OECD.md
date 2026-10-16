@@ -48,7 +48,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Reliability]]"
   - "[[Steering at a Distance]]"
-  - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
   - "[[Scientific Literacy]]"
@@ -253,7 +252,7 @@ updated: 2026-10-16
 > [!pathways]- 业务运行机制
 > - **议程设置与跨国[[Space of Equivalence|等值空间]]虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **远处掌舵与多层网络调控** 借鉴[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
-> - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native|本土化]]双向翻译、抽样与计算机化施测。
+> - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 

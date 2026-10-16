@@ -45,7 +45,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Recontextualization]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Going Native]]"
   - "[[Reflexivity]]"
   - "[[Class Size]]"
   - "[[Business as Usual]]"
@@ -72,6 +71,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Going Native]]"
   - "[[Contributory Expertise]]"
   - "[[Methodological Nationalism]]"
 related_methods:
@@ -282,7 +282,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > [!boundary]- 概念边界
 > - **不等于 传统科层执行办事员** 办事员仅执行既定公文程序，缺乏组织创新与调适权限；变革把关人在目标统一框架下享有广阔的“路径自主权”（Path Autonomy; Heid, 2003），能够能动重构实施方案。
 > - **不等于 外部研究者或[[Educational Evidence Clearinghouses\|证据清算中心]]** 证据清算中心（如 [[Education Endowment Foundation\|EEF]]、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]）生产证据与工具；把关人则是校门一侧的实际采纳者与实践转化者。
-> - **不等于 单纯被动的知识消费者** 把关人并非照单全收外部方案，而是对证据进行剪裁、拼贴、[[Going Native\|本土化]]改编或策略性搁置。
+> - **不等于 单纯被动的知识消费者** 把关人并非照单全收外部方案，而是对证据进行剪裁、拼贴、本土化改编或策略性搁置。
 
 ---
 

@@ -44,7 +44,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
-  - "[[Going Native]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Fitness for Purpose]]"
@@ -288,7 +287,7 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 > - **完全观察者（Complete Observer）** 只观察（公开或隐蔽），**脱离**群体。例如外部观察者，或观察者不隐蔽但其在场不被群体注意的情境（如拥挤火车站的观察者）。
 
 > [!tension] 参与 vs 脱离
-> - **参与** 完全参与者、参与者即观察者，以主观性和同情为特征。局限：不敢走出群体界限以免暴露身份（在[[Covert Research\|隐蔽研究]]中），可能"[[Going Native\|本土化]]"。
+> - **参与** 完全参与者、参与者即观察者，以主观性和同情为特征。局限：不敢走出群体界限以免暴露身份（在[[Covert Research\|隐蔽研究]]中），可能"本土化"。
 > - **脱离** 观察者即参与者、完全观察者，以客观性和距离为关键特征。局限：与被观察者没有接触，**推断是危险的**。两者都最小化反应性（Hammersley & Atkinson, 1983, pp. 93–95; 23.1 节）。
 
 > [!tension] 量化 vs [[Qualitative Observation\|质性观察]]

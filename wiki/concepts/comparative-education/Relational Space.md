@@ -34,7 +34,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Mobility]]"
   - "[[Policy Borrowing]]"
-  - "[[Going Native]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Methodological Transnationalism]]"
   - "[[Philanthrocapitalism]]"
@@ -164,7 +163,7 @@ updated: 2026-10-16
 ### 命题三　转移空间是政策知识转译与意义重塑的实质性关系场域
 
 > [!concept-lens] [[Transfer Space\|转移空间]]中的转译与过滤
-> 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与[[Going Native\|本土化]]变异。
+> 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与本土化变异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
 > **转移空间中的两阶段过滤断裂** 跨国[[Policy Mobility\|政策流动]]绝非单向均质的全球趋同，而是发生在充满权力博弈的转移空间之中。在转移空间内部，不仅国际组织依据自身利基打包差异化证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–548)]]

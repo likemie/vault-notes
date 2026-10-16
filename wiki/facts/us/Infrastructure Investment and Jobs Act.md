@@ -78,7 +78,7 @@ updated: 2026-10-07
 > - **约束机制** 实行严格的联邦资助合规审计；豁免申请需在公共网站公示并接受社会评议，确保采购决策的高度透明与可追责性。
 
 > [!citation-card] BABA 采购要求与 MIAO 阶段性豁免设计
-> 虽然交通或通信基础设施投资本身并不直接等同于产业政策，但法案所包含的《建设美国、购买美国法》（BABA）以及所设立的美国制造办公室（MIAO）使其具备了明确的产业战略属性。BABA 将本土制造要求拓展到更广泛的建材与制成品……然而全球供应链的[[Going Native|本土化]]转型需要时间且在部分低附加值产品上经济不可行；为此，MIAO 建立了阶段性豁免与定期复核机制，既向市场释放长期的本土采购信号，又避免了教条式硬脱钩导致的工程停摆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> 虽然交通或通信基础设施投资本身并不直接等同于产业政策，但法案所包含的《建设美国、购买美国法》（BABA）以及所设立的美国制造办公室（MIAO）使其具备了明确的产业战略属性。BABA 将本土制造要求拓展到更广泛的建材与制成品……然而全球供应链的本土化转型需要时间且在部分低附加值产品上经济不可行；为此，MIAO 建立了阶段性豁免与定期复核机制，既向市场释放长期的本土采购信号，又避免了教条式硬脱钩导致的工程停摆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 >
 > *While the IIJA expanded the traditional view of infrastructure... these investments could be viewed as standard investments... However, what makes the IIJA an explicit part of the Biden industrial strategy is the Build America, Buy America Act (BABA)... To address these realities, agencies may grant waivers to funding recipients (which are reviewed by the MIAO) and put in place for a negotiated period of time with periodic reviews.*
 
@@ -105,7 +105,7 @@ updated: 2026-10-07
 > [!pathways]- 实施路径
 > - **资金分发与地方项目承接** 联邦通过成熟的公式拨款通道将巨额资金下拨给各州与地方政府，由地方编制基础设施翻新与扩建工程清单。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–12)]]
 > - **需求侧标准撬动供应链重塑** 借助 BABA 法案对建材与工业制成品的严格本土含量要求，促使跨国设备商（如充电桩与光纤制造企业）在美国本土投资设厂或寻找本地配套供应商。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
-> - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进[[Going Native|本土化]]的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
+> - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进本土化的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
 

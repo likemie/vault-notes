@@ -49,7 +49,6 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Standards]]"
-  - "[[Going Native]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Mobility]]"
   - "[[Disciplina and Doctrina]]"
@@ -268,7 +267,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 >
 > - **母版引入与子公司设立（2014）**
 >
->   SVA 依据《公司法》注册全资子公司证据学习中心（E4L），由前跨国商业律师马修·迪布尔（Matthew Deeble）掌舵，直接引进并[[Going Native\|本土化]]英国 EEF 的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]。（pp. 525, 530）
+>   SVA 依据《公司法》注册全资子公司证据学习中心（E4L），由前跨国商业律师马修·迪布尔（Matthew Deeble）掌舵，直接引进并本土化英国 EEF 的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]。（pp. 525, 530）
 >
 > - **跨国资本注入与联合资助（2014–2016）**
 >

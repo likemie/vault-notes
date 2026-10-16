@@ -48,7 +48,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
   - "[[Lifelong Learning]]"
-  - "[[Going Native]]"
   - "[[Apprenticeship]]"
   - "[[Grade Retention]]"
   - "[[Positivism]]"
@@ -268,7 +267,7 @@ updated: 2026-10-16
 - **指标反身影响利益博弈** EAG 教师薪资指标发布后，直接成为荷兰等国教师工会发起抗议并成功争取提薪的硬通货（Smith & Baker, 2001; [[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 3–4]]）。
 - **指标删除的体制黏性** 一旦某项指标被编制发布，即便 OECD 技术团队因方法论瑕疵希望下架，政策制定者与媒体因形成[[Path Dependence|路径依赖]]也会强烈抵制其删除（[[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 17]]）。
 - **指标体系对区域[[Heterogeneity|异质性]]的抹平与固化** 欧盟区域创新记分牌将所有成员国区域划分为“创新领导者”与“温和创新者”，年复一年的排榜不仅未能缩小差距，反而在[[Discourse|话语]]和资本流动层面自我实现了马太效应（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 174]]）。
-- **地方执行中的差异化转译（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证）** 对 16 个欧盟地区、168 位[[Lifelong Learning|终身学习]]政策专家的实证调研显示：制度基础深厚的德语区与北欧能动地将指标“[[Going Native|本土化]]”为[[Apprenticeship|学徒制]]方案；而在南欧和东欧边缘区，指标因缺乏政策承接能力沦为歧视受助青年的标签工具（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–173]]）。
+- **地方执行中的差异化转译（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证）** 对 16 个欧盟地区、168 位[[Lifelong Learning|终身学习]]政策专家的实证调研显示：制度基础深厚的德语区与北欧能动地将指标“本土化”为[[Apprenticeship|学徒制]]方案；而在南欧和东欧边缘区，指标因缺乏政策承接能力沦为歧视受助青年的标签工具（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–173]]）。
 - **跨国指标[[Disciplina and Doctrina|规训]]与自主公共动员的绩效反差（[[Education for All|全民教育]] EFA 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、[[Grade Retention|留级]]率、辍学率与识字率）的跨国评估中，绝大多数接受外部结构调整与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成[[UNESCO|教科文组织]]全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
 
 ---

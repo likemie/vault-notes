@@ -31,7 +31,6 @@ related_concepts:
   - "[[Floor and Ceiling Effects]]"
   - "[[Attrition]]"
   - "[[Incommensurability]]"
-  - "[[Going Native]]"
   - "[[Direct Instruction]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
@@ -92,7 +91,7 @@ updated: 2026-10-16
 > - **边界** 容易受到低利害测试中的作答动机衰退、[[Floor and Ceiling Effects\|天花板效应]]、[[Attrition\|样本流失]]以及学科间[[Incommensurability\|不可通约性]]的干扰。
 
 > [!citation-card] 高等教育增值评估与探究教学中的学习增益归因
-> 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment\|CLA+]] [[Going Native\|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
+> 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment\|CLA+]] 本土化版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 >
 > [[Direct Instruction\|直接教学]]倡导者声称探究教学中学生的学习增益完全来自程序中追加的直接解释，这是对实证文献的严重误读。[[Meta-analysis\|元分析]]表明，六类指导脚手架在促进学习增益上完全等价（平均提升 $d = 0.50$），直接讲授仅是六分之一，学习增益本质上源于结构化支架对认知负荷的适时调节。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 >

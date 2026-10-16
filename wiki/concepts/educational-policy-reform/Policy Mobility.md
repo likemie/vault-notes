@@ -238,7 +238,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1990s — 经典政策转移与经验汲取[[Paradigm\|范式]]** 政治学与公共政策学者（Rose, 1991；Dolowitz & Marsh, 1996）提出政策转移（Policy Transfer）概念，主要聚焦主权国家政府间自愿或强制的政策搬运，预设理性的决策主体与稳定的地理管辖权。
-> - **2000s — 比较教育[[Policy Borrowing\|政策借用]]与[[Going Native\|本土化]]转向** 比较教育学界（Phillips & Ochs, 2003；Steiner-Khamsi, 2004）提出政策借用（Policy Borrowing）四阶段模型与外生[[Van Leeuwen's Legitimation Theory\|合法化理论]]，强调政策借用往往受国内政治危机驱动，并重点关注政策抵达成后的本土折射（Refraction）与变形。
+> - **2000s — 比较教育[[Policy Borrowing\|政策借用]]与本土化转向** 比较教育学界（Phillips & Ochs, 2003；Steiner-Khamsi, 2004）提出政策借用（Policy Borrowing）四阶段模型与外生[[Van Leeuwen's Legitimation Theory\|合法化理论]]，强调政策借用往往受国内政治危机驱动，并重点关注政策抵达成后的本土折射（Refraction）与变形。
 > - **2010–2015 — 地理学空间转向与“快速政策”兴起** 批判地理学家（Peck & Theodore, 2010, 2015；McCann & Ward, 2012）正式确立“政策流动”（Policy Mobilities）框架，提出“突变”（mutation）与“快速政策”（fast policy）概念，指出政策是通过由智库、商业顾问构成的跨国[[Infrastructures of Immobility\|流动基础设施]]穿梭的去中心化装配体。
 > - **2016–2017 — 教育[[Network Ethnography\|政策网络民族志]]的系统融合** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者将政策流动框架全面引入教育政策研究，出版专著《Edu.net》（Ball et al., 2017），开创结合[[Network Ethnography\|网络民族志]]追踪资本、人、思想与技术跨国流动的新范式。
 > - **2021–2022 — 物质性转向与[[Venture Philanthropy\|风险慈善]]金融化综合** 埃玛·罗威（Emma Rowe）将[[Actor-Network Theory\|行动者网络理论]]的耐用材料与无生命客体概念融入教育政策流动研究，揭示跨国政策流动如何通过企业法注册与公私特许立法在国家内部固化为看似客观中立的证据经纪实体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–4]]
