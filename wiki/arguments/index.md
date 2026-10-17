@@ -419,7 +419,7 @@ Total entries: **356**
 
 > [!index-list]- Journal of Curriculum Studies (3)
 > - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和伯恩斯坦理论分析新西兰课程改革，发现理解-知道-做结构存在认识论混乱，规约性话语优先于教学性话语
-> - [[Argument_Terhart_2011_JCS]] — VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
+> - [[Argument_Terhart_2011_JCS]] — 特哈特对《可见的学习》展开长篇学术书评，从二阶元分析认识论局限、教学理论实质内容空洞化与福柯式可见性政治三个维度系统审查哈蒂体系，提出二阶聚合受制于稳定性与变异性假说的双重困境。
 > - [[Argument_Yan_2025_JCS]] — 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
 
 > [!index-list]- Journal of Economic Perspectives (1)

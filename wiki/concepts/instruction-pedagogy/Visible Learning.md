@@ -209,7 +209,7 @@ updated: 2026-10-17
 
 > [!feature] 可见的学习五大核心要素
 > - **相对有效性关节点（[[Zone of Desired Effects|Hinge Point]], $d=0.40$）** 基于 100 余项创新与 30 万项研究[[Meta-meta-analysis\|元综合]]确立的正态均值基准；超越“是否有效”的低阶提问，唯有增幅大于 $0.40$ 的干预才具有实质推广价值。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
-> - **学业成就方差分解（Variance Breakdown）** 将学业变异分解为学生个人（50%）、教师教学效能（30%）、家庭（5–10%）、学校（5–10%）与同伴（5–10%），确立教师为系统内部可控的核心杠杆。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 13)]]
+> - **学业成就方差分解（Variance Breakdown）** 将学业变异分解为学生个人（50%）、教师教学效能（30%）、家庭（5–10%）、学校（5–10%）与同伴（5–10%），确立教师为系统内部可控的核心枢纽。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 13)]]
 > - **教师思维框架（Teacher Mind Frames）** 以“认识自身影响（Know thy impact）”为核心，包含“我是变革推动者”、“评价是对我教学的反馈”等八项指引教师[[Professional Judgment\|专业判断]]的内隐信念图式。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
 > - **显性[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]（Learning Intentions & Success Criteria）** 在任务开始前向学生充分敞开清晰的认知挑战目标与评估达成准则，消除形式主义认知盲区。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
 > - **三维形成性反馈与 DIE 循环（Formative [[Feedback]] & DIE Cycle）** 围绕“目标通往何处”、“当前行进至何处”与“下一步走向何方”展开诊断（Diagnose）、干预（Intervene）与评估（Evaluate）的持续调适。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 15)]]
@@ -264,7 +264,7 @@ updated: 2026-10-17
 > 剖析[[Academic Achievement\|学业成就]]的多层次方差来源，揭示数据本位模式下将评价从“判定学生资质”彻底转向“反思教学策略”的认识论跨越。
 
 > [!claim] Hattie, J.
-> **学业成就方差分解与教师因果中心** 影响学业成就的六大方差源中，学生个体背景占 50%，但公立学校无法挑选社区生源；家庭、学校硬件与同伴各占 5–10%；而教师教学效能独占 30% 方差，构成了学校教育系统内部最大且唯一受政策直接调控的核心因果杠杆。将问责定位于教师，要求彻底调整评价数据的认识论功能：将其直接定位为检验教师自身教学是否奏效的反光镜，学生未能掌握知识构成了教师调整后续教学方案的即时诊断线索，超越了传统将测验作为判定学生资质标签的做法。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13, 17)]]
+> **学业成就方差分解与教师因果中心** 影响学业成就的六大方差源中，学生个体背景占 50%，但公立学校无法挑选社区生源；家庭、学校硬件与同伴各占 5–10%；而教师教学效能独占 30% 方差，构成了学校教育系统内部最大且唯一受政策直接调控的核心因果枢纽。将问责定位于教师，要求彻底调整评价数据的认识论功能：将其直接定位为检验教师自身教学是否奏效的反光镜，学生未能掌握知识构成了教师调整后续教学方案的即时诊断线索，超越了传统将测验作为判定学生资质标签的做法。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13, 17)]]
 
 > [!claim] Hattie, J.
 > **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度对话并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
@@ -333,6 +333,7 @@ updated: 2026-10-17
 > - **1987–1992 — [[Meta-meta-analysis\|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis\|元分析]]、22,155 个[[Effect Size\|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research\|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression\|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]随后发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
+> - **2011 — 欧陆教学论系统审视与双重困境提出** 德国学者特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（Bildung）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于稳定性假说与变异性假说的内在双重困境。
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2019 — 变差系数统计检验与本土制度陷阱警告** 俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）首次使用变差系数（$V_\sigma = 56.87\%$）对 Hattie 效应量模型进行数理同质性检验，实证证实其数据集极端不均且缺乏质控，并结合俄教师生存困境（79% 受困于报表、仅 16% 职业声望）警示西方[[Policy Borrowing|政策借用]]可能引发的去专业化危机与制度陷阱。
@@ -413,6 +414,7 @@ updated: 2026-10-17
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 97)]] | 《可见的学习》专著中家庭作业 5 项元分析与细分学段数据 | 二阶元分析细分亚组（[[Moderator Analysis]]）对比 | 总体家庭作业效应量 vs 学段、学科、能力细分效应量 | 总体报告 $d = 0.29$；小学仅 $d = 0.15$、高中达 $d = 0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学阶段效应量跌入发展效应区 | 实证揭示单一宏观平均效应量抹杀微观异质性，对不同学段教师指导产生实质性误导 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b, pp. 80–81, 86–88)]] | 丹麦 2014 年公立学校改革（Folkeskole Reform 2014）与 VL 综合方法体系（Table 1） | [[Critical Theory\|批判理论]]与跨国文献实证审查 | 复杂性还原、调节因素剔除、效应量原子化与[[Legitimation Crisis\|合法化危机]] | 证实 VL 将教学切片为可分级干预并许诺产出稳定性，被丹麦政府直接用作压制教师抗议并向公众证明教育有效运作的行政合法化护盾 | 质性与政策批判；指出其将师生原子化为变量并剥夺[[Intentionality\|意向性]] | 实证揭示 VL 的全球狂热源于[[Technical Rationality\|技术理性]]满足了晚期现代学校应对合法化危机的迫切需要，而非其数据真理性 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 52–56)]] | 《可见的学习》核心干预“反馈”（$d=0.73$）所依赖的 5 项最大一阶元分析（覆盖 92.4% 样本量与 83.8% 效应量） | 文献学逐项细读与概念对齐审计 | [[Construct\|构念]]一致性、效应量方向、[[Publication Bias\|发表偏倚]]与混淆变量 | 4 项元分析（Bangert-Drowns、Lysakowski、Tenbrink、Rummel）偏离形成性认知反馈（混入代币糖果强化、教师人际亲和力及动态后测训练）；掩盖 Kluger and DeNisi (1996) 证实的 38% 负面效应；大量依赖 1970 年代未发表博士论文 | 质性质询与文献计量复核 | 实证确证排名前列的标杆教学法存在严重的构念错位与异质拼贴，所谓宏观高效应量无法转化为具体课堂操作指引 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为激活者 vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统直接教学的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
 
 ---
 

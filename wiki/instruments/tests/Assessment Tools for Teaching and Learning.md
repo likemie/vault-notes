@@ -165,6 +165,7 @@ updated: 2026-10-17
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | asTTle v2/v3 标准版与毛利双语版 | 新西兰 25,000 余名中小学生数学与阅读常模数据 | 基于全国大样本标定 [[Item Response Theory\|IRT]] 参数与 [[SOLO Taxonomy\|SOLO]] 分类学进阶台阶 | 论证目标设定、差距分析与时间序列增值评估如何打破惩罚性问责，赋权教师开展形成性教学 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | asTTle 系统技术架构与管理模块 | 政策技术文档分析与视觉谱系考证（Hattie et al., 2003） | 软件网络化监控架构与[[Barometer of Achievement\|气压计图表]]界面分析 | 揭示系统内置的全网管理监控功能与新泰勒制逻辑，考证其气压计图表向《[[Visible Learning\|可见的学习]]》的视觉迁移 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | e-asTTle 国家级在线测评系统 | 教育部商业化招标（RFP）文件与外包服务合同分析 | 国家公共教育数据资产的商业化招商与服务外包 | 揭露教育部拟将纳税人资助研发的 e-asTTle 转让给私营投资伙伴向学校收费谋利的[[Exogenous Privatisation\|外生私有化]]路径 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | asTTle 测评系统与培训项目 | 政策批判分析与利益网络审视 | 外部测评工具作为行政监控与商业培训载体 | 揭示 asTTle 作为新西兰政府标准化治理工具与有偿培训项目的利益关联 |
 
 ---
 
@@ -206,6 +207,7 @@ updated: 2026-10-17
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合新西兰 25,000 名学生数学题库数据，论证如何利用 asTTle 的目标设定与诊断报告打破传统基于测试的惩罚性问责，重塑以教师为核心的循证形成性教学体系（pp. 11–21）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其[[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统调查新西兰教育部拟通过招标（RFP）将纳税人资助的 e-asTTle 系统转让给私营投资伙伴向学校收费的[[Exogenous Privatisation|外生私有化]]事实。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 审视 asTTle 作为新西兰政府标准化改革行政工具与有偿培训项目的政策争议及利益网络（pp. 434–435）。
 
 ---
 
