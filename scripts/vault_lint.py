@@ -2978,7 +2978,7 @@ WRITING_EXCEPTIONS_PATH = ROOT / "scripts" / "writing_exceptions.json"
 
 
 @lru_cache(maxsize=1)
-def load_writing_exceptions() -> Dict[str, Any]:
+def load_writing_exceptions() -> Dict[str, List[str]]:
     """Read approved expression exceptions; never store them in note YAML."""
     if not WRITING_EXCEPTIONS_PATH.exists():
         return {}
@@ -2993,13 +2993,13 @@ def load_writing_exceptions() -> Dict[str, Any]:
 
     data = json.loads(WRITING_EXCEPTIONS_PATH.read_text(encoding="utf-8"), object_pairs_hook=unique_pairs)
     if not isinstance(data, dict):
-        raise ValueError("审查注册表必须是条目相对路径到审查 ID 映射的 JSON 对象。")
+        raise ValueError("例外表必须是条目相对路径到审查 ID 列表的 JSON 对象。")
     for name, reviews in data.items():
         path = Path(name)
         if (not name.startswith("wiki/") or "\\" in name or path.is_absolute()
                 or ".." in path.parts or path.suffix != ".md"
-                or path.as_posix() != name or name != unicodedata.normalize("NFC", name) or not isinstance(reviews, dict)):
-            raise ValueError(f"无效审查条目路径或记录映射：{name!r}")
+                or path.as_posix() != name or name != unicodedata.normalize("NFC", name) or not isinstance(reviews, list)):
+            raise ValueError(f"无效审查条目路径或 ID 列表：{name!r}")
     return data
 
 
@@ -3062,7 +3062,7 @@ def writing_review_id(code: str, location: str, original_line: str) -> str:
 
 
 def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]], issues: List[Issue]) -> None:
-    """Require edits or a documented, context-bound review of each new match."""
+    """Require edits or a context-bound approved exception for each new match."""
     if not is_wiki_entry_path(path) or not data or data.get("type") not in VALID_TYPES - {"source"}:
         return
     fm, body, first_line = split_frontmatter(text)
@@ -3070,25 +3070,21 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
     if "writing_reviews" in data or "writing_exceptions" in data:
         issues.append(Issue("ERROR", rel(path), "写作审查记录不得写入条目 YAML；请移至 scripts/writing_exceptions.json。", code="ACADEMIC_REVIEW_INVALID"))
     try:
-        reviews = load_writing_exceptions().get(unicodedata.normalize("NFC", rel(path)), {})
+        reviews = load_writing_exceptions().get(unicodedata.normalize("NFC", rel(path)), [])
     except (OSError, ValueError):
-        reviews = {}  # The vault-level registry check reports malformed JSON.
-    valid_reviews = {}
-    for review_id, review in reviews.items():
+        reviews = []  # The vault-level registry check reports malformed JSON.
+    valid_reviews = set()
+    for review_id in reviews:
         valid = isinstance(review_id, str) and bool(re.fullmatch(r"[0-9a-f]{16}", review_id))
-        valid = valid and isinstance(review, dict) and set(review) == {"reason", "evidence"}
-        if valid:
-            reason, evidence = review["reason"], review["evidence"]
-            valid = isinstance(reason, str) and len(reason.strip()) >= 24
-            valid = valid and isinstance(evidence, str) and len(evidence.strip()) >= 12
+        valid = valid and review_id not in valid_reviews
         if not valid:
             issues.append(Issue(
                 "ERROR", rel(path),
-                f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 无效：ID 必须为 16 位小写十六进制；reason 至少 24 字符，具体说明概念或对立及保留必要性；evidence 至少 12 字符，给出实际来源或原句语境。禁止空泛理由。",
+                f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 无效：必须是未重复的 16 位小写十六进制审查 ID。",
                 line=review_line, code="ACADEMIC_REVIEW_INVALID",
             ))
         else:
-            valid_reviews[review_id] = review
+            valid_reviews.add(review_id)
 
     segments = [(body, first_line, "正文")]
     if fm is not None and isinstance(data.get("summary"), str):
@@ -3110,21 +3106,20 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
                     continue
                 review_id = writing_review_id(code, location, original_lines[index])
                 active_ids.add(review_id)
-                review = valid_reviews.get(review_id)
-                if review:
+                if review_id in valid_reviews:
                     # This exact expression was already justified. Reuse the
                     # exception silently; do not ask the AI to review it again.
                     continue
                 else:
                     issues.append(Issue(
                         "WARN", rel(path),
-                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}）：{reminder} 语境：{context} 必须修改表达，或在 scripts/writing_exceptions.json 的本条目路径下记录具体 reason 与 evidence；未处理会阻断检查。",
+                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}）：{reminder} 语境：{context} 必须修改表达，或在 scripts/writing_exceptions.json 的本条目路径下添加经审查批准的 ID；未处理会阻断检查。",
                         line=offset + index, code=code,
                     ))
-    for review_id in valid_reviews.keys() - active_ids:
+    for review_id in valid_reviews - active_ids:
         issues.append(Issue(
             "ERROR", rel(path),
-            f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 已失效：原句已变化或命中已消失。删除旧记录；如需保留新表述，按新的审查 ID 重新说明理由与依据。",
+            f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 已失效：原句已变化或命中已消失。删除旧记录；如需保留新表述，重新审查并添加新的 ID。",
             line=review_line, code="ACADEMIC_REVIEW_STALE",
         ))
 
@@ -3724,7 +3719,7 @@ def main() -> int:
         print()
         print(f"Summary: {len(errors)} error(s), {len(warns)} warning(s), {len(infos)} info item(s).")
         if pending_writing:
-            print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_exceptions.json 逐项记录理由与依据后再运行 lint。")
+            print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_exceptions.json 添加经审查批准的 ID 后再运行 lint。")
         if HIDDEN_PREEXISTING_WARNINGS:
             print(f"(Unresolved writing reviews are always listed; {HIDDEN_PREEXISTING_WARNINGS} other baseline warning/info item(s) hidden. Use --all-warnings to show them.)")
 

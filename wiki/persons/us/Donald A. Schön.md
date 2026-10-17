@@ -26,26 +26,26 @@ tags:
   - region/us
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Technical Rationality]]"
-  - "[[Positivism]]"
-  - "[[Professional Judgment]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Problem Finding]]"
+  - "[[Technical Rationality]]"
+  - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Legitimation Crisis]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[John Dewey]]"
-  - "[[Herbert A. Simon|Herbert Simon]]"
   - "[[Klaus Nielsen]]"
+  - "[[John Dewey]]"
+  - "[[Herbert A. Simon]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: completed
 created: '2026-05-03'
@@ -93,7 +93,7 @@ updated: 2026-10-17
 >   - **关键概念／方法** 概念置换、动态保守主义、提倡理论 vs. 使用理论、单环/双环学习。
 >   - **阶段转向** 突破经典实用主义的纯哲学思辨，通过对专业组织管理与设计现场的扎根观察，揭示实践者行动背后未经反思的防卫性惯常程式。
 > - **1980s — 专业实践认识论与技术理性批判的高峰阶段** 正式建立反思性实践理论体系。
->   - **代表著作** 《反思性实践者》（*The Reflective Practitioner*, 1983）、《培养反思性实践者》（*Educating the Reflective Practitioner*, 1987）。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]
+>   - **代表著作** 《反思性实践者》（*The Reflective Practitioner*, 1983）、《培养反思性实践者》（*Educating the Reflective Practitioner*, 1987）。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 >   - **关键概念／方法** [[Technical Rationality|技术理性]]（Technical Rationality）、反思性实践（Reflective Practice）、高地与沼泽地隐喻、实践中反思（Reflection-in-Action）、对实践的反思（Reflection-on-Action）、问题设定（Problem Setting）。
 >   - **阶段转向** 全面反思现代大学专业教育被实证主义科学垄断的困境，论证工程设计与医学诊疗模型不能机械移植于教育与社会领域，确立行动中反思的独立学术合法性。
 > - **1990s — 话语框架与公共争辩反思阶段** 致力于公共冲突与政策僵局的话语反思研究。
@@ -106,7 +106,7 @@ updated: 2026-10-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 专业实践的核心并非查阅既定科学定律以求解良构工程问题的手段-目的计算，而是面对混乱、独特与价值冲突的沼泽地情境时重构问题与持续探究的行动中反思；将专业人员降格为执行外部科学处方的技术员不仅会导致实践失效，更会消解专业判断的自主生命力。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]
+> 专业实践的本质在于面对混乱、独特与价值冲突的沼泽地情境时重构问题与持续探究的行动中反思，超越查阅既定科学定律以求解良构工程问题的手段-目的计算；将专业人员降格为执行外部科学处方的技术员不仅会导致实践失效，更会消解专业判断的自主生命力。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 
 > [!info] 反思性实践的双层结构与专业判断
 > 舍恩将专业人员在动态现场中的反思区分为两个核心层次：
@@ -115,9 +115,9 @@ updated: 2026-10-17
 
 > [!critique] 对技术理性的系统解构及其教育异化诊断
 > 舍恩（1983）对实证主义专业认识论展开了极具穿透力的批判：
-> - **工程与医学模型的盲目移植** 技术理性将工程师分析材料与医生诊治疾病的手段-目的模式视为一切专业实践的通则；现代教育系统盲目仿效这一范式，企图将复杂的课堂教学简化为“输入自变量 ➔ 产生既定结果”的因果干预。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]
+> - **工程与医学模型的盲目移植** 技术理性将工程师分析材料与医生诊治疾病的手段-目的模式视为一切专业实践的通则（Schön, 1983, p. 31）；现代教育系统盲目仿效这一范式，企图将复杂的课堂教学简化为“输入自变量 ➔ 产生既定结果”的因果干预，将复杂的教育活动剥离出特定的历史、文化与制度背景，视为能够完全通过基础科学与工程手段予以排除的技术故障。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 > - **高地与沼泽地的认识论错配** 坚固的高地上存在清晰良构的学术问题，但人类专业实践的大多数关键议题均处于充满混乱、价值对立与不确定性的“沼泽低地”（Swampy Lowland）。技术理性将手段-目的假定为既定且不容置疑，无法处理“问题界定”（Problem Setting）本身。
-> - **教师与学生的原子化异化** 批评者如 Nielsen & Klitmøller（2021）借助舍恩的技术理性批判，指出类似约翰·哈蒂《可见的学习》等循证合成体系之所以流行，正是因为其向行政官僚提供了可预测产出的技术理性承诺；但其根本代价是将鲜活的师生原子化为互不相干的自变量与因变量零件，彻底剥夺了教育的情境性与生命意义。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 87–89)]]
+> - **教师与学生的原子化异化** 批评者如 Nielsen & Klitmøller（2021a, 2021b）借助舍恩的技术理性批判，指出类似约翰·哈蒂《可见的学习》等循证合成体系之所以流行，正是因为其向行政官僚提供了可预测产出的技术理性承诺；但其根本代价是将鲜活的师生原子化为互不相干的自变量与因变量零件，将能动的学习者降格为被动的技术纠错工具，剥夺了主体间承认与教育的情境性生命意义。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 87–89)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
 
 ---
 
@@ -129,11 +129,12 @@ updated: 2026-10-17
 > - **专业判断与双环决策整合（循证教育批判路径）**
 >   安妮·克沃尔特鲁普（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）将舍恩的反思性实践与西蒙的[[Bounded Rationality|有限理性]]结合，指出教师面临海量且不可化约的情境不确定性，必须依靠反思性实践构筑真正的[[Professional Judgment|专业判断]]防线，抵御机械循证问责的去专业化侵蚀。
 > - **教育行政合法化与循证神话解构（政策社会学路径）**
->   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）结合舍恩的技术理性批判与哈贝马斯的[[Legitimation Crisis|合法化危机]]理论，揭示教育行政官僚系统为何狂热推崇《[[Visible Learning|可见的学习]]》：其本质是以工程设计式的技术理性手段-目的因果承诺，为政府转移教育治理危机与平息社会抗争构建合法化掩体。
+>   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将舍恩的技术理性批判延伸至当代循证教育合成体系；一方面结合哈贝马斯[[Legitimation Crisis|合法化危机]]理论，揭示教育行政官僚系统采纳《[[Visible Learning|可见的学习]]》手段-目的因果承诺以平息治理危机的机制；另一方面细读其底层元分析数据，揭示其工程化自变量还原在微观教学中诱发了构念混淆、阶级盲偏误与新泰勒主义劳动规训。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将舍恩的反思性实践模型与西蒙有限理性理论整合，构建教师专业判断的理论分析框架（p. 6）。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩的技术理性批判剖析哈蒂《可见的学习》，揭示其将工程医学因果模型硬套于教学并为国家教育合法化危机提供防御掩体的机制（pp. 81–82, 87–89）。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩技术理性对工程与医学模型移植的批判，细读哈蒂反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、构念混淆与新泰勒主义规训本质（pp. 3–15）。
 
 ---
 
@@ -161,3 +162,4 @@ updated: 2026-10-17
 > | [[Bounded Rationality]] | 理论 | 其反思实践理论常与有限理性并置以重构复杂情境下的专业决策框架。 |
 > | [[Legitimation Crisis]] | 理论 | 其技术理性批判常与哈贝马斯危机理论结合，用于剖析国家循证政策采纳逻辑。 |
 > | [[Visible Learning]] | 概念 | 其模式被教育批判学者作为舍恩技术理性在当代教学控制中的代表范例剖析。 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 运用舍恩技术理性批判，解构《可见的学习》将教学比附为工程与医学模型的认识论局限。 |

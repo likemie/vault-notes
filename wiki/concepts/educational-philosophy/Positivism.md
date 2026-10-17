@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 122
+related_count: 127
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Technical Rationality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Production]]"
   - "[[Comparative Educations]]"
@@ -115,6 +116,7 @@ related_persons:
   - "[[Philip Foster]]"
   - "[[George Psacharopoulos]]"
   - "[[Jürgen Habermas]]"
+  - "[[Klaus Nielsen]]"
   - "[[Martin Carnoy]]"
   - "[[Val D. Rust]]"
   - "[[Marianne Larsen]]"
@@ -141,13 +143,15 @@ related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
-  - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: completed
 created: 2026-06-13
@@ -165,7 +169,7 @@ updated: 2026-10-17
 > [!def] 核心定义
 > 实证主义（Positivism）是一种主张人类所有真正的知识都必须基于感官经验、系统观察与受控实验的哲学[[Epistemic Stances\|认识论立场]]。它坚决扬弃神学玄想与形而上学的第一因思辨，将自然科学的探究规范确立为人类知识的典范（Duncan, 1968）。实证主义不仅预设外部物理世界具有独立于观察者的客观规律，更坚信人类社会现象同样服从不可逆的[[Determinism\|因果决定论]]法则，因而可以通过客观测量与归纳推演建立普遍的实证定律。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
 
-在教育探究与社会[[Scientific Method|科学方法]]论中，实证主义构成了连接微观测量与宏观政策设计的认知底座。
+在教育探究与社会[[Scientific Method|科学方法]]论中，实证主义构成了连接微观测量与宏观政策设计的认知基础。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种[[Objectivism\|客观主义]]、[[Empiricism\|经验主义]]与自然主义相统一的世界观，预设社会事实可以如同物理客体一样被客观测定与[[Causal Modeling\|因果建模]]。
@@ -182,7 +186,7 @@ updated: 2026-10-17
 值得注意的是，在 19 世纪初启蒙现代性发轫之初，早期先驱构想的实证科学与 20 世纪的技术化实证主义存在根本差异。
 
 > [!citation-card] 启蒙现代性发轫期的准实证科学构想
-> 与其同时代的法国实证主义哲学家社会学家[[Auguste Comte\|奥古斯特·孔德]]相似，朱利安坚信科学方法可以应用于人类与社会事务。作为一门实证科学，比较教育学应聚焦于客观可测定且系统收集的事实与观察。朱利安构建分析图表以推进事实分类，但这一早期准实证构想并非现代[[Value Neutrality\|价值无涉]]的技术论，而是归属于欧陆二级[[Geisteswissenschaften|精神科学]]，全面服从于全人教化与社会改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> 与其同时代的法国实证主义哲学家社会学家[[Auguste Comte\|奥古斯特·孔德]]相似，朱利安坚信科学方法可以应用于人类与社会事务。作为一门实证科学，比较教育学应聚焦于客观可测定且系统收集的事实与观察。朱利安构建分析图表以推进事实分类，但这一早期准实证构想归属于欧陆二级[[Geisteswissenschaften|精神科学]]，有别于现代[[Value Neutrality\|价值无涉]]的技术论，全面服从于全人教化与社会改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 >
 > *Like his contemporary French scientific positivist philosopher-sociologist Auguste Comte (1798–1857), Jullien believed that the scientific method could be applied to human and social affairs. As a positive science, therefore, comparative education should focus on objectively determinable and systematically collected facts and observations.*
 
@@ -228,16 +232,16 @@ updated: 2026-10-17
 > - **科学四大基本预设（Four Scientific Assumptions）** 实证研究的日常运作立足于[[Determinism\|决定论]]（因果必然性）、[[Empiricism\|经验主义]]（[[Reliability\|可靠性]]依凭经验证据）、[[Principle of Parsimony\|简约原则]]（奥卡姆剃刀与最精简解释）以及普遍性（从局部样本外推至总体）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 112–113)]]
 > - **科学探究的五阶段与假说演绎程序（Five Stages of Scientific Enquiry）** 实证[[Scientific Method\|经验科学]]遵循由莫利（Mouly, 1978）与克林格（Kerlinger, 1970）所界定的经典探究规程：由日常经验障碍激发的怀疑萌芽 $\rightarrow$ 明确界定问题与[[Variable\|变量]]边界 $\rightarrow$ 提出可[[Falsification\|证伪]]的因果假说 $\rightarrow$ 严密演绎推导假说的经验蕴涵 $\rightarrow$ 通过受控实验或[[Systematic Sampling\|系统抽样]]开展假设检验与理论修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 114)]]
 > - **假说演义与可[[Operationalization\|操作化]]测量（Operationalization & [[Hypothesis]]-testing）** 概念必须被转化为具体的测量指标与可量化[[Variable\|变量]]，假说必须包含潜在反驳的具体经验条件（Popper, 1968; Kerlinger, 1970）。
-> - **古典道德统摄与社会改良取向（Melioristic Subordination）** 在 19 世纪现代主义发轫期，以朱利安为代表的准实证主义坚守伦理优先性，经验事实分类系统服从于医治大革命后社会道德溃败、推进全人教化与促进世界和平的崇高使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> - **古典道德引领与社会改良取向（Melioristic Subordination）** 在 19 世纪现代主义发轫期，以朱利安为代表的准实证主义坚守伦理优先性，经验事实分类系统服从于医治大革命后社会道德溃败、推进全人教化与促进世界和平的崇高使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 > - **跨国量化验证与未来预测导向（Cross-national Quantification & Predictive Power）** 20 世纪中叶实证主义科学运动强调：比较研究必须超越历史回溯解释，以跨国可量化指标的操作化检验为手段，追求对未来改革后果的预测控制能力（predictive power），确立“科学比较教育”对“历史经验描述”的[[Paradigm\|范式]]替代。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53–54)]]
 > - **战后国家规划理性与政治合法化共谋（Political Alibi for State Planning）** 20 世纪下半叶实证量化模式之所以全面压倒历史比较与哲学审辨，其核心动力在于它与战后现代民族国家推行中央五年计划、证明追加教育预算合理性（如[[Human Capital Theory\|人力资本理论]]计算）以及技术援助合法化达成了深层政治共谋；实证主义的“科学客观光环”被官僚体制借用为推行既定政策的合法性借口（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–68)]]; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 
-实证主义通过概念界定、操作化变量设计与经验检验，构筑了自洽的因果闭环。
+实证主义通过概念界定、操作化变量设计与经验检验，构筑了自洽的因果推论回路。
 
-> [!logic-map]- 实证主义认知闭环与范式张力
+> [!logic-map]- 实证主义认知逻辑与范式张力
 > ```mermaid
 > flowchart TD
->     subgraph 实证主义核心闭环 [经验法则建构体系]
+>     subgraph 实证主义核心逻辑 [经验法则建构体系]
 >         A["客观实在与自然决定论<br>(Objective Reality & Determinism)"] --> B["感官观察与事实收集<br>(Empirical Observation)"]
 >         B --> C["概念界定与操作化测量<br>(Variables & Operationalization)"]
 >         C --> D["提出假说与因果模型<br>(Hypothesis & Causal Modeling)"]
@@ -248,7 +252,7 @@ updated: 2026-10-17
 >     subgraph 外部反思与挑战 [反实证主义批判]
 >         G["诠释学与存在主义<br>(人类能动性与自我赋义)"] -.->|断裂| B
 >         H["法兰克福学派批判理论<br>(科学主义与工具理性殖民)"] -.->|批判| F
->         I["19世纪古典启蒙现代性<br>(经验分类服从全人道德教化)"] -.->|伦理统摄| D
+>         I["19世纪古典启蒙现代性<br>(经验分类服从全人道德教化)"] -.->|伦理引领| D
 >     end
 > ```
 
@@ -274,14 +278,14 @@ updated: 2026-10-17
 
 ### 命题二　19 世纪现代主义发轫期的准实证科学将经验事实分类从属于全人道德教化与社会改良
 
-> [!concept-lens] 启蒙现代性准实证科学与伦理统摄
-> 该维度澄清历史思想源流，阐明 19 世纪初现代主义时期的实证构想并非[[Value Neutrality\|价值中立]]的技术操作，而是全面服从于崇高的人道伦理与社会改良。
+> [!concept-lens] 启蒙现代性准实证科学的人文伦理引领
+> 该维度澄清历史思想源流，阐明 19 世纪初现代主义时期的实证构想以崇高的人道伦理与社会改良为归宿，超越了单纯[[Value Neutrality\|价值中立]]的技术操作。
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **准实证科学归属二级[[Geisteswissenschaften|精神科学]]并服从全人教化** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]倡导的比较教育“准实证科学”，借用居维叶比较解剖学类比与机械工艺方法收集事实并编制跨国分析图表，其目的绝非 20 世纪逻辑实证论所标榜的去价值、去情境化的技术测量；朱利安将教育学归入欧陆“二级精神科学”，其经验分类始终服从于诊断法国大革命后社会道德危机、推进全人身心协调发展（[[Bildung]]）并实现欧洲[[Perpetual Peace\|永久和平]]的启蒙改良使命（[[Educational Meliorism]]）。20 世纪行为主义实证派指责其[[Questionnaire\|问卷]]带有主观偏见，本质上犯了时代错置的辉格史错误。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–18)]]
+> **准实证科学归属二级[[Geisteswissenschaften|精神科学]]并服从全人教化** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]倡导的比较教育“准实证科学”，借用居维叶比较解剖学类比与机械工艺方法收集事实并编制跨国分析图表，其目的以诊断法国大革命后社会道德危机、推进全人身心协调发展（[[Bildung]]）并实现欧洲[[Perpetual Peace\|永久和平]]的启蒙改良使命（[[Educational Meliorism]]）为归宿，与 20 世纪逻辑实证论标榜的去价值、去情境化技术测量形成鲜明对照；朱利安将教育学归入欧陆“二级精神科学”。20 世纪行为主义实证派指责其[[Questionnaire\|问卷]]带有主观偏见，本质上犯了时代错置的辉格史错误。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–18)]]
 
 > [!claim] Palmer, R. R.
-> **启蒙科学范畴的广义精神活动定位** 启蒙现代性时期的“科学”（Science）范畴具有深刻的历史情境性，绝非后世狭隘的实证命题检验集，而是指代人类心灵的一切理性精神活动（*toute activité de l'[[ESPRIT]]*），涵盖道德哲学、政治经济与人文艺术，事实的经验收集天然从属于理智启蒙与人道重建。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
+> **启蒙科学范畴的广义精神活动定位** 启蒙现代性时期的“科学”（Science）范畴具有深刻的历史情境性，指代人类心灵的一切理性精神活动（*toute activité de l'[[ESPRIT]]*），涵盖道德哲学、政治经济与人文艺术，事实的经验收集天然从属于理智启蒙与人道重建，超越了后世狭隘的实证命题检验集。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 
 ### 命题三　20 世纪中叶实证主义在比较教育中演进为追求预测法则与假设检验的量化范式，斥责历史传统为前科学
 
@@ -323,7 +327,7 @@ updated: 2026-10-17
 > **新实证主义在[[Evidence-Based Education\|循证教育]]中的回潮与教学交往[[Ontology\|本体论]]抽空** 当代[[Evidence-Based Education\|循证教育]]（如[[Visible Learning\|可见的学习]]）狂热推崇新实证主义范式，试图通过[[Meta-analysis\|元分析]][[Effect Size\|效应量]]、标准化实验与机械因果归因直接接管教育决策；这种技术统治思维将教师降格为执行标准处方的技术官僚，在本体论上彻底抽空了课堂作为[[Student-Teacher Relationship\|师生关系]]性互动与文化创生的生成性本质。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 320–327)]]
 
 > [!claim] [[Klaus Nielsen\|Nielsen, K.]] & Klitmøller, J.
-> **非理论化统计修辞与技术理性实证还原** 尼尔森与克利特默勒指出，当代以《[[Visible Learning\|可见的学习]]》为代表的循证巨制是 19 世纪实证主义在当代的典型表现。哈蒂自称纯粹统计测量专家，声明不持理论立场（Knudsen, 2017），企图以此宣称经验数字具有未经理论中介的客观性；然而正如舍恩（Schön, 1983, p. 31）所揭示的，[[Technical Rationality\|技术理性]]构成了实证主义的直接遗产。这种实证主义进路将教学比附为工程材料分析与医学病理诊断，在抽离社会历史文化脉络的同时，隐蔽地将行为主义刺激—反应—纠错逻辑固化为通用规程，削弱了学习者的意向性与主体间交往，导致了经验层面的构念混淆与阶级盲偏误。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 3–5, 13–15)]]
+> **非理论化统计修辞与技术理性实证还原** 尼尔森与克利特默勒指出，当代以《[[Visible Learning\|可见的学习]]》为代表的循证巨制是 19 世纪实证主义在当代的典型表现。哈蒂自称纯粹统计测量专家，声明不持理论立场（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），企图以此宣称经验数字具有未经理论中介的客观性；然而正如舍恩（Schön, 1983, p. 31）所揭示的，[[Technical Rationality\|技术理性]]构成了实证主义的直接遗产。这种实证主义进路将教学比附为工程材料分析与医学病理诊断，在抽离社会历史文化脉络的同时，隐蔽地将行为主义刺激—反应—纠错逻辑固化为通用规程，削弱了学习者的意向性与主体间交往，导致了经验层面的构念混淆与阶级盲偏误。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 3–5, 13–15)]]
 
 ---
 
@@ -346,7 +350,7 @@ updated: 2026-10-17
 ### 命题六　唯方法论实证主义对历史维度的系统放逐诱发了严重的学科“历史健忘症”
 
 > [!concept-lens] 历史维度流失与学科失忆诊断
-> 该维度关注实证唯方法论主义垄断如何导致历史学方法被急剧边缘化，使学科失去审视制度起源与文化沉淀的批判反思力。
+> 该维度关注实证唯方法论主义垄断如何导致历史学方法被急剧边缘化，使学科失去审视制度起源与文化积淀的批判反思力。
 
 > [!claim] Kazamias, A. M.
 > **历史论文暴跌与实证霸权下的[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）结合[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队与[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen）的文献计量数据指出，实证唯方法论主义对跨国变量与短期经验数据的偏执，导致英美旗舰期刊（CER、CE、IJED）中历史比较研究的论文份额从战前的绝对主导急剧暴跌至不足 5%；学科深陷“历史健忘症”（Historical Amnesia），切断了与历史意识、文化传统与哲学反思的联系，使比较研究退化为无根的技术应用。卡扎米亚斯力倡复兴历史假说检验，重申历史学与社会科学的辩证统一。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
@@ -359,7 +363,7 @@ updated: 2026-10-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **经典实证统一法则** | 自然与社会探究方法论统一与产出同构，追求跨情境客观普遍规律 | 实证哲学发轫、社会物理学与量化测量规范确立 | Comte; Giddens; Oldroyd |
-> | **启蒙准实证伦理统摄** | 经验事实分类归属于欧陆二级精神科学，全面服务于全人教化与社会改良 | 19 世纪初现代主义比较教育奠基期 | Jullien; Kaloyannaki & Kazamias; Palmer |
+> | **启蒙准实证伦理导向** | 经验事实分类归属于欧陆二级精神科学，全面服务于全人教化与社会改良 | 19 世纪初现代主义比较教育奠基期 | Jullien; Kaloyannaki & Kazamias; Palmer |
 > | **学科科学化范式围剿** | 以前科学和主观神秘为由贬斥历史学派，确立可[[Operationalization\|操作化]]假设检验与未来预测力标尺 | 20 世纪 60 年代比较教育学科范式转型与实证主义鼎盛期 | Noah & Eckstein; Holmes; Epstein; Anderson & Foster; Mattheou; Kazamias |
 > | **技术异化与主体遮蔽** | 揭示去情境客观性与价值中立导致科学主义异化、工具理性极权并抽空教育交往本体 | 批判理论、存在主义哲学与当代[[Critique of Evidence-Based Education\|循证教育批判]] | Habermas; Horkheimer; Kierkegaard; Skourdoumbis & Rowe; Nielsen & Klitmøller |
 > | **政治规划合法化借口** | 实证量化垄断根源于充当国家五年计划与技术官僚的政治借口（alibi），并在危机后向多元范式演进 | 战后教育扩张、跨国政策规划与全球治理制度化分析 | Mattheou; Husén; Cowen; Carnoy; Kazamias |
@@ -373,16 +377,16 @@ updated: 2026-10-17
 
 > [!timeline] 思想演进脉络
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon\|弗朗西斯·培根]]提出唯有经验观察与渐进归纳才能排除心智偏见，为后世实证主义奠定了反经院形而上学的方法论胚胎。
-> - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良统摄** 朱利安与孔德坚信[[Scientific Method\|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire\|问卷]]，其实证操作始终归属于欧陆二级[[Geisteswissenschaften|精神科学]]并服从于全人教化与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009)]]
+> - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良引领** 朱利安与孔德坚信[[Scientific Method\|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire\|问卷]]，其实证操作始终归属于欧陆二级[[Geisteswissenschaften|精神科学]]并服从于全人教化与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009)]]
 > - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology\|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一假设。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
-> - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实向批判理性主义跃迁。
+> - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实走向批判理性主义。
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm\|科学范式]]确立与[[Empiricism|唯方法论主义]]盛行** 战后自然科学工程突破与行为主义革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，但被图尔敏（Toulmin, 1963）与巴伯（Barber, 1972）批评为迷信单一全能科学方法的“唯方法论主义”（Methodologism）；霍姆斯（[[Brian Holmes]]）则明确将[[Problem Approach|问题法]]界定为拒斥古典实证论的“后相对论社会科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53–56)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–151)]]
 > - **1960s–1980s — 德国社会学“实证主义之争”（[[Positivist Dispute in German Sociology|Positivismusstreit]]）与欧陆反思** 在英美实证量化范式盛行之际，欧陆爆发了以波普尔（批判理性主义）与[[Jürgen Habermas|哈贝马斯]]/阿多诺（[[Critical Theory|批判理论]]）为焦点的德国社会学“实证主义之争”（*Positivismusstreit*）；米特尔指出，该争论连同新马克思主义理论深刻重塑了欧洲比较教育学，解构了实证范式所谓[[Value Neutrality|价值中立]]的假象，迫使学界直面阶级权力与社会再生产机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 > - **20 世纪 70–80 年代 — 批判政治经济学解构与实证主义意识形态借口暴露** 经济滞胀与第三世界发展危机戳破了实证预测神话；[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）等激进学者揭露实证功能主义与[[Human Capital Theory|人力资本理论]]本质上充当了资本主义再生产与阶级妥协的“意识形态借口”（ideological alibi），学科走向复数的“[[Comparative Educations\|多个比较教育学]]”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 153–154)]]
 > - **1990 年代 — 历史维度流失与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
-> - **2021 年 — 证据合成中的无意识实证主义理论与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的批判理论，深刻解构当代[[Evidence-Based Education|循证教育]]巨制《[[Visible Learning|可见的学习]]》背后的实证主义内核；揭示哈蒂虽标榜纯粹中立的数据测量，其实质却受制于一套未明说的“无意识实证主义理论”（Unconscious Theory），将教学切片为去情境的自变量与因变量零件；指出行政官僚采纳这一实证模式，本质上是将其作为国家教育改革遭遇政治合法化危机时的工具掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 79–83, 86–89)]]
+> - **2021 年 — 证据合成中的无意识实证主义理论与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的批判理论，深刻解构当代[[Evidence-Based Education|循证教育]]巨制《[[Visible Learning|可见的学习]]》背后的实证主义实质；揭示哈蒂虽标榜纯粹中立的数据测量，其实质却受制于一套未明说的“无意识实证主义理论”（Unconscious Theory），将教学切片为去情境的自变量与因变量零件；指出行政官僚采纳这一实证模式，本质上是将其作为国家教育改革遭遇政治合法化危机时的工具掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 79–83, 86–89)]]
 > - **2021 年 — 统计中立修辞与技术理性实证还原的理论解构** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 结合舍恩对技术理性作为实证主义遗产的论断，揭示哈蒂宣称“纯粹测量与统计、不持理论立场”的实证主义修辞，实质上将教学切片为去情境的自变量并掩盖了深层行为主义预设；证实缺乏显性理论审视的实证数据汇总必然陷入构念混淆、清洗阶级变量以及抹杀发展阶段差异等系统性缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–9, 13–15)]]
 > - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与[[Performativity|表演性]]道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
 
@@ -471,7 +475,7 @@ updated: 2026-10-17
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育两百年的四代论述，批判 1960 年代的科学一元论与方法论主义，借 Carnoy（1983）揭示实证主义的意识形态借口性质，并诊断[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
-> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构约翰·哈蒂《可见的学习》背后的实证主义与“无意识理论”内核，揭示其实证手段-目的控制回路如何将教学异化为流水线，并充当现代国家规避教育合法化危机的技术工具（pp. 79–83, 86–89）。
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构约翰·哈蒂《可见的学习》背后的实证主义与“无意识理论”预设，揭示其实证手段-目的控制回路如何将教学异化为流水线，并充当现代国家规避教育合法化危机的技术工具（pp. 79–83, 86–89）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩技术理性批判，细读哈蒂《可见的学习》反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、构念混淆与新泰勒主义规训本质（pp. 3–15）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
