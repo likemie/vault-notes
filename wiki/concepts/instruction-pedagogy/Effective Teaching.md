@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 86
+related_count: 87
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Learning Intentions]]"
   - "[[Class Size]]"
+  - "[[Bildung]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -121,18 +122,18 @@ updated: 2026-10-17
 > [!def] 核心定义
 > 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业成长的教学过程。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–36)]]
 >
-> 有效教学的核心重心不在于单一教学法标签的优劣排名，而在于教学行为背后的质量条件：教学方法是否适配学科内容与目标、学生是否明晰学习路径与[[Success Criteria|成功标准]]，以及课堂是否兼具心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
+> 有效教学的核心重心聚焦于教学行为背后的深层质量条件：教学方法与学科内容及目标的适配度、学生对学习路径与[[Success Criteria|成功标准]]的清晰度，以及课堂兼具的心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 概括跨学科、跨学段促进深度学习的课堂微观教学质量特征，强调教师作为主动激活者（Activator）与[[Scaffolding|认知脚手架]]搭建者的关键职能。
 > - **用途** 用于评价课堂教学质量、指导教师专业发展标准编制，并作为教学实验与[[School Effectiveness|学校效能]]研究的核心[[Dependent Variable|因变量]]参照。
-> - **边界** 区别于静态的教师人格特征或单一教学方法；在批判视角下，有效教学绝非可由外部监控系统量化考核的技术清单，其实施深度依赖教师的[[Professional Judgment|专业判断]]与师生伦理关系。
+> - **边界** 区别于静态的教师人格特征或单一教学方法；在批判视角下，有效教学作为复杂的关系型实践，其实施深度依赖教师的[[Professional Judgment|专业判断]]与师生伦理关系，超越外部监控系统单纯量化考核的技术清单。
 
 > [!boundary]- 概念边界
-> - **不等于单一特定教学法（Specific Teaching Method）** 有效教学不是某套固定操作模版（如讲授法、小组合作或探究法）；[[Meta-analysis|元分析]]表明各类常见教学形式平均效应差异不大，关键在于实施中的质量特征与情境适配。
-> - **不等于可见学习项目（[[Visible Learning]]）** 可见学习是 [[John Hattie]] 基于元分析构建的特定实证品牌与商业推广体系；有效教学则是英美与[[Didaktik|欧陆教学论]]长期共同探索的广泛理论与实证范畴。
-> - **不等于抽象的有效性口号（[[Abstract]] Principles）** 仅宣讲促进[[Active Learning|主动学习]]、因材施教等抽象口号无法直接改善课堂，若无具体教材与培训支撑，原则极易沦为空谈。
-> - **不等于工业流水线式的标准化技术清单（Checklist Pedagogy）** 有效教学绝非外科手术缝合或流水线机械打卡般的标准操作规程；其核心关切在于在具体社区、特定学校与独特班级中建设有温度的学习共同体，依赖教师的情境化专业判断与伦理关怀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> - **区别于单一特定教学法（Specific Teaching Method）** 有效教学超越特定固定操作模版（如讲授法、小组合作或探究法）；[[Meta-analysis|元分析]]表明各类常见教学形式平均效应差异不大，决定学习成效的核心是实施过程中的质量特征与情境适配度。
+> - **区别于可见学习项目（[[Visible Learning]]）** 可见学习是 [[John Hattie]] 基于元分析构建的特定实证品牌与商业推广体系；有效教学则是英美与[[Didaktik|欧陆教学论]]长期共同探索的广泛理论与实证范畴。
+> - **区别于抽象的有效性口号（[[Abstract]] Principles）** 仅宣讲促进[[Active Learning|主动学习]]、因材施教等抽象口号无法直接改善课堂，若无具体教材与培训支撑，原则极易沦为空谈。
+> - **区别于工业流水线式的标准化技术清单（Checklist Pedagogy）** 有效教学从根本上有别于外科手术缝合或流水线机械打卡等标准操作规程；其核心关切在于在具体社区、特定学校与独特班级中建设有温度的学习共同体，高度依赖教师的情境化专业判断与伦理关怀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 
@@ -235,6 +236,19 @@ updated: 2026-10-17
 
 ---
 
+### 命题五　有效教学的形式化实证分类陷入常识渐近逼近与学科教化实质抽空的认识论双重困境
+
+> [!concept-lens] [[Didaktik|欧陆教学论]]审视与认识论假说
+> 从德语教学论传统与科学哲学视阈，剖析宏观有效教学综合在常识固化与结论滞后之间的双重认识论约束，以及形式化认知策略对学科文化正当性与教化实质的抽空。
+
+> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
+> **有效教学认识论的双重困境（稳定性与变异性假说）** 埃瓦尔德·特哈特（Ewald Terhart）指出，试图通过海量元分析为有效教学寻找终极科学法则的雄心，在认识论上面临无法调和的系统性矛盾：其一为**稳定性假说（Stability Hypothesis）**，全书报告的绝大多数有效教学因素（如明确目标、形成性反馈、积极[[Student-Teacher Relationship|师生关系]]）早已是主流教育学教科书与专业常识的基本组成部分，对其继续进行数百项元分析追加仅能实现数学上的渐近逼近，无法带来任何实质知识增量；其二为**变异性假说（Variability Hypothesis）**，基于陈旧元分析数据库（大多源自 1980–1990 年代）得出的否定性结论已被前沿实证全面颠覆，例如声称教师教育与专业学科知识对有效教学影响微弱的论断，已被鲍默特等人（Baumert et al., 2010）在 COACTIV 项目中以严谨的因果设计推翻，后者证实教师学科知识（CK）与学科教学法知识（PCK）对学生学业成长具有强力的决定性促进作用。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 428, 436–437)]]
+
+> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
+> **形式化认知策略对学科教化实质的抽空与思维技能悖论** 德语教学论（Didaktik）视教学为学生、教师与特定学科文化内容之间的动态三重交互，其核心关切在于甄选具有教育正当性与[[Bildung|精神教化]]（Bildung）价值的学科实质内容。以可见学习为代表的英美有效教学话语，借由对[[Popper's Three Worlds Theory|波普尔三世界理论]]的联想式套用，将教学机械还原为表层知识到深层认知再到概念建构的形式化层级进阶，制造了实质内容的严重真空（Vacuum of material Bildung）；这种形式主义陷入了著名的思维技能悖论——研究越强调有效思维策略与概念加工技能的重要性，学生越需要掌握海量特定领域的实质性学科事实与结构化知识作为支撑，脱离丰富学科内容的所谓通用有效教学技能只是一种形式主义幻影。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -245,6 +259,7 @@ updated: 2026-10-17
 > | **具体方案落地载体** | 抽象通用原则存在巨大的实践转化壁垒，必须内嵌于经实验检验的具体课程方案 | [[Evidence-Based Education\|循证教育]]政策（[[Every Student Succeeds Act\|ESSA]]）、全校改革与教材采购 | Slavin |
 > | **关系型共同体与技术去专业化批判** | 将教学规约为标准化核查清单与监控工具会诱发表演性危机，有效教学本质是特定情境中建设充满信任的师生学习共同体 | 教师专业发展政策、[[Observation Protocol\|课堂观察规程]]评估、反对新泰勒主义规训 | Johnson & Janzen; Ball; Carnine |
 > | **同伴互信生态与实用主义假说** | 有效教学依赖包容试错的教研室同伴文化而遭绩效工资摧毁；证据仅系探究假说而非机械行动规程 | 教师薪酬考评改革、证据转化与教学伦理权衡 | Hattie; Snook et al.; Dewey |
+> | **认识论困境与教化实质** | 形式化有效教学陷入常识渐近逼近与结论过时的双重困境，抽空学科教化实质并受制于思维技能悖论 | 宏观教学效能评估、循证政策认识论批判、欧陆教学论与教化哲学审视 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
 
@@ -254,6 +269,7 @@ updated: 2026-10-17
 > - **1970–1980 年代 — 过程—结果实证[[Paradigm|研究范式]]（Process-Product Paradigm）** 以 Barak Rosenshine、Jere Brophy 为代表，系统测量教师行为（如提问频率、等待时间、[[Direct Instruction|直接讲授]]）与学生标准化成绩之间的量化关联，奠定了显性有效教学原则。
 > - **1990–2000 年代 — [[Didaktik|欧陆教学论]]与质量框架整合（Didaktik & Quality Dimensions）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
+> - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
@@ -295,6 +311,18 @@ updated: 2026-10-17
 > >
 > > - **绩效规训派（Ruth Richardson, 1990; Murnane & Cohen, 1981 所引新公共管理主张）** 主张将教师薪酬与量化学生成绩指标深度挂钩，通过金钱奖惩打破教师平均主义怠惰，倒逼教师提升有效教学投入。
 > > - **同伴信任派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Hattie, 2008）** 论证绩效工资在美英等国的推行历史充斥失败，其实质是将同事异化为争夺奖金的对手，诱发严重的经验隐匿、防御性教学与职场焦虑；维系高水准有效教学的生命线，恰恰在于[[School Leadership|学校领导]]能否构建起充满包容与互信的教师[[Peer-Supported Learning|同伴文化]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
+>
+> > [!axis] 形式化认知操作（[[Visible Learning]]） vs 学科教化实质正当性（[[Didaktik]] & [[Bildung]]）
+> > 争论焦点在于有效教学应当侧重通用认知操作与形式化概念建构，还是承载具有教育学正当性的学科文化实质。
+> >
+> > - **英美形式化有效教学派（Hattie, 2009; Bereiter, 2002）** 将教学划分为表层认知、深层加工与概念构建，侧重可跨学科迁移的通用思维策略与激活机制。
+> > - **欧陆实质教化教学论派（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 批评指出，形式化有效性[[Discourse|话语]]抽空了德语教学论与教化传统的核心基石；教学的根本问题在于何种学科内容具备促进人的精神自主与文化生成的正当性，脱离深厚学科实质的思维技能是无法落地的形式主义。
+>
+> > [!axis] 全能教师救赎修辞 vs 有限统计方差现实（8%–21% 解释力）
+> > 探讨有效教学是否足以独立承担改善学生学业命运的全部重任。
+> >
+> > - **全能教师修辞派（Visible Learning 宣讲话语）** 将教师重塑为决定学生成败的天生英雄与唯一关键[[Variable|变量]]，宣称只要教师掌握有效教学法则即可克服一切环境阻碍。
+> > - **方差分解现实派（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 432]]）** 指出全能话语与底层实证存在深刻断裂；统计方差分解确证，教师效能仅能解释学生[[Academic Achievement|学业成绩]]变异的 8% 至 21%，约 80% 的成绩方差仍由家庭背景、先天禀赋与社会阶层牢固决定；将系统性社会不平等的责任单方面转嫁给一线教师属于不公正的道德绑架。
 
 > [!warning] 适用局限
 > - **[[Academic Achievement|学业成绩]]指标的单一性** 现有有效教学研究多以标准化统考成绩为产出标准，在衡量学生创造力、审美体验及公民素养时存在解释力边界。
@@ -303,6 +331,20 @@ updated: 2026-10-17
 ---
 
 ## 实证数据
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶[[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 有效教学六大领域总体综合（教师、课程、教学法、学生、家庭、学校） | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$（教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$） | 未设立质控准入门槛（严格实验与松散调查混杂）；文献时效严重滞后（集中于 1980–1990 年代） | 证实多级聚合造成原始经验情境参数系统性损耗（货币汇兑折损）；且教师方差解释力仅 8%–21%，与全能教师[[Discourse\|话语]]脱节 |
+
+> [!ma-table]- 二阶元分析教学角色亚组结果
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 教学干预策略模式 | **激活者（Activator） vs 促进者（Facilitator）** 交互教学（$d=0.74$）、反馈（$d=0.73$）、师生关系（$d=0.72$）、元认知（$d=0.69$）、直接教学（$d=0.59$）、掌握学习（$d=0.58$）、目标设定（$d=0.56$） vs 模拟（$d=0.33$）、探究教学（$d=0.31$）、PBL（$d=0.15$）、归纳教学（$d=0.06$） | $M = 816$ 阶梯式子集 | 激活者平均 $d = 0.60$；促进者平均 $d = 0.17$ | $d_{\text{差异}} = +0.43$ | 证实结构化、高反馈与主动指导的激活型教学显著优于低结构放任式促进型教学，量化印证了经典教学论常识 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]教学模式与干预特征调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -326,6 +368,21 @@ updated: 2026-10-17
 ---
 
 ## 关键引用
+
+> [!citation-card] 特哈特论教师作为激活者 vs 促进者[[Effect Size|效应量]]与传统教学常识印证
+> 教师作为主动激活者的角色在效应量上显著压倒了作为促进者的角色（$d = 0.60$ 对比 $d = 0.17$）。然而，对于教育学和教学论研究者而言，这一被宣称为具有革命性突破的实证发现，实际上只是印证了数十年来早已确立的教学常识：有效的教学始终需要教师的主导性规划、结构化示范与即时指导；将[[Constructivist Paradigm|建构主义]]心理学直接外推为自由放任、学生自发摸索的弱指导教学，早已被证明是不切实际的幻想。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431, 433)]]
+>
+> *The role of the teacher as an activator is clearly superior to the role of the teacher as a facilitator (d=0.60 vs. d=0.17)... But for researchers in [[Didaktik]] and teaching, this finding merely confirms long-established pedagogical knowledge: effective teaching requires active teacher leadership, explicit structure, and ongoing guidance; the naive transfer of constructivist learning psychology into unguided discovery has long been known to fail.*
+
+> [!citation-card] 特哈特论有效教学形式化与学科教化实质的抽空
+> 《[[Visible Learning|可见的学习]]》构建的有效教学图景以形式化的认知技能与概念建构为核心。然而，如果仅仅关注认知过程的复杂性，却排除了对所教内容本身的批判性反思，教学便失去了[[Bildung|精神教化]]（Bildung）的灵魂。教学论的根本问题始终在于：选择何种文化内容、为何选择以及如何将其转化为促进学生心智生成的教育载体。越是强调[[Higher-Order Thinking Skills|高阶思维技能]]的训练，学生越需要扎实、广泛的学科实质知识作为基础；脱离了学科实质内容的有效教学模型，必然沦为抽空教化实质的形式主义空壳。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+>
+> *Visible Learning develops a formalized model of effective teaching focused on cognitive skills and concept formation. However, by ignoring the critical reflection on content, it [[CREATES Project|CREATES]] a vacuum of material Bildung. The [[Central Question]] of Didaktik remains: which cultural contents are chosen, with what educational justification, and how they foster human development. The more thinking skills are emphasized, the more domain-specific substantive knowledge is required.*
+
+> [!citation-card] 特哈特论有效教学[[Epistemology|认识论]]的双重困境与修补中的金字塔
+> [[Meta-meta-analysis|二阶元分析]]既受制于常识渐近逼近的稳定性假说，又受制于旧结论被前沿实证颠覆的变异性假说。[[John Hattie|哈蒂]]未曾寻获终结教学有效性争议的圣杯，其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法移位；另一方面局部不断受损、整体无休止扩建修复，始终处于临时性与未完成状态。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
+>
+> *Second-order [[Meta-analysis]] is trapped between the stability [[Hypothesis]] of approaching pedagogical common sense and the variability hypothesis of out-of-date findings being overturned by new evidence. Hattie has not found the Holy Grail of teaching effectiveness; he has built a pyramid: monumental and immovable, yet constantly damaged, requiring endless repairs, and remaining permanently provisional.*
 
 > [!citation-card] 有效教学的本质与内在质量条件
 > 有效教学的关键不在于争论某一种特定教学形式的优越性，而在于教学方法是否具备促进学习的内在质量条件：目标明确、教师积极领导、反馈切中要害、课堂气氛专注且包容错误，并能根据学生的背景与认知起点提供差异化支持。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–36)]]
@@ -376,7 +433,7 @@ updated: 2026-10-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 [[Science Foundation Ireland|SFI]] 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美实证有效教学[[Paradigm|范式]]与欧陆经典教学论（[[Didaktik]]）的[[Epistemology|认识论]]差异。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从德语教学论（[[Didaktik]]）与思想史视角系统审视英美有效教学[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识渐近逼近与旧结论过时的[[Epistemology|认识论]]双重困境，并批评其抽空学科实质内容与[[Bildung|精神教化]]（[[Bildung]]）维度的形式化弊端（pp. 425–438）。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展认识论干预[[Meta-analysis|元分析]]，实证确立[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment|形成性评价]]反馈对[[Academic Achievement|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。

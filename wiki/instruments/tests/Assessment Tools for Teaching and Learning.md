@@ -6,9 +6,9 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 28
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 31
+instrument_related_level: 3
+instrument_related_stars: "💎"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
+  - "[[Performance Pay]]"
 related_theories:
   - "[[Panopticism]]"
 related_methods:
@@ -56,6 +57,8 @@ related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Snook_2010_NZJES]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[John O'Neill]]"
@@ -152,6 +155,12 @@ updated: 2026-10-17
 > >
 > > - **商业化招标与收费争议** 2015 年，新西兰教育部发布征求建议书（Request for Proposals, RFP），公开寻求出资 400 万至 800 万美元的外部商业投资伙伴，计划授予中标私营实体对 e-asTTle 系统的商业专营与持续开发权，并明确允许商业公司未来向新西兰公立学校收取软件使用费，同时由私营公司开发国际版对外销售谋利。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8–9, 47)]]
 > > - **外生私有化批判** 这一举措引发了教育界与工会的强烈抗议，被指责为纳税人出资研发的公共知识产品被国家主动转包给私人资本牟利；同时，教育部还将系统的日常维护与教师培训大量外包给[[Cognition Education|认知教育]]（Cognition Education）等商业咨询公司，构成典型的外生私有化与[[Public-Private Partnership|公私伙伴关系]]异化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
+>
+> > [!axis] 国家政策结盟、[[Performance Pay|绩效工资]]推行与行政监控工具（Terhart 与 Snook 等学者之辩）
+> > 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434]]）与新西兰本土批判学者（[[Argument_Snook_2010_NZJES|Snook et al., 2010]]; Smythe, 2010）指出，asTTle 的研发与推广深度卷入了新西兰教育部的国家政策博弈。
+> >
+> > - **政策推手与绩效工资主张** 约翰·哈蒂长期担任新西兰教育部具有重大影响力的政策顾问，倡导推行教师[[Performance Pay|绩效工资]]改革，遭遇新西兰教师工会的强烈抵制与全国性争论。
+> > - **行政监控与高昂商业培训捆绑** 学界批判指出，asTTle 表面上宣称为服务师生的诊断性工具，在制度设计上却被深度用作对全校教学行为开展行政监控的控制装置；更为关键的是，系统的推行深度捆绑了耗资不菲的有偿专业培训项目（Costly training programs），形成了学术研发、行政控制与商业培训相纠缠的利益网络。
 
 ---
 
@@ -165,7 +174,7 @@ updated: 2026-10-17
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | asTTle v2/v3 标准版与毛利双语版 | 新西兰 25,000 余名中小学生数学与阅读常模数据 | 基于全国大样本标定 [[Item Response Theory\|IRT]] 参数与 [[SOLO Taxonomy\|SOLO]] 分类学进阶台阶 | 论证目标设定、差距分析与时间序列增值评估如何打破惩罚性问责，赋权教师开展形成性教学 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | asTTle 系统技术架构与管理模块 | 政策技术文档分析与视觉谱系考证（Hattie et al., 2003） | 软件网络化监控架构与[[Barometer of Achievement\|气压计图表]]界面分析 | 揭示系统内置的全网管理监控功能与新泰勒制逻辑，考证其气压计图表向《[[Visible Learning\|可见的学习]]》的视觉迁移 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | e-asTTle 国家级在线测评系统 | 教育部商业化招标（RFP）文件与外包服务合同分析 | 国家公共教育数据资产的商业化招商与服务外包 | 揭露教育部拟将纳税人资助研发的 e-asTTle 转让给私营投资伙伴向学校收费谋利的[[Exogenous Privatisation\|外生私有化]]路径 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | asTTle 测评系统与培训项目 | 政策批判分析与利益网络审视 | 外部测评工具作为行政监控与商业培训载体 | 揭示 asTTle 作为新西兰政府标准化治理工具与有偿培训项目的利益关联 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | asTTle 测评系统与教师培训项目 | 政策批判分析与利益网络审视 | 外部测评工具作为行政监控与商业培训载体 | 揭示 asTTle 作为新西兰政府标准化治理工具、[[Performance Pay\|绩效工资]]推行纽带与有偿培训项目的利益关联 |
 
 ---
 
@@ -183,6 +192,11 @@ updated: 2026-10-17
 ---
 
 ## 关键引用
+
+> [!citation-card] 特哈特论 asTTle 的行政监控功能与商业培训利益网络
+> [[John Hattie|哈蒂]]长期担任新西兰教育部的政策顾问，深度卷入了新西兰的教育政策斗争，他在教师[[Performance Pay|绩效工资]]方面的理念遭到了教师工会的强烈抵制……在这一背景下，哈蒂团队开发了名为“教学与学习评估工具”（asTTle）的软件程序……该软件遭到了[[Ivan Snook|斯努克]]等人以及史密斯（Smythe, 2010）的严厉批评，他们一致将该工具定性为针对学校推行行政监控的装置，且该工具与耗资不菲的商业化培训项目紧密捆绑。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 426, 434)]]
+>
+> *Hattie has for a long time also acted as an influential policy advisor for the New Zealand Department of Education... This involved him deeply in educational policy struggles in New Zealand, where his ideas on performance-related pay for teachers were strongly rejected by the teachers’ unions... In this context, Hattie and his team developed the software program 'Assessment Tools for Teaching and Learning' (asTTle)... This software was heavily criticized by [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] as well as by Smythe (2010), who both interpreted it as an instrument for the administrative monitoring of schools, linked to costly training programs.*
 
 > [!citation-card] [[Formative Assessment|形成性评价]]的三大核心问题
 > asTTle 模型围绕三个核心问题展开：目标通往何处？当前行进至何处？下一步走向何方？因此，目标设定至关重要，揭示当前与目标表现之间的差距以及教师如何为所有学生缩小该差距同样不可或缺。该系统使国家测评体系能够以即时方式向师生提供这些维度的证据，涵盖学生个人成就、班级表现、群组年级分布、全校分析，并与具有适当挑战性的课程材料直接链接。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 15)]]
@@ -207,7 +221,7 @@ updated: 2026-10-17
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合新西兰 25,000 名学生数学题库数据，论证如何利用 asTTle 的目标设定与诊断报告打破传统基于测试的惩罚性问责，重塑以教师为核心的循证形成性教学体系（pp. 11–21）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其[[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统调查新西兰教育部拟通过招标（RFP）将纳税人资助的 e-asTTle 系统转让给私营投资伙伴向学校收费的[[Exogenous Privatisation|外生私有化]]事实。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 审视 asTTle 作为新西兰政府标准化改革行政工具与有偿培训项目的政策争议及利益网络（pp. 434–435）。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 结合新西兰教育政策博弈（[[Performance Pay|绩效工资]]改革争议），剖析 asTTle 作为全校行政监控装置与高昂商业培训载体的制度争议与利益网络（pp. 426, 434–435）。
 
 ---
 
