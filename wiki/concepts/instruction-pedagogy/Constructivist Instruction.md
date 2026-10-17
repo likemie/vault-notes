@@ -9,7 +9,7 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 50
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[International Education]]"
+  - "[[Didaktik]]"
+  - "[[Mind Mapping]]"
   - "[[Anchored Instruction]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Discourse]]"
@@ -43,8 +46,11 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Critical Pedagogy]]"
   - "[[Cultural Capital]]"
+  - "[[Knowledge Production]]"
   - "[[Activity Traps]]"
   - "[[Class Size]]"
+  - "[[Feedback]]"
+  - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Reliability]]"
@@ -58,26 +64,28 @@ related_theories:
   - "[[Social Realism]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Wang_2025_CE]]"
-  - "[[Argument_Terhart_2011_JCS]]"
 status: active
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Lev Vygotsky]]"
+  - "[[John Hattie]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Constructivist Instruction
@@ -125,7 +133,7 @@ updated: 2026-10-16
 >   - *实践机制* 强调课堂作为学习共同体，通过小组异质协作、观点反驳、对话协商与意义共建，将社会互动内化为个体的高阶心理机能。
 > - **支架式建构主义教学进路（Scaffolded Constructivist Approach）**
 >   - *理论渊源* 认知心理学与学习科学现代整合（Bruner, Chinn, Linn）。
->   - *实践机制* 拒绝非指导性放任，在复杂任务中嵌入显性认知提示卡、论证量规、思维可视化工具与[[Source Evaluation\|信源评估]]规程，随着能力提升实现支架渐进消退。
+>   - *实践机制* 摒弃无指导的放任探索，在复杂任务中嵌入显性认知提示卡、论证量规、思维可视化工具与[[Source Evaluation\|信源评估]]规程，随着能力提升实现支架渐进消退。
 
 > [!feature] 实施建构主义教学设计的四项核心原则
 > - **情境真实性与问题锚定** 将学习任务置于贴近真实世界或具有内在挑战性的情境中，使知识学习与实际应用场景紧密绑定。
@@ -162,10 +170,10 @@ updated: 2026-10-16
 ### 命题三　建构主义认识论与显性结构化指导内在一致：学习的建构性要求教师作为主动激活者
 
 > [!concept-lens] 教学论范畴澄清与角色重塑
-> 辨析学习心理学的概念建构本质与具体教学实践形态之间的认识论关联，破除将建构主义等同于放任非指导的范畴误区。
+> 辨析学习心理学的概念建构本质与具体教学实践形态之间的[[Epistemology|认识论]]关联，破除将建构主义等同于放任非指导的范畴误区。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]; Hattie (2009)
-> **建构认识论驱动显性激活领导** 针对国际教育界长期将建构主义窄化为无指导自由探究、并把教师贬低为被动促进者的流行风尚，约翰·哈蒂与埃瓦尔德·特哈特从实证元综合与欧陆教学论视角进行了系统澄清与辩正：第一，“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）；第二，学习者的理解固然是通过内部心智图式的同化与顺应主动建构生成的，但这在逻辑上从未要求教师放弃教学领导或退居旁观；相反，正因为深层概念建构需要克服认知偏差与盲目试错，教学更需要教师作为主动激活者，明确呈现结构化标准、搭建支架并持续提供形成性反馈。实证二阶综合中激活者（$d = 0.60$）对促进者（$d = 0.17$）的显著优势，确证了高质量建构主义教学必须与教师的主动认知领导紧密结合。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]
+> **建构认识论驱动显性激活领导** 针对[[International Education|国际教育]]界长期将建构主义窄化为无指导自由探究、并把教师贬低为被动促进者的流行风尚，[[John Hattie|约翰·哈蒂]]与埃瓦尔德·特哈特从实证[[Meta-meta-analysis|元综合]]与[[Didaktik|欧陆教学论]]视角进行了系统澄清与辩正：第一，“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）；第二，学习者的理解固然是通过内部[[Mind Mapping|心智图]]式的同化与顺应主动建构生成的，但这在逻辑上从未要求教师放弃教学领导或退居旁观；相反，正因为深层概念建构需要克服认知偏差与盲目试错，教学更需要教师作为主动激活者，明确呈现结构化标准、搭建支架并持续提供形成性反馈。实证二阶综合中激活者（$d = 0.60$）对促进者（$d = 0.17$）的显著优势，确证了高质量建构主义教学必须与教师的主动认知领导紧密结合。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]
 
 ---
 
@@ -188,7 +196,7 @@ updated: 2026-10-16
 > - **1980–1990 年代 — 建构主义教学浪潮全面兴起** [[Anchored Instruction\|抛锚式教学]]（Anchored Instruction）、[[Cognitive Apprenticeship\|认知学徒制]]与情境学习相继提出，建构主义成为欧美新一轮科学与数学课程改革的主导[[Discourse|话语]]。
 > - **1999 年 — [[Constructive Alignment\|建构性对齐]]的系统化课程设计** [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 提出建构性对齐理论，为建构主义由抽象教学理念转变为严密可操作的大学课程系统提供了标准蓝图。
 > - **2006–2007 年 — 无指导建构主义大论辩** 认知负荷学派（Kirschner, Sweller, & Clark, 2006）发表论文激烈抨击建构主义教学是“未提供足够指导的无效教学”；Hmelo-Silver, Duncan and Chinn (2007) 迅速撰文反驳，通过大量课堂证据澄清现代建构主义教学（如[[Inquiry-Based Learning\|指导式探究]]与 PBL）本质上包含密集而有力的[[Scaffolding\|认知支架]]。
-> - **2009–2011 年 — 宏观实证二阶综合辨正建构主义教学角色** 约翰·哈蒂（2009）与埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）基于 800 余项元分析建立二阶综合，量化对比教师作为激活者（$d = 0.60$）与促进者（$d = 0.17$）的效应断层；特哈特进一步确立从“学习即建构”无法直接推论出教师必须退居为被动促进者，推动了建构主义教学向教师显性认知领导与情境支架深度融合的理论升华。
+> - **2009–2011 年 — 宏观实证二阶综合辨正建构主义教学角色** 约翰·哈蒂（2009）与埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）基于 800 余项[[Meta-analysis|元分析]]建立二阶综合，量化对比教师作为激活者（$d = 0.60$）与促进者（$d = 0.17$）的效应断层；特哈特进一步确立从“学习即建构”无法直接推论出教师必须退居为被动促进者，推动了建构主义教学向教师显性认知领导与情境支架深度融合的理论升华。
 > - **2021–2023 年 — 因果[[Meta-analysis\|元分析]]确立支架建构教学的高效能** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 与 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 通过大样本元分析量化证实，提供结构化指导与证据评估规则的建构式探究教学具有突出的学业与[[Epistemology\|认识论]]增益，彻底终结了将建构主义等同于放任式探索的理论误区。
 
 ---
@@ -210,17 +218,17 @@ updated: 2026-10-16
 >
 > > [!axis] 教学角色之争：激活型认知领导 vs 促进型被动协助（Terhart & Hattie 之辩）
 > > 争论建构主义教学中教师的核心职能究系主动设定目标并提供反馈的激活者，还是创设环境由学生自主探究的促进者。
-> > - **实证元综合视角（Hattie, 2009; [[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 宏观数据表明促进型实践（模拟、个别化、无指导探究）平均效应量仅为 $d = 0.17$，显著低于激活型实践（$d = 0.60$），实证否定了教师退居为旁观协助者的教学有效性。
-> > - **欧陆教学论视角（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 特哈特指出，建构主义作为认识论描述知识生成规律，本不提供现成的教学操作法则；真正的建构主义教学要求教师建构自身的教学模型与学生的认知模型，主动激活与认知建构在教学论中内在相通。
+> > - **实证[[Meta-meta-analysis|元综合]]视角（Hattie, 2009; [[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 宏观数据表明促进型实践（模拟、个别化、无指导探究）平均[[Effect Size|效应量]]仅为 $d = 0.17$，显著低于激活型实践（$d = 0.60$），实证否定了教师退居为旁观协助者的教学有效性。
+> > - **[[Didaktik|欧陆教学论]]视角（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 特哈特指出，建构主义作为[[Epistemology|认识论]]描述[[Knowledge Production|知识生成]]规律，本不提供现成的教学操作法则；真正的建构主义教学要求教师建构自身的教学模型与学生的认知模型，主动激活与认知建构在教学论中内在相通。
 
 > [!warning] 实践异化与操作局限
 > - **形式化[[Activity Traps\|活动陷阱]]（Hands-on without minds-on）** 教学若仅停留于小组围坐、热闹手工或自由发言等肢体活动，缺乏引向概念深层重构的认知反思任务，极易沦为表面繁荣的低效课堂。
 > - **实施门槛高与教师专业能力瓶颈** 建构主义教学要求教师具备精深的内容知识、即时诊断学生前概念的能力以及动态调整支架的应变力，在常规大[[Class Size\|班额]]教学中普遍面临师资培训不足与制度评价机制制约。
 
 > [!citation-card] 特哈特论建构主义学习与教师主动激活教学的内在契合
-> 实证综合表明，向学生明确提出要求并持续提供关于其进展与表现反馈的主动、指导型教学，成效显著优于依赖归纳式问题解决过程的无指导、促进型与“协助型”教学。对哈蒂而言，建构主义是一种知识形式，无法直接作为具体的教学形式，概念知识的建构不可与当前流行的建构主义狂热相混淆。学习即建构，这恰恰对应着直接、主动的教学方式。建构概念适用于教师的维度在于：教师必须建构自身的教学模型与学生的学习模型。从建构主义出发，逻辑上要求教师坚定承担其专业指导角色。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 433–434)]]
+> 实证综合表明，向学生明确提出要求并持续提供关于其进展与表现反馈的主动、指导型教学，成效显著优于依赖归纳式[[Problem Solving|问题解决]]过程的无指导、促进型与“协助型”教学。对[[John Hattie|哈蒂]]而言，建构主义是一种知识形式，无法直接作为具体的教学形式，概念知识的建构不可与当前流行的建构主义狂热相混淆。学习即建构，这恰恰对应着直接、主动的教学方式。建构概念适用于教师的维度在于：教师必须建构自身的教学模型与学生的学习模型。从建构主义出发，逻辑上要求教师坚定承担其专业指导角色。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 433–434)]]
 >
-> *The results show that active, guided instruction, which formulates clear requirements to the students and supplies them continuously with feedback about their progress and performance is more effective than unguided, facilitative, 'helping' teaching, which relies on inductive problem-solving processes and separate solutions etc. For Hattie, 'constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism'. Learning is constructing corresponds a direct, active way of teaching. Construction fit with the teacher only in the following respect: he has to construct his own model of teaching and a model of the student's learning. From constructivism it does not follow that a teacher can withdraw from his role—the opposite is the case.*
+> *The results show that active, guided instruction, which formulates clear requirements to the students and supplies them continuously with [[Feedback]] about their progress and performance is more effective than unguided, facilitative, 'helping' teaching, which relies on inductive problem-solving processes and separate solutions etc. For Hattie, 'constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism'. Learning is constructing corresponds a direct, active way of teaching. Construction fit with the teacher only in the following respect: he has to [[Construct]] his own model of teaching and a model of the student's learning. From constructivism it does not follow that a teacher can withdraw from his role—the opposite is the case.*
 
 ---
 
@@ -238,6 +246,14 @@ updated: 2026-10-16
 > | 同上 | [[Problem-Based Learning\|基于问题的学习]]（PBL，围绕复杂真实问题合作探究） | 7 篇（7 个效应量） / 1,250 | Cohen's $d$，随机效应模型 | $d = 0.340$ $[-0.080, 0.761]$ | $Q(6) = 115.279, p < .001$；$Z = 1.586, p = .113$ | 缺乏显性支架支持时，开放问题探究效果未达统计显著 |
 > | 同上 | 论证教学（讲授论据组织与反驳规则，缺乏探究情境） | 2 篇（2 个效应量） / 158 | Cohen's $d$，随机效应模型 | $d = 0.134$ $[-0.321, 0.589]$ | $Q(1) = 6.225, p < .05$；$Z = 0.578, p = .563$ | 脱离实体探究情境的单纯句法论辩教学效果微弱且不显著 |
 
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]教学角色与建构主义实践因果效应对比（激活者 vs 促进者）
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 二阶综合来源 | 教学角色分类与代表性实践 | 纳入元分析规模 | 效应指标 | 合并效应量 | 关键解释边界与教学论意涵 |
+> |---|---|---|---|---|---|
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | **教师作为激活者（Activator）**<br>包括互惠教学（0.74）、形成性反馈（0.72）、自我言语指导（0.67）、元认知策略（0.67）、直接教学（0.59）、掌握学习（0.57）、挑战性目标（0.56）等 | 汇总逾 800 项元分析中的相关子集 | Cohen's $d$ | 综合均值 $d = 0.60$ | 证实显性结构化指导、高频反馈与目标引领构成高成效教学的经验支柱 |
+> | 同上 | **教师作为促进者（Facilitator）**<br>包括模拟与游戏（0.32）、探究式教学（0.31）、较小班额（0.21）、个别化教学（0.20）、基于问题的学习（0.15）、网页式学习（0.09）、全语言阅读（0.06）、归纳教学（0.06）等 | 汇总逾 800 项元分析中的相关子集 | Cohen's $d$ | 综合均值 $d = 0.17$ | 揭示去指导化、放任探究与被动协助型建构实践成效微弱（差距 $\Delta d = +0.43$） |
+
 ---
 
 ## 相关研究
@@ -247,3 +263,4 @@ updated: 2026-10-16
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemic Cognition\|认识论认知]]干预因果[[Meta-analysis\|元分析]]，量化确立了常规建构主义教学（$d = 0.479$）以及指导式建构探究（$d = 0.808$）的因果有效性。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]]现代[[Inquiry-Based Learning\|指导式探究]]教学在发展概念理解、[[Nature of Science\|科学本质]]与[[Epistemic Practices\|认识论实践]]中的独特优势，有力回应了认知负荷学派的批评。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 质性实证考察建构主义以学生为中心教学在东亚高利害应试文化中的本土[[Recontextualization\|再脉络化]]与折衷调适。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 评述可见学习[[Meta-meta-analysis|元综合]]对建构主义教学角色的实证审计，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）效应分化，论证建构认知与显性指导的内在统一（pp. 431–434）。
