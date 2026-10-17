@@ -286,26 +286,29 @@ updated: 2026-10-17
 > **显性[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]的共享** 课堂中大量学生因不了解学习意图而陷入将“字迹工整、篇幅长”误当优秀的表象认知。通过在课程初始向学生显性呈现分阶段的成功标准（如毛利历史单元中明确区分事实描述与因果阐释），并在教学中贯通“目标通往何处、当前行进至何处、下一步走向何方”三核心提问，评价标准向学生完全敞开，使学生能够对自身学习展开准确的自我监控与自我调整。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 15, 17)]]
 
 > [!claim] Knudsen, H.
-> **课堂[[Discourse|话语]]盲点与双向可见性** [[Classroom Observation|课堂观察]]显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与[[Formative Assessment|形成性评价]]打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, pp. 257–258)]]
+> **课堂[[Discourse|话语]]盲点与双向可见性** [[Classroom Observation|课堂观察]]显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与[[Formative Assessment|形成性评价]]打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 257–258)]]
+
+> [!claim] [[Ewald Terhart|Terhart, E.]]
+> **双向可见性的福柯式微观全景规训解构** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从权力哲学视角审视可见的学习将“眼睛”作为核心象征、倡导“互看、互见与互相被观察”的双向可见性模型指出，这种表面上的学生中心修辞实际上是一种精致的微观支配技术。传统的、公开的外显行政强制统治，在此转化为内化于师生日常互动中的微观自我监控；教师表面上倾听学生，实质上始终牢牢占据隐性支配地位，展现了福柯式的全景规训特征。（p. 434）
 
 ---
 
 ### 命题四　可见的学习本质是教师评价性专业判断与反馈文化的重塑，防范教学法清单的机械化执行
 
-> [!concept-lens] [[Professional Judgment\|专业判断]]、文化重构与外部批判
-> 辨析 VL 在实践落实中的两种对立取向，论证校本教研文化转型与[[Evaluative Judgement\|评价性判断]]的不可替代性。
+> [!concept-lens] [[Professional Judgment|专业判断]]、文化重构与外部批判
+> 辨析 VL 在实践落实中的两种对立取向，论证校本教研文化转型与[[Evaluative Judgement|评价性判断]]的不可替代性。
 
-> [!claim] Hattie, J.; Fredens, K.; [[Thomas Nordahl\|Nordahl, T.]]
-> **评价性专业判断与反馈文化** VL 的核心在于支持教师在复杂情境中开展评价性专业判断（Evaluative Professional Judgment）——持续依据学生学习证据诊断学情、选择干预并评估成效（DIE 循环），防止将教学退化为从排名表中机械挑选高分教学法。正如弗雷登斯（Fredens）与诺达尔（Nordahl）所指出的，VL 的精髓在于将学校重塑为充满互信的“反馈文化”（Feedbackkultur），通过同伴观课、[[Reflexivity\|反思性]]对话与跨年级进阶标准共享，实现自下而上的集体能力建设。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 74–75)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–67)]]
+> [!claim] Hattie, J.; Fredens, K.; [[Thomas Nordahl|Nordahl, T.]]
+> **评价性专业判断与反馈文化** VL 的核心在于支持教师在复杂情境中开展评价性专业判断（Evaluative Professional Judgment）——持续依据学生学习证据诊断学情、选择干预并评估成效（DIE 循环），防止将教学退化为从排名表中机械挑选高分教学法。正如弗雷登斯（Fredens）与诺达尔（Nordahl）所指出的，VL 的精髓在于将学校重塑为充满互信的“反馈文化”（Feedbackkultur），通过同伴观课、[[Reflexivity|反思性]]对话与跨年级进阶标准共享，实现自下而上的集体能力建设。[[Argument_Fredens_2015_Paideia|(Fredens, 2015, pp. 74–75)]]; [[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–67)]]
 
 > [!claim] Kelly et al.
-> **[[Practitioner Enquiry\|实践者探究]]对流行概念的情境化校准** 欧洲跨国质性实证表明，苏格兰中小学领导者在接触 Visible Learning 等广受炒作的外部流行概念时，坚决抵制脱离本土情境的机械套用，转而依托教师专业标准中的“实践者探究”（Practitioner Enquiry），凭借扎根课堂的一线[[Contributory Expertise\|贡献型专长]]对概念的本土适切性展开严格审视与校准；德国汉堡学校亦组建教学发展小组（Unterrichtsentwicklung）自主研读 Hattie 著作，将其作为校本同侪对话与形成性反思的专业参考坐标，展现了实践者对外部证据标签的主动去魅与反思性转化。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 13–14, 20–21)]]
+> **[[Practitioner Enquiry|实践者探究]]对流行概念的情境化校准** 欧洲跨国质性实证表明，苏格兰中小学领导者在接触 Visible Learning 等广受炒作的外部流行概念时，坚决抵制脱离本土情境的机械套用，转而依托教师专业标准中的“实践者探究”（Practitioner Enquiry），凭借扎根课堂的一线[[Contributory Expertise|贡献型专长]]对概念的本土适切性展开严格审视与校准；德国汉堡学校亦组建教学发展小组（Unterrichtsentwicklung）自主研读 Hattie 著作，将其作为校本同侪对话与形成性反思的专业参考坐标，展现了实践者对外部证据标签的主动去魅与反思性转化。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 13–14, 20–21)]]
 
-> [!claim] [[Scott Eacott\|Eacott, S.]]
-> **[[Neo-Taylorism\|新泰勒主义]]风险与[[Cult of the Guru\|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求[[Performance Indicators\|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency\|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE\|(Eacott, 2019, pp. 777–778)]]
+> [!claim] [[Scott Eacott|Eacott, S.]]
+> **[[Neo-Taylorism|新泰勒主义]]风险与[[Cult of the Guru|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求[[Performance Indicators|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
-> **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 具有披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）特征；其标志性的[[Barometer of Achievement|气压计图表]]直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统，体现了行政监控诉求对[[Feedback|教学反馈]]工具的[[Disciplina and Doctrina|规训]]重塑。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
+> **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 具有披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）特征；其标志性的[[Barometer of Achievement|气压计图表]]直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统，体现了行政监控诉求对[[Feedback|教学反馈]]工具的[[Disciplina and Doctrina|规训]]重塑。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
 
 > [!claim] Snook et al.
 > **[[Class Size|班级规模]]非线性门槛与证据的行政武器化风险** 斯努克等人通过深入剖析班级规模的实证文献指出，哈蒂报告的班级规模极低总体效应量（$d=0.21$）不仅掩盖了微观教学机制，更极易被政策制定者武器化为削减教育投入的工具。真实证据（如田纳西州 STAR 严格随机试验证实低年级小班阅读与数学效应量达 $0.62–0.66$、奥克兰 [[Picking Up the Pace|PACE 项目]]中 15 人小班保障 3 人微型群组密集辅导）表明，班级规模在特定关键学段跨越物理阈值时会产生非线性的突破性收益，并与高频师生互动、个性化反馈形成强交互。然而，新西兰教育部长安妮·托利（Anne Tolley）却迅速在国会与政策辩论中征用哈蒂数据，以“校内教师质量差异远大于班级规模差异”为由抗拒缩减班级规模，并强推历史上屡遭失败的教师[[Performance Pay|绩效工资]]制度。斯努克等人援引[[John Dewey|杜威]]强调，实证证据应当是明智探究的假设而非技术统治的铁律，一旦被剥离情境转化为自上而下的量化排名清单，就会沦为新自由主义官僚推卸财政责任、[[Disciplina and Doctrina|规训]]公立学校教师的行政武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]
@@ -320,9 +323,9 @@ updated: 2026-10-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，剔除 SES 调节效应制造阶级盲假象，忽视生源背景解释 70%–80% 差异构成归因失真 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
-> | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] |
+> | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进；但双向可见性在福柯视角下展现为将外显统治转化为内化自我监控的微观全景规训 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 > | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、技术理性工程论消解学习者意向性、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 
 ---
@@ -330,52 +333,57 @@ updated: 2026-10-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1987–1992 — [[Meta-meta-analysis\|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis\|元分析]]、22,155 个[[Effect Size\|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 42)]]
-> - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research\|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression\|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–19)]]
+> - **1987–1992 — [[Meta-meta-analysis|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis|元分析]]、22,155 个[[Effect Size|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
+> - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]随后发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
 > - **2011 — 欧陆教学论系统审视与双重困境提出** 德国学者特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（Bildung）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于稳定性假说与变异性假说的内在双重困境。
-> - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
+> - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2019 — 变差系数统计检验与本土制度陷阱警告** 俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）首次使用变差系数（$V_\sigma = 56.87\%$）对 Hattie 效应量模型进行数理同质性检验，实证证实其数据集极端不均且缺乏质控，并结合俄教师生存困境（79% 受困于报表、仅 16% 职业声望）警示西方[[Policy Borrowing|政策借用]]可能引发的去专业化危机与制度陷阱。
-> - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
-> - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
+> - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
+> - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
 > - **2021 — 思想史考证与理论根基的批判解构** 丹麦学者尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）发表批判专文，打破哈蒂自诩的客观统计学家形象与[[Radical Constructivism|激进建构主义]]标签，思想史溯源证实其本质承袭自[[B. F. Skinner|斯金纳]]与[[Robert Glaser|格拉泽]]的[[Behaviorism|行为主义]]教学工程论；从舍恩[[Technical Rationality|技术理性]]视角揭示其剔除 [[Socioeconomic Status|SES]] [[Interaction Effect|调节效应]]制造阶级盲假象、自认 $0.40$ 为修辞性“故事”却一刀切抹平学段差异，并对覆盖 92% [[Sample Size Determination|样本量]]的核心反馈一阶元分析进行逐篇文献学细读，确证其底层数据存在严重的[[Construct|构念]]错位与异质拼贴。
-> - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) [[Class Size|班级规模]]结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
-> - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction\|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81），确立了人机混合验证的质控新标准。
-> - **2025–至今 — 全量[[Metascience|元科学]]审计与[[Chain of Evidence|证据链]]可[[Reliability|信度]]崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个[[Preregistration|预注册]]全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
+> - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) [[Class Size|班级规模]]结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
+> - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（[[Intraclass Correlation Coefficient|ICC]] = 0.81），确立了人机混合验证的质控新标准。
+> - **2025–至今 — 全量[[Metascience|元科学]]审计与[[Chain of Evidence|证据链]]可[[Reliability|信度]]崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个[[Preregistration|预注册]]全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
 
 ---
 
 ## 争议与批评
 
-> [!tension] 核心张力一：评价性[[Professional Judgment\|专业判断]] vs 机械教学法清单（[[Neo-Taylorism\|新泰勒主义]]）
-> - **评价性专业判断立场（蓝方）** Hattie 与支持者强调 VL 倡导教师在具体课堂情境中扮演证据解释者，依据学生即时反馈动态调整教学（DIE 循环），防止将证据异化为静态操作指南。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, p. 81)]]
-> - **新泰勒主义[[Analytical Stance\|批判立场]]（红方）** 批评者指出行政部门与商业机构常将 VL 异化为可量化考核的操作清单，以[[Effect Size\|效应量]]排名[[Disciplina and Doctrina\|规训]]教师日常教学，剥夺专业自主权。[[Argument_Eacott_2019_IJLE\|(Eacott, 2019, pp. 777–778)]]
+> [!tension] 核心张力一：评价性[[Professional Judgment|专业判断]] vs 机械教学法清单（[[Neo-Taylorism|新泰勒主义]]）
+> - **评价性专业判断立场（蓝方）** Hattie 与支持者强调 VL 倡导教师在具体课堂情境中扮演证据解释者，依据学生即时反馈动态调整教学（DIE 循环），防止将证据异化为静态操作指南。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, p. 81)]]
+> - **新泰勒主义[[Analytical Stance|批判立场]]（红方）** 批评者指出行政部门与商业机构常将 VL 异化为可量化考核的操作清单，以[[Effect Size|效应量]]排名[[Disciplina and Doctrina|规训]]教师日常教学，剥夺专业自主权。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 > 
-> [!tension] 核心张力二：通用效应量跨情境概括 vs 学科与知识层次[[Heterogeneity\|异质性]]
-> - **通用效应量汇总立场（蓝方）** 主张通过大样本[[Meta-analysis\|元分析]]提炼跨学科、跨学段的通用[[Effective Teaching\|有效教学]]规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
-> - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–33)]]
+> [!tension] 核心张力二：通用效应量跨情境概括 vs 学科与知识层次[[Heterogeneity|异质性]]
+> - **通用效应量汇总立场（蓝方）** 主张通过大样本[[Meta-analysis|元分析]]提炼跨学科、跨学段的通用[[Effective Teaching|有效教学]]规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 16)]]
+> - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, pp. 29–33)]]
 >
 > [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]
-> - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等[[CORE Education|核心教育]]规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
+> - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等[[CORE Education|核心教育]]规律。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–92)]]
 > - **元科学与计量统计解构立场（红方）** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）与卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等团队实证指出，VL 面临系统性的底层数理与方法学崩溃：两级[[Fixed-Effect Model|固定效应]]代数等价性被 93% 的文献重叠摧毁，存在[[Standard Error|标准误]]混淆导致 10 倍虚增的低级计算错误；全库仅 19% 满足 [[PICO Framework|PICO]] 标准，27% 混杂不可[[Commensuration|通约]]设计，44% 效应量无引证支持且复现率低于 1%，在科学上完全不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > [!tension] 核心张力四：客观中立的实证科学 vs 政商利益结盟与财政紧缩修辞
-> - **中立[[Research Synthesis|证据综合]]立场（蓝方）** 倡导者坚称 VL 是超越意识形态的纯学术研究，旨在为政策制定者提供关于“什么有效”的客观概率指引，帮助学校将有限资源集中投入到高效应量领域。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–88)]]
-> - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/[[Corwin Press|考文出版社]]）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 30–33)]]
+> - **中立[[Research Synthesis|证据综合]]立场（蓝方）** 倡导者坚称 VL 是超越意识形态的纯学术研究，旨在为政策制定者提供关于“什么有效”的客观概率指引，帮助学校将有限资源集中投入到高效应量领域。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–88)]]
+> - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/[[Corwin Press|考文出版社]]）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–33)]]
 >
 > [!tension] 核心张力五：微观[[School Effectiveness|学校效能]]（校内教师改进）vs 宏观社会不平等（70%–80% 生源方差）
 > - **微观可控效能立场（蓝方）** [[John Hattie|哈蒂]]坚持将[[Research Scope|研究范围]]界定在教育者可控的校内因素，主张教师教学效能占 30% 系统方差，是政策能够直接干预的最大枢纽，不应因校外社会因素巨大而陷入无所作为的虚无主义。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–90)]]
 > - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 >
+> [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（Didaktik / Bildung）
+> - **形式化技能综合立场（蓝方）** 哈蒂将学习形式化区分为表层知识、深层思维与理论建构三层级，聚焦跨学科通用思维技能与学习策略的效应量提炼，认为教学内容主要充当策略训练的载体。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]
+> - **欧陆教学论与教化批判立场（红方）** 特哈特指出哈蒂完全抽空了德国教学论传统的教化（[[Bildung]]）实质，全书课程章节完全缺失对学科教育学意义与教学内容选择正当性的反思（“实质内容何在”），沦为形式化分科教学法的效应量罗列。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+>
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
 > - **方法学与社会结构首发批判** 斯努克等人指出[[Meta-meta-analysis|二阶元分析]]缺乏底层质控、阿司匹林反例[[Falsification|证伪]] 0.40 截断值、排除 70%–80% 生源方差，以及政策制定者对班级规模与[[Performance Pay|绩效工资]]的误用。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]
+> - **欧陆教学论与认识论双重困境解构** 特哈特指出其形式化学习模型抽空了学科教化实质、双向可见性潜藏福柯式全景规训，并提出二阶综合同时陷入常识渐近逼近（稳定性假说）与旧结论滞后颠覆（变异性假说）的修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **数学公理与计量程序规范** 韦克尔等人推导六项[[Meta-meta-analysis|二级元分析]]操作规程，实证揭示模型同质性假设破产与数据计算严重失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
-> - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]]
+> - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **[[Technical Rationality|技术理性]]与思想史理论溯源** 尼尔森与克利特默勒从舍恩技术理性[[Paradigm|范式]]解构哈蒂的[[Behaviorism|行为主义]]学理渊源，实证指出其剔除 [[Socioeconomic Status|SES]] 制造阶级盲、自认 0.40 门槛属于叙事故事造成学段一刀切误导，并揭露核心反馈元分析掩盖 38% 负效应与[[Construct|构念]]拼贴缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a)]]
-> - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023)]]
-> - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
+> - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+> - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
 > [!warning] 适用局限
 > 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限；同时全库 27% 存在组间、组内与[[Correlational Research|相关设计]]的违规混并，加权缺失进一步放大了极端偏倚。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
