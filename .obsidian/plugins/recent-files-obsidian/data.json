@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Evidence-Based Education",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
+    },
+    {
       "basename": "Argument_Terhart_2011_JCS",
       "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Michael Sadler",
       "path": "wiki/persons/uk/Michael Sadler.md"
-    },
-    {
-      "basename": "Discourse",
-      "path": "wiki/concepts/research-methodology/Discourse.md"
     }
   ],
   "omittedPaths": [],
