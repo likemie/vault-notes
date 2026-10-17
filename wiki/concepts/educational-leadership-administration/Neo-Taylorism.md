@@ -120,7 +120,7 @@ updated: 2026-10-17
 
 > [!logic-map]- 新泰勒主义教育治理的技术控制回路
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 外部权威与意识形态输入
 >         A["全球新自由主义绩效竞争<br>(PISA/TIMSS 恐慌叙事)"] --> B["大师品牌与元分析效应量排行榜<br>(Visible Learning / Guru Cult)"]
 >         B --> C["官方专业标准与强制准入<br>(AITSL / 国家教师标准体系)"]

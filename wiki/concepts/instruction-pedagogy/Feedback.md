@@ -5,10 +5,10 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - feedback
   - reinforcement
@@ -16,33 +16,18 @@ tags:
   - level/k12
 related_concepts:
   - "[[International Education]]"
-  - "[[Classroom Management]]"
   - "[[Metacognition]]"
-  - "[[Champ]]"
   - "[[Success Criteria]]"
-  - "[[Self-control]]"
-  - "[[School Leadership]]"
-  - "[[Learning Styles]]"
-  - "[[Visible Learning]]"
-  - "[[PICO Framework]]"
-  - "[[Learning Analytics]]"
-  - "[[Gamification]]"
-  - "[[Data Behaviorism]]"
+  - "[[Classroom Management]]"
   - "[[Structured Teaching]]"
+  - "[[Visible Learning]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Critique of Meta-analysis]]"
-  - "[[Heterogeneity]]"
-  - "[[Working Memory]]"
+  - "[[PICO Framework]]"
   - "[[Technical Rationality]]"
   - "[[Neo-Taylorism]]"
-  - "[[Zone of Proximal Development]]"
 related_theories: []
-related_methods:
-  - "[[Intraclass Correlation Coefficient]]"
-  - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Sample Size Determination]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Dylan Wiliam]]"
@@ -50,10 +35,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Fredens_2015_Paideia]]"
-  - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Argument_Hattie_2005_ACER]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -111,7 +97,7 @@ updated: 2026-10-17
 
 > [!logic-map]- 教学反馈的双向回路与认识论逻辑
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["学习目标与成功标准 (Feed Up)"] --> B["学生任务执行与认知生成"]
 >     B --> C{"双向反馈回路"}
 >     C -->|"学生端 (Feed Back / Forward)"| D["诊断当前差距 + 获取修改策略"]

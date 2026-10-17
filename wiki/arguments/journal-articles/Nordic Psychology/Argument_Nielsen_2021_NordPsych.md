@@ -10,9 +10,9 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 25
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Nordic Psychology
 citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology, 75(1), 45–60."
@@ -25,36 +25,29 @@ tags:
   - methodology-critique
   - level/k12
 related_concepts:
-  - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Class Size]]"
-  - "[[Homework]]"
   - "[[Feedback]]"
-  - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
-  - "[[Neo-Taylorism]]"
   - "[[Positivism]]"
+  - "[[Technical Rationality]]"
+  - "[[Neo-Taylorism]]"
+  - "[[Class Size]]"
 related_theories:
-  - "[[Radical Constructivism]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Donald A. Schön]]"
   - "[[Scott Eacott]]"
-  - "[[Ivan Snook]]"
-  - "[[Terry Wrigley]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Nielsen_2021_IRTP]]"
 sources:
   - "[[sources/Nielsen_2021_NordPsych|Nielsen_2021_NordPsych]]"
 part_of: ''
@@ -123,7 +116,7 @@ citation_aliases:
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["解构客观统计学家假象：否认理论预设"] --> B["思想史溯源：隐匿技术理性与斯金纳-格拉泽行为主义谱系"]
 >     B --> C["实证还原偏误：单因果割裂、阶级盲视角与叙事性 0.40 门槛"]
 >     C --> D["深层证据危机：细读五大最重反馈元分析（占样本 92.4%）"]

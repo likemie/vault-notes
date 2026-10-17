@@ -28,8 +28,8 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Value Neutrality]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Value Neutrality]]"
   - "[[Reliability]]"
   - "[[Source of Knowledge]]"
   - "[[Scientism]]"
@@ -240,7 +240,7 @@ updated: 2026-10-17
 
 > [!logic-map]- 实证主义认知逻辑与范式张力
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 实证主义核心逻辑 [经验法则建构体系]
 >         A["客观实在与自然决定论<br>(Objective Reality & Determinism)"] --> B["感官观察与事实收集<br>(Empirical Observation)"]
 >         B --> C["概念界定与操作化测量<br>(Variables & Operationalization)"]
