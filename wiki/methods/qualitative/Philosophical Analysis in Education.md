@@ -101,6 +101,7 @@ updated: 2026-10-16
 
 > [!example] 使用此方法的研究
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 此方法的示范性应用
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展概念与哲学审视，建立五线批评揭示评价理论、建构主义教学论与认识论化简的前提缺陷
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 通过概念史、[[Phenomenology\|现象学]]、[[Bildung]]/[[Didaktik]] 传统和政策[[Discourse|话语]]批判，澄清芬兰 [[Phenomenon-Based Learning\|PhBL]] 的哲学根源
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 运用教育哲学概念分析（对比“字词计算器”与“雇佣私厨”隐喻），整合社会[[Epistemology|认识论]]与写作学实证证据，建构“[[Formative Epistemic Injustice|成长性认识不正义]]”的三重检验判据并推导防御性教学规程
 > - Biesta (2007a) — "民主缺陷"的哲学论证

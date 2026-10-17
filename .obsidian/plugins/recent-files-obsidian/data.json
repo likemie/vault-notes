@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Recontextualization",
-      "path": "wiki/concepts/comparative-education/Recontextualization.md"
+      "basename": "Argument_Rømer_2018_EPT",
+      "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+    },
+    {
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Argument_Bergeron_2017_MJE",
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
+    },
+    {
+      "basename": "Recontextualization",
+      "path": "wiki/concepts/comparative-education/Recontextualization.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
@@ -23,14 +35,6 @@
     {
       "basename": "Pierre-Jérôme Bergeron",
       "path": "wiki/persons/canada/Pierre-Jérôme Bergeron.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
-    },
-    {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
     {
       "basename": "Argument_Terhart_2011_JCS",
@@ -195,10 +199,6 @@
     {
       "basename": "21st Century Skills and Competencies Discourse",
       "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
     }
   ],
   "omittedPaths": [],
