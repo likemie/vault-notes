@@ -97,6 +97,9 @@ updated: 2026-10-16
 > [!claim] [[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]
 > 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems\|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科对话的教学[[Champ\|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
+> [!claim] 埃瓦尔德·特哈特
+> 针对英美实证主义将教学窄化为形式化认知加工与通用效应量排名的倾向，特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）基于德国教学论传统指出，教育不仅是教授思考方式，更是传授值得学习的内容。若抽空对课程内容正当性与学科教育学意义的反思，教学理论便会陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+
 ---
 
 ### 命题类型二：教学判断与行动机制的分野（Pedagogical Judgment and Action Mechanisms）
@@ -117,7 +120,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **课程内容选择的教化正当性** | 关注知识选择的本体论深度与时代关切度，确立学科深度的正当性 | 批判原子化技能课程，指导跨学科现象本位设计 | 莉萨·维拉汉; 沃尔夫冈·克拉夫基 |
+> | **课程内容选择的教化正当性** | 关注知识选择的本体论深度与时代关切度，确立学科深度的正当性 | 批判原子化技能课程，指导跨学科现象本位设计 | 莉萨·维拉汉; 沃尔夫冈·克拉夫基; 埃瓦尔德·特哈特 |
 > | **教学判断与行动机制的分野** | 关注教师在规训/生成、内容/教化/规范之间的复杂[[Professional Judgment\|专业判断]] | 剖析数字化背景下的绩效主义以及标准化教学评估 | 安德烈亚斯·格鲁施卡; 比尔吉特·沙法尔; 莉莉-安·沃尔夫 |
 
 ---
@@ -149,3 +152,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning\|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems\|时代关键问题]]在世界遗产地开展具身教学实验。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨算法化与数字化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判《可见的学习》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
