@@ -1,0 +1,12 @@
+{
+  "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md": {
+    "dc60d075c209d7ef": {
+      "reason": "此处完整保留哈蒂在访谈中对统计学家与理论家身份的自我区分，作为检验其理论立场的直接证据；改为肯定句会删去论证所回应的真实主张。",
+      "evidence": "已核对 Nielsen 与 Klitmøller 文献印刷页 2（本地 PDF 第 3 页），其中逐字转引 Knudsen 2017 第 259 页的“I am not a theoretician”；当前段落保留该否定原话。"
+    },
+    "4f7d958d2b8c4eb9": {
+      "reason": "此处保留哈蒂对 0.40 支点用途的原话，明确区分叙事性阈值与一刀切的决策界限；这一真实的自我限定是随后讨论实际应用的依据，需要保留否定部分。",
+      "evidence": "已核对 Nielsen 与 Klitmøller 文献印刷页 7（本地 PDF 第 8 页），其直接转引 Hattie 2010 第 89 页并包含“not presented as a fixed cut-score”；原记录“引自 p. 8”按印刷页校正为 p. 7。"
+    }
+  }
+}
