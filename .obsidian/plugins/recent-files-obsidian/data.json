@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Constructivist Paradigm",
+      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
+    },
+    {
       "basename": "Argument_Nielsen_2021_NordPsych",
       "path": "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Beech_2009_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md"
-    },
-    {
-      "basename": "Stephen Ball",
-      "path": "wiki/persons/uk/Stephen Ball.md"
     }
   ],
   "omittedPaths": [],
