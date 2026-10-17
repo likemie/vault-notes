@@ -406,7 +406,7 @@ Total entries: **356**
 > - [[Argument_Han_Gutierez_2026_IJSE]] — 基于四层多模态话语分析，揭示初中生在显性学科标准与反思提示语双轨支架下，如何通过内容、信源与接收者三维认识论警觉批判审验并迭代重构人机协同科学解释。
 
 > [!index-list]- International Review of Theoretical Psychologies (1)
-> - [[Argument_Nielsen_2021_IRTP]] — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量
+> - [[Argument_Nielsen_2021_IRTP]] — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性预设满足了教育系统的合法化需求，而非其科学质量
 
 > [!index-list]- Intersect (1)
 > - [[Argument_Chan_2015_Intersect]] — 运用 Castells 的信息主义和国家主义框架分析苏联在拥有充足资源和人才的情况下仍错失信息革命的原因，论证国家主义体制通过军工黑洞、科学意识形态化、官僚逻辑与创新负激励、技术保守主义、封闭信息回路与国家垂直结构五个机制抑制了从工业化向信息化转型所需的制度条件

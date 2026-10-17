@@ -113,7 +113,7 @@ citation_aliases:
 > ```mermaid
 > flowchart LR
 >     A["经验反差：方法存在硬伤却享誉全球"] --> B["本质澄清：哈蒂提供的是理论而非单纯数据"]
->     B --> C["理论内核：技术理性把教学简化为因果工程"]
+>     B --> C["理论实质：技术理性把教学简化为因果工程"]
 >     C --> D["深层需求：PISA冲击导致学校陷入合法化危机"]
 >     D --> E["功能契合：官僚管理借技术承诺重获公众认可"]
 >     E --> F["严重代价：师生被还原为变量并失去学习自主性"]
@@ -160,7 +160,7 @@ citation_aliases:
 
 这种神圣化话语暴露了实证外表与理论实质的深刻对立。
 
-> [!tension] 表象宣称与真实内核的脱节
+> [!tension] 表象宣称与理论实质的脱节
 > - **宣称的实证外表** 标榜手握全球最大教育实证数据库，罗列 195 种干预措施的效应量仪表盘，声称一切用客观数据定夺。
 > - **底层的先验框架** 哈蒂本人坦言自己不是理论家，而是测量研究者和统计学家，但他拥有一套极其强固的教学模型（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.259]]）。
 > 
@@ -202,7 +202,7 @@ PISA 排名狠狠打击了传统教育的自信心，给各国政府带来了巨
 
 ---
 
-### 论证步骤三　技术控制闭环将教学异化为流水线并剥夺主体意义
+### 论证步骤三　技术控制体系将教学异化为流水线并剥夺主体意义
 
 > [!claim] 步骤三核心主张
 > 哈蒂建立了一套以预设指标为终点的封闭技术体系；它虽然让行政部门通过稳定产出的承诺赢得了管理控制权，但根本代价是把充满生命力的师生关系降格为工业化流水线，彻底放逐了学生的主体性。（pp.86–89）
@@ -264,7 +264,7 @@ PISA 排名狠狠打击了传统教育的自信心，给各国政府带来了巨
 > 
 > *“The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables.”*（p.88）
 
-> [!citation-card] 目标神圣化手段的技术闭环
+> [!citation-card] 目标神圣化手段的控制逻辑
 > 在哈蒂的可见学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……通过反馈系统所包含的强化作用，将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。
 > 
 > *“In Hattie's theory of visible learning, the teachers must, with feedback, feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students’ activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.”*（pp.88–89）
