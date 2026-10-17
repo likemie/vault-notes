@@ -68,33 +68,13 @@
             }
           },
           {
-            "id": "234d452edd1bdd48",
+            "id": "168f2c63a98832f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argument_Bergeron_2017_MJE"
-            }
-          },
-          {
-            "id": "e287e11af089d057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/political-economy-geopolitics/Network Governance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Governance"
+              "title": "新标签页"
             }
           }
         ],
@@ -303,11 +283,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "234d452edd1bdd48",
+  "active": "168f2c63a98832f2",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Recontextualization.md",
+    "wiki/concepts/political-economy-geopolitics/Network Governance.md",
+    "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md",
+    "sources/Bergeron_2017_MJE/text_extracted.txt",
+    "raw/bergeron_2017_extracted.txt",
     "wiki/methods/quantitative/Common Language Effect Size.md",
     "wiki/persons/canada/Pierre-Jérôme Bergeron.md",
-    "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md",
     "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.png",
@@ -343,10 +327,6 @@
     "wiki/theories/educational-philosophy/Recognition Theory.md",
     "wiki/concepts/competency-and-assessment/Dynamic Assessment.md",
     "wiki/concepts/instruction-pedagogy/Teacher Immediacy.md",
-    "wiki/theories/learning-science-cognitive-science/Feedback Intervention Theory.md",
-    "wiki/persons/us/B. F. Skinner.md",
-    "tmp_nielsen_text.txt",
-    "scripts/writing_exceptions.json",
     "page1_img.png",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg",
