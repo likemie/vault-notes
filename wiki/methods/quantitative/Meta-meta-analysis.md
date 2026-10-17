@@ -474,7 +474,7 @@ updated: 2026-10-17
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
-> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）提出的货币比附谬误与稳定性/变异性假说双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）提出的货币比附谬误与稳定性/变异性假说双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
 > - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
