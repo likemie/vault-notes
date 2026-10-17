@@ -2909,6 +2909,96 @@ def check_journal_naming(path: Path, data: Dict[str, Any], issues: List[Issue]) 
         issues.append(Issue("ERROR", rel(path), problem, code="JOURNAL_NAMING"))
 
 
+
+ACADEMIC_BUZZWORDS = (
+    "跃迁", "闭环", "沉淀", "托举", "内核", "跃升", "底座", "破局", "颗粒度",
+    "耦合", "统摄", "统合", "链路", "蜕变",
+)
+NEGATIVE_CONTRAST_MARKERS = ("不是", "并非", "绝非", "不在于", "而是", "而在于")
+WRITING_REMINDER_CODES = {"ACADEMIC_BUZZWORD", "ACADEMIC_NEGATIVE_CONTRAST"}
+BUZZWORD_REMINDER = (
+    "除非具有明确的概念内涵、切合具体语境且确有表达必要，否则避免使用此类互联网黑话和泛化的抽象词汇，"
+    "优先采用准确、具体、自然的学术表达。"
+)
+NEGATIVE_CONTRAST_REMINDER = (
+    "使用否定转折句式前，必须检查所否定的观点是否真实存在、前后概念是否构成实质性对立、"
+    "是否涉及真实的学术争论，以及转折是否带来明确的信息增量；"
+    "若存在虚构论争对象、制造虚假对立或缺乏实质性论证的情况，应改用直接的肯定式表述。"
+)
+
+
+def academic_prose_scan(text: str) -> str:
+    """Keep visible prose and source offsets; ignore code, comments and link targets."""
+    def blank(match: re.Match[str]) -> str:
+        return re.sub(r"[^\n]", " ", match.group(0))
+
+    # Match fence lengths, quoted fences and unfinished blocks without letting
+    # delimiters inside one code block open a different block.
+    lines = []
+    fence = ""
+    for line in text.splitlines(keepends=True):
+        marker = re.match(r"^[ \t]*(?:>[ \t]*)*(?P<fence>`{3,}|~{3,})(?P<tail>[^\n]*)", line)
+        if fence:
+            lines.append(re.sub(r"[^\n]", " ", line))
+            if marker and marker['fence'][0] == fence[0] and len(marker['fence']) >= len(fence) and not marker['tail'].strip():
+                fence = ""
+        elif marker and (marker['fence'][0] == "~" or "`" not in marker['tail']):
+            fence = marker['fence']
+            lines.append(re.sub(r"[^\n]", " ", line))
+        else:
+            lines.append(line)
+    scan = "".join(lines)
+    scan = re.sub(r"<!--.*?-->|%%.*?%%", blank, scan, flags=re.S)
+    scan = re.sub(r"(?P<ticks>`+)(?!`)[^\n]*?(?P=ticks)(?!`)", blank, scan)
+    scan = mask_h2_sections_preserve(scan, ["来源", "Sources", "Source", "References", "参考文献"])
+    scan = EMBED_RE.sub(blank, scan)
+    scan = re.sub(r"!\[[^\]\n]*\]\([^\n]*?\)", blank, scan)
+
+    def visible_label(match: re.Match[str]) -> str:
+        raw = match.group(0)
+        if raw.startswith("[["):
+            inner = match.group(1)
+            sep = re.search(r"\\?\|", inner)
+            start = match.start(1) - match.start() + (sep.end() if sep else 0)
+            end = match.end(1) - match.start()
+        else:
+            start, end = match.start(1) - match.start(), match.end(1) - match.start()
+        return re.sub(r"[^\n]", " ", raw[:start]) + raw[start:end] + re.sub(r"[^\n]", " ", raw[end:])
+
+    scan = WIKILINK_RE.sub(visible_label, scan)
+    scan = MD_LINK_RE.sub(visible_label, scan)
+    scan = re.sub(r"https?://[^\s<>]+|<[^>\n]+>", blank, scan)
+    scan = re.sub(r"\$\$[\s\S]*?\$\$|(?<!\\)\$[^\n$]+(?<!\\)\$", blank, scan)
+    return scan
+
+
+def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]], issues: List[Issue]) -> None:
+    """Advisory checks: lexical matches require human contextual judgment."""
+    if not is_wiki_entry_path(path) or not data or data.get("type") not in VALID_TYPES - {"source"}:
+        return
+    fm, body, first_line = split_frontmatter(text)
+    segments = [(body, first_line, "正文")]
+    if fm is not None and isinstance(data.get("summary"), str):
+        segments.append((data["summary"], frontmatter_line_number(fm, "summary") or 2, "summary"))
+    for content, offset, location in segments:
+        for index, line in enumerate(academic_prose_scan(content).splitlines()):
+            context = markdown_visible_text(line).strip()
+            if not context:
+                continue
+            context = re.sub(r"\s+", " ", context)[:160]
+            for words, code, reminder in (
+                (ACADEMIC_BUZZWORDS, "ACADEMIC_BUZZWORD", BUZZWORD_REMINDER),
+                (NEGATIVE_CONTRAST_MARKERS, "ACADEMIC_NEGATIVE_CONTRAST", NEGATIVE_CONTRAST_REMINDER),
+            ):
+                hits = [word for word in words if word in line]
+                if hits:
+                    issues.append(Issue(
+                        "INFO", rel(path),
+                        f"{location}写作提醒（命中：{'、'.join(hits)}）：{reminder} 语境：{context}",
+                        line=offset + index, code=code,
+                    ))
+
+
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
     if is_generated_content_page(path):
         return
@@ -2936,6 +3026,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)
+    check_academic_language(path, text, data, issues)
     if data and data.get("type") == "argument" and "journal-articles" in path.parts:
         check_journal_naming(path, data, issues)
     check_wikilinks(path, text, by_title, issues, data)
@@ -3493,7 +3584,7 @@ def main() -> int:
         for issue in issues:
             if args.quiet and issue.severity != "ERROR":
                 continue
-            if issue.severity == "INFO" and not args.show_info:
+            if issue.severity == "INFO" and not args.show_info and issue.code not in WRITING_REMINDER_CODES:
                 continue
             print(issue.format())
         print()
