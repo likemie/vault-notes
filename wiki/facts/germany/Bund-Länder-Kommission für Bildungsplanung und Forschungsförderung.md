@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[Max Planck Society]]"
   - "[[Fraunhofer Society Model]]"
   - "[[Federal Ministry of Education and Research]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung

@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 87
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Determinism]]"
   - "[[Falsification]]"
+  - "[[Socioeconomic Status]]"
   - "[[Causal Over-determination]]"
   - "[[Homework]]"
   - "[[Multiplicity]]"
@@ -147,7 +148,7 @@ updated: 2026-10-17
 > *Holmes operationalized his problem-solving approach within Popper's critical rationalism: L (universal laws) + I (initial conditions) = P (prediction). Rejecting absolute historicism and pre-relativity determinism, causal relationships in comparative education are conditional, tentative, and falsifiable based on specific contextual initial conditions.*
 
 > [!boundary]- 概念边界
-> - 不等于 **经验相关（Correlation / Association）** — 关联是因果成立的必要非充分条件；红酒消费与心脏病发病率降低相关，但二者可能共同由更高的社会经济地位（SES）驱动([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 57]])。
+> - 不等于 **经验相关（Correlation / Association）** — 关联是因果成立的必要非充分条件；红酒消费与心脏病发病率降低相关，但二者可能共同由更高的[[Socioeconomic Status|社会经济地位]]（SES）驱动([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 57]])。
 > - 不等于 **统计预测（Prediction）** — 气压计指针骤降能准确预测暴风雨来临，但拨动气压计指针绝不会产生暴风雨。
 > - 不等于 **[[Causal Over-determination\|因果过度决定]]（Causal Over-determination）** — 当多个原因中每一个都足以单独产生结果时（如学生成绩提升同时受到[[Homework\|家庭作业]]、家长重压和高额辅导刺激），单一归因存在逻辑缺陷([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 63–64]])。
 

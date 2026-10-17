@@ -10,7 +10,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[François Guizot]]"
   - "[[Victor Cousin]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[Horace Mann]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # François Guizot

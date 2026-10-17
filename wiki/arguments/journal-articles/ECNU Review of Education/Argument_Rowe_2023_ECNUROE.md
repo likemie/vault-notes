@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Consultocracy]]"
   - "[[Social Impact Investing]]"
+  - "[[Socioeconomic Status]]"
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Standards]]"
@@ -87,7 +88,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Rowe_2023_ECNUROE
 
@@ -231,7 +232,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 > | 年份 | 关键制度事件 | 核心主体与制度机制 |
 > |---|---|---|
 > | **2002** | 澳大利亚社会创投（SVA）正式成立 | 麦肯锡前高管罗伯特·麦克莱恩（Robert McLean）发起，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔（Michael Traill）]]出任首任首席执行官，确立引入风投和私募股权纪律的运作方针。（pp. 520, 524） |
-> | **2013** | 亮点学校连接（Bright Spots Schools Connection）启动 | 由 SVA 发起，获得联邦政府、澳大利亚联邦银行及三星集团等联合资助，将全澳 50 所低社会经济地位学校纳入改造试点。（pp. 525, 528） |
+> | **2013** | 亮点学校连接（Bright Spots Schools Connection）启动 | 由 SVA 发起，获得联邦政府、澳大利亚联邦银行及三星集团等联合资助，将全澳 50 所低[[Socioeconomic Status\|社会经济地位]]学校纳入改造试点。（pp. 525, 528） |
 > | **2013** | 澳大利亚学校加计划（Schools Plus）注册成立 | 联邦议会通过专项税法修正案，授予该机构全国范围内的 [[Deductible Gift Recipient\|DGR1]] 法定资质；首任董事由 SVA 首席执行官 [[Michael Traill]] 兼任。（pp. 525, 530） |
 > | **2014** | 证据学习中心（E4L）作为 SVA 全资子公司创设 | 获联邦政府与企业慈善联合资助，联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF），作为游说建立国家级证据机构的试验原型。 |
 > | **2021** | 澳大利亚教育研究组织（AERO）法定落地 | 联邦与州政府联合拨款设立全国性教育证据经纪机构；联邦立法明文特许 AERO 与私营慈善组织合作。（pp. 525, 531） |
@@ -355,7 +356,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 > - **1,216,000 澳元 vs 625,000 澳元** SVA 在 2021 财年获得的政府拨款总额与对外发放的赠款及捐赠净额，对外资助仅占政府拨款的 51%。（p. 527）
 > - **500 万澳元** 联邦政府向初创期的澳大利亚学校加计划（Schools Plus）直接注资的公共财政规模。（p. 530）
 > - **1500 万澳元** SVA 曾获得的联邦政府保密投标资助总额，且被官方明令在投标期间不得对公众披露。（p. 526）
-> - **50 所学校** SVA 发起的亮点学校连接项目重塑并试点的低社会经济地位公立学校总数。（p. 525）
+> - **50 所学校** SVA 发起的亮点学校连接项目重塑并试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数。（p. 525）
 > - **4 家子公司** SVA 依据《公司法》建立的四层控股子公司架构总数。（p. 528）
 > - **2 倍** 澳大利亚按人口平均计算的管理咨询公共支出总额，约为加拿大或瑞典等同类国家的两倍。（p. 522）
 

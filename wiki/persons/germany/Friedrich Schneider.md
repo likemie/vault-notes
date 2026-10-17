@@ -7,7 +7,7 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Theories of the Driving Forces]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
   - "[[Correlational Research]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Friedrich Schneider
@@ -113,7 +114,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育的核心任务绝非浮于表面的外部制度照搬与事实白描，而在于通过历史与哲学的深度透视，发掘塑造各民族教育体系深层特质的内在动力因素（德文：[[Theories of the Driving Forces|Triebkräfte]]）。施奈德将天主教人文主义的普世价值融入比较研究，坚信欧洲各民族的教育系统虽然在民族[[State Educational Sovereignty|国家教育主权]]的制度表现上展现出高度多样性，但在精神脉络、哲学传统与道德伦理根基上共享着深刻的欧洲统一性。这种宏大历史文化全景视角构成了战后欧洲比较教育学抵御北美行为主义与量化还原论的核心人文主义基石。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93–94)]]
+> 比较教育的核心任务绝非浮于表面的外部制度照搬与事实白描，而在于通过历史与哲学的深度透视，发掘塑造各民族教育体系深层特质的内在动力因素（德文：[[Theories of the Driving Forces|Triebkräfte]]）。施奈德将天主教人文主义的普世价值融入比较研究，坚信欧洲各民族的教育系统虽然在民族[[State Educational Sovereignty|国家教育主权]]的制度表现上展现出高度多样性，但在精神脉络、哲学传统与道德伦理根基上共享着深刻的欧洲统一性。这种宏大历史文化全景视角构成了战后欧洲比较教育学抵御北美[[Behaviorism|行为主义]]与量化还原论的核心人文主义基石。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93–94)]]
 
 > [!citation-card] 比较教育的欧洲统一性理想
 > 欧洲比较教育学者从未放弃对共同性的探寻。此外，他们之中的一些杰出人物致力于追求一种超越性的欧洲统一性理念，该理念源于前现代时期的精神与物质发展，以及科学、哲学、文学、音乐和美术的当代潮流。在比较教育史上，这一欧洲理念鲜明地反映在驱动力理论之中。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
@@ -130,7 +131,7 @@ updated: 2026-10-16
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 与汉斯共同树立了 20 世纪前中期以历史文化哲学为底色的比较教育经典[[Paradigm|范式]]，创立[[Theories of the Driving Forces|驱动力理论]]（Triebkräfte），使欧洲比较教育在[[Positivism|实证主义]]与行为主义浪潮前牢固确立了[[Geisteswissenschaften|精神科学]]与文化因素分析的合法性。
+> - **理论路径** 与汉斯共同树立了 20 世纪前中期以历史文化哲学为底色的比较教育经典[[Paradigm|范式]]，创立[[Theories of the Driving Forces|驱动力理论]]（Triebkräfte），使欧洲比较教育在[[Positivism|实证主义]]与[[Behaviorism|行为主义]]浪潮前牢固确立了[[Geisteswissenschaften|精神科学]]与文化因素分析的合法性。
 > - **方法路径** 规范了德语区[[Historical-Comparative Method|历史比较法]]，将个案历史发生学考察与跨国精神文化形态比照相结合，奠定了战后德国比较教育的解释学传统。
 > - **建制化路径** 创办中欧第一份跨国比较教育学术期刊《[[International Education|国际教育]]学评论》，二战后先后复兴萨尔茨堡大学与慕尼黑大学比较教育教席，为西德大学比较教育实体建制培养了骨干梯队。
 > - **欧洲一体化意识** 其著作中对欧洲统一性的执着探寻，构成了早期欧洲一体化思潮在教育学术领域的先声，为 1960 年代 [[Comparative Education Society in Europe|CESE]] 的创立与后来的[[European Education Space|欧洲教育空间]]构想提供了深刻的思想资源。
@@ -149,7 +150,7 @@ updated: 2026-10-16
 > 施奈德 1931 年创立《[[International Education|国际教育]]学评论》，在创刊号中系统绘制了比较教育学的历史体系与方法边界，为[[Disciplinary Institutionalization|学科制度化]]确立了规范的学术术语；其 1943 年对德国教育学在海外地位与影响的宏大学术考证，构成了研究[[Intercultural Education|跨文化教育]]影响不可或缺的历史基石，深刻启迪了战后跨国[[Policy Borrowing|政策借用]]与本土化研究。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 126)]]
 
 > [!citation-card] 米特论施奈德与欧洲宏大全景[[Paradigm|范式]]
-> 米特（[[Wolfgang Mitter]]）指出，在 20 世纪 20 年代至 50 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的弗里德里希·施奈德与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）共同奠定。深受传统罗马天主教思想影响的施奈德，展现了对教育史及其驱动力中普遍的、尤其是欧洲维度的深刻洞察。这一流派深入探究各民族教育系统的历史背景与文化动力，确立了欧洲比较教育深厚的人文主义与[[Geisteswissenschaften|精神科学]]主干，有力抵御了战后大西洋彼岸量化行为主义的简单化移植。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
+> 米特（[[Wolfgang Mitter]]）指出，在 20 世纪 20 年代至 50 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的弗里德里希·施奈德与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）共同奠定。深受传统罗马天主教思想影响的施奈德，展现了对教育史及其驱动力中普遍的、尤其是欧洲维度的深刻洞察。这一流派深入探究各民族教育系统的历史背景与文化动力，确立了欧洲比较教育深厚的人文主义与[[Geisteswissenschaften|精神科学]]主干，有力抵御了战后大西洋彼岸量化[[Behaviorism|行为主义]]的简单化移植。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
 >
 > *In the period between the 1920s and 1950s the 'grand historical-cultural panorama' dominated the comparative education scene, primarily shaped by Friedrich Schneider in Germany and Nicholas Hans in England, the former being distinctly influenced by traditional Roman Catholic thinking. They reveal their authors' profound insight into the universal and, in particular, European dimension of educational history and its driving forces...*
 

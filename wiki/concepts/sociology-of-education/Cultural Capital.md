@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接赋能学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
+  - "[[Socioeconomic Status]]"
   - "[[Cultural Barrier]]"
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Cultural Capital
@@ -147,7 +148,7 @@ updated: 2026-10-16
 ### 命题一　学校教育并非价值中立，而是将优势阶层的文化资本作为隐性筛选机制
 
 > [!concept-lens] 教育再生产维度
-> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将社会经济地位的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
+> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将[[Socioeconomic Status|社会经济地位]]的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
 
 > [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
 > **学术选拔的隐性前提** 教育系统倾向于把有教养阶级传递的语言风格、知识广度与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）
@@ -250,7 +251,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | 湖北省 G 县 12 所小学的 814 名农村随迁及留守家庭 | [[Questionnaire\|问卷调查]]与二元 Logistic 回归分析 | 父母最高教育程度为高中及以上对[[School Choice\|择校]]决策的预测作用 | 1. 预测是否进城陪读：胜算比（Odds Ratio，$\text{Exp}(B) = 2.402$）<br>2. 预测去县城还是去乡镇：$\text{Exp}(B) = 3.175$<br>3. 预测能否进入重点小学：$\text{Exp}(B) = 2.784$ | 1. $p < 0.01$<br>2. $p < 0.01$<br>3. $p < 0.01$ | 仅代表教育期望在观念层面的显著驱动，不代表其实施过程不需要社会资本的动员与折算 |
-> | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，$N = 2854$） | 潜变量结构方程模型（[[Causal Modeling\|SEM]]，Mplus 3.1，Type=Complex 校正） | 家庭文化资本（藏书量）、认知推理能力、家庭 SES（ISEI）、确定性信念、毕业总评成绩（Abitur） | 1. 文化资本对毕业成绩的直接效应：$\beta = 0.16$<br>2. 文化资本对确定性信念的抑制效应：$\beta = -0.13$<br>3. 纯家庭 SES 对确定性信念无直接效应：$\beta = -0.02$ ($ns$) | 1. $p < .05$<br>2. $p < .05$<br>3. $ns$<br>模型拟合 $\text{TLI} = .952, \text{RMSEA} = .033$ | 证实文化资本独立于经济收入发挥作用，并部分通过塑造批判性[[Epistemological Beliefs\|认识论信念]]中介赋能[[Academic Achievement\|学业成就]] |
+> | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，$N = 2854$） | 潜变量结构方程模型（[[Causal Modeling\|SEM]]，Mplus 3.1，Type=Complex 校正） | 家庭文化资本（藏书量）、认知推理能力、家庭 [[Socioeconomic Status\|SES]]（ISEI）、确定性信念、毕业总评成绩（Abitur） | 1. 文化资本对毕业成绩的直接效应：$\beta = 0.16$<br>2. 文化资本对确定性信念的抑制效应：$\beta = -0.13$<br>3. 纯家庭 SES 对确定性信念无直接效应：$\beta = -0.02$ ($ns$) | 1. $p < .05$<br>2. $p < .05$<br>3. $ns$<br>模型拟合 $\text{TLI} = .952, \text{RMSEA} = .033$ | 证实文化资本独立于经济收入发挥作用，并部分通过塑造批判性[[Epistemological Beliefs\|认识论信念]]中介赋能[[Academic Achievement\|学业成就]] |
 
 ---
 

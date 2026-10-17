@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
   - "[[Class Size]]"
+  - "[[Socioeconomic Status]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
   - "[[Business as Usual]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critique of Effect Size
@@ -201,7 +202,7 @@ updated: 2026-10-16
 >
 > **[[Class Size\|班级规模]]的案例** 《可见的学习》中班级规模效应量为正（小班优于大班，$d \approx 0.2$）。如果反转比较方向，效应量就变为负数。Hattie 的解释将完全改变，因为负面效应在《可见的学习》框架中被视为有害。
 >
-> **社会经济地位的案例** 效应量 $d = 0.59$（富裕优于贫穷）。如果比较贫困学生与富裕学生，效应量为 $-0.59$，"如果其它不变，这将是所有效应中最负面的"（p.241）。
+> **[[Socioeconomic Status|社会经济地位]]的案例** 效应量 $d = 0.59$（富裕优于贫穷）。如果比较贫困学生与富裕学生，效应量为 $-0.59$，"如果其它不变，这将是所有效应中最负面的"（p.241）。
 >
 > "Hattie 的比较是任意的，而他完全没有意识到这一点。基线比较的选择定义了效应量的方向（正号或负号）。"（p.241）
 

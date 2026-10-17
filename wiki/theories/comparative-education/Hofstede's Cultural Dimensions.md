@@ -8,7 +8,7 @@ aliases:
 summary: "国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
+  - "[[Socioeconomic Status]]"
   - "[[Control of Variables Strategy]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Hofstede's Cultural Dimensions
@@ -233,7 +234,7 @@ updated: 2026-10-16
 > - **作为理论框架** 用于搭建跨国比较教育、跨文化教学适应以及[[International Education\|国际教育]]流动研究的宏观解释架构，系统梳理不同制度[[Champ\|场域]]中的价值冲突。
 > - **作为分析工具** 提取为[[Quantitative Research\|量化研究]]中的宏观层级调节[[Variable\|变量]]（如划分高/低 PDI 组），或[[Qualitative Research\|质性研究]]中用于编码课堂师生权力互动、不确定性容忍与求助行为的观察维度。
 > - **作为批判视角** 揭示以西方低权力距离、高个人主义为默认“普适标准”的西方中心主义教学法偏见，反思国际教育政策转译中的“制度排异反应”，同时警惕过度使用文化标签带来的本质化弊端。
-> - **报告方式** 在写作中应将文化维度作为“解释假设的来源”或“宏观背景调节器”，而非直接断言因果结论；必须结合特定研究对象的社会经济背景、微观课堂生态与测量工具特征展开立体讨论。
+> - **报告方式** 在写作中应将文化维度作为“解释假设的来源”或“宏观背景调节器”，而非直接断言因果结论；必须结合特定研究对象的[[Socioeconomic Status|社会经济背景]]、微观课堂生态与测量工具特征展开立体讨论。
 
 > [!logic-map]- 分析流程图
 > ```mermaid
@@ -250,7 +251,7 @@ updated: 2026-10-16
 
 > [!theory-boundary] 理论适用边界
 > - **适合解释** 国家尺度上的宏观制度比较、跨国教育政策转译与借用中的宏观文化适应障碍、智能教育技术工具在不同文化生态中的边际增益分化。
-> - **谨慎使用** 用于解释单一国家内部不同社会阶层、城乡区域、移民群体或多元民族亚文化之间的教育现象；此时必须补充社会经济地位（SES）与[[Cultural Capital\|文化资本]]等阶级[[Variable\|变量]]。
+> - **谨慎使用** 用于解释单一国家内部不同社会阶层、城乡区域、移民群体或多元民族亚文化之间的教育现象；此时必须补充[[Socioeconomic Status|社会经济地位]]（SES）与[[Cultural Capital\|文化资本]]等阶级[[Variable\|变量]]。
 > - **不适合解释** 孤立个体在具体某一学习任务上的微观认知加工过程、即时情绪波动或特定的概念理解深度。
 > - **常见误用** 犯下经典的[[Ecological Fallacy\|生态谬误]]（将国家维度的平均分直接强加给该国具体学生）；将文化维度当作静态、不可更改的宿命论；用“文化差异”掩盖教学法设计缺陷或教育资源不平等。
 

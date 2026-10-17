@@ -9,7 +9,7 @@ summary: "将总体按关键特征划分为同质层后在各层内分别随机�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -17,6 +17,7 @@ tags:
   - method/sampling
   - quantitative-research
 related_concepts:
+  - "[[Socioeconomic Status]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Research Question]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Stratified Sampling
 
@@ -43,7 +44,7 @@ updated: 2026-10-16
 > 随机分层抽样（Random Stratified Sampling）是将总体按关键特征划分为同质组（层，strata），然后在各组内分别[[Random Sampling\|随机抽样]]的概率抽样方法。它确保样本在所选特征上的比例与总体一致，是[[Random Assignment\|随机化]]与分类化的结合。特征选择应尽量简洁——因素越多，不仅抽样越复杂，样本往往也越大。
 
 > [!method-scope] 方法范围
-> - **研究对象** 已知关键特征（如性别、社会经济地位、族裔）的总体
+> - **研究对象** 已知关键特征（如性别、[[Socioeconomic Status|社会经济地位]]、族裔）的总体
 > - **问题类型** 需要对关键子组进行均衡比较或确保子组代表性的研究
 > - **[[Unit of Analysis\|分析单位]]** 个体，按预设特征分组
 > - **输出形式** 各层分别具有代表性的概率样本

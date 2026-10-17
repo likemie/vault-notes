@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[René Descartes]]"
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[Otto Neurath]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # René Descartes

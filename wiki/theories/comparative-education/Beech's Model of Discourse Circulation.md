@@ -8,10 +8,10 @@ aliases:
 summary: "Jason Beech 结合伯恩斯坦话语再情境化理论与卡斯特流动空间建构的全球教育场域五位置模型，揭示话语在跨国流动中的过度简化、守门人垄断与实践脱节机制"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 49
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -49,6 +49,7 @@ related_concepts:
 related_theories:
   - "[[Network Society]]"
   - "[[Globalization from Below]]"
+  - "[[Recognition Theory]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Beech's Model of Discourse Circulation
@@ -194,7 +195,7 @@ updated: 2026-10-16
 > > 批评者认为该模型在呈现[[Discourse|话语]]流动时，主要强调了从全球学术空间到国际组织、再到国家和学校的自上而下渗透路径，对基层学校能否自下而上反哺本土乃至全球学术话语的关注不足。
 > >
 > > - **[[Globalization from Below|自下而上的全球化]]视角** 强调草根教师运动和跨国社会组织亦能逆向影响全球议程。
-> > - **[[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 351, 355)]]** 承认理论上存在本土学术反哺全球学术的双向互动，但指出在拉美等外围国家，资源严重不平等使得自上而下的单向渗透与空间闭合占据了压倒性现实统治。
+> > - **[[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 351, 355)]]** [[Recognition Theory|承认理论]]上存在本土学术反哺全球学术的双向互动，但指出在拉美等外围国家，资源严重不平等使得自上而下的单向渗透与空间闭合占据了压倒性现实统治。
 >
 > > [!axis] 模型国别普适性 vs 拉美特定历史制度依存
 > > [[Gatekeepers|守门人]]群体导致国家政策空间彻底闭合的命题，高度依赖于拉美国家特定的学术弱小性与对外部软贷款的极度依赖；在本土学术传统强劲、国家治理自主性高的大国（如中国、德国），该机制的表现形式存在显著差异。

@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epoché]]"
+  - "[[Intentionality]]"
   - "[[Tacit Knowledge]]"
   - "[[Paradigm Wars]]"
   - "[[Champ]]"
@@ -88,7 +89,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Interpretive Paradigm
@@ -140,7 +141,7 @@ updated: 2026-10-16
 在社会学思想史中，诠释范式由三大经典质性理论传统鼎足支撑（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, pp. 22–26）：
 
 > [!feature] 诠释范式的三大理论支柱
-> - **[[Phenomenology\|现象学]]（Phenomenology）** 奠基于胡塞尔与舒茨，致力于[[Epoché\|悬置]]天然态度，考察意识意向性、生活世界（Lifeworld）与主体间性，揭示行动者如何主动赋予现实以意义。
+> - **[[Phenomenology\|现象学]]（Phenomenology）** 奠基于胡塞尔与舒茨，致力于[[Epoché\|悬置]]天然态度，考察意识[[Intentionality|意向性]]、生活世界（Lifeworld）与主体间性，揭示行动者如何主动赋予现实以意义。
 > - **常人方法学（[[Ethnomethodology]]）** 创立于[[Harold Garfinkel\|哈罗德·加芬克尔]]（[[Harold Garfinkel]]），拒绝将社会成员视作“文化笨蛋”（Cultural Dopes），系统聚焦于日常生活的“惊人[[Indexicality\|索引性]]”（[[Indexicality]]）与[[Reflexivity\|反思性]]说明，将社会秩序视为成员持续达成的实践成就。
 > - **[[Symbolic Interactionism\|符号互动论]]（Symbolic Interactionism）** 奠基于[[George Herbert Mead\|乔治·赫伯特·米德]]（[[George Herbert Mead]]）与布鲁默，以面对面“互动本身为研究单位”，揭示行动者如何在[[Role-playing\|角色扮演]]与反思性内部对话中动态界定情境。
 

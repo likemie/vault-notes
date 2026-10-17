@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 107
+argument_related_count: 108
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
+  - "[[Socioeconomic Status]]"
   - "[[Theoretical Perspective]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
@@ -143,7 +144,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2023
 doi: ""
 citation_aliases:
@@ -346,7 +347,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 以往文献的证据（注意：以下均为已有[[Quantitative Research|量化研究]]的发现，非本书自身发现）：
 
-- **范皑皑和杨钋(2015)** 基于北京高校学生发展调查数据，发现在声望越好的学校，学生越倾向于选定一条出路去准备；家庭社会经济地位越高的学生，越倾向于早做准备；准备目标越明确者，职业成熟度越高（引范皑皑和杨钋, 2015）
+- **范皑皑和杨钋(2015)** 基于北京高校学生发展调查数据，发现在声望越好的学校，学生越倾向于选定一条出路去准备；家庭[[Socioeconomic Status|社会经济地位]]越高的学生，越倾向于早做准备；准备目标越明确者，职业成熟度越高（引范皑皑和杨钋, 2015）
 - **牛新春和郑雅君(2018)** 对某重点大学一届本科生历时三年的追踪调查，发现大学生生涯定向的发展轨迹从大二暑期就开始发生分化——大二暑期之后，生涯定向清晰度高的学生对高影响力活动的投入呈现出愈发明确的方向性（引牛新春和郑雅君, 2018）
 - **李忠路(2016)** 家庭背景对研究生教育机会获得有显著影响（引李忠路, 2016）
 - **李春玲(2012)** 基于 6 所 985 高校毕业生的调查，弱势家庭学生比优势家庭学生更倾向于选择就业而非升学，但就业结果却不及家境优势的同学（引李春玲, 2012）
@@ -1240,7 +1241,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 > **可能的批评**
 
 > - **供给侧的相对缺席** 全书着力于学生策略和意义建构（需求侧），对雇主歧视、行业结构变化、宏观经济波动等供给侧因素着墨较少
-> - **家庭背景的可[[Operationalization\|操作化]]** 四维度弱势指标（SES、城乡、地区、第一代大学生）内部差异较大，交叠计分方式简化了各维度的独特效应
+> - **家庭背景的可[[Operationalization\|操作化]]** 四维度弱势指标（[[Socioeconomic Status|SES]]、城乡、地区、第一代大学生）内部差异较大，交叠计分方式简化了各维度的独特效应
 > - **"转变"的充分性** 约半数直觉依赖者发生转变的结论令人鼓舞，但"转变"本身的标准和程度在书中未作严格界定——部分转变者可能仅在特定维度上趋近[[Goal-Controlled Mode\|目标掌控模式]]
 > - **[[Value Conformist Mode\|价值归顺]]的再解读** 价值归顺者的"成功"可能部分来自对家国叙事的服从性内化——这究竟是一种解放性的能动性发挥，还是一种对既有权力结构的再生产？书中未充分展开这一张力
 

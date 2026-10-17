@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Academic Achievement]]"
   - "[[Business as Usual]]"
+  - "[[Socioeconomic Status]]"
   - "[[Reliability]]"
   - "[[Research Translation]]"
   - "[[Engineered Evidence]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Research in Schools Evaluation
@@ -78,7 +79,7 @@ updated: 2026-10-16
 > - **骨干选拔与外部赋能** 各项目校推选 1–2 名骨干教师担任校内“研究骨干”（Research Leads），接受外部专业循证培训，学习如何检索、评估与解读因果实证文献。
 > - **校本证据级联与教研转化** 研究骨干负责对接学校数学与英语教研组，将经过验证的教学法证据转化为备课指南，开展主题工作坊并提供课例改进建议。
 > - **对照组设定** 对照组学校维持日常教学状态（[[Business as Usual]]），不设立专职研究骨干，正常开展校本教研活动。
-> - **因果评估控制** 采用校级层面的整群[[Random Assignment\|随机分配]]，平衡校际基线学业水平与社会经济背景，以保证因果效应估计的无偏性。
+> - **因果评估控制** 采用校级层面的整群[[Random Assignment\|随机分配]]，平衡校际基线学业水平与[[Socioeconomic Status|社会经济背景]]，以保证因果效应估计的无偏性。
 
 > [!citation-card] 戈拉德等对 RISE 项目实施瓶颈与成效的评述
 > 由英国国家社会研究中心主导的 RISE 评估项目针对中学开展，重点评估在 10 年级与 11 年级设立专职研究领头人的成效。试验面临的致命瓶颈是研究领头人的极高流失率。在为期两年的干预周期中，大量接受培训的核心教师因升迁、调动或离职而脱离岗位，导致校内证据传播链条频繁中断，学校组织记忆不断清零。最终呈现的学业因果效应极其微弱：干预组学生第一年数学[[Effect Size\|效应量]]仅为 0.09，第二年衰减为 0.04；英语学科效应量第一年仅为 0.05，第二年仅为 0.03。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]

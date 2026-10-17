@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -48,7 +48,8 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Construct]]"
   - "[[Bildung]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -94,7 +95,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称 20 世纪中叶前主导比较教育学的经典学术范式，其特征为推崇文化整体论、历史因果探寻、哲学观念比较与自由民主人文主义关怀。
-> - **用途** 帮助研究者摆脱 1960 年代行为主义与逻辑实证学派对学科历史的前科学标签化贬抑，重新认识人文主义与历史诠释学在比较教育学奠基中的核心贡献。
+> - **用途** 帮助研究者摆脱 1960 年代[[Behaviorism|行为主义]]与逻辑实证学派对学科历史的前科学标签化贬抑，重新认识人文主义与历史诠释学在比较教育学奠基中的核心贡献。
 > - **边界** 该母题不追求构建去情境化的普遍规律或因果预测公式，也不等同于纯粹描述外国制度现状的事实汇编，其分析聚焦于特定时空坐标中教育传统的精神底色与制度生成。
 
 > [!citation-card] 比较教育的人文科学性质与历史因果探寻

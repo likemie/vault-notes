@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 91
+method_related_count: 92
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Modern Industrial Policy]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Path Dependence]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Varieties of Capitalism]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Historical-Comparative Method
@@ -149,7 +150,7 @@ updated: 2026-10-16
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 秉持广义科学观（*Wissenschaft* / *Episteme*），认为严谨系统的历史事实考据、因果归纳与哲学阐释同样生产可靠的客观学术知识，反对将科学狭隘等同于数理统计与行为主义测量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
+> - **知识观** 秉持广义科学观（*Wissenschaft* / *Episteme*），认为严谨系统的历史事实考据、因果归纳与哲学阐释同样生产可靠的客观学术知识，反对将科学狭隘等同于数理统计与[[Behaviorism|行为主义]]测量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 > - **研究者角色** 具备深厚思想史与政治学修养的文化诠释者，既深入发掘历史个案的独特性与“内在生命”，又具备跨国横向比较的结构视野。
 > - **有效性标准** 史料考据的权威性与扎实度、情境解释的完整性与深度、因果机制推演的逻辑自洽性。
 > - **不声称回答的问题** 不声称提供脱离时空情境的普适因果定律，不提供短期政策工程的技术官僚预测参数。
@@ -223,7 +224,7 @@ updated: 2026-10-16
 >   - 史料散佚断裂、官方文献被高度意识形态化且缺乏第三方佐证的历史时期；
 >   - 容易诱发文化本质主义偏见与[[National Character|国民性格]]刻板印象的跨国对比研究。
 > - **不适合使用**
->   - 试图脱离社会历史情境推导放之四海皆准的普遍行为主义规律；
+>   - 试图脱离社会历史情境推导放之四海皆准的普遍[[Behaviorism|行为主义]]规律；
 >   - 追求短期精确预测与工程控制导向的技术官僚问责决策；
 >   - 单纯依赖去情境化数据指标进行跨国排名的实证评测。
 

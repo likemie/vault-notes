@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
+  - "[[Intentionality]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Fitness for Purpose]]"
@@ -70,6 +71,7 @@ related_concepts:
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Phenomenology]]"
+  - "[[Behaviorism]]"
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Observation Method]]"
@@ -104,7 +106,7 @@ related_facts:
   - "[[British Educational Research Association]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23
 
@@ -292,7 +294,7 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 
 > [!tension] 量化 vs [[Qualitative Observation\|质性观察]]
 > - **量化观察** 小范围焦点，将被观察者**碎片化**为可聚合为[[Variable\|变量]]的微小片段。适合假设验证和统计比较。
-> - **质性观察** 将研究者**拉入**参与者世界的[[Phenomenology\|现象学]]复杂性，情境展开，联系和因果在时间中可被观察。旨在捕捉**动态性**、**意向性**和**趋势模式**（23.1 节）。
+> - **质性观察** 将研究者**拉入**参与者世界的[[Phenomenology\|现象学]]复杂性，情境展开，联系和因果在时间中可被观察。旨在捕捉**动态性**、**[[Intentionality|意向性]]**和**趋势模式**（23.1 节）。
 
 ---
 
@@ -486,7 +488,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 #### 结构化观察的批评
 
 > [!critique] 结构化观察的五项局限性
-> - **行为主义取向** 排除被观察者的意图或动机，只关注可观察的外显行为
+> - **[[Behaviorism|行为主义]]取向** 排除被观察者的意图或动机，只关注可观察的外显行为
 > - **主体性丧失** 个体被还原为聚合分数，失去了独特性和丰富性
 > - **推断效度问题** 假设观察到的行为提供了潜在感受、意图或动机的证据，概念或构念被粗略地以观察到的行为来测量。这直接触及效度的核心：推断特定行为指示特定心理状态、特定意图或特定动机，这样做**有效吗**？
 > - **忽视情境** 忽视时间性和空间性情境的意义，忽略了行为可能是情境特定的。只关注外显和可观察的事物，可能忽视具有重要意义的**非预期结果**

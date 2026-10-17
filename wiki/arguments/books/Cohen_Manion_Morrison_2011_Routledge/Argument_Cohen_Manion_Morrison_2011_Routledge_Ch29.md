@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Emergence]]"
   - "[[Research Purpose]]"
+  - "[[Intentionality]]"
   - "[[Abstract]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
@@ -313,7 +314,7 @@ updated: 2026-10-17
 ### 29.3 叙事与传记进路
 
 > [!info] 故事作为意义与思考的形式
-> 布鲁纳（Jerome Bruner, 1986）指出人类以故事文本（storied text）制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与生活现实，即主观景观（subjective landscapes）。故事以隐喻为起点并经由可验证数据转变成经验陈述；它们使熟悉之物变得陌生，从显而易见中解救出来（rescue it from obviousness），并要求读者填补空白，因而是一种互动媒介（pp. 14, 19, 24, 29）。（29.3）
+> 布鲁纳（Jerome Bruner, 1986）指出人类以故事文本（storied text）制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与生活现实，即主观景观（subjective landscapes）。故事以隐喻为起点并经由可验证数据转变成经验陈述；它们使熟悉之物变得陌生，从显而易见中解救出来（rescue it from obviousness），并要求读者填补空白，因而是一种互动媒介（pp. 14, 19, 24, 29）。（29.3）
 
 > [!info] 叙事的个性化与心理功能
 > 故事个性化概括（Gibbs, 2007, p. 57）且以证据为基础；它们抓住事件随时间展开的时间顺序，据此推断因果，并带有精心选词所产生的戏剧性力量（dramatic and dramaturgical power）。叙事不仅传递信息，还使信息生动起来。正如诗人帕斯捷尔纳克（Pasternak）所言，事件在行进途中着火（catch fire），即经由对个人经历、戏剧性事件乃至一系列活动、行为或人物随时间简单展开的报告。
@@ -561,7 +562,7 @@ updated: 2026-10-17
 ## 关键引用
 
 > [!citation-card]- Bruner 论故事作为意义与思考的形式
-> 人类以"故事文本"制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。（29.3）
+> 人类以"故事文本"制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。（29.3）
 >
 > *Humans make meaning and think in terms of "storied text" which catch the human condition, human intentionality, the vividness of human experience very fully (Bruner, 1986, pp. 14, 19) and the multiple perspectives and lived realities ("subjective landscapes") of participants (p. 29).*
 

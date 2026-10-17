@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Research Universities]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[Dynamic Assessment]]"
   - "[[Market Failure]]"
   - "[[New Public Management]]"
   - "[[Paradigm]]"
@@ -82,7 +83,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Patient Capital
@@ -145,7 +146,7 @@ updated: 2026-10-16
 > - **国家层级能力（State Capabilities）** 建立抵御短期政治周期干扰的法定投资自主权，通过民主审议为长期战略资本配置构建社会合法性。
 > - **政策层级能力（Policy Capabilities）** 统筹长期研发资助、战略公共采购、产业税收优惠与金融规制，形成多维联动的政策支持组合（Policy Mixes）。
 > - **行政层级能力（Administrative Capabilities）** 吸纳懂技术、懂金融与懂公共治理的复合型人才，建立专业化资产组合管理与敏捷项目评估团队。
-> - **演化选择能力（Selection Capabilities）** 建立容许早期探索失败但能及时淘汰落后方案的动态评估机制，在社会反馈中持续优化资本配置效率。
+> - **演化选择能力（Selection Capabilities）** 建立容许早期探索失败但能及时淘汰落后方案的[[Dynamic Assessment|动态评估]]机制，在社会反馈中持续优化资本配置效率。
 
 ---
 

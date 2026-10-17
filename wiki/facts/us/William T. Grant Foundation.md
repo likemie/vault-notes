@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Democratising Evidence]]"
   - "[[Research Universities]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Discipline-Based Theory]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # William T. Grant Foundation
@@ -75,7 +76,7 @@ updated: 2026-10-16
 > - **成立时间与创设背景** 1936 年由美国大型连锁零售业企业家威廉·T·格兰特（William T. Grant）出资设立于纽约，初衷在于通过科学研究支持年轻一代身心健康与潜能发展。
 > - **总部地点与辐射网络** 总部设于美国纽约市曼哈顿，资助业务覆盖全美数百所顶尖[[Research Universities|研究型大学]]、智库、学区教育委员会及社区公益组织，并对跨国教育政策治理具有广泛[[Discourse|话语]]权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **法人属性与资助运作** 独立的非营利性私人慈善基金会，依托长期稳健的慈善捐赠基金运营，以发放竞争性同行评议研究资助（Grants）为主要业务形式。
-> - **核心使命与法定愿景** 支持针对 5–25 岁儿童与青少年的严谨高质实证研究，重点攻坚种族、族裔、社会经济地位与语言文化壁垒导致的不平等，使公共决策建立在真实可信的科学证据基础之上。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 220)]]
+> - **核心使命与法定愿景** 支持针对 5–25 岁儿童与青少年的严谨高质实证研究，重点攻坚种族、族裔、[[Socioeconomic Status|社会经济地位]]与语言文化壁垒导致的不平等，使公共决策建立在真实可信的科学证据基础之上。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 220)]]
 
 ---
 

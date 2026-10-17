@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"
+  - "[[Socioeconomic Status]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
@@ -223,7 +224,7 @@ citation_aliases:
 ### 论证步骤三：历史的沉默：神经推理与优生学、赤字话语的历史关联
 
 > [!claim] 步骤三主张
-> 政策文本对脑科学在历史上曾作为“压迫性技术”和“伪科学缺陷叙事”的黑暗历史保持绝对沉默。这种“科学确定性”极易在现实课堂中演变为针对低社会经济地位（Socio-Economic Status, SES）或少数族裔学生的缺陷标签，将社会不平等生理学化与遗传学化。
+> 政策文本对脑科学在历史上曾作为“压迫性技术”和“伪科学缺陷叙事”的黑暗历史保持绝对沉默。这种“科学确定性”极易在现实课堂中演变为针对低[[Socioeconomic Status|社会经济地位]]（Socio-Economic Status, SES）或少数族裔学生的缺陷标签，将社会不平等生理学化与遗传学化。
 
 > [!case] 神经推理与生物决定论的历史压迫案例
 > - **澳大利亚“被偷走的一代”** 在同化政策期间，脑部发育与“文明化能力”的伪科学学说曾被用作强行剥夺和同化原住民儿童的[[Social Science as Legitimation Alibi\|科学借口]]。

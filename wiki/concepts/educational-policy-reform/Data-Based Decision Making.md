@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Research Literacy]]"
   - "[[Research Translation]]"
+  - "[[Socioeconomic Status]]"
   - "[[Problem Finding]]"
   - "[[Formative Assessment]]"
   - "[[Technical Rationality]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Data-Based Decision Making
@@ -106,7 +107,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭社会经济地位等输入数据、[[Classroom Observation|课堂观察]]与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156–157)]]
+> - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭[[Socioeconomic Status|社会经济地位]]等输入数据、[[Classroom Observation|课堂观察]]与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156–157)]]
 > - **五阶段动态行动循环（Five-Stage Action Cycle）** 遵循设定目标 ➔ 收集数据（围绕成因假设展开） ➔ 分析与质检（数据转化为信息并升华为知识） ➔ 落实改进举措 ➔ 成效评估，包含未达预期时回溯前序步骤的反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **[[Data Team Intervention\|数据团队]]结构化支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 团队研发，每校遴选6至8名骨干教师与领导组建团队，在外部研究教练指导下遵循八步规程攻关真实学情难题，有效提升[[Data Literacy\|数据素养]]与协作技能。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 > - **定性与定量[[Triangulation\|三角验证]]（Triangulation of Evidence）** 依托教育者[[Data Literacy\|数据素养]]，交叉比对量化考试成绩与质性课堂观察、师生访谈记录，破除对单一终结性测验的绝对依赖。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]

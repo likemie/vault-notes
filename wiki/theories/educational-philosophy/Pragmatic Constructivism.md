@@ -7,7 +7,7 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Discovery Learning]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Action Research]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Pragmatic Constructivism
@@ -53,7 +54,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 学习的主动认知建构过程，以及理论与教学实践、课程设计之间的动态整合机制。
-> - **理论问题** 批判行为主义对学习行为的外在刺激控制，并试图弥合传统教育中“理论与实践”的二元割裂，探讨如何设计面向不确定未来的自我调整课程。
+> - **理论问题** 批判[[Behaviorism|行为主义]]对学习行为的外在刺激控制，并试图弥合传统教育中“理论与实践”的二元割裂，探讨如何设计面向不确定未来的自我调整课程。
 > - **理论类型** 学习理论、课程[[Analytic Framework\|分析框架]]。
 > - **知识位置**[[Constructivist Paradigm\|建构主义]]教育心理学分支。由芬兰教育学家麦雅莉萨·劳斯特-von Wright（Maijaliisa Rauste-von Wright）在赫尔辛基大学任教期间系统阐发。其理论谱系直接继承了美国[[Pragmatic Paradigm\|实用主义]]者[[John Dewey\|约翰·杜威]]（John Dewey）与[[George Herbert Mead\|乔治·赫伯特·米德]]（George Herbert Mead）的思想。
 

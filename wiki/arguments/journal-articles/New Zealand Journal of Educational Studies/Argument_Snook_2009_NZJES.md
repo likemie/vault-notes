@@ -45,6 +45,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Causality]]"
+  - "[[Socioeconomic Status]]"
   - "[[Educational Level]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
@@ -96,7 +97,7 @@ title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -243,7 +244,7 @@ journal: "New Zealand Journal of Educational Studies"
 #### 1. 忽略家庭与社会阶层影响导致过度夸大校内因素的作用
 
 > [!factors] 决定学生学业成就的关键校外背景变量
-> - **家庭社会经济地位与贫困状况** 父母[[Educational Level|受教育水平]]、家庭收入与居住环境深刻制约学生的学习资源与早期认知发展基底。（pp. 94–95）
+> - **家庭[[Socioeconomic Status|社会经济地位]]与贫困状况** 父母[[Educational Level|受教育水平]]、家庭收入与居住环境深刻制约学生的学习资源与早期认知发展基底。（pp. 94–95）
 > - **家庭健康、营养与医疗条件** 持续的物质保障直接影响儿童在校注意力、出勤率与精力投入。（p. 95）
 > - **文化背景与社区支持网络** 族群文化认同与社区教育环境为学生的学校适应提供了深层心理支撑。（pp. 95, 98）
 

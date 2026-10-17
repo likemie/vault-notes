@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Academic Attrition]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Habitus]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
@@ -70,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
@@ -226,7 +227,7 @@ source_language: en
 
 > [!chain-link] 证据到判断
 > - **日常居住与生活开支门槛** 上表 5 数据表明，供养一个孩子在县城上学消耗巨大，迫使父亲必须常年在外省大都市务工以获取汇款维持县城的陪读生活。(p.308) G 县县城的高额生活与住房成本构成了隐性的经济准入门槛，阻碍了弱势家庭进城。
-> - **课外补习与全面发展的二次筛选** 进城之后，陪读家庭在教育投资上出现了阶级分化。49% 的县城陪读家庭为孩子购买了课外辅导，其中 29% 参加了学业补习（每学期开支在 1,000 元至 2,000 元之间）；30% 的高社会经济地位的年轻父母为孩子报名了艺术、体育等兴趣班（每学期开支在 1,200 元至 2,800 元之间）以实现全人发展，而这种兴趣班在乡镇陪读家庭中仅有 4 例，在村小家庭中则为零。
+> - **课外补习与全面发展的二次筛选** 进城之后，陪读家庭在教育投资上出现了阶级分化。49% 的县城陪读家庭为孩子购买了课外辅导，其中 29% 参加了学业补习（每学期开支在 1,000 元至 2,000 元之间）；30% 的高[[Socioeconomic Status|社会经济地位]]的年轻父母为孩子报名了艺术、体育等兴趣班（每学期开支在 1,200 元至 2,800 元之间）以实现全人发展，而这种兴趣班在乡镇陪读家庭中仅有 4 例，在村小家庭中则为零。
 > - **经济限制的排斥效应** 问卷调查结果表明，60% 的村校非陪读家庭明确表示，之所以留在条件落后的村庄就学，是因为经济困难导致他们完全无力承担进城的生活与租房费用，这证实了经济资本对弱势阶层的首轮残酷筛选作用。
 
 > [!case] 中产阶级全人发展理念下的教育追加投资：李瑞家庭案例
@@ -451,7 +452,7 @@ source_language: en
 
 > [!finding-cards] 核心发现
 > 1. **[[School Choice\|择校]]迁移由城镇化政策而非市场化驱动** 中国农村的随迁[[Peidu\|陪读]]本质上是以住宅迁移为手段的择校实践，由地方政府强推农村学校合并与在县城扩建标准化公立学校的双重政策推拉所驱动，旨在通过教育资源集中来集聚人口并繁荣县城经济。(pp.303–304)
-> 2. **家庭社会经济地位决定了分层安置梯度** 量化回归分析证实了家庭资本拥有量对择校终点具有极强的分层效应，呈现出重点小学随迁、县城普通公立小学随迁、乡镇中心小学本地陪读以及农村学校留守非陪读的严格社会经济地位降序阶梯。(pp.309–310)
+> 2. **家庭[[Socioeconomic Status|社会经济地位]]决定了分层安置梯度** 量化回归分析证实了家庭资本拥有量对择校终点具有极强的分层效应，呈现出重点小学随迁、县城普通公立小学随迁、乡镇中心小学本地陪读以及农村学校留守非陪读的严格社会经济地位降序阶梯。(pp.309–310)
 > 3. **经济资本构成进城择校的首轮刚性过滤** 县城的基本生活与房租开销构成了一堵隐形高墙，阻挡了 60% 的底层非陪读农村家庭，使其在面临学校撤并后别无选择，只能滞留于办学条件持续恶化的村级小学。(p.308)
 > 4. **社会资本决定了重点小学的稀缺学位变现** 在不设行政选拔门槛且学校质量存在梯度的环境下，进入顶级重点学校的资格高度依赖家庭与公职人员或学校管理者的权力型熟人关系，[[Cultural Capital\|文化资本]]在该环境下则不得不让位于社会网络的交涉。(pp.308–309)
 
@@ -474,7 +475,7 @@ source_language: en
 > *Peidu, the school choice in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.*
 
 > [!citation-card]- 歧视性质的[[Institutional Displacement|制度置换]]
-> 基于户口的行政歧视正日益且隐蔽地被基于家庭社会经济地位的市场歧视所取代。(p.313)
+> 基于户口的行政歧视正日益且隐蔽地被基于家庭[[Socioeconomic Status|社会经济地位]]的市场歧视所取代。(p.313)
 >
 > *The administrative discrimination based on [[Hukou System\|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.*
 

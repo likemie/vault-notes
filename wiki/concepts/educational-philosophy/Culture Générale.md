@@ -8,7 +8,7 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
   - theme/comparative-education
   - country/france
 related_concepts:
+  - "[[Culture Générale]]"
   - "[[Faculty Psychology]]"
   - "[[Dual School System]]"
   - "[[General Education]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Culture Générale

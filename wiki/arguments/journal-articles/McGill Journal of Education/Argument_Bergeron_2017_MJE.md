@@ -10,7 +10,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Class Size]]"
   - "[[Grandes Ecoles]]"
+  - "[[Socioeconomic Status]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
@@ -49,7 +50,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2017
 doi: ""
 citation_aliases:
@@ -94,7 +95,7 @@ citation_aliases:
 >
 > **[[Class Size\|班级规模]]的案例** VL 中班级规模的效应量为正（d≈0.2，小班 > 大班）。但如果反转比较方向——比较[[Grandes Ecoles|大学校]]相对于小学校——效应量就会变成负数。此时 Hattie 的解释（"班级规模没有显著影响"）将完全不同，因为负面效应被视为"有害"。
 >
-> **社会经济地位的案例** SES 效应量为 d=0.59（富裕 > 贫穷）。但如果比较贫困学生与富裕学生，效应量变为 -0.59——"如果其它不变，这将是所有效应中最负面的"。随后，如何帮助缓解社会不平等的影响就成为值得研究的课题——例如借鉴芬兰的经验(Reinikainen, 2012)。"因此，Hattie 对效应的解释完全不是客观的"(p.242)。
+> **[[Socioeconomic Status|社会经济地位]]的案例** SES 效应量为 d=0.59（富裕 > 贫穷）。但如果比较贫困学生与富裕学生，效应量变为 -0.59——"如果其它不变，这将是所有效应中最负面的"。随后，如何帮助缓解社会不平等的影响就成为值得研究的课题——例如借鉴芬兰的经验(Reinikainen, 2012)。"因此，Hattie 对效应的解释完全不是客观的"(p.242)。
 >
 > ### 4. 三种效应量公式给出完全矛盾的排名
 >

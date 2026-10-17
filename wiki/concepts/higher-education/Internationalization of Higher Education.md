@@ -6,7 +6,7 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Global Citizenship]]"
   - "[[STEM Education]]"
+  - "[[Endogenous Privatisation]]"
   - "[[New Public Management]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Internationalization of Higher Education
@@ -97,7 +98,7 @@ updated: 2026-10-15
 > [!abstract]
 > - **理性转移** 从发展主义理性（现代化、能力建设、国际理解）转向市场理性（收入创造、机构声誉、市场份额），高等教育被重塑为出口产业([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.96–97]])
 > - **亚洲中产阶级教育消费** 亚洲中产阶级将西方教育视为地位标志和资本积累手段，推动了跨国教育中介产业的繁荣([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–96]])
-> - **内生私有化的国际化驱动** 国际学生学费成为主要收入来源后，政府削减公共拨款，推动公立大学采纳企业化运营模式——"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
+> - **[[Endogenous Privatisation|内生私有化]]的国际化驱动** 国际学生学费成为主要收入来源后，政府削减公共拨款，推动公立大学采纳企业化运营模式——"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
 > - **新自由主义政策嵌入** [[New Public Management\|NPM]] 理念、技术和实践从企业部门被广泛引入公立高等教育，以使其更像企业运作
 > - **COVID-19 暴露的矛盾** 疫情暴露了以新自由主义假设为基础的[[International Education\|国际教育]]商业模式的深层脆弱性——过度依赖亚洲中产阶级学生学费的西方大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.100–102]])
 
@@ -112,7 +113,7 @@ updated: 2026-10-15
 > [!success]
 > - 全球高等教育在学人数自本世纪初已翻倍以上，亚洲中产阶级是国际[[Student Mobility|学生流动]]的主要需求来源([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.89, 96]])
 > - 全球中产阶级 2016 年底约 32 亿人，新增中产阶级绝大多数在亚洲（Kharas, 2017, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.96]]）
-> - 澳大利亚大学在招收全额付费国际学生方面的成功使政府有底气推动其他市场导向政策，内生私有化成为公立高等教育的永久特征([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
+> - 澳大利亚大学在招收全额付费国际学生方面的成功使政府有底气推动其他市场导向政策，[[Endogenous Privatisation|内生私有化]]成为公立高等教育的永久特征([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
 > - COVID-19 疫情期间，许多亚洲国际学生回国，部分不太可能恢复海外学习，使严重依赖该收入来源的大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
 
 ## 争议与批评

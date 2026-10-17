@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Divergent Thinking]]"
   - "[[Literature Search]]"
+  - "[[Dynamic Assessment]]"
   - "[[Problem Solving]]"
   - "[[Cognitive Offloading]]"
   - "[[Task Structure]]"
@@ -107,7 +108,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Liu_2026_CHBR
 
@@ -266,7 +267,7 @@ updated: 2026-10-16
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig2_Forest_Plot_Overall.jpg)
 
 > [!warrant]- 理论推理桥梁
-> 总体中等效应确立了 AI 智能体在基础教育中的积极中介角色。与单向呈现预设材料的传统静态多媒体课件不同，AI 智能体具备感知学习者输入、动态评估错误并输出即时针对性反馈的双向交互能力。这种自适应交互有效充当了[[Lev Vygotsky\|维果茨基]]所谓的外部[[Scaffolding\|认知脚手架]]，帮助中小学生跨越[[Zone of Proximal Development\|最近发展区]]，实现更优的知识内化与技能演练。（pp.9–10）
+> 总体中等效应确立了 AI 智能体在基础教育中的积极中介角色。与单向呈现预设材料的传统静态多媒体课件不同，AI 智能体具备感知学习者输入、[[Dynamic Assessment|动态评估]]错误并输出即时针对性反馈的双向交互能力。这种自适应交互有效充当了[[Lev Vygotsky\|维果茨基]]所谓的外部[[Scaffolding\|认知脚手架]]，帮助中小学生跨越[[Zone of Proximal Development\|最近发展区]]，实现更优的知识内化与技能演练。（pp.9–10）
 
 > [!case] 步骤一典型实验案例剖析
 > - **跨学科[[Gamification\|游戏化]]自适应评估案例（Bachiri et al., 2023）** 针对 100 名摩洛哥高小学生的[[Experimental Research\|实验研究]]表明，嵌入智能评估算法的系统能够根据学生实时作答动态调整题项难度并给予即时矫正反馈，获得中等显著促进效应（$g = 0.68$）。

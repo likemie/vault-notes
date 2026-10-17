@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
+  - "[[Intentionality]]"
   - "[[Grandes Ecoles]]"
   - "[[Nature of Science]]"
   - "[[Phenomenon-Based Learning]]"
@@ -53,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Edmund Husserl
@@ -79,7 +80,7 @@ updated: 2026-10-16
 > [!timeline] 生平与职涯
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（ToMáš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
-> - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其意向性概念启发，决意终身转向哲学研究。
+> - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其[[Intentionality|意向性]]概念启发，决意终身转向哲学研究。
 > - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书心理学主义立场的严厉书评，促使其深刻反思并转向纯粹逻辑研究。
 > - **1900–1901年** 出版两卷本《逻辑研究》（*Logical Investigations*），系统性驳斥心理学主义，确立纯粹逻辑的客观理想性，标志着[[Phenomenology\|现象学]]作为独立哲学校派的正式诞生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
@@ -99,7 +100,7 @@ updated: 2026-10-16
 > [!thought-timeline] 思想发展
 > - **1890s–1900s — 描述性[[Phenomenology\|现象学]]阶段（Descriptive Phenomenology Phase）** 主要关注数学与纯粹逻辑基础，批判当时盛行的心理学主义（Psychologism）。
 >   - **代表著作** 《算术哲学》（*Philosophie der Arithmetik*, 1891）、《逻辑研究》（*Logical Investigations*, 1900/1901）。
->   - **关键概念／方法** 直觉（Intuition）、意向性（Intentionality）、范畴直观（Categorial Intuition）、部分与整体（Mereology）。
+>   - **关键概念／方法** 直觉（Intuition）、[[Intentionality|意向性]]（Intentionality）、范畴直观（Categorial Intuition）、部分与整体（Mereology）。
 >   - **阶段转向** 早期在《算术哲学》中尝试用描述心理学为数学奠基，但在弗雷格严厉批评后实现根本反思。通过《逻辑研究》系统摧毁了心理学主义，确立逻辑规律具有超验的客观理想性；同时将布伦塔诺的心理意向性改造为描述意识本质结构的分析工具。
 > - **1900s–1920s — 先验现象学阶段（Transcendental Phenomenology Phase）** 探寻人类认识的绝对无可置疑之基石，从经验描述转向先验唯心主义。
 >   - **代表著作** 《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*, 1913）、《[[René Descartes\|笛卡尔]]式的沉思》（*Cartesian Meditations*, 1931）。
@@ -158,7 +159,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 系统阐明了胡塞尔的悬置方法及先验意识三要素如何确立了自然主义与诠释性教育探究的认识论合法性。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] — 深入分析了胡塞尔的先验现象学、意向性及生活世界理论，如何作为芬兰跨学科现象本位学习（PhBL）核心哲学根源的演化与转译。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] — 深入分析了胡塞尔的先验现象学、[[Intentionality|意向性]]及生活世界理论，如何作为芬兰跨学科现象本位学习（PhBL）核心哲学根源的演化与转译。
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **师承／合作者**
->   - **弗朗茨·布伦塔诺（Franz Brentano）** 哲学启蒙导师，激发了胡塞尔对意向性概念的哲学思考。
+>   - **弗朗茨·布伦塔诺（Franz Brentano）** 哲学启蒙导师，激发了胡塞尔对[[Intentionality|意向性]]概念的哲学思考。
 >   - **卡尔·施图姆普夫（Carl Stumpf）** 授课资格论文导师，实验心理学先驱。
 >   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）** 柏林时期的数学导师，启发了将数学对象视为本质构造的思维方式。
 >   - **托马斯·加里格·马萨里克（ToMáš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其转向人文哲学思考并引介布伦塔诺。
@@ -200,7 +201,7 @@ updated: 2026-10-16
 >
 > > [!axis] 先验立场与历史主义（Historicism）的张力
 > > 学界争议胡塞尔晚期著作《欧洲科学的危机》中引入历史主义叙事是否削弱了现象学的超历史科学主张。
-> > - **莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）** 认为虽然悬置要求把世界放入括号，但人永远是“世界前反思地已在”的具身存在，而其晚期引入的科学史危机和生活世界讨论，实质上与其早期的反历史主义立场存在内在张力。但也有学者辩护称，历史在晚期现象学中依然仅作为先验自我的意向性特征呈现。
+> > - **莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）** 认为虽然悬置要求把世界放入括号，但人永远是“世界前反思地已在”的具身存在，而其晚期引入的科学史危机和生活世界讨论，实质上与其早期的反历史主义立场存在内在张力。但也有学者辩护称，历史在晚期现象学中依然仅作为先验自我的[[Intentionality|意向性]]特征呈现。
 
 > [!critique]- 批评索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 11]] — 探讨了在教育实施中，胡塞尔的先验反思常面临[[Operationalization\|操作化]]困难，容易在没有教师反思能动性介入的情况下，降维为一种去情境化、缺乏批判反思潜能的标准化技术性教学包。

@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 101
+method_related_count: 102
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
+  - "[[Socioeconomic Status]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[School Leadership]]"
@@ -218,7 +219,7 @@ updated: 2026-10-17
 > | **课程（Curricula）** | 阅读干预、数学方案、整合课程、户外项目 | 约 147 项元分析 | **$d = 0.45$** |
 > | **教学方法（Teaching）** | 反馈、[[Direct Instruction\|直接教学]]、合作学习、[[Metacognition\|元认知]]策略 | 约 332 项元分析 | **$d = 0.42$** |
 > | **学生（Student）** | 先前成就、动机倾向、自我概念、认知能力 | 约 141 项元分析 | **$d = 0.40$** |
-> | **家庭（Home）** | 社会经济地位、家庭环境、父母参与 | 约 33 项元分析 | **$d = 0.31$** |
+> | **家庭（Home）** | [[Socioeconomic Status\|社会经济地位]]、家庭环境、父母参与 | 约 33 项元分析 | **$d = 0.31$** |
 > | **学校（School）** | [[Class Size\|班级规模]]、校舍设施、[[Tracking\|分轨制]]、[[School Leadership\|学校领导]] | 约 127 项元分析 | **$d = 0.23$** |
 
 > [!tip] 影响气压计的四个判定区间

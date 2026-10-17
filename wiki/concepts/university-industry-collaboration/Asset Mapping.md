@@ -5,7 +5,7 @@ aliases:
 summary: "产学合作中系统梳理区域内利益相关者优势与需求的实践方法，本质为真实的关系建立，是 TUFF 创新中心六项优先领域之一，与创业活动相互强化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Park]]"
+  - "[[Intentionality]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-22
+updated: 2026-10-17
 ---
 
 # Asset Mapping
@@ -65,7 +66,7 @@ updated: 2026-09-22
 > **文化建设与自我评估** 资产映射作为文化建设（culture-building）的工具，通过持续倾听和向社区学习，帮助[[Innovation Hub\|创新中心]]建立自我评估的实践——不断衡量自身是否满足了多元利益相关者的需求，促进开放心态的创新与合作，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦（p.127）。
 
 > [!abstract]
-> **意向性空间布局与活动设计** 成功的创新中心对物理布局和活动设计做出有意识的选择。物理空间的安排应有意识地鼓励看似无关的学科相互接触——例如将工程实验室和商学院创业中心放在同一楼层、共用咖啡区。产学合作实践者一致报告，这些[[Placemaking\|场所营造]]和文化建设活动对他们的成功至关重要，也是他们决定入驻园区的关键考量之一（p.127）。协调的沟通配合物理密度，能够促成更自然的偶然相遇（serendipity）和协作。
+> **[[Intentionality|意向性]]空间布局与活动设计** 成功的创新中心对物理布局和活动设计做出有意识的选择。物理空间的安排应有意识地鼓励看似无关的学科相互接触——例如将工程实验室和商学院创业中心放在同一楼层、共用咖啡区。产学合作实践者一致报告，这些[[Placemaking\|场所营造]]和文化建设活动对他们的成功至关重要，也是他们决定入驻园区的关键考量之一（p.127）。协调的沟通配合物理密度，能够促成更自然的偶然相遇（serendipity）和协作。
 
 ---
 

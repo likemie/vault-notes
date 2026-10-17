@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Research Question]]"
+  - "[[Socioeconomic Status]]"
   - "[[Champ]]"
 related_theories:
   - "[[Situated Ethics]]"
@@ -88,7 +89,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05
 
@@ -1184,7 +1185,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > - 确保匿名、保密、不可追踪性；如果不可能则在事前告知参与者
 > - 说明如何实现匿名（如通过保密、数据聚合）
 > - 告知参与者数据收集、存储和销毁方式
-> - 确保对人的年龄、族裔、性别、文化、宗教、语言、社会经济地位的敏感性
+> - 确保对人的年龄、族裔、性别、文化、宗教、语言、[[Socioeconomic Status|社会经济地位]]的敏感性
 > - 从所有相关方获得许可用于准入
 > - 尊重脆弱性（如在访谈儿童或无权力者时）
 > - 商定受访者验证

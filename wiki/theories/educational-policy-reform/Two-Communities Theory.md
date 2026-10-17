@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Tacit Knowledge]]"
   - "[[Legislative Policy Brief]]"
+  - "[[Socioeconomic Status]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Champ]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Two-Communities Theory
@@ -168,7 +169,7 @@ updated: 2026-10-16
 > ```
 
 > [!exegesis]- 教育政策研究例子
-> 在大规模课程改革议题中，大学教育学院的研究学者通过严密的[[Quasi-Experimental Designs\|准实验设计]]指出：基于能力的课程实施受制于学校文化、教师专业信念与社区社会经济地位，效应量存在显著的异质性，不可草率全盘铺开。然而教育部行政官员受制于年度财政拨款与施政业绩问责，急需一套立即可行、全国统一的指导方案。此时，经合组织（OECD）作为跨国政策中介介入，将其研制的 [[Definition and Selection of Competencies\|DeSeCo]] 素养框架与 [[PISA]] 测评指标打包，将复杂的因果争议提炼为清晰易懂的核心素养图谱。教育部越过本土学者的审慎存疑，直接采纳 OECD 的标准化中介方案，印证了两社区鸿沟下中介机构的替代性运作。
+> 在大规模课程改革议题中，大学教育学院的研究学者通过严密的[[Quasi-Experimental Designs\|准实验设计]]指出：基于能力的课程实施受制于学校文化、教师专业信念与社区[[Socioeconomic Status|社会经济地位]]，效应量存在显著的异质性，不可草率全盘铺开。然而教育部行政官员受制于年度财政拨款与施政业绩问责，急需一套立即可行、全国统一的指导方案。此时，经合组织（OECD）作为跨国政策中介介入，将其研制的 [[Definition and Selection of Competencies\|DeSeCo]] 素养框架与 [[PISA]] 测评指标打包，将复杂的因果争议提炼为清晰易懂的核心素养图谱。教育部越过本土学者的审慎存疑，直接采纳 OECD 的标准化中介方案，印证了两社区鸿沟下中介机构的替代性运作。
 >
 > - **国会山两社区跨界例子（[[Russell J. Skiba\|斯基巴]]听证与上学时间经纪）** 罗素·斯基巴（Russell Skiba）出席众议院常设委员会听证会，将复杂的违纪停课不平等统计数据转化为直击零容忍政策弊端的法案拨款条款；弗吉尼亚学者将青少年睡眠节律证据编制成通俗工具包赋权选区家长游说州议员推迟上学时间，展现出研究者以专家证人或知识经纪人跨越两社区壁垒的实战效能。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–45)]]
 

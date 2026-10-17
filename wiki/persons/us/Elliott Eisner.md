@@ -7,7 +7,7 @@ summary: "斯坦福大学教育学与艺术学荣休教授、美国著名课程�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,7 +37,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Reliability]]"
   - "[[Effective Teaching]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Narrative Research]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Elliott Eisner
@@ -92,7 +93,7 @@ updated: 2026-10-16
 
 > [!work-line] 主要著作
 > - **1979 / 1994 — *The Educational Imagination: On the Design and Evaluation of School Programs*** 奠定其课程与评价理论大厦的经典专著，系统提出显性课程、[[Hidden Curriculum|隐性课程]]与虚无课程（Null Curriculum）的三维划分，提出教育批评框架。
-> - **1983 — *The Art and Craft of Teaching*** 论证教学是一门动态、非线性的艺术实践，批判狭隘行为主义对课堂丰富人文可能性的粗暴剪裁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
+> - **1983 — *The Art and Craft of Teaching*** 论证教学是一门动态、非线性的艺术实践，批判狭隘[[Behaviorism|行为主义]]对课堂丰富人文可能性的粗暴剪裁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
 > - **1991 — *The Enlightened Eye: Qualitative Inquiry and the Enhancement of Educational Practice*** 详述教育鉴赏者如何以敏锐洞察力捕捉教育微观情境中的微妙质感。
 > - **2002 — *The Arts and the Creation of Mind*** 论证艺术感知对人类高阶认知、批判性反思与整体性理解的不可替代价值。
 
@@ -123,7 +124,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **思想渊源** [[John Dewey]] — 继承杜威经验自然主义、艺术即经验的哲学精髓。
-> - **学术论敌** 行为主义目标派（如 Mager, Popham）及[[Positivism|实证主义]]技术[[Disciplina and Doctrina|规训]]论者（如 [[David Carnine]]） — 围绕课程目标能否被预先行为化、教学是否属于流水线技术操作展开深刻论战。
+> - **学术论敌** [[Behaviorism|行为主义]]目标派（如 Mager, Popham）及[[Positivism|实证主义]]技术[[Disciplina and Doctrina|规训]]论者（如 [[David Carnine]]） — 围绕课程目标能否被预先行为化、教学是否属于流水线技术操作展开深刻论战。
 > - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
 
 ---

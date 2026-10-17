@@ -42,6 +42,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Open-Mindedness]]"
   - "[[Problem Finding]]"
+  - "[[Socioeconomic Status]]"
   - "[[Threshold Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Executive Function]]"
@@ -107,14 +108,14 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -169,7 +170,7 @@ issuing_organization: ""
 > | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括[[Problem Finding\|问题发现]]、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding\|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
 > | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | [[Consensual Assessment Technique\|同感评估技术]]（Consensual Assessment Technique, CAT）、[[Creative Achievement Questionnaire\|自陈创造性成就问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
 > | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | [[Runco Ideational Behavior Scale\|伦科观念行为量表]]（Runco Ideational Behavior Scale, RIBS）、综合创造潜能评估包、教师综合创造力[[Rating Scale\|评定量表]]。 |
-> | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、社会经济地位（Socioeconomic Status, SES）、年级水平。 |
+> | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、[[Socioeconomic Status\|社会经济地位]]（Socioeconomic Status, SES）、年级水平。 |
 > | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）与[[Threshold Hypothesis\|智力门槛假说]]检验、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
 > | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、[[Creative Self-Efficacy\|创造性自我效能感]]（Creative Self-Efficacy, CSE）。 |
 > | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、[[Creativity Training\|课程训练]]、教学法或显性指导语。 | [[Creative Problem Solving\|创造性问题解决模型]]（CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、问题驱动教学法（PBL）、跨学科科学、技术、工程、艺术与数学教学（Science, Technology, Engineering, Arts, and Mathematics, STEAM）、显性原创性指导语。 |

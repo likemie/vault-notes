@@ -10,7 +10,7 @@ title: "Argument_Downey_2016_SoE"
 argument_key: "Argument_Downey_2016_SoE"
 argument_display_title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Research Question]]"
+  - "[[Socioeconomic Status]]"
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
@@ -46,7 +47,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2016
 doi: ""
 citation_aliases:
@@ -59,7 +60,7 @@ citation_aliases:
 > 论文试图回答一个在教育社会学中悬而未决半个世纪的核心问题：学校与不平等之间的关系是什么？具体而言(p.1)：
 >
 > 1. 学校是简单地再生产已有的不平等，还是放大它们，还是帮助减少它们？
-> 2. 如何调和批判视角（学校再生产或加剧不平等）与[[Seasonal Comparison\|季节性比较]]证据（学校对 SES 认知技能差距是补偿性的）之间的矛盾？
+> 2. 如何调和批判视角（学校再生产或加剧不平等）与[[Seasonal Comparison\|季节性比较]]证据（学校对 [[Socioeconomic Status|SES]] 认知技能差距是补偿性的）之间的矛盾？
 > 3. 在教育社会学领域几乎完全忽视学校的补偿性潜力，这一系统性盲点的代价是什么？
 
 ## 理论框架
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > 2. **展示[[Seasonal Comparison\|季节性比较]]的方法论优势**(pp.4–5)：该方法一次性克服了这三个障碍——(a) 利用学年 vs 暑假自然分离学校与非学校效应，(b) 观察所有机制的净效应，(c) 以暑假作为无学校反事实的经验近似
 >
-> 3. **综合季节性比较证据** 一致的发现是 SES 认知技能差距在暑假期间增长更快，证明学校是补偿性的；BMI 模式类似；社交／行为技能呈中性；种族模式复杂且可能呈加剧性
+> 3. **综合季节性比较证据** 一致的发现是 [[Socioeconomic Status|SES]] 认知技能差距在暑假期间增长更快，证明学校是补偿性的；BMI 模式类似；社交／行为技能呈中性；种族模式复杂且可能呈加剧性
 >
 > 4. **提出[[Refraction Framework\|折射框架]]**(pp.5–7)：学校在不同不平等维度上扮演不同角色——它们可能对某些不平等是补偿性的，同时加剧另一些不平等
 >
@@ -102,7 +103,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - **SES 成就差距主要在学校入学前形成** ECLS-K 1998 数据显示，收入基础的 90/10 阅读差距在幼儿园至八年级间仅增长约 12%，数学差距实际上缩小了(Reardon, 2011, pp.7–8)
+> - **[[Socioeconomic Status|SES]] 成就差距主要在学校入学前形成** ECLS-K 1998 数据显示，收入基础的 90/10 阅读差距在幼儿园至八年级间仅增长约 12%，数学差距实际上缩小了(Reardon, 2011, pp.7–8)
 > - **加拿大 vs 美国比较的启示** 加拿大 4–5 岁儿童在 PPVT 阅读测试上已领先美国儿童 .31 SD——与 15–16 岁 [[PISA]] 阅读差距（.30 SD）几乎相同——暗示国际考试成绩差距可能在正式学校入学前已基本确定(Merry, 2013, pp.7–8)
 > - **教师／[[School Effectiveness|学校有效性]]的分布可能与社会经济地位弱相关** 当更严格地分离学校效应后，服务于高 SES 和低 SES 儿童的学校在促进学习方面的差异可能很小甚至不存在(Downey, von Hippel & Hughes, 2008, Lauen & Gaddis, 2013, pp.8–9)
 > - **缩小差距需要的不只是平等化学校质量** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境，那么缩小差距需要的不是将低 SES 学校提升到高 SES 学校水平——而是需要为低 SES 儿童创造**显著优于**高 SES 儿童的学校学习环境(p.9)
@@ -128,7 +129,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > 论文自身承认的局限(Downey & Condron)：
 >
-> - 补偿性证据目前仅针对 SES 认知技能差距和 BMI——对其他结果的效应未知
+> - 补偿性证据目前仅针对 [[Socioeconomic Status|SES]] 认知技能差距和 BMI——对其他结果的效应未知
 > - [[Seasonal Comparison\|季节性比较]]方法的假设（无处理溢出、等距量表、暑假作为有效[[Counterfactual\|反事实]]）值得更多学术讨论
 > - 学校补偿性是否随非学校环境不平等的加剧而线性增加？在极端不平等条件下，学校补偿能力是否有一个极限？
 > - 论文对美国语境的关注——[[Refraction Framework\|折射框架]]在其他教育系统和制度环境中的适用性需要跨国验证

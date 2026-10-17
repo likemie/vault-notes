@@ -6,7 +6,7 @@ aliases:
 summary: "Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,8 +28,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[Herbert Walberg]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
 related_facts:
@@ -43,7 +42,7 @@ updated: 2026-10-17
 ## 核心命题
 
 > [!info] 核心命题
-> [[Herbert Walberg|Walberg]] 的教育生产力模型提出，学生[[Academic Achievement\|学业成就]]和态度受九类因素影响，涵盖 aptitudinal（学生自身特征）、instructional（教学过程）和 environmental（环境条件）三个维度。该模型主要基于量化合成的证据，试图识别哪些因素持续且广泛地影响学生学习([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
+> Walberg 的教育生产力模型提出，学生[[Academic Achievement\|学业成就]]和态度受九类因素影响，涵盖 aptitudinal（学生自身特征）、instructional（教学过程）和 environmental（环境条件）三个维度。该模型主要基于量化合成的证据，试图识别哪些因素持续且广泛地影响学生学习([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
 >
 > Walberg（1984）将这一模型表述为改进美国学校生产力的框架，其核心假设是通过识别和优化这些关键因素，可以系统性地改善教育结果。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Thomas Theorem]]"
+  - "[[Behaviorism]]"
   - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -66,7 +67,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Symbolic Interactionism
@@ -77,7 +78,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 人类在日常生活与面对面微观交往中主观意义的赋予、自我的形成、[[Thomas Theorem|情境定义]]以及行动协调机制。
-> - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与[[Structural Functionalism|结构功能主义]]外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
+> - **理论问题** 彻底扬弃[[Behaviorism|行为主义]]刺激-反应（S-R）的被动假定与[[Structural Functionalism|结构功能主义]]外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
 > - **理论类型** 微观社会学理论、[[Interpretivism|解释主义]]与[[Interpretive Paradigm|诠释范式]]核心基石、社会心理学互动[[Analytic Framework|分析框架]]。
 > - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove|戈夫]]曼（[[Erving Goffman]]）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
 
@@ -100,7 +101,7 @@ updated: 2026-10-16
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[George Herbert Mead|乔治·赫伯特·米德]]在芝加哥大学讲授社会心理学，其思想在身后由学生整理出版为奠基巨著《心灵、自我与社会》（*Mind, Self, and Society*, 1934）；赫伯特·布卢默（Herbert Blumer）在 1937 年创造“符号互动论”（Symbolic Interactionism）一词，并在 1969 年出版《符号互动论：视角与方法》（*Symbolic Interactionism: Perspective and Method*），正式系统化三大核心公设。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 25)]]
-> - **原初问题** 当时社会学与心理学深陷机械唯物主义与本能论泥潭：要么将人类行为归结为刺激-反应条件反射（行为主义），要么视作不可抗拒的宏观结构强力与制度规范的被动内化（功能主义）。米德旨在解释：具有反思能力与自由意志的人类心智（Mind）与自我（Self）究竟如何在社会交往中产生。
+> - **原初问题** 当时社会学与心理学深陷机械唯物主义与本能论泥潭：要么将人类行为归结为刺激-反应条件反射（[[Behaviorism|行为主义]]），要么视作不可抗拒的宏观结构强力与制度规范的被动内化（功能主义）。米德旨在解释：具有反思能力与自由意志的人类心智（Mind）与自我（Self）究竟如何在社会交往中产生。
 > - **理论资源与材料** 吸收了美国[[Pragmatic Paradigm|实用主义]]哲学（查尔斯·桑德斯·皮尔士、威廉·詹姆士、[[John Dewey|约翰·杜威]]）的行动与工具论，结合库利（Charles Horton Cooley）的“镜中我”（looking-glass self）概念。
 > - **形成路径** 从“有意义姿态”（significant gestures）的演进切入，揭示出人类语言符号的特殊功能在于能够激起互动双方相同的反应；个体通过向自身做出指示并开展内部反思对话，在社会交往过程中历史性地形成自我。
 

@@ -9,7 +9,7 @@ summary: "美国认知科学家、哲学家与计算机科学家，普利策奖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Intentionality]]"
   - "[[Artificial General Intelligence]]"
   - "[[Stochastic Parrot]]"
 related_theories: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Douglas Hofstadter
@@ -66,14 +67,14 @@ updated: 2026-10-16
 > - **1975** 获得俄勒冈大学物理学博士学位。
 > - **1979** 出版跨学科巨著《哥德尔、艾舍尔、巴赫》（*Gödel, Escher, Bach*），次年荣获普利策奖与美国国家图书奖。
 > - **1988–至今** 担任印第安纳大学认知科学系讲座教授，领导类比与概念研究中心。
-> - **2023** 在大模型席卷全球之际发表长文反思人工智能浪潮，坚持人类意向性与类比洞察的不可替代性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 24)]]
+> - **2023** 在大模型席卷全球之际发表长文反思人工智能浪潮，坚持人类[[Intentionality|意向性]]与类比洞察的不可替代性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 24)]]
 
 ---
 
 ## 核心思想与学术批评
 
 > [!claim] 核心主张
-> 真正的认知与智慧植根于具身经历、自指意识与基于情境的深层类比能力，而非海量符号的统计相关性计算；依赖大规模语料吞吐的大语言模型仅能生成逼真的语言幻象，无法产生自发的意向性与概念创造。
+> 真正的认知与智慧植根于具身经历、自指意识与基于情境的深层类比能力，而非海量符号的统计相关性计算；依赖大规模语料吞吐的大语言模型仅能生成逼真的语言幻象，无法产生自发的[[Intentionality|意向性]]与概念创造。
 
 > [!debates] 霍夫施塔特对大模型的怀疑论争锋
 >

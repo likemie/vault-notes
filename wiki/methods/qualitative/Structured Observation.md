@@ -9,7 +9,7 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,9 +45,11 @@ related_arguments:
 related_instruments: []
 related_facts:
   - "[[World Bank]]"
+related_theories:
+  - "[[Behaviorism]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Structured Observation
@@ -180,7 +182,7 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 > [!method-limits] 方法局限
 > - **偏误来源** 观察类别的选择性（排除不在计划表上的行为）；观察者的期望效应；编码疲劳导致的不一致；反应性（被观察者知道被观察而改变行为）
-> - **适用边界** 方法是行为主义的，排除被观察者的意图或动机；个体的主体性被聚合分数所淹没；假设观察到的行为提供了潜在感受的证据，可能产生效度问题；忽视时间性和空间性等情境因素，行为可能是情境特定的；对行为采取一系列定格快照（freeze-frame snapshots），违反了行动的流动性原则（Stubbs & Delamont, 1976）
+> - **适用边界** 方法是[[Behaviorism|行为主义]]的，排除被观察者的意图或动机；个体的主体性被聚合分数所淹没；假设观察到的行为提供了潜在感受的证据，可能产生效度问题；忽视时间性和空间性等情境因素，行为可能是情境特定的；对行为采取一系列定格快照（freeze-frame snapshots），违反了行动的流动性原则（Stubbs & Delamont, 1976）
 > - **误用风险** 将[[Operationalization\|操作化]]指标等同于复杂[[Construct\|构念]]本身；在没有额外数据来源的情况下做出解释或[[Causality\|因果推断]]；忽视定格快照对行动流动性原则的违反
 > - **补救方式** 充分的预试和观察者培训；测量[[Inter-Rater Reliability\|评分者间信度]]（≥90%）；结合其他数据收集方法（如访谈）进行[[Triangulation\|三角互证]]；跟踪被观察者在不同情境和时段的完整行为画像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.2, 23.12 节]]）
 

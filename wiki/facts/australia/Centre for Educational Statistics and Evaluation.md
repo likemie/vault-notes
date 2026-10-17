@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - region/australia
 related_concepts:
   - "[[Grandes Ecoles]]"
+  - "[[Socioeconomic Status]]"
   - "[[Formative Assessment]]"
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Centre for Educational Statistics and Evaluation
@@ -72,7 +73,7 @@ updated: 2026-10-16
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2012–2015 — 创立与州级数据基建整合** 由珍妮·多诺万博士（Dr. Jenny Donovan）担任创设执行主任，系统整合全州学生学业评估、缺勤率与社会经济背景数据库，奠定全澳领先的州级教育行政大数据中台（Lewis & Hogan, 2019）。
+> - **2012–2015 — 创立与州级数据基建整合** 由珍妮·多诺万博士（Dr. Jenny Donovan）担任创设执行主任，系统整合全州学生学业评估、缺勤率与[[Socioeconomic Status|社会经济背景]]数据库，奠定全澳领先的州级教育行政大数据中台（Lewis & Hogan, 2019）。
 > - **2015–2020 — 《最有效实践》（What Works Best）标准输出与全州渗透** 推出全州公立学校学生与教师满意度综合监测项目“听我说”（*Tell Them From Me*），并持续发布与迭代《最有效实践：教师循证教学实践指南》，确立了涵盖显性教学、[[Formative Assessment\|形成性评估]]与[[Classroom Management\|课堂管理]]的八大循证基准。
 > - **2021 — 制度外溢与向国家机构（[[Australian Education Research Organisation\|AERO]]）输送核心班底** [[Comparative Education Society in Europe\|CESE]] NSW 的证据经纪模式被联邦政府《[[Gonski 2.0]]》审查报告吸收为国家模板；CESE 创设主任珍妮·多诺万正式被任命为国家级[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）的首任首席执行官，标志着地方行政证据中介正式向国家跨界网络跃升（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
 

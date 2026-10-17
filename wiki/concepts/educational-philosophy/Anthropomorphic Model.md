@@ -10,7 +10,7 @@ aliases:
 summary: "哈雷与塞科德在“人的科学”运动中提出的方法论模型，主张“为了科学的目的把人当作真正的人类对待”，赋予行动者能动性、意向性监控与生活叙事能力，以事件分析法取代行为主义机械模型。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
   - theme/human-agency
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Intentionality]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
   - "[[Paradigm]]"
@@ -39,7 +40,8 @@ related_concepts:
   - "[[Homework]]"
   - "[[Habitus]]"
   - "[[Voluntarism]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
@@ -50,6 +52,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
   - "[[Rom Harré]]"
+  - "[[B. F. Skinner]]"
   - "[[Carl Rogers]]"
   - "[[Basil Bernstein]]"
   - "[[Pierre Bourdieu]]"
@@ -60,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Anthropomorphic Model
@@ -70,7 +73,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **拟人化模型（Anthropomorphic Model）** 是[[Rom Harré\|罗姆·哈雷]]与保罗·塞科德（Rom Harré & Paul Secord, 1972）在批判传统实证心理学与行为主义“机械木偶模型”时提出的方法论模型。该模型主张在社会探究中必须“把人当作真正的人类来对待”（treat people as if they were human beings），将行动者视为具备[[Reflexivity\|反思性]]自我监控、意向性赋意、能动选择与自我安排行动能力的自治主体，倡导通过分析特定情境中的社会事件（[[Social Episodes]]）与当事人的理由说明（[[Accounts]]）来[[Decodification\|解码]]人类行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
+> **拟人化模型（Anthropomorphic Model）** 是[[Rom Harré\|罗姆·哈雷]]与保罗·塞科德（Rom Harré & Paul Secord, 1972）在批判传统实证心理学与[[Behaviorism|行为主义]]“机械木偶模型”时提出的方法论模型。该模型主张在社会探究中必须“把人当作真正的人类来对待”（treat people as if they were human beings），将行动者视为具备[[Reflexivity\|反思性]]自我监控、[[Intentionality|意向性]]赋意、能动选择与自我安排行动能力的自治主体，倡导通过分析特定情境中的社会事件（[[Social Episodes]]）与当事人的理由说明（[[Accounts]]）来[[Decodification\|解码]]人类行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会科学研究中将行动者还原为拥有完整人格、反思理智与能动意志的真实人类，而非外界刺激的被动反应器。
@@ -91,7 +94,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 拟人化模型与行为主义刺激—反应模型的[[Paradigm\|范式]]对立
+> [!contrast-table] 拟人化模型与[[Behaviorism|行为主义]]刺激—反应模型的[[Paradigm\|范式]]对立
 > | 比较维度 | 拟人化模型（Anthropomorphic Model） | 行为主义模型（Behaviouristic Model） |
 > |---|---|---|
 > | **基本人性观** | 能动的自身行动发起者，具自由意志与反思[[Creativity\|创造力]] | 受外部环境[[Variable\|变量]]或生理驱力支配的被动响应器 |
@@ -133,7 +136,7 @@ updated: 2026-10-16
 
 ### 命题一　拟人化模型将反思性自我监控确立为人类行动的本体论特质
 
-二十世纪六七十年代，以斯金纳（B. F. Skinner）为代表的操作性行为主义在教育心理学与社会科学中占据统治地位，将学习过程简化为外在强化强加于被动有机体的机械链条。哈雷与塞科德（Harré & Secord, 1972）出版的《社会行为的解释》，向这种机械[[Determinism|决定论]]发起了根本性的[[Epistemology|认识论]]宣战。他们指出，社会心理学必须采纳拟人化模型，承认人类行动者天生具备反思能力与意向性能力。正如布勒与艾伦（Buhler & Allen, 1972）以及[[Carl Rogers|卡尔·罗杰斯]]的人本主义心理学所强调的，研究者必须关注作为有机整体的“全人”（whole person）。这种将人类尊严与能动性重新注入科学研究的理论转向，为后续整个自然主义与[[Interpretive Paradigm|诠释范式]]的蓬勃兴起奠定了关键的人性[[Ontology|本体论]]根基。
+二十世纪六七十年代，以[[B. F. Skinner|斯金纳]]（B. F. Skinner）为代表的操作性[[Behaviorism|行为主义]]在教育心理学与社会科学中占据统治地位，将学习过程简化为外在强化强加于被动有机体的机械链条。哈雷与塞科德（Harré & Secord, 1972）出版的《社会行为的解释》，向这种机械[[Determinism|决定论]]发起了根本性的[[Epistemology|认识论]]宣战。他们指出，社会心理学必须采纳拟人化模型，承认人类行动者天生具备反思能力与[[Intentionality|意向性能力]]。正如布勒与艾伦（Buhler & Allen, 1972）以及[[Carl Rogers|卡尔·罗杰斯]]的人本主义心理学所强调的，研究者必须关注作为有机整体的“全人”（whole person）。这种将人类尊严与能动性重新注入科学研究的理论转向，为后续整个自然主义与[[Interpretive Paradigm|诠释范式]]的蓬勃兴起奠定了关键的人性[[Ontology|本体论]]根基。
 
 ### 命题二　事件分析法与当事人叙事彻底颠覆实验室受控编码的机械假象
 
@@ -162,4 +165,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿[[Classroom Observation|课堂观察]]与事件分析章节，深入剖析师生微观互动的意义阐释机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学[[Behaviorism|行为主义]]模型的批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿[[Classroom Observation|课堂观察]]与事件分析章节，深入剖析师生微观互动的意义阐释机制。

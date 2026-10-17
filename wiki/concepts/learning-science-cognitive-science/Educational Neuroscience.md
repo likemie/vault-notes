@@ -11,7 +11,7 @@ aliases:
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Initial Teacher Training]]"
   - "[[Scientific Method]]"
+  - "[[Socioeconomic Status]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Educational Neuroscience
@@ -93,7 +94,7 @@ updated: 2026-10-16
 > 2. **优生学（Eugenics）的历史阴影与神经推理的滥用**
 >    神经推理（neurological reasoning）在历史上曾多次作为压迫性技术的科学外衣。例如，在澳大利亚历史上强制同化原住民儿童的“被偷走的一代”（Stolen Generations）政策中，以及在纳粹德国推行的大规模强制绝育和种族卫生政策中，脑生理学和生物学论证都曾被作为核心政策依据。将大脑科学作为毫无局限的科学真理进行政治推广，具有巨大的伦理和政治危险（Zeidman, 2020）。
 > 3. **隐性种族主义（Hidden Racism）与“缺陷思维”的固化**
->    过度依赖将人类体验简化为大脑[[Working Memory\|工作记忆]]容量的“赤字思维”，容易成为针对低社会经济地位（SES）或弱势背景学生的“隐性种族主义”（Gillborn, 2016）。它将社会资源匮乏和机会不平等造成的学业差距解释为学生“大脑生理结构或脑化学缺陷”，从而合理化了分流和排斥（Rose & Rose, 1976, p. 121）。
+>    过度依赖将人类体验简化为大脑[[Working Memory\|工作记忆]]容量的“赤字思维”，容易成为针对低[[Socioeconomic Status|社会经济地位]]（SES）或弱势背景学生的“隐性种族主义”（Gillborn, 2016）。它将社会资源匮乏和机会不平等造成的学业差距解释为学生“大脑生理结构或脑化学缺陷”，从而合理化了分流和排斥（Rose & Rose, 1976, p. 121）。
 > 4. **新监管网络与技术官僚的商业捕获**
 >    将教育脑科学化极易沦为一种新型的压迫性治理技术（oppressive technologies, Rose & Rose, 1976），通过强制性大纲认证和评估系统建立起对教师与学生的严密监视与训诫网络。此外，许多在政策游说中强推脑科学教育的中介组织缺乏认知神经科学方面的正式学术训练，而是倾向于代理特定的商业利益，推销现成的脑力培训方案以赚取红利（Choudhury & Wannyn, 2022）。
 

@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - method/longitudinal-study
 related_concepts:
   - "[[STEM Education]]"
+  - "[[Socioeconomic Status]]"
   - "[[Practical Inquiry in Science Education]]"
   - "[[Science Capital]]"
 related_arguments:
@@ -34,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # UK Science Education Tracker
@@ -57,7 +58,7 @@ updated: 2026-10-16
 > - **44% → 37% → 26%** 英格兰 14–16 岁中学生中，至少每两周进行一次动手实验操作的比例在七年内暴跌 18 个百分点，实证探究课时面临腰斩式衰减。（p. 33）
 > - **43%** 的科学教师明确指出物理、数学等专业对口师资的匮乏直接损害了学生的学习质量。（p. 35）
 
-除上述比例之外，高社会经济地位家庭学生的科学抱负显著高于弱势背景同龄人，且在课外科技活动参与度上的差距持续拉大（p. 32）；A-level 物理与计算机学科中女性选修比例长期低迷，亟待通过呈现跨学科实际应用以增强吸引力。
+除上述比例之外，高[[Socioeconomic Status|社会经济地位]]家庭学生的科学抱负显著高于弱势背景同龄人，且在课外科技活动参与度上的差距持续拉大（p. 32）；A-level 物理与计算机学科中女性选修比例长期低迷，亟待通过呈现跨学科实际应用以增强吸引力。
 
 ---
 
@@ -77,4 +78,4 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Practical Inquiry in Science Education]] | 概念 | 调查揭示了课堂动手实验课时持续严重萎缩的现实危机。 |
-> | [[Science Capital]] | 概念 | 提供了科学抱负受家庭社会经济背景分化的量化证据。 |
+> | [[Science Capital]] | 概念 | 提供了科学抱负受[[Socioeconomic Status\|家庭社会经济背景]]分化的量化证据。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中以理论作为整体导向透镜的方式，围绕性别、阶级、种族等边缘群体议题塑造研究问题、数据收集与分析，并提供行动或变革的呼吁"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Research Scope]]"
+  - "[[Socioeconomic Status]]"
   - "[[Research Problem]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Theoretical Standpoint
@@ -53,7 +54,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-1980 年代的[[Qualitative Research|质性研究]]通过拓宽[[Research Scope|研究范围]]并纳入理论透镜而发生了变革。理论立场引导研究者关注重要议题（如边缘化、赋权、压迫、权力）和研究对象（如女性、低社会经济地位群体、少数族裔和种族群体、性取向、残障），也指示研究者如何在质性研究中定位自己（如基于个人、文化和历史背景坦陈偏见），以及如何在最终报告中呈现（如通过与参与者合作避免进一步边缘化个体），并提出改善生活和社会的变革建议。在批判[[Ethnography|民族志]]中，研究者从一开始就以某一理论指导研究，该理论强调人们需要解放或批判压迫（Thomas, 1993）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])。
+1980 年代的[[Qualitative Research|质性研究]]通过拓宽[[Research Scope|研究范围]]并纳入理论透镜而发生了变革。理论立场引导研究者关注重要议题（如边缘化、赋权、压迫、权力）和研究对象（如女性、低[[Socioeconomic Status|社会经济地位]]群体、少数族裔和种族群体、性取向、残障），也指示研究者如何在质性研究中定位自己（如基于个人、文化和历史背景坦陈偏见），以及如何在最终报告中呈现（如通过与参与者合作避免进一步边缘化个体），并提出改善生活和社会的变革建议。在批判[[Ethnography|民族志]]中，研究者从一开始就以某一理论指导研究，该理论强调人们需要解放或批判压迫（Thomas, 1993）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])。
 
 ## 核心视角
 

@@ -6,7 +6,7 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 27
+instrument_related_count: 28
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Panopticism]]"
@@ -61,7 +62,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Assessment Tools for Teaching and Learning
@@ -144,7 +145,7 @@ updated: 2026-10-16
 > - **视觉界面的机械降格** 将复杂的育人过程简化为类似汽车油表或气压仪的单一刻度读数，剥离了教育的人文属性与伦理关怀，诱发对数据指标的数字崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 > - **管理问责的技术下沉** 表面上的自愿诊断工具在实际操作中极易演变为[[School Leadership|学校领导]]层评估教师合规度的刚性考核手段，成为 [[Global Education Reform Movement|GERM]] 在学校微观层面的数字规训工具（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）。
 
-> [!debates] 公共资产商业化与外生私有化争议
+> [!debates] 公共资产商业化与[[Exogenous Privatisation|外生私有化]]争议
 >
 > > [!axis] 公共税收研发成果转为私人专营与向公立校收费（RFP 商业化招标）
 > > 批判学者奥尼尔（[[John O'Neill]]）等揭示，asTTle 与其在线版本 e-asTTle 完全是由新西兰教育部公共税收全额资助、委托奥克兰大学[[John Hattie|约翰·哈蒂]]团队研发的国家公共测评基础设施。
@@ -163,7 +164,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | asTTle v2/v3 标准版与毛利双语版 | 新西兰 25,000 余名中小学生数学与阅读常模数据 | 基于全国大样本标定 [[Item Response Theory\|IRT]] 参数与 [[SOLO Taxonomy\|SOLO]] 分类学进阶台阶 | 论证目标设定、差距分析与时间序列增值评估如何打破惩罚性问责，赋权教师开展形成性教学 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | asTTle 系统技术架构与管理模块 | 政策技术文档分析与视觉谱系考证（Hattie et al., 2003） | 软件网络化监控架构与[[Barometer of Achievement\|气压计图表]]界面分析 | 揭示系统内置的全网管理监控功能与新泰勒制逻辑，考证其气压计图表向《[[Visible Learning\|可见的学习]]》的视觉迁移 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | e-asTTle 国家级在线测评系统 | 教育部商业化招标（RFP）文件与外包服务合同分析 | 国家公共教育数据资产的商业化招商与服务外包 | 揭露教育部拟将纳税人资助研发的 e-asTTle 转让给私营投资伙伴向学校收费谋利的外生私有化路径 |
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | e-asTTle 国家级在线测评系统 | 教育部商业化招标（RFP）文件与外包服务合同分析 | 国家公共教育数据资产的商业化招商与服务外包 | 揭露教育部拟将纳税人资助研发的 e-asTTle 转让给私营投资伙伴向学校收费谋利的[[Exogenous Privatisation\|外生私有化]]路径 |
 
 ---
 
@@ -204,7 +205,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合新西兰 25,000 名学生数学题库数据，论证如何利用 asTTle 的目标设定与诊断报告打破传统基于测试的惩罚性问责，重塑以教师为核心的循证形成性教学体系（pp. 11–21）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其[[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统调查新西兰教育部拟通过招标（RFP）将纳税人资助的 e-asTTle 系统转让给私营投资伙伴向学校收费的外生私有化事实。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统调查新西兰教育部拟通过招标（RFP）将纳税人资助的 e-asTTle 系统转让给私营投资伙伴向学校收费的[[Exogenous Privatisation|外生私有化]]事实。
 
 ---
 

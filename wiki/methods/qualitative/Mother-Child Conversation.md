@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - region/east-asia
   - region/western
 related_concepts:
+  - "[[Socioeconomic Status]]"
   - "[[Student Attitude]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
@@ -51,7 +52,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Mother-Child Conversation
@@ -97,7 +98,7 @@ updated: 2026-10-16
 > [!example]
 > Li and Heidi Fung 的 MCC 研究设计如下([[Argument_Li_2012_Cambridge\|Li, 2012]])：
 
-- **样本** 200 组母子（100 组欧裔美国 EA 中产家庭 + 100 组台湾 TW 中产家庭），社会经济背景可比
+- **样本** 200 组母子（100 组欧裔美国 EA 中产家庭 + 100 组台湾 TW 中产家庭），[[Socioeconomic Status|社会经济背景]]可比
 - **儿童年龄** 小学低年级（已有足够的学校经验理解"学习"是什么）
 - **对话主题** 每位母亲与儿童讨论**两个**真实的学习事件：
   - **好学习（good learning）** 儿童表现出良好[[Student Attitude|学习态度]]/行为的事件

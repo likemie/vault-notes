@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Patient Capital]]"
   - "[[Apprenticeship]]"
+  - "[[Dynamic Assessment]]"
   - "[[Operationalization]]"
   - "[[Learning Economy]]"
   - "[[National Innovation System]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Market Shaping and Creating
@@ -139,7 +140,7 @@ updated: 2026-10-16
 > - **市场结构重塑与首发托底（Market Structure Orchestration & First-Buyer Guarantee）** 国家在商业化元年通过 100% 采购托底从无到有创造市场，并坚持基于前沿技术指标而非垄断规模向敏捷新创企业发包，打破既有寡头垄断并催生高度竞争的产业生态（如美国国防采购培育非电子管新创企业占领近七成半导体市场）。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 > - **[[Policy Conditionalities|制度化附加条件]]与[[Public Value|公共价值]]护栏（Contractual Conditionalities & Guardrails）** 在实施大规模公共资助或税收抵免时，将托儿服务、现行工资、[[Apprenticeship|学徒制]]配额、超额利润分享、股票回购限制及社区利益计划法定嵌入合同契约，将公共投资转化为塑造包容性与高质量就业市场的操作性杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 > - **全价值链协同培育（Value Chain Orchestration）** 政策不仅支持上游基础研究，更贯穿中游技术试验、下游公共采购与应用场景示范，打通跨部门创新网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–811)]]
-> - **动态学习与反思型评估（Dynamic Learning and Reflexive Evaluation）** 摒弃静态成本收益核算，建立允许试错、鼓励组合式实验并持续反思调整的动态评估机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
+> - **动态学习与反思型评估（Dynamic Learning and Reflexive Evaluation）** 摒弃静态成本收益核算，建立允许试错、鼓励组合式实验并持续反思调整的[[Dynamic Assessment|动态评估]]机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 > - **收益与风险结构对称（Equitable Risk-Reward Distribution）** 确保公共部门在承担早期颠覆性技术研发失败风险的同时，通过股权、特许权使用费或公共品定价约束等机制分享创新成功带来的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---

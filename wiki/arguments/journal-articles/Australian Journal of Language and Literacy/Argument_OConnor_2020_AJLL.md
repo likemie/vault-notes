@@ -9,9 +9,9 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Australian Journal of Language and Literacy
 citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem. Australian Journal of Language and Literacy, 43(2), 141–151."
@@ -36,10 +36,12 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Language Experience Approach]]"
+  - "[[Socioeconomic Status]]"
   - "[[Positivism]]"
   - "[[Class Size]]"
   - "[[Direct Instruction]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -62,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2020
 doi: ""
 citation_aliases:
@@ -158,7 +160,7 @@ citation_aliases:
 > [!critique-method] [[Steven Stahl\|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
 > 史蒂芬·斯塔尔（Steven Stahl）与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl\|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献 (p.145)。但哈蒂在 15 年后出版《VL》时，依然对此分类漏洞未加任何纠正与说明。
 
-> [!case] Case 1: Brazziel and Terrell (1962) 行为主义“假全语言”研究
+> [!case] Case 1: Brazziel and Terrell (1962) [[Behaviorism|行为主义]]“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令 (p.144)。
 > W. F. 布拉齐尔（W. F. Brazziel）与 M. 泰瑞尔（M. Terrell, 1962）仅仅因为教师在活动中制作了反映儿童日常口头分享的“经验图表” (experience charts)，就被[[Steven Stahl\|斯塔尔]]与米勒归入全语言。这与古德曼倡导的以儿童为主体、反对机械切片的全语言哲学完全背道而驰。
 
@@ -173,7 +175,7 @@ citation_aliases:
 > 哈蒂在面对报告全语言产生极度负面效应（d = -0.65）的元分析时，完全放弃了方法论审查与学术警惕，选择性忽略了其中的计算错误以及作者强烈的右翼宗教政治偏见 (p.145)。
 
 > [!critique-data] 极端负面离群值与克拉申的数据重算 (Jeynes & Littell, 2000)
-> 威廉·杰恩斯（William H. Jeynes）与萨拉·利特尔（Sara W. Littell, 2000）报告低社会经济地位（Socioeconomic Status, SES）学生的纯全语言干预效果为 d = -0.65，是整个《VL》中最极端的负值之一，意味着全语言教学会导致学生严重的“倒退”（unlearning）(p.145)。
+> 威廉·杰恩斯（William H. Jeynes）与萨拉·利特尔（Sara W. Littell, 2000）报告低[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES）学生的纯全语言干预效果为 d = -0.65，是整个《VL》中最极端的负值之一，意味着全语言教学会导致学生严重的“倒退”（unlearning）(p.145)。
 > 斯蒂芬·克拉申（Stephen Krashen, 2002）对其原始研究重算后发现多处方向反转的计算错误：
 > - D. 卡林（D. Carline）与 J. 霍夫曼（J. Hoffman, 1976）从 **-0.23** 应修正为 **+0.68**；
 > - P. 兰姆（P. Lamb, 1972）从 **-0.75** 应修正为 **+0.44**；

@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,7 +41,8 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Growth]]"
   - "[[Proto-Scientific Motif]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
@@ -51,13 +52,14 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Victor Cousin]]"
   - "[[Jean-Jacques Rousseau]]"
-related_facts: []
+related_facts:
+  - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Esquisse d'un ouvrage sur l'éducation comparée
@@ -151,7 +153,7 @@ updated: 2026-10-16
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 指出朱利安在道德宗教与心智教育类目下的确频繁使用带有强烈赞赏色彩的修辞（如推崇[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]算法、批评死板教理问答），但将其完全判定为“不合格的科学”脱离了历史情境。（pp. 16–17）
 >
 > > [!axis] 自然实证科学 vs 欧洲大陆[[Geisteswissenschaften|精神科学]]（Human Sciences）
-> > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国行为主义量化实证观来机械裁剪朱利安的 19 世纪文本。
+> > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国[[Behaviorism|行为主义]]量化实证观来机械裁剪朱利安的 19 世纪文本。
 > >
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）

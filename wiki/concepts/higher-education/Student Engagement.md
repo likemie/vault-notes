@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -42,7 +42,8 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
@@ -60,7 +61,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Student Engagement
@@ -217,7 +218,7 @@ updated: 2026-10-16
 > > [!axis] 商业交互指标（Engagement Metrics） vs [[Epistemology\|认识论]]智力挣扎（[[Epistemic Friction]]）
 > > 教育技术界常将用户的在线时长、对话轮次与界面活跃度包装为“高度投入”。
 > >
-> > - **技术行为主义** 将使用频繁、回复快速与高满意度直接等同于高质量教学投入。
+> > - **技术[[Behaviorism|行为主义]]** 将使用频繁、回复快速与高满意度直接等同于高质量教学投入。
 > > - **认识论成熟立场（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** 批评这种表层投入切除了学生面对复杂问题时所必需的“思维摩擦”；若缺乏实质性的证据权衡与深层评价，高交互频次仅仅是逃避深度思考的伪投入。
 
 ---

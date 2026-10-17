@@ -4,13 +4,14 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Ontology]]"
+  - "[[Intentionality]]"
   - "[[Creativity]]"
   - "[[Anthropomorphic Model]]"
   - "[[Epoché]]"
@@ -50,12 +51,13 @@ related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
+  - "[[Behaviorism]]"
   - "[[Critical Theory]]"
   - "[[Critical Realism]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Voluntarism
@@ -65,7 +67,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **唯意志论（Voluntarism）**，亦称**唯意志主义**，是社会科学哲学主客观[[Analytic Framework\|分析框架]]中关于“人性本质（human nature）”的两大对立[[Ontology\|本体论]]公设之一（Burrell & Morgan, 1979, p. 8）。该假设坚决否定人类行为是外部环境刺激或内在生理驱力的被动机械反应，主张人类是自身行动的自主发起者（initiators of their own actions），具备自由意志（free will）、自我反思与意向性[[Creativity\|创造力]]；人在能动地理解、赋予世界意义并与他人交互的过程中，积极地生产和改造其所处的社会环境，而非环境的被动适应物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 8)]]
+> **唯意志论（Voluntarism）**，亦称**唯意志主义**，是社会科学哲学主客观[[Analytic Framework\|分析框架]]中关于“人性本质（human nature）”的两大对立[[Ontology\|本体论]]公设之一（Burrell & Morgan, 1979, p. 8）。该假设坚决否定人类行为是外部环境刺激或内在生理驱力的被动机械反应，主张人类是自身行动的自主发起者（initiators of their own actions），具备自由意志（free will）、自我反思与[[Intentionality|意向性]][[Creativity\|创造力]]；人在能动地理解、赋予世界意义并与他人交互的过程中，积极地生产和改造其所处的社会环境，而非环境的被动适应物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立行动者的主体能动地位，将人类实践视为受内在目的与未来期望引导的意向性行动。
@@ -168,7 +170,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与[[Geisteswissenschaften|精神科学]]，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
-> - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向行为主义机械客体观发起正面清算。
+> - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向[[Behaviorism|行为主义]]机械客体观发起正面清算。
 > - **1979 — 社会科学人性坐标经典确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将唯意志论明确定义为[[Subjectivism\|主观主义范式]]的人性基石，与[[Determinism\|决定论]]形成鲜明对照。
 > - **1980s 至今 — 结构与能动性的辩证综合** [[Anthony Giddens\|安东尼·吉登斯]]（[[Anthony Giddens]]）的结构化理论与[[Pierre Bourdieu\|皮埃尔·布迪厄]]的[[Habitus|惯习]]理论尝试超越单纯唯意志论与单纯决定论的二元对立，揭示能动性在结构约束中的生产机制。
 

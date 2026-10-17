@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Variable]]"
   - "[[Data Infrastructure]]"
+  - "[[Socioeconomic Status]]"
   - "[[Interaction Effect]]"
   - "[[Attrition]]"
   - "[[Rescaling]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # National Educational Panel Study
@@ -134,7 +135,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 核心学术与政策贡献
 > - **全生命周期能力轨迹刻画** 打破了传统单一年龄段横断测试的截面局限，首次精准揭示了从学龄前语言与认知基础到劳动力市场职业技能演化的纵向因果机制。
-> - **教育不平等的动态累积机制** 证实家庭社会经济地位（SES）对个体教育分流的影响不仅发生在小学毕业分流点，而是在学前、初高中毕业及高等教育入学各个关口持续产生累积性[[Interaction Effect\|调节效应]]。
+> - **教育不平等的动态累积机制** 证实家庭[[Socioeconomic Status|社会经济地位]]（SES）对个体教育分流的影响不仅发生在小学毕业分流点，而是在学前、初高中毕业及高等教育入学各个关口持续产生累积性[[Interaction Effect\|调节效应]]。
 > - **国家教育监测四大支柱的有机配合** 在德国[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]中，NEPS 与横断国际测评（[[PISA]]）、跨州标准比较（[[IQB-Bildungstrend]]）及全德教育报告（Nationaler Bildungsbericht）紧密咬合，构成了微观因果解释的核心数据来源（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---

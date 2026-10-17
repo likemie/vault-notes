@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Threats to External Validity]]"
   - "[[Interaction Effect]]"
+  - "[[Socioeconomic Status]]"
   - "[[Academic Achievement]]"
   - "[[Implementation Fidelity]]"
   - "[[Epistemic Stances]]"
@@ -163,7 +164,7 @@ updated: 2026-10-17
 > |:---|:---|:---|
 > | **多重处理干扰（Multiple-Treatment Interference）** | 观察到的积极效应是由多种并存的干预措施[[Interaction Effect\|交互作用]]导致，无法推广至单一孤立实施的情境 | 在研究设计中实施处理组件拆解分析（Component Analysis），排除复合干预混杂 |
 > | **跨情境推广性（Generality across Settings）** | 在特定场所（如大学附属示范校、高资源郊区学校）取得的效果能否在普通公立校或社区推广 | 系统记录场所类型、班级硬件、师生比及配套支持环境（如 WWC Review Guide 规范） |
-> | **跨被试推广性（Generality across Subjects）** | 效果是否适用于不同年龄、文化背景、社会经济地位（SES）或特殊需要的学生群体 | 详细描绘受试者的基线人口统计学与能力特征，防范样本同质化导致的推广错觉 |
+> | **跨被试推广性（Generality across Subjects）** | 效果是否适用于不同年龄、文化背景、[[Socioeconomic Status\|社会经济地位]]（SES）或特殊需要的学生群体 | 详细描绘受试者的基线人口统计学与能力特征，防范样本同质化导致的推广错觉 |
 > | **跨结果推广性（Generality across Outcomes）** | 在某一具体测量指标（如即时课堂行为）上的成功能否迁移至高阶[[Academic Achievement\|学业表现]]或远期素养 | 采用多维度结果测量集，细分近端结果（Proximal）与远端结果（Distal） |
 > | **实施者效应（Implementer Effect）** | 效果由极度热情的开发者亲自授课产生，常规一线教师难以复现相同[[Effect Size\|效应量]] | 考察由常规一线教师在自然教学状态下交付的干预忠实度（[[Implementation Fidelity\|fidelity of implementation]]） |
 

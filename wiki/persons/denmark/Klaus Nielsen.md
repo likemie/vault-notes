@@ -7,7 +7,7 @@ summary: "丹麦理论心理学家，社会实践学习与 Visible Learning 批�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,12 +26,14 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paideia]]"
   - "[[Didaktik]]"
+  - "[[Intentionality]]"
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Legitimation Crisis]]"
+  - "[[Behaviorism]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -52,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 简介
 
@@ -73,7 +75,7 @@ updated: 2026-10-16
 > - Klitmøller, J., & Nielsen, K. (2017). [[John Hattie]] som uddannelsesteoretiker—En kritik af teorien om synlig læring [John Hattie as educational theorist]. *Dansk pædagogisk tidsskrift*, (2), 3–15. — 对 VL 作为教育理论的系统批判
 > - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's [[Quantitative Research]]]. *[[Paideia]]*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判
 > - Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. *International Review of Theoretical Psychologies*, 1(1), 78–92. — 运用 Habermas [[Legitimation Crisis|合法化危机]]理论解释 VL 全球流行的英文理论分析
-> - Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. *Nordic Psychology*. — 以[[Technical Rationality\|技术理性]]为框架论证 Hattie 是教育理论家（而非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应进行 5 项[[Meta-analysis\|元分析]]逐项细读审查
+> - Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. *Nordic Psychology*. — 以[[Technical Rationality\|技术理性]]为框架论证 Hattie 是教育理论家（而非纯统计学家），追溯其[[Behaviorism|行为主义]]谱系（Skinner→Glaser→Hattie），对 VL 反馈效应进行 5 项[[Meta-analysis\|元分析]]逐项细读审查
 
 ## 核心思想
 
@@ -87,8 +89,8 @@ updated: 2026-10-16
 > Nielsen and Klitmøller (2021, NordPsych) 论证 VL 深受 Schön (1983, 1987) 所描述的 [[Technical Rationality\|技术理性]] 影响——将教学分解为可测量、可排名的技术干预，以手段-目的思维替代对教育目的的讨论（Nielsen & Klitmøller, 2021, pp. 81-82）。与 Rømer (2019) 将 VL 的理论基础解读为[[Radical Constructivism\|激进建构主义]]不同，Nielsen & Klitmøller 论证 VL 的内核是技术理性。
 
 
-> [!info] Hattie 的行为主义理论谱系（2021, NordPsych）
-> Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 教育理论中此前被忽视的行为主义传统，建立了一条自 Skinner → Glaser → Hattie (1987) 的清晰理论传承链。关键论证：Hattie 并非纯统计学家——他的统计方法选择（[[Effect Size\|效应量]]综合、[[Meta-analysis\|元分析]]）本身就是一种**理论选择**，反映了行为主义对可观察、可测量行为的承诺和对意向性的排除。
+> [!info] Hattie 的[[Behaviorism|行为主义]]理论谱系（2021, NordPsych）
+> Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 教育理论中此前被忽视的行为主义传统，建立了一条自 Skinner → Glaser → Hattie (1987) 的清晰理论传承链。关键论证：Hattie 并非纯统计学家——他的统计方法选择（[[Effect Size\|效应量]]综合、[[Meta-analysis\|元分析]]）本身就是一种**理论选择**，反映了行为主义对可观察、可测量行为的承诺和对[[Intentionality|意向性]]的排除。
 
 
 > [!info] 反馈元分析细读审查（2021, NordPsych）
@@ -125,7 +127,7 @@ updated: 2026-10-16
 >
 > - **2017** — 与 Klitmøller 以丹麦语发表早期批判，聚焦 VL 的理论和经验基础问题
 > - **2019** — 转向 VL 量化方法论的质量审查（丹麦语）
-> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas [[Legitimation Crisis|合法化危机]]理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality\|技术理性]]为[[Analytic Framework\|分析框架]]，系统追溯 Hattie 的行为主义理论谱系并对反馈[[Meta-analysis\|元分析]]进行细读审查（NordPsych）
+> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas [[Legitimation Crisis|合法化危机]]理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality\|技术理性]]为[[Analytic Framework\|分析框架]]，系统追溯 Hattie 的[[Behaviorism|行为主义]]理论谱系并对反馈[[Meta-analysis\|元分析]]进行细读审查（NordPsych）
 >
 > 其核心贡献在于从**理论功能**（而非方法论质量）角度解释 VL 的全球流行，与 Rømer (2018, 2019) 的哲学批判、[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 的方法论批判、[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的制度批判、[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 的分析[[Epistemology\|认识论]]批判和 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 的文化政治批判形成互补。
 

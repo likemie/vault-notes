@@ -51,6 +51,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Performance Indicators]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Pluralism]]"
   - "[[Theories of the Driving Forces]]"
   - "[[Critical Theory]]"
@@ -123,14 +124,14 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 95
+argument_related_count: 96
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -148,7 +149,7 @@ publisher: "Springer"
 > 欧洲作为现代科学、工业技术与公共教育体制的发源地，其比较教育学科在两百年来的形成、大学建制化与跨国扩散中，如何受到贯穿欧洲文明深层张力——多样性与统一性二分法的深刻制约？主要国家的大学教席与独立研究机构呈现怎样的学术地理分布？各级专业学会在学术自主、精英定位与行政实务之间如何竞合格局？学科在百年来经历了怎样的理论[[Paradigm|范式]]更迭？在地缘空间拓展（后殖民转型、冷战阵营对抗与跨区域实证研究）及政策咨询角色（中立的航海图模式、直接的体制干预与国际测评量化[[Disciplina and Doctrina|规训]]）上面临哪些抉择与[[Epistemology|认识论]]危机？（pp.87–89, 98–99）
 
 > [!claim] 核心主张
-> 欧洲比较教育学的百年演进，始终由多样性（以现代民族[[State Educational Sovereignty|国家教育主权]]与个殊学制为载体）与统一性（以共享精神文化遗产与欧洲一体化理想为载体）之间的辩证运动所驱动。在组织建制上，该学科形成了以英、德为双核心并向全欧扩散的学术网络，并在 1961 年通过确立跨国个人会员制创设了以学术自主和精英主义为特征的[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）；在理论范式上，欧洲学界始终坚守以历史考证与文化主义为主流的学术传统，未盲从北美的行为主义量化实证范式；在政策咨询定位上，形成了以劳威斯审慎中立的[[Navigation Metaphor in Comparative Education|航海隐喻]]与罗宾逊积极干预的改革规划为两极的光谱；而在当代全球化语境下，该学科正面临[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等大规模测评带来的经济主义治理压力、[[Intercultural Education|跨文化教育]]的合流挑战以及重返欧洲维度的务实制度转向。（pp.87–88, 91–92, 93–94, 95–96, 98–99）
+> 欧洲比较教育学的百年演进，始终由多样性（以现代民族[[State Educational Sovereignty|国家教育主权]]与个殊学制为载体）与统一性（以共享精神文化遗产与欧洲一体化理想为载体）之间的辩证运动所驱动。在组织建制上，该学科形成了以英、德为双核心并向全欧扩散的学术网络，并在 1961 年通过确立跨国个人会员制创设了以学术自主和精英主义为特征的[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）；在理论范式上，欧洲学界始终坚守以历史考证与文化主义为主流的学术传统，未盲从北美的[[Behaviorism|行为主义]]量化实证范式；在政策咨询定位上，形成了以劳威斯审慎中立的[[Navigation Metaphor in Comparative Education|航海隐喻]]与罗宾逊积极干预的改革规划为两极的光谱；而在当代全球化语境下，该学科正面临[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等大规模测评带来的经济主义治理压力、[[Intercultural Education|跨文化教育]]的合流挑战以及重返欧洲维度的务实制度转向。（pp.87–88, 91–92, 93–94, 95–96, 98–99）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪初至 21 世纪初，欧洲（以英、德为双核辐射全欧）比较教育在大学教席、独立研究所与学术学会中的建制化历程，及其理论范式与政策咨询功能的历史演进。（pp.87–91）
@@ -387,7 +388,7 @@ publisher: "Springer"
 
 > [!finding-cards] 欧洲比较教育学科演进的核心学术发现
 > - **统一性与多样性的结构性主轴** 欧洲比较教育学的百年脉络本质上由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动，并在当代重构为普遍主义与文化[[Pluralism|多元主义]]的张力。（pp.87–88）
-> - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向行为主义与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于[[Disciplinary Institutionalization|学科建制]]之外。（pp.93–94）
+> - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向[[Behaviorism|行为主义]]与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于[[Disciplinary Institutionalization|学科建制]]之外。（pp.93–94）
 > - **政策咨询从审慎航海转向技术官僚[[Disciplina and Doctrina|规训]]** 欧洲学界传统上以劳威斯的[[Navigation Metaphor in Comparative Education|航海隐喻]]抵御政治工具化，但在[[OECD|经合组织]]与大规模测评支配下，经济导向的证据治理迫使比较研究直接受制于行政目标与[[Performance Indicators|绩效指标]]。（pp.95–96）
 > - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在[[EU|欧盟]]超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
 

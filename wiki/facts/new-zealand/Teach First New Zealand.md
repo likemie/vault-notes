@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Initial Teacher Training]]"
+  - "[[Socioeconomic Status]]"
   - "[[Discourse]]"
   - "[[Incubation]]"
   - "[[Grandes Ecoles]]"
@@ -68,7 +69,7 @@ updated: 2026-10-17
 ## 计划定位与核心宗旨
 
 > [!claim] 核心定位
-> 新西兰先行者教育（Teach First New Zealand Ako Mātātupu, TFNZ）是 2011 年成立的独立注册教育慈善信托，作为全球先行者网络（Teach for All, TFA）的新西兰本土化实体，面向高[[Academic Achievement|学业表现]]的顶尖大学毕业生与职业转变专业人士，推行为期两年的基于就业的初级教师教育（[[Initial Teacher Training|Initial Teacher Education]], ITE）与领导力培养方案，专向低社会经济地位的公立学校输送师资。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 53)]]
+> 新西兰先行者教育（Teach First New Zealand Ako Mātātupu, TFNZ）是 2011 年成立的独立注册教育慈善信托，作为全球先行者网络（Teach for All, TFA）的新西兰本土化实体，面向高[[Academic Achievement|学业表现]]的顶尖大学毕业生与职业转变专业人士，推行为期两年的基于就业的初级教师教育（[[Initial Teacher Training|Initial Teacher Education]], ITE）与领导力培养方案，专向低[[Socioeconomic Status|社会经济地位]]的公立学校输送师资。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 53)]]
 
 > [!org-context] 机构背景
 > - **创设时间与发起方** 2010 年启动可行性研究，2011 年正式登记为慈善信托，2013 年迎来首批学员。由在英国接受过教师培训的教育企业家肖恩·萨顿（Shaun Sutton）与新西兰政商界人士联合发起。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Exogenous and Endogenous Variables]]"
   - "[[Conatus]]"
   - "[[Hypothesis]]"
+  - "[[Intentionality]]"
   - "[[Rashomon Effect]]"
   - "[[Multiplicity]]"
   - "[[Epistemology]]"
@@ -90,7 +91,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -499,7 +500,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 >
 > | # | 标准 | 说明 |
 > |---|------|------|
-> | 1 | 全面理论 | 拥抱意向性、能动性、互动和结构（微观与宏观因素） |
+> | 1 | 全面理论 | 拥抱[[Intentionality\|意向性]]、能动性、互动和结构（微观与宏观因素） |
 > | 2 | 解释全部要素 | 能解释现象的所有要素 |
 > | 3 | 贴合证据 | 比竞争理论更贴合待解释项（explanandum）和数据 |
 > | 4 | 独立检验 | 在不同于产生该理论和因果解释的语境和数据中得到检验 |

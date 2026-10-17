@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Growth]]"
   - "[[Hawthorne Effect]]"
+  - "[[Socioeconomic Status]]"
   - "[[Effective Teaching]]"
   - "[[Working Memory]]"
   - "[[Technical Rationality]]"
@@ -73,7 +74,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Learning Gain
@@ -122,7 +123,7 @@ updated: 2026-10-16
 > - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **标准化通用认知测试（Standardized Cognitive Assessments）** 运用脱离具体专业事实的[[Higher-Order Thinking Skills\|高阶思维]]测评工具（如 [[Collegiate Learning Assessment\|CLA+]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]]、[[Educational Testing Service\|ETS]] 档案），追踪[[Critical Thinking\|批判性思维]]、因果推理与[[Problem Solving\|问题解决]]的跨周期进阶。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **质性表现性量规与课程真实作品（Authentic Rubrics）** 追踪学生在学术论文、设计项目及毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的水平跨越，弥补客观测试对复杂学科素养的简化。
-> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生社会经济背景（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生[[Socioeconomic Status|社会经济背景]]（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!logic-map]- 学习增益的测量与转化逻辑链
 > ```mermaid

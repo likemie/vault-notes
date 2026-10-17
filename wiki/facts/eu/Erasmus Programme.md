@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Teacher Mobility]]"
   - "[[Lifelong Learning]]"
+  - "[[Dynamic Assessment]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Language Skills]]"
   - "[[Cultural Capital]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Erasmus Programme
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > - **制度演进与整合框架**
 >   - **1987–1994 年** 独立运作阶段，专注大学本科生双边交换试点；
 >   - **1995–2006 年** 纳入欧盟“[[Socrates|苏格拉底]]计划”（SOCRATES）整体行动框架的高等教育分支；
->   - **2007–2013 年** 深度整合进欧盟统摄性的“[[Lifelong Learning|终身学习]]计划”（Lifelong Learning Programme, LLP），与中小学夸美纽斯计划（COMENIUS）及职业教育达芬奇计划（LEONARDO DA VINCI）协同并进；
+>   - **2007–2013 年** 深度整合进欧盟统摄性的“[[Lifelong Learning|终身学习]]计划”（Lifelong Learning Programme, LLP），与中小学夸美纽斯计划（COMENIUS）及职业教育达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）协同并进；
 >   - **2014 年至今** 升级整合为“Erasmus+”框架，涵盖教育、培训、青年与体育全领域，预算规模翻倍扩展。
 
 ---

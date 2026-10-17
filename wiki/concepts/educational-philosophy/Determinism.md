@@ -8,7 +8,7 @@ aliases:
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性；在现代科学与认识论演进中，经典钟表式因果决定论受到波普尔云状现实、刺猬与狐狸认知模型以及工程思维概率探索的深刻反思与超越。"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Complexity Theory]]"
+  - "[[Behaviorism]]"
   - "[[Hedgehog and Fox Model]]"
   - "[[Critical Realism]]"
 related_methods:
@@ -52,6 +53,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Keith Morrison]]"
   - "[[Philip Tetlock]]"
+  - "[[B. F. Skinner]]"
   - "[[Alexander Karp]]"
 related_facts: []
 related_arguments:
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Determinism
@@ -186,7 +188,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **18 世纪 — 经典机械决定论确立** 皮埃尔-西蒙·拉普拉斯（Pierre-Simon Laplace）提出拉普拉斯妖假想，宣告宇宙如精密钟表般完全由力学规律严格决定。
-> - **20 世纪初 — 心理学行为主义决定论盛行** 华生与斯金纳（B. F. Skinner）将学习完全解释为外部刺激与强化历史的决定产物，彻底排斥自由意志与心灵主义概念。
+> - **20 世纪初 — 心理学[[Behaviorism|行为主义]]决定论盛行** 华生与[[B. F. Skinner|斯金纳]]（B. F. Skinner）将学习完全解释为外部刺激与强化历史的决定产物，彻底排斥自由意志与心灵主义概念。
 > - **1965 — 波普尔提出“论云与钟”反思** [[Karl Popper|卡尔·波普尔]]发表《论云与钟》，批判物理决定论将所有云团强行视为钟表的荒谬性，奠定了非决定论与开放宇宙[[Epistemology|认识论]]基础。
 > - **1979 — 社会科学人性四维坐标确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将决定论与[[Voluntarism|唯意志论]]确立为社会科学人性[[Ontology|本体论]]的两极。
 > - **2005–2025 — [[Hedgehog and Fox Model|刺猬与狐狸模型]]与工程认识论升华** [[Philip Tetlock|泰特洛克]]通过长期实证证实刺猬决定论预测力的溃败；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将[[Engineering Mindset|工程思维]]确立为克服意识形态决定论、在云状现实中精准导航的现代治理认识论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。

@@ -49,6 +49,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Wicked Problem]]"
   - "[[Theoretical Validity]]"
+  - "[[Socioeconomic Status]]"
   - "[[Epistemological Understanding]]"
   - "[[Justification for Knowing]]"
   - "[[Construct Validity]]"
@@ -90,14 +91,14 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -403,7 +404,7 @@ issuing_organization: ""
 >     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning\|深层学习]]策略（Deep Learning Strategies），从而在高阶任务中取得卓越表现；
 >     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和[[Wicked Problem|劣构问题]]（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
 > - **机制四：构念特异性与确证[[Theoretical Validity\|理论有效性]]（Theoretical Validity）**
->   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或社会经济地位的虚假代理变量”的观点。
+>   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或[[Socioeconomic Status|社会经济地位]]的虚假代理变量”的观点。
 >   - 如果认识论认知只是泛化智力或动机的代理，它应该对所有考试（包括死记硬背与机械计算）均表现出均匀的中等相关；
 >   - 唯独与高阶任务强相关、与低阶任务脱节的阶梯断层，恰恰证明了认识论认知具有精确、独立的构念解释边界，其核心功能正是为高阶认知加工提供元认知监控与规范性导引。（p. 1102）
 

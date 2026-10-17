@@ -10,9 +10,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 跨机构国家学术研究联合体
 headquarters: 慕尼黑（TUM），法兰克福/柏林（DIPF），基尔（IPN）
@@ -31,6 +31,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Bildung]]"
   - "[[PISA Shock]]"
+  - "[[Socioeconomic Status]]"
   - "[[Scientific Literacy]]"
   - "[[Knowledge Mediation]]"
   - "[[Paradigm]]"
@@ -51,6 +52,7 @@ related_instruments: []
 related_persons:
   - "[[Tina Seidel]]"
 related_facts:
+  - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[OECD]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Zentrum für internationale Bildungsvergleichsstudien
@@ -82,7 +84,7 @@ updated: 2026-10-16
 > - **成立时间 / 创设背景** 创设于 2010 年，立项契机在于 2000 年“PISA 震荡”（[[PISA Shock\|PISA-Schock]]）后，德国亟需建立常设化、高水准的国家学术基础设施，以摆脱以往每届大型国际测评临时组建大学科研团队竞标带来的碎片化与方法断层。
 > - **总部地点与三方联合架构** 实体总部设于慕尼黑工业大学（TUM 社会科学与技术学院教育系）；由三大权威科研实体组成紧密联合体：慕尼黑工业大学（TUM，牵头主持机构）、[[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF，法兰克福/柏林）以及莱布尼茨科学与数学教育研究所（IPN，基尔）。
 > - **法人属性与经费保障** 由联邦公共财政（BMBF）与 16 个联邦州（通过 KMK）按协议长期各半联合资助，具备官方特许的国家科研与测评法定职能。
-> - **核心宗旨与服务对象** 宗旨是长期追踪德国学生在数学、阅读与科学领域的素养水平及变动趋势，揭示家庭社会经济背景对教育机会的制约机制；直接服务于联邦与各州教育行政部门、中小学校长、教师培训机构以及教育实证学者。
+> - **核心宗旨与服务对象** 宗旨是长期追踪德国学生在数学、阅读与科学领域的素养水平及变动趋势，揭示[[Socioeconomic Status|家庭社会经济背景]]对教育机会的制约机制；直接服务于联邦与各州教育行政部门、中小学校长、教师培训机构以及教育实证学者。
 
 ---
 
@@ -114,7 +116,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心业务与国家测评矩阵
 > 1. **[[PISA]] 国家测评研发与全流程实施** 统筹全德 16 个联邦州的科学抽样、计算机化测验与保密题库管理，每三年至四年完成一次全德大规模实测，出具官方国家评估专著。
-> 2. **宏观系统与解释性知识供给** 采集大样本全套背景[[Questionnaire\|问卷]]，绘制学生[[21st Century Skills and Competencies Discourse\|核心素养]]的全国分布图景，运用[[Hierarchical Linear Model\|多水平模型]]剥离家庭社会经济背景（ESCS）与分流轨道的制约机制。
+> 2. **宏观系统与解释性知识供给** 采集大样本全套背景[[Questionnaire\|问卷]]，绘制学生[[21st Century Skills and Competencies Discourse\|核心素养]]的全国分布图景，运用[[Hierarchical Linear Model\|多水平模型]]剥离[[Socioeconomic Status|家庭社会经济背景]]（ESCS）与分流轨道的制约机制。
 > 3. **国家标准与各州课标微观对齐** 承担将国际标准化测验框架与德国各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）设立的国家教育标准（Bildungsstandards）进行长期指标校准与监测。
 
 > [!contrast-table] “[[Clearing House Unterricht\|CHU]] x [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]”宏微观双轨[[Knowledge Mediation\|知识中介]]协同架构

@@ -9,10 +9,10 @@ summary: "美国语言学家、哲学家、认知科学家与公共知识分子�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1928"
 lifespan: "1928–至今"
 tags:
@@ -28,10 +28,12 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Artificial General Intelligence]]"
   - "[[Stochastic Parrot]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[B. F. Skinner]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
@@ -39,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Noam Chomsky
@@ -50,7 +52,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 诺姆·乔姆斯基（Noam Chomsky, 1928–）是美国理论语言学家、认知科学家、麻省理工学院学院教授（Institute Professor Emeritus）及亚利桑那大学语言学教授。
-> - **核心角色** 开创生成文法（Generative Grammar）与普遍文法（Universal Grammar）理论，颠覆了行为主义语言观，推动了 20 世纪中叶的“认知革命”；在现代人工智能大模型辩论中代表了坚持理性主义先天语言官能、批判纯统计概率学习局限性的最高学术权威。
+> - **核心角色** 开创生成文法（Generative Grammar）与普遍文法（Universal Grammar）理论，颠覆了[[Behaviorism|行为主义]]语言观，推动了 20 世纪中叶的“认知革命”；在现代人工智能大模型辩论中代表了坚持理性主义先天语言官能、批判纯统计概率学习局限性的最高学术权威。
 > - **代表贡献** 提出乔姆斯基语言层级体系（Chomsky Hierarchy）与普遍文法；系统批判行为主义与数据驱动的[[Empiricism|经验主义]]；撰文指出 ChatGPT 等大模型在[[Epistemology|认识论]]层面的结构性缺陷。
 
 > [!citation-card] 乔姆斯基论大语言模型的认知演化停滞
@@ -67,7 +69,7 @@ updated: 2026-10-16
 > - **1945–1955** 就读于宾夕法尼亚大学，师从泽里格·哈里斯（Zellig Harris），获语言学博士学位。
 > - **1955–2017** 长期任教于麻省理工学院（MIT）现代语言与语言学系。
 > - **1957** 出版奠基性著作《句法结构》（*Syntactic Structures*），引发语言学革命。
-> - **1959** 发表对 B. F. 斯金纳《言语行为》的书评，给予行为主义心理学沉重打击，开启认知科学革命。
+> - **1959** 发表对 B. F. [[B. F. Skinner|斯金纳]]《言语行为》的书评，给予[[Behaviorism|行为主义]]心理学沉重打击，开启认知科学革命。
 > - **2023** 在《纽约时报》发表客座评论《ChatGPT 的虚假承诺》（*The False Promise of ChatGPT*），系统抨击大语言模型的伪智能本质。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 24)]]
 
 ---

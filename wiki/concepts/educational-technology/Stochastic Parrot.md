@@ -7,15 +7,16 @@ aliases:
 summary: "由埃米莉·M.本德（Emily M. Bender）等学者于2021年提出的批判性概念，用于描述依赖海量语料统计相关性与概率分布缝合语言形式的大语言模型。该概念强调大模型虽然能生成极为逼真、流畅且符合语法的自然语言，但其输出完全脱离了真实的现实指称、语义理解与意向性，本质上是在缺乏意义参照的情况下进行机械符号概率复述。"
 type: concept
 domain: "educational-technology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-technology
   - theme/artificial-intelligence
   - theme/philosophy-of-mind
 related_concepts:
+  - "[[Intentionality]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-17
 ---
 
 # Stochastic Parrot
@@ -44,7 +45,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 随机鹦鹉（Stochastic Parrot）指能够根据海量训练语料中的概率分布，随机且合乎统计规律地拼接巨量语言符号，但其生成过程完全不涉及对客观世界真实含义、逻辑因果或意向性理解的计算系统。该概念揭示了大模型在形式流畅度与实质理解力之间的深刻鸿沟。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 23; Bender et al., 2021, p. 617)]]
+> 随机鹦鹉（Stochastic Parrot）指能够根据海量训练语料中的概率分布，随机且合乎统计规律地拼接巨量语言符号，但其生成过程完全不涉及对客观世界真实含义、逻辑因果或[[Intentionality|意向性]]理解的计算系统。该概念揭示了大模型在形式流畅度与实质理解力之间的深刻鸿沟。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 23; Bender et al., 2021, p. 617)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向缺乏[[Ontology|本体论]]参照、仅通过词序列概率转移制造语言逼真感的大规模神经网络模型。

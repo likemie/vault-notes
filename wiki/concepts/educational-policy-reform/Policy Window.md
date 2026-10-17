@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[College and Career Readiness]]"
   - "[[Competitiveness]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Discourse]]"
   - "[[Venue Shopping]]"
 related_theories:
@@ -141,7 +142,7 @@ updated: 2026-10-17
 > |---|---|---|---|
 > | **时间约束命题** | 政策之窗的时间压缩特性直接决定证据形态的选择与替代，促使宏观学术论文转向微观对标清单 | 重大国家/州级标准统一与法定采纳关口 | McDonnell & Weatherford; Kingdon |
 > | **主动开启命题** | 政策企业家利用危机指标与价值包装能动性撬开制度之窗，塑造政策紧迫感 | 议程设置与政策动议发起期 | McDonnell & Weatherford; Stone |
-> | **突围采纳命题** | 少数派联合执政等政治流突变开启政策之窗，政策企业家携预制方案伺机突围实现制度突破 | 特许学校立法、外生私有化与教育管理外包 | O'Neill et al.; Ball; Kingdon |
+> | **突围采纳命题** | 少数派联合执政等政治流突变开启政策之窗，政策企业家携预制方案伺机突围实现制度突破 | 特许学校立法、[[Exogenous Privatisation\|外生私有化]]与教育管理外包 | O'Neill et al.; Ball; Kingdon |
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-10-17
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — 循证决策与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
-> - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育外生私有化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
+> - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育[[Exogenous Privatisation|外生私有化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
 
 ---
 
@@ -187,7 +188,7 @@ updated: 2026-10-17
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — [[Process Tracing|过程追踪]]表明，奥巴马政府[[Race to the Top|力争上游]]拨款开启的极短政策之窗，迫使各州决策层将宏观学术论文替换为微观对标清单火速完成采纳。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育外生私有化。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育[[Exogenous Privatisation|外生私有化]]。
 
 ---
 

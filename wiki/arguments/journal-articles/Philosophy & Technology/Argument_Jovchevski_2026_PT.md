@@ -33,6 +33,7 @@ related_concepts:
   - "[[Socratic Dialogue]]"
   - "[[Cognitive Deskilling]]"
   - "[[Hypothesis]]"
+  - "[[Dynamic Assessment]]"
   - "[[Reliability]]"
   - "[[AI Agent in Education]]"
   - "[[Scaffolding]]"
@@ -51,16 +52,16 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jovchevski_2026_PT"
 argument_key: "Argument_Jovchevski_2026_PT"
 argument_display_title: "What is wrong with automation bias?"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Philosophy & Technology"
 book_title: ""
@@ -197,7 +198,7 @@ issuing_organization: ""
 
 #### 1. 程序主义视角下连续顺从错误输出表明操作者的理性信念修正机能陷入功能性瘫痪
 
-在斯坎伦（Scanlon, 1998）的伦理框架中，自主性关乎个体如何过好自身生活的规范价值。程序主义自主性理论强调，行动者的自主性取决于其指导行动的信念是否能够根据理性程序进行动态评估与调整。
+在斯坎伦（Scanlon, 1998）的伦理框架中，自主性关乎个体如何过好自身生活的规范价值。程序主义自主性理论强调，行动者的自主性取决于其指导行动的信念是否能够根据理性程序进行[[Dynamic Assessment|动态评估]]与调整。
 
 > [!chain-link] 程序自主性在强自动化偏差中的断裂链条
 > - **前提：理性自主以敏锐的证据敏感性为基本条件**

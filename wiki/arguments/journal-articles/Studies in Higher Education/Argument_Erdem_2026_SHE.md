@@ -54,6 +54,7 @@ related_concepts:
   - "[[Project-Based Learning]]"
 related_theories:
   - "[[Transformative Learning Theory]]"
+  - "[[Behaviorism]]"
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -84,14 +85,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -155,7 +156,7 @@ issuing_organization: ""
 > | 学习起点 | 先系统讲授学科知识，再补充技能 | 先呈现经过选择的真实问题 |
 > | 学生角色 | 接受知识、按考试要求组织 | 主动建构、自导学习、小组协作 |
 > | 教师角色 | 知识传授者 | 促进者，引导而不直接提供答案 |
-> | 认知取向 | 侧重行为主义与认知主义的知识传递 | 建构主义，整合元认知与深层加工 |
+> | 认知取向 | 侧重[[Behaviorism\|行为主义]]与认知主义的知识传递 | 建构主义，整合元认知与深层加工 |
 > | 预期结果 | 短时知识覆盖 | 深层理解、长期保持与迁移应用 |
 
 > [!warrant]- 理论如何支撑论证
@@ -308,7 +309,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - 雇员需要克服新颖障碍并参与复杂沟通（Koenig, 2011）；科学技术的加速发展使问题解决成为生活各层面的关键技能（Hidayat, Susilaningsih, & Kurniawan, 2018）。（p. 950）
 > - PBL 被日益视为高等教育中培养批判性、分析性与创造性问题解决技能的有效途径（Hallinger, 2020），并与能力本位教育、可雇佣性与终身学习等政策趋势一致。（pp. 950–951）
-> - 教育学领域在 20 世纪后半叶从行为主义与认知主义的知识传递转向探索超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm\|建构主义]]教学模式被视为这一需求的解决方案（Hung, Jonassen, & Liu, 2008; Erdem, 2024）。（p. 951）
+> - 教育学领域在 20 世纪后半叶从[[Behaviorism|行为主义]]与认知主义的知识传递转向探索超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm\|建构主义]]教学模式被视为这一需求的解决方案（Hung, Jonassen, & Liu, 2008; Erdem, 2024）。（p. 951）
 
 > [!case] 起源与扩散案例
 > PBL 于 1960 年代中期为医学教育开发（Barrows, 2000; Schmidt, Vermeulen, & van der Molen, 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育机构采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程。2010 年后 PBL 文献量翻倍以上，显示其兴趣持续增长。（pp. 950–951）

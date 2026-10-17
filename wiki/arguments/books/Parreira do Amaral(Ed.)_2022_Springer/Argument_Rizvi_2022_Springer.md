@@ -9,9 +9,9 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Cham: Springer."
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[International Schools]]"
   - "[[Public Value]]"
+  - "[[Endogenous Privatisation]]"
   - "[[Doxa]]"
   - "[[Knowledge Co-production]]"
   - "[[Champ]]"
@@ -73,7 +74,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2022
 doi: ""
 citation_aliases:
@@ -277,7 +278,7 @@ Rizvi 区分了驱动国际化的两种理性——"发展主义"和"市场理�
 
 1. **[[Public Value|公共价值]]被"挤出"(Sandel, 2012)** 对公共价值的承诺被市场逻辑排挤。"随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"(p.97)。
 
-2. **内生私有化的永久化** Rizvi 举了澳大利亚的例子——"其高等教育机构在招收大量全额付费国际学生方面的成功，使澳大利亚政府有底气推动其他市场导向政策"。结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"(Ball, 2012, pp.97–98)。
+2. **[[Endogenous Privatisation|内生私有化]]的永久化** Rizvi 举了澳大利亚的例子——"其高等教育机构在招收大量全额付费国际学生方面的成功，使澳大利亚政府有底气推动其他市场导向政策"。结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"(Ball, 2012, pp.97–98)。
 
 3. **NPM 的企业化改造** NPM 的理念、技术和实践被从企业部门广泛引入，以使公立高等教育机构更像企业运作。
 

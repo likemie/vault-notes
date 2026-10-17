@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Space of Equivalence]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -67,7 +68,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Commensuration
@@ -110,7 +111,7 @@ updated: 2026-10-16
 
 > [!feature] 通约机制在教育监测中的运作维度
 > - **脱域化公分母建构**
->   将具有丰富历史、空间与文化特性的学校社区特征，简化为标准化[[Variable\|变量]]（如社会经济地位指数、出勤率、统考切分点分数），切断数据与具体微观教育情境的联系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 6)]]。
+>   将具有丰富历史、空间与文化特性的学校社区特征，简化为标准化[[Variable\|变量]]（如[[Socioeconomic Status|社会经济地位]]指数、出勤率、统考切分点分数），切断数据与具体微观教育情境的联系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 6)]]。
 > - **统计“公平比较”替代地域直观比较**
 >   利用全域集中数据库与算法模型，跨越地理邻近性，将学校与全州范围内统计特征最相似的“统计双胞胎”进行对标比较（如汉堡社会指数分级匹配、马萨诸塞州 RADAR/DART 统计同伴组），重构学校的参照群体认知[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]。
 > - **微小决策放大为宏观治理后果**
@@ -128,7 +129,7 @@ updated: 2026-10-16
 
 > [!thesis] 命题二｜脱域化公分母建构与政治价值裁决的技术化隐形
 > - **核心命题** 通约不仅是将不同质态转化为可比量化指标的技术操作，更是一种权威性裁决价值权重、并将深层政治决策包装为中立算法的社会工程。
-> - **理论机制** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、社会经济地位）、权重赋值以及过滤规则的微小技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
+> - **理论机制** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、[[Socioeconomic Status|社会经济地位]]）、权重赋值以及过滤规则的微小技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
 
 > [!thesis] 命题三｜通约作为[[Disciplina and Doctrina|规训]]装配诱发被测系统的策略性博弈与目标置换
 > - **核心命题** 通约机制是兼具治理能力延伸与[[Reflexivity|反身性]]控制的社会-技术装配；一旦通约指标与高利害问责或资源分配刚性绑定，必将导致现实与度量的系统性脱节，诱发被规训学校的策略性数据操纵。

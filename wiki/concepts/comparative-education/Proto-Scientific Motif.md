@@ -9,7 +9,7 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,7 +40,8 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Proto-Scientific Motif
@@ -83,7 +84,7 @@ updated: 2026-10-16
 > [!concept-lens] 概念透镜
 > - **含义** 指称现代比较教育学在告别古代轶事游记、迈向现代学科形态时所确立的“准实证科学化（almost nearly a positive science）”冲动与其不可分割的启蒙人文主义底色。
 > - **用途** 破解后世实证派学者将朱利安机械割裂为“单纯实证量化先驱”的史学曲解，揭示早期比较教育学如何在[[Scientific Method\|经验科学]]工具与宏观人类博爱伦理之间达成有机互构。
-> - **边界** 严格区别于 20 世纪下半叶行为主义实证派（如 Noah & Eckstein）所主张的严格去价值化、纯假设检验与数理统计分析；准科学母题中的问卷充满指导性价值预设，本质上属于欧洲传统的“[[Geisteswissenschaften|人文科学]]（sciences humaines）”范畴。
+> - **边界** 严格区别于 20 世纪下半叶[[Behaviorism|行为主义]]实证派（如 Noah & Eckstein）所主张的严格去价值化、纯假设检验与数理统计分析；准科学母题中的问卷充满指导性价值预设，本质上属于欧洲传统的“[[Geisteswissenschaften|人文科学]]（sciences humaines）”范畴。
 
 > [!citation-card]- 关键表述：教育比拟于解剖学的准实证科学奠基
 > 马克-安托万·朱利安在 1817 年《工作计划》中确立了这一准科学母题的经典公理：教育与所有其他科学及艺术一样，皆由事实与观察构成。因此，为教育编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学；对比较解剖学的研究推进了人体解剖学，同样，对比较教育的研究必将为完善教育科学提供新的手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 12)]]；引自 Fraser (1964:40–41)
@@ -154,7 +155,7 @@ updated: 2026-10-16
 > **事实图表归纳服务于人类灵魂重生与社会秩序改良** 朱利安论证，单纯的哲学思辨无法根治欧洲社会的政治腐败与动荡危机，必须依托客观事实与系统观察表格将教育推向准实证科学的高度；然而，收集客观事实的终极归宿不是为了数字本身，而是为了借由道德、心智与身体的全人体智德教化重塑人性的尊严，使跨国比较事实成为抵御野蛮暴力的理性工具。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 12–14, 23–24)]]；引自 Fraser (1964:35, 48)
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] and [[Andreas Kazamias\|Kazamias, A.]] M.
-> **准科学母题奠定比较教育不可让渡的人文主义灵魂** 卡洛扬纳基与卡扎米亚斯断言，朱利安开创的母题绝非 20 世纪冷冰冰的行为主义量化测量，而是一种兼具科学严谨性与崇高人道情怀的“科学人文主义（Scientific Humanism）”；它将比较教育定位为推动文明进化、维系欧洲[[Perpetual Peace\|永久和平]]与促进人类福祉的[[Epistemology\|认识论]]问题域，构成了学科无可替代的现代主义精神原点。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 24, 33–34)]]
+> **准科学母题奠定比较教育不可让渡的人文主义灵魂** 卡洛扬纳基与卡扎米亚斯断言，朱利安开创的母题绝非 20 世纪冷冰冰的[[Behaviorism|行为主义]]量化测量，而是一种兼具科学严谨性与崇高人道情怀的“科学人文主义（Scientific Humanism）”；它将比较教育定位为推动文明进化、维系欧洲[[Perpetual Peace\|永久和平]]与促进人类福祉的[[Epistemology\|认识论]]问题域，构成了学科无可替代的现代主义精神原点。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 24, 33–34)]]
 
 ---
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 137
+argument_related_count: 138
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Trust Calibration]]"
   - "[[Ontology]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Intentionality]]"
   - "[[Epistemology]]"
   - "[[Threats to External Validity]]"
   - "[[Independent Variable]]"
@@ -173,7 +174,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -502,7 +503,7 @@ Lincoln & Guba (1985, p. 219, 301) 认为[[Interpretive Paradigm|自然主义探
 > - **负面案例分析**
 >   以建立"适合每一个案例"的理论为目标，通过不断遭遇反例来**回溯修正**假设
 > - **成员核查**
->   评估意图性（intentionality）、纠正事实错误、提供受访者补充信息或记录的机会；提供摘要并检查分析的充分性
+>   评估意图性（[[Intentionality]]）、纠正事实错误、提供受访者补充信息或记录的机会；提供摘要并检查分析的充分性
 
 一个关键差异在于：**实证主义研究将历史和成熟视为对效度的威胁，而民族志研究则简单地假设这些会发生**——民族志研究允许随时间变化，它**将变化纳入研究设计**。民族志研究还通过以下方式解决内部效度：让观察者既广泛采样又在情境中停留足够长的时间使其在场被视为理所当然——以此减少观察者效应（p.168）。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[PICO Framework]]"
   - "[[Abstract]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Educational Level]]"
   - "[[Definition of Terms]]"
   - "[[Construct Validity]]"
@@ -94,7 +95,7 @@ updated: 2026-10-17
 ## 核心要素
 
 > [!feature] 构念的三大核心理论属性
-> - **高度抽象性（Abstraction）** 构念位于具体测量之上，是对多组相关观测或[[Variable|变量]]共性进行理论提炼后的产物。例如“社会经济地位”构念抽象了家庭收入、父母[[Educational Level|受教育年限]]与职业声望的共同特征。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 130)]]
+> - **高度抽象性（Abstraction）** 构念位于具体测量之上，是对多组相关观测或[[Variable|变量]]共性进行理论提炼后的产物。例如“[[Socioeconomic Status|社会经济地位]]”构念抽象了家庭收入、父母[[Educational Level|受教育年限]]与职业声望的共同特征。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 130)]]
 > - **潜在不可直观性（Latent Unobservability）** 构念本身无法直接用感官接触，研究工具（测试卷、量表、观察表）记录的仅是该构念的外显行为指标（Indicators），而非构念本身。
 > - **理论网络嵌入性（Nomological Network Embedding）** 构念的内涵依赖其在特定理论网络中的定位。一个构念不仅由其[[Definition of Terms|操作性定义]]决定，更由它与其他构念在理论命题中的因果或相关关系所界定。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]
 

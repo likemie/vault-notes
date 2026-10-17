@@ -11,7 +11,7 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
+  - "[[Johann Wilhelm Süvern]]"
   - "[[Immanuel Kant]]"
   - "[[François Guizot]]"
   - "[[Calvin Stowe]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Johann Wilhelm Süvern

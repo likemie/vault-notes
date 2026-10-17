@@ -9,7 +9,7 @@ aliases:
 summary: "由非营利慈善信托全资控股营利性商业有限责任公司的组织与制度套利架构，教育管理组织（EMO）借此将公立学校政府采购预算转化为免税商业利润并大额留存，同时规避企业所得税与官方信息公开监管，形成对公共教育资源的实质性资本净汲取。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Return on Investment]]"
   - "[[Network Governance]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -38,7 +39,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Dual-Entity Legal Structure
@@ -136,7 +137,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **税收套利命题** | 双层架构通过内部关联捐赠规避企业所得税并积累巨额资本 | 基础教育服务外包、数字研训采购与非营利信托治理 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Poirier (2013) |
-> | **资本净抽取与问责真空命题** | 免受信息法约束导致民主监督架空，EMO 成为公费教育的净汲取者 | 公立学校外包外生私有化、特许经营与网络治理改革 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
+> | **资本净抽取与问责真空命题** | 免受信息法约束导致民主监督架空，EMO 成为公费教育的净汲取者 | 公立学校外包[[Exogenous Privatisation\|外生私有化]]、特许经营与网络治理改革 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
 
 ---
 

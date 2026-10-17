@@ -6,7 +6,7 @@ aliases:
 summary: "在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Digital Optimum]]"
   - "[[Theoretical Perspective]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Socioeconomic Status]]"
   - "[[Open-Mindedness]]"
   - "[[Bildung]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-10-07
+updated: 2026-10-17
 ---
 
 # Promising Student
@@ -97,7 +98,7 @@ updated: 2026-10-07
 
 > [!warning]
 
-- **个体化责任的过度赋予** 将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如社会经济背景、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
+- **个体化责任的过度赋予** 将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如[[Socioeconomic Status|社会经济背景]]、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
 - **教育[[Open-Mindedness|开放性]]的丧失** 当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 - **批判的消解** 高等教育不只是知识和技能的获取，也包括对所呈现的知识采取批判性立场。当每个人都只关注自己的优化轨迹时，公共的学术交流空间和批判实践可能萎缩([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

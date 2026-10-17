@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Peidu]]"
+  - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # 2014 Hukou Reform
@@ -70,7 +71,7 @@ updated: 2026-10-16
 
 - **回流效应** 被大城市公立学校排斥的农村流动工人子女返回出生地省份的小城市（县城），当地优质公立学校对其开放（Han & Yu 2020，引自 Teng & Wang, 2025, p.303）。
 - **城镇化[[School Choice|择校]]的条件被打开** 农村留守儿童也涌入县城——[[Rural School Consolidation|农村学校撤并]]形成推力，县城学校扩招形成拉力。在 G 县，新建的县城学校不限户口、不收择校费，直接促成了[[Peidu|陪读]]的大规模扩散([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.306]])。
-- **隐性的阶级筛选** 户口限制的放松不等于教育公平的实现——"行政性歧视正在隐性地被家庭社会经济地位的市场性歧视所替代"（p.313）。
+- **隐性的阶级筛选** 户口限制的放松不等于教育公平的实现——"行政性歧视正在隐性地被家庭[[Socioeconomic Status|社会经济地位]]的市场性歧视所替代"（p.313）。
 
 ---
 

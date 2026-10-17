@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 79
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Homework]]"
   - "[[Language Skills]]"
+  - "[[Socioeconomic Status]]"
   - "[[Operationalization]]"
   - "[[Exogenous and Endogenous Variables]]"
 related_theories:
@@ -123,7 +124,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16
 
@@ -909,7 +910,7 @@ Mason et al. (1992) 的[[Longitudinal Study|纵向研究]]（1984–1992）在�
 Bhadwal and Panda (1991) 在印度农村以更稳健的实验设计检验通过改变教学策略来改善学生表现。
 
 > [!design-notation] Bhadwal & Panda 研究：前后测对照组设计
-> 参与者按社会经济背景和非语言 IQ 匹配后随机分配至实验组和两个控制组（p. 337）：
+> 参与者按[[Socioeconomic Status|社会经济背景]]和非语言 IQ 匹配后随机分配至实验组和两个控制组（p. 337）：
 >
 > - **实验组** *R* ==O₁== `X` ==O₂==
 > - **控制组 1** *R* ==O₃== ~~·~~ ==O₄==

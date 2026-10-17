@@ -10,9 +10,9 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 tags:
   - method/propensity-score-matching
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Internal Validity]]"
   - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Dependent Variable]]"
   - "[[Effective Sample Size]]"
   - "[[Heterogeneity]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Propensity Score Matching
@@ -124,7 +125,7 @@ updated: 2026-10-16
 > - **数据结构** 包含处理组与大量未受干预候选池个体的横截面或基线面板数据。
 > - **核心变量**
 >   - 处理状态变量 $Z_i$：1 = 处于处理组，0 = 处于对照池。
->   - 协变量向量 $\mathbf{X}_i$：个人人口学特征、先前[[Academic Achievement\|学业成就]]、家庭社会经济地位、学校组织规模等。
+>   - 协变量向量 $\mathbf{X}_i$：个人人口学特征、先前[[Academic Achievement\|学业成就]]、家庭[[Socioeconomic Status|社会经济地位]]、学校组织规模等。
 >   - [[Dependent Variable\|结果变量]] $Y_i$：后测成绩或学业增值。
 > - **匹配参数设置** 卡尺通常设定为倾向得分标准差的 0.2 倍（$0.2 \times \sigma_{\text{logit}(e)}$）。
 

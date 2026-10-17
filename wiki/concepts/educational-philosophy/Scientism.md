@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Discourse]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Pluralism]]"
   - "[[Critical Theory]]"
   - "[[Structural Functionalism]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Scientism
@@ -179,7 +180,7 @@ updated: 2026-10-16
 > 法兰克福学派与批判人本主义学者揭示了科学主义更为致命的社会学后果：当经验测量与技术操控篡夺了全部人类理性时，关于善恶、公平与教育目的的公共反思遭到系统性放逐。
 
 > [!claim] Habermas and Horkheimer (1972)
-> **工具理性极权化与无良知社会的造就** 霍克海默与[[Jürgen Habermas|哈贝马斯]]深刻揭露，[[Positivism|实证主义]]与科学主义对因果预测和有效控制的执念，与行为主义的机械刺激-反应操纵一脉相承，构成了狭隘工具理性的极权统治。科学主义彻底扼杀了关于社会伦理、价值取向与人道信念的公共理性辩论；当实证科学被奉为解释人类行为的唯一途径时，人身上最具尊严的自我反思、自由意志与伦理责任被彻底抽空，最终将人类社会推向丧失道德良知的冷酷机器。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+> **工具理性极权化与无良知社会的造就** 霍克海默与[[Jürgen Habermas|哈贝马斯]]深刻揭露，[[Positivism|实证主义]]与科学主义对因果预测和有效控制的执念，与[[Behaviorism|行为主义]]的机械刺激-反应操纵一脉相承，构成了狭隘工具理性的极权统治。科学主义彻底扼杀了关于社会伦理、价值取向与人道信念的公共理性辩论；当实证科学被奉为解释人类行为的唯一途径时，人身上最具尊严的自我反思、自由意志与伦理责任被彻底抽空，最终将人类社会推向丧失道德良知的冷酷机器。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
 
 > [!claim] Ions (1977)
 > **量化盲从与学术探究的去个性化异化** 特里·扬斯指出，当代社会科学对定量计算与高级统计模型的狂热迷信，实质上构成了抹杀个体[[Heterogeneity|异质性]]的集体主义控制。量化技术本身固然能为经验观察提供辅助工具，但当其反客为主升格为研究终极目的时，社会科学便沦为冷漠数学的一个应用分支，彻底背弃了其深入探索与阐明人类艰难生存困境的人道天职，带来了普遍的去个性化（depersonalization）危机。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]

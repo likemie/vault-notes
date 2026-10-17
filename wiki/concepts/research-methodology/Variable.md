@@ -6,7 +6,7 @@ aliases:
 summary: "实证研究与社会科学中可被测量或观察且在不同个体、组织或系统之间发生变异的特征或属性，是构建假说与检验因果关系的基本分析单位；比较教育实证主义代际通过以概念变量替代国别专名，奠定了跨系统经验假说检验的科学基石。"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
+  - "[[Socioeconomic Status]]"
   - "[[Causality]]"
   - "[[Falsification]]"
   - "[[Heterogeneity]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Variable
@@ -187,7 +188,7 @@ updated: 2026-10-16
 
 ### 调节变量（Moderating Variable）
 
-调节变量是影响自变量与因变量（或预测变量与结果变量）之间关系方向或强度的预测变量(Thompson, 2006; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 55]])。调节变量的独特价值在于能够识别潜在的边界条件，这通常是人口统计学变量如年龄、教育水平或社会经济地位。
+调节变量是影响自变量与因变量（或预测变量与结果变量）之间关系方向或强度的预测变量(Thompson, 2006; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 55]])。调节变量的独特价值在于能够识别潜在的边界条件，这通常是人口统计学变量如年龄、教育水平或[[Socioeconomic Status|社会经济地位]]。
 
 ### 混淆变量（Confounding Variable）
 
@@ -243,7 +244,7 @@ updated: 2026-10-16
 > 比较教育学向现代实证社会科学转型的关键标志，在于从叙述个殊国别制度转向以跨国变量检验普适假设。
 
 > [!claim] Noah and Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]
-> **以概念变量替代体系名称的[[Scientific Paradigm|科学范式]]** 诺亚与埃克斯坦提出，古典比较教育长期停留在以国别为单位的历史描述与分类编目阶段。科学比较教育的根本任务是推进通则理论建构与预测，而这一目标唯有通过“以概念变量名称替代体系专名”方能实现。例如，将“英国与加纳教育比较”转化为“家庭社会经济地位（[[Independent Variable|自变量]]）对中等教育选拔概率（[[Dependent Variable|因变量]]）的跨国[[Multiple Regression|多元回归]]”，使个案制度转变为普适假说的经验检验场。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]
+> **以概念变量替代体系名称的[[Scientific Paradigm|科学范式]]** 诺亚与埃克斯坦提出，古典比较教育长期停留在以国别为单位的历史描述与分类编目阶段。科学比较教育的根本任务是推进通则理论建构与预测，而这一目标唯有通过“以概念变量名称替代体系专名”方能实现。例如，将“英国与加纳教育比较”转化为“家庭[[Socioeconomic Status|社会经济地位]]（[[Independent Variable|自变量]]）对中等教育选拔概率（[[Dependent Variable|因变量]]）的跨国[[Multiple Regression|多元回归]]”，使个案制度转变为普适假说的经验检验场。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]
 
 ---
 

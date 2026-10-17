@@ -39,6 +39,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Process Design Kit]]"
   - "[[Learning and Employment Records]]"
+  - "[[Dynamic Assessment]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods:
@@ -70,14 +71,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: report
 publication_type: report
 title: "Argument_NIST_2023_NSTC"
 argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -296,7 +297,7 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 > [!actor-grid] NSTC 治理与运营分工架构
 > - **商务部与部际联合指导委员会** 行使出资人与国家战略把关职能，监督重大预算流向与国家安全合规。（pp. 21–22）
 > - **独立非营利运营实体（[[Natcast]] 董事会与执行层）** 作为中立运营主体，全权负责设施投资、日常项目管理与跨主体利益协调，避免被单一行业巨头捕获。
-> - **技术咨询与行业委员会** 汇聚顶尖学者、晶圆代工高管与设计专家，动态评估并修正技术攻关指南。（p. 22）
+> - **技术咨询与行业委员会** 汇聚顶尖学者、晶圆代工高管与设计专家，[[Dynamic Assessment|动态评估]]并修正技术攻关指南。（p. 22）
 > - **分层会员体系与国家安全护栏** 面向大中小型企业、高校与科研机构建立分级会员制度，坚决防范受关注外国实体（Foreign Entity of Concern, FEOC）的技术渗透。（pp. 21, 27）
 
 会员参与机制与 IP 权益分配是维系联盟凝聚力与信任度的核心纽带。

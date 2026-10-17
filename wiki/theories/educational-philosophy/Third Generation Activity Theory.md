@@ -15,7 +15,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 50
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
+  - "[[Socioeconomic Status]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -82,7 +83,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Third Generation Activity Theory
@@ -208,7 +209,7 @@ updated: 2026-10-16
 > >   - **中介工具模态** 文本、代码与视觉多模态均达中大促学效应且组间差异不显著，证实教学任务设计的核心地位远胜于平台技术表象；
 > >   - **人机劳动分工** AI 定位为主体平等的“学习同伴”（$g^+=0.941$）显著优于单向灌输的“授课导师”（$g^+=0.649$），营建了低求助焦虑的共创对话[[Champ\|场域]]；
 > >   - **规则与设计规程** 4–12 周干预为黄金周期（$g^+=1.014$），兼顾技能内化与防范脱敏；自编测验（$g^+=1.022$）因题目贴合练习而显著虚高于标准化测验（$g^+=0.614$）；
-> >   - **共同体与文化情境** 真实课堂（$g^+=0.891$）显著优于实验室（$g^+=0.261$）；低 ICT（$g^+=1.764$）与低 SES（$g^+=1.751$）高校展现边际效益递增规律，高权力距离文化中显现打破权威壁垒的平权赋能效应（$g^+=0.859$ vs $0.236$）。
+> >   - **共同体与文化情境** 真实课堂（$g^+=0.891$）显著优于实验室（$g^+=0.261$）；低 ICT（$g^+=1.764$）与低 [[Socioeconomic Status|SES]]（$g^+=1.751$）高校展现边际效益递增规律，高权力距离文化中显现打破权威壁垒的平权赋能效应（$g^+=0.859$ vs $0.236$）。
 > > - **方法论效能** 展示了第三代活动理论与 AT-MCSCL 框架作为大[[Sample Size Determination\|样本量]]化[[Meta-analysis\|元分析]]编码架构的强大解释力，实证推翻了技术全能[[Determinism\|决定论]]，确立了技术促学的人机生态观。
 
 ---

@@ -9,7 +9,7 @@ summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
+  - "[[Atilio Borón]]"
   - "[[Joel Samoff]]"
   - "[[Daniel Bensaïd]]"
   - "[[Carlos Alberto Torres]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Atilio Borón

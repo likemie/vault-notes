@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
+  - "[[Dynamic Assessment]]"
   - "[[Policy Conditionalities]]"
   - "[[Modern Industrial Policy]]"
   - "[[Technological Republic]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Mariana Mazzucato
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。特别指出硅谷奇迹并非单纯由自由创业家与风险投资创造，其底层核心源于美国军方、[[DARPA]] 与政府长期承担的高风险战略研发投资与早期订单托底，尖锐批判科技巨头的[[Historical Amnesia|历史健忘症]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 229)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >   - **代表著作** *The Entrepreneurial State: Debunking Public vs. Private Myths in Risk and Innovation* (2013)。
 >   - **关键概念** [[Market Shaping and Creating]]、[[Patient Capital|耐心资本]]（Patient Capital）、[[Historical Amnesia|历史健忘症]]。
-> - **2016–2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与[[Public Value|公共价值]]重构** 将国家主动引导能力系统化为应对重大社会挑战（[[Grand Challenges]]）与[[Wicked Problem|复杂社会难题]]的使命驱动模式，构建包括战略方向、组织能力、动态评估和风险收益分享的政策工具箱。
+> - **2016–2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与[[Public Value|公共价值]]重构** 将国家主动引导能力系统化为应对重大社会挑战（[[Grand Challenges]]）与[[Wicked Problem|复杂社会难题]]的使命驱动模式，构建包括战略方向、组织能力、[[Dynamic Assessment|动态评估]]和风险收益分享的政策工具箱。
 >   - **代表著作** *Mission-oriented innovation policies: challenges and opportunities* (2018)。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 >   - **关键概念** [[Mission-Oriented Innovation Policy]]、[[ROAR Framework]]。
 > - **2020–至今 — [[Policy Conditionalities|制度化附加条件]]与公私契约重塑** 将公共价值理念纵深推进至实操性产业契约领域，系统构建以技能培训、利润分享、分红禁令及普惠获取为核心的附加条件分类学，主张打破无条件资本救济，以硬性双向责任重构现代产业战略。

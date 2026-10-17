@@ -9,7 +9,7 @@ aliases:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - theme/psychometrics
 related_concepts:
   - "[[Reliability]]"
+  - "[[Socioeconomic Status]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
@@ -40,7 +41,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Classical Test Theory
@@ -61,7 +62,7 @@ updated: 2026-10-16
 > [!formula] CTT 基本公式
 > $$X = T + E$$
 >
-> 观测分数（$X$）等于真实分数（$T$）加上误差（$E$）。真实分数是无限次独立施测的期望值，误差来自文化与社会经济背景、测验偏差、施测与评分过程以及受试者对测验的态度。
+> 观测分数（$X$）等于真实分数（$T$）加上误差（$E$）。真实分数是无限次独立施测的期望值，误差来自文化与[[Socioeconomic Status|社会经济背景]]、测验偏差、施测与评分过程以及受试者对测验的态度。
 >
 > CTT 的核心局限在于：真实分数依赖于测验内容而非受试者特征，[[Item Analysis\|题目难度]]可能取决于样本特征而非题目本身的内在属性。这使得比较不同受试者在不同测验上的结果变得困难。
 

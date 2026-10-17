@@ -9,7 +9,7 @@ summary: "匈牙利著名哲学家、布达佩斯学派核心代表人物，师�
 type: person
 nationality: hungary
 person_region: "hungary"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,13 +31,14 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Hannah Arendt]]"
+  - "[[Ágnes Heller]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Ágnes Heller

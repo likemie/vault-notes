@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - iea
 related_concepts:
   - "[[Study Population and Sample]]"
+  - "[[Socioeconomic Status]]"
   - "[[Evaluation Research]]"
   - "[[Heterogeneity]]"
   - "[[Total War]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # PIRLS
@@ -80,7 +81,7 @@ updated: 2026-10-16
 > [!policy-design]- 方案设计
 > - **两大阅读目的（Reading Purposes）** 涵盖“文学体验（Literary Purposes）”（叙事性故事、角色体验与情节理解）与“获取与运用信息（Informational Purposes）”（说明性图文、事实说明、论说材料提取）。
 > - **四大理解过程（Comprehension Processes）** 包含：(1) 关注并提取明确陈述的信息；(2) 得出直接推论；(3) 整合并解释观点与信息；(4) 检验并评价内容、语言与文本元素。
-> - **家庭与教育背景生态采集** 同步采集家长/监护人问卷（学前早期亲子阅读活动、家庭藏书量与社会经济地位）、语文教师问卷（教学策略与阅读指导法）、学校问卷（校舍资源与图书馆配置）以及国家课程政策问卷。
+> - **家庭与教育背景生态采集** 同步采集家长/监护人问卷（学前早期亲子阅读活动、家庭藏书量与[[Socioeconomic Status|社会经济地位]]）、语文教师问卷（教学策略与阅读指导法）、学校问卷（校舍资源与图书馆配置）以及国家课程政策问卷。
 > - **标定与基准系统** 基于[[Item Response Theory\|项目反应理论]]（IRT）将阅读表现标定在均值 500、标准差 100 的连续量表上，划分为高级（625 分）、高（550 分）、中（475 分）、低（400 分）四大国际成就基准。
 
 > [!citation-card] 大规模国际评估的宏观方位定位
@@ -104,7 +105,7 @@ updated: 2026-10-16
 ## 治理功能与实证反思
 
 > [!finding-cards] 治理功能与现实局限
-> - **宏观诊断弱势儿童学业危机** 在德国教育行政实践中，各州官员高度调用 PIRLS 数据来诊断移民后代及低社会经济地位家庭儿童在小学阶段出现的阅读语言赤字，据此制定学前语言促进与幼小衔接政策。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 491, 493)]]
+> - **宏观诊断弱势儿童学业危机** 在德国教育行政实践中，各州官员高度调用 PIRLS 数据来诊断移民后代及低[[Socioeconomic Status|社会经济地位]]家庭儿童在小学阶段出现的阅读语言赤字，据此制定学前语言促进与幼小衔接政策。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 491, 493)]]
 > - **微观治理指导力匮乏** 正如 [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] 深入揭示，PIRLS 作为宏观抽样工具，其高度抽象的结果无法指涉特定小学或个别班级，难以用于指导具体薄弱学校的针对性扶持与资源微调；在微观指导实用价值上，教育官员更加倚重本国的全域[[Vergleichsarbeiten\|校际比较测试]]（如小学 3 年级的 [[Vergleichsarbeiten\|VERA-3]]）与深入现场的[[School Inspection\|学校督导]]。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 494–495)]]
 > - **多源数据整合瓶颈** 德国各州行政部门由于精力被高频日常测评所耗竭，很少将 PIRLS 宏观数据与国内 VERA 测试或学校督导报告展开深层横向交融分析。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 493–494)]]
 

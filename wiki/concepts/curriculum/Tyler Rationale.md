@@ -7,10 +7,10 @@ aliases:
 summary: "Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。"
 type: concept
 domain: "curriculum"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - paradigm/positivism
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Behaviorism]]"
 related_methods: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Tyler Rationale
@@ -66,7 +67,7 @@ updated: 2026-10-15
 > - **可控性** 课程是可以且应该被控制的。目的是预先确定的，经验是可以被选择的，组织是可以被优化的。
 > - **有序性** 四问之间有严格的逻辑顺序——必须先确定目的，再选择经验，然后组织，最后评估。
 > - **预定性与统一性** 所有学生面对相同的目标和评估标准。
-> - **可预测性与行为主义** 学习结果是可预测的行为变化，评估聚焦于可观察的行为表现（largely behaviourist in outcome）。
+> - **可预测性与[[Behaviorism|行为主义]]** 学习结果是可预测的行为变化，评估聚焦于可观察的行为表现（largely behaviourist in outcome）。
 > - **政治中立性** 声称课程开发是一个技术过程，不涉及意识形态和权力问题——这恰恰是[[Critical Theory\|批判理论]]的攻击点。
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-15
 > [!critique] Doll（1993）的三重批判
 > - **教育是开放过程** 教育不是填充预定容器，而是创造尚未存在的可能性。Tyler 原理的"目的先行"逻辑预设教育结果可以且应该被预先确定。
 > - **后现代社会的多样性** 知识不再有单一的正确结构，权力不再那么单一。Tyler 原理假设一个统一、可预测的教育世界——这一假设已不成立。
-> - **[[Constructivist Paradigm\|建构主义]]心理学的转向** 学习不是行为主义的刺激-反应，而是学习者主动建构意义的过程。Tyler 原理忽视了这一根本转变。
+> - **[[Constructivist Paradigm\|建构主义]]心理学的转向** 学习不是[[Behaviorism|行为主义]]的刺激-反应，而是学习者主动建构意义的过程。Tyler 原理忽视了这一根本转变。
 
 > [!tension] 核心争议
 > Tyler 原理的技术效率与[[Critical Theory\|批判理论]]的解放诉求之间的张力，是课程研究中持续至今的核心辩论。一方视课程为需要科学设计和质量控制的技术产品，另一方视课程为需要民主协商和权力审视的文化政治[[Champ\|场域]]。

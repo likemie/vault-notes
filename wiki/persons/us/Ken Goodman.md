@@ -7,7 +7,7 @@ summary: "美国教育学者和全语言运动奠基人，提出阅读作为心�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 简介
 
@@ -66,7 +67,7 @@ updated: 2026-10-16
 > > "全语言学习围绕完整的学习者在完整的情境中学习完整的语言而构建；全语言学习假设对语言、学习者和教师的尊重；重点在意义而非语言本身，集中于真实的言语和读写事件；学习者被鼓励冒险并被邀请以其所有变体为自身目的使用语言；在全语言课堂中，口头和书面语言的所有多样功能都是适当的并被鼓励。"（引自 O'Connor, 2020, p.143）
 
 
-> [!info] 对行为主义心理学研究方法的警告
+> [!info] 对[[Behaviorism|行为主义]]心理学研究方法的警告
 > Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察[[Pre-test and Post-test\|后测]]技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146]])。
 
 ## 主要贡献
@@ -85,7 +86,7 @@ updated: 2026-10-16
 
 > [!note-] 思想发展与影响
 > - 在社会文化层面，[[Whole Language\|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.150]])
-> - Goodman 的心理语言学阅读模型挑战了当时主导的行为主义阅读教学[[Paradigm\|范式]]，将焦点从可观察的技能表现转向读者的认知过程
+> - Goodman 的心理语言学阅读模型挑战了当时主导的[[Behaviorism|行为主义]]阅读教学[[Paradigm\|范式]]，将焦点从可观察的技能表现转向读者的认知过程
 > - 全语言运动深刻影响了英语国家的读写教学，同时也引发了激烈的"阅读战争"——与系统合成语音（synthetic phonics）支持者之间的长期公开辩论
 
 ## 争议与批评

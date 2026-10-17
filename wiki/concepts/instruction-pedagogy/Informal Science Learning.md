@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Lifelong Learning]]"
   - "[[STEM Education]]"
+  - "[[Socioeconomic Status]]"
   - "[[Praxis]]"
   - "[[Engineering Education]]"
   - "[[Apprenticeship]]"
@@ -60,7 +61,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Informal Science Learning
@@ -145,7 +146,7 @@ updated: 2026-10-16
 > 单次场馆参观看似微小，但贯穿一生的多次积极科学遭遇能够深度重塑个体的科学认同（Science Identity）。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, pp. 50–52)]]
-> **全周期累积效应与国家长期队列追踪** 伦敦大学学院（UCL）ASPIRES 等纵向追踪表明，学校教育与非正式学习的有机协同对弥合低社会经济地位家庭的[[Science Capital\|科学资本]]匮乏具有不可替代的补偿作用；单一场馆的孤立测评无法捕捉其终身影响，亟需由国家学术院联合资助方发起跨越数十年的国家长期队列[[Cohort Study\|追踪研究]]。
+> **全周期累积效应与国家长期队列追踪** 伦敦大学学院（UCL）ASPIRES 等纵向追踪表明，学校教育与非正式学习的有机协同对弥合低[[Socioeconomic Status|社会经济地位]]家庭的[[Science Capital\|科学资本]]匮乏具有不可替代的补偿作用；单一场馆的孤立测评无法捕捉其终身影响，亟需由国家学术院联合资助方发起跨越数十年的国家长期队列[[Cohort Study\|追踪研究]]。
 
 ---
 

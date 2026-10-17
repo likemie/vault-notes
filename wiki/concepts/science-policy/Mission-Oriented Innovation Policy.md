@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Research Translation]]"
   - "[[Public Value]]"
+  - "[[Dynamic Assessment]]"
   - "[[Reflexivity]]"
   - "[[Areas of Knowledge]]"
   - "[[Transformative System Failures]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Mission-Oriented Innovation Policy
@@ -167,7 +168,7 @@ updated: 2026-10-16
 > [!quad-grid] ROAR 政策[[Analytic Framework|分析框架]]四大支柱（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, pp. 809–810]]）
 > - **战略路径与方向（Routes）** 公共政策主动确立社会转型方向，通过广泛的民主审议确保方向合法性，将宏大挑战转化为聚焦载体。
 > - **探索型组织能力（Organizations）** 构建具备试错自主权、能够容忍早期失败并提供长期[[Patient Capital|耐性资本]]（Patient Capital）的去中心化公共机构网络。
-> - **[[Public Value|公共价值]]动态评估（Assessment）** 超越静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）与挤出效应假设，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。
+> - **[[Public Value|公共价值]][[Dynamic Assessment|动态评估]]（Assessment）** 超越静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）与挤出效应假设，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。
 > - **风险与收益共享（Risks & rewards）** 构建公私对等的收益共享机制（股权保留、特许权提成、价格上限），消除“风险社会化、收益私有化”的制度不公。
 
 > [!quad-grid] [[Public Dynamic Capabilities|公共部门动态能力]]的三层演化矩阵（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）
@@ -204,7 +205,7 @@ updated: 2026-10-16
 > 传统使命导向政策（如阿波罗登月工程）预设了问题目标的一致性与技术路径的明确性，而当代社会挑战在[[Problem Finding|问题界定]]与解决方案两端均充斥着广泛的价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
-> **双重棘手性命题** 当代使命导向创新政策不可将社会问题的界定及其技术方案视为既定前提。社会挑战的解决不仅依赖科技研发，更涉及相互冲突的社会价值权衡、跨部门制度重塑与公众行为变革。政策制定者必须在问题–解决方案空间中动态评估挑战的争议性、复杂性与不确定性，方能设计出有效的治理路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–478)]]
+> **双重棘手性命题** 当代使命导向创新政策不可将社会问题的界定及其技术方案视为既定前提。社会挑战的解决不仅依赖科技研发，更涉及相互冲突的社会价值权衡、跨部门制度重塑与公众行为变革。政策制定者必须在问题–解决方案空间中[[Dynamic Assessment|动态评估]]挑战的争议性、复杂性与不确定性，方能设计出有效的治理路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–478)]]
 
 ---
 

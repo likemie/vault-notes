@@ -12,7 +12,7 @@ aliases:
 summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；主张教学的核心不在于记忆现成事实，而在于引导学习者作为协作共同体对作为公共制品的观点进行持续改进，承担集体认知责任，并在反思性结构化中实现深层科学探究"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Discourse]]"
   - "[[Problem Solving]]"
+  - "[[Intentionality]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Knowledge Building Theory
@@ -96,7 +97,7 @@ updated: 2026-10-16
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 玛琳·斯卡达马利亚（[[Marlene Scardamalia|Marlene Scardamalia]]）与卡尔·贝莱特（[[Carl Bereiter|Carl Bereiter]]）在 1990 年代初提出，里程碑文献包括 *Higher Order Knowledge Acquisition in Computer-Supported Collaborative Learning Environments* (1991)、*Computer Support for Knowledge-Building Communities* (1994) 及 *Knowledge Building: Theory, Pedagogy, and Technology* (2006)。
-> - **原初问题** 认知心理学研究发现，专家在写作和[[Problem Solving|复杂问题解决]]中展现出高度的知识转化（Knowledge Transforming）与意向性学习（Intentional Learning），而普通学生则陷入低阶的知识陈述（Knowledge Telling）；如何借助技术支持将专家团队的[[Creativity|创造性]][[Knowledge Production|知识生产]]机制普及至普通课堂成为核心问题。
+> - **原初问题** 认知心理学研究发现，专家在写作和[[Problem Solving|复杂问题解决]]中展现出高度的知识转化（Knowledge Transforming）与[[Intentionality|意向性]]学习（Intentional Learning），而普通学生则陷入低阶的知识陈述（Knowledge Telling）；如何借助技术支持将专家团队的[[Creativity|创造性]][[Knowledge Production|知识生产]]机制普及至普通课堂成为核心问题。
 > - **理论资源与材料** 汲取波普尔的世界 3 概念（将观点作为可批判改进的客体）、[[Lev Vygotsky|维果茨基]]（Lev Vygotsky）的社会文化中介理论以及真实科学实验室的知识学研究。
 > - **形成路径** 从最初开发计算机支持的意向学习环境（Computer-Supported Intentional Learning Environment, CSILE）软件，到提炼 12 条知识建构教学设计原则，逐步发展为贯通[[Epistemology|认识论]]、教学法与技术环境的系统[[Paradigm|范式]]。
 

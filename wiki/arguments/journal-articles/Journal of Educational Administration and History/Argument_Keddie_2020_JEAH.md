@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_JEAH"
 argument_key: "Argument_Keddie_2020_JEAH"
 argument_display_title: "School autonomy, marketisation and social justice: the plight of principals and schools"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[School Autonomy]]"
+  - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
@@ -48,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2020
 doi: ""
 citation_aliases:
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > 4. **特定学校的困境(p.440-441)**
 >    - 小型学校因规模经济问题而无法与大校竞争
->    - 家长筹资能力的高度差异（高 SES 学校可筹集四倍于低 SES 学校的资金）加剧分层
+>    - 家长筹资能力的高度差异（高 [[Socioeconomic Status|SES]] 学校可筹集四倍于低 SES 学校的资金）加剧分层
 >    - 非集权化的人员配置系统使"难以配置人员"的学校更难获得优质教师
 >    - 学校正在用自己的资源填补本应由国家提供的服务
 >

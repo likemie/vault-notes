@@ -8,7 +8,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Emic and Etic]]"
   - "[[Rich and Thick Description]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Critical Realism]]"
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Anthony Giddens
@@ -178,7 +179,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **[[Epistemology|认识论]]对话者** [[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas） — 共同清算[[Positivism|实证主义]]霸权，哈贝马斯在《交往行动理论》中高度认同吉登斯对生活世界前诠释结构与[[Double Hermeneutic|双重诠释]]的阐发。
 > - **批判对象** [[Auguste Comte|奥古斯特·孔德]]（Auguste Comte） — 吉登斯深刻解剖了孔德开创的实证社会学在盲目照搬自然科学模式上的认识论教条。
-> - **人本与行动科学同盟** [[Rom Harré|罗姆·哈雷]]（Rom Harré） — 在 1970 年代共同批判行为主义对人性的物化，强调人类作为具备规则意识与自我监控能力的能动主体。
+> - **人本与行动科学同盟** [[Rom Harré|罗姆·哈雷]]（Rom Harré） — 在 1970 年代共同批判[[Behaviorism|行为主义]]对人性的物化，强调人类作为具备规则意识与自我监控能力的能动主体。
 > - **教育社会学对话** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein） — 伯恩斯坦对微观互动论忽视结构与权力不对称的警示，与吉登斯试图通过结构二重性沟通宏观与微观的理论努力形成深刻互补。
 > - **学术出版阵地** 政体出版社（Polity Press） — 1985 年联合创立的学术出版机构，推动当代社会学与人文学术思想的国际传播。
 

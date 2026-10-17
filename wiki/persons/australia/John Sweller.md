@@ -6,7 +6,7 @@ summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Design-Based Research]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # John Sweller
@@ -84,7 +85,7 @@ updated: 2026-10-16
 
 > [!timeline] 生平与职涯
 > - **1972** 于阿德莱德大学（University of Adelaide）获得心理学博士学位，随后进入新南威尔士大学任教，长期从事人类[[Problem Solving\|问题解决]]与认知加工机制研究。
-> - **1988** 在《认知科学》（*Cognitive Science*）发表奠基性论文《问题解决中的认知负荷：对教学设计的影响》，正式提出[[Cognitive Load Theory\|认知负荷理论]]，开启教学设计从行为主义向认知心理学的大转向。
+> - **1988** 在《认知科学》（*Cognitive Science*）发表奠基性论文《问题解决中的认知负荷：对教学设计的影响》，正式提出[[Cognitive Load Theory\|认知负荷理论]]，开启教学设计从[[Behaviorism|行为主义]]向认知心理学的大转向。
 > - **1998** 与 Jeroen van Merriënboer 及 Fred Paas 合作发表《认知架构与教学设计》，系统确立内在认知负荷、外在认知负荷与关联认知负荷的三维分类模型。
 > - **2006** 与 Paul A. Kirschner 及 Richard E. Clark 联合发表重磅争议性论文《为什么教学中极简指导行不通》，系统批驳[[Constructivist Paradigm\|建构主义]]、[[Discovery Learning\|发现学习]]、问题导向学习与[[Inquiry-Based Learning\|探究式教学]]，引爆学习科学界长达数十年的国际大论战。
 > - **2011** 结合 David C. Geary 的进化心理学观点，出版专著《认知负荷理论》，系统提出生物初级与生物次级知识区分，为其支持[[Direct Instruction\|直接教学]]、反对自然主义自主探究奠定进化理论基础。

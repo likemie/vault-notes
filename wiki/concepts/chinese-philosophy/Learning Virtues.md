@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Rote Learning]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Learning Virtues
@@ -241,7 +242,7 @@ updated: 2026-10-16
 > [!warning]
 > Li 系统性地回应了西方观察者对中国／东亚学习方式最常见的批评——即将其斥为"[[Rote Learning\|死记硬背]]"（rote learning）。她指出这种批评犯了四个层面的错误([[Argument_Li_2012_Cambridge\|Li, 2012, pp.136-139]])：
 
-**1. 行为主义谬误：将可观察行为等同于内心过程。** 当西方观察者看到中国学生重复朗读、抄写、背诵时，他们仅仅观察到了外在行为——"行为上，这无非是重复、背诵、抄写"。但 Li 指出："如果可观察的行为被当作学习者内心过程的镜像，那么这些观察者犯下了与行为主义曾受批评的相同错误。"在没有询问学习者自身经验、愿望和解释的情况下，用一种文化视角去解释另一种文化的行为，是高度主观的([[Argument_Li_2012_Cambridge|Li, 2012, pp.136-137]])。
+**1. [[Behaviorism|行为主义]]谬误：将可观察行为等同于内心过程。** 当西方观察者看到中国学生重复朗读、抄写、背诵时，他们仅仅观察到了外在行为——"行为上，这无非是重复、背诵、抄写"。但 Li 指出："如果可观察的行为被当作学习者内心过程的镜像，那么这些观察者犯下了与行为主义曾受批评的相同错误。"在没有询问学习者自身经验、愿望和解释的情况下，用一种文化视角去解释另一种文化的行为，是高度主观的([[Argument_Li_2012_Cambridge|Li, 2012, pp.136-137]])。
 
 **2. 基础阶段混淆：将基础学习阶段的共性当作文化缺陷。** [[Western Learner|西方学习者]]同样大量进行这类重复练习——钢琴初学者、芭蕾学生、医学院基础课学生都在做大量的"盲目"和"无意义"的重复。Li 引用了 Rachmaninoff 早期钢琴训练的真实记录：每天早晨 6 点起床练习数小时，弹错一个音老师会怒吼。然而在西方天才叙事中，"天才的勤奋付出通常被从赞誉[[Discourse|话语]]中删除了——但在东亚却没有"。Li 的要点是：在学习的**基础阶段**，大量重复和记忆在任何文化中都是必要的——这不是中国独有的"缺陷"([[Argument_Li_2012_Cambridge|Li, 2012, pp.137-138]])。
 

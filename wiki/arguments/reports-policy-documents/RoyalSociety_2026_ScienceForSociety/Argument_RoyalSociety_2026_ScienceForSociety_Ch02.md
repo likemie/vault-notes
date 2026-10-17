@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Capital]]"
   - "[[Habitus]]"
+  - "[[Socioeconomic Status]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
@@ -80,7 +81,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
@@ -209,7 +210,7 @@ updated: 2026-10-16
 
 > [!factors] 非正式科学参与的三重排斥机制
 > - **地理空间过度极化（Geographical Clustering）** 顶级国家场馆（如伦敦科学博物馆、自然历史博物馆、格林威治皇家天文台、弗朗西斯·克里克研究所）过度集中于东南英格兰，英格兰东北、西南及苏格兰高地等区域面临高昂的交通与时间成本。（pp. 44–45）
-> - **受众自选与科学资本马太效应（Self-Selecting Audiences & Science Capital Gap）** 商业化高昂门票、学术精英语话体系及场馆文化氛围，使传统场馆访客高度偏向中高社会经济地位家庭，低科学资本家庭在心理上产生科学不属于我们阶层的疏离感。（p. 48）
+> - **受众自选与科学资本马太效应（Self-Selecting Audiences & Science Capital Gap）** 商业化高昂门票、学术精英语话体系及场馆文化氛围，使传统场馆访客高度偏向中高[[Socioeconomic Status|社会经济地位]]家庭，低科学资本家庭在心理上产生科学不属于我们阶层的疏离感。（p. 48）
 > - **高校公共参与转向的意外挤出效应（Crowding-out of Generic Outreach）** 近年大学科研评估激励科研人员投身与特定课题挂钩的[[Participatory Research\|参与式研究]]（Participatory Research），导致通用型地方科学节与中小学外展讲座遭遇学者与资源流失。（p. 49）
 
 > [!case] [[Case Study\|案例研究]]一：[[Big Butterfly Count\|大蝴蝶计数]]：全民参与的 15 分钟生态观察

@@ -10,7 +10,7 @@ summary: "美国保守派教育学者、元分析专家与福音派传教士，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
+  - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # William Jeynes
@@ -49,7 +50,7 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 美国保守派教育学者、[[Meta-analysis\|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
 > - **为什么值得建条目** 他是《VL》（[[Visible Learning]]）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie\|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language\|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
-> - **代表贡献** 主持了针对低社会经济地位（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
+> - **代表贡献** 主持了针对低[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
 > - **阅读边界** 本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
 
 > [!citation-card]- 人物定位的关键来源
@@ -62,7 +63,7 @@ updated: 2026-10-16
 ## 贡献地图
 
 > [!contribution-map] 贡献地图
-> - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对低社会经济地位学童的阅读干预进行合成，但在分类编码上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
+> - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对低[[Socioeconomic Status|社会经济地位]]学童的阅读干预进行合成，但在分类编码上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
 > - **制度／政策影响**[[No Child Left Behind Act 2001]] — 其研究为美国 2000 年代初小布什政府推行排斥[[Whole Language\|全语言]]、强制系统拼读的法案提供了保守派实证依据。
 
 ---
@@ -70,14 +71,14 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2000 — *A [[Meta-analysis]] of studies examining the effect of [[Whole Language]] instruction on the literacy of low-SES students***：评估全语言对低社会经济地位学童读写能力的影响，得出整体负面（d = -0.65）但纯全语言极其正面（d = 0.83）的非对称结论。([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]])
+> - **2000 — *A [[Meta-analysis]] of studies examining the effect of [[Whole Language]] instruction on the literacy of low-[[Socioeconomic Status|SES]] students***：评估全语言对低社会经济地位学童读写能力的影响，得出整体负面（d = -0.65）但纯全语言极其正面（d = 0.83）的非对称结论。([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]])
 
 ---
 
 ## 核心思想与争议
 
 > [!claim] 核心主张
-> 杰尼斯主张，对于低社会经济地位的儿童，传统的基本阅读器（Basal Readers）和系统技能训练在整体上优于[[Whole Language\|全语言]]教学；但他同时承认，如果教师严格贯彻无技能切片、无机械操练的“纯粹全语言”教学，儿童将获得极高的阅读收益（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146-147]]）。
+> 杰尼斯主张，对于低[[Socioeconomic Status|社会经济地位]]的儿童，传统的基本阅读器（Basal Readers）和系统技能训练在整体上优于[[Whole Language\|全语言]]教学；但他同时承认，如果教师严格贯彻无技能切片、无机械操练的“纯粹全语言”教学，儿童将获得极高的阅读收益（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146-147]]）。
 
 > [!concept-lens]- 思想透镜
 > - **问题意识** 如何通过可量化的[[Meta-analysis\|元分析]]方法，评估宗教学校、传统教学法和家庭结构对弱势学童教育表现的促进作用，并将其转化为可供新保守主义政府采纳的政策依据。

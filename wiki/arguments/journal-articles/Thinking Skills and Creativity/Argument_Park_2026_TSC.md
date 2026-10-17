@@ -87,6 +87,7 @@ related_instruments:
   - "[[PRISMA]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
+  - "[[Robert Glaser]]"
   - "[[Socrates]]"
 related_facts:
   - "[[National Education Association]]"
@@ -98,14 +99,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -267,7 +268,7 @@ issuing_organization: ""
 > | Yang and Lin (2004) | 18 | Middle/High school | East Asia | WGCTA（客观） | Chopsticks Creativity Test（客观） |
 > | Yurt (2024) | 21.48 | College | Middle East | Critical Thinking Disposition Scale（主观） | Marmara Creative Thinking Disposition Scale（主观） |
 >
-> 注：CCTDI = 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory）；CCTT = 康奈尔批判性思维测验（Cornell Critical Thinking Test）；TTCT = 托兰斯创造性思维测验（Torrance Tests of Creative Thinking）；WGCTA = 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal）。表中测量名称、主客观编码与数值按原文 Table 1 复刻；原文报告 51 个估计嵌套于 29 项研究（总样本 $N = 12{,}548$），PDF 文本层可读取 42 行。Egger et al. (1997) 行在原文中即以该文献编号标注对应创业模拟研究。（pp. 5–6）
+> 注：CCTDI = 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory）；CCTT = 康奈尔批判性思维测验（Cornell Critical Thinking Test）；TTCT = 托兰斯创造性思维测验（Torrance Tests of Creative Thinking）；WGCTA = 沃森-[[Robert Glaser|格拉泽]]批判性思维评价（Watson-Glaser Critical Thinking Appraisal）。表中测量名称、主客观编码与数值按原文 Table 1 复刻；原文报告 51 个估计嵌套于 29 项研究（总样本 $N = 12{,}548$），PDF 文本层可读取 42 行。Egger et al. (1997) 行在原文中即以该文献编号标注对应创业模拟研究。（pp. 5–6）
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -370,7 +371,7 @@ issuing_organization: ""
 > - **编码与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）编码，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
-> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽[[Critical Thinking Assessment\|批判性思维评价]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）分别匹配[[Alternate Uses Test\|非常规用途测验]]、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition\|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。
+> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-[[Robert Glaser|格拉泽]][[Critical Thinking Assessment\|批判性思维评价]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）分别匹配[[Alternate Uses Test\|非常规用途测验]]、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition\|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。
 
 > [!warrant]- 推理桥梁
 > 三水平模型在统计上正确处理嵌套依赖（模型细节见上文效应量与统计模型一节），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应哪些条件改变相关与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）

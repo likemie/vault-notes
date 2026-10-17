@@ -10,7 +10,7 @@ summary: "俄勒冈大学荣休教授、直接教学法先驱，2000 年在福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Scientism]]"
   - "[[Teacher Professional Agency]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # David Carnine
@@ -87,7 +88,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2000 — *Why Education Experts Resist Effective Practices (And What It Would Take to Make Education More Like Medicine)*** 系统批判美国公立教育学院与教师工会对行为主义[[Effective Teaching|有效教学]]的抗拒，主张引入国家强制标准与医疗级干预清单，彻底打破教师自主[[Empiricism|经验主义]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
+> - **2000 — *Why Education Experts Resist Effective Practices (And What It Would Take to Make Education More Like Medicine)*** 系统批判美国公立教育学院与教师工会对[[Behaviorism|行为主义]][[Effective Teaching|有效教学]]的抗拒，主张引入国家强制标准与医疗级干预清单，彻底打破教师自主[[Empiricism|经验主义]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 > - **2004 — *[[Direct Instruction]] Reading* (Co-authored)** 直接教学法经典操作手册，详尽拆解音素意识、词汇[[Decodification|解码]]与流畅阅读的标准教学脚本与核查步骤。
 
 ---
@@ -142,6 +143,6 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Effective Teaching]] | 概念 | 主张将有效教学固化为类似医学处方的结构化[[Direct Instruction\|直接讲授]]程序。 |
-> | [[Direct Instruction]] | 概念 | 共同开发系统化的直接教学读写课程与行为主义脚本。 |
+> | [[Direct Instruction]] | 概念 | 共同开发系统化的直接教学读写课程与[[Behaviorism\|行为主义]]脚本。 |
 > | [[Thomas B. Fordham Institute]] | 组织事实 | 作为其核心作者发表 2000 年里程碑式报告，抨击教育界抵制有效实践。 |
 > | [[Teacher Professional Agency]] | 概念 | 极力否定教师主观经验与轶事，倡导以外部标准化清单取代教师专业直觉。 |

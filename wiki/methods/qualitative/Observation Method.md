@@ -10,7 +10,7 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -65,11 +65,12 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 related_theories:
   - "[[Situative Perspective]]"
+  - "[[Behaviorism]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Observation Method
@@ -437,7 +438,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的假设影响、学术诚信问题。[[Structured Observation\|结构化观察]]另有行为主义取向（排除意图和动机）、主体性丧失（个体还原为聚合分数）、推断效度问题、忽视情境和定格快照等批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.2 节]]）
+> - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的假设影响、学术诚信问题。[[Structured Observation\|结构化观察]]另有[[Behaviorism|行为主义]]取向（排除意图和动机）、主体性丧失（个体还原为聚合分数）、推断效度问题、忽视情境和定格快照等批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.2 节]]）
 > - **适用边界** 主要收集外显行为数据，对内在心理过程的推断需谨慎；观察结果受时间、场合和观察对象的人口统计学特征影响
 > - **误用风险** 将相关关系误判为[[Causality\|因果关系]]；忽视观察者培训的重要性；将非[[Structured Observation\|结构化观察]]数据过度量化
 > - **补救方式** 加强观察者培训；采用多人同步观察和反复观察；结合多种观察策略和记录方式；使用成熟的观察量表；辅以访谈或[[Questionnaire\|问卷调查]]进行[[Triangulation\|三角互证]]；对特定学生进行跟踪以获取跨情境的完整画像；采用[[Habituation\|习惯化]]减少反应性

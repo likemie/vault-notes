@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Knowledge Production]]"
   - "[[Bureaucracy]]"
+  - "[[Socioeconomic Status]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
@@ -66,7 +67,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Data Infrastructure
@@ -112,7 +113,7 @@ updated: 2026-10-16
 > [!feature] 数据基础设施的技术流转与社会实践构件
 > - **全域数据吸纳与标准化采集（Input & Ingestion）** 依托互操作标准与统一接口，定期自基层学校与学区学生信息系统抽取学生学籍与教职员微观记录，学区在此扮演核心数据中介。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 4)]]
 > - **双轨质量核验与法定时间冻结（Validation & Warehousing）** 人机结合实施多重质检，运用自动化逻辑规则过滤异常值，并在法定截止节点强行闭锁数据库，确立作为公文权威依据的单一事实来源（Single Point of Truth）。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 7)]]
-> - **算法模型加工与二次[[Commensuration\|通约]]加权（Analysis & Modelling）** 业务处室协同外部统计专家，运用特定检索程序运行指标加权、早警预测建模、社会经济背景测算及统计同类校匹配。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–5)]]
+> - **算法模型加工与二次[[Commensuration\|通约]]加权（Analysis & Modelling）** 业务处室协同外部统计专家，运用特定检索程序运行指标加权、早警预测建模、[[Socioeconomic Status|社会经济背景]]测算及统计同类校匹配。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–5)]]
 > - **分权定向呈报与界面化[[Disciplina and Doctrina\|规训]]（Reporting & Interface）** 形成差异化知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–6)]]
 
 > [!logic-map]- 要素关系与数据流转网络
@@ -206,7 +207,7 @@ updated: 2026-10-16
 > > - **社会-技术实验论** 强调基础设施是由行动者在多重冲突诉求中即兴烹饪与调配出的脆弱妥协体。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 4)]]
 >
 > > [!axis] 去地域化统计相似对标还是本地邻近社群参照
-> > 统计学家推崇依靠算法在全州匹配社会经济背景相似的统计双胞胎（statistical twins）以实现公平比较；基层学校与学区则强烈抵制远方同类学校，坚决主张唯有本地劳动力市场与共享文化相近的周边学校才具现实可比性。
+> > 统计学家推崇依靠算法在全州匹配[[Socioeconomic Status|社会经济背景]]相似的统计双胞胎（statistical twins）以实现公平比较；基层学校与学区则强烈抵制远方同类学校，坚决主张唯有本地劳动力市场与共享文化相近的周边学校才具现实可比性。
 > >
 > > - **统计通约主义** 追求抹平地理距离的纯数学背景公平基准。
 > > - **本地文化认同** 强调教育实践深植于特定社区生态，拒绝去情境化的冰冷数值对标。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 7)]]

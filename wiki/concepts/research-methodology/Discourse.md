@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Shape-Shifting]]"
+  - "[[Intentionality]]"
   - "[[School Autonomy]]"
   - "[[Gatekeepers]]"
   - "[[Recontextualization]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Discourse
@@ -134,7 +135,7 @@ updated: 2026-10-16
 > |---|---|---|
 > | **衔接性（Cohesion）** | 文本各表层语法成分之间的结构性联系 | 代词指代、连接词使用与句子跨度的照应规则 |
 > | **连贯性（Coherence）** | 概念与命题在底层逻辑与意义上的融贯性 | 观点推进脉络、逻辑推理链条与潜在语义假定 |
-> | **意向性（Intentionality）** | 言说者或作者通过文本达成特定意图的主观取向 | 文本旨在完成何种言语行为（说服、命令、规劝或辩护） |
+> | **[[Intentionality\|意向性]]（Intentionality）** | 言说者或作者通过文本达成特定意图的主观取向 | 文本旨在完成何种言语行为（说服、命令、规劝或辩护） |
 > | **可接受性（Acceptability）** | 目标受众对文本内容与社会规范的认可程度 | 受众依据何种文化准则判定文本有效、可信或合理 |
 > | **信息性（Informativeness）** | 文本相对于受众先验知识所提供的新增认知增量 | 文本包含预期信息与非预期信息的分布比例与认知冲击 |
 > | **情境性（Situationality）** | 文本同所处物质、制度与历史时空脉络的嵌入关联 | 具体的物理场景、机构层级与历史节点如何改变文本含义 |
@@ -211,7 +212,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、意向性与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
+> - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何[[Disciplina and Doctrina|规训]]主体，话语被确立为制度性实践。
 > - **2000s 至今 — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 

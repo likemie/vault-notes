@@ -13,7 +13,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Cognitive Decoupling]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Center of Calculation]]"
   - "[[Total War]]"
   - "[[Epistemology]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # IQB-Bildungstrend
@@ -127,7 +128,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心学术与政策影响
 > - **国家标准达成度的透明化刻画** 精确测定全德及各联邦州未能达到最低标准（Mindeststandard）的学生比例，打破了传统德国仅凭毕业证书互认而缺乏实际学业产出度量的黑箱。
-> - **社会背景与移民背景学业差距揭示** 持续监测移民一代、二代学生及低社会经济地位家庭子女在阅读与数学领域的达标鸿沟，为全德教育公平政策提供客观靶向。
+> - **社会背景与移民背景学业差距揭示** 持续监测移民一代、二代学生及低[[Socioeconomic Status|社会经济地位]]家庭子女在阅读与数学领域的达标鸿沟，为全德教育公平政策提供客观靶向。
 > - **反向穿透各州文化主权** 尽管德国法律严格禁止公开发布个别学校排名表，但 [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 输出的跨州达标排行榜对各州教育部构成了巨大的政治与公众舆论压力，实质性重塑了联邦多层级教育治理格局（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–145]]）。
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-10-16
 > > 德国宪法强调各州文化主权，测评结果发布常引发各州执政联盟的政绩辩护与排名争议。
 > >
 > > - **批评观点** 跨州达标率对比容易被媒体简化为“南方州优于北方州”的政治攻讦工具，加剧州际紧张。
-> > - **回应辩护** [[Institute for Educational Quality Improvement\|IQB]] 坚持以“国家标准达成度”为核心报告维度，辅以社会经济背景调整模型，强调为各州提供循证改进依据而非单纯排名。
+> > - **回应辩护** [[Institute for Educational Quality Improvement\|IQB]] 坚持以“国家标准达成度”为核心报告维度，辅以[[Socioeconomic Status|社会经济背景]]调整模型，强调为各州提供循证改进依据而非单纯排名。
 
 > [!warning] 适用局限
 > IQB-Bildungstrend 属于宏观层面的系统监测（System Monitoring），抽样精度仅能支撑全德和州级维度的统计推断，不能向单个学校或教师提供细粒度的校本诊断反馈（校本诊断由 [[Vergleichsarbeiten\|VERA]] 全样本统测承担）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）。

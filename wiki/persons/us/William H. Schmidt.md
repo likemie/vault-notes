@@ -8,7 +8,7 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Learning Progression]]"
   - "[[Epistemic Ascent]]"
+  - "[[Socioeconomic Status]]"
   - "[[Determinism]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
@@ -97,7 +98,7 @@ updated: 2026-10-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 施密特的核心思想建立在严密的比较实证之上：他认为学生[[Academic Achievement|学业成就]]的根本差异并不单纯源于种族或家庭社会经济地位，而是直接受制于学校课程赋予学生的“学习机会”（Opportunity to Learn）。美国公立教育的最大体制顽疾在于各州割裂导致的课程碎片化与浅表化，大纲试图面面俱到却浅尝辄止；唯有建立在学科内在逻辑和高阶认知梯度基础上的“聚焦、严谨与连贯”的国家统一课程标准，才能为弱势群体提供平等的认知发展跳板。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
+> 施密特的核心思想建立在严密的比较实证之上：他认为学生[[Academic Achievement|学业成就]]的根本差异并不单纯源于种族或家庭[[Socioeconomic Status|社会经济地位]]，而是直接受制于学校课程赋予学生的“学习机会”（Opportunity to Learn）。美国公立教育的最大体制顽疾在于各州割裂导致的课程碎片化与浅表化，大纲试图面面俱到却浅尝辄止；唯有建立在学科内在逻辑和高阶认知梯度基础上的“聚焦、严谨与连贯”的国家统一课程标准，才能为弱势群体提供平等的认知发展跳板。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
 
 > [!citation-card] 高绩效国家课程的三大黄金特征
 > 咨询小组将国际课程对标的立论基础，建立在威廉·H·施密特关于 [[TIMSS]] 的开创性研究之上。施密特的研究证实，全球学术高绩效国家的课程标准无一例外具备三大显著特征：聚焦（涵盖更少的主题但探讨得更加深入）、严谨，以及连贯（遵循学科本身的逻辑组织主题循序递进，并最大程度减少低效的机械重复）。

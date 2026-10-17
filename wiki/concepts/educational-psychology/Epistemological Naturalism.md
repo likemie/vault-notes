@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
 related_theories:
   - "[[Reliabilism]]"
+  - "[[Behaviorism]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Epistemological Naturalism
@@ -105,7 +106,7 @@ updated: 2026-10-16
 > 简述传统基础主义破产后，关于[[Epistemology\|认识论]]何去何从的极端重构方案。
 
 > [!claim] [[W. V. O. Quine\|Quine, W. V. O.]]
-> 既然我们永远无法用严密的逻辑从纯粹的感觉数据推导出整个科学体系，那么就应当放弃这种“第一哲学”的幻觉。认识论应该退回为自然科学（特别是心理学）的一个分支，专注于用行为主义和认知科学的方法来研究人类动物的感官输入是如何转化为理论输出的因果规律。
+> 既然我们永远无法用严密的逻辑从纯粹的感觉数据推导出整个科学体系，那么就应当放弃这种“第一哲学”的幻觉。认识论应该退回为自然科学（特别是心理学）的一个分支，专注于用[[Behaviorism|行为主义]]和认知科学的方法来研究人类动物的感官输入是如何转化为理论输出的因果规律。
 
 ---
 

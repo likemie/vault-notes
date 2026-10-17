@@ -10,7 +10,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 61
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Independent Variable]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Academic Achievement]]"
   - "[[Unit of Analysis]]"
   - "[[Counterfactual]]"
@@ -90,7 +91,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Correlational Research
@@ -103,7 +104,7 @@ updated: 2026-10-16
 > **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 学生认知与情感特征、家庭社会经济地位、学校组织氛围、教师教学行为、微观[[Academic Achievement\|学业成绩]]等在自然常态情境下自然分布的量化指标。
+> - **研究对象** 学生认知与情感特征、家庭[[Socioeconomic Status|社会经济地位]]、学校组织氛围、教师教学行为、微观[[Academic Achievement\|学业成绩]]等在自然常态情境下自然分布的量化指标。
 > - **问题类型** 适合回答描述、分布比较、关联强度测定、多因素预测分析、中介机制探索等问题；**不适合**在缺乏外生因果识别策略的情境下直接回答因果效应检验问题。
 > - **[[Unit of Analysis\|分析单位]]** 学生个体、教师、课堂、学校或学区汇总数据。
 > - **输出形式** [[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（$r$）、斯皮尔曼等级相关系数（$\rho$）、[[Multiple Regression\|多元回归]]系数（$\beta$）、判定系数（$R^2$）、路径系数、结构方程模型（Structural Equation Modeling, [[Causal Modeling\|SEM]]）拟合指数。
@@ -152,7 +153,7 @@ updated: 2026-10-16
 > - **数据结构** 常见为单时间点的横截面截面数据，或具有时间跨度的面板追踪数据（Panel Data）。
 > - **样本与单位** 通常依赖大[[Sample Size Determination\|样本量]]（$N \ge 100 \sim 10,000+$）以保障小至中等效应量的统计检出力。
 > - **核心变量配置**
->   - **预测变量（Predictor）** 理论模型所考察的主导自变量（如[[Active Learning\|主动学习]]态度、家庭社会经济背景、[[Student-Teacher Relationship\|师生关系]]）。
+>   - **预测变量（Predictor）** 理论模型所考察的主导自变量（如[[Active Learning\|主动学习]]态度、[[Socioeconomic Status|家庭社会经济背景]]、[[Student-Teacher Relationship\|师生关系]]）。
 >   - **效标变量（Criterion/Outcome）** 终端结果变量（如标准化[[Academic Achievement\|学业成就]]成绩、问题行为发生率）。
 >   - **控制变量（Control Covariates）** 基线前测表现、性别、族裔、贫困状态（如免费午餐资格）等潜在干扰变量。
 > - **模型与诊断** 检验正态性、方差齐性、残差独立性与方差膨胀因子（Variance Inflation Factor, VIF）。
@@ -245,7 +246,7 @@ updated: 2026-10-16
 
 > [!critique] 二阶综合中的跨设计混淆与因果效度幻象（基于 Kalmendal et al., 2025）
 > - **观察相关与实验因果的违规平权** 在宏观[[Meta-meta-analysis|二阶元分析]]与证据排行榜中，观察性相关研究常被研究者无差别地与受控实验设计（[[Randomised Controlled Trials|RCT]] / [[Quasi-Experimental Designs|QED]]）直接算术平均。[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 对《可见的学习》全库 322 个影响因素开展审计发现，多达 **27%（$n = 82$）** 的因素违背统计学原理，将观察性相关研究与严格组间实验混杂求和；另有 **10%** 同时混杂组间、组内与相关研究。
-> - **误导教学改进优先级** 相关性研究仅能描述常态伴随特征（如家庭社会经济地位、学生自我概念或欺凌发生率），无法分离反向因果与第三变量混杂。将其直接与拼读教学、课堂反馈等因果干预并列排榜，导致教师误以为改变某些表面伴随现象（如通过口头夸奖拔高自我概念）就能自动提升学业成绩，制造了严重的循证政策误导。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 15–16)]]
+> - **误导教学改进优先级** 相关性研究仅能描述常态伴随特征（如家庭[[Socioeconomic Status|社会经济地位]]、学生自我概念或欺凌发生率），无法分离反向因果与第三变量混杂。将其直接与拼读教学、课堂反馈等因果干预并列排榜，导致教师误以为改变某些表面伴随现象（如通过口头夸奖拔高自我概念）就能自动提升学业成绩，制造了严重的循证政策误导。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 15–16)]]
 
 > [!critique] 单项相关研究门槛下的合规漏洞与虚假繁荣（基于 Ginsberg et al., 2024）
 > - **单一研究支持下的采购盲区** [[Every Student Succeeds Act\|ESSA]] 法定将 Tier III 设为合格门槛且仅需“至少一项”研究支持。[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 穿透式财务审计发现，大量耗费数千万美元公共教育资金的商业采购项目，全库仅能检索到单一项控制不全的相关性研究（例如针对实地考察 [[Champ\|field]] trips 的单一相关性研究，或 Stoeger 等人关于[[Self-Regulated Learning\|自我调节学习]]的单篇报告）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174, 180)]]

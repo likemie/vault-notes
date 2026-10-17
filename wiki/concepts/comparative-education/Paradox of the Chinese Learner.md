@@ -7,10 +7,10 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/china
 - region/east-asia
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Discourse]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
 related_methods:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Paradox of the Chinese Learner
@@ -117,7 +118,7 @@ updated: 2026-10-16
 
 ### Li 的系统性反驳
 
-[[Argument_Li_2012_Cambridge|Li (2012, pp.136-139)]]在自身研究的基础上，进一步指出了"死记硬背"批评的四重方法论谬误：行为主义谬误、基础阶段混淆、静态观察谬误、即时理解谬误。完整拆解见 [[Chinese Learner#第三阶段：Li (2012) 的系统性反驳]]。
+[[Argument_Li_2012_Cambridge|Li (2012, pp.136-139)]]在自身研究的基础上，进一步指出了"死记硬背"批评的四重方法论谬误：[[Behaviorism|行为主义]]谬误、基础阶段混淆、静态观察谬误、即时理解谬误。完整拆解见 [[Chinese Learner#第三阶段：Li (2012) 的系统性反驳]]。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -16,6 +16,7 @@ tags:
   - stratification
   - paradigm/sociological
 related_concepts:
+  - "[[Socioeconomic Status]]"
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 ## 核心主张
@@ -54,14 +55,14 @@ updated: 2026-10-16
 > 2. **加剧性（exacerbatory）** 学校使不平等恶化
 > 3. **补偿性（compensatory）** 学校减少不平等
 >
-> > 例：在[[Seasonal Comparison\|季节性比较]]研究中，SES 认知技能差距在学校期间增长更慢（甚至缩小），而在暑假期间加速扩大。学校虽未在绝对意义上消除差距，但相对于没有学校的情况（暑假作为[[Counterfactual\|反事实]]），学校发挥了补偿作用——就像减肥项目虽未使参与者减重，但对照组增重 5 磅，因此项目仍有正面效果([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.6]])。
+> > 例：在[[Seasonal Comparison\|季节性比较]]研究中，[[Socioeconomic Status|SES]] 认知技能差距在学校期间增长更慢（甚至缩小），而在暑假期间加速扩大。学校虽未在绝对意义上消除差距，但相对于没有学校的情况（暑假作为[[Counterfactual\|反事实]]），学校发挥了补偿作用——就像减肥项目虽未使参与者减重，但对照组增重 5 磅，因此项目仍有正面效果([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.6]])。
 
 ## 理论内部结构
 
 > [!abstract] 折射的三个维度
 > 框架主张学校可能沿不同维度以不同方式塑造不平等([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])：
 >
-> - **SES 认知技能差距** 证据一致表明学校是补偿性的——差距在学校期间增长更慢（Downey et al., 2004; Entwisle & Alexander, 1992; Heyns, 1978）
+> - **[[Socioeconomic Status|SES]] 认知技能差距** 证据一致表明学校是补偿性的——差距在学校期间增长更慢（Downey et al., 2004; Entwisle & Alexander, 1992; Heyns, 1978）
 > - **儿童肥胖（BMI）** 学校也是补偿性的——BMI 在暑假期间增长速度约为学期间的两倍（von Hippel et al., 2007）
 > - **社交／行为技能差距** 学校似乎是中性的——SES、种族和性别差距在学校期间与暑假期间的增长速度无显著差异（Downey, Workman & von Hippel, 2016）
 > - **种族认知技能差距** 证据复杂——早期研究暗示补偿性（Heyns, 1978），但更新的全国代表性 ECLS-K 数据揭示更令人不安的模式：白人儿童可能比黑人或亚裔儿童从学校中获益更多（Downey et al., 2004; Condron, 2009）
@@ -93,7 +94,7 @@ updated: 2026-10-16
 > [!note-] 发展脉络
 > - **1966** — [[Coleman Report 1966\|Coleman Report]] 发布，结论：学校对成就差距的作用很小；家庭背景是主要驱动力（Coleman et al., 1966）
 > - **1970s–1990s** — "批判视角"兴起并主导教育社会学：学校要么再生产（Bourdieu, 1977; Bowles & Gintis, 1976）要么加剧不平等（Kozol, 1992; Oakes, 1985）
-> - **1978–2004** — [[Seasonal Comparison\|季节性比较]]研究积累：Heyns (1978) 首次发现暑假 SES 差距扩大快于学年 → Entwisle & Alexander (1992, 1994) 巴尔的摩[[Longitudinal Study\|纵向研究]] → Downey et al. (2004) 首次全国代表性 ECLS-K 分析，均指向学校对 SES 认知差距的补偿作用
+> - **1978–2004** — [[Seasonal Comparison\|季节性比较]]研究积累：Heyns (1978) 首次发现暑假 [[Socioeconomic Status|SES]] 差距扩大快于学年 → Entwisle & Alexander (1992, 1994) 巴尔的摩[[Longitudinal Study\|纵向研究]] → Downey et al. (2004) 首次全国代表性 ECLS-K 分析，均指向学校对 SES 认知差距的补偿作用
 > - **2016** — Downey & Condron 提出折射框架([[Argument_Downey_2016_SoE\|Downey & Condron, 2016]])，试图调和批判视角与季节性比较证据之间的矛盾
 
 ## 研究范式
@@ -107,7 +108,7 @@ updated: 2026-10-16
 
 > [!warning] 补偿性是否被夸大？
 > 框架自身承认的局限性([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.10]])：
-> - 目前仅有证据表明学校对 SES 认知技能差距和 BMI 是补偿性的，对社交／行为技能是中性
+> - 目前仅有证据表明学校对 [[Socioeconomic Status|SES]] 认知技能差距和 BMI 是补偿性的，对社交／行为技能是中性
 > - 对其他结果（健康、毕业率、收入等）的效应尚待研究
 > - SES 认知技能差距可能是例外而非规则——学校可能对大多数其他结果是不平等的引擎
 

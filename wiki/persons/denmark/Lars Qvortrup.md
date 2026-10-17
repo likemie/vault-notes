@@ -7,7 +7,7 @@ summary: "丹麦教育学者和系统理论研究者，专业判断与复杂性�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Behaviorism]]"
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Effect Size]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 简介
 
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > [!abstract] 主要著作
 > - Qvortrup, L. (2015). Baggrund for og diskussioner af [[Visible Learning]] med særligt henblik på lærings- og vidensbegrebet. *[[Paideia]]*, 9, 22–33. — VL 支持者立场讨论论文：回应意识形态、方法论和情境三类批评，并指出 Hattie 的"学习结果"概念需要更动态的知识模型
 > - Qvortrup, L. (2019). Visible learning and its enemies – the missing link. *Nordic Journal of Studies in Educational Policy*, 5(1), 3–7. — VL 支持者立场讨论论文：以解释社群、观察透镜[[Epistemology\|认识论]]和[[Structural Coupling\|结构耦合]]三线论证为 Hattie 辩护
-> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & [[Didaktik]]* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主义学习理论的系统阐述
+> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & [[Didaktik]]* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代[[Behaviorism|行为主义学习理论]]的系统阐述
 
 ## 核心思想
 

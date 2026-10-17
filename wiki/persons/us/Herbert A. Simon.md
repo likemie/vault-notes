@@ -9,7 +9,7 @@ summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Complexity Theory]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Herbert A. Simon
@@ -151,7 +152,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **核心合作者** 艾伦·纽厄尔（Allen Newell） — 长期学术伙伴，共同开发逻辑理论家（Logic Theorist）与通用问题求解器（GPS），并合撰《人类问题求解》（*Human [[Problem Solving]]*），共同分享 1975 年图灵奖。
 > - **学术论敌与批评者** [[Douglas Hofstadter]] — 认知科学家，对早期符号主义 AI 将思维还原为机械规则表示的简化论取向提出持久质疑与批评。
-> - **学术论敌与批评者** [[Noam Chomsky]] — 语言学家，批判基于行为主义与简单计算归纳的认知模型，强调人类先天气质与普遍语法的内在独特性。
+> - **学术论敌与批评者** [[Noam Chomsky]] — 语言学家，批判基于[[Behaviorism|行为主义]]与简单计算归纳的认知模型，强调人类先天气质与普遍语法的内在独特性。
 > - **关键历史会议** [[Dartmouth Summer Research Project on Artificial Intelligence]] — 1956 年历史性会议的核心参与者与早期成果展示者。
 
 ---

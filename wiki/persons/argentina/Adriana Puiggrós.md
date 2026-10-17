@@ -8,7 +8,7 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,6 +48,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
+  - "[[Adriana Puiggrós]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
   - "[[Ernesto Schiefelbein]]"

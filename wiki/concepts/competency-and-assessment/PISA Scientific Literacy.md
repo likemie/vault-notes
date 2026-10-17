@@ -7,7 +7,7 @@ aliases:
 summary: "OECD 国际学生评估项目（PISA）确立的面向全体未来公民的科学胜任力评价框架，强调在真实个人、社会与全球情境中解释科学现象、评估探究设计与审视数据证据。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Direct Instruction]]"
   - "[[Authentic Science Practices]]"
+  - "[[Socioeconomic Status]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Operationalization]]"
   - "[[Critique of PISA]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-10-11'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # PISA Scientific Literacy
@@ -165,7 +166,7 @@ updated: 2026-10-16
 > 科学教育学者批评指出，[[PISA]] 所谓的探究胜任力在很大程度上被还原为封闭式[[Multiple-Choice Questions|选择题]]与标准化的计算机虚拟控制[[Variable|变量]]操作。这种测评形式更考验学生的文本阅读能力与屏幕交互熟练度，无法完整测量[[Authentic Science Practices|真实科学实践]]中涉及的动手实验直觉、意外误差应对与长周期团队合作（Royal Society, 2026a）。
 
 > [!critique-logic] 文化背景对情境化试题的隐性干扰
-> 情境化试题极度依赖复杂的背景叙事（如特定地理环境、先进科技设备、西方生活方式），容易对非西方国家或社会经济地位偏弱的学生构成隐性文化壁垒，产生测量功能差异（DIF），从而削弱了跨国[[Scientific Literacy|科学素养]]排位的纯粹可比性。
+> 情境化试题极度依赖复杂的背景叙事（如特定地理环境、先进科技设备、西方生活方式），容易对非西方国家或[[Socioeconomic Status|社会经济地位]]偏弱的学生构成隐性文化壁垒，产生测量功能差异（DIF），从而削弱了跨国[[Scientific Literacy|科学素养]]排位的纯粹可比性。
 
 ---
 

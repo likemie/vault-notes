@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
@@ -24,7 +24,7 @@ citation_aliases:
 isbn: ""
 status: active
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-17
 tags:
   - theme/accountability
   - theme/formative-assessment
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Class Size]]"
   - "[[Homework]]"
+  - "[[Socioeconomic Status]]"
   - "[[Epistemology]]"
   - "[[Grade Retention]]"
   - "[[Cultural Capital]]"
@@ -147,7 +148,7 @@ sources:
 > | 样本层面 | 构成 |
 > |---|---|
 > | **[[Meta-analysis\|元分析]]库样本** | 涵盖全球跨越数十年的 100 余项教育创新主题，累计逾 300,000 项独立实证研究，构建了覆盖微格教学、[[Direct Instruction\|直接教学]]、[[Class Size\|班级规模]]与[[Homework\|家庭作业]]等领域的综合效应库。（p. 16） |
-> | **学生实测常模样本** | 新西兰各学区 5–12 年级约 25,000 名中小学生，涵盖不同社会经济背景公立学校，采集 1,500 余道课程锚定试题作答反应。（pp. 15–16） |
+> | **学生实测常模样本** | 新西兰各学区 5–12 年级约 25,000 名中小学生，涵盖不同[[Socioeconomic Status\|社会经济背景]]公立学校，采集 1,500 余道课程锚定试题作答反应。（pp. 15–16） |
 > | **学校报告文本样本** | 新西兰全国 156 所中小学真实向家长出具的学生期末评价报告档案。（p. 12） |
 > | **质性案例干预样本** | 海伦·廷珀利（Helen Timperley）与拉塞尔·比肖普（Russell Bishop）等学者在低社会经济地位学区开展的读写项目教师样本，以及针对毛利族学生的课堂互动干预样本。（pp. 16–18） |
 
@@ -316,7 +317,7 @@ sources:
 
 #### 2. 效应量工具化与“数据意外”对教师防御性心智图式的冲击
 
-效应量工具不仅可用于学术分析，更能作为校本教研的直观标尺，打破低社会经济地位学校常见的[[Learned Helplessness|习得性无助]]与归因借口（pp. 16–17）。
+效应量工具不仅可用于学术分析，更能作为校本教研的直观标尺，打破低[[Socioeconomic Status|社会经济地位]]学校常见的[[Learned Helplessness|习得性无助]]与归因借口（pp. 16–17）。
 
 > [!case] 低社会经济地位学校读写评估干预与“数据意外”实验（Timperley, 2004, 2005）
 > - **研究场景与档案积压** 廷珀利深入新西兰一所极低社会经济地位学校（Decile 1，最低十分位）。每位教师的文件柜中都塞满了详尽的学生个体成长记录册，然而正规标准化工具（如玛丽·克莱的早期读写观察调查，Clay, 1993）却被教师视为“做给副校长看的形式主义材料”，被束之高阁。

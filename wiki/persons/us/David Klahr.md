@@ -8,10 +8,10 @@ summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -44,10 +44,12 @@ related_methods:
   - "[[Meta-analysis]]"
 related_facts:
   - "[[American Educational Research Association]]"
+related_theories:
+  - "[[Behaviorism]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # David Klahr
@@ -62,7 +64,7 @@ updated: 2026-10-16
 ## 核心理论与方法学贡献
 
 ### 1. 科学发现双空间搜索模型（SDDS）
-Klahr and Dunbar (1988) 突破传统行为主义框架，将科学探究解析为一个受目标驱动的信息加工系统。该模型将科学家的推理操作解构为在两个相互依存的问题空间中的启发式搜索：
+Klahr and Dunbar (1988) 突破传统[[Behaviorism|行为主义]]框架，将科学探究解析为一个受目标驱动的信息加工系统。该模型将科学家的推理操作解构为在两个相互依存的问题空间中的启发式搜索：
 - **假设空间搜索（Search in [[Hypothesis]] Space）** 学习者调动已有先验知识、类比直觉或先前实验数据，生成、细化并重构待检验的因果假设；
 - **实验空间搜索（Search in Experiment Space）** 针对特定假设，规划并设计具体物理或虚拟实验操作（如调整斜坡坡度或小球材质）；
 - **证据评估（Evidence Evaluation）** 将实验观察结果与假设预期比对，决定是接受、修正还是彻底推翻既有假设。

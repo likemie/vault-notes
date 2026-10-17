@@ -11,7 +11,7 @@ subtype: program
 region: estonia
 fact_region: "estonia"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Scientific Literacy]]"
+  - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Estonian STEM Education Model
@@ -70,5 +71,5 @@ updated: 2026-10-16
 ## 效果与国际影响
 
 > [!finding-cards] 国际评价与启示
-> - **卓越的 [[PISA]] 科学成就与教育公平** 爱沙尼亚在多次 [[OECD]] PISA 测评中均取得全欧洲第一的[[Scientific Literacy\|科学素养]]与数学成绩，且家庭社会经济背景对学业的不利影响为经合组织内最低之一，实现了学术卓越与普惠公平的高效统一。
+> - **卓越的 [[PISA]] 科学成就与教育公平** 爱沙尼亚在多次 [[OECD]] PISA 测评中均取得全欧洲第一的[[Scientific Literacy\|科学素养]]与数学成绩，且[[Socioeconomic Status|家庭社会经济背景]]对学业的不利影响为经合组织内最低之一，实现了学术卓越与普惠公平的高效统一。
 > - **对英国师资改革的启示** 实证证明，提升[[Teacher Professional Agency\|教师专业自主权]]、社会地位与制度信任，是增强职业吸引力、稳定紧缺学科师资队伍的最具成本效益的战略支点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31, 36)]]

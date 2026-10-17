@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Complexity Theory]]"
+  - "[[Behaviorism]]"
   - "[[Post-colonial Theory]]"
   - "[[Queer Theory]]"
   - "[[Postmodernism]]"
@@ -114,7 +115,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02
 
@@ -339,7 +340,7 @@ Tyler（1949）的课程四问原理如下：
 > Doll（1993）从后现代和[[Complexity Theory\|复杂性理论]]视角指出 Tyler 原理代表了一个**封闭的规划和实践系统**，与以下理念根本冲突：
 > - **教育的开放过程本质** 教育不是填充预定容器，而是创造尚未存在的可能性。
 > - **后现代社会的开放与多样** 知识不再有单一的正确结构，权力不再那么单一。Tyler 原理假设一个统一、可预测的教育世界已不复存在。
-> - **[[Constructivist Paradigm\|建构主义]]心理学的进展** 学习不是行为主义的刺激-反应，而是学习者主动建构意义的过程。Tyler 原理忽视了这一根本转变。
+> - **[[Constructivist Paradigm\|建构主义]]心理学的进展** 学习不是[[Behaviorism|行为主义]]的刺激-反应，而是学习者主动建构意义的过程。Tyler 原理忽视了这一根本转变。
 >
 > Doll 从混沌和复杂性理论中提炼出当代课程的四个特征：**丰富性（richness）**、**关系性（relationality）**、**递归性（recursion）** 和**严格性（rigor）**，强调[[Emergence\|涌现]]、过程认识论和建构主义心理学（p.133）。
 

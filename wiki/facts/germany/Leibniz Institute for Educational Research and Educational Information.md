@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Problem Solving]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Leibniz Institute for Educational Research and Educational Information
@@ -160,7 +161,7 @@ updated: 2026-10-16
 > > 探讨国家教育报告对 16 个联邦州复杂异质体制进行统一指标化通约时所面临的方法学与政治争议。
 > >
 > > - **部分联邦州教育行政官员** 批评全国统一指标有时掩盖了不同联邦州在[[German Dual Education System\|双元制]]职业教育结构、学制分流年限上的特殊历史优势，容易引发媒体对排名的片面炒作。
-> > - **DIPF 联合专家组** 强调报告坚持“指标呈现而非行政排名”原则，运用多[[Variable\|变量]]上下文调节模型展示各州面临的移民与社会经济背景差异，捍卫宏观监测的科学中立性。
+> > - **DIPF 联合专家组** 强调报告坚持“指标呈现而非行政排名”原则，运用多[[Variable\|变量]]上下文调节模型展示各州面临的移民与[[Socioeconomic Status|社会经济背景]]差异，捍卫宏观监测的科学中立性。
 >
 > > [!axis] 数字技术测评[[Paradigm\|范式]]对真实教学情境的简化
 > > 争论计算机化测评（TBA）是否将复杂丰富的师生课堂互动过度简化为屏幕点击与反应时算法。

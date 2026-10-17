@@ -11,7 +11,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Cultural Capital]]"
   - "[[Rich and Thick Description]]"
+  - "[[Socioeconomic Status]]"
   - "[[School Choice]]"
   - "[[Champ]]"
   - "[[Screening Off]]"
@@ -61,7 +62,7 @@ related_theories: []
 related_facts: []
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Snowball Sampling
@@ -125,7 +126,7 @@ updated: 2026-10-16
 > 1. **录音[[Transcription in Qualitative Research\|转录]]与匿名化** 将[[In-depth Interview\|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
 > 2. **主题编码分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital\|文化资本]]边缘化等核心概念。
 > 3. **[[Triangulation\|三角互证]]** 将家长陈述、城乡教师评估与当地教育局官员反馈进行交叉比对，核实求学过程中的资本动员逻辑。
-> 4. **[[Rich and Thick Description\|厚描述]]呈现** 详细展示不同 SES 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。
+> 4. **[[Rich and Thick Description\|厚描述]]呈现** 详细展示不同 [[Socioeconomic Status|SES]] 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。
 
 ---
 

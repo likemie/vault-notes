@@ -6,7 +6,7 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Public Value]]"
   - "[[Operationalization]]"
+  - "[[Dynamic Assessment]]"
   - "[[Champ]]"
   - "[[Directionality of Innovation]]"
   - "[[Wicked Problem]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # ROAR Framework
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > - **知识位置** 根植于[[Evolutionary Economics|演化经济学]]、国家[[Systems of Innovation|创新系统理论]]与[[Public Value|公共价值]]理论，是[[Mission-Oriented Innovation Policy|使命导向型创新政策]]的核心[[Operationalization|操作化]]框架。
 
 > [!claim] 核心判断
-> 实施使命导向型创新政策要求公共政策制定从根本上重塑其底层工具箱，必须在战略路径与方向（Routes and directions）、探索型公共组织能力（Organizations）、公共价值动态评估（Assessment）以及风险与收益共担共享（Risks and rewards）四大支柱上实现系统协同（ROAR），从而推动经济增长走向包容性与可持续性转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> 实施使命导向型创新政策要求公共政策制定从根本上重塑其底层工具箱，必须在战略路径与方向（Routes and directions）、探索型公共组织能力（Organizations）、公共价值[[Dynamic Assessment|动态评估]]（Assessment）以及风险与收益共担共享（Risks and rewards）四大支柱上实现系统协同（ROAR），从而推动经济增长走向包容性与可持续性转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 
@@ -77,7 +78,7 @@ updated: 2026-10-16
 > - **提出者与原始文本** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）在 2016 年及 2018 年发表于《工业与企业变迁》（*Industrial and Corporate Change*）的论文中首次系统提炼并阐发了 ROAR [[Analytic Framework|分析框架]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 > - **原初问题** 传统科技创新政策长期局限于“拉平竞争赛道”（Level the playing [[Champ|field]]）与事后修补市场摩擦，缺乏对创新“方向”（[[Directionality of Innovation|directionality]]）的主动界定工具，导致公共部门在面对复杂的[[Wicked Problem|复杂社会难题]]时束手无策，且面临公私收益严重不对称的制度困境。
 > - **理论资源与材料** 吸收了[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA，见 [[DARPA]]）、[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH，见 [[National Institutes of Health]]）、德国能源转型计划（Energiewende）、[[KfW|德国复兴信贷银行]]（Kreditanstalt für Wiederaufbau, KfW）以及巴西国家经济社会发展银行（Banco Nacional de Desenvolvimento Econômico e Social, BNDES）等机构的长期历史实践与实证案例。
-> - **形成路径** 从经典科技工程（如阿波罗登月计划）向现代社会转型使命的[[Paradigm|范式]]转变中，提炼出方向设定、组织学习、动态评估与利益分享四大关键治理挑战，整合凝练为首字母缩写词“ROAR”。
+> - **形成路径** 从经典科技工程（如阿波罗登月计划）向现代社会转型使命的[[Paradigm|范式]]转变中，提炼出方向设定、组织学习、[[Dynamic Assessment|动态评估]]与利益分享四大关键治理挑战，整合凝练为首字母缩写词“ROAR”。
 
 ---
 
@@ -89,7 +90,7 @@ updated: 2026-10-16
 > |:-----|:-----|:--------------|
 > | **路径与方向（Routes & Directions）** | 战略机制 | 确立国家长期转型方向，将宏大社会挑战拆解为具体使命，并保持自下而上探索的民主合法性。 |
 > | **组织能力（Organizations）** | 治理实体 | 构筑具备内部动态能力、包容试错并能引领公私协同的去中心化探索型公共机构网络。 |
-> | **动态评估（Assessment）** | 评价方法 | 超越静态成本收益分析（Cost-Benefit Analysis, CBA），建立针对全产业链[[Market Shaping and Creating\|市场塑造]]与公共价值创造的动态监测体系。 |
+> | **[[Dynamic Assessment\|动态评估]]（Assessment）** | 评价方法 | 超越静态成本收益分析（Cost-Benefit Analysis, CBA），建立针对全产业链[[Market Shaping and Creating\|市场塑造]]与公共价值创造的动态监测体系。 |
 > | **风险与收益共享（Risks & Rewards）** | 制度设计 | 纠正“风险社会化、收益私有化”失衡，通过多样化回报机制确保公共投资反哺社会福祉。 |
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-10-16
 >     - **观察线索** 项目组合多技术路径布局、失败容忍度、动态止损机制。
 >     - **判读规则** 严惩单点失败或单一路径锁定的机制判定为缺乏组合能力。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 808–809)]]。
-> - **D3｜公共价值动态评估（Assessment）**
+> - **D3｜公共价值[[Dynamic Assessment|动态评估]]（Assessment）**
 >   建立超越静态微观效率的系统转型与全价值链动态衡量体系。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807, 809–810)]]
 >   - **D3.1｜私人投资挤入效应（Crowding-in Effects）**
 >     - **含义** 评估公共投资是否通过明确预期带动了私人资本在相应方向上的追加投资。

@@ -8,7 +8,7 @@ summary: "美国临床心理学家，个人建构理论的创始人，repertory 
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Personal Construct Theory]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # George Kelly
 
@@ -64,7 +65,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1955 — *The Psychology of [[Personal Constructs]]*** 提出完整的形式化人格理论，包含基本公设和十一条推论，以及"[[Repertory Grid Technique\|角色建构库测验]]"（Role [[Construct]] Repertory Grid Test）的原始版本。这一理论与当时主流的行为主义和心理分析形成鲜明对比——将人视为主动预测和控制事件的"科学家"，而非被动受体或本能驱动者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
+> - **1955 — *The Psychology of [[Personal Constructs]]*** 提出完整的形式化人格理论，包含基本公设和十一条推论，以及"[[Repertory Grid Technique\|角色建构库测验]]"（Role [[Construct]] Repertory Grid Test）的原始版本。这一理论与当时主流的[[Behaviorism|行为主义]]和心理分析形成鲜明对比——将人视为主动预测和控制事件的"科学家"，而非被动受体或本能驱动者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1969 — *Clinical Psychology and Personality: The Selected Papers of George Kelly*（B. Maher 编）** 后期论文集，显示 Kelly 逐渐远离早期极其形式化的理论陈述，向更灵活、更注重过程的视角转向（Butt, 2008 提供了这一转向的良好介绍）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 4)]]
 
 ---

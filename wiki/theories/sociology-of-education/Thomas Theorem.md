@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Voluntarism]]"
   - "[[Typification]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Symbolic Interactionism]]"
   - "[[Phenomenology]]"
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Thomas Theorem
@@ -64,7 +65,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 社会行动者如何依据其对外部情境的主观赋意与认知界定采取行动，以及这种主观建构如何反向塑造坚固的客观社会后果。
-> - **理论问题** 回应实证行为主义忽视人类主观能动性与认知诠释中介的机械论偏见，阐明主观认知信念与客观社会现实之间的双向互动与因果转化机制。
+> - **理论问题** 回应实证[[Behaviorism|行为主义]]忽视人类主观能动性与认知诠释中介的机械论偏见，阐明主观认知信念与客观社会现实之间的双向互动与因果转化机制。
 > - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism\|符号互动论]]核心机制、主观意义与社会行动中介理论。
 > - **知识位置** 芝加哥社会学派、符号互动论传统、教育社会学与微观课堂[[Ethnography\|民族志]]。由威廉·伊萨克·托马斯与多萝西·斯温·托马斯（W. I. Thomas & D. S. Thomas, 1928）确立，经由[[Peter Woods\|彼得·伍兹]]（Peter Woods）、[[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas）与[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（Basil Bernstein）在教育探究中深度拓展。
 
@@ -102,7 +103,7 @@ updated: 2026-10-16
 
 ### 命题一　主观情境定义先于行动并赋予现实以客观后果
 
-托马斯（Thomas & Thomas, 1928）彻底打破了行为主义“刺激—反应”（S-R）的机械[[Determinism|决定论]]逻辑，在客观环境刺激与人类外显行动之间确立了不可跨越的“认知诠释中介”。托马斯强调，任何人类行动的发起，都以个体对情境的初步界定为前提。正如[[Keith Morrison|莫里森]]（Morrison, 1998）生动的隐喻所指出的：如果某人坚信桌子底下藏着一只老鼠，那么无论客观物理空间中是否真的存在这只老鼠，他都会展现出惊恐、规避或防御等一系列完全真实的行动。在教育[[Champ|场域]]中，学生若是将特定课堂定义为“具有敌意的”、“乏味的”或“专制的”，他们便会据此采取防御性沉默、消极怠工或公然反抗的行动（Woods, 1979）。主观信念因此直接转化为物质性的社会行动与客观制度后果。
+托马斯（Thomas & Thomas, 1928）彻底打破了[[Behaviorism|行为主义]]“刺激—反应”（S-R）的机械[[Determinism|决定论]]逻辑，在客观环境刺激与人类外显行动之间确立了不可跨越的“认知诠释中介”。托马斯强调，任何人类行动的发起，都以个体对情境的初步界定为前提。正如[[Keith Morrison|莫里森]]（Morrison, 1998）生动的隐喻所指出的：如果某人坚信桌子底下藏着一只老鼠，那么无论客观物理空间中是否真的存在这只老鼠，他都会展现出惊恐、规避或防御等一系列完全真实的行动。在教育[[Champ|场域]]中，学生若是将特定课堂定义为“具有敌意的”、“乏味的”或“专制的”，他们便会据此采取防御性沉默、消极怠工或公然反抗的行动（Woods, 1979）。主观信念因此直接转化为物质性的社会行动与客观制度后果。
 
 ### 命题二　角色采纳、内部对话与印象管理构成情境定义的微观协商机制
 

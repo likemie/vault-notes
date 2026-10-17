@@ -7,7 +7,7 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Counterfactual]]"
+  - "[[Socioeconomic Status]]"
   - "[[Floor and Ceiling Effects]]"
 related_theories: []
 related_methods:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 ## 定义
@@ -61,7 +62,7 @@ updated: 2026-10-16
 >    - 暑假期间（非学校期）：成就差距的变化主要反映非学校因素
 >    - 学年期间（混合期）：成就差距的变化反映学校因素 + 非学校因素
 >    - 比较两者 → 推断学校的净效应
-> 3. **判断标准** 如果 SES 成就差距在学年期间增长更慢（或缩小），而在暑假期间增长更快 → 学校是补偿性的；反之 → 学校是加剧性的([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.5–6]])
+> 3. **判断标准** 如果 [[Socioeconomic Status|SES]] 成就差距在学年期间增长更慢（或缩小），而在暑假期间增长更快 → 学校是补偿性的；反之 → 学校是加剧性的([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.5–6]])
 >
 > > 例：即便高 SES 和低 SES 儿童在学年期间以大致相同的速度学习（差距保持不变而非缩小），只要暑假期间差距加速扩大，学校仍被判定为补偿性的——因为相对于[[Counterfactual\|反事实]]（无学校状态），学校减少了差距本应扩大的幅度。这类似于减肥项目：即使治疗组体重未下降，只要对照组体重增加了，治疗就是有效的([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.6]])。
 
@@ -76,7 +77,7 @@ updated: 2026-10-16
 
 > [!success] 适用场景
 > - 评估学校对不平等的**总体效应**（所有学校机制的综合后果），而非单个学校实践的效果
-> - 研究 SES、种族／族裔、性别等多维度成就差距的学校效应
+> - 研究 [[Socioeconomic Status|SES]]、种族／族裔、性别等多维度成就差距的学校效应
 > - 可扩展到非认知结果：肥胖（BMI）、社交／行为技能等（von Hippel et al., 2007; Downey, Workman & von Hippel, 2016）
 > - 适用于有明确学校／非学校交替周期的教育系统（学年制）
 > - 可用于跨国比较——如果不同国家有类似季节性数据
@@ -109,7 +110,7 @@ updated: 2026-10-16
 >
 > - **Heyns (1978)** 亚特兰大 42 所学校 3,000+ 名六七年级学生（1971–1972 学年和暑假）——开创性发现：暑假学习是纯粹的非学校因素产物，比较两个季节揭示学校如何发挥作用
 > - **Entwisle & Alexander (1992, 1994)** 巴尔的摩[[Longitudinal Study\|纵向研究]]：1980 年代追踪儿童在学校系统中的进展——进一步引起对季节性模式的关注
-> - **Downey et al. (2004)** 首次全国代表性 ECLS-K 分析——确认 SES 技能差距在暑假比在学年增长更快
+> - **Downey et al. (2004)** 首次全国代表性 ECLS-K 分析——确认 [[Socioeconomic Status|SES]] 技能差距在暑假比在学年增长更快
 > - **Alexander (1997, p. 12)** 总结季节性比较的含义："当涉及不平等时，'学校教育更多的是解决方案的一部分而非问题的一部分'"
 > - **von Hippel et al. (2007)** ECLS-K 数据分析发现儿童 BMI 在暑假期间增长速度约为学年期间的两倍——黑人和低 SES 儿童尤其脆弱
 > - **Downey, Workman & von Hippel (2016)** ECLS-K 2011 数据分析社交／行为技能差距——SES、种族和性别差距在学校期间 vs 暑假期间增长无显著差异

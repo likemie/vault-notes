@@ -7,10 +7,10 @@ aliases:
 summary: "由 Louise Archer 等学者基于布迪厄资本理论拓展提出的社会学构念，指个体所积累的与科学相关的知识、态度、日常实践、社会网络以及家庭科学资源的集合，直接决定其科学认同与职业抱负"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/sociology-of-education
   - theme/stem-education
@@ -20,6 +20,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Scientific Literacy]]"
   - "[[Scientific Attitude]]"
+  - "[[Socioeconomic Status]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
@@ -32,7 +33,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-03
+updated: 2026-10-17
 ---
 
 # Science Capital
@@ -71,7 +72,7 @@ updated: 2026-10-03
 > 科学并非纯粹中立的竞技场，科学资本的占有量直接决定了青少年能否将科学发展视作自身可行的人生路径。
 
 > [!claim] Archer et al. (2020) & [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **ASPIRES 追踪实证** 伦敦大学学院 ASPIRES 纵向追踪表明，高社会经济地位家庭子女拥有显著更丰富的科学资本，其表达科学抱负的概率远高于弱势群体；学校教育若缺乏针对性补偿机制，将进一步放大阶层马太效应。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
+> **ASPIRES 追踪实证** 伦敦大学学院 ASPIRES 纵向追踪表明，高[[Socioeconomic Status|社会经济地位]]家庭子女拥有显著更丰富的科学资本，其表达科学抱负的概率远高于弱势群体；学校教育若缺乏针对性补偿机制，将进一步放大阶层马太效应。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 ---
 

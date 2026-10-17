@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemic Agency]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Rich and Thick Description
@@ -171,7 +172,7 @@ updated: 2026-10-16
 ### 命题一　深描要求将人类行动嵌入社会文化脉络并捕捉行动者赋予的主观意义
 
 > [!concept-lens] [[Ontology\|本体论]]与[[Epistemology\|认识论]]维度
-> 本命题确立深描区别于传统行为主义观察的根本认识论分水岭：人类行动并非纯粹的生理痉挛或物理位移，而是由主观意图与符号价值浸润的社会实践。
+> 本命题确立深描区别于传统[[Behaviorism|行为主义]]观察的根本认识论分水岭：人类行动并非纯粹的生理痉挛或物理位移，而是由主观意图与符号价值浸润的社会实践。
 
 > [!claim] Geertz, C.
 > **文化之网与意义阐释** 格尔茨认为人是悬挂在自身编织的意义之网中的动物，文化的分析不是寻找规律的实验科学，而是一门探究意义的解释科学。深描的本质任务就在于解析社会[[Discourse|话语]]的流动，把不可观察的参与者诠释、制度传统与细微意图编织进文本之中，将稍纵即逝的事件转化为可供反复查阅与批判反思的智力记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 403–404)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, Ch. 28, p. 538)]]

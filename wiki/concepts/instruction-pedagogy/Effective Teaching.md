@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 85
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
   - "[[Feedback]]"
+  - "[[Socioeconomic Status]]"
   - "[[Operationalization]]"
   - "[[Time on Task]]"
   - "[[Critical Thinking]]"
@@ -154,7 +155,7 @@ updated: 2026-10-17
 > - **清晰的学科目标与高学术期望（Clear Goals & High Expectations）** 课初明确学习目标与[[Success Criteria\|成功标准]]，维持高挑战的[[Academic Achievement\|学业表现]]导向，引导学生理解下一步进阶路径。
 > - **基于理解诊断的形成性反馈（Formative [[Feedback]] & Correction）** 反馈聚焦于指出学生当前位置与目标的差距，重构错误理解，指明后续改进的具体行动。
 > - **安全包容的学习导向课堂气氛（Safe & Academic Atmosphere）** 营造将错误视为宝贵学习资源的心理安全环境，促进全员深度、主动的认知参与。
-> - **基于社会背景的认知起点适配（Context-Adaptive [[Scaffolding]]）** 根据学生的家庭社会经济背景与先验基础，动态平衡结构化指导与开放探究的比例。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 38)]]
+> - **基于社会背景的认知起点适配（Context-Adaptive [[Scaffolding]]）** 根据学生的[[Socioeconomic Status|家庭社会经济背景]]与先验基础，动态平衡结构化指导与开放探究的比例。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 38)]]
 
 > [!logic-map]- 有效教学质量循环模型
 > ```mermaid
@@ -316,7 +317,7 @@ updated: 2026-10-17
 >
 > | 研究 / 评估报告 | 样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与考察维度 | 主要统计结果与发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[SFI Report\|SFI 报告 (2015)]]，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 37–38)]] | 丹麦全国公立中小学样本 | 大规模量化调查与毕业统考成绩回归分析 | [[Classroom Management\|课堂管理]]、清晰目标、高期望、差异化教学及开放教学 | 明确课堂管理、清晰目标和高学业要求与优异成绩显著正相关；教学差异化未显显著效应；开放教学效果显著受学生家庭 SES 调节 | 证实有效教学基本质量在北欧情境下的普适性与阶层调节特征 |
+> | [[SFI Report\|SFI 报告 (2015)]]，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 37–38)]] | 丹麦全国公立中小学样本 | 大规模量化调查与毕业统考成绩回归分析 | [[Classroom Management\|课堂管理]]、清晰目标、高期望、差异化教学及开放教学 | 明确课堂管理、清晰目标和高学业要求与优异成绩显著正相关；教学差异化未显显著效应；开放教学效果显著受学生家庭 [[Socioeconomic Status\|SES]] 调节 | 证实有效教学基本质量在北欧情境下的普适性与阶层调节特征 |
 > | Mehlbye (2004, 2010)，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 38–39)]] | 丹麦高绩效学校追踪样本 | [[School Effectiveness\|学校效能]]案例对比与纵向质性/量化追踪 | [[School Leadership\|学校领导力]]、学业导向、测试频率与课堂规范 | 高绩效学校普遍具备高学业期待、严格课堂管理与频繁诊断性测试机制 | 确立了学校层面对有效教学实践的组织支撑规律 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预项目库 | 政策综述与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象有效教学原则推广 vs 具体成套方案实施 | 单纯培训抽象有效原则极少在独立 RCT 中产生显著学业增益；而成套结构化方案（如 SFA $ES=+0.41$）产生稳健因果效应 | 确立了从抽象原则向具体实验验证方案转型的政策与实践依据 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与两段式观察回归分析 | 10 项核心教学要素、[[Inter-Rater Reliability\|评分者间信度]]、两段式测量方差捕捉率 | 评分者认证通过率达 74%–100%；两段式各 15 分钟连续观察可稳定捕捉教学效能方差，同时揭示[[Critical Thinking\|批判性思维]]普遍处于得分最低洼地 | 证实有效教学四维测量架构在跨语境低资源环境下的信度收敛与测量敏感度 |

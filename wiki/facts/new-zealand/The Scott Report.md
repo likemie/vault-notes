@@ -10,7 +10,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Historical Amnesia]]"
   - "[[Scale of Measurement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Disciplina and Doctrina]]"
@@ -126,7 +127,7 @@ updated: 2026-10-17
 > - **核心政策工具** 依托大学建立跨学科测量研发专门单位，研制兼顾情境复杂性的健全[[Scale of Measurement|测量量表]]。
 
 > [!pathways]- 实施路径与搁置原因
-> - **技术壁垒与财政高成本阻断落地** 开发客观且能排除生源家庭背景（SES）、学生个体天赋、同伴互动等多重噪音的教师净增值测量工具面临极高的计量经济学与测量学难度；新西兰教育行政部门面对高昂的长周期研发预算始终望而却步。
+> - **技术壁垒与财政高成本阻断落地** 开发客观且能排除生源家庭背景（[[Socioeconomic Status|SES]]）、学生个体天赋、同伴互动等多重噪音的教师净增值测量工具面临极高的计量经济学与测量学难度；新西兰教育行政部门面对高昂的长周期研发预算始终望而却步。
 > - **政策注意力转向行政去中心化** 1989 年皮[[Carter Review of Initial Teacher Training|卡特报告]]（Picot Report）与《明日学校》改制出台，国家改革重心转向建立学校董事会民选治理体制，教师评价被下放给校董会，中央层面的大学专业测量研发单位规划彻底搁浅。
 > - **历史定性与批判工具化转化** 这一长达数十年的实施空白，最终转化为新西兰教育学术界抵御外部政客仓促推行[[Performance Pay|绩效工资]]的最具杀伤力的历史武器：连最高议会在 1986 年规划的研究单位都未曾建立，任何打着“循证”旗号的奖惩挂钩均属无源之水。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 

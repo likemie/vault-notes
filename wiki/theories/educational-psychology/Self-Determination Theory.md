@@ -7,7 +7,7 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Cultural Relativism]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Control-Value Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Self-Determination Theory
@@ -71,7 +72,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 人类行为的内在驱动力、心理成长动机，以及环境支持对个体健康、高阶认知投入与积极学业体验的促进与阻碍机制。
-> - **理论问题** 克服行为主义刺激-反应论将人视为被动受赏罚驱动的局限，阐明内在自发动力如何萌发，以及外在规约如何内化为自决行为。
+> - **理论问题** 克服[[Behaviorism|行为主义]]刺激-反应论将人视为被动受赏罚驱动的局限，阐明内在自发动力如何萌发，以及外在规约如何内化为自决行为。
 > - **理论类型** 宏观动机心理学与人格发展理论（Macro-theory of Human Motivation and Personality）。
 > - **知识位置** 由 Edward L. Deci 和 Richard M. Ryan 于 20 世纪 70–80 年代确立，是当代教育心理学、学习科学与教育技术领域最具影响力的动机[[Paradigm\|范式]]之一。
 
@@ -201,7 +202,7 @@ updated: 2026-10-16
 > > - **SDT 学者（Chirkov, Ryan et al.）** 澄清“自主（Autonomy）”不等于“独立（Independence）”；只要个体发自内心认同集体规范，集体主义行为同样是高度自决的。
 >
 > > [!axis] 外部奖励与奖学金是“破坏动机”还是“提供信息”
-> > 争论行为主义强化手段在教育系统中的合法性。
+> > 争论[[Behaviorism|行为主义]]强化手段在教育系统中的合法性。
 > >
 > > - **严格自决派** 警告外在控制性奖励会侵蚀长期的自发学习兴趣。
 > > - **功能强化派（Eisenberger et al.）** 认为与绩效水平挂钩的奖励能传达高胜任感信息，从而增强动机。

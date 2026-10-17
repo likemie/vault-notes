@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -74,6 +74,8 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Rust_2009_Reflections]]"
+related_theories:
+  - "[[Behaviorism]]"
 confidence: high
 status: completed
 created: 2026-09-06
@@ -121,7 +123,7 @@ updated: 2026-10-17
 
 > [!thought-timeline] 思想发展
 > - **1910年代–1933年 — 德国古典学术训练与魏玛[[Democratic Education\|民主教育]]实验阶段** 先后在弗赖堡大学、柏林大学、维尔茨堡大学及莱比锡大学接受严格的史学与哲学训练；魏玛共和国时期任萨克森州教育部高等教育司司长与德累斯顿工业大学教育学教授，积极推行民主主义教育改革；1934 年因坚守社会民主信念拒绝向纳粹法西斯妥协而毅然流亡美国。
-> - **1934年–1950年代 — 哈佛人文教育与超越哲学奠基阶段** 受聘于哈佛大学教育研究生院，讲授教育史、教育哲学与比较教育学，致力于以欧洲[[Paideia|古典教化]]哲学抵御技术主义与行为主义的侵蚀。
+> - **1934年–1950年代 — 哈佛人文教育与超越哲学奠基阶段** 受聘于哈佛大学教育研究生院，讲授教育史、教育哲学与比较教育学，致力于以欧洲[[Paideia|古典教化]]哲学抵御技术主义与[[Behaviorism|行为主义]]的侵蚀。
 >   - **代表著作** 《教育思想史》（*History of Educational Thought*, 1945）；《人类生涯：超越哲学》（*The Human Career: A Philosophy of Transcendence*, 1954）。
 >   - **关键概念** 人本主义（Humanism）、超越性（Transcendence）、以人为中心。
 >   - **阶段转向** 将西方教育思想源流与超越性人道主义哲学相融合，确立人的道德完善先于制度技术的人文立场。
@@ -175,7 +177,7 @@ updated: 2026-10-17
 > [!influence-path] 影响路径
 > - **理论路径** 继承并弘扬了[[Wilhelm Dilthey|威廉·狄尔泰]]与耶格尔的德国[[Geisteswissenschaften|精神科学]]与[[Paideia|古典教化]]（[[Paideia]]）传统，使美国战后比较教育学保留了深厚的历史文化底色。
 > - **人才培养与师承网络** 在哈佛大学亲自培养了贝雷迪（哥伦比亚大学比较教育领袖）、卡扎米亚斯（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及[[Roy Nash|纳什]]等杰出学者，构成战后比较教育思想史的核心主干。
-> - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School\|师范教育]]的侵蚀。
+> - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制[[Behaviorism|行为主义]]技能训练对[[Normal School\|师范教育]]的侵蚀。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 卡扎米亚斯深情回顾乌利希的人文主义比较传统与其对自身史学思想的深远奠基。

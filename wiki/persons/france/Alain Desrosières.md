@@ -9,7 +9,7 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -50,6 +50,7 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Alain Desrosières]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[CNRS]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Alain Desrosières

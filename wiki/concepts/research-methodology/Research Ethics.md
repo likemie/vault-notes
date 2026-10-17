@@ -4,7 +4,7 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
+  - "[[Socioeconomic Status]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Computer Simulation]]"
   - "[[Informed Consent]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Research Ethics
@@ -208,7 +209,7 @@ updated: 2026-10-16
 - **提供准确的信息** 报告中不得压制、伪造或编造发现，这些行为构成科学不端（scientific misconduct）（Neuman, 2009）
 - **避免抄袭** 引用他人工作时使用引号和页码标注原文；改写（paraphrase）也需注明引用来源
 - **避免披露有害信息** 有些参与者可能不愿公开身份，应尊重这一需求；预见到研究对参与者的后果
-- **使用无偏见和非歧视性语言** 在报告结果时使用精确描述，如年龄用具体数值或范围、残障用具体状况名称、性别用带修饰词的具体类别、种族用具体来源地区、性取向用具体名称、社会经济地位用具体指标（APA, 2020）
+- **使用无偏见和非歧视性语言** 在报告结果时使用精确描述，如年龄用具体数值或范围、残障用具体状况名称、性别用带修饰词的具体类别、种族用具体来源地区、性取向用具体名称、[[Socioeconomic Status|社会经济地位]]用具体指标（APA, 2020）
 - **分享数据** 与利益相关者分享研究发现，向参与者提供报告副本，考虑网站分发和多语言发表（Stadnick et al., 2021）
 - **保存原始数据** 数据保存期为 5 年（Sieber, 1998 建议 5–10 年），之后应予销毁以防落入其他研究者手中并被滥用
 - **不得重复或拆分发表** 不应发表含有来自同一研究的重复或冗余信息的论文（Israel & Hay, 2006）
@@ -249,7 +250,7 @@ updated: 2026-10-16
 >
 > **[[Absolutist\|绝对主义立场]]（[[Absolutist]] view）** 应由清晰、固定的原则指导研究者工作——"原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），一种道义论模型。研究受普遍准则如正义、诚实和尊重所管辖。例如 [[Stanford Prison Experiment]] 按照绝对原则必须被视为不伦理的。
 >
-> **[[Multiplist\|相对主义立场]]（relativist view）** 不可能有绝对指导方针——情境决定行为。尊重研究发生的文化、族裔、社会经济背景（Oliver, 2003, p. 53）。在"后果的功利主义伦理"中，伦理研究根据其后果（如知识增加、多数人受益）来判断。
+> **[[Multiplist\|相对主义立场]]（relativist view）** 不可能有绝对指导方针——情境决定行为。尊重研究发生的文化、族裔、[[Socioeconomic Status|社会经济背景]]（Oliver, 2003, p. 53）。在"后果的功利主义伦理"中，伦理研究根据其后果（如知识增加、多数人受益）来判断。
 >
 > Plummer (1983) 指出双方都有弱点：绝对主义者坚持[[Informed Consent\|知情同意]]可能导致特权群体研究不足（他们会说"不"）、弱势群体研究过度（他们抱希望说"是"）；而如果个体良心是指导，不道德的——甚至是不择手段的——研究者的大门就敞开了。他建议由专业机构制定的广泛指导方针，为研究者留下个人伦理选择的空间，是走出困境的方法。
 

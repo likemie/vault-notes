@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 66
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Public Dynamic Capabilities]]"
   - "[[Steering at a Distance]]"
   - "[[Social Imaginary]]"
+  - "[[Endogenous Privatisation]]"
   - "[[Bureaucracy]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Policy Network]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # New Public Management
@@ -131,7 +132,7 @@ updated: 2026-10-16
 > *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the [[Educational Governance Framework|Educational Governance]] from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
 
 > [!boundary]- 概念边界
-> - 不等于 内生私有化 — NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
+> - 不等于 [[Endogenous Privatisation|内生私有化]] — NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
 > - 不等于 传统[[Bureaucracy|科层制]]管理 — 传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
 > - 不等于 [[Lead-and-Learn Paradigm|引领与学习范式]] — NPM 属于被动的“支持与衡量”框架（单点补贴与短期考核），而引领与学习范式强调国家主动塑造市场并以敏捷实验展开系统反思。
 > - 不等于 欧洲大陆“间接远距离操纵” — 英美 NPM 建立在削弱国家、抨击官僚（Bureaucrat Bashing）、准市场化与中央行政内部代理化（如英国 Next Steps 执行机构）之上；而欧洲大陆（如荷兰高教改革）的间接操纵建立在法团协商与[[Policy Network|政策网络]]多重理性之上，拒绝大学彻底市场化（如否决将大学变为完全自选生源、自定律费的企业家型大学方案），目标并非国家撤出公共责任，而是通过一揽子总额拨款与事后质量监控增强公共系统在去中心化网络中的实际效能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]

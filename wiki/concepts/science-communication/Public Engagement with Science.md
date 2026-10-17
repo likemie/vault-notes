@@ -9,7 +9,7 @@ aliases:
 summary: "指科研人员、科学机构与多元公众之间开展的双向、参与式、对话驱动的互动过程，旨在增进相互理解、赋权公民参与并确立科学研究的社会合法性"
 type: concept
 domain: "science-communication"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Social License to Operate]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Socioeconomic Status]]"
   - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
   - "[[STEM Education]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Public Engagement with Science
@@ -76,7 +77,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **双向对话机制（Two-way Dialogue）** 从单向“告知”转向共同“探讨”，吸纳公众对科技伦理与风险的反馈。
 > - **科研全生命周期嵌入（Research Lifecycle Embedding）** 公众参与不仅发生在成果发布后，而是贯穿问题构思、过程互动到成果转化的全过程。
-> - **多样性与包容性（Diversity and Inclusion）** 消除社会经济背景障碍，确保边缘和代表性不足的社群平等享有科学参与资源。
+> - **多样性与包容性（Diversity and Inclusion）** 消除[[Socioeconomic Status|社会经济背景]]障碍，确保边缘和代表性不足的社群平等享有科学参与资源。
 > - **全域行动主体协同（Cross-sector Ecosystem）** 超越学术界单一视角，将承担国家主要研发职能的产业界企业与使命驱动型的第三部门（慈善基金会、患者组织、环保团体）深度纳入公众参与共同体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 68, 74)]]
 
 ---

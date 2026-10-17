@@ -10,7 +10,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
   - "[[Heterogeneity]]"
+  - "[[Dynamic Assessment]]"
   - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
@@ -42,6 +43,7 @@ related_instruments: []
 related_persons:
   - "[[Tina Seidel]]"
 related_facts:
+  - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Clearing House Unterricht]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Qualitätsoffensive Lehrerbildung
@@ -86,7 +88,7 @@ updated: 2026-10-15
 >   1. **教学论与学科专业交叉重构** 设立由学科科学家与教学论专家联合主讲的跨学科课程，将学术论文转化为真实课堂情境案例；
 >   2. **实证证据中介与数字转化专项** 重点扶持基于[[Meta-analysis\|元分析]]的证据二次提炼平台与数字化教学实验室（如 TUM [[Clearing House Unterricht\|CHU]] 研发的 Kurzreviews 与 CHU-Academy）；
 >   3. **全纳教育与[[Heterogeneity\|异质性]]学生教学指导** 强化职前教师面对多元文化背景、特殊教育需求班级的分层教学设计能力。
-> - **实施质控与动态评估** 引入中期绩效审查制度（Zwischenevaluation），实行两阶段考核淘汰机制，确保立项项目严格按照方案交付成效。
+> - **实施质控与[[Dynamic Assessment|动态评估]]** 引入中期绩效审查制度（Zwischenevaluation），实行两阶段考核淘汰机制，确保立项项目严格按照方案交付成效。
 
 ---
 

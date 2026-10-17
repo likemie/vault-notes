@@ -8,7 +8,7 @@ summary: "波兰著名哲学家、教育学家、科学史家与比较教育学�
 type: person
 nationality: poland
 person_region: "poland"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,10 +39,12 @@ related_facts:
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
+related_theories:
+  - "[[Behaviorism]]"
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Bogdan Suchodolski
@@ -93,5 +95,5 @@ updated: 2026-10-15
 
 > [!impact-cards]
 > - **冷战时期跨阵营学术对话的旗帜** 作为来自东欧社会主义国家的学者，苏霍多尔斯基以宏大的哲学气度与深厚的人文底蕴赢得了西方比较教育学界的一致尊重，成为打破冷战铁幕思想封锁的桥梁人物。
-> - **坚守文化历史学统的欧陆标杆** 在行为主义量化实证盛行的 20 世纪后半叶，与汉斯、施奈德并立，守护了欧洲比较教育将教育制度置于哲学和精神史脉络中整体考察的学科尊严。
+> - **坚守文化历史学统的欧陆标杆** 在[[Behaviorism|行为主义]]量化实证盛行的 20 世纪后半叶，与汉斯、施奈德并立，守护了欧洲比较教育将教育制度置于哲学和精神史脉络中整体考察的学科尊严。
 > - **对国际组织人本教育理念的深远奠基** 其[[Lifelong Learning|终身教育]]与人的全面发展哲学思想直接启发了 1970 年代埃德加·富尔的《学会生存》及后续 [[UNESCO]] 人文主义教育宣言。

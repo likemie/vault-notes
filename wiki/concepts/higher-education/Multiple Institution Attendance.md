@@ -10,7 +10,7 @@ aliases:
 summary: "指美国高等教育中本科生在攻读学士学位期间跨越两所或两所以上大学或社区学院修读学分、转学或联合注册的求学形态。与欧洲政策话语将跨国跨校流动赞颂为一体化资产形成鲜明对照，美国高等教育政策话语往往将多机构就读视作延长毕业年限、增加财政负担并拉低系统完备率的系统效率损耗。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[European Education Space]]"
   - "[[Employability]]"
+  - "[[Socioeconomic Status]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Lifelong Learning]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Multiple Institution Attendance
@@ -112,7 +113,7 @@ updated: 2026-10-16
 ### 命题二　阶层特权话语将跨国游学尊奉为救赎叙事而将国内跨校转学降格为体制损耗
 
 > [!concept-lens] 阶层双标与流动的道德区隔
-> 探讨空间移动的社会价值评判如何依附于主体的社会经济地位。
+> 探讨空间移动的社会价值评判如何依附于主体的[[Socioeconomic Status|社会经济地位]]。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **国内流动与国际交换的阶层化[[Discourse|话语]]断裂** 索比与菲舍尔（Sobe & Fischer）尖锐指出，美国高等教育并非完全否定流动，而是施加了鲜明的阶层化双重标准。当富裕阶层大学生开展海外游学时，政策话语绝不将其定性为多机构就读或流动损耗，而是冠以“国际交流（International Exchange）”的崇高之名，并将其编织进跨文化领袖成长的“社会救赎叙事（Social Salvation Narrative）”之中；反之，由于经济困难先在社区学院就读再转入四年制大学的普通工薪学生，其跨校流动则被剔除了一切文化价值，在管理报表上被贬为降低系统完备率的“多机构就读”。

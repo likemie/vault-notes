@@ -9,7 +9,7 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Problem Solving]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Connectivism
@@ -59,7 +60,7 @@ updated: 2026-10-15
 
 > [!theory-position] 理论定位
 > - **解释对象** 数字网络与人工智能时代知识呈现指数级爆炸、碎片化分布情境下，人类与技术网络协同[[Constructed Knowledge\|建构知识]]、识别模式与持续学习的机制。
-> - **理论问题** 传统行为主义、认知主义和[[Constructivist Paradigm\|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与网络化学习。
+> - **理论问题** 传统[[Behaviorism|行为主义]]、认知主义和[[Constructivist Paradigm\|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与网络化学习。
 > - **理论类型** 数字时代学习理论、网络化[[Epistemology\|认识论]]模型与分布式教学设计框架。
 > - **知识位置** 由加拿大教育技术学者 George Siemens 于 2005 年系统提出，并由 Stephen Downes 进一步从哲学与网络认识论层面深化；在[[Generative Artificial Intelligence\|生成式人工智能]]时代，该理论为解释大语言模型作为分布式知识网络核心节点的认知中介作用提供了关键理论镜头（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
 

@@ -11,7 +11,7 @@ subtype: policy
 region: "austria"
 fact_region: "austria"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -41,12 +41,13 @@ related_persons:
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[PISA]]"
+  - "[[Schulqualität Allgemeinbildung]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Schulqualität Allgemeinbildung

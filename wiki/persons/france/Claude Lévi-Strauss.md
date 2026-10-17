@@ -8,7 +8,7 @@ summary: "法国人类学家、哲学家，结构主义人类学奠基人，法�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Fieldwork]]"
 related_instruments: []
 related_persons:
+  - "[[Claude Lévi-Strauss]]"
   - "[[Kwame Anthony Appiah]]"
   - "[[Edward Said]]"
   - "[[Alexander Karp]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-17
 ---
 
 # Claude Lévi-Strauss

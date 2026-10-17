@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Brainstorming]]"
   - "[[Science Capital]]"
+  - "[[Socioeconomic Status]]"
   - "[[Authentic Science Practices]]"
   - "[[Seed Funding]]"
   - "[[Knowledge-Based Economy]]"
@@ -97,7 +98,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -221,7 +222,7 @@ updated: 2026-10-16
 > - **大纲超载与应试回忆导向** 考试体系高度偏重知识点回忆与纸笔作答，教师迫于进度压力被迫放弃耗时的探究实验，转为演示甚至讲实验。
 > - **学校实验耗材经费严重受挤压** 财政紧缩导致学校日常生均经费吃紧，实验耗材与设备更新预算被大幅削减。
 > - **专业实验技术员（Technicians）队伍流失** 待遇偏低与职业通道狭窄导致专业实验员流失严重，教师因缺乏课前准备与安全保障支持而难于开齐实验。（p. 33）
-> - **科学资本（Science Capital）与社会阶层固化** 伦敦大学学院 ASPIRES 2 纵向追踪表明，高社会经济地位家庭子女拥有更丰富的课外科技网络与文化资源，科学抱负显著高于弱势群体；而在物理、计算机等学科上，女性选修比例长期偏低。（p. 32）
+> - **科学资本（Science Capital）与社会阶层固化** 伦敦大学学院 ASPIRES 2 纵向追踪表明，高[[Socioeconomic Status|社会经济地位]]家庭子女拥有更丰富的课外科技网络与文化资源，科学抱负显著高于弱势群体；而在物理、计算机等学科上，女性选修比例长期偏低。（p. 32）
 
 > [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（[[Authentic Science Practices|authentic inquiry]] & STEM Enrichment）
 > - **[[CREST Awards\|CREST]] 科学与技术成就奖的分级探究与阶层赋权** 详见 [[CREST Awards]]：由英国科学协会（BSA）设立的国家级分级探究奖励机制（Star/Bronze/Silver/Gold），支持中学生自主选定具有现实应用价值的长周期工程与科学课题；独立实证评估（Pro Bono Economics, 2016）证实，参与 CREST Silver/Gold 探究的学生后续选修 STEM A-levels 的比例显著提高，且对弱势背景（FSM）学生的阶层流动与科学抱负提升幅度尤为突出（达 38%）。

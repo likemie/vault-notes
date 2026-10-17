@@ -10,7 +10,7 @@ summary: "法国哲学家、人类学家与文化理论家，法兰西学术院�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[René Girard]]"
   - "[[Peter Thiel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # René Girard

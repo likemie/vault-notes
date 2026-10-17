@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Rote Learning]]"
+  - "[[Reflexivity]]"
+  - "[[Variable]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Generative Artificial Intelligence]]"
@@ -42,7 +44,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Cultural Capital]]"
-  - "[[Variable]]"
   - "[[Teaching Assistant]]"
   - "[[Tracking]]"
   - "[[Class Size]]"
@@ -71,12 +72,13 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
   - "[[Adrian Simpson]]"
+  - "[[Herbert Walberg]]"
   - "[[Ivan Snook]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
@@ -164,7 +166,7 @@ updated: 2026-10-17
 > 2. **单一均值对学段断层的致命抹杀（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 粗放计算的单一平均值抹杀了关键学段差异：小学生作业效应量仅为 $d = 0.15$，而高中生作业效应量高达 $d = 0.64$。若将高中作业单独列出，其可跃居全书第 17 位的高效行列；全书第 88 位的笼统低排名，极易诱导政策制定者全盘贬低作业价值，或反向在小学阶段盲目推行无效的机械作业。此外，哈蒂宣称的 $d = 0.40$“[[Zone of Desired Effects|期望效应区分水岭]]（Zone of Desired Effects）”，并无任何客观测量学基准，纯粹是全书 138 个影响因素的简单算术均值产物。
 > 3. **实质影响的微弱性与身高类比（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 埃瓦尔德·特哈特（Ewald Terhart）通过统计具象化指出，$d = 0.29$ 在身高类比中仅相当于 180cm 与 182cm 之间的细微差别；在纳入的 161 项研究中，有多达 35% 显示出中性或负向效应；若在 100 个此前没有作业的常态班级中引入作业，仅有 21 个班级能够观察到学生成绩的实质提升。
 > 4. **苹果与橙子的构念混淆（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）** [[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）指出，元分析将五岁儿童亲子共读、中学生备考复习、单词[[Rote Learning|死记硬背]]以及校内作业俱乐部等截然不同的活动粗暴拼盘，得出“作业有效”并不能为一线教师提供任何具体的实践指南；脱离任务类型、指导密度、时长上限与学科特征的抽象数字，反而制造了教条化的政策执念。
-> 5. **丹麦全境废除作业的公共政策案例与多维调节抹杀（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 尼尔森与克利特默勒指出，哈蒂在媒体访谈中公开声称“传统家庭作业效果微乎其微，且学生年龄越小效果越差”（Carboni, 2013）。丹麦多家教育机构与中小学直接采信该结论，在政策层面一刀切废除了家庭作业（Carboni, 2013）。这一政策盲动揭示了去情境化元分析总均值的治理风险：哈蒂不仅抹杀了学段发展异质性，更系统性清洗了学生学业基础能力（优等生自主复习的深化收益 vs 学业困难学生的挫败感）以及学科领域属性（数学自动化练习 vs 人文学科反思性写作）的关键调节变量，导致原本有助于高年级认知深化的实践因总体均值平庸而遭到全盘废除（pp. 8–9）。
+> 5. **丹麦全境废除作业的公共政策案例与多维调节抹杀（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 尼尔森与克利特默勒指出，哈蒂在媒体访谈中公开声称“传统家庭作业效果微乎其微，且学生年龄越小效果越差”（Carboni, 2013）。丹麦多家教育机构与中小学直接采信该结论，在政策层面一刀切废除了家庭作业（Carboni, 2013）。这一政策盲动揭示了去情境化元分析总均值的治理风险：哈蒂不仅抹杀了学段发展异质性，更系统性清洗了学生学业基础能力（优等生自主复习的深化收益 vs 学业困难学生的挫败感）以及学科领域属性（数学自动化练习 vs 人文学科[[Reflexivity|反思性]]写作）的关键调节[[Variable|变量]]，导致原本有助于高年级认知深化的实践因总体均值平庸而遭到全盘废除（pp. 8–9）。
 
 > [!logic-map]- 家庭作业元分析简单平均与学段抹杀机制
 > ```mermaid
@@ -216,7 +218,7 @@ updated: 2026-10-17
 > [!dev-timeline] 概念演变脉络
 > - **20 世纪初至中叶 — [[Disciplina and Doctrina|规训]]心智操练论与惩罚工具** 家庭作业长期被视作训练儿童意志力、服从权威与惩治违纪的道德惩戒手段，缺乏明确的认知建构设计。
 > - **冷战与 1960 年代 — [[Competitiveness|国家竞争力]]与学科知识强化** 随着人造卫星危机（[[Sputnik Shock 1957|Sputnik]] Crisis）爆发，家庭作业被迅速政治化，演变为提升数学与科学国家学术竞争力的硬性教学指标。
-> - **1980–2000 年代初 — 早期量化[[Meta-analysis|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与沃尔伯格（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
+> - **1980–2000 年代初 — 早期量化[[Meta-analysis|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与[[Herbert Walberg|沃尔伯格]]（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
 > - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis|元综合]]反思与[[Construct|构念]][[Heterogeneity|异质性]]批判** [[John Hattie|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size|效应量]]的方法学大反思：特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；[[Ivan Snook|斯努克]]等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。
 > - **2018 年至今 — 因果循证时代教师微观决策与微型试验转向** [[Education Endowment Foundation|EEF]] 在 2018 年审议资助机制时，推动因果研究从宏观外部商业项目走向“教师微观选择（[[Teacher Choices]]）”，针对“逐本批改 vs 全班集中反馈”等日常作业反馈决策，探索被试内微型试验与形成性诊断支持。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
 > - **2023 — 算法法医核查与无加权简单平均黑箱解构** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 对哈蒂元-元分析展开统计算法还原，揭示其 $d=0.29$ 仅是 5 项元分析的无加权简单算术平均，无视 15 至 77 项研究的[[Sample Size Determination|样本量]]权重鸿沟，并以单一均值抹杀高中作业（$d=0.64$）与小学作业（$d=0.15$）的学段分水岭（pp. 25–27）。
@@ -273,7 +275,7 @@ updated: 2026-10-17
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（中学作业专题） | 英格兰及全球中学学段 | 循证综合元分析与试验追踪 | 中学课外作业与学业进展 | 平均增益相当于 $+5$ 个月额外学业进展；短小、频繁、目标清晰并配有及时反馈的作业效果最佳 | 证据安全性为中等（3 挂锁） | 确立中学阶段高质量作业对学业深化的显著正向贡献 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | Hattie (2009) 纳入的 161 项作业实证研究 | [[Meta-meta-analysis\|元综合]]统计效应深度解构与概率换算 | 班级提分成功率、身高类比差异 | 仅 21% 的班级在引入作业后出现学业提升；效应量 $d = 0.29$ 仅相当于 180cm 与 182cm 身高差异；65% 正向，35% 中性/负向 | — | 深度揭露平均效应量在具体班级教学情境中的微弱真实效力与不确定性 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
-| [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级有效教学实践的一刀切误杀 |
+| [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级[[Effective Teaching\|有效教学]]实践的一刀切误杀 |
 
 ---
 
@@ -281,8 +283,8 @@ updated: 2026-10-17
 
 本条目所依托的家庭作业实证解构与方法学反思的关键引文如下。
 
-> [!citation-card] 丹麦依据哈蒂均值废除家庭作业的政策盲动
-> 丹麦多家教育机构依据哈蒂的结论，在全境中小学迅速取消了家庭作业。然而这种决策建立在粗糙的数据遮蔽之上：拆解原始数据可以发现，高中阶段的家庭作业效应量高达 $d = 0.64$，远超 0.40 门槛；机械均值不仅抹杀了学段发展维度，更抹平了学科与学生既有能力的质性差异。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 8–9)]]
+> [!citation-card] 丹麦依据[[John Hattie|哈蒂]]均值废除家庭作业的政策盲动
+> 丹麦多家教育机构依据哈蒂的结论，在全境中小学迅速取消了家庭作业。然而这种决策建立在粗糙的数据遮蔽之上：拆解原始数据可以发现，高中阶段的家庭作业[[Effect Size|效应量]]高达 $d = 0.64$，远超 0.40 门槛；机械均值不仅抹杀了学段发展维度，更抹平了学科与学生既有能力的质性差异。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 8–9)]]
 >
 > *Several educational institutions in Denmark took Hattie's conclusion at face value and abandoned homework entirely. However, secondary school homework yields an effect size of d = 0.64, well above the 0.40 threshold; an unmoderated aggregate average obliterates both grade levels and disciplinary distinctions.*
 
@@ -314,7 +316,7 @@ updated: 2026-10-17
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实（p. 427）。
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 深入揭示不同家庭作业[[Meta-analysis|元分析]]中对照组基线定义的混乱倒错，论证基线不对等性对合成因果效应量的破坏（pp. 5–7）。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 记录英国 [[Education Endowment Foundation|EEF]] 启动的“[[Teacher Choices|教师选择]]”新型微型试验，探索以全班集中反馈替代教师逐本逐页批改作业的微观因果实证（p. 56）。
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 记录丹麦教育机构依据哈蒂 $d=0.29$ 均值一刀切废除家庭作业的政策案例，批判无调节元分析对学段、学科与能力异质性的系统性遮蔽（pp. 8–9）。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 记录丹麦教育机构依据哈蒂 $d=0.29$ 均值一刀切废除家庭作业的政策案例，批判无调节元分析对学段、学科与能力[[Heterogeneity|异质性]]的系统性遮蔽（pp. 8–9）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence|生成式人工智能]]对静态成品作业的颠覆性冲击，提出向全流程思维追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
 
 ---
@@ -335,6 +337,6 @@ updated: 2026-10-17
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 算法解构 | 提供隐藏公式还原与简单算术平均法医核查，证实[[Sample Size Determination\|样本量]]权重被粗暴抹杀。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | [[Construct\|构念]]批判 | 揭露家庭作业元分析中将异质活动粗暴合并的“苹果与橙子”构念混淆。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 实践试验 | 记录全班集中反馈替代逐本批改内卷的教师微观因果试验。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 政策质检 | 记录丹麦依据哈蒂均值废除作业案例，揭示无调节元分析对能力与学科差异的遮蔽。 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 政策质检 | 记录丹麦依据[[John Hattie\|哈蒂]]均值废除作业案例，揭示无调节元分析对能力与学科差异的遮蔽。 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能重构 | 揭示大模型导致成品作业效度瓦解，主张转向可恢复性与过程思维考核。 |
 

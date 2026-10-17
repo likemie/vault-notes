@@ -6,7 +6,7 @@ aliases:
 summary: "Jacqueline Edmondson 提出的教育政策分析理论框架，将批判理论与参与式多元主义相结合，主张政策是负载权威价值观的社会建构，倡导教育者通过三类政策研究与多阵线政治策略实现实质性民主参与"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_theories:
   - "[[Elite Theory]]"
   - "[[Subgovernment Theory]]"
   - "[[Critical Theory]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-07
+updated: 2026-10-17
 ---
 
 # Critical Pluralism
@@ -110,7 +111,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题一｜政策是负载价值判断且投射社会理想的权威性人为建构
 > **解释** 政策文本所宣称的客观目标与科学标准，本质上是特定利益群体在特定历史时空下将其世界观、意识形态与利益取向予以制度化赋权的产物。任何看似纯粹科学或技术的政策干预规程，都预设了何种社会生活与公民类型被认可、何种经验与[[Discourse|话语]]被排斥的价值裁决。正如施耐德和英格拉姆（Schneider & Ingram, 1997）所阐发的，政策是关于人们应当如何共同生活的权威宣称，始于作者对理想社会的预设。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
 >
-> **应用实例** 在《[[Reading Excellence Act|卓越阅读法案]]》立法中，将阅读法定定义为基于拼读的[[Decodification|解码]]能力，并非纯粹的认知心理学发现，而是保守派政界与特定[[Experimental Research|实验研究]]者将行为主义[[Disciplina and Doctrina|规训]]投射为国家教育理想的权威性价值建构。
+> **应用实例** 在《[[Reading Excellence Act|卓越阅读法案]]》立法中，将阅读法定定义为基于拼读的[[Decodification|解码]]能力，并非纯粹的认知心理学发现，而是保守派政界与特定[[Experimental Research|实验研究]]者将[[Behaviorism|行为主义]][[Disciplina and Doctrina|规训]]投射为国家教育理想的权威性价值建构。
 
 > [!theory-proposition] 命题二｜有效参与政策制定必须统整功能主义、沟通性与批判性三类政策研究
 > **解释** 教育者若要打破政策制定的技术神秘化壁垒，不能仅依赖单一的[[Paradigm|研究范式]]。受香农（Shannon, 1991）政策研究分类的启发，批判性[[Pluralism|多元主义]]要求研究者超越单一实证范式。功能主义研究提供政策在具体情境中的操作性实证反馈；沟通性研究揭示政策博弈参与各方的认知框架与谈判话语；批判性研究则追溯政策的权力来源、历史成因及其所剥夺的替代性可能。唯有三者统一，才能形成洞察政策全局的战略性知识。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]

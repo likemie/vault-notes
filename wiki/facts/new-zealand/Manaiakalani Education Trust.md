@@ -9,7 +9,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - network-governance
 related_concepts:
   - "[[Exogenous Privatisation]]"
+  - "[[Socioeconomic Status]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Homework]]"
@@ -66,7 +67,7 @@ updated: 2026-10-17
 
 > [!org-context] 机构背景
 > - **创设时间与契机** 2011 年正式登记成立。前身为新西兰教育部于 2008 年资助设立的扩展学校高标准计划（Extending High Standards Across Schools, EHSAS）技术增强型扫盲集群，2010 年转变为教育部资助的信息通信技术（Information and Communications Technology, ICT）专业发展集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
-> - **总部地点与辐射范围** 总部位于新西兰奥克兰塔马基（Tamaki）地区，业务起步于当地低社会经济地位（Low-Decile）公立学校集群，后通过外展项目（Manaiakalani Outreach）扩张至罗托鲁瓦（Rotorua）等全国多个低分校区。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 56)]]
+> - **总部地点与辐射范围** 总部位于新西兰奥克兰塔马基（Tamaki）地区，业务起步于当地低[[Socioeconomic Status|社会经济地位]]（Low-Decile）公立学校集群，后通过外展项目（Manaiakalani Outreach）扩张至罗托鲁瓦（Rotorua）等全国多个低分校区。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 56)]]
 > - **法人属性与资助结构** 独立非营利慈善信托法人；早期依托教育部竞争性专款，2012 年起深度转向由社群信托、企业基金会（Spark Foundation）、[[Venture Philanthropy|风险慈善]]资本（[[NEXT Foundation]]）以及跨国电子硬件企业（Samsung Electronics）构成的多元混合赞助模式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 106)]]
 > - **法定宗旨与使命表述** 明确致力于搜寻并联合外部利益相关者，为塔马基及全国弱势社区的毛利与太平洋岛民儿童和家庭提供数字化学习基础设施、智能硬件及教师技术增强型教学研修项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
 

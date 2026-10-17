@@ -10,7 +10,7 @@ subtype: event
 region: "germany"
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - large-scale-assessment
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Disciplinary Socialization]]"
   - "[[Variable]]"
   - "[[Certainty of Knowledge]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-29
+updated: 2026-10-17
 ---
 
 # TOSCA
@@ -63,7 +64,7 @@ updated: 2026-09-29
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **2002 年 2–5 月 — T1 第一波高中毕业现场施测** 抽样覆盖巴登-符腾堡州 90 所代表性文理中学（学校参与率 100%，学生参与率 > 80%），对 $N = 2854$ 名高三毕业生进行学校现场测试与[[Questionnaire\|问卷调查]]，采集官方 Abitur 成绩、[[Cognitive Ability Test KFT\|KFT]] 认知智力、确定性信念、大五人格与家庭 SES/藏书量。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 354)]]
+> - **2002 年 2–5 月 — T1 第一波高中毕业现场施测** 抽样覆盖巴登-符腾堡州 90 所代表性文理中学（学校参与率 100%，学生参与率 > 80%），对 $N = 2854$ 名高三毕业生进行学校现场测试与[[Questionnaire\|问卷调查]]，采集官方 Abitur 成绩、[[Cognitive Ability Test KFT\|KFT]] 认知智力、确定性信念、大五人格与家庭 [[Socioeconomic Status|SES]]/藏书量。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 354)]]
 > - **2004 年 — T2 第二波大学追踪施测** 向签署追踪同意书的 1886 名学生邮寄追踪问卷，回收有效追踪问卷 1495 份，其中 $N = 1094$ 名学生已明确就读于全德近百所大学并可清晰归类学科门类，进行跨期对比分析。
 
 ---

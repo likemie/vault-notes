@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Idiographic]]"
   - "[[Positivism]]"
+  - "[[Intentionality]]"
   - "[[Falsification]]"
   - "[[Absolutist]]"
   - "[[Postpositivism]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Incommensurability]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Structural Functionalism]]"
   - "[[Postmodernism]]"
   - "[[Burrell and Morgan Four Assumptions Framework]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Subjectivism
@@ -91,7 +93,7 @@ updated: 2026-10-16
 > **主观主义（Subjectivism）** 是社会科学与教育研究的基本[[Epistemology\|认识论]]与方法论取向，在吉布森·伯勒尔与加雷斯·摩根（Gibson Burrell & Gareth Morgan）的社会学[[Analytic Framework\|分析框架]]中代表主观—客观维度的关键一极。该取向将社会世界视为主观意识与人际互动创造的产物，主张研究的核心使命在于理解个体如何创造、修正与解释其所置身的世界；关注独特的[[Idiographic\|个例式]]案例而非抽象的普适定律，强调相对主义的社会现实而非绝对主义的外部客观存在。在教育学与比较教育学史中，主观主义既构成了历史人文传统的阐释基石，也在战后经历了[[Positivism\|实证主义范式]]的系统清洗、批判理性主义的情境整合以及后现代思潮对多元真理体制的重新合法化。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 60–62, 68–69)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向人类行动者的主观经验、价值信仰、意向性与意义诠释对社会现实的建构性作用。
+> - **含义** 指向人类行动者的主观经验、价值信仰、[[Intentionality|意向性]]与意义诠释对社会现实的建构性作用。
 > - **用途** 帮助研究者透视制度运行背后行动者的主体能动性与文化情境，克服将教育与社会现象降格为机械因果规律的技术主义盲视。
 > - **边界** 聚焦独特个体案例与情境理解，不适于推导超越时空的普适因果定律，极易受到机械实证主义关于缺乏[[Falsification\|可证伪性]]与客观确定性的指责。
 
@@ -178,7 +180,7 @@ updated: 2026-10-16
 
 ### 命题二　战后实证科学范式视主观主义为学科科学化的首要障碍并力图通过量化与变量控制清洗观察者偏见
 
-> [!concept-lens] 战后行为主义革命与去主观化运动
+> [!concept-lens] 战后[[Behaviorism|行为主义]]革命与去主观化运动
 > 20 世纪 50 至 60 年代，伴随行为主义革命与对自然科学工程成就的崇拜，教育与社会科学界掀起了一场激烈的去主观化运动，将主观主义、印象主义与价值沉思视为前科学阶段的严重弊端并予以系统清理。
 
 > [!claim] Templeton, R. G.

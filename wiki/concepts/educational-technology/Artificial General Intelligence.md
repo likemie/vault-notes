@@ -9,7 +9,7 @@ aliases:
 summary: "指具备在广泛领域内理解、学习并执行人类所能完成的任何智力任务的合成计算智能系统。2023年微软研究团队通过常识物理堆叠与独角兽绘图等实验提出大语言模型已展现出通用人工智能火花，标志着人工智能从专用弱AI向具备跨学科抽象推理与通用表征能力的范式演进，并引发关于机器意识、人机协同与地缘软件战争的深远讨论。"
 type: concept
 domain: "educational-technology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Emergence]]"
+  - "[[Intentionality]]"
   - "[[General Purpose Technology]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Artificial General Intelligence
@@ -56,7 +57,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 指向具备类人综合思维、常识判断与自适应问题求解能力的计算架构与算法[[Emergence|涌现]]状态。
 > - **用途** 帮助研究者评估大模型是否从表层统计模式拟合向深层世界模型与因果推理发生本质演进。
-> - **边界** 不等于拥有生物学意义上的主观感受（Qualia）或自我觉知的机器意识；不能将逼真的语言拟人交互误同为真实意向性。
+> - **边界** 不等于拥有生物学意义上的主观感受（Qualia）或自我觉知的机器意识；不能将逼真的语言拟人交互误同为真实[[Intentionality|意向性]]。
 
 > [!citation-card] 通用人工智能火花的经验观测
 > 最先进的大模型已经开始展现出研究者所称的通用人工智能火花，即展现出高度逼近人类思维方式的推理形态。通过空间常识堆叠测试与独角兽绘图测试，模型在数学、编码、视觉与常识推理等领域展现了跨模态的通用性。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 19; Bubeck et al., 2023, p. 92)]]

@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
+  - "[[Intentionality]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Discipline-Based Theory]]"
   - "[[Self-control]]"
@@ -54,6 +55,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Pragmatic Constructivism]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Philosophical Analysis in Education]]"
@@ -72,7 +74,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 研究问题
 
@@ -141,7 +143,7 @@ updated: 2026-10-16
 ### 论证步骤一：现象学与生活世界中的现象体验
 
 > [!claim] 步骤一主张
-> 在 [[Phenomenon-Based Learning\|PhBL]] 中，现象是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，具有主观价值关联性。(pp.2–3)
+> 在 [[Phenomenon-Based Learning\|PhBL]] 中，现象是主体在以[[Intentionality|意向性]]（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，具有主观价值关联性。(pp.2–3)
 
 > [!chain-link] [[Phenomenology\|现象学]]体验链
 > - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant and Husserl 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
@@ -190,7 +192,7 @@ updated: 2026-10-16
 ### 论证步骤四：教育心理学中实用主义建构主义的演进
 
 > [!claim] 步骤四主张
-> 20世纪末，芬兰教育心理学[[Paradigm\|范式]]由行为主义（Behaviorism）向[[Constructivist Paradigm\|建构主义]]（Constructivism）转型，直接孕育了 PhBL 的教学法模型，使其成为桥接教育理论与学校实践的工具。(pp.7–8)
+> 20世纪末，芬兰教育心理学[[Paradigm\|范式]]由[[Behaviorism|行为主义]]（Behaviorism）向[[Constructivist Paradigm\|建构主义]]（Constructivism）转型，直接孕育了 PhBL 的教学法模型，使其成为桥接教育理论与学校实践的工具。(pp.7–8)
 
 > [!timeline] 芬兰教育心理学与建构主义演进史
 > - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen and Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)

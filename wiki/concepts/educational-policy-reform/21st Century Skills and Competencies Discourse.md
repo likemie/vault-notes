@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Science Capital]]"
+  - "[[Socioeconomic Status]]"
   - "[[Operationalization]]"
   - "[[Public Value]]"
 related_theories:
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -303,7 +304,7 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain\|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking\|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning\|表层学习]]，阻碍 21 世纪高阶素养养成 |
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
 > | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
-> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能[[Discourse\|话语]]宣称与应试刷题及课时削减之间的尖锐断裂 |
+> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 [[Socioeconomic Status\|SES]] 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能[[Discourse\|话语]]宣称与应试刷题及课时削减之间的尖锐断裂 |
 
 ---
 

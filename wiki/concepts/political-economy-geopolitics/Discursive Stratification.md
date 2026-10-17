@@ -5,7 +5,7 @@ aliases:
 summary: "高等教育新政治经济学的两大分析路径之一，主张排名、评估和指标等话语实践积极参与建构社会不平等和等级秩序，而非仅仅反映既有的权力结构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Elitism Dispositif]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
+  - "[[Intentionality]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Academic Capitalism]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Discursive Stratification
@@ -102,5 +103,5 @@ Kim 通过对全球流动学者的分析展示了市场化如何改变符号位�
 > 2. 解释符号秩序建构与变迁的机制是什么？
 > 3. 高等教育内部的新等级应如何被概念化？
 >
-> 但多篇文章展示了两种取向可以富有成效地结合——马克思主义分析承认[[Academic Capitalism\|学术资本主义]]的符号维度（Jessop, Reitz），[[Discourse Analysis\|话语分析]]反思经济资源的分配如何塑造社会共享或争议的意义（Maesse, Bloch & Mitterle, Angermuller），[[Comparative Policy Analysis|比较政策分析]]质疑政治意向性的限度（Schulze-Cleven & Olson）([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–809]])。
+> 但多篇文章展示了两种取向可以富有成效地结合——马克思主义分析承认[[Academic Capitalism\|学术资本主义]]的符号维度（Jessop, Reitz），[[Discourse Analysis\|话语分析]]反思经济资源的分配如何塑造社会共享或争议的意义（Maesse, Bloch & Mitterle, Angermuller），[[Comparative Policy Analysis|比较政策分析]]质疑政治[[Intentionality|意向性]]的限度（Schulze-Cleven & Olson）([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–809]])。
 

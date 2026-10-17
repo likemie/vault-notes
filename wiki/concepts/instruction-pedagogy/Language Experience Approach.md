@@ -5,7 +5,7 @@ aliases:
 summary: "基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,8 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -30,7 +31,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2020
 doi: ""
 citation_aliases: []
@@ -84,7 +85,7 @@ citation_aliases: []
 > - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的文献 (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
 > - **麦基与洛马斯的批判 (McGee & Lomax, 1990)** 他们明确指出：“语言经验法是全语言的重要前身，但检验语言经验法的研究结果绝不能用于对全语言进行推断” (p.144)。
  
-> [!case] 证据污染案例：Brazziel and Terrell (1962) 行为主义研究
+> [!case] 证据污染案例：Brazziel and Terrell (1962) [[Behaviorism|行为主义]]研究
 > 该[[Experimental Research\|实验研究]]仅涉及田纳西州 26 名低收入非裔一年级学童的“家长-教师合作”和阅读准备教材操练，是一项纯粹传统的行为主义技能准备计划 (p.144)。
 > 仅仅因为实验中让教师制作了反映儿童分享的“经验图表” (experience charts)，就被归为语言经验法，进而被 [[Steven Stahl\|斯塔尔]]与米勒（Stahl & Miller）算作“全语言”的效应量，最终混入哈蒂的《VL》中 (p.144)。帕特里克·奥康纳 (Patrick O'Connor, 2020) 尖锐指出，该研究与全语言的本质理念毫无关系 (p.144)。
 

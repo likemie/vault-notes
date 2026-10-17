@@ -13,9 +13,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "[[OECD]]"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Inhibitory Control]]"
   - "[[Social-Emotional Learning]]"
   - "[[Gamification]]"
+  - "[[Socioeconomic Status]]"
   - "[[Discourse]]"
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Baby PISA
@@ -107,7 +108,7 @@ updated: 2026-10-16
 >   - **自我调节（[[Self-control\|self-regulation]] / [[Executive Function]]）** 包含[[Working Memory\|工作记忆]]、[[Inhibitory Control\|抑制控制]]与注意力切换；
 >   - **[[Social-Emotional Learning\|社会情感能力]]（Social-Emotional Skills）** 重点测量同理心认知、情绪识别与亲社会行为。
 > - **测试媒介与干预形态** 改变传统纸笔测试，采用装载趣味动画叙事的平板电脑[[Gamification\|游戏化]]软件进行一对一施测，由经过培训的外部主试员对儿童进行约 60 分钟的分段互动测试。
-> - **[[Questionnaire\|问卷]]与多源[[Triangulation\|三角互证]]** 向受测儿童父母发放家庭养育环境与 SES 调查表，向带班教师发放儿童日常行为观察量表，试图将微观家庭互动与社区生态纳入数据模型。
+> - **[[Questionnaire\|问卷]]与多源[[Triangulation\|三角互证]]** 向受测儿童父母发放家庭养育环境与 [[Socioeconomic Status|SES]] 调查表，向带班教师发放儿童日常行为观察量表，试图将微观家庭互动与社区生态纳入数据模型。
 
 > [!citation-card] 代表性立项宣言／宗旨界定
 > [[OECD]] 在启动 IELS 时宣称该评估旨在为各国政府提供关于儿童早期身心准备度的客观实证依据：
@@ -147,7 +148,7 @@ updated: 2026-10-16
 > [!indicators]- 测评维度与指标体系
 > - **直接认知测验表现** 平板电脑端早期字词识别正确率、数数与运算时间、空间几何匹配得分。
 > - **[[Executive Function\|执行功能]]反应时与准确率** [[Inhibitory Control\|抑制控制]]任务（如“红灯停绿灯行”逆向指令）完成度与[[Working Memory\|工作记忆]]容量跨度。
-> - **家庭社会经济地位梯度** 父母[[Educational Level\|受教育年限]]、家庭藏书量、亲子阅读频次对儿童早期各维度得分的回归权重。
+> - **家庭[[Socioeconomic Status|社会经济地位]]梯度** 父母[[Educational Level\|受教育年限]]、家庭藏书量、亲子阅读频次对儿童早期各维度得分的回归权重。
 
 > [!finding-cards] 核心测评产出与首期试点发现
 > - **阶层不平等在 5 岁时的显著投射** 首期报告证实，社会经济弱势背景儿童在 5 岁时即在早期读写和自我调节上显著落后于优势群体，揭示了学前阶段既已存在的社会阶层分化。

@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Human Capital Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Pluralism]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Protean Episteme
@@ -124,7 +125,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **跨学科[[Geisteswissenschaften|人文科学]]属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于行为主义量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
+> - **跨学科[[Geisteswissenschaften|人文科学]]属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
 > - **汉斯式广义教育科学与精神科学溯源（Hansian Erziehungswissenschaft and Human Science [[ROOTS]]）** 普罗透斯式认识体系承继[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）对“教育科学（*Vergleichende Erziehungswissenschaft*）”的广义界定与欧陆[[Geisteswissenschaften|精神科学]]传统，将“科学”确立为跨学科、多视角的人文学术综合，坚决抗拒英语世界将科学降格为行为主义量化实证的狭隘专断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–141)]]
 > - **时代思潮与意识形态编织（Weaving of Cultural Strands and Ideological Fads）** 学科的方法论面貌与[[Research Topic|研究主题]]深刻折射出特定历史阶段的智识潮流（如启蒙理性、战后现代性工程、冷战对抗、全球化市场化）与统治阶级治理诉求。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 > - **代际演替与论述类型更迭（Succession of [[Discourse]] Generations）** [[Knowledge Production|知识生产]]不是单一累加，而是呈现为不同代际之间围绕“科学 vs 艺术”、“解释 vs 预测”、“宏观国家 vs 微观学校”展开的周期性论辩与话语重塑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 140)]]

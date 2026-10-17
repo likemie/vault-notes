@@ -7,7 +7,7 @@ aliases:
 summary: "Dachet and Baye 在法语比利时教育卓越公约中使用的证据分类框架，以方法多元方式给教学工具和项目设置最低验证标准。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Inclusive Evidence Validation Typology
@@ -76,7 +77,7 @@ updated: 2026-10-16
 > 该类型学服务两个目标：一是让工作组能够按证据水平整理候选工具/项目，二是为不同方法路径定义最低标准，包括质性方法的最低标准([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.178]])。
 
 > [!info]- 核心数据
-> Dachet and Baye 要求被测试的工具/项目至少在两个具有不同特征的课堂环境中实施，例如学校社会经济地位、教学网络和教师经验不同的环境；这个要求用于避免只在单一课堂中观察实施而过早推广([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.178-179]])。
+> Dachet and Baye 要求被测试的工具/项目至少在两个具有不同特征的课堂环境中实施，例如学校[[Socioeconomic Status|社会经济地位]]、教学网络和教师经验不同的环境；这个要求用于避免只在单一课堂中观察实施而过早推广([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.178-179]])。
 
 ## 争议与批评
 

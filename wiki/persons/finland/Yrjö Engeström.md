@@ -7,7 +7,7 @@ summary: "芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -28,14 +28,15 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yrjö Engeström]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 confidence: low
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Yrjö Engeström
 

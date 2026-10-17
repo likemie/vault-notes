@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Intentionality]]"
   - "[[Rich and Thick Description]]"
   - "[[Social Episodes]]"
   - "[[Tacit Knowledge]]"
@@ -86,7 +87,7 @@ related_facts:
   - "[[Achieve]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
@@ -103,7 +104,7 @@ updated: 2026-10-16
 
 [[Accounts|陈述法]]的核心关注点是**情境中的语言（language in context）**。其[[Research Scope|研究范围]]可从言语行为（Austin, 1962）和[[Ethnomethodology|俗民方法学]]（Garfinkel, 1967）经对话分析，一直延伸到[[Discourse Analysis|话语分析]]（Wooffitt, 1993）。陈述同时包含语言的描述性、分析性和解释性特征，覆盖从日常语言到极端情境中的各种语言。陈述关注**行动中的语言** 语言既是"社会行动的形式，也是社会行动的载体"（Wooffitt, 1993, p. 303）（p.441）。
 
-本章的[[Epistemology|认识论]]根基在诠释的、[[Ethnography|民族志]]的[[Paradigm|范式]]中：力求通过参与者的眼睛看待情境，捕捉他们的意向性、对复杂情境的解释、意义系统，以及互动展开过程中的动态。这与 Geertz（1973）的[[Rich and Thick Description|深描]]概念一脉相承（p.441）。
+本章的[[Epistemology|认识论]]根基在诠释的、[[Ethnography|民族志]]的[[Paradigm|范式]]中：力求通过参与者的眼睛看待情境，捕捉他们的[[Intentionality|意向性]]、对复杂情境的解释、意义系统，以及互动展开过程中的动态。这与 Geertz（1973）的[[Rich and Thick Description|深描]]概念一脉相承（p.441）。
 
 > [!claim] 陈述的社会功能：使行动变得可理解与可辩护
 > 虽然每个人都从自己的视角看世界，但我们有一种与周围人共享的、谈论自身经验的方式。**为行动作出陈述（accounting for our actions）**，就是使它们对人类同伴变得可理解和可辩护。一句"非常抱歉，我不是故意撞到你的"就是一个阐明社会意义的简单案例。通过将碰撞置于任何计划序列之外并使其可理解，碰撞在那个情境中就不再具有冒犯性（Harré, 1978）（p.441）。

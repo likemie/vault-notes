@@ -10,7 +10,7 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Effective Sample Size]]"
   - "[[Scale of Measurement]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Socioeconomic Status]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Baseline Standardized Mean Difference
@@ -171,7 +172,7 @@ updated: 2026-10-16
 > [!warning] 为什么 $|d_{\text{baseline}}| > 0.25$ 时 ANCOVA 统计校正会失效？
 > 1. **潜在分布质性异质性** 当组间基线差异超过 $0.25$ 个标准差时，两组学生通常来自质性不同的群体（如重点班 vs 普通班）。此时测验工具可能在高端出现“[[Floor and Ceiling Effects\|天花板效应]]”或在低端出现“地板效应”，严重扭曲分数的等距性。
 > 2. **违背回归斜率齐性假定（Homogeneity of Regression Slopes）** 协[[Analysis of Variance\|方差分析]]的核心假定是两组的前测-后测回归斜率完全平行。当初始能力差距过大时，能力强组的认知增速往往远高于薄弱组（马太效应），导致斜率异质，强行线性调整会产生严重的人为估计偏差。
-> 3. **高维未测混杂的投射** $0.25$ SD 的巨大落差往往是家庭社会经济地位、前期累积学业资本与学习动机的综合外显，单凭单一前测分数的线性扣除绝不可能彻底剔除这些高维多重共线性变量的影响。
+> 3. **高维未测混杂的投射** $0.25$ SD 的巨大落差往往是家庭[[Socioeconomic Status|社会经济地位]]、前期累积学业资本与学习动机的综合外显，单凭单一前测分数的线性扣除绝不可能彻底剔除这些高维多重共线性变量的影响。
 
 ---
 

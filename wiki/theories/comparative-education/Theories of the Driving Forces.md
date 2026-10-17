@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪前中期主导欧洲比较教育学术研究的人文主义古典范式，由弗里德里希·施奈德与尼古拉斯·汉斯奠立；该理论主张在民族国家教育体系的多样性表象背后，探寻由民族性格、地理环境、经济生产、宗教信仰与文化哲学构成的深层驱动力（Triebkräfte），揭示国家教育形态的历史发生学机制与内在趋同性。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Big Ideas]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Problem Approach]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Theories of the Driving Forces
@@ -71,7 +72,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 将国家学制还原为其背后的深层动力结构，主张“教育事实是深层文化与社会历史动因的表征”。
 > - **用途** 为跨国教育制度比较提供历史社会学与发生学的解释框架，防止陷入去情境化的表面现象对照或轻率的“[[Policy Borrowing|政策借用]]”。
-> - **边界** 驱动力理论偏重宏观精神文化与历史长期维度的诠释，较难直接量化为微观因果效应；1960 年代后受到[[Positivism|实证主义]]、量化行为主义与社会学[[Critical Theory|批判理论]]的猛烈冲击。
+> - **边界** 驱动力理论偏重宏观精神文化与历史长期维度的诠释，较难直接量化为微观因果效应；1960 年代后受到[[Positivism|实证主义]]、量化[[Behaviorism|行为主义]]与社会学[[Critical Theory|批判理论]]的猛烈冲击。
 
 ---
 

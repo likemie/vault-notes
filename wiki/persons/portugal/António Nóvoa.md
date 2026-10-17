@@ -10,10 +10,10 @@ summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前�
 type: person
 nationality: portugal
 person_region: "portugal"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1954"
 died: ""
 lifespan: "1954–至今"
@@ -48,6 +48,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
+  - "[[António Nóvoa]]"
   - "[[Jason Beech]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # António Nóvoa

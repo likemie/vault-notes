@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Metacognitive Laziness]]"
+  - "[[Socioeconomic Status]]"
   - "[[Scaffolding]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Operationalization]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Alan C. K. Cheung
@@ -121,7 +122,7 @@ updated: 2026-10-16
 >   - **代表著作** 
 >     - Chen, S., & Cheung, A. C. K. (2025). Effect of [[Generative Artificial Intelligence]] on university students' learning outcomes: A [[Systematic Review]] and meta-analysis. *Educational Research Review*, 49, Article 100737. [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025)]]
 >   - **关键概念／方法** [[Marginal Gains Hypothesis]]、[[Metacognitive Laziness]]、[[Third Generation Activity Theory\|AT-MCSCL]] 框架、[[Baseline Standardized Mean Difference]]、[[Trim and Fill Method]]。
->   - **阶段转向** 从传统 K-12 课程干预向高等教育生成式 AI 场景迁移；在宏观活动系统生态中揭示“边际效益递增”规律（低 ICT 与低 SES 环境超额收益）与权力距离文化壁垒破除机制，主张技术治理需警惕“元认知惰性”并植入显性反思[[Scaffolding\|脚手架]]。
+>   - **阶段转向** 从传统 K-12 课程干预向高等教育生成式 AI 场景迁移；在宏观活动系统生态中揭示“边际效益递增”规律（低 ICT 与低 [[Socioeconomic Status|SES]] 环境超额收益）与权力距离文化壁垒破除机制，主张技术治理需警惕“元认知惰性”并植入显性反思[[Scaffolding\|脚手架]]。
 
 ---
 

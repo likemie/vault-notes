@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31"
 argument_display_title: "Research Methods in Education · Ch31"
 argument_kind: "book-chapter"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Reflexivity]]"
   - "[[Concept Mapping]]"
+  - "[[Intentionality]]"
   - "[[Classroom Management]]"
   - "[[Hidden Curriculum]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31
 
@@ -103,7 +104,7 @@ updated: 2026-10-16
 > |---|---|
 > | 衔接性（Cohesion） | 各部分之间有语法联系 |
 > | 连贯性（Coherence） | 顺序与结构在意义上连贯 |
-> | 意向性（Intentionality） | 写作或言说有意进行 |
+> | [[Intentionality\|意向性]]（Intentionality） | 写作或言说有意进行 |
 > | 可接受性（Acceptability） | 为预期受众接受或可以接受 |
 > | 信息性（Informativeness） | 带有新信息 |
 > | 情境性（Situationality） | 所处背景、条件与情势得到说明 |

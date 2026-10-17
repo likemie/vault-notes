@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Deception in Research]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Role-playing]]"
@@ -90,7 +91,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26
 
@@ -260,7 +261,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > - **促进价值观、感知或态度的转变** 角色扮演能够培育价值观、感知或态度的变化（Bolton & Heathcote, 1999, pp. 178–185）（p. 4）
 
 > [!info] 虚构揭示真实：虚构与幻想的区别
-> 艺术通过创造虚构情境、一个与真实紧密相连的假想世界来揭示关于人和世界的真相，这是虚构（fiction）与幻想（fantasy）的区别。在大多数使用角色扮演的研究情境中，重点是在虚构之中并经由虚构工作，揭示关于真实的真相，以及我们每个人在建构自己对经验的理解时如何对这类情境做出个体反应。Bolton & Heathcote（1999: ix）关注的是拓宽角色扮演传统上被认知的用途，从严格的行为主义强调转向意义的沟通（pp. 4–5）。
+> 艺术通过创造虚构情境、一个与真实紧密相连的假想世界来揭示关于人和世界的真相，这是虚构（fiction）与幻想（fantasy）的区别。在大多数使用角色扮演的研究情境中，重点是在虚构之中并经由虚构工作，揭示关于真实的真相，以及我们每个人在建构自己对经验的理解时如何对这类情境做出个体反应。Bolton & Heathcote（1999: ix）关注的是拓宽角色扮演传统上被认知的用途，从严格的[[Behaviorism|行为主义]]强调转向意义的沟通（pp. 4–5）。
 
 > [!claim] 所有角色扮演活动的唯一标准：仿佛虚构
 > 根据 Bolton and Heathcote（1999, p. 57），支撑所有角色扮演活动的唯一标准是要求参与者踏入一个仿佛（as if）虚构，即以学习为目标构思的虚构。它对参与者提出独特的挑战，因为它涉及拥抱知识（embracing knowledge），需要以某种方式进入虚构，使所需知识成为自己的，这比单纯的指导或吸收更进一步。因此，角色扮演者不只是像在典型教学情境中那样接收或获取知识；他们在制造它、实践它、体现它：**他们知道他们所知道的**。这凸显了准确设定和构建角色扮演以记录这些真实与态度的重要性，从而提高所获资料的[[Reliability\|信度]]和效度（p. 5）。

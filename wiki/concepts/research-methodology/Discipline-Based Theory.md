@@ -9,7 +9,7 @@ aliases:
 summary: "源自母学科（社会科学、人文学科或自然科学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以界定构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒；在全球教育治理与知识经济中指以客观事实与理论命题为核心的“knowing that”，在追求程序性与商业化技能（knowing how）的新自由主义转向下面临工具化边缘。"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Determination Theory]]"
+  - "[[Behaviorism]]"
   - "[[Path Dependence]]"
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Discipline-Based Theory
@@ -143,7 +144,7 @@ updated: 2026-10-16
 > [!feature] 比较教育学中学科本位理论的建制地位
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）指出，欧洲比较教育学的发展牢固依托于大学讲座教授制（University Chairs）：
 > - **母学科理论壁垒** 欧洲各大学的比较教育讲座长期由历史学、哲学与[[Allgemeine Pädagogik|普通教育学]]（[[Allgemeine Pädagogik]]）学者执掌，学科本位理论牢牢占据学术[[Discourse|话语]]的“指挥高地”。
-> - **抵御[[Empiricism|经验主义]]测验** 与北美行为主义与纯实证调查导向不同，欧洲学科本位学者长期将大型跨国心理测量调查（如早期 [[IEA]] 调查）视为缺乏学科理论根基的边缘技术，坚决捍卫以文化解释、历史演变与教育哲学为核心的学科理论正统。
+> - **抵御[[Empiricism|经验主义]]测验** 与北美[[Behaviorism|行为主义]]与纯实证调查导向不同，欧洲学科本位学者长期将大型跨国心理测量调查（如早期 [[IEA]] 调查）视为缺乏学科理论根基的边缘技术，坚决捍卫以文化解释、历史演变与教育哲学为核心的学科理论正统。
 
 > [!feature] [[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对学科理论的[[Epistemology|认识论]]降解
 > 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 445–446]]）基于新增长理论与 Lundvall（1992）的学习型经济模型，剖析了超国家政策话语中对学科理论的系统性重构：
@@ -243,7 +244,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 学科理论的学术演变脉络
 > - **20世纪中叶 — 大学讲座与学科理论垄断** 欧洲比较教育学依托大学讲座教授制，将比较研究牢固锚定在哲学、历史学与[[Allgemeine Pädagogik|普通教育学]]的学科本位理论之上，排斥去理论化的纯技术调查。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
-> - **1960s–1980s — 行为主义冲击与经验调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
+> - **1960s–1980s — [[Behaviorism|行为主义]]冲击与经验调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
 > - **1990s — [[Mixed Methods Research|混合方法]]中的规范化界定** 社会[[Scientific Method|科学方法]]论学者系统提炼理论在实证研究中的角色，Crotty（1998）等界定了[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与具体方法的级联关系。
 > - **1996–2000s — [[Knowledge-Based Economy|知识经济]]转型与学科理论向[[Procedural Skill|程序性技能]]退位** Foray and Lundvall（1996）提出学习型经济概念，[[OECD|经合组织]]将学习重心从正规学科理论（knowing that）转向跨界网络协作与商业化技能（[[Procedural Knowledge|knowing how]]），形成了以市场效用统摄教育的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **2000s–2010s — 混合方法研究中的首要理论类型** Creswell 等将学科理论规范化为混合方法研究的第一核心理论形态，系统归纳其组织数据、预测假设与统领[[Coding in Qualitative Research|质性编码]]的操作[[Paradigm|范式]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–72)]]

@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
+  - "[[Behaviorism]]"
   - "[[Self-Determination Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
@@ -55,7 +56,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2022
 doi: ""
 citation_aliases:
@@ -124,7 +125,7 @@ citation_aliases:
 
 GUI 是算法系统"捕获"用户的界面。为了维持用户交互（从而持续获取数据），GUI 大量使用 [[Gamification]] 原则——积分、徽章、等级、排行榜、即时反馈循环。Zichermann & Cunningham（2011, pp.ix–x）在其 Gamification 设计手册中明确表述了目标："只有通过 Gamification 的力量，我们才能使那种体验可预测、可重复且具有经济回报。"
 
-Gamification 的设计逻辑根植于行为主义心理学——特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在拉斯维加斯老虎机研究中发现，硅谷开发者明确引用操作条件反射理论来建构产品。这不是巧合——在行为主义框架中，学习本身就是通过正反馈来调节和强化特定行为，**不需要理解(pp.236–237)**。
+Gamification 的设计逻辑根植于[[Behaviorism|行为主义]]心理学——特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在拉斯维加斯老虎机研究中发现，硅谷开发者明确引用操作条件反射理论来建构产品。这不是巧合——在行为主义框架中，学习本身就是通过正反馈来调节和强化特定行为，**不需要理解(pp.236–237)**。
 
 > 例：Duolingo 使用连续打卡天数、宝石奖励、排行榜和晋级联赛来维持用户的学习行为。从 Gamification 的角度看，这很成功——用户每天打开 App。但一个用户可能连续打卡 100 天、获得大量宝石、升至钻石联赛，却仍然无法用所学语言进行基本的对话。她学到的是"如何在这个系统中获得奖励"，而不是"如何用这门语言与人交流"。这就是 Schrape（2014, p.43）所说的：如果只有行为被追踪和调节，"洞察就不再相关，理性的时代最终走向终结"。
 
@@ -245,7 +246,7 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 
 **Bildung 的规范立场未经充分辩护** 论证预设了 Bildung 是"好的"——但在讨论全球教育治理时，Bildung 是一个特定于欧洲（主要是德国）的规范性概念，其普遍适用性存疑。对于缺乏 Bildung 传统的教育体系，这一批判的规范性基础需要更多的论证。
 
-**[[Gamification]] 的简化理解** 讨论侧重 Gamification 的行为主义根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如[[Self-Determination Theory|自我决定理论]] SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
+**[[Gamification]] 的简化理解** 讨论侧重 Gamification 的[[Behaviorism|行为主义]]根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如[[Self-Determination Theory|自我决定理论]] SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
 
 **教师角色的理想化** 论证暗示教师天然地提供比算法更好的反馈——但现实中，教师反馈本身也可能缺乏反思空间（如标准化考试中的分数反馈），将教师角色设置为比较的基准而未对教师实践本身进行批判性审视。
 

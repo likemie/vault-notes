@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Global Universities Rankings]]"
   - "[[PISA Shock]]"
+  - "[[Socioeconomic Status]]"
   - "[[Positional Good]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Champ]]"
@@ -116,7 +117,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Rizvi_Lingard_2009_OECDEducationPolicy
 
@@ -406,7 +407,7 @@ updated: 2026-10-16
 
 #### 1. 教育公平被窄化为形式上的入学机会，回避了深层的制度与社会正义议题
 
-PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷]]收集学生的家庭经济背景、学习习惯以及学校规模、经费与课程组织等丰富信息。这虽然使研究者能够分析社会经济地位（Socio-Economic Status, SES）与学生成绩之间的相关性，但其底层的分析范式存在严重缺陷。（p. 448）
+PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷]]收集学生的家庭经济背景、学习习惯以及学校规模、经费与课程组织等丰富信息。这虽然使研究者能够分析[[Socioeconomic Status|社会经济地位]]（Socio-Economic Status, SES）与学生成绩之间的相关性，但其底层的分析范式存在严重缺陷。（p. 448）
 
 > [!critique] 伯利纳对技术主义公平观的深刻批判
 > - **形式入学机会对教育正义的替换** 大卫·伯利纳（David Berliner, 2007）指出，经合组织对教育公平的理解极其狭隘，仅仅局限于个体在法律和形式上是否拥有进入学校的门槛准入（formal access）。（p. 448）

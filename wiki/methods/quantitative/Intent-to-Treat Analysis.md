@@ -8,7 +8,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Unit of Analysis]]"
+  - "[[Intentionality]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Intent-to-Treat Analysis
@@ -89,7 +90,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 学生个体、教师、课堂或学校（需与随机分配层级相匹配或通过[[Hierarchical Linear Model\|多水平模型]]处理嵌套结构）。
 > - **输出形式** 标准化均值差（[[Effect Size\|效应量]]，如 Hedges' $g$、Cohen's $d$）、无偏因果回归系数 $\beta_{\text{ITT}}$ 及其[[Confidence Interval\|置信区间]]、显著性水平。
 
-> [!citation-card] 政策干预可获得性与意向性分析的核心定位（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）
+> [!citation-card] 政策干预可获得性与[[Intentionality|意向性]]分析的核心定位（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）
 > 此类模型通常提供意向治疗（ITT）估计值，这对政策与实践具有极其重大的意义，“因为政策制定者和行政管理者往往只能控制某项干预措施的可获得性（availability），而根本无法强制其被实际接受与完全依从（uptake）”。[[Argument_Pampaka_2016_IJRME\|(Pampaka et al., 2016, p. 233)]]
 >
 > *Such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice "as policymakers and administrators often have control only over the availability of an intervention, and not its uptake".*
@@ -115,7 +116,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **研究设计** 双臂或[[Multi-Arm Trial\|多臂随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）、整群随机对照试验（[[Cluster Randomized Trials\|Cluster RCT]]）、[[Factorial Design\|析因实验]]设计。
 > - **数据收集** 试验前基线测试（Pre-test）、终点[[Pre-test and Post-test\|后测]]（Post-test）、行政追踪数据库、实施出勤签到表与数字化学习日志。
-> - **分析方法** [[Analysis of Covariance\|协方差分析]]（ANCOVA）、多水平[[Hierarchical Linear Model\|分层线性模型]]（Hierarchical Linear Modelling, HLM）、意向性[[Generalized Estimating Equations\|广义估计方程]]（GEE）。
+> - **分析方法** [[Analysis of Covariance\|协方差分析]]（ANCOVA）、多水平[[Hierarchical Linear Model\|分层线性模型]]（Hierarchical Linear Modelling, HLM）、[[Intentionality|意向性]][[Generalized Estimating Equations\|广义估计方程]]（GEE）。
 > - **辅助技术** 工具变量法（IV-2SLS）、全信息最大似然估计（FIML）、多重插补（Multiple [[Imputation Methods\|imputation]]）、流失敏感性检验。
 
 ---

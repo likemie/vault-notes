@@ -8,10 +8,10 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1863"
 died: "1931"
 lifespan: "1863–1931"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Lesson Study]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
+  - "[[Behaviorism]]"
   - "[[Thomas Theorem]]"
   - "[[Pragmatic Constructivism]]"
 related_methods:
@@ -60,7 +61,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # George Herbert Mead
@@ -71,7 +72,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国[[Pragmatic Paradigm\|实用主义]]哲学家、社会心理学家、社会学家，芝加哥大学教授，美国古典实用主义哲学与社会学芝加哥学派（Chicago School of Sociology）的核心理论支柱。
-> - **核心角色** [[Symbolic Interactionism\|符号互动论]]（Symbolic Interactionism）的奠基宗师。米德将古典实用主义哲学与社会行为主义（Social Behaviorism）[[Creativity\|创造性]]融合，将微观人际“互动本身”确立为独立的研究单位，系统阐明了心灵、自我与社会在象征符号沟通中浮现的辩证机制，为社会科学[[Interpretive Paradigm\|诠释范式]]与现代[[Qualitative Research\|质性研究]]传统提供了根本的微观理论支点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **核心角色** [[Symbolic Interactionism\|符号互动论]]（Symbolic Interactionism）的奠基宗师。米德将古典实用主义哲学与社会[[Behaviorism|行为主义]]（Social Behaviorism）[[Creativity\|创造性]]融合，将微观人际“互动本身”确立为独立的研究单位，系统阐明了心灵、自我与社会在象征符号沟通中浮现的辩证机制，为社会科学[[Interpretive Paradigm\|诠释范式]]与现代[[Qualitative Research\|质性研究]]传统提供了根本的微观理论支点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 奠定符号互动论理论基础，提出“扮演他人角色”（Taking the Role of the Other）、“主我”（I）与“客我”（Me）辩证结构，以及基于重要符号与姿态对话的社会自我发生理论。
 
 > [!citation-card] 符号互动论的理论开创与诠释[[Paradigm\|范式]]确立
@@ -98,7 +99,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1890s–1910s — 社会行为主义与手势沟通阶段（Early Chicago Phase）** 批判华生机械行为主义，吸纳冯特手势心理学与詹姆斯机能主义，奠定符号互动微观机制。
+> - **1890s–1910s — 社会[[Behaviorism|行为主义]]与手势沟通阶段（Early Chicago Phase）** 批判华生机械行为主义，吸纳冯特手势心理学与詹姆斯机能主义，奠定符号互动微观机制。
 >   - **代表论著** 《社会意识的发生与意义》（1910）、《社会自我的机制》（1913）。
 >   - **关键概念／方法** 社会行为主义（Social Behaviorism）、姿态对话（Conversation of Gestures）、重要符号（Significant Symbols）。
 >   - **阶段转向** 拒绝排除主观意识的刺激-反应（S-R）教条，主张手势和符号是在社会互动过程中引导彼此适应与激发共同意义的工具。
@@ -125,7 +126,7 @@ updated: 2026-10-16
 > - **社会情境中“扮演他人角色”的行动协调（Role-Taking in Social Context）** 个体在具体社会情境中通过“扮演他人的角色”，向自身做出关于他人潜在反应的内在指示（Self-indications），预判他人在特定情境下的期望，进而协调自身行动并实施[[Thomas Theorem\|情境定义]]（Definition of the Situation）与印象管理（Impression Management）。
 
 > [!feature] 社会自我的发生机制与内部对话
-> 米德从社会行为主义进路阐明了个体自我是如何逐步发育并运转的：
+> 米德从社会[[Behaviorism|行为主义]]进路阐明了个体自我是如何逐步发育并运转的：
 > - **手势对话与重要符号（Gestures & Significant Symbols）** 动物之间的手势（如狗咬架）仅为本能刺激-反应；而人类发展出的“重要符号”（如语言）能在发出者与接收者内心唤起完全相同的意义理解，使有意识的象征互动成为可能。
 > - **嬉戏与竞赛阶段（Play & Game Stages）** 在儿童发展的嬉戏阶段，儿童只能模仿单一具体的他人角色（如假扮老师或医生）；进入竞赛阶段后，儿童必须同时把握所有参与者的规则与角色协作（如棒球比赛），由此内化了代表整个社会群体规范期望的“概化他人”（Generalized Other）。
 > - **“主我”（I）与“客我”（Me）的辩证对话** 自我是动态平衡过程：“客我”是内化了的[[Social Regime|社会规约]]与他人态度总和，代表社会秩序与约束；“主我”是个体对客我态度的即时、能动与[[Creativity\|创造性]]反应；人类的心灵思考在本质上正是“主我”与“客我”之间在内心展开的社会化对话。
@@ -175,7 +176,7 @@ updated: 2026-10-16
 >   - **赫伯特·布鲁默（Herbert Blumer）** 弟子，正式铸造并体系化“[[Symbolic Interactionism\|符号互动论]]”[[Paradigm\|范式]]，将米德思想推向全美社会学界。
 >   - **查尔斯·莫里斯（Charles W. Morris）** 弟子，整理出版米德手稿《心灵、自我与社会》，并在符号学领域继承其理论遗产。
 > - **批评者／学术论敌**
->   - **约翰·华生（John B. Watson）** 机械行为主义创立者，米德批判其排除内在意识与主观意义的S-R机械公式，倡导兼顾主观象征的“社会行为主义”。
+>   - **约翰·华生（John B. Watson）** 机械[[Behaviorism|行为主义]]创立者，米德批判其排除内在意识与主观意义的S-R机械公式，倡导兼顾主观象征的“社会行为主义”。
 
 ---
 
@@ -205,6 +206,6 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Symbolic Interactionism\|符号互动论]] | 理论 | 奠定符号互动论的哲学与社会心理学理论根基，开辟微观互动研究传统。 |
 > | [[Interpretive Paradigm\|诠释范式]] | 理论 | 将人际互动本身确立为研究单位，为质性教育探究奠定能动主体的人性观基石。 |
-> | [[Pragmatic Paradigm\|实用主义范式]] | 理论 | 推进古典实用主义与社会行为主义融合，阐明行动、心智与环境的共生适应。 |
+> | [[Pragmatic Paradigm\|实用主义范式]] | 理论 | 推进古典实用主义与社会[[Behaviorism\|行为主义]]融合，阐明行动、心智与环境的共生适应。 |
 > | [[Phenomenon-Based Learning\|现象本位学习]] | 课程 | 其心身统一与环境共生互动的思想，被芬兰课程改革转译为现象教学的心理学依托。 |
 

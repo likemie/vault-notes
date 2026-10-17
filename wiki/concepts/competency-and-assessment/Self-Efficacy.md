@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Refutational Evidence]]"
   - "[[Voluntarism]]"
+  - "[[Socioeconomic Status]]"
   - "[[Dependent Variable]]"
   - "[[Chain of Evidence]]"
 related_theories:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Self-Efficacy
@@ -219,7 +220,7 @@ updated: 2026-10-16
 > > 极高的自我效能感通常被视作积极心理资本，但过度膨胀的效能信念可能导致个体低估任务难度、忽视[[Refutational Evidence\|反驳性证据]]与拒绝必要的方法调整，形成认知盲区与风险低估。
 
 > [!critique] [[Voluntarism\|唯意志论]]倾向与结构性忽视批判
-> 批判社会学者指出，过度强调自我效能感容易陷入“唯意志论（voluntarism）”的认知陷阱，将学生的学业落后或教师的教学倦怠完全归咎于个体心理胜任信念不足，掩盖了学校资源匮乏、家庭社会经济地位劣势及制度支持缺失等深层结构性矛盾。
+> 批判社会学者指出，过度强调自我效能感容易陷入“唯意志论（voluntarism）”的认知陷阱，将学生的学业落后或教师的教学倦怠完全归咎于个体心理胜任信念不足，掩盖了学校资源匮乏、家庭[[Socioeconomic Status|社会经济地位]]劣势及制度支持缺失等深层结构性矛盾。
 
 > [!warning] 适用局限
 > 自我效能感的提升必须以真实能力建设与合理的外部支持为支撑。脱离客观技能训练的虚假口头鼓励无法带来持久的效能提升，反而在遭遇真实挫折后引发更严重的效能崩塌。

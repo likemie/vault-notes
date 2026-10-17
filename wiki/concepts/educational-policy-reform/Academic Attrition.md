@@ -11,7 +11,7 @@ aliases:
 summary: "在校学生在完成既定学业或获得法定文凭证书之前非自愿或自愿脱离学校教育系统的现象，由制度性惩戒排斥、高利害问责推挤、学业挫败及社会经济压力等多维机制引发，是教育公平、学校治理与辍学预防的核心议题"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Deficit Framing]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Socioeconomic Status]]"
   - "[[Paradigm]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Academic Attrition
@@ -197,7 +198,7 @@ updated: 2026-10-16
 ## 理论争鸣与演进
 
 > [!debate-card] 个人缺陷归因论与机构结构推挤论的学术对立
-> - **个人与家庭[[Deficit Framing\|赤字归因]]论（[[Deficit Model of Science Communication\|deficit model]]）** 早期传统观点多从心理学与微观家庭角度解释学业流失，将学生离校归咎于个体智力不足、缺乏学业抱负、家庭低社会经济地位或家教缺位；政策应对主要局限于向学生和家长施加道德劝诫或简单补习。
+> - **个人与家庭[[Deficit Framing\|赤字归因]]论（[[Deficit Model of Science Communication\|deficit model]]）** 早期传统观点多从心理学与微观家庭角度解释学业流失，将学生离校归咎于个体智力不足、缺乏学业抱负、家庭低[[Socioeconomic Status|社会经济地位]]或家教缺位；政策应对主要局限于向学生和家长施加道德劝诫或简单补习。
 > - **机构推挤与结构性正义批判论（Structural Pushout Theory）** [[Russell J. Skiba\|斯基巴]]（Skiba）、塞尔佩尔（Serpell）及当代教育社会学家尖锐批判了这种将结构问题个人化的倾向，指出绝大多数所谓的“辍学”实质上是学校的“制度性推挤”（Pushout）。排斥性纪律、高利害应试分流以及对多元文化的制度漠视，构成了驱赶边缘群体的结构性暴力；政策焦点必须由“改造学生”转向“重构学校治理[[Paradigm\|范式]]”，以发展型支持与恢复性司法彻底替代规制型惩戒。
 
 > [!evolution-timeline] 学业流失认知与治理政策演进

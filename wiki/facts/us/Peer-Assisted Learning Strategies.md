@@ -27,6 +27,7 @@ tags:
   - clearinghouse-rating-case
   - region/us
 related_concepts:
+  - "[[Peer-Supported Learning]]"
   - "[[Response to Intervention]]"
   - "[[Metacognition]]"
   - "[[Decodification]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Business as Usual]]"
   - "[[Literature Search]]"
-  - "[[Peer-Supported Learning]]"
   - "[[Didaktik]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Peer-Assisted Learning Strategies
@@ -81,7 +81,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **同伴辅助学习策略（Peer-Assisted Learning Strategies, PALS）** 是由美国范德堡大学著名特殊教育与学习科学学者琳恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）团队于 1990 年代研发的结构化互惠同伴辅导模式，广泛覆盖学前至高中（K–12）阶段的早期阅读（PALS Reading）与数学（PALS Math）教学。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
+> **同伴辅助学习策略（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）** 是由美国范德堡大学著名特殊教育与学习科学学者琳恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）团队于 1990 年代研发的结构化互惠同伴辅导模式，广泛覆盖学前至高中（K–12）阶段的早期阅读（PALS Reading）与数学（PALS Math）教学。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1990 年代初启动研发，历经数十项大样本现场实验验证，至今在全美各学区作为常态化课堂教学与补救教学方案广泛推行。
@@ -107,7 +107,7 @@ updated: 2026-10-16
 > [!citation-card] 循证全班教学与干预响应层级衔接
 > 在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革框架下，PALS 作为经[[Cluster Randomized Trials\|整群随机试验]]证实有效的全班教学方案（Tier 1），能够在一年级阅读教学中取得显著学业增值（$ES = +0.58$），为学区落实分层干预提供了坚实的实证工具支撑。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 >
-> *"Whole-class programs meeting ESSA [[Evidence Standards]], such as Peer-Assisted Learning Strategies (PALS) in first grade reading, demonstrate substantial positive impacts (ES = +0.58) within structured Tier 1 classroom instruction, providing effective alternatives to unproven remediation practices."*
+> *"Whole-class programs meeting ESSA [[Evidence Standards]], such as [[Peer-Supported Learning|peer-assisted learning]] Strategies (PALS) in first grade reading, demonstrate substantial positive impacts (ES = +0.58) within structured Tier 1 classroom instruction, providing effective alternatives to unproven remediation practices."*
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 125
+argument_related_count: 128
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -84,6 +84,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Homework]]"
   - "[[Reliability]]"
+  - "[[Intentionality]]"
   - "[[Tacit Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[External Validity]]"
@@ -96,6 +97,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Metacognition]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Thomas Theorem]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
@@ -146,6 +148,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
+  - "[[B. F. Skinner]]"
   - "[[Clifford Geertz]]"
   - "[[Jack Douglas]]"
   - "[[Edmund Husserl]]"
@@ -164,7 +167,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01
 
@@ -235,7 +238,7 @@ updated: 2026-10-16
 >   - **社会实在的两种构想与哲学假设** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism\|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism\|唯意志论]] vs [[Determinism\|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
 >   - **[[Positivism\|实证主义]]的逻辑与[[Scientific Method\|科学方法]]** 孔德实证主义源流；吉登斯两大核心假定；科学的四大信仰假设（[[Determinism\|决定论]]、[[Empiricism\|经验主义]]、[[Principle of Parsimony\|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow\|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory\|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/Medawar 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
->   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas\|哈贝马斯]][[Scientism\|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、[[Noam Chomsky|乔姆斯基]]行为主义批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
+>   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas\|哈贝马斯]][[Scientism\|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、[[Noam Chomsky|乔姆斯基]][[Behaviorism|行为主义]]批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
 > - **[[Interpretive Paradigm\|诠释范式]]与第三次方法论运动（第6–7节）**
 >   - **自然主义与诠释范式进路** 人本主义心理学（[[Carl Rogers\|罗杰斯]]全人模式）与“[[Anthropomorphic Model\|人的科学]]”[[Anthropomorphic Model\|拟人化模型]]（[[Rom Harré\|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach\|ethogenic]] method）；教室互动案例[[Rich and Thick Description\|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories\|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem\|托马斯定理]]情境定义）；Douglas [[Normative Paradigm\|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory\|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché\|悬置]]与舒茨意识流、[[Reflexivity\|反思性]]、[[Typification\|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality\|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/[[Peter Woods\|伍兹]]三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
 >   - **[[Mixed Methods Research\|混合方法研究]]：第三次方法论运动** 超越“非 0 即 1”二元对立，从范式战争走向方法论务实主义；[[Pragmatic Paradigm\|实用主义]]哲学基础（实践驱动与“有效即真理”）；Johnson et al. 19 种定义谱系与九大合法化类型；Teddlie & Tashakkori 六大领域与七维度；Greene 四大领域；Caracelli & Greene 四大数据整合策略（[[Data Transformation\|数据转换]]、类型学发展、极端案例分析、数据合并）；“学校像监狱”的 100 人[[Heterogeneity\|异质性]]理由范例；六类设计类型学（平行、顺序、准混合、转换、多层、完全整合）；九大核心操作决策维度；关于混合方法是否构成“独立新范式”的论辩与审慎结论。
@@ -605,7 +608,7 @@ updated: 2026-10-16
 
 > [!critique-method] 实证主义社会科学内部的三重方法论危机
 > - **忽视人类自我解释能力与前诠释结构** 自然科学面对的是无意识的“主体-客体”关系，而社会科学则深嵌于双向理解的“主体-主体”关系之中，面对的是一个早已被行动者自身赋予多重意义的前诠释世界（preinterpreted world, Giddens, 1976）。
-> - **消解人类能动性与行为主义刺激-反应困局** 实证主义将人类描绘为被动受制于外力的机械客体，抹杀了意图、反思与主体自由。诺姆·乔姆斯基（Noam Chomsky）对斯金纳行为主义的著名批判指出，从外在机械行为根本无法逻辑推导出复杂的内在心智成因（Chomsky, 1959）；德里克·莱德亦指出这激化了能动性与结构的持久张力（Layder, 1994）。
+> - **消解人类能动性与行为主义刺激-反应困局** 实证主义将人类描绘为被动受制于外力的机械客体，抹杀了意图、反思与主体自由。诺姆·乔姆斯基（Noam Chomsky）对[[B. F. Skinner|斯金纳]]行为主义的著名批判指出，从外在机械行为根本无法逻辑推导出复杂的内在心智成因（Chomsky, 1959）；德里克·莱德亦指出这激化了能动性与结构的持久张力（Layder, 1994）。
 > - **受控实验发现的平庸琐碎化** 研究者为了追求实验严密性，在实验室中极力隔离并控制变量，其代价是彻底剥离了复杂立体的真实社会情境，最终炮制出的结论往往对一线实践毫无指导价值：极度精密的受控实验最终只呈现了一出在受限人工环境中剪裁合成的“牵线木偶剧”。
 
 ---
@@ -695,7 +698,7 @@ updated: 2026-10-16
 
 > [!theory-components] 现象学传统：先验意识结构与生活世界的意义建构
 > - **胡塞尔先验现象学**
->   [[Edmund Husserl\|埃德蒙德·胡塞尔]]（Edmund Husserl）发出“回到事物本身！”的哲学召唤，主张穿透文化符号屏障，通过**悬置（epoché）** 方法将先入之见与自然态度放入括号，直接洞悉纯粹意识的意向性本质结构（Warnock, 1970）。
+>   [[Edmund Husserl\|埃德蒙德·胡塞尔]]（Edmund Husserl）发出“回到事物本身！”的哲学召唤，主张穿透文化符号屏障，通过**悬置（epoché）** 方法将先入之见与自然态度放入括号，直接洞悉纯粹意识的[[Intentionality|意向性]]本质结构（Warnock, 1970）。
 > - **舒茨社会现象学**
 >   [[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）将现象学融入社会学。舒茨指出，个体的“意识流”本身是纯粹的体验历程，只有通过**反思性（reflexivity）** 回溯审视，才能被赋予主观意义；人们在日常生活中依据其所处的社会传记位置，运用**类型化（typification）** 概念储备库来理解他人，并在流动的**多重实在（multiple realities）** 中自如穿梭（Burrell & Morgan, 1979）。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scaffolding]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
+  - "[[Recognition Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Practical Epistemology
@@ -148,7 +149,7 @@ updated: 2026-10-16
 > 探讨学生自身探究认知与对专业科学理解之间的结构性脱节。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
-> **形式与实践[[Epistemology\|认识论]]分离断裂** 学生的实践认识论（近端）与[[Formal Epistemology\|形式认识论]]（远端）在认知结构上高度分离。学生在[[Questionnaire\|问卷调查]]中可能表现出对[[Nature of Science\|科学本质]]的先进理解（如承认理论具有暂定性），但在自己动手进行实验设计与数据解释时，依然表现出朴素[[Positivism\|实证主义]]倾向（如认为单次观测即可证明真理、忽视异常数据）。这种分离表明，传统依赖脱离情境问卷的评估无法真实反映学生的探究认知水平。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
+> **形式与实践[[Epistemology\|认识论]]分离断裂** 学生的实践认识论（近端）与[[Formal Epistemology\|形式认识论]]（远端）在认知结构上高度分离。学生在[[Questionnaire\|问卷调查]]中可能表现出对[[Nature of Science\|科学本质]]的先进理解（如[[Recognition Theory|承认理论]]具有暂定性），但在自己动手进行实验设计与数据解释时，依然表现出朴素[[Positivism\|实证主义]]倾向（如认为单次观测即可证明真理、忽视异常数据）。这种分离表明，传统依赖脱离情境问卷的评估无法真实反映学生的探究认知水平。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
 
 ---
 

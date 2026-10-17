@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 - accountability
 related_concepts:
   - "[[School Choice]]"
+  - "[[Socioeconomic Status]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 背景
 
@@ -61,7 +62,7 @@ updated: 2026-10-16
 
 > [!example] 实施情况
 > 网站整合了全澳大利亚学校的以下信息：
-> - 人口统计数据（学生构成、社会经济背景）
+> - 人口统计数据（学生构成、[[Socioeconomic Status|社会经济背景]]）
 > - NAPLAN 标准化测试成绩，允许学校间直接比较
 >
 > 利益相关者描述了该网站在实际使用中的社会效应（Keddie et al., 2020, p.437）：

@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,7 +44,8 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
-related_persons: []
+related_persons:
+  - "[[José Manuel Torres]]"
 related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[OECD]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # José Manuel Torres

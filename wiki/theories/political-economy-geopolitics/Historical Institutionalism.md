@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Institutional Complementarity]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Pluralism]]"
   - "[[Path Dependence]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Historical Institutionalism
@@ -73,7 +74,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 现代国家政治体制、经济政策、福利构型与法律规则的长时段形成、维系及其跨国多样性演化，聚焦宏观与中观制度结构如何塑造政治权能与资源分配格局。
-> - **理论问题** 批判行为主义政治学将政治还原为个人微观心理与表露偏好，反思[[Pluralism|多元主义]]与机械结构主义将国家制度视为社会阶级利益的被动反射镜，探究正式组织与制度结构本身的独立自主性与因果塑造力。
+> - **理论问题** 批判[[Behaviorism|行为主义]]政治学将政治还原为个人微观心理与表露偏好，反思[[Pluralism|多元主义]]与机械结构主义将国家制度视为社会阶级利益的被动反射镜，探究正式组织与制度结构本身的独立自主性与因果塑造力。
 > - **理论类型** 中观与宏观比较历史解释[[Paradigm|范式]]与跨学科分析纲领。
 > - **知识位置** 与理性选择制度主义及社会学制度主义共同构成新制度主义三大学派；学派内部经历了从早期强调外生危机与刚性稳态的结构[[Path Dependence|路径依赖]]阶段，向强调权力博弈、社会规制与规则缝隙的内生渐变演化阶段的深层转型。
 

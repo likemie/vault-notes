@@ -7,7 +7,7 @@ aliases:
 summary: "将积分、徽章、排行榜和反馈循环等游戏设计元素应用于非游戏情境以调节行为的设计策略，在教育中常与学习动机、行为管理和反思性教育目标之间形成张力。"
 type: concept
 domain: "educational-technology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Data Behaviorism]]"
   - "[[Theory of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Gamification
@@ -59,7 +60,7 @@ updated: 2026-10-16
 ## 理论基础
 
 > [!tip]-
-> Gamification 的设计逻辑根植于行为主义心理学，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的反馈和奖励机制([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.236–237]])。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
+> Gamification 的设计逻辑根植于[[Behaviorism|行为主义]]心理学，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的反馈和奖励机制([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.236–237]])。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
 
 ## 在教育中的张力
 
@@ -90,5 +91,5 @@ Zichermann & Cunningham（2011, pp.ix–x）的设计目标——使体验"可�
 > [!example]
 > - vs [[Feedback]]（教学反馈）——教学反馈的目标是帮助学生理解错误、克服误解；Gamification 反馈的目标是维持用户交互和平台黏性。前者以内容为中心，后者以行为调节为中心。详见 [[Feedback#数字学习工具中的算法反馈]]
 > - vs [[Bildung]]——Bildung 要求时间、反思和容纳歧义的空间；Gamification 依赖即时性、确定性和连续的正反馈循环。两者在目标上根本对立
-> - vs [[Data Behaviorism\|数据行为主义]]——数据行为主义是 Gamification 的深层[[Theory of Knowledge\|知识论]]基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
+> - vs [[Data Behaviorism\|数据行为主义]]——数据[[Behaviorism|行为主义]]是 Gamification 的深层[[Theory of Knowledge\|知识论]]基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
 

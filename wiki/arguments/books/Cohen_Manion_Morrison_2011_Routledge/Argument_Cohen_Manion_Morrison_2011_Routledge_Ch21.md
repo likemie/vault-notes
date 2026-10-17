@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
+  - "[[Intentionality]]"
   - "[[Epoché]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
@@ -88,7 +89,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
@@ -633,7 +634,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 >
 > - **产出阶段** 选择性浓缩和重新解释数据以便清晰撰写，赋予数据意义，撰写报告并重新思考。
 >
->   *撰写需包含发生率指导、感受方向与意向性、沉默的意义、突出性。*
+>   *撰写需包含发生率指导、感受方向与[[Intentionality|意向性]]、沉默的意义、突出性。*
 >
 >   - 筛选：浓缩、删减甚至重新解释
 >   - 解释：赋予数据意义

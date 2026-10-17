@@ -9,7 +9,7 @@ aliases:
 summary: "让学生重复同一年级以处理学习困难的教育制度实践，证据本位教育中常被用来说明研究证据与既有学校惯例之间的张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Socioeconomic Status]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Grade Retention
@@ -59,7 +60,7 @@ updated: 2026-10-16
 
 - 留级把“学业未达标”转化为“重复一年”的制度处理，因而会直接影响学生在同龄群体中的位置([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.169]])。
 - 留级率可作为教育系统如何处理学生差异的指标。若某系统长期高留级，说明它更倾向于通过延长学生停留时间来处理学习困难，而不是通过课程、教学或支持系统改变来减少失败([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 169]])。
-- 留级与公平问题相连，因为成绩低、社会经济地位不利和脆弱学生群体常常在同一系统中叠加出现；在法语比利时案例中，高留级率与强社会出身影响共同构成改革压力([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 170]])。
+- 留级与公平问题相连，因为成绩低、[[Socioeconomic Status|社会经济地位]]不利和脆弱学生群体常常在同一系统中叠加出现；在法语比利时案例中，高留级率与强社会出身影响共同构成改革压力([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 170]])。
 
 ## 实证发现
 

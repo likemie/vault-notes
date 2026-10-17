@@ -7,10 +7,10 @@ aliases:
 summary: "将数字设备和资源常规嵌入课堂教学的系统性改革，评价难点在于技术不是单一干预而会与课程、教师发展和组织条件交互"
 type: concept
 domain: "educational-technology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-technology
   - technology-integration
@@ -20,7 +20,8 @@ tags:
 related_concepts:
   - "[[Homework]]"
   - "[[Success Criteria]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Formative Program Evaluation]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-16
+updated: 2026-10-17
 ---
 
 ## 定义
@@ -43,7 +44,7 @@ updated: 2026-09-16
 > [!info]
 > 技术融入或技术整合是学校或学区使数字技术成为课堂学习中可获得、常规化组成部分的改革过程。它不只是提供设备，而是把设备、数字资源、教师专业发展和教学活动组织在一起，使技术进入日常备课、课堂活动和学生学习之中([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.113-115]])。
 
-技术融入不同于一个边界清晰的教学干预。技术本身并不是可操作定义的“干预”，而是通过不同课程、教学设计和教学策略传递教学的一种方式；因此，把各种技术应用混合成一个总体[[Effect Size|效应量]]，容易遮蔽核心项目、补充项目、教程、练习、模拟、行为主义或认知取向设计之间的差异([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.113]])。
+技术融入不同于一个边界清晰的教学干预。技术本身并不是可操作定义的“干预”，而是通过不同课程、教学设计和教学策略传递教学的一种方式；因此，把各种技术应用混合成一个总体[[Effect Size|效应量]]，容易遮蔽核心项目、补充项目、教程、练习、模拟、[[Behaviorism|行为主义]]或认知取向设计之间的差异([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.113]])。
 
 ## 概念辨析
 

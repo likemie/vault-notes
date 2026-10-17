@@ -9,7 +9,7 @@ summary: "美国比较历史社会学家与政治学家，哈佛大学政府与�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Rational Action Theory]]"
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Behaviorism]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Theda Skocpol
@@ -78,7 +79,7 @@ updated: 2026-10-16
 
 ### 找回国家运动确立了国家自主性与制度的结构性地位
 
-在20世纪70至80年代行为主义与[[Pluralism|多元主义]]盛行的社会科学界，斯考切波与同仁发起著名的“找回国家”运动，主张将国家视为具有自身利益诉求、组织能力与自主行动空间的宏观实体，而非单纯被动反映社会阶级或利益集团博弈的竞技场。这一转向深刻重塑了政治学与历史社会学，促使学者将目光聚焦于国家的[[Bureaucracy|科层制]]度、财税体系以及正式法规对政治社会行动者的塑造力，奠定了[[Historical Institutionalism|历史制度主义]]的宏观分析根基。
+在20世纪70至80年代[[Behaviorism|行为主义]]与[[Pluralism|多元主义]]盛行的社会科学界，斯考切波与同仁发起著名的“找回国家”运动，主张将国家视为具有自身利益诉求、组织能力与自主行动空间的宏观实体，而非单纯被动反映社会阶级或利益集团博弈的竞技场。这一转向深刻重塑了政治学与历史社会学，促使学者将目光聚焦于国家的[[Bureaucracy|科层制]]度、财税体系以及正式法规对政治社会行动者的塑造力，奠定了[[Historical Institutionalism|历史制度主义]]的宏观分析根基。
 
 ### 制度权力分配论击碎了制度作为中性均衡工具的功能主义假定
 

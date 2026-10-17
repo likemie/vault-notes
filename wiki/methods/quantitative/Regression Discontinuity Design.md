@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
   - "[[External Validity]]"
+  - "[[Socioeconomic Status]]"
   - "[[Falsification]]"
   - "[[Homework]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Regression Discontinuity Design
@@ -117,7 +118,7 @@ updated: 2026-10-16
 > [!proc] 断点回归设计标准实施六步规程
 > 1. **确认连续驱动[[Variable\|变量]]与刚性阈值** 界定连续且可精确测量的运行变量（如标准化统考成绩 $X$），确定明确无歧义的政策划分截点 $c$。
 > 2. **实施 McCrary 密度连续性检验** 绘制驱动变量在阈值 $c$ 两侧的频数分布直方图与核密度估计，排查受试者是否存在人为篡改成绩、虚报年龄等“操纵（Manipulation）”行为。
-> 3. **检验协变量平滑性（Covariate Continuity）** 检验学生的性别、种族、家庭社会经济地位（SES）等前置基线特征在阈值两侧是否存在跳跃，确保仅干预状态发生突变。
+> 3. **检验协变量平滑性（Covariate Continuity）** 检验学生的性别、种族、家庭[[Socioeconomic Status|社会经济地位]]（SES）等前置基线特征在阈值两侧是否存在跳跃，确保仅干预状态发生突变。
 > 4. **选定局部估计最优带宽（Optimal Bandwidth）** 采用 Imbens-Kalyanaraman (IK) 或 Calonico-Cattaneo-Titiunik ([[Chartered College of Teaching\|CCT]]) 数据驱动算法计算均方误差最小化的局部带宽 $h$。
 > 5. **拟合局部回归模型** 在区间 $[c - h, c + h]$ 内运行局部线性回归，估计断点处因果跳跃参数 $\tau$ 及其稳健[[Standard Error\|标准误]]。
 > 6. **开展全面敏感性与稳健性分析** 检验多项式阶数敏感性（线性 vs 二次项）、测试不同带宽区间（$0.5h, 1.5h, 2h$）、并在非断点位置进行伪断点（Placebo Cutoff）[[Falsification\|证伪]]检验。

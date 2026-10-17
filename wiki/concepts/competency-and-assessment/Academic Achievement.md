@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 164
+related_count: 165
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[School Leadership]]"
   - "[[School Inspection]]"
+  - "[[Socioeconomic Status]]"
   - "[[Class Size]]"
   - "[[Preregistration]]"
   - "[[Metascience]]"
@@ -385,7 +386,7 @@ updated: 2026-10-17
 > **学业成就六大方差源分解与教师核心枢纽** 基于全球数百项一阶与[[Meta-meta-analysis\|二阶元分析]]的方差分解，学生学业成就的总变异可解构为六大来源：
 > 1. **学生个体特征（50%）** 包含先验知识、认知能力与抱负，解释最大份额但属于教育系统接收时的既定输入；
 > 2. **教师教学效能（30%）** 包含教学清晰度、认知挑战、反馈与进阶诊断，是学校教育系统内部**最大的可控因果杠杆**；
-> 3. **家庭环境（5–10%）** 包含家庭社会经济地位（Socio-Economic Status, SES）与家庭支持；
+> 3. **家庭环境（5–10%）** 包含家庭[[Socioeconomic Status|社会经济地位]]（Socio-Economic Status, SES）与家庭支持；
 > 4. **学校硬件与结构（5–10%）** 包含学校类型、资金与[[Class Size\|班级规模]]；
 > 5. **同伴群体效应（5–10%）**；
 > 6. **校长领导力** 主要通过营造支持教师反思的组织气候发挥间接中介作用。

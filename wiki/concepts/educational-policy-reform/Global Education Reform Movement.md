@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Cargo Cult Science]]"
+  - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Global Education Reform Movement
@@ -214,7 +215,7 @@ updated: 2026-10-16
 
 > [!critique] 外部批评
 > - **去情境化指标剥夺教师专业裁量权** 强行推行如澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 等固定技术清单，迫使教师在课堂白板上开展形式主义打卡，严重挫伤了教学的即兴[[Creativity|创造力]]与教育直觉（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
-> - **制造虚假的学术合法性** 借用不可[[Falsification|证伪]]的[[Cargo Cult Science|货物崇拜科学]]为政府削减教育经费推脱责任，掩饰校外社会经济背景对学业差距高达 80% 的解释力（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 27–28]], 34–36）。
+> - **制造虚假的学术合法性** 借用不可[[Falsification|证伪]]的[[Cargo Cult Science|货物崇拜科学]]为政府削减教育经费推脱责任，掩饰校外[[Socioeconomic Status|社会经济背景]]对学业差距高达 80% 的解释力（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 27–28]], 34–36）。
 
 > [!warning] 适用局限
 > GERM 作为批判性概念，主要适用于分析追求测验问责、市场竞争与财政紧缩的新自由主义教育体制；在注重社群共建、非竞争性均质发展及高度信任教师专业的体系中（如芬兰基础教育），该[[Analytic Framework|分析框架]]的解释力存在边界。

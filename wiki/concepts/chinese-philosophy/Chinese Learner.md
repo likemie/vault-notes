@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
+  - "[[Behaviorism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Chinese Learner
@@ -236,7 +237,7 @@ updated: 2026-10-16
 
 | 谬误 | 核心错误 | 详见 |
 |------|----------|------|
-| 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+| [[Behaviorism\|行为主义]]谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 | 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 | 静态观察谬误 | 将一次观察到的"熟"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 | 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge\|Li (2012)]] |

@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪末由罗宾·亚历山大等学者系统开创的比较教育学微观研究进路，主张突破宏观政策与国家制度指标的抽象局限，深入中小学具体课堂话语互动与教学过程，揭示教学法深嵌于民族国家历史、文化土壤与认知传统中的社会建构本质。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Intangible Spiritual Forces]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Human Capital Theory]]"
   - "[[Postmodernism]]"
   - "[[Organizational Culture]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Comparative Pedagogy
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > | 比较维度 | 比较教学论（Comparative Pedagogy） | 宏观制度比较（Macro Comparative Education） | 传统微观课堂行为分析（Process-Product） |
 > |:-----|:-----|:-----|:-----|
 > | **[[Unit of Analysis\|分析单位]]** | 课堂互动过程、教学思维、文化[[Discourse\|话语]] | 民族国家体制、学制结构、财政政策 | 孤立的教师行为频次、学生注意力时长 |
-> | **知识定位** | 解释学与文化人类学[[Geisteswissenschaften\|人文科学]] | 政治社会学、比较政治经济学 | 行为主义心理测量学与过程-结果实证论 |
+> | **知识定位** | 解释学与文化人类学[[Geisteswissenschaften\|人文科学]] | 政治社会学、比较政治经济学 | [[Behaviorism\|行为主义]]心理测量学与过程-结果实证论 |
 > | **教学法属性** | 承载历史价值与社会契约的文化实践 | 实现国家[[Human Capital Theory\|人力资本]]规划的政策工具 | 普适可通用的课堂操作技能集 |
 > | **核心代表** | [[Robin Alexander\|罗宾·亚历山大]]、[[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | [[Harold Noah\|哈罗德·诺亚]]、[[George Psacharopoulos\|乔治·普萨哈罗普洛斯]] | 奈德·弗兰德斯（Ned Flanders） |
 

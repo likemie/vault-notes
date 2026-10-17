@@ -8,7 +8,7 @@ summary: "德国比较教育学者与系统理论家，柏林洪堡大学比较�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Autopoiesis]]"
   - "[[World-Systems Theory]]"
+  - "[[Behaviorism]]"
 related_methods: []
 related_persons:
   - "[[Wolfgang Mitter]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Jurgen Schriewer
@@ -117,7 +118,7 @@ updated: 2026-10-16
 
 > [!feature] 米特论施里韦尔对文化主义与学科本体理论的坚守
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）在评述欧洲比较教育百年演变时特别强调：
-> 尽管美国比较教育在战后全盘倒向量化行为主义，施里韦尔与其在西欧的同行（考恩、卡扎米亚斯、诺瓦等）始终坚守着深厚的文化主义与历史分析传统。施里韦尔在洪堡大学构建的理论大厦，扎根于欧洲哲学与社会学的母体[[Discipline-Based Theory|学科理论]]（[[Discipline-Based Theory]]），以高度的概念自律对抗着无理论依托的大规模经验测评（[[IEA]]/[[PISA]]），捍卫了欧洲比较教育学作为严谨人文社会科学的学术制高点。
+> 尽管美国比较教育在战后全盘倒向量化[[Behaviorism|行为主义]]，施里韦尔与其在西欧的同行（考恩、卡扎米亚斯、诺瓦等）始终坚守着深厚的文化主义与历史分析传统。施里韦尔在洪堡大学构建的理论大厦，扎根于欧洲哲学与社会学的母体[[Discipline-Based Theory|学科理论]]（[[Discipline-Based Theory]]），以高度的概念自律对抗着无理论依托的大规模经验测评（[[IEA]]/[[PISA]]），捍卫了欧洲比较教育学作为严谨人文社会科学的学术制高点。
 
 ---
 

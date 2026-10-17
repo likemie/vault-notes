@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Path Dependence]]"
+  - "[[Behaviorism]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Dependency Theory]]"
   - "[[Hegemony]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Perpetual Peace
@@ -166,7 +167,7 @@ updated: 2026-10-16
 ### 命题二　永久和平的世界主义伦理构成了比较教育学摆脱技术功利主义的不可让渡之认识论灵魂
 
 > [!concept-lens] 学科起源的伦理问题域
-> 批驳现代行为主义实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
+> 批驳现代[[Behaviorism|行为主义]]实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
 
 > [!claim] Wight, M. and [[Eleftherios Klerides|Klerides, E.]]
 > **[[Revolutionism|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（现实主义），亦非单纯维持现状的制度移植（理性主义），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419, 426–429)]]

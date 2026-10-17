@@ -7,7 +7,7 @@ aliases:
 summary: "毛利知识体系，在新西兰课程改革中被用作规约性话语的核心原则，旨在实现双文化主义和 Te Tiriti o Waitangi 的承诺"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - region/new-zealand
   - theory/indigenous-knowledge
 related_concepts:
+  - "[[Mātauranga Māori]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Discourse]]"
   - "[[Causality]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Mātauranga Māori

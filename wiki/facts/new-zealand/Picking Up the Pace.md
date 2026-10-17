@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - level/k12
   - policy/evaluation
 related_concepts:
+  - "[[Socioeconomic Status]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -66,7 +67,7 @@ updated: 2026-10-17
 > [!claim] 项目定位
 > 加快步伐项目（Picking up the Pace，简称 PACE 项目）是新西兰教育部（Ministry of Education）于 2000 年代初在奥克兰南部低社会经济评分公立小学发起的大规模早期读写干预重大项目，由奥克兰大学研究团队联合设计评估，旨在通过密集教师专业发展与初入学小班化组织变革的协同联动，遏制处境不利族群儿童在小学起步阶段的学业分化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96, 102)]]
 
-奥克兰南区（包括 Mangere 与 Otara 等社区）集中了大量具有太平洋岛国原住民（Pasifika）与毛利族（Māori）背景的家庭，当地公立小学绝大多数属于一类学校（Decile 1，即社会经济背景处于全国最底层 10% 的公立学校）。基线调查显示，处境不利儿童在入学一年后（6 岁时）的早期阅读与识字水平系统性落后于全国常模 1 至 1.5 年，形成了顽固的代际学业鸿沟。
+奥克兰南区（包括 Mangere 与 Otara 等社区）集中了大量具有太平洋岛国原住民（Pasifika）与毛利族（Māori）背景的家庭，当地公立小学绝大多数属于一类学校（Decile 1，即[[Socioeconomic Status|社会经济背景]]处于全国最底层 10% 的公立学校）。基线调查显示，处境不利儿童在入学一年后（6 岁时）的早期阅读与识字水平系统性落后于全国常模 1 至 1.5 年，形成了顽固的代际学业鸿沟。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 年正式启动先导试验，重点干预与追踪评估持续至 2002 年（已结项），其实施经验被持续纳入新西兰国家早期读写政策指引。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 102)]]

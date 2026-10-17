@@ -15,7 +15,7 @@ aliases:
 summary: "将社会、政策或教育教学问题归因于目标群体（如教师、弱势学生或家庭文化）知识、技能、动机或资本匮乏的认识论预设，在宏观政策上表现为假定教师能力赤字，在微观教学中表现为推卸教学责任的防御性归因"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Problem Finding]]"
   - "[[Presence]]"
   - "[[Deficit Model of Science Communication]]"
@@ -63,7 +64,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Deficit Framing
@@ -77,7 +78,7 @@ updated: 2026-10-16
 >
 > 该概念在教育领域呈现两大核心表现维度：
 > 1. **宏观[[Research Utilization\|研究使用]]层面** 当观察到中小学教师极少直接套用科研成果时，政策制定者与研究者首先推定是教师科研素养不足、数据理解能力欠缺或参与动机薄弱，并假定只要自上而下开展补救性培训、输入科学证据，即可纠正手艺型经验教学并提升学生[[Academic Achievement\|学业表现]]（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 4–5]]）。
-> 2. **微观课堂教学与教育公平层面** 当面临弱势群体、原住民或低社会经济地位学生的学业困境时，教师习惯性将原因归结为学生自身智力不足、缺乏学习动力、家庭教养缺失或本土文化不支持教育，从而建构起免除自身教学责任的防御性解释机制（Bishop et al., 2003；Timperley, 2004, 2005；[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 16–18]]）。
+> 2. **微观课堂教学与教育公平层面** 当面临弱势群体、原住民或低[[Socioeconomic Status|社会经济地位]]学生的学业困境时，教师习惯性将原因归结为学生自身智力不足、缺乏学习动力、家庭教养缺失或本土文化不支持教育，从而建构起免除自身教学责任的防御性解释机制（Bishop et al., 2003；Timperley, 2004, 2005；[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 16–18]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 揭示了政策与教学话语如何将一线实践者或处境不利群体建构成“缺陷主体”，从而为自上而下的技术干预提供合法性，或为课堂教学的低效与低期望提供推卸责任的借口。
@@ -208,7 +209,7 @@ updated: 2026-10-16
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年，涵盖英国 9、美国 4、加拿大 3 等） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年间文献的[[Problem Finding\|问题界定]]取向 | 纳入文献普遍采用赤字框架，将教师预设为缺乏知识、技能或素养的被动客体 | — | 显示赤字框架在问题出发点上保持了长达 30 年的高度一致与理论停滞 |
 > | 同上（方法学分析） | 同上 | 同上 | 实证研究设计与结论分布 | 24 项实证研究中 13 项采用自陈[[Questionnaire\|问卷调查]]，100% 得出教师实际使用有限的结论 | — | 表明[[Methodological Individualism\|方法论个体主义]]主导的调查设计不断复制同质化结论，陷入推论循环 |
 > | Bishop et al. (2003) | 新西兰 4 所中学 11 名骨干教师及其 9–10 年级毛利学生 | 质性叙事探究＋行动干预试验（[[Te Kotahitanga]]） | 教师赤字归因转变与毛利学生出勤、留校率 | 转变赤字归因并建立关系性教学后，毛利学生出勤率与学业保留率系统性上升 | 质性与描述性验证 | 证实破除教师赤字图式是改善少数族裔学生[[Academic Achievement\|学业表现]]的前提条件 |
-> | Timperley (2004, 2005)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 Decile 1（最低十分位 SES）小学读写教师 | 校本评估干预与数据对照实验 | 教师归因信念与学生读写增益效应量 | 平行班级教师创设出 $d > 0.80$ 的读写净增益，击碎“家庭无支持即无法学会阅读”的普遍信念 | $d > 0.80$ | 证明“数据意外”能够有效瓦解防御性认知图式 |
+> | Timperley (2004, 2005)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 Decile 1（最低十分位 [[Socioeconomic Status\|SES]]）小学读写教师 | 校本评估干预与数据对照实验 | 教师归因信念与学生读写增益效应量 | 平行班级教师创设出 $d > 0.80$ 的读写净增益，击碎“家庭无支持即无法学会阅读”的普遍信念 | $d > 0.80$ | 证明“数据意外”能够有效瓦解防御性认知图式 |
 
 ---
 

@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Return on Investment]]"
+  - "[[Socioeconomic Status]]"
   - "[[Grandes Ecoles]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
@@ -67,7 +68,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Social Ventures Australia
@@ -93,7 +94,7 @@ updated: 2026-10-16
 > | 年份 | 关键制度事件 | 核心主体与制度机制 |
 > |---|---|---|
 > | **2002** | 澳大利亚社会创投（SVA）正式成立 | 麦肯锡前高管罗伯特·麦克莱恩（Robert McLean）发起，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官，确立引入风投和私募股权纪律的运作方针（pp. 520, 524）。 |
-> | **2013** | 亮点学校连接（Bright Spots Schools Connection）启动 | 由 SVA 发起，获得联邦政府、澳大利亚联邦银行及三星集团等联合资助，将全澳 50 所低社会经济地位学校纳入改造试点（pp. 525, 528）。 |
+> | **2013** | 亮点学校连接（Bright Spots Schools Connection）启动 | 由 SVA 发起，获得联邦政府、澳大利亚联邦银行及三星集团等联合资助，将全澳 50 所低[[Socioeconomic Status\|社会经济地位]]学校纳入改造试点（pp. 525, 528）。 |
 > | **2013** | 澳大利亚学校加计划（[[Australian Schools Plus\|Schools Plus]]）注册成立 | 联邦议会通过专项税法修正案，授予该机构全国范围内的 [[Deductible Gift Recipient\|DGR1]] 法定资质；首任董事长由 SVA 首席执行官 Michael Traill 兼任（pp. 525, 530）。 |
 > | **2014** | 证据学习中心（[[Evidence for Learning\|E4L]]）作为 SVA 全资子公司创设 | 获联邦政府与企业慈善联合资助，联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），作为游说建立国家级证据机构的试验原型（pp. 525, 530）。 |
 > | **2021** | 澳大利亚教育研究组织（[[Australian Education Research Organisation\|AERO]]）法定落地 | 联邦与州政府联合拨款设立全国性教育证据经纪机构；联邦立法明文特许 AERO 与私营慈善组织合作（pp. 525, 531）。 |
@@ -130,7 +131,7 @@ updated: 2026-10-16
 > [!finding-cards] 核心产品与业务矩阵
 > - **全澳教育[[Educational Brokerage Agency\|证据经纪人]]原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面本土化英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **公立学校筹款中介孵化（[[Australian Schools Plus\|Schools Plus]]）** 2013 年主导设立全澳首家面向公立学校的企业免税捐赠实体，游说联邦专门通过《2014年税收与养老金法律修正案（第5号措施）》赋予 [[Deductible Gift Recipient\|DGR1]] 资质并注入 500 万澳元启动资金（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
-> - **弱势学校商业化重塑（亮点学校连接项目）** 联合联邦政府、澳大利亚联邦银行与三星集团赞助，率先对全澳 50 所低社会经济地位公立学校展开商业重组与领导力改造试点（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
+> - **弱势学校商业化重塑（亮点学校连接项目）** 联合联邦政府、澳大利亚联邦银行与三星集团赞助，率先对全澳 50 所低[[Socioeconomic Status|社会经济地位]]公立学校展开商业重组与领导力改造试点（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 > - **国家政策审查专项建议书** 针对 2016 年联邦生产力委员会调查提交 50 页深度建议书，并在 [[Gonski 2.0]] 审查中深度发力，主导将“设立独立国家教育证据机构”写入官方建议第 23 条（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 > - **社会影响力债券与金融衍生工具（Newpin SIBs）** 设计运营全澳首批社会效益债券（如新南威尔士州 Newpin 联合社会福利债券），将儿童寄养替代照料效果与投资者商业利息回报率绑定（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
 > - **跨界战略咨询与政策报告（SVA Consulting）** 依托 SVA Consulting 承接教育部委、公立大学与慈善基金会委托，输出涵盖体系变革、影响力测度及外包重组的大型咨询案，年营业额近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
@@ -153,7 +154,7 @@ updated: 2026-10-16
 > - **5000 万澳元** 游说促成联邦与各州向 AERO 拨付的公共财政启动资金（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
 > - **1,216,000 澳元 vs 625,000 澳元** 2021 年度从政府获得直接财政补贴与对外发放赠款总额，对外资助仅占政府拨款的 51%（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
 > - **1500 万澳元** 获得的联邦保密投标资助，官员明令竞标期间不得公开政府支持（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]]）。
-> - **50 所学校** 发起的亮点学校连接项目重塑试点的低社会经济地位公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
+> - **50 所学校** 发起的亮点学校连接项目重塑试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
 > - **4 家子公司** 依据《公司法》建立的四层控股子公司架构总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
 > - **17 份官方档案** ASIC 付费提取的企业注册执照、章程与董事变更档案总数（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]]）。
 

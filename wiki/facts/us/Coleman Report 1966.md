@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 背景
 
@@ -85,7 +86,7 @@ updated: 2026-10-16
 >
 > Coleman Report 得出了一个令当时教育界震惊的结论([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.1–2]])：
 >
-> 1. **学业表现与家庭背景强相关** 学生阅读和数学成绩的差异主要可由其家庭社会经济地位、种族和家庭结构等非学校因素解释。
+> 1. **学业表现与家庭背景强相关** 学生阅读和数学成绩的差异主要可由其家庭[[Socioeconomic Status|社会经济地位]]、种族和家庭结构等非学校因素解释。
 > 2. **学业表现与学校资源弱相关** 生均支出、校舍条件、教科书新旧等可测量的学校特征与学生成绩的关联微乎其微（hardly at all）。
 > 3. **同伴效应显著** 同学群体的社会经济构成比学校物质资源对个人成绩的影响更大——这意味着种族和社会经济隔离本身即是教育不平等的关键机制。
 >
@@ -131,7 +132,7 @@ updated: 2026-10-16
 >
 > ### Jencks 之后的再验证：Downey, von Hippel and Hughes (2008)
 >
-> 约四十年后，Downey、von Hippel and Hughes 使用[[Seasonal Comparison\|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.8–9]])**。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 SES 构成之间缺乏强关联。
+> 约四十年后，Downey、von Hippel and Hughes 使用[[Seasonal Comparison\|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.8–9]])**。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 [[Socioeconomic Status|SES]] 构成之间缺乏强关联。
 >
 > Lauen and Gaddis (2013) 以及 Lubienski & Lubienski (2013，私立学校并不比公立学校产生更多学习）的研究提供了一致但独立于 Coleman 传统的证据([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.9]])。
 >
@@ -151,7 +152,7 @@ updated: 2026-10-16
 >
 > Coleman Report 失宠的最直接原因是方法论批评([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])：
 >
-> - **遗漏[[Variable\|变量]]问题** 批评者指出——且 Downey & Condron 认为这一批评是正确的（correctly）——Coleman and Jencks 可能未能测量学校最重要的方面：那些真正产生不平等的特征，如教师质量、课程内容、教学实践、学校氛围等。如果这些未测量的学校因素系统性偏向高 SES 学生，那么 Coleman Report 将系统性低估学校对不平等的贡献。
+> - **遗漏[[Variable\|变量]]问题** 批评者指出——且 Downey & Condron 认为这一批评是正确的（correctly）——Coleman and Jencks 可能未能测量学校最重要的方面：那些真正产生不平等的特征，如教师质量、课程内容、教学实践、学校氛围等。如果这些未测量的学校因素系统性偏向高 [[Socioeconomic Status|SES]] 学生，那么 Coleman Report 将系统性低估学校对不平等的贡献。
 > - **统计方法局限** 1960 年代的回归技术无法有效处理选择偏误——儿童并非[[Random Assignment\|随机分配]]到学校，观察到的校际差异可能混杂了非学校因素的效应。传统策略（统计控制可测量的家庭背景维度、预测[[Learning Gain\|学习增值]]而非单一时间点的结果）仅部分有效——Burkam et al. (2004) 发现最好的模型也仅解释了不到 15% 的暑期学习方差([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.3]])。
 > - **低估的原因可能被低估了** 如果传统统计方法解释了不到 15% 的非学校学习方差，那意味着 85%+ 的非学校特征在大规模调查中无法测量——使用这些技术的学校效应估计将系统性高估学校效应，而非低估。这意味着：Coleman 可能低估了学校效应（因为遗漏了关键学校变量），但批评者所依赖的传统方法则可能高估了学校效应（因为未能充分控制非学校因素）。
 >

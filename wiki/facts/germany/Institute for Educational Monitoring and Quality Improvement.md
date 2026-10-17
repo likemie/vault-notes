@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[School Autonomy]]"
   - "[[Commensuration]]"
+  - "[[Socioeconomic Status]]"
   - "[[Performance Indicators]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Universities Rankings]]"
@@ -65,7 +66,7 @@ related_methods:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Institute for Educational Monitoring and Quality Improvement
@@ -104,7 +105,7 @@ updated: 2026-10-16
 
 > [!pathways]- 业务运行机制
 > - **全州统一测评与标准化采集** 每年常态化组织实施 KERMIT 能力测试与全德统一的 VERA 测评，覆盖汉堡全部公立中小学各关键年级。
-> - **多源数据清洗与通约建模** 将学生测验得分、生源家庭社会经济背景数据与学校组织特征进行匹配，依托统一算法消除生源背景干扰，生成具有统计可比性的公平诊断基准。
+> - **多源数据清洗与通约建模** 将学生测验得分、生源[[Socioeconomic Status|家庭社会经济背景]]数据与学校组织特征进行匹配，依托统一算法消除生源背景干扰，生成具有统计可比性的公平诊断基准。
 > - **非公开单页仪表盘反馈（SchÜb）** 开发高度浓缩的单页可视化工具“学校一览表”（Schule im Überblick），仅面向该校校长与责任督学内部定向反馈，严禁向公众开放或制作学校排行榜（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
 > - **目标协议与质量磋商（Ziel- und Leistungsvereinbarungen）** 协助 BSB 将测试诊断数据嵌入“目标与绩效协议”。当学校表现与统计基准存在显著差距时，督学以此为抓手与学校展开专业协商，订立针对性改进目标（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, p. 9]]）。
 
@@ -114,7 +115,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **汉堡社会指数（Hamburger Sozialindex）**
->   主导研发并计算全州学校社会指数，依据生源家庭社会经济地位、移民背景与社区特征等指标对学校进行 1–6 级阶梯式归类。该指数不仅直接作为汉堡市政府按需配置补偿性教育财政与编制资源的依据，更在学业测评中用于计算“统计相似基准”，为学校提供校正生源差异后的“公平比较”（Fair Comparison）基准（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, p. 6]]）。
+>   主导研发并计算全州学校社会指数，依据生源家庭[[Socioeconomic Status|社会经济地位]]、移民背景与社区特征等指标对学校进行 1–6 级阶梯式归类。该指数不仅直接作为汉堡市政府按需配置补偿性教育财政与编制资源的依据，更在学业测评中用于计算“统计相似基准”，为学校提供校正生源差异后的“公平比较”（Fair Comparison）基准（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, p. 6]]）。
 > - **学校一览表仪表盘（Schule im Überblick, SchÜb）**
 >   开发面向校长与[[School Inspection\|学校督导]]人员的单页数字化概览工具（SchÜb），通过可视化图表与关键[[Performance Indicators\|绩效指标]]高度浓缩学校各年级测评表现与综合指标，防止基层学校陷入数据过载，推进行动导向的校本研讨（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
 > - **KERMIT / [[Vergleichsarbeiten\|VERA]] 系列能力诊断测试**

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Metacognitive Laziness]]"
   - "[[STEM Education]]"
   - "[[Brainstorming]]"
+  - "[[Socioeconomic Status]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
   - "[[Procedural Knowledge]]"
@@ -117,14 +118,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 87
+argument_related_count: 88
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -189,7 +190,7 @@ issuing_organization: ""
 > - **规程与规则**
 >   约束教学与评估的显隐性规程，涵盖实验控制方法、[[Pre-test and Post-test\|前测]]设置、测量工具属性、[[Sample Size Determination\|样本量]]规模、干预时长及出版审查机制。
 > - **共同体与情境**
->   活动所嵌入的宏观与微观社会文化生态，包括物理场所（课堂 vs 实验室）、地理大区、国家 ICT 数字化水平、SES 地位与权力距离文化。
+>   活动所嵌入的宏观与微观社会文化生态，包括物理场所（课堂 vs 实验室）、地理大区、国家 ICT 数字化水平、[[Socioeconomic Status|SES]] 地位与权力距离文化。
 
 > [!warrant]- 理论如何支撑论证
 > AT-MCSCL 框架将孤立的技术干预置于多要素交互的社会文化活动生态中。通过将调节变量映射到活动系统的六大要素，该分析避免了将 AI 效果简单归结为技术本身固有属性的机械[[Determinism\|决定论]]，而是从主体（年级、专业、性别）、工具（工具类型、生成模态）、角色分工（导师 vs 同伴）、规则约束（实验设计、测量类型、样本量、干预时长）以及共同体文化（场所、区域、ICT、SES、权力距离）全方位解构技术促学效应的变异来源。（pp. 3–7）
@@ -315,7 +316,7 @@ issuing_organization: ""
 ### 论证步骤二：基于活动理论（AT-MCSCL）维度的调节机制检验与微观-宏观生态解构
 
 > [!claim] 步骤二主张
-> 生成式 AI 的促学成效受到活动系统中学习者、规则与共同体情境要素的显著调节：大一新生与语言学习者获益最为显著；真实课堂、4–12 周中期干预、自编测验与中等[[Sample Size Determination\|样本量]]产生最高效应；在宏观情境上，低 ICT 水平、低 SES 地区与高权力距离文化中 AI 展现出显著更强的促学赋能（边际效益递增与权力壁垒破除机制）。（pp. 10–13, 16–18）
+> 生成式 AI 的促学成效受到活动系统中学习者、规则与共同体情境要素的显著调节：大一新生与语言学习者获益最为显著；真实课堂、4–12 周中期干预、自编测验与中等[[Sample Size Determination\|样本量]]产生最高效应；在宏观情境上，低 ICT 水平、低 [[Socioeconomic Status|SES]] 地区与高权力距离文化中 AI 展现出显著更强的促学赋能（边际效益递增与权力壁垒破除机制）。（pp. 10–13, 16–18）
 
 > [!moderator-summary]- 主体、工具、角色与规则特征调节分析（pp. 11–12）
 > | 调节维度与亚组分类 | 效应量数 $k$ | 汇总效应 $g^+$ | 标准误 $SE$ | 95% 置信区间 CI | 组间异质性 $Q_B$ ($df$) | $p$ 值 | 理论机制与实证解读 |

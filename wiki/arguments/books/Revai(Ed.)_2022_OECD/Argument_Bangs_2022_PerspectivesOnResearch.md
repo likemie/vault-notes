@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[International Education]]"
   - "[[Whole Person Education]]"
+  - "[[Intentionality]]"
   - "[[Research Topic]]"
   - "[[Phronesis]]"
   - "[[Research-Practice Gap]]"
@@ -319,7 +320,7 @@ updated: 2026-10-17
 > [!event-context] Box 10.3　[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）
 > **创立背景** 2011 年由美国前教育部长阿恩·邓肯（Arne Duncan）、[[National Education Association\|全美教育协会]]（[[National Education]] Association, NEA）、[[American Federation of Teachers|美国教师联盟]]（American Federation of Teachers, AFT）、经合组织（OECD）及国际教育协会（EI）联合发起，此后每年由不同 OECD 成员国轮流主办。
 > **独特机制** 全球唯一一个由**民选教育部长**与**全国性教师工会领袖**在完全保密状态下平等会晤的国际治理平台；双方不搞政治对抗，而是基于客观证据坦诚交流最佳实践，共同制定下一年度切实的教育改革目标。（p. 216）
-> **循证支撑** 历届峰会均由 OECD 与 EI 分别发布专门的背景研究报告提供扎实证据支撑（如 [[Andreas Schleicher]] 的 OECD 报告与 EI 独立简报）。2021 年美国主办的第 11 届峰会聚焦后疫情时代教育重建，围绕教师专业化与身心福祉、[[Whole Person Education\|全人教育]]与社会公平、意向性专业协作达成广泛共识。（NCEE, 2021; p. 216）
+> **循证支撑** 历届峰会均由 OECD 与 EI 分别发布专门的背景研究报告提供扎实证据支撑（如 [[Andreas Schleicher]] 的 OECD 报告与 EI 独立简报）。2021 年美国主办的第 11 届峰会聚焦后疫情时代教育重建，围绕教师专业化与身心福祉、[[Whole Person Education\|全人教育]]与社会公平、[[Intentionality|意向性]]专业协作达成广泛共识。（NCEE, 2021; p. 216）
 
 #### 2. 终结单向榨取式外来调查，依托名师与研究型教师分工协同机制深化校本行动研究
 

@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Reflexivity]]"
   - "[[Reflexive Governance]]"
+  - "[[Dynamic Assessment]]"
   - "[[Citizen Science]]"
   - "[[Modern Industrial Policy]]"
   - "[[Apprenticeship]]"
@@ -95,7 +96,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Public Value
@@ -179,7 +180,7 @@ updated: 2026-10-16
 ### 命题二　动态系统评估是衡量公共价值外溢与结构转型的科学标尺
 
 > [!concept-lens] 评估工具与[[Reflexive Governance|反思性治理]]
-> 批判静态[[Cost-Benefit Analysis|成本收益分析]]的局限性，构建面向长期社会转型的动态评估体系。
+> 批判静态[[Cost-Benefit Analysis|成本收益分析]]的局限性，构建面向长期社会转型的[[Dynamic Assessment|动态评估]]体系。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **动态评估超越静态成本收益分析** 传统[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与净现值计算基于静态线性假定，无法有效捕捉创新活动在跨部门联动中引发的技术溢出、组织能力积累与预期挤入效应（Crowding In）。衡量公共价值必须采用全流程动态监测与[[Reflexivity|反思性]]评估，将评价重心置于是否培育了去中心化探索网络、是否推动了传统产业绿色转型以及是否达成了预设的社会使命里程碑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
@@ -339,7 +340,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与动态评估工具。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与[[Dynamic Assessment|动态评估]]工具。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 阐发[[Technological Republic|技术共和国]]中前沿技术交付与普遍公众利益的关系，揭示公共部门[[Innovation Desert|创新荒漠]]与合法性危机的内在关联。

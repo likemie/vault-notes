@@ -12,7 +12,7 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 50
+method_related_count: 51
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[School Inspection]]"
   - "[[Independent Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Class Size]]"
   - "[[Model Dependency]]"
   - "[[International Education]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Hierarchical Linear Model
@@ -145,7 +146,7 @@ updated: 2026-10-16
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $J$ 所学校（Level 2），第 $j$ 所学校包含 $n_j$ 名学生（Level 1），总[[Sample Size Determination\|样本量]] $N = \sum n_j$。
 > - **核心变量**
->   - Level 1 变量：学生后测考分 $Y_{ij}$、基线前测成绩 $X_{ij}$、家庭社会经济地位等。
+>   - Level 1 变量：学生后测考分 $Y_{ij}$、基线前测成绩 $X_{ij}$、家庭[[Socioeconomic Status|社会经济地位]]等。
 >   - Level 2 变量：学校干预哑变量 $W_j$（1 = 处理校，0 = 对照校）、学校办学性质或资源指标。
 > - **诊断与检验** ICC 值大小、Level 2 残差 $u_{0j}$ 的正态分布检验、集群数量充足性评估（一般建议 $J \ge 30$）。
 

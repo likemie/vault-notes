@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_methods:
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Jarl Bengtsson]]"
+  - "[[Herbert Walberg]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # International Indicators of Education Systems
@@ -124,7 +125,7 @@ updated: 2026-10-16
 > [!actor-grid] 实施协同矩阵
 > - **美方赞助与政治推手** 美国教育部（Chester Finn Jr.）与 NCES — 提供关键资金与政治庇护，坚持将指标作为问责国家教育产出的工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **[[OECD]] 核心管理协调层** [[Jarl Bengtsson]]（[[Centre for Educational Research and Innovation\|CERI]] 主管）与 [[Norberto Bottani]]（INES 主任）— 负责在主权国家猜忌与学术理想之间周旋，推动跨国共识与指标落地。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
-> - **学术研究与测量团队** 各国教育统计学家、经济学家与测量学者（如 Herbert Walberg）— 强调测量工具的信效度与情境[[Heterogeneity\|异质性]]，极力警惕指标被过度政治化简化。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 9, 12)]]
+> - **学术研究与测量团队** 各国教育统计学家、经济学家与测量学者（如 [[Herbert Walberg]]）— 强调测量工具的信效度与情境[[Heterogeneity\|异质性]]，极力警惕指标被过度政治化简化。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 9, 12)]]
 > - **成员国教育部与官员网络** 参与 Networks A/B/C 的各国技术官僚 — 在指标设计中形成类似“排他性俱乐部”的行动者认同，既提升了跨国协调效率，又拉大了与本国基层的鸿沟。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 16)]]
 
 > [!tension]- 核心阵营冲突与历史分歧

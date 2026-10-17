@@ -8,7 +8,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - equity
 related_concepts:
   - "[[Growth]]"
+  - "[[Socioeconomic Status]]"
   - "[[Discourse]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 背景
 
@@ -56,7 +57,7 @@ updated: 2026-10-16
 > - **Gonski et al. (2011)** *Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
 > - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the [[Gonski 2.0\|Review to Achieve Educational Excellence in Australian Schools]]* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
-> 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
+> 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、[[Socioeconomic Status|SES]]、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
 > Gonski 2.0 的核心创新在于重新定义"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。[[David Gonski]] 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
 
@@ -72,7 +73,7 @@ updated: 2026-10-16
 > [!example] 实施情况
 > 利益相关者虽然欢迎这些改革，但指出其局限性（Keddie et al., 2020, IJLE, p.11）：
 >
-> - **透明度缺失** "钱并不总是到达公式指定的[领域]"（如原住民身份、地理位置、学校规模、SES、残疾）（Kurt, bureaucrat, QLD, p.11）
+> - **透明度缺失** "钱并不总是到达公式指定的[领域]"（如原住民身份、地理位置、学校规模、[[Socioeconomic Status|SES]]、残疾）（Kurt, bureaucrat, QLD, p.11）
 > - **精细度不足** 未能充分识别农村/偏远地区学校的特殊需求——"你可以在一个偏远的原住民学校，你每人获得的钱比[其他]州立学校多，但这笔钱不足以让教师飞到区域或大都市首府参加常规[专业发展]；也不足以让你飞入心理学家"（Kurt, bureaucrat, QLD, p.11）
 > - **结构性不平等的维持** 改革保证"没有学校会变得更糟"——包括已经资源充足的私立学校——因此"来自 Gonski 改革的任何额外资金在分配至三个系统时，确保没有学校（包括私立部门中已经资源充足的学校）会变得更糟"（Gonski et al., 2011，引自 Keddie et al., 2020, IJLE, p.12-13）
 

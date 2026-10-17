@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Behaviorism]]"
   - "[[Disjointed Pluralism]]"
   - "[[Path Dependence]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Kathleen Thelen
@@ -109,7 +110,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990年代 — [[Historical Institutionalism|历史制度主义]]流派奠基与劳工政治** 聚焦战后德国等西欧国家的劳工体系与协调资本主义，反思行为主义与理性选择[[Paradigm|范式]]的去情境化偏误，确立制度中介[[Variable|变量]]地位。
+> - **1990年代 — [[Historical Institutionalism|历史制度主义]]流派奠基与劳工政治** 聚焦战后德国等西欧国家的劳工体系与协调资本主义，反思[[Behaviorism|行为主义]]与理性选择[[Paradigm|范式]]的去情境化偏误，确立制度中介[[Variable|变量]]地位。
 >   - **代表著作** *Structuring Politics: Historical Institutionalism in Comparative Analysis* (1992); *Union of Parts: Labor Politics in Postwar Germany* (1991)。
 >   - **关键概念／方法** 历史制度主义、制度结构性、比较历史分析。
 >   - **阶段转向** 从具体的劳资协调制度考察，上升为对制度主义一般方法论与历史时间性的系统建构。

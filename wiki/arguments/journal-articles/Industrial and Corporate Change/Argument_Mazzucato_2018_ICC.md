@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
   - "[[Picking the Willing]]"
+  - "[[Dynamic Assessment]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
@@ -73,14 +74,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -95,7 +96,7 @@ argument_related_color: "#dbeafe"
 > 面对21世纪日益严峻的气候变化、人口老龄化、公共卫生危机与包容性增长难题等重大社会挑战，传统基于新古典福利经济学弥补[[Market Failure|市场失灵]]的科技与产业政策在理论解释力与政策工具箱上均陷入困境；公共部门应如何超越消极的拉平赛道与事后补贴思维，构建一套能够主动引导创新方向、塑造并共同创造全新市场、包容探索试错且实现风险与收益对称共享的新一代[[Mission-Oriented Innovation Policy|使命导向型创新政策]]治理[[Paradigm|范式]]？（pp. 803–805）
 
 > [!claim] 核心主张
-> 马里亚纳·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）指出，经济创新不仅关乎增长的速率，更关乎发展的方向；应对21世纪复杂的重大社会挑战，要求公共政策彻底从被动的市场修复者转变为主动的[[Market Shaping and Creating|市场塑造]]与共创者。公共机构应以重大社会挑战为导向[[Picking the Willing|挑选意愿者]]（Picking the willing），拉动全经济范围内的跨部门协同投资，依托涵盖战略路径、组织能力、动态评估与风险收益共享（Routes, Organizations, Assessment, Risks and rewards, ROAR）的 ROAR [[Analytic Framework|分析框架]]重构政策工具箱，并严格依据五大实施标准将宏大社会挑战转化为自下而上的多元探索项目组合。（pp. 803–812）
+> 马里亚纳·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）指出，经济创新不仅关乎增长的速率，更关乎发展的方向；应对21世纪复杂的重大社会挑战，要求公共政策彻底从被动的市场修复者转变为主动的[[Market Shaping and Creating|市场塑造]]与共创者。公共机构应以重大社会挑战为导向[[Picking the Willing|挑选意愿者]]（Picking the willing），拉动全经济范围内的跨部门协同投资，依托涵盖战略路径、组织能力、[[Dynamic Assessment|动态评估]]与风险收益共享（Routes, Organizations, Assessment, Risks and rewards, ROAR）的 ROAR [[Analytic Framework|分析框架]]重构政策工具箱，并严格依据五大实施标准将宏大社会挑战转化为自下而上的多元探索项目组合。（pp. 803–812）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家[[Innovation Policy Paradigms|创新政策范式]]、公共研发与产业资助机构的治理机制、公私合作契约设计，以及重大社会技术系统转型（如德国能源转型规划、[[EU|欧盟]][[Horizon Europe Missions|地平线欧洲战略使命]]）。
@@ -111,7 +112,7 @@ argument_related_color: "#dbeafe"
 > |---|---|
 > | **[[Mission-Oriented Innovation Policy\|使命导向型创新政策]]** | 界定调动系统性前沿知识攻克特定重大公共目标的政策[[Paradigm\|范式]]，实现从冷战工程技术壮举向21世纪[[Wicked Problem\|复杂社会难题]]转型的范式厘清。（pp. 804–805） |
 > | **[[Market Shaping and Creating\|市场塑造与市场共创]]** | 阐明国家在创新全链条中作为前瞻引领者、早期风险承担者与全新技术市场开拓者的内在机理，打破[[Market Failure\|市场失灵理论]]的被动修补假设。（pp. 806–807） |
-> | **[[ROAR Framework\|ROAR 分析框架]]** | 提炼涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）四大支柱的系统治理工具箱。（pp. 809–810） |
+> | **[[ROAR Framework\|ROAR 分析框架]]** | 提炼涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、[[Dynamic Assessment\|动态评估]]（Assessment）与风险收益共享（Risks and rewards）四大支柱的系统治理工具箱。（pp. 809–810） |
 > | **[[Wicked Problem\|棘手问题理论]]** | 说明气候、老龄化与贫困等21世纪挑战的复杂性、系统交织性与多因性，为组合式探索与跨部门协同提供问题学依据。（pp. 803–804） |
 
 > [!warrant]- 理论如何支撑论证
@@ -272,7 +273,7 @@ argument_related_color: "#dbeafe"
 ### 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
 
 > [!claim] 步骤四核心主张
-> 使命导向政策的系统落地必须依托涵盖战略路径、组织能力、动态评估与收益分享的 ROAR 治理框架，并严格依据五大遴选标准将宏大的社会挑战拆解为跨部门、自下而上的多元探索项目组合。（pp. 809–812）
+> 使命导向政策的系统落地必须依托涵盖战略路径、组织能力、[[Dynamic Assessment|动态评估]]与收益分享的 ROAR 治理框架，并严格依据五大遴选标准将宏大的社会挑战拆解为跨部门、自下而上的多元探索项目组合。（pp. 809–812）
 
 #### 1. ROAR 框架重构了方向设定、组织学习、动态评估与回报分配的政策工具箱
 

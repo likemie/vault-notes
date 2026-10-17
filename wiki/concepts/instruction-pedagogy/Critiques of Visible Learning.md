@@ -7,9 +7,9 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 148
-related_level: 14
-related_stars: "💎💎💎💎⭐⭐"
+related_count: 153
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -53,6 +53,9 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Type I and Type II Errors]]"
   - "[[Interaction Effect]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Teacher Immediacy]]"
+  - "[[Dynamic Assessment]]"
   - "[[Language Experience Approach]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
@@ -76,6 +79,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Value Neutrality]]"
   - "[[Big Science]]"
+  - "[[Intentionality]]"
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
   - "[[Scientism]]"
@@ -169,6 +173,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Framework for Teaching]]"
@@ -372,7 +377,7 @@ updated: 2026-10-17
 
 > [!critique-method] 通用语言效应计算产生不可能概率与基线任意性（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 239–241]]）
 > - **不可能概率** 哈蒂在通用语言效应（Common Language Effects, CLE）计算中出现了负概率和超过 100% 的概率（Topphol, 2012），暴露了底层概率算法的严重失误。
-> - **基线选择的任意性** 效应量符号方向完全取决于隐性基线的设定方向。以社会经济地位（SES）为例：若改为比较贫穷与富裕学生，效应量将从 $+0.59$ 逆转为 $d=-0.59$，成为全书最负面的效应；政策含义也将由无法改变的背景逆转为亟需干预的不平等。
+> - **基线选择的任意性** 效应量符号方向完全取决于隐性基线的设定方向。以[[Socioeconomic Status|社会经济地位]]（SES）为例：若改为比较贫穷与富裕学生，效应量将从 $+0.59$ 逆转为 $d=-0.59$，成为全书最负面的效应；政策含义也将由无法改变的背景逆转为亟需干预的不平等。
 
 > [!case] 受控数值实验印证三公式产生完全矛盾排名（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 242–245]]）
 > 四组初始等价学生[[Random Assignment|随机分配]]至三种教学法和标准教学法，三种在技术上均成立的效应量公式产出完全矛盾的有效性排序：
@@ -391,8 +396,8 @@ updated: 2026-10-17
 > | Lysakowski and Walberg (1980) | ✗ | 4,842 | **1.17** | 涵盖 39 种**强化技术（Reinforcement Techniques）**；哈蒂本人此前曾质疑奖励是否算作反馈。 |
 > | Lysakowski and Walberg (1982) | ✗ | 15,689 | **0.97** | 聚焦教学策略中的**线索、参与和纠正性反馈**，混合多重教学干预。 |
 > | Kluger and DeNisi (1996) | ✓ | 12,652 | **0.38** | **反馈干预（FI）**——唯一严格符合定义的元分析；但效应量仅为 0.38，且 **38% 效应量为负值**。 |
-> | Witt et al. (2004) | ✗ | 24,474 | **1.15** | **教师即时性（Immediacy）**；全文未提及反馈概念；包含大量未发表报告。 |
-> | Swanson and Lussier (2001) | ✗ | 5,104 | **1.12** | **考官辅助／动态评估**；研究测试过程中主试给出的提示与线索。 |
+> | Witt et al. (2004) | ✗ | 24,474 | **1.15** | **[[Teacher Immediacy\|教师即时性]]（Immediacy）**；全文未提及反馈概念；包含大量未发表报告。 |
+> | Swanson and Lussier (2001) | ✗ | 5,104 | **1.12** | **考官辅助／[[Dynamic Assessment\|动态评估]]**；研究测试过程中主试给出的提示与线索。 |
 > 
 > **概念同质性崩溃结论** 5 项贡献最大（占样本 92%）的元分析中，仅 Kluger & DeNisi 符合定义，其实际效应量（$0.38$）尚不足综合报告值（$0.73$）的一半。哈蒂将强化、即时性与考官提示强行贴上反馈标签，直接导致王牌指标虚高失真。
 
@@ -603,7 +608,7 @@ updated: 2026-10-17
 > | **谁能保证教学方法的合法性？** | 将教学权威建立在数万项研究与数亿学生样本的庞[[Big Science\|大科学]]外观之上。 |
 
 > [!critique-logic] 技术理性统治的三重深重代价（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b, pp. 88–89]]）
-> - **师生被原子化为变量** 效应量的原子化直接导致师生被降格为对反馈刺激被动反应的数据变量，意向性与生活意义被[[Self-Efficacy|自我效能]]等心理量化指标所取代。
+> - **师生被原子化为变量** 效应量的原子化直接导致师生被降格为对反馈刺激被动反应的数据变量，[[Intentionality|意向性]]与生活意义被[[Self-Efficacy|自我效能]]等心理量化指标所取代。
 > - **目标神圣化与封闭系统构建** 教师的工作被缩减为通过反馈机制将学生导向预设目标，关于目标本身是否值得追求的价值辩论被完全排除，教学手段被目标赋予了不容置疑的神圣性。
 > - **人际对话被反馈因果链取代** 真正的师生交往被发现问题-实施矫正的技术纠错循环所取代，教学蜕变为[[Doxa|不言自明]]的意识形态规训。
 
@@ -871,7 +876,7 @@ updated: 2026-10-17
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究（Gray et al., 1986; Harker, 1995; Nash, 2004） | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%**；校内可控变量仅占 20–30% | 排除校外因素产生根本归因偏航；0.40 门槛主观武断（阿司匹林 $d=0.07$ 反例） | 证实其排除非学校因素的假说严重脱离教育现实，将结构不平等转嫁给一线教师 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | VL [[Whole Language\|全语言]]阅读教学元分析处理流程 | 原始引文核验与效应量溯源 | 审查偏倚；删除标准；手动修正方向 | 800+ 项元分析中唯一被手动修正效应量的案例；选择性删除支持全语言的原始研究 | 修正方向完全契合[[John Hattie\|哈蒂]]先验立场 | 证实先验理论偏见直接驱动了次级文献的选择性筛选与篡改 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 反馈（$d=0.73$）项下贡献最大的 5 项元分析（62,761 人，占 92%） | 概念同质性与基础研究逐项审查 | 反馈定义合规性；核心干预类型 | 仅 1 项（Kluger & DeNisi, 1996，且 $d=0.38$）符合定义；其余 4 项为强化、线索、即时性与考官辅助 | 贡献最大的 Witt 样本达 2.4 万人但全文未提及反馈 | 证实其高排名效应量建立在混淆概念标签的概念[[Heterogeneity\|异质性]]之上 |
-> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 丹麦 2014 义务教育改革法案与 VL 统计设计缺陷（Table 1） | 批判理论与多国方法论文献综合审查 | 复杂性还原、调节因素剔除、0.40 截断点、异质归并、低质纳入、统计谬误 | 揭示其效应量原子化同时将师生还原为变量；丹麦改革证实 VL 承诺被行政机器作为压制教师异议的合法化工具 | 纯理论与方法批判；证实政策制定者购买的是技术理性的控制承诺而非原始数据真理性 | 确证 VL 的全球流行是现代学校应对合法化危机的产物，而非教育科学进步的标志 |
+> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 丹麦 2014 义务教育改革法案与 VL 统计设计缺陷（Table 1） | [[Critical Theory\|批判理论]]与多国方法论文献综合审查 | 复杂性还原、调节因素剔除、0.40 截断点、异质归并、低质纳入、统计谬误 | 揭示其效应量原子化同时将师生还原为变量；丹麦改革证实 VL 承诺被行政机器作为压制教师异议的合法化工具 | 纯理论与方法批判；证实政策制定者购买的是[[Technical Rationality\|技术理性]]的控制承诺而非原始数据真理性 | 确证 VL 的全球流行是现代学校应对[[Legitimation Crisis\|合法化危机]]的产物，而非教育科学进步的标志 |
 
 ---
 

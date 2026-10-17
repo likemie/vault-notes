@@ -7,7 +7,7 @@ aliases:
 summary: "一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Communities of Practice]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Cognitive Constructivism
@@ -61,7 +62,7 @@ updated: 2026-10-15
 
 > [!theory-position] 理论定位
 > - **解释对象** 个体内部知识表征的形成、图式重组以及认知发展的内在心理机制。
-> - **理论问题** 反驳行为主义（Behaviorism）将人视为被动接受外部刺激的黑箱，确立个体在意义赋予、概念重组与知识主动建构中的主体能动性。
+> - **理论问题** 反驳[[Behaviorism|行为主义]]（Behaviorism）将人视为被动接受外部刺激的黑箱，确立个体在意义赋予、概念重组与知识主动建构中的主体能动性。
 > - **理论类型** 发生[[Epistemology|认识论]]与认知心理学解释[[Paradigm|范式]]。
 > - **知识位置** 源自日内瓦学派[[Piaget's Theory of Cognitive Development|皮亚杰发生认识论]]，长期主导教育心理学、科学教育、概念改变（Conceptual Change）与个人认识论（Personal Epistemology）研究。
 

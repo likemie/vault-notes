@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,8 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Language Skills
@@ -136,7 +137,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **20世纪中期 — 行为主义听说法与分立技能观** 早期语言教学将语言技能视为孤立的习惯养成，强调机械的句型操练（Drill）与正误强化，技能被严格割裂为离散的语音与词汇测试。
+> - **20世纪中期 — [[Behaviorism|行为主义]]听说法与分立技能观** 早期语言教学将语言技能视为孤立的习惯养成，强调机械的句型操练（Drill）与正误强化，技能被严格割裂为离散的语音与词汇测试。
 > - **1970s–1980s — 交际语言能力（Communicative Competence）转向** Hymes 与 Canale & Swain 等提出交际能力理论，推动语言技能从纯语法规则识记转向社会语言学、语篇与策略能力的综合统整。
 > - **2001 — 欧洲语言共同参考框架（CEFR）确立[[Operationalization\|操作化]]能做清单** 确立基于“能做”（Can-do statements）的行为描述语体系，将语言技能确立为具有国际通用效标的层级操作化指标。
 > - **2025 — 生成式 AI 时代：符号生成表观性与心智解耦反思** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 等学者系统量化了生成式 AI 对二语技能的强大赋能，同时揭示出表层文本流畅与深层反思能力的断层，推动语言技能评价从孤立的文本终稿向包含提示词交互与批判性核查的过程性综合素养转型。

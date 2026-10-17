@@ -22,6 +22,7 @@ tags:
   - method/longitudinal
   - method/sem
 related_concepts:
+  - "[[Socioeconomic Status]]"
   - "[[Cultural Capital]]"
   - "[[Academic Achievement]]"
   - "[[Epistemological Beliefs]]"
@@ -89,14 +90,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -113,7 +114,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 学生的科学知识确定性信念（认为科学理论是绝对确定、不可改变的永恒真理）能否在严格控制一般认知推理能力（General Cognitive Ability，$g$ 因子）、性别与家庭社会经济地位（Socioeconomic Status，SES 及[[Cultural Capital\|文化资本]]）的前提下，独立预测其中学[[Academic Achievement\|学业成就]]？同时，不同大学专业门类学生之间显著的[[Epistemological Beliefs\|认识论信念]]分化，究竟是由进入大学前的“自我选择效应”（Self-Selection Effect）所致，还是由大学专业环境长期浸润的“[[Disciplinary Socialization\|学科社会化]]效应”（Disciplinary Socialization Effect）所致？
+> 学生的科学知识确定性信念（认为科学理论是绝对确定、不可改变的永恒真理）能否在严格控制一般认知推理能力（General Cognitive Ability，$g$ 因子）、性别与家庭[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status，SES 及[[Cultural Capital\|文化资本]]）的前提下，独立预测其中学[[Academic Achievement\|学业成就]]？同时，不同大学专业门类学生之间显著的[[Epistemological Beliefs\|认识论信念]]分化，究竟是由进入大学前的“自我选择效应”（Self-Selection Effect）所致，还是由大学专业环境长期浸润的“[[Disciplinary Socialization\|学科社会化]]效应”（Disciplinary Socialization Effect）所致？
 
 > [!claim] 核心主张
 > 科学知识确定性信念是独立于认知能力与家庭阶层背景的负向学业成就预测源，并在因果链条上部分中介了认知能力与家庭文化资本对学业成绩的促进效应；不同学科间的认识论信念分化同时受自我选择与[[Disciplinary Socialization\|学科社会化]]的双重机制驱动——高中毕业生在专业选择前已存在显著的[[Epistemology\|认识论]]自我分流，而大学就读经验则进一步拉大了“硬科学/应用学科”与“软科学/人文学科”之间的认识论鸿沟。由 [[Ulrich Trautwein]] 与 Oliver Lüdtke 主导的这一研究确立了认识论信念的大样本纵向因果解释力。
@@ -165,7 +166,7 @@ issuing_organization: ""
 > - **信息加工深度与策略选择** 持有高确定性信念的学生倾向于采用表层加工策略与[[Rote Learning\|死记硬背]]（Rote Learning），期望直接获取“标准答案”；持有低确定性信念的学生则更倾向于采用精加工策略（Elaboration）与深层反思（Ryan, 1984; Köller et al., 2000）。
 > - **劣构问题推断与偏误抵御** 在面对复杂、争议性现实议题（如艾滋病病因）时，高确定性信念个体倾向于忽视信息的未定性，过早得出绝对化、草率的结论（Kardash & Scholes, 1996; Schommer, 1990）。
 > - **认知能力的放大器效应** 基础认知推理能力高（High Cognitive Ability）的学生更能从挑战过度简化知识的学校教学中获益，从而发展出成熟的非确定性知识观。（p.353）
-> - **家庭[[Cultural Capital\|文化资本]]与环境刺激** 拥有更高文化资本（家庭藏书量丰富）和高社会经济地位（SES）的家庭，能提供更具启发性的认知环境，更有能力示范和鼓励孩子应对知识的不确定性。
+> - **家庭[[Cultural Capital\|文化资本]]与环境刺激** 拥有更高文化资本（家庭藏书量丰富）和高[[Socioeconomic Status|社会经济地位]]（SES）的家庭，能提供更具启发性的认知环境，更有能力示范和鼓励孩子应对知识的不确定性。
 
 > [!debates] 既往实证研究的矛盾与方法学缺陷
 >
@@ -257,7 +258,7 @@ issuing_organization: ""
 ### 论证步骤一 变量间相关与潜在混淆因素的辨析
 
 > [!claim] 确定性信念与[[Academic Achievement\|学业成绩]]及背景[[Variable\|变量]]呈显著负相关
-> 在双变量层面上，科学知识确定性信念与高中毕业总评成绩、认知推理能力、家庭社会经济地位（SES）及[[Cultural Capital\|文化资本]]均呈现显著负相关，初步支持了确定性信念对学业成绩的潜在阻碍效应。（p.357）
+> 在双变量层面上，科学知识确定性信念与高中毕业总评成绩、认知推理能力、家庭[[Socioeconomic Status|社会经济地位]]（SES）及[[Cultural Capital\|文化资本]]均呈现显著负相关，初步支持了确定性信念对学业成绩的潜在阻碍效应。（p.357）
 
 > [!chain-link] 变量间相关矩阵证据
 > 在全样本潜变量相关分析中（表1），确定性信念与毕业总评成绩呈显著负相关（相关系数 Correlation Coefficient $r = -.23, p < .05$），与认知能力（$r = -.18$）、家庭文化资本（$r = -.17$）及家庭 SES（$r = -.09$）亦呈显著负相关。高中毕业成绩与认知能力（$r = .33$）、文化资本（$r = .25$）、家庭 SES（$r = .11$）及女性（$r = .10$）呈显著正相关，与年龄呈负相关（$r = -.26$）。（pp.357–358）
@@ -456,7 +457,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **确定性信念净负向预测高中毕业[[Academic Achievement\|学业成就]]** 在严格控制认知能力、家庭 SES 和[[Cultural Capital\|文化资本]]后，科学知识确定性信念对高中毕业总评成绩仍具有显著负向预测力（标准化路径系数 Standardized Path Coefficient $\beta = -0.15$），并部分中介了智力与文化资本的学业效应。（p.358）
+> 1. **确定性信念净负向预测高中毕业[[Academic Achievement\|学业成就]]** 在严格控制认知能力、家庭 [[Socioeconomic Status|SES]] 和[[Cultural Capital\|文化资本]]后，科学知识确定性信念对高中毕业总评成绩仍具有显著负向预测力（标准化路径系数 Standardized Path Coefficient $\beta = -0.15$），并部分中介了智力与文化资本的学业效应。（p.358）
 > 2. **大学专业选择存在显著的先验自我选择效应** 高中毕业生在选择未来专业时已表现出[[Epistemology\|认识论]]分化，未来攻读工科（未标准化回归系数 $b = 0.38$）、商科（$b = 0.33$）、自然科学（$b = 0.39$）和医学（$b = 0.38$）的学生其确定性信念显著高于人文艺术类学生。（p.360）
 > 3. **大学专业环境发挥了显著的[[Disciplinary Socialization\|学科社会化]]塑造效应** 在控制 T1 初始信念后，大学工科（$b = 0.40$）与商科（$b = 0.22$）学习显著强化了知识确定性信念，而人文与社会科学学习（$b = -0.26$）则进一步瓦解了确定性信念，拉大了软硬学科间的认识论鸿沟。（p.361）
 > 4. **[[Epistemological Beliefs\|认识论信念]]兼具跨期稳定性与情境可塑性** 两年跨期的确定性信念自回归稳定性系数达 $b = 0.54$，说明认识论信念具有稳定的个体特质属性，但同时对所处的学科规范与学习情境保持高度敏感。

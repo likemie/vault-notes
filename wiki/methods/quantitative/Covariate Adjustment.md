@@ -9,7 +9,7 @@ summary: "在统计与因果推断模型中纳入基线预测变量以减少混�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Academic Achievement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Preregistration]]"
   - "[[Researcher Degrees of Freedom]]"
 related_theories: []
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Covariate Adjustment
@@ -126,7 +127,7 @@ updated: 2026-10-16
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **协[[Variable\|变量]]前置识别与理论论证** 基于既有文献与理论框架挑选关键前置协变量（如[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]、家庭社会经济地位 SES、特殊教育需求资格），坚决杜绝纳入受到干预结果影响的中介变量（Bad Controls）。
+> 1. **协[[Variable\|变量]]前置识别与理论论证** 基于既有文献与理论框架挑选关键前置协变量（如[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]、家庭[[Socioeconomic Status|社会经济地位]] SES、特殊教育需求资格），坚决杜绝纳入受到干预结果影响的中介变量（Bad Controls）。
 > 2. **制定[[Statistical Analysis Plan\|统计分析计划]]并预先锁定（[[Preregistration]]）** 在干预后测数据收集前，于统计分析计划（SAP）中刚性明确主效应模型所包含的全部协变量清单，防范[[Researcher Degrees of Freedom\|研究者自由度]]与模型钓鱼。
 > 3. **基线均衡核查与前测采集** 采集试验启动前的基线数据，检验处理组与对照组在前测与背景协变量上的均值差与标准化偏差。
 > 4. **拟合协变量调整因果模型** 将基线协变量矩阵纳入回归方程，同时控制学校/班级层面的集群嵌套结构。
@@ -215,7 +216,7 @@ updated: 2026-10-16
 ## 典型实证案例
 
 > [!case] 丹麦教师学科专业资格效应的协[[Variable\|变量]]敏感性（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]）
-> 在丹麦基础教育实证分析中，未控制学生背景时，拥有专业学科硕士资质的教师对学生成绩的边际[[Effect Size\|效应量]]达到 $+0.15$ SD 且高度显著；然而当研究者纳入学生家庭社会经济地位（SES）与父母教育背景进行协变量调整后，该效应量骤降至 $+0.08$ SD 且完全失去[[Statistical Significance\|统计显著性]]。这一经典案例无可辩驳地表明：教师资质的优势实质上很大程度混杂了优质生源的非随机分派，统计模型中的协变量选择会从根本上改变教育政策的排名与资源分配优先级（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp. 49–51]]）。
+> 在丹麦基础教育实证分析中，未控制学生背景时，拥有专业学科硕士资质的教师对学生成绩的边际[[Effect Size\|效应量]]达到 $+0.15$ SD 且高度显著；然而当研究者纳入学生家庭[[Socioeconomic Status|社会经济地位]]（SES）与父母教育背景进行协变量调整后，该效应量骤降至 $+0.08$ SD 且完全失去[[Statistical Significance\|统计显著性]]。这一经典案例无可辩驳地表明：教师资质的优势实质上很大程度混杂了优质生源的非随机分派，统计模型中的协变量选择会从根本上改变教育政策的排名与资源分配优先级（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp. 49–51]]）。
 
 ---
 

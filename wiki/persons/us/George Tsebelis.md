@@ -8,7 +8,7 @@ summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
   - "[[Governmentality]]"
+  - "[[Behaviorism]]"
   - "[[Structural Functionalism]]"
   - "[[Rational Action Theory]]"
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # George Tsebelis
@@ -89,7 +90,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980年代末–1990年代初 — 嵌套博弈与比较政[[Governmentality|治理性]]选择转向** 致力于破除行为主义与[[Structural Functionalism|结构功能主义]]将政治行为简化为文化或社会学决定的倾向，建立形式博弈微观基础。
+> - **1980年代末–1990年代初 — 嵌套博弈与比较政[[Governmentality|治理性]]选择转向** 致力于破除[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]将政治行为简化为文化或社会学决定的倾向，建立形式博弈微观基础。
 >   - **代表著作** *Nested Games: Rational Choice in Comparative Politics* (1990)。
 >   - **关键概念／方法** 嵌套博弈（Nested Games）、多重竞技场、[[Rational Action Theory|理性行动理论]]。
 >   - **阶段转向** 证明政治行动者在单一博弈场景中看似偏离最优收益的“次优或非理性举动”，实质是在更高层级制度博弈或多元交织竞技场（如选举竞争与党内派系博弈）中的完全理性选择。

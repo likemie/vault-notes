@@ -6,10 +6,10 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - method/research-methods
   - theme/validity
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Ontology]]"
   - "[[Catalytic Validity]]"
+  - "[[Intentionality]]"
   - "[[Evidence-Based Education]]"
   - "[[Cultural Validity]]"
   - "[[Interpretive Paradigm]]"
@@ -79,7 +80,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Internal Validity
 
@@ -201,7 +202,7 @@ updated: 2026-10-16
 > - **[[Triangulation\|三角验证]]** 依托多元方法、异质数据源、不同研究者与理论透镜开展交叉核验。
 > - **同伴汇报** 主动将分析暴露于无利害关系的学者面前，以对抗性审问检验假设与解释盲点。
 > - **[[Negative Case Analysis\|负面案例分析]]** 持续搜寻反例证据，回溯修正并精炼解释模型以包容异质例外。
-> - **[[Member Checking\|成员核查]]** 将分析摘要返还参与者核验，核实意向性并纠正事实偏差。
+> - **[[Member Checking\|成员核查]]** 将分析摘要返还参与者核验，核实[[Intentionality|意向性]]并纠正事实偏差。
 
 ---
 

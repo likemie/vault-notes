@@ -6,11 +6,12 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
 related_concepts:
+  - "[[Intentionality]]"
   - "[[Value Neutrality]]"
   - "[[Champ]]"
   - "[[Disciplinary Institutionalization]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Phenomenon-Based Learning
@@ -68,7 +69,7 @@ updated: 2026-10-16
 > 在芬兰语原版 2014 年国家核心课程中，PhBL 这一英语术语本身并未出现，英语译本中也仅出现少数几次。课程文本更频繁使用的是芬兰语 ilmiö（现象）及其组合词，要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology\|现象学]]（Phenomenology）为底色，认为“现象”是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，绝非[[Value Neutrality\|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–4]]
+> - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology\|现象学]]（Phenomenology）为底色，认为“现象”是主体在以[[Intentionality|意向性]]（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，绝非[[Value Neutrality\|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–4]]
 > - **用途** 帮助研究者和实践者跳出孤立的学科界限，探究学生如何通过真实[[Champ\|场域]]、协作和具身经验面对全球性挑战（如可持续发展）。
 > - **边界** It 不等于消灭[[Disciplinary Institutionalization|学科建制]]的彻底跨学科，也不应被窄化为促进经济竞争和测量标准化技能的工具。
 

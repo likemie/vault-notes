@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Establishing One's Will]]"
   - "[[Ideal Learner]]"
+  - "[[Socioeconomic Status]]"
   - "[[Faust]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Paradigm]]"
@@ -159,7 +160,7 @@ Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）
 - 正面情感：[[Establishing One's Will|立志]]、热爱／激情／渴求、尊重／接纳、对成就的谦虚
 - 负面情感：缺乏渴望、傲慢、对学业不佳的羞耻／内疚
 
-Li 强调这些是**文化层面**的模型（culture-level models），而非个体模型。文化模型通过共享的语言和[[Ideal Learner|理想学习者形象]]来影响——但不决定——成员的学习思维和行动。个体信念会因性别、社会经济地位、居住地区、政治环境、年龄和角色等因素而偏离文化模型([[Argument_Li_2012_Cambridge|Li, 2012, pp.114-115]])。
+Li 强调这些是**文化层面**的模型（culture-level models），而非个体模型。文化模型通过共享的语言和[[Ideal Learner|理想学习者形象]]来影响——但不决定——成员的学习思维和行动。个体信念会因性别、[[Socioeconomic Status|社会经济地位]]、居住地区、政治环境、年龄和角色等因素而偏离文化模型([[Argument_Li_2012_Cambridge|Li, 2012, pp.114-115]])。
 
 ---
 

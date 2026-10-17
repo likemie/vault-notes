@@ -8,7 +8,7 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
   - narrative
   - life-history
 related_concepts:
+  - "[[Intentionality]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Narrative Analysis
@@ -56,7 +57,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 叙事分析（Narrative Analysis）是把故事（story）作为人类意义建构与表达的基本形式来分析质性数据的分析方法。布鲁纳（Jerome Bruner）（1986）指出人类以"故事文本"（storied text）来制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与"主观景观"（subjective landscapes）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介（pp. 14, 19, 24, 29）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.3）
+> 叙事分析（Narrative Analysis）是把故事（story）作为人类意义建构与表达的基本形式来分析质性数据的分析方法。布鲁纳（Jerome Bruner）（1986）指出人类以"故事文本"（storied text）来制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与"主观景观"（subjective landscapes）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介（pp. 14, 19, 24, 29）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.3）
 
 > [!citation-card]- 关键定义
 > 人类以"故事文本"制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.3）

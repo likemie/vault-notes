@@ -7,9 +7,9 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 159
-argument_related_level: 15
-argument_related_stars: "💎💎💎💎💎"
+argument_related_count: 161
+argument_related_level: 16
+argument_related_stars: "💎💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "Cultural Foundations of Learning: East and West"
 authors:
@@ -96,6 +96,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Active Learning]]"
   - "[[Chain of Evidence]]"
+  - "[[Socioeconomic Status]]"
   - "[[Apprenticeship]]"
   - "[[Flow]]"
   - "[[Executive Function]]"
@@ -139,6 +140,7 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Self-Determination Theory]]"
   - "[[Inquiry Cycle]]"
+  - "[[Behaviorism]]"
   - "[[Phenomenology]]"
   - "[[Growth Mindset]]"
   - "[[Attribution Theory]]"
@@ -1670,7 +1672,7 @@ Li 在章末做了一个关键的方法论澄清(pp.114-115)：
 > [!warning] 文化层面模型的边界
 > 这些学习模型是**文化层面**的（culture-level models），不是个体模型。两者有本质区别：
 > - **文化模型** 通过共享语言和理想形象影响——但不决定——成员的思维和行动。每个文化成员都能识别自己的文化模型，但不一定完全符合它
-> - **个体信念** 会因性别、社会经济地位、居住地区、政治环境、年龄和角色等因素而偏离文化模型，且变化速度更快
+> - **个体信念** 会因性别、[[Socioeconomic Status|社会经济地位]]、居住地区、政治环境、年龄和角色等因素而偏离文化模型，且变化速度更快
 > - **文化模型趋于稳定**——正如第 1 章中 Li 论述"文化比政权持久"——而个体信念随生活环境迅速变化
 
 > [!example] 为什么这个区分很重要？
@@ -2042,7 +2044,7 @@ Li 的中文词汇研究收集了以下表达(p.144)："专心学习"、"潜心�
 
 Li 的回答不是"你看错了"，而是"你犯了四个方法论错误"**。这四个谬误不是并列列举——它们构成了一个从"误读行为"到"误解过程"再到"误判结果"的**递进批评链(pp.136-139)。
 
-> [!warning] 谬误 1：行为主义谬误（将可观察行为等同于内心过程）
+> [!warning] 谬误 1：[[Behaviorism|行为主义]]谬误（将可观察行为等同于内心过程）
 > **发生了什么事** 西方观察者走进一间中国教室，看到学生齐声朗读、反复抄写、背诵课文。观察者的大脑自动完成了一个推断——"这些行为 = 死记硬背 = 没有理解"。
 >
 > **这个推断错在哪里** 它用了一个**被心理学早已抛弃的行为主义假设**——将外部行为（可观察的）等同于内部心理过程（不可观察的）。一个学生坐在那里反复抄写，**你无法从抄写这个行为本身知道他在想什么**——他可能在机械复制，也可能在琢磨每个字的结构，也可能在感受文字的节奏，也可能在思考作者为什么选择这个词而不是那个词。
@@ -3552,7 +3554,7 @@ Li 以全书的总结性声明收束(pp.347-348)：
 
 > [!warning]
 > ### 样本与证据基础
-> 全书的实证基础存在几个系统性问题。第一，**精英样本偏误** 核心实证研究以中国和欧裔美国大学生为比较对象——大学生本身就是社会经济地位、地区和年龄的三重选择，而 MCC 研究的两组也均为中产阶级家庭。第二，**概念证据与行为证据之间的鸿沟**[[Prototype Methods\|原型方法]]捕捉的是文化成员的共享表征（人们说"学习需要勤奋"），而非实际学习行为（人们是否真的勤奋学习）。第三，**东亚侧证据来源高度集中于 Li 自己的研究**，而西方侧引用了 Dweck et al.多位独立研究者的成熟理论——读者看到的"东亚学习图景"主要由 Li 一人建构。第四，部分核心主张的实证基础偏薄——如"东亚学校基本不存在 [[Nerd]] 骚扰"依赖 Li 对东亚学者的个人询问(p.119 note 63)，移民儿童研究中未排除 bilingual 发展滞后和家庭选择效应等替代解释。
+> 全书的实证基础存在几个系统性问题。第一，**精英样本偏误** 核心实证研究以中国和欧裔美国大学生为比较对象——大学生本身就是[[Socioeconomic Status|社会经济地位]]、地区和年龄的三重选择，而 MCC 研究的两组也均为中产阶级家庭。第二，**概念证据与行为证据之间的鸿沟**[[Prototype Methods\|原型方法]]捕捉的是文化成员的共享表征（人们说"学习需要勤奋"），而非实际学习行为（人们是否真的勤奋学习）。第三，**东亚侧证据来源高度集中于 Li 自己的研究**，而西方侧引用了 Dweck et al.多位独立研究者的成熟理论——读者看到的"东亚学习图景"主要由 Li 一人建构。第四，部分核心主张的实证基础偏薄——如"东亚学校基本不存在 [[Nerd]] 骚扰"依赖 Li 对东亚学者的个人询问(p.119 note 63)，移民儿童研究中未排除 bilingual 发展滞后和家庭选择效应等替代解释。
 
 > [!warning]
 > ### 文化本质主义与东西二元的过度简化

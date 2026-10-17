@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Dominique Foray]]"
   - "[[Chris Freeman]]"
   - "[[Richard Nelson]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Bengt-Åke Lundvall

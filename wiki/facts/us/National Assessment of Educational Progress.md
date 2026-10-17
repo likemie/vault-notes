@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
+  - "[[Socioeconomic Status]]"
   - "[[Policy Entrepreneur]]"
 related_theories: []
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # National Assessment of Educational Progress
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > - **统筹与技术实施中枢（NCES）** 负责数据收集、试题编制合同管理（长期委托教育测试服务中心 [[Educational Testing Service|ETS]] 等专业测量机构）以及国家统计报告发布。
 > - **独立国家政策监督板（NAGB）** 26 人无党派治理委员会，成员涵盖州长、州议员、学区总监、课堂特级教师及商业领袖，全权负责设定 NAEP 测验大纲框架与及格切分点。
 > - **各州协同机构（州教育部 NAEP 协调专员）** 各州教育厅设立专职协调员，负责在全州[[Random Sampling|随机抽样]]选中的学区与学校中落实测试组织与保密考务。
-> - **受试抽样群体** 覆盖全美各族裔、不同社会经济背景与英语学习者（ELL）群体的公立学校代表性常模样本。
+> - **受试抽样群体** 覆盖全美各族裔、不同[[Socioeconomic Status|社会经济背景]]与英语学习者（ELL）群体的公立学校代表性常模样本。
 
 ---
 

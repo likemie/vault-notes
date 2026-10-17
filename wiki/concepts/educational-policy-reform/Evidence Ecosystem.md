@@ -9,9 +9,9 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 89
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - knowledge-mobilisation
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Utilization]]"
+  - "[[Dynamic Assessment]]"
   - "[[Feedback]]"
   - "[[Engagement in and with Research]]"
   - "[[Innovation Ecosystem]]"
@@ -142,7 +143,7 @@ updated: 2026-10-17
 > *Early conceptualisations of knowledge transfer as a linear process have evolved into an understanding of research ecosystems that recognise complexity... In this model, evaluation, synthesis, translation, use of research, and innovation are explicitly linked.*
 
 > [!citation-card] 宏观生态治理从结果问责转向过程透明度与自我监控
-> “在宏观系统层面，理解与改进证据使用要求建立持续的评估与反馈机制。传统的治理考评聚焦于下游结果的刚性问责，而全系统的长效变革呼唤个体与学校对证据使用展开持续的自我监控与反思，涵盖对连接证据生产与利用全过程结构与机制的动态评估。”（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 144–145]]）
+> “在宏观系统层面，理解与改进证据使用要求建立持续的评估与反馈机制。传统的治理考评聚焦于下游结果的刚性问责，而全系统的长效变革呼唤个体与学校对证据使用展开持续的自我监控与反思，涵盖对连接证据生产与利用全过程结构与机制的[[Dynamic Assessment|动态评估]]。”（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 144–145]]）
 >
 > *"To understand and improve evidence use in systems, then, there is a need for ongoing evaluation and [[Feedback]] mechanisms... Where traditional measures focus on accountability through outcomes, sustained system-wide changes call for the continuous self-monitoring of individual and school [[Engagement in and with Research\|Engagement in Research]] use."*
 

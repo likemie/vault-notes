@@ -9,7 +9,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
   - "[[Washington Consensus]]"
+  - "[[Socioeconomic Status]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theoretical Perspective]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Stephen P. Heyneman
@@ -151,7 +152,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 海尼曼-洛克斯利效应的当代稳定性
-> > 随着发展中国家经济发展与普及教育推进，学校效应是否依然压倒家庭社会经济地位（SES）。
+> > 随着发展中国家经济发展与普及教育推进，学校效应是否依然压倒家庭[[Socioeconomic Status|社会经济地位]]（SES）。
 > >
 > > - **原初立场（Heyneman & Loxley）** 贫困国家家庭阶层差异在学校微观成就上的解释力微弱，学校资源配置起决定性作用。
 > > - **当代国际大型测评反思（[[PISA]]/[[TIMSS]] 数据研究）** 随着全球文凭竞争与影子教育扩散，中低收入国家的家庭背景解释力正急剧上升，该效应在部分新兴经济体出现衰退。

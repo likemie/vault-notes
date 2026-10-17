@@ -8,7 +8,7 @@ aliases:
 summary: "围绕学生差异动态调整教学进度、内容难度与支架强度的微观教学组织形式；元分析显示其孤立效应微弱，其实质成效高度依赖教师认知结构的持续在场与小班额等组织条件的交互支撑，绝非放任学生自力更生的责任外包。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[B. F. Skinner]]"
   - "[[Ivan Snook]]"
 related_facts:
   - "[[Picking Up the Pace]]"
@@ -151,7 +152,7 @@ updated: 2026-10-17
 ## 演进历程与代表性争论
 
 > [!dev-timeline] 概念演变历程
-> - **1960–1970 年代 — 程序教学与个别化教学系统（[[Problem Solving Inventory|PSI]]）兴起** 斯金纳的程序教学机与凯勒计划（Keller Plan）风行，试图通过标准小步子教材与自定步调考核实现完全个别化，因抽离了社会人际互动与师生对话而逐渐式微。
+> - **1960–1970 年代 — 程序教学与个别化教学系统（[[Problem Solving Inventory|PSI]]）兴起** [[B. F. Skinner|斯金纳]]的程序教学机与凯勒计划（Keller Plan）风行，试图通过标准小步子教材与自定步调考核实现完全个别化，因抽离了社会人际互动与师生对话而逐渐式微。
 > - **1992–2009 年 — [[Meta-analysis|元分析]]综合的低[[Effect Size|效应量]]量化定性** [[John Hattie|约翰·哈蒂]]（John Hattie, 1992, 2008）综合 134 项元分析指出，个别化教学平均效应量仅为 $d = 0.14$，在 138 项干预中居于垫底梯队，从而在循证政策界确立了“个别化教学投入大而收效微”的主流定调。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **2009 年 — 新西兰[[Critical Pedagogy|批判教育学]]者揭示情境与[[Variable|变量]]交互机制** [[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判哈蒂割裂变量的做法，基于奥克兰 [[Picking Up the Pace|PACE 项目]]指出个别化教学与[[Class Size|班额]]、教师专业培训深度交织，不能被简单单变量统计所否定。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
 > - **2015 年至今 — 北欧教学差异化反思与结构化回归** 丹麦与瑞典学者（[[Argument_Laursen_2015_Paideia|Laursen, 2015]]; Håkansson, 2015）深入解构“自由个别化”造成的教师支持退场与学生迷失，倡导将个别化重新锚定于[[Structured Teaching|结构化教学]]与共同学习社群之中。

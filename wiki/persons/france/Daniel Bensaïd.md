@@ -11,7 +11,7 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,13 +46,14 @@ related_methods: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Edward Said]]"
+  - "[[Daniel Bensaïd]]"
   - "[[Carlos Alberto Torres]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Daniel Bensaïd

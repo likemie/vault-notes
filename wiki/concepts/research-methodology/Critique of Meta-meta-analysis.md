@@ -11,10 +11,10 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - critique
   - meta-meta-analysis
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemological Break]]"
   - "[[Metacognition]]"
+  - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[Cargo Cult Science]]"
   - "[[Homework]]"
@@ -113,7 +114,7 @@ updated: 2026-10-17
 > > 从统计学与数学模型基础揭示二阶简单聚合所产生的计算失真与前提假设崩溃。
 > >
 > > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** 推导二阶元分析必须满足的 6 项数学要求，证明《[[Visible Learning\|可见的学习]]》在效应量测度混合、SE/SD 混淆（如 Eisenstaedt 1990 中 SE=2.74 被当 SD 导致 $d$ 从 $-0.80 \to -8.29$）、未加权平均（正确加权后 $d$ 从 $0.59 \to 0.23$，排名从 #26 骤跌至 #98）等所有步骤均存在严重违背。（pp. 24–33）
-> > - **[[Argument_Allerup_2015_Paideia\|Allerup (2015)]]** 批评二阶排名未报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]]（$d=0.71$ 与 $0.72$ 的相邻排名差异可能只是误差），忽略正态分布前提（Cauchy 型厚尾分布使均值崩溃），且单一边际效应量易将未控制的社会经济背景第三[[Variable\|变量]]误读为干预效果（TIMSS 2011 丹麦数学教师资质未调整效应量 0.15，控制背景后降至 0.08 且不显著）。（pp. 45–51）
+> > - **[[Argument_Allerup_2015_Paideia\|Allerup (2015)]]** 批评二阶排名未报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]]（$d=0.71$ 与 $0.72$ 的相邻排名差异可能只是误差），忽略正态分布前提（Cauchy 型厚尾分布使均值崩溃），且单一边际效应量易将未控制的[[Socioeconomic Status|社会经济背景]]第三[[Variable\|变量]]误读为干预效果（TIMSS 2011 丹麦数学教师资质未调整效应量 0.15，控制背景后降至 0.08 且不显著）。（pp. 45–51）
 > > - **[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]** 证明组间比较、前后比较与相关转换三种公式对同一数据产生不可调和的矛盾排名，二阶未加校正的混合使用破坏了横向可比性。（pp. 241–245）
 > > - **LeLorier et al. (1997)** 指出一级元分析中的偏倚不仅在聚合层级间传播，二阶纳入与分类决策更会催生新的系统性偏见。[[Argument_OConnor_2020_AJLL\|(O'Connor, 2020, p. 147)]]
 >

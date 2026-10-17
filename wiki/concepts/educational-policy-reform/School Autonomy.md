@@ -8,7 +8,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并闭合受援国的政策探索空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Competitiveness]]"
   - "[[School Choice]]"
+  - "[[Socioeconomic Status]]"
   - "[[Institutional Displacement]]"
   - "[[School Leadership]]"
   - "[[Champ]]"
@@ -63,7 +64,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # School Autonomy
@@ -119,7 +120,7 @@ updated: 2026-10-16
 >   2. *竞争与个人主义悖论*：倡导学校竞争与个人主义问责，瓦解了公立系统内部的横向协同与系统公平；
 >   3. *权力下放与经济理性主义悖论*：官僚机构去中心化使深陷社会经济劣势的学校失去制度庇护；
 >   4. *需求本位拨款的执行赤字悖论*：缺乏透明度与精细支持的拨款模式，迫使校长沦为疲于填补经费窟窿的企业家。
-> - **公立学校残余化机制（Residualisation）** 市场驱动的[[School Choice|择校]]竞争导致优势学校通过隐性生源筛选吸引高阶层家庭，而将所谓“高成本、高需求”的学生（特殊需求、原住民、低 SES 家庭）推向弱势学校，使后者成为被社会抛弃与污名化的兜底残余机构。(Keddie et al., 2020, pp. 434, 437)
+> - **公立学校残余化机制（Residualisation）** 市场驱动的[[School Choice|择校]]竞争导致优势学校通过隐性生源筛选吸引高阶层家庭，而将所谓“高成本、高需求”的学生（特殊需求、原住民、低 [[Socioeconomic Status|SES]] 家庭）推向弱势学校，使后者成为被社会抛弃与污名化的兜底残余机构。(Keddie et al., 2020, pp. 434, 437)
 > - **[[Global Educational Discourse|全球教育话语]]五大支柱的共生捆绑（Five Pillars Bundling）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 348]]）指出，跨国机构从不孤立推行自主权，而是将其与*行政分权、教师专业化、能力本位灵活课程、中央质量评估系统*成套捆绑，构成[[Disciplina and Doctrina|规训]]民族国家的主导模型。
 > - **校长的目标置换与身心异化（Goal [[Institutional Displacement|displacement]] & Burnout）** 自主权改革强迫[[School Leadership|学校领导]]者从教育专家蜕变为“商业企业家与危机公关”，专注于争夺优质生源与应试指标以保全生计，引发普遍的工作过载、身心衰竭与职业倦怠。(Keddie et al., 2020, pp. 438–440)
 
@@ -239,7 +240,7 @@ updated: 2026-10-16
 > [!stat-cards]- 澳大利亚学校自主权核心实证数据
 > - **575 所学校** 西澳大利亚州自 2010 年起转为独立公立学校（[[Independent Public Schools Western Australia|IPS]]）的学校总规模，构成该州近代最激进的公立系统改组。
 > - **7000 万澳元** 澳大利亚联邦政府在 2015 年承诺用于协助公立学校提升自主权与独立性的专项预算总额。
-> - **4 倍筹资差距** 罗威与佩里（Rowe & Perry, 2020）发现高 SES 社区公立学校依托自主权筹集的家长捐赠与校庆收入，高达低 SES 社区学校的 4 倍（东郊学校单次校庆可募资 3 万澳元，西郊学校不足 2000 澳元）。
+> - **4 倍筹资差距** 罗威与佩里（Rowe & Perry, 2020）发现高 [[Socioeconomic Status|SES]] 社区公立学校依托自主权筹集的家长捐赠与校庆收入，高达低 SES 社区学校的 4 倍（东郊学校单次校庆可募资 3 万澳元，西郊学校不足 2000 澳元）。
 > - **0.5% 资金份额** 跨国金融机构向发展中国家提供的教育贷款占受援国总开支的比重不足 0.5%，却凭借学校自主权等捆绑方案撬动了整套制度转轨。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 346)]]
 
 > [!ref-table]- 跨情境学校自主权实证结果对照

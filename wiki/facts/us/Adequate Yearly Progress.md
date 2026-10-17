@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Performance Indicators]]"
+  - "[[Socioeconomic Status]]"
   - "[[College and Career Readiness]]"
   - "[[Student Mobility]]"
   - "[[Transiency]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Adequate Yearly Progress
@@ -96,7 +97,7 @@ updated: 2026-10-16
 >   4. **安全港条款（Safe Harbor）** 若某亚群未达绝对标准，但该亚群未达标学生比例比前一年减少 10% 以上，且在其他学术指标上取得进步，可视为达标。
 > - **阶梯式制裁梯级**
 >   - **连续 2 年未达标** 判定为“需改进学校”（School Improvement），必须允许本校学生转入同区达标公立学校，并动员联邦资金提供交通补贴。
->   - **连续 3 年未达标** 必须动员 [[Title I of the Elementary and Secondary Education Act|Title I]] 经费向低收入学生免费提供课外“补充教育服务”（Supplemental Educational Services, SES，如私立辅导机构）。
+>   - **连续 3 年未达标** 必须动员 [[Title I of the Elementary and Secondary Education Act|Title I]] 经费向低收入学生免费提供课外“补充教育服务”（Supplemental Educational Services, [[Socioeconomic Status|SES]]，如私立辅导机构）。
 >   - **连续 4 年未达标** 实施“纠正措施”（Corrective Action），包括更换核心课程、削减管理层权限或延长学日。
 >   - **连续 5 年未达标** 制定“学校重组计划”（Restructuring Plan）。
 >   - **连续 6 年未达标** 强制执行重组：转为特许学校（Charter School）、更换全部校长教师、由州教育厅直接接管或彻底关闭。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]

@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -72,7 +72,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Popular Education]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
@@ -116,7 +117,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings
 
@@ -253,7 +254,7 @@ updated: 2026-10-16
 
 #### 2. 朱利安准实证科学并非现代价值无涉实证论，而是归属欧陆二级精神科学并服从全人教化
 
-在 20 世纪下半叶的学科史叙事中，朱利安因最早倡导建立事实分析图表而被尊为实证主义先驱。然而，当行为主义实证学派以现代定量测量的“[[Value Neutrality|价值无涉]]”尺度检验其问卷时，却指认其题项充斥着大量不可容忍的主观偏见与诱导性提问：
+在 20 世纪下半叶的学科史叙事中，朱利安因最早倡导建立事实分析图表而被尊为实证主义先驱。然而，当[[Behaviorism|行为主义]]实证学派以现代定量测量的“[[Value Neutrality|价值无涉]]”尺度检验其问卷时，却指认其题项充斥着大量不可容忍的主观偏见与诱导性提问：
 
 > [!critique-method] 20 世纪行为实证派对朱利安问卷的“偏见”批判
 > - **先验哲学预设主导提问（Biased Questions）** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）（Noah & Eckstein, 1969:29）尖锐指出，朱利安问卷过于冗长且带有严重主观偏见，其对理想教育目标的先验哲学假设彻底渗透并支配了所提的问题，绝非客观事实调查。（p.16）

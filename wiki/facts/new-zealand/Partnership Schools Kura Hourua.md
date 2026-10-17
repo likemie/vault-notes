@@ -12,7 +12,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Policy Window]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Academic Achievement]]"
   - "[[Educational Management Organisation]]"
   - "[[Mentorship]]"
@@ -64,7 +65,7 @@ updated: 2026-10-17
 > [!policy-context] 制度背景
 > - **政治契机与交换筹码** 2011 年 12 月新西兰大选后，执政的国家党（National Party）因未取得国会绝对多数，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将引入英美模式特许学校作为联合执政不可退让的政治交换条件，瞬间撬开了国家[[Policy Window|政策之窗]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 20)]]
 > - **法定授权基石** 国会通过《2013 年教育修正法案》（Education Amendment Act 2013），正式在现行法律框架内设立 PSKH 类别，赋予教育部长直接批准由外部多元赞助者（Sponsors）以商业合同形式运营多所公立资助学校的自由裁量权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 20)]]
-> - **制度宗旨与目标群体** 官方[[Discourse|话语]]宣称专为改善“公立教育系统未能妥善服务”（Priority Learners）的学生群体而设计，重点面向原住民毛利（Māori）、太平洋岛民（Pasifika）、低社会经济地位家庭以及有特殊学习需求的青少年。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 29)]]
+> - **制度宗旨与目标群体** 官方[[Discourse|话语]]宣称专为改善“公立教育系统未能妥善服务”（Priority Learners）的学生群体而设计，重点面向原住民毛利（Māori）、太平洋岛民（Pasifika）、低[[Socioeconomic Status|社会经济地位]]家庭以及有特殊学习需求的青少年。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 29)]]
 
 ---
 

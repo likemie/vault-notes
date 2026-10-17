@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Torsten Husén]]"
   - "[[C. Arnold Anderson]]"
   - "[[Max Eckstein]]"
   - "[[Harold Noah]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Torsten Husén

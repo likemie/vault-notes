@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Epistemology]]"
   - "[[Growth]]"
+  - "[[Socioeconomic Status]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
   - "[[Conatus]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Gender Differences in Academic Achievement
@@ -127,7 +128,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **早期阶段：校外家庭与生物学单因论** 传统研究将学业性别差距归因于先天脑神经差异或校外家庭社会经济背景的不可控影响。
+> - **早期阶段：校外家庭与生物学单因论** 传统研究将学业性别差距归因于先天脑神经差异或校外[[Socioeconomic Status|家庭社会经济背景]]的不可控影响。
 > - **中期演进：校内过程[[Variable\|变量]]与行为评价中介** 研究焦点转向学校可控因素，实证揭示课堂规范适应、[[Self-control\|自我控制]]与动机投入在成绩形成中的决定性中介作用。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015)]]
 > - **当代深化：[[Epistemic Cognition\|认识论认知]]与心理性别角色整合** 当代研究进一步将[[Epistemological Beliefs\|认识论信念]]（能力可塑性、确定知识）与微观[[Task Structure\|任务结构]]（良构 vs 劣构）纳入框架，并倡导以心理性别取向超越生理性别分类。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007)]]
 

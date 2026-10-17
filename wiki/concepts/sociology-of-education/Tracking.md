@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Grade Retention]]"
+  - "[[Socioeconomic Status]]"
   - "[[Comprehensive Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Academic Engagement]]"
@@ -93,7 +94,7 @@ updated: 2026-10-17
 > [!citation-card] 跨国评估对分轨制损害公平与动机的实证定性
 > [[OECD\|经合组织]]（[[OECD]]）基于 [[PISA]] 跨国大样本数据，对分轨制破坏教育公平的机制给出了系统性定性：
 > 
-> 学校系统中的层化（例如[[Grade Retention\|留级]]以及过早根据能力将学生选拔分流至不同‘轨道’或不同类型学校）与教育公平呈现显著负相关；且高度分层系统中的学生学习动机往往显著低于低分层系统……按学业成绩隔离学生的学校体系，往往在统计上高度重合于按社会经济地位和正规数学暴露频率的隔离。（OECD, 2013b, p. 14, Slide 86; 引自 [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）
+> 学校系统中的层化（例如[[Grade Retention\|留级]]以及过早根据能力将学生选拔分流至不同‘轨道’或不同类型学校）与教育公平呈现显著负相关；且高度分层系统中的学生学习动机往往显著低于低分层系统……按学业成绩隔离学生的学校体系，往往在统计上高度重合于按[[Socioeconomic Status|社会经济地位]]和正规数学暴露频率的隔离。（OECD, 2013b, p. 14, Slide 86; 引自 [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）
 > 
 > *Stratification in school systems (e.g. grade repetition and selecting students at a young age for different ‘tracks’ or types of schools) is negatively related to equity; and students in highly stratified systems tend to be less motivated than those in less-stratified systems... school systems that segregate students according to their performance tend to be those where students are also segregated by socio-economic status and by the frequency of their exposure to formal mathematics.*
 
@@ -124,7 +125,7 @@ updated: 2026-10-17
 
 > [!feature] 核心要素
 > - **能力固化假设（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
-> - **双重隔离机制（Double Segregation）** 跨国评估实证揭示，学力分轨绝非单纯的技术分类，它在统计分布上与家庭社会经济地位（SES）及少数族裔背景高度重合，将原本隐蔽的阶层不平等固化为显性的制度隔离（OECD, 2013b; [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）。
+> - **双重隔离机制（Double Segregation）** 跨国评估实证揭示，学力分轨绝非单纯的技术分类，它在统计分布上与家庭[[Socioeconomic Status|社会经济地位]]（SES）及少数族裔背景高度重合，将原本隐蔽的阶层不平等固化为显性的制度隔离（OECD, 2013b; [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）。
 > - **课程暴露与机会鸿沟（Opportunity Gap in Exposure）** 低轨学生遭遇教学节奏放缓与正规核心课程（如高级形式数学）暴露频次的系统性剥夺；缺乏挑战性思维训练使原本微小的学业差距在制度化[[Disciplina and Doctrina\|规训]]中被成倍拉大。
 > - **个人降级与自我实现的失败预言（Personal Downgrading & Self-Fulfilling Prophecy）** 低轨学生吸收了“自己能力有限、努力无用”的实体论信念，体验深刻的自我贬低并降低努力水平；教师亦对低轨班级持有低期望与防卫性教学，最终“印证”了初始预设（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 98–99]]）。
 
@@ -140,7 +141,7 @@ updated: 2026-10-17
 > 探讨国家中等教育体系的分层分轨程度如何系统性放大社会背景差距，并对青少年的内在学习动机产生负向挫伤。
 
 > [!claim] [[OECD]]; Grey & Morris
-> **宏观层化对公平与动机的双重抑制** 基于 [[PISA]] 全球数据库的跨国回归与实证分析证实，中等教育体制的分轨与[[Grade Retention\|留级]]等层化手段，对教育系统的公平性构成直接破坏；过早进行学力选拔与分轨的国家，其家庭社会经济背景对学生[[Academic Achievement\|学业成就]]的解释力显著更高，且处于高度分层系统中的学生，其普遍的学习效能感与[[Academic Engagement\|学业投入]]动机均显著弱于全纳性[[Comprehensive Education|综合教育]]系统中的同龄人。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
+> **宏观层化对公平与动机的双重抑制** 基于 [[PISA]] 全球数据库的跨国回归与实证分析证实，中等教育体制的分轨与[[Grade Retention\|留级]]等层化手段，对教育系统的公平性构成直接破坏；过早进行学力选拔与分轨的国家，其[[Socioeconomic Status|家庭社会经济背景]]对学生[[Academic Achievement\|学业成就]]的解释力显著更高，且处于高度分层系统中的学生，其普遍的学习效能感与[[Academic Engagement\|学业投入]]动机均显著弱于全纳性[[Comprehensive Education|综合教育]]系统中的同龄人。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
 
 ---
 
@@ -238,7 +239,7 @@ updated: 2026-10-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 SES 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 [[Socioeconomic Status\|SES]] 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（Setting and Streaming 专题，2021） | 英格兰及国际中等学校能力分组[[Meta-analysis\|元分析]]与长期试验数据池 | 循证清算综合元分析与试验长期追踪 | 单科分组与全科分流（Setting and Streaming）对学业产出与阶层差距的影响 | 总体学业增益几乎为零（0 个月）；对处于低轨的弱势学生产生净损害（$-1$ 个月学业倒退），低轨学生普遍遭遇教学降阶与师资边缘化；高阶学生微弱获益以加剧群体间差距为代价 | 累积证据安全性评定为低至中等 | 证实能力分流不仅无助于整体学业提升，反而是制度化扩大贫富差距与阶层隔离的组织杠杆 |
 

@@ -8,10 +8,10 @@ summary: "美国印第安纳大学教育心理学名誉教授，全美学校纪�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1953"
 lifespan: "c. 1953–至今"
 tags:
@@ -23,10 +23,12 @@ tags:
 related_concepts:
   - "[[Academic Attrition]]"
   - "[[Classroom Management]]"
+  - "[[Socioeconomic Status]]"
   - "[[Falsification]]"
   - "[[Academic Achievement]]"
   - "[[Knowledge Mobilisation]]"
 related_theories:
+  - "[[Behaviorism]]"
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods: []
 related_instruments: []
@@ -38,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Russell J. Skiba
@@ -62,7 +64,7 @@ updated: 2026-10-16
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1980–1989** 获得明尼苏达大学教育心理学博士学位，受行为主义干预与学校心理测量传统训练，初期聚焦于特殊需要学生的行为评估与[[Classroom Management\|课堂管理]]技术。
+> - **1980–1989** 获得明尼苏达大学教育心理学博士学位，受[[Behaviorism|行为主义]]干预与学校心理测量传统训练，初期聚焦于特殊需要学生的行为评估与[[Classroom Management\|课堂管理]]技术。
 > - **1990–2000** 任教于印第安纳大学，创立印第安纳教育政策中心学校纪律研究室。面对 1990 年代全美泛滥的“严打”与学校零容忍立法潮，率先开展全州范围的学籍惩戒大数据挖掘。
 > - **2001–2014** 创立并领导“公平项目”（The Equity Project），发表《惩戒的肤色》（*The Color of Discipline*）等里程碑报告；担任美国心理学会（APA）零容忍政策特别工作组联合主席；多次受邀前往国会山向[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]作证。
 > - **2015–至今** 积极推动全美各州废除对幼儿及小学生的停学处分，主导全美多层级行为支持（PBIS）与恢复性司法干预试验，并被 [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 等学者作为政策转化成功范例写入研究者导航框架。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
@@ -73,7 +75,7 @@ updated: 2026-10-16
 
 > [!work-line] 代表性学术论著
 > - **2000 — *The Zero Tolerance Policy: An Overview*** 系统梳理了全美学校将刑法领域的“零容忍”机械移植入教育系统后的实践后果，首次指明严苛惩戒不仅无助于减少暴力，反而导致普通轻微违纪学生被大规模剥夺受教育权。
-> - **2002 — *The Color of Discipline: Sources of Racial and Gender Disproportionality in School Punishment*** 基于数十万样本的实证研究，证明在控制了违纪行为严重性与社会经济地位后，非裔学生因主观判定性质的违规（如“不敬”、“挑衅”）被停学处分的概率显著高于白人同侪，确凿论证了系统性制度偏见的存在。
+> - **2002 — *The Color of Discipline: Sources of Racial and Gender Disproportionality in School Punishment*** 基于数十万样本的实证研究，证明在控制了违纪行为严重性与[[Socioeconomic Status|社会经济地位]]后，非裔学生因主观判定性质的违规（如“不敬”、“挑衅”）被停学处分的概率显著高于白人同侪，确凿论证了系统性制度偏见的存在。
 > - **2008 — *Are Zero Tolerance Policies Effective in the Schools? An Evidentiary Review and Recommendations*** 代表美国心理学会工作组发布的权威循证审查，全面[[Falsification\|证伪]]了“驱逐违纪学生有助于提升其他学生[[Academic Achievement\|学业成绩]]”的政策假设，成为全美学界与立法界反思惩戒制度的分水岭文献。
 > - **2016 — *Inequalities in School Discipline: Research and Recommended Solutions*** 总结数十年干预经验，系统提出结合多层级支持系统与恢复性正义的可替代执行路径。
 

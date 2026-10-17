@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - lifestyle-intervention
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Socioeconomic Status]]"
 related_theories: []
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
@@ -32,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Childhood Obesity Governance
@@ -55,7 +56,7 @@ updated: 2026-10-16
 > 儿童肥胖治理将儿童健康危机界定为深植于现代生活方式、饮食结构、社会经济条件与校园环境的系统性难题，确立了融合学校健康教育课程、校园食品营养标准、产业税收调节与城市慢行规划的多维度复合治理框架。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 479–480)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 遏制儿童与青少年肥胖率上升趋势，促进健康饮食与日常体育活动，消除由社会经济背景导致的儿童健康差距。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 480)]]
+> - **政策目标** 遏制儿童与青少年肥胖率上升趋势，促进健康饮食与日常体育活动，消除由[[Socioeconomic Status|社会经济背景]]导致的儿童健康差距。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 480)]]
 > - **适用对象** 中小学与幼儿园、食品加工制造企业、广告与媒体机构、地方交通规划部门以及学生家庭。
 > - **政策工具** 
 >   1. **教育与文化工具** 在学校课程中嵌入食品营养、烹饪技能与身体活动知识（Building Knowledge, Skills and Awareness around Food and Physical Activity）；

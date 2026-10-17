@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/autonomy
   - theme/critical-thinking
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
+  - "[[Behaviorism]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Factorial Design]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Learner Autonomy
@@ -107,7 +108,7 @@ updated: 2026-10-16
 > [!boundary]- 概念边界辨析
 > - **不等于完全孤立自学（Isolated Self-Study）** 孤立自学缺乏社会交往与外部参照；学习者自主性强调在社会文化情境中通过师生对话、[[Peer-Supported Learning\|同伴互助]]反思达成“自主的相互依存（Autonomous Interdependence）”。
 > - **不等于缺乏支架的放任个别化（Unguided Individualisation）** 瑞典教育改革教训表明（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]），如果仅将课堂时间全盘交给学生自学排期而剥夺教师的结构化领导，基础薄弱学童将陷入“迷失”与成绩暴跌。
-> - **不等于机械的算法软件刷题（Automated Drill）** 仅遵照自适应学习机程序机械完成关卡任务属于行为主义的受控反应，并不具备主动设定探究假说、批判反思意义与[[Reflexivity\|反身性]]调节的高阶自主性。
+> - **不等于机械的算法软件刷题（Automated Drill）** 仅遵照自适应学习机程序机械完成关卡任务属于[[Behaviorism|行为主义]]的受控反应，并不具备主动设定探究假说、批判反思意义与[[Reflexivity\|反身性]]调节的高阶自主性。
 
 ---
 

@@ -10,10 +10,10 @@ summary: "美国著名阅读研究专家与元分析学者，因其主持的 198
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1951"
 died: "2005"
 lifespan: "1951–2005"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Visible Learning]]"
   - "[[Language Experience Approach]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Steven Stahl
@@ -92,5 +93,5 @@ updated: 2026-10-16
 ## 争议与评论
 
 > [!critique-method] 时代错误（Anachronism）与证据库污染
-> 斯塔尔在其 1989 年的[[Meta-analysis\|元分析]]中，将[[Language Experience Approach\|语言经验法]]与[[Whole Language\|全语言]]合并为“全语言/语言经验法”进行计算，导致全语言运动诞生前数十年的行为主义早期[[Intervention Research\|干预研究]]（如布拉齐尔与特雷尔［Brazziel & Terrell, 1962］）被计入全语言的实证证据（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]]）。
+> 斯塔尔在其 1989 年的[[Meta-analysis\|元分析]]中，将[[Language Experience Approach\|语言经验法]]与[[Whole Language\|全语言]]合并为“全语言/语言经验法”进行计算，导致全语言运动诞生前数十年的[[Behaviorism|行为主义]]早期[[Intervention Research\|干预研究]]（如布拉齐尔与特雷尔［Brazziel & Terrell, 1962］）被计入全语言的实证证据（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]]）。
 > 麦基与洛马斯（McGee & Lomax, 1990）对此提出严厉指责，认为这是“混淆苹果与橘子”，语言经验法的研究结果变相用于对全语言进行推论 (p.144)。虽然斯塔尔在 1994 年公开承认了这一时代错误并做出了修正，但[[John Hattie\|哈蒂]]在《VL》中仍将 1989 年的争议数据和 1994 年的更新数据同时纳入合成，造成了数据的重复计算与严重污染（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145]]）。

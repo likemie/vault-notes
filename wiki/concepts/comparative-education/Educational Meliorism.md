@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 73
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
 related_theories:
   - "[[Hegemony]]"
+  - "[[Behaviorism]]"
   - "[[Human Capital Theory]]"
   - "[[World-Systems Theory]]"
 related_methods:
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Educational Meliorism
@@ -167,7 +168,7 @@ updated: 2026-10-16
 > | **核心旨趣** | 以实现人类福祉、社会善治与制度改进为探究的先验合法性 | 探讨政策决策者在立法博弈中策略性动用外部经验的[[Discourse\|话语]]过程 | 追求剔除研究者主观价值，寻求普遍共变的因果法则 | 狭隘地将科学等同于定量建模，崇拜数理技术工具 |
 > | **[[Epistemology\|认识论]]动力** | 应对现代性危机、启蒙人道主义关怀与国家政治建制 | 解决本土政客的正当性赤字、寻求改革的合法化背书 | 假设演绎检验、经验数据[[Falsification\|证伪]]与中立规律发现 | 官僚问责驱动、指标量化竞赛与跨国排名竞争 |
 > | **对事实的态度** | 经验事实调查全面从属于伦理规范与全人道德教化 | 战略性抽取有利于本土改革论证的特定实绩或条文 | 事实与价值截然二分，追求价值中立的数据集演算 | 事实被降维为可测量的标准化脱水指标 |
-> | **代表人物** | 朱利安、[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托、巴纳德 | 菲利普斯、厄克斯、施泰纳-汉姆西 | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、[[George Bereday\|贝雷迪]] | 战后行为主义实证派学者、现代跨国测试官僚 |
+> | **代表人物** | 朱利安、[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托、巴纳德 | 菲利普斯、厄克斯、施泰纳-汉姆西 | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、[[George Bereday\|贝雷迪]] | 战后[[Behaviorism\|行为主义]]实证派学者、现代跨国测试官僚 |
 
 ---
 

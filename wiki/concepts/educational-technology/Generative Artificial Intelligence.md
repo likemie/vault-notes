@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 148
+related_count: 149
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -81,6 +81,7 @@ related_concepts:
   - "[[Epistemic Virtues and Vices]]"
   - "[[Skill of Questioning]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Justificatory Standards]]"
@@ -375,7 +376,7 @@ updated: 2026-10-17
 > 该命题批判了“AI 必然加剧数字鸿沟与文化垄断”的单一悲观假定，从宏观系统论视角揭示了技术对资源薄弱与层级森严情境的特殊解构与补偿价值。
 
 > [!claim] Chen & Cheung
-> **边际效益递增规律与权力壁垒破除机制的实证确证** 基于[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）对高校[[Experimental Research\|实验研究]]的调节[[Variable\|变量]]检验表明，生成式 AI 的促学成效在不同宏观情境中呈现出高度分化：① **边际效益递增规律** 在国家 ICT 水平较低与低社会经济地位的高校中，由于基础数字与师资资源匮乏，AI 介入带来了雪中送炭式的超额边际增益，展现出缩小教育差距的普惠潜力；② **权力壁垒破除机制** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问暴露无知”恐惧与求助焦虑，生成式 AI 提供了匿名、即时且无评价威胁的探究中介，有效瓦解了层级威慑心理；③ **人机角色分工** 定位于平等的“学习同伴”比单向灌输的“授课导师”更能激发自主探究。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13, 16–18)]]
+> **边际效益递增规律与权力壁垒破除机制的实证确证** 基于[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）对高校[[Experimental Research\|实验研究]]的调节[[Variable\|变量]]检验表明，生成式 AI 的促学成效在不同宏观情境中呈现出高度分化：① **边际效益递增规律** 在国家 ICT 水平较低与低[[Socioeconomic Status|社会经济地位]]的高校中，由于基础数字与师资资源匮乏，AI 介入带来了雪中送炭式的超额边际增益，展现出缩小教育差距的普惠潜力；② **权力壁垒破除机制** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问暴露无知”恐惧与求助焦虑，生成式 AI 提供了匿名、即时且无评价威胁的探究中介，有效瓦解了层级威慑心理；③ **人机角色分工** 定位于平等的“学习同伴”比单向灌输的“授课导师”更能激发自主探究。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13, 16–18)]]
 
 ---
 

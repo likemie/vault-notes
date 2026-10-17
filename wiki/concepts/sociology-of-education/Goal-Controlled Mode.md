@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Socioeconomic Status]]"
   - "[[Determinism]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Goal-Controlled Mode
@@ -112,7 +113,7 @@ updated: 2026-10-16
 ## 实证发现
 
 > [!success]
-> - 范皑皑和杨钋基于北京高校调查数据发现，家庭社会经济地位越高的学生，越倾向于尽早为毕业出路做准备（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引范皑皑和杨钋，2015）
+> - 范皑皑和杨钋基于北京高校调查数据发现，家庭[[Socioeconomic Status|社会经济地位]]越高的学生，越倾向于尽早为毕业出路做准备（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引范皑皑和杨钋，2015）
 > - 牛新春和[[Yajun Zheng\|郑雅君]]对某重点大学一届本科生的三年追踪发现，学生生涯定向的发展轨迹从大二暑期开始分化，定向清晰的学生对高影响力活动的投入呈现愈发明确的方向性（，引牛新春和郑雅君，2018）
 > - 闵尊涛、陈云松和王修晓基于某重点大学十年调研数据发现，在影响大学生毕业意向的因素中，家庭背景的解释力远大于个体[[Academic Achievement\|学业表现]]（，引闵尊涛等，2018）
 

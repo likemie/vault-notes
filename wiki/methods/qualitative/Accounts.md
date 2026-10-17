@@ -5,7 +5,7 @@ summary: "一种以情境中的语言为焦点的质性资料收集方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Social Episodes]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Intentionality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Dialogue in Education]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Accounts
 
@@ -68,7 +69,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识通过人际互动在主体间生成，不是外在于人的客观数据，也不是纯粹主观的建构。陈述是参与者在社会情境中赋予行动以意义的言语产物。
-> - **研究者角色** 研究者进入参与者的意义世界，通过参与者的眼睛看待情境，捕捉其意向性和对复杂情境的解释。研究者需要对陈述作出再陈述，这要求[[Reflexivity\|反身性]]和对多重意义的敏感。
+> - **研究者角色** 研究者进入参与者的意义世界，通过参与者的眼睛看待情境，捕捉其[[Intentionality|意向性]]和对复杂情境的解释。研究者需要对陈述作出再陈述，这要求[[Reflexivity\|反身性]]和对多重意义的敏感。
 > - **有效性标准** 陈述的真实性（authenticity）通过协商、[[Internal Consistency\|内部一致性]]、交叉佐证和[[Member Tests\|成员核验]]来判断。不存在传统意义上的好与坏陈述，只有对社会遭遇的不同理论解释。
 > - **不声称回答的问题** 不声称产生普遍规律或统计概括；不声称单一精确测量；所获意义是多元的，不可穷尽。
 
@@ -105,7 +106,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究参与者如何理解其社会世界；研究[[Social Episodes\|社会片段]]中的意义系统和互动动态；研究伴随行动的言语如何使行动变得可理解和可辩护；需要捕捉意向性和多重意义的研究。
+> - **适合使用** 研究参与者如何理解其社会世界；研究[[Social Episodes\|社会片段]]中的意义系统和互动动态；研究伴随行动的言语如何使行动变得可理解和可辩护；需要捕捉[[Intentionality|意向性]]和多重意义的研究。
 > - **谨慎使用** 当参与者可能因各种原因（权力不对称、文化差异、社会期望）而无法或不愿提供完整陈述时；当研究者的解释可能过度偏离参与者自身理解时；当陈述之间的不一致需要额外的[[Triangulation\|三角验证]]时。
 > - **不适合使用** 需要统计概括或[[Causality\|因果推断]]的研究；需要标准化测量和跨情境比较的研究；需要排除研究者解释影响的研究。
 

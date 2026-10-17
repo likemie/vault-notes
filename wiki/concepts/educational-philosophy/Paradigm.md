@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Pluralism]]"
   - "[[Autopoiesis]]"
+  - "[[Behaviorism]]"
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Paradigm
@@ -183,7 +184,7 @@ updated: 2026-10-16
 > **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 统摄，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 
 > [!claim] Mitter, W.
-> **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与行为主义为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
+> **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与[[Behaviorism|行为主义]]为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 
 ---
 

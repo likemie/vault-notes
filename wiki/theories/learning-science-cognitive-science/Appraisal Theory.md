@@ -7,7 +7,7 @@ aliases:
 summary: "Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
 related_theories:
   - "[[Cultural Models]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Appraisal Theory
@@ -113,7 +114,7 @@ updated: 2026-10-16
 
 > [!theory-stance] [[Epistemology\|认识论]]与方法含义
 > - **[[Ontology\|本体论]]** 情绪不是生理实体，而是以主客体交互的认知关系为前提的心理-社会建构。
-> - **认识论** 反对情绪是外部刺激的直接反射（行为主义观），主张通过主观认知评估的逻辑来解释情绪的多样性。
+> - **认识论** 反对情绪是外部刺激的直接反射（[[Behaviorism|行为主义]]观），主张通过主观认知评估的逻辑来解释情绪的多样性。
 > - **方法含义** 要求在研究情绪时，不能仅测量生理指标，必须结合[[Coding in Qualitative Research\|质性编码]]、访谈或情境实验来测量个体的评估维度和文化图式。
 > - **不能直接推出的东西** 不能由相同的外部物理刺激直接推导或预测个体的最终情绪体验，必须引入其中介评估和文化背景。
 

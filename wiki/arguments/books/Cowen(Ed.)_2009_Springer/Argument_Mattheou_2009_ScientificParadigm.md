@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
+  - "[[Behaviorism]]"
   - "[[Postmodernism]]"
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
@@ -114,7 +115,7 @@ related_facts:
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Mattheou_2009_ScientificParadigm
 
@@ -239,7 +240,7 @@ updated: 2026-10-16
 > - **方法过度质性与主观** 过度依赖学者个人的直觉顿悟、道德改良热望与哲学反思，充斥着主观印象主义与难以检验的价值偏见。
 > - **与现实改革严重脱节** 面对战后教育机会均等化、综合中学重构、中学后教育扩张与劳动力人力资源测算的现实决策，无法提供具有确定性与可操作性的政策处方。
 
-在历史学派遭遇声誉危机的同时，外部自然科学取得的辉煌工程突破，以及社会科学内部相继爆发的行为主义革命，共同树立了极具说服力的现代科学典范（Kuhn, 1970; Davies, 1997, p. 1076）。
+在历史学派遭遇声誉危机的同时，外部自然科学取得的辉煌工程突破，以及社会科学内部相继爆发的[[Behaviorism|行为主义]]革命，共同树立了极具说服力的现代科学典范（Kuhn, 1970; Davies, 1997, p. 1076）。
 
 > [!factors] 推动战后比较教育转向科学范式的三大驱动要素
 > - **自然科学工程成就树立了权威典范** 二战期间及战后原子核裂变与聚变、晶体管技术发明等辉煌成就，确立了自然科学的至高威信，向整个人文社会科学界提供了不可抗拒的实证方法论典范，激发了跨学科效仿精密观察与实验控制的强烈冲动。（Kuhn, 1970; Davies, 1997）

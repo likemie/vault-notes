@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[School Inspection]]"
   - "[[Competitiveness]]"
+  - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Research Utilization]]"
@@ -148,7 +149,7 @@ updated: 2026-10-17
 > > - **本土情境审议者** 担忧盲目复制他国课程结构可能忽视本国多元文化、地方分权传统与薄弱校师资实际承载力，诱发课程落地脱节。
 >
 > > [!axis] 政治化排位炒作与虚假因果归因
-> > 媒体与政界倾向于将 TIMSS 均分排位简化为对本国基础教育成败的裁决，忽视家庭阶层资本与宏观社会经济背景对数理学业的关键中介作用。
+> > 媒体与政界倾向于将 TIMSS 均分排位简化为对本国基础教育成败的裁决，忽视家庭阶层资本与宏观[[Socioeconomic Status|社会经济背景]]对数理学业的关键中介作用。
 
 ---
 

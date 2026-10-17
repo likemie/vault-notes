@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 86
+argument_related_count: 87
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -124,6 +124,7 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Situative Perspective]]"
   - "[[Human Capital Theory]]"
+  - "[[Behaviorism]]"
 status: draft
 created: 2026-09-06
 updated: 2026-10-17
@@ -519,7 +520,7 @@ updated: 2026-10-17
 > - **本体跃升：从微观学校教育（Schooling）扩展至广义文化教化（Paideia / Culture）**
 >   萨德勒、坎德尔、汉斯与乌利希四位奠基者拒绝将教育窄化为孤立的学校课堂、教学技术或文凭考核（Schooling），将其置于古希腊文化教化（*Paideia*）与新人文主义全人培育（*Bildung*）的宏阔格局中。学校是深嵌于民族整体文化生态与精神传统的鲜活有机体，制度比较的深层意义在于考察学校体系如何映照并滋养文明演进。（p.56）
 > - **认识论锚定：确立以人（Anthropos）为中心的人文知识体系（[[Humanistic Episteme]]）**
->   比较教育学是一门以人为本的[[Humanistic Episteme\|人本认识论]]（Humanistic Episteme）。无论制度结构如何演化、跨国统计指标如何纷繁，其根本关切始终锁定在人（*Anthropos* / Human being）的生存境遇、健全心智与精神解放之上。这一认识论原则击碎了将教育研究异化为投入-产出比测算或行为主义规训工具的狭隘取向，确立了以人的尊严为最高尺度的价值基石。（p.57）
+>   比较教育学是一门以人为本的[[Humanistic Episteme\|人本认识论]]（Humanistic Episteme）。无论制度结构如何演化、跨国统计指标如何纷繁，其根本关切始终锁定在人（*Anthropos* / Human being）的生存境遇、健全心智与精神解放之上。这一认识论原则击碎了将教育研究异化为投入-产出比测算或[[Behaviorism|行为主义]]规训工具的狭隘取向，确立了以人的尊严为最高尺度的价值基石。（p.57）
 > - **方法论通达：以非普适探索性假说（Working Hypotheses of a Limited Nature）连接历史特殊性与理论建构**
 >   援引[[Crane Brinton\|布林顿]]（Crane Brinton）比较史学理论，论证学者完全有能力从个殊、具体与经验的历史事实中提炼中程理论命题。这些非普适探索性假说能够投射至其他相似历史情境中接受检验与反哺阐释，破除了实证派所谓历史个殊不可比较、缺乏理论建构效能的实证教条，为历史比较法确立了严谨的因果解释合法性。（Kazamias, 1963: 396; 2009: 56）
 > - **[[Axiology\|价值论]]归宿：铸就直面极权崇拜、社会断裂与技术异化的时代文明防线**

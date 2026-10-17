@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Socioeconomic Status]]"
   - "[[Cultural Capital]]"
   - "[[Variable]]"
   - "[[Disciplinary Socialization]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Ecological Validity]]"
 related_theories:
+  - "[[Recognition Theory]]"
   - "[[Postmodernism]]"
   - "[[Reflective Judgment Model]]"
 related_methods:
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Certainty of Knowledge
@@ -113,7 +115,7 @@ updated: 2026-10-16
 
 > [!boundary]- 概念边界
 > - **不等于知识的简单性（Simplicity of Knowledge）** 简单性维度关注知识的组织结构（孤立事实 vs. 相互交织的复杂概念系统）；确定性维度则严格聚焦于知识随时间演进的稳定性与可修正性（绝对永恒 vs. 暂时演变）。
-> - **不等于不可知论（Agnosticism）或相对主义虚无** 认识论发展中的低确定性信念，并不意味着否定经验证据或科学探索的有效性，而是主张在承认理论具有语境依赖性和可证伪性的前提下，基于最佳证据做出概率性的[[Reflexivity\|反思性]]承诺。
+> - **不等于不可知论（Agnosticism）或相对主义虚无** 认识论发展中的低确定性信念，并不意味着否定经验证据或科学探索的有效性，而是主张在[[Recognition Theory|承认理论]]具有语境依赖性和可证伪性的前提下，基于最佳证据做出概率性的[[Reflexivity\|反思性]]承诺。
 > - **不适用于纯道德[[Praxis|实践哲学]]** 儒家传统中的知识核心是人伦日用与修身成德，其正当性源于践履与工夫，而非形式逻辑公理对外部客观规律的确定性推演。
 
 ---
@@ -213,7 +215,7 @@ updated: 2026-10-16
 
 > [!claim] Trautwein, U. & Lüdtke, O.
 > **学业净负向预测力与学科双重分化机制** 基于德国中等教育转型与学术职业追踪项目（[[TOSCA\|Transformation of the Secondary School System and Academic Careers]]，[[TOSCA]]）的大规模两波纵向追踪数据（高中毕业 Time 1，T1 与大学就读 Time 2，T2），研究证实了确定性信念对学业表现的稳健阻碍作用，并揭示了学科认识论分化的复合演进路径：
-> - **超越智力与家庭资本的独立阻碍效应** 在控制了一般认知推理能力（General Cognitive Ability，$g$ 因子[[Item Response Theory\|项目反应理论]] Item Response Theory，IRT 分数）、家庭社会经济地位（Socioeconomic Status，SES 国际职业社会经济地位指数 International Socio-Economic Index of Occupational Status，ISEI）、家庭[[Cultural Capital\|文化资本]]（藏书量）、性别和年龄后，潜[[Variable\|变量]]结构方程模型（Structural Equation Modeling，[[Causal Modeling\|SEM]]）表明确定性信念对高中毕业总评成绩仍具有显著的净负向预测作用（标准化路径系数 $\beta = -0.15, p < .001$），并部分中介了认知能力与文化资本的学业赋能效应；
+> - **超越智力与家庭资本的独立阻碍效应** 在控制了一般认知推理能力（General Cognitive Ability，$g$ 因子[[Item Response Theory\|项目反应理论]] Item Response Theory，IRT 分数）、家庭[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status，SES 国际职业社会经济地位指数 International Socio-Economic Index of Occupational Status，ISEI）、家庭[[Cultural Capital\|文化资本]]（藏书量）、性别和年龄后，潜[[Variable\|变量]]结构方程模型（Structural Equation Modeling，[[Causal Modeling\|SEM]]）表明确定性信念对高中毕业总评成绩仍具有显著的净负向预测作用（标准化路径系数 $\beta = -0.15, p < .001$），并部分中介了认知能力与文化资本的学业赋能效应；
 > - **先验自我选择效应（Self-Selection Effect）** 在高中毕业尚未进入大学时（T1），未来意向报考自然科学（未标准化回归系数 $b = 0.39$）、工科（$b = 0.38$）、医学（$b = 0.38$）与商科（$b = 0.33$）的学生，其确定性信念已显著高于人文艺术类学生，证实了基于认识论偏好的群体先验分流；
 > - **[[Disciplinary Socialization\|学科社会化]]塑造效应（Disciplinary Socialization Effect）** 在控制 T1 初始信念水平后，大学两年间的专业训练持续拉大了学科鸿沟：工科（$b = 0.40, p < .001$）与商科（$b = 0.22, p < .05$）环境持续强化确定性信念，使学生更加笃信标准答案；而人文与社会科学（$b = -0.26, p < .05$）环境则加速解构确定性，培养反思性思维。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 357–361)]]
 
@@ -262,7 +264,7 @@ updated: 2026-10-16
 > > [!axis] 现代[[Epistemology\|认识论]]对绝对确定性的解构与科学实践的张力
 > > 现代科学哲学与[[Postmodernism\|后现代主义]]彻底瓦解了绝对真理的预设，但在日常科学教学与研究中，“认知有多确定”依然是判别可靠知识的核心标尺。
 > > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** 尽管绝对确定性已被概率性趋势替代，但在任何科学探究中，严密逻辑与经验辩护仍是不可替代的基石。
-> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 成熟认识论不是滑向虚无主义，而是在承认理论暂时性的同时，依据经验证据进行理性的[[Reflexivity\|反思性]]承诺。
+> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 成熟认识论不是滑向虚无主义，而是在[[Recognition Theory|承认理论]]暂时性的同时，依据经验证据进行理性的[[Reflexivity\|反思性]]承诺。
 >
 > > [!axis] 确定性信念对[[Academic Achievement\|学业成绩]]预测力的实证争议
 > > 早期研究对确定性维度能否独立预测学生成绩充满矛盾（如 Schommer 在控制言语智商 Verbal IQ 后效应消失）。

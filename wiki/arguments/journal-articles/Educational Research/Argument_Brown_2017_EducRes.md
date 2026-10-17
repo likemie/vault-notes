@@ -34,6 +34,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[International Education]]"
   - "[[Discourse]]"
+  - "[[Socioeconomic Status]]"
   - "[[Classroom Management]]"
   - "[[Grade Retention]]"
   - "[[Data Literacy]]"
@@ -78,14 +79,14 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -186,7 +187,7 @@ journal: Educational Research
 DBDM 定义为系统分析校内现有数据源，并将分析结果应用于革新教学、课程与学校绩效的动态过程（Schildkamp and Kuiper, 2010, p. 482）。（pp. 156–157）
 
 > [!feature] DBDM 的多维数据类型与演化特征
-> - **输入数据** 包含学生背景特征、家庭社会经济地位（Socioeconomic Status, SES）与过往学业记录等。
+> - **输入数据** 包含学生背景特征、家庭[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES）与过往学业记录等。
 > - **过程数据** 包含[[Classroom Observation|课堂教学观察]]记录、教学进度、[[Classroom Management\|课堂管理]]与师生互动质量。
 > - **情境数据** 包含学校[[Organizational Culture\|组织文化]]、社区环境、家长参与度与办学资源条件。
 > - **结果数据** 包含标准化测试成绩、形成性课堂测评、各学科及格率与[[Grade Retention\|留级]]率。

@@ -8,7 +8,7 @@ aliases:
 summary: "教师流动是指教师在不同学校、学区、地域或跨国教育系统之间的专业岗位转移与空间位移；该概念折射出跨大西洋政策话语的深刻反差，在欧洲一体化语境中被建构为促进专业发展与打破边境壁垒的崇高政策诉求，而在美国基础教育中则被问题化为高资质教师逃离城市贫困与少数族裔薄弱学校的队伍流失与教育不公平危机。"
 type: concept
 domain: "teacher-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Student Mobility]]"
   - "[[School Choice]]"
+  - "[[Socioeconomic Status]]"
   - "[[Open-Mindedness]]"
   - "[[Lifelong Learning]]"
   - "[[European Education Space]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Teacher Mobility
@@ -88,7 +89,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **跨区专业资质互认与流动壁垒（Credential Transferability）** 教师跨越省州或国界任教的前提是教师资格凭证的等值认证，缺乏透明标准构成了抑制专业流动的制度屏障。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayer, 2006; Sobe & Fischer, 2009, p. 364)]]
 > - **基于工作条件的单向空间流动（Working Conditions Push-Pull）** 学校微观环境（如生源挑战、校园安全、设施匮乏与管理压力）是驱使教师逃离城市薄弱学校、流向郊区中产优势学校的主导推力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Elfers et al., 2006; Sobe & Fischer, 2009, p. 364)]]
-> - **生源族裔与阶层构成敏感性（Student Demographic Sensitivity）** 实证研究显示，教师在[[School Choice|择校]]流动中表现出对生源社会经济地位与少数族裔比例的高度敏感，容易加剧教育种族隔离。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Scafidi et al., 2007; Sobe & Fischer, 2009, p. 364)]]
+> - **生源族裔与阶层构成敏感性（Student Demographic Sensitivity）** 实证研究显示，教师在[[School Choice|择校]]流动中表现出对生源[[Socioeconomic Status|社会经济地位]]与少数族裔比例的高度敏感，容易加剧教育种族隔离。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Scafidi et al., 2007; Sobe & Fischer, 2009, p. 364)]]
 > - **正当流动与越轨流失的价值划分（Proper vs Improper Mobility）** 政策制定者将精英教师的学术互访与跨国发展赞许为正当流动，而将一线薄弱校教师的频繁逃离斥为危及系统稳定的破坏性流失。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!logic-map]- 教师流动的跨大西洋政策机制与分异效应

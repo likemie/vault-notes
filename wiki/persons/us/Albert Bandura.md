@@ -8,7 +8,7 @@ summary: "加拿大裔美国心理学家，社会学习理论（后演化为社�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Social Learning Theory]]"
+  - "[[Behaviorism]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -35,7 +36,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-17
 ---
 # Albert Bandura
 
@@ -54,7 +55,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!tip]-
-> Bandura 的核心理论主张人类行为是认知、行为和环境决定因素之间持续交互的结果，而非单一因素决定。这一交互[[Determinism\|决定论]]打破了行为主义的单向因果观。他特别强调三种人类独有的学习过程：替代性过程（通过观察他人学习）、象征性过程（通过语言和符号表征世界）和自我调节过程（通过自我观察、判断和反应调控行为）。
+> Bandura 的核心理论主张人类行为是认知、行为和环境决定因素之间持续交互的结果，而非单一因素决定。这一交互[[Determinism\|决定论]]打破了[[Behaviorism|行为主义]]的单向因果观。他特别强调三种人类独有的学习过程：替代性过程（通过观察他人学习）、象征性过程（通过语言和符号表征世界）和自我调节过程（通过自我观察、判断和反应调控行为）。
 
 > [!quote]
 > "This unified theoretical framework approaches the explanation of human behavior in terms of a continuous (reciprocal) interaction between cognitive, behavioral, and environmental determinants."（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）

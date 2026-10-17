@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Chain of Evidence]]"
   - "[[Success Criteria]]"
+  - "[[Socioeconomic Status]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Criterion-related Validity
@@ -205,7 +206,7 @@ updated: 2026-10-16
 ## 测量学应用与实践路径
 
 > [!implication]- 效标关联效度确立的四大操作原则
-> 1. **实施效标净化（Criterion Purification）** 严格识别并剥离效标测量中的系统性偏见（如评分者主观好恶、社会经济地位混杂），提升效标纯净度；
+> 1. **实施效标净化（Criterion Purification）** 严格识别并剥离效标测量中的系统性偏见（如评分者主观好恶、[[Socioeconomic Status|社会经济地位]]混杂），提升效标纯净度；
 > 2. **构建复合效标矩阵（Composite Criterion Approach）** 避免依赖单一测量指标，结合客观表现、专家同感评定与长期成果构建多维效标体系；
 > 3. **区分共时验证与跨期预测** 开发替代量表时采用严格的共时双测设计；进行选拔推断时建立多年期追踪队列；
 > 4. **结合[[Meta-meta-analysis\|二阶元分析]]开展跨领域校准** 借助多水平[[Meta-analysis\|元分析]]评估效标关联在不同样本与设计中的稳定性，确立稳健的效度基准。

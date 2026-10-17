@@ -9,7 +9,7 @@ aliases:
 summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为改变是能力（身体与心理）、机会（物理与社会）和动机（反思与自发）交互作用的产物；在教育政策与知识动员中，它被用于解释为何单纯信息推送无法改变实践，并为循证中介机构设计多维支持体系提供行为科学基石"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Behaviorism]]"
   - "[[Theory of Change]]"
   - "[[Research Utilization Models]]"
 related_methods:
@@ -159,7 +160,7 @@ updated: 2026-10-17
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 个体行为主义视角 vs 宏观制度结构[[Determinism\|决定论]]争议
+> > [!axis] 个体[[Behaviorism|行为主义]]视角 vs 宏观制度结构[[Determinism\|决定论]]争议
 > > 探讨[[Evidence-Based Education\|循证教育]]改革究竟应当主要聚焦于微观个体的心理行为调适，还是聚焦于宏观权力结构与财政体制的重构。
 > >
 > > - **行为科学进路主张** COM-B 模型倡导者强调，任何宏观政策最终都必须穿透至微观个体的具体动作；若不理解个体的认知负荷、心理习惯与社会环境，再完美的制度设计也会在“最后一公里”彻底流产（Michie et al., 2011）。

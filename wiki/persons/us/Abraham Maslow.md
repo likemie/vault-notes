@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Empiricism]]"
   - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Abraham Maslow
@@ -60,7 +61,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（APA）主席，第三势力心理学（Third Force Psychology）旗手。
-> - **核心角色** 在抗衡行为主义与精神分析的去人性化偏见中，系统开创以人的潜能、价值与自我实现为核心的探究[[Paradigm\|范式]]；在科学哲学领域深刻揭示[[Positivism\|实证主义]]对科学内涵的技术主义窄化，确立科学探究的完整人文功能图景。
+> - **核心角色** 在抗衡[[Behaviorism|行为主义]]与精神分析的去人性化偏见中，系统开创以人的潜能、价值与自我实现为核心的探究[[Paradigm\|范式]]；在科学哲学领域深刻揭示[[Positivism\|实证主义]]对科学内涵的技术主义窄化，确立科学探究的完整人文功能图景。
 > - **代表贡献** 提出人类需求层次理论与自我实现（Self-Actualization）；在《科学心理学》（*The Psychology of Science*, 1954/1966）中系统提炼“科学的九大功能”（Box 1.1），全面超越实证主义狭隘验证技术观；倡导以“全人”与内在价值为中心的[[Epistemology\|认识论]]。
 
 ---

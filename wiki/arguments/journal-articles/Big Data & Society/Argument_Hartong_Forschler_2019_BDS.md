@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[School Inspection]]"
   - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[School Autonomy]]"
   - "[[Habitus]]"
   - "[[Performativity]]"
@@ -77,7 +78,7 @@ related_facts:
   - "[[EU]]"
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Hartong_Forschler_2019_BDS
 
@@ -244,7 +245,7 @@ updated: 2026-10-16
 > | 诉求方向 | 核心动因与代表性设计 | 伴生风险与负面治理后果 |
 > |---|---|---|
 > | **用户友好型极简呈现** | 降低理解门槛，使非专家家长与校长能一眼看清结果并迅速采取行动（actionable data）；大力推行红绿灯色彩分级与单页报表。（pp.5–6） | 彻底剥离了数据背后的生源[[Heterogeneity\|异质性]]与微观教学情境，极易导致粗暴定性与片面标签化推断。 |
-> | **深层情境化与精准审慎** | 强调教育测评的多维不确定性，要求必须结合学校社会经济背景与误差区间开展专业审读。 | 界面充斥密集的[[Confidence Interval\|置信区间]]与复杂回归表格，导致工具无人问津，基层陷入抗拒或过度解读。 |
+> | **深层情境化与精准审慎** | 强调教育测评的多维不确定性，要求必须结合学校[[Socioeconomic Status\|社会经济背景]]与误差区间开展专业审读。 | 界面充斥密集的[[Confidence Interval\|置信区间]]与复杂回归表格，导致工具无人问津，基层陷入抗拒或过度解读。 |
 
 > [!case] 算法预测工具简化的标签化异化：马萨诸塞州早期预警系统（[[Early Warning Indicator System\|EWIS]]）
 > 马萨诸塞州主导开发的[[Early Warning Indicator System\|早期预警指标系统]]（Early Warning Indicator System, EWIS）依托纵向历时追踪算法，计算学生高中毕业受阻或未能升学的掉队风险等级，初衷是提示学校及早提供学业补偿支持。然而在微观实践中，因指标剥离了复杂生活情境并以极简风险标签呈现，部分高中辅导员竟直接将其作为劝阻弱势学生报考大学的劝退依据。（p.6）
