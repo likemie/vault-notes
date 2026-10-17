@@ -16674,6 +16674,18 @@
     ]
   },
   {
+    "title": "Behaviorism",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Behaviorism.md",
+    "aliases": [
+      "行为主义",
+      "行为主义学习理论",
+      "行为学习理论",
+      "Behaviorist Learning Theory",
+      "操作性条件反射理论"
+    ]
+  },
+  {
     "title": "Bounded Rationality",
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Bounded Rationality.md",
@@ -25342,6 +25354,16 @@
       "阿里耶·内尔",
       "阿里耶·内伊尔",
       "Neier, A."
+    ]
+  },
+  {
+    "title": "B. F. Skinner",
+    "type": "person",
+    "path": "wiki/persons/us/B. F. Skinner.md",
+    "aliases": [
+      "伯尔赫斯·弗雷德里克·斯金纳",
+      "斯金纳",
+      "Burrhus Frederic Skinner"
     ]
   },
   {

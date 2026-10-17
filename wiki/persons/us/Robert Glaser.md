@@ -7,10 +7,10 @@ summary: "美国教育心理学与教学设计理论家，程序化教学与标�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1921"
 died: "2012"
 lifespan: "1921–2012"
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Feedback]]"
   - "[[Positivism]]"
-related_theories: []
+related_theories:
+  - "[[Behaviorism]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[B. F. Skinner]]"
   - "[[John Hattie]]"
   - "[[Donald A. Schön]]"
   - "[[Ernst von Glasersfeld]]"
@@ -49,7 +51,7 @@ updated: 2026-10-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、教学设计理论家，匹兹堡大学杰出教授，匹兹堡大学学习研究与发展中心（Learning Research and Development Center, LRDC）创办人。
-> - **核心角色** 承袭行为主义心理学与工程系统论传统，开创了个别化程序教学模型与标准参照测验，是连接斯金纳操作性条件反射与当代教学设计工程的关键理论枢纽；其系统控制模型直接启发了约翰·哈蒂（[[John Hattie]]）的早期教学论建模。
+> - **核心角色** 承袭行为主义心理学与工程系统论传统，开创了个别化程序教学模型与标准参照测验，是连接[[B. F. Skinner|斯金纳]]操作性条件反射与当代教学设计工程的关键理论枢纽；其系统控制模型直接启发了约翰·哈蒂（[[John Hattie]]）的早期教学论建模。
 > - **代表贡献** 首倡标准参照测验（Criterion-Referenced Measurement, CRM），确立以行为目标达成度替代常模群体排名的测评范式；构建包含起点行为评估、教学过程干预与矫正性[[Feedback|反馈]]回路的四要素教学设计系统；作为早期理论源头深刻形塑了《[[Visible Learning|可见的学习]]》对教学效能与反馈机制的工程学界定。
 
 > [!citation-card] 格拉泽在教学理论思想史中的定位
@@ -64,7 +66,7 @@ updated: 2026-10-17
 > [!timeline] 生平与职涯
 > - **1921** 出生于美国纽约市。
 > - **1949** 获印第安纳大学心理学博士学位，受行为主义实验心理学传统训练。
-> - **1950 年代中叶** 与心理学奠基人斯金纳（B. F. Skinner）展开合作，深入探究教学机器（Teaching Machines）与程序化教学的认知心理机制。
+> - **1950 年代中叶** 与心理学奠基人斯金纳（[[B. F. Skinner]]）展开合作，深入探究教学机器（Teaching Machines）与程序化教学的认知心理机制。
 > - **1960** 与卢姆斯丹（A. A. Lumsdaine）联合主编出版里程碑式专著《教学机器与程序化学习》（*Teaching Machines and Programmed Learning*），确立程序教学学科地位。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 4)]]
 > - **1962** 提出经典的四要素教学系统模型（Instructional System Model），将系统工程与行为目标理论系统引入教育领域。
 > - **1963** 在《美国心理学家》（*American Psychologist*）发表开创性论文，首次正式界定标准参照测验（Criterion-Referenced Testing），引发全球教育测量学范式革命。
@@ -138,6 +140,8 @@ updated: 2026-10-17
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
+> | [[Behaviorism\|行为主义]] | 理论传统 | 承袭行为主义实验心理学，开创系统教学设计模型与程序教学工程。 |
+> | [[B. F. Skinner\|B. F. 斯金纳]] | 合作者与思想奠基 | 与斯金纳合作主编程序学习专著，将操作强化拓展为四要素教学系统模型。 |
 > | [[Technical Rationality\|技术理性]] | 认识论基础 | 其四要素教学系统将专业教学视为确定性输入—输出控制，是技术理性的典型范例。 |
 > | [[Visible Learning\|可见的学习]] | 理论奠基 | 哈蒂（1987）明确将格拉泽模型作为自身学生学习实证体系的理论基石。 |
 > | [[Feedback\|教学反馈]] | 核心机制 | 将反馈狭义操作化为消除目标与现状偏差的矫正性刺激，深深影响了后续量化综合。 |

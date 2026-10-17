@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,12 +36,14 @@ related_concepts:
   - "[[Socioeconomic Status]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Scott Eacott]]"
   - "[[Robert Glaser]]"
+  - "[[B. F. Skinner]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -89,12 +91,12 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Technical Rationality\|技术理性]]**<br>[[Technical Rationality]] | 唐纳德·舍恩（[[Donald A. Schön\|Donald A. Schön]]）界定的实证主义遗产，主张将专业实践还原为选择确定性技术手段以达成固定目标的工具性问题解决。用于透视哈蒂如何将教育情境物化为可操作的输入—输出封闭系统。（pp. 4–5） |
-> | **行为主义学习理论** | 伯尔赫斯·弗雷德里克·斯金纳（Burrhus Frederic Skinner）与罗伯特·格拉泽（[[Robert Glaser]]）的强化与程序化教学传统。用于揭示哈蒂将教学过程窄化为刺激—反应修正回路的理论渊源。（pp. 4–5） |
+> | **[[Behaviorism\|行为主义学习理论]]**<br>[[Behaviorism]] | 伯尔赫斯·弗雷德里克·斯金纳（[[B. F. Skinner\|Burrhus Frederic Skinner]]）与罗伯特·格拉泽（[[Robert Glaser]]）的强化与程序化教学传统。用于揭示哈蒂将教学过程窄化为刺激—反应修正回路的理论渊源。（pp. 4–5） |
 > | **[[Neo-Taylorism\|新泰勒主义教育治理]]**<br>[[Neo-Taylorism]] | 斯科特·埃考特（[[Scott Eacott]]）提出的批判概念，指运用量化测量指标对专业劳动进行自上而下的技术控制与绩效问责。用于解释哈蒂理论受教育官僚广泛青睐的制度逻辑。（pp. 14–15） |
 > | **承认理论与交往行为**<br>[[Critical Theory]] | 阿克塞尔·霍耐特（Axel Honneth）的主体间承认理论。用于反思技术理性如何扼杀学习者与教师的意向性、自主性与主体间意义生成。（pp. 14–15） |
 
 > [!warrant]- 理论如何支撑论证
-> 技术理性为理解哈蒂的研究范式提供了认识论透镜：执着于寻求脱离情境的离散因果因素、剔除社会经济地位调节变量、发明普适性的 $d = 0.40$ 截断值，本质上都是技术理性将工程诊断模式移植到社会领域的产物。当这种思维遇到行为主义学习论时，师生主体间交往便被降格为单向的机械信息矫正回路；而这套看似客观的控制技术，恰好契合了新泰勒主义追求管理效能与绩效问责的制度诉求。（pp. 4–5, 14–15）
+> 技术理性为理解哈蒂的研究范式提供了认识论透镜：执着于寻求脱离情境的离散因果因素、剔除社会经济地位调节变量、发明普适性的 $d = 0.40$ 截断值，本质上都是技术理性将工程诊断模式移植到社会领域的产物。当这种思维遇到[[Behaviorism|行为主义学习论]]时，师生主体间交往便被降格为单向的机械信息矫正回路；而这套看似客观的控制技术，恰好契合了新泰勒主义追求管理效能与绩效问责的制度诉求。（pp. 4–5, 14–15）
 
 ---
 
@@ -103,7 +105,7 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **思想史考证与理论解构**<br>Conceptual & Intellectual Critique | 追踪哈蒂自 1987 年以来的理论文本，考证其学习理论源流（Glaser、Skinner），对质舍恩的技术理性理论与霍耐特的批判哲学。（pp. 3–5, 14–15） |
+> | **思想史考证与理论解构**<br>Conceptual & Intellectual Critique | 追踪哈蒂自 1987 年以来的理论文本，考证其学习理论源流（[[Robert Glaser|Glaser]]、[[B. F. Skinner|Skinner]]），对质舍恩的技术理性理论与霍耐特的批判哲学。（pp. 3–5, 14–15） |
 > | **实证方法学质检与反例证伪**<br>Methodological Appraisal & Counter-evidence | 深入剖析关于班级规模、家庭作业、社会经济背景与效应量阈值设定的统计推演，对比医学阿司匹林临床研究与经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）的国际实证基准报告。（pp. 5–9） |
 > | **元分析一级文献细读审查**<br>Close Reading of Primary Meta-analyses | 对哈蒂（2009）附录 A 中反馈类目下样本权重最高的五项一级元分析进行微观文献学与构念效度解剖，逐一比对原始研究的设计、样本、变量界定与数据。（pp. 9–13） |
 
@@ -154,7 +156,7 @@ citation_aliases:
 
 > [!phase] 行为主义思想谱系的历时性传递链条
 >
-> - **斯金纳的操作性条件反射**
+> - **[[B. F. Skinner|斯金纳]]的操作性条件反射**
 >
 >   创立以行为修正、强化刺激与教学机器为标志的行为分析范式（Skinner, 1954, 1958）。
 >
