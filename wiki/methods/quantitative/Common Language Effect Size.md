@@ -1,6 +1,7 @@
 ---
 title: Common Language Effect Size
 aliases:
+  - 普通语言效应量
   - 常见语言效应量
   - CLES
   - 通用语言效应量
@@ -53,13 +54,14 @@ updated: 2026-10-18
 ---
 
 # Common Language Effect Size
+（普通语言[[Effect Size|效应量]]）
 
 ---
 
 ## 定义
 
 > [!def] 方法定义
-> **常见语言[[Effect Size|效应量]]（Common Language Effect Size, CLES）**，又称超越概率（Probability of Superiority, PS），指将两组连续型[[Variable|变量]]分布的标准化均值差（如 Cohen's $d$）映射为直观二项发生概率的标准化统计量。它度量从处理组（实验组）中随机抽取的一名受试者，其得分高于从对照组中随机抽取的一名受试者的客观概率。该方法旨在消除无量纲标准化指标的技术抽象性，为教育实践者与政策制定者提供通俗直观的概率解释。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 239)]]
+> **普通语言[[Effect Size|效应量]]（Common Language Effect Size, CLES）**，又称超越概率（Probability of Superiority, PS），指将两组连续型[[Variable|变量]]分布的标准化均值差（如 Cohen's $d$）映射为直观二项发生概率的标准化统计量。它度量从处理组（实验组）中随机抽取的一名受试者，其得分高于从对照组中随机抽取的一名受试者的客观概率。该方法旨在消除无量纲标准化指标的技术抽象性，为教育实践者与政策制定者提供通俗直观的概率解释。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 239)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 实验组与对照组在连续[[Scale of Measurement|测量量表]]上的得分分布，或具有有序尺度的实证评价数据。
@@ -68,7 +70,7 @@ updated: 2026-10-18
 > - **输出形式** 严格落于 $(0\%, 100\%)$ 区间的百分比概率值，当两组无差异时基线严格为 $50\%$。
 
 > [!citation-card] 概率映射公理与通俗解释初衷
-> 常见语言效应量统计量旨在将连续分布的标准化均值差翻译为普通人易于理解的日常语言：即从某一群体随机抽取的个体在特定测量指标上超过另一群体随机抽取个体的几率。根据数理统计公理，其理论值域严格受限于零至百分之百之间，当两组均值相等时该概率严格等于百分之五十。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 239)]]
+> 普通语言效应量统计量旨在将连续分布的标准化均值差翻译为普通人易于理解的日常语言：即从某一群体随机抽取的个体在特定测量指标上超过另一群体随机抽取个体的几率。根据数理统计公理，其理论值域严格受限于零至百分之百之间，当两组均值相等时该概率严格等于百分之五十。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 239)]]
 >
 > *“The common language effect size statistic was designed to translate continuous difference measures into the probability that an individual randomly selected from one population has a higher score than an individual randomly selected from another population... Mathematically, this probability must strictly lie between 0% and 100%.”*
 
@@ -134,10 +136,10 @@ updated: 2026-10-18
 
 ### 规范换算标准对照表
 
-> [!ref-table] Cohen's d 与常见语言[[Effect Size|效应量]]（CLES）标准对照表
+> [!ref-table] Cohen's d 与普通语言[[Effect Size|效应量]]（CLES）标准对照表
 > | Cohen's $d$ | 0.00 | 0.20 | 0.40 | 0.60 | 0.80 | 1.00 | 1.20 | 1.40 | 2.00 | 3.00 |
 > |---|---|---|---|---|---|---|---|---|---|---|
-> | **常见语言效应量（CLES）** | 50.0% | 55.6% | 61.1% | 66.4% | 71.4% | 76.0% | 80.2% | 83.9% | 92.1% | 98.3% |
+> | **普通语言效应量（CLES）** | 50.0% | 55.6% | 61.1% | 66.4% | 71.4% | 76.0% | 80.2% | 83.9% | 92.1% | 98.3% |
 > | **解释方差比（$R^2$）** | 0.0% | 1.0% | 3.8% | 8.3% | 13.8% | 20.0% | 26.5% | 32.9% | 50.0% | 69.2% |
 >
 > **图表解读** CLES 随 $d$ 呈非线性 S 型增长；在 $d=0$ 附近变化最为敏锐，当 $d > 1.5$ 之后增长显著放缓并渐近收敛于 100%。
@@ -148,7 +150,7 @@ updated: 2026-10-18
 
 > [!critique-method] 违背概率公理与缺乏专业统计咨询的灾难案例（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 238–240]]）
 > - **不可能概率的数学崩溃** 在《[[Visible Learning|可见的学习]]》一书中，[[John Hattie|约翰·哈蒂]]试图将[[Effect Size Conversion|效应量转换]]为 CLES 向一线教育工作者普及成果，但在其二阶汇总附录中，竟汇报了负百分比与超过 100% 的荒谬概率（Topphol, 2012）。这一初等算术错误的长期存在，暴露了研究团队在数理逻辑与基础质控上的系统性匮乏。
-> - **事后统计尸检困境** 加拿大统计学者贝热隆与里瓦尔援引罗纳德·费希尔（Ronald Fisher, 1938）的经典论断指出：在研究方案设计和执行中缺乏专业统计学家的深度参与，实验结束后再寻求咨询往往只是请统计学家做一场事后尸检——至多只能证明该分析究竟死于何种低级数学失误。
+> - **事后统计尸检困境** 加拿大统计学者伯杰龙与里瓦尔援引罗纳德·费希尔（Ronald Fisher, 1938）的经典论断指出：在研究方案设计和执行中缺乏专业统计学家的深度参与，实验结束后再寻求咨询往往只是请统计学家做一场事后尸检——至多只能证明该分析究竟死于何种低级数学失误。
 > - **比较基线的相对性失省** [[Effect Size|效应量]]符号与 CLES 优势方向取决于隐性对照基线的设定。若基线选择反转（如从“富裕比贫困”反转为“贫困比富裕”），CLES 将从优势概率骤降为严重劣势概率。忽视基线相对性，容易使统计量异化为主观裁剪政策结论的工具。
 
 ---
@@ -211,7 +213,7 @@ updated: 2026-10-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Effect Size]] | 上位方法 | 常见语言效应量属于效应量家族中面向概率解释的核心派生测度。 |
+> | [[Effect Size]] | 上位方法 | 普通语言效应量属于效应量家族中面向概率解释的核心派生测度。 |
 > | [[Effect Size Conversion]] | 支撑方法 | 提供标准化均值差、相关系数与 CLES 之间跨尺度换算的完整数学模型。 |
 > | [[Meta-analysis]] | 应用场景 | 二阶证据合成中将技术化统计量翻译为实践者通用[[Discourse\|话语]]的关键工具。 |
 > | [[Standard Error]] | 诊断检验 | 评估 CLES 估计精度的基础抽样离散指标。 |

@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Critical Policy Analysis]]"
   - "[[Quantitative Research]]"
+  - "[[Inappropriate Baseline Comparisons]]"
   - "[[Meta-meta-analysis]]"
   - "[[Common Language Effect Size]]"
   - "[[Audit Trail]]"
@@ -159,7 +160,7 @@ updated: 2026-10-18
 > 考察量化工具如何从辅助诊断手段异化为剥夺教师主体性的权力装置。
 
 > [!claim] [[Pierre-Jérôme Bergeron|Bergeron, P.-J.]] & Rivard, L.
-> **真实数据编织的伪科学与纸牌屋崩溃** 皮埃尔-热罗姆·伯杰龙（Pierre-Jérôme Bergeron）与利桑·里瓦尔（Lysanne Rivard）从数理统计学专业视角对[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》展开系统解构，确立了“如何用真实数据搞伪科学”（How to engage in pseudoscience with real data）的方法学诊断。伯杰龙等指出，真正的科学需要专业审视；哈蒂汇总 800 余项元分析、50,000 项研究和数百万个体的数据规模制造了极具迷惑性的科学严谨假象，但在深入审查下，呈现的实质上是一座由初等概率计算崩溃（如算出负概率与超额概率）、不当基线比较、跨公式排名相反及相关换算极值发散所构成的脆弱纸牌屋（fragile house of cards）。真实数据无法自动保证科学有效性，若数据收集、计算和解释逻辑脱离了数理统计公理约束，无论堆砌多少实证文献，其结论在本质上均滑向了虚构的伪科学。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–239)]]
+> **真实数据编织的伪科学与纸牌屋崩溃** 皮埃尔-热罗姆·伯杰龙（Pierre-Jérôme Bergeron）与利桑·里瓦尔（Lysanne Rivard）从数理统计学专业视角对[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》展开系统解构，确立了“如何用真实数据搞伪科学”（How to engage in pseudoscience with real data）的方法学诊断。伯杰龙等指出，真正的科学需要专业审视；哈蒂汇总 800 余项元分析、50,000 项研究和数百万个体的数据规模制造了极具迷惑性的科学严谨假象，但在深入审查下，呈现的实质上是一座由初等概率计算崩溃（如算出负概率与超额概率）、[[Inappropriate Baseline Comparisons|不当基线比较]]、跨公式排名相反及相关换算极值发散所构成的脆弱纸牌屋（fragile house of cards）。真实数据无法自动保证科学有效性，若数据收集、计算和解释逻辑脱离了数理统计公理约束，无论堆砌多少实证文献，其结论在本质上均滑向了虚构的伪科学。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–239)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.; Feynman, R. P.
 > **对一线常识的威慑与去专业化** 费曼曾指出，一位在实践中摸索出极好识字教学方法的优秀教师，往往会被包装着科学光环的伪科学系统强行纠正，甚至被愚弄得怀疑自己的专业直觉。在当代教育治理中，货物崇拜科学通过气压计式图表将教学蔑称为不成熟的专业，要求教师向外科手术或工业装配线看齐，促成了将鲜活师生互动异化为指标打卡表演的[[Neo-Taylorism|新泰勒主义]]危机。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29, 34)]]
@@ -219,7 +220,7 @@ updated: 2026-10-18
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 25–26)]] | 《可见的学习》附录 A 中 5 项[[Homework\|家庭作业]][[Meta-analysis\|元分析]]（涵盖 161 项研究与超 10 万名学生） | 数学逆向还原与算法核查 | 综合效应量计算公式与加权方式 | 5 项元分析报告的 Cohen's $d$ 分别为 0.36、0.21、0.39、0.21、0.28；直接相加除以 5 等于报告的 $d=0.29$ | 包含 15 项研究的文献与 77 项研究的文献被赋予相同权重；正文完全隐去该计算公式 | 实证确证其核心效应量依赖未加权的简单算术平均，验证了隐匿算法、制造虚假精确的货物崇拜特征 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | [[John Hattie\|哈蒂]]《可见的学习》[[Meta-meta-analysis\|二阶元分析]]数据库及[[Common Language Effect Size\|常见语言效应量]]换算表 | 数理统计审计与受控数值模拟 | 常见语言效应量、基线比较方向与三类合法计算公式 | 常见语言效应量算出了负概率与大于 100% 的不可能概率；三种技术有效公式对同一组受控数据得出完全冲突的排名（$3>2>1>0$、$1=2=3$、$0>1>2>3$） | — | 证实海量真实数据掩盖下的初等数学失范与度量标尺失效，确证货物崇拜科学依赖真实数据编织故事的技术表征 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | [[John Hattie\|哈蒂]]《可见的学习》[[Meta-meta-analysis\|二阶元分析]]数据库及[[Common Language Effect Size\|普通语言效应量]]换算表 | 数理统计审计与受控数值模拟 | 普通语言效应量、基线比较方向与三类合法计算公式 | 普通语言效应量算出了负概率与大于 100% 的不可能概率；三种技术有效公式对同一组受控数据得出完全冲突的排名（$3>2>1>0$、$1=2=3$、$0>1>2>3$） | — | 证实海量真实数据掩盖下的初等数学失范与度量标尺失效，确证货物崇拜科学依赖真实数据编织故事的技术表征 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 31–32)]] | 《可见的学习》全书文本（涵盖全部章节与索引） | 词频统计与文本分析 | [[Class Size\|班级规模]]（Class Size）与自我报告成绩提及频次对比 | 班级规模提及 95 次（分布于 16 个章节）；全书排名第一的影响因素自我报告成绩仅提及 6 次 | 频次反差高达近 16 倍（1600%） | 实证揭示其对班级规模无用论的高频倾斜服务于政府财政紧缩意图，而非基于客观统计均衡性 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与[[Academic Achievement\|学业成绩]]收益曲线提取 | 原文证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 原文正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与[[Cognition Education\|认知教育]]公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |

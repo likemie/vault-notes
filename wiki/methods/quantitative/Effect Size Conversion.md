@@ -263,7 +263,7 @@ updated: 2026-10-18
 
 ---
 
-### 8. 通用语言效应量（Common Language Effect Size, CLES）换算与概率边界规范
+### 8. 普通语言效应量（Common Language Effect Size, CLES）换算与概率边界规范
 
 > [!formula-step] 公式步骤　标准化均值差到二项[[Common Language Effect Size|超越概率]]的映射
 > $$\text{CLES} = \Phi\left(\frac{d}{\sqrt{2}}\right), \quad \text{CLES} \in (0\%, 100\%)$$

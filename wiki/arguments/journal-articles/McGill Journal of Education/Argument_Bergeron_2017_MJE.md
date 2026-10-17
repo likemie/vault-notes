@@ -1,5 +1,5 @@
 ---
-summary: "从数理统计学视角系统审查 John Hattie 可见学习方法论，揭示二阶元分析存在初等概率计算错误（常见语言效应量产出负概率）、基线比较主观任意性、三类有效公式导致完全相反排名以及相关换算极值爆炸与因果混淆，确立教育实证研究必须在全流程引入独立专业统计咨询"
+summary: "从数理统计学视角系统审查 John Hattie 可见学习方法论，揭示二阶元分析存在初等概率计算错误（普通语言效应量产出负概率）、基线比较主观任意性、三类有效公式导致完全相反排名以及相关换算极值爆炸与因果混淆，确立教育实证研究必须在全流程引入独立专业统计咨询"
 type: argument
 authors:
   - "[[Pierre-Jérôme Bergeron|Bergeron, P.-J.]]"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Inappropriate Baseline Comparisons]]"
   - "[[Common Language Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
@@ -66,7 +67,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +98,7 @@ journal: McGill Journal of Education
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **科学研究三大主要错误分类**<br>Allison et al. (2016) | 在《自然》（*Nature*）中归纳的科学研究核心错误体系，为审查[[John Hattie\|哈蒂]]在[[Meta-analysis\|元分析]]中的计算错误与[[Inappropriate Baseline Comparisons\|不当基线比较]]提供权威准绳。（p. 239） |
-> | **常见语言效应量概率映射理论**<br>McGraw and Wong (1992) | 将连续分布标准化均值差转化为二项超越概率的数学模型，确立概率值域严格落于 $(0\%, 100\%)$ 的数学公理边界。（p. 239） |
+> | **普通语言效应量概率映射理论**<br>McGraw and Wong (1992) | 将连续分布标准化均值差转化为二项超越概率的数学模型，确立概率值域严格落于 $(0\%, 100\%)$ 的数学公理边界。（p. 239） |
 > | **元分析度量空间与转换准则**<br>Borenstein et al. (2009) | 规范统计指标跨尺度转换的前提条件与数学假设，提供审查相关系数向 Cohen's $d$ 转换合法性的度量空间依据。（pp. 239, 242） |
 > | **全程统计咨询介入原则**<br>Fisher (1938) | 强调实验设计前介入而非事后尸检的统计[[Epistemology\|认识论]]，作为重构教育实证研究方法论防线的基本原则。（pp. 239–240, 245） |
 
@@ -113,7 +114,7 @@ journal: McGill Journal of Education
 > |------|----------------|
 > | **统计学审计与方法学批判** | 从数理统计学家视角审查已有[[Meta-meta-analysis\|二阶元分析]]程序，重点核验计算公式、基线设定、符号界定及聚合逻辑。（pp. 238–242） |
 > | **受控数值模拟反证** | 构造具有确定正态分布参数（$\mu=75, \sigma=5$）的四个平行实验组，分别代入三种标准效应量计算公式，检验其对教学干预排名的稳定性。（pp. 243–245） |
-> | **极值与边界数学分析** | 针对相关系数转换公式 $d = \frac{2r}{\sqrt{1-r^2}}$ 与常见语言效应量开展极限分析，检验其在 $r \to 1$ 及方差为零条件下的数学收敛性。（pp. 239, 242） |
+> | **极值与边界数学分析** | 针对相关系数转换公式 $d = \frac{2r}{\sqrt{1-r^2}}$ 与普通语言效应量开展极限分析，检验其在 $r \to 1$ 及方差为零条件下的数学收敛性。（pp. 239, 242） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -130,7 +131,7 @@ journal: McGill Journal of Education
 > ```mermaid
 > flowchart TD
 >     A["问题起点：Visible Learning 庞大数据库的科学严谨性假象"]
->     B["初等计算失范：常见语言效应量产出负概率与超 100% 荒谬值"]
+>     B["初等计算失范：普通语言效应量产出负概率与超 100% 荒谬值"]
 >     C["比较基线任意性：正负符号取决于主观选择，解释完全被动反转"]
 >     D["度量标尺失效：受控实验证实三种有效公式产出完全矛盾排名"]
 >     E["相关转换爆炸：极值发散且因果关系混淆，解释方差仅 3.85%"]
@@ -146,23 +147,23 @@ journal: McGill Journal of Education
 
 ---
 
-### 论证步骤一　常见语言效应量计算违反初等概率公理
+### 论证步骤一　普通语言效应量计算违反初等概率公理
 
-由 [[Pierre-Jérôme Bergeron|皮埃尔-热罗姆·贝热隆]]（Pierre-Jérôme Bergeron） 与利桑·里瓦尔（Lysanne Rivard）开展的数理审计表明，《[[Visible Learning|可见的学习]]》表面上呈现由海量数字构筑的宏大结构，底层计算却存在严重数学缺陷（pp. 238–239）。
+由 皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]） 与利桑·里瓦尔（Lysanne Rivard）开展的数理审计表明，《[[Visible Learning|可见的学习]]》表面上呈现由海量数字构筑的宏大结构，底层计算却存在严重数学缺陷（pp. 238–239）。
 
 > [!claim] 步骤一核心主张
-> [[John Hattie|哈蒂]]的方法论仅停留在平均值与未真正利用的标准差计算层面；其[[Meta-meta-analysis|二阶元分析]]包含初等计算错误，在常见语言[[Effect Size|效应量]]中算出了负概率与超过 100% 的荒谬数值。（pp. 238–239）
+> [[John Hattie|哈蒂]]的方法论仅停留在平均值与未真正利用的标准差计算层面；其[[Meta-meta-analysis|二阶元分析]]包含初等计算错误，在普通语言[[Effect Size|效应量]]中算出了负概率与超过 100% 的荒谬数值。（pp. 238–239）
 
 #### 1. 负概率与超额概率暴露基础数理失范
 
 任何接受过基础统计训练的研究者均应知晓概率的严格数学边界，而哈蒂的二阶合成结果却汇报了负概率（p. 239）。
 
-> [!ref-table] Cohen's d 与[[Common Language Effect Size|常见语言效应量]]（Common Language Effect Size, CLES）规范对照
+> [!ref-table] Cohen's d 与普通语言效应量（[[Common Language Effect Size]], CLES）规范对照
 > | Cohen's $d$ | 0.00 | 0.20 | 0.40 | 0.60 | 0.80 | 1.00 | 1.20 | 1.40 | 2.00 | 3.00 |
 > |---|---|---|---|---|---|---|---|---|---|---|
-> | **常见语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
+> | **普通语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
 >
-> **图表解读** 常见语言效应量（CLES）反映从实验组随机抽取一人得分高于对照组个体的概率。理论值域严格受限于 $(0\%, 100\%)$，当 $d=0$ 时为 50%。编制此基础对照表即可轻易识别附录中出现的负百分比与超 100% 概率等严重失误。（p. 239）
+> **图表解读** 普通语言效应量（CLES）反映从实验组随机抽取一人得分高于对照组个体的概率。理论值域严格受限于 $(0\%, 100\%)$，当 $d=0$ 时为 50%。编制此基础对照表即可轻易识别附录中出现的负百分比与超 100% 概率等严重失误。（p. 239）
 
 这一初等计算错误的长期存在，反映出研究团队在数理逻辑与质控上的严重缺失（pp. 239–240）。
 
@@ -201,7 +202,7 @@ journal: McGill Journal of Education
 > - **情境剥离风险** 脱离具体情境与测量层级（个体、学校、学区、国家）解释数据容易诱发严重误判。
 > - **挑战者号历史教训** 1986 年挑战者号航天飞机发射决策所依据的数据分析，表面上显示环境温度与事故风险之间不存在显著关联；然而这一结论的根源在于分析人员在数据集中人为排除了所有未发生故障的正常发射批次（Kennet & Thyregod, 2006）。将不同学段、不同持续时间及不同测量工具的研究合并为单一均值，重蹈了剥离背景条件的覆辙。（p. 240）
 
-哈蒂将负效应量断定为有害的逆向效应，然而在方法论上构成了典型的不当基线比较（Inappropriate Baseline Comparisons）：效应量的正负符号取决于对照基线的设定（p. 241）。
+哈蒂将负效应量断定为有害的逆向效应，然而在方法论上构成了典型的[[Inappropriate Baseline Comparisons|不当基线比较]]（Inappropriate Baseline Comparisons）：效应量的正负符号取决于对照基线的设定（p. 241）。
 
 > [!tension-table] 基线反转引发的解释颠覆：[[Class Size|班级规模]]与[[Socioeconomic Status|社会经济地位]]案例
 > | 考量因素与案例 | 正向设定（以常规或劣势组为基线） | 反向设定（以干预或优势组为基线） |

@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 157
+related_count: 158
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -129,6 +129,7 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Random-Effects Model]]"
   - "[[Systematic Review]]"
+  - "[[Common Language Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Meta-regression]]"
   - "[[Statistical Significance]]"
@@ -248,7 +249,7 @@ updated: 2026-10-18
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致“垃圾进、垃圾出”、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker 等方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
 > - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
-> - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者贝热隆与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示常见语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的脆弱纸牌屋与伪科学；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提出“观看中的盲视”；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
+> - **2017–2020 年 — 数理统计审计、政治哲学批判与新泰勒制解构期** 加拿大统计学者伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]）发表系统数理审计，受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言[[Effect Size|效应量]]负概率与相关换算数学爆炸，将该体系定性为违背数理统计公理的脆弱纸牌屋与伪科学；同时丹麦与澳洲学者转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提出“观看中的盲视”；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 
 ---
@@ -379,15 +380,15 @@ updated: 2026-10-18
 > | **统计内涵** | 精度由**样本量**决定：$n$ 越大，标准误 $SE$ 越小 | $SD_d$ 仅反映研究间**变异度**，与抽样精度无直接对应 |
 > | **技术后果** | 正确反映各元分析的信息量权重 | 混淆离散度与精度；武断设定 $SE=0.05$ 下限引发双向权重扭曲 |
 
-> [!ref-table] Cohen's d 与常见语言效应量（Common Language Effect Size, CLES）规范对照
+> [!ref-table] Cohen's d 与普通语言效应量（[[Common Language Effect Size]], CLES）规范对照
 > | Cohen's $d$ | 0.00 | 0.20 | 0.40 | 0.60 | 0.80 | 1.00 | 1.20 | 1.40 | 2.00 | 3.00 |
 > |---|---|---|---|---|---|---|---|---|---|---|
-> | **常见语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
+> | **普通语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
 >
-> **数理公理与概率映射** 常见语言效应量反映从实验组随机抽取一名个体的得分高于对照组个体的概率（McGraw & Wong, 1992）。其数学值域严格受限于 $(0\%, 100\%)$ 区间，当 $d=0$ 时基线概率严格为 50%。编制该标准对照表即可直接识别出附录中出现的负百分比与超过 100% 概率等严重初等算术失误（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 239]]）。
+> **数理公理与概率映射** 普通语言效应量反映从实验组随机抽取一名个体的得分高于对照组个体的概率（McGraw & Wong, 1992）。其数学值域严格受限于 $(0\%, 100\%)$ 区间，当 $d=0$ 时基线概率严格为 50%。编制该标准对照表即可直接识别出附录中出现的负百分比与超过 100% 概率等严重初等算术失误（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 239]]）。
 
-> [!critique-method] 常见语言效应量违反初等概率公理与统计咨询事后尸检困境（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 238–240]]）
-> - **初等数理错误击穿科学准绳** 依据 Allison et al. (2016) 在《自然》（*Nature*）发表的科学研究错误分类准则，计算错误属于破坏科学结论有效性的底层失误。哈蒂在通用语言效应量计算中竟得出负概率与超过 100% 的不可能概率（Topphol, 2012），暴露了全书基础计算质控的系统性溃败。
+> [!critique-method] 普通语言效应量违反初等概率公理与统计咨询事后尸检困境（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 238–240]]）
+> - **初等数理错误击穿科学准绳** 依据 Allison et al. (2016) 在《自然》（*Nature*）发表的科学研究错误分类准则，计算错误属于破坏科学结论有效性的底层失误。哈蒂在普通语言效应量计算中竟得出负概率与超过 100% 的不可能概率（Topphol, 2012），暴露了全书基础计算质控的系统性溃败。
 > - **费希尔统计事后尸检困境** 援引统计学先驱罗纳德·费希尔（Ronald Fisher, 1938）的经典警示：“在实验完成后才去咨询统计学家，往往只是请他来做一场尸检——他至多只能告诉你这项实验究竟死于什么原因。”哈蒂团队在研究方案设计、数据清洗与合成阶段缺乏专业统计学家把关，导致初等数学错误演变为全球教育决策依据。
 
 > [!tension-table] 比较基线反转引发的解释颠覆：[[Class Size\|班级规模]]与[[Socioeconomic Status\|社会经济地位]]案例（[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017, pp. 240–242]]）
@@ -904,7 +905,7 @@ updated: 2026-10-18
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 301 个影响因素（1,369 篇一阶[[Meta-analysis\|元分析]]） | [[Preregistration\|预注册]]全量元科学系统审计 | [[PICO Framework\|PICO]] 合规率；数据复现率；效应量缺失率 | 仅 **19%** 完全合规；仅 **2 项**（<1%）可复现数据；**44%** 效应量在一阶文献中完全缺失 | 样本量报告错误率达 72%；技术类研究停滞于 1980 年代 | 全面判定其数据提取链彻底崩溃，严禁作为决策依据 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | VL [[Effect Size\|效应量]]提取与计算程序 | 计量统计学 6 步检验模型 | 固定效应假设、样本重叠、加权算法、[[Confidence Interval\|置信区间]] | 6 项方法论要求全部遭到系统性违反；混用不可[[Commensuration\|通约]]的效应量公式 | 统计学上完全无效 | 证实其[[Meta-meta-analysis\|二阶元分析]]在当前学术发表条件下在科学上不可行 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | VL 统计合成程序、常见语言效应量与附录换算表 | 数理统计审计与受控数值模拟反证（$\mu=75, \sigma=5$ 平行对照设计） | 概率公理边界；公式选择稳定性；比较基线反转；$r \to d$ 极值发散 | ① CLES 计算出现负百分比与超 100% 概率；② 三类合法公式得出完全冲突排名（$3>2>1>0$ vs. $1=2=3$ vs. $0>1>2>3$）；③ $r=0.196$ 解释仅 3.85% 方差即虚增至 $d=0.40$ | 基线反转使班额（$-0.20$）与 SES（$-0.59$）政策含义彻底颠倒；对照组因变异为零出现 $d \to \infty$ | 确证二阶元分析违背基础数理统计公理，定性为伪科学纸牌屋，确立教育研究全流程必须引入独立专业统计咨询 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | VL 统计合成程序、普通语言效应量与附录换算表 | 数理统计审计与受控数值模拟反证（$\mu=75, \sigma=5$ 平行对照设计） | 概率公理边界；公式选择稳定性；比较基线反转；$r \to d$ 极值发散 | ① CLES 计算出现负百分比与超 100% 概率；② 三类合法公式得出完全冲突排名（$3>2>1>0$ vs. $1=2=3$ vs. $0>1>2>3$）；③ $r=0.196$ 解释仅 3.85% 方差即虚增至 $d=0.40$ | 基线反转使班额（$-0.20$）与 SES（$-0.59$）政策含义彻底颠倒；对照组因变异为零出现 $d \to \infty$ | 确证二阶元分析违背基础数理统计公理，定性为伪科学纸牌屋，确立教育研究全流程必须引入独立专业统计咨询 |
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 纳入检验的 133 项正向效应量及六大分维度分布 | 统计离散度与变差系数（$V_\sigma$）检验 | 效应量变异程度（标准差与均值比率）；同质性安全阈值（33%） | 总体变差系数高达 **56.87%**（学生源达 **71.24%**，学校达 **65.97%**） | 数据集极度不均匀，击穿同质性基准 | 证实效应量分布离散剧烈，均值 $d=0.40$ 无法作为普遍有效的决策标尺 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]<br>（含援引 [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | VL 附录 A 元分析表（[[Homework\|作业]]/[[Class Size\|班额]]）、核心词频与新西兰官方财务档案 | 数学逆向还原、文献溯源、词频分布与政商财务追踪多维审查 | 简单平均 vs. 加权算法；原始文献平坦化截取；词频关注度；第三方商业酬金明细 | ① 隐藏 5 个 $d$ 值直接算术平均（$d=0.29$），样本量权重丢失；② Glass & Smith 原文 $40 \to 1$ 人差异超 30 百分位，正文未见 $d=0.09$；③ 班额提及 95 次 vs. 自我报告成绩仅 6 次（反差 16 倍）；④ 2011–2015 商业咨询向学者支付累计超 **86.9 万新西兰元** | 算术平均掩盖小学（0.15）与高中（0.64）关键差异；词频与截取失衡服务于财政紧缩；政商旋转门抽税 | 确证 VL 核心算法无加权、数据提取平坦化且严重关注度失衡，实质充当紧缩政策与商业变现的工具 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究（Gray et al., 1986; Harker, 1995; Nash, 2004） | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%**；校内可控变量仅占 20–30% | 排除校外因素产生根本归因偏航；0.40 门槛主观武断（阿司匹林 $d=0.07$ 反例） | 证实其排除非学校因素的假说严重脱离教育现实，将结构不平等转嫁给一线教师 |

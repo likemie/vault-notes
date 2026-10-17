@@ -9,6 +9,14 @@
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
     },
     {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
+      "basename": "Argument_Bozeman_2004_JTT",
+      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
       "basename": "Network Governance",
       "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
     }
   ],
   "omittedPaths": [],
