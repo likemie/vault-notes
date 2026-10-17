@@ -53,7 +53,7 @@ updated: 2026-10-17
 > - **用途** 帮助研究者透视课程开发中内容、目的与教学法之间的逻辑张力，反对将教学简化为单纯的技巧灌输。
 > - **边界** 它有别于一般技术层面的教学法（Pedagogy），更侧重于对选择内容正当性与价值底蕴的理论论证。
 
-> [!citation-card] 埃瓦尔德·特哈特论德语教学论对课程实质内容的关切
+> [!citation-card] [[Ewald Terhart|埃瓦尔德·特哈特]]论德语教学论对课程实质内容的关切
 > 教育不仅是教授思考方式，更是传授值得学习的内容……关于内容的问题、关于学科教育学意义的问题、关于使课程决策合法化的反思（为何纳入此项、为何排除彼项），在实证效能主义教学模型中被完全忽略了。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 >
 > *That might have been the starting point of a [[Discourse]] about the substance of education and teaching, but Hattie does not follow this possible line of thought. So one wonders: Where is the beef? In the chapter on “curriculum” one would expect more information about the substance, the content of school learning. However, again nothing can be found there... The question of content, the question of the pedagogical significance of subjects, reflections about problems, and possibilities of legitimizing curricular decisions (Why include this—why exclude that?) are completely ignored.*
@@ -113,7 +113,7 @@ updated: 2026-10-17
 > [!claim] [[Wolfgang Klafki|沃尔夫冈·克拉夫基]]
 > 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为连接学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
-> [!claim] 埃瓦尔德·特哈特（Ewald Terhart）
+> [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
 > 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用认知策略与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 ---
@@ -165,7 +165,7 @@ updated: 2026-10-17
 > > 教学论如果被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义，从而削弱其本应具备的个体解放与自我实现功能。
 > 
 > > [!abstract] 实质教学论反思 vs 形式化效能技术主义
-> > 实证效能主义倾向于将教学提炼为通用的教学法程序与标准化[[Effect Size|效应量]]指标。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）等学者指出，这种取向将教学论完全还原为形式化认知加工，[[Epoché|悬置]]了课程内容的教育学意义与正当性反思；健全的教学理论必须在关注教学方法的同时，坚守对教什么与为何教的实质教学论追问。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+> > 实证效能主义倾向于将教学提炼为通用的教学法程序与标准化[[Effect Size|效应量]]指标。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）等学者指出，这种取向将教学论完全还原为形式化认知加工，[[Epoché|悬置]]了课程内容的教育学意义与正当性反思；健全的教学理论必须在关注教学方法的同时，坚守对教什么与为何教的实质教学论追问。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 ---
 

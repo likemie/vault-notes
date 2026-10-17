@@ -204,7 +204,7 @@ updated: 2026-10-17
 > [!claim] Hegel, G. W. F.
 > **辩证解放与普遍精神的上升** 教化在绝对意义上是实现个体解放并迈向更高精神境界的劳动过程。它不仅是自然冲动的净化，更是通过理性的表征和比较，让个体的内在欲望经历辩证否定与矛盾冲突，发现自我主体性，最终完成向精神的、普遍性伦理生活的上升。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 221)]]
 
-> [!claim] Terhart, E.
+> [!claim] [[Ewald Terhart|Terhart, E.]]
 > **形式教化与实质教化的统一及对效能主义的批判** 依据欧陆[[Geisteswissenschaften|精神科学]]与[[Paideia|古典教化]]传统，教化既包含认知思维能力的训练（形式教化），又必须以承载人类文化价值与伦理关怀的学科具体知识为中介（实质教化）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）批判《[[Visible Learning|可见的学习]]》等英美效能主义超级综合彻底滑向形式教化，抽空了课程与教学中的教化实质；教育研究若将教化降格为脱离学科内容的通用[[Effect Size|效应量]]控制，便会使人格形塑陷入实质空洞化。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 ---
@@ -280,7 +280,7 @@ updated: 2026-10-17
 > > - **[[Critical Pedagogy|批判教学论]]视角（Klafki）** 强调通过[[Epochal Key Problems\|时代关键问题]]唤醒民主反思与社会正义。
 >
 > > [!axis] 全人教化不可度量性 vs 绩效主义指标可操作性
-> > 现代[[Positivism|实证主义]]政策研究者批评 Bildung 过于哲学思辨与抽象，缺乏行为测量指标，无法适应现代大规模教育问责与质量监测。支持者则回应，教化的根本价值正在于其不可形式化，它恰恰是保护师生免遭量化暴政与数据异化的重要屏障。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）进一步论证，试图通过[[Meta-meta-analysis|二阶元分析]][[Effect Size|效应量]]排行榜寻找教学圣杯的努力，不仅陷入稳定性与变异性假说的双重困境，更因抽空学科实质内容而导致教化本体的空洞化。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 436–437)]]
+> > 现代[[Positivism|实证主义]]政策研究者批评 Bildung 过于哲学思辨与抽象，缺乏行为测量指标，无法适应现代大规模教育问责与质量监测。支持者则回应，教化的根本价值正在于其不可形式化，它恰恰是保护师生免遭量化暴政与数据异化的重要屏障。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）进一步论证，试图通过[[Meta-meta-analysis|二阶元分析]][[Effect Size|效应量]]排行榜寻找教学圣杯的努力，不仅陷入[[Stability vs. Variability Dilemma|稳定性与变异性假说]]的双重困境，更因抽空学科实质内容而导致教化本体的空洞化。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 436–437)]]
 > >
 > > - **绩效实证派** 追求可测量的学习产出、[[Effect Size|效应量]]与技能达标清单。
 > > - **教化哲学与批判派（Larsen, Biesta, Terhart）** 捍卫不可[[Operationalization|操作化]]的内在尊严与文化实质内容。

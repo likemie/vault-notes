@@ -412,10 +412,10 @@ updated: 2026-10-17
 >   相同教学法内部的特定参数调节（如分散练习），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
 
 > [!critique] [[Argument_Terhart_2011_JCS|Terhart (2011)]] · 货币比附谬误与修补金字塔双重困境
-> 德国教育学者埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从方法学审计与[[Epistemology|认识论]]哲学高度审视了二阶粗放综合（Mega-analysis）的推论困境：
+> 德国教育学者[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从方法学审计与[[Epistemology|认识论]]哲学高度审视了二阶粗放综合（Mega-analysis）的推论困境：
 > 1. **货币比附谬误与经验信息不可逆损耗** 金钱可以通过不同渠道汇集并将不同货币无损折算，但来自不同设计、不同情境的教学实证研究无法实现此类无损[[Commensuration|通约]]；二阶综合将已经高度压缩的元分析数据再次累加，原始详尽的经验信息与情境控制参数在反复累加中消失殆尽，累加层级越高，证据的真实稳健性反而越发降低（pp. 429, 436）；
 > 2. **时滞解耦与关键结论的系统性滞后** 初级实证研究发表通常比一阶元分析早约 5 年，而二阶综合纳入的一阶元分析往往发表于 10 至 20 年前；这种跨越数十年的时间滞后使二阶综合脱离前沿教学实际，导致其关键发现面临系统性过时风险（pp. 428–429）；
-> 3. **稳定性假说与变异性假说的双重困境** 二阶超级综合在认识论上陷入两难：对于报告的绝大多数通用[[Effective Teaching|有效教学]]因素（如清晰讲授、反馈、目标导向），其实质上仅是对数十年来教育教科书既有常识的渐近逼近，缺乏新知识增量（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论（如声称教师专业知识与教育背景影响微弱）已被最新严谨实证（如德国 COACTIV 项目证实教师学科知识与学科教学法知识的决定性价值）全面颠覆（变异性假说）（pp. 436–437）；
+> 3. **[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的双重困境** 二阶超级综合在认识论上陷入两难：对于报告的绝大多数通用[[Effective Teaching|有效教学]]因素（如清晰讲授、反馈、目标导向），其实质上仅是对数十年来教育教科书既有常识的渐近逼近，缺乏新知识增量（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论（如声称教师专业知识与教育背景影响微弱）已被最新严谨实证（如德国 [[COACTIV]] 项目证实教师学科知识与学科教学法知识的决定性价值）全面颠覆（变异性假说）（pp. 436–437）；
 > 4. **终结圣杯神话的金字塔隐喻** 二阶元分析未曾寻获掌控教学成效的终极法则（圣杯），其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法轻易移位；另一方面局部不断受损、整体需无休止扩建修复，始终处于临时性与未完成状态（p. 437）。
 
 ---
@@ -453,7 +453,7 @@ updated: 2026-10-17
 
 > [!evidence-grid] 使用此方法的核心代表研究
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
-> - **二阶综合[[Epistemology|认识论]]审计与修补金字塔批判** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 对《可见的学习》816 项元分析开展方法学审读与认识论解构，提出货币比附谬误揭示跨项目粗放累加导致的经验信息不可逆损耗，诊断 10–20 年底层文献时滞解耦，并以稳定性与变异性假说双重困境论证巨型综合筑起的是需无休止局部修补的庞大金字塔，破除终极圣杯神话（pp. 425–438）。
+> - **二阶综合[[Epistemology|认识论]]审计与修补金字塔批判** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 对《可见的学习》816 项元分析开展方法学审读与认识论解构，提出货币比附谬误揭示跨项目粗放累加导致的经验信息不可逆损耗，诊断 10–20 年底层文献时滞解耦，并以[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境论证巨型综合筑起的是需无休止局部修补的庞大金字塔，破除终极圣杯神话（pp. 425–438）。
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity\|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 确立创造力[[Predictive Validity\|预测效度]]与教育干预效应。
 > - **[[Cooperative Learning\|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review\|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting\|逆方差加权]][[Random-Effects Model\|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect\|调节效应]]。
@@ -474,7 +474,7 @@ updated: 2026-10-17
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
-> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）提出的货币比附谬误与稳定性/变异性假说双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）提出的货币比附谬误与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
 > - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]

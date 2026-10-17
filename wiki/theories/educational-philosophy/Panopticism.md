@@ -118,7 +118,7 @@ updated: 2026-10-17
 #### 双向可见性隐喻与自我监控的内化全景规训
 
 > [!critique] 双向可见性与微观自我[[Disciplina and Doctrina|规训]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）
-> - **互见互视的控制结构** 《[[Visible Learning|可见的学习]]》教与学模型以眼睛为核心象征，强调“教师通过学生的眼睛看教学、学生将自己视为自身的教师”。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出这种“互看、互见与互相被观察”构成了现代微观全景控制结构。
+> - **互见互视的控制结构** 《[[Visible Learning|可见的学习]]》教与学模型以眼睛为核心象征，强调“教师通过学生的眼睛看教学、学生将自己视为自身的教师”。[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出这种“互看、互见与互相被观察”构成了现代微观全景控制结构。
 > - **外在统治向内化微观自我监控的转化** 传统的、外显的行政强制统治，在此转化为精致、内化且去中心化的微观规训技术。这一机制将学生深度编织进自我监控的规训网络中，诱导其主动按照外部常模规训自身的学习行为，形成深层的自我管控体系。
 > - **以学生中心修辞掩盖权力支配** 教师在模式中依然处于主导性支配地位，借由“学生成为自身教师”的以学生为中心修辞，成功遮蔽了课堂内部固有的权力不对称支配关系，同时排除了对学科实质内容正当性与[[Bildung|精神教化]]的批判审议。
 
@@ -156,7 +156,7 @@ updated: 2026-10-17
 >
 > *“The major effect of the Panopticon: to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power. Bentham laid down the principle that power should be visible and unverifiable... he must be sure that he may always be so.”*
 
-> [!citation-card] 特哈特论双向可见性与内化微观全景[[Disciplina and Doctrina|规训]]
+> [!citation-card] [[Ewald Terhart|特哈特]]论双向可见性与内化微观全景[[Disciplina and Doctrina|规训]]
 > 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出《[[Visible Learning|可见的学习]]》倡导的“通过学生眼睛看教学、学生扮演自身教师”的双向可见性，构成了全景控制的现代变体。传统的、外显的行政强制统治，在此转化为内化、微妙且去中心化的全景监控规训。该机制将学生深度编织进自我监控的微观规训网络中，使其成为持续自我督导的主体；在以学生中心修辞掩盖权力支配的同时，排除了关于学科实质教化的学术审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
 >
 > *Seen from the perspective of Michel Foucault, this mutual seeing, making visible and being seen could be considered as an omnipresent control structure. The traditional, explicit regime of domination is transformed into an internalized, subtle, decentralized surveillance... this can also be understood as a new, more intensive and more comprehensive control structure which does not liberate the student, but instead integrates him into a subtle regime of [[Self-control]].*

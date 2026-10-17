@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Competitiveness]]"
+  - "[[Creativity]]"
   - "[[Theoretical Perspective]]"
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
@@ -48,6 +49,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
   - "[[Michael Gove]]"
   - "[[Ivan Snook]]"
@@ -102,7 +104,7 @@ updated: 2026-10-17
 >
 > *“Teachers pointed out the unethical nature of effectively flipping a coin to determine which of two teachers has the opportunity to earn an incentive... Teachers are inherently motivated to work in the best interest of their pupils, not responding positively to financial incentives.”*
 
-> [!citation-card] 特哈特论教师绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政测评监控争议（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）
+> [!citation-card] [[Ewald Terhart|特哈特]]论教师绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政测评监控争议（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）
 > [[John Hattie|哈蒂]]与新西兰政府保持着紧密的政策咨询联系，并在推广其评估与培训项目（asTTle）过程中涉及有偿商业利益。在政策实践中，他因倡导教师绩效工资元素而遭受批评，asTTle 亦被指责为用于评定和衡量教师绩效的行政管理工具。这种模式忽视了社会背景、不平等与学校结构问题，代表了一种自上而下、行政驱动且追求经济效益的新自由主义策略，招致了一线教师与基层改革者的普遍抵制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 426, 434–435)]]
 >
 > *“Similarly, he is accused of advertising elements of performance-related pay of teachers and he is being criticized for the use of asTTle as the administrative tool for scaling teacher performance. His neglect of social backgrounds, inequality, racism, etc., and issues of school structure is also held against him... So we are confronted with the entire repertoire of bottom-up school reformer arguments against a technocratic, administration-driven, centralistic, and economically motivated neo-liberal strategy.”*
@@ -168,7 +170,7 @@ updated: 2026-10-17
 > **专业差异付酬探索与测量困境** 哈蒂澄清其学术立场在于支持探索“根据教师高阶专业水平付酬”的法理正当性，如同其他成熟专业领域一样，与简单盲从功绩工资方案存在明确界线。然而，他回顾自身参与美国国家专业教学标准委员会（NBPTS）等机构的大规模研究指出：开发客观、公正且能精准反映优秀教学的评价工具面临极高技术困难。他指出目前主流的计件式绩效考核未能提供改善学习的有效证据，且若设计不当极易退化为粗暴的利益博弈。
 >
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011, pp. 426, 434–435)]]
-> **行政测评监控与基层抵制** 埃瓦尔德·特哈特（Ewald Terhart）通过考察新西兰教育改革实践指出，绩效工资改革不仅在学理上背离了专业协作理念，在实践中更深陷行政监控与利益冲突争议。哈蒂在担任新西兰政府核心政策顾问期间倡导绩效工资元素，并将自主研发的 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件转化为核算教师表现的行政工具，同时通过相关机构开展有偿培训。这种将自下而上的专业反思异化为自上而下技术官僚问责的做法，引发了新西兰教师工会与基层教育者的强烈反弹（Hammonds, 2009a; Smythe, 2010; [[Argument_Snook_2010_NZJES|Snook et al., 2010]]）。基层教师明确拒绝这种抑制教学探索自由、强化持续测试考核的新自由主义效率策略，表明绩效工资在推进过程中极易与行政监控手段绑定，激化行政官僚与教师专业群体之间的制度性对抗。
+> **行政测评监控与基层抵制** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）通过考察新西兰教育改革实践指出，绩效工资改革不仅在学理上背离了专业协作理念，在实践中更深陷行政监控与利益冲突争议。哈蒂在担任新西兰政府核心政策顾问期间倡导绩效工资元素，并将自主研发的 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件转化为核算教师表现的行政工具，同时通过相关机构开展有偿培训。这种将自下而上的专业反思异化为自上而下技术官僚问责的做法，引发了新西兰教师工会与基层教育者的强烈反弹（Hammonds, 2009a; Smythe, 2010; [[Argument_Snook_2010_NZJES|Snook et al., 2010]]）。基层教师明确拒绝这种抑制教学探索自由、强化持续测试考核的新自由主义效率策略，表明绩效工资在推进过程中极易与行政监控手段绑定，激化行政官僚与教师专业群体之间的制度性对抗。
 
 ---
 
@@ -216,7 +218,7 @@ updated: 2026-10-17
 > - **1980s — 新自由主义兴起与功绩工资（Merit Pay）受挫** 伴随[[New Public Management\|新公共管理]]（NPM）运动，英美与新西兰尝试重启绩效工资。1981 年 Murnane & Cohen 指出其“因历史失利而暗淡”；新西兰议会选择委员会《[[The Scott Report\|斯科特报告]]》（Scott Report 1986）承认测量极其复杂，建议建立大学专业测量单位，但因技术瓶颈最终搁置。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 103)]]
 > - **2000s — [[Global Education Reform Movement\|全球教育改革运动]]（GERM）与增值模型泛滥** 伴随标准化考试与增值模型（VAM）兴起，美国《不让一个孩子掉队》（[[No Child Left Behind Act 2001\|NCLB]]）推动绩效工资与测验硬性挂钩，引发教育界对评价偏误的广泛抗议。
 > - **2009–2010 — 新西兰部长征用[[John Hattie|哈蒂]]数据风波与专业[[Development Turn in Comparative Education|发展转向]]** 新西兰教育部长安妮·托利（Anne Tolley）高调援引哈蒂《[[Visible Learning\|可见的学习]]》以推销绩效工资方案，引发学界系统性反击；[[Ivan Snook|斯努克]]等人指出外在金钱考评与优质教学所需的休息室[[Peer-Supported Learning|同伴文化]]根本冲突（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]），迫使哈蒂澄清其立场仅支持审慎探索高阶专业标准认定而非粗暴计件奖惩（[[Argument_Hattie_2010_NZJES\|Hattie, 2010]]）。
-> - **2010–2011 — 新西兰政策咨询争议与行政测评工具异化批判** 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434–435]]）在长篇述评中指出，哈蒂深度介入新西兰国家教育决策并推动绩效工资，将 [[Assessment Tools for Teaching and Learning|asTTle]] 测评软件转化为评定教师绩效的行政工具，引发了教师工会与基层教育工作者的抗议罢工与学界系统性审思（Hammonds, 2009a; Smythe, 2010; [[Argument_Snook_2010_NZJES|Snook et al., 2010]]），揭示出绩效工资与行政监控及商业化培训绑定的制度异化困境。
+> - **2010–2011 — 新西兰政策咨询争议与行政测评工具异化批判** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434–435]]）在长篇述评中指出，哈蒂深度介入新西兰国家教育决策并推动绩效工资，将 [[Assessment Tools for Teaching and Learning|asTTle]] 测评软件转化为评定教师绩效的行政工具，引发了教师工会与基层教育工作者的抗议罢工与学界系统性审思（Hammonds, 2009a; Smythe, 2010; [[Argument_Snook_2010_NZJES|Snook et al., 2010]]），揭示出绩效工资与行政监控及商业化培训绑定的制度异化困境。
 > - **2013–2018 — 跨国评估时代的政治化包装与媒介化推销** 英格兰等系统在推行争议性 PRP 改革时，将 [[PISA]] 国际样板与[[OECD\|经合组织]][[Discourse|话语]]作为合法化弹药，通过遗漏话语和媒介公关掩盖跨国实证无效性，引发国际学者群体对评估工具被政治异化的公开抵制。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 > - **2017–2021 — 现场[[Randomised Controlled Trials\|随机对照试验]]的伦理破产与可行性反思** 英国 [[Education Endowment Foundation\|EEF]] 与 RAND 欧洲团队试图通过严格 RCT 验证绩效奖金辅导模式（[[Incentivised Pay and Coaching Trial\|ICR]] 试验），因教师群体对抛硬币分配奖金资格的强烈伦理抗议而遭遇招募流产，出具《关闭报告》，迫使循证机构反思外部经济激励在公立校园落地的方法学与伦理可行性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 

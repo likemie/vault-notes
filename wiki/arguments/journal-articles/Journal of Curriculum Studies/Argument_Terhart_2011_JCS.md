@@ -2,7 +2,7 @@
 summary: "特哈特对《可见的学习》展开长篇学术书评，从二阶元分析认识论局限、教学理论实质内容空洞化与福柯式可见性政治三个维度系统审查哈蒂体系，提出二阶聚合受制于稳定性与变异性假说的双重困境。"
 type: argument
 authors:
-  - "Terhart, E."
+  - "[[Ewald Terhart|Terhart, E.]]"
 source_language: en
 citation: "Terhart, E. (2011). Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning. Journal of Curriculum Studies, 43(3), 425–438."
 year: 2011
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Direct Instruction]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Microteaching]]"
+  - "[[Teacher Clarity]]"
   - "[[Feedback]]"
   - "[[Constructivist Instruction]]"
   - "[[Constructivist Paradigm]]"
@@ -40,6 +42,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Discourse]]"
 related_theories:
+  - "[[Stability vs. Variability Dilemma]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Panopticism]]"
   - "[[Radical Constructivism]]"
@@ -53,10 +56,12 @@ related_methods:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
+  - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
   - "[[Karl Popper]]"
   - "[[Carl Bereiter]]"
-related_facts: []
+related_facts:
+  - "[[COACTIV]]"
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"
 sources:
@@ -71,7 +76,7 @@ title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -84,10 +89,10 @@ journal: "Journal of Curriculum Studies"
 ## 研究问题
 
 > [!question]
-> 新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）中声称基于 800 多项[[Meta-analysis|元分析]]找到了教学研究的圣杯（Holy Grail）。这一宏大综合是否真正确立了教学研究的可靠知识？其背后的[[Meta-meta-analysis|元-元分析]]方法论、[[Didaktik|教学理论]]建构以及[[Evidence-Based Education|证据本位教育]]的[[Epistemic Commitments|认识论承诺]]存在何种深层局限与内在困境？（p. 426）
+> 德国教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）针对新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）中所声称的基于 800 多项[[Meta-analysis|元分析]]找到了教学研究的圣杯（Holy Grail）提出质询：这一宏大综合是否真正确立了教学研究的可靠知识？其背后的[[Meta-meta-analysis|元-元分析]]方法论、[[Didaktik|教学理论]]建构以及[[Evidence-Based Education|证据本位教育]]的[[Epistemic Commitments|认识论承诺]]存在何种深层局限与内在困境？（p. 426）
 
 > [!claim] 核心主张
-> 哈蒂未曾获得教学研究的终极圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔：二阶聚合在消除方法学细节的同时丢失了原始经验信息；形式化与心理学化的教学模型抽空了德国教学论（[[Didaktik]]）与教化（[[Bildung]]）传统所关注的学科实质内容正当性；视觉隐喻掩盖了微观权力[[Disciplina and Doctrina|规训]]与隐性教师中心主导；全书不可调和地同时受制于渐近逼近已知常识的稳定性假说与关键领域结论已被最新实证颠覆的变异性假说。（pp. 426, 430–431, 434–437）
+> 哈蒂未曾获得教学研究的终极圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔：二阶聚合在消除方法学细节的同时丢失了原始经验信息；形式化与心理学化的教学模型抽空了德国教学论（[[Didaktik]]）与教化（[[Bildung]]）传统所关注的学科实质内容正当性；视觉隐喻掩盖了微观权力[[Disciplina and Doctrina|规训]]与隐性教师中心主导；全书不可调和地同时受制于[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]。（pp. 426, 430–431, 434–437）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 聚焦哈蒂（2009）专著《可见的学习》全书 816 项元分析、138 项影响因素及其建构的二阶元分析模型、教学理论体系与新西兰政策咨询实践。（pp. 425–427）
@@ -104,7 +109,7 @@ journal: "Journal of Curriculum Studies"
 > | **欧陆教学论与教化理论**<br>[[Didaktik]] / [[Bildung]] | 提供考察课程教学实质内容的哲学视镜，强调教育不仅是形式化思维训练，更是对值得学习的实质知识及其正当性的价值反思，用于诊断[[John Hattie\|哈蒂]]体系的内容空洞。（pp. 430–431） |
 > | **三个世界理论**<br>[[Popper's Three Worlds Theory]] | 借助[[Karl Popper\|卡尔·波普尔]]（Karl Popper）客观知识理论与卡尔·贝莱特（[[Carl Bereiter]]）的诠释，剖析哈蒂如何将学习形式化区分为表层知识、深层思维与理论建构三层级。（pp. 430–431） |
 > | **全景敞视规训机制**<br>[[Panopticism]] | 借助米歇尔·福柯（Michel Foucault）权力与可见性理论，透视哈蒂将互看与互相观察作为教学核心象征的政治意涵，揭示外显统治向内化微观支配的转化。（p. 434） |
-> | **双重困境模型**<br>Stability vs. Variability Dilemma | 提出稳定性假说（新增研究仅渐近逼近已知教科书结论）与变异性假说（旧数据滞后导致结论被新研究推翻），用于终结终极圣杯神话。（pp. 436–437） |
+> | **双重困境模型**<br>[[Stability vs. Variability Dilemma]] | 提出稳定性假说（新增研究仅渐近逼近已知教科书结论）与变异性假说（旧数据滞后导致结论被新研究推翻），用于终结终极圣杯神话。（pp. 436–437） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具将针对《[[Visible Learning|可见的学习]]》的计量统计审计、文本概念细读与政治哲学批判连接起来。欧陆教学论揭示了其课程章节缺乏学科实质内容的学理盲区，福柯的权力视角揭示了其浪漫化教育乐观主义背后的监控本质，而稳定性与变异性假说则从科学哲学高度锁定了[[Meta-meta-analysis|二阶元分析]]作为循证政策工具的内在局限。（pp. 430–437）
@@ -211,8 +216,8 @@ journal: "Journal of Curriculum Studies"
 > [!contrast-table] 教师核心影响因素与激活者 vs 促进者效应量对照（pp. 432–433, Tables 2 & 3）
 > | 对比维度 | 教师核心影响因素（Table 2） | 教师作为激活者（Table 3） | 教师作为促进者（Table 3） |
 > |---|---|---|---|
-> | **核心实践一** | **微格教学**<br>$d = 0.88$ | **交互式教学**<br>$d = 0.74$ | **模拟与游戏**<br>$d = 0.32$ |
-> | **核心实践二** | **教师清晰度**<br>$d = 0.75$ | **形成性反馈（[[Feedback]]）**<br>$d = 0.72$ | **探究式教学**<br>$d = 0.31$ |
+> | **核心实践一** | **[[Microteaching\|微格教学]]**<br>$d = 0.88$ | **交互式教学**<br>$d = 0.74$ | **模拟与游戏**<br>$d = 0.32$ |
+> | **核心实践二** | **[[Teacher Clarity\|教师清晰度]]**<br>$d = 0.75$ | **形成性反馈（[[Feedback]]）**<br>$d = 0.72$ | **探究式教学**<br>$d = 0.31$ |
 > | **核心实践三** | **师生关系**<br>$d = 0.72$ | **自我言语指导**<br>$d = 0.67$ | **缩减班级规模**<br>$d = 0.21$ |
 > | **核心实践四** | **教师专业发展**<br>$d = 0.62$ | **元认知策略**<br>$d = 0.67$ | **个别化教学**<br>$d = 0.20$ |
 > | **核心实践五** | **不给学生贴标签**<br>$d = 0.61$ | **直接教学（[[Direct Instruction]]）**<br>$d = 0.59$ | **问题解决学习**<br>$d = 0.15$ |
@@ -239,7 +244,7 @@ journal: "Journal of Curriculum Studies"
 ### 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
 
 > [!claim] 步骤三核心主张
-> 二阶元分析试图以追求最高确定性的科学知识指导教育决策，却在[[Epistemology|认识论]]上同时受制于稳定性假说与变异性假说；哈蒂未曾获得终结教学争议的圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔。（pp. 435–437）
+> 二阶元分析试图以追求最高确定性的科学知识指导教育决策，却在[[Epistemology|认识论]]上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说；哈蒂未曾获得终结教学争议的圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔。（pp. 435–437）
 
 #### 1. 循证决策面临常识逼近与结论过时的不可调和矛盾
 
@@ -247,7 +252,7 @@ journal: "Journal of Curriculum Studies"
 
 > [!tension] 巨型综合认识论的双重困境
 > - **稳定性假说（Stability [[Hypothesis]]）** 对于报告的绝大多数有效教学因素（如清晰讲授、反馈、目标导向），其有效性早已是近十年来教育教科书与综合述评的标准常识；即便未来在 2020 年新增 300 项元分析，也仅能对已知规律实现渐近逼近，无法带来任何实质的知识增量。（pp. 436–437）
-> - **变异性假说（Variability Hypothesis）** 在特定关键领域，基于陈旧文献所得出的否定性结论已被最新实证全面颠覆。例如声称教师教育与学科专业知识影响微弱，但鲍默特等人（Baumert et al., 2010）在德国教师专业能力与认知激活教学项目（Professional Competence of Teachers, Cognitively Activating Instruction, and the Development of Students' Mathematical Literacy, COACTIV）中已严谨证实，数学教师的 CK 与 PCK 对学生学业成长具有决定性促进作用。（pp. 428, 436–437）
+> - **变异性假说（Variability Hypothesis）** 在特定关键领域，基于陈旧文献所得出的否定性结论已被最新实证全面颠覆。例如声称教师教育与学科专业知识影响微弱，但鲍默特等人（Baumert et al., 2010）在德国[[COACTIV|教师专业能力与认知激活教学项目]]（COACTIV）中已严谨证实，数学教师的 CK 与 PCK 对学生学业成长具有决定性促进作用。（pp. 428, 436–437）
 
 二阶综合不可避免地同时面临常识渐近逼近与旧结论滞后颠覆的两难，其终结教学争议的雄心彻底落空。（pp. 436–437）
 
@@ -268,7 +273,7 @@ journal: "Journal of Curriculum Studies"
 > 1. **二阶聚合致使经验信息损耗与时效滞后** 跨研究重复聚合消解了原始经验情境与控制[[Variable|变量]]，且缺乏纳入质控标准并过度依赖陈旧文献，导致底层数据库质量异质。（pp. 428–429, 436）
 > 2. **形式化[[Didaktik|教学理论]]面临教化实质真空** 联想式借用波普尔[[Popper's Three Worlds Theory|三个世界理论]]，抽空了德语教学论与教化传统所关注的学科知识正当性与价值反思。（pp. 430–431）
 > 3. **双向可见性隐喻潜藏全景[[Disciplina and Doctrina|规训]]治理** 互看与被观察构成了理论核心，以学生中心的修辞掩盖了教师支配与内化的微观自我监控机制。（pp. 434–435）
-> 4. **终结圣杯神话的金字塔双重困境** 二阶聚合同时受制于常识渐近逼近的稳定性假说与旧结论被最新实证颠覆的变异性假说，证明循证决策无法消除教育复杂性。（pp. 436–437）
+> 4. **终结圣杯神话的金字塔双重困境** 二阶聚合同时受制于常识渐近逼近的[[Stability vs. Variability Dilemma|稳定性假说]]与旧结论被最新实证颠覆的变异性假说，证明循证决策无法消除教育复杂性。（pp. 436–437）
 
 > [!stat-cards]- 核心数据
 > - **816 / 52,649 / 8303万** [[John Hattie|哈蒂]]综合的[[Meta-analysis|元分析]]数、初级研究数与涵盖学生样本规模。（p. 428）
@@ -281,7 +286,7 @@ journal: "Journal of Curriculum Studies"
 
 ## 关键引用
 
-> [!citation-card] 特哈特论[[Meta-meta-analysis|二阶元分析]]的经验信息损失与货币比附批判
+> [!citation-card] [[Ewald Terhart|特哈特]]论[[Meta-meta-analysis|二阶元分析]]的经验信息损失与货币比附批判
 > 通过反复累加，原始详尽的经验信息消失了。当然，可以通过不同渠道积累金钱并将不同货币汇聚在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？如果你这样做，这仍然可靠吗——还是你累加得越多，证据的稳健性反而越发降低？（p. 436）
 >
 > *Through repeated cumulation the original detailed empirical information disappears. Of course, it is possible to accumulate money using different channels and to bring different currencies together, but can you do the same with research results from different projects, different methods? And if you do so, is this still reliable—or is the robustness of evidence reduced the more you cumulate even more things that have already been cumulated on lower levels of analysis?*
@@ -297,7 +302,7 @@ journal: "Journal of Curriculum Studies"
 > *His interpretation of the broad empirical evidence on successful teaching and learning leads Hattie to a modernized and refined conception of authoritative, teacher-centred teaching. The teacher is in a position of dominance—but he has to tame or to hide his dominance in a student-centred manner. The traditional, overt form of governance and domination has changed to a refined, invisible, and modern one. This is obvious if we place it in the context of Foucault’s thinking. Also, Hattie makes this very clear himself, as he places the mutual seeing, the mutual visibility, and the mutual being observed of the teacher’s teaching and the learners’ learning in the centre of his theory of teaching and learning. The symbol of this theory is the eye.*
 
 > [!citation-card] 特哈特论未找到教学圣杯与修补金字塔隐喻
-> 既然他的超级分析同时支持了稳定性假说与变异性假说，显而易见的是，哈蒂事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。（pp. 436–437）
+> 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，哈蒂事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。（pp. 436–437）
 >
 > *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
 

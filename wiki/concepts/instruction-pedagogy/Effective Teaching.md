@@ -248,7 +248,7 @@ updated: 2026-10-17
 > 从德语教学论传统与科学哲学视阈，剖析宏观有效教学综合在常识固化与结论滞后之间的双重认识论约束，以及形式化认知策略对学科文化正当性与教化实质的抽空。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> **有效教学认识论的双重困境（稳定性与变异性假说）** 埃瓦尔德·特哈特（Ewald Terhart）指出，试图通过海量元分析为有效教学寻找终极科学法则的雄心，在认识论上面临无法调和的系统性矛盾：其一为**稳定性假说（Stability Hypothesis）**，全书报告的绝大多数有效教学因素（如明确目标、形成性反馈、积极[[Student-Teacher Relationship|师生关系]]）早已是主流教育学教科书与专业常识的基本组成部分，对其继续进行数百项元分析追加仅能实现数学上的渐近逼近，无法带来任何实质知识增量；其二为**变异性假说（Variability Hypothesis）**，基于陈旧元分析数据库（大多源自 1980–1990 年代）得出的否定性结论已被前沿实证全面颠覆，例如声称教师教育与专业学科知识对有效教学影响微弱的论断，已被鲍默特等人（Baumert et al., 2010）在 COACTIV 项目中以严谨的因果设计推翻，后者证实教师学科知识（CK）与学科教学法知识（PCK）对学生学业成长具有强力的决定性促进作用。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 428, 436–437)]]
+> **有效教学认识论的双重困境（[[Stability vs. Variability Dilemma|稳定性与变异性假说]]）** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）指出，试图通过海量元分析为有效教学寻找终极科学法则的雄心，在认识论上面临无法调和的系统性矛盾：其一为**稳定性假说（Stability Hypothesis）**，全书报告的绝大多数有效教学因素（如明确目标、形成性反馈、积极[[Student-Teacher Relationship|师生关系]]）早已是主流教育学教科书与专业常识的基本组成部分，对其继续进行数百项元分析追加仅能实现数学上的渐近逼近，无法带来任何实质知识增量；其二为**变异性假说（Variability Hypothesis）**，基于陈旧元分析数据库（大多源自 1980–1990 年代）得出的否定性结论已被前沿实证全面颠覆，例如声称教师教育与专业学科知识对有效教学影响微弱的论断，已被鲍默特等人（Baumert et al., 2010）在 [[COACTIV]] 项目中以严谨的因果设计推翻，后者证实教师学科知识（CK）与学科教学法知识（PCK）对学生学业成长具有强力的决定性促进作用。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 428, 436–437)]]
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
 > **形式化认知策略对学科教化实质的抽空与思维技能悖论** 德语教学论（Didaktik）视教学为学生、教师与特定学科文化内容之间的动态三重交互，其核心关切在于甄选具有教育正当性与[[Bildung|精神教化]]（Bildung）价值的学科实质内容。以可见学习为代表的英美有效教学话语，借由对[[Popper's Three Worlds Theory|波普尔三世界理论]]的联想式套用，将教学机械还原为表层知识到深层认知再到概念建构的形式化层级进阶，制造了实质内容的严重真空（Vacuum of material Bildung）；这种形式主义陷入了著名的思维技能悖论——研究越强调有效思维策略与概念加工技能的重要性，学生越需要掌握海量特定领域的实质性学科事实与结构化知识作为支撑，脱离丰富学科内容的所谓通用有效教学技能只是一种形式主义幻影。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
@@ -275,7 +275,7 @@ updated: 2026-10-17
 > - **1970–1980 年代 — 过程—结果实证[[Paradigm|研究范式]]（Process-Product Paradigm）** 以 Barak Rosenshine、Jere Brophy 为代表，系统测量教师行为（如提问频率、等待时间、[[Direct Instruction|直接讲授]]）与学生标准化成绩之间的量化关联，奠定了显性有效教学原则。
 > - **1990–2000 年代 — [[Didaktik|欧陆教学论]]与质量框架整合（Didaktik & Quality Dimensions）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
-> - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
+> - **2011 年 — 欧陆教学论审视与[[Epistemology|认识论]]双重假说解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–437]]）从德语教学论与思想史视角系统审视有效教学的[[Meta-meta-analysis|二阶元分析]]金字塔，量化提炼激活者（$d = 0.60$）与促进者（$d = 0.17$）的实证分化，揭示其常识逼近与结论过时的认识论双重困境，并批评其抽空学科实质内容与教化正当性的形式化弊端。
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
@@ -375,7 +375,7 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card] 特哈特论教师作为激活者 vs 促进者[[Effect Size|效应量]]与传统教学常识印证
+> [!citation-card] [[Ewald Terhart|特哈特]]论教师作为激活者 vs 促进者[[Effect Size|效应量]]与传统教学常识印证
 > 教师作为主动激活者的角色在效应量上显著压倒了作为促进者的角色（$d = 0.60$ 对比 $d = 0.17$）。然而，对于教育学和教学论研究者而言，这一被宣称为具有革命性突破的实证发现，实际上只是印证了数十年来早已确立的教学常识：有效的教学始终需要教师的主导性规划、结构化示范与即时指导；将[[Constructivist Paradigm|建构主义]]心理学直接外推为自由放任、学生自发摸索的弱指导教学，早已被证明是不切实际的幻想。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431, 433)]]
 >
 > *The role of the teacher as an activator is clearly superior to the role of the teacher as a facilitator (d=0.60 vs. d=0.17)... But for researchers in [[Didaktik]] and teaching, this finding merely confirms long-established pedagogical knowledge: effective teaching requires active teacher leadership, explicit structure, and ongoing guidance; the naive transfer of constructivist learning psychology into unguided discovery has long been known to fail.*
@@ -386,7 +386,7 @@ updated: 2026-10-17
 > *Visible Learning develops a formalized model of effective teaching focused on cognitive skills and concept formation. However, by ignoring the critical reflection on content, it [[CREATES Project|CREATES]] a vacuum of material Bildung. The [[Central Question]] of Didaktik remains: which cultural contents are chosen, with what educational justification, and how they foster human development. The more thinking skills are emphasized, the more domain-specific substantive knowledge is required.*
 
 > [!citation-card] 特哈特论有效教学[[Epistemology|认识论]]的双重困境与修补中的金字塔
-> [[Meta-meta-analysis|二阶元分析]]既受制于常识渐近逼近的稳定性假说，又受制于旧结论被前沿实证颠覆的变异性假说。[[John Hattie|哈蒂]]未曾寻获终结教学有效性争议的圣杯，其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法移位；另一方面局部不断受损、整体无休止扩建修复，始终处于临时性与未完成状态。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
+> [[Meta-meta-analysis|二阶元分析]]既受制于常识渐近逼近的[[Stability vs. Variability Dilemma|稳定性假说]]，又受制于旧结论被前沿实证颠覆的变异性假说。[[John Hattie|哈蒂]]未曾寻获终结教学有效性争议的圣杯，其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法移位；另一方面局部不断受损、整体无休止扩建修复，始终处于临时性与未完成状态。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
 > *Second-order [[Meta-analysis]] is trapped between the stability [[Hypothesis]] of approaching pedagogical common sense and the variability hypothesis of out-of-date findings being overturned by new evidence. Hattie has not found the Holy Grail of teaching effectiveness; he has built a pyramid: monumental and immovable, yet constantly damaged, requiring endless repairs, and remaining permanently provisional.*
 

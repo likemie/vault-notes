@@ -153,7 +153,7 @@ updated: 2026-10-17
 > - **干预[[Construct|构念]]子维度与学习者群体异质性（Construct & Population Heterogeneity）** 在教学实验与大规模测评中，异质性不仅存在于研究之间，更深刻存在于干预构念内部与学习者认知特征之中。其一为干预构念子维度异质性（Construct Heterogeneity），如[[Inquiry-Based Learning|探究式教学]]涵盖多种具体活动，实证表明实验设计与数据推论正向预测科学表现，而泛化无准备的[[Classroom Debate|课堂辩论]]则呈负向关联（Cairns, 2019; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]），将其笼统打包会抹杀内部截然相反的子维度效应；其二为学习者认知背景异质性（Learner Heterogeneity），教学干预效能高度受制于学习者的先前知识水平（专业知识逆转效应；Kalyuga et al., 2003）与[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]能力（Kwon & Lawson, 2000; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 7–8]]），彰显因材施教（ATI）的决定性意义。
 > - **[[Meta-meta-analysis|二阶元分析]]均质化失真与多变量[[Ecological Validity|生态效度]]（Second-Order Homogenization & Ecological Validity）** 在二阶综合中，若忽视原始研究间的[[Sample Size Determination|样本量]]权重，实施无权简单算术平均，会抹杀不同学段的实质性效应差异（如[[Homework|家庭作业]]小学与高中效果悬殊）；同时若强行截取非线性关系的平缓尾部，则会制造虚假的均质化结论。在多变量真实课堂中，情境异质性是生态效度的核心基石，物理学排除变量的控制[[Paradigm|范式]]在教育中无法成立。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–27, 32–33, 35–36)]]
 > - **教学干预性质与时长剂量的不可[[Commensuration|通约]]异质性（Intervention [[Incommensurability]] & Duration Heterogeneity）** 教育研究中的教学干预在本质上属于无法在单一连续标尺上线性比对的多维实体。[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，将计算机辅助教学、网络学习、[[Direct Instruction|直接教学]]等异质性极强的教学法置于统一的“排行榜”上，如同将德甲足球联赛积分榜机械套用于教学法比较，犯下了不可通约性的[[Category Mistake|范畴错误]]（Kategoriefehler）；同时干预时长跨越单次 20 分钟实验到长达 4 个月的学期课程，忽略时间剂量异质性而强行平均，彻底抹杀了效应量随时间累积或衰减的非线性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
-> - **[[Meta-meta-analysis|元-元分析]]层级累加的经验损耗与方法学异质性遮蔽（Mega-analysis Level Loss & Methodological Heterogeneity）** 德语教学论学者特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 436]]）揭示，一阶元分析本身是将异质研究汇总压缩的统计工具；当进一步将其组合为元-元分析（mega-analysis）时，原始研究的详细经验参数、测量背景与控制条件在反复累加中遭遇系统性损耗，无法实现无损通约（正如货币汇兑必然存在折损）。更为严重的是，这种巨型综合缺乏严格的初级元分析准入质控门槛，将高度异质的随机对照实验与宽松的调查[[Questionnaire|问卷]]、不同年代（大多源于 1980–1990 年代）的研究陈旧数据机械合并，以单一平均效应量掩盖了方法学与时间维度的深层异质性。
+> - **[[Meta-meta-analysis|元-元分析]]层级累加的经验损耗与方法学异质性遮蔽（Mega-analysis Level Loss & Methodological Heterogeneity）** 德语教学论学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 436]]）揭示，一阶元分析本身是将异质研究汇总压缩的统计工具；当进一步将其组合为元-元分析（mega-analysis）时，原始研究的详细经验参数、测量背景与控制条件在反复累加中遭遇系统性损耗，无法实现无损通约（正如货币汇兑必然存在折损）。更为严重的是，这种巨型综合缺乏严格的初级元分析准入质控门槛，将高度异质的随机对照实验与宽松的调查[[Questionnaire|问卷]]、不同年代（大多源于 1980–1990 年代）的研究陈旧数据机械合并，以单一平均效应量掩盖了方法学与时间维度的深层异质性。
 
 > [!logic-map]- 教育异质性层级与聚合失真分析模型
 > ```mermaid
@@ -266,7 +266,7 @@ updated: 2026-10-17
 > 揭示元-元分析在多级汇总过程中如何导致经验背景信息的不可逆损耗，以及缺乏质控标准如何掩盖底层极端异质性。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> **二阶综合层级损耗与底层方法学异质性遮蔽** 埃瓦尔德·特哈特（Ewald Terhart）指出，将元分析进一步提升至“元-元分析”（mega-analysis）并不等同于科学确定性的线性倍增。相反，层级累加必然以牺牲原始研究的经验情境为代价，各个初级研究的细部控制条件与测量参数在反复压缩中损失殆尽。在哈蒂综合的 800 余项元分析与 5 万余项初级研究中，由于缺乏明确的一阶质控门槛，严格受控实验与松散[[Survey Research|调查研究]]被无差别混杂在一起，且核心数据库存在严重的时效滞后（大多集中于 1980–1990 年代），导致巨型排行榜所制造的客观确定性假象，掩盖了底层极度异质、良莠不齐的研究质量现实。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 427–429, 436)]]
+> **二阶综合层级损耗与底层方法学异质性遮蔽** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）指出，将元分析进一步提升至“元-元分析”（mega-analysis）并不等同于科学确定性的线性倍增。相反，层级累加必然以牺牲原始研究的经验情境为代价，各个初级研究的细部控制条件与测量参数在反复压缩中损失殆尽。在哈蒂综合的 800 余项元分析与 5 万余项初级研究中，由于缺乏明确的一阶质控门槛，严格受控实验与松散[[Survey Research|调查研究]]被无差别混杂在一起，且核心数据库存在严重的时效滞后（大多集中于 1980–1990 年代），导致巨型排行榜所制造的客观确定性假象，掩盖了底层极度异质、良莠不齐的研究质量现实。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 427–429, 436)]]
 
 ---
 
@@ -293,7 +293,7 @@ updated: 2026-10-17
 > - **1970s–1980s — [[Meta-analysis|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为 21 世纪统计炼金术。
 > - **2000s — 测量学批评与[[Realist Evaluation|实在论综合]]** Coe（2002）指出将不同测量工具的[[Effect Size|效应量]]强行平均在数学上缺乏意义；Pawson（2006）确立背景—机制—结果的[[Realist Evaluation|实在论评估]][[Paradigm|范式]]，主张将异质性作为理论生成源泉。
-> - **2011 — [[Meta-meta-analysis|元-元分析]]层级损耗与质控缺位反思** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429]]）从方法学视角审视巨型元分析，揭示二次聚合导致原始经验变异与控制情境的系统性损耗，指出缺乏质控标准的汇总必然掩盖底层研究在设计质量与年代时效上的极端异质性。
+> - **2011 — [[Meta-meta-analysis|元-元分析]]层级损耗与质控缺位反思** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429]]）从方法学视角审视巨型元分析，揭示二次聚合导致原始经验变异与控制情境的系统性损耗，指出缺乏质控标准的汇总必然掩盖底层研究在设计质量与年代时效上的极端异质性。
 > - **2016 — [[Meta-meta-analysis|二阶元分析]]异质性双重失配与[[Category Mistake|范畴错误]]批判** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）从代数与实证双重视角揭露二阶元分析在异质性面前的结构性破产：[[Fixed-Effect Model|固定效应模型]]同质性假设在真实课堂中完全失效，而二级[[Between-Study Variance|研究间方差]] $\tau^2$ 因一阶元分析[[Sample Size Determination|样本量]]过小（平均仅 5.8 项）根本无法可靠估计；指出将异质教学法置于单一有效性排行榜犯下了德甲联赛式的范畴错误。
 > - **2010s — [[Mixed Methods Research|混合方法]]与复杂性前沿转向** Cohen, Manion and Morrison（2011）系统论证混合方法如何以质性证据破解单一统计量掩盖的解释异质性，并确立[[Complexity Theory|复杂性理论]]中异质性是核心关切的方法论[[Pluralism|多元主义]]原则。
 > - **2022 — [[Epistemic Governance|知识治理]]与多源异质性建构** [[OECD|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）揭示教育知识生态中研究者、政策制定者与教师群体各具内部异质性与外部异质性，瓦解了线性单向推送模型；并在跨国元中介治理框架下，确立了将质性、量化及本土情境等多源异质数据纳入系统性综合的前沿方法学议程。
@@ -341,7 +341,7 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card] 特哈特论[[Meta-meta-analysis|元-元分析]]多级累加中的经验异质性损耗
+> [!citation-card] [[Ewald Terhart|特哈特]]论[[Meta-meta-analysis|元-元分析]]多级累加中的经验异质性损耗
 > [[Meta-analysis|元分析]]本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的“元-元分析”（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。此外，如果未提供一阶元分析的筛选质控标准，底层数据混杂了严格的[[Experimental Research|实验研究]]与松散的[[Survey Research|调查研究]]，最终得到的平均[[Effect Size|效应量]]便掩盖了极其异质的方法学质量现实。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
 >
 > *Meta-analysis is a tool to summarize and to compress the results of a multitude of studies... If, however, one combines several meta-analyses into a mega-analysis, the empirical details are lost on each level of aggregation. One cannot change a currency without loss... Furthermore, Hattie does not provide criteria for the quality of the included meta-analyses... This leads to a high degree of heterogeneity in the underlying database.*

@@ -8532,6 +8532,19 @@
     ]
   },
   {
+    "title": "Teacher Clarity",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
+    "aliases": [
+      "教师清晰度",
+      "教学清晰度",
+      "教学清晰性",
+      "教师表达清晰度",
+      "clarity of teaching",
+      "instructional clarity"
+    ]
+  },
+  {
     "title": "Teacher Immediacy",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Teacher Immediacy.md",
@@ -14045,6 +14058,18 @@
     ]
   },
   {
+    "title": "Microteaching",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Microteaching.md",
+    "aliases": [
+      "微格教学",
+      "微型教学",
+      "微型教学法",
+      "临床微格演练",
+      "micro-teaching"
+    ]
+  },
+  {
     "title": "Normal School",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Normal School.md",
@@ -16025,6 +16050,19 @@
     "aliases": [
       "控制社会",
       "société de contrôle"
+    ]
+  },
+  {
+    "title": "Stability vs. Variability Dilemma",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Stability vs. Variability Dilemma.md",
+    "aliases": [
+      "稳定性与变异性双重困境",
+      "稳定性与变异性假说",
+      "双重困境模型",
+      "Stability and Variability Hypotheses",
+      "稳定性假说",
+      "变异性假说"
     ]
   },
   {
@@ -23420,6 +23458,17 @@
     ]
   },
   {
+    "title": "Ewald Terhart",
+    "type": "person",
+    "path": "wiki/persons/germany/Ewald Terhart.md",
+    "aliases": [
+      "埃瓦尔德·特哈特",
+      "特哈特",
+      "Terhart, E.",
+      "E. Terhart"
+    ]
+  },
+  {
     "title": "Franz Hilker",
     "type": "person",
     "path": "wiki/persons/germany/Franz Hilker.md",
@@ -29352,6 +29401,17 @@
       "情境中的化学",
       "CHiK",
       "CHiK-Projekt"
+    ]
+  },
+  {
+    "title": "COACTIV",
+    "type": "fact",
+    "path": "wiki/facts/germany/COACTIV.md",
+    "aliases": [
+      "COACTIV项目",
+      "Project COACTIV",
+      "教师专业能力与认知激活教学项目",
+      "Professional Competence of Teachers, Cognitively Activating Instruction, and the Development of Students' Mathematical Literacy"
     ]
   },
   {

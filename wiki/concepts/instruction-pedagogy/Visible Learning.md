@@ -288,8 +288,8 @@ updated: 2026-10-17
 > [!claim] Knudsen, H.
 > **课堂[[Discourse|话语]]盲点与双向可见性** [[Classroom Observation|课堂观察]]显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与[[Formative Assessment|形成性评价]]打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 257–258)]]
 
-> [!claim] Terhart, E.
-> **双向可见性的福柯式微观全景规训解构** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从权力哲学视角审视可见的学习将“眼睛”作为核心象征、倡导“互看、互见与互相被观察”的双向可见性模型指出，这种表面上的学生中心修辞实际上是一种精致的微观支配技术。传统的、公开的外显行政强制统治，在此转化为内化于师生日常互动中的微观自我监控；教师表面上倾听学生，实质上始终牢牢占据隐性支配地位，展现了福柯式的全景规训特征。（p. 434）
+> [!claim] [[Ewald Terhart|Terhart, E.]]
+> **双向可见性的福柯式微观全景[[Disciplina and Doctrina|规训]]解构** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从权力哲学视角审视可见的学习将“眼睛”作为核心象征、倡导“互看、互见与互相被观察”的双向可见性模型指出，这种表面上的学生中心修辞实际上是一种精致的微观支配技术。传统的、公开的外显行政强制统治，在此转化为内化于师生日常互动中的微观自我监控；教师表面上倾听学生，实质上始终牢牢占据隐性支配地位，展现了福柯式的全景规训特征。（p. 434）
 
 ---
 
@@ -323,7 +323,7 @@ updated: 2026-10-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，剔除 SES 调节效应制造阶级盲假象，忽视生源背景解释 70%–80% 差异构成归因失真 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进；但双向可见性在福柯视角下展现为将外显统治转化为内化自我监控的微观全景规训 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 > | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、技术理性工程论消解学习者意向性、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
@@ -336,7 +336,7 @@ updated: 2026-10-17
 > - **1987–1992 — [[Meta-meta-analysis|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis|元分析]]、22,155 个[[Effect Size|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]随后发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
-> - **2011 — 欧陆教学论系统审视与双重困境提出** 德国学者特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（Bildung）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于稳定性假说与变异性假说的内在双重困境。
+> - **2011 — [[Didaktik|欧陆教学论]]系统审视与双重困境提出** 德国学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（[[Bildung]]）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的内在双重困境。
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2019 — 变差系数统计检验与本土制度陷阱警告** 俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）首次使用变差系数（$V_\sigma = 56.87\%$）对 Hattie 效应量模型进行数理同质性检验，实证证实其数据集极端不均且缺乏质控，并结合俄教师生存困境（79% 受困于报表、仅 16% 职业声望）警示西方[[Policy Borrowing|政策借用]]可能引发的去专业化危机与制度陷阱。
@@ -371,14 +371,14 @@ updated: 2026-10-17
 > - **微观可控效能立场（蓝方）** [[John Hattie|哈蒂]]坚持将[[Research Scope|研究范围]]界定在教育者可控的校内因素，主张教师教学效能占 30% 系统方差，是政策能够直接干预的最大枢纽，不应因校外社会因素巨大而陷入无所作为的虚无主义。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–90)]]
 > - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 >
-> [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（Didaktik / Bildung）
+> [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（[[Didaktik]] / [[Bildung]]）
 > - **形式化技能综合立场（蓝方）** 哈蒂将学习形式化区分为表层知识、深层思维与理论建构三层级，聚焦跨学科通用思维技能与学习策略的效应量提炼，认为教学内容主要充当策略训练的载体。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]
-> - **欧陆教学论与教化批判立场（红方）** 特哈特指出哈蒂完全抽空了德国教学论传统的教化（[[Bildung]]）实质，全书课程章节完全缺失对学科教育学意义与教学内容选择正当性的反思（“实质内容何在”），沦为形式化分科教学法的效应量罗列。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+> - **欧陆教学论与教化批判立场（红方）** [[Ewald Terhart|特哈特]]指出哈蒂完全抽空了德国教学论传统的教化（[[Bildung]]）实质，全书课程章节完全缺失对学科教育学意义与教学内容选择正当性的反思（“实质内容何在”），沦为形式化分科教学法的效应量罗列。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 >
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
 > - **方法学与社会结构首发批判** 斯努克等人指出[[Meta-meta-analysis|二阶元分析]]缺乏底层质控、阿司匹林反例[[Falsification|证伪]] 0.40 截断值、排除 70%–80% 生源方差，以及政策制定者对班级规模与[[Performance Pay|绩效工资]]的误用。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]
-> - **欧陆教学论与认识论双重困境解构** 特哈特指出其形式化学习模型抽空了学科教化实质、双向可见性潜藏福柯式全景规训，并提出二阶综合同时陷入常识渐近逼近（稳定性假说）与旧结论滞后颠覆（变异性假说）的修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
+> - **欧陆教学论与[[Epistemology|认识论]]双重困境解构** 特哈特指出其形式化学习模型抽空了学科教化实质、双向可见性潜藏福柯式全景规训，并提出二阶综合同时陷入常识渐近逼近（[[Stability vs. Variability Dilemma|稳定性假说]]）与旧结论滞后颠覆（变异性假说）的修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **数学公理与计量程序规范** 韦克尔等人推导六项[[Meta-meta-analysis|二级元分析]]操作规程，实证揭示模型同质性假设破产与数据计算严重失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 > - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **[[Technical Rationality|技术理性]]与思想史理论溯源** 尼尔森与克利特默勒从舍恩技术理性[[Paradigm|范式]]解构哈蒂的[[Behaviorism|行为主义]]学理渊源，实证指出其剔除 [[Socioeconomic Status|SES]] 制造阶级盲、自认 0.40 门槛属于叙事故事造成学段一刀切误导，并揭露核心反馈元分析掩盖 38% 负效应与[[Construct|构念]]拼贴缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a)]]
@@ -421,8 +421,8 @@ updated: 2026-10-17
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 99)]]（引述 Physicians' Health Study, 1988） | 全美 22,071 名男性内科医生随机双盲预防试验 | 严格随机双盲对照试验（RCT） | 低剂量阿司匹林预防心肌梗死效应量与每千人挽救生命数 | 效应量仅为 $d = 0.07$；换算为每 1,000 人中净预防 34 起心肌梗死死亡 | 极高度显著（提前终止试验以推广普及） | 经典医学证据，实证证伪哈蒂将 $<0.40$ 武断划为常规发展区或低价值的逻辑谬误，确立微小效应量在大样本中的重大公共价值 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 97)]] | 《可见的学习》专著中家庭作业 5 项元分析与细分学段数据 | 二阶元分析细分亚组（[[Moderator Analysis]]）对比 | 总体家庭作业效应量 vs 学段、学科、能力细分效应量 | 总体报告 $d = 0.29$；小学仅 $d = 0.15$、高中达 $d = 0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学阶段效应量跌入发展效应区 | 实证揭示单一宏观平均效应量抹杀微观异质性，对不同学段教师指导产生实质性误导 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b, pp. 80–81, 86–88)]] | 丹麦 2014 年公立学校改革（Folkeskole Reform 2014）与 VL 综合方法体系（Table 1） | [[Critical Theory\|批判理论]]与跨国文献实证审查 | 复杂性还原、调节因素剔除、效应量原子化与[[Legitimation Crisis\|合法化危机]] | 证实 VL 将教学切片为可分级干预并许诺产出稳定性，被丹麦政府直接用作压制教师抗议并向公众证明教育有效运作的行政合法化护盾 | 质性与政策批判；指出其将师生原子化为变量并剥夺[[Intentionality\|意向性]] | 实证揭示 VL 的全球狂热源于[[Technical Rationality\|技术理性]]满足了晚期现代学校应对合法化危机的迫切需要，而非其数据真理性 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 52–56)]] | 《可见的学习》核心干预“反馈”（$d=0.73$）所依赖的 5 项最大一阶元分析（覆盖 92.4% 样本量与 83.8% 效应量） | 文献学逐项细读与概念对齐审计 | [[Construct\|构念]]一致性、效应量方向、[[Publication Bias\|发表偏倚]]与混淆变量 | 4 项元分析（Bangert-Drowns、Lysakowski、Tenbrink、Rummel）偏离形成性认知反馈（混入代币糖果强化、教师人际亲和力及动态后测训练）；掩盖 Kluger and DeNisi (1996) 证实的 38% 负面效应；大量依赖 1970 年代未发表博士论文 | 质性质询与文献计量复核 | 实证确证排名前列的标杆教学法存在严重的构念错位与异质拼贴，所谓宏观高效应量无法转化为具体课堂操作指引 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为激活者 vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统直接教学的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 52–56)]] | 《可见的学习》核心干预“反馈”（$d=0.73$）所依赖的 5 项最大一阶元分析（覆盖 92.4% 样本量与 83.8% 效应量） | 文献学逐项细读与概念对齐审计 | [[Construct\|构念]]一致性、效应量方向、[[Publication Bias\|发表偏倚]]与混淆变量 | 4 项元分析（Bangert-Drowns、Lysakowski、Tenbrink、Rummel）偏离形成性认知反馈（混入代币糖果强化、[[Teacher Immediacy\|教师人际亲和力]]及动态[[Pre-test and Post-test\|后测]]训练）；掩盖 Kluger and DeNisi (1996) 证实的 38% 负面效应；大量依赖 1970 年代未发表博士论文 | 质性质询与文献计量复核 | 实证确证排名前列的标杆教学法存在严重的构念错位与异质拼贴，所谓宏观高效应量无法转化为具体课堂操作指引 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为激活者 vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统[[Direct Instruction\|直接教学]]的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
 
 ---
 

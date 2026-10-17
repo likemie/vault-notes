@@ -122,8 +122,8 @@ updated: 2026-10-17
 >
 > *Evidence-based education policy relies on randomized and rigorous matched experiments as the foundation for policy and practice.*
 
-> [!citation-card] 埃瓦尔德·特哈特论证据本位超级综合的修补金字塔隐喻
-> 既然他的超级分析同时支持了稳定性假说与变异性假说，显而易见的是，[[John Hattie|哈蒂]]事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
+> [!citation-card] [[Ewald Terhart|埃瓦尔德·特哈特]]论证据本位超级综合的修补金字塔隐喻
+> 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，[[John Hattie|哈蒂]]事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
 > *Since his [[Meta-meta-analysis|mega-analysis]] supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
 
@@ -288,8 +288,8 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > [!concept-lens] 科学哲学认识论与[[Metascience|元科学]]审计维度
 > 该类命题聚焦宏观二阶[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]知识库，揭示以海量数据权威替代严格质控的方法论虚脱，论证科学实证研究无法收敛为终结教育争议的终极圣杯。
 
-> [!claim] 埃瓦尔德·特哈特（Ewald Terhart）
-> **证据超级综合的双重困境与金字塔修补隐喻** 依赖[[Meta-meta-analysis|元-元分析]]建立通用效应量排行的 EBE 模式并未寻获教学圣杯，其实际成果为筑起了一座需无休止局部修补与维度扩建的庞大金字塔。二阶综合在认识论上同时受制于两难困境：绝大多数报告的[[Effective Teaching|有效教学]]因素仅是对教科书既有常识的渐近逼近（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论已被最新严谨实证全面颠覆（变异性假说）。此外，形式化效能模型抽空了学科教学论与教化传统所关切的内容价值正当性，双向可见性隐喻潜藏着内化的全景[[Disciplina and Doctrina|规训]]机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430, 434–437)]]
+> [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
+> **证据超级综合的双重困境与金字塔修补隐喻** 依赖[[Meta-meta-analysis|元-元分析]]建立通用效应量排行的 EBE 模式并未寻获教学圣杯，其实际成果为筑起了一座需无休止局部修补与维度扩建的庞大金字塔。二阶综合在认识论上同时受制于两难困境：绝大多数报告的[[Effective Teaching|有效教学]]因素仅是对教科书既有常识的渐近逼近（[[Stability vs. Variability Dilemma|稳定性假说]]）；而在特定关键领域，基于陈旧文献所得出的否定性推论已被最新严谨实证全面颠覆（变异性假说）。此外，形式化效能模型抽空了学科教学论与教化传统所关切的内容价值正当性，双向可见性隐喻潜藏着内化的全景[[Disciplina and Doctrina|规训]]机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430, 434–437)]]
 
 > [!claim] 安德烈亚斯·卡尔门达尔（Andreas Kalmendal）等
 > **宏观循证知识库的元科学审计与实证虚脱** [[Preregistration|预注册]]元科学全量复核证实，全球广泛采纳的宏观循证知识库存在严重的方法学失控：在 2,111 项元分析中，严格满足 [[PICO Framework|PICO]] 准入标准且数据可完全独立复现的比例不足 1%，超过四成数据查无实据，并混杂大量非因果相关与虚构文献。盲目迷信海量数据体量作为黄金标准，实质上掩盖了底层实证证据的系统性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3)]]
@@ -329,7 +329,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **2007年 — OECD 强化什么有效议程与 Biesta 哲学批判发轫** OECD 发布《教育中的证据》力推以 RCT 作为最佳因果识别工具；比斯塔（[[Gert Biesta]]）发表论文《为什么什么有效行不通》，首次提出 EBE 的民主缺陷概念。
 > - **2009年 — 德意志各州教育行政纳入循证监测** 德国在 [[PISA]] 震荡后逐步将外部督导、全州统一测试（[[Vergleichsarbeiten|VERA]]）与循证监测纳入日常行政常规（[[Argument_Dedering_2009_EERJ|Dedering, 2009]]）；[[EU|欧盟]] ET 2020 将进展监测确立为政策基础。
 > - **2010年 — Biesta 三重缺陷理论确立与 WWC 纳入 [[Single-Case Design|SCD]] 标准** 比斯塔发表专著章节，正式确立知识、效力与应用三重[[Deficit Framing|缺陷框架]]；WWC 发布单一个案设计（SCD）试点标准，将其确立为 RCT 之外的第二类实验因果证据。
-> - **2011年 — 宏大二阶综合崛起、Terhart [[Epistemology|认识论]]解构与英国 [[Education Endowment Foundation|EEF]] 建立** [[John Hattie|约翰·哈蒂]]（John Hattie）出版《[[Visible Learning|可见的学习]]》掀起全球[[Meta-meta-analysis|二阶元分析]]热潮；特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）发表长篇书评，从[[Didaktik|欧陆教学论]]、福柯权力论与科学哲学认识论诊断 EBE 陷入稳定性与变异性假说双重困境；英国设立教育捐赠基金会（EEF），推出 [[Pupil Premium]] 与《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》。
+> - **2011年 — 宏大二阶综合崛起、Terhart [[Epistemology|认识论]]解构与英国 [[Education Endowment Foundation|EEF]] 建立** [[John Hattie|约翰·哈蒂]]（John Hattie）出版《[[Visible Learning|可见的学习]]》掀起全球[[Meta-meta-analysis|二阶元分析]]热潮；[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）发表长篇书评，从[[Didaktik|欧陆教学论]]、福柯权力论与科学哲学认识论诊断 EBE 陷入[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境；英国设立教育捐赠基金会（EEF），推出 [[Pupil Premium]] 与《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》。
 > - **2013年 — 英国 [[What Works Network]] 建立与草根运动收编** 英国建立跨部门 What Works Network；[[ResearchED]] 草根教师循证运动兴起并迅速被官方政策[[Discourse|话语]]收编背书。
 > - **2015年 — 美国 [[Every Student Succeeds Act|ESSA]] 确立四级[[Evidence Standards|证据标准]]法定门槛** 美国颁布《每个学生都成功法案》（ESSA），正式确立强、中、有希望、基于原理四级证据标准法定门槛；卡特赖特等学者通过基层访谈揭示学校无法开箱即用套用证据方案的实施困境。
 > - **2016年 — [[Mechanism Experiments|机制实验]]探索与二阶元分析数学等价性推导** 佩特森（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]）提出机制实验与持续改进网络构想；[[Christof Wecker|韦克尔]]等（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）严格推导二阶[[Fixed-Effect Model|固定效应]]等价性定理与文献重叠破产，倡议建立中央标准化公共证据库并转向一级直接综合。
@@ -353,7 +353,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > > - **[[Positivism|实证主义]]阵营（Slavin, Whitehurst）** 坚持[[Random Assignment|随机分配]]与实验控制是消除选择偏差、确立因果有效性的唯一严谨手段，主张以此作为公共政策准入的硬性门槛。
 > > - **实在论与批判哲学阵营（Biesta, Cartwright, Wrigley）** 强调教育是包含主体反思的开放系统，干预效果取决于受试者的能动推理与本地支撑环境的交互，强行套用封闭实验控制会导致严重的效力与应用缺陷。
 >
-> > [!axis] 宏大[[Research Synthesis|证据综合]]的圣杯神话 vs. 稳定性与变异性假说双重困境
+> > [!axis] 宏大[[Research Synthesis|证据综合]]的圣杯神话 vs. [[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境
 > > 围绕通过[[Meta-meta-analysis|元-元分析]]与超级综合建立全域影响气压计能否终结教育有效性争议展开[[Epistemology|认识论]]审计。
 > >
 > > - **巨型综合倡导派（Hattie, 2009）** 主张将海量[[Meta-analysis|元分析]]数据跨领域聚合，以 $d = 0.40$ 为基准构建客观普适的影响排行榜。
@@ -453,7 +453,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 初期的象征性合法化应对，演化为日常行政常规。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统反思德语区新治理工具在学校基层的成效停滞，批判清算中心因果作用假设的贫困，主张构建教育科学作为转移科学（[[Transfer Science|Transferwissenschaft]]）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 发表于《德国教育学杂志》，对在德语区广泛传播的可见学习循证神话进行数理与[[Meta-analysis|元分析]]取证解构，提出建立公共中央标准化证据库并转向一级直接[[Research Synthesis|证据综合]]的制度重构路径。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 依托德语教学论与教化传统反思可见学习与 EBE 体系，提出稳定性与变异性假说双重困境以及修补金字塔隐喻。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 依托德语教学论与教化传统反思可见学习与 EBE 体系，提出[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境以及修补金字塔隐喻。
 
 ---
 
@@ -477,7 +477,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > | [[Realist Evaluation]] | 理论 | 替代评估方法 | 探究在何种情境下通过何种机制产生何种结果，打破传统 RCT 的黑箱测量。 |
 > | [[Argument_Slavin_2002_ER\|Slavin (2002)]] | 论证 | 支持者纲领 | [[American Educational Research Association\|AERA]] 演讲代表作，系统阐释 EBE 实验控制基础与分层资助立法路径。 |
 > | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 论证 | 批判经典 | 提出知识、效力与应用三重[[Deficit Framing\|缺陷框架]]，系统解构 EBE 的[[Technical Rationality\|技术理性]]崇拜。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 认识论批判 | 提出稳定性与变异性假说双重困境，以修补金字塔隐喻解构循证终极圣杯神话。 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 认识论批判 | 提出[[Stability vs. Variability Dilemma\|稳定性与变异性假说]]双重困境，以修补金字塔隐喻解构循证终极圣杯神话。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法学反思 | 严格证明二阶元分析数学等价性与重叠破产，倡导建立公共中央证据库。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 论证 | 制度复盘 | 系统回顾英国 [[Education Endowment Foundation\|EEF]] 十年改革，记录现实主义试验与[[Research Schools Network\|研究学校网络]]的生态构建。 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | [[Metascience\|元科学]]审计 | 对可见学习底层证据开展[[Preregistration\|预注册]]全量复核，揭示宏观循证知识库的实证虚脱。 |
@@ -490,7 +490,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Slavin_2002_ER|Slavin (2002)]] — [[American Educational Research Association|AERA]] 杰出讲座纲领性文献，系统论证证据本位教育政策的必要性、[[Randomised Controlled Trials|RCT]] 黄金标准与联邦分层资助路径。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从支持者立场系统总结 EBE 在 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]法制化、干预方案存量增长与国际扩散方面的最新进展。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出知识、效力与应用三重[[Deficit Framing|缺陷框架]]，深刻批判 EBE 忽视教育开放系统特征与压制民主价值讨论的[[Technical Rationality|技术理性]]偏颇。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 长篇书评代表作，从[[Didaktik|欧陆教学论]]、福柯权力论与科学哲学[[Epistemology|认识论]]诊断 EBE 陷入稳定性与变异性假说双重困境，破除圣杯神话并提出修补金字塔隐喻。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 长篇书评代表作，从[[Didaktik|欧陆教学论]]、福柯权力论与科学哲学[[Epistemology|认识论]]诊断 EBE 陷入[[Stability vs. Variability Dilemma|稳定性与变异性假说]]双重困境，破除圣杯神话并提出修补金字塔隐喻。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判 EBE 运动通过统计平均值强行剥离复杂的课堂脉络，揭示其在行政收编中对教师专业自决权的消解。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 论证教育知识本质上具有局部性与临时性，指出什么有效是错误的问题，必须关注干预起效的具体情境条件与教师质量混淆。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 系统阐释[[Evidence-Informed Practice|证据知情实践]]（EIP）理念，提出肥沃土壤隐喻与[[Knowledge Mobilisation|知识动员]]四策略。

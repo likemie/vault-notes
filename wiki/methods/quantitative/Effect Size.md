@@ -271,7 +271,7 @@ updated: 2026-10-17
 ### [[Argument_Terhart_2011_JCS|Terhart (2011)]] 的详细解释与二阶综合方法学批判
 
 > [!info] 效应量的实质含义与巨型综合方法学审计
-> 德语教学论学者埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 432–437]]）对效应量的统计学含义与巨型二阶元分析（mega-analysis）的解释边界进行了系统梳理：
+> 德语教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 432–437]]）对效应量的统计学含义与巨型二阶元分析（mega-analysis）的解释边界进行了系统梳理：
 >
 > **与统计显著性的关系** 如果将分析进行 100 次，只有 5 次实验组和对照组之间的差异可被解释为随机的，95 项研究中差异将是系统性的。但统计显著性不提供效应绝对大小与实践价值的信息。
 >
@@ -289,7 +289,7 @@ updated: 2026-10-17
 >
 > **效应量[[Discourse|话语]]与有限方差现实的断裂** 尽管全书将教师塑造为无所不能的救赎力量，但底层统计方差分解表明，教师效能仅能解释学生[[Academic Achievement|学业成绩]]变异的 **8%–21%**（p. 432），约 80% 的成绩方差仍由学生认知先验与家庭背景决定。
 >
-> **双重[[Epistemology|认识论]]假说约束** 宏观效应量排名面临两难：其一为**稳定性假说**（绝大多数高效应量仅是教科书既有常识的渐近逼近，无实质知识增量）；其二为**变异性假说（依赖陈旧元分析得到的低效应量已被最新前沿实证颠覆，例如鲍默特等人 COACTIV 项目证实教师学科知识与学科教学知识对学业成就具有强大的正向因果效应；pp. 436–437）**。
+> **双重[[Epistemology|认识论]]假说约束** 宏观效应量排名面临两难：其一为 **[[Stability vs. Variability Dilemma|稳定性假说]]**（绝大多数高效应量仅是教科书既有常识的渐近逼近，无实质知识增量）；其二为**变异性假说（依赖陈旧元分析得到的低效应量已被最新前沿实证颠覆，例如鲍默特等人 [[COACTIV]] 项目证实教师学科知识与学科教学知识对学业成就具有强大的正向因果效应；pp. 436–437）**。
 >
 > 特哈特强调：效应量不等于[[Causality|因果关系]]，亦不可作为终极立法圣杯（p. 427）。
 
@@ -371,7 +371,7 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card] 特哈特论[[Meta-meta-analysis|元-元分析]]多级累加中的效应量情境损耗与货币汇兑折损
+> [!citation-card] [[Ewald Terhart|特哈特]]论[[Meta-meta-analysis|元-元分析]]多级累加中的效应量情境损耗与货币汇兑折损
 > [[Meta-analysis|元分析]]本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的元-元分析（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。此外，如果未提供一阶元分析的筛选质控标准，底层数据混杂了严格的[[Experimental Research|实验研究]]与松散的[[Survey Research|调查研究]]，最终得到的平均效应量便掩盖了极其异质的方法学质量现实。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
 >
 > *Meta-analysis is a tool to summarize and to compress the results of a multitude of studies... If, however, one combines several meta-analyses into a mega-analysis, the empirical details are lost on each level of aggregation. One cannot change a currency without loss... Furthermore, Hattie does not provide criteria for the quality of the included meta-analyses... This leads to a high degree of [[Heterogeneity]] in the underlying database.*
@@ -479,7 +479,7 @@ updated: 2026-10-17
 > 剖析效应量跨越一阶向二阶聚合时的经验信息流失机制，以及宏观效应量排名在常识固化与结论颠覆之间的认识论困境。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> **多级汇总情境折损与双重认识论约束** 埃瓦尔德·特哈特（Ewald Terhart）通过对《可见学习》巨型数据库的逆向方法学审计，确立了效应量在二阶元分析中的两条核心局限：一方面，效应量汇总层级的提升是以牺牲具体研究的情境参数为代价的，原始研究的控制条件与具体变量在反复累加中损失殆尽（“货币汇兑折损比喻”）；另一方面，宏观效应量排行榜在认识论上同时受制于稳定性假说与变异性假说——绝大多数高效应量（如清晰讲授、反馈）仅仅是教科书标准常识的渐近逼近，无实质知识增量；而依赖陈旧元分析得出的低效应量（如教师专业知识微弱）已被最新实证全面颠覆（如 COACTIV 证实教师 CK 与 PCK 具有强大因果效应），证明单一量化效应量无法消除教育实践的复杂性。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429, 436–437)]]
+> **多级汇总情境折损与双重认识论约束** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）通过对《可见学习》巨型数据库的逆向方法学审计，确立了效应量在二阶元分析中的两条核心局限：一方面，效应量汇总层级的提升是以牺牲具体研究的情境参数为代价的，原始研究的控制条件与具体变量在反复累加中损失殆尽（“货币汇兑折损比喻”）；另一方面，宏观效应量排行榜在认识论上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说——绝大多数高效应量（如清晰讲授、反馈）仅仅是教科书标准常识的渐近逼近，无实质知识增量；而依赖陈旧元分析得出的低效应量（如教师专业知识微弱）已被最新实证全面颠覆（如 [[COACTIV]] 证实教师 CK 与 PCK 具有强大因果效应），证明单一量化效应量无法消除教育实践的复杂性。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429, 436–437)]]
 
 ---
 

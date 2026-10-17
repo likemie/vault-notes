@@ -157,7 +157,7 @@ updated: 2026-10-17
 > > - **外生私有化批判** 这一举措引发了教育界与工会的强烈抗议，被指责为纳税人出资研发的公共知识产品被国家主动转包给私人资本牟利；同时，教育部还将系统的日常维护与教师培训大量外包给[[Cognition Education|认知教育]]（Cognition Education）等商业咨询公司，构成典型的外生私有化与[[Public-Private Partnership|公私伙伴关系]]异化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
 >
 > > [!axis] 国家政策结盟、[[Performance Pay|绩效工资]]推行与行政监控工具（Terhart 与 Snook 等学者之辩）
-> > 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434]]）与新西兰本土批判学者（[[Argument_Snook_2010_NZJES|Snook et al., 2010]]; Smythe, 2010）指出，asTTle 的研发与推广深度卷入了新西兰教育部的国家政策博弈。
+> > [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434]]）与新西兰本土批判学者（[[Argument_Snook_2010_NZJES|Snook et al., 2010]]; Smythe, 2010）指出，asTTle 的研发与推广深度卷入了新西兰教育部的国家政策博弈。
 > >
 > > - **政策推手与绩效工资主张** 约翰·哈蒂长期担任新西兰教育部具有重大影响力的政策顾问，倡导推行教师[[Performance Pay|绩效工资]]改革，遭遇新西兰教师工会的强烈抵制与全国性争论。
 > > - **行政监控与高昂商业培训捆绑** 学界批判指出，asTTle 表面上宣称为服务师生的诊断性工具，在制度设计上却被深度用作对全校教学行为开展行政监控的控制装置；更为关键的是，系统的推行深度捆绑了耗资不菲的有偿专业培训项目（Costly training programs），形成了学术研发、行政控制与商业培训相纠缠的利益网络。
@@ -193,7 +193,7 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card] 特哈特论 asTTle 的行政监控功能与商业培训利益网络
+> [!citation-card] [[Ewald Terhart|特哈特]]论 asTTle 的行政监控功能与商业培训利益网络
 > [[John Hattie|哈蒂]]长期担任新西兰教育部的政策顾问，深度卷入了新西兰的教育政策斗争，他在教师[[Performance Pay|绩效工资]]方面的理念遭到了教师工会的强烈抵制……在这一背景下，哈蒂团队开发了名为“教学与学习评估工具”（asTTle）的软件程序……该软件遭到了[[Ivan Snook|斯努克]]等人以及史密斯（Smythe, 2010）的严厉批评，他们一致将该工具定性为针对学校推行行政监控的装置，且该工具与耗资不菲的商业化培训项目紧密捆绑。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 426, 434)]]
 >
 > *Hattie has for a long time also acted as an influential policy advisor for the New Zealand Department of Education... This involved him deeply in educational policy struggles in New Zealand, where his ideas on performance-related pay for teachers were strongly rejected by the teachers’ unions... In this context, Hattie and his team developed the software program 'Assessment Tools for Teaching and Learning' (asTTle)... This software was heavily criticized by [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] as well as by Smythe (2010), who both interpreted it as an instrument for the administrative monitoring of schools, linked to costly training programs.*
