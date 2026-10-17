@@ -10,9 +10,9 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 24
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 31
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Nordic Psychology
 citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology, 75(1), 45–60."
@@ -34,9 +34,14 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Homework]]"
   - "[[Socioeconomic Status]]"
+  - "[[Teacher Immediacy]]"
+  - "[[Dynamic Assessment]]"
+  - "[[Intentionality]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Behaviorism]]"
+  - "[[Feedback Intervention Theory]]"
+  - "[[Recognition Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
@@ -44,6 +49,8 @@ related_persons:
   - "[[Scott Eacott]]"
   - "[[Robert Glaser]]"
   - "[[B. F. Skinner]]"
+  - "[[Axel Honneth]]"
+  - "[[Herbert Walberg]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -93,7 +100,7 @@ citation_aliases:
 > | **[[Technical Rationality\|技术理性]]**<br>[[Technical Rationality]] | 唐纳德·舍恩（[[Donald A. Schön\|Donald A. Schön]]）界定的实证主义遗产，主张将专业实践还原为选择确定性技术手段以达成固定目标的工具性问题解决。用于透视哈蒂如何将教育情境物化为可操作的输入—输出封闭系统。（pp. 4–5） |
 > | **[[Behaviorism\|行为主义学习理论]]**<br>[[Behaviorism]] | 伯尔赫斯·弗雷德里克·斯金纳（[[B. F. Skinner\|Burrhus Frederic Skinner]]）与罗伯特·格拉泽（[[Robert Glaser]]）的强化与程序化教学传统。用于揭示哈蒂将教学过程窄化为刺激—反应修正回路的理论渊源。（pp. 4–5） |
 > | **[[Neo-Taylorism\|新泰勒主义教育治理]]**<br>[[Neo-Taylorism]] | 斯科特·埃考特（[[Scott Eacott]]）提出的批判概念，指运用量化测量指标对专业劳动进行自上而下的技术控制与绩效问责。用于解释哈蒂理论受教育官僚广泛青睐的制度逻辑。（pp. 14–15） |
-> | **承认理论与交往行为**<br>[[Critical Theory]] | 阿克塞尔·霍耐特（Axel Honneth）的主体间承认理论。用于反思技术理性如何扼杀学习者与教师的意向性、自主性与主体间意义生成。（pp. 14–15） |
+> | **[[Recognition Theory\|主体间承认理论]]与交往行为**<br>[[Critical Theory]]、[[Recognition Theory]] | 阿克塞尔·霍耐特（[[Axel Honneth]]）的承认理论。用于反思技术理性如何扼杀学习者与教师的[[Intentionality|主体意向性]]、自主性与主体间意义生成。（pp. 14–15） |
 
 > [!warrant]- 理论如何支撑论证
 > 技术理性为理解哈蒂的研究范式提供了认识论透镜：执着于寻求脱离情境的离散因果因素、剔除社会经济地位调节变量、发明普适性的 $d = 0.40$ 截断值，本质上都是技术理性将工程诊断模式移植到社会领域的产物。当这种思维遇到[[Behaviorism|行为主义学习论]]时，师生主体间交往便被降格为单向的机械信息矫正回路；而这套看似客观的控制技术，恰好契合了新泰勒主义追求管理效能与绩效问责的制度诉求。（pp. 4–5, 14–15）
@@ -114,7 +121,7 @@ citation_aliases:
 > |---|---|
 > | **理论审查对象** | 哈蒂（2009）《可见的学习》原著及其反思性文本（[[Argument_Hattie_2010_NZJES\|Hattie, 2010]], 2012; Hattie & Timperley, 2007; Hattie & Yates, 2014）。 |
 > | **反馈元分析样本** | 哈蒂综合中反馈效应所依赖的 23 项元分析（共 1,287 项原始研究，67,931 名受试者）中权重最大的 5 项元分析，覆盖 62,761 名受试者，占反馈总受试人数的 92.4%。（p. 10） |
-> | **核查的一级元分析清单** | 1. Lysakowski and Walberg (1980)；2. Lysakowski and Walberg (1982)；3. Kluger and DeNisi (1996)；4. Witt et al. (2004)；5. Swanson and Lussier (2001)。（pp. 10–13） |
+> | **核查的一级元分析清单** | 1. Lysakowski and [[Herbert Walberg|Walberg]] (1980)；2. Lysakowski and [[Herbert Walberg|Walberg]] (1982)；3. Kluger and DeNisi (1996)；4. Witt et al. (2004)；5. Swanson and Lussier (2001)。（pp. 10–13） |
 
 ---
 
@@ -258,11 +265,11 @@ citation_aliases:
 >
 > | 纳入元分析文献 | 样本量 $N$ | 效应量 $d$ | 实际测量构念与操作化 | 构念效度与方法学核查 |
 > |---|---|---|---|---|
-> | **Lysakowski and Walberg (1980)**<br>课堂强化技术综述 | 4,842 | 1.17 | **课堂行为强化**<br>考察 39 种强化技术（有形奖励、代币、表扬等）。 | **全文从未出现反馈一词**。哈蒂正文明确承认奖励是否属于反馈极其可疑，统计中却列为支持反馈的最高效应之一（pp. 10–11）。 |
-> | **Lysakowski and Walberg (1982)**<br>教学线索与矫正强化 | 15,689 | 0.97 | **教学线索与矫正性强化**<br>属于前置教学策略与活动状态。 | **测量教学策略，偏离反馈构念**。纳入研究情境极端异质（如技校汽修实训与小学生死记德语单词混同；pp. 11–12）。 |
-> | **Kluger and DeNisi (1996)**<br>反馈干预（FI）系统元分析 | 12,652 | 0.38 | **任务表现反馈干预**<br>外部主体提供关于任务表现的信息。 | **唯一符合反馈界定的元分析**。实际效应仅为 $0.38$（低于 0.40 支点），且高达 38% 的研究产生负向抑制效应（pp. 11–12）。 |
-> | **Witt et al. (2004 / 2006)**<br>教师言语/非言语即时性 | 24,474 | 1.15 | **教师亲和力与即时性**<br>眼神接触、微笑、幽默、肢体语言等。 | **全文未测量反馈**，亲和力属于情感沟通。纳入 34 项研究中 22 项为未发表论文，多为无对照组的自陈问卷（pp. 12–13）。 |
-> | **Swanson and Lussier (2001)**<br>动态评估主考人辅助 | 5,104 | 1.12 | **动态评估认知潜能提示**<br>基于最近发展区（ZPD）提供渐进式线索。 | **属于测验情境认知潜能诊断**，脱离常规课堂形成性教学反馈范畴；主考人介入旨在测量潜能而非教学指导（pp. 12–13）。 |
+> | **Lysakowski and [[Herbert Walberg|Walberg]] (1980)**<br>课堂强化技术综述 | 4,842 | 1.17 | **课堂行为强化**<br>考察 39 种强化技术（有形奖励、代币、表扬等）。 | **全文从未出现反馈一词**。哈蒂正文明确承认奖励是否属于反馈极其可疑，统计中却列为支持反馈的最高效应之一（pp. 10–11）。 |
+> | **Lysakowski and [[Herbert Walberg|Walberg]] (1982)**<br>教学线索与矫正强化 | 15,689 | 0.97 | **教学线索与矫正性强化**<br>属于前置教学策略与活动状态。 | **测量教学策略，偏离反馈构念**。纳入研究情境极端异质（如技校汽修实训与小学生死记德语单词混同；pp. 11–12）。 |
+> | **Kluger and DeNisi (1996)**<br>[[Feedback Intervention Theory\|反馈干预理论]]系统元分析 | 12,652 | 0.38 | **任务表现反馈干预**<br>外部主体提供关于任务表现的信息。 | **唯一符合反馈界定的元分析**。实际效应仅为 $0.38$（低于 0.40 支点），且高达 38% 的研究产生负向抑制效应（pp. 11–12）。 |
+> | **Witt et al. (2004 / 2006)**<br>[[Teacher Immediacy\|教师即时性与亲和力]] | 24,474 | 1.15 | **教师亲和力与即时性**<br>眼神接触、微笑、幽默、肢体语言等。 | **全文未测量反馈**，亲和力属于情感沟通。纳入 34 项研究中 22 项为未发表论文，多为无对照组的自陈问卷（pp. 12–13）。 |
+> | **Swanson and Lussier (2001)**<br>[[Dynamic Assessment\|动态评估]]主考人辅助 | 5,104 | 1.12 | **动态评估认知潜能提示**<br>基于最近发展区（ZPD）提供渐进式线索。 | **属于测验情境认知潜能诊断**，脱离常规课堂形成性教学反馈范畴；主考人介入旨在测量潜能而非教学指导（pp. 12–13）。 |
 
 #### 2. 机械拼贴异质现象与吸纳低质研究摧毁了实证结论的效度
 
@@ -282,7 +289,7 @@ citation_aliases:
 > | **构念纯度** | 严格界定为外部代理人提供的表现信息，排除混淆性刺激。 | 泛化为多类教学举措，将物质奖励、教师肢体语言与智力测验混为一谈。 |
 > | **效应分布** | 承认反馈具有高度情境依赖性，38% 的情境下降低了学习绩效。 | 宣称 95% 的干预有效，营造反馈普遍高效的乐观图景。 |
 > | **平均效应量** | 严谨控制下的效应量仅为 $d = 0.38$。 | 异质杂糅后拼凑出虚高的 $d = 0.73$。 |
-> | **理论反思** | 深入提出反馈干预理论（Feedback Intervention Theory, FIT），阐释注意力转向自我时的破坏机制。 | 停留于行为主义纠错假定，无视反馈对学生心理机制的复杂冲击。 |
+> | **理论反思** | 深入提出[[Feedback Intervention Theory\|反馈干预理论]]（Feedback Intervention Theory, FIT），阐释注意力转向自我时的破坏机制。 | 停留于行为主义纠错假定，无视反馈对学生心理机制的复杂冲击。 |
 
 > [!warrant]- 理论推进推论
 > 反馈案例的微观细读动摇了整个实证大厦的经验基础。当最具代表性、声称最无可辩驳的核心支柱被证实为由互不相干的研究粗放拼凑而成时，这一体系的科学性便难以维系；这促使进一步探究这种失真指标何以在教育治理中持续盛行。（pp. 13–15）
@@ -297,19 +304,19 @@ citation_aliases:
 #### 1. 工具主义控制将能动学习者降格为被动的技术问题解决器
 
 > [!critique-logic] 认知心理学术语的工具化与意向性消解
-> 技术理性将学生窄化为去情境的认知客体，忽略了学习者具有独特生命史、阶级背景与寻求意义倾向的意向性（intentionality）。尽管哈蒂晚近频繁借用自我效能、自我调节等概念（Hattie, 2012; Hattie & Yates, 2014），但这些构念仅被充当促使学生自我调试的技术手段；教育目标被窄化为寻找并修正个体的行为缺陷，将学生固着在被动解决技术问题的客体位置上（pp. 13–14）。
+> 技术理性将学生窄化为去情境的认知客体，忽略了学习者具有独特生命史、阶级背景与寻求意义倾向的[[Intentionality|主体意向性]]（intentionality）。尽管哈蒂晚近频繁借用自我效能、自我调节等概念（Hattie, 2012; Hattie & Yates, 2014），但这些构念仅被充当促使学生自我调试的技术手段；教育目标被窄化为寻找并修正个体的行为缺陷，将学生固着在被动解决技术问题的客体位置上（pp. 13–14）。
 
 这种工程学控制回路与立足生活世界与主体承认的真正教育对话构成了根本性的本体论冲突。
 
 > [!tension-table] 技术理性控制回路 vs 真正教育对话的本体论冲突
 > | 维度 | 哈蒂的技术理性视角 | 批判解释学与教育哲学视角 |
 > |---|---|---|
-> | **学生的本体论地位** | 接受信息、输入纠错代码、修正行为偏差的被动响应器（pp. 13–14）。 | 具有意向性（intentionality）、寻求生存意义与社会认同的主体（Honneth, 1996; p. 14）。 |
+> | **学生的本体论地位** | 接受信息、输入纠错代码、修正行为偏差的被动响应器（pp. 13–14）。 | 具有[[Intentionality|意向性]]（intentionality）、寻求生存意义与社会认同的主体（Honneth, 1996; p. 14）。 |
 > | **师生关系的本质** | 教师向学生传递目标差距信息、学生向教师反馈接收状态的单向/双向控制回路（p. 14）。 | 建立在平等互惠交往、主体间相互承认与共同探索生活世界的基础之上（pp. 14–15）。 |
 > | **学习与发展的动力** | 提高解决既定技术问题的效率与测试分数（p. 13）。 | 通过社会性交往与自主反思，成长为能够批判性参与公共生活的自由行动者（pp. 14–15）。 |
 
 > [!critique] 承认理论视角下的主体性剥夺与社会异化
-> 德国哲学家阿克塞尔·霍耐特（Axel Honneth, 1996, 2008）在其承认理论中强调，对个体意向性与自主性的社会承认是健全人格发展的心理基石。当教育评估系统将学习者还原为被动的数据修正器、拒绝理解其意向性时，便在制度层面构成了对主体承认的系统性剥夺，最终导致教育关系的异化。（p. 15）
+> 德国哲学家阿克塞尔·霍耐特（[[Axel Honneth]], 1996, 2008）在其[[Recognition Theory|承认理论]]中强调，对个体[[Intentionality|意向性]]与自主性的社会承认是健全人格发展的心理基石。当教育评估系统将学习者还原为被动的数据修正器、拒绝理解其意向性时，便在制度层面构成了对主体承认的系统性剥夺，最终导致教育关系的异化。（p. 15）
 
 #### 2. 伪科学测量指标为行政官僚规训专业劳动提供了合法化外衣
 

@@ -2072,6 +2072,18 @@
     ]
   },
   {
+    "title": "Dynamic Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Dynamic Assessment.md",
+    "aliases": [
+      "动态评估",
+      "DA",
+      "动态测验",
+      "动态测评",
+      "Dynamic Testing"
+    ]
+  },
+  {
     "title": "Evaluative Judgement",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Evaluative Judgement.md",
@@ -3976,6 +3988,18 @@
       "incommensurable",
       "范式不可通约性",
       "paradigm incommensurability"
+    ]
+  },
+  {
+    "title": "Intentionality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Intentionality.md",
+    "aliases": [
+      "意向性",
+      "主体意向性",
+      "人的意向性",
+      "Human Intentionality",
+      "意向性能力"
     ]
   },
   {
@@ -8505,6 +8529,18 @@
       "良构与劣构任务",
       "良构任务",
       "劣构任务"
+    ]
+  },
+  {
+    "title": "Teacher Immediacy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher Immediacy.md",
+    "aliases": [
+      "教师即时性",
+      "教师亲和力",
+      "教师人际亲和力",
+      "教师言语与非言语即时性",
+      "Verbal and Nonverbal Immediacy"
     ]
   },
   {
@@ -15941,6 +15977,18 @@
     ]
   },
   {
+    "title": "Recognition Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Recognition Theory.md",
+    "aliases": [
+      "承认理论",
+      "主体间承认理论",
+      "相互承认理论",
+      "Anerkennungstheorie",
+      "Theory of Recognition"
+    ]
+  },
+  {
     "title": "Reliabilism",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Reliabilism.md",
@@ -16738,6 +16786,17 @@
       "延展心智论",
       "延展认知",
       "Extended Cognition"
+    ]
+  },
+  {
+    "title": "Feedback Intervention Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Feedback Intervention Theory.md",
+    "aliases": [
+      "反馈干预理论",
+      "FIT",
+      "Feedback Intervention Theory (FIT)",
+      "反馈干预模型"
     ]
   },
   {
@@ -23301,6 +23360,16 @@
     ]
   },
   {
+    "title": "Axel Honneth",
+    "type": "person",
+    "path": "wiki/persons/germany/Axel Honneth.md",
+    "aliases": [
+      "阿克塞尔·霍耐特",
+      "霍耐特",
+      "Honneth"
+    ]
+  },
+  {
     "title": "Christiane Thompson",
     "type": "person",
     "path": "wiki/persons/germany/Christiane Thompson.md",
@@ -26036,6 +26105,16 @@
       "胡佛",
       "Hoover, H.",
       "Herbert Clark Hoover"
+    ]
+  },
+  {
+    "title": "Herbert Walberg",
+    "type": "person",
+    "path": "wiki/persons/us/Herbert Walberg.md",
+    "aliases": [
+      "赫伯特·沃尔伯格",
+      "沃尔伯格",
+      "Herbert J. Walberg"
     ]
   },
   {
