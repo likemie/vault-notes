@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Bergeron_2017_MJE",
+      "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
+    },
+    {
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
       "basename": "Argument_Terhart_2011_JCS",
       "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Evidence-Based Education",
       "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
     {
       "basename": "Argument_Nielsen_2021_NordPsych",
@@ -195,10 +199,6 @@
     {
       "basename": "Vertical Disintegration",
       "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
-    },
-    {
-      "basename": "EU",
-      "path": "wiki/facts/eu/EU.md"
     }
   ],
   "omittedPaths": [],
