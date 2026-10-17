@@ -10,9 +10,9 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 22
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Nordic Psychology
 citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology, 75(1), 45–60."
@@ -31,6 +31,9 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Neo-Taylorism]]"
   - "[[Class Size]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Homework]]"
+  - "[[Socioeconomic Status]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -38,6 +41,7 @@ related_methods:
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Scott Eacott]]"
+  - "[[Robert Glaser]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -85,7 +89,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Technical Rationality\|技术理性]]**<br>[[Technical Rationality]] | 唐纳德·舍恩（[[Donald A. Schön\|Donald A. Schön]]）界定的实证主义遗产，主张将专业实践还原为选择确定性技术手段以达成固定目标的工具性问题解决。用于透视哈蒂如何将教育情境物化为可操作的输入—输出封闭系统。（pp. 4–5） |
-> | **行为主义学习理论** | 伯尔赫斯·弗雷德里克·斯金纳（Burrhus Frederic Skinner）与罗伯特·格拉泽（Robert Glaser）的强化与程序化教学传统。用于揭示哈蒂将教学过程窄化为刺激—反应修正回路的理论渊源。（pp. 4–5） |
+> | **行为主义学习理论** | 伯尔赫斯·弗雷德里克·斯金纳（Burrhus Frederic Skinner）与罗伯特·格拉泽（[[Robert Glaser]]）的强化与程序化教学传统。用于揭示哈蒂将教学过程窄化为刺激—反应修正回路的理论渊源。（pp. 4–5） |
 > | **[[Neo-Taylorism\|新泰勒主义教育治理]]**<br>[[Neo-Taylorism]] | 斯科特·埃考特（[[Scott Eacott]]）提出的批判概念，指运用量化测量指标对专业劳动进行自上而下的技术控制与绩效问责。用于解释哈蒂理论受教育官僚广泛青睐的制度逻辑。（pp. 14–15） |
 > | **承认理论与交往行为**<br>[[Critical Theory]] | 阿克塞尔·霍耐特（Axel Honneth）的主体间承认理论。用于反思技术理性如何扼杀学习者与教师的意向性、自主性与主体间意义生成。（pp. 14–15） |
 
@@ -156,7 +160,7 @@ citation_aliases:
 >
 > - **格拉泽的程序化教学模型**
 >
->   作为斯金纳的学生，格拉泽发展了强调行为目标、起点评估与强化反馈的教学设计模型，主张将教学视为从初始状态向胜任状态的线性转化工程（Glaser, 1960; Resnick, 1989）。
+>   作为斯金纳的学生，格拉泽（[[Robert Glaser]]）发展了强调行为目标、起点评估与强化反馈的教学设计模型，主张将教学视为从初始状态向胜任状态的线性转化工程（Glaser, 1960; Resnick, 1989）。
 >
 > - **哈蒂的可见教学输入—输出回路**
 >
@@ -172,7 +176,7 @@ citation_aliases:
 > [!contrast-table] 哈蒂认识论归宿的学术争鸣辨析
 > | 辨析维度 | 罗默（Rømer, 2019）的判断：激进建构主义 | 尼尔森等（Nielsen & Klitmøller, 2021a）的澄清：技术理性与行为主义 |
 > |---|---|---|
-> | **理论来源考证** | 误读了早年文献对 Glaser 的引用，将其与激进建构主义奠基人 Glasersfeld 混为一谈。 | 确凿考证出哈蒂（Hattie, 1987）引用的是行为主义心理学代表人物罗伯特·格拉泽（Robert Glaser）（p. 4）。 |
+> | **理论来源考证** | 误读了早年文献对 Glaser 的引用，将其与激进建构主义奠基人 Glasersfeld 混为一谈。 | 确凿考证出哈蒂（Hattie, 1987）引用的是行为主义心理学代表人物罗伯特·格拉泽（[[Robert Glaser]]）（p. 4）。 |
 > | **学习过程本质** | 认为哈蒂强调学习者主观封闭的心智建构。 | 证实哈蒂追求的是确定的外部刺激输入、目标行为输出与纠错反馈闭合（pp. 4–5）。 |
 > | **核心概念定位** | 将晚年使用的自我效能、自我调节视为建构主义证据。 | 指出哈蒂虽从认知论借用术语，但仅将其视作提高解决问题效率的可操纵技术手段（p. 13）。 |
 
@@ -201,7 +205,7 @@ citation_aliases:
 更为严重的是对社会背景变量的系统性清洗。哈蒂明确宣称现实中的调节变量远比人们通常想象的要少得多（Hattie, 2009, p. 10），并在实证建模中故意将最具决定性的社会阶层因素排除出分析视界。
 
 > [!case] 社会经济地位被剔除为调节变量引发的阶级盲教学思维
-> 哈蒂并未彻底忽略学生社会经济地位（Socioeconomic Status, SES），其单独计算了一个孤立的效应量 $d = 0.57$。但哈蒂明确宣布：**不将 SES 作为调节变量纳入对其他教学干预（如反馈、教学法）的分析中（Hattie, 2009, pp. x–xi; p. 7）**。
+> 哈蒂并未彻底忽略学生[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES），其单独计算了一个孤立的效应量 $d = 0.57$。但哈蒂明确宣布：**不将 SES 作为调节变量纳入对其他教学干预（如反馈、教学法）的分析中（Hattie, 2009, pp. x–xi; p. 7）**。
 > 
 > 哈蒂辩解称教师在学校内部无法改变学生的社会经济出身，因此教育研究应当只关注教师在课堂里能够改变的要素（pp. x–xi）。这一处理存在严重缺陷：
 > - **违背基本实证共识** 经合组织（[[OECD]], 2005）的实证报告与斯诺克等（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）证实，在决定学生学业技能、态度与动机的所有变异源中，家庭与社会阶级背景是最为关键的来源；
@@ -210,7 +214,7 @@ citation_aliases:
 
 #### 2. 叙事性截断门槛与粗糙均值抹杀了关键发展维度
 
-哈蒂声称参与统计的干预措施中有 95% 都产生了大于 0 的正向效应，即几乎所有举措都见效（Hattie, 2009, p. 15）。为了在普遍有效的实证结果中为学校管理者提供行动优先级，哈蒂主观划定了一个 $d = 0.40$ 的期望效应区（Zone of desired effects）支点（hinge point）。
+哈蒂声称参与统计的干预措施中有 95% 都产生了大于 0 的正向效应，即几乎所有举措都见效（Hattie, 2009, p. 15）。为了在普遍有效的实证结果中为学校管理者提供行动优先级，哈蒂主观划定了一个 $d = 0.40$ 的[[Zone of Desired Effects|期望效应区]]（Zone of desired effects）支点（hinge point）。
 
 > [!contrast-table] 统计支点标准与医学临床证据的对比辨析
 > | 比较维度 | 哈蒂自设支点（Hattie, 2009） | 阿司匹林临床对照（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]） |
@@ -222,7 +226,7 @@ citation_aliases:
 这种机械截断不仅脱离了成本—效益考量，更在单一均值的掩盖下，抹杀了关键的学段发展规律与教学质性维度。
 
 > [!case] 家庭作业总体均值对学段发展异质性的遮蔽
-> 在《可见的学习》中，家庭作业的总体效应量被计算为 $d = 0.29$。由于该数值低于自设的 $d = 0.40$ 支点，哈蒂在媒体访谈中宣称传统的家庭作业效果微弱，且学生年龄越小效果越差（Carboni, 2013; p. 9）。
+> 在《可见的学习》中，[[Homework|家庭作业]]的总体效应量被计算为 $d = 0.29$。由于该数值低于自设的 $d = 0.40$ 支点，哈蒂在媒体访谈中宣称传统的家庭作业效果微弱，且学生年龄越小效果越差（Carboni, 2013; p. 9）。
 > 
 > 这一判断引发了直接的政策变动：丹麦多家教育机构与中小学依据哈蒂的结论，迅速取消了家庭作业（Carboni, 2013）。
 > 

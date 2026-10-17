@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -57,10 +57,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Zone of Desired Effects
@@ -106,7 +108,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **铰接点（Hinge Point, $d = 0.40$）** [[John Hattie|哈蒂]]设定的核心分水岭，声称代表学生一年正常认知成熟与标准教学的基线进展，高于此数值方被视作对教学产生期望成效。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > - **四层效应区间划分** 哈蒂将教育影响因素分为四大区段：逆效应区（$< 0$）、发展效应区（$0 \le d < 0.15$，自然成熟）、教师效应区（$0.15 \le d < 0.40$，平庸教学）、期望效应区（$d \ge 0.40$，高效教学）。
-> - **简单算术平均本质** 该数值并非来自任何外在客观物理常数，而是源自 2009 年全书 138 项影响因素未加权平均的数学产物。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
+> - **简单算术平均本质** 该数值源自 2009 年全书 138 项影响因素未加权平均的数学产物，缺乏任何外在客观物理常数依据。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > - **气压计视觉呈现** 期望效应区在可见学习体系中常与[[Barometer of Achievement|成就气压计]]结合，以绿色表盘区域直观标示，强化工业控制仪表板的视觉权威。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!logic-map]- 期望效应区结构与划分
@@ -146,6 +148,19 @@ updated: 2026-10-16
 
 ---
 
+### 命题三　叙事性截断门槛脱离成本效益权衡，背离医学临床证据规律并诱发实证证据扭曲
+
+> [!concept-lens] 叙事修辞工具与循证决策逻辑冲突
+> 探讨将 $d=0.40$ 作为绝对取舍门槛对低成本、高价值教学实践的机械排斥，以及对实证证据库造成的扭曲压力。
+
+> [!claim] Nielsen & Klitmøller; Snook et al.
+> **叙事门槛自白与医学阿司匹林临床实证对照** 约翰·哈蒂（[[John Hattie]]）构建的 $d=0.40$ 期望效应区分水岭在方法学与决策逻辑上存在根本局限：
+> 1. **叙事性工具自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）** 哈蒂承认参与统计的干预措施中有 95% 都产生了大于 0 的正向效应，为了在普遍有效的实证结果中为教育决策提供行动优先级，他主观设立了 0.40 支点。哈蒂明确将该分水岭定位为“用来创造故事的门槛”，放弃了将其作为固定客观临界分值的宣称（Hattie, 2010, p. 89; Nielsen & Klitmøller, 2021a, p. 7）。
+> 2. **背离临床证据与成本效益常识（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 斯诺克等引入现代医学临床试验作为对照：在针对心肌梗死患者的阿司匹林治疗实证中，报告的效应量仅为 $d = 0.07$；然而这一微弱效应意味着每 1,000 名心脏病患者中能够稳定挽救 34 人生命。医学界绝不会因效应量低于 0.40 而废弃阿司匹林。硬性设立 $d \ge 0.40$ 刚性门槛，彻底割裂了干预的实施成本、覆盖面与公共价值（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, p. 8]]）。
+> 3. **诱发证据拼贴与实证扭曲（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 刚性门槛诱发了对实证证据的机械筛选或人为美化。在反馈领域，唯一符合严格定义的克鲁格与德尼西（Kluger & DeNisi, 1996）元分析实际效应量仅为 $d = 0.38$（恰好低于 0.40 分水岭）；为了维系反馈作为“最具变革力量的超级干预”的叙事定位，哈蒂在统计中混入行为强化（$d = 1.17$）、教师言语/非言语即时亲和力（$d = 1.15$）与认知测验提示（$d = 1.12$）等异质研究，人为虚构出高达 $d = 0.73$ 的复合指标（pp. 9–13）。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 围绕期望效应区形成的命题归纳
@@ -153,6 +168,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **统计基准虚假性质疑** | $d=0.40$ 是无权算术均值的机械产物，缺乏比率尺度与物理基准，随变量扩充而漂移 | [[Meta-meta-analysis\|二阶元分析]]方法论反思、教育测量理论评估 | Johnson & Janzen; Simpson; Berger |
 > | **实践异质性掩盖批判** | 单一截断值抹杀了小学与高中的关键学段差异，导致政策制定全盘误判 | 宏观教育政策分析、课程与作业政策制定、班级编制预算评估 | Johnson & Janzen |
+> | **叙事修辞与决策扭曲** | 截断值纯属讲故事门槛，背离阿司匹林等临床低效应高价值常识并诱发异质拼贴 | 循证教育决策审查、成本效益分析、元分析构念效度检验 | Nielsen & Klitmøller; Snook et al. |
 
 ---
 
@@ -161,7 +177,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **2009 年 — 铰接点创立与期望效应区提出** [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 余项[[Meta-analysis|元分析]]，正式提出以 $d=0.40$ 为界的期望效应区，将其界定为值得在学校推广的高效教学标准。
 > - **2010–2018 年 — 商业化普及与治理工具化** 伴随 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]运营的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 项目，期望效应区与[[Barometer of Achievement|成就气压计]]被打包为全球校长认证培训的标准化评级工具。
-> - **2017–2021 年 — 方法论与统计学质疑爆发** [[Adrian Simpson]]、Peter E. Lichtenberg 等学者指出[[Effect Size|效应量]]分布偏态、非比率尺度及简单算术平均的统计违规，批评期望阈值缺乏因果合法性。
+> - **2017–2021 年 — 方法论与统计学质疑爆发** [[Adrian Simpson]]、Peter E. Lichtenberg 等学者指出[[Effect Size|效应量]]分布偏态、非比率尺度及简单算术平均的统计违规；[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 与斯诺克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）通过阿司匹林临床试验揭露其脱离成本效益的叙事本质。
 > - **2023 年 — 批判性解构与意识形态揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从[[Neo-Taylorism|新泰勒主义]]与[[Cargo Cult Science|货物崇拜科学]]视角，系统拆解期望效应区的伪[[Nature of Science|科学本质]]，揭露其掩盖学段[[Heterogeneity|异质性]]并服务于新自由主义财政紧缩的治理功能。
 
 ---
@@ -171,11 +187,17 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 客观科学基线 vs 统计算术游戏与变差系数解构
-> > 争论 =0.40$ 究竟代表了可靠的实证基线，还是不加甄别的数据堆砌均值。
+> > 争论 $d=0.40$ 究竟代表了可靠的实证基线，还是缺乏甄别的数据堆砌均值。
 > >
-> > - **Hattie（2009）** 主张 =0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
+> > - **Hattie（2009）** 主张 $d=0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
 > > - **[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]** 指出该阈值仅为 138 项因素的未加权算术均值，新增[[Variable|变量]]会导致均值稀释，将其奉为客观基线是典型的伪科学。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
-> > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 运用变差系数（\sigma = 56.87\%$）开展严格数理检验，证实 Hattie 归纳的 133 项正向[[Effect Size|效应量]]在统计学上属于极端不均匀分布（均值 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生（.24\%$）与学校（.97\%$）离散度极高，从数理上证明 =0.40$ 根本无法作为普适有效的因果基准分界线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
+> > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 运用变差系数（$V_\sigma = 56.87\%$）开展严格数理检验，证实 Hattie 归纳的 133 项正向[[Effect Size|效应量]]在统计学上属于极端不均匀分布（均值 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生因素（$71.24\%$）与学校因素（$65.97\%$）离散度极高，从数理上证明 $d = 0.40$ 根本无法作为普适有效的因果基准分界线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
+>
+> > [!axis] 普适叙事切分点 vs 医学循证临床基准反差
+> > 探讨 $d=0.40$ 能否作为合理排斥低效应量干预措施的决策依据。
+> >
+> > - **哈蒂叙事门槛自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）** 承认 0.40 支点纯粹是便于讲故事的叙事修辞工具，而非不可逾越的客观自然法则（p. 89）。
+> > - **医学临床对比与构念异质性批判（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 斯诺克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）引入阿司匹林试验（$d = 0.07$）证实微小效应具有挽救生命的巨大公共价值；硬性截断导致有效教学实践（如高阶作业、小班化及真实反馈干预）遭遇系统性误判或被异质拼贴。
 >
 > > [!axis] 通用筛选指标 vs 忽视生态情境与校外方差
 > > 争论能否依据单一[[Effect Size|效应量]]截断值指导全学段学校改革。
@@ -197,14 +219,21 @@ updated: 2026-10-16
 > | 影响因素 / 指标 | 汇总效应量 ($d$) | 全书排名 | 细分层级真实情况 | 与期望效应区关系 | 政策与实践后果 |
 > |---|---|---|---|---|---|
 > | **铰接点基准（Hinge Point）** | $d = 0.40$ | 阈值中线 | 138 项影响因素未加权简单算术均值 | 划定期望效应区下限 | 制造出物理仪器般的测量假象，掩盖均值漂移 |
+> | **阿司匹林心梗预防临床对照**<br>[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | $d = 0.07$ | — | 每 1,000 名心脏病患者稳定挽救 34 人生命 | 远低于期望效应区分水岭（$d \ge 0.40$） | 证实医学临床循证注重成本效益与生命价值，反衬 $d = 0.40$ 机械截断缺乏科学依据（[[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） |
 > | **高中生[[Homework\|课外作业]]** | $d = 0.64$ | 单独可排第 17 位 | 针对高年级独立探究与复习巩固显著有效 | 远超期望效应区分水岭（$d \ge 0.40$） | 若单列可作为重点教学策略推荐 |
 > | **小学生课外作业** | $d = 0.15$ | 处于发展区 | 低年级学生[[Learner Autonomy\|自主学习]]能力不足导致增益有限 | 远低于期望效应区分水岭 | 盲目在小学推广作业带来无效负担 |
-> | **总体家庭作业（汇总）** | $d = 0.29$ | 第 88 位 | 机械平均小学与高中研究结果（Cooper 等） | 被归入低于期望效应区的无效区 | 导致政策制定者与公众全盘轻视作业价值 |
+> | **总体家庭作业（汇总）** | $d = 0.29$ | 第 88 位 | 机械平均小学与高中研究结果（Cooper 等） | 被归入低于期望效应区的无效区 | 导致政策制定者与公众全盘轻视作业价值（丹麦全境废除作业案例，[[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） |
 > | **[[Class Size\|班级规模]]（Class Size）** | $d = 0.21$ | 第 108 位 | 混淆大学百人大讲座与中小学实验，掩盖小班 30 百分位优势 | 被归入低效区 | 被财政部门频繁援引为拒绝缩减班额的借口 |
+> | **规范反馈干预（FI）**<br>Kluger and DeNisi (1996) | $d = 0.38$ | 低于期望阈值 | 唯一符合严格反馈界定的元分析，且 38% 的研究表现受损 | 处于 $0.40$ 阈值之下 | 因未达标促使哈蒂拼贴强化与即时亲和力等异质数据以虚构 $d = 0.73$ 虚假指标（[[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） |
 
 ---
 
 ## 关键引用
+
+> [!citation-card] 哈蒂承认 0.40 支点截断值纯属叙事性建构
+> 这一切分点是来自 800 多项元分析的平均效应……它充当着用来创造故事（关于什么是普遍的、什么是高于和低于该效应的）的门槛，未被设计为武断判定低于它的就该忽略、高于它的就该珍视的固定临界分值。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89; 引自 Nielsen & Klitmøller, 2021a, p. 7)]]
+>
+> *This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story (about what is common, above and below this effect) but it is not presented as a fixed cut-score below which one should ignore and above which one should cherish.*
 
 > [!citation-card] 期望效应区分水岭的算术伪[[Nature of Science|科学本质]]
 > 将 $d=0.40$ 设定为有效与平庸的分水岭（Zone of Desired Effects），制造出如同物理测量仪器般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable|变量]]，该分水岭就会发生变动。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
@@ -222,4 +251,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具与财政紧缩借口的治理功能。
-> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（.87\%$）与各来源维度的极端不均匀性，实证解构了 =0.40$ 期望效应区作为决策基准的科学有效性。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引用哈蒂自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）与医学阿司匹林临床实证（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判 0.40 门槛的叙事修辞本质与证据扭曲后果。

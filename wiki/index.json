@@ -13779,6 +13779,19 @@
     ]
   },
   {
+    "title": "Socioeconomic Status",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Socioeconomic Status.md",
+    "aliases": [
+      "社会经济地位",
+      "SES",
+      "家庭社会经济背景",
+      "社会经济背景",
+      "阶级盲教学思维",
+      "Class-Blind Pedagogical Thinking"
+    ]
+  },
+  {
     "title": "Sociology of Valuation and Evaluation",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Sociology of Valuation and Evaluation.md",
@@ -26937,6 +26950,15 @@
       "Robert H. Ennis",
       "罗伯特·恩尼斯",
       "恩尼斯"
+    ]
+  },
+  {
+    "title": "Robert Glaser",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Glaser.md",
+    "aliases": [
+      "罗伯特·格拉泽",
+      "格拉泽"
     ]
   },
   {
