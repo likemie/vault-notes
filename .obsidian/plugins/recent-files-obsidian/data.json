@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md"
     },
     {
+      "basename": "Effective Teaching",
+      "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
+    },
+    {
       "basename": "Evidence-Based Education",
       "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "EU",
       "path": "wiki/facts/eu/EU.md"
-    },
-    {
-      "basename": "Michael Sadler",
-      "path": "wiki/persons/uk/Michael Sadler.md"
     }
   ],
   "omittedPaths": [],

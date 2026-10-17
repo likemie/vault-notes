@@ -359,7 +359,7 @@ updated: 2026-10-17
 > - **两片面包（Bread）** 由 Wecker 经典[[Inverse-Variance Weighting\|逆方差加权]]矩阵构成；
 > - **中间的夹心肉（Meat）** 由基于实际数据波动计算出的**经验残差外积矩阵**构成。
 >
-> **破局机理**
+> **统计纠偏机理**
 > 即使纳入的一阶元分析之间存在不可避免的主要研究重复引用，或者研究者设定的工作模型相关系数（$\rho$）不完全准确，经验残差外积也能自动捕获数据中的真实相关性与超额波动，**自动将虚假缩小的标准误修正回真实水平**。配合 Hotelling $T^2$ 小样本调整，确保在集群数量有限时检验的假阳性率被严格控制在名义水平（如 0.05）。
 >
 > 🔗 完整三明治矩阵公式与小样本校正算法参见：稳健方差估计（RVE）。
@@ -409,7 +409,14 @@ updated: 2026-10-17
 > - **综合教学方案（Comprehensive Pedagogical Programs）**
 >   学校层面的宏观教学模式（如[[Direct Instruction|直接教学]]），比较基线为常态传统讲授，测试时间跨度常以学期或学年计。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
 > - **微观设计变体（Micro-Level Instructional Variations）**
->   相同教学法内部的特定参数调节（如分散练习），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+>   相同教学法内部的特定参数调节（如分散练习），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
+
+> [!critique] [[Argument_Terhart_2011_JCS|Terhart (2011)]] · 货币比附谬误与修补金字塔双重困境
+> 德国教育学者埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从方法学审计与[[Epistemology|认识论]]哲学高度审视了二阶粗放综合（Mega-analysis）的推论困境：
+> 1. **货币比附谬误与经验信息不可逆损耗** 金钱可以通过不同渠道汇集并将不同货币无损折算，但来自不同设计、不同情境的教学实证研究无法实现此类无损[[Commensuration|通约]]；二阶综合将已经高度压缩的元分析数据再次累加，原始详尽的经验信息与情境控制参数在反复累加中消失殆尽，累加层级越高，证据的真实稳健性反而越发降低（pp. 429, 436）；
+> 2. **时滞解耦与关键结论的系统性滞后** 初级实证研究发表通常比一阶元分析早约 5 年，而二阶综合纳入的一阶元分析往往发表于 10 至 20 年前；这种跨越数十年的时间滞后使二阶综合脱离前沿教学实际，导致其关键发现面临系统性过时风险（pp. 428–429）；
+> 3. **稳定性假说与变异性假说的双重困境** 二阶超级综合在认识论上陷入两难：对于报告的绝大多数通用[[Effective Teaching|有效教学]]因素（如清晰讲授、反馈、目标导向），其实质上仅是对数十年来教育教科书既有常识的渐近逼近，缺乏新知识增量（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论（如声称教师专业知识与教育背景影响微弱）已被最新严谨实证（如德国 COACTIV 项目证实教师学科知识与学科教学法知识的决定性价值）全面颠覆（变异性假说）（pp. 436–437）；
+> 4. **终结圣杯神话的金字塔隐喻** 二阶元分析未曾寻获掌控教学成效的终极法则（圣杯），其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法轻易移位；另一方面局部不断受损、整体需无休止扩建修复，始终处于临时性与未完成状态（p. 437）。
 
 ---
 
@@ -445,8 +452,9 @@ updated: 2026-10-17
 ## 使用此方法的核心代表研究
 
 > [!evidence-grid] 使用此方法的核心代表研究
-> - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis\|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]
-> - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation\|教育捐赠基金会]]以[[Effect Size\|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019)]]
+> - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
+> - **二阶综合[[Epistemology|认识论]]审计与修补金字塔批判** [[Argument_Terhart_2011_JCS|Terhart (2011)]] 对《可见的学习》816 项元分析开展方法学审读与认识论解构，提出货币比附谬误揭示跨项目粗放累加导致的经验信息不可逆损耗，诊断 10–20 年底层文献时滞解耦，并以稳定性与变异性假说双重困境论证巨型综合筑起的是需无休止局部修补的庞大金字塔，破除终极圣杯神话（pp. 425–438）。
+> - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity\|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 确立创造力[[Predictive Validity\|预测效度]]与教育干预效应。
 > - **[[Cooperative Learning\|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review\|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting\|逆方差加权]][[Random-Effects Model\|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect\|调节效应]]。
 > - **[[Problem-Based Learning\|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size\|效应量]]），在[[Random-Effects Model\|随机效应模型]]下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制文献重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect\|调节效应]]。
@@ -466,21 +474,21 @@ updated: 2026-10-17
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **全库离散度超标与数理基准失效** 戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
-> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策；特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）提出的货币比附谬误与稳定性/变异性假说双重困境进一步表明，二阶粗放综合无法消除教育实践的复杂性与时效滞后（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
-> - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
-> - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的[[Sample Size Determination|样本量]]和标准差普遍被隐藏，形成不可查证的数据黑箱。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
-> - **口径冲突与二阶拼凑脆弱** 各元分析作者在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
+> - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
+> - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的[[Sample Size Determination|样本量]]和标准差普遍被隐藏，形成不可查证的数据黑箱。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
+> - **口径冲突与二阶拼凑脆弱** 各元分析作者在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
 
 > [!pathways] 中央标准化证据数据库与一级直接综合转型方案（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
-> 1. **脱离商业期刊的强制透明归档** 凡接受公共财政资助的研究，无论是否显著、是否见刊，均须强制上传原始数据。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
-> 2. **统一全行业效应量指标** 全库统一采用无偏标准化的 Hedges' $g$，终结指标混杂。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
-> 3. **公开主要研究完整数据矩阵** 全面披露样本量（$n_E, n_C$）、均值、标准差与情境[[Variable|变量]]，消除数据黑箱。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
-> 4. **从二级拼凑转向一级大样本直接综合** 绕过有缺陷的中间元分析，直接基于全量原始数据开展一级直接元分析。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 1. **脱离商业期刊的强制透明归档** 凡接受公共财政资助的研究，无论是否显著、是否见刊，均须强制上传原始数据。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
+> 2. **统一全行业效应量指标** 全库统一采用无偏标准化的 Hedges' $g$，终结指标混杂。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
+> 3. **公开主要研究完整数据矩阵** 全面披露样本量（$n_E, n_C$）、均值、标准差与情境[[Variable|变量]]，消除数据黑箱。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
+> 4. **从二级拼凑转向一级大样本直接综合** 绕过有缺陷的中间元分析，直接基于全量原始数据开展一级直接元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 35–36)]]
 
 > 完整详尽的批判脉络、数学反例、透明度重构与案例剖析详见专门理论条目：
-> 🔗 **[[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of Meta-meta-analysis）**。
+> 🔗 **[[Critique of Meta-meta-analysis|元-元分析批判]]（Critique of Meta-meta-analysis）**。
 
 ---
 
@@ -500,3 +508,4 @@ updated: 2026-10-17
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级[[Fixed-Effect Model\|固定效应]]等价性与文献重叠时经典方差失效的机制。 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 全库审计 | 依据 [[PICO Framework\|PICO]] 与[[Umbrella Review\|伞状综述]]规范开展首个[[Preregistration\|预注册]]全库审计，揭示一阶元分析数据提取脆弱性与[[Replication in Education Research\|复现危机]]。 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 认识论批判 | 提出货币比附谬误与修补金字塔双重困境，批判二阶粗放综合的经验信息损耗与时滞过时风险。 |
