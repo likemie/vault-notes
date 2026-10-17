@@ -73,7 +73,7 @@ updated: 2026-10-17
 > 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向教学设计的认知内核与能力本质，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
+> - **含义** 指向教学设计的认知实质与能力要求，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
 > - **用途** 帮助教师克服“活动繁荣却无实质学习”的教学盲区，破除学生将“字迹工整、篇幅冗长、没有拼写错误”等形式特征误当作学业优秀的认知迷思。
 > - **边界** 学习意图本身不规定具体的达标评判证据与细化层级（后者由[[Success Criteria|成功标准]]承担），亦不应蜕变为上级行政人员用于课堂纪律巡视的机械打卡工具。
 
@@ -102,7 +102,7 @@ updated: 2026-10-17
 > [!feature] 核心要素
 > - **去活动化认知聚焦（De-contextualised Cognitive Focus）** 将核心学科概念从特定活动载体中剥离出来，使学生认识到活动只是探究知识的媒介，深层理解才是目的（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）。
 > - **师生显性共享（Explicit Shared Ownership）** 改变教师单向掌控教学意图的黑箱状态，在任务初始阶段即用学生可理解的语言公布并研讨意图，建立透明的师生认知契约。
-> - **进阶锚定性（Progression Anchoring）** 学习意图直接锚定学科的[[Learning Progression|学业进阶]]阶梯，明确指示学生从基础知识再认向关系推理与拓展迁移的跃升路径（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 14–17]]）。
+> - **进阶锚定性（Progression Anchoring）** 学习意图直接锚定学科的[[Learning Progression|学业进阶]]阶梯，明确指示学生从基础知识再认向关系推理与拓展迁移的进阶发展路径（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 14–17]]）。
 > - **[[Metacognition|元认知]]导向（Metacognitive Orientation）** 促使学生在学习过程中持续进行自我提问与监控，培育自主调节能力。
 > - **制度化异化风险（Institutional Degeneration Risk）** 当学习意图被外部政策刚性量化为行政检查指标时，极易退化为追求形式合规的白板标语，扼杀师生的生成性对话与情境裁量权（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
@@ -170,7 +170,7 @@ updated: 2026-10-17
 > 探讨将学习意图作为封闭既定终点的技术因果工程，如何将学生的主体意向性替换为可测量的心理学术语，导致学习与生活世界脱节。
 
 > [!claim] [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]]
-> **意向性置换与封闭因果控制** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）深入指出，当学习意图被置于哈蒂式的技术理性闭环中时，学习目标变成了不容置疑与探讨的既定前设，教学手段则依据其对目标的达成效能被神圣化。在这一封闭系统里，学生不再被视为具有自身历史处境、独特意图与生活世界关切的主体，而是被降格为对反馈信号做出机械反应的控制回路节点；哈蒂用自我效能感、自我设限、自我动机等心理学变量，彻底置换了学生探问“学校与学习对我的人生究竟有何意义”的本体论追问，造成教育合法性根基的深层侵蚀。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–89)]]
+> **意向性置换与封闭因果控制** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）深入指出，当学习意图被置于哈蒂式的技术理性预设框架中时，学习目标变成了不容置疑与探讨的既定前设，教学手段则依据其对目标的达成效能被神圣化。在这一封闭系统里，学生不再被视为具有自身历史处境、独特意图与生活世界关切的主体，而是被降格为对反馈信号做出机械反应的控制回路节点；哈蒂用自我效能感、自我设限、自我动机等心理学变量，彻底置换了学生探问“学校与学习对我的人生究竟有何意义”的本体论追问，造成教育合法性根基的深层侵蚀。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–89)]]
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-17
 > | **命题一：认知透明与概念深化** | 显性共享学习意图能打破学生对任务外在形式的盲目依赖，激活深层因果理解 | 单元教学初始设计、探究任务解构 | Clarke, Timperley, & Hattie (2003) |
 > | **命题二：形成性反馈基准坐标** | 学习意图为识别[[Learning Gap\|学习差距]]与制定下一步教学行动提供首要参照基准 | 课堂提问、练习诊断与形成性反馈循环 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black and Wiliam (1998) |
 > | **命题三：管理主义清单异化** | 政策刚性推行将学习意图降格为课前白板打卡，滋生表演性合规与专业[[Cognitive Deskilling\|去技能化]] | 维州 HITS 落地、新泰勒主义巡课、教师专业自主权批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；Lilley (2022) |
-> | **命题四：意向性置换与主体放逐** | 目标神圣化闭环将学习窄化为机械控制，以心理学变量替换学生探索生活世界的主体意向 | 可见学习哲学批判、教育合法性危机反思 | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] |
+> | **命题四：意向性置换与主体放逐** | 目标神圣化逻辑将学习窄化为机械控制，以心理学变量替换学生探索生活世界的主体意向 | 可见学习哲学批判、教育合法性危机反思 | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] |
 
 ---
 
@@ -190,9 +190,10 @@ updated: 2026-10-17
 
 > [!dev-timeline] 概念演变
 > - **1990s — [[Formative Assessment|形成性评价]]奠基** 布莱克与威廉（Black & Wiliam, 1998）指出清晰的目标界定是形成性评价有效运转的前提，奠定了将目标从静态考卷转移到动态课堂的理论基础。
-> - **2003–2005 — 概念界定与可见学习吸纳** 克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005]]）在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中系统阐释 Learning Intentions，明确将其与任务完成区分开来，作为可见学习模型中“清晰教学”（Teacher Clarity）的关键抓手。
+> - **2003–2005 — 概念界定与可见学习吸纳** 克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005]]）在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中系统阐释 Learning Intentions，明确将其与任务完成区分开来，作为可见学习模型中“清晰教学”（Teacher Clarity）的关键实施路径。
 > - **2016–2019 — 商业培训与跨国扩张** 伴随 [[Corwin Press|Corwin]] 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国循证教学改革的通用术语。
 > - **2020–2023 — 政策制度化与批判性反思** 澳大利亚维州将学习意图作为 [[Victorian HITS and Literacy Toolkit|HITS]] 刚性指标后，基层遭遇白板打卡与行政扣分的形式主义困境；奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）与约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）从统计学和政治经济学角度展开批判，揭露技术清单对教师[[Professional Judgment|专业判断]]的剥夺。
+> - **2021 — 技术理性控制与学生意向性批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）深入教育哲学层面，指出哈蒂体系将学习意图作为不容置疑的封闭终点，以既定目标神圣化教学手段，用心理学操作变量（自我效能感、自我动机等）置换了学生探问生活世界意义的主体意向性。
 
 ---
 
@@ -205,6 +206,12 @@ updated: 2026-10-17
 > >
 > > - **标准化循证取向（[[Argument_Hattie_2005_ACER|Hattie, 2005]]; Almarode & Vandas, 2019）** 强调每节课必须有清晰且明确公布的学习意图，唯有如此才能确保教学对齐核心标准，消除课堂无效漫游。
 > > - **生成性探究与批判学者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出过于刻板地恪守预设意图会扼杀课堂意外生成的思维火花与民主讨论，将生动的求知过程窄化为预设答案的封闭灌输。
+>
+> > [!axis] 封闭因果目标工程 vs 扎根生活世界的学生主体意向性
+> > 探讨学习意图是否应成为不可置疑的技术控制终点，还是应向学生参与学校生活的真实意图开放。
+> >
+> > - **技术理性控制范式（Hattie, 2009; 丹麦循证法案倡导者）** 主张学习目标是神圣不可动摇的，教师的任务是借助反馈与强化机制驱动学生向既定意图靠拢，以可预测的因果机制产出学业成绩。
+> > - **批判解释学与现象学范式（Ziehe, 2003; [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）** 强调健康的教育必须立足于学生为什么去学校、学习对其生活世界有何意义的根本关切，反对用冰冷的心理学变量（自我效能感、自我控制）阉割学生的真正能动意向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–89)]]
 >
 > > [!axis] 认知清晰度促进 vs [[Neo-Taylorism|新泰勒主义]]白板打卡与[[Performativity|表演性]][[Disciplina and Doctrina|规训]]
 > > 聚焦微观日常实践，分析教学启发工具如何沦为管理主义监控杠杆。
@@ -260,7 +267,7 @@ updated: 2026-10-17
 > | [[Performativity]] | 批判概念 | 政策将学习意图强制化为白板板书指标后所引发的教师虚假表演与合规异化。 |
 > | [[Professional Judgment]] | 核心概念 | 教师专业直觉与现场裁量权，受到刚性学习意图清单核查的严重侵蚀。 |
 > | [[Disciplina and Doctrina]] | 哲学[[Paradigm\|范式]] | 反映了管理主义技术规训（disciplina）对课堂生成性探究（doctrina）的压制。 |
-> | [[Technical Rationality]] | 哲学概念 | 审视学习意图被封闭为手段-目的因果工程背后的实证主义理性内核。 |
+> | [[Technical Rationality]] | 哲学概念 | 审视学习意图被封闭为手段-目的因果工程背后的实证主义理性前提。 |
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州推行 HITS、将白板书写学习意图硬性化的典型政策案例。 |
 > | [[Visible Learning Branding and Global Influences]] | 事实条目 | 记录了学习意图与清晰教学作为商业培训模块被推向全球的历史轨迹。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 提供了维州基层教师白板打卡规训与专业自主权流失的批判论据。 |
