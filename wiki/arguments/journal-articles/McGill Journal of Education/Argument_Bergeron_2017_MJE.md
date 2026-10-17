@@ -43,6 +43,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Common Language Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
   - "[[Correlational Research]]"
@@ -156,7 +157,7 @@ journal: McGill Journal of Education
 
 任何接受过基础统计训练的研究者均应知晓概率的严格数学边界，而哈蒂的二阶合成结果却汇报了负概率（p. 239）。
 
-> [!ref-table] Cohen's d 与常见语言效应量（Common Language Effect Size, CLES）规范对照
+> [!ref-table] Cohen's d 与[[Common Language Effect Size|常见语言效应量]]（Common Language Effect Size, CLES）规范对照
 > | Cohen's $d$ | 0.00 | 0.20 | 0.40 | 0.60 | 0.80 | 1.00 | 1.20 | 1.40 | 2.00 | 3.00 |
 > |---|---|---|---|---|---|---|---|---|---|---|
 > | **常见语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
