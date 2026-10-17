@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
     },
     {
+      "basename": "Pierre-Jérôme Bergeron",
+      "path": "wiki/persons/canada/Pierre-Jérôme Bergeron.md"
+    },
+    {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Analytic Framework",
       "path": "wiki/methods/qualitative/Analytic Framework.md"
-    },
-    {
-      "basename": "Vertical Disintegration",
-      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
     }
   ],
   "omittedPaths": [],

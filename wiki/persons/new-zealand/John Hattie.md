@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 144
+person_related_count: 145
 person_related_level: 14
 person_related_stars: "💎💎💎💎⭐⭐"
 person_related_color: "#fef3c7"
@@ -176,7 +176,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 # John Hattie
 
