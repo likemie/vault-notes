@@ -11,7 +11,7 @@ Default behavior:
 - By default, lint only Markdown files changed in git status, including untracked files.
 - Use --full for a full-vault lint.
 - Exits with non-zero status when errors are found.
-- Warnings do not fail unless --strict is used.
+- Unreviewed writing findings also fail; other warnings fail only with --strict.
 
 Expected location:
   /Users/shaoyangwu/Documents/MyNotes/scripts/vault_lint.py
@@ -2974,58 +2974,85 @@ def academic_prose_scan(text: str) -> str:
 
 
 
-WRITING_REVIEWS_PATH = ROOT / "scripts" / "writing_reviews.json"
+WRITING_EXCEPTIONS_PATH = ROOT / "scripts" / "writing_exceptions.json"
 
 
 @lru_cache(maxsize=1)
-def load_writing_reviews() -> Dict[str, Any]:
-    """Read the external review registry; it is never part of a note's YAML."""
-    if not WRITING_REVIEWS_PATH.exists():
+def load_writing_exceptions() -> Dict[str, Any]:
+    """Read approved expression exceptions; never store them in note YAML."""
+    if not WRITING_EXCEPTIONS_PATH.exists():
         return {}
 
     def unique_pairs(pairs):
         result = {}
         for key, value in pairs:
             if key in result:
-                raise ValueError(f"duplicate writing review key: {key!r}")
+                raise ValueError(f"duplicate writing exception key: {key!r}")
             result[key] = value
         return result
 
-    data = json.loads(WRITING_REVIEWS_PATH.read_text(encoding="utf-8"), object_pairs_hook=unique_pairs)
+    data = json.loads(WRITING_EXCEPTIONS_PATH.read_text(encoding="utf-8"), object_pairs_hook=unique_pairs)
     if not isinstance(data, dict):
         raise ValueError("审查注册表必须是条目相对路径到审查 ID 映射的 JSON 对象。")
     for name, reviews in data.items():
         path = Path(name)
         if (not name.startswith("wiki/") or "\\" in name or path.is_absolute()
                 or ".." in path.parts or path.suffix != ".md"
-                or name != unicodedata.normalize("NFC", name) or not isinstance(reviews, dict)):
+                or path.as_posix() != name or name != unicodedata.normalize("NFC", name) or not isinstance(reviews, dict)):
             raise ValueError(f"无效审查条目路径或记录映射：{name!r}")
     return data
 
 
-def check_writing_review_registry(issues: List[Issue]) -> None:
+def check_writing_exceptions(issues: List[Issue]) -> None:
     """Validate records even when their notes are outside the incremental scope."""
-    load_writing_reviews.cache_clear()
+    load_writing_exceptions.cache_clear()
     try:
-        registry = load_writing_reviews()
+        registry = load_writing_exceptions()
     except (OSError, ValueError) as exc:
-        issues.append(Issue("ERROR", rel(WRITING_REVIEWS_PATH), str(exc), code="ACADEMIC_REVIEW_INVALID"))
+        issues.append(Issue("ERROR", rel(WRITING_EXCEPTIONS_PATH), str(exc), code="ACADEMIC_REVIEW_INVALID"))
         return
     for name in registry:
         path = ROOT / name
         if not path.is_file():
-            issues.append(Issue("ERROR", rel(WRITING_REVIEWS_PATH), f"审查对应条目已移动或删除：{name}", code="ACADEMIC_REVIEW_STALE"))
+            issues.append(Issue("ERROR", rel(WRITING_EXCEPTIONS_PATH), f"审查对应条目已移动或删除：{name}", code="ACADEMIC_REVIEW_STALE"))
             continue
         if not is_wiki_entry_path(path):
-            issues.append(Issue("ERROR", rel(WRITING_REVIEWS_PATH), f"审查记录必须指向正式 wiki 条目：{name}", code="ACADEMIC_REVIEW_INVALID"))
+            issues.append(Issue("ERROR", rel(WRITING_EXCEPTIONS_PATH), f"审查记录必须指向正式 wiki 条目：{name}", code="ACADEMIC_REVIEW_INVALID"))
             continue
         metadata = entry_metadata(path)
         if not metadata or metadata.get("type") not in VALID_TYPES - {"source"}:
-            issues.append(Issue("ERROR", rel(WRITING_REVIEWS_PATH), f"审查对应文件缺少有效条目类型：{name}", code="ACADEMIC_REVIEW_INVALID"))
+            issues.append(Issue("ERROR", rel(WRITING_EXCEPTIONS_PATH), f"审查对应文件缺少有效条目类型：{name}", code="ACADEMIC_REVIEW_INVALID"))
             continue
         findings: List[Issue] = []
         check_academic_language(path, read_text(path), metadata, findings)
         issues.extend(issue for issue in findings if issue.severity == "ERROR")
+
+
+def writing_exception_changed_notes() -> List[Path]:
+    """Recheck affected notes when exceptions are added, edited or removed."""
+    name = rel(WRITING_EXCEPTIONS_PATH)
+    previous = git_files_at_head([name]).get(name)
+    try:
+        current = WRITING_EXCEPTIONS_PATH.read_text(encoding="utf-8") if WRITING_EXCEPTIONS_PATH.exists() else None
+    except OSError:
+        return []  # The registry validator reports unreadable files.
+    if current == previous:
+        return []
+    names = set()
+    for raw in (previous, current):
+        try:
+            registry = json.loads(raw) if raw is not None else {}
+        except ValueError:
+            continue
+        if not isinstance(registry, dict):
+            continue
+        for key in registry:
+            path = Path(key)
+            if (key.startswith("wiki/") and "\\" not in key and ".." not in path.parts
+                    and path.as_posix() == key and path.suffix == ".md"
+                    and key == unicodedata.normalize("NFC", key) and (ROOT / path).is_file()):
+                names.add(key)
+    return [ROOT / key for key in sorted(names)]
 
 
 def writing_review_id(code: str, location: str, original_line: str) -> str:
@@ -3040,10 +3067,10 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
         return
     fm, body, first_line = split_frontmatter(text)
     review_line = None
-    if "writing_reviews" in data:
-        issues.append(Issue("ERROR", rel(path), "writing_reviews 不得写入条目 YAML；请移至 scripts/writing_reviews.json。", code="ACADEMIC_REVIEW_INVALID"))
+    if "writing_reviews" in data or "writing_exceptions" in data:
+        issues.append(Issue("ERROR", rel(path), "写作审查记录不得写入条目 YAML；请移至 scripts/writing_exceptions.json。", code="ACADEMIC_REVIEW_INVALID"))
     try:
-        reviews = load_writing_reviews().get(unicodedata.normalize("NFC", rel(path)), {})
+        reviews = load_writing_exceptions().get(unicodedata.normalize("NFC", rel(path)), {})
     except (OSError, ValueError):
         reviews = {}  # The vault-level registry check reports malformed JSON.
     valid_reviews = {}
@@ -3057,7 +3084,7 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
         if not valid:
             issues.append(Issue(
                 "ERROR", rel(path),
-                f"scripts/writing_reviews.json 的 {rel(path)} / {review_id} 无效：ID 必须为 16 位小写十六进制；reason 至少 24 字符，具体说明概念或对立及保留必要性；evidence 至少 12 字符，给出实际来源或原句语境。禁止空泛理由。",
+                f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 无效：ID 必须为 16 位小写十六进制；reason 至少 24 字符，具体说明概念或对立及保留必要性；evidence 至少 12 字符，给出实际来源或原句语境。禁止空泛理由。",
                 line=review_line, code="ACADEMIC_REVIEW_INVALID",
             ))
         else:
@@ -3085,21 +3112,19 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
                 active_ids.add(review_id)
                 review = valid_reviews.get(review_id)
                 if review:
-                    issues.append(Issue(
-                        "INFO", rel(path),
-                        f"已审查保留 [{review_id}]（{'、'.join(hits)}）：{review['reason']} 依据：{review['evidence']}",
-                        line=offset + index, code="ACADEMIC_REVIEWED",
-                    ))
+                    # This exact expression was already justified. Reuse the
+                    # exception silently; do not ask the AI to review it again.
+                    continue
                 else:
                     issues.append(Issue(
                         "WARN", rel(path),
-                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}）：{reminder} 语境：{context} 必须修改表达，或在 scripts/writing_reviews.json 的本条目路径下记录具体 reason 与 evidence；未处理会阻断检查。",
+                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}）：{reminder} 语境：{context} 必须修改表达，或在 scripts/writing_exceptions.json 的本条目路径下记录具体 reason 与 evidence；未处理会阻断检查。",
                         line=offset + index, code=code,
                     ))
     for review_id in valid_reviews.keys() - active_ids:
         issues.append(Issue(
             "ERROR", rel(path),
-            f"scripts/writing_reviews.json 的 {rel(path)} / {review_id} 已失效：原句已变化或命中已消失。删除旧记录；如需保留新表述，按新的审查 ID 重新说明理由与依据。",
+            f"scripts/writing_exceptions.json 的 {rel(path)} / {review_id} 已失效：原句已变化或命中已消失。删除旧记录；如需保留新表述，按新的审查 ID 重新说明理由与依据。",
             line=review_line, code="ACADEMIC_REVIEW_STALE",
         ))
 
@@ -3562,7 +3587,7 @@ HIDDEN_PREEXISTING_WARNINGS = 0
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, all_warnings: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
-    check_writing_review_registry(issues)
+    check_writing_exceptions(issues)
     from citation_index import load_registry
     try:
         load_registry()
@@ -3586,6 +3611,8 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
     else:
         # Default incremental mode: only files changed in git status.
         md_files.extend(git_changed_md_files())
+
+    md_files.extend(writing_exception_changed_notes())
 
     # Deduplicate preserving order.
     seen = set()
@@ -3691,13 +3718,13 @@ def main() -> int:
         for issue in issues:
             if args.quiet and issue.severity != "ERROR":
                 continue
-            if issue.severity == "INFO" and not args.show_info and issue.code != "ACADEMIC_REVIEWED":
+            if issue.severity == "INFO" and not args.show_info:
                 continue
             print(issue.format())
         print()
         print(f"Summary: {len(errors)} error(s), {len(warns)} warning(s), {len(infos)} info item(s).")
         if pending_writing:
-            print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_reviews.json 逐项记录理由与依据后再运行 lint。")
+            print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_exceptions.json 逐项记录理由与依据后再运行 lint。")
         if HIDDEN_PREEXISTING_WARNINGS:
             print(f"(Unresolved writing reviews are always listed; {HIDDEN_PREEXISTING_WARNINGS} other baseline warning/info item(s) hidden. Use --all-warnings to show them.)")
 
