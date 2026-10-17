@@ -5,12 +5,12 @@
       "path": "wiki/concepts/comparative-education/Recontextualization.md"
     },
     {
-      "basename": "Network Governance",
-      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
-    },
-    {
       "basename": "Argument_Bergeron_2017_MJE",
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
+    },
+    {
+      "basename": "Network Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
     },
     {
       "basename": "Pierre-Jérôme Bergeron",
@@ -195,10 +195,6 @@
     {
       "basename": "Randomised Controlled Trials",
       "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "Analytic Framework",
-      "path": "wiki/methods/qualitative/Analytic Framework.md"
     }
   ],
   "omittedPaths": [],

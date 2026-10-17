@@ -66,19 +66,9 @@
               "icon": "lucide-file",
               "title": "Recontextualization"
             }
-          },
-          {
-            "id": "168f2c63a98832f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,11 +273,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "168f2c63a98832f2",
+  "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "2026-10-18.md",
     "wiki/concepts/comparative-education/Recontextualization.md",
-    "wiki/concepts/political-economy-geopolitics/Network Governance.md",
     "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md",
+    "wiki/methods/quantitative/Inappropriate Baseline Comparisons.md",
+    "wiki/concepts/political-economy-geopolitics/Network Governance.md",
     "sources/Bergeron_2017_MJE/text_extracted.txt",
     "raw/bergeron_2017_extracted.txt",
     "wiki/methods/quantitative/Common Language Effect Size.md",
@@ -325,8 +317,6 @@
     "wiki/persons/us/Herbert Walberg.md",
     "wiki/persons/germany/Axel Honneth.md",
     "wiki/theories/educational-philosophy/Recognition Theory.md",
-    "wiki/concepts/competency-and-assessment/Dynamic Assessment.md",
-    "wiki/concepts/instruction-pedagogy/Teacher Immediacy.md",
     "page1_img.png",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg",
