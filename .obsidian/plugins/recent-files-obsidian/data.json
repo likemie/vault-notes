@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
     },
     {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
       "basename": "Critiques of Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Argument_Nielsen_2021_IRTP",
       "path": "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Visible Learning Branding and Global Influences",
