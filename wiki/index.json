@@ -19817,6 +19817,18 @@
     ]
   },
   {
+    "title": "Common Language Effect Size",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Common Language Effect Size.md",
+    "aliases": [
+      "常见语言效应量",
+      "CLES",
+      "通用语言效应量",
+      "超越概率",
+      "Probability of Superiority"
+    ]
+  },
+  {
     "title": "Complier Average Causal Effect",
     "type": "method",
     "path": "wiki/methods/quantitative/Complier Average Causal Effect.md",

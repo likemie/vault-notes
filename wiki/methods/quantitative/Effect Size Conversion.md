@@ -11,9 +11,9 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 34
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -31,12 +31,13 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Commensuration]]"
   - "[[Direct Instruction]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Creativity]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Category Mistake]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Common Language Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Descriptive Analysis]]"
@@ -44,12 +45,15 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Common Language Effect Size]]"
+  - "[[Correlational Research]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Covariate Adjustment]]"
 related_persons:
   - "[[Gene Glass]]"
   - "[[Jacob Cohen]]"
   - "[[John Hattie]]"
-  - "[[Pierre-Jérôme Bergeron]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -261,7 +265,7 @@ updated: 2026-10-18
 
 ### 8. 通用语言效应量（Common Language Effect Size, CLES）换算与概率边界规范
 
-> [!formula-step] 公式步骤　标准化均值差到二项超越概率的映射
+> [!formula-step] 公式步骤　标准化均值差到二项[[Common Language Effect Size|超越概率]]的映射
 > $$\text{CLES} = \Phi\left(\frac{d}{\sqrt{2}}\right), \quad \text{CLES} \in (0\%, 100\%)$$
 >
 > **这个公式在做什么** 将连续标准化均值差转换为公众和教师直观可读的概率表述，即从实验组随机抽取一名个体的得分高于从对照组随机抽取个体的概率（McGraw & Wong, 1992；详见 [[Common Language Effect Size]]）。
@@ -282,8 +286,8 @@ updated: 2026-10-18
 > **数学直觉与边界** 当相关系数 $r$ 趋向于 1.0 时，分母迅速收敛至零，促使 $d$ 值产生爆炸性发散。更严重的是，该公式对弱相关赋予了不成比例的高效应量。
 >
 > **实证误导与因果混淆**
-> - **微弱相关跨入期望效应区** 仅仅需要 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$，跨入哈蒂所谓的[[Zone of Desired Effects|期望效应区]]。然而在一元线性回归模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 0.0385$，意味着仅能解释 3.85% 的变异，剩余 96.15% 属于完全未解释的随机噪声（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）。
-> - **横向相关混同干预增量** 将横向相关研究（如智商与创造力测验的得分相关，或学生自我预期成绩与期末实际成绩的自相关）套用此公式硬性转换为 $d$，直接抹除了实验对照与时间先后维度，将相关性错误包装为强效的因果教学干预。
+> - **微弱相关跨入[[Zone of Desired Effects|期望效应区]]** 仅仅需要 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$，跨入哈蒂所谓的[[Zone of Desired Effects|期望效应区]]。然而在一元线性回归模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 0.0385$，意味着仅能解释 3.85% 的变异，剩余 96.15% 属于完全未解释的随机噪声（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）。
+> - **横向相关混同干预增量** 将横向[[Correlational Research|相关研究]]（如智商与[[Creativity|创造力]]测验的得分相关，或学生自我预期成绩与期末实际成绩的自相关）套用此公式硬性转换为 $d$，直接抹除了实验对照与时间先后维度，将相关性错误包装为强效的因果教学干预。
 
 ---
 
@@ -302,7 +306,7 @@ updated: 2026-10-18
 > 1. **公式 (a) 组间比较** 测量新方法相对于标准方法的组间增量，分母为跨组总变异，准确反映真实教学效果梯度（$3 > 2 > 1 > 0$）。
 > 2. **公式 (b) 组内前后比较** 测量组内成绩变化与其自身离散度的相对比值。当教学法在提升平均分的同时成比例放大学生间变异时，相除操作直接消除了关键度量维度，导致异质干预被抹平为相同数值（$1 = 2 = 3$）。
 > 3. **公式 (c) 相关系数转换** 转化后实质测量线性一致性。对照组成绩完全未变（变异为 0），自相关为 1.0，转换后直接导致 $d \to \infty$；成绩提升越显著但变异越大的干预，相关性反而越弱，换算后效应量垫底（$0 > 1 > 2 > 3$）。
-> 4. **方法论裁定** 三种公式各自具有合理的数学基础，但在二级元分析中不加区分地直接混合取均值，导致排行榜反映的只是文献作者碰巧采纳的特定计算公式，证明跨研究设计的通用效应量标尺缺乏统计实体意义。
+> 4. **方法论裁定** 三种公式各自具有合理的数学基础，但在[[Meta-meta-analysis|二级元分析]]中不加区分地直接混合取均值，导致排行榜反映的只是文献作者碰巧采纳的特定计算公式，证明跨研究设计的通用效应量标尺缺乏统计实体意义。
 
 ---
 
@@ -376,7 +380,7 @@ updated: 2026-10-18
 > 3. **群聚依赖效应（Clustering Dependency）** 若单项研究报告多个非独立[[Effect Size|效应量]]，直接进行公式转换会造成抽样方差低估，必须结合[[Robust Variance Estimation|稳健方差估计]]（RVE）进行协方差修正。
 > 4. **分母除数混淆与伪[[Standard Error|标准误]]滥用风险** 必须严格审查[[Primary and Secondary Documents|原始文献]]汇报的离散量是标准差（SD）还是均值标准误（SE），防止除数混淆引发 $\sqrt{n}$ 倍量级灾难；严禁直接拿效应量跨研究离散度 $\text{SD}_d / \sqrt{k}$ 拼凑伪标准误。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
 > 5. **测度分母不可直接[[Commensuration|通约]]风险** Glass' $\Delta$、Cohen's $d$ 与 Hedges' $g$ 具有不同的分母假设，在未统一转换前直接混入同一池求平均属于范畴通约失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 26)]]
-> 6. **换算公式选择依赖与排序颠倒风险** 均值差效应量换算高度依赖具体的协变量控制与标准差选择模型。在受控数值实验中，针对同一组多条件实证数据，选择不同的合法换算公式不仅会导致数值巨幅波动，甚至会诱发排名的完全颠倒（如从严格递增逆转为严格递减）。研究者不得在未检验公式适用边界的前提下进行跨研究排序。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 242)]]
+> 6. **换算公式选择依赖与排序颠倒风险** 均值差效应量换算高度依赖具体的[[Covariate Adjustment|协变量控制]]与标准差选择模型。在受控数值实验中，针对同一组多条件实证数据，选择不同的合法换算公式不仅会导致数值巨幅波动，甚至会诱发排名的完全颠倒（如从严格递增逆转为严格递减）。研究者不得在未检验公式适用边界的前提下进行跨研究排序。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 242)]]
 
 ---
 

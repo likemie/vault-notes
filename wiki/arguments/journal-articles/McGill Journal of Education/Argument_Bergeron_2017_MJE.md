@@ -66,7 +66,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

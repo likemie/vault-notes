@@ -10,7 +10,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 62
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Evidence Era]]"
   - "[[Visible Learning]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Creativity]]"
   - "[[Recommendations for Practice]]"
   - "[[Champ]]"
   - "[[Self-Regulated Learning]]"
@@ -73,15 +75,20 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
+  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size Conversion]]"
   - "[[Content Analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Pierre-Jérôme Bergeron]]"
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
@@ -91,7 +98,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Correlational Research
@@ -101,7 +108,7 @@ updated: 2026-10-17
 ## 定义
 
 > [!def] 方法定义
-> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
+> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统一归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 学生认知与情感特征、家庭[[Socioeconomic Status|社会经济地位]]、学校组织氛围、教师教学行为、微观[[Academic Achievement\|学业成绩]]等在自然常态情境下自然分布的量化指标。
@@ -118,7 +125,7 @@ updated: 2026-10-17
 
 > [!concept-lens] 概念辨析：观察性研究（Observational Study）与相关性研究（Correlational Research）的范畴区隔
 > - **[[Causality\|因果推断]]维度的上位与下位关系**
->   - 在现代因果推断框架（如鲁宾因果模型）与计量经济学中，**观察性研究（Observational Study）** 是一个**上位总称（Umbrella Term）**，指代所有处理[[Variable\|变量]]并非由研究者随机指派、而是由受试对象自主选择或自然暴露所形成的经验研究。在此视角下，严格控制选择偏误的高级设计（如[[Difference-in-Differences\|双重差分法]]、[[Regression Discontinuity Design\|断点回归]]、[[Propensity Score Matching\|倾向得分匹配]]等[[Quasi-Experimental Designs\|准实验设计]]）在广义上皆属于观察性研究的前沿分支。
+>   - 在现代因果推断框架（如鲁宾因果模型）与计量经济学中，**观察性研究（Observational Study）** 是一个**上位总称（Umbrella Term）**，指代处理[[Variable\|变量]]源于受试对象自主选择或自然暴露、缺乏研究者随机指派的经验研究。在此视角下，严格控制选择偏误的高级设计（如[[Difference-in-Differences\|双重差分法]]、[[Regression Discontinuity Design\|断点回归]]、[[Propensity Score Matching\|倾向得分匹配]]等[[Quasi-Experimental Designs\|准实验设计]]）在广义上皆属于观察性研究的前沿分支。
 >   - 相比之下，**相关性研究（Correlational Research）** 是量化非实验设计中的一个**具体类型（Specific Design）**，侧重于直接测量变量间的共变关系（Covariation）与统计关联，通常采用[[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS）[[Multiple Regression\|多元回归]]或[[Causal Modeling\|结构方程建模]]，并不依赖准实验的外生断点或政策冲击。
 > - **教育研究实践中的双重语境**
 >   - 在微观课堂教学研究中，“观察”（Observation）常被用作资料收集技术的代称（如课堂编码规程、[[Qualitative Observation\|质性观察]]法、结构化行为观察）。
@@ -240,6 +247,13 @@ updated: 2026-10-17
 > - **反向因果困境（Reverse [[Causality]]）** 相关关系具有对称性。例如在《[[Visible Learning\|可见的学习]]》（Visible Learning）争议中，高[[Academic Achievement\|学业成就]]与高自我概念高度相关，但相关性研究根本无法判定是“高自我概念促进了成绩”，还是“优异成绩塑造了自信心”。
 > - **遗漏[[Variable\|变量]]混杂偏误（Omitted Variable Bias, OVB）** 即使通过[[Multiple Regression\|多元回归]]控制了十数个可观测指标，隐藏在背后的未测量变量（如学生未被测量的隐性毅力、家长对教育的隐性支持、社区非正规资本）依然会造成严重伪相关。
 
+> [!critique] 相关向均值差强行换算的极值爆炸与因果伪科学包装（基于 Bergeron & Rivard, 2017）
+> - **换算公式的发散爆炸与弱相关虚增** 借助公式 $d = \frac{2r}{\sqrt{1-r^2}}$ 将双变量相关系数 $r$ 换算为 Cohen's $d$，在数学上存在极端敏感的非线性缺陷。当相关系数接近 1 时，分母收敛于 0 导致 $d$ 值发散至无穷大；更为严重的是，该公式对弱相关赋予了极高的[[Effect Size|效应量]]假象：仅需 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$（被[[John Hattie|哈蒂]]奉为代表一年教学进展的[[Zone of Desired Effects|期望效应区分水岭]]）。然而在一[[Meta-regression|元回归]]模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 3.85\%$，剩余 $96.15\%$ 全属未解释的随机噪声。
+> - **横截面相关与预测自相关伪装为干预因果** 伯杰龙与里瓦尔审计指出，将相关性研究作为因果干预进行二阶综合，构成了混淆相关与因果的典型案例：
+>   1. **智商与[[Creativity|创造力]]的横向相关** 金（Kim, 2005）的[[Meta-analysis|元分析]]被包装为创造力对学业成就的强大干预效应，实质上仅度量了智商测验与创造力测验之间的横截面相关，完全缺乏任何干预教学或前[[Pre-test and Post-test|后测]]净增益。
+>   2. **自我报告成绩的预测自相关** 全书排名第一的“学生自我报告成绩”（$d = 1.44$），实质上仅是学生对自身分数的预估与期末真实成绩之间的预测自相关，从未设计对照组或进行干预操纵。
+>   将此类相关性研究硬性换算并与实验干预混同排榜，是用真实数据搭建的因果伪科学纸牌屋。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 242, 245)]]
+
 > [!critique] 统计修辞挤压与[[Recommendations for Practice\|实践建议]]膨胀（基于 Brady et al., 2023）
 > - **因果挤压（Causal Squeeze）** 在教育心理学及相关实证研究中，研究者频繁使用“预测因子（predictors）”、“中介因子（mediators）”和“结局（outcomes）”等带有强烈因果色彩的模型语言，从而在无操纵数据的表述中“挤压”出貌似确凿的因果幻象。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 9)]]
 > - **实践建议急剧膨胀（RFP Inflation）** 纵向内容编码揭示，顶级教育心理学期刊中包含明确实践建议（Recommendations for Practice, RFP）的观察与相关研究论文比例，从 2000 年的 **41%** 激增至 2010 年的 **46%**，并于 2020 年进一步飙升至 **66%**。这种建议膨胀使得严重缺乏[[Internal Validity\|内部效度]]保障的相关发现被过度包装为一线教学处方，极大地超越了方法学原本的证据边界。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
@@ -266,13 +280,18 @@ updated: 2026-10-17
 > | [[Multiple Regression]] | 分析技术 | 多[[Meta-regression\|元回归]]是相关性研究控制选择偏误、从单纯相关迈向 ESSA Tier III 的核心统计工具。 |
 > | [[Quasi-Experimental Designs]] | 进阶方法 | 准实验设计通过设置处理组/对照组及外生因果识别策略，突破了相关性研究无法推断因果的局限。 |
 > | [[Randomised Controlled Trials]] | 黄金标准 | RCT 依托[[Random Assignment\|随机分配]]彻底消除可观测与不可观测混杂，与相关性研究形成因果阶梯的两极。 |
+> | [[Effect Size Conversion]] | 关联方法 | 效应量换算试图将相关系数转换为均值差 $d$，但存在极值爆炸与因果混淆风险。 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 统计学者，揭示 $r \to d$ 换算数学爆炸及将相关研究伪装为干预因果的伪科学本质。 |
+> | [[John Hattie]] | 人物 | 在[[Meta-meta-analysis\|二阶元分析]]中大量将横截面相关研究换算为干预[[Effect Size\|效应量]]并统一排榜。 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 审计证据 | 揭示二阶宏观综合中 27% 违规混杂观察相关与实验因果对教学改进造成的误导。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 方法学批判 | 系统揭示 $r=0.196$ 虚增为 $d=0.40$ 机制，以创造力与自报成绩为例批判因果混淆。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 系统解构将相关研究强行换算为均值差（$r \to d$）的数理漏洞，揭示 $r=0.196$ 虚增为 $d=0.40$ 的机制，并以[[Creativity|创造力]]横向相关与自报成绩自相关为例批判因果伪装（pp. 242, 245）。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 对 2000–2020 年五本顶级教育心理学期刊进行系统[[Content Analysis\|内容分析]]，量化揭示了相关性研究中[[Recommendations for Practice\|实践建议]]（RFP）从 41% 激增至 66% 的方法学异化现象。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 跨源检索四大公共证据库，揭示了依赖单项相关性研究达到 [[Every Student Succeeds Act\|ESSA]] Tier III 门槛给学区带来的公共教育资金配置合规漏洞。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 运用大规模双信息源调查数据与分层[[Multiple Regression\|多元回归]]分析，检验学校人际关系与行为[[Variable\|变量]]对[[Gender Differences in Academic Achievement\|学业成就性别差异]]的解释路径。

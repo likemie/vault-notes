@@ -11,7 +11,7 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -63,8 +63,9 @@ related_methods:
   - "[[Matching]]"
   - "[[Sample Size Determination]]"
   - "[[Case Study]]"
-  - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size Conversion]]"
   - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Research Synthesis]]"
   - "[[Mechanism Experiments]]"
@@ -72,6 +73,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Michael Kratsios]]"
+  - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[United Kingdom Metascience Unit]]"
   - "[[Office of Science and Technology Policy]]"
@@ -85,11 +87,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Random Assignment
@@ -185,6 +188,15 @@ updated: 2026-10-17
 > - **颠覆偏差（Subversion Bias）** 执行人员可能因偏好而人为操纵受试者入组，必须通过中心化分配与[[Blinding|盲法]]防范。
 > - **黑箱化与因果机制遮蔽** 仅能输出平均[[Effect Size|效应量]]，无法解释干预为何在特定情境下生效，过滤了微观实践主体的推理与情境脉络。
 
+> [!critique-method] 受控随机分配下的公式依赖与因果排名反转（基于 Bergeron & Rivard, 2017）
+> 随机分配通常被视为消除混杂[[Variable|变量]]的终极统计保障，但在宏观二阶综合中，即使受试者被严格随机指派，**[[Effect Size Conversion|效应量换算]]公式的选择偏倚依然能够彻底推翻因果结论**。
+> - **受控数值实验设计** 伯杰龙与里瓦尔设定四个独立学生组，具有完全同质的初始学业正态分布（$\mu = 75, \sigma = 5$），通过真随机分配接受对照方法 0（零增量）与实验方法 1、2、3（均值增量分别为 1、2、3 分）。
+> - **完全相悖的效能排名** 针对这一完美排除选择偏误的随机化数据，采用三种在统计学上合法的计算公式：
+>   1. 公式 (a)（组间[[Pre-test and Post-test|后测]]均值差）：得出方法 3 > 方法 2 > 方法 1 > 方法 0（$d=0.55 > 0.37 > 0.19 > 0$）；
+>   2. 公式 (b)（各组前后测增量标准化）：得出方法 1 = 方法 2 = 方法 3（$d=1.00 = 1.00 = 1.00$）；
+>   3. 公式 (c)（相关系数反推均值差）：得出方法 0 > 方法 1 > 方法 2 > 方法 3（$d = +\infty > 2.00 > 1.41 > 1.15$）。
+> - **方法学推论** 严格的随机分配保障了初级研究的[[Internal Validity|内部效度]]，但若[[Meta-analysis|元分析]]研究者未经检验地混用不同效应量换算公式，得出的干预排行榜反映的将是公式选择而非教学干预的真实效能。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 243–245)]]
+
 > [!critique-method] 随机化失败的技术解构案例：Fresh Start 拼读实验
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）曾对中一学生阅读干预项目（Fresh Start）开展 [[Randomised Controlled Trials|RCT]] 评估，报告宣称获得 $+0.24$ SD 的显著增益。然而深入解构技术报告发现：
 > 1. **[[Pre-test and Post-test|前测]]严重失衡** 由于分配失控，干预组前测成绩远低于控制组，其后测成绩仅略高于控制组前测；
@@ -194,7 +206,7 @@ updated: 2026-10-17
 > [!case] 黄金标准随机分配的二阶稀释困境：田纳西 STAR 与[[Meta-analysis|元分析]]均值的张力
 > 随机分配作为确立[[Causality|因果推断]][[Internal Validity|内部效度]]的黄金标准，在宏观教育政策应用中面临显著的二阶稀释困境：
 > 1. **双重随机分配确立的强因果效应** 田纳西州 STAR 项目（Finn & Achilles, 1990）作为教育史上极少数对数千名师生同时实现真随机分配的标志性实验，确证了在关键早期学段（K–3）大幅压缩[[Class Size|班级规模]]（13–17 人）具有高达 $d = 0.62 \sim 0.66$ 的因果增益，且该增益在随后的求学阶段展现出长期保持性。
-> 2. **[[Meta-meta-analysis|二阶元分析]]的无差别均值抹平** 然而在宏观[[Research Synthesis|证据综合]]中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究笼统合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
+> 2. **[[Meta-meta-analysis|二阶元分析]]的无差别均值抹平** 然而在宏观[[Research Synthesis|证据综合]]中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究机械合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
 > 3. **因果纯度与宏观概括的[[Epistemology|认识论]]分裂** [[Ivan Snook|伊万·斯努克]]（Ivan Snook）等学者（2009）指出，这种将高质量随机分配试验与弱设计混杂合并的二阶元分析做法，实质上架空并稀释了初级实验通过严格随机化所辛苦建立的纯净因果结论；哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）则回应辩称，即便随机分配改变了物理班额，若教师未能相应调整教学行为，大规模财政投入依然效率低下。这揭示出微观严格随机分配实验与宏观二阶政策指引之间的深刻张力。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
 
 ---
@@ -214,12 +226,15 @@ updated: 2026-10-17
 > | [[Tennessee STAR Project 1985-1989]] | Fact (Project) | 教育史上极少数对数千名学生与教师同时实行双重真随机分配的标志性实验。 |
 > | [[Class Size]] | Concept | 检验随机分配因果效力与[[Meta-meta-analysis\|二阶元分析]]平均数稀释争议的核心政策领域。 |
 > | [[John Hattie]] | Person | 主张班级规模随机分配即使取得统计效应，若无教学法调适则政策效益有限。 |
+> | [[Pierre-Jérôme Bergeron]] | Person | 统计学者，以四组受控随机分配数值实验证实公式选择导致因果排名颠倒。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | Argument | 实证与方法学批判 | 论证随机化数据经由三类合法公式换算导出完全相悖排名，揭示排行失真。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 在四组完全随机分配的受控模拟实验中，证实三种合法[[Effect Size|效应量]]公式导致因果排名完全颠倒，揭示出宏观综合对公式选择的虚假依赖（pp. 243–245）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述在混合实验设计中使用随机数生成器进行真实验随机分配的标准操作规程。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对 [[Education Endowment Foundation|EEF]] Fresh Start 实验报告进行深度方法学解构，提供“随机分配失衡导致[[Effect Size|效应量]]虚假膨胀”的经典批判案例。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）将部分随机分配（Partial Randomization / Lotteries）应用于政府科研基金资助的[[Mechanism Experiments|机制实验]]，推动因果实验向科学治理自身的延伸。

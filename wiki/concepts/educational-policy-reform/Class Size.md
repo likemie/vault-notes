@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 74
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -36,11 +36,11 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Visible Learning]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Socioeconomic Status]]"
   - "[[Performance Pay]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
-  - "[[Zone of Desired Effects]]"
   - "[[Public Value]]"
   - "[[Material Fallacies]]"
   - "[[Dependent Variable]]"
@@ -69,10 +69,10 @@ related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Pierre-Jérôme Bergeron]]"
   - "[[Ivan Snook]]"
   - "[[José Luis García Garrido]]"
   - "[[Kathryn Anderson-Levitt]]"
+  - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[French Class Size Reduction]]"
   - "[[EU]]"
@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Class Size
@@ -268,7 +268,7 @@ updated: 2026-10-17
 > **词频统计反差揭示新自由主义政策偏好** 约翰逊与简森对《[[Visible Learning|可见的学习]]》全书进行词频统计显示，班级规模一词被提及高达 95 次，遍布 16 个章节，反反复复向读者灌输缩减班额无用的观念；其出现频次比全书效应量排名第一的自我报告成绩（仅提 6 次）高出整整 16 倍。该书的数据呈现深嵌于[[Global Education Reform Movement|全球教育改革运动]]（GERM）的新自由主义政治经济学，承载着明确的政策导向，有别于纯粹中立的技术分析——通过将班额效应量压低至 $d=0.21$（排第 108 位），为政府削减教育预算、抵制教师工会关于班额上限的诉求提供了强大的科学护盾。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
 
 > [!claim] [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]]
-> **基准参照颠倒导致政策性质判定发生根本性逆转** 伯杰龙与里瓦尔针对哈蒂关于班级规模的元分析裁定实施数理对偶审计：哈蒂单向选取“小班相对于大班”为参照系，得出 $d = +0.20$（或 $d=0.21$）的效应量，并因其低于人为设定的 $d=0.40$ “期望效应区”截断线，遂得出缩减班级规模属于低效教育政策的结论。然而，双样本实验效应量在数学定义上完全可逆：若将对照基准转为“大班相对于小班”，其数学效应量严格为 $d = -0.20$。在哈蒂自创的“影响气压计”区隔中，任何负效应量均被归入“逆向有害效应”（Reverse Effects）。依照其自洽逻辑，维持或扩大班额直接构成了阻碍学业成长的破坏性教育实践。将小班政策判定为“无足轻重”，纯粹依托于人为选取的单向对照参照系以及缺乏方法学实证依据的 0.40 临界阈值。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 240–242)]]
+> **基准参照颠倒导致政策性质判定发生根本性逆转** 伯杰龙与里瓦尔针对哈蒂关于班级规模的元分析裁定实施数理对偶审计：哈蒂单向选取“小班相对于大班”为参照系，得出 $d = +0.20$（或 $d=0.21$）的效应量，并因其低于人为设定的 $d=0.40$ “[[Zone of Desired Effects|期望效应区]]”截断线，遂得出缩减班级规模属于低效教育政策的结论。然而，双样本实验效应量在数学定义上完全可逆：若将对照基准转为“大班相对于小班”，其数学效应量严格为 $d = -0.20$。在哈蒂自创的“影响气压计”区隔中，任何负效应量均被归入“逆向有害效应”（Reverse Effects）。依照其自洽逻辑，维持或扩大班额直接构成了阻碍学业成长的破坏性教育实践。将小班政策判定为“无足轻重”，纯粹依托于人为选取的单向对照参照系以及缺乏方法学实证依据的 0.40 临界阈值。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 240–242)]]
 
 > [!tension-table] 班级规模效应量参照基准颠倒与政策性质判定对比
 > | 比较参照系设定 | 数学效应量 | 哈蒂影响气压计分类 | 政策实践推论 | 方法学局限 |
@@ -429,6 +429,11 @@ updated: 2026-10-17
 >
 > *“Class size cannot serve as a meaningful standalone unit of analysis... it must interact with student baseline ability, socio-demographic background, teacher professional competence, and classroom social dynamics.”*
 
+> [!citation-card] 班级规模[[Effect Size|效应量]]的参照系颠倒与有害性判定
+> 效应量的正负完全取决于比较的方向。哈蒂将小班与大班进行比较，得出效应量为 0.21，并据此宣称其影响较小。然而，若将比较设定为大班相对于小班，该效应量即为 -0.21，从而直接将大班归入哈蒂所谓具有‘逆向有害效应’的类别。由此可见，将某项干预判定为‘低效’还是‘有害’，往往取决于分析者人为选择的参照基准。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 240)]]
+>
+> *"The sign of an effect size depends entirely on the direction of comparison. Hattie sets class size as an effect size of 0.21 (comparing small to large classes) and declares it of low impact. However, if the comparison had been between large classes and small classes, the effect would be -0.21, putting large class size in the 'reverse effects' category... whether an intervention is seen as having low impact or being harmful depends on an arbitrary choice of baseline."*
+
 ---
 
 ## 相关研究
@@ -436,6 +441,7 @@ updated: 2026-10-17
 本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察文献索引如下。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 对[[John Hattie|哈蒂]]班级规模结论进行数理对偶审计，揭示小班 $d=+0.20$ 与大班 $d=-0.20$ 的参照基准颠倒效应，论证人为阈值（$d=0.40$）如何导致政策判定发生逻辑断裂（pp. 240–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判性重审可见学习底层逻辑，援引 Berger (1982) 确立班级规模非独立[[Unit of Analysis|分析单元]]属性，揭露排除 [[Socioeconomic Status|SES]] 调节[[Variable|变量]]所建构的阶级盲教学思维（pp. 5–7）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录欧美围绕班级规模（$d=0.21$）形成的“Class size matters”民间游说，并以俄罗斯实证反思决策层依凭中低效应排名削减学校资源所引发的教师流失与行政困境（pp. 235–237, 240–241）。
@@ -469,8 +475,10 @@ updated: 2026-10-17
 > | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用 | 新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |
 > | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发 | 跨国[[Ethnography\|民族志]]学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学[[Paradigm\|范式]]的刚性阻隔。 |
 > | [[José Luis García Garrido]] | 人物 | 制度批判 | 揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学批判 | 针对[[John Hattie\|哈蒂]]班额[[Meta-analysis\|元分析]]实施数理对偶审计，揭示比较基准颠倒导致的性质判定矛盾。 |
 > | [[Picking Up the Pace]] | 事实 | 本土实证 | 奥克兰南区小学缩班至 15 人配合 3 人微组阅读辅导，提供小班与针对性教学协同的典型范例。 |
 > | [[Performance Pay]] | 概念 | 替代政策 | 政策制定者常以班额无效论为借口，将原本拟用于缩班的公共资金转向屡遭失败的绩效工资。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 批判与审计 | 揭示大班对偶效应（$d=-0.20$）落入逆向有害区的数理事实，解构人为阈值偏见。 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 理论与数据来源 | 重审可见学习底层逻辑，论证班级规模非独立[[Unit of Analysis\|分析单元]]属性并揭露[[Socioeconomic Status\|阶级盲教学思维]]。 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 95 次高频词频统计与格拉斯曲线复验，揭示班额无效论作为财政护盾的政治经济学证据。 |
