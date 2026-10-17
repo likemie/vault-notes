@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 123
+method_related_count: 124
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -142,6 +142,7 @@ related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[EEF Padlock Security Rating]]"
@@ -149,7 +150,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Meta-analysis
@@ -330,11 +331,12 @@ updated: 2026-10-16
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_ROE\|Higgins, 2016]]）。
 >    - *[[PICO Framework|PICO]] 准入红线与[[Construct|构念]]混淆* [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 针对二阶综合的[[Metascience|元科学]]审计表明，若缺乏对初级元分析 [[PICO Framework|PICO]] 四要素（尤其是干预措施与对照组性质）的严格准入筛选，会导致严重异质的干预（如探究教学 vs 传统讲授、翻转课堂 vs 课后阅读）被机械混装，使合成结果沦为假性精确的宏观数字游戏。
+>    - *构念错位与异质拼贴文献学审计* [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 对《可见的学习》标杆干预“反馈”（$d=0.73$）所依赖的 5 项最大一阶元分析（覆盖 92.4% 学生样本与 83.8% 效应量）开展逐篇文献学细读，发现其中 4 项元分析所测量的构念严重偏离形成性认知反馈（混入代币与糖果等行为强化物、教师肢体亲和力与非言语沟通、以及动态测验中的后测重复训练），且大量依赖 1970 年代未发表的博士论文；这种将性质迥异的微观构念强行拼贴为单一“宏观有效教学”指标的操作，造成严重的构念错位与假性综合。
 > 2. **输入质量[[Determinism\|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_EvalRev\|Berk, 2011]]）。
->    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination\|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference\|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
+>    - *现代质控防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination\|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference\|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 >    - *商业学术出版体制与数据黑箱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–35)]] 实证指出，商业学术期刊体制构成了科学综合的制度性阻碍：强烈的[[Publication Bias|发表偏倚]]与抽屉效应导致大量零效应或负效应被隐藏；版面限制迫使初级研究普遍省略实验组与对照组的精确样本量（$n_E, n_C$）与标准差，形成不可查证的数据黑箱，导致后续元分析在提取端即遭系统性数据污染。
 > 3. **统计独立性假设违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error\|标准误]]（Wolf, 1986; Cheung, 2014）。
-> 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
+> 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，容易掩盖破坏性负向效应子群。例如 Kluger and DeNisi (1996) 与 [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 证实，在针对反馈的实证研究中，多达 38% 的干预实际上损害了学习成效（若反馈指向学生自我人格而非任务与认知加工）；二阶元综合直接报告单一正向均值（$d=0.73$），彻底掩盖了干预破坏性的情境边界（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性与二阶[[Replication in Education Research|复现危机]]** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）；全库数据审计证实粗放二阶[[Meta-meta-analysis|元综合]]的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 >    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 进一步揭示，当元综合脱离严格的[[Inverse-Variance Weighting|逆方差加权]]规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出[[Homework|家庭作业]] $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
 >    - *两级[[Fixed-Effect Model|固定效应]]代数等价性崩溃与文献重叠陷阱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 25, 29–30)]] 从数学公理证明，元分析合成有效性的充要条件是初级研究互不重叠；当不同元分析高度共享底层文献（如 Olson & Wisher 与 Sitzmann et al. 存在 93.3% 重叠）时，经典方差公式彻底失效，导致联合标准误虚假收缩与排名剧烈波动（网络学习去重加权后 $d$ 自 $0.59$ 暴跌至 $0.23$，排名从第 26 位骤降至第 98 位并跌破 $d = 0.40$ 关节点）。
@@ -373,6 +375,11 @@ updated: 2026-10-16
 > - **硬造伪标准误使核心教学法权重腰斩** Haas (2005) [[Direct Instruction|直接教学]]元分析报告 19 个效应量，离散标准差 $\text{SD} = 0.59$。后续宏观综合在缺失关键原始[[Sample Size Determination|样本量]]时，拿离散标准差除以 $\sqrt{19}$ 硬造伪标准误（$\text{SE} = 0.59/\sqrt{19} \approx 0.135$），致使其权重仅获 $W \approx 54.9$；而依原始样本量推算的真实标准误为 $0.092$（真实权重 $W \approx 118.1$），直接教学在总库中的有效权重被系统性削减了 53.5%。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
 > - **93.3% 极端文献重叠引发排名虚假繁荣** Olson and Wisher (2002) 网络学习元分析包含的 15 项主要研究中有 14 项（重叠率 93.3%）与另一项元分析完全重复。在忽略重复且未加权平均下综合效应量达 $d = 0.59$（高居全库第 26 位）；而在剔除重复并执行[[Inverse-Variance Weighting|逆方差加权]]后真实效应量骤降至 $d = 0.23$（排位暴跌 72 位至第 98 位并跌破 $0.40$ 关节点），证实原始数据提取与重叠审查是决定元分析推断有效性的生命线。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 30)]]
 
+> [!case] [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] · 反馈二阶元分析构念错位与异质拼贴文献学审计
+> - **92.4% 样本量的五大核心元分析溯源审查** 哈蒂在《可见的学习》中将[[Feedback|反馈]]列为排名最高、最有效的课堂干预之一（$d = 0.73$）。丹麦学者尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）对该条目下承载 92.4% 学生样本（180,683 / 195,649）与 83.8% 效应量（1,073 / 1,280）的 5 项最大一阶元分析开展逐篇文献学还原，审查其真实测量构念与方法学基础。
+> - **四大元分析构念严重偏离认知反馈** 审计揭示：Bangert-Drowns et al. (1991) 测量的是行为主义测试后纠错（未发表博士论文占主导）；Lysakowski and Walberg (1982) 测量的是行为强化物（将金钱、代币、糖果奖励统统归入反馈）；Tenbrink (1970) 汇总 1960 年代未发表博士论文，测量的是教师肢体语言亲和力与非言语肯定；Rummel (1983) 测量的是动态测验后的测试经验训练。四项元分析实质上测量的是行为主义强化、教师人际沟通与测验重复，偏离了形成性认知反馈的学术定义。
+> - **掩盖 38% 破坏性负向效应** 五项元分析中唯一严格契合反馈现代界定的 Kluger and DeNisi (1996) 实证揭示，在 607 个效应量中，多达 **38%** 的反馈干预产生了负面破坏性效应（引发自我防御与注意力分散）。然而在哈蒂的二阶元综合中，这种极端情境异质性与负向风险被单一的 $d = 0.73$ 宏观数字彻底掩盖，确证了脱离质性微观审读的粗放元综合极易沦为构念错位与误导实践的技术工具。
+
 ---
 
 ## 相关理论与方法
@@ -400,7 +407,7 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
-> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement\|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability\|信度]]元分析为底座提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm\|范式]]。
+> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement\|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability\|信度]]元分析为经验基底提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm\|范式]]。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 运用[[Random-Effects Model\|随机效应模型]]综合 29 项实验与准[[Experimental Research\|实验研究]]（59 个[[Effect Size\|效应量]]），评估[[Generative Artificial Intelligence\|生成式人工智能]]对学生[[Higher-Order Thinking Skills\|高阶思维]]（涵盖[[Problem Solving\|问题解决能力]]、[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning\|自主调节学习]]能力的[[Interaction Effect\|调节效应]]。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 依据[[Third Generation Activity Theory\|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research\|实验研究]]（97 个[[Effect Size\|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test\|前测]][[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model\|随机效应模型]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer\|图形组织器]]对学生[[Higher-Order Thinking Skills\|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression\|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable\|变量]]。
@@ -418,3 +425,4 @@ updated: 2026-10-16
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = 56.87\%$）系统检验《[[Visible Learning|可见的学习]]》底层 133 项效应量数据集的离散度，证实宏观二阶元分析在未进行充分同质性控制下输出单一线性均值与关节点的数理缺陷，并揭示依此排名盲目削减学校资源易导致教师流失与行政负担加剧的管理风险。
 > - [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《[[Visible Learning|可见的学习]]》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass and Smith (1979) [[Class Size|班级规模]]经典元分析进行失真提取的[[Cargo Cult Science|货物崇拜科学]]特征。
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从[[Fixed-Effect Model|固定效应]]数学公理推导出两级元分析代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），系统剖析了一级元分析中[[Standard Error|标准误]]误作标准差导致效应量虚增十倍（Eisenstaedt 案例）、未加权平均以及严重文献重叠（Olson & Wisher 93.3% 重叠）对综合推断的破坏机制，提出建立中央标准化证据数据库并转向基于原始主要研究的一级大样本直接综合。（pp. 24–30, 35–36）
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 对《可见的学习》核心干预“反馈”所依托的 5 项最大一阶元分析（覆盖 92.4% 样本）开展逐项文献学细读，实证揭示二阶元综合中普遍存在的构念错位（将代币强化、教师亲和力与后测练习混为认知反馈）、发表偏倚（大量依赖未发表学位论文）以及掩盖 38% 负面效应的方法学缺陷。

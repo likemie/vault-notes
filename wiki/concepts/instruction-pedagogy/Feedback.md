@@ -5,8 +5,8 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
-related_level: 4
+related_count: 34
+related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
 tags:
@@ -152,7 +152,7 @@ updated: 2026-10-17
 > 审查宏观循证体系中反馈超级指标的底层数据链，揭示构念错位与二次拼贴的失真机制。
 
 > [!claim] Nielsen, K. & Klitmøller, J.; Kalmendal et al.
-> **支撑反馈效应 92% 样本的构念名实不符** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller, 2021a]]）细读支撑哈蒂反馈超级效应（$d = 0.73$）中权重占比达 92.4%（$N = 62,761$）的五大核心元分析发现，有四项根本未测量真正的教学反馈：将课堂奖励强化（Lysakowski and Walberg, 1980）、前置教学线索（Lysakowski and Walberg, 1982）、教师身体亲和力（Witt et al., 2004）以及测验诊断辅助（Swanson and Lussier, 2001）机械混合为一体；唯一契合界定的 Kluger and DeNisi (1996) 效应量仅为 $0.38$。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）的独立复现审计进一步证实全库数据链高度受损，所谓“普遍高效”实为异质拼贴建构的统计假象。
+> **支撑反馈效应 92% 样本的构念名实不符** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读支撑哈蒂反馈超级效应（$d = 0.73$）中权重占比达 92.4%（$N = 62,761$）的五大核心元分析发现，有四项根本未测量真正的教学反馈：将课堂奖励强化（Lysakowski and Walberg, 1980）、前置教学线索（Lysakowski and Walberg, 1982）、教师身体亲和力（Witt et al., 2004）以及测验诊断辅助（Swanson and Lussier, 2001）机械混合为一体；唯一契合界定的 Kluger and DeNisi (1996) 效应量仅为 $0.38$。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）的独立复现审计进一步证实全库数据链高度受损，所谓“普遍高效”实为异质拼贴建构的统计假象。
 
 ---
 
@@ -171,13 +171,13 @@ updated: 2026-10-17
 
 > [!tension] 核心张力一：认知脚手架信息 vs 行为主义刺激—反应纠错回路
 > - **形成性认知对话立场（蓝方）** 强调反馈是围绕目标、当前水平与未来行动展开的双向信息流，服务于深层概念理解与自我调节能力建构（Hattie & Timperley, 2007; [[Argument_Fredens_2015_Paideia|Fredens, 2015]]）。
-> - **行为主义技术批判立场（红方）** 批评者指出技术理性将反馈降格为消除偏差的操作性强化工具，忽视了复杂文化背景与学习者寻求生存意义的意向性诉求（[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller, 2021a, pp. 13–15]]）。
+> - **行为主义技术批判立场（红方）** 批评者指出技术理性将反馈降格为消除偏差的操作性强化工具，忽视了复杂文化背景与学习者寻求生存意义的意向性诉求（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 13–15]]）。
 >
 > [!tension] 核心张力二：宏观普适高效宣称 vs 异质分布与负效应现实
 > - **普适强效证据立场（蓝方）** 《可见的学习》综合赋予反馈 $d = 0.73$（早期 $0.79$）的高效应量，列为所有教学干预的最顶层杠杆之一（Hattie, 2009）。
-> - **文献细读与异质性批判（红方）** 细读核查揭示支撑样本的 92% 存在严重构念错位，唯一契合的研究效应仅为 $0.38$ 且存在 38% 负效应，单一均值抹平了关键情境与实施质量差异（[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller, 2021a]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]）。
+> - **文献细读与异质性批判（红方）** 细读核查揭示支撑样本的 92% 存在严重构念错位，唯一契合的研究效应仅为 $0.38$ 且存在 38% 负效应，单一均值抹平了关键情境与实施质量差异（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]）。
 
-> [!warning] 算法与数字化环境中的反馈异化风险（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge, 2022]]）
+> [!warning] 算法与数字化环境中的反馈异化风险（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022]]）
 > 当反馈被数字化平台与自适应测评系统接管后，其教育学价值面临深层异化：
 > - **压缩反思间隙（Reflection Gap）** 算法毫秒级的即时正误反馈消解了学生在答题后自主推演、怀疑与反思的时间空隙，诱发盲目的试错猜答案行为。
 > - **游戏化代币替代实质指引** 积分、金币、勋章与排行榜等游戏化元素将实质性概念诊断替换为外在行为驱动，容易滑向数据行为主义的浅层操纵。
@@ -187,7 +187,7 @@ updated: 2026-10-17
 
 ## 实证数据
 
-> [!row-contrast] 支撑反馈效应的五大核心元分析文献学审查明细（[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller, 2021a, pp. 10–13]]）
+> [!row-contrast] 支撑反馈效应的五大核心元分析文献学审查明细（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 10–13]]）
 | 纳入元分析文献 | 样本量 $N$ | 效应量 $d$ | 实际测量构念与操作化 | 构念效度与方法学核查 |
 |---|---|---|---|---|
 | **Lysakowski and Walberg (1980)**<br>课堂强化技术综述 | 4,842 | 1.17 | **课堂行为强化**<br>考察 39 种强化技术（有形奖励、代币、表扬等）。 | **全文从未出现反馈一词**。哈蒂正文明确承认奖励是否属于反馈极其可疑，统计中却列为支持反馈的最高效应之一（pp. 10–11）。 |
