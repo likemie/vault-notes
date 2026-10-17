@@ -48,6 +48,7 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 confidence: high
 status: draft
 created: 2026-05-03
@@ -86,6 +87,7 @@ updated: 2026-10-17
 > - **1990 年代 — 学习理论范式全球扩散** 激进建构主义从哲学思辨走向教育主潮，促成以学生为中心（Student-Centered）、探究式学习与情境认知等教学改革的大规模实验。
 > - **2000 — 唯我论立场的极端化表述** 挪威学者比约根（Ivar Bjørgen, 2000）提出“对自己学习负责”的论断，断言“学习最终必须由个体自己完成——是唯我论的”，将激进建构主义推向个体认知内在自足的极致。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 > - **2011 — 建构性对齐的高等教育操作化** 约翰·比格斯（[[John Biggs]]）与唐（Catherine Tang）吸收激进建构主义认知立场，创立“建构性对齐”（[[Constructive Alignment]]）框架，将教学活动聚焦于学习者自身意义建构与评估任务的契合。
+> - **2011 — 特哈特对可见学习反建构主义实证修辞的审视与辩正** 埃瓦尔德·特哈特（Ewald Terhart, 2011）系统审视约翰·哈蒂（[[John Hattie]]）利用二阶元分析数据（激活者 $d = 0.60$ vs 促进者 $d = 0.17$）反驳激进与朴素建构主义教学的论辩；特哈特指出哈蒂宣称“建构主义是知识形式而非教学形式”（Hattie, 2009, p. 243），但教学论传统早已确立从“学习即建构”的认识论前提出发，逻辑上从未必然得出教师应退居为被动观察者或促进者的结论，揭示了将学习心理学建构论混同于放任式教学流派的范畴混淆。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–433, 436)]]
 > - **2018/2019 — 罗默对《可见的学习》的激进建构主义批判** 丹麦学者托马斯·罗默（[[Thomas Aastrup Rømer]], 2018, 2019）指出约翰·哈蒂（[[John Hattie]]）将建构主义作为底层学习理论，在消解传统文化与教师权威之后强行嫁接教师中心，引发了“教学概念的双重瓦解”。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]; [[Argument_Sarbiewska_2019_JSR|(Sarbiewska, 2019, pp. 121–122)]]
 > - **2021 — 尼尔森与克利特默勒的理论辨正论战** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）就罗默（2019）对哈蒂的激进建构主义定性展开学术商榷，论证哈蒂的真实理论基础是技术理性（[[Technical Rationality]]）与行为主义（[[Behaviorism]]），有别于激进建构主义的主观意义自组织，推动了关于当代量化循证教育认识论谱系的深度界定。
 
@@ -186,11 +188,18 @@ updated: 2026-10-17
 > >
 > > - **托马斯·罗默立场（[[Argument_Rømer_2018_EPT|Rømer, 2018]], 2019）** 判定哈蒂完全接受冯·格拉泽斯费尔德、比格斯与比约根的激进建构主义传统，将学习封闭在学习者的大脑自足系统之中，属于新时代的建构主义变种。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 > > - **尼尔森与克利特默勒立场（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 明确反驳了罗默的建构主义定性，论证哈蒂的理论根基是舍恩的技术理性（[[Technical Rationality]]）与斯金纳/格拉泽的行为主义（[[Behaviorism]]）；哈蒂将研究焦点收拢于外部代码纠偏与效率指标，将学生定位为服从调控的“技术问题解决器”，其实质是行为主义工程学，体现了完全不同的理论取向。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 46–47)]]
+> > - **埃瓦尔德·特哈特立场（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 从欧陆教学论视角审视哈蒂对建构主义的显性批判。哈蒂明确拒绝将建构主义作为教学模型，宣称建构主义属于知识形式而非教学形式（Hattie, 2009, p. 243），并动用二阶元分析数据（激活者 $d = 0.60$ vs 促进者 $d = 0.17$）反驳教师作为被动促进者的朴素建构主义假设。特哈特指出，哈蒂将建构主义等同于非指导性放任教学是一种范畴混淆；学习具有建构性是认知心理学共识，要求教师采取更为积极显性的指导与认知支架，教师的激活职能与主体的建构过程在教学论中内在一致（Terhart, 2003, 2011, pp. 431–433, 436）。
+
+> [!citation-card] 哈蒂与特哈特论建构主义认识论与教学形式的范畴界限
+> 建构主义常常被窄化为以学生为中心的探究学习、基于问题的学习或任务驱动学习，充斥着“真实”、“发现”与“内在动机学习”等流行术语。建构主义教师的角色常被宣称为被动促进者，主张让学生在极少外部纠正干预下自行建构意义。这一主张与真正成功的教与学规律背道而驰。建构主义是一种知识形式，无法直接作为具体的教学形式；概念知识的建构不可与当前泛滥的建构主义教学狂热相混淆。从建构主义认识论出发，教师必须始终保持积极的认知领导角色。[[Argument_Terhart_2011_JCS|(Hattie, 2009, pp. 26, 243, cited in Terhart, 2011, pp. 432–433)]]
+>
+> *Constructivism too often is seen in terms of student-centred inquiry learning, problem-based learning, and task-based learning... The role of the constructivist teacher is claimed to be more of a facilitation... with minimal corrective intervention... These kinds of statements are almost directly opposite to the successful recipe for teaching and learning... constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism. From constructivism it does not follow that a teacher can withdraw from his role.*
 
 > [!critique]- 批评索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 指出激进建构主义具有唯我论倾向，消解了客观学科文化与教学规范性，导致教学概念的双重瓦解。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 辨析可见学习中的认识论混淆，划定激进建构主义与行为主义技术理性的实质边界。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 引述罗默理论，指出将可见学习归入激进建构主义范式将暴露出教学本质崩溃的危机。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 剖析哈蒂对建构主义教学的实证反驳，辨析建构认识论与具体教学法之间的范畴界限。
 
 ---
 
@@ -200,3 +209,4 @@ updated: 2026-10-17
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展系统哲学审视，深入分析激进建构主义在教学、知识与反馈维度上的理论局限。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 对可见学习的底层实证研究与理论预设开展批判性检视，就哈蒂是否属于激进建构主义与罗默展开理论论战。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 梳理国际学界对可见学习的多元批评脉络，记录关于激进建构主义范式与教学双重崩溃的争鸣。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论视角审视哈蒂对激进建构主义教学的反驳，量化对比激活者（$d = 0.60$）与促进者（$d = 0.17$），辨析建构认识论与教学形式的范畴界限（pp. 431–433, 436）。

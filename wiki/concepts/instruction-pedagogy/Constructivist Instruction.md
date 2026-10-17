@@ -68,6 +68,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 status: active
 related_persons:
   - "[[Jean Piaget]]"
@@ -86,16 +87,16 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义并非由教师单向移交给学生，而是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
+> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物，超越教师单向信息灌输的传统模式。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
 
 > [!concept-lens] 概念透镜
-> - **核心内核** 强调学生是认知建构的能动主体，学习的核心机制是图式同化、顺应与概念重组。
+> - **核心要义** 强调学生是认知建构的能动主体，学习的核心机制是图式同化、顺应与概念重组。
 > - **教学功能** 破除机械[[Rote Learning\|死记硬背]]与惰性知识，培养学习者的高阶论证、劣构[[Problem Solving\|问题解决能力]]与认识论审辨力。
 > - **实施机制** 依靠任务设计引出深层认知活动，并依托[[Constructive Alignment\|建构性对齐]]确保目标、活动与评估的一致性。
 
 > [!boundary]- 概念边界
 > - **与[[Constructivist Paradigm\|建构主义范式]]的区别** 建构主义[[Paradigm\|范式]]是研究哲学、[[Epistemic Stances\|认识论立场]]与社会理论世界观（解释人如何理解经验、知识如何被社会建构）；建构主义教学则是落实在课堂层面的具体教学法与教学论设计系统。
-> - **与放任式[[Discovery Learning\|发现学习]]的区别** 成熟的建构主义教学高度依赖结构化认知与[[Metacognition\|元认知]]支架；纯粹缺乏指导的发现学习容易造成认知超载，并非建构主义教学的规范形态。
+> - **与放任式[[Discovery Learning\|发现学习]]的区别** 成熟的建构主义教学高度依赖结构化认知与[[Metacognition\|元认知]]支架；纯粹缺乏指导的发现学习容易造成认知超载，与强调严密支架的成熟建构主义教学形态存在本质区别。
 > - **与[[Direct Instruction\|直接教学]]的区别** 直接教学以教师主导的概念精讲、步骤示范与刻意练习为核心，侧重程序与事实的熟练掌握；建构主义教学以学生主动探究、假设检验与模型修正为主线，侧重概念理解与意义生成。
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-10-16
 > - **情境真实性与问题锚定** 将学习任务置于贴近真实世界或具有内在挑战性的情境中，使知识学习与实际应用场景紧密绑定。
 > - **先备经验的显性激活** 教学起始于对学生已有经验图式的唤起与暴露，使新知识与旧概念发生实质性碰撞。
 > - **协作探究与[[Metacognition\|元认知]]反思** 提供持续的对话反思空间，引导学生审视自身推理过程中的偏差、[[Chain of Evidence\|证据链]]条与评价准则。
-> - **[[Constructive Alignment\|建构性对齐]]的评估闭环** 考核方式必须直接评估高阶概念应用与解释生成，避免用孤立的事实记忆测验诱导学生退回表层背诵。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–65)]]
+> - **[[Constructive Alignment\|建构性对齐]]的评估联动** 考核方式必须直接评估高阶概念应用与解释生成，避免用孤立的事实记忆测验诱导学生退回表层背诵。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–65)]]
 
 ---
 
@@ -154,7 +155,17 @@ updated: 2026-10-16
 > 考察建构主义教学究竟应采取放任自流还是结构化支架，揭示程序规范教学在突破认知负荷瓶颈中的决定性价值。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
-> **结构化指导赋能建构效能** 针对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]表明，建构主义常规教学对学生的[[Academic Achievement\|学业成就]]与高阶认知表现具有稳健的显著因果促进效应。然而，干预框架呈现出显著的层级分化：当建构主义教学配套了显性的程序支架与评估规程（如[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]）时，干预效应录得大幅跃升；相反，缺乏结构化支架的无指导自由探索（如基于问题的开放学习或自由辩论）效应微弱且未达统计显著。这实证确立了建构主义教学的实践边界：建构主义的精髓并非取消指导，而是以高水平支架护航高阶建构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
+> **结构化指导保障建构效能** 针对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]表明，建构主义常规教学对学生的[[Academic Achievement\|学业成就]]与高阶认知表现具有稳健的显著因果促进效应。然而，干预框架呈现出显著的层级分化：当建构主义教学配套了显性的程序支架与评估规程（如[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]）时，干预效应录得大幅提升；相反，缺乏结构化支架的无指导自由探索（如基于问题的开放学习或自由辩论）效应微弱且未达统计显著。这实证确立了建构主义教学的实践边界：成熟建构主义教学以高水平支架护航高阶建构，有别于取消指导的放任探索。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
+
+---
+
+### 命题三　建构主义认识论与显性结构化指导内在一致：学习的建构性要求教师作为主动激活者
+
+> [!concept-lens] 教学论范畴澄清与角色重塑
+> 辨析学习心理学的概念建构本质与具体教学实践形态之间的认识论关联，破除将建构主义等同于放任非指导的范畴误区。
+
+> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]; Hattie (2009)
+> **建构认识论驱动显性激活领导** 针对国际教育界长期将建构主义窄化为无指导自由探究、并把教师贬低为被动促进者的流行风尚，约翰·哈蒂与埃瓦尔德·特哈特从实证元综合与欧陆教学论视角进行了系统澄清与辩正：第一，“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）；第二，学习者的理解固然是通过内部心智图式的同化与顺应主动建构生成的，但这在逻辑上从未要求教师放弃教学领导或退居旁观；相反，正因为深层概念建构需要克服认知偏差与盲目试错，教学更需要教师作为主动激活者，明确呈现结构化标准、搭建支架并持续提供形成性反馈。实证二阶综合中激活者（$d = 0.60$）对促进者（$d = 0.17$）的显著优势，确证了高质量建构主义教学必须与教师的主动认知领导紧密结合。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]
 
 ---
 
@@ -164,18 +175,20 @@ updated: 2026-10-16
 > | 命题命名 | 核心理论指向 | 教学设计与实践含义 | 代表学者与文献 |
 > |---|---|---|---|
 > | **建构性对齐命题** | 学习效能取决于学生自主建构活动与评估的系统对齐 | 课程开发必须同步对齐目标、活动与表现性考核 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
-> | **结构化支架赋能命题** | 建构主义教学必须依赖显性支架规程方能释放最大效益 | 探究教学设计严禁放任自流，必须嵌入方法规程支架 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
+> | **结构化支架保障命题** | 建构主义教学必须依赖显性支架规程方能释放最大效益 | 探究教学设计严禁放任自流，必须嵌入方法规程支架 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
+> | **激活型认知领导命题** | 学习心理学的建构性在教学论上驱动教师的显性领导与激活 | 拒绝被动协助与放任探究，教师必须主动建构教学与学习模型 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] [[Constructivist Paradigm\|建构主义]]教学概念演进脉络
-> - **20 世纪早期至中期 — 理论萌芽与奠基** [[Jean Piaget\|皮亚杰]]的认知发展阶段论与[[Lev Vygotsky\|维果茨基]]的社会文化历史理论分别奠定了认知建构与社会互动的心理学底座。
+> - **20 世纪早期至中期 — 理论萌芽与奠基** [[Jean Piaget\|皮亚杰]]的认知发展阶段论与[[Lev Vygotsky\|维果茨基]]的社会文化历史理论分别奠定了认知建构与社会互动的心理学基石。
 > - **1960–1970 年代 — [[Discovery Learning\|发现学习]]与螺旋课程** 布鲁纳（Jerome Bruner）倡导通过发现学习让学生掌握学科基本结构，但早期缺乏指导的发现实践在课堂中引发关于认知负荷过载的广泛担忧。
 > - **1980–1990 年代 — 建构主义教学浪潮全面兴起** [[Anchored Instruction\|抛锚式教学]]（Anchored Instruction）、[[Cognitive Apprenticeship\|认知学徒制]]与情境学习相继提出，建构主义成为欧美新一轮科学与数学课程改革的主导[[Discourse|话语]]。
 > - **1999 年 — [[Constructive Alignment\|建构性对齐]]的系统化课程设计** [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 提出建构性对齐理论，为建构主义由抽象教学理念转变为严密可操作的大学课程系统提供了标准蓝图。
 > - **2006–2007 年 — 无指导建构主义大论辩** 认知负荷学派（Kirschner, Sweller, & Clark, 2006）发表论文激烈抨击建构主义教学是“未提供足够指导的无效教学”；Hmelo-Silver, Duncan and Chinn (2007) 迅速撰文反驳，通过大量课堂证据澄清现代建构主义教学（如[[Inquiry-Based Learning\|指导式探究]]与 PBL）本质上包含密集而有力的[[Scaffolding\|认知支架]]。
+> - **2009–2011 年 — 宏观实证二阶综合辨正建构主义教学角色** 约翰·哈蒂（2009）与埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）基于 800 余项元分析建立二阶综合，量化对比教师作为激活者（$d = 0.60$）与促进者（$d = 0.17$）的效应断层；特哈特进一步确立从“学习即建构”无法直接推论出教师必须退居为被动促进者，推动了建构主义教学向教师显性认知领导与情境支架深度融合的理论升华。
 > - **2021–2023 年 — 因果[[Meta-analysis\|元分析]]确立支架建构教学的高效能** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 与 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 通过大样本元分析量化证实，提供结构化指导与证据评估规则的建构式探究教学具有突出的学业与[[Epistemology\|认识论]]增益，彻底终结了将建构主义等同于放任式探索的理论误区。
 
 ---
@@ -194,10 +207,20 @@ updated: 2026-10-16
 > > [[Critical Pedagogy\|批判教育学]]者和社会实在论学者警惕建构主义在基础教育实践中的异化倾向。
 > > - **[[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]** 批评建构主义教学[[Discourse|话语]]容易演变为对通用技能与生活经验的过度崇拜，导致学校课程边缘化了严密的学科概念体系，弱势家庭学生因无法在家庭中获取[[Cultural Capital\|文化资本]]而受到隐性剥夺。
 > > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]** 跨文化研究表明，建构主义教学进入统一大纲与高利害考试环境时，教师往往采取折衷调适，将建构对话转化为服务于学科知识识记与应试提分的实用工具。
+>
+> > [!axis] 教学角色之争：激活型认知领导 vs 促进型被动协助（Terhart & Hattie 之辩）
+> > 争论建构主义教学中教师的核心职能究系主动设定目标并提供反馈的激活者，还是创设环境由学生自主探究的促进者。
+> > - **实证元综合视角（Hattie, 2009; [[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 宏观数据表明促进型实践（模拟、个别化、无指导探究）平均效应量仅为 $d = 0.17$，显著低于激活型实践（$d = 0.60$），实证否定了教师退居为旁观协助者的教学有效性。
+> > - **欧陆教学论视角（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 特哈特指出，建构主义作为认识论描述知识生成规律，本不提供现成的教学操作法则；真正的建构主义教学要求教师建构自身的教学模型与学生的认知模型，主动激活与认知建构在教学论中内在相通。
 
 > [!warning] 实践异化与操作局限
 > - **形式化[[Activity Traps\|活动陷阱]]（Hands-on without minds-on）** 教学若仅停留于小组围坐、热闹手工或自由发言等肢体活动，缺乏引向概念深层重构的认知反思任务，极易沦为表面繁荣的低效课堂。
 > - **实施门槛高与教师专业能力瓶颈** 建构主义教学要求教师具备精深的内容知识、即时诊断学生前概念的能力以及动态调整支架的应变力，在常规大[[Class Size\|班额]]教学中普遍面临师资培训不足与制度评价机制制约。
+
+> [!citation-card] 特哈特论建构主义学习与教师主动激活教学的内在契合
+> 实证综合表明，向学生明确提出要求并持续提供关于其进展与表现反馈的主动、指导型教学，成效显著优于依赖归纳式问题解决过程的无指导、促进型与“协助型”教学。对哈蒂而言，建构主义是一种知识形式，无法直接作为具体的教学形式，概念知识的建构不可与当前流行的建构主义狂热相混淆。学习即建构，这恰恰对应着直接、主动的教学方式。建构概念适用于教师的维度在于：教师必须建构自身的教学模型与学生的学习模型。从建构主义出发，逻辑上要求教师坚定承担其专业指导角色。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 433–434)]]
+>
+> *The results show that active, guided instruction, which formulates clear requirements to the students and supplies them continuously with feedback about their progress and performance is more effective than unguided, facilitative, 'helping' teaching, which relies on inductive problem-solving processes and separate solutions etc. For Hattie, 'constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism'. Learning is constructing corresponds a direct, active way of teaching. Construction fit with the teacher only in the following respect: he has to construct his own model of teaching and a model of the student's learning. From constructivism it does not follow that a teacher can withdraw from his role—the opposite is the case.*
 
 ---
 
