@@ -4473,7 +4473,7 @@ Total entries: **3735**
 > - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
 
 > [!index-list]- Nordic Psychology (1)
-> - [[Argument_Nielsen_2021_NordPsych]] — 论证 Hattie 是教育理论家（非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应的 5 项最重元分析逐项细读审查发现 4/5 未研究同一现象
+> - [[Argument_Nielsen_2021_NordPsych]] — 系统剖析 John Hattie 在《可见的学习》中自诩客观统计学家而隐匿技术理性与行为主义理论预设，揭示其孤立因果归因、阶级盲视角与叙事性截断值偏误，并对覆盖 92% 样本的五大最重反馈元分析进行逐项文献学细读，指出其将行为强化、教师亲和力与动态测验机械混杂导致的证据失真与新泰勒主义规训本质
 
 > [!index-list]- Paideia (9)
 > - [[Argument_Allerup_2015_Paideia]] — 从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变
