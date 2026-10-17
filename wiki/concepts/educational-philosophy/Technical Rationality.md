@@ -130,6 +130,8 @@ related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: active
 created: 2026-05-03
@@ -204,6 +206,10 @@ updated: 2026-10-17
 > - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]
 > - **全域监测与数据回传的技术理性闭合回路幻觉（The Closed-Loop [[Feedback]] Fallacy of Large-Scale Assessment & Inspection）** 治理系统预设通过统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））和学校外部督导（Schulinspektion, SI）收集量化数据并向学校回传反馈报告，学校便能据此在因果逻辑下自动完成微观教学改进；实证研究证实这种手段-目的自动反馈机制在现实中普遍遭遇成效缺失（mangelnde Effekte），重现了经典的理论-实践困境（Theorie-[[Praxis]]-Problem）（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
 > - **普适社会技术拜物教与去政治化专家超然地位（[[Abstract]] Universal Social Technologies & Expert Neutrality Fiction）** 国际多边机构（如 [[UNESCO]]、[[OECD|经合组织]]）将“教育规划”（educational planning）与“课程”（curriculum）等工具包装为超越特定地域与政治脉络的抽象普遍社会技术，自称能在任何语境下提升教育；技术理性由此将国际机构塑造成超然于民族国家内部政治纷争之上的“客观、中立、科学的诊断与开方专家”。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
+> - **“非理论化统计中立”与行为主义隐匿包装（Atheoretical Pretense & Latent Behaviorism）** 将自身标榜为纯粹统计测量专家、声明不持理论立场（Knudsen, 2017），以此宣称数据能够客观反映真实；实质上却在认识论深层全盘承袭伯尔赫斯·弗雷德里克·斯金纳（Burrhus Frederic Skinner）与罗伯特·格拉泽（Robert Glaser）的行为主义逻辑，将教学过程机械降格为外部刺激输入、目标行为输出与纠错反馈闭合的技术控制回路。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
+> - **单变量因果孤岛与阶级盲还原（Single-Variable Isolating & Class-Blind Reductionism）** 违背社会生态的复杂交互本质，将学校教育拆解为离散独立的单变量因果孤岛；在实证建模中刻意将社会经济地位（SES）排除出调节变量分析，炮制出免除社会结构不平等冲击的“阶级盲教学思维”（class-blind pedagogical thinking）；同时依靠主观叙事设定 $d = 0.40$ 的期望效应区门槛，抹平了关键的发展阶段差异。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–9)]]
+> - **构念拼贴混淆与通量幻觉（Construct Misalignment & False Equivalence）** 在证据合成过程中将属于不同维度的异质构念（如代币行为强化、教师身体亲和力与动态测验提示）粗暴拼凑为单一输入变量，制造高通量均值，掩盖了干预措施中高达 38% 的负向抑制效应。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 9–13)]]
+> - **新泰勒主义规训与主体间承认消解（Neo-Taylorist Surveillance & Disregard of Intersubjective Recognition）** 技术理性将学习者窄化为去情境的认知客体，将自我效能等认知术语降解为促使学生自我调试的技术手段；借助量化效能气压计将师生降格为流水线上的纠错元件，剥夺了阿克塞尔·霍耐特（Axel Honneth）式的主体间承认，沦为教育行政体系自上而下标准化规训与监控教师劳动的新泰勒主义工具。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
 
 > [!logic-map]- 要素关系与批判逻辑
 > ```mermaid
@@ -230,8 +236,8 @@ updated: 2026-10-17
 > [!concept-lens] 沼泽地情境与工具理性的[[Epistemology\|认识论]]错配
 > 真实教育情境充满不确定性、不稳定性和价值冲突，技术理性基于封闭系统假定的因果控制在实践中必然遭遇认识论破产。
 
-> [!claim] Schön (1983) / Nielsen & Klitmøller (2021)
-> **技术理性的沼泽地困境与[[Reflexivity\|反思性]]转向** [[Positivism\|实证主义]]技术理性铺平了专业实践中的手段-目的思维，将实践问题设想为独立于情境的良构实体，认为只要查阅和应用基础科学规律就能解决实际困难。然而，真实的专业实践并非坚固的高地，而是由混乱、不确定与价值冲突构成的“沼泽地”（Swampy Lowland）。在教育中，如 Nielsen & Klitmøller（2021）批判[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》所示，将教学解构为孤立的行为主义因果干预并压缩为[[Effect Size\|效应量]]排行榜，完全抹杀了具体课堂的生发性。技术理性无法处理[[Problem Finding\|问题界定]]本身，迫使专业人员必须转向“行动中反思”（Reflection-in-Action）以重构问题情境。
+> [!claim] [[Donald A. Schön|Schön (1983)]] / [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller (2021a)]] / [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller (2021b)]]
+> **技术理性的沼泽地困境与[[Reflexivity\|反思性]]转向** [[Positivism\|实证主义]]技术理性铺平了专业实践中的手段-目的思维，将工程材料分析与医学病理诊断树立为专业实践的唯一标杆（Schön, 1983, p. 31），将实践问题设想为独立于情境的良构实体，认为只要查阅和应用基础科学规律就能解决实际困难。然而，真实的专业实践并非坚固的高地，而是由混乱、不确定与价值冲突构成的“沼泽地”（Swampy Lowland）。在教育中，如 Nielsen & Klitmøller（2021a, 2021b）批判[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》所示，将教学解构为孤立的行为主义因果干预并压缩为[[Effect Size\|效应量]]排行榜，完全抹杀了具体课堂的生发性。技术理性无法处理[[Problem Finding\|问题界定]]本身，迫使专业人员必须转向“行动中反思”（Reflection-in-Action）以重构问题情境。
 
 ---
 
@@ -269,6 +275,9 @@ updated: 2026-10-17
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] / Southwell (1997)
 > **抽象普适社会技术拜物教与国际机构中立专家神话** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）以 20 世纪 50 至 60 年代拉丁美洲为例，指出[[UNESCO|联合国教科文组织]]（UNESCO）与经济合作与发展组织（OECD）等国际机构极力推销以“规划与发展”为核心的技术官僚视野。在技术理性支配下，国际组织倡导“教育规划”与标准化“课程”等一套抽象普遍的社会技术（[[Abstract]] universal social technologies），宣称其能无视国情改善任何情境下的教育。这种技术理性将国际机构构塑为能够诊断教育病灶并提供正确处方的客观、中立与科学专家，使其得以凭借去政治化的技术合法性凌驾于民族国家内部的政治冲突之上。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
+
+> [!claim] [[Klaus Nielsen\|Nielsen, K.]] & Klitmøller, J. (2021a) / [[Scott Eacott\|Eacott, S.]] (2017)
+> **阶级盲教学思维、构念拼贴混淆与新泰勒主义规训** 尼尔森与克利特默勒通过审查哈蒂实证体系揭示了技术理性在当代教育中的三重异化：其一，在变量处理上，故意将最具决定性的社会阶层（SES）排除出调节变量分析，将学生预设为均质白板，炮制出免除社会不平等冲击的“阶级盲教学思维”（class-blind pedagogical thinking）；其二，在数据汇总上，将行为强化、教师身体亲和力与测验提示等异质构念拼凑为单一反馈均值，掩盖了高达 38% 的负效应；其三，在治理实质上，正如埃考特（Eacott, 2017）所指出的，以中立客观科学修辞建构的新泰勒主义（Neo-Taylorism），为教育行政官僚自上而下标准化监控教师劳动、剥夺教师专业裁量权提供了技术理性借口。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 5–15)]]
 
 ---
 

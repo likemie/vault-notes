@@ -147,6 +147,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: completed
 created: 2026-06-13
@@ -321,6 +322,9 @@ updated: 2026-10-17
 > [!claim] Skourdoumbis, N. & Rowe, E.
 > **新实证主义在[[Evidence-Based Education\|循证教育]]中的回潮与教学交往[[Ontology\|本体论]]抽空** 当代[[Evidence-Based Education\|循证教育]]（如[[Visible Learning\|可见的学习]]）狂热推崇新实证主义范式，试图通过[[Meta-analysis\|元分析]][[Effect Size\|效应量]]、标准化实验与机械因果归因直接接管教育决策；这种技术统治思维将教师降格为执行标准处方的技术官僚，在本体论上彻底抽空了课堂作为[[Student-Teacher Relationship\|师生关系]]性互动与文化创生的生成性本质。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 320–327)]]
 
+> [!claim] [[Klaus Nielsen\|Nielsen, K.]] & Klitmøller, J.
+> **非理论化统计修辞与技术理性实证还原** 尼尔森与克利特默勒指出，当代以《[[Visible Learning\|可见的学习]]》为代表的循证巨制是 19 世纪实证主义在当代的典型表现。哈蒂自称纯粹统计测量专家，声明不持理论立场（Knudsen, 2017），企图以此宣称经验数字具有未经理论中介的客观性；然而正如舍恩（Schön, 1983, p. 31）所揭示的，[[Technical Rationality\|技术理性]]构成了实证主义的直接遗产。这种实证主义进路将教学比附为工程材料分析与医学病理诊断，在抽离社会历史文化脉络的同时，隐蔽地将行为主义刺激—反应—纠错逻辑固化为通用规程，削弱了学习者的意向性与主体间交往，导致了经验层面的构念混淆与阶级盲偏误。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 3–5, 13–15)]]
+
 ---
 
 ### 命题五　实证量化取向在政策实践中的支配地位根源于其为国家规划提供政治合法化借口（alibi）而非认识论高明
@@ -357,7 +361,7 @@ updated: 2026-10-17
 > | **经典实证统一法则** | 自然与社会探究方法论统一与产出同构，追求跨情境客观普遍规律 | 实证哲学发轫、社会物理学与量化测量规范确立 | Comte; Giddens; Oldroyd |
 > | **启蒙准实证伦理统摄** | 经验事实分类归属于欧陆二级精神科学，全面服务于全人教化与社会改良 | 19 世纪初现代主义比较教育奠基期 | Jullien; Kaloyannaki & Kazamias; Palmer |
 > | **学科科学化范式围剿** | 以前科学和主观神秘为由贬斥历史学派，确立可[[Operationalization\|操作化]]假设检验与未来预测力标尺 | 20 世纪 60 年代比较教育学科范式转型与实证主义鼎盛期 | Noah & Eckstein; Holmes; Epstein; Anderson & Foster; Mattheou; Kazamias |
-> | **技术异化与主体遮蔽** | 揭示去情境客观性与价值中立导致科学主义异化、工具理性极权并抽空教育交往本体 | 批判理论、存在主义哲学与当代[[Critique of Evidence-Based Education\|循证教育批判]] | Habermas; Horkheimer; Kierkegaard; Skourdoumbis & Rowe |
+> | **技术异化与主体遮蔽** | 揭示去情境客观性与价值中立导致科学主义异化、工具理性极权并抽空教育交往本体 | 批判理论、存在主义哲学与当代[[Critique of Evidence-Based Education\|循证教育批判]] | Habermas; Horkheimer; Kierkegaard; Skourdoumbis & Rowe; Nielsen & Klitmøller |
 > | **政治规划合法化借口** | 实证量化垄断根源于充当国家五年计划与技术官僚的政治借口（alibi），并在危机后向多元范式演进 | 战后教育扩张、跨国政策规划与全球治理制度化分析 | Mattheou; Husén; Cowen; Carnoy; Kazamias |
 > | **唯方法论历史健忘症** | 唯方法论主义放逐历史分析导致学科历史研究跌破5%并诱发历史健忘症，呼唤历史与科学的综合 | 学科元研究计量、知识社会学与历史维度批判反思 | Rust; Larsen; Kazamias |
 
@@ -379,6 +383,7 @@ updated: 2026-10-17
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 > - **2021 年 — 证据合成中的无意识实证主义理论与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的批判理论，深刻解构当代[[Evidence-Based Education|循证教育]]巨制《[[Visible Learning|可见的学习]]》背后的实证主义内核；揭示哈蒂虽标榜纯粹中立的数据测量，其实质却受制于一套未明说的“无意识实证主义理论”（Unconscious Theory），将教学切片为去情境的自变量与因变量零件；指出行政官僚采纳这一实证模式，本质上是将其作为国家教育改革遭遇政治合法化危机时的工具掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 79–83, 86–89)]]
+> - **2021 年 — 统计中立修辞与技术理性实证还原的理论解构** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 结合舍恩对技术理性作为实证主义遗产的论断，揭示哈蒂宣称“纯粹测量与统计、不持理论立场”的实证主义修辞，实质上将教学切片为去情境的自变量并掩盖了深层行为主义预设；证实缺乏显性理论审视的实证数据汇总必然陷入构念混淆、清洗阶级变量以及抹杀发展阶段差异等系统性缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–9, 13–15)]]
 > - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与[[Performativity|表演性]]道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
 
 ---
@@ -450,6 +455,7 @@ updated: 2026-10-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表文献 | 历时性方法学内容计量编码 | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与[[Correlational Research\|相关研究]]仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | [[Discourse\|话语]]与方法学批判分析 | [[Meta-analysis\|元分析]]效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂[[Ontology\|本体论]]抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 约翰·哈蒂《可见的学习》反馈综合文献（覆盖总样本 67,931 人中 92.4% 权重的五大核心元分析） | 概念批判与元分析底层构念计量核查 | 实证量化构念信度与去理论化效应量汇总稳健性 | 证实五大核心元分析中有四项测量的属于行为强化、身体亲和力与动态测验提示等异质现象，唯一契合定义的研究实际效应仅为 $d=0.38$ 且包含 38% 负效应 | 质性深度核查确证 | 实证揭示缺乏显性理论审视的实证主义指标汇总在证据合成中导致的构念混淆与虚假因果 |
 
 ---
 
@@ -465,7 +471,8 @@ updated: 2026-10-17
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育两百年的四代论述，批判 1960 年代的科学一元论与方法论主义，借 Carnoy（1983）揭示实证主义的意识形态借口性质，并诊断[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
-> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构约翰·哈蒂《可见的学习》背后的实证主义与“无意识理论”内核，揭示其实证手段-目的闭环如何将教学异化为流水线，并充当现代国家规避教育合法化危机的技术工具（pp. 79–83, 86–89）。
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构约翰·哈蒂《可见的学习》背后的实证主义与“无意识理论”内核，揭示其实证手段-目的控制回路如何将教学异化为流水线，并充当现代国家规避教育合法化危机的技术工具（pp. 79–83, 86–89）。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩技术理性批判，细读哈蒂《可见的学习》反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、构念混淆与新泰勒主义规训本质（pp. 3–15）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
 
