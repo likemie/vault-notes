@@ -16259,17 +16259,17 @@
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(1),
 .callout:has(.concept-other-empirical-table-marker) td:nth-child(1) { width: 13%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(2),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(2) { width: 17%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(2) { width: 15%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(3),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(3) { width: 12%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(3) { width: 11%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(4),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(4) { width: 15%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(4) { width: 13%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(5),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(5) { width: 21%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(5) { width: 14%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(6),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(6) { width: 10%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(6) { width: 9%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(7),
-.callout:has(.concept-other-empirical-table-marker) td:nth-child(7) { width: 12%; }
+.callout:has(.concept-other-empirical-table-marker) td:nth-child(7) { width: 25%; }
 
 /* 概念页原始研究效应量表 */
 .callout:has(.concept-effect-table-marker) table {
@@ -16327,24 +16327,24 @@
 /* 概念页一阶元分析汇总表 */
 .callout:has(.concept-meta-analysis-table-marker) table {
   width: 100%;
-  min-width: 1280px;
+  min-width: 1360px;
   table-layout: fixed !important;
 }
 
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(1),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(1) { width: 14% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(1) { width: 13% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(2),
 .callout:has(.concept-meta-analysis-table-marker) td:nth-child(2) { width: 14% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(3),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(3) { width: 9% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(3) { width: 8% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(4),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(4) { width: 16% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(4) { width: 10% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(5),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(5) { width: 17% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(5) { width: 11% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(6),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(6) { width: 18% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(6) { width: 14% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(7),
-.callout:has(.concept-meta-analysis-table-marker) td:nth-child(7) { width: 12% !important; }
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(7) { width: 30% !important; }
 
 /* 概念页二阶元分析汇总表：紧凑呈现证据规模与核心合成结果 */
 .concept-second-order-meta-table-marker {
@@ -16353,7 +16353,7 @@
 
 .callout:has(.concept-second-order-meta-table-marker) table {
   width: 100%;
-  min-width: 1320px;
+  min-width: 1360px;
   table-layout: fixed !important;
 }
 
@@ -16364,19 +16364,19 @@
 }
 
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(1),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(1) { width: 14% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(1) { width: 13% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(2),
 .callout:has(.concept-second-order-meta-table-marker) td:nth-child(2) { width: 14% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(3),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(3) { width: 15% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(3) { width: 12% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(4),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(4) { width: 14% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(4) { width: 11% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(5),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(5) { width: 16% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(5) { width: 11% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(6),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(6) { width: 15% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(6) { width: 11% !important; }
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(7),
-.callout:has(.concept-second-order-meta-table-marker) td:nth-child(7) { width: 12% !important; }
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(7) { width: 28% !important; }
 
 /* 概念页一阶元分析互补维度亚组表 */
 .callout:has(.concept-meta-moderator-table-marker) table {
@@ -17252,13 +17252,13 @@
   text-align: left !important;
 }
 
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(1) { width: 14% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(2) { width: 11% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(3) { width: 18% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(4) { width: 12% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(5) { width: 18% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(6) { width: 14% !important; }
-.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(7) { width: 13% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(1) { width: 13% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(2) { width: 10% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(3) { width: 16% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(4) { width: 10% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(5) { width: 12% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(6) { width: 13% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(7) { width: 26% !important; }
 
 /* Moderator summary · compact result-table scale */
 .callout[data-callout="moderator-summary"] > .callout-content {
@@ -17441,15 +17441,15 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
 table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(2) { width: 9% !important; }
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(3) { width: 19% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(3) { width: 18% !important; }
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
 table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(4) { width: 8% !important; }
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(5) { width: 17% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(5) { width: 14% !important; }
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 18% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 14% !important; }
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 17% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 25% !important; }
 
 /* Concept「实证数据」· 二阶元分析互补维度亚组
    覆盖 ma-table 的通用 24% 首列：来源列保持紧凑，将空间留给亚组与效应说明。 */
@@ -17458,15 +17458,15 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
 table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(2) { width: 9% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(3) { width: 20% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(3) { width: 18% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(4) { width: 13% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(4) { width: 10% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(5) { width: 20% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(5) { width: 15% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 11% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 10% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
-table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 14% !important; }
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 25% !important; }
 
 /* ═══════════════════════════════════════════════════════════
    MATRIX-TABLE — 多列统计参数/模型与分析矩阵专用表格

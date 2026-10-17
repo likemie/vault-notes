@@ -82,7 +82,7 @@ updated: 2026-10-17
 > - **解释对象** 教育与社会中的权力非对称结构、[[Knowledge Production|知识生产]]中的意识形态运作、教育立法中的阶层利益再生产，以及实践者从制度性压迫中实现自主解放的能动路径。
 > - **理论问题** [[Positivism|实证主义]]将知识还原为中立的技术因果规律，[[Interpretive Paradigm|诠释范式]]局限于微观主观意义的共情理解；二者均排除了政治经济与意识形态语境，无法解释教育体制如何维持、合法化并再生产既有社会不平等。
 > - **理论类型** 规范性的社会批判与行动理论（Prescriptive and Normative Social Theory），兼具[[Ontology|本体论]]解构、方法论反思与政治实践变革三重功能。
-> - **知识位置** 思想远源承继卡尔·马克思（Karl Marx）的政治经济学批判；思想近源为法兰克福学派（马克斯·霍克海默 Max Horkheimer、狄奥多·阿多诺 Theodor Adorno、赫伯特·马尔库塞 Herbert Marcuse、埃里希·弗洛姆 Erich Fromm）与[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）的认识兴趣论；在当代教育政策领域融合了安妮·施耐德与海伦·英格拉姆（Anne Schneider & Helen Ingram）的价值建构论与杰奎琳·埃德蒙森（Jacqueline Edmondson）的批判性多元民主理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–31)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2, 10–12)]]
+> - **知识位置** 思想远源承继卡尔·马克思（Karl Marx）的政治经济学批判；思想近源为法兰克福学派（马克斯·霍克海默 Max Horkheimer、狄奥多·阿多诺 Theodor Adorno、赫伯特·马尔库塞 Herbert Marcuse、埃里希·弗洛姆 Erich Fromm）、第二代代表[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）的认识兴趣论与交往行为理论，以及第三代代表阿克塞尔·霍耐特（Axel Honneth）的主体间承认理论；在当代教育政策与心理学领域融合了安妮·施耐德与海伦·英格拉姆（Anne Schneider & Helen Ingram）的价值建构论、杰奎琳·埃德蒙森（Jacqueline Edmondson）的批判性多元民主理论，以及尼尔森与克利特默勒（Klaus Nielsen & Jens Klitmøller）对循证规训的技术理性批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–31)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2, 10–12)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 > [!claim] 核心判断
 > 任何知识、科学规范与公共政策都不是客观中立的产物，而是负载权威价值观的人为社会建构，深植于特定的政治权力与认识兴趣之中；研究与学术的目的不仅在于解释或诠释世界，更在于通过[[Ideology Critique|意识形态批判]]撕开技术中立假象，揭示被自然化的支配特权，并在民主实践中实现受压迫主体的实质解放。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 26–27)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
@@ -111,7 +111,8 @@ updated: 2026-10-17
 > - **1980s — 教育研究与[[Action Research|行动研究]]的批判转向** 威尔弗雷德·卡尔与[[Stephen Kemmis|斯蒂芬·凯米斯]]（Wilfred Carr & Stephen Kemmis, 1986）出版《成为批判的》（*Becoming Critical*），雪莉·格兰迪（Shirley Grundy, 1987）将认识兴趣论引入课程与教学分析，构建技术性、实践性与[[Emancipatory Action Research|解放性行动研究]]类型学，开启教育批判[[Paradigm|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - **2005 — 教育政策与立法权力的批判重构** 埃德蒙森（Edmondson）将批判理论扩展至联邦教育政策与科研管辖权分析，揭示法定科学标准背后的政商利益同盟，提出融合统整性研究与多阵线民主行动的[[Critical Pluralism|批判性多元主义]]框架。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
 > - **2007 — 变革范式与[[Mixed Methods Research|混合方法研究]]统整** 唐娜·默滕斯（Donna Mertens）提出变革范式（[[Transformative Paradigm]]），将批判理论的解放关怀深度融入实证与混合方法研究程序中，赋予量化与质性工具服务弱势群体平权的行动属性。
-- **2021 — 现代学校生活世界与技术理性殖民批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将哈贝马斯系统与生活世界理论及舍恩技术理性说运用于教育心理学批判，揭示当代证据本位教育与可见学习热潮本质上是行政官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体，批判其将充满意向性的鲜活师生还原为孤立变量并放逐学生主体性。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 83–89)]]
+> - **2021 — 现代学校生活世界与技术理性殖民批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将哈贝马斯系统与生活世界理论及舍恩技术理性说运用于教育心理学批判，揭示当代证据本位教育与可见学习热潮本质上是行政官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体，批判其将充满意向性的鲜活师生还原为孤立变量并放逐学生主体性。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 83–89)]]
+> - **2021 — 主体间承认理论对新泰勒主义规训的解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）进一步引入霍耐特（Axel Honneth）的主体间承认理论与交往行为视角，对哈蒂可见学习的元分析底层数据展开微观解构；揭示将教学降格为输入-输出刺激反应控制彻底剥夺了师生主体意向性，以[[Neo-Taylorism|新泰勒主义]]行政规训消解了教育实践中真正的主体间相互承认。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 ---
 
@@ -124,6 +125,7 @@ updated: 2026-10-17
 > | **[[Knowledge Production\|知识构成性兴趣]]** | [[Analytic Framework\|分析框架]] | [[Jürgen Habermas\|哈贝马斯]]区分技术（控制自然）、实践（社会互动与理解）与解放（摆脱压迫）三类人类原初求知动力，界定不同[[Paradigm\|研究范式]]的[[Epistemology\|认识论]]根基。 |
 > | **[[Ideology Critique\|意识形态批判]]** | 方法机制 | 核心方法论程序。通过批判反思揭示虚假意识，暴露统治群体将特殊部门利益包装为全社会普遍利益的修辞策略。 |
 > | **[[Ideal Speech Situation\|理想言说情境]]** | 规范准则 | 设定所有参与者拥有完全平等的发声权利、免受权力胁迫与层级压制的对称沟通规范，作为评估现实民主与学术商议质量的标准。 |
+> | **主体间承认机制（Intersubjective Recognition）** | 规范机制 | 霍耐特（Axel Honneth）界定的人类主体互认机制；[[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 用于揭示新泰勒主义量化规训对师生交往意向性与主体尊严的系统性消解。 |
 > | **实践（[[Praxis]]）** | 行动机制 | 在理论反思指导下指向自由与正义的自觉变革行动。强调反思与行动的有机融合，使专业实践超越纯粹的技术操作。 |
 > | **政策的价值建构属性** | 概念基石 | 指出公共政策并非客观中立的科学工程，而是统治群体关于理想社会秩序的权威宣告，本质是负载利益与价值偏好的社会建构。 |
 > | **[[Critical Pluralism\|批判性多元主义]]** | [[Institutional Displacement\|制度替代]]模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
