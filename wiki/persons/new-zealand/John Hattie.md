@@ -120,6 +120,7 @@ related_persons:
   - "[[Scott Eacott]]"
   - "[[Klaus Nielsen]]"
   - "[[Jürgen Habermas]]"
+  - "[[Pierre-Jérôme Bergeron]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -305,6 +306,11 @@ updated: 2026-10-17
 >
 > *Since his [[Meta-meta-analysis|mega-analysis]] supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form... However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
 
+> [!citation-card] 贝热隆与里瓦尔论脆弱纸牌屋与伪科学定性
+> 当以专业专家的眼光对《可见的学习》展开必要的深入审视时，所见全无坚固城堡的结构，唯有一座迅速崩塌的脆弱纸牌屋。轻信哈蒂意味着在评估科学严谨性时存在批判性思维的盲点；推崇其工作不幸陷入了对伪科学的宣介；而在获知对其方法论的严肃批评后仍坚持为其辩护，则构成了蓄意的学术盲目。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 238–239)]]
+>
+> *When taking the necessary in-depth look at Visible Learning with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart. To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.*
+
 ---
 
 ## 关系网络
@@ -312,7 +318,7 @@ updated: 2026-10-17
 > [!person-network] 关系网络
 > - **师承／合作者** [[Herbert Walberg]] — 早期共同开展 226 项[[Meta-meta-analysis|元综合]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction|自动化数据提取]]前沿实证评测。
 > - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧本土化转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
-> - **批评者／论敌** [[Christof Wecker]]、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；[[Ivan Snook|伊万·斯努克]]（Ivan Snook）、约翰·克拉克（John Clark）、安妮-玛丽·奥尼尔（Anne-Marie O'Neill）、[[John O'Neill|约翰·奥尼尔]]（John O'Neill）与罗杰·奥彭肖（Roger Openshaw）— 新西兰学术论战首发批判团队，从二阶元分析质控缺位、截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及政策制定者借机削减学校资源、推行[[Performance Pay|绩效工资]]的现实误用展开全面质询；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）— 早期系统学术书评，指出理论教化实质真空、福柯式监控统治与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境；[[Scott Eacott]] — 批判澳大利亚[[School Leadership|学校领导力]]陷入“[[Cult of the Guru|大师崇拜]]”与[[Neo-Taylorism|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality|技术理性]][[Legitimation Crisis|合法化危机]]。
+> - **批评者／论敌** [[Christof Wecker]]、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；[[Pierre-Jérôme Bergeron|皮埃尔-热罗姆·贝热隆]]（Pierre-Jérôme Bergeron）与利桑·里瓦尔（Lysanne Rivard）— 从专业数理统计学底层系统审计其二阶元分析，揭示常见语言效应量算出了负概率、基线反转致排名解释彻底颠覆、受控数值模拟证实三类有效公式产出彻底相反排名，以及相关向均值差换算极值爆炸等致命硬伤，定性该体系为伪科学纸牌屋；[[Ivan Snook|伊万·斯努克]]（Ivan Snook）、约翰·克拉克（John Clark）、安妮-玛丽·奥尼尔（Anne-Marie O'Neill）、[[John O'Neill|约翰·奥尼尔]]（John O'Neill）与罗杰·奥彭肖（Roger Openshaw）— 新西兰学术论战首发批判团队，从二阶元分析质控缺位、截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及政策制定者借机削减学校资源、推行[[Performance Pay|绩效工资]]的现实误用展开全面质询；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）— 早期系统学术书评，指出理论教化实质真空、福柯式监控统治与稳定性/[[Stability vs. Variability Dilemma|变异性假说]]双重困境；[[Scott Eacott]] — 批判澳大利亚[[School Leadership|学校领导力]]陷入“[[Cult of the Guru|大师崇拜]]”与[[Neo-Taylorism|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
 ---
@@ -337,7 +343,7 @@ updated: 2026-10-17
 > > 围绕六个分析步骤与计算逻辑，统计学界与比较教育学界展开严格的方法论质询。
 > >
 > > - **Wecker 等人** 从两级[[Fixed-Effect Model|固定效应模型]]的数理等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审视，揭示其代数前提被严重践踏：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据被虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%，容忍 93.3% 文献重叠导致网络学习[[Effect Size|效应量]]暴跌并跌破 0.40 关节点（$0.59 \to 0.23$，排名第 26 跌至第 98），且面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重模型错配，在[[Category Mistake|德甲联赛隐喻]]下判定 138 个跨本体范畴因素的比较在科学上不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
-> > - **Bergeron 与 Rivard** 从统计学家视角定性为伪科学：常用[[Effect Size|效应量]]（Common Language Effect Size，CLE）计算错误出现负概率、不同效应量公式产生矛盾排名、聚合任意性。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]
+> > - **Bergeron 与 Rivard 从数理统计学底层定性其体系为伪科学** 加拿大统计学家皮埃尔-热罗姆·贝热隆与利桑·里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）开展专业数理审计，确证其二阶元分析存在多重不可克服的数理失范：① **初等概率计算崩溃** 常见语言效应量（CLES）计算出现初等失误，汇报出不可能存在的负概率与超过 100% 概率，公然违背二项超越概率严格受限于 $(0\%, 100\%)$ 的数学公理；② **基线比较的主观任意性** 忽视效应量的相对测量本质，基线反转直接将班级规模从微正（$d=+0.20$）逆转为有害（$d=-0.20$），将贫困差距转化为全书最严重的负面损害（$d=-0.59$），且在汇总时混淆现实因素总体与已发表研究总体（“超市鱼子酱标价”隐喻）；③ **三类有效公式排名彻底颠倒** 通过四组受控数值模拟（$\mu=75, \sigma=5$）严格反证，组间净差异、组内时间序列增长与相关转化三类技术合法公式对完全相同的数据得出完全相反的排名（$3>2>1>0$ vs $1=2=3$ vs $0>1>2>3$），证实排行榜仅反映公式选择而非干预优劣；④ **相关向均值差换算极值爆炸与因果混淆** $r \to d$ 换算在 $r \to 1$ 时急剧发散，且仅需 $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$ 期望效应区，将创造力横向相关与学生自我预估成绩自相关硬性包装为干预效应。据此裁定该体系为以真实数据建构的伪科学纸牌屋，推导出教育研究必须在全流程常态化引入独立专业统计咨询。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应大跌；[[Whole Language|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 > > - **Golovchin** 对 Hattie 汇总的 133 项正向效应量开展变差系数（Coefficient of Variation, $V_\sigma$）数理检验，发现总体变差系数高达 $56.87\%$（平均效应量 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生特征（$71.24\%$）与学校环境（$65.97\%$）维度的离散度极高，统计学上属于极端不均匀分布。据此论证平均值 $\bar{d}=0.40$ 无法充当普遍有效的因果基准线，批评其脱离教师[[Socioeconomic Status|社会经济地位]]与教学基础条件的机械[[Positivism|实证主义]]排序存在误导教育政策的系统性风险。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 > > - **Kalmendal 等人** 开展学界首个针对《[[Visible Learning|可见的学习]]》（1.2 版）全量 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
@@ -362,7 +368,7 @@ updated: 2026-10-17
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与社会经济背景控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
-> - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — CLE 负概率计算错误、基线任意性与伪科学定性。
+> - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
 > - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新泰勒主义批判。
 > - [[Argument_Zhao_2017_JEC|Zhao, 2017]] — 直接教学（DI）效应量证据背后的创造力抑制与非生产性成功副作用。
 > - [[Argument_Rømer_2018_EPT|Rømer, 2018]] — 五线哲学批判：评价理论篡位教育、激进[[Constructivist Paradigm|建构主义]]消解教学与[[Dependent Variable|因变量]]不清。

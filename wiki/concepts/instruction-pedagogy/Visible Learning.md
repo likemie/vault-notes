@@ -120,6 +120,7 @@ related_persons:
   - "[[Robert Glaser]]"
   - "[[Donald A. Schön]]"
   - "[[Jürgen Habermas]]"
+  - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Visible Learning Meta-X]]"
@@ -143,6 +144,7 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Hattie_2010_NZJES]]"
@@ -249,6 +251,9 @@ updated: 2026-10-17
 
 > [!claim] Wecker et al.
 > **两级[[Fixed-Effect Model|固定效应模型]]等价性与关节点因果基础破裂** [[Christof Wecker|韦克尔]]（Christof Wecker）等学者从数理统计底层证明，[[Meta-meta-analysis|二级元分析]]在数学上等价于对所有原始研究直接加权合并的充要条件，是各一级元分析纳入的样本完全独立且互不重叠（$D = \bar{d}, v_D = v_{\bar{d}}$）。然而在《可见的学习》实际操作中，不仅普遍忽视元分析之间高达 90% 以上的文献重叠（如网络学习领域 93.3% 重叠，校正后效应量自 $0.59$ 暴跌至 $0.23$，排名从第 26 位雪崩至第 98 位并跌破 $0.40$ 关节点），而且充斥着将[[Standard Error|标准误]]当标准差（导致个别效应量虚增 10 倍）以及依据离散度硬造假标准误（[[Direct Instruction|直接教学]]权重被削减 53.5%）等低级计算错误。加之教育现实彻底违背固定效应模型的同质性假定，所谓的 $d=0.40$ 关节点不仅在经验上因数据受损而失真，在因果与数理统计逻辑上亦根本无法立足。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–30, 37–38)]]
+
+> [!claim] Bergeron, P.-J. & Rivard, L.
+> **初等计算崩溃、受控模拟公式排名相反与相关换算爆炸** 贝热隆与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）从数理统计学底层系统审查哈蒂二阶元分析程序，指出其 $d=0.40$ 关节点与通用连续体存在根本性数理崩溃：① **初等概率计算错误** 常见语言效应量（CLES）计算出现算术失误，汇报出不可能出现的负概率与超过 100% 概率；② **公式选择决定排名颠倒** 通过四组受控数值模拟（$\mu=75, \sigma=5$）严格证实，跨研究设计的效应量缺乏普适通用标尺，组间净差异、组内时间序列增长与相关转化三类技术合法公式对完全相同的数据得出互不相容的排名（$3>2>1>0$ vs $1=2=3$ vs $0>1>2>3$），证实排行榜反映的是公式选择而非教学干预优劣；③ **相关向均值差换算极值爆炸** $r \to d$ 换算公式在强相关下急剧发散，且仅需 $r=0.196$（仅解释 3.85% 方差，剩余 96.15% 属于随机噪声）即可机械换算为 $d=0.40$，从而轻易跨入期望效应区；将创造力横向相关与自我预估成绩自相关硬性包装为因果干预效应量，确证其整体方法论属于用真实数据构建的伪科学纸牌屋。（pp. 238–245）
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
 > **隐藏计算公式与简单算术平均陷阱** 约翰逊与詹森（Johnson & Janzen）系统核查附录 A 指出，VL 确立的效应量高度依赖未加权的简单算术平均。以[[Homework|作业]]（[[Homework]]）为例，正文仅报告 $d=0.29$，完全隐去计算公式；实际运算是将 5 项研究规模从 15 到 77 项不等的元分析数值简单相加除以 5，违背了依据[[Sample Size Determination|样本量]]加权的基本统计原则。此外，笼统的总体平均值掩盖了小学（$d=0.15$）与高中（$d=0.64$）的实质学段差异，而 $d=0.40$ 的所谓期望门槛仅仅是纳入的 138 个[[Variable|变量]]的简单均值，不具备任何客观实体物理基准。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 25–27)]]

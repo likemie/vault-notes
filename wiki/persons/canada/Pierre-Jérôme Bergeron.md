@@ -70,12 +70,37 @@ updated: 2026-10-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 实证数据与海量样本规模本身并不天然等同于科学严谨性。若在问题界定、对照基线设定、效应量公式选取及指标转换环节缺乏严密的数学公理与统计规范约束，以真实数据为原料的宏观证据合成同样会沦为伪科学。教育研究必须在研究方案设计、数据采集到分析建模的全周期强制引入独立专业统计咨询。
+> 实证数据与海量样本规模本身并不天然等同于科学严谨性。若在问题界定、对照基线设定、效应量公式选取及指标转换环节缺乏严密的数学公理与统计规范约束，以真实数据为原料的宏观证据合成同样会沦为伪科学。教育研究必须在研究方案设计、数据采集到分析建模的全周期强制引入独立专业统计咨询。（pp. 238–246）
+
+> [!critique-method] 二阶元分析的四大数理缺陷审计
+> - **初等概率计算崩溃** 常见语言效应量计算出现初等算术失误，汇报了不可能出现的负概率与超过 100% 的概率数值，违背了二项超越概率严格落于 $(0\%, 100\%)$ 的数学公理边界。（p. 239）
+> - **比较基线主观任意性** 效应量正负与量级完全取决于比对方向；基线反转使班级规模从微弱正向（$d=+0.20$）逆转为显著有害（$d=-0.20$），使贫困差距从被忽视的既定背景转变为全书最严重的负面损害（$d=-0.59$）。（pp. 240–242）
+> - **公式选择决定排名颠倒** 受控数值模拟证实跨研究设计缺乏普适度量标尺，组间净差异、组内时间序列增长与相关系数转换三类技术有效公式对同一数据得出完全矛盾的排名，排行榜反映的是公式选择而非教学干预效能。（pp. 243–245）
+> - **相关换算发散与因果混淆** $r \to d$ 换算公式在强相关下急剧发散，且仅需 $r=0.196$（仅解释 3.85% 方差）即可虚构出达到期望效应区（$d=0.40$）的假象；将智商与创造力相关、预期与真实成绩自相关硬性包装为干预效应量，构成了严重的因果混淆。（pp. 242, 245）
+
+> [!pathways] 全流程独立专业统计咨询规程
+> - **设计前介入** 在研究方案设计与数据收集前常态化引入资深统计学家，审定测量工具、抽样设计与基线比较逻辑，杜绝事后尸检困境。（pp. 239, 245）
+> - **过程中核验** 在数据清洗与分析阶段严格审查度量空间假设，杜绝跨设计公式混用与相关系数无条件转换。（pp. 242, 245）
+> - **发布前审计** 面对宏观证据库，必须依靠现代统计学与数据科学提供的严密工具开展独立复核，彻底终结单纯依靠数字规模堆砌的伪实证。（pp. 245–246）
+
+> [!citation-card] 审视可见的学习的纸牌屋本质
+> 当以专业专家的眼光对《可见的学习》展开必要的深入审视时，所见全无坚固城堡的结构，唯有一座迅速崩塌的脆弱纸牌屋。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 238)]]
+>
+> *When taking the necessary in-depth look at Visible Learning with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart.*
 
 > [!citation-card] 拒绝伪科学与全周期统计咨询原则
-> 显而易见，约翰·哈蒂及其团队既不具备也不拥有进行有效统计分析所需的知识或能力。不应有人复制这种方法论，因为我们绝不能接受伪科学。从数百个元分析的数据中完全能够进行真正的科学研究，解决途径是在数据收集前、收集中以及收集后，特别是在研究的每一步都向统计学家咨询。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 245)]]
+> 显而易见，约翰·哈蒂及其团队既不具备也不掌握开展有效统计分析所必需的专业知识与核心技能。任何研究者都不应沿袭此种方法，学术界绝不能接纳伪科学。这一局面令人深感遗憾，因为依靠数百项元分析的数据完全能够开展真正的科学研究。解决途径是在数据收集前、收集中以及收集后，特别是在研究的每一步都向统计学家咨询。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 245)]]
 >
 > *It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience. This is most unfortunate, since it is possible to do real science with data from hundreds of meta-analyses... we must consult with a statistician before data collection. And during data collection. And after. But mostly, at each step of the study.*
+
+---
+
+## 关系网络
+
+> [!person-network] 关系网络
+> - **合作者** 利桑·里瓦尔（Lysanne Rivard）— 共同开展针对《可见的学习》的数理统计审计；P. Rogers — 合作开展国际文凭（IB）知识论（TOK）课程教学实证评估。
+> - **批评对象** [[John Hattie|约翰·哈蒂（John Hattie）]] — 审查其二阶元分析方法论，判定《可见的学习》属于以真实数据建构的伪科学纸牌屋。
+> - **方法与理论渊源** 罗纳德·费希尔（Ronald Fisher）— 汲取其事前介入而非事后尸检的统计认识论；大卫·艾利森（David B. Allison）— 借鉴其发表于《自然》的科学错误分类框架；McGraw & Wong — 依据其常见语言效应量（CLES）概率公理边界。
 
 ---
 
@@ -87,6 +112,7 @@ updated: 2026-10-18
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从统计学视角解构 Visible Learning，证实三类效应量公式对同一数据产出不可调和的矛盾排名，判定其方法论为伪科学。
-> - [[Argument_Bergeron_2019_JRIE|Bergeron and Rogers (2019)]] — 实证评估国际文凭 TOK 课程对学业成就的实际边际效应。
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron and Rogers (2015)]] — 实证评估国际文凭 TOK 课程对批判性思维与学业发展的实际影响。
+> - [[Argument_Bergeron_2019_JRIE|Bergeron and Rogers (2019)]] — 检验 TOK 课程参与对 IB 文凭总分与大学适应性的长效实证关系。
 
 
