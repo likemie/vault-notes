@@ -3,108 +3,181 @@ title: Popper's Three Worlds Theory
 aliases:
   - 波普尔三世界理论
   - 三世界理论
-summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
+  - 三个世界理论
+  - Three Worlds Theory
+summary: "卡尔·波普尔提出的多元论本体论框架，将实在划分为物理世界（世界一）、主观经验世界（世界二）与客观知识世界（世界三）。在教育理论中，该框架常被用于界定独立于个体心理的客观知识建构，但在可见的学习等循证方案中遭受了联想式借用，引致将客观文化世界还原为纯粹主观认知操作、抽空学科实质内容与教化维度的学术争议。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 21
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
-- popper
-- epistemology
-- realism
-- paradigm/critical
+  - popper
+  - epistemology
+  - realism
+  - curriculum-theory
+  - paradigm/critical
 related_concepts:
   - "[[Ontology]]"
-  - "[[Abstract]]"
+  - "[[Epistemology]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Areas of Knowledge]]"
+  - "[[Didaktik]]"
+  - "[[Bildung]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
-  - "[[Epistemology]]"
-  - "[[SOLO Taxonomy]]"
-  - "[[Procedural Knowledge]]"
-  - "[[Metacognition]]"
-  - "[[Visible Learning]]"
-  - "[[Cult of the Guru]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
-  - "[[Radical Constructivism]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Karl Popper]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
-## 核心主张
+# Popper's Three Worlds Theory
 
-> [!info] 核心主张
-> [[Karl Popper]] 在 Tanner Lecture 中提出的[[Ontology\|本体论]]框架，将实在区分为三个世界（Popper, 2011，转引自 [[Argument_Rømer_2018_EPT\|Rømer, 2018, p.10-11]]）：
+---
+
+## 理论定位
+
+> [!theory-position] 理论定位
+> - **解释对象** 解释人类知识的客观存在形态及其与物理自然、个体主观心理意识之间的相互作用关系。
+> - **理论问题** 回应一元物理主义（将意识还原为物质）与主观观念论（将知识还原为个人经验）的解释困境，确立独立于认知主体的客观思想内容的[[Ontology|本体论]]地位。
+> - **理论类型** 多元实在论[[Ontology|本体论]]框架与演化[[Epistemology|认识论]]模型。
+> - **知识位置** 科学哲学与知识认识论传统，后经卡尔·贝莱特（[[Carl Bereiter]]）引入教育研究与[[Knowledge Building Theory|知识建构理论]]，并在课程论与教学论争鸣中构成关键分析参照。
+
+> [!claim] 核心判断
+> [[Karl Popper|卡尔·波普尔]]（Karl Popper）在坦纳演讲（Tanner Lecture）与系列著作中提出，实在由三个不可相互还原的自主世界构成：世界一（World 1）是物理对象与物理状态的世界；世界二（World 2）是个体主观意识体验与心理状态的世界；世界三（World 3）是人类精神产物构成的客观思想内容世界，涵盖书籍、理论假说、艺术作品及未被解决的客观问题（Popper, 2011，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 10–11]]）。
+
+---
+
+## 理论来源与形成
+
+> [!theory-origin] 提出者如何形成理论
+> - **提出者与原始文本** [[Karl Popper|卡尔·波普尔]]在 1960 年代至 1970 年代系统确立该理论，核心阐述见于《客观知识：一个进化的视角》（*Objective Knowledge: An Evolutionary Approach*, 1972）以及 1978 年坦纳演讲《三个世界》（正式收录于 McMurrin & Sterling 编, 2011）。
+> - **原初问题** 传统西方哲学长期困守于物理物质与心灵意识的身心二元对立，将知识混淆为主观心智的信念状态，无法充分解释科学知识如何能够作为客观公共对象独立于发现者个人而被公开检验、批评与积累。
+> - **理论资源与材料** 波普尔汲取了弗雷格（Gottlob Frege）关于“思想客观性”的论证、达尔文生物演化论以及科学史上理论自主演进的经验事实。
+> - **形成路径** 波普尔将达尔文适应机制迁移至思想领域，指出人类语言的外在编码功能使得假说能够脱离生物肌体而独立存在；通过将科学理论与艺术作品确立为世界三客观对象，建构出包含自主性、客观性与反思试错特性的三元实在论图式。
+
+### 后续修订与扩展
+
+> [!dev-timeline] 理论演进与教育学转化脉络
+> - **1960s–1970s — 哲学原初奠基** 波普尔发表三世界实在论，确立世界三作为客观精神产物的独立本体地位与自主演化机制。
+> - **2002 — [[Knowledge Building Theory|知识建构]]转化：Bereiter 的教育学引介** 贝莱特（Bereiter, 2002）在《知识时代的教育与心智》（*Education and Mind in the Knowledge Age*）中将三个世界理论引入教育学，提出“心灵之外的知识”（knowledge outside the mind）范畴，区分学习（属于世界二的主观变化）与[[Knowledge Building Theory|知识建构]]（属于世界三的理论改善），但将文化对象简化为真假科学命题，排除了神学与纯艺术对象。
+> - **2009 — 循证教学借用：Hattie 的可见学习分层** [[John Hattie|约翰·哈蒂]]（Hattie, 2009）经由贝莱特中介吸纳该理论，将世界一对应为[[Surface and Deep Learning|表层学习]]（信息积累），世界二对应为深层学习（思维加工与反思），世界三对应为建构性理解（构建关于现实与认识的自洽理论）。
+> - **2011 — 教学论批判解构：Terhart 论实质内容真空** [[Argument_Terhart_2011_JCS|埃瓦尔德·特哈特]]（Ewald Terhart, 2011, pp. 430–431）系统剖析哈蒂对波普尔理论的联想式借用，指出其完全倒向形式认知操作，彻底抽空了[[Didaktik|欧陆教学论]]与教化传统中的学科实质内容（Inhalt）与实质教化（material [[Bildung]]）维度，并陷入否定通用思维训练的教学论悖论。
+> - **2015 — 动态模型替代：Qvortrup 论层次对应模糊性** [[Argument_Qvortrup_2015_Paideia|克里斯蒂安·克沃特鲁普]]（Ane Qvortrup, 2015, pp. 30–32）指出哈蒂混杂波普尔/贝莱特三世界、布卢姆修订版目标分类与大头目（[[SOLO Taxonomy|SOLO]]）模型的做法缺乏明确的映射逻辑，转而主张采用贝特森（Bateson）式的动态学习阶层模型。
+> - **2018 — 实在论辩护与批判：Rømer 论世界三的心理学化** [[Argument_Rømer_2018_EPT|托马斯·奥斯特加德·勒默尔]]（Thomas Aastrup Rømer, 2018, pp. 10–11）系统论证哈蒂将客观文化实在消解为学习者主观自我监控，实质上是以[[Constructivist Paradigm|建构主义]]与心理认知主义吞噬波普尔的科学实在论，制造了一个丧失文化客体的教育学幻象。
+
+---
+
+## 关键概念与理论构件
+
+> [!entry-map] 理论构件关系
 >
-> > "World 3 consists of '[[Abstract]] objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.10,引用 Popper, 2011, p.150,原文斜体]])
+> | 构件名称 | 构件属性 | 在理论中的功能与界定 |
+> |:---|:---|:---|
+> | **世界一（World 1：物理世界）** | 本体层次 | 涵盖所有物理实体、生物机体、材料力量与客观物理事件，具有空间延展性与物质相互作用。 |
+> | **世界二（World 2：主观心智世界）** | 本体层次 | 涵盖个体的意识状态、主观体验、心理倾向、知觉过程与感知动作意向，属于认知体验领域。 |
+> | **世界三（World 3：客观思想内容世界）** | 本体层次 | 涵盖由人类语言和符号记录的客观精神产物，包括科学理论、问题情境、论证结构、书籍与交响乐，具有独立于任一具体主体心智的客观有效性与自主演化属性。 |
+> | **自主性与可批判性（Autonomy & Criticizability）** | 核心机制 | 世界三客体一旦外化记录，便具备超逾原作者预期的逻辑后果与内在矛盾，允许所有主体展开客观考察与经验[[Falsification\|反驳]]。 |
+
+---
+
+## 核心命题
+
+> [!theory-proposition] 命题一｜实在由物理、主观心理与客观知识三个互不还原的自主世界构成
+> **解释** 波普尔坚持[[Ontology|本体论]][[Pluralism|多元主义]]，论证客观思想产物具有实在性。世界三虽然源于人类中枢神经与主观心智的创造，但一旦以符号[[Externalization|外化]]，便脱离个体的心理过程，获得独立的本体地位；世界三能对世界二产生反作用，并借由世界二的心智实践干预世界一的物理状态（Popper, 1972; [[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 10–11]]）。
 >
-> 三个世界不可彼此还原，各具独立的本体论地位。
+> **应用实例** 在学校科学实验室中，物理实验器材属于世界一，学生探索时的困惑感与主观假设属于世界二，而教材中记录的牛顿力学定律与数学方程则构成世界三的客观知识对象；三者相互激荡驱动探究。
 
-## 理论内部结构
+> [!theory-proposition] 命题二｜世界三知识客体具有客观性并孕育着自主逻辑后果
+> **解释** 世界三不仅包含已被主体认知的知识，更包含由客观命题自身逻辑衍生出、尚未被任何人发现的潜在问题与矛盾。世界三的伟大之处在于其“客观伟大性”（objectively great），其价值与真理性依据逻辑有效性与经验检验标准而确立，脱离任何个别主观心智的肯定或偏好（Popper, 2011; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
+>
+> **应用实例** 当数学家提出一组公理系统时，该系统蕴含的所有数学定理及未解难题便作为世界三的客观实在而存在，有待后继学者在具体研究中加以发现和证明。
 
-> [!abstract] World 1: 物理世界
-> 客观存在的物理实在，包括物质对象和物理过程。Hattie 将其对应于"[[Surface and Deep Learning\|表层学习]]"（surface learning）。
+> [!theory-proposition] 命题三｜教育学习涉及主观心智面向客观知识世界的建构与对话
+> **解释** 在教育学引介中，主观学习（世界二的心智变化）不同于客观知识产品的生产与改善（世界三的协同进化）。真正的教育探究不仅是个体心理能力的内隐熟练，更是学习者共同体利用符号工具对客观思想理论进行持续批判、检验与协同完善的社会实践（Bereiter, 2002; [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 430]]）。
+>
+> **应用实例** 学生不仅在头脑中记忆既有历史叙事，更以书面文本形式提出关于某一历史事件因果链条的探究假说，在班级共同体中经受同学的论据检验，从而参与到世界三理论的完善活动中。
 
+---
 
-> [!abstract] World 2: 主观世界
-> 个体的主观经验、意识状态、认知过程。Hattie 将其对应于"深层学习"（deep learning）。学习本质上是 World 2 的属性。
+## 转化为分析框架
 
+> [!theory-use] 框架入口
+> - **[[Research Question|研究问题]]** 诊断课程标准、教学方案及教育科技软件如何处理客观知识、认知技能与主观体验之间的平衡关系。
+> - **分析对象与单位** 教学设计大纲、课堂师生互动记录、课程知识选择文本与评估量表。
+> - **需要的材料** 教学方案文本、课堂录像实录、师生访谈记录与学生生成的知识制品。
+> - **解释目标** 判别某一教学实践是真正引导学生接触并改造客观思想世界，还是将教学矮化为缺乏实质文化内涵的纯形式认知操练。
 
-> [!abstract] World 3: 文化与科学对象
-> "客观地伟大的"抽象对象——伟大的书籍、理论、交响乐。这是 Popper 哲学的核心：存在独立于认知主体的客观[[Areas of Knowledge\|知识领域]]。Hattie 将其对应于"建构性理解"（constructed understanding），并宣称以此作为 VL 的教育理想。
+> [!theory-framework] 命题转化为分析维度
+>
+> | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
+> |:---|:---|:---|:---|
+> | 命题一：本体层级分立（Popper, 1972） | **本体定位维度**<br>教学活动聚焦于物理操作、主观认知体验还是客观理论建构？ | 学习目标表述、课堂提问侧重点、[[Homework\|作业]]与评价量规。 | 若教学仅强调行为操作则偏向世界一；若仅强调心理感受与信息加工则局限于世界二；指向公共假说论证则进入世界三。 |
+> | 命题二：世界三客观性与批判性（[[Argument_Rømer_2018_EPT\|Rømer, 2018]]） | **文化客体维度**<br>课程是否包含具有客观学术价值与文化深度的经典理论和艺术成果？ | 教材选篇、学科核心理论、交响乐或经典著作研读材料。 | 具备高质量文化科学载体表现对世界三的尊重；若仅罗列离散技能点则表明世界三客观知识被技术化消解。 |
+> | 命题三：学科实质与教化统一（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]） | **实质教化（Inhalt）维度**<br>教学内容是否展现出教育学正当性辩护，而非脱离学科载体的形式训练？ | 教学设计中关于“为何学习该内容”的[[Axiology\|价值论]]证、学科[[Big Ideas\|大概念]]组织形式。 | 教学围绕学科核心概念与时代问题展开展现实质教化；将思维策略与学科内容剥离则陷入特哈特批评的形式化空洞。 |
 
-## 发展脉络
+---
 
-> [!note-] 发展脉络
-> - 1960s-1970s Popper 发展三个世界理论
-> - 2011 Tanner Lecture 正式发表 "Three Worlds"（收录于 McMurrin & Sterling 编）
-> - Bereiter (2002) 将三个世界理论引入教育研究，但做出关键化简：将 World 3 的文化对象化简为"真理与非真理"，排除人文学科和神学
-> - Hattie (2009) 通过 Bereiter 进一步化简 Popper：World 3 的客观性完全塌缩为主观学习（World 2）
+## 局限性与适用边界
+
+> [!theory-boundary] 局限性与适用边界
+> - **适合分析** 哲学[[Epistemology|认识论]]层面的知识观审议、课程知识的选择合法性辩护，以及针对去内容化技能主义教学的理论诊断。
+> - **成立条件** 需要承认知识具备超越个体心理经验的公共客观形态，接受实在论假定。
+> - **解释不足** 波普尔原初框架属于纯粹科学哲学体系，未提供微观学习心理机制或具体学科教学法的经验[[Operationalization|操作化]]规则。
+> - **转化困难** 世界三与世界二在真实课堂情境中高度交织，测量个体内部主观认知与外部客观符号建构的界限存在方法学难度。
+> - **不能直接推出** 拥有世界三客观知识定位并不直接推导出某种单一优选教学法（如[[Direct Instruction|直接讲授]]或[[Inquiry-Based Learning|探究式学习]]），教学策略的有效性仍须结合具体教育情境予以权变审议。
+
+---
 
 ## 争议与批评
 
-> [!warning] Hattie 对三个世界理论的误读
-> [[Argument_Rømer_2018_EPT\|Rømer (2018, p.10-11)]] 系统论证 Hattie 从根本上扭曲了 Popper 的理论：
+> [!debates] 围绕三世界理论及其教育挪用的学术论争
 >
-> 1. **World 3 → World 2 的塌缩** Popper 的 World 3 是客观文化和科学对象的领域（"客观地伟大的"），与学习（World 2 的属性）无关。Hattie 将 World 3 完全替换为认知过程——"自我监控的学习者"——实质上消灭了 World 3 的客观性。
+> > [!axis] 客观文化实在（世界三） vs 主观心理认知（世界二）的还原之争
+> > 争论焦点在于教育理论能否将波普尔的客观精神世界直接等同为主观思维加工技能。
+> >
+> > - **[[John Hattie|John Hattie]]（2009）** 主张将世界三映射为建构性理解与学生自我监控，视其为高级认知发展阶层。
+> > - **[[Argument_Rømer_2018_EPT|Thomas Aastrup Rømer]]（2018）** 批评指出，波普尔的世界三由具有客观伟大性的书籍、交响乐与科学理论构成，与个体主观学习心理分属不同本体范畴；哈蒂将世界三消解为主观自我监控，是用[[Radical Constructivism|激进建构主义]]吞噬实在论，最终导向一个丧失客观教育客体与贝多芬交响乐的贫瘠世界。
 >
-> 2. **中介环节 Bereiter**Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（[[Knowledge Building Theory|知识建构]]）的区分。Hattie 进一步抹除了这一区分。
+> > [!axis] 形式化认知分层 vs [[Didaktik|欧陆教学论]]实质教化（Inhalt & material [[Bildung]]）的真空之争
+> > 争论焦点在于教学应当追求无载体的思维技能分级，还是承载具有教育学正当性的学科文化实质。
+> >
+> > - **循证教学分级视角（Hattie, 2009; Bereiter, 2002）** 将学习划分为表层、深层与概念建构，侧重认知操作的普遍层级跃升。
+> > - **欧陆教学论批判视角（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 指出贝莱特与哈蒂对波普尔理论的挪用呈现联想性与顽固性特征；欧陆教学论传统中的教化必然兼顾形式教化与实质教化，而哈蒂将世界三机械转化为概念建构，彻底抽空了课程选择的教育学正当性与学科实质内容（Inhalt），导致教育沦为缺乏文化载体的纯粹形式运作。
 >
-> 3. **实在论 vs [[Constructivist Paradigm\|建构主义]]的根本矛盾** Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和[[Falsification\|证伪]]"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
+> > [!axis] 独立思维策略培养 vs 依附特定概念框架的教学论之争
+> > 争论焦点在于[[Critical Thinking|批判性思维]]等[[Higher-Order Thinking Skills|高阶认知技能]]是否能够脱离具体学科知识独立讲授。
+> >
+> > - **哈蒂的三世界联想推论（Hattie, 2009; cited in [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 430]]）** 主张认知思维必须时刻依附于学生既有的概念框架，据此否定针对通用思维策略开设独立课程的合理性，将其戏称为“为夏尔巴背夫开设健美操课程”。
+> > - **特哈特的教学论解构（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 批评哈蒂在排斥思维策略独立培养的同时，其全书却极力推崇[[Metacognition|元认知]]策略与自我指导等超学科方法，暴露出其基于三世界联想所构建的教学论立场具有内在裂痕。
 >
-> 4. **后果** 以 Popper 命名的教育理论实际上服务于 Popper 哲学在[[Epistemology\|认识论]]上的精确对立面——[[Radical Constructivism\|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.11]])。
+> > [!axis] 科学实在论基石 vs 循证商业包装的可错论修辞之争
+> > 探讨波普尔哲学命题在循证倡导方案中是作为严谨[[Epistemology|认识论]]准绳还是修辞面具。
+> >
+> > - **约翰·哈蒂（[[Argument_Hattie_2017_SLM|Hattie, 2017, p. 428]]）** 声称自身理论提出大胆猜想且甘冒被反驳之险，完全符合波普尔[[Falsification|证伪主义]]科学精神。
+> > - **批判学者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 35]]）** 指出波普尔的可错论旨在严格划分科学与伪科学，绝非赋予商业化闭门研究随意宣称结论却规避同行评议的挡箭牌。
 
-
-> [!warning] Qvortrup 的温和修正
-> [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 [[SOLO Taxonomy\|SOLO]] 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、[[Procedural Knowledge]] 和 [[Metacognition\|metacognitive knowledge]] 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.30–32]])。
+---
 
 ## 相关研究
 
-> [!example] [[Correlational Research\|相关研究]]
-> - Argument_Rømer_2018_EPT — 论证 Hattie 对 Popper 三个世界理论的误读是 VL 理论基础的致命缺陷
-
-## 应用领域
-
-> [!success] 应用领域
-> - [[Visible Learning]] — Hattie 以（被严重误读的）Popper 三个世界理论作为 VL 的[[Epistemology\|认识论]]基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM\|Hattie (2017, p.428)]]再度援引 Popper [[Falsification\|证伪主义]]，声称 VL 包含"大胆猜想"因此"容易被证伪"——[[Argument_Rømer_2018_EPT\|Rømer (2018)]]和 [[Argument_Johnson_2023_CritEduc|Johnson and Janzen（2023）]]指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
-> - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer 论证此映射严重误读了 Popper
-> - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 从 VL 内部指出 Popper/Bereiter、Bloom 和 [[SOLO Taxonomy\|SOLO]] 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
-> - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极
-
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 考据[[John Hattie|哈蒂]]经由贝莱特对波普尔三个世界理论的联想式借用，系统解构其形式化认知架构如何彻底抽空[[Didaktik|欧陆教学论]]所关切的实质内容与教化维度。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从科学实在论出发，深入论证哈蒂将世界三消解为世界二心理过程的[[Epistemology|认识论]]扭曲，揭示[[Constructivist Paradigm|建构主义]]对波普尔哲学的颠覆。
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 指出哈蒂同时杂糅波普尔/贝莱特、布卢姆认知领域与大头目（[[SOLO Taxonomy|SOLO]]）模型所造成的层次界定混乱，并提出动态学习模型予以修正。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析波普尔[[Falsification|证伪主义]]在可见学习中遭受的断章取义式挪用与商业修辞包装。
+> - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 哈蒂在面对学界批评时再度援引波普尔假说与证伪概念，为其[[Meta-meta-analysis|元-元分析]]架构的科学性辩护。

@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Reflexivity]]"
   - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Competitiveness]]"
   - "[[Determinism]]"
@@ -34,8 +35,8 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Visible Learning]]"
   - "[[Barometer of Achievement]]"
+  - "[[Didaktik]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[New Public Management]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -75,6 +76,7 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Biesta_2010_SPE]]"
@@ -84,7 +86,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Disciplina and Doctrina
@@ -97,9 +99,9 @@ updated: 2026-10-16
 > **Disciplina and Doctrina** 是西方教育史与知识社会学中用于界定知识传递与教育取向的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序、行为约束与正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑、调整与更新人类知识系统的动态实践（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策与循证批判中，这对概念被用于剖析以量化指标为导向的技术官僚控制如何压制教育的开放反思面向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** `disciplina` 指向知识被发现后在学科库中的沉淀、外部规训灌输与标准化控制；`doctrina` 指向知识系统的自我更新、探索研究与师生主体间的人文交往。
+> - **含义** `disciplina` 指向知识被发现后在学科库中的积累、外部规训灌输与标准化控制；`doctrina` 指向知识系统的自我更新、探索研究与师生主体间的人文交往。
 > - **用途** 帮助研究者透视课程改革中的技能原子化退化现象，并诊断当代[[Evidence-Based Education|循证教育]]如何借助[[Neo-Taylorism|新泰勒主义]]管理工具与核查清单将教师异化为流水线操作工。
-> - **边界** 它不简单等同于“传统教学 vs. 现代教学”，而是自中世纪大学诞生起便并存的两种互补又对立的知识建制取向。
+> - **边界** 它超越“传统教学 vs. 现代教学”的简单二分，指涉自中世纪大学诞生起便并存的两种互补又对立的知识建制取向。
 
 > [!boundary]- 概念边界
 > - **不等于传统教学与现代教学的简单二元对立** 它是在中世纪大学诞生起便并存的、组织人类求知欲的两种互补又对立的态度与知识建制[[Paradigm|范式]]。
@@ -128,6 +130,7 @@ updated: 2026-10-16
 > - **科研体制中的规训压力** 超国家机构与国家科研资助体系对学术研究施加规训压力（disciplining pressure），迫使具有探索性与批判性的[[Knowledge Production|知识生产]]（doctrina）屈从于[[Performance Indicators|绩效指标]]与[[Human Capital Theory|人力资本]]政策需求（disciplina）（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 96]]）。
 > - **跨国数字排位赛对主权国家学制的远处规训** 跨国标准化测评通过建构全球等价空间与发布绩效联赛榜，使教育质量被收窄为受测技能常模，迫使本土课程从开放探索转向应试对齐（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）。
 > - **[[Neo-Taylorism|新泰勒主义]]数字监控对教师主体性的剥夺** 管理软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计仪表盘将教学拆解为技术性动作，把教师贬抑为缺乏[[Scientific Literacy|科学素养]]的劳动力，通过外在清单实施全景式规训，消解了教师在真实课堂情境中的[[Reflexivity|反思性]][[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）。
+> - **双向可见性隐喻对全景微观规训的内化** 在《[[Visible Learning|可见的学习]]》等循证教学模型中，以“教师通过学生的眼睛看教学、学生成为自身的教师”为核心的视觉隐喻，被特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 434]]）基于福柯权力理论解构为一种新型的微观全景规训（disciplina）。这种双向可见性将传统外显的行政强制统治内化为去中心化的自我监控机制；教师看似扮演激活者，实则借由学生中心修辞掩盖了微观权力支配，同时抽空了具有批判反思性的知识更新与师生伦理交往（doctrina）。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -161,11 +164,11 @@ updated: 2026-10-16
 
 ### 命题一　课程设计须在学科分类深度与跨学科时代问题探究之间维持二元平衡
 
-> [!concept-lens] 学科深度与跨学科的统合
+> [!concept-lens] 学科深度与跨学科的平衡
 > 这一命题探讨如何在尊重既有学科深度（disciplina）的前提下，实现促进知识更新与创新的跨学科广度（doctrina）。
 
 > [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]
-> **学科[[Ontology|本体论]]深度与时代问题探究** 优秀的教育设计不能抛弃学科，因为学科分类是人类探索现象的历史沉淀，具备本体论深度（disciplina）；但教学不能止步于此，必须引导学生围绕[[Epochal Key Problems|时代关键问题]]（如可持续性发展）开展跨学科的协同探索，激发知识的创造（doctrina）。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 4–6, 10)]]
+> **学科[[Ontology|本体论]]深度与时代问题探究** 优秀的教育设计不能抛弃学科，因为学科分类是人类探索现象的历史积累，具备本体论深度（disciplina）；但教学不能止步于此，必须引导学生围绕[[Epochal Key Problems|时代关键问题]]（如可持续性发展）开展跨学科的协同探索，激发知识的创造（doctrina）。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 4–6, 10)]]
 
 ---
 
@@ -175,7 +178,7 @@ updated: 2026-10-16
 > 这一命题剖析数字资本主义与评估产业如何通过标准化控制将教学异化为单一的规训程序。
 
 > [!claim] Foran (2020)
-> **指标体系对生命世界体验的规训化收口** 当学生被还原为度量衡和政府数据时，原本指向反思与合作的生命世界体验在学校中失去了意义，doctrina 的批判潜能被指标体系彻底窒息，学校蜕变为纯粹的规训机器（disciplina）。[[Argument_Schaffar_2024_CogentEdu|(Foran, 2020, cited in Schaffar & Wolff, 2024, pp. 9–10)]]
+> **指标体系对生命世界体验的规训化收口** 当学生被还原为度量衡和政府数据时，原本指向反思与合作的生命世界体验在学校中失去了意义，doctrina 的批判潜能被指标体系彻底窒息，学校转变为纯粹的规训机器（disciplina）。[[Argument_Schaffar_2024_CogentEdu|(Foran, 2020, cited in Schaffar & Wolff, 2024, pp. 9–10)]]
 
 ---
 
@@ -195,7 +198,7 @@ updated: 2026-10-16
 > 这一命题剖析学校教育在资本主义生产关系中的制度定位，打破早期机械[[Determinism|决定论]]，揭示单向阶级规训（disciplina）与底层民主反思及赋权（doctrina）在学校[[Champ|场域]]内的持久拉锯。
 
 > [!claim] Carnoy (1985) & [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]]
-> **学校作为生产关系规训再生产与民主化诉求交织的博弈场域** 早期激进马克思主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校从来不是铁板一块的单向规训场所，而是一个充满深刻内在拉锯的复杂场域：一方面，学校必须承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态绝非完全受制于经济宿命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
+> **学校作为生产关系规训再生产与民主化诉求交织的博弈场域** 早期激进马克思主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校构成了充满深刻内在拉锯的复杂场域：一方面，学校承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态具有相对自主性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
 
 ---
 
@@ -219,6 +222,16 @@ updated: 2026-10-16
 
 ---
 
+### 命题七　双向可见性视觉隐喻将外显行政支配内化为全景微观规训并遮蔽实质教化
+
+> [!concept-lens] 视觉隐喻与自我监控全景规训
+> 探讨可见学习的视觉修辞如何以学生自我反思为面具，建立起内化的全景监控网络，压制实质教化与知识批判。
+
+> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
+> **双向可见性对行政强制的内化与微观规训建构** 埃瓦尔德·特哈特（Ewald Terhart）基于福柯权力理论指出，《可见的学习》将“互看、互见与互相被观察”确立为教与学模型的核心。这种双向可见性将传统公开外显的统治体制转变为内化、微妙且去中心化的全景监控规训（disciplina）。教师凭借“激活者”权威在暗中支配课堂，借由学生成为自身教师的修辞掩盖了微观支配关系；同时，该模式将所有教学维度均质化为[[Effect Size|效应量]]操作，彻底排除了[[Didaktik|欧陆教学论]]对学科实质内容正当性与[[Bildung|精神教化]]（doctrina）的审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–435)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -230,6 +243,7 @@ updated: 2026-10-16
 > | **命题四：国家与学校规训博弈** | 学校兼具劳动力规训再生产（disciplina）与底层民主化赋权（doctrina）双重张力 | 批判政治经济学、国家转型理论 | Carnoy (1985)；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **命题五：跨国排位远处规训** | 跨国等价空间与联赛榜对课程施加远处规训，压制教育目的民主审议 | 超国家数字治理、比较政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 > | **命题六：新泰勒主义清单规训** | 监控软件与清单崇拜将教师降格为流水线操作工，剥夺教学的人文关系面向 | [[Critique of Evidence-Based Education\|循证教育批判]]、[[Performativity\|表演性]]困境、教师[[Professional Judgment\|专业判断]] | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题七：双向可见微观规训** | 双向可见性隐喻将行政统治内化为去中心化自我监控，掩盖权力支配并抽空实质教化 | 视觉隐喻批判、福柯权力理论、教学论反思 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
 
@@ -242,6 +256,7 @@ updated: 2026-10-16
 > - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
 > - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对[[OECD|经合组织]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 > - **2009 — [[Governing by Numbers|数字治理]]与跨国规训装置：Rizvi & Lingard 论 PISA 联赛排位的[[Governing at a Distance|远处治理]]** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）揭示 PISA 通过建构全球等价空间与发布绩效联赛榜，使“数字政策”成为超国家机构远处规训主权国家课程的主导工具，压制了本土教育共同体对教育目的的批判性审议（doctrina）。
+> - **2011 — 视觉隐喻与全景微观规训：Terhart 论双向可见性对自我监控的内化** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）基于福柯权力理论解构《[[Visible Learning|可见的学习]]》，指出“通过学生眼睛看教学”的双向可见性隐喻是现代全景规训（disciplina）的精致变体，将传统外在统治内化为微观自我监控，进一步挤压了实质教化与主体批判（doctrina）的生存空间。
 > - **2023 — [[Neo-Taylorism|新泰勒主义]]管理与清单规训：Johnson & Janzen 论技术清单对人文关系的瓦解** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）剖析[[Evidence-Based Education|循证教育]]如何通过开发监控软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、绘制气压计仪表盘以及推行强制教学清单，在微观课堂层面建立起新泰勒主义全景规训（disciplina），彻底剥夺了教师的[[Professional Judgment|专业判断]]与教育的人文关系属性（doctrina）。
 
 ---
@@ -260,12 +275,12 @@ updated: 2026-10-16
 > > 聚焦微观教学层面，技术官僚清单与人文主义教育观在教师角色上的对立。
 > >
 > > - **循证管理与技术官僚阵营（Hattie, 2009; Carnine, 2000）** 主张将教学向外科手术与工业工程看齐，通过标准化核查清单、气压计仪表刻度与固定教学策略（如 [[Victorian HITS and Literacy Toolkit|HITS]]）消除教师主观偏差，提高生产效率。
-> > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）** 强调教学绝非机械手术缝合或打结，而是在具体社区建设师生学习共同体的复杂伦理关怀过程；强推技术清单只会催生虚伪的[[Performativity|表演性]]合规与专业[[Cognitive Deskilling|去技能化]]。
+> > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）** 强调教学本质上是在具体社区建设师生学习共同体的复杂伦理关怀过程；强推技术清单只会催生虚伪的[[Performativity|表演性]]合规与专业[[Cognitive Deskilling|去技能化]]。
 >
 > > [!axis] 新行政全景规训与报表自证（disciplina） vs 教师专业尊严与学术天职（doctrina）
 > > 探讨在现代教育科层体系中，持续数据生产与文书考核对教师专业生命力的压抑。
 > >
-> > - **行政考核与留痕规训立场** 科层管理机构试图通过高频度的数据填报、日常检查与标准化量规，确立[[Panopticism|全景敞视]]式的规训监督闭环。
+> > - **行政考核与留痕规训立场** 科层管理机构试图通过高频度的数据填报、日常检查与标准化量规，确立[[Panopticism|全景敞视]]式的全域规训监督网络。
 > > - **教师主体与学术天职捍卫立场** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，这种将教师转化为持续生产汇报数据工具的“新行政全景敞视”（disciplina），使一线教师深陷“组织病理”式报表负担（如俄罗斯 79% 教师工作量剧增）；不仅剥夺了教师探索[[Individualised Instruction|个性化教学]]（doctrina）的时间，更严重削弱了教师的职业声望与天职认同，直接诱发师资流失危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238, 240–241)]]
 
 ---
@@ -285,12 +300,12 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card] 里兹维与林加德论跨国指标排位对[[State Educational Sovereignty|国家教育主权]]的远处规训
-> [[OECD|经合组织]]通过[[PISA|国际学生评估项目]]（PISA）建立起全球均一的测量等价空间，其政策效能不在于促进深层的教育哲学辩论，而在于借助公开绩效排位赛（[[Global Universities Rankings|league tables]]）对主权国家施加远处规训。正如罗斯（Rose, 1999: 208）所言，数字政策的力量恰恰在于使数字背后的复杂判断隐形化并不容置疑，从而诱发国家政策恐慌（如德国 PISA 震荡），迫使各国课程与教学向标准化技能测试全面对齐。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[OECD|经合组织]]通过[[PISA|国际学生评估项目]]（PISA）建立起全球均一的测量等价空间，其政策效能主要在于借助公开绩效排位赛（[[Global Universities Rankings|league tables]]）对主权国家施加远处规训。正如罗斯（Rose, 1999: 208）所言，数字政策的力量恰恰在于使数字背后的复杂判断隐形化并不容置疑，从而诱发国家政策恐慌（如德国 PISA 震荡），迫使各国课程与教学向标准化技能测试全面对齐。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison... most of the national and international media and political responses to PISA results are about the league tables of performance and comparative national positioning... policy as numbers tends to do this – the power of numbers is such that they 'render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number'.*
 
 > [!citation-card] 约翰逊与詹岑论泰勒制监控、医学化贬抑与育人关系的解构
-> 在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术与高山救援列为教学应当效仿的“科学”职业。这类职业具有显而易见的可测量维度、明确的对错路径以及违背最佳实践的严重后果。外科医生确实应当参考最佳手术数据，登山者也必须打好正确的绳结；教学同样包含某些技术要素，如合理安排时间或纠正书写姿势。然而，教学的核心绝不能在清单或标准[[Homework|作业]]程序中寻得。教学关乎在具体的社区、特定的学校和充满差异的班级中良心建构一个学习共同体。这是一项复杂的伦理与人际挑战，需要广博的人文素养与技术技能，与医学核查清单、缝合血管或打绳结几乎毫无共通之处。任何滥用医学研究术语、统计筛选或一厢情愿的幻觉，都无法改变这一事实。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
+> 在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术与高山救援列为教学应当效仿的“科学”职业。这类职业具有显而易见的可测量维度、明确的对错路径以及违背最佳实践的严重后果。外科医生确实应当参考最佳手术数据，登山者也必须打好正确的绳结；教学同样包含某些技术要素，如合理安排时间或纠正书写姿势。然而，教学的核心超越了清单或标准[[Homework|作业]]程序，关乎在具体的社区、特定的学校和充满差异的班级中良心建构一个学习共同体。这是一项复杂的伦理与人际挑战，需要广博的人文素养与技术技能，与医学核查清单、缝合血管或打绳结具有截然不同的实践逻辑。任何滥用医学研究术语、统计筛选或一厢情愿的幻觉，都无法改变这一事实。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *In Visible Learning, Hattie points to surgery and mountain rescue as "scientific" occupations for teaching to emulate. These occupations have obvious measurable elements with "right" and "wrong" approaches and stark consequences for failure to observe best practice. We concur that surgeons should consult data on best techniques, and mountaineers must use correct knots. Indeed, there are technical aspects to teaching as well, efficiently organizing a classroom schedule, or the best techniques for teaching handwriting. However, teaching's main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying. No amount of misplaced medical research terminology, statistical sifting, or wishful thinking can make it otherwise.*
 
@@ -298,6 +313,11 @@ updated: 2026-10-16
 > 规训与教学（disciplina 与 doctrina）构成了知识系统内部自我调适的基础张力。disciplina 代表着已发现知识在严密科目中的存储、巩固与对行为偏离的纠偏，侧重传统的维系；而 doctrina 则是指向未知的探索、对既有观念的质疑与知识体系的自我更新。当现代教育政策完全被量化指标所俘获时，教学便被退化为纯粹的规训程序。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, p. 5)]]
 >
 > *Disciplina concerns the consolidation and preservation of discovered knowledge and correction of errors, maintaining stability and reproduction; doctrina refers to the dynamic system of developing, questioning, and renewing knowledge.*
+
+> [!citation-card] 特哈特论双向可见性与微观全景规训
+> 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出《可见的学习》倡导的“通过学生眼睛看教学、学生扮演自身教师”的双向可见性，构成了一种无处不在的控制结构。传统的、外显的行政强制统治，在此转化为内化、微妙且去中心化的全景监控规训。这一结构并未赋予学生真正的主体解放，而是将学生编织进自我监控的规训网络中，在掩盖权力不对称的同时排除了关于学科内容合法性与实质教化的学术审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
+>
+> *Seen from the perspective of Michel Foucault, this mutual seeing, making visible and being seen could be considered as an omnipresent control structure. The traditional, explicit regime of domination is transformed into an internalized, subtle, decentralized surveillance... this can also be understood as a new, more intensive and more comprehensive control structure which does not liberate the student, but instead integrates him into a subtle regime of [[Self-control]].*
 
 ---
 
@@ -310,6 +330,7 @@ updated: 2026-10-16
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段[[Discourse|话语]]梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合等价空间与[[Governing by Numbers|数字治理]]，揭示[[PISA|国际学生评估项目]]（PISA）联赛排位如何作为跨国规训机制压制主权国家关于教育目的的民主审议。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论与[[Didaktik|欧陆教学论]]视角解构《可见的学习》，揭示双向可见性如何将传统统治转化为内化自我监控的全景规训（disciplina），并抽空实质教化（doctrina）。
 
 ---
 
@@ -325,3 +346,4 @@ updated: 2026-10-16
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州将 VL [[Effect Size\|效应量]]转化为刚性清单，成为微观技术规训的典型制度样本。 |
 > | [[Thomas B. Fordham Institute]] | 智库机构 | 保守派智库通过兜售教育医学化比附与贬低教师专业性，为自上而下的技术规训构建意识形态合法性。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 详细解构了可见学习的技术监控逻辑与清单拜物教对教师专业性的解构。 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 实证文献 | 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示其内化的全景微观规训本质。 |

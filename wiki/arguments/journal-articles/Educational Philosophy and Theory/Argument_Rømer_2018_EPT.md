@@ -119,7 +119,7 @@ citation_aliases:
 > 5. 逐级上收集权化效应：学生→教师→年级团队→校长→市政府→国家/[[EU|欧盟]]——每一层都收集下层的 d>0.4 信息并以此控制下层
 > 6. 最终形成一个全国性的、分级的数据驱动有机体，连儿童和家庭的私生活都纳入其中(p.9)
 >
-> ### 论证五：Hattie 误读 Popper 三个世界理论
+> ### 论证五：Hattie 误读 Popper [[Popper's Three Worlds Theory|三个世界理论]]
 > 1. Popper 的三个世界：World 1（物理）、World 2（主观）、World 3（文化与科学对象，"客观地伟大的"）
 > 2. Hattie 通过 Bereiter 的中介接触 Popper
 > 3. Bereiter 已经做出关键化简：将 World 3 的"文化对象"缩减为"真理与非真理"，排除人文学科（与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致）
