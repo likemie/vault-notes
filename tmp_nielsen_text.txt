@@ -1,0 +1,780 @@
+--- PAGE 1 ---
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rnpy20
+Nordic Psychology
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rnpy20
+Blind spots in visible learning: A critique of John
+Hattie as an educational theorist
+Klaus Nielsen & Jacob Klitmøller
+To cite this article: Klaus Nielsen & Jacob Klitmøller (2021): Blind spots in visible
+learning: A critique of John Hattie as an educational theorist, Nordic Psychology, DOI:
+10.1080/19012276.2021.1962731
+To link to this article:  https://doi.org/10.1080/19012276.2021.1962731
+Published online: 06 Aug 2021.
+Submit your article to this journal 
+View related articles 
+View Crossmark data
+
+--- PAGE 2 ---
+Blind spots in visible learning: A critique of
+John Hattie as an educational theorist
+KLAUS NIELSEN & JACOB KLITMøLLER
+Correspondence address: Klaus Nielsen, Department of Psychology, Aarhus University, Aarhus, Denmark. Email:
+klausn@psy.au.dk
+Abstract
+In recent years, John Hattie ’s book Visible Learning (2009) has greatly in ﬂuenced educational
+practitioners and policymakers. The visible learning approach has been deemed “the Holy
+Grail of teaching ” (Mansell, 2008), and Hattie has been called the “messiah” of educational
+research (Evans, 2012). In this article, we outline some of the signi ﬁcant methodological
+problems embedded in Hattie ’s work and relate them to his theoretical stance. We argue
+that his focus on single causal factors causes him to disregard important dimensions in
+educational practice. Furthermore, by analyzing parts of the primary research and the meta-
+analysis upon which Hattie grounds his conclusions, we ﬁnd both serious methodological
+challenges and validity problems. We relate these problems to the technological rationality
+that informs Hattie ’s work and implicitly constitutes his theoretical approach. Finally, we
+outline, among other things, how questions of human agency and intentionality for
+attending school become marginalized as the broader consequences of using Hattie ’s
+approach to institutionally organize teaching processes. Another consequence of Hattie ’s
+work is that educational research begins with questions of methods rather than research
+into schools ’everyday teaching practices.
+Keywords: methodological problems, theory, educational status, Hattie
+In writing his books on the subject of visible learning (e.g., Hattie, 2009, 2012; Hattie & Yates,
+2014), John Hattie became a signi ﬁcant voice in the contemporary educational debate on
+teaching and learning. Mansell ( 2008)c a l l e dH a t t i e’sb o o k Visible Learning (2009) “the Holy
+Grail of teaching. ” Hattie’s apparently high-science approach, with structured quantitative
+data, thousands of research studies, effect sizes, and simple answers to complex problems
+were exactly what education policymakers and practitioners worldwide had sought (Zhao,
+2018). Evans ( 2012) wrote, “He is not the messiah, but for many policy makers he comes
+close. John Hattie, possibly the world ’sm o s ti nﬂuential education academic, has the ear of
+governments everywhere. ” In the Danish context, educational researchers have called his
+works “the Hattie revolution ” (Qvortrup, 2015), and others have presented Hattie as the
+researcher par excellence upon whose results the teachers in Danish primary schools can
+(and should) build their teaching. Skeptics are warned: “People who refuse to use Hattie ’s
+and others’results accept a substantial moral responsibility ” (Hansen et al., 2015,p .7 ) .
+Department of Psychology, Aarhus University, Aarhus, Denmark
+© 2021 The Editors of Nordic Psychology
+Nordic Psychology , 2021
+https://doi.org/10.1080/19012276.2021.1962731 RESEARCH ARTICLE
+--- PAGE 3 ---
+Hattie characterizes his work on “visible learning and teaching ” as a synthesis. It is the
+interpretation of a very large amount of meta-analyses (at the time of writing, 1,200) based
+on and divided into a number of single effects (at the time of writing, 195).
+1 In the original
+book Visible Learning (Hattie, 2009), he analyzed more than 800 meta-analysis building on
+52,000 individual studies. In the chapter “Bringing It All Together, ” Hattie argued that the
+purpose of his project was not only to provide empirical data but also to construct a model
+for what characterizes good learning and teaching. Hattie ( 2009) wrote: “I aimed to build a
+model based on the theme of ‘visible teaching, visible learning ’ that not only synthesized
+existing literature but also permitted a new perspective on that literature ” (p. 237).
+It is often emphasized that Hattie ’s conclusions are thoroughly grounded in unparalleled
+empirical evidence (Polanin et al., 2017), and a frequent general comment is that Hattie ’s
+work simply presents undeniable facts; this is also how Hattie understands himself and his
+project. In an interview, Hattie presented himself as “a measurement researcher; I am a stat-
+istician, I am not a theoretician ”
+2 (Knudsen, 2017, p. 259). Like his research, Hattie presents
+himself as a scientist who simply states the facts without the in ﬂuence of theory.
+The main points of this paper are that (a) Hattie ’s empirical work is far less solid than
+characterized, both by Hattie and those who wish to implement his visible learning plat-
+form in educational practice, and (b) that Hattie ’s research is both empirical and theoretical,
+and Hattie should thus also be understood as an educational theorist. In this article, we out-
+line some of the signi ﬁcant methodological problems embedded in Hattie ’s work and relate
+them to his theoretical stance. We argue that his focus on single causal factors leads him to
+disregard important dimensions in educational practice. Furthermore, parts of the primary
+research and the meta-analysis upon which Hattie grounded his conclusions have serious
+methodological challenges and validity problems. We relate these problems to the techno-
+logical rationality that informs Hattie ’s work and implicitly constitutes his theoretical
+approach. Finally, we outline some of the broader consequences of using Hattie ’s approach
+to institutionally organize teaching processes.
+Hattie’s ﬁndings are not the be-all and end-all of educational questions. When we claim
+that Hattie is a theorist, we argue that Hattie ’s theoretical approach has clear implications
+for his empirical research — for what he considers to be data, how he interprets data, and
+what he includes in and excludes from his empirical research. Furthermore, Hattie ’s theoret-
+ical stance creates a number of empirical problems within his work. That is, Hattie ’s reading
+of his empirical data may be better understood as an interpretation of educational practice
+through the perspective of his theoretical models rather than simply a matter of outlining
+and explaining the empirical data itself. This separates our contribution to the discussion of
+Hattie’s work from those that developed a statistical critique of Hattie ’s work alone (e.g.,
+Bergeron & Rivard, 2017; Simpson, 2017; Topphol, 2012) as well as those that discussed the
+theoretical implications in their own right. For example, Rømer ( 2019) claimed that Hattie ’s
+theory should be understood as a radical constructivist theory, following the footsteps of
+Glazerfeld, Biggs, and Bjørgen. We understand Hattie ’s theory differently and draw different
+conclusions from Hattie ’s implicit theoretical considerations than Rømer ( 2019) did. Hattie ’s
+major theoretical contribution lies in the technical worldview embedded in his empirical
+material and in the consequences this has for educational practice in abolishing notions of
+autonomy and meaning, as well as expanding educational fragmentation. Importantly, we
+are not discussing meta-analyses per se but the theoretical assumptions in Hattie ’s work,
+2 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 4 ---
+which used meta-analysis. It is important to underline that we are not critical of quantitative
+research within educational research in principle, either. We are critical of empirical research
+(both quantitative and qualitative) that lacks suf ﬁcient quality — that which does not make
+its theoretical assumptions transparent. Nor do we suggest that Hattie himself believes that
+he has the full account of what good teaching might be; indeed, he explicitly stated the
+opposite (Hattie, 2009). For instance, he readily admitted that his research is limited to
+achievement and that there may well be a discrepancy between the suggested interven-
+tions when they are part of a research project and when they are implemented by regular
+teachers (Hattie, 2009). More speci ﬁcally, Hattie was also transparent about being interested
+in main effects and writes that “there are far fewer moderators than are commonly
+thought” (Hattie, 2009, p. 10). Hattie ’s primary interest in main effects is often contradicted
+when he interprets certain effects. Hattie himself mentioned a number of shortcomings of
+his own work, but he and those who ﬁnd his research groundbreaking seem to forget these
+caveats when writing suggestions for educational practice.
+Implicit theory
+Theoretically, we claim that Hattie ’ work is strongly inspired by what Sch €on ( 1983, 1987)
+termed technical rationality , which is
+the heritage of Positivism, the powerful philosophical doctrine that grew up in the
+nineteenth century as an account of the rise of science and technology and as a
+social movement aimed at applying the achievements of science and technology to
+the well-being of mankind. (Sch €on, 1983, p. 31)
+The engineer ’s design and analysis of materials and artifacts as well as the physician ’s
+diagnosis and treatment of disease have become the model of science-based technical
+practice in education. The growth of positivism within the social sciences has distorted the
+ideals of natural science upon which it was originally founded, and it has developed into an
+independent technical rationality far from how research within the natural sciences is con-
+ducted in practice (Kvale, 1973; MacIntyre, 1984). Technical rationality paves the way for
+means–end thinking in the social sciences, in which problems can be understood as entities
+in themselves beyond their context and can be solved by consulting and applying know-
+ledge from basic science. Hattie ’s theoretical foundation in technical rationality is evident in
+how he is inspired by behaviorism. Hattie ( 1987) clari ﬁed that he drew on Glaser ’s theories
+in particular for his empirical work in education. In this context, Glaser ’s theory of learning
+is interesting. Hattie ( 1987) described Glaser ’s theory of learning as a “unique contribution ”
+in connection with Glaser ’s model ’s focus on “the transformation process between the initial
+state and a state of competence ” (Resnick, 1989, p. 191). Glaser ’s theoretical work was
+strongly inspired by B. F. Skinner ’s radical behaviorism. Glaser was a student of Skinner and
+is known for further developing Skinner ’s theories of programmed instruction and behav-
+ioral analyses into professional teaching designs (Resnick, 1989, xiv). Hattie ’s theoretical
+approach bears super ﬁcial similarities to Skinner ’s work in terms of its systematic attempts
+to identify conditions that reinforce the frequency of particular behaviors
+3 as well as its
+reﬂection of Skinner ’s skepticism toward using theory when conducting scienti ﬁc research.
+MacIntyre ( 1984) made a similar point regarding the social sciences ’ambitions of becom-
+ing objective sciences. In MacIntyre ’s analysis, the social sciences, in the pursuit of being
+Blind spots in visible learning 3
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 5 ---
+truly scienti ﬁc, developed the idea that empirical data lend themselves to direct interpret-
+ation without the need for a theoretical framework. Empirical investigations produce facts
+that allow for generalizations and ultimately use those generalizations as a basis for inter-
+ventions. From this perspective, Hattie ’s somewhat ambivalent relation to theory is con-
+nected to the idea that although a “story” might be needed to communicate the ﬁndings,
+the numbers (i.e., generalizations of facts) are what count as the real science.
+From our perspective, the issue is not that empirical research is inspired by theory. On
+the contrary, all research is theoretical in some respects when it comes to de ﬁning the
+problem, the questions asked, and the methods employed as well as in the interpretation
+of the results. Every theory involves a reduction of its subject matter. The problem, how-
+ever, occurs when researchers do not explicate how their empirical work is related to and
+based on theoretical assumptions. Failing to elucidate one ’s theoretical assumptions creates
+the implicit impression that the results ﬂow unmediated from the empirical data while
+appearing objective and atheoretical. One consequence of this is that others have propa-
+gated Hattie ’s ﬁndings as being “the only ” answer to current educational woes, and without
+need for discussion. This trend is highly problematic. In this paper, we outline how Hattie ’s
+work is embedded in a particular theoretical perspective and how this fact makes a differ-
+ence in interpreting Hattie ’s empirical work.
+Empirical problems
+By focusing on how single inputs (i.e., distinct instructional strategies) are related to student
+achievement when measured quantitatively, Hattie ’s work followed a central premise in
+technological rationalism. Manipulating instructional strategies as external variables makes it
+possible to identify the functional responses of manipulations (i.e., effects/students ’ learn-
+ing). By using visual barometers in relation to every theme, Hattie imparted the impression
+of clear effect relations and presented clear-cut and identi ﬁable causes that necessarily lead
+to particular effects.
+4 The recipients of Hattie ’s texts certainly read his barometers/effect
+sizes as causal effects. In the Danish context, Hattie ’s outlines of single causes — such as
+class sizes and the impacts of homework — and their effects have had direct implications for
+educational practice. The results have been used to legitimize increasing class sizes in the
+Danish educational system, and some high schools have abandoned homework (Carboni,
+2013). In effect, Hattie ’s work made fundamental statements about the educational situ-
+ation: First, it is possible to identify key parameters and directly determine how they are
+functionally related to changes in the rate of responses within this framework; second, it is
+possible and meaningful to isolate extraneous variables (O ’Donohue & Kitchener, 1998). The
+theoretical assumptions embedded in Hattie ’s empirical approach tend to atomize educa-
+tional practice, legitimizing addressing each intervention separately rather than compre-
+hending educational practice as interrelated, with different interventions dynamically
+inﬂuencing each other in various ways.
+In pursuit of single causal factors in a complex world
+Hattie pursued the effects of discrete causal factors (e.g., homework, class size, or feedback).
+We aim to discuss how (or whether) it is meaningful to delimit single causal factors within
+4 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 6 ---
+a complex setting (e.g., an educational environment). Furthermore, Hattie himself did not
+discuss how he identi ﬁed the causal factors when measuring given effects. This strategy
+became problematic for Hattie with respect to class size.
+According to Hattie ( 2009), the effects of teaching children in small classes relative to
+large classes are limited (p. 86), effect of class size d ¼ 0.21. However, upon taking a closer
+look, this conclusion has several problems. Berger ( 1982) emphasized that using class size
+as an analytical unit in itself makes no sense when assessing its effects on student perform-
+ance.
+5 Based on analysis of the existing literature, Berger ( 1982) opined that class size could
+not be understood as a meaningful analytical unit in itself. Instead, class size should be
+understood in relation to students ’ abilities and social background, heterogeneity in the
+class, the teacher ’s ability to teach, and the teacher ’s resources, among other things.
+Another problem arises when scrutinizing the school ’s educational reality: how should class
+size be operationalized? In many schools, the students are in different classes or work in
+groups with varying numbers of participants throughout the school day (Berger, 1982).
+Therefore, it can be dif ﬁcult to determine when a student is part of a small class or a larger
+class. Furthermore, in educational practice, schools use class size strategically, such as by
+making class sizes smaller to help challenge children academically or giving teachers more
+time to work personally with the youngest children.
+Despite Hattie ’s ﬁnding that class size is actually a meaningful analytical causal factor with
+which to work, he considered other explanations as to why class size does not seem
+important in relation to pupil performance, including whether the circumstances of the
+teaching situation are different in large versus small classes. Hattie ( 2009) himself pointed
+out that teaching in larger classes (30 –80 students) probably requires a skilled teacher and
+that teaching in such a context is highly structured, with a focus on overlearning of basic
+skills. Thus, the teaching performed in different studies is actually different and therefore
+very dif ﬁcult to compare. The point here is not to discuss whether Hattie ’s assumptions are
+solid, but to point out that he himself described the dif ﬁculty in deciding what drives the
+ﬁndings. The crucial variables in relation to the effect being measured are the teaching in
+classes with few pupils, the allocation of skilled teachers to larger classes, and whether
+there are few or many pupils in the different classes. As Hattie asserted that important dif-
+ferences may exist between teaching in differently sized classes and because these consid-
+erations are not incorporated into his analysis, his indication of a single effect size for class
+size, as such, must be considered problematic. In some cases, it can be legitimate to work
+with single-factor designs; however, the problem is that this is the only strategy Hattie
+applies in his approach to educational research.
+The elimination of moderation — social economic status as an example
+The internal logic of a given effect size is matched by another omission that Hattie made
+by ignoring the complexity of everyday life and a number of other variables that may affect
+the outcomes of his calculations. Danish statistician Allerup ( 2015) argued that examining
+individual variables in isolation within an educational context leads to a problematic reduc-
+tion in complexity. Instead, according to Allerup ( 2015), it is speci ﬁcally important to work
+with multiple variables simultaneously (multivariable analyses) to uncover these
+Blind spots in visible learning 5
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 7 ---
+complexities. When attempting to use statistical analyses of individual elements, special
+care must be taken to demonstrate, rather than posit, that single elements have individ-
+ual effects.
+In Hattie ’s pursuit of an evidence-oriented perspective to education, he selected single
+causal relations in isolation as his point of departure. This principle has important implica-
+tions. One is that Hattie deliberately eliminated factors that others researching the same
+general phenomena included in their analyses. A good example of this is Hattie ’s treatment
+of pupils ’socioeconomic backgrounds, which he chose to omit as a moderator of results in
+other areas. It could be argued that by eliminating socioeconomic status from his analysis,
+Hattie omitted social class issues from his analysis. This separation of the pupils ’social and
+economic background factors from ideas of teaching seems a political act in itself.
+6
+According to Hattie, teachers cannot counter students ’ socioeconomic background factors
+in school. Instead of including socioeconomic factors in analyses of other educational phe-
+nomena— for instance, feedback — Hattie ( 2009) calculated a separate effect size for socioe-
+conomic background, d ¼ 0.57. Hattie ( 2009) legitimized this choice by arguing that he
+would only deal with educational matters that could be in ﬂuenced through teaching (p.
+x–xi). However, it is generally acknowledged in educational research that pupils ’ socioeco-
+nomic background is a central key to understanding teaching ’s impact in schools today
+(Snook et al., 2009). In principle, it is dif ﬁcult to say what percentage of pupils ’learning is
+affected by their socioeconomic background or in what ways learning is affected by it.
+However, it doubtlessly plays an important role. The most solid ﬁnding in an Organisation
+for Economic Co-operation and Development ( 2005) report was that the most important
+source of variation in the students ’ learning, in relation to both their attitudes and skills,
+was their social and family backgrounds (Blichfeldt, 2011; Snook et al., 2009).
+Hattie’s choice to exclude socioeconomic status had implications for what is happening in
+schools— pupils have socioeconomic backgrounds that in ﬂuence their performance. From
+the schools ’perspective, Hattie was essentially excluding social background and social class
+from discussions regarding teaching practice when taking this tabula rasa perspective of
+pupils. Hattie might have been right when claiming that teachers cannot change pupils ’
+socioeconomic backgrounds; however, pupils ’ socioeconomic backgrounds undoubtedly
+have a massive impact on everyday teaching practice, and it is this in ﬂuence that Hattie
+took out of the equation. By neglecting the importance of pupils ’ socioeconomic back-
+ground, Hattie ’s work, at worst, developed class-blind pedagogical thinking.
+The production of a signi ﬁcant effect
+In his analysis, Hattie focused on effect sizes — speciﬁcally those that were pragmatically sig-
+niﬁcant and made a marked difference in everyday student learning. Educators should scru-
+tinize these kinds of effect sizes, as Hattie used some of these signi ﬁcant effect sizes in his
+synthesis and in his model for good teaching. The choices that Hattie made regarding
+whether effect sizes were signi ﬁcant— to some degree based on subjective choices that
+Hattie himself made — resulted in important consequences.
+For each of the original 138 factors that Hattie ( 2009) examined, he calculated an effect
+size as described above. Almost all interventions in the study (95% according to Hattie,
+2009, p. 15) had positive effects — almost everything worked. This premise gave Hattie the
+6 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 8 ---
+opportunity to introduce a cutoff score for when an effect size is great enough for its
+implementation to be relevant. Hattie decided that the cutoff would be d ¼ 0.40 based on
+pragmatic logic:
+This cut was the average effect from 800-plus meta-analyses and the book fully
+elaborates on the origin of this claim. It is a threshold to create a story (about what is
+common, above and below this effect) but it is not presented as a ﬁxed cut-score
+below which one should ignore and above which one should cherish — many parts of
+the book go to some length to show the importance of not making such conclusions.
+(Hattie, 2010, p. 89; emphasis added)
+Whether Hattie himself thought that the above statement made a difference, he stated
+that the 0.4 threshold “provides a ‘standard’from which to judge the effects ” (Hattie, 2009,
+p. 17) and, further, that it “is the point on the continuum that provides the hinge or fulcrum
+around which all other effects are interpreted ” (p. 16).
+By setting the cutoff score at 0.4, Hattie turned his data into value statements. Although
+effect sizes themselves are already judgments about which strategies are more valuable
+and effective, a cutoff score is ﬁrst and foremost a supplementary rhetorical or narrative
+tool that allows for the quick separation of the single factors upon which one should focus
+amid others. Application of a cutoff score turns data into a binary list of what can and can-
+not be considered educationally valuable. However, this mechanical outlining of what is sig-
+niﬁcant and what is not educationally desirable is problematic. To decide what is valuable,
+one must focus on context and content. Mechanically deciding a universally ﬁxed standard
+has important consequences. For example, the effect of giving people with heart problems
+low doses of aspirin to prevent heart problems is d ¼ 0.07, which means that such a treat-
+ment saves 34 out of 1,000 people ’s lives (Snook et al., 2009). Based on Hattie ’s cutoff score,
+this is a low effect, but in terms of saving 34 people ’s lives, it may be a worthwhile action,
+considering that the aspirin treatment is low cost, has few side effects, and is easy to adopt.
+Hattie’s cutoff score of 0.4 is not a scienti ﬁcally “true” or objective categorization of when
+an intervention should be considered signi ﬁcant. This is a highly normative question.
+In many respects, Hattie ’s account of the many distinct factors developed what Wrigley
+(2018) termed a “closed system, ” in which each factor is separated from one another and
+from the environment in general. According to Wrigley ( 2018), the educational practice of
+everyday life is characterized as a result of dynamic interactions among both external and
+internal school factors. As argued by Wrigley ( 2018), the closed systems depicted in Hattie ’s
+empirical work are characterized by ideas of causality, eliminating ideas of human agency
+and intentionality.
+Hattie’s effects hide important dimensions
+Once a total effect size has been calculated, it can very well hide considerable differences.
+For example, the effect of homework shows how Hattie essentially hid important dimen-
+sions of what he wanted to clarify by using a cutoff score of d ¼ 0.4. Hattie found that the
+effect of giving the pupils homework was d ¼ 0.29, which fell below his chosen cutoff score.
+This effect size has been publicized as if homework in no way in ﬂuences pupils ’ learning
+(Snook et al., 2009, p. 94), as Hattie himself asserted in an interview: “‘Traditional homework
+Blind spots in visible learning 7
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 9 ---
+has a vanishingly small effect, and it ’s getting worse the younger the students are ’, explains
+the international celebrity researcher John Hattie. ”
+A number of educational institutions in Denmark have followed Hattie ’s results and have
+given up on homework (Carboni, 2013). However, this conclusion is problematic. Despite
+what the above quote suggests, the evidence does not show that homework is ineffectual.
+On the contrary, the effect of homework in elementary/primary school is 0.15 (clearly below
+the cutoff score of 0.4), while its effect in high school is 0.64 (clearly over the cutoff score;
+Snook et al., 2009). The results thus appear to be that homework actually has a signi ﬁcant
+impact on high school and upper-secondary school learning, but this insight disappears
+when only a weighted general average of homework ’s importance is outlined as 0.29
+(Hattie, 2009, p. 234). Hattie ( 2009) acknowledged this variability: “There may be many mod-
+erators. For example, the typical effect size of homework is d ¼ 0.29, but the effects are
+greater for high school students and closer to zero for elementary school students ” (p. 17).
+However, the cutoff score is not just higher than 0.4 for students at the high school level,
+but considerably higher. Additionally, it matters whether the students are academically
+strong or weak. The importance of homework in different subject matter (e.g., mathematics
+in relation to subjects such as Danish and social studies) also disappears in Hattie ’s general-
+ization (see Hattie, 2009, pp. 234 –236). The point is that, in some cases, Hattie ’s reduction
+of voluminous empirical material to discrete effect sizes obscures important differences
+rather than making them more visible.
+7
+The above reveals an important feature of how Hattie treats the content of many import-
+ant meta-analyses: namely, as generalizations based on a very general de ﬁnition of a phe-
+nomenon (homework is homework, regardless of the pupils ’age, the subjects in which it is
+given, etc.) and apparently with little concern about the loss of information that results
+from such generalization.
+Feedback as an example of educational effects
+Hattie claimed that the high number of studies involved in substantiating his claim make
+the effect sizes outlined in his meta-analysis reliable. In many respects, this essential claim
+makes Hattie ’s work so convincing: The many studies supporting the signi ﬁcant effect sizes
+make the results more reliable. However, this claim ’s problems include presupposing that
+Hattie’s meta-analyses follow the same rigid methodological procedures and essentially all
+research the same phenomenon; otherwise, it makes no sense to compare and add
+them together.
+In the following, we use feedback as an example to argue that Hattie ’s meta-analysis was
+based on very different studies (for an elaborate analysis of the feedback concept, see
+Ekecrantz, 2015). Therefore, as outlined below, we question whether Hattie ’s effect size for
+feedback came from studies that scrutinized the same phenomena. Notably, a crucial part
+of Hattie ’s synthesis model of teaching relies on the importance of feedback, again showing
+his close af ﬁliation with behaviorism, which sees reinforcement ’s equivalency to feedback as
+a signi ﬁcant concept. One could argue that Hattie ’s understanding of feedback becomes
+educationally impoverished because of his strong af ﬁliation with behaviorism (for a more
+comprehensive account of feedback, see Shute, 2008). Feedback belongs at the top of
+Hattie’s ranking of single factors (Number 10, with d ¼ 0.73) and is central to Hattie ’s
+8 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 10 ---
+argumentation for a theory of visible learning and teaching. Before publishing Visible
+Learning, Hattie published “The Power of Feedback ” in 2007 with a colleague to indicate
+the importance Hattie places on feedback (Hattie & Timperley, 2007). This applies to the
+feedback pupils receive on their work and the feedback teachers receive from pupils about
+their perspectives and challenges.
+In Visible Learning , Hattie ( 2009)d e ﬁned feedback as “information provided by an agent
+(e.g., teacher, peer, book, parent, or one ’s own experience) about aspects of one ’s perform-
+ance or understanding ” (p. 174). He asserted that “feedback is a ‘consequence’of perform-
+ance” (Hattie, 2009, p. 174). In an educational context, feedback is the key to learning and
+can be understood in this context:
+In summary, feedback is what happens second, is one of the most powerful
+inﬂuences on learning, occurs too rarely, and needs to be more fully researched by
+qualitatively and quantitatively investigating how feedback works in the classroom
+and learning process. (Hattie, 2009, p. 178)
+Importantly, even though Hattie professed great faith in feedback ’s educational power —
+especially by focusing on information — researchers who studied feedback remain skeptical.
+Through other meta-analyses and reviews of feedback, these researchers have a more
+ambiguous assessment of feedback ’s impact. In a review of formative feedback — and in
+agreement with continuing work by Kluger and DeNisi ( 1996)Shute ( 2008) concluded the
+following: “Within this large body of feedback research, there are many con ﬂicting ﬁndings
+and no consistent pattern of results ” (p. 153). Thus, in contrast to Hattie ’s assumptions
+about homogeneous research on feedback, Shute concluded that research in feedback is far
+from unambiguous.
+We will explore the disagreement regarding feedback ’s effects by studying ﬁve meta-anal-
+yses upon which Hattie based his conclusions. In Hattie ’s original book on visible learning
+(2009), his synthesis about feedback comprised 23 meta-analyses with 67,931 people. The
+effect of using feedback strategies was d ¼ 0.73— a very high effect. Among the 23 meta-
+analyses Hattie referenced in his synthesis of feedback research, ﬁve particularly heavy anal-
+yses included 62,761 people, equivalent to 92% of the total sample. In the following, we
+examine the quality of these ﬁve meta-analyses that Hattie used to understand feedback:
+Kluger and DeNisi (
+1996); Lysakowski and Walberg ( 1980); Lysakowski and Walberg ( 1982);
+Swanson and Lussier ( 2001); and Witt et al. ( 2006). In the following, we brie ﬂy discuss these
+ﬁve meta-analyses in greater detail.
+Lysakowski and Walberg ( 1980)
+Lysakowski and Walberg ( 1980) meta-analysis included 4,842 participants and a mean effect
+of 1.17 (Hattie, 2009, Appendix A). The meta-analysis did not consider feedback the way
+Hattie ( 2009)d e ﬁned it. Lysakowski and Walberg ( 1980) did not mention feedback; instead,
+they focused on reinforcement techniques: “In the studies, 39 distinct reinforcement techni-
+ques were identi ﬁed that were used either to initiate or to improve educational behaviour,
+and generally to enhance educational outcomes of students in learning settings ”
+(Lysakowski & Walberg, 1980, p. 115). Although Lysakowski and Walberg ( 1980) did not ini-
+tially give a clear de ﬁnition of reinforcement, they did in their 1982 paper. There, reinforce-
+ment included “the extent to which the student is rewarded for his learning ” (Lysakowski &
+Blind spots in visible learning 9
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 11 ---
+Walberg, 1982, pp. 560 –561). In Hattie ’sd e ﬁnition, he explicitly critiqued reinforcement by
+arguing that “it is doubtful whether rewards should be thought of as feedback at all ”
+(Hattie, 2009, p. 174). Even though Hattie dismissed a central dimension of reinforcement,
+he included a meta-analysis that focused on reinforcement techniques. Furthermore, infor-
+mation played a central role in Hattie ’sd e ﬁnition of feedback. This differs from Lysakowski
+and Walberg ( 1982), who analyzed classical reinforcement strategies ’ effects in
+the classroom.
+Lysakowski and Walberg ( 1982)
+Lysakowski and Walberg ( 1982) meta-analysis included 15,689 participants and a mean
+effect of 0.97 (Hattie, 2009, Appendix A). The meta-analysis focused on three dimensions:
+cues, participation, and corrective reinforcement. One central problem of the article is its
+focus on instructional strategies rather than on feedback, namely cues and participation
+(Lysakowski & Walberg, 1982, pp. 560 –561).
+The problems increase after evaluating the research studies upon which Lysakowski and
+Walberg based their own meta-analysis. Looking at two studies (from a list of 54) referenced
+by Lysakowski and Walberg ( 1982), Wentling ( 1973), and Travers et al. ( 1964) clari ﬁes the
+various conceptions of feedback and under which conditions it is measured.
+Wentling’s( 1973) and Travers et al. ( 1964) studies are nearly entirely different. Wentling
+(1973) evaluated how feedback was speci ﬁcally applied during a 5-week general automotive
+mechanics course in a high school. Travers et al. ( 1964) simulated a school situation involv-
+ing four feedback conditions: fourth-, ﬁfth-, and sixth-grade students were instructed to
+learn 60 German words over 3 consecutive days. Wentling ( 1973) and Travers et al. ( 1964)
+researched feedback in different contexts (high school vs. an experiment) with different par-
+ticipants (male high school students vs. fourth to sixth graders) and while working with dif-
+ferent subjects (learning to repair motors vs. learning a language). However, the largest
+problem lies with the experiments ’focus on different aspects of feedback: Wentling ( 1973)
+focused on missing, partial, or full responses on a test, but Travers et al. ( 1964) focused on
+interactions related to feedback on a test. Whether either study supports Hattie ’sd e ﬁnition
+of feedback, which focuses on feedback ’s information, remains questionable. Wentling
+(1973) found that receiving partial feedback was effective for the students, but Travers et al.
+(1964) found that verbal interaction provided effective feedback. In both cases, one can
+argue that the context in which the feedback is delivered partially determines whether it
+is effective.
+Kluger and DeNisi ( 1996)
+Kluger and DeNisi ( 1996) meta-analysis included 12,652 participants and a mean effect of 0.38
+(Hattie, 2009, Appendix A). Only in Kluger and DeNisi ( 1996) meta-analysis do we ﬁnd a feed-
+back deﬁnition similar to Hattie ’s: “This article is about FIs [feedback interventions] de ﬁned as
+actions taken by (an) external agent(s) to provide information regarding some aspect(s) of
+one’s task performance ” (p. 255). Interestingly, Kluger and DeNisi ( 1996), in a study which
+Hattie ( 2009) described as “the most systematic study addressing the effects of various types
+of feedback” (p. 175), concluded that feedback interventions have an effect size of d ¼ 0.38—
+much lower than the 0.73 that Hattie reached. In addition, 38% of the studies included in
+10 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 12 ---
+Kluger and DeNisi ( 1996) work had a negative effect on the learning process, which contra-
+dicts Hattie’sa s s u m p t i o nt h a t“almost everything works ”.C o n t r a r yt oH a t t i e’s largely positive
+approach to the “power of feedback, ” Kluger and DeNisi ( 1996) described feedback as some-
+thing that effects performances signi ﬁcantly more or signi ﬁcantly less.
+Witt et al. (2004)8
+Witt et al. ( 2004) meta-analysis included 24,474 participants and a mean effect of 1.15
+(Hattie, 2009, Appendix A). According to Hattie ’s synthesis (2009), this study included the
+most participants and showed the second-greatest positive effect for feedback issues. In
+other words, Hattie claimed this study substantially helps to emphasize his conclusions
+about feedback. Besides the validity problem (addressed below), the study contained add-
+itional problems. Many research studies supporting the meta-analysis are inaccessible: 11
+are unpublished doctoral dissertations, ﬁve are unpublished master ’s theses, and six are
+paper presentations from various conferences. These 22 studies include over 7,539
+participants.
+Regarding validity (i.e., whether the study measures what it aims to measure), the article
+did not address feedback issues directly; rather, it focused on the importance of teachers ’
+immediacy. The text does not mention feedback. In other words, the notion of immediacy
+as feedback ’s proximity in time is central to Witt et al. ( 2004) meta-analysis; however, this
+aspect is not central to Hattie ’sd e ﬁnition of feedback, which focused on information rather
+than immediacy. How immediacy relates to Hattie ’s understanding of feedback remains
+unclear: “This meta-analysis provides a systematic quantitative summarization of the studies
+of verbal and nonverbal immediacy of teachers in relation to students ’affective, cognitive,
+and perceived learning outcome ” (Witt et al., 2004, p. 150). Hattie ’sd e ﬁnition of feedback
+sees immediacy as, at most, a part of the feedback process and information as the essential
+part of feedback.
+More problems arise upon examining three studies (Chesebro & McCroskey, 2001; Frymier
+& Houser, 2000; Gorham & Christophel, 1990) from the work of Witt et al. ( 2006). None of
+these three studies explicitly concern feedback, and they all focused on immediacy.
+Teachers’ immediacy constitutes only one part of these three studies. They also focus on
+receiver apprehension (Chesebro & McCroskey, 2001), communication skills (Frymier &
+Houser, 2000), and humor (Gorham & Christophel, 1990). None of the three use particular
+strategies for selecting participants or conduct interventions, and they only measure imme-
+diacy via self-reported questionnaires. The poor ﬁt of these studies raises the issue for
+meta-analyses coined by Eyshenk as “garbage in, garbage out, ” in which fundamental meth-
+odological problems in the primary studies carry over to further meta-analyses, making
+problems dif ﬁcult to identify (Borenstein et al., 2009, p. 380). The quality of meta-analyses
+depends on the quality of the included studies, so a meta-analysis that includes studies
+with a low degree of rigidity will undermine the whole study.
+Swanson and Lussier ( 2001)
+Swanson and Lussier ( 2001) meta-analysis included 5,104 participants and a mean effect of
+1.12. The meta-analysis focused on the role of examiner assistance but not on feedback as
+deﬁned by Hattie:
+Blind spots in visible learning 11
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 13 ---
+One possible alternative or supplement to traditional assessment is to measure a
+child’s performance when given examiner assistance. A procedure that attempts to
+modify performance, through examiner assistance, in an effort to understand learning
+potential, is called dynamic assessment (DA) … . When a student is having dif ﬁculty,
+the examiner attempts to move the student from failure to success by modifying the
+format, providing more trials, providing information on successful strategies, or
+offering increasingly more direct cues, hints, or prompts. The intensity of the
+intervention ranges from several sessions to brief intensive prompts in one session.
+Thus, potential for learning new information (or accessing previously presented
+information) is measured in terms of the distance, difference between, or change
+from unassisted performance to a performance level with assistance. (Swanson &
+Lussier, 2001, pp. 321 –322)
+In this excerpt, Swanson and Lussier ( 2001) revealed their focus on examiner assistance.
+However, they did not address information from a feedback context because the feedback
+allowed in an examination situation only includes “cues, hints or prompts ” (Swanson &
+Lussier, 2001, pp. 321 –322).
+Summary
+In four of the ﬁve heaviest meta-analyses connected with Hattie ’s coverage of feedback, it
+is unclear whether they used a feedback term identical to Hattie ’s (see also Blichfeldt,
+2011). Two of the ﬁve meta-analyses did not even mention feedback (Lysakowski &
+Walberg, 1980; Witt et al., 2004). This realization raises a question: Did the large number of
+meta-analyses used by Hattie research the same phenomenon (feedback), or did he sub-
+sume different phenomena under a single header? Assuming the latter, we must consider
+Hattie’s conclusions as invalid. Similarly, our analysis indicates low transparency in two of
+the ﬁve studies. In addition, only one study consistently used a control-group design. In
+general, Hattie ( 2009) does not give the reader any account, criteria, or justi ﬁcations for
+how he uses meta-analyses. As indicated above, Hattie could just as well have used other
+meta-analyses in the synthesis when it comes to feedback.
+Discussion
+This article initially asserts that Hattie built his analysis from a philosophy of technological
+rationality. Above, we found problems in Hattie ’s apparently factual and statistical stance on
+educational research as outlined in his famous work Visible Learning (2009). In searching for
+single causal factors, he reduced educational complexity (e.g., class size), eliminated import-
+ant moderators (e.g., social economic status), constructed a threshold for what counts as
+educationally desirable out of his concern to tell a good story (e.g., a threshold of 0.40), div-
+ided the material so that important dimensions and nuances disappear (e.g., homework),
+and piled various studies measuring various phenomena together under the same heading
+for the sake of persuasion. We argue that the connection Hattie makes to a theory of tech-
+nical rationality has the consequences that a dialogue about education, teaching, and learn-
+ing becomes too narrow. As a consequence, his ideas of visible learning become narrow as
+well, risking that all dialogues about education, teaching, and learning become obsolete.
+Further, the lack of dialogue results from the lack of conceptualization of human agency
+and intentionality. Hattie ( 2009) gave no concept of teachers ’ or students ’ interests, no
+12 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 14 ---
+concept of intentionality, and no understanding of the school or the role that school plays
+in students ’lives. His work does not portray students or teachers as seeking or interpreting
+meaning. Hattie only discussed students ’ experiences in relation to how students may be
+susceptible to the teacher ’si n ﬂuence. Although students must be active, they are not ini-
+tially understood as acting intentionally. Students only act mechanically as a consequence
+of feedback. The students ’intentionality and uniqueness are replaced by an understanding
+of their effectiveness in solving problems. Instead of addressing students as intentional
+agents, Hattie ’s work discusses, for example, self-ef ﬁcacy, self-handicapping, self-motivation,
+self-goals, and self-dependence (Hattie, 2012; Hattie & Yates, 2014). These concepts did not
+come from Hattie ’s own empirical work but from various theories, primarily from construct-
+ivism and cognitive psychology. Hattie used all of these concepts as replacements for stu-
+dents’ interpretations of education ’s relevance and importance, and these concepts serve
+Hattie’s ambition of helping students become their own teachers. The understanding starts
+not at understanding the teaching situation or the school from the students ’ perspective
+but in ﬁnding aspects of student activities that could be corrected. Thus, students maintain
+their image as problem solvers.
+Hattie addressed educational issues from the school ’s and the teacher ’s points of view
+(and from a particular school ’s and teacher ’s understanding), with students as objects under
+the school ’s or teacher ’si n ﬂuence, rather than addressing school issues by understanding
+the school ’s role in students ’ lives. Furthermore, Hattie ’s approach to education seems to
+replace human dialogue with a strong focus on mutual feedback processes between the
+teacher and student, and he provided little explanation of why students should learn cer-
+tain things.
+Another argument claims that Hattie ’s overall aim included real effects on how teachers
+(and students) participate. He apparently hoped that his list of effect sizes (and barometers),
+along with the visible learning theory ’s guidelines, would suf ﬁciently secure educational
+progress. Even with some problems in Hattie ’s inclusive stance on researching student
+achievement, a new set of problems appeared when Hattie insisted, contrary to the original
+ﬁelds (e.g., regarding feedback), on reducing any concept like this to single-effect sizes.
+Paradoxically, Hattie attempted to synthesize an educational practice that he has already
+broken down (into single-cause effects) without concern for due diligence in calculating
+whether an assumption holds for the individual effects he calculated. Due to Hattie ’s theor-
+etical assumptions, his research developed what Wrigley ( 2018) termed a closed system,
+with little reference to everyday educational practice. The educational practices facing
+pupils, teachers, parents, and educational planners every morning constitute an open sys-
+tem in which each educational intervention relates to other interventions and in which
+what happens in school ﬁts into what happens outside the classroom. In many respects,
+Hattie’s theoretical assumptions construct educational practice as a separate universe, with
+few connections to schools ’everyday practice. In our view, studying how to improve teach-
+ing should begin by researching schools ’
+everyday teaching practices as well as researching
+the meaning that pupils, teachers, and parents attach to participating in education.
+Regarding Hattie ’s work, research should not begin by considering what methods to use to
+improve modern schooling. Playing on the visible learning metaphor, we can ask if Hattie
+actually produced a fata morgana with his research. The central question seems to concern
+for whom he produced the fata morgana. Eacott ( 2017) provided an interesting answer,
+Blind spots in visible learning 13
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 15 ---
+viewing Hattie ’s work as a version of neo-Taylorism that provides school administrators and
+school leaders with a scienti ﬁc language for legitimizing changes within educational school
+systems worldwide. However, we believe the theoretical blind spots in Hattie ’s work make
+modern educational systems ’ paradoxes even greater, not smaller, and that we must
+address the theoretical assumptions embedded in educational research.
+Excluding human agency and intentionality is arguably problematic when addressing
+human learning and development. German philosopher Honneth ( 1996) stressed the
+importance of recognizing persons ’ agency and intentionality as crucial for their develop-
+ment as autonomous participants (Nielsen, 2016). Conversely, Honneth ( 2008) claimed that
+failing to acknowledge or recognize autonomy and intentionality could cause social alien-
+ation. In Hattie ’s pursuit of theoretical, empirical, and practical certainty, he confounded
+errors and weaknesses, thus damaging his intention to create a theory supported by the
+widest base of empirical evidence supporting teachers ’daily practices.
+Notes
+1. See www.visiblelearningmetax.com for an update.
+2. Bergeron ( 2017), in a paper dedicated to critiquing Hattie ’s use of statistics, concluded, “In
+summary, it is clear that John Hattie and his team have neither the knowledge nor the
+competencies required to conduct valid statistical analyses ” (p. 245).
+3. Hattie did not directly address how his work was in ﬂuenced by behaviorism; however, within
+certain themes such as feedback, he discussed how the concept of feedback is contrary to
+Skinner’s positive reinforcement principle. He wrote that his understanding of feedback and
+information “is not the same as a behavioral input –output model ” (Hattie & Timperley, 2007, p. 82).
+4. By applying a meta-analytical approach, Hattie created a methodological backdoor for himself
+concerning the inference of causality from his analysis:
+Often I may have slipped and made or inferred causality — and in some cases reasonably so.
+Certainly, the fundamental word in meta-analysis, effect size, implies causation (What is the effect
+of a on b?) and this claim is often not defensible. The claims in this book are more oriented to
+developing an explanation — a plausible set of claims based on evidence. It is more an abductive
+than an inductive or deductive exercise (Haig, 2005) — the explanation or story offers a plausible
+theory, a set of inferences to the best explanation in light of my experience of reviewing and
+interpreting the many studies, and it is hoped the story is bold enough to be potentially
+disprovable. My task is to present a series of claims that have high explanatory value, with many
+(refutable) conjectures. (Hattie, 2009, p. 237)
+Contrast this with Simpson ’s( 2017, 2018) refutation of the assumption that effect sizes can be used
+as reliable indicators of effects.
+5. For more recent discussions of class size, see Blatchford and Russell ( 2019) and Mathis ( 2017).
+6. Bergeron ( 2017) made a succinct point: Hattie tends to calculate effects so that they yield positive
+numbers. Regarding socioeconomic status, the value of 0.59 was exactly that: positive. However, it
+may as well have been calculated as a negative effect (affecting the least privileged students) of
+/C0 0.59. Bergeron ( 2017) clari ﬁed, “negative impact is considered [by Hattie] to be harmful. ”
+7. Gene Glass, from whom the idea of meta-analysis originated, warned sharply against using meta-
+analysis to cloud the variation and heterogeneity of scienti ﬁc data (Wrigley, 2018, p. 367).
+8. Hattie ’s book Visible Learning references Witt et al. ’s( 2004, 2006) meta-analysis. The number of
+participants, studies, and effect sizes that Hattie referenced in his Appendix A ﬁt the version
+published in Communication Monograph (Witt et al., 2004). However, Hattie consistently referred to
+the version published in a monograph (Witt et al., 2006). We see this as a formal mistake and thus
+referred to the 2004 version in this article.
+14 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 16 ---
+Disclosure statement
+The authors declared no potential con ﬂicts of interest with respect to the research,
+authorship, and/or publication of this article. The authors received no ﬁnancial support for
+the research, authorship, and/or publication of this article.
+REFERENCES
+Allerup, P. (2015). Hatties brug af effect size som rangordning af paedagogiske indsatser [Hattie ’s use of
+effect sizes as ranking educational interventions]. Paideia: Tidsskrift for Professionel Paedagogisk
+Praksis, 9,4 2 –51.
+Berger, M. A. (1982, April 17 –20). Class size is not the issue [Paper presentation] . National School Boards
+Association.
+Bergeron, P.-J., & Rivard, L. (2017). How to engage in pseudoscience with real data: A criticism of John
+Hattie’s arguments in visible learning from the perspective of a statistician. McGill Journal of
+Education, 52(1), 237 –246. https://doi.org/10.7202/1040816ar
+Blatchford, P., & Russell, A. (2019). Class size, grouping practices and classroom management.
+International Journal of Educational Research , 96, 154 –163. https://doi.org/10.1016/j.ijer.2018.09.004
+Blichfeldt, J. F. (2011). Om gyldig forskning og bruk av forsknings- og testresultater [About valid
+research and the use of research and test results]. Bedre Skole , 4,1 2 –17.
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Introduction to meta-analysis .
+John Wiley & Sons.
+Carboni, M. (2013). Forskere: Nytaenk lektierne [Researchers: Rethink homework] . http://www.skoleborn.dk/
+juni_2013/side-3.html
+Chesebro, J. L., & McCroskey, J. C. (2001). The relationship of teacher clarity and immediacy with
+student state receiver apprehension, affect, and cognitive learning. Communication Education , 50(1),
+59–68. https://doi.org/10.1080/03634520109379232
+Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School
+Leadership & Management , 37(4), 413 –426. https://doi.org/10.1080/13632434.2017.1327428
+Ekecrantz, S. (2015). Feedback and student learning — A critical review of research. Utbilding & L €arande,
+9(2), 15 –34.
+Evans, D. (2012, September 14). He is not the messiah. Times Education Supplement.
+Frymier, A., & Houser, M. L. (2000). The teacher-student relationship as an interpersonal relationship.
+Communication Education , 49(3), 207 –219. https://doi.org/10.1080/03634520009379209
+Gorham, J., & Christophel, D. M. (1990). The relationship of teachers ’use of humor in the classroom to
+immediacy and student learning. Communication Education , 30,4 6 –62.
+Hansen, O., Lekhai, R., Nordahl, T., Persson, B., & Qvortrup, L. (2015). Leder — temanummer om John
+Hattie [Editorial — special issue about John Hattie]. Paideia, 9,4 –8.
+Hattie, J. (1987). Identifying the salient facets of a model of student learning: A synthesis of meta-
+analyses. International Journal of Educational Research , 11(2), 187 –212.
+Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement .R o u t l e d g e .
+Hattie, J. (2010). Commentary on being a “critic and conscience of society ”: The role of the education
+academic in public debates. New Zealand Journal of Educational Studies , 45(1), 85 –96.
+Hattie, J. (2012). Visible learning for teachers —Maximizing impact on learning . Routledge.
+Hattie, J. A., & Timperley, H. (2007). The power of feedback. Review of Educational Research , 77(1),
+81–112. [Database] https://doi.org/10.3102/003465430298487
+Hattie, J., & Yates, J. (2014). Visible learning and the science of how we learn . Routledge.
+Honneth, A. (1996).Struggle for recognition: The moral grammar of social conﬂicts. Cambridge University Press.
+Honneth, A. (2008). Reiﬁcation and recognition: A new look at an old idea . Oxford University Press.
+Kluger, A. N., & DeNisi, A. (1996). The effects of feedback intervention on performance: A historical
+review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin , 119(2),
+254–284. https://doi.org/10.1037/0033-2909.119.2.254
+Knudsen, H. (2017). John Hattie: I ’m a statistician, I ’m not a theoretician. Nordic Journal of Studies in
+Educational Policy , 3(3), 253 –261. https://doi.org/10.1080/20020317.2017.1415048
+Kvale, S. (1973). The technological paradigm of psychological research. Journal of Phenomenological
+Psychology, 3(2), 143 –159. https://doi.org/10.1163/156916273X00136
+Blind spots in visible learning 15
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
+--- PAGE 17 ---
+Lysakowski, R. S., & Walberg, H. J. (1980). Classroom reinforcement. Evaluation in Education , 4, 115 –115.
+https://doi.org/10.1016/0191-765X(80)90038-5
+Lysakowski, R. S., & Walberg, H. J. (1982). Instructional effects of cues, participation and corrective
+feedback: A quantitative synthesis. American Educational Research Journal , 19(4), 559 –578. https://doi.
+org/10.3102/00028312019004559
+MacIntyre, A. (1984). After virtue (2nd ed.). University of Notre Dame Press.
+Mansell, W. (2008, November 21). Research reveals teaching ’s Holy Grail. Times Education Supplement .
+Mathis, W. J. (2017). The effectiveness of class size reduction. Psychosociological Issues in Human
+Resource Management , 5(1), 176 –183.
+Nielsen, K. (2016). Learning from a social-ontological perspective. In M. Wiberg & A. Quotrup (Eds.), On
+the de ﬁnition of learning (pp. 141 –161). Syddansk Universitetsforlag.
+O’Donohue, W., & Kitchener, R. (Eds.). (1998). Handbook of behavorism . Academic Press.
+Organisation for Economic Co-operation and Development. (2005). Teachers matter: Attracting,
+developing and retaining effective teachers. Overview . http://www.oecd.org/dataoecd/39/47/34990905
+Polanin, J. R., Maynard, B. R., & Dell, N. A. (2017). Overviews in education research: A systematic review
+and analysis. Review of Educational Research , 87(1), 172–203. https://doi.org/10.3102/0034654316631117
+Qvortrup, L. (2015). Baggrund for og diskussion af visible learning med saerligt henblik på laerings- og
+vidensbegrebet [The background for and a discussion of visible learning with a special focus on its
+concept of learning and knowledge]. Paideia, 9,2 2 –33.
+Resnick, L. B. (Ed.). (1989). Knowing, learning, and instruction: Essays in honor of Robert Glaser . Lawrence
+Erlbaum Associates.
+Rømer, T. A. (2019). A critique of John Hattie ’s theory of Visible Learning . Educational Philosophy and
+Theory, 51(6), 587 –598. https://doi.org/10.1080/00131857.2018.1488216
+Sch€on, D. A. (1983). The re ﬂective practitioner. How professionals think in action . Basic Books.
+Sch€on, D. A. (1987). Educating the re ﬂective practitioner —Toward a new design for teaching and learning
+in the professions . Jossey Bass.
+Shute, V. J. (2008). Focus on formative feedback. Review of Educational Research , 78(1), 153 –189. https://
+doi.org/10.3102/0034654307313795
+Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect
+sizes. Journal of Education Policy , 32(4), 450 –466. https://doi.org/10.1080/02680939.2017.1280183
+Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in evidence-based
+education. British Educational Research Journal, 44(5), 897–913. https://doi.org/10.1002/berj.3474
+Snook, I., O ’Neil, J., Clark, J., O ’Neill, A., & Openshaw, R. (2009). Invisible learnings? A commentary on
+John Hattie ’s book Visible Learning: A synthesis of over 800 meta-analyses relating to achievement . New
+Zealand Journal of Educational Studies , 44(1), 93 –106.
+Swanson, H. L., & Lussier, C. L. (2001). A selective synthesis of the experimental literature on dynamic
+assessment. Review of Educational Research , 71(2), 321–363. https://doi.org/10.3102/00346543071002321
+Topphol, A. K. (2012). Kan vi stole på statistikkbruken i utdanningsforskinga? [Can we trust the use of
+statistic in educational research]. Norsk Pedagogisk Tidsskrift , 95(06), 460 –471. https://doi.org/10.
+18261/ISSN1504-2987-2011-06-06
+Travers, R. M. W., Van Wagenen, K. R., Haygood, D. H., & McCormick, M. (1964). Learning as a
+consequence of the learner ’s task involvement under different conditions of feedback. Journal of
+Educational Psychology , 55(3), 167 –173. https://doi.org/10.1037/h0048319
+Wentling, T. L. (1973). Mastery vs. non-mastery instruction with varying test item feedback treatment.
+Journal of Educational Psychology , 65(1), 50 –58. https://doi.org/10.1037/h0034820
+Witt, P. L., Wheeless, L. R., & Allen, M. (2004). A meta-analytical review of the relationships between
+teacher immediacy and student learning. Communication Monographs , 71(2), 184 –207. https://doi.org/
+10.1080/036452042000228054
+Witt, P. L., Wheeless, L. R., & Allen, M. (2006). A relationship between teacher immediacy and student
+learning: A meta-analysis. In B. M. Gayle, R. W. Preiss, N. Burrell, & M. Allen (Eds.), Classroom
+communication and instructional processes: Advances through meta-analysis (pp. 149 –168). Lawrence
+Erlbaum Associates.
+Wrigley, T. (2018). The power of ‘evidence’: Reliable science or a set of blunt tools? British Educational
+Research Journal , 44(3), 359 –376. https://doi.org/10.1002/berj.3338
+Zhao, Y. (2018). What works may hurt —Side effects in education . Teachers College Press.
+16 Klaus Nielsen & Jacob Klitmøller
+Nordic Psychology 2021, Vol. 0(0), 1 –16 © 2021 The Editors of Nordic Psychology
