@@ -481,7 +481,7 @@ Total entries: **356**
 > - [[Argument_Ryabyy_2024_Maneto]] — 利用 Dewey 私人通信、纽约时报报道和美国国务院外交函件重建其 1928 年访苏行程，揭示该访问对苏联教育者和美国公众舆论的多向影响，以及反共势力如何将教育交流视为宣传工具
 
 > [!index-list]- McGill Journal of Education (1)
-> - [[Argument_Bergeron_2017_MJE]] — 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
+> - [[Argument_Bergeron_2017_MJE]] — 加拿大统计学家 Pierre-Jérôme Bergeron 与 Lysanne Rivard 从数理统计学视角系统审查 John Hattie《可见的学习》，通过理论溯源与受控数值模拟证实二阶元分析存在初等概率计算崩溃（CLES 负概率）、基线比较任意性、三类有效公式产出完全矛盾排名以及相关换算爆炸与因果混淆，判定该宏观证据综合为以真实数据包装的伪科学纸牌屋
 
 > [!index-list]- Medical Education Online (1)
 > - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失

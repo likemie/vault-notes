@@ -123,7 +123,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 ## 定义
@@ -518,3 +518,4 @@ updated: 2026-10-17
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 审查[[Meta-meta-analysis|二阶元分析]]中效应量跨设计聚合的统计有效性，实证揭示混杂独立组与[[Repeated Measures Design|重复测量设计]]以及混并积极对照与空白对照对合并效应量的系统性扭曲。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判 $d=0.40$ 效应量截断值的武断性（阿司匹林反例），指出单一平均效应量掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛效应（STAR 试验小班 $d=0.62–0.66$），并警示二阶综合缺乏底层质控的系统性风险。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 提出效应量多级聚合的货币汇兑损耗比喻，对比六大领域效应量分布（教师 0.49 vs 学校 0.23）与激活者（0.60）vs 促进者（0.17），揭示宏观效应量排名的[[Epistemology|认识论]]困境（pp. 427–429, 432–437）。
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 运用受控数值模拟证实三类效应量公式对同一数据得出完全相反排名，揭示基线选取任意性与相关换算的数学失效。

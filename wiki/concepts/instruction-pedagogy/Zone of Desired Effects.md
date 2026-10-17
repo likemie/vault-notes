@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Zone of Desired Effects
@@ -261,3 +261,4 @@ updated: 2026-10-17
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引用[[John Hattie|哈蒂]]自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）与医学阿司匹林临床实证（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判 0.40 门槛的叙事修辞本质与证据扭曲后果。
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从统计学角度揭示期望效应区缺乏普遍零基线，指出基线反转使效应量正负颠倒，且微弱相关（$r=0.196$）即可虚增至该区域。

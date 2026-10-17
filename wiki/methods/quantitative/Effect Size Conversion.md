@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Effect Size Conversion
@@ -265,7 +265,7 @@ updated: 2026-10-16
 >
 > **数学边界与算法失范**
 > - **理论边界** 由于标准正态累积分布函数 $\Phi(z)$ 的值域严格位于 $(0, 1)$ 区间，CLES 在数学上绝不可能出现负值或大于 100% 的情况（当 $d = 0$ 时，$\text{CLES} = 50\%$；当 $d = 0.80$ 时，$\text{CLES} \approx 71.4\%$）。
-> - **算法崩溃案例** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 35, Note 4)]] 指出，哈蒂在《可见的学习》原版附录 A 中采用了一套系统错误的 CLES 换算公式，竟算出了低于 0% 和高于 100% 的不可能概率（如 $-12\%$ 或 $108\%$）；这一低级算法崩溃在德语修订版（Beywl & Zierer, 2015b, p. XVII）中才被强制重算更正。
+> - **算法崩溃案例** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 35, Note 4)]] 与 [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017, p. 239)]] 均严正指出，哈蒂在《可见的学习》中采用了一套系统错误的 CLES 换算公式，竟算出了低于 0% 和高于 100% 的不可能概率（如 $-12\%$ 或 $108\%$）；这一低级算法崩溃在德语修订版（Beywl & Zierer, 2015b, p. XVII）中才被强制重算更正。[[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] 进一步给出了严格的 $d$ 与 CLES 规范映射基准。
 
 ---
 
@@ -354,3 +354,4 @@ updated: 2026-10-16
 > | [[Category Mistake]] | 概念 | 方法学批判 | 未作标准化转换直接混用异质分母测度构成范畴[[Commensuration\|通约]]失范。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证应用 | 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法学批判与审计 | 系统揭示[[Standard Error\|标准误]]当作标准差导致效应量虚增十倍、三大均值差测度混用以及伪标准误拼凑失范等典型灾难案例。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 数理审计与反例反证 | 揭示 CLES 负概率失范，并以数值实验证实 $r \to d$ 极值爆炸及三类公式导致完全矛盾排名。 |
