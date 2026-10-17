@@ -4291,7 +4291,7 @@ Total entries: **3754**
 
 > [!index-list]- Educational Philosophy and Theory (2)
 > - [[Argument_Eacott_2015_EPT]] — 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
-> - [[Argument_Rømer_2018_EPT]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
+> - [[Argument_Rømer_2018_EPT]] — 以教育哲学与科学哲学审视可见的学习理论根基，通过五线批评系统揭示评价理论对教育概念的殖民、学业成就因变量的操作化断裂、激进建构主义引发的教学双重瓦解、反馈机制的逐级集权监控效应以及对波普尔三个世界理论的认识论倒置。
 
 > [!index-list]- Educational Policy (1)
 > - [[Argument_Ginsberg_2024_EducPolicy]] — 对美国一所大型城市学区三年间 2.88 亿美元 Title I 联邦经费的实证审计发现，虽然逾 95% 的资金投向了符合 ESSA 单项研究门槛（Tier I–III）的实践，但在全量证据评价下获积极证据支持的资金比例跌破 60%，且 ESSA 实施并未显著提高循证支出的真实比重
