@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Larsen_2019_EducSci",
+      "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
+    },
+    {
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
       "basename": "Argument_Rømer_2018_EPT",
       "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
-    },
-    {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
     {
       "basename": "Victorian HITS and Literacy Toolkit",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Manitius_vanHolt_2019_BzS",
       "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
-    },
-    {
-      "basename": "Argument_Kalmendal_2025_PsyArXiv",
-      "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
     }
   ],
   "omittedPaths": [],
