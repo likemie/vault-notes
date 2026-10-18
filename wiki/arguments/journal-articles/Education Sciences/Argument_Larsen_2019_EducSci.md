@@ -58,6 +58,7 @@ related_concepts:
   - "[[Blind Spot in Observation]]"
   - "[[Neuromyth]]"
   - "[[Reform Pedagogy]]"
+  - "[[Participatory Sense-Making]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Ecology of the Brain]]"
@@ -74,6 +75,9 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
+  - "[[Thomas Fuchs]]"
+  - "[[Peter Sloterdijk]]"
+  - "[[Reinhart Koselleck]]"
   - "[[Immanuel Kant]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Friedrich Nietzsche]]"
