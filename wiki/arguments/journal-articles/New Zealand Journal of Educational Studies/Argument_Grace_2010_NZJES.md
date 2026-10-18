@@ -119,7 +119,7 @@ journal: New Zealand Journal of Educational Studies
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["制度危机（1988）：新管理主义与财政部原教旨主义威胁大学独立性"] --> B["概念创议：格雷斯提出大学是社会的批评者与良知"]
 >     B --> C["法定确立（1989–1990）：载入《为生活而学习报告》与《教育法》第162条"]
 >     C --> D["规范界分：学术领域内部技术性批评 vs 面向公众与权力的社会良知"]

@@ -688,8 +688,8 @@ Total entries: **810**
 
 > [!index-list]- Policy (8)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
-> - [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
-> - [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
+> - [[Learning for Life Report]] — 加里·霍克 1989 年主持发布的新西兰后义务教育与培训改革报告，确立现代高等教育治理架构，并首次将格雷斯创议的“社会的批评者与良知”纳入大学法定本质特征。
+> - [[New Zealand National Standards]] — 新西兰国家党联合政府推行的 1–8 年级阅读、写作与数学基准评价政策，旨在强化基于实证的学业进步监测，因与明日学校分权传统冲突及评价信度争议于 2017 年废止。
 > - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
 > - [[Partnership Schools Kura Hourua]] — 新西兰国家党与行动党联合政府推动设立的特许学校制度，依据《2013年教育修正法案》由营利或非营利组织根据商业合同运营公费私立学校，享有豁免国家课程与免除教师资质注册等制度特权，2018年被工党政府正式废止。
 > - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
