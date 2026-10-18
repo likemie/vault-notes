@@ -18,6 +18,7 @@ tags:
   - theme/assessment-governance
   - level/higher-education
 related_concepts:
+  - "[[Critic and Conscience of Society]]"
   - "[[University-Industry Collaboration]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -58,6 +59,7 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons:
+  - "[[Gerald Grace]]"
   - "[[Erich Bloch]]"
 related_facts:
   - "[[OECD]]"
@@ -85,6 +87,7 @@ related_arguments:
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Bozeman_2004_JTT]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 confidence: high
 status: completed
 created: 2026-05-26
@@ -131,6 +134,7 @@ updated: 2026-10-16
 > - **[[Epistemology|认识论]]与理论[[Paradigm|范式]]自主权（Epistemological & Theoretical Freedom）** 学者享有根据复杂经验现实自由选择解释性理论透镜与研究范式（如[[Positivism|实证主义]]、[[Dependency Theory|依附理论]]、[[Critical Theory|批判理论]]等）的专业权利，免受学科内部单一范式正统的霸权[[Disciplina and Doctrina|规训]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
 > - **机构自主权（Institutional Autonomy）** 大学作为一个自治共同体，在学术标准设立、学位授予、师资聘任与资源分配上享有抵御外部政治与经济干预的制度屏障。[[Argument_Bouckaert_2023_OECD|(Enders et al., 2013; Bouckaert, 2023, p. 6)]]
 > - **契约让渡与咨询权双重身份（Contractual Bifurcation）** 教师作为大学雇员受学术自由保护，而在作为企业外部顾问时，可通过咨询协议自愿让渡部分发表权以遵守商业保密条款。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, pp. 265–266)]]
+> - **社会良知与权力制衡使命（Critic and Conscience of Society）** 学术自由的终极合法性依托于学者基于严谨客观的实证研究面向执政权力讲真话，在自由民主社会中承担抵御政治殖民与政策意识形态偏见的制衡职能。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 
 ---
 
@@ -231,6 +235,16 @@ updated: 2026-10-16
 
 ---
 
+### 命题十　学术自由的终极合法性源于大学基于客观学术向公权力讲真话的独立批评与社会良知使命
+
+> [!concept-lens] 政治殖民防卫与良知使命
+> 探讨学术自由在抵御国家行政干预、新管理主义与意识形态殖民中的终极正当性，揭示其作为民主社会权力制衡中枢的制度价值。
+
+> [!claim] Grace, G.
+> **学术自由的终极合法性在于成为社会的独立批评者与良知** [[Gerald Grace|格雷斯]]（Grace, 2010）指出，大学与学术自由的终极合法性，在于大学应当成为社会的独立批评者，并在这一意义上成为社会的良知（[[Critic and Conscience of Society]]）。在自由民主社会中，随着大学对政府财政与研究资助依附的加深，学术自主面临被强大的政治、意识形态利益与新管理主义所殖民的深层危机。学术自由超越单纯的学术职业自主权，在根本上构成了学者基于系统、公正和客观的学术实证研究面向执政权力讲真话（speak truth to power）的制度防护网，其根本目的在于承担对执政党派与公共政策的独立权力制衡。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -245,6 +259,7 @@ updated: 2026-10-16
 > | **前竞争防线** | 前竞争研发边界与分层资助设计构筑制度防火墙，在深度产学协同中捍卫实质探索与完全公开发表自由 | 产学研发联合体、前竞争基础研究资助、高校学术自由防御 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
 > | **多学科跨界缓冲** | 多学科生态与组织缓冲层化解企业交付摩擦，赋予学者自主选择多元产业伙伴与技术跨界转型的实质自由 | 大学研究中心治理、产学微观摩擦、技术范式跨界演进 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 > | **质量自组织共生** | 远距离操纵以总额预算与事后同行质量评估替代事前微观管制，在学术自治与公共问责间达成功能共生 | 宏观高教改革、去规制化分权、质量保障体制转型 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **民主制衡与社会良知** | 学术自由的终极正当性在于基于系统学术研究向公权力讲真话，发挥独立权力制衡并抵御政治殖民 | 高等教育法定职能、大学自治合法性辩护、反思新管理主义 | [[Argument_Grace_2010_NZJES\|Grace (2010)]] |
 
 ---
 

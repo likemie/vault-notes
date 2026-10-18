@@ -15,6 +15,7 @@ tags:
   - subject/instruction
   - level/k12
 related_concepts:
+  - "[[Critic and Conscience of Society]]"
   - "[[Construct]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Cargo Cult Science]]"
@@ -117,6 +118,7 @@ related_methods:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
+  - "[[Gerald Grace]]"
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Christof Wecker]]"
@@ -169,6 +171,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -290,6 +293,9 @@ updated: 2026-10-18
 > [!claim] Nielsen, K. & Klitmøller, J.
 > **剔除社会阶层[[Interaction Effect|调节效应]]制造“阶级盲”教学假象** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）深入考察哈蒂的[[Independent Variable|自变量]]设定指出，哈蒂虽然在元分析综合中汇总了家庭[[Socioeconomic Status|社会经济地位]]（SES）具有高达 $d=0.57$ 的极强效应量，却在后续建构以教师为中心的因果模型时，系统性地将 SES 剔除于调节变量之外。这种做法制造了一种将微观教学孤立于宏观社会结构的“阶级盲”（Class-blind）假象，诱导外界认为教师掌握教学技巧即可完全消除社会不平等。他们援引[[OECD|经济合作与发展组织]]（OECD）及斯努克（Snook）等学者的宏观证据强调，家庭阶层与生源背景在学生学业成就变异中占据主导地位（解释 70%–80% 方差），将社会结构的系统性不平等强行窄化为孤立的教师微观技术问题，不仅违背了教育社会学的基本实证共识，更在客观上掩盖了弱势群体面临的深层阶层壁垒。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 52–54)]]
 
+> [!claim] Grace, G.
+> **排除非学校因素的教育还原主义为政策推卸责任提供掩护** [[Gerald Grace|格雷斯]]（Grace, 2010）在 NZJES 论战中指出，哈蒂在《可见的学习》前言中承认校外社会与家庭因素可能比书中讨论的问题更为关键，却在实际建模中将其系统排除。这种做法制造了一种浅陋的教育还原主义，误导公众与政界认为仅靠学校内部教学改革即可解决既有的教育成就不平等；这种观点高度契合新自由主义政策制定者的利益，帮助其巧妙转移对消除贫困与深层社会经济不平等的治理责任。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
+
 ---
 
 ### 命题三　教学效能依托显性化进阶语言、明确成功标准与形成性三提问实现教与学的双向可见
@@ -339,7 +345,7 @@ updated: 2026-10-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体，且自认叙事故事造成学段一刀切误导 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
-> | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，剔除 SES 调节效应制造阶级盲假象，忽视生源背景解释 70%–80% 差异构成归因失真 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
+> | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，剔除 SES 调节效应制造阶级盲假象，忽视生源背景解释 70%–80% 差异并演变为政策推卸治理责任的还原主义掩护 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Grace_2010_NZJES\|Grace (2010)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进；但双向可见性在福柯视角下展现为将外显统治转化为内化自我监控的微观全景规训 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 > | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、技术理性工程论消解学习者意向性、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 
@@ -350,7 +356,7 @@ updated: 2026-10-18
 > [!dev-timeline] 概念演变
 > - **1987–1992 — [[Meta-meta-analysis|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis|元分析]]、22,155 个[[Effect Size|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
-> - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]随后发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
+> - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）后，[[Gerald Grace|格雷斯]]（[[Argument_Grace_2010_NZJES|Grace, 2010]]）进一步发表学理质询，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，指认排除非学校因素的教育还原主义为维持现状与推卸阶级治理责任提供政治掩护。
 > - **2011 — [[Didaktik|欧陆教学论]]系统审视与双重困境提出** 德国学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（JCS）发表首篇国际长篇书评，从德语教学论（Didaktik）与教化（[[Bildung]]）传统指出 VL 存在严重的学科实质内容真空（“肉在哪里”），通过福柯视角揭示其视觉隐喻下潜藏的现代化教师隐性主导与全景监控，并提出二阶元分析同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的内在双重困境。
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
@@ -386,7 +392,7 @@ updated: 2026-10-18
 >
 > [!tension] 核心张力五：微观[[School Effectiveness|学校效能]]（校内教师改进）vs 宏观社会不平等（70%–80% 生源方差）
 > - **微观可控效能立场（蓝方）** [[John Hattie|哈蒂]]坚持将[[Research Scope|研究范围]]界定在教育者可控的校内因素，主张教师教学效能占 30% 系统方差，是政策能够直接干预的最大枢纽，不应因校外社会因素巨大而陷入无所作为的虚无主义。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–90)]]
-> - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
+> - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]] [[Gerald Grace|格雷斯]]亦指出排除非学校因素制造了单靠教学即可消解不平等的还原主义幻想，成为政策制定者推卸治理贫困责任的便利挡箭牌。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 >
 > [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（[[Didaktik]] / [[Bildung]]）
 > - **形式化技能综合立场（蓝方）** 哈蒂将学习形式化区分为表层知识、深层思维与理论建构三层级，聚焦跨学科通用思维技能与学习策略的效应量提炼，认为教学内容主要充当策略训练的载体。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]
@@ -489,4 +495,5 @@ updated: 2026-10-18
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与教学论视角展开概念审查，指出可见学习是教学屈从于简陋评价理论的产物，揭示反馈概念界定中的范畴错误及挪用波普尔世界三理论时产生的认识论自相矛盾。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] — 结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]与舍恩[[Technical Rationality|技术理性]]理论，实证剖析丹麦 2014 年教育改革，揭示 VL 的流行实质在于满足了国家行政管理的技术控制与自我证成需求。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 思想史考证证实其[[Behaviorism|行为主义]]与技术理性的学理渊源，揭露剔除 [[Socioeconomic Status|SES]] 的阶级盲偏见与 0.40 修辞门槛导致的学段误判，并通过对覆盖 92% 样本的 5 大反馈元分析文献学细读揭示底层[[Construct|构念]]错位。
+> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 针对 NZJES 首发论战发表批判，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，揭露排除非学校因素的教育还原主义为政策推卸阶级不平等责任提供掩护。
 
