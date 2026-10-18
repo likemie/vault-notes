@@ -924,6 +924,17 @@
     ]
   },
   {
+    "title": "Hard Policy Transfer",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Hard Policy Transfer.md",
+    "aliases": [
+      "硬政策转移",
+      "政策硬转移",
+      "工具直接复制",
+      "制度硬移植"
+    ]
+  },
+  {
     "title": "Heroic, Strange, and Barbaric",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Heroic, Strange, and Barbaric.md",
@@ -1704,6 +1715,18 @@
       "空间的时间化",
       "空间的历时化",
       "temporalising space"
+    ]
+  },
+  {
+    "title": "Test Production",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Test Production.md",
+    "aliases": [
+      "测验生产",
+      "测评工具研制",
+      "试题研发",
+      "测验研发",
+      "标准化测验生产"
     ]
   },
   {
@@ -37158,6 +37181,11 @@
     "title": "Argument_Klerides_2023_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md"
+  },
+  {
+    "title": "Argument_Morgan_Shahjahan_2014_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
   },
   {
     "title": "Argument_Steiner-Khamsi_2024_CE",

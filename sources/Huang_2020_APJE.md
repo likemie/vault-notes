@@ -1,6 +1,7 @@
 ---
 citation: "Huang, H., & Kan, Y. (2020). The impact of the OECD on education worldwide. Asia Pacific Journal of Education, 40(3), 422–424. https://doi.org/10.1080/02188791.2020.1712057"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Huang_2020_APJE]]"
 processed_date: 2026-10-19
 ---
 

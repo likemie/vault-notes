@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Comparative Case Study
@@ -181,3 +181,4 @@ updated: 2026-10-16
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、[[JESSI]] 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 PISA 与 AHELO 测验生产早期阶段，通过档案挖掘与多尺度分析揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。

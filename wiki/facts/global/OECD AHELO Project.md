@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # OECD AHELO Project
@@ -51,11 +51,14 @@ updated: 2026-10-16
 ## 经过
 
 > [!note]-
-> - [[OECD]] 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）
-> - 可行性研究获得的评估结果相当矛盾，未能证明该项目的技术可行性和国际可比性
-> - 项目遭到学术界的强烈反对——Philip Altbach（2015）批评"由于各国课程差异显著，AHELO 将是在测试苹果和橙子，更不用说猕猴桃和西兰花了"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.136]])
-> - 美国和加拿大顶尖大学的校长联合声明指出"AHELO 根本性地误解了学习成果评估的目的——学习成果应当是让各机构自行确定和定义他们期望学生达成的成就，并衡量他们是否成功实现了这些目标"（Husbands, 2015, cited in）
-> - AHELO 被众多学者定义为一次"失败"
+> - [[OECD]] 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）。
+> - **测验研制架构与四大支柱** 经合组织为 AHELO 设立了四大评价支柱：(1) 通用技能（Generic Skills）；(2) 学科特定能力（重点选取经济学与工程学）；(3) 背景情境信息；(4) 增值评价维度。项目委托澳大利亚教育研究委员会（[[Australian Council for Educational Research|ACER]]）担任总承包商统筹设计，并联合 Tuning 协会等学术团体界定国际化专业能力预期（[[Argument_Morgan_Shahjahan_2014_CE|Morgan & Shahjahan, 2014, pp. 194, 200–201]]）。
+> - **治理协同与多方博弈** 为推行该项目，经合组织构建了跨尺度治理网络：由高等教育机构管理项目（IMHE）理事会与教育政策委员会（EPC）统筹监管，国家专家组（GNE）负责技术执行，并设立利益相关者咨询组（SCG）争取大学与高校团体的政治信任（[[Argument_Morgan_Shahjahan_2014_CE|Morgan & Shahjahan, 2014, pp. 200–201]]）。
+> - **直接硬移植导致的技术挫折** 在通用技能模块中，为节省研发周期与经费，经合组织直接采取[[Hard Policy Transfer|硬政策转移]]，机械照搬美国大学学习评估（[[Collegiate Learning Assessment|CLA]]）的表现性任务；然而这些任务植根于美国文化背景，在跨国翻译、情境适应与多语言转化中遭遇严重阻碍，研发团队不得不中途追加客观多选题并重新研制评价框架（[[Argument_Morgan_Shahjahan_2014_CE|Morgan & Shahjahan, 2014, pp. 200–201]]）。
+> - 可行性研究获得的评估结果相当矛盾，未能证明该项目的技术可行性和国际可比性。
+> - 项目遭到学术界的强烈反对——Philip Altbach（2015）批评"由于各国课程差异显著，AHELO 将是在测试苹果和橙子，更不用说猕猴桃和西兰花了"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])。
+> - 美国和加拿大顶尖大学的校长联合声明指出"AHELO 根本性地误解了学习成果评估的目的——学习成果应当是让各机构自行确定和定义他们期望学生达成的成就，并衡量他们是否成功实现了这些目标"（Husbands, 2015, cited in）。
+> - AHELO 被众多学者定义为一次"失败"。
 
 ---
 
@@ -80,6 +83,9 @@ updated: 2026-10-16
 > [!example]
 > - [[Global Universities Rankings]] — AHELO 试图填补排名系统对教学质量测量的空白
 > - [[Academic Ranking of World Universities]] — ARWU 是唯一以校友获奖间接反映教育结果的全球排名
+> - [[Test Production]] — AHELO 测验研制全过程是透视经合组织建构全球高教评估合法性的典型场域
+> - [[Hard Policy Transfer]] — 通用技能模块直接机械照搬美国 CLA 测验引发的排异反应
+> - [[Argument_Morgan_Shahjahan_2014_CE|Clara Morgan and Riyad A. Shahjahan (2014)]] — 比较分析 PISA 与 AHELO 测验生产早期治理机制的权威文献
 
 ---
 
