@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 82
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Competitiveness

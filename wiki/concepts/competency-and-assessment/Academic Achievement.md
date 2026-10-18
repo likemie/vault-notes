@@ -222,14 +222,18 @@ updated: 2026-10-18
 >
 > *“The focus on those factors in quantitative empirical research that are found to be effective for the measurable increase in learning achievement of students is combined with the exclusion of those factors that lead to other, broader, and also important effects of schools and teaching... The question of content, the question of the pedagogical significance of subjects, reflections about problems, and possibilities of legitimizing curricular decisions are completely ignored.”*
 
-> [!boundary]- 概念边界辨析
-> - **不等于先天智商或潜在认知能力** 学业成就是努力、策略、动机、[[Epistemological Beliefs\|认识论信念]]与环境支架长期交互的输出产物，受学习情境与教学任务结构的剧烈调节，它具有高度的可塑性与发展性，不属于静态心理特质。
-> - **不等于无效标锚定的随意主观自报** 随意的主观自评会因社会赞许性而产生偏差并稀释理论关联；但若在严谨指导下自报特定学科平均百分比并与学校官方实际总评成绩（OAA）建立效标锚定，其自报预估值（EOAA）可达到高达 $r = .91$ 的[[Criterion-related Validity\|效标效度]]。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, p. 314)]]
+---
+
+## 概念辨析
+
+> [!boundary] 概念边界辨析
+> - **不等于先天智商或潜在认知能力** 学业成就是努力、策略、动机、[[Epistemological Beliefs|认识论信念]]与环境支架长期交互的输出产物，受学习情境与教学任务结构的剧烈调节，具有高度的可塑性与发展性，不属于静态心理特质。
+> - **不等于无效标锚定的随意主观自报** 随意的主观自评会因社会赞许性而产生偏差并稀释理论关联；但若在严谨指导下自报特定学科平均百分比并与学校官方实际总评成绩（OAA）建立效标锚定，其自报预估值（EOAA）可达到高达 $r = .91$ 的[[Criterion-related Validity|效标效度]]。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, p. 314)]]
 > - **不等于脱离情境的一般性表现** 学生在结构清晰的常规练习题中的表现，与在充满矛盾争议的开放辩护任务中的反思性表现，属于不同维度的学业成就。
 
 ---
 
-## 测量构念与表现层级
+## 核心要素
 
 > [!taxonomy] 学业成就的多维[[Operationalization|操作化]]分类系统
 > 在当代教育心理学与循证因果评估中，单纯使用单一分数已无法满足精细的理论检验。学业成就通常沿以下多维层级进行多维操作化划分：
@@ -268,6 +272,13 @@ updated: 2026-10-18
 > 7. **测度技术可测量性窄化与非认知育人维度的系统性排除（Measurement Amenability and Non-Cognitive Exclusion）**
 >    - **可测量性优先对全人发展维度的系统性过滤** 在追求宏观证据综合的[[Technical Rationality|技术理性]]下，学业成就常被窄化为“易于测量的标准化笔试分数”（amenable to measurement; [[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 95–96]]）。这种操作化预设导致道德判断、民主公民素养、反思性批判思维、艺术[[Creativity|创造力]]、身体发展以及坚持与合作等关键育人产出，因难以被标准化测验量化而被系统性排除在核心证据库之外（例如道德教育因聚焦道德判断的培育而未能直接对准笔试提分，导致其被排除在证据库之外；Hattie, 2009, p. 149）。
 >    - **表层记忆对高阶概念性理解的测度遮蔽（Conceptual Understanding Deficit）** 即使在纯粹的认知性学业成就内部，现行测验亦存在严重的概念断层。虽然认知框架将学习区分为表层事实、深层关联与概念性理解，但大规模[[Meta-analysis|元分析]]所综合的数以万计的学业测验，绝大多数仅止步于表层知识记忆与基础程序套用，极少触及作为卓越教学核心标尺的高阶概念性理解（conceptual understanding; Hattie, 2009, p. 249; [[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 96]]）。
+
+> [!example]- 典型测评与实验案例
+> - **微观教学实验中的多维任务学业[[Achievement and Aptitude Tests|成就测验]]（[[Argument_Lodewyk_2007_EducPsych|Lodewyk, 2007]]）**
+>   - **[[Task Structure|良构任务]]（个人生活方式计划）** 测查学生根据既定框架与提供资料整理特定癌症病因、疗法与预防措施的结构化能力，侧重信息收集与规则套用。
+>   - **劣构任务（专案组癌症经费分配辩护）** 测查学生在面对预防宣传与科研治疗两方对立证据时，自主检索资源、权衡利弊并进行价值立场辩护的能力，重点通过 King and Kitchener (1994) 模型独立评定[[Reflexivity|反思性]]判断深度。
+> - **多学科[[Epistemic Cognition|认识论认知]]与学业成就分层评定（[[Argument_Greene_2010_JEP|Greene et al., 2010]]）**
+>   通过自编学科测验与平时成绩追踪，将学生的数学与历史学科成就作为协[[Variable|变量]]，识别学生在不同学科领域中的[[Ontology|本体论]]与[[Epistemology|认识论]]成熟阶段。
 
 ---
 
