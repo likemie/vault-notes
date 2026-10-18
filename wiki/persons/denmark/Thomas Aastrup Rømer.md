@@ -79,15 +79,19 @@ updated: 2026-10-18
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> | 年份 | 著作 | 核心贡献 | 关联条目 |
-> |:---|:---|:---|:---|
-> | 2003 | *Learning and assessment in postmodern education* | 探讨后现代语境下评价范式对学习本质的重塑。 | [[Postmodernism]] |
-> | 2012 | *Imagination and judgment: Intelligent transactions in a democratic context* | 借助杜威实用主义阐发判断力与被动承受（undergoing）的教育价值。 | [[Pragmatic Paradigm]], [[John Dewey]] |
-> | 2014 | *Uren Pædagogik 2* (with Tanggaard & Brinkmann) | 首次提出“不纯粹教育”与“[[Pure Evaluation|纯粹评价]]”构念，批判脱离时空情境的技术化评价。 | [[Pure Evaluation]] |
-> | 2015 | *Pædagogikkens to verdener* | 探讨教育学的两个世界，论证教育学与实证科学之间的范式分野。 | [[Bildung]], [[Epistemology]] |
-> | 2017 | *[[Hattie på dansk]]* (Book Chapter) | 剖析反馈数据自下而上捕获机制，揭示微观教学操作与行政集权之间的隐性联通。 | [[Feedback]], [[Hattie på dansk]] |
-> | 2018 | *A critique of John Hattie's theory of Visible Learning* | 提出评价统治教育、因变量效度瓦解、激进建构主义妥协、反馈集权化与波普尔误读五线哲学批判。 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]], [[Visible Learning]] |
+> [!thought-timeline] 思想发展
+> - **2000–2010 — 后现代认识论反思与杜威实用主义奠基** 此阶段主要回应后现代文化转向下学习与评价的关系，并借助实用主义重思民主社会的教育意义。
+>   - **代表著作** *Learning and assessment in postmodern education* (2003); *Imagination and judgment: Intelligent transactions in a democratic context* (2012).
+>   - **关键概念／方法** [[Postmodernism]], [[Pragmatic Paradigm]], [[John Dewey]], 哲学概念分析, 判断力
+>   - **阶段转向** 从早期的后现代认识论解构，转向借助杜威实用主义阐发智能交易与被动承受（undergoing）的教育价值。
+> - **2011–2016 — “不纯粹教育”建构与纯粹评价批判** 此阶段直面新公共管理与评价主义在丹麦基础教育改革中的侵蚀，重申教化传统的本体论根基。
+>   - **代表著作** *Uren Pædagogik 2* (with Tanggaard & Brinkmann, 2014); *Pædagogikkens to verdener* (2015).
+>   - **关键概念／方法** [[Pure Evaluation|纯粹评价]], [[Bildung|教化]], [[Didaktik|教学论]], [[Epistemology|两个世界本体论]]
+>   - **阶段转向** 首次提炼出“纯粹评价”构念，确立教育学独立于纯粹自然科学实证主义的规范性根基，反思去脉络化的技术评价。
+> - **2017–至今 — 可见学习五线哲学审视与“研究牢笼”解构** 此阶段全面介入国际循证教育大论战，对约翰·哈蒂可见学习理论展开系统性的教育哲学审视。
+>   - **代表著作** *[[Hattie på dansk]]* (2017); *A critique of John Hattie's theory of Visible Learning* (2018, [[Argument_Rømer_2018_EPT|Rømer, 2018]]).
+>   - **关键概念／方法** [[Visible Learning|可见的学习]], [[Popper's Three Worlds Theory|世界三客观知识]], 评价理论霸权, 封闭研究牢笼（Research Cage）
+>   - **阶段转向** 从丹麦本土论争拓展为国际学术界反思实证综合的标志性声音，建立涵盖评价统治教育、因变量效度瓦解、激进建构主义妥协、反馈集权化与波普尔误读的五线系统批判框架。
 
 ---
 

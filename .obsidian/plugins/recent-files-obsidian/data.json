@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
     },
     {
+      "basename": "Central Phenomenon",
+      "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
+    },
+    {
+      "basename": "Lars Qvortrup",
+      "path": "wiki/persons/denmark/Lars Qvortrup.md"
+    },
+    {
+      "basename": "Jean Piaget",
+      "path": "wiki/persons/switzerland/Jean Piaget.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
       "basename": "Radical Constructivism",
       "path": "wiki/theories/educational-philosophy/Radical Constructivism.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Standard Error",
       "path": "wiki/methods/quantitative/Standard Error.md"
-    },
-    {
-      "basename": "Meta-meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
-    },
-    {
-      "basename": "Argument_Kratsios_2026_OSTP",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Sage",
-      "path": "wiki/concepts/chinese-philosophy/Sage.md"
-    },
-    {
-      "basename": "Panopticism",
-      "path": "wiki/theories/educational-philosophy/Panopticism.md"
     }
   ],
   "omittedPaths": [],

@@ -71,13 +71,23 @@ updated: 2026-10-18
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> | 年份 | 著作 | 核心贡献 | 关联条目 |
-> |:---|:---|:---|:---|
-> | 1923 | *Le Langage et la pensée chez l'enfant* | 通过儿童日常言语记录，揭示自我中心言语向社会化言语的过渡机制。 | [[Constructivist Paradigm]] |
-> | 1936 | *La naissance de l'intelligence chez l'enfant* | 基于对婴儿动作的精细观察，阐发感觉运动智力的发生过程与感知图式构建。 | [[Constructivist Paradigm]] |
-> | 1950 | *Introduction à l'épistémologie génétique* | 发生认识论三卷本奠基之作，系统论证生物适应、认知结构与科学逻辑的统一演化。 | [[Epistemology]] |
-> | 1970 | *Genetic Epistemology* | 面向国际学术界概括发生认识论核心原理，阐明主客观相互作用建构知识的基本法则。 | [[Constructivist Paradigm]] |
+> [!thought-timeline] 思想发展
+> - **1920s–1935 — 儿童言语、思维与道德判断的临床探索** 在巴黎比奈实验室和日内瓦卢梭研究所开展临床访谈，探索儿童独特的认知逻辑。
+>   - **代表著作** *Le Langage et la pensée chez l'enfant* (1923); *Le Jugement et le raisonnement chez l'enfant* (1924); *Le Jugement moral chez l'enfant* (1932).
+>   - **关键概念／方法** 自我中心言语、前因果思维、儿童道德自律、临床访谈法（Clinical Method）
+>   - **阶段转向** 突破传统心理学将儿童视为成人缩小版的还原论假定，证实儿童具有自身质性独特的认知结构与逻辑发展规律。
+> - **1936–1949 — 婴儿动作图式与感觉运动智力的奠基** 对亲生婴儿行为开展精细日常观察，将智力发生追溯至生物适应性动作。
+>   - **代表著作** *La naissance de l'intelligence chez l'enfant* (1936); *La construction du réel chez l'enfant* (1937); *La genèse du nombre chez l'enfant* (with Szeminska, 1941).
+>   - **关键概念／方法** 感觉运动图式、客体永久性、同化与顺应、守恒概念
+>   - **阶段转向** 摆脱言语依赖，将认知的起源从语言前移至个体的身体性动作与客体交互，确立动作是思维发端的生物学与心理学基础。
+> - **1950–1969 — 发生认识论三卷本体系与运算结构形成** 创立日内瓦国际发生认识论中心，系统构建发生认识论的数学逻辑与生物哲学体系。
+>   - **代表著作** *Introduction à l'épistémologie génétique* (3 vols, 1950); *De la logique de l'enfant à la logique de l'adolescent* (with Inhelder, 1955); *Six études de psychologie* (1964).
+>   - **关键概念／方法** [[Epistemology|发生认识论]]、运算结构（群集运算）、四阶段认知发展论（感知运动、前运算、具体运算、形式运算）、平衡化机制
+>   - **阶段转向** 将微观发展心理学升华至广阔的科学哲学与认识论高度，融合逻辑代数、生物控制论与发展心理学，形成宏大发生认识论理论大厦。
+> - **1970–1980 — 生物适应、动态平衡化深化与国际传播** 面对英美认知革命与后结构主义对话，深化自我调节与结构动力学思考。
+>   - **代表著作** *Genetic Epistemology* (1970); *Biologie et connaissance* (1967/1971); *L'équilibration des structures cognitives* (1975).
+>   - **关键概念／方法** [[Constructivist Paradigm|认知建构主义]]、自我调节（Self-regulation）、动态平衡化、认知冲突与超越
+>   - **阶段转向** 进一步强化认识论中的生物系统自我调节属性，阐明新结构如何在认知不平衡的压力下积极涌现，为现代建构主义教育提供终极理论辩护。
 
 ---
 

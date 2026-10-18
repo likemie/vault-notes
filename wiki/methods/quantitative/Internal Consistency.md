@@ -8,7 +8,7 @@ summary: "信度作为内部一致性的形式，衡量多项目量表中各条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

@@ -94,16 +94,23 @@ updated: 2026-10-18
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> | 年份 | 著作 | 核心贡献 | 关联条目 |
-> |:---|:---|:---|:---|
-> | 2003 | *Pragmatism and educational research* (with Burbules) | 系统阐发杜威交易[[Epistemology\|认识论]]，反对将知识视为表征客观外部现实的镜像。 | [[Transactional Epistemology]], [[Pragmatic Paradigm]] |
-> | 2007 | *Why 'what works' won't work* | 首次系统揭示循证教育在价值选择上的民主赤字。 | [[Evidence-Based Education]], [[Deficit Framing]] |
-> | 2010 | *Why 'What Works' Still Won't Work* | 系统阐发循证教育的三重缺陷（认识论、本体论、实践论），提出从循证转向价值本位教育。 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]], [[Value-Based Education]] |
-> | 2010 | *Good education in an age of measurement* | 提出著名的教育目的三维框架（资格化、社会化、主体化），反思指标测量至上主义。 | [[Learnification]], [[Phronesis]] |
-> | 2013 | *Receiving the Gift of Teaching* | 阐发教育中的“被动性”与向他者开放，批判彻底将学习主观自足化的唯我论偏见。 | [[Visible Learning]], [[Argument_Rømer_2018_EPT\|Rømer (2018)]] |
-> | 2017 | *The rediscovery of teaching* | 批判“学习化”对教师角色的降维，重申教学作为中断与启迪的独立教育学价值。 | [[Didaktik]] |
-> | 2022 | *World-centred education: A view for the present* | 转向以世界为中心的教育存在论，强调个体走出自我中心并负责任地立足于世界。 | [[Ontology]] |
+> [!thought-timeline] 思想发展
+> - **1990s–2003 — 实用主义认识论与杜威哲学重构** 与 Nicholas Burbules 合作深入开掘杜威哲学，批判传统表象主义认识论。
+>   - **代表著作** *Pragmatism and educational research* (with Burbules, 2003); *Derrida & Education* (co-edited, 2001).
+>   - **关键概念／方法** [[Transactional Epistemology|交易认识论]]、[[Pragmatic Paradigm|实用主义范式]]、反表象主义、行动与后果
+>   - **阶段转向** 奠定反实证主义的认识论根基，确立知识是行动者与环境互动交易的产物，为后续批判循证教育的线性控制假定提供哲学武器。
+> - **2004–2010 — “什么有效”批判、三重缺陷与三维教育目的论** 正面迎战全球循证教育与新公共管理绩效潮流，系统建构价值本位教育论。
+>   - **代表著作** *Why 'what works' won't work* (2007); *Good education in an age of measurement* (2010); *Why 'What Works' Still Won't Work* (2010, [[Argument_Biesta_2010_SPE|Biesta, 2010]]).
+>   - **关键概念／方法** [[Evidence-Based Education|循证教育]]批判、[[Deficit Framing|三重缺陷框架]]、教育目的三维框架（资格化、社会化、主体化）、[[Value-Based Education|价值本位教育]]、[[Phronesis|实践智慧]]
+>   - **阶段转向** 从认识论探究推进至教育目的论与实践哲学的系统重构，揭示技术官僚测评对教育规范维度的窄化，奠定当代全球教育哲学反思实证主义的基准框架。
+> - **2011–2017 — 批判“学习化”危机与重新发现教学** 聚焦学校教育日常话语中以“学习”取代“教育”的退化，捍卫教师的施教主导权与师生交往的伦理维度。
+>   - **代表著作** *The Beautiful Risk of Education* (2013); *Receiving the Gift of Teaching* (2013); *The Rediscovery of Teaching* (2017).
+>   - **关键概念／方法** [[Learnification|学习化]]、被动性（Passivity）、教学之礼（Gift of Teaching）、教师主体性、中断与启迪
+>   - **阶段转向** 纠正激进以学生为中心与建构主义唯我论偏向，倡导教学是来自外部世界超越个体的“礼物”，重新确立教师在主体生成中的核心地位。
+> - **2018–至今 — 以世界为中心的存在论转向** 走向关注生态危机、民主困境与人类生存处境的以世界为中心教育哲学。
+>   - **代表著作** *Obstinate Education* (2019); *World-Centred Education: A view for the present* (2022).
+>   - **关键概念／方法** [[Ontology|世界中心教育存在论]]、成熟性（Grown-up-ness）、生态责任、抵抗与对话
+>   - **阶段转向** 从教育内部目的论扩展至人与地球、社会的世界性关联，主张教育的核心在于培育能够清醒、成熟且负责任地立足于世界的行动主体。
 
 ---
 

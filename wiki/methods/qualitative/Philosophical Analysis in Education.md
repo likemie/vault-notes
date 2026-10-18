@@ -7,7 +7,7 @@ summary: "通过概念区分、逻辑推理和哲学论证分析教育政策与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -76,7 +76,7 @@ updated: 2026-10-18
 ## 方法定位
 
 > [!method-position] 认识论与方法定位
-> - **知识观** 属于后基础主义（post-foundationalist）批判范式。不追求建立终极确定的经验真理基础，而是通过揭示前提假设与推论链条，澄清“若接受前提 X 则必承受后果 Y”的认识论关联。
+> - **知识观** 属于后基础主义（post-foundationalist）批判范式。该范式聚焦于揭示前提假设与推论链条，澄清“若接受前提 X 则必承受后果 Y”的认识论关联，超越了经验主义对终极真理基础的追求。
 > - **研究者角色** 批判对话者与实践反思促进者。研究者通过审视文本与话语的内在逻辑，协助实践者与政策制定者形成批判性反思意识。
 > - **有效性标准** 论证严密性、逻辑自洽性、概念区分清晰度、解释深度与启发实践抵抗的适切性。
 > - **不声称回答的问题** 不直接提供变量因果效应的经验测量，不提供大规模流行率统计，也不以经验样本分布替代规范价值判断。

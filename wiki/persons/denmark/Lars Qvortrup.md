@@ -83,13 +83,19 @@ updated: 2026-10-18
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> | 年份 | 著作 | 核心贡献 | 关联条目 |
-> |:---|:---|:---|:---|
-> | 2013 | *Læringsteori & Didaktik* (Co-edited with A. Qvortrup) | 系统梳理行为主义学习理论在当代教学论中的演进与界限。 | [[Behaviorism]], [[Didaktik]] |
-> | 2014 | *Synlig læring - for lærere* (Danish Intro with Egelund) | 译介哈蒂著作，将教育理论类比为医学科学，主张以实证效能超越传统思辨。 | [[Visible Learning]] |
-> | 2015 | *Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet* | 承认哈蒂数据偏向表层学习，提出四阶动态知识与学习模型。 | [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]], [[Dynamic Knowledge and Learning Model]] |
-> | 2019 | *Visible learning and its enemies – the missing link* | 运用解释社群概念诊断批评偏误，确立教师专业判断为教学与学习系统联结的枢纽。 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]], [[Professional Judgment]] |
+> [!thought-timeline] 思想发展
+> - **1980s–2005 — 传播学、超复杂社会与卢曼系统论奠基** 将卢曼社会系统理论引入丹麦，研究复杂分化社会中的信息、知识与交往。
+>   - **代表著作** *Det hyperkomplekse samfund* (1998); *Det vidende samfund* (2001).
+>   - **关键概念／方法** 社会系统论、操作封闭、自组织系统、二阶观察
+>   - **阶段转向** 奠定系统论分析范式，将教育理解为现代功能分化社会中独立且自足的操作封闭子系统。
+> - **2006–2014 — 现代教学论整合与《可见的学习》丹麦引介** 系统梳理现代教学论演进，作为核心学术推手将哈蒂实证元分析引入丹麦基础教育。
+>   - **代表著作** *Læringsteori & Didaktik* (with A. Qvortrup, 2013); 《可见的学习：教师版》丹麦语版学术长导言 (with Egelund, 2014).
+>   - **关键概念／方法** [[Visible Learning|可见的学习]]、[[Behaviorism|行为主义]]、[[Didaktik|教学论]]、医学模式类比
+>   - **阶段转向** 主张以实证效能超越传统思辨教学论，倡导以实证证据为基准提升学校效能。
+> - **2015–至今 — 动态知识模型建构与专业判断“缺失环节”辩护** 面对北欧人文与批判学界抨击，主动修正哈蒂数据的表层偏误，依托贝特森与卢曼理论构建动态知识模型并系统辩护可见学习。
+>   - **代表著作** *Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet* (2015, [[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]); *Visible learning and its enemies – the missing link* (2019, [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]).
+>   - **关键概念／方法** [[Dynamic Knowledge and Learning Model|动态知识与学习模型]]、[[Professional Judgment|专业判断]]、[[Structural Coupling|系统结构联结]]、解释社群、多元观察透镜
+>   - **阶段转向** 从早期的经验引介转向基于系统论二阶控制论的高阶认识论辩护；承认效应量偏向表层知识，确立教师专业判断为连接实证证据与情境行动的核心枢纽。
 
 ---
 
