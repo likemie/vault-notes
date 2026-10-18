@@ -580,7 +580,7 @@
     },
     {
       "number": 12,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Popper's Three Worlds Theory",
@@ -633,11 +633,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:51:16.317295+00:00"
     },
     {
       "number": 13,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Behaviorism",
@@ -682,11 +683,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:51:56.160501+00:00"
     },
     {
       "number": 14,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Effect Size",
@@ -727,11 +729,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:52:57.613187+00:00"
     },
     {
       "number": 15,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "John Hattie",
@@ -776,11 +779,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:53:49.608973+00:00"
     },
     {
       "number": 16,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Immanuel Kant",
@@ -823,11 +827,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:56:50.564833+00:00"
     },
     {
       "number": 17,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Robert Glaser",
@@ -869,11 +874,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:57:20.760036+00:00"
     },
     {
       "number": 18,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Lars Qvortrup",
@@ -916,7 +922,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T03:00:19.466675+00:00"
     }
   ]
 }

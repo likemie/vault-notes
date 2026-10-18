@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # John Dewey
@@ -156,7 +156,7 @@ updated: 2026-10-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
+> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育本质上是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
 > 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
 > 
@@ -166,13 +166,13 @@ updated: 2026-10-17
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking|批判性思维]]**
->   思想并非源于[[Rote Learning|死记硬背]]，而是源于动手操作与有目的的实践（doing）。通过在情境中解决具体问题，学习者生成知情决策与批判性思维 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
+>   思想植根于动手操作与有目的的实践（doing）。通过在情境中解决具体问题，学习者生成知情决策与批判性思维 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
 > - **对话与民主经验共享**
 >   批判单向“听讲”带来的被动与吸收状态（Dewey, 1902, p. 32），将对话定义为“共享经验的过程”（Dewey, 1961, p. 9），使学习者摆脱客体地位，成为共同探究者 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
 > - **以自我实现为核心的生长（Growth）**
 >   坚信儿童是起点、中心与终点，否定将社会阶层或科目知识强加于儿童之上；生长本身就是教育的起点、过程与终极标准 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8)]]。
 > - **证据作为问题解决的探究假设（[[Hypothesis|hypotheses]] for Inquiry）**
->   实证数据并不直接包含技术操作指令，而是作为进入具体课堂情境后接受反思与检验的临时假设，必须与教师的专业伦理、实践经验与长远育人目标相融通 [[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]。
+>   实证数据在进入具体课堂情境后作为接受反思与检验的临时假设，必须与教师的专业伦理、实践经验与长远育人目标相融通 [[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]。
 
 > [!contrast-table] 杜威实用主义证据观 vs 技术主义循证教育观多维辨析
 > | 比较维度 | 杜威实用主义证据观（Dewey, 1929; [[Argument_Snook_2009_NZJES\|Snook et al., 2009]]） | 技术官僚主义循证观（批判靶标） |
@@ -187,7 +187,7 @@ updated: 2026-10-17
 ### 案例与论证拆解
 
 > [!case] 案例：杜威的“构建房屋模型”（Building a Model of a House）
-> 在《民主与教育》中，杜威指出推动真正思考的不是[[Rote Learning|死记硬背]]与听讲，而是有目的的“做”（doing）(Dewey 1961, pp. 184–186; Darwish 2009, p. 9)。例如，当学生参与**构建房屋模型**的项目时，他们会在动手建造中主动检索研究、与同伴沟通协商、提出疑问并克服物理与结构困难。这种动手实践将抽象知识与具体经验融为一体，是培养批判性思维与能动主体的典范。
+> 在《民主与教育》中，杜威指出推动真正思考的核心在于有目的的“做”（doing）(Dewey 1961, pp. 184–186; Darwish 2009, p. 9)。例如，当学生参与**构建房屋模型**的项目时，他们会在动手建造中主动检索研究、与同伴沟通协商、提出疑问并克服物理与结构困难。这种动手实践将抽象知识与具体经验融为一体，是培养批判性思维与能动主体的典范。
 
 ---
 
@@ -275,13 +275,14 @@ updated: 2026-10-17
 > > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 >
 > > [!axis] [[Evidence-Based Education|循证教育]]的技术主义挪用与杜威探究假设论的抵抗
-> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了[[Disciplina and Doctrina|规训]]教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。
-
+> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了[[Disciplina and Doctrina|规训]]教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。托马斯·罗默进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
+>
 > [!critique]- 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判政策制定者断章取义截取[[Meta-analysis|元分析]]数据，指出违背杜威探究哲学的粗暴循证会导致一线教师去专业化。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从杜威经验（承受与想象力）与批判性判断力哲学出发，解构可见学习排斥被动性并将其矮化为机械评价的认识论缺陷。
 
 > [!warning] 未解问题与边界
 > 杜威关于“一步一个脚印”的渐进实验建言，在面对制度彻底腐朽或急迫存亡危机时，能否提供足够迅速的现实解决方案，仍是比较教育与政治哲学中持续争论的理论边界。
@@ -307,3 +308,4 @@ updated: 2026-10-17
 > | [[New Education Movement]] | 政策 | 1919–1921年访华讲演直接推动民国新教育运动与1922年新学制改革。 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 引用杜威论断批判《[[Visible Learning\|可见的学习]]》证据被政客异化为行政问责与绩效考核教条。 |
 > | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 论证 | [[John Hattie\|哈蒂]]引述杜威为自身[[Meta-analysis\|元分析]]辩护，强调实证研究旨在为明智探究提供假设。 |
+> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 借助杜威经验（承受/想象力）与判断力哲学，批判可见学习对被动性的偏见及其评价窄化。 |
