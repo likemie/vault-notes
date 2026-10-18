@@ -1,0 +1,85 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "path": {
+            "type": "string",
+            "enum": [
+              "wiki/concepts/educational-policy-reform/Pure Evaluation.md",
+              "wiki/concepts/research-methodology/Variable.md",
+              "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
+            ]
+          },
+          "action": {
+            "type": "string",
+            "enum": [
+              "restructure",
+              "supplement",
+              "unchanged",
+              "blocked"
+            ]
+          },
+          "source_verified": {
+            "type": "boolean"
+          },
+          "sources_read": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "reason": {
+            "type": "string"
+          },
+          "rewrites": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "path",
+          "action",
+          "source_verified",
+          "sources_read",
+          "reason",
+          "rewrites"
+        ]
+      }
+    },
+    "new_exceptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "entry": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "entry",
+          "id"
+        ]
+      }
+    },
+    "unresolved": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "items",
+    "new_exceptions",
+    "unresolved"
+  ]
+}

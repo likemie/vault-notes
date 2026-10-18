@@ -1,0 +1,912 @@
+{
+  "version": 1,
+  "root": "/Users/shaoyangwu/Documents/MyNotes",
+  "created": "2026-10-18T02:17:35.884923+00:00",
+  "argument": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+  "argument_hash": "05f0e39886ed22390e7f6dca1cf0d5d2546b6bace0d0892f908fd163940d8ab4",
+  "batches": [
+    {
+      "number": 1,
+      "status": "blocked",
+      "entries": [
+        {
+          "title": "Visible Learning",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+          "aliases": [
+            "可见的学习"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "School Leadership",
+          "type": "concept",
+          "path": "wiki/concepts/educational-leadership-administration/School Leadership.md",
+          "aliases": [
+            "学校领导力",
+            "学校领导"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Epistemic Stances",
+          "type": "concept",
+          "path": "wiki/concepts/educational-psychology/Epistemic Stances.md",
+          "aliases": [
+            "认识立场",
+            "认识论立场",
+            "适应性认识立场",
+            "Adaptive Epistemic Stances",
+            "Epistemic Stance"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ],
+      "started": "2026-10-18T02:18:15.371697+00:00",
+      "error": "Codex 返回 1；见 /Users/shaoyangwu/Documents/MyNotes/output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-001/execution.log"
+    },
+    {
+      "number": 2,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Epistemology",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Epistemology.md",
+          "aliases": [
+            "认识论",
+            "epistemological assumptions",
+            "认识论假设",
+            "nature of knowledge"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Dependent Variable",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Dependent Variable.md",
+          "aliases": [
+            "因变量",
+            "dependent variables",
+            "outcome variable",
+            "结果变量",
+            "response variable",
+            "criterion variable",
+            "效标变量"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Didaktik",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Didaktik.md",
+          "aliases": [
+            "教学理论",
+            "欧陆教学论"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Category Mistake",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Category Mistake.md",
+          "aliases": [
+            "范畴错误",
+            "范畴谬误",
+            "Category Error",
+            "德甲联赛隐喻",
+            "Bundesliga Metaphor"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Bildung",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Bildung.md",
+          "aliases": [
+            "精神教化",
+            "Character Formation",
+            "Edification of Character"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Technical Rationality",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Technical Rationality.md",
+          "aliases": [
+            "技术理性",
+            "技术理性模型",
+            "Technical-Rational Model",
+            "技术官僚理性",
+            "Technocratic Rationalism",
+            "Technocratic Rationality"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Pure Evaluation",
+          "type": "concept",
+          "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md",
+          "aliases": [
+            "纯粹评价"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Variable",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Variable.md",
+          "aliases": [
+            "变量",
+            "variables"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Constructivist Paradigm",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md",
+          "aliases": [
+            "建构主义",
+            "建构主义范式",
+            "建构主义世界观",
+            "社会建构主义",
+            "social constructivism",
+            "constructivist worldview"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Paradigm",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Paradigm.md",
+          "aliases": [
+            "范式",
+            "paradigms",
+            "Kuhn's paradigm",
+            "研究范式"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Student-Teacher Relationship",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
+          "aliases": [
+            "师生关系",
+            "教师与学生关系",
+            "teacher-student relationship"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Academic Achievement",
+          "type": "concept",
+          "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+          "aliases": [
+            "学业成就",
+            "学业表现",
+            "GPA",
+            "academic performance",
+            "academic average",
+            "学业成绩"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Concept Mapping",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
+          "aliases": [
+            "概念图",
+            "概念地图",
+            "Concept Map",
+            "Concept Maps",
+            "Conceptmapping",
+            "命题网络"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Independent Variable",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Independent Variable.md",
+          "aliases": [
+            "自变量",
+            "independent variables",
+            "predictor variable",
+            "预测变量",
+            "treatment variable",
+            "manipulated variable"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Class Size",
+          "type": "concept",
+          "path": "wiki/concepts/educational-policy-reform/Class Size.md",
+          "aliases": [
+            "班级规模",
+            "班额"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Operationalization",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Operationalization.md",
+          "aliases": [
+            "操作化",
+            "operationalizing research",
+            "研究操作化"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Surface and Deep Learning",
+          "type": "concept",
+          "path": "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
+          "aliases": [
+            "表层学习与深层学习",
+            "表层学习",
+            "深层学习"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Metacognition",
+          "type": "concept",
+          "path": "wiki/concepts/competency-and-assessment/Metacognition.md",
+          "aliases": [
+            "元认知",
+            "元认知监控",
+            "元认知调节",
+            "元认知知识",
+            "元认知指导",
+            "metacognitive",
+            "metacognitive knowledge",
+            "metacognitive regulation",
+            "metacognitive monitoring",
+            "metacognitive instruction"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Theoretical Perspective",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Theoretical Perspective.md",
+          "aliases": [
+            "理论视角",
+            "理论取向",
+            "theoretical orientation"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Discourse",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Discourse.md",
+          "aliases": [
+            "话语",
+            "话语实践",
+            "Discursive Practice",
+            "Discursive Recontextualisation"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Reliability",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Reliability.md",
+          "aliases": [
+            "信度",
+            "dependability",
+            "可依赖性",
+            "可靠性"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Constructivist Instruction",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md",
+          "aliases": [
+            "建构主义教学",
+            "建构主义教学模式",
+            "建构主义教学法",
+            "Constructivist Teaching",
+            "Constructivist Pedagogy"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Heterogeneity",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Heterogeneity.md",
+          "aliases": [
+            "异质性",
+            "研究间异质性"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Learner Autonomy",
+          "type": "concept",
+          "path": "wiki/concepts/competency-and-assessment/Learner Autonomy.md",
+          "aliases": [
+            "学习者自主性",
+            "自主学习",
+            "autonomy in learning",
+            "autonomous learning"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Reflexivity",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Reflexivity.md",
+          "aliases": [
+            "反身性",
+            "反思性",
+            "researcher reflexivity",
+            "研究者反身性",
+            "双重反身性"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Disciplina and Doctrina",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md",
+          "aliases": [
+            "规训与教学",
+            "知识的规训与更新",
+            "disciplina",
+            "doctrina",
+            "规训"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Falsification",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Falsification.md",
+          "aliases": [
+            "证伪主义",
+            "证伪",
+            "falsifiability",
+            "可证伪性",
+            "falsificationism",
+            "severe test"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Central Phenomenon",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Central Phenomenon.md",
+          "aliases": [
+            "核心现象",
+            "central concept",
+            "central idea",
+            "核心范畴",
+            "core category"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Feedback",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
+          "aliases": [
+            "教学反馈"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Radical Constructivism",
+          "type": "theory",
+          "path": "wiki/theories/educational-philosophy/Radical Constructivism.md",
+          "aliases": [
+            "激进建构主义"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Popper's Three Worlds Theory",
+          "type": "theory",
+          "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md",
+          "aliases": [
+            "波普尔三世界理论",
+            "三世界理论",
+            "三个世界理论",
+            "Three Worlds Theory"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Panopticism",
+          "type": "theory",
+          "path": "wiki/theories/educational-philosophy/Panopticism.md",
+          "aliases": [
+            "全景敞视主义",
+            "全景监视理论",
+            "全景敞视建筑",
+            "全景敞视",
+            "panopticon",
+            "panoptic surveillance"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Knowledge Building Theory",
+          "type": "theory",
+          "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md",
+          "aliases": [
+            "知识建构理论",
+            "知识建构",
+            "知识建构教学法",
+            "协作知识建构",
+            "知识建构学派",
+            "Knowledge Building",
+            "Knowledge Building Pedagogy",
+            "Collaborative Knowledge Building"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Behaviorism",
+          "type": "theory",
+          "path": "wiki/theories/learning-science-cognitive-science/Behaviorism.md",
+          "aliases": [
+            "行为主义",
+            "行为主义学习理论",
+            "行为学习理论",
+            "Behaviorist Learning Theory",
+            "操作性条件反射理论"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Meta-analysis",
+          "type": "method",
+          "path": "wiki/methods/quantitative/Meta-analysis.md",
+          "aliases": [
+            "元分析"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Analytic Framework",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Analytic Framework.md",
+          "aliases": [
+            "分析框架",
+            "analytic tradition",
+            "analytic frameworks in qualitative research",
+            "理论分析框架"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Effect Size",
+          "type": "method",
+          "path": "wiki/methods/quantitative/Effect Size.md",
+          "aliases": [
+            "效应量"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Philosophical Analysis in Education",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Philosophical Analysis in Education.md",
+          "aliases": [
+            "教育中的哲学分析",
+            "哲学分析"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Internal Consistency",
+          "type": "method",
+          "path": "wiki/methods/quantitative/Internal Consistency.md",
+          "aliases": [
+            "内部一致性",
+            "内部一致性信度",
+            "internal consistency reliability"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "John Hattie",
+          "type": "person",
+          "path": "wiki/persons/new-zealand/John Hattie.md",
+          "aliases": [
+            "Hattie, J.",
+            "约翰·哈蒂",
+            "哈蒂"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Thomas Aastrup Rømer",
+          "type": "person",
+          "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md",
+          "aliases": [
+            "Rømer, T. A.",
+            "托马斯·奥斯特鲁普·勒默"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Karl Popper",
+          "type": "person",
+          "path": "wiki/persons/uk/Karl Popper.md",
+          "aliases": [
+            "卡尔·波普尔",
+            "Karl R. Popper",
+            "K. R. Popper",
+            "K. Popper",
+            "Sir Karl Popper"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Immanuel Kant",
+          "type": "person",
+          "path": "wiki/persons/germany/Immanuel Kant.md",
+          "aliases": [
+            "Kant, I.",
+            "康德",
+            "伊曼努尔·康德"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Hannah Arendt",
+          "type": "person",
+          "path": "wiki/persons/us/Hannah Arendt.md",
+          "aliases": [
+            "汉娜·阿伦特",
+            "阿伦特"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "John Dewey",
+          "type": "person",
+          "path": "wiki/persons/us/John Dewey.md",
+          "aliases": [
+            "Dewey, J.",
+            "约翰·杜威",
+            "杜威"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Robert Glaser",
+          "type": "person",
+          "path": "wiki/persons/us/Robert Glaser.md",
+          "aliases": [
+            "罗伯特·格拉泽",
+            "格拉泽"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Gert Biesta",
+          "type": "person",
+          "path": "wiki/persons/netherlands/Gert Biesta.md",
+          "aliases": [
+            "Biesta, G.",
+            "格特·比斯塔"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Jean Piaget",
+          "type": "person",
+          "path": "wiki/persons/switzerland/Jean Piaget.md",
+          "aliases": [
+            "Piaget, J.",
+            "让·皮亚杰",
+            "皮亚杰"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "status": "pending",
+      "entries": [
+        {
+          "title": "Lars Qvortrup",
+          "type": "person",
+          "path": "wiki/persons/denmark/Lars Qvortrup.md",
+          "aliases": [
+            "Qvortrup, L.",
+            "拉尔斯·克沃特鲁普"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Socrates",
+          "type": "person",
+          "path": "wiki/persons/greece/Socrates.md",
+          "aliases": [
+            "苏格拉底"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "EU",
+          "type": "fact",
+          "path": "wiki/facts/eu/EU.md",
+          "aliases": [
+            "European Union",
+            "欧洲联盟",
+            "欧盟",
+            "European Community",
+            "欧洲共同体"
+          ],
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    }
+  ]
+}

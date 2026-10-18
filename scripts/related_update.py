@@ -1,11 +1,19 @@
 #!/usr/bin/env python3
-"""Build batches of related-entry review prompts; optionally run Codex serially.
+"""关联条目更新工具：运行后执行输出的任务指令，无须分析或修改本脚本。
 
+当前聊天中的 AI：start "Argument名称"，按输出更新本批条目，保存结果，
+执行 accept，再执行 next，直到全部完成或遇到阻碍。不会启动其他 AI。
+也可直接传入 Argument 名称，等价于 start。
+通用流程不依赖任何 AI 产品、模型、API 或 AI 命令行；由当前具备本地
+文件读写及终端能力的 AI 执行输出指令，任务进度可跨 AI 会话继续。
+
+start ARGUMENT [--out DIR] creates/resumes a job and prints its current task.
 plan ARGUMENT [--batch-size 3] [--out DIR] creates a new, resumable job.
 next JOB prints the first unfinished batch prompt; status JOB shows progress.
 accept JOB validates result.json from a manually executed batch and runs gates.
-run JOB [--all] [--retry] calls codex exec, then independently runs vault gates.
-No AI calls or wiki edits occur during plan/next/status.
+run JOB [--all] [--retry] prints the current task, like next; no AI is launched.
+run-codex JOB [--all] [--retry] is an optional, explicit Codex CLI adapter.
+No AI calls or wiki edits occur during start/plan/next/run/status.
 """
 from __future__ import annotations
 
@@ -16,6 +24,7 @@ import fcntl
 import hashlib
 import json
 import re
+import shlex
 import shutil
 import subprocess
 import sys
@@ -36,6 +45,7 @@ FIELDS = tuple(f"related_{kind}" for kind in (
 TARGET_TYPES = {"concept", "theory", "method", "instrument", "person", "fact"}
 LINK = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
 INSTRUCTIONS = """你正在维护一个教育研究学术知识库。本任务是更新关联条目正文，不是手动刷新 related_* 字段。
+本指令适用于当前会话中的任何 AI，不限定产品、模型或命令行工具。由当前 AI 使用本地文件与终端工具直接完成任务；不需要安装或调用 Codex CLI，也不需要为脚本配置模型 API。
 仅更新 Concept、Theory、Method、Instrument、Person、Fact。排除 related_arguments 及正文中的所有 Argument 目标；Argument 只作为阅读、引用和证据追溯材料，不修改其正文。
 
 先读取 AGENTS.md、vault-schema.md、vault-use.md；用 wiki/index.json 定位条目。读取 wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md 和每个目标类型的最新模板。
@@ -61,7 +71,7 @@ INSTRUCTIONS = """你正在维护一个教育研究学术知识库。本任务�
 - 本批逐项审读，误链和仅提及项必须 unchanged；关联成立但没有新增有效信息的条目也可 unchanged，均须说明具体判断依据，不强行增补或仅为统一格式修改被跳过的条目。
 - 重构前列出现有有效内容及其来源，完成后逐项核对保留情况；明确调整章节与整合的理由。按规范精确修改已有文件。
 - 每项保留页码和完整的文献引用关系。分别报告 restructure、supplement、unchanged 或 blocked，并记录实际读取的来源、原文范围和具体理由。
-- 仅修改本批列出的目标正文及必要的写作例外记录。不要改写指定 Argument、无关条目或本任务的 state.json；生成字段由规范脚本维护。不要提交、推送、启动其他 AI 会话、子代理或递归调用 related_update.py。
+- 仅修改本批列出的目标正文及必要的写作例外记录。不要改写指定 Argument、无关条目或本任务的 state.json；生成字段由规范脚本维护。不要提交、推送、启动其他 AI 会话或子代理。当前聊天执行时，允许按照输出的命令调用 related_update.py 的 accept 和 next 推进本任务；不要调用 run-codex 或其他 AI 命令行启动另一个 AI，也不要递归创建新任务。
 - 不手工维护 related_*、Argument sources、source record extracted_to，不自动运行标准补链/关系同步流程。
 - 有效写作例外静默复用；未匹配的写作用词和否定转折须逐项实质审查，优先准确改写。禁止批量批准 ID 或弱化检查。
 - 结束前依次运行 .venv/bin/python3 scripts/vault_index.py 和 .venv/bin/python3 scripts/vault_lint.py，使用正常增量范围，不限定路径、不压制输出。失败时报告全部未解决项，不声称完成，也不修改无关的并行工作来清零检查。
@@ -199,6 +209,20 @@ def receipt_schema(paths):
     }, "required": ["items", "new_exceptions", "unresolved"]}
 
 
+def prepare_prompt(job, state, batch):
+    """Render the latest instructions without changing the queued target snapshot."""
+    folder = job / f"batch-{batch['number']:03d}"
+    prompt = "这是关联条目更新任务。请直接执行下述审读和更新要求，无须分析或修改 related_update.py。\n\n"
+    prompt += INSTRUCTIONS + f"\n\n指定 Argument：{state['argument']}\n\n本批目标（逐项完成）：\n"
+    for entry in batch["entries"]:
+        prompt += f"- {entry['path']}（{entry['type']}；{entry['title']}）\n"
+    prompt += f"\n本批结果 schema：{folder / 'batch-result.schema.json'}\n"
+    prompt += f"手动在聊天中执行时，将符合 schema 的最终 JSON 保存到：{folder / 'result.json'}\n"
+    (folder / "prompt.md").write_text(prompt, encoding="utf-8")
+    write_json(folder / "batch-result.schema.json", receipt_schema([e["path"] for e in batch["entries"]]))
+    return prompt
+
+
 def plan(args):
     anchor, entries, added = collect(args.argument)
     if not entries:
@@ -212,24 +236,19 @@ def plan(args):
     state = {"version": 1, "root": str(ROOT), "created": stamp(),
              "argument": anchor["path"], "argument_hash": fingerprint(ROOT / anchor["path"]),
              "batches": []}
-    instruction = INSTRUCTIONS
     for start in range(0, len(entries), args.batch_size):
         number = len(state["batches"]) + 1
         batch_entries = entries[start:start + args.batch_size]
         folder = job / f"batch-{number:03d}"
         folder.mkdir()
-        prompt = instruction + f"\n\n指定 Argument：{anchor['path']}\n\n本批目标（逐项完成）：\n"
-        for entry in batch_entries:
-            prompt += f"- {entry['path']}（{entry['type']}；{entry['title']}）\n"
-        prompt += f"\n本批结果 schema：{folder / 'batch-result.schema.json'}\n"
-        prompt += f"手动在聊天中执行时，将符合 schema 的最终 JSON 保存到：{folder / 'result.json'}\n"
-        (folder / "prompt.md").write_text(prompt, encoding="utf-8")
-        write_json(folder / "batch-result.schema.json", receipt_schema([e["path"] for e in batch_entries]))
-        state["batches"].append({"number": number, "status": "pending", "entries": batch_entries})
+        batch = {"number": number, "status": "pending", "entries": batch_entries}
+        prepare_prompt(job, state, batch)
+        state["batches"].append(batch)
     write_json(job / "state.json", state)
     print(f"任务：{job}\n关联条目 {len(entries)} 个，共 {len(state['batches'])} 批；每批最多 {args.batch_size} 个。")
     if added:
         print(f"正文补发现 {added} 个未列入 related_* 的条目（字段可能滞后）；未改写关联字段。")
+    return job
 
 
 def load_job(job):
@@ -261,6 +280,43 @@ def vault_lock():
 def check_argument(state):
     if fingerprint(ROOT / state["argument"]) != state["argument_hash"]:
         raise ValueError("指定 Argument 已改变。请重新生成任务，避免沿用旧目标清单。")
+
+
+def emit_task(job, state):
+    check_argument(state)
+    batch = unfinished(state)
+    if batch is None:
+        print("所有批次已完成。请汇总逐项更新、跳过理由及本次新增批准的写作例外；不要重新执行已完成批次。")
+        return
+    if batch["status"] == "running":
+        raise ValueError("本批已标记为 running；先确认执行器已经停止，再处理现有任务，不要重复启动")
+    print(f"\n当前 AI 会话直接执行（不限产品或模型）· 第 {batch['number']} / {len(state['batches'])} 批\n")
+    print(prepare_prompt(job, state, batch))
+    command = [str(VENV), str(Path(__file__).resolve())]
+    print("\n当前聊天执行流程（已获用户授权的更新任务，无须另开 AI 会话）：")
+    print("1. 现在开始阅读原文和目标条目，依上述要求逐项处理。不要停留在解释脚本或复述计划。")
+    print("2. 将本批所有目标的完整 JSON 结果保存到上面指定的 result.json。")
+    print("3. 保存后运行以下命令校验结果并登记进度：\n" + shlex.join(command + ["accept", str(job)]))
+    print("4. 仅在 accept 退出码为 0 后运行以下命令，并继续执行下一批输出：\n" + shlex.join(command + ["next", str(job)]))
+    print("5. 直到全部完成；遇原文缺失、核验受阻或门禁失败时停止并报告，不跳过未完成批次。")
+
+
+def start_job(args):
+    anchor, _, _ = collect(args.argument)
+    job = (args.out or ROOT / "output/related-updates" / (
+        Path(anchor["path"]).stem + "-" + hashlib.sha256(anchor["path"].encode()).hexdigest()[:8]
+    )).resolve()
+    if job.exists():
+        job, state = load_job(job)
+        if state["argument"] != anchor["path"]:
+            raise ValueError("此任务目录属于另一个 Argument，请指定新的 --out 目录")
+        if any(len(b["entries"]) > args.batch_size for b in state["batches"]):
+            raise ValueError("现有任务批次大于指定 batch-size，请用新的 --out 目录重新生成")
+    else:
+        args.out = job
+        plan(args)
+        job, state = load_job(job)
+    emit_task(job, state)
 
 
 def gates():
@@ -306,6 +362,8 @@ def accept_job(args):
             return
         receipt = job / f"batch-{batch['number']:03d}" / "result.json"
         validate_receipt(read_json(receipt), batch)
+        if batch["status"] == "running":
+            raise ValueError("本批正在运行，不能从另一个会话登记完成")
         gates()
         batch.update(status="done", finished=stamp())
         batch.pop("error", None)
@@ -313,7 +371,8 @@ def accept_job(args):
         print(f"第 {batch['number']} 批通过检查。")
 
 
-def run_job(args):
+def run_codex_job(args):
+    """Optional CLI adapter; never used by the provider-neutral chat workflow."""
     with vault_lock():
         job, state = load_job(args.job)
         check_argument(state)
@@ -325,6 +384,7 @@ def run_job(args):
             if batch["status"] != "pending" and not args.retry:
                 raise ValueError(f"第 {batch['number']} 批状态为 {batch['status']}；核对日志后用 --retry 继续")
             folder = job / f"batch-{batch['number']:03d}"
+            prepare_prompt(job, state, batch)
             receipt = folder / "result.json"
             if receipt.exists():
                 receipt.rename(folder / ("result-" + dt.datetime.now().strftime("%Y%m%d-%H%M%S-%f") + ".json"))
@@ -359,24 +419,43 @@ def run_job(args):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     commands = parser.add_subparsers(dest="command", required=True)
-    create = commands.add_parser("plan", help="生成清单和分批指令，不调用 AI")
-    create.add_argument("argument", help="Argument 标题或完整路径")
-    create.add_argument("--batch-size", type=int, default=3)
-    create.add_argument("--out", type=Path)
-    for command in ("next", "status", "run", "accept"):
-        sub = commands.add_parser(command)
+    for name, help_text in (("start", "当前聊天执行：生成或续接任务，直接输出本批完整指令"),
+                            ("plan", "仅生成清单和分批指令，不调用 AI")):
+        create = commands.add_parser(name, help=help_text)
+        create.add_argument("argument", help="Argument 标题或完整路径")
+        create.add_argument("--batch-size", type=int, default=3)
+        create.add_argument("--out", type=Path)
+    for command in ("next", "status", "run", "accept", "run-codex"):
+        help_text = {"run": "通用 AI 会话执行：输出本批指令，不启动任何 AI CLI",
+                     "run-codex": "可选适配器：明确使用 Codex CLI 自动执行"}.get(command)
+        sub = commands.add_parser(command, help=help_text)
         sub.add_argument("job", type=Path)
-        if command == "run":
-            sub.add_argument("--all", action="store_true", help="串行执行全部剩余批次，遇错停止")
-            sub.add_argument("--retry", action="store_true", help="重试首个未完成批次，保留旧结果")
-    args = parser.parse_args()
+        if command in {"run", "run-codex"}:
+            sub.add_argument("--all", action="store_true", help=("串行执行全部剩余批次，遇错停止" if command == "run-codex"
+                             else "兼容参数；输出指令由当前 AI 按 accept / next 流程继续执行"))
+            sub.add_argument("--retry", action="store_true", help=("重试首个未完成批次，保留旧结果" if command == "run-codex"
+                             else "兼容参数；由当前 AI 复查首个未完成批次，不启动外部执行器"))
+    argv = sys.argv[1:]
+    if not argv:
+        print('请直接执行任务，不必分析本脚本。当前聊天中的 AI 应根据用户指定的 Argument 运行：')
+        print('适用于任何具备本地文件读写及终端能力的 AI；不依赖 Codex CLI 或模型 API。')
+        print(shlex.join([str(VENV), str(Path(__file__).resolve()), "start", "Argument名称或完整路径"]))
+        print('然后按输出逐批更新条目，保存 result.json，通过 accept 后执行 next，直到完成。')
+        print('若上下文没有明确的 Argument，请只询问需要处理哪篇文献。使用 --help 查看其他命令。')
+        return 0
+    if argv[0] not in {"start", "plan", "next", "status", "run", "accept", "run-codex"} and not argv[0].startswith("-"):
+        argv = ["start", *argv]
+    args = parser.parse_args(argv)
     try:
-        if args.command == "plan":
+        if args.command in {"start", "plan"}:
             if args.batch_size < 1:
                 raise ValueError("batch-size 必须至少为 1")
-            plan(args)
-        elif args.command == "run":
-            run_job(args)
+            if args.command == "start":
+                start_job(args)
+            else:
+                plan(args)
+        elif args.command == "run-codex":
+            run_codex_job(args)
         elif args.command == "accept":
             accept_job(args)
         else:
@@ -386,10 +465,8 @@ def main():
                     print(f"{batch['number']:03d} {batch['status']}: " + ", ".join(e["title"] for e in batch["entries"]))
                     if batch.get("error"):
                         print("    " + batch["error"])
-            elif (batch := unfinished(state)) is not None:
-                print((job / f"batch-{batch['number']:03d}" / "prompt.md").read_text(encoding="utf-8"))
             else:
-                print("所有批次已完成。")
+                emit_task(job, state)
     except (ValueError, OSError, KeyError, TypeError, yaml.YAMLError) as error:
         print(f"错误：{error}", file=sys.stderr)
         return 1
