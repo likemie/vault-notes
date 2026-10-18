@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Ontology
@@ -76,9 +76,9 @@ updated: 2026-10-16
 >
 > *Is social reality external to individuals – imposing itself on their consciousness from without – or is it the product of individual consciousness? Is reality of an objective nature, or the result of individual cognition? Is it a given ‘out there’ in the world, or is it created by one’s own mind? These questions spring directly from what philosophy terms the nominalist-realist debate.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 认识论（Epistemology） 本体论关注客体实在的存在性质（在的方式）；认识论关注主体认识实在的合理性依据与[[Evidence Standards\|证据标准]]（知的方式）。
-> - 不等于 自然实在论（Physical Realism） 社会科学本体论聚焦于社会组织、人际互动与制度建构的社会本体，绝非自然物理实体在物理机械层面的简单还原。
+> - 不等于 自然实在论（Physical Realism） 社会科学本体论聚焦于社会组织、人际互动与制度建构的社会本体，立足主体间意义与文化制度的涌现属性，区别于自然物理实体在机械因果层面的物理还原。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **[[Ontology\|本体论（Ontology）]]** | 实在的本质是什么？现象以何种形式存在？ | 客观实体 vs 主观建构 vs 动态[[Emergence\|涌现]] | 探究现象的本体性质，决定[[Epistemology\|认识论]]进路 |
 > | **[[Epistemology\|认识论（Epistemology）]]** | 知识是什么？我们如何获得可靠知识？ | 观察测度 vs 意义阐发 vs 实践效用 | 确立有效知识判准，指引方法论设计 |
-> | **[[Axiology\|价值论（Axiology）]]** | 探究的目的是什么？何为有价值的认知？ | 价值立场、研究旨趣与政治福祉 | 位于最高层级，统摄整个研究的价值承诺 |
+> | **[[Axiology\|价值论（Axiology）]]** | 探究的目的是什么？何为有价值的认知？ | 价值立场、研究旨趣与政治福祉 | 位于基础导向层级，规范引导整个研究的价值承诺 |
 
 ---
 
@@ -98,9 +98,10 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **实在论极（Realism）** [[Objectivism\|客观主义]]本体论基础，坚信外部世界独立于知觉者而存在，社会现象具有硬性客观规律，强加于个体意识之上（Burrell & Morgan, 1979）。
 > - **[[Nominalism\|唯名论]]与观念论极（Nominalism & Idealism）** [[Subjectivism\|主观主义]]本体论基础，主张概念仅是人类指称现象的语言标签，所谓的社会现实全赖个体意识在情境中的赋予与建构（Greenfield, 1975）。
-> - **组织作为发明的实在（Invented Reality）** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）指出学校与组织绝非具有客观意志与生命周期的独立实体，而是人类行动者持续发明的社会实在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。
+> - **组织作为发明的实在（Invented Reality）** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）指出学校与组织是人类行动者基于特定价值信念持续发明的社会实在，破除了将组织视为拥有客观意志与独立生命周期的实体假设[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。
 > - **动态[[Emergence\|涌现]]的复杂实在（Emergent Reality）** [[Complexity Theory\|复杂性理论]]确立社会实在处于永恒生成之中，呈现非线性、自组织与不可还原的系统共生属性（Kuhn, 2007）。
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
+> - **具身存在的现象学本体论（Embodied Process Ontology）** 现象学与身体哲学强调，人作为“身处世界之身体中的大脑”（brain-in-the-body-in-the-world）处于向生活世界敞开的动态生成过程之中，拒绝被还原为孤立的客体实体或可测量的认知公分母[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–6)]]。
 
 > [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid
@@ -161,7 +162,7 @@ updated: 2026-10-16
 > 探讨教育组织究竟是具有独立意志的超个体实体，还是人类主体[[Co-invention|共同发明]]的社会实在。
 
 > [!claim] Greenfield
-> **组织作为发明的实在** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）颠覆了传统管理学将组织视为外在实体客体的实体主义本体论。在诠释社会实在的替代基础中，他指出世界虽然客观存在，但不同的人以极其不同的方式去感知和解释它；学校与组织绝非独立于个体存在的生物有机体或结构实体，而是人类行动者基于特定价值信念发明的社会实在（Greenfield, 1975）。将组织视为拥有自身目标与生命周期的硬质实体，必然导致组织病理学的误诊；唯有认识到组织本体是人类主观意义的[[Externalization\|外化]]，才能找到学校真正变革的实践处方[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。
+> **组织作为发明的实在** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）颠覆了传统管理学将组织视为外在实体客体的实体主义本体论。在诠释社会实在的替代基础中，他指出世界虽然客观存在，但不同的人以极其不同的方式去感知和解释它；学校与组织是人类行动者基于特定价值信念创造与维系的社会实在（Greenfield, 1975），不能简单等同于独立于个体存在的生物有机体或客体实体。将组织视为拥有自身目标与生命周期的硬质实体，必然导致组织病理学的误诊；唯有认识到组织本体是人类主观意义的[[Externalization\|外化]]，才能找到学校真正变革的实践处方[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **[[Paradigm\|研究范式]]基石** | 本体论预设（实在论 vs 唯名论）先导决定认识论与方法论路径。 | 探究设计、范式抉择与元理论反思。 | Burrell & Morgan; Cohen et al. |
 > | **个体心智认知** | 学习者对知识属性的心智分类（简单性与确定性）制约概念转变。 | 学习科学、认知发展与教学干预。 | Greene et al. |
-> | **微观组织实在** | 组织绝非客观实体，而是行动者主观意义与价值发明的建构实在。 | 教育行政、组织理论与学校制度变革。 | Greenfield; Cohen et al. |
+> | **微观组织实在** | 组织是行动者主观意义与价值发明的建构实在，而非具有超个体意志的客体。 | 教育行政、组织理论与学校制度变革。 | Greenfield; Cohen et al. |
 
 ---
 
@@ -208,7 +209,8 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism\|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm\|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与现象学划分经验认识论与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。
 
