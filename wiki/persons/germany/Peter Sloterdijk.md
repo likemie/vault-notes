@@ -8,6 +8,10 @@ summary: "德国当代哲学家与文化理论家，卡尔斯鲁厄设计学院�
 type: person
 nationality: germany
 person_region: "germany"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1947"
 died: ""
 lifespan: "1947–至今"
@@ -18,20 +22,16 @@ tags:
   - critical-theory/surveillance
   - region/germany
 related_concepts:
-  - "[[Panopticism]]"
   - "[[Bildung]]"
   - "[[Visible Learning]]"
-  - "[[Category Mistake]]"
-  - "[[Discourse]]"
 related_theories:
   - "[[Panopticism]]"
-  - "[[Critical Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Friedrich Nietzsche]]"
-  - "[[Martin Heidegger]]"
   - "[[Steen Nepper Larsen]]"
+  - "[[Friedrich Nietzsche]]"
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -50,7 +50,7 @@ updated: 2026-10-18
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代哲学家、文化理论家、散文家，卡尔斯鲁厄设计学院哲学与美学教授及前校长。
 > - **核心角色** 二十世纪末至二十一世纪欧陆哲学与文化批评最具辨识度的思想家之一，开创微观与宏观共存的“球体空间学”（Spherology）以及反思人类生存修行的“人类技术学”（Anthropotechnics）。
-> - **代表贡献** 提出《犬儒理性批判》（*Kritik der zynischen Vernunft*）；在《后上帝时代》（*Nach Gott*）中解构神学全知穿透演化为西方世俗现代性**恒常监视（Dauerbeobachtung）**与**强迫自我省察（Zwang zur Selbstbeobachtung）**的权力谱系；在《你必须改变你的生活》中论述作为苦修与练习系统（Übungssysteme）的自我形塑。
+> - **代表贡献** 提出《犬儒理性批判》（*Kritik der zynischen Vernunft*）；在《后上帝时代》（*Nach Gott*）中解构神学全知穿透演化为西方世俗现代性**恒常监视（Dauerbeobachtung）** 与**强迫自我省察（Zwang zur Selbstbeobachtung）** 的权力谱系；在《你必须改变你的生活》中论述作为苦修与练习系统（Übungssysteme）的自我形塑。
 
 > [!citation-card] 斯蒂恩·内佩尔·拉森论斯洛特戴克解构神学凝视与自我监控谱系
 > 彼得·斯洛特戴克在《后上帝时代》（2017）中解构了西方追求穿透内在心灵的视觉技术谱系。这套源自早期教父奥古斯丁神圣全知全能的修辞，在西方历史中催生了来自上方的恒常监视（Dauerbeobachtung）以及内化于主体心中的强迫自省（Zwang zur Selbstbeobachtung），并最终在现代教育测度体制中被完全世俗化接管。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]
@@ -85,7 +85,7 @@ updated: 2026-10-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 西方文明对人类内在心智透明度的执着追求，承袭了神学中全知全能上帝（*omnes videndes*）穿透个体深处灵魂的神圣凝视传统。在世俗化与管理理性推进中，这种神权凝视被移交给行政规划者与现代算法测度体制，将学校与教育机构异化为由“恒常监视”（Dauerbeobachtung）与“强迫自我省察”（Zwang zur Selbstbeobachtung）构成的双重规训机器；真正的教育与自我形塑（[[Bildung]]）绝非使心灵成为被考核的透明数据，而是通过面向未知世界的身体练习（Übung）实现对异化力量的超越。
+> 西方文明对人类内在心智透明度的执着追求，承袭了神学中全知全能上帝（*omnes videndes*）穿透个体深处灵魂的神圣凝视传统。在世俗化与管理理性推进中，这种神权凝视被移交给行政规划者与现代算法测度体制，将学校与教育机构异化为由“恒常监视”（Dauerbeobachtung）与“强迫自我省察”（Zwang zur Selbstbeobachtung）构成的双重规训机器；真正的教育与自我形塑（[[Bildung]]）旨在通过面向未知世界的身体练习（Übung）实现对异化力量的超越，超越了使心灵沦为被考核透明数据的控制逻辑。
 
 > [!citation-card] 斯洛特戴克论恒常监视与自我审视的权力技术
 > 现代教育对学生思维透明度的狂热执念，深植于西方试图解读人类内心世界的视觉控制技术谱系之中。神学上的绝对全视凝视催生了无孔不入的外部恒常监视，并迫使个体将审判目光投向自己，在无休止的自我剖白与数据汇报中丧失了精神的从容与自由。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]

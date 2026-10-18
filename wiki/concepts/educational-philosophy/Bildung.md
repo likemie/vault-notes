@@ -7,7 +7,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 71
+related_count: 70
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -48,26 +48,27 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
-  - "[[Historical-Philosophical-Cultural Motif]]"
-  - "[[Educational Meliorism]]"
   - "[[Phenomenon-Based Learning]]"
-  - "[[Going Native]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
+  - "[[Didaktik]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Stability vs. Variability Dilemma]]"
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
+  - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Robert Ulich]]"
   - "[[René Descartes]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Reinhart Koselleck]]"
   - "[[Steen Nepper Larsen]]"
+  - "[[Ewald Terhart]]"
   - "[[Dietrich Benner]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
@@ -79,8 +80,6 @@ related_persons:
   - "[[David Held]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Niklas Luhmann]]"
-  - "[[Oskar Anweiler]]"
-  - "[[Wolfgang Mitter]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -167,14 +166,15 @@ updated: 2026-10-18
 
 ## 核心要素
 
-教化在个体生命成长、[[Epistemology|认识论]]结构与制度文明防御上包含五大支柱：
+教化在个体生命成长、[[Epistemology|认识论]]结构与制度文明防御上包含六大支柱：
 
 > [!feature] 核心要素
 > - **非目的论的开放生长与“自我—世界”交互** 在无法预先规划终点的情况下，个体通过与生活世界及其中对象的深度交互，实现非预设性的人格形塑与生命体验。
-> - **关系性的三维结构** 教化包含三个内在维度：自我与自身的关系（自我反思）、自我与他者的关系（主体间性与社会责任）、以及与世界的关系。这一结构构成了评估数字化治理是否压制教化空间的[[Analytic Framework\|分析框架]]。[[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, p. 246)]]
-> - **去中心化的惊奇与练习** 引导学生超越自我的封闭镜像，通过与外在未知事物的严肃遭遇产生惊奇感，实现认知与情感的去中心化（Decentring），获得超越外在要求的自决勇气。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, pp. 8–9)]]
-> - **时代关切与社会批判解放性** 经典教化理论（如 Klafki）要求课程围绕生态、不平等、地缘冲突等[[Epochal Key Problems\|时代关键问题]]展开，赋予个体抵抗新自由主义工具化改造的批判性社会责任感。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 6–7)]]
-> - **以人为中心的文明防线（Anthropocentric Episteme）** 将对人（*Anthropos*）的整全教化确立为比较教育的灵魂基石，抵制将学校降格为技术官僚机器的人文学术屏障。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> - **关系性的三维结构** 教化包含三个内在维度：自我与自身的关系（自我反思）、自我与他者的关系（主体间性与社会责任）、以及与世界的关系。这一结构构成了评估数字化治理是否压制教化空间的[[Analytic Framework|分析框架]]。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, p. 246)]]
+> - **去中心化的惊奇与练习** 引导学生超越自我的封闭镜像，通过与外在未知事物的严肃遭遇产生惊奇感，实现认知与情感的去中心化（Decentring），获得超越外在要求的自决勇气。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
+> - **制度免疫与抵制平庸** 历史语义学家[[Reinhart Koselleck|赖因哈特·科塞勒克]]（Koselleck, 2006）指出，教化是个体在面对教育体制时，坚定拒绝被系统愚弄、变短视和过度顺从的批判性实践。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
+> - **时代关切与社会批判解放性** 经典教化理论（如 Klafki）要求课程围绕生态、不平等、地缘冲突等[[Epochal Key Problems|时代关键问题]]展开，赋予个体抵抗新自由主义工具化改造的批判性社会责任感。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 6–7)]]
+> - **以人为中心的文明防线（Anthropocentric Episteme）** 将对人（*Anthropos*）的整全教化确立为比较教育的灵魂基石，抵制将学校降格为技术官僚机器的人文学术屏障。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!logic-map]- 教化概念的多维认识论结构与防线
 > ```mermaid

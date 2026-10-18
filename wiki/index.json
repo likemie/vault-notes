@@ -8970,6 +8970,18 @@
     ]
   },
   {
+    "title": "Participatory Sense-Making",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Participatory Sense-Making.md",
+    "aliases": [
+      "参与式意义建构",
+      "生成主体间性",
+      "Enactive Intersubjectivity",
+      "Mutual Incorporation",
+      "相互具身"
+    ]
+  },
+  {
     "title": "Prefrontal Cortex",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Prefrontal Cortex.md",
@@ -23762,6 +23774,26 @@
     ]
   },
   {
+    "title": "Peter Sloterdijk",
+    "type": "person",
+    "path": "wiki/persons/germany/Peter Sloterdijk.md",
+    "aliases": [
+      "彼得·斯洛特戴克",
+      "斯洛特戴克",
+      "Sloterdijk, P."
+    ]
+  },
+  {
+    "title": "Reinhart Koselleck",
+    "type": "person",
+    "path": "wiki/persons/germany/Reinhart Koselleck.md",
+    "aliases": [
+      "赖因哈特·科塞勒克",
+      "科塞勒克",
+      "Koselleck, R."
+    ]
+  },
+  {
     "title": "Saul B. Robinsohn",
     "type": "person",
     "path": "wiki/persons/germany/Saul B. Robinsohn.md",
@@ -23780,6 +23812,15 @@
       "西格丽德·哈通",
       "哈通",
       "Hartong, S."
+    ]
+  },
+  {
+    "title": "Thomas Fuchs",
+    "type": "person",
+    "path": "wiki/persons/germany/Thomas Fuchs.md",
+    "aliases": [
+      "托马斯·福克斯",
+      "Fuchs, T."
     ]
   },
   {

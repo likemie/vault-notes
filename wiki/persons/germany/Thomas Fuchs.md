@@ -7,6 +7,10 @@ summary: "德国精神病学家与哲学家，海德堡大学卡尔·雅斯贝�
 type: person
 nationality: germany
 person_region: "germany"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1958"
 died: ""
 lifespan: "1958–至今"
@@ -17,22 +21,16 @@ tags:
   - cognitive-science/enactivism
   - region/germany
 related_concepts:
-  - "[[Ecology of the Brain]]"
   - "[[Neuromyth]]"
-  - "[[Incarnation-Extension Dialectics]]"
   - "[[Participatory Sense-Making]]"
-  - "[[Phenomenology]]"
-  - "[[Category Mistake]]"
-  - "[[Bildung]]"
+  - "[[Incarnation-Extension Dialectics]]"
 related_theories:
   - "[[Ecology of the Brain]]"
-  - "[[Phenomenology]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[Edmund Husserl]]"
-  - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -76,8 +74,8 @@ updated: 2026-10-18
 
 > [!work-line] 主要著作
 > - **2006 — *Neuromythologien: Mutmaßungen über die Bewegkräfte der Hirnforschung*** 剖析神经科学狂热背后的哲学硬伤，指出试图通过脑成像图谱直接定位心智属于典型的范畴错误。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 5)]]
-> - **2009 — *Das Gehirn—ein Beziehungsorgan: Eine phänomenologisch-ökologische Konzeption*** 首次系统确立大脑并非封闭中央处理器，而是具身机体与环境、自我与他者之间进行双向循环中介的“关系器官”。
-> - **2009 — *Enactive Intersubjectivity: Participatory Sense-Making and Mutual Incorporation*（与 Hanne De Jaegher 合著）** 提出生成主体间性与参与式意义建构理论，论证人际理解发生在动态身体交互的耦合过程中。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
+> - **2009 — *Das Gehirn—ein Beziehungsorgan: Eine phänomenologisch-ökologische Konzeption*** 首次系统确立大脑作为“关系器官”，在具身机体与环境、自我与他者之间扮演双向循环中介角色，突破了孤立中央处理器的传统假设。
+> - **2009 — *Enactive Intersubjectivity: Participatory Sense-Making and Mutual Incorporation*（与 Hanne De Jaegher 合著）** 提出生成主体间性与参与式意义建构理论，论证人际理解发生在面对面身体动态协调的交互过程中。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 > - **2018 — *Ecology of the Brain: The Phenomenology and Biology of the Embodied Mind*** 整合身体现象学、动力系统理论与神经生物学，全面构建生命、机体、大脑与生态环境融为一体的脑生态学体系。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 
 ---
@@ -85,7 +83,7 @@ updated: 2026-10-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 大脑绝非制造意识表征的孤立中央计算机，而是生命机体与世界进行双向生态耦合的“关系器官”（Organ of Relations）。意识与学习不能被还原为神经元微观突触的放电反应，而是整个鲜活生命在真实环境中的具身行动（Embodied Action）；任何试图以脑扫描和神经指标遥控教育与人类意义建构的努力，均犯了混淆物理基质与生存体验的范畴错误。
+> 将大脑界定为生命机体与世界进行双向生态中介的“关系器官”（Organ of Relations）。意识与学习根植于鲜活生命在真实环境中的具身行动（Embodied Action），无法直接还原为神经元微观突触的放电反应；试图以脑扫描和神经指标遥控教育与人类意义建构的努力，混淆了物理机制与存在体验。
 
 > [!citation-card] 大脑作为关系器官与反抗神经还原论
 > 脑中正在发生的过程绝不可能在指标化范式中被直接描摹。思考远不止于学习，而学习亦远不止于可观察的行为指标。大脑并不会自己去上学——走向学校的是完整的、具身的、处于真实情境中思考的人。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 5–6)]]
@@ -97,7 +95,7 @@ updated: 2026-10-18
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了 4E 认知科学（Embodied, Embedded, Enacted, Extended）与欧陆胡塞尔—梅洛-庞蒂身体现象学的融合，为批判当代神经狂热（Neuro-hype）提供了最严密的理论框架。
+> - **理论路径** 推进了 4E 认知科学（Embodied, Embedded, Enacted, Extended）与欧陆胡塞尔—梅洛-庞蒂身体现象学的融合，为批判当代神经狂热（Neuro-hype）提供了严密的学理框架。
 > - **教育哲学路径** 成为斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等批判教育学家重构教学本体论的基石，启发了“具身化—延展辩证法”，抵御将教学降维为脑测验指标的绩效主义改革。
 > - **主体间性研究** 与德耶格尔提出的参与式意义建构（[[Participatory Sense-Making]]），深远改变了发展心理学、教育交往论与自闭症交互机制的解释范式。
 
@@ -134,7 +132,7 @@ updated: 2026-10-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Ecology of the Brain]] | 理论 | 创立生命机体、大脑与环境动态耦合的脑生态学理论。 |
+> | [[Ecology of the Brain]] | 理论 | 创立生命机体、大脑与环境动态交互的脑生态学理论。 |
 > | [[Participatory Sense-Making]] | 概念 | 共同提出主体间具身互动与协同意义生成的认知框架。 |
 > | [[Neuromyth]] | 概念 | 系统揭示将心智与教育粗暴还原为脑区扫描指标的哲学谬误。 |
 > | [[Incarnation-Extension Dialectics]] | 概念 | 为拉森重构具身化与向外延展的双向循环提供了本体论依托。 |

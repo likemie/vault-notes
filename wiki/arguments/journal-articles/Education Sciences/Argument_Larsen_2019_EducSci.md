@@ -45,27 +45,23 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Metacognition]]"
   - "[[Operationalization]]"
-  - "[[Commensuration]]"
-  - "[[Heterogeneity]]"
-  - "[[Champ]]"
+  - "[[Neuromyth]]"
   - "[[Pedagogical Subject]]"
+  - "[[Reform Pedagogy]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Learnification]]"
+  - "[[Participatory Sense-Making]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Reflexivity]]"
   - "[[Academic Achievement]]"
   - "[[Blind Spot in Observation]]"
-  - "[[Neuromyth]]"
-  - "[[Reform Pedagogy]]"
-  - "[[Participatory Sense-Making]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Ecology of the Brain]]"
-  - "[[Cognitive Capitalism]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Critical Theory]]"
-  - "[[Panopticism]]"
+  - "[[Ecology of the Brain]]"
+  - "[[Cognitive Capitalism]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Effect Size]]"
@@ -76,18 +72,18 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
   - "[[Thomas Fuchs]]"
-  - "[[Peter Sloterdijk]]"
-  - "[[Reinhart Koselleck]]"
   - "[[Immanuel Kant]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Friedrich Nietzsche]]"
+  - "[[Peter Sloterdijk]]"
   - "[[Andreas Schleicher]]"
   - "[[John Dewey]]"
   - "[[Wolfgang Klafki]]"
+  - "[[Reinhart Koselleck]]"
 related_facts:
   - "[[PISA]]"
-  - "[[OECD]]"
   - "[[Danish Public School Reform]]"
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[sources/Larsen_2019_EducSci|Larsen_2019_EducSci]]"
@@ -111,7 +107,7 @@ updated: 2026-10-18
 > [!concept-lens] 阅读透镜
 > - **对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）确立的可见学习范式、丹麦哥本哈根中小学现场的标语化实践、2014 年丹麦基础教育改革近三千项学习目标[[Disciplina and Doctrina|规训]]，以及国际组织所主导的循证绩效评估体制。（pp. 1–3）
 > - **张力** 狭隘评价[[Positivism|实证主义]]追求即时、透明、数字化的视觉中心主义，与[[Phenomenology|现象学]]存在性时间、脑神经具身复杂性、主体精神自由及规范性教化传统之间的深层冲突。（pp. 3–9）
-> - **贡献** 构建起融合[[Niklas Luhmann|卢曼]]社会系统论盲点概念、托马斯·福克斯（Thomas Fuchs）生态身体现象学、马克思商品二重性分析及德意志[[Geisteswissenschaften|精神科学]]教化传统的系统批判框架，确立了盲视作为教育观看必然构成的认识论反思公理。（pp. 4–10）
+> - **贡献** 构建起融合[[Niklas Luhmann|卢曼]]社会系统论盲点概念、[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）生态身体现象学、马克思商品二重性分析及德意志[[Geisteswissenschaften|精神科学]]教化传统的系统批判框架，确立了盲视作为教育观看必然构成的认识论反思公理。（pp. 4–10）
 
 ---
 
@@ -122,9 +118,9 @@ updated: 2026-10-18
 > |---|---|
 > | **卢曼二阶观察与盲点学说**<br>[[Luhmann's Systems Theory]] | 引入观察者在观察时无法看见自身的盲点（blinder Fleck）公理，揭示可见学习[[Paradigm\|范式]]在自诩客观全视时陷入先验的[[Epistemology\|认识论]]盲视。（pp. 4–5, p. 10） |
 > | **德意志教化与精神科学传统**<br>[[Bildung]] / [[Geisteswissenschaften]] | 承继洪堡、赫尔德、[[Immanuel Kant\|康德]]、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]、施莱格尔、[[Friedrich Nietzsche\|尼采]]、伽达默尔效果历史与[[Critical Theory\|批判理论]]脉络，确立教化作为自足、自主且抵抗被工具化的终极目的。（pp. 8–10） |
-> | **生态身体现象学与具身认知**<br>[[Phenomenology]] / [[Ecology of the Brain]] | 汲取托马斯·福克斯（Thomas Fuchs）将[[Ecology of the Brain\|大脑视为关系器官]]（Beziehungsorgan）与无中心指挥管弦乐队的生态学生物学构想，瓦解神经还原论公分母迷思。（pp. 4–6, p. 10） |
+> | **生态身体现象学与具身认知**<br>[[Phenomenology]] / [[Ecology of the Brain]] | 汲取[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）将[[Ecology of the Brain\|大脑视为关系器官]]（Beziehungsorgan）与无中心指挥管弦乐队的生态学生物学构想，瓦解神经还原论公分母迷思。（pp. 4–6, p. 10） |
 > | **政治经济学与认知资本主义**<br>[[Critical Theory]] / [[Cognitive Capitalism]] | 调动卡尔·马克思（Karl Marx）商品二重性分析与扬·穆利耶·布唐（Yann Moulier Boutang）[[Cognitive Capitalism\|认知资本主义理论]]，剖析学习从反抗性词汇异化为劳动力交换价值润滑剂的历程。（pp. 7–9） |
-> | **文化诠释学与全视凝视谱系**<br>文化批判哲学 | 借助彼得·斯洛特戴克（Peter Sloterdijk）对奥古斯丁全知全视上帝的世俗化剖析，揭示现代测评、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）与算法治理作为视觉监控技术的深层神学渊源。（p. 7） |
+> | **文化诠释学与全视凝视谱系**<br>文化批判哲学 | 借助[[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）对奥古斯丁全知全视上帝的世俗化剖析，揭示现代测评、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）与算法治理作为视觉监控技术的深层神学渊源。（p. 7） |
 
 > [!warrant] 理论如何支撑论证
 > 科学哲学与欧陆现象学充当解构实证评价神话的核心支点。通过区分经验探究的[[Epistemology|认识论]]条件与人类存在的[[Ontology|本体论]]根基，指认可见学习范式误将研究者所构造的有限外在指标等同于学习者丰富的生活世界；进一步调动[[Niklas Luhmann|卢曼]]的系统分化理论，阐明心理系统与社会沟通系统因各自遵循独立理性而无法实现透明透视；最终依托身体现象学中的具身化-延展辩证法，将学习重新锚定在肉身化存在与向生活世界意义敞开的双向运动之中，完成了对技术官僚化学习[[Disciplina and Doctrina|规训]]的超越。（pp. 3–10）
@@ -146,7 +142,7 @@ updated: 2026-10-18
 > |---|---|
 > | **实地田野与政策样本** | 丹麦哥本哈根北部 Gentofte 的公立基础学校 Maglegård 学校外墙巨大标语；[[Danish Public School Reform|2014 年丹麦基础教育改革方案]]（包含近 3,000 项国家法定细化学习目标）。（pp. 1–2） |
 > | **可见学习经典文本** | 约翰·哈蒂 2009 年奠基著作《[[Visible Learning\|可见的学习]]》、哈蒂与耶茨 2014 年《可见的学习与学习科学》、哈蒂与齐勒 2017 年《可见学习的十个心智框架》、哈蒂 2012 年《教师版可见学习》、拉森与哈蒂 2019 年未发表直接学术对话录。（pp. 2–7） |
-> | **跨[[Discipline-Based Theory\|学科理论]]语料** | [[Niklas Luhmann\|尼克拉斯·卢曼]]《社会的社会》与《社会的教育系统》；托马斯·福克斯《[[Ecology of the Brain\|大脑生态学]]：具身心智的现象学与生物学》；奥古斯丁《忏悔录》第三卷与斯洛特戴克《后上帝时代》；马克思《资本论》第一卷；2018 年 10 月哥本哈根[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国际会议[[Andreas Schleicher\|施莱歇尔]]主旨报告。（pp. 3–10） |
+> | **跨[[Discipline-Based Theory\|学科理论]]语料** | [[Niklas Luhmann\|尼克拉斯·卢曼]]《社会的社会》与《社会的教育系统》；[[Thomas Fuchs|托马斯·福克斯]]《[[Ecology of the Brain\|大脑生态学]]：具身心智的现象学与生物学》；奥古斯丁《忏悔录》第三卷与[[Peter Sloterdijk|斯洛特戴克]]《后上帝时代》；马克思《资本论》第一卷；2018 年 10 月哥本哈根[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国际会议[[Andreas Schleicher\|施莱歇尔]]主旨报告。（pp. 3–10） |
 
 ---
 
@@ -280,7 +276,7 @@ updated: 2026-10-18
 
 > [!proc] 视觉控制技术的演变：从神圣凝视到算法测度
 > 1. **神学起点：全知全能上帝的绝对穿透** 北非早期教父圣奥古斯丁在《忏悔录》第三卷中提出著名命题：上帝审视我，比我审视内心更为幽深，上帝居于我之顶巅更崇高之处（*interior intimo meo, superior summo meo*）。（p. 7）
-> 2. **权力机制：持续凝视与强迫自我审判** 彼得·斯洛特戴克（Peter Sloterdijk）在《后上帝时代》中解构该传统，指出这套神学修辞催生了来自上方的恒常监视（Dauerbeobachtung）与内化于心的强迫自省（Zwang zur Selbstbeobachtung）。（p. 7）
+> 2. **权力机制：持续凝视与强迫自我审判** [[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）在《后上帝时代》中解构该传统，指出这套神学修辞催生了来自上方的恒常监视（Dauerbeobachtung）与内化于心的强迫自省（Zwang zur Selbstbeobachtung）。（p. 7）
 > 3. **世俗化转移：从神职代行到管理理性** 伴随世俗化进程，全知全视（*omnes videndes*）的神权被移交给启蒙时代的规划师、统计官僚与政治家。（p. 7）
 > 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、学生幸福感指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所异化为数据规训工厂。（p. 7）
 
@@ -328,7 +324,7 @@ updated: 2026-10-18
 > - **抵制平庸的自觉反思** 教化是拒绝被平庸制度化系统愚弄（renunciation to be made stupid）的自觉实践，通过持续的探究演练拉开与粗鄙武断言行的距离。（pp. 8–9）
 > - **陶冶之镜与去中心化艺术** 破除镜中自恋的封闭停滞，如果个体在陶冶之镜（mirror of formation）中只能看到自己作为功利战略行动者的倒影，自我生成就会陷入僵死；教师的核心天职在于周复一周、年复一年引导学生走向镜外广阔的未知世界。（p. 9）
 
-作为替代可见学习的崭新本体论框架，具身化-延展辩证法确立了主体的生成结构。
+作为替代可见学习的崭新本体论框架，具身化-延展辩证法确立了主体的生成结构。拉森汲取托马斯·福克斯（[[Thomas Fuchs]]）与德耶格尔的[[Participatory Sense-Making|参与式意义建构]]（Participatory Sense-Making）理论，论证课堂教学本质上是师生主体间不可割裂的相互具身交互，超越了外部单向监控的测量范式。（p. 10）
 
 > [!dimension] 具身化与向外延展（[[Incarnation-Extension Dialectics]]）
 > - **身心肉身化维度**
@@ -343,7 +339,7 @@ updated: 2026-10-18
 > [!concept-lens] 德意志教化（Bildung）的育人视角
 > - **含义** 源于《圣经·创世记》人依上帝形象（Bild）受造的神学渊源，在世俗教育学中演化为生命个体的精神自足陶成，具备类似艺术与爱的内在终极目的。（pp. 8–9）
 > - **用途** 瓦解镜中自恋的封闭停滞，引导学生突破即时利益计算与实用狭隘性；教师的核心天职在于周复一周、年复一年培育学生走向未知客观世界的去中心化艺术。（p. 9）
-> - **边界** 历史语义学家赖因哈特·科塞勒克（Reinhart Koselleck）指出，教化是拒绝被平庸教育系统愚弄的持续修行，坚决抵御量化形式化建模的侵蚀。（pp. 8–9）
+> - **边界** 历史语义学家[[Reinhart Koselleck|赖因哈特·科塞勒克]]（Reinhart Koselleck）指出，教化是拒绝被平庸教育系统愚弄的持续修行，坚决抵御量化形式化建模的侵蚀。（pp. 8–9）
 
 ---
 
