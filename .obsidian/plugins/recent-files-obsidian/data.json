@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Knudsen_2017_NordSTEP",
+      "path": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md"
+    },
+    {
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
+      "basename": "Argument_Eacott_2019_IJLE",
+      "path": "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Eacott_2019_IJLE.md"
+    },
+    {
+      "basename": "Argument_Kratsios_2026_OSTP",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     },
@@ -33,10 +49,6 @@
       "path": "wiki/concepts/science-policy/Tilting the Playing Field.md"
     },
     {
-      "basename": "Argument_Knudsen_2017_NordSTEP",
-      "path": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md"
-    },
-    {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
@@ -51,14 +63,6 @@
     {
       "basename": "Academic Freedom",
       "path": "wiki/concepts/higher-education/Academic Freedom.md"
-    },
-    {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
-    },
-    {
-      "basename": "Argument_Eacott_2019_IJLE",
-      "path": "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Eacott_2019_IJLE.md"
     },
     {
       "basename": "Argument_Larsen_2019_EducSci",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Nielsen_2021_NordPsych",
       "path": "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
-    },
-    {
-      "basename": "Constructivist Paradigm",
-      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
     }
   ],
   "omittedPaths": [],
