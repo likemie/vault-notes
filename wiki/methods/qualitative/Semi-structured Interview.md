@@ -135,4 +135,5 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol\|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 107)]] — 在[[OECD\|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire\|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 9–11)]] — 在英格兰、格拉斯哥与汉堡选取 9 所学校的校长做 1 小时半结构化访谈，探究[[School Leadership\|学校领导]]者在不同治理背景下获取与使用证据的渠道和约束。
+> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 围绕“可见的学习”在丹麦等地的本土化翻译、专营培训脚本化、理论与实证张力及多重学术-商业角色，通过跨国远程半结构化访谈对[[John Hattie\|约翰·哈蒂]]（John Hattie）展开同行深度质询与反思性考察。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在[[Semiconductor Research Corporation|SRC]]单机构[[Case Study|案例研究]]中访谈 19 名总裁、主管、成员企业代表与受资助学者，考察[[University-Industry Collaboration|产学合作]]联合体的决策与治理特征。
