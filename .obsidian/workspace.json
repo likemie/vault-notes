@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+                "file": "wiki/concepts/research-methodology/Central Phenomenon.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Rømer_2018_EPT"
+              "title": "Central Phenomenon"
             }
           }
         ],
@@ -260,8 +260,11 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
-    "wiki/concepts/research-methodology/Central Phenomenon.md",
     "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+    "wiki/persons/us/Robert Glaser.md",
+    "wiki/concepts/educational-policy-reform/Pure Evaluation.md",
+    "wiki/persons/netherlands/Gert Biesta.md",
+    "wiki/concepts/research-methodology/Central Phenomenon.md",
     "wiki/persons/denmark/Lars Qvortrup.md",
     "wiki/persons/switzerland/Jean Piaget.md",
     "wiki/templates/template-person.md",
@@ -293,9 +296,6 @@
     "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-010/prompt.md",
     "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-009/prompt.md",
     "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-008/prompt.md",
-    "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-007/prompt.md",
-    "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-006/prompt.md",
-    "output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-005/prompt.md",
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.png",
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.jpg",
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig1_Grade_Distribution.png",

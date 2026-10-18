@@ -200,7 +200,7 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > [!concept-lens] 跨国等值与指标治理
 > 在大规模跨国教育测评中，追求跨国统计信度与可比性的治理机制，往往系统性压制对教育本体论多样性与本土情境效度的关照。
 
-> [!claim] Rizvi & Lingard (2009)
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **信度优先压制构念效度与本体多样性** 在大规模跨国教育测评与国家统考框架中，技术官僚对工具“信度与跨国可比性”的追求往往系统性压倒了对“构念效度与教育本体论多样性”的坚守。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）在开发[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）时，首要目标是依据[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）所谓的“等值空间”（space of equivalence）构建跨国统一[[Scale of Measurement|测量尺度]]。为确保数以百万计跨越不同母语、文化传统与课程制度的学生在同一量表上产生统计一致性，心理测量学家优先筛选具有高统计信度的脱域化试题；凡是深深植根于本土历史文化脉络、富含高阶批判思辨或具有本体论[[Heterogeneity|异质性]]的教学内容，因无法满足[[Item Response Theory|项目反应理论]]的跨国等值拟合而被系统剔除。这种操作以牺牲教育测量的实质效度为代价换取了统计信度，使跨国排名的科学中立表象彻底掩盖了指标建构背后的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
@@ -210,7 +210,7 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > [!concept-lens] 测量逻辑与效度层级
 > 信度与效度构成分离但有层级梯度的测量要求，一致性是真实性的基础前提，但无法单独保证测量对象的针对性与有效性。
 
-> [!claim] Cohen et al. (2011)
+> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > **信度是效度的必要非充分条件** 信度是效度的必要前提（necessary precondition, sine qua non），而效度可能是信度的充分但非必要条件。这一逻辑关系意味着：一项研究可以高度可靠（稳定一致）但无效（测量了错误的对象），但一项有效的研究必须以可靠为前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 157)]]
 
 ---
@@ -220,14 +220,14 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨国指标治理命题** | 跨国等值空间中信度优先压制构念效度与本土多样性 | 大规模跨国教育测评与国家统考设计 | Rizvi & Lingard (2009) |
-> | **测量逻辑命题** | 信度构成效度的必要非充分条件，高信度不保证高真实性 | 量化与质性实证工具开发与效度论证 | Cohen et al. (2011) |
+> | **跨国指标治理命题** | 跨国等值空间中信度优先压制构念效度与本土多样性 | 大规模跨国教育测评与国家统考设计 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
+> | **测量逻辑命题** | 信度构成效度的必要非充分条件，高信度不保证高真实性 | 量化与质性实证工具开发与效度论证 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 
 ---
 
 ## 争议与批评
 
-> [!debate] 信度学术争议与认识论交锋
+> [!debates] 信度学术争议与认识论交锋
 >
 > > [!axis] 跨国统计信度优先 vs 构念效度与本土文化本体论
 > > 围绕跨国标准化评估为了达成统计信度与机械可比性，是否不可避免地牺牲了教育测量的真实效度与文化多样性展开交锋。

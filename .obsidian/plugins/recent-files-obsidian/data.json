@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Central Phenomenon",
+      "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
+    },
+    {
       "basename": "Argument_Rømer_2018_EPT",
       "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
     },
     {
-      "basename": "Central Phenomenon",
-      "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
+      "basename": "Robert Glaser",
+      "path": "wiki/persons/us/Robert Glaser.md"
+    },
+    {
+      "basename": "Pure Evaluation",
+      "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md"
+    },
+    {
+      "basename": "Gert Biesta",
+      "path": "wiki/persons/netherlands/Gert Biesta.md"
     },
     {
       "basename": "Lars Qvortrup",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
-    },
-    {
-      "basename": "Argument_Wecker_2016_ZfE",
-      "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
-    },
-    {
-      "basename": "Fixed-Effect Model",
-      "path": "wiki/methods/quantitative/Fixed-Effect Model.md"
-    },
-    {
-      "basename": "Standard Error",
-      "path": "wiki/methods/quantitative/Standard Error.md"
     }
   ],
   "omittedPaths": [],

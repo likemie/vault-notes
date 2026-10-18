@@ -75,6 +75,19 @@ updated: 2026-10-18
 
 ---
 
+## 概念辨析
+
+> [!contrast-table] 因[[Variable\|变量]] vs [[Independent Variable\|自变量]]
+> | 维度 | 因变量 | [[Independent Variable\|自变量]] |
+> |---|---|---|
+> | **角色** | 输出（outcome），结果 | 输入（input），原因 |
+> | **操纵方式** | 被观察和测量，不被操纵 | 被主动操纵或选择 |
+> | **[[Causality\|因果]]位置** | 后果（presumed effect） | 前因（presumed cause） |
+> | **研究设计中的处理** | 通过[[Pre-test and Post-test\|前测]]和后测测量其变化 | 控制、隔离、操纵其水平 |
+> | **示例** | 考试成绩、康复速度、阅读能力 | 教学方法、药物剂量、课程时长 |
+
+---
+
 ## 核心要素
 
 > [!feature] 因[[Variable\|变量]]的关键属性
@@ -87,19 +100,6 @@ updated: 2026-10-18
 在[[Pretest-Posttest Control Group Design|前后测控制组设计]]中，因果效应被量化为实验组前后测差异减去控制组前后测差异，即 $(E_1 - E_2) - (C_1 - C_2)$，其中后测测量的是因变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）。
 
 因变量的[[Operationalization|操作化]]质量是[[External Validity|外部效度]]的关键威胁之一。若因变量的操作性定义不充分，测量结果便会偏离目标[[Construct|构念]]，进而导致整个研究的结论指向错误的对象。在 Shevington 语言教学研究中，因缺乏足够难度的标准化阅读测验作为后测，不得不自行编制测验且未提供信效度信息，这引入了工具化威胁（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 336–337]]）。
-
----
-
-## 概念辨析
-
-> [!contrast-table] 因[[Variable\|变量]] vs [[Independent Variable\|自变量]]
-> | 维度 | 因变量 | [[Independent Variable\|自变量]] |
-> |---|---|---|
-> | **角色** | 输出（outcome），结果 | 输入（input），原因 |
-> | **操纵方式** | 被观察和测量，不被操纵 | 被主动操纵或选择 |
-> | **[[Causality\|因果]]位置** | 后果（presumed effect） | 前因（presumed cause） |
-> | **研究设计中的处理** | 通过[[Pre-test and Post-test\|前测]]和后测测量其变化 | 控制、隔离、操纵其水平 |
-> | **示例** | 考试成绩、康复速度、阅读能力 | 教学方法、药物剂量、课程时长 |
 
 ---
 
@@ -117,6 +117,10 @@ updated: 2026-10-18
 
 > [!claim] [[Thomas Aastrup Rømer|Rømer, T. A.]]
 > **评价综合中的因变量概念混淆与因果关系反转** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）以《[[Visible Learning|可见的学习]]》二阶元分析为典型案例指出，在大规模量化综合中，因变量往往面临双重效度危机：一方面，研究者将“学业成就测验（achievement）”、“认知结果（learning outcomes）”与多维复杂的“学习（learning）”构念笼统混并为单一效应指标，忽视底层上千项原始研究在因变量界定上的巨大异质性，导致因变量的实体效度无法明确；另一方面，狭隘评价导向的因变量反向界定了自变量（教学）——教学脱离了具有独立专业特性的原因变量地位，被单向还原为任何能提高因变量效应量的技术手段，使得自变量反向依存于因变量，在方法论上颠覆了因果实证研究的单向逻辑。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–7)]]
+
+---
+
+### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -163,5 +167,5 @@ updated: 2026-10-18
 > | [[Academic Achievement]] | 概念 | 实证教育因果研究中最常见的终端因变量类型。 |
 > | [[Visible Learning]] | 概念 | 因将多维学习因变量窄化为测验分数并反向规训自变量而遭遇批判的模型。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]] | 论证 | 系统阐述实验研究中因变量测量、敏感性与内部效度关系的教科书论述。 |
-> | [[Argument_Rømer_2018_EPT]] | 论证 | 批判可见学习因变量构念混淆及其导致因果反转的哲学论文。 |
+> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判可见学习因变量构念混淆及其导致因果反转的哲学论文。 |
 
