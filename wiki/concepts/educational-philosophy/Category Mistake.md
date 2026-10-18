@@ -195,22 +195,8 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统构建德甲联赛隐喻与四大教育本体范畴，从范畴错误与[[Incommensurability|不可通约性]]高度批判《[[Visible Learning|可见的学习]]》单一有效性排行榜。
 > - Ryle (1949) — 奠基性哲学著作《心的概念》，首创范畴错误理论，解构[[René Descartes|笛卡尔]]身心二元论实体化谬误。
 > - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的系统批判谱系，涵盖范畴错误、统计失范与可见性[[Disciplina and Doctrina|规训]]等六大批评维度。
 
----
-
-## 条目关联
-
-> [!entry-map]
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Incommensurability]] | 概念 | 范畴错误在方法学上的核心体现，指基线与时长异质的干预指标无法通约。 |
-> | [[Commensuration]] | 概念 | 将性质迥异的教育要素折算为单一效应量数值尺度的量化操作过程。 |
-> | [[Visible Learning]] | 概念 | 建立跨范畴效应量排行榜并因此遭遇范畴错误严厉批判的代表性模型。 |
-> | [[Critiques of Visible Learning]] | 概念 | 梳理针对可见学习的方法学、统计学与范畴错误批判的综合条目。 |
-> | [[Critical Realism]] | 理论 | 强调实在的分层与多维机制、批判经验主义平面化还原的哲学理论。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 提出德甲联赛隐喻并系统揭示可见学习排行榜四大不可通约范畴的论文。 |

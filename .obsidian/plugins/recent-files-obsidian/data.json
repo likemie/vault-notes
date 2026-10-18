@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vault-schema",
+      "path": "vault-schema.md"
+    },
+    {
       "basename": "Argument_Larsen_2019_EducSci",
       "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Glitz_2020_AmEconRev",
       "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AmEconRev.md"
-    },
-    {
-      "basename": "Argument_Manitius_vanHolt_2019_BzS",
-      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
     }
   ],
   "omittedPaths": [],

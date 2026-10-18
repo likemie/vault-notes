@@ -124,7 +124,7 @@ updated: 2026-10-16
 >
 > *The second set of assumptions identified by Burrell and Morgan (1979) are of an epistemological kind. These concern the very bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings. How one aligns oneself in this particular debate profoundly affects how one will go about uncovering knowledge of social behaviour. The view that knowledge is hard, objective and tangible will demand of researchers an observer role, together with an allegiance to the methods of natural science; to see knowledge as personal, subjective and unique, however, imposes on researchers an involvement with their subjects and a rejection of the ways of the natural scientist. To subscribe to the former is to be positivist; to the latter, anti-positivist or post-positivist.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 本体论（Ontology） 本体论探讨客体实在的存在本质（在的方式）；认识论关注主体认识实在并确立真理的依据与证据法则（知的方式）。
 > - 不等于 方法论（Methodology） 认识论确立有效知识的理论标准；方法论是落实该[[Epistemic Ideals|认识论标准]]的系统研究策略与操作程序。
 > - 不等于 实质性知识（Substantive Knowledge） 认识论聚焦于关于知识的元认知与元理论结构（来源、确定性与辩护），而非特定学科领域的具体事实与定理内容。
@@ -138,7 +138,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **[[Ontology\|本体论（Ontology）]]** | 实在的本质是什么？现象以何种形式存在？ | 客观实体 vs 主观建构 vs 动态[[Emergence\|涌现]] | 探究现象的本体性质，决定认识论进路 |
 > | **[[Epistemology\|认识论（Epistemology）]]** | 知识是什么？我们如何获得可靠知识？ | 观察测度 vs 意义阐发 vs 实践效用 | 确立有效知识判准，指引方法论设计 |
-> | **[[Axiology\|价值论（Axiology）]]** | 探究的目的是什么？何为有价值的认知？ | 价值立场、研究旨趣与政治福祉 | 位于最高层级，统摄整个研究的价值承诺 |
+> | **[[Axiology\|价值论（Axiology）]]** | 探究的目的是什么？何为有价值的认知？ | 价值立场、研究旨趣与政治福祉 | 位于最高层级，规范引导整个研究的价值承诺 |
 
 ---
 
@@ -149,7 +149,8 @@ updated: 2026-10-16
 > - **[[Objectivism|客观主义]]认识论极（Objectivism / [[Positivism]]）** 坚信知识是硬性的、客观的、可累积且外在于知觉者的，要求研究者扮演中立抽离的观察者角色，严密遵循自然科学的实验控制与测量规程（Burrell & Morgan, 1979）。
 > - **[[Subjectivism|主观主义]]认识论极（Subjectivism / [[Interpretive Paradigm|anti-positivism]]）** 坚信知识是个人化的、主观体验的与情境独特的，要求研究者深度介入生活世界，通过主客观共情分享行动者的内在参照框架（Beck, 1979）。
 > - **[[Pragmatic Paradigm|实用主义]]认识论支柱（Pragmatism）** 以“适应目的”（[[Fitness for Purpose]]）与效用即真理为准则，打破量质认识论的机械隔阂，协同整合数值测度与叙事[[Rich and Thick Description|深描]]（Onwuegbuzie & Leech, 2005a）。
-> - **观察的理论与价值负载（Theory-Ladenness & Value-Ladenness）** [[Postpositivism|后实证主义]]确立[[Observation Method|科学观察]]绝非纯粹客观之镜，所有经验事实均内嵌先验概念与价值假定，知识具有可错性（Phillips & Burbules, 2000）。
+> - **观察的理论与价值负载（Theory-Ladenness & Value-Ladenness）** [[Postpositivism|后实证主义]]确立[[Observation Method|科学观察]]受理论与预设渗透，所有经验事实均内嵌先验概念与价值假定，知识具有可错性（Phillips & Burbules, 2000）。
+> - **认识论与存在论的范畴界限（Epistemological vs. Ontological Boundaries）** 认识论处理“知道关于某事物的条件”，属于科学认识的理论判准；人类存在的本体论基础（如学生在世界之中的存在、具身情境与情感）在逻辑上先于科学认识论。教育研究若将动态生成的生命存在降维还原为静态的分数、效应量或评价陈述等认识论指标，容易造成存在论视角的盲视。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–5)]]
 > - **主客观双维协调（Coordination of Knowing Dimensions）** 在个体心智认知中，成熟认识论经历绝对论（客观主导）→多元论（主观主导）→评价论（主客协调）的三次重构，实现基于证据与批判论证的理性判断[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
@@ -184,7 +185,7 @@ updated: 2026-10-16
 > 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的刚性规约。
 
 > [!claim] Cohen et al.
-> **范式背后的认识论反思与进路规约** 研究规划绝非机械的技术拼装，而是取决于支撑它的认识论假设。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，必然要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则必然拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
+> **范式背后的认识论反思与进路规约** 研究规划由底层的认识论假设所奠定。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
 
 > [!feature] 经典范式与认识论映射谱系
 > - **[[Positivism\|实证主义]]** 知识源自对客观外在现象的系统观察、测量与假设检验，追求普适性因果规律。
@@ -214,7 +215,7 @@ updated: 2026-10-16
 > 将认识论视为个体心智可发展的[[Metacognition\|元认知]]能力，探讨其在不同[[Areas of Knowledge\|知识领域]]的演进机制与宽容陷阱。
 
 > [!claim] Kuhn et al.
-> **跨领域的反转序列与宽容陷阱** 认识论在个体心智中的成熟并非随生理年龄自然发育，而是个体对认知主客观维度进行持续协调的发展成果。主观性的觉醒（由绝对论向多元论转变）最早萌发于个人品味和审美领域，而客观评估标准的重新整合（向评价论转变）则高度依赖于物理与社会事实领域的实证逻辑，由此引发认知序列的反转。在这一历程中，未受系统反思训练的成年人极易陷入“宽容陷阱”，误将对多元视角的宽容等同于“所有观点与论断都具有相同的有效性”，从而深陷彻底相对主义的泥潭，阻碍个体迈向以证据检验与论证辩护为基石的高阶[[Epistemological Understanding\|认识论理解]]（评价论）[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319-326)]]。
+> **跨领域的反转序列与宽容陷阱** 认识论在个体心智中的成熟是个体对认知主客观维度进行持续协调的发展成果，依赖专门的认知反思训练。主观性的觉醒（由绝对论向多元论转变）最早萌发于个人品味和审美领域，而客观评估标准的重新整合（向评价论转变）则高度依赖于物理与社会事实领域的实证逻辑，由此引发认知序列的反转。在这一历程中，未受系统反思训练的成年人极易陷入“宽容陷阱”，误将对多元视角的宽容等同于“所有观点与论断都具有相同的有效性”，陷入彻底相对主义，阻碍个体迈向以证据检验与论证辩护为基石的高阶[[Epistemological Understanding\|认识论理解]]（评价论）[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319-326)]]。
 
 ---
 
@@ -224,10 +225,10 @@ updated: 2026-10-16
 > 探讨认识论如何从技术性的真理判准拓展为反思 19 世纪社会科学欺骗性前提的智识抗争，以及求真与追求正义社会的价值同构。
 
 > [!claim] Wallerstein & Arnove
-> **作为认识论抗争的[[World-Systems Theory|世界体系分析]]** 知识生产绝非脱离历史现实与权力关系的抽象真理游戏。伊曼纽尔·[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）深刻指出，世界体系分析在本质上并非一套僵化的实证理论，而是一场“针对被忽视议题与欺骗性认识论的反抗”（a protest against neglected issues and deceptive epistemologies）；它向整个社会科学界发出智识变革的召唤，要求学者彻底反思并“抛弃”（unthinking）19 世纪欧洲社会科学确立的主流未加反思的前提假设（如机械的现代性发展阶段论、国家中心主义及事实与价值的虚假中立）。沃勒斯坦坚信，知识探究作为一项智识任务，必然且同时是一项政治任务——在认识论底层，“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）本质上是同一项不可分割的事业。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
+> **作为认识论抗争的[[World-Systems Theory|世界体系分析]]** 知识生产植根于具体的历史现实与权力关系。伊曼纽尔·[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）指出，世界体系分析将自身定位为一场“针对被忽视议题与欺骗性认识论的反抗”（a protest against neglected issues and deceptive epistemologies）；它向整个社会科学界发出智识变革的召唤，要求学者彻底反思并抛弃（unthinking）19 世纪欧洲社会科学确立的主流前提假设（如机械的现代性发展阶段论、国家中心主义及事实与价值的虚假中立）。沃勒斯坦主张，知识探究作为一项智识任务，同时是一项政治任务——在认识论层面，“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）是同一项不可分割的事业。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
 
 > [!citation-card] 沃勒斯坦论世界体系分析的认识论抗争属性
-> 世界体系分析并不是一套理论，而是针对被忽视的议题和欺骗性认识论的一场反抗。这是一项智识变革的召唤，要求我们反思 19 世纪社会科学的基本前提……这是一项智识任务，同时也必须是一项政治任务，因为——我始终坚信——探寻真理与追求正义社会本质上是同一项事业。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
+> 世界体系分析是一场针对被忽视议题和欺骗性认识论的反抗，旨在超越传统理论建构。这是一项智识变革的召唤，要求我们反思 19 世纪社会科学的基本前提……这是一项智识任务，同时也必须是一项政治任务，因为——我始终坚信——探寻真理与追求正义社会本质上是同一项事业。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
 >
 > *world-systems analysis is not a theory but a protest against neglected issues and deceptive epistemologies... It is a call for intellectual change, indeed for 'unthinking' the premises of nineteenth-century social science... It is an intellectual task that has to be a political task as well, because – I insist – the search for the true and the search for the good is but a single quest.*
 
@@ -242,7 +243,7 @@ updated: 2026-10-16
 > **唯方法论主义对客观确定性神话的实质解构** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]深入剖析指出，战后经验实证化风潮在社会探究中催生了严重的“唯方法论主义（Methodologism）”偏误：误认为存在通行一切领域的单一通用方法，以为只要照搬[[Multiple Regression|多元回归]]、跨国标准化调查与[[Variable|变量]][[Operationalization|操作化]]规程就能自动产出科学真理。唯方法论主义错误地将方法工具混同于实质认识论真理，抽离了教育所植根的历史文化土壤，使实证指标极易异化为国家五年计划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
 
 > [!claim] Kazamias, A. M.
-> **[[Protean Episteme|普罗透斯式认识体系]]的四重代际演进与历史底座的不可替代性** 卡扎米亚斯以比较教育学两百年史学史为镜鉴论证指出，跨学科探究本质上是一门多学科交叉的广义[[Geisteswissenschaften|精神科学]]，表现为随时代风尚不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）”。学科历经启蒙准科学、历史-哲学文化主义、战后经验实证科学化以及批判冲突范式四大代际演进，表明认识论绝非先验封闭的静态架构，而是与社会宏观政治和价值关怀深度共生的动态母体。卡扎米亚斯借助期刊元研究计量数据进一步诊断出：战后实证学派对历史维度的系统性驱逐，使学科在世纪之交陷入了空前的“[[Historical Amnesia|历史健忘症]]（Historical Amnesia）”。唯有打破方法拜物教，将严谨的实证分析重新锚定在扎实的历史考据与情境理解之上，社会探究方能保有其健全的认识论生命力与批判关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 155–156)]]
+> **[[Protean Episteme|普罗透斯式认识体系]]的四重代际演进与历史根基的不可替代性** 卡扎米亚斯以比较教育学两百年史学史为镜鉴论证指出，跨学科探究本质上是一门多学科交叉的广义[[Geisteswissenschaften|精神科学]]，表现为随时代风尚不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）”。学科历经启蒙准科学、历史-哲学文化主义、战后经验实证科学化以及批判冲突范式四大代际演进，表明认识论是与社会宏观政治和价值关怀深度共生的动态母体。卡扎米亚斯借助期刊元研究计量数据进一步诊断出：战后实证学派对历史维度的系统性驱逐，使学科在世纪之交陷入了空前的“[[Historical Amnesia|历史健忘症]]（Historical Amnesia）”。唯有打破方法拜物教，将严谨的实证分析重新锚定在扎实的历史考据与情境理解之上，社会探究方能保有其健全的认识论生命力与批判关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 155–156)]]
 
 ---
 
@@ -309,27 +310,12 @@ updated: 2026-10-16
 
 ---
 
-## 条目关联
-
-> [!entry-map]
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Protean Episteme]] | 概念 | 比较教育学作为普罗透斯式认识体系，生动表征了跨学科知识形态随时代思潮流变演进的认识论特征。 |
-> | [[Geisteswissenschaften]] | 概念 | 德语精神科学传统为社会与教育探究提供独立于自然科学[[Empiricism\|经验论]]的核心认识论合法性。 |
-> | [[Positivism]] | 概念 | [[Objectivism\|客观主义]]认识论的核[[Flow\|心流]]派，主张经验证实、规律预测与事实价值二分。 |
-> | [[Postpositivism]] | 概念 | 确立观察的理论与价值负载，以可错论打破传统实证主义客观神话。 |
-> | [[Epistemological Understanding]] | 概念 | 认识论在个体认知维度的[[Operationalization\|操作化]][[Construct\|构念]]，经历绝对论、多元论向评价论的三阶演进。 |
-> | [[Andreas Kazamias]] | 人物 | 提出普罗透斯式认识体系，批判唯方法论主义并以文献计量数据诊断[[Historical Amnesia\|历史健忘症]]危机。 |
-> | [[Immanuel Wallerstein]] | 人物 | 提出[[World-Systems Theory\|世界体系分析]]是对欺骗性认识论的反抗，主张求真与求善的认识论同构。 |
-> | [[Deanna Kuhn]] | 人物 | 建立个体认识论协调发展的阶段模型，实证检验认知反转序列与宽容陷阱。 |
-
----
-
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 从认知发展与教育心理学视角，将认识论[[Operationalization|操作化]]为个体心智中的“[[Epistemological Understanding|认识论理解]]”，实证揭示了主客观协调的演进机制与[[Domain Specificity|领域特殊性]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于[[World-Systems Theory|世界体系分析]]作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与[[Empiricism|唯方法论主义]]弊端，以期刊计量数据诊断学科面临的[[Historical Amnesia|历史健忘症]]危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从存在论与认识论的边界出发批判可见学习范式，强调认识论关乎关于某物的认知条件，不能替代或降维还原先于科学的人类存在论根基，警告教育科学莫将动态生命成长狭隘简化为实证分数或效应量指标（pp. 4–5）。
+

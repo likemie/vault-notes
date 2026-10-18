@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Paradigm
@@ -95,7 +95,7 @@ updated: 2026-10-17
 > - **用途** 帮助研究者透视不同学派在知识生产背后的哲学假定，解释为何不同研究传统面对同一教育现象会得出根本对立的结论，并揭示跨历史时期的理论更迭机制。
 > - **边界** 范式不等于具体的“研究方法”或个别“理论”，也不应被简化为技术性的工具选择；它代表的是整套先验的世界观与评价标准。
 
-> [!citation-card] 关键表述：范式作为共享的世界观与共同体身份
+> [!citation-card] 范式作为共享的世界观与共同体身份
 > 范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的问题解决方案，以及一种比其竞争对手更容易被接受的理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *A paradigm is a way of looking at or researching phenomena, a world view, a view of what counts as accepted or correct scientific knowledge or ways of working, an 'accepted model or pattern' (Kuhn, 1962: 23), a shared system of beliefs or set of principles, a shared consensus, identity for a community of researchers, a way of pursuing knowledge, consensus on what problems are to be investigated and how such investigations are to be conducted, typical solutions to problems, and an understanding that is more acceptable than its rivals.*
@@ -108,7 +108,7 @@ updated: 2026-10-17
 
 ## 概念辨析
 
-范式常与理论、研究纲领及研究方法相混淆，其核心差异在于抽象层级与规范统摄范围：
+范式常与理论、研究纲领及研究方法相混淆，其核心差异在于抽象层级与规范管辖范围：
 
 > [!contrast-table] 概念辨析
 > | 维度 | 范式（Paradigm） | 理论（Theory） | 研究纲领（Research Programme） | 研究方法（Research Method） |
@@ -152,10 +152,10 @@ updated: 2026-10-17
 ### 命题一　常规科学的异常积累驱动科学革命与非常规范式转换
 
 > [!concept-lens] 科学演进的非累积性与革命性断裂
-> 探讨科学知识并非通过平稳线性积累演进，而是通过常规科学框架破裂后的认知危机与范式跃迁完成制度化重构。
+> 探讨科学知识遵循常规科学框架危机与革命性范式更迭实现制度化重构的非累积演化规律。
 
 > [!claim] Kuhn, T.
-> **常规科学由共享范式提供解谜规范** 库恩指出，在常规科学时期，科学家并非致力于根本性创新，而是在公认范式的指引下进行精细化的“解谜活动”（puzzle-solving）；范式为共同体提供了免于形而上学底层争辩的知识共识。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> **常规科学由共享范式提供解谜规范** 库恩指出，在常规科学时期，科学家的核心工作聚焦于公认范式指引下的精细化“解谜活动”（puzzle-solving）；范式为共同体提供了免于形而上学底层争辩的知识共识。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
 > [!claim] Kuhn, T. and [[Louis Cohen|Cohen, L.]] et al.
 > **无法化约的异常积累引发不可逆的范式转换** 当既有范式无法解释的“异常”（anomalies）持续积累并引发普遍信任危机时，学术共同体陷入动荡，最终通过科学革命建立新范式；历史上的重大转折（托勒密地心说转向哥白尼日心说、牛顿机械力学转向相对论与演化宇宙观、[[Value Neutrality|价值中立]][[Positivism|实证主义]]转向[[Postpositivism|后实证主义]]与[[Critical Realism|批判实在论]]）均体现了这一不可逆的范式革命逻辑。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
@@ -181,7 +181,7 @@ updated: 2026-10-17
 > 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差异化的建制轨迹。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 统摄，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
+> **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 占据主导，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 
 > [!claim] Mitter, W.
 > **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与[[Behaviorism|行为主义]]为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
@@ -204,7 +204,7 @@ updated: 2026-10-17
 > [!dev-timeline] 概念演变
 > - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
-> - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学底座崛起，试图架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
+> - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s 至今 — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 
 ---
@@ -251,6 +251,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体现象学，剖析可见学习范式在存在论与认识论层面的盲区，揭示不同教育观察主体间的不可通约性。
