@@ -35,7 +35,7 @@ FIELDS = tuple(f"related_{kind}" for kind in (
 ))
 TARGET_TYPES = {"concept", "theory", "method", "instrument", "person", "fact"}
 LINK = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
-INSTRUCTIONS = """遵守 AGENTS.md、vault-schema.md；用 wiki/index.json 定位，按 wiki/templates 的规范及对应模板排版。
+INSTRUCTIONS = """遵守 AGENTS.md、vault-schema.md；用 wiki/index.json 定位。补充/重构前必须实际完整读取下列必读规范及对应模板，不能凭记忆或沿用旧格式；完成后逐节对照模板检查结构、内容归位及 Callout。规范优先于模板，不建无证据的空章节，不复制模板说明。
 完整阅读指定 Argument、经 source record 定位的原文及现有目标条目，核对链接语境与概念含义，并回查已有引用。误链、同名异义、普通词误配专业概念、仅提及而无实质讨论/应用/证据，或无新增有效信息，记“不变”，不改正文或格式。无法核验、原文未读全或证据不足则停止，不得以“不变”冒充完成。
 新材料深化/改变认识且积累足以支持更合理结构时“重构”；主要增加事实、证据、解释或细节时依原结构“补充”。整合新旧信息，保留有效内容、重要细节与论证深度，核实差异；真实分歧纳入争议，已证实错误纠正。去重、衔接，统一模板/Callout，保留页码与引用。
 只改本批非 Argument 条目正文及必要写作例外。
@@ -160,6 +160,26 @@ def receipt_schema(paths):
     }, "required": ["items"]}
 
 
+def entry_template(entry):
+    meta, _ = read_note(ROOT / entry["path"])
+    kind = meta.get("type")
+    if kind != entry["type"] or kind not in TARGET_TYPES:
+        raise ValueError(f"条目类型与任务不符，请重新生成任务: {entry['path']}")
+    if kind == "fact":
+        subtype = meta.get("subtype")
+        if subtype not in {"policy", "event", "organization", "program"}:
+            raise ValueError(f"Fact 缺少有效 subtype，无法选择模板: {entry['path']}")
+        name = f"template-fact-{subtype}.md"
+    elif kind == "person" and (meta.get("subtype") == "school" or "/persons/schools/" in entry["path"]):
+        name = "template-school.md"
+    else:
+        name = f"template-{kind}.md"
+    path = Path("wiki/templates") / name
+    if not (ROOT / path).is_file():
+        raise ValueError(f"缺少对应模板: {path}")
+    return path.as_posix()
+
+
 def prepare_prompt(job, state, batch, *, managed=False):
     """Render the latest instructions without changing the queued target snapshot."""
     folder = job / f"batch-{batch['number']:03d}"
@@ -170,8 +190,14 @@ def prepare_prompt(job, state, batch, *, managed=False):
             "保存结果后返回；外部执行器负责正常增量 vault_index→vault_lint 及推进，勿调用本脚本。",
         )
     prompt = instructions + f"\nArgument：{state['argument']}\n目标（按序）：\n"
+    templates = []
     for position, entry in enumerate(batch["entries"], 1):
-        prompt += f"{position}. {entry['path']}\n"
+        template = entry_template(entry)
+        if template not in templates:
+            templates.append(template)
+        prompt += f"{position}. {entry['path']} → 模板 {templates.index(template) + 1}\n"
+    prompt += "\n必读规范：wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md\n"
+    prompt += "\n".join(f"模板 {i}：{path}" for i, path in enumerate(templates, 1)) + "\n"
     prompt += f"\n结果：{folder / 'result.json'}\n"
     (folder / "prompt.md").write_text(prompt, encoding="utf-8")
     write_json(folder / "batch-result.schema.json", receipt_schema([e["path"] for e in batch["entries"]]))
@@ -182,6 +208,8 @@ def plan(args):
     anchor, entries, added = collect(args.argument)
     if not entries:
         raise ValueError("没有可处理的关联条目")
+    for entry in entries:
+        entry_template(entry)
     job = (args.out or ROOT / "output/related-updates" / (
         Path(anchor["path"]).stem + "-" + dt.datetime.now().strftime("%Y%m%d-%H%M%S")
     )).resolve()

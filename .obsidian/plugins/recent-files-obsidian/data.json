@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Victorian HITS and Literacy Toolkit",
-      "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
+      "basename": "Popper's Three Worlds Theory",
+      "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md"
     },
     {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+      "basename": "Argument_Rømer_2018_EPT",
+      "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+    },
+    {
+      "basename": "Thomas Aastrup Rømer",
+      "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md"
     },
     {
       "basename": "Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
-      "basename": "Argument_Rømer_2018_EPT",
-      "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
+      "basename": "Victorian HITS and Literacy Toolkit",
+      "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
     },
     {
       "basename": "Argument_Bergeron_2017_MJE",
@@ -191,14 +199,6 @@
     {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
-    },
-    {
-      "basename": "Cargo Cult Science",
-      "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md"
-    },
-    {
-      "basename": "Learning Intentions",
-      "path": "wiki/concepts/curriculum-instruction/Learning Intentions.md"
     }
   ],
   "omittedPaths": [],
