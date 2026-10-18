@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 128
-fact_related_level: 12
-fact_related_stars: "💎💎💎💎"
+fact_related_count: 131
+fact_related_level: 13
+fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
@@ -118,6 +118,8 @@ related_persons:
   - "[[David Coleman]]"
   - "[[Wolfgang Mitter]]"
   - "[[Jason Beech]]"
+  - "[[Steen Nepper Larsen]]"
+  - "[[Andreas Schleicher]]"
 related_facts:
   - "[[PISA]]"
   - "[[Organisation for European Economic Co-operation]]"
@@ -160,10 +162,11 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # OECD
@@ -185,7 +188,7 @@ updated: 2026-10-16
 
 ## 历史沿革与组织演变
 
-经合组织的全球治理职能并非自创设起就天然具备，而是在冷战地缘博弈、科技研发标准化竞赛、比较教育学科[[Paradigm|范式]]转换与新自由主义全球治理技术的演进中逐步确立并分化的。它在科技创新政策与教育人力治理两大领域分别开创了具有全球垄断性的量化基准。
+经合组织的全球治理职能是在冷战地缘博弈、科技研发标准化竞赛、比较教育学科[[Paradigm|范式]]转换与新自由主义全球治理技术的演进中逐步确立并分化的。它在科技创新政策与教育人力治理两大领域分别开创了具有全球垄断性的量化基准。
 
 > [!org-evolution]- 组织发展历程
 > - **1948–1960** **[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的奠基**
@@ -331,18 +334,21 @@ updated: 2026-10-16
 > > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 [[Michael Gove]]）利用“遗漏[[Discourse|话语]]”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay\|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保[[Global Educational Discourse|全球教育话语]]被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–126)]]
 > > - **民主授权缺失与短期应试修补（学术界公开信）** 2014 年 5 月全球 83 位著名教育学者在《卫报》发表联名公开信，直接致信 OECD 教育总监，严厉谴责 OECD 作为未经民主选举的经济机构缺乏主导各国公共教育政策的宪制授权，批评其过度依赖单一量化指标引发急功近利的短期应试修补（short-term fixes），严重牺牲了教育的人文与公民价值。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 123)]]
 >
+> > [!axis] 全景敞视式量化凝视 vs 探究不确定性的教育反思
+> > 丹麦批判哲学家[[Steen Nepper Larsen|斯廷·内珀·拉森]]（Steen Nepper Larsen）揭示，经合组织倡导的测评治理实质上构成了神学“全视凝视”（omnes videns）的世俗化变体；泛在化的大规模测试剥夺了教育探索的生存性开放度与偶然性空间。与此同时，经合组织内部亦呈现出话语张力：在 2018 年哥本哈根 OECD 国际会议上，教育与技能司司长[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]主张未来教育应培养学生“像数学家或社会学家一样思考”的深度反思与[[Metacognition|元认知]]审视能力，勇于探究未知领域并打破既有共识；拉森指出，这一高阶反思愿景与经合组织自身主导的封闭式、标准化题库测量体制存在深刻悖论。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 3, 7)]]
+>
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
 > >
-> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图建立统一框架时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 >
 > > [!axis] 比较教育学科认识论侵蚀与咨询[[Paradigm|范式]]异化
 > > 探讨经合组织指标治理对传统比较教育学科自主性、认识论深度与政策咨询伦理的深层冲击。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
 > >
 > > - **学科史批判视角（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 欧洲比较教育学科史学者指出，经合组织主导的经济导向政策与大规模量化测评，瓦解了比较教育自战后确立的“[[Navigation Metaphor in Comparative Education\|航海隐喻]]”传统。经合组织将比较研究从呈现多元历史情境与制度备选方案的审慎中介，异化为直接绑定政府拨款与硬性问责的技术工具；这种由超国家官僚机构直接设定研究目标与评价指标的机制，不仅削弱了大学比较学者的独立探究自主权，更以去语境化的浅层排名掩盖了教育制度与本土文化土壤之间的深层生态共生关系。
-> > - **机构治理效能视角** 经合组织坚称，基于标准化指标与跨国可比数据的量化对标，能够打破传统经院式比较教育无法为现实决策提供精准证据的弊端，为成员国识别技能差距、优化公共资源配置并提升全球竞争力提供关键实证杠杆。
+> > - **机构治理效能视角** 经合组织坚称，基于标准化指标与跨国可比数据的量化对标，能够打破传统经院式比较教育无法为现实决策提供精准证据的弊端，为成员国识别技能差距、优化公共资源配置并提升全球竞争力提供关键实证支撑。
 >
-> > [!axis] 单一研发投入排行 vs [[National Innovation System|国家创新系统]]多维评估：科技创新治理的范式跃迁
+> > [!axis] 单一研发投入排行 vs [[National Innovation System|国家创新系统]]多维评估：科技创新治理的范式转型
 > > 经合组织早期确立的《[[Frascati Manual|弗拉斯卡蒂手册]]》研发投入联赛榜，是否能够有效衡量国家的真实创新活力与长期产业竞争力？
 > >
 > > - **线性投入指标的体制诱偏（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]指出，OECD 早期依据《弗拉斯卡蒂手册》编制的跨国研发支出占国民生产总值比重（GERD/GNP）联赛榜，在战后诱发了政策盲区：它将创新狭隘等同于研发实验室的资金投入，不仅无法解释研发强度极高但民用产业停滞的苏联，也无法解释研发强度较低却凭借车间工艺学习（[[Learning by Doing]]）与[[Total Quality Management|全面质量管理]]实现高速跨越的日本；单一研发投入排行遮蔽了[[Institutional Complementarity|制度互补]]与组织学习的决定性作用。
@@ -352,24 +358,24 @@ updated: 2026-10-16
 > > 围绕 OECD 在 1990 年代中期后如何重塑教育目的以及如何处理公平、性别与社会凝聚力等社会价值的学理争鸣。
 > >
 > > - **社会民主主义与“新新人文主义”时期（1960–1990）** 帕帕多普洛斯（Papadopoulos, 1994）指出，OECD 早期虽源于人力资本考量，但在欧洲社会民主主义成员国影响下包容了多元社会与文化目的，形成恩斯特·哈斯所谓的“不连贯妥协”，将教育定性为培育批判性民主公民与维护社会凝聚力的纯粹公共物品，国别审查严格坚持自愿与因国制宜（*sui generis*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 450–451)]]
-> > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本并未被公然废除，而是遭遇系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
+> > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本遭到系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
 >
 > > [!axis] 跨国[[Space of Equivalence|等值空间]]的统计制造与“数字即政策”的去政治化[[Disciplina and Doctrina|规训]]
 > > 围绕经合组织 PISA 测验是否凭借统计技术虚构了脱离文化脉络的跨国等值空间，以“数字即政策”掩盖政治价值权衡。
 > >
 > > - **跨国[[Commensuration|通约]]客观论（机构立场）** 经合组织坚称，全球化时代需要超越狭隘本土课程大纲的统一素养标准；通过先进的心理计量学建模与[[Item Response Theory|项目反应理论]]，能够消除文化题项偏差，为各国客观诊断面向 21 世纪经济挑战的关键技能提供科学镜像。
-> > - **等值空间建构与效度消解批判（统计社会学视角）** 法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）与政策学者指出，跨国测量并非反映先验存在的客观实体，而是在凭空“制造等值空间”（fabricating spaces of equivalence）；PISA 将跨国可比性与统计[[Reliability|信度]]置于教育本体与[[Construct Validity|构念效度]]之上。数字的统治力量在于将背后极具争议的主观政治判断与价值预设彻底隐形化，诱发“数字即政策”（policy as numbers）的技术官僚迷信，使复杂的[[Democratic Education|民主教育]]价值辩论在客观数字的伪装下被强行终结。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> > - **等值空间建构与效度消解批判（统计社会学视角）** 法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）与政策学者指出，跨国测量通过凭空“制造等值空间”（fabricating spaces of equivalence）建构可通约性；PISA 将跨国可比性与统计[[Reliability|信度]]置于教育本体与[[Construct Validity|构念效度]]之上。数字的统治力量在于将背后极具争议的主观政治判断与价值预设彻底隐形化，诱发“数字即政策”（policy as numbers）的技术官僚迷信，使复杂的[[Democratic Education|民主教育]]价值辩论在客观数字的伪装下被强行终结。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >
 > > [!axis] 技术规划先行介入与北方霸权扩张：从 1964 拉美规划到对联合国多边体系的挤压
 > > 批判比较教育学者解构经合组织技术官僚规划的外向渗透，及其对联合国[[Educational Multilateralism|多边教育治理]]体系的挤压。
 > >
 > > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与科尔曼）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与[[David Coleman|戴维·科尔曼]]（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《[[Delors Report|德洛尔报告]]》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
-> > - **经合组织官方治理立场** 强调经合组织确立的是以同行评议、指标监测与趋势破译为核心的软性治理，致力于在经济效率与人类福祉之间维系适度平衡（Papadopoulos, 1994），旨在通过客观量化证据协助各主权国应对全球化与知识经济转型的挑战，而非推行指令性强制干预。
+> > - **经合组织官方治理立场** 强调经合组织确立的是以同行评议、指标监测与趋势破译为核心的软性治理，致力于在经济效率与人类福祉之间维系适度平衡（Papadopoulos, 1994），旨在通过客观量化证据协助各主权国应对全球化与知识经济转型的挑战，以取代传统的指令性强制干预。
+
+> [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
+> 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1990 年代经合组织（OECD）凭借指标网络与政策审查在北方发达国家教育治理中的迅速崛起，对联合国教科文组织的传统领导地位构成了强烈侵蚀；教科文组织深感自身权威在北面遭遇经合组织的强力挤压，而在南面则遭遇世界银行雄厚信贷资本的蚕食，直接诱发了其深层合法性危机。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 >
-> > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
-> > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1990 年代经合组织（OECD）凭借指标网络与政策审查在北方发达国家教育治理中的迅速崛起，对联合国教科文组织的传统领导地位构成了强烈侵蚀；教科文组织深感自身权威在北面遭遇经合组织的强力挤压，而在南面则遭遇世界银行雄厚信贷资本的蚕食，直接诱发了其深层合法性危机。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
-> >
-> > *UNESCO felt that its authority was being eroded by the OECD in the North and the World Bank in the South; the Delors Report was a clear public offensive to regain political legitimacy.*
+> *UNESCO felt that its authority was being eroded by the OECD in the North and the World Bank in the South; the Delors Report was a clear public offensive to regain political legitimacy.*
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。
@@ -419,18 +425,8 @@ updated: 2026-10-16
 > | [[Global Educational Discourse]] | 概念 | 经合组织与世行、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示经合组织等国际机构受紧迫实用主义驱动过度简化知识并参与话语中介。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse\|话语]]共谋及对[[UNESCO\|教科文组织]]领导权挤压的代表学者。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid] 文献与论证索引
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际政治理论三流派透视 OECD 从冷战前沿地缘工具向新自由主义数字[[Governing at a Distance|远处治理]]帝国的演化（pp. 420–425）。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证剖析 OECD [[Policy Brokerage|政策中介]]工具打包与经验横向借鉴机制，及其在挪威行政立法中的垄断影响（pp. 538–550）。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从[[Evolutionary Economics|演化经济学]]考察 OECD 科技统计与[[National Innovation System|国家创新系统]]概念的演进，反思单一研发投入排行的局限（pp. 8–11, 19–20）。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统梳理 OECD 从社会民主主义妥协向[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与 [[PISA]] [[Governing by Numbers|数字治理]]转型的历史脉络（pp. 437–452）。
-> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 总结 [[Centre for Educational Research and Innovation|CERI]] 二十年循证政策与[[Epistemic Governance|知识治理]]研究，构建五维证据生态[[Analytic Framework|分析框架]]（pp. 16–27）。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从欧洲比较教育学科史维度批判 OECD 经济主义政策对学者探究自主性与[[Navigation Metaphor in Comparative Education|航海隐喻]]传统的侵蚀（pp. 95–99）。
-> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 揭示政客对 PISA 数据的双轨选择性剪裁，以及 OECD 默许扭曲以维系品牌霸权的象征性共谋（pp. 114–126）。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 考察中国对标 OECD 国际标准建立全国教育质量监测系统与循证督导体制的实践进路。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验揭示 OECD 早期技术官僚规划（1964 年阿根廷 CONADE 报告）、在北方对[[UNESCO|教科文组织]]领导权的蚕食挤压，以及协同建构“信息时代”五大支柱全球[[Discourse|话语]]的深层共谋（pp. 345–349）。
+> | [[Steen Nepper Larsen]] | 人物 | 批判经合组织全景敞视式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
+> | [[Andreas Schleicher]] | 人物 | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导元认知反思思维。 |
+> | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | Argument | 剖析经合组织全视凝视、量化监控悖论与施莱歇尔未来思维反思主张的丹麦批判文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 揭示政客对 PISA 数据的双轨选择性剪裁，以及经合组织默许扭曲以维系品牌霸权的象征性共谋。 |
+> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
