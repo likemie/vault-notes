@@ -52,6 +52,8 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Central Phenomenon]]"
   - "[[Feedback]]"
+  - "[[Research Cage]]"
+  - "[[Education as Initiation]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
@@ -71,7 +73,7 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Hannah Arendt]]"
   - "[[John Dewey]]"
-  - "[[Robert Glaser]]"
+  - "[[Ernst von Glasersfeld]]"
   - "[[Gert Biesta]]"
   - "[[Jean Piaget]]"
   - "[[Lars Qvortrup]]"
@@ -89,7 +91,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -120,7 +122,7 @@ journal: Educational Philosophy and Theory
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **教育教化与批判传统**<br>[[Bildung]] / [[Didaktik]] | 以欧陆教化与教学论传统（如[[Immanuel Kant\|康德]]、[[Hannah Arendt\|阿伦特]]、[[John Dewey\|杜威]]与比斯塔）为对照，审视可见学习如何抽空学科内容、规范性引导与文化启蒙。（pp. 3–5） |
-> | **激进建构主义**<br>[[Radical Constructivism]] | 识别[[John Hattie\|哈蒂]]底层的认知学习观（冯·[[Robert Glaser\|格拉泽]]斯费尔德与比约根），剖析其将学习还原为个体心智自足调节的唯我论本质。（pp. 6–8） |
+> | **激进建构主义**<br>[[Radical Constructivism]] | 识别[[John Hattie\|哈蒂]]底层的认知学习观（恩斯特·冯·格拉泽斯费尔德（[[Ernst von Glasersfeld]]）与比约根），剖析其将学习还原为个体心智自足调节的唯我论本质。（pp. 6–8） |
 > | **波普尔三世界理论**<br>[[Popper's Three Worlds Theory]] | 引入客观思想世界（世界三）的实在论框架，揭示哈蒂如何经由贝雷特中介将客观文化内容降维化约为个体主观认知（世界二）与脑神经生理（世界一）。（pp. 10–11） |
 > | **技术理性与纯粹评价**<br>[[Technical Rationality]] / [[Pure Evaluation]] | 剖析评价逻辑如何脱离具体时空情境，将教育过程格式化为输入[[Variable\|变量]]与输出[[Effect Size\|效应量]]的线性因果机械关联。（pp. 2–4） |
 
@@ -135,7 +137,7 @@ journal: Educational Philosophy and Theory
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **哲学概念分析**<br>[[Philosophical Analysis in Education]] | 对哈蒂（2009）《[[Visible Learning\|可见的学习]]》核心理论章节（第三章论证）进行深度概念细读，追踪概念生成前提与逻辑推论链条。（p. 2） |
-> | **学术对话与思想史对勘**<br>思想史背景考察 | 将可见学习的概念预设置于与[[John Dewey\|杜威]]、比斯塔、波普尔、贝雷特、冯·[[Robert Glaser\|格拉泽]]斯费尔德以及丹麦循证接受者（克沃特鲁普、劳尔森、埃厄隆）的学术脉络中系统对比。（pp. 3–11） |
+> | **学术对话与思想史对勘**<br>思想史背景考察 | 将可见学习的概念预设置于与[[John Dewey\|杜威]]、比斯塔、波普尔、贝雷特、[[Ernst von Glasersfeld|冯·格拉泽斯费尔德]]以及丹麦循证接受者（克沃特鲁普、劳尔森、埃厄隆）的学术脉络中系统对比。（pp. 3–11） |
 > | **反思性批判推演**<br>辩证批判分析 | 从五条相互独立又内在贯通的批判脉络出发，揭示可见学习在范畴界定、因果模型、教学关系、制度治理与[[Epistemology\|认识论]]基础上的结构性危机。（pp. 2–12） |
 
 > [!sample-panel]- 样本与材料快照
@@ -216,7 +218,7 @@ journal: Educational Philosophy and Theory
 ### 论证步骤二　因变量操作化脱节构建封闭自循环体系
 
 > [!claim] 步骤二核心主张
-> 哈蒂作为[[Meta-analysis|元分析]]核心[[Dependent Variable|因变量]]的学业成就缺乏概念清晰度，其在不同层级学习定义与六万项经验研究的多元测量之间存在无法弥合的[[Operationalization|操作化]]断裂，最终通过自变量与因变量的循环互证构筑起与真实世界脱节的研究牢笼（research cage）。（pp. 5–6）
+> 哈蒂作为[[Meta-analysis|元分析]]核心[[Dependent Variable|因变量]]的学业成就缺乏概念清晰度，其在不同层级学习定义与六万项经验研究的多元测量之间存在无法弥合的[[Operationalization|操作化]]断裂，最终通过自变量与因变量的循环互证构筑起与真实世界脱节的[[Research Cage|研究牢笼]]（research cage）。（pp. 5–6）
 
 #### 1. 学习层级划分脱离经验测量
 
@@ -255,7 +257,7 @@ journal: Educational Philosophy and Theory
 评价化学习反客为主地界定了教学自变量，导致整个实证架构转变为封闭自足的循环系统。
 
 > [!warrant]- 封闭研究牢笼的运作逻辑
-> 哈蒂构建了一个典型的研究牢笼（research cage）：因变量（评价化学习）与自变量（教学干预）完全依照评价逻辑相互定义与循环嵌合。该系统虽然展现出极高的[[Internal Consistency|内部一致性]]与统计[[Reliability|信度]]，但因割裂了概念与外部客观现实的实质对应，其效度与外部环境对应性降至极低，教育研究在自洽的数据游戏中彻底丢失了研究对象本身。（p. 6）
+> 哈蒂构建了一个典型的[[Research Cage|研究牢笼]]（research cage）：因变量（评价化学习）与自变量（教学干预）完全依照评价逻辑相互定义与循环嵌合。该系统虽然展现出极高的[[Internal Consistency|内部一致性]]与统计[[Reliability|信度]]，但因割裂了概念与外部客观现实的实质对应，其效度与外部环境对应性降至极低，教育研究在自洽的数据游戏中彻底丢失了研究对象本身。（p. 6）
 
 > [!critique-method]- 方法论批判：高信度与效度脱域的自循环危机
 > 系统依靠术语间的循环互证获得了极高的内部一致性与统计信度，但因彻底丧失了与外部客观真实的对应效度，研究沦为脱离实体对象的数字空转。（p. 6）
@@ -272,7 +274,7 @@ journal: Educational Philosophy and Theory
 哈蒂宣称当教师通过学生的眼睛看学习，且学生将自己视为自己的教师时，教学效果达到最大化。（p. 6）
 
 > [!tension-table] [[Constructivist Instruction|建构主义教学]]观的内在分裂
-> | 维度 | 经典激进[[Constructivist Paradigm\|建构主义]]（Glasersfeld / Bjørgen） | 哈蒂的可见学习修正版（Hattie） |
+> | 维度 | 经典激进[[Constructivist Paradigm\|建构主义]]（[[Ernst von Glasersfeld|Glasersfeld]] / Bjørgen） | 哈蒂的可见学习修正版（Hattie） |
 > |---|---|---|
 > | **知识与心智** | 知识是认知主体的自足建构，属于封闭的唯我论体系。（p. 7） | 照单全收，强调知识或思想本身并不居于中心，学习者对知识与观念的自主建构才是决定性的（p. 239，转引自 p. 6）。 |
 > | **文化中介** | 抨击传统学校，消解教师代表客观人类文化的权威中介角色。（p. 7） | 彻底排斥传统教学论，将文化与学科剥离于建构过程之外。（p. 6） |
@@ -315,7 +317,7 @@ journal: Educational Philosophy and Theory
 > | 维度 | 哲学对话范式（Buber / Bakhtin / Dewey / [[Socrates]]） | 可见学习的数据调控范式（Hattie） |
 > |---|---|---|
 > | **互动本质** | 主体间平等对话、意义生成的精神交往或苏格拉底式辨证。（p. 9） | 追求 $d > 0.40$ 的信息碎片单向回路传输。（p. 9） |
-> | **教育指向** | 理查德·彼得斯（Richard Peters）提出的教育即启蒙（education as initiation），向学生展现文化与艺术。（p. 9） | 反向让学习对教师可见，为外科手术式的精准教学设计提供参数。（p. 9） |
+> | **教育指向** | 理查德·斯坦利·彼得斯（Richard Stanley Peters）提出的[[Education as Initiation|教育即引介]]（education as initiation），引领学生走入社会的艺术、文化与公共价值领域。（p. 9） | 反向让学习对教师可见，为外科手术式的精准教学设计提供参数。（p. 9） |
 > | **教师定位** | 引导学生探究公共世界的成熟文化主体。（p. 9） | 彻底转变为自身教学效果的学徒与数据捕获者。（p. 9） |
 
 通过抽空主体间对话，反馈演变为双重控制机制，其核心在于逆向捕获学生认知数据。
@@ -380,7 +382,7 @@ journal: Educational Philosophy and Theory
 
 > [!finding-cards] 核心发现
 > 1. **[[Category Mistake|范畴错误]]而非统计偏差** 可见学习的深层缺陷是根本性的概念范畴错误；评价理论殖民教育实践，迫使所有教学关系从属于目标回溯性审查，抹杀了具有两百年历史的教化与教学论传统。（pp. 2–5）
-> 2. **[[Dependent Variable|因变量]]断裂与封闭研究牢笼** [[Academic Achievement|学业成就]]因[[Variable|变量]]在概念层级与实证测量间缺乏[[Operationalization|操作化]]连结，评价性学习概念循环界定了教学[[Independent Variable|自变量]]，构建出具有高[[Reliability|信度]]但脱离外部客观现实的研究牢笼。（pp. 5–6）
+> 2. **[[Dependent Variable|因变量]]断裂与封闭[[Research Cage|研究牢笼]]** [[Academic Achievement|学业成就]]因[[Variable|变量]]在概念层级与实证测量间缺乏[[Operationalization|操作化]]连结，评价性学习概念循环界定了教学[[Independent Variable|自变量]]，构建出具有高[[Reliability|信度]]但脱离外部客观现实的[[Research Cage|研究牢笼]]。（pp. 5–6）
 > 3. **[[Radical Constructivism|激进建构主义]]诱发教学双重瓦解** 接受唯我论学习观导致教师丧失文化代表权威，随后强行嫁接的教师主导异化为窥视并监控学生心智参数的技术员，形成了双重无教师的瓦解格局。（pp. 6–8）
 > 4. **反馈倒置推动集权监控与[[Epistemology|认识论]]倒置** 反馈被改造为自下而上的数据上收网络，构筑起贯穿课堂至[[EU|欧盟]]的集权化治理网络；同时对波普尔理论的化简导致客观文化世界三彻底塌缩为主观世界二，使实在论彻底走向了唯我论。（pp. 9–12）
 

@@ -3677,6 +3677,16 @@
     ]
   },
   {
+    "title": "Education as Initiation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Education as Initiation.md",
+    "aliases": [
+      "教育即引介",
+      "教育即入会",
+      "入会说"
+    ]
+  },
+  {
     "title": "Educative Experience",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Educative Experience.md",
@@ -4371,6 +4381,15 @@
       "进步教育",
       "progressive education movement",
       "进步主义教育运动"
+    ]
+  },
+  {
+    "title": "Research Cage",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Research Cage.md",
+    "aliases": [
+      "研究牢笼",
+      "封闭研究牢笼"
     ]
   },
   {
@@ -25925,7 +25944,9 @@
     "path": "wiki/persons/us/Ernst von Glasersfeld.md",
     "aliases": [
       "Glasersfeld, E. V.",
-      "恩斯特·冯·格拉泽斯费尔德"
+      "恩斯特·冯·格拉泽斯费尔德",
+      "冯·格拉泽斯费尔德",
+      "E. von Glasersfeld"
     ]
   },
   {
