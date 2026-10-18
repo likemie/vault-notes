@@ -3361,7 +3361,10 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Blind Spot in Observation.md",
     "aliases": [
-      "观察盲点"
+      "观察盲点",
+      "盲点",
+      "blinder Fleck",
+      "blind spot"
     ]
   },
   {
@@ -3986,7 +3989,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
     "aliases": [
-      "具身-延展辩证法"
+      "具身-延展辩证法",
+      "具身化-扩展辩证法",
+      "incarnation-extension dialectic"
     ]
   },
   {
@@ -15939,7 +15944,8 @@
     "aliases": [
       "卢曼系统理论",
       "Luhmannian Systems Theory",
-      "社会系统理论"
+      "社会系统理论",
+      "卢曼社会系统理论"
     ]
   },
   {

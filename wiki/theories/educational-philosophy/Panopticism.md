@@ -51,6 +51,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-10-16

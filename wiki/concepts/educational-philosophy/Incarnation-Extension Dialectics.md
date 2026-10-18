@@ -7,10 +7,10 @@ aliases:
 summary: "由斯滕·内珀·拉森提出的现象学教育哲学构念，用以替代可见学习等还原论模型。该构念将学习界定为身心综合在身体具身化（化入具身习惯与默会经验）与向外延展（拓展在世行动自由与世界理解空间）之间的双向生成运动，从现象学生存论视角复兴全人教化（Bildung）传统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 20
 related_level: 2
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-philosophy
   - incarnation-extension-dialectics

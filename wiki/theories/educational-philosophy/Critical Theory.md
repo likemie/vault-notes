@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 61
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -79,10 +79,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Critical Theory
@@ -252,9 +253,10 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用批判理论结合[[Jürgen Habermas|哈贝马斯]]系统/生活世界模型与舍恩技术理性说，剖析当代教育心理学与可见学习运动如何剥离师生[[Intentionality|意向性]]与主体意义，充当官僚行政系统应对[[Legitimation Crisis|合法化危机]]的技术掩体（pp. 83–89）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合[[Axel Honneth|霍耐特]][[Recognition Theory|主体间承认理论]]与舍恩技术理性说，微观解构[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据链，揭示[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]对[[Pedagogical Subject|教育主体]]性的消解（pp. 14–15）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合马克思拜物教批判与斯劳特戴克视差理论，解构可见学习范式中的全景敞视规训与商品化逻辑。
