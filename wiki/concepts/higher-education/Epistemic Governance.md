@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-19
 ---
 
 # Epistemic Governance
@@ -143,5 +143,6 @@ updated: 2026-10-15
 > - [[UN Sustainable Development Goals]] — SDGs 是知识治理的典型案例：大学知识的普世性和应用性满足了全球治理对科学证据日益增长的需求
 > - [[THE Impact Ranking]] — THE 影响力排名体现了知识治理中"测量"的角色：将大学对全球治理目标的贡献量化为排名指标
 > - [[Strengthening the Impact of Education Research Project]] — [[Centre for Educational Research and Innovation\|OECD CERI]] 启动的国家级知识治理实证项目，标志着跨国组织从指标输出转向重构主权国家[[Evidence Ecosystem\|教育证据生态系统]]
+> - **[[Argument_Huang_2020_APJE|Huang and Kan (2020)]]** 总结了经合组织通过学校级国际测评（PISA for Schools）实施的认识论治理：通过定量可比数据构建全球同质化空间，使地理相隔与文化异质的学校并置于同一度量场域，跨越主权国家中介直接向基层学校渗透改革规程，但同时造成学校去情境化、去文化与去历史化的严重风险。（p. 423）
 
 ---

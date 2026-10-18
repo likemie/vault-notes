@@ -1397,6 +1397,15 @@
     ]
   },
   {
+    "title": "Professional Capital",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Professional Capital.md",
+    "aliases": [
+      "专业资本",
+      "教师专业资本"
+    ]
+  },
+  {
     "title": "Promissory Legitimacy",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Promissory Legitimacy.md",
@@ -21914,6 +21923,15 @@
     ]
   },
   {
+    "title": "Visible Classroom",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Visible Classroom.md",
+    "aliases": [
+      "可见课堂",
+      "Visible Classroom App"
+    ]
+  },
+  {
     "title": "Concurrency of Learning in the Core Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/questionnaires/Concurrency of Learning in the Core Questionnaire.md",
@@ -24132,6 +24150,16 @@
       "W. J. Deetman",
       "Deetman, W. J.",
       "Deetman, W."
+    ]
+  },
+  {
+    "title": "Graham Nuthall",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Graham Nuthall.md",
+    "aliases": [
+      "格雷厄姆·纳撒尔",
+      "G. Nuthall",
+      "Graham Anthony Nuthall"
     ]
   },
   {
@@ -37030,6 +37058,11 @@
     "title": "Argument_Bolton_2017_ArchPsych",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Archives of Psychology/Argument_Bolton_2017_ArchPsych.md"
+  },
+  {
+    "title": "Argument_Huang_2020_APJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Huang_2020_APJE.md"
   },
   {
     "title": "Argument_SpronkenSmith_2024_AEHE",

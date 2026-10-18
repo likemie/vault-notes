@@ -249,7 +249,7 @@ updated: 2026-10-19
 > **缺乏程序支架的 PBL 在复杂[[Epistemology\|认识论]]任务中成效受限** 在针对[[Epistemic Cognition\|认识论认知]]与高阶[[Academic Achievement\|学业成就]]的一阶[[Meta-analysis\|元分析]]中，基于问题的学习作为干预框架所取得的促进效应较为微弱且未达统计显著，显著落后于明确讲授探究规程的[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]。元分析证实，面对多文本冲突与劣构争议情境，单纯呈现真实问题而不提供显性认知与[[Metacognition\|元认知]]支架，容易导致学生在过载的认知负荷中无所适从，印证了 PBL 必须高度依赖结构化支架与过程示范才能发挥实效的理论判断。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
 
 > [!claim] Knudsen, H.
-> **认知进阶错位与盲目提前介入导致 PBL 效能滑坡** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）引述哈蒂对基于问题的学习实证效应量低下的理论解释：依据认知进阶规律，高阶问题探究必须建立在学生已扎实掌握事实与概念等表层知识的基础之上；然而全球约 90% 推行 PBL 的学校违背认知进阶，在学生尚未具备基础概念储备时过早引入自主探究，迫使学生在认知真空中摸索，由此引发严重的教学程序错位并拉低了干预效能。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
+> **认知进阶错位与盲目提前介入导致 PBL 效能滑坡** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）引述哈蒂对基于问题的学习实证效应量低下的理论解释：依据 [[SOLO Taxonomy|可观察学习结果结构]]（SOLO）认知进阶模型，PBL 是专门用于促进[[Surface and Deep Learning|深层学习]]与知识迁移的高阶工具，无法直接承担表层知识的初始建构功能；然而全球约 90% 推行 PBL 的学校违背认知进阶，在学生尚未具备事实与词汇等表层概念储备时便盲目提前引入自主探究，迫使学生在认知真空中摸索，这一教学程序的严重错位直接导致其在二阶实证综合中测得较低的平均效应量。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 ---
 
