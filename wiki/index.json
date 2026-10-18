@@ -8396,6 +8396,16 @@
     ]
   },
   {
+    "title": "Reform Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Reform Pedagogy.md",
+    "aliases": [
+      "改革教育学",
+      "Reformpädagogik",
+      "欧洲改革教育学"
+    ]
+  },
+  {
     "title": "Revoicing",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Revoicing.md",
@@ -8934,6 +8944,18 @@
     "path": "wiki/concepts/learning-science-cognitive-science/myelination.md",
     "aliases": [
       "髓鞘化"
+    ]
+  },
+  {
+    "title": "Neuromyth",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Neuromyth.md",
+    "aliases": [
+      "神经神话",
+      "neuromythology",
+      "神经神话学",
+      "educational neuromyths",
+      "教育神经神话"
     ]
   },
   {
@@ -15888,6 +15910,19 @@
     ]
   },
   {
+    "title": "Ecology of the Brain",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Ecology of the Brain.md",
+    "aliases": [
+      "大脑生态学",
+      "The Brain as a Mediating Organ",
+      "大脑作为关系器官",
+      "大脑作为中介器官",
+      "Das Gehirn als Beziehungsorgan",
+      "ecological brain theory"
+    ]
+  },
+  {
     "title": "Epistemic Injustice",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Epistemic Injustice.md",
@@ -16981,6 +17016,17 @@
       "文明冲突论",
       "Clash of Civilizations Thesis",
       "文明冲突假说"
+    ]
+  },
+  {
+    "title": "Cognitive Capitalism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Cognitive Capitalism.md",
+    "aliases": [
+      "认知资本主义",
+      "le capitalisme cognitif",
+      "cognitive capitalism theory",
+      "认知资本主义理论"
     ]
   },
   {

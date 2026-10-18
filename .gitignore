@@ -5,6 +5,7 @@ scripts/*.bak
 scripts/.backup/
 .venv/
 .pytest_cache/
+output/link-exceptions.lock
 scratch/
 tmp/
 

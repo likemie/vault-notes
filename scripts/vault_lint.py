@@ -2977,6 +2977,28 @@ def academic_prose_scan(text: str) -> str:
 WRITING_EXCEPTIONS_PATH = ROOT / "scripts" / "writing_exceptions.json"
 
 
+def check_link_exceptions(issues: List[Issue]) -> None:
+    """Validate the small registry even when notes are outside incremental scope."""
+    from wiki_linker import load_link_exceptions, link_exception_sentences, link_exception_body
+    registry_path = ROOT / "scripts/link_exceptions.json"
+    try:
+        registry = load_link_exceptions(registry_path)
+        for name, records in registry.items():
+            path = ROOT / name
+            units = [s for s, _, _ in link_exception_sentences(link_exception_body(path.read_text(encoding="utf-8")))]
+            if not is_wiki_entry_path(path) or not entry_metadata(path):
+                raise ValueError(f"链接例外所在文件必须是正式 wiki 条目: {name}")
+            for record in records:
+                if units.count(record["sentence"]) != 1:
+                    raise ValueError(f"链接例外句子已失效或不唯一: {name}；运行 exceptions-clean 或改写区分")
+                target = ROOT / record["target"]
+                meta = entry_metadata(target) if target.is_file() else None
+                if not meta or meta.get("type") not in {"concept", "theory", "method", "instrument", "person", "fact"}:
+                    raise ValueError(f"链接例外目标必须是现有普通知识条目: {record['target']}")
+    except (OSError, ValueError) as exc:
+        issues.append(Issue("ERROR", rel(registry_path), str(exc), code="LINK_EXCEPTION_INVALID"))
+
+
 @lru_cache(maxsize=1)
 def load_writing_exceptions() -> Dict[str, List[str]]:
     """Read approved expression exceptions; never store them in note YAML."""
@@ -3583,6 +3605,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
     issues: List[Issue] = []
     check_required_files(issues)
     check_writing_exceptions(issues)
+    check_link_exceptions(issues)
     from citation_index import load_registry
     try:
         load_registry()

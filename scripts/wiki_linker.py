@@ -4,15 +4,18 @@ from __future__ import annotations
 
 import argparse
 import bisect
+import contextlib
+import fcntl
 import io
 import json
 import re
 import subprocess
+import unicodedata
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
-import link_exceptions
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
@@ -60,6 +63,199 @@ BOLD_HEADING_COLON_RE = re.compile(r"(\*\*[^*\n]+?\*\*)[ \t]*[：:][ \t]*")
 BOLD_HEADING_ENGLISH_OUTSIDE_RE = re.compile(
     r"\*\*([^*\n]*[\u3400-\u9fff][^*\n]*)\*\*[ \t]*([（(][^）)\n]*[A-Za-z][^）)\n]*[）)])"
 )
+
+
+LINK_EXCEPTION_LINK_RE = re.compile(r'(?<!!)\[\[([^\]|#]+?)(?:#[^\]|]+)?(?:(?:\\\||\|)([^\]]+))?\]\]')
+
+
+@contextlib.contextmanager
+def link_exception_lock(root):
+    path = root / 'output/link-exceptions.lock'
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('a') as handle:
+        fcntl.flock(handle, fcntl.LOCK_EX)
+        yield
+
+
+def clean_link_exceptions(root, registry, dry_run=False):
+    with link_exception_lock(root):
+        original = load_link_exceptions(registry)
+        active = prune_link_exceptions(root, original)
+        if active != original and not dry_run: save_link_exceptions(registry, active)
+    return original, active
+
+
+def link_exception_text(text):
+    return unicodedata.normalize('NFC', re.sub(r'\s+', ' ', text).strip())
+
+
+def link_exception_visible_map(text):
+    """Visible wiki labels with source offsets, so linking does not change identity."""
+    chars, offsets = [], []
+    cursor = 0
+    for match in LINK_EXCEPTION_LINK_RE.finditer(text):
+        for pos in range(cursor, match.start()):
+            chars.append(text[pos]); offsets.append((pos, pos + 1))
+        label = match[2] if match[2] is not None else match[1]
+        for char in label:
+            chars.append(char); offsets.append((match.start(), match.end()))
+        cursor = match.end()
+    for pos in range(cursor, len(text)):
+        chars.append(text[pos]); offsets.append((pos, pos + 1))
+    return ''.join(chars), offsets
+
+
+def link_exception_sentences(body):
+    """Sentence units never cross a line or table cell; preserve raw offsets."""
+    visible, offsets = link_exception_visible_map(body)
+    # English full stops split only before whitespace/end, not within decimals/URLs.
+    for match in re.finditer(r'[^\n|。！？!?]+(?:[。！？!?][”’」』\"\']*|(?=\n|\||$))', visible):
+        start, end = match.span()
+        unit = visible[start:end]
+        prefix = re.match(r'^\s*(?:>\s*)*(?:(?:[-*+] |\d+[.)] )|#{1,6} )?', unit)
+        start += prefix.end()
+        while end > start and visible[end - 1].isspace(): end -= 1
+        if start == end: continue
+        for part in re.finditer(r'.+?(?:\.(?=\s|$)|$)', visible[start:end]):
+            a, b = start + part.start(), start + part.end()
+            while a < b and visible[a].isspace(): a += 1
+            if a < b:
+                yield link_exception_text(visible[a:b]), offsets[a][0], offsets[b - 1][1]
+
+
+def link_exception_body(text):
+    return re.sub(r'\A---\s*\n.*?\n---\s*\n', '', text, count=1, flags=re.S)
+
+
+def valid_link_exception_path(name):
+    if not isinstance(name, str): return False
+    path = Path(name)
+    return (isinstance(name, str) and name.startswith('wiki/') and path.suffix == '.md'
+            and not path.is_absolute() and '..' not in path.parts and '\\' not in name
+            and path.as_posix() == name and unicodedata.normalize('NFC', name) == name
+            and 'templates' not in path.parts and 'indexes' not in path.parts)
+
+
+def load_link_exceptions(path):
+    if not path.exists(): return {}
+    def pairs(items):
+        result = {}
+        for key, value in items:
+            if key in result: raise ValueError(f'重复例外路径: {key}')
+            result[key] = value
+        return result
+    data = json.loads(path.read_text(encoding='utf-8'), object_pairs_hook=pairs)
+    if not isinstance(data, dict): raise ValueError('链接例外表必须是 JSON 对象')
+    for name, records in data.items():
+        if not valid_link_exception_path(name) or not isinstance(records, list): raise ValueError(f'无效例外路径: {name}')
+        seen = set()
+        for record in records:
+            if (not isinstance(record, dict) or set(record) != {'sentence', 'target'}
+                    or not isinstance(record['sentence'], str) or not record['sentence']
+                    or link_exception_text(record['sentence']) != record['sentence']
+                    or not isinstance(record['target'], str) or not valid_link_exception_path(record['target'])):
+                raise ValueError(f'无效链接例外: {name}')
+            key = record['sentence'], record['target']
+            if key in seen: raise ValueError(f'重复链接例外: {name}')
+            seen.add(key)
+    return data
+
+
+def save_link_exceptions(path, data):
+    temp = path.with_suffix('.json.tmp')
+    temp.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    temp.replace(path)
+
+
+def prune_link_exceptions(root, data):
+    """Only confirmed absence expires records; read errors propagate, never delete."""
+    kept = {}
+    for name, records in data.items():
+        path = root / name
+        try: text = path.read_text(encoding='utf-8')
+        except FileNotFoundError: continue
+        units = {sentence for sentence, _, _ in link_exception_sentences(link_exception_body(text))}
+        active = []
+        for record in records:
+            try: (root / record['target']).stat()
+            except FileNotFoundError: continue
+            if record['sentence'] in units: active.append(record)
+        if active: kept[name] = active
+    return kept
+
+
+def mask_link_exceptions(body, records, entries, boundary):
+    """Hide only excluded occurrences before the unchanged ordinary-link pipeline."""
+    if not records: return body, {}
+    entries = list(entries)
+    by_path = {e.path: e for e in entries if e.type in {'concept', 'theory', 'method', 'instrument', 'person', 'fact'}}
+    units = list(link_exception_sentences(body))
+    counts = Counter(sentence for sentence, _, _ in units)
+    if any(counts[r['sentence']] > 1 for r in records):
+        raise ValueError('链接例外句子重复，请先改写区分或移除该例外')
+    names = {}
+    all_terms = []
+    for entry in entries:
+        for name in (entry.path, entry.path.removesuffix('.md'), entry.title, *entry.aliases):
+            names.setdefault(link_exception_text(name).casefold(), set()).add(entry.path)
+        if entry.path in by_path:
+            all_terms.extend((term, entry.path) for term in {entry.title, *entry.aliases} if term)
+    protected = []
+    # Preserve code, embeds, Markdown links and HTML; exclusions never edit these.
+    for rx in (r'(?ms)^\s*(?:>\s*)?(`{3,}|~{3,})[^\n]*\n.*?^\s*(?:>\s*)?\1[^\n]*',
+               r'`+[^`\n]*`+', r'!\[\[[^\]]*\]\]', r'!?\[[^\]]*\]\([^)]*\)', r'<[^>]*>'):
+        protected.extend(m.span() for m in re.finditer(rx, body))
+    spans = []
+    for sentence, start, end in units:
+        blocked = {r['target'] for r in records if r['sentence'] == sentence and r['target'] in by_path}
+        if not blocked: continue
+        raw = body[start:end]
+        links = list(LINK_EXCEPTION_LINK_RE.finditer(raw))
+        for match in links:
+            targets = names.get(link_exception_text(match[1]).casefold(), set())
+            if len(targets) == 1 and targets <= blocked:
+                label = match[2] if match[2] is not None else match[1]
+                spans.append((start + match.start(), start + match.end(), label))
+        for target in blocked:
+            entry = by_path.get(target)
+            if entry is None: continue
+            terms = sorted({entry.title, *entry.aliases}, key=len, reverse=True)
+            for term in terms:
+                for match in re.finditer(re.escape(term), raw, re.I):
+                    if any(a.start() < match.end() and a.end() > match.start() for a in links): continue
+                    if boundary(raw, match.start(), match.end(), term):
+                        # Do not mask a short alias inside another target's longer term.
+                        longer = False
+                        for other, other_target in all_terms:
+                            if other_target == target or len(other) <= len(term): continue
+                            for candidate in re.finditer(re.escape(other), raw, re.I):
+                                if (candidate.start() <= match.start() and candidate.end() >= match.end()
+                                        and boundary(raw, candidate.start(), candidate.end(), other)):
+                                    longer = True
+                                    break
+                            if longer: break
+                        if longer: continue
+                        spans.append((start + match.start(), start + match.end(), match[0]))
+    selected = []
+    for a, b, label in sorted(set(spans), key=lambda s: (s[0], -s[1])):
+        if any(p < b and q > a for p, q in protected): continue
+        if selected and a < selected[-1][1]: continue
+        selected.append((a, b, label))
+    prefix = '\ue100'
+    while prefix in body: prefix += '\ue100'
+    out, replacements, cursor = [], {}, 0
+    for number, (a, b, label) in enumerate(selected):
+        token = prefix + '\ue102' * (number + 1) + '\ue101'
+        replacements[token] = label
+        out.extend((body[cursor:a], token)); cursor = b
+    out.append(body[cursor:])
+    return ''.join(out), replacements
+
+
+def restore_link_exceptions(body, replacements):
+    if not replacements: return body
+    pattern = '|'.join(re.escape(t) for t in sorted(replacements, key=len, reverse=True))
+    return re.sub(pattern, lambda m: replacements[m[0]], body)
 
 
 def count_unescaped_pipes(line: str) -> int:
@@ -1478,9 +1674,12 @@ def sync_file(
         removed = 0
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
-        body, excluded_spans = link_exceptions.mask(body, exclusions or [],
+        original_link_count = len(WIKILINK_RE.findall(body)) if exclusions else 0
+        body, excluded_spans = mask_link_exceptions(body, exclusions or [],
                                                    entries_by_title.values(), valid_boundary)
+        excluded_removed = original_link_count - len(WIKILINK_RE.findall(body)) if exclusions else 0
         cleaned_body, removed, cleaned_table_pipes = clean_invalid_links(body, entries_by_title)
+        removed += excluded_removed
         linked_body, body_added = link_body(
             cleaned_body,
             terms,
@@ -1496,7 +1695,7 @@ def sync_file(
         linked_body, final_table_pipes = normalize_table_wikilink_pipes_in_text(linked_body)
         table_pipes_escaped = cleaned_table_pipes + final_table_pipes
         linked_body, heading_styles_normalized = normalize_bold_heading_style(linked_body)
-        linked_body = link_exceptions.restore(linked_body, excluded_spans)
+        linked_body = restore_link_exceptions(linked_body, excluded_spans)
         if excluded_spans:
             linked_body, _ = normalize_table_wikilink_pipes_in_text(linked_body)
     updated = linked_fm + linked_body
@@ -2043,7 +2242,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     entries = load_entries()
     exclusions = {}
     if not tables_only:
-        original_exclusions, exclusions = link_exceptions.clean(ROOT, LINK_EXCEPTIONS, dry_run)
+        original_exclusions, exclusions = clean_link_exceptions(ROOT, LINK_EXCEPTIONS, dry_run)
         # A registry-only edit must also process its notes in incremental mode.
         previous = git_files_at_ref("HEAD", ["scripts/link_exceptions.json"]).get("scripts/link_exceptions.json")
         previous_data = json.loads(previous) if previous else {}
@@ -2051,7 +2250,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
                     if exclusions.get(name) != previous_data.get(name)}
         if not paths and not full:
             files = sorted(set(files) | {ROOT / name for name in affected
-                           if link_exceptions.valid_path(name) and (ROOT / name).is_file()
+                           if valid_link_exception_path(name) and (ROOT / name).is_file()
                            and not should_skip_file(ROOT / name)})
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
@@ -2113,13 +2312,13 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
         )
 
 
-def register_exclusion(name: str, sentence: str, target: str) -> None:
-    with link_exceptions.registry_lock(ROOT):
-        _register_exclusion(name, sentence, target)
+def register_exclusion(name: str, sentence: str, target: str, *, record_only: bool = False) -> None:
+    with link_exception_lock(ROOT):
+        _register_exclusion(name, sentence, target, record_only=record_only)
 
 
-def _register_exclusion(name: str, sentence: str, target: str) -> None:
-    if not link_exceptions.valid_path(name) or not link_exceptions.valid_path(target):
+def _register_exclusion(name: str, sentence: str, target: str, *, record_only: bool = False) -> None:
+    if not valid_link_exception_path(name) or not valid_link_exception_path(target):
         raise ValueError("请使用规范的 wiki/ 相对 Markdown 路径")
     entries = load_entries()
     by_path = {entry.path: entry for entry in entries}
@@ -2130,22 +2329,223 @@ def _register_exclusion(name: str, sentence: str, target: str) -> None:
     path = ROOT / name
     original = path.read_text(encoding="utf-8")
     fm, body = split_frontmatter(original)
-    sentence = link_exceptions.canonical(sentence)
-    matches = [unit for unit, _, _ in link_exceptions.sentences(body) if unit == sentence]
+    sentence = link_exception_text(sentence)
+    matches = [unit for unit, _, _ in link_exception_sentences(body) if unit == sentence]
     if len(matches) != 1:
         raise ValueError("句子未找到或重复，不能唯一定位；请核对可见句子，重复句需先改写区分")
     record = {"sentence": sentence, "target": target}
-    masked, replacements = link_exceptions.mask(body, [record], entries, valid_boundary)
+    masked, replacements = mask_link_exceptions(body, [record], entries, valid_boundary)
     if not replacements:
         raise ValueError("句中未找到该目标的可处理链接或标题/别名")
-    data = link_exceptions.prune(ROOT, link_exceptions.load(LINK_EXCEPTIONS))
+    data = prune_link_exceptions(ROOT, load_link_exceptions(LINK_EXCEPTIONS))
     if record not in data.setdefault(name, []):
         data[name].append(record)
-    link_exceptions.save(LINK_EXCEPTIONS, data)
-    updated = fm + link_exceptions.restore(masked, replacements)
-    if updated != original:
+    save_link_exceptions(LINK_EXCEPTIONS, data)
+    updated = fm + restore_link_exceptions(masked, replacements)
+    if updated != original and not record_only:
         path.write_text(updated, encoding="utf-8")
     print("链接例外已登记。")
+
+
+def run_link_exception_tests() -> int:
+    """Regression tests; fixtures never touch the real vault."""
+    import contextlib
+    import io
+    import json
+    import tempfile
+    import unittest
+    from pathlib import Path
+    from unittest.mock import patch
+
+    import sys
+    linker = sys.modules[__name__]
+
+
+    class LinkExceptionsTest(unittest.TestCase):
+        def setUp(self):
+            self.temp = tempfile.TemporaryDirectory()
+            self.addCleanup(self.temp.cleanup)
+            self.root = Path(self.temp.name).resolve()
+            self.note = 'wiki/arguments/Example.md'
+            self.target = 'wiki/concepts/Research Hypothesis.md'
+            self.other = 'wiki/concepts/Evidence.md'
+            self.entries = [linker.Entry('Research Hypothesis', self.target, ('假设',), 'concept'),
+                            linker.Entry('Evidence', self.other, ('证据',), 'concept'),
+                            linker.Entry('Example', self.note, (), 'argument')]
+            for entry in self.entries:
+                path = self.root / entry.path
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text('---\ntype: ' + entry.type + '\n---\n', encoding='utf-8')
+            self.registry = self.root / 'scripts/link_exceptions.json'
+            self.registry.parent.mkdir()
+            self.patch = patch.multiple(linker, ROOT=self.root, WIKI_DIR=self.root / 'wiki',
+                                        LINK_EXCEPTIONS=self.registry, INDEX_JSON=self.root / 'wiki/index.json')
+            self.patch.start(); self.addCleanup(self.patch.stop)
+            linker.INDEX_JSON.write_text(json.dumps([
+                dict(title=e.title, path=e.path, aliases=e.aliases, type=e.type) for e in self.entries]))
+
+        def record(self, sentence='这一假设需要证据。'):
+            return {'sentence': sentence, 'target': self.target}
+
+        def sync(self, body, records, dry_run=False):
+            path = self.root / self.note
+            path.write_text('---\ntype: argument\n---\n' + body)
+            terms, by_title, path_to_title = linker.make_terms(self.entries)
+            linker.sync_file(path, terms, linker.TermMatcher(terms), None, {}, by_title,
+                             path_to_title, {}, linker.build_person_prefix_registry(terms),
+                             dry_run, exclusions=records)
+            return linker.split_frontmatter(path.read_text())[1]
+
+        def test_only_one_sentence_target_and_first_valid_mention(self):
+            body = '这一[[Research Hypothesis|假设]]需要证据。研究假设涉及证据。\n'
+            result = self.sync(body, [self.record()])
+            self.assertIn('这一假设需要[[Evidence|证据]]。', result)
+            # Use a separate standalone occurrence for the original boundary rule.
+            result = self.sync('这一假设需要证据。\n假设需要检验。\n', [self.record()])
+            self.assertIn('这一假设需要[[Evidence|证据]]。', result)
+            self.assertIn('[[Research Hypothesis|假设]]需要检验。', result)
+
+        def test_removed_link_does_not_change_identity(self):
+            plain = '这一假设需要证据。'
+            linked = '这一[[Research Hypothesis|假设]]需要[[Evidence|证据]]。'
+            self.assertEqual([s for s, _, _ in link_exception_sentences(plain)],
+                             [s for s, _, _ in link_exception_sentences(linked)])
+            result = self.sync(linked, [self.record()])
+            self.assertEqual(result, self.sync(result, [self.record()]))
+
+        def test_registration_removes_only_existing_mislink_and_deduplicates(self):
+            path = self.root / self.note
+            path.write_text('---\ntype: argument\n---\n这一[[Research Hypothesis|假设]]需要证据。\n')
+            with contextlib.redirect_stdout(io.StringIO()):
+                linker.register_exclusion(self.note, self.record()['sentence'], self.target)
+                linker.register_exclusion(self.note, self.record()['sentence'], self.target)
+            self.assertIn('这一假设需要证据。', path.read_text())
+            self.assertEqual(load_link_exceptions(self.registry), {self.note: [self.record()]})
+
+        def test_record_only_preserves_source_snapshot(self):
+            path = self.root / self.note
+            original = '---\ntype: argument\n---\n这一[[Research Hypothesis|假设]]需要证据。\n'
+            path.write_text(original)
+            with contextlib.redirect_stdout(io.StringIO()):
+                linker.register_exclusion(self.note, self.record()['sentence'], self.target, record_only=True)
+            self.assertEqual(path.read_text(), original)
+            self.assertEqual(load_link_exceptions(self.registry), {self.note: [self.record()]})
+
+        def test_short_exclusion_preserves_another_longer_term(self):
+            entries = self.entries + [linker.Entry('Scientific Hypothesis', 'wiki/concepts/Scientific Hypothesis.md',
+                                                 ('科学假设',), 'concept')]
+            body = '科学假设需要证据。'
+            masked, replacements = mask_link_exceptions(body, [self.record(body)], entries, linker.valid_boundary)
+            self.assertEqual(masked, body)
+            self.assertEqual(replacements, {})
+
+        def test_prune_deleted_edited_missing_targets_and_dry_run(self):
+            path = self.root / self.note
+            path.write_text('---\ntype: argument\n---\n这一假设需要证据。\n')
+            data = {self.note: [self.record(), self.record('已经删除的句子。')]}
+            save_link_exceptions(self.registry, data)
+            _, active = clean_link_exceptions(self.root, self.registry, dry_run=True)
+            self.assertEqual(active, {self.note: [self.record()]})
+            self.assertEqual(load_link_exceptions(self.registry), data)
+            clean_link_exceptions(self.root, self.registry)
+            path.write_text('---\ntype: argument\n---\n这一猜测需要证据。\n')
+            self.assertEqual(prune_link_exceptions(self.root, load_link_exceptions(self.registry)), {})
+            path.unlink()
+            self.assertEqual(prune_link_exceptions(self.root, data), {})
+            path.write_text('这一假设需要证据。')
+            (self.root / self.target).unlink()
+            self.assertEqual(prune_link_exceptions(self.root, data), {})
+
+        def test_read_failure_never_rewrites_registry(self):
+            data = {self.note: [self.record()]}
+            save_link_exceptions(self.registry, data)
+            original_read = Path.read_text
+            def fail(path, *args, **kwargs):
+                if path == self.root / self.note: raise PermissionError('unreadable')
+                return original_read(path, *args, **kwargs)
+            with patch.object(Path, 'read_text', fail), self.assertRaises(PermissionError):
+                clean_link_exceptions(self.root, self.registry)
+            self.assertEqual(load_link_exceptions(self.registry), data)
+
+        def test_duplicate_sentence_and_bad_registration_rejected(self):
+            path = self.root / self.note
+            path.write_text('这一假设需要证据。\n这一假设需要证据。')
+            with self.assertRaises(ValueError):
+                linker.register_exclusion(self.note, self.record()['sentence'], self.target)
+            with self.assertRaises(ValueError):
+                mask_link_exceptions(path.read_text(), [self.record()], self.entries, linker.valid_boundary)
+            with self.assertRaises(ValueError):
+                linker.register_exclusion(self.note, self.record()['sentence'], self.note)
+
+        def test_table_and_callout(self):
+            for body in ('> 这一[[Research Hypothesis|假设]]需要证据。\n',
+                         '| 这一[[Research Hypothesis\\|假设]]需要证据。 | 其他 |\n'):
+                result = self.sync(body, [self.record()])
+                self.assertNotIn('Research Hypothesis', result)
+                self.assertIn('假设', result)
+            body = '| 假设需要检验。 | 证据 |\n'
+            result = self.sync(body, [self.record('假设需要检验。')])
+            self.assertIn('| 假设需要检验。 |', result)
+            self.assertIn('[[Evidence\\|证据]]', result)
+
+        def test_code_protected_and_no_record_preserves_normal_behavior(self):
+            body = '```text\n这一假设需要证据。\n```\n'
+            masked, replacements = mask_link_exceptions(body, [self.record()], self.entries, linker.valid_boundary)
+            self.assertEqual(masked, body)
+            self.assertEqual(replacements, {})
+            result = self.sync('假设需要检验。\n', [])
+            self.assertIn('[[Research Hypothesis|假设]]', result)
+
+        def test_incremental_registry_only_change_and_sync_dry_run(self):
+            path = self.root / self.note
+            original = '---\ntype: argument\n---\n这一[[Research Hypothesis|假设]]需要证据。\n'
+            path.write_text(original)
+            save_link_exceptions(self.registry, {self.note: [self.record()]})
+            with patch.object(linker, 'select_link_files', return_value=[]), \
+                 patch.object(linker, 'git_files_at_ref', return_value={}), \
+                 patch.object(linker, 'load_source_entries', return_value=[]), \
+                 contextlib.redirect_stdout(io.StringIO()):
+                linker.run_sync([], True, False, False, False, wiki_only=True)
+                self.assertEqual(path.read_text(), original)
+                linker.run_sync([], False, False, False, False, wiki_only=True)
+            self.assertNotIn('Research Hypothesis', path.read_text())
+
+        def test_invalid_registry_fails_instead_of_resetting(self):
+            self.registry.write_text('{"wiki/a.md":[],"wiki/a.md":[]}')
+            with self.assertRaises(ValueError): load_link_exceptions(self.registry)
+            self.registry.write_text('{"../outside.md":[]}')
+            with self.assertRaises(ValueError): load_link_exceptions(self.registry)
+
+        def test_removing_registry_record_rechecks_unchanged_note(self):
+            path = self.root / self.note
+            path.write_text('---\ntype: argument\n---\n这一假设需要证据。\n')
+            save_link_exceptions(self.registry, {})
+            previous = {'scripts/link_exceptions.json': json.dumps({self.note: [self.record()]})}
+            with patch.object(linker, 'select_link_files', return_value=[]), \
+                 patch.object(linker, 'git_files_at_ref', return_value=previous), \
+                 patch.object(linker, 'load_source_entries', return_value=[]), \
+                 contextlib.redirect_stdout(io.StringIO()):
+                linker.run_sync([], False, False, False, False, wiki_only=True)
+            self.assertIn('[[Research Hypothesis|假设]]', path.read_text())
+
+        def test_lint_checks_registry_outside_incremental_scope(self):
+            import vault_lint
+            path = self.root / self.note
+            path.write_text('---\ntype: argument\n---\n这一假设需要证据。\n')
+            save_link_exceptions(self.registry, {self.note: [self.record()]})
+            with patch.multiple(vault_lint, ROOT=self.root, WIKI_DIR=self.root / 'wiki'):
+                issues = []
+                vault_lint.check_link_exceptions(issues)
+                self.assertEqual(issues, [])
+                save_link_exceptions(self.registry, {self.note: [self.record('已删除的句子。')]})
+                vault_lint.check_link_exceptions(issues)
+                self.assertEqual(issues[0].code, 'LINK_EXCEPTION_INVALID')
+
+
+
+    suite = unittest.defaultTestLoader.loadTestsFromTestCase(LinkExceptionsTest)
+    result = unittest.TextTestRunner(verbosity=2).run(suite)
+    return 0 if result.wasSuccessful() else 1
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -2169,6 +2569,8 @@ def build_parser() -> argparse.ArgumentParser:
     exclude.add_argument("path", help="Vault-relative note path.")
     exclude.add_argument("--sentence", required=True, help="Exact visible sentence (without wikilink markup).")
     exclude.add_argument("--target", required=True, help="Canonical vault-relative target path from wiki/index.json.")
+    exclude.add_argument("--record-only", action="store_true", help="Only register; defer existing-link removal to ordinary sync (preserves source snapshots).")
+    sub.add_parser("self-test", help="Run sentence-exclusion regression tests in a temporary vault.")
     sub.add_parser("exceptions-clean", help="Remove expired sentence/target exclusions without linking notes.")
 
     return parser
@@ -2183,10 +2585,12 @@ def main() -> None:
         parser.error("--tables-only cannot be combined with citation options")
     if getattr(args, "wiki_only", False) and getattr(args, "fix_display", False):
         parser.error("--wiki-only cannot be combined with --fix-display")
-    if args.command == "exclude":
-        register_exclusion(args.path, args.sentence, args.target)
+    if args.command == "self-test":
+        raise SystemExit(run_link_exception_tests())
+    elif args.command == "exclude":
+        register_exclusion(args.path, args.sentence, args.target, record_only=args.record_only)
     elif args.command == "exceptions-clean":
-        original, active = link_exceptions.clean(ROOT, LINK_EXCEPTIONS)
+        original, active = clean_link_exceptions(ROOT, LINK_EXCEPTIONS)
         count = sum(map(len, original.values())) - sum(map(len, active.values()))
         if count:
             print(f"Expired link exceptions removed: {count}")

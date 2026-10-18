@@ -311,6 +311,8 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 命令只登记例外并将该句中指向该目标的现有链接还原为显示文字，不执行其他补链、关系同步或修改生成字段。仅提及、没有新增信息、不值得更新条目均不自动构成误链；核实概念含义与语境后才能排除。
 
+独立 `related_update.py` 批次审查使用同一命令加 `--record-only`，仅登记，保留任务锁定的 Argument 快照；已有误链在后续显式普通补链中去除。登记命令默认立即去掉对应误链。
+
 `scripts/link_exceptions.json` 只记录所在条目路径、完整可见句子和排除目标路径，不存理由、时间或报告，不向正文或 YAML 加标记：
 
 ```json
@@ -329,6 +331,10 @@ cd /Users/shaoyangwu/Documents/MyNotes
 匹配使用完整可见句子，忽略 wikilink 标记、Unicode NFC 差异及连续空白，不绑定行号，不模糊匹配；以中文句末标点、英文句点后空白、换行或表格单元格为分界。重复句拒绝自动定位，需先改写区分；代码等非普通正文中的内容不登记。
 
 基础 `vault_index.py` 和普通补链会自动删除失效记录：句子删除或改写、所在文件删除、目标文件删除时清除，对应列表为空时删除路径键；不保留失效历史。改写后的句子重新按正常规则补链；文件移动或改名应同步例外路径，否则按旧路径失效处理。读取失败或 JSON 损坏时停止并保留文件，不当作删除清空。可单独运行 `.venv/bin/python3 scripts/wiki_linker.py exceptions-clean` 清理，不修改知识条目。普通补链的 `--dry-run` 不改例外表或正文；例外表新增、修改或删除的记录会将对应文件纳入默认增量补链。
+
+`vault_lint.py` 始终校验例外表的路径、结构、句子唯一性与目标类型；无效记录报 `LINK_EXCEPTION_INVALID`，不得靠扩大匹配范围或批量登记绕过审查。
+
+例外处理与回归测试均内置于 `wiki_linker.py`，不另设 Python 脚本。运行 `.venv/bin/python3 scripts/wiki_linker.py self-test` 在临时 vault 中检查登记、排除、清理及增量行为，不修改真实知识条目。
 
 ### Full Sync
 
