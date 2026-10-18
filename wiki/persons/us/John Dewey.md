@@ -8,9 +8,9 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 69
-person_related_level: 6
-person_related_stars: "💎💎"
+person_related_count: 70
+person_related_level: 7
+person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1859"
 died: "1952"
@@ -97,6 +97,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -239,12 +240,16 @@ updated: 2026-10-18
 > - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]家会面，成为美苏[[Cultural Diplomacy|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
 > - **1930年代（意识形态全面摒弃）** 苏联因其自下而上的民主成长观与阶级意识形态教育发生深刻冲突，全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
+> [!phase] 北欧与丹麦改革教育学（1970s–1980s）
+> - **抗击官僚威权与倡导主动探究** 1970 年代丹麦教育学界引入“学习（læring）”概念以打破传统自上而下的国家威权注入式教学（indlæring）；学者重读杜威与[[Wolfgang Klafki|克拉夫基]]，倡导以问题导向、跨学科小组合作与个性化探究为特征的“改革教育学”（Reform Pädagogik），在国家资助实验校中开展广泛的民主探究实践。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
+
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读杜威以批判威权注入式教学、推动跨学科与问题导向实验校改革的制度化轨迹。
 
 ---
 

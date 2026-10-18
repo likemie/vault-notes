@@ -46,7 +46,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Sheila Slaughter
@@ -61,7 +61,7 @@ updated: 2026-10-16
 > - **代表贡献** 与拉里·莱斯利（Larry L. Leslie）及加里·罗兹（Gary Rhoades）合作出版《学术资本主义》（1997）与《学术资本主义与新经济》（2004），实证揭示冷战后大学如何通过专利转让与商业化融入市场，并论证了后冷战时期联邦科研中“多重契约并存”的制度生态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 多重契约交叠与学术资本主义
-> 希拉·斯劳特（Sheila Slaughter）等学者的实证研究表明，冷战后并非发生了从国防契约向经济契约的单一一刀切替换，而是形成了冷战遗产契约、经济[[Competitiveness|竞争力]]契约与健康研究专项契约交叠共存的复合生态；大学科研人员主动利用市场化手段获取资源，重塑了科学社会契约的内部微观机制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 希拉·斯劳特（Sheila Slaughter）等学者的实证研究表明，冷战后实际形成了冷战遗产契约、经济[[Competitiveness|竞争力]]契约与健康研究专项契约交叠共存的复合生态，有别于从国防契约向经济契约的一刀切替换假设；大学科研人员主动利用市场化手段获取资源，重塑了科学社会契约的内部微观机制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *Empirical research by Sheila Slaughter and colleagues demonstrated that the post-Cold War era did not witness a simple substitution of one contract for another, but rather a composite ecology where the Cold War legacy contract, economic [[Competitiveness]] contract, and health research contract overlapped.*
 
@@ -84,7 +84,7 @@ updated: 2026-10-16
 > - **1990 — *The Higher Learning and High Technology*** 早期探讨高新技术产业与大学科研政策深度绑定的历史转折，奠定大学与国家关系政治经济学分析[[Paradigm|范式]]。
 > - **1997 — *[[Academic Capitalism]]: Politics, Policies, and the [[Entrepreneurial University]]*** 提出“学术资本主义”概念，论证高校教师与科研团队如何作为市场行动者在公立资助退潮下竞逐外部资本。
 > - **2004 — *Academic Capitalism and the New Economy*** 进一步将[[Analytic Framework|分析框架]]拓展至网络经济、知识产权网络与大学治理结构的全面重组。
-> - **2008 — *The [[Social Contract of Science]] in the Post-Cold War Era*** 系统论证冷战后并未形成单一替代性新契约，而是呈现多维重叠契约动态博弈格局。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **2008 — *The [[Social Contract of Science]] in the Post-Cold War Era*** 系统论证冷战后呈现多维重叠契约动态博弈格局，颠覆了单一替代性新契约假设。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-10-16
 > 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的[[Social Regime|制度规约]]之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 契约演进的非线性与多元交叠
-> 后冷战时期的科学政策转型从来不是一次性完成的[[Paradigm|范式]]革命，而是各方利益在既有制度遗产上的妥协与叠置；多重契约的存在不仅赋予大学灵活调度资源的生存空间，也瓦解了传统科学共同体统一的学术价值标准。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 后冷战时期的科学政策转型实质上是各方利益在既有制度遗产上的妥协与叠置，有别于一次性完成的[[Paradigm|范式]]革命；多重契约的存在不仅赋予大学灵活调度资源的生存空间，也瓦解了传统科学共同体统一的学术价值标准。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *The transformation of post-Cold War science policy was never a one-time paradigm shift, but a compromise and overlay upon existing institutional legacies; the co-existence of multiple contracts disintegrated the unified normative standards of the traditional scientific community.*
 

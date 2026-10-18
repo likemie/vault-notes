@@ -8,7 +8,7 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -66,10 +66,11 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Immanuel Kant
@@ -138,7 +139,7 @@ updated: 2026-10-16
 康德哲学由[[Epistemology|认识论]]上的心智立法、伦理学上的理性自律以及历史教育学上的全人启蒙三大基石共同奠定：
 
 > [!claim] 核心主张
-> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国[[Cosmopolitanism|世界主义]]法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina\|规训]]跃升为内在道德化自律——方能实现真正的人性展开。
+> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国[[Cosmopolitanism|世界主义]]法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina\|规训]]进阶至内在道德化自律——方能实现真正的人性展开。
 
 > [!citation-card] 头顶星空与内心道德法则
 > 有两样东西，人们越是经常、越是持久地对它们进行思考，它们在心中唤起的赞叹与敬畏就越是充溢、与日俱增：这就是我头顶上星空璀璨的穹苍，和我内心深处庄严的道德法则。引自《实践理性批判》（1788）
@@ -158,7 +159,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
+> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德将普遍的人类共同体（Universal Human Community）确立为国际关系的终极实体，超越了主权国家的孤立视角，倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
 
@@ -166,6 +167,7 @@ updated: 2026-10-16
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
+> - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 将康德置于德意志教化（[[Bildung]]）与存在本体论哲学传统，以此对抗当代实证主义将教育降维为即时可见学习的狭隘化倾向。
 
 ---
 

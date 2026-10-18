@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -67,10 +67,11 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Zhao_2020_JEC]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 # Andreas Schleicher
@@ -118,7 +119,7 @@ updated: 2026-10-16
 > 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
 
 > [!citation-card] 跨国证据与教育体系自我超越
-> 过去教育由国家规定教什么与学什么；但在今天，全球经济不再因为你知道什么而奖励你，而是因为你能用所知做些什么而奖励你。大规模国际测评的根本价值不在于排名，而在于让政策制定者看到全球其他体系可能达到的更高水准，从而激发改革意志，建立面向未来的世界级学校体系。(Schleicher, 2018)
+> 过去教育由国家规定教什么与学什么；但在今天，全球经济奖励的是个体运用所学知识解决实际问题的实践能力，超越了单纯掌握静态知识事实的传统导向。大规模国际测评的核心价值不仅体现在激发竞争意识，更在于让政策制定者看到全球其他体系达到的高水准标杆，从而激发系统性改革意志，建立面向未来的世界级学校体系。(Schleicher, 2018)
 
 ---
 
@@ -133,6 +134,7 @@ updated: 2026-10-16
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威援引其文献，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
+> - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 批判施莱歇尔与经合组织在 2018 年哥本哈根会议提出的 21 世纪技能话语，揭示其如何将教育简化为不可预测未来的适应性伺服工具，遮蔽了德意志教化传统的规范性自主追求。
 
 ---
 
@@ -193,12 +195,3 @@ updated: 2026-10-16
 > | [[Policy Brokerage]] | 概念 | 将政策中介在教育领域的运作制度化为集数据、报告与咨询于一体的知识平台。 |
 > | [[Soft Power by Hard Facts]] | 概念 | 践行以可比硬事实指标对主权国家实施非强制性软治理的核心代表人物。 |
 > | [[2014 Open Letter on PISA]] | 历史事件 | 面对 83 位国际顶尖学者集体抗议并代表经合组织进行公开辩护的当事人。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威剖析其关于[[OECD\|经合组织]]作为独特知识枢纽与[[Policy Brokerage\|政策中介]]的制度定位，揭示大规模评估背后的全球规制雄心。
-> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 实证分析其在 [[PISA]] 发布会上的 147 张幻灯片与媒体修辞技术，解构其新自由主义教育改革蓝图。
-> - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 深入评析其对中国上海 PISA 表现的文化归因，反思量化指标对威权教育体制的浪漫化遮蔽。
