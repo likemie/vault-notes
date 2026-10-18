@@ -6,16 +6,16 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 97
+method_related_count: 98
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
 tags:
-- effect-size
-- meta-analysis
-- evidence-based-education
-- methodology
-- statistics
+  - effect-size
+  - meta-analysis
+  - evidence-based-education
+  - methodology
+  - statistics
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Visible Learning]]"
@@ -57,6 +57,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Class Size]]"
   - "[[Implementation Fidelity]]"
+  - "[[Category Mistake]]"
+  - "[[Bildung]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -85,6 +87,7 @@ related_persons:
   - "[[Adrian Simpson]]"
   - "[[Jacob Cohen]]"
   - "[[Ivan Snook]]"
+  - "[[Steen Nepper Larsen]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Australian Council for Educational Research]]"
@@ -117,6 +120,8 @@ related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[EEF Padlock Security Rating]]"
@@ -126,367 +131,162 @@ created: '2026-05-01'
 updated: 2026-10-18
 ---
 
+# Effect Size
+
+---
+
 ## 定义
 
-> [!def] 核心定义
-> 效应量（Effect Size）是量化干预措施效果的标准化统计指标，计算方式为干预组与对照组结果差异除以标准差，旨在使不同研究的结果可跨测量工具比较。效应量是[[Meta-analysis\|元分析]]的核心[[Unit of Analysis\|分析单位]]，[[Gene Glass]] 于 1976 年将其确立为跨研究比较的标准化工具，[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名教学干预使其进入全球教育政策[[Discourse|话语]]。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 118]]）。
+> [!def] 方法定义
+> 效应量（Effect Size）是量化干预措施效果或变量关联强度的标准化统计指标，最常用计算形式为干预组与对照组（或前后测）结果均值差异除以合并标准差，旨在消除不同测验量表的原始单位差异，使不同研究的经验结果具备可比性。效应量是[[Meta-analysis|元分析]]的核心[[Unit of Analysis|分析单位]]，由 [[Gene Glass]]（1976）系统确立为跨研究证据合成的标准化工具，并在 [[John Hattie]] 的《[[Visible Learning|可见的学习]]》（2009）与英国[[Education Endowment Foundation|教育捐赠基金会]]的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中，被广泛用于教育干预排位与循证政策决策。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 118)]]
 
-> [!concept-lens] 概念透镜
-> - **含义** 效应量通过除以标准差消除测量单位，回答"干预产生了多大差异"，而非仅回答"差异是否显著"。[[Lars Qvortrup]]（2015）强调其"相对效果"功能——可比较不同研究之间干预组与控制组的相对变化（[[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, p.27]]）。
-> - **用途** 为[[Meta-analysis\|元分析]]提供可合并的通用尺度，为实践者和政策制定者提供关于"什么有效"的量化总结。
-> - **边界** 效应量不直接说明效果的实质教育意义——同一个 d 值可能对应表层知识记忆或深层概念理解。[[Adrian Simpson]]（2017, 2018, 2019）进一步论证效应量实际测量的是试验清晰度（experimental clarity）而非干预有效性，详见 [[Critique of Effect Size]]。
+> [!method-scope] 方法范围
+> - **研究对象** 实验组与对照组（或后测与前测）在连续性或分类性测量工具上的结果表现差异、变量间的线性关联强度，或事件发生比值比。
+> - **问题类型** 适合回答干预效果量化比较、元分析加权合成、样本量敏感度分析与教学改进幅度测度问题。
+> - **分析单位** 单项实证研究中由特定测量工具测得的独立效应估计值，或嵌套于研究内的多重效应量。
+> - **输出形式** 无量纲标准化均差（Cohen's $d$、Hedges' $g$、Glass' $\Delta$）、相关系数（Pearson's $r$）、优势比（$OR$）或经转化的“额外学习月数”。
 
-> [!boundary] 概念边界
-> - **不等于教育有效性** 效应量反映的是试验设计的信噪比，大 d 表示差异在统计上清晰，不表示差异大、重要或具有教育显著性。
-> - **不等于因果效应** 效应量本身不区分相关与因果。其因果含义完全取决于产生它的研究设计。
-> - **不替代原始单位** 标准化消除了原始测量单位，便于跨研究比较，但也抹除了效果的实际教育意义——知道提高了 0.3 SD 并不能直接知道学生多学会了几个单词。
-
----
-
-## 概念辨析
-
-> [!contrast-table] 与相关概念的区别
-> - **vs [[Statistical Significance]]** — 效应量测量效果的大小，统计显著性测量效果是否可能仅由随机因素产生。统计显著性依赖于效应量和[[Sample Size Determination\|样本量]]的乘积：$t = d\sqrt{n}$([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]])。在 n=25 的双侧检验中，临界 $t=2.060$ 对应 $d \approx 0.412$，刚好接近《[[Visible Learning\|可见的学习]]》的 0.40 阈值，这意味着 0.40 与 p≈0.05 的对应关系严格受限于特定样本量条件，缺乏脱离样本量的普适独立性。
-> - **vs [[Confidence Interval]]** — 效应量给出点估计，置信区间呈现该估计的误差范围。没有置信区间或[[Standard Error\|标准误]]时，相邻效应量排名无法判断是否真的不同([[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47–48]])。Hattie 的效应量排名仅给 d 的点估计，未系统报告置信区间或[[Standard Error\|标准误]]，也未进行相邻排名之间的显著性检验。
-> - **vs 原始分数差异（Raw Score Difference）** — 原始分数差异保留了原始测量单位，效应量通过除以标准差消除了单位——这使跨研究比较成为可能，但也抹除了效果的实际教育意义。
-> - **vs 意向处理分析效应** — 意向处理分析按原始[[Random Assignment\|随机分配]]分析（无论实际接受与否），反映干预可获得性而非实际接受效果；效应量本身不区分这两种估计，但所基于的研究设计决定了其政策含义([[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p.233]])。
-> - **vs 最小可检测效应量** — 效应量是事后度量（干预实际产生了多大效果），最小可检测效应量是事前设计参数（研究能够检测到多大效果），详见下方[[#最小可检测效应量]]。
-
----
-
-## 概念演变
-
-> [!dev-timeline] 效应量的概念演变
-> - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.37]])。
-> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量。
-> - **1969** — [[Jacob Cohen]] 出版 [[Power Analysis\|statistical power analysis]] for the Behavioral Sciences 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
-> - **1976** — [[Gene Glass]] 提出[[Meta-analysis\|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_ROE\|Higgins, 2016, pp.36–37]])。
-> - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis\|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.32]])。
-> - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]])。
-> - **2005** — [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于 100 余项元分析与 50 余万个效应量确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出批判教育界将门槛定得过低的“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（[[Assessment Tools for Teaching and Learning\|asTTle]]）推动效应量在中小学校本评价与教师教学改进中的本土化应用（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 15–17]]）。
-> - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]；同年，[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）发表批判性论文，援引低剂量阿司匹林试验（$d=0.07$ 每千人拯救 34 条生命）论证 $d=0.40$ 截断值的武断性，并指出单一平均效应量掩盖了微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛突破（STAR 试验小班 $d=0.62–0.66$）。
-> - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion\|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
-> - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018）。
-> - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。同时，俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）首次采用变差系数检验《可见的学习》所用 133 项效应量数据集，发现总体离散度击穿统计同质性阈值（$V_\sigma = 56.87\% > 33\%$），实证揭示了未经同质性控制的效应量聚合使 $d=0.40$ 关节点失去数理基准效力。
-> - **2020 至 2023** — Kraft 以教育[[Randomised Controlled Trials\|随机对照试验]]中标准化[[Academic Achievement\|学业成绩]]结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一"失败频率"应成为解释政策相关性的核心参照([[Argument_Kraft_2023_ER\|Kraft, 2023, pp.183–184]])。
-> - **2025** — Kalmendal 等人发表全库[[Metascience|元科学]]质量审计，基于 Morris and DeShon（2002）的方法学原理实证剖析了效应量跨设计聚合的根本风险：指出组间与组内设计估计的是完全不同的总体参数，且与常规教学比较 vs 与积极干预比较的效应量存在翻倍差异；简单混合聚合严重摧毁了通用效应量指标的数学可比性（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, p. 16]]）。
-
----
-
-## 核心要素
-
-> [!feature] 效应量的核心要素
-> - **技术定义与计算** 标准化均值差公式、与显著性检验和统计功效的关系、最小可检测效应量的设计含义。
-> - **解释框架** Cohen 的经验法则、Hattie 的影响气压计与关节点（$d=0.40$）、Terhart 的实质解释、Kraft 的教育 [[Randomised Controlled Trials\|RCT]] 经验基准、清算中心的政策阈值。
-> - **效应量变异的系统性来源** 测量类型、[[Sample Size Determination\|样本量]]、研究设计、项目类型、[[Developer Effect\|开发者效应]]和干预定义模糊性六类因素如何系统性地改变效应量。
-
----
-
-## 解释框架
-
-### 技术定义与计算
-
-> [!info] Fitz-Gibbon 的早期推动（1985）
-> Fitz-Gibbon（1985, p. 45）在[[Meta-analysis\|元分析]]发展早期即主张以效应量替代[[Statistical Significance\|统计显著性]]作为[[Evaluation Research\|评估研究]]的主要指标，将统计显著性重新定位为"[[Internal Validity\|内部效度]]众多可能威胁中的一个"——效应大小是否满足[[Research Purpose\|研究目的]]，而非是否跨过了显著性水平的任意截断点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch17, pp.339–340]]）。
-
-> [!formula-step] 标准化均值差（Cohen's d）
-> $$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}}$$
+> [!citation-card]- 关键定义
+> 效应量通过除以标准差消除了测量单位，回答的是“干预产生了多大程度的相对差异”，而非仅仅判定“该差异在统计学上是否达到显著水平”。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, p. 27)]]
 >
-> **这个公式在做什么** 用干预组与对照组（或[[Pre-test and Post-test\|后测]]与前测）的平均得分之差，除以两组的合并标准差（$SD_{pooled}$），产出无量纲的标准化效应度量。
+> *Effect size is a standardized measure that removes measurement units, answering how large a relative difference the intervention produced rather than merely whether the difference is statistically significant.*
+
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 将经验证据视为可跨情境、跨测验量表相对度量的标准化数量关系；通过消除原始测量单位，追求实证干预效果在宏观层面的聚合与横向对比。
+> - **研究者角色** 量化研究者在测验工具选取（研究者自编 vs 独立标准化统考）、对照条件设定（常规教学 vs 积极替代方案）、协变量调整以及设计类型抉择中具有高度裁量权，这些方法学判断直接塑造了效应量大小（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
+> - **有效性标准** 内部效度（组间初始基线等效性）、构念效度（测验工具与教学干预的对齐程度，防范自编测验虚增）、统计结论效度（避免除数混淆与抽样误差造成的假性显著）。
+> - **不声称回答的问题** ① 效应量不等于因果关系，其因果推断效力完全受制于产生它的前置研究设计（实验、准实验或非实验；[[Argument_Allerup_2015_Paideia|Allerup, 2015]]）；② 效应量反映的是试验清晰度与信噪比，不直接等同于教育实质有效性（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]], [[Argument_Simpson_2019_ERE|Simpson, 2019]]）；③ 效应量无法衡量学生在存在性时间中的长周期质性教化（[[Bildung]]）与终身能力转变，脱离具体情境的即时效应量快照容易导致将认识论指标混淆为存在论实体的[[Category Mistake|范畴错误]]（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–3, 10]]）。
+
+> [!method-stack] 方法层级
+> - **研究设计** [[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Pre-test and Post-test|前后测实验]]、[[Correlational Research|相关研究]]。
+> - **数据收集** 标准化学生[[Academic Achievement|学业成绩]]测验、自适应测评软件后台记录、问卷调查、行政统考数据库。
+> - **分析方法** 标准化均值差估计、相关系数转换、胜算比对数变换、逆方差加权平均。
+> - **辅助技术** 小样本无偏校正（Hedges' $J$ 因子）、[[Baseline Standardized Mean Difference|基线等效性筛查]]、[[Covariate Adjustment|协变量校正]]、变差系数同质性诊断、[[EEF Padlock Security Rating|挂锁安全评级]]。
+
+### 历史演进与解释基准
+
+> [!dev-timeline] 效应量概念演变与基准框架演进
+> - **1964** — Benjamin Bloom 提出“两个标准差问题”，以标准差为单位探讨一对一辅导与班级教学的效果差距，奠定早期思想雏形（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]]）。
+> - **1969–1988** — [[Jacob Cohen]] 出版《行为科学统计功效分析》，系统确立 Cohen's $d$ 公式，并提出基于正态分布的身高类比经验法则（$0.2$ 为小、$0.5$ 为中、$0.8$ 为大；[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 427]]）。
+> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将标准化效应量确立为跨研究聚合的核心工具（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 36–37]]）。
+> - **2005–2009** — [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research|ACER]] 会议与《[[Visible Learning|可见的学习]]》中，综合 800 余项元分析确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning|asTTle]]软件推动效应量在校本评价中的普及（[[Argument_Hattie_2005_ACER|Hattie, 2005]]；[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
+> - **2009** — [[Ivan Snook|斯努克]]等学者发表批判论文，援引低剂量阿司匹林试验（$d = 0.07$ 每千人净拯救 34 条生命）反证 $d = 0.40$ 截断值的武断性，揭示单一平均值掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与小班化非线性突破门槛（STAR 试验 $d = 0.62–0.66$；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
+> - **2014–2019** — [[EEF Teaching and Learning Toolkit]] 创立“额外学习月数”转换，英国 EEF 确立效应量与[[EEF Padlock Security Rating|挂锁安全评级]]双轨呈现机制（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；[[Adrian Simpson]]（2017, 2019）提出匈牙利单词思想实验，论证效应量测量的是试验灵敏度而非教学有效性；戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）检验《可见学习》133 项效应量数据集，证实全库变差系数超标（$V_\sigma = 56.87\% > 33\%$），击穿统计同质性前提。
+> - **2019** — 丹麦学者拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）立足德意志教化传统与身体现象学，深入解构可见学习范式将学习降维为即时效应量可见快照的实证主义迷思，揭示其混淆认识论与存在论的范畴错误。
+> - **2023** — Kraft 建立基于 3,426 个教育 RCT 效应量的实证分布（中位数 0.10，36% 的效应量 $< 0.05$），提倡以因果评估经验基准与失败频率取代 Cohen 抽象法则（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
+> - **2025** — Kalmendal 等人完成元科学质量审计，证实组间与组内设计估计不同总体参数，混杂独立组与重复测量及不同对照条件导致跨研究效应量丧失数学可比性（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
+
+---
+
+## 研究程序
+
+> [!method-stack] 数据、变量与模型
+> - **数据结构** 包含实验组与对照组（或前后测）样本量、均值、标准差（$n_1, n_2, M_1, M_2, SD_1, SD_2$）的实证数据集。
+> - **样本与单位** 班级、学校或学生个体样本；必须明确属于独立组间设计（Between-Subjects）还是重复测量设计（Within-Subjects），两类设计估计不同的总体参数，不可直接混杂计算（Morris & DeShon, 2002; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
+> - **变量或指标** 自变量为干预措施（实验组 vs 对照组），因变量为学业产出或认知发展水平。
+> - **模型或统计量** Cohen's $d$、Hedges' $g$、Glass' $\Delta$、Pearson's $r$、比值比 $OR$。
+> - **诊断与检验** 基线等效性筛查（$|d_{\text{baseline}}| \le 0.25$）、测验信度检验、天花板与地板效应排查、同质性变差系数测算（$V_\sigma \le 33\%$）。
+
+> [!formula-step] 公式步骤一　标准化均值差（Cohen's d 与 Hedges' g）
+> $$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}},\quad g = J(df) \times d \approx \left(1 - \frac{3}{4(n_1 + n_2) - 9}\right) d$$
+>
+> **这个公式在做什么** 计算实验组与对照组的均值差异，除以两组样本的合并标准差（$SD_{pooled} = \sqrt{\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}}$），产出无量纲的标准化效应值；并乘以校正因子 $J$ 剔除小样本条件下的正向估计偏倚（Hedges' $g$）。
 >
 > **符号说明**
 > - $M_{\text{干预组}}, M_{\text{对照组}}$ 分别为实验组与对照组在结果测验上的样本均值。
-> - $SD_{pooled}$ 为两组样本的合并标准差（$\sqrt{\frac{(n_1-1)s_1^2 + (n_2-1)s_2^2}{n_1+n_2-2}}$）。
+> - $SD_{pooled}$ 为两组样本的合并标准差。
+> - $n_1, n_2$ 为两组有效样本量；$J(df)$ 为自由度校正系数。
 >
-> **读法与数学直觉** $d = 0.5$ 表示实验组均值比控制组高出半个标准差。$d = 0$ 表示两组无差异，$d$ 为负表示实验组表现更差。标准化消除了不同测量工具的量表差异，使跨研究比较成为可能（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 118]]）。
+> **数学直觉** $d = 0.5$ 表示实验组均值比对照组高出半个标准差。标准化消除了量纲约束，使不同测验工具的数值具备相对可比性（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]]）。
 >
-> **与显著性检验的关系** 若比较干预前后两个分布，均值差 $\mu_1 - \mu_2$ 只有放到标准差 $\sigma$ 的尺度上才有意义。$d$ 作为效应量度量，其数值无法单独用于判定[[Statistical Significance\|统计显著性]]；只有结合[[Sample Size Determination|样本量]]计算 $t = d\sqrt{n}$，才构成用于检验 $\mu_1 = \mu_2$ 的 $t$ 统计量（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.42–43]]）。
+> **结果怎么读** $d = 0$ 表示两组无差异；$d > 0$ 表示干预组表现更优；$d < 0$ 表示对照组表现更优或干预产生负向阻碍。
 >
-> **统计前提** $d$ 的直观解释依赖于三个前提：（1）前后分布近似对称且接近正态；（2）两个分布的标准差相同，均值差才可解释为简单位移；（3）若分布右偏或左偏，均值并不在分布中心。极端情况下，若基础分布类似柯西分布（Cauchy distribution），均值和方差本身不稳定，$d$ 的计算基础会崩塌（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.45–49]]）。
->
-> **第三[[Variable\|变量]]影响** 边际分析与多[[Variable\|变量]]控制会显著改变 $d$。[[TIMSS]] 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生[[Socioeconomic Status|社会经济背景]]后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
+> **注意事项** 依赖于正态性假设与方差齐性前提。若除数误将标准误（$\text{SE}$）当作标准差（$\text{SD}$），会导致效应量虚增 $\sqrt{n}$ 倍（如 Eisenstaedt 案例畸变十倍；[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
 
----
+> [!formula-step] 公式步骤二　统计检验力与样本量的内在关联
+> $$t = d \times \sqrt{n}$$
+>
+> **这个公式在做什么** 表明推断统计中的 $t$ 检验统计量是由效应量 $d$ 与样本量平方根的乘积共同决定的。
+>
+> **数学直觉** 单个效应量 $d$ 无法直接反映统计显著性。在小样本（如 $n=25$）中，$d=0.40$ 恰好对应 $p \approx .05$；而在超大样本（$n > 10{,}000$）中，极微弱的效应量（如 $d=0.03$）亦可达到统计高度显著（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 45–48]]）。因此脱离样本量判定效应量缺乏统计稳健性。
 
-### 效应量族系与指标转换
-
-> [!proc] 核心效应量族系与转换路径
+> [!proc] 核心效应量族系与指标转换
 > 在元分析与证据合成中，不同研究设计报告的效应指标可通过标准数学公式统一换算：
 > 1. **两组均值差族系（$d$ 与 $g$）** 实验组与对照组比较，小样本下通过 $g = J(df) \times d$ 进行小样本无偏校正。
 > 2. **关联与相关族系（$r$）** 连续变量线性关联，平衡样本下通过 $r = \frac{d}{\sqrt{d^2 + 4}}$ 与 $d = \frac{2r}{\sqrt{1 - r^2}}$ 实现与 $d$ 的相互转换。
 > 3. **分类与概率比族系（$OR$）** 二分类变量比值比通过 $d \approx \frac{\ln(OR)}{1.814}$ 转换为连续均值差。
 > 4. **正态化与方差稳定化（Fisher's $z$）** 元分析在统计加权前需通过 $z = \operatorname{arctanh}(r)$ 稳定方差，合并后再逆转换为 $r$ 呈现。
 >
-> 完整数学推导、组间样本比率校正公式与数值对照矩阵见方法条目 **[[Effect Size Conversion\|效应量转换]]**。
+> 完整数学推导与数值对照矩阵见方法条目 **[[Effect Size Conversion|效应量转换]]**。
+
+> [!software-impl] 软件实现
+> - **推荐工具** R（`metafor`、`effectsize` 包）、Python（`scipy.stats`）、Stata。
+> - **核心代码**
+>   ```r
+>   # 计算标准化均值差与方差 (R metafor)
+>   library(metafor)
+>   es_data <- escalc(measure = "SMD",
+>                     m1i = mean_exp, sd1i = sd_exp, n1i = n_exp,
+>                     m2i = mean_ctl, sd2i = sd_ctl, n2i = n_ctl,
+>                     data = study_df)
+>   ```
+> - **校本应用软件** 新西兰 asTTle 软件系统支持一线教师录入前后测原始数据，系统自动输出班级效应量 $d$ 与常模雷达图，直接服务于教师教学自我反思与诊断（[[Argument_Hattie_2005_ACER|Hattie, 2005]]）。
 
 ---
 
-### Cohen 的直观解释框架（1988）
+## 适用场景
 
-> [!info] Cohen 的经验法则
-> Cohen（1988）使用人体身高提供直观类比：$d = 1.0$ 表示 160cm 和 183cm 之间的差异([[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]])。Cohen 同时定义了经验法则：
->
-> | 效应量 | 标签 | 含义（假设正态分布） |
-> |---|---|---|
-> | $d = 0.2$ | 小 | 实验组均值高于对照组约 58% |
-> | $d = 0.5$ | 中 | 实验组均值高于对照组约 69% |
-> | $d = 0.8$ | 大 | 实验组均值高于对照组约 79% |
-
-> [!warning] Cohen 框架的使用边界
-> Cohen 本人强调这些标签是操作性的经验法则，不应被机械套用。[[Argument_Kraft_2023_ER\|Kraft (2023)]]进一步论证教育[[Randomised Controlled Trials\|随机对照试验]]的实际效应量分布远低于 Cohen 的锚点（详见下方[[#Kraft 的教育随机对照试验经验基准]]）。
+> [!method-fit] 适用判断
+> - **适合使用** 评估因果实验干预对学业成就的相对改善幅度、为一阶元分析提供加权合并的标准化输入单元、在大规模 RCT 评估中对比不同干预方案的投入产出效能（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
+> - **谨慎使用** 跨不同研究设计（组间试验 vs 重复测量前后测）的简单混装合并、使用开发者自编敏感测验的研究、以及未经基线等效性校正的准实验数据（Slavin & Smith, 2009; [[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）。
+> - **不适合使用** 无法量化的质性教育教化（[[Bildung]]）过程、长周期存在性生命体验转变（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）；不适合脱离样本量、干预成本与实施环境孤立进行行政化“绩效排行榜”贴标签。
 
 ---
 
-### Hattie 的关节点、影响气压计与“零门槛谬误”
+## 局限性
 
-> [!info] Hattie 的经验分布与关节点（[[Zone of Desired Effects|Hinge Point]]）
-> [[John Hattie\|约翰·哈蒂]]（John Hattie）在 2005 年 [[Australian Council for Educational Research\|ACER]] 大会报告与后续专著中，基于 100 多项一阶元分析、50 余万个效应量（涵盖 50,000 余项原始研究与数千万学生）绘制了教育创新的效应量正态分布曲线（$M = 0.40, SD \approx 0.20$），并确立 $d = 0.40$ 为教学有效性的关节点（Hinge Point，[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 15–16]]；[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p. 142]]）。他将效应量分布划分为四个实质区域（[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 16]]；[[Argument_Terhart_2011_JCS\|Terhart, 2011, pp. 427–428]]）：
->
-> - **期望效应区（$d > 0.40$）** 超越常规教学平均增长的优质创新，如[[Formative Assessment\|形成性评价]]/反馈 $d = 0.73$、互惠教学 $d = 0.86$、自我报告成绩 $d = 1.44$。
-> - **教师效应区（$d = 0.15$–$0.40$）** 普通教师在常规课堂中一学年达成的平均教学增益（如[[Homework\|家庭作业]] $d = 0.29$）。
-> - **发展效应区（$d = 0.0$–$0.15$）** 学生即使不上学、仅凭自然成熟与日常生活也能发生的发展增益（约每年 0.10–0.15 SD）。
-> - **负面效应区（$d < 0$）** 损害学生学习的逆向实践，如[[Grade Retention\|留级]] $d = -0.16$、过度看电视 $d = -0.18$。
+> [!method-limits] 方法局限
+> - **偏误来源** 
+>   1. **测量工具敏感性偏误** 开发者自编测量比独立标准化统考产生高出 0.20–0.29 SD 的虚大效应量（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）；
+>   2. **样本量倒挂偏误** 小样本（$<50$）效应量平均达 $+0.44$，超大样本（$>2,000$）平均仅 $+0.09$，小规模研究因发表偏倚与质控差异产生虚假膨胀（Slavin & Smith, 2009）；
+>   3. **开发者利益冲突偏倚** 开发者实施研究效应量约为独立评估的 1.8 倍（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）；
+>   4. **除数混淆灾难** 将标准误（$\text{SE}$）误作标准差（$\text{SD}$）导致效应量被虚假放大十倍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
+> - **适用边界与微观异质性掩盖** 
+>   1. **亚组异质性被抹杀** 单一宏观平均效应量掩盖微观情境差异，如家庭作业元分析总体 $d = 0.29$，但按学段细分高中达 $0.64$ 而小学仅 $0.15$（处于自然成长区，几无实质增益；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
+>   2. **非线性门槛突破** 班级规模在常规区间微调（28人降至24人）效应量微弱（$0.10–0.20$），但在关键学段跨越临界物理阈值（STAR 试验降至 13–17 人）因果效应大幅提升至 $d = 0.62–0.66$（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
+>   3. **同质性击穿** 《可见学习》133 项效应量变差系数高达 56.87%，极度离散数据集导致 $d = 0.40$ 关节点失去数理基准效力（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）。
+> - **误用风险与范畴错误批判** 
+>   1. **机械门槛谬误** 机械依据 $d = 0.40$ 筛选政策会误杀具有重大公共价值的小效应量实践（如阿司匹林试验 $d = 0.07$ 每年净挽救千分之三十四生命；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
+>   2. **认识论与存在论范畴错误** 将学习简化为可见的即时效应量快照，混淆了短期测验表现与长周期终身心智成长，演化为认知资本主义对教师与学生的数字规训（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–4, 10]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+> - **补救方式** 采用挂锁安全评级与效应量双轨呈现（EEF）；采用因果 RCT 经验分布与失败频率作为政策解释基准（[[Argument_Kraft_2023_ER|Kraft, 2023]]）；选用高外部效度、对接国家统考的标准化测验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；严格执行基线等效性筛查（$|d_{\text{baseline}}| \le 0.25$）。
 
-> [!danger] 批判“零门槛谬误”（The Zero Barrier Fallacy）
-> [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]]尖锐指出，传统教育研究与政策常犯“把门槛设在零点（Setting the bar at zero）”的严重错误：
-> 1. **90%–95% 的创新天然有效** 实证数据显示，教育领域 90% 到 95% 的干预效应量都大于 0（$d > 0$），几乎所有政策和创新宣称“统计显著有效（$p < .05$）”都能轻易过关。
-> 2. **真实基线是 $d = 0.40$ 而非 $d = 0$** 任何干预只要未能超过一学年常规教学与自然成熟的基准线（$d = 0.40$），实质上就是低于平均水准或在浪费教学时间。因此，[[Evidence-Based Education\|循证教育]]决策必须以 $d = 0.40$ 作为判断干预是否产生实质净增值的最低关节点。
-
-> [!critique-data] 效应量数据集的极度离散与气压计标尺的数理动摇
-> 针对 Hattie 影响气压计将各类教育变量拉平为四区排名的做法，戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）首次采用变差系数（\(V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%\)）对《[[Visible Learning|可见的学习]]》所用 133 项正值效应量进行了系统检验。测算证实：
-> - **全库总体离散度击穿阈值** 总体效应量变差系数高达 **56.87%**，远超 33% 的样本同质性安全上限，属于统计学上的极度不均数据集；
-> - **各来源分项全部超标** 学生因素（71.24%）与学校因素（65.97%）离散最为严重，教师（51.01%）、教学策略（50.65%）、课程（41.95%）与家庭（38.57%）亦全部突破 33% 门槛；
-> - **推论** 效应量数据在未经同质性控制与严格质量筛选前被强行平均化，导致 \(d=0.40\) 标尺缺乏稳健的数理基础，无法作为普适性教育政策干预的绝对判准。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–239)]]
-
-> [!critique-theory] 效应量截断值的武断性与[[Public Value|公共价值]]脱节
-> 针对哈蒂设立 $d = 0.40$ 作为界定干预“相对有效性”或“期望效应区”的做法，[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–95, 99]]）从流行病学和方法学角度提出了经典反驳：
-> - **医学阿司匹林反例与小效应量的巨大公共价值** 在全美预防心肌梗死的[[Clinical Trial|临床试验]]中，低剂量阿司匹林的效应量仅为微弱的 $d = 0.07$；然而换算为公共健康收益，该微弱效应量每年在每 1,000 人中净挽救 34 条生命。如果按照教育学中 $d < 0.40$ 即属于“常规发展效应或低效干预”的逻辑，这项极具价值的医学干预将被彻底废弃。在涉及数百万学生的公共教育系统中，微小的效应量在大样本和长期累积中同样具有重大的公共价值，机械设立单一截断点脱离了干预成本、收益累积性与公平维度的审慎权衡。
-> - **[[Meta-meta-analysis|二阶元分析]]缺乏底层质控对效应量的扭曲** 斯努克等人进一步引用元分析奠基人 Smith and Glass (1980) 的质控准则指出，二阶综合如果未对纳入的一阶元分析进行方法学质量评估，将不可避免地导致“垃圾进、垃圾出（Garbage in, garbage out）”。将大量来自低质量研究、存在[[Publication Bias|发表偏倚]]或测量工具失真的原始效应量强行平均化，不仅无法提炼出客观的因果真理，反而赋予了失真数字以虚假的科学权威。
-
-> [!tip] 课堂层面的效应量测算与校本应用
-> 为使效应量走出象牙塔并直接赋能一线教师，Hattie 团队在新西兰开发了“[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]”（[[Assessment Tools for Teaching and Learning\|asTTle]]）软件系统。教师只需录入班级前后测数据，系统即可自动计算班级和个体层面的效应量（$d = \frac{M_{\text{后测}} - M_{\text{前测}}}{SD_{\text{合并}}}$），并对照全国常模生成雷达图与进阶路径。这使教师能将效应量作为自我诊断教学成效的常态化镜子，而非外在的惩罚性问责工具（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 16–17]]）。
-
----
-
-### [[Argument_Terhart_2011_JCS|Terhart (2011)]] 的详细解释与二阶综合方法学批判
-
-> [!info] 效应量的实质含义与巨型综合方法学审计
-> 德语教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 432–437]]）对效应量的统计学含义与巨型二阶元分析（mega-analysis）的解释边界进行了系统梳理：
->
-> **与统计显著性的关系** 如果将分析进行 100 次，只有 5 次实验组和对照组之间的差异可被解释为随机的，95 项研究中差异将是系统性的。但统计显著性不提供效应绝对大小与实践价值的信息。
->
-> **$d$ 的实质含义** $d = 1.0$ 意味着受该因素影响，组的平均表现提高了一个标准差。如果在课堂中引入 $d = 1.0$ 的因素，意味着参与该项目的学生平均成绩高于 84% 未参与该项目的学生。
->
-> **作业效应的具体示例** Hattie 报告的作业效应量 $d = 0.29$，其实质含义是：
-> - 161 项研究中，65% 显示正面效应，35% 显示中性或负面效应；
-> - 有作业的班级平均表现高于 62% 的无作业班级学生；
-> - 在 Cohen 身高类比中，$d = 0.29$ 表示约 180cm 和 182cm 之间的差异；
-> - 如果在 100 个之前没有作业的班级引入作业，仅 21 个班级会看到学生表现提高。
->
-> **多级累加中的经验折损比喻（货币汇兑损耗）** 元分析本是压缩具体研究的统计工具；但将数百项元分析再次合并为巨型“元-元分析”时，统计层级的提升必然以牺牲原始研究的经验情境为代价。原始研究的控制条件与具体参数在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 429]]）。
->
-> **全域领域分化与角色效应量断层** 哈蒂全书综合了 816 项元分析、52,649 项初级研究与 146,626 个效应量，确立总体均值 $d = 0.40$ 为关节点门槛。六大贡献领域呈现鲜明层级：教师（$d = 0.49$）、课程（$d = 0.45$）、教学法（$d = 0.42$）、学生（$d = 0.40$）、家庭（$d = 0.31$）、学校（$d = 0.23$）。在具体教学行为中，教师作为主动激活者（Activator）的平均效应量达到 $d = 0.60$，显著压倒作为旁观促进者（Facilitator）的 $d = 0.17$（pp. 428, 433）。
->
-> **效应量[[Discourse|话语]]与有限方差现实的断裂** 尽管全书将教师塑造为无所不能的救赎力量，但底层统计方差分解表明，教师效能仅能解释学生[[Academic Achievement|学业成绩]]变异的 **8%–21%**（p. 432），约 80% 的成绩方差仍由学生认知先验与家庭背景决定。
->
-> **双重[[Epistemology|认识论]]假说约束** 宏观效应量排名面临两难：其一为 **[[Stability vs. Variability Dilemma|稳定性假说]]**（绝大多数高效应量仅是教科书既有常识的渐近逼近，无实质知识增量）；其二为**变异性假说（依赖陈旧元分析得到的低效应量已被最新前沿实证颠覆，例如鲍默特等人 [[COACTIV]] 项目证实教师学科知识与学科教学知识对学业成就具有强大的正向因果效应；pp. 436–437）**。
->
-> 特哈特强调：效应量不等于[[Causality|因果关系]]，亦不可作为终极立法圣杯（p. 427）。
-
----
-
-### Kraft 的教育随机对照试验经验基准
-
-> [!info] Kraft 的经验基准
-> [[Argument_Kraft_2023_ER\|Kraft (2023)]]主张以教育干预随机对照试验中标准化[[Academic Achievement\|学业成就]]效应量的经验分布替代 Cohen 的 $0.2/0.5/0.8$ 通用锚点。他在 3,426 个效应量中发现分布相当稳定：30 百分位 0.02、50 百分位 0.10、70 百分位 0.21（[[Argument_Kraft_2023_ER\|Kraft, 2023, pp.183–184]]）。
->
-> Kraft 的基准同时考虑年度[[Learning Gain\|学习增益]]、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER\|Kraft, 2023, pp.185-186]]）。Kraft and Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER\|Kraft, 2023, p.184]]）。
-
----
-
-### 清算中心的最低效应阈值
-
-> [!info] 清算中心的最低效应阈值
-> [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]显示，部分[[Educational Evidence Clearinghouses\|教育证据清算中心]]把最低效应量阈值直接写入项目评级规则：[[Promising Practices Network]] 的最高评级要求至少 0.25 个标准差的差异，[[Best Evidence Encyclopedia]] 要求至少 0.20 个标准差的影响。相比之下，[[What Works Clearinghouse]] 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]])。这说明效应量不仅是研究报告中的统计指标，也会成为[[Educational Brokerage Agency\|证据中介机构]]划定"推荐/有希望/不推荐"边界的制度阈值。
-
----
-
-### 实践者解释中的效应量与挂锁安全评级
-
-> [!info] 实践者解释中的效应量与安全锁互补机制
-> 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此需要和项目目标、使用强度、对照条件、测量工具和地方需求一起综合解释，无法单独作为“读者看到数字就能直接行动”的孤立指令([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.120-121]])。
->
-> 针对单一指标沟通的局限，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating\|挂锁安全评级]]（Padlock Rating）** 的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination\|样本量]]不足、高流失率或未[[Preregistration\|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual\|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
-
-> [!example]
-> 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests\|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-112]])。
-
----
-
-### 效应量与统计功效
-
-> [!math-principle] 效应量与统计功效
-> 效应量与统计功效存在直接的函数关系。对于固定的[[Sample Size Determination\|样本量]]、显著性水平和统计检验，统计功效和效应量是同一个东西的连续变换([[Argument_Simpson_2019_ERE\|Simpson, 2019, p. 103, Figure 1]])。这意味着：
-> - 更大的效应量 → 更高的统计功效 → 更容易检测到"显著"结果
-> - 但这不意味着干预更有效，只意味着试验设计使组间差异更清晰可见
-
----
-
-### 最小可检测效应量
-
-> [!info] 最小可检测效应量
-> [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016, p.233)]]介绍了与效应量密切相关的另一个概念：在给定统计功效下，研究设计能够检测到的最小效应量。最小可检测效应量是研究精度的度量：
->
-> - 最小可检测效应量是"近期争论的焦点，因为其主要由经验法则决定"，缺乏系统性的精度标准
-> - 最小可检测效应量越小，研究精度越高；精度提高意味着可检测到更小的干预效果
-> - 与效应量的区别：效应量衡量干预"实际产生了多大的效果"（事后），最小可检测效应量描述研究"能够检测到多大的效果"（事前设计参数）
-
----
-
-## 实证数据
+### 实证数据与元分析总体结果
 
 > [!effect-table]- 原始研究结果与干预效应量
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community\|专业学习共同体]]干预 | 阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实校本证据反馈可打破教师赤字归因与[[Learned Helplessness\|习得性无助]] |
-> | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | [[What Works Clearinghouse\|WWC]] 数据库中开发者研究 vs 独立[[Evaluation Research\|评估研究]] | [[Academic Achievement\|学业成就]]效应量 | 755 个效应量（169 项研究） | 开发者研究未调均值 0.309；独立评估未调均值 0.168 | $ES_{\text{差异}} = +0.141$ | 95% PI 独立 $[-0.45, +0.79]$；开发者 $[-0.31, +0.93]$ | [[Meta-regression\|元回归]]多层模型；证实开发者利益冲突与自编测验系统性推高效应量 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]]（引述 Lortie-Forgues & Inglis, 2019） | 英美大型现场 [[Randomised Controlled Trials\|RCT]]（[[Education Endowment Foundation\|EEF]] 82 项 + [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 59 项） | 标准化统考学业成就 | 141 项试验（涵盖 1,222,024 名学生） | 77% 的试验结果在统计上不显著 | 平均 $d = 0.06$ | 平均 95% CI $[-0.09, +0.21]$ | 独立大规模现场 RCT；证实真实学校生态下微弱效应量属于常态 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]（引述 Finn & Achilles, 1990） | 田纳西州 STAR 项目（小班 13–17 人 vs 常规班 22–25 人） | K–3 年级阅读与数学标准化成就 | 79 所学校 11,600 名学生 | 小班组持续显著优于常规班；低收入与少数族裔学生获益最大 | $d = 0.62–0.66$ | 统计显著（$p < .001$） | 严格大样本现场 RCT；证实关键学段跨越门槛的小班化具有巨大因果效应 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]（引述 Physicians' Health Study, 1988） | 低剂量阿司匹林预防心肌梗死 vs 安慰剂对照 | 心血管死亡与心肌梗死发病率 | 22,071 名男性内科医生 | 每 1,000 人中净预防 34 起心肌梗死死亡 | $d = 0.07$ | 极高度显著（提前终止试验以普及） | 经典医学 RCT；证实微小效应量在大样本中具有重大公共健康与社会政策价值 |
+> | [[Argument_Hattie_2005_ACER|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community|专业学习共同体]]干预 | 阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实校本证据反馈可打破教师赤字归因与[[Learned Helplessness|习得性无助]] |
+> | [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] | [[What Works Clearinghouse|WWC]] 数据库中开发者研究 vs 独立[[Evaluation Research|评估研究]] | [[Academic Achievement|学业成就]]效应量 | 755 个效应量（169 项研究） | 开发者研究未调均值 0.309；独立评估未调均值 0.168 | $ES_{\text{差异}} = +0.141$ | 95% PI 独立 $[-0.45, +0.79]$；开发者 $[-0.31, +0.93]$ | [[Meta-regression|元回归]]多层模型；证实开发者利益冲突与自编测验系统性推高效应量 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]]（引述 Lortie-Forgues & Inglis, 2019） | 英美大型现场 [[Randomised Controlled Trials|RCT]]（[[Education Endowment Foundation|EEF]] 82 项 + [[National Center for Education Evaluation and Regional Assistance|NCEE]] 59 项） | 标准化统考学业成就 | 141 项试验（涵盖 1,222,024 名学生） | 77% 的试验结果在统计上不显著 | 平均 $d = 0.06$ | 平均 95% CI $[-0.09, +0.21]$ | 独立大规模现场 RCT；证实真实学校生态下微弱效应量属于常态 |
+> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]（引述 Finn & Achilles, 1990） | 田纳西州 STAR 项目（小班 13–17 人 vs 常规班 22–25 人） | K–3 年级阅读与数学标准化成就 | 79 所学校 11,600 名学生 | 小班组持续显著优于常规班；低收入与少数族裔学生获益最大 | $d = 0.62–0.66$ | 统计显著（$p < .001$） | 严格大样本现场 RCT；证实关键学段跨越门槛的小班化具有巨大因果效应 |
+> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]（引述 Physicians' Health Study, 1988） | 低剂量阿司匹林预防心肌梗死 vs 安慰剂对照 | 心血管死亡与心肌梗死发病率 | 22,071 名男性内科医生 | 每 1,000 人中净预防 34 起心肌梗死死亡 | $d = 0.07$ | 极高度显著（提前终止试验以普及） | 经典医学 RCT；证实微小效应量在大样本中具有重大公共健康与社会政策价值 |
 
-> [!ma-table]- 一阶与[[Meta-meta-analysis\|二阶元分析]]总体结果
+> [!ma-table]- 一阶与[[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | [[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | [[Meta-analysis|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 《[[Visible Learning\|可见的学习]]》[[Homework\|家庭作业]]元分析细分亚组[[Interaction Effect\|调节效应]] | 5 项元分析（涵盖 161 项研究） | Cohen's $d$ / 细分学段、学科与能力亚组比较 | 总体 $d = 0.29$；小学 $0.15$ vs 高中 $0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学学段效应量跌入常规发展效应区（$<0.15$） | 实证证实单一平均效应量掩盖微观亚组异质性，导致对不同学段教师产生误导性指导 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 《[[Visible Learning\|可见的学习]]》133 项正值效应量离散度与同质性检验 | $k = 133$ 项正效应量指标（来自 800+ 项元分析汇总） | Cohen's $d$ / 变差系数（$V_\sigma$） | 均值 $d = 0.408$；中位数 $0.390$ | 标准差 $\sigma = 0.232$；变差系数 $V_\sigma = 56.87\%$（超标 $33\%$ 同质性安全上限） | 实证证实全库效应量极度离散不均；学生与学校因素离散最高（$V_\sigma > 65\%$），单一 $d=0.40$ 关节点缺乏数理稳健性 |
-> | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests\|成就测验]]；剔除开发者自编测验偏倚 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 审计《可见学习》二阶元分析数据库与六大领域效应量分布 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$；教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$ | 纳入文献时效严重滞后（集中于 1980–1990 年代）；未设质控门槛导致严格实验与松散调查混杂 | 揭示多级汇总导致原始情境参数系统性损耗（货币汇兑折损比喻），且教师有限方差（解释 8%–21%）与全能主导[[Discourse\|话语]]脱节 |
-
----
-
-## 关键引用
-
-> [!citation-card] [[Ewald Terhart|特哈特]]论[[Meta-meta-analysis|元-元分析]]多级累加中的效应量情境损耗与货币汇兑折损
-> [[Meta-analysis|元分析]]本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的元-元分析（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。此外，如果未提供一阶元分析的筛选质控标准，底层数据混杂了严格的[[Experimental Research|实验研究]]与松散的[[Survey Research|调查研究]]，最终得到的平均效应量便掩盖了极其异质的方法学质量现实。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
->
-> *Meta-analysis is a tool to summarize and to compress the results of a multitude of studies... If, however, one combines several meta-analyses into a mega-analysis, the empirical details are lost on each level of aggregation. One cannot change a currency without loss... Furthermore, Hattie does not provide criteria for the quality of the included meta-analyses... This leads to a high degree of [[Heterogeneity]] in the underlying database.*
-
----
-
-## 围绕概念形成的命题
-
-> [!concept-lens] 效应量变异的系统性来源与解释边界
-> 多项[[Meta-analysis|元分析]]与方法学批判识别了独立于干预实际有效性的系统性变异因素，以下八条命题分别剖析效应量的主要偏差来源、亚组[[Heterogeneity|异质性]]与解释边界（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 430–432]]；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]；[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
-
----
-
-### 命题一　效应量随测量类型而变化：自编测量产生系统性更大的效应量
-
-> [!concept-lens] 测量工具的敏感性差异
-> 不同结果测量工具对干预效果的敏感度不同。研究者或开发者自编的测量往往比独立标准化测量更贴近干预内容，因此产生更大的效应量——这一差异直接反映了测量工具与被测[[Construct\|构念]]的对齐程度，脱离了干预在[[Business as Usual|常态教学]]中的实际因果效力。
-
-> [!claim] [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]
-> Cheung and Slavin（2016）、de Boer, Donker & van der Werf（2014）、Li and Ma（2010）等多个[[Meta-analysis\|元分析]]发现自编测量产生的效应量比独立测量高 **0.20–0.29** 标准差。de Boer et al.（2014）发现其综述中 180 个测量中约三分之二是研究者或开发者自编的（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 431]]）。例：同一数学干预使用项目团队自编测试时效应量可能为 +0.45，使用州标准化测试时可能仅为 +0.20。
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
-> **独立高[[External Validity\|外部效度]]测验与行政统考对接规程** 针对自编测量系统性虚增效应量的顽疾，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）早在 2012 年即出台严格的《评估测验选用指南》（The EEF, 2012b；Edovald & Nevill, 2021, p. 54）。指南硬性规定：试验的主要学业产出指标严禁采用开发者或评估团队自编的非标准化测验，必须选用具有广泛[[External Validity\|外部效度]]、与英格兰国家关键考试（GCSE 或[[National Pupil Database\|国家学生数据库]]（NPD）核心统考成绩）高度相关的全国商业标准化测验或官方行政统考，并严格排查[[Floor and Ceiling Effects\|天花板效应]]与地板效应。这一制度安排从源头上锁死了通过定制贴合干预内容的近端测验来人为推高效应量的投机空间。
-
----
-
-### 命题二　效应量随样本量增大而系统性减小
-
-> [!concept-lens] [[Sample Size Determination\|样本量]]与统计功效的关联
-> 效应量与样本量之间存在负向、准对数关系。小规模研究更容易控制实施质量且需要较大效应量才能达到统计显著，导致小样本研究的效应量系统性偏高。
-
-> [!claim] Slavin and Smith (2009)
-> 效应量与样本量的经验关系（引自 [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 431]]）：
->
-> | 样本量 | 平均效应量 |
-> |---|---|
-> | <50 | +0.44 |
-> | 51–100 | +0.29 |
-> | 101–150 | +0.22 |
-> | 151–250 | +0.23 |
-> | 251–400 | +0.15 |
-> | 401–1,000 | +0.12 |
-> | 1,001–2,000 | +0.20 |
-> | 2,000+ | +0.09 |
-
-> Kulik and Fletcher（2016）在智能辅导[[Systematic Review\|系统综述]]中报告了类似模式：<80 人 +0.78，81–250 人 +0.53，>250 人 +0.30。两种理论解释：小规模研究更容易控制实施质量；小规模研究需要非常大的效应量才能达到统计显著，只有效应量足够大的小研究才被发表（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 431]]）。
-
----
-
-### 命题三　效应量随研究设计类型而变化：实验与非实验设计的差异证据不一
-
-> [!concept-lens] 研究设计的[[Causality\|因果推断]]强度
-> 研究设计（实验 vs 非实验）对效应量的影响方向在文献中并无一致结论，需要区分具体领域和干预类型。
-
-> [!claim] 研究设计对效应量的影响
-> Cheung and Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson and Najaka（2001）发现非[[Experimental Research\|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson and Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 431–432]]）。
-
-> [!claim] Morris and DeShon (2002); [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **跨研究设计效应量的[[Incommensurability|不可通约性]]与总体参数异质** 莫里斯与德肖恩（Morris & DeShon, 2002）在统计学上严格论证：独立组间设计（Between-Subjects）与重复测量组内设计（Within-Subjects，如前[[Pre-test and Post-test|后测]]）计算出的标准差涵义根本不同，两者估计的是不同的总体参数。如果未通过被试内相关系数（$\rho$）转换而直接合并，会造成系统性失真。卡尔门达尔（Kalmendal）等学者在全量[[Metascience|元科学]]审计中进一步揭示，在《[[Visible Learning|可见的学习]]》等宏观[[Research Synthesis|证据综合]]中，多达 27% 的影响因素直接违规混杂了独立组、重复测量与[[Correlational Research|相关设计]]（甚至多达 77% 的研究混淆或未报告设计类型）；且未区分积极对照组（Active Control，效应量通常较低）与空白对照组（No-Treatment Control，效应量通常翻倍），导致聚合出的通用效应量丧失了实质统计学解释力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
-
----
-
-### 命题四　效应量随项目类型与交付层面而变化：近端干预产生更大效应
-
-> [!concept-lens] 干预的层级与距离
-> 干预越接近学生个体、越直接作用于学习过程，效应量越大。这与"干预对近端结果影响最大"的假说一致。
-
-> [!claim] 干预层级与效应量差异
-> Lipsey et al.（2012）发现个体/小组干预效应量（+0.40/+0.26）> 全班（+0.18）> 全校（+0.10）；教学技巧（+0.35）和教学补充（+0.36）> 课程改革（+0.13）和全校倡议（+0.11）。Slavin and Lake（2008）在小学数学中发现类似模式（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 432]]）。
-
----
-
-### 命题五　效应量随研究者身份而变化：开发者研究产生系统性更大的效应量
-
-> [!concept-lens] 研究者的利益关联
-> 项目开发者委托或实施的研究平均效应量系统性高于独立评估，这一差异部分源于开发者更可能使用自编测量和较弱的研究设计。
-
-> [!claim] [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]
-> 发现由项目开发者委托或实施的研究平均效应量比独立评估高 0.141 个标准差（全样本），约为独立研究的 1.8 倍。详见 [[Developer Effect]]。
-
----
-
-### 命题六　效应量随干预定义的模糊性而变化：同一标签可能涵盖实质不同的干预
-
-> [!concept-lens] 术语的[[Construct Validity\|构念效度]]
-> 同一术语在不同研究中可能涵盖实质不同的干预实践，使效应量的跨研究聚合失去意义。
-
-> [!claim] [[Argument_Higgins_2016_ROE\|Higgins (2016)]]
-> [[Argument_Higgins_2016_ROE\|Higgins (2016, pp.37–38)]]以"[[Homework\|家庭作业]]"为例：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，该结论无法推论为作业总是普遍有效。元分析在此聚合的实质是同一标签下的各类异质性实践。
-
----
-
-### 命题七　效应量解释受制于均值聚合对微观异质性的掩盖与非线性门槛效应
-
-> [!concept-lens] 亚组分化与非线性临界约束
-> 考察宏观平均效应量如何抹杀关键背景[[Variable|变量]]的微观[[Interaction Effect|调节效应]]，以及干预规模在跨越特定物理阈值时的非线性突破机制。
-
-> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
-> **亚组效应异质性与非线性临界突破** [[Ivan Snook|斯努克]]等人指出，脱离亚组调节变量（Moderator Variables）解释单一平均效应量会导致严重的决策失误，主要体现在两个维度：
-> 1. **均值掩盖微观异质性** 以家庭作业为例，元分析专著报告的总体效应量为 $d = 0.29$；然而一旦按学段细分，高中阶段效应量高达 $d = 0.64$（高价值实践），而小学阶段骤降至 $d = 0.15$（属于自然成长区，几无实质增益）；按学科细分数学为 $0.32$ 而科学为 $0.27$；按学业能力细分高能力组为 $0.37$ 而低能力组仅为 $0.21$。单一的总体平均效应量完全抹杀了实践情境的微观复杂性，对小学教师产生严重误导。
-> 2. **非线性门槛突破与系统交互** 以[[Class Size|班级规模]]为例，常规区间（如 28 人降至 24 人）的微调往往仅产出 $d = 0.10–0.20$ 的微弱线性效应量；但当班级规模在关键学段跨越特定物理临界阈值时，会产生非线性的显著突破——田纳西州 STAR [[Randomised Controlled Trials|随机对照试验]]证实，K–3 年级班额降至 13–17 人时，阅读与数学的因果效应量显著攀升至 $d = 0.62–0.66$；奥克兰 [[Picking Up the Pace|PACE 项目]]亦表明 15 人小班是维持 3 人微型群组 10–15 分钟高频深度互动的物理硬约束。若仅凭[[Meta-meta-analysis|二阶元分析]]报告的总体均值（$d = 0.21$）断言小班教学无效，不仅犯了抹杀非线性动态的统计学错误，更为技术官僚削减教育财政、推卸公立学校资源责任提供了错误的伪证据支持。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97, 100–103)]]
-
-### 命题八　二阶效应量聚合面临情境折损与稳定性—变异性双重认识论约束
-
-> [!concept-lens] 巨型综合的多级折损与[[Epistemology|认识论]]假说
-> 剖析效应量跨越一阶向二阶聚合时的经验信息流失机制，以及宏观效应量排名在常识固化与结论颠覆之间的认识论困境。
-
-> [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> **多级汇总情境折损与双重认识论约束** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）通过对《可见学习》巨型数据库的逆向方法学审计，确立了效应量在二阶元分析中的两条核心局限：一方面，效应量汇总层级的提升是以牺牲具体研究的情境参数为代价的，原始研究的控制条件与具体变量在反复累加中损失殆尽（“货币汇兑折损比喻”）；另一方面，宏观效应量排行榜在认识论上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说——绝大多数高效应量（如清晰讲授、反馈）仅仅是教科书标准常识的渐近逼近，无实质知识增量；而依赖陈旧元分析得出的低效应量（如教师专业知识微弱）已被最新实证全面颠覆（如 [[COACTIV]] 证实教师 CK 与 PCK 具有强大因果效应），证明单一量化效应量无法消除教育实践的复杂性。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429, 436–437)]]
-
----
-
-## 争议与批评
-
-> [!warning] 批判总览
-> 效应量在教育研究中的使用面临来自计算口径、聚合综合和政策解释三个层面的系统批判。不同公式产生不可比的排名、逐级聚合中[[Standard Error|标准误]]混淆和错误加权扭曲结果、平均值掩盖变异性——这些批评共同质疑了将效应量作为跨研究比较尺度和教育有效性排名的合法性。详细的批判论证见 [[Critique of Effect Size]]。
+> | [[Argument_Hattie_2005_ACER|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
+> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] | 《[[Visible Learning|可见的学习]]》[[Homework|家庭作业]]元分析细分亚组[[Interaction Effect|调节效应]] | 5 项元分析（涵盖 161 项研究） | Cohen's $d$ / 细分学段、学科与能力亚组比较 | 总体 $d = 0.29$；小学 $0.15$ vs 高中 $0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学学段效应量跌入常规发展效应区（$<0.15$） | 实证证实单一平均效应量掩盖微观亚组异质性，导致对不同学段教师产生误导性指导 |
+> | [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] | 《[[Visible Learning|可见的学习]]》133 项正值效应量离散度与同质性检验 | $k = 133$ 项正效应量指标（来自 800+ 项元分析汇总） | Cohen's $d$ / 变差系数（$V_\sigma$） | 均值 $d = 0.408$；中位数 $0.390$ | 标准差 $\sigma = 0.232$；变差系数 $V_\sigma = 56.87\%$（超标 $33\%$ 同质性安全上限） | 实证证实全库效应量极度离散不均；学生与学校因素离散最高（$V_\sigma > 65\%$），单一 $d=0.40$ 关节点缺乏数理稳健性 |
+> | [[Argument_Kraft_2023_ER|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests|成就测验]]；剔除开发者自编测验偏倚 |
+> | [[Argument_Terhart_2011_JCS|Terhart (2011)]] | 审计《可见学习》二阶元分析数据库与六大领域效应量分布 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$；教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$ | 纳入文献时效严重滞后（集中于 1980–1990 年代）；未设质控门槛导致严格实验与松散调查混杂 | 揭示多级汇总导致原始情境参数系统性损耗（货币汇兑折损比喻），且教师有限方差（解释 8%–21%）与全能主导[[Discourse|话语]]脱节 |
 
 ---
 
@@ -498,20 +298,20 @@ updated: 2026-10-18
 > |:-----|:-----|:-----|
 > | [[Effect Size Conversion]] | 补充方法 | 解决跨研究设计与不同统计量（$d, g, r, OR, z$）之间的标准化数学换算。 |
 > | [[Meta-analysis]] | 宏观方法 | 效应量是元分析合成证据与估计合并效应量的核心统计单位。 |
-> | [[Power Analysis]] | 前置方法 | 统计功效与最小可检测效应量构成试验[[Sample Size Determination\|样本量]]规划与检验精度的前置基础。 |
-> | [[Critique of Effect Size]] | 理论批评 | 深度剖析效应量跨研究聚合与政策排名中的方法学与[[Epistemology\|认识论]]争议。 |
+> | [[Power Analysis]] | 前置方法 | 统计功效与最小可检测效应量构成试验[[Sample Size Determination|样本量]]规划与检验精度的前置基础。 |
+> | [[Critique of Effect Size]] | 理论批评 | 深度剖析效应量跨研究聚合与政策排名中的方法学与[[Epistemology|认识论]]争议。 |
 > | [[Visible Learning]] | 理论框架 | Hattie 采用效应量对各类教育与教学干预进行全球综合与关节点划定。 |
-> | [[EEF Teaching and Learning Toolkit]] | 政策工具 | 将效应量转换为“额外学习月数”并结合[[EEF Padlock Security Rating\|挂锁安全评级]]的循证决策工具。 |
+> | [[EEF Teaching and Learning Toolkit]] | 政策工具 | 将效应量转换为“额外学习月数”并结合[[EEF Padlock Security Rating|挂锁安全评级]]的循证决策工具。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数对 133 项效应量指标展开统计检验，证实二阶综合效应量极度离散（$V_\sigma = 56.87\%$），揭示未经同质性控制的宏观效应量排名无法作为普适性教育政策工具。
-> - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 运用[[Meta-regression|元回归分析]] 755 个效应量，实证量化了[[Developer Effect|开发者效应]]与测量工具紧密性对效应量的系统性推升。
+> - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 运用[[Meta-regression|元回归]]分析 755 个效应量，实证量化了[[Developer Effect|开发者效应]]与测量工具紧密性对效应量的系统性推升。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 追踪 [[Education Endowment Foundation|EEF]] 工具包中效应量转化为月数时的逐级失真案例。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 论证效应量与[[Statistical Significance|统计显著性]]必须与成本、[[Implementation Fidelity|实施保真度]]及地方语境综合解释。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 论述在大规模因果评估中确立标准化测验首要地位与排查[[Floor and Ceiling Effects|天花板效应]]的规程。
@@ -519,3 +319,4 @@ updated: 2026-10-18
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判 $d=0.40$ 效应量截断值的武断性（阿司匹林反例），指出单一平均效应量掩盖微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛效应（STAR 试验小班 $d=0.62–0.66$），并警示二阶综合缺乏底层质控的系统性风险。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 提出效应量多级聚合的货币汇兑损耗比喻，对比六大领域效应量分布（教师 0.49 vs 学校 0.23）与激活者（0.60）vs 促进者（0.17），揭示宏观效应量排名的[[Epistemology|认识论]]困境（pp. 427–429, 432–437）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 运用受控数值模拟证实三类效应量公式对同一数据得出完全相反排名，揭示基线选取任意性与相关换算的数学失效。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从德意志教化传统、身体现象学与二阶控制论解构将教育降维为即时效应量可见快照的实证主义迷思，揭示其背后的范畴错误与资本主义指标规训。
