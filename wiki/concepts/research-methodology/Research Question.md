@@ -3,169 +3,104 @@ title: Research Question
 aliases:
   - 研究问题
   - research questions
-summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
+summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化、质性与混合方法三种路径及问题类型谱系。"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - source/textbook
-related_concepts:
-  - "[[Purpose Statement]]"
-  - "[[Research Purpose]]"
-  - "[[Integration in Mixed Methods]]"
-  - "[[Research Problem]]"
-  - "[[Variable]]"
-  - "[[Literature Search]]"
-  - "[[Causality]]"
-  - "[[Class Size]]"
-  - "[[Research Utilization]]"
-  - "[[Independent Variable]]"
-  - "[[Dependent Variable]]"
-  - "[[Descriptive Research Question]]"
-  - "[[Alternative Hypothesis]]"
-  - "[[Null Hypothesis]]"
-  - "[[Research Writing Script]]"
-  - "[[Directional and Non-directional Hypotheses]]"
-  - "[[Central Question]]"
-  - "[[Epistemology]]"
-  - "[[Emergence]]"
-  - "[[Mixed Methods Question]]"
-  - "[[Paradigm]]"
-related_theories: []
-related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Intervention Research]]"
-  - "[[Survey Research]]"
-  - "[[Ethnography]]"
-related_persons: []
-related_facts: []
-related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-19
 ---
+
 # Research Question
+
+---
 
 ## 定义
 
 > [!def] 核心定义
-> 研究问题（research questions）是研究设计中将[[Purpose Statement\|目的陈述]]收窄为具体可回答问题的核心工具。它们紧接在目的陈述之后，将[[Research Purpose\|研究目的]]细化为研究者计划回答的具体问题或预测的具体结果（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。研究问题的功能是将一般目的转化为具体问题，从而提供具体的、数据驱动的、可回答的答案。
+> **研究问题（Research Question）** 是经验研究设计中将[[Research Purpose|研究目的]]与[[Purpose Statement|目的陈述]]收窄为具体、可回答问题或预测结果的核心工具。它紧随研究目的之后，规定了研究者计划收集的数据类型、分析策略与探究边界，是连接宏观理论关切与微观实证检验的方法论枢纽。在量化、质性与混合方法研究中，研究问题的形式、开放性及其与假设的关系呈现出显著的范式分化[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
 
-在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和假设；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设；[[Mixed Methods Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和[[Integration in Mixed Methods|混合方法整合]]问题三部分（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> [!concept-lens] 概念透镜
+> - **含义** 研究问题指向研究设计中需通过经验证据予以回答的具体探究命题，界定变量关系、现象意义或方法整合点。
+> - **用途** 帮助研究者将宽泛的研究兴趣聚焦为明确的探究焦点，牵引文献检索、抽样设计、数据收集与分析路径。
+> - **边界** 研究问题不等于宏观社会议题，亦非所有质性研究的绝对起点；归纳式人种志往往避免研究问题预设以保持涌现性[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6)]]。
+
+> [!citation-card] 研究问题的功能定位
+> 研究问题将研究目的细化为研究者计划在研究中回答的具体问题，或者预测所寻求的具体结果。它们的功能是将一般目的转化为具体问题，从而提供具体的、数据驱动的、可回答的答案。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
+>
+> *Research questions narrow the purpose statement to specific questions that researchers seek to answer in their study, or predict specific outcomes they seek to find. Their function is to translate general purposes into specific questions that provide concrete, data-driven, and answerable results.*
+
+> [!boundary]- 概念边界
+> - **不等于 研究议题（Research Problem）** 研究议题是引发研究需求的现实困境或学术空白（如疫苗接种犹豫）；研究问题则是将议题转化为可收集数据回答的具体操作性提问[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
+> - **不等于 假设（Hypothesis）** 量化假设是对变量间关系的明确预测并经统计检验；研究问题则以疑问形式表达开放性探索，质性研究只采用研究问题而拒绝预设立场[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
+> - **不适用于 纯粹涌现性探索** 在强调自然主义立场的深描人种志中，预设研究问题容易导致对现场证据的狭隘规训，研究常以无预设的实地观察启动，在后期才生成研究问题[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6)]]。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 研究问题 vs [[Purpose Statement\|目的陈述]] vs [[Research Problem\|研究议题]]
-> | 概念 | 内容 | 示例 |
-> |---|---|---|
-> | 研究议题（[[Research Problem]]） | 引发研究需求的议题 | 人们拒绝接种新冠疫苗 |
-> | [[Purpose Statement\|目的陈述]] | 研究的具体意图 | 识别影响疫苗接种意愿的多种因素 |
-> | 研究问题（Research Question） | 细化的可回答问题 | 参与者是否因担忧长期健康后果而拒绝接种？ |
-
-三者体现研究焦点的逐步收窄：研究议题建立需求 → 目的陈述明确意图 → 研究问题细化为可操作问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-
-> [!contrast-table] 研究问题 vs 假设
-> | | 研究问题 | 假设 |
-> |---|---|---|
-> | **[[Quantitative Research\|量化研究]]** | 就[[Variable\|变量]]间关系提出疑问 | 对变量间预期关系做出预测 |
-> | **[[Qualitative Research\|质性研究]]** | 只使用研究问题，不使用假设 | 不使用 |
-> | **功能** | 开放探索 | 方向性检验 |
+> [!contrast-table] 研究议题、目的陈述、研究问题与假设的层级辨析
+> | 维度 | 研究议题（[[Research Problem]]） | [[Purpose Statement\|目的陈述]] | 研究问题（Research Question） | 假设（Hypothesis） |
+> |---|---|---|---|---|
+> | **核心功能** | 确立研究的现实必要性与理论空白 | 明确研究的整体意图与探究总目标 | 将总体意图收窄为经验可回答的具体问题 | 对变量间关系的明确方向性或非方向性预测 |
+> | **表达形式** | 现实问题陈述或文献缺口说明 | 概括性的陈述句（如本研究旨在探索……） | 具体的疑问句（如现象 A 与 B 存在何种关联？） | 判定性的预测句（如 A 正向预测 B） |
+> | **方法论归属** | 所有研究范式共有 | 所有研究范式共有 | 量化、质性与混合方法共有 | 主要用于量化实验、准实验与因果检验 |
+> | **操作化程度** | 宏观背景层面 | 中观设计层面 | 微观数据收集与分析导向 | 统计推论与显著性检验导向 |
 
 ---
 
----
+## 核心要素
 
-## 研究问题的明确化
+> [!feature] 研究问题的核心构成与明确化要素
+> - **变量关联性（Relational Focus）** 在解释性量化研究中，问题陈述至少包含两个[[Variable|变量]]，清晰界定自变量、因变量或预测变量之间的预期关联[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]。
+> - **经验可检验性（Empirical Testability）** 问题必须具有可操作性并容许产生多元回答，排除预设道德评判或只有唯一定论的伪问题[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]。
+> - **范式契合度（Paradigm Alignment）** 量化问题关注变量间差异与预测；质性问题关注中心意义与经历建构；混合方法问题聚焦于定性与定量数据整合带来的增量洞见[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
+> - **类型谱系定位（Typological Spectrum）** 涵盖基本疑问（What/Why/How）、因果检验、关系比较、评价判断、分类描述与行动导向六大类别谱系[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6)]]。
 
-在选择研究问题时，缺乏经验的研究者最容易出现的问题是选择了一个比较宽泛或比较笼统的问题领域，而不是一个明确的、具体的研究问题。要使最初的、粗略的、一般性的问题转变成为焦点集中、切实可行的研究问题，必须进行研究问题明确化的工作（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
-
-### 缩小范围
-
-先将宽泛的问题转化为狭窄的问题，将一般性问题转化为特定的问题。例如，"中学生违纪问题"可以转化为"中学生违纪的原因研究"或"中学生违纪的特点研究"。在这一过程中，[[Literature Search|文献检索]]与回顾往往具有十分重要的作用——通过查阅已有文献发现研究空白，从而确定更具体的研究问题。
-
-### 清楚陈述
-
-好的问题陈述具有两个特征：所陈述的问题必须在研究者的能力范围之内；既不能太宽泛，又不能太微不足道。陈述时应考虑以下要点（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）：
-
-> [!feature] 问题陈述的要点
-> - **陈述清楚明白** 最好能运用[[Variable\|变量]]的语言，且采用提问的形式。例如："教师培训班是否明显地改善了教师的专业教学能力？"常用的提问形式是："现象A与现象B之间存在什么关系？"
-> - **至少包括两个变量** 除了单纯的描述研究外，问题陈述必须至少包括两个变量。只包含一个变量的问题陈述通常为描述性的研究。
-> - **必须是可检验的** 所研究的问题必须能够产生不止一种回答。那种只有一种答案的问题陈述是不合格的问题。
-
-> [!warning] 先明确问题再收集资料
-> 在明确研究问题之前匆忙收集资料，虽然可行但并不有效——常常导致收集的资料中许多是无用的或错误的。研究者应养成首先将问题内涵明确化的习惯（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。
-
-## 研究问题的类型谱系
-
-研究问题可以关注的方面极其广泛，教材列举了30种类型，可归纳为六大类别（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；Newby, 2010；University of Berkeley, 2002）：
-
-> [!info] 研究问题的六大类别
-> | 类别 | 包含的问题类型 | 代表性示例 |
-> |---|---|---|
-> | **基本疑问** | What、Why、How、What if、Who、When、Where | 为什么男教师在小学教师中比例偏低？ |
-> | **探究功能** | 预测、理解、探索、[[Causality\|因果]]、检验、解释、描述 | 频繁测试是否提高了学生成绩？（因果） |
-> | **关系与分析** | 关系、比较、相关、过程、因素 | [[Class Size\|班级规模]]与学生成绩之间是否存在相关？ |
-> | **评价与判断** | 评价、功能或目的 | 该课后辅导计划是否提高了学生成绩？ |
-> | **分类与描述** | 类型、属性与特征、阶段、结构 | 教师专业身份发展经历了哪些阶段？ |
-> | **行动导向** | 如何达成某结果、如何做某事、如何改进或发展、替代方案 | 如何改进初任教师的入职培训？ |
-
-完整30种类型详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]。
-
-> [!decisions] 研究问题与决策
-> 在决定是否追求某项研究时，审视研究问题本身的清晰性、易答性、全面性、可理解性、具体性、复杂性、难度、焦点、目的、所需数据类型和答案效用。但这不是说研究必须在研究问题上一帆风顺——许多最有用的研究恰恰源于复杂问题和难以回答的研究问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
+> [!logic-map]- 研究问题在研究设计中的逐步聚焦逻辑
+> ```mermaid
+> flowchart LR
+>     A["现实困境与理论缺口<br>（研究议题）"] --> B["研究总体意图确立<br>（目的陈述）"]
+>     B --> C["操作性提问聚焦<br>（研究问题）"]
+>     C --> D1["量化路径：变量假设与统计推论"]
+>     C --> D2["质性路径：核心问题与深度描述"]
+>     C --> D3["混合路径：多源数据整合与互证"]
+> ```
 
 ---
 
-## 量化研究问题与假设
-
-[[Quantitative Research|量化研究]]中的研究问题围绕[[Variable|变量]]间的关系提问。量化假设则是对变量间预期关系的预测，通过统计程序检验，研究者基于样本对总体做出推论。实验或[[Intervention Research|干预研究]]（含组间比较的）由正式假设指导（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-
-### 撰写指南
-
-五条核心指南（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
-
-1. **陈述变量** 量化[[Research Utilization|研究使用]]三类变量——比较组间[[Independent Variable|自变量]]以观察其对[[Dependent Variable|因变量]]的影响（实验或组间比较）；将预测变量与结果变量相关联（[[Survey Research|调查研究]]）；描述变量的得分（报告均值、标准差和范围）。
-2. **包含理论** 最严格的量化研究以检验理论为起点，研究问题或假设应逻辑上跟随或挑战该理论。
-3. **区分描述性和关系型**[[Descriptive Research Question|描述性研究问题]]描述单一变量的频率和变异；关系型研究问题考察变量间的关系，使用推论性统计基于样本对总体做出推论。
-4. **创建[[Alternative Hypothesis|方向性备择假设]]** [[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。
-5. **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate。
-
-> [!tip]- [[Research Writing Script\|写作脚本]]
-> 描述性量化研究问题：What is the frequency and variation of scores on [变量] for [参与者] in the study?
->
-> 关系型量化研究问题与[[Directional and Non-directional Hypotheses\|方向性假设]]：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。
+## 围绕概念形成的命题
 
 ---
 
-## 质性研究问题
+### 命题一　研究问题在不同方法论范式中承担差异化的探究与规训功能
 
-[[Qualitative Research|质性研究]]只使用研究问题，不使用假设，因为研究者不想为研究结果预设方向。质性研究问题分为[[Central Question|核心研究问题]]（一至两个宽泛开放问题）和子问题（五至七个收窄问题，用于数据收集如访谈）。撰写规则及质性路径差异详见 [[Central Question]] 条目（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> [!concept-lens] 方法论范式与问题形态
+> 考察研究问题在量化、质性与混合方法研究中的认知预设、撰写规程以及是否应当居于统治地位的方法论争议。
 
-> [!warning] 质性研究不使用研究问题的情况
-> 并非所有研究都需要研究问题。一些研究，通常是质性研究（Bryman, 2007b），可能没有研究问题。研究方法并不总是由研究问题驱动（Bryman, 2007b: 18），应避免研究问题的独裁（dictatorship of the research questions）（Bryman, 2007b: 14）。[[Ethnography\|人种志]]等研究类型可能不以研究问题开始，而是在后期阶段使用开放式研究提出研究问题供后续[[Research Utilization\|研究使用]]。选择无研究问题的路径需要有[[Epistemology\|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence\|涌现]]性发现和自然主义方法论立场有关（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
+> [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
+> **范式驱动的问题分类结构** 量化研究问题围绕变量关系提出疑问，并与方向性假设配套使用以开展统计推论；质性研究仅使用开放性的核心问题与子问题，严格排除方向性预测以避免先验偏误；混合方法研究则必须同时包含量化问题、质性问题以及专属性的混合方法整合问题，以此明晰多源数据互证所带来的理论增益。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
+
+> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
+> **反思研究问题独裁与涌现性边界** 批判将“研究问题驱动方法”奉为绝对教条的倾向，指出人种志与纯粹归纳式研究往往拒绝预设刚性研究问题，主张在田野互动与自然主义观察中由资料涌现出探究焦点，以此规避“研究问题的独裁”（dictatorship of the research questions）对实地现象丰富性的压制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6)]]
 
 ---
 
-## 混合方法研究问题
+### 命题二　研究问题明确化依赖范围收窄与变量化语言操作
 
-[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过整合两类数据获得什么洞见（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。
+> [!concept-lens] 问题操作化与明确化路径
+> 聚焦研究者如何通过文献检索与变量语言，将宽泛模糊的探究兴趣聚焦转化为切实可行的经验问题。
 
-框定混合方法研究问题往往比单一[[Paradigm|范式]]研究更困难，因为它需要在同一研究问题中同时处理量化与质性策略（Onwuegbuzie & Leech, 2006a: 477）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> [!claim] [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]
+> **范围收窄与变量化陈述机制** 缺乏经验的研究者易陷入泛化的问题领域，必须依托文献回顾识别知识空白，将粗略问题转化为具备两个以上变量、语言清晰明了且容许多元可能性的可检验陈述；在未明确问题内涵前盲目采集资料往往导致数据失效与分析混乱。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
 
-> [!case] 混合方法研究问题示例一
-> "研究生阅读理解水平与他们对阅读实证研究文章的障碍感知之间存在什么关系？"（Onwuegbuzie & Leech, 2006a: 484）该问题需要数值数据（阅读理解水平得分）和质性数据（对阅读障碍的感知）来提供完整答案，将 What（量化相关）和 Why/What barriers（质性探索）整合在同一问题中。
-
-> [!case] 混合方法研究问题示例二
-> "男性和女性研究生在统计课程中的课堂氛围感知差异是什么？"（Onwuegbuzie & Leech, 2006a: 494）该问题可能涉及将测验数据（量化测量课堂氛围）与访谈数据（质性理解感知差异）相结合。
+> [!claim] Onwuegbuzie and Leech (2006)
+> **混合方法研究问题的双重复杂性建构** 混合方法研究问题的界定难度显著高于单一范式，要求研究者在同一提问框架中兼顾量化变量相关（What）与质性质态探索（Why），通过将测验数值与感知叙事紧密咬合，实现探究深度的整体提升。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6; 引 Onwuegbuzie & Leech, 2006)]]

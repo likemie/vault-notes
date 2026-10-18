@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research Question",
+      "path": "wiki/concepts/research-methodology/Research Question.md"
+    },
+    {
       "basename": "Argument_Knudsen_2017_NordSTEP",
       "path": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Evidence-Based Education",
       "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Argument_Nielsen_2021_NordPsych",
-      "path": "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "root": "/Users/shaoyangwu/Documents/MyNotes",
+  "created": "2026-10-18T16:53:55.246770+00:00",
+  "argument": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md",
+  "argument_hash": "b07a3fd357ac514a112b6fc62e7ca38f4c9cb7e40cd5a931e4937d71b9fe96c3",
+  "batches": [
+    {
+      "number": 1,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Research Question",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Research Question.md",
+          "aliases": [
+            "研究问题",
+            "research questions"
+          ],
+          "discovered_by": [
+            "related_concepts"
+          ]
+        },
+        {
+          "title": "Champ",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Champ.md",
+          "aliases": [
+            "场域",
+            "field"
+          ],
+          "discovered_by": [
+            "related_concepts"
+          ]
+        },
+        {
+          "title": "Science and Technology Studies",
+          "type": "concept",
+          "path": "wiki/concepts/curriculum/Science and Technology Studies.md",
+          "aliases": [
+            "科学技术研究",
+            "STS"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Learning Intentions",
+          "type": "concept",
+          "path": "wiki/concepts/curriculum-instruction/Learning Intentions.md",
+          "aliases": [
+            "学习意图",
+            "学习目标意图",
+            "Learning Intention",
+            "认知学习意图"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Success Criteria",
+          "type": "concept",
+          "path": "wiki/concepts/curriculum-instruction/Success Criteria.md",
+          "aliases": [
+            "成功标准",
+            "达成标准",
+            "Success Criterion",
+            "表现成功标准"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Surface and Deep Learning",
+          "type": "concept",
+          "path": "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
+          "aliases": [
+            "表层学习与深层学习",
+            "表层学习",
+            "深层学习"
+          ],
+          "discovered_by": [
+            "related_concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Falsification",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Falsification.md",
+          "aliases": [
+            "证伪主义",
+            "证伪",
+            "falsifiability",
+            "可证伪性",
+            "falsificationism",
+            "severe test"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Visible Learning",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+          "aliases": [
+            "可见的学习"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        },
+        {
+          "title": "Bildung",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Bildung.md",
+          "aliases": [
+            "精神教化",
+            "Character Formation",
+            "Edification of Character"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "SOLO Taxonomy",
+          "type": "concept",
+          "path": "wiki/concepts/competency-and-assessment/SOLO Taxonomy.md",
+          "aliases": [
+            "学习结果结构分类法",
+            "可观察学习结果结构分类法",
+            "Structure of the Observed Learning Outcome",
+            "SOLO"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        },
+        {
+          "title": "Problem-Based Learning",
+          "type": "concept",
+          "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
+          "aliases": [
+            "问题本位学习",
+            "基于问题的学习"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "pending",
+      "type": "theory",
+      "template": "wiki/templates/template-theory.md",
+      "entries": [
+        {
+          "title": "Theory of Mind",
+          "type": "theory",
+          "path": "wiki/theories/educational-psychology/Theory of Mind.md",
+          "aliases": [
+            "心智理论"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "pending",
+      "type": "method",
+      "template": "wiki/templates/template-method.md",
+      "entries": [
+        {
+          "title": "Transcription in Qualitative Research",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Transcription in Qualitative Research.md",
+          "aliases": [
+            "转录",
+            "质性研究转录",
+            "interview transcription",
+            "Verbatim Transcription",
+            "逐字转录"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Effect Size",
+          "type": "method",
+          "path": "wiki/methods/quantitative/Effect Size.md",
+          "aliases": [
+            "效应量"
+          ],
+          "discovered_by": [
+            "related_methods"
+          ]
+        },
+        {
+          "title": "Meta-analysis",
+          "type": "method",
+          "path": "wiki/methods/quantitative/Meta-analysis.md",
+          "aliases": [
+            "元分析"
+          ],
+          "discovered_by": [
+            "related_methods"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "pending",
+      "type": "method",
+      "template": "wiki/templates/template-method.md",
+      "entries": [
+        {
+          "title": "Semi-structured Interview",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Semi-structured Interview.md",
+          "aliases": [
+            "半结构化访谈",
+            "semi-structured interviews",
+            "interview guide approach"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        },
+        {
+          "title": "Expert Interview",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Expert Interview.md",
+          "aliases": [
+            "专家访谈",
+            "专家访谈法",
+            "expert interviewing",
+            "expert interviews",
+            "Experteninterview"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "pending",
+      "type": "person",
+      "template": "wiki/templates/template-person.md",
+      "entries": [
+        {
+          "title": "John Hattie",
+          "type": "person",
+          "path": "wiki/persons/new-zealand/John Hattie.md",
+          "aliases": [
+            "Hattie, J.",
+            "约翰·哈蒂",
+            "哈蒂"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        },
+        {
+          "title": "Karl Popper",
+          "type": "person",
+          "path": "wiki/persons/uk/Karl Popper.md",
+          "aliases": [
+            "卡尔·波普尔",
+            "Karl R. Popper",
+            "K. R. Popper",
+            "K. Popper",
+            "Sir Karl Popper"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-organization.md",
+      "entries": [
+        {
+          "title": "Cognition Education",
+          "type": "fact",
+          "path": "wiki/facts/new-zealand/Cognition Education.md",
+          "aliases": [
+            "Cognition Education Group",
+            "Cognition Education Trust",
+            "Multi Serve",
+            "Multi Serve Education Trust",
+            "认知教育",
+            "认知教育集团",
+            "认知教育信托"
+          ],
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "Australian Institute for Teaching and School Leadership",
+          "type": "fact",
+          "path": "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
+          "aliases": [
+            "澳大利亚教学与学校领导力协会",
+            "AITSL"
+          ],
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-event.md",
+      "entries": [
+        {
+          "title": "Visible Learning Branding and Global Influences",
+          "type": "fact",
+          "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
+          "aliases": [
+            "可见的学习品牌化与全球影响",
+            "Visible Learningplus",
+            "VLplus"
+          ],
+          "discovered_by": [
+            "body"
+          ]
+        }
+      ]
+    }
+  ]
+}
