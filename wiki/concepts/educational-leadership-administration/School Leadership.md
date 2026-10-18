@@ -198,11 +198,11 @@ updated: 2026-10-17
 > [!concept-lens] 组织使能杠杆与实践价值分层
 > 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
-> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家评审确立学校领导力为最高相关度的组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集国际资深学者对全库 322 项教育影响因素开展德尔菲相关度评定时，校长与学校领导力（School Leadership）获得了极高的专家共识得分（$M = 4.50, SD = 0.58$），位列全库所有组织与管理类变量之首（位列前 10 项核心因素）。专家评定指出：与[[Feedback|教学反馈]]（$M=4.75$）和[[Classroom Management|课堂管理]]（$M=4.75$）等直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
->
-> [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM|Eacott (2017)]]
-> **追逐领导力绩效诱发的行政官僚异化与治理悲剧** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚“提高教学质量（Quality Teaching Model, QTM）”政策的尖锐批判指出：自上而下的循证绩效[[Disciplina and Doctrina|规训]]正将学校领导力异化为“持续生产数据（continuous production of data）”的技术官僚流水线，被称为“澳大利亚教育领导力的悲剧”。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师；俄罗斯本土实证调查同样证实，79% 的教师受困于文书填表，超 25% 教师因形式主义压力拟转行。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
+> [!claim] Kalmendal et al. (2025)
+> **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+
+> [!claim] Golovchin (2019); Eacott (2017)
+> **追逐领导力绩效诱发行政官僚异化与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效[[Disciplina and Doctrina|规训]]正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
 
 ---
 
@@ -215,7 +215,7 @@ updated: 2026-10-17
 > | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础[[Educational Decentralization\|教育分权]]改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
 > | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] |
 > | **工时重置与角色转型** | 治理理念促使校长削减直接授课并增加听课研讨，向教育企业管理者转型 | 学校管理专业化、领导力工时配置与组织再造 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] |
-> | **高位组织使能支柱** | 专家评审获评极高分（$M=4.50$），作为系统孵化与保障微观课堂教学的高位杠杆 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **高位组织使能支柱** | 专家评审获评高分，作为系统孵化与保障微观课堂教学的高位杠杆 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 > | **官僚异化治理风险** | 追逐领导力[[Performance Indicators\|绩效指标]]异化为持续生产数据，加剧行政官僚化与教师流失 | 循证政策行政转译、教师工作负荷与师资留任危机 | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 
 ---
@@ -234,17 +234,17 @@ updated: 2026-10-17
 
 ## 争议与批评
 
-> [!debates] 学术争议
+> [!debate] 学术争议与批判反思
 >
 > > [!axis] 个人英雄叙事与分布式协作的断裂
 > > 许多领导力实证研究主要依赖校长的自我陈述，极易滑向过度美化个人能力的英雄主义传奇（Heroic Tales），遮蔽了教师同侪协作与学校深层权力结构。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 380–381)]]
 > >
 > > - **主流管理学研究** 倾向于将学校成败全部归功于个别卓越校长的魄力与决策。
 > > - **批判政策学者** 强调分布式领导与集体实践，批判英雄叙事对制度性不平等的掩盖。
->
-> > [!axis] [[OECD\|经合组织]]（OECD）领导力[[Discourse|话语]]的去政治化包装
+> >
+> > [!axis] 经合组织领导力话语的去政治化包装
 > > OECD 报告将表面中立的最佳实践模型呈现为去政治化的技术操作，忽视了教育改革本质上深嵌于福利再分配与意识形态博弈之中。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 377)]]
->
+> >
 > > [!axis] 市场竞争驱动与教育正义追求的深层冲突
 > > 在市场驱动的[[School Autonomy\|学校自主权]]体制下，校长面临成为自负盈亏企业家的巨大压力，往往导致办学目标向争夺优势生源倾斜，损害了面向边缘群体的教育公平。
 
@@ -279,9 +279,28 @@ updated: 2026-10-17
 
 ---
 
+## 条目关联
+
+> [!entry-map] 学校领导力关联网络
+>
+> | 条目 | 类型 | 贡献与核心关联说明 |
+> |---|---|---|
+> | [[Evidence-Informed Practice]] | 实践形态 | 学校领导力作为组织使能支柱，推动外部科研证据在校本场景落地。 |
+> | [[Quality Use of Research Evidence Framework]] | 理论框架 | 将榜样示范与制度化排程确立为促进高质量证据使用的使能要素。 |
+> | [[Professional Learning Community]] | 组织载体 | 学校领导通过划拨专有教研工时所培育的专业协作共同体。 |
+> | [[School Autonomy]] | 制度背景 | 分权与学校自主权改革重构了校长的权责边界与企业家角色。 |
+> | [[New Public Management]] | 治理范式 | 绩效审计与市场化问责导致校长职业习性撕裂与目标置换。 |
+> | [[Transformative Leadership]] | 关联概念 | 强调解构不平等权力结构、促进社会正义的批判性领导取向。 |
+> | [[Instructional Leadership]] | 关联概念 | 聚焦课堂教学质量诊断与教师教学行为指导的专业领导形态。 |
+> | [[Jorunn Møller]] | 代表学者 | 主持 ISSPP 跨国成功学校校长项目，阐明领导力的情境特异性。 |
+> | [[Scott Eacott]] | 代表学者 | 运用布迪厄场域理论深度批判学校领导力的管理主义与新泰勒主义异化。 |
+> | [[Herbert Altrichter]] | 代表学者 | 实证揭示产出导向治理下校长工时重置与向教育企业管理者转型。 |
+
+---
+
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织杠杆。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。

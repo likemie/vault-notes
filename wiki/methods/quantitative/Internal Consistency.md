@@ -22,6 +22,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
+  - "[[Scale of Measurement]]"
 related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
@@ -38,103 +39,138 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-18
 ---
+
 # Internal Consistency
 
 ---
 
 ## 定义
 
-> [!def] 核心定义
-> 内部一致性（Internal consistency）是[[Reliability\|信度]]的一种形式，衡量多项目量表中各条目（items）是否在测量同一底层[[Construct\|构念]]。与测试/重测和等价形式信度不同——它们要求两次测试或工具施测——内部一致性只需要**一次**施测。其基本逻辑是：如果量表的所有条目都在测量同一个构念，那么这些条目之间应该有适当的相互关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+> [!def] 方法定义
+> 内部一致性（Internal Consistency）是[[Reliability|信度]]在量化测量中的核心形式，衡量多项目量表中各条目（items）在单次测验中指向同一底层[[Construct|构念]]的统计同质性程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 202–204]]）。
 
-在 Carmines and Zeller (1979) 的量化信度三类型框架中，内部一致性是与稳定性（[[Test-Retest Reliability|重测信度]]）和等值性（等价形式和[[Inter-Rater Reliability|评分者间信度]]）并列的第三大信度类型（pp.202–204）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> [!method-scope] 方法范围
+> - **研究对象** 心理量表、问卷题项、标准化测验试题与多指标评估工具。
+> - **问题类型** 适合回答测验题项是否协同测量单一潜变量、各题项间相关强度及量表同质性检验。
+> - **分析单位** 测验题项、量表维度与受试者单次反应得分。
+> - **输出形式** 半分相关系数、Spearman-Brown 校正系数与 Cronbach's $\alpha$ 估计值。
 
-> [!citation-card]- Creswell 对内部一致性的定义
-> 对于多项目工具来说，最重要的信度形式是工具的内部一致性——即工具上各组条目以相同方式运作的程度。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+> [!citation-card]- 关键定义
+> 对于多项目工具来说，最重要的信度形式是工具的内部一致性——即工具上各组条目以相同方式运作的程度。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]
 >
 > *The most important form of reliability for multi-item instruments is the instrument's internal consistency—the degree to which sets of items on an instrument behave in the same way.*
 
-> [!concept-lens] 概念透镜
-> - **含义** 内部一致性回答的核心问题是：量表中的这些条目是否在协同一致地测量同一个东西？它衡量的是**项目之间**（而非受试者之间或时间点之间）的一致性。
-> - **用途** 在多项目量表（如[[Rating Scale\|态度量表]]、人格测验、能力测试）的开发与验证中，内部一致性是最核心的信度指标。它是[[Survey Research\|调查研究]]和[[Scale Development\|量表开发]]中最常报告的信度形式。
-> - **边界** 内部一致性不同于[[Test-Retest Reliability\|重测信度]]（后者关注跨时间的稳定性），也不同于[[Inter-Rater Reliability\|评分者间信度]]（后者关注跨评分者的一致性）。它衡量的是单一时间点、单次施测中条目间的相互关联。
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 属于实证主义测量范式，预设潜在特质能够通过一组相互关联的经验题项进行抽样表征。
+> - **研究者角色** 测量工具的设计者与统计检验者，负责题项筛选、难度与区分度控制以及同质性判定。
+> - **有效性标准** 遵循经典测验理论（Classical Test Theory, CTT），以项目间协方差结构与方差分解评估测量精度。
+> - **不声称回答的问题** 不回答跨时间的测量稳定性，也不直接证明题项所测内容是否真实对应目标概念（构念效度需外部证据支持）。
+
+> [!method-stack] 方法层级
+> - **研究设计** 调查研究、量表编制与心理测量试验。
+> - **数据收集** Likert 量表问卷、二分选择测验与多指标评定量表。
+> - **分析方法** 题项间相关分析、半分相关校正与 Cronbach's $\alpha$ 计算。
+> - **辅助技术** 项目分析、区分度检验与探索性因子分析。
 
 ---
 
-## 概念辨析
+## 研究程序
 
-> [!contrast-table] 内部一致性 vs [[Test-Retest Reliability\|重测信度]] vs [[Inter-Rater Reliability\|评分者间信度]]
-> | 维度 | 内部一致性 | [[Test-Retest Reliability\|重测信度]] | [[Inter-Rater Reliability\|评分者间信度]] |
-> |---|---|---|---|
-> | **核心问题** | 条目是否一致地测量同一[[Construct\|构念]]？ | 测量在不同时间是否稳定？ | 不同评分者是否一致？ |
-> | **施测次数** | 一次 | 两次（间隔一定时间） | 一次（但多位评分者） |
-> | **偏差来源** | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 | 评分者之间的主观差异 |
-> | **典型指标** | [[Cronbach's Alpha\|Cronbach's α]]、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、[[Intraclass Correlation Coefficient\|ICC]] |
-> | **[[Reliability\|信度]]类型** | 内部一致性 | 稳定性 | 等值性 |
+> [!proc] 通用程序
+> 1. **明确潜在构念** 界定量表所欲测量的单一心理特质或行为倾向。
+> 2. **编制测验题项** 围绕构念操作化编写一组具有代表性的测量题项。
+> 3. **实施单次施测** 在目标样本群体中施测并收集原始作答数据。
+> 4. **评估内部一致性** 通过半分法或计算 Cronbach's $\alpha$ 检验题项同质性。
+> 5. **题项净化与修订** 排查低相关或降低量表总信度的题项，优化工具结构。
 
----
+### 量化方法模块
 
-## 核心要素
+> [!method-stack] 数据、变量与模型
+> - **数据结构** 单次截面作答矩阵（$N$ 名受试者 $\times$ $k$ 个题项）。
+> - **样本与单位** 个体学生或受试者，样本量通常需满足受试者与题项比至少 5:1 至 10:1。
+> - **变量或指标** 各题项连续得分或等级积分，以及量表总分。
+> - **模型或统计量** 半分信度系数、Spearman-Brown 公式与 Cronbach's $\alpha$ 系数。
+> - **诊断与检验** 题项总分相关（Item-Total Correlation）、删除项后的 $\alpha$ 变化量。
 
-### 半分法与 Spearman-Brown 公式
-
-内部一致性的传统检验方法是**半分法（[[Split-Half Reliability|split-half]] method）**，其操作步骤和公式如下（pp.202–203）：
-
-> [!proc] 半分法的操作流程
-> 1. **将测试对半分割** 将测试项目分为两半，确保每半在[[Item Analysis\|项目难度]]和内容上匹配。若测试有 20 个项目且难度递增，可将偶数号项目分给一组、奇数号分给另一组，使两半在内容和累积难度上更接近
-> 2. **分别评分** 每半分单独评分，计算每位受试者在每半上的得分
-> 3. **计算相关系数** 计算两半得分之间的相关系数 $r$（Pearson 或 Spearman）
-> 4. **Spearman-Brown 校正** 因为将测试减半会降低[[Reliability\|信度]]，需要用公式从半测试相关**推算出完整测试的信度**
-
-> [!formula-step] Spearman-Brown 公式
-> $$
-> \text{reliability} = \frac{2r}{1 + r}
-> $$
+> [!formula-step] 公式步骤　Spearman-Brown 折半校正公式
+> $$r_{sb} = \frac{2r}{1 + r}$$
 >
-> **$r$ = 测试两半之间的实际相关系数**。公式校正了"项目减半导致信度降低"这一衰减效应——从两半之间的相关推算出完整测试的信度。
+> **这个公式在做什么** 从两半测验得分的相关系数 $r$，推算测验长度恢复为完整原长时的全量表信度。
 >
-> **示例** 若 $r = 0.85$，则完整测试的信度为 $\frac{2 \times 0.85}{1 + 0.85} = \frac{1.70}{1.85} = 0.919$。鉴于系数最大值为 1.00，0.919 表明完整测试的内部一致性非常高。
+> **符号说明**
+> - $r$ 为将测验均分为对等两半后计算的 Pearson 积矩相关系数。
+> - $r_{sb}$ 为经题项长度校正后的完整量表信度估计值。
+>
+> **数学直觉** 测验信度随测验长度增加而提高，公式逆向弥补将项目折半造成的信度人为衰减。
+>
+> **结果怎么读** 数值介于 0 到 1 之间，越接近 1 表明两半题项测量的内容越趋于一致。
 
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 202–203)]]
+> [!formula-step] 公式步骤　Cronbach's Alpha 内部一致性系数
+> $$\alpha = \frac{k}{k - 1} \left(1 - \frac{\sum_{i=1}^k \sigma^2_i}{\sigma^2_{\text{total}}}\right)$$
+>
+> **这个公式在做什么** 计算所有项目方差和与总分方差的比值，表征题项间共同变异占总变异的份额。
+>
+> **符号说明**
+> - $k$ 为量表包含的有效测验题项总数。
+> - $\sum_{i=1}^k \sigma^2_i$ 为各单项得分方差的总和。
+> - $\sigma^2_{\text{total}}$ 为所有受试者量表总分的方差。
+>
+> **数学直觉** 当题项高度协同测量同一特质时，协方差推高总分方差，使单项方差和占比缩减，$\alpha$ 逼近 1。数学上等效于所有可能折半方式下 Spearman-Brown 校正值的均值。
+>
+> **结果怎么读**
+> - $\alpha \ge 0.90$：极高一致性，但需排查题项表述高度雷同带来的内容冗余。
+> - $0.70 \le \alpha < 0.90$：处于最佳区间，题项同质且保有独特信息增量。
+> - $\alpha < 0.70$：内部一致性偏低，需审查题项质量或是否存在多维度混杂。
+
+> [!software-impl] 软件实现
+> - **数据处理** 确认反向计分题已正确转换，排查缺失值与极端异常反应。
+> - **推荐软件** R (`psych::alpha`)、Python (`pingouin.cronbach_alpha`)、SPSS (`Analyze -> Scale -> Reliability Analysis`)。
+> - **核心包或命令** R 语言运行 `psych::alpha(data)`，直接输出原始 $\alpha$、标准化 $\alpha$ 以及各题项删除后的信度变动（alpha if item deleted）。
+> - **报告标准** 报告题项总数 $k$、样本量 $N$、$\alpha$ 点估计及 95% 置信区间。
 
 ---
 
-### Cronbach's Alpha
+## 适用场景
 
-[[Cronbach's Alpha|Cronbach alpha]] 是内部一致性最常用的量化指标，提供了**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。与半分法不同，alpha 不需要将测试分成两半：它**等效于所有可能半分方式的 Spearman-Brown 校正值的平均值（p.203）**。
-
-> [!formula-step] Cronbach's Alpha 公式
-> $$
-> \alpha = \frac{k}{k - 1} \left(1 - \frac{\sum \sigma^2_i}{\sigma^2_{\text{total}}}\right)
-> $$
->
-> **$k$ = 量表中的项目总数**；$\sum \sigma^2_i$ = 所有项目各自方差的**总和**；$\sigma^2_{\text{total}}$ = 量表**总分**的方差。
->
-> **公式逻辑** $\frac{\sum \sigma^2_i}{\sigma^2_{\text{total}}}$ 衡量"各项目独自变异的比例"——项目之间越一致，该比值越小，$\left(1 - \text{比值}\right)$ 接近 1，$\alpha$ 就高。$\frac{k}{k-1}$ 是校正因子——项目数越少，校正力度越大，防止项目少的量表获得虚高值。
-
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 203)]]
+> [!method-fit] 适用判断
+> - **适合使用** 多项目单维度量表编制、态度与心理特质测量工具信度检验、单次施测问卷的质量评估（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> - **谨慎使用** 包含明显子维度的综合性多维量表，需按各个独立子维度分别计算内部一致性，不可盲目合并计算全量表 $\alpha$。
+> - **不适合使用** 速度测验（Speed Tests，未作答题目会导致一致性虚高）或动态追踪跨期稳定性的研究设计。
 
 ---
 
-### Alpha 的解读
+## 局限性
 
-> [!feature] Cronbach's α 解读标准
-> - **α ≥ 0.90** 优秀——但可能暗示条目间存在**冗余**（条目过于相似，未提供独特增量信息）
-> - **0.70 ≤ α < 0.90** 最佳范围——条目间有良好一致性且不过度冗余
-> - **α < 0.70** 信度不足——条目可能未测量同一[[Construct\|构念]]，需要检查或删除低相关条目
-> - **条目数量效应** α 受条目数量影响——条目越多，α 倾向于越高。比较不同长度量表的 α 值需谨慎
-
-> [!example] Perceived Stress Scale (PSS) 实例
-> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表文献中报告了三个独立[[Study Population and Sample\|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct\|构念]]。该量表可免费用于[[Research Purpose\|研究目的]]，只需引用原始来源。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+> [!method-limits] 方法局限
+> - **偏误来源** 题项数量膨胀效应。$\alpha$ 数值直接受题项数量 $k$ 影响，长量表即便各题项相关较弱亦可获得高 $\alpha$，易掩盖测量质量缺陷。
+> - **适用边界** 依赖 $\tau$ 等值假设（$\tau$-equivalent model），即假定所有题项对潜在构念的负荷均等；若因子负荷差异显著，$\alpha$ 将低估真实信度，此时分层 $\omega$（McDonald's $\omega$）为更优估计。
+> - **误用风险** 盲目追求高 $\alpha$（如 $>0.95$）导致题项语义过度重合，窄化构念内涵并损害构念效度。
+> - **补救方式** 结合验证性因子分析（CFA）检验单维度性，辅以 McDonald's $\omega$ 系数作为交叉验证。
 
 ---
 
-## 争议与批评
+## 相关理论与方法
 
-> [!warning] 使用 Alpha 的注意事项
-> - α 受条目数量影响——条目越多，α 值倾向于越高。因此比较不同长度量表的 α 值需要谨慎。
-> - 当研究者修改现有工具或组合多个工具时，原有量表的[[Reliability\|信度]]值不再适用于新工具。重新建立内部一致性应成为数据分析计划的组成部分。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
-> - α > 0.90 虽然看似理想，但可能意味着部分条目在测量几乎相同的内容（条目冗余），而非提供独特的增量信息——此时应考虑是否可精简条目以缩短量表长度。
-> - 半分法的有效性取决于两半是否在内容难度上真正匹配——如果测试有系统性难度梯度，前后半分割会产生不匹配的两半，此时奇偶分半法是必要的纠正手段。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 203)]]
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Reliability]] | 概念母体 | 内部一致性是实证信度体系中与稳定性、等值性并列的核心支柱。 |
+> | [[Cronbach's Alpha]] | 专用指标 | 内部一致性最广泛采用的数学估计公式与操作化指标。 |
+> | [[Split-Half Reliability]] | 前置方法 | 内部一致性检验的早期基础算法，通过两半相关推导全量表信度。 |
+> | [[Test-Retest Reliability]] | 互补方法 | 评估跨时间稳定性的信度形式，需两次施测。 |
+> | [[Inter-Rater Reliability]] | 互补方法 | 评估跨观察者评分一致性的信度形式。 |
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统界定教育测量中的量化内部一致性、半分法推导与 $\alpha$ 解释标准。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, Ch. 8)]] — 阐释量表研发中内部一致性的首要地位，并以 PSS 知觉压力量表示范信度检验规程。

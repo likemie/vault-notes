@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Category Mistake
@@ -80,7 +80,7 @@ updated: 2026-10-17
 > - **边界** 范畴错误不同于单纯的技术性测量误差或统计样本偏倚；它是结构性的哲学与逻辑失范。即便实证[[Sample Size Determination|样本量]]无限大、计算过程完全精准无误，若存在范畴错误，所得出的比较结论在逻辑上依然全盘失效。
 
 > [!citation-card] 德甲联赛隐喻与范畴[[Incommensurability|不可通约性]]
-> [[John Hattie|哈蒂]]的排名有点像德甲联赛，拜仁慕尼黑和汉堡 SV 在好日子和坏日子里都有一席之地。值得怀疑的是，教师是否必须在[[Direct Instruction|直接教学]]和分布式练习之间做出抉择，而不是两者的最佳组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
+> [[John Hattie|哈蒂]]的排名有点像德甲联赛，拜仁慕尼黑和汉堡 SV 在好日子和坏日子里都有一席之地。值得怀疑的是把[[Direct Instruction|直接教学]]与分布式练习割裂开来的排他抉择，因为教学实践的核心在于探寻两者的最佳动态组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
 >
 > *Hatties Rangliste ähnelt ein wenig einer Fußballtabelle der Bundesliga, in der der FC Bayern München und der Hamburger SV an guten wie an schlechten Tagen nebeneinander stehen. Es ist zu bezweifeln, ob Lehrkräfte wohlüberlegte Entscheidungen zwischen direkter Instruktion und Programmen im Bereich verteilter Übung treffen müssen, statt für die optimale Kombination von beidem.*
 
@@ -132,7 +132,7 @@ updated: 2026-10-17
 > 探讨教育影响因素如何分属不同存在阶次，以及为何在单一有效性标尺上对不同范畴因素排定座次会彻底瓦解实践决策的合理性。
 
 > [!claim] [[Christof Wecker|Wecker, C.]], et al.
-> **德甲联赛隐喻与四大不可[[Commensuration|通约]]本体范畴** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的 138 个影响因素排行榜，犯了根本性的范畴错误。这 138 个因素跨越了四类基线完全不同的本体范畴：制度框架条件（如分流体制，属于宏观外部约束）、个体心理特征（如先验知识，对照基线为自然发育常模）、综合教学方案（如[[Direct Instruction|直接教学]]，持续一整学年，对照基线为常规传统讲授）、微观设计变体（如分布式练习或样例学习，持续 1.5 小时受控实验，对照基线为集中练习）。把这四类因素放在同一张像德甲联赛积分榜一样的排名表中，暗含了教师在实践中必须在直接教学与分布式练习之间做出非此即彼的单选；然而真实的专业教学决策恰恰在于如何寻找二者的最佳动态组合。此外，瞬时实验测得的微观[[Effect Size|效应量]]（如 1.5 小时样例学习测得 $d \approx 0.60$）在长达数月的真实教学中必然剧烈衰减，机械地将其与整年宏观方案同台对标，在方法学与[[Ontology|本体论]]上均不具备合法性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> **德甲联赛隐喻与四大不可[[Commensuration|通约]]本体范畴** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的 138 个影响因素排行榜，犯了根本性的范畴错误。这 138 个因素跨越了四类基线完全不同的本体范畴：制度框架条件（如分流体制，属于宏观外部约束）、个体心理特征（如先验知识，对照基线为自然发育常模）、综合教学方案（如[[Direct Instruction|直接教学]]，持续一整学年，对照基线为常规传统讲授）、微观设计变体（如分布式练习或样例学习，持续 1.5 小时受控实验，对照基线为集中练习）。把这四类因素放在同一张像德甲联赛积分榜一样的排名表中，暗含了教师在实践中必须在直接教学与分布式练习之间做出非此即彼的单选；然而真实的专业教学决策恰恰在于如何寻找二者的最佳动态组合。此外，瞬时实验测得的微观[[Effect Size|效应量]]在长达数月的真实教学中必然剧烈衰减，机械地将其与整年宏观方案同台对标，在方法学与[[Ontology|本体论]]上均不具备合法性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 ---
 
@@ -167,12 +167,16 @@ updated: 2026-10-17
 
 ## 争议与批评
 
-> [!tension] 核心张力
-> - **[[Pragmatic Paradigm|实用主义]]激进[[Commensuration|通约]]观（排名导航论）** 辩护者认为，尽管影响因素在性质上存在差异，但统一换算为标准差[[Effect Size|效应量]]能够为政策制定者与一线学校提供一目了然的“干预有效性罗盘”，具有极高的实用政策传播与警示价值。
-> - **[[Critical Realism|批判实在论]]与教学论审慎（范畴不可通约论）** 批判者坚决主张，消除范畴边界的粗暴数值排序制造了“数字精确性霸凌”；剥离情境、抹杀调节[[Variable|变量]]并破坏教学决策的组合互补性，不仅在科学上站不住脚，更对一线教学改进构成了误导性伤害。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> [!debates] 学术争议
+>
+> > [!axis] 激进通约实用罗盘与批判实在论范畴不可通约之争
+> > 争论跨范畴影响因素是否能统一换算为效应量排行榜以指导实践决策。
+> >
+> > - **实用主义激进通约观** 辩护者认为，尽管影响因素在性质上存在差异，但统一换算为标准差[[Effect Size|效应量]]能够为政策制定者与一线学校提供一目了然的“干预有效性罗盘”，具有极高的实用政策传播与警示价值。
+> > - **批判实在论立场** 批判者坚决主张，消除范畴边界的粗暴数值排序制造了“数字精确性霸凌”；剥离情境、抹杀调节[[Variable|变量]]并破坏教学决策的组合互补性，不仅在科学上站不住脚，更对一线教学改进构成了误导性伤害。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!warning] 适用局限
-> - **不否定同质本体范畴内部的因果比较** 范畴错误概念旨在否定跨越不同存在阶次、不同时间跨度与不同对照基准的强行并列，但并不排斥在同一本体范畴内部（例如在相同的学期跨度下比较不同[[Direct Instruction|直接教学]]变体与传统讲授）开展严格控制的[[Randomised Controlled Trials|随机对照实验]]与[[Meta-analysis|元分析]][[Causality|因果推断]]。
+> - **同质本体范畴内部的因果比较仍具合法性** 范畴错误概念旨在否定跨越不同存在阶次、不同时间跨度与不同对照基准的强行并列，但肯定在同一本体范畴内部（例如在相同的学期跨度下比较不同[[Direct Instruction|直接教学]]变体与传统讲授）开展严格控制的[[Randomised Controlled Trials|随机对照实验]]与[[Meta-analysis|元分析]][[Causality|因果推断]]。
 
 ---
 
@@ -195,3 +199,18 @@ updated: 2026-10-17
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统构建德甲联赛隐喻与四大教育本体范畴，从范畴错误与[[Incommensurability|不可通约性]]高度批判《[[Visible Learning|可见的学习]]》单一有效性排行榜。
 > - Ryle (1949) — 奠基性哲学著作《心的概念》，首创范畴错误理论，解构[[René Descartes|笛卡尔]]身心二元论实体化谬误。
 > - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的系统批判谱系，涵盖范畴错误、统计失范与可见性[[Disciplina and Doctrina|规训]]等六大批评维度。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Incommensurability]] | 概念 | 范畴错误在方法学上的核心体现，指基线与时长异质的干预指标无法通约。 |
+> | [[Commensuration]] | 概念 | 将性质迥异的教育要素折算为单一效应量数值尺度的量化操作过程。 |
+> | [[Visible Learning]] | 概念 | 建立跨范畴效应量排行榜并因此遭遇范畴错误严厉批判的代表性模型。 |
+> | [[Critiques of Visible Learning]] | 概念 | 梳理针对可见学习的方法学、统计学与范畴错误批判的综合条目。 |
+> | [[Critical Realism]] | 理论 | 强调实在的分层与多维机制、批判经验主义平面化还原的哲学理论。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 提出德甲联赛隐喻并系统揭示可见学习排行榜四大不可通约范畴的论文。 |
