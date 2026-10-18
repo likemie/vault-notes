@@ -10,10 +10,10 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/higher-education
   - theme/educational-governance
@@ -21,6 +21,7 @@ tags:
   - level/higher-ed
   - region/global
 related_concepts:
+  - "[[Critic and Conscience of Society]]"
   - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
@@ -39,15 +40,17 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Gerald Grace]]"
   - "[[Robert Arnove]]"
 related_facts:
   - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-18
 ---
 
 # New Managerialism
@@ -121,6 +124,9 @@ updated: 2026-10-08
 > [!claim] Marginson, S.
 > **商业逻辑对大学公共职能的侵蚀** 新管理主义将大学定位于全球高等教育市场中的商业竞争者，为了争夺生源、捐赠与世界排名，大学优先发展高回报的应用性与盈利性项目，边缘化批判性人文社会科学，削弱了大学作为社会良知与民主批评阵地的传统角色。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
+> [!claim] Grace, G.
+> **法定良知职能作为抵御新管理主义殖民的制度反制** [[Gerald Grace|格雷斯]]指出，新管理主义与财政部原教旨主义试图将大学重塑为自负盈亏的技术培训机构与行政绩效附庸。为抵御新管理主义对高等教育的意识形态殖民，新西兰学界推动将[[Critic and Conscience of Society|社会的批评者与良知]]写入《1989 年教育法》，以法定形式赋予大学向权力讲真话的独立制衡职责，构成了学术系统抵制管理主义渗透的关键制度防御。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
+
 ---
 
 ### 命题二　责任下放与自负盈亏机制掩盖了中央对关键绩效标准的集权规训
@@ -129,7 +135,7 @@ updated: 2026-10-08
 > 剖析新管理主义如何在“去中心化”、“扩大[[School Autonomy|学校自主权]]”的政策修辞下，实现更严密的远距离中央控制。
 
 > [!claim] Hartley, D.
-> **审计控制下的假性自主** 新管理主义在形式上将预算编制、日常人事与教学安排下放给基层学术单位或中小学校长，营造出高度分权自治的表象；但中央政府与管理高层通过牢牢掌控评估指标、认证标准与资金挂钩杠杆，实现了比传统[[Bureaucracy|官僚制]]更为苛刻的远距离行为控制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
+> **审计控制下的假性自主** 新管理主义在形式上将预算编制、日常人事与教学安排下放给基层学术单位或中小学校长，营造出高度分权自治的表象；但中央政府与管理高层通过牢牢掌控评估指标、认证标准与资金挂钩机制，实现了比传统[[Bureaucracy|官僚制]]更为苛刻的远距离行为控制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
 > [!claim] [[Robert Arnove|Arnove, R.]] F.
 > **新自由主义[[Governmentality|治理术]]的双重运作** 无论在高等教育还是中小学改革中，选择权、分权化与自负盈亏始终与标准化测试、问责制紧密绑定；中央国家通过卸下公共财政直接兜底责任，同时以最严厉的标准化考核评估各次级单位，实现了责任[[Externalization|外部化]]与控制集权化的统一。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
@@ -141,7 +147,7 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **学术劳动与专业自主侵蚀** | 揭示以商业指标为核心的审计文化对学者专业探索、批判意识与大学学术生态的负面冲击 | 大学内部治理改革、学术职业生存状态分析 | Deem, R.; Marginson, S.; Arnove, R. F. |
+> | **学术劳动与专业自主侵蚀** | 揭示以商业指标为核心的审计文化对学者专业探索、批判意识与大学学术生态的负面冲击 | 大学内部治理改革、学术职业生存状态分析 | Deem, R.; Marginson, S.; Arnove, R. F.; [[Argument_Grace_2010_NZJES\|Grace (2010)]] |
 > | **假性分权与远距离控制** | 阐明财务与运营责任下放背后，依托考核标准与绩效挂钩实现的隐性行政集权机制 | 公立大学准市场化、中小学校本管理与绩效问责体制 | Hartley, D.; Arnove, R. F. |
 
 ---
@@ -150,6 +156,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变
 > - **1980 年代 — [[New Public Management|新公共管理]]浪潮发轫** 英国撒切尔政府与美国里根政府推行新公共管理（New Public Management, NPM），主张引入私营企业管理手法削减公共赤字。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
+> - **1988–1989 — 新西兰将“社会的批评者与良知”立法定为反制机制** 面对财政部与新管理主义倡导者的市场化冲击，格雷斯提出大学必须承担面向公权力的批判良知使命；该原则被写入《1989 年教育法》，开创了以国家立法抗拒新管理主义意识形态殖民的先例。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1990 年代 — 全面渗透高等教育领域** 英美、澳新等国学者（如 Deem, Marginson）系统记录并批判管理主义进驻大学，揭示其对大学文化与学术劳动的解构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 115)]]
 > - **2000 年代至今 — 全球扩散与跨国排名驱动** 伴随全球化浪潮、跨国大学排行榜与[[International Education|国际教育]]服务贸易的激增，新管理主义演变为全球高等教育机构竞争与治理的标准配置。
 
@@ -170,3 +177,4 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 论证新自由主义全球化如何在微观上通过新管理主义重构高等教育运行逻辑，并与宏观世界体系的资本积累需求形成联动。
+> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯新西兰高教治理史，论述如何通过立法确立大学作为[[Critic and Conscience of Society|社会的批评者与良知]]，抵御新管理主义与财政依附对学术独立性的侵蚀。

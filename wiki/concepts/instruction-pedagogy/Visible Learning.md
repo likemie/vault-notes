@@ -5,9 +5,9 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 148
-related_level: 14
-related_stars: "💎💎💎💎⭐⭐"
+related_count: 151
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -294,7 +294,7 @@ updated: 2026-10-18
 > **剔除社会阶层[[Interaction Effect|调节效应]]制造“阶级盲”教学假象** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）深入考察哈蒂的[[Independent Variable|自变量]]设定指出，哈蒂虽然在元分析综合中汇总了家庭[[Socioeconomic Status|社会经济地位]]（SES）具有高达 $d=0.57$ 的极强效应量，却在后续建构以教师为中心的因果模型时，系统性地将 SES 剔除于调节变量之外。这种做法制造了一种将微观教学孤立于宏观社会结构的“阶级盲”（Class-blind）假象，诱导外界认为教师掌握教学技巧即可完全消除社会不平等。他们援引[[OECD|经济合作与发展组织]]（OECD）及斯努克（Snook）等学者的宏观证据强调，家庭阶层与生源背景在学生学业成就变异中占据主导地位（解释 70%–80% 方差），将社会结构的系统性不平等强行窄化为孤立的教师微观技术问题，不仅违背了教育社会学的基本实证共识，更在客观上掩盖了弱势群体面临的深层阶层壁垒。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 52–54)]]
 
 > [!claim] Grace, G.
-> **排除非学校因素的教育还原主义为政策推卸责任提供掩护** [[Gerald Grace|格雷斯]]（Grace, 2010）在 NZJES 论战中指出，哈蒂在《可见的学习》前言中承认校外社会与家庭因素可能比书中讨论的问题更为关键，却在实际建模中将其系统排除。这种做法制造了一种浅陋的教育还原主义，误导公众与政界认为仅靠学校内部教学改革即可解决既有的教育成就不平等；这种观点高度契合新自由主义政策制定者的利益，帮助其巧妙转移对消除贫困与深层社会经济不平等的治理责任。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
+> **排除非学校因素的教育还原主义为政策推卸责任提供掩护** [[Gerald Grace|格雷斯]]（[[Argument_Grace_2010_NZJES|Grace, 2010]]）在 NZJES 论战中指出，哈蒂在《可见的学习》前言中承认校外社会与家庭因素可能比书中讨论的问题更为关键，却在实际建模中将其系统排除。这种做法制造了一种浅陋的教育还原主义，误导公众与政界认为仅靠学校内部教学改革即可解决既有的教育成就不平等；这种观点高度契合新自由主义政策制定者的利益，帮助其巧妙转移对消除贫困与深层社会经济不平等的治理责任。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 
 ---
 

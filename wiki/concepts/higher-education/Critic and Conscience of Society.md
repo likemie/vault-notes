@@ -5,7 +5,7 @@ aliases:
 summary: "新西兰《教育法》确立的大学法定本质特征，由 Gerald Grace 于 1988 年提出并载入立法，要求大学基于严谨学术与实证研究向执政权力讲真话、发挥权力制衡功能，并将深层社会经济不平等与非学校因素纳入分析核心。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -83,7 +83,7 @@ updated: 2026-10-18
 > [!feature] 核心要素
 > - **法定制度特征（Statutory Mandate）** 确立为大学区别于一般培训机构与官僚科研所的法定本质特征，受高等教育立法与学术自由制度的刚性保护。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **权力制衡与讲真话（Speaking Truth to Power）** 在自由民主社会中承担制衡执政党派、国家行政力量与新管理主义渗透的独立功能，揭露公共政策背后的意识形态偏见。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
-> - **公正实证与学术严谨基石（Rigorous Scholarship as Foundation）** 批评权威源于系统、公正、经得起检验的学术与实证研究，防范蜕变为缺乏学理依据的党派政治站队。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
+> - **公正实证与学术严谨基石（Rigorous Scholarship as Foundation）** 批评权威源于系统、公正、经得起检验的学术与实证研究，防止滑向缺乏学理依据的党派政治站队。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
 > - **结构性非学校因素摄入（Obligation to Include Non-School Factors）** 在教育研究中，强制要求将阶级、贫困与经济不平等等非学校因素纳入学业成就分析，反映社会生活机会在文化与经济结构中的真实分布。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 
 > [!logic-map]- 要素逻辑关系
