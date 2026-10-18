@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Epistemic Community
@@ -75,7 +75,7 @@ updated: 2026-10-16
 > - **边界** 严格区别于纯粹追逐部门狭隘利益的官僚利益集团，亦区别于不具统一因果与规范信念的松散同行学术圈。
 
 > [!citation-card] 亨利等人论经合组织作为[[Boundary Spanner|知识中介者]]与政策行动者
-> 伴随其跨国量化数据网络与全球外联布局的完善，经合组织已彻底完成了自我蜕变——它不再仅仅是成员国交换意见的中立茶话会，而是一跃成为具有独立议程设置能力的跨国政策行动者与知识中介者（Henry et al., 2001）。通过汇聚由评测技术专家构成的跨国认知网络，该组织能够将特定经济意识形态转化为普遍信奉的全球政策常识。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 444)]]
+> 伴随其跨国量化数据网络与全球外联布局的完善，经合组织超越了早期仅供成员国交换意见的协调论坛功能，确立了具有独立议程设置能力的跨国政策行动者与知识中介者地位（Henry et al., 2001）。通过汇聚由评测技术专家构成的跨国认知网络，该组织能够将特定经济意识形态转化为普遍信奉的全球政策常识。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 444)]]
 >
 > *... [[PISA]] demonstrates the important role that OECD now plays as a policy actor and mediator of knowledge (Henry et al., 2001), with an increasing capacity to shape policy priorities in education not only among its member nations but others as well.*
 
@@ -103,7 +103,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **共享规范与原则性信念（Shared Principled Beliefs）** 共同体成员对所涉领域的价值取向拥有高度共识（如[[OECD|经合组织]]认知共同体坚信教育首要服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
 > - **共享因果信念模型（Shared Causal Beliefs）** 对政策问题成因与解决路径拥有共同的理论推导框架（如将[[Academic Achievement|学业成绩]]与[[Human Capital Theory|人力资本]]、[[Lifelong Learning|终身学习]]与经济繁荣直接挂钩）。
-> - **共享效度检验标准（Shared Notions of Validity）** 采用同一套评价何为“有效证据”的[[Epistemology|认识论]]规约（如排他性推崇大样本[[Random Sampling|随机抽样]]、[[Item Response Theory|项目反应理论]][[Item Analysis|试题分析]]与跨国量化[[Space of Equivalence|等值空间]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
+> - **共享效度检验标准（Shared Notions of Validity）** 采用同一套评价何为“有效证据”的[[Epistemology|认识论]]准则（如排他性推崇大样本[[Random Sampling|随机抽样]]、[[Item Response Theory|项目反应理论]][[Item Analysis|试题分析]]与跨国量化[[Space of Equivalence|等值空间]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **共同政策介入企图（Common Policy Enterprise）** 致力于将专业学术见解系统转化为政府决策细则与跨国行动指南。
 
 ---
@@ -179,3 +179,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 PISA 与 AHELO 试题研发早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。

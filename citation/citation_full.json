@@ -1767,42 +1767,6 @@
       "title": "Argument_Chinn_2011_EducPsychol",
       "year": "2011"
     },
-    "Clara Morgan & Riyad A. Shahjahan (2014)": {
-      "aliases": [
-        "Clara Morgan & Riyad A. Shahjahan, 2014",
-        "Clara Morgan & Riyad A. Shahjahan (2014)"
-      ],
-      "argument": "Argument_Morgan_Shahjahan_2014_CE",
-      "authors": [
-        "Clara Morgan",
-        "Riyad A. Shahjahan"
-      ],
-      "citation": "Morgan, C., & Shahjahan, R. A. (2014). The legitimation of OECD's global educational governance: examining PISA and AHELO test production. Comparative Education, 50(2), 192–205. https://doi.org/10.1080/03050068.2013.834559",
-      "doi": "10.1080/03050068.2013.834559",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md",
-      "source_language": "en",
-      "title": "Argument_Morgan_Shahjahan_2014_CE",
-      "year": "2014"
-    },
-    "Clara Morgan & Riyad A. Shahjahan, 2014": {
-      "aliases": [
-        "Clara Morgan & Riyad A. Shahjahan, 2014",
-        "Clara Morgan & Riyad A. Shahjahan (2014)"
-      ],
-      "argument": "Argument_Morgan_Shahjahan_2014_CE",
-      "authors": [
-        "Clara Morgan",
-        "Riyad A. Shahjahan"
-      ],
-      "citation": "Morgan, C., & Shahjahan, R. A. (2014). The legitimation of OECD's global educational governance: examining PISA and AHELO test production. Comparative Education, 50(2), 192–205. https://doi.org/10.1080/03050068.2013.834559",
-      "doi": "10.1080/03050068.2013.834559",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md",
-      "source_language": "en",
-      "title": "Argument_Morgan_Shahjahan_2014_CE",
-      "year": "2014"
-    },
     "Cohen et al. (2011)": {
       "aliases": [
         "Cohen et al., 2011",
@@ -6260,6 +6224,42 @@
       "source_language": "en",
       "title": "Argument_Moisio_2022_Springer",
       "year": "2022"
+    },
+    "Morgan & Shahjahan (2014)": {
+      "aliases": [
+        "Morgan & Shahjahan, 2014",
+        "Morgan & Shahjahan (2014)"
+      ],
+      "argument": "Argument_Morgan_Shahjahan_2014_CE",
+      "authors": [
+        "Morgan, C.",
+        "Shahjahan, R. A."
+      ],
+      "citation": "Morgan, C., & Shahjahan, R. A. (2014). The legitimation of OECD's global educational governance: examining PISA and AHELO test production. Comparative Education, 50(2), 192–205. https://doi.org/10.1080/03050068.2013.834559",
+      "doi": "10.1080/03050068.2013.834559",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md",
+      "source_language": "en",
+      "title": "Argument_Morgan_Shahjahan_2014_CE",
+      "year": "2014"
+    },
+    "Morgan & Shahjahan, 2014": {
+      "aliases": [
+        "Morgan & Shahjahan, 2014",
+        "Morgan & Shahjahan (2014)"
+      ],
+      "argument": "Argument_Morgan_Shahjahan_2014_CE",
+      "authors": [
+        "Morgan, C.",
+        "Shahjahan, R. A."
+      ],
+      "citation": "Morgan, C., & Shahjahan, R. A. (2014). The legitimation of OECD's global educational governance: examining PISA and AHELO test production. Comparative Education, 50(2), 192–205. https://doi.org/10.1080/03050068.2013.834559",
+      "doi": "10.1080/03050068.2013.834559",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md",
+      "source_language": "en",
+      "title": "Argument_Morgan_Shahjahan_2014_CE",
+      "year": "2014"
     },
     "Mowery (2011)": {
       "aliases": [
