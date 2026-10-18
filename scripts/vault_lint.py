@@ -2914,6 +2914,7 @@ def check_journal_naming(path: Path, data: Dict[str, Any], issues: List[Issue]) 
 ACADEMIC_BUZZWORDS = (
     "跃迁", "闭环", "沉淀", "托举", "内核", "跃升", "底座", "破局", "颗粒度",
     "耦合", "统摄", "统合", "链路", "蜕变", "坍塌", "杠杆", "闭合",
+    "靶向", "解耦", "归约", "收敛", "规约",
 )
 NEGATIVE_CONTRAST_MARKERS = ("不是", "并非", "绝非", "不在于", "而是", "而在于")
 WRITING_REMINDER_CODES = {"ACADEMIC_BUZZWORD", "ACADEMIC_NEGATIVE_CONTRAST"}

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
-    },
-    {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
       "basename": "Argument_Larsen_2019_EducSci",
       "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Academic Achievement",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
-    },
-    {
-      "basename": "Argument_Castro_2009_MultilateralBanks",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,6 @@
 title: Mind Mapping
 aliases:
   - 思维导图
-  - 心智图
   - 脑图
   - Mind Map
   - Mind Maps
