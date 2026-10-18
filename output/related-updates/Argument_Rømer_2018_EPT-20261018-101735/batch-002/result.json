@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "path": "wiki/concepts/educational-philosophy/Epistemology.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 2, 11)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "仅提及，未实质讨论。原文（p. 11）仅在阐述哈蒂对波普尔三世界理论的误用时使用 'epistemological reason' 与 'epistemological point of view'，指称哲学实在论与激进建构主义这两种认识论传统的对立冲突；其具体的哲学概念审查集中于波普尔客观实在论（世界三）与激进建构主义/独我论（世界二）的范畴倒置，未对《认识论》这一宏观哲学母概念本身提供新的理论界定、体系重构或实证证据。该实质内容属于后续批次中的具体条目（如 [[Radical Constructivism]]、[[Popper's Three Worlds Theory]]），在宏观母条目中保持不变。",
+      "rewrites": ""
+    },
+    {
+      "path": "wiki/concepts/research-methodology/Dependent Variable.md",
+      "action": "supplement",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 6–7)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "原文（Rømer, 2018, pp. 6–7）专设第二部分“因变量的效度问题”深入剖析大规模量化评价综合中因变量的效度危机与因果倒置：指出将成就测验、学习产出与复杂学习构念笼统混并导致因变量实体效度模糊，以及评价导向的因变量反向界定自变量（教学被定义为任何提高 d 值手段）颠覆因果研究单向逻辑。据此为条目补充引文卡片、命题一（构念效度与因果单向性）、学术争议及相关研究索引。",
+      "rewrites": "新增 [!citation-card] 罗默论评价综合中因变量的效度困境与因果反向规训；补充 ## 围绕概念形成的命题 及命题一（涵盖 Cohen et al. 与 Rømer）；补充 ## 争议与批评（单一量化指标便利性 vs 复杂构念效度；单向因果界定 vs 评价驱动反向定义）；在 ## 相关研究 中补充 Argument_Rømer_2018_EPT 索引条目；微调概念透镜与有效指标表述以符合学术语态规则。"
+    },
+    {
+      "path": "wiki/concepts/educational-philosophy/Didaktik.md",
+      "action": "supplement",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 2–3, 7, 12)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "原文（Rømer, 2018, pp. 2–3, 7）立足欧陆教学论（Didaktik）与教化（Bildung）传统，指出可见学习放逐了教学论核心范畴（世界、启迪、权威与学科实质），将师生与文化中介的三元互动退化为学生孤立的主观认知建构，导致教学三角形（教师–学生–内容）彻底解体并沦为简陋评价图式。在条目“命题类型一：课程内容选择的教化正当性”中补充罗默观点，更新命题归纳表格，并在“相关研究”中增补 Argument_Rømer_2018_EPT 索引条目。",
+      "rewrites": "在 ## 围绕概念形成的命题 中新增罗默关于评价图式对教学论传统的遮蔽与教学三角形解体的理论断言；在命题归纳表中补充罗默代表学者标记；在 ## 相关研究 中补充 Argument_Rømer_2018_EPT 索引条目。"
+    }
+  ],
+  "new_exceptions": [],
+  "unresolved": []
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+      "action": "supplement",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 1–13)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "原文（Rømer, 2018）对 Visible Learning 展开系统性教育哲学与教学论审查，指出其屈从于简陋评价理论（纯粹评价）的本质，并在反馈定义中混淆目的与手段犯下范畴错误，以及混淆波普尔实在论与激进建构主义的认识论自相矛盾。鉴于本条目遵循模块化分流指引（详细学理批判系统分流至专门子条目 Critiques of Visible Learning，上轮已重构），在母条目概念演变（2018）、外部学术批评导览与相关研究索引中补充关键学术批判节点与索引链接，完善历史脉络。",
+      "rewrites": "在 ## 概念演变 中新增 2018 年罗默（Rømer, 2018）教育哲学与教学论审查节点；在 [!critique] 外部学术批评导览 中新增教育哲学与纯粹评价解构要点；在 ## 相关研究索引 中补充 Argument_Rømer_2018_EPT 索引条目。"
+    },
+    {
+      "path": "wiki/concepts/educational-leadership-administration/School Leadership.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 2, 5, 10, 13)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "仅提及，未实质讨论。原文在引言（p. 2）中仅援引 Eacott (2017) 提及可见学习在澳大利亚学校领导领域的广泛传播，并在论述数据科层流动（p. 5, p. 10）时顺带提到校长向教师索取 d 分数，未对学校领导力构念展开实质性理论界定、机制论证或实证研究。已有条目已包含 Eacott (2017) 关于数据规训悲剧的论述，无需且不宜基于此顺带提及更新条目。",
+      "rewrites": ""
+    },
+    {
+      "path": "wiki/concepts/educational-psychology/Epistemic Stances.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (p. 11)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "误链。原文（p. 11）使用的词汇为 'epistemological reason' 与 'epistemological point of view'，实质讨论的是哲学实在论与激进建构主义这两种宏观认识论（Epistemology）假设与世界观分歧；而目标条目《Epistemic Stances》是学习科学与认识论认知中的具体心理构念（Chinn et al., 2011; Wu et al., 2025），特指个体对具体知识命题或人机交互中采取的差异化承诺姿态（如绝对论、多元论、评价论、工作假设）。Argument 中将哲学认识论观点误链至该心理构念。后续建议在 Argument 中将该处链接修正指向 [[Epistemology]]。跳过本条目更新。",
+      "rewrites": ""
+    }
+  ],
+  "new_exceptions": [],
+  "unresolved": []
+}

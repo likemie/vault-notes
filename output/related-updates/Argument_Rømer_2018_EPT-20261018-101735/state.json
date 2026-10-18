@@ -7,7 +7,7 @@
   "batches": [
     {
       "number": 1,
-      "status": "blocked",
+      "status": "done",
       "entries": [
         {
           "title": "Visible Learning",
@@ -52,11 +52,11 @@
         }
       ],
       "started": "2026-10-18T02:18:15.371697+00:00",
-      "error": "Codex 返回 1；见 /Users/shaoyangwu/Documents/MyNotes/output/related-updates/Argument_Rømer_2018_EPT-20261018-101735/batch-001/execution.log"
+      "finished": "2026-10-18T02:22:41.661028+00:00"
     },
     {
       "number": 2,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Epistemology",
@@ -104,11 +104,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:27:25.464639+00:00"
     },
     {
       "number": 3,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Category Mistake",
@@ -157,7 +158,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:29:33.217746+00:00"
     },
     {
       "number": 4,

@@ -355,6 +355,7 @@ updated: 2026-10-18
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 以及[[Danish Public School Reform|丹麦公立学校改革]]等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2017 — 数理统计审计与伪科学纸牌屋定性** 加拿大统计学家伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）在《麦吉尔教育学刊》发表系统审查，通过受控模拟证实三类合法公式对同一数据得出完全相反排名，揭示普通语言效应量负概率与相关换算数学爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差），确立教育研究全流程必须引入独立专业统计咨询。
+> - **2018 — 教育哲学与教学论审查：纯粹评价与认识论范畴错误** 丹麦学者罗默（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）在《教育哲学与理论》（EPT）发表哲学批判，将可见学习定性为教育与教学完全屈从于简陋评价图式（纯粹评价）的产物；通过对反馈概念的哲学分析，论证哈蒂将教学反馈窄化为“缩小当前状态与目标差距”在逻辑上混淆了目的、手段与评估，构成范畴错误；并揭示哈蒂试图依托波普尔世界三理论确立客观证据基础，实质理论建构却滑向激进建构主义与独我论，形成认识论自相矛盾。
 > - **2019 — 变差系数统计检验与本土制度陷阱警告** 俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）首次使用变差系数（$V_\sigma = 56.87\%$）对 Hattie 效应量模型进行数理同质性检验，实证证实其数据集极端不均且缺乏质控，并结合俄教师生存困境（79% 受困于报表、仅 16% 职业声望）警示西方[[Policy Borrowing|政策借用]]可能引发的去专业化危机与制度陷阱。
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
@@ -396,6 +397,7 @@ updated: 2026-10-18
 > - **方法学与社会结构首发批判** 斯努克等人指出[[Meta-meta-analysis|二阶元分析]]缺乏底层质控、阿司匹林反例[[Falsification|证伪]] 0.40 截断值、排除 70%–80% 生源方差，以及政策制定者对班级规模与[[Performance Pay|绩效工资]]的误用。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]
 > - **欧陆教学论与[[Epistemology|认识论]]双重困境解构** 特哈特指出其形式化学习模型抽空了学科教化实质、双向可见性潜藏福柯式全景规训，并提出二阶综合同时陷入常识渐近逼近（[[Stability vs. Variability Dilemma|稳定性假说]]）与旧结论滞后颠覆（变异性假说）的修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **数学公理与计量程序规范** 韦克尔等人推导六项[[Meta-meta-analysis|二级元分析]]操作规程，实证揭示模型同质性假设破产与数据计算严重失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
+> - **教育哲学与纯粹评价解构** 罗默（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）指出可见学习实质是教育屈从于简陋评价理论的产物，揭露其将反馈窄化为缩小差距的范畴错误，以及混淆波普尔实在论与激进建构主义的认识论自相矛盾。
 > - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **[[Technical Rationality|技术理性]]与思想史理论溯源** 尼尔森与克利特默勒从舍恩技术理性[[Paradigm|范式]]解构哈蒂的[[Behaviorism|行为主义]]学理渊源，实证指出其剔除 [[Socioeconomic Status|SES]] 制造阶级盲、自认 0.40 门槛属于叙事故事造成学段一刀切误导，并揭露核心反馈元分析掩盖 38% 负效应与[[Construct|构念]]拼贴缺陷。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
@@ -484,6 +486,7 @@ updated: 2026-10-18
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 开展[[Preregistration|预注册]]全库[[Metascience|元科学]]审计，实证揭示 VL 体系仅 19% 满足 [[PICO Framework|PICO]] 标准且仅 2 项可复现数据提取，为学界彻底终结该体系的政策依赖提供了实证定论。
 > - [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] — 运用[[Cargo Cult Science|货物崇拜科学]]、劳动过程监控与政治经济学批判框架，系统解构 VL 的简单算术平均算法缺陷、对[[Class Size|班级规模]][[Meta-analysis|元分析]]的失真提取以及兼任商业咨询机构董事的高额版税收益链条。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 运用精确变差系数（$V_\sigma = 56.87\%$）对 Hattie [[Effect Size|效应量]]数据集进行数学同质性检验，实证证实其严重离散不均；结合全俄教师面临 79% 报表重压与去专业化现实，全面评估了 VL 对俄罗斯教育政策的不可适用性。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与教学论视角展开概念审查，指出可见学习是教学屈从于简陋评价理论的产物，揭示反馈概念界定中的范畴错误及挪用波普尔世界三理论时产生的认识论自相矛盾。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] — 结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]与舍恩[[Technical Rationality|技术理性]]理论，实证剖析丹麦 2014 年教育改革，揭示 VL 的流行实质在于满足了国家行政管理的技术控制与自我证成需求。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 思想史考证证实其[[Behaviorism|行为主义]]与技术理性的学理渊源，揭露剔除 [[Socioeconomic Status|SES]] 的阶级盲偏见与 0.40 修辞门槛导致的学段误判，并通过对覆盖 92% 样本的 5 大反馈元分析文献学细读揭示底层[[Construct|构念]]错位。
 

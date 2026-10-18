@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "path": "wiki/concepts/educational-philosophy/Category Mistake.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 1–13)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "误链。原文（Rømer, 2018）全篇并未使用日常语言哲学中吉尔伯特·赖尔（Gilbert Ryle）或克里斯托夫·韦克尔（Christof Wecker, 德甲联赛隐喻）所界定的专业构念 'Category Mistake' / 'Category Error'；原文的核心论点是可见学习属于'用简陋评价理论取代/否认教育本身'（a theory of evaluation that denies education as such）。Argument 中使用'概念范畴错误'作为中文修辞性概括，被误链至专业哲学条目 [[Category Mistake]]。建议后续在 Argument 中将普通用词解除链接或改为纯文本表述。跳过本条目更新。",
+      "rewrites": ""
+    },
+    {
+      "path": "wiki/concepts/educational-philosophy/Bildung.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 3, 5, 8, 12)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "仅提及，未实质讨论。原文（pp. 3, 5, 8）将教化（Bildung）作为欧陆经典教育学传统的参照系，指出可见学习中缺失了教化等核心构念，并明确注明该批评引自特哈特（Terhart, 2011/2012）；原文未对教化本身的理论内涵、机制或演进提供新的实质性建构。已有条目已充分吸收特哈特的论述，故本条目保持不变。",
+      "rewrites": ""
+    },
+    {
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "sources/Romer_2018_EPT.pdf (pp. 2–5, 10)",
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+      ],
+      "reason": "未实质讨论。原文（Rømer, 2018）的核心理论建构是批判可见学习将教育完全屈从于简陋的'评价理论'（a theory of evaluation that denies education as such / 纯粹评价），全文并未引用唐纳德·舍恩（Donald Schön）的技术理性概念，亦未实质探讨技术理性理论本身。Argument 中在表格内将'技术理性与纯粹评价'并置，其实质学理贡献属于专门条目 [[Pure Evaluation]]（将在第 4 批处理）。已有技术理性条目已收录 Nielsen & Klitmøller (2021a, 2021b) 关于可见学习技术理性的专门论述，本篇论文不构成对技术理性条目的新增实质讨论，保持不变。",
+      "rewrites": ""
+    }
+  ],
+  "new_exceptions": [],
+  "unresolved": []
+}
