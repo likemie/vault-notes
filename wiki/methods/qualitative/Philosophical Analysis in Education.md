@@ -153,6 +153,7 @@ updated: 2026-10-18
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出认识论、存在论与实践论三重缺陷框架，示范对证据本位教育的经典哲学分析。
+> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 通过概念与法理分析界定学者作为社会批评者与良知的法定角色，批判排除非学校因素的教育还原主义。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展概念与哲学审视，建立五线批评揭示评价理论、建构主义教学论与认识论化简的前提缺陷。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 通过概念史、[[Phenomenology|现象学]]与 [[Bildung]]/[[Didaktik]] 传统，澄清芬兰现象式教学的哲学根源。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 运用教育哲学概念分析，建构“[[Formative Epistemic Injustice|成长性认识不正义]]”的三重检验判据并推导防御性教学规程。

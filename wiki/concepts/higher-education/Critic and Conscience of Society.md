@@ -31,43 +31,43 @@ related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
-confidence: low
-status: draft
+confidence: medium
+status: completed
 created: '2026-05-07'
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 ## 定义
 
 > [!info] 定义
-> "Critic and Conscience of Society"（社会的批评者与良知）是新西兰高等教育立法中定义大学本质特征的一个概念。该短语由 [[Gerald Grace]] 于 1988 年提出，后被纳入 Gary Hawke 的《Learning for Life》报告（1989 年 2 月），并最终写入新西兰法律，成为大学的法定特征之一([[Argument_Grace_2010_NZJES\|Grace, 2010, p.89–90]])。
+> "Critic and Conscience of Society"（社会的批评者与良知）是新西兰高等教育立法中定义大学本质特征的一个概念。该短语由 [[Gerald Grace]] 于 1988 年提出，后被纳入 Gary Hawke 主持的 [[Learning for Life Report|《Learning for Life》报告]]（1989 年 2 月），并最终写入新西兰法律，成为大学的法定特征之一([[Argument_Grace_2010_NZJES|Grace, 2010, pp. 89–90]])。
 >
-> Grace 提出这一概念的核心意图是强调：在自由民主社会中，大学承担着对执政政治党派和意识形态的"权力制衡角色"（balance of power role），有责任"向权力说真话"（speak truth to power），而这种"真话"必须建立在系统性和公正的分析、学术与实证研究之上([[Argument_Grace_2010_NZJES\|Grace, 2010, p.89]])。Grace 的关切在于当时已有证据表明（尤其 1980 年代的英国）大学正因越来越依赖政府资金和研究经费而面临丧失这一角色的危险——换句话说，大学正在被强大的政治和意识形态利益所"殖民"([[Argument_Grace_2010_NZJES\|Grace, 2010, p.90]])。
+> Grace 提出这一概念的核心意图是强调：在自由民主社会中，大学承担着对执政政治党派和意识形态的"权力制衡角色"（balance of power role），有责任"向权力说真话"（speak truth to power），而这种"真话"必须建立在系统性和公正的分析、学术与实证研究之上([[Argument_Grace_2010_NZJES|Grace, 2010, p. 89]])。Grace 的关切在于当时已有证据表明（尤其 1980 年代的英国）大学正因越来越依赖政府资金和研究经费而面临丧失这一角色的危险——换句话说，大学正在被强大的政治和意识形态利益所"殖民"([[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]])。
 
 ## 与其他学术角色的区别
 
 > [!example] 与其他学术角色的区别
-> [[Argument_Grace_2010_NZJES\|Grace (2010, p.90)]]明确区分了两种不同的学术角色：
+> [[Argument_Grace_2010_NZJES|Grace (2010, p. 90)]] 明确区分了两种不同的学术角色：
 >
-> - **学术领域的批评者（critic of the quality of research in an academic [[Champ\|field]]）** 在学科内部对研究质量和假设进行技术性批判——这是教授们正常的"技术性和批判性学术工作"，关注的是教育系统内部的事务（如评估、教学、学习质量）
+> - **学术领域的批评者（critic of the quality of research in an academic [[Champ|field]]）** 在学科内部对研究质量和假设进行技术性批判——这是教授们正常的"技术性和批判性学术工作"，关注的是教育系统内部的事务（如评估、教学、学习质量）
 > - **社会的批评者与良知（critic and conscience of society）** 必须将非学校因素（non-school factors）纳入所有关于教育成就差异的分析——因为这些因素"代表社会"，包括儿童和年轻人的生命机会（life chances）在文化和经济社会条件中的结构性分布
 >
-> Grace 指出，如果学术人选择了"critic and conscience of society"的角色，就无法合理地说出 Hattie 曾经说过的话："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 [[Argument_Grace_2010_NZJES\|Grace, 2010, p.90–91]]）。
+> Grace 指出，若学者选择承担“社会的批评者与良知”角色，便无法合理解释 Hattie 的回避立场：后者承认非学校因素“实际上可能比书中讨论的许多问题更重要”，却以“未将这些主题纳入自身轨道”为由将其排除在外（Hattie, 2009, pp. viii–xi；引自 [[Argument_Grace_2010_NZJES|Grace, 2010, pp. 90–91]]）。
 >
-> 这种"还原主义和天真的观点"——认为仅靠改变教育安排就能解决现有的教育成就不平等——对政治家和政策制定者来说非常方便，因为它转移了对更根本的社会和经济不平等问题的关注([[Argument_Grace_2010_NZJES\|Grace, 2010, p.91]])。
+> 这种认为仅靠改变教育安排就能解决现存教育成就不平等的还原主义观点，对政策制定者而言具有极高便利性，成功转移了对深层社会经济不平等治理责任的关注([[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]])。
 
 ## 典范案例
 
 > [!example] 典范案例
-> [[Argument_Grace_2010_NZJES\|Grace (2010, p.91)]]举出两位学者作为真正履行"critic and conscience of society"角色的典范：
+> [[Argument_Grace_2010_NZJES|Grace (2010, p. 91)]] 举出两位学者作为真正履行"critic and conscience of society"角色的典范：
 >
-> - **[[Basil Bernstein]]**（1970）：在经典论文 *Education Cannot Compensate for Society* 中指出，教学和学习的改善只能做到有限程度——没有严肃的外部结构性和经济改革，学校无法自行创造教育机会的平等。Bernstein 向政治家、政策制定者和"社会"阐明非学校因素的关键重要性
-> - **[[Roy Nash]]**（2003）：在 *Social Class and Education in New Zealand* 中对教育成就差异的精湛分析始终渗透着对非学校因素的清晰意识——这些因素对于理解问题和形成现实的政策倡议至关重要
+> - **[[Basil Bernstein]]（1970）** 在经典论文 *Education Cannot Compensate for Society* 中指出，教学和学习的改善只能做到有限程度——没有严肃的外部结构性和经济改革，学校无法自行创造教育机会的平等。Bernstein 向政治家、政策制定者和"社会"阐明非学校因素的关键重要性
+> - **[[Roy Nash]]（2003）** 在 *Social Class and Education in New Zealand* 中对教育成就差异的精湛分析始终渗透着对非学校因素的清晰意识——这些因素对于理解问题和形成现实的政策倡议至关重要
 
 ## 在 Hattie and Grace 辩论中的应用
 
 > [!success] 在 Hattie and Grace 辩论中的应用
-> [[Argument_Grace_2010_NZJES\|Grace (2010)]]认为 [[John Hattie]] 在 *[[Visible Learning]]* 和其 2010 年 NZJES 文章中所扮演的角色不是"critic and conscience of society"，而是"学术领域的批评者"——Hattie 对评估、教学和学习领域中其他学者的研究质量与假设提出了批评，这是"教育教授们正常的学术工作"([[Argument_Grace_2010_NZJES\|Grace, 2010, p.90]])。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己是"critic and conscience of society"([[Argument_Grace_2010_NZJES\|Grace, 2010, p.91]])。
+> [[Argument_Grace_2010_NZJES|Grace (2010, p. 90)]] 认为 [[John Hattie]] 在 *[[Visible Learning]]* 与其 2010 年争鸣文章中所扮演的实际角色属于“学术领域的批评者”，有别于“社会的批评者与良知”。Hattie 集中检视评估、教学和学习领域既有研究的质量与假设，体现的是教育学教授常规的技术性与批判性学术工作。Grace 呼吁 Hattie 撰写续作系统考察非学校因素对学业成就的制约，以此确立作为社会良知学者的正当性([[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]])。
 
 
 > [!success] [[Argument_Hattie_2017_SLM\|Hattie (2017)]] 在回应 Eacott 时再度援引该概念
