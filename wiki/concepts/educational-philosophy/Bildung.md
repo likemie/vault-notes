@@ -7,7 +7,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 70
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -94,10 +94,11 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cowen_2023_CE]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Bildung
@@ -231,6 +232,9 @@ updated: 2026-10-18
 > [!claim] Jornitz, S. & Klinge, D.
 > **三维关系结构对数字化算法治理的批判** 高等教育数字化转型往往将知识降维为模块化技能包，割裂了个体与自身、他者及世界的有机连接；教化的三维关系框架为揭示数字化技术如何侵蚀师生深度对话与公共精神提供了核心批判依据。[[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, p. 246)]]
 
+> [!claim] Knudsen, H.
+> **北欧民主教养传统对英美证据主义特许规训的本土抵抗** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）指出，当《[[Visible Learning|可见的学习]]》商业项目试图通过标准化脚本与逐字技术控制向北欧扩散时，在丹麦斯坎讷堡自治市（Skanderborg）等地方学校遭遇广泛抵制与退出风波。丹麦教育根植于格隆维（Grundtvig）倡导的民主全人教化传统，坚信师生主体间的意义协商、全人自我生成与专业自治；面对外部特许机构排斥教师个人叙事与课堂经验的工业化流水线规训，丹麦学界与实践者依托教化传统筑牢文化防线，迫使哈蒂在话语层面退守至“知晓你的影响”，暴露出盎格鲁-撒克逊证据主义效率模型与欧陆教化传统的深层制度冲突。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–256)]]
+
 ---
 
 ### 命题三　全人教化传统构成抵御工业化技术理性异化与捍卫以人为本比较研究的本体防线
@@ -334,5 +338,6 @@ updated: 2026-10-18
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从[[Didaktik|欧陆教学论]]与教化传统批判《[[Visible Learning|可见的学习]]》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 考察《可见的学习》商业项目在北欧的落地冲突，揭示丹麦格隆维全人教化与民主自治传统对特许专营与逐字脚本规训的本土抵抗。
 
 

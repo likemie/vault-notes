@@ -175,7 +175,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Visible Learning
@@ -496,4 +496,5 @@ updated: 2026-10-18
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] — 结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]与舍恩[[Technical Rationality|技术理性]]理论，实证剖析丹麦 2014 年教育改革，揭示 VL 的流行实质在于满足了国家行政管理的技术控制与自我证成需求。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 思想史考证证实其[[Behaviorism|行为主义]]与技术理性的学理渊源，揭露剔除 [[Socioeconomic Status|SES]] 的阶级盲偏见与 0.40 修辞门槛导致的学段误判，并通过对覆盖 92% 样本的 5 大反馈元分析文献学细读揭示底层[[Construct|构念]]错位。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 针对 NZJES 首发论战发表批判，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，揭露排除非学校因素的教育还原主义为政策推卸阶级不平等责任提供掩护。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 借助科学技术研究（STS）考察 VL 的跨国商业特许专营与脚本化实施规程，揭示客观语音转录打破教师 80% 课堂盲区、10 至 12 周大周期成功标准与表层至深层认知进阶，直击哈蒂自称统计测量者与实质推行强固教学模型之间的身份张力。
 

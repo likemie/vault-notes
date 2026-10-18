@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Surface and Deep Learning
@@ -166,6 +166,9 @@ updated: 2026-10-18
 
 > [!claim] McPhail et al.
 > **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model\|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to\|知其然]]与[[Knowledge-that and Know-how-to\|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与实践之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
+
+> [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
+> **认知复杂性进阶与高阶探究前置失效** 依据可观察学习结果结构（SOLO）认知模型，从表层事实掌握到深层整合与跨情境迁移具有不可颠倒的上升阶梯；全球约 90% 宣称推行基于问题的学习（PBL）的学校在学生尚未夯实表层概念基础时即盲目引入自主探究，正是导致高阶探究在元分析中效应量低下的根源。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 ---
 
@@ -305,5 +308,6 @@ updated: 2026-10-18
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出抽象的学习结果会掩盖表层、深层与概念理解的测量差异，并提出动态知识层次作为修正。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 从教育哲学角度批评 Hattie 对学习层次和波普尔三个世界的映射，揭示概念扩展中的理论风险。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 把深层学习转化为[[Knowledge-that and Know-how-to\|知其然]]与知其所用之间可展示、可阐述的连接，并用于诊断课程知识组织的连贯性。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 依据 SOLO 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
 
 ---
