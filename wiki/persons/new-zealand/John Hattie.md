@@ -183,7 +183,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 # John Hattie
 
@@ -230,7 +230,7 @@ updated: 2026-10-18
 >
 > - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；[[Danish Public School Reform|丹麦公立学校改革]]引发《可见的学习》本土化激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 >
-> - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；接受丹麦学者克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）跨国质询，坦承自居统计测量人员以规避理论审查的说辞，明确指出“理论主导并统治证据解释”，揭示其每年为特许运营商 Cognition Education 提供 30 天差旅以换取 23 国数万名一线师生实践数据独家分析权的商业反哺治理机制，并以班级规模决定论作为可见学习模型的波普尔式证伪判据；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的[[Preregistration|预注册]]全量[[Metascience|元科学]]审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足[[Research Question|研究问题]]纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 

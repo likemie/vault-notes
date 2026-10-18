@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Question",
-      "path": "wiki/concepts/research-methodology/Research Question.md"
-    },
-    {
       "basename": "Argument_Knudsen_2017_NordSTEP",
       "path": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md"
+    },
+    {
+      "basename": "Karl Popper",
+      "path": "wiki/persons/uk/Karl Popper.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
+      "basename": "Research Question",
+      "path": "wiki/concepts/research-methodology/Research Question.md"
     },
     {
       "basename": "Critiques of Visible Learning",
@@ -19,10 +27,6 @@
     {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     },
     {
       "basename": "Reflexivity",
@@ -195,10 +199,6 @@
     {
       "basename": "Effective Teaching",
       "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
     }
   ],
   "omittedPaths": [],

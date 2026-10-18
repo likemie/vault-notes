@@ -7,7 +7,7 @@ aliases:
 summary: "个体理解自己与他人拥有独立心理状态（目标、欲望、信念）且信念可能偏离客观现实（错误信念）的发展心理学理论，构成早期认识论认知、信源选择性信任与主动学习观念建构的核心前置基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 10
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -89,11 +89,11 @@ updated: 2026-10-19
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
-> | **心理状态归因**<br>Attribution of Mental States | 核心概念 | 界定个体将他人行为解释为内在信念、欲望、知识与意图产物的心理化机制。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 466)]] |
-> | **错误信念理解**<br>False Belief Understanding | 核心机制 | 识别他人信念与客观现实不符的能力，标志着主观心理表征与客观物理现实的有效区分。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 466)]] |
-> | **去中心化视角**<br>Decentering of Perspective | 发展机制 | 摆脱自我中心主观主义（[[Subjectivism]]），认知到他人视角的独立性与多元性。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 466)]] |
-> | **选择性信任**<br>Selective Trust | 行为构件 | 幼儿依据信息提供者过往准确度记录决定是否采信社会证言的早期信源评价机制。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 467)]] |
-> | **主动学习观念**<br>Active Learning Concept | 教学应用机制 | 早期儿童依托对他人意向与因果关联的探究本能，建构自我作为学习主导者的认知框架。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 257)]] |
+> | **心理状态归因**<br>Attribution of Mental States | 核心概念 | 界定个体将他人行为解释为内在信念、欲望、知识与意图产物的心理化机制。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 466)]] |
+> | **错误信念理解**<br>False Belief Understanding | 核心机制 | 识别他人信念与客观现实不符的能力，标志着主观心理表征与客观物理现实的有效区分。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 466)]] |
+> | **去中心化视角**<br>Decentering of Perspective | 发展机制 | 摆脱自我中心主观主义（[[Subjectivism]]），认知到他人视角的独立性与多元性。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 466)]] |
+> | **选择性信任**<br>Selective Trust | 行为构件 | 幼儿依据信息提供者过往准确度记录决定是否采信社会证言的早期信源评价机制。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 467)]] |
+> | **主动学习观念**<br>Active Learning Concept | 教学应用机制 | 早期儿童依托对他人意向与因果关联的探究本能，建构自我作为学习主导者的认知框架。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 257)]] |
 
 > [!boundary]- 概念边界
 > - **不等于认识论认知（[[Epistemic Cognition]]）** 心智理论关注个体对心理状态“存在”的觉察与归因；认识论认知进一步关注这些心理状态（知识主张）如何被“确证”（Justified）的反思与规范评价。心智理论是认识论认知发育的必要非充分前置基础。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 466)]]

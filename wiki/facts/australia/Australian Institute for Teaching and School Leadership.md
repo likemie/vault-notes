@@ -2,18 +2,21 @@
 title: Australian Institute for Teaching and School Leadership
 aliases:
   - 澳大利亚教学与学校领导力协会
+  - 澳大利亚教学与学校领导力研究院
   - AITSL
-summary: "澳大利亚联邦政府设立的全国性教师专业机构，成立于2011年。负责制定全国教师专业标准及初始教师教育（ITE）项目的认证程序。在2023年《强劲开端》改革中，其职权被大幅扩张，受托将“大脑与学习”等标准化核心内容强制嵌入国家认证大纲，成为推行绩效问责与监视治理的关键治理节点。"
+summary: "澳大利亚联邦政府设立的全国性公立专业机构，负责制定全国教师与校长专业标准及初始教师教育（ITE）认证规程；在循证教育治理中推行由中间领导的学区改进路径，并作为国家级专业标准与课程监视治理的关键枢纽。"
 type: fact
 subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
-issuing_organization: Australian Institute for Teaching and School Leadership
+org_type: 全国性公立专业机构 / 教师专业标准与认证法定机构
+headquarters: Melbourne, Australia
+established: 2010
 tags:
   - region/australia
   - policy/teacher-education
@@ -24,9 +27,11 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Discourse]]"
   - "[[Policy Network]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Educational Services Australia]]"
@@ -37,77 +42,122 @@ related_facts:
   - "[[Centre for Independent Studies]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-19
 ---
 
 # Australian Institute for Teaching and School Leadership
 
 ---
 
-## 背景
+## 机构定位与宗旨
 
-> [!event-context] 机构背景
-> - **时间 / 地点** 2011年受托成立，总部位于澳大利亚。[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **关键主体** 澳大利亚教学与[[School Leadership\|学校领导力]]协会（AITSL）、非执行董事詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。
-> - **制度背景** 起初负责制定《澳大利亚教师专业标准》，成为彻底改革[[Initial Teacher Training\|初始教师教育]]（ITE）认证流程的关键参与者；底层运作与 [[Australian Education Research Organisation\|AERO]]、ACARA 一起，由慈善公司[[Educational Services Australia\|ESA]]提供底层技术与系统支撑。
-> - **触发条件** 国家教育治理从多元化大学教师教育体系向全国标准化、问责考核机制转轨的政策需要。
+> [!claim] 核心定位
+> 澳大利亚教学与学校领导力研究院（Australian Institute for Teaching and School Leadership, AITSL）是澳大利亚联邦政府设立的全国性法定专业机构，于 2010 年正式运营，负责研制与推行全国教师与校长专业标准，并主导初始教师教育（Initial Teacher Education, ITE）项目的国家认证规程。在国家教育治理中，AITSL 扮演着连接联邦政策议程、州级教育行政与大学教师培养机构的中央协调枢纽。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]
 
----
-
-## 经过
-
-> [!timeline] 机构发展与关键活动
-> - 2011 受命开发《澳大利亚教师专业标准》，确立对全国教师和教师培训体系的官方标准[[Discourse|话语]]权（Barnes & Cross, 2021, p. 460）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 2015 [[Teacher Education Ministerial Advisory Group\|TEMAG]] 改革报告出台，进一步巩固和扩大了 AITSL 在全国[[Initial Teacher Training\|初始教师教育]]（ITE）认证与合规管理中的地位。
-> - 2017 巴金汉博士获任 AITSL 非执行董事，开始在官方教师标准把关机构中任职。
-> - 2023 《强劲开端》报告出台（建议一），授权 AITSL 将“核心内容”以附表形式强制嵌入《国家ITE项目认证标准与程序》中，其职权正式扩张至具体的大学课程设计监控。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
+> [!org-context] 机构背景
+> - **成立时间 / 创设背景** 2010 年由澳大利亚联邦政府注资成立（承接原 Teaching Australia 职能），旨在克服各州及领地教师资质互认壁垒，推进全国统一的教学与学校领导专业标准。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **总部地点 / 业务辐射** 总部位于澳大利亚墨尔本，业务覆盖全澳所有州与领地的公立、天主教与独立学校体系及高等教育师范院校。
+> - **法人属性与经费基础** 依据《联邦公司法》设立的联邦政府全资公立公司（Commonwealth company），主要经费由联邦教育部拨款支持，底层数据系统与技术网络依托非营利公共机构[[Educational Services Australia|澳大利亚教育服务公司]]（ESA）运营。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **核心宗旨与法定职责** 官方宗旨在于通过提供严谨的国家标准、专业资质认证指南与循证实践资源，赋能高素质教师队伍与卓越[[School Leadership|学校领导力]]，进而促进全体澳大利亚学生学业素养的提升。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
 
 ---
 
-## 关键文件／声明
+## 历史沿革与组织演变
 
-> [!citation-card]- [[Initial Teacher Training\|ITE]] 强制认证附表要求
-> “澳大利亚教学与[[School Leadership\|学校领导力]]协会将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]])
-> 
-> “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should Teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
-
----
-
-## 影响与后果
-
-> [!finding-cards] 政策影响与后果
-> - **教师教育机构自主权的缩减** 通过法定制式附表，实质上剥夺了大学教师教育者独立开发课程大纲和评价职前学习效果的传统能动权。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
-> - **政策制定角色的史无前例转移** AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在[[Policy Network\|政策网络]]中形成了前所未有的不对称权力平衡。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **监视治理与脚本化教学的蔓延** 通过与毕业生毕业考核（毕业生标准 1.1/1.2）及绩效经费挂钩，加剧了对教师工作的“绩效监视”，迫使课堂教学走向死板的脚本化模式。
-
----
-
-## 争议与评论
-
-> [!actor-grid] 权力重组的评论视角
-> - **官方监管 / 绩效主义视角** 强调核心大纲的法制化是为了保障国家新任教师质量，降低毕业生质量的地区差异，并提供可客观度量的质量保证指标。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **学术自主 / 批判社会学视角** 指出其职权扩张侵害了大学的学术自主，把复杂的社会交往活动简化为一成不变的生物脑科学客观真理，并建立起了高度监视性的惩罚机制。
-> - **政策分析 / 制度变迁视角**Savage (2016) 指出，AITSL 获得了空前强大的政策开发功能，与 [[Australian Education Research Organisation\|AERO]] 等共同在制度上排挤了传统的学术治理，重组了主权国家的教育权力网络。
-> - **市场运作者 / 商业化视角** 标准的不断强化直接喂养了庞大的教育测评和认证商业链条，如 [[Australian Council for Educational Research\|ACER]] 实施的 [[LANTITE]] 教师统考每年仅考试费就产生约 370 万澳元的营收。
-
-> [!tension] 争议焦点
-> - **巴金汉的“双重跨界与[[Policy Network\|理念编排]]”** 巴金汉一方面长期担任右翼保守智库 CIS 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **大一统标准与“回应性教学”的智识矛盾** AITSL 大纲在强力灌输脑科学一统大纲与指定教材的同时，又在大纲中保留了“基于地方文化和情境的回应性教学”。批判学者指出，将复杂的教学活动机械化和客观真理化，与尊重本土特殊情境的回应性教学在理智和逻辑上是完全冲突且不可兼容的。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 6, p. 11]])
+> [!org-evolution] 组织发展历程
+> - **2010–2014 奠基与国家标准确立期**
+>
+>   由联邦政府主导建立全国统一准入标准，出台标志性的国家教师与校长专业标准，确立对全国教师职业准入的法定话语权。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+>
+>   - **2011** 研制发布《澳大利亚教师专业标准》（Australian Professional Standards for Teachers），确立职前、熟练、卓越与首席四个阶梯层级的全国统一度量衡。
+>   - **2014** [[John Hattie|约翰·哈蒂]]出任董事会主席，全面推进以《[[Visible Learning|可见的学习]]》证据体系与专业标准深度融合的循证治理体系。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]
+>
+> - **2015–2022 认证合规与学区中间领导深耕期**
+>
+>   落实教师教育部长级咨询顾问委员会（[[Teacher Education Ministerial Advisory Group|TEMAG]]）改革建议，强化对各大学初始教师教育（ITE）项目的资格认证合规监管；在治理策略上明确拒绝短期行政运动，践行由中间领导（Lead from the middle）深耕地方学区集群。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
+>
+>   - **2015** 《为行动赋能》（Action Now: Classroom Ready Teachers）发布，赋予 AITSL 审查与监督各大学职前教育合规性的全国中心节点地位。
+>   - **2017** 引入新董事，与智库政策建议及州级监管展开深度利益编排与标准迭代。
+>
+> - **2023–至今 强制大纲嵌入与监视治理扩张期**
+>
+>   依据联邦《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）专家报告，职权由外部标准认证大幅扩张至审查和规定大学具体教学大纲与核心内容。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6, 11)]]
+>
+>   - **2023** 接受联邦政府委托，以附表形式将脑科学与指定核心教学内容强制嵌入《国家 ITE 项目认证标准与程序》。
 
 ---
 
-## 相关概念／政策
+## 治理架构与运行机制
 
-> [!ref-table] 相关条目索引
-> | 条目 | 关系 | 来源 |
-> |---|---|---|
-> | [[Strong Beginnings Report]] | AITSL 职权急剧扩张、受托设计强制认证附表的直接政策来源。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 前期改革文本，为 AITSL 确立在[[Initial Teacher Training\|初始教师教育]]认证中的主导地位奠定了基础。 | |
-> | [[Australian Education Research Organisation]] | 共同起草核心大纲，并与 AITSL 相互配合进行标准监管的证据中介组织。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
-> | [[Centre for Independent Studies]] | 其非执行董事巴金汉同时任职的保守智库。 | |
-> | [[LANTITE]] | AITSL 认证体系下，由 [[Australian Council for Educational Research\|ACER]] 运行并产生高额营收的职前教师标准化统考项目。 | |
-> | [[Educational Services Australia]] | 在底层提供共享的技术和行政支撑架构的注册慈善公司。 | |
+> [!actor-grid] 组织治理架构
+> - **决策机构（AITSL 董事会）** 由联邦教育部长直接任命的独立董事会，成员涵盖知名教育学者（如长期担任主席的[[John Hattie|约翰·哈蒂]]）、资深中小学校长、智库代表（如詹妮弗·巴金汉博士）与各州教育官僚代表。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]; [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **执行机构（管理团队）** 设立执行总裁（CEO）与常设业务局室，负责协调全澳标准落地、认证指南更新与教师继续教育评估。
+> - **协作网络与专业同盟** 紧密联动澳大利亚教育研究组织（[[Australian Education Research Organisation|AERO]]）、澳大利亚课程评估与报告局（ACARA）及负责实施职前教师统考（[[LANTITE]]）的澳大利亚教育研究委员会（[[Australian Council for Educational Research|ACER]]）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+> [!pathways]- 业务运行机制
+> - **由中间领导的学区治理策略** AITSL 董事会明确拒绝直接游说联邦教育部长开展“单年政绩运动”（如英国式单年反馈运动），转而贯彻迈克尔·富兰倡导的“由中间领导”（Lead from the middle）治理模式，绕开易受选举政治波动的政客，直接将循证标准深耕于各州学区网络与校长专业共同体。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
+> - **法定认证附表与绩效考核挂钩** 运用国家认证附表作为政策工具，将初始教师教育大纲合规性与大学教师培养机构办学许可、毕业生资质审核及联邦经费挂钩，形成全流程考核管理机制。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
+
+---
+
+## 核心业务与旗舰产出
+
+> [!finding-cards] 核心产品与业务矩阵
+> - **《澳大利亚教师专业标准》（APST）** 确立全澳教师从“毕业生”到“首席教师”的专业知识、实践与参与三维度七大核心能力框架。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **《澳大利亚校长专业标准》（APSP）** 界定学校领导者的三大核心领导要求（愿景、人际、行政）与五大实践领域。
+> - **《国家 ITE 项目认证标准与程序》** 包含强制性核心教学法大纲附表，规定师范生必须系统掌握的读写认知、课堂纪律与循证教学内容。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
+> - **全国教师劳动力与专业发展数据库** 追踪全澳教师职前入职流失率、专业发展参与度与领导力储备指标。
+
+> [!citation-card] [[Initial Teacher Training|ITE]] 强制认证附表要求
+> 澳大利亚教学与学校领导力研究院将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 5)]]
+>
+> *The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should Teach and the learning outcomes that should be achieved.*
+
+---
+
+## 影响与体系成效
+
+> [!finding-cards] 关键成效与辐射影响
+> - **重塑全国教师专业话语体系** 终结各州各自为政的资质审查分散局面，确立以国家专业标准为基准的专业能力共享语言。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **规训大学师范教育大纲开发** 通过法定认证附表，从宏观专业标准把关延伸至具体的大学课程设计审查，大幅削减传统师范大学的课程自主权。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
+> - **深耕学区中间领导提升落地保真度** 依托稳定的全国标准体系与学区中间层，为各州推行高影响教学策略（如维多利亚州 HITS）提供操作支柱，规避短期政治波动带来的制度损耗。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
+
+---
+
+## 争议、批评与反思
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 官方监管规范性 vs 大学教师教育学术自主权被侵蚀
+> > 争论焦点在于 AITSL 是否越权干预高校学术自主。
+> >
+> > - **批判社会学与高校学者** 批评 AITSL 借由《强劲开端》附表演化为具体的课程决定者，将复杂的社会互动矮化为机械化的脑科学定律与脚本化教案，严重侵害大学开发课程与批判性探究的学术自由。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6, 11)]]
+> > - **官方与绩效监管立场** 辩护称制定强制附表旨在消除全国新任教师专业准备的地区异质性，确保每位师范生毕业即具备胜任复杂课堂的底线技能。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+>
+> > [!axis] 保守智库利益编排与政学旋转门
+> > 质询 AITSL 理事会人事任命与特定意识形态智库的隐秘通路。
+> >
+> > - **政策网络研究视角** 揭示非执行董事巴金汉一方面长期担任保守右翼智库 CIS 董事与高级研究员，另一方面在 AITSL 主导认证附表把关，使得智库倡导的狭隘认知负荷论无缝转换为国家法定合规标准。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+
+---
+
+## 相关条目网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[School Leadership]] | 概念 | AITSL 负责研制发布全国校长与学校领导力专业标准。 |
+> | [[Initial Teacher Training]] | 概念 | AITSL 主导全国初始教师教育项目的认证程序与核心内容附表。 |
+> | [[Visible Learning]] | 概念 | 长期由哈蒂主导将可见学习的循证理念与评价指标嵌入国家标准。 |
+> | [[John Hattie]] | 人物 | 墨尔本大学教授，长期出任 AITSL 董事会主席，主导中间领导学区治理路径。 |
+> | [[Strong Beginnings Report]] | 事实 | 授权 AITSL 将核心大纲强制嵌入国家认证程序的直接政策来源。 |
+> | [[Teacher Education Ministerial Advisory Group]] | 事实 | 巩固并扩张 AITSL 在全国 ITE 认证中主导地位的前期改革文本。 |
+> | [[Australian Education Research Organisation]] | 事实 | 与 AITSL 相互配合进行循证证据监管与大纲起草的联邦中介组织。 |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 论证 | 剖析 AITSL 职权扩张、智库理念编排与监视治理机制的实证文献。 |
+> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证文献。 |

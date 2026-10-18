@@ -190,7 +190,7 @@
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -206,11 +206,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:07:27.918740+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -252,11 +253,12 @@
             "related_methods"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:09:25.580917+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -288,11 +290,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:09:40.127951+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -325,11 +328,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:11:37.178458+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -364,11 +368,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:14:21.908442+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-event.md",
       "entries": [
@@ -385,7 +390,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:16:40.704156+00:00"
     }
   ]
 }

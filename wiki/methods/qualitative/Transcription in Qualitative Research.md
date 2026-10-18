@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Transcription in Qualitative Research
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > 探讨为何转录文本不能等同于原始社会遭遇本身，以及转录过程中的信息损耗机制。
 
 > [!claim] Cohen et al.
-> **转录去情境化与冻结效应** 转录不是对原始交流的中性复印，而是对流动交互的去情境化（Decontextualization）。声音与影像被从具体的时间、空间和人际动态中剥离抽嵌，冻结为静态符号。转录者在选择记录什么、忽略什么时，已在实质性地践行理论筛选。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Cohen et al., 2011, pp. 445–447)]]
+> **转录去情境化与冻结效应** 转录是对流动交互的去情境化（Decontextualization），区别于对原始交流的中性复印。声音与影像被从具体的时间、空间和人际动态中剥离抽嵌，冻结为静态符号。转录者在选择记录什么、忽略什么时，已在实质性地践行理论筛选。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Cohen et al., 2011, pp. 445–447)]]
 
 ---
 
@@ -113,7 +113,7 @@ updated: 2026-10-16
 > 探讨大模型与语音识别工具（ASR）在加速质性数据处理的同时带来的算法风险与质量控制要求。
 
 > [!claim] Wu et al.
-> **算法辅助转录与研究者[[Epistemic Responsibility\|认识论责任]]守持** 现代基于深度学习的自动语音识别技术（如 Whisper 及大语言模型转写管道）能够极速生成初稿，将传统转录的人力时间成本缩减 80% 以上。然而，大模型在处理专业术语、口音、断句语气词及多人重叠对话时存在固有的“语义平滑”与算法幻觉倾向（可能自动脑补修饰受访者的语法或改换专有名词）。研究者必须维持高度的[[Epistemic Responsibility\|认识论责任]]，通过“多模态视听回溯+人工逐字校验”建立质性数据质量闭环，确保转录文本对原始探究情境的高保真还原。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
+> **算法辅助转录与研究者[[Epistemic Responsibility\|认识论责任]]守持** 现代基于深度学习的自动语音识别技术（如 Whisper 及大语言模型转写管道）能够极速生成初稿，将传统转录的人力时间成本缩减 80% 以上。然而，大模型在处理专业术语、口音、断句语气词及多人重叠对话时存在固有的“语义平滑”与算法幻觉倾向（可能自动脑补修饰受访者的语法或改换专有名词）。研究者必须维持高度的[[Epistemic Responsibility\|认识论责任]]，通过“多模态视听回溯+人工逐字校验”建立质性数据质量控制机制，确保转录文本对原始探究情境的高保真还原。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
 
 ---
 
@@ -170,12 +170,15 @@ updated: 2026-10-16
 >   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
 > - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
 >   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平编码奠定了高保真数据基础。
+> - **课堂语音即时转录与专家访谈文本删节重构（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）**
+>   在质性研究中体现了转录技术的双重应用：一方面，在跨国远程专家访谈中，研究者对原始录音转录文稿进行保持主旨忠实与精确前提下的适度删节和可读性编辑，并将文本回传受访专家审阅，达成规范的主题对话呈现；另一方面，在课堂观察技术中，研发移动应用采集课堂师生音频，在 3 秒内实现实时语音转录与自动分类编码，在对 7000 至 8000 名教师的实测中以客观文字数据破除了教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 在跨国远程学者访谈中运用兼顾忠实与可读性的质性转录清洗编辑技术，并引入 3 秒课堂语音即时转录移动应用以客观记录数据破除教师的知觉盲区。
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
