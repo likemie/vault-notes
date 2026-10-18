@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Academic Freedom",
+      "path": "wiki/concepts/higher-education/Academic Freedom.md"
+    },
+    {
       "basename": "Argument_Grace_2010_NZJES",
       "path": "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Grace_2010_NZJES.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Jacob S. Hacker",
       "path": "wiki/persons/us/Jacob S. Hacker.md"
-    },
-    {
-      "basename": "SINUS",
-      "path": "wiki/facts/germany/SINUS.md"
     }
   ],
   "omittedPaths": [],
