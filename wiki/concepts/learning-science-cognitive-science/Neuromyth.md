@@ -65,7 +65,7 @@ updated: 2026-10-18
 >
 > *What goes on in the brain can never be directly depicted in the visible learning paradigm. Thinking is more than learning and learning is more than visible learning. (...) I, therefore, find it legitimate to assert that any attempt to locate and identify learning in the brain produces a myth of the existence of a common denominator for learning. (...) We also have to remember that brains do not go to school—whole, incarnated, situated, and thinking individual human beings go to school.*
 
-> [!boundary]- 概念边界
+> [!boundary] 概念边界
 > - 不等于 [[Educational Neuroscience|教育神经科学]] — 后者属于探索大脑认知发育机制与特定学习障碍（如阅读障碍、计算障碍）的规范经验科学分支，而神经神话是对科学成果的非反思性滥用与过度推论。
 > - 不等于 [[Neuroplasticity|神经可塑性]] — 神经可塑性是大脑终身随经验重构突触的客观生理事实，神经神话则是断言可以通过外部标准化干预对这种可塑性实施精准设计与定向提分的机械论幻象。
 
@@ -91,7 +91,7 @@ updated: 2026-10-18
 > - **离身大脑隐喻** 将大脑想象为独立于肉身存在与生活情境、悬浮在器皿中的中央信息处理器，遗忘大脑是嵌入在具体身体和人际交往中的中介器官。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 5)]]
 > - **技术官僚干预包装** 迎合政策制定者与学校管理者对量化透明与速效提分的狂热追求，将未经验证的脑科学术语包装为前沿教育干预工具。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 5–6)]]
 
-> [!logic-map]- 要素关系
+> [!logic-map] 要素关系
 > ```mermaid
 > flowchart TD
 >     A["离身大脑隐喻<br>（将脑视作孤立计算中心）"] --> B["单一公分母还原论<br>（企图定位统一学习度量）"]

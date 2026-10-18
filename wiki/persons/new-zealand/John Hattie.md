@@ -196,7 +196,7 @@ updated: 2026-10-18
 > - **核心角色** 《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
 > - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 我的学术身份是测量人员与统计学家，专长在于实证测量而非理论构建。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
 >
 > *“I am a measurement person, I am a statistician, I am not a theorist.”*
@@ -291,7 +291,7 @@ updated: 2026-10-18
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
 > - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托[[Cognition Education|认知教育]]注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 Visible Classroom 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen, 2017]] — [[In-depth Interview\|深度访谈]]剖析 Hattie 对实证、翻译、理论与“结果的暴政”的反思与自白。
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。
@@ -401,7 +401,7 @@ updated: 2026-10-18
 > > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景[[Disciplina and Doctrina|规训]]技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与社会经济背景控制批评。
