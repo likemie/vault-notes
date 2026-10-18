@@ -403,6 +403,7 @@ updated: 2026-10-18
 
 > [!critique] 批评索引
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
+> - [[Argument_Grace_2010_NZJES|Grace, 2010]] — 新西兰论战法理与伦理批判：从大学法定“[[Critic and Conscience of Society|社会的批评者与良知]]”角色出发，指责其排除 70%–80% 结构性背景变量是学术还原论，混淆了学科技术批评与社会良知职能。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
 > - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与社会经济背景控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
