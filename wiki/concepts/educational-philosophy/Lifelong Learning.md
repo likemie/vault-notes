@@ -55,6 +55,9 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[International Education]]"
+  - "[[Learnification]]"
+  - "[[Visible Learning]]"
+  - "[[Bildung]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Human Capital Theory]]"
@@ -93,6 +96,8 @@ related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 confidence: high
 status: draft
 created: 2026-06-07
@@ -111,7 +116,7 @@ updated: 2026-10-17
 > [!concept-lens] 概念透镜
 > - **含义** 终身学习超越了将教育等同于一次性学龄阶段文凭获取的传统观念，强调学习是跨越儿童、青年、成人与老年全生命周期的具身化[[Knowledge Building Theory|知识建构]]与能力迭代过程。
 > - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行[[Discourse|话语]]以合法化本土课程改革的修辞机制。
-> - **边界** 终身学习不应被窄化为纯粹服务劳动力市场[[Employability|就业能力]]的职业培训，亦不应演变为将国家公共教育保障责任推卸给个体的借口，而是必须依托普惠均等的公共社会与文化基础设施予以制度化支撑。
+> - **边界** 终身学习超越纯粹服务劳动力市场[[Employability|就业能力]]的职业技能重塑；其有效运作依赖普惠均等的公共社会与文化基础设施予以制度化支撑，防范国家公共教育保障责任被单向推卸给受教个体。
 
 > [!citation-card] [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]论知识折旧下的终身[[Learning Economy|学习经济]]命令
 > 在知识经济中，对既有事实和理论的静态占有（knowing that）迅速贬值，将知识转化为商业创新与生产力协作的实践网络与操作能力（[[Procedural Knowledge|knowing how]]）成为关键。多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，国家吸纳新经济的能力取决于其转型为学习型经济的速度；财富创造与持续学习及分享创新的沟通能力直接绑定。在此背景下，学习必须突破正规学龄教育的藩篱，演变为贯穿一生的终身学习命令。[[OECD|经合组织]]由此将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的核心基石，并在[[PISA|国际学生评估项目]]中专门测查受测学生应对现实挑战的终身学习倾向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
@@ -120,11 +125,11 @@ updated: 2026-10-17
 
 > [!boundary]- 概念边界
 > - 不等于正规学校教育：正规教育仅是终身学习的奠基起点，终身学习涵盖大量校外非正式、非结构化与兴趣驱动的探索实践。
-> - 不等于传统成人扫盲或补习教育：它并非对学校教育失败的事后查漏补缺，而是贯穿全生命周期的常态化素养累积与自主更新机制。
+> - 不等于传统成人扫盲或补习教育：终身学习构成贯穿全生命周期的常态化素养累积与自主更新机制，超越对学校正规教育的事后查漏补缺。
 
 ---
 
-## 概念演变与范式演进
+## 概念演变
 
 > [!dev-timeline] 50 年概念演变脉络
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
@@ -132,14 +137,14 @@ updated: 2026-10-17
 > - **1996 年 [[Delors Report|德洛尔报告]]确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1996 年 [[OECD|经合组织]]推动学习型经济与终身学习[[Paradigm|范式]]重塑** 经合组织出版[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]编著的《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，确立“向学习型经济转型”论断；终身学习被重新定义为知识快速折旧下维持国家与个体财富创造能力的必要前提，学习重心从[[Knowledge-that and Know-how-to|知其然]]（knowing that）转向掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
-> - **2000 年代 [[OECD]] 依托 [[PISA]] 量化测查终身学习倾向** 经合组织启动国际学生评估项目（PISA），宣称其不测验课程既定知识记忆，而是评估义务教育结束阶段学生在应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning），将终身学习理念融入跨国度量空间与排位竞争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
+> - **2000 年代 [[OECD]] 依托 [[PISA]] 量化测查终身学习倾向** 经合组织启动国际学生评估项目（PISA），侧重评估义务教育结束阶段学生在应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning），淡化对既定课程大纲知识记忆的静态考核，将终身学习理念全面融入跨国度量空间与排位竞争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 > - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
-> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 统摄性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 
-## 核心理论维度与实践支柱
+## 核心要素
 
 > [!dimension] 终身学习的三重理论维度与实践支柱
 > - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
@@ -166,7 +171,7 @@ updated: 2026-10-17
 ### 命题一　终身学习在政策实践中常被用作外部化国内矛盾与合法化课程改革的修辞工具
 
 > [!concept-lens] [[Policy Borrowing|政策借用]]与修辞合法化
-> 批判政策研究表明，国际机构倡导的终身学习[[Discourse|话语]]在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内核，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
+> 批判政策研究表明，国际机构倡导的终身学习[[Discourse|话语]]在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内涵，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
 
 > [!claim] [[Argument_Yan_2025_JCS|Yan and Morris (2025)]]
 > **终身学习话语的[[Externalization|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
@@ -175,14 +180,14 @@ updated: 2026-10-17
 > **人本主义终身教育的工具主义异化** 揭示终身学习在过去几十年中经历了从 1970 年代 [[UNESCO]] 全人发展哲学向新自由主义经济竞争工具的退化；政策文本频繁将学习责任单向推向个体，掩盖了教育机会不均等与劳动力市场不公等深层制度问题。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织[[Delors Report|德洛尔报告]]（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益蜕变为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织[[Delors Report|德洛尔报告]]（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益异化为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---
 
 ### 命题二　非正式科学学习生态构成终身学习不可或缺的社会与文化基础设施并具有跨生命周期的累积效应
 
 > [!concept-lens] 社会文化基础设施与资本重塑
-> [[Scientific Literacy|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
+> [[Scientific Literacy|科学素养]]的获取贯穿个体全生命历程；[[Informal Science Learning|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026)]]
 > **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 47, 50–52)]]
@@ -198,7 +203,7 @@ updated: 2026-10-17
 > 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Papatsiba (2005)
-> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
+> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动被政策文本重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability），冲淡了早期追求跨文化探索与欧洲政治一体化的旨趣。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
 
 ---
 
@@ -212,20 +217,33 @@ updated: 2026-10-17
 
 ---
 
+### 命题五　终身学习在“学习化”范式下沦为认知资本主义的持续自我优化与监控装置
+
+> [!concept-lens] 学习化、全景敞视与主体异化
+> 探讨教育如何被降维为无休止的“终身学习”，将教育主体转化为需持续优化自身产出效应的适应性客体。
+
+> [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; [[Argument_Biesta_2010_SPE|Biesta (2010)]]
+> **终身学习的“学习化”陷阱与控制全景敞视** [[Argument_Larsen_2019_EducSci|Larsen (2019)]]援引比斯塔（Gert Biesta）的“[[Learnification|学习化]]”（Learnification）批判指出，新自由主义政策与可见学习（[[Visible Learning]]）等量化范式，将教育（Education）系统性地置换为泛在的“学习”（Learning）与无休止的“终身学习”：
+> 1. **生命转化向持续自适应的降维** 传统德国[[Bildung|教化]]与启蒙传统中对主体成熟度（Mündigkeit）与全人自由的追求，被简化为个体在认知资本主义市场中应对知识折旧的永恒自适应命令；
+> 2. **可见性全景敞视与自我规训** 教师从引领学生涉入文化传统的引路人降格为提供反馈与监控学习成效的数据管理者；终身学习演变为一种全景敞视监控系统（Panopticon），要求受教主体对自身的学习效能持续自我审计与自我优化，消解了教育作为生命破茧与意义生成的根本价值。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 7–10)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表文献 / 来源 |
 > |---|---|---|---|
-> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
+> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内涵在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
 > | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]] |
 > | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
-> | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内核并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
+> | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内涵并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
 > | **知识折旧与终身生产力命令** | 学习型经济使静态知识快速折旧，终身学习被重构为掌握实践诀窍（knowing how）、分享创新与维持就业竞争力的生存机制，并由 PISA 量化为终身学习倾向 | 将教育目的收束于新自由主义人力资本更新与跨国可比排位 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 445–447)]]; Foray and Lundvall (1996) |
+> | **学习化异化与全景敞视规训** | 新自由主义与可见学习将教育置换为终身学习，使主体沦为应对知识资本主义折旧的持续自我优化客体，将教育关系降格为数据监控 | 警惕学习化（learnification）陷阱，重构关涉成熟自由与文化启蒙的教育学主体性 | [[Argument_Larsen_2019_EducSci\|Larsen (2019, pp. 7–10)]]; [[Argument_Biesta_2010_SPE|Biesta (2010)]] |
 
 ---
 
-## 争议与批判反思
+## 争议与批评
 
 > [!debates] 核心学术争议与张力
 >
@@ -239,14 +257,20 @@ updated: 2026-10-17
 > > - **福利国家循环教育构想（1970–1980s OECD/CERI; Papadopoulos, 1994）** 将终身教育与“循环教育（recurrent education）”视作推动社会公平、保障弱势群体成年后再受教育权的民主福利制度。
 > > - **知识经济与新增长[[Paradigm|范式]]（1990s 至今 OECD; Foray & Lundvall, 1996; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 将终身学习紧密绑定于技术创新与财富创造能力，强调知识快速折旧下的劳动者灵活性与自我问责，淡化了社会结构不平等的制度性归因。
 >
+> > [!axis] 全人教化与文化启蒙 vs 学习化范式下的终身自我优化
+> > 争论终身学习应当追求个体朝向成熟自由与文化传统的生命融入，还是服从于认知资本主义的持续自我优化与效能监控。
+> > - **全人教化与教育复兴派（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019]]）** 批评新自由主义与可见学习将教育窄化为无休止的“终身学习”，主张警惕“学习化”（learnification）陷阱，捍卫教育作为引领主体涉入客观真理与精神自由的不可替代性。
+> > - **终身效能与人力资本优化派（OECD 知识经济范式）** 主张知识快速折旧下，唯有建立全周期终身学习度量与持续反馈系统，方能维系劳动力市场竞争力与经济自适应能力。
+>
 > > [!axis] 风险个体化 vs 国家制度性保障
 > > 当技术变革导致岗位淘汰时，终身学习的成本与责任应由谁承担？
 > > - **新自由主义政策[[Discourse|话语]]** 将学习责任单向转嫁给个人，宣称失业是由于个人未能积极终身学习所致。
 > > - **社会批判学者与皇家学会建议四** 强调国家必须设立法定专项资金，将科普场馆与成人技能重塑确立为公共财政保障的社会基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 52)]]
-
-> [!critique] 外部批评与实践落差
-> - **修辞盛宴与资源贫瘠的断层** 各国官方文件高调宣示终身学习愿景，但公共财政中用于成人非正规教育和校外科技场馆的经费屡遭削减。
-> - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高[[Socioeconomic Status|社会经济地位]]人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
+>
+> > [!axis] 政策修辞承诺 vs 资源投入与阶层壁垒落差
+> > 探讨终身学习在理念倡导与实际获得之间的结构性断裂。
+> > - **修辞盛宴与资源贫瘠的断层** 各国官方文件高调宣示终身学习愿景，但公共财政中用于成人非正规教育和校外科技场馆的经费屡遭削减。
+> > - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高[[Socioeconomic Status|社会经济地位]]人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 
@@ -266,13 +290,10 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养支撑，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义[[Disciplina and Doctrina|规训]]与[[Human Capital Theory|人力资本]]导向所取代。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009, pp. 362–363)]] — 批判性揭示欧洲终身学习计划（LLP）如何将跨国流动性（[[Student Mobility|学生流动性]]）工具化整合为个体生存技能，将劳动力市场结构性动荡风险个体化为维持终身流动的个人问责，展现超国家空间[[Governmentality|治理术]]对个体主体性的塑造。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐明[[OECD|经合组织]]如何借由学习型经济理论将终身学习重构为应对知识折旧的经济命令，并依托 [[PISA]] 测查学生的终身学习倾向。
-
----
-
-
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判终身学习在“学习化”（[[Learnification|learnification]]）范式下的异化，揭示新自由主义与可见学习如何将教育窄化为认知资本主义下的无休止自我优化与全景敞视监控，消解了作为全人[[Bildung|教化]]与精神自由的启蒙价值（pp. 7–10）。
