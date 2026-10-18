@@ -6,9 +6,9 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 98
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 102
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dcfce7"
 tags:
   - effect-size
@@ -271,22 +271,22 @@ updated: 2026-10-18
 >
 > | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community|专业学习共同体]]干预 | 阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实校本证据反馈可打破教师赤字归因与[[Learned Helplessness|习得性无助]] |
-> | [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] | [[What Works Clearinghouse|WWC]] 数据库中开发者研究 vs 独立[[Evaluation Research|评估研究]] | [[Academic Achievement|学业成就]]效应量 | 755 个效应量（169 项研究） | 开发者研究未调均值 0.309；独立评估未调均值 0.168 | $ES_{\text{差异}} = +0.141$ | 95% PI 独立 $[-0.45, +0.79]$；开发者 $[-0.31, +0.93]$ | [[Meta-regression|元回归]]多层模型；证实开发者利益冲突与自编测验系统性推高效应量 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]]（引述 Lortie-Forgues & Inglis, 2019） | 英美大型现场 [[Randomised Controlled Trials|RCT]]（[[Education Endowment Foundation|EEF]] 82 项 + [[National Center for Education Evaluation and Regional Assistance|NCEE]] 59 项） | 标准化统考学业成就 | 141 项试验（涵盖 1,222,024 名学生） | 77% 的试验结果在统计上不显著 | 平均 $d = 0.06$ | 平均 95% CI $[-0.09, +0.21]$ | 独立大规模现场 RCT；证实真实学校生态下微弱效应量属于常态 |
-> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]（引述 Finn & Achilles, 1990） | 田纳西州 STAR 项目（小班 13–17 人 vs 常规班 22–25 人） | K–3 年级阅读与数学标准化成就 | 79 所学校 11,600 名学生 | 小班组持续显著优于常规班；低收入与少数族裔学生获益最大 | $d = 0.62–0.66$ | 统计显著（$p < .001$） | 严格大样本现场 RCT；证实关键学段跨越门槛的小班化具有巨大因果效应 |
-> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]（引述 Physicians' Health Study, 1988） | 低剂量阿司匹林预防心肌梗死 vs 安慰剂对照 | 心血管死亡与心肌梗死发病率 | 22,071 名男性内科医生 | 每 1,000 人中净预防 34 起心肌梗死死亡 | $d = 0.07$ | 极高度显著（提前终止试验以普及） | 经典医学 RCT；证实微小效应量在大样本中具有重大公共健康与社会政策价值 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community|专业学习共同体]]干预 | 阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实校本证据反馈可打破教师赤字归因与[[Learned Helplessness|习得性无助]] |
+> | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | [[What Works Clearinghouse|WWC]] 数据库中开发者研究 vs 独立[[Evaluation Research|评估研究]] | [[Academic Achievement|学业成就]]效应量 | 755 个效应量（169 项研究） | 开发者研究未调均值 0.309；独立评估未调均值 0.168 | $ES_{\text{差异}} = +0.141$ | 95% PI 独立 $[-0.45, +0.79]$；开发者 $[-0.31, +0.93]$ | [[Meta-regression|元回归]]多层模型；证实开发者利益冲突与自编测验系统性推高效应量 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]]（引述 Lortie-Forgues & Inglis, 2019） | 英美大型现场 [[Randomised Controlled Trials|RCT]]（[[Education Endowment Foundation|EEF]] 82 项 + [[National Center for Education Evaluation and Regional Assistance|NCEE]] 59 项） | 标准化统考学业成就 | 141 项试验（涵盖 1,222,024 名学生） | 77% 的试验结果在统计上不显著 | 平均 $d = 0.06$ | 平均 95% CI $[-0.09, +0.21]$ | 独立大规模现场 RCT；证实真实学校生态下微弱效应量属于常态 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]（引述 Finn & Achilles, 1990） | 田纳西州 STAR 项目（小班 13–17 人 vs 常规班 22–25 人） | K–3 年级阅读与数学标准化成就 | 79 所学校 11,600 名学生 | 小班组持续显著优于常规班；低收入与少数族裔学生获益最大 | $d = 0.62–0.66$ | 统计显著（$p < .001$） | 严格大样本现场 RCT；证实关键学段跨越门槛的小班化具有巨大因果效应 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]（引述 Physicians' Health Study, 1988） | 低剂量阿司匹林预防心肌梗死 vs 安慰剂对照 | 心血管死亡与心肌梗死发病率 | 22,071 名男性内科医生 | 每 1,000 人中净预防 34 起心肌梗死死亡 | $d = 0.07$ | 极高度显著（提前终止试验以普及） | 经典医学 RCT；证实微小效应量在大样本中具有重大公共健康与社会政策价值 |
 
 > [!ma-table]- 一阶与[[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | [[Meta-analysis|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
-> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] | 《[[Visible Learning|可见的学习]]》[[Homework|家庭作业]]元分析细分亚组[[Interaction Effect|调节效应]] | 5 项元分析（涵盖 161 项研究） | Cohen's $d$ / 细分学段、学科与能力亚组比较 | 总体 $d = 0.29$；小学 $0.15$ vs 高中 $0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学学段效应量跌入常规发展效应区（$<0.15$） | 实证证实单一平均效应量掩盖微观亚组异质性，导致对不同学段教师产生误导性指导 |
-> | [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] | 《[[Visible Learning|可见的学习]]》133 项正值效应量离散度与同质性检验 | $k = 133$ 项正效应量指标（来自 800+ 项元分析汇总） | Cohen's $d$ / 变差系数（$V_\sigma$） | 均值 $d = 0.408$；中位数 $0.390$ | 标准差 $\sigma = 0.232$；变差系数 $V_\sigma = 56.87\%$（超标 $33\%$ 同质性安全上限） | 实证证实全库效应量极度离散不均；学生与学校因素离散最高（$V_\sigma > 65\%$），单一 $d=0.40$ 关节点缺乏数理稳健性 |
-> | [[Argument_Kraft_2023_ER|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests|成就测验]]；剔除开发者自编测验偏倚 |
-> | [[Argument_Terhart_2011_JCS|Terhart (2011)]] | 审计《可见学习》二阶元分析数据库与六大领域效应量分布 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$；教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$ | 纳入文献时效严重滞后（集中于 1980–1990 年代）；未设质控门槛导致严格实验与松散调查混杂 | 揭示多级汇总导致原始情境参数系统性损耗（货币汇兑折损比喻），且教师有限方差（解释 8%–21%）与全能主导[[Discourse|话语]]脱节 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 《[[Visible Learning|可见的学习]]》[[Homework|家庭作业]]元分析细分亚组[[Interaction Effect|调节效应]] | 5 项元分析（涵盖 161 项研究） | Cohen's $d$ / 细分学段、学科与能力亚组比较 | 总体 $d = 0.29$；小学 $0.15$ vs 高中 $0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学学段效应量跌入常规发展效应区（$<0.15$） | 实证证实单一平均效应量掩盖微观亚组异质性，导致对不同学段教师产生误导性指导 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 《[[Visible Learning|可见的学习]]》133 项正值效应量离散度与同质性检验 | $k = 133$ 项正效应量指标（来自 800+ 项元分析汇总） | Cohen's $d$ / 变差系数（$V_\sigma$） | 均值 $d = 0.408$；中位数 $0.390$ | 标准差 $\sigma = 0.232$；变差系数 $V_\sigma = 56.87\%$（超标 $33\%$ 同质性安全上限） | 实证证实全库效应量极度离散不均；学生与学校因素离散最高（$V_\sigma > 65\%$），单一 $d=0.40$ 关节点缺乏数理稳健性 |
+> | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests|成就测验]]；剔除开发者自编测验偏倚 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 审计《可见学习》二阶元分析数据库与六大领域效应量分布 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$；教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$ | 纳入文献时效严重滞后（集中于 1980–1990 年代）；未设质控门槛导致严格实验与松散调查混杂 | 揭示多级汇总导致原始情境参数系统性损耗（货币汇兑折损比喻），且教师有限方差（解释 8%–21%）与全能主导[[Discourse|话语]]脱节 |
 
 ---
 
