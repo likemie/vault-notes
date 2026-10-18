@@ -29,6 +29,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
+  - "[[Educational Reductionism]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -56,9 +57,9 @@ title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 ---
@@ -72,7 +73,7 @@ journal: New Zealand Journal of Educational Studies
 > [[John Hattie|约翰·哈蒂]]（John Hattie）在《新西兰教育研究杂志》（New Zealand Journal of Educational Studies, NZJES）第 45 卷第 1 期发表《论成为[[Critic and Conscience of Society|社会的批评者与良知]]》（*On being a "critic and conscience of society"*），以《[[Visible Learning|可见的学习]]》（*Visible Learning*）实证[[Meta-analysis|元分析]]为依据介入[[New Zealand National Standards|新西兰国家标准]]（National Standards）与公共教育政策论争，自称履行了新西兰立法赋予学者的该项法定角色。作为该立法短语的提议者与起草人，[[Gerald Grace|杰拉尔德·格雷斯]]（Gerald Grace）追问：哈蒂是否准确理解并真正履行了大学学者作为[[Critic and Conscience of Society|社会的批评者与良知]]的法定规范角色？
 
 > [!claim] 核心主张
-> 哈蒂混淆了学术领域内部的技术性批评者与面向权力与公众的社会批评者与良知的根本边界；《可见的学习》将社会阶级、物质贫困与社区条件等非学校因素排除在考察范围之外，违背了社会批评者与良知必须代表社会整体生活机会结构的规范职责，构成了将学业差距化约为纯粹校内教学安排的教育还原主义，在客观上为政策制定者回避深层社会经济不平等的治理责任提供了免责工具。（pp. 89–91）
+> 哈蒂混淆了学术领域内部的技术性批评者与面向权力与公众的社会批评者与良知的根本边界；《可见的学习》将社会阶级、物质贫困与社区条件等非学校因素排除在考察范围之外，违背了社会批评者与良知必须代表社会整体生活机会结构的规范职责，构成了将学业差距化约为纯粹校内教学安排的[[Educational Reductionism|教育还原主义]]，在客观上为政策制定者回避深层社会经济不平等的治理责任提供了免责工具。（pp. 89–91）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1988 年新西兰后义务教育与培训审查档案、霍克报告文本、哈蒂 2010 年争鸣文章及《可见的学习》（2009）对待非学校因素的方法论取向。（pp. 89–90）
@@ -254,7 +255,7 @@ journal: New Zealand Journal of Educational Studies
 从[[Analytic Framework|分析框架]]中剥离上述实质维度，在学理与政策治理层面均产生了深远的负面溢出效应。（p. 91）
 
 > [!implication]- 循证教学论去语境化的理论与政策后果（p. 91）
-> - **理论后果：教育还原主义盛行** 将复杂的阶层生活机会分化化约为纯粹的校内教学技术问题，抽空了教育研究的政治经济学根基。
+> - **理论后果：[[Educational Reductionism|教育还原主义]]盛行** 将复杂的阶层生活机会分化化约为纯粹的校内教学技术问题，抽空了教育研究的政治经济学根基。
 > - **政策后果：社会治理责任转嫁** 诱导执政者误以为仅靠课堂技术即可填补贫困鸿沟，为缩减公共福利投入与回避深层再分配改革提供免责便利。
 
 ---
