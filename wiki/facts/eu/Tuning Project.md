@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,10 +39,11 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Tuning Project
@@ -63,7 +64,7 @@ updated: 2026-10-16
 
 > [!dev-timeline]- 事件经过
 > - **2000–2004 — Tuning 第一阶段与第二阶段** 联合 100 多所欧洲高校，确立了欧洲通用的 31 项通用能力（Generic Competences）谱系，明确将“产生新想法的能力（[[Creativity\|创造力]]）”与“批判和自我批判的能力”列为核心高阶能力。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
-> - **2005–2015 — 学科参照框架（Subject Benchmark Statements）研发与全球辐射** 拓展至商业、化学、地球科学、历史、护理等数十个学科，并推广至拉丁美洲、非洲、俄罗斯、美国及中国。
+> - **2005–2015 — 学科参照框架（Subject Benchmark Statements）研发与全球辐射** 拓展至商业、化学、地球科学、历史、护理等数十个学科，并推广至拉丁美洲、非洲、俄罗斯、美国及中国。在此期间，Tuning 协会受经合组织委托参与 AHELO 可行性测评研发，组织多国学者界定经济学与工程学领域的预期学习成果，成为以学术同行自下而上协商推动软政策转移的典型机制。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014, p. 200)]]
 > - **2016–至今 — 衍生 [[CALOHEE Project\|CALOHEE]] 评价框架** 从宏观资格描述符进一步下沉为直接指导高校教师命题与评分的学科化[[Authentic Assessment\|表现性评价]]框架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 13–14, 27–28)]]
 
 ---

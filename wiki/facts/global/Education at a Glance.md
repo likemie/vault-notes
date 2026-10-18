@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,10 +52,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Education at a Glance
@@ -97,7 +98,7 @@ updated: 2026-10-16
 ## 推进历程与结构变迁
 
 > [!dev-timeline]- 报告演进与框架重组历程
-> - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统合测试，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 14)]]
+> - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统一的大规模测评数据，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 14)]]
 > - **1995–2001 — 双语分行与数据标准化期** 1995 年起英法版本独立成册发行（每册达 370 页）；随着 [[International Indicators of Education Systems\|INES]] 收集网络日益制度化，数据缺失值显著降低，开始稳步吸收[[IEA\|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement，IEA）等外部评估成果。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
 > - **2002 — 框架重组与“产出/绩效霸权”确立** 经历 2000 年首轮[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）测试后，2002 版 EAG 发生决定性重组：[[Performance Indicators\|绩效指标]]从全书最后一章强行前提至第一章（维度 A），标志着 [[OECD]] 正式确立以“学生成绩与系统效能产出”为统领的现代问责[[Paradigm\|范式]]。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 13–14)]]
 > - **2003 至今 — 衍生生态矩阵与[[Governing at a Distance\|远处治理]]深化** EAG 成为 OECD 庞大[[Knowledge Production\|知识生产]]网络的中枢平台，直接衍生出《[[Education Policy Outlook\|教育政策展望]]》（Education Policy Outlook）、教育全球定位系统（Education Global Positioning System，[[Education GPS]]）等数字化即时交互平台，构筑了对成员国教育决策的长期[[Policy Brokerage\|政策中介]]与“远处治理”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
@@ -140,3 +141,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 运用科学知识社会学与 [[Science and Technology Studies\|STS]] 视角深度剖析《教育概览》的生产史，揭示其如何通过技术抽象与施为性机制将不可比的各国学校现实建构为跨国可计算的治理空间。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 论证 1992 年《教育概览》作为全球北方确立“[[Governing by Numbers\|数字治理]]”[[Paradigm\|范式]]的制度里程碑，系统阐述其如何充当[[Global Education Governing Complex\|全球教育治理复合体]]的核心[[Policy Brokerage\|政策经纪]]工具，并直接孕育了 [[PISA]] 评价帝国。
+> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 考证《教育概览》在 1990 年代初如何奠定成员国教育指标文化与对自主直接测评数据的诉求，构成催生 PISA 测验研发的关键制度温床。

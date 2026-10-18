@@ -1613,6 +1613,17 @@
     ]
   },
   {
+    "title": "Soft Policy Transfer",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Soft Policy Transfer.md",
+    "aliases": [
+      "软政策转移",
+      "政策软转移",
+      "理念扩散",
+      "概念转移"
+    ]
+  },
+  {
     "title": "Soft Power by Hard Facts",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Soft Power by Hard Facts.md",
@@ -30187,6 +30198,18 @@
       "OEEC",
       "欧洲经济合作组织",
       "European Economic Co-operation"
+    ]
+  },
+  {
+    "title": "PISA Governing Board",
+    "type": "fact",
+    "path": "wiki/facts/global/PISA Governing Board.md",
+    "aliases": [
+      "PISA管理委员会",
+      "PGB",
+      "Board of Participating Countries",
+      "参测国委员会",
+      "BPC"
     ]
   },
   {

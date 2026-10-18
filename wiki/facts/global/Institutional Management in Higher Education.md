@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -57,10 +57,11 @@ related_facts:
   - "[[Higher Education Act of 1965]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Institutional Management in Higher Education
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > - **高等教育管理国际学术旗舰会议** 隔年举办大规模全球高等教育总理事会（IMHE General Conference），出版专业会刊《高等教育管理与政策》（*Higher Education Management and Policy*），构建跨国政策学习网络。
 
 > [!citation-card] [[OECD|经合组织]]战后四大教育支柱的制度分工
-> 在整个 20 世纪 70 和 80 年代，经合组织的教育活动主要围绕四大业务板块展开，其中两项来自教育委员会和[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）理事会，另外两项则是更为专业化的[[Programme on Educational Building|教育建筑计划]]（PEB）以及高等教育机构管理计划（IMHE）。在这一架构下，经合组织并不强行推行单一的政策教条，而是充分尊重各成员国的多元立场与制度特色。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
+> 在整个 20 世纪 70 和 80 年代，经合组织的教育活动主要围绕四大业务板块展开，其中两项来自教育委员会和[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）理事会，另外两项则是更为专业化的[[Programme on Educational Building|教育建筑计划]]（PEB）以及高等教育机构管理计划（IMHE）。在这一架构下，经合组织充分尊重各成员国的多元立场与制度特色，维持了弹性协商机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
 >
 > *... under four programs: two of them emerging from the Education Committee and CERI's Governing Board, with the other two being the more specialist Programmes of Educational Buildings (PEB) and Institutional Management in Higher Education (IMHE).*
 
@@ -175,3 +176,4 @@ updated: 2026-10-16
 > | [[New Public Management]] | Concept | IMHE 在 20 世纪 80 年代后指导高校管理体制重塑的核心行政学理念源泉。 |
 > | [[Steering at a Distance]] | Concept | 经合组织借助 IMHE 评估与指南推动国家高教行政部门由微观控制转向宏观问责的治理模式。 |
 > | [[George Papadopoulos]] | Person | 经合组织教育事务前副司长，在其权威官方史中系统考证了 IMHE 创立与制度分工。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录 IMHE 理事会与教育政策委员会共同作为 AHELO 战略监管核心的历史档案。 |

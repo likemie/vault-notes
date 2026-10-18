@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -65,6 +65,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -148,7 +149,7 @@ updated: 2026-10-19
 > - **产出与结果指标（Outputs & Outcomes）** 中学与高等教育完成率、青年劳动力就业溢价、跨国标准化认知测试得分。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 9)]]
 
 > [!finding-cards] 核心实证结论
-> - **跨国“可计算世界”的生产** 科学与技术研究（[[Science and Technology Studies]]，STS）视角证实：INES 指标并非被动“记录”客观现实，而是高度建构性的制度技术；它通过强行抹平各国内部文化脉络，生产出一个可横向[[Commensuration\|通约]]的全球教育治理空间。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 6–7)]]
+> - **跨国“可计算世界”的生产** 科学与技术研究（[[Science and Technology Studies]]，STS）视角证实：INES 指标实质上是高度建构性的制度技术；它通过强行抹平各国内部文化脉络，生产出一个可横向[[Commensuration\|通约]]的全球教育治理空间。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 6–7)]]
 > - **指标的施为性（[[Performativity]]）** 统计指标一旦确立，便自发产生强大的[[Reflexivity\|反身性]]反馈：各国政府为避免在《[[Education at a Glance\|教育概览]]》中垫底，主动调整国内课程政策与统计口径，展现出强大的指标定型力。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 16–18)]]
 > - **比较转向的历史里程碑** INES 终结了冷战初期单纯依赖粗放人力预测的规划时代，正式确立了全球教育治理的“比较转向”（Comparative Turn），将跨国数据确立为裁决国内教育成败的“准外部客观权威”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 

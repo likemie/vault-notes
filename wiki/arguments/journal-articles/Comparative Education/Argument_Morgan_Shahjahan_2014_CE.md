@@ -27,6 +27,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Hard Policy Transfer]]"
+  - "[[Soft Policy Transfer]]"
   - "[[Epistemic Community]]"
   - "[[Champ]]"
   - "[[Performance Indicators]]"
@@ -47,6 +48,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[OECD AHELO Project]]"
+  - "[[PISA Governing Board]]"
   - "[[Institutional Management in Higher Education]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
@@ -67,7 +69,7 @@ title: "Argument_Morgan_Shahjahan_2014_CE"
 argument_key: "Argument_Morgan_Shahjahan_2014_CE"
 argument_display_title: "The legitimation of OECD's global educational governance: examining PISA and AHELO test production"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,7 +104,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **社会学制度主义** | 揭示国际组织如何依靠理性-法律权威与[[Technical Rationality\|技术理性]]构建社会现实，将中立专业形象转化为全球议程设置权。 |
-> | **政策转移理论** | 区分理念扩散的软政策转移与工具、题型与程序直接硬性复制的[[Hard Policy Transfer\|硬政策转移]]，解释测评微观规程的跨国渗透。 |
+> | **政策转移理论** | 区分理念扩散的[[Soft Policy Transfer\|软政策转移]]与工具、题型与程序直接硬性复制的[[Hard Policy Transfer\|硬政策转移]]，解释测评微观规程的跨国渗透。 |
 > | **认识共同体**<br>[[Epistemic Community]] | 剖析[[OECD\|经合组织]]如何聚合多国统计学家、心理测量专家与智库顾问，为自上而下的能力框架提供专业背书。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -202,8 +204,8 @@ issuing_organization: ""
 > [!tension-table] AHELO 测验研制的双重技术路径与张力
 > | 测评支柱 | 研发策略与政策转移形式 | 实施成效与深层张力 |
 > |:---|:---|:---|
-> | **经济学与工程学** | **学科共识建构（软转移）**<br>联合欧洲高等教育校准协会（Tuning Educational Structures in Europe Association，简称 Tuning 协会）界定超越单纯学科概念的应用能力，侧重向非专业人士传达经济原理与解决现实问题的职场胜任力。（p.200） | 成功确立了国际可比的学科预期，但评价模板与命题资源高度依赖欧美及日本等核心成员国。（p.200） |
-> | **通用认知技能** | **直接机械复制（硬转移）**<br>为压减研发周期与成本，直接采纳美国教育援助委员会（Council for Aid to Education, CAE）研发的美国大学学习评估（Collegiate Learning Assessment, CLA，[[Collegiate Learning Assessment\|大学学习评估]]）表现性任务。（pp.200–201） | 任务植根于美国本土情境，跨国翻译与[[Cultural Validity\|文化适切性]]极差，最终不得不增补客观多选题并返工重制框架。（p.201） |
+> | **经济学与工程学** | **学科共识建构（[[Soft Policy Transfer\|软政策转移]]）**<br>联合欧洲高等教育校准协会（Tuning Educational Structures in Europe Association，简称 Tuning 协会）界定超越单纯学科概念的应用能力，侧重向非专业人士传达经济原理与解决现实问题的职场胜任力。（p.200） | 成功确立了国际可比的学科预期，但评价模板与命题资源高度依赖欧美及日本等核心成员国。（p.200） |
+> | **通用认知技能** | **直接机械复制（[[Hard Policy Transfer\|硬政策转移]]）**<br>为压减研发周期与成本，直接采纳美国教育援助委员会（Council for Aid to Education, CAE）研发的美国大学学习评估（Collegiate Learning Assessment, CLA，[[Collegiate Learning Assessment\|大学学习评估]]）表现性任务。（pp.200–201） | 任务植根于美国本土情境，跨国翻译与[[Cultural Validity\|文化适切性]]极差，最终不得不增补客观多选题并返工重制框架。（p.201） |
 
 ---
 
@@ -219,7 +221,7 @@ issuing_organization: ""
 > [!proc] PISA 官僚治理架构的升格历程
 > 1. **机构合并筑牢基础** 在教育、就业、劳工与社会事务司内整合[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）与教育委员会资源，专设统计与指标处。（p.198）
 > 2. **设立参测国委员会** 由 Network A 成员组建参测国委员会（Board of Participating Countries, BPC），负责选聘并全程监管技术总承包商。（p.198）
-> 3. **升格为管理委员会** 2005 年将 BPC 正式剥离出原有的指标网络，升格为直接直属于教育理事会的 PISA 管理委员会（PISA Governing Board, PGB），使参测国高级教育官员深度卷入战略决策。（p.198）
+> 3. **升格为管理委员会** 2005 年将 BPC 正式剥离出原有的指标网络，升格为直接直属于教育理事会的 [[PISA Governing Board|PISA 管理委员会]]（PISA Governing Board, PGB），使参测国高级教育官员深度卷入战略决策。（p.198）
 
 <br>
 
