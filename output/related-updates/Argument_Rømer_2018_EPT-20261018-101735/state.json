@@ -163,7 +163,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Pure Evaluation",
@@ -207,11 +207,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:33:50.316047+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Paradigm",
@@ -259,11 +260,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:36:39.317212+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Concept Mapping",
@@ -312,11 +314,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:38:10.758994+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Operationalization",
@@ -367,7 +370,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:40:45.401144+00:00"
     },
     {
       "number": 8,

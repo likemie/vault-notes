@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "path": "wiki/concepts/educational-philosophy/Paradigm.md",
+      "action": "unchanged",
+      "source_verified": true,
+      "sources_read": [
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+        "sources/Romer_2018_EPT.pdf"
+      ],
+      "reason": "仅提及，未实质讨论（Rømer 仅在述评哈蒂理论时使用 evaluation paradigm 一词，未对库恩科学范式概念本身进行理论探讨或实证拓展）",
+      "rewrites": "无改动"
+    },
+    {
+      "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
+      "action": "supplement",
+      "source_verified": true,
+      "sources_read": [
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+        "sources/Romer_2018_EPT.pdf"
+      ],
+      "reason": "补充 Rømer (2018, pp. 3–4, 6–8) 基于欧陆教学论与教化传统对可见学习评价范式将师生关系工具化降维的外部学术批判，并在相关研究索引中补充文献条目；同时消除条目既有文本中的否定转折句式。",
+      "rewrites": "在【争议与批评】新增【外部学术批判】callout，论述评价范式将师生关系还原为输入变量对文化传承伦理纽带的消解；在【相关研究】新增 Rømer (2018) 索引；改写命题一与命题三中的否定转折句为直接肯定句。"
+    },
+    {
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+      "action": "supplement",
+      "source_verified": true,
+      "sources_read": [
+        "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
+        "sources/Romer_2018_EPT.pdf"
+      ],
+      "reason": "补充 Rømer (2018, pp. 5–6) 针对《可见的学习》核心因变量“学业成就”的概念效度危机批判（认知层级操作化断裂与自变量-因变量循环自指牢笼），分别融入概念演变、争议与方法论反思及相关研究索引；清理方法论反思节中 4 条意外重复的条目。",
+      "rewrites": "在【概念演变】增补 2018 年 Rømer 批评；在【争议与方法论反思】剔除 4 行重复内容并新增因变量操作化断裂与循环自指牢笼批判；在【相关研究】增补 Rømer (2018) 索引条目。"
+    }
+  ],
+  "new_exceptions": [],
+  "unresolved": []
+}

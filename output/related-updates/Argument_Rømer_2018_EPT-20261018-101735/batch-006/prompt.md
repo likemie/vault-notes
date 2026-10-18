@@ -1,4 +1,7 @@
+这是关联条目更新任务。请直接执行下述审读和更新要求，无须分析或修改 related_update.py。
+
 你正在维护一个教育研究学术知识库。本任务是更新关联条目正文，不是手动刷新 related_* 字段。
+本指令适用于当前会话中的任何 AI，不限定产品、模型或命令行工具。由当前 AI 使用本地文件与终端工具直接完成任务；不需要安装或调用 Codex CLI，也不需要为脚本配置模型 API。
 仅更新 Concept、Theory、Method、Instrument、Person、Fact。排除 related_arguments 及正文中的所有 Argument 目标；Argument 只作为阅读、引用和证据追溯材料，不修改其正文。
 
 先读取 AGENTS.md、vault-schema.md、vault-use.md；用 wiki/index.json 定位条目。读取 wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md 和每个目标类型的最新模板。
@@ -24,7 +27,7 @@
 - 本批逐项审读，误链和仅提及项必须 unchanged；关联成立但没有新增有效信息的条目也可 unchanged，均须说明具体判断依据，不强行增补或仅为统一格式修改被跳过的条目。
 - 重构前列出现有有效内容及其来源，完成后逐项核对保留情况；明确调整章节与整合的理由。按规范精确修改已有文件。
 - 每项保留页码和完整的文献引用关系。分别报告 restructure、supplement、unchanged 或 blocked，并记录实际读取的来源、原文范围和具体理由。
-- 仅修改本批列出的目标正文及必要的写作例外记录。不要改写指定 Argument、无关条目或本任务的 state.json；生成字段由规范脚本维护。不要提交、推送、启动其他 AI 会话、子代理或递归调用 related_update.py。
+- 仅修改本批列出的目标正文及必要的写作例外记录。不要改写指定 Argument、无关条目或本任务的 state.json；生成字段由规范脚本维护。不要提交、推送、启动其他 AI 会话或子代理。当前聊天执行时，允许按照输出的命令调用 related_update.py 的 accept 和 next 推进本任务；不要调用 run-codex 或其他 AI 命令行启动另一个 AI，也不要递归创建新任务。
 - 不手工维护 related_*、Argument sources、source record extracted_to，不自动运行标准补链/关系同步流程。
 - 有效写作例外静默复用；未匹配的写作用词和否定转折须逐项实质审查，优先准确改写。禁止批量批准 ID 或弱化检查。
 - 结束前依次运行 .venv/bin/python3 scripts/vault_index.py 和 .venv/bin/python3 scripts/vault_lint.py，使用正常增量范围，不限定路径、不压制输出。失败时报告全部未解决项，不声称完成，也不修改无关的并行工作来清零检查。
