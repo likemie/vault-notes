@@ -99,6 +99,7 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
@@ -122,7 +123,14 @@ updated: 2026-10-17
 > [!concept-lens] 概念透镜
 > - **含义** 该概念涵盖统计层面的效应量跨研究变异、解释层面的个体行动动因分化，以及本体层面的复杂开放系统多元共生。
 > - **用途** 在量化综合中评估合并研究的合理性并指导[[Moderator Analysis|调节变量分析]]；在混合方法中运用质性数据透视统计均值背后的微观因果机制；在复杂系统研究中确立方法论与[[Paradigm|范式]][[Pluralism|多元主义]]。
-> - **边界** 异质性不应被视为需要通过数学手段彻底清洗的统计噪声，而应被视为深入探索因果机制、边界条件与行动者主观意义的核心线索。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 13)]]
+> - **边界** 异质性超出单纯的数学统计噪声范畴，是深入探索因果机制、边界条件与行动者主观意义的核心线索。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 13)]]
+
+> [!citation-card] 统计均值遮蔽下的质性解释异质性与复杂系统异质性核心
+> 混合方法研究能够同时回应“是什么”与“如何发生或为什么”的研究问题。当研究者试图真正理解教育结果的不同解释机制时，这一点尤为关键。例如，假定研究发现有 100 名受访者一致认为学校就像监狱，其中 40 人认为是因为限制自由与纪律严酷，20 人认为是因为过度拥挤，15 人认为是因为伙食糟糕……这一简单统计量背后隐藏的质性理由截然不同，唯有质性数据能够照亮被单一统计量遮蔽的深层解释异质性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 23)]]
+>
+> 复杂性理论视异质性为根本立足点（Heterogeneity is the watchword）。正如复杂性理论表明实在存在多重图景，不仅契合了运用多种方法从多个视角审视情境的需求，也与批判研究主张倾听不同声音与观点的信条深相契合。复杂性理论倡导方法论、范式与理论的多元主义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 32)]]
+>
+> 元分析本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的“元-元分析”（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
 
 > [!boundary]- 概念边界
 > - **不等于 统计变异（Statistical Variance）** 统计变异是抽样造成的偶然随机波动，而异质性特指超出随机误差之外、由干预设计、人群特征或情境机制引起的系统性变异。
