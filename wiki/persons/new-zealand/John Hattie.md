@@ -369,7 +369,8 @@ updated: 2026-10-18
 > > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出 VL 的流行在于其技术理性核心满足了教育系统的合法化需求而非科学质量；批评评价理论篡位教育、[[Radical Constructivism|激进建构主义]]消解教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
 > > - **[[Steen Nepper Larsen|Larsen]] 与 Zhao** 提出“盲视”批判框架，强调主体的学习过程具有潜在与历时特征，难以完全即时外显，呼吁以 [[Bildung]] 替代；警示[[Direct Instruction|直接教学]]（Direct Instruction，DI）效应量证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
 > > - **Terhart 提出教学论实质与福柯式全景监控审视** 从德语区教学论（[[Didaktik]]）与教化（[[Bildung]]）传统指出其形式化学习模型彻底抽空了学科教学内容的教育学意义与课程合法化反思；将眼睛作为核心象征的双向可见性模型，在福柯视角下展现为将外显行政强制转化为内化自我监控的现代全景[[Disciplina and Doctrina|规训]]技术，教师在支配地位上以学生中心修辞掩盖了微观权力。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
->
+
+
 > [!critique]- 批评索引
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。

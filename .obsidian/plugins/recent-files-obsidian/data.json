@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
       "basename": "Argument_Larsen_2019_EducSci",
       "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Thomas Aastrup Rømer",
       "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Victorian HITS and Literacy Toolkit",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Castro_2009_MultilateralBanks",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
-    },
-    {
-      "basename": "Argument_Beech_2009_GlobalGarden",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
     }
   ],
   "omittedPaths": [],
