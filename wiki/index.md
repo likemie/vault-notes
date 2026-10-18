@@ -4499,7 +4499,7 @@ Total entries: **3765**
 > - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 
 > [!index-list]- Nordic Journal of Studies in Educational Policy (2)
-> - [[Argument_Knudsen_2017_NordSTEP]] — Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
+> - [[Argument_Knudsen_2017_NordSTEP]] — 围绕 Visible Learning 跨国规模化落地与理论争议，采用科学技术研究视角对 John Hattie 展开半结构化专家访谈，呈现其通过商业特许专营与脚本化规程实施质量控制的机制，剖析其统计测量者自我定位与庞大教育主张之间的内在张力。
 > - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
 
 > [!index-list]- Nordic Psychology (1)
