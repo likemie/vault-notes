@@ -314,15 +314,15 @@ updated: 2026-10-18
 > | **表现形态** | 绩效标签、认证价格、工资报酬与效应量排名。（pp. 7–8） | 批判反思能力、审美判断力、对生活意义的深度体悟。（p. 8） |
 > | **主体姿态** | 戴上雇员面具，将整个人力资本完全奉献给资方支配。（pp. 7–8） | 在雇员面具背后保留真正的人，拥有超越职务要求的思考勇气。（p. 8） |
 
-#### 2. 回归德意志教化传统：关注学生的完整生命成长
+#### 2. 回归德意志教化传统：从神学“原型之像”到破除镜中自恋的去中心化
 
-超越狭隘的学习话语，以欧陆深厚的教化传统能够重构教育的崇高地位。
+超越狭隘的学习话语，以欧陆深厚的教化传统重构教育的崇高地位。拉森回溯了德意志教化（[[Bildung]]）深厚的思想史与神学根基：其德语词根为 Bild（画像、原型），在《圣经·创世记》（1:26）中指代人依照“上帝形象”（*imago Dei*）受造的神圣隐喻；在近代世俗化展开中，它演化为以自主人格完型为目标的精神生成历程。（pp. 8–9）
 
 > [!feature] 德意志教化（Bildung）的核心内涵
 > - **自足与自生目的性** 教化属于生命本身，具备类似艺术与爱的内在崇高价值，超越了达成外在经济目标的工具属性。（p. 9）
-> - **不可操作化与不可形式化** 无法被教育核算员、财政削减者与政客塞入量化考核矩阵，坚决抵御将复杂人性数字化的企图。（p. 9）
+> - **神学原型与不可形式化** 根植于上帝形象（Bild）受造的精神传统，无法被教育核算员、财政削减者与政客塞入量化考核矩阵，坚决抵御将复杂人性数字化的企图。（p. 9）
 > - **抵制平庸的自觉反思** 教化是拒绝被平庸制度化系统愚弄（renunciation to be made stupid）的自觉实践，通过持续的探究演练拉开与粗鄙武断言行的距离。（pp. 8–9）
-> - **打破自恋的去中心化艺术** 破除镜中唯我论的自我迷恋，教师的核心职责在于年复一年引导学生走向未知世界与客观人类精神遗产。（p. 9）
+> - **陶冶之镜与去中心化艺术** 破除镜中自恋的封闭停滞，如果个体在陶冶之镜（mirror of formation）中只能看到自己作为功利战略行动者的倒影，自我生成就会陷入僵死；教师的核心天职在于周复一周、年复一年引导学生走向镜外广阔的未知世界。（p. 9）
 
 作为替代可见学习的崭新本体论框架，具身化-延展辩证法确立了主体的生成结构。
 
@@ -406,6 +406,11 @@ updated: 2026-10-18
 > 人格陶成（[[Bildung]]）远远超越了一般教育学技能传授的范畴。教化无法被量化操作或形式化建模，这令教育算账员、预算削减官员以及频繁换届的教育规划者深感挫败。教化属于生命本身，具备类似艺术与爱的内在目的性。每一次你习得某种内容，无论是有意识还是无意识、可见还是不可见，你都将其具身化在你的身体存在中；而每一次你肉身化了值得体悟的事物，你都在延展自身的身心综合体，从而更深刻地领会世界并获得更辽阔的行动自由。具身化与延展之间构成了不可或缺的双向运动。（pp. 9–10）
 >
 > *Bildung is so much more than education. Character formation cannot be operationalized or formalized, much to the dismay of educational bean counters, cost reducers, changing ministers and state and municipal education planners. (...) Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love. (...) Every time you learn something, you, both consciously and unconsciously, both visibly and invisibly, incarnate it in your bodily being (...). And every time you incarnate something that is worthy of incarnation, you extend your bodily and mental synthesis.*
+
+> [!citation-card] 上帝形象的神学渊源与陶冶之镜的去中心化艺术
+> 《圣经》称人是依照上帝的形象（德语：Bild）受造的（《创世记》1:26），因此教化（[[Bildung]]）概念拥有悠久且充满争议的神学根源。但在当今的世俗世界中，至关重要的是要学会在陶冶之镜（mirror of formation）中将自己视为战略行动者之外的存在。如果你在镜子中只能看到自己的倒影，而看不到任何外部事物，你反而会在停滞不前中阻碍自身的自我生成过程。短视与工具主义的自我中心可能扼杀学生通向未知世界的通道。因此，作为教师，必须尽最大努力在周一至周五、周复一周、年复一年地培育这种去中心化的艺术。（p. 9）
+>
+> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological roots, but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
 
 > [!citation-card] [[Niklas Luhmann|卢曼]]论[[Blind Spot in Observation|观察盲点]]与可见性意识形态的界限
 > 卢曼在其巨著《社会的社会》中指出，观察者在观察时无法看见自身。因此，一切观察活动无不以盲点为前提。观看的条件，正是建立在看与不看的界分之上。一切自我观察同样受制于盲点，它之所以可能，仅仅因为它无法看见自身的观看。如果可见学习范式的拥护者遗忘了这些审慎而深刻的警醒，他们就是在盲目助推一种无边界超积极可见性意识形态，用极其有限的数据拼凑出一场庞大的眼球中心主义模拟幻象。（p. 10）

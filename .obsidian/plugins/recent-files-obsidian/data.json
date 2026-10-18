@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
     },
     {
+      "basename": "Bildung",
+      "path": "wiki/concepts/educational-philosophy/Bildung.md"
+    },
+    {
       "basename": "Danish Public School Reform",
       "path": "wiki/facts/denmark/Danish Public School Reform.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Education Trust",
       "path": "wiki/facts/us/The Education Trust.md"
-    },
-    {
-      "basename": "Visible Learning Meta-X",
-      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
     }
   ],
   "omittedPaths": [],
