@@ -1654,6 +1654,11 @@ def run_base_index(
     code = run_auto_fixes(link_citations=not sync_links)
     if code:
         return code
+    # Expire deleted/rewritten sentence exclusions even in the base workflow;
+    # this command never adds/removes ordinary links in notes.
+    code = run_script("wiki_linker.py", ["exceptions-clean"])
+    if code:
+        return code
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code

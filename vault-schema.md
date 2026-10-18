@@ -211,7 +211,7 @@ OECD_2018_GlobalCompetence
 
 ### aliases
 
-`aliases` 同时用于 Obsidian 检索和 `wiki_linker.py` 自动补链，因此必须精确。若 alias 产生错误链接，直接从对应条目删除后重新同步。
+`aliases` 同时用于 Obsidian 检索和 `wiki_linker.py` 自动补链，因此必须精确。alias 本身不准确时，从对应条目删除后重新同步；仅在某句话中误配时，登记句子级链接例外，保留其他语境中的有效 alias。
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Instrument / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
@@ -300,6 +300,35 @@ cd /Users/shaoyangwu/Documents/MyNotes
 基础索引保留现有的增量 APA 自动补链；普通 wiki 补链与关系同步只在显式标准 / 全量流程中运行。
 
 独立补链入口为 `.venv/bin/python3 scripts/wiki_linker.py sync`，默认先处理 APA 引用，再处理普通双链；`--citations-only` 仅处理引用，`--wiki-only` 仅处理普通双链与 YAML 人名。`--dry-run` 预览统一处理后的结果，不写文件。
+
+### 句子级误链例外
+
+审查确认某句话中的普通双链为误链时，用 `wiki/index.json` 确定所在条目及目标的完整路径，再登记：
+
+```bash
+.venv/bin/python3 scripts/wiki_linker.py exclude 'wiki/arguments/.../Argument_Example.md' --sentence '这一假设尚需进一步检验。' --target 'wiki/concepts/.../Research Hypothesis.md'
+```
+
+命令只登记例外并将该句中指向该目标的现有链接还原为显示文字，不执行其他补链、关系同步或修改生成字段。仅提及、没有新增信息、不值得更新条目均不自动构成误链；核实概念含义与语境后才能排除。
+
+`scripts/link_exceptions.json` 只记录所在条目路径、完整可见句子和排除目标路径，不存理由、时间或报告，不向正文或 YAML 加标记：
+
+```json
+{
+  "wiki/arguments/.../Argument_Example.md": [
+    {
+      "sentence": "这一假设尚需进一步检验。",
+      "target": "wiki/concepts/.../Research Hypothesis.md"
+    }
+  ]
+}
+```
+
+普通补链在原有规则外先屏蔽该句中的该目标词及链接，处理后恢复显示文字，避免再次补回，也避免占用每节首次链接名额；同句其他目标、其他句子的有效链接仍按原规则处理。例外不用于 APA 引用、YAML 人名或 source 链接，`--citations-only`、`--tables-only` 不应用例外。
+
+匹配使用完整可见句子，忽略 wikilink 标记、Unicode NFC 差异及连续空白，不绑定行号，不模糊匹配；以中文句末标点、英文句点后空白、换行或表格单元格为分界。重复句拒绝自动定位，需先改写区分；代码等非普通正文中的内容不登记。
+
+基础 `vault_index.py` 和普通补链会自动删除失效记录：句子删除或改写、所在文件删除、目标文件删除时清除，对应列表为空时删除路径键；不保留失效历史。改写后的句子重新按正常规则补链；文件移动或改名应同步例外路径，否则按旧路径失效处理。读取失败或 JSON 损坏时停止并保留文件，不当作删除清空。可单独运行 `.venv/bin/python3 scripts/wiki_linker.py exceptions-clean` 清理，不修改知识条目。普通补链的 `--dry-run` 不改例外表或正文；例外表新增、修改或删除的记录会将对应文件纳入默认增量补链。
 
 ### Full Sync
 

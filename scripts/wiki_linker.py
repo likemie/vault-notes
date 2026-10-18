@@ -12,11 +12,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
+import link_exceptions
+
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
 INDEX_JSON = WIKI_DIR / "index.json"
 SOURCES_DIR = ROOT / "sources"
 BOOKS_DIR = ROOT / "books"
+LINK_EXCEPTIONS = ROOT / "scripts/link_exceptions.json"
 
 EXCLUDE_DIR_PARTS = {"templates", "indexes", ".obsidian"}
 EXCLUDE_FILENAMES = {
@@ -1452,6 +1455,7 @@ def sync_file(
     citation_targets: dict[str, list[str]] | None = None,
     citation_stats: dict[str, int] | None = None,
     missing_citations: list[str] | None = None,
+    exclusions: list[dict[str, str]] | None = None,
 ) -> tuple[bool, int, int, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     working = original
@@ -1474,6 +1478,8 @@ def sync_file(
         removed = 0
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
+        body, excluded_spans = link_exceptions.mask(body, exclusions or [],
+                                                   entries_by_title.values(), valid_boundary)
         cleaned_body, removed, cleaned_table_pipes = clean_invalid_links(body, entries_by_title)
         linked_body, body_added = link_body(
             cleaned_body,
@@ -1490,6 +1496,9 @@ def sync_file(
         linked_body, final_table_pipes = normalize_table_wikilink_pipes_in_text(linked_body)
         table_pipes_escaped = cleaned_table_pipes + final_table_pipes
         linked_body, heading_styles_normalized = normalize_bold_heading_style(linked_body)
+        linked_body = link_exceptions.restore(linked_body, excluded_spans)
+        if excluded_spans:
+            linked_body, _ = normalize_table_wikilink_pipes_in_text(linked_body)
     updated = linked_fm + linked_body
 
     changed = updated != original
@@ -2032,6 +2041,18 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             citation_targets = citation_build_target_aliases(citation_lookup)
 
     entries = load_entries()
+    exclusions = {}
+    if not tables_only:
+        original_exclusions, exclusions = link_exceptions.clean(ROOT, LINK_EXCEPTIONS, dry_run)
+        # A registry-only edit must also process its notes in incremental mode.
+        previous = git_files_at_ref("HEAD", ["scripts/link_exceptions.json"]).get("scripts/link_exceptions.json")
+        previous_data = json.loads(previous) if previous else {}
+        affected = {name for name in set(original_exclusions) | set(previous_data)
+                    if exclusions.get(name) != previous_data.get(name)}
+        if not paths and not full:
+            files = sorted(set(files) | {ROOT / name for name in affected
+                           if link_exceptions.valid_path(name) and (ROOT / name).is_file()
+                           and not should_skip_file(ROOT / name)})
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
     term_matcher = TermMatcher(terms)
@@ -2060,6 +2081,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             citation_targets=citation_targets,
             citation_stats=citation_stats,
             missing_citations=missing_citations,
+            exclusions=exclusions.get(path.relative_to(ROOT).as_posix(), []),
         )
         if changed:
             stats.files_changed += 1
@@ -2091,6 +2113,41 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
         )
 
 
+def register_exclusion(name: str, sentence: str, target: str) -> None:
+    with link_exceptions.registry_lock(ROOT):
+        _register_exclusion(name, sentence, target)
+
+
+def _register_exclusion(name: str, sentence: str, target: str) -> None:
+    if not link_exceptions.valid_path(name) or not link_exceptions.valid_path(target):
+        raise ValueError("请使用规范的 wiki/ 相对 Markdown 路径")
+    entries = load_entries()
+    by_path = {entry.path: entry for entry in entries}
+    if name not in by_path or target not in by_path:
+        raise ValueError("条目不在 wiki/index.json 中，请核对路径或刷新索引")
+    if by_path[target].type not in {"concept", "theory", "method", "instrument", "person", "fact"}:
+        raise ValueError("句子例外仅用于普通知识链接，不处理 Argument 引用")
+    path = ROOT / name
+    original = path.read_text(encoding="utf-8")
+    fm, body = split_frontmatter(original)
+    sentence = link_exceptions.canonical(sentence)
+    matches = [unit for unit, _, _ in link_exceptions.sentences(body) if unit == sentence]
+    if len(matches) != 1:
+        raise ValueError("句子未找到或重复，不能唯一定位；请核对可见句子，重复句需先改写区分")
+    record = {"sentence": sentence, "target": target}
+    masked, replacements = link_exceptions.mask(body, [record], entries, valid_boundary)
+    if not replacements:
+        raise ValueError("句中未找到该目标的可处理链接或标题/别名")
+    data = link_exceptions.prune(ROOT, link_exceptions.load(LINK_EXCEPTIONS))
+    if record not in data.setdefault(name, []):
+        data[name].append(record)
+    link_exceptions.save(LINK_EXCEPTIONS, data)
+    updated = fm + link_exceptions.restore(masked, replacements)
+    if updated != original:
+        path.write_text(updated, encoding="utf-8")
+    print("链接例外已登记。")
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Synchronize APA citations and ordinary Obsidian wikilinks in one pass; link authors/editors to Person pages."
@@ -2108,6 +2165,12 @@ def build_parser() -> argparse.ArgumentParser:
     sync.add_argument("--full", action="store_true", help="Process the whole wiki. Use after bulk alias/title/path changes or before major releases.")
     sync.add_argument("--tables-only", action="store_true", help="Only normalize wikilink alias pipes inside Markdown tables; do not add or remove links.")
 
+    exclude = sub.add_parser("exclude", help="Record one reviewed sentence/target and remove only its existing mislink.")
+    exclude.add_argument("path", help="Vault-relative note path.")
+    exclude.add_argument("--sentence", required=True, help="Exact visible sentence (without wikilink markup).")
+    exclude.add_argument("--target", required=True, help="Canonical vault-relative target path from wiki/index.json.")
+    sub.add_parser("exceptions-clean", help="Remove expired sentence/target exclusions without linking notes.")
+
     return parser
 
 
@@ -2120,7 +2183,14 @@ def main() -> None:
         parser.error("--tables-only cannot be combined with citation options")
     if getattr(args, "wiki_only", False) and getattr(args, "fix_display", False):
         parser.error("--wiki-only cannot be combined with --fix-display")
-    if args.command in {None, "sync"}:
+    if args.command == "exclude":
+        register_exclusion(args.path, args.sentence, args.target)
+    elif args.command == "exceptions-clean":
+        original, active = link_exceptions.clean(ROOT, LINK_EXCEPTIONS)
+        count = sum(map(len, original.values())) - sum(map(len, active.values()))
+        if count:
+            print(f"Expired link exceptions removed: {count}")
+    elif args.command in {None, "sync"}:
         run_sync(
             getattr(args, "paths", []),
             getattr(args, "dry_run", False),
