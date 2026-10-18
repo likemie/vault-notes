@@ -36,8 +36,8 @@ FIELDS = tuple(f"related_{kind}" for kind in (
 TARGET_TYPES = {"concept", "theory", "method", "instrument", "person", "fact"}
 LINK = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
 INSTRUCTIONS = """遵守 AGENTS.md、vault-schema.md；用 wiki/index.json 定位。补充/重构前必须实际完整读取下列必读规范及对应模板，不能凭记忆或沿用旧格式；完成后逐节对照模板检查结构、内容归位及 Callout。规范优先于模板，不建无证据的空章节，不复制模板说明。
-完整阅读指定 Argument、经 source record 定位的原文及现有目标条目，核对链接语境与概念含义，并回查已有引用。误链、同名异义、普通词误配专业概念、仅提及而无实质讨论/应用/证据，或无新增有效信息，记“不变”，不改正文或格式。无法核验、原文未读全或证据不足则停止，不得以“不变”冒充完成。
-新材料深化/改变认识且积累足以支持更合理结构时“重构”；主要增加事实、证据、解释或细节时依原结构“补充”。整合新旧信息，保留有效内容、重要细节与论证深度，核实差异；真实分歧纳入争议，已证实错误纠正。去重、衔接，统一模板/Callout，保留页码与引用。
+完整阅读指定 Argument、经 source record 定位的原文及现有目标条目，核对链接语境与概念含义，并回查已有引用。误链、同名异义、普通词误配专业概念、仅提及而无实质讨论/应用/证据，记“不变”，不改正文或格式。无法核验、原文未读全或证据不足则停止，不得以“不变”冒充完成。
+通过关联性判断后，先对照本批模板：原条目未按对应模板组织（结构、内容归位或 Callout 不符），必须“重构”，即使无新增信息；模板符合时，新材料深化/改变认识且积累足以支持更合理结构则“重构”，主要增加事实、证据、解释或细节则依原结构“补充”，无新增有效信息则“不变”。整合新旧信息，保留有效内容、重要细节与论证深度，核实差异；真实分歧纳入争议，已证实错误纠正。去重、衔接，统一模板/Callout，保留页码与引用。
 只改本批非 Argument 条目正文及必要写作例外。
 按目标顺序只存 {"items":["不变","重构","补充"]} 到指定 result.json。运行下方 advance，由其执行正常增量 vault_index→vault_lint 并取下一批，无须重复手动检查；失败立即停止。无需计划、进度或逐条报告，受阻说明原因。
 """
@@ -180,6 +180,19 @@ def entry_template(entry):
     return path.as_posix()
 
 
+def grouped_batches(entries, batch_size):
+    """Keep one type and one concrete template per batch, preserving entry order."""
+    groups = {}
+    for entry in entries:
+        template = entry_template(entry)
+        groups.setdefault((entry["type"], template), []).append(entry)
+    for kind in ("concept", "theory", "method", "instrument", "person", "fact"):
+        for (group_kind, template), members in groups.items():
+            if group_kind == kind:
+                for start in range(0, len(members), batch_size):
+                    yield {"type": kind, "template": template, "entries": members[start:start + batch_size]}
+
+
 def prepare_prompt(job, state, batch, *, managed=False):
     """Render the latest instructions without changing the queued target snapshot."""
     folder = job / f"batch-{batch['number']:03d}"
@@ -189,15 +202,21 @@ def prepare_prompt(job, state, batch, *, managed=False):
             "运行下方 advance，由其执行正常增量 vault_index→vault_lint 并取下一批，无须重复手动检查；失败立即停止。",
             "保存结果后返回；外部执行器负责正常增量 vault_index→vault_lint 及推进，勿调用本脚本。",
         )
-    prompt = instructions + f"\nArgument：{state['argument']}\n目标（按序）：\n"
-    templates = []
+    templates = list(dict.fromkeys(entry_template(entry) for entry in batch["entries"]))
+    if batch.get("template") and (templates != [batch["template"]]
+            or any(e["type"] != batch["type"] for e in batch["entries"])):
+        raise ValueError("本批类型或模板已变化，请重新生成任务")
+    prompt = instructions + f"\nArgument：{state['argument']}\n"
+    if len(templates) == 1:
+        prompt += f"本批类型：{batch['entries'][0]['type']}；统一模板：{templates[0]}\n"
+    prompt += "目标（按序）：\n"
     for position, entry in enumerate(batch["entries"], 1):
-        template = entry_template(entry)
-        if template not in templates:
-            templates.append(template)
-        prompt += f"{position}. {entry['path']} → 模板 {templates.index(template) + 1}\n"
+        # Old queues remain readable without reordering existing status records.
+        suffix = f" → 模板 {templates.index(entry_template(entry)) + 1}" if len(templates) > 1 else ""
+        prompt += f"{position}. {entry['path']}{suffix}\n"
     prompt += "\n必读规范：wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md\n"
-    prompt += "\n".join(f"模板 {i}：{path}" for i, path in enumerate(templates, 1)) + "\n"
+    if len(templates) > 1:
+        prompt += "\n".join(f"模板 {i}：{path}" for i, path in enumerate(templates, 1)) + "\n"
     prompt += f"\n结果：{folder / 'result.json'}\n"
     (folder / "prompt.md").write_text(prompt, encoding="utf-8")
     write_json(folder / "batch-result.schema.json", receipt_schema([e["path"] for e in batch["entries"]]))
@@ -208,8 +227,7 @@ def plan(args):
     anchor, entries, added = collect(args.argument)
     if not entries:
         raise ValueError("没有可处理的关联条目")
-    for entry in entries:
-        entry_template(entry)
+    batches = list(grouped_batches(entries, args.batch_size))
     job = (args.out or ROOT / "output/related-updates" / (
         Path(anchor["path"]).stem + "-" + dt.datetime.now().strftime("%Y%m%d-%H%M%S")
     )).resolve()
@@ -219,16 +237,15 @@ def plan(args):
     state = {"version": 1, "root": str(ROOT), "created": stamp(),
              "argument": anchor["path"], "argument_hash": fingerprint(ROOT / anchor["path"]),
              "batches": []}
-    for start in range(0, len(entries), args.batch_size):
+    for group in batches:
         number = len(state["batches"]) + 1
-        batch_entries = entries[start:start + args.batch_size]
         folder = job / f"batch-{number:03d}"
         folder.mkdir()
-        batch = {"number": number, "status": "pending", "entries": batch_entries}
+        batch = {"number": number, "status": "pending", **group}
         prepare_prompt(job, state, batch)
         state["batches"].append(batch)
     write_json(job / "state.json", state)
-    print(f"任务：{job}\n关联条目 {len(entries)} 个，共 {len(state['batches'])} 批；每批最多 {args.batch_size} 个。")
+    print(f"任务：{job}\n关联条目 {len(entries)} 个，按类型/模板分为 {len(state['batches'])} 批；每批最多 {args.batch_size} 个。")
     if added:
         print(f"正文补发现 {added} 个未列入 related_* 的条目（字段可能滞后）；未改写关联字段。")
     return job
