@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ecology of the Brain",
-      "path": "wiki/theories/educational-philosophy/Ecology of the Brain.md"
-    },
-    {
       "basename": "Argument_Larsen_2019_EducSci",
       "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
+    },
+    {
+      "basename": "Danish Public School Reform",
+      "path": "wiki/facts/denmark/Danish Public School Reform.md"
+    },
+    {
+      "basename": "Ecology of the Brain",
+      "path": "wiki/theories/educational-philosophy/Ecology of the Brain.md"
     },
     {
       "basename": "Meta-analysis",
@@ -195,10 +199,6 @@
     {
       "basename": "Visible Learning Meta-X",
       "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
-    },
-    {
-      "basename": "Argument_Golovchin_2019_ESC",
-      "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
     }
   ],
   "omittedPaths": [],
