@@ -375,7 +375,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Theoretical Perspective",
@@ -421,11 +421,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:42:40.197416+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Constructivist Instruction",
@@ -471,11 +472,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:47:06.313493+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Reflexivity",
@@ -526,11 +528,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:48:23.921939+00:00"
     },
     {
       "number": 11,
-      "status": "pending",
+      "status": "done",
       "entries": [
         {
           "title": "Central Phenomenon",
@@ -572,7 +575,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T02:50:03.537645+00:00"
     },
     {
       "number": 12,
