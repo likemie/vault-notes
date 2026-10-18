@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Collegiate Learning Assessment
@@ -113,6 +113,7 @@ updated: 2026-10-16
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CLA / CLA+ | 政策[[Documentary Analysis\|文献分析]]与实践综述，考察意大利（[[TECO Project\|TECO]]）、英国（[[Learning Gain]]）及美国（VSA）对 CLA+ 的[[Going Native\|本土化]]改造与跨校测试应用 | 跨国可移植性与表现性测量信效度 | 指出 CLA+ 较好解决了[[Higher-Order Thinking Skills\|高阶思维]]的[[Construct\|构念]]代表性问题，但在大规模推广中面临评分成本高昂、低利害情境下学生作答动机不足以及院系教师认同度有限等挑战 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | CLA 表现性任务（AHELO 试点） | 经合组织 AHELO 项目通用技能跨国测评研发档案比对与制度文献分析 | 跨文化效度与工具硬转移可行性 | 揭示经合组织直接照搬植根于美国文化土壤的 CLA 表现性任务，在跨国翻译与移植中遭遇严重制度排异与文化效度危机，迫使研发团队大幅重构框架并增补客观多选题 |
 > | ANVUR (2015) | TECO（意大利语适配版） | 意大利 23 所高等院校逾 6,000 名本科生，用于全国高等教育质量监测与能力基准测试 | 跨语言效度与认知维度拟合 | 证实了通过情境表现任务测量大学生批判性思维在欧洲大学系统中的可行性，但各学科参与率存在显著差异（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, p. 17]]） |
 > | HEFCE (2018) | CLA+（英格兰试点） | 英国高等教育拨款委员会“学习增益项目”（Learning Gain Programme），联合多所大学追踪学生认知增长 | 纵向增值测量与常模对齐 | 表明情境化表现测试能够揭示不同年级间的批判性思维增益，但自愿参与机制导致高年级样本流失率较高（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, pp. 17–18]]） |
 

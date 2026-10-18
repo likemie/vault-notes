@@ -74,7 +74,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
 created: 2026-08-26
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Learning Gain
@@ -238,4 +238,5 @@ updated: 2026-10-17
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills\|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England\|HEFCE]]、德国 [[KoKoHs Program\|KoKoHs]]、意大利 [[TECO Project\|TECO]]），辨析不同测度方法的优劣与实施挑战。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, p. 199)]] — 揭示经合组织发起 AHELO 高教测评项目时，以增值评价（learning gain）作为批判商业排名的核心武器，声称唯有测量教学增值才能提供客观中立的跨国高校质量数据。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。

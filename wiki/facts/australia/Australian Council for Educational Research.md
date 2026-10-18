@@ -9,9 +9,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Australian Council for Educational Research
 tags:
@@ -34,10 +34,11 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Australian Council for Educational Research
@@ -57,6 +58,7 @@ updated: 2026-10-16
 ## 经过
 
 > [!timeline] 机构发展与关键活动
+> - 1990s 获经合组织（OECD）授予国际学生评估项目（[[PISA]]）试题研发与实施的核心技术合同，牵头组建国际测评联合体，成为主导全球基础教育大规模测评的关键技术中枢。([[Argument_Morgan_Shahjahan_2014_CE\|Morgan & Shahjahan, 2014, p. 197]])
 > - 2015 澳大利亚政府接收 [[Teacher Education Ministerial Advisory Group\|TEMAG]] 报告建议，决定引入全国统考，ACER 获授权承担测试的独立运营与系统开发。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2016 ACER 负责管理的 [[LANTITE]] 统考在全国正式落地实施。由于考生多、系统不稳定，实施初期经历了“完全混乱”阶段。
 > - 2020-2021 LANTITE 毕业把关规则固化，ACER 持续通过统考管理获得稳定营收，成为[[Initial Teacher Training\|初始教师教育]]行业核心中介组织之一。
@@ -90,6 +92,8 @@ updated: 2026-10-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[LANTITE]] | ACER 负责运营并据此获取数百万营业额的全国初始教师毕业门槛统考。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[PISA]] | ACER 牵头国际联合体承担试题研发与实施的核心跨国大规模测评项目。 | ([[Argument_Morgan_Shahjahan_2014_CE\|Morgan & Shahjahan, 2014, p. 197]]) |
+> | [[OECD]] | 授予 ACER 试题研发合同并将国际测评专业知识中枢从 IEA 转向自身的国际经济组织。 | ([[Argument_Morgan_Shahjahan_2014_CE\|Morgan & Shahjahan, 2014, p. 197]]) |
 > | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 建议推行 LANTITE 并将 ACER 确立为主要统考管理实体的改革政策文本。 | |
 > | [[Australian Education Research Organisation]] | 共同编织澳大利亚[[Evidence-Based Education\|循证教育]]生态并影响大纲改造的证据中介网络节点。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Australian Institute for Teaching and School Leadership]] | 将大纲与准入挂钩，配合 ACER 测试结果进行准入认证的教师监管机构。 | |

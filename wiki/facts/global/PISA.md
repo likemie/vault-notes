@@ -145,6 +145,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
@@ -345,6 +346,7 @@ updated: 2026-10-18
 > | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
 > | **方法学争议与学界批评** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 引用 PISA/TIMSS 纵向成长基准（0.20–0.40 SD/年）反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的德国批判文献。 |
 > | **方法学争议与学界批评** | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 批判 PISA 全视凝视与测量体制剥夺学生生存性开放与教育自由的丹麦批判文献。 |
+> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 ACER 与升格官僚管理架构确立全球治理合法性。 |
 > | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
 > | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
 > | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |

@@ -118,7 +118,7 @@
     },
     {
       "number": 3,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -165,11 +165,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:49:10.638051+00:00"
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -217,11 +218,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:50:51.787355+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -255,11 +257,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:51:14.683359+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -293,11 +296,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:51:59.534508+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "instrument",
       "template": "wiki/templates/template-instrument.md",
       "entries": [
@@ -317,11 +321,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:52:52.395627+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -365,11 +370,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:55:34.372721+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -388,7 +394,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-18T17:56:14.192308+00:00"
     },
     {
       "number": 10,

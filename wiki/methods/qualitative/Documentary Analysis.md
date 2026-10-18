@@ -85,7 +85,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Documentary Analysis
@@ -234,7 +234,7 @@ Jupp and Norris (1993) 将文献分析的理论传统归纳为三类：
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用政策法规与课程大纲文献分析，梳理阿根廷与巴西 1990 年代国家教育法、联邦课程指南及商业教辅目录，结合访谈揭示官方修辞与学校微观实践的剧烈脱节。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] — 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] — 对 152 个国家政策文件及 [[OECD]] 成员国资格框架展开文献分析，梳理监管、财政与信息杠杆在推动[[Creativity|创造力]]与[[Critical Thinking Assessment|批判性思维评价]]中的机制断裂。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] — 对 152 个国家政策文件及 [[OECD]] 成员国资格框架展开文献分析，梳理监管、财政与信息等政策工具在推动[[Creativity|创造力]]与[[Critical Thinking Assessment|批判性思维评价]]中的机制断裂。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022, pp. 149–156)]] — 对全英有效性中心（[[What Works Network|WWCs]]）的官方战略规划、实施指南及 15 个国际网络证据门户的规程文本展开系统性文献与跨案例分析（Documentary Analysis），提炼出[[Educational Brokerage Agency|知识中介机构]]的演变轨迹、六维[[Evidence Standards|证据标准]]与功效主张的四类病理根源。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022, pp. 91–93)]] — 运用 MAXQDA 对 1983 至 2019 年间英格兰 46 份教师教育政策开展文献分析，追踪引文演化与国际参照系变迁，揭示“证据”如何被制度化为[[Rationalized Myth|合理化神话]]。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–10)]] — 对英格兰、德国（汉堡）与苏格兰三地的 49 份政府政策文本、国际非政府组织报告及中介机构公开文献进行跨国文献分析（Documentary Analysis），系统梳理了不同治理体制下[[Research Utilization|研究使用]]指引的目标受众、证据呈现与支持方式。
@@ -242,3 +242,4 @@ Jupp and Norris (1993) 将文献分析的理论传统归纳为三类：
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] — 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[International Reading Association|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 17–28)]] — 运用政策文献分析（Documentary Analysis）与制度演化分析，系统梳理了《[[CHIPS and Science Act|芯片与科学法案]]》及相关联邦白皮书与产业报告，深入剖析了美国[[Research Universities|研究型大学]]在国家半导体体系中从基础研究引领、人才梯队培养到创新网络建构的角色重构及其制度张力。
 > - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在测验生产早期确立全球教育治理权力的多维机制。

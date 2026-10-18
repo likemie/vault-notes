@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 131
+fact_related_count: 132
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -163,10 +163,11 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # OECD
@@ -430,3 +431,4 @@ updated: 2026-10-18
 > | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | Argument | 剖析经合组织全视凝视、量化监控悖论与施莱歇尔未来思维反思主张的丹麦批判文献。 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 揭示政客对 PISA 数据的双轨选择性剪裁，以及经合组织默许扭曲以维系品牌霸权的象征性共谋。 |
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO 测验生产早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |

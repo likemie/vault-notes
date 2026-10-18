@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -79,10 +79,11 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Zhao_2020_JEC]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # IEA
@@ -113,7 +114,7 @@ updated: 2026-10-16
 ## 关键文件／声明
 
 > [!citation-card] 卡扎米亚斯论 IEA 作为“以[[Variable|变量]]替代系统”纲领的跨国实证依托
-> 卡扎米亚斯在梳理战后第三代际实证[[Scientism|科学主义]]运动时指出，以诺亚和埃克斯坦为代表的哥大学派致力于实现将“社会系统或可观察事实的名称替换为概念（变量）名称”的方法论雄心。为了检验关于社会不平等与教育产出的跨国通则，[[Positivism|实证主义]]学者迫切需要摆脱个别国家的制度白描，而 IEA 大规模跨国测试数据为这类[[Multiple Regression|多元回归]]与统计[[Causal Modeling|因果建模]]提供了前所未有的标准化经验底座。国家在此被简化为[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]的抽样容器，从而支撑了战后比较教育追求无时态普遍规律的量化革命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> 卡扎米亚斯在梳理战后第三代际实证[[Scientism|科学主义]]运动时指出，以诺亚和埃克斯坦为代表的哥大学派致力于实现将“社会系统或可观察事实的名称替换为概念（变量）名称”的方法论雄心。为了检验关于社会不平等与教育产出的跨国通则，[[Positivism|实证主义]]学者迫切需要摆脱个别国家的制度白描，而 IEA 大规模跨国测试数据为这类[[Multiple Regression|多元回归]]与统计[[Causal Modeling|因果建模]]提供了前所未有的标准化经验依托。国家在此被简化为[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]的抽样容器，从而支撑了战后比较教育追求无时态普遍规律的量化革命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!citation-card] 马修论 IEA 作为实证量化[[Paradigm|范式]]与[[Social Science as Legitimation Alibi|政策合法化借口]]的长盛不衰
 > 迪米特里斯·马修（Dimitris Mattheou）指出，最终在比较教育学中占据主导的[[Scientific Method|科学方法]]，是美国在社会科学中的功能主义与经验学派。诸如 IEA 这类重大的比较研究项目，完全遵循了经验-量化道路。过去的范式只要能为利益相关者提供优良服务，就总会有人坚守；在这个层面上，共变、量化与经验取向的比较教育研究一直非常契合政客的需要，他们反复仰赖这种研究为自己预先设定的政策提供合法性辩护并予以推进。IEA 研究的长盛不衰以及诸如 [[PISA]] 等项目对政策制定的巨大影响力，充分证明了这一事实。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]
@@ -174,3 +175,4 @@ updated: 2026-10-16
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | Argument | 阐明 IEA 作为第三代际实证[[Scientism\|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录经合组织 INES A 网络专家因不满 IEA 数据周期漫长与国别覆盖有限而启动 PISA 自主研发的历史 |

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -88,10 +88,11 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Revai(Ed.)_2022_OECD]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Centre for Educational Research and Innovation
@@ -152,7 +153,7 @@ updated: 2026-10-16
 > *The establishment of CERI in 1968 reflected an awareness within the OECD that economic [[Growth]] was not only quantitative, but had qualitative aspects, with education seen as 'an instrument for creating better conditions of life'... By 1970, the OECD had acknowledged that education had a fuller range of objectives than the earlier economic view had allowed, with its focus on economic growth tempered by a concern for educational equality and democratisation.*
 
 > [!citation-card] CERI 论知识供给侧改革与多利益相关方证据治理
-> 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决知识需求的方式。真正的挑战在于研究共同体自身，而不在于教师和政策制定者；唯有融汇多方行动者的智慧与受托责任，教育科研才能真正摆脱[[Epistemology\|认识论]]困境。（pp. 206, 229）
+> 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决知识需求的方式。真正的挑战集中在研究共同体自身反思与变革；唯有融汇多方行动者的智慧与受托责任，教育科研才能真正摆脱[[Epistemology\|认识论]]困境。（pp. 206, 229）
 >
 > *The road to upgrading educational research so that education systems become evidence-based knowledge systems is a long and winding one. In the meantime, let’s be respectful of how policy makers and practitioners solve their knowledge needs. The challenge lies with the research community... Bringing diverse perspectives together is essential to building an [[Evidence Ecosystem]] that is rigorous, empowering, and just.*
 
@@ -225,4 +226,5 @@ updated: 2026-10-16
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem\|证据生态系统]]诊断框架。
 > - [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — CERI [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]综合成果专著，全面呈现 29 国 37 个教育系统证据治理调研结论。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — CERI 专著第 10 章，系统呈现 7 大利益相关者群体关于知识供给侧质量、工会赋权、[[Democratising Evidence\|证据民主化]]与受托伦理的全景论辩。
+> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 记录经合组织在 1990 年代整合 CERI 与教育委员会资源组建统计与指标处、为 PISA 测验生产奠定官僚行政支撑的历史。
 
