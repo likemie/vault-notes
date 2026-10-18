@@ -208,7 +208,7 @@ updated: 2026-10-17
 
 为了防止实证主义概念的泛化与混淆，需要划定清晰的理论边界。
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于纯粹经验主义（Empiricism）** 经验主义是一种主张[[Source of Knowledge\|知识来源]]于感官体验的认识论哲学，而实证主义则是一种更为庞大的系统性社会科学学说，它将经验主义与自然主义因果律、数学模型化以及社会重组的政治工程深度绑定。
 > - **不等于[[Scientism\|科学主义]]（[[Scientism]]）** 实证主义是一种特定哲学传统，而科学主义则是实证主义发生意识形态异化后的极端形态——狂妄地将经验科学方法奉为全人类真理的唯一[[Avatar\|化身]]，贬斥一切人文艺术、批判哲学与存在关切。
 > - **不等于[[Critical Realism\|批判实在论]]（[[Critical Realism]]）** 批判实在论同样承认外部世界的独立实在，但坚决拒绝实证主义将实在等同于“可感知的经验表象”（实证经验主义），主张实在分为经验层、实际层与产生因果力量的深层真实机制。
@@ -440,7 +440,7 @@ updated: 2026-10-17
 > > - **历史哲学与批判反思阵营（Sadler, 1900; Holmes, 1965; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 批判单一全能方法的迷思，霍姆斯以波普尔后相对论社会科学解构绝对确定性，卡扎米亚斯借助[[Crane Brinton|布林顿]]（Crane Brinton）[[Working Hypothesis|历史探索性假说]]论证历史研究的科学严谨性，捍卫历史学与社会科学的辩证综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 149–152)]]
 > 
 > > [!axis] 刺猬型宏大教条 vs 狐狸型工程实证实效
-> > 争论焦点在于：应当执着于单一闭合的先验理论体系与纸面合规，还是以代码物理运行与消除现实苦难为唯一实证准绳？
+> > 争论焦点在于：应当执着于单一封闭的先验理论体系与纸面合规，还是以代码物理运行与消除现实苦难为唯一实证准绳？
 > > 
 > > - **刺猬型[[Grand Theory|宏大理论]]与道德自恋** 倾向于将复杂社会强行塞入预设教条中，在远离一线的安全距离外发表脱离治理后果的奢侈信念。
 > > - **狐狸型工程实证论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]; Hoover, 1951）** 视现实为动态演化的云团，坚持工程成果面对物理世界的极端透明与责任对称，以降低凶杀率、疾病和饥饿等客观实效作为最高认识论与伦理裁判。
@@ -478,7 +478,7 @@ updated: 2026-10-17
 
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典文献。
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四[[Big Science|大科学]]假设、Giddens 识别的方法论统一与产出同构双重预设，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 剖析比较教育学奠基人朱利安构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人教化与社会改良，强力反驳 20 世纪[[Behaviorism|行为主义]]实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理 1960 年代 Noah、Eckstein、Holmes 等实证学者对历史学派的围剿，揭示其如何把历史传统贬为“前科学”，并反思对 *Science* 狭义的[[Epistemology\|认识论]]垄断。
@@ -490,31 +490,4 @@ updated: 2026-10-17
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩[[Technical Rationality|技术理性]]批判，细读哈蒂《可见的学习》反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]本质（pp. 3–15）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
-
----
-
-## 领域应用
-
-实证主义构成了连接[[Paradigm|研究范式]]、分析工具与政策治理的枢纽概念。
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Scientific Method\|科学方法]] | 概念 | 为实证主义提供系统的操作程序，贯穿假设提出、[[Variable\|变量]]隔离与经验检验全流程。 |
-> | [[Value Neutrality\|价值中立]] | 概念 | 构成实证主义[[Quantitative Research\|量化研究]]效度的核心规范，要求排除研究者主观价值与政治立场。 |
-> | [[Postpositivism\|后实证主义]] | 概念 | 对经典实证主义幼稚实在论的修正范式，引入理论负荷与概率[[Falsification\|证伪]]观念。 |
-> | [[Interpretive Paradigm\|诠释范式]] | 概念 | 作为实证主义的主要论敌，主张理解人类主观意图与情境意义建构。 |
-> | [[Engineering Mindset\|工程思维]] | 概念 | 实践重构：以客观物理运行与解决现实苦难为准绳的“极致狐狸”工程实证[[Epistemology\|认识论]]。 |
-> | [[Technological Republic\|技术共和国]] | 概念 | 宏观框架：将实证实效融入国家[[Hard Power\|硬实力]]与公共治理现代化的政治经济体制。 |
-> | [[Scientism\|科学主义]] | 概念 | 实证主义膨胀为绝对意识形态的异化产物，将经验科学奉为人类唯一的知识形式。 |
-> | [[Quantitative Research\|量化研究]] | 方法 | 实证主义范式的主要经验依托，通过统计、[[Causal Modeling\|因果建模]]与大样本测量推导规律。 |
-> | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 现代实证主义实验方法的最高代表，通过[[Random Assignment\|随机分配]]控制无关变量以证实因果干预。 |
-> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 实证主义在 20 世纪下半叶比较教育中的典型制度化范式形态，服务战后国家规划与政策预测。 |
-> | [[Evidence-Based Education\|证据本位教育]] | 概念 | 实证主义在当代教育政策领域的直接制度化体现，推崇中立证据指导教育实践。 |
-> | [[Herbert Hoover\|赫伯特·胡佛]] | 人物 | 早期先驱：在回忆录中系统阐明工程师作品完全暴露于公众视野、不可推诿的物理实证伦理。 |
-> | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 现代倡导者：在《技术共和国》中主张以物理实效与[[Five Whys\|五问法]]多层根因复盘重塑求真认识论。 |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧陆对实证主义的反思史，系统阐述德国“实证主义之争”与新马克思主义对比较教育实证范式的解构。 |
-> | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 运用新马克思主义国家理论，解构实证功能主义作为资本主义再生产“意识形态借口”的政治本质。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 记录欧洲比较教育在 1960–1980 年代直面英美实证主义围剿与德意志“实证主义之争”的历史轨迹。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 全景式梳理实证[[Empiricism\|唯方法论主义]]的兴衰、霍姆斯后相对论划界、卡诺伊意识形态借口批判及学科历史健忘症。 |
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从卢曼二阶观察与现象学批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化绩效指标的认识论盲点与规范遮蔽（pp. 3–10）。

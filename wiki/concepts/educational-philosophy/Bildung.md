@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Bildung
@@ -129,7 +129,7 @@ updated: 2026-10-17
 >
 > *Sadler, Kandel, Hans and Ulich, viewed education not only, or merely, from the narrow perspective of schooling, but from the broader sense of paideia/culture, and comparative education as a 'humanistic episteme' whose major concern should be with the 'human being', the anthropos. It was 'anthropocentric', it had a humanistic philosophical pathos, and was deeply concerned with the big political, social and ethical crises that human beings were confronted with.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **狭隘技术性技能习得与职业训练** 职业培训追求特定岗位技能的达标与生产力输出，而教化关注人性的全面展开与独立自主判断力。
 > - 不等于 **外在社会化[[Disciplina and Doctrina\|规训]]（*Erziehung*）** 普通社会化侧重使个体顺从既有社会规范与秩序再生产，而教化包含对既有规范的主体反思与合法抗阻。
 > - 不等于 **微观学校教学与文凭加工（*Schooling*）** 学校教育多受制于制度考核与人力资本流水线，而教化与 *Paideia* 涵盖人一生的精神成熟与文明参与。
@@ -312,37 +312,9 @@ updated: 2026-10-17
 
 ---
 
-## 条目关联
-
-> [!entry-map]
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Culture Générale]] | 概念 | 法国普通文化传统，与德国精神教化共享 19 世纪欧洲中等教育支配性的人文终极目标。 |
-> | [[Liberal Education]] | 概念 | 英国自由教育传统，与德国教化同属欧洲[[Paideia\|古典教化]]支柱，但在实践中更依托公学绅士[[Disciplina and Doctrina\|规训]]。 |
-> | [[Paideia]] | 概念 | 古希腊城邦教化源头，为德国新人文主义 Bildung 提供了人（*Anthropos*）之卓越性与灵魂转向母题。 |
-> | [[Scientific Paradigm]] | 概念 | 战后因古典教化神话破灭而崛起的科学[[Paradigm\|范式]]，终结了唯心人文教化对比较教育学的绝对统治。 |
-> | [[Learnification]] | 概念 | 构成教化的反面镜像，揭示新自由主义如何将教育降格为去道德化的技能消费。 |
-> | [[Visible Learning]] | 概念 | 追求[[Effect Size\|效应量]]与数据可见性，与教化的不可[[Operationalization\|操作化]]形成[[Epistemology\|认识论]]对立。 |
-> | [[Technical Rationality]] | 概念 | 批判将教育简化为手段-目的流水线，教化构成抵御技术理性的核心人文防线。 |
-> | [[Historical-Philosophical-Cultural Motif]] | 概念 | 将全人教化与 *Paideia* 确立为 20 世纪比较教育人文传统的[[Ontology\|本体论]]基石。 |
-> | [[Educational Meliorism]] | 概念 | 早期准科学人道主义改良将经验事实分类全面服从于全人道德教化与世界和平。 |
-> | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科教学改革在实践中落实教化三维关系的[[Going Native\|本土化]]载体。 |
-> | [[Epochal Key Problems]] | 概念 | 克拉夫基[[Critical Pedagogy\|批判教学论]]将教化与现实全球危机相结合的课程组织原则。 |
-> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 安维勒提出的学科建制概念，将教化所在的[[Allgemeine Pädagogik\|普通教育学]]作为比较教育不可脱离的母体学科。 |
-> | [[Robert Ulich]] | 人物 | 编纂两千年思想史四阶段，确立以人（*Anthropos*）为中心的比较教化防线。 |
-> | [[Andreas Kazamias]] | 人物 | 系统重构历史母题中广义教化超越微观学校教育（*schooling*）的方法论价值。 |
-> | [[Oskar Anweiler]] | 人物 | 主持两德教化与教育制度大型比较项目、提出比较教育交叉领域论的德国学者。 |
-> | [[Wolfgang Mitter]] | 人物 | 阐释欧陆教化传统与普通教育学母体在比较教育[[Disciplinary Institutionalization\|学科建制]]中深远影响的学者。 |
-> | [[Franz Hilker]] | 人物 | 考据古代比较探究作为教育实践艺术的源流，倡导深植于教化传统的比较教育学建制。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]] |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 追溯古典教化观察、教育实践艺术源流及德语学科定名在两百年史学中的演进。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 从德语教学论与教化传统反思《可见的学习》抽空学科教化实质的形式主义缺陷。 |
-
----
-
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统梳理德国教化作为 19 世纪支配欧洲中等课程的四大古典传统之一，深入剖析二战浩劫导致的道德神话破灭及其向[[Scientific Paradigm|科学范式]]的跨越。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统阐释[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]的历史母题，确立以人为中心的全人教化比较传统。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释德国及中东欧比较教育如何以[[Allgemeine Pädagogik|普通教育学]]中的教化（Bildung）哲学为母体，通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制连接历史与社会学。
@@ -354,4 +326,5 @@ updated: 2026-10-17
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从[[Didaktik|欧陆教学论]]与教化传统批判《[[Visible Learning|可见的学习]]》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
+
 

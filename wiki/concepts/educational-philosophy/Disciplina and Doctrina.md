@@ -86,7 +86,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Disciplina and Doctrina
@@ -315,7 +315,7 @@ updated: 2026-10-17
 > *Disciplina concerns the consolidation and preservation of discovered knowledge and correction of errors, maintaining stability and reproduction; doctrina refers to the dynamic system of developing, questioning, and renewing knowledge.*
 
 > [!citation-card] 特哈特论双向可见性与微观全景规训
-> 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出《可见的学习》倡导的“通过学生眼睛看教学、学生扮演自身教师”的双向可见性，构成了一种无处不在的控制结构。传统的、外显的行政强制统治，在此转化为内化、微妙且去中心化的全景监控规训。这一结构并未赋予学生真正的主体解放，而是将学生编织进自我监控的规训网络中，在掩盖权力不对称的同时排除了关于学科内容合法性与实质教化的学术审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
+> 埃瓦尔德·特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）从福柯权力理论出发，指出《可见的学习》倡导的“通过学生眼睛看教学、学生扮演自身教师”的双向可见性，构成了一种无处不在的控制结构。传统的、外显的行政强制统治，在此转化为内化、微妙且去中心化的全景监控规训。这一结构将学生编织进自我监控的规训网络中，在掩盖权力不对称的同时排除了关于学科内容合法性与实质教化的学术审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
 >
 > *Seen from the perspective of Michel Foucault, this mutual seeing, making visible and being seen could be considered as an omnipresent control structure. The traditional, explicit regime of domination is transformed into an internalized, subtle, decentralized surveillance... this can also be understood as a new, more intensive and more comprehensive control structure which does not liberate the student, but instead integrates him into a subtle regime of [[Self-control]].*
 
@@ -323,7 +323,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关论证索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合[[Neo-Taylorism|新泰勒主义]]与全景监控理论，深入剖析《[[Visible Learning|可见的学习]]》如何借助 [[Assessment Tools for Teaching and Learning|asTTle]] 系统与气压计仪表刻度将教师降格为技术规训对象，驱逐教学的人文共同体属性。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯实证反思可见学习与新泰勒主义规训对教师职业的冲击，揭示“人人注视人人”的新行政[[Panopticism|全景敞视]]如何将教学窄化为报表生产并摧毁教师专业认同。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
@@ -332,18 +332,3 @@ updated: 2026-10-17
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合等价空间与[[Governing by Numbers|数字治理]]，揭示[[PISA|国际学生评估项目]]（PISA）联赛排位如何作为跨国规训机制压制主权国家关于教育目的的民主审议。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论与[[Didaktik|欧陆教学论]]视角解构《可见的学习》，揭示双向可见性如何将传统统治转化为内化自我监控的全景规训（disciplina），并抽空实质教化（doctrina）。
 
----
-
-## 条目关联
-
-> [!entry-map] 概念网络图
->
-> | 关联条目 | 类别 | 关联说明 |
-> |---|---|---|
-> | [[Performativity]] | 核心概念 | 表演性是规训机制（disciplina）过度侵入学校后教师为证明合规而产生的异化行为。 |
-> | [[Professional Judgment]] | 核心概念 | 教师专业判断代表了 doctrina 维度的情境化伦理审议，正受到[[Neo-Taylorism\|新泰勒主义]]规训清单的严重挤压。 |
-> | [[Critique of Evidence-Based Education]] | 批判[[Paradigm\|范式]] | 循证教育批判直接指出证据等级制如何将教学窄化为可复制的技术规训操作。 |
-> | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州将 VL [[Effect Size\|效应量]]转化为刚性清单，成为微观技术规训的典型制度样本。 |
-> | [[Thomas B. Fordham Institute]] | 智库机构 | 保守派智库通过兜售教育医学化比附与贬低教师专业性，为自上而下的技术规训构建意识形态合法性。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 详细解构了可见学习的技术监控逻辑与清单拜物教对教师专业性的解构。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 实证文献 | 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示其内化的全景微观规训本质。 |
