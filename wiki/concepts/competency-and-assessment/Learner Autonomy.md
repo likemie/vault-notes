@@ -101,7 +101,7 @@ updated: 2026-10-18
 > *“Learner autonomy is not synonymous with self-instruction or isolated learning... Even as learners independently interpret experiences, these remain rooted in social interactions. It represents an autonomous interdependence.”*
 
 > [!citation-card] 技术软件自主学习与教师主导辅导的因果剥离（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 在大规模因果评估中，复杂干预常常将技术软件自主学习与面对面教学混杂在一起。通过多臂析因现场试验，研究者得以清晰剥离技术工具辅助下的学生自主学习与教师[[Direct Instruction\|直接教学]]辅导的独立效应与[[Interaction Effect\|交互效应]]。实证数据表明：唯有将软件自主操作与结构化教师引导有机结合，而非孤立推行纯粹的算法自学，方能产生显著的阅读学业增益。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> 在大规模因果评估中，复杂干预常常将技术软件自主学习与面对面教学混杂在一起。通过多臂析因现场试验，研究者得以清晰剥离技术工具辅助下的学生自主学习与教师[[Direct Instruction\|直接教学]]辅导的独立效应与[[Interaction Effect\|交互效应]]。实证数据表明：唯有将软件自主操作与结构化教师引导有机结合，方能产生显著的阅读学业增益，孤立推行纯粹的算法自学则收效微弱。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 >
 > *“In factorial evaluations like ABRA, evaluators separated the independent and interaction effects of pupil-led autonomous learning via educational technology from teacher-led [[Structured Teaching\|structured instruction]]... unpicking the black box of multi-component interventions.”*
 
@@ -133,7 +133,7 @@ updated: 2026-10-18
 > - **内在意愿与自律动机（Willingness, Motivation & Readiness）** 摆脱外在金钱奖惩与被动问责驱动，源自对真理探究的内在好奇心、[[Self-Efficacy\|自我效能感]]与自发承担探究责任的心理准备度（Dam, 1995）。
 
 > [!feature] 自主学习者的典型行为特征（基于 Chan, 2001）
-> 1. **高度内在动机（Highly Motivated）** 探索乐趣源于智识挑战本身而非外在分数评级；
+> 1. **高度内在动机（Highly Motivated）** 探索乐趣源于智识挑战本身，超越了外在分数评级的驱动；
 > 2. **好奇探究心（Inquisitive）** 习惯追问底层机理，不满足于死记教科书标准答案；
 > 3. **自律组织力（Well-organized）** 能够科学规划任务时间表、拆解长效里程碑与管理学习资源；
 > 4. **主动发起者（Active Initiators）** 善于主动设定探究议题与发起同伴研讨，拒绝被动等待指令；
@@ -159,7 +159,7 @@ updated: 2026-10-18
 
 ---
 
-### 命题二　技术辅助的自主学习与教师结构化指导具备异质机制，需通过析因试验剥离交互效应
+### 命题二　技术环境下的学习者自主性必须与教师结构化指导协同产生效益
 
 > [!concept-lens] 现代因果评估中自主学习的机制解构
 > 探讨教育干预中“学生自主利用软件学习”与“教师[[Direct Instruction\|直接教学]]辅导”的独立贡献，以及[[Factorial Design\|析因设计]]在解开自主学习黑箱中的方法学价值。
@@ -268,3 +268,24 @@ updated: 2026-10-18
 > - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 比较[[Meta-meta-analysis\|元综合]]反思瑞典极端去结构化个人主义自学的实践灾难，确立结构化支架作为真自主前提的理论地位。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 时代学习者在[[Man-Computer Symbiosis|人机协同]]中维持[[Epistemological Vigilance\|认识论警觉]]与抵御算法[[Cognitive Offloading\|认知卸载]]的自主防御机制。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 从存在论教育学视角批判将自主学习还原为主观自足内部监控的唯我论倾向，重申教学面向外部他者开放的核心价值。（p. 8）
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Critical Thinking]] | 概念 | 学习者自主性的认知核心，支撑独立反思与审慎判断。 |
+> | [[Metacognition]] | 概念 | 自主学习者监控与调节自身认知进程的关键心智能力。 |
+> | [[Scaffolding]] | 概念 | 培育自主性所必需的渐退式支架，防止去结构化掉队。 |
+> | [[Structured Teaching]] | 概念 | 与学习者自主性构成动态平衡的教学组织维度。 |
+> | [[Constructivist Paradigm]] | 理论 | 将学习者确立为能动意义建构主体的基础理论范式。 |
+> | [[Cognitive Load Theory]] | 理论 | 解释缺乏支架的极端自主导致工作记忆过载的认知机制。 |
+> | [[Argument_Lakhani_2012_AKUIED]] | 论证 | 质性揭示认识论反思与元认知自信双轨生成自主性的实证研究。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE]] | 论证 | 通过析因试验剥离软件自主与教师直接教学独立因果贡献的研究。 |
+> | [[Argument_Håkansson_2015_TT]] | 论证 | 综合实证反思去结构化放任自学导致学业滑坡的系统综述。 |
+> | [[Argument_Li_2026_CEAI]] | 论证 | 综述生成式 AI 时代学习者防范认知卸载与维持认识论警觉的文献。 |
+> | [[Argument_Rømer_2018_EPT]] | 论证 | 从存在论教育学批判将自主学习窄化为主观自我监控的哲学论述。 |
+
