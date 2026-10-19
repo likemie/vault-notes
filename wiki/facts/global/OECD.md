@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 134
+fact_related_count: 137
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
   - "[[Peer Pressure]]"
+  - "[[Generic Skills]]"
   - "[[Evidence Ecosystem]]"
   - "[[Space of Equivalence]]"
   - "[[Commensuration]]"
@@ -92,6 +93,7 @@ related_concepts:
   - "[[Media Logic]]"
   - "[[Rashomon Effect]]"
   - "[[Construct]]"
+  - "[[Test Production]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
@@ -100,6 +102,7 @@ related_theories:
   - "[[New Growth Theory]]"
   - "[[Governmentality]]"
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Panopticism]]"
   - "[[Beech's Model of Discourse Circulation]]"
 related_methods:
   - "[[Peer Debriefing]]"
@@ -234,8 +237,8 @@ updated: 2026-10-19
 >   - **2000** 推出首轮 [[PISA]] 测评。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 >   - **2000 / 2003** CERI 开展部门知识治理调查，开启长达二十余年的教育知识管理与知识治理探索。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 >   - **2002** 正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性[[Peer Pressure|同侪压力]]（peer pressure）取代早期的哲理辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]]
->   - **2005** 将参测国委员会（BPC）升格为直接直属于教育理事会的 [[PISA Governing Board|PISA 管理委员会]]（PGB），使参测国高级教育官员深度卷入战略决策，进一步巩固测评生产的行政统领架构。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
->   - **2008–2015** 启动[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）可行性研究，试图将 PISA 模式从基础教育拓展至高等教育领域，以填补高校教学产出指标的空白并制衡商业大学排名，后因通用技能硬移植挫折与高校自主权抵制而未能实现机制化推广。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198–203)]]
+>   - **2005** 将[[PISA Governing Board|参测国委员会]]（BPC）升格为直接直属于教育理事会的 PISA 管理委员会（PGB），使参测国高级教育官员深度卷入战略决策，进一步巩固测评生产的行政统领架构。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
+>   - **2008–2015** 启动[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）可行性研究，试图将 PISA 模式从基础教育拓展至高等教育领域，以填补高校教学产出指标的空白并制衡商业大学排名，后因[[Generic Skills|通用技能]]硬移植挫折与高校自主权抵制而未能实现机制化推广。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198–203)]]
 >   - **2000s** 通过非成员经济体合作处（Unit for Cooperation with Non-member Economies，NME）与全球关系项目（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并依托与世界银行、教科文组织合作的[[World Education Indicators|世界教育指标]]（WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
@@ -339,8 +342,8 @@ updated: 2026-10-19
 > > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 [[Michael Gove]]）利用“遗漏[[Discourse|话语]]”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay\|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保[[Global Educational Discourse|全球教育话语]]被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–126)]]
 > > - **民主授权缺失与短期应试修补（学术界公开信）** 2014 年 5 月全球 83 位著名教育学者在《卫报》发表联名公开信，直接致信 OECD 教育总监，严厉谴责 OECD 作为未经民主选举的经济机构缺乏主导各国公共教育政策的宪制授权，批评其过度依赖单一量化指标引发急功近利的短期应试修补（short-term fixes），严重牺牲了教育的人文与公民价值。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 123)]]
 >
-> > [!axis] 全景敞视式量化凝视 vs 探究不确定性的教育反思
-> > 丹麦批判哲学家[[Steen Nepper Larsen|斯廷·内珀·拉森]]（Steen Nepper Larsen）揭示，经合组织倡导的测评治理实质上构成了神学“全视凝视”（omnes videns）的世俗化变体；泛在化的大规模测试剥夺了教育探索的生存性开放度与偶然性空间。与此同时，经合组织内部亦呈现出话语张力：在 2018 年哥本哈根 OECD 国际会议上，教育与技能司司长[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]主张未来教育应培养学生“像数学家或社会学家一样思考”的深度反思与[[Metacognition|元认知]]审视能力，勇于探究未知领域并打破既有共识；拉森指出，这一高阶反思愿景与经合组织自身主导的封闭式、标准化题库测量体制存在深刻悖论。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 3, 7)]]
+> > [!axis] [[Panopticism|全景敞视]]式量化凝视 vs 探究不确定性的教育反思
+> > 丹麦批判哲学家斯廷·内珀·拉森（[[Steen Nepper Larsen]]）揭示，经合组织倡导的测评治理实质上构成了神学“全视凝视”（omnes videns）的世俗化变体；泛在化的大规模测试剥夺了教育探索的生存性开放度与偶然性空间。与此同时，经合组织内部亦呈现出话语张力：在 2018 年哥本哈根 OECD 国际会议上，教育与技能司司长[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]主张未来教育应培养学生“像数学家或社会学家一样思考”的深度反思与[[Metacognition|元认知]]审视能力，勇于探究未知领域并打破既有共识；拉森指出，这一高阶反思愿景与经合组织自身主导的封闭式、标准化题库测量体制存在深刻悖论。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 3, 7)]]
 >
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
@@ -432,9 +435,9 @@ updated: 2026-10-19
 > | [[Global Educational Discourse]] | 概念 | 经合组织与世行、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示经合组织等国际机构受紧迫实用主义驱动过度简化知识并参与话语中介。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse\|话语]]共谋及对[[UNESCO\|教科文组织]]领导权挤压的代表学者。 |
-> | [[Steen Nepper Larsen]] | 人物 | 批判经合组织全景敞视式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
-> | [[Andreas Schleicher]] | 人物 | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导元认知反思思维。 |
+> | [[Steen Nepper Larsen]] | 人物 | 批判经合组织[[Panopticism\|全景敞视]]式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
+> | [[Andreas Schleicher]] | 人物 | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导[[Metacognition\|元认知]]反思思维。 |
 > | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | Argument | 剖析经合组织全视凝视、量化监控悖论与施莱歇尔未来思维反思主张的丹麦批判文献。 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 揭示政客对 PISA 数据的双轨选择性剪裁，以及经合组织默许扭曲以维系品牌霸权的象征性共谋。 |
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO 测验生产早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO [[Test Production\|测验生产]]早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |

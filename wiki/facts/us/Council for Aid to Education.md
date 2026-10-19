@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Learning Gain]]"
+  - "[[Generic Skills]]"
+  - "[[Cultural Validity]]"
   - "[[Critical Thinking]]"
   - "[[Ecological Validity]]"
 related_theories: []
@@ -67,8 +69,8 @@ updated: 2026-10-19
 > [!feature] [[Collegiate Learning Assessment\|CLA]] 系列产品与国际合作
 > - **开创表现性测评标准（CLA / CLA+）** 2002 年正式推出大学学习评估（CLA / CLA+），首创由“情境化真实文档库（[[Document]] Library）+ 劣构决策任务（Performance Tasks）”构成的考核模式，颠覆了传统[[Multiple-Choice Questions\|选择题]]客观测试[[Paradigm\|范式]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **赋能全美问责制** 作为[[Voluntary System of Accountability\|美国自愿问责体系]]（[[Voluntary System of Accountability\|VSA]]）中唯一被采纳的真实表现性测验工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
-> - **跨国战略合作与转译** 与意大利国家评估署（ANVUR）合作开展 [[TECO Project\|TECO]] 项目，将 CLA+ 本土化并覆盖 23 所大学；与英国 [[Higher Education Funding Council for England\|HEFCE]] 合作实施 [[Learning Gain\|学习增益]]项目；深度参与 [[OECD]] 高等教育学习成果可行性评估（[[OECD AHELO Project\|AHELO]]）通用技能测评。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
-> - **AHELO 通用技能测评硬转移实践** 在经合组织推进 AHELO 项目期间，CAE 研发的 CLA 表现性任务被直接采纳为跨国通用技能测量的核心工具；然而这一移植实践遭遇了跨国翻译、情境适应与跨文化适切性难题，导致测评团队后续增补客观多选题以平衡测量指标。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014, pp. 200–201)]]
+> - **跨国战略合作与转译** 与意大利国家评估署（ANVUR）合作开展 [[TECO Project\|TECO]] 项目，将 CLA+ 本土化并覆盖 23 所大学；与英国 [[Higher Education Funding Council for England\|HEFCE]] 合作实施 [[Learning Gain\|学习增益]]项目；深度参与 [[OECD]] 高等教育学习成果可行性评估（[[OECD AHELO Project\|AHELO]]）[[Generic Skills|通用技能]]测评。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
+> - **AHELO 通用技能测评硬转移实践** 在经合组织推进 AHELO 项目期间，CAE 研发的 CLA 表现性任务被直接采纳为跨国通用技能测量的核心工具；然而这一移植实践遭遇了跨国翻译、情境适应与跨[[Cultural Validity|文化适切性]]难题，导致测评团队后续增补客观多选题以平衡测量指标。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 
 ---
 

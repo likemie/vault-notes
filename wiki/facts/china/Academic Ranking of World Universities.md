@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -31,8 +31,10 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Grandes Ecoles]]"
   - "[[Global Universities Rankings]]"
+  - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
+  - "[[Generic Skills]]"
   - "[[Cross-cultural Validity]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -45,7 +47,6 @@ related_persons:
   - "[[Richard C. Atkinson]]"
   - "[[Pepka Boyadjieva]]"
   - "[[José Luis García Garrido]]"
-  - "[[James Madison]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[National Research Council]]"
@@ -55,9 +56,9 @@ related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
-  - "[[Times Higher Education World University Rankings]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
+  - "[[Times Higher Education World University Rankings]]"
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -92,7 +93,7 @@ updated: 2026-10-19
 > - **2003 年 — 创制与首次发布**
 >   - 2003 年上海交通大学高等教育研究所首次发布全球 500 强大学学术排名，旨在摸清中国高水平大学与世界一流大学的客观差距；其完全舍弃主观同行评议声誉打分，全部采用公开第三方硬指标，引发国际高等教育界强烈震动。
 > - **2004–2009 年 — 全球排名军备竞赛的形成**
->   - 英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司迅速推出[[Times Higher Education World University Rankings|世界大学排名]]（THE）以资抗衡；随后莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名等系统相继[[Emergence|涌现]]，开启全球排名竞赛（Rankings Race）。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
+>   - 英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司迅速推出[[Times Higher Education World University Rankings|THE世界大学排名]]以资抗衡；随后莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名等系统相继[[Emergence|涌现]]，开启全球排名竞赛（Rankings Race）。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **2005 年 — 细分校区实证分析与美国顶尖高校垄断地位的确立**
 >   - 2005 年版 ARWU 进一步区分美国多校区公立大学系统，对全球前 500 所大学按学术卓越度进行严谨排位；该版数据显示美国[[Research Universities|研究型大学]]在前 20 强中占据 17 席，成为表征美国二战后科研竞争体制优越性的关键实证依据。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **2009 年至今 — 商业机构化运作与学科细分评价**
@@ -148,7 +149,7 @@ updated: 2026-10-19
 > - **500 所** 2003 年上海交通大学首次发布的世界大学学术排名考察入围院校数量，开创了全球多国高等教育的大规模横向可比位次排序。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **100% 客观指标** 排名评价体系完全剥离主观同行评议打分，全额基于诺奖得主、菲尔兹奖、高被引科学家与顶尖期刊文献计量等第三方硬数据。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **74% 顶尖聚集度** 早期排名前 50 强中美国大学占据 37 席（前 20 强占 17 席），以极端量化位次直观印证了战后美国去中心化科研体制的绝对优势与欧亚体系的结构性赤字。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
-> - **0 席入围** 南欧国家（如西班牙）在榜单前列长期彻底缺席，暴露出均质综合教育体制与地方保护壁垒掩盖下的实质科研赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
+> - **0 席入围** 南欧国家（如西班牙）在榜单前列长期彻底缺席，暴露出均质[[Comprehensive Education|综合教育]]体制与地方保护壁垒掩盖下的实质科研赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-10-19
 > > 排名界关于是否能够以及如何测量高等教育本质质量的长久论战。
 > >
 > > - **极端精英替代论** ARWU 是全球仅有的将校友获奖作为直接考察指标的体系，虽试图直接反映人才培养终端成效，但诺贝尔奖和菲尔兹奖仅能折射极端精英群体的历史成就，与大学日常教育教学质量毫无统计关联。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
-> > - **跨国评估替代方案** [[OECD|经济合作与发展组织]]（OECD）试图通过[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）开发直接测验学生[[Critical Thinking|批判性思维]]与通用能力的工具以修正 ARWU 的缺陷，但因[[Cross-cultural Validity|跨文化效度]]与巨大成本同样陷入制度停滞。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
+> > - **跨国评估替代方案** [[OECD|经济合作与发展组织]]（OECD）试图通过[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）开发直接测验学生[[Critical Thinking|批判性思维]]与[[Generic Skills|通用能力]]的工具以修正 ARWU 的缺陷，但因[[Cross-cultural Validity|跨文化效度]]与巨大成本同样陷入制度停滞。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
 >
 > > [!axis] 科研声誉排序与跨境流动的动机脱节
 > > 跨国流动实践与排名位次之间的结构性背离。
@@ -199,4 +200,4 @@ updated: 2026-10-19
 > | [[National Science Foundation]] | Fact (Organization) | 美国战后科研竞争性资助基石机构；其同行评审模式是造就美国大学在 ARWU 压倒性优势的根源之一。 |
 > | [[Erasmus Programme]] | Fact | 欧盟旗舰[[Student Mobility\|学生流动]]计划；其在南欧的流动流向与 ARWU 学术声誉呈现结构性脱节。 |
 > | [[Bologna Process]] | Fact | 欧洲高等教育区一体化进程；ARWU 排名揭示出对标该进程的南欧大学仍存在深层科研赤字。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织如何通过批评 ARWU 等大学排名过度偏向科研产出而为 AHELO 教学评估确立治理合法性。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析[[OECD\|经合组织]]如何通过批评 ARWU 等大学排名过度偏向科研产出而为 AHELO 教学评估确立治理合法性。 |
