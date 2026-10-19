@@ -7,6 +7,13 @@ summary: "英国爱丁堡大学比较与国际教育荣休教授，国际技术�
 type: person
 nationality: uk
 person_region: "uk"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
+born: "1940"
+died: ""
+lifespan: "1940–至今"
 tags:
   - region/uk
   - field/comparative-education
@@ -16,20 +23,15 @@ tags:
 related_concepts:
   - "[[South-South Cooperation]]"
   - "[[People-to-People Connectivity]]"
-  - "[[Soft Power]]"
 related_theories: []
-related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Comparative Policy Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
-  - "[[Belt and Road Education Action Plan]]"
-  - "[[Asia-Africa Growth Corridor]]"
   - "[[Institute of South-South Cooperation and Development]]"
-  - "[[Luban Workshop]]"
+  - "[[Asia-Africa Growth Corridor]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
@@ -63,7 +65,7 @@ updated: 2026-10-20
 > - **1986–2005** 出任爱丁堡大学非洲研究中心主任，长期主持并编辑 NORRAG 成果简报，推动国际发展组织教育援助政策的跨国批判分析。
 > - **2000年代** 持续追踪中非合作论坛历届部长级会议与峰会的人力资源开发政策演变，拓展比较教育对新兴南南合作力量的研究。
 > - **2013** 出版专著《中国对非洲的援助与软实力：以教育与培训为例》（*China's Aid and Soft Power in Africa: The Case of Education and Training*），系统考察孔子学院、留学生奖学金及对非职业技术培训的政策逻辑与实地效应。
-> - **2020** 在《华东师大教育评论（英文）》（*ECNU Review of Education*）发表专题论文，从政策话语分析与执行机制视角，论证“一带一路”教育行动如何继承并跨大洲拓展了中非合作论坛的人力资源承诺。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 221–234)]]
+> - **2020** 在《华东师大教育评论（英文）》（*ECNU Review of Education*）发表研究，从政策话语分析与执行机制视角，论证“一带一路”教育行动如何继承并跨大洲拓展了中非合作论坛的人力资源承诺。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 221–234)]]
 
 ---
 

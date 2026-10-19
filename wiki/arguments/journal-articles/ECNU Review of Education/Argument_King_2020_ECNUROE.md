@@ -24,8 +24,8 @@ tags:
 related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Discourse]]"
+  - "[[People-to-People Connectivity]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Technology Transfer]]"
   - "[[Student Mobility]]"
   - "[[Classical Geopolitics]]"
@@ -36,13 +36,16 @@ related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Kenneth King]]"
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
+  - "[[Asia-Africa Growth Corridor]]"
   - "[[Confucius Institute]]"
+  - "[[Institute of South-South Cooperation and Development]]"
 related_arguments: []
 sources:
   - "[[sources/King_2020_ECNUROE|King_2020_ECNUROE]]"
@@ -56,7 +59,7 @@ title: "Argument_King_2020_ECNUROE"
 argument_key: "Argument_King_2020_ECNUROE"
 argument_display_title: "China–Africa education cooperation: From FOCAC to Belt and Road"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -76,12 +79,12 @@ issuing_organization: ""
 > 在[[Forum on China-Africa Cooperation|中非合作论坛]]（Forum on China-Africa Cooperation, FOCAC）历经近二十年发展并在约翰内斯堡峰会（2015）与北京峰会（2018）持续扩大人力资源开发指标的背景下，中国于2013年启动并在2016年发布《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》后，跨大洲覆盖的“[[Belt and Road Initiative|一带一路]]”倡议（Belt and Road Initiative, BRI）如何同既有的对非教育合作传统相衔接？其宏大教育蓝图究竟是补充、重叠还是超越了中非合作论坛的承诺？其政策文本如何通过重塑[[South-South Cooperation|南南合作]]（South-South Cooperation, SSC）[[Discourse|话语]]，推动中国对外教育合作由单向奖学金培训向多边能力合作与全方位互联互通拓展？
 
 > [!claim] 核心主张
-> “一带一路”倡议的教育承诺在中非合作论坛既有人力资源传统的基础上实现了显著扩展与质性超越；其政策文本通过构建以民心相通为基石的话语体系，将传统以单向全额奖学金和短期专业培训为主的对非教育支持，重塑为涵盖学历互认、联合实验室、境外职业工坊与双向人员流动的全方位多边能力合作网络，深化了中国在南南合作中的制度塑造力与道义正当性。（pp. 222–223, 228–232）
+> “一带一路”倡议的教育承诺在中非合作论坛既有人力资源传统的基础上实现了显著扩展与质性超越；其政策文本通过构建以[[People-to-People Connectivity|民心相通]]为基石的话语体系，将传统以单向全额奖学金和短期专业培训为主的对非教育支持，重塑为涵盖学历互认、联合实验室、境外职业工坊与双向人员流动的全方位多边能力合作网络，深化了中国在南南合作中的制度塑造力与道义正当性。（pp. 222–223, 228–232）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中非合作论坛第六届（2015）与第七届（2018）峰会行动计划、中国教育部2016年《推进共建“一带一路”教育行动》以及2019年“一带一路”建设进展报告。
 > - **张力** 平等互惠的南南合作双向修辞与实际以单向奖学金培训为主的资源配置之间的张力；泛非层面的宏观指标承诺与务实双边磋商执行机制之间的分工张力；中非合作论坛区域机制与“一带一路”超大陆教育共同体愿景之间的嵌套关系。
-> - **贡献** 首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如中非联合研究中心）以及全方位文明互鉴网络演进的政策逻辑。
+> - **贡献** [[Kenneth King|肯尼斯·金（Kenneth King）]]首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
 
 ---
 
@@ -104,7 +107,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **政策文本话语分析**<br>Discourse Analysis | 对[[Forum on China-Africa Cooperation\|中非合作论坛]]第六届峰会（2015年约翰内斯堡）、第七届峰会（2018年北京）行动计划文本及中国教育部2016年《[[Belt and Road Education Action Plan\|推进共建“一带一路”教育行动]]》进行逐段比对，统计合作、培训、相互、双方同意等关键术语的频次分布，提炼核心主题架构。（pp. 221, 227–229） |
-> | **机制比较与政策追踪**<br>Comparative Policy Analysis | 将中非合作论坛全非宏观承诺对接国别双边磋商的执行机制同印度—非洲论坛峰会（India-Africa Forum Summit, IAFS）及亚非增长走廊（Asia-Africa [[Growth]] Corridor, AAGC）进行横向制度比对；同时跟踪2017至2019年官方进展报告中的实际落地数据（如奖学金投向、[[Luban Workshop\|鲁班工坊]]落地、[[Confucius Institute\|孔子学院]]布局）。（pp. 225, 231–232） |
+> | **机制比较与政策追踪**<br>Comparative Policy Analysis | 将中非合作论坛全非宏观承诺对接国别双边磋商的执行机制同印度—非洲论坛峰会（India-Africa Forum Summit, IAFS）及[[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]进行横向制度比对；同时跟踪2017至2019年官方进展报告中的实际落地数据（如奖学金投向、[[Luban Workshop\|鲁班工坊]]落地、[[Confucius Institute\|孔子学院]]布局）。（pp. 225, 231–232） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -164,8 +167,8 @@ issuing_organization: ""
 > | 政府奖学金配额 | 提供 18,000 个奖学金名额 | 提供 32,000 个奖学金名额 | 提供 50,000 个奖学金名额 | 学历深造资助规模实现每届近乎翻倍的增长。（pp. 224, 226） |
 > | 短期专业技术培训 | 提供 30,000 个赴华培训名额 | 提供 40,000 个赴华培训名额（2至3周业务研修） | 提供 50,000 个研修研讨名额 | 重点面向非洲政府技术官员与公共管理人员。（pp. 224, 226） |
 > | 本土技能人才培养 | 援建少量职业实训中心 | 为非洲本土就地培训 200,000 名职业技术人员 | 在非洲设立 10 所[[Luban Workshop\|鲁班工坊]] | 由宏观指标要求转向高水平技能实训基地常态化建设。（pp. 224, 227） |
-> | 高端管理人才专项 | 启动中非联合研究交流计划 | 提议设立南南合作与发展学院 | 正式建立南南学院，另设 1,000 名高端精英培养专项 | 聚焦国家治理经验互鉴与战略决策人才培养。（pp. 224, 226） |
-> | 专项高校与联合科研 | 推进中非高校20+20合作计划 | 援建 5 所交通大学与 1 所中非航空学校 | 支持中非联合研究中心，资助 150 名硕博生联合攻关 | 对接跨国重大基础设施，拓展生态与新能源联合研究。（pp. 224, 226–227） |
+> | 高端管理人才专项 | 启动中非联合研究交流计划 | 提议设立[[Institute of South-South Cooperation and Development|南南合作与发展学院]] | 正式建立南南学院，另设 1,000 名高端精英培养专项 | 聚焦国家治理经验互鉴与战略决策人才培养。（pp. 224, 226） |
+> | 专项高校与联合科研 | 推进[[20+20 Cooperation Plan for Chinese and African Institutions of Higher Education|中非高校20+20合作计划]] | 援建 5 所交通大学与 1 所中非航空学校 | 支持[[Sino-Africa Joint Research Center|中非联合研究中心]]，资助 150 名硕博生联合攻关 | 对接跨国重大基础设施，拓展生态与新能源联合研究。（pp. 224, 226–227） |
 > | 医疗卫生人才培养 | 派遣常规医疗队 | 援建非洲疾控中心，培训医护与公卫人员 | 实施对非卫生合作，强化疾控中心技术运维支持 | 融入跨国公共卫生应急与医疗协作网络。（pp. 224, 226） |
 > | 媒体与青年人文交流 | 支持中非媒体互访 | 每年培训 1,000 名非洲媒体人员，500 名青年访华 | 纳入丝绸之路国际剧院联盟、博物馆联盟及艺术节网络 | 地方与民间人文交流融入多边文化网络。（pp. 225, 227） |
 > | [[Belt and Road Initiative\|一带一路倡议]]引入 | 文本未曾提及 | 仅提及 1 次（欢迎非洲参与21世纪海上丝绸之路） | 文本数十次高频出现“一带一路”与丝路等专属概念 | 标志着中非论坛框架与“一带一路”倡议形成紧密衔接。（pp. 225–227） |
@@ -180,8 +183,8 @@ issuing_organization: ""
 > > [!lessons]- 案例启示：宏观承诺与微观落地的对接机制
 > > 论坛的落实效能高度依托灵活务实的外事谈判机制，通过将全非总额指标拆解细化，精准对接东道国高教基础设施建设的具体需求。（p. 225）
 
-> [!case] 北京大学南南合作与发展学院与哈拉雷能力建设学院
-> - **机构发起与设立** 2015 年约翰内斯堡峰会提议设立南南合作与发展学院，2016 年该学院在北京大学国家发展研究院正式开办；2018 年北京峰会进一步确认在津巴布韦哈拉雷设立非洲能力建设学院。（pp. 224, 226）
+> [!case] 北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]与哈拉雷能力建设学院
+> - **机构发起与设立** 2015 年约翰内斯堡峰会提议设立[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（Institute of South-South Cooperation and Development, ISSCAD），2016 年该学院在北京大学国家发展研究院正式开办；2018 年北京峰会进一步确认在津巴布韦哈拉雷设立非洲能力建设学院。（pp. 224, 226）
 > - **培养定位与模式** 学院面向非洲及全球南方国家招收政府高级官员、资深外交官与行业领袖，开设发展公共政策硕士与博士学位项目，搭建国家治理与现代化道路深层交流平台。（pp. 224, 226）
 > - **制度化升级** 标志着中非教育合作由通用技能培训升级为国家发展战略经验深层交流的常设制度安排，构建起全球南方高层治理人才培养网络。（pp. 224, 226）
 >
@@ -193,14 +196,14 @@ issuing_organization: ""
 ### 论证步骤二　“一带一路”教育行动超越双边模式，构建跨区域多边合作网络
 
 > [!claim] 步骤二核心主张
-> 中国教育部2016年发布的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》将教育置于民心相通的社会基石地位，构建起覆盖亚非欧三大洲的教育合作框架，在覆盖范围、制度对接和产教结合上全面扩展了中非合作论坛的既有模式。（pp. 228–231）
+> 中国教育部2016年发布的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》将教育置于[[People-to-People Connectivity|民心相通]]的社会基石地位，构建起覆盖亚非欧三大洲的教育合作框架，在覆盖范围、制度对接和产教结合上全面扩展了中非合作论坛的既有模式。（pp. 228–231）
 
-#### 1. 教育合作以民心相通为导向，为跨国经贸与基础设施投资凝聚民意
+#### 1. 教育合作以[[People-to-People Connectivity|民心相通]]为导向，为跨国经贸与基础设施投资凝聚民意
 
 在“一带一路”互联互通布局中，教育不仅是一项独立的对外交流事业，更承担着为基础设施建设、贸易畅通与资金融通培育民意基础的社会纽带功能。
 
 > [!policy-design]- 《推进共建“一带一路”教育行动》顶层架构
-> - **政策目标** 推进区域教育互联互通、搭建民心相通桥梁、深化学历学位互认、共建跨国办学机构，构建一带一路教育共同体。（pp. 228–229）
+> - **政策目标** 推进区域教育互联互通、搭建[[People-to-People Connectivity|民心相通]]桥梁、深化学历学位互认、共建跨国办学机构，构建一带一路教育共同体。（pp. 228–229）
 > - **适用对象** 亚非欧共建国家教育部、高等院校、应用技术大学、职业教育机构、科研院所及青年学者。（p. 229）
 > - **政策工具** 设立丝绸之路中国政府专项奖学金、实施丝路师资与专业联合培训计划、建立高校智库联盟、共建联合实验室与鲁班工坊。（pp. 229–231）
 > - **协同机制** 实施部省共建机制，组织国内各省市与沿线国家缔结友好省份与友好城市，引导企业与社会资金参与多渠道筹资。（p. 231）
@@ -208,7 +211,7 @@ issuing_organization: ""
 国家规划确立了教育合作的基本原则与优先领域，形成了多维立体的推进格局。
 
 > [!dimension] 教育行动计划的四大合作原则
-> - **民心相通维度（People-to-People Dimension）**
+> - **[[People-to-People Connectivity|民心相通]]维度（People-to-People Dimension）**
 >   将人文交流摆在优先位置，通过大规模青年互访、学者研修与智库协同，为长周期跨国重大经济投资筑牢民意根基。（pp. 228–229）
 > - **互学互鉴维度（Mutual Learning Dimension）**
 >   尊重不同文明传统与发展道路选择，提倡在多元文化交往中以互鉴消除隔阂，促进优秀文化成果双向传播。（p. 229）
@@ -276,19 +279,19 @@ issuing_organization: ""
 
 在具体实施机制上，中非合作论坛采取全非宏观承诺与国别双边磋商相结合的推进模式，由中方后续行动委员会同在京非洲使团保持常态对接与进度跟踪。
 
-> [!contrast-table] 中非合作论坛（FOCAC）、“一带一路”倡议（BRI）与亚非增长走廊（AAGC）制度设计对比
-> | 比较维度 | 中非合作论坛（FOCAC） | “一带一路”教育行动（BRI） | 亚非增长走廊（AAGC） |
+> [!contrast-table] 中非合作论坛（FOCAC）、“一带一路”倡议（BRI）与[[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]制度设计对比
+> | 比较维度 | 中非合作论坛（FOCAC） | “一带一路”教育行动（BRI） | [[Asia-Africa Growth Corridor|亚非增长走廊（AAGC）]] |
 > |---|---|---|---|
 > | 发起主体 | 中国与非洲 53 个建交国政府共同发起（p. 222） | 中华人民共和国教育部印发国家战略文件（p. 223） | 印度与日本两国政府于 2017 年 5 月联合倡议（p. 223） |
 > | 地理覆盖 | 聚焦非洲大陆（覆盖 54 个非洲国家及非盟委员会）（p. 223） | 跨区域覆盖亚非欧数十个共建主权国家（p. 223） | 聚焦连接非洲大湖区、印度洋及东南亚的海上走廊（p. 223） |
 > | 文本起草机制 | 中非高官会与非洲驻华使节团深度参与磋商（p. 222） | 中国教育部官方战略规划，面向共建国家开放对接（p. 232） | 仅由印日三国智库闭门起草，非洲完全未参与编制（p. 232） |
 > | 执行与交付机制 | 全非宏观承诺对接国别双边磋商，后续委员会常态督查（p. 225） | 中央顶层统筹、部省共建、高校与企业海外共建实体（pp. 230–231） | 缺乏常态化的政府间执行秘书处与稳定财政落实渠道（p. 232） |
-> | 核心理念与话语 | 南南合作、互利共赢、文明互学互鉴（pp. 222, 231） | 民心相通、共同繁荣、构建教育共同体（pp. 228–229） | 高质量基础设施、自由开放的印度洋—太平洋战略 |
+> | 核心理念与话语 | 南南合作、互利共赢、文明互学互鉴（pp. 222, 231） | [[People-to-People Connectivity|民心相通]]、共同繁荣、构建教育共同体（pp. 228–229） | 高质量基础设施、自由开放的印度洋—太平洋战略 |
 
 对比显示，外部合作倡议能否顺利推开，关键在于受援区域在议程设置中是否拥有充分的主动参与权。
 
-> [!case] 亚非增长走廊（AAGC）的智库封闭性与非洲缺席
-> - **倡议发起与对冲意图** 2017 年 5 月，印度与日本提出亚非增长走廊（AAGC）联合构想，意在非洲大陆提供对冲“一带一路”基础设施与人力开发的替代性方案。（pp. 223, 232）
+> [!case] [[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]的智库封闭性与非洲缺席
+> - **倡议发起与对冲意图** 2017 年 5 月，印度与日本提出[[Asia-Africa Growth Corridor|亚非增长走廊（AAGC）]]联合构想，意在非洲大陆提供对冲“一带一路”基础设施与人力开发的替代性方案。（pp. 223, 232）
 > - **闭门起草与主体缺位** 审视其起草机构结构发现，核心愿景文件完全由三家亚洲智库联合编制：印度发展中国家研究和信息系统中心（Research and Information System for Developing Countries, [[Regional Innovation System|RIS]]）、日本贸易振兴机构亚洲经济研究所（Institute of Developing Economies, Japan External Trade Organization, IDE-JETRO）及东亚东盟经济研究中心（Economic Research Institute for ASEAN and East Asia, ERIA），全流程无任何非洲学者、智库或政府机构实质参与。（pp. 232–233）
 > - **制度反差与实效阻滞** 这种缺乏受援方主体参与的排他性起草模式，同中非合作论坛历经高官会与非洲驻华使团多轮磋商的开放机制形成鲜明反差，导致该倡议在非洲大陆难以取得实质进展。（pp. 223, 233）
 >
@@ -310,7 +313,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **南南互惠[[Discourse|话语]]确立平等合作地位** [[Forum on China-Africa Cooperation|中非合作论坛]]文件系统运用双方同意等对等表述，摒弃传统南北援助的依附关系，在国际交往中确立了非洲国家的发展自主权。（p. 222）
 > 2. **[[Belt and Road Education Action Plan|“一带一路”教育行动]]拓展多边合作网络** “[[Belt and Road Initiative|一带一路]]”教育战略由双边框架拓展为跨区域多边合作，通过推进学分学历互认、师资研修提升及十大重点工程学科联合攻关，构建起全方位教育联通网络。（pp. 228–230）
-> 3. **合作载体由奖学金资助升级为实体产教合作** 教育合作由学生单向流动，深化为以[[Luban Workshop|鲁班工坊]]、南南学院和联合研究中心为代表的实体机构共建，直接服务跨国重大基建与产业运营。（pp. 224–227）
+> 3. **合作载体由奖学金资助升级为实体产教合作** 教育合作由学生单向流动，深化为以[[Luban Workshop|鲁班工坊]]、[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（南南学院）和[[Sino-Africa Joint Research Center|中非联合研究中心]]为代表的实体机构共建，直接服务跨国重大基建与产业运营。（pp. 224–227）
 > 4. **宏观承诺对接双边落实保障了高效执行** 相比将指标全权交由非盟内部再分配的模式，中非合作论坛依托中方后续委员会与常态化双边磋商，展现出强大的政策兑现与落地能力。（p. 225）
 
 > [!stat-cards]- 核心数据
@@ -340,7 +343,7 @@ issuing_organization: ""
 >
 > *As far as evaluating these pledges and action plans is concerned, there is a Chinese Follow-up Committee and this works in conjunction with the Senior Officials' Meeting and representing the corps of African ambassadors in Beijing. Thus, FOCAC is by no means just "symbolism and spin"; there are mechanisms for judging delivery.*
 
-> [!citation-card] 民心相通作为跨国合作的社会根基
+> [!citation-card] [[People-to-People Connectivity|民心相通]]作为跨国合作的社会根基
 > 四年来，民心相通不断深化。国之交在于民相亲，民相亲在于心相通。在“丝路精神”指引下，各参与国共同推进教育与卫生丝绸之路建设，深化科技、教育、文化、卫生与人文交流合作。此类合作不仅筑牢了民意基础，更构成了推进“一带一路”倡议坚实的社会根基。（pp. 228–229）
 >
 > *These four years have seen strengthened people-to-people connectivity. Friendship, which derives from close contact between the people, holds the key to sound state-to-state relations. Guided by the Silk Road spirit, we the Belt and Road Initiative participating countries have pooled our efforts to build the educational Silk Road and the health Silk Road... Such cooperation has helped lay a solid popular and social foundation for pursuing the Belt and Road Initiative.*

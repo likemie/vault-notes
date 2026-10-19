@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_King_2020_ECNUROE.md"
     },
     {
+      "basename": "Asia-Africa Growth Corridor",
+      "path": "wiki/facts/multi/Asia-Africa Growth Corridor.md"
+    },
+    {
       "basename": "Belt and Road Initiative",
       "path": "wiki/facts/china/Belt and Road Initiative.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Cowen_2009_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
-    },
-    {
-      "basename": "Argument_Knudsen_2017_NordSTEP",
-      "path": "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md"
     }
   ],
   "omittedPaths": [],

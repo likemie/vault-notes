@@ -1,0 +1,141 @@
+---
+title: Institute of South-South Cooperation and Development
+aliases:
+  - 南南合作与发展学院
+  - ISSCAD
+  - 南南学院
+summary: "依托北京大学国家发展研究院设立的国家级国际发展办学机构与智库，专门面向全球南方国家培养治国理政精英与高级公共管理人才。"
+type: fact
+subtype: organization
+region: china
+fact_region: "china"
+fact_kind: "organization"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
+org_type: "学术研究与高等教育机构 / 国家智库"
+headquarters: "中国北京（北京大学）"
+established: "2015"
+tags:
+  - fact/organization
+  - region/china
+  - theme/south-south-cooperation
+  - theme/higher-education
+  - theme/development-studies
+  - theme/public-policy
+related_concepts:
+  - "[[South-South Cooperation]]"
+  - "[[People-to-People Connectivity]]"
+related_theories: []
+related_methods: []
+related_instruments: []
+related_persons:
+  - "[[Kenneth King]]"
+related_facts:
+  - "[[Forum on China-Africa Cooperation]]"
+  - "[[Belt and Road Initiative]]"
+related_arguments:
+  - "[[Argument_King_2020_ECNUROE]]"
+confidence: high
+status: draft
+created: 2026-10-20
+updated: 2026-10-20
+---
+
+# Institute of South-South Cooperation and Development
+
+---
+
+## 机构定位与宗旨
+
+> [!claim] 核心定位
+> 南南合作与发展学院（Institute of South-South Cooperation and Development, ISSCAD）由中国政府发起设立、依托北京大学国家发展研究院运行的国家级国际发展教育机构与高端智库，专门面向发展中国家政府部门、学术界及公共机构培养治国理政高端人才，搭建全球南方分享国家治理与现代化发展经验的制度化平台。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+
+> [!org-context] 机构背景
+> - **成立时间 / 创设背景** 2015年9月在联合国成立70周年南南合作圆桌会上正式宣布设立，并在同年12月列入《[[Forum on China-Africa Cooperation|中非合作论坛]]—约翰内斯堡行动计划（2016–2018年）》第4.3.4条，作为深化中非及南南战略合作的标志性实体举措。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
+> - **总部地点 / 业务辐射** 总部位于中国北京（北京大学朗润园与承泽园），生源网络覆盖亚洲、非洲、拉丁美洲以及大洋洲的数十个发展中国家。
+> - **法人属性与经费基础** 依托北京大学实体办学，由中华人民共和国商务部提供全额财政专项奖学金资助，日常教学管理由北京大学国家发展研究院负责承担。
+> - **核心宗旨与法定职责** 秉持平等互学、知行合一宗旨，总结提炼中国与发展中国家的经济转型与社会治理经验，为全球南方培养洞悉现代公共管理与国家发展战略的领导型人才。
+
+---
+
+## 历史沿革与组织演变
+
+> [!dev-timeline] 组织发展历程
+> - **2015 — 倡议提出与多边确认期**
+>   2015年9月在联合国峰会宣布设立，同年12月正式列入中非合作论坛约翰内斯堡峰会行动计划，确立了面向非洲及全球南方培养高端官员的国际定位。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
+> - **2016 — 实体开办与首期招生期**
+>   2016年4月在承载中国改革开放深厚研究积淀的北京大学国家发展研究院正式挂牌成立；同年9月迎来首届来自27个发展中国家的硕士与博士研究生入学。
+> - **2018至今 — 规模型深化学位教育期**
+>   2018年中非合作论坛北京峰会决定在持续扩大奖学金规模的同时，设立1,000个面向全球南方的高层次人才培养配额，并进一步支持南南学院拓展课程体系与校友网络。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+
+---
+
+## 治理架构与运行机制
+
+> [!actor-grid] 组织治理架构
+> - **指导与协调部门** 中华人民共和国商务部对外援助司与国际商务官员研修学院，负责多边宏观政策指导与奖学金经费保障。
+> - **承办与教学机构** 北京大学国家发展研究院，负责设计学术学位课程、配置师资梯队与实施日常教务管理。
+> - **师资与研究梯队** 汇聚中国顶尖的发展经济学、公共政策学与国际政治学学者，同时特聘拥有丰富一线决策经验的退休高官与国际组织专家开展示例教学。
+> - **国际学员网络** 由发展中国家具有副司局级及以上行政职级的资深政策制定者、国企高管与智库主管构成核心学员主体。
+
+> [!pathways]- 业务运行机制
+> - **案例研讨与理论讲授并重** 将新结构经济学等本土创新理论同国际公共管理前沿课程结合，围绕经济特区、招商引资与产业政策开展深度课堂剖析。
+> - **实地考察与政策复盘** 定期组织学员赴深圳、浙江、江苏等中国经济改革先行区与重点产业集群开展现场田野调研，直观复盘中国基层治理与工业化演进经验。
+> - **长效智库对话与校友联络** 建立南南合作年度发展论坛与全球校友网络，为毕业回国的各国高级官员提供持续的政策咨询与多边智库交流渠道。
+
+---
+
+## 核心业务与旗舰产出
+
+> [!finding-cards] 核心产品与业务矩阵
+> - **公共管理硕士学位项目（MPA）** 学制一至二年，采用全英文教学，重点讲授公共政策分析、国家发展战略规划与全球化治理工具。
+> - **国家发展理论经济学博士学位项目（PhD）** 学制三年，面向具有深厚政策经验的学者型高官，聚焦跨国比较视野下的工业化转型与发展财政制度研究。
+> - **治国理政专题短期研修班** 面向全球南方国家副部级及以上重要领导人，围绕特定改革议题（如减贫脱贫、数字化治理）开展高规格闭门研讨。
+> - **南南发展案例库与系列研究报告** 系统梳理全球南方国家经济发展的成功案例与政策教训，出版自主编纂的国别研究集刊与智库政策简报。
+
+> [!citation-card] 合作范式的制度化深化
+> 2015年中非合作论坛约翰内斯堡峰会提议设立南南合作与发展学院，2016年该学院在北京大学正式开办；2018年北京峰会进一步巩固了其作为面向全球南方培养高端战略人才的常设制度平台地位。这标志着对非教育合作跳出了零散的短期职业技术培训，将合作重心提升至发展中国家治国理政经验与现代化道路的深层互学互鉴。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+>
+> *The 2015 Johannesburg FOCAC Summit proposed the establishment of an Institute of South-South Cooperation and Development, which was formally launched at Peking University in 2016; the 2018 Beijing Summit consolidated its status as a permanent institutional platform for cultivating high-level strategic leaders across the Global South. This signifies that educational cooperation with Africa shifted beyond fragmented short-term vocational training, elevating its focus toward deep mutual learning on state governance experiences and modernization pathways.*
+
+---
+
+## 影响与体系成效
+
+> [!indicators]- 影响力维度与指标
+> - **培养层级与国别覆盖** 毕业学员在东道国晋升为副部长、常务秘书、央行高管或驻外大使的比例及所属国家分布广度。
+> - **治理经验共享深度** 学员毕业调研成果与政策建言中将中国实践转化为契合本国现实方案的采纳转化率。
+> - **南南多边网络活跃度** 历届校友在联合国南南合作办公室（UNOSSC）等多边外事场合协同发声的频次。
+
+> [!finding-cards] 关键成效与辐射影响
+> - **对非教育合作层次的历史性提升** 金（[[Kenneth King]]）指出，南南学院的创立打破了传统对外援助仅局限于普通本专科学历资助或基层工匠短训的刻板边界，将合作阵地直接推向发展中国家的核心决策大脑。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **自主发展知识生产与国际传播** 依托北京大学深厚的学科积淀，学院成功构建了一套不同于华盛顿共识的发展政策话语，为全球南方探索独立自主的发展道路提供了系统的知识参照体系。
+> - **跨国战略互信与民心相通的深层纽带** 培育了一大批深刻理解中国改革开放逻辑、认同[[South-South Cooperation|南南合作]]平权理念的国际青年治理领袖，构成了跨国重大经贸与产能投资最坚实的社会精英桥梁。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
+
+---
+
+## 争议、批评与反思
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 中国发展经验的可移植性与情境适应争议
+> > 国际发展学界围绕发展中国家能否以及如何在本土情境中消化吸收中国式现代化经验展开探讨。
+> >
+> > - **制度独特性与情境阻滞质疑** 批评者指出，中国的经济奇迹高度依赖强有力的中央政治统筹、庞大的国内单一市场以及特定历史红利，发展中国家若忽视本国部落宗族政治、多党竞争制约及脆弱财政结构而盲目效仿特区开发，容易遭遇严重的制度排异反应。
+> > - **南南学院的方法论辩护** 学院学者强调教学不提供标准处方或教条式现成答案，重点在于启发学员以发展经济学第一性原理审视本国要素禀赋结构，通过因地制宜选择比较优势产业，实现自主发展路径的创造性转化。
+
+---
+
+## 相关条目网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[South-South Cooperation]] | Concept | 学院立项与学术人才培养所遵循的根本思想范式与合作框架。 |
+> | [[People-to-People Connectivity]] | Concept | 学院在战略决策精英层面奠定互信与制度认同的核心构念。 |
+> | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 宣布设立南南学院并持续提供多边指标与高端生源依托的重要平台。 |
+> | [[Belt and Road Initiative]] | Fact (Policy) | 学院人才培养与智库成果深度服务的高质量跨国共建网络。 |
+> | [[Kenneth King]] | Person | 将南南学院作为对非合作向治理经验互学深化典型案例进行论证的比较教育学者。 |

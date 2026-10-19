@@ -10328,6 +10328,16 @@
     ]
   },
   {
+    "title": "People-to-People Connectivity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/People-to-People Connectivity.md",
+    "aliases": [
+      "民心相通",
+      "People-to-People Bonds",
+      "人文互联互通"
+    ]
+  },
+  {
     "title": "Philanthrocapitalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md",
@@ -25288,6 +25298,15 @@
     ]
   },
   {
+    "title": "Kenneth King",
+    "type": "person",
+    "path": "wiki/persons/uk/Kenneth King.md",
+    "aliases": [
+      "King, K.",
+      "肯尼斯·金"
+    ]
+  },
+  {
     "title": "Kimberly Ochs",
     "type": "person",
     "path": "wiki/persons/uk/Kimberly Ochs.md",
@@ -28811,6 +28830,16 @@
     ]
   },
   {
+    "title": "Institute of South-South Cooperation and Development",
+    "type": "fact",
+    "path": "wiki/facts/china/Institute of South-South Cooperation and Development.md",
+    "aliases": [
+      "南南合作与发展学院",
+      "ISSCAD",
+      "南南学院"
+    ]
+  },
+  {
     "title": "National Natural Science Foundation of China",
     "type": "fact",
     "path": "wiki/facts/china/National Natural Science Foundation of China.md",
@@ -28821,6 +28850,15 @@
       "自然科学基金委",
       "NSFC",
       "National Natural Science Foundation of China, NSFC"
+    ]
+  },
+  {
+    "title": "Sino-Africa Joint Research Center",
+    "type": "fact",
+    "path": "wiki/facts/china/Sino-Africa Joint Research Center.md",
+    "aliases": [
+      "中非联合研究中心",
+      "SAJOREC"
     ]
   },
   {
@@ -29026,6 +29064,16 @@
       "17+1合作",
       "China-CEEC Cooperation",
       "Cooperation between China and Central and Eastern European Countries"
+    ]
+  },
+  {
+    "title": "20+20 Cooperation Plan for Chinese and African Institutions of Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/china/20+20 Cooperation Plan for Chinese and African Institutions of Higher Education.md",
+    "aliases": [
+      "中非高校20+20合作计划",
+      "中非高校20加20合作计划",
+      "China-Africa 20+20 Cooperation Plan"
     ]
   },
   {
@@ -31737,6 +31785,15 @@
       "瑞士创新政策体系",
       "Swiss Innovation Policy",
       "瑞士创新体系"
+    ]
+  },
+  {
+    "title": "Asia-Africa Growth Corridor",
+    "type": "fact",
+    "path": "wiki/facts/multi/Asia-Africa Growth Corridor.md",
+    "aliases": [
+      "亚非增长走廊",
+      "AAGC"
     ]
   },
   {
