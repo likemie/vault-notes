@@ -1,6 +1,7 @@
 ---
 citation: "Legrand, T. (2012). Overseas and over here: policy transfer and evidence-based policy-making. Policy Studies, 33(4), 329–348. https://doi.org/10.1080/01442872.2012.695945"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Legrand_2012_PolStud]]"
 processed_date: 2026-10-19
 ---
 

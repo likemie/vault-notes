@@ -194,5 +194,6 @@ updated: 2026-10-16
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
 
 ---

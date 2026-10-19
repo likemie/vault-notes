@@ -110,3 +110,5 @@ updated: 2026-10-19
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 揭示[[OECD|经合组织]]在 [[PISA]] 试题研制中推行微观任务规范的硬转移，以及在 [[OECD AHELO Project|AHELO]] 通用技能测评中直接照搬美国 [[Collegiate Learning Assessment|CLA]] 测验所引发的跨文化技术挫折。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 论证跨国政策转移不仅限于政策理念，更涵盖评估工具与操作规程的硬转移；揭示英国就业与养老金部如何全套吸纳美国以随机分配为代表的实验评估技术，并直接跨国聘用美方智库实施本土实验。
+
