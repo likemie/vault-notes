@@ -28545,6 +28545,17 @@
     ]
   },
   {
+    "title": "Fudan University Budapest Campus",
+    "type": "fact",
+    "path": "wiki/facts/china/Fudan University Budapest Campus.md",
+    "aliases": [
+      "复旦大学布达佩斯分校",
+      "复旦大学布达佩斯分校事件",
+      "复旦大学匈牙利分校",
+      "Fudan Budapest Campus"
+    ]
+  },
+  {
     "title": "Great Firewall of China",
     "type": "fact",
     "path": "wiki/facts/china/Great Firewall of China.md",
@@ -28856,6 +28867,18 @@
     ]
   },
   {
+    "title": "17+1 Cooperation",
+    "type": "fact",
+    "path": "wiki/facts/china/17+1 Cooperation.md",
+    "aliases": [
+      "中国—中东欧国家合作",
+      "16+1合作",
+      "17+1合作",
+      "China-CEEC Cooperation",
+      "Cooperation between China and Central and Eastern European Countries"
+    ]
+  },
+  {
     "title": "Autonomous Drone Swarms",
     "type": "fact",
     "path": "wiki/facts/china/Autonomous Drone Swarms.md",
@@ -28898,6 +28921,17 @@
     "aliases": [
       "鲁班工坊",
       "Luban Workshops"
+    ]
+  },
+  {
+    "title": "Study in China",
+    "type": "fact",
+    "path": "wiki/facts/china/Study in China.md",
+    "aliases": [
+      "留学中国",
+      "留学中国计划",
+      "打造“留学中国”品牌",
+      "Study in China Plan"
     ]
   },
   {
@@ -30700,6 +30734,17 @@
       "国际早期学习和儿童福祉研究",
       "国际早期学习与儿童福祉研究",
       "幼儿版国际学生评估项目"
+    ]
+  },
+  {
+    "title": "Build Back Better World",
+    "type": "fact",
+    "path": "wiki/facts/global/Build Back Better World.md",
+    "aliases": [
+      "重建更美好世界倡议",
+      "重建更美好世界",
+      "B3W",
+      "Build Back Better World Partnership"
     ]
   },
   {
