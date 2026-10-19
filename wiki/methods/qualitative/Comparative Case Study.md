@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Comparative Case Study
@@ -117,56 +117,62 @@ updated: 2026-10-19
 
 > [!method-stack] 方法层级
 > - **研究设计** 多地点多标度比较案例设计（Multi-sited, Multi-scalar Comparative Design）。
-> - **数据收集** 跨国/国家/地方多级政策文本、多地点[[Fieldwork|田野调查]]、关键知情人[[Semi-structured Interview|半结构化访谈]]、历史档案与国际评价数据。
+> - **数据收集** 跨国、国家与地方多级政策文本、多地点[[Fieldwork|田野调查]]、关键知情人[[Semi-structured Interview|半结构化访谈]]、历史档案与国际评价数据。
 > - **分析方法** 三维轴向协同编码、跨尺度网络流动追踪、跨地点对比矩阵分析、历时制度生成追踪。
 > - **辅助技术** [[Pluri-Scalar Governance|多标度治理]]矩阵表、[[Policy Mobility|政策流动]]轨迹可视化图、历时变迁事件年表。
 
 ---
 
-## 三维分析轴体系
+## 研究程序
 
-> [!contrast-table] 比较[[Case Study|案例研究]]（CCS）的三维分析轴体系
+> [!proc] 通用程序
+> 1. **界定“案例生成”（Casing）** 明确拟解释的复杂教育或政策现象，打破单一行政边界设定，识别涉及的核心空间尺度与制度节点。
+> 2. **水平选点与连接性考量** 遴选两个或多个具有内在社会连接与对比价值的实地场景，建立跨地点的田野进入路径。
+> 3. **垂直跨尺度资料搜集与追踪** 从超国家规制顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的田野观察与访谈。
+> 4. **嵌入横贯历史脉络** 收集历史档案与政策沿革材料，明确案例现象所处的历史发展阶段与宏观结构变迁。
+> 5. **三轴协同综合分析与撰写** 在分析具体政策事实时，同时保持跨地点对比、跨尺度穿透与历时追溯的审视，揭示全球与本土辩证互动的深层机制。
+
+### 质性方法模块
+
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 跨国与国家级政策法规文本、国际组织备忘录、组织章程、关键知情人访谈、学校实地田野观察笔记与历史档案。 |
+> | 抽样或选案 | 理论抽样、多地点连接抽样、最大变异案例或代表性多边治理网络。 |
+> | 研究者位置 | 兼具宏观政治经济学洞察与微观反思性的跨尺度追踪者；秉持兼顾全球规范与本土能动的“双重视野”。 |
+> | 资料边界 | 明确案例的空间尺度范围（全球/区域/国家/微观）、制度管辖边界与历史追溯断代区间。 |
+
+> [!contrast-table]- 比较案例研究（CCS）的三维分析轴体系
 > | 分析轴向 | 比较与考察重点 | 核心操作逻辑 | 典型研究示例 |
 > |---|---|---|---|
-> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；几内亚、美、法三国阅读教学比较（Anderson-Levitt, 2003） |
+> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；一带一路沿线丝路大学联盟与亚洲大学联盟比较（[[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1698–1702]]） |
 > | **垂直轴（Vertical Axis）** | 跨越微观、中观与宏观多个尺度考察[[Policy Mobility\|政策流动]]与权力博弈 | 同时关注自上而下的政策渗透与自下而上的协商抵抗，解构[[Pluri-Scalar Governance\|多标度治理]]下的权力损耗 | 追踪国际指标从世行/联合国，经国家教育部、地方学区到课堂教学的层层转译（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]]） |
 > | **横贯轴（Transversal Axis）** | 历时性追溯现象的历史起源、宏观冲击与长期演化轨迹 | 将当前实践嵌入历史政治经济脉络，考察关键事件（冷战终结、金融危机）对体制的重塑 | 追溯 1990–2018 年间全球金融危机与地缘格局对教育枢纽政策变迁的影响（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 204]]） |
 
----
-
-## 研究程序
-
-> [!proc] CCS 的三轴协同研究程序
-> 1. **界定“案例生成”（Casing）** 明确拟解释的复杂教育或政策现象，打破单一行政边界设定，识别涉及的核心空间尺度与制度节点。
-> 2. **水平选点与连接性考量** 遴选两个或多个具有内在社会连接与对比价值的实地场景，建立跨地点的田野进入路径。
-> 3. **垂直跨尺度资料搜集与追踪** 从超国家规制（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]、[[World Bank|世界银行]]方案）顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的[[Qualitative Observation|田野观察]]与访谈。
-> 4. **嵌入横贯历史脉络** 收集历史档案与政策沿革材料，明确案例现象所处的历史发展阶段与宏观结构变迁。
-> 5. **三轴协同综合分析与撰写** 在分析每一具体政策事实时，同时保持跨地点对比、跨尺度穿透与历时追溯的“同时性”审视，揭示全球与本土辩证互动的深层机制。
+> [!proc] 质性分析程序
+> 1. **初读与多源材料建库** 整理多尺度政策、档案与访谈文本，按空间尺度与时间节点建立结构化比较案例数据库。
+> 2. **三维轴向协同编码** 展开水平轴（地点间差异与连接）、垂直轴（多尺度权力穿透与转译）、横贯轴（历史脉络与长期演进）的三轴编码。
+> 3. **跨案例对比矩阵与模式匹配** 建立跨案例维度对照表，提炼制度设计异同与深层机制。
+> 4. **三角互证与可信度审计** 综合政策文本、访谈实录与制度行动记录实施证据链核查，确保跨尺度叙事与实证材料高度融贯。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**
->   - 分析**边界模糊、多尺度交织**的现象——如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规制在地方的转化。
->   - 考察**全球与本土辩证互动**——当研究旨在揭示全球同质化[[Discourse|话语]]如何在微观学校遭遇变通、抵制与重构时（如 Arnove 2009 评述的多国比较案例）。
->   - 跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。
-> - **谨慎使用**
->   - 仅依赖二手政策文本作为单一数据来源的研究，极易退化为案头[[Documentary Analysis|文献分析]]，无法充分激活多尺度与田野互证的优势（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp. 212–213]]）。
->   - 时间与经费高度受限、无法维持多地点深度田野的项目。
-> - **不适合使用**
->   - 寻求严密控制混杂[[Variable|变量]]以测量特定单一干预净效应的微观[[Experimental Research|实验研究]]。
->   - 要求进行大样本无偏统计概率推论的量化普查。
+> - **适合使用** 适合分析边界模糊、多尺度交织的现象（如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、多边大学联盟、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规制在地方的转化），考察全球同质化[[Discourse|话语]]在微观学校遭遇变通、抵制与重构的全球本土辩证互动，以及跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1699)]]
+> - **谨慎使用** 仅依赖二手政策文本作为单一数据来源的研究，极易退化为案头[[Documentary Analysis|文献分析]]，无法充分激活多尺度与田野互证的优势；时间与经费高度受限、无法维持多地点深度田野或多源档案获取的研究项目需审慎评估。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
+> - **不适合使用** 寻求严密控制混杂[[Variable|变量]]以测量特定单一干预净效应的微观[[Experimental Research|实验研究]]，以及要求进行大样本无偏统计概率推论的量化普查。
 
 ---
 
-## 局限性与操作挑战
+## 局限性
 
 > [!method-limits] 方法局限
-> - **广度与深度的张力** 要求研究者同时在水平、垂直与横贯三个维度展开深挖，极易因线索过于繁杂而分散精力，导致分析过于宏大宽泛而削弱微观[[Rich and Thick Description|深描]]的质感。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
+> - **偏误来源与深度张力** 要求研究者同时在水平、垂直与横贯三个维度展开深挖，极易因线索过于繁杂而分散精力，导致分析过于宏大宽泛而削弱微观[[Rich and Thick Description|深描]]的质感。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
 > - **三轴“同时性”的实践困境** 在真实分析流程中，研究者受认知负荷限制往往在某一阶段重点突出某一个轴向（如横贯历史轴或水平对比轴），三轴完全等权的同时性更多作为一种理想指导准则。
 > - **跨国田野协调的高壁垒** 多地点[[Fieldwork|实地调查]]需要协调不同国家的语言、文化、制度准入与伦理审批，对团队跨国协作与资源保障提出了极高要求。
+> - **误用风险与补救方式** 警惕将 CCS 降格为孤立平行的国别案例并列；补救方式是严格坚持水平连接性与垂直穿透性的机制追踪，并引入结构化矩阵与档案三角互证。
 
 ---
 
@@ -186,7 +192,7 @@ updated: 2026-10-19
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与地缘政治对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
@@ -194,4 +200,4 @@ updated: 2026-10-19
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、[[JESSI]] 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]早期阶段，通过档案挖掘与多[[Scale in Higher Education|尺度分析]]揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
-- [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局（pp. 1698–1699）。

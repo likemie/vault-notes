@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 59
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,9 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[Policy Conditionalities]]"
   - "[[Policy Network]]"
+  - "[[Epistemic Governance]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Knowledge Power]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -80,10 +83,11 @@ related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Analytic Framework
@@ -138,7 +142,7 @@ updated: 2026-10-19
 > 4. **概念饱和度与[[Reflexivity|反思性]]检验** 检验框架各维度是否获得充分支撑，避免削足适履式生搬硬套。
 > 5. **构建结构性综合论断** 输出分析矩阵与理论机制解释图。
 
-### 质性与跨案例分析模块
+### 质性方法模块
 
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
@@ -148,15 +152,7 @@ updated: 2026-10-19
 > | 研究者位置 | 明确理论预设立场与反身性，避免将框架作为教条强加于资料。 |
 > | 资料边界 | 明确案例的时空范围、历史制度断代与资料纳入排除准则。 |
 
-> [!proc] 质性框架编码程序
-> 1. **初读与分段清洗** 熟悉一手材料，标注与[[Central Question|核心研究问题]]相关的关键事件与表述。
-> 2. **维度映射** 将经验文本投射至分析框架预设的核心维度（如权力分配、财政流向、意识形态表征）。
-> 3. **变异度与反常案例分析** 识别无法被既有框架直接吸收的异常资料，对原有框架的边界进行反思或扩充。
-> 4. **跨案例横向综合** 比较不同案例在同一分析维度上的异同，提炼出超越单一案例的宏观解释逻辑。
-
-### 常见分析框架类型与操作矩阵
-
-> [!contrast-table] 质性微观传统与宏观比较分析框架对照（综合自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] 及比较教育文献）
+> [!contrast-table]- 质性微观传统与宏观比较分析框架对照（综合自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] 及比较教育文献）
 > | 框架类型 | 核心分析操作 | 适用[[Research Question\|研究问题]] | 代表学者与经典来源 |
 > |---|---|---|---|
 > | **[[Narrative Research\|叙事研究]]框架** | 借助情节、场景、转折与高潮等时间结构重述行动者生命史 | 个体职业认同、教育经历的生命史意义建构 | Clandinin and Connelly (2000) |
@@ -168,6 +164,13 @@ updated: 2026-10-19
 > | **[[Educational Privatisation\|教育私有化]]与[[Network Governance\|网络治理]]综合框架** | 整合内[[Exogenous Privatisation\|外生私有化]]双轨（Ball & Youdell）、治理四维形态（市场/科层/网络/部族）、政策话语转型与多源纵向财务审计，追踪私营资本渗透全链条 | 解构新自由主义福利国家转型中公共服务外包、政策制定权转移与双层法人避税机制 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 1–25)]] |
 > | **政策转移两阶段分析框架** | 将跨国政策借用拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合循证政策制定机会结构解构外来方案的筛选与落地机制 | 解释跨国政策流动如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
 > | **四维批判性政策分析框架** | 融合费尔克拉夫批判话语分析三维模型、政策框架化（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡批判实在论解释性批判 | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘硬实力配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
+> | **天下启发式双轨分析框架** | 融合天下秩序观（关系性互联与和而不同）与批判性[[Epistemic Governance\|知识治理]]，区分大众开放网络与精英排他联盟，解析知识权力与知识外交的互补机制 | 解构新兴大国如何通过多轨大学联盟超越西方“霸权对抗与务实合作”二元论 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024, pp. 1699–1704)]] |
+
+> [!proc] 质性分析程序
+> 1. **初读与分段清洗** 熟悉一手材料，标注与[[Central Question|核心研究问题]]相关的关键事件与表述。
+> 2. **维度映射** 将经验文本投射至分析框架预设的核心维度（如权力分配、财政流向、意识形态表征）。
+> 3. **变异度与反常案例分析** 识别无法被既有框架直接吸收的异常资料，对原有框架的边界进行反思或扩充。
+> 4. **跨案例横向综合** 比较不同案例在同一分析维度上的异同，提炼出超越单一案例的宏观解释逻辑。
 
 ---
 
@@ -185,7 +188,7 @@ updated: 2026-10-19
 > [!method-limits] 方法局限
 > - **理论削足适履风险（Procrustean Bed）** 研究者容易过度筛选吻合框架的数据，忽略或裁剪反常材料。
 > - **确认偏差（Confirmation Bias）** 框架选定后易强化先验偏见，削弱对参与者主体意图的倾听。
-> - **补救机制** 必须引入反向证据检索（[[Negative Case Analysis]]）、设立[[Open Coding|开放编码]]对照组、实施跨研究者同伴核验。
+> - **误用风险与补救方式** 必须引入反向证据检索（[[Negative Case Analysis]]）、设立[[Open Coding|开放编码]]对照组、实施跨研究者同伴核验。
 
 ---
 
@@ -199,6 +202,7 @@ updated: 2026-10-19
 > | [[Beech's Model of Discourse Circulation]] | 理论原型 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特流动空间理论构建的五位置话语流通分析框架。 |
 > | [[Conditioned State Theory]] | 理论构件 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
 > | [[State Corporatism]] | 理论构件 | 为国家控制教育利益集团的制度分析提供框架构件。 |
+> | [[Epistemic Governance]] | 概念透镜 | 为分析框架提供解构知识外交与知识权力共生运作的治理机制。 |
 > | [[Descriptive Methods]] | 基础方法 | 分析框架叠加于描述性方法之上，前者提供理论进阶解释，后者提供事实基础。 |
 > | [[Coding in Qualitative Research]] | 操作技术 | 分析框架通过先验定向编码落实到具体文本分析中。 |
 
@@ -215,5 +219,4 @@ updated: 2026-10-19
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的隐性私有化与[[Policy Network|政策网络]]拓扑。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与循证政策制定机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国随机分配评估技术的动力机制（pp. 333–336）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合批判话语分析、政策框架化、政策三维视角及解释性批判的四维分析框架，系统解构中国“一带一路”跨国高教政策的深层因果机制（pp. 680–687）。
-
----
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合天下启发式秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。

@@ -7,14 +7,14 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 87
+method_related_count: 88
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
 tags:
-- case-study
-- qualitative-research
-- methodology
+  - case-study
+  - qualitative-research
+  - methodology
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Research Question]]"
@@ -100,6 +100,7 @@ related_arguments:
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -109,155 +110,110 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: 2026-10-16
+created: 2026-05-08
+updated: 2026-10-20
 ---
+
 # Case Study
+
+---
 
 ## 定义
 
 > [!def] 方法定义
-> 个案研究（Case Study）是一种广泛使用的[[Qualitative Research\|质性研究]]设计。研究者对一个案例（通常是一个项目、事件、活动、过程或一个或多个个体）进行深度分析。案例受时间和地点的限定，研究者通过多种数据收集程序在持续的时间段内收集详细信息（Stake, 1995; Yin, 2009, 2012, 2014）。
->
-> 与其他质性设计相比，个案研究的特点在于以案例为[[Unit of Analysis\|分析单位]]——案例可以是个体、群体、组织、项目或事件——通过对受时空限定的个案进行深度多源分析来理解该个案本身的复杂性或揭示更大的理论问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch1, Ch9]]）。Creswell & Creswell（2022, Ch9）将案例研究归入五种主要[[Analytic Framework\|分析框架]]之一，建议[[Sample Size Determination\|样本量]]为约四至五个案例。
+> 个案研究（Case Study）是一种在真实自然情境中对受时空限定的系统（bounded system）展开全面、深入考察的[[Qualitative Research|质性研究]]设计（Stake, 1995; Yin, 2009, 2014）。案例可以是个体、群体、组织、项目、事件或决策过程。研究者依托多元资料来源，通过过程追踪与机制分析揭示现象本身的复杂性或检验宏观理论问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1, Ch. 9)]]; [[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 6)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 一个受时空限定的案例：个体、群体、组织、项目、事件或过程
-> - **问题类型** 适合探究如何（how）和为什么（why）类[[Research Question\|研究问题]]——需要理解因果机制而非仅判定相关关系
-> - **分析单位** 案例本身（可包含多个子分析单位），不是样本中的个体
-> - **输出形式** 叙事报告、主题分析、跨案例比较、理论建构
-
-> [!feature] 核心特征：[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]]的六项特点与 Hitchcock and Hughes（1995）的七项标志
-> - **整体性** 解释研究对象的整体现象，[[Variable\|变量]]难以控制分离表现出综合性。Hitchcock & Hughes 补充：最终报告要描绘案例的丰富和饱满（Hitchcock & Hughes, 1995）
-> - **深入性与丰富描述** 个案数量少，能对现象的动态过程和机制展开深入细致研究；关注与案例相关的事件，提供生动而非干瘪的叙述（Hitchcock & Hughes, 1995）
-> - **多重功能性** 可建构和检验理论，也可探索、描述与解释现象。融合对事件的描述与分析，不只描述发生了什么，还分析为什么发生（Hitchcock & Hughes, 1995）
-> - **研究的自然性，研究者深度卷入** 不对变量进行控制，在自然情境下展开研究；研究者不是中立的旁观者，其人格和判断会影响研究（Hitchcock & Hughes, 1995）
-> - **资料来源与收集方法的多样性** 从多种渠道、运用多种方式收集资料，通过数据之间形成[[Chain of Evidence\|证据链]]以实现整体性
-> - **时间叙事** 按时间顺序讲述事件，让读者看到事情如何一步步展开（Hitchcock & Hughes, 1995）
-> - **聚焦行动者及其感知** 关注具体的人（个体或群体），理解他们如何看待和体验事件（Hitchcock & Hughes, 1995）
-> - **突出关键事件** 从大量材料中筛出真正重要的特定事件，不是面面俱到（Hitchcock & Hughes, 1995）
-> - **经验性** 研究前需要建立[[Hypothesis\|研究假设]]，根据假设收集经验数据以检验假设，但结论常包含情绪和主观成分
-
-## 方法定位
-
-> [!method-position] [[Epistemology\|认识论]]定位
-> - **知识观** 个案研究不追求统计代表性的普遍化，但追求在地方性知识基础上以小见大。Yin（2009）提出复制逻辑推广到更广泛的理论；Stake（1995）则提出[[Naturalistic Generalization\|自然主义概括]]——推广的责任从研究者转移到读者（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 215]]）
-> - **研究者角色** 研究者在个案中深度卷入，其人格和判断会影响研究（Hitchcock & Hughes, 1995）。不同于实验者操控[[Variable\|变量]]或调查者询问标准化问题，个案研究者通过长期驻留和深度互动获取理解
-> - **有效性标准** [[Construct Validity\|建构效度]]、[[Internal Validity\|内部效度]]（因果解释性研究）、[[External Validity\|外部效度]]、并发效度（[[Triangulation\|三角验证]]）、[[Ecological Validity\|生态效度]]、[[Reliability\|信度]]（复制性和[[Internal Consistency\|内部一致性]]）、避免偏误（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14]]）
-> - **不声称回答的问题** 不能进行统计推广（从样本到总体）；不能替代[[Experimental Research\|实验研究]]进行精确的因果估计
-
-> [!method-stack] 方法层级
-> - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）
-> - **数据收集** 访谈、观察、文件与档案记录（包括公共财务报表、信托注册契约与公司股权登记）、实物、[[Questionnaire|问卷]]等（Yin 六类证据来源）
-> - **分析方法** 主题分析、跨案例分析、模式匹配、制度与财务[[Audit Trail|审计追踪]]、时间序列分析、[[Grounded Theory|扎根理论]]、编码
-> - **辅助技术** 个案研究数据库、[[Chain of Evidence\|证据链]]、[[Triangulation\|三角验证]]、受访者验证、[[Reflexivity\|反身性]]
+> - **研究对象** 受时空限定的具体案例：个体经历、教育项目、学校场域、制度创新、政策执行事件或跨国组织网络。
+> - **问题类型** 适合回答“如何发生”（how）与“为何发生”（why）等机制解释与动态过程问题，探究复杂社会系统中结构与能动性的互动。
+> - **[[Unit of Analysis|分析单位]]** 案例本身或案例内嵌的子分析单位（如组织、部门、群体），而非大样本统计中的离散个体。
+> - **输出形式** 情境叙事、主题分类矩阵、跨案例模式匹配图、因果机制解释链与理论命题深化。
 
 > [!citation-card] 米特论国别个案研究中的比较视野与容器突破
-> 尽管 20 世纪欧洲比较教育的学术产出绝大部分表现为对单一外国教育体系的深度国别个案研究，但这些研究绝非封闭孤立的区域描摹，其深层始终被比较视野所浸润；并在殖民扩张与去殖民分化、冷战东西欧阵营冲突以及宏观经验社会学比较三大路径上，实现了对单一民族国家分析容器的突破。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 94–95)]]
+> 20 世纪欧洲比较教育的大量学术产出表现为对单一外国教育体系的深度国别个案研究；这些研究深层始终被比较视野所浸润，超越了封闭孤立的区域描摹，并在殖民扩张与去殖民分化、冷战东西欧阵营冲突以及宏观经验社会学比较三大路径上，突破了单一民族国家的分析容器。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–95)]]
 >
 > *Although the scientific output has been largely dominated by in-depth country case studies of individual foreign education systems, these studies were permeated by comparative visions...*
 
 ---
 
-### 质量检验标准
+## 方法定位
 
-齐梅 (2015, Ch.6) 基于 Yin 的框架提出四项标准：
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 追求地方性知识的深入洞察与以小见大。推广逻辑区分为两种取向：殷（Yin, 2009）主张遵循实验复制原则实现“[[Analytic Generalization|分析性概括]]”（将发现提升为理论命题）；斯塔克（Stake, 1995）则提出“[[Naturalistic Generalization|自然主义概括]]”，强调通过提供详实经验深描，由读者依据自身经验完成情境迁移。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
+> - **研究者角色** 深度卷入的实地探究者与对话者，在自然未受控情境下长期驻留，依靠主观专业判断理解行动者体验，并保持[[Reflexivity|反思性]]以校正潜在偏见。
+> - **有效性标准** [[Construct Validity|建构效度]]（多元证据互证与证据链构建）、[[Internal Validity|内部效度]]（建立因果逻辑并排除竞争性解释）、[[External Validity|外部效度]]（分析性推广至理论体系）与[[Reliability|信度]]（研究草案与案例数据库规范化）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch. 14)]]
+> - **不声称回答的问题** 不能直接用于大样本统计总体的概率推论，亦不能替代控制实验进行精确变量因果[[Effect Size|效应量]]测算。
 
-> [!feature] 个案研究的质量检验
-> - **[[Construct Validity\|建构效度]]** 对研究概念形成正确可操作的测量，需确定[[Variable\|变量]]变异水平、筛选反映变异的案例、采用多元证据来源并进行核实
-> - **[[Internal Validity\|内在效度]]** 仅适用于因果解释性案例研究。包括理论解释与数据的吻合程度，以及排除竞争性解释的程度
-> - **外在效度** 研究结论的推广性程度，即能否推广到更多案例之中
-> - **[[Reliability\|信度]]** 研究数据的可靠性程度。主要通过三角测量策略来提高，建立案例研究草案和数据库也有利于提高信度
+> [!method-stack] 方法层级
+> - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）。
+> - **数据收集** [[Qualitative Interview|深度访谈]]、参与与非参与观察、政策法规与机构档案（包括财务报表、章程公文）、实物与开放式[[Questionnaire|问卷]]。
+> - **分析方法** 个案内深描、跨案例主题编码、模式匹配、制度与财务[[Audit Trail|审计追踪]]、事件时间序列分析。
+> - **辅助技术** 案例研究数据库、[[Chain of Evidence|证据链]]、多源[[Triangulation|三角验证]]、[[Member Checking|成员检查]]与反思性备忘录。
 
 ---
+
 ## 研究程序
 
-> [!proc] Creswell 式案例研究的标准程序
-> 1. **界定案例** 明确案例的时间、地点和边界——案例必须受时空限定（bounded by time and activity）
-> 2. **详描场所或个体** 在数据分析之前或之中，对案例所在场所或研究对象进行详细描述
-> 3. **多源数据收集** 使用多种数据来源（访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials\|视听材料]]）在持续的时间段内收集详细信息
-> 4. **主题分析** 在详细描述的基础上，对数据进行分析以提取主题或议题（Stake, 1995; Wolcott, 1994）
-> 5. **跨案例分析** （多案例设计）先进行个案内分析，再进行跨案例分析，识别跨案例的模式和主题
-> 6. **结果呈现** 以叙事形式呈现，可包含关于每个参与者的描述性信息表格（如案例研究和[[Ethnography\|民族志]]中常见），以及跨案例的主题讨论
+> [!proc] 通用程序
+> 1. **明确研究问题与理论命题** 界定探究“如何”（how）与“为何”（why）的核心问题，形成初步理论假设或解释框架（Yin, 2009, p. 27）。
+> 2. **划定案例边界与设计类型** 明确案例的时空范围，选定单案例或多案例、整体性或嵌入性分析架构。
+> 3. **编制研究方案并收集多源资料** 制订案例研究草案，运用访谈、观察、文件与档案多渠道收集数据，维护证据链完整性。
+> 4. **展开个案内与跨案例分析** 形成翔实案例叙事，对比理论预期与经验模式，系统排查竞争性解释。
+> 5. **撰写报告并实施质量检验** 呈现厚描述与理论机制分析，通过成员检查与外部审计增强解释可信度。
 
-> [!note] [[Sample Size Determination\|样本量]]建议
-> Creswell & Creswell（2022, Ch9）给出了各质性设计的粗略样本量估计：[[Narrative Research\|叙事研究]] 1-2 人、[[Phenomenology\|现象学]] 3-10 人、[[Grounded Theory\|扎根理论]] 20-30 人、民族志一个文化群体、**案例研究约 4-5 个案例**。案例研究的样本量指的是案例数量而非参与者数量——每个案例内部可能包含多名参与者。多案例设计通过复制逻辑增强[[Analytic Generalization\|分析性推广]]的可[[Reliability\|信度]]。
+### 质性方法模块
 
----
-### Yin的设计五要素
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | [[Semi-structured Interview\|半结构化访谈]]、现场观察笔记、政策白皮书、机构章程、财务报表与历史档案（Yin 六类证据来源）。 |
+> | 抽样或选案 | 目的抽样与[[Theoretical Sampling\|理论抽样]]；涵盖关键案例、极端案例、代表性案例或启示性案例；多案例通常建议选取 4–5 个案例以满足理论复制（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。 |
+> | 研究者位置 | 深度沉浸的观察者与倾听者；明确自身学术背景与价值取向，在资料处理中保持中立反思。 |
+> | 资料边界 | 明确案例的时空跨度、制度管辖范围与核心行动者边界（bounded system）。 |
 
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, pp. 287–288)]]总结了Yin（2009, p. 27）提出的个案研究设计的五项构成要素：
-
-> [!proc] Yin（2009, p. 27）的设计五要素
-> 1. **个案研究的问题** 个案研究在回答如何和为什么类问题时特别有力。问题越具体，个案研究就越可能保持在轨道上且在限定范围内（Yin, 2009, p. 29）
-> 2. **个案研究的命题** （如有）待检验的假设
-> 3. **个案研究的[[Unit of Analysis\|分析单位]]** 界定什么构成案例——可包括个体、群体、社区、组织、项目、创新、决策及其后果、产业、经济体等。Yin（2009, p. 32）建议分析单位应是具体的（真实生活现象）而非抽象的。Verschuren（2003, p. 126）的示例：对单个企业抽取 500 名员工不构成个案研究而是调查，因为分析单位是个体而非组织
-> 4. **连接数据与命题的逻辑** 数据将如何被分析——寻找模式、解释、事件分析、跨地点和跨案例分析（Yin, 2009, p. 34）
-> 5. **解释发现的标准** 包括明确说明所给解释为何优于竞争性解释
-
-Yin（2009, p. 35）补充：理论生成应包含在个案研究的研究设计阶段，有助于聚焦个案研究，理论可涉及个体、群体、组织、社区、社会的行为。
-
-
-## 类型
-
-依据不同标准，案例研究可分为多种分类体系（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.6]]）：
-
-> [!ref-table] 案例研究的综合分类体系
-> | 分类标准 | 学者 | 类型 |
-> |---|---|---|
-> | 哲学基础 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 规范性：回答应该是什么<br>实证性：通过经验知识检验理论 |
-> | 研究产出/目的 | Yin（1984） | 探索性：作为试点生成假设<br>描述性：提供叙事叙述<br>解释性：检验理论，回答如何和为什么 |
-> | | Merriam（1988） | 描述性：叙事叙述<br>解释性：归纳发展概念类别<br>评价性：解释和判断 |
-> | 研究动机 | Stake（1994） | 本质性：为理解特定案例本身<br>工具性：通过案例洞察议题或理论<br>集合性：成组研究获得更完整画面 |
-> | 方法论传统 | Sturman（1999） | 民族志个案研究：单一深度研究<br>行动研究个案研究<br>评价性个案研究<br>教育个案研究 |
-> | 分析对象 | Robson（2002） | 个体个案研究<br>一组个体个案研究<br>社会群体研究<br>组织和机构研究<br>事件/角色/关系研究 |
-> | 案例数量 | 齐梅 | 单案例研究：需典型性或极端性<br>多案例研究：比较性，遵循复制原则 |
-> | 案例层级 | 齐梅 | 整体性：仅研究案例整体层面<br>嵌入性：包含多个分析单位层级 |
-> | 理论贡献 | Lijphart | 非理论型 / 解释性 / 产生假设 / 理论证实 / 理论[[Falsification\|证伪]] / 偏离常规（后两类理论价值最大） |
-
----
-### Yin（2009, pp. 46ff.）的四种研究设计类型
-
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]详述了Yin提出的四种设计类型，区分单案例与多案例、整体性与嵌入性两个维度：
-
-> [!contrast-table] Yin的四种设计类型
+> [!contrast-table]- Yin（2009）的四种案例研究设计类型
 > | 设计类型 | [[Unit of Analysis\|分析单位]] | 典型场景 | 风险与注意事项 |
 > |---|---|---|---|
-> | 单案例设计 | 单一整体案例 | 关键案例、极端案例、独特案例、代表性/典型案例、启示性案例、纵向案例 | 把所有鸡蛋放在一个篮子里——全有或全无的风险（Yin, 2009, pp. 46ff.） |
-> | 嵌入式单案例设计 | 一个主案例 + 多个子分析单位（班级、教师、学生等） | 整所学校作为案例，同时检查班级、教师、学生和家长等子单位 | 子单位需要不同数据收集工具，设计复杂度高 |
-> | 多案例设计 | 多个独立案例，用于比较或复制 | 比较性个案研究；准实验情境中对比不同条件下的效果 | Campbell（1975, p. 180）认为两个案例用于比较目的，其价值超过单案例数据量翻倍 |
-> | 嵌入式多案例设计 | 多个案例，每个包含子单位 | 跨地点比较，每地点包含多个子单位和多种工具 | 每个案例的数据和子单位需保持独立分析 |
+> | **单案例设计** | 单一整体案例 | 关键案例、极端案例、独特案例、代表性/典型案例、启示性案例、纵向案例 | 存在“把所有鸡蛋放在一个篮子里”的全有或全无风险（Yin, 2009, pp. 46ff.） |
+> | **嵌入式单案例设计** | 一个主案例 + 多个子分析单位（班级、教师、学生等） | 整所学校作为案例，同时检查班级、教师、学生和家长等子单位 | 子单位需要不同数据收集工具，设计与跨层级整合复杂度高 |
+> | **多案例设计** | 多个独立案例，用于比较或复制 | 比较性个案研究；准实验情境中对比不同条件下的机制展开（Campbell, 1975） | 需遵循理论复制或逐项复制逻辑，平衡案例异同与共性模式提炼 |
+> | **嵌入式多案例设计** | 多个案例，每个包含子单位 | 跨地点多机构比较，每地点包含多个子分析单位与多源工具 | 每个案例的数据和子单位需先保持独立分析，再展开跨案例综合 |
 
-Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好处（复制、避免被批评为独特单一案例）。在考虑多案例研究时，需决定需要多少个案例——通常[[Research Question|研究问题]]越微妙，可能需要越多案例（Yin, 2009, p. 58），以排除竞争性解释（pp. 284–285）。
+> [!ref-table]- 案例研究的综合分类体系
+> | 分类标准 | 学者 | 类型划分 |
+> |---|---|---|
+> | 哲学基础 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 规范性案例研究（探究应该是什么）；实证性案例研究（通过经验材料检验理论） |
+> | 研究目的 | Yin (1984) | 探索性（作为试点生成假设）；描述性（提供详实叙事）；解释性（检验理论，回答因果机制） |
+> | 研究动机 | Stake (1994) | 本质性（关注特定案例本身）；工具性（通过案例洞察普遍议题或理论）；集合性（成组研究获得完整图景） |
+> | 案例层级 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 整体性案例研究（关注组织整体层面）；嵌入性案例研究（穿透组织内部多个子单位） |
+> | 理论贡献 | Lijphart (1971) | 非理论型、解释性、产生假设型、理论证实型、理论[[Falsification\|证伪]]型、偏离常规型 |
+
+> [!proc] 质性分析程序
+> 1. **资料转录与数据库构建** 整理录音、手记与文件，统一建立包含时间、来源与情境元数据的案例研究数据库。
+> 2. **个案内部深度分析** 梳理时间线索与因果链条，提炼案例关键事件与本土行动者范畴。
+> 3. **跨案例模式匹配** （多案例设计）比对不同案例在核心制度维度上的异同，结合先验命题展开模式检验。
+> 4. **三角互证与竞争解释检验** 交叉验证不同来源证据，主动寻找相悖案例，排除替代性竞争假说。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 探究如何（how）和为什么（why）类[[Research Question\|研究问题]]——需要理解因果机制而非仅判定相关关系；在已有关联性证据但缺乏过程理解的领域进行机制性探索；研究复杂社会过程中结构与能动性的互动
-> - **谨慎使用** 需要大样本统计推广的研究；时间资源极度受限的短期项目；高度敏感且无法进入现场的研究场景
-> - **不适合使用** 需要精确[[Causality\|因果关系]]估计的[[Experimental Research\|实验研究]]；仅需描述总体分布频率的调查
+> - **适合使用** 适合探究如何（how）和为什么（why）类[[Research Question|研究问题]]，尤其适用于需要揭示因果机制、制度演化与微观能动性互动的复杂社会情境，以及在已有关联性证据但缺乏过程理解的领域开展深度机制探索。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1699)]]; [[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]
+> - **谨慎使用** 需要大样本统计推论的研究、时间与经费极度受限的短期项目，以及高度封闭且无法建立持续现场互动的研究对象需审慎采用。
+> - **不适合使用** 寻求严密控制外生[[Variable|变量]]以量化特定单一干预净效应的微观[[Experimental Research|实验研究]]，以及仅需描述宏观总体参数分布的横截面统计调查。
 
 ---
-## 优势与局限
 
-> [!evidence-grid] 多位学者的优势汇总
-> - **现实感强，情境真实** 个案研究数据贴近现实、接地气，与读者自身经验协调；在真实场景中收集数据，支撑结论有效性（Adelman et al., 1980; Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **研究对象广阔，可推广** 从小到微观个体、大到民族国家均可研究；允许从实例到类别的推广，关注案例的微妙性和复杂性（Adelman et al., 1980）
-> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire\|问卷]]、文献等可混合使用，可与实证研究和解释学研究互补
-> - **结果更易被广泛受众理解** 常用日常、非专业语言书写，立即清晰易懂（Nisbet & Watt, 1984）
-> - **识别社会真理的复杂性和嵌入性** 呈现参与者观点之间的差异或冲突，最好的个案研究能为替代解释提供支持（Adelman et al., 1980）
-> - **形成可再解释的档案，捕捉独特特征** 作为产品可形成足够丰富的描述性材料档案；捕捉大规模数据中可能丢失的独特特征（Adelman et al., 1980; Nisbet & Watt, 1984）
-> - **通向行动的步骤，结论有针对性** 开始于行动世界，见解可直接用于人员发展、机构反馈、[[Formative Assessment\|形成性评价]]和政策制定；深入详细了解个案具有解决问题的借鉴价值（Adelman et al., 1980）
-> - **更公开可及，可由单人承担** 语言和形式不那么深奥，能服务多重受众；不需要完整研究团队，灵活接纳未预期事件和未控制[[Variable\|变量]]（Adelman et al., 1980; Nisbet & Watt, 1984）
+## 局限性
 
-> [!method-limits] 综合弱点与操作风险
-> - **推广性受限** 结果可能不可推广，除非其他读者看到其应用；分析式归纳受主观因素影响（Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **偏误风险与技术局限** 不易接受[[Cross-checking\|交叉检查]]，自报可能有偏误，依赖个体记忆，无标准化方法，弹性大（Nisbet & Watt, 1984; Shaughnessy et al., 2003, pp. 290–299）
-> - **选择与推断混合，报告冗长** 阅读个案研究时选择过程已发生，知识与推断难以分离；深入性和主观性导致报告篇幅过大（Dyer, 1995, pp. 48–52）
-> - **缺乏控制，耗时费力** 处理很少被系统控制却同时应用，外部变量难以控制，[[Causality\|因果推断]]困难；各环节均需密集劳动投入（Shaughnessy et al., 2003, pp. 290–299）
-> - **五项应避免的操作问题** 新闻主义（挑轰动特征扭曲叙述）、选择性报告（只选支持结论的证据）、轶事风格（低层次插图取代深度分析）、浮夸（从低层次数据推深刻理论）、平淡（只接受受访者观点，回避分歧）（Nisbet & Watt, 1984, p. 91）
+> [!method-limits] 方法局限
+> - **偏误来源与主观性** 依赖个体自述与回忆易产生回忆偏误；研究者深度卷入与分析式归纳易受先验偏见影响，选择过程与经验推断不易完全分离。
+> - **适用边界与推广约束** 缺乏统计代表性，分析性推广依赖理论逻辑自洽与读者经验共鸣；难以控制外部混杂变量，[[Causality|因果推断]]必须依赖严密的竞争性假说排除。
+> - **误用风险与操作偏差** 警惕五大常见操作偏差（Nisbet & Watt, 1984）：新闻主义（挑选轰动特征扭曲全貌）、选择性报告（仅展示支持先验命题的证据）、轶事风格（以零散插图取代机制分析）、浮夸推论（从低层次琐碎数据得出宏大理论结论）、平淡叙述（回避受访者冲突而丧失批判性）。
+> - **补救方式** 建立规范的案例研究规程与数据库；引入多源[[Triangulation|三角互证]]与受访者核验；主动寻找反向证据（negative cases）并系统排查替代性竞争解释。
+
+---
 
 ## 相关理论与方法
 
@@ -265,37 +221,39 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Phenomenology]] | 理论 | 现象学为个案研究提供关注个体生活经验的[[Epistemology\|认识论]]基础 |
-> | [[Ethnography]] | 方法 | 民族志个案研究是重要的子类型，以文化描述为特色 |
-> | [[Grounded Theory]] | 方法 | 扎根理论个案研究从数据中归纳理论，与个案研究的深度分析互补 |
-> | [[Theoretical Sampling]] | 方法 | 理论抽样是多案例设计中选取后续案例的核心策略 |
-> | [[Participant Observation]] | 方法 | 许多个案研究的核心数据收集方法 |
-> | [[Non-participant Observation]] | 方法 | 结构化个案研究中使用非参与观察获取量化数据 |
-> | [[Qualitative Interview]] | 方法 | 个案研究中获取参与者视角的主要手段 |
-> | [[Documentary Analysis]] | 方法 | 个案研究中六类证据来源之一 |
-> | [[Field Notes]] | 方法 | 个案研究中观察记录的基础载体 |
-> | [[Member Checking]] | 方法 | 个案研究中验证草稿解释准确性的策略 |
-> | [[Triangulation]] | 方法 | 个案研究质量保障的核心手段之一 |
-> | [[Analytic Generalization]] | 概念 | 个案研究的推广逻辑——从案例到理论 |
-> | [[Chain of Evidence]] | 概念 | 个案研究中连接数据、分析、结论的可追踪路径 |
+> | [[Phenomenology]] | 理论 | 现象学为个案研究提供关注个体生活经验的[[Epistemology\|认识论]]基础。 |
+> | [[Ethnography]] | 方法 | 民族志个案研究是重要的子类型，以深度文化描摹为特色。 |
+> | [[Grounded Theory]] | 方法 | 扎根理论个案研究从数据中归纳理论，与个案研究的深度分析互补。 |
+> | [[Theoretical Sampling]] | 方法 | 理论抽样是多案例设计中选取后续案例的核心策略。 |
+> | [[Participant Observation]] | 方法 | 许多个案研究的核心数据收集方法。 |
+> | [[Non-participant Observation]] | 方法 | 结构化个案研究中使用非参与观察获取行为数据。 |
+> | [[Qualitative Interview]] | 方法 | 个案研究中获取参与者主观视角的主要手段。 |
+> | [[Documentary Analysis]] | 方法 | 个案研究中六类证据来源之一。 |
+> | [[Field Notes]] | 方法 | 个案研究中观察记录的基础载体。 |
+> | [[Member Checking]] | 方法 | 个案研究中验证草稿解释准确性的策略。 |
+> | [[Triangulation]] | 方法 | 个案研究质量保障与证据链建构的核心手段之一。 |
+> | [[Analytic Generalization]] | 概念 | 个案研究的推广逻辑：从具体案例推升至普遍理论命题。 |
+> | [[Chain of Evidence]] | 概念 | 个案研究中连接数据、分析与结论的可追踪路径。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 剖析 20 世纪比较教育中深度国别个案研究（in-depth country case studies）的比较视野浸润与跨国容器突破。 |
 
 ---
+
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与[[Theoretical Sampling\|理论抽样]]分两阶段选取 62 名个案，用以检视叙述[[Reliability\|可靠性]]并确证意向与行为的关联。
-> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education\|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability\|考试问责]]压力下推进 LCE 的路径差异
-> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations\|大科学装置]]本土化四个切面案例
-> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking\|批判性思维]]教学模式
-> - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme\|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge\|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 以 [[Education Endowment Foundation\|EEF]] 为单一案例，从内部视角剖析其推动学校大规模 [[Randomised Controlled Trials\|RCT]] 的制度设计、独立评估与[[Implementation and Process Evaluation\|IPE]]演进。
-> - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview\|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑运作机制。
-> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义教育券私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，[[Rich and Thick Description|深描]][[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
-> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的[[Unit of Analysis|分析单元]]容器。
-> - [[Argument_Schnee_1978_RP\|Schnee (1978)]] — 以[[Comparative Case Study|比较案例研究]]对比 1950–1970 年代美国半导体与计算机产业，说明空间与国防项目如何经由研发资助、确定需求、新企业准入与人才流动推动产业增长。
-> - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 以 [[DARPA]] MTO 1992–2008 年资助的 4 项半导体材料为分析单元，结合访谈、专利与观察，解析项目经理如何以[[Embedded Network Governance|嵌入型网络治理]]引导[[Technological Trajectories|技术轨道]]。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与[[Theoretical Sampling|理论抽样]]分两阶段选取 62 名个案，用以检视叙述[[Reliability|可靠性]]并确证意向与行为的关联。
+> - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异。
+> - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]]本土化四个切面案例。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式。
+> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 以 [[Education Endowment Foundation|EEF]] 为单一案例，从内部视角剖析其推动学校大规模 [[Randomised Controlled Trials|RCT]] 的制度设计、独立评估与[[Implementation and Process Evaluation|IPE]]演进。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure|数据基础设施]]的拓扑运作机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义教育券私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，[[Rich and Thick Description|深描]][[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的[[Unit of Analysis|分析单元]]容器。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 以[[Comparative Case Study|比较案例研究]]对比 1950–1970 年代美国半导体与计算机产业，说明空间与国防项目如何经由研发资助、确定需求、新企业准入与人才流动推动产业增长。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以 [[DARPA]] MTO 1992–2008 年资助的 4 项半导体材料为分析单元，结合访谈、专利与观察，解析项目经理如何以[[Embedded Network Governance|嵌入型网络治理]]引导[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用单机构案例研究设计，结合参与描述性统计与开放式[[Questionnaire|问卷]]主题分析，深度追踪美国一所大型[[Research Universities|研究型大学]]面向《[[CHIPS and Science Act|芯片与科学法案]]》战略需求开展的系列学者发展工作坊演进过程与行动者参与体验。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 采用单机构嵌入式定性案例研究（Case Study）设计，结合[[Semi-structured Interview|半结构化访谈]]与机构历史档案分析，深入解构美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为会员制[[Precompetitive Research|前竞争研发]]联合体在连接产业需求、高校基础科研与联邦资助中的治理机制、人才管道建设与跨领域经验迁移边界。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用[[Reflexivity|反思性]]实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向[[Steering at a Distance|远距离操纵]]演进的制度历程。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“一带一路”框架下丝绸之路大学联盟与亚洲大学联盟在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
