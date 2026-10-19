@@ -1,13 +1,13 @@
 {
   "version": 1,
   "root": "/Users/shaoyangwu/Documents/MyNotes",
-  "created": "2026-10-19T01:22:04.137229+00:00",
+  "created": "2026-10-19T04:34:54.663097+00:00",
   "argument": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
   "argument_hash": "22995df3c88ce68c7af9bf5b6ce297dfaba0757d199d7970705c5649e03c68d7",
   "batches": [
     {
       "number": 1,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -61,12 +61,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:22:14.979897+00:00"
+      ]
     },
     {
       "number": 2,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -119,12 +118,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:22:33.563411+00:00"
+      ]
     },
     {
       "number": 3,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -171,12 +169,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:22:43.209838+00:00"
+      ]
     },
     {
       "number": 4,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -194,12 +191,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:22:52.833683+00:00"
+      ]
     },
     {
       "number": 5,
-      "status": "done",
+      "status": "pending",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -232,12 +228,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:23:05.062765+00:00"
+      ]
     },
     {
       "number": 6,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -289,12 +284,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:23:19.912292+00:00"
+      ]
     },
     {
       "number": 7,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -342,12 +336,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:23:40.294658+00:00"
+      ]
     },
     {
       "number": 8,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -380,12 +373,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:26:02.132455+00:00"
+      ]
     },
     {
       "number": 9,
-      "status": "done",
+      "status": "pending",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -403,12 +395,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:27:09.995099+00:00"
+      ]
     },
     {
       "number": 10,
-      "status": "done",
+      "status": "pending",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -427,12 +418,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:29:05.002150+00:00"
+      ]
     },
     {
       "number": 11,
-      "status": "done",
+      "status": "pending",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -479,8 +469,7 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T01:29:44.705408+00:00"
+      ]
     }
   ]
 }
