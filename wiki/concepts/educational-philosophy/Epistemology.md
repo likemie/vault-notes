@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 75
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -98,11 +98,12 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Epistemology
@@ -156,6 +157,7 @@ updated: 2026-10-19
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
 > - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
+> - **非西方关系性认识论与天下框架（Relational Epistemology & Tianxia Heuristic）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与知识外交中的不对称权力互动提供了超越二元对立的认识论透镜。
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -272,6 +274,7 @@ updated: 2026-10-19
 > - **2000年代 — 批判认识论反抗与解构19世纪社会科学前提** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）提出[[World-Systems Theory|世界体系分析]]是对欺骗性认识论的智识反抗，主张超越 19 世纪[[Disciplinary Institutionalization|学科建制]]的分裂与[[Value Neutrality|价值中立]]假象，将追求真理与追求正义社会统一于批判认识论方案。
 > - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合巴伯（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
+> - **2024年 — 非西方关系认识论拓展与全球治理知识反思** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 依托“天下”本体与认识论框架（Tianxia heuristic），提出突破主客二元对立与西方中心主义的非西方关系性认识论，论证全球知识体系中的等级制秩序与多中心网络化赋权能够在关系共生中并存，拓展了比较教育与全球知识治理的认识论视域。
 
 ---
 
@@ -313,11 +316,12 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 从认知发展与教育心理学视角，将认识论[[Operationalization|操作化]]为个体心智中的“[[Epistemological Understanding|认识论理解]]”，实证揭示了主客观协调的演进机制与[[Domain Specificity|领域特殊性]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于[[World-Systems Theory|世界体系分析]]作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与[[Empiricism|唯方法论主义]]弊端，以期刊计量数据诊断学科面临的[[Historical Amnesia|历史健忘症]]危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从存在论与认识论的边界出发批判可见学习范式，强调认识论关乎关于某物的认知条件，不能替代或降维还原先于科学的人类存在论根基，警告教育科学莫将动态生命成长狭隘简化为实证分数或效应量指标（pp. 4–5）。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 将认识论视角拓展至公共政策与比较治理领域，实证揭示国家决策层对“证据本位”的认识论追求如何构成偏向实证强国的政策学习机会结构，阐明认识论取向对跨国政策转移与评估技术硬转移的驱动机制（pp. 344–345）。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（Tianxia heuristic），以关系性思维解构全球知识权力结构，揭示等级制集中与多边平权网络并存的跨国高等教育治理图景（pp. 1703–1705）。
 

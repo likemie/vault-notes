@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,10 +50,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Greene_2010_JEP]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Ontology
@@ -102,6 +103,7 @@ updated: 2026-10-18
 > - **动态[[Emergence\|涌现]]的复杂实在（Emergent Reality）** [[Complexity Theory\|复杂性理论]]确立社会实在处于永恒生成之中，呈现非线性、自组织与不可还原的系统共生属性（Kuhn, 2007）。
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 > - **具身存在的现象学本体论（Embodied Process Ontology）** 现象学与身体哲学强调，人作为“身处世界之身体中的大脑”（brain-in-the-body-in-the-world）处于向生活世界敞开的动态生成过程之中，拒绝被还原为孤立的客体实体或可测量的认知公分母[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–6)]]。
+> - **空间治理与关系共生的开放本体论（Open Ontology of Spatial Governance / Tianxia）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1704)]] 引入非西方天下观的开放空间本体论。天下本体论将世界视作无外部边界的有机共生整体，将跨国空间治理建构为动态包容、层级与网络并存的演进秩序，超越威斯特伐利亚主权国家实体绝对二分的封闭设定，为理解跨国高等教育区域化与全球知识流动提供了全新的本体基础。
 
 > [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid
@@ -136,7 +138,7 @@ updated: 2026-10-18
 
 ---
 
-### 命题一　本体论预设决定社会实在的存在方式并规约认识论进路
+### 命题一　本体论预设决定社会实在的存在方式并界定认识论进路
 
 > [!concept-lens] 实在性质对探究进路的刚性约束
 > 探讨社会现象的客观硬质性假设与主观建构假设如何决定科学探究的方向。
@@ -185,6 +187,7 @@ updated: 2026-10-18
 > - **1970年代 — 组织实在观念论革命** Greenfield（1975）以观念论颠覆组织实在论，确立教育组织为行动者主观发明的社会实在。
 > - **2010年代 — 认知心理学转向** 被引入教育心理学与学习科学，剥离出独立的“本体论认知”（Ontological Cognition）维度，揭示学习者关于知识属性分类的[[Domain Specificity\|领域特殊性]]心智演进（[[Argument_Greene_2010_JEP\|Greene et al., 2010]]）。
 > - **当代前沿 — [[Complexity Theory\|复杂性理论]]动态[[Emergence\|涌现]]** 复杂适应系统（[[Chinese Academy of Sciences|CAS]]）彻底解构机械静态实在观，确立实在具有动态生成、自组织临界与非线性共生属性（Kuhn, 2007）。
+> - **2024年 — 非西方开放空间本体论拓展** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 将非西方“天下”哲学引入全球高等教育与知识权力分析，提出超越主权国家领土实体二元对立的开放空间本体论（open spatial ontology），确立多边共生与网络互嵌的全球秩序本体图景。
 
 ---
 
@@ -209,8 +212,9 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism\|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm\|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与现象学划分经验认识论与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”概念构建开放空间本体论，超越主权国家领土二元对立，为解释跨国高等教育枢纽与知识网络治理提供全新的本体论支撑（pp. 1703–1705）。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -55,10 +55,11 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Tacit Knowledge
@@ -82,7 +83,7 @@ updated: 2026-10-16
 
 > [!boundary]- 概念边界
 > - 不等于编码知识（Codified Knowledge） — 编码知识是以文字、数字、图表或代码形式客观记录的公共信息，能够以极低边际成本进行远程复制和传输；默会知识则依附于活生生的实践主体。
-> - 不等于纯粹神秘直觉 — 默会知识并非不可认识的唯心玄想，它具备严密的实践逻辑和神经认知基础，能够通过长期试错、观察模仿以及[[Apprenticeship|师徒制]]度在特定情境中被有效习得。
+> - 不等于纯粹神秘直觉 — 默会知识具备严密的实践逻辑与神经认知基础，能够通过长期试错、观察模仿以及[[Apprenticeship|师徒制]]度在特定情境中被有效习得，具有现实可认识性。
 > - 不等于程序性知识的机械执行 — 自动化条件反射不具备[[Reflexivity|反思性]]，而高阶默会知识包含根据不确定情境灵活调动策略的“反思性实践”。
 
 ---
@@ -106,6 +107,7 @@ updated: 2026-10-16
 > - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
+> - **全球知识治理与地缘政治动员中的隐性知识（Tacit Knowledge in Global Governance & Knowledge Power）** 在跨国高等教育与知识外交中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性知识资本以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 
@@ -141,8 +143,8 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对价值反转命题** | 信息技术普及导致编码知识贬值，默会学习能力跃升为核心资产 | 知识经济演进与后工业劳动力市场变革 | Foray & Lundvall; Rizvi & Lingard |
-> | **具身实践获取命题** | 默会知识无法脱离身体与实践情境，必须依托浸润式经验习得 | 课堂教学法改革、职业教育与科研[[Apprenticeship\|学徒制]] | Polanyi; Nonaka |
+> | **相对价值反转** | 信息技术普及导致编码知识贬值，默会学习能力转变为核心经济资产 | 知识经济演进与后工业劳动力市场变革 | Foray & Lundvall; Rizvi & Lingard |
+> | **具身实践获取** | 默会知识无法脱离身体与实践情境，必须依托浸润式经验习得 | 课堂教学法改革、职业教育与科研[[Apprenticeship\|学徒制]] | Polanyi; Nonaka |
 
 ---
 
@@ -153,6 +155,7 @@ updated: 2026-10-16
 > - **1990 年代初 — 管理学与组织学习扩展** 野中郁次郎（Ikujiro Nonaka）等学者提出著名的 SECI 模型，将默会知识与显性知识的相互转化确立为企业知识创造与创新的核心机制。
 > - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
+> - **2020年代 — 向全球知识治理与地缘战略动员的扩展** 知识外交与高等教育地缘政治学者将隐性知识引入跨国知识权力分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 
@@ -181,3 +184,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与知识外交分析中，揭示非正式网络规范与制度性隐性知识在全球知识权力配置与跨国政策动员中的关键中介作用。

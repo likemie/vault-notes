@@ -14,5 +14,15 @@
       "sentence": "Given a choice between market democracy and its freedoms and market authoritarianism and its high Growth, stability, improved living standards, and limits on expression—a majority in the developing world and many middle-sized, non-western powers prefer the authoritarian model.*",
       "target": "wiki/concepts/educational-philosophy/Growth.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md": [
+    {
+      "sentence": "采用溯因推理进路，在归纳实证事实与演绎理论概念之间往复对话，先检验现有概念对案例的解释力，进而基于经验张力提炼网络中心性常态化假说与天下透镜。",
+      "target": "wiki/concepts/research-methodology/Retroduction.md"
+    },
+    {
+      "sentence": "**方法启示** 展示了探索性比较案例研究与溯因推理在透视宏大跨国教育倡议中的应用价值，通过对多边联盟组织章程、治理架构与活动清单的深度制度分析提炼理论假说。",
+      "target": "wiki/concepts/research-methodology/Retroduction.md"
+    }
   ]
 }
