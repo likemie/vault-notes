@@ -23,6 +23,8 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
+  - "[[Welfare-to-Work]]"
+  - "[[Methodology Transfer]]"
   - "[[Output-Oriented Governance]]"
   - "[[Epistemology]]"
   - "[[Hard Policy Transfer]]"
@@ -44,10 +46,13 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Employment Retention and Advancement]]"
+  - "[[Modernising Government]]"
   - "[[The Green Book]]"
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[MDRC]]"
 related_arguments: []
 sources:
   - "[[sources/Legrand_2012_PolStud|Legrand_2012_PolStud]]"
@@ -61,7 +66,7 @@ title: "Argument_Legrand_2012_PolStud"
 argument_key: "Argument_Legrand_2012_PolStud"
 argument_display_title: "Overseas and over here: policy transfer and evidence-based policy-making"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -81,10 +86,10 @@ issuing_organization: ""
 > 为什么政策行动者会主动跨国吸纳特定国家的政策经验？既有政策转移（Policy Transfer）框架多将跨国借鉴归因于外部制度强制、全球化竞争压力或政党意识形态亲和，未能充分解释在缺乏外部强制的情境下，战略行动者为何倾向于选择特定国家而非其他同质国家的微观动力机制；同时，在转移客体层次（即转移什么）上，既有文献往往局限于政策[[Discourse|话语]]、价值理念与方案法律文本，忽视了量化评价技术与实证研究规程在跨国[[Policy Mobility|政策流动]]中所承担的关键载体功能。（pp. 329–331）
 
 > [!claim] 核心主张
-> 英国新工党政府推行的[[Evidence-Based Policy-Making|证据本位政策制定]]（Evidence-Based Policy-Making, EBPM）与何者有效（What Works）[[Paradigm|范式]]，不仅构成了其从美国借用福利到工作（Welfare-to-Work）方案的关键决策动力，更催生了跨国政策转移载体的深层拓展——即美国以[[Random Assignment|随机分配]]（Random Assignment）为代表的社会实验量化评估技术与专业评估机构被成套植入英国国家治理体系。（pp. 330, 343–344）
+> 英国新工党政府推行的[[Evidence-Based Policy-Making|证据本位政策制定]]（Evidence-Based Policy-Making, EBPM）与何者有效（What Works）[[Paradigm|范式]]，不仅构成了其从美国借用[[Welfare-to-Work|福利到工作]]（Welfare-to-Work）方案的关键决策动力，更催生了跨国政策转移载体的深层拓展——即美国以[[Random Assignment|随机分配]]（Random Assignment）为代表的社会实验量化评估技术与专业评估机构被成套植入英国国家治理体系，形成了深层的[[Methodology Transfer|方法论转移]]。（pp. 330, 343–344）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 英国新工党 1997 年执政后的新政（New Deal）劳动力市场与福利改革决策过程，重点考察就业保留与晋升（Employment Retention and Advancement, ERA）示范项目与内阁高层决策档案。
+> - **对象** 英国新工党 1997 年执政后的新政（New Deal）劳动力市场与福利改革决策过程，重点考察[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目与内阁高层决策档案。
 > - **张力** 政治意识形态同构论（英美第三条道路共鸣） vs. [[Output-Oriented Governance|循证治理]]驱动论（对实证因果证据充沛性与评估工具的刚性偏好）。
 > - **贡献** 在理论上为[[Policy Transfer Framework|政策转移分析框架]]补充了[[Epistemology|认识论]]驱动维度，在经验上证实了量化评估技术及其实验规程可作为独立的制度载体进行跨国硬转移。
 
@@ -110,14 +115,14 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **精英访谈**<br>[[Elite Interview]] | 深度[[Semi-structured Interview\|半结构化访谈]]直接参与新政政策制定与评估的关键行动者，涵盖英国财政部高级官员、教育与就业部（Department for Education and Employment, DfEE）高层主管、新政特别工作组成员及美国智库政策专家。（pp. 330, 341–342, 348） |
-> | **文献与档案分析**<br>[[Documentary Analysis]] | 系统剖析 1997 至 2011 年间英国政府白皮书（《现代化政府》）、内阁府政策规程（《[[The Green Book\|绿皮书]]》《紫红皮书》）、下议院特别委员会调研报告及就业与养老金部（Department for Work and Pensions, DWP）历年科研出版物。（pp. 330, 335, 342–343） |
+> | **文献与档案分析**<br>[[Documentary Analysis]] | 系统剖析 1997 至 2011 年间英国政府《[[Modernising Government|现代化政府]]》白皮书、内阁府政策规程（《[[The Green Book\|绿皮书]]》《紫红皮书》）、下议院特别委员会调研报告及就业与养老金部（Department for Work and Pensions, DWP）历年科研出版物。（pp. 330, 335, 342–343） |
 > | **比较政策分析**<br>[[Comparative Policy Analysis]] | 横向比对英国政策官员在筛选外来方案时对美国、瑞典、新西兰及澳大利亚福利与评估模式的选择性采纳与实质性取舍。（pp. 338, 341–342） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **访谈样本** | 1999 年 7 月至 8 月期间对 6 位核心政策决策者进行的[[In-depth Interview\|深度访谈]]：新政特别工作组成员（1人）、高级就业政策顾问（1人）、教育与就业部（DfEE）高级官员（1人）、财政部高级官员（2人）、美国哈德逊研究所（Hudson Institute）政策专家（1人）。（p. 348） |
-> | **官方档案样本** | 英国《现代化政府》白皮书（1999）、内阁府《21世纪专业化政策制定》（1999）、内阁府《优良政策制定》（2001）、《绿皮书》（2003）、《紫红皮书》（2011）及下议院社会保障特别委员会报告（1998）。（pp. 335, 342, 345） |
+> | **官方档案样本** | 英国《[[Modernising Government|现代化政府]]》白皮书（1999）、内阁府《21世纪专业化政策制定》（1999）、内阁府《优良政策制定》（2001）、《绿皮书》（2003）、《紫红皮书》（2011）及下议院社会保障特别委员会报告（1998）。（pp. 335, 342, 345） |
 > | **科研数据语料** | 就业与养老金部（DWP）1996 至 2011 年全量公开的实证研究报告（由 1996 年年均 14 篇激增至 2010 年峰值 102 篇）。（p. 330） |
 
 ---
@@ -175,7 +180,7 @@ issuing_organization: ""
 > [!policy-context] 英国新工党循证决策治理制度档案
 > - **治理问题** 破除长期失业群体的福利依赖，摆脱既往保守党政府意识形态化决策模式。（p. 339）
 > - **核心机构** 英国总督察内阁府（Cabinet Office）、财政部（HM Treasury）、就业与养老金部（DWP）。（pp. 330, 335）
-> - **制度要求** 依据《现代化政府》白皮书，强制要求重大政策必须经过先行试点与定量评估方可全面铺开。（pp. 334–335）
+> - **制度要求** 依据《[[Modernising Government|现代化政府]]》白皮书，强制要求重大政策必须经过先行试点与定量评估方可全面铺开。（pp. 334–335）
 > - **规程文本** 明确以《[[The Green Book|绿皮书]]》（政策评估与估算指南）、《紫红皮书》（政策评估与分析指南）作为行政检验规范。（p. 335）
 
 这一治理转型迅速传导至各部委，形成了对量化因果验证结果的刚性科层需求，直接反映在实证科研报告的井喷式增长中。
@@ -235,16 +240,16 @@ issuing_organization: ""
 
 > [!policy-context] 社会实验引入过程中的伦理张力与制度突破
 > - **残障人士项目评估受阻** 2002 年，DWP 尝试在残障人士新政（New Deal for Disabled People, NDDP）中采用美式随机对照实验，但因设置不享受补贴的对照组而遭到社会倡导团体强烈抗议，被指责违背伦理、歧视弱势群体，导致项目一度搁浅。（p. 343）
-> - **循证需求推动更大规模实验立项** 尽管面临伦理争议，决策层对严格因果检验的追求并未中断。DWP 随后于 2002 年正式立项启动英国就业保留与晋升（Employment Retention and Advancement, ERA）示范项目，成为英国社会政策史上规模最大的随机对照实验。（p. 343）
+> - **循证需求推动更大规模实验立项** 尽管面临伦理争议，决策层对严格因果检验的追求并未中断。DWP 随后于 2002 年正式立项启动英国[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目，成为英国社会政策史上规模最大的随机对照实验。（p. 343）
 
-#### 2. 英国就业保留与晋升示范项目成套吸纳美方设计并由美方智库实施
+#### 2. 英国就业留任与晋升示范项目成套吸纳美方设计并由美方智库实施
 
 英国 ERA 示范项目全面借鉴了美国卫生与公众服务部此前开展的同名实验，不仅在方案上复制其双重激励设计，更直接交由美国专业团队落地执行。
 
-> [!policy-design] 英国就业保留与晋升示范项目的核心干预架构
+> [!policy-design] 英国[[Employment Retention and Advancement|就业留任与晋升示范项目]]的核心干预架构
 > - **三类重点目标群体** 涵盖单亲家庭新政（New Deal for Lone Parents, NDLP）参与者、25岁以上长期失业群体新政（New Deal 25 Plus, ND25+）参与者，以及每周工作 16–29 小时并领取工作税收抵免的低收入在职单亲家长。（p. 343）
 > - **双重综合干预手段** 将深入的职业发展咨询与辅导（advancement counselling）与留职现金奖励津贴（financial incentives）紧密结合，跟踪检验受助人员长期的劳动力市场表现。（p. 343）
-> - **跨境专业机构承接** 英国政府直接通过国际政府采购协议委托主持美国同名实验的专业智库——美国人力示范研究公司（Manpower Demonstration Research Corporation, MDRC），全权负责英国实验的随机分组规程设计、技术培训与运行审计。（p. 343）
+> - **跨境专业机构承接** 英国政府直接通过国际政府采购协议委托主持美国同名实验的专业智库——[[MDRC|美国人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC），全权负责英国实验的随机分组规程设计、技术培训与运行审计。（p. 343）
 
 实体政策维度的方案借鉴与技术方法维度的硬转移形成了双轨并行的跨国制度流动结构。
 
@@ -266,7 +271,7 @@ issuing_organization: ""
 > - **推进：循证刚需压倒本土伦理抵制并催生制度创新**
 >   尽管遭遇剥夺对照组福利的伦理质疑，行政体系仍通过立项更大规模的 ERA 示范项目推进社会实验。（p. 343）
 > - **结论：政策转移从内容借鉴深化为技术与机构的硬转移**
->   美国随机分配技术规程及美方专业评估智库 MDRC 整体嵌入英国公共治理体系，实现底层方法论的制度化移入。（pp. 343–345）
+>   美国随机分配技术规程及美方专业评估智库 [[MDRC]] 整体嵌入英国公共治理体系，实现底层[[Methodology Transfer|方法论转移]]与制度化移入。（pp. 343–345）
 
 ---
 

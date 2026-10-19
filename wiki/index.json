@@ -1167,6 +1167,17 @@
     ]
   },
   {
+    "title": "Methodology Transfer",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Methodology Transfer.md",
+    "aliases": [
+      "方法论转移",
+      "评估方法转移",
+      "评估规程转移",
+      "研究方法跨国转移"
+    ]
+  },
+  {
     "title": "Migrant Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Migrant Education.md",
@@ -6140,6 +6151,18 @@
       "政策场所搜寻",
       "场所转换",
       "制度论坛转移"
+    ]
+  },
+  {
+    "title": "Welfare-to-Work",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Welfare-to-Work.md",
+    "aliases": [
+      "福利到工作",
+      "从福利到工作",
+      "工作福利",
+      "积极劳动力市场政策",
+      "工作优先政策"
     ]
   },
   {
@@ -32819,6 +32842,18 @@
     ]
   },
   {
+    "title": "Modernising Government",
+    "type": "fact",
+    "path": "wiki/facts/uk/Modernising Government.md",
+    "aliases": [
+      "现代化政府",
+      "英国现代化政府白皮书",
+      "现代化政府白皮书",
+      "Modernising Government White Paper",
+      "Cm 4310"
+    ]
+  },
+  {
     "title": "N and F Proposals",
     "type": "fact",
     "path": "wiki/facts/uk/N and F Proposals.md",
@@ -33077,6 +33112,18 @@
       "小学数学干预",
       "Catch Up Numeracy Trial",
       "Catch Up Numeracy Project"
+    ]
+  },
+  {
+    "title": "Employment Retention and Advancement",
+    "type": "fact",
+    "path": "wiki/facts/uk/Employment Retention and Advancement.md",
+    "aliases": [
+      "就业留任与晋升",
+      "就业留任与晋升示范项目",
+      "英国就业留任与晋升示范项目",
+      "UK ERA",
+      "Employment Retention and Advancement Demonstration"
     ]
   },
   {
@@ -34428,6 +34475,15 @@
       "康奈尔大学麦戈文孵化器",
       "McGovern Center",
       "McGovern Center for Venture Development in the Life Sciences"
+    ]
+  },
+  {
+    "title": "MDRC",
+    "type": "fact",
+    "path": "wiki/facts/us/MDRC.md",
+    "aliases": [
+      "人力示范研究公司",
+      "Manpower Demonstration Research Corporation"
     ]
   },
   {

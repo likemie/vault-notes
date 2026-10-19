@@ -7,17 +7,26 @@ aliases:
   - 研究方法跨国转移
 summary: "政策转移研究中指代评估技术、实验设计、统计测量模型及研究规程跨越国界直接输入的理论概念，表明循证治理不仅促进政策实质内容的借用，而且驱动底层科学评估方法论与专业智库机构的跨国流动。"
 type: concept
+domain: "comparative-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/policy-transfer
   - theme/comparative-education
   - method/evaluation
-related_concepts: []
+related_concepts:
+  - "[[Hard Policy Transfer]]"
+  - "[[Policy Borrowing]]"
+  - "[[Soft Policy Transfer]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: medium
 status: draft
 created: 2026-10-19
