@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Elite Interview
@@ -174,4 +174,6 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 深度访谈英国财政部高级官员、教育与就业部（DfEE）高层主管、“新政”特别工作组成员及美国智库政策专家，揭示政策转移决策中官僚行动者采纳美国证据与评估技术的幕后考量（pp. 341–342）。
+
 

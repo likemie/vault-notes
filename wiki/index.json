@@ -5163,6 +5163,20 @@
     ]
   },
   {
+    "title": "Evidence-Based Policy-Making",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Based Policy-Making.md",
+    "aliases": [
+      "循证决策",
+      "证据本位政策制定",
+      "循证政策制定",
+      "证据本位决策",
+      "EBPM",
+      "EBP",
+      "Evidence-Based Policy"
+    ]
+  },
+  {
     "title": "Evidence-Based Reform",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Based Reform.md",
@@ -15741,6 +15755,17 @@
       "多标度教育治理",
       "Pluri-scalar Governance of Education",
       "Multi-scalar Governance"
+    ]
+  },
+  {
+    "title": "Policy Transfer Framework",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Policy Transfer Framework.md",
+    "aliases": [
+      "政策转移分析框架",
+      "政策转移框架",
+      "Dolowitz-Marsh Framework",
+      "政策转移多维分析框架"
     ]
   },
   {
@@ -37864,6 +37889,11 @@
     "title": "Argument_Jovchevski_2026_PT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
+    "title": "Argument_Legrand_2012_PolStud",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
   },
   {
     "title": "Argument_VanDerHeijden_2011_Politics",

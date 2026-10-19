@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Random Assignment
@@ -240,3 +240,5 @@ updated: 2026-10-18
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）将部分随机分配（Partial Randomization / Lotteries）应用于政府科研基金资助的[[Mechanism Experiments|机制实验]]，推动因果实验向科学治理自身的延伸。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西州 STAR 实验中师生双重真随机分配确立的强因果效应（$d = 0.62 \sim 0.66$），批评[[Meta-meta-analysis|二阶元分析]]将高质量随机实验与低质量研究无差别平均从而掩盖因果真相的方法论缺陷。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应[[Class Size|班级规模]]随机分配实验的政策争议，论证仅靠随机化调整物理班额而不变革教学方法无法带来理想的教育产出比。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 详尽剖析英国就业与养老金部（DWP）如何跨国引入美国 MDRC 研发的随机分配技术，并开展英国社会政策史上最大规模的就业保留与晋升（ERA）随机对照评估（pp. 342–343）。
+
