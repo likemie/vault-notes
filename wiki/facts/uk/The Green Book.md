@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: HM Treasury
 tags:
@@ -37,6 +37,7 @@ related_facts:
   - "[[Rothschild Report 1971]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: draft
 created: 2026-09-04
