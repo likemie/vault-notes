@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,9 +273,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6fb5fe28ef8580ac",
+  "active": "85d71c7e1806f3b0",
   "lastOpenFiles": [
+    "wiki/theories/comparative-education/Tianxia Heuristic.md",
+    "wiki/persons/china/Zhao Tingyang.md",
     "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
+    "wiki/concepts/political-economy-geopolitics/Normalization through Knowledge Cooperation.md",
+    "wiki/concepts/higher-education/Outward-Oriented Internationalization.md",
+    "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
     "wiki/facts/china/Asian Universities Alliance.md",
     "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-010/result.json",
@@ -289,7 +294,6 @@
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Can-donors-prevent-aid-misallocations--Evidence-from-Chine_2025_World-Develo.pdf",
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Aid-effectiveness-and-donor-motives_2024_World-Development.pdf",
     "wiki/facts/china/Belt and Road Initiative.md",
-    "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
     "wiki/methods/quantitative/Effect Size.md",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-010/prompt.md",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-009/prompt.md",
@@ -307,10 +311,6 @@
     "wiki/concepts/higher-education/International Branch Campus.md",
     "wiki/concepts/political-economy-geopolitics/Century of Humiliation.md",
     "wiki/concepts/political-economy-geopolitics/National Rejuvenation Narrative.md",
-    "wiki/concepts/competency-and-assessment/Success Criteria.md",
-    "wiki/concepts/curriculum/Socioscientific Issues.md",
-    "wiki/concepts/curriculum/Learning Intentions.md",
-    "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md",
     "tmp/render_check/rr-020.png",
     "tmp/render_check/kc-015.png",
     "tmp/render_check/kb-015.png",

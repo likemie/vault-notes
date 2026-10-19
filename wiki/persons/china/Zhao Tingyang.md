@@ -7,7 +7,7 @@ summary: "中国哲学家，以天下理论著称，提出以中国为中心的�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Knowledge Transfer]]"
 related_theories:
+  - "[[Tianxia Heuristic]]"
   - "[[Necropolitics]]"
   - "[[Orientalism]]"
 related_methods:
@@ -36,10 +37,11 @@ related_facts:
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Zhao Tingyang
@@ -50,11 +52,11 @@ updated: 2026-10-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员。
-> - **核心角色** 以“天下” (Tianxia) 体系的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴[[Discourse|话语]]提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
+> - **核心角色** 以[[Tianxia Heuristic|“天下” (Tianxia) 体系]]的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴[[Discourse|话语]]提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 > - **代表贡献** 提出“天下体系”、“神性中国/配天”和“逐鹿中原”的征服隐喻。
 
-> [!citation-card]- 人物定位的关键来源
-> 天下体系是比以民族国家为基础的联合国体系更优越的替代方案。少数民族被中国文化优越性致命性地吸引，他们文化的消亡并不是被暴力毁灭，而是一种自愿的自我牺牲——这是一种“成为”（becoming），是对非中国式存在方式的超越性转化。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106, 107]])
+> [!citation-card] 人物定位的关键来源
+> 天下体系是比以民族国家为基础的联合国体系更优越的替代方案。少数民族深受华夏文化吸引，其文化消亡在论述中被界定为自愿的“自我牺牲”与“成为”（becoming），属于对非华夏存在方式的超越性转化。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106, 107]])
 > 
 > *The Tianxia system is a superior alternative to the UN system based on nation-states. Minorities are fatally attracted by the superiority of Chinese culture; the demise of their culture is not a destruction by violence, but a voluntary self-sacrifice—a 'becoming,' a transcendental transformation of non-Chinese ways of existence.*
 
@@ -87,15 +89,15 @@ updated: 2026-10-07
 
 > [!work-line] 主要著作
 > - **2005 — 《天下体系：世界制度哲学导论》** 将中国传统的“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的替代方案。
-> - **2016 — 《天下：一种可能世界秩序的天下体系》** 系统性建构“无外部”的世界哲学，阐发中原文明如何通过吸纳机制将征服者“[[Sinicisation\|中国化]]”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
-> - **2021 — *All Under Heaven: The Tianxia System for a Possible World Order***：将“天下”理论推向国际地缘政治和比较教育研究视野，主张以天下作为重构全球政治与知识关系的框架。
+> - **2016 — 《天下：一种可能世界秩序的天下体系》** 系统性建构“无外部”的世界哲学，阐发华夏文明如何通过吸纳机制将征服者“[[Sinicisation\|中国化]]”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
+> - **2021 — *All Under Heaven: The Tianxia System for a Possible World Order*** 将“天下”理论推向国际地缘政治和比较教育研究视野，主张以天下作为重构全球政治与知识关系的框架。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 赵汀阳主张以超越威斯特伐利亚民族国家主权的“天下体系”作为替代性世界秩序。在该体系中，中国被视为与天道唯一齐平、具备道德和制度普遍吸引力的“神性/配天”实体。他将历史上的族群征服隐喻为“逐鹿中原”的认同博弈，并主张少数民族文化的消亡并非来自国家强制暴力，而是少数民族被华夏文明优越性所吸引而进行的自愿“自我牺牲”与文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
+> 赵汀阳主张以超越威斯特伐利亚民族国家主权的“天下体系”作为替代性世界秩序。在该体系中，中国被视为与天道唯一齐平、具备道德和制度普遍吸引力的“神性/配天”实体。他将历史上的族群征服隐喻为“逐鹿中原”的认同博弈，并主张少数民族文化的消亡源于少数民族被华夏文明优越性吸引而进行的自愿“自我牺牲”与文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 
 ### 天下体系
 
@@ -107,7 +109,7 @@ updated: 2026-10-07
 
 ### “逐鹿中原”与征服的非暴力化
 
-- **“逐鹿”博弈** 赵汀阳借用“逐鹿中原”的成语来重新框定内陆亚洲族群对中原的入侵与征服。他主张征服并不是为了消灭中国，而是被中国文明的魅力所吸引，参与一场争夺天命之“鹿”的竞技游戏。征服的结果不是中国被灭亡，而是征服者自愿“[[Sinicisation|中国化]]”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+- **“逐鹿”博弈** 赵汀阳借用“逐鹿中原”的成语重新框定内陆亚洲族群对中原的入侵与征服，主张族群入侵旨在争夺象征天命之“鹿”，属于参与争夺文明主导权的竞技，其归宿在于征服者自愿接受文明感召并实现“[[Sinicisation|中国化]]”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
 
 ### 少数民族的自愿牺牲与“成为”
 

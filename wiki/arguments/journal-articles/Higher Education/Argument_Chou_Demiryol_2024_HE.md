@@ -7,7 +7,7 @@ title: "Argument_Chou_Demiryol_2024_HE"
 argument_key: "Argument_Chou_Demiryol_2024_HE"
 argument_display_title: "Knowledge power or diplomacy? University alliances and the Belt and Road Initiative"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,7 +45,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemic Governance]]"
-related_theories: []
+  - "[[Normalization through Knowledge Cooperation]]"
+  - "[[Outward-Oriented Internationalization]]"
+related_theories:
+  - "[[Tianxia Heuristic]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
@@ -77,12 +80,12 @@ updated: 2026-10-20
 > 中国在[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）框架下主导创建多所跨国大学联盟的动因与战略逻辑为何？这种外向型[[Internationalization of Higher Education|高等教育国际化]]实践究竟体现了追求地缘领导地位的[[Knowledge Power|知识权力]]，还是体现了促进多边合作应对全球危机的[[Knowledge Diplomacy|知识外交]]？两种截然不同的组织形态如何实现共存并映射全球知识秩序的演变？（pp. 1693–1695）
 
 > [!claim] 核心主张
-> [[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]分别代表了开放包容的知识外交和精英集中的知识权力；这两种模式并行运作，体现了中国外向型高等教育国际化的双轨布局：通过织密多对多合作网络，使中国成为全球学术网络的日常中心，并在[[Epistemology|认识论]]上融通兼顾等级与平等的天下秩序观。（pp. 1693–1695, 1703–1705）
+> [[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]分别代表了开放包容的知识外交和精英集中的知识权力；这两种模式并行运作，体现了中国[[Outward-Oriented Internationalization|外向型高等教育国际化]]的双轨布局：通过织密多对多合作网络，使中国成为全球学术网络的日常中心，并在[[Epistemology|认识论]]上融通兼顾等级与平等的[[Tianxia Heuristic|天下秩序观]]。（pp. 1693–1695, 1703–1705）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 一带一路框架下由中国高水平大学发起创建的跨国大学联盟，聚焦由西安交通大学发起的[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）与由清华大学发起的[[Asian Universities Alliance|亚洲大学联盟]]（Asian Universities Alliance, AUA）的组织制度与运行实践。（pp. 1694–1695, 1698–1702）
 > - **张力** 国际关系地缘政治叙事（追求纵向不对称影响力的知识权力）与发展主义叙事（追求横向互利共赢的知识外交）之间的理论张力；排他性精英控制与开放包容连接之间的制度张力。（pp. 1695–1698, 1702–1703）
-> - **贡献** 超越国际关系与高等教育研究中将国家动机二元对立的分析局限，提出通过多对多网络连接实现网络中心性常态化的理论命题，并引入天下启发式框架（tianxia heuristic）作为解析后西方全球高等教育空间治理的非西方认识论工具。（pp. 1703–1705）
+> - **贡献** 超越国际关系与高等教育研究中将国家动机二元对立的分析局限，提出通过多对多网络连接实现[[Normalization through Knowledge Cooperation|网络中心性常态化]]的理论命题，并引入[[Tianxia Heuristic|天下启发式框架]]（tianxia heuristic）作为解析后西方全球高等教育空间治理的非西方认识论工具。（pp. 1703–1705）
 
 ---
 
@@ -93,11 +96,11 @@ updated: 2026-10-20
 > |---|---|
 > | **[[Knowledge Power\|知识权力（Knowledge Power）]]** | 由 Young and Ravinet (2022) 界定，指行动者动员科技与[[Tacit Knowledge\|隐性知识]]影响全球治理关系与制度语境的行动能力。契合地缘政治叙事，解释以知识领导力重塑国际秩序的战略诉求。（p. 1697） |
 > | **[[Knowledge Diplomacy\|知识外交（Knowledge Diplomacy）]]** | 由 Knight (2018, 2019) 界定，指通过国际高教与科研合作建立双向对等互惠关系以应对全球共同挑战。契合发展主义叙事，解释以多边连接实现包容共享的合作逻辑。（pp. 1697–1698） |
-> | **外向型[[Internationalization of Higher Education\|高等教育国际化]]（Outward-Oriented Internationalization）** | 由 Wu (2019a, 2019b) 界定，指中国从被动借鉴外国经验与模式的内向型阶段，转向依托[[Confucius Institute\|孔子学院]]、高教对外发展援助及留学生政策的主动战略布局。（pp. 1696–1697） |
-> | **天下启发式框架（Tianxia Heuristic）** | 由 Marginson (2022) 与 Yang et al. (2022) 阐发，构想无边界、关系性互联的全球高等教育整体，容纳和而不同理念以及等级与平等的辩证共存，为超越二元对立提供[[Ontology\|本体论]]基础。（pp. 1703–1704） |
+> | **[[Outward-Oriented Internationalization\|外向型高等教育国际化（Outward-Oriented Internationalization）]]** | 由 Wu (2019a, 2019b) 界定，指中国从被动借鉴外国经验与模式的内向型阶段，转向依托[[Confucius Institute\|孔子学院]]、高教对外发展援助及留学生政策的主动战略布局。（pp. 1696–1697） |
+> | **[[Tianxia Heuristic\|天下启发式框架（Tianxia Heuristic）]]** | 由 Marginson (2022) 与 Yang et al. (2022) 阐发，构想无边界、关系性互联的全球高等教育整体，容纳和而不同理念以及等级与平等的辩证共存，为超越二元对立提供[[Ontology\|本体论]]基础。（pp. 1703–1704） |
 
 > [!warrant]- 理论如何支撑论证
-> 公共行政与[[Policy Science in Comparative Education|政策科学]]学者指出，组织结构设计与政策工具选择直接反映了设计初衷与政策效果之间的制度关联（Lascoumes & Le Gales, 2007; Shafritz et al., 2016）。因此，系统考察大学联盟在准入标准、治理结构与核心活动维度的组织设计，能够透视知识权力与知识外交在实践中的制度投射。天下启发式框架进一步解释了两类截然相反的模式为何能够共存，将多元组织形态统一在全球网络中心性常态化的战略逻辑之下。（pp. 1697–1698, 1703–1705）
+> 公共行政与[[Policy Science in Comparative Education|政策科学]]学者指出，组织结构设计与政策工具选择直接反映了设计初衷与政策效果之间的制度关联（Lascoumes & Le Gales, 2007; Shafritz et al., 2016）。因此，系统考察大学联盟在准入标准、治理结构与核心活动维度的组织设计，能够透视知识权力与知识外交在实践中的制度投射。[[Tianxia Heuristic|天下启发式框架]]进一步解释了两类截然相反的模式为何能够共存，将多元组织形态统一在[[Normalization through Knowledge Cooperation|全球网络中心性常态化]]的战略逻辑之下。（pp. 1697–1698, 1703–1705）
 
 ---
 
@@ -234,17 +237,17 @@ updated: 2026-10-20
 
 ---
 
-### 论证步骤三　高密度多边合作使中国成为国际学术网络的日常中心，并在天下观中包容等级与平等
+### 论证步骤三　高密度多边合作使中国成为国际学术网络的日常中心，并在[[Tianxia Heuristic|天下观]]中包容等级与平等
 
 > [!claim] 步骤三核心主张
-> 中国并行推进多元组织模式的核心意图在于，通过扩大多对多连接密度使其在全球知识网络中的中心地位常态化；这一实践超越了西方国家中心主义二元视角，在[[Epistemology|认识论]]上契合容纳等级与平等辩证共存的世界中心天下观。（pp. 1703–1705）
+> 中国并行推进多元组织模式的核心意图在于，通过扩大多对多连接密度使其在全球知识网络中的中心地位常态化；这一实践超越了西方国家中心主义二元视角，在[[Epistemology|认识论]]上契合容纳等级与平等辩证共存的世界中心[[Tianxia Heuristic|天下观]]。（pp. 1703–1705）
 
 #### 1. 织密多边合作关系使中国在全球学术网络中的中心地位成为常态
 
-通过知识合作实现常态化（normalization through knowledge cooperation）这一判断，阐明了多元网络布局的深层战略逻辑。（pp. 1703–1704）
+通过知识合作实现常态化（[[Normalization through Knowledge Cooperation|normalization through knowledge cooperation]]）这一判断，阐明了多元网络布局的深层战略逻辑。（pp. 1703–1704）
 
-> [!chain-link] 网络中心性常态化的机制演进
-> - **起点：摆脱外围从属地位** 中国高等教育摆脱传统核心-外围格局中被动向西方学习的内向型角色，转向主动设计并提供国际公共产品的外向型阶段。（pp. 1696–1697, 1703）
+> [!chain-link] [[Normalization through Knowledge Cooperation|网络中心性常态化]]的机制演进
+> - **起点：摆脱外围从属地位** 中国高等教育摆脱传统核心-外围格局中被动向西方学习的内向型角色，转向主动设计并提供国际公共产品的[[Outward-Oriented Internationalization|外向型阶段]]。（pp. 1696–1697, 1703）
 > - **策略：践行多对多组织多元化** 拒绝一刀切的制度设计，既构建开放包容的大众化平台（UASR）以扩展网络连接密度，又组建精英旗舰联盟（AUA）以确立议程引领地位。（pp. 1701–1703）
 > - **机制：多边连接积累网络资本** 即使在部分子项目或双边互动中由伙伴高校主导，整体网络密度的大幅提升也能使中国高校的常态化在场成为制度现实。（pp. 1703–1704）
 > - **结果：网络中心地位常态化确立** 中国在全球学术体系中确立了核心地位，在实体网络与理念认同两个层面均成为不可或缺的中心节点。（pp. 1703–1704）
@@ -253,9 +256,9 @@ updated: 2026-10-20
 
 #### 2. 天下观超越西方二元对立，包容学术层级与对等共赢的辩证共存
 
-以天下为透镜审视跨国高等教育治理，为理解复杂的网络关系提供了非西方的认识论工具。（pp. 1703–1704）
+以[[Tianxia Heuristic|天下]]为透镜审视跨国高等教育治理，为理解复杂的网络关系提供了非西方的认识论工具。（pp. 1703–1704）
 
-> [!dimension] 天下启发式框架对跨国高等教育秩序的阐释维度
+> [!dimension] [[Tianxia Heuristic|天下启发式框架]]对跨国高等教育秩序的阐释维度
 > - **以世界为尺度（Thinking through the World）**
 >   将全球高等教育构想为统一、网络化且相互依存的集体主体，超越狭隘的民族国家主权边界与地缘对抗视角。（pp. 1703–1704）
 > - **和而不同与紧密互联**
@@ -272,8 +275,8 @@ updated: 2026-10-20
 > [!finding-cards] 核心发现
 > 1. **组织制度的鲜明分野** [[University Alliance of the Silk Road|丝绸之路大学联盟]]采取开放准入、学科子联盟与去中心化管理，践行包容互惠的[[Knowledge Diplomacy|知识外交]]逻辑；[[Asian Universities Alliance|亚洲大学联盟]]采取举荐提名、五项高门槛准入与定向资助，展现精英引领的[[Knowledge Power|知识权力]]特征。（pp. 1699–1702）
 > 2. **主流理论二元论的局限** 国际关系地缘政治叙事与发展主义叙事的割裂，导致知识权力与知识外交往往被当作非此即彼的对立概念，无法完整阐释两类联盟在国家战略中的协同共存。（pp. 1702–1703）
-> 3. **网络中心性常态化战略假说** 中国通过织密多对多合作网络推行多元组织形态，旨在在实体连接与理念认同两个层面，使自身在全球知识版图中的核心枢纽地位实现常态化。（pp. 1703–1704）
-> 4. **天下启发式框架的理论拓展** 引入包含和而不同、关系性互联以及等级与平等辩证共生的天下秩序观，为解析后西方时代全球高等教育空间治理提供了突破性的非西方[[Theoretical Perspective|理论视角]]。（pp. 1703–1705）
+> 3. **[[Normalization through Knowledge Cooperation|网络中心性常态化战略假说]]** 中国通过织密多对多合作网络推行多元组织形态，旨在在实体连接与理念认同两个层面，使自身在全球知识版图中的核心枢纽地位实现常态化。（pp. 1703–1704）
+> 4. **[[Tianxia Heuristic|天下启发式框架]]的理论拓展** 引入包含和而不同、关系性互联以及等级与平等辩证共生的天下秩序观，为解析后西方时代全球高等教育空间治理提供了突破性的非西方[[Theoretical Perspective|理论视角]]。（pp. 1703–1705）
 
 > [!stat-cards]- 核心数据
 > - **165 / 19** UASR 正式成员与观察员高校总数（所），横跨全球 38 个国家。（p. 1700）
@@ -283,7 +286,7 @@ updated: 2026-10-20
 > - **$13.5 万 / $6.8 万** AUA 联合研究计划单项实验类与非实验类合作课题设立的最高资助额度。（p. 1702）
 
 > [!implication]- 理论、政策与方法启示
-> - **理论启示** 超越国家中心主义与二元对立的传统视角，证实外向型[[Internationalization of Higher Education|高等教育国际化]]能够兼具包容性外交与精英化权力，引入天下启发式框架为解析后西方时代的全球[[Epistemic Governance|知识治理]]提供了非西方[[Epistemology|认识论]]工具。（pp. 1703–1705）
+> - **理论启示** 超越国家中心主义与二元对立的传统视角，证实[[Outward-Oriented Internationalization|外向型高等教育国际化]]能够兼具包容性外交与精英化权力，引入[[Tianxia Heuristic|天下启发式框架]]为解析后西方时代的全球[[Epistemic Governance|知识治理]]提供了非西方[[Epistemology|认识论]]工具。（pp. 1703–1705）
 > - **政策启示** 跨国大学联盟的制度设计需针对战略目标实施精准分工，既可通过开放包容的学科子网扩大国际公共产品供给，也可依托小规模旗舰联盟集中推进重点科研协同。（pp. 1699–1703）
 > - **方法启示** 展示了探索性[[Comparative Case Study|比较案例研究]]与[[Retroduction|溯因推理]]在透视宏大跨国教育倡议中的应用价值，通过对多边联盟组织章程、治理架构与活动清单的深度制度分析提炼理论假说。（pp. 1698–1699, 1703–1704）
 

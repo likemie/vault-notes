@@ -7699,6 +7699,17 @@
     ]
   },
   {
+    "title": "Outward-Oriented Internationalization",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Outward-Oriented Internationalization.md",
+    "aliases": [
+      "外向型国际化",
+      "外向型高等教育国际化",
+      "外向型高教国际化",
+      "Outward-Oriented Higher Education Internationalization"
+    ]
+  },
+  {
     "title": "Peer Mentoring",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Peer Mentoring.md",
@@ -10211,6 +10222,18 @@
     "aliases": [
       "新质生产力",
       "xin zhi sheng chan li"
+    ]
+  },
+  {
+    "title": "Normalization through Knowledge Cooperation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Normalization through Knowledge Cooperation.md",
+    "aliases": [
+      "知识合作常态化",
+      "网络中心性常态化",
+      "Normalization of Network Centrality",
+      "Normalization Thesis",
+      "知识常态化"
     ]
   },
   {
@@ -15995,6 +16018,20 @@
     "aliases": [
       "PISA 影响教育政策的三层机制模型",
       "three-level mechanism model of PISA impact"
+    ]
+  },
+  {
+    "title": "Tianxia Heuristic",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Tianxia Heuristic.md",
+    "aliases": [
+      "天下启发式",
+      "天下启发式框架",
+      "天下观",
+      "天下体系",
+      "Tianxia",
+      "world-centric tianxia",
+      "以世界为中心的天下观"
     ]
   },
   {
