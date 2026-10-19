@@ -4,5 +4,15 @@
       "sentence": "既往研究多聚焦联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）与世界银行（World Bank），忽视了 OECD 独特的政策规训手段。",
       "target": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md": [
+    {
+      "sentence": "划分诊断性框架（问题界定）、处方性框架（解决方案）与激励性框架（行动动机），揭示决策者如何有选择性地组织信息以确立行动正当性。",
+      "target": "wiki/concepts/competency-and-assessment/Problem Finding.md"
+    },
+    {
+      "sentence": "依托巴斯卡的批判实在论，通过科学解释社会现象背后的生成性因果机制，直接对统治意识形态与权力再生产展开规范性批判。",
+      "target": "wiki/concepts/curriculum/Scientific Explanation.md"
+    }
   ]
 }
