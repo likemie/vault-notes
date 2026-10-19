@@ -79,6 +79,7 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-06-01
@@ -166,6 +167,7 @@ updated: 2026-10-19
 > | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再情境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 > | **[[Educational Privatisation\|教育私有化]]与[[Network Governance\|网络治理]]综合框架** | 整合内[[Exogenous Privatisation\|外生私有化]]双轨（Ball & Youdell）、治理四维形态（市场/科层/网络/部族）、政策话语转型与多源纵向财务审计，追踪私营资本渗透全链条 | 解构新自由主义福利国家转型中公共服务外包、政策制定权转移与双层法人避税机制 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 1–25)]] |
 > | **政策转移两阶段分析框架** | 将跨国政策借用拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合循证政策制定机会结构解构外来方案的筛选与落地机制 | 解释跨国政策流动如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
+> | **四维批判性政策分析框架** | 融合费尔克拉夫批判话语分析三维模型、政策框架化（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡批判实在论解释性批判 | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘硬实力配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
 
 ---
 
@@ -212,5 +214,6 @@ updated: 2026-10-19
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的隐性私有化与[[Policy Network|政策网络]]拓扑。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与循证政策制定机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国随机分配评估技术的动力机制（pp. 333–336）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合批判话语分析、政策框架化、政策三维视角及解释性批判的四维分析框架，系统解构中国“一带一路”跨国高教政策的深层因果机制（pp. 680–687）。
 
 ---
