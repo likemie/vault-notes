@@ -1,6 +1,7 @@
 ---
 citation: "King, K. (2020). China–Africa education cooperation: From FOCAC to Belt and Road. ECNU Review of Education, 3(2), 221–234. https://doi.org/10.1177/2096531119889874"
-extracted_to: []
+extracted_to:
+  - "[[Argument_King_2020_ECNUROE]]"
 processed_date: 2026-10-20
 ---
 

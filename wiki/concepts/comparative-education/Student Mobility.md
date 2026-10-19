@@ -5,10 +5,10 @@ aliases:
   - 学生流动
   - 跨国学生流动
   - pupil mobility
-summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在新兴大国地缘博弈中则体现为国家奖学金深度驱动与附带脆弱依附特征的跨国再生产网络。"
+summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在发展型大国南南合作中则体现为国家奖学金驱动的双向话语与单向供给张力，并推动合作载体由单纯留学生流动迈向产教融合实体共建。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Multiple Institution Attendance]]"
   - "[[Soft Power]]"
   - "[[Hard Power]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
@@ -50,15 +51,19 @@ related_facts:
   - "[[TEMPUS]]"
   - "[[Hukou System]]"
   - "[[Plyler v. Doe 1982]]"
+  - "[[Forum on China-Africa Cooperation]]"
+  - "[[Belt and Road Education Action Plan]]"
+  - "[[Luban Workshop]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_King_2020_ECNUROE]]"
 related_persons:
   - "[[Nikolas Rose]]"
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Student Mobility
@@ -68,12 +73,12 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> **学生流动性（Student Mobility）** 指学生在教育体系内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该构念不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被问题化为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国南南合作语境中则被运作借助国家全额奖学金补贴、服务对外经贸与基础设施建设的地缘[[Soft Power|软实力]]投射工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
+> **学生流动性（Student Mobility）** 指学生在教育系统内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该构念不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被问题化为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国南南合作与“一带一路”建设中，则经历从依赖国家全额奖学金补贴单向吸引留学生，向统筹“五个并重”（出国与来华、公派与自费、规模与质量、规范管理与优化服务、培养与发挥作用）以及结合重大工程推进产教协同实体办学演进。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–226, 230)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在不同教育机构与地理空间之间的移动行为，以及权力网络对该移动施加的制度性分类、资助机制与合法性编码。
-> - **用途** 帮助研究者透视现代学校如何作为空间封闭容器（Enclosures）[[Disciplina and Doctrina|规训]]人口，辨析正当与不正当流动的文化建构机制，以及国家如何将跨境求学整合进地缘经济扩张战略。
-> - **边界** 区别于宏观教育政策文本的跨国借鉴（[[Policy Mobility]]），亦区别于跨国永久定居移民的同化过程。
+> - **用途** 帮助研究者透视现代学校如何作为空间封闭容器（Enclosures）[[Disciplina and Doctrina|规训]]人口，辨析正当与不正当流动的文化建构机制，以及国家如何将跨境求学整合进地缘经贸与重大走廊产能建设。
+> - **边界** 区别于宏观教育政策文本的跨国借鉴（[[Policy Mobility]]），亦区别于跨国永久定居移民的社会同化过程。
 
 > [!citation-card] 索贝与费舍尔论学生流动在欧美话语中的两极分化
 > 跨国与比较视角的审视揭示了关于学生流动研究中的深层矛盾：在某些情境中，流动性是备受珍视的政策愿景与核心目标；而在另一些情境中，它却成了亟需遏制与治理的棘手难题。一方面是[[EU|欧洲联盟]]通过伊拉斯谟等计划推动的高等教育流动，另一方面则是美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》学校报告卡中被视作学业危机与违规指标的中途转学。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
@@ -82,7 +87,7 @@ updated: 2026-10-19
 
 > [!boundary]- 概念边界
 > - 区别于 [[Policy Mobility]] — 后者指向教育政策理念、制度模型与治理规程跨越国界的借用与[[Shape-Shifting|形变]]，前者特指具体受教育个体的空间移动与机构转轨。
-> - 区别于国际移民同化 — 学生流动主要涵盖学年中跨校转学、国内季节性务工[[Migrant Children|流动儿童]]就学，以及高校短期学分互换与学位求学，并不局限于永久定居移民。
+> - 区别于 国际移民同化 — 学生流动主要涵盖学年中跨校转学、国内季节性务工[[Migrant Children|流动儿童]]就学，以及高校短期学分互换与学位求学，并不局限于永久定居移民。
 
 ---
 
@@ -100,9 +105,10 @@ updated: 2026-10-19
 ## 核心要素
 
 > [!feature] 核心要素
-> - **流动的空间尺度与方向** 涵盖学年内局部社区就近转学、城乡间国内季节性跨区域迁移，以及跨越国界的洲际高等教育学分转移与全日制留学。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]
-> - **政策价值的多重编码** 自主自愿、精英导向的越界位移被赋予自由与跨文化资源光环，受制于经济困境被迫发生的频繁迁徙被贴上贫困与失序标签，而国家战略驱动的南南流动则被编码为双边友好与经贸合作桥梁。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
-> - **空间[[Disciplina and Doctrina|规训]]与准入机制** 学校通过学籍登记、居住证明、绩效报告卡与奖学金遴选门槛，对流动个体实施精准的资格审查与分流配置。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+> - **流动的空间尺度与方向（Spatial Scales & Trajectories）** 涵盖学年内社区就近转学、城乡间季节性跨区域流动，以及跨越国界的洲际高等教育学分转移、学位攻读与高端专业人才访学。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **政策价值的多重编码（Normative Encoding）** 自主自愿的跨国位移被赋予跨文化资本光环，受制于生计困境的频繁转校被贴上失范标签，而发展型国家的跨国流动则由早期的外事引援升级为服务经贸走廊、兼顾学历教育与职业技术培训的战略纽带。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223, 230)]]
+> - **空间规训与准入门槛（Spatial Enclosures & Access Regulation）** 学校通过学籍注册、户籍证明、绩效报告卡以及全额政府奖学金配额，对流动个体实施制度性资格筛选与资源配给。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, p. 692)]]
+> - **流动载体的实体化演变（Institutional Embedding）** 在南南合作与跨国基建产能合作中，学生流动逐步突破纯粹个人跨国流转的传统模式，同在海外共建的实体实训工坊（如[[Luban Workshop|鲁班工坊]]）、常设治理学院与联合研究中心相嵌套。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–227)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -110,10 +116,11 @@ updated: 2026-10-19
 >     A["空间位移实践"] --> B["治理与战略编码"]
 >     B --> C["欧洲话语：跨国公民资产"]
 >     B --> D["美国话语：问责失范风险"]
->     B --> E["地缘战略：经贸与软实力工具"]
->     C --> F["学校准入与分流机制"]
+>     B --> E["地缘战略：经贸与产能纽带"]
+>     C --> F["准入筛选与激励配置"]
 >     D --> F
 >     E --> F
+>     F --> G["合作实体化拓展<br>(鲁班工坊/联合学院)"]
 > ```
 
 ---
@@ -124,8 +131,8 @@ updated: 2026-10-19
 
 ### 命题一　欧美政策话语对学生流动施加了两极对立的阶层道德评价
 
-> [!concept-lens] 跨国政策[[Discourse|话语]]的价值对质
-> 探讨同一空间移动[[Construct|构念]]如何在不同制度文化背景下被建构为完全相悖的政策对象，反映文化精英与底层弱势群体在流动正当性上的阶层分野。
+> [!concept-lens] 跨国政策话语的价值对质
+> 探讨同一空间移动构念如何在不同制度文化背景下被建构为完全相悖的政策对象，反映文化精英与底层弱势群体在流动正当性上的阶层分野。
 
 > [!claim] Sobe, N. W. & Fischer, M. G.
 > **政策话语的两极分化** 欧美政策文献极少在学生流动议题上形成中间折衷立场。[[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（European Community Action Scheme for the Mobility of University Students，ERASMUS）与[[TEMPUS|天普计划]]（Trans-European Mobility Programme for University Studies，TEMPUS）将大学生跨境流动塑造成构建欧洲公民身份、灵活性与[[Lifelong Learning|终身学习]]能力的核心象征符号；相反，美国在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）的绩效问责框架下，将中小学生学年中途频繁转校直接等同于[[Transiency|流动漂泊]]（Transiency），视作与贫困、单亲监护、失范家庭紧密绑定的负面障碍，并在学校报告卡中列为解释绩效未达标的减分项。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
@@ -134,7 +141,7 @@ updated: 2026-10-19
 
 ### 命题二　现代学校通过领地划界与空间规训充当人口圈禁与筛选的制度容器
 
-> [!concept-lens] 空间政治学与国家[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 空间政治学与国家规训
 > 借助[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的[[Governmentality|治理术]]空间化框架，阐明现代教育机构如何通过领地化界定、视线聚焦与均质/厚度空间模型管理流动人口。
 
 > [!claim] Sobe, N. W. & Fischer, M. G.
@@ -172,66 +179,81 @@ updated: 2026-10-19
 
 ---
 
+### 命题六　南南合作跨国学生流动呈现双向对等话语与单向资源供给张力并驱动合作载体由流动资助向实体共建演进
+
+> [!concept-lens] 政策话语解构与合作模式转型
+> 审视南南教育合作政策文本中双向对等话语同实际单向流动现实之间的深层张力，以及对非教育支持从单纯留学生流动迈向在地化实体合作的演进逻辑。
+
+> [!claim] [[Argument_King_2020_ECNUROE|King, K. (2020)]]
+> **话语对等与单向供给张力及合作载体实体化升级** 肯尼斯·金（Kenneth King）系统比对中非合作论坛与“一带一路”教育行动政策文本指出，中国对非教育合作形成了鲜明的话语与资源张力：政策文本系统采用“双方同意”等对等互惠用语，凸显伙伴国的主权能动性；但在实际资源配置上，学生与专业人员流动几乎完全依赖中方单向出资供给全额奖学金与研修名额。与此同时，由于单纯的学生单向跨境求学难以直接满足非洲重大基础设施建设与产业现代化的即时技能需求，合作载体在第六届（2015）与第七届（2018）峰会上发生质性转变：由早期的奖学金名额翻倍扩张，加速升级为在非洲本土设立 10 所[[Luban Workshop|鲁班工坊]]、共建南南合作与发展学院以及中非联合研究中心；跨国流动由此拓展至涵盖工程技术标准输出、产教协同共建与本土技术工人就地培训的多维体系。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–227, 230)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键理论工具 | 代表学者 |
 > |---|---|---|---|
-> | **阶层道德评价** | 欧美政策话语对学生流动的价值编码呈现阶层化分歧，精英跨国位移被赞美而底层中途转校被贬抑 | 符号话语建构、绩效问责制 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]、Nóvoa (2002) |
-> | **空间治理容器** | 现代学校依据领地划界、统计制图与空间规则运作，承担固定人口与筛选社会准入资格双重职能 | 空间治理术（Rose, 1999） | Rose (1999) |
+> | **阶层道德评价** | 欧美政策话语对学生流动的价值编码呈现阶层化分歧，精英跨国位移被赞美而底层中途转校被贬抑 | 符号话语建构、绩效问责制 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
+> | **空间治理容器** | 现代学校依据领地划界、统计制图与空间规则运作，承担固定人口与筛选社会准入资格双重职能 | 空间治理术（Rose, 1999） | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **定居与能动博弈** | 国家正规学校的强制定居化规训与边缘族群将识字教育作为生存保险的微观能动性相互交织 | 文化失调、强制定居化、社会资本 | Dyer (2001) |
-> | **实证动因与避险** | 中小学中途转校主要由客观居住变迁驱动，并构成底层家庭逃离不良环境的理性避险决策 | 居住流动性、学校避险策略 | Rumberger (2003)、Kerbow et al. (2003) |
+> | **实证动因与避险** | 中小学中途转校主要由客观居住变迁驱动，并构成底层家庭逃离不良环境的理性避险决策 | 居住流动性、学校避险策略 | Rumberger (2003); Kerbow et al. (2003) |
 > | **国家补贴与地缘脆弱性** | 发展型大国跨境学生流动由国家全额奖学金与基建就业预期深度维系，缺乏内生学术引力且易受地缘经济逆转 | 地缘政治经济学、依附关系、工具主义 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
+> | **话语张力与实体共建转型** | 南南学生流动呈现对等修辞与单向供给张力，推动对外合作由孤立留学生流动升级为产教协同实体办学 | 政策话语分析、南南合作范式、产教协同 | [[Argument_King_2020_ECNUROE\|King (2020)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **17–19 世纪 — 古典游学与时间化地理** 欧洲启蒙思想将跨越地理空间的旅行想象为跨越文明阶段的时间旅行，跨国游学被界定为贵族与文化精英获取教养的特权资本（Leed, 1991）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
-> - **1987–2000s — 欧洲一体化与制度化流动** [[EU|欧洲联盟]]相继设立[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（TEMPUS），通过学分互认系统将高校学生跨境流动塑造成培育超民族欧洲认同与现代职场胜任力的时代美德（Nóvoa, 2002; Papatsiba, 2006）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
-> - **2001 至今 — 绩效问责框架下的病态化与问题化** 美国实施《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），推行学校报告卡制度，将基础教育阶段中小学中途频繁转校定义为表征贫困失调与拖累学校达标的“[[Transiency|流动漂泊]]（Transiency）”（Offenberg, 2004; Rumberger, 2003）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
-> - **2013 至今 — 一带一路地缘经济驱动下的国家补贴型流动** 新兴大国推行主权资助导向的跨境留学生政策，以国家全额奖学金与中资基建用工预期吸纳南半球沿线生源，形成高度依附于国家财政与经贸扩张的双边学生流动机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
+> - **17–19 世纪 — 古典游学与时间化地理** 欧洲启蒙思想将跨越地理空间的旅行想象为跨越文明阶段的时间旅行，跨国游学被界定为贵族与文化精英获取教养的特权资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
+> - **1987–2000s — 欧洲一体化与制度化流动** [[EU|欧洲联盟]]相继设立[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（TEMPUS），通过学分互认系统将高校学生跨境流动塑造成培育超民族欧洲认同与现代职场胜任力的时代美德。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> - **2001 至今 — 绩效问责框架下的病态化与问题化** 美国实施《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），推行学校报告卡制度，将基础教育阶段中小学中途频繁转校定义为表征贫困失调与拖累学校达标的“[[Transiency|流动漂泊]]（Transiency）”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+> - **2000–2018 — 中非合作论坛框架下奖学金配额阶梯式扩张** 中非合作论坛推动对非教育合作，政府奖学金从第五届（2012）18,000个攀升至第六届（2015）32,000个与第七届（2018）50,000个，同时配套提供每届数万名短期业务研修名额，确立了大规模主权全额补贴导向的南南学生流动模式。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **2016 至今 — “一带一路”五个并重指引与产教实体化升级** 中国教育部发布《推进共建“一带一路”教育行动》，提出出国与来华并重、公派与自费并重等五个并重原则，奖学金资源向沿线国家战略倾斜（达 66%）；同时推动高职院校出海共建[[Luban Workshop|鲁班工坊]]，实现跨国人才培养与重大基建产业的深度咬合。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 227, 230, 232)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 
 ---
 
 ## 争议与批评
 
 > [!tension] 空间流动价值评价的两极对立
-> - **立场 A（蓝方：制度资本与公民美德）** 欧洲一体化[[Discourse|话语]]将跨国高校流动赞颂为自主开拓的时代美德，强调流动能增强超国家公民认同与弹性应变胜任力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
-> - **立场 B（红方：失范偏离与绩效危机）** 美国联邦问责话语将中小学频繁转学贬斥为破坏[[Disciplina and Doctrina|规训]]与秩序的越轨行为，将其与家庭贫困、学业滞后及学校问责减分相绑定。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+> - **立场 A（欧洲话语：制度资本与公民美德）** 欧洲一体化话语将跨国高校流动赞颂为自主开拓的时代美德，强调流动能增强超国家公民认同与弹性应变胜任力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> - **立场 B（美国话语：失范偏离与绩效危机）** 美国联邦问责话语将中小学频繁转学贬斥为破坏规训与秩序的越轨行为，将其与家庭贫困、学业滞后及学校问责减分相绑定。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
 > [!tension] 跨国高等教育流动的驱动机制之争
-> - **立场 A（英美市场化学费模式）** 依赖大学顶尖声誉、成熟科研生态与全球通用语言资本，将国际学生流动运营为重要的自费教育出口与国家财政收入源泉。
+> - **立场 A（英美市场化学费模式）** 依赖大学学术声誉与全球语言资本，将国际学生流动运营为重要的自费教育出口与大学创收源泉。
 > - **立场 B（发展型国家地缘补贴模式）** 依托主权政府大额奖学金与涉外基建项目对口就业驱动生源流动，服务双边地缘经济战略，但面临内生学术吸引力不足与外部环境逆转的系统风险。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 
+> [!tension] 南南教育合作的话语承诺与资源流向张力
+> - **对等互惠的双向修辞（蓝方）** 政策文本高频使用“双方同意”、“互惠互利”等对称表述，强调非洲国家的主体参与与平权协商。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
+> - **单向供给的物质现实（红方）** 人力资源指标几乎完全依靠中方单向出资提供数万个政府奖学金与研修研讨配额，资金与生源呈现高度非对称流动。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222, 226)]]
+
 > [!critique] 对底层学生流动“家庭病态化”假设的学术反思
-> - **忽视居住变迁的客观动因** 官方政策倾向于将中小学中途转校直接等同于家庭管理失灵，忽视了约 60% 的转学是由房租到期、城市拆迁或家长工作调动等客观居住变迁所引发（Rumberger, 2003）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
-> - **遮蔽底层主体的避险能动性** 将流动学童视作被动受害者或问题制造者，遮蔽了许多贫困家庭中途转校是为逃离原校校园暴力与恶劣校风而做出的理性自卫选择（Kerbow et al., 2003）。
-> - **高等教育与[[Teacher Mobility|教师流动]]的反差双标** 高等教育中的学生转学被指责为拉低毕业率的[[Multiple Institution Attendance|多机构就读]]（Pusser & Turner, 2004），而[[Teacher Mobility|教师流动]]则呈现鲜明分化：欧洲将教师跨国任教视为一体化理想，美国却将其视为优秀教师逃离薄弱学校的流失危机（Elfers et al., 2006）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+> - **忽视居住变迁的客观动因** 官方政策倾向于将中小学中途转校直接等同于家庭管理失灵，忽视了约 60% 的转学是由房租到期、城市拆迁或家长工作调动等客观居住变迁所引发。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> - **遮蔽底层主体的避险能动性** 将流动学童视作被动受害者或问题制造者，遮蔽了许多贫困家庭中途转校是为逃离原校校园暴力与恶劣校风而做出的理性自卫选择。
+> - **高等教育与教师流动的反差双标** 高等教育中的学生转学被指责为拉低毕业率的[[Multiple Institution Attendance|多机构就读]]，而[[Teacher Mobility|教师流动]]则呈现鲜明分化：欧洲将教师跨国任教视为一体化理想，美国却将其视为优秀教师逃离薄弱学校的流失危机。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+
+> [!warning] 适用局限
+> 宏观政策文件中的留学生配额与奖学金规模属于行政规划指标，无法直接替代微观层面关于留学生在华跨文化融入、学业成就以及回国后职业发展质量的实证考察；单纯的人员流动统计亦容易掩盖不同专业领域的结构性失衡。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 
 ---
 
 ## 实证数据
 
-> [!contrast-table] 学生流动性跨国治理实践与经验数据
-> | 案例领域与地区 | 治理工具与政策载体 | 空间机制与规模数据 | 制度后果与实证发现 | 证据来源 |
-> |---|---|---|---|---|
-> | **[[EU\|欧洲联盟]]跨国高教流动** | 伊拉斯谟计划（ERASMUS）、[[TEMPUS\|天普计划]]（TEMPUS） | 跨国学分互换与透明度体系；累计资助逾 150 万高校学生完成跨境学分流动。 | 成功重构欧洲公民认同，但同时将未来就业风险个体化转嫁给受教育个体。 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 362–363)]] |
-> | **美国中小学中途转学** | 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校报告卡 | 统计视线聚焦：将学年中途转校率列为问责减分指标；调查显示 60% 转学源于居住地变迁。 | 底层家庭转学属于逃离校园暴力与恶劣教学的理性避险，却在制度上遭遇病态化贴标签。 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 363–364)]]; Rumberger (2003) |
-> | **美国季节性农工随迁** | 1982 年《[[Plyler v. Doe 1982\|普莱勒诉多伊案]]》、联邦流动教育办公室 | 宪法平权诉讼打破州立行政壁垒；建立跨州学籍追踪系统保障无证农工子女就学。 | 确立基础教育法定准入权，但由于频繁迁移与语言隔阂，校内隐性分轨排斥依然严重。 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 365–366)]] |
-> | **中国城乡户籍流动** | 城乡二元[[Hukou System\|户籍制度]]（户口登记条例） | 领地化行政隔离：以户籍准入门槛调控特大城市人口规模；涉及逾 2000 万[[Migrant Children\|随迁儿童]]。 | 催生民间自发打工子弟学校，面临正规化取缔与城市公办资源准入博弈。 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 365)]] |
-> | **中国一带一路跨境留学** | “丝绸之路”中国政府全额奖学金计划、中资工程定向招聘 | 战略补贴与对口吸纳：大额全额奖学金覆盖学费与生活费；定向招募沿线发展中国家留学生。 | 留学生规模显著依赖主权财政投入与涉外基建项目拉动，在财政紧缩与地缘逆风时具有高度脆弱性。 | [[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 692–693)]] |
-> | **印度游牧部落初等教育** | 西部古吉拉特邦游牧民基础教育规划 | 国家强制定居化（Sedentarization）：利用公立寄宿制学校重塑季节性游牧人口生活形态。 | 拉巴里部族家庭选派个别子嗣入学，获取识字技能作为抵御外界盘剥与生计风险的家庭保险资产。 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 366–367)]]; Dyer (2001) |
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_King_2020_ECNUROE\|King (2020)]] | 2012–2018 年中非合作论坛（第 5、6、7 届）行动计划与 2016–2019 年中国“一带一路”教育行动追踪 | 官方政策文件逐段话语比对与宏观指标追踪分析 | 政府奖学金配额、短期业务培训名额、沿线奖学金投放比例及实训工坊建设 | 政府奖学金从 18,000 个（2012）增至 32,000 个（2015）再增至 50,000 个（2018）；短期研修名额从 30,000 增至 40,000 再增至 50,000；截至 2017 年奖学金向沿线国家投放比例达 66%；承诺就地培训 200,000 名职业技能人才并设立 10 所[[Luban Workshop\|鲁班工坊]] | — | 反映国家规划对跨国学生流动与技能培训的资源投放规模，不涵盖学生实际结业率与跨文化适应微观数据 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 欧洲高校（伊拉斯谟计划）、美国城市中小学及中国城乡随迁儿童就学群落 | 跨国比较政策分析与文献综合考察 | 跨国高教流动规模、中小学中途转学动因构成及随迁儿童政策规模 | 伊拉斯谟计划累计资助逾 150 万高校学生完成跨境学分流动；美国中小学约 60% 中途转校源于家庭客观居住变迁；中国涉及逾 2000 万[[Migrant Children\|随迁儿童]]的城市教育准入调控 | — | 揭示不同空间尺度与教育阶段下学生流动的政策建构差异，不宜跨学段直接简单推论 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 中国“一带一路”沿线国家跨境留学生资助体系 | 政策话语分析与高等教育地缘政治经济学考察 | “丝绸之路”全额奖学金覆盖项目与就业吸纳渠道 | 全额奖学金覆盖学费、住宿费与生活补贴；学生招募与中资海外基建工程岗位紧密绑定 | — | 揭示国家主导型跨国留学的补贴依赖性与地缘脆弱性 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid] 学生流动成因实证与制度反思研究
-> - **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]** 揭示欧美政策[[Discourse|话语]]对学生流动的阶层化道德评价，解构学校作为空间封闭容器对边缘群体的[[Disciplina and Doctrina|规训]]机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–368)]]
-> - **[[Argument_Woo_2023_HEP|Woo (2023)]]** 揭示新兴大国“一带一路”跨国留学生流动高度依赖国家全额奖学金与基建就业预期，解析其补贴型单向依附特征与地缘环境逆转下的脆弱性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
-> - **Rumberger（2003）** 实证检验美国中小学生中途转校动因，发现 60% 源于家庭客观居住变迁，反驳纯粹家庭病态化假设。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
-> - **Kerbow et al.（2003）** 调查芝加哥城市学校，证实同城近距离转校构成底层家庭逃离混乱不良学校的主动避险策略。
-> - **Levinson and Sparkes（2005）** 运用微观空间[[Ethnography|民族志]]揭示正规学校固化物理建筑对大篷车[[Migrant Children|流动儿童]]造成的严重空间文化失调。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
-> - **Dyer（2001）** 剖析印度拉巴里游牧部族在国家强制定居化政策下，主动利用学校识字教育作为家庭生计分散风险的保险策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 系统梳理中非合作论坛与“一带一路”教育行动中的奖学金与人力资源配额演进，揭示跨国学生流动在双向对等话语与单向资源供给之间的结构性张力，以及由单纯人员流动向产教融合实体共建的演变路径（pp. 222–227, 230）。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示欧美政策话语对学生流动的阶层化道德评价，解构学校作为空间封闭容器对边缘群体的规训机制（pp. 359–368）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 揭示新兴大国“一带一路”跨国留学生流动高度依赖国家全额奖学金与基建就业预期，解析其补贴型单向依附特征与地缘环境逆转下的脆弱性（pp. 692–693）。

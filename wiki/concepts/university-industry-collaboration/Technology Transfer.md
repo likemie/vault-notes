@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Technology Transfer
@@ -320,7 +320,8 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 追踪中非合作论坛与“一带一路”教育行动，揭示中国对外高教合作如何依托跨区域大学联盟、联合研究中心与技术转移基地，推动科研合作深度服务于重大产业走廊与跨国产能建设（pp. 226–230）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国高等教育国际化与地缘战略的交织，揭示顶尖研究型大学通过海外联合实验室与技术转移中心推动产学研跨国协同与硬实力输出。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构技术转移体系，论证破除跨校许可壁垒、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 审批与深化 [[Other Transaction Authority|OTA]] 商业授权对本土制造能力建设的核心作用。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证反思战后美国信息技术产业中的非专利技术转移机制，系统论证开源披露、军方第二供应商制度与人才流动对[[General Purpose Technology|通用目的技术]]商业化的决定性推动。
