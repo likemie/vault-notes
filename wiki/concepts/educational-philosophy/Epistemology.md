@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 74
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -97,11 +97,12 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Epistemology
@@ -111,7 +112,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **认识论（Epistemology）** 是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论假设（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，直接规约着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
+> **认识论（Epistemology）** 是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论假设（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，深刻塑造着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义（哲学视角）** 回答“我们如何知道（how we know）”以及“何为有效知识（what constitutes valid knowledge）”。
@@ -182,10 +183,10 @@ updated: 2026-10-16
 ### 命题一　认识论立场决定不同研究范式的有效知识判准与方法论路径
 
 > [!concept-lens] [[Paradigm\|研究范式]]的认识论映射
-> 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的刚性规约。
+> 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的界定与约束。
 
 > [!claim] Cohen et al.
-> **范式背后的认识论反思与进路规约** 研究规划由底层的认识论假设所奠定。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
+> **范式背后的认识论反思与进路选择** 研究规划由底层的认识论假设所奠定。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
 
 > [!feature] 经典范式与认识论映射谱系
 > - **[[Positivism\|实证主义]]** 知识源自对客观外在现象的系统观察、测量与假设检验，追求普适性因果规律。
@@ -318,4 +319,5 @@ updated: 2026-10-16
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于[[World-Systems Theory|世界体系分析]]作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与[[Empiricism|唯方法论主义]]弊端，以期刊计量数据诊断学科面临的[[Historical Amnesia|历史健忘症]]危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从存在论与认识论的边界出发批判可见学习范式，强调认识论关乎关于某物的认知条件，不能替代或降维还原先于科学的人类存在论根基，警告教育科学莫将动态生命成长狭隘简化为实证分数或效应量指标（pp. 4–5）。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 将认识论视角拓展至公共政策与比较治理领域，实证揭示国家决策层对“证据本位”的认识论追求如何构成偏向实证强国的政策学习机会结构，阐明认识论取向对跨国政策转移与评估技术硬转移的驱动机制（pp. 344–345）。
 

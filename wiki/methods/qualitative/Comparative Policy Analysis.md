@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -63,10 +63,11 @@ related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Comparative Policy Analysis
@@ -107,7 +108,7 @@ updated: 2026-10-16
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** [[Historical Institutionalism|历史制度主义]]、批判[[Discourse Analysis|话语分析]]与跨国制度比较取向；强调政策文本并非[[Value Neutrality|价值中立]]的技术方案，而是特定权力分配、政党联盟妥协、财政宪制结构、历史[[Path Dependence|路径依赖]]与空间治理理性的制度产物。
+> - **知识观** [[Historical Institutionalism|历史制度主义]]、批判[[Discourse Analysis|话语分析]]与跨国制度比较取向；强调政策文本是特定权力分配、政党联盟妥协、财政宪制结构、历史[[Path Dependence|路径依赖]]与空间治理理性的制度产物，深嵌着非中立的价值与政治立场。
 > - **研究者角色** 结构性制度侦测者、政策文本解构者与制度病理诊断者；通过跨案例多维对照与跨国[[Discourse|话语]]平行比对提炼一般性机制，克服单一国家[[Case Study|案例研究]]的局部盲视与后发国家的自我辩护修辞。
 > - **有效性标准** 维度界定的概念清晰度与功能等价性（Functional Equivalence）、跨案例法律文本与实证治理数据的相互印证、话语解构的文本扎根度，以及推论逻辑对制度[[Heterogeneity|异质性]]与执行断层的解释力。
 > - **不声称回答的问题** 单纯的跨案例质性维度对比与矩阵归纳本身无法直接测算不同政策对经济或学业产出的精确因果[[Effect Size|效应量]]（Treatment Effect），需结合微观计量模型或[[Counterfactual|反事实]]推断展开深度检验。

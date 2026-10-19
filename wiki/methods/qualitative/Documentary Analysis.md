@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 57
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"

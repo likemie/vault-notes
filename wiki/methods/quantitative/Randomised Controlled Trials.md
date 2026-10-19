@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 152
+method_related_count: 153
 method_related_level: 15
 method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -175,6 +175,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
@@ -433,4 +434,4 @@ updated: 2026-10-19
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判二阶元分析将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如班级规模缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以随机分配（RCT）为代表的美式量化评估规程成套引入“新政”福利改革，在就业保留与晋升（[[European Research Area|ERA]]）项目中实施大规模受控试验并由美方机构跨国落地。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以随机分配（RCT）为代表的美式量化评估规程成套引入“新政”福利改革，在就业保留与晋升（ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。

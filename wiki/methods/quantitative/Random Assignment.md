@@ -11,7 +11,7 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -89,6 +89,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: active
 created: '2026-05-31'
@@ -209,6 +210,11 @@ updated: 2026-10-19
 > 2. **[[Meta-meta-analysis|二阶元分析]]的无差别均值抹平** 然而在宏观[[Research Synthesis|证据综合]]中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究机械合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
 > 3. **因果纯度与宏观概括的[[Epistemology|认识论]]分裂** [[Ivan Snook|伊万·斯努克]]（Ivan Snook）等学者（2009）指出，这种将高质量随机分配试验与弱设计混杂合并的二阶元分析做法，实质上架空并稀释了初级实验通过严格随机化所辛苦建立的纯净因果结论；哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）则回应辩称，即便随机分配改变了物理班额，若教师未能相应调整教学行为，大规模财政投入依然效率低下。这揭示出微观严格随机分配实验与宏观二阶政策指引之间的深刻张力。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
 
+> [!case] 公共福利政策中随机分配的伦理张力与制度突破：英国残障新政与 ERA 示范项目
+> 随机分配要求设立不享受补贴或服务的对照组，在公共社会政策领域极易引发深层的[[Research Ethics|研究伦理]]争议与公众政治反弹：
+> 1. **弱势群体对照组设置受阻** 2002 年英国就业与养老金部（DWP）尝试在残障人士新政中实施美式随机对照实验，但因将部分弱势受助群体随机划入无法获得额外支持的对照组，遭到社会倡导团体与公众的强烈抗议，被指责违背社会正义并剥夺困难群体基本权益，导致实验一度搁浅。
+> 2. **循证刚性需求驱动更大规模制度实验** 面对伦理争议，决策层对严格因果检验的认识论诉求推动了制度设计创新。英国政府随后在英国就业保留与晋升示范项目中，成套引入美国成熟的双重激励设计，由美国专业智库 MDRC 跨境承接分组规程设计与现场运行审计，使随机分配规程在包含留职现金奖励的复合设计中突破了单一剥夺性对照的伦理困局，成为英国社会政策史上最大规模的随机对照实验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
+
 ---
 
 ## 相关条目网络
@@ -228,6 +234,7 @@ updated: 2026-10-19
 > | [[John Hattie]] | Person | 主张班级规模随机分配即使取得统计效应，若无教学法调适则政策效益有限。 |
 > | [[Pierre-Jérôme Bergeron]] | Person | 统计学者，以四组受控随机分配数值实验证实公式选择导致因果排名颠倒。 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | Argument | 实证与方法学批判 | 论证随机化数据经由三类合法公式换算导出完全相悖排名，揭示排行失真。 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 政策评估技术硬转移 | 剖析英国引入随机分配技术与开展就业保留示范实验的政治与伦理突破。 |
 
 ---
 
