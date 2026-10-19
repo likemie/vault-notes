@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,8 +273,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "85d71c7e1806f3b0",
+  "active": "6fb5fe28ef8580ac",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
+    "wiki/facts/china/Asian Universities Alliance.md",
+    "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md",
+    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-010/result.json",
+    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-009/result.json",
+    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-008/result.json",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-007/result.json",
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Waves-or-ripples--African-countries-risk-shocks-and-the-su_2024_China-Econom.pdf",
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/The-impact-of-international-student-education-on-faci_2026_International-Jou.pdf",
@@ -282,13 +288,8 @@
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Foreign-assisted-infrastructure-and-local-employment_2025_Journal-of-Compara.pdf",
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Can-donors-prevent-aid-misallocations--Evidence-from-Chine_2025_World-Develo.pdf",
     "raw/ScienceDirect_articles_18Oct2026_14-17-54.324/Aid-effectiveness-and-donor-motives_2024_World-Development.pdf",
-    "raw/ScienceDirect_articles_18Oct2026_14-17-54.324",
     "wiki/facts/china/Belt and Road Initiative.md",
-    "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
-    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-006/result.json",
-    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-005/result.json",
     "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
-    "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-004/result.json",
     "wiki/methods/quantitative/Effect Size.md",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-010/prompt.md",
     "output/related-updates/Argument_Chou_Demiryol_2024_HE-dad6b4ba/batch-009/prompt.md",
@@ -310,7 +311,6 @@
     "wiki/concepts/curriculum/Socioscientific Issues.md",
     "wiki/concepts/curriculum/Learning Intentions.md",
     "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md",
-    "wiki/concepts/instruction-pedagogy/Authentic Science Practices.md",
     "tmp/render_check/rr-020.png",
     "tmp/render_check/kc-015.png",
     "tmp/render_check/kb-015.png",
