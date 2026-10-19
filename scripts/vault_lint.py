@@ -2917,7 +2917,13 @@ ACADEMIC_BUZZWORDS = (
     "靶向", "解耦", "归约", "收敛", "规约",
 )
 NEGATIVE_CONTRAST_MARKERS = ("不是", "并非", "绝非", "不在于", "而是", "而在于")
-WRITING_REMINDER_CODES = {"ACADEMIC_BUZZWORD", "ACADEMIC_NEGATIVE_CONTRAST"}
+SELF_REFERENCE_MARKERS = ("论文", "本文", "本章", "作者")
+WRITING_REMINDER_CODES = {"ACADEMIC_BUZZWORD", "ACADEMIC_NEGATIVE_CONTRAST", "ACADEMIC_SELF_REFERENCE"}
+SELF_REFERENCE_REMINDER = (
+    "去掉自我说明性文字，避免以论文、本文、本章或作者作为常规叙述主语；"
+    "直接陈述具体判断、知识对象、机制、证据或结论，必要出处放在引用中。"
+    "需区分自我说明与实质讨论研究文献、章节或作者的必要表达，不机械删除。"
+)
 BUZZWORD_REMINDER = (
     "除非具有明确的概念内涵、切合具体语境且确有表达必要，否则避免使用此类互联网黑话和泛化的抽象词汇，"
     "优先采用准确、具体、自然的学术表达。"
@@ -3123,6 +3129,7 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
             for words, code, reminder in (
                 (ACADEMIC_BUZZWORDS, "ACADEMIC_BUZZWORD", BUZZWORD_REMINDER),
                 (NEGATIVE_CONTRAST_MARKERS, "ACADEMIC_NEGATIVE_CONTRAST", NEGATIVE_CONTRAST_REMINDER),
+                (SELF_REFERENCE_MARKERS, "ACADEMIC_SELF_REFERENCE", SELF_REFERENCE_REMINDER),
             ):
                 hits = [word for word in words if word in line]
                 if not hits:

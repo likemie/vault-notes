@@ -14,7 +14,7 @@ Treat `vault-schema.md` as the authority for writing and maintenance, and `vault
 ## Mandatory writing review
 
 - Run the normal incremental `vault_index.py` → `vault_lint.py` workflow after edits. Do not narrow paths, choose an empty comparison range, suppress output, or weaken checks to claim that unresolved writing findings passed.
-- Treat `ACADEMIC_BUZZWORD` and `ACADEMIC_NEGATIVE_CONTRAST` as blocking review requirements, including existing occurrences in files being checked. A successful command exit is required before reporting completion.
+- Treat `ACADEMIC_BUZZWORD`, `ACADEMIC_NEGATIVE_CONTRAST` and `ACADEMIC_SELF_REFERENCE` as blocking review requirements, including existing occurrences in files being checked. A successful command exit is required before reporting completion.
 - Existing valid exceptions are reused silently: do not re-review or re-justify them. For each unmatched occurrence, prefer a precise rewrite that preserves the source-supported meaning. Do not mechanically delete technical terms or rewrite genuine academic distinctions into inaccurate statements.
 - Retain an expression only after checking its specific concept, context and necessity. For negative contrasts, identify the actual opposed claim, source/context, substantive distinction and information gained. Do not invent an opponent or evidence.
 - Add only expressions actually reviewed and approved to `scripts/writing_exceptions.json`, as a list of lint-provided IDs under the entry's canonical vault-relative path. Store no reasons, evidence text or extra metadata. Never bulk-generate approvals just to make lint pass. The script validates binding and structure; the assistant must verify the substance against the actual source or passage before adding an ID.

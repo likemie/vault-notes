@@ -20,7 +20,6 @@ tags:
   - method/critical-review
 related_concepts:
   - "[[Global Educational Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discourse]]"
@@ -31,13 +30,19 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[STEM Education]]"
   - "[[Academic Achievement]]"
+  - "[[Value Neutrality]]"
   - "[[Constructivist Instruction]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[School Leadership]]"
+  - "[[Commensuration]]"
   - "[[Champ]]"
   - "[[Avatar]]"
-  - "[[Blind Spot in Observation]]"
+  - "[[Policy Mobility]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Critical Review]]"
   - "[[Case Study]]"
@@ -49,7 +54,6 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[PISA]]"
-  - "[[PISA for Schools]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[PISA Shock in Japan]]"
   - "[[Gaokao]]"
@@ -66,9 +70,9 @@ title: "Argument_Huang_2020_APJE"
 argument_key: "Argument_Huang_2020_APJE"
 argument_display_title: "The impact of the OECD on education worldwide"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 33
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Asia Pacific Journal of Education"
 book_title: ""
@@ -122,7 +126,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **核心文本** | 涵盖 [[OECD]] 专题调研论文集全文，包含三大分析维度与十章针对性实证研讨。（pp. 422–424） |
+> | **核心文本** | 涵盖 [[OECD]] 专题调研文集全文，包含三大分析维度与十章针对性实证研讨。（pp. 422–424） |
 > | **实证案例群** | 法国课程承接历程、大样本科学工程职业意向演化、五位总部项目专员访谈、美以两国民意追踪、学校测评试点网、日挪课程改革比对以及韩国升学博弈。（pp. 422–423） |
 > | **政策情境** | 亚太地区非成员国在面临跨国数字竞争时的政策调适空间。（p. 424） |
 
@@ -163,7 +167,7 @@ issuing_organization: ""
 > [!feature] 15 岁学生专业期望的群体分化特征
 > - **学科细分领域的演化分异** 追踪 2000 年至 2015 年测评周期的大样本数据发现，青少年在科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）大类下的具体细分专业门类中，职业意向与期望分布呈现出截然不同的演化路径，宽泛的科技教育口号无法覆盖真实的学科选择差异。（p. 422）
 > - **性别维度的结构性鸿沟** 男生与女生在技术工程类职业期望上展现出深层的性别分层，跨国通用能力量表的普及未能自动抹平根植于社会文化与性别规范的偏好差异。（p. 422）
-> - **学业表现分位的阶梯落差** [[Academic Achievement|学业成绩]]处于高分段与低分段的学生群体，其 STEM 职业抱负增长轨迹差异显著，证明单一全国平均分或排名汇总难以支撑针对处境不利群体的精准干预。（p. 422）
+> - **[[Academic Achievement|学业表现]]分位的阶梯落差** [[Academic Achievement|学业成绩]]处于高分段与低分段的学生群体，其 STEM 职业抱负增长轨迹差异显著，证明单一全国平均分或排名汇总难以支撑针对处境不利群体的精准干预。（p. 422）
 
 #### 2. 国际教学调查推崇的教学主张缺乏实证依据
 
@@ -173,7 +177,7 @@ issuing_organization: ""
 > | 比较维度 | 宣称的决策[[Paradigm\|范式]] | 实际推销的立场 |
 > |---|---|---|
 > | **知识依托** | **严谨因果证据**<br>标榜各项政策建议全部依托量化实验、大样本统计与循证医学式的客观科学检验。 | **社会建构主义教学观**<br>在教学规程与评价文本中一边倒地推崇以学生为中心的探究式教学与建构主义实践。 |
-> | **方法与立场脱节** | 宣称价值中立与实证驱动。 | 实际上未能对其推销的[[Constructivist Instruction\|建构主义教学模式]]提供扎实的因果效力实证检验，暴露出“言称循证证据、实推价值偏好”的自相矛盾。（p. 422） |
+> | **方法与立场脱节** | 宣称[[Value Neutrality\|价值中立]]与实证驱动。 | 实际上未能对其推销的[[Constructivist Instruction\|建构主义教学模式]]提供扎实的因果效力实证检验，暴露出“言称循证证据、实推价值偏好”的自相矛盾。（p. 422） |
 
 ---
 
@@ -187,22 +191,22 @@ issuing_organization: ""
 数据治理在基层行动者之间产生了不对称的[[Disciplina and Doctrina|规训]]机制。（pp. 422–423）
 
 > [!quad-grid] 四类微观行动主体在治理网络中的遭遇
-> - **学校管理者（学校领导力）**
+> - **学校管理者（[[School Leadership|学校领导力]]）**
 >   将校长界定为落实教育公平与推动薄弱校转型的核心“改革行动者”，主张公共财政应加大对弱势学校领导力的专项赋能，将系统质量提升的重担下沉至基层校长肩头。（pp. 422–423）
 > - **公众社会（美以民意实证）**
 >   利用美国与以色列的长期民意调查数据证明，尽管大众媒体的碎片化报道极度简化甚至误导了公众对实际成绩的认知，但经合组织成功借助媒体议程动员，使两国民众普遍将国际测验视作考核学生与学校无可动摇的权威标尺。（p. 423）
-> - **教师群体（专业资本转化）**
->   政策扩散话语打破了早期单纯计算劳动力技能产出的人力资本狭隘视角，转而将自主权、科层管理与协同网络整合进[[Professional Capital|专业资本]]框架，以此重塑全球教师专业化概念。（p. 423）
+> - **教师群体（[[Professional Capital|专业资本]]转化）**
+>   政策扩散话语打破了早期单纯计算劳动力技能产出的[[Human Capital Theory|人力资本]]狭隘视角，转而将自主权、科层管理与协同网络整合进[[Professional Capital|专业资本]]框架，以此重塑全球教师专业化概念。（p. 423）
 > - **基层学校（跨层级穿透）**
->   学校版国际学生评估项目绕开中央与地方教育行政部门的政治调节，直接向单所学校提供定制化基准诊断，使单所学校被动深陷去脉络化的全球横向竞争。（p. 423）
+>   学校版[[PISA|国际学生评估项目]]绕开中央与地方教育行政部门的政治调节，直接向单所学校提供定制化基准诊断，使单所学校被动深陷去脉络化的全球横向竞争。（p. 423）
 
 #### 2. 校际直接测评造成教育实体的去情境化
 
-最深层的认知控制体现为[[PISA for Schools|学校版国际学生评估项目]]（PISA for Schools）的推广。该项目直接向单个学校出具测评报告和跨国对照排位，削弱了主权政府的政策缓冲作用。（p. 423）
+最深层的认知控制体现为学校版国际学生评估项目（PISA for Schools）的推广。该项目直接向单个学校出具测评报告和跨国对照排位，削弱了主权政府的政策缓冲作用。（p. 423）
 
 > [!proc] [[Epistemology|认识论]]治理在基层学校的渗透路径
 > 1. **消解层级过滤** 直接向学校与基层教育工作者出具对标报告，削弱国家或地方教育行政体系在政策传导中的中介、调节与缓冲职能。（p. 423）
-> 2. **构造同质化空间** 凭借空间关系与量化指标，强行将地理位置隔绝、文化底蕴迥异且社会经济条件不一的学校系统并置于同一个通约的度量[[Champ|场域]]之中。（p. 423）
+> 2. **构造同质化空间** 凭借空间关系与量化指标，强行将地理位置隔绝、文化底蕴迥异且社会经济条件不一的学校系统并置于同一个[[Commensuration|通约]]的度量[[Champ|场域]]之中。（p. 423）
 > 3. **内化外来规程** 促使一线校长与教师将这套跨国数据诊断内化为衡量校内教育质量与教师绩效的日常问责标准。（p. 423）
 > 4. **产生去情境化恶果** 将生动的育人实体还原为去脉络化、无文化属性与无历史渊源的孤立数据点，遮蔽了各校所处社区的真实生态复杂度。（p. 423）
 
@@ -229,7 +233,7 @@ issuing_organization: ""
 在韩国案例中，外来政策在与本土激烈的竞争现实碰撞中经历了深刻的空间重构。（p. 423）
 
 > [!case] 跨国政策在韩国教育空间的本土化与再领土化
-> - **流动教育事件的认知特权** 基于政策流动理论与再领土化视角，跨国测验不仅是一套考卷，更是一种携带特定比较认识论与统计数字神话的“流动教育事件”，在进入韩国后确立了由数据裁定教育优劣的真理霸权。（p. 423）
+> - **流动教育事件的认知特权** 基于[[Policy Mobility|政策流动]]理论与再领土化视角，跨国测验不仅是一套考卷，更是一种携带特定比较认识论与统计数字神话的“流动教育事件”，在进入韩国后确立了由数据裁定教育优劣的真理霸权。（p. 423）
 > - **本土选拔文化的复杂再塑** 这项外来输入直接遭遇了韩国极度白热化的[[Gaokao|高考]]升学竞争与考试文化；本土政治与教育行动者反向利用国际测评数据来重新规划国家课程并为国内严苛的升学考试体制背书，使原本普适的跨国话语在本土情境中演变为高度分化、多向博弈的本土变体。（p. 423）
 
 #### 3. 破除数字迷信以守护本土教育的多样生态
@@ -246,27 +250,22 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **双重标准悖论** 经合组织标榜客观循证决策，但在国际教学调查（TALIS）中推销缺乏因果实证支持的建构主义教学主张。（p. 422）
-> 2. **微观穿透机制** 经合组织通过学校版评估（PISA for Schools）跨过主权政府中介，直接构建全球通约场域并迫使学校去情境化。（p. 423）
+> 1. **双重标准悖论** [[OECD|经合组织]]标榜客观[[Evidence-Based Policy-Making|循证决策]]，但在国际教学调查（[[Teaching and Learning International Survey|TALIS]]）中推销缺乏因果实证支持的[[Constructivist Instruction|建构主义教学]]主张。（p. 422）
+> 2. **微观穿透机制** 经合组织通过学校版评估（[[PISA]] for Schools）跨过主权政府中介，直接构建全球[[Commensuration|通约]][[Champ|场域]]并迫使学校去情境化。（p. 423）
 > 3. **主权课程重构** 日本与挪威在测评震荡下将国际测验转化为国家课程指导要领的内容规范。（p. 423）
-> 4. **本土多向重塑** 跨国政策输入在韩国遭遇极度白热化的高考升学文化，在再领土化中演变为维护本土选拔利益的复杂变体。（p. 423）
-
-> [!stat-cards]- 核心数据
-> - **10** 论文集所收录的经合组织全球教育治理专题研究章节总数（章）。（p. 422）
-> - **5** 剖析国际教学调查（TALIS）价值偏向时深度半结构化访谈的经合组织核心专员人数（位）。（p. 422）
-> - **15** 国际学生评估项目（PISA）追踪科学工程等职业期望演变所界定的受试学生基准年龄（岁）。（p. 422）
+> 4. **本土多向重塑** 跨国政策输入在韩国遭遇极度白热化的[[Gaokao|高考]]升学文化，在再领土化中演变为维护本土选拔利益的复杂变体。（p. 423）
 
 ---
 
 ## 关键引用
 
-> [!citation-card]- 经合组织教学导向的双重尺度悖论
-> 著者深入分析了经合组织通过其话语传播的教学取向的本质与基础，指出其内部存在自相矛盾的教学立场：其倡导的教学取向脱离了作为官方决策基石的循证政策，高度偏向未经验证的‘社会建构主义’教学实践。
+> [!citation-card]- [[OECD|经合组织]]教学导向的双重尺度悖论
+> 著者深入分析了经合组织通过其[[Discourse|话语]]传播的教学取向的本质与基础，指出其内部存在自相矛盾的教学立场：其倡导的教学取向脱离了作为官方决策基石的循证政策，高度偏向未经验证的‘[[Constructivist Paradigm|社会建构主义]]’教学实践。
 >
-> *The authors analyse the nature and foundations of teaching orientations transmitted by the OECD through its discourse and found that there is a problematic and paradoxical pedagogical position in the OECD. The teaching orientations are not founded on the evidence-based policy which it uses as the main tool for decision-making, rather, it is the “socio-constructivist” practices that is valued.* (p. 422)
+> *The authors analyse the nature and foundations of teaching orientations transmitted by the OECD through its discourse and found that there is a problematic and paradoxical pedagogical position in the OECD. The teaching orientations are not founded on the [[Evidence-Based Policy-Making|Evidence-Based Policy]] which it uses as the main tool for decision-making, rather, it is the “socio-constructivist” practices that is valued.* (p. 422)
 
 > [!citation-card]- 学校版评估对教育实体的去脉络化塑造
-> 通过空间关系，量化和比较绩效数据将文化各异且地理相隔的学校系统与单所学校置于同一个通约的教育场域之中，经合组织在此成功推行了校级改革并实践了其对教育的认识论治理。然而，著者指出，学校版国际学生评估项目（PISA for Schools）的横向比较也将单所学校定位为一种去情境化、无文化与无历史属性的独立实体，从而导致对复杂现实的过度简化。
+> 通过空间关系，量化和比较绩效数据将文化各异且地理相隔的学校系统与单所学校置于同一个[[Commensuration|通约]]的教育[[Champ|场域]]之中，经合组织在此成功推行了校级改革并实践了其对教育的[[Epistemology|认识论]]治理。然而，著者指出，学校版[[PISA|国际学生评估项目]]（PISA for Schools）的横向比较也将单所学校定位为一种去情境化、无文化与无历史属性的独立实体，从而导致对复杂现实的过度简化。
 >
 > *Through spatial relations, the quantitative and comparative performance data situate culturally different and geographically distant schooling systems and schools within a commensurate education field, where the OECD successfully effects school-level reforms and practices its epistemological governance of education. However, the author argues that the comparisons in PISA for Schools also lead to oversimplification of complex situations by positioning a school as a decontextualized, acultural and ahistorical entity.* (p. 423)
 
@@ -275,7 +274,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 本文作为对专题学术论文集的系统评述，受限于书评体裁的篇幅约束，对全书十章各自采用的复杂实证抽样模型（如大样本 STEM 职业意向分层回归、美以两国民调加权等）未能逐一展开技术性参数呈现；同时，著者指出书中所涵盖的成功经验（如学校领导力与师资培训规程）在移植至非经合组织成员国（特别是亚太地区转型中国家）时，必须审慎考察制度转型的特殊语境，警惕将指标直接作为政策解药的普适化倾向。（pp. 422–424）
+> 本文作为对专题学术论文集的系统评述，受限于书评体裁的篇幅约束，对全书十章各自采用的复杂实证抽样模型（如大样本 [[STEM Education|STEM]] 职业意向分层回归、美以两国民调加权等）未能逐一展开技术性参数呈现；同时，著者指出书中所涵盖的成功经验（如[[School Leadership|学校领导力]]与师资培训规程）在移植至非[[OECD|经合组织]]成员国（特别是亚太地区转型中国家）时，必须审慎考察制度转型的特殊语境，警惕将指标直接作为政策解药的普适化倾向。（pp. 422–424）
 
 ---
 
