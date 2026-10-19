@@ -244,6 +244,14 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "output/市级课题 数据核查修订.docx",
+    "tmp/render_check/fx-075.png",
+    "tmp/render_check/fx-056.png",
+    "tmp/render_check/vfix.pdf",
+    "tmp/render_check/lu4411gqg.tmp",
+    "tmp/render_check/vfix.docx",
+    "tmp/audit/audit.py",
+    "tmp/audit",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-001/result.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-001/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-001/prompt.md",
@@ -254,17 +262,11 @@
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-008/prompt.md",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-006/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-007/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-005/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-004/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-003/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-002/prompt.md",
-    "output/related-updates/Argument_Legrand_2012_PolStud-0751103c/batch-002/batch-result.schema.json",
     "wiki/arguments/index.md",
     "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
     "tmp/render_check/lr-191.png",
@@ -287,8 +289,6 @@
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig1_Grade_Distribution.png",
     "sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig1_Grade_Distribution.jpg",
     "sources/Bergeron_2017_MJE/figures/page7_formula_or_graphic.png",
-    "sources/Bergeron_2017_MJE/figures/page4_formula_or_graphic.png",
-    "page1_img.png",
-    "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg"
+    "sources/Bergeron_2017_MJE/figures/page4_formula_or_graphic.png"
   ]
 }
