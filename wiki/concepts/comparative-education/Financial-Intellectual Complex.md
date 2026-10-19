@@ -28,7 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge Bank]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemic Value]]"
   - "[[Structural Adjustment Programs]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Financial-Intellectual Complex
@@ -102,7 +102,7 @@ updated: 2026-10-17
 > [!contrast-table] 金融-智识复合体与传统学术研究共同体辨析
 > | 维度 | 金融-智识复合体（Financial-Intellectual Complex） | 独立学术研究共同体（Independent Academia） |
 > |---|---|---|
-> | **资金与动力源泉** | 国际多边金融信贷、项目配套拨款与定向委托合同 | 大学[[Blue Skies Research\|基础研究]]经费、竞争性科学基金与学术探索自驱 |
+> | **资金与动力源泉** | 国际多边金融信贷、项目配套拨款与定向委托合同 | 大学[[Curiosity-Driven Research\|基础研究]]经费、竞争性科学基金与学术探索自驱 |
 > | **主导方法论规程** | 投入产出分析、[[Cost-Benefit Analysis\|成本效益分析]]、教育收益率计算（Rate of Return） | 质性扎根、批判史学、多元[[Mixed Methods Research\|混合方法]]与[[Rich and Thick Description\|深描]]反思 |
 > | **[[Epistemic Value\|认识论价值]]取向** | 技术官僚工具理性（Instrumental Rationality）、去政治化 | 价值自觉、政治性反思、批判社会批判与历史脉络追溯 |
 > | **对政策的影响方式** | 贷款审批前置条件、国家级[[Structural Adjustment Programs\|结构调整方案]]硬性植入 | 学术出版、同行评议、公开政策咨询与社会公众对话 |

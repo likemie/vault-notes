@@ -40,7 +40,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Shape-Shifting]]"
   - "[[New Professionalism]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Research Excellence Framework
@@ -124,14 +124,14 @@ updated: 2026-10-16
 > - **教学契约的[[New Professionalism\|新专业主义]]化**
 >   教学关系被新专业主义（new professionalism）的审计契约关系所取代。教学过程被标准化课程手册、辅导备忘录存档所监控，师生间传统的学术伦理纽带被官僚契约所驱逐，以符合外部审计机构的可见性与可监控性要求。
 > - **研究承诺的功利化与降级**
->   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Blue Skies Research\|蓝天研究]]被降级为非[[Pragmatic Paradigm\|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–322]]）。
+>   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Curiosity-Driven Research\|蓝天研究]]被降级为非[[Pragmatic Paradigm\|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–322]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] 学术审计与 REF 影响研究
-> - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research\|蓝天研究]]。
+> - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Curiosity-Driven Research\|蓝天研究]]。
 > - **[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators\|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
 > - **[[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact\|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
 > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学[[Public Engagement with Science\|公众科学参与]]的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。

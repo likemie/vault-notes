@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[OECD]]"
 tags:
@@ -25,7 +25,6 @@ tags:
   - theme/oecd
 related_concepts:
   - "[[Operationalization]]"
-  - "[[Blue Skies Research]]"
   - "[[Total Quality Management]]"
   - "[[National Innovation System]]"
 related_theories:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Frascati Manual
@@ -66,7 +65,7 @@ updated: 2026-10-16
 > [!policy-design]- 政策设计
 > - **政策目标** 消除各国在科技投入核算上的歧义，为跨国科学政策审议（Science Policy Reviews）提供统一客观的量化标尺。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **适用对象** 国家统计机构、大学实验室、政府科研院所及工业企业的专业研发部门。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
-> - **统计工具** 明确划分基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）与试验发展（Experimental Development）三大活动范畴，设计专职研发人员（FTE）与全口径研发支出核算表。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
+> - **统计工具** 明确划分基础研究（Basic Research）、应用研究（Applied Research）与试验发展（Experimental Development）三大活动范畴，设计专职研发人员（FTE）与全口径研发支出核算表。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
 > - **应用机制** [[OECD]] 定期汇编出版主权国家科技指标数据库，作为各成员国制定科技发展规划与年度预算拨款的核心依据。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 
 ---

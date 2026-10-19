@@ -32,7 +32,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Metascience]]"
   - "[[Focused Research Organization]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Engineering Education]]"
   - "[[Sunset Provisions]]"
   - "[[Use-Inspired Basic Research]]"
@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # National Science Foundation
@@ -140,7 +140,7 @@ updated: 2026-10-16
 > - **成立时间与创设背景** 1950 年依据美国国会立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
 > - **总部地点与辐射范围** 总部位于美国弗吉尼亚州亚历山德里亚（Alexandria, Virginia），业务资助与合作网络辐射全美 2,000 多所高校、科研院所、学区以及数十个跨部门区域创新网络。
 > - **法人属性与经费基础** 属于美国联邦政府独立行政机构，享有国会独立财政预算拨款，年度科研投资预算约 90 至 100 亿美元，约占美国大学所获联邦非医学基础科研资助总额的四分之一。
-> - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Blue Skies Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
+> - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Curiosity-Driven Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-16
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
-> - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位诺贝尔奖得主。
+> - **大学基础科研资助基石（[[Curiosity-Driven Research|Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位诺贝尔奖得主。
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]] 与 [[Engineering Research Centers|ERC]]）** 建立大学与工业界共同攻坚共性工程技术的长效跨界网络。I/UCRC 通过行业伙伴资金匹配促进基础成果快速扩散；ERC 则通过 10 年长期稳定资助，开创了跨学科工程系统集成的[[Paradigm|范式]]。[[Argument_Block_2008_PS|(Block, 2008, pp. 174–176, 180–182)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **[[SBIR and STTR Programs|小企业创新研究计划]]策源（[[SBIR and STTR Programs|SBIR]]）** 1977 年在 NSF 创立的[[Seed Funding|种子资助]]机制，成为全联邦扶持高科技衍生初创企业跨越[[Valley of Death|死亡之谷]]的旗舰政策工具。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178)]]
 > - **未来半导体前沿计划（FuSe / FuSe2）与多维[[Co-Design|协同设计]]** 联合工业界设立 Future of Semiconductors 专项，跨学部资助二维材料、神经形态器件、自旋电子学与全栈[[Co-Design|协同设计]]，并设立跨机构中试直通车突破后摩尔时代物理极限。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
@@ -221,7 +221,7 @@ updated: 2026-10-16
 > > [!axis] 纯基础科研 vs 应用商业化与产业竞争导向
 > > 探讨国家基金会是否应坚守纯粹好奇心驱动的学术探索，还是向产业应用与国家竞争倾斜。
 > >
-> > - **传统科研纯粹论** 担忧设立 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会后资金过度向市场回报与短期应用倾斜，侵蚀[[Blue Skies Research|蓝天研究]]生态。
+> > - **传统科研纯粹论** 担忧设立 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会后资金过度向市场回报与短期应用倾斜，侵蚀[[Curiosity-Driven Research|蓝天研究]]生态。
 > > - **[[Innovation Ecosystem|创新生态]]协同论** 面对全球科技战略博弈，Atkinson & Blanpied 论证[[University-Industry Collaboration|产学合作]]让学者洞察现实工业挑战，实现基础理论与产业应用的正向循环。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 >
 > > [!axis] 同行评议保守性 vs [[Metascience|元科学]]机制试验（金券/对人/快速资助）
@@ -263,7 +263,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Blue Skies Research]] | Concept | NSF 传统资助的核心学术探索[[Paradigm\|范式]]。 |
+> | [[Curiosity-Driven Research|Blue Skies Research]] | Concept | NSF 传统资助的核心学术探索[[Paradigm\|范式]]。 |
 > | [[Science, The Endless Frontier 1945]] | Fact | 催生 NSF 创立的基石性国家科技政策报告。 |
 > | [[Metascience]] | Concept | 2026 年新战略要求 NSF 设立专职单元、运用[[Scientific Method\|科学方法]]革新资助选拔机制的学科。 |
 > | [[Focused Research Organization]] | Concept | NSF [[Directorate for Technology, Innovation and Partnerships\|TIP]] [[NSF X-Labs\|X-Labs]] 突破大学界限、直接资助中等规模工程科学的新型组织实体。 |

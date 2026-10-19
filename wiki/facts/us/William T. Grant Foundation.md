@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Academic Freedom]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Internal Validity]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # William T. Grant Foundation
@@ -143,7 +142,7 @@ updated: 2026-10-17
 > [!debates] 核心争议
 >
 > > [!axis] 慈善资本对公共学术议程的隐性导向
-> > 批评者指出，尽管私人基金会推行[[Democratising Evidence\|证据民主化]]与社会正义，但其雄厚财力本质上仍可能构成对大学独立[[Academic Freedom\|学术自由]]与探索性[[Curiosity-Driven Research|纯基础研究]]（[[Blue Skies Research]]）的隐性议程塑造。
+> > 批评者指出，尽管私人基金会推行[[Democratising Evidence\|证据民主化]]与社会正义，但其雄厚财力本质上仍可能构成对大学独立[[Academic Freedom\|学术自由]]与探索性[[Curiosity-Driven Research|纯基础研究]]（[[Curiosity-Driven Research|Blue Skies Research]]）的隐性议程塑造。
 > >
 > > - **批判视角** 担忧对社会效益与实用落地考核的过度强调，会挤压看似无直接政策用途但具备长远革命性突破的纯理论探索空间。
 > > - **基金会辩护** 格兰特基金会明确强调其追求的是以严谨实证方法为底座的社会效益，反思的是象牙塔的自我封闭，绝非否定高标准科学研究本身。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]

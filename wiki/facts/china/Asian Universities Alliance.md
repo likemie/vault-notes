@@ -9,7 +9,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -34,7 +34,8 @@ related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -51,7 +52,7 @@ updated: 2026-10-19
 > 亚洲大学联盟（Asian Universities Alliance, AUA）是由清华大学于2017年发起成立的区域性高端大学多边联合体，汇集亚洲13个国家和地区的15所代表性研究型大学，致力于深化区域教育资源互通与跨国协同创新，共同应对亚洲及全球发展挑战。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2016年3月在博鳌亚洲论坛上由清华大学倡议提出，2017年4月在北京正式宣告成立，契合“一带一路”倡议（Belt and Road Initiative, BRI）框架下加强亚洲高等教育互联互通的战略部署。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
+> - **成立时间 / 创设背景** 2016年3月在博鳌亚洲论坛上由清华大学倡议提出，2017年4月在北京正式宣告成立，契合一带一路倡议（Belt and Road Initiative, BRI）框架下加强亚洲高等教育互联互通的战略部署。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
 > - **总部地点 / 业务辐射** 秘书处常设于中国北京清华大学，成员网络覆盖东亚、中亚、南亚、东南亚与中东地区的旗舰大学。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 > - **法人属性与经费基础** 区域多边非营利性大学合作平台，运营经费由发起高校与成员高校多边筹措，并获得成员国相关科研基金与专项项目资金支持。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 > - **核心宗旨与法定职责** 汇聚亚洲优势高等教育资源，通过学者奖励计划、跨国联合研究、高层次青年论坛与常态化校长峰会，增进亚洲高等教育的全球话语权与自主治理能力。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]

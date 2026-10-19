@@ -9,7 +9,7 @@ summary: "美国电气工程师与科技政策管理者，DARPA 史上任期最�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[DARPA Model]]"
   - "[[Broad Agency Announcement]]"
-  - "[[Blue Skies Research]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Innovation Ecosystem]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-19
 ---
 
 # Tony Tether
@@ -104,7 +103,7 @@ updated: 2026-10-15
 > [!citation-card] 弥合基础研究与作战能力鸿沟
 > [[DARPA]] 的使命不仅仅是发掘科学灵感，更是要跨越由概念验证通向实际作战能力之间的巨大断裂带，确保前沿技术能够真正交付给作战人员。
 >
-> *DARPA must bridge the gap between [[Blue Skies Research|Basic Research]] exploration and actual operational capability delivery.*
+> *DARPA must bridge the gap between Basic Research exploration and actual operational capability delivery.*
 
 ---
 

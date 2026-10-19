@@ -50,7 +50,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Emergence]]"
   - "[[Zone of Desired Effects]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -85,7 +85,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-19
 year: 2018
 doi: 10.1002/berj.3338
 citation_aliases:
@@ -279,7 +279,7 @@ citation_aliases:
 > [!stat-cards]- 核心数据
 > - **+0.24 标准差** 官方声称的 [[Effect Size\|效应量]]（等同于 3 个月额外进步），技术解构证实该效应量是由于对照组和干预组前测样本失衡产生的伪像。(p. 5)
 > - **0.40** [[John Hattie\|约翰·哈蒂]]提出的教学干预“铰链点”（[[Zone of Desired Effects|Hinge Point]]），用于区分高效与低效项目，但该数值因忽视干预持续时间、学生年龄及计算基准差异而备受测量学质疑。(p. 11)
-> - **800 与 50,000** 哈蒂的元-元分析研究所宣称囊括的元分析数量与 [[Blue Skies Research\|蓝天研究]]数量，这种宏大聚合以剥离所有情境信息为代价。(p. 10)
+> - **800 与 50,000** 哈蒂的元-元分析研究所宣称囊括的元分析数量与 [[Curiosity-Driven Research\|蓝天研究]]数量，这种宏大聚合以剥离所有情境信息为代价。(p. 10)
 
 ---
 

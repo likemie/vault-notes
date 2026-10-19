@@ -30,7 +30,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
   - "[[Disciplinary Institutionalization]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Scientific Method]]"
   - "[[Theory of Knowledge]]"
   - "[[Metascience]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Dirk Van Damme
@@ -113,7 +113,7 @@ updated: 2026-10-16
 >   - **阶段转向** 突破传统[[Academic Achievement\|学业成就]]评价框架，开创跨国社会情感能力测量与全球教育演变前瞻智库议程。
 > - **2018–至今 — [[Evidence-Based Education\|循证教育]]知识生态重构与自主演绎科学[[Disciplinary Institutionalization|学科建制]]** 全面反思全球教育科研与决策实践之间的严重断层，诊断供给侧的[[Epistemology\|认识论]]赤字与意识形态羁绊。
 >   - **代表著作** *Perspectives on education research* (2022, In Revai (Ed.))。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–206)]]
->   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Blue Skies Research]]、[[Replication in Education Research\|复现危机]]、内幕偏误。
+>   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Curiosity-Driven Research|Blue Skies Research]]、[[Replication in Education Research\|复现危机]]、内幕偏误。
 >   - **阶段转向** 从具体的国际政策比较与测评项目，上升为对教育学作为一门独立[[Scientific Method\|经验科学]]的学科[[Theory of Knowledge\|知识论]]基础与治理机制的[[Metascience|元科学]]批判。
 
 ---
@@ -189,7 +189,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Epistemology]] | 概念 | 系统剖析教育研究面临的认识论不确定性，批判机械借用邻近[[Discipline-Based Theory\|学科理论]]而缺乏自主体系。 |
-> | [[Blue Skies Research]] | 概念 | 主张政府设立战略性增量资金，摆脱即时实用功利诉求，投向长周期探索性基础研究。 |
+> | [[Curiosity-Driven Research|Blue Skies Research]] | 概念 | 主张政府设立战略性增量资金，摆脱即时实用功利诉求，投向长周期探索性基础研究。 |
 > | [[Evidence-Based Education]] | 概念 | 揭示顶级期刊仅 0.13% 复现率与内幕偏误，要求以严格同行评议重塑循证教育学术公信力。 |
 > | [[Research Utilization]] | 概念 | 主持 [[OECD]] [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，系统测绘成员国政策制定与学校实践中的研究利用机制。 |
 > | [[Constructivist Paradigm]] | 概念 | 批判将社会建构主义等规范性信念直接替代实证科学理论的流行倾向。 |

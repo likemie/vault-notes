@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Academic Freedom]]"
   - "[[Research Question]]"
-  - "[[Blue Skies Research]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Based Research Center]]"
   - "[[Academic Entrepreneurship]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Center for Integrated Systems
@@ -108,7 +107,7 @@ updated: 2026-10-16
 > [!citation-card] 莱斯·霍根论大学中心对抗外国产业竞争
 > 霍根博士指出，日本作为美国在高技术领域的主要竞争对手，在对日本经济未来至关重要的基础[[Research Question|研究问题]]上采取了类似的组织进路……为了战胜外国竞争，我们需要在另外半打顶尖大学建立类似 CIS 这样由产业界资助的项目，同时产业界自身也必须重振基础研究活力。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 296)]]
 >
-> *Dr. Hogan points out that Japan, whom he feels is America's main competition in high technology, has employed somewhat the same approach to [[Blue Skies Research|Basic Research]] on problems crucial to Japan's economic future .... "To win against foreign competition," says Dr. Hogan, "we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself."*
+> *Dr. Hogan points out that Japan, whom he feels is America's main competition in high technology, has employed somewhat the same approach to Basic Research on problems crucial to Japan's economic future .... "To win against foreign competition," says Dr. Hogan, "we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself."*
 
 ---
 

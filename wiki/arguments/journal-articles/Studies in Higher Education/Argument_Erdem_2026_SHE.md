@@ -45,7 +45,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Procedural Skill]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Flow]]"
   - "[[Unit of Analysis]]"
   - "[[Surface and Deep Learning]]"
@@ -85,7 +85,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-17
+updated: 2026-10-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Erdem_2026_SHE"
@@ -270,7 +270,7 @@ issuing_organization: ""
 > |---|---|
 > | **研究** | 编码为研究者（发表年份）。 |
 > | **结果** | 按元分析报告的学生原始分数原样编码、不合并；编码的结果类型包括理论性知识、临床技能、批判性思维与学生满意度；元分析将不同学生结果合并报告时，该结果编码为综合；某结果类型效应量不足以独立成组（k < 3）时编码为其他；技能与知识以外的结果（如倾向、兴趣）编码为学生态度。 |
-> | **[[Blue Skies Research\|基础研究]]地点** | 元分析覆盖特定国家或地区时按覆盖地点编码；元分析不限定于任何特定地点的调查时编码为非特定。 |
+> | **[[Curiosity-Driven Research\|基础研究]]地点** | 元分析覆盖特定国家或地区时按覆盖地点编码；元分析不限定于任何特定地点的调查时编码为非特定。 |
 > | **高等教育专业** | 编码为医学、牙科、护理、理科与文科。 |
 > | **基础研究抽样方法** | 元分析仅含随机对照组（RCG）时编码为 RCG；同时含随机与非随机对照组时编码为 RCG 与非 RCG。 |
 > | **元分析质量** | 采用 Kung 等（2010）修订的 R-AMSTAR 量表评分，编码为不充分、低、中等与高。 |

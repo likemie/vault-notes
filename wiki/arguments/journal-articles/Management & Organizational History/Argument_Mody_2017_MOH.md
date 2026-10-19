@@ -34,7 +34,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Grandes Ecoles]]"
   - "[[Champ]]"
-  - "[[Blue Skies Research]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
@@ -63,14 +62,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mody_2017_MOH"
 argument_key: "Argument_Mody_2017_MOH"
 argument_display_title: "Academic centers and/as industrial consortia in American microelectronics research"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -340,7 +339,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > [!citation-card]- 仙童霍根论产业界为何需要类似 CIS 的大学中心
 > 霍根博士指出，作为美国在高技术领域主要竞争对手的日本，对关乎日本经济未来的重大关键问题基础研究采取了类似的方法。霍根博士表示：“要在外国竞争中获胜，我们需要像 CIS 这样由工业界资助的计划进驻我们最好的半打大学，同时配合产业界自身对基础研究重新焕发的活力。”（p.296）
 >
-> *Dr. Hogan points out that Japan, whom he feels is America’s main competition in high technology, has employed somewhat the same approach to [[Blue Skies Research|Basic Research]] on problems crucial to Japan’s economic future .... ‘To win against foreign competition,’ says Dr. Hogan, ‘we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself’.*
+> *Dr. Hogan points out that Japan, whom he feels is America’s main competition in high technology, has employed somewhat the same approach to Basic Research on problems crucial to Japan’s economic future .... ‘To win against foreign competition,’ says Dr. Hogan, ‘we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself’.*
 
 ---
 

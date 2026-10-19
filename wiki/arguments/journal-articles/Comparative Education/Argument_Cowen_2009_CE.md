@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[New Professionalism]]"
-  - "[[Blue Skies Research]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Cross-National Attraction]]"
   - "[[Heterogeneity]]"
@@ -74,7 +73,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-19
 year: 2009
 doi: ""
 citation_aliases:
@@ -213,7 +212,7 @@ citation_aliases:
 > **契约取代伦理** 准契约关系与[[New Professionalism\|新专业主义]]（new professionalism）彻底驱逐了传统的师生伦理纽带与职业承诺。
 > - **研究关系的功利化与降级**
 > **应用效能主导** 科研被锁定于实用与社会影响（impact）导向，唯有具备显著社会影响力的知识才能获取经费资助。
-> **基础学术降级** 探索本质规律的[[Blue Skies Research\|蓝天研究]]（[[Curiosity-Driven Research|Blue-Sky Research]]）被降级为非[[Pragmatic Paradigm\|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义追求被合同契约关系完全取代。
+> **基础学术降级** 探索本质规律的[[Curiosity-Driven Research\|蓝天研究]]（[[Curiosity-Driven Research|Blue-Sky Research]]）被降级为非[[Pragmatic Paradigm\|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义追求被合同契约关系完全取代。
 
 ### 第四步：提出 3T 框架作为分析工具
 

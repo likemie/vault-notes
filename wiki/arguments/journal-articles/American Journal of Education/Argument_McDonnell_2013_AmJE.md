@@ -43,7 +43,6 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
-  - "[[Blue Skies Research]]"
   - "[[Central Phenomenon]]"
   - "[[Feedback]]"
   - "[[Research Purpose]]"
@@ -91,16 +90,16 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_McDonnell_2013_AmJE"
 argument_key: "Argument_McDonnell_2013_AmJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 60
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 59
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: "American Journal of Education"
 book_title: ""
@@ -420,7 +419,7 @@ issuing_organization: ""
 > [!citation-card] 证据利用在政策周期中的权变规律
 > 即便在最有利于循证决策的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。
 >
-> *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to Teach students in different educational and cultural contexts.*（p. 19）
+> *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that Basic Research be combined with knowledge based on professional judgment about how best to Teach students in different educational and cultural contexts.*（p. 19）
 
 > [!citation-card] 诉诸实证研究以终结主观利益博弈
 > 过去的标准制定往往受制于个人主观裁量。当允许个人偏好决定哪些知识进入或剔除出国家标准时，整个过程就会蜕变为无休止的政治讨价还价，而非真正去反思实证研究揭示出的中小学学习经验与未来升学就业成功之间的真实因果链条。

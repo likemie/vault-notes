@@ -16,7 +16,7 @@ tags:
   - topic/evaluation
 related_concepts:
   - "[[Pure Evaluation]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Value Neutrality]]"
@@ -35,7 +35,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-19
 ---
 # Evaluation Research
 
@@ -57,7 +57,7 @@ updated: 2026-10-15
 
 ## 概念辨析
 
-> [!contrast-table] 评估研究 vs [[Blue Skies Research\|蓝天研究]]
+> [!contrast-table] 评估研究 vs [[Curiosity-Driven Research\|蓝天研究]]
 > | 维度 | 评估研究（Evaluative Research） | 蓝天研究（Blue Skies Research） |
 > |------|-------------------------------|-------------------------------|
 > | 研究动机 | 回答委托方或政策给定的问题 | 源于研究者的好奇心和求知欲 |
@@ -98,7 +98,7 @@ updated: 2026-10-15
 > 过去二十余年，"分类资助"（categorical funding）——即政府或赞助方预先设定[[Research Topic\|研究主题]]和边界、研究者通过竞标承接——大幅增长，推动了教育研究中评估研究占比的上升。Burgess（1993, p. 1）指出："研究者不过是合同工……教育研究必须与政策相关。"这标志着从研究者自主设定研究主题向赞助方指定研究焦点的系统性转变。
 
 > [!warrant] 命题一的支撑理由
-> 不仅政府机构的资助有明确的政策导向，非政府组织（如英国 ESRC）也越来越倾向于赞助政策导向项目而非[[Blue Skies Research\|蓝天研究]]。这一转变将研究与评估在操作层面进一步拉拢——研究的议程不再由研究者设定，而是由政策需求驱动。
+> 不仅政府机构的资助有明确的政策导向，非政府组织（如英国 ESRC）也越来越倾向于赞助政策导向项目而非[[Curiosity-Driven Research\|蓝天研究]]。这一转变将研究与评估在操作层面进一步拉拢——研究的议程不再由研究者设定，而是由政策需求驱动。
 
 ---
 

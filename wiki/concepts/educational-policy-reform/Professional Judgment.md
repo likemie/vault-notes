@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 92
+related_count: 91
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -62,7 +62,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Philanthrocapitalism]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Blue Skies Research]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Realism]]"
@@ -118,7 +117,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Professional Judgment
@@ -391,7 +390,7 @@ updated: 2026-10-17
 > [!citation-card] 实证不足时专业判断的政策研制基石地位
 > 在宏观课程标准与教育政策研制中，当既有实证研究基础不充分或结论存在争议时，明智的政策制定要求将基础科研与一线教师及学科专家的专业判断深度结合：研究基础可能并不充分，无法为政策制定提供明确答案；此时，明智的政策可能要求将基础研究与基于专业判断的知识——关于如何以最优方式教导学生并组织学科内容的知识——紧密结合起来。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
 > 
-> *The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to teach students and organize subject matter...*
+> *The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that Basic Research be combined with knowledge based on professional judgment about how best to teach students and organize subject matter...*
 
 > [!citation-card] 严谨证据与严谨判断并存
 > 成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 132, citing Campbell, 2016)]]

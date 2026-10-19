@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Long-Term Public Utility]]"
   - "[[Cultural Hierarchy]]"
-  - "[[Blue Skies Research]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Theoretical Knowledge]]"
   - "[[Evaluation Research]]"
@@ -62,7 +61,7 @@ related_methods:
   - "[[Analytic Framework]]"
 status: draft
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 # Argument_Narayanamurti_2013_IST
 
@@ -89,7 +88,7 @@ updated: 2026-10-16
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **线性创新模型**<br>[[Linear Model of Innovation]] | 预设科学发现必然先于技术发明的单向流水线模型。本文将其作为核心批判靶标，揭示其深层的[[Cultural Hierarchy\|文化等级]]偏见与面对科学技术史事实时的系统性失灵。 |
-> | **帕斯德象限模型**<br>[[Pasteur's Quadrant]] | 斯托克斯提出的二维动机矩阵，确立了用启发性[[Blue Skies Research\|基础研究]]的正统地位。本文指出其依然沿用二分法术语且局限于短期静态动机，未能打破科学与技术的制度藩篱。 |
+> | **帕斯德象限模型**<br>[[Pasteur's Quadrant]] | 斯托克斯提出的二维动机矩阵，确立了用启发性[[Curiosity-Driven Research\|基础研究]]的正统地位。本文指出其依然沿用二分法术语且局限于短期静态动机，未能打破科学与技术的制度藩篱。 |
 > | **发现-发明循环理论**<br>[[Discovery-Invention Cycle]] | 以对称的发现与发明双通道和长周期演进网络取代动机二分。阐明工程发明能够直接作为物理实验载体催生基础科学发现，为重构国家资助政策提供理论基石。 |
 
 > [!warrant]- 理论如何支撑论证

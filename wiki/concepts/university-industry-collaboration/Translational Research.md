@@ -9,7 +9,7 @@ aliases:
 summary: "将学术实验室的基础科学发现转化为可商业化产品、临床治疗或规模化工程制造的研究与工艺放大过程；在生物医学体现为从实验室到临床（bench-to-bedside），在微电子与硬科技体现为从实验室到代工厂（lab-to-fab），依赖于专有实验模型、中试验证平台、设计使能网关与跨界工程技能的系统协同。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Engineering Education]]"
   - "[[Technology Transfer]]"
-  - "[[Blue Skies Research]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Multi-Project Wafer]]"
   - "[[Technology Transfer Office]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Translational Research
@@ -103,12 +102,12 @@ updated: 2026-10-16
 > [!citation-card] 极紫外光刻与颠覆性硬件的四十年中试周期
 > 前沿科学发现向商业量产的转化需要漫长的时间周期，涉及极端制造装备的技术尤甚。以极紫外光刻（EUV）为例，从早期物理概念与实验室光源试验，到攻克光源功率衰减、多层反射镜缺陷与高灵敏度光刻胶等一系列工程难题并在商业晶圆厂普及，历时整整 40 余年。颠覆性硬件转化研究必须依托国家级共性中试试验线提供长期稳定的资本与实验环境。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 38)]]
 >
-> *A classic example is EUV lithography, which began in [[Blue Skies Research|Basic Research]] and took 40 years to transition through intermediate translational stages before commercial adoption for sub-7nm semiconductor manufacturing.*
+> *A classic example is EUV lithography, which began in Basic Research and took 40 years to transition through intermediate translational stages before commercial adoption for sub-7nm semiconductor manufacturing.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Technology Transfer|技术转移]]（Technology Transfer）— 技术转移侧重于知识产权评估、法律确权、专利许可及商业化交易流程；转化研究侧重于从科学原理到可量产产品之间的实体研发、工艺放大与原型工程化活动。转化研究是技术转移的实体技术前置环节。
 > - 不等于 应用研究（Applied Research）— 应用研究泛指针对明确实际应用目标开展的研究；转化研究则专门聚焦基础研究与规模化量产之间的过渡衔接，解决可制造性、工艺兼容性与跨场景放大问题。
-> - 不等于 [[Use-Inspired Basic Research|应用启发的基础研究]]（Use-Inspired [[Blue Skies Research|Basic Research]]）— [[Pasteur's Quadrant|巴斯德象限]]的研究在探索底层物理或生物机制时受应用场景启发；转化研究在此基础上进一步开展原型测试、工艺硬化与制造验证。
+> - 不等于 [[Use-Inspired Basic Research|应用启发的基础研究]]（Use-Inspired Basic Research）— [[Pasteur's Quadrant|巴斯德象限]]的研究在探索底层物理或生物机制时受应用场景启发；转化研究在此基础上进一步开展原型测试、工艺硬化与制造验证。
 
 ---
 

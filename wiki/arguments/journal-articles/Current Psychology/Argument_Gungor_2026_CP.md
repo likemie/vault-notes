@@ -52,7 +52,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Think-Pair-Share]]"
   - "[[Publication Bias]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Task Structure]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
@@ -98,7 +98,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-17
+updated: 2026-10-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
@@ -192,7 +192,7 @@ issuing_organization: ""
 > | **合作学习技术** | [[Cooperative Learning\|综合合作学习]]或具体技术名称（如拼图法 Jigsaw、小组调查法 Group Investigation、合作整合阅读与写作 CIRC 等）。 |
 > | **学科范围** | 覆盖的具体学术学科（数学、自然科学、语言、社会科、体育、护理教育、健康科学等）；多学科合并时编码为混合学科。 |
 > | **教育阶段** | 基础教育阶段（K-12）、高等教育；跨学段编码为混合学段。 |
-> | **[[Blue Skies Research\|基础研究]]设计** | 一阶元分析所涵盖原始实证研究的设计类型：全实验设计、[[Quasi-Experimental Designs\|准实验设计]]、全实验与准实验混合。 |
+> | **[[Curiosity-Driven Research\|基础研究]]设计** | 一阶元分析所涵盖原始实证研究的设计类型：全实验设计、[[Quasi-Experimental Designs\|准实验设计]]、全实验与准实验混合。 |
 > | **基础研究地理区域** | 原始研究所属国别或地区：印度尼西亚、土耳其、瑞士、伊朗、非特定多国、其他国家。 |
 > | **一阶元分析质量** | 依据 [[AMSTAR\|R-AMSTAR]] 量表得分划分为中等质量（24–30分）与高质量（31–36分）；本数据集无低质量等级。 |
 > | **发表偏倚状态** | 一阶元分析是否检出[[Publication Bias\|发表偏倚]]：是、否、未报告或不清楚。 |

@@ -34,7 +34,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Public Value]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Heterogeneity]]"
   - "[[New Public Management]]"
   - "[[Quasi-markets in Higher Education]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Research Impact
@@ -214,7 +214,7 @@ updated: 2026-10-16
 > - **[[Public Value|公共价值]]与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!warning] 适用局限
-> 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对基础研究强行套用线性因果归因指标，可能严重扼杀自由探索类研究（[[Blue Skies Research]]），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。
+> 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对基础研究强行套用线性因果归因指标，可能严重扼杀自由探索类研究（[[Curiosity-Driven Research|Blue Skies Research]]），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。
 
 ---
 

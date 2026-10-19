@@ -27,7 +27,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Grandes Ecoles]]"
   - "[[Normal School]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Positioning Practice]]"
   - "[[Megascience Installations]]"
   - "[[Global Universities Rankings]]"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # CNRS
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 > [!pathways]- 业务运行机制
 > - **终身制公务员聘用机制** 研究人员通过全国统一公开竞聘（Concours）选拔，一旦入职即获得终身制公务员编制（Fonctionnaires），享有免受短期基金考核与项目申请压力的学术安全垫。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 809)]]
-> - **国家战略导向与自由探索兼容** 既设立面向气候、量子、人工智能的国家级重大攻关战略计划，又为个人研究员与课题组保留宽广的自主选题空间（[[Blue Skies Research]]）。
+> - **国家战略导向与自由探索兼容** 既设立面向气候、量子、人工智能的国家级重大攻关战略计划，又为个人研究员与课题组保留宽广的自主选题空间（[[Curiosity-Driven Research|Blue Skies Research]]）。
 > - **多通道[[Positioning Practice|定位实践]]库存** 为法国学者提供区别于传统大学终身教职（Tenure-track）和特许任教资格（Habilitation）的独特学术晋升通道（从副研究员晋升至主任研究员），构成了法国学术劳动力市场的核心制度库存。
 
 ---

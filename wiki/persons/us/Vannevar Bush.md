@@ -7,14 +7,14 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 70
-person_related_level: 7
-person_related_stars: "💎💎⭐"
+person_related_count: 69
+person_related_level: 6
+person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - person/engineer
   - person/policy-architect
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Consumer Internet]]"
   - "[[Academic Freedom]]"
-  - "[[Blue Skies Research]]"
   - "[[Learning by Doing]]"
   - "[[Valley of Death]]"
   - "[[Big Idea Famine]]"
@@ -155,7 +154,7 @@ created: 2026-10-02
 >   - **关键机制** 战时合同外包制、Memex 超文本概念原型、军工产学大协同、[[Technological Republic|技术共和国]]雏形。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
->   - **关键概念** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
+>   - **关键概念** 基础研究（Basic Research）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **历史局限** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，这种单向线性假设系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（Learning by Doing）与产业对科学的反向驱动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **1970s — 反文化个人计算对布什国家使命[[Paradigm|范式]]的颠覆** 越战与民权运动引发美国社会与文化大撕裂，硅谷新一代黑客与工程师将技术发明定位为个体从国家与企业机器中获得解放的工具，彻底背离了布什与[[J. Robert Oppenheimer|奥本海默]]将科技定位于赋能与拓展国家战略使命（American project）的传统，开启了长达数十年的反体制个人主义与[[Consumer Internet|消费互联网]]演进轨道。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **1980s–2000s — 布什二分法在大企业实验室解体中的失效与[[Developmental Network State|发展型网络国家]]崛起** [[Fred Block|弗雷德·布洛克]]指出，布什战后体制的有效运转依赖一个关键历史前提：通用电气、杜邦和[[Bell Labs|贝尔实验室]]等巨型垂直整合企业愿意出资将大学基础发现转化为商业产品；随着国际竞争加剧与大企业实验室收缩，布什关于“政府仅资助基础研究、企业自发商业转化”的教条催生了严重的[[Valley of Death|死亡之谷]]，迫使美国在《[[Bayh-Dole Act of 1980|拜杜法案]]》、[[SBIR and STTR Programs|SBIR]] 与 [[Sematech]] 等制度实践中打破布什禁条，演进出高度去中心化但实质深度的[[Developmental Network State|发展型网络国家]]（DNS）。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178)]]
@@ -178,7 +177,7 @@ created: 2026-10-02
 > [!citation-card] 布什论基础科学作为国家创新的活水之源
 > 基础研究是在完全不考虑实际用途的情况下开展的。它产生的是一般性的知识以及对自然及其规律的深刻理解。这种普遍性知识提供了解答大量重要实用问题的方法，尽管它本身可能无法为其中任何一个问题给出完整的最终答案。基础研究就是科技资本的源泉，是所有技术进步的起搏器。
 >
-> *[[Blue Skies Research|Basic Research]] is performed without thought of practical ends. It results in general knowledge and an understanding of nature and its laws... Basic research is the pacemaker of technological progress.*
+> *Basic Research is performed without thought of practical ends. It results in general knowledge and an understanding of nature and its laws... Basic research is the pacemaker of technological progress.*
 
 ---
 

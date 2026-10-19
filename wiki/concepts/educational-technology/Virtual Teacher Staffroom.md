@@ -36,7 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Learning Style Myth]]"
+  - "[[Learning Styles]]"
   - "[[Ratgeberliteratur]]"
 related_theories: []
 related_methods:
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Virtual Teacher Staffroom
@@ -200,7 +200,7 @@ updated: 2026-10-16
 > | [[Educational Science Communication]] | 概念 | 社交媒体虚拟教研室是开展非线性、双向交互科学传播最具潜力的数字[[Champ\|场域]]。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 学者在社交媒体上的单向广播模式是赤字模型的典型残留。 |
 > | [[Educational Brokerage Agency]] | 概念 | 现代中介机构需借助社交媒体生态实现前沿成果的敏捷分发与双向沟通。 |
-> | [[Learning Style Myth]] | 概念 | 虚拟教研室中意见领袖的推荐往往成为学习风格神话二次扩散的温床。 |
+> | [[Learning Styles|Learning Style Myth]] | 概念 | 虚拟教研室中意见领袖的推荐往往成为学习风格神话二次扩散的温床。 |
 > | [[Ratgeberliteratur]] | 概念 | 社交媒体分享的碎片化教案与商业指南文献共同构成了经验主导的非正式知识网络。 |
 
 ---

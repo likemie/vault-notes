@@ -33,7 +33,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Knowledge Exchange]]"
-  - "[[Blue Skies Research]]"
   - "[[Creativity]]"
   - "[[Research Universities]]"
   - "[[Research Scope]]"
@@ -55,14 +54,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-09
-updated: 2026-10-16
+updated: 2026-10-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -314,7 +313,7 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > [!citation-card]- 将大学和基础研究从属于市场或政治指令是错误的
 > 将大学和基础研究置于市场或政治指令之下是错误的。它破坏了创新过程的长期可持续性，并且忽视了创新过程中最重要的瓶颈可能与不支持面向市场和生产的经验型学习的组织形式有关 (p.867)。
 >
-> It would be a mistake to use this as an argument to make universities and [[Blue Skies Research|Basic Research]] subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
+> It would be a mistake to use this as an argument to make universities and Basic Research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
 
 > [!citation-card]- 大学需要更宽的知识带宽
 > 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销[[Creativity\|创造力]] (p.866)。

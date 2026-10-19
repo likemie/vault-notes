@@ -10,7 +10,7 @@ aliases:
 summary: "科学传播与教育研究领域的早期核心范式，假定公众或教师对科学的疑虑源于知识匮乏（认知赤字），认为单向灌输事实即可消除分歧；因忽视价值认同、制度信任与教学现场情境逻辑而在公共领域与教育实践中普遍失效。"
 type: concept
 domain: "science-communication"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,10 +33,9 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Falsification]]"
   - "[[Refutational Evidence]]"
-  - "[[Learning Style Myth]]"
+  - "[[Learning Styles]]"
   - "[[Heterogeneity]]"
   - "[[Didaktik]]"
-  - "[[Learning Styles]]"
   - "[[Scientific Explanation]]"
   - "[[Knowledge Mediation]]"
   - "[[Reflexivity]]"
@@ -62,7 +61,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Deficit Model of Science Communication
@@ -115,7 +114,7 @@ updated: 2026-10-17
 > - **单向线性传递假设（One-way Linear Transmission Assumption）** 将科学传播与知识应用简化为单向流通链条（研究产出 $\rightarrow$ 通俗加工 $\rightarrow$ 终端采纳），假定只要通道通畅、语言浅显，科学事实便会自动转化为实践行动（[[Argument_Besa_2024_UW\|Besa, 2024, pp. 252–253]]）。
 > - **认知赤字与知识决定态度假设（Knowledge-Determines-Attitude [[Hypothesis]]）** 预设公众或专业人员对科学结论的怀疑、漠视或抗拒仅仅源于科学事实储备不足，忽视价值观、文化信仰、职业认同与体制约束的深层决定作用（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]）。
 > - **专家中心主义与不对称权力关系（Epistemic Asymmetry & Expert Centricity）** 确立科学家作为唯一真理裁决者的特权地位，贬低公众的常识性认知与一线教师的[[Phronesis\|实践智慧]]，将实践者的情境怀疑视为非理性阻抗（[[Argument_Besa_2024_UW\|Besa, 2024, p. 253]]）。
-> - **事实反驳与[[Falsification\|证伪]]去魅的局限（Failure of Aggressive Debunking）** 在教育情境中，单向呈现证伪证据（[[Refutational Evidence\|widerlegende Evidenz]]）试图破除教学神话（如[[Learning Style Myth\|学习风格迷思]]）时，往往会触发教师的心理防御机制与专业自尊抵抗，导致态度进一步固化（Bauer & Kollar, 2023; [[Argument_Besa_2024_UW\|Besa, 2024, p. 254]]）。
+> - **事实反驳与[[Falsification\|证伪]]去魅的局限（Failure of Aggressive Debunking）** 在教育情境中，单向呈现证伪证据（[[Refutational Evidence\|widerlegende Evidenz]]）试图破除教学神话（如[[Learning Styles\|学习风格迷思]]）时，往往会触发教师的心理防御机制与专业自尊抵抗，导致态度进一步固化（Bauer & Kollar, 2023; [[Argument_Besa_2024_UW\|Besa, 2024, p. 254]]）。
 
 > [!logic-map]- 赤字模型运作逻辑及其失效机制
 > ```mermaid

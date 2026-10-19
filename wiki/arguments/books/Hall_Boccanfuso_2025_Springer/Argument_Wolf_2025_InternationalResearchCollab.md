@@ -18,7 +18,6 @@ related_concepts:
   - "[[University-Industry Co-location]]"
   - "[[Epistemology]]"
   - "[[Use-Inspired Basic Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
   - "[[Return on Investment]]"
@@ -52,14 +51,14 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-19
 subtype: book-chapter
 publication_type: book
 title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -86,7 +85,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Pasteur's Quadrant|巴斯德象限]]（Pasteur's Quadrant）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"[[Use-Inspired Basic Research|应用启发的基础研究]]"（use-inspired [[Blue Skies Research|Basic Research]]）区间(p.310)
+> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Pasteur's Quadrant|巴斯德象限]]（Pasteur's Quadrant）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"[[Use-Inspired Basic Research|应用启发的基础研究]]"（use-inspired Basic Research）区间(p.310)
 > - [[Dollinger et al. Framework for UI Collaboration]]，从环境、技术和管理三个因素评估国际合作，提供操作性基准工具(pp.316–317)
 > - [[Triple Helix]]，Rossoni et al.(2023)以此为第一个[[Theoretical Perspective\|理论视角]]评估 UI 合作的障碍因素，另两个视角为关系社会资本和[[Technology Transfer\|技术转移]](p.316)
 

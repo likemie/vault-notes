@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
-  - "[[Learning Style Myth]]"
   - "[[Teacher Beliefs]]"
   - "[[Ratgeberliteratur]]"
   - "[[Educational Brokerage Agency]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Refutational Evidence
@@ -190,7 +189,7 @@ updated: 2026-10-17
 > 批判学者指出，反驳性证据的生产与发布机制往往暗含了“科研人员手握真理、一线教师蒙昧无知”的专家傲慢假定，忽视了教师教学常规背后复杂的制度、考试与社会文化制约。
 
 > [!warning] 适用局限
-> 反驳性证据主要适用于具有明确因果正误边界的实证事实领域（如[[Learning Style Myth\|学习风格假说]]、特定惩戒措施效果）。对于深具价值涉入与伦理考量的教育目标抉择，不能简单运用实证反驳性证据予以技术化消解。
+> 反驳性证据主要适用于具有明确因果正误边界的实证事实领域（如[[Learning Styles\|学习风格假说]]、特定惩戒措施效果）。对于深具价值涉入与伦理考量的教育目标抉择，不能简单运用实证反驳性证据予以技术化消解。
 
 ---
 
@@ -202,7 +201,7 @@ updated: 2026-10-17
 > |:-----|:-----|:-----|
 > | [[Educational Science Communication]] | 概念 | 反驳性证据是教育科学传播中最具挑战性但也最关键的转译形态。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 孤立单向推送反驳性证据是赤字模型的典型表征，已被实证证明因果无效。 |
-> | [[Learning Style Myth]] | 概念 | 反驳性证据在教育领域最典型的[[Falsification\|证伪]]对象与应用案例。 |
+> | [[Learning Styles|Learning Style Myth]] | 概念 | 反驳性证据在教育领域最典型的[[Falsification\|证伪]]对象与应用案例。 |
 > | [[Teacher Beliefs]] | 概念 | 反驳性证据旨在重塑的微观认知中枢与阻抗源头。 |
 > | [[Self-Efficacy]] | 概念 | 科学传播需避免反驳性证据对教师教学自我效能感造成毁灭性打击。 |
 > | [[Ratgeberliteratur]] | 概念 | 商业指南文献大量充斥未经反驳性证据检验的伪科学假说。 |

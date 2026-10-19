@@ -5,7 +5,7 @@ aliases:
 summary: "Young 与 Ravinet 提出并经高等教育地缘政治研究深化的分析概念，指行动者通过动员科技与隐性知识、建立知识领导力并重塑全球治理关系与制度语境的行动能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,7 +27,8 @@ related_persons: []
 related_facts:
   - "[[Asian Universities Alliance]]"
   - "[[University Alliance of the Silk Road]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -41,7 +42,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> 知识权力（Knowledge Power）指行动者通过动员科学技术知识与隐性知识，影响全球治理关系与制度语境，借由确立知识领导地位以提升国际话语权与塑造国际秩序的能力。该概念由米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）在欧洲全球事务研究中正式界定，并在高等教育地缘政治与“一带一路”倡议（Belt and Road Initiative, BRI）国际化战略分析中得到深化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> 知识权力（Knowledge Power）指行动者通过动员科学技术知识与隐性知识，影响全球治理关系与制度语境，借由确立知识领导地位以提升国际话语权与塑造国际秩序的能力。该概念由米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）在欧洲全球事务研究中正式界定，并在高等教育地缘政治与一带一路倡议（Belt and Road Initiative, BRI）国际化战略分析中得到深化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识权力聚焦知识要素（科研成果、课程体系、高等教育机构与财政资助）在地缘博弈中的战略动员，强调行动者借助知识领导力在国际伙伴网络中培育不对称影响力。
@@ -68,7 +69,7 @@ updated: 2026-10-19
 > | **地缘政治叙事** | 契合纵向依附与地缘政治竞争逻辑，推动国际秩序重塑 | 契合横向平等与互联互通发展叙事，实现多边共同繁荣 |
 > | **网络组织形态** | 排他性、高门槛的精英旗舰大学网络，准入机制严格 | 开放性、宽口径的大众化高校合作网络，准入程序便捷 |
 > | **典型合作机制** | 定向种子基金支持的前沿科研、高端学者奖金与学术峰会 | 大规模学生夏令营、宽领域学科子联盟与通识文化交流 |
-> | **代表案例呈现** | [[Asian Universities Alliance|亚洲大学联盟]]（AUA）的精英治理结构 | [[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR）的开放多边平台 |
+> | **代表案例呈现** | [[Asian Universities Alliance|亚洲大学联盟]]（Asian Universities Alliance, AUA）的精英治理结构 | [[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）的开放多边平台 |
 
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-10-19
 > - **2022 年 — 欧洲全球事务研究中的概念奠基**
 >   米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）反思欧盟科技政策与全球治理实践，提出知识权力概念，用以刻画行动者动员知识资源重塑全球治理规则体系的行动能力。
 > - **2024 年 — 高等教育地缘政治与跨国大学联盟分析**
->   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入“一带一路”跨国大学联盟实证研究，对比亚洲大学联盟与丝绸之路大学联盟，揭示中国外向型高等教育国际化战略中知识权力与知识外交的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
+>   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入一带一路跨国大学联盟实证研究，对比亚洲大学联盟与丝绸之路大学联盟，揭示中国外向型高等教育国际化战略中知识权力与知识外交的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
 
 ---
 
@@ -104,12 +105,12 @@ updated: 2026-10-19
 ## 争议与批评
 
 > [!critique] 理论局限与概念反思
-> - **二元分类的解释限度** 将跨国学术合作截然划分为地缘博弈取向的“知识权力”或利他互惠取向的“知识外交”，易割裂复杂的现实政策实践，遮蔽行动者在具体项目中的多元诉求与灵活调试。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
-> - **西方中心主义价值预设** 传统权力与外交概念深植于战后北美自由国际主义传统；引入包容等级与平等的“天下”启发式视角（Tianxia heuristic），有助于更加契合非西方大国在网络互联中的空间治理逻辑。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+> - **二元分类的解释限度** 将跨国学术合作截然划分为地缘博弈取向的知识权力或利他互惠取向的知识外交，易割裂复杂的现实政策实践，遮蔽行动者在具体项目中的多元诉求与灵活调试。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+> - **西方中心主义价值预设** 传统权力与外交概念深植于战后北美自由国际主义传统；引入包容等级与平等的天下启发式视角（Tianxia heuristic），有助于更加契合非西方大国在网络互联中的空间治理逻辑。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较“一带一路”框架下的亚洲大学联盟与丝绸之路大学联盟，论证中国在跨国学术网络构建中兼具知识权力与知识外交的双重逻辑，并通过增加网络连接密度使其网络中心地位常态化。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较一带一路框架下的亚洲大学联盟与丝绸之路大学联盟，论证中国在跨国学术网络构建中兼具知识权力与知识外交的双重逻辑，并通过增加网络连接密度使其网络中心地位常态化。

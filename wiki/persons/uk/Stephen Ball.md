@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 54
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Global Educational Discourse]]"
   - "[[Knowledge Production]]"
-  - "[[Blue Skies Research]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
@@ -76,13 +75,13 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
 related_arguments:
+  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: active
 created: '2026-05-05'
@@ -166,7 +165,7 @@ updated: 2026-10-19
 > [!citation-card] 鲍尔论学术研究向合同委托研究异化与知识降维
 > 斯蒂芬·鲍尔尖锐批评英国国家教育研究论坛（NERF）等官方机构推行的委托科研机制。他指出，在高校面临创收压力的背景下，学术研究正被迫服从于短期、功利性合同委托研究的逻辑，严重破坏了大学基础探究的自主性，导致学术机构面临严重的智力降维与知识平庸化。[[Argument_Beech_2009_GlobalGarden|(Ball, 2001, cited in Beech, 2009b, pp. 355–356)]]
 >
-> *“With the pressures that academics have to generate income for their institutions and/or for themselves through contract research, the logic of [[Blue Skies Research|Basic Research]] and of academic space might be changing... Dumbing down the academy.”*
+> *“With the pressures that academics have to generate income for their institutions and/or for themselves through contract research, the logic of Basic Research and of academic space might be changing... Dumbing down the academy.”*
 
 > [!phase] 教育社会学史中的治理目光（Gazes and [[Governmentality]]）
 > 教育社会学史的研究目光经历了[[Political Arithmetic|政治算术]]（关注分配不平等）到[[New Sociology of Education|新教育社会学]]（关注课堂知识），再到[[School Effectiveness|学校效能]]（School Effectiveness）的转向。学校效能把复杂的学校重构为一种可测量、可比较和可审计的技术化存在，从而与国家的绩效化管理主义相契合。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 650–665)]]

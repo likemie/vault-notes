@@ -4750,16 +4750,6 @@
     ]
   },
   {
-    "title": "Blue Skies Research",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Blue Skies Research.md",
-    "aliases": [
-      "蓝天研究",
-      "Pure Research",
-      "Basic Research"
-    ]
-  },
-  {
     "title": "Catalytic Philanthropy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Catalytic Philanthropy.md",
@@ -8391,16 +8381,6 @@
     ]
   },
   {
-    "title": "Learning Styles",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Learning Styles.md",
-    "aliases": [
-      "学习风格",
-      "学习类型",
-      "Learning Style"
-    ]
-  },
-  {
     "title": "Listening-Oriented Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
@@ -9031,10 +9011,14 @@
     ]
   },
   {
-    "title": "Learning Style Myth",
+    "title": "Learning Styles",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Learning Style Myth.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
     "aliases": [
+      "学习风格",
+      "学习类型",
+      "Learning Style",
+      "Learning Style Myth",
       "学习风格神话",
       "学习风格迷思",
       "学习类型神话",
@@ -12850,8 +12834,9 @@
       "好奇心驱动研究",
       "好奇心驱动型研究",
       "自由探索研究",
-      "纯基础研究",
-      "Blue-Sky Research"
+      "Blue-Sky Research",
+      "Blue Skies Research",
+      "蓝天研究"
     ]
   },
   {

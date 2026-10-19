@@ -10,7 +10,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reliability]]"
-  - "[[Blue Skies Research]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Research Proposal]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Programme for Research and Innovation in the Educational Sector
@@ -120,7 +119,7 @@ updated: 2026-10-17
 
 > [!pathways]- 实施路径与管理
 > - **纵向传导与支持** 顶层设计依托工作规划确立四大支柱领域，通过公开课题指南（Calls for Proposals）将国家宏观战略目标分解为具体资助课题，并强制受资助课题制定成果传播规划。
-> - **横向跨部门协同** 搭建国家级跨界竞技场（National Cooperative Arena），打破战略基础研究（Strategic [[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）与教学现场创新之间的条块分割。
+> - **横向跨部门协同** 搭建国家级跨界竞技场（National Cooperative Arena），打破战略基础研究（Strategic Basic Research）、应用研究（Applied Research）与教学现场创新之间的条块分割。
 > - **动态反馈与调整** 通过中期审查与跨国政策调研动态微调项目评审准则，兼顾国际同行评议科学严谨性与一线教育实践相关性。
 
 ---

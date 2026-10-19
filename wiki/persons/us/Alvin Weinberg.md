@@ -3,7 +3,7 @@ summary: "美国著名核物理学家与大科学时代科技政策思想奠基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Institutional Drift]]"
   - "[[Public Dynamic Capabilities]]"
-  - "[[Blue Skies Research]]"
   - "[[Champ]]"
   - "[[Grand Challenges]]"
   - "[[Agile Governance]]"
@@ -39,7 +38,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-19
 title: Alvin Weinberg
 aliases:
   - Weinberg, A.
@@ -67,7 +66,7 @@ aliases:
 ## 核心学术思想与理论构件
 
 > [!feature] 温伯格科技政策思想的三大支柱
-> - **[[Big Science|大科学]]机构的组织特质与“使命漂移”困境（Mission [[Institutional Drift|drift]] in Big Science）** 在《大科学的思考》（1967）中指出，第二代使命机构（如核能与航天实验室）通常采取比大学更严格的垂直层级制以攻关特定技术难题；但在初始使命达成后，由于科研人员的职业惯性与学术偏好，组织往往退守于“无方向的基础科学研究”（Undirected [[Blue Skies Research|Basic Research]]），从而失去与新兴社会难题（如环境污染、城市衰退）对接的敏感性与再配置能力。（pp. 794–795）
+> - **[[Big Science|大科学]]机构的组织特质与“使命漂移”困境（Mission [[Institutional Drift|drift]] in Big Science）** 在《大科学的思考》（1967）中指出，第二代使命机构（如核能与航天实验室）通常采取比大学更严格的垂直层级制以攻关特定技术难题；但在初始使命达成后，由于科研人员的职业惯性与学术偏好，组织往往退守于“无方向的基础科学研究”（Undirected Basic Research），从而失去与新兴社会难题（如环境污染、城市衰退）对接的敏感性与再配置能力。（pp. 794–795）
 > - **科学选择标准（Weinberg Criteria for Scientific Choice）** 在 1963/1964 年经典论文中提出国家资助科学的两大基准：
 >   - **内部标准（Internal Criteria）** 该学科领域是否已经成熟到可以被有效探索（Is the [[Champ|field]] ripe?）？从事该研究的科学家是否具备一流资质？
 >   - **外部标准（External Criteria）** 该项研究对相邻科学领域的理论支撑价值（Scientific Merit）、对工程技术的转化价值（Technological Merit）以及对人类社会福祉的直接贡献（Social Merit）。

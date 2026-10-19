@@ -11,10 +11,10 @@ aliases:
 summary: "介于大学/实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并锁定国家先进制造能力的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/university-industry-collaboration
   - theme/corporate-innovation
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Process Design Kit]]"
   - "[[Translational Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
   - "[[Technology Transfer Office]]"
   - "[[Multi-Project Wafer]]"
@@ -91,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Pilot Scale Platform
@@ -123,7 +122,7 @@ updated: 2026-10-16
 > [!citation-card] [[National Science and Technology Council|白宫国家科学技术委员会]]论跨部门中试平台漏斗与实验室到制造厂转化网络
 > 针对深科技研发从实验室原理突破向商业量产跨越中的巨大资本与工艺鸿沟（[[Valley of Death|死亡之谷]]），国家必须建立全链条、多层级的中试基础设施生态。通过统筹[[National Semiconductor Technology Center|美国国家半导体技术中心]]（NSTC）300 毫米先进制程中试设施、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（[[National Advanced Packaging Manufacturing Program|NAPMP]]）300 毫米先进封装试验线、国防部微电子公有云（Commons）8 大区域原型[[Innovation Hub|创新中心]]，以及国家纳米技术协调基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与能源部国家实验室的开放微纳加工网络，辅以云端数字化设计执行网关（DEG）与标准工艺/[[Assemblage|组装]]设计套件（[[Process Design Kit|PDK]]/ADK）开放准入，系统性打通从底层材料物理探索（TRL 1–3）、中试放大与原型试制（TRL 4–7）到规模化量产（TRL 8–9）的实验室到制造厂（[[Translational Research|lab-to-fab]]）转化流水线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29)]]
 >
-> *Bridging the translation gap between lab discovery and industrial deployment requires a coordinated, multi-tiered prototyping and pilot infrastructure. By integrating the NSTC 300mm prototyping facility, NAPMP advanced packaging pilot line, [[Microelectronics Commons|DOD Microelectronics Commons]] regional hubs, and NNCI open nanofabrication networks, backed by the Digital Design Enablement Gateway (DEG) and standardized PDK/ADK access, the nation establishes a robust lab-to-fab pipeline spanning [[Blue Skies Research|Basic Research]], prototyping, and volume manufacturing.*
+> *Bridging the translation gap between lab discovery and industrial deployment requires a coordinated, multi-tiered prototyping and pilot infrastructure. By integrating the NSTC 300mm prototyping facility, NAPMP advanced packaging pilot line, [[Microelectronics Commons|DOD Microelectronics Commons]] regional hubs, and NNCI open nanofabrication networks, backed by the Digital Design Enablement Gateway (DEG) and standardized PDK/ADK access, the nation establishes a robust lab-to-fab pipeline spanning Basic Research, prototyping, and volume manufacturing.*
 
 > [!boundary]- 概念边界
 > - 不等于 概念验证中心（PoP）— 概念验证主要在大学内部评估早期发明（TRL 3–4）是否具有商业化潜力和专利价值，投资规模通常在数万至数十万美元；中试平台涉及数千万至数亿美元的重资产装备配置，针对 TRL 4–7 开展全流程工艺放大与中试试制。

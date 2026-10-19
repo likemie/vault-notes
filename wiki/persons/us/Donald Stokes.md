@@ -9,14 +9,14 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - person/political-scientist
   - person/policy-scholar
@@ -24,7 +24,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Use-Inspired Basic Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Scientific Autarky]]"
   - "[[Epistemology]]"
   - "[[Focused Research Organization]]"
@@ -85,7 +84,7 @@ created: 2026-10-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家、公共政策学者、科学与技术政策理论家；普林斯顿大学伍德罗·威尔逊公共与国际事务学院（Woodrow Wilson School of Public and International Affairs）院长（1974–1992）；曾任密歇根大学政治学教授、社会研究所（ISR）资深研究员及英国纳菲尔德学院访问学者。
-> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将[[Science, The Endless Frontier 1945|布什报告]]确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired [[Blue Skies Research|Basic Research]]）的正统合法地位，不仅成为 1990 年代冷战终结与赤字攀升背景下科学界与美国政府“重新签约”的核心认知蓝图，更在 2026 年白宫科技报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中被确立为解构当代前沿科技突破与重组联邦研发资助体系的四大理论支柱之一。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7, 158)]]
+> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将[[Science, The Endless Frontier 1945|布什报告]]确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired Basic Research）的正统合法地位，不仅成为 1990 年代冷战终结与赤字攀升背景下科学界与美国政府“重新签约”的核心认知蓝图，更在 2026 年白宫科技报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中被确立为解构当代前沿科技突破与重组联邦研发资助体系的四大理论支柱之一。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7, 158)]]
 > - **代表贡献** 创立帕斯德象限理论（Pasteur's Quadrant Model）；早期与安格斯·坎贝尔（Angus Campbell）等人合著《美国选民》（*The American Voter*, 1960）奠定了当代政治行为学与选民投票理论基础；深刻重塑了西方关于[[Scientific Autarky|科学自主]]与社会责任之间关系的政策契约。
 
 > [!citation-card] 斯托克斯对战后科技政策的重塑定位
@@ -121,7 +120,7 @@ created: 2026-10-02
 >   - **代表工作** 推动公共政策研究生教育跨学科改革，融合经济学、政治学与工程技术评估。
 > - **1990s — 战后科技政策契约反思与[[Pasteur's Quadrant|帕斯德象限]]确立期** 直面冷战终结、安全红利消退与联邦预算赤字攀升的重压，针对 1993—1994 年美国围绕基础研究合法性展开的“重新签约”大辩论，系统反思《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》一维模型的[[Epistemology|认识论]]缺陷，呼应克林顿政府《[[Science in the National Interest 1994|科学与国家利益]]》（1994）的战略转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 >   - **代表著作** *Pasteur's Quadrant: Basic Science and Technological Innovation* (1997)。
->   - **关键概念／方法** [[Pasteur's Quadrant|帕斯德象限]]、由[[Use-Inspired Basic Research|应用启发的基础研究]]（Use-Inspired [[Blue Skies Research|Basic Research]]）、玻尔象限（纯求知）、爱迪生象限（纯应用）。
+>   - **关键概念／方法** [[Pasteur's Quadrant|帕斯德象限]]、由[[Use-Inspired Basic Research|应用启发的基础研究]]（Use-Inspired Basic Research）、玻尔象限（纯求知）、爱迪生象限（纯应用）。
 > - **2020s — 智能时代与国家科技战略的制度化落地期** 在 2026 年白宫科技报告中，斯托克斯的二维框架被全面确立为国家科技战略的底层逻辑，直接指导了 [[National Science Foundation|NSF TIP]] 理事会、[[NSF X-Labs|X-Labs]]、[[Focused Research Organization|聚焦研究组织]]（FRO）与[[Genesis Mission|创世纪计划]]等一系列跨越基础与应用二分法的新型科研体制设计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7, 21–26, 61–63)]]
 
 ---

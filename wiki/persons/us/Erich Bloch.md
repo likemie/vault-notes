@@ -6,7 +6,7 @@ summary: "美国电气工程师与科技管理领袖，首位产业界出身的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
-  - "[[Blue Skies Research]]"
   - "[[Research Universities]]"
   - "[[University-Based Research Center]]"
 related_persons:
@@ -48,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Erich Bloch
@@ -103,7 +102,7 @@ updated: 2026-10-16
 > [!citation-card] 布洛赫论工程研究与基础科学的共生融合
 > 在工程界，科学研究与工程往往没有被很好地关联在一起。我对这种将工程学非黑即白地割裂开来的陈旧观念感到震惊。我们关注的焦点正是将基础研究与工程紧密连接，从而改变科学界与工程界的固有生态。
 >
-> *The whole focus was that in the engineering community (scientific) research was not associated with engineering. I knew about engineering, so I was appalled at this black and white idea of what engineering's all about. Out of this concern was our focus of relating [[Blue Skies Research|Basic Research]] to engineering... to change both science and engineering.* [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 370)]]
+> *The whole focus was that in the engineering community (scientific) research was not associated with engineering. I knew about engineering, so I was appalled at this black and white idea of what engineering's all about. Out of this concern was our focus of relating Basic Research to engineering... to change both science and engineering.* [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 370)]]
 
 > [!citation-card] 布洛赫论破除传统大学学术院系壁垒
 > 真正的问题不在于中心，而在于院系。我是反对传统学术院系的，我认为大学应该彻底摆脱它们。现实中根本不存在孤立的化学工程或机械工程，它们在实际工程问题中是天然交融的。

@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Zero-Sum Competition]]"
   - "[[Academic Freedom]]"
   - "[[Public-Private Partnership]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Precompetitive Research
@@ -101,7 +100,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] 前竞争研究与相近研发形态辨析
-> | 比较维度 | 前竞争研究（Precompetitive Research） | 竞争型应用研究（Competitive/Product-Specific） | 纯基础研究（[[Blue Skies Research\|Basic Research]]） |
+> | 比较维度 | 前竞争研究（Precompetitive Research） | 竞争型应用研究（Competitive/Product-Specific） | 纯基础研究（Basic Research） |
 > |:---|:---|:---|:---|
 > | **研发目标** | 攻克行业通用工艺瓶颈、制定行业技术标准、建设共性测试平台 | 开发具有[[Zero-Sum Competition\|排他性竞争]]优势的专有商业产品、定制方案与电路架构 | 探索自然与工程基本规律，追求知识增量而不预设商业用途 |
 > | **知识产权归属** | 共有免版税许可、向大学/行业联盟归属或公开披露 | 由出资赞助企业独占所有权或排他性商业授权 | 在开放学术环境中公开发表与全球共享 |

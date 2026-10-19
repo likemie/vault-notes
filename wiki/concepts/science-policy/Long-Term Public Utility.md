@@ -20,7 +20,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Market Failure]]"
   - "[[Return on Investment]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Patient Capital]]"
   - "[[Competitiveness]]"
   - "[[Network Governance]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Long-Term Public Utility
@@ -83,7 +83,7 @@ updated: 2026-10-16
 > [!contrast-table] 长期公共效用与传统资助试金石的系统对照
 > | 比较维度 | 传统二分法试金石（Bush, 1945） | 长期公共效用准绳（[[Argument_Narayanamurti_2013_IST\|Narayanamurti et al., 2013]]） |
 > |:---|:---|:---|
-> | **资助准入判据** | 是否属于不计实用的“纯[[Blue Skies Research\|基础研究]]” | 是否在数十年尺度上具备明确长远公共战略价值 |
+> | **资助准入判据** | 是否属于不计实用的“纯[[Curiosity-Driven Research\|基础研究]]” | 是否在数十年尺度上具备明确长远公共战略价值 |
 > | **近期成果形态要求** | 仅限于发表于学术期刊的基础科学定律 | 对称支持基础科学发现与新型工程工具／工艺发明 |
 > | **对待工程硬件发明的态度** | 视为工业界市场自发投资事务，政府予以排斥 | 视为科学突破的必要物理载体，公共财政予以全额托底 |
 > | **绩效考核时间跨度** | 3–5 年短期同行论文发表周期 | 10 年以上的长周期技术演化与系统瓶颈攻克 |

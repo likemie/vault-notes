@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 52
+fact_related_count: 51
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Process Knowledge]]"
   - "[[Metascience]]"
-  - "[[Blue Skies Research]]"
   - "[[Discourse]]"
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Science, The Endless Frontier 1945
@@ -136,7 +135,7 @@ updated: 2026-10-16
 > [!citation-card] 基础科学作为技术进步源泉的核心宣言
 > 基础研究是技术进步的起搏器。新产品和新工艺并非自发产生，它们建立在新的科学原理和新构想之上，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 >
-> *[[Blue Skies Research|Basic Research]] is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science.*
+> *Basic Research is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science.*
 
 > [!theory-components] 布什报告的三大思想支柱与三大制度性承诺 [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058, 1063)]]
 > - **核心指导思想三支柱（Foundational Pillars）**

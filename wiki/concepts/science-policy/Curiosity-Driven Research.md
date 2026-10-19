@@ -5,12 +5,13 @@ aliases:
   - 好奇心驱动研究
   - 好奇心驱动型研究
   - 自由探索研究
-  - 纯基础研究
   - Blue-Sky Research
-summary: "由科学家学术好奇心与纯粹求知欲所驱动的科学探索范式，不预设即时实用目标与交付成果，依赖充分学术自治、同行评议与容忍失败的长周期投入；既是二战后无止境前沿契约的核心基石与重大底层颠覆性发现的源头，也在当代技术安全化与使命型国家创新战略中面临与应用启发研究（FuSe）及中试转化的深层协同与张力。"
+  - Blue Skies Research
+  - 蓝天研究
+summary: "由研究者好奇心驱动并自主设定议程的开放式探索，涉及原创知识生产、同行问责，以及教育研究和科学资助中的自主性条件。"
 type: concept
 domain: "science-policy"
-related_count: 30
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,16 +22,19 @@ tags:
   - theme/academic-freedom
   - theme/semiconductor
 related_concepts:
-  - "[[Blue Skies Research]]"
-  - "[[Paradigm]]"
   - "[[Strategic Compliance]]"
   - "[[Mission-Oriented Research]]"
   - "[[Hardware Security]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Paradigm]]"
   - "[[Technology Readiness Level]]"
   - "[[Co-Design]]"
+  - "[[Evaluation Research]]"
+  - "[[External Validity]]"
   - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Knowledge Production]]"
+  - "[[Research Topic]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Avatar]]"
   - "[[Research Security]]"
@@ -49,6 +53,7 @@ related_facts:
 related_persons:
   - "[[Vannevar Bush]]"
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
@@ -59,7 +64,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Curiosity-Driven Research
@@ -69,10 +74,10 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究、纯基础研究或[[Blue Skies Research|蓝天研究]]）** 是指完全由科研人员个体的学术好奇心、对自然规律未知领域的求知欲以及对科学真理的内在追求所主导的科学[[Paradigm|研究范式]]。其核心特征在于不以预设的即时工业应用、商业回报或特定任务为导向，强调研究者在选题、假说构筑与实验路径上的高度学术自治，依赖国家提供长周期、容忍失败的信任型财政托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
+> **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究或蓝天研究，Blue Skies Research）** 指由研究者好奇心和求知欲驱动、自主设定研究议程的开放式探索，以贡献原创知识和扩展理论前沿为目标。教育研究中的蓝天研究强调问题、理论与议程的开放性；科学资助讨论则进一步关注学术自治、同行评议，以及长周期和容忍失败的经费支持条件。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 31–37)]][[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向一种“由内而外”展开的认知活动，以拓展人类对宇宙、生命与物质基本法则的认识边界为唯一宗旨，拒绝将科研异化为线性指标交付。
+> - **含义** 研究问题由研究者的知识兴趣提出，理论接受探索、检验与修正，学术同行构成主要问责对象。
 > - **用途** 帮助科学社会学者与科技政策分析师揭示科研体系中“不可预测性（Unpredictability）”与偶发性发现（Serendipity）的制度价值，阐明基础物质科学探索（如二维材料、量子霍尔效应、自旋拓扑态）如何充当后续整个技术创新链条的源头活水。
 > - **边界** 自由探索并不等同于脱离学术共同体规范的漫无边际的空想，其依然受到同行评议与严格经验证据检验的自洽性约束；与追求特定产品原型的应用研究及工程制造具有清晰分界。
 
@@ -82,6 +87,8 @@ updated: 2026-10-16
 > *The "frontier" in science has not disappeared, but its institutional vehicles are undergoing transformation... more open curiosity-driven research may take on a more decentralized form amid diminishing institutional support... The endless frontier has officially devolved from an exempt institutional premise into a proposition that must continually prove its [[Strategic Compliance|compliance]] and utility in the courts of politics and economy.*
 
 > [!boundary]- 概念边界
+> - **与基础研究的关系** 两者高度重叠；蓝天研究侧重研究动机与议程自主性，基础研究侧重研究活动在知识生产与应用之间的位置。
+> - **与一般研究的关系** 自由探索属于研究活动中的一个取向；特定委托、应用需求与评估目的也可以推动研究。
 > - **不等于 [[Mission-Oriented Research|任务导向型研究]]** — 后者由国家行政中枢预设明确技术目标、交付节点与安全指标（如[[Manhattan Project|曼哈顿工程]]或国防部[[Hardware Security|硬件安全]]计划）；自由探索型研究由学者自发推进，拒绝接受指标性行政工期约束。
 > - **不等于 [[Use-Inspired Basic Research|应用启发的基础研究]]** — 后者立足[[Pasteur's Quadrant|巴斯德象限]]（如 [[National Science Foundation|NSF]] 未来半导体 FuSe 计划），自始至终兼顾前沿理论理解与工业场景应用；自由探索型研究立足玻尔象限（Bohr's Quadrant），只追求纯粹机理揭示而不谋求即时工业对应物。
 
@@ -100,10 +107,26 @@ updated: 2026-10-16
 
 ---
 
+> [!contrast-table] 蓝天研究与 [[Evaluation Research\|评估研究]]
+> | 维度 | 蓝天研究（Blue Skies Research） | [[Evaluation Research\|评估研究]]（Evaluative Research） |
+> |------|-------------------------------|---------------------------------------------|
+> | 研究动机 | 研究者好奇心和求知欲 | 回答委托方或政策给定的问题 |
+> | 理论角色 | 理论被开放探索、检验和修正 | 理论被给定，不审问或检验 |
+> | 议程设定 | 研究者自主设定 | 赞助方或政策制定者设定 |
+> | 受众 | 学术同行、研究社区 | 委托方、利益相关者、特定决策者 |
+> | 时间约束 | 通常不受限，遵循研究内在节奏 | 有明确的截止期限 |
+> | 评判标准 | 方法论贡献与领域推进（内部与[[External Validity\|外部效度]]） | 效用（utility）与可信度（credibility） |
+
+>
+> 上述对照用于辨识议程、用途与问责对象。分类资助及政策需求会使两种取向在实践中相互接近。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 31–37)]]
+
+---
+
 ## 核心要素
 
 > [!feature] 核心要素
 > - **内生认知好奇心驱动** 选题源于对自然界与人类社会未解机理的学术敏感度，而非政府指令、企业横向课题或短期地缘政治动员。
+> - **开放的理论角色** 理论是接受探索、检验与修正的对象，研究的贡献包括扩展知识和理论前沿（Smith & Glass, 1987, p. 34; Plewis & Mason, 2005, p. 192）。
 > - **高度自主的探索空间** 科学家在[[Hypothesis|研究假设]]设定、技术路线调整与实验试错上享有充分自治，行政官僚不得任意[[Intervention Research|干预研究]]细节。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **长周期探索与高容错性** 承认基础探索的高度不可预测性与高失败率，资金支持采取信任型兜底机制而非短期绩效与账目审计。
 > - **同行评议内部权威机制** 研究价值由同行科学家基于科学共同体的内在理性与认知贡献予以判定，而非接受外部行政审计标准的[[Disciplina and Doctrina|规训]]。
@@ -138,6 +161,13 @@ updated: 2026-10-16
 
 > [!concept-lens] 制度退守与边缘化风险
 > 探讨当代科技政策向任务与能力驱动转型对自由探索生态造成的严重生存挤压。
+
+> [!claim] Burgess (1993)
+> Burgess（1993）所讨论的时期内，分类资助（categorical funding）的结构性增长正在系统性压缩蓝天研究的空间。当政府和非政府资助机构越来越倾向于赞助政策导向项目时，由研究者好奇心驱动、不以直接政策应用为目标的研究越来越难以获得资助（Burgess, 1993, p. 1）。该趋势也影响研究社区对议题重要性的判断权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 36–37)]]
+
+> [!implication] 命题后果
+> - **对[[Knowledge Production\|知识生产]]的后果** 当资助只流向政策[[Correlational Research\|相关研究]]时，知识生产的议程被政策议程重新定向。不被政策制定者视为优先的领域——无论其学术价值如何——面临资源匮乏。
+> - **对研究自主性的后果** 从"研究者指定[[Research Topic\|研究主题]]"向"赞助方指定研究焦点"的转变，意味着研究社区丧失了定义什么问题是重要问题的自主权。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **免检地位丧失与分散化演变** 2025 年起美国科技政策全面迈入以技术能力获取为导向的[[Technology-Oriented Social Contract|技术型社会契约]]，国家通过行政程序可复验性审查与预算削减惩罚非优先学科；自由探索型研究在失去联邦长期稳定制度托底的困境下，正由二战后科技体系的绝对中心，退缩为更加分散、小众化乃至依赖私人慈善资本维系的边缘形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
@@ -205,7 +235,6 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Blue Skies Research]] | Concept | 同义概念，指称不受即时应用目标约束的纯学术探索。 |
 > | [[Use-Inspired Basic Research]] | Concept | 对偶概念，兼具基础机理探索与明确应用导向的[[Pasteur's Quadrant\|巴斯德象限]]研究。 |
 > | [[Mission-Oriented Research]] | Concept | 对照[[Paradigm\|范式]]，由国家战略目标与紧迫安全需求自上而下驱动的研究。 |
 > | [[Translational Research]] | Concept | 将自由探索发现的底层科学原理转化为可制造技术原型的转译过程。 |
@@ -220,7 +249,8 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen et al. (2011, Ch. 3)]] — 比较研究与评估的议程、问责和用途，并分析分类资助对蓝天研究自主性的约束。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深度追踪自由探索型研究从二战后享受国家安全庇护的“高自治—高嵌入”中心地位，到当代因行政问责与技术型契约冲击而退化为分散、边缘形态的制度变迁全过程。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐述全美微电子战略第一支柱“激发前沿发现（Goal 1）”中，基础自由探索与应用启发计划（FuSe）、多维[[Co-Design|协同设计]]（Co-Design）及中试转化的互动演进机制。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理战后 [[National Science Foundation|NSF]] 资助自由探索研究的制度博弈、同行评议标准演进与[[University-Industry Collaboration|产学合作]]中心转型。

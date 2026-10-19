@@ -9,7 +9,7 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以预科班严苛选拔与职业定向著称，与大众化综合大学及专职科研的 CNRS 形成著名的三元分立格局；在比较教育史中作为主权国家间双边制度移植的经典历史原型（如巴西对大学校模式的模仿），并在当代成为反思精英阶层再生产与跨国政策转移演进的核心参照。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
-  - "[[Blue Skies Research]]"
   - "[[State Educational Sovereignty]]"
   - "[[Transfer Space]]"
 related_facts:
@@ -62,7 +61,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Grandes Écoles
@@ -187,7 +186,7 @@ updated: 2026-10-16
 > [!citation-card] 论教学与科研在制度层面的物理隔绝
 > 在美国，最杰出的前沿研究与高层次人才培养紧密相连。然而在法国，国家科学研究中心（CNRS）自设专职研究所吸纳了最顶级的科研力量，其研究员无教学硬性考核；而拔尖青年学生却在规模狭小的大学校接受高度职业化的技术与管理培训，导致科研生产与精英教学产生了体制性与物理性的割裂。这种深层的历史路径依赖使得法国在试图复制英美[[Research Universities|研究型大学]]模式时遭遇了巨大的结构性制度阻力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 >
-> *In France, the tripartite separation between the CNRS institutes, the Grandes Écoles, and the mass public universities has created a structural barrier to the integration of advanced research and graduate education. Top researchers in CNRS laboratories do not have teaching requirements, while top students in the Grandes Écoles are trained for professional and technocratic careers rather than [[Blue Skies Research|Basic Research]] careers. This historical path dependence hinders France from replicating the Anglo-American research university model.*
+> *In France, the tripartite separation between the CNRS institutes, the Grandes Écoles, and the mass public universities has created a structural barrier to the integration of advanced research and graduate education. Top researchers in CNRS laboratories do not have teaching requirements, while top students in the Grandes Écoles are trained for professional and technocratic careers rather than Basic Research careers. This historical path dependence hinders France from replicating the Anglo-American research university model.*
 
 ---
 

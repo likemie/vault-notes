@@ -31,7 +31,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Learning Style Myth]]"
+  - "[[Learning Styles]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Self-Efficacy
@@ -155,10 +155,10 @@ updated: 2026-10-17
 ### 命题二　教学中的本质主义定型与教育神经神话会系统性削弱学生的任务自我效能感并诱发回避行为
 
 > [!concept-lens] 本质主义标签对学习效能信念的认知束缚
-> 阐明缺乏科学依据的伪科学教育神话（如[[Learning Style Myth\|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
+> 阐明缺乏科学依据的伪科学教育神话（如[[Learning Styles\|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
-> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证转译的课堂实践中广泛流行的[[Learning Style Myth\|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
+> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证转译的课堂实践中广泛流行的[[Learning Styles\|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
 
 ---
 
@@ -247,4 +247,4 @@ updated: 2026-10-17
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的教育神经神话（如[[Learning Style Myth\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的教育神经神话（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。

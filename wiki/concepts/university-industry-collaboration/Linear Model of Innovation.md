@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -23,14 +23,13 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Chain-linked Model]]"
   - "[[Innovation Models Evolution]]"
-  - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Long-Term Public Utility]]"
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Process Knowledge]]"
   - "[[Total Factor Productivity]]"
   - "[[Market Failure]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Innovation Ecosystem]]"
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Linear Model of Innovation
@@ -103,7 +102,7 @@ updated: 2026-10-16
 > | **起点与原动力** | 纯基础科学的好奇心探索与前沿理论突破 | 市场潜在需求牵引与工程设计制造难题 | 发现（新知）与发明（新工具）双向循环迭代 | 兼顾根本机理与现实应用的[[Pasteur's Quadrant\|巴斯德象限]]双重驱动 |
 > | **科学与技术关系** | 单向支配：科学是源泉，技术是下游应用 | 按需调用：技术研发为主线，科学为知识储备库 | 对称共生：发明直接作为物理实验平台催生新理论 | 共生转化：科学发现必须扎根于本土试验场与制造生态 |
 > | **时间与组织尺度** | 短期线性接力流水线（立项动机划分） | 包含即时反馈环的组织内学习网络 | 跨越 30 至 50 年的多时间尺度演进拓扑网络 | 生成与核验同步扩大的敏捷生态网络 |
-> | **政策资助逻辑** | 政府主导无约束[[Blue Skies Research\|基础研究]]，开发留给市场 | 优化产学研界面，支持企业研发中心 | 政府资助消除生态瓶颈，以[[Long-Term Public Utility\|长期公共效用]]为准绳 | 组合式资助、对人赋权、新型组织与开放中试试验场 |
+> | **政策资助逻辑** | 政府主导无约束[[Curiosity-Driven Research\|基础研究]]，开发留给市场 | 优化产学研界面，支持企业研发中心 | 政府资助消除生态瓶颈，以[[Long-Term Public Utility\|长期公共效用]]为准绳 | 组合式资助、对人赋权、新型组织与开放中试试验场 |
 
 ---
 

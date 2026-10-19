@@ -9,7 +9,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - level/international
 related_concepts:
   - "[[Knowledge Diplomacy]]"
+  - "[[Knowledge Power]]"
   - "[[Soft Power]]"
   - "[[Research Universities]]"
 related_theories: []
@@ -33,9 +34,11 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Belt and Road Education Action Plan]]"
+  - "[[Asian Universities Alliance]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -52,7 +55,7 @@ updated: 2026-10-19
 > 丝绸之路大学联盟（University Alliance of the Silk Road, UASR）是由西安交通大学于2015年倡议发起成立的非官方、开放性跨国高等教育多边合作组织，旨在弘扬和平合作、开放包容、互学互鉴、互利共赢的丝路精神，搭建欧亚非跨区域校际学术交流与人才联合培养平台。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2015年5月在古丝绸之路起点中国西安正式成立，积极响应“一带一路”倡议中关于教育互联互通与民心相通的战略号召。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+> - **成立时间 / 创设背景** 2015年5月在古丝绸之路起点中国西安正式成立，积极响应一带一路倡议中关于教育互联互通与民心相通的战略号召。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **总部地点 / 业务辐射** 秘书处常设于中国西安交通大学，业务网络辐射欧、亚、非、美、大洋洲30余个国家和地区的130余所知名大学。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **法人属性与经费基础** 国际高校自主参与的非营利性学术联合体，经费主要由发起高校统筹配套、专项政府教育资助与多边合作项目基金支持。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **核心宗旨与法定职责** 促进沿线国家高水平大学在学生流动、学者互访、学位互认、科技联合攻关以及政策智库研究领域的深度合作。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 683)]]

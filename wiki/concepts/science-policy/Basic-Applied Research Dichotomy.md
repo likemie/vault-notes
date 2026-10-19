@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Curiosity-Driven Research]]"
   - "[[Public Value]]"
   - "[[Abstract]]"
-  - "[[Blue Skies Research]]"
   - "[[Long-Term Public Utility]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Basic-Applied Research Dichotomy
@@ -85,7 +84,7 @@ updated: 2026-10-16
 > | **科技演进形态** | 单向流水线（科学先行，技术跟进） | 象限化静态分布（在公共广场发生交集） | 网状双向演化（双向流转、反复激发、螺旋演进） |
 > | **对工程学的定位** | 降格为科学理论的副产品（应用科学） | 在帕斯德与爱迪生象限内承认工程价值 | 将工程发明提升为同等重要、且能反哺科学的基础通道 |
 > | **时间考察视野** | 短期立项期或项目资助周期（3–5 年） | 项目立项当下的静态动机快照 | 跨越半个世纪的宏观历史长周期（30–50 年） |
-> | **公共资助判据** | 政府仅资助纯[[Blue Skies Research\|基础研究]]，应用开发由市场负责 | 优先资助帕斯德象限内的用启发性基础研究 | 资助聚焦于 **[[Long-Term Public Utility\|长期公共效用]]** 与**疏通创新网络瓶颈** |
+> | **公共资助判据** | 政府仅资助纯[[Curiosity-Driven Research\|基础研究]]，应用开发由市场负责 | 优先资助帕斯德象限内的用启发性基础研究 | 资助聚焦于 **[[Long-Term Public Utility\|长期公共效用]]** 与**疏通创新网络瓶颈** |
 
 ---
 

@@ -43,7 +43,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Dual School System]]"
   - "[[Educational Science Communication]]"
-  - "[[Learning Style Myth]]"
+  - "[[Learning Styles]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Normal School
@@ -252,7 +252,7 @@ updated: 2026-10-16
 > | [[Circular Transfer]] | 概念 | 解释师范学校在普鲁士、法国、北美与阿根廷等节点之间发生的非线性转移与本土转化。 |
 > | [[Educational Brokerage Agency]] | 概念 | 现代教师教育体系中连接大学职前培养与在职教师循证实践的核心中介机制。 |
 > | [[Educational Science Communication]] | 概念 | 师范教育由一次性封闭知识传授走向面向教师群体的多向度非线性科学传播。 |
-> | [[Learning Style Myth]] | 概念 | 职前师范知识时效局限与在岗研究疏离环境下在中小学实践中广为弥散的典型教育神经神话。 |
+> | [[Learning Styles|Learning Style Myth]] | 概念 | 职前师范知识时效局限与在岗研究疏离环境下在中小学实践中广为弥散的典型教育神经神话。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 强制全法各省设立初等师范学校并由国家设立法定最低薪资保障，奠定法国现代师资建制。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持起草的普鲁士教育法草案，确立省立师范学校专业网络，成为欧美借用的制度蓝本。 |
 > | [[Report on Elementary Public Instruction in Europe]] | 政策事实 | 斯托向俄亥俄州议会提交的[[Education in Europe\|欧洲教育考察报告]]，在全美多州掀起师范学校立法与建制浪潮。 |

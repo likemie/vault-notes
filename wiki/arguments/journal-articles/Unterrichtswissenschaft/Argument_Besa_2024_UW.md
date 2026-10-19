@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -33,7 +33,7 @@ sources:
 journal: "Unterrichtswissenschaft"
 status: completed
 related_concepts:
-  - "[[Learning Style Myth]]"
+  - "[[Learning Styles]]"
   - "[[Knowledge Transfer]]"
   - "[[Educational Science Communication]]"
   - "[[Discourse]]"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Refutational Evidence]]"
   - "[[Falsification]]"
-  - "[[Learning Styles]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -70,7 +69,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 # Argument_Besa_2024_UW
 
@@ -79,7 +78,7 @@ updated: 2026-10-17
 ## 研究问题
 
 > [!question]
-> 针对德语区职前师范生与在岗教师普遍依附于缺乏经验检验的直觉性经验知识（如坚信[[Learning Style Myth\|学习风格神话]]）、且实证教育研究成果难以有效融入常态课堂教学的顽固困境，教育科学研究界应如何反思传统单向线性的[[Knowledge Transfer\|知识转移]]模式局限，并通过重塑科学传播形态促进教师教育与教学实践的证据知情行动？（pp. 251–252）
+> 针对德语区职前师范生与在岗教师普遍依附于缺乏经验检验的直觉性经验知识（如坚信[[Learning Styles\|学习风格神话]]）、且实证教育研究成果难以有效融入常态课堂教学的顽固困境，教育科学研究界应如何反思传统单向线性的[[Knowledge Transfer\|知识转移]]模式局限，并通过重塑科学传播形态促进教师教育与教学实践的证据知情行动？（pp. 251–252）
 
 > [!claim] 核心主张
 > 实证教育研究向课堂实践的转化绝非单纯取决于证据的科研质量，而必须摆脱将教师视为被动受体的单向自上而下知识转移，转向非线性、双向乃至多向互惠的[[Educational Science Communication\|教育科学传播]]；教育研究者应破除参与大众科普会影响学术声誉的顾虑，积极拓展播客、信息中介平台及社交网络等多样化媒介形态，采用契合一线教师[[Discourse|话语]]习惯的通俗语言开展针对性概念转变，并推动学术界在制度上确立研究合成与通俗转译的独立科学价值。（pp. 252–254, 258）
@@ -98,7 +97,7 @@ updated: 2026-10-17
 > |---|---|
 > | **[[Educational Science Communication\|教育科学传播]]** | 阐释教育科研成果向学校实践转化的多元媒介矩阵与专业沟通机制，强调情境调适、受众适配与多向递归互动。（pp. 252–253） |
 > | **[[Deficit Model of Science Communication\|赤字模型批判与非线性知识转移]]** | 批判将教师预设为知识被动受体的单向线性假设，主张通过双向递归[[Dialogue in Education\|对话]]融合科研逻辑与实践现场逻辑。（pp. 253–254） |
-> | **[[Learning Style Myth\|学习风格神话与概念转变理论]]** | 作为剖析伪科学迷思在教育界弥散的代表性案例，揭示通过通俗化日常语言与概念转变设计实现认知纠偏的心理机制。（pp. 252, 255–256） |
+> | **[[Learning Styles\|学习风格神话与概念转变理论]]** | 作为剖析伪科学迷思在教育界弥散的代表性案例，揭示通过通俗化日常语言与概念转变设计实现认知纠偏的心理机制。（pp. 252, 255–256） |
 > | **[[Educational Brokerage Agency\|教育知识中介理论]]** | 分析清算中心与[[Boundary Spanner\|知识经纪人]]在提炼[[Meta-analysis\|元分析]]、连接学术界与实践界乘数群体中的枢纽功能与受众穿透边界。（pp. 256–257） |
 
 > [!warrant]- 理论如何支撑论证
@@ -113,7 +112,7 @@ updated: 2026-10-17
 > |---|---|
 > | **论题定位与批判性辨析** | 围绕教师证据疏离、专业行动与科学传播展开理论推演，梳理实证知识供给与一线实践吸收之间的内在矛盾。（pp. 251–254） |
 > | **传播媒介分类学分析** | 建立涵盖五大核心传播载体（学术期刊、实践指南、音视频播客、信息中介、社交网络）的横向对比[[Analytic Framework\|分析框架]]，系统评估各形态的受众覆盖面、互动深度与质量风险。（pp. 254–258） |
-> | **实证案例与干预证据整合** | 综合提取有关[[Learning Style Myth\|学习风格神话]]流行度调查、实验性播客干预、指南图书出版普查及清算平台运营数据的多源实证发现。（pp. 252–257） |
+> | **实证案例与干预证据整合** | 综合提取有关[[Learning Styles\|学习风格神话]]流行度调查、实验性播客干预、指南图书出版普查及清算平台运营数据的多源实证发现。（pp. 252–257） |
 
 > [!sample-panel]- 文献与分析范围
 > | 样本层面 | 构成 |
@@ -158,7 +157,7 @@ updated: 2026-10-17
 
 #### 2. 学习风格假说在经验和逻辑上均无法成立且持续扭曲教学资源分配并抑制学生认知发展
 
-在实证研究证据未能有效转化为实践知识的情况下，未经检验的经验假说极易演变为顽固的教育神经神话，其中以[[Learning Style Myth|学习风格神话]]（Lerntypenmythos）最具代表性。（p. 252）
+在实证研究证据未能有效转化为实践知识的情况下，未经检验的经验假说极易演变为顽固的教育神经神话，其中以[[Learning Styles|学习风格神话]]（Lerntypenmythos）最具代表性。（p. 252）
 
 > [!evidence-grid] 学习风格神话的认知信念与传播扩散证据
 > - **信念先验性与认知顽固** 职前师范生在入学初期便高度信奉根据偏好感官通道划分的个体[[Learning Styles|学习类型]]，且该信念完全独立于其对大脑神经生理学客观知识的掌握程度（Krammer et al., 2019）。

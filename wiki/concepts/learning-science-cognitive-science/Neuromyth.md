@@ -9,10 +9,10 @@ aliases:
 summary: "指将脑科学与认知神经科学关于大脑运作机制的实验室假说、片断发现或微观物理过程，过度推论、简化或曲解为指导宏观教育政策、课堂教学干预与学习评价的伪科学观念与技术主义迷思。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - cognitive-science
   - neuroscience
@@ -20,30 +20,21 @@ tags:
   - educational-philosophy
   - learning-sciences
 related_concepts:
-  - "[[Neuroplasticity]]"
   - "[[Educational Neuroscience]]"
+  - "[[Neuroplasticity]]"
   - "[[Learning Styles]]"
-  - "[[Learning Style Myth]]"
   - "[[Category Mistake]]"
-  - "[[Visible Learning]]"
-  - "[[Positivism]]"
-  - "[[Technical Rationality]]"
-related_theories:
-  - "[[Ecology of the Brain]]"
-  - "[[Phenomenology]]"
+related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Steen Nepper Larsen]]"
-  - "[[John Hattie]]"
-related_facts:
-  - "[[OECD]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Neuromyth
@@ -74,7 +65,7 @@ updated: 2026-10-18
 ## 概念辨析
 
 > [!contrast-table] 神经神话与相关范畴的辨析
-> | 维度 | 神经神话（Neuromyth） | [[Educational Neuroscience\|教育神经科学]] | [[Learning Style Myth\|学习风格迷思]] |
+> | 维度 | 神经神话（Neuromyth） | [[Educational Neuroscience\|教育神经科学]] | [[Learning Styles\|学习风格迷思]] |
 > |---|---|---|---|
 > | **性质与属性** | 认识论谬误与技术还原论迷思 | 跨学科实证科学研究分支 | 教学心理学层面的类型学迷思 |
 > | **典型论调** | 脑扫描能直接可视化学习全过程；左右脑优势决定智能；脑潜能仅开发 10% | 顶下叶在数量加工中的激活；阅读回路的神经重塑机制 | 将学生严格划分为视觉、听觉或动觉学习者并实行匹配教学 |
