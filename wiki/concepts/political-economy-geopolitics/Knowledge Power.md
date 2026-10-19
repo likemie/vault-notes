@@ -80,6 +80,7 @@ updated: 2026-10-20
 > | **地缘政治叙事** | 契合纵向依附与地缘政治竞争逻辑，推动国际秩序重塑 | 契合横向平等与互联互通发展叙事，实现多边共同繁荣 |
 > | **网络组织形态** | 排他性、高门槛的精英旗舰大学网络，准入机制严格 | [[Open-Mindedness\|开放性]]、宽口径的大众化高校合作网络，准入程序便捷 |
 > | **典型合作机制** | 定向[[Seed Funding\|种子基金]]支持的前沿科研、高端学者奖金与学术峰会 | 大规模学生夏令营、宽领域学科子联盟与通识文化交流 |
+> | **产出成效取向** | 产生不对称权力关系与中心-外围制度依附（[[Argument_Liu_2025_IndHE\|Liu et al., 2025]]） | 促成多边共赢与伙伴国技术自主能力建设（[[Argument_Liu_2025_IndHE\|Liu et al., 2025]]） |
 > | **代表案例呈现** | [[Asian Universities Alliance\|亚洲大学联盟]]（Asian Universities Alliance, AUA）的精英治理结构 | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）的开放多边平台 |
 
 ---
@@ -90,18 +91,6 @@ updated: 2026-10-20
 > - **知识领导力诉求** 行动者将自身高等教育机构、前沿科研平台与优质教育资源转化为关键治理资源，旨在让国际伙伴认可其潜在或现实的知识引领地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 > - **不对称影响力的培育** 借助定向科研资助、旗舰学术流动项目与制度性平台，在多边合作中逐步积累战略信誉，推进着眼长期演进的制度博弈。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 > - **精英化准入与议程设定** 优先联合区域内综合声誉顶尖的旗舰高校，通过限制成员规模、同行举荐准入与闭门战略协商，确保多边行动始终围绕核心议题推进。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
-
----
-
-## 概念演变
-
-> [!dev-timeline] 概念发展脉络
-> - **2022 年 — 欧洲全球事务研究中的概念奠基**
->   米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）反思[[EU|欧盟]]科技政策与全球治理实践，提出知识权力概念，用以刻画行动者动员知识资源重塑全球治理规则体系的行动能力。
-> - **2024 年 — [[Geopolitics of Higher Education|高等教育地缘政治]]与跨国大学联盟分析**
->   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入[[Belt and Road Initiative|一带一路]]跨国大学联盟实证研究，对比[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，揭示中国外向型[[Internationalization of Higher Education|高等教育国际化]]战略中知识权力与[[Knowledge Diplomacy|知识外交]]的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
-> - **2025 年 — 权力范式与外交范式的结构化辨析**
->   刘伟（Wei Liu）等学者提炼出知识权力与知识外交在定义、进路与成效三维度的结构对照，指出知识权力将专业优势转化为超越对手的竞争工具，并以微观案例实证论证了从单向知识权力向互惠知识外交范式转变的必要性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
 
@@ -134,6 +123,18 @@ updated: 2026-10-20
 > |---|---|---|---|
 > | **制度载体论** | 依托排他性旗舰联盟设定议程，实现区域性知识治理模式辐射 | 区域高水平研究型大学闭门多边合作 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
 > | **功能互补论** | 开放型外交与精英型权力协同，加速全球知识网络中心化 | 新兴大国外向型高等教育国际化战略推进 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念发展脉络
+> - **2022 年 — 欧洲全球事务研究中的概念奠基**
+>   米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）反思[[EU|欧盟]]科技政策与全球治理实践，提出知识权力概念，用以刻画行动者动员知识资源重塑全球治理规则体系的行动能力。
+> - **2024 年 — [[Geopolitics of Higher Education|高等教育地缘政治]]与跨国大学联盟分析**
+>   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入[[Belt and Road Initiative|一带一路]]跨国大学联盟实证研究，对比[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，揭示中国外向型[[Internationalization of Higher Education|高等教育国际化]]战略中知识权力与[[Knowledge Diplomacy|知识外交]]的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
+> - **2025 年 — 权力范式与外交范式的结构化辨析**
+>   刘伟（Wei Liu）等学者提炼出知识权力与知识外交在定义、进路与成效三维度的结构对照，指出知识权力将专业优势转化为超越对手的竞争工具，并以微观案例实证论证了从单向知识权力向互惠知识外交范式转变的必要性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
 

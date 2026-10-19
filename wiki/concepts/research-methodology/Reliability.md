@@ -73,7 +73,7 @@ related_facts:
   - "[[PISA]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 # Reliability
 
@@ -82,15 +82,22 @@ updated: 2026-10-18
 ## 定义
 
 > [!def] 核心定义
-> 信度（Reliability）本质上是**可依赖性（dependability）**、**一致性（consistency）** 和**可复制性（replicability）**——跨越时间、跨越工具和跨越受访者群体。它关乎**精确性（precision）** 和**准确性（accuracy）** 有些特征（如身高）可以精确测量，而另一些（如音乐能力）则不能。对于研究来说，要被认为是可靠的，它必须证明：如果在一个相似群体中、在相似的情境中进行，那么**相似的结果**就会被发现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
-
-> [!claim] 信度是效度的必要非[[Necessary and Sufficient Conditions\|充分条件]]
-> 信度是效度的必要前提（necessary precondition, sine qua non），而效度可能是信度的充分但非必要条件（Brock-Utne, 1996, p. 614）。这一逻辑关系意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 157)]]
+> 信度（Reliability）指测量工具、数据收集与研究发现在跨越时间、工具和受访者群体时所展现的一致性（consistency）、可依赖性（dependability）与可复制性（replicability）。对于实证研究而言，信度要求在相似情境中对相似群体重复施测时能够发现相似的结果；在量化研究中体现为测量程序的稳定度与误差控制，在质性研究中则转化为对自然生活情境的忠实记录与多观察者解释的可依赖性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 信度回答的核心问题是：如果这项研究在相似条件、相似人群与相似工具下重复进行，是否会得到相似的结果？该指标聚焦于测量程序本身的稳定度与一致性，有别于关注测量对象是否准确的构念效度。
-> - **用途** 信度框架帮助研究者在研究设计、工具开发和数据收集阶段确保测量的一致性和可复制性。在[[Quantitative Research\|量化研究]]中，它是效度论证的前置条件——不可靠的测量不可能有效。
-> - **边界** 信度不同于[[Internal Consistency\|内部一致性]]——后者是信度的一种具体形式（项目间的一致性），而非信度概念本身。信度也不同于[[Test-Retest Reliability\|重测信度]]——后者是信度作为稳定性的一种[[Operationalization\|操作化]]方式。在[[Qualitative Research\|质性研究]]中，信度被重新解释为可依赖性且其术语适用性存在争议。
+> - **用途** 信度框架帮助研究者在研究设计、工具开发和数据收集阶段确保测量的一致性和可复制性。在[[Quantitative Research|量化研究]]中，它是效度论证的前置条件——不可靠的测量不可能有效。
+> - **边界** 信度不同于[[Internal Consistency|内部一致性]]——后者是信度的一种具体形式（项目间的一致性），而非信度概念本身。信度也不同于[[Test-Retest Reliability|重测信度]]——后者是信度作为稳定性的一种[[Operationalization|操作化]]方式。在[[Qualitative Research|质性研究]]中，信度被重新解释为可依赖性且其术语适用性存在争议。
+
+> [!citation-card] 信度是效度的必要条件
+> 信度是效度的必要前提，而效度是信度的充分条件。一项研究可以稳定一致但测量了错误的对象，但一项有效的研究必须以可靠为前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 157)]]
+>
+> *Reliability is a necessary precondition of validity, whereas validity may be a sufficient condition for reliability.*
+
+> [!boundary]- 概念边界
+> - 区别于效度（Validity）：信度关注跨时间与跨情境的测量一致性，效度关注测量对象本身的准确性与针对性。
+> - 区别于内部一致性（Internal Consistency）：内部一致性仅为信度的一种形式（测验题项间的一致性），不等于信度概念本身。
+> - 区别于纯粹统计指标：在质性研究中转化为可依赖性（Dependability）与情境忠实性，避免机械套用数值信度系数。
 
 ---
 
@@ -104,6 +111,24 @@ updated: 2026-10-18
 > | **量化形式** | 稳定性、等值性、[[Internal Consistency\|内部一致性]] | [[Internal Validity\|内部效度]]、[[External Validity\|外部效度]]、[[Construct Validity\|构念效度]]等 |
 > | **质性对应** | 可依赖性（dependability） | 可信性（credibility） |
 > | **形象类比** | 漏水的水龙头每天恒定漏出一升水——体现测量的稳定性 | 水龙头漏出的是符合设计规格的目标液体——体现测量的针对性 |
+
+> [!contrast-table] 量化信度与[[Qualitative Reliability|质性信度]]基础对照
+> | 量化信度基础 | 质性信度基础 |
+> |---|---|
+> | 信度（Reliability） | 可依赖性（Dependability） |
+> | 可证明性（Demonstrability） | 可信赖性（[[Qualitative Validity\|trustworthiness]]） |
+> | 稳定性（Stability） | 稳定性（Stability） |
+> | [[Variable\|变量]]的隔离、控制和操纵 | 忠实于自然情境和真实生活（Fidelity） |
+> | 可复制性（Replicability） | 可复制性（Replicability） |
+> | 去情境化（Context-freedom） | 情境特定性（Context-specificity） |
+> | 客观性（Objectivity） | 真实性（Authenticity） |
+> | 精简性（Parsimony） | 丰富性（Richness） |
+> | [[Internal Consistency\|内部一致性]]（Internal consistency） | 可信性（Credibility） |
+> | [[Inter-Rater Reliability\|评分者间信度]]（Inter-rater reliability） | 评分者间信度（Inter-rater reliability） |
+> | [[Triangulation\|三角验证]]（Triangulation） | 三角验证（Triangulation） |
+> | 替代形式 / 半分法 / Alphas | — |
+> 
+> *来源：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 207)]]*
 
 ---
 
@@ -171,28 +196,6 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 
 ---
 
-## 量化与质性信度对照
-
-> [!contrast-table] Table 10.2 精选：量化与[[Qualitative Reliability\|质性信度]]基础对照
-> | 量化信度基础 | 质性信度基础 |
-> |---|---|
-> | 信度（Reliability） | 可依赖性（Dependability） |
-> | 可证明性（Demonstrability） | 可信赖性（[[Qualitative Validity\|trustworthiness]]） |
-> | 稳定性（Stability） | 稳定性（Stability） |
-> | [[Variable\|变量]]的隔离、控制和操纵 | 忠实于自然情境和真实生活（Fidelity） |
-> | 可复制性（Replicability） | 可复制性（Replicability） |
-> | 去情境化（Context-freedom） | 情境特定性（Context-specificity） |
-> | 客观性（Objectivity） | 真实性（Authenticity） |
-> | 精简性（Parsimony） | 丰富性（Richness） |
-> | [[Internal Consistency\|内部一致性]]（Internal consistency） | 可信性（Credibility） |
-> | [[Inter-Rater Reliability\|评分者间信度]]（Inter-rater reliability） | 评分者间信度（Inter-rater reliability） |
-> | [[Triangulation\|三角验证]]（Triangulation） | 三角验证（Triangulation） |
-> | 替代形式 / 半分法 / Alphas | — |
-
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 207)]]
-
----
-
 ## 围绕概念形成的命题
 
 ### 命题一　跨国等值空间建构中信度优先机制弱化了构念效度与本体论多样性
@@ -215,6 +218,16 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 
 ---
 
+### 命题三　质性分析通过多分析者交叉编码与程序透明度建立可依赖性
+
+> [!concept-lens] 质性编码一致性与程序透明
+> 探讨质性研究如何在尊重情境独特性与生态真实性的前提下，依托系统化规程与多分析者独立编码确立可依赖性与分析透明度。
+
+> [!claim] O'Connor and Joffe
+> **多分析者交叉比对保障质性归纳客观性** 质性研究的可依赖性要求超越单一研究者的主观偏好。通过制定透明详尽的主题提取框架，并组织多名分析者对一手质性文本开展独立盲审与编码员间信度检验，能够在保持情境丰富性的同时，有效规避认知偏差，确立质性归纳与跨案例综合的可验证性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -222,6 +235,23 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > |---|---|---|---|
 > | **跨国指标治理命题** | 跨国等值空间中信度优先压制构念效度与本土多样性 | 大规模跨国教育测评与国家统考设计 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 > | **测量逻辑命题** | 信度构成效度的必要非充分条件，高信度不保证高真实性 | 量化与质性实证工具开发与效度论证 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
+> | **质性编码规程命题** | 多分析者盲审与编码员间信度检验保障质性归纳客观性 | 跨案例质性分析、叙事研究与质性文本编码 | O'Connor and Joffe (2020); [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 信度概念与测量范式的演化脉络
+> - **1904 — 经典测验理论与量化信度奠基**
+>   斯皮尔曼（Charles Spearman）提出经典测验理论，区分真分数与测量误差，将信度界定为跨时间与跨测试的一致性，奠定了重测信度与平行复本信度的方法论基石。
+> - **1951 — 内部一致性系数标准化**
+>   克隆巴赫（Lee Cronbach）提出 Cronbach α 系数，克服了折半信度随意分半的缺陷，将多项目量表的内部一致性测量标准化为单次施测的成熟规程。
+> - **1985–1993 — 自然主义范式转向与质性可依赖性重构**
+>   林肯与古巴（Lincoln & Guba, 1985）主张以“可依赖性”（dependability）替代实证主义量化信度；莱康普特与普莱斯勒（LeCompte & Preissle, 1993）深入辨析质性研究的可复制性要素与生态效度权衡，反对将去情境化的量化标准生硬套用于自然主义情境。
+> - **2009 — 跨国等值空间与数字治理信度优先批判**
+>   法扎尔·里兹维与鲍勃·林加德批判经合组织与 PISA 测评，揭示技术官僚为构建跨国通约的等值空间，以高信度为由系统性剔除扎根于本土文化脉络的高阶思辨试题，造成实质构念效度滑坡。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **2020–2025 — 质性主题分析与跨案例编码员信度规程化**
+>   奥康纳与约菲（O'Connor & Joffe, 2020）及刘伟等学者系统规范了质性研究中的编码员间信度操作规程，通过多名独立研究者交叉比对与盲审提高跨案例综合的客观性与透明度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
 
 ---
 
@@ -249,27 +279,6 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 
 ---
 
-## 条目关联
-
-> [!entry-map] 信度知识网络与关联维度
->
-> | 条目 | 类型 | 核心贡献与关联说明 |
-> |---|---|---|
-> | [[Construct Validity]] | 概念 | 信度构成效度的必要非充分条件；二者在指标设计中常存在此消彼长的张力。 |
-> | [[Internal Validity]] | 概念 | 实验设计与[[Causality\|因果推断]]内部真实性，以稳定一致的信度测量为基本前提。 |
-> | [[Ecological Validity]] | 概念 | [[Qualitative Research\|质性研究]]所强调的情境生态真实性，与量化追求的去情境化信度形成方法论对峙。 |
-> | [[Internal Consistency]] | 方法 | 基于单次测验内部项目间相关性的信度估计形式。 |
-> | [[Cronbach's Alpha]] | 方法 | 衡量多项目量表内部一致性信度的最广泛计量指标。 |
-> | [[Test-Retest Reliability]] | 方法 | 跨时间稳定性维度的信度操作化形式与重测相关计算。 |
-> | [[Inter-Rater Reliability]] | 方法 | 多名评分者或观察者之间数据录入与解释的一致性评估。 |
-> | [[Commensuration]] | 概念 | 将异质系统折算为统一尺度的通约化工程，往往以信度优先压制本土效度。 |
-> | [[Governing by Numbers]] | 概念 | 依托高信度跨国数据指标行使超国家教育软治理与远处掌舵。 |
-> | [[PISA]] | 事实 | [[OECD\|经合组织]]建立跨国等值空间、推行标准化素养评估的全球旗舰项目。 |
-> | [[Fazal Rizvi]] | 人物 | 批判跨国评估以信度压制效度并塑造新自由主义[[Social Imaginary\|社会想象]]的核心学者。 |
-> | [[Bob Lingard]] | 人物 | 剖析教育数字治理、[[Space of Equivalence\|等值空间]]虚构与远处掌舵机制的核心学者。 |
-
----
-
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
@@ -277,3 +286,4 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 5)]] — 梳理教育调查[[Questionnaire|问卷]]中的[[Test-Retest Reliability|重测信度]]、[[Parallel-Forms Reliability|复本信度]]、[[Split-Half Reliability|折半信度]]与[[Inter-Rater Reliability|评分者信度]]，确立信度系数评价阈值与[[Kitwood's Paradox|信度效度权衡]]法则。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières [[Space of Equivalence|等值空间]]理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批判可见学习中自变量与因变量循环互证构建的“高信度、零效度”封闭研究牢笼，揭示统计一致性对外部现实脱离的方法论风险。（p. 6）
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 遵循奥康纳与约菲规程，在三所高校案例分析中执行四人独立编码员间信度检验，保障质性归纳与跨案例综合的客观性与透明度。
