@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -74,10 +74,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Discourse
@@ -142,15 +143,16 @@ updated: 2026-10-19
 > | **情境性（Situationality）** | 文本同所处物质、制度与历史时空脉络的嵌入关联 | 具体的物理场景、机构层级与历史节点如何改变文本含义 |
 > | **互文性（Intertextuality）** | 当前文本对先前其他文本或外部话语网络的依赖与引用 | 文本如何通过引述、戏仿、挪用或反驳嵌入更宏大的话语链条 |
 
-### 2. 宏观政策话语的四维空间机制
+### 2. 宏观政策话语的多维空间与权力机制
 
-结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）与[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）的理论推进，跨国教育政策话语展现出独特的四维空间机制：
+结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）、[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）与[[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]的理论推进，跨国教育政策话语展现出多维空间与权力机制：
 
-> [!feature] 宏观政策话语的四维空间机制
+> [!feature] 宏观政策话语的多维机制
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
 > - **去情境化普遍主义（Decontextualized Universalism）** 国际多边机构将源自欧美特定经济体的组织管理模式包装为不依存于特定时空的全球公理，并以“信息时代的[[Educated Identity|受教育身份]]”为由推向全球南方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **跨位置流通的过度简化（Oversimplification across Positions）** 国际机构受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将原本充满学术争论的复杂理论删剪为便于技术操作与借贷捆绑的五大支柱标准化模型，并在输出外围国家时依托本土跨界[[Gatekeepers|守门人]]实现垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–353)]]
 > - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
+> - **地缘知识权力中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构跨国教育与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“南南合作”、“命运共同体”与“非对齐互惠”为核心的规范性话语，对冲西方普世主义叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
 
 ---
 
@@ -203,10 +205,10 @@ updated: 2026-10-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：微观权力日常再生产** | 谈话规则与言语互动分配发言特权，制度化微观合规秩序 | 课堂师生互动与机构内部对话 | [[Louis Cohen\|Cohen]] 等 |
-> | **命题二：解释学反身性审视** | 文本多义性与情境嵌入性要求反思前见并检验替代读法 | 质性文本阐释与[[Discourse Analysis\|话语分析]]方法论 | [[Louis Cohen\|Cohen]] 等 |
-> | **命题三：跨国漂浮能指动员** | 语义空洞化符号维系表层共识，降落本土发生结构性形变 | 超国家政策倡导与基层学校改革遭遇 | [[Jason Beech\|Beech]] |
-> | **命题四：跨国场域守门人垄断** | 紧迫实用主义删剪理论，本土跨界守门人垄断合法解释权 | 国际组织政策贷款与外围本土研究依附 | [[Jason Beech\|Beech]]; [[Basil Bernstein\|Bernstein]] |
+> | **微观权力日常再生产** | 谈话规则与言语互动分配发言特权，制度化微观合规秩序 | 课堂师生互动与机构内部对话 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|Cohen et al. (2011)]] |
+> | **解释学反身性审视** | 文本多义性与情境嵌入性要求反思前见并检验替代读法 | 质性文本阐释与[[Discourse Analysis\|话语分析]]方法论 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|Cohen et al. (2011)]] |
+> | **跨国漂浮能指动员** | 语义空洞化符号维系表层共识，降落本土发生结构性形变 | 超国家政策倡导与基层学校改革遭遇 | [[Argument_Beech_2009_CE\|Beech (2009a, 2009b)]] |
+> | **跨国场域守门人垄断** | 紧迫实用主义删剪理论，本土跨界守门人垄断合法解释权 | 国际组织政策贷款与外围本土研究依附 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
 
 ---
 
@@ -215,7 +217,8 @@ updated: 2026-10-19
 > [!dev-timeline] 概念演变
 > - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何[[Disciplina and Doctrina|规训]]主体，话语被确立为制度性实践。
-> - **2000s 至今 — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
+> - **2000s–2010s — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
+> - **2020s 至今 — 地缘政治竞争与跨国规范话语博弈** 话语分析进一步拓展至全球南方与地缘知识政治，剖析新兴大国如何依托多边高教联盟构建区别于西方新自由主义规范的替代性话语体系（如“南南合作”与“互惠共赢”），以生产性/话语性[[Knowledge Power|知识权力]]争夺跨国知识治理规则的制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1705)]]
 
 ---
 
@@ -236,10 +239,11 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] — 结合课堂会话、机构叙事与教师自传，系统阐述话语的概念界定、文本性七大标准与解释学多义性，奠定质性会话与文本[[Discourse Analysis|话语分析]]基础。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育[[Champ|场域]]五位置模型，实证剖析国际组织推销普遍模型时引发的过度简化、拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 348–355）。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪“能力发展”与“尊重多样性”两大教育话语在跨国流动中如何作为“[[Floating Signifier|漂浮能指]]”动员共识并在基层微观实践中发生[[Shape-Shifting|形变]]（pp. 348–361）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析透视[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Performance Indicators|教育指标]]网络，揭示数字[[Governing at a Distance|远处治理]]背后的新自由主义话语霸权（pp. 443–446）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习在国际教育规划中构建的霸权话语，揭示实证主义话语如何通过技术化修辞掩蔽二阶观察的盲点（pp. 1–3）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于文化政治经济学与三维批判话语分析框架，考察政策文本作为符号意义建构的运作机制，揭示中国跨境高等教育顶层设计中的跨文本性与跨话语性实践。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合“一带一路”多边大学联盟案例，剖析新兴大国如何通过倡导南南合作与共享未来等规范性话语，在跨国高等教育治理中建构话语性[[Knowledge Power|知识权力]]（pp. 1700–1705）。
