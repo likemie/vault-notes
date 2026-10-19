@@ -1,6 +1,7 @@
 ---
 citation: "Woo, E. (2023). Narrating the Belt and Road education policy: A critical policy discourse analysis. Higher Education Policy, 36(4), 677–699. https://doi.org/10.1057/s41307-022-00279-9"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Woo_2023_HEP]]"
 processed_date: 2026-10-19
 ---
 
