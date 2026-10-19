@@ -9,6 +9,10 @@
       "path": "wiki/facts/global/OECD.md"
     },
     {
+      "basename": "International Indicators of Education Systems",
+      "path": "wiki/facts/global/International Indicators of Education Systems.md"
+    },
+    {
       "basename": "Global Universities Rankings",
       "path": "wiki/concepts/higher-education/Global Universities Rankings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thomas Aastrup Rømer",
       "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md"
-    },
-    {
-      "basename": "Victorian HITS and Literacy Toolkit",
-      "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
     }
   ],
   "omittedPaths": [],
