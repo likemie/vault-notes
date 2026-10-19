@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Community of Shared Future for Mankind
@@ -167,4 +167,5 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析比对中非合作论坛与“一带一路”教育行动，揭示命运共同体理念如何通过民心相通、传统文化伦理互鉴（如儒家“立己达人”与非洲“独行快，众行远”）重塑跨大洲教育能力合作的多边正当性（pp. 228–232）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将人类命运共同体作为解构中国一带一路教育政策话语的激励性框架（Motivational Framing），深入剖析了这一宏大社会想象如何赋予国家高等教育跨国扩张以道义正当性。

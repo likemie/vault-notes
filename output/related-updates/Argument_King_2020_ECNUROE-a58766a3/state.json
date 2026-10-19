@@ -117,7 +117,7 @@
     },
     {
       "number": 3,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -167,11 +167,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:21:10.004386+00:00"
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -192,11 +193,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:22:53.546891+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -212,11 +214,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:23:34.131748+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -233,11 +236,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:25:06.208257+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -256,11 +260,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:25:37.282890+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -309,7 +314,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T17:27:42.754477+00:00"
     }
   ]
 }
