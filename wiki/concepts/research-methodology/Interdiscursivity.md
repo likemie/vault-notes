@@ -6,6 +6,11 @@ aliases:
   - 跨话语性
 summary: "批判话语分析的核心分析概念，由诺曼·费尔克拉夫基于巴赫金互文理论提出。指特定文本或话语实践中不同体裁、话语类型与风格之间复杂的相互渗透与异质性杂糅；作为连接微观文本语言特征与宏观社会权力结构的分析枢纽，既表征制度变迁与话语秩序重构的动态过程，也在政策实践中被用于融合外交、经济与教育等多重领域话语，赋予国家战略行动以正当性修辞。"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - theme/discourse-analysis
@@ -15,17 +20,9 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Recontextualization]]"
-  - "[[Policy Framing]]"
-  - "[[Social Imaginary]]"
-  - "[[Explanatory Critique]]"
-  - "[[Retroduction]]"
-  - "[[Floating Signifier]]"
-related_theories:
-  - "[[Cultural Political Economy]]"
-  - "[[Critical Realism]]"
+related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Norman Fairclough]]"
@@ -116,7 +113,7 @@ updated: 2026-10-19
 > 批判话语分析将话语秩序视为各领域话语规范的动态平衡。当社会制度发生重大结构性转型时，既有的话语边界发生松动，新兴领域的话语规则渗透进传统机构，互话语性成为记录这一权力变迁过程的关键表征。
 
 > [!claim] Fairclough, N.
-> **话语边界重组反映权力消长与社会变迁** 费尔克拉夫指出，文本内部体裁与话语的混杂组合并非孤立的修辞技巧，而是外部社会文化转变在符号层面的直接投射。市场营销、企业管理等商业体裁对高等教育与公共医疗机构话语体系的大规模渗透，生动展示了新自由主义治理术如何重塑现代社会的话语秩序与机构关系。
+> **话语边界重组反映权力消长与社会变迁** 费尔克拉夫指出，文本内部体裁与话语的混杂组合，深刻投射了外部社会结构与文化规范的动态转变。市场营销、企业管理等商业体裁对高等教育与公共医疗机构话语体系的大规模渗透，生动展示了新自由主义治理术如何重塑现代社会的话语秩序与机构关系。
 
 ---
 

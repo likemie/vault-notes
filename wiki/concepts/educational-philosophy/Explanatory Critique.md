@@ -6,29 +6,22 @@ aliases:
   - Explanatory Critiques
 summary: "批判实在论的核心认识论命题与规范批判工具。由 Roy Bhaskar 提出并经 Andrew Collier 系统化，主张打破事实与价值、实然与应然的二元对立；当科学因果解释成功揭示出某种虚假信念或意识形态表象是由特定社会结构的客观机制所系统性生产与维系时，这项因果解释本身就在逻辑上构成了对该虚假信念及其背后压迫性结构的规范性批判与去合法化实践。"
 type: concept
+domain: "educational-philosophy"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - paradigm/critical-realism
   - philosophy/epistemology
   - method/critical
   - theme/emancipation
 related_concepts:
-  - "[[Critical Realism]]"
-  - "[[Discourse]]"
-  - "[[Ideology Critique]]"
   - "[[Value Neutrality]]"
-  - "[[Scientific Explanation]]"
   - "[[Retroduction]]"
-  - "[[Epistemology]]"
-  - "[[Ontology]]"
-  - "[[Causality]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Critical Realism]]"
-  - "[[Critical Theory]]"
-  - "[[Cultural Political Economy]]"
 related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Critical Policy Analysis]]"
   - "[[Ideology Critique]]"
 related_instruments: []
 related_persons:
@@ -37,6 +30,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: high
 status: draft
 created: 2026-10-19
@@ -58,7 +53,7 @@ updated: 2026-10-19
 > - **边界** 区别于脱离经验解释的主观道德谴责，也区别于后现代相对主义对真理标准的彻底消解；它必须建立在严格可检验的因果解释模型基础之上。
 
 > [!citation-card] 巴斯卡与科利尔论解释性批判的逻辑贯通性
-> 批判实在论指出，对意识形态与社会支配的批判能够直接从对这些社会现象的健全解释模型中推导出来。因此，解释性批判可以被理解为‘对某种事物的解释，这种解释对该事物展开批判，并非在解释之外附加批判，而恰恰是通过解释本身来实现批判’。这一概念处于批判实在论的核心位置，因为解释性批判是揭示社会现象背后生成性因果机制的关键枢纽。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 681)]]
+> 批判实在论指出，对意识形态与社会支配的批判能够直接从对这些社会现象的健全解释模型中推导出来。因此，解释性批判可以被理解为‘对某种事物的解释，这种解释对该事物展开批判，它直接通过解释本身来实现批判，免除了外在价值附加的必要’。这一概念处于批判实在论的核心位置，因为解释性批判是揭示社会现象背后生成性因果机制的关键枢纽。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 681)]]
 >
 > *Explanatory critique can be understood as 'an explanation of something which criticizes it, not in addition to, but by explaining it' (Collier, 1999, p. 35). This concept is central to critical realism, the underpinning philosophy of CDA, because explanatory critique is critical in uncovering the generative causal mechanisms of social phenomena, i.e., the 'real' domain of critical realism.*
 
@@ -89,7 +84,7 @@ updated: 2026-10-19
 > - **第三阶梯：作出否定性价值评价（Negative Evaluation）** 依据科学解释结果，在逻辑上直接判定产生并维系该虚假表象的社会结构具有认知压迫性与功能缺陷。
 > - **第四阶梯：导出社会解放行动导向（Emancipatory Action）** 逻辑地得出必须针对该深层生成机制实施制度变革，消除产生系统性欺骗的社会物质基础。
 
-> [!logic-map]- 解释性批判的因果推导与规范跃迁逻辑链
+> [!logic-map]- 解释性批判的因果推导与规范跨越逻辑链
 > ```mermaid
 > flowchart TD
 >     A["表层社会现象与政策文本<br/>(宣称纯粹互利与文明互鉴)"] --> B["实证经验矛盾识别<br/>(发现事实断层与单向工具化)"]
@@ -113,7 +108,7 @@ updated: 2026-10-19
 > **因果解释与价值评价的一体性** 罗伊·巴斯卡（Roy Bhaskar, 1986）提出，社会科学的核心任务是探究深层实在机制。若一种社会结构必然在日常生活中系统性制造关于自身的虚假认知图景以换取合法性，那么当科学研究证明了“结构 S 必然导致错误认知 I”这一因果事实时，研究者便完全有理由从理性上判定结构 S 是有缺陷的，并在实践上主张消除结构 S。因果解释与价值评价由此实现有机统一。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
 
 > [!claim] Collier, A.
-> **解释性批评的客观主义捍卫** 安德鲁·科利尔（Andrew Collier, 1994, 1999）论证指出，解释性批判绝非研究者将主观政治偏见强加于客观数据，恰恰相反，正是因为错误信念造成了可辨识的客观认知伤害，对其物质成因的因果追踪才具有不可辩驳的科学客观性。科学通过解释世界，直接赋予行动者批判世界的理性权威。
+> **解释性批评的客观主义捍卫** 安德鲁·科利尔（Andrew Collier, 1994, 1999）论证指出，解释性批判牢牢根植于实证因果追踪，由于错误信念对社会生活造成了确凿的认知扭曲与实质伤害，对诱发这些错误的制度根源展开科学剖析本身就具备坚实的客观性。科学通过阐明世界，直接赋予行动者批判世界的理性权威。
 
 ---
 
@@ -175,5 +170,5 @@ updated: 2026-10-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将解释性批判贯穿于一带一路教育政策话语分析三维模型，揭示高教出海服务国家地缘经济与民族复兴的深层因果机制。
-> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 运用批判实在论解释性批判，解构新自由主义学校改进指标背后的虚假等值机制。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 运用批判实在论解释性批判，解构新自由主义学校改进指标背后的虚假等值机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 结合解释性批判反思英国公立教育私有化进程中社会阶层隔离的深层制度根源。

@@ -3931,6 +3931,16 @@
     ]
   },
   {
+    "title": "Explanatory Critique",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Explanatory Critique.md",
+    "aliases": [
+      "解释性批判",
+      "解释性批评",
+      "Explanatory Critiques"
+    ]
+  },
+  {
     "title": "Falsification",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Falsification.md",
@@ -9410,6 +9420,18 @@
     ]
   },
   {
+    "title": "Community of Shared Future for Mankind",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Community of Shared Future for Mankind.md",
+    "aliases": [
+      "人类命运共同体",
+      "命运共同体",
+      "构建人类命运共同体",
+      "Community of Shared Destiny",
+      "A Community with a Shared Future for Mankind"
+    ]
+  },
+  {
     "title": "Composite-Standard Model",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Composite-Standard Model.md",
@@ -11582,6 +11604,16 @@
     ]
   },
   {
+    "title": "Interdiscursivity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interdiscursivity.md",
+    "aliases": [
+      "互话语性",
+      "互话语",
+      "跨话语性"
+    ]
+  },
+  {
     "title": "Internal and External Generalizability",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Internal and External Generalizability.md",
@@ -12159,6 +12191,17 @@
       "溯因推断",
       "历史溯因",
       "Retrodictive Reasoning"
+    ]
+  },
+  {
+    "title": "Retroduction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Retroduction.md",
+    "aliases": [
+      "逆推溯因",
+      "逆推溯因法",
+      "溯因推理",
+      "Retroductive Inference"
     ]
   },
   {
@@ -28557,6 +28600,17 @@
     ]
   },
   {
+    "title": "China Scholarship Council",
+    "type": "fact",
+    "path": "wiki/facts/china/China Scholarship Council.md",
+    "aliases": [
+      "国家留学基金管理委员会",
+      "国家留学基金委",
+      "留基委",
+      "CSC"
+    ]
+  },
+  {
     "title": "Chinese Academy of Sciences",
     "type": "fact",
     "path": "wiki/facts/china/Chinese Academy of Sciences.md",
@@ -28796,6 +28850,17 @@
       "Big Fund",
       "国家大基金",
       "National Integrated Circuit Industry Investment Fund"
+    ]
+  },
+  {
+    "title": "Confucius Institute",
+    "type": "fact",
+    "path": "wiki/facts/china/Confucius Institute.md",
+    "aliases": [
+      "孔子学院",
+      "孔院",
+      "Confucius Institutes",
+      "CI"
     ]
   },
   {

@@ -7,34 +7,28 @@ aliases:
   - Retroductive Inference
 summary: "批判实在论的核心认识论推理逻辑与反事实反思策略。由 Roy Bhaskar 提出并由 Andrew Sayer 与 Berth Danermark 系统化，旨在超越经验归纳与形式演绎的局限；通过反向追问‘某一可观测经验现象得以成立，实在界必须具备何种深层结构与生成性因果机制’，借助思想实验与反事实分析穿透偶然的经验表象，重构并检验潜藏在深层实在中的客观因果机制。"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - paradigm/critical-realism
   - method/causal-inference
   - philosophy/epistemology
   - theme/logic
 related_concepts:
-  - "[[Critical Realism]]"
   - "[[Retrodiction]]"
-  - "[[Causality]]"
-  - "[[Ontology]]"
-  - "[[Epistemology]]"
-  - "[[Scientific Explanation]]"
-  - "[[Counterfactual]]"
-  - "[[Explanatory Critique]]"
-  - "[[Emergence]]"
 related_theories:
   - "[[Critical Realism]]"
-related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Process Tracing]]"
-  - "[[Analytic Induction]]"
-  - "[[Discourse Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Roy Bhaskar]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
 confidence: high
 status: draft
 created: 2026-10-19
@@ -74,7 +68,7 @@ updated: 2026-10-19
 > |---|---|---|---|---|---|
 > | **推理起点** | 观察到的经验现象或异常事件 | 先验公理、普适定律与假定前提 | 有限的经验观察与多样本观测数据 | 令人费解的经验谜题或反常观察 | 当下存留的物理化石、同位素痕迹 |
 > | **核心思考逻辑** | 追问使该现象成立的深层必要结构与机制 | 从一般前提逻辑必然推导个别结论 | 从特定样本观察外推统计普遍规律 | 调用现有理论图式对现象作概念重述 | 基于物理规律由遗留痕迹反推过去事件 |
-> | **本体论深度** | 穿透经验界与实际界，直达深层实在界 | 停留在形式逻辑概念命题闭合系统内 | 局限于经验界可直接观测的事件序列 | 介于经验重述与理论假设生成之间 | 聚焦实际界曾经发生过的历史时空状态 |
+> | **本体论深度** | 穿透经验界与实际界，直达深层实在界 | 停留在形式逻辑概念命题的封闭系统内 | 局限于经验界可直接观测的事件序列 | 介于经验重述与理论假设生成之间 | 聚焦实际界曾经发生过的历史时空状态 |
 > | **在社会研究中的功能** | 发现不可直接观测的生成性因果机制 | 检验形式化假设与实证假说成立与否 | 探索变量之间的相关性与频率分布 | 形成扎根理论范畴与初步理论概念框架 | 还原教育制度改革或历史事件时间轴演变 |
 
 ---
@@ -170,4 +164,4 @@ updated: 2026-10-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用逆推溯因法穿透一带一路教育政策文本框架，反向重构国家复兴与全球秩序挑战的深层政治经济学因果机制。
-> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 借助批判实在论溯因推理，剖析学校效能指标背后的结构性阶层不平等再生产机制。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 借助批判实在论溯因推理，剖析学校效能指标背后的结构性阶层不平等再生产机制。
