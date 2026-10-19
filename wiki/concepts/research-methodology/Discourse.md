@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -73,10 +73,11 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Discourse
@@ -88,7 +89,7 @@ updated: 2026-10-18
 > [!def] 核心定义
 > 话语（Discourse）是指在特定的历史、制度与交往情境中赋予文本、对话及社会实践以特定含义，并借此塑造知识、界定主体身份并维系权力关系的规则与意义体系。该概念在社会科学与教育研究中贯穿了微观交往互动与宏观制度治理两重互补的分析视阈：
 > 1. **微观语言与互动视阈** 指涉行动者在日常生活、课堂对话或专业共同体中生产的具体文本与言语互动。语言不仅传达字面内容，更通过预设规则规定谁拥有发言资格、何种知识被判定为有效，并参与微观权力关系的协商与再生产；
-> 2. **宏观社会学与跨国政策视阈** 指涉由国际组织、跨国智库与国家行政机器共同建构的标准化意义网络（如[[Global Educational Discourse|全球教育话语]]）。话语作为去情境化的“[[Floating Signifier|漂浮能指]]”，在跨国空间流动并被过度简化为普遍主义改革处方，进而规约民族国家的政策议程并重构教育系统的合法性基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–351)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
+> 2. **宏观社会学与跨国政策视阈** 指涉由国际组织、跨国智库与国家行政机器共同建构的标准化意义网络（如[[Global Educational Discourse|全球教育话语]]）。话语作为去情境化的“[[Floating Signifier|漂浮能指]]”，在跨国空间流动并被过度简化为普遍主义改革处方，进而制约民族国家的政策议程并重构教育系统的合法性基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–351)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语是在具体文化与制度网络中组织现实、分配真理与[[Disciplina and Doctrina|规训]]行动的符号权力系统，超越了纯粹中立的语言学词句堆叠或单向度的个人心理意识。
@@ -106,7 +107,7 @@ updated: 2026-10-18
 > *Global educational discourse represents a web of meanings defining the educated person for the information age... International agencies oversimplify complex academic knowledge into decontextualized universal models, which circulate as floating signifiers and produce unforeseen deformations when recontextualised in local schools.*
 
 > [!boundary]- 概念边界
-> - **不等于纯粹语言（Language / Langue）** 语言是词汇与语法的符号系统，而话语是语言在具体历史社会情境中受权力规约并产出实际效果的实践形态。
+> - **不等于纯粹语言（Language / Langue）** 语言是词汇与语法的符号系统，而话语是语言在具体历史社会情境中受权力结构制约并产出实际效果的实践形态。
 > - **不等于意识形态（Ideology）** 传统意识形态常被界定为统治阶级掩盖客观真实的“虚假意识”；话语则超越真假二分，关注权力如何直接生产“真理体制”并建构行动者的主体性。
 > - **不等于孤立文本（Isolated Text）** 单一文本只有置于互文性关系、话语共同体的解读规范以及生产该文本的制度脉络中，方能构成具有分析价值的话语。
 
@@ -135,7 +136,7 @@ updated: 2026-10-18
 > |---|---|---|
 > | **衔接性（Cohesion）** | 文本各表层语法成分之间的结构性联系 | 代词指代、连接词使用与句子跨度的照应规则 |
 > | **连贯性（Coherence）** | 概念与命题在底层逻辑与意义上的融贯性 | 观点推进脉络、逻辑推理链条与潜在语义假定 |
-> | **[[Intentionality\|意向性]]（Intentionality）** | 言说者或作者通过文本达成特定意图的主观取向 | 文本旨在完成何种言语行为（说服、命令、规劝或辩护） |
+> | **[[Intentionality\|意向性]]（Intentionality）** | 文本生产主体通过文本达成特定意图的主观取向 | 文本旨在完成何种言语行为（说服、命令、规劝或辩护） |
 > | **可接受性（Acceptability）** | 目标受众对文本内容与社会规范的认可程度 | 受众依据何种文化准则判定文本有效、可信或合理 |
 > | **信息性（Informativeness）** | 文本相对于受众先验知识所提供的新增认知增量 | 文本包含预期信息与非预期信息的分布比例与认知冲击 |
 > | **情境性（Situationality）** | 文本同所处物质、制度与历史时空脉络的嵌入关联 | 具体的物理场景、机构层级与历史节点如何改变文本含义 |
@@ -163,7 +164,7 @@ updated: 2026-10-18
 > 探讨言语谈话如何在具体课堂与机构日常实践中确立合法知识秩序，并将外部权力结构内生化为理所当然的行为规则。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
-> **意义与权力相互构成** 文本与谈话中的意义始终受制于文化、制度和共同体认可的规约。话语共同体通过对特定说辞的承认，确立了特定知识与行为方式的正当性；这些正当性规范又在面对面日常互动中被持续落实。在中小学课堂中，教师对指定发言者、重复标准答案和随时打断讨论的微观操控，实质上将外部教育系统的权威结构无缝转化为师生日常接受的合规秩序。话语充当了权力的承载工具与权力关系日常微观再生产的核心温床，带有深层的制度规范与权力导向属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
+> **意义与权力相互构成** 文本与谈话中的意义始终受制于文化、制度和共同体认可的约束机制。话语共同体通过对特定说辞的承认，确立了特定知识与行为方式的正当性；这些正当性规范又在面对面日常互动中被持续落实。在中小学课堂中，教师对指定发言者、重复标准答案和随时打断讨论的微观操控，实质上将外部教育系统的权威结构无缝转化为师生日常接受的合规秩序。话语充当了权力的承载工具与权力关系日常微观再生产的核心温床，带有深层的制度规范与权力导向属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 
 ---
 
@@ -241,3 +242,4 @@ updated: 2026-10-18
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪“能力发展”与“尊重多样性”两大教育话语在跨国流动中如何作为“[[Floating Signifier|漂浮能指]]”动员共识并在基层微观实践中发生[[Shape-Shifting|形变]]（pp. 348–361）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析透视[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Performance Indicators|教育指标]]网络，揭示数字[[Governing at a Distance|远处治理]]背后的新自由主义话语霸权（pp. 443–446）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习在国际教育规划中构建的霸权话语，揭示实证主义话语如何通过技术化修辞掩蔽二阶观察的盲点（pp. 1–3）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于文化政治经济学与三维批判话语分析框架，考察政策文本作为符号意义建构的运作机制，揭示中国跨境高等教育顶层设计中的跨文本性与跨话语性实践。
