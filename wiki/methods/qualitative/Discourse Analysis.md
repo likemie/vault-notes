@@ -81,7 +81,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Discourse Analysis
@@ -250,3 +250,4 @@ updated: 2026-10-19
 > - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 运用[[Multimodal Discourse Analysis|多模态话语分析]]剖析初中生利用生成式AI协同建构[[Scientific Explanation|科学解释]]时的言语对话与提示词迭代，揭示三维[[Epistemological Vigilance|认识论警觉]]机制。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 结合社会语言学与科学实践研究，运用话语分析考察理科课堂互动言语行为，解析知识主张合法化的[[Epistemic Practices|认识论实践]]机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率手段。
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析系统比对中非合作论坛行动计划与教育部《推进共建“一带一路”教育行动》，剖析南南合作框架下教育与人力资源开发话语由单向奖学金培训向全面能力合作与跨洲互联互通的演进机制。

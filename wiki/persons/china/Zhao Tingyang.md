@@ -3,11 +3,11 @@ title: Zhao Tingyang
 aliases:
   - Zhao, T.
   - 赵汀阳
-summary: "中国哲学家，以天下理论著称，提出以中国为中心的天下体系作为威斯特伐利亚民族国家体系的替代方案"
+summary: "中国当代哲学家，中国社会科学院哲学研究所研究员，以重构古典“天下体系”作为超越西方威斯特伐利亚主权国家的全球制度哲学而闻名；其思想被教育学界转译为跨国高教治理的“天下启发式”，同时在政治人类学界引发关于同化修辞与死亡政治的深刻批判。"
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 13
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - discipline/philosophy
   - field/political-philosophy
   - theory/tianxia
+  - epistemic-governance
 related_concepts:
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
@@ -26,15 +27,22 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Grand Theory]]"
   - "[[Knowledge Transfer]]"
+  - "[[Knowledge Power]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Normalization through Knowledge Cooperation]]"
 related_theories:
   - "[[Tianxia Heuristic]]"
   - "[[Necropolitics]]"
   - "[[Orientalism]]"
+  - "[[World-Systems Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
+  - "[[Comparative Case Study]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[Chinese Academy of Sciences]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
@@ -51,26 +59,14 @@ updated: 2026-10-20
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员。
-> - **核心角色** 以[[Tianxia Heuristic|“天下” (Tianxia) 体系]]的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴[[Discourse|话语]]提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
-> - **代表贡献** 提出“天下体系”、“神性中国/配天”和“逐鹿中原”的征服隐喻。
+> - **身份位置** 中国当代哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员、学部委员。
+> - **核心角色** 以现代政治哲学范式重构先秦“天下”观念的代表学者，主张以“无外部”的天下体系作为替代西方威斯特伐利亚民族国家主权秩序与联合国体系的世界制度方案；其理论为当代“构建人类命运共同体”与国族复兴[[Discourse|话语]]提供了哲学资源，并被国际高等教育学界引入作为跨国知识治理的“天下启发式”分析框架；在政治人类学与少数民族研究中，其关于异族征服与文化同化的哲学论辩则成为死亡政治与同化美化批判的焦点。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106–107]]；[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024, pp. 1703–1705]])
+> - **代表贡献** 提出“[[Tianxia Heuristic|天下体系]]”（无外部世界制度哲学）、“神性中国与配天”旋风向心模型，以及将族群征服去暴力化的“逐鹿中原”与“文化成为”（becoming）命题。
 
 > [!citation-card] 人物定位的关键来源
-> 天下体系是比以民族国家为基础的联合国体系更优越的替代方案。少数民族深受华夏文化吸引，其文化消亡在论述中被界定为自愿的“自我牺牲”与“成为”（becoming），属于对非华夏存在方式的超越性转化。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106, 107]])
-> 
-> *The Tianxia system is a superior alternative to the UN system based on nation-states. Minorities are fatally attracted by the superiority of Chinese culture; the demise of their culture is not a destruction by violence, but a voluntary self-sacrifice—a 'becoming,' a transcendental transformation of non-Chinese ways of existence.*
-
----
-
-## 条目关联
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Zhonghua Minzu]] | 概念 | 其天下体系为中华民族伟大复兴及“人类命运共同体”提供了世界主义的哲学外衣。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
-> | [[Necropolitics]] | 概念 | 被布拉格指出是以“自愿牺牲”为幌子、旨在美化同化强权的死亡政治理论。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
-> | [[Orientalism]] | 概念 | 将征服者框定为对中国文化的“东方主义”式仰慕，被批评洗白了帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |
+> 具有影响力的哲学家赵汀阳提出了作为优于基于威斯特伐利亚民族国家原则的联合国体系的中国“天下”概念。赵汀阳认为，天下为所有人提供了与一个开放、包容且热情的中国相融合的前景；这就是中国梦的内涵。如果说“人类命运共同体”显得较为抽象，赵汀阳的中国神学则将国家本身呈现为全球以中国为中心的天下秩序的微观模型。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
+>
+> *The influential philosopher Tingyang Zhao (2021) has proposed the Chinese concept of tianxia as a superior alternative to the United Nations system based on the Westphalian principle of nation-states. Tianxia, Zhao argues, offers all peoples the prospect of communion with an open, welcoming and warm-hearted China; this is what is meant by the Chinese Dream. If Xi's 'community of shared destiny for mankind' seems rather abstract, Zhao's theology of China presents the nation itself as a microcosmic model of a global, Sino-centric order of tianxia.*
 
 ---
 
@@ -78,63 +74,98 @@ updated: 2026-10-20
 
 > [!timeline] 生平与职涯
 > - **1961** 出生于广东汕头。
-> - **1980s** 毕业于中国社会[[Chinese Academy of Sciences|科学院]]研究生院，后进入中国社会科学院哲学研究所任研究员。
-> - **2005** 发表《天下体系：世界制度哲学导论》，首次系统性地将“天下”概念建构为政治哲学体系。
-> - **2016** 发表《天下：一种可能世界秩序的天下体系》，深化其“无外部”及“旋风式”文明吸纳机制。
-> - **2021** 出版著作英文版 *All Under Heaven: The Tianxia System for a Possible World Order*，在全球地缘政治与知识体系讨论中产生广泛影响。
+> - **1982** 毕业于中国人民大学哲学系；后进入中国社会[[Chinese Academy of Sciences|科学院]]研究生院深造，师从李泽厚，获哲学硕士学位，毕业后留所从事哲学研究。
+> - **2005** 发表专著《天下体系：世界制度哲学导论》，首次系统地将中国古典“天下”观念转化为现代政治哲学话语，提出超越威斯特伐利亚国家体系的“无外部”世界制度构想。
+> - **2016** 发表《天下：一种可能世界秩序的天下体系》，进一步深化其“旋风式”文明吸纳机制与“配天”哲学体系。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
+> - **2019** 出版《惠此中国：作为一个神性概念的中国》，结合考古发现与先秦文献，系统阐发“神性中国”概念与“逐鹿中原”的历史哲学隐喻。
+> - **2021** 加州大学出版社出版其著作英文版 *All Under Heaven: The Tianxia System for a Possible World Order*，在全球政治哲学、国际关系与比较教育领域引发广泛关注与跨学科争鸣。
+> - **2022–2024** 思想被西蒙·马金森（Simon Marginson）与杨锐（Yang Rui）等学者转译为比较教育学与高等教育学界的“天下启发式”分析框架；同时成为乌拉迪恩·布拉格（Uradyn E. Bulag）在《比较教育》期刊中解构同化修辞与死亡政治的核心文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 ---
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> - **2005 — 《天下体系：世界制度哲学导论》** 将中国传统的“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的替代方案。
-> - **2016 — 《天下：一种可能世界秩序的天下体系》** 系统性建构“无外部”的世界哲学，阐发华夏文明如何通过吸纳机制将征服者“[[Sinicisation\|中国化]]”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
-> - **2021 — *All Under Heaven: The Tianxia System for a Possible World Order*** 将“天下”理论推向国际地缘政治和比较教育研究视野，主张以天下作为重构全球政治与知识关系的框架。
+> [!thought-timeline] 思想发展
+> - **2005–2011 — 天下本体论建构与威斯特伐利亚主权超越**
+>   - **核心问题** 回应全球化进程中国际政治的零和博弈与联合国治理失灵困境，寻求超越主权国家边界的世界政治哲学。
+>   - **代表著作** 《天下体系：世界制度哲学导论》（2005）。
+>   - **关键概念** [[Tianxia Heuristic|天下体系]]、无外部世界（No-outside）、世界作为[[Unit of Analysis|分析单位]]。
+>   - **阶段转向** 突破近代以来中国哲学以西方范畴格义本土思想的框架，将先秦天下观念重构为一种前瞻性的全球宪制顶层设计。
+> - **2016–2020 — 文明吸纳机制深化与神性中国发生学**
+>   - **核心问题** 阐释华夏文明在数千年历史中化解外来征服并维持连续一体的动力机制，论证中国作为文明实体的内在向心力。
+>   - **代表著作** 《天下：一种可能世界秩序的天下体系》（2016）、《惠此中国：作为一个神性概念的中国》（2019）。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
+>   - **关键概念** 神性中国（Numinous China）、配天（Peitian）、文明旋风模型（Whirlwind Model）、“逐鹿中原”隐喻。
+>   - **阶段转向** 结合先秦考古成果与历史哲学，将天下制度哲学延伸至文明发生学，提出华夏文明依靠文化吸引力使征服者自愿“[[Sinicisation|中国化]]”的核心论断。
+> - **2021–至今 — 全球跨学科传播、教育学转译与人类学论争**
+>   - **核心问题** 天下理论在国际学术界的跨语际旅行，以及其在解释当代全球治理与国内族群认同重构中的双向张力。
+>   - **代表著作** 英文版专著 *All Under Heaven: The Tianxia System for a Possible World Order*（2021）。
+>   - **关键概念** [[Tianxia Heuristic|天下启发式]]（Tianxia Heuristic）、以世界为中心的天下观（World-Centric Tianxia）、[[Necropolitics|死亡政治]]（Necropolitics）。
+>   - **阶段转向** 理论从纯思辨下沉至跨学科应用：在高等教育研究中被转译为解析多边大学联盟与非西方知识治理的透镜；在政治人类学界则遭遇对其掩盖同化暴力、将文化消亡包装为自愿牺牲的系统解构。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 赵汀阳主张以超越威斯特伐利亚民族国家主权的“天下体系”作为替代性世界秩序。在该体系中，中国被视为与天道唯一齐平、具备道德和制度普遍吸引力的“神性/配天”实体。他将历史上的族群征服隐喻为“逐鹿中原”的认同博弈，并主张少数民族文化的消亡源于少数民族被华夏文明优越性吸引而进行的自愿“自我牺牲”与文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
+> 赵汀阳主张以超越西方威斯特伐利亚民族国家主权的“天下体系”作为替代性世界秩序。该体系确立“以世界为尺度”的全局视阈，将“世界”本身定义为最高政治单位，致力于消除政治与制度上的“外部性”，构想以道德感召力和多层制度嵌套实现全人类和谐的世界制度。在历史与文明发生学层面，他将中国建构为与天道对齐、具备神性向心力的“文明旋风”，将历史上内陆亚洲游牧族群对中原的入侵重新诠释为参与争夺天命主导权的“逐鹿中原”认同博弈，并提出少数民族文化的消亡源于对华夏文明优越性的仰慕，属于一种向更高形态转化的自愿“自我牺牲”与文化“成为”（becoming）。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
-### 天下体系
+### 无外部的世界制度哲学（No-Outside World Politics）
 
-- **无外部的世界政治** 相对于以民族国家主权为核心、将世界分裂为“我们”与“他们”的西方威斯特伐利亚体系，天下体系致力于构建一个“无外部” (no-outside) 的世界制度，将“世界”本身作为基本的政治与[[Unit of Analysis|分析单位]]，以实现全球秩序的终极和谐。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
+- **以世界思考世界** 相对于以民族国家主权为核心、将世界割裂为“我们”与“他们”排他性二元的西方威斯特伐利亚体系，天下体系致力于构建一个“无外部”（no-outside）的世界制度。它将全球整体作为基本的政治与[[Unit of Analysis|分析单位]]，主张先定义全球公意，再定义国家权益，以消解帝国主义扩张与主权纷争的制度根源。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
-### “配天”与神性中国
+> [!citation-card] 无外部的世界政治与天下构想
+> 天下概念将世界构想为一个没有外部界限的有机整体。作为一种世界制度哲学，天下的核心要求是将世界本身作为政治思考的出发点和分析单位，打破民族国家相互割裂的主权壁垒，创造出一种包容所有民族与文化的普世共在秩序。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+>
+> *The concept of tianxia envisions the world as an organic whole without external boundaries. As a philosophy of world institution, tianxia fundamentally requires taking the world itself as the point of departure and unit of analysis in political thinking, transcending the divisive sovereign barriers of nation-states.*
 
-- **神性中国 (Numinous China)** 中国被表述为一个具有神性、与天道（Tian）唯一对齐并相配（“配天”）的开放文明。它没有边界，如同一个具有巨大向心力的“文明旋风”，能够依靠自身的感召力吸引并融合周边的族群。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+### “配天”神学与神性中国旋风模型（Numinous China & Whirlwind Model）
 
-### “逐鹿中原”与征服的非暴力化
+- **神性中国（Numinous China）** 赵汀阳将古代中国表述为一个具有神性、与天道（Tian）唯一对齐相配（“配天”）的开放文明。这个文明没有固定疆界，呈现为一个具有巨大向心力的“文明旋风”：核心区产生的强大文化引力能够不断吸引卷入周边各族群，使其在互动中汇入华夏文明母体。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 
-- **“逐鹿”博弈** 赵汀阳借用“逐鹿中原”的成语重新框定内陆亚洲族群对中原的入侵与征服，主张族群入侵旨在争夺象征天命之“鹿”，属于参与争夺文明主导权的竞技，其归宿在于征服者自愿接受文明感召并实现“[[Sinicisation|中国化]]”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+> [!citation-card] 神性中国的配天属性与旋风引力
+> 作为唯一与天道相合相配的国家，中国是“神性的”，具有令征服者敬畏与倾慕的不可言喻的力量。在赵汀阳的论述中，这样的中国是一个没有外部的开放无界之域，产生了一种能够将四方豪杰吸引汇聚的“旋风”。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
+>
+> *As the nation that uniquely aligns with the dictates of Heaven or Tian (peitian), China is 'numinous' (shenxing zhongguo), possessing an ineffable power to awe and attract conquerors. Such a China is, for Zhao, an open and unbounded realm with 'no outside.' This numinous China produces what he calls a 'whirlwind' that attracts ambitious men from near and far.*
 
-### 少数民族的自愿牺牲与“成为”
+### “逐鹿中原”与征服的竞技化（Hunting the Deer on the Central Plains）
 
-- **文化死亡作为“成为” (Becoming)** 在天下[[Discourse|话语]]下，少数民族文化和独特身份的消亡不被视为被强制同化或毁灭，而被解释为由于对华夏先进文化的仰慕而做出的自愿“自我牺牲”。这种“死”实际上是一种向更高文明层次的超越性转换（即“成为”中国的一部分）。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
-- **汉字的神性吸引** 赵汀阳高度赞美汉字（Hanzi）的表意和跨地域属性，认为它是赋予“神性中国”无可比拟的普遍吸引力与文明整合力的物质和符号基础。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+- **“逐鹿”博弈** 赵汀阳借用“逐鹿中原”的成语重新框定内陆亚洲族群对中原的入侵与征服。他主张族群入侵旨在争夺象征天命之“鹿”，属于参与争夺文明主导权的竞技游戏；征服的归宿在于征服者自愿接受文明感召并实现“[[Sinicisation|中国化]]”。入侵者未曾脱离华夏文明框架，反而全部融入华夏文明之中。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+
+> [!citation-card] 逐鹿中原作为争夺天命的博弈
+> 为描述内亚族群对中原的入侵，赵汀阳借用了中原“逐鹿”这一家喻户晓的意象。对中原逐鹿的隐喻象征着异族进入中原争夺统治权，唤起了一种让人联想到古代周朝的怀旧理想秩序。在这套叙事中，入侵行动演变为争夺天命主导权的大型竞技，其结果是征服者被华夏文明完全同化。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+>
+> *To describe the Inner Asian invasions of China, he invokes the proverbial image of 'stag hunting in the Central Plains' (zhulu zhongyuan) [...] The enigmatic allusion to stag-hunting on the Central Plains, symbolising 'barbarian' incursions into China for plunder, evokes a retrotopia reminiscent of the ancient Zhou dynasty.*
+
+### 文化死亡作为自愿牺牲与“成为”（Self-Sacrifice & Becoming）
+
+- **文化死亡作为“成为”（Becoming）** 在天下话语建构下，少数民族文化和族群特性的消亡脱离了强制同化或国家暴力的属性，而被阐释为少数民族出于对华夏文明优越性的由衷仰慕而主动做出的自愿“自我牺牲”。这种文化死亡被界定为一种追求向更高文明形态转化的“成为”（becoming）。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+- **汉字的神性符号整合力** 赵汀阳高度赞美汉字（Hanzi）跨方言、跨族群与表意的超地域属性，认为汉字赋予了“神性中国”无可比拟的普遍吸引力与文明整合力，是周边族群自愿融入华夏文明的物质与符号基石。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
 
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **学术与理论路径** 已渗透到全球知识关系和高等教育比较研究中。例如，西蒙·马金森 (Simon Marginson)、杨锐 (Yang Rui) 和 许心 (Xu Xin) (2022) 将赵汀阳的天下概念作为理解跨国高等教育知识合作与非西方模式的启发式分析工具。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 113]])
-> - **政策与[[Grand Theory\|元叙事]]路径** 与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的[[Discourse|话语]]体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]])
+> - **哲学与政治思想路径** 开启了当代中国学者将古典儒家天下思想系统转化为现代政治哲学话语的热潮，引发关于普遍主义世界秩序、天下主义（Cosmopolitanism）与传统朝贡体系当代价值的大讨论。
+> - **高等教育学与知识治理路径** 被西蒙·马金森（Simon Marginson）、杨锐（Yang Rui）与许心（Xu Xin）等学者转译为“天下启发式分析框架”（Tianxia Heuristic），用以阐释跨国高等教育中超越西方民族国家中心主义的关系性合作；周孟萱与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）进一步提炼出“以世界为中心的天下观”（world-centric tianxia），用以解析[[Belt and Road Initiative|一带一路]]跨国大学联盟中等级引领与平等互惠辩证共生的空间治理本体论。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
+> - **政策与官方[[Grand Theory|元叙事]]路径** 与官方提出的“构建人类命运共同体”及“中华民族伟大复兴”的宏大叙事形成深层学理共振，为官方论证“中华文明具有和平基因”提供了极具世界主义色彩的哲学外衣。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
+> - **跨国翻译与批评人类学传播** 英文版著作在加州大学出版社出版后，广泛进入海外中国研究、国际关系理论与后殖民批评学术视野，成为解构中国新帝国主义想象与死亡政治讨论的核心焦点文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 
-> [!evidence-grid]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 系统批判了赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”的修辞来合理化少数民族的历史性文化消亡。
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 深度解构赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”与“成为”的修辞包装少数民族的历史性文化消亡。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 探讨天下启发式框架在跨国大学联盟研究中的应用，提炼出超越中国中心主义朝贡体系的去中心化“世界中心天下观”。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学界引介者** 西蒙·马金森 (Simon Marginson) — 英国教育学者，在高等教育研究中借用天下理论解释全球学术秩序。
-> - **学界引介者** 杨锐 (Yang Rui) — 比较教育学者，将天下体系引入中国大学模式与[[Knowledge Transfer\|知识转移]]的分析中。
-> - **批判者** 乌拉迪恩·布拉格 (Uradyn E. Bulag) — 蒙古族人类学家，对其天下理论与“自愿牺牲”修辞进行了激烈的[[Necropolitics\|死亡政治]]剖析与解构。
+> - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会科学院研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
+> - **学界引介者** 西蒙·马金森（Simon Marginson） — 英国牛津大学高等教育学者，在跨国高等教育与全球学术秩序研究中借用赵汀阳天下理论提炼天下启发式分析框架。
+> - **学界引介者** 杨锐（Yang Rui） — 香港大学比较教育学者，将天下体系引入中国现代大学模式建构与全球[[Knowledge Transfer|知识转移]]关系的分析中。
+> - **理论解构者** 乌拉迪恩·布拉格（Uradyn E. Bulag） — 剑桥大学社会人类学家，从[[Necropolitics|死亡政治]]、后殖民批判与族群政策实践对其天下哲学展开系统解构。
+> - **批评者** 葛兆光 — 复旦大学文史学者，批评其天下体系将传统儒家的乌托邦想象过度理想化，混淆了历史经验与哲学构想。
+> - **学术与政策机构** [[Chinese Academy of Sciences|中国社会科学院]]哲学研究所 — 长期任职与从事学术研究的核心学术基地。
 
 ---
 
@@ -142,10 +173,31 @@ updated: 2026-10-20
 
 > [!debates] 学术争议
 > 
-> > [!axis] 天下体系与日本“大东亚共荣圈”的历史回响
-> > 批评者指出天下理论在掩盖征服暴力方面的逻辑漏洞：
-> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 批评赵汀阳将历史上的侵略和同化重新诠释为对中华文明的“仰慕”，这一逻辑与日本军国主义学者在历史上打着“亚洲主义” (Asianism) 旗号、以“自然融合”粉饰对周边邻国殖民侵略的洗白叙事高度相似。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])
+> > [!axis] 世界主义理想秩序 vs 死亡政治与同化暴力的哲学洗白
+> > 学界关于天下体系究竟是克服西方威斯特伐利亚民族国家对立的理想世界制度，还是美化同化暴力的意识形态包装展开激烈论争。
+> > 
+> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 批评赵汀阳将少数民族文化的消亡描绘为仰慕华夏文明优越性的自愿选择，把帝国征服与同化美化为向更高文明层次的“成为”，实质上建构起一种以自愿牺牲为幌子、推卸国家暴力责任的[[Necropolitics|死亡政治]]理论；并指出中国在此叙事中宛如引诱崇拜者走向毁灭的“致命女人”（femme fatale）。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
+> > - **赵汀阳辩护立场** 强调天下体系旨在建立超越帝国排他统治的“无外部”共在制度，以关系理性与“和而不同”为原则，追求化敌为友与全人类的持久和平，属于对现代国际政治零和博弈的前瞻性哲学重构。
 > 
-> > [!critique]- 批评索引
-> > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 尖锐指出赵汀阳理论是彻底的[[Necropolitics\|死亡政治]]文明论包装。它将中国塑造成引诱少数民族走向毁灭的“致命女人” (femme fatale)；通过粉饰文化死灭为“自愿牺牲”，推卸了国家机器的历史暴力责任。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]])
-> > - — 驳斥其汉字神性说：赵汀阳声称汉字具有普世吸引力，但在现实中却需要国家依靠强硬的行政和语言同化政策（如 2020年内蒙古双语教育改革）来消灭蒙古语等族群语言，暴露了其“自愿向心”说的虚伪。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 113]])
+> > [!axis] 中国中心主义朝贡怀旧 vs 去中心化的全球网络治理
+> > 针对天下理论中蕴含的等级制与中心外围构想，不同学科提出了分歧性评判。
+> > 
+> > - **[[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]** 指出赵汀阳以中原和华夏为文明核心的原始论述带有历史朝贡制度的纵向等级制烙印；当代学术应用必须扬弃中国中心主义叙事，将其提炼为基于相互依存、和而不同与平等共存的“以世界为中心之天下观”（world-centric tianxia）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1704–1705)]]
+> > - **葛兆光等史学学者** 批评天下主义学者把传统儒家经典的理想化修辞误当作古代中国的实际对外战略，遮蔽了中原王朝在历史上同样采取现实主义强权、边疆羁縻与领土扩张的历史事实。
+> 
+> > [!axis] 汉字的神性普遍吸引力 vs 强制同化政策的现实冲突
+> > 赵汀阳关于汉字普遍魅力的形而上学论述与现代语言政策实践之间存在严重断裂。
+> > 
+> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 针对赵汀阳声称汉字赋予中国无法抗拒的神性普遍吸引力的论断，指出如果华夏语言文字真具备绝对自愿的向心力，现实中便无需国家依赖严厉的行政强制手段（如[[2020 Inner Mongolia Bilingual Education Reform|2020 年内蒙古双语教育改革]]替代蒙古语教学）来削减族群语言空间，这暴露了天下神学叙事与实际统治运作之间的脱节。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 113)]]
+> 
+> > [!axis] 天下叙事与日本“大东亚共荣圈”的历史回响
+> > 天下理论将异族同化解释为心悦诚服的逻辑引起了思想史层面的严厉警惕。
+> > 
+> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 尖锐指出，赵汀阳将历史上的侵略和同化重新诠释为异族对中华文明的“仰慕”，这一逻辑与近代日本军国主义学者在历史上打着“大亚洲主义”（Asianism）旗号、以“文明融合”粉饰对周边邻国殖民侵略的洗白叙事具有惊人的结构相似性。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 105)]]
+
+> [!critique]- 批评索引
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 系统解构赵汀阳天下哲学将少数民族文化消亡美化为“自愿牺牲”的死亡政治逻辑，指出其神性中国与汉字向心论在现实政策面前的虚妄。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 辨析赵汀阳古典天下体系蕴含的中国中心主义朝贡偏向，提炼去中心化的世界中心天下观。
+
+> [!warning] 未解问题与适用边界
+> 赵汀阳天下体系聚焦于高度抽象的世界制度哲学与文明认同阐发，但在实操性的制度建构层面仍面临诸多未解挑战：在缺乏全球主权实体的现实国际格局中，如何避免天下概念沦为大国单边追求区域话语权与影响力的道德修辞；如何在承认现实国家实力等级的同时，制度化地保障边缘群体与中小国家的实质平等权利，仍是该理论在国际政治与跨国治理领域持续面对的批判性课题。

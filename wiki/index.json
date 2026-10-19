@@ -1663,6 +1663,17 @@
     ]
   },
   {
+    "title": "South-South Cooperation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/South-South Cooperation.md",
+    "aliases": [
+      "南南合作",
+      "SSC",
+      "南南教育合作",
+      "South-South Development Cooperation"
+    ]
+  },
+  {
     "title": "Space of Flows",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Space of Flows.md",
@@ -9559,6 +9570,21 @@
     "path": "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
     "aliases": [
       "民族政策去政治化"
+    ]
+  },
+  {
+    "title": "Developmentalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Developmentalism.md",
+    "aliases": [
+      "发展主义",
+      "发展主义范式",
+      "发展主义叙事",
+      "Developmentalist Paradigm",
+      "Developmentalist Narrative",
+      "Instrumental-Developmental Paradigm",
+      "工具性发展主义范式",
+      "发展主义意识形态"
     ]
   },
   {
@@ -31656,6 +31682,15 @@
     ]
   },
   {
+    "title": "Forum on China-Africa Cooperation",
+    "type": "fact",
+    "path": "wiki/facts/multi/Forum on China-Africa Cooperation.md",
+    "aliases": [
+      "中非合作论坛",
+      "FOCAC"
+    ]
+  },
+  {
     "title": "International Baccalaureate North America",
     "type": "fact",
     "path": "wiki/facts/multi/International Baccalaureate North America.md",
@@ -37758,6 +37793,11 @@
     "title": "Argument_Edovald_Nevill_2021_ECNUROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+  },
+  {
+    "title": "Argument_King_2020_ECNUROE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_King_2020_ECNUROE.md"
   },
   {
     "title": "Argument_Marginson_2025_ECNUROE",

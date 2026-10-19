@@ -7,7 +7,7 @@ title: "Argument_Chou_Demiryol_2024_HE"
 argument_key: "Argument_Chou_Demiryol_2024_HE"
 argument_display_title: "Knowledge power or diplomacy? University alliances and the Belt and Road Initiative"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Normalization through Knowledge Cooperation]]"
   - "[[Outward-Oriented Internationalization]]"
+  - "[[Developmentalism]]"
 related_theories:
   - "[[Tianxia Heuristic]]"
 related_methods:
@@ -84,7 +85,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 阅读透镜
 > - **对象** 一带一路框架下由中国高水平大学发起创建的跨国大学联盟，聚焦由西安交通大学发起的[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）与由清华大学发起的[[Asian Universities Alliance|亚洲大学联盟]]（Asian Universities Alliance, AUA）的组织制度与运行实践。（pp. 1694–1695, 1698–1702）
-> - **张力** 国际关系地缘政治叙事（追求纵向不对称影响力的知识权力）与发展主义叙事（追求横向互利共赢的知识外交）之间的理论张力；排他性精英控制与开放包容连接之间的制度张力。（pp. 1695–1698, 1702–1703）
+> - **张力** 国际关系地缘政治叙事（追求纵向不对称影响力的知识权力）与[[Developmentalism|发展主义叙事]]（追求横向互利共赢的知识外交）之间的理论张力；排他性精英控制与开放包容连接之间的制度张力。（pp. 1695–1698, 1702–1703）
 > - **贡献** 超越国际关系与高等教育研究中将国家动机二元对立的分析局限，提出通过多对多网络连接实现[[Normalization through Knowledge Cooperation|网络中心性常态化]]的理论命题，并引入[[Tianxia Heuristic|天下启发式框架]]（tianxia heuristic）作为解析后西方全球高等教育空间治理的非西方认识论工具。（pp. 1703–1705）
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-10-20
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Knowledge Power\|知识权力（Knowledge Power）]]** | 由 Young and Ravinet (2022) 界定，指行动者动员科技与[[Tacit Knowledge\|隐性知识]]影响全球治理关系与制度语境的行动能力。契合地缘政治叙事，解释以知识领导力重塑国际秩序的战略诉求。（p. 1697） |
-> | **[[Knowledge Diplomacy\|知识外交（Knowledge Diplomacy）]]** | 由 Knight (2018, 2019) 界定，指通过国际高教与科研合作建立双向对等互惠关系以应对全球共同挑战。契合发展主义叙事，解释以多边连接实现包容共享的合作逻辑。（pp. 1697–1698） |
+> | **[[Knowledge Diplomacy\|知识外交（Knowledge Diplomacy）]]** | 由 Knight (2018, 2019) 界定，指通过国际高教与科研合作建立双向对等互惠关系以应对全球共同挑战。契合[[Developmentalism|发展主义]]叙事，解释以多边连接实现包容共享的合作逻辑。（pp. 1697–1698） |
 > | **[[Outward-Oriented Internationalization\|外向型高等教育国际化（Outward-Oriented Internationalization）]]** | 由 Wu (2019a, 2019b) 界定，指中国从被动借鉴外国经验与模式的内向型阶段，转向依托[[Confucius Institute\|孔子学院]]、高教对外发展援助及留学生政策的主动战略布局。（pp. 1696–1697） |
 > | **[[Tianxia Heuristic\|天下启发式框架（Tianxia Heuristic）]]** | 由 Marginson (2022) 与 Yang et al. (2022) 阐发，构想无边界、关系性互联的全球高等教育整体，容纳和而不同理念以及等级与平等的辩证共存，为超越二元对立提供[[Ontology\|本体论]]基础。（pp. 1703–1704） |
 
@@ -198,14 +199,14 @@ updated: 2026-10-20
 ### 论证步骤二　既有理论将两种联盟模式割裂为知识权力与知识外交的二元对立
 
 > [!claim] 步骤二核心主张
-> 地缘政治视角将 AUA 的精英架构视作挑战西方学术霸权、行使[[Knowledge Power|知识权力]]的战略工具，而发展主义叙事则将 UASR 的开放平台视作对等互惠、践行[[Knowledge Diplomacy|知识外交]]的合作典范；主流理论的二元划分无法解释两种逻辑在同一国家战略中的长期共存。（pp. 1695–1698, 1702–1703）
+> 地缘政治视角将 AUA 的精英架构视作挑战西方学术霸权、行使[[Knowledge Power|知识权力]]的战略工具，而[[Developmentalism|发展主义叙事]]则将 UASR 的开放平台视作对等互惠、践行[[Knowledge Diplomacy|知识外交]]的合作典范；主流理论的二元划分无法解释两种逻辑在同一国家战略中的长期共存。（pp. 1695–1698, 1702–1703）
 
 #### 1. 地缘政治视角将精英联盟视作争夺国际规则主导权的知识权力载体
 
 国际关系中的地缘政治视角与高等教育学中的知识权力概念紧密结合，聚焦国家如何借助知识体系塑造纵向不对称影响力。（pp. 1696–1697）
 
 > [!tension-table] 地缘政治与发展主义视角下的大学联盟解释张力
-> | 理论维度 | 地缘政治叙事与[[Knowledge Power\|知识权力]]范式 | 发展主义叙事与[[Knowledge Diplomacy\|知识外交]]范式 |
+> | 理论维度 | 地缘政治叙事与[[Knowledge Power\|知识权力]]范式 | [[Developmentalism|发展主义叙事]]与[[Knowledge Diplomacy\|知识外交]]范式 |
 > |---|---|---|
 > | **基本假定** | 国际体系本质上是追求国家实力与制度话语权的竞争场所 | 国际体系是通过多边对等合作应对共同生存危机的合作空间 |
 > | **权力形态** | 追求纵向影响，通过知识领导力培育不对称依附与规则主导 | 追求横向互惠，通过双向互动建立互信并消除零和博弈 |
@@ -215,16 +216,16 @@ updated: 2026-10-20
 
 在地缘政治视角下，亚洲大学联盟被视为中国重塑知识权力的典型载体：通过排除欧美机构并汇聚亚洲顶尖智力资源，建立自主设定区域学术议程的主导权。（pp. 1702–1703）
 
-#### 2. 发展主义视角将开放联盟阐释为应对共同危机的知识外交平台
+#### 2. [[Developmentalism|发展主义视角]]将开放联盟阐释为应对共同危机的知识外交平台
 
-与之相对，发展主义叙事与知识外交理论侧重于从共同发展与多边公共产品供给的角度审视大学联盟。（pp. 1696–1698）
+与之相对，[[Developmentalism|发展主义叙事]]与知识外交理论侧重于从共同发展与多边公共产品供给的角度审视大学联盟。（pp. 1696–1698）
 
 > [!feature] 知识外交[[Paradigm|范式]]的三大核心逻辑
-> - **公共产品与绝对收益** 发展主义叙事强调[[Belt and Road Initiative|一带一路倡议]]通过基础设施与人文联通提供多边公共产品，追求包容性经济增长与共同繁荣。（pp. 1696–1697）
+> - **公共产品与绝对收益** [[Developmentalism|发展主义叙事]]强调[[Belt and Road Initiative|一带一路倡议]]通过基础设施与人文联通提供多边公共产品，追求包容性经济增长与共同繁荣。（pp. 1696–1697）
 > - **双向互惠与协同应对** 知识外交理论主张高等教育国际化旨在跨国协同应对全球危机，突出双向对等的互惠互动与共同应对。（pp. 1697–1698）
 > - **丝路精神的制度实践** 丝路联盟将和平合作、开放包容、互学互鉴、互利共赢的丝路精神转化为低门槛、大众化的校际多边合作网络。（p. 1702）
 
-发展主义视角认为，中国在合作中获得的知识声誉，是多边开放合作自然伴随的互利成果。（p. 1697）
+[[Developmentalism|发展主义视角]]认为，中国在合作中获得的知识声誉，是多边开放合作自然伴随的互利成果。（p. 1697）
 
 #### 3. 单一的权力竞争或外交合作视角无法单独解释多元并存的布局
 
@@ -274,7 +275,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心发现
 > 1. **组织制度的鲜明分野** [[University Alliance of the Silk Road|丝绸之路大学联盟]]采取开放准入、学科子联盟与去中心化管理，践行包容互惠的[[Knowledge Diplomacy|知识外交]]逻辑；[[Asian Universities Alliance|亚洲大学联盟]]采取举荐提名、五项高门槛准入与定向资助，展现精英引领的[[Knowledge Power|知识权力]]特征。（pp. 1699–1702）
-> 2. **主流理论二元论的局限** 国际关系地缘政治叙事与发展主义叙事的割裂，导致知识权力与知识外交往往被当作非此即彼的对立概念，无法完整阐释两类联盟在国家战略中的协同共存。（pp. 1702–1703）
+> 2. **主流理论二元论的局限** 国际关系地缘政治叙事与[[Developmentalism|发展主义叙事]]的割裂，导致知识权力与知识外交往往被当作非此即彼的对立概念，无法完整阐释两类联盟在国家战略中的协同共存。（pp. 1702–1703）
 > 3. **[[Normalization through Knowledge Cooperation|网络中心性常态化战略假说]]** 中国通过织密多对多合作网络推行多元组织形态，旨在在实体连接与理念认同两个层面，使自身在全球知识版图中的核心枢纽地位实现常态化。（pp. 1703–1704）
 > 4. **[[Tianxia Heuristic|天下启发式框架]]的理论拓展** 引入包含和而不同、关系性互联以及等级与平等辩证共生的天下秩序观，为解析后西方时代全球高等教育空间治理提供了突破性的非西方[[Theoretical Perspective|理论视角]]。（pp. 1703–1705）
 
