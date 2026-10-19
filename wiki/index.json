@@ -9358,9 +9358,7 @@
     "aliases": [
       "北京共识",
       "China Model",
-      "中国模式",
-      "中国方案",
-      "Chinese Wisdom and Solutions"
+      "中国模式"
     ]
   },
   {
@@ -9395,6 +9393,17 @@
       "官僚科层制",
       "科层官僚制",
       "层级科层制"
+    ]
+  },
+  {
+    "title": "China Solution",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/China Solution.md",
+    "aliases": [
+      "中国方案",
+      "中国智慧与中国方案",
+      "Chinese Wisdom and Solutions",
+      "Zhongguo Fang'an"
     ]
   },
   {
@@ -11277,6 +11286,16 @@
     ]
   },
   {
+    "title": "Discursive Field",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Discursive Field.md",
+    "aliases": [
+      "话语场域",
+      "话语领域",
+      "话语空间"
+    ]
+  },
+  {
     "title": "Dissimilar Units",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Dissimilar Units.md",
@@ -11854,6 +11873,15 @@
       "practice effect",
       "练习效应",
       "sequence effect"
+    ]
+  },
+  {
+    "title": "Order of Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Order of Discourse.md",
+    "aliases": [
+      "话语秩序",
+      "话语规序"
     ]
   },
   {

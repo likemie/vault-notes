@@ -20,10 +20,13 @@ tags:
   - level/international
 related_concepts:
   - "[[Policy Network]]"
+  - "[[China Solution]]"
   - "[[Soft Power]]"
   - "[[Discourse]]"
   - "[[Explanatory Critique]]"
   - "[[Interdiscursivity]]"
+  - "[[Order of Discourse]]"
+  - "[[Discursive Field]]"
   - "[[Policy Framing]]"
   - "[[Problem Finding]]"
   - "[[Retroduction]]"
@@ -70,9 +73,9 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Higher Education Policy"
 sources:
@@ -88,7 +91,7 @@ sources:
 > 中国一带一路倡议（Belt and Road Initiative, BRI）教育政策在文本中如何建构自身意义？这些表述如何借助跨部门[[Policy Network|政策网络]]转化为具体的行动推进工具？又是何种深层社会历史机制促成了这一教育叙事的生成？
 
 > [!claim] 核心主张
-> 一带一路教育政策兼具双重面向：表层以多边协作、民心相通与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务民族复兴与输出中国方案的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。（pp. 677–679, 693–694）
+> 一带一路教育政策兼具双重面向：表层以多边协作、民心相通与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务民族复兴与输出[[China Solution|中国方案]]的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。（pp. 677–679, 693–694）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中华人民共和国教育部（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
@@ -102,7 +105,7 @@ sources:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **批判话语分析三维模型**<br>[[Discourse Analysis]] | 融合文本分析（文本层面）、[[Discourse\|话语实践]]（互文性与[[Interdiscursivity|互话语性]]）与社会实践（宏观意识形态与权力结构），提供多层级解构政策话语生产与消费的系统架构。（pp. 680–682） |
+> | **批判话语分析三维模型**<br>[[Discourse Analysis]] | 融合文本分析（文本层面）、[[Discourse\|话语实践]]（互文性与[[Interdiscursivity|互话语性]]，指向[[Order of Discourse|话语秩序]]重组）与社会实践（宏观[[Discursive Field|话语场域]]与意识形态霸权），提供多层级解构政策话语生产与消费的系统架构。（pp. 680–682, 684, 687） |
 > | **政策框架化理论**<br>[[Policy Framing]] | 划分诊断性框架（[[Problem Finding\|问题界定]]）、处方性框架（解决方案）与激励性框架（行动动机），揭示决策者如何有选择性地组织信息以确立行动正当性。（pp. 681–684） |
 > | **政策驱动力—推进工具—价值分析视角**<br>[[Critical Policy Analysis]] | 借鉴[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）的政策分析维度，考察激发政策立项的驱动力、推进政策落地的实施手段以及背后的政治意识形态价值取向。（pp. 684–687） |
 > | **解释性批判**<br>[[Explanatory Critique]] | 依托巴斯卡的批判实在论与[[Retroduction|逆推溯因]]（Retroduction），通过[[Scientific Explanation\|科学解释]]社会现象背后的生成性因果机制，直接对统治意识形态与权力再生产展开规范性批判。（pp. 681–682, 687） |
@@ -143,7 +146,7 @@ sources:
 > |------|----------------|
 > | **文本层框架分析** | 对两份基础性核心政策文本展开探索性与迭代式主题分析，提取诊断性、处方性与激励性三类框架要素。（pp. 681–684） |
 > | **[[Discourse\|话语实践]]互文性分析** | 纳入6份关联性宏观政策文本与领导层演讲，通过考察互文性（Intertextuality）与[[Interdiscursivity|互话语性]]（Interdiscursivity），透视驱动力、推进工具与价值导向。（pp. 684–687） |
-> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]][[Explanatory Critique|解释性批判]]与[[Retroduction|逆推溯因]]逻辑，深入中国政治体制、百年屈辱史、民族复兴叙事及[[Beijing Consensus|北京共识]]对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
+> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]][[Explanatory Critique|解释性批判]]与[[Retroduction|逆推溯因]]逻辑，深入[[Discursive Field|话语场域]]中的中国政治体制、百年屈辱史、民族复兴叙事及[[Beijing Consensus|北京共识]]对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
 
 > [!matrix-table]- 纳入分析的核心政策文本矩阵
 > <span class="scrollable-table-marker" aria-hidden="true"></span>
@@ -277,7 +280,7 @@ sources:
 > [!chain-link] 宏观社会治理与地缘政治合法化因果推导链
 > - **历史前提：百年屈辱与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。（pp. 687–688）
 > - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为民族复兴的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。（p. 688）
-> - **全球抱负：推广中国方案并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打南南合作与命运共同体，积极输出发展型国家治理经验，抗衡西方既有秩序。（pp. 688–691）
+> - **全球抱负：推广中国方案并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打南南合作与[[Community of Shared Future for Mankind|命运共同体]]，积极输出发展型国家治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。（pp. 688–691）
 > - **结论：教育作为新型治理话语与知识外交的制度化传输网络** 一带一路跨国高等教育布局不仅承载软实力投射，更借由[[Knowledge Diplomacy|知识外交]]的合作网络向发展中国家传播中国发展经验、培养知华友华技术与管理精英。（pp. 691–692）
 
 这一战略构想在治理哲学与运作方式上，展现出与西方战后主导的高等教育模式截然不同的逻辑取向。
