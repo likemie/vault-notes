@@ -215,7 +215,7 @@ updated: 2026-10-19
 > | [[Multilateral Development Bank]] | 概念 | 依靠 IMF 最终违约制裁保障得以享有超低融资利率与零坏账的主权开发金融机构原型。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 456–457)]] |
 > | [[Structural Adjustment Programs]] | 概念 | IMF 强制借贷国推行的宏观经济紧缩与部门改革核心工具包。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, p. 106)]] |
 > | [[Washington Consensus]] | 概念 | 深刻影响 IMF 与世行放贷审查准则的新自由主义宏观经济指导框架。 |
-> | [[Policy Conditionalities]] | 概念 | IMF 迫使受援国接受痛苦财政紧缩与编制冻结的信贷契约杠杆。 |
+> | [[Policy Conditionalities]] | 概念 | IMF 迫使受援国接受痛苦财政紧缩与编制冻结的信贷契约机制。 |
 > | [[Conditioned State Theory]] | 理论 | 剖析受限国家在面对 IMF 宏观信贷条件时妥协或行使底线政治生存否决权的理论。 |
 > | [[Strategic Bargaining Theory]] | 理论 | 阐明借款国内阁如何借助 IMF 外部条件推诿国内政治阻力（外部挡箭牌机制）的双层博弈理论。 |
 > | [[World-Systems Theory]] | 理论 | 将 IMF 定位为世界体系核心国家统治精英维系边缘从属地位之超国家金融工具的[[Critical Theory\|批判理论]]。 |
