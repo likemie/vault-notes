@@ -7,10 +7,10 @@ aliases:
 summary: "约翰·威廉姆森于1989年提出的宏观经济改革准则，最初由华盛顿多边金融机构与美国政策圈达成，聚焦财政赤字控制、公共开支重构、税制改革与贸易自由化；后渗透至多边开发银行教育借贷，衍生出涵盖循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、取消补贴与私有化的审查信条，但在官僚放贷实践中常陷入形式主义合规。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/political-economy
   - neoliberalism

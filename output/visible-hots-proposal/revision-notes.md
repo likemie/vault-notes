@@ -255,3 +255,4 @@ Zohar, A., & Dori, Y. J. (2003). Higher order thinking skills and low-achieving 
 - 图3-9、3-10及四幅案例流程图改为浅色彩色版，与图3-28同一配色（目标深蓝浅底、学习/学生青绿、教学/教师橙、原则灰），深色仅用于文字与边框。绘图脚本 tmp/caseimg/fig/colorfigs.py。
 - 七幅模型与流程图改用Claude经典配色（象牙/米色底、陶土橙=教师与教学、鼠尾草绿=学生与学习、柔蓝=目标与五见），另存为“市级课题 学科案例（Claude配色）.docx”；脚本 tmp/caseimg/fig/claudefigs.py。
 - APA文内引用改为脚注（125条，GB/T 7714—2015，带圈序号每页重新编号），文末参考文献改为GB/T格式并编号[1]—[88]；二手引用标注“转引自”。另存为“市级课题 脚注GBT.docx”。脚本 tmp/caseimg/fnconv.py、gbt.py。Kuhn 2000 正文未引用。
+- 补引 Kuhn 等（2000）于文献综述评价部分（认识论理解发展），脚注共126条；获取日期统一为2026-10-19。
