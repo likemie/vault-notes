@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
     },
     {
+      "basename": "Employment Retention and Advancement",
+      "path": "wiki/facts/uk/Employment Retention and Advancement.md"
+    },
+    {
       "basename": "index",
       "path": "wiki/arguments/index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Robert Glaser",
       "path": "wiki/persons/us/Robert Glaser.md"
-    },
-    {
-      "basename": "Pure Evaluation",
-      "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md"
     }
   ],
   "omittedPaths": [],

@@ -100,7 +100,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **政策转移分析框架**<br>[[Policy Transfer Framework]] | 多洛维茨与马什（Dolowitz & Marsh）提出的多维[[Analytic Framework\|分析框架]]；用于解构新工党决策中转移主体、动因与客体（谁转移、为何转移、转移什么）等核心机制。（pp. 331–333） |
+> | **政策转移分析框架**<br>[[Policy Transfer Framework]] | 多洛维茨与马什（Dolowitz & Marsh, 1996, 2000）提出的多维[[Analytic Framework\|分析框架]]；用于解构新工党决策中转移主体、动因与客体（谁转移、为何转移、转移什么）等核心机制。（pp. 331–333） |
 > | **证据本位决策**<br>[[Evidence-Based Policy-Making]] | 强调以因果实证研究与对照实验替代意识形态教条的治理[[Paradigm\|范式]]；用于解释为何英国内阁与官员系统性偏好具备雄厚评估数据的美国方案。（pp. 333–335） |
 > | **硬政策转移**<br>[[Hard Policy Transfer]] | 特指技术工具、评估设计、操作规程跨国直接复制的过程；用于界定英国从美国引进[[Random Assignment\|随机分配]]实验规程与评估合同的制度属性。（p. 343） |
 
@@ -122,7 +122,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **访谈样本** | 1999 年 7 月至 8 月期间对 6 位核心政策决策者进行的[[In-depth Interview\|深度访谈]]：新政特别工作组成员（1人）、高级就业政策顾问（1人）、教育与就业部（DfEE）高级官员（1人）、财政部高级官员（2人）、美国哈德逊研究所（Hudson Institute）政策专家（1人）。（p. 348） |
-> | **官方档案样本** | 英国《[[Modernising Government|现代化政府]]》白皮书（1999）、内阁府《21世纪专业化政策制定》（1999）、内阁府《优良政策制定》（2001）、《绿皮书》（2003）、《紫红皮书》（2011）及下议院社会保障特别委员会报告（1998）。（pp. 335, 342, 345） |
+> | **官方档案样本** | 1999 年英国《[[Modernising Government|现代化政府]]》白皮书（Cabinet Office, 1999a）、1999 年内阁府《21世纪专业化政策制定》（Cabinet Office, 1999b）、2001 年内阁府《优良政策制定》（Cabinet Office, 2001）、2003 年财政部《绿皮书》（Cabinet Office, 2003a）、2011 年《品红皮书》（Cabinet Office, 2011）及 1998 年下议院社会保障特别委员会报告（House of Commons Social Security Select Committee, 1998）。（pp. 335, 342, 345） |
 > | **科研数据语料** | 就业与养老金部（DWP）1996 至 2011 年全量公开的实证研究报告（由 1996 年年均 14 篇激增至 2010 年峰值 102 篇）。（p. 330） |
 
 ---
@@ -157,12 +157,12 @@ issuing_organization: ""
 
 #### 1. 既有政策转移框架缺乏因果驱动机制与客体技术维度的审视
 
-戴维·多洛维茨与戴维·马什（David Dolowitz & David Marsh）提出的分析模型将[[Policy Mobility|政策流动]]置于自愿借鉴与外部强制构成的连续谱系中，但对战略行动者自愿开展跨国搜寻的深层机制阐述不足。
+戴维·多洛维茨与戴维·马什（Dolowitz & Marsh, 1996, 2000）提出的分析模型将[[Policy Mobility|政策流动]]置于自愿借鉴与外部强制构成的连续谱系中，但对战略行动者自愿开展跨国搜寻的深层机制阐述不足。
 
 > [!spectrum] 政策转移多维连续谱（多洛维茨与马什模型）
 > **← 完全自愿借用**　·　**直接硬性强制 →**
 >
-> - **经验借鉴（Lesson-Drawing）** 理性行动者为解决本土问题主动搜寻外部方案（Rose, 1993）
+> - **经验借鉴（Lesson-Drawing）** 理性行动者为解决本土问题主动搜寻外部方案 (Rose, 1991, 1993)
 > - **自愿转移（Voluntary Transfer）** 基于对现状不满、对标需求与理念契合展开吸纳
 > - **协商性转移（Negotiated Transfer）** 面对[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）或[[World Bank|世界银行]]等国际组织软法建议进行制度调整
 > - **受迫性转移（Direct Coercive）** [[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）等超国家机构通过援助附加条件直接强加法律与制度
@@ -170,8 +170,8 @@ issuing_organization: ""
 既有文献在解释跨国政策借用时，通常将注意力局限于政治同构性或外部结构环境，存在两重显著理论盲区。
 
 > [!critique] 既有政策转移解释维度的理论局限
-> - **分类清单缺乏因果解释** 传统的转移模型更偏向描述性的分类框架，未能阐明特定类型转移为何仅在特定国家与时空触发。（Benson & Jordan, 2011; James & Lodge, 2003）
-> - **意识形态亲和论解释力不足** 将托尼·布莱尔（Tony Blair）政府对美国模式的借用笼统归结为第三条道路哲学共鸣，既无法解释为何同样秉持第三条道路先驱理念的澳大利亚方案未被全盘采纳，也无法解释官员对具体操作组件的细致取舍。（pp. 330, 337–338）
+> - **分类清单缺乏因果解释** 传统的转移模型更偏向描述性的分类框架，未能阐明特定类型转移为何仅在特定国家与时空触发 (Benson & Jordan, 2011; James & Lodge, 2003)。
+> - **意识形态亲和论解释力不足** 将托尼·布莱尔（Tony Blair）政府对美国模式的借用笼统归结为第三条道路哲学共鸣 (Blair, 1997; Driver, 2004; Giddens, 1998, 2000)，既无法解释为何同样秉持第三条道路先驱理念的澳大利亚方案未被全盘采纳 (Pierson, 2003; Pierson & Castles, 2002)，也无法解释官员对具体操作组件的细致取舍。（pp. 330, 337–338）
 
 #### 2. 英国中央政府将经验科学证据确立为政策合法性的硬性门槛
 
@@ -180,7 +180,7 @@ issuing_organization: ""
 > [!policy-context] 英国新工党循证决策治理制度档案
 > - **治理问题** 破除长期失业群体的福利依赖，摆脱既往保守党政府意识形态化决策模式。（p. 339）
 > - **核心机构** 英国总督察内阁府（Cabinet Office）、财政部（HM Treasury）、就业与养老金部（DWP）。（pp. 330, 335）
-> - **制度要求** 依据《[[Modernising Government|现代化政府]]》白皮书，强制要求重大政策必须经过先行试点与定量评估方可全面铺开。（pp. 334–335）
+> - **制度要求** 依据《[[Modernising Government|现代化政府]]》白皮书（Cabinet Office, 1999a），强制要求重大政策必须经过先行试点与定量评估方可全面铺开。（pp. 334–335）
 > - **规程文本** 明确以《[[The Green Book|绿皮书]]》（政策评估与估算指南）、《紫红皮书》（政策评估与分析指南）作为行政检验规范。（p. 335）
 
 这一治理转型迅速传导至各部委，形成了对量化因果验证结果的刚性科层需求，直接反映在实证科研报告的井喷式增长中。
@@ -202,7 +202,7 @@ issuing_organization: ""
 美国在 1996 年颁布《个人责任与工作机会和解法案》（Personal Responsibility and Work Opportunity Reconciliation Act, PRWORA）之前，地方州已积累了系统的实验经验。
 
 > [!case] 美国从地方改革试点向国家统一立法的演进历程
-> 1. **州级政策创新（1987 起）** 威斯康星州开展积极劳动力市场试点（Wisconsin Works, W-2），推行救济时限与工作安置挂钩，大幅压降了受助名单，成为美国工作优先改革的示范标杆；
+> 1. **州级政策创新（1987 起）** 威斯康星州开展积极劳动力市场试点（Wisconsin Works, W-2），推行救济时限与工作安置挂钩，大幅压降了受助名单，成为美国工作优先改革的示范标杆 (Ralston, 1998)；
 > 2. **豁免条款与强制评估** 美国卫生与公众服务部儿童与家庭局（Administration for Children and Families, ACF）依据第 1115 条豁免（Section 1115 Waivers）规定，地方州若想突破原有规则开展改革试验，必须同步实施[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）跟踪评估其实际成效；
 > 3. **联邦立法重塑福利体系（1996 年 PRWORA）** 联邦以附带严格工作要求的贫困家庭临时援助（Temporary Assistance for Needy Families, TANF）替代传统的抚养未成年子女家庭援助（Aid to Families with Dependent Children, AFDC），规定受助者满两年必须就业、终身累计受助不得超过五年；
 > 4. **全国性实证绩效形成[[Demonstration Effect|示范效应]]** 1996 年 8 月至 2000 年 6 月间，全美受助人数由 1224.1 万人锐减至 578.1 万人（降幅达 **53%**），为跨国政策搜寻提供了极具吸引力的定量证据。（pp. 340–341）
@@ -236,10 +236,10 @@ issuing_organization: ""
 
 #### 1. 循证导向推动随机分配实验规程突破本土政治伦理争议
 
-1997 年底，英国下议院社会保障特别委员会赴美调研后建议，英国应当引入更具弹性的试点与区域性实验，以实现更加聚焦集约的因果评估（House of Commons Social Security Select Committee, 1998）。然而，将实验设计植入社会政策领域必然遭遇深刻的价值冲突。
+1997 年底，英国下议院社会保障特别委员会赴美调研后建议，英国应当引入更具弹性的试点与区域性实验，以实现更加聚焦集约的因果评估 (House of Commons Social Security Select Committee, 1998)。然而，将实验设计植入社会政策领域必然遭遇深刻的价值冲突。
 
 > [!policy-context] 社会实验引入过程中的伦理张力与制度突破
-> - **残障人士项目评估受阻** 2002 年，DWP 尝试在残障人士新政（New Deal for Disabled People, NDDP）中采用美式随机对照实验，但因设置不享受补贴的对照组而遭到社会倡导团体强烈抗议，被指责违背伦理、歧视弱势群体，导致项目一度搁浅。（p. 343）
+> - **残障人士项目评估受阻** 2002 年，DWP 尝试在残障人士新政（New Deal for Disabled People, NDDP）中采用美式随机对照实验，但因设置不享受补贴的对照组而遭到社会倡导团体强烈抗议，被指责违背伦理、歧视弱势群体，导致项目一度搁浅 (Prasad, 2002)。（p. 343）
 > - **循证需求推动更大规模实验立项** 尽管面临伦理争议，决策层对严格因果检验的追求并未中断。DWP 随后于 2002 年正式立项启动英国[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目，成为英国社会政策史上规模最大的随机对照实验。（p. 343）
 
 #### 2. 英国就业留任与晋升示范项目成套吸纳美方设计并由美方智库实施
