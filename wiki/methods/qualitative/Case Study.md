@@ -257,3 +257,4 @@ updated: 2026-10-20
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用[[Reflexivity|反思性]]实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向[[Steering at a Distance|远距离操纵]]演进的制度历程。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“一带一路”框架下丝绸之路大学联盟与亚洲大学联盟在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 采用叙事案例研究设计，通过目的性抽样选取三所丝绸之路大学联盟高校，运用跨案例分析评估高校在“一带一路”重点能源与基建合作中的知识外交实践。

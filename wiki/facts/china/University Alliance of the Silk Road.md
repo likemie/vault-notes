@@ -180,3 +180,4 @@ updated: 2026-10-20
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心文献。 |
 > | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。 |
 > | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | Argument | 深入对比分析丝绸之路大学联盟与亚洲大学联盟组织制度特征的核心文献。 |
+> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 选取联盟内三所行业特色高校为个案，实证检验其在“一带一路”重点工程中践行知识外交的微观机制。 |

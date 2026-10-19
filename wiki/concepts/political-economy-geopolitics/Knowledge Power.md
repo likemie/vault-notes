@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Knowledge Power
@@ -100,6 +100,8 @@ updated: 2026-10-19
 >   米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）反思[[EU|欧盟]]科技政策与全球治理实践，提出知识权力概念，用以刻画行动者动员知识资源重塑全球治理规则体系的行动能力。
 > - **2024 年 — [[Geopolitics of Higher Education|高等教育地缘政治]]与跨国大学联盟分析**
 >   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入[[Belt and Road Initiative|一带一路]]跨国大学联盟实证研究，对比[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，揭示中国外向型[[Internationalization of Higher Education|高等教育国际化]]战略中知识权力与[[Knowledge Diplomacy|知识外交]]的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
+> - **2025 年 — 权力范式与外交范式的结构化辨析**
+>   刘伟（Wei Liu）等学者提炼出知识权力与知识外交在定义、进路与成效三维度的结构对照，指出知识权力将专业优势转化为超越对手的竞争工具，并以微观案例实证论证了从单向知识权力向互惠知识外交范式转变的必要性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
 
@@ -147,3 +149,4 @@ updated: 2026-10-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较[[Belt and Road Initiative|一带一路]]框架下的[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，论证中国在跨国学术网络构建中兼具知识权力与[[Knowledge Diplomacy|知识外交]]的双重逻辑，并通过增加网络连接密度使其网络中心地位常态化。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 明确对比知识权力与知识外交的范式差异，并在三所高校参与一带一路的微观实证中论证超越单向权力竞争的必要性。
