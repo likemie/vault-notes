@@ -78,6 +78,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
+  - "[[Norman Fairclough]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -87,10 +88,11 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Social Imaginary
@@ -138,9 +140,9 @@ updated: 2026-10-16
 > - **经验事实与情感焦虑的非结构化交织（Mix of Empirical and Affective）** 查尔斯·泰勒（Charles Taylor, 2004）强调，社会想象从不局限于纯粹的智识计算，而是深度动员了群体的生存情感。[[OECD|经合组织]]成功将真实的产业技术迭代与公众对“落后失业”、“国家掉队”的集体焦虑缝合在一起，将教育重塑为对冲全球化风险的避险工具。
 > - **跨国流动与多层网络扩散（Transnational Diffusion Networks）** 阿尔君·阿帕杜莱（Arjun Appadurai, 1996, 2000）阐明，电子媒介、资本流通与人口跨境流动打破了民族国家对集体想象的边界垄断；跨国组织与[[Policy Network|政策网络]]协同将特定社会想象打造为全球通行的“通用常识”。
 > - **对替代性发展方案的系统性排斥（Exclusion of Alternatives）** 简·肯韦（Jane Kenway et al., 2006）指出，主导性社会想象具有强烈的排他性，它将所有非市场化、非经济主义的教育与社会发展可能抹煞为“不切实际的幻想”，尽管其话语深处始终被“替代性经济的幽灵”所困扰。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
-> - **量化指标与物质化装置的支撑（Techno-Material Fabrication）** 社会想象绝非飘浮在空中的纯粹观念，而是依托[[Alain Desrosières|阿兰·德罗西埃]]所称的“跨国[[Space of Equivalence|等值空间]]”与[[PISA]]等大规模测评技术，将抽象的[[Knowledge-Based Economy|知识经济]]教条转化为高度可视、可比且具高利害规训力的物质化考核网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **量化指标与物质化装置的支撑（Techno-Material Fabrication）** 社会想象依托[[Alain Desrosières|阿兰·德罗西埃]]所称的“跨国[[Space of Equivalence|等值空间]]”与[[PISA]]等大规模测评技术，超越飘浮在空中的纯粹观念，将抽象的[[Knowledge-Based Economy|知识经济]]教条转化为高度可视、可比且具高利害规训力的物质化考核网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
-> [!logic-map]- 全球社会想象的生产、传播与治理闭环
+> [!logic-map]- 全球社会想象的生产、传播与治理机制
 > ```mermaid
 > flowchart LR
 >     A["经济学理论与经验趋势<br/>(内生增长理论 + 技术自动化)"] --> B["超国家组织话语生产<br/>(OECD/世行政策文本与报告)"]
@@ -162,20 +164,20 @@ updated: 2026-10-16
 > 探讨国际组织在缺乏主权强制力的条件下，如何利用社会想象将特定意识形态立场的[[Liberalization|经济自由化]]方案包装为客观必然的历史规律，进而消解关于教育目的的政治与哲学辩论。
 
 > [!claim] Taylor, C. & Appadurai, A.
-> **集体常识的跨国生成机制** Taylor (2004) 阐明，社会想象并非悬浮于实践之上的抽象理论，而是植根于图像、故事与集体期待中的共享理解框架，它使共同社会实践具备[[Doxa|不言自明]]的合法性；Appadurai (1996, 2000) 进一步论证，在当代全球化条件下，电子媒介、人口迁移以及资本与劳动力的跨境流动打破了民族国家对集体想象的垄断，使地方性公众逐渐跳出单一国家叙事，转而通过跨国流通的全球社会想象来理解自身处境与未来可能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
+> **集体常识的跨国生成机制** Taylor (2004) 阐明，社会想象植根于图像、故事与集体期待中的共享理解框架，超越悬浮于实践之上的抽象理论，使共同社会实践具备[[Doxa|不言自明]]的合法性；Appadurai (1996, 2000) 进一步论证，在当代全球化条件下，电子媒介、人口迁移以及资本与劳动力的跨境流动打破了民族国家对集体想象的垄断，使地方性公众逐渐跳出单一国家叙事，转而通过跨国流通的全球社会想象来理解自身处境与未来可能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **[[Knowledge-Based Economy|知识经济]]社会想象的本体化与去政治化** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）结合 Bourdieu (2003) 与 Kenway et al. (2006) 指出，自 1990 年代中期起，[[OECD|经合组织]]以 1996 年《知识经济》（*The Knowledge Based Economy*）报告为核心，融合保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）的[[New Growth Theory|内生新增长理论]]，建构出一套全球共享的“知识经济社会想象”。这一想象将全球化单向度地物化和本体化（ontologize）为自我明证的客观经济事实，掩盖了背后的历史权宜性与新自由主义规范预设；通过从经验描述滑向规范指令，它将教育定性为技术进步与经济增长的内生[[Variable|变量]]，压制了关于公共教育目的与民主平等的严肃哲学政治辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–441, 444–446)]]
 
 ---
 
-### 命题二　全球社会想象并未直接废除社会民主主义价值而是通过经济基要主义将其工具化重构为经济效率的附属工具
+### 命题二　全球社会想象通过经济基要主义将社会民主主义价值工具化重构为经济效率的附属工具
 
 > [!concept-lens] 社会正义价值的工具化与残余化收编
 > 揭示新自由主义社会想象在吸纳社会民主主义核心词汇时的转化逻辑，阐明公平、性别平等与社会资本如何在经济效率框架下被赋予全新的工具性含义。
 
 > [!claim] Rizvi, F. & Lingard, B.
-> **社会议题的工具性收编与残余化** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）论证，1990 年代中期之后，经合组织所推广的社会想象并未在字面上公然取消 1960–1990 年间社会民主主义传统所重视的机会均等、性别平权与社会凝聚力，而是基于乔治·索罗斯（George Soros, 1998）所称的“[[Economic Fundamentalism|经济基要主义]]（economic fundamentalism）”将这些社会目标彻底重构（rearticulate）为[[Human Capital Theory|人力资本]]开发与市场[[Competitiveness|竞争力]]的工具。在性别平权议题上，经合组织将女性教育投资简化为消除贫困和提升劳动力供给的经济手段，回避了全球服务业弹性劳工体制对女性的结构性压迫；在社会资本议题上，社会凝聚力被缩减为防范社会排斥干扰经济运转的维稳手段；教育本身也由培育批判性民主公民的纯粹公共物品，降格为追求[[Return on Investment|投资回报率]]的公私混合商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
+> **社会议题的工具性收编与残余化** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）论证，1990 年代中期之后，经合组织所推广的社会想象在字面上保留了 1960–1990 年间社会民主主义传统所重视的机会均等、性别平权与社会凝聚力词汇，实质上基于乔治·索罗斯（George Soros, 1998）所称的“[[Economic Fundamentalism|经济基要主义]]（economic fundamentalism）”将这些社会目标重构（rearticulate）为[[Human Capital Theory|人力资本]]开发与市场[[Competitiveness|竞争力]]的工具。在性别平权议题上，经合组织将女性教育投资简化为消除贫困和提升劳动力供给的经济手段，回避了全球服务业弹性劳工体制对女性的结构性压迫；在社会资本议题上，社会凝聚力被缩减为防范社会排斥干扰经济运转的维稳手段；教育本身也由培育批判性民主公民的纯粹公共物品，降格为追求[[Return on Investment|投资回报率]]的公私混合商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
 
 ---
 
@@ -195,7 +197,7 @@ updated: 2026-10-16
 > 探讨社会想象如何超越抽象意识形态修辞，借由大规模量化测评与统计等值技术在各自主权国家内部落地并实施远处调控。
 
 > [!claim] Rizvi, F. & Lingard, B.
-> **数字即政策与跨国[[Space of Equivalence|等值空间]]的展演性制造** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）结合法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与社会理论家[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）的理论指出，全球社会想象的维系高度依赖一套精密的技术化物质装置。以[[PISA]]为代表的国际大规模测评绝非中立反映客观现实的度量衡，而是通过统计[[Commensuration|通约化]]凭空“制造跨国等值空间”（fabricating spaces of equivalence）。在该空间中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）之上。数字的统治力量在于以科学客观性为幌子，将复杂的政治价值判断彻底隐形化，形成“数字即政策”（policy as numbers）；经合组织无须直接颁布行政命令，仅凭公开排行榜引发的国内治理恐慌，便成功实现了对主权国家教育体系的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **数字即政策与跨国[[Space of Equivalence|等值空间]]的展演性制造** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）结合法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与社会理论家[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）的理论指出，全球社会想象的维系高度依赖一套精密的技术化物质装置。以[[PISA]]为代表的国际大规模测评通过统计[[Commensuration|通约化]]凭空“制造跨国等值空间”（fabricating spaces of equivalence），超越中立反映客观现实的度量衡。在该空间中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）之上。数字的统治力量在于以科学客观性为幌子，将复杂的政治价值判断彻底隐形化，形成“数字即政策”（policy as numbers）；经合组织无须直接颁布行政命令，仅凭公开排行榜引发的国内治理恐慌，便成功实现了对主权国家教育体系的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 
@@ -216,8 +218,9 @@ updated: 2026-10-16
 > [!dev-timeline] 社会想象概念在政治经济学与教育治理中的演进脉络
 > - **第一阶段（1996–2004）：哲学与人类学奠基** 阿尔君·阿帕杜莱（Appadurai, 1996, 2000）提出全球文化流动中的“想象作为日常社会实践”，打破民族国家对集体认同的垄断；查尔斯·泰勒（Taylor, 2004）在《现代社会想象》中系统阐发社会想象如何作为深层共享背景赋予现代市场、公共领域与公民社会以正当性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–445)]]
 > - **第二阶段（2003–2006）：[[Cultural Political Economy|文化政治经济学]]与[[Knowledge-Based Economy|知识经济]]批判** [[Pierre Bourdieu|布迪厄]]（Bourdieu, 2003）揭示新自由主义[[Discourse|话语]]的展演性滑动；简·肯韦等学者（Kenway et al., 2006）在《困扰知识经济》中将社会想象引入全球知识经济批判，剖析主流知识经济叙事对替代性社会经济形态的遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
-> - **第三阶段（2009–2010）：全球教育政策社会学的经典定型** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（2009, 2010）系统将社会想象建构为批判性全球教育政策研究的核心分析[[Paradigm|范式]]，全面拆解[[OECD|经合组织]]如何从社会民主协商论坛蜕变为独立政策行动者，并揭示知识经济社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]合谋的技术机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
+> - **第三阶段（2009–2010）：全球教育政策社会学的经典定型** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（2009, 2010）系统将社会想象建构为批判性全球教育政策研究的核心分析[[Paradigm|范式]]，全面拆解[[OECD|经合组织]]如何从社会民主协商论坛演化为独立政策行动者，并揭示知识经济社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]合谋的技术机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
 > - **第四阶段（2010s–2020s）：[[Critical Geopolitics|批判地缘政治学]]与多标度网络扩展** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）等学者进一步将社会想象理论拓展至亚洲崛起与全球[[Geopolitics of Higher Education|高等教育地缘政治]]位移分析，揭示发展主义理性向市场理性的位移，以及跨国科研合作中多重诉求的话语缝合。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–92)]]
+> - **第五阶段（2023）：地缘政策话语想象** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）借鉴费尔克拉夫（Fairclough, 2003）的投射性想象概念，揭示宏大国家政策文本如何通过建构关于未来的“可能世界”，塑造连接民族复兴与全球治理替代方案的跨国高教地缘政策想象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]
 
 ---
 
@@ -235,7 +238,7 @@ updated: 2026-10-16
 > > 围绕侧重跨国话语解构的研究取向是否低估了民族国家与一线学校在微观日常中的本土转译与抗争潜能。
 > >
 > > - **宏观结构霸权批判视角** 强调超国家组织与跨国[[Policy Network|政策网络]]拥有无与伦比的议程设置与远处掌舵威权，一旦知识经济社会想象与量化指标深嵌于国家官僚体制，地方实践者往往被迫屈从于绩效考核逻辑。
-> > - **本土能动性与转译视角** 部分比较教育与[[Ethnography|民族志]]学者指出，全球社会想象在进入具体民族国家与地方学校时，必然经历多标度的本土“转译”、“折射”甚至抵制，并非完全单向度的同质化复制。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 91, 100–102)]]
+> > - **本土能动性与转译视角** 部分比较教育与[[Ethnography|民族志]]学者指出，全球社会想象在进入具体民族国家与地方学校时，必然经历多标度的本土“转译”、“折射”甚至抵制，超越单向度的同质化复制。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 91, 100–102)]]
 >
 > > [!axis] 教育价值的工具化窄化 vs 民主公民公物本质的捍卫
 > > 争论社会想象将教育彻底重构为[[Human Capital Theory|人力资本]]与经济增长工具，是否对教育的人文价值造成了不可挽回的伤害。
@@ -264,6 +267,7 @@ updated: 2026-10-16
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 经典建构：系统运用社会想象概念解构[[OECD|经合组织]]从社会民主妥协向[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 地缘拓展：运用[[Critical Geopolitics|批判地缘政治学]]与社会想象透镜，论证亚洲崛起作为重塑全球高等教育格局的独立因果力量。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 学科反思：援引社会想象与跨国知识帝国理论，分析国际组织对比较教育学科自主性的深层重塑。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 政策想象拓展：借鉴费尔克拉夫（Fairclough, 2003）的话语想象（Imaginaries）理论，解构一带一路跨国高教政策如何通过构建“可能世界”的宏大叙事塑造地缘政策想象。
 
 ---
 
@@ -273,20 +277,23 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
-> | [[Knowledge-Based Economy]] | Concept | 全球社会想象在当代政策[[Discourse\|话语]]中建构与扩散的核心客体与[[Normative Paradigm\|规范范式]]。 |
+> | [[Knowledge-Based Economy]] | Concept | 全球社会想象在当代政策[[Discourse|话语]]中建构与扩散的核心客体与[[Normative Paradigm|规范范式]]。 |
 > | [[Governing by Numbers]] | Concept | 社会想象依托统计技术在民族国家落地的具象化与物质化装置。 |
-> | [[Commensuration]] | Concept | 制造跨国[[Space of Equivalence\|等值空间]]、使不同文化情境下的教育体系在社会想象中可通约的核心技术。 |
+> | [[Commensuration]] | Concept | 制造跨国[[Space of Equivalence|等值空间]]、使不同文化情境下的教育体系在社会想象中可通约的核心技术。 |
 > | [[Steering at a Distance]] | Concept | 国际组织凭借社会想象与量化指标在不具备行政强制力下远程调控各国的机制。 |
-> | [[Learning Economy]] | Concept | 知识经济社会想象在[[Epistemology\|认识论]]层面推动全社会向持续学习与灵活技能转型的制度形态。 |
-> | [[Lifelong Learning]] | Concept | 社会想象将宏观市场风险转嫁给个体、要求终身投资自保的核心[[Disciplina and Doctrina\|规训]]杠杆。 |
+> | [[Learning Economy]] | Concept | 知识经济社会想象在[[Epistemology|认识论]]层面推动全社会向持续学习与灵活技能转型的制度形态。 |
+> | [[Lifelong Learning]] | Concept | 社会想象将宏观市场风险转嫁给个体、要求终身投资自保的核心[[Disciplina and Doctrina|规训]]工具。 |
 > | [[Public Value]] | Concept | 批判知识经济社会想象侵蚀教育民主公物本质与实质公共价值的理论框架。 |
 > | [[Human Capital Theory]] | Theory | 为知识经济社会想象提供核心智识养分与经济学合法性基础的经典理论。 |
 > | [[Social Capital Theory]] | Theory | 被知识经济社会想象工具化收编为维护市场稳定与防范社会排斥的附属理论。 |
-> | [[Critical Geopolitics]] | Theory | 分析跨国社会想象如何塑造全球高等教育权力转移与地缘[[Spatial Sortings\|空间分选]]的理论透镜。 |
+> | [[Critical Geopolitics]] | Theory | 分析跨国社会想象如何塑造全球高等教育权力转移与地缘[[Spatial Sortings|空间分选]]的理论透镜。 |
 > | [[Fazal Rizvi]] | Person | 将社会想象理论开创性引入全球教育政策与高等教育批判研究的领军学者。 |
-> | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD\|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
+> | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
+> | [[Norman Fairclough]] | Person | 提出话语想象（Imaginaries）概念，阐明话语投射性建构未来可能世界的批判话语奠基学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
-> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm|范式]]的里程碑文献。 |
+> | [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
+> | [[Argument_Woo_2023_HEP|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国高教出海宏大叙事实践的代表文献。 |
+
 
