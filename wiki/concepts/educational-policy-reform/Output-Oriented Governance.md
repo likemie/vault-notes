@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Lee Kuan Yew]]"
@@ -75,7 +76,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Output-Oriented Governance
@@ -120,7 +121,7 @@ updated: 2026-10-16
 > [!contrast-table] 概念辨析
 > | 比较维度 | 产出导向治理（Output-Oriented Governance） | 传统投入与合规导向治理（Input/Procedural Governance） | 市场化[[New Public Management\|新公共管理]]（NPM） |
 > |---|---|---|---|
-> | **核心调控重心** | 明确战略产出标准、监测实质成果并依据实效反馈改进 | 事前编制规约、经费细则、行政审批与程序防错 | 市场选择准入、客户满意度评价与自负盈亏竞争 |
+> | **核心调控重心** | 明确战略产出标准、监测实质成果并依据实效反馈改进 | 事前编制规章、经费细则、行政审批与程序防错 | 市场选择准入、客户满意度评价与自负盈亏竞争 |
 > | **基层自主性质** | 路径自主而非目标自主（目标集中、手段充分自主） | 低度行政裁量权，严格服从自上而下的公文审批与科层规章 | 高度经营自主，追求竞争性财务与声誉指标 |
 > | **考核与判准** | 物理世界实质战略成果（如学业增值、战略重器交付） | 审计零瑕疵、程序完全合规、形式流程完美 | 市场份额、利润回报率、客户评级天梯榜 |
 > | **面对失误与风险** | 设立工程底线，允许试验探索，以最终交付成果为裁判 | 零容忍程序违规，对微观合规瑕疵发起道德审判 | 由市场竞争机制自发淘汰失败者 |
