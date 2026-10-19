@@ -7572,6 +7572,24 @@
     ]
   },
   {
+    "title": "International Branch Campus",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/International Branch Campus.md",
+    "aliases": [
+      "国际分校",
+      "海外分校",
+      "高等教育海外办学",
+      "高校海外办学",
+      "境外办学",
+      "跨境合作办学",
+      "International Branch Campuses",
+      "IBC",
+      "IBCs",
+      "Overseas Campus",
+      "Offshore Campus"
+    ]
+  },
+  {
     "title": "International Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/International Education.md",
@@ -18797,6 +18815,21 @@
       "批判性伴随",
       "critical companion approach",
       "批判性伴随方法"
+    ]
+  },
+  {
+    "title": "Critical Discourse Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Critical Discourse Analysis.md",
+    "aliases": [
+      "批判话语分析",
+      "批判性话语分析",
+      "CDA",
+      "Critical Discourse Studies",
+      "CDS",
+      "批判性政策话语分析",
+      "Critical Policy Discourse Analysis",
+      "CPDA"
     ]
   },
   {
@@ -31625,6 +31658,20 @@
       "科学技术与社会变迁课程试点",
       "Science Technology and Social Change",
       "科学、技术与社会变迁"
+    ]
+  },
+  {
+    "title": "Sino-Soviet Educational Cooperation",
+    "type": "fact",
+    "path": "wiki/facts/multi/Sino-Soviet Educational Cooperation.md",
+    "aliases": [
+      "中苏教育合作",
+      "中苏教育科技合作",
+      "苏联援华教育",
+      "1960年苏联撤走在华专家",
+      "1960年苏联撤走在华专家事件",
+      "Sino-Soviet Scientific and Educational Cooperation",
+      "Withdrawal of Soviet Experts from China"
     ]
   },
   {

@@ -22,8 +22,8 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[China Solution]]"
   - "[[Soft Power]]"
-  - "[[Discourse]]"
   - "[[Explanatory Critique]]"
+  - "[[Discourse]]"
   - "[[Interdiscursivity]]"
   - "[[Order of Discourse]]"
   - "[[Discursive Field]]"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
   - "[[Education Going Global]]"
+  - "[[International Branch Campus]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Social Imaginary]]"
@@ -53,7 +54,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Cultural Political Economy]]"
 related_methods:
-  - "[[Discourse Analysis]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
 related_persons:
@@ -71,6 +72,7 @@ related_facts:
   - "[[17+1 Cooperation]]"
   - "[[Confucius Institute]]"
   - "[[Fudan University Budapest Campus]]"
+  - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
 updated: 2026-10-19
@@ -80,10 +82,10 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Higher Education Policy"
 sources:
   - "[[sources/Woo_2023_HEP/Woo_2023_HEP|Woo_2023_HEP]]"
@@ -103,7 +105,7 @@ sources:
 > [!concept-lens] 阅读透镜
 > - **对象** 中华人民共和国教育部（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
 > - **张力** 表层倡导的多边平等合作、民心相通与共同繁荣等共赢修辞，与深层政策实践中作为国家战略推进工具、文化[[Soft Power|软实力]]输出及地缘经济配套职能之间的结构性张力。
-> - **贡献** 将[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]相结合，开创了剖析中国高等教育跨国扩张政策话语的批判性[[Analytic Framework|分析框架]]。
+> - **贡献** 将[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的[[Critical Discourse Analysis|批判性话语分析]]（Critical Discourse Analysis, CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]相结合，开创了剖析中国高等教育跨国扩张政策话语的批判性[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -112,7 +114,7 @@ sources:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **批判话语分析三维模型**<br>[[Discourse Analysis]] | 融合文本分析（文本层面）、[[Discourse\|话语实践]]（互文性与[[Interdiscursivity|互话语性]]，指向[[Order of Discourse|话语秩序]]重组）与社会实践（宏观[[Discursive Field|话语场域]]与意识形态霸权），提供多层级解构政策话语生产与消费的系统架构。（pp. 680–682, 684, 687） |
+> | **批判话语分析三维模型**<br>[[Critical Discourse Analysis]] | 融合文本分析（文本层面）、[[Discourse\|话语实践]]（互文性与[[Interdiscursivity|互话语性]]，指向[[Order of Discourse|话语秩序]]重组）与社会实践（宏观[[Discursive Field|话语场域]]与意识形态霸权），提供多层级解构政策话语生产与消费的系统架构。（pp. 680–682, 684, 687） |
 > | **政策框架化理论**<br>[[Policy Framing]] | 划分诊断性框架（[[Problem Finding\|问题界定]]）、处方性框架（解决方案）与激励性框架（行动动机），揭示决策者如何有选择性地组织信息以确立行动正当性。（pp. 681–684） |
 > | **政策驱动力—推进工具—价值分析视角**<br>[[Critical Policy Analysis]] | 借鉴[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）的政策分析维度，考察激发政策立项的驱动力、推进政策落地的实施手段以及背后的政治意识形态价值取向。（pp. 684–687） |
 > | **解释性批判**<br>[[Explanatory Critique]] | 依托巴斯卡的批判实在论与[[Retroduction|逆推溯因]]（Retroduction），通过[[Scientific Explanation\|科学解释]]社会现象背后的生成性因果机制，直接对统治意识形态与权力再生产展开规范性批判。（pp. 681–682, 687） |
@@ -122,9 +124,9 @@ sources:
 > [!warrant]- 理论如何支撑论证
 > 语言既是交流符号，也是塑造权力关系与社会制度的实践形态。批判话语分析三维模型提供了穿透表层文本的层级分析架构：先在文本层拆解问题界定与方案选择的叙事框架，进而在话语实践层考察跨部门文本的互动网络与政策推进工具，最终在宏观社会学层面揭示教育服务大国复兴与全球秩序重塑的深层因果机制。（pp. 680–682）
 
-> [!logic-map]- 批判性话语分析三维理论架构映射
+> [!logic-map]- [[Critical Discourse Analysis|批判性话语分析]]三维理论架构映射
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Macro ["宏观社会学分析"]
 >         M1["权力、意识形态与地缘竞争<br>（中华民族伟大复兴、中国模式、替代性全球治理秩序）"]
 >     end
@@ -175,7 +177,7 @@ sources:
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["文本分析：<br>官方文件将教育出海塑造为互利共赢事业"] --> B["话语实践分析：<br>跨国教育实际深层依附于国家总体战略"]
 >     B --> C["社会学批判：<br>教育出海寄托着重塑国际秩序与大国复兴雄心"]
 >     C --> D{"现实制约与脆弱性：<br>经济依赖、地缘冲突与在地抗议"}
@@ -217,7 +219,7 @@ sources:
 
 该分析进路建立在对[[Norman Fairclough|费尔克拉夫]]三维模型的政策学改造基础之上。
 
-> [!figure]- 图2：政策分析的批判性[[Discourse Analysis|话语分析]]三维模型
+> [!figure]- 图2：政策分析的[[Critical Discourse Analysis|批判性话语分析]]三维模型
 > ![](https://img.mylikemie.icu/sources/Woo_2023_HEP/figures/Woo_2023_HEP_Fig2_CDA_Policy_Analysis_Framework.jpg)
 
 #### 2. 依托境外独立办学与多边联盟推进高教出海
@@ -225,7 +227,7 @@ sources:
 官方政策倡导的合作处方迅速转化为多层次的办学实体与多边网络，集中投向境外独立校区、跨国高校联盟与重点涉外涉企学位项目。
 
 > [!evidence-grid] 跨国境外独立办学与多边高校网络实践
-> - **海外分校实体拓展** 厦门大学在马来西亚设立分校，成为中国一流大学在海外设立的第一所全日制独立校区；云南财经大学在泰国设立曼谷商学院，服务中泰产能合作与商贸金融需求。（p. 680）
+> - **海外分校实体拓展** 厦门大学在马来西亚设立分校，成为中国一流大学在海外设立的第一所全日制独立校区（[[International Branch Campus|国际分校]]）；云南财经大学在泰国设立曼谷商学院，服务中泰产能合作与商贸金融需求。（p. 680）
 > - **[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）** 西安交通大学于2015年发起成立该联盟，汇聚来自五大洲30多个国家和地区的130余所高校，成为横跨欧亚非的非官方学术多边合作枢纽。（p. 680）
 > - **学分学历多边互认** 截至2019年，中国政府已与24个一带一路沿线国家签署了双边学历学位互认协议，为跨境人才流动扫清制度障碍。（p. 680）
 
@@ -314,8 +316,8 @@ sources:
 
 二十世纪中期的历史经验生动揭示了跨国人文与教育交流依附于高层政治互信的脆弱本质。
 
-> [!lessons]- 历史镜像启示：中苏教育科技合作骤然瓦解的教训
-> - **中苏蜜月期的大规模学术技术合作** 1950年代，苏联向中国派出约13,000名苏联专家，深度介入中国工程建设、高等院校院系调整与科研院所建立；1949至1959年间，中国选派了38,000名优秀学生赴苏联大学深造。（p. 693）
+> [!lessons]- 历史镜像启示：[[Sino-Soviet Educational Cooperation|中苏教育科技合作]]骤然瓦解的教训
+> - **中苏蜜月期的大规模学术技术合作** 1950年代，在[[Sino-Soviet Educational Cooperation|中苏教育科技合作]]推进期间，苏联向中国派出约13,000名苏联专家，深度介入中国工程建设、高等院校院系调整与科研院所建立；1949至1959年间，中国选派了38,000名优秀学生赴苏联大学深造。（p. 693）
 > - **意识形态分歧引发的双边合作迅速解体** 1960年随着中苏两党意识形态决裂与外交对抗加剧，苏联单方面撤走全部在华专家并撕毁数百项合作合同，留下大量停滞工程与教学断层。历史证明，单纯的青年流动与技术援助若缺乏稳定的地缘共识，极易在外部大国关系恶化时瓦解。（p. 693）
 
 在当代的欧洲实践中，自上而下的政府间教育合作同样遭遇了合作国本土市民社会的坚决抵制。
@@ -330,7 +332,7 @@ sources:
 > | 维度 | 官方预设愿景 | 现实结构性制约与地缘反弹 | 案例与实证依据 |
 > |---|---|---|---|
 > | **吸引力基础** | 中国文化的深层吸引力与制度认同 | 严重依附于高额政府奖学金资助与基建就业预期等功利性拉动因素 | 留[[Student Mobility\|学生流动]]高度依赖奖学金倾斜，一旦经济增长放缓或岗位缩减，吸引力面临大幅回落风险（pp. 692–693） |
-> | **地缘政治稳定性** | 建立在意识形态与南南合作共识上的持久同盟 | 意识形态共性无法免除双边国家战略利益分歧与地缘裂痕 | 历史上中苏蜜月期数万专家与留学生交流随两国外交政治关系变动而迅速停滞（p. 693） |
+> | **地缘政治稳定性** | 建立在意识形态与南南合作共识上的持久同盟 | 意识形态共性无法免除双边国家战略利益分歧与地缘裂痕 | 历史上中苏蜜月期数万专家与留学生交流（[[Sino-Soviet Educational Cooperation|中苏教育科技合作]]）随两国外交政治关系变动而迅速停滞（p. 693） |
 > | **基层社会受纳度** | 合作国各阶层广泛支持与民心相通 | 合作国草根社群对主权风险、债务负担与隐性文化影响的警惕与抗议 | 匈牙利布达佩斯市民针对[[Fudan University Budapest Campus|复旦大学布达佩斯分校]]建设项目爆发大规模公众游行抗议（pp. 693–694） |
 
 ---
@@ -354,7 +356,7 @@ sources:
 ## 关键引用
 
 > [!citation-card] [[Cultural Political Economy|文化政治经济学]]视角下作为意义建构与[[Discourse|话语]]斗争[[Champ|场域]]的政策文本（Sum & Jessop, 2013）
-> 政策文本应当被理解为意义生成与建构的场所。换言之，它们应当被视为将语言视为符号学的话语。社会行动者通过符号化实践来简化复杂性，以此作为在现实世界中“继续生活”的先决条件。批判性政策[[Discourse Analysis|话语分析]]将政策文本作为话语来研究，其目标是实现解释性与规范性批判。（p. 681）
+> 政策文本应当被理解为意义生成与建构的场所。换言之，它们应当被视为将语言视为符号学的话语。社会行动者通过符号化实践来简化复杂性，以此作为在现实世界中“继续生活”的先决条件。批判性政策[[Critical Discourse Analysis|话语分析]]将政策文本作为话语来研究，其目标是实现解释性与规范性批判。（p. 681）
 >
 > *Consequently, these texts should be understood as the site of sense-making and meaning-making. In other words, they should be considered as discourse, which sees language as semiotic. Social actors reduce complexity through semiosis as a condition for 'going on' in the world. Critical discourse analysis (CDA), as a critical policy approach, studies policy texts as discourse with the goal of explanatory and normative critique.*
 

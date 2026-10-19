@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
     },
     {
+      "basename": "Sino-Soviet Educational Cooperation",
+      "path": "wiki/facts/multi/Sino-Soviet Educational Cooperation.md"
+    },
+    {
+      "basename": "Education Going Global",
+      "path": "wiki/concepts/higher-education/Education Going Global.md"
+    },
+    {
+      "basename": "Belt and Road Initiative",
+      "path": "wiki/facts/china/Belt and Road Initiative.md"
+    },
+    {
       "basename": "Argument_Schulze-Cleven_2017_HE",
       "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Critic and Conscience of Society",
       "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md"
-    },
-    {
-      "basename": "Academic Freedom",
-      "path": "wiki/concepts/higher-education/Academic Freedom.md"
-    },
-    {
-      "basename": "Argument_Larsen_2019_EducSci",
-      "path": "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md"
-    },
-    {
-      "basename": "Learnification",
-      "path": "wiki/concepts/educational-philosophy/Learnification.md"
     }
   ],
   "omittedPaths": [],

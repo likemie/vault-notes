@@ -15,7 +15,6 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Unit of Analysis]]"
-  - "[[Variable]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -32,18 +31,18 @@ related_concepts:
   - "[[Causality]]"
   - "[[Double Hermeneutic]]"
   - "[[Reliability]]"
+  - "[[Policy Framing]]"
   - "[[Ideal Speech Situation]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemological Vigilance]]"
   - "[[Epistemic Practices]]"
-  - "[[Policy Framing]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Critical Realism]]"
   - "[[Knowledge Building Theory]]"
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Ethnomethodology]]"
-  - "[[Critical Realism]]"
 related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Classroom Observation]]"
@@ -51,12 +50,13 @@ related_methods:
   - "[[Conversation Analysis]]"
   - "[[Narrative Analysis]]"
   - "[[Autobiographical Analysis]]"
+  - "[[Critical Discourse Analysis]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Documentary Analysis]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
   - "[[Correlational Research]]"
   - "[[Multimodal Discourse Analysis]]"
-  - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -67,11 +67,11 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
+  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
-  - "[[Argument_Woo_2023_HEP]]"
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -189,7 +189,7 @@ updated: 2026-10-19
 
 ### 费尔克拉夫三维批判话语分析进路
 
-针对大国教育对外战略与地缘政治竞争中的政策文本群，禹钟晸（[[Argument_Woo_2023_HEP|Woo, 2023]]）示范了结合诺曼·费尔克拉夫（Norman Fairclough）批判性话语分析（Critical Discourse Analysis, CDA）三维模型、政策框架化与批判实在论解释性批判的操作进路。
+针对大国教育对外战略与地缘政治竞争中的政策文本群，禹钟晸（[[Argument_Woo_2023_HEP|Woo, 2023]]）示范了结合诺曼·费尔克拉夫（Norman Fairclough）[[Critical Discourse Analysis|批判性话语分析]]（Critical Discourse Analysis, CDA）三维模型、政策框架化与批判实在论解释性批判的操作进路。
 
 > [!proc] 费尔克拉夫三维政策话语分析步骤
 > 1. **文本层面框架分析（Text Analysis / Framing）** 提取政策文本的词汇语法特征、核心隐喻与主导框架；划分诊断性框架（问题界定）、处方性框架（行动解方）与激励性框架（动员动机），揭示决策者如何有选择性地组织政策信息以确立行动正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]

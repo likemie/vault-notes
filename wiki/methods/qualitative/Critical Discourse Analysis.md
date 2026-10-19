@@ -1,0 +1,147 @@
+---
+title: Critical Discourse Analysis
+aliases:
+  - 批判话语分析
+  - 批判性话语分析
+  - CDA
+  - Critical Discourse Studies
+  - CDS
+  - 批判性政策话语分析
+  - Critical Policy Discourse Analysis
+  - CPDA
+summary: "关注语言与符号实践如何建构、维持和重塑权力关系与意识形态霸权的质性批判研究方法，以费尔克拉夫文本、话语实践与社会实践三维模型为代表性分析框架"
+type: method
+method_type: qualitative
+method_family: "qualitative"
+method_related_count: 9
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
+tags:
+  - method/qualitative
+  - theme/language
+  - theme/critical-policy
+  - paradigm/critical
+related_concepts:
+  - "[[Order of Discourse]]"
+  - "[[Interdiscursivity]]"
+  - "[[Policy Framing]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Cultural Political Economy]]"
+related_methods:
+  - "[[Discourse Analysis]]"
+  - "[[Critical Policy Analysis]]"
+related_instruments: []
+related_persons:
+  - "[[Norman Fairclough]]"
+related_facts: []
+related_arguments:
+  - "[[Argument_Woo_2023_HEP]]"
+confidence: high
+status: active
+created: 2026-10-19
+updated: 2026-10-19
+---
+
+# Critical Discourse Analysis
+
+---
+
+## 定义
+
+> [!def] 方法定义
+> 批判话语分析（Critical Discourse Analysis, CDA，近年亦称批判话语研究 Critical Discourse Studies, CDS）是一种将语言与符号活动视为社会实践形式的批判性质性研究方法。该方法主张语言使用与话语表征从来不是价值中立的代码系统，而是深受权力关系、意识形态与社会结构的塑造并反过来重构社会现实；其核心目标在于穿透文本表层的良性修辞，阐明话语在合法化不平等、维持社会霸权以及推行特定政策议程中的深层机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
+
+> [!method-scope] 方法范围
+> - **研究对象** 官方政策白皮书、法律法规文本、政要公开演讲、新闻传播报道、教科书编纂及多模态制度宣传材料。
+> - **问题类型** 适合回答政策问题如何被特定话语建构、哪些利益群体的诉求被遮蔽或边缘化、语言如何服务于宏观政治权力与意识形态合法化等机制解释与规范批判问题。
+> - **分析单位** 词汇语法选择、修辞隐喻、互文引述链条、段落框架、跨部门文本互动网络与话语秩序（[[Order of Discourse]]）。
+> - **输出形式** 诊断性—处方性—激励性框架分类体系、互文性与互话语性（[[Interdiscursivity]]）演化路径、意识形态霸权分析图谱及批判性政策建议。
+
+> [!citation-card]- 关键定义（Fairclough, 1992; [[Argument_Woo_2023_HEP|Woo, 2023]]）
+> 批判性话语分析将政策文本视为意义建构与话语斗争的场域。社会行动者通过符号化实践来简化外部复杂性，以此作为在现实世界中行动的先决条件。批判性政策话语分析将政策文本作为话语来研究，其目标是实现解释性与规范性批判。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 681)]]
+>
+> *Critical discourse analysis (CDA), as a critical policy approach, studies policy texts as discourse with the goal of explanatory and normative critique. These texts should be understood as the site of sense-making and meaning-making, where language operates as semiotic practice to reduce complexity.*
+
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 植根于社会建构论、批判理论与[[Critical Realism|批判实在论]]；认为社会现实具有可分层的实在结构，话语作为符号实践连接着可观察的语言表层与深层的权力利益机制。
+> - **研究者角色** 倡导明确的批判性反身立场，拒绝所谓的“客观中立”实证主义幻象，研究者公开承担揭露权力不对称与促进社会公正的智识使命。
+> - **有效性标准** 遵循质性研究的解释充分性（Explanatory Adequacy）、历史情境化厚描述、文本证据与社会背景之间的严密推导链，以及论证过程的透明可核查性。
+> - **不声称回答的问题** 不回答变量之间的统计因果效应量估计、总体参数推断或无情境依赖的普遍化定量规律。
+
+> [!method-stack] 方法层级
+> - **研究设计** 批判性政策话语分析（Critical Policy Discourse Analysis, CPDA）、案例驱动的深度质性文本分析。
+> - **数据收集** 官方纲领性文件、政策解读新闻稿、部委联合专项计划、最高领导人外交演讲录。
+> - **分析方法** [[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）三维分析模型（文本—话语实践—社会实践）、政策框架分析（[[Policy Framing]]）、互文性与互话语性解构。
+> - **辅助技术** 质性编码软件（如 NVivo、MAXQDA）、概念逻辑图绘制、主题归纳矩阵。
+
+---
+
+## 研究程序
+
+> [!proc] 通用程序
+> 1. 界定研究涉及的政策争议或社会议题，选定代表性文本群并划定时间跨度与分析边界。
+> 2. 开展初读与文本层细读，提取主导词汇、语法特征、隐喻策略与政策框架类型。
+> 3. 考察文本生成、传播与消费的话语实践过程，追踪互文引用与不同话语体裁的交叉杂合。
+> 4. 将话语实践嵌入宏观社会结构、地缘政治竞争与意识形态博弈的生态中展开社会学解释。
+> 5. 综合提炼理论洞见，形成针对政策修辞张力与深层战略意图的解释性批判报告。
+
+---
+
+### 质性方法模块
+
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 682–684)]] |
+> | 选案逻辑 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
+> | 研究者位置 | 保持批判性距离，立足教育政策学与文化政治经济学跨学科视角审视政策文本的话语效能。 |
+> | 资料边界 | 聚焦特定国家倡议（如“一带一路”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
+
+> [!proc] 费尔克拉夫三维批判话语分析程序（[[Argument_Woo_2023_HEP|Woo, 2023]]）
+> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本的语言表层特征与框架化策略；系统划分诊断性框架（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
+> 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与互话语性网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
+> 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+
+---
+
+## 适用场景
+
+> [!method-fit] 适用判断
+> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程、国际组织（如 OECD、世界银行）教育评价报告的话语霸权解构。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
+> - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用会话分析 Conversation Analysis）。
+> - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国学业成绩排名的量化统计建模。
+
+---
+
+## 局限性
+
+> [!method-limits] 方法局限
+> - **解释过度与主观倾向风险** 批评者常指责批判话语分析易受研究者先验政治立场的诱导，出现“按结论找文本证据”的偏倚。
+> - **政策执行层落地的断裂** 侧重于解构政策文本与话语生产机制，不能直接等同于基层教育行动者的真实执行效果与在地受纳体验。
+> - **应对策略** 引入批判实在论的解释性批判规约，强调文本证据链条的严密对照，结合在地实证案例检验文本话语与实践落地之间的张力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+
+---
+
+## 相关理论与方法
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Critical Realism]] | 理论 | 为批判话语分析提供分层实在论本体论支撑，使话语分析能够追溯表层文本背后的深层权力生成机制。 |
+> | [[Cultural Political Economy]] | 理论 | 将符号学话语分析与结构性政治经济学相结合，弥合纯粹语言学批判与唯物主义结构分析的鸿沟。 |
+> | [[Discourse Analysis]] | 前置方法 | 提供通用的语言使用与文本分析基础技术，批判话语分析在此基础上注入权力批判与意识形态关切。 |
+> | [[Critical Policy Analysis]] | 替代与互补 | 批判政策分析关注政策网络与资源权力分配，批判话语分析为其提供微观与中观的语言符号解构工具。 |
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判话语分析模型、政策框架理论与批判实在论解释性批判，系统解构中国“一带一路”教育行动政策文本群的话语建构与地缘政治逻辑。
