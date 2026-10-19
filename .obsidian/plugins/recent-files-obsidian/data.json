@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Morgan_Shahjahan_2014_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
+    },
+    {
       "basename": "OECD",
       "path": "wiki/facts/global/OECD.md"
     },
     {
-      "basename": "Argument_Morgan_Shahjahan_2014_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
+      "basename": "Global Universities Rankings",
+      "path": "wiki/concepts/higher-education/Global Universities Rankings.md"
     },
     {
       "basename": "OECD AHELO Project",
@@ -195,10 +199,6 @@
     {
       "basename": "Victorian HITS and Literacy Toolkit",
       "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
-    },
-    {
-      "basename": "Argument_Bergeron_2017_MJE",
-      "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
     }
   ],
   "omittedPaths": [],

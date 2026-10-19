@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """直接执行输出任务，不分析或修改脚本。适用于任何有文件和终端工具的 AI。
 start ARGUMENT：创建/续接任务；直接传 ARGUMENT 等价于 start。
-当前 AI 处理本批→存 result.json→advance JOB（检查并取下一批），直到完成或受阻。
+当前 AI 只处理本批→存 result.json→accept JOB（检查并登记完成）→停止，等用户再次指示才取下一批。
 plan ARGUMENT：仅分批；status JOB：进度；run JOB：同 next，不启动 AI。
-run-codex JOB [--all] [--retry]：显式可选的 Codex CLI 适配器。
+run-codex JOB [--retry]：显式可选的 Codex CLI 适配器，每次只执行一批。
 start/plan/next/run/status 不调用 AI 或修改知识条目；进度可跨 AI 续接。
 """
 from __future__ import annotations
@@ -35,13 +35,14 @@ FIELDS = tuple(f"related_{kind}" for kind in (
 ))
 TARGET_TYPES = {"concept", "theory", "method", "instrument", "person", "fact"}
 LINK = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
-INSTRUCTIONS = """遵守 AGENTS.md、vault-schema.md；用 wiki/index.json 定位。首先完整读取现有目标条目、下列必读规范及本批模板，判断模板符合性：结构、内容归位或 Callout 不符，必须列入“重构”，不以有无新增信息为前提。不能凭记忆或沿用旧格式；规范优先于模板，不建无证据的空章节，不复制模板说明。
+INSTRUCTIONS = """本次只处理下列一批，完成后停止；未经用户再次指示，不获取或处理下一批。
+遵守 AGENTS.md、vault-schema.md；用 wiki/index.json 定位。首先完整读取现有目标条目、下列必读规范及本批模板，判断模板符合性：结构、内容归位或 Callout 不符，必须列入“重构”，不以有无新增信息为前提。不能凭记忆或沿用旧格式；规范优先于模板，不建无证据的空章节，不复制模板说明。
 完整阅读指定 Argument、经 source record 定位的原文，核对链接语境与概念含义，并回查已有引用。误链、同名异义、普通词误配专业概念、仅提及而无实质讨论/应用/证据，不据此补入内容；原条目符合模板时记“不变”，否则仍按模板重构。无法核验、原文未读全或证据不足则停止，不得以“不变”冒充完成。
 重构标准：原条目不符合对应模板，必须整体“重构”；模板符合时，若新材料能够深化或改变现有认识，且已有信息足以形成更合理的论述结构，则进行整体“重构”；若主要增加事实、证据、解释或细节，则在现有结构下“补充”；无新增有效信息则“不变”。
 重构必须充分整合新旧内容，保留已有的有效信息、重要细节和论证深度，避免因结构调整造成信息损失或过度概括。对新旧材料中的差异与矛盾，应先核实其来源、证据及适用条件。确有学术分歧的，保留不同观点并纳入“争议”部分；已经证实的事实性错误则直接纠正。
 无论重构还是补充，都应检查新旧内容的衔接，消除重复论述，保留页码与引用；完成后逐节对照模板检查结构、内容归位及 Callout。
 确认误链时运行 .venv/bin/python3 scripts/wiki_linker.py exclude <所在条目路径> --sentence '<完整可见句子>' --target '<目标路径>' --record-only 登记，普通补链时去除，保留本任务 Argument 快照；仅提及不记例外。只改本批非 Argument 条目正文及必要例外记录。
-按目标顺序只存 {"items":["不变","重构","补充"]} 到指定 result.json。运行下方 advance，由其执行正常增量 vault_index→vault_lint 并取下一批，无须重复手动检查；失败立即停止。无需计划、进度或逐条报告，受阻说明原因。
+按目标顺序只存 {"items":["不变","重构","补充"]} 到指定 result.json。运行下方 accept，由其执行正常增量 vault_index→vault_lint 并登记本批完成，无须重复手动检查；随后停止，失败也停止。无需计划、进度或逐条报告，受阻说明原因。
 """
 
 
@@ -201,8 +202,8 @@ def prepare_prompt(job, state, batch, *, managed=False):
     instructions = INSTRUCTIONS
     if managed:
         instructions = instructions.replace(
-            "运行下方 advance，由其执行正常增量 vault_index→vault_lint 并取下一批，无须重复手动检查；失败立即停止。",
-            "保存结果后返回；外部执行器负责正常增量 vault_index→vault_lint 及推进，勿调用本脚本。",
+            "运行下方 accept，由其执行正常增量 vault_index→vault_lint 并登记本批完成，无须重复手动检查；随后停止，失败也停止。",
+            "保存结果后停止；外部执行器负责正常增量 vault_index→vault_lint 及登记本批完成，勿调用本脚本。",
         )
     templates = list(dict.fromkeys(entry_template(entry) for entry in batch["entries"]))
     if batch.get("template") and (templates != [batch["template"]]
@@ -296,7 +297,7 @@ def emit_task(job, state):
     print(prepare_prompt(job, state, batch))
     command = [".venv/bin/python3", "scripts/related_update.py"]
     job_arg = job.relative_to(ROOT.resolve()).as_posix()
-    print(f"工作目录：{ROOT}\n保存结果后继续：\n" + shlex.join(command + ["advance", job_arg]))
+    print(f"工作目录：{ROOT}\n保存结果后检查本批，然后停止：\n" + shlex.join(command + ["accept", job_arg]))
 
 
 def start_job(args):
@@ -385,13 +386,12 @@ def accept_job(args):
         batch.update(status="done", finished=stamp())
         batch.pop("error", None)
         write_json(job / "state.json", state)
-        print(f"第 {batch['number']} 批通过检查。")
+        print(f"第 {batch['number']} 批通过检查。本次停止，等待用户指示。")
 
 
 def advance_job(args):
+    """Compatibility entry point: accept only, never reveal the next batch."""
     accept_job(args)
-    job, state = load_job(args.job)
-    emit_task(job, state)
 
 
 def run_codex_job(args):
@@ -402,7 +402,7 @@ def run_codex_job(args):
         executable = shutil.which("codex")
         if not executable:
             raise ValueError("未找到 codex CLI；仍可用 next 输出指令，在聊天中执行")
-        while (batch := unfinished(state)) is not None:
+        if (batch := unfinished(state)) is not None:
             check_argument(state)
             if batch["status"] != "pending" and not args.retry:
                 raise ValueError(f"第 {batch['number']} 批状态为 {batch['status']}；核对日志后用 --retry 继续")
@@ -433,9 +433,8 @@ def run_codex_job(args):
                 write_json(job / "state.json", state)
                 raise
             write_json(job / "state.json", state)
-            print(f"第 {batch['number']} 批通过检查。", flush=True)
-            if not args.all:
-                return
+            print(f"第 {batch['number']} 批通过检查。本次停止，等待用户指示。", flush=True)
+            return
         print("所有批次已通过检查。")
 
 
@@ -450,13 +449,11 @@ def main():
         create.add_argument("--out", type=Path)
     for command in ("next", "status", "run", "accept", "advance", "run-codex"):
         help_text = {"run": "通用 AI 会话执行：输出本批指令，不启动任何 AI CLI",
-                     "advance": "校验结果并取下一批，失败即停止",
-                     "run-codex": "可选适配器：明确使用 Codex CLI 自动执行"}.get(command)
+                     "advance": "兼容旧命令：只校验本批并停止，同 accept",
+                     "run-codex": "可选适配器：明确使用 Codex CLI 执行一批后停止"}.get(command)
         sub = commands.add_parser(command, help=help_text)
         sub.add_argument("job", type=Path)
         if command in {"run", "run-codex"}:
-            sub.add_argument("--all", action="store_true", help=("串行执行全部剩余批次，遇错停止" if command == "run-codex"
-                             else "兼容参数；输出指令由当前 AI 按 accept / next 流程继续执行"))
             sub.add_argument("--retry", action="store_true", help=("重试首个未完成批次，保留旧结果" if command == "run-codex"
                              else "兼容参数；由当前 AI 复查首个未完成批次，不启动外部执行器"))
     argv = sys.argv[1:]
@@ -464,7 +461,7 @@ def main():
         print('请直接执行任务，不必分析本脚本。当前聊天中的 AI 应根据用户指定的 Argument 运行：')
         print('适用于任何具备本地文件读写及终端能力的 AI；不依赖 Codex CLI 或模型 API。')
         print(shlex.join([str(VENV), str(Path(__file__).resolve()), "start", "Argument名称或完整路径"]))
-        print('按输出更新条目→存 result.json→advance，直到完成或受阻。')
+        print('只处理输出的这一批→存 result.json→accept 检查→停止。等用户再次指示后才取下一批。')
         print('若上下文没有明确的 Argument，请只询问需要处理哪篇文献。使用 --help 查看其他命令。')
         return 0
     if argv[0] not in {"start", "plan", "next", "status", "run", "accept", "advance", "run-codex"} and not argv[0].startswith("-"):

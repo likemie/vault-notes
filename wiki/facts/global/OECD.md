@@ -72,6 +72,7 @@ related_concepts:
   - "[[Methodological Educationism]]"
   - "[[Performance Pay]]"
   - "[[Global Educational Discourse]]"
+  - "[[Metacognition]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
@@ -113,17 +114,15 @@ related_persons:
   - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
   - "[[Michael Gove]]"
+  - "[[Steen Nepper Larsen]]"
+  - "[[Andreas Schleicher]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[David Coleman]]"
   - "[[Wolfgang Mitter]]"
   - "[[Jason Beech]]"
-  - "[[Steen Nepper Larsen]]"
-  - "[[Andreas Schleicher]]"
 related_facts:
   - "[[PISA]]"
-  - "[[OECD AHELO Project]]"
-  - "[[PISA Governing Board]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[Economics of Education Movement]]"
   - "[[Sputnik Shock 1957]]"
@@ -140,6 +139,8 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[Delors Report]]"
   - "[[World Bank]]"
+  - "[[PISA Governing Board]]"
+  - "[[OECD AHELO Project]]"
   - "[[World Education Indicators]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -153,7 +154,6 @@ related_facts:
   - "[[Baby PISA]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
-  - "[[World Education Reform Database]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -162,10 +162,10 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -275,7 +275,7 @@ updated: 2026-10-19
 > - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance\|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems\|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
-> - **[[Policy Brokerage\|政策中介]]工具打包与外向型横向经验借鉴** 以 PISA 基准测验为中枢，打包国别同行评议、教育政策审查与教育全球定位系统（Education Global Positioning System，[[Education GPS]]）数据平台；与[[World Bank\|世界银行]]依赖内部自指性实践库的风格截然不同，经合组织的中介风格高度依赖“外向型横向经验借鉴”（outward-looking cross-national referencing），系统提炼并推介其他高表现成员国的成功政策经验与改革教训，在知识过剩环境中为受测国精准供给具有确定性表象的政策处方。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 > - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《[[Frascati Manual|弗拉斯卡蒂手册]]》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 > - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]
 

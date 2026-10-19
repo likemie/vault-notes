@@ -313,6 +313,8 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 独立 `related_update.py` 批次审查使用同一命令加 `--record-only`，仅登记，保留任务锁定的 Argument 快照；已有误链在后续显式普通补链中去除。登记命令默认立即去掉对应误链。
 
+关联更新按类型和对应模板分批，默认每批最多三个；每次只执行当前一批。首次用 `related_update.py start <Argument>` 获取本批，保存结果后用 `accept <任务目录>` 完成正常增量检查并停止。仅在用户再次明确指示后，用 `next <任务目录>` 或重复 `start <Argument>` 获取下一批；不得连续自动处理。旧 `advance` 命令仅作为 `accept` 的兼容入口，不再输出下一批；可选 CLI 执行器也每次只运行一批。
+
 `scripts/link_exceptions.json` 只记录所在条目路径、完整可见句子和排除目标路径，不存理由、时间或报告，不向正文或 YAML 加标记：
 
 ```json
