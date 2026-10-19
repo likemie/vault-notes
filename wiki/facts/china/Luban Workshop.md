@@ -9,6 +9,10 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "2016–至今"
 initiator_organization: "中华人民共和国教育部"
 tags:
@@ -21,13 +25,10 @@ tags:
   - level/international
 related_concepts:
   - "[[Technology Transfer]]"
-  - "[[Hard Power]]"
-  - "[[Soft Power]]"
   - "[[Beijing Consensus]]"
-  - "[[Student Mobility]]"
+  - "[[Hard Power]]"
 related_theories: []
-related_methods:
-  - "[[Critical Policy Analysis]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Belt and Road Education Action Plan]]"
@@ -139,4 +140,4 @@ updated: 2026-10-19
 > | [[Technology Transfer]] | Concept | 鲁班工坊承担的中国先进工程技术向海外辐射与转移职能。 |
 > | [[Beijing Consensus]] | Concept | 鲁班工坊体现的产教协同、政府主导与南南合作发展模式。 |
 > | [[Hard Power]] | Concept | 依托实体装备与跨国基建产能支撑的物质性教育出海实践。 |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | Argument | 剖析高职院校出海与鲁班工坊配套国家地缘战略的核心实证文献。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 剖析高职院校出海与鲁班工坊配套国家地缘战略的核心实证文献。 |

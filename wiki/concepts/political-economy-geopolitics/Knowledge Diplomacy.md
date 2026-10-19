@@ -8,7 +8,7 @@ domain: "political-economy-geopolitics"
 related_count: 11
 related_level: 1
 related_stars: "⭐"
-related_color: "#dbeafe"
+related_color: "#bfdbfe"
 tags:
   - knowledge-diplomacy
   - soft-power
@@ -25,13 +25,10 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Zero-Sum Competition]]"
   - "[[Operationalization]]"
-  - "[[Beijing Consensus]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
-  - "[[Critical Policy Analysis]]"
-related_persons:
-  - "[[Jane Knight]]"
+related_persons: []
 related_facts:
   - "[[University Alliance of the Silk Road]]"
 related_arguments:

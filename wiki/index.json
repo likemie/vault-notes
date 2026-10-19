@@ -9342,6 +9342,18 @@
     ]
   },
   {
+    "title": "Beijing Consensus",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Beijing Consensus.md",
+    "aliases": [
+      "北京共识",
+      "China Model",
+      "中国模式",
+      "中国方案",
+      "Chinese Wisdom and Solutions"
+    ]
+  },
+  {
     "title": "Bonsai Army",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Bonsai Army.md",
@@ -25257,6 +25269,15 @@
     ]
   },
   {
+    "title": "Norman Fairclough",
+    "type": "person",
+    "path": "wiki/persons/uk/Norman Fairclough.md",
+    "aliases": [
+      "Fairclough, N.",
+      "诺曼·费尔克拉夫"
+    ]
+  },
+  {
     "title": "Patricia Broadfoot",
     "type": "person",
     "path": "wiki/persons/uk/Patricia Broadfoot.md",
@@ -28560,6 +28581,15 @@
     ]
   },
   {
+    "title": "University Alliance of the Silk Road",
+    "type": "fact",
+    "path": "wiki/facts/china/University Alliance of the Silk Road.md",
+    "aliases": [
+      "丝绸之路大学联盟",
+      "UASR"
+    ]
+  },
+  {
     "title": "1904 Educational System",
     "type": "fact",
     "path": "wiki/facts/china/1904 Educational System.md",
@@ -28766,6 +28796,15 @@
       "Big Fund",
       "国家大基金",
       "National Integrated Circuit Industry Investment Fund"
+    ]
+  },
+  {
+    "title": "Luban Workshop",
+    "type": "fact",
+    "path": "wiki/facts/china/Luban Workshop.md",
+    "aliases": [
+      "鲁班工坊",
+      "Luban Workshops"
     ]
   },
   {

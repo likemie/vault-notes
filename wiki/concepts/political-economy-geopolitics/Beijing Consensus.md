@@ -8,6 +8,11 @@ aliases:
   - Chinese Wisdom and Solutions
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - beijing-consensus
   - political-economy
@@ -17,26 +22,13 @@ tags:
   - region/china
 related_concepts:
   - "[[Washington Consensus]]"
-  - "[[Soft Power]]"
-  - "[[Hard Power]]"
   - "[[Knowledge Diplomacy]]"
-  - "[[International Education]]"
-  - "[[Student Mobility]]"
   - "[[Academic Freedom]]"
-  - "[[Research Universities]]"
-related_theories:
-  - "[[Critical Realism]]"
-  - "[[Cultural Political Economy]]"
-related_methods:
-  - "[[Critical Policy Analysis]]"
-  - "[[Discourse Analysis]]"
-related_persons:
-  - "[[Roy Bhaskar]]"
-  - "[[Stephen Ball]]"
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts:
-  - "[[Belt and Road Education Action Plan]]"
   - "[[Luban Workshop]]"
-  - "[[University Alliance of the Silk Road]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
 confidence: medium
@@ -72,7 +64,7 @@ updated: 2026-10-19
 
 ## 概念辨析
 
-> [!contrast-table] 华盛顿共识与北京共识在高等教育治理中的多维对峙（Woo, 2023, p. 690）
+> [!contrast-table] 华盛顿共识与北京共识在高等教育治理中的多维对峙（[[Argument_Woo_2023_HEP|Woo, 2023, p. 690]]）
 > | 比较维度 | 华盛顿共识（西方传统模式） | 北京共识（中国替代方案） |
 > |---|---|---|
 > | **治理哲学与认识论** | 新自由主义市场化、大学自治、[[Academic Freedom|学术自由]]与西方普遍价值 | 威权发展型国家、强政府战略规划、社会稳定高于政治多元 |
@@ -122,8 +114,8 @@ updated: 2026-10-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **治理替代与合法性建构** | 剖析北京共识如何通过发展主义成效与制度供给争夺全球治理话语权 | 跨国高教战略话语分析、全球南方南南合作机制 | Halper (2010); Woo (2023) |
-> | **软实力与硬实力依附** | 揭示依附于经济补贴与国家战略的高教出海在面对地缘震荡时的脆弱性 | 跨国办学风险评估、地缘政治博弈与在地抗议 | Trunkos (2021); Woo (2023) |
+> | **治理替代与合法性建构** | 剖析北京共识如何通过发展主义成效与制度供给争夺全球治理话语权 | 跨国高教战略话语分析、全球南方南南合作机制 | Halper (2010); [[Argument_Woo_2023_HEP\|Woo (2023)]] |
+> | **软实力与硬实力依附** | 揭示依附于经济补贴与国家战略的高教出海在面对地缘震荡时的脆弱性 | 跨国办学风险评估、地缘政治博弈与在地抗议 | Trunkos (2021); [[Argument_Woo_2023_HEP\|Woo (2023)]] |
 
 ---
 
@@ -158,10 +150,10 @@ updated: 2026-10-19
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | 2018年中国来华留学生群体 | 政策实证文本与统计分析 | 来华留学生总规模 | 492,185 人 | 统计普查数据 | 表明中国已成为非西方学生核心留学目的地，非洲与中亚生源增速居首（p. 679） |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | 2020年中国政府对非援助配额 | 官方专项计划追踪 | 非洲专项高教奖学金配额 | 12,000 个 | 官方设定指标 | 中国成为向非洲提供高等教育奖学金规模最大的单一国家（p. 679） |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | 截至2019年沿线签约国 | 双边外交与教育协定 | 学历学位互认协议签署国数 | 24 个国家 | 官方统计 | 反映中国高等教育制度标准在沿线国家的制度化吸纳程度（p. 680） |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | 丝绸之路大学联盟（UASR） | 跨国高等教育多边联盟 | 吸纳海内外高校成员数 | 130+ 所 | 组织名册统计 | 汇聚五大洲30余个国家和地区院校，构建非西方多边学术合作网络（p. 680） |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 2018年中国来华留学生群体 | 政策实证文本与统计分析 | 来华留学生总规模 | 492,185 人 | 统计普查数据 | 表明中国已成为非西方学生核心留学目的地，非洲与中亚生源增速居首（p. 679） |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 2020年中国政府对非援助配额 | 官方专项计划追踪 | 非洲专项高教奖学金配额 | 12,000 个 | 官方设定指标 | 中国成为向非洲提供高等教育奖学金规模最大的单一国家（p. 679） |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 截至2019年沿线签约国 | 双边外交与教育协定 | 学历学位互认协议签署国数 | 24 个国家 | 官方统计 | 反映中国高等教育制度标准在沿线国家的制度化吸纳程度（p. 680） |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 丝绸之路大学联盟（UASR） | 跨国高等教育多边联盟 | 吸纳海内外高校成员数 | 130+ 所 | 组织名册统计 | 汇聚五大洲30余个国家和地区院校，构建非西方多边学术合作网络（p. 680） |
 
 ---
 

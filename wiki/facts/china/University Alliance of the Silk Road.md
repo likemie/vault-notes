@@ -9,6 +9,10 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 跨国学术合作组织"
 headquarters: "中国西安"
 established: "2015"
@@ -23,8 +27,6 @@ tags:
 related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Soft Power]]"
-  - "[[International Education]]"
-  - "[[Student Mobility]]"
   - "[[Research Universities]]"
 related_theories: []
 related_methods: []
@@ -142,5 +144,5 @@ updated: 2026-10-19
 > | [[Knowledge Diplomacy]] | Concept | 丝绸之路大学联盟在学术研究中被作为体现开放性多边合作的知识外交案例。 |
 > | [[Soft Power]] | Concept | 联盟承担提升国家吸引力与民心相通的文化与学术纽带职能。 |
 > | [[Research Universities]] | Concept | 组成联盟骨干的高水平研究型高校主体。 |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | Argument | 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心文献。 |
-> | [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心文献。 |
+> | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。 |

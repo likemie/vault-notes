@@ -7,6 +7,10 @@ summary: "英国语言学学者、社会学家，兰卡斯特大学语言学荣�
 type: person
 nationality: uk
 person_region: "uk"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -19,23 +23,15 @@ tags:
   - region/uk
 related_concepts:
   - "[[Discourse]]"
-  - "[[Policy Framing]]"
   - "[[Social Imaginary]]"
-  - "[[Ideology]]"
-  - "[[Hegemony]]"
-  - "[[Power]]"
-  - "[[Semiosis]]"
 related_theories:
-  - "[[Critical Realism]]"
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[Roy Bhaskar]]"
   - "[[Stephen Ball]]"
-  - "[[Bob Jessop]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
@@ -152,4 +148,4 @@ updated: 2026-10-19
 > | [[Discourse]] | 概念 | 将话语界定为受权力结构约束并具备社会建构力量的符号化实践形态。 |
 > | [[Social Imaginary]] | 概念 | 提出话语想象（Imaginaries）概念，阐明话语对未来可能世界的投射性建构功能。 |
 > | [[Cultural Political Economy]] | 理论 | 与杰索普等学者协同奠定符号意义系统与物质结构系统相互构成的理论基础。 |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | 论证 | 全面采用费尔克拉夫三维模型解构跨国高教政策文本的核心实证文献。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 论证 | 全面采用费尔克拉夫三维模型解构跨国高教政策文本的核心实证文献。 |

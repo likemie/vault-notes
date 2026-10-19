@@ -25,9 +25,12 @@ related_concepts:
   - "[[Policy Framing]]"
   - "[[Problem Finding]]"
   - "[[Scientific Explanation]]"
+  - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
+  - "[[Social Imaginary]]"
+  - "[[Knowledge Diplomacy]]"
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
   - "[[International Education]]"
@@ -39,15 +42,19 @@ related_concepts:
   - "[[Growth]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Critical Policy Analysis]]"
 related_persons:
+  - "[[Norman Fairclough]]"
   - "[[Roy Bhaskar]]"
   - "[[Stephen Ball]]"
 related_facts:
   - "[[Belt and Road Education Action Plan]]"
+  - "[[University Alliance of the Silk Road]]"
+  - "[[Luban Workshop]]"
 status: active
 created: 2026-10-19
 updated: 2026-10-19
@@ -57,9 +64,9 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 25
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Higher Education Policy"
 sources:
@@ -80,7 +87,7 @@ sources:
 > [!concept-lens] 阅读透镜
 > - **对象** 中华人民共和国教育部（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
 > - **张力** 表层倡导的多边平等合作、民心相通与共同繁荣等共赢修辞，与深层政策实践中作为国家战略推进工具、文化[[Soft Power|软实力]]输出及地缘经济配套职能之间的结构性张力。
-> - **贡献** 将诺曼·费尔克拉夫（Norman Fairclough）的批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]解释性批判相结合，开创了剖析中国高等教育跨国扩张政策话语的批判性[[Analytic Framework|分析框架]]。
+> - **贡献** 将[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]解释性批判相结合，开创了剖析中国高等教育跨国扩张政策话语的批判性[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -130,9 +137,11 @@ sources:
 > |------|----------------|
 > | **文本层框架分析** | 对两份基础性核心政策文本展开探索性与迭代式主题分析，提取诊断性、处方性与激励性三类框架要素。（pp. 681–684） |
 > | **[[Discourse\|话语实践]]互文性分析** | 纳入6份关联性宏观政策文本与领导层演讲，通过考察互文性（Intertextuality）与互话语性（Interdiscursivity），透视驱动力、推进工具与价值导向。（pp. 684–687） |
-> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]]解释性批判，深入中国政治体制、百年屈辱史、民族复兴叙事及北京共识对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
+> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]]解释性批判，深入中国政治体制、百年屈辱史、民族复兴叙事及[[Beijing Consensus|北京共识]]对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
 
-> [!sample-panel]- 纳入分析的核心政策文本矩阵
+> [!matrix-table]- 纳入分析的核心政策文本矩阵
+> <span class="scrollable-table-marker" aria-hidden="true"></span>
+> 
 > | 政策文本名称 | 发布主体与时间 | 目标受众与消费主体 | 核心政策主张与思想 | 与一带一路教育的制度关联 |
 > |---|---|---|---|---|
 > | [[Belt and Road Education Action Plan\|《推进共建“一带一路”教育行动》]] | 中华人民共和国教育部，2016年7月 | 沿线国家教育部、中国各高校与各省教育厅 | 提出教育互联互通、人才培养培训协同与丝路合作机制共建三大重点 | 奠定中国一带一路教育行动的制度规范与操作框架（pp. 682–684） |
@@ -190,7 +199,7 @@ sources:
 > [!figure]- 图1：一带一路教育核心组成维度
 > ![](https://img.mylikemie.icu/sources/Woo_2023_HEP/figures/Woo_2023_HEP_Fig1_Key_Components_of_BRI_Education.jpg)
 
-该分析进路建立在对费尔克拉夫三维模型的政策学改造基础之上。
+该分析进路建立在对[[Norman Fairclough|费尔克拉夫]]三维模型的政策学改造基础之上。
 
 > [!figure]- 图2：政策分析的批判性[[Discourse Analysis|话语分析]]三维模型
 > ![](https://img.mylikemie.icu/sources/Woo_2023_HEP/figures/Woo_2023_HEP_Fig2_CDA_Policy_Analysis_Framework.jpg)
@@ -201,7 +210,7 @@ sources:
 
 > [!evidence-grid] 跨国境外独立办学与多边高校网络实践
 > - **海外分校实体拓展** 厦门大学在马来西亚设立分校，成为中国一流大学在海外设立的第一所全日制独立校区；云南财经大学在泰国设立曼谷商学院，服务中泰产能合作与商贸金融需求。（p. 680）
-> - **丝绸之路大学联盟（University Alliance of the Silk Road, UASR）** 西安交通大学于2015年发起成立该联盟，汇聚来自五大洲30多个国家和地区的130余所高校，成为横跨欧亚非的非官方学术多边合作枢纽。（p. 680）
+> - **[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）** 西安交通大学于2015年发起成立该联盟，汇聚来自五大洲30多个国家和地区的130余所高校，成为横跨欧亚非的非官方学术多边合作枢纽。（p. 680）
 > - **学分学历多边互认** 截至2019年，中国政府已与24个一带一路沿线国家签署了双边学历学位互认协议，为跨境人才流动扫清制度障碍。（p. 680）
 
 除了常规的本科与联合培养之外，高水平大学还针对沿线国家未来的执政队伍与技术官员设立了专门的人才培养基地。
@@ -239,7 +248,7 @@ sources:
 
 > [!evidence-grid] 高等职业教育伴随产业出海实践
 > - **服务产能转移与基建施工** 依据《高等职业教育创新发展行动计划（2015—2018年）》，高职教育紧密配合中国铁路、电力、建筑与工程机械等产能跨国布局，将职业教育标准与工程建设深度捆绑。（p. 685）
-> - **鲁班工坊实训基地** 中国高职院校联合驻外央企在泰国、巴基斯坦、吉布提、塞尔维亚等国建立数十所鲁班工坊，定向培养当地现场工程师与技术工人，有效降低了跨国基建项目的劳动力本土化成本。（pp. 680, 685）
+> - **[[Luban Workshop|鲁班工坊]]实训基地** 中国高职院校联合驻外央企在泰国、巴基斯坦、吉布提、塞尔维亚等国建立数十所[[Luban Workshop|鲁班工坊]]，定向培养当地现场工程师与技术工人，有效降低了跨国基建项目的劳动力本土化成本。（pp. 680, 685）
 > - **地方普通院校的跨国办学跳板** 一带一路为中国中西部及地方普通本科高校和高等专科院校提供了开辟海外国际化办学空间的制度契机，推动其技术专业标准向海外辐射。（pp. 680, 685）
 
 科研与技术攻关则由教育部直属重点高校承担，聚焦战略产业走廊的技术自主与成果转化。
@@ -253,7 +262,7 @@ sources:
 ### 论证步骤三　教育出海寄托着重塑国际秩序与大国复兴的雄心
 
 > [!claim] 步骤三核心主张
-> 在深层历史与政治结构中，教育出海承接了走出近代屈辱、实现民族伟大复兴的历史叙事，并作为推广非西方发展经验的制度化载体，力图在全球南方构建抗衡西方霸权的替代性国际秩序。（pp. 687–692）
+> 在深层历史与政治结构中，教育出海承接了走出近代屈辱、实现民族伟大复兴的历史叙事，投射出替代性的全球治理[[Social Imaginary|社会想象]]，并作为推广非西方发展经验的制度化载体，力图在全球南方构建抗衡西方霸权的替代性国际秩序。（pp. 687–692）
 
 #### 1. 依托非西方发展经验向全球南方输出中国治理方案
 
@@ -263,12 +272,12 @@ sources:
 > - **历史前提：百年屈辱与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。（pp. 687–688）
 > - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为民族复兴的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。（p. 688）
 > - **全球抱负：推广中国方案并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打南南合作与命运共同体，积极输出发展型国家治理经验，抗衡西方既有秩序。（pp. 688–691）
-> - **结论：教育作为新型治理话语的制度化传输网络** 一带一路跨国高等教育布局本质上构成了向发展中国家传播中国发展经验、培养知华友华技术与管理精英的制度化渠道。（pp. 691–692）
+> - **结论：教育作为新型治理话语与知识外交的制度化传输网络** 一带一路跨国高等教育布局不仅承载软实力投射，更借由[[Knowledge Diplomacy|知识外交]]的合作网络向发展中国家传播中国发展经验、培养知华友华技术与管理精英。（pp. 691–692）
 
 这一战略构想在治理哲学与运作方式上，展现出与西方战后主导的高等教育模式截然不同的逻辑取向。
 
 > [!tension-table] 华盛顿共识与北京共识在全球高等教育治理中的话语对峙
-> | 比较维度 | 传统西方模式（基于华盛顿共识） | 中国替代方案（基于北京共识与新时代外交） |
+> | 比较维度 | 传统西方模式（基于华盛顿共识） | 中国替代方案（基于[[Beijing Consensus|北京共识]]与新时代外交） |
 > |---|---|---|
 > | **治理哲学与[[Epistemology\|认识论]]** | 新自由主义市场化、大学自治、[[Academic Freedom\|学术自由]]与西方普遍人权观念 | 威权发展型国家、强政府战略规划、社会稳定高于政治多元 |
 > | **教育跨国流动动机** | 高等教育作为出口产业牟利（高额学费驱动[[International Education\|国际教育]]准市场） | 国家战略资助与奖学金倾斜，视教育为地缘合作与民心相通的公法推进工具 |
@@ -322,13 +331,13 @@ sources:
 > - **492,185人** 2018年中国来华留学生总人数，其中非洲与中亚沿线国家生源增长幅度居首。（p. 679）
 > - **12,000个** 2020年中国为非洲提供的全额或部分高等教育奖学金名额，使中国成为非洲最大的跨国高等教育奖学金供给国。（p. 679）
 > - **24个国家** 截至2019年中国已与一带一路沿线签署双边学历学位互认协议的国家数量。（p. 680）
-> - **130+所** 丝绸之路大学联盟（UASR）吸纳的五大洲海内外高校成员总数。（p. 680）
+> - **130+所** [[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR）吸纳的五大洲海内外高校成员总数。（p. 680）
 
 ---
 
 ## 关键引用
 
-> [!citation-card] 政策文本作为意义建构与[[Discourse|话语]]斗争的[[Champ|场域]]（Sum & Jessop, 2013）
+> [!citation-card] [[Cultural Political Economy|文化政治经济学]]视角下作为意义建构与[[Discourse|话语]]斗争[[Champ|场域]]的政策文本（Sum & Jessop, 2013）
 > 政策文本应当被理解为意义生成与建构的场所。换言之，它们应当被视为将语言视为符号学的话语。社会行动者通过符号化实践来简化复杂性，以此作为在现实世界中“继续生活”的先决条件。批判性政策[[Discourse Analysis|话语分析]]将政策文本作为话语来研究，其目标是实现解释性与规范性批判。（p. 681）
 >
 > *Consequently, these texts should be understood as the site of sense-making and meaning-making. In other words, they should be considered as discourse, which sees language as semiotic. Social actors reduce complexity through semiosis as a condition for 'going on' in the world. Critical discourse analysis (CDA), as a critical policy approach, studies policy texts as discourse with the goal of explanatory and normative critique.*

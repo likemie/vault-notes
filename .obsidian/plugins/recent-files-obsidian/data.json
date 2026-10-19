@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Washington Consensus",
-      "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
-    },
-    {
       "basename": "Argument_Woo_2023_HEP",
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+    },
+    {
+      "basename": "Grand Theory",
+      "path": "wiki/concepts/sociology-of-education/Grand Theory.md"
+    },
+    {
+      "basename": "Cultural Political Economy",
+      "path": "wiki/theories/political-economy-geopolitics/Cultural Political Economy.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Hard Power",
+      "path": "wiki/concepts/political-economy-geopolitics/Hard Power.md"
+    },
+    {
+      "basename": "International Education",
+      "path": "wiki/concepts/higher-education/International Education.md"
+    },
+    {
+      "basename": "Washington Consensus",
+      "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
     },
     {
       "basename": "Argument_Schulze-Cleven_2017_HE",
@@ -179,26 +199,6 @@
     {
       "basename": "Andreas Schleicher",
       "path": "wiki/persons/germany/Andreas Schleicher.md"
-    },
-    {
-      "basename": "Bildung",
-      "path": "wiki/concepts/educational-philosophy/Bildung.md"
-    },
-    {
-      "basename": "Danish Public School Reform",
-      "path": "wiki/facts/denmark/Danish Public School Reform.md"
-    },
-    {
-      "basename": "Ecology of the Brain",
-      "path": "wiki/theories/educational-philosophy/Ecology of the Brain.md"
-    },
-    {
-      "basename": "Meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
     }
   ],
   "omittedPaths": [],

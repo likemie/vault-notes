@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 60
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -87,8 +87,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: high
 status: completed
 created: 2026-04-13
@@ -102,7 +102,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> **社会想象（Social Imaginary）** 最初由哲学家查尔斯·泰勒（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其沉淀为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
+> **社会想象（Social Imaginary）** 最初由哲学家查尔斯·泰勒（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其固化为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向潜藏在日常社会实践、叙事图景与政策修辞之中、赋予集体行动与制度合法性的共享认知背景，而非少数精英在象牙塔中抽象推演的显性理论。
@@ -137,7 +137,7 @@ updated: 2026-10-19
 
 > [!feature] 现代社会想象的核心运作机制
 > - **描述性与规范性的滑动融合（Descriptive-Prescriptive Slippage）** [[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu, 2003）指出，全球化概念在跨国[[Discourse|话语]]中展现出致命的词义滑动：行动者在表面上声称仅仅客观“描述”世界经济的既成事实，实则在以隐蔽的“规范性”力量[[Disciplina and Doctrina|规训]]民族国家必须朝着解除市场管制与私有化方向重塑制度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
-> - **经验事实与情感焦虑的非结构化交织（Mix of Empirical and Affective）** 查尔斯·泰勒（Charles Taylor, 2004）强调，社会想象从不局限于纯粹的智识计算，而是深度动员了群体的生存情感。[[OECD|经合组织]]成功将真实的产业技术迭代与公众对“落后失业”、“国家掉队”的集体焦虑缝合在一起，将教育重塑为对冲全球化风险的避险工具。
+> - **经验事实与情感焦虑的非结构化交织（Mix of Empirical and Affective）** 查尔斯·泰勒（Charles Taylor, 2004）强调，社会想象深度动员了群体的生存情感，超越纯粹的智识计算。[[OECD|经合组织]]成功将真实的产业技术迭代与公众对“落后失业”、“国家掉队”的集体焦虑缝合在一起，将教育重塑为对冲全球化风险的避险工具。
 > - **跨国流动与多层网络扩散（Transnational Diffusion Networks）** 阿尔君·阿帕杜莱（Arjun Appadurai, 1996, 2000）阐明，电子媒介、资本流通与人口跨境流动打破了民族国家对集体想象的边界垄断；跨国组织与[[Policy Network|政策网络]]协同将特定社会想象打造为全球通行的“通用常识”。
 > - **对替代性发展方案的系统性排斥（Exclusion of Alternatives）** 简·肯韦（Jane Kenway et al., 2006）指出，主导性社会想象具有强烈的排他性，它将所有非市场化、非经济主义的教育与社会发展可能抹煞为“不切实际的幻想”，尽管其话语深处始终被“替代性经济的幽灵”所困扰。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **量化指标与物质化装置的支撑（Techno-Material Fabrication）** 社会想象依托[[Alain Desrosières|阿兰·德罗西埃]]所称的“跨国[[Space of Equivalence|等值空间]]”与[[PISA]]等大规模测评技术，超越飘浮在空中的纯粹观念，将抽象的[[Knowledge-Based Economy|知识经济]]教条转化为高度可视、可比且具高利害规训力的物质化考核网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
@@ -292,8 +292,8 @@ updated: 2026-10-19
 > | [[Norman Fairclough]] | Person | 提出话语想象（Imaginaries）概念，阐明话语投射性建构未来可能世界的批判话语奠基学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm|范式]]的里程碑文献。 |
-> | [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
-> | [[Argument_Woo_2023_HEP|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国高教出海宏大叙事实践的代表文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm|范式]]的里程碑文献。 |
+> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国高教出海宏大叙事实践的代表文献。 |
 
 
