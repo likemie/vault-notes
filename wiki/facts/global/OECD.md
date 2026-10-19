@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 137
+fact_related_count: 138
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -169,6 +169,7 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -265,6 +266,7 @@ updated: 2026-10-19
 > - **远处掌舵与多层网络调控** 借鉴[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
+> - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国政策借用连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向同侪压力推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
@@ -441,3 +443,4 @@ updated: 2026-10-19
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 揭示政客对 PISA 数据的双轨选择性剪裁，以及经合组织默许扭曲以维系品牌霸权的象征性共谋。 |
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO [[Test Production\|测验生产]]早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 考证经合组织在跨国政策借用连续谱中扮演的协商性政策转移（Negotiated Transfer）与软法中介治理机制。 |

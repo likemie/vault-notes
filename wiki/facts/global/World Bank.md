@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 96
+fact_related_count: 97
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -130,10 +130,11 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # World Bank
@@ -224,6 +225,7 @@ updated: 2026-10-17
 > [!pathways]- 业务运行机制
 > - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
+> - **政策中介与跨国政策转移（Policy Brokerage and Transfer）** 在跨国政策借用多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 SABER 诊断基准引导借款国协商采纳外部经验；另一方面在结构调整与紧急援助时将制度改革捆绑为放贷附加条件，促成受迫性政策转移。
 > - **质量控制与透明度** 实行严格的项目周期监管（识别、准备、评估、谈判、执行监督、后评价），所有借贷协议与实证工作论文公开归档，但评估标准具有鲜明的华盛顿经济学主导色彩。
 
 在实际借贷生命周期中，世界银行在组织学习能力与评估链条上面临深刻的结构性失调：
@@ -392,17 +394,10 @@ updated: 2026-10-17
 > | [[Global Educational Discourse]] | 概念 | 世界银行与经合组织、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示世界银行受紧迫实用主义驱动过度简化知识并依托拉美守门人垄断话语。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析世行“知识银行”制度愿景借贷、成本效益修辞与拉美[[Gatekeepers\|守门人]]网络的代表学者。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid] 文献与论证索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策[[Discourse Analysis|话语分析]]透视世界银行与[[OECD|经合组织]]、教科文组织的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）合作，揭示其如何以技术化指标包装新自由主义经济预设，并跟进[[Knowledge-Based Economy|知识经济]]政策[[Discourse|话语]]（pp. 443–445）。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析世界银行教育贷款机制，指出其核心缺陷在于繁杂审计、执行拖延与评估重投入轻产出，而非外界夸大的意识形态阴谋（pp. 455–477）。
-> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制并发布针对发展中国家小学课堂的开源标准化观察工具 Teach，奠定微观课堂实践转向（pp. 2–6）。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验解构世界银行教育治理，揭示其 0.5% 边际资金背后的全盘西方制度愿景借贷悖论、[[Cost-Benefit Analysis|成本效益分析]]对教师薪酬的压制，以及紧迫[[Pragmatic Paradigm|实用主义]]驱动的知识过度简化与本土[[Gatekeepers|守门人]]垄断（pp. 345–353）。
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析世界银行在跨国政策借用连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 运用世界教育改革数据库实证检验世行自指性政策中介机制与知识银行演变全过程。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 建立受限国家理论分析框架，解构世行金融-智识复合体对第三世界国家教育主权的深度规训。 |
+> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析世行贷款机制的审计繁杂、执行拖延与重投入轻产出困境。 |
+> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |
+> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断话语与制度愿景借贷的微观知识流动悖论。 |

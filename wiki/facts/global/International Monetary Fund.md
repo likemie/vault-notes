@@ -48,8 +48,7 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
@@ -61,10 +60,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # International Monetary Fund
@@ -104,6 +104,7 @@ updated: 2026-10-16
 > [!pathways]- 业务运行机制与主权信贷保障链条
 > - **国际收支危机救助** 针对面临外汇枯竭、货币暴跌或主权债务违约的国家提供分批备用信贷安排（Stand-By Arrangements），按季度审查借款国是否满足宏观财政紧缩指标。
 > - **主权违约黑名单威慑机制（The Blacklist Mechanism）** 任何拖欠或拒绝偿还多边贷款（涵盖 IMF、[[World Bank|世行]]及区域开发银行）的国家，将立即被列入 IMF 的违约黑名单；该黑名单具有极强的排他性金融威慑力，瞬间切断借款国在国际金融市场的发债资格与商业银行信贷，迫使借款国将偿还多边贷款置于国内一切民生支出之上。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
+> - **受迫性政策转移与硬性制度规训（Direct Coercive Policy Transfer）** 在跨国政策借用多维连续谱中，国际货币基金组织是典型的受迫性转移推手（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：在受援国面临外汇耗尽或债务违约危机申请紧急救援时，IMF 将冻结公共部门编制、削减经常性财政赤字与推行私有化作为强制性附加条件，直接向主权国家政府强加硬性制度变迁。
 > - **债务上限管制与部门借贷约束** 通过债务可持续性分析（DSA）为受援国设定硬性借债上限；一旦借款国负债触顶，IMF 便禁止其进一步向世界银行或区域开发银行申请新教育贷款，从而从宏观源头锁死了教育财政扩张空间。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
 
 ---
@@ -224,11 +225,7 @@ updated: 2026-10-16
 > | [[Shadow State]] | 概念 | 财政紧缩倒逼教育公共职能外包所滋生的非政府组织去政治化替代状态。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 111–112)]] |
 > | [[Robert Arnove]] | 人物 | 率先从世界体系分析批判 IMF 与世行教育援助负面效应的代表学者。 |
 > | [[Carlos Alberto Torres]] | 人物 | 深刻批判 IMF 与世行紧缩方案系统性瓦解[[Development Education\|发展中国家教育]]行政机器的政治社会学学者。 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析国际货币基金组织在跨国政策借用连续谱中扮演的受迫性转移（Direct Coercive Transfer）与硬性制度强加功能。 |
+> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视 IMF 与世行教育援助政策，揭示其防卫性规训、固化国际分层以及扶植影子国家的政治经济学后果。 |
+> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析 IMF 违约黑名单机制为多边银行提供的零信用风险保障，以及债务上限对极贫国教育借贷的阻断效应。 |
 
----
-
-## 相关研究
-
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视 IMF 与[[World Bank|世界银行]]教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析国际货币基金组织黑名单惩罚机制为多边银行提供的零信用风险保障，以及债务上限对外债贫困国教育借贷的阻断效应（pp. 456–457, 467–468, 474–475）。

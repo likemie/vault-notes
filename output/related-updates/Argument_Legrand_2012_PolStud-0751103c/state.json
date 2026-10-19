@@ -347,7 +347,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -380,11 +380,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T09:05:15.580313+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -403,7 +404,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T09:08:20.072672+00:00"
     },
     {
       "number": 10,
