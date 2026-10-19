@@ -9,9 +9,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 跨国学术合作组织"
 headquarters: "中国北京"
@@ -25,8 +25,16 @@ tags:
   - region/china
   - level/international
 related_concepts:
+  - "[[Research Universities]]"
+  - "[[Discourse]]"
+  - "[[Competitiveness]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Knowledge Power]]"
+  - "[[Grand Challenges]]"
+  - "[[Paradigm]]"
+  - "[[Construct]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -49,13 +57,13 @@ updated: 2026-10-19
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 亚洲大学联盟（Asian Universities Alliance, AUA）是由清华大学于2017年发起成立的区域性高端大学多边联合体，汇集亚洲13个国家和地区的15所代表性研究型大学，致力于深化区域教育资源互通与跨国协同创新，共同应对亚洲及全球发展挑战。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
+> 亚洲大学联盟（Asian Universities Alliance, AUA）是由清华大学于2017年发起成立的区域性高端大学多边联合体，汇集亚洲13个国家和地区的15所代表性[[Research Universities|研究型大学]]，致力于深化区域教育资源互通与跨国协同创新，共同应对亚洲及全球发展挑战。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2016年3月在博鳌亚洲论坛上由清华大学倡议提出，2017年4月在北京正式宣告成立，契合一带一路倡议（Belt and Road Initiative, BRI）框架下加强亚洲高等教育互联互通的战略部署。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
+> - **成立时间 / 创设背景** 2016年3月在博鳌亚洲论坛上由清华大学倡议提出，2017年4月在北京正式宣告成立，契合[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）框架下加强亚洲高等教育互联互通的战略部署。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
 > - **总部地点 / 业务辐射** 秘书处常设于中国北京清华大学，成员网络覆盖东亚、中亚、南亚、东南亚与中东地区的旗舰大学。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 > - **法人属性与经费基础** 区域多边非营利性大学合作平台，运营经费由发起高校与成员高校多边筹措，并获得成员国相关科研基金与专项项目资金支持。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
-> - **核心宗旨与法定职责** 汇聚亚洲优势高等教育资源，通过学者奖励计划、跨国联合研究、高层次青年论坛与常态化校长峰会，增进亚洲高等教育的全球话语权与自主治理能力。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
+> - **核心宗旨与法定职责** 汇聚亚洲优势高等教育资源，通过学者奖励计划、跨国联合研究、高层次青年论坛与常态化校长峰会，增进亚洲高等教育的全球[[Discourse|话语]]权与自主治理能力。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 ---
 
@@ -64,7 +72,7 @@ updated: 2026-10-19
 > [!org-evolution] 组织发展历程
 > - **2016–2017 年** **高端倡议与联盟创立期**
 >
->   清华大学在博鳌亚洲论坛发起创建联盟倡议，确立以亚洲顶尖研究型大学为主体的精英化建构路径。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
+>   清华大学在博鳌亚洲论坛发起创建联盟倡议，确立以亚洲顶尖[[Research Universities|研究型大学]]为主体的精英化建构路径。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
 >
 >   - **2016 年 3 月** 清华大学在博鳌亚洲论坛正式宣布发起筹建亚洲大学联盟。
 >   - **2017 年 4 月** 联盟成立大会在北京举行，15所创会成员高校共同审议通过联盟章程。
@@ -74,11 +82,11 @@ updated: 2026-10-19
 >   建立常态化学术会议与学者互访机制，推出学者奖励计划与多元青年交流项目。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1702)]]
 >
 >   - **2018 年** 启动 AUA 学者奖励计划（Scholars Award Program），资助成员高校教师开展短期驻校学术交流。
->   - **2020 年 12 月** 联合阿拉伯联合酋长国大学设立 AUA 联合研究计划（Joint Research Program），提供有竞争力的专项课题资助。
+>   - **2020 年 12 月** 联合阿拉伯联合酋长国大学设立 AUA 联合研究计划（Joint Research Program），提供有[[Competitiveness|竞争力]]的专项课题资助。
 >
 > - **2021 年至今** **地缘知识领导力与学术合作深化**
 >
->   维持稳定而精炼的15所成员高校规模，围绕基础科学、人工智能、气候变化与公共卫生举办系列国际学术会议，成为高等教育地缘政治研究中体现知识权力运作的典型案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1704)]]
+>   维持稳定而精炼的15所成员高校规模，围绕基础科学、人工智能、气候变化与公共卫生举办系列国际学术会议，成为[[Geopolitics of Higher Education|高等教育地缘政治]]研究中体现[[Knowledge Power|知识权力]]运作的典型案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1704)]]
 
 ---
 
@@ -90,7 +98,7 @@ updated: 2026-10-19
 > - **成员高校网络** 保持极高门槛与严格代表性，涵盖13个国家和地区的15所亚洲旗舰研究型学府：北京大学与清华大学（中国大陆）、香港科技大学（中国香港）、东京大学（日本）、首尔大学（韩国）、新加坡国立大学（新加坡）、印度尼西亚大学（印度尼西亚）、马来亚大学（马来西亚）、朱拉隆功大学（泰国）、仰光大学（缅甸）、印度理工学院孟买分校（印度）、科伦坡大学（斯里兰卡）、纳扎尔巴耶夫大学（哈萨克斯坦）、沙特国王大学（沙特阿拉伯）以及阿拉伯联合酋长国大学（阿联酋）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1699)]]
 
 > [!pathways]- 准入遴选与运行规程
-> - **五项准入标准** 申请加入必须满足严格条件，包括地理上位于亚洲、高度认同并践行联盟使命愿景、作为所在国公认的领军旗舰学府、具备承担社会责任应对重大挑战的意愿，以及严格遵守每国或地区至多2所成员的限额约束。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
+> - **五项准入标准** 申请加入必须满足严格条件，包括地理上位于亚洲、高度认同并践行联盟使命愿景、作为所在国公认的领军旗舰学府、具备承担社会责任应对[[Grand Challenges|重大挑战]]的意愿，以及严格遵守每国或地区至多2所成员的限额约束。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 > - **举荐提名程序** 外部高校无法自主提交公开申请，必须由至少一所现有创始成员高校提交正式推荐信，经理事会审议裁定。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 ---
@@ -117,8 +125,8 @@ updated: 2026-10-19
 > - **学者流动规模** 年均支持数十位骨干学者完成驻校学术合作与跨国联合授课。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 
 > [!finding-cards] 体系功能评估
-> - **区域高教话语权凝聚** 汇聚亚洲高水平研究型大学，构建起不依赖西方中心传统体系的亚洲学术对话与规则研制平台。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1703)]]
-> - **知识权力运作样本** 在国际高等教育地缘政治文献中，该联盟因其排他性高门槛、精英化网络构架与明确的议程主导特征，被视为体现[[Knowledge Power|知识权力]]范式的代表性案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
+> - **区域高教[[Discourse|话语]]权凝聚** 汇聚亚洲高水平[[Research Universities|研究型大学]]，构建起不依赖西方中心传统体系的亚洲学术对话与规则研制平台。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1703)]]
+> - **[[Knowledge Power|知识权力]]运作样本** 在国际[[Geopolitics of Higher Education|高等教育地缘政治]]文献中，该联盟因其排他性高门槛、精英化网络构架与明确的议程主导特征，被视为体现[[Knowledge Power|知识权力]][[Paradigm|范式]]的代表性案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
 
 ---
 
@@ -130,7 +138,7 @@ updated: 2026-10-19
 > > 围绕联盟的高度精英化准入门槛，以及中方发起高校在议程设定中的主导作用展开的学术审议。
 > >
 > > - **区域知识自主立场** 认为联盟打破了欧美高校在高等教育高阶合作中的垄断格局，促进了亚洲内部平等自主的学术联结。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
-> > - **地缘知识权力批判** 指出其严苛准入与顶尖旗舰定位使其呈现出鲜明的纵向等级色彩，在客观上成为大国培育非对称影响力的制度通道。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
+> > - **地缘[[Knowledge Power|知识权力]]批判** 指出其严苛准入与顶尖旗舰定位使其呈现出鲜明的纵向等级色彩，在客观上成为大国培育非对称影响力的制度通道。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
 
 ---
 
@@ -142,6 +150,6 @@ updated: 2026-10-19
 > |:-----|:-----|:-----|
 > | [[Belt and Road Initiative]] | Fact (Program) | 联盟创设所依托的跨国互联互通战略大背景。 |
 > | [[University Alliance of the Silk Road]] | Fact (Organization) | 同样由中国高校发起但秉持开放大众化逻辑的平行多边大学联盟。 |
-> | [[Knowledge Power]] | Concept | 亚洲大学联盟在学术研究中作为精英型制度载体所表征的核心理论构念。 |
-> | [[Knowledge Diplomacy]] | Concept | 与知识权力相对照的对等互惠式高等教育国际化理论框架。 |
+> | [[Knowledge Power]] | Concept | 亚洲大学联盟在学术研究中作为精英型制度载体所表征的核心[[Construct\|理论构念]]。 |
+> | [[Knowledge Diplomacy]] | Concept | 与知识权力相对照的对等互惠式[[Internationalization of Higher Education\|高等教育国际化]]理论框架。 |
 > | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | Argument | 深入对比分析亚洲大学联盟与丝绸之路大学联盟制度逻辑的核心文献。 |

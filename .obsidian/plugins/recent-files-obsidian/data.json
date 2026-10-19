@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Learning Styles",
+      "path": "wiki/concepts/learning-science-cognitive-science/Learning Styles.md"
+    },
+    {
+      "basename": "Effect Size",
+      "path": "wiki/methods/quantitative/Effect Size.md"
+    },
+    {
       "basename": "Argument_Chou_Demiryol_2024_HE",
       "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Reflexivity",
       "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Reactivity in Qualitative Research",
-      "path": "wiki/concepts/research-methodology/Reactivity in Qualitative Research.md"
-    },
-    {
-      "basename": "Validity as Inferences",
-      "path": "wiki/concepts/research-methodology/Validity as Inferences.md"
     }
   ],
   "omittedPaths": [],

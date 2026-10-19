@@ -8,9 +8,9 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 55
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - comparative-case-study
@@ -35,6 +35,11 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Policy Conditionalities]]"
   - "[[Multilateral Development Bank]]"
+  - "[[Test Production]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Areas of Knowledge]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Knowledge Power]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[World-Systems Theory]]"
@@ -60,6 +65,11 @@ related_facts:
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
   - "[[JESSI]]"
+  - "[[PISA]]"
+  - "[[OECD AHELO Project]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[University Alliance of the Silk Road]]"
+  - "[[Asian Universities Alliance]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -183,5 +193,5 @@ updated: 2026-10-19
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、[[JESSI]] 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 PISA 与 AHELO 测验生产早期阶段，通过档案挖掘与多尺度分析揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
-- [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比一带一路倡议下的丝绸之路大学联盟与亚洲大学联盟在组织治理、准入门槛与合作机制上的制度异同，论证中国在知识领域兼具知识外交与知识权力的多元网络布局。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]早期阶段，通过档案挖掘与多[[Scale in Higher Education|尺度分析]]揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
+- [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局。
