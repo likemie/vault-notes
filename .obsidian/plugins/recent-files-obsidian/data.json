@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
     },
     {
+      "basename": "Argument_Schulze-Cleven_2017_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
+    },
+    {
+      "basename": "University Alliance of the Silk Road",
+      "path": "wiki/facts/china/University Alliance of the Silk Road.md"
+    },
+    {
       "basename": "Grand Theory",
       "path": "wiki/concepts/sociology-of-education/Grand Theory.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Washington Consensus",
       "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
-    },
-    {
-      "basename": "Argument_Schulze-Cleven_2017_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
     },
     {
       "basename": "Belt and Road Education Action Plan",
@@ -195,10 +199,6 @@
     {
       "basename": "Learnification",
       "path": "wiki/concepts/educational-philosophy/Learnification.md"
-    },
-    {
-      "basename": "Andreas Schleicher",
-      "path": "wiki/persons/germany/Andreas Schleicher.md"
     }
   ],
   "omittedPaths": [],

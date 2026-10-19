@@ -6,7 +6,7 @@ aliases:
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -16,25 +16,21 @@ tags:
   - geopolitics
   - theory/critical
 related_concepts:
+  - "[[Determinism]]"
   - "[[Discourse]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Determinism]]"
-  - "[[Operationalization]]"
-  - "[[Spatial Sortings]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
 related_theories:
-  - "[[Post-structuralism]]"
   - "[[Critical Realism]]"
 related_methods:
-  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
-  - "[[Comparative Case Study]]"
 related_persons:
   - "[[Norman Fairclough]]"
-related_facts: []
+related_facts:
+  - "[[Luban Workshop]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Moisio_2022_Springer]]"
@@ -77,8 +73,8 @@ updated: 2026-10-19
 > [!dev-timeline] 理论版本与贡献
 > - **2013 年 — 奠基之作** 岑丽玲与杰索普出版专著，系统确立文化政治经济学（Cultural Political Economy, CPE）本体论、认识论与演化机制，划清与后结构主义极端文本主义的边界。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]
 > - **2018 年 — 地缘空间扩展** 萨米·莫伊西奥（Sami Moisio）在《知识经济的地缘政治》中吸收杰索普的想象概念，提出[[Hub and Flow Imaginaries|枢纽与流动想象]]，将 CPE 的履行性想象逻辑引入国家地缘政治与空间重构研究。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
-> - **2022 年 — 高等教育跨国办学实证化** 埃尔富特（Erfurth, 2022）将 CPE 转化为[[International Education Hubs|国际教育枢纽]]的比较分析工具，导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，检验其在新加坡与阿联酋跨国高教战略中的实操解释力。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–211)]]
-> - **2023 年 — 批判政策话语分析结合** 吴（Woo, 2023）在教育政策社会学研究中，将 CPE 的符号化（Semiosis）场域假说与批判话语分析三维模型结合，剖析中国一带一路教育文本中替代性国际秩序想象的建构与工程技术物质化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
+> - **2022 年 — 高等教育跨国办学实证化** 埃尔富特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）将 CPE 转化为[[International Education Hubs|国际教育枢纽]]的比较分析工具，导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，检验其在新加坡与阿联酋跨国高教战略中的实操解释力。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–211)]]
+> - **2023 年 — 批判政策话语分析结合** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）在教育政策社会学研究中，将 CPE 的符号化（Semiosis）场域假说与批判话语分析三维模型结合，剖析中国一带一路教育文本中替代性国际秩序想象的建构与工程技术物质化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 
 ---
 
@@ -91,7 +87,7 @@ updated: 2026-10-19
 > | **经济与政治想象（Imaginaries）** | 核心概念 | 在特定历史时期占主导地位的话语图景（如[[Knowledge-Based Economy\|知识经济]]），为制度协调与集体行动提供共享导向。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 26–27)]] |
 > | **变异（Variation）** | 演化环节 | 危机发生时，多元社会行动者自主提出各种竞争性叙事、政策诊断与改革方案。 |
 > | **选择（Selection）** | 演化环节 | 掌握政治经济权力的优势联盟筛选符合自身利益的特定话语框架，赋予其官方合法性。 |
-> | **保留与制度化（Retention）** | 演化环节 | 经过挑选的话语通过法律规章、资金预算与组织实体物质化，沉淀为常态化治理惯例。 |
+> | **保留与制度化（Retention）** | 演化环节 | 经过挑选的话语通过法律规章、资金预算与组织实体物质化，固化为常态化治理惯例。 |
 > | **时空修复（Spatio-Temporal Fix）** | 结构机制 | 借助跨国投资、空间扩张与未来预期延缓资本过度积累危机，界定教育与科技跨国布局的物质动因。 |
 
 ---
@@ -104,14 +100,14 @@ updated: 2026-10-19
 > **应用实例** 在高等教育国际化研究中，不能将海外校区建设仅视为纯粹的商业学费输出（狭隘经济学），也不能仅定性为大学理念的跨国传播（去物质化话语），而必须同时透视其作为主权文化表征与地缘经济收益据点的双重结构。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–204)]]
 
 > [!theory-proposition] 命题二｜社会想象具备展演性与简化复杂性的构成力量
-> **解释** 现实世界的物质关系极其繁复且充满偶发性，个体与组织无法在未加工的浑沌中行动。社会行动者必须依托话语与隐喻铸造“社会想象”，对现实进行有选择的遮蔽与凸显。这些想象绝非消极的外部镜像，而是具备展演性（Performativity）的构成性力量：一旦某种想象被广泛采纳并被制度锚定，它便反向引导资源配置与政策立法，制造出它所宣称的客观秩序。
+> **解释** 现实世界的物质关系极其繁复且充满偶发性，个体与组织无法在未加工的浑沌中行动。社会行动者必须依托话语与隐喻铸造“社会想象”，对现实进行有选择的遮蔽与凸显。社会想象具备展演性（Performativity）与构成性力量，超越消极的外部客体反映：一旦某种想象被广泛采纳并被制度锚定，它便反向引导资源配置与政策立法，制造出它所宣称的客观秩序。
 >
 > **应用实例** [[Knowledge-Based Economization|知识经济化]]叙事将大学重新定义为国家经济竞争的创新引擎。这一国家想象重塑了全球高等教育的治理规则，促成了大规模绩效测评指标与跨国大学排名的诞生。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–28)]]
 
 > [!theory-proposition] 命题三｜制度变迁遵循“变异—选择—保留”的演化机制
-> **解释** 经济或社会体制遭遇深层危机时，常规治理常规破裂，触发叙事与政策方案的剧烈“变异”；不同阶级与利益集团在公共场域展开激烈的符号斗争，权力结构对特定方案实施“选择”；最终入选的话语借助财政拨款、机构设立与考核评估得到“保留”，完成从浮动修辞向物质化体制的蜕变。
+> **解释** 经济或社会体制遭遇深层危机时，常规治理常规破裂，触发叙事与政策方案的剧烈“变异”；不同阶级与利益集团在公共场域展开激烈的符号斗争，权力结构对特定方案实施“选择”；最终入选的话语借助财政拨款、机构设立与考核评估得到“保留”，完成从浮动修辞向物质化体制的结构定型。
 >
-> **应用实例** 在中国职业教育境外拓展历程中，沿线产能合作初期的分散技能培训经国家顶层设计挑选整合，最终定型为标准化的[[Luban Workshop|鲁班工坊]]实体网络，完成从外交叙事向跨国办学基础设施的制度沉淀。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
+> **应用实例** 在中国职业教育境外拓展历程中，沿线产能合作初期的分散技能培训经国家顶层设计挑选整合，最终定型为标准化的[[Luban Workshop|鲁班工坊]]实体网络，完成从外交叙事向跨国办学基础设施的制度固化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
 
 ---
 
@@ -138,7 +134,7 @@ updated: 2026-10-19
 > - **适合分析** 宏观国家战略变迁、跨国高等教育区域扩张、政策话语与地缘政治互动、知识经济治理体制转型等兼具强烈意识形态修辞与重度资源配置的情境。
 > - **成立条件** 研究者必须同时具备文献符号解构与宏观政治经济体制剖析的双重分析能力，研究对象需兼具充足的话语文本语料与可追踪的物质制度痕迹。
 > - **解释不足** 理论擅长捕捉宏观国家与中观制度的演进轨迹，对微观行动者（如普通师生、基层劳工）的日常主体性能动性与微观情感抗争关照有限。
-> - **转化困难** 在经验研究中实现符号维度与物质维度的“真正相互构成”难度极高；多数经验论文极易滑向分别描述文化修辞与经济利益的机械二元拼贴。
+> - **转化困难** 在经验研究中实现符号维度与物质维度的“真正相互构成”难度极高；实证分析极易滑向分别描述文化修辞与经济利益的机械二元拼贴。
 > - **不能直接推出** 理论无法仅凭政策话语的强势霸权直接推导在地实施的必然成功；受制于在地市民社会抵制与外部地缘摩擦，符号展演常面临破产风险。
 
 ---
@@ -150,8 +146,8 @@ updated: 2026-10-19
 > > [!axis] 操作化难度的经验滑坡争论
 > > 各方对 CPE 所要求的“符号与物质相互构成”能否在经验研究中真正落实存在分歧。
 > >
-> > - **埃尔富特（Erfurth, 2022）** 承认在高等教育枢纽案例中，研究极易滑向“前半部分写文化外交、后半部分写政治经济”的平铺并列，难以在具体因果链中咬合两者。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–204)]]
-> > - **舒尔茨-克莱文等（Schulze-Cleven et al., 2017）** 认为 CPE 必须补充历史制度主义的中观机制，才能防止理论在处理高等教育市场化时沦为抽象的哲学本体论宣言。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
+> > - **埃尔富特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）** 承认在高等教育枢纽案例中，研究极易滑向“前半部分写文化外交、后半部分写政治经济”的平铺并列，难以在具体因果链中咬合两者。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 202–204)]]
+> > - **舒尔茨-克莱文等（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 认为 CPE 必须补充历史制度主义的中观机制，才能防止理论在处理高等教育市场化时沦为抽象的哲学本体论宣言。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
 >
 > > [!axis] 与批判话语分析（CDA）的方法论边界界定
 > > 争论焦点在于 CPE 是否只是费尔克拉夫 CDA 三维模型的政治经济学变体，缺乏完全独立的分析工具箱。
