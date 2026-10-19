@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Open Coding]]"
   - "[[Analytic Framework]]"
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons: []
@@ -125,16 +124,16 @@ updated: 2026-10-19
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 20 位具备英格兰教育政策内部准入资格的政府顾问、高级官员与学者（A1–A20）的[[In-depth Interview\|深度访谈]]录音与转录文本。 |
-> | 抽样或选案 | [[Purposeful Sampling\|立意抽样]]与滚雪球抽样相结合，覆盖中央教育部高级顾问、教师培训机构负责人、专业学会会长及核心智库学者。 |
-> | 研究者位置 | 研究者依托深厚的学术积累确立专业互信，采用严格的匿名化代号（如 A1–A20）保护受访者政治与职业安全。 |
-> | 资料边界 | 聚焦 1983–2019 年英格兰教师教育政策的关键决策节点与 46 份核心政策文本。 |
+> | 材料来源 | 占据关键决策位置的高级官员、政府顾问、智库领袖与学者的半结构化[[In-depth Interview\|深度访谈]]录音与逐字转录文本（如 Legrand, 2012; [[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。 |
+> | 抽样或选案 | [[Purposeful Sampling\|立意抽样]]与[[Snowball Sampling\|滚雪球抽样]]相结合，依据决策权力网络拓扑锁定跨部门关键知情人。 |
+> | 研究者位置 | 研究者必须具备扎实的专业知识以平抑权力不对称，恪守学术伦理并采用严格匿名编码保护受访者安全。 |
+> | 资料边界 | 明确决策周期、政策事件断代与制度管辖边界，并辅以同期未公开备忘录或公开白皮书作为对照边界。 |
 
 > [!proc] 质性分析程序
-> 1. **逐字转录与匿名化清洗** 完整转录访谈录音，剔除可直接识别身份的专有地名与人名，分配 A1–A20 匿名编码。
-> 2. **两阶段质性主题编码** 在 MAXQDA 中首先开展[[Open Coding\|开放编码]]，提炼本土证据偏好、国际借用、守门机制与适宜性考量等[[Central Phenomenon\|核心范畴]]。
-> 3. **与政策文献交叉对质** 将精英口述中的非正式互动与同期 46 份政策白皮书、审查报告的引文特征进行一一映射比对。
-> 4. **[[Epistemological Break\|认识论断裂]]链条提炼** 综合多方证词，构建出“[[Pragmatic Paradigm\|实用主义]]断裂 $\rightarrow$ 官僚守门 $\rightarrow$ 政策落地合规 $\rightarrow$ [[Policy-Based Evidence-Making\|逆向证据生产]]”的解释性模型。
+> 1. **逐字转录与匿名化清洗** 完整转录访谈录音，剔除可直接识别身份的专有地名与人名，分配匿名受访代号。
+> 2. **多阶段质性主题编码** 在质性分析软件中开展[[Open Coding\|开放编码]]与轴心编码，提炼决策动因、外部借用、守门机制与政治适宜性考量等[[Central Phenomenon\|核心范畴]]。
+> 3. **与政策文献交叉对质** 将精英口述中的幕后互动与同期政策白皮书、咨询审查报告、议会记录进行一一映射与比对检验。
+> 4. **决策机制链条提炼** 综合多方证词与档案证据，构建出涵盖“问题界定 $\rightarrow$ 跨国搜寻 $\rightarrow$ 证据筛选 $\rightarrow$ 决策落地”的因果机制解释模型。
 
 ---
 
@@ -163,7 +162,8 @@ updated: 2026-10-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Policy-Based Evidence-Making]] | 理论 | 为解析精英访谈中展现的决策逆向证据生产提供批判性[[Analytic Framework\|分析框架]]。 |
+> | [[Critical Realism]] | 理论基础 | 批判实在论强调社会系统的深层机制与能动者叙事，为分析精英口述提供认识论支撑。 |
+> | [[Policy-Based Evidence-Making]] | 批判视角 | 为解析精英访谈中展现的决策逆向证据生产提供批判性分析视角。 |
 > | [[Documentary Analysis]] | 补充方法 | 与官方白皮书及档案分析结合，构成政策研究的[[Triangulation\|三角互证]]支柱。 |
 > | [[Snowball Sampling]] | 前置方法 | 提供突破高层行政与学术网络准入壁垒的抽样路径。 |
 > | [[Qualitative Interview]] | 上位方法 | 精英访谈是质性[[In-depth Interview\|深度访谈]]在权力不对称场景下的专门化发展。 |
@@ -172,7 +172,7 @@ updated: 2026-10-19
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 深度访谈英国财政部高级官员、教育与就业部（DfEE）高层主管、“新政”特别工作组成员及美国智库政策专家，揭示政策转移决策中官僚行动者采纳美国证据与评估技术的幕后考量（pp. 341–342）。

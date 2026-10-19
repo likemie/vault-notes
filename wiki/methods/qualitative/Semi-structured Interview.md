@@ -38,19 +38,19 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Questionnaire]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Logar_2014_Minerva]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_facts:
   - "[[OECD]]"
   - "[[Semiconductor Research Corporation]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Semi-structured Interview
@@ -88,12 +88,28 @@ updated: 2026-10-16
 
 ## 研究程序
 
-> [!proc] 半结构化访谈的操作程序
+> [!proc] 通用程序
 > 1. **准备提纲** 将研究目标转化为话题和开放问题（5–10 个），每个问题附带[[Probes\|追问提示]]。考虑问题格式和回答模式。
 > 2. **[[Pilot Testing\|预测试]]** 通过试用发现逻辑数据缺口、困难或[[Sensitive Questions\|敏感问题]]，修订提纲。
 > 3. **执行访谈** 从宽泛问题开始（如生活史），逐步收窄至核心问题（渐进式聚焦法）。根据受访者回应灵活调整顺序和措辞。
 > 4. **追问深化** 使用提示（澄清理解）和追问（扩展深化）确保数据的丰富性、深度和全面性。
 > 5. **记录与[[Transcription in Qualitative Research\|转录]]** 录音或录像，记录访谈背景信息。
+
+### 质性方法模块
+
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 针对政策制定者、行政主管、学校领导或关键知情人开展的一对一半结构化访谈录音与逐字转录文本。 |
+> | 抽样或选案 | 目的抽样、理论抽样或关键案例抽样；依据研究问题系统覆盖不同组织层级与利益相关方。 |
+> | 研究者位置 | 研究者需兼顾提纲框架的系统性与现场互动的反思性，以开放、审慎的态度引导受访者呈现深层经验。 |
+> | 资料边界 | 明确访谈主题范围、时长安排（通常 45–90 分钟）与保密知情伦理协议。 |
+
+> [!proc] 质性分析程序
+> 1. **转录与数据清洗** 完整转录访谈录音，核对关键术语与语境标记，并完成去标识化处理。
+> 2. **类目建立与主题编码** 结合先验提纲话题与归纳性自下而上编码，在质性软件中提炼核心主题与变异模式。
+> 3. **跨个案矩阵比对** 将不同受访者在平行问题上的叙述投射至比较矩阵，识别制度性共识与认知分歧。
+> 4. **三角互证检验** 将访谈口述数据与同期政策档案、机构公开报告进行交叉比对，确立质性解释的可信度。
 
 ---
 
@@ -122,18 +138,19 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Qualitative Interview]] | 父方法 | 半结构化访谈是质性访谈家族中最常用的形式。 |
-> | [[Interview Protocol]] | 配套方法 | 半结构化提纲是半结构化访谈的核心工具，包含话题、问题和[[Probes\|追问提示]]。 |
-> | [[In-depth Interview]] | 子方法 | 深度访谈通常采用半结构化设计，以渐进式聚焦法展开。 |
-> | [[Probes]] | 配套概念 | 追问是半结构化访谈中确保数据深度的核心技术。 |
+> | [[Qualitative Interview]] | 上位方法 | 半结构化访谈是质性访谈家族中最常用的核心形式。 |
+> | [[Interview Protocol]] | 配套工具 | 预先编制的半结构化访谈提纲是规范访谈流程与保障跨个案可比性的操作工具。 |
+> | [[Probes]] | 辅助技术 | 追问提示是半结构化访谈中激发深层信息与厘清模糊表述的核心技术。 |
+> | [[In-depth Interview]] | 进阶形态 | 深度访谈常借助半结构化提纲，以渐进式聚焦策略纵向穿透核心经验。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol\|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
-> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 107)]] — 在[[OECD\|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire\|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 9–11)]] — 在英格兰、格拉斯哥与汉堡选取 9 所学校的校长做 1 小时半结构化访谈，探究[[School Leadership\|学校领导]]者在不同治理背景下获取与使用证据的渠道和约束。
-> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 围绕“可见的学习”在丹麦等地的本土化翻译、专营培训脚本化、理论与实证张力及多重学术-商业角色，通过跨国远程半结构化访谈对[[John Hattie\|约翰·哈蒂]]（John Hattie）展开同行深度质询与反思性考察。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
+> - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–11)]] — 在英格兰、格拉斯哥与汉堡选取 9 所学校的校长做 1 小时半结构化访谈，探究[[School Leadership|学校领导]]者在不同治理背景下获取与使用证据的渠道和约束。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 253–254)]] — 围绕“可见的学习”在丹麦等地的本土化翻译、专营培训脚本化、理论与实证张力及多重学术-商业角色，通过跨国远程半结构化访谈对[[John Hattie|约翰·哈蒂]]（John Hattie）展开同行深度质询与反思性考察。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在[[Semiconductor Research Corporation|SRC]]单机构[[Case Study|案例研究]]中访谈 19 名总裁、主管、成员企业代表与受资助学者，考察[[University-Industry Collaboration|产学合作]]联合体的决策与治理特征。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012, pp. 336, 341–342)]] — 运用半结构化访谈针对英国财政部、教育与就业部（DfEE）高级公务员、“新政”特别工作组成员及美国 MDRC 智库专家展开调研，解构官僚行动者在跨国政策搜寻中采纳美国证据与评估技术的幕后决策逻辑。

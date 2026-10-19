@@ -177,12 +177,16 @@ updated: 2026-10-19
 
 ---
 
-## 适用场景与局限性
+## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 评估标准化教学干预、数字工具、药物疗效或科研资助机制（如部分抽签）的纯粹因果效应；当[[Research Ethics|研究伦理]]允许且[[Sample Size Determination|样本量]]足以保障统计功效时。
 > - **谨慎使用** 复杂社会与教育生态中，当受试者具有强烈能动性且无法实施双盲时，教师态度与代偿性努力极易污染对照组。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 6)]]
 > - **不适合使用** 涉及剥夺基础受教育权或已知救济措施的伦理禁区，宏观历史变迁、制度演变或情境依赖性极高的质性[[Case Study|个案研究]]。
+
+---
+
+## 局限性
 
 > [!method-limits] 方法局限与治理警惕
 > - **小样本失衡与“糟糕随机化”** 当样本量较小时，随机分配可能偶然导致严重的基线不平衡；若直接计算均值差将产生严重的数据包装偏误。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
@@ -217,30 +221,22 @@ updated: 2026-10-19
 
 ---
 
-## 相关条目网络
+## 相关理论与方法
 
 > [!entry-map]
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Critical Realism]] | 理论 | 批判实在论强调社会系统的分层[[Open-Mindedness\|开放性]]与深层机制，对随机分配的封闭系统假定提出哲学解构。 |
-> | [[Randomised Controlled Trials]] | 方法 | 随机分配是构建真实验与随机对照试验的最核心设计要素。 |
-> | [[Random Sampling]] | 方法 | 随机抽样服务于样本代表性，与服务于因果隔离的随机分配构成互补。 |
-> | [[United Kingdom Metascience Unit]] | Fact (Org) | 将随机分配方法创新应用于科研资助抽签实验的国家级专门机构。 |
-> | [[Metascience]] | Concept | 运用随机化分配与因果[[Experimental Research\|实验研究]]科研体制本身的[[Comparative Education as a Cross-Sectional Area\|交叉学科]]前沿。 |
-> | [[Michael Kratsios]] | Person | 在白宫 [[Office of Science and Technology Policy\|OSTP]] 报告中倡导运用部分随机化资助实验破除同行评议避险偏误。 |
-> | [[Tennessee STAR Project 1985-1989]] | Fact (Project) | 教育史上极少数对数千名学生与教师同时实行双重真随机分配的标志性实验。 |
-> | [[Class Size]] | Concept | 检验随机分配因果效力与[[Meta-meta-analysis\|二阶元分析]]平均数稀释争议的核心政策领域。 |
-> | [[John Hattie]] | Person | 主张班级规模随机分配即使取得统计效应，若无教学法调适则政策效益有限。 |
-> | [[Pierre-Jérôme Bergeron]] | Person | 统计学者，以四组受控随机分配数值实验证实公式选择导致因果排名颠倒。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | Argument | 实证与方法学批判 | 论证随机化数据经由三类合法公式换算导出完全相悖排名，揭示排行失真。 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 政策评估技术硬转移 | 剖析英国引入随机分配技术与开展就业保留示范实验的政治与伦理突破。 |
+> | [[Randomised Controlled Trials]] | 进阶设计 | 随机分配是构建真实验与随机对照试验的最核心技术操作。 |
+> | [[Random Sampling]] | 互补方法 | 随机抽样服务于样本代表性与外部效度，与服务于组间等价和内部效度的随机分配构成互补。 |
+> | [[Propensity Score Matching]] | 替代方法 | 观测研究中在可测协变量上平衡组间特征的准实验替代手段，但无法平衡未测遗漏变量。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 在四组完全随机分配的受控模拟实验中，证实三种合法[[Effect Size|效应量]]公式导致因果排名完全颠倒，揭示出宏观综合对公式选择的虚假依赖（pp. 243–245）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述在混合实验设计中使用随机数生成器进行真实验随机分配的标准操作规程。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对 [[Education Endowment Foundation|EEF]] Fresh Start 实验报告进行深度方法学解构，提供“随机分配失衡导致[[Effect Size|效应量]]虚假膨胀”的经典批判案例。

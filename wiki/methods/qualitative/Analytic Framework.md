@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Dependency Theory]]"
   - "[[Social Contract of Science]]"
+  - "[[Policy Transfer Framework]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Descriptive Methods]]"
@@ -65,7 +66,6 @@ related_methods:
   - "[[Selective Coding]]"
   - "[[Ethnography]]"
   - "[[Negative Case Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
@@ -78,10 +78,11 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Analytic Framework
@@ -152,9 +153,7 @@ updated: 2026-10-17
 > 3. **变异度与反常案例分析** 识别无法被既有框架直接吸收的异常资料，对原有框架的边界进行反思或扩充。
 > 4. **跨案例横向综合** 比较不同案例在同一分析维度上的异同，提炼出超越单一案例的宏观解释逻辑。
 
----
-
-## 常见分析框架类型与操作矩阵
+### 常见分析框架类型与操作矩阵
 
 > [!contrast-table] 质性微观传统与宏观比较分析框架对照（综合自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] 及比较教育文献）
 > | 框架类型 | 核心分析操作 | 适用[[Research Question\|研究问题]] | 代表学者与经典来源 |
@@ -166,6 +165,7 @@ updated: 2026-10-17
 > | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 74–76)]] |
 > | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再情境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 > | **[[Educational Privatisation\|教育私有化]]与[[Network Governance\|网络治理]]综合框架** | 整合内[[Exogenous Privatisation\|外生私有化]]双轨（Ball & Youdell）、治理四维形态（市场/科层/网络/部族）、政策话语转型与多源纵向财务审计，追踪私营资本渗透全链条 | 解构新自由主义福利国家转型中公共服务外包、政策制定权转移与双层法人避税机制 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 1–25)]] |
+> | **政策转移两阶段分析框架** | 将跨国政策借用拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合循证政策制定机会结构解构外来方案的筛选与落地机制 | 解释跨国政策流动如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
 
 ---
 
@@ -193,24 +193,24 @@ updated: 2026-10-17
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的六维跨国借用分析框架，为政策科学分析框架提供奠基范例。 |
+> | [[Beech's Model of Discourse Circulation]] | 理论原型 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特流动空间理论构建的五位置话语流通分析框架。 |
+> | [[Conditioned State Theory]] | 理论构件 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
+> | [[State Corporatism]] | 理论构件 | 为国家控制教育利益集团的制度分析提供框架构件。 |
 > | [[Descriptive Methods]] | 基础方法 | 分析框架叠加于描述性方法之上，前者提供理论进阶解释，后者提供事实基础。 |
 > | [[Coding in Qualitative Research]] | 操作技术 | 分析框架通过先验定向编码落实到具体文本分析中。 |
-> | [[Conditioned State Theory]] | 理论 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
-> | [[State Corporatism]] | 理论 | 为国家控制教育利益集团的制度分析提供框架构件。 |
-> | [[Beech's Model of Discourse Circulation]] | 理论 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特理论构建的五位置分析框架典型理论原型。 |
-> | [[Global Educational Discourse]] | 概念 | 分析框架所追踪与解构的跨国标准化政策[[Discourse\|话语]]对象。 |
-> | [[Jason Beech]] | 人物 | 构建跨国教育[[Champ\|场域]]话语流通分析框架并实证考察拉美制度遭遇的比较教育学者。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策文献中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的隐性私有化与[[Policy Network|政策网络]]拓扑。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与循证政策制定机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国随机分配评估技术的动力机制（pp. 333–336）。
 
 ---

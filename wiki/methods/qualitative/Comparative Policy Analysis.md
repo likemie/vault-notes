@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Difference-in-Differences]]"
   - "[[Triangulation]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_facts:
   - "[[EU]]"
@@ -127,7 +126,7 @@ updated: 2026-10-19
 > 1. **确立比较议题与案例边界** 选定应对相似外部冲击或聚焦相同治理议题的两个或多个政治实体（如美欧产业法案、欧美[[Student Mobility|学生流动]]治理政策，或欧洲各国中等教育分流与分权体制）。
 > 2. **前置情境与依赖诊断** 梳理各案例面临的历史继承包袱、制度结构性脆弱性、宪制权力分配或历史性空间治理传统。
 > 3. **建构系统比较维度** 提炼统一且相互独立的分析维度（如治理主体、目标、资金体量、政策工具、约束条件，或权力转移重心、协调机制、分流年龄与衔接深度）。
-> 4. **搜集政策文本与实证数据** 查阅法案原文、财政预算报告、国家评估标准、问责报告卡细则、课程大纲与行政解释备忘录。
+> 4. **搜集政策文本与实证数据** 查阅原始法案条文、财政预算报告、国家评估标准、问责报告卡细则、课程大纲与行政解释备忘录。
 > 5. **横向矩阵填报与差异机制提炼** 将各案例在相同维度下的制度设计进行对质比较，推演其背后的治理结构差异、空间[[Governmentality|治理性]]、[[Institutional Complementarity|制度互补性]]与实施瓶颈。
 
 ### 质性方法模块
@@ -179,18 +178,18 @@ updated: 2026-10-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Historical Institutionalism]] | 理论 | 历史制度主义为比较政策分析提供[[Path Dependence\|路径依赖]]、关键节点与[[Institutional Complementarity\|制度互补性]]的理论分析基础。 |
-> | [[Cultural Political Economy]] | 理论 | 文化政治经济学支撑政策[[Discourse\|话语]]解构，阐明意义建构如何与物质资本结构协同运作。 |
-> | [[Spatial Governmentality]] | 理论 | 空间[[Governmentality\|治理术]]理论指导对跨国人口流动[[Disciplina and Doctrina\|规训]]与空间包容/排斥策略的比较分析。 |
-> | [[Discourse Analysis]] | 补充方法 | 质性话语分析作为子模块，用于深剖法案文本前言与官方问责文本中的意识形态编码。 |
-> | [[Case Study]] | 前置方法 | 单一案例研究为跨国比较政策分析提供深厚的地方情境理解与历史脉络支撑。 |
-> | [[Policy Borrowing]] | 概念 | 刻画比较政策分析所揭示的跨国政策模仿、修辞借用与制度转置机制。 |
+> | [[Historical Institutionalism]] | 理论基础 | 历史制度主义为比较政策分析提供[[Path Dependence\|路径依赖]]、关键节点与[[Institutional Complementarity\|制度互补性]]的理论分析基础。 |
+> | [[Cultural Political Economy]] | 理论基础 | 文化政治经济学支撑政策[[Discourse\|话语]]解构，阐明意义建构如何与物质资本结构协同运作。 |
+> | [[Spatial Governmentality]] | 理论基础 | 空间[[Governmentality\|治理术]]理论指导对跨国人口流动[[Disciplina and Doctrina\|规训]]与空间包容/排斥策略的比较分析。 |
+> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的跨国政策借用分析框架，为比较政策分析提供核心维度。 |
+> | [[Discourse Analysis]] | 互补方法 | 质性话语分析作为子模块，用于深剖法案文本前言与官方问责文本中的意识形态编码。 |
+> | [[Case Study]] | 基础设计 | 深入的单案例或多案例研究为跨国比较政策分析提供扎实的地方情境理解与历史脉络支撑。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
