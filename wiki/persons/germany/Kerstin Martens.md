@@ -4,8 +4,8 @@ aliases:
   - 克里斯汀·马滕斯
 summary: "德国不来梅大学国际关系与全球社会政策教授，德国科学基金会（DFG）SFB 1342“全球社会政策动态”跨学科中心核心主持学者。国际组织社会学与全球教育治理领军学者，开创“以硬事实施展软权力”（Soft Power by Hard Facts）分析框架与“使命性教育嵌入”（Education-for-Mandates）理论构念，并主持构建全球 30 个涉教育政府间组织数据库（IO-ED），系统解构非专门组织跨界干预全球教育治理的权力机制。"
 type: person
-nationality: "de"
-person_region: "de"
+nationality: "germany"
+person_region: "germany"
 person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Kerstin Martens
@@ -137,9 +137,9 @@ updated: 2026-10-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Gita Steiner-Khamsi]] — 长期学术伙伴，共同推进[[Governing by Numbers\|数字治理]] 2.0 与[[Policy Brokerage\|政策中介]]批判分析。
-> - **师承／合作者** [[Christian Ydesen]] — 长期跨学科同道，共同探索战后国际组织史与当代指标政治的对接。
-> - **师承／合作者** Dennis Niemann — 长期合作者，共同开创“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”概念模型。
+> - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术伙伴，共同推进[[Governing by Numbers\|数字治理]] 2.0 与[[Policy Brokerage\|政策中介]]批判分析。
+> - **师承／合作关系** [[Christian Ydesen]] — 长期跨学科同道，共同探索战后国际组织史与当代指标政治的对接。
+> - **师承／合作关系** Dennis Niemann — 长期合作伙伴，共同开创“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”概念模型。
 > - **机构／运动／项目** University of Bremen / SFB 1342 — 长期科研根据地，汇聚全球顶尖社会政策比较学者。
 > - **机构／运动／项目** [[OECD]] — Martens 最核心的实证分析靶标。
 

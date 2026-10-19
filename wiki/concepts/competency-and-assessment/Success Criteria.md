@@ -7,7 +7,7 @@ aliases:
   - 表现成功标准
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
-domain: "curriculum-instruction"
+domain: "competency-and-assessment"
 related_count: 13
 related_level: 1
 related_stars: "⭐"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-19
 ---
 
 # Success Criteria
@@ -55,7 +55,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象的认知理解转化为学生可观察、可对比、可检验的质性表现指标与阶段里程碑。
 > - **用途** 帮助学生理解优秀的实质构成，使评价标准从教师掌控的“不可言说的黑箱”转变为师生共享的“透明导航仪”。
-> - **边界** 成功标准不是机械的[[Rote Learning\|死记硬背]]清单（Checklist），而是引导学生聚焦深层因果机制与解释质量的质性阶梯。
+> - **边界** 成功标准是引导学生聚焦深层因果机制与解释质量的质性阶梯，不应简化为机械的[[Rote Learning\|死记硬背]]清单（Checklist）。
 
 > [!citation-card] 成功标准的阶段分层与因果证据
 > 成功标准不仅需要明确终期目标，更应呈现阶段性进阶阶梯。在毛利历史单元中，第 3 周标准要求描述人口变迁趋势，而单元终期标准则要求解释殖民疾病冲击并外推到其他原住民群体，使学生清晰看见认知的深化过程。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]

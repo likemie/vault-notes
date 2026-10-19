@@ -7,7 +7,7 @@ aliases:
   - 认知学习意图
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
-domain: "curriculum-instruction"
+domain: "curriculum"
 related_count: 41
 related_level: 4
 related_stars: "💎⭐"

@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Chou_Demiryol_2024_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
+    },
+    {
+      "basename": "Argument_Cai_Gao_Liu_2025_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Cai_Gao_Liu_2025_HE.md"
+    },
+    {
+      "basename": "Argument_Schulze-Cleven_2017_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
+    },
+    {
       "basename": "Argument_Woo_2023_HEP",
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+    },
+    {
+      "basename": "International Branch Campus",
+      "path": "wiki/concepts/higher-education/International Branch Campus.md"
+    },
+    {
+      "basename": "Century of Humiliation",
+      "path": "wiki/concepts/political-economy-geopolitics/Century of Humiliation.md"
+    },
+    {
+      "basename": "National Rejuvenation Narrative",
+      "path": "wiki/concepts/political-economy-geopolitics/National Rejuvenation Narrative.md"
     },
     {
       "basename": "Fudan University Budapest Campus",
@@ -23,10 +47,6 @@
     {
       "basename": "Belt and Road Initiative",
       "path": "wiki/facts/china/Belt and Road Initiative.md"
-    },
-    {
-      "basename": "Argument_Schulze-Cleven_2017_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
     },
     {
       "basename": "University Alliance of the Silk Road",
@@ -179,26 +199,6 @@
     {
       "basename": "Validity as Inferences",
       "path": "wiki/concepts/research-methodology/Validity as Inferences.md"
-    },
-    {
-      "basename": "Virtual Documents",
-      "path": "wiki/concepts/research-methodology/Virtual Documents.md"
-    },
-    {
-      "basename": "Variable",
-      "path": "wiki/concepts/research-methodology/Variable.md"
-    },
-    {
-      "basename": "Portable Fellowship",
-      "path": "wiki/concepts/science-policy/Portable Fellowship.md"
-    },
-    {
-      "basename": "Tilting the Playing Field",
-      "path": "wiki/concepts/science-policy/Tilting the Playing Field.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     }
   ],
   "omittedPaths": [],

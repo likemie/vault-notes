@@ -1,7 +1,7 @@
 ---
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
-domain: "curriculum-instruction"
+domain: "curriculum"
 related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 # Socioscientific Issues
 
@@ -70,7 +70,7 @@ updated: 2026-10-16
 > - **边界** 不同于纯自然科学探究（封闭于实验[[Variable\|变量]]控制）与单纯社会道德讨论（脱离科学证据与技术机理）。
 
 > [!citation-card] 论社会科学议题教学的核心宗旨
-> 社会科学议题取向的目标在于通过促进非形式推理的发展来提升科学素养。在这一过程中，学生必须分析、评估、讨论并论证各种复杂的、结构不良但对社会和自然领域的生命质量至关重要的议题的多重视角。与科学探究取向不同，社会科学议题取向并不将解释、论证、证据或推理仅仅局限于科学视角，而是要求学生权衡科学、生态、道德、宗教和经济等多重视角，进而对具体问题表明立场或做出决策。（pp. 154–155）
+> 社会科学议题取向的目标在于通过促进非形式推理的发展来提升科学素养。在这一过程中，学生必须分析、评估、讨论并论证各种复杂的、结构不良但对社会和自然领域的生命质量至关重要的议题的多重视角。相较于科学探究取向，社会科学议题取向要求学生在解释、论证、证据或推理中权衡科学、生态、道德、宗教和经济等多重视角，进而对具体问题表明立场或做出决策。（pp. 154–155）
 >
 > *The goal of a socioscientific approach is to develop scientific literacy by promoting the exercise of informal reasoning in which students are compelled to analyze, evaluate, discuss, and argue varied perspectives on complex issues that are ill-structured but fundamentally important to the quality of life in social and natural spheres... As students consider and attempt to respond to the issue at hand, they may bring scientific, ecological, moral, religious, personal, and/or economic perspectives to bear on the issue.*
 
@@ -96,7 +96,7 @@ updated: 2026-10-16
 > - **[[Informal Reasoning\|非形式推理]]** 
 >   在面对不完全信息时，综合运用理性逻辑、情感关怀与直觉权衡进行因果推论与价值权衡。
 > - **多元视角权衡** 
->   系统统合理性科学视角、生态环保视角、商业经济视角与人道主义伦理视角。
+>   系统整合理性科学视角、生态环保视角、商业经济视角与人道主义伦理视角。
 > - **反驳论据建构** 
 >   在为自身立场辩护的同时，预先识别对方观点的合理性并构建有针对性的反驳抗辩。
 > - **[[Epistemology\|认识论]]能动性与公民审议** 

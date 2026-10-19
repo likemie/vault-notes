@@ -4,7 +4,7 @@ aliases:
   - Hattie, J.
   - 约翰·哈蒂
   - 哈蒂
-summary: "新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
+summary: "新西兰教育统计学家，著有 Visible Learning，是元分析综合的代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
@@ -193,7 +193,7 @@ updated: 2026-10-19
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席，兼任澳大利亚[[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席。
-> - **核心角色** 《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）作者，教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
+> - **核心角色** 著有《[[Visible Learning\|可见的学习]]》（Visible Learning，VL），是教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
 > - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
 
 > [!citation-card] 人物定位的关键来源
@@ -339,7 +339,7 @@ updated: 2026-10-19
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承与学术合作者** [[Herbert Walberg]]（合作综合 226 项元分析检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
+> - **师承与学术合作关系** [[Herbert Walberg]]（合作综合 226 项元分析检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
 > - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定二阶元分析不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal 等人（针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
 > - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚学校领导力的大师崇拜与[[Neo-Taylorism|新泰勒主义]]规训）。
@@ -382,7 +382,7 @@ updated: 2026-10-19
 > >   - *公式选择颠倒排名*：受控数值模拟证实组间净差异、组内增长与相关转化三类合法公式对相同数据产出截然相反的排名，排行榜仅反映公式选择而非干预优劣；
 > >   - *相关换算极值发散*：$r \to d$ 换算在 $r \to 1$ 时急剧发散，仅需 $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$ [[Zone of Desired Effects|期望效应区]]，将横向相关包装为因果干预。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]
 > > - **Golovchin** 对 133 项正向效应量开展变差系数（$V_\sigma$）检验，发现总体变差系数高达 56.87%（学生特征 71.24%、学校环境 65.97%），证实效应量呈极端不均匀分布，$d=0.40$ 无法充当普遍有效的因果基准线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
-> > - **Kalmendal 等人** 开展针对全库 322 个影响因素的预注册元科学审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证瓦解了聚合效应量的科学可信度。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> > - **Kalmendal 等人** 开展针对全库 322 个影响因素的预注册元科学审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可信度。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且控制社会背景后边际效应骤降，全语言案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 > > - **Terhart 提出双重困境模型** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：有效教学因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >

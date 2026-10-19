@@ -8,7 +8,7 @@ aliases:
   - authentic scientific practices
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
-domain: "curriculum-instruction"
+domain: "instruction-pedagogy"
 related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Authentic Science Practices
@@ -72,7 +72,7 @@ updated: 2026-10-16
 > [!concept-lens] 概念透镜
 > - **含义** 超越传统“照方抓药式”实验教学，涵盖认识、社会、实践与物质维度的全要素科学探究实践形态。
 > - **用途** 帮助科学教育克服“学校科学（School Science）”与“真实科学（Professional Science）”之间的[[Epistemology|认识论]]鸿沟，培养学生的深层科学理解与高阶探究能力。
-> - **边界** 真实科学实践并不要求中小学生在知识创新层面上直接匹敌职业科学家，而是强调学生在学习过程中所经历的认识论过程与社会认知机制具有真实性。
+> - **边界** 真实科学实践强调学生在学习过程中所经历的认识论过程与社会认知机制具有真实性；它不要求中小学生在知识创新层面上直接匹敌职业科学家。
 
 > [!citation-card] Zhang et al. 论真实科学实践的核心标志
 > 作为真实科学实践的核心标志，学生需要作为一个协作共同体行使认识能动性，以自主塑造和重塑其探究工作的核心维度。真实世界的知识创造团队应对的是[[Creativity|创造性]]过程中突现与不确定的本质；学生不应仅仅执行重复性的程序以完成既定任务，而应随着知识的推进持续调整其集体探究路线。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 890–892)]]
@@ -102,8 +102,8 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 真实科学实践的核心特征
-> - **直面[[Scientific Uncertainty|科学不确定性]]（Grappling with Uncertainty）** 学生不再面对去脉络化的现成结论，而是学会在复杂、模糊的现实情境中界定问题与辨析证据（Manz, 2015）。
-> - **以因果机制建模为导向（Focus on Explanatory Mechanisms）** 探究的核心目标并非[[Rote Learning|死记硬背]]事实标签，而是构建解释现象“为什么发生、如何发生”的系统模型（Schwarz et al., 2017; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）。
+> - **直面[[Scientific Uncertainty|科学不确定性]]（Grappling with Uncertainty）** 学生学会在复杂、模糊的现实情境中界定问题与辨析证据，避免将科学知识视为去脉络化的现成结论（Manz, 2015）。
+> - **以因果机制建模为导向（Focus on Explanatory Mechanisms）** 探究的核心目标是构建解释现象“为什么发生、如何发生”的系统模型，避免将探究简化为[[Rote Learning|死记硬背]]事实标签（Schwarz et al., 2017; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）。
 > - **落实学生的[[Epistemic Agency|认识能动性]]（Enacting Epistemic Agency）** 学生拥有商定[[Research Question|研究问题]]、选择探究策略、自主流动组队（[[Opportunistic Collaboration|弹性协作]]）与评估知识进展的实质决策权（[[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）。
 > - **社会性观点辩护与持续改进（Collaborative Idea Improvement）** 学习者共同体依托公共制品（如海报、数字论坛）开展多方论辩，践行集体[[Epistemic Responsibility|认知责任]]（Scardamalia & Bereiter, 2014）。
 
@@ -140,7 +140,7 @@ updated: 2026-10-16
 ### 命题二　行使认识能动性是区分真实科学实践与机械照搬教案的核心标志
 
 > [!concept-lens] 学生主体性与课堂权力维度
-> 本命题探讨如何在组织层面保障学生从被动操作者转变为实质意义上的科学研究者。
+> 组织层面的保障旨在支持学生从被动执行操作转变为实质意义上的科学研究者。
 
 > [!claim] Stroupe, D.
 > **打破教师作为唯一认识权威的垄断** 斯特劳普指出，传统课堂中教师垄断了决定“研究什么、何时研究、何为正确”的全部权力；真实科学实践必须重构课堂社会权力构型，把探究方向的裁决权归还给学生共同体。(Stroupe, 2014)
@@ -153,13 +153,13 @@ updated: 2026-10-16
 ### 命题三　真实科学实践整合认识、社会与物质维度以促进深层科学解释建构
 
 > [!concept-lens] 实践多维整合维度
-> 本命题揭示科学探究并非孤立的心智运算，而是[[Discourse|话语]]、工具与社会规则交织的整体性实践。
+> 科学探究是[[Discourse|话语]]、工具与社会规则交织的整体性实践，不能孤立地理解为心智运算。
 
 > [!claim] Ford, M. J. & Forman, E. A.
 > **科学实践的双重社会角色** 福特与福曼提出，真实科学实践包含“观念主张的创造者”与“批判性证据的评审者”双重角色；课堂必须建立支持这两种角色对称互动的社会机制。(Ford & Forman, 2006)
 
 > [!claim] Lehrer, R. & Schauble, L.
-> **模型建构与物质中介** 莱勒与肖布尔论证，学生通过图表、实物模型与数学表征对自然现象进行[[Externalization|外部化]]物化，是科学概念从具体经验跃升至理论抽象的关键桥梁。(Lehrer & Schauble, 2006)
+> **模型建构与物质中介** 莱勒与肖布尔论证，学生通过图表、实物模型与数学表征对自然现象进行[[Externalization|外部化]]物化，是科学概念从具体经验发展至理论抽象的关键桥梁。(Lehrer & Schauble, 2006)
 
 ---
 

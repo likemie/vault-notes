@@ -6,7 +6,7 @@ aliases:
   - Algorithmic Deterrence
 summary: "指在21世纪软件世纪中，大国战略安全与地缘均势不再主要取决于传统动能硬件与核武器物理存量，而转由人工智能算法、自主无人系统、边缘算力与敏捷软件开发能力所决定的新型战略威慑形态。强调软件跃居指挥调度中枢、硬件降维为执行载体，以低成本分布式算法蜂群重构非对称攻防成本，为伦理约束下的民主政体提供常规威慑支柱。"
 type: concept
-domain: "educational-policy"
+domain: "political-economy-geopolitics"
 related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # AI Deterrence
@@ -72,9 +72,9 @@ updated: 2026-10-16
 > 4. **战略研发体制革新** 要求打破传统国防采办中 AI 研发预算仅占 0.2% 的结构性失衡，启动面向战场软件的新型[[Manhattan Project|曼哈顿工程]]，实现算法的天级敏捷迭代与空中实时推送（Over-the-Air, [[Other Transaction Authority|OTA]]）部署。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37, 44–48)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示现代战争与大国均势的决胜要素已从物理毁灭当量与重工业产能，转移为算法推理速度、模型泛化能力与数据杀伤链闭合效率。
+> - **含义** 揭示现代战争与大国均势的决胜要素已从物理毁灭当量与重工业产能，转移为算法推理速度、模型泛化能力与数据杀伤链各环节的衔接效率。
 > - **用途** 诊断传统国防采办深陷重型硬件平台[[Path Dependence|路径依赖]]的战略脆弱性，为民主政体构建非对称防卫能力、扭转同盟体系防务萎缩提供核心理论基石。
-> - **边界** 强调的是软件与算法在国家防御中的指挥决策中枢地位，并不意味着物理硬件的消失，而是强调硬件装备必须接受统一算法中枢的动态协同与重构；同时坚持必须在算法链条中设立严格的[[Man-Computer Symbiosis|人机协同]]伦理护栏。
+> - **边界** 强调的是软件与算法在国家防御中的指挥决策中枢地位，硬件装备继续存在，并须接受统一算法中枢的动态协同与重构；同时坚持必须在算法链条中设立严格的[[Man-Computer Symbiosis|人机协同]]伦理护栏。
 
 > [!citation-card] 原子时代落幕与人工智能威慑新纪元
 > 一个威慑时代，即原子时代，正在走向终结；而一个建立在人工智能基础上的全新威慑时代即将开启。然而，我们所面临的最大风险，恰恰在于误以为自己已经赢得了这场竞争。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 28)]]
@@ -122,7 +122,7 @@ updated: 2026-10-16
 > - **民主政体的非对称算法代差要求（Democratic Asymmetric Algorithmic Overmatch）** 针对民主国家无法承受大规模人员伤亡与无底线消耗战的制度特征，通过不可逾越的算法认知代差与精准制衡能力，形成让潜在侵略者不敢轻举妄动的常规威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 46–48)]]
 > - **国家战略研发体制重塑与新[[Manhattan Project|曼哈顿工程]]（New Manhattan Project for Defense Software）** 扭转防务预算中 AI 软件研发占比畸低的现状，通过[[Other Transaction Authority|其他交易授权]]（Other Transaction Authority, OTA）等新型机制吸纳顶尖民间工程智力，构建国家级军民协同攻坚体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 47–48, 52–54)]]
 
-> [!logic-map]- 人工智能威慑的战术与战略运行闭环
+> [!logic-map]- 人工智能威慑的战术与战略运行循环
 > ```mermaid
 > flowchart TD
 >     A["全域异构传感器网络<br>(卫星/雷达/无人侦察机/前沿情报)"] --> B["前沿AI大模型与边缘战术推理中枢<br>(多模态感知与目标动态识别)"]
@@ -186,7 +186,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **战略研发不可暂停** | 面对大国战略竞争，民主阵营绝不可单方面叫停前沿武器 AI 研发 | 警惕自满与[[Winner's Fallacy\|胜者谬误]]；维护地缘制衡主动权 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
-> | **软硬件层级颠倒** | 软件跃升为战术指挥中枢，低成本算法蜂群颠覆传统装备成本曲线 | 软件定义作战；破除千亿美元重型硬件陷阱；非对称蜂群打击 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
+> | **软硬件层级颠倒** | 软件成为战术指挥中枢，低成本算法蜂群颠覆传统装备成本曲线 | 软件定义作战；破除千亿美元重型硬件陷阱；非对称蜂群打击 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **民主非对称威慑** | 伦理约束下的民主国家必须以压倒性算法代差抵御威权人力消耗优势 | 压缩杀伤链至秒级；高维认知压制；常规威慑可信性 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **国防采办软件化重构** | 扭转 AI 预算仅占 0.2% 的错配，启动面向战场软件的新型曼哈顿计划 | 破除重工业采购路径依赖；敏捷 [[Other Transaction Authority\|OTA]] 持续部署；军民深度协同 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 

@@ -1596,6 +1596,21 @@
     ]
   },
   {
+    "title": "Severability of Politics and Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Severability of Politics and Pedagogy.md",
+    "aliases": [
+      "恶政与教学法可分性命题",
+      "恶政与教学法可分性",
+      "政教可分性命题",
+      "政治制度与教学法分离论",
+      "善治分离论",
+      "Separation of Politics and Pedagogy",
+      "Severability Principle in Educational Borrowing",
+      "Severability of Governance and Pedagogy"
+    ]
+  },
+  {
     "title": "Shadow State",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Shadow State.md",
@@ -2448,6 +2463,17 @@
     ]
   },
   {
+    "title": "Success Criteria",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Success Criteria.md",
+    "aliases": [
+      "成功标准",
+      "达成标准",
+      "Success Criterion",
+      "表现成功标准"
+    ]
+  },
+  {
     "title": "Teacher Conceptions of Assessment",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Teacher Conceptions of Assessment.md",
@@ -2798,6 +2824,17 @@
     ]
   },
   {
+    "title": "Learning Intentions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Learning Intentions.md",
+    "aliases": [
+      "学习意图",
+      "学习目标意图",
+      "Learning Intention",
+      "认知学习意图"
+    ]
+  },
+  {
     "title": "Learning Progression",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Learning Progression.md",
@@ -2906,6 +2943,17 @@
     ]
   },
   {
+    "title": "Socioscientific Issues",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Socioscientific Issues.md",
+    "aliases": [
+      "SSI",
+      "社会科学议题",
+      "社会科学议题教学",
+      "Socio-Scientific Issues"
+    ]
+  },
+  {
     "title": "Sustainability Education",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Sustainability Education.md",
@@ -2967,63 +3015,6 @@
       "西方文明课",
       "History of Western Civilization",
       "西方文明通识课"
-    ]
-  },
-  {
-    "title": "Authentic Science Practices",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum-instruction/Authentic Science Practices.md",
-    "aliases": [
-      "真实科学实践",
-      "authentic inquiry",
-      "真实的科学实践",
-      "真实科学探究",
-      "authentic scientific practices"
-    ]
-  },
-  {
-    "title": "Funds of Knowledge",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum-instruction/Funds of Knowledge.md",
-    "aliases": [
-      "FoK",
-      "知识资金",
-      "生活知识资金",
-      "家庭文化知识库",
-      "知晓资金"
-    ]
-  },
-  {
-    "title": "Learning Intentions",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum-instruction/Learning Intentions.md",
-    "aliases": [
-      "学习意图",
-      "学习目标意图",
-      "Learning Intention",
-      "认知学习意图"
-    ]
-  },
-  {
-    "title": "Socioscientific Issues",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum-instruction/Socioscientific Issues.md",
-    "aliases": [
-      "SSI",
-      "社会科学议题",
-      "社会科学议题教学",
-      "Socio-Scientific Issues"
-    ]
-  },
-  {
-    "title": "Success Criteria",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum-instruction/Success Criteria.md",
-    "aliases": [
-      "成功标准",
-      "达成标准",
-      "Success Criterion",
-      "表现成功标准"
     ]
   },
   {
@@ -4705,16 +4696,6 @@
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性"
-    ]
-  },
-  {
-    "title": "AI Deterrence",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy/AI Deterrence.md",
-    "aliases": [
-      "人工智能威慑",
-      "算法威慑",
-      "Algorithmic Deterrence"
     ]
   },
   {
@@ -8064,6 +8045,18 @@
     ]
   },
   {
+    "title": "Authentic Science Practices",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Authentic Science Practices.md",
+    "aliases": [
+      "真实科学实践",
+      "authentic inquiry",
+      "真实的科学实践",
+      "真实科学探究",
+      "authentic scientific practices"
+    ]
+  },
+  {
     "title": "Barometer of Achievement",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Barometer of Achievement.md",
@@ -8259,6 +8252,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
     "aliases": [
       "教学反馈"
+    ]
+  },
+  {
+    "title": "Funds of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Funds of Knowledge.md",
+    "aliases": [
+      "FoK",
+      "知识资金",
+      "生活知识资金",
+      "家庭文化知识库",
+      "知晓资金"
     ]
   },
   {
@@ -9327,21 +9332,6 @@
     ]
   },
   {
-    "title": "Severability of Politics and Pedagogy",
-    "type": "concept",
-    "path": "wiki/concepts/policy-borrowing/Severability of Politics and Pedagogy.md",
-    "aliases": [
-      "恶政与教学法可分性命题",
-      "恶政与教学法可分性",
-      "政教可分性命题",
-      "政治制度与教学法分离论",
-      "善治分离论",
-      "Separation of Politics and Pedagogy",
-      "Severability Principle in Educational Borrowing",
-      "Severability of Governance and Pedagogy"
-    ]
-  },
-  {
     "title": "Agglomeration Externalities",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Agglomeration Externalities.md",
@@ -9350,6 +9340,16 @@
       "集聚经济",
       "Agglomeration Economies",
       "空间集聚外部性"
+    ]
+  },
+  {
+    "title": "AI Deterrence",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/AI Deterrence.md",
+    "aliases": [
+      "人工智能威慑",
+      "算法威慑",
+      "Algorithmic Deterrence"
     ]
   },
   {
@@ -9426,6 +9426,18 @@
       "官僚科层制",
       "科层官僚制",
       "层级科层制"
+    ]
+  },
+  {
+    "title": "Century of Humiliation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Century of Humiliation.md",
+    "aliases": [
+      "百年屈辱史",
+      "百年屈辱",
+      "百年国耻",
+      "百年国耻史",
+      "Hundred Years of Humiliation"
     ]
   },
   {
@@ -23481,14 +23493,6 @@
     ]
   },
   {
-    "title": "Kerstin Martens",
-    "type": "person",
-    "path": "wiki/persons/de/Kerstin Martens.md",
-    "aliases": [
-      "克里斯汀·马滕斯"
-    ]
-  },
-  {
     "title": "Bengt-Åke Lundvall",
     "type": "person",
     "path": "wiki/persons/denmark/Bengt-Åke Lundvall.md",
@@ -23497,6 +23501,15 @@
       "伦德瓦尔",
       "Lundvall, B.-Å.",
       "Bengt-Ake Lundvall"
+    ]
+  },
+  {
+    "title": "Christian Ydesen",
+    "type": "person",
+    "path": "wiki/persons/denmark/Christian Ydesen.md",
+    "aliases": [
+      "克里斯蒂安·伊德森",
+      "Christian Valdemar Ydesen"
     ]
   },
   {
@@ -23554,15 +23567,6 @@
       "托马斯·奥斯特鲁普·勒默",
       "托马斯·罗默",
       "Thomas Rømer"
-    ]
-  },
-  {
-    "title": "Christian Ydesen",
-    "type": "person",
-    "path": "wiki/persons/dk/Christian Ydesen.md",
-    "aliases": [
-      "克里斯蒂安·伊德森",
-      "Christian Valdemar Ydesen"
     ]
   },
   {
@@ -24010,6 +24014,14 @@
       "哈贝马斯",
       "J. Habermas",
       "Habermas, J."
+    ]
+  },
+  {
+    "title": "Kerstin Martens",
+    "type": "person",
+    "path": "wiki/persons/germany/Kerstin Martens.md",
+    "aliases": [
+      "克里斯汀·马滕斯"
     ]
   },
   {
@@ -24615,14 +24627,6 @@
     ]
   },
   {
-    "title": "Jarl Bengtsson",
-    "type": "person",
-    "path": "wiki/persons/se/Jarl Bengtsson.md",
-    "aliases": [
-      "雅尔·本特森"
-    ]
-  },
-  {
     "title": "Goh Keng Swee",
     "type": "person",
     "path": "wiki/persons/singapore/Goh Keng Swee.md",
@@ -24681,6 +24685,14 @@
       "Alfred Bernhard Nobel",
       "阿尔弗雷德·诺贝尔",
       "阿尔弗雷德·伯恩哈德·诺贝尔"
+    ]
+  },
+  {
+    "title": "Jarl Bengtsson",
+    "type": "person",
+    "path": "wiki/persons/sweden/Jarl Bengtsson.md",
+    "aliases": [
+      "雅尔·本特森"
     ]
   },
   {
@@ -37949,6 +37961,11 @@
     "title": "Argument_Cai_Gao_Liu_2025_HE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education/Argument_Cai_Gao_Liu_2025_HE.md"
+  },
+  {
+    "title": "Argument_Chou_Demiryol_2024_HE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
   },
   {
     "title": "Argument_Schulze-Cleven_2017_HE",

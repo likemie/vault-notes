@@ -33,6 +33,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Telling China's Story Well]]"
   - "[[Community of Shared Future for Mankind]]"
+  - "[[Century of Humiliation]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
@@ -84,7 +85,7 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -157,7 +158,7 @@ sources:
 > |------|----------------|
 > | **文本层框架分析** | 对两份基础性核心政策文本展开探索性与迭代式主题分析，提取诊断性、处方性与激励性三类框架要素。（pp. 681–684） |
 > | **[[Discourse\|话语实践]]互文性分析** | 纳入6份关联性宏观政策文本与领导层演讲，通过考察互文性（Intertextuality）与[[Interdiscursivity\|互话语性]]（Interdiscursivity），透视驱动力、推进工具与价值导向。（pp. 684–687） |
-> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]]与[[Retroduction\|逆推溯因]]逻辑，深入[[Discursive Field\|话语场域]]中的中国政治体制、百年屈辱史、[[National Rejuvenation Narrative\|民族复兴叙事]]及[[Beijing Consensus\|北京共识]]对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
+> | **宏观社会学生态批判** | 结合[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]]与[[Retroduction\|逆推溯因]]逻辑，深入[[Discursive Field\|话语场域]]中的中国政治体制、[[Century of Humiliation\|百年屈辱史]]、[[National Rejuvenation Narrative\|民族复兴叙事]]及[[Beijing Consensus\|北京共识]]对[[Washington Consensus\|华盛顿共识]]的替代诉求，解构教育战略的制度成因。（pp. 687–692） |
 
 > [!matrix-table]- 纳入分析的核心政策文本矩阵
 > <span class="scrollable-table-marker" aria-hidden="true"></span>
@@ -289,7 +290,7 @@ sources:
 教育政策的正当性根植于当代中国的历史创伤叙事与大国崛起抱负，成为连接国内政治合法性与国际治理竞争的关键纽带。
 
 > [!chain-link] 宏观社会治理与地缘政治合法化因果推导链
-> - **历史前提：百年屈辱与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。（pp. 687–688）
+> - **历史前提：[[Century of Humiliation|百年屈辱]]与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。（pp. 687–688）
 > - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为民族复兴的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。（p. 688）
 > - **全球抱负：推广[[China Solution|中国方案]]并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打南南合作与[[Community of Shared Future for Mankind|命运共同体]]，积极输出发展型国家治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。（pp. 688–691）
 > - **结论：教育作为新型治理话语与[[Knowledge Diplomacy|知识外交]]的制度化传输网络** 一带一路跨国高等教育布局不仅承载[[Soft Power|软实力]]投射，更借由[[Knowledge Diplomacy|知识外交]]的合作网络向发展中国家传播中国发展经验、培养知华友华技术与管理精英。（pp. 691–692）

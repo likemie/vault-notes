@@ -4,8 +4,8 @@ aliases:
   - 雅尔·本特森
 summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CERI）资深项目主管与实际掌舵人（1971–2002）。领导 CERI 历经从 1970 年代人文主义“循环教育”（Recurrent Education）向 1980 年代跨国教育指标体系（INES 项目）及 1992 年首版《教育概览》（EAG）的战略转型，并在 1990 年代强力推动跨国学生学业测评开发，被史学界公认为经合组织从冷战经济协调机构重塑为全球量化教育指标与评估帝国的幕后关键操盘手。"
 type: person
-nationality: "se"
-person_region: "se"
+nationality: "sweden"
+person_region: "sweden"
 person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Jarl Bengtsson
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > - **1992–2002 — 成果导向与跨国评价帝国（[[PISA]]）的孵化** 坚信没有真实技能评估的指标体系是不完整的，力排众议将大规模跨国测评纳入 OECD 常态业务体系。
 >   - **代表著作** *[[Centre for Educational Research and Innovation\|CERI]]: Forty Years of Educational Innovation and Research* (OECD, 2008)。
 >   - **关键概念／方法** [[PISA]]、[[Governing by Numbers\|governance by numbers]]、[[Soft Power by Hard Facts]]。
->   - **阶段转向** 成功将 OECD 打造为超越任何主权政府与国际机构的全球超级[[Knowledge Mediation\|知识中介]]，奠定后冷战时期数字治理 2.0 的全部技术底座。
+>   - **阶段转向** 成功将 OECD 打造为超越任何主权政府与国际机构的全球超级[[Knowledge Mediation\|知识中介]]，奠定后冷战时期数字治理 2.0 的全部技术基础。
 
 ---
 
@@ -125,7 +125,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 跨国教育治理的权威并不取决于强制性的国际法指令，而取决于国际组织能否建立起一套被成员国技术官僚广泛接受、具备高度[[Commensuration\|通约]]性与政治防御力的比较统计指标。通过将教育改革的[[Problem Finding\|问题界定]]权嵌入指标编制规程中，国际组织得以在看似纯粹的技术合作网络中重塑主权国家的教育发展优先序。正是指标的去语境化与客观科学外观，使数字成为支撑公共政策[[Façade of Rationality\|理性表象]]的强韧[[Scaffolding\|脚手架]]。
 
-> [!citation-card] 本特森论指标网络作为国际治理的核心杠杆
+> [!citation-card] 本特森论指标网络作为国际治理的核心工具
 > 如果一个国际组织无法拿出让财政部与首相办公室信服的跨国硬事实，那么教育部门在国家预算分配与长远战略决策中将永远沦为无关痛痒的边缘配角。指标不仅是在描述教育，更是在为民族国家在充满不确定性的未来经济中寻找立足点提供政治脚手架。转引自 [[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 581–583)]]
 >
 > *If an international organisation cannot produce hard transnational facts that convince finance ministries and prime ministers' offices, education will forever remain an irrelevant subsidiary actor in national budgetary allocations and long-term strategic decisions. Indicators do not merely describe education; they provide the political scaffolding for nation-states seeking footing in an uncertain economic future.*
@@ -150,7 +150,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
-> - **师承／合作者** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
+> - **师承／合作关系** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
 > - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
 > - **机构／运动／项目** [[OECD]] / CERI — 本特森奉献 31 年青春的核心机构。
 > - **史学研究者** [[Christian Ydesen]] — 系统发掘本特森领导 CERI 历史档案的当代领衔学者。

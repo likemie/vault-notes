@@ -11,7 +11,7 @@ aliases:
   - Severability of Governance and Pedagogy
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
-domain: "policy-borrowing"
+domain: "comparative-education"
 related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Severability of Politics and Pedagogy
@@ -131,7 +131,7 @@ updated: 2026-10-16
 > 探讨如何防止借用威权经验导致本国民主体制的退化。
 
 > [!claim] [[Calvin Stowe|Stowe, C. E.]]
-> **坦承专制危险与坚持能动转化** 卡尔文·斯托在向俄亥俄州议会提交的[[Education in Europe|欧洲教育考察报告]]中坦诚直言，普鲁士的全部国家教育工程确实带有强化君主专制、奴化臣民思想的政治图谋；然而他严正反驳保守派关于“拒绝借用”的主张，指出明智的借用者绝不盲从制度的全部附带物，而是在清醒洞察其专制危害的前提下，利用民主制度的[[Open-Mindedness|开放性]]对其进行工具性剥离与共和再造，使之成为服务平民子弟智力崛起的有力武器。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 125)]]
+> **坦承专制危险与坚持能动转化** 卡尔文·斯托在向俄亥俄州议会提交的[[Education in Europe|欧洲教育考察报告]]中坦诚直言，普鲁士的全部国家教育工程确实带有强化君主专制、奴化臣民思想的政治图谋；然而他严正反驳保守派关于“拒绝借用”的主张，指出明智的借用者在清醒洞察其专制危害的前提下，避免盲从制度的全部附带物，并利用民主制度的[[Open-Mindedness|开放性]]对其进行工具性剥离与共和再造，使之成为服务平民子弟智力崛起的有力武器。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 125)]]
 
 ---
 

@@ -80,11 +80,11 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 方法定义
-> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）** 取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
+> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 确立了**过程性的“建构案例”（casing）** 取向，强调案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 深度嵌入全球与区域网络、跨越多重空间尺度且随历史演进的教育政策、制度革新、多边治理项目及微观课堂实践。
-> - **问题类型** 全球化模式在地方的转化、协商与抵制机制；超国家规约与民族[[State Educational Sovereignty|国家教育主权]]的再谈判；跨越不同地缘环境的政策混合体（policy-mix）比较。
+> - **问题类型** 全球化模式在地方的转化、协商与抵制机制；超国家规制与民族[[State Educational Sovereignty|国家教育主权]]的再谈判；跨越不同地缘环境的政策混合体（policy-mix）比较。
 > - **[[Unit of Analysis|分析单位]]** 跨尺度的网络节点，涵盖微观教室与社区行动者、中观地方与国家行政机构，以及宏观超国家经贸与金融组织。
 > - **输出形式** 三维比较案例矩阵、多标度[[Policy Mobility|政策流动]]图景、历时生成性制度叙事与[[Rich and Thick Description|深描]]案例集。
 
@@ -98,7 +98,7 @@ updated: 2026-10-19
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例并非“自然存在”的实体，而是研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及[[World-Systems Theory|世界体系分析]]高度契合。
+> - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例属于研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及[[World-Systems Theory|世界体系分析]]高度契合。
 > - **研究者角色** 跨尺度政策追踪者与多地点[[Reflexivity|反思性]]对话者，既保持宏观体系的政治经济学洞察，又扎根微观实地开展[[Rich and Thick Description|深描]]，秉持兼顾全球规范与本土能动的“双重视野”（double vision；Anderson-Levitt, 2003; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
 > - **有效性标准** 垂直跨尺度追踪的链条完整性、水平地点的复杂连接性、横贯历史脉络的解释融贯性与多源证据的[[Triangulation|三角互证]]。
 > - **不声称回答的问题** 不用于孤立[[Variable|变量]]的实验室因果[[Effect Size|效应量]]测量；不追求脱离社会历史情境的统计总体普适推论。
@@ -127,7 +127,7 @@ updated: 2026-10-19
 > [!proc] CCS 的三轴协同研究程序
 > 1. **界定“案例生成”（Casing）** 明确拟解释的复杂教育或政策现象，打破单一行政边界设定，识别涉及的核心空间尺度与制度节点。
 > 2. **水平选点与连接性考量** 遴选两个或多个具有内在社会连接与对比价值的实地场景，建立跨地点的田野进入路径。
-> 3. **垂直跨尺度资料搜集与追踪** 从超国家规约（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]、[[World Bank|世界银行]]方案）顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的[[Qualitative Observation|田野观察]]与访谈。
+> 3. **垂直跨尺度资料搜集与追踪** 从超国家规制（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]、[[World Bank|世界银行]]方案）顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的[[Qualitative Observation|田野观察]]与访谈。
 > 4. **嵌入横贯历史脉络** 收集历史档案与政策沿革材料，明确案例现象所处的历史发展阶段与宏观结构变迁。
 > 5. **三轴协同综合分析与撰写** 在分析每一具体政策事实时，同时保持跨地点对比、跨尺度穿透与历时追溯的“同时性”审视，揭示全球与本土辩证互动的深层机制。
 
@@ -137,7 +137,7 @@ updated: 2026-10-19
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - 分析**边界模糊、多尺度交织**的现象——如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规约在地方的转化。
+>   - 分析**边界模糊、多尺度交织**的现象——如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规制在地方的转化。
 >   - 考察**全球与本土辩证互动**——当研究旨在揭示全球同质化[[Discourse|话语]]如何在微观学校遭遇变通、抵制与重构时（如 Arnove 2009 评述的多国比较案例）。
 >   - 跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。
 > - **谨慎使用**

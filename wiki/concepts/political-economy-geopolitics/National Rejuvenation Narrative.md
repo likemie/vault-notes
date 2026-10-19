@@ -10,7 +10,7 @@ aliases:
 summary: "中国当代内政与对外战略中的核心政治与历史叙事，与百年屈辱史构成孪生叙事结构，将国家经济繁荣与跨国制度投射确立为洗雪历史屈辱、重现文明荣光的正当性依据"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - theme/critical-policy
   - region/china
 related_concepts:
+  - "[[Century of Humiliation]]"
   - "[[Telling China's Story Well]]"
   - "[[China Solution]]"
   - "[[Knowledge Diplomacy]]"
@@ -44,7 +45,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> 民族复兴叙事（National Rejuvenation Narrative，主要表现为“中华民族伟大复兴”政治话语）是中国当代内政哲学与对外战略中的主导性历史叙事与意识形态构念。在批判性政策话语分析（Critical Discourse Analysis, CDA）视域下，该叙事与“百年屈辱”（Hundred Years of Humiliation）历史创伤叙事构成镜像孪生关系，以近代列强侵略至1949年中华人民共和国成立的历史为对照基准，将经济持续高增长、两个一百年奋斗目标与大国地位重构确立为弥补历史不公的必然路径。在跨国政策与教育出海实践中，该叙事赋予国家主导的对外资源整合与全球治理参与以深层的历史合法性与文明复归修辞。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
+> 民族复兴叙事（National Rejuvenation Narrative，主要表现为“中华民族伟大复兴”政治话语）是中国当代内政哲学与对外战略中的主导性历史叙事与意识形态构念。在批判性政策话语分析（Critical Discourse Analysis, CDA）视域下，该叙事与[[Century of Humiliation|百年屈辱]]（Hundred Years of Humiliation）历史创伤叙事构成镜像孪生关系，以近代列强侵略至1949年中华人民共和国成立的历史为对照基准，将经济持续高增长、两个一百年奋斗目标与大国地位重构确立为弥补历史不公的必然路径。在跨国政策与教育出海实践中，该叙事赋予国家主导的对外资源整合与全球治理参与以深层的历史合法性与文明复归修辞。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将近代国家创伤体验与当代大国崛起目标融为一体的宏观历史意识形态建构。

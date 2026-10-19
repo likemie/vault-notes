@@ -5,8 +5,8 @@ aliases:
   - Christian Valdemar Ydesen
 summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大学高级研究学者，当代国际组织历史制度主义与量化教育治理代表学者。开创全球教育治理复合体（Global Education Governing Complex）研究，系统剖析战后经合组织（OECD）、教科文组织与世界银行在地缘竞争中的权力分工与指标规制；在《数字治理 2.0》（Steiner-Khamsi et al., 2024）中阐释冷战危机动员向硬事实软权力霸权演进的制度逻辑。"
 type: person
-nationality: "dk"
-person_region: "dk"
+nationality: "denmark"
+person_region: "denmark"
 person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Christian Ydesen
@@ -126,7 +126,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球教育治理并非追求普遍人类福祉的自发技术演进，而是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
+> 全球教育治理是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
 
 > [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的[[Historical Institutionalism|历史制度主义]]定性
 > 全球教育治理复合体是由理念、制度惯性、统计技术网络与资本流动共同构筑的权力拓扑结构；它跨越了传统的主权边界与国际组织法定管辖权，将教育彻底重构为全球经济竞争与资本积累的从属机能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
@@ -152,10 +152,10 @@ updated: 2026-10-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Gita Steiner-Khamsi]] — 长期学术合作者，共同推进[[Policy Borrowing\|政策借用]]与借用理论在[[Governing by Numbers\|数字治理]] 2.0 时代的深化。
-> - **师承／合作者** [[Kerstin Martens]] — 国际关系与全球社会政策合作者，共同探索多边组织涉足教育的法定授权机制。
-> - **师承／合作者** Maren Elfert — 合作撰写《全球教育治理》（2023），系统重构 [[UNESCO]] 与[[World Bank\|世界银行]]/[[OECD]] 的六十年博弈史。
-> - **师承／合作者** Sotiria Grek — 合作撰写《经合组织在教育领域的历史性崛起》（2019），开创治理复合体分析架构。
+> - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术合作伙伴，共同推进[[Policy Borrowing\|政策借用]]与借用理论在[[Governing by Numbers\|数字治理]] 2.0 时代的深化。
+> - **师承／合作关系** [[Kerstin Martens]] — 国际关系与全球社会政策研究合作伙伴，共同探索多边组织涉足教育的法定授权机制。
+> - **师承／合作关系** Maren Elfert — 合作撰写《全球教育治理》（2023），系统重构 [[UNESCO]] 与[[World Bank\|世界银行]]/[[OECD]] 的六十年博弈史。
+> - **师承／合作关系** Sotiria Grek — 合作撰写《经合组织在教育领域的历史性崛起》（2019），开创治理复合体分析架构。
 > - **批评者／论敌** [[Andreas Schleicher]] — OECD 指标帝国的主要掌舵人，其技术官僚中立叙事是 Ydesen 历史社会学批判的直接对话靶标。
 > - **机构／运动／项目** [[OECD]] — 其[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）及指标部门的制度史构成 Ydesen 毕生研究的中心档案库。
 
