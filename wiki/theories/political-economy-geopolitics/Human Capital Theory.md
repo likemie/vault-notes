@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 81
+theory_related_count: 82
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -105,10 +105,11 @@ related_arguments:
   - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # Human Capital Theory
@@ -345,6 +346,12 @@ updated: 2026-10-18
 > >
 > > - **世界银行人力资本范式（World Bank, 1995; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 宣称人力资本理论具有无可匹敌的广度与严谨性（no genuine rival of equal breadth and rigor），将教育投资完全对齐于劳动生产率与宏观增长资本，通过社会收益率测算推行成本效益主导的标准化干预与教师开支压减。
 > > - **教科文组织人文主义批判（Mayor et al., 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 强烈抗议将“人类发展”等同于“人力资源开发”，主张人本身即是发展的终极目的，经济目标必须全面从属于人的自我完善与福祉，坚决抵制将人工具化为经济生产要素。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
+>
+> > [!axis] 长周期人力资本技能培训 vs 工作优先快速就业（循证规程下的因果评估赤字）
+> > 围绕在积极劳动力市场与福利改革中，应当优先投资于长周期的教育培训以积累长效人力资本，还是推行“工作优先”策略以快速脱离救济，以及两类模式在跨国政策借用中遭遇的实证评价门槛展开交锋。
+> >
+> > - **人力资本技能培训学派与北欧模式** 瑞典等北欧福利国家主张通过长周期的人力资本投资、深度技能培训与公共教育支持，从根本上重塑失业者的职业技能与长效生产力。
+> > - **工作优先模式与循证因果评估壁垒（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 英国新工党跨国搜寻福利与就业改革范式时，瑞典的人力资本深度培训模式因缺乏严密的[[Random Assignment|随机对照试验]]（RCT）或匹配比较组等衡量因果净影响（impact）的实证数据，被英国决策官员直接否决（ruled out）；英国政府转而全面借用拥有 MDRC 严密随机实验数据的美国“工作优先”（work-first）快速就业模式。这揭示出在[[Evidence-Based Policy-Making|循证决策]]机会结构下，长周期人力资本培训方案面临因果实证测度壁垒与即时证据赤字，易在追求立竿见影政绩的跨国政策竞争中被短期干预模式挤压淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 341)]]
 
 > [!citation-card] 教科文组织论人本身即是发展的终极目的
 > 必须避免将人类发展等同于人力资源开发……关键在于将人视为发展的终极目的本身，而非实现经济目标的工具或手段；经济目标必须从属于人的自我完善与福祉。（Mayor et al., 1997, p. 89；引自 [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）
@@ -371,5 +378,6 @@ updated: 2026-10-18
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — [[Learning Crisis|全球学习危机]]与教师教学质量观察工具手册，揭示初等教育入学率扩张与实质人力资本积累脱节的“学习贫困”机制，确立微观课堂[[Effective Teaching|有效教学]]行为对打破发展中国家学业鸿沟的核心决定作用。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察世行等国际组织如何以人力资本理论及社会收益率测算为无可替代的理论正统，将教学有效性窄化为成本效益，引发[[UNESCO|教科文组织]]人本主义反弹。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合奥古斯丁神学目光的世俗化演进与全景视差分析，批判将教育异化为新自由主义人力资本积累与终身学习经济规训的眼球中心主义范式。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党福利改革跨国借用实践，揭示瑞典基于人力资本理论的深度技能培训方案因缺乏随机对照试验因果评估数据而被决策官员直接否决，输给美国“工作优先”随机实验项目的循证筛选机制。
 
 ---
