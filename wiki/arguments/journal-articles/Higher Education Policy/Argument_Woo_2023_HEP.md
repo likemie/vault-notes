@@ -31,9 +31,11 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Retroduction]]"
   - "[[Scientific Explanation]]"
+  - "[[Telling China's Story Well]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
+  - "[[Education Going Global]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Social Imaginary]]"
@@ -60,6 +62,7 @@ related_persons:
   - "[[Stephen Ball]]"
 related_facts:
   - "[[Belt and Road Education Action Plan]]"
+  - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Luban Workshop]]"
   - "[[China Scholarship Council]]"
@@ -77,7 +80,7 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -128,7 +131,7 @@ sources:
 >     subgraph Practice ["话语实践分析"]
 >         P1["政策驱动力<br>（最高领导人演讲、发改委顶层规划）"]
 >         P2["推进工具<br>（高教科技协同、高职产能出海）"]
->         P3["政策价值<br>（新时代对外开放、讲好中国故事）"]
+>         P3["政策价值<br>（新时代对外开放、[[Telling China's Story Well|讲好中国故事]]）"]
 >         P1 --- P2 --- P3
 >     end
 >     subgraph Text ["文本层框架分析"]
@@ -164,7 +167,7 @@ sources:
 > | 《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》 | 国家发改委、外交部、商务部，2015年3月 | 各部委、省级政府、央企与民营企业 | 全球化与多极化背景下的全方位国家对外开放顶层规划与经济走廊设计 | 设立中国政府奖学金并提出教育合作作为民心相通纽带（pp. 684–685, 694） |
 > | 《高等职业教育创新发展行动计划（2015—2018年）》 | 中华人民共和国教育部，2015年10月 | 专科层次高等职业院校与应用技术大学 | 推动职业教育现代化与质量提升，促进专业设置与产业产能走出去紧密对接 | 规范职业院校境外办学与实训基地建设，服务沿线重大工程（pp. 685–686, 695） |
 > | 《高等学校科技创新服务“一带一路”倡议行动计划》 | 中华人民共和国教育部，2018年11月 | 75所直属重点大学及地方研究型高校、科研院所 | 建立技术创新合作平台，推动科研商业化转移与科技人才跨国双向流动 | 强化中国顶尖大学在高端科技合作与重大工程研发中的引领地位（pp. 685–686, 696） |
-> | 《关于做好新时期教育对外开放工作的若干意见》 | 中共中央办公厅、国务院办公厅，2016年4月 | 全国各高校、各部委及各省直机关 | 强调党对教育的全面领导，将教育对外开放与两个一百年奋斗目标紧密绑定 | 新时代教育元治理纲领，确立教育服务大国外交与讲好中国故事的政治导向（pp. 686–687, 695） |
+> | 《关于做好新时期教育对外开放工作的若干意见》 | 中共中央办公厅、国务院办公厅，2016年4月 | 全国各高校、各部委及各省直机关 | 强调党对教育的全面领导，将教育对外开放与两个一百年奋斗目标紧密绑定 | 新时代教育元治理纲领，确立教育服务大国外交与[[Telling China's Story Well\|讲好中国故事]]的政治导向（pp. 686–687, 695） |
 
 ---
 
@@ -181,18 +184,18 @@ sources:
 
 ---
 
-### 论证步骤一　官方文件将教育出海塑造为互利平等的共赢事业
+### 论证步骤一　官方文件将[[Education Going Global|教育出海]]塑造为互利平等的共赢事业
 
 > [!claim] 步骤一核心主张
-> 政策文本通过指认沿线国家的人才匮乏困境，推出全方位的制度协同方案，并赋予命运共同体的高尚道义，将国家主导的教育出海包装为互利共赢的区域发展事业。（pp. 683–684）
+> 政策文本通过指认沿线国家的人才匮乏困境，推出全方位的制度协同方案，并赋予命运共同体的高尚道义，将国家主导的[[Education Going Global|教育出海]]包装为互利共赢的区域发展事业。（pp. 683–684）
 
 #### 1. 借人才匮乏与共同繁荣确立跨国教育正当性
 
-教育部于2016年正式印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，并通过专题新闻发布会发布官方解读，从问题诊断、方案供给到价值动员完整确立了教育行动的合法性。
+教育部于2016年正式印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，作为[[Belt and Road Initiative|“一带一路”倡议]]在教育领域的实施方案，并通过专题新闻发布会发布官方解读，从问题诊断、方案供给到价值动员完整确立了教育行动的合法性。
 
 > [!dimension] 基础政策文本的[[Discourse|话语]]框架三重视角
 > - **[[Policy Framing|诊断性框架]]（Diagnostic Framing）**
->   将沿线国家政策沟通脱节、学历学分缺乏互认、重大工程专业技术人才短缺定性为关键瓶颈，确立教育出海不可替代的攻坚地位。（p. 683）
+>   将沿线国家政策沟通脱节、学历学分缺乏互认、重大工程专业技术人才短缺定性为关键瓶颈，确立[[Education Going Global|教育出海]]不可替代的攻坚地位。（p. 683）
 > - **处方性框架（Prognostic Framing）**
 >   开出整套行动清单，涵盖设立丝绸之路中国政府奖学金、建设境外合作办学机构、组建跨国高校联盟，并在语言、交通、基建、能源、水利与医药等急需专业开展定向联合培养。（pp. 683–684）
 > - **激励性框架（Motivational Framing）**
@@ -248,7 +251,7 @@ sources:
 > |---|---|---|---|
 > | **政策驱动力** | 沿线国家自发的人文交流愿望与教育现代化诉求 | 领导人战略擘画引领，发改委等宏观统筹机构主导的跨部门国家任务 | 领导人演讲与发改委《愿景与行动》确立了话语权威与政治授权（pp. 684–685） |
 > | **推进工具** | 互惠平等的校际学术交流与学生双向自由流动 | 研究型大学承担高精尖科技创新与智库服务，高职院校伴随基建产能出海输出技能标准 | 《科技创新行动计划》聚焦高新技术攻关，《职教行动计划》定向培训现场劳动力（pp. 685–686） |
-> | **政策价值** | 无私援助、文明互鉴与纯粹的多边利他主义 | 强调讲好中国故事、动员留学生宣介中国道路与中国治理模式的意识形态工具化 | 《新时期教育对外开放意见》明确要求教育服务两个一百年奋斗目标（pp. 686–687） |
+> | **政策价值** | 无私援助、文明互鉴与纯粹的多边利他主义 | 强调[[Telling China's Story Well\|讲好中国故事]]、动员留学生宣介中国道路与中国治理模式的意识形态工具化 | 《新时期教育对外开放意见》明确要求教育服务两个一百年奋斗目标（pp. 686–687） |
 
 不同层级政策之间的互文指引表明，教育系统被整编入国家高水平对外开放的全局格局，其学术功能深度服务于产业产能跨国拓展的现实需求。
 
@@ -361,7 +364,7 @@ sources:
 > *China’s governing model is more appealing to the developing world and some of the middle-sized powers than America’s market-democratic model. Given a choice between market democracy and its freedoms and market authoritarianism and its high [[Growth]], stability, improved living standards, and limits on expression—a majority in the developing world and many middle-sized, non-western powers prefer the authoritarian model.*
 
 > [!citation-card] 教育在新时代意识形态中的战略推进工具属性（MOE, 2016）
-> 在新时代思想范畴内，教育与一带一路皆是实现政治目标与国家抱负的有力推进工具。教育在人文交流中的职能强调讲好中国故事，以及动员广大海外留学人员积极宣介中国发展成就、广泛动员外籍师生宣介中国模式。这种号召与政策文件中宣扬的教育纯粹互惠与良性合作形成了鲜明对照。（p. 686）
+> 在新时代思想范畴内，教育与一带一路皆是实现政治目标与国家抱负的有力推进工具。教育在人文交流中的职能强调[[Telling China's Story Well|讲好中国故事]]，以及动员广大海外留学人员积极宣介中国发展成就、广泛动员外籍师生宣介中国模式。这种号召与政策文件中宣扬的教育纯粹互惠与良性合作形成了鲜明对照。（p. 686）
 >
 > *Within the realm of the New Era ideology, education and the BRI are tools to fulfill the CCP's political goals and aspirations. Education's role in social-cultural exchanges emphasizes 'telling the China story well' and 'patriotic Chinese overseas students actively promoting the achievements of China's development, and actively mobilizing foreign students and teachers in China to spread the China model.'*
 

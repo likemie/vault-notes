@@ -7413,6 +7413,21 @@
     ]
   },
   {
+    "title": "Education Going Global",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Education Going Global.md",
+    "aliases": [
+      "教育出海",
+      "教育走出去",
+      "高教出海",
+      "职教出海",
+      "Educational Going Global",
+      "Outbound Transnational Education",
+      "Outbound Cross-Border Education",
+      "Education Outbound"
+    ]
+  },
+  {
     "title": "Employability",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Employability.md",
@@ -10677,6 +10692,18 @@
       "技术驱动假设",
       "技术驱动产品",
       "Technology Driver"
+    ]
+  },
+  {
+    "title": "Telling China's Story Well",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Telling China's Story Well.md",
+    "aliases": [
+      "讲好中国故事",
+      "讲好中国故事传播好中国声音",
+      "Telling the China Story Well",
+      "Telling Chinese Stories Well",
+      "Tell China's Story Well"
     ]
   },
   {
@@ -28889,6 +28916,19 @@
       "自主无人机蜂群",
       "Swarm of Micro Flying Robots in the Wild",
       "浙大野外微型飞行机器人集群"
+    ]
+  },
+  {
+    "title": "Belt and Road Initiative",
+    "type": "fact",
+    "path": "wiki/facts/china/Belt and Road Initiative.md",
+    "aliases": [
+      "一带一路",
+      "一带一路倡议",
+      "BRI",
+      "丝绸之路经济带和21世纪海上丝绸之路",
+      "Belt and Road",
+      "One Belt One Road"
     ]
   },
   {
