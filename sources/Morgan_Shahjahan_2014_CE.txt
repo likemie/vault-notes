@@ -1,0 +1,721 @@
+--- PAGE 1 ---
+Comparative Education
+ISSN: 0305-0068 (Print) 1360-0486 (Online) Journal homepage: www.tandfonline.com/journals/cced20
+The legitimation of OECD's global educational
+governance: examining PISA and AHELO test
+production
+Clara Morgan & Riyad A. Shahjahan
+To cite this article: Clara Morgan & Riyad A. Shahjahan (2014) The legitimation of OECD's
+global educational governance: examining PISA and AHELO test production, Comparative
+Education, 50:2, 192-205, DOI: 10.1080/03050068.2013.834559
+To link to this article:  https://doi.org/10.1080/03050068.2013.834559
+Published online: 17 Apr 2014.
+Submit your article to this journal 
+Article views: 1718
+View related articles 
+View Crossmark data
+Citing articles: 5 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cced20
+--- PAGE 2 ---
+The legitimation of OECD ’s global educational governance:
+examining PISA and AHELO test production
+Clara Morgana* and Riyad A. Shahjahan b
+aCarleton University, Institute of Interdisciplinary Studies, Ottawa, Ontario, Canada;
+bMichigan State University, East Lansing, MI, USA
+Although international student assessments and the role of international
+organisations (IOs) in governing education via an evidence-based educational
+policy discourse are of growing interest to educational researchers, few have
+explored the complex ways in which an IO, such as the OECD, gains
+considerable in ﬂuence in governing education during the early stages of test
+production. Drawing on a comparative analysis of the production of two
+international tests – the Programme for International Student Assessment (PISA)
+and the Assessment of Higher Education Learning Outcomes (AHELO) – we
+show how the OECD legitimises its power, and expertise, and de ﬁnes ‘what
+counts’ in education. The OECD deploys three mechanisms of educational
+governance: (1) building on past OECD successes; (2) assembling knowledge
+capacity; and (3) deploying bureaucratic resources. We argue that the early
+stages of test production by IOs are signi ﬁcant sites in which the global
+governance of education is legitimated and enacted.
+Introduction
+Educational scholars have increasingly recognised the growing in ﬂuence of inter-
+national comparative student assessments in the global governance of education
+(Meyer and Benavot 2013; Rizvi and Lingard 2010; Sellar and Lingard 2013). By gov-
+ernance, we refer to the act or process of governing that is not simply bounded by the
+nation state, but involves multiple actors and scales (i.e. global, national and local) in
+the policy production and implementation process (Rizvi and Lingard 2010). Grek and
+Ozga, for example, point to various modes of ‘soft governance’ such as data ﬂows, indi-
+cators and benchmarks ( 2010, 938). Others have recognised that international organis-
+ations (IOs) have contributed to the construction of educational indicators and to the
+diffusion of an evidence-based education culture which legitimises the use of compara-
+tive data as a policy tool for governing education (Henry et al. 2001; Pereyra, Kotthoff,
+and Cowen 2011). Alongside the increased involvement of IOs in shaping the edu-
+cational policy debate and setting the policy agenda, policy makers have come to
+rely on comparative data to inform educational reform. In the process, political auth-
+ority in education has shifted from the national to the supranational arena (Beech
+2009; Lingard and Rawolle 2011).
+Although scholars have examined processes of educational governance and some
+have studied the mechanisms deployed in these processes by IOs (Martens and
+Jakobi 2010; Rutkowski 2007), they have not closely examined such practices
+© 2014 Taylor & Francis
+*Corresponding author. Email: clara_morgan@carleton.ca
+Comparative Education, 2014
+Vol. 50, No. 2, 192 –205, http://dx.doi.org/10.1080/03050068.2013.834559
+
+--- PAGE 3 ---
+during the early stages of the design of student assessments by IOs. Most have analysed
+educational governance by focusing on the impact of the ﬁnal assessment tool at the
+national level (Beech 2006; Steiner-Khamsi 2003). Despite a ﬂurry of book-length pub-
+lications on the Programme of International Student Assessment (PISA) (e.g. Meyer
+and Benavot 2013; Morgan 2009; Pereyra, Kotthoff, and Cowen 2011) and a few
+journal articles on the International Assessment of Higher Education Learning Out-
+comes (AHELO) (Coates and Richardson 2011; Ewell 2012; Shahjahan 2013), we
+lack a thorough understanding of the complex ways in which the OECD enacts govern-
+ance during the production of its assessment tools. By focusing on the stages of assess-
+ment production, we gain insight into IOs ’ governance processes, such as techniques to
+instil certain forms of knowledge or to transfer educational practices from the suprana-
+tional to the national, deployed as the assessment is being built. Once the assessment is
+built, evaluation policies and practices have already been transferred by the IO to the
+participating country. Close attention to the process and techniques through which
+IOs construct tests can enhance our understanding of how IOs acquire the legitimate
+power to de ﬁne what counts in education.
+Building on the existing studies of international assessment tools, we ask how IOs
+establish their legitimate power and expertise during the initial production stages of
+AHELO and PISA. We will demonstrate that the OECD gains considerable in ﬂuence
+in governing education as it deploys three mechanisms of educational governance to
+inform what counts in education. These mechanisms, each embodying a set of
+complex practices and processes, include: (1) building on past successes; (2) assem-
+bling knowledge capacity; and (3) deploying bureaucratic resources.
+We begin by providing a brief overview of the OECD, and PISA and AHELO, its
+international assessment initiatives. Drawing on sociological institutionalism and the
+policy transfer literature, we elaborate the three mechanisms of educational governance
+deployed by the OECD. Employing comparative analysis, we then trace how each of
+these mechanisms is deployed by the OECD during the production stages of PISA
+and AHELO. We conclude by pointing to similarities and differences between PISA
+and AHELO and highlighting the ways in which each distinctively contributes to the
+growth in OECD in ﬂuence in the global educational governance arena.
+Brief overview of the OECD and its international assessment tools
+The OECD is simultaneously ‘a geographical entity, an organizational structure, a
+policy-making forum, and a network of policy makers, researchers and consultants ’
+(Henry et al. 2001, 7). It has 34 member countries including many of the world ’s
+wealthiest countries, but also emerging economies like Mexico, Chile and Turkey
+(OECD n.d.-a). The OECD ’s current mandate is to support economic growth,
+promote employment, assist countries in their drive to economic development, and
+advance world trade and democracy (Kallo 2009). The OECD is not a self-contained
+entity, but rather a vast network of policy circles and actors, including OECD staff,
+member countries, policy makers, consultants and researchers (Henry et al. 2001).
+The OECD lacks the economic clout of IOs such as the International Monetary
+Fund or the World Bank and the legislative capacity of regional organizations such
+as the European Union. Because the OECD ’s recommendations are non-binding for
+its member states, it has developed alternative processes, instruments and tools for
+transmitting and promoting uptake of policy ideas and expert advice. The OECD ’s
+policy in ﬂuence derives from its knowledge production capacities and subsequent
+Comparative Education 193
+--- PAGE 4 ---
+perception of the ‘quality of its information and analysis ’ (Schuller and Vincent-
+Lancrin 2009, 66). It enacts soft modes of regulation, including publication of compara-
+tive data such as educational and social indicators, and peer reviews involving country
+and thematic reviews (Kallo 2009). Furthermore, its in ﬂuence derives from demarcat-
+ing norms and practices that further liberal, market friendly, economic policies (Henry
+et al. 2001).
+Like others who take a constructivist approach to the study of IOs (see Barnett and
+Finnemore 1999; Ruggie 1998), we take an interest in how ‘IOs exercise power as they
+constitute and construct the social world ’ (Barnett and Finnemore 1999, 700). As
+OECD enacts global surveillance of educational developments, it has cast itself as an
+indispensable actor in educational policy development and a key generator of
+science-based educational policy (Meyer and Benavot 2013).
+The OECD has played a key role in the production and distribution of some of the
+most signiﬁcant international educational indicators and assessment tools used in edu-
+cational policy circles. In this paper, our analysis centres on two: PISA and AHELO.
+Launched in 1997, PISA is a triennial student assessment of 15-year-olds that has
+become a global benchmark of student achievement across educational systems.
+While 32 states participated in the initial PISA in 2000, by 2012, the number had
+climbed to 64. The OECD emphasises that PISA is not a curriculum-based assessment,
+but one that assesses students ’ knowledge and skills in reading, mathematics and
+science literacy (Meyer and Benavot 2013). A recent OECD publication on the
+impact of PISA concluded that, ‘PISA is becoming an in ﬂuential element of education
+policy making processes at the national level ’ (Breakspear 2012, 27).
+OECD’s more recently launched AHELO is an assessment that tests university stu-
+dents in their last year in a bachelors programme. The assessment is comprised of four
+instruments that test students ’ (a) generic skills, (b) disciplinary knowledge in econ-
+omics and engineering, (c) contextual information, and ﬁnally (d) a value-added
+strand (Ewell 2012). To date, 17 countries have participated in the AHELO feasibility
+study; in March 2013, the OECD convened a meeting to exchange ﬁndings regarding
+AHELO’s roll out. Should the feasibility study be deemed successful, the OECD envi-
+sions that AHELO will become a regular assessment of students enrolled in higher edu-
+cation institutions (see Shahjahan 2013; Shahjahan and Torres 2013).
+OECD’s mechanisms of global educational governance
+Before detailing the three mechanisms that characterise OECD governance processes,
+we wish to clarify terms and concepts that anchor our theoretical approach. First, we
+make use of the sociological term ‘mechanisms’ to identify and group a complex set
+of OECD governance processes. Second, we use the term ‘ﬁxing’ ideas to describe
+OECD governance processes that solidify previously ambiguous concepts among
+actors. Finally, in discussing the ‘diffusion
+’ of ideas, we point to the process
+through which the OECD spreads or disseminates its ideas among networks and
+policy circles.
+The ﬁrst mechanism of OECD governance sees the OECD building on its past
+successes. We show how the OECD creates and disseminates internally shared
+interpretations of the importance of educational benchmarks or student assessment.
+By building on its past successes, the OECD gains authority as an expert and a reliable
+resource for evidence-based education policy. These ‘successes’ play a key role in con-
+structing the OECD as an ‘authoritative voice’ (Barnett and Finnemore 1999, 710) in
+194 C. Morgan and R.A. Shahjahan
+--- PAGE 5 ---
+governing education. In the process, the diffusion of OECD ’s products and tools (here,
+PISA and AHELO) help embed a shared meaning and an educational assessment
+culture among participating states.
+The second mechanism underlying OECD governance is assembling knowledge
+capacity. In deploying this operational category, we draw on Haas ’s( 1989) work on
+epistemic communities to analyse the role of experts in the production of PISA and
+AHELO. As Barnett and Finnemore note, IOs gain autonomy by embodying a ‘techni-
+cal rationality’ (1999, 709). We suggest that the OECD created its own epistemic com-
+munities for these two assessments to strategically ensure validation of its technical
+expertise. Drawing on the policy transfer and policy diffusion scholarship, we identify
+how agents within these epistemic communities transfer ideas through both soft and
+hard policy transfer (Stone 1999). For our purposes, soft policy transfer encompasses
+the diffusion of ideas whereas hard policy transfer facilitates the diffusion of policy
+practices and instruments. In the case of the former, there is room for those agents
+(such as policy makers and educational experts) involved in policy transfer to adapt
+ideas to the local context. However, hard policy transfer entails a process of
+‘copying’ practices and instruments that leaves little room for adaptation by local
+agents (Stone 1999, 55). As we will show in our case studies of PISA and AHELO,
+a set of micro-practices in educational evaluation travel between supranational and
+local levels through both diffusion of ideas and direct copying.
+The third mechanism tied to the OECD ’s increasingly inﬂuential role in global edu-
+cational governance is the deployment of its bureaucratic resources (Dolowitz and
+March 1996). The OECD, as a bureaucracy comprised of mostly rich nations,
+derives power from its ‘rational-legal authority and control over expertise ’ (Barnett
+and Finnemore 1999, 707). OECD of ﬁcials are adept at capitalising on their bureau-
+cratic resources in order to achieve the organisation ’s goals. In our case studies of
+PISA and AHELO, we illustrate how OECD of ﬁcials leveraged the organisation ’s
+administrative structure to bolster the OECD ’s position as a think tank in global edu-
+cational governance.
+Our analysis draws on publicly available PISA and AHELO texts such as OECD ’s
+website, promotional materials and declassi ﬁed documents available on the website or
+provided to us by the OECD. The latter includes PISA and AHELO working papers,
+meeting minutes, seminar presentations, progress reports and newsletters. These docu-
+ments not only serve as a rich source of qualitative data for understanding policy
+process (Merriam 1998), but also highlight the OECD ’s intentional commitment to
+transparency about PISA and AHELO. We selected these documents based on their
+visibility and availability in the PISA debates (during June 1994 –March 2004) and
+AHELO debates (during May 2010 –February 2013). To uncover policy mechanisms
+and understand the players, discourses and decisions made at ground level, we coded
+PISA and AHELO meeting minutes, newsletters, interviews with various stakeholders
+and project updates.
+PISA and AHELO test production
+PISA
+Building on past successes
+To fully capture and understand how the OECD built on its past successes to set the
+stage for PISA, we begin our story with the creation of the International Indicators
+Comparative Education 195
+--- PAGE 6 ---
+and Evaluation of Educational Systems (INES) project, established by OECD in 1988.
+The formation of the INES project re ﬂected a commitment by a group of OECD
+member countries who ‘agreed to work together in the development of a set of inter-
+national educational indicators covering, in particular, student ﬂows, student outcomes,
+and costs and resources ’ (OECD 1988, 59). Through the INES project, the OECD
+created its ‘ﬂagship’ educational indicators publication, Education at a glance
+(EAG), ﬁrst published in 1992.
+The publication of EAG re ﬂected the outcome of a complex series of processes
+involving the ordering of educational knowledge. These processes encompassed the
+development of taxonomy to categorise educational indicators, the gathering of data
+for these categories from member states, and the implementation of a quality control
+process to ensure comparability of the data. As disseminator of EAG, OECD put in
+place the foundation for an educational system rooted ﬁrmly in indicators that
+measure student outcomes. More signi ﬁcantly, the EAG became a conduit for the
+OECD to inform educational decisions made by national policy makers and
+practitioners.
+The OECD ’s authority in governing education was reinforced when the INES
+project became a permanent component of OECD work in the mid-1990s. With this
+development, EAG was established as a regular OECD publication that required
+member states to commit resources to collect ‘reliable, valid, and comparable ’ edu-
+cational data to be presented in an accessible manner (OECD/INES 1995, 2). The
+importance that the OECD placed on gathering these educational indicators from its
+member states contributed to the ‘diffusion of an indicator culture within education
+circles’ (OECD/CERI, quoted in Henry et al. 2001, 89). In this way, the EAG
+became an important vehicle for diffusing and ﬁxing policy ideas about the importance
+of educational indicators for evidence-based policy and for creating a shared discourse
+on educational indicators among policy makers and educators. Amid the rising impor-
+tance of the EAG, the OECD next sought to ensure the reliability of the indicators gath-
+ered for this publication, focusing in particular on the quality of its comparative
+educational outcome data. This new interest would soon legitimise the need for an
+OECD-produced assessment, manifested as the PISA in the year 2000 when it was
+ﬁrst implemented.
+Within the INES project, a group of experts organised as ‘Network A’ were respon-
+sible for developing indicators on learning outcomes for EAG. Network A members
+were tasked with gathering data from various international student assessments but
+they were frustrated with the quality of the data being produced by the International
+Association for the Evaluation of Educational Achievement (IEA) suggesting that its
+data reporting mechanisms were ‘too expensive, too slow to report, [did] not cover
+enough domains, [and did] not involve enough OECD countries ’ (Owen, Hodgkinson,
+and Tuijnman 1995, 216). Network A members were also concerned with the fact that
+the OECD has little in ﬂuence or control over the testing schedule. In 1995, the OECD
+Education Committee and Network A members decided to develop their own regular
+and timely student assessment data to address the gaps that existed in the suite of learn-
+ing outcome data in the EAG. The stage was set for PISA. More crucially, the OECD
+very clearly articulated a problem (a gap in educational outcome data) and a clear
+solution to the problem (the production of its own data). The OECD transformed
+itself from a gatherer of educational indicators to a producer of educational data.
+This transformation built on the successful work of the INES project and its
+publication, EAG.
+196 C. Morgan and R.A. Shahjahan
+--- PAGE 7 ---
+Assembling knowledge capacity
+The OECD also derives its power in global educational governance by producing
+knowledge that is perceived to be science-based and objective. OECD accumulated
+this technical expertise by assembling a coalition of supporters and agents during the
+production stage of the PISA. OECD technical capacity was built through Network
+A members, expert representatives for their respective ministries of education. Many
+of these individuals were involved in the International Association for the Evaluation
+of Educational Achievement (IEA) and, thus, were well connected to a larger
+network. These members developed the Data Strategy for what would become an inter-
+national student assessment of 15-year-olds. In doing so, they contracted evaluation
+work to an agency or consortium of agencies through a tendering process in order to
+collect national data from participating states (OECD 1995). In calling for proposals
+for independent contractors to undertake the technical work of PISA, the OECD
+casts itself as an objective actor. However, every aspect of the contractor’s work is scru-
+tinised by the OECD bureaucrats as represented by the OECD Secretariat.
+Crucial to the success of the production of the assessment was the selection of the
+prime contractor who would ensure that all necessary technical requirements were met,
+including: Framework Development, Instrument Development, Sampling, Survey Pro-
+cedures and Operations, Data Veriﬁcation, Scaling and Preparing Data Product, Project
+Structure, and Management (OECD 1997a). The Board of Participating Countries
+(BPC), formed from the Network A INES project, selected the Australian Council
+for Educational Research (ACER) as the prime contractor, and the locus of knowledge
+in the educational assessment ﬁeld shifted away from the IEA to the OECD. This shift
+was monumental in the close-knit educational assessment community. Since the IEA ’s
+formation in 1958, it had trained some of the world ’s leading statisticians and psycho-
+metricians in international testing (Bottani and Vrignaud 2005) and prided itself on
+being an independent educational research organisation (Postlethwaite 1966, 356).
+More signi ﬁcantly, the OECD, via ACER, gained the knowledge capacity to create
+these international student assessments, and as will be evident in the case of
+AHELO, was able to extend this knowledge capacity to the production of higher edu-
+cation indicators.
+Not only did the OECD gain in technical knowledge capacity, it also built the
+necessary subject matter knowledge capacity during the production stages of the
+PISA. In de ﬁning the subject matter to be tested, OECD ’s functional expert groups
+ﬁxed and diffused ideas about what 15-year-olds should be learning. These expert
+groups, ‘link[ed] the policy objectives speciﬁed by the Board of Participating Countries
+with substantive and technical expertise’ and ‘establish[ed] consensus on subject matter
+and technical issues among countries ’ (OECD 1997b, 60). More importantly, members
+of these expert groups were effective in mobilising support and promoting the PISA
+within their larger networks of national and international experts.
+The production of the PISA involved developing domain frameworks in reading,
+mathematics and science, and formulating the questions that would measure students ’
+knowledge in these domains. These frameworks were important transmitters of the pri-
+orities of globalised educational discourse in their framing of student learning, not in
+terms of curricular knowledge but in terms of literacy skills (OECD 1998) – referring
+to a student ’s ability to apply their knowledge and skills in key subject areas (see for
+example, OECD 2006a, 2010a). Not only did they enfold assumptions about student
+learning, but the domain frameworks were also conduits of hard policy transfer in
+Comparative Education 197
+--- PAGE 8 ---
+their stipulation of the types of test items that should be written for each domain. These
+experts were advised to follow a speci ﬁc process to be replicated by each participating
+country: each test item was to be written so as to assess a set of explicit tasks. For
+example: the ability to grasp scienti ﬁc ideas was assessed based on the interpretation
+of a scienti ﬁc text; the ability to retrieve information from a text or from a graph
+was assessed based on answers to a set of questions related to a newspaper article;
+and mathematical problem-solving ability was assessed through application of a
+certain form of computation to a problem (OECD 2000). Through this form of edu-
+cational transfer, the practice of writing curriculum-based test items was supplanted
+by non-curricular and skills-based test items.
+The OECD assembles its knowledge capacity by reinforcing a globalised edu-
+cational discourse that values scienti ﬁc-based evidence over other forms of educational
+knowledge. At the same time, the OECD instils micro-practices tied to the construction
+of a speci ﬁc type of assessment which aims to measure what the OECD de ﬁnes as
+student ‘literacy’ skills. Even as they appear to be innocuous, these micro-practices
+pre-determine a literacy- or competency-based curriculum that furthers legitimates
+OECD expertise.
+Deploying bureaucratic resources
+Finally, the OECD ’si nﬂuence in global educational governance is strengthened by its
+ability to deploy its administrative structure to achieve its goals. When the OECD
+adopted production of indicators as ‘a core activity ’ in the mid-1990s (Henry et al.
+2001, 89), it also created a governance structure. Within the OECD ’s Directorate for
+Education, Employment, Labour, and Social Affairs, OECD ofﬁcials established a Stat-
+istical and Indicators Division that combined the resources of both the Centre for Edu-
+cational Research and Innovation (CERI) and the Education Committee. The OECD
+created the necessary bureaucratic structure to buttress its knowledge production role
+in education.
+Through a highly effective organisational process, the OECD guarantees the high
+quality standards and robustness of its assessment results during the production
+stages. During the early stages of PISA production, a committee comprised of
+members of INES project ’s Network A was created. This committee was initially
+known as the Board of Participating Countries (BPC) and was chaired by the American
+representative, Eugene Owen (OECD 1997b). The BPC was responsible for selecting
+the prime contractor and overseeing its work. As the PISA became more central to the
+OECD’s education policy work, the task of governing PISA was delinked from the
+INES project and relocated to the OECD ’s Education Directorate. By 2005, the BPC
+had become the PISA Governing Board and was largely composed of key educational
+decision makers from participating countries (OECD 2004). This re-organisation cen-
+trally located the PISA within OECD ’s institutional framework, aligning it more
+closely with member states ’ educational priorities.
+AHELO
+Building on past successes
+At the 2006 OECD Education Ministers ’ meeting, Angel Gurria, the Secretary-General
+of the OECD, pointed to the ‘urgent requirement for reform ’ in higher education and
+198 C. Morgan and R.A. Shahjahan
+--- PAGE 9 ---
+appealed to Education Ministers for a ‘mandate for a “PISA for higher education ” led
+by the OECD ’ (OECD 2006b, 2). Education Ministers responded to the Secretary-
+General’s appeal by giving OECD the green light to implement a feasibility study of
+an assessment for higher education learning outcomes that ‘buil[t] on the success of
+the PISA ’ (5). Buoyed by its success at producing an assessment of 15-year-old lear-
+ners, OECD could readily claim that it was ‘best positioned [among other IOs] to
+provide Member countries with policy-oriented comparative assessment tools ’ in
+higher education (OECD n.d.-b). This rhetoric of past success in the development of
+an international assessment tool is echoed in other OECD forums; its website presents
+the organisation as an authoritative knowledge provider in education by highlighting its
+40 years of experience (OECD 2012a).
+In order to instil shared meaning and vision for the production of learning outcomes
+in higher education,
+1 the OECD problematised a higher education ‘information gap ’
+that needed to be ﬁlled by data collected through reliable and objective measures of
+teaching and learning outcomes (OECD 2007). However, AHELO’s creators acknowl-
+edged signi ﬁcant barriers to obtaining these indicators at the ‘system’ level given the
+diversity of higher educational institutions and the dif ﬁculty bounding a representative
+sample. In light of this, AHELO creators opted to assess students at the institutional
+level. The challenge was how to persuade higher education institutions to buy in.
+The experts who convened in April 2007 to de ﬁne the contours of AHELO clearly
+understood the need for developing a shared discourse on an appropriate set of
+measures in higher education while simultaneously underlining the need for reliability
+and robustness of assessment methods (see OECD 2007,3 –8). Given the OECD ’s
+past achievements in producing successful educational indicators, higher educational
+institutions would likely participate in a feasibility study that implemented the
+highest quality standards and which guaranteed robustness and con ﬁdentiality of
+results.
+In its discursive practices, the OECD further reinforces the importance of a
+reliable measure for higher educational learning outcomes by distinguishing
+AHELO from international rankings such as the Times Higher Education World
+University Rankings or Shanghai Jiao Tong University ’s Academic Ranking of
+World Universities (see also Shahjahan 2013; Shahjahan and Torres 2013). In
+public presentations, OECD of ﬁcials describe these international rankings as
+‘biased towards input factors and research ’ (Lalancette 2010). On its website, the
+OECD notes that ‘[t]he narrow range of criteria used in university rankings creates
+a distorted vision of educational success and fail[s] to capture the essential elements
+of an education: teaching and learning ’ (OECD n.d.-b). In contrast, AHELO is
+presented as a measure founded on scienti ﬁc, objective and reliable knowledge.
+Karine Tremblay, AHELO project manager, echoes the OECD commitment to
+evidence-based policy: ‘The OECD believes in evidence-based policy and practice:
+diagnosis as a basis for change and improvement ’ (AHELO 2009, 1). The legitimacy
+of OECD ’s knowledge outputs, rooted in AHELO, hinges on the success of the
+feasibility study and the quality of the data obtained. As experts noted in the ﬁrst
+AHELO meeting, ‘getting the “science for the assessment ” right would critically
+determine the credibility of the exercise ’ (OECD 2007, 8). These discursive practices
+demonstrate that, during the early stages of test production, the OECD actively
+embeds a shared meaning of its vision to create a ‘space of equivalence focused
+on student learning outcomes ’ in higher education (Shahjahan and Torres 2013).
+Comparative Education 199
+--- PAGE 10 ---
+Assembling knowledge capacity
+The OECD does not solely build support based on its own expertise but also assembles
+its policy prowess and knowledge capacity through the recruitment of ‘international
+experts’ from among members of policy think tanks and consultants. It garners this
+policy prowess by emphasising the vast scale and sheer numbers of people that consti-
+tute its epistemic community. For instance, in a recent feasibility report, the OECD
+(2012) notes that while over 100 people are operationally involved in AHELO, up to
+300 are participating in various groups (e.g. expert groups, stakeholder groups, and
+so on), and 250 leaders, 10,000 faculty and 40,000 students will be involved in
+AHELO testing (8).
+Mirroring the PISA production process, the OECD built an epistemic community
+that encompassed both technical and subject matter expertise to support AHELO. In
+terms of technical know-how, ACER, which has also led the PISA consortium, was
+put in charge of AHELO overall assessment design, synergies across various strands
+and management of the project. ACER leads an international consortium guided by
+the AHELO General National Experts and the OECD Secretariat (OECD 2012).
+While PISA was concerned with building knowledge capacity in reading,
+science and mathematics subject matter domains, the OECD faces the daunting task
+of building knowledge capacity for AHELO ’s four key strands: (1) generic skills
+strand; (2) discipline-speci ﬁc strand; (3) contextual strand; and (4) value-added
+strand (OECD 2012b). This enormous task requires multiple networks and a coalition
+of supporters for the development and implementation of each strand.
+In constructing test instruments for the economics and engineering disciplinary
+AHELO strands, the OECD assembles the necessary disciplinary expertise so it can
+legitimately ascertain which areas of student knowledge should be tested and how to
+measure student learning outcomes. For example, based on its experience in developing
+the economics strand, the OECD is able to assert that ‘it is possible to deﬁne discipline-
+speciﬁc learning outcomes internationally ’ (OECD 2012b, 117). In building its knowl-
+edge capacity via its economics epistemic community, the OECD generated consensus
+on the economic concepts to be tested (key economic concepts, microeconomic and
+macroeconomic concepts). In addition to assessing student subject matter knowledge,
+the AHELO economics assessments evaluate other learning outcomes such as the appli-
+cation of economics concepts to ‘real world problems ’, ‘the ability to communicate
+with specialists and nonspecialists ’, and ‘the ability to acquire independent learning
+skills’ (OECD 2011). Here, the OECD organises student knowledge in terms of speciﬁc
+competencies not traditionally associated with disciplinary knowledge or research but,
+rather, more aligned with work competencies. As the OECD notes in its recent feasi-
+bility report, the economics strand assesses ‘above content-knowledge ’ and focuses
+on the ‘application and use of the concepts and “language of economics ”’ (OECD
+2012b, 118). Yet, the impetus and templates (including test questions) for AHELO ’s
+discipline-speciﬁc strands derive mainly from a core set of OECD member states:
+EU countries, the US or Japan (Shahjahan 2013).
+In creating the generic skills strand, the OECD did not follow its established prac-
+tice of initially developing a framework. This ﬁrst step was deemed unnecessary in this
+case since OECD was adopting a pre-existing instrument with its own ‘
+underlying
+theoretical underpinning ’ (OECD 2012b, 145); the instrument was based on the US
+Collegiate Learning Assessment (CLA) created by the Council for Aid to Education. 2
+AHELO’s creators presumed that an adaptive approach would be less time consuming
+200 C. Morgan and R.A. Shahjahan
+--- PAGE 11 ---
+and less costly (Ewell 2012). However, since the performance tasks were designed with
+an American student in mind, their translation and adaptation proved dif ﬁcult. To
+correct these problems, AHELO ’s creators added multiple choice questions and devel-
+oped an assessment framework (OECD 2012a, 6). Had the generic skills strand fol-
+lowed the usual framework development process, these major revisions could have
+been avoided (Ewell 2012). Instead of developing adequate knowledge capacity to
+build the generic skills component, the OECD opted to deploy a form of hard policy
+transfer that was not effective in ensuring the overall quality of the assessment but
+was fraught with challenges (see OECD 2012b).
+Deploying bureaucratic resources
+The OECD is fully cognisant of the strength of its bureaucratic structure. It justi ﬁes its
+role in the production of AHELO by claiming that it ‘possesses the institutional frame-
+work necessary to oversee international comparative work ’ (OECD 2006b, 6). As we
+saw with PISA, the OECD cannot effectively exert its in ﬂuence as a knowledge pro-
+ducer of higher education indicators without deploying its institutional framework and
+governance structure. Given the vast nature of the AHELO network, the production of
+AHELO not only represents a monumental task in scienti ﬁc breakthroughs in
+assessment, but also tests the limits of collaboration across global contexts. To this
+end, the OECD recognises that it will need to ensure its bureaucratic resources
+enable a ‘unique governance arrangement ’ through which AHELO is ‘jointly
+steered by governments, HEIs and agencies through the Programme for Institutional
+Management in Higher Education (IMHE) Governing Board ’ (OECD 2010a,
+12–13). However, the OECD also ensures that decision-making power remains centra-
+lised by stipulating that once the feasibility study is completed, decisions pertaining to
+the future of AHELO be made by the Education Policy Committee, which is
+responsible for the overall strategic direction of the OECD ’s work on education
+(OECD 2010a).
+In contrast to the PISA, which was initially conceived and produced by the INES
+Network project and then brought into the heart of the OECD governance structure a
+few years later, AHELO is centred within the OECD institutional framework. The tech-
+nical nature of the project has led the IMHE Governing Board and the Education Policy
+Committee to delegate decisions on the methods, timing and principles of the AHELO
+feasibility study to an AHELO Group of National Experts (GNE). The AHELO GNE is
+expected to meet about twice a year over the life of the project; the OECD provides the
+GNE with Secretariat services. A number of ad-hoc groups and experts play a more
+indirect role in the steering of the AHELO feasibility study through the sharing of
+expertise, dialogue or advice. Likewise, the Tuning Association has been contracted
+to convene academics from across the globe in order to re ﬂect on de ﬁnitions of
+expected or intended learning outcomes in economics and engineering.
+Finally, a Stakeholders ’ Consultative Group (SCG) has been established to discuss
+and re ﬂect on the unfolding of the AHELO feasibility study and its potential longer-
+term impact. The SCG is unique to AHELO and meant to iteratively gauge reactions
+to roll out of AHELO products and documents. The OECD leaves some ﬂexibility
+as to how it will tap into the SCG, noting that stakeholder participation ‘will depend
+on its possibility, will and capacity’ and that stakeholder engagement will be inﬂuenced
+by which stakeholders are ‘deemed representative for the higher education sector ’
+(OECD 2009, 5).
+Comparative Education 201
+--- PAGE 12 ---
+Conclusion
+Through comparative analysis of two international education assessment tools, we
+demonstrate that the OECD deploys various governance mechanisms during the pro-
+duction stages of PISA and AHELO to acquire the legitimate power to de ﬁne what
+counts in education. These mechanisms include: (1) building on past OECD successes;
+(2) assembling knowledge capacity; and (3) deploying bureaucratic resources. By ana-
+lysing the stages of assessment production, we illustrate the speciﬁc ways in which edu-
+cational transfer takes place.
+While we have noted several commonalities between the PISA and AHELO, we also
+point to important differences. Whereas with PISA, the OECD was a relative novice in
+the international student assessmentﬁeld, by the time it launched AHELO, it had become
+a seasoned expert in this ﬁeld. This con ﬁdence is manifested in the organisation of
+AHELO during the production phase– from the coalition of supporters to the governance
+structure. A cornerstone element of the PISA is its assessment of literacy skills. In con-
+trast, AHELO shifts focus to assessment of higher levels of learning. Underpinning
+AHELO is the assessment of learning outcomes from content-based knowledge in econ-
+omics and engineering as well as the generic skills of graduates. However, despite these
+distinctions, both assessments are ultimately tools used by policy makers to improve the
+quality of their human capital and address employers ’ demand for skilled workers.
+The creators of AHELO faced several ﬁnancial and technical challenges not faced by
+the PISA creators. Recent AHELO reports (OECD 2012b, 2013) reveal that the process
+of constructing AHELO was fraught with challenges. In particular, despite deploying
+bureaucratic resources to ensure the success of the AHELO feasibility study, OECD
+still had to contend with the ﬁnancial constraints of OECD member states. Whereas
+PISA was developed during a period of relative global economic stability and prosperity,
+AHELO emerged amid severe economic recession, impacting the availability of funding
+for the AHELO project (OECD2013, 157). Further, the creators of AHELO did not have
+adequate knowledge capacity to build the generic skills component and faced several
+challenges in constructing the instrument. Namely, tensions arose between the different
+stakeholders involved in constructing instruments. For example, there continues to be
+debates about the relevance of assessing generic skills outside of disciplinary contexts
+(OECD 2012b). In future publications, we hope to explore the negotiated compromises
+that characterised the development of the AHELO assessment.
+We suggest that the early stages of test production by IOs are signiﬁcant sites for legit-
+imating and enacting the global governance of education that has been often overlooked
+in the literature. As such, our analysis suggests the need for more theoretical and empiri-
+cal research on the complex ways IOs legitimate and enact global educational governance
+as they produce large-scale international assessment tools. First, such studies would illu-
+minate the complexity of the production of assessment tools that is fraught with tensions
+and contradictions, while simultaneously revealing that the production of these tools are
+important sites for ﬁxing meaning about ‘learning’ in education. Second, our analysis
+suggests that the assessment production process is fragile (often with lots of push back
+and criticisms); hence we draw attention to the agentive role of IOs involved in the
+policy production process. IOs justify, legitimise and sustain the production process
+using an arsenal of past experiences, epistemic networks and bureaucratic structures.
+Third, the early stages of the assessment production process raise questions about the
+epistemic origins of ideas, and the adoption, translation and incorporation of these
+ideas into global templates. This prompts us to interrogate how the transfer of ideas is
+202 C. Morgan and R.A. Shahjahan
+--- PAGE 13 ---
+inﬂuenced by economic and epistemic dependencies that pervade the global policy arena
+and undergird the universalising models of education that are disseminated via IOs (Shah-
+jahan 2013). In short, we recommend moving beyond the plentiful methodological cri-
+tiques and impact studies of assessment tools in the existing literature to critically
+examine the geopolitics of producing global education policy.
+Given the global interest in using tools such as PISA and AHELO to measure and
+enhance educational outcomes, our analysis raises many questions about the role of
+standardised assessment and learning outcome tools for educational quality improve-
+ment. For instance, it raises questions about the relationship and tradeoffs between
+quality and autonomy, the importance of local knowledge in a highly connected
+world, and the role and reach of international assessment tools within local contexts.
+The early stages of test production vis-à-vis IOs are not simply techno-rational pro-
+cesses, but important ‘global classrooms ’ for constructing, negotiating, disseminating
+and legitimising what counts as knowledge and learning in a competitive global
+economy. We suggest that these growing ‘global classrooms ’ are important sites of
+study for scholars interested in the global governance of education.
+Notes
+1. It is beyond the scope of this article to provide a thorough analysis of the OECD ’so f ﬁcial
+account for the AHELO rationale. For in-depth critical policy analyses of these rationales,
+please refer to Shahjahan and Torres ( 2013) and Shahjahan ( 2013).
+2. The CLA gained signi ﬁcant attention in the United States when analysis of 2011 CLA
+results found that US graduates were failing to master higher-order cognitive skills (Arum
+and Roska 2011).
+Notes on contributers
+Clara Morgan teaches at the Institute of Interdisciplinary Studies at Carleton University. Her
+research interests include national and transnational educational policy and governance. Her
+most recent publication is ‘Constructing the OECD Programme for International Student
+Assessment’, in M. Pereyra et al. (eds), PISA under examination: Changing knowledge, chan-
+ging tests, and changing schools .
+Riyad A. Shahjahan is an assistant professor of the Higher, Adult, and Lifelong Education
+(HALE) programme at Michigan State University. His areas of research interest include the glo-
+balisation of higher education policy, teaching and learning in higher education, equity and
+social justice, and anti-/postcolonial theory. His most recent publications include: ‘The roles
+of international organisations (IOs) in globalising higher education policy ’, in J. Smart and
+M. Paulsen (eds), Higher education: Handbook of theory and research , vol. 27, 369 –407;
+and ‘Beyond the “national container ”: Addressing methodological nationalism in higher edu-
+cation research’, Educational Researcher 42, no. 1: 20 –29 (co-authored with Adrianna Kezar).
+References
+AHELO (Assessment of Higher Education Learning Outcomes). July 2009. “AHELO
+Newsletter.” http://www.oecd.org/edu/imhe/43307671.pdf
+Arum, R., and J. Roksa. 2011. Academically Adrift: Limited Learning on College Campuses .
+Chicago, IL: University of Chicago Press.
+Barnett, M. N., and M. Finnemore. 1999. “The Politics, Power, and Pathologies of International
+Organizations.” International Organization 53 (4): 699 –732.
+Beech, J. 2006. “The Theme of Educational Transfer in Comparative Education: A View Over
+Time.” Research in Comparative and International Education 1 (1): 2 –13.
+Comparative Education 203
+--- PAGE 14 ---
+Beech, J. 2009. “Who is a Strolling Through the Global Garden? International Agencies and
+Educational Transfer. ” International Handbook of Comparative Education 22: 341 –357.
+Bottani, N., and P. Vrignaud. 2005. La France et les evaluations internationals. Paris: Haut
+Conseil de l ’évaluation de l ’école.
+Breakspear, S. 2012. The Policy Impact of PISA: An Exploration of Normative Effects of
+International Benchmarking in School System Performance . OECD Education Working
+Papers, No. 71, OECD Publishing.
+Coates, H., and S. Richardson. 2011. “An International Assessment of Bachelor Degree
+Graduates’ Learning Outcomes. ” Higher Education Management and Policy 23 (3):
+1–19.
+Dolowitz, D., and D. March. 1996. “Who Learns What from Whom: A Review of the Policy
+Transfer Literature. ” Political Studies 44 (2): 343 –357.
+Ewell, P. T. 2012. “A World of Assessment: OECD ’s AHELO Initiative. ” Change: The
+Magazine of Higher Learning 44 (5): 35 –42.
+Grek, S., and J. Ozga. 2010. “Governing Education Through Data: Scotland, England and the
+European Education Policy Space. ” British Educational Research Journal 36 (6): 937–952.
+Haas, P. 1989. “Do Regimes Matter? Epistemic Communities and Mediterranean Pollution
+Control.” International Organization 43 (3): 377 –403.
+Henry, M., B. Lingard, F. Rizvi, and S. Taylor. 2001. The OECD, Globalization and Education
+Policy. Oxford: Pergamon Press.
+Kallo, J. 2009. OECD Education Policy. A Comparative and Historical Study Focusing on the
+Thematic Reviews of Tertiary Education . Finnish Educational Research Association.
+Lalancette, D. 2010. “Assessment of Higher Education Learning Outcomes: A Ground-breaking
+Initiative to Assess Quality in Higher Education on an International Scale. ” Presentation at
+the International Association of Universities 2010 Conference, Vilnius, Lithuania.
+Lingard, B., and S. Rawolle. 2011. “New Scalar Politics: Implications for Education Policy. ”
+Comparative Education 47 (4): 489 –502.
+Martens, K., and A. P. Jakobi, eds. 2010. Mechanisms of OECD Governance: International
+Incentives for National Policy-Making? Oxford: Oxford University Press.
+Merriam, S. 1998. Qualitative Research and Case Study Applications in Education .
+San Francisco: Jossey Bass Publishers.
+Meyer, H. D., and A. Benavot, eds. 2013. PISA, Power, and Policy. The Emergence of Global
+Educational Governance . Oxford: Symposium Books.
+Morgan, C. 2009. The OECD Programme for International Student Assessment: Unraveling a
+Knowledge Network . Saarbrucken: VDM Verlag Dr. Muller.
+OECD. 1988. Activities of OECD in 1988: Report by the Secretary General . Paris: OECD.
+OECD. 1995. Data Strategy for Network A. Presented at the General Assembly of the INES
+project, Lahti, Finland, 12 –15 June. [GA-95 –8]).
+OECD. 1997a.Data Strategy for the Development of Student Achievement Indicators on a Regular
+Basis. Terms of Reference for the Tendering Procedure. [DEELSA/ED/CERI/CD(97)6].
+OECD. 1997b. First meeting of the Board of Participating Countries , Paris, 6 –7 October [BPC
+(97.1).99bis].
+OECD. 1998. Third meeting of the Board of Participating Countries (BPC) ,2 0–21 April 1998,
+San Francisco, United States [EDU/PISA/BPC/M(2004)1].
+OECD. 2000. Measuring Student Knowledge and Skills: The PISA 2000 Assessment of Reading,
+Mathematical and Scienti ﬁc Literacy . Paris: OECD.
+OECD. 2004. 17th Meeting of the PISA Board of Participating Countries (BPC) .1 5–17 March.
+[EDU/PISA/BPC/M(2004)1].
+OECD. 2006a. PISA 2006 READING LITERACY FRAMEWORK . Accessed April 10, 2012.
+http://pisa.nutn.edu.tw/download/sample_papers/Reading_Framework-en.pdf
+OECD. 2006b. Meeting of OECD Education Ministers. Higher Education: Quality, Equity and
+Efﬁciency. Chair ’s Summary .
+OECD. 2007. Assessing Higher Education Learning Outcomes Summary of a First Meeting of
+Experts. 18 April 2007. [EDU(2007) 8]. Accessed April 10, 2012. http://www.oecd.org/edu/
+highereducationandadultlearning/39117243.pdf
+OECD. 2009. Participation in the AHELO Sta keholders Consultative Group .P a r i s :I M H E .
+Accessed May 19, 2010. http://www.oecd.org/ofﬁcialdocuments/displaydocument/?cote=
+EDU/IMHE/AHELO/GNE(2009)22&docLanguage=En
+204 C. Morgan and R.A. Shahjahan
+--- PAGE 15 ---
+OECD. 2010a. PISA 2009 Results: What Students Know and Can Do STUDENT
+PERFORMANCE IN READING, MATHEMATICS AND SCIENCE VOLUME
+I. Accessed April 10, 2012. http://www.oecd.org/pisa/pisaproducts/48852548.pdf
+OECD. 2010b. Roadmap for the AHELO Feasibility Study – 3rd version. Paris: IMHE. Accessed
+April 23, 2010. http://www.oecd.org/ofﬁcialdocuments/displaydocumentpdf/?cote=EDU/
+IMHE/AHELO/GNE(2010)4&doclanguage=en
+OECD. 2011.2011 Progress Report Economics.2 8–29 March. [EDU/IMHE/AHELO/GNE(2011)
+5]. Accessed April 10, 2012. http://search.oecd.org/ofﬁcialdocuments/displaydocumentpdf/?
+cote=EDU/IMHE/AHELO/GNE(2011)5&doclanguage=en
+OECD. 2012. Group of National Experts on the AHELO Feasibility Study – Revised Interim
+Feasibility Study Report . Paris: IMHE. Accessed May 19, 2012. http://search.oecd.org/
+ofﬁcialdocuments/displaydocumentpdf/?cote=EDU/IMHE/AHELO/GNE(2012)5&doclangu
+age=en
+OECD. 2012a. Testing Student and University Performance Globally: OECD ‘s AHELO .
+Accessed April 10, 2012. http://www.oecd.org/edu/skills-beyond-school/testingstudent
+anduniversityperformancegloballyoecdsahelo.htm
+OECD. 2012b. AHELO Feasibilty Study – Volume 1 . http://www.oecd.org/edu/skills-beyond-
+school/AHELOFSReportVolume1.pdf
+OECD. 2013. AHELO Feasibility Study – Volume 2 . http://www.oecd.org/edu/skills-beyond-
+school/AHELOFSReportVolume2.pdf
+OECD. n.d.-a.“Members and Partners.” OECD. http://www.oecd.org/about/membersandpartners/
+OECD. n.d.-b. OECD. http://www.oecd.org/
+OECD/INES. 1995. Network A Meeting Record. Network A Plenary Meeting. October 7 –10.
+Owen, E., G. D. Hodgkinson, and A. Tuijnman. 1995. “Towards a Strategic Approach for
+Developing International Indicators of Student Achievement. ” In OECD, Measuring
+What Students Learn . Paris: OECD.
+Pereyra, M. A., H. Kotthoff, and R. Cowen, eds. 2011. PISA Under Examination . Rotterdam:
+Sense Publisher.
+Postlethwaite, N. 1966. “International Project for the Evaluation of Educational Achievement
+(I.E.A.).” International Review of Education 12 (3): 356 –369.
+Rizvi, F., and B. Lingard. 2010. Globalizing Education Policy . New York: Routledge.
+Ruggie, J. G. 1998. “What makes the World Hang Together? Neo-utilitarianism and the Social
+Constructivist Challenge. ” International Organization 52 (4): 855 –885.
+Rutkowski, D. 2007. “Converging us Softly: How Intergovernmental Organizations Promote
+Neoliberal Educational Policy. ” Critical Studies in Education 48 (2): 229 –247.
+Schuller, T., and S. Vincent-Lancrin. 2009. “OECD Work on the Internationalization of Higher
+Education An Insider Perspective. ” In International Organizations and Higher Education
+Policy: Thinking Globally, Acting Locally? , edited by R. M. Bassett and A. Maldonado,
+65–81. New York: Routledge.
+Sellar, S., and B. Lingard. 2013. “Looking East: Shanghai, PISA 2009 and the reconstitution of
+reference societies in the global education policy ﬁeld.” Comparative Education , 49 (4):
+464–485.
+Shahjahan, R. A. 2013. “Coloniality and a Global Testing Regime in Higher Education:
+Unpacking the OECD ’s AHELO Initiative. ” Journal of Education Policy 28 (5): 676 –
+694. doi:10.1080/02680939.2012.758831.
+Shahjahan, R. A., and L. Torres. 2013. “A ‘Global Eye ’ for Teaching and Learning in Higher
+Education: A Critical Policy Analysis of OECD ’s AHELO Study. ” Policy Futures in
+Education 11 (5): 606 –620.
+Steiner-Khamsi, G. 2003. “The Politics of League Tables. ” Journal of Social Science Education
+1-2003: Civic Education.
+Stone, D. 1999. “Learning Lessons and Transferring Policy Across Time, Space and
+Disciplines.” Politics 19 (1): 51 –59.
+Comparative Education 205

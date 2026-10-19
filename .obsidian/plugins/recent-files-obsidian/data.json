@@ -5,6 +5,26 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
     },
     {
+      "basename": "Morgan_Shahjahan_2014_CE",
+      "path": "sources/Morgan_Shahjahan_2014_CE.md"
+    },
+    {
+      "basename": "Test Production",
+      "path": "wiki/concepts/comparative-education/Test Production.md"
+    },
+    {
+      "basename": "Collegiate Learning Assessment",
+      "path": "wiki/instruments/tests/Collegiate Learning Assessment.md"
+    },
+    {
+      "basename": "Times Higher Education World University Rankings",
+      "path": "wiki/facts/uk/Times Higher Education World University Rankings.md"
+    },
+    {
+      "basename": "Academic Ranking of World Universities",
+      "path": "wiki/facts/china/Academic Ranking of World Universities.md"
+    },
+    {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Lars Qvortrup",
       "path": "wiki/persons/denmark/Lars Qvortrup.md"
-    },
-    {
-      "basename": "Jean Piaget",
-      "path": "wiki/persons/switzerland/Jean Piaget.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "Radical Constructivism",
-      "path": "wiki/theories/educational-philosophy/Radical Constructivism.md"
-    },
-    {
-      "basename": "Popper's Three Worlds Theory",
-      "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md"
-    },
-    {
-      "basename": "Argument_Qvortrup_2015_Paideia",
-      "path": "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
     }
   ],
   "omittedPaths": [],

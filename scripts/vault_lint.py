@@ -2917,10 +2917,10 @@ ACADEMIC_BUZZWORDS = (
     "靶向", "解耦", "归约", "收敛", "规约",
 )
 NEGATIVE_CONTRAST_MARKERS = ("不是", "并非", "绝非", "不在于", "而是", "而在于")
-SELF_REFERENCE_MARKERS = ("论文", "本文", "本章", "作者")
+SELF_REFERENCE_MARKERS = ("论文", "本文", "本章", "作者", "原文")
 WRITING_REMINDER_CODES = {"ACADEMIC_BUZZWORD", "ACADEMIC_NEGATIVE_CONTRAST", "ACADEMIC_SELF_REFERENCE"}
 SELF_REFERENCE_REMINDER = (
-    "去掉自我说明性文字，避免以论文、本文、本章或作者作为常规叙述主语；"
+    "去掉自我说明性文字，避免以论文、本文、本章、作者或原文作为常规叙述主语；"
     "直接陈述具体判断、知识对象、机制、证据或结论，必要出处放在引用中。"
     "需区分自我说明与实质讨论研究文献、章节或作者的必要表达，不机械删除。"
 )
