@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 132
+fact_related_count: 134
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -122,6 +122,8 @@ related_persons:
   - "[[Andreas Schleicher]]"
 related_facts:
   - "[[PISA]]"
+  - "[[OECD AHELO Project]]"
+  - "[[PISA Governing Board]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[Economics of Education Movement]]"
   - "[[Sputnik Shock 1957]]"
@@ -232,6 +234,8 @@ updated: 2026-10-19
 >   - **2000** 推出首轮 [[PISA]] 测评。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 >   - **2000 / 2003** CERI 开展部门知识治理调查，开启长达二十余年的教育知识管理与知识治理探索。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 >   - **2002** 正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性[[Peer Pressure|同侪压力]]（peer pressure）取代早期的哲理辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]]
+>   - **2005** 将参测国委员会（BPC）升格为直接直属于教育理事会的 [[PISA Governing Board|PISA 管理委员会]]（PGB），使参测国高级教育官员深度卷入战略决策，进一步巩固测评生产的行政统领架构。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
+>   - **2008–2015** 启动[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）可行性研究，试图将 PISA 模式从基础教育拓展至高等教育领域，以填补高校教学产出指标的空白并制衡商业大学排名，后因通用技能硬移植挫折与高校自主权抵制而未能实现机制化推广。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198–203)]]
 >   - **2000s** 通过非成员经济体合作处（Unit for Cooperation with Non-member Economies，NME）与全球关系项目（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并依托与世界银行、教科文组织合作的[[World Education Indicators|世界教育指标]]（WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
@@ -392,6 +396,8 @@ updated: 2026-10-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | Fact (Program) | OECD 主导的全球最大规模基础教育[[Academic Achievement\|学业成就]]评估项目，其核心[[Governing at a Distance\|远处治理]]工具。 |
+> | [[OECD AHELO Project]] | Fact (Program) | OECD 启动的高等教育学习成果评估可行性研究，试图将指标治理拓展至大学教学质量领域。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014)]] |
+> | [[PISA Governing Board]] | Fact (Organization) | OECD 内部统筹 PISA 测评生产、战略规划与优先事项的跨国政府代表委员会。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014)]] |
 > | [[Economics of Education Movement]] | Fact (Event) | 战后在美国兴起、为 OECD 将教育重构为生产性资本投资奠定理论基石的历史运动。 |
 > | [[Sputnik Shock 1957]] | Fact (Event) | 触发美欧科技教育恐慌的里程碑事件，直接催化了 OECD 的教育治理干预职能。 |
 > | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 配合美国冷战战略与 OECD 早期[[Human Capital Theory\|人力资本]]教育政策研究的重要学术智库中心。 |
