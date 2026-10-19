@@ -47,10 +47,10 @@ updated: 2026-10-19
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1999 年 3 月由英国内阁府（Cabinet Office）以政府白皮书形式正式发布（Command Paper Cm 4310）。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
+> - **发布时间 / 发布主体** 1999 年 3 月由英国内阁府（Cabinet Office）以政府白皮书形式正式发布 (Cabinet Office, 1999a, Cm 4310)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
 > - **适用地区 / 对象** 适用于英国中央政府全体部委、非部委公共机构、执行局（Executive Agencies）及参与公共治理与社会服务的各级公职人员。
 > - **问题背景** 破除战后传统政党意识形态教条与科层条块分割，应对公众对政府行政效能的普遍信任危机，将公共部门从被动救济管理转变为高绩效、以结果为导向的现代化治理体系。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
-> - **制度位置** 新工党执政治理转型的纲领性顶层设计，直接指导出台了内阁府《21世纪专业化政策制定》（1999）、《优良政策制定》（2001）以及财政部《绿皮书》修订版（2003）与《品红皮书》（2011）。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - **制度位置** 新工党执政治理转型的纲领性顶层设计，直接指导出台了 1999 年内阁府《21世纪专业化政策制定》 (Cabinet Office, 1999b)、2001 年《优良政策制定》 (Cabinet Office, 2001) 以及 2003 年财政部《绿皮书》修订版 (Cabinet Office, 2003a) 与 2011 年《品红皮书》 (Cabinet Office, 2011)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
 
@@ -68,16 +68,16 @@ updated: 2026-10-19
 > [!citation-card] 白皮书确立的循证改革议程
 > 政府将改进对实证研究与证据的利用，以便更深刻地理解试图解决的问题；同时确保所有政策与方案均经过清晰界定与系统评估，成功与失败的经验教训能够得到顺畅传达并落实为实际行动。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
 >
-> *The government would: 'improve our use of evidence and research so that we understand better the problems we are trying to address' and assured that 'all policies and programmes are clearly specified and evaluated, and the lessons of success and failure are communicated and acted upon' (Cm 4310, 1999).*
+> *The government would: 'improve our use of evidence and research so that we understand better the problems we are trying to address' and assured that 'all policies and programmes are clearly specified and evaluated, and the lessons of success and failure are communicated and acted upon' (Cabinet Office, 1999a, p. 15).*
 
 ---
 
 ## 时间线
 
 > [!timeline] 政策时间线
-> - 1997 新工党执政初期提出务实治理理念与何者有效施政口号。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
-> - 1999 英国内阁府正式发布《现代化政府》白皮书（Cm 4310），确立循证政策转型。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
-> - 2003 英国财政部依据白皮书原则全面改版《绿皮书》，确立法定成本效益与证据审查规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - 1997 新工党执政初期提出务实治理理念与何者有效施政口号 (Blair, 1997)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
+> - 1999 英国内阁府正式发布《现代化政府》白皮书 (Cabinet Office, 1999a)，确立循证政策转型。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - 2003 英国财政部依据白皮书原则全面改版《绿皮书》 (Cabinet Office, 2003a)，确立法定成本效益与证据审查规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-10-19
 > [!finding-cards] 效果与评价
 > - **重构政策学习机制** 创造了促使官员主动跨国搜寻成熟实证数据与因果评估方案的机会结构。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 344)]]
 > - **推动科学实验规程入库** 催生了英国就业留任与晋升示范项目等大规模随机对照试验的立项。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
-> - **确立长效循证治理传统** 奠定了英国跨党派长期推崇循证政策制定的行政生态，并反向扩散至欧洲大陆。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
+> - **确立长效循证治理传统** 奠定了英国跨党派长期推崇循证政策制定的行政生态，并反向扩散至欧洲大陆 (Frey & Ledermann, 2010)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
 
 ---
 
@@ -116,9 +116,9 @@ updated: 2026-10-19
 > > - **政府施政观点** 依靠严密实证数据可以显著降低公共政策试错成本，提高公共服务针对性与财政透明度。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 342)]]
 
 > [!citation-card] 大臣论理解何者有效是现代化政府的核心
-> 本届政府作出了明确承诺，我们将遵循开放理性的态度去理解何者有效以及为何有效，摆脱教条主义束缚。在政策制定与落地的核心环节更加有效、富有创造性地运用信息与知识，正是现代化政府议程的核心所在。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> 戴维·布伦基特（Blunkett, 2000）指出：本届政府作出了明确承诺，我们将遵循开放理性的态度去理解何者有效以及为何有效，摆脱教条主义束缚。在政策制定与落地的核心环节更加有效、富有创造性地运用信息与知识，正是现代化政府议程的核心所在。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 >
-> *This Government has given a clear commitment that we will be guided not by dogma but by an open-minded approach to understanding what works and why. This is central to our agenda for modernising government: using information and knowledge much more effectively and creatively at the heart of policy-making and policy delivery.*
+> *This Government has given a clear commitment that we will be guided not by dogma but by an open-minded approach to understanding what works and why. This is central to our agenda for modernising government: using information and knowledge much more effectively and creatively at the heart of policy-making and policy delivery (Blunkett, 2000).*
 
 ---
 

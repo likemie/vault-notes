@@ -2,37 +2,34 @@
 title: Soft Policy Transfer
 aliases:
   - 软政策转移
+  - 软转移
   - 政策软转移
   - 理念扩散
   - 概念转移
 summary: "政策转移研究中指代政策理念、概念范式、战略修辞与话语框架在跨国政策网络中传播与扩散的分析概念，区别于具体技术工具直接复制的硬政策转移；软政策转移为本土行动者根据具体制度与文化情境进行调适、解释与再语境化留出了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - comparative-education
   - policy-transfer
   - educational-governance
 related_concepts:
-  - "[[Hard Policy Transfer]]"
   - "[[Discourse]]"
+  - "[[Hard Policy Transfer]]"
   - "[[Recontextualization]]"
-  - "[[Policy Borrowing]]"
   - "[[Epistemic Community]]"
-  - "[[Competitiveness]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[OECD AHELO Project]]"
-  - "[[OECD]]"
-  - "[[PISA]]"
   - "[[Tuning Project]]"
+  - "[[OECD AHELO Project]]"
 related_arguments:
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
@@ -48,7 +45,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> 软政策转移（Soft Policy Transfer）源于戴安娜·斯通（Diane Stone, 1999）对政策转移机制的类型化划分，特指政策思想、概念[[Discourse|话语]]、规范认知与价值图景在跨国政策圈层与网络中传播和扩散（diffusion）的过程。软政策转移区别于强调工具与技术程序直接机械复制（copying）的[[Hard Policy Transfer|硬政策转移]]，其核心在于为本土政策制定者、学者及专业群体保留了结合本国历史脉络与制度特征进行[[Recontextualization|再语境化]]与因地制宜调适的弹性空间。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]
+> 软政策转移（Soft Policy Transfer）源于戴安娜·斯通（Stone, 1999）对政策转移机制的类型化划分，特指政策思想、概念[[Discourse|话语]]、规范认知与价值图景在跨国政策圈层与网络中传播和扩散（diffusion）的过程。软政策转移区别于强调工具与技术程序直接机械复制（copying）的[[Hard Policy Transfer|硬政策转移]]，其核心在于为本土政策制定者、学者及专业群体保留了结合本国历史脉络与制度特征进行[[Recontextualization|再语境化]]与因地制宜调适的弹性空间。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向宏观教育理念、治理范式、能力构想与政策修辞的跨国交流与心智同化。

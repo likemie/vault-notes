@@ -281,7 +281,7 @@ issuing_organization: ""
 > 1. **循证治理重塑政策搜寻动力** 英国新工党将何者有效确立为施政合法性基石，使政策官员在面临紧迫时间表时，必然沿着证据链条主动搜寻具备完备实证评估的海外方案。（pp. 330, 335）
 > 2. **实验数据霸权决定定向对标** 美国福利改革凭借自 1980 年代积累的州级豁免实验与随机对照因果数据，在实证严密性上显著压倒瑞典、新西兰和澳大利亚，成为英国官员决策的首选。（pp. 340–342）
 > 3. **评估技术与机构发生制度硬转移** 跨国借用超越了传统的政策理念与法律文本，美国以随机分配为代表的社会实验规程及美方专业智库 MDRC 被直接引进并植入英国本土。（pp. 342–344）
-> 4. **循证范式呈现跨国二次扩散** 英国在吸收美式经验后建立的高度量化实验治理体制，随后反向作为一种政策典范被荷兰、德国、丹麦和瑞士等欧洲大陆国家所借鉴。（pp. 344–345）
+> 4. **循证范式呈现跨国二次扩散** 英国在吸收美式经验后建立的高度量化实验治理体制，随后反向作为一种政策典范被荷兰、德国、丹麦和瑞士等欧洲大陆国家所借鉴 (Frey & Ledermann, 2010)。（pp. 344–345）
 
 > [!stat-cards]- 核心数据与关键实证指标
 > - **53%** 美国 TANF 受助人数降幅（1996 年 8 月至 2000 年 6 月全美受助者由 1224.1 万人锐减至 578.1 万人，形成强大示范效应）
@@ -316,7 +316,7 @@ issuing_organization: ""
 > [!citation-card] 英国官方评估报告论借鉴美国示范项目
 > 该项目的开发受到美国一项类似示范项目（US ERA）的启发，该项目当时已在全美若干州展开推行。启动于 1999 年的美国 ERA 示范项目测试了多种留职与晋升方案，其许多特征与英国的示范项目高度相似。（p. 343）
 >
-> *The development of the programme was inspired by a similar demonstration, the US ERA project, which was already being implemented in several U.S. states. Launched in 1999, the U.S. ERA demonstration tests a variety of retention and advancement programmes and has many features that are similar to the U.K. demonstration (2007, p. 25).*
+> *The development of the programme was inspired by a similar demonstration, the US ERA project, which was already being implemented in several U.S. states. Launched in 1999, the U.S. ERA demonstration tests a variety of retention and advancement programmes and has many features that are similar to the U.K. demonstration (DWP, 2007, p. 25).*
 
 ---
 

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Woo_2023_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+    },
+    {
+      "basename": "Argument_Schulze-Cleven_2017_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
+    },
+    {
+      "basename": "Argument_Biggs_1999_HERD",
+      "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md"
+    },
+    {
+      "basename": "Argument_Wong_2022_HERD",
+      "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md"
+    },
+    {
       "basename": "Argument_Legrand_2012_PolStud",
       "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Luhmann's Systems Theory",
       "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
-    },
-    {
-      "basename": "vault-schema",
-      "path": "vault-schema.md"
-    },
-    {
-      "basename": "Argument_Rømer_2018_EPT",
-      "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
-    },
-    {
-      "basename": "Central Phenomenon",
-      "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
-    },
-    {
-      "basename": "Robert Glaser",
-      "path": "wiki/persons/us/Robert Glaser.md"
     }
   ],
   "omittedPaths": [],

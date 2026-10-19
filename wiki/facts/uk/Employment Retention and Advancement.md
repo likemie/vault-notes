@@ -73,14 +73,14 @@ updated: 2026-10-19
 > [!citation-card] 英国官方报告论借鉴美国示范项目
 > 该项目的开发受到美国一项类似示范项目（US ERA）的启发，该项目当时已在全美若干州展开推行。启动于 1999 年的美国 ERA 示范项目测试了多种留职与晋升方案，其许多特征与英国的示范项目高度相似。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 >
-> *The development of the programme was inspired by a similar demonstration, the US ERA project, which was already being implemented in several U.S. states. Launched in 1999, the U.S. ERA demonstration tests a variety of retention and advancement programmes and has many features that are similar to the U.K. demonstration.*
+> *The development of the programme was inspired by a similar demonstration, the US ERA project, which was already being implemented in several U.S. states. Launched in 1999, the U.S. ERA demonstration tests a variety of retention and advancement programmes and has many features that are similar to the U.K. demonstration (DWP, 2007, p. 25).*
 
 ---
 
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **1999–2002 — 跨国借鉴与方案筹划期** 英国下议院特别委员会访美后建议开展地理区域实验；DWP 在残障人士新政评估遇阻后重新论证并立项 ERA 试验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
+> - **1999–2002 — 跨国借鉴与方案筹划期** 英国下议院社会保障特别委员会 (House of Commons Social Security Select Committee, 1998) 访美后建议开展地理区域实验；DWP 在残障人士新政评估遇阻后 (Prasad, 2002) 重新论证并立项 ERA 试验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **2003–2007 — 随机实验现场运行期** 在全英重点行政区启动三组人群的随机分配与跟踪干预，MDRC 提供全流程实地技术监督。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **2007–2011 — 跟踪评估与成果转化期** 发布多阶段实证评估报告，为后续劳动力市场规程与循证治理提供详尽因果数据支撑。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
 
