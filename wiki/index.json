@@ -9986,6 +9986,14 @@
     ]
   },
   {
+    "title": "Knowledge Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Knowledge Power.md",
+    "aliases": [
+      "知识权力"
+    ]
+  },
+  {
     "title": "Knowledge Rents",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Rents.md",
@@ -10157,6 +10165,19 @@
       "钻石模型",
       "Porter Diamond Model",
       "国家的竞争优势"
+    ]
+  },
+  {
+    "title": "National Rejuvenation Narrative",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/National Rejuvenation Narrative.md",
+    "aliases": [
+      "民族复兴叙事",
+      "民族复兴",
+      "中华民族伟大复兴",
+      "中华民族伟大复兴叙事",
+      "National Rejuvenation",
+      "Discourses of National Rejuvenation"
     ]
   },
   {
@@ -28696,6 +28717,15 @@
       "随迁子女学校",
       "Migrant Worker Schools",
       "Migrant Schools"
+    ]
+  },
+  {
+    "title": "Asian Universities Alliance",
+    "type": "fact",
+    "path": "wiki/facts/china/Asian Universities Alliance.md",
+    "aliases": [
+      "亚洲大学联盟",
+      "AUA"
     ]
   },
   {
