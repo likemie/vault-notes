@@ -3,11 +3,11 @@ title: Roy Bhaskar
 aliases:
   - Bhaskar, R.
   - 罗伊·巴斯卡
-summary: "英国哲学家，批判实在论创始人，为教育研究在实证主义与相对主义之外重建因果解释与分层本体论提供基础。"
+summary: "英国哲学家，批判实在论创始人，为教育研究在实证主义与相对主义之外重建因果解释、分层本体论与解释性批判提供基础。"
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence-Based Education]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -41,6 +42,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
+  - "[[Critical Policy Analysis]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Ray Pawson]]"
   - "[[Terry Wrigley]]"
@@ -49,10 +52,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Woo_2023_HEP]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-29
+updated: 2026-10-19
 ---
 
 # Roy Bhaskar
@@ -62,87 +66,104 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国哲学家，[[Critical Realism\|批判实在论]]（Critical Realism）运动的创始人。
-> - **核心角色** 批判实在论科学哲学的开创者，在人文与社会科学[[Ontology\|本体论]]重构、反[[Empiricism\|经验主义]]方法论论辩中承担核心哲学奠基者的节点角色。
-> - **代表贡献** 创立 [[Critical Realism\|批判实在论]] 哲学体系、提出三层本体论、区分开放与封闭系统。
+> - **身份位置** 英国哲学家，[[Critical Realism|批判实在论]]（Critical Realism）运动的创始人。
+> - **核心角色** 批判实在论科学哲学的开创者，在人文与社会科学[[Ontology|本体论]]重构、反[[Empiricism|经验主义]]方法论论辩中承担核心哲学奠基者的节点角色。
+> - **代表贡献** 创立 [[Critical Realism|批判实在论]] 哲学体系、提出三层本体论、区分开放与封闭系统，奠定解释性批判（Explanatory Critique）规范批判方法。
 
----
-
-## 条目关联
-
-> [!entry-map]
-> 
-> | 类型 | 条目 | 贡献 |
-> |:-----|:-----|:-----|
-> | 理论 | [[Critical Realism\|批判实在论]] | 为社会科学提供了一个[[Interpretive Paradigm\|反实证主义]]、反经验还原主义的统一[[Ontology\|本体论]]框架，解释了结构、能动性与[[Emergence\|涌现]]之间的[[Causality\|因果]]逻辑。 |
+> [!citation-card] 批判实在论的科学哲学定位
+> 科学的本质在于超越经验规则性的表层记录，识别深层未被直接感知的生成性结构与因果机制。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
+>
+> *Scientific exploration focuses on identifying generative structures and causal mechanisms beyond empirical regularities.*
 
 ---
 
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1944 年** 出生于英国。
-> - **1978 年** 发表代表作 *A Realist Theory of Science*，奠定了[[Critical Realism\|批判实在论]]科学哲学的[[Ontology\|本体论]]基础。
-> - **1979 年** 发表 *The Possibility of Naturalism*，将批判实在论应用并扩展到人文社会科学，探讨社会结构与人类能动性的关系。
-> - **2014 年** 于英国逝世。
+> - **1944 年** 出生于英国伦敦。
+> - **1978 年** 发表代表作 *A Realist Theory of Science*，奠定[[Critical Realism|批判实在论]]科学哲学的[[Ontology|本体论]]基础。
+> - **1979 年** 发表 *The Possibility of Naturalism*，将批判实在论扩展至人文社会科学，探讨社会结构与人类能动性的辩证关系。
+> - **1986 年** 出版 *Scientific Realism and Human Emancipation*，确立从实然因果解释通往应然价值判断的解释性批判（Explanatory Critique）理论。
+> - **2014 年** 于英国利兹逝世。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1978 — *A realist theory of science***：[[Critical Realism\|批判实在论]]的科学哲学奠基著作，系统阐述了三层[[Ontology\|本体论]]以及深层因果机制与经验观察的分离。 ([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 125]])
-> - **1979 — *The possibility of naturalism: A philosophical critique of the contemporary [[Geisteswissenschaften|Human Sciences]]***：将批判实在论哲学拓宽至社会科学的纲领性著作，论证了社会结构对个体能动性的[[Emergence\|涌现]]权力。
+> - **1978 — *A Realist Theory of Science*** 系统阐明先验实在论（Transcendental Realism），提出区分实在域、实际域与经验域的三层[[Ontology|本体论]]，论证深层因果机制独立于经验观察模式。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
+> - **1979 — *The Possibility of Naturalism: A Philosophical Critique of the Contemporary Human Sciences*** 确立批判自然主义（Critical Naturalism），论证社会结构对个体能动性的[[Emergence|涌现]]权力与转换性社会行动模型（TMSA）。
+> - **1986 — *Scientific Realism and Human Emancipation*** 建立解释性批判（Explanatory Critique）框架，阐明对虚假信念与意识形态结构根源的科学解释直接构成对其进行规范性批判与社会解放实践的正当依据。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 世界是由不同层级构成的开放系统，真正的科学探索不应局限于观察表面上的经验规则性，而应解释引发事件发生的深层因果机制。社会结构具有[[Emergence\|涌现]]的特征和因果力量（结构先于个体存在，但依赖人的意图和能动性来维持或再生产）。[[Critical Realism\|批判实在论]]旨在解决休谟式[[Positivism\|实证主义]]（还原论）与后现代相对主义的对立，为社会与教育政策的批判性评估重建了可靠的[[Ontology\|本体论]]基础。
+> 世界是由多重层级构成的开放系统，真正的科学探索聚焦于解释引发事件发生的深层因果机制与结构性力量，揭示经验可感知现象背后的生成机制。社会结构具有[[Emergence|涌现]]特征和因果力量，先于个体存在并依赖人类实践活动予以再生产或转化。[[Critical Realism|批判实在论]]为超越休谟式[[Positivism|实证主义]]还原论与后现代相对主义确立坚实的[[Ontology|本体论]]支点，为社会与教育政策的批判性评估提供因果解释与价值批判依据。
 
-### 核心命题
+> [!citation-card] 三层本体论与生成机制
+> 巴斯卡区分了本体论的三个层次：因果机制与结构所属的“实在域”（Real）、事件发生所处的“实际域”（Actual），以及主体感知所处的“经验域”（Empirical）。在开放的社会系统中，多重生成机制交织作用可能削弱或遮蔽某些力量，使得深层实在没有实际化，或者实际化而未被经验感知，因而单纯记录经验观察的规则性无法还原真实[[Causality|因果关系]]。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]；另见[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
+>
+> *Causal powers belong to the deep "real", which can be obscured or counteracted in open social systems.*
 
-> [!taxonomy] 三层本体论（Three-tiered Ontology）
-> 巴斯卡区分了[[Ontology\|本体论]]的三个层次：
-> - **实在（Real）** 因果机制与社会结构，无论其是否被观察到。
-> - **实际（Actual）** 事件的实际发生与结果。
-> - **经验（Empirical）** 被人类感知并记录下的经验观察与规则性。
-> 
-> 因果力量属于深层 “实在”，在复杂的社会 “开放系统” 中，多重机制交织作用可能会削弱、抵消或遮蔽某些力量，使得深层实在没有实际化，或者实际化了却未被经验感知。因此，单纯记录经验观察的规则性无法还原[[Causality\|因果关系]]。 ([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 8]])
+> [!citation-card] 开放系统与因果涌现
+> 教育与社会实践属于高度符号化、递归的开放系统，包含个体能动性、信念与社会结构的动态交互。社会结构具备独特的涌现因果力量，具有超越个体要素机械求和的系统性属性。试图通过封闭干预和控制[[Variable|变量]]以测得普适性“[[Effect Size|效应量]]”的做法存在本体论局限。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 113)]]；另见[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
+>
+> *Social structures possess emergent causal powers that cannot be reduced to individual human agents.*
 
-> [!assumptions] 开放系统与封闭系统（Open vs. Closed Systems）
-> 封闭系统在社会情境中并不存在。教育实践是高度符号化的、递归的开放系统，涉及人的能动性、信念与社会结构的交互。因此，试图在实验室中通过封闭干预和控制[[Variable\|变量]]来测得普适性 “[[Effect Size\|效应量]]” 的做法在本体论上是错误的。 ([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 8]])
-
-> [!axioms] 社会结构的涌现性（Causal Emergence）
-> 社会结构不是个体行为的简单求和，它拥有独特的、涌现的因果力量。例如 “军队不只是士兵的复数”，因为军队具有其特定的组织结构和战斗目的；社会结构先于个体的出生而存在，尽管它最终需通过个体的实践活动来再生产或修正。 ([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 15]])
+> [!citation-card] 解释性批判与规范解放
+> 科学解释通过揭示深层生成机制与社会现实之间的因果关联，直接具备规范性批判力量。当科学研究证实某种被广泛信奉的政策话语或意识形态信念根源于特定的结构性利益并服务于权力再生产时，对这种机制的科学阐明本身便为批判和改变该社会条件提供了理性依据。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
+>
+> *Explanatory critique demonstrates how scientific explanation of generative mechanisms enables normative critique of false beliefs and ideological structures.*
 
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 在科学哲学界树立了[[Critical Realism\|批判实在论]]流派，启发了安德鲁·塞耶（Andrew Sayer）等社会学家对[[Positivism\|实证主义]]方法论的批判。
-> - **方法路径** 成为[[Ray Pawson\|雷·波森]]（Ray Pawson）等人创立 “[[Realist Evaluation\|实在论评估]]” 和 “实在论综合” 的哲学基础，提供了解构 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]的[[Ontology\|本体论]]武器。
-> - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）等人的教育批判研究，进入教育政策和社会学辩论，成为批判新自由主义审计文化与 “[[Governing by Numbers\|以数字治理]]” 政策的哲学批判工具。
+> - **理论路径** 在科学哲学与社会理论界确立[[Critical Realism|批判实在论]]流派，启发社会学学者重建社会学因果分析与结构—能动性分析架构。
+> - **方法路径** 成为[[Ray Pawson|雷·波森]]（Ray Pawson）等人创立“[[Realist Evaluation|实在论评估]]”与“实在论综合”的哲学根基，为解构[[Randomised Controlled Trials|RCT]]与[[Meta-analysis|元分析]]提供[[Ontology|本体论]]支撑。
+> - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）的批判研究进入教育政策辩论，成为批判新自由主义审计文化与“[[Governing by Numbers|以数字治理]]”政策的重要工具；在跨国高教政策领域，吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其解释性批判与批判话语分析结合，用于剖析国家地缘教育政策话语的深层权力生成机制。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]
-> - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education\|证据本位教育]]，剖析 [[Education Endowment Foundation\|EEF]] 评估案例中的简单民间科学观。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，并主张以基于实在论的[[Pluralism|多元主义]]代替单一排行。
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，主张以基于实在论的[[Pluralism|多元主义]]替代单一排行榜。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合巴斯卡的批判实在论解释性批判与费尔克拉夫批判话语分析，解构跨国高等教育政策话语背后的地缘政治与权力再生产机制。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 安德鲁·塞耶 (Andrew Sayer) — 发展了[[Critical Realism\|批判实在论]]下的社会科学研究方法；[[Ray Pawson]] — 将其哲学转化为社会项目评估的方法论；[[Terry Wrigley]] — 将其三层[[Ontology\|本体论]]与开放系统论系统引入教育学对证据本位政策的批判中。
+> - **学术伙伴** 安德鲁·塞耶（Andrew Sayer）— 发展批判实在论社会科学方法论；[[Ray Pawson]] — 将批判实在论哲学转化为社会政策评估方法；[[Terry Wrigley]] — 将三层本体论与开放系统论系统引入教育政策对证据本位评估的批判中。
+> - **后续应用** 埃迪·吴（Eddie Woo）— 将解释性批判融入批判性政策话语分析。
 
 ---
 
 ## 争议与批评
 
-> [!tension] 争议焦点
-> - **争议对象**[[Critical Realism\|批判实在论]]的学术可及性与具体方法转化。
-> - **批评立场** 部分社会科学研究者和[[Positivism\|实证主义]]学者提出批评。
-> - **证据依据** 巴斯卡的哲学写作风格高度抽象且充满术语（如[[Emergence\|涌现]]、三层本体、去实际化等），这为非哲学背景的实践者设置了极高的门槛；此外，从[[Ontology\|本体论]]哲学过渡到一线具体研究设计和测量程序的方法论指引依然较为单薄。
-> - **回应或余留问题** 这促进了波森发展出 CMO 机制分析与[[Realist Evaluation\|实在论综合]]等一系列具有操作性的中层方法论。
+> [!debates] 学术争议
+>
+> > [!axis] 哲学抽象度与经验研究操作化转化门槛
+> > 围绕批判实在论概念体系能否有效指导具体实证研究设计展开的长期方法论辩论。
+> >
+> > - **经验研究者评价** 巴斯卡的哲学论述高度抽象且概念稠密（如分层本体、因果涌现、反实际化等），为非哲学背景的一线经验研究者设置了较高的准入门槛，其直接推导经验测量程序的方法论指引相对有限。
+> > - **实在论评估学派回应** 波森等人通过提炼“语境—机制—结果”（CMO）组态与中层理论构建，将巴斯卡的实在论哲学转化为具有高操作性的评估方法体系。
+
+> [!warning] 未解问题与边界
+> 批判实在论在宏观社会科学与教育政策评估中具有强大解释力，但在微观人际互动、教学法测量以及课堂过程的精细化质性编码中，如何保持深层因果机制与经验观察资料的无缝衔接仍是学界持续探讨的课题。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Critical Realism]] | 理论 | 为社会科学提供反实证主义、反经验还原主义的分层本体论框架，阐明结构、能动性与涌现之间的因果逻辑。 |
+> | [[Ontology]] | 概念 | 提出实在、实际、经验三层本体论，奠定深层因果机制与表面经验分离的哲学基础。 |
+> | [[Emergence]] | 概念 | 阐明社会结构具备超越个体简单相加的生成性因果力量。 |
+> | [[Causality]] | 概念 | 将因果关系从休谟式的经验常态规则性重塑为深层生成机制的作用过程。 |
+> | [[Critical Policy Analysis]] | 方法 | 通过解释性批判（Explanatory Critique）确立将科学因果解释与价值规范批判相统一的分析范式。 |

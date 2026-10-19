@@ -350,7 +350,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -396,11 +396,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T12:07:01.638929+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -430,11 +431,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T12:12:04.652979+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -453,7 +455,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T12:14:52.968339+00:00"
     }
   ]
 }
