@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # Critical Policy Analysis
@@ -85,7 +85,7 @@ updated: 2026-10-16
 > 批判性政策分析（Critical Policy Analysis, CPA；亦称批判性政策研究 Critical Policy Study）是一种植根于批判社会理论的质性教育政策研究方法与反思[[Paradigm|范式]]。它将公共政策视作特定阶层或权力精英将其关于“理想社会”的权威愿景转化为法律制度与日常实践的历史性建构，聚焦追问“政策究竟提供了什么、剥夺了什么”（what policies offer and what they deny），致力于系统解构政策文本中的意识形态[[Discourse|话语]]、特权同盟利益输送与[[Disciplina and Doctrina|规训]]控制，从而为受政策压制的边缘群体与一线教育者重夺民主参与能动性提供分析武器。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 法案条文、听证卷宗、专家委员会报告、行政规约、政商游说档案、主流媒体危机修辞，以及**学术畅销书、商业教育咨询公司（Edubusiness）专营产品、企业年度财务申报（如慈善信托报表、企业注册局档案、政府采购合同）** 与一线学校抵制实践。
+> - **研究对象** 法案条文、听证卷宗、专家委员会报告、行政规程、政商游说档案、主流媒体危机修辞，以及**学术畅销书、商业教育咨询公司（Edubusiness）专营产品、企业年度财务申报（如慈善信托报表、企业注册局档案、政府采购合同）** 与一线学校抵制实践。
 > - **问题类型** 适合回答批判解构、权力谱系追踪、意识形态识别、利益再生产分析与民主参与反思等规范性与机制性问题。
 > - **[[Unit of Analysis|分析单位]]** 政策文本话语段落、立法参与同盟、旋转门利益纽带、专家委员会遴选机制、**商业化知识产权特许协议、[[Meta-analysis|元分析]]公式黑箱与简单平均算法、词频统计畸变**及学校地方自治博弈。
 > - **输出形式** 话语批判谱系、利益铁三角机制模型、政策排斥清单、意识形态透视矩阵、计量文本法医解构模型及反制行动战略指南。
@@ -183,16 +183,22 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》的立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，剖析新西兰权力下放后 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]（GERM）紧缩议程（pp. 23–36）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫（Fairclough）三维批判话语分析与巴斯卡（Bhaskar）解释性批判，解构中国“一带一路”教育政策的文本框架化、话语实践与宏观社会政治机制（pp. 677–699）。
 
 ### Edmondson (2005)　法案立法博弈与科学证据标准的政治塑造
 
 > [!claim] 核心发现
-> 政策文本绝非中立的科学工具，而是次政府同盟（立法者、联邦官僚与特定学者）强行将[[Positivism|实证主义]]狭隘拼读法界定为唯一“科学证据标准”的政治产物，系统剥夺了专业学会与一线教师的定义权与专业自由。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
+> 政策文本是次政府同盟（立法者、联邦官僚与特定学者）强行将[[Positivism|实证主义]]狭隘拼读法界定为唯一“科学证据标准”的政治产物，系统剥夺了专业学会与一线教师的定义权与专业自由。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
 
 ### Johnson and Janzen (2023)　学术畅销书解构、元分析黑箱与商业教育政商旋转门
 
 > [!claim] 核心发现
 > 批判性政策分析不应局限于官方立法文本，更应拓展至主导公共政策议程的学术畅销书与商业教育咨询帝国。通过对《[[Visible Learning|可见的学习]]》进行简单平均公式逆向核验、95 次对 6 次词频偏向挖掘，以及对 [[Cognition Education]] 与 [[Corwin Press|Corwin]] 出版社兼任董事薪酬（逾 86.9 万新西兰元）的财务追踪，揭示了将复杂教育实践降维为标准化监控代码、借“[[Class Size|班级规模]]无效论”为政府紧缩政策提供实证掩护的新自由主义掠夺机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–33)]]
+
+### Woo (2023)　“一带一路”教育行动解构与国家复兴话语的批判性透视
+
+> [!claim] 核心发现
+> 批判性政策分析揭示了“一带一路”教育政策在互利共赢表象下的工具从属性与地缘政治抱负，其文本框架化与话语实践深层服务于中华民族伟大复兴以及构建替代性全球治理秩序的宏观国家战略。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 
 ---
 
@@ -201,7 +207,7 @@ updated: 2026-10-16
 本条目所依托的批判性政策分析经典理论奠基与当代实证解构的关键引文如下。
 
 > [!citation-card] 政策作为负载特定群体价值愿景的人为建构（Schneider & Ingram, 1997; Shannon, 1991）
-> 政策是某个人或某个群体关于“事物应当如何存在”之愿景的权威表述，通过界定并传递这些价值偏好的文本、规程与[[Discourse|话语]]显现出来。这些表述规定了社会成员应当如何共同生活，且始终以其作者心中的理想社会蓝图为起点。因此，任何对政策的严肃分析都必须包含对意识形态、历史语境、权力与声望的深入考察，否则无法触及决策过程的真实本质。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
+> 政策是某个人或某个群体关于“事物应当如何存在”之愿景的权威表述，通过界定并传递这些价值偏好的文本、规程与[[Discourse|话语]]显现出来。这些表述规定了社会成员应当如何共同生活，且始终以其起草者心中的理想社会蓝图为起点。因此，任何对政策的严肃分析都必须包含对意识形态、历史语境、权力与声望的深入考察，否则无法触及决策过程的真实本质。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
 >
 > *Policies are the articulation of some one or some group’s vision for the way something should be, and they are revealed through various texts, practices, and discourses that define and deliver these values... they always begin with their authors’ images of an ideal society... Without critical policy study, the histories and social attachments of policy are not considered.*
 

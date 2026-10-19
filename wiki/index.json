@@ -5641,6 +5641,19 @@
     ]
   },
   {
+    "title": "Policy Framing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Framing.md",
+    "aliases": [
+      "政策框架化",
+      "政策框架",
+      "Policy Frame",
+      "诊断性框架",
+      "处方性框架",
+      "激励性框架"
+    ]
+  },
+  {
     "title": "Policy Image",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Image.md",
@@ -28587,6 +28600,17 @@
     ]
   },
   {
+    "title": "Belt and Road Education Action Plan",
+    "type": "fact",
+    "path": "wiki/facts/china/Belt and Road Education Action Plan.md",
+    "aliases": [
+      "推进共建“一带一路”教育行动",
+      "“一带一路”教育行动",
+      "BRI Education Action Plan",
+      "BRI Education Plan"
+    ]
+  },
+  {
     "title": "China Basic Education Curriculum Reform",
     "type": "fact",
     "path": "wiki/facts/china/China Basic Education Curriculum Reform.md",
@@ -37632,6 +37656,11 @@
     "title": "Argument_Schulze-Cleven_2017_HE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
+  },
+  {
+    "title": "Argument_Woo_2023_HEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
   },
   {
     "title": "Argument_Biggs_1999_HERD",
