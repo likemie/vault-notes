@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
     },
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
       "basename": "OECD",
       "path": "wiki/facts/global/OECD.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Karl Popper",
       "path": "wiki/persons/uk/Karl Popper.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     },
     {
       "basename": "Research Question",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Qvortrup_2015_Paideia",
       "path": "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
-    },
-    {
-      "basename": "Thomas Aastrup Rømer",
-      "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md"
     }
   ],
   "omittedPaths": [],

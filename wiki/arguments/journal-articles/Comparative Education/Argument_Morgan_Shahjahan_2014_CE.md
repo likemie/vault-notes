@@ -54,6 +54,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[IEA]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Times Higher Education World University Rankings]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments: []
@@ -69,9 +70,9 @@ title: "Argument_Morgan_Shahjahan_2014_CE"
 argument_key: "Argument_Morgan_Shahjahan_2014_CE"
 argument_display_title: "The legitimation of OECD's global educational governance: examining PISA and AHELO test production"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Comparative Education"
 book_title: ""
@@ -171,7 +172,7 @@ issuing_organization: ""
 > [!proc] 高教评估威权的建构策略
 > 1. **高层政治动员** 2006 年经合组织教育部长会议上，秘书长安赫尔·古里亚（Angel Gurría）直言高教改革刻不容缓，公开呼吁各方授权经合组织牵头研制面向高等教育领域的 PISA 测评。（pp.198–199）
 > 2. **建构高校教学信息缺口** 宣称全球高等教育在学生真实学习成效上存在巨大的客观信息盲区，唯有经合组织具备提供科学跨国比较工具的成熟经验。（p.199）
-> 3. **与商业大学排名明确划界** 经合组织公开批评泰晤士高等教育世界大学排名（Times Higher Education World [[Global Universities Rankings|university rankings]], THE）与[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU，软科排名）过度偏向科研投入与既得声誉，扭曲了大学本质，唯有 AHELO 能够提供聚焦教学质量与[[Learning Gain|增值评价]]的中立科学数据。（p.199）
+> 3. **与商业大学排名明确划界** 经合组织公开批评[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（Times Higher Education World University Rankings, THE）与[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU，软科排名）过度偏向科研投入与既得声誉，扭曲了大学本质，唯有 AHELO 能够提供聚焦教学质量与[[Learning Gain|增值评价]]的中立科学数据。（p.199）
 
 ---
 

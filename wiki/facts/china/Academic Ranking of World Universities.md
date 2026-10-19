@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
+  - "[[Times Higher Education World University Rankings]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
 related_arguments:
@@ -91,7 +92,7 @@ updated: 2026-10-19
 > - **2003 年 — 创制与首次发布**
 >   - 2003 年上海交通大学高等教育研究所首次发布全球 500 强大学学术排名，旨在摸清中国高水平大学与世界一流大学的客观差距；其完全舍弃主观同行评议声誉打分，全部采用公开第三方硬指标，引发国际高等教育界强烈震动。
 > - **2004–2009 年 — 全球排名军备竞赛的形成**
->   - 英国《泰晤士高等教育》（Times Higher Education, THE）于 2004 年联合 QS 公司迅速推出世界大学排名以资抗衡；随后莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名等系统相继[[Emergence|涌现]]，开启全球排名竞赛（Rankings Race）。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
+>   - 英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司迅速推出[[Times Higher Education World University Rankings|世界大学排名]]（THE）以资抗衡；随后莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名等系统相继[[Emergence|涌现]]，开启全球排名竞赛（Rankings Race）。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **2005 年 — 细分校区实证分析与美国顶尖高校垄断地位的确立**
 >   - 2005 年版 ARWU 进一步区分美国多校区公立大学系统，对全球前 500 所大学按学术卓越度进行严谨排位；该版数据显示美国[[Research Universities|研究型大学]]在前 20 强中占据 17 席，成为表征美国二战后科研竞争体制优越性的关键实证依据。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **2009 年至今 — 商业机构化运作与学科细分评价**
@@ -102,7 +103,7 @@ updated: 2026-10-19
 ## 关键文献、法案与历史宣言
 
 > [!citation-card] ARWU 纳入门槛与评选标准声明
-> 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术论文的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录论文的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
+> 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术成果的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录成果的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 >
 > *The ranking considers every university that has any Nobel Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
 
@@ -123,8 +124,8 @@ updated: 2026-10-19
 > |:---|:---|:---|
 > | 核心倡导行动者 | 计量评价机构、美国高水平研究型大学、科技政策决策者 | [[Sociology of Valuation and Evaluation\|估值社会学]]学者、赠地大学联盟、区域性应用技术高校 |
 > | 大学理想类型 | 研究密集型、自然科学主导、以全球顶尖科学产出为导向的科学巨舰 | 承担多元公共使命、促进社会流动、服务区域产业与民主公民培育的复合组织 |
-> | 知识合法性标准 | 在 *Nature*、*Science* 与 SCIE 高被引论文及诺贝尔奖/菲尔兹奖的集中度 | 教学质量、专业实践技能、本土人文社科批判传承与社区公平贡献 |
-> | 制度策略导向 | 集中科研重金吸引顶尖论文产出团队与外籍高被引学者 | 坚持招收弱势背景生源与提供区域公共福祉，但面临排名被惩罚风险 |
+> | 知识合法性标准 | 在 *Nature*、*Science* 与 SCIE 高被引成果及诺贝尔奖/菲尔兹奖的集中度 | 教学质量、专业实践技能、本土人文社科批判传承与社区公平贡献 |
+> | 制度策略导向 | 集中科研重金吸引顶尖科研成果产出团队与外籍高被引学者 | 坚持招收弱势背景生源与提供区域公共福祉，但面临排名被惩罚风险 |
 >
 > **关键制度冲突** 两种逻辑围绕“大学是否等同于自然科学研究机构”展开深层交锋。以 ARWU 为代表的硬指标迫使全球高校走向同质化模仿，削弱了不同国家与类型院校依据本土地缘社会需求发展多元使命的制度空间。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–137)]]
 
@@ -188,10 +189,11 @@ updated: 2026-10-19
 > | [[Richard C. Atkinson]] | Person | 运用 2005 年 ARWU 排名实证论证美国去中心化科研竞争体制与研究生培养卓越性的代表学者与前官员。 |
 > | [[Pepka Boyadjieva]] | Person | 从[[Capability Approach\|可行能力路径]]与估值社会学视角系统批判 ARWU 一刀切指标压制大学多元使命的学者。 |
 > | [[José Luis García Garrido]] | Person | 运用 ARWU 与 THE 排名客观暴露西班牙大学[[Academic Inbreeding\|学术近亲繁殖]]、地方保护主义及流动与声望脱离的比较教育学者。 |
-> | [[Global Universities Rankings]] | Concept | ARWU 所开创的全球大学排名母类概念，涵盖后续 THE、QS、Leiden 等跨国量化评估矩阵。 |
+> | [[Global Universities Rankings]] | Concept | 上位概念；ARWU 所开创的全球大学排名母类概念，涵盖后续 THE、QS、Leiden 等跨国量化评估矩阵。 |
+> | [[Times Higher Education World University Rankings]] | Fact (Event) | 2004 年英国推出的世界大学排名，早期联合 QS 创制，与 ARWU 形成互相对抗与对标的跨国排名双雄格局。 |
 > | [[Sociology of Valuation and Evaluation]] | Concept | 分析 ARWU 如何作为量化评价基础设施建构学术价值等级并重塑组织行为的理论框架。 |
 > | [[Champ]] | Concept | [[Pierre Bourdieu\|布迪厄]]社会学概念，ARWU 将大学评价从国家内部行政空间推向全球竞争资本争夺场域。 |
-> | [[Academic Capitalism]] | Theory | 解释大学在 ARWU 排名压力下追逐外部科研经费、高被引论文与市场声望的理论逻辑。 |
+> | [[Academic Capitalism]] | Theory | 解释大学在 ARWU 排名压力下追逐外部科研经费、高被引学术成果与市场声望的理论逻辑。 |
 > | [[OECD AHELO Project]] | Fact (Program) | 试图跳出 ARWU 硬科学文献计量逻辑、直接测量大学本科学习成果的跨国替代方案尝试。 |
 > | [[CNRS]] | Fact (Organization) | 法国分立的国家级科研机构；由于科研产出脱离大学本土，在 ARWU 早期排名中导致法国综合大学处于劣势。 |
 > | [[National Science Foundation]] | Fact (Organization) | 美国战后科研竞争性资助基石机构；其同行评审模式是造就美国大学在 ARWU 压倒性优势的根源之一。 |

@@ -198,7 +198,7 @@ issuing_organization: ""
 
 %% 可按引用数量重复 [!citation-card]，每张对应一个主题或论证节点。 %%
 
-> [!citation-card]- 引用主题
+> [!citation-card] 引用主题
 > 中文译文。（p.X）
 >
 > *Original text or English translation.*

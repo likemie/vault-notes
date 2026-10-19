@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_persons:
   - "[[Bob Lingard]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
+  - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
   - "[[Bologna Process]]"
   - "[[EU]]"
@@ -93,7 +94,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> 全球大学排名（Global Universities Rankings）是对各国高等教育机构（Higher Education Institutions, HEIs）进行比较性评估和排序的标准化量化工具系统。排名通过选定自然科学研究产出、论文被引频次、跨国学术声誉调查和师生比等指标加权评分，生成连续排位的排行榜（league tables）。它不仅是提供给求学者与雇主的信息参考工具，更已演化为驱动国家高等教育政策转型、重塑院校战略规划并深层固化全球学术权力分层的核心评价基础设施（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 125–126]]）。
+> 全球大学排名（Global Universities Rankings）是对各国高等教育机构（Higher Education Institutions, HEIs）进行比较性评估和排序的标准化量化工具系统。排名通过选定自然科学研究产出、文献被引频次、跨国学术声誉调查和师生比等指标加权评分，生成连续排位的排行榜（league tables）。它不仅是提供给求学者与雇主的信息参考工具，更已演化为驱动国家高等教育政策转型、重塑院校战略规划并深层固化全球学术权力分层的核心评价基础设施（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 125–126]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨越民族国家边界、运用统一度量衡对高等教育机构开展横向排序与价值估定的全球性竞争装置。
@@ -117,7 +118,7 @@ updated: 2026-10-19
 > [!contrast-table] 全球大学排名与相关评价机制的区别
 > | 评估机制 | 空间范围与对象 | 核心导向与指标 | 评价逻辑与结果形态 |
 > |---|---|---|---|
-> | **全球大学排名**<br>Global Universities Rankings | 跨国界比较全球高等教育机构 | 硬科学科研产出、论文引用率与跨国学术声誉 | 制造连续的全球等级位次与[[Zero-Sum Competition\|零和竞争]] |
+> | **全球大学排名**<br>Global Universities Rankings | 跨国界比较全球高等教育机构 | 硬科学科研产出、引文影响力指标与跨国学术声誉 | 制造连续的全球等级位次与[[Zero-Sum Competition\|零和竞争]] |
 > | **国家大学排名**<br>National Rankings | 单一民族国家内部高校 | 本科教学质量、[[Student Satisfaction\|学生满意度]]与就业率 | 服务国内求学选择与办学问责 |
 > | **专业认证评估**<br>Accreditation | 国家或专业行业协会内部院系 | 课程规范、师资资质与最低质量门槛 | 二元资格认定（通过/未通过），不制造逐级排位 |
 
@@ -129,13 +130,13 @@ updated: 2026-10-19
 > - **1983 年 — 国家排名的兴起**
 >   - 1983 年《美国新闻与世界报道》（*U.S. News & World Report*）发布首个美国大学排名；随后加拿大《麦克林》（*Maclean's*）杂志与英国媒体相继推出本国高校排行榜，反映出国家内部公众求学选择与问责需求的上升（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp. 5–6]]）。
 > - **2003–2004 年 — 全球排名时代的开启与双雄并立**
->   - 上海交通大学高等教育研究所于 2003 年发布首个多国综合性的[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）；英国《泰晤士高等教育》（Times Higher Education, THE）于 2004 年联合 QS 公司推出世界大学排名，将跨国竞争机制正式推向全球舞台（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 131]]）。
+>   - 上海交通大学高等教育研究所于 2003 年发布首个多国综合性的[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）；英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司推出[[Times Higher Education World University Rankings|世界大学排名]]（THE），将跨国竞争机制正式推向全球舞台（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 131]]）。
 > - **2005–2010 年 — 排名体系的多元扩散与指标离散**
 >   - 荷兰莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名与独立后的 QS 世界大学排名相继[[Emergence|涌现]]。不同体系的指标分歧导致同一高校排位剧烈震荡（例如香港大学在 2007 年不同榜单中排位从第 8 名到 300 名开外），印证了排名作为价值建构而非客观镜子的社会学属性（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp. 10–11]]）。
 > - **2000 年代 — 跨国排行榜治理与排名焦虑的政治学批判**
 >   - 里兹维与林加德等政策社会学家揭示，跨国绩效排行榜（league tables）已成为超国家教育治理的远程操控机制，引发主权国家与大学普遍的排名焦虑，将关于教育根本目的的公共讨论异化为追求榜单排位的技术合规算计。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2010 年代至今 — 全球扩散与南欧等外围国家的制度性脱节**
->   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 THE 榜单前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
+>   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 [[Times Higher Education World University Rankings|THE 榜单]]前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 > - **2019 年至今 — [[UN Sustainable Development Goals|联合国可持续发展目标]]影响力排名的衍生**
 >   - THE 推出基于联合国[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）的大学影响力排名，试图将评价维度从传统科学卓越拓展至社会正义、气候行动与性别平等，反映出全球排名逻辑对公共责任议题的回应与再吸收（[[Argument_Zapp_2022_Springer|Zapp, 2022, p. 147]]）。
 
@@ -169,7 +170,7 @@ updated: 2026-10-19
 > [!feature] 全球排名的系统性偏见维度
 > 跨国实证研究一致表明，主流全球大学排名存在层层累积的系统性倾斜（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 131–132]]）：
 > - **偏爱研究密集型机构**
->   以自然科学实验室与高频论文发表为绝对重心，本科教学质量与本土公共服务功能被系统性边缘化。
+>   以自然科学实验室与高频期刊成果发表为绝对重心，本科教学质量与本土公共服务功能被系统性边缘化。
 > - **偏爱英语圈大学**
 >   以英文发表为主导的文献计量数据库（如 SCIE、Scopus）天然有利于以英语为母语的英美大学。
 > - **偏爱历史悠久的老牌名校**
@@ -194,7 +195,7 @@ updated: 2026-10-19
 > 排名通过指标选择、空间想象与量化规制主动生产全球竞争关系，充当形塑高等教育地缘政治秩序的基础设施。
 
 > [!claim] [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]
-> **[[Competitiveness|竞争性地缘政治装置]]的基础设施** 排名与指标化的运作不仅衡量竞争，更在根本上创造竞争。在排名诞生之前，全球高校之间并不天然处于可排序、同质化的零和博弈之中；排名通过裁定指标（论文引用、师生比、国际化率）并赋予权重的操作，将异质机构转化为同质可比单位。这一过程体现出排名的生产性：它在声称描述大学的同时规定了何为优质大学，进而驱使大学开发出以在线自评（[[Online Self-Assessment|OSA]]）为代表的[[Preemptive Governance|预判性治理]]工具，争夺[[Promising Student|有前景的学生]]以维系位次（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp. 219–226]]）。
+> **[[Competitiveness|竞争性地缘政治装置]]的基础设施** 排名与指标化的运作不仅衡量竞争，更在根本上创造竞争。在排名诞生之前，全球高校之间并不天然处于可排序、同质化的零和博弈之中；排名通过裁定指标（成果引用、师生比、国际化率）并赋予权重的操作，将异质机构转化为同质可比单位。这一过程体现出排名的生产性：它在声称描述大学的同时规定了何为优质大学，进而驱使大学开发出以在线自评（[[Online Self-Assessment|OSA]]）为代表的[[Preemptive Governance|预判性治理]]工具，争夺[[Promising Student|有前景的学生]]以维系位次（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp. 219–226]]）。
 
 > [!claim] [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]
 > **[[Space-Making|高等教育空间制造]]与[[International Education|国际教育]]循环效应** 全球排名的创设是典型的[[Space-Making|高等教育空间制造]]。它将既有研究数据与可竞争的全球大学市场空间想象相结合，将特定版本的世界一流大学模式固化为全球制度现实。在澳大利亚等典型国家，排名与国际学生市场形成了自我强化的正反馈循环体系：高校利用国际学生高额学费资助约四分之一的科研产出以推高排名，排名的提升反过来巩固了在全球生源市场中的吸纳能力，以此维持财政收入与排位优势（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 4–5, 19]]）。
