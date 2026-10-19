@@ -33,6 +33,8 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Global Universities Rankings]]"
   - "[[Learning Gain]]"
+  - "[[Generic Skills]]"
+  - "[[Space of Equivalence]]"
   - "[[Operationalization]]"
   - "[[Cultural Validity]]"
   - "[[Paradigm]]"
@@ -57,6 +59,8 @@ related_facts:
   - "[[Times Higher Education World University Rankings]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Tuning Project]]"
+  - "[[Council for Aid to Education]]"
 related_arguments: []
 sources:
   - "[[sources/Morgan_Shahjahan_2014_CE|Morgan_Shahjahan_2014_CE]]"
@@ -70,7 +74,7 @@ title: "Argument_Morgan_Shahjahan_2014_CE"
 argument_key: "Argument_Morgan_Shahjahan_2014_CE"
 argument_display_title: "The legitimation of OECD's global educational governance: examining PISA and AHELO test production"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -171,7 +175,7 @@ issuing_organization: ""
 
 > [!proc] 高教评估威权的建构策略
 > 1. **高层政治动员** 2006 年经合组织教育部长会议上，秘书长安赫尔·古里亚（Angel Gurría）直言高教改革刻不容缓，公开呼吁各方授权经合组织牵头研制面向高等教育领域的 PISA 测评。（pp.198–199）
-> 2. **建构高校教学信息缺口** 宣称全球高等教育在学生真实学习成效上存在巨大的客观信息盲区，唯有经合组织具备提供科学跨国比较工具的成熟经验。（p.199）
+> 2. **建构高校教学信息缺口与[[Space of Equivalence|等值空间]]** 宣称全球高等教育在学生真实学习成效上存在巨大的客观信息盲区，唯有经合组织具备提供科学跨国比较工具的成熟经验，借此积极营建以学生学习成果为核心的跨国“[[Space of Equivalence|等值空间]]”（space of equivalence）。（p.199）
 > 3. **与商业大学排名明确划界** 经合组织公开批评[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（Times Higher Education World University Rankings, THE）与[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU，软科排名）过度偏向科研投入与既得声誉，扭曲了大学本质，唯有 AHELO 能够提供聚焦教学质量与[[Learning Gain|增值评价]]的中立科学数据。（p.199）
 
 ---
@@ -198,15 +202,15 @@ issuing_organization: ""
 
 <br>
 
-#### 2. 学科职场胜任力拓展与通用技能机械照搬的挫折
+#### 2. 学科职场胜任力拓展与[[Generic Skills|通用认知技能]]机械照搬的挫折
 
 在 AHELO 研制中，经合组织动员了由 300 名多国专家、250 位大学管理层与上万名师生构成的庞大网络，全面推进四大分支维度的测评研发。（p.200）
 
 > [!tension-table] AHELO 测验研制的双重技术路径与张力
 > | 测评支柱 | 研发策略与政策转移形式 | 实施成效与深层张力 |
 > |:---|:---|:---|
-> | **经济学与工程学** | **学科共识建构（[[Soft Policy Transfer\|软政策转移]]）**<br>联合欧洲高等教育校准协会（Tuning Educational Structures in Europe Association，简称 Tuning 协会）界定超越单纯学科概念的应用能力，侧重向非专业人士传达经济原理与解决现实问题的职场胜任力。（p.200） | 成功确立了国际可比的学科预期，但评价模板与命题资源高度依赖欧美及日本等核心成员国。（p.200） |
-> | **通用认知技能** | **直接机械复制（[[Hard Policy Transfer\|硬政策转移]]）**<br>为压减研发周期与成本，直接采纳美国教育援助委员会（Council for Aid to Education, CAE）研发的美国大学学习评估（Collegiate Learning Assessment, CLA，[[Collegiate Learning Assessment\|大学学习评估]]）表现性任务。（pp.200–201） | 任务植根于美国本土情境，跨国翻译与[[Cultural Validity\|文化适切性]]极差，最终不得不增补客观多选题并返工重制框架。（p.201） |
+> | **经济学与工程学** | **学科共识建构（[[Soft Policy Transfer\|软政策转移]]）**<br>联合欧洲高等教育校准协会（依托[[Tuning Project|欧洲调整项目]]学术网络）界定超越单纯学科概念的应用能力，侧重向非专业人士传达经济原理与解决现实问题的职场胜任力。（p.200） | 成功确立了国际可比的学科预期，但评价模板与命题资源高度依赖欧美及日本等核心成员国。（p.200） |
+> | **[[Generic Skills|通用认知技能]]** | **直接机械复制（[[Hard Policy Transfer\|硬政策转移]]）**<br>为压减研发周期与成本，直接采纳[[Council for Aid to Education|美国教育援助委员会]]（Council for Aid to Education, CAE）研发的美国大学学习评估（Collegiate Learning Assessment, CLA，[[Collegiate Learning Assessment\|大学学习评估]]）表现性任务。（pp.200–201） | 任务植根于美国本土情境，跨国翻译与[[Cultural Validity\|文化适切性]]极差，最终不得不增补客观多选题并返工重制框架。（p.201） |
 
 ---
 
@@ -285,12 +289,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 测验生产早期治理合法性的确立机制
+> [!citation-card] 测验生产早期治理合法性的确立机制
 > 跨国组织在学生评价工具研发早期阶段部署了多元治理机制以获取界定教育核心价值的合法权力。这些机制包括：（1）承袭经合组织既往成功；（2）凝聚知识能力；（3）调动官僚资源。通过解构测验生产的不同阶段，我们揭示了教育政策转移得以发生的技术微观路径。（p.202）
 >
 > *Through comparative analysis of two international education assessment tools, we demonstrate that the OECD deploys various governance mechanisms during the production stages of PISA and AHELO to acquire the legitimate power to define what counts in education. These mechanisms include: (1) building on past OECD successes; (2) assembling knowledge capacity; and (3) deploying bureaucratic resources. By analysing the stages of assessment production, we illustrate the specific ways in which educational transfer takes place.*
 
-> [!citation-card]- 全球教育治理的认知地缘政治与批判视野
+> [!citation-card] 全球教育治理的认知地缘政治与批判视野
 > 国际组织测验研制的早期阶段构成了至关重要的‘全球教室’，用以在竞争性全球经济中构建、协商、传播并合法化何种知识与学习受到认可，其性质超越了单纯的技术理性流程。我们建议比较教育学者拓展超出文献中随处可见的方法论批评与后续影响研究，深入审视全球教育政策生产的认知地缘政治。（p.203）
 >
 > *The early stages of test production vis-à-vis IOs are not simply techno-rational processes, but important ‘global classrooms’ for constructing, negotiating, disseminating and legitimising what counts as knowledge and learning in a competitive global economy... In short, we recommend moving beyond the plentiful methodological critiques and impact studies of assessment tools in the existing literature to critically examine the geopolitics of producing global education policy.*
@@ -300,7 +304,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> - **AHELO 官方论证逻辑的深度批判分析受限** 原文明确指出，系统解构经合组织针对 AHELO 政策合法化立项依据的官方修辞已超出研究篇幅与当前主题范围，相关意识形态批判留待关联专项研究深入探讨。（p.203）
+> - **AHELO 官方论证逻辑的深度批判分析受限** 系统解构经合组织针对 AHELO 政策合法化立项依据的官方修辞超出本篇篇幅与主题范围，相关意识形态批判留待关联专项研究深入探讨。（p.203）
 > - **未穷尽 AHELO 研制过程中的具体协商妥协细节** 受限于当前阶段可行性报告与解密文本的披露程度，分析未能完整追踪测评工具各命题利益方之间达成妥协的全部微观谈判记录，这一协商妥协历程有待后续专项考察深入挖掘。（p.202）
 > - **聚焦于测验生产阶段的分析边界** 理论考察高度聚焦于测评工具的早期研发与制度成形过程，并未追踪 AHELO 可行性研究结束后的最终落地政策后果。（pp.193, 202）
 

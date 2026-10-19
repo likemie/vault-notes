@@ -2162,6 +2162,18 @@
     ]
   },
   {
+    "title": "Generic Skills",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Generic Skills.md",
+    "aliases": [
+      "通用技能",
+      "generic competencies",
+      "通用能力",
+      "通用素养",
+      "跨学科通用技能"
+    ]
+  },
+  {
     "title": "Higher-Order Thinking Skills",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Higher-Order Thinking Skills.md",
