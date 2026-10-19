@@ -180,7 +180,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # Randomised Controlled Trials
@@ -197,7 +197,7 @@ updated: 2026-10-17
 > - **输出形式** 标准化[[Effect Size|效应量]]估计、[[Statistical Significance|统计显著性]]检验结果、干预-对照比较。
 
 > [!dev-timeline]+ 历史演进与建制化历程
-> - **1904–1980s — 起源与医学奠基** 从流行病学随机分组萌芽到阿司匹林心脏病试验，医学循证试验的确立推动了[[Causality|因果推断]]规范化，为教育评估奠定[[Meta-analysis|元分析]]与效应量统计底座。
+> - **1904–1980s — 起源与医学奠基** 从流行病学随机分组萌芽到阿司匹林心脏病试验，医学循证试验的确立推动了[[Causality|因果推断]]规范化，为教育评估奠定[[Meta-analysis|元分析]]与效应量统计基础。
 >
 >   *医学循证经验推动因果推断规范化与元分析计量基础的确立。*
 >
@@ -212,7 +212,7 @@ updated: 2026-10-17
 >   - 1983 — 教育心理学经验期刊中近半数论文采用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]）。
 >   - 1985–1989 — 田纳西星级[[Class Size|班级规模]]实验（[[Tennessee STAR Project 1985-1989]]）实施，成为全美教育干预因果评估的里程碑。
 >   - 2000 — 教育经验文章中[[Intervention Research|干预研究]]占比达 40%，受控实验仍占据核心主导地位。
->   - 2001 — 美国国会通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款为杠杆强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
+>   - 2001 — 美国国会通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款机制强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
 >   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse|WWC]]）并由 [[Office of Educational Research and Improvement|OERI]] 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
 >   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 [[Study Design and Implementation Assessment Device|Study DIAD]]，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
 >   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, p. 42]]）。
@@ -230,7 +230,7 @@ updated: 2026-10-17
 >   - 2020 — Serpell 批判将 RCT 奉为宏观政策唯一金标准的制度性脱节，指出十年前置实验周期导致研究在出炉时即已技术过时，并结合劳登布什（Stephen Raudenbush, 2015）论证孤立因果效应无法指导宏观系统性治理（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, pp. 41–42]]）。
 >   - 2022 — Helgetun & Menter 剖析英格兰[[Evidence Era|证据时代]]将医学试验奉为[[Rationalized Myth|合理化神话]]的机制，揭露[[Epistemological Coherence|全流程认识论连贯性]]断裂与依策造据（[[Policy-Based Evidence-Making|PBEM]]）风险（[[Argument_Helgetun_2022_JEdPolicy|Helgetun & Menter, 2022, pp. 17–19, 23–24]]）。
 >   - 2023 — Kraft 元分析 3,426 项教育 RCT 效应量，确立真实[[Business as Usual|常态教学]]对照下的效应量现实基准：36% 小于 0.05 SD，整体中位数仅为 0.10 SD（[[Argument_Kraft_2023_ER|Kraft, 2023, pp. 183, 185]]）。
->   - 2024 — Wadhwa et al. 检视 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示基于 RCT 的跨机构评级冲突率达 35.4%，证实单项[[Internal Validity|内部效度]]并不保证宏观政策综合收敛（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 18–20]]）。
+>   - 2024 — Wadhwa et al. 检视 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示基于 RCT 的跨机构评级冲突率达 35.4%，证实单项[[Internal Validity|内部效度]]并不保证宏观政策结论一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 18–20]]）。
 >
 > - **2010s 至今 — 跨国治理规范与法定单项合格门槛的治理异化** RCT 成为国际组织推行循证贷款的技术规制工具，而在学区实地审计中，法定单项合格门槛诱发了合规假象与科研供给赤字。
 >
@@ -312,10 +312,10 @@ updated: 2026-10-17
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi and Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。精度通过最小可检测[[Effect Size\|效应量]]（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论文献的空白。
 
 > [!method-stack] 部分嵌套 RCT 与[[Intent-to-Treat Analysis\|意向治疗分析]]（ITT）
-> Schweig and Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-[[Strategic Compliance|compliance]]）** 当存在非合规时，传统[[Hierarchical Linear Model\|多水平模型]]不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。
+> Schweig and Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-[[Strategic Compliance|compliance]]）**。当存在非合规时，传统[[Hierarchical Linear Model\|多水平模型]]不再估计纯粹的处理效应，转为提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。
 
 > [!method-stack] [[School Choice\|学校选择]]与[[Teacher Choices\|教师选择]]：突破传统 RCT 适用瓶颈的新设计
-> 大规模学校水平[[Random Assignment\|随机化]]并非总能回答一线迫切关心的实践问题（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]）：
+> 大规模学校水平[[Random Assignment\|随机化]]在回答一线关切的实践问题时存在局限（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]）：
 > - **学校选择（[[Researching School Choices]]）** 某些学校层面的根本决策无法获得学校的随机分配配合（例如混合能力分组对比分层教学因学校拒斥而招募流产，高中推迟上课时间试验亦因组织排课冲突而失败；Roy et al., 2014；Robinson, 2016）。[[Education Endowment Foundation\|EEF]] 开辟“学校选择”资助渠道，放弃硬性随机化，转而利用教育系统现存的自然变异，依托严格的[[Quasi-Experimental Designs\|准实验设计]]（QED）评估学校组织决策的因果效应，同时保持[[Preregistration\|预注册]]透明度。
 > - **教师选择（Teacher Choices）** 一线教师的核心关切多为日常微观教学决策（如[[Homework\|作业]]是全班讲评还是逐本精批、电话家访能否改善课堂行为、最有效的全班朗读组织形式等），而非外部商业化包装项目。针对此类问题，EEF 探索小样本、短周期的敏捷设计，采用被试内设计（within-participant designs）和近端测量（proximal outcomes），大幅压缩试验周期与学校动员成本。
 
@@ -335,7 +335,7 @@ updated: 2026-10-17
 > | 可迁移性 | 低——项目整体难以跨情境移植 | 较高——离散机制更易跨情境迁移 |
 > | 与学习科学的连续性 | 弱——不涉及认知和社会过程 | 强——机制连接学习的社会和情感维度 |
 >
-> Peterson 的提案并不主张用机制实验完全替代黑箱 RCT，而是重新设计政策评估使其同时测试核心机制（p. 304），以在保持随机化优势的同时提高研究产出的实用性和可用性。
+> Peterson 提出重构政策评估方案，主张在保持随机化优势的同时使试验能够同步检验核心因果机制（p. 304），以提高研究产出的实用性与可用性。
 
 ---
 
@@ -355,7 +355,7 @@ updated: 2026-10-17
 > - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT [[Effect Size|效应量]]的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观[[Research Synthesis|证据综合]]若混淆这两类性质相异的对照基线，将系统性拉低[[Effective Teaching|有效教学]]策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
 > - **适用边界** [[External Validity\|外部效度]]与情境依赖性受限（[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]；跨学段与跨地区迁移阻滞）；[[Causality\|因果推断]]基本问题限制个体级[[Counterfactual\|反事实]]观察；科学发现周期与政策时效刚性的结构性脱节（建立 RCT 稳固证据共识需历时数年至十年，在教育信息化等快速迭代领域极易诱发“报告公布时技术已淘汰”；政策决策对证据及时性与相关性的客观诉求压倒对单一方法学的执念；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 42]]）。
 > - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性副作用；微观技术[[Variable\|变量]]隔离[[Screening Off\|屏蔽]]宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 41]]）。二阶[[Metascience|元科学]]审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
-> - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO]] 框架审查[[Access and Acceptance in Research|研究准入]]与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果链路；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
+> - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO]] 框架审查[[Access and Acceptance in Research|研究准入]]与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果机制；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
 
 > [!assumptions] [[Random Assignment\|随机分配]]逻辑与 ceteris paribus 假定
 > 随机分配的核心逻辑是采纳**其他条件相同（ceteris paribus）** 条件——假设参与者构成中的大量未控制[[Variable\|变量]]在组间均匀分布，因此无需单独控制它们。但这是一个大胆且可能危险的假设：[[Complexity Theory\|复杂性理论]]和混沌理论表明，微小的变化和差异就可以带来结果的重大差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 78]]）。
@@ -433,3 +433,4 @@ updated: 2026-10-17
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判二阶元分析将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如班级规模缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以随机分配（RCT）为代表的美式量化评估规程成套引入“新政”福利改革，在就业保留与晋升（[[European Research Area|ERA]]）项目中实施大规模受控试验并由美方机构跨国落地。

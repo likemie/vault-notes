@@ -10,7 +10,7 @@ Argument：wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_
 本批类型：method；统一模板：wiki/templates/template-method.md
 目标（按序）：
 1. wiki/methods/qualitative/Semi-structured Interview.md
-2. wiki/methods/qualitative/Historical Document Analysis of Curriculum.md
+2. wiki/methods/qualitative/Documentary Analysis.md
 3. wiki/methods/qualitative/Comparative Policy Analysis.md
 
 必读规范：wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md

@@ -4,5 +4,15 @@
       "sentence": "既往研究多聚焦联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）与世界银行（World Bank），忽视了 OECD 独特的政策规训手段。",
       "target": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md": [
+    {
+      "sentence": "**对象** 英国新工党 1997 年执政后的“新政”（New Deal）劳动力市场与福利改革决策过程，重点考察就业保留与晋升（ERA）示范项目与内阁高层决策档案。",
+      "target": "wiki/facts/eu/European Research Area.md"
+    },
+    {
+      "sentence": "DWP 随后于 2002 年正式立项启动英国就业保留与晋升（Employment Retention and Advancement, ERA）示范项目，成为英国社会政策史上规模最大的随机对照实验。",
+      "target": "wiki/facts/eu/European Research Area.md"
+    }
   ]
 }

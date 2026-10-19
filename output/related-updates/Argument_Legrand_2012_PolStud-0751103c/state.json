@@ -1,9 +1,9 @@
 {
   "version": 1,
   "root": "/Users/shaoyangwu/Documents/MyNotes",
-  "created": "2026-10-19T01:15:56.691459+00:00",
+  "created": "2026-10-19T01:22:04.137229+00:00",
   "argument": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
-  "argument_hash": "31e3afdb3722285451761f799f503aa39f088f5b20e105906cfa4d8e339612f2",
+  "argument_hash": "22995df3c88ce68c7af9bf5b6ce297dfaba0757d199d7970705c5649e03c68d7",
   "batches": [
     {
       "number": 1,
@@ -62,7 +62,7 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:16:25.677825+00:00"
+      "finished": "2026-10-19T01:22:14.979897+00:00"
     },
     {
       "number": 2,
@@ -120,7 +120,7 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:16:50.452042+00:00"
+      "finished": "2026-10-19T01:22:33.563411+00:00"
     },
     {
       "number": 3,
@@ -172,7 +172,7 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:17:18.898196+00:00"
+      "finished": "2026-10-19T01:22:43.209838+00:00"
     },
     {
       "number": 4,
@@ -195,7 +195,7 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:17:35.134384+00:00"
+      "finished": "2026-10-19T01:22:52.833683+00:00"
     },
     {
       "number": 5,
@@ -233,7 +233,7 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:17:53.337517+00:00"
+      "finished": "2026-10-19T01:23:05.062765+00:00"
     },
     {
       "number": 6,
@@ -290,11 +290,11 @@
           ]
         }
       ],
-      "finished": "2026-10-19T01:18:09.922893+00:00"
+      "finished": "2026-10-19T01:23:19.912292+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -313,12 +313,15 @@
           ]
         },
         {
-          "title": "Historical Document Analysis of Curriculum",
+          "title": "Documentary Analysis",
           "type": "method",
-          "path": "wiki/methods/qualitative/Historical Document Analysis of Curriculum.md",
+          "path": "wiki/methods/qualitative/Documentary Analysis.md",
           "aliases": [
-            "课程历史文献分析",
-            "历史文献分析"
+            "文献分析",
+            "documentary research method",
+            "文献研究",
+            "政策文献分析",
+            "policy documentary analysis"
           ],
           "discovered_by": [
             "related_methods",
@@ -339,11 +342,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T01:23:40.294658+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -376,11 +380,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T01:26:02.132455+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -398,11 +403,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T01:27:09.995099+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -421,11 +427,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T01:29:05.002150+00:00"
     },
     {
       "number": 11,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -472,7 +479,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T01:29:44.705408+00:00"
     }
   ]
 }

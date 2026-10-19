@@ -265,12 +265,43 @@ issuing_organization: ""
 
 ---
 
-## 结论与理论延伸
+---
 
-> [!finding-cards] 核心结论总结
-> - **治理权力前置确立** [[OECD|经合组织]]在测验正式问世前，便已通过研发机制锁定了对“教育质量”的定义权与全球教育改革议程。（pp.193, 202）
-> - **微观规程充当转移跳板** 依靠试题编写规程等[[Hard Policy Transfer|硬政策转移]]手段，跨国组织将标准化测量[[Paradigm|范式]]深度嵌入各国评价队伍的日常操作中。（pp.197–198）
-> - **跨国评估的固有脆弱性** 机械照搬成熟工具与忽视高校办学自主权必然引发效度危机，[[Test Production|测验生产]]是多方博弈且随时可能受挫的动态政治过程。（pp.201–203）
+## 主要发现
+
+> [!finding-cards] 核心发现
+> 1. **全球治理合法化权力在测验生产早期确立** 经合组织早在指标体系研发与测评工具编制阶段，便通过历史声誉、知识聚合与官僚重组锁定了教育质量与评价议程的全球话语权，先于测评最终结果的发布生效。（pp.193, 202）
+> 2. **试题微观规程充当跨国硬政策转移的核心载体** 标准化任务分解、评分指南与题型规程将传统以国别课程为基础的考试置换为统一的素养测试，迫使参测国评价技术官僚全盘接纳经合组织的方法论范式。（pp.197–198）
+> 3. **工具直接移植引发严重效度水土不服与技术返工** AHELO 通用技能测评直接机械复制美国 CAE 的 CLA 表现性任务，遭遇跨文化适应不良与翻译危机，表明忽视本土情境的硬转移必然削弱跨国工具的科学合法性。（pp.200–201）
+> 4. **大规模测评研制具有高度的政治经济与地缘脆弱性** 测评生产深受宏观经济周期制约，且通用与学科模板主要来源于美欧日等核心成员国，折射出全球教育治理中深层的认知地缘依附关系。（pp.201–203）
+
+> [!stat-cards]- 测评研制动员网络规模快照
+> - **300 名** AHELO 研制过程中动员的跨国专家学者规模，涵盖专家组、咨询组与学科委员会等多元组织网络。（p.200）
+> - **250 位** AHELO 试点阶段直接卷入可行性论证与测评实施的高等院校领导层管理人员。（p.200）
+> - **50,000 名** AHELO 测试动员的师生基数，包含 10,000 名高校教师与 40,000 名参测大学生。（p.200）
+
+---
+
+## 关键引用
+
+> [!citation-card]- 测验生产早期治理合法性的确立机制
+> 跨国组织在学生评价工具研发早期阶段部署了多元治理机制以获取界定教育核心价值的合法权力。这些机制包括：（1）承袭经合组织既往成功；（2）凝聚知识能力；（3）调动官僚资源。通过解构测验生产的不同阶段，我们揭示了教育政策转移得以发生的技术微观路径。（p.202）
+>
+> *Through comparative analysis of two international education assessment tools, we demonstrate that the OECD deploys various governance mechanisms during the production stages of PISA and AHELO to acquire the legitimate power to define what counts in education. These mechanisms include: (1) building on past OECD successes; (2) assembling knowledge capacity; and (3) deploying bureaucratic resources. By analysing the stages of assessment production, we illustrate the specific ways in which educational transfer takes place.*
+
+> [!citation-card]- 全球教育治理的认知地缘政治与批判视野
+> 国际组织测验研制的早期阶段构成了至关重要的‘全球教室’，用以在竞争性全球经济中构建、协商、传播并合法化何种知识与学习受到认可，其性质超越了单纯的技术理性流程。我们建议比较教育学者拓展超出文献中随处可见的方法论批评与后续影响研究，深入审视全球教育政策生产的认知地缘政治。（p.203）
+>
+> *The early stages of test production vis-à-vis IOs are not simply techno-rational processes, but important ‘global classrooms’ for constructing, negotiating, disseminating and legitimising what counts as knowledge and learning in a competitive global economy... In short, we recommend moving beyond the plentiful methodological critiques and impact studies of assessment tools in the existing literature to critically examine the geopolitics of producing global education policy.*
+
+---
+
+## 自述局限
+
+> [!warning]
+> - **AHELO 官方论证逻辑的深度批判分析受限** 原文明确指出，系统解构经合组织针对 AHELO 政策合法化立项依据的官方修辞已超出本文篇幅与主题范围，作者将该部分的意识形态批判留待关联专项研究深入探讨。（p.203）
+> - **未穷尽 AHELO 研制过程中的具体协商妥协细节** 原文自述受限于当前阶段可行性报告与解密文本的披露程度，未能完整追踪测评工具各命题利益方之间达成妥协的全部微观谈判记录，作者计划在后续出版物中深入挖掘这一协商妥协历程。（p.202）
+> - **聚焦于测验生产阶段的分析边界** 本文理论分析高度聚焦于测评工具的早期研发与制度成形过程，并未追踪 AHELO 可行性研究结束后的最终落地政策后果。（pp.193, 202）
 
 ---
 

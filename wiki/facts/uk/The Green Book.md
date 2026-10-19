@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-19
 ---
 
 # The Green Book
@@ -79,7 +79,7 @@ updated: 2026-10-16
 
 > [!timeline] 政策时间线
 > - **1970s** 英国财政部建立最初的经济评估指南，服务于资本基础设施投资评估。
-> - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念。
+> - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念，并作为新工党政府推行循证决策（EBPM）与试点评估的法定行政规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **2018–2020** 经历跨部门审查后重大修订，重点纠正长期存在的“伦敦和东南部投资偏倚”，强化对区域平衡发展、气候变化与证据稳健性的考量。
 > - **2025** 设立政府评估工作组（Government Evaluation Task Force, ETF），监督全政府对绿皮书循证原则的执行情况。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **2026** 英国皇家学会《科学为社会》报告第 14 项建议明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty\|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 87)]]
@@ -104,7 +104,7 @@ updated: 2026-10-16
 > [!finding-cards] 效果与评价
 > - **确立国家循证评估的通用语法** 统一了跨部门政策分析的方法论标准，使基础设施投资、环境规制与健康干预能够在同一[[Analytic Framework\|分析框架]]下比较优先级。
 > - **证据与决策真实逻辑的脱节** 皇家学会指出，现实中部长往往依据政治、社会或经济等多维考量拍板决策，却常常打着“遵循科学”的旗号，导致科学证据被政治工具化，损害了科学顾问与评估体系的公信力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
-> - **呼唤法定科学证据陈述的闭环落地** 报告强调，唯有将绿皮书中关于[[Scientific Uncertainty\|科学不确定性]]的识别要求制度化为必须对公众公开的《科学证据陈述》，并由国家学术院进行独立第三方审计，才能真正激活绿皮书的科学治理潜能。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
+> - **呼唤法定科学证据陈述的机制落地** 报告强调，唯有将绿皮书中关于[[Scientific Uncertainty\|科学不确定性]]的识别要求制度化为必须对公众公开的《科学证据陈述》，并由国家学术院进行独立第三方审计，才能真正激活绿皮书的科学治理潜能。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
 
 ---
 
