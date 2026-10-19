@@ -156,7 +156,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -207,11 +207,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T18:22:05.674311+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -245,11 +246,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T18:24:41.477744+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -299,7 +301,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-19T18:28:43.542566+00:00"
     },
     {
       "number": 7,
