@@ -20,3 +20,22 @@ Treat `vault-schema.md` as the authority for writing and maintenance, and `vault
 - Add only expressions actually reviewed and approved to `scripts/writing_exceptions.json`, as a list of lint-provided IDs under the entry's canonical vault-relative path. Store no reasons, evidence text or extra metadata. Never bulk-generate approvals just to make lint pass. The script validates binding and structure; the assistant must verify the substance against the actual source or passage before adding an ID.
 - When the original line changes, remove the stale review and review the new wording if it still triggers a check. Do not add blanket word exemptions, review metadata to note YAML, or review annotations to the body.
 - The final response must state what was rewritten and list only expressions newly reviewed and retained in this task with the entry and review ID. Do not repeat existing exceptions or their reasons in every task. If no new exceptions were approved, say so. If lint still fails, report the unresolved items and do not claim the task is complete.
+
+
+## Anti-AI Tone & Writing Rules
+
+Adhere strictly to `lieflat-less-ai-tone` rules when writing, revising, or cleaning vault entries:
+- Information conservation and whitelist edits: Never fabricate or hallucinate facts, numbers, dates, actors, sources, or causal links to make text "sound more concrete." Never delete or weaken qualifications/hedges ("可能", "通常"). Edits must target only flagged issues with minimal changes; preserve original paragraph, list, table, citation, and document structure.
+- Direct affirmative claims over negative contrasts ("翻案腔"): Eliminate artificial contrasts ("不是……而是……", "并非……而是……", "与其说……不如说……", "看似……实则……") unless grounded in explicit academic debates in the source text. State assertions affirmatively with supporting evidence directly.
+- Punctuation and structure:
+  - Eliminate revelatory dashes ("——") used to create artificial pauses or drama.
+  - Remove empty colon prefixes ("核心是：", "原因如下：", "一句话总结：") and empty sentences whose only function is to announce a list.
+  - Avoid dense lists separated by caesura marks ("、") within a single clause (>=3 parallel items); synthesize or vary syntactic patterns.
+  - Break repetitive sentence frames in adjacent sentences (identical clause order, comma position, length) and avoid padding with three parallel examples.
+- Prohibited openers and personifications:
+  - Prohibit colloquial openers like "说白了", "说穿了", "先说结论".
+  - Prohibit personified professional metaphors for systems or processes (e.g., "像一位智慧的导师", "初级审查员").
+- Concrete evidence over vague summaries: When specific empirical data or timelines exist in the context, do not obscure them behind generic labels ("显著提升", "大幅改善"). Restore nominalized structures ("完成了对……的优化") to active, precise verbs.
+- Translationese reduction: Break excessively long pre-nominal modifiers (>15 chars or multiple "的"); simplify fronted "当……时", "对于……来说", and unneeded sentence-initial conjunctions; merge redundant "这意味着……" / "这表明……" reiterations.
+- Anaphoric subjects for non-initial paragraphs: Do not start non-initial paragraphs with subjectless comments ("值得注意的是", "更重要的是", "关键在于"); ensure an anaphoric referent ("这", "此") or explicit topic subject is present.
+
