@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
     },
     {
+      "basename": "index",
+      "path": "wiki/arguments/index.md"
+    },
+    {
       "basename": "Argument_Morgan_Shahjahan_2014_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Morgan_Shahjahan_2014_CE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pure Evaluation",
       "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md"
-    },
-    {
-      "basename": "Gert Biesta",
-      "path": "wiki/persons/netherlands/Gert Biesta.md"
     }
   ],
   "omittedPaths": [],

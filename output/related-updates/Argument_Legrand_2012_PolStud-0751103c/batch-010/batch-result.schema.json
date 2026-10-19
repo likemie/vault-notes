@@ -12,8 +12,8 @@
           "补充"
         ]
       },
-      "minItems": 1,
-      "maxItems": 1
+      "minItems": 3,
+      "maxItems": 3
     }
   },
   "required": [

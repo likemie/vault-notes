@@ -1,9 +1,9 @@
 {
   "version": 1,
   "root": "/Users/shaoyangwu/Documents/MyNotes",
-  "created": "2026-10-19T04:34:54.663097+00:00",
+  "created": "2026-10-19T07:29:24.399748+00:00",
   "argument": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
-  "argument_hash": "22995df3c88ce68c7af9bf5b6ce297dfaba0757d199d7970705c5649e03c68d7",
+  "argument_hash": "4b3865ab05fbea985912d61064cd92eb6ea7b3962dc00202c8504761dacc67ea",
   "batches": [
     {
       "number": 1,
@@ -62,11 +62,11 @@
           ]
         }
       ],
-      "finished": "2026-10-19T04:44:07.190989+00:00"
+      "finished": "2026-10-19T07:32:42.958160+00:00"
     },
     {
       "number": 2,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -119,12 +119,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:45:43.233235+00:00"
+      ]
     },
     {
       "number": 3,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -171,12 +170,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:46:56.866304+00:00"
+      ]
     },
     {
       "number": 4,
-      "status": "done",
+      "status": "pending",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -194,12 +192,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:47:17.181535+00:00"
+      ]
     },
     {
       "number": 5,
-      "status": "done",
+      "status": "pending",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -232,12 +229,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:47:44.925979+00:00"
+      ]
     },
     {
       "number": 6,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -289,12 +285,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:49:23.879286+00:00"
+      ]
     },
     {
       "number": 7,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -342,12 +337,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:51:02.564595+00:00"
+      ]
     },
     {
       "number": 8,
-      "status": "done",
+      "status": "pending",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -380,35 +374,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:52:23.172013+00:00"
+      ]
     },
     {
       "number": 9,
-      "status": "done",
-      "type": "fact",
-      "template": "wiki/templates/template-fact-program.md",
-      "entries": [
-        {
-          "title": "European Research Area",
-          "type": "fact",
-          "path": "wiki/facts/eu/European Research Area.md",
-          "aliases": [
-            "欧洲研究区",
-            "ERA",
-            "欧洲科研区"
-          ],
-          "discovered_by": [
-            "related_facts",
-            "body"
-          ]
-        }
-      ],
-      "finished": "2026-10-19T04:52:43.284712+00:00"
-    },
-    {
-      "number": 10,
-      "status": "done",
+      "status": "pending",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -427,12 +397,11 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:53:22.213182+00:00"
+      ]
     },
     {
-      "number": 11,
-      "status": "done",
+      "number": 10,
+      "status": "pending",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -479,8 +448,7 @@
             "body"
           ]
         }
-      ],
-      "finished": "2026-10-19T04:53:52.153883+00:00"
+      ]
     }
   ]
 }
