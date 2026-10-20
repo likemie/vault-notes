@@ -5,7 +5,7 @@ aliases:
   - 正当边缘参与
   - 边缘参与
   - LPP
-summary: "让·莱夫与埃蒂安·温格在情境学习理论中确立的学习科学奠基性理论；主张学习本质上并非孤立的个体认知符号加工，而是行动者在真实实践共同体中，通过承担合法但非核心的边缘性职责，逐步浸润、掌握共同体的专业技能、文化工具并形成身份认同的社会化过程；在政策与治理研究中，该理论被创新性地用于解释学者跨界介入国家督导时的身份切换与边缘协商机制。"
+summary: "让·莱夫与埃蒂安·温格在情境学习理论中确立的学习科学奠基性理论；主张学习是行动者在真实实践共同体中，通过承担合法但非核心的边缘性职责，逐步浸润、掌握共同体的专业技能、文化工具并形成身份认同的社会化过程；在政策与治理研究中，该理论被创新性地用于解释学者跨界介入国家督导时的身份切换与边缘协商机制。"
 type: theory
 theory_field: "learning-cognition"
 theory_related_count: 9
@@ -20,7 +20,7 @@ tags:
   - theme/research-use
   - theme/sociology-of-education
 related_concepts:
-  - "[[Constructivism]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
@@ -51,10 +51,10 @@ updated: 2026-10-21
 > - **解释对象** 解释人类在社会文化脉络中如何真正获得知识、掌握复杂专业技能，以及新成员如何融入既有专业共同体并重塑自身身份认同。
 > - **理论问题** 驳斥将学习简化为“脱离真实世界情境的抽象命题与概念灌输”的传统认知主义（Cognitivism）教学观，破解理论知识与实践技能脱节的经验谜题。
 > - **理论类型** 情境认知理论与学习社会学框架。
-> - **知识位置** 处于学习科学（Learning Sciences）、认知人类学与专业社会学的核心枢纽，奠定了实践共同体（Communities of Practice, CoP）的认识论底座。
+> - **知识位置** 处于学习科学（Learning Sciences）、认知人类学与专业社会学的核心枢纽，奠定了实践共同体（Communities of Practice, CoP）的认识论基础。
 
 > [!claim] 核心判断
-> 学习的实质并非大脑对抽象信息的被动接受与心理符号加工，而是行动者作为实践共同体的新成员，通过从事具有真实社会价值但责任与风险相对可控的**合法的边缘性参与（Legitimate Peripheral Participation, LPP）**，在与资深实践者协作互动的具身活动中，逐步掌握共同体的文化工具、默会技艺并确立专业身份的社会化历程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654; Lave & Wenger, 1991)]]
+> 学习的实质在于行动者作为实践共同体的新成员，通过从事具有真实社会价值但责任与风险相对可控的**合法的边缘性参与（Legitimate Peripheral Participation, LPP）**，在与资深实践者协作互动的具身活动中，逐步掌握共同体的文化工具、默会技艺并确立专业身份。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654; Lave & Wenger, 1991)]]
 
 ---
 
@@ -80,7 +80,7 @@ updated: 2026-10-21
 > [!feature] 核心构件解析
 > - **合法性（Legitimacy）** 新成员被既有共同体正式承认、接纳为正当参与者的制度资格；若缺乏合法性，参与便沦为非法偷窥或无约束游离。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 > - **边缘性（Peripherality）** 参与者在共同体中的介入形态是局部的、分阶段的、非核心承重的；这种边缘位置为学习者提供了观察、试错、模仿与适应的安全缓冲空间。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
-> - **参与（Participation）** 学习绝非纸上谈兵，必须全身心卷入共同体的实际行动与人际网络中，通过做中学（Learning by Doing）达成身体与心理的全面重塑。
+> - **参与（Participation）** 行动者必须全身心卷入共同体的实际行动与人际网络中，通过做中学（Learning by Doing）达成身体与心理的全面重塑。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-10-21
 ### 命题一　跨界专家在官僚决策中的处境呈现合法的边缘性参与特征
 
 > [!thesis] 科学界与政策界的边界穿梭机制
-> 外部科研学者介入政府科层系统时，其角色并非行政权力核心，而是以合法的边缘参与者身份，在异质实践共同体之间学习边界斡旋。
+> 外部科研学者介入政府科层系统时，以合法的边缘参与者身份，在异质实践共同体之间学习边界斡旋。
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **研究者在督察实务中的角色协商与学习演进** 塞格霍尔姆等在考察瑞典学校督察局的质量审计时发现，受邀高校研究者的工作状态完全符合莱夫与温格所定义的“合法的边缘性参与”过程。学者们置身于督察局由官员、督导员、法学专家构成的特定行政共同体中，利用各自的活动、身份、文本制品进行协商；这是一种高度情境化的学习形式，促使学者能够在科学界与政策界两个截然不同的异质世界之间迅速切换角色与社会关系，但由于其参与始终处于外围边缘地位，其学术建议最终往往被科层系统的文本定稿机制所过滤与收编。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
@@ -130,5 +130,5 @@ updated: 2026-10-21
 > | [[Governing by Inspection]] | Theory | 借督导治理框架中专家作为知识经纪人所依赖的边界跨越机制。 |
 > | [[Research Utilization]] | Concept | LPP 为理解学术科研成果如何在政策现场被协商与重构提供了学习论视角。 |
 > | [[Professional Judgment]] | Concept | 新手在实践共同体边缘参与中逐步培育与内化的核心专业能力。 |
-> | [[Constructivism]] | Theory | 情境学习理论所脱胎并实现重大社会文化转向的哲学认识论传统。 |
+> | [[Constructivist Paradigm]] | Theory | 情境学习理论所脱胎并实现重大社会文化转向的哲学认识论传统。 |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 将 LPP 理论跨界运用于教育政策制定与督导专家分析的核心文献。 |

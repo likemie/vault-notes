@@ -58,14 +58,14 @@ updated: 2026-10-21
 > - **知识位置** 处于公共管理学、政策科学与教育政策社会学的交叉地带，连接循证政策运动与知识利用（Research Utilization）理论。
 
 > [!claim] 核心判断
-> 公共政策的循证决策绝非单一学术科学研究的线性延伸，而是由**系统性学术证据（Systematic/Scientific Evidence）**、**项目与专业实践经验证据（Programmatic/Practitioner Evidence）** 以及**政治证据（Political Evidence）** 三重异质透镜共同折射、相互抗衡与综合调和的产物；任何政策的制定都深嵌于政治合法性与价值权衡之中，离开政治与专业透镜，单纯的科学证据既无法界定政策问题，也无法保证政策的有效推行。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 643, 654; Head, 2008)]]
+> 公共政策的循证决策建立在**系统性学术证据（Systematic/Scientific Evidence）**、**项目与专业实践经验证据（Programmatic/Practitioner Evidence）** 以及**政治证据（Political Evidence）** 三重异质透镜的共同折射、相互抗衡与综合调和之上；任何政策的制定都深嵌于政治合法性与价值权衡之中，离开政治与专业透镜，单纯的科学证据既无法界定政策问题，也无法保证政策的有效推行。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 643, 654; Head, 2008)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 澳大利亚公共政策学者布赖恩·W·黑德（Brian W. Head, 2008）在《澳大利亚公共管理学报》发表论文《循证政策的三重视角》（*Three lenses of evidence-based policy*）。
+> - **提出者与原始文本** 澳大利亚公共政策学者布赖恩·W·黑德（Brian W. Head, 2008）在《澳大利亚公共管理学报》发表《循证政策的三重视角》（*Three lenses of evidence-based policy*）。
 > - **原初问题** 面对 20 世纪末发源于英国并席卷全球的“循证政策”（What Works）狂热，政策学界急需厘清：当政治家和高级官僚高喊“循证”时，他们眼中的“证据”与大学实验室学者眼中的“证据”是否存在根本的认识论断层。
 > - **理论资源与材料** 汲取公共行政学关于政治博弈的经典论述（如林德布洛姆渐进决策理论、怀尔达夫斯基政道分析）、政策网络理论以及循证医学跨界移植的经验教训。
 > - **形成路径** 黑德将复杂的政策知识划分为三元互动结构，建立了系统性科研、实务经验与政治考量三足鼎立的透镜模型。
@@ -83,20 +83,8 @@ updated: 2026-10-21
 
 > [!feature] 三重透镜的属性与内涵
 > - **系统性/科学透镜（Systematic / Scientific Evidence）** 源自大学与独立研究机构的高阶学术知识，包含严谨的研究设计、随机对照试验（RCT）、大型调查、系统综述与元分析，追求高内部效度与理论因果解释力。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 643)]]
-> - **项目/实践经验透镜（Programmatic / Practitioner Evidence）** 源自一线官僚、学校校长与基层教师在政策执行与日常教学中沉淀的默会实践知识（metis）、管理常识与可行性判断，追求方案落地的可操作性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 643)]]
+> - **项目/实践经验透镜（Programmatic / Practitioner Evidence）** 源自一线官僚、学校校长与基层教师在政策执行与日常教学中积累的默会实践知识（metis）、管理常识与可行性判断，追求方案落地的可操作性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 643)]]
 > - **政治透镜（Political Evidence）** 源自政治领导层、政党意识形态、选民意向、利益集团游说与媒体议程设置，关注决策能否赢得政治共识、维系执政合法性并兑现竞选承诺。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 643, 654)]]
-
-> [!logic-map]- 三维透镜在政策空间的交叠与聚合
-> ```mermaid
-> flowchart TD
->     A["系统性学术透镜<br>(科学严谨性/因果机制)"]
->     B["项目实践透镜<br>(操作可行性/默会经验)"]
->     C["政治意志透镜<br>(政治合法性/选民利益)"]
->     D["真实政策决策与治理文本<br>(综合斡旋的循证产物)"]
->     A --> D
->     B --> D
->     C --> D
-> ```
 
 ---
 
@@ -108,7 +96,7 @@ updated: 2026-10-21
 > 科学证据在政策场域中几乎从不以“未经修剪”的原貌直接生效，政策系统的制度本能是寻找能为政治透镜提供合理化支撑的学术证据。
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
-> **督察机构依托政治目标筛选与转译研究证据** 塞格霍尔姆等指出，瑞典学校督察局在建立常规督导与质量审计体系时，面临着政府提升学生成绩的强烈政治任务。在此语境下，机构并非根据学术界的全面科研前沿制定政策，而是严格依据政治透镜设定的目标，定向挑选与提高成绩直接挂钩的成功学校研究，并编制特定视角的知识综述。正如戈姆利（Gormley, 2011）所论述的，公职人员对科学信息的使用更多表现为一种“辩护”（加强既有成见）而非“说服”（改变既定路线）；三重视角理论深刻戳破了督察局所谓纯粹客观学术循证的官方修辞。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 654)]]
+> **督察机构依托政治目标筛选与转译研究证据** 塞格霍尔姆等指出，瑞典学校督察局在建立常规督导与质量审计体系时，面临着政府提升学生成绩的强烈政治任务。在此语境下，机构依据政治透镜设定的目标，定向挑选与提高成绩直接挂钩的成功学校研究，并编制特定视角的知识综述。正如戈姆利（Gormley, 2011）所论述的，公职人员对科学信息的使用更多表现为加强既有成见的“辩护”功能，缺乏改变既定路线的“说服”效力；三重视角理论深刻戳破了督察局所谓纯粹客观学术循证的官方修辞。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 654)]]
 
 ---
 

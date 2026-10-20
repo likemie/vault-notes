@@ -8,12 +8,13 @@ summary: "英国著名教育政策社会学家，牛津大学教育学系荣休�
 type: person
 subtype: scholar
 person_region: "uk"
-born: "1948"
-died: ""
 person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1948"
+died: ""
+lifespan: "1948–至今"
 nationality: uk
 region: uk
 person_kind: "scholar"
@@ -93,7 +94,7 @@ updated: 2026-10-21
 
 > [!feature] 奥兹加教育政策社会学的两大理论支柱
 > - **知识告知政策与知识构成政策的两分法** 彻底破除了实证主义的“理性改革范式”（Wildavsky, 1979）与线性“工具性使用”（Weiss, 1979）；奥兹加揭示在当代治理中，国家主动生产、挑选、重塑并编码符合行政偏好的数据和研究，使知识本身成为规制权力的一部分。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 644, 652)]]
-> - **通过数字与检查实施治理（Governing by Numbers & Inspection）** 指出欧洲教育空间一体化并非依靠条约强制，而是依靠跨国指标对标、质量监测数据回传与外部学校督导评估；这种软治理以透明和科学为掩护，实则对主权国家与微观学校施加了极具渗透性的去政治化监控。
+> - **通过数字与检查实施治理（Governing by Numbers & Inspection）** 指出欧洲教育空间一体化主要依靠跨国指标对标、质量监测数据回传与外部学校督导评估推进；这种软治理以透明和科学为依托，对主权国家与微观学校施加了具有渗透性的去政治化监控。
 
 ---
 
@@ -101,7 +102,7 @@ updated: 2026-10-21
 
 > [!influence-path|notitle] 影响路径
 > - **欧洲政策社会学学术网络** 奥兹加长期担任欧洲教育治理研究集群的学术引路人，其开创的“治理知识”框架直接哺育了爱丁堡与牛津学派。
-> - **督导治理理论流派** 其弟子与合作者索蒂里亚·格雷克、约阿基姆·林德格伦等在奥兹加学术思想滋养下创立“借督导治理”（Governing by Inspection）学派。
+> - **督导治理理论流派** 其学生与合作学者索蒂里亚·格雷克、约阿基姆·林德格伦等在奥兹加学术思想滋养下创立“借督导治理”（Governing by Inspection）学派。
 > - **瑞典学校督察局实证案例的理论透镜** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将奥兹加（Issakyan & Ozga, 2008; Ozga, 2011）的两分法作为全文核心理论框架之一，精准界定常规督导侧重“知识告知政策”的理性改革特征，而质量审计则属于典型的“知识构成政策”的深层政治建构。
 
 ---
