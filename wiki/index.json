@@ -637,6 +637,17 @@
     ]
   },
   {
+    "title": "Cultural Recognition",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Cultural Recognition.md",
+    "aliases": [
+      "文化认同探索",
+      "文化认同策略",
+      "寻求文化认同",
+      "cultural recognition tactic"
+    ]
+  },
+  {
     "title": "Deductive Rationality",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Deductive Rationality.md",
@@ -17813,6 +17824,19 @@
     ]
   },
   {
+    "title": "Tributary System",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Tributary System.md",
+    "aliases": [
+      "朝贡体系",
+      "朝贡制度",
+      "朝贡模型",
+      "华夷秩序",
+      "Chinese tributary system",
+      "imperial tributary system"
+    ]
+  },
+  {
     "title": "Tullock's Bureaucracy Theory",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md",
@@ -23511,6 +23535,15 @@
     ]
   },
   {
+    "title": "Suyan Pan",
+    "type": "person",
+    "path": "wiki/persons/china/Suyan Pan.md",
+    "aliases": [
+      "潘苏燕",
+      "Pan Suyan"
+    ]
+  },
+  {
     "title": "Tao Xingzhi",
     "type": "person",
     "path": "wiki/persons/china/Tao Xingzhi.md",
@@ -27031,6 +27064,16 @@
       "约翰·哈德威格",
       "Hardwig, J.",
       "John R. Hardwig"
+    ]
+  },
+  {
+    "title": "John King Fairbank",
+    "type": "person",
+    "path": "wiki/persons/us/John King Fairbank.md",
+    "aliases": [
+      "费正清",
+      "J. K. Fairbank",
+      "Fairbank"
     ]
   },
   {

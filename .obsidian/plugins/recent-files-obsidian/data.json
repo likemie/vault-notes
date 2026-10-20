@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
     },
     {
+      "basename": "John King Fairbank",
+      "path": "wiki/persons/us/John King Fairbank.md"
+    },
+    {
       "basename": "Educational Evidence Clearinghouses",
       "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Legrand_2012_PolStud",
       "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
-    },
-    {
-      "basename": "Employment Retention and Advancement",
-      "path": "wiki/facts/uk/Employment Retention and Advancement.md"
     }
   ],
   "omittedPaths": [],
