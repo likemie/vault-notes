@@ -33,6 +33,7 @@ sources:
   - "[[sources/Zhu_Yang_2025_HE/Zhu_Yang_2025_HE|Zhu_Yang_2025_HE]]"
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Cultural Recognition]]"
   - "[[Soft Power]]"
   - "[[Hard Power]]"
   - "[[Knowledge Diplomacy]]"
@@ -58,6 +59,10 @@ related_concepts:
 related_theories:
   - "[[Neo-Tributary Perspective]]"
   - "[[Tianxia Heuristic]]"
+  - "[[Tributary System]]"
+related_persons:
+  - "[[Suyan Pan]]"
+  - "[[John King Fairbank]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
@@ -83,12 +88,12 @@ updated: 2026-10-20
 > 伴随中国经济体量增长，国际学术界对其对外权力战略存在激烈争议。传统现实主义视角倾向将这一崛起视为零和地缘博弈，自由主义与[[Constructivist Paradigm|建构主义]]研究则习惯套用西方[[Soft Power|软实力]]与中心—外围框架。然而，既有讨论多局限于[[Confucius Institute|孔子学院]]和留学生规模等浅层指标，难以解释中国在东南亚及[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）沿线密集推进的高校援建、师资培训与校际合作。核心问题在于：基于中国历史经验的[[Neo-Tributary Perspective|新朝贡分析框架]]能否准确解释当代高等教育输出背后的战略行为模式，其在真实教育实践中面临哪些解释局限与现实张力？（pp. 1041–1043）
 
 > [!claim] 核心主张
-> 高等教育输出主要通过传播当代国家发展治理经验来寻求文化认同，大学则成为向外界展示科技[[Hard Power|硬实力]]与大国宽仁形象的展演窗口；但对外教育合作过度依赖经贸外交刺激与超国民待遇供给，导致大量校际协议沦为纸面形式。新朝贡视角长于剖析现实地缘中的功利互动，但必须摒弃单一华夏中心主义的文化同化预设，通过融入[[Tianxia Heuristic|天下启发式]]与[[Knowledge Diplomacy|知识外交]]等多重视角，方能完整理解大国跨国高教战略的复杂全貌。（pp. 1041, 1050, 1053–1054）
+> 高等教育输出主要通过传播当代国家发展治理经验来寻求[[Cultural Recognition|文化认同]]，大学则成为向外界展示科技[[Hard Power|硬实力]]与大国宽仁形象的展演窗口；但对外教育合作过度依赖经贸外交刺激与超国民待遇供给，导致大量校际协议沦为纸面形式。新朝贡视角长于剖析现实地缘中的功利互动，但必须摒弃单一华夏中心主义的文化同化预设，通过融入[[Tianxia Heuristic|天下启发式]]与[[Knowledge Diplomacy|知识外交]]等多重视角，方能完整理解大国跨国高教战略的复杂全貌。（pp. 1041, 1050, 1053–1054）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2016 至 2021 年间中国面向东南亚（以柬埔寨为典型案例）推进的高等教育拓展实践，涵盖语言教学、教育发展援助、留[[Student Mobility|学生流动]]及校际合作项目四种路径。
 > - **张力** 经典朝贡模型假定的文化同化与受援国自主理性之间的张力；宏大外交签约声势与基层高校合作协议虚置之间的张力；展示大国宽仁善意与留学生超国民待遇引发学术声誉受损之间的张力。
-> - **贡献** 实证检验并修正了潘苏燕（Suyan Pan）与卢天佑（Joe Tin-yau Lo）建立的高等教育新朝贡[[Analytic Framework|分析框架]]（Pan & Lo, 2017, 2018），确立了文化认同探索与[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]命题，揭示了受援小国的策略性自主，推动了本土理论[[Paradigm|范式]]的自我更新。
+> - **贡献** 实证检验并修正了[[Suyan Pan|潘苏燕]]（Suyan Pan）与卢天佑（Joe Tin-yau Lo）建立的高等教育新朝贡[[Analytic Framework|分析框架]]（Pan & Lo, 2017, 2018），确立了[[Cultural Recognition|文化认同探索]]与[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]命题，揭示了受援小国的策略性自主，推动了本土理论[[Paradigm|范式]]的自我更新。
 
 ---
 
@@ -97,7 +102,7 @@ updated: 2026-10-20
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Neo-Tributary Perspective\|新朝贡视角]]**<br>[[Neo-Tributary Perspective]] | 将中国古代朝贡体系的非强制差序结构与互惠贸易逻辑映射至当代大国战略，从例外论、经贸外交联动、教育输出与形象塑造四个维度解构权力投射，确立高等教育为连接四维机制的核心纽带。（pp. 1044–1046） |
+> | **[[Neo-Tributary Perspective\|新朝贡视角]]**<br>[[Neo-Tributary Perspective]] | 将中国古代[[Tributary System|朝贡体系]]的非强制差序结构与互惠贸易逻辑映射至当代大国战略，从例外论、经贸外交联动、教育输出与形象塑造四个维度解构权力投射，确立高等教育为连接四维机制的核心纽带。（pp. 1044–1046） |
 > | **[[Chinese Exceptionalism\|中国例外论]]**<br>[[Chinese Exceptionalism]] | 揭示国家将自身认知为兼具卓越与善意的复合心智，驱使高校成为展演现代科技成就与宽仁道德形象的展演窗口。（pp. 1051–1052） |
 > | **[[Tianxia Heuristic\|天下启发式]]**<br>[[Tianxia Heuristic]] | 提供无边界、包容共生与相互依存的世界秩序构想，作为反思朝贡体系等级性与华夏中心主义的理论参照。（pp. 1046, 1054） |
 > | **[[Soft Power\|软实力]]**<br>[[Soft Power]] | 既有文献最常采用的分析透镜，用于审视[[Confucius Institute\|孔子学院]]与留学生教育的吸引力，但难以解释软[[Hard Power\|硬权力]]资源的混合调配机制。（pp. 1043–1044） |
@@ -309,7 +314,7 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 经验证据表明，将中国对外战略简单二元化为霸权扩张或利他天下均脱离了复杂的现实土壤。新朝贡视角因其能够穿透表象直击经贸、外交与文化交织的微观机制而展现出强大的解释力，但其理论底层必须接受重构。（pp. 1053–1054）
 
 > [!contrast-table] 经典朝贡模型、新朝贡分析框架与实证修正框架对比
-> | 维度 | Fairbank 经典朝贡模型（1942） | Pan & Lo 新朝贡分析框架（2017, 2018） | 实证修正框架（Zhu & Yang, 2025） |
+> | 维度 | [[John King Fairbank|Fairbank]] 经典朝贡模型（1942） | [[Suyan Pan|Pan]] & Lo 新朝贡分析框架（2017, 2018） | 实证修正框架（Zhu & Yang, 2025） |
 > |------|-------------------|----------------------------------|----------------------------|
 > | **文化传播假设** | 儒家伦理道德感召，周边番邦自愿接受文化同化（p. 1044） | 当代语言文化输出作为同化机制（p. 1044） | 证伪文化同化，确立当代国情治理的**文化认同探索**（p. 1050） |
 > | **例外论形态** | 古代华夏中心主义文明自负（p. 1044） | 大国崛起中追求卓越承认的心态（p. 1045） | 融合现代科学理性与厚德善意的**实用主义例外论**（p. 1051） |
