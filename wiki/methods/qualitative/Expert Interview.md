@@ -10,7 +10,7 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -91,7 +91,7 @@ updated: 2026-10-21
 > - **输出形式** 制度运行机制、行政行为类型学、政策执行困境与组织[[Knowledge Integration\|知识整合]]模式。
 
 > [!citation-card] Meuser & Nagel 论专家访谈的知识社会学定位
-> 在专家访谈中，受访者之所以被纳入研究视野，并非因其个体的独特个性或生活史，而是因为他们作为特定行动[[Champ\|场域]]中的职能承担者，掌握着维系与推进该系统运转的专门化整合知识、组织情境知识与实践操作惯例。
+> 在专家访谈中，受访者作为特定行动[[Champ\|场域]]中的职能承担者与专业人员被纳入研究视野；他们依托日常履职与职责行使获得专属的信息准入特权与行动者内部知识，掌握着维系与推进系统运转的专门化整合知识、组织情境知识与实践操作惯例。
 >
 > *The interviewed persons were experts, and as part of their domain of activity they were privileged to access to information and they were knowledgeable as regards the aspects of interest. As officers and function bearers within the organisations, they obtained their knowledge from the practical exercise of related tasks, activities and responsibilities: expert knowledge is thus insider knowledge. (Meuser & Nagel, 2003)*
 

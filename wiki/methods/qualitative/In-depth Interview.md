@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 66
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -88,10 +88,11 @@ related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # In-depth Interview
@@ -223,3 +224,4 @@ updated: 2026-10-20
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 考证美国 2000 年卡斯尔草案试图将深度访谈降级为“初步形式”的法案争议，记录学术共同体如何依托 NRC 六大原则捍卫质性深入对话的方法论地位（pp. 33–34）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中深度访谈等质性调查方法的激增，标志着学科研究由单一依赖[[Primary and Secondary Documents|二手文献]]的历史综述转向[[Fieldwork|实地调查]]。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 对澳大利亚与英国 19 位前卫生及就业政策部长与高级公务员开展深度访谈，考察英澳精英网络在跨国政策转移中的认知调适与主观动力机制。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 32–34)]] — 依托 FabQ 跨国合作项目，对欧洲与国家层面的教育决策精英开展半结构化深度访谈，重点访谈欧盟委员会教育文化总司及 Eurydice 政策官员，揭示跨国组织在指标生产与数据流动中的深层共生与策略外在化机制。

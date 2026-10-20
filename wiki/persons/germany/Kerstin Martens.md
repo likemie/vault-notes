@@ -52,6 +52,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -130,6 +131,7 @@ updated: 2026-10-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
+> - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“比较转向”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学客观主义品牌的软治理技术。
 
 ---
 

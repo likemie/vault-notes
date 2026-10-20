@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -70,6 +70,7 @@ related_arguments:
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -92,7 +93,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Documentary Analysis
@@ -242,3 +243,4 @@ updated: 2026-10-20
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在[[Test Production|测验生产]]早期确立全球教育治理权力的多维机制。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党[[Evidence-Based Policy-Making|循证决策]]治理制度对跨国政策借鉴与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理中国教育部与商务部奖学金政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 28–32)]] — 结合经合组织官方白皮书、各国教育部政策报告与大众媒体报道篇幅统计（如德国 687 个版面 vs 芬兰 8 个版面），运用政策与媒体文献分析揭示跨国测评数据的媒介化传播与国内政策合法化辩护机制。

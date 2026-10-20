@@ -5,7 +5,7 @@ aliases:
   - 德罗西埃
   - Desrosières, A.
   - Alain Desrosieres
-summary: "法国著名统计学家、科学史家与量化社会学先驱，长期担任法国国家统计与经济研究所（INSEE）高级统计专员及亚历山大·柯瓦雷研究中心研究员。其奠基性著作《大数的政治：统计推理的历史》创立了“量化社会学”，系统阐释“等值空间”（Space of Equivalence）与“通约”（Commensuration）的社会建构机制，揭示统计测度并非对前置现实的被动反映，而是通过制度惯例与技术公约“将事物凝聚在一起”的政治工程；其思想深刻启发了当代跨国教育治理与数字治理的批判研究。"
+summary: "法国著名统计学家、科学史家与量化社会学先驱，长期担任法国国家统计与经济研究所（INSEE）高级统计专员及亚历山大·柯瓦雷研究中心研究员。其奠基性著作《大数的政治：统计推理的历史》创立了“量化社会学”，系统阐释“等值空间”（Space of Equivalence）与“通约”（Commensuration）的社会建构机制，揭示统计测度是通过制度惯例与技术公约“将事物凝聚在一起”的政治工程；其思想深刻启发了当代跨国教育治理与数字治理的批判研究。"
 type: person
 nationality: france
 person_region: "france"
@@ -49,7 +49,6 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
-  - "[[Alain Desrosières]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[CNRS]]"
@@ -59,6 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-14
@@ -77,7 +77,7 @@ updated: 2026-10-21
 > - **代表贡献** 创立量化历史社会学分析[[Paradigm|范式]]，系统提出[[Space of Equivalence|等值空间]]（Space of Equivalence）与[[Commensuration|通约化]][[Analytic Framework|分析框架]]，揭示统计工具兼具“证明”（Prouver）与“治理”（Gouverner）的双重政治属性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 人物定位的关键来源
-> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目并未被动记录各国的既有教育成就，而是借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，凭空制造出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了绝对优先于本土效度与[[Ontology|本体论]]多样性的至高地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，构建出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了优先于本土效度与[[Ontology|本体论]]多样性的核心地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured.*
 
@@ -97,7 +97,7 @@ updated: 2026-10-21
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970–1980 年代 — 社会分类编码与公约构建期** 关注统计分类如何被发明与制度化，揭示职业与阶层分类绝非天然客观范畴，而是统计学家、国家行政官僚与社会工会博弈协商的社会公约。
+> - **1970–1980 年代 — 社会分类编码与公约构建期** 关注统计分类如何被发明与制度化，将职业与阶层分类阐明为统计学家、国家行政官僚与社会工会博弈协商所确立的社会公约。
 >   - **代表著作** 《社会职业分类》（*Les Catégories socioprofessionnelles*, 1988, 与 Laurent Thévenot 合著）。
 >   - **关键概念／方法** 社会公约、分类编码、制度化测量。
 >   - **阶段转向** 从纯粹技术性的数理统计编制转向考察统计工具背后的历史与制度生成机制。
@@ -115,10 +115,10 @@ updated: 2026-10-21
 ## 核心思想
 
 > [!claim|lead] 核心主张
-> 量化统计绝非对既有外部客观世界的中立测量与被动镜像，而是一种通过制定规范惯例、消除地方情境差异并建立“[[Space of Equivalence|等值空间]]”（Space of Equivalence）来强行“将事物凝聚在一起”（*tenir ensemble*）的制度建构工程。量化兼具科学“证明”（Prouver）与政治“治理”（Gouverner）的双重功能；一旦统计指标脱离认知探索而沦为行政问责与资源分配的工具，它便会借助数字的客观科学伪装，掩盖极其复杂的政治价值决断，并通过自我实现的[[Commensuration|通约]]机制深度重塑被测量对象的实践生态。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> 量化统计本质上是一种通过制定规范惯例、消除地方情境差异并建立“[[Space of Equivalence|等值空间]]”（Space of Equivalence）来强行“将事物凝聚在一起”（*tenir ensemble*）的制度建构工程，区别于中立被动的镜像测量。量化兼具科学“证明”（Prouver）与政治“治理”（Gouverner）的双重功能；一旦统计指标脱离认知探索转为行政问责与资源分配工具，便会借助数字的客观科学表象掩盖复杂的政治价值决断，并通过自我实现的[[Commensuration|通约]]机制深度重塑被测量对象的实践生态。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] [[Alain Desrosières|德罗西埃]]论统计作为制造等值空间的制度公约
-> 测量意味着以一种可通约的方式，将性质各异的个体与地方事件置于同一度量尺度之下。这一过程首先要求建立一套制度公约与社会认同，即建构一个“等值空间”。在这一空间内部，个别事物的特异性被系统性剥离，唯有那些符合标准化度量维度的属性才被赋予可见性。因此，统计并非发现现实，而是在参与制造可供行政国家与跨国市场治理的全新社会现实。
+> 测量意味着以一种可通约的方式，将性质各异的个体与地方事件置于同一度量尺度之下。这一过程首先要求建立一套制度公约与社会认同，即建构一个“等值空间”。在这一空间内部，个别事物的特异性被系统性剥离，唯有那些符合标准化度量维度的属性才被赋予可见性。因此，统计的核心功能在于参与制造可供行政国家与跨国市场治理的全新社会现实。
 >
 > *Quantifying means to make something into a number ... It implies that a series of distinct events or objects are considered equivalent according to a convention. The creation of a space of equivalence is an essential prerequisite for any measurement and comparison.* (Desrosières, 1998)
 
@@ -135,13 +135,14 @@ updated: 2026-10-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[Alain Desrosières|德罗西埃]]的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–26)]] — 结合德罗西埃的等价空间学说，揭示经合组织如何运用统计测量技术构建跨国等价空间，将复杂的国内政策争议置换为中立的技术理性排位以实现远距离治理。
 
 ---
 
 ## 关系网络
 
 > [!person-network|notitle] 关系网络
-> - **师承／合作者** 洛朗·泰弗诺（Laurent Thévenot） — 长期学术盟友与 INSEE 同事，共同创立法国社会职业分类体系及公约经济学学派。
+> - **师承与合作同行** 洛朗·泰弗诺（Laurent Thévenot） — 长期学术盟友与 INSEE 同事，共同创立法国社会职业分类体系及公约经济学学派。
 > - **思想对话者** 吕克·博尔坦斯基（Luc Boltanski） — 法国批判社会学与公约社会学代表人物，共同探讨正当性辩护与测量度量尺度的社会建构。
 > - **理论延伸者** [[Bob Lingard]]、[[Fazal Rizvi]] — 将其[[Space of Equivalence|等值空间]]与[[Commensuration|通约]]分析深度移植于批判跨国教育治理与[[OECD|经合组织]]政策研究。
 > - **机构平台** 法国国家统计与经济研究所（INSEE）、[[CNRS]]、亚历山大·柯瓦雷科学史研究中心 — 长期开展统计公约研发与科学史反思的机构基地。

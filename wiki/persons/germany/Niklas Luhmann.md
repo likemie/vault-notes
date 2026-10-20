@@ -64,6 +64,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-05-04
@@ -154,6 +155,7 @@ updated: 2026-10-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可[[Commensuration\|通约]]论，系统解构[[John Hattie\|约翰·哈蒂]]（John Hattie）的[[Visible Learning\|可见的学习]][[Paradigm\|范式]]，揭示实证主义[[Evidence-Based Education\|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education\|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
+> - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 34–35)]] — 运用卢曼与肖尔（1979）的外在化理论，实证剖析德国等欧洲国家在面临 PISA 测评排位震荡时，如何将跨国数据建构为外部科学权威与准外部参照点，以平息国内改革争议并为既定政策议程辩护。
 
 ---
 
