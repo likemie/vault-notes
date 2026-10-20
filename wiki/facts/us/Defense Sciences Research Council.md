@@ -81,7 +81,7 @@ updated: 2026-10-15
 > - **理事会成员（Council Members）** 由全美物理、化学、材料、微电子等领域享有崇高学术声望的顶尖大学讲席教授、[[National Academy of Sciences|美国国家科学院]]/国家工程院院士组成。
 > - **[[DARPA]] 协调官员** 各技术办公室（DSO、MTO 等）主任与资深项目经理，负责输入真实战略需求并直接接收研讨成果。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **年度拉霍亚夏季研讨会（Summer Conference）** 每年 7 月组织数十位顶尖科学家展开为期两至三周的脱产闭门攻关，密集推演未来技术瓶颈。
 > - **专题工作坊与立项评审（Council Workshops & Program Reviews）** 在夏季会议之外，按细分前沿主题组织小型专题研讨，形成的战略分析报告直接递交 DARPA 局长与项目经理作为编制[[Broad Agency Announcement|广泛领域资助公告]]（[[Broad Agency Announcement|BAA]]）的蓝本。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1139)]]
 

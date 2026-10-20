@@ -97,12 +97,12 @@ updated: 2026-10-20
 > - **用途** 在教育技术中具有“双刃剑”属性：既是诱发学生误解与学术失范的首要风险源，也是教学设计中通过“红队查错任务”激发[[Epistemological Vigilance\|认识论警觉]]与[[Critical Thinking\|批判性思维]]的核心[[Scaffolding\|认知脚手架]]。
 > - **边界** 不等同于故意欺诈（AI 缺乏欺骗意图），亦不等同于单纯的训练数据偏见（幻觉常在无偏见情境下纯因概率拟合与联想泛化而凭空生成）。
 
-> [!citation-card]- 关键表述：事实核查与去幻觉查错的教学转化（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> [!citation-card] 关键表述：事实核查与去幻觉查错的教学转化（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > 事实核查与去幻觉检验（Fact-checking & Hallucination Detection）构成了生成式 AI 赋能批判性思维的核心机制之一。在 19 项实证研究中，教师通过引导学生专门针对 AI 生成的文献与数据进行对抗性审验，有效将模型的缺陷转化为培养学生认识论警觉与多源实证核查习惯的教学契机。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6, 11)]]
 >
 > *Fact-checking and error detection (n = 19) emerged as a major affordance for critical thinking... engaging students in "red-teaming" AI-generated claims turns hallucination into a pedagogical catalyst for epistemic vigilance.*
 
-> [!citation-card]- 关键表述：AI 幻觉对批判性思维的意外倒逼机制（[[Argument_Zhao_2025_JIntell\|Zhao et al., 2025]]）
+> [!citation-card] 关键表述：AI 幻觉对批判性思维的意外倒逼机制（[[Argument_Zhao_2025_JIntell\|Zhao et al., 2025]]）
 > 生成式人工智能的固有缺陷（例如 AI 幻觉）能够有效催化批判性思维。不准确或误导性信息的生成，迫使学生主动审查输出结果的有效性与[[Reliability\|可靠性]]，从而强化其批判性评估技能，降低对生成式 AI 的盲目依赖，并显著提升有意义人机交互的实现概率。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 14)]]
 >
 > *At the same time, the inherent limitations of Gen-AI, such as AI hallucinations, may catalyze critical thinking. The generation of inaccurate or misleading information compels students to scrutinize the validity and reliability of the outputs, thereby reinforcing their critical evaluation skills, reducing their reliance on Gen-AI, and increasing the likelihood of meaningful interactions with Gen-AI.*

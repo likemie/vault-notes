@@ -219,7 +219,7 @@ issuing_organization: ""
 
 ### 论证步骤一 创造力二阶元分析的设计架构与方法学质量控制
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Meta-meta-analysis\|二阶元分析]]在大样本水平上整合多重一阶[[Meta-analysis\|元分析]]，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的[[Creativity\|创造力]][[Effect Size\|效应量]]基准。（pp. 2–5）
 
 > [!proc] 创造力二阶元分析研究程序
@@ -230,7 +230,7 @@ issuing_organization: ""
 > 5. **多水平 [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]] 与 [[Robust Variance Estimation\|稳健方差估计]] 建模** 设定集[[Intraclass Correlation Coefficient\|群内相关系数]]为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
 > 6. **[[Multilevel Egger's Test\|多水平艾格回归]]偏倚校正** 检验[[Small Study Effects\|小研究效应]]（$F(1, 10.9) = 15.7, p = .002$），输出偏倚校正后二阶效应量 $r = 0.17$（95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）$[0.11, 0.22]$）。（p. 6）
 
-> [!example]- 图1：[[Literature Search\|文献检索]]与筛选流程图（PRISMA [[Flow]] Diagram）
+> [!example] 图1：[[Literature Search\|文献检索]]与筛选流程图（PRISMA [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Runco_2026_CRJ/figures/Runco_2026_CRJ_Fig1_PRISMA_Flow_Diagram.jpg)
 >
 > **图表解读** 本图展示了二阶元分析从初始检索到最终纳入的四阶段 PRISMA 筛选流程。通过检索 5 个主流学术数据库与灰色文献库共检出 4,228 篇文献，初筛后对 78 篇进行全文审查。研究严格排除了缺乏定量合并效应量矩阵的质性综述以及未报告相关系数的脑成像坐标元分析（如[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]]（Functional Magnetic Resonance Imaging, fMRI）激活坐标聚合），最终锁定 52 项方法学合规的一阶元分析（包含 2,609 项主要实证研究与 124 万名参与者），确保了二阶证据库的代表性与统计严密性。（pp. 3–4）
@@ -302,15 +302,15 @@ issuing_organization: ""
 
 ### 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 创造力作为[[Independent Variable\|预测变量]]时展现出中等偏大的稳定关联效应（$r = 0.29$），作为效标[[Dependent Variable\|结果变量]]时的关联效应较弱（$r = 0.12$）；[[Variable\|变量]]角色的不对称性构成了全领域唯一统计显著的异质性调节来源（$F(1, 16.3) = 9.43, p = .007$）。（pp. 2, 6–8）
 
-> [!stat-cards] 一阶效应量强度分布基准（Kraft, 2020 百分位数标准）
+> [!stat-cards]- 一阶效应量强度分布基准（Kraft, 2020 百分位数标准）
 > - **|r| < 0.16** （小效应（|r| < 0.16）） 处于第 33 百分位数以下，包含人口学背景（$r = 0.07$）、总体创造力（$r = 0.10$）与创造性成果（$r = 0.12$）。
 > - **0.16 ≤ r ≤ 0.31** （中等效应（0.16 ≤ r ≤ 0.31）） 处于第 33 至 67 百分位数，包含即时情境（$r = 0.15$）、二阶总体效应（$r = 0.17$）、教育干预（$r = 0.20$）、过程测量（$r = 0.27$）与预测源变量（$r = 0.29$）。
 > - **r > 0.31** （效应（r > 0.31）） 处于第 67 百分位数以上，包含少数高强度教学干预与特定极端人格特质亚组（一阶元分析中最大效应量 $r = 0.31$）。
 
-> [!example]- 图2：一阶元分析效应量频率分布图（Distribution of Meta-Analytic Effect Sizes）
+> [!example] 图2：一阶元分析效应量频率分布图（Distribution of Meta-Analytic Effect Sizes）
 > ![](https://img.mylikemie.icu/sources/Runco_2026_CRJ/figures/Runco_2026_CRJ_Fig2_Effect_Size_Distribution.jpg)
 >
 > **图表解读** 本图呈现了 52 项一阶元分析中提取的 164 个一阶效应量（相关系数 $r$）的频数分布直方图。效应量总体呈现正偏态分布，集中在 $r = 0.17$ 附近，绝大多数效应量落在 $0.10$ 至 $0.30$ 区间。该经验分布印证了 Kraft (2020) 实证效应量基准（小效应 $< 0.16$、中等效应 $0.16–0.31$、大效应 $> 0.31$），直观证明创造力在全领域范围内普遍具有正向且中等强度的实证关联。（pp. 5–6）
@@ -370,7 +370,7 @@ issuing_organization: ""
 
 ### 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 在测量类型上，涵盖多维认知加工的综合创造过程（$r = 0.27$）展现出高于单一[[Divergent Thinking\|发散思维]]测验（$r = 0.14$）的关联；在相关因素中，教育项目与[[Creativity Training\|创造力训练]]干预（$r = 0.20$）与创造力关联最强，证实了创造力在教育情境中的高度可干预性。（pp. 6–8）
 
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验
@@ -390,7 +390,7 @@ issuing_organization: ""
 > | **技术中介与协作交互** | 借助数字化平台消除群体互动中的评价顾虑与发言轮流阻塞 | 电子头脑风暴大群体数量 **$d = 0.44$**、质量 **$d = 0.38$**（DeRosa et al., 2007; Ayutthaya & Damrongpanit, 2022） |
 > | **外认知与身心调节** | 降低习惯性思维定势与认知僵化，增强注意广度与情境视角采择 | 正念冥想 **$r = 0.22$**（开放监控 $r = 0.28$）（Lebuda et al., 2016）；戏剧训练 **$d = 0.42$**；酝酿期 **$d = 0.29–0.43$** |
 
-> [!dimension]- 创造力干预与教育教学五大范式的系统拆解与实证机制
+> [!dimension] 创造力干预与教育教学五大范式的系统拆解与实证机制
 > 1. **结构化认知训练课程与思维模型**
 >    - **[[Creative Problem Solving\|创造性问题解决模型]]（CPS）** 包含目标发现、事实发现、问题界定、观念生成、方案选择与接受度建立六阶段认知循环，Scott et al. (2004) 元分析（$k = 70$）报告综合效应量 **$d = 0.74$**（问题解决表现 $d = 0.84$，观念生成 $d = 0.75$）；Ma (2006) 测得复合训练包达到 **$d = 0.77$**（$r \approx 0.36$）。
 >    - **普渡创造力思维方案（PCTP）** 结合音频故事与练习册系统训练发散思维，Rose and Lin (1984) 元分析（$k = 46$）显示托兰斯测试平均提升 **$d = 0.47$**（言语 $d = 0.58$，图形 $d = 0.36$）；专项构件效应量达到 **$d = 0.63$**。
@@ -455,7 +455,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Creativity\|创造力]]实证研究的双重核心问题
+> [!citation-card] [[Creativity\|创造力]]实证研究的双重核心问题
 > 超过 70 项[[Meta-analysis\|元分析]]曾以某种方式考察了创造力的影响，因此这里报告的[[Meta-meta-analysis\|二阶元分析]]为创造力是否重要这一问题提供了实证回答；另一部分纳入的数据在某种程度上考察了影响创造力的因素，在此创造力是结果或[[Dependent Variable\|因变量]]，因而能够为对创造力能做些什么提供实证回答。（pp. 3–4）
 >
 > *Over 70 meta-analyses had in some way previously investigating the impact of creativity, and the SOMA reported here therefore offers an empirical answer to the question, “does creativity matter?”... Another subset of primary meta-analyses included in the present data in some way investigated the things that influence creativity. Here, creativity was an outcome or the dependent [[Variable]]. The SOMA reported here could therefore offer an empirical answer to the question, “what can be done about creativity?”*

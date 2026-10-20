@@ -101,7 +101,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《每一个学生成功法》（Every Student Succeeds Act, ESSA 2015）在向各州下放问责评价自主权的同时，于联邦立法中确立了由四个层级构成的法定因果[[Evidence Standards\|证据标准]]，并将联邦与州 [[Title I of the Elementary and Secondary Education Act\|Title I]] 学校改进专项拨款与采纳高证据等级干预方案实施刚性绑定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23, 25)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标与治理取向** 保障所有学生享有公平、高质量的教育机会，消除学业差距。在治理哲学上，法案代表了联邦教育政策从规制型进路（Regulatory Approach）向发展型进路（Developmental Approach）的深刻转型：摒弃自上而下的惩罚性达标考核，采用促进性法定表述，将教育评价权重新赋予各州，强调在动态变革中兼顾地方情境与人的复杂因素（Sutcliffe & Court, 2005），并转向包含学业与校园环境的多重综合评估体系。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 > - **适用对象** 全美各州教育厅（State Educational Agencies, SEAs）、地方学区（Local Educational Agencies, LEAs）、公立中小[[School Leadership\|学校领导]]与教育科研评价机构。
 > - **政策工具** 依托联邦 Title I 专项拨款体系，设立四级法定[[Evidence Standards\|证据标准]]（TIER 1–4），并将学校改进资助资金与各级项目准入硬性绑定：
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > - **地方执行主体** 地方学区（LEAs）与公立学校，负责针对薄弱学校挑选并高保真实施符合 TIER 1–3 标准的阅读、数学及全校改革方案。
 > - **方案研发与评估方** 大学研究中心（如 JHU CRRE）、独立科研咨询机构与教育出版商，承担项目研发与第三方独立因果评估。
 
-> [!pathways]- 实施路径与机制传导
+> [!pathways] 实施路径与机制传导
 > - **自上而下的财政杠杆驱动** 联邦通过 Title I 改进基金（Section 1003）与 Title II 教师专业发展竞争性加分，建立强有力的财政激励杠杆。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > - **独立第三方转译平台降低搜索成本** 依托 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 平台，提供瓷砖卡片式直观证据展示，打通学区决策者与学术证据之间的转译壁垒。
 > - **地方高保真落地与教师自主赋权** 通过教师民主投票准入机制（如 [[Success for All\|SFA]] 需 80% 教师赞成票）与常态化在岗教练指导，确保方案在薄弱学校落地时的[[Implementation Fidelity\|实施保真度]]。
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 专项拨款落实规模（各州 7% 留存比例）、撬动的州级自有教育经费。
 > - **过程指标** 申请资助方案的证据等级分布（TIER 1–3 占比）、薄弱学校方案[[Implementation Fidelity\|实施保真度]]（Implementation Fidelity）。
 > - **结果指标** CSI/TSI 学校阅读与数学标准化测验学业增值（[[Effect Size\|效应量]] $ES$）、特定学习障碍转介率与[[Grade Retention\|留级]]率下降幅度。

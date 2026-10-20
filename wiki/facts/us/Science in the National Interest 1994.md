@@ -75,7 +75,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 该报告以维持前沿科学的世界领导地位为基石，明确将科学的战略使命由支援国防对抗拓展为促进长远经济繁荣、增进国民健康、保护环境质量与强化社会公平；通过确立五大国家战略目标，推动基础研究向国家重大目标全面靠拢。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 保持前沿领跑、强化基础探索与国家目标结合、构筑政产学研发战略伙伴关系、培育世界一流科技人才及提高全民[[Scientific Literacy|科学素养]]。
 > - **适用对象** 联邦资助机构、[[Research Universities|研究型大学]]学术共同体、国家实验室科研人员与私营企业研发部门。
 > - **政策工具** 设立[[National Science and Technology Council|国家科学技术委员会]]（NSTC）跨部门统筹机制、推进[[Advanced Technology Program|先进技术计划]]（ATP）与产学研联合技术计划。
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **适用对象** [[Research Universities|研究型大学]]科研团队、国家实验室科研人员与工业界研发中心。
 > - **政策工具** 跨部门预算协同、产学研[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）、竞争性研发项目招标。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央 / 上级设计** 依托 NSTC 每年联合 OMB 发布跨部门科技预算优先序指南，将五大目标分解至各部委。
 > - **地方 / 机构执行** 研究型大学设立[[Technology Transfer Office|技术转移办公室]]（TTO），将纯基础探索延伸至产业专利转化与社会服务。
 > - **反馈 / 调整** 随着 1990 年代末互联网经济繁荣与财政赤字消除，政策重点进一步深化为国家纳米技术等前沿跨学科公私协同。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 联邦非国防研发经费占总预算比例、民用基础科研资助总额。
 > - **过程指标** 跨部门 [[National Science and Technology Council|NSTC]] 协调项目数量、产学研联合技术专利申请量。
 > - **结果指标** 高技术产业国际[[Competitiveness|竞争力]]提升、国家实验室与大学协同攻关成效。

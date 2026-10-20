@@ -70,7 +70,7 @@ updated: 2026-10-16
 > - **测量目的** 测量从幼儿园儿童到成年人的[[Creativity\|创造潜能]]、发散思维能力与独创构想能力，用于拔尖创新人才甄选、教学干预效果评估与认知发展追踪。
 > - **实施方式** 严格限时的纸笔测验或计算机化开放作答；支持群体施测与个别施测。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）是过去半个世纪中全球应用最广泛、心理测量学标准化程度最高的[[Creativity Assessment\|创造力测量]]工具，其长期[[Cohort Study\|追踪研究]]确立了发散思维对真实卓越成就的中等[[Predictive Validity\|预测效度]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 实证应用与元分析证据
 
-> [!ma-table] TTCT 在干预与[[Meta-meta-analysis\|二阶元分析]]中的实证表现
+> [!ma-table]- TTCT 在干预与[[Meta-meta-analysis\|二阶元分析]]中的实证表现
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | [[Meta-analysis\|元分析]]来源 | 考察情境与干预类型 | TTCT 效应表现 | 统计指标与显著性 | 实践启示 |
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ## 优缺点与应用边界
 
-> [!boundary] 工具优缺点与局限
+> [!boundary]- 工具优缺点与局限
 > - **优势** 标准化常模极为庞大、跨文化可比性强、评分客观规范且具备坚实的长期[[Predictive Validity\|预测效度]]。
 > - **局限** 测验侧重于“观念生成（Ideation）”的潜能测量（流畅性、灵活性、独创性与精致性），不能完全等同于实际[[Creativity\|创造性]]产品的产出；施测受时间压力与语言熟练度影响，易受到测试焦虑干扰。在高等教育领域，此类心理测量工具难以直接嵌入日常学科课程教学，需要与基于真实作品的评分量规（如 [[VALUE Rubrics]]）和情境化表现任务互为补充。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 34)]]
 

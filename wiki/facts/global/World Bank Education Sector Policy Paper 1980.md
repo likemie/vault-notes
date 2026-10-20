@@ -57,7 +57,7 @@ updated: 2026-10-07
 
 ## 历史分析
 
-> [!dev-timeline]- 决裂前后的制度演变
+> [!dev-timeline] 决裂前后的制度演变
 > - **1964** [[UNESCO]]-[[World Bank\|世界银行]]合作协定签署，世界银行借助 UNESCO 的国际合法性进入教育援助领域，但在实质政策主张上仍处于从属与协调位置。
 > - **1968–1981（麦克纳马拉时代）** 麦克纳马拉（Robert McNamara）担任行长，世界银行大幅扩展教育贷款规模，建立内部教育研究团队，逐步积累脱离 UNESCO 框架的技术与议程能力。
 > - **1980（意识形态决裂）** 独立发布《教育部门政策文件》，以[[Human Capital Theory\|人力资本理论]]与[[Return on Investment\|教育投资回报率]]经济学为核心，确立世界银行独立的教育意识形态体系，正式宣告与 UNESCO 人文主义教育哲学的决裂。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]

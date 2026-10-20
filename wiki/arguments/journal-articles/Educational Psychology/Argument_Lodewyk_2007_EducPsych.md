@@ -187,7 +187,7 @@ issuing_organization: ""
 
 ### 论证步骤一　中学生认识论信念的因子结构及其在办学导向上的分化
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 在中学生群体中，[[Epistemological Beliefs\|认识论信念]]稳定汇聚为固定与快速学习能力（fixed and quick ability to learn, FQAL）、[[Simplicity of Knowledge\|简单知识]]（simple knowledge, SK）与确定知识（certain knowledge, CK）三个相对独立的维度；新教独立学校学生的确定知识信念显著比公立学校学生更为成熟。（pp.317–318）
 
 > [!concept-lens] 通俗解读：中学生的认识论信念究竟在想什么？
@@ -235,7 +235,7 @@ issuing_organization: ""
 
 ### 论证步骤二　认识论信念对总体学业成就的预测与能力层级分化
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 学生的认识论信念能够强有力地预测其长期总体[[Academic Achievement\|学业成绩]]；成绩优异的学生在学习能力观和知识结构观上显著更为成熟，而成绩较差的学生则普遍深信能力天生固定且知识只是孤立碎片。（pp.318–320）
 
 > [!concept-lens] 通俗解读：自评平时成绩真的靠谱吗？
@@ -276,7 +276,7 @@ issuing_organization: ""
 > 
 > *注：得分越高代表认识论信念越朴素（naïve），括号内为标准差。+ 表示公立与独立学校差异显著（$p < .001$）；* 表示全样本性别差异显著（$p < .05$）；*** 表示全样本性别差异极显著（$p < .001$）。*
 
-> [!example]- 图1：高、中、低学业成就水平学生的认识论信念因子均分
+> [!example] 图1：高、中、低学业成就水平学生的认识论信念因子均分
 > ![](https://img.mylikemie.icu/sources/Lodewyk_2007_EP/figures/Lodewyk_2007_EP_Fig1_EOAA_Factor_Scores.jpg)
 
 > [!warrant]- 推理桥梁与机制解析：为什么朴素信念会毁掉平时成绩？
@@ -289,7 +289,7 @@ issuing_organization: ""
 
 ### 论证步骤三　任务结构对认识论信念预测力的调节效应与反思性判断机制
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 认识论信念对具体学术任务表现的预测作用高度取决于任务结构：在有标准套路与现成资料的良构任务中，认识论信念毫无影响；但在缺乏现成算法、充满矛盾争议的劣构任务中，简单知识信念成为制约任务总分与[[Reflexivity\|反思性]]判断深度的核心瓶颈。（pp.320–321）
 
 > [!concept-lens] 通俗解读：两类任务表面均分相当，深层机制却大相径庭
@@ -337,7 +337,7 @@ issuing_organization: ""
 
 ### 论证步骤四　认识论信念、学术表现与性别的关联
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 女生在长期总体学业成绩以及两类学术任务得分上均全面显著优于男生；在认识论信念上，女生对学习能力的可塑性认知与对科学真理的相对性认知也显著比男生更加成熟。（pp.321–322）
 
 > [!concept-lens] 通俗解读：女生在学业与思维成熟度上的全面领先
@@ -386,12 +386,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Simplicity of Knowledge\|简单知识]]与[[Task Structure\|劣构任务]]困难
+> [!citation-card] [[Simplicity of Knowledge\|简单知识]]与[[Task Structure\|劣构任务]]困难
 > 视知识为简单的学生，即寻求单一标准答案、回避歧义且过度依赖权威的学生，在应对需要[[Reflexivity\|反思性]]判断、坚持性以及恰当[[Self-Regulated Learning\|自我调节学习]]的模糊任务特征时，往往会体验到更大的困难。（p.324）
 >
 > *Students who see knowledge as simple—that is, they seek single answers, avoid ambiguity, and depend too much on authority—tend to experience more difficulty with the ambiguous features of tasks that call for reflective judgments, perseverance, and appropriate self-regulated learning.*
 
-> [!citation-card]- 课堂任务结构平衡的教学告诫
+> [!citation-card] 课堂任务结构平衡的教学告诫
 > 如果布置过多良构任务，可能会促进一种该学科领域在根本上是简单的虚假理解并刺激表面化投入；然而，教学平衡至关重要，布置过于模糊的任务可能会引发焦虑与退缩。（p.324）
 >
 > *The type of structure of assigned tasks also merits attention if, as Spiro et al. (1988) conjecture, assigning too many well-structured tasks can promote a false understanding that the domain is fundamentally simple and can stimulate superficial engagement. However, balance is important—assigning especially ambiguous tasks may induce anxiety and withdrawal (Doyle, 1983).*

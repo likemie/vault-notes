@@ -106,7 +106,7 @@ updated: 2026-10-16
 
 ## 概念地图
 
-> [!knowledge-map]- 第18章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第18章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_18_Concept_Map.jpg)
 
 ## 章节内容
@@ -200,7 +200,7 @@ updated: 2026-10-16
 > [!note] McNiff and Grundy 的哲学补充
 > 琼·麦克尼夫（McNiff, 2002, p. 17）进一步补充：行动研究者支持"人们可以创造自己的身份"的观点，并应允许他人也这样做。雪莉·格伦迪（Grundy, 1987, p. 142）则将行动研究视为关注改善"社会存在条件"的活动（p. 265）。
 
-> [!citation-card]- Kemmis & McTaggart 论行动研究的双重关注
+> [!citation-card] Kemmis & McTaggart 论行动研究的双重关注
 > 行动研究同样关注改变个体，以及改变个体所属群体、机构和社会的文化。一个群体的文化可以根据构成该群体互动的语言和[[Discourse|话语]]、活动和实践以及社会关系和组织来定义。（Kemmis & McTaggart, 1992, p. 16）
 >
 > *Action research is concerned equally with changing individuals, on the one hand, and, on the other, the culture of the groups, institutions and societies to which they belong.*
@@ -219,7 +219,7 @@ updated: 2026-10-16
 
 **第四层：行动研究不是什么**
 
-> [!boundary] Kemmis and McTaggart (1992, pp. 21–22) 的四个否定性界定
+> [!boundary]- Kemmis and McTaggart (1992, pp. 21–22) 的四个否定性界定
 > - **不是教师对教学的通常思考** 行动研究更系统、更协作地收集证据作为严格群体反思的基础
 > - **不是简单的问题解决** 行动研究涉及提问（problem-posing）而非仅仅解决问题。它由通过改变来改进和理解世界的探索驱动
 > - **不是在他人身上做的研究** 行动研究是特定人群对自己工作的研究，以帮助他们改进所做之事，包括他们如何与他人和为他人工作
@@ -680,19 +680,19 @@ Phelps and Graham（2010, p. 184）论证行动研究与[[Complexity Theory|复�
 
 #### 图18.1–18.3
 
-> [!example]- 图18.1：组织变革的解放性行动研究模型
+> [!example] 图18.1：组织变革的解放性行动研究模型
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_18-1_Emancipatory_Action_Research_for_Organizational_Change.jpg)
 >
 > Zuber-Skerritt（1996b, p. 99）将 Lewin（1952）的力场分析和变革理论（unfreezing → moving → refreezing）以及 Beer et al.（1990）的任务对齐（task alignment）置于行动研究序列中，清晰地阐明了行动研究的步骤。
 
-> [!example]- 图18.2：完整的行动研究循环
+> [!example] 图18.2：完整的行动研究循环
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_18-2_Full_Action_Research_Cycle.jpg)
 >
 > Tripp（2003）呈现了一个完整的行动研究循环：侦察（reconnaissance）→ 规划（planning）→ 行动（acting）→ 研究行动（researching action）→ 评价行动（evaluating action）。
 >
 > Source: Tripp, D. 2003. Action Inquiry. *Action Research e-Reports*, 017. Reproduced with permission.
 
-> [!example]- 图18.3：行动研究框架
+> [!example] 图18.3：行动研究框架
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_18-3_Framework_for_Action_Research.jpg)
 >
 > 图18.3以最简洁的骨架形式呈现了行动研究过程，可作为快速参考框架。
@@ -703,7 +703,7 @@ Phelps and Graham（2010, p. 184）论证行动研究与[[Complexity Theory|复�
 
 McNiff（2002, p. 85–91）为新手提供了实用建议（pp. 288–289）：
 
-> [!tip]- McNiff 的新手行动研究建议
+> [!tip] McNiff 的新手行动研究建议
 > - **保持小规模、保持聚焦** 从小范围的具体问题开始，避免一开始就试图改变太多
 > - **明确研究问题**
 > - **现实评估自己能做什么** 认识到更广泛的变革从自己开始
@@ -721,7 +721,7 @@ McNiff（2002, p. 85–91）为新手提供了实用建议（pp. 288–289）：
 
 Kemmis and McTaggart（1992, p. 25–27）为开始行动研究提供了系列观察（pp. 289–290）：
 
-> [!tip]- Kemmis & McTaggart 的[[Recommendations for Practice\|实践建议]]
+> [!tip] Kemmis & McTaggart 的[[Recommendations for Practice\|实践建议]]
 > - 组建行动研究小组并亲自参与，成为行动研究的学习者榜样
 > - 满足于从小群体开始工作
 > - 组织起来
@@ -924,7 +924,7 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 > - **研究取向** 重视精确、控制、复制和从具体事件中推广
 > - **教学取向** 关注行动和做事，将推广转化为具体行动。此外，Hutchinson and Whitehouse（1986）发现校长和教师本身对变革可能性的抵制也是重要障碍
 
-> [!boundary] 行动研究的伦理边界
+> [!boundary]- 行动研究的伦理边界
 > 行动研究不能豁免第5章中识别的伦理议题。它要求参与者的[[Informed Consent\|知情同意]]、教师/学生可选择不参与且不受惩罚（Nolen & Vander Putten, 2007）、保密性和参与者自主权得到尊重。但教师作为教师与教师作为研究者之间的界限模糊。未成年人义务入学是否自动赋予教师在日常教学中研究他们的权利？分界线在哪里？（p. 299）
 
 ---
@@ -954,32 +954,32 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 
 ## 关键引用
 
-> [!citation-card]- Kemmis & McTaggart 的经典定义 (1988)
+> [!citation-card] Kemmis & McTaggart 的经典定义 (1988)
 > [[Action Research\|行动研究]]是一种由社会情境中的参与者进行的集体性自我反思探究，旨在改进他们自身社会或教育实践的合理性和正义性，以及他们对这些实践和这些实践所在情境的理解……这种方法只有在合作进行时才是行动研究，尽管重要的是认识到群体的行动研究是通过对个体群体成员的行动进行批判审视而实现的。（Kemmis & McTaggart, 1988, p. 5; p. 266）
 >
 > *Action research is a form of collective self-reflective enquiry undertaken by participants in social situations in order to improve the rationality and justice of their own social or educational practices, as well as their understanding of these practices and the situations in which these practices are carried out.... The approach is only action research when it is collaborative, though it is important to realize that the action research of the group is achieved through the critically examined action of individual group members.*
 
-> [!citation-card]- 行动研究的严谨性标准
+> [!citation-card] 行动研究的严谨性标准
 > 做行动研究就是比日常生活中更仔细、更系统和更严谨地计划、行动、观察和反思。（Kemmis & McTaggart, 1992, p. 10; p. 264）
 >
 > *To do action research is to plan, act, observe and reflect more carefully, more systematically, and more rigorously than one usually does in everyday life.*
 
-> [!citation-card]- Elliott 论赋权的集体性质
+> [!citation-card] Elliott 论赋权的集体性质
 > 这种赋权必须在集体层面而非个体层面实现，因为个体并非孤立运作，而是受组织和结构力量塑造。（Elliott, 1991, p. 54; p. 271）
 >
 > *Such empowerment has to be at a collective rather than individual level as individuals do not operate in isolation from each other, but they are shaped by organizational and structural forces.*
 
-> [!citation-card]- Lewin 的螺旋模型
+> [!citation-card] Lewin 的螺旋模型
 > 这种理性社会管理可被视为计划、行动和关于所采取行动结果之查证的螺旋。（Lewin, 1948, p. 205; p. 280）
 >
 > *Such "rational social management" can be conceived of as a spiral of planning, action and fact-finding about the outcomes of the actions taken.*
 
-> [!citation-card]- Winter 论数据解释的困境
+> [!citation-card] Winter 论数据解释的困境
 > 行动研究/[[Case Study\|案例研究]]传统确实有数据创建的方法论，但（至今）尚无数据解释的方法论。（Winter, 1982, p. 162; p. 300）
 >
 > *The action research/case study tradition does have a methodology for the creation of data, but not (as yet) for the interpretation of data.*
 
-> [!citation-card]- Melrose 论批判性研究的价值负载
+> [!citation-card] Melrose 论批判性研究的价值负载
 > 批判性研究因自身价值负载而放弃中立，在审视特定情境中运作的价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。（Melrose, 1996, p. 52; p. 278）
 >
 > *Critical research is, itself, VALUE-laden, it abandons neutrality; it has an explicit social agenda that, under the guise of examining values, ethics, morals and politics that are operating in a particular situation, is actually aimed at transforming the status quo.*

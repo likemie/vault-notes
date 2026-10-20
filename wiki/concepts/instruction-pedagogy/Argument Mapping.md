@@ -59,7 +59,7 @@ updated: 2026-10-20
 > - **用途** 用于培养学生的[[Critical Thinking\|批判性思维]]、议论文写作构思、[[Wicked Problem|劣构问题]]辩论与论据有效性审视。
 > - **边界** 论证图强调整体推理的合逻辑性与论据充足性，不负责自由[[Brainstorming\|头脑风暴]]中的无约束发散生成。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 概念图和思维导图组织观念及其关系以促进理解，而论证图则构建主张、证据、保证和反驳背后的逻辑以说服他人接受特定结论；论证图能够显著促进结构化写作与[[Problem Solving\|问题解决]]中的批判性思维。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 11)]]
 >
 > *Whereas concept maps and mind maps organize ideas and their relations for greater understanding, argument maps structure the logic behind claims, evidence, warrants and backing to persuade others of a specific conclusion (Davies, 2011)...*

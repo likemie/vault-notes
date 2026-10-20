@@ -61,7 +61,7 @@ updated: 2026-10-15
 
 ## 方法变体与相近方法
 
-> [!tip]-
+> [!tip]
 > - **独立样本 t 检验** 比较两个独立组的均值，如实验组 vs 对照组的[[Pre-test and Post-test\|后测]]得分。
 > - **配对样本 t 检验** 比较同一组在两次测量中的均值，如前测 vs 后测。
 > - vs [[Analysis of Variance\|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免[[Type I and Type II Errors\|第一类错误]]膨胀）。

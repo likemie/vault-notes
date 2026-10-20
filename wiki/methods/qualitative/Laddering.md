@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体；构念之间的蕴含链条。
 > - **输出形式** 逐级上属的构念链、层级图、消费者价值层级（means-end chains）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Hinkle 的创新在于用蕴含替代预期，使不同构念的极点之间可以建立逻辑关系。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 8]]）
 >
 > *Hinkle's innovation was to replace 'anticipation' with 'implication'. The linking of implication with ordinal relationships enables logical relationships to be specified between poles of different constructs.*

@@ -370,17 +370,17 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 卡普与扎米斯卡论[[Technological Republic|技术共和国]]的本质与软件[[Hard Power|硬实力]]
+> [!citation-card] 卡普与扎米斯卡论[[Technological Republic|技术共和国]]的本质与软件[[Hard Power|硬实力]]
 > 技术共和国的命运取决于我们能否重新认识到，自由社会的生存从根本上依赖于前沿工程技术与国家战略意志的深度结合。软件已经成为现代战场的神经中枢，放弃对硬实力的追求不仅是[[Geopolitics|地缘政治]]的自杀，更是对启蒙自由传统的背叛。（p. 15）
 >
 > *The fate of the technological republic depends on our ability to rediscover that the survival of a free society rests fundamentally on the deep integration of cutting-edge engineering with national strategic will. Software has become the central nervous system of modern warfare; abandoning the pursuit of hard power is not only geopolitical suicide, but a [[Betrayal in Research|betrayal]] of the [[Enlightenment]] tradition of liberty.*
 
-> [!citation-card]- 卡普与扎米斯卡论以[[Founder Culture|创始人文化]]与所有权社会重构政府
+> [!citation-card] 卡普与扎米斯卡论以[[Founder Culture|创始人文化]]与所有权社会重构政府
 > 重建技术共和国需要重建一个所有权社会，一种源于科技界但有潜力重塑政府的创始人文化——在这样的体系中，绝不把领导权托付给那些对自身成败没有任何切身利益担当的人。（p. 178）
 >
 > *And the reconstruction of a technological republic will, among other things, require the rebuilding of an ownership society, a founder culture that came from tech but has the potential to remake government, where nobody is entrusted with leadership who does not have a stake in their own success.*
 
-> [!citation-card]- 卡普与扎米斯卡论审美品味、长程托管与重塑全民族奋斗意志
+> [!citation-card] 卡普与扎米斯卡论审美品味、长程托管与重塑全民族奋斗意志
 > 无论是构建复杂的国防软件系统，还是引领国家走出地缘与文化危机，最终依赖的都不是没有灵魂的合规清单，而是兼具深厚审美品味、奥德修斯式长程资产托管哲学与[[Junzi|君子]]美德的卓越实干家。唯有在保护自由市场个人[[Creativity|创造力]]的同时恢复凝聚国民的崇高[[Civic Rituals|公民仪式]]，技术共和国才能历经风暴而长青。（p. 218）
 >
 > *Whether in building complex defense software systems or guiding a nation through geopolitical and cultural crises, what ultimately matters is not a soulless [[Strategic Compliance|compliance]] checklist, but exceptional builders equipped with profound aesthetic taste, an Odyssean philosophy of long-term stewardship, and authentic virtue. Only by reconciling individual creative freedom with noble civic rituals can the technological republic endure across generations.*

@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 奥尼尔指出，新西兰公共教育体系在权力下放与[[New Managerialism|新管理主义]]改革后，形成了学者、咨询外包企业与政府官僚深度绑定的政治经济利益网络。学术界应当高度警惕将复杂的[[Meta-analysis|元分析]][[Effect Size|效应量]]脱离情境地转变为削减公共支出的财政借口；当国家将教育评价权力外包给具有商业利益诉求的智库和个人时，公立教育的公平属性与教师的专业自主权必将遭受毁灭性挤压。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–33)]]
 
 > [!citation-card] [[Cognition Education|认知教育]]公司向[[John Hattie|哈蒂]]支付劳务报酬的审计核查

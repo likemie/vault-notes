@@ -110,7 +110,7 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第14章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第14章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_14_Concept_Map.jpg)
 
 ## 章节内容
@@ -452,7 +452,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 
 ---
 
-> [!example]- 图14.1 观察研究的类型学
+> [!example] 图14.1 观察研究的类型学
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_14-1_A_Typology_of_Observation_Studies.jpg)
 >
 > 该图基于Bailey（1994）将六种个案研究示例置于两个维度上：观察类型（参与 ↔ 非参与）和情境性质（自然 ↔ 人工）（p.291）。
@@ -534,7 +534,7 @@ Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重�
 
 ---
 
-> [!example]- 表14.1 个案研究中的数据收集、类型和分析技术的连续体
+> [!example] 表14.1 个案研究中的数据收集、类型和分析技术的连续体
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_14-1_Continua_of_Data_Collection_Types_and_Analysis.jpg)
 >
 > Sturman（1997）将数据收集的性质、类型和分析技术置于一组连续体上。在一极是非结构化、通常为质性的数据，另一极是结构化、通常为量化的数据。使用个案研究的研究者需要决定使用哪种数据收集方法、哪种数据类型和分析技术（p.294）。
@@ -599,7 +599,7 @@ Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志�
 
 ---
 
-> [!example]- Box 14.3 个案研究与选择问题（Walker, 1980）
+> [!example] Box 14.3 个案研究与选择问题（Walker, 1980）
 > 研究者在个案研究开始时面临的选择问题包括：
 >
 > 1. 如何从初始想法到可操作设计（从想法到规格到可用数据）？
@@ -674,42 +674,42 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 
 ## 关键引用
 
-> [!citation-card]- 整体大于部分之和
+> [!citation-card] 整体大于部分之和
 > [[Case Study\|个案研究]]可以建立[[Causality\|因果关系]]（"如何"和"为什么"）；它们的一个优势是在真实情境中观察效应，认认到情境是原因和效应的有力决定因素，并且深度理解是公正对待案例所必需的。正如Nisbet & Watt（1984, p. 78）所言，整体大于部分之和。（第14章，p.282）
 >
 > *Case studies can establish cause and effect (how and why); indeed one of their strengths is that they observe effects in real contexts, recognizing that context is a powerful determinant of both causes and effects, and that in-depth understanding is required to do justice to the case. As Nisbet and Watt (1984, p. 78) remark, the whole is more than the sum of its parts.*
 
-> [!citation-card]- 我们的剪贴簿充满了放大的放大
+> [!citation-card] 我们的剪贴簿充满了放大的放大
 > Stake（1978）讽刺地评论道"我们的剪贴簿充满了放大的放大"（our scrapbooks are full of enlargements of enlargements），暗指某些个案研究倾向于过度强调细节，以至于损害了对整体画面的把握。（第14章，p.283）
 >
 > *Stake's (1978) wry comment that 'our scrapbooks are full of enlargements of enlargements', alluding to the tendency of some case studies to overemphasize detail to the detriment of seeing the whole picture.*
 
-> [!citation-card]- 案例不是样本：[[Analytic Generalization\|分析性推广]]的核心命题
+> [!citation-card] 案例不是样本：[[Analytic Generalization\|分析性推广]]的核心命题
 > Yin（2009, p. 43）做出了有力论断：推定推广只能是从样本到总体/全域的观点，在个案研究这一特殊情况下完全是错误的、不相关的、不适当的和不适用。相反，个案研究可帮助推广到更广泛的理论，理论可以在一个或多个经验案例中检验（在此意义上类似单次实验或准实验），并可以被证明不支持竞争性（即使是看似合理的）理论。（第14章，pp. 288–289）
 >
 > *...to assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory.*
 
-> [!citation-card]- 复杂议题比单独[[Variable\|变量]]具有更低的变异性
+> [!citation-card] 复杂议题比单独[[Variable\|变量]]具有更低的变异性
 > Verschuren（2003, p. 137）论证：复杂议题总体上比单独变量具有低得多的变异性。个案研究包含许多变量；多变量现象的特征是同质性而非高变异性；因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity\|外部效度]]，即可推广性，可以得到展示。（第14章，p. 288）
 >
 > *'Complex issues in general have a much lower variability than separate variables'.*
 
-> [!citation-card]- [[Chain of Evidence\|证据链]]：使外部研究者能够追踪每一步
+> [!citation-card] [[Chain of Evidence\|证据链]]：使外部研究者能够追踪每一步
 > Yin（2009, pp. 41, 122–124）呼吁提供证据链，使外部研究者能够追踪个案研究的每一步：从起始到[[Research Question\|研究问题]]、设计、数据来源、工具、数据（证据及其收集的情境，包括时间、地点和人员/地点/事物的功能互联）和结论。记录个案研究数据收集的时间和地点非常重要：不仅因为许多行动和事件是情境特定的且属于[[Rich and Thick Description\|厚描述]]的一部分，而且这将使任何复制研究能够被规划（Macpherson et al., 2000, p. 56）。（第14章，p. 289）
 >
 > *Yin's (2009, pp. 41, 122–124) call for a 'chain of evidence' to be provided, such that an external researcher could track through every step of the case study from its inception to its research questions, design, data sources, instrumentation, data (evidence and the circumstances in which they were collected, e.g. time, place and functional interconnections of people, places, etc.) and conclusions.*
 
-> [!citation-card]- 重要性而非频率是个案研究的标志
+> [!citation-card] 重要性而非频率是个案研究的标志
 > 个案研究不以频率为追求，可以用质量和强度替代数量，将重要的少数与不重要的多数行为实例分开。重要性而非频率是个案研究的标志，为研究者提供对情境和人的真实动态的洞察。（第14章，p.287）
 >
 > *Case studies, in not having to seek frequencies of occurrences, can replace quantity with quality and intensity, separating the significant few from the insignificant many instances of behaviour. Significance rather than frequency is a hallmark of case studies, offering the researcher an insight into the real dynamics of situations and people.*
 
-> [!citation-card]- 在先前观察的笔记完成之前，绝不要恢复观察
+> [!citation-card] 在先前观察的笔记完成之前，绝不要恢复观察
 > Wolcott的一条有用提示：仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。（第14章，p.296）
 >
 > *One useful tip from this experienced ethnographer is worth noting: never resume your observations until the notes from the preceding observation are complete. There is nothing to be gained merely by your [[Presence]] as an observer.*
 
-> [!citation-card]- [[Non-participant Observation\|非参与观察]]者的经典实践：King（1979）在幼儿课堂中
+> [!citation-card] [[Non-participant Observation\|非参与观察]]者的经典实践：King（1979）在幼儿课堂中
 > King回忆他如何通过认识到幼儿将任何成人视为另一位教师或代课教师来牢固确立他的非参与地位。因此他会站立保持社会距离，故意避免显示即时兴趣和回避眼神接触。（第14章，p.291）
 >
 > *King recalls how he firmly established his non-participant status with young children by recognizing that they regarded any adult as another teacher or surrogate teacher. Hence he would stand up to maintain social distance, and deliberately decline to show immediate interest, and avoided eye contact.*

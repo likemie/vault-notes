@@ -128,7 +128,7 @@ related_persons:
 
 #### 概念地图
 
-> [!knowledge-map]- 第1章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第1章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch01_Concept_Map.jpg)
 
 #### 章节内容
@@ -184,12 +184,12 @@ related_persons:
 
 #### 关键引用
 
-> [!citation-card]- 关键引用：杜威关于经验与教育的论述
+> [!citation-card] 关键引用：杜威关于经验与教育的论述
 > 教育不是为未来的生活做准备；教育就是生活本身。经验的连续重组是生长的核心。（p. 5; Dewey, 1938, p. 47）
 >
 > *Education is not preparation for life; education is life itself. (p. 5; Dewey, 1938, p. 47)*
 
-> [!citation-card]- 关键引用：弗莱雷批判储蓄式教育
+> [!citation-card] 关键引用：弗莱雷批判储蓄式教育
 > 在储蓄式教育中，知识是那些自以为有知识的人赐予给那些被他们认定为一无所知的人的礼物。这种灌输压抑了学习者的批判意识。（p. 7; Freire, 1970, p. 72）
 >
 > *Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. (p. 7; Freire, 1970, p. 72)*
@@ -202,7 +202,7 @@ related_persons:
 
 #### 概念地图
 
-> [!knowledge-map]- 第3章　概念地图
+> [!knowledge-map] 第3章　概念地图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Concept_Map.jpg)
 
 #### 章节内容
@@ -273,7 +273,7 @@ related_persons:
 
 #### 架构图
 
-> [!knowledge-map]- 图3.1：杜威经验重组与连续性/交互作用双原则架构图
+> [!knowledge-map] 图3.1：杜威经验重组与连续性/交互作用双原则架构图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Dewey_Experience_Continuity_Interaction.jpg)
 
 ---
@@ -308,7 +308,7 @@ related_persons:
 
 #### 探究流程图
 
-> [!knowledge-map]- 图3.2：反思性探究五步连续链条图
+> [!knowledge-map] 图3.2：反思性探究五步连续链条图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Reflective_Thinking_5Steps_Flow.jpg)
 
 > [!proc] 杜威反思性思维的五大步骤
@@ -437,7 +437,7 @@ related_persons:
 
 #### 概念地图
 
-> [!knowledge-map]- 第4章　概念地图
+> [!knowledge-map] 第4章　概念地图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch04_Concept_Map.jpg)
 
 #### 章节内容

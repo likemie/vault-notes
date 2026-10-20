@@ -133,7 +133,7 @@ updated: 2026-10-20
 > - **分析单位** 单项实证研究中由特定测量工具测得的独立效应估计值，或嵌套于研究内的多重效应量。
 > - **输出形式** 无量纲标准化均差（Cohen's $d$、Hedges' $g$、Glass' $\Delta$）、相关系数（Pearson's $r$）、优势比（$OR$）或经转化的“额外学习月数”。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 效应量通过除以标准差消除了测量单位，回答的是“干预产生了多大程度的相对差异”，而非仅仅判定“该差异在统计学上是否达到显著水平”。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, p. 27)]]
 >
 > *Effect size is a standardized measure that removes measurement units, answering how large a relative difference the intervention produced rather than merely whether the difference is statistically significant.*

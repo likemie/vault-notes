@@ -84,7 +84,7 @@ updated: 2026-10-16
 > - **执行团队与政府关系部** 由协会执行总裁领导，常设专门的**政府事务与政策倡导办公室（Government Relations and Advocacy）**，常年深耕国会两院教育管辖委员会。
 > - **州级分会网络（State Chapters）** 在全美各州建立常设基层分会，与州议会和州教育厅协同推进师资准入标准与薪酬立法。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **行业实证监测** 定期开展全美教师教育机构普查，发布《全美教师准备状态报告》（*State of the Profession*），系统追踪全美师范招生生源、高贫困学校师资流失率等关键指标。
 > - **语言转译与定向游说** 将关于临床实践（Clinical Practice）有效性与教师效能的计量实证[[Research Translation\|研究转译]]为国会议员立即可读的一页纸政策清单，为法案条文起草提供实证抗辩护栏。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 

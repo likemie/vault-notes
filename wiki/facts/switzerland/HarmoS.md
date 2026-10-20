@@ -83,7 +83,7 @@ updated: 2026-10-16
 
 ## 相关概念／政策
 
-> [!note]-
+> [!note]
 > [[Argument_Li_2025_HSSC\|Li et al. (2025)]]的[[Systematic Review\|系统综述]]将 HarmoS 作为 [[PISA]] 在中观决策层面影响教育改革的典型案例。
 
 > [!entry-map]

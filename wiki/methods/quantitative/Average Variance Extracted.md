@@ -59,7 +59,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 潜变量（Latent Factor）构念层级。
 > - **输出形式** 介于 0 到 1 之间的变异抽取比例系数（通常以两位小数报告，如 $\text{AVE} = .54$）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 平均方差抽取量反映了潜变量对其测度指标所能解释的平均方差大小。当 AVE 达到或超过 0.50 时，表明潜变量所解释的指标方差大于测量误差方差，构念的收敛效度获得实证支持。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 6)]]
 >
 > *Average Variance Extracted (AVE) measures the average percentage of variation that the latent construct explains among its indicators. An AVE of 0.50 or higher demonstrates adequate convergent validity, meaning the construct explains more variance than measurement error.*

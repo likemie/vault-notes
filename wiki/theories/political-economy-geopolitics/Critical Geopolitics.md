@@ -84,7 +84,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意义建构被持续生产和再生产（Kuus, 2017, p. 5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 37]]）。该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖[[Relational Space\|关系性空间]]构型和话语—符号维度。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
 
-> [!citation-card]- 关键表述（Moisio, 2018）
+> [!citation-card] 关键表述（Moisio, 2018）
 > 在此视角下，地缘政治指向政治想象中那些领土的、关系性的和话语的面向——通过这些想象，世界已成为一个由驱动二十一世纪知识密集型资本主义积累的城市、区域、枢纽或（自由）经济区构成的全球网络。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Moisio, 2018, p. 7, cited in Parreira do Amaral, 2022, pp. 37–38)]]
 >
 > *Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation.*
@@ -125,7 +125,7 @@ updated: 2026-10-20
 >   > - 当 QS and THE 排名将"英文出版物数量"和"国际合著比率"设为默认指标时，这不只是一个技术选择——它是将特定[[Epistemology\|认识论]]标准（英语为权威媒介、量化为绩效逻辑）自然化为"普遍质量标准"的常识化操作，系统性地将非英语知识传统排除在"可见的卓越"之外。
 > - **推导** 地缘政治知识从特定制度位置被生产（前提一） → 通过命名、分类和常识化操作，这些知识获得"客观分析"的地位并服务于特定利益（前提二） → 因此，地缘政治知识的权威来自于制度位置和话语权力，而非对客观世界更准确的把握——对任何自称客观的地缘政治知识，分析任务都是追问它从哪里被生产、服务于谁的利益、排除了谁的视角。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 11–12)]]
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自命题一，应用于高等教育）** 如果地缘政治秩序是话语建构的，那么参与建构的行动者就不限于民族国家。Dodds (2019, p. 36) 呼吁关注"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"；[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 在高等教育领域验证了这一扩展：亚洲中产家庭的留学决策在大规模上重塑了全球教育流动格局，个体的流动选择持续再生产着"全球北方 = 教育中心"的空间等级秩序。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 90–91, 95–97)]]
 > - **推论二（源自命题二，应用于高等教育）** 高等教育从国家竞争的附属工具被重新纳入地缘政治分析的核心视野。大学通过人的培养（塑造何种[[Geopolitical Subject\|地缘政治主体]]）、[[Knowledge Production\|知识生产]]（界定何种知识被看见）、学术流动（筛选谁能流向何处）和跨境合作（编织何种空间关系网络），在日常层面持续参与空间意义的建构。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **推论三（源自命题二，Moisio 的[[Knowledge-Based Economization\|知识经济化]]分析）** [[Argument_Moisio_2022_Springer\|Moisio (2022)]] 将命题二的分析逻辑整合进对[[Knowledge-Based Economization\|知识经济化]]的考察。核心发现：[[Fixity-Motion Tension\|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings\|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他）；[[Geopolitical Subject\|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 26–31)]]

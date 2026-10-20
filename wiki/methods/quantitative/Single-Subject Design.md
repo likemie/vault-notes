@@ -54,7 +54,7 @@ updated: 2026-10-16
 > - 可撤销处理以观察行为是否返回基线水平（reversal 设计），或在多个行为、情境或个体之间复制处理效果（multiple-baseline 设计）。
 > - 通过视觉分析（visual analysis）图表判断处理效果的趋势、水平和变异性。
 
-> [!note]- 数据分析
+> [!note] 数据分析
 > - 使用折线图（line graph）展示基线和处理观测数据，x 轴（横坐标）为时间单位，y 轴（纵坐标）为目标行为。每个数据点分别绘制在图表上，并用线连接数据点（Neuman & McCormick, 1995; 引自 Creswell & Creswell, 2022, Ch8）。
 > - 偶尔使用t 检验等[[Statistical Significance\|统计显著性]]检验比较基线和处理阶段的合并均值，但这类程序可能违反独立测量假设（Borg & Gall, 2006; 引自 Creswell & Creswell, 2022, Ch8）。
 
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 方法变体与相近方法
 
-> [!tip]-
+> [!tip]
 > - **A-B-A 设计（A-B-A Single-Subject Design）** 对单一个体的目标行为建立基线（A），引入处理（B），然后撤销处理回到基线条件（A）。这是单受试者设计中最经典的 reversal 设计形式（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.4）。
 > - [[Experimental Research]] — 单受试者设计是实验研究的一种特殊形式，区别在于不使用大样本组间比较。
 > - [[Quasi-Experimental Designs]] — 准实验设计通常使用非[[Random Assignment\|随机分组]]的大样本比较，单受试者设计聚焦于个体的时间序列变化。

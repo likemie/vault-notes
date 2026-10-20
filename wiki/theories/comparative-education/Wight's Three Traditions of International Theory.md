@@ -88,7 +88,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层假设（现实主义、理性主义和[[Revolutionism\|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention\|注意力议程]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 比较教育学者作为“比较教育者”所付诸的实践，本质上取决于他们对国际社会的性质、主要行动者以及国际政治运作法则的底层预设。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 417)]]
 >
 > *What comparative educationists do as 'comparative educationists' is contingent upon how they conceptualise the nature of international society, its main actors and the rules of the international game.*
@@ -153,7 +153,7 @@ updated: 2026-10-20
 >   > - **去殖民化的路径开辟** 开辟南南[[Knowledge Exchange\|知识交流]]，确立非西方教学模式的[[Reliability\|信度]]，引入南方理论与原住民认知以实现与西方地平线的脱钩。
 > - **推导** 比较教育在革命主义下放弃了以国家为中心的分析方法，转而揭示教育转移和学科自身的殖民认识型，致力于与西方知识地平线决裂，寻求南南知识互惠与原住民认知解放。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–428]])
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** 三大传统并非替代性的历史分期，而是共存且交叉于学科过去的理论形态；学科的[[Agendas of Attention\|注意力议程]]必然随着地缘政治对抗与主权力量的变化而重构 (p. 431)。
 > - **推论二（源自核心命题二、三）** 比较教育内部的长期矛盾获得了深层解释：[[Policy Borrowing\|政策借用]]与情境理解之间的张力，是现实主义预设（国家竞争自保）与反现实主义预设（文化差异防护）之间的张力，具有不可消除性 (p. 431)。
 > - **推论三（源自核心命题三、四）** 技术治理与批判解放之间的长期论争，本质上是理性主义预设（多边合作与规则）与革命主义预设（支配与抗争）之间的冲突投影 (p. 431)。

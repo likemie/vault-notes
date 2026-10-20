@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **分析材料** 经过系统检索与严格筛选的同行评议期刊论文、学术专著或权威研究报告全文。
 > - **最终产出** 概念分析矩阵、理论张力辨析、思维定势诊断，以及面向未来研究的新概念/新理论框架。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 批判性综述通常建立在对研究文献的广泛审查之上，但超越对已识别文章的单纯描述，往往以概念创新为目标。批判性综述通常分析和综合既有研究的特定方面，经常挑战既有模型或思想流派，同时对既有研究提供新的阐释。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 2–3)]]
 >
 > *A critical review typically builds on an extensive review of the research but goes beyond mere descriptions of the identified articles, often with the aim of conceptual innovation. A critical review typically presents analyses and synthesises selected aspects of existing research, often challenging existing models or schools of thought while offering a new interpretation of existing research.*
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与文献边界
+> [!sample-panel]- 材料与文献边界
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 权威跨学科与教育专业数据库（如[[Education Resources Information Center\|教育资源信息中心]] Educational Resources Information Center, ERIC、Scopus、Education Source、Web of Science）。 |

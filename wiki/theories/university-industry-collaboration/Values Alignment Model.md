@@ -34,7 +34,7 @@ updated: 2026-10-16
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > 价值对齐模型（Values Alignment Model）是一个以[[Academic Health System\|学术健康系统]]（Academic Health System, AHS）为促进者、帮助[[University-Industry Collaboration\|产学合作]]各方围绕共同价值对齐的框架（pp.190–191）。核心主张是：在[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）的产学合作中，各方（大学、产业、医院、医师）拥有不同的优先事项和回报定义，但可以通过将患者置于中心来重新对齐——找出各方共享的价值，同时尊重不共享的价值（pp.190–191）。
 
 > [!quote]
@@ -42,7 +42,7 @@ updated: 2026-10-16
 > 
 > 对于我们进入的每一个伙伴关系，我们必须问自己：这里的价值对齐意味着什么？什么反向潮流正在将我们拉离对齐？我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
 
-> [!example]- 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
+> [!example] 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-5_Values_Alignment_Approach.jpg)
 
 ## 核心命题
@@ -58,7 +58,7 @@ updated: 2026-10-16
 
 ## 与 COVID-19 的关系
 
-> [!note]-
+> [!note]
 > COVID-19 大流行作为该模型的背景经验：疫情期间，大学、产业 and 医院在**不惜一切代价找到答案**的共同心态下，搁置分歧、高效合作，在 1–2 年内将疫苗学推进了数十年才能达到的水平（pp.189–190）。但疫情后的[[University-Industry Collaboration\|产学合作]]迅速回归了旧有的障碍 and 保守立场。这一对比表明，当各方拥有对齐的目标 and 强烈的紧迫感时，产学合作可以实现的成果远超平时。价值对齐模型试图将这种对齐机制制度化，使合作不依赖于危机情境。
 
 ## 张力与平衡

@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **用途** 揭示看似客观中立的学业考试、[[School Choice\|择校]]竞争与高校选拔背后的阶级筛选机制，解释优势地位的隐性代际传递与认知发展分化。
 > - **边界** 不等于个体理性投资所形成的[[Human Capital Theory\|人力资本]]；其积累高度依赖于家庭早期无意识的身体化熏陶与文化环境刺激，且其变现价值受特定场域规则的制约。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 即使在学历相同的情况下，社会出身的差别仍然体现为文化能力的差别。当人们对一种严格的、可严格评测的能力要求越少，而对一种文化的熟习要求越多，这种差别就越明显。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu, 1984, p. 63）
 >
 > *Even when they have the same qualifications, the difference in social origin is still reflected in differences in cultural competence. The difference is all the more visible when the demand for strictly, technically assessable competence decreases and the demand for [[Familiarization\|familiarity]] with a culture increases.*

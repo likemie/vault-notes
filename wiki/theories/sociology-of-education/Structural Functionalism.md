@@ -170,7 +170,7 @@ updated: 2026-10-20
 > > - **芝加哥学派（安德森、福斯特）** 试图从教育与现代化的互动中总结不受时空限制的普适功能规律，倡导用跨国实证统计模型取代国别历史描述。
 > > - **历史学派与比较史学者（卡扎米亚斯、[[Michael Sadler|萨德勒]]传统）** 批评这种功能主义分析抽离了深厚的民族历史脉络与文化无形力量，陷入冰冷的数字统计与[[Empiricism|唯方法论主义]]泥潭。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统解剖芝加哥功能主义学派对普适因果法则的盲目追求，指出其掩盖了教育的政治博弈实质，客观上充当了战后国家发展计划规避政治问责的[[Social Science as Legitimation Alibi|合法化借口]]。
 
 ---

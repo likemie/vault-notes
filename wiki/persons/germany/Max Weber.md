@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **核心角色** 在现代社会科学[[Epistemology\|认识论]]中确立价值关联、[[Value Neutrality\|价值中立]]与理想类型方法，提出理性化、[[Bureaucracy|官僚制]]与世界祛魅命题；为教育研究中的行动意涵、组织同构合法性与生涯价值信念分析提供核心理论[[Paradigm\|范式]]。
 > - **代表贡献** 奠定诠释社会学认识论、创立社会行动与合法支配的理想类型、提出宗教伦理与资本主义精神的[[Selective Affinity\|选择性亲和]]机制。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality\|因果性]]的解释。（Weber, 1922/1956；引自 [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 3]]）
 >
 > *Sociology is a science concerning itself with the interpretive understanding of social action and thereby with a causal explanation of its course and consequences.*
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 韦伯的社会学体系以“社会行动的诠释性理解”（Verstehende Soziologie）为基石，主张社会科学必须进入行动者的主观意义世界，同时结合因果归因解释客观过程。他论证了西方现代性以工具理性与价值理性的分化、世界的祛魅以及法理型[[Bureaucracy|官僚制]]的普及为特征；行动者由物质和精神利益所驱动，而文化理念创造的“世界图像”则充当轨道的“扳道工”，决定了行动展开的历史方向。在价值多神竞争的现代世界中，学术的职责是促进清晰与责任，而政治行动则要求在信念伦理与责任伦理之间保持清醒的分寸。
 
 ### 诠释社会学与行动理论
@@ -202,7 +202,7 @@ updated: 2026-10-20
 > - **组织与政策路径** [[Tullock's Bureaucracy Theory\|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism\|制度同构]]机制提供核心分析透镜。
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 以韦伯诠释社会学为全书[[Epistemology\|认识论]]锚点，借助工具理性与价值理性区分拓展大学生毕业出路[[Analytic Framework\|分析框架]]，援引“扳道工”假说解析阶层文化与工作意义图式。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education\|企业教育]]如何通过外部学术权威获取合法性。
 

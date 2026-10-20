@@ -305,7 +305,7 @@ updated: 2026-10-20
 > >
 > > - **[[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] 与 [[Argument_Fan_2026_BCAS|樊春良 (2026)]]** 指出，将三螺旋紧密绑定于国家安全与地缘竞争，伴生着严格的安全审查与人员流动限制，正将大学推向消极合作与科研去全球化，削弱了长期驱动全球科技革命的开放基础科研底座。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 揭示了[[University-Industry Collaboration|产学合作]]过深可能导致大学沦为产业代工车间、腐蚀基础科研公开性的体制风险，强调必须捍卫学术自治底线。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 揭示了宏观三重螺旋交织与微观大学组织碎片化之间的治理落差，指出中心机构仅能充当导航者。
 > - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025]] — 批判性修正了三螺旋在医疗规制领域的适用边界，指出政府主要行使监管而非伙伴职能。

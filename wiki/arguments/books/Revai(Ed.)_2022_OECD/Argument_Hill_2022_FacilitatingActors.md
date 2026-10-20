@@ -193,14 +193,14 @@ updated: 2026-10-20
 
 ### 论证步骤一　大学与教育部垄断研究动员生态，一线实践中介面临系统性边缘化
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[OECD\|经合组织]]各系统呈现出学术供给过剩与实践转化贫瘠的非均衡格局：大学与教育部委牢固主导研究生产，而直面微观教学的中介组织极度边缘化；政务网络虽具形式广度，但日常互动与微观实践严重解耦。（pp.78–85）
 
 #### 1. 科研供给过剩与一线实践转化中介匮乏形成跨国结构性鸿沟
 
 教育部委对 17 类行动者在三维度的跨国评估呈现显著的中心—外围结构，科研生产机构高度过剩而实践转化载体匮乏。（pp.78–83）
 
-> [!survey-table] 表4-2：报告各组织在研究生产与促成应用端活跃的系统数量（$N = 37$）
+> [!survey-table]- 表4-2：报告各组织在研究生产与促成应用端活跃的系统数量（$N = 37$）
 > | 组织机构类型 | 政策<br>促成 | 实践<br>促成 | 研究<br>生产 | 典型组织特征与功能定位 |
 > |---|:---:|:---:|:---:|---|
 > | **大学与教育学院** | 32 | 24 | 30 | 全系统最核心的学术生产与动员主力，跨国一致性极高。 |
@@ -263,7 +263,7 @@ updated: 2026-10-20
 >
 > - **测度与梯队划分说明** 分值为教育部委对该系统内全部组织在政策促成、实践促成与研究生产三维度的活跃度打分均值（1 = 完全不活跃 至 5 = 非常活跃）。全样本可清晰划分为三大梯队：协同成熟型（芬兰、瑞士圣加仑、冰岛、智利，均分 > 4.0）、中游分化型（英国英格兰、瑞典、荷兰，均分 3.3–3.9）、机制阻断或微型受限型（比利时两区、南非、瑞士乌里州，均分 < 2.8）。
 
-> [!example]- 图4-1：各国报告活跃的组织行动者数量
+> [!example] 图4-1：各国报告活跃的组织行动者数量
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-1_Number_of_actors_reported_as_active.jpg)
 >
 > *来源：Hill (2022, p. 84, Figure 4.1)，基于 OECD 强化教育[[Research Impact\|研究影响力]]政策调查数据构建。*
@@ -284,7 +284,7 @@ updated: 2026-10-20
 
 而在教育部委自身的政务网络中，征询组织的广度与互动频度之间并未展现出简单的线性对应关系。（pp.84–85）
 
-> [!example]- 图4-2：教育部网络规模与互动强度分布
+> [!example] 图4-2：教育部网络规模与互动强度分布
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-2_Size_and_strength_of_ministries_networks.jpg)
 >
 > *来源：Hill (2022, p. 85, Figure 4.2)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -304,14 +304,14 @@ updated: 2026-10-20
 
 ### 论证步骤二　教育部委网络依附于传统研究供给，官方中介与实践伙伴关系深陷制度性脱节
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 教育部委的工作网络高度依附于谁生产研究而非谁促进应用，导致纯转化中介遭体制性排斥；官方中介机构形态虽丰富却与部委协作通道阻断，大学-学校伙伴关系深陷虚化危机。（pp.85–87）
 
 #### 1. 教育部委网络对纯转化中介的系统性忽视与生产依附偏误
 
 实证调查揭示了一个反常现象：教育部与外部机构的互动紧密程度，取决于该机构是否从事大规模学术生产，而非取决于其促进政策应用的活跃水平。（pp.85–86）
 
-> [!example]- 图4-3：教育部与积极促进政策端研究应用组织的联结相关性
+> [!example] 图4-3：教育部与积极促进政策端研究应用组织的联结相关性
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-3_Relevance_of_ministry_connections.jpg)
 >
 > *来源：Hill (2022, p. 86, Figure 4.3)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -366,14 +366,14 @@ updated: 2026-10-20
 
 ### 论证步骤三　专业中介角色向政策行政中枢单向倾斜，一线教师沦为缺乏制度激励的被动数据工具
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 专业中介角色在政策行政端高度集中而在学校实践端严重匮乏；一线教师在研究全生命周期中被客体化为被动数据提供工具，并因外在硬性制度激励全面缺位而深陷专业孤立。（pp.87–92）
 
 #### 1. 嵌入式专业中介角色的政策端普及与实践端严重赤字
 
 系统促进证据应用的关键不仅在于宏观组织，更取决于具体岗位的制度化设置，调查对比了政策行政端与学校实践端四类专业中介角色的普及比例。（pp.87–88）
 
-> [!example]- 图4-4：各系统报告促进研究应用的个体角色设立比例
+> [!example] 图4-4：各系统报告促进研究应用的个体角色设立比例
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-4_Presence_of_individual_roles.jpg)
 >
 > *来源：Hill (2022, p. 88, Figure 4.4)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -398,7 +398,7 @@ updated: 2026-10-20
 
 在全系统个体参与度的宏观图景中，高校科研人员与政府研究员占据绝对主导，校长与一线教师处于最不活跃的边缘。（pp.89–90）
 
-> [!example]- 图4-5：各系统报告的个体在研究生产中的活跃程度
+> [!example] 图4-5：各系统报告的个体在研究生产中的活跃程度
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-5_Levels_of_individual_activity_in_research_production.jpg)
 >
 > *来源：Hill (2022, p. 89, Figure 4.5)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -409,7 +409,7 @@ updated: 2026-10-20
 
 更为深刻的机制病理显现在个体卷入研究完整生命周期各阶段的严重扭曲。（p.90）
 
-> [!example]- 图4-6：个体在研究生产不同阶段的参与分布
+> [!example] 图4-6：个体在研究生产不同阶段的参与分布
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-6_Involvement_in_stages_of_research_production.jpg)
 >
 > *来源：Hill (2022, p. 90, Figure 4.6)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -428,7 +428,7 @@ updated: 2026-10-20
 
 导致实践者在科研生产中被严重边缘化的关键根源，在于激励机制的系统性断层。（pp.90–92）
 
-> [!example]- 图4-7：个体生产教育研究的外在与内在激励机制
+> [!example] 图4-7：个体生产教育研究的外在与内在激励机制
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-7_Extrinsic_and_intrinsic_incentives_to_produce_research.jpg)
 >
 > *来源：Hill (2022, p. 91, Figure 4.7)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -461,14 +461,14 @@ updated: 2026-10-20
 
 ### 论证步骤四　决策官员对学术界缺乏深层信任，人际网络退化为短视采买原料的交易型接触
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 政策制定者对循证理念的主观高认同掩盖了与学术界深层的信任赤字；证据获取高度依附熟人人际网络，应用模式狭隘局限于[[Technical Rationality\|技术理性]]环节，退化为短视采买原料的交易型接触。（pp.92–96）
 
 #### 1. 表面循证理念高度认同与深层政学信任赤字的认知断层
 
 在专业文化与心智模式层面，各教育部委对循证治理的理念表达了极高的主观认同。（pp.92–93）
 
-> [!example]- 图4-8：教育部对政策与实践中[[Research Utilization\|研究使用]]文化和心态陈述的认同度
+> [!example] 图4-8：教育部对政策与实践中[[Research Utilization\|研究使用]]文化和心态陈述的认同度
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-8_Culture_and_mindset_of_using_research.jpg)
 >
 > *来源：Hill (2022, p. 93, Figure 4.8)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -485,7 +485,7 @@ updated: 2026-10-20
 
 在制度能力层面，大多数教育系统未能为决策官员提供充足的循证能力支撑。（pp.93–94）
 
-> [!example]- 图4-9：政策制定者专业学习机会总体概况
+> [!example] 图4-9：政策制定者专业学习机会总体概况
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-9_Policy_makers_learning_opportunities.jpg)
 >
 > *来源：Hill (2022, p. 94, Figure 4.9)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -498,7 +498,7 @@ updated: 2026-10-20
 
 公职人员专业能力的欠缺直接投射在他们获取教育证据的渠道偏好上，对熟人人际网络的依附压倒了自主学术检索。（pp.94–95）
 
-> [!example]- 图4-10：政策制定者获取教育研究的主要途径
+> [!example] 图4-10：政策制定者获取教育研究的主要途径
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-10_How_policy_makers_access_education_research.jpg)
 >
 > *来源：Hill (2022, p. 94, Figure 4.10)，基于 OECD 强化教育研究影响力政策调查数据构建。*
@@ -518,7 +518,7 @@ updated: 2026-10-20
 
 然而，人际网络获取的证据在进入实际决策过程时，其应用方式呈现出严重的分裂与局限。（pp.93–95）
 
-> [!example]- 图4-11：政策制定者在政策制定过程中使用教育研究的具体方式
+> [!example] 图4-11：政策制定者在政策制定过程中使用教育研究的具体方式
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_4-11_How_policy_makers_use_education_research.jpg)
 >
 > *来源：Hill (2022, p. 95, Figure 4.11)，基于 OECD 强化教育研究影响力政策调查数据构建。*

@@ -82,7 +82,7 @@ updated: 2026-10-20
 > - **用途** 帮助教育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
 > - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的协作学习（Collaborative Learning）。
 
-> [!citation-card]- 经典界定与代表性表述
+> [!citation-card] 经典界定与代表性表述
 > 合作学习被经典定义为“一种小组学习活动组织形式，使学习依赖于学习者在小组中社会结构化的信息交流，其中每个学习者既对自己的学习负责，又有动力促进他人的学习”（Olsen & Kagan, 1992, p. 8）。在合作学习小组中，不同能力层次的学生为了实现共同目标而协作，通过深入研讨、相互解释材料并彼此激励，最终使所有成员获得超越个体单独学习的学业与认知成长（Slavin, 2014; Gillies & Ashman, 2003; Johnson & Johnson, 1994）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 >
 > *Cooperative learning is defined as "group learning activity organized so that learning is dependent on the socially structured exchange of information between learners in groups and in which each learner is held accountable for his or her own learning and is motivated to increase the learning of others" (Olsen & Kagan, 1992, p. 8).*

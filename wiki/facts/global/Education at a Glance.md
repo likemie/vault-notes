@@ -81,7 +81,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重假设之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
-> [!policy-design]- 四维指标框架设计
+> [!policy-design] 四维指标框架设计
 > 《教育概览》将复杂的国家教育生态抽象并归纳为四大相互嵌套的分析维度：
 > - **维度 A：教育机构的产出与学习影响（Output and Impact of Learning）** 劳动力受教育程度分布、毕业与升学率、高等教育溢价、教育与劳动力市场衔接及认知测试结果。
 > - **维度 B：教育投入的财务与人力资源（Financial and Human Resources）** 教育支出占国内生产总值（Gross Domestic Product，GDP）比重、各学段生均公共与私人支出、教育经费来源与转移支付结构。
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 推进历程与结构变迁
 
-> [!dev-timeline]- 报告演进与框架重组历程
+> [!dev-timeline] 报告演进与框架重组历程
 > - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统一的大规模测评数据，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 14)]]
 > - **1995–2001 — 双语分行与数据标准化期** 1995 年起英法版本独立成册发行（每册达 370 页）；随着 [[International Indicators of Education Systems\|INES]] 收集网络日益制度化，数据缺失值显著降低，开始稳步吸收[[IEA\|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement，IEA）等外部评估成果。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
 > - **2002 — 框架重组与“产出/绩效霸权”确立** 经历 2000 年首轮[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）测试后，2002 版 EAG 发生决定性重组：[[Performance Indicators\|绩效指标]]从全书最后一章强行前提至第一章（维度 A），标志着 [[OECD]] 正式确立以“学生成绩与系统效能产出”为统领的现代问责[[Paradigm\|范式]]。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 13–14)]]
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 治理效能与实证影响力
 
-> [!indicators]- 治理影响维度
+> [!indicators] 治理影响维度
 > - **国内政策议程塑造** 成为反对党质询内阁、财政部削减或增加教育拨款、工会争取职业权益的核心合法化依据。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 3–4)]]
 > - **周期性危机动员机制** 每年报告发布引发全球主流媒体大规模排列表解读，制造出常态化的“落后危机”与“借鉴他者”[[Discourse|话语]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **主权国家统计口径重塑** 迫使各国统计机构放弃本国特异性的分类传统，全面对标[[International Education\|国际教育]]标准分类法（International Standard Classification of Education，ISCED）与 [[OECD]] 操作规程。

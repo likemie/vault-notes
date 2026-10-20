@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育政策是在多重复杂语境中不断生产与[[Recontextualization|再脉络化]]的[[Discourse|话语]]博弈[[Champ|场域]]。新自由主义治理通过审计社会与[[Governing by Numbers|以数字治理]]等绩效考核技术全面侵蚀公立教育，利用[[Evidence-Based Education|循证教育]]中[[Value Neutrality|价值中立]]的伪科学修辞规避深层价值审议，借助[[Performativity|表演性]]规训迫使教师不断自证合规，剥夺教师的专业反思与伦理判断力，最终将教育的民主陶冶宗旨降格为流水线式的生产效率控制。
 
 ### 核心命题

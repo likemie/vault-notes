@@ -62,13 +62,13 @@ updated: 2026-10-02
 > [!claim] 核心功能
 > 政府科学办公室致力于确保英国政府的各项公共决策均能充分汲取最严谨的科学、工程与技术洞察，通过统筹管理全国部委首席科学顾问网络、发布长远前瞻预见报告，以及维护国家危机科研响应，为政府在复杂时代的科学治理提供制度化护栏。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 
-> [!policy-design]- 机制设计与四大支柱
+> [!policy-design] 机制设计与四大支柱
 > - **统筹部委首席科学顾问（CSAs）网络** 协调部署在国防部、教育部、环境署、交通部等各部委的高级首席科学顾问，定期召开全国 CSA 联席例会，打破部门壁垒，统筹跨部门科研证据采购与协同。
 > - **[[Areas of Research Interest\|重点研究领域清单]]（Areas of Research Interest, ARIs）** 自 2013 年起指导并监督各部委常态化公开发布 ARIs，将政府在未来数年内的核心政策痛点与亟需[[Research Question\|研究问题]]清晰罗列，引导全国高校、科研院所与第三部门精准对齐国家重大需求。
 > - **前瞻预见计划（Foresight Projects）与时事科学综述** 设立专属预算，定期编制国家级未来趋势前瞻报告（如未来人口老龄化、未来城市、防洪体系、人工智能趋势等），为国家制定 10–20 年中长期战略提供科学情景建模。
 > - **应急科学咨询小组常设运转保障** 作为内阁危机响应时[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（[[Sage]]）的常设秘书处，负责在危机爆发时快速筛选并调度外部跨学科专家名单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 
-> [!citation-card]- 组织使命
+> [!citation-card] 组织使命
 > 我们确保政府政策与决策以最佳的可用科学证据和战略长远考量为基础；我们通过支持政府首席科学顾问及各部门科学顾问网络，捍卫客观、独立且高标准的科学咨询。
 >
 > *We ensure that government policies and decisions are informed by the best available scientific evidence and strategic long-term thinking, championing independent and robust scientific advice across all departments.*

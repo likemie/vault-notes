@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体陈述、社会片段、对话序列、录音访谈。
 > - **输出形式** 对陈述的再陈述（accounts of accounts）——即研究者对参与者言语说明的分析性重构，包括主题、解释图式和意义系统。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 解释我们的行为可以理解为**为我们的行动作出说明（accounting for our actions）**，以使它们对周围的人变得可理解和可辩护。（第22章, p.441）
 >
 > *Explaining our behaviour towards one another can be thought of as accounting for our actions in order to make them intelligible and justifiable to our fellow beings. (Harré, 1978)*
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 录音访谈、参与者观察记录、[[Dialogue in Education\|对话]][[Transcription in Qualitative Research\|转录]]。陈述可以是个人记录、对话、信件、日记等。 |

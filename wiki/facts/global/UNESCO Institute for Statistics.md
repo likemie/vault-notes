@@ -79,7 +79,7 @@ updated: 2026-10-15
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1999 年 — 响应 EFA 数据需求而成立** [[UNESCO\|联合国教科文组织]]大会批准设立 UIS，弥补[[International Education\|国际教育]]统计领域数据[[Reliability\|可靠性]]不足的系统性缺口；初期重点工作为在全球南方推行统一的行政统计数据收集模板。
 > - **2000–2015 年 — EFA 全球监测数据权威** 成为《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（EFA GMR，即后来的 [[Global Education Monitoring Report\|GEMR]]）不可替代的数据供应商；主导建立全球识字率、净入学率与学校完成率的标准化统计口径。
 > - **2015 年至今 — [[UN Sustainable Development Goals\|SDG 4]] 法定数据中枢** 《2030 年可持续发展议程》正式通过，UIS 被联合国统计委员会指定为 [[UN Sustainable Development Goals\|SDG 4]] 全部 11 项全球监测指标的法定托管数据机构（Custodian Agency），承担对各主权国数据的质量核查与全球汇总发布职责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
@@ -93,7 +93,7 @@ updated: 2026-10-15
 > - **执行机构** UIS 所长负责日常管理，下设数据收集与分析、方法论研发、技术援助与国家能力建设等职能部门。
 > - **数据供给网络** 依托各主权国教育部行政统计渠道、国家统计局与国际调查合作伙伴（如[[UNICEF\|儿童基金会]][[Multiple Indicator Cluster Surveys\|MICS]]）形成多源数据交叉验证机制。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **数据收集** 每年向全球 200 余个成员国发送标准化行政统计调查[[Questionnaire\|问卷]]，对教育投入（经费）、过程（师资、设施）与产出（入学率、完成率、素养）进行全面普查。
 > - **方法论维护** 主持更新 ISCED [[International Education\|国际教育]]分类标准（最新版为 ISCED 2011），组织跨国专家委员会研制新兴优先指标（如数字技能、危机背景下学习连续性等）。
 > - **数据发布与开放** 通过 UIS.[[Students and Teachers Accessing Tomorrow\|STAT]] 数据查询平台和每年发布的数据集对外免费开放全量时间序列数据；同时与[[World Bank\|世界银行]][[World Development Indicators\|世界发展指标库]]（WDI）、[[OECD\|经合组织]]《[[Education at a Glance\|教育概览]]》等实现数据共享互通。
@@ -112,7 +112,7 @@ updated: 2026-10-15
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **标准化影响** ISCED 成为[[World Bank\|世界银行]]、[[OECD]] 与各国政府教育统计的分类共同底座，消除了数十年来各国定义学段边界的混乱局面。
 > - **监测覆盖** [[UN Sustainable Development Goals\|SDG 4]] 指标 4.1.1（读写算最低技能达标率）的全球估算完全依赖 UIS 的跨国可比数据框架，而这一指标被联合国秘书长年度报告频繁引用。
 > - **数据垄断地位** 在涉及全球学龄人口入学率、失学率、完成率等基础指标时，UIS 数据是绝大多数双边援助机构、学术研究和国际政策文件唯一认可的权威来源。

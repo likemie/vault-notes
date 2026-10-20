@@ -71,10 +71,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育与课程改革在本质上是由民族国家建构、国内政治控制以及地缘利益竞争驱动的。国际间的“政策学习”并非中性的技术改进，而是源于无政府状态下国家为了维护自身权力与地位，对竞争对手所展开的“贪婪而好奇”的观察。比较教育的学术与政策流变史，实质上总是伴随着政治大国的意识形态输出与[[Discourse|话语]]征服。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]; [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
 
-> [!citation-card]- 经典表述：国家竞争与贪婪学习
+> [!citation-card] 经典表述：国家竞争与贪婪学习
 > 译文：在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的“贪婪而好奇”的观察。
 > 
 > 原文：*... greedy and curious to learn from each other ...* ([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 420]])
@@ -91,6 +91,6 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!critique]- 批评与应用索引
+> [!critique] 批评与应用索引
 > - [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] — 应用 Tröhler 的“国家利益驱动论”，解释了[[Liberal Studies\|香港通识教育科]]（Liberal Studies）的废除并非遵循全球课程科学，而是直接服从于国家安全和国族建构的政治竞争逻辑。(p. 483)
 > - [[World Society Theory]] — Tröhler 批评该理论将课程变迁归因于中性的全球文化扩散，指出其抹去了[[Geopolitics|地缘政治]]冲突、大国支配和本国政治控制的权力维度。

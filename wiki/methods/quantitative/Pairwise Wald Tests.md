@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 调节变量的亚组效应量估计量（Subgroup Pooled Estimates）。
 > - **输出形式** 两两比较的 Wald 统计量 $W$（或 $Z$ 值）、自由度 $df$、双尾 $p$ 值以及事后多重比较校正后的显著性判定。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 亚组分析显示组织器形态间存在显著异质性；成对 Wald 检验进一步证实[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]与[[Concept Mapping\|概念图]]两两之间均存在极显著差异。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 10)]]
 >
 > *Subgroup analyses showed significant heterogeneity among organizer types; pairwise Wald tests further confirmed that mind mapping, argument mapping, and concept mapping significantly differed from one another.*

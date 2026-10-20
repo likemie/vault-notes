@@ -69,7 +69,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
 > - **输出形式** 描述性笔记、[[Reflexivity\|反思性]]笔记、田野日志、互动编码与深入的质性个案叙事。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 质性观察是研究者在研究现场记录个体行为和活动并撰写田野笔记（fieldnotes）的数据收集方法。在这项数据收集活动中，研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的开放式问题）。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 199]])
 >
 > Qualitative observations are those in which the researcher takes fieldnotes on the behavior and activities of individuals at the research site. In these data-gathering activities, the researcher records, in an unstructured or semistructured way (using some prior questions that the inquirer wants to know), activities at the research site.
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > 
 > | 维度 | 信息 |
 > |---|---|

@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 国家教育权在制度演进中展现为传统制度奠基与当代多标度变迁构成的核心要素体系：
 
-> [!feature] 核心要素
+> [!feature]- 核心要素
 > - **教育作为国家公共资源的法哲学奠基（Education as a Public Resource）** 彻底否定教育权属于个人或教会私人所有，在法理上确立国家通过公共财政征税建设学校体系、推进强制义务入学的本体正当性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 28)]]
 > - **世俗国家最高督导视察网络（Supreme State Inspection Network）** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》设立教育部最高督察司；法国《1833 年[[Guizot Law of 1833|基佐法案]]》设立专职皇家督学与省级特别委员会；美国马萨诸塞州设立州立教育委员会（Board of Education）与专职秘书，形成中央/州级世俗公权力直接视察每所学校的督导网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28, 31)]]
 > - **市镇公学义务与贫困儿童免费托底（Statutory School Obligation and Social Protection）** 强制全境所有市镇必须依法设立初等公学，对赤贫家庭子女实行完全免收学费，将教育可及性作为国家对公民的不可剥夺承诺。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26, 28)]]

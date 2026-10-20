@@ -242,7 +242,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 - 科学-政治关系中存在三级恶化：[[Epistemic Drift|认识漂移]](Elzinga, 1997)→ 证据制造与选择性引用(Steiner-Khamsi et al., 2020; Zapp, 2020a)→ 对学术机构的公开压制（以匈牙利性别研究禁令、中欧大学 CEU 被迫迁离、[[Chinese Academy of Sciences|科学院]]受政府控制为例），参见 [[Epistemic Governance#争议与批评]](pp.154–155)
 - 大学知识全球化与大学被国家重新领土化为[[Geopolitics|地缘政治]]竞争单位构成悖论：各国通过"卓越计划"、教育枢纽、智慧城市和技术极争夺全球人才与资本，二十国集团（G20）实施研究计分卡，高等教育是《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）最频繁被纳入的行业(Moisio, 2018; Knight, 2018,pp.155–157)
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - [[THE Impact Ranking]] 覆盖 **85 个国家近 800 所大学(THE, 2020, p.147)**
 > - 全球 **200+ 所**大学的 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布(Corporate Register, 2019, Fig. 9.1, pp.152–153)
 > - **185 个**大学协会/元组织，大多数在过去 **二十年**成立(Brankovic, 2018, p.153)

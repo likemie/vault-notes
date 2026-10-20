@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 赵汀阳的思想以建构超越西方威斯特伐利亚民族国家主权的“[[Tianxia Heuristic|天下体系]]”为轴心，融通全球制度哲学、文明发生学与政治神学，形成了一套解释世界秩序与中华文明连续性的理论体系：
 > 
 > - **无外部的世界政治** 主张突破以民族国家主权为核心、将世界割裂为“我们”与“他们”排他性二元的传统秩序，将“世界”本身确立为最高的政治与[[Unit of Analysis|分析单位]]，致力于构建一个消解制度“外部性”的天下世界制度，先确立全人类的共同利益，再界定主权国家权益。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]]；[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024, pp. 1703–1704]])
@@ -156,7 +156,7 @@ updated: 2026-10-20
 > - **政策与官方[[Grand Theory|元叙事]]路径** 与官方提出的“[[Community of Shared Future for Mankind|构建人类命运共同体]]”及“[[National Rejuvenation Narrative|中华民族伟大复兴]]”的宏大叙事形成深层学理共振，为官方论证“中华文明具有和平基因”提供了极具世界主义色彩的哲学外衣。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
 > - **跨国翻译与批评人类学传播** 英文版著作在加州大学出版社出版后，广泛进入海外中国研究、[[Wight's Three Traditions of International Theory|国际关系理论]]与后殖民批评学术视野，成为解构中国新帝国主义想象与[[Necropolitics|死亡政治]]讨论的核心焦点文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 深度解构赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”与“成为”的修辞包装少数民族的历史性文化消亡。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 探讨天下启发式框架在跨国大学联盟研究中的应用，提炼出超越中国中心主义朝贡体系的去中心化“世界中心天下观”。
 
@@ -200,7 +200,7 @@ updated: 2026-10-20
 > > 
 > > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 尖锐指出，赵汀阳将历史上的侵略和同化重新诠释为异族对中华文明的“仰慕”，这一逻辑与近代日本军国主义学者在历史上打着“大亚洲主义”（Asianism）旗号、以“文明融合”粉饰对周边邻国殖民侵略的洗白叙事具有惊人的结构相似性。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 105)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 系统解构赵汀阳天下哲学将少数民族文化消亡美化为“自愿牺牲”的死亡政治逻辑，指出其神性中国与汉字向心论在现实政策面前的虚妄。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 辨析赵汀阳古典天下体系蕴含的中国中心主义朝贡偏向，提炼去中心化的世界中心天下观。
 

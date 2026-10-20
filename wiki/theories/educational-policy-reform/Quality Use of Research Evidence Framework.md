@@ -240,7 +240,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 >   > - **角色冲突与互相推诿** 实践者与管理层在劣质使用归咎上呈现鲜明张力：普通教师强烈批评管理层单向发号施令与强推新奇点子，管理层则抱怨教师保守防卫、不愿尝试。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 191)]]
 > - **推导** ① 结构性资源错配阻断了一线教师的深思熟虑参与机制；② 实践者由[[Knowledge Co-production\|知识共创]]的主体退化为流水线操作工；③ 唯有在实践端布设专业中介（如嵌入式研究顾问、校际协作网络）并打破行政阻隔，才能真正激发实践者的[[Absorptive Capacity\|吸收能力]]与内生需求。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** 恰当研究由情境匹配、实践实用、来源整合与方法可信度四维构成；缺乏情境适切性的高设计严密性研究（如脱离校情的[[Randomised Controlled Trials\|随机对照试验]]）在实践端无法实现高质量使用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
 > - **推论二（源自核心命题二）** 外部专业支持（如大学研究者进校合作）与内部教研共同体相结合时，实践者更易克服研究晦涩感与质量甄别信心缺失，展现出最高水平的深思熟虑参与。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 192)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 12)]]
 > - **推论三（源自核心命题三与四）** 行政征询网络的简单规模扩张并不等于高质量使用，大网络并不带来深层理解；唯有依靠高频度、小范围、制度化的一对一指导与教研组研讨，才能化解信任赤字。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 84–87)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 188)]]
@@ -366,7 +366,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > > - **[[Argument_Torres_2022_KMModels\|Torres (2022b)]]** 肯定 QURE 在质量维度上的开创性，但指出其在微观行为改变机制上仍需与能力-机会-动机行为模型（[[COM-B Model\|COM-B]]）等心理因果模型交叉融合。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 49–51)]]
 > > - **框架作者团队** 强调框架本质上是生态分析透镜而非微观心理学模型，其长处正在于统摄复杂系统中的社会性与组织性关联。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–189)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 揭示出 QURE 规范性追求与现实科层行政中交易型技术采购之间的深刻鸿沟。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 指出 QURE 作为宏观中观使能框架，在解释行动者微观行为改变因果链条上仍需补充微观行为科学模型。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 指出实证文献普遍缺乏对使用质量维度的独立度量，容易导致质量概念沦为无法[[Falsification\|证伪]]的[[Discourse|话语]]标签。

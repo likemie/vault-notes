@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 历史沿革与演变脉络
 
-> [!dev-timeline]- 平台发展历程
+> [!dev-timeline] 平台发展历程
 > - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** 美国国会通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **2017 — Evidence for ESSA 平台正式上线** JHU CRRE 团队依托[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）三十年学术积累，正式推出 Evidence for ESSA 交互式平台，首期发布 K-12 阅读与数学经过严格审查的项目清单。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
 > - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **政策决策用户网络** 涵盖各州教育厅官员、学区总监及联邦最低 5% 处境不利改善学校校长，直接依据评级制定采购决策。
 > - **方案研发与出版机构** 大学研究中心、非营利机构与商业教育出版商，提供原始评估数据并接受独立复核。
 
-> [!pathways]- 证据审查与快速上线规程
+> [!pathways] 证据审查与快速上线规程
 > - **文献雷达扫描** 建立持续追踪机制，在新实证论文、政府技术报告或会议成果发布后 1 个月内完成抓取。
 > - **五大约束门控** 严格核验研究是否满足独立测验、$\ge 12$ 周周期、第三方评估、[[Preregistration\|预注册]]及多层模型等核心门槛。
 > - **瓷砖卡片生成** 将通过审查的项目转化为直观的交互瓷砖卡片（Tile），展示受试人群、耗材成本与教师培训配套。

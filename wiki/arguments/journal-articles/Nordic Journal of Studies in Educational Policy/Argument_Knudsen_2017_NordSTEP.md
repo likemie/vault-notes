@@ -155,7 +155,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ### 论证步骤一　用商业特许合同与逐字脚本强制推行教学标准化
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[John Hattie|哈蒂]]借鉴商业特许经营模式，通过与 [[Cognition Education]] 签订法律合同设立 23 国授权网络，推行严格脚本化的工作坊并坚决禁止教师分享个人课堂轶事，将[[Implementation Fidelity|实施忠实度]]建立在集权化的技术规训之上。（pp. 254–255）
 
 #### 1. 照搬连锁店加盟模式控制全球培训质量
@@ -194,7 +194,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ### 论证步骤二　用大周期成功标准纠正碎片化教学目标
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 面对丹麦以尼古拉·弗雷德里克·塞韦林·格隆维（Nikolai Frederik Severin Grundtvig）为代表的全人教养批判，哈蒂主动淡化循证标签以规避盲从指责，主张以贯穿 10 至 12 周的[[Success Criteria|成功标准]]整合表层与[[Surface and Deep Learning|深层学习]]，化解原子化目标对求知好奇心的侵蚀。（pp. 255–257）
 
 #### 1. 抛弃循证口号并退守到关注教学实际效果
@@ -228,7 +228,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ### 论证步骤三　借助客观监测破除盲区并遵循认知进阶规律
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 可见性通过客观[[Transcription in Qualitative Research|转录]]与编码技术破除教师无法察觉 80% 课堂互动的认知盲区，而学习被界定为依据可观察学习结果结构（[[SOLO Taxonomy|Structure of Observed Learning Outcomes]], SOLO）从表层认知向深层建构与迁移的进阶，指出[[Problem-Based Learning|基于问题的学习]]在此过程中的错位应用是导致其[[Effect Size|效应量]]低下的根源。（pp. 257–258）
 
 #### 1. 实时录音转录证实教师独占绝大部分课堂时间
@@ -263,7 +263,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ### 论证步骤四　以统计中立掩盖先验理论并换取全球实践数据
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 哈蒂以统计学家自居并声称置身于理论之外，借此构筑实证中立防护栏，但在回应丹麦引介者废弃理论的主张时[[Recognition Theory|承认理论]]是解释证据的先验透镜，其真正的学术动力在于依托商业网络回收全球海量实践数据。（pp. 258–260）
 
 #### 1. 承认理论决定证据解释并接受证伪检验

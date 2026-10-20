@@ -69,7 +69,7 @@ updated: 2026-10-20
 > [!citation-card] 制度作为权力与资源分配的非中性工具
 > 制度绝非社会行动者之间达成帕累托最优的[[Value Neutrality|价值中立]]协调工具，而是深深浸润着权力含义的分配性工具（distributional instruments laden with power implications）；制度的设计、运行与变迁，本质上都是在不平等地向不同社会群体和政治集团分配关键资源与权力优势。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 8)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - 制度变迁与权力分配模型：[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]]
 
 ---

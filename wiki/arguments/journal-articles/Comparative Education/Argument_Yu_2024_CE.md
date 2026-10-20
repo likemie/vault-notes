@@ -182,7 +182,7 @@ citation_aliases:
 > - **语文** 将《论语》判定为对中华文化形成最具决定性影响的经典，大量选编《三字经》《礼记》《[[Mencius\|孟子]]》进行道德与文化灌输 (PEP 2016a, pp. 83–87)。
 > - **英语** 将孔子选入“英雄画廊”（Gallery of Heroes），与林肯、爱因斯坦及钱学森并列，塑造成代表中国的文化符号 (PEP 2016b, p. 69)。
 >
-> > [!boundary] [[Discourse|话语]]滑移带来的排他性[[Symbolic Boundary\|象征边界]]
+> > [!boundary]- [[Discourse|话语]]滑移带来的排他性[[Symbolic Boundary\|象征边界]]
 > > 教科书完成了一个关键的修辞滑移：从“儒家是中华文化的重要组成部分”隐蔽地滑动为“中华文化本质上就是儒家文化”。这一等价化操作彻底将55个少数民族的文化传统排除在“国家文化正统”的象征边界之外 (p. 67)。
 
 > [!line-b] 线索B：构建“非汉政权学习汉儒”的[[Cultural Hierarchy\|文化等级]]与文明化叙事
@@ -272,17 +272,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- [[Official Knowledge\|官方知识]]的[[Cultural Hierarchy\|文化等级]]效应
+> [!citation-card] [[Official Knowledge\|官方知识]]的[[Cultural Hierarchy\|文化等级]]效应
 > 对儒家传统的阐释构成了一种垄断性与主导性[[Discourse|话语]]，强化了不同文化群体之间的[[Cultural Hierarchy\|文化等级]] (p. 59)。
 >
 > *The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.*
 
-> [!citation-card]- 边缘学生的重新定位
+> [!citation-card] 边缘学生的重新定位
 > 学生们似乎将儒家传统仅视为中国众多文化与世界观中的一种，而这种传统可以从其他文化的批判性反思中获益 (p. 59)。
 >
 > *The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.*
 
-> [!citation-card]- 单一汉文化叙事的反讽后果
+> [!citation-card] 单一汉文化叙事的反讽后果
 > 主导性的官方儒家版本将其呈现为单一汉文化的核心、并要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离 (p. 71)。
 >
 > *The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.*

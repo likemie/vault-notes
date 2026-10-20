@@ -49,7 +49,7 @@ updated: 2026-09-23
 > - **用途** 用于批判那些表面倡导民主、[[Critical Thinking\|批判性思维]]但在实践中仍维持阶层隔阂或被动灌输的课程体系。
 > - **边界** 学习者的自由并非放任主义，而是建立在爱、尊重、关怀、[[Humility\|谦逊]]、合作以及与社区环境互动基础上的有责任能动性。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 借用杜威与弗雷尔的术语，正是‘学习者的自由’处于主动学习的核心。 （第1章，p.7）
 >
 > *It is the ‘freedom of the learner’—borrowing the term from Dewey and Freire—which is at the heart of active learning. ([[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*

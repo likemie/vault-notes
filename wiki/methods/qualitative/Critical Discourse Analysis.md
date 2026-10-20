@@ -82,7 +82,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 词汇语法选择、修辞隐喻、互文引述链条、段落框架、跨部门文本互动网络与[[Order of Discourse|话语秩序]]（[[Order of Discourse]]）。
 > - **输出形式** 诊断性—处方性—[[Policy Framing|激励性框架]]分类体系、互文性与[[Interdiscursivity|互话语性]]（[[Interdiscursivity]]）演化路径、意识形态霸权分析图谱及批判性政策建议。
 
-> [!citation-card]- 关键定义（Fairclough, 1992; [[Argument_Woo_2023_HEP|Woo, 2023]]）
+> [!citation-card] 关键定义（Fairclough, 1992; [[Argument_Woo_2023_HEP|Woo, 2023]]）
 > 批判性话语分析将政策文本视为意义建构与话语斗争的[[Champ|场域]]。社会行动者通过符号化实践来简化外部复杂性，以此作为在现实世界中行动的先决条件。批判性政策话语分析将政策文本作为话语来研究，其目标是实现解释性与规范性批判。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 681)]]
 >
 > *Critical discourse analysis (CDA), as a critical policy approach, studies policy texts as discourse with the goal of explanatory and normative critique. These texts should be understood as the site of sense-making and meaning-making, where language operates as semiotic practice to reduce complexity.*
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 682–684)]] |

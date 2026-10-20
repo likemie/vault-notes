@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **核心角色** 将[[Improvement Science\|改进科学]]与网络化改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
 > - **代表贡献** 系统构建教育[[Improvement Science\|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “[[Practice-Based Evidence\|基于实践的证据]]”（practice-based evidence）概念。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 改进科学和网络化探究方法旨在适应教与学的日常情境，允许根据反馈和调整做出持续的小型决策。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
 >
 > In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation.
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm\|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的网络化改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “[[Practice-Based Evidence\|基于实践的证据]]”。
 
 > [!axioms] 核心命题一：基于实践的证据 (Practice-Based Evidence)
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > [!pathways] 核心命题三：网络化改进共同体 (Networked Improvement Communities, NICs)
 > 为了在复杂的情境中探寻改进路径，研究者与一线教师必须组成协同运作的 NICs。该共同体围绕共同商定的具体教育问题，利用持续的系统反馈循环，观察和记录学习者对其环境的感知与行为变化。各成员学校共享关于微小改变的实践洞见，在变异中相互学习，让适合的改变被接受为 “改进”，不适合的改变被及时拒绝。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]])
 
-> [!citation-card]- [[Improvement Science\|改进科学]]的系统与变异视角
+> [!citation-card] [[Improvement Science\|改进科学]]的系统与变异视角
 > 改进科学的关键方面包括将教育实践作为系统来研究，关注跨情境的变异性，并从变异性中学习。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 > 
 > Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability.
@@ -124,7 +124,7 @@ updated: 2026-10-20
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306–307]])
 > - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的网络化协作模式；同时激发了如[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a] 相关研究
 > - [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments\|机制实验]]与 Bryk 等的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 引用 NICs 作为超越传统 [[Evidence-Based Education\|EBE]] “单一平均[[Effect Size\|效应量]]” 压制、开展情境化民主探究的重要替代方案。
@@ -150,5 +150,5 @@ updated: 2026-10-20
 > - **证据依据** NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable\|变量]]。
 > - **余留问题** Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments\|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 指出改进科学在组织层面上能极大促进证据的采纳与实施，但单靠其反馈循环在严密的因果机制确证上仍显不足，因此必须与实验机制设计整合。

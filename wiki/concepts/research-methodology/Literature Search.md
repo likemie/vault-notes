@@ -124,7 +124,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > 6. **撰写[[Abstract\|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review\|文献综述]]
 > 7. **组织文献综述** 按主题或核心概念结构化组织，以主要主题的总结结尾
 
-> [!tip]- 迭代搜索策略
+> [!tip] 迭代搜索策略
 > 先使用在线词表中的描述词进行初步搜索，找到一篇与[[Research Topic\|研究主题]]相关的期刊文章，然后仔细查看这篇文章使用的描述词，再用这些词进行第二轮搜索。索引者使用的描述词往往比研究者自己想到的关键词更精确（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 齐梅 (2015, Ch.1) 归纳了五种文献检索的操作方法：
@@ -142,7 +142,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 互联网上研究数据的存储和检索不仅能跟进全球发展，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索，如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
-> [!tip]- 四个检索操作符
+> [!tip] 四个检索操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
 > - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 Teach\* → teach, teaching, teacher）
 > - **波浪号（\~）** 在词前加波浪号，识别相似词（如 \~English teaching 同时返回 English language 和 English teaching）
@@ -407,7 +407,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & [[Keith Morrison\|Morrison, K.]]
 > **论证目的链条** 文献检索不是孤立的技术操作，而是一连串论证目的的逻辑起点。通过彻底的文献检索与综述为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础，指明理论与经验领域现状以建立理论框架，识别需要填补的空白与关键议题，从而确立研究的可信度、效度、主题性与重要性，并作为进入实证研究的跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch.7, pp.126–127)]]
 
-> [!chain-link]- 文献检索→论证的推进逻辑
+> [!chain-link] 文献检索→论证的推进逻辑
 > - **奠基[[Reliability\|信度]]与效度**
 >   通过彻底的[[Literature Review\|文献综述]]为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
 > - **建立理论框架**
@@ -427,7 +427,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > [!claim] 齐梅
 > **选题生成机制** 通过文献检索与批判性阅读，研究者能够从四个维度发现和提出研究课题：关注已有文献中被忽略的问题以填补知识链条空白；注意已有文献之间相互矛盾的研究结果以展开深层探究；审视已有研究在方法运用与[[Variable\|变量]]控制方面的不足以寻求方法修正；把握研究问题的本质与相互联系以构建理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.1)]]
 
-> [!feature]- 文献检索在选题中的四项作用
+> [!feature] 文献检索在选题中的四项作用
 > - **关注已有研究文献中忽略的问题** 很多重要问题因种种原因未被研究者认识到，查阅和评价已有文献时，宜善于发现知识链条中的空白点。
 > - **注意已有研究文献之间相互矛盾之处** 两个或更多研究者在研究同一问题时，尽管方法类似但结果不一致甚至相互矛盾，说明该领域值得做进一步研究。
 > - **关注已有研究在方法运用方面的不足** 例如研究过程中某些[[Variable\|变量]]是否得到适当控制，若文献中的研究方法需要修正，则为研究者提供了值得进一步探讨的问题。

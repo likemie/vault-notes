@@ -60,7 +60,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 挪威政府通过年度全国学生学业晴雨表（Studiebarometeret），系统采集学生对教学质量、考核反馈、[[Active Learning\|主动学习]]投入与[[Critical Thinking\|批判性思维]]训练的评价，并在专属公开门户向全社会发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 为高校自我诊断改进提供实证依据，为未来学生专业选择提供透明参考，赋能外部质量保障审计。
 > - **对象** 挪威数十所高校的数万名在读本科生与研究生（年均回收率逾 40%–50%）。
 > - **工具** 标准化[[Internet-based Survey\|在线调查]][[Questionnaire\|问卷]]、全国对比门户网站、定制化院校质量诊断分析报告。

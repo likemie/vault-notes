@@ -47,7 +47,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!note]-
+> [!note]
 > - Great Firewall and Big Data 监控配对运行，是"最成功的审查系统之一"，控制着对知识的获取和言论自由([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
 > - 强制用户以真实身份注册是其主要运作方式之一
 > - 通过追踪社交媒体中的政治敏感观点和意见，甚至无预警删除内容来运作

@@ -100,7 +100,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 人类实践应被概念化为集体的、对象导向的、由工具与符号中介的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇与碰撞，或新型中介工具的强力介入，必然触发系统内在与系统之间的结构性矛盾（Contradictions）；当行动者通过边界跨越识别矛盾并建构“共享客体（Shared Object）”时，活动系统能够推动工具、规则、分工与共同体全要素的协同重组，实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 11–13)]]
 
-> [!citation-card]- 关键表述：活动系统的协同重组与扩展性改造
+> [!citation-card] 关键表述：活动系统的协同重组与扩展性改造
 > 为化解[[Generative Artificial Intelligence\|生成式人工智能]]整合中的[[Cognitive Offloading\|认知卸载]]危机并释放其[[Higher-Order Thinking Skills\|高阶思维]]潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的工具中心论，依据活动理论全面重组教学活动系统的规则、工具与人机分工，构建涵盖多源反馈生态的教学法。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
 >
 > *According to Cultural-Historical Activity Theory (CHAT), the introduction of an artifact inevitably disrupts the equilibrium among subjects, objects, mediating tools, rules, and division of labor within an activity system... expansive transformation occurs when contradictions are harnessed to reconstitute instructional rules and collaborative roles.*
@@ -175,7 +175,7 @@ updated: 2026-10-20
 > - **规则与规程（Rules/Design）** 确立干预的时间周期演进规律（技能内化期 vs 习惯性脱敏期），以及评价工具设计对真实学习成效与提分泡沫的甄别规制。
 > - **共同体与情境（Community/Context）** 考察教学嵌入的社会文化关系、数字基础设施与文化权力距离，揭示宏观生态环境对技术中介赋能的边界条件与平权潜能。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **[[Epistemic Friction\|认识论摩擦]]维持推论（源自核心命题二与命题五）** 在高度智能化的工具中介活动中，系统必须在规则与任务设计中主动引入“[[Epistemic Friction\|认识论摩擦]]”（Epistemic Friction），人为制造良性认知张力，防止分工过度外包导致的主体反思能力萎缩。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 10)]]
 > - **结构性硬边界制约推论（源自核心命题三与命题四）** 共享客体的建构受制于宏观制度的权力不对等；在强问责系统中，扩展性改造往往优先吸纳技术性中介手段，而将权力共享（如学生共决考核标准）排斥在系统边界之外。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
@@ -281,7 +281,7 @@ updated: 2026-10-20
 > > - **[[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 1, 10–11)]]** 实证确立 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的影响非技术固有，而在教学活动系统重组中分化为协同增益与双重侵蚀两种截然相反的轨迹。
 > > - **[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, pp. 10–13)]]** 基于 AT-MCSCL 框架证实技术效果受人机角色（同伴比导师更优）、干预周期（4–12 周黄金期）与宏观文化权力距离深度调节，为活动系统整体观提供了基于 57 项[[Experimental Research\|实验研究]]的大[[Sample Size Determination\|样本量]]化证据。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示扩展性改造在遭遇宏观制度权力不对等时的结构性硬边界，指出学生权力共享维度的缺位暴露了理论对强问责压迫解释的局限。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 指出活动理论若未针对生成式 AI 的高速语义生成建立显性过程规制，容易忽视表面协同下发生的隐性[[Cognitive Offloading\|认知卸载]]与心智惰性风险。
 

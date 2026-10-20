@@ -209,7 +209,7 @@ updated: 2026-10-20
 > > - **批判教育学者（2020）** 认为缺乏底层赋权配套的审议机制仍将沦为精英知识分子的独白。
 > > - **Rickinson 等人（2022）** 呼吁在系统层面内置专业支持与研究素养培育，填补参与能力鸿沟。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 142–143)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 提示治理原则需进一步下沉至学区与中小学校本情境，强化微观层面的实践可操作性。
 
 ---

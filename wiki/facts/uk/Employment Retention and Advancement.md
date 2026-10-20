@@ -70,7 +70,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 通过将个体化职业发展咨询（Advancement Counselling）与留职现金奖励津贴（Retention Bonuses）相结合，能够激励弱势受助群体在获得工作后保持稳定在职状态并谋求薪资晋升。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 探索有效延长初次就业受助者留任时间并促进岗位晋升的干预路径。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **覆盖对象** 三类群体：参加单亲家庭新政（New Deal for Lone Parents, NDLP）的求职者；参加 25 岁以上长期失业新政（New Deal 25 Plus, ND25+）的受助者；每周工作 16 至 29 小时并领取工作税收抵免的低薪在职单亲父母。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **干预措施** 配备专职留任晋升顾问提供量身定制的在职辅导；受助者在规定时间内维持每周全职工作标准可获得现金留任奖金。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
@@ -100,7 +100,7 @@ updated: 2026-10-20
 > - **一线执行机构** 各地就业服务中心（Jobcentre Plus），配备专职咨询顾问执行面对面服务。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **受试与受益对象** 单亲家长、长期失业群体与在职低收入受助人员。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **纵向传导与支持** MDRC 专家向英国本土就业顾问团队传授美式实验随机分组规程与个案跟踪规范。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **横向跨部门协同** 就业服务部门、财政税务系统与海外评估智库协同运作。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **动态反馈与调整** 在实施中严格监控对照组受污染情况，确保实验[[Causality|因果推断]]纯洁性。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入指标** 财政留任补贴支出、顾问个案服务课时投入。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **过程与依从性指标** [[Random Assignment|随机分配]]依从度、顾问约谈出席率、奖金申领合规率。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **产出与结果指标** 就业留存月数、年均全职工作周数、小时工资增长率及公共福利脱离率。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]

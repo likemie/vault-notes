@@ -64,7 +64,7 @@ updated: 2026-10-15
 > [!claim] 核心干预／机制假说
 > 国家量子倡议的核心干预假说在于：量子信息科学已从单一理论物理验证迈向极端微纳制造与工程系统集成的“科学仪器化”新阶段；仅靠分散的学术课题资助无法解决系统级工程难题，必须通过跨部门顶层统筹，依托[[Megascience Installations|大科学装置]]建立跨学科国家级研究中心，并与微电子和纳米制造基础设施紧密协同，才能在十年尺度内实现容错量子计算与量子网络实用化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 22)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 攻关多物理场量子体系原型机，建设全国性量子研发网络与标准测试床，培养全谱系量子科学与工程人才队伍。
 > - **覆盖对象** 高校物理与微电子院系、国家实验室科研团队、前沿量子软硬件初创企业及半导体产业链龙头。
 > - **干预措施** 依托能源部设立 5 大国家量子信息科学研究中心（National QIS Research Centers）；依托 [[National Science Foundation|NSF]] 设立量子跃迁挑战研究所（QLCI）与量子基础共性设施（Q-AMASE）；依托 NIST 组建量子经济发展联合会（Quantum Economic Development Consortium, [[Quasi-Experimental Designs|QED]]-C）以明确产业供应链标准。
@@ -94,7 +94,7 @@ updated: 2026-10-15
 > - **国家科学基金会（[[National Science Foundation|NSF]]）** 资助高校跨学科前沿探索、跨校研究中心、青年学者与[[Engineering Education|工程教育]]梯队建设。
 > - **国家标准与技术研究院（NIST）** 研制量子度量与精密基准，管理 [[Quasi-Experimental Designs|QED]]-C [[Industry Affiliate Program|产业联盟]]以培育本土量子元器件制造生态。
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **纵向传导与支持** 联邦各机构依据法案编制专项预算并定期汇报国会，[[Big Science|大科学]]中心采取 5 年期滚动支持并引入严格的中期国际同行评议。
 > - **横向跨部门协同** 与[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）、[[Materials Genome Initiative|材料基因组计划]]（MGI）共享微纳加工设备与材料计算平台，打通从微纳制造到量子比特流片的全链条。
 > - **动态反馈与调整** 针对量子硬件向实用工程转化面临的机台与材料瓶颈，动态增设极低温 CMOS 驱动电路与专用装配套件课题。
@@ -103,7 +103,7 @@ updated: 2026-10-15
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入指标** 联邦年度研发预算到位率、各大中心科研仪器共享机时比。
 > - **过程与依从性指标** 跨学科团队多校协同度、产学研联合技术专利申请量。
 > - **产出与结果指标** 量子逻辑比特保真度提升、量子纠缠距离突破、[[Quasi-Experimental Designs|QED]]-C [[Industry Affiliate Program|产业联盟]]会员数与硬科技企业孵化率。

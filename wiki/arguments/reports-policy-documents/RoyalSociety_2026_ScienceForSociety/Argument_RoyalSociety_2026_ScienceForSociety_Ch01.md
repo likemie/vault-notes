@@ -129,7 +129,7 @@ updated: 2026-10-17
 >   S2 --> S3
 > ```
 
-> [!example]- 图1-1：中小学科学教育与公民终身科学参与衔接[[Logic Model\|逻辑模型]]
+> [!example] 图1-1：中小学科学教育与公民终身科学参与衔接[[Logic Model\|逻辑模型]]
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig1-1_STEM_Education_Lifecycle.jpg)
 
 ---
@@ -138,7 +138,7 @@ updated: 2026-10-17
 
 科学教育不仅承担着为国家培养未来约 25% 科学、技术、工程与数学（Science, Technology, Engineering and Mathematics, [[STEM Education|STEM]]）专业技术人才的管道功能，更具有为 100% 的全体学生赋予日常生活理性决策、公民参与及就业所需的通用[[Scientific Literacy|科学素养]]的根本使命。（p. 30）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 在数字信息时代，[[Scientific Literacy\|科学素养]]的核心价值不在于孤立记忆预设的技术事实与学术定义，而在于掌握科学[[Knowledge Production\|知识生成]]的实证逻辑、批判性评估多源证据的[[Reliability\|可靠性]]与证据质量，并深刻理解科学知识的暂定性（Provisional Nature）与不确定性（Uncertainty）在推动科学探索中的积极功能。（p. 30）
 
 > [!chain-link] 40 年科学课程[[Paradigm\|范式]]演进的钟摆效应
@@ -170,7 +170,7 @@ updated: 2026-10-17
 
 数字革命与全球生态危机正深刻重塑全社会职业形态与公民决策环境，科学教育必须打破传统单科事实灌输的局限，实现向关键交叉素养的系统升级。（pp. 31–32）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 关键交叉素养（Cross-Cutting / Transversal Literacies）是指跨越单一学科边界、贯通数理逻辑与人文社会的通用认知与实践胜任力；必须将[[Data Literacy\|数据素养]]、[[AI Literacy\|人工智能素养]]与全校[[Sustainability Education\|可持续发展教育]]深度嵌入课程与教学体系，通过认知规制与循证测评赋能未来公民应对复杂现实挑战。（pp. 31–32）
 
 > [!concept-lens] 关键交叉素养的认识论定位
@@ -209,13 +209,13 @@ updated: 2026-10-17
 
 科学知识的实证属性决定了动手操作与真实探究是具身化理解科学本质的本体路径。（pp. 32–33）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 中学课堂动手实验课时的断崖式滑坡，正严重削弱科学教育的实践育人功能；同时，[[Science Capital\|科学资本]]的阶层不平等显著加剧了青少年科学抱负与认同感的分化。（pp. 32–33）
 
-> [!example]- 图1-2：英格兰 14–16 岁青少年课堂动手实验双周参与率滑坡趋势（2016–2023）
+> [!example] 图1-2：英格兰 14–16 岁青少年课堂动手实验双周参与率滑坡趋势（2016–2023）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig1-2_Practical_Work_Decline.jpg)
 
-> [!stat-cards] 动手实验课时滑坡纵向监测数据（英国科学教育追踪调查，Science Education Tracker, SET 2023）
+> [!stat-cards]- 动手实验课时滑坡纵向监测数据（英国科学教育追踪调查，Science Education Tracker, SET 2023）
 > - **44%（2016）→ 37%（2019）→ 26%（2023）** 英格兰 14–16 岁中学生中，至少每两周进行一次动手实验的比例在七年内近乎减半。（p. 33）
 
 > [!warrant]- 实验探究萎缩的三重系统成因与科学资本分化
@@ -245,7 +245,7 @@ updated: 2026-10-17
 
 英国现行后 16 岁课程体系在国际比较中暴露出显著的狭隘化弊端。（pp. 34–35）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 必须彻底打破 16 岁后仅选修 3 门 A-level 科目的狭窄分科传统，推行直至 18 岁的全员宽口径教育（Broad and Balanced Education），协同提升职业技术教育的社会认同与畅通通道。（pp. 34–35）
 
 > [!factors] 16 岁过早专门化分科的四大系统性弊端
@@ -275,7 +275,7 @@ updated: 2026-10-17
 
 优质科学教师是支撑全民科学素养与科技强国大厦的最核心决定力量。（pp. 35–37）
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 物理、数学与计算机等学科专业师资的长期匮乏构成结构性瓶颈；必须通过增强[[Teacher Professional Agency\|教师专业自主权]]（Professional Agency）与建立贯穿职业全生命周期的学科专项持续专业发展（Continuing Professional Development, CPD）体系予以破局。（pp. 35–37）
 
 > [!warrant]- 师资短缺现状与专业赋权机制
@@ -334,17 +334,17 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card]- [[Scientific Literacy\|科学素养]]的核心内涵
+> [!citation-card] [[Scientific Literacy\|科学素养]]的核心内涵
 > 具备科学素养不仅意味着掌握事实知识并理解支撑 [[STEM Education\|STEM]] 学科的基本原理；它更要求理解科学是如何运作的，以及如何评估证据及其来源。（p. 30）
 >
 > *Being scientifically literate goes beyond simply having factual knowledge and an understanding of the principles underpinning STEM subjects; it requires an understanding of how science is done and how to evaluate evidence and its sources.*
 
-> [!citation-card]- [[AI Literacy\|人工智能素养]]的放大原则
+> [!citation-card] [[AI Literacy\|人工智能素养]]的放大原则
 > 需要更高水平的 AI 素养来确保青年人能够对 AI 工具进行批判性思考并恰当使用它们：去放大人类的认知与[[Creativity\|创造力]]，而不是去替代或外包它。（p. 32）
 >
 > *Greater AI literacy will be required to ensure that young people are able to think critically about AI tools and use them appropriately: to amplify human cognition and creativity, not to replace or outsource it.*
 
-> [!citation-card]- [[Teacher Professional Agency\|教师专业自主权]]与系统变革
+> [!citation-card] [[Teacher Professional Agency\|教师专业自主权]]与系统变革
 > 在宽广的课程框架内，赋予教师在教学方式上更大的自主权和灵活性，能够为教师和学生双方创造一个更具激发性的环境……在经历了数十年的微调之后，现在是为学习者带来他们现在和未来所需大胆变革的时候了。（pp. 36, 37）
 >
 > *Within a broad curricular framework, enabling teachers with greater agency and flexibility, regarding how they Teach, can create an environment that is more stimulating for both teachers and students... After decades of minor tweaks, it is time for the bold changes learners need now and in the future.*

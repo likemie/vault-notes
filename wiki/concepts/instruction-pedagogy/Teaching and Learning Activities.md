@@ -106,7 +106,7 @@ updated: 2026-10-20
 >
 > [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 68, Table 1)]]
 
-> [!example]- Figure 1：学生取向、教学方法与投入水平
+> [!example] Figure 1：学生取向、教学方法与投入水平
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig1_Student_Orientation_Teaching_Method_Engagement.jpg)
 >
 > 图中横轴表示教学方法要求的学生活动从被动端移向主动端，纵轴表示[[Student Engagement\|学生投入]]的认知层次。活动要求提高后，原本主要记笔记和背诵的 Robert 也必须提问、推测、应用和检验方案，他与 Susan 的投入差距因而缩小。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 58–59, Figure 1)]]

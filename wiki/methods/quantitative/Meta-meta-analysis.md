@@ -160,7 +160,7 @@ updated: 2026-10-20
 > - **分析单位** 纳入的一阶元分析或其报告的独立一阶效应量集群（Clusters）。
 > - **输出形式** 经[[Small Study Effects\|小研究效应]]偏倚校正后的二阶总体效应量点估计值（$r$ 或 $g$）、95% [[Confidence Interval\|置信区间]]（CI）、95% [[Prediction Interval\|预测区间]]（PI）及多水平二阶[[Meta-regression\|元回归]]调节系数。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 二阶元分析在大样本水平上整合多重一阶元分析，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的效应量基准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–5)]]
 >
 > *Second-order meta-analyses synthesize the findings of previous meta-analyses to provide a higher-order summary of evidence... controlling for dependencies through cluster-robust variance estimation.*
@@ -398,7 +398,7 @@ updated: 2026-10-20
 > [!concept-lens] [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 的辩护与动态知识学习模型
 > [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015, pp. 27–33)]] 从支持者角度为二阶综合的合理性辩护：元-[[Meta-analysis\|元分析]]通过[[Effect Size\|效应量]]将不同的具体测量转换为“共同表达式”，使跨研究比较相对学习结果成为可能。但他同时指出，共同表达式的代价是结果高度抽象化，难以判断总体效应究竟来自表层记忆、深层理解还是概念性学习；因此主张引入[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]，按知识类型对学习结果进行多维细化分解。
 
-> [!boundary] [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 的比较推论层级与苹果橙子类比
+> [!boundary]- [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 的比较推论层级与苹果橙子类比
 > [[Argument_Higgins_2016_ROE\|Higgins (2016, pp. 40–41)]] 指出，**[[Comparative Meta-synthesis\|比较性元分析]]**（在单一元分析内比较多种干预）回答的是“X 是否比 Y 更有效”；而**比较性元综合**（跨元分析比较）面临更高层级的“苹果与橙子”难题。以 Graham et al. (2012) 写作教学元分析为例，虽然可以识别策略教学、自我调节、文本结构、[[Creativity\|创造力]]与[[Transcription in Qualitative Research\|转录]]等共同有益特征，但这类似于讨论水果的共同繁殖特征（种子），无法推断橙子特有的内部组织结构。
 
 > [!contrast-table] 一级与二级统计建模的双重不可行性困境（Double Infeasibility Dilemma）

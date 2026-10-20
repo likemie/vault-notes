@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **用途** 克服人类工作记忆局限与大段叙述文本的认知盲区，实现跨场所、跨主体或多维度的并置比较，为模式识别与因果推论提供直观操作台。
 > - **边界** 数据展示本身不是纯粹的最终报告图表包装，而是分析进行中的认知操作台；数据展示绝不能替代实质性分析与理论诠释，必须伴随多层次评注系统。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 审慎设计的数据展示不仅能承担[[Data Reduction\|数据缩减]]功能，更能使读者一眼看出受访者群体之间的相似与差异，成为质性推论生成与检验的基础操作台。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
 >
 > *Careful data display can address the twin issues of [[Qualitative Research]]: data reduction through careful data display and commentary, permitting conclusion drawing.*

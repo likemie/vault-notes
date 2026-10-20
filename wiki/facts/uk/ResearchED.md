@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2013 — 创立与思想奠定** 教师 [[Theory of Mind|ToM]] Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“[[Learning Styles|学习风格]]”等假科学，提倡以 [[Randomised Controlled Trials\|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践鸿沟的草根运动([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **2015 — 官方背书与政治绑定** ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定。
 > - **2016–至今 — 国际扩张与草根诉求共振** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支网络。其在英国的政策活动中，频繁将[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发布的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）引为权威。正如 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 所分析，该运动与[[Chartered College of Teaching\|英国特许教师学院]]（Chartered College of Teaching）的设立以及国际上“颠覆系统”（Flip the System）的呼声形成呼应，标志着全球范围内教师群体对自下而上掌握[[Research Utilization\|证据使用]]权的草根诉求不断扩散；但其在方法论层面仍频繁面临去情境化科学观的系统性批评。
@@ -82,14 +82,14 @@ updated: 2026-10-20
 
 ## 关键文件／声明
 
-> [!citation-card]- [[Theory of Mind|ToM]] Bennett 的“[[Scientific Method\|科学方法]]”描述
+> [!citation-card] [[Theory of Mind|ToM]] Bennett 的“[[Scientific Method\|科学方法]]”描述
 > “形成问题（如：声音在水中比在空气中传播更快吗？）→ 做出假设 → 做出预测 → 检验预测（收集证据看真实世界是否表现得与预测相同）→ 分析证据。”
 > 
 > > *“1. Form a question... 2. Form a [[Hypothesis]]... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 118]] (citing Bennett, 2013, p. 21) 
 > 
 > **[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 批评** 该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了因果机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
 
-> [!citation-card]- 科学修辞的政治使用
+> [!citation-card] 科学修辞的政治使用
 > “[[Learning Styles|学习风格]]已被彻底揭穿，你还不如去抽塔罗牌。”（Carl Hendrick 语） / “开放大学（Open University），理清你们的脑子。学习风格 = 彩虹独角兽。”（Tom Bennett 语）
 > 
 > > *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]] (citing Black, 2018)

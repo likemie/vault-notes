@@ -85,7 +85,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > 该项目预设：通过将 [[Education Endowment Foundation\|EEF]] 经过英国数千所学校检验的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及严谨[[Counterfactual\|反事实]]评估标准，依托跨国中介枢纽向海外体系授权并进行本土语境化调整，能够以极低边际成本加速全球学校教学效能提升，打破传统由大学主导的散漫科研[[Paradigm\|范式]]（Collins, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
 
-> [!policy-design]- 方案设计与实施矩阵
+> [!policy-design] 方案设计与实施矩阵
 > - **跨国中介孵化** 资助与扶持海外独立中介伙伴（如澳大利亚的[[Evidence for Learning\|证据学习中心]]与拉美的 [[SUMMA]]），协助其搭建本土工具包并开展实地试点。
 > - **全球证据库互联** 共享基于反事实因果标准的实证文献库，推动全球[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]数据库的统一标准化汇编。
 > - **跨国人员互派与董事兼职** 推动 EEF 核心领导层（如首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]）跨国指导或直接进驻海外新兴国家证据机构董事会（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。

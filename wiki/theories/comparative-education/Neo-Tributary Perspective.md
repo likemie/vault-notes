@@ -181,7 +181,7 @@ updated: 2026-10-20
 > > - **经典朝贡模型** 假定周边附庸国全盘接受儒家文化优越性并被自愿同化。
 > > - **新朝贡实证检验** 证明周边小国展现出高度的功利主义逻辑，参与高教合作主要为获取资金与技术赋能；中国亦采取务实的当代治理认同策略而非同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050, 1054)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — [[Falsification|证伪]]文化同化假设，指出新朝贡视角受限于华夏中心主义前提，需整合[[Tianxia Heuristic|天下观]]与[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]以解释当代跨国高教全貌。
 
 ---

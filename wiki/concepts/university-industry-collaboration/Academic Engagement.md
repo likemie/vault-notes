@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ---
 
-> [!warning]- 术语双重内涵辨析
+> [!warning] 术语双重内涵辨析
 > “Academic Engagement” 在跨学科教育与创新政策文献中存在两个源自不同理论脉络的核心内涵：
 > - **内涵一：学业投入（Student Academic Engagement）** 源自高等教育学生学习与发展研究，指学生向课程学习、师生互动与学术规范等教育性实践活动投入的时间、精力和注意力。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]
 > - **内涵二：产学学术参与（Academic Engagement with Industry）** 源自科技政策与[[University-Industry Collaboration|产学合作]]研究，指学术研究者（教师/科研团队）与企业展开的赞助研究、学术咨询、联合发表、学生联合培养及跨界人才流动等知识性合作。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]

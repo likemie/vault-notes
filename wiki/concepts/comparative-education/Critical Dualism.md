@@ -75,7 +75,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者克服将价值伦理还原为自然必然性的历史主义谬误，同时为评估教育改革政策假说的逻辑后果、剖析文化与制度脱节病理提供分析工具。
 > - **边界** 批判二元论不适用于追求超越具体时空的绝对因果铁律，也不赞同将客观制度运行完全等同于主观观念投射的纯粹唯心主义主张。
 
-> [!citation-card]- 关键表述：规范法则与权变社会学法则的本体论二元分立
+> [!citation-card] 关键表述：规范法则与权变社会学法则的本体论二元分立
 > 规范法则代表人类的信念，构成了学校运行所处的深层情境；社会学法则如同物理学定律一样是人为陈述，适用于学校系统内外的社会机构功能。社会学法则是假说性的，若要具备科学性便应当是可证伪的。社会学法则并非普遍有效，它们具有严格的权变性，取决于其所适用的具体情境条件。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981: 77–78; Mattheou, 2009, pp. 62–63)]]
 >
 > *Normative laws are man-made and can be accepted, rejected or changed by man... Representing man's beliefs, [they] are part of the context in which schools are run... On the other hand, sociological laws, like the laws of physics, are man-made statements that apply to the functioning of societal institutions... They are hypothetical, and if they are to be scientific, should be refutable. Finally, sociological laws are not universally valid: they are contingent, in the sense that, although they constitute universal or general statements they are dependent on the conditions under which they are to be applied.*

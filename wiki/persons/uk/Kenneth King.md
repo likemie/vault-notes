@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的跨国教育合作有赖于伙伴国在议程确立过程中的实质参与。[[South-South Cooperation|南南合作]]通过消除传统南北援助中固有的阶序性支配[[Discourse|话语]]，赋予了全球南方国家平等的制度协商身份，但在实际运行中仍高度依赖出资国的单向资源供给。跨国重大经济走廊建设必须深植于以[[People-to-People Connectivity|民心相通]]为核心的社会交往之中，通过产教协同与高层次治国理政经验互鉴建立起长效合作生态。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223, 228–232)]]
 
 > [!citation-card] 民心相通作为跨国经济合作的社会根基
@@ -126,7 +126,7 @@ updated: 2026-10-20
 > - **方法路径** 示范了将细致的政策文本逐字[[Discourse|话语]]比对同长期追踪的实地[[Fieldwork|田野调查]]深度结合的[[Paradigm|研究范式]]。
 > - **政策路径** 持续为[[UNESCO|联合国教科文组织]]（UNESCO）、[[International Labour Organization|国际劳工组织]]（ILO）等国际组织提供咨询，深刻启发了发展中国家职业技术教育与[[South-South Cooperation|南南合作]]政策的设计与评估。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，提出由留学生单向流动向实体机构共建与产教深度协同升级的论断。
 
 ---

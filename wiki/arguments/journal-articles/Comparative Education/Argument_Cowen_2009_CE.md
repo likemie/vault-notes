@@ -253,7 +253,7 @@ citation_aliases:
 > 3. **[[Shape-Shifting\|形变]]的多维度透视** 教育现象的跨境或随时间推移的流变并非简单的过渡，而是其核心配置在外部治理、内部权力结构、教学契约与科研取向等多个维度上发生深刻的形状改变（pp.320–322）。
 > 4. **转移、转译、转化框架** 提出以空间物理位移的转移、本土重释与再编码的转译、以及本土社会经济与政治权力长期压缩下的转化作为解释形变的连贯概念体系，并用此剖析了战后德日改革的分流（p.323）。
 
-> [!def]- 核心概念与实证数据
+> [!def] 核心概念与实证数据
 > - **3T 模型** 指转移、转译、转化构成的三阶段制度流变理论，其在[[Transitology\|转型学]]剧烈动荡期最易观察到时间压缩式的剧烈形变（p.323）。
 > - **[[New Professionalism\|新专业主义]]** 指新大学管理主义下，以课程手册、辅导备忘录存档以及有用研究成果为代表的、旨在强化[[External Auditor\|外部审计]]并可接受监控的管理主义教学契约关系（pp.321–322）。
 
@@ -261,17 +261,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 关于流动性最压缩的转型时刻
+> [!citation-card] 关于流动性最压缩的转型时刻
 > 转移、转译和转化在政治边界与政治愿景崩溃（以及快速重新定义）时，会显现出最为激烈（时间压缩）的形式。（p.323）
 >
 > *Transfer, translation and transformation can be seen in their most intense (time-compressed) form when there is a collapse (and rapid redefinition) of a political boundary and of political vision.*
 
-> [!citation-card]- 关于[[Discipline-Based Theory\|学科理论]]词汇的匮乏
+> [!citation-card] 关于[[Discipline-Based Theory\|学科理论]]词汇的匮乏
 > 缺乏一套连贯的概念工具，来扩展对于转移所持有的现有（且优秀的）研究工作。（p.324）
 >
 > *We lack a coherent conceptual apparatus which permits us to extend the existing (excellent) work on ‘transfer’.*
 
-> [!citation-card]- [[Geometries of Insertion\|嵌入几何学]]的伦理诘问
+> [!citation-card] [[Geometries of Insertion\|嵌入几何学]]的伦理诘问
 > 如果能重构情境并将其驯服于转移、转译、转化和[[Shape-Shifting\|形变]]理论之中，将获得一套用于分析将一处所造的思想与实践嵌入另一处的“嵌入几何学”。然而，它的政治、伦理与后果究竟是什么？（p.324）
 >
 > *With ‘context’ rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a ‘geometry of insertion’ for ideas and practices which – although they were created in one place – could be inserted in another. What are the politics, ethics, and consequences of that?*

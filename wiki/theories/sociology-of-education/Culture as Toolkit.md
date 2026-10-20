@@ -53,7 +53,7 @@ updated: 2026-10-16
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > 文化工具箱理论（Culture as Toolkit）由美国社会学家[[Ann Swidler]]（1986）在《美国社会学评论》（*ASR*）上提出，主张文化不仅是定义价值观和行动目的的意义系统，更是为行动者提供建构行动策略所需工具的技能库（repertoire）或工具箱（tool-kit）。人在具体社会情境下无需深思熟虑即可知道如何恰当地行事，因为他们已通过社会化过程内化了一组惯常使用的文化图式（schemas）。
 
 > [!quote]
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 发展脉络
 
-> [!note]-
+> [!note]
 > - **1986 [[Paradigm\|范式]]挑战** Swidler 在 *ASR* 发表 Culture in Action: Symbols and Strategies，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Swidler, 1986）。
 > - **1992 补充论证** Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和[[External Validity\|可推广性]]，强化了工具箱范式的理论基础（，引 Sewell, 1992）。
 > - **2009 Vaisey 调和** Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（，引 Vaisey, 2009）。

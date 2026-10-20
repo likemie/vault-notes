@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 受试者个体得分、题目维度指标、或被多个独立机构共同评估的具名干预项目。
 > - **输出形式** 相关系数矩阵、效度对角线判定比值、结构方程模型（[[Confirmatory Factor Analysis\|CFA]]）特质与方法因子载荷、以及收敛/对立冲突率统计。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 构念效度不能依赖单一方法证明。多特质-多方法矩阵要求：不同方法测量同一特质时相关必须显著且高（收敛效度）；相似方法测量不同特质、或不同方法测量不同特质时相关必须显著低于效度对角线（判别效度）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 176–178)]]
 >
 > *Convergent validation is confirmed by the degree of agreement between two attempts to measure the same trait through maximally different methods. Discriminant validation is confirmed when correlations between different traits measured by the same or different methods are significantly lower than validity correlations. (Campbell & Fiske, 1959)*

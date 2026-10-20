@@ -64,7 +64,7 @@ updated: 2026-10-15
 > - **核心角色** 现代非线性思维与[[Creativity\|创造性]]心智训练的奠基人，创造了著名的词汇“[[Lateral Thinking\|侧向思维]]（Lateral Thinking）”并被《牛津英语词典》正式收录。
 > - **代表贡献** 创立[[Lateral Thinking\|侧向思维]]理论体系、六顶思考帽（Six Thinking Hats）决策模型、CoRT（Cognitive Research Trust）全球思维教学课程体系、自组织神经心智模型。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 思维训练以侧向思维谜题、[[Mind Mapping\|思维导图]]与[[Brainstorming\|头脑风暴]]为核心，通过挑战认知偏见与经验固着激发了高阶[[Cognitive Flexibility\|认知灵活性]]；其实证促学效能（$g = 0.762$）在全域干预中名列前茅。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 >
 > 德·博诺的六顶思考帽与水平思考系统为创造性认知加工网络提供了强有力的[[Metacognition\|元认知]]调控支架，有效平衡了发散跳跃与理性评价。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 391)]]
@@ -100,10 +100,10 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 大脑在生物学本质上是一个为了节省能量而自发建立固定经验模式的“自组织模式形成网络”；逻辑思维（垂直思维）的局限在于它只能沿着既有神经凹槽把旧洞越挖越深，而无法在全新位置开辟新洞。[[Lateral Thinking\|侧向思维]]（水平思考）并不排斥逻辑，而是负责“在逻辑接管之前重新洗牌并开辟全新可能性”；通过引入“激发算子（PO）”、随机输入与反转假设，我们能够人为制造认知失谐、震碎僵化定势，实现[[Creativity\|创造性]]顿悟与高水平[[Cognitive Flexibility\|心智灵活性]]。de Bono (1969, 1970); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 传统的逻辑思维关注‘是什么’以及事物‘对不对’，而侧向思维关注‘可能是什么’以及我们‘如何运动’。如果你只做正确的事，你永远只能停留在原地；为了发现新大陆，你必须先敢于在错误的跳板上短暂停留。de Bono (1970, pp. 2–8)
 
 ---

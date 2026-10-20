@@ -71,7 +71,7 @@ updated: 2026-10-16
 > [!claim] 从态度改变到行动改变
 > 民族与种族偏见、被动旁观以及体能、进取心、想象力、自律和同情心的衰退，不能只靠课堂说理纠正。不同文化的青年应共同参加需要技能、具有挑战并服务他人的真实活动，同时接受严格学习、团队领导和个人兴趣发展，使态度改变落实为行为改变。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 2–3)]]
 
-> [!citation-card]- 行动原则
+> [!citation-card] 行动原则
 > 相信一种理念，就不能只思考、谈论或写作，而必须行动。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 >
 > *If you believe in something, you must not just think or talk or write, but must act.*

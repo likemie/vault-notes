@@ -59,7 +59,7 @@ updated: 2026-10-17
 
 ## 机构定位与宗旨
 
-> [!claim] 机构定位
+> [!claim|lead] 机构定位
 > [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“教育文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱。该委员会通过统筹全国[[Comprehensive Education|综合教育]]规划纲领与发起国家级创新试点工程，充当了联邦财政资助向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!institution-profile] 机构档案
@@ -74,7 +74,7 @@ updated: 2026-10-17
 > [!claim] 权力制衡与共识决策
 > [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|BLK]] 的决策机制充分体现了联邦与各州之间的复杂博弈。委员会由联邦部委代表（联邦教育与科研部 [[Federal Ministry of Education and Research|BMBF]]、联邦财政部）与 16 个联邦州的文教部长及财政部长共同组成，实行“双轨制平等表决权”：联邦拥有一半投票权重，各州共享另一半投票权重。重大决议与资助规划必须达成四分之三绝对多数同意方能通过，确立了以深度协商和跨党派利益交换为特征的协同治理逻辑。
 
-> [!governance-matrix]- 决策与咨询机构设置
+> [!governance-matrix] 决策与咨询机构设置
 > - **部长级全会（Plenum）** 由联邦教研部部长与各州文教部长、财政部长组成最高决策层，定期召开会议审定资助总额与重大项目立项。
 > - **教育规划常设委员会（Ausschuss Bildungsplanung）** 负责具体草拟学制改革方案、学段衔接政策与模型试验指南。
 > - **科研资助常设委员会（Ausschuss Forschungsförderung）** 负责核算非大学科研机构的联邦-州预算配额与联合科研专项资助。

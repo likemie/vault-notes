@@ -202,7 +202,7 @@ updated: 2026-10-20
 
 相关研究深入梳理了曼在比较教育与思想史维度的学术贡献：
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 阐释曼与斯托、巴纳德构成的美洲[[Educational Meliorism\|改良主义]]谱系，系统辨析欧陆直接制度移植与北美政治合法化论证的机制分野。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立曼在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲旗手坐标，揭示其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说州立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将曼 1843 年赴欧考察界定为 19 世纪由主权国家特派官员垄断的危机驱动型借用典范，反衬当代多标度网络借用格局（pp. 341–344）。
@@ -290,7 +290,7 @@ updated: 2026-10-20
 
 相关文献系统记录了学界对曼教育实践的批评反思：
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 记录了保守校长联盟对曼浮光掠影考察外国的猛烈抨击，以及[[Positivism\|实证主义]]学派对其文献缺乏严格[[Variable\|变量]]因果解释的学术评价。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 驳斥战[[Postpositivism|后实证主义]]派将 19 世纪曼等人的跨大西洋考察贬为粗糙游记的断裂论断，确立其作为[[Policy Borrowing|政策借用]]与[[Influences Across Cultures|跨文化影响]]实证传统的基石地位（pp. 124–126）。
 

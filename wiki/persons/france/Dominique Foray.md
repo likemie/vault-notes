@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **核心角色** 知识经济学（Economics of Knowledge）与“学习型经济”（[[Learning Economy]]）的理论开创者之一。在教育政策社会学中，其关于编码知识贬值与默会技能稀缺性的论断，被经合组织采纳为重构全球[[Lifelong Learning|终身学习]]议程与职业技能转向的核心经济学支柱。
 > - **代表贡献** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）共同提出“学习型经济”框架，系统阐明[[Tacit Knowledge|默会知识]]在数字经济中的战略价值，奠定 OECD 报告《[[Knowledge-Based Economy|知识经济]]》（1996）的理论根基；开创[[EU|欧盟]]“智能专门化”（Smart Specialisation）区域创新战略。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，多米尼克·福雷与伦德瓦尔（Foray & Lundvall, 1996）等新增长理论学者提出，一个国家利用知识经济红利的能力，关键取决于其转变为“学习型经济”的速度。学习不仅包含利用新技术获取信息的能力，更核心的是培育终身创造新知识的默会技能；经合组织正是以此为依据，推动教育全面倒向面向劳动力市场的实用操作能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
 > *Against these assumptions, it is suggested by new growth theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 在数字信息时代，信息与通信技术的普及使得形式化、符号化的编码知识（Codified Knowledge）能够以接近于零的边际成本进行瞬间全球传输与复制，其市场交换价值随之迅速稀释；与此形成鲜明对照的是，深植于行动主体身心经验之中、无法被完全文字化或算法化的[[Tacit Knowledge|默会知识]]（Tacit Knowledge）与程序性实践技能（[[Procedural Knowledge|knowing how]]），反而成为决定创新效率与经济增值的唯一稀缺要素。因此，现代国家与教育系统的首要任务不再是灌输静态的学科事实，而是将整个社会重塑为持续[[Lifelong Learning|终身学习]]、反思与动态重组默会能力的“学习型经济”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!citation-card] 福雷论编码知识的廉价化与默会能力的绝对稀缺性
@@ -134,7 +134,7 @@ updated: 2026-10-20
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被[[EU|欧盟]]委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
 > - **跨国／跨领域传播** 思想跨越产业经济学、高等教育研究与区域地理学，成为连接经济增长理论与教育改革政策的跨学科桥梁。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析福雷与伦德瓦尔的“学习型经济”框架如何被经合组织吸收并转化为重塑全球教育目标的政策[[Social Imaginary|社会想象]]。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 援引福雷对知识驱动型经济转型的论述，分析大学与产业合作模式的历史演进。
 

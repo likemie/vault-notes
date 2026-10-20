@@ -94,7 +94,7 @@ updated: 2026-10-20
 >   2. **实证主义两大假设的批判** 提炼出实证主义社会学的方法论统一与产出同构两大预设，揭示其实证自然主义对人类自我阐释能力的系统遮蔽；
 >   3. **结构化理论与结构二重性** 提出社会结构既是人类行动的媒介又是行动的产物，超越主观[[Voluntarism|唯意志论]]与客观结构[[Determinism|决定论]]的传统分裂，深刻启发了课堂微观互动、[[Reflective Structuration|反思性结构化]]与宏观权力再生产的研究。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 由于所获得的数据都包裹在社会事件之中，报告涉及一个双重诠释过程：研究者诠释参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众（Giddens, 1976）。这要求质性报告努力捕捉不同参与者对情境的不同定义，并有机结合主位（emic）与客位（etic）分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 >
 > *Second, since the data obtained are all couched in 'social events', reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 社会科学面对的决非外在于人类意志的机械客体，而是一个由具备反思意识、语言交往与自我监控能力的行动者共同编织的前诠释世界。自然科学处理的是无意识的主体-客体关系，社会科学则深嵌于交互理解的主体-主体关系之中；因此，社会理论与[[Qualitative Research|质性研究]]必然陷入[[Double Hermeneutic|双重诠释]]——研究者的[[Construct|理论构念]]叠合在参与者对生活世界的常识诠释之上，并且社会学理论会反向渗透回日常实践之中重构现实。在[[Ontology|本体论]]层面，社会结构并非外在压迫性的实体铁笼，而是行动者在日常实践中运用规则与资源的结构二重性体现：结构既是行动的媒介，也是行动的产物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 
 > [!citation-card] [[Positivism|实证主义]]社会学的两大核心假定
@@ -158,7 +158,7 @@ updated: 2026-10-20
 > - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与[[Competitiveness|国家竞争力]]的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
 > - **跨国／跨领域传播** 晚期现代性的脱域机制、[[Time-Space Compression|时空压缩]]与反思性现代化概念被广泛引入比较教育学，深刻影响了关于全球教育[[Policy Borrowing|政策借用]]、跨国评估体系与[[Knowledge-Based Economy|知识经济]]转型的分析[[Paradigm|范式]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022, pp. 893–894)]] — 将吉登斯结构化理论与结构二重性创造性迁移至小学科学探究课堂，系统建构[[Reflective Structuration|反思性结构化]]理论与四维共享探究架构。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯批判[[Positivism|实证主义]]的方法论统一假定；[[Jürgen Habermas|哈贝马斯]]与双重诠释见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Ch. 2]]，[[Qualitative Validity|质性效度]]悖论见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]，质性写作见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 

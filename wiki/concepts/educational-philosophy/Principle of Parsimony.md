@@ -67,7 +67,7 @@ updated: 2026-10-20
 >
 > *The third assumption underlying the work of the scientist is the principle of parsimony. The basic idea is that phenomena should be explained in the most economical way possible, as Einstein was known to remark – one should make matters as simple as possible, but no simpler! The first historical statement of the principle was by William of Occam when he said that explanatory principles (entities) should not be needlessly multiplied (‘Occam’s razor’). It may, of course, be interpreted in various ways: that it is preferable to [[Accounts\|account]] for a phenomenon by two concepts rather than three; that a simple theory is to be preferred to a complex one.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 还原论（Reductionism） — 简约原则强调在不牺牲解释效力的前提下追求概念经济性；还原论则是将高阶复杂社会现实强行切片降维为孤立低阶物理或生物部件的[[Ontology\|本体论]]偏执。
 > - 不等于 简单化（Simplism） — 爱因斯坦明确划定“不能过度简化（no simpler）”的底线，过度简化会导致关键解释变量的遗漏与系统扭曲。
 > - 不等于 经验实在论 — 简约原则是指导科学理论评价的方法论准则，本身并不预设外部实在的终极本质形态。

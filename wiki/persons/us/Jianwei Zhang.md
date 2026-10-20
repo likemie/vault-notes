@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 张建伟主张，真实的科学教育必须将学习者培育为知识创造共同体中的能动主体。探究教学不能依赖僵化预设的固定活动流程，也不能滑向无序的自由放任，而必须依托[[Reflective Structuration|反思性结构化]]机制：学生在教师支持下，依据持续推进的探究进展与出现的认知缺口，动态协商并重塑集体问题领域（Wondering Areas）与弹性合作构型，使结构本身成为承载并驱动[[Epistemic Agency|认识能动性]]不断深化的媒介。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–894)]]
 
 > [!citation-card] 反思性结构化作为认识能动性的社会突现机制
@@ -124,7 +124,7 @@ updated: 2026-10-20
 > - **方法路径** 创立的探究线索分析法（Inquiry Threads Analysis）与整合[[Interactional Ethnography|互动民族志]]的长周期课堂事件追踪[[Paradigm|范式]]，成为国际 CSCL [[Domain Analysis|领域分析]]协作认知进展的标准工具之一。
 > - **教学实践路径** 其基于原则的[[Design-Based Research|基于设计的研究]]成果直接指导了美国、新加坡、中国香港及中国大陆多所创新实验学校的科学教育改革与[[Theory of Knowledge|知识论]]坛课堂实践。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 历时 7 个月实证追踪五年级人体系统探究课堂，系统阐明[[Reflective Structuration|反思性结构化]]如何赋能学生共建意向领域与弹性小组并产出深层[[Scientific Explanation|科学解释]]。
 
 ---

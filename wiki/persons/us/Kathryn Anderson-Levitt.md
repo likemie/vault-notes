@@ -61,7 +61,7 @@ updated: 2026-10-16
 > - **核心角色** 教育人类学跨国比较[[Paradigm|范式]]的倡导者；《人类学与教育季刊》（*Anthropology & Education Quarterly*）前主编；[[Comparative and International Education Society|比较与国际教育学会]]（CIES）杰出领袖。
 > - **代表贡献** 主编里程碑式专著《本土意义，全球学校教育：人类学与[[World Society Theory|世界文化理论]]》（*Local Meanings, Global Schooling*, 2003）；主持美国、法国与几内亚小学语文阅读教学的跨国多地点[[Ethnography|民族志]]比较研究；在比较教育学界确立了兼顾宏观世界文化与微观教室实践的“双重视野”（Double Vision）分析范式。
 
-> [!citation-card]- [[Robert Arnove|阿诺夫]]论安德森-莱维特的双重视野贡献
+> [!citation-card] [[Robert Arnove|阿诺夫]]论安德森-莱维特的双重视野贡献
 > 安德森-莱维特（2003）主编的文集《本土意义，全球学校教育》阐明了教育人类学研究如何加深我们对全球教育力量在国家和本土层面如何展开的理解。通过对几内亚、法国和美国小学阅读教学的跨国民族志考察，她展示出各国教师面对不同的物质与制度现实——几内亚的大[[Class Size|班额]]与教材匮乏、法国的国家共和传统、美国的[[High-Stakes Testing|高利害测验]]问责——对全球通行的儿童中心教学规范做出了极具差异化的本土再创造，从而确立了宏观与微观兼顾的“双重视野”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 >
 > *Anderson-Levitt's edited collection illustrates how anthropological studies of education may deepen our understanding of how global forces are played out at the national and local levels... She proposes a "double vision," one that recognizes the play of global forces within the daily realities of school and classroom life.*
@@ -94,7 +94,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球化在教育中的发生绝非自上而下的同质化复制，而是一个不断被地方文化、国家传统与微观行动者“翻译”与“中介”的复杂过程。[[World Society Theory|世界文化理论]]所观察到的制度趋同，往往停留在国家政策文本与课程大纲的形式表象；一旦深入到真实的教室门后，教师受制于具体的[[Class Size|班额]]规模、物质资源与文化信念，始终在主动调整、抵制并重塑全球教育规范。研究者必须同时保持宏观跨国透镜与微观田野透镜的“双重视野”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
 > [!citation-card] 安德森-莱维特论双重视野分析[[Paradigm|范式]]

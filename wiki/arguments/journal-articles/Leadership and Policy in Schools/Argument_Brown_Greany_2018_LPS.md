@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　政策转向确立了证据使用的核心地位，但高压问责框架构成了深层制度制约
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 自 2010 年起，英格兰基础教育政策全面转向[[Self-Improving School System\|自我改进学校系统]]，将跨校互学与从研究中学习确立为系统运行的基础准则；然而，同期延续的高压外部问责框架并未同步转型，其狭隘的量化指标持续与[[Evidence-Informed Practice\|证据知情实践]]争夺学校有限的时间、精力与注意力，构成制约学校开展深层探究的根本制度矛盾。（pp.120–122）
 
 #### 1. 新工党供给主导模式的局限推动了联合政府向自我改进系统的转型
@@ -268,7 +268,7 @@ updated: 2026-10-20
 
 ### 论证步骤二　构建证据知情实践的四因素分析框架并确立操作化边界
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 促进学校常态化证据知情实践必须同时依赖四类互为支撑的核心条件：教师参与研究的能力素养、支持研究使用的学校文化常规、作为有效学习环境一部分的共同体探究以及支撑性的结构系统与资源。四因素框架将原本分散的规范讨论转化为可测量的理论[[Construct\|构念]]，确立了实证调查的维度基础。（pp.122–126）
 
 #### 1. 研究参与能力与结构系统资源划定了学校研究实践的可能边界
@@ -307,7 +307,7 @@ updated: 2026-10-20
 > | **共同体的反思性专业探究** | 持续开展反思性[[Dialogue in Education\|对话]]、聚焦严肃教学难题、积极寻求新知识，并通过集体互动将默会经验显性化为共享方案。 | Stoll 等（2006）; Louis, Kruse, & Bryk（1995） |
 > | **基于专业自主的深度参与** | 实践者对研究的有意义参与建立在专业自信与内在学习需求之上，而非对外部行政指令的机械执行。 | Brown（2014）; Datnow and Hubbard（2015） |
 
-> [!boundary] 四[[Factorial Interpretive Framework\|因素分析框架]]的方法论边界与适用范围
+> [!boundary]- 四[[Factorial Interpretive Framework\|因素分析框架]]的方法论边界与适用范围
 > - **框架的理论溯源** 本框架由规范性与实证性[[Literature Review\|文献综述]]提炼建构，并非基于[[Exploratory Factor Analysis\|探索性因子分析]]归纳得出的潜[[Variable\|变量]]测量模型，各维度间的因果结构关系仍有待进一步实证检验。（pp.126–127）
 > - **诊断性横向比较功能** 框架的核心功能是为基线测度提供全面平衡的分析透镜，用于诊断学校在不同要素上的准备短板，不能用于测算单一维度的孤立因果效应。（pp.126–127, 132–133）
 > - **横断面描述边界** 所依据的调查数据为干预启动前的横断面快照，无法据此开展干预效果的纵向[[Causality\|因果推断]]。（pp.128, 130）
@@ -316,7 +316,7 @@ updated: 2026-10-20
 
 ### 论证步骤三　基线实证数据揭示英格兰小学的结构性失衡与三处机制断裂
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 对 696 名教育实践者的基线实证分析表明，学校在学术研究价值认同与教师间分享意愿上得分极高，但在干预成效评价、底层教学假设反思以及正式信息分享论坛三处存在显著机制短板。这种“高认同与低机制”的反差表明学校极易陷入跳过问题诊断的[[Activity Traps\|活动陷阱]]，探究循环在核心环节发生断裂。（pp.129–132）
 
 #### 1. 教师高度认可研究价值，但学校普遍匮乏成效评价的正式流程
@@ -395,7 +395,7 @@ updated: 2026-10-20
 
 ### 论证步骤四　确立学校领导力干预的优先次序与宏观督导制度的改革路径
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 基于基线诊断揭示的三大机制断裂，学校领导者必须将有限的领导力资源精准配置于方向把关、成因诊断、效果评价与正式共同体建设四维路径；与此同时，英格兰教育标准局必须同步修改督导评估框架，将证据知情改进确立为法定考核要求，为自我改进系统提供稳定的外部制度根基。（pp.132–133）
 
 为打破活动陷阱并弥合探究断裂，本研究从组织微观管理与宏观政策两个层级提出了联动行动方案。
@@ -444,22 +444,22 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- [[Knowledge Mobilisation\|知识动员]]中正式与非正式网络的作用机制
+> [!citation-card] [[Knowledge Mobilisation\|知识动员]]中正式与非正式网络的作用机制
 > 知识动员唯有在[[Professional Learning Community\|专业学习共同体]]实现全员包容性参与时才能达到最佳效果；然而，[[School Leadership\|学校领导]]者往往视全员参与为低效之举，常将共同体降格为少数人的任务小组。在非正式传播中，信息唯有来自可信赖的同伴时才会被真正相信并转化为行动。因此，学校领导者必须深刻理解校内非正式社会网络的运行规律，方能有效促成优质实践在全校的扩散与采纳。
 >
 > *“The most effective KM occurs when the PLC is fully inclusive, meaning all staff should be engaged in quality learning conversations... Nonetheless, full participation of staff in PLC activity is not always perceived by school leaders as either an efficient or a practical use of resources and instead, PLCs can often be more akin to ‘task forces’... information is believed and acted on if the source is a trusted peer.”*（p.125）
 
-> [!citation-card]- 陷入[[Activity Traps\|活动陷阱]]的内在成因与系统性危害
+> [!citation-card] 陷入[[Activity Traps\|活动陷阱]]的内在成因与系统性危害
 > 若教育实践者未能有意义地参与专业学习共同体的探究活动，而是直接匆忙跳向所谓的解决方案而非深入探索问题成因，便会深陷活动陷阱。其破坏性后果包括：未能确立针对具体教学情境的根本问题、未能穷尽致因与多元可选方案、因某种做法已被视为理所当然而机械重复无效惯例，以及新方案缺乏深层行动理论的坚实支撑，除带来短期表象变化外难以产生可持续的实质影响。
 >
 > *“Activity traps can occur when practitioners do not meaningfully engage in PLC activity and immediately move to solutions rather than exploring causes. The result is that: the underlying problem within the practice/situation is not established; not all causes or potential solutions are explored; ineffective practices are repeated because they are already ‘known’; and initiatives lack a theory of action meaning they rarely lead to anything other than short-term impact.”*（pp.130–131）
 
-> [!citation-card]- 高压问责体制对学校[[Research Utilization\|证据使用]]行为的扭曲
+> [!citation-card] 高压问责体制对学校[[Research Utilization\|证据使用]]行为的扭曲
 > 严苛的高压绩效问责体制促使学校将精力压倒性地集中于督导与排名所看重的总结性测试指标上，迫使学校领导者去揣摩督导机构的偏好，而非沉下心查阅严谨的学术证据基础。这种制度环境从根本上不利于[[Evidence-Informed Practice\|证据知情实践]]的健康发展，除非该实践恰好契合了问责框架所考核的狭隘指标。
 >
 > *“...such systems are arguably not conducive to the development of evidence-informed practice except insofar as this is focused on measures that are valued by the accountability framework.”*（pp.121–122）
 
-> [!citation-card]- [[Self-Improving School System\|自我改进学校系统]]的核心假设前提
+> [!citation-card] [[Self-Improving School System\|自我改进学校系统]]的核心假设前提
 > [[The Importance of Teaching\|《教学的重要性》]]白皮书明确指出：试图通过自上而下的行政手段强行确保对中央政府指令的机械服从，不仅无法带来真正的卓越，反而会削弱学校系统实现自我改进的内生能力。这一判断构成了将研究使用确立为系统自我改进根本驱动力的政策基石。
 >
 > *“The attempt to secure automatic [[Strategic Compliance|compliance]] with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p.13，引于 p.120）

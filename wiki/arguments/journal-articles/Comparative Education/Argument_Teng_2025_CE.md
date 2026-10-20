@@ -176,7 +176,7 @@ source_language: en
 
 ### 论证步骤一：撤点并校与城镇扩张的政策推拉机制
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 农村[[Peidu\|陪读]]现象并非完全是市场的自发选择，而是地方政府实施以学校集中化为模板的城镇化政策推拉运动所刻意制造的制度性结果。(pp.303–304)
 
 > [!chain-link] 证据到判断
@@ -215,7 +215,7 @@ source_language: en
 
 ### 论证步骤二：经济资本是决定农村家庭能否进城陪读的刚性生活门槛
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 虽然政府免除了择校费和户籍要求，但县城高额的生活与住房成本构成了看不见的市场化筛选机制，剥夺了最贫困的农村底层家庭进城择校的可能。(p.308)
 
 > [!ref-table]- 表 5：湖北 G 县随迁陪读与日常生活支出对照表 (2018/2023)
@@ -237,7 +237,7 @@ source_language: en
 
 ### 论证步骤三：社会资本是决定择校分流的非正式关系网络
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 在公共教育服务存在显著梯度（声誉极高的重点小学与普通小学并存）且入学缺乏公开透明程序的背景下，进入哪所具体的城镇学校完全取决于家庭社会资本即非正式熟人网络的权力层级。(pp.308–309)
 
 > [!chain-link] 证据到判断
@@ -262,7 +262,7 @@ source_language: en
 
 ### 论证步骤四：文化资本在县域入学中的弱化与折损
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 与西方发达国家中高学历阶层通过微妙的面试技巧、复杂的跨校信息甄别及独特的文化品位来建立择校优势不同，中国县域环境下的[[Cultural Capital\|文化资本]]未能成为独立的技术选拔门槛，而是在很大程度上向社会关系网络的运作妥协与退让。(p.310)
 
 > [!chain-link] 证据到判断
@@ -274,7 +274,7 @@ source_language: en
 
 ### 论证步骤五：家庭社会经济地位阶梯分层模型的量化证实
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 量化统计与回归模型证实，择校迁移的终点并未走向公平，而是将不同家庭的资本占有量精确地映射为一条社会经济地位细分的垂直阶梯。(pp.309–310)
 
 > [!chain-link] 证据到判断
@@ -307,7 +307,7 @@ source_language: en
 > 
 > *注：\*p < 0.05, \*\*p < 0.01, \*\*\*p < 0.001。单元格内数据格式为：回归系数 Coef. (即 β) (标准误 SE) / 优势比 Exp(B)。“社会关系”指家庭是否有朋友或亲戚在县城或乡镇的公共部门/政府机关任职。表 4 数据补全了原论文中被省略的父母职业地位、子女女性性别、单亲家庭三个重要自变量及标准误。*
 >
-> > [!critique-method]- 统计一致性校验：回归系数（β）与优势比（Exp(B)）的数学冲突
+> > [!critique-method] 统计一致性校验：回归系数（β）与优势比（Exp(B)）的数学冲突
 > > - **回归系数与优势比的函数关系（Mathematical relationship）**
 > >   在二元 Logistic 回归中，变量系数 $\beta$ 与优势比 $\text{Exp}(B)$（Odds Ratio，简写为 OR，也称发生比之比）之间呈指数变换关系：$\text{Exp}(B) = e^{\beta}$。
 > >   - **正向预测** 当 $\beta > 0$ 时，$\text{Exp}(B) > 1$，增加目标事件的发生比。如“社会关系”的 $\text{Exp}(B) = 3.380$，意味着有关系的家庭选择陪读的发生比是无关系家庭的 3.380 倍。
@@ -318,7 +318,7 @@ source_language: en
 > >   - **反推矛盾** 若优势比确为 0.214，则其回归系数应为 $\ln(0.214) \approx -1.542$。
 > >   此冲突为原文献排版笔误。为保证模型复现与算例计算的严谨性，本笔记的概率预测算例对这两种可能的数据路径均予以计算和展示。
 >
-> > [!exegesis] 回归模型的构建思路与实证解读
+> > [!exegesis]- 回归模型的构建思路与实证解读
 > > **作者的多阶段层级化决策与分流建模思路** 作者将择校迁移（陪读）视为一个多阶段、层级化的决策与分流漏斗，通过构建三个递进的二元 Logistic 回归模型，逐层剥离家庭资本对教育安置结果的预测力：
 > > - **Model 1（是否陪读的准入筛选）** 比较“随迁陪读”与“留在村庄”家庭（$n = 814$），识别何种家庭资本能突破第一道生活门槛，离开村小。
 > > - **Model 2（空间区位的二级分流）** 在陪读家庭内部比较“县城陪读”与“乡镇陪读”（$n = 494$），探讨促使家庭进一步走向更高行政层级和物理空间距离的拉动力。
@@ -428,7 +428,7 @@ source_language: en
 
 ### 论证步骤六：陪读对农村薄弱学校产生的毁灭性系统危机
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 择校迁移的狂潮掏空了农村的优质教育资源，导致留在村庄的薄弱学校在经费、师资、课堂生态与社区信任等多个维度陷入恶性循环的衰败深渊。(pp.311–312)
 
 > [!chain-link] 证据到判断
@@ -469,22 +469,22 @@ source_language: en
 
 ## 关键引用
 
-> [!citation-card]- [[School Choice\|择校]]的分层本质
+> [!citation-card] [[School Choice\|择校]]的分层本质
 > 中国农村的[[Peidu\|陪读]]这种择校方式，也是一种沿着阶级界限的分层实践，与国际语境下的择校类似。(p.313)
 >
 > *Peidu, the school choice in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.*
 
-> [!citation-card]- 歧视性质的[[Institutional Displacement|制度置换]]
+> [!citation-card] 歧视性质的[[Institutional Displacement|制度置换]]
 > 基于户口的行政歧视正日益且隐蔽地被基于家庭[[Socioeconomic Status|社会经济地位]]的市场歧视所取代。(p.313)
 >
 > *The administrative discrimination based on [[Hukou System\|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.*
 
-> [!citation-card]- 村庄学校受到的附带损害
+> [!citation-card] 村庄学校受到的附带损害
 > 农村儿童的流失使村级学校面临资金减少、教师流失加速、[[Academic Achievement\|学业表现]]恶化以及最终学校关闭风险增加的困境。(pp.313–314)
 >
 > *The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.*
 
-> [!citation-card]- 择校平等的伪善承诺
+> [!citation-card] 择校平等的伪善承诺
 > 学校之间的差距植根于学校招生过程中所发生的社会分层。将处于弱势阶层顶端的孩子和或其家庭转移到更好的学校，并不会减少精英学校的特权，也不会提高挣扎中薄弱学校的质量，相反，它通过剥夺后者的资本，加剧了在教育中基于阶级的分层。学校选择，无论是由市场化还是城市化驱动的择校，在涉及教育不平等时，都仅仅触及了表面问题。(p.314)
 >
 > *The disparities among schools are rooted in the social stratification of school enrolment. Transferring the upper echelon of disadvantaged children and/or families to better schools does not reduce the privileges of elite schools or enhance the struggling ones; instead, it reinforces class-based stratification in education. School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality.*

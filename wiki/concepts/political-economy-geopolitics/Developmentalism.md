@@ -216,7 +216,7 @@ updated: 2026-10-20
 > > - **[[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]** 指出战后国际机构的技术官僚发展主义将复杂的本土教育生态简化为可标准化的课程与规划技术，淡化了地方特质。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > > - **[[Argument_Rizvi_2022_Springer|Rizvi (2022)]]** 批判发展主义[[Paradigm|范式]]内含的单线历史进步论，容易导致非西方本土认识论被判定为落后并遭边缘化。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 援引 Escobar 批判发展主义话语对全球南方的赤字化建构与西方中心主义知识垄断。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 解构[[Cognitive Capitalism|认知资本主义]]下发展主义意识形态异化为对[[Lifelong Learning|终身学习]]个体的生存强制。
 

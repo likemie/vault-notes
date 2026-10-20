@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2015 — 创设与初始服务上线** [[Netherlands Initiative for Education Research\|NRO]] 正式启动 Kennisrotonde 知识门户，提供荷兰语研究检索界面与通俗[[Abstract\|研究摘要]]数据库，面向一线实践者开放免费使用。
 > - **2016–2019 — 定制问答机制成熟化** 建立标志性的"知识环岛"问答（Q&A）机制：一线教师与学校可在线提交具体的教学实践困惑，由 NRO [[Categorical Funding\|委托研究]]人员在规定期限内进行[[Literature Search\|文献检索]]与综合分析，提供定制化的荷兰语通俗解答，发布于公开数据库供全网用户共享。被[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]在 [[OECD]] 报告中列为基层实践导向型中介的国际标杆案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 > - **2020–至今 — 数字化强化与受众拓展** 面向后疫情时代的在线教学转型，持续更新荷兰语教学实践证据库，扩充快速综述（Rapid Reviews）品类，并加强与荷兰各地学校改进网络的联动合作。
@@ -90,7 +90,7 @@ updated: 2026-10-16
 > - **编辑与研究团队** 由 NRO 专职[[Knowledge Mediation\|知识中介]]研究员及网络合作大学研究人员组成，负责[[Literature Search\|文献检索]]、证据评级与通俗化写作。
 > - **问答委托网络** 全荷数十所大学教育学院的研究人员参与定制问答委托，按照 NRO 规定的证据质量评级标准完成文献综合报告。
 
-> [!pathways]- 核心业务运行机制
+> [!pathways] 核心业务运行机制
 > - **通俗化[[Abstract\|研究摘要]]数据库** 将现有荷兰语及国际高质量教育[[Research Translation\|研究转化]]为 1–2 页通俗摘要，按主题与学段分类检索，配合[[Recommendations for Practice\|实践建议]]说明（Implication for Practice）。
 > - **定制化知识问答（Kennisrotonde Vragen）** 核心创新机制：一线教育工作者提交问题（如"分组教学对低[[Academic Achievement\|学业成就]]学生的效果"），NRO 在 4 至 8 周内委托相关领域研究人员完成文献综合回答，以荷兰语通俗格式公开发布，成为全网共享资源。
 > - **快速综述（Rapid Reviews）** 面向政策紧迫议题，在更短周期内整合既有证据，为地方和国家教育决策者提供即时参考。

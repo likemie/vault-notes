@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 产线或工厂、特定技术代际制程（如 0.8 微米互补金属氧化物半导体，Complementary Metal-Oxide-Semiconductor, CMOS 制程）、生产班次或工艺步骤。
 > - **输出形式** 标准化缺陷密度、晶圆探针良率、直接劳动生产率、制造周期时间及跨国能力差距分布矩阵。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 产业标杆分析通过深入生产现场采集未公开的微观制造绩效数据，使研究者能够超越宏观销售额与进出口统计的表面波动，在剔除产品价格与通胀干扰的物理层面上客观度量真实的技术与管理能力差距。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107, 114–118)]]
 >
 > *Industrial benchmarking draws on unpublished, plant-level manufacturing performance metrics to evaluate international competitive differences in engineering and managerial capabilities, isolating physical productivity from price fluctuations.*

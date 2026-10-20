@@ -76,16 +76,16 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 法案正式废除[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 摆脱联邦教育研究的政治化干扰与信誉危机，建立高标准的国家教育科学研究体系，为教育决策与实践提供可靠、客观的实证知识基础。
 > - **适用对象** 申请和承担联邦政府教育科学研究、评估、统计调查及成果转化资助的高校、科研院所、非营利组织与专业机构。
 > - **政策工具** 设立独立的教育科学研究院（IES）并由任期六年的法定院长领导；重构同行评议与资助规程；确立以“科学本位研究标准”为核心的联邦资助门槛。
 > - **约束机制** 严格限制仅资助符合法定科学标准的项目；对于[[Causality|因果推断]]主张，法定要求采用[[Random Assignment|随机分配]]实验或能够充分排除合理解释的其他设计；严格执行独立专家同行评议机制。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–36)]]
 
-> [!figure]- 图 1　初始卡斯尔草案（H.R. 4875, 2000）将[[Qualitative Research|质性研究]]贬低为“初步形式”的条文
+> [!figure] 图 1　初始卡斯尔草案（H.R. 4875, 2000）将[[Qualitative Research|质性研究]]贬低为“初步形式”的条文
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig1_Castle_Bill_HR4875_Standards.jpg)
 
-> [!figure]- 图 2　ESRA 2002 法定科学本位研究标准（Section 102(18)）
+> [!figure] 图 2　ESRA 2002 法定科学本位研究标准（Section 102(18)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig4_ESRA_Research_Standards.jpg)
 
 > [!row-contrast] 卡斯尔草案与正式《教育科学改革法》条文演进对比（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–36]]）
@@ -122,7 +122,7 @@ updated: 2026-10-20
 > - **适用对象** 接受联邦教育科研拨款的高等院校、科研机构与实证研究人员。
 > - **政策工具** 设立具有法律保障的科研基金、资助指南规范、同行审查系统与成果评估平台。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–36)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央架构重组** 彻底终结 [[Office of Educational Research and Improvement|OERI]] 架构，建立具有独立行政预算与专业自主权的 IES，设置任期六年的院长以隔离短周期党派政治轮替。
 > - **资助规程转型** 从早期 Castle 草案死板的方法学划界，转向根据[[Research Question|研究问题]]性质综合评估实证设计，明确允许非随机对照设计在排除竞争性解释的基础上作出因果主张。
 > - **配套评估延伸** 资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），研制设计与[[Implementation and Process Evaluation|实施评估]]规程（[[Study Design and Implementation Assessment Device|Study DIAD]]），逐步确立全国教育干预的实证审核基准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]

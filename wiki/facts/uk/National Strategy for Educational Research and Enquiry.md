@@ -83,7 +83,7 @@ updated: 2026-10-20
 > [!claim] 政策核心定位
 > 威尔士国家教育研究与探究战略（National Strategy for Educational Research and Enquiry, NSERE）是威尔士政府出台的国家级长期综合治理纲领，旨在全面统筹以研究为中心的政策制定活动，大力发展决策官员与教育专业人员有效运用科研证据的专业素养，确保教育公共政策与学校日常实践均能获得现有最佳实证研究的充分支撑。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 116–117)]]
 
-> [!policy-design]- 政策设计与四大支柱
+> [!policy-design] 政策设计与四大支柱
 > - **四大战略支柱**
 >   1. **提升高校科研产能与质量** 在威尔士各高等教育机构内建立紧密围绕威尔士本土教育系统现实需求的高质量科研能力与充足规模；
 >   2. **培育全国循证专业共同体** 将全国教师与[[School Leadership\|学校领导]]者塑造为兼具[[Research Utilization\|证据使用]]素养与科研探究机会的专业群体，使其既能熟练鉴别高质量证据，又拥有实质性参与[[Knowledge Production\|知识生产]]的常态通道；
@@ -118,7 +118,7 @@ updated: 2026-10-20
 > - **专业实践主体** 3 至 18 岁学校教师与校长，承担“科研证据审慎应用者”与“校本教育探究[[Knowledge Co-production\|合作生产]]者”双重身份。
 > - **国际协同节点** 跨国学术机构与国际[[Evidence Network\|证据网络]]，承担双向经验扩散与全球循证资源输入功能。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
-> [!pathways]- 实施路径与运行机制
+> [!pathways] 实施路径与运行机制
 > - **宏观需求统筹机制** 改变传统科研人员单向自由申报的学术孤岛格局，由政府搭建常态化磋商平台，系统界定全系统知识缺口，引导研究课题与公共政策及学校实践紧密对接。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 116, 119)]]
 > - **中观生态协同纽带** 依托区域教育联合体与高校教育学院，设立学校与科研机构的跨界合作共同体，推动研究人员直接沉入学校情境开展合作探究。
 > - **微观素养培育闭环** 克服“仅提供信息中介而缺乏能力建设”的机制错配，对公务官员开展[[Evidence-Based Policy-Making|循证决策]]专项研训，为中小学教师提供实证探究方法支持与时间保障。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 116)]]

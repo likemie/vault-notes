@@ -301,7 +301,7 @@ issuing_organization: ""
 > - **三层[[Random-Effects Model|随机效应]]方差解构** 采用[[Hierarchical Linear Model\|多层线性模型]]架构将总变异解构为三个独立来源：第一层为[[Sampling Error\|抽样误差]]方差（Level 1 占 7.54%）；第二层为同一研究内部不同效应量之间的变异（Level 2, $	au_{(2)}^2 = 0.015$，占 35.82%）；第三层为不同研究之间的真实[[Heterogeneity\|异质性]]（Level 3, $	au_{(3)}^2 = 0.024$，占 56.64%）。
 > - **对数似然比检验（LRT）确证** 模型拟合对比检验显示，三层模型相比传统二层模型在统计上呈现断崖式改善（$\chi^2 = 261.06, p < 0.001$），总变异中高达 92.46% 属于真实的系统性异质性。
 
-> [!example]- 图 1：文献筛选流程图（PRISMA [[Flow]] Diagram）
+> [!example] 图 1：文献筛选流程图（PRISMA [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Song_Choi_2026_FPSYG/figures/Song_Choi_2026_FPSYG_Fig1_Literature_Search_Flow_Diagram.jpg)
 
 > [!ma-table]- 表 4：三层元分析模型与方差分解结果
@@ -480,7 +480,7 @@ issuing_organization: ""
 > - **敏感性分析极窄浮动** Leave-one-out 逐一排除单项研究后，合并效应量在 $r = 0.177 \sim 0.203$ 之间极窄浮动。
 > - **残差诊断无离群值** 512 个效应量的标准化残差均处于 $[-3.29, +3.29]$ 范围内，无极端异常值。
 
-> [!example]- 图 2：效应量漏斗图（Funnel Plot）
+> [!example] 图 2：效应量漏斗图（Funnel Plot）
 > ![](https://img.mylikemie.icu/sources/Song_Choi_2026_FPSYG/figures/Song_Choi_2026_FPSYG_Fig2_Funnel_Plot.jpg)
 
 > [!evidence-grid] 证实不存在发表偏倚与模型稳健的多重检验（p.11）
@@ -512,17 +512,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体关联与文化情境
+> [!citation-card] 总体关联与文化情境
 > 小到中等的汇总[[Effect Size\|效应量]]表明，韩国学生的[[Epistemic Cognition\|认识论认知]]越成熟，其学习成果就越优异。然而，由于本研究基于相关系数而非[[Causality\|因果推断]]，且聚焦于特定文化背景，在跨情境推广时须保持谨慎。（p.1, p.11）
 >
 > *The small-to-moderate pooled effect size of the association between epistemic cognition and learning outcomes suggests that the more sophisticated epistemic cognition Korean students possess, the higher their learning outcomes. However, caution should be taken in interpreting these findings, given that the effect sizes were based on correlation coefficients from Korean studies, limiting causal inference and [[External Validity\|generalizability]] across different contexts and cultures.*
 
-> [!citation-card]- 学段倒挂与应试补习压力
+> [!citation-card] 学段倒挂与应试补习压力
 > 随着学生升入更高年级，面对将考试成绩与大学录取直接绑定的大学修学能力考试（Suneung），学习环境愈发偏向考试和标准答案导向，而巨额的课外补习支出进一步加速了这种应试化趋势，从而限制了学生有效运用成熟认识论认知的机会。（pp.12–13）
 >
 > *This assessment-oriented learning context that middle and high school students experience is likely to limit their opportunities to engage in sophisticated epistemic cognition in meaningful ways. It is possibly posited that the learning context functions as an important factor that declines the association between epistemic cognition and learning outcomes as school level increases.*
 
-> [!citation-card]- 权威二元对立的测量局限与生成式 AI 挑战
+> [!citation-card] 权威二元对立的测量局限与生成式 AI 挑战
 > 纳入研究所测量的信念主要将权威视为[[Source of Knowledge\|知识来源]]与确证手段，将其简化为外在权威（朴素）或内在经验（成熟）的二元对立。在当前网络信息泛滥且极易获取生成式 AI 的时代，单一权威已不再是唯一的信息源，现有将权威视作静态同质实体的量表无法捕捉真实动态的认识论认知。（p.13）
 >
 > *These beliefs measured in the included study, however, focused predominantly on authority as a source and means of justification, dichotomizing it into external authority (naïve) or internal opinion/experience (sophisticated). This reductive approach does not capture the multidimensional nature of knowing. In the current era of prolific online information and easy access to [[Generative Artificial Intelligence\|GenAI]], in particular, a single authority is unlikely to function as a sole source of information.*

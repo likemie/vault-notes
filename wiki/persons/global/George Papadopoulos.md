@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **核心角色** 战后三十年经合组织教育事业开创时期的核心制度奠基人与历史记录者，确立了欧洲社会民主主义与自由市场多元妥协的治理生态，史称“帕帕多普洛斯时代”（Papadopoulos Period）。
 > - **代表贡献** 著有经合组织官方教育历史专著《1960–1990年的教育：经合组织视角》（*Education 1960–1990: The OECD Perspective*, 1994）；主导确立了教育作为促进民主公民培育与社会凝聚的公共物品定位；倡导尊重成员国主权自主性的非强制自愿协商与国别审查机制。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 归根到底，在帕帕多普洛斯时代曾经代表着成员国就教育议题展开平等辩论的独特论坛的经合组织，如今已经蜕变成为一个拥有自身独立意志的政策行动者；它通过自身的意识形态倡导与技术统计运作，强力推行着一种更加关注经济效率而非社会与文化培育的特定教育观。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 452)]]
 >
 > *Ultimately, the OECD, which, in the Papadopoulos period, represented a unique forum for its members to debate educational issues has now become a policy actor in its own right, which promotes, through its ideological and technical work, a particular view of education concerned more with economic efficiency than with issues of social and cultural formations.*
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 帕帕多普洛斯主张教育具有多重维度的本真价值，既是经济生产力的支撑，更是培养具有批判反思意识的民主公民、实现社会流动与文化凝聚的核心公共物品；在治理模式上，他坚决反对将单一经济教条强加给成员国，主张国际组织应扮演尊重国家主权与多样性、提供透明政策辩护与批判性自我审视的多元协商平台。（Papadopoulos, 1994; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 439–440]], 451–452）
 
 > [!citation-card] 教育作为促进民主公民培育与社会凝聚的公共物品
@@ -122,7 +122,7 @@ updated: 2026-10-20
 > - **方法路径** 开创并奠定了以国别政策审查（National Reviews）和跨国专题研究（Thematic Reviews）为基础的自愿[[Peer Debriefing|同行审议]]（Peer Review）定性方法，开创了重在政策阐释与反思的组织学习模式。
 > - **政策路径** 主导创立[[Centre for Educational Research and Innovation|CERI]]，推动经合组织在残障儿童教育、多元文化教育、女性受教育权、师资培养及弱势群体补偿等广泛社会公平议题上开展长达二十余年的开拓性项目。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 437–442, 450–452)]] — 深度引用帕帕多普洛斯的历史档案，作为对比新自由主义[[Knowledge-Based Economy|知识经济]]转向与[[Governing by Numbers|数字治理]]崛起的历史基准。
 
 ---

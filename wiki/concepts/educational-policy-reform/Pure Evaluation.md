@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 运用纯粹评价概念系统解剖可见学习的理论预设与[[Epistemology|认识论]]架构，揭示其如何将教育理论退化为自指性的控制论评价系统。（pp. 2–5）
 
 ---

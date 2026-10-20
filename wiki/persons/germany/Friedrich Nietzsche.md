@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的思想解放要求主体完成精神的三重转变：从背负既定规则与历史重担的“骆驼”，成长为敢于向旧道德与权威主权宣战的“狮子”，最终进化为象征自我开创、自由游戏、[[Agile Governance|敏捷试错]]与全新价值创造的“儿童”。人类认识完全建立在具体生命情境的视角主义（Perspectivism）之上，不存在超越视角的绝对客观真理；教育教养（[[Bildung]]）必须彻底超越国家功利主义与技术技能培训的庸俗工具化，回归个体生命力与卓越人格的自由铸造。
 
 > [!citation-card] 精神三变隐喻：从负重到全新创造
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > - **现代社会学与诸神纷争** 启迪了[[Max Weber|马克斯·韦伯]]关于价值[[Pluralism|多元主义]]、终极价值冲突与工具理性铁笼的现代性诊断。
 > - **德意志教化传统的批判向度** 欧陆批判教育学者（如 Larsen, 2019）将尼采列为德意志[[Paideia|古典教化]]（[[Bildung]]）传统中极富批判穿透力的坐标，援引其对庸俗现代性与教育技术化的深刻批判，抵抗将学习降维为即时可见测量的当代[[Positivism|实证主义]]风潮。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 动用尼采精神三变隐喻阐释三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的组织能力演进。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 将尼采列入德意志教化（[[Bildung]]）哲学谱系，以此反思当代可见学习[[Paradigm|范式]]对教育深层精神维度的遮蔽。
 

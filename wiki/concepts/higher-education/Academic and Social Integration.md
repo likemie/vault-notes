@@ -72,7 +72,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **1975 初版** Tinto 在 *Review of Educational Research* 发表"dropout from Higher Education"，借鉴 Durkheim 的自杀理论和 van Gennep 的过渡仪式理论，提出大[[Academic Attrition\|学生辍学]]的互动模型
 > - **1993 系统化** *Leaving College* 第二版系统阐述了分离-转折-习得三阶段模型和学业/社交双维度融入框架（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - **2000s [[Operationalization\|操作化]]争议** 学界对如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000），但大多数学者同意其基本共识：学生必须主动投入、积极参与学校活动、主动与教师和同学交往，才更可能取得成功
@@ -107,7 +107,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - van Gennep 过渡仪式理论（Rites of Passage）— 三阶段模型的原型：分离（séparation）→ 阈限（limen）→ 聚合（agrégation）（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的[[Analytic Framework\|分析框架]]，将其应用于大[[Academic Attrition\|学生辍学]]问题
 

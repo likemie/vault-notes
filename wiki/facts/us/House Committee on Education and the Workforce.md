@@ -97,7 +97,7 @@ updated: 2026-10-16
 > - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）受主席委派在数月内独立草拟法定科学定义，同时兼任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接影响了法案中具有商业排他性的条文定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
 > - **专家证人与咨询网络** 在举行重大听证会时，依法由多数党和少数党分别延请权威学者、智库领袖及一线实践者到场作证。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **立法听证与专家质询（Hearings）** 就法案草案组织公开听证会，邀请学者（如 [[Russell J. Skiba]]）就特定证据出具书面证词并接受议员质询，证词将被记录在国会正式听证卷宗中，构成法案立法原意（Legislative Intent）的法定证据。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **法案标记与修正会议（Markup Sessions）** 委员会成员对法案条文进行逐字审议、辩论与投票修改。此时，由学者和智库起草的示范法定条文（Model Statutory Language）最容易被两党议员直接吸纳为法案修正案。
 > - **常态化监督机制（Oversight）** 即使在无重大立法的非周期年份，委员会仍高频举行监督听证，审查现行法案执行绩效并传唤教育部官员质询，为学术评估成果介入行政改良提供了持续通道。

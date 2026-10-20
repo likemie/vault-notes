@@ -48,7 +48,7 @@ updated: 2026-10-20
 > [!def] 方法定义
 > 持续比较（Constant Comparison）是质性数据分析中把新获取的数据与既有数据、已生成的类别和理论不断比较的过程，目的是在数据、类别与理论之间实现完美契合（perfect fit）。因此，对既有类别或理论构成挑战的负面案例（negative cases）或数据，会导致类别或理论被修改，直到它们能够完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 持续比较中，研究者把新获取数据与既有数据、已生成的类别和理论比较，以实现数据与类别、理论之间的完美契合。负面案例或挑战既有类别与理论的数据导致它们被修改，直到完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 >
 > *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to [[Achieve]] a perfect fit between these and the data.*

@@ -65,7 +65,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 白皮书将以证据为基础的决策（[[Evidence-Based Policy-Making]], EBPM）与何者有效（What Works）确立为施政核心原则，要求政府系统收集与利用科学实证研究证据，强制重大公共政策在推行前进行清晰的设计、先行试点（Piloting）与成效评估。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 建设响应迅速、协同整合且具备循证[[Scientific Literacy|科学素养]]的高效能政府，提高公共支出产出效益与治理透明度。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
 > - **适用对象** 英国中央部委政策主管、高级公务员（Senior Civil Service）及规划分析人员。
 > - **政策工具** 先行试点与小范围试验机制、跨部门协同、因果影响评估与量化[[Performance Indicators|绩效指标]]考核。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
@@ -95,7 +95,7 @@ updated: 2026-10-20
 > - **适用对象** 全体公务员、政策分析师与受委托开展科研评估的外部智库。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **政策工具** 试点试验、实证科研报告编制、跨部门协同督导与因果评估标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 343)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央 / 上级设计** 内阁府设立优良政策制定指南，将实证数据提升为政策通过的前置要求。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **地方 / 机构执行** 部委建立专职研究部门（如 DWP 实证科研年出版量从 14 篇攀升至 102 篇峰值），设立大规模实地试点。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 335)]]
 > - **反馈 / 调整** 试点结果直接用于调整方案，未达预期或缺乏证据支持的措施予以压缩淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 341–343)]]

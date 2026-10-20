@@ -178,7 +178,7 @@ updated: 2026-10-20
 >     CE2 -.->|"认识论反思批判"| GG4
 > ```
 
-> [!example]- 经典应用案例
+> [!example] 经典应用案例
 > - **慢性疼痛管理中的[[Self-control|自我控制]]理论应用** Kennett et al. (2008) 在一项关于慢性疼痛管理的混合方法研究中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论作为学科理论。研究收集了量表数据并同步开展[[Qualitative Interview|质性访谈]]，理论直接引导了量化工具选择与质性访谈架构，系统梳理了促进自我管理的显著要素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–70)]]
 > - **积极心理学作为多理论学科透镜** Clark and Plano Clark (2019) 使用积极心理学（Positive Psychology）作为核心学科理论，整合社会认知理论、[[Self-Determination Theory|自我决定理论]]与职业理论，指导抽样、[[Interview Protocol|访谈协议]]与编码框架，充当界定研究设计与解释发现的核心透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 72)]]
 > - **护理研究中的生命历程视角模型** Evans et al. (2011) 运用生命历程视角作为学科理论：通过视觉模型明确概念逻辑，从理论提炼关键构念纳入研究目标，指导质性开放问题与量化测量工具，提供起始编码并为假设检验提供预测模型。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 71–72)]]

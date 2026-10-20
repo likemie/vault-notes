@@ -49,7 +49,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]- 生平与职涯
+> [!note] 生平与职涯
 > - **2006 年之前** — 在中国和日本的中小学任教，积累了东亚教育系统的第一手经验；日语流利([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 240]])
 > - **2006** — 在牛津大学完成硕士论文（MSc dissertation），对中国和美国对日本教育的[[Cross-National Attraction\|跨国吸引力]]进行历史比较研究([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 234]])
 > - **2006** — 在 Research in Comparative and [[International Education]] 发表"Theorizing Educational Transfer: Toward a Conceptual Map of the Context of Cross-National Attraction"，基于硕士论文的经验基础，提出跨国吸引力情境[[Concept Mapping\|概念地图]]，是该领域被广泛引用的理论建构论文([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006]])
@@ -66,7 +66,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]- 核心思想
+> [!tip] 核心思想
 > Rappleye 的核心理论贡献集中在[[Cross-National Attraction\|跨国吸引力]]情境[[Concept Mapping\|概念地图]]中，以下按地图的构成逻辑组织。
 
 ### 情境的双层拆解

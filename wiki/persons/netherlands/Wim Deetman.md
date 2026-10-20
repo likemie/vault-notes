@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心政治与治理理念
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 在深度法团化与宗派分立的[[Social Regime|社会体制]]中，激进的自上而下科层命令注定引发破坏性对抗；优秀的公共治理应当善用“去政治化”的理性[[Discourse|话语]]，以扩大机构[[Strategic Autonomy|战略自主]]权换取改革妥协，依托中介[[Policy Network|政策网络]]的自组织协商达成兼顾公共财政底线与专业活力的平稳变革。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144–146)]]
 
 ---

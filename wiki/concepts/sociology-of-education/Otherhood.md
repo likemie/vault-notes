@@ -65,7 +65,7 @@ updated: 2026-10-16
 ---
 ## 概念演变
 
-> [!note]-
+> [!note]
 
 ### 概念提出与理论发展
 
@@ -92,7 +92,7 @@ updated: 2026-10-16
 ---
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[World Society Theory]] — otherhood 是世界社会理论的核心机制：由于世界社会缺乏传统的控制与权威机制，它本质上通过 otherhood 建构——即通过围绕进步与正义等宏大目标的[[Cultural Models\|文化模型]]扩散与模仿来运作（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]]）
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-10-16
 > - 大学 otherhood 正在重新塑造全球治理的图景：大学不再只是[[Knowledge Production\|知识生产]]者，而是全球治理中的积极行动者。四种嵌入机制——研究对齐、教学对齐、内部政策对齐、网络对齐——都是 otherhood 的具体制度化表达([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149–154]])
 > - 许多大学协会不仅为其成员带来利益，也涉及显著的成本和承诺，这表明大学在推动可持续发展事业中存在超越自身利益考量的真正投入([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.153–154]])
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 大学与所有 IOs 平均合作产出 **40,000 篇**共同署名出版物（Zapp, 2017b，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.151]]）
 > - Bologna 大学报告 **1,174 个**与 [[UN Sustainable Development Goals\|SDGs]] 相关的课程单元([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
 > - 全球 **200+ 所**大学发布 CSR/可持续发展报告（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）

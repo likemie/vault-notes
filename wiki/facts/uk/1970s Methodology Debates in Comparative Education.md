@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **1970年代初 — 学术[[Paradigm\|范式]]冲突爆发**
 >   随着结构社会学与[[Positivism\|实证主义]]方法在社会科学界的全面兴起，英格兰比较教育学界发生严重的方法论分裂（the fracturing），偏离传统历史[[Situative Perspective\|情境主义]]路径的探索者被保守的传统学者强行贴上“偏差者（deviants）”的标签。
 > - **1979–1980年 — 公开规训与学术论战**

@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Higgins 坚持[[Evidence-Based Education\|循证教育]]必须兼顾科学严密性与实践可操作性。他主张面对海量[[Heterogeneity\|异质性]]研究，[[Meta-meta-analysis\|二阶元分析]]与跨干预综合是打破信息孤岛、辅助[[Evidence-Based Policy-Making|循证决策]]的最佳工具；通过“进展月数”将抽象统计[[Effect Size\|效应量]]转译为教师与校长的通用日常语言，能够有效降低决策门槛。同时，他高度警惕统计推断中的“[[Model Dependency\|模型依赖性]]”，主张通过透明公开微观数据、执行独立二次审计和前置确立[[Statistical Analysis Plan\|统计分析计划]]（SAP），以方法学制度化来防范分析偏倚。
 
 > [!citation-card] 跨[[Meta-analysis\|元分析]]比较在教育决策中的最佳可用性（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）
@@ -133,7 +133,7 @@ updated: 2026-10-20
 > - **政策与转译路径** 领衔研制的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium\|学生津贴]]的财政资源配置取向。
 > - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency\|证据中介机构]]（[[What Works Network]]）广泛本土化引介，成为[[International Education\|国际教育]]循证综合的标准模板。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins 等对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。

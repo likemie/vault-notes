@@ -107,7 +107,7 @@ updated: 2026-10-20
 > - **核心技术研发部门** 下设标准与评估部、战略与传播部、各州政策分析部，汇集了全美一流的课程专家与计量心理学学者。
 > - **跨州智库游说联合网络** 与托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]、教育信托等机构保持常态化协同，在各州巡回开展标准宣讲。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **雇主与高校需求逆推** 改变传统由教育行政官员拟定学分要求的做法，通过系统调查全国数千名大一骨干教授与高科技企业用人主管，将真实工作场景所需的推理与阅读指标反向转译为学术条文。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **微观对标分析技术（Crosswalks）** 研发成熟的逐条内容映射算法，将通用标准草案与特定州的现行标准进行矩阵化逐项比对，量化出知识点重合率与思维深度差，为各州表决提供定制化技术报告。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
 > - **政界高层穿梭与政策倡导** 总裁迈克尔·科恩直接参与各州州长听证会与国会咨询，扮演连接学术界、商界与政界的跨界[[Policy Entrepreneur|政策企业家]]。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **政策渗透与采纳广度** 主导起草的 [[Common Core State Standards|CCSS]] 在全美被超过 45 个州正式采纳，重塑了美国基础教育半个世纪以来的标准格局。
 > - **跨州协作网络规模** [[American Diploma Project|美国文凭项目]]（ADP）吸引了 35 个州自愿结盟，成为全美规模最大的跨州课程协同试验平台。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **微观实证对标覆盖** 出具的州级对标分析覆盖数十个州，成为各州立法与教育行政听证的核心证据支撑。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]

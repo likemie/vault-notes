@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **核心角色** 在科学哲学向现代教学论转化的脉络中承担关键中介角色；将[[Karl Popper|卡尔·波普尔]]（Karl Popper）的客观知识哲学引介至教育领域，提出“心智之外的知识”（knowledge outside the mind）范畴，为解构传统容器式教学观确立了[[Epistemology|认识论]]支点，同时也因其对客观文化世界的形式化削减而受到[[Didaktik|欧陆教学论]]学者的深层质询。
 > - **代表贡献** 联合创立[[Knowledge Building Theory|知识建构理论]]；出版专著《知识时代的教育与心智》（*Education and Mind in the Knowledge Age*, 2002）；在教育学界推广[[Popper's Three Worlds Theory|波普尔三世界理论]]的[[Ontology|本体论]]区分。
 
-> [!citation-card]- 贝莱特论心智之外的知识与概念[[Artefact|人工制品]]
+> [!citation-card] 贝莱特论心智之外的知识与概念[[Artefact|人工制品]]
 > 贝莱特指出，应当将理论、问题、解释与设计方案视作独立于个体大脑的“概念人工制品”（conceptual artifacts）。这类制品作为人类精神的客观产物，可以在公共讨论空间中经受检验、批判与协同改善，构成了知识社会中教育的核心追求。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 10; Bereiter, 2002)]]
 >
 > *Ideas as conceptual artifacts exist outside the mind, capable of being treated as objects of inquiry, criticism, and collaborative improvement.*
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 主观学习与客观[[Knowledge Building Theory|知识建构]]分属两个截然不同的[[Ontology|本体论]]范畴。主观学习属于世界二的心智状态改善与个体信念重组，而知识建构则属于世界三的公共精神产物生产与持续改良。真正的现代教育应当超越将学生心智视作待填充容器的传统意识理论，引导学生组成知识探究共同体，将理论、问题、解释与模型当作“概念[[Artefact|人工制品]]”（conceptual artifacts）展开持续的公开检验、理性批判与协同改进（Bereiter, 2002; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
 
 > [!citation-card] 贝莱特论知识建构超越个体主观学习

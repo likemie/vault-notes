@@ -98,14 +98,14 @@ updated: 2026-10-16
 
 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（employment-first）——即在短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被系统性地边缘化。这一发现为 [[Selectivity]] 概念在终身学习领域的运作提供了直接的经验证据([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 项目资助：Horizon 2020, Grant No 693167
 > - 样本：9 国 16 区，168 名终身学习政策[[Expert Interview\|专家访谈]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])
 > - 覆盖区域类型：北欧（芬兰）、德语区（德国、奥地利）、西欧（英国）、南欧（西班牙、意大利、葡萄牙、克罗地亚）、东欧（保加利亚）
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning\|终身学习]]政策的官僚—网络混合治理模式
 > - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change\|变革理论]]
 > - [[Selectivity]] — 项目数据为[[Performance Indicators\|绩效指标]]体系的选择性效应提供了直接的经验证据

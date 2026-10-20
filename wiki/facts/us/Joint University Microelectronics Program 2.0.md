@@ -115,7 +115,7 @@ updated: 2026-10-20
 > - **产业导师与技术联络员（Industrial Liaisons & Mentors）** SRC 成员企业资深研发工程师被直接派驻至各中心课题组，每月跟踪进展、提供真实工业级设计套件（[[Process Design Kit|PDK]]）与测试数据支持。
 > - **受资助青年学者与研究生（SRC-JUMP Scholars）** 覆盖数百名博士后、博士与硕士研究生，通过前沿攻关与企业流片实操成长为高端微电子工程领军人才。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 23–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
-> [!pathways]- 研发协同与[[Research Translation|技术转化]]运行机制
+> [!pathways] 研发协同与[[Research Translation|技术转化]]运行机制
 > - **网络化组织替代单校单兵作战** 打破传统以单个教员课题组或单一高校为边界的封闭科研[[Paradigm|范式]]，将全美顶尖微电子、材料、算法与系统学者编织为 7 大跨校协同网络，实现重大实验仪器与知识资产的全网共享。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **全栈软硬双向[[Co-Design|协同设计]]（Full-Stack Co-Design）** 贯彻“应用定义系统、系统定义芯片、芯片定义材料”的双向贯通模式，使底层物理器件与新型异构微架构从研发伊始即紧密适配国防与工业端的算法特征。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
 > - **非排他性知识产权与开放扩散框架** 研发成果遵循 SRC 经典知识产权共享准则，资助产生的前竞争专利由所有出资成员企业享有非独占、全球免版税使用许可，学术论文完全公开发表，确保技术成果在全行业迅速渗透扩散。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 234)]]
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 核心成效与战略影响
 
-> [!indicators]- 关键指标与建设规模
+> [!indicators] 关键指标与建设规模
 > - **启动时间与运行周期** 2023 年 1 月正式立项推进，规划执行期 5 年（2023–2028）。
 > - **资助总规模** [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 联合撬动总预算超过 **2.5 亿美元**。
 > - **跨校协同中心网络** 设立 **7 个** 分布于全美关键地理区域的国家级跨学科研究中心。

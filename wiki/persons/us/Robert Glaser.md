@@ -102,7 +102,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 格拉泽主张将教育实践改造为一门具有严密技术规范的教学工程学：教学的本质是引导学习者从“起点状态（Entering Behavior）”定向迁移至预设的“终点目标（Terminal Objectives）”；通过将学习任务切分为可操作的微小认知步骤，并在每个步骤中引入针对偏差的矫正性反馈，教学系统能够实现对学习绩效的高效调控。这一设计[[Paradigm|范式]]将专业教学界定为选择最优技术手段以解决确定性问题的工程实践，深刻体现了[[Donald A. Schön|唐纳德·舍恩]]（[[Donald A. Schön]]）所批判的[[Technical Rationality|技术理性]]（Technical Rationality）[[Epistemology|认识论]]特征。
 
 > [!citation-card] 教学过程作为状态转化的控制工程

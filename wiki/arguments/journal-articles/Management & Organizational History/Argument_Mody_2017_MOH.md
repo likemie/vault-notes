@@ -153,7 +153,7 @@ issuing_organization: ""
 
 ### 论证步骤一　资本密集沉没成本、专利交叉许可与日本竞争危机共同催生了产学双维制度创新
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 美国微电子领域的学术中心与产业联合体不是偶然先后出现的孤立形态，而是半导体产业内在的技术经济特征与 1970 年代日本竞争危机共同催生的同源共生制度创新。（pp.286–287）
 
 半导体制造技术路线与常规轻资产科学研究存在本质断裂，其工艺迭代直接受制于重资产沉没成本与技术外溢的产业特性。
@@ -193,7 +193,7 @@ issuing_organization: ""
 
 ### 论证步骤二　先驱学术中心借用联合体形态，但在人员规模、出资结构与政府协同上产生制度分化
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 早期大学微电子实体（如加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福大学 CIS）探索了向联合体借用制度特性的多元模式，但在政府资金介入、工业界话语权与组织规模匹配度上呈现显著分化。（pp.289–297）
 
 面对日本半导体产业赶超压力，美国顶尖工程院校率先以不同制度形态重构大学微电子实验空间。
@@ -231,7 +231,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 
 ### 论证步骤三　大学中心作为校园技术经纪人与各州竞标产业联合体总部的核心王牌
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 大学研究中心不仅在组织形态上借用产业联合体的会员制模式，更直接作为校园内部的多学科技术经纪人与产业研发联盟紧密嵌合，成为地方政府竞标争夺产业联盟总部的核心杠杆。（pp.292–295）
 
 当产业联合体在 1980 年代初密集创设后，它们必须在象牙塔内部寻求高效的协同接口。
@@ -269,7 +269,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 
 ### 论证步骤四　在制造试验与人才博弈张力中，大学中心凭借多学科灵活性实现跨界二次转型
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 大学微电子中心在自主制造芯片与满足工业界快速流片诉求上面临内在摩擦，且在学生培养与定向招聘上引发企业搭便车顾虑；然而，教员与毕业生的跨校流动加速了中心形态的[[Institutional Isomorphism|制度同构]]，而深嵌于大学的多学科生态更赋予学术中心超越专一性产业联盟的结构韧性，使其在 1990 年代半导体退潮后成功跨界转型。（pp.295–299）
 
 大学洁净室在承载工业级制造试验与人才定向输送时，不可避免地陷入生产效率与学术探索的微观治理张力。
@@ -326,17 +326,17 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 
 ## 关键引用
 
-> [!citation-card]- 共同应对日本竞争与制度同源性
+> [!citation-card] 共同应对日本竞争与制度同源性
 > 促使微电子研究进入亚微米领域的主要紧迫原因，在于国际竞争对手正试图在该领域实现对美国技术的飞跃性赶超。最引人注目的是日本决定在未来四年内投入 2.33 亿美元，通过其产学联合团队开展亚微米器件研究与制造能力的开发。（p.292）
 >
 > *Adding to the urgency of the need for research in the submicron domain is the effort made by our international competitors to leap-frog the US technology in this [[Champ|field]]. The most noteworthy program is the Japanese decision to spend $233 million in the next four years to develop submicron device research and fabrication capabilities with their industry-university teams.*
 
-> [!citation-card]- 大学中心在应对联合体动态需求中的组织优势
+> [!citation-card] 大学中心在应对联合体动态需求中的组织优势
 > 与整所大学乃至一个院系对接对联合体而言是低效的，因为这些组织形式很少能迅速且无争议地做出决策。与单一教员对接虽然保证了响应速度，却缺乏知识广度——而当联合体的需求发生变化时，个别教授的专业知识可能不再相关。然而，大学学术中心能够相对迅速且连贯地行动，同时仍能将广泛而灵活的教师专业力量投向联合体不断演进的需求。（pp.292–293）
 >
 > *Interfacing with an entire university or even a department is inefficient for a consortium, since these organizational forms rarely make quick or uncontested decisions. Interfacing with a single faculty member guarantees faster response, but not breadth of knowledge – and when the consortium’s needs change, the individual professor’s expertise may no longer be relevant. An academic center, however, can act relatively quickly and coherently, and yet can still bring the expertise of a broad and flexible array of faculty to bear on the consortium’s ever-evolving needs.*
 
-> [!citation-card]- 仙童霍根论产业界为何需要类似 CIS 的大学中心
+> [!citation-card] 仙童霍根论产业界为何需要类似 CIS 的大学中心
 > 霍根博士指出，作为美国在高技术领域主要竞争对手的日本，对关乎日本经济未来的重大关键问题基础研究采取了类似的方法。霍根博士表示：“要在外国竞争中获胜，我们需要像 CIS 这样由工业界资助的计划进驻我们最好的半打大学，同时配合产业界自身对基础研究重新焕发的活力。”（p.296）
 >
 > *Dr. Hogan points out that Japan, whom he feels is America’s main competition in high technology, has employed somewhat the same approach to Basic Research on problems crucial to Japan’s economic future .... ‘To win against foreign competition,’ says Dr. Hogan, ‘we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself’.*

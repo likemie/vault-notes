@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 各民族国家的教育制度是其[[National Character|国民性格]]与历史力量的外在体现。比较教育的真正使命在于通过历史透镜，系统分离并剖析在漫长岁月中积极参与塑造该民族的深层结构性因素（自然、宗教与世俗动因），并在此基础上比较各国为解决这些因素所引发的教育问题而尝试的制度方案。比较教育兼具动态的应用改良目的，以保障文化自由和实现实质受教育机会均等的民主伦理为终极准绳。
 
 汉斯将国民教育体系界定为国民性格与历史力量的外在表达，确立了剥离恒久力量、探求制度原则的[[Ontology|本体论]]预设与双重比较使命。
@@ -207,7 +207,7 @@ updated: 2026-10-20
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method\|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革[[Discourse|话语]]，推动民主公民教育理念的跨国传播。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐述汉斯作为比较教育第二代历史-哲学学派代表，把比较教育界定为广义教育科学与人文学科（*[[Geisteswissenschaften]]*），主张结合历史与社会科学推动教育改良。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。
@@ -270,7 +270,7 @@ updated: 2026-10-20
 > > - **Noah and Eckstein（1969）** 批评汉斯将因素预设为不证自明的决定力量，框架本身无法在不同因素之间进行相对重要性的权重权衡，也无法提供检验某个特定因素究竟应被纳入还是排除的客观经验判据。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
 > > - **Andreas [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]]** 指出汉斯的框架虽然极大地赋予了海量史料以组织条理，但其背后对[[National Character|国民性]][[Construct|构念]]的残留依赖，依然受到本质主义与同义反复解释的潜在挑战。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯系统评析汉斯因素分析法的史学组织力，同时揭示其本质主义国民性格依赖与实证派论敌的批判焦点。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位与传统建构。
 

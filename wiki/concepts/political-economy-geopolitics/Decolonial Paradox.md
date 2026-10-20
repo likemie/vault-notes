@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **分析用途** 用于剖析西方左翼学者在面对香港法治受损、通识科被废除及再教育危机时选择“集体失语”或为威权逻辑辩护的认知心理与学术虚无主义根源。
 > - **概念边界** 它并不否认西方殖民主义的历史罪恶，而是警示不能以“反殖民”为借口，将本地学童和市民追求的自由与专业自主空间扣上“殖民遗毒”的帽子予以消灭（p.155）。
 
-> [!citation-card]- 关键学术表述
+> [!citation-card] 关键学术表述
 > 过度专注于思想或制度的殖民谱系，必然导致对本地人能动性的背叛。去殖民主义学者与非西方极权主义者在[[Cultural Relativism|文化相对主义]]上达成合流，共同合谋了对本土人权利的剥夺。
 >
 > *“...Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p. 155]]）

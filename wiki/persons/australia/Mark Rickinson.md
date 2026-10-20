@@ -93,7 +93,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 研究证据不能自行发声，也不能取代专业[[Phronesis\|实践智慧]]；高质量[[Research Utilization\|证据使用]]本质上是在复杂教育系统中，由个体专业心智、组织制度保障与系统协同支持共同促成的对适切研究证据的审慎参与和实施。
 
 > [!citation-card] [[Quality Use of Research Evidence Framework\|高质量研究使用]]界定

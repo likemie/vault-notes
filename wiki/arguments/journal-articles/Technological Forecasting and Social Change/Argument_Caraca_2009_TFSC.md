@@ -82,7 +82,7 @@ issuing_organization: ""
 >
 > 两个相互关联的问题贯穿全文。第一，科学在创新过程中的角色从线性模型到[[Chain-linked Model\|链式模型]]再到更完整框架，每一步突破了什么、遗漏了什么。第二，科学与大学在今天的[[Learning Economy\|学习经济]]中应当如何重新定位。
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 过去五十年对科学在创新中角色的三种定义方式——线性模型、链式模型、[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]。
 > - **对照** 线性模型将科学置于创新的起点和支配位置。链式模型将科学重新定位为过程的一部分而非必然起始。多通道互动学习模型进一步将科学视为多元[[Source of Knowledge\|知识来源]]之一，通过界面与其他知识池持续互动。科学的经济影响在泛化（供需两侧均更依赖科学），但其作为自主主导因素的地位同时在消解。
 > - **结论** 科学仍是创新的根本来源，但置身于多元知识并存、多通道互动的学习经济之中。政策若将大学转为专利生产者而忽视其培养批判性人才的根本功能，将破坏创新的长期可持续性。
@@ -173,7 +173,7 @@ issuing_organization: ""
 >
 > 线性模型的构想最初来自科学家对资源配置的政治游说，而非经济学的系统论证。但它在二战后国家主导经济干预的氛围中获得了最大影响力。
 
-> [!example]- 图1：线性模型
+> [!example] 图1：线性模型
 > ![](https://img.mylikemie.icu/sources/Caraca_2009_TFSC/figures/Caraca_2009_TFSC_Fig1_Linear_Model.jpg)
 
 **在工业组织层面的影响(p.863)**
@@ -202,10 +202,10 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 2. **科学在过程中按需调用或创造**。既有的经过验证的科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造。
 3. **科学与创新双向互动**。有时新科学催生激进应用（路径 D），有时科学反过来从创新中受益（路径 I 和 S）。
 
-> [!example]- 图2：链式模型
+> [!example] 图2：链式模型
 > ![](https://img.mylikemie.icu/sources/Caraca_2009_TFSC/figures/Caraca_2009_TFSC_Fig2_Chain_Linked_Model.jpg)
 
-> [!boundary] 关键贡献：D 至少与 R 同等重要
+> [!boundary]- 关键贡献：D 至少与 R 同等重要
 > 链式模型将科学重新定位为过程的一部分而非必然起始步骤。开发（D）至少与研究（R）同等重要 (p.864)。这一判断在科学与开发之间划出了一条此前被线性模型遮蔽的边界：创新政策不能等同于研究政策，增加基础科学投入本身不足以提振创新绩效。
 
 > [!warning] 局限一：组织维度缺失
@@ -235,7 +235,7 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > 2. **组织和治理结构知识** 内部架构设计、管理流程、激励机制、治理安排。
 > 3. **营销技术和顾客行为知识** 市场理解、用户细分、价值主张设计。
 >
-> > [!boundary] 知识池的类型学意义
+> > [!boundary]- 知识池的类型学意义
 > > 三类知识池的区分直接挑战了只有自然科学才是创新所需知识的预设。后两类知识在传统创新政策中被系统性低估。公共创新政策如果只资助自然科学研究而忽视组织研究和营销研究，就系统性地遗漏了创新所需的三分之二的知识来源。
 
 > [!evidence-grid] 创新三：界面作为解释性管道
@@ -248,7 +248,7 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 >
 > 界面多样性意味着没有适用于所有产业的统一创新政策模板。
 
-> [!example]- 图3：[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]
+> [!example] 图3：[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]
 > ![](https://img.mylikemie.icu/sources/Caraca_2009_TFSC/figures/Caraca_2009_TFSC_Fig3_Multi_Channel_Interactive_Learning_Model.jpg)
 
 ---
@@ -300,27 +300,27 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 ## 关键引用
 
-> [!citation-card]- 创新倒逼科学创造
+> [!citation-card] 创新倒逼科学创造
 > 在一幅完整的图景中，我们必须承认不仅创新依赖于科学，而且创新的需求往往迫使科学被创造出来（Kline & Rosenberg, 1986, p.287, 引自 p.863）。
 >
 > In a complete picture we must recognize not only that innovation draws on science, but also that the demands of innovation often force the creation of science.
 
-> [!citation-card]- 科学在创新各环节按需使用
+> [!citation-card] 科学在创新各环节按需使用
 > 科学倾向于在创新中央链条的所有环节中被按需使用（Kline & Rosenberg, 1986, 引自 p.866）。
 >
 > Science tends to be employed at all points of the central-chain-of-innovation, as needed.
 
-> [!citation-card]- 将大学和基础研究从属于市场或政治指令是错误的
+> [!citation-card] 将大学和基础研究从属于市场或政治指令是错误的
 > 将大学和基础研究置于市场或政治指令之下是错误的。它破坏了创新过程的长期可持续性，并且忽视了创新过程中最重要的瓶颈可能与不支持面向市场和生产的经验型学习的组织形式有关 (p.867)。
 >
 > It would be a mistake to use this as an argument to make universities and Basic Research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
 
-> [!citation-card]- 大学需要更宽的知识带宽
+> [!citation-card] 大学需要更宽的知识带宽
 > 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销[[Creativity\|创造力]] (p.866)。
 >
 > If universities are to interact with such an evolving innovation process then they have to develop a broader knowledge bandwidth. This means gathering better organizational insights and marketing creativity without divesting from excellence in teaching and fundamental scientific research.
 
-> [!citation-card]- 基础研究必须是[[Research Universities|研究型大学]]的首要任务
+> [!citation-card] 基础研究必须是[[Research Universities|研究型大学]]的首要任务
 > 无论商业诱惑多大，基础研究——新知识的发现——必须始终是任何研究型大学的首要任务（Theodor W. Hänsch, 2005 年诺贝尔物理学奖得主, 引自 p.866）。
 >
 > For all the commercial temptations, however, basic research – the discovery of new knowledge – must remain top priority for any research university.

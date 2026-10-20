@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **教育专责审议委员会** 设立由资深私立名校前校长、[[Grandes Ecoles|大学校]]董及特许学校试点委员会官方委员（如 John Taylor）组成的教育战略委员会，负责对接教育部官员与立法草案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
 > - **企业会员资助网络** 涵盖新西兰前 50 大跨国企业与商业巨头（ANZ、BNZ、Westpac、Deloitte、PwC、EY、Google、Microsoft、Fonterra、Fletcher Building、Air New Zealand 等）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置与选题** 紧密跟踪中央政府执政联盟的立法窗口，针对基础教育财政支出、学业测评与师资人事制度瓶颈，快速制定亲市场政策[[Research Problem|研究议题]]。
 > - **闭门协商与立法渗透** 依托跨界精英高管网络与查塔姆研究所（Chatham House）规则举行闭门研讨会，绕过教师工会直接向内阁部长及高级文官输送政策备忘录。
 > - **媒体公关与舆论造势** 通过商业媒体专栏、突发新闻稿与广播访谈高密度发声，制造“公立教育深陷平庸”、“优秀教师因缺乏竞争而流失”的危机叙事。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资助财团网络规模** 汇集新西兰 50 余家前沿跨国金融、科技、农业与工业支柱企业作为全额资助会员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 > - **政策制度转化率** 其倡导的特许学校试点（[[Partnership Schools Kura Hourua|PSKH]]）被新西兰国家党-行动党执政联盟正式立法采纳。
 > - **主流媒体曝光率** 在新西兰主流商业报刊与电视媒体中关于教育改革与师资质量的辩论中占据极高的引用频次。

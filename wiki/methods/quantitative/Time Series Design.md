@@ -84,7 +84,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 按等间隔时间点（周、月、季度、学期或学年）聚合的班级、学校或学区均值指标。
 > - **输出形式** 分段回归方程参数估计值、截距变化量 $\beta_2$、斜率变化量 $\beta_3$、自相关校正后[[Standard Error\|标准误]]及时间序列趋势折线图。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 时间序列设计通过在干预前后引入一系列连续测量，使受试者成为自身的反事实控制。多次[[Pre-test and Post-test\|前测]]建立了稳定的发展基线，有效剥离了自然成熟与已有趋势的假象，从而在缺乏[[Random Assignment\|随机分配]]的情况下提供了极其有力的准实验[[Causality\|因果推断]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, pp. 328–329)]]
 >
 > *Interrupted time series designs utilize multiple observations before and after an intervention to project a counterfactual trajectory. By modeling changes in both intercept and slope, ITS distinguishes true intervention effects from secular historical trends and natural maturation.*

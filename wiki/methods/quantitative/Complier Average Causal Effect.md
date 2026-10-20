@@ -69,7 +69,7 @@ updated: 2026-10-16
 > - **四类潜在子群体的划分** Rubin 因果模型将受试总体严格划分为四类互斥子群：**顺从者（Compliers）**、**始终接受者（Always-Takers）**、**从不接受者（Never-Takers）** 与**对抗违约者（Defiers）**。
 > - **清算体系中的哲学分歧** 公共卫生类机构（如 [[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]]）坚持必须报告 ITT 以评估现实政策推广价值；而 [[What Works Clearinghouse\|WWC]] 允许在满足排除性约束时报告 CACE 估计值。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 意向治疗分析（ITT）回答的是政策制定者的问题：‘提供这一项目能带来什么改变？’而顺从者平均因果效应（CACE）回答的是学习者和教师的问题：‘如果我真正按要求完整参与了这一项目，它能为我带来多大成效？’两者在因果推断中不可偏废。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 10)]]
 >
 > *Complier Average Causal Effect (CACE) identifies the causal effect of an intervention specifically for the subgroup of participants who comply with their assigned treatment status. Using randomized assignment as an instrumental variable, CACE bridges the gap between policy intent and actual intervention efficacy.*
@@ -115,7 +115,7 @@ updated: 2026-10-16
 
 ## 概念边界与常见误区
 
-> [!boundary] 概念辨析与适用边界
+> [!boundary]- 概念辨析与适用边界
 > - **CACE vs 完工者分析（Per-Protocol / As-Treated）** 完工者分析简单粗暴地剔除违约者，直接对比实际完成者与对照组，彻底破坏了[[Random Assignment\|随机化]]平衡（引入严重选择偏倚）；CACE 运用工具[[Variable\|变量]]模型，利用外生随机分配 $Z$ 作为杠杆，[[Causality\|因果推断]]具有严密的无偏数学保证。
 > - **CACE vs [[Advanced Technological Education|ATE]]（总体平均处理效应）** ATE 代表若强制全员 100% 接受干预时的理论总体平均值；CACE 仅代表自然状态下愿意顺从该干预的子群体效应（若干预强制推广至从不接受者，效应可能大幅下降）。
 > - **排除性约束失效风险** 若实验组学生得知自己入组后产生了强烈的期望效应（心理安慰剂），即使未实际使用干预也提高了成绩，此时工具变量排除性假设被击穿，CACE 估计将产生系统偏误。

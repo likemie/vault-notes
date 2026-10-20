@@ -78,7 +78,7 @@ updated: 2026-10-20
 > [!claim] 核心机制假说
 > 知识转化无法依靠传统的自上而下研究推送，唯有通过建立跨越研究、政策与实践界限的伙伴关系，让使用者从立项之初就全生命周期深度参与[[Knowledge Co-production\|知识共创]]，才能将高质量学术成果转化为广泛的专业实践变革。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **供给端与需求端的战略分野** 新工党政府将连接研究与实践的政策划分为两大板块：供给端（Supply-side）以 TLRP 为代表，旨在提升高质量原始实证的产出与传播；需求端（Demand-side）则辅以“最佳实践研究奖学金”（Best Practice Research Scholarships, BPRS）等鼓励教师自身开展微观探究。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
 > - **项目目标** 产出高水平严谨实证证据，深化对[[Effective Teaching\|有效教学]]机制的理论理解，并直接促进政策制定与课堂教学的循证改进。
 > - **四大运作支柱**
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **2000–2003 — 基础构建与第一期项目启动** 确立以“[[Effective Teaching\|有效教学]]”为主题的立项标准，推行用户参与准则，资助首批中小学课堂教学改进重点项目。
 > - **2004–2008 — 领域扩展与全系统深化** 扩展至高等教育、职业技术教育与职场工作场所学习，全面深化研究者与教师工会、学区管理层的跨界伙伴网络。
 > - **2008–2011 — 综合集成与十项原则沉淀** 开展跨课题[[Research Synthesis|证据综合]]，提炼全英通用的“有效教与学十项循证原则”（Ten Principles for Effective Teaching and Learning），完成终期结项并沉淀全系统动员网络。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]

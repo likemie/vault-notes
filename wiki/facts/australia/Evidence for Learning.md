@@ -118,7 +118,7 @@ updated: 2026-10-20
 > - **学术咨询治理（学校专家咨询委员会）** 设立学校专家咨询委员会（Schools Expert Reference Council），特邀墨尔本大学教育荣休教授、澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）前主席[[John Hattie\|约翰·哈蒂]]（John Hattie）出任委员会主席，统筹本土顶尖学者与实践者对工具包本土化转译及指导指南（Guidance Reports）进行学术把关与方法论指导。
 > - **跨国战略伙伴网络** 深度绑定英国 [[Education Endowment Foundation\|EEF]] 专家网络（包括 EEF 首任首席执行官 [[Sir Kevan Collins]] 的常态化业务指导），并与澳大利亚联邦银行基金会、[[BHP Foundation\|必和必拓基金会]]保持紧密的资助协同关系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6, 8]]）。
 
-> [!pathways]- 业务运行与“建构-共享-运用”三维中介机制
+> [!pathways] 业务运行与“建构-共享-运用”三维中介机制
 > - **证据生产与本土建构（Build Evidence）** 资助并委托第三方科研机构开展 3 项[[Randomised Controlled Trials\|随机对照试验]]（RCTs）、2 项先导试验、4 项系统性[[Literature Review\|文献综述]]与 2 项专题调查；设立本土评估者专家库（Evaluator Panel）并提供国际标准培训，弥补澳大利亚本土高公信力实验实证产能的不足。
 > - **知识转化与情境共享（Share Knowledge）** 依托 EEF 全球 30,000 余项[[Abstract\|研究摘要]]，重构形成涵盖 34 类教学策略的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及早期儿童教育工具包；组织澳洲一线实践者与学科专家编制《实践指导指南》（Guidance Reports），累计发布超过 175 份循证专业资源。
 > - **实践赋能与多方协同（Support Use）** 秉持“在合作中开展所有活动”原则，与维多利亚州、新南威尔士州和北领地教育部深度合作，举办逾 425 场专业研修活动（覆盖超 1.6 万名教育工作者），推动证据从被动“灌输推送”（Push）转向学校按需“主动索取”（Pull）。
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **学校决策与教师专业动员** 深度嵌入各州公立学校系统（如维多利亚州学校改进模型），成为教师日常教研备课、资源选配的高频参考，工具包月访问量达 2.2 万次，核心用户逾 2.6 万人。
 > - **[[Experimental Research\|实验研究]]能力突破** 打造澳大利亚教育史上最大规模 [[Randomised Controlled Trials\|RCT]] 试验（南澳“思维数学”，158 所学校，7,000+ 名学生），实质性提升了澳大利亚高等院校与评估机构设计执行因果实证的整体产能。
 > - **跨党派国家政策共识达成** 成功在工党与联盟党之间建立“证据超越党派政治”的政策共识，其模式直接启发 2016 生产力委员会和 2018 [[Gonski 2.0]] 报告，促成联邦政府在 2020 年正式注资 2,500 万澳元（与各州配套共 5,000 万澳元）设立国家法定机构 [[Australian Education Research Organisation\|AERO]]。

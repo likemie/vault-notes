@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **核心角色** 女性主义宏观经济学与性别反应型预算（Gender-Responsive Budgeting）的全球开创者。在跨国教育政策研究网络中，其理论成果常被国际组织援引，亦成为批判政策社会学者剖析新自由主义工具化收编女性解放议题的典型分析样本。
 > - **代表贡献** 揭示宏观经济模型的“性别盲视”（Gender-Blindness），开创国家公共财政预算的性别影响评估方法体系，系统阐明无偿照料劳动与正规市场经济之间的结构性依存关系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > [[OECD|经合组织]] 2006 年发布的性别政策专题报告系统总结了埃尔森的研究成果，指出对女性进行全方位的[[Human Capital Theory|人力资本]]投资不仅能够显著减少贫困，更能带来全社会生产率的跃升与公共资源的高效配置。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 449)]]
 >
 > *Gender and Economic Development: The Work of Diane Elson ... investment in women can directly reduce poverty, and it can also lead to higher productivity and more efficient use of resources.* (OECD, 2006)
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 主流新古典宏观经济学长期假定经济主体是同质、理性且免于照料负担的“经济人”，完全无视以女性为主体所承担的生育、抚育与照料等无偿社会再生产劳动。宏观财政与教育政策必须打破这一“性别盲视”假定，将再生产领域与生产领域同等视作国家经济运转的物质基底；唯有将无偿劳动予以量化核算并提供制度化公共补偿，才能实现实质性社会公平。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!citation-card] 女性主义宏观经济学批判与性别预算定位
@@ -113,7 +113,7 @@ updated: 2026-10-20
 > - **政策路径** 促成联合国、英联邦以及全球 60 余个国家政府将性别平等审查机制制度化植入财政预算与教育立法审批流程。
 > - **跨国传播与争议化** 其关于“对女性投资能够提升[[Total Factor Productivity|全要素生产率]]”的研究结论，被[[OECD|经合组织]]与[[World Bank|世界银行]]等国际多边组织广泛采纳，进而引发了批判学者关于女性主义诉求被新自由主义工具化收编的长期学术交锋。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 深度剖析经合组织如何收割埃尔森的研究，将女性主义平权矮化为服务于GDP增长的经济工具论。
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-10-20
 > > - **激进结构主义立场** [[Fazal Rizvi|法扎尔·里兹维]]等学者指出，埃尔森试图在资本主义国家体制内部推进性别预算的技术化尝试，极易被[[OECD|经合组织]]等新自由主义机构抽空反抗性内核，将女性平权改造成提升市场劳动力利用率的经济工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 > > - **埃尔森政策现实主义立场** 埃尔森强调，制度化性别预算并非最终归宿，而是实践层面上唯一能迫使掌握国家权力与财政大权的男性技术官僚认真审视女性生存处境的可操作制度杠杆。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 指出埃尔森关于女性投资带来经济效率的论述在进入国际组织官方语境后，导致教育正义被形式准入与[[Human Capital Theory|人力资本]]增值彻底替换。
 
 ---

@@ -68,7 +68,7 @@ updated: 2026-10-15
 
 这场论战并非口水战，而是以极高学术水平与文学修辞展开的长篇鸿篇巨制抗辩：
 
-> [!dev-timeline]- 论战过程与三轮文本交锋
+> [!dev-timeline] 论战过程与三轮文本交锋
 > - **1844-01 — 论战导火索：《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》引发震动** [[Horace Mann\|霍勒斯·曼]]在报告中赞美普鲁士教师的高超专业素质与无体罚的人道课堂，对本土[[Grammar School\|文法学校]]的残酷管理形成尖锐讽刺。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 > - **1844-09 — 第一轮交锋：波士顿 31 位校长发表 144 页《意见》** 校长协会联合签署并出版《对霍勒斯·曼阁下第七次年度报告的意见》（*Remarks on the Seventh Annual Report of the Hon. Horace Mann*），分为学校组织、阅读与词汇教学、算术教学、学校纪律与道德训育四个独立部分展开全盘反攻。（Downs, 1974）
 >   - 斥责曼对本土教育现状一无所知，指责其被普鲁士专制表象所蒙骗；
@@ -85,7 +85,7 @@ updated: 2026-10-15
 
 论战双方各执一词，展现了 19 世纪中叶两种截然对立的教育世界观：
 
-> [!citation-card]- 关键文本：波士顿校长的指控与[[Horace Mann\|霍勒斯·曼]]的辩护
+> [!citation-card] 关键文本：波士顿校长的指控与[[Horace Mann\|霍勒斯·曼]]的辩护
 > **波士顿校长的核心指控（1844）**
 > “无论在教育机构还是民事政府中，权威都是至高无上的基础……用所谓的‘爱与仁慈’取代教鞭，是在破坏神圣的道德法则；诉诸肉体惩戒乃是基于《圣经》明训并合乎人性真实状态的不可或缺之手段。”
 >

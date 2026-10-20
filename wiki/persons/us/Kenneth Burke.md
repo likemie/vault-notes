@@ -52,7 +52,7 @@ updated: 2026-10-16
 > - **核心角色** 在现代修辞学、符号互动与文化社会学网络中奠定了符号行动论与戏剧主义[[Analytic Framework|分析框架]]；系统阐明了人类语言、道德焦虑与集体心理排斥机制的微观运作。
 > - **代表贡献** 创立戏剧主义分析五要素（五位一体：行动、场景、行动者、手段、目的）；在《持久与变迁》（*Permanence and Change*, 1935）中系统阐发[[Scapegoat Mechanism|替罪羊机制]]（Scapegoat Mechanism），揭示社会如何通过将内部矛盾转嫁给牺牲客体来重获心理平衡。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 肯尼斯·伯克在 1935 年出版的《持久与变迁》中将最纯粹形态的替罪羊机制界定为：利用某种具有牺牲性质的承载客体，以仪式化方式卸除群体内部积累的罪咎与认知失调。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 >
 > *In Permanence and Change, published in 1935, Kenneth Burke described “the scapegoat mechanism in its purest form,” as “the use of a sacrificial receptacle for the ritual unburdening of one’s sins.”*
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类作为符号使用与道德秩序建构的动物，必然在面对社会规范破损与内部紧张时产生深层罪咎感；为了维系秩序的表象，群体周期性地演化出将自身缺陷、失败与禁忌欲望转嫁给特定个体的驱邪与替罪冲动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 
 > [!citation-card] [[Scapegoat Mechanism|替罪羊机制]]与集体罪咎卸载

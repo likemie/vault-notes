@@ -71,7 +71,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 批判性思维是一种有目的的、自我调节的判断过程；它展现为**解释、分析、评价、推论、说明和自我调节**六大核心认知技能，并由**追求真理、[[Open-Mindedness|思想开放]]、审慎分析、系统条理、思维自信、探究好奇与认知成熟**七大情意倾向所驱动；认知技能与情意倾向共同构成了理性公民与[[Lifelong Learning\|终身学习]]者的双元支柱。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 277–278)]]
 
-> [!citation-card]- “理想批判性思考者”共识画像
+> [!citation-card] “理想批判性思考者”共识画像
 > 理想的批判性思考者习惯性地具备好奇心、见多识广、信任理性、心智开放、灵活通达、公正评价、诚实面对个人偏见、审慎做出判断、乐于重新考虑、对问题表述清晰、在复杂事物中有序推进、勤于检索相关信息、合理选择标准、专注于探究并在情境许可的限度内坚持追求精确的结果。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 278)]]
 >
 > *The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit.* (Facione, 1990, p. 2)

@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **核心角色** 率先提出并系统阐述了比较教育学中的[[Financial-Intellectual Complex|金融-智识复合体]][[Construct|构念]]；深入解剖了以[[World Bank|世界银行]]为代表的跨国金融机构如何通过定向资助与实证垄断规训全球南方的教育政策议程。
 > - **代表贡献** 提出并命名“金融-智识复合体”（1992）；揭示国际援助机构放贷逻辑中技术官僚工具理性的铁板一块特征（1993）；与[[Martin Carnoy|马丁·卡诺伊]]合著《第三世界的教育与社会转型》（1990）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论萨莫夫的金融-智识复合体分析
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论萨莫夫的金融-智识复合体分析
 > 萨莫夫极具说服力地指出，世界银行是在推进知识与专业技能跨国化进程中运作的金融-智识复合体的核心操盘手。它通过招募受雇专家智库，建立起一种研究生产与教育融资深度汇流的权力机制。世界银行在全球教育的权力网络与决策流程中占据枢纽地位，以特殊方式深刻左右着发展中国家的学术研究与政策制定，并通过多重渠道操纵着[[International Education|国际教育]]政策[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 >
 > *Samoff argues persuasively that the World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 萨莫夫的核心思想在于**彻底揭露国际资本与技术官僚通过垄断[[Knowledge Production|知识生产]]实施的新型跨国统识**。他指出，以[[World Bank|世界银行]]为代表的国际金融组织绝非中立的资金借贷通道，而是一个高度一体化的[[Financial-Intellectual Complex|金融-智识复合体]]：它通过长期高薪聘用符合其意识形态的受雇专家，独尊新古典经济学的成本收益与生均收益率模型，将具有强烈阶级偏向的新自由主义紧缩处方包装为“客观唯一真理”，进而剥夺了全球南方国家自主定义教育发展优先级的制度主权。
 
 > [!citation-card] 世界银行放贷逻辑中技术官僚工具理性的铁板一块
@@ -138,7 +138,7 @@ updated: 2026-10-20
 > - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]与非洲本土智库的政策反思，其学术成果直接推动了受援国对国际金融机构“附加条件”的合法性质疑与政策自主权争取。
 > - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第四代批判冲突与宏观[[Paradigm|范式]]，征引卡诺伊与萨莫夫（1990）关于第三世界转型国家政治权力主导教育根本转型的经验比较研究。
 

@@ -89,7 +89,7 @@ updated: 2026-10-20
 > - **用途** 揭示 19 世纪立宪君主制与大资产阶级政权如何在推行全民初等普及义务的同时，通过阻断升学接口防范平民阶层向上流动，维系统治阶级的政治垄断地位。
 > - **边界** 严格区别于现代综合中学内部按能力测验进行的微观分轨（[[Tracking]]）；双轨学制是**学校体系之间（between-school）与教育秩序之间（between-orders）的法定阶级隔离**，平民子弟在进入初等学校的那一刻起，便在制度上被排斥在通往中等学术中学的通道之外。
 
-> [!citation-card]- 关键表述：作为阶级等级镜像的学校系统
+> [!citation-card] 关键表述：作为阶级等级镜像的学校系统
 > [[Victor Cousin\|维克多·库森]]所构想的理想学校系统，在本质上是一种初等教育后严格按社会阶级进行分选的学校体系：基础初等小学面向全体平民，高级初等小学面向工商业中产阶级，初级中学面向中上阶层青年，而选拔性的高级文理中学则专门保留给社会的最高统治精英阶层。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 29–30)]]；引自 Brewer (1971:95)
 >
 > *As to his ideal school system, Cousin ... envisaged a selective class system of POST-elementary schools: primary elementary schools for everyone, 'advanced elementary schools' for the 'middle class', lower-level secondary schools for 'young people of the middle and upper classes', and selective upper secondary schools for the 'upper ranks of society'.*

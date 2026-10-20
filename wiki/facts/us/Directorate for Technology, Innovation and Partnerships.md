@@ -112,7 +112,7 @@ updated: 2026-10-20
 > - **创新与技术生态处（Division of Innovation and Technology Ecosystems, [[Initial Teacher Training|ITE]]）** 负责领导“[[NSF Regional Innovation Engines|区域创新引擎]]”与大规模产学研研发联合体，专注于区域集群培育与产业链协同。
 > - **跨部门咨询委员会与产业顾问团** 由高科技跨国企业高管（涵盖 [[Academic Engagement Team|AET]] 领袖）、顶尖[[Grandes Ecoles|大学校]]长与地方经济发展官员组成，定期评估技术路线图与转化实效。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **“用驱动”阶段性资助模型（Use-Inspired Phased Funding）** 突破传统 NSF 单一课题组自由申报模式，推行“概念验证 $\to$ 团队组建 $\to$ 大额规模化落地”的阶段性里程碑资助（Milestone-based Funding）。
 > - **公私联合出资与风险共担杠杆** 要求参与企业和地方政府提供可观的对等配比资金（[[Matching]] Funds），以资本承诺检验商业转化前景。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 233)]]
 > - **破格立项与非共识评审保护** 引入“金券（Golden Tickets）”制度，允许单个评审在缺乏群体共识时对颠覆性、高风险提案行使保全立项权，打破传统同行评议的折衷平庸偏好。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **科研资助[[Paradigm|范式]]的历史性转向** 终结了战后 [[National Science Foundation|NSF]] 仅资助“好奇心驱动纯基础科学”的单一线性范式，确立“自由好奇心驱动 ＋ 战略应用导向”双轮驱动的国家科技资助新体系。
 > - **公私研发合作机制的大规模制度化** 将原本分散、小规模的企业赞助与政府资助，整合为具有国家战略指向的持久公私协同制度载体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
 > - **新型科研实体与资助工具实验田** 率先将 X 实验室、[[Focused Research Organization|FRO]]、金券制与[[Metascience|元科学]]抽签资助引入联邦资助体系，为全联邦科技机构的资助体制现代化提供实证样板。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]

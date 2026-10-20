@@ -53,7 +53,7 @@ updated: 2026-10-20
 > - **核心角色** 演化人类学与社会脑假说（Social Brain [[Hypothesis]]）的开创性学者，在灵长类梳毛行为、大脑认知负荷与人类群体规模研究中承担奠基性节点功能。
 > - **代表贡献** 提出[[Dunbar's Number|邓巴数]]（150定律），论证了大脑新皮质对人类稳定面对面社交规模的生物学硬约束。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 邓巴（Robin Dunbar）1947 年出生于利物浦并在牛津大学任教，他指出 150 人的大致上限不仅适用于原始部落，在罗马军团的战术编制以及现代企业的业务部门等诸多情境中同样发挥着作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 >
 > *Dunbar, who was born in Liverpool in 1947 and taught at Oxford, has noted that the rough upper bound of 150 individuals seems to operate in other contexts, including the size of military formations within the Roman army as well as modern business units in companies.*
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类大脑新皮质容量对个体能够维持的双向稳定社交关系施加了约 150 人的生物学上限；超出这一熟人圈规模的超大规模人类组织必须依赖语言、神话叙事与制度化象征来维持凝聚力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993; Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!citation-card] 语言作为社交梳毛的演化替代
@@ -98,7 +98,7 @@ updated: 2026-10-20
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 结合邓巴数生物学认知上限，论述大规模现代国家维系共同体叙事的必要性。
 
 ---

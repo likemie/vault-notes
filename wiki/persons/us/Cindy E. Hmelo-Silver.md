@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - **核心角色** 当代问题导向学习（[[Problem-Based Learning]], PBL）、计算机支持协作学习（Computer-Supported Collaborative Learning, CSCL）与[[Scaffolding\|认知支架]]时序理论的国际领袖。她长期致力于解构复杂系统中的深层因果认知建构；在[[International Education\|国际教育]]界关于探究教学有效性的历史论辩中，她与[[Clark A. Chinn\|克拉克·钦]]（[[Clark A. Chinn]]）两度扮演关键领导角色，系统击碎了认知负荷派将探究歪曲为“无指导放任”的预设，被誉为捍卫[[Constructivist Paradigm\|建构主义]]循证教学[[Paradigm\|范式]]的旗帜性学者。
 > - **代表贡献** 发表 PBL 领域的经典里程碑综述（Hmelo-Silver, 2004，引用近万次）；与 Duncan 和 Chinn 联合发表 2007 年对认知负荷学派的纲领性反驳论文；提出理解生物与生态复杂系统的“结构-行为-功能”（SBF）理论框架；深度构建[[Productive Failure\|生产性失败]]与[[Problem Solving\|问题解决]]的现代教学时序协同模型（Hmelo-Silver, Kapur, & Hamstra, 2018）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 辛迪·赫梅洛-西尔弗的系列工作为[[Inquiry-Based Learning\|指导式探究]]与问题导向学习确立了坚不可摧的认知科学底座。其研究阐明：配备了多维脚手架支持的探究教学不仅不会导致认知超载，反而能显著促进高阶因果推理与概念知识的长效保持。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2, 8, 10)]]
 >
 > *Hmelo-Silver has fundamentally shaped the learning sciences, providing rigorous evidence that scaffolding within inquiry-based and problem-based learning reduces cognitive load and maximizes deep conceptual understanding.*
@@ -103,7 +103,7 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 科学教育中的[[Problem Solving\|复杂问题解决]]绝非放任学生漫无目的地盲目试误，但更不能退化为剥夺学生能动思考的机械听讲。有效的学习环境必须依托多层次、自适应的[[Scaffolding\|认知脚手架]]（包含白板工具、[[Concept Mapping\|概念图]]、同伴协作规范与及时的微观讲授），将复杂的[[Wicked Problem|劣构问题]]空间结构化；通过“先让学生在有支持的环境中面对问题挑战并经历试错、随后由教师适时进行系统概念统整”的时序闭环，才能最大化落实深层理解与长效迁移。
 
 > [!citation-card] 论[[Inquiry-Based Learning\|探究式学习]]中脚手架支持的核心定位

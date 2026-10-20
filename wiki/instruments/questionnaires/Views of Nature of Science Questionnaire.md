@@ -74,7 +74,7 @@ updated: 2026-10-16
 > - **测量目的** 评估学生与教师对[[Nature of Science\|科学本质]]（Nature of Science, NOS）核心维度的理解水平，将被试的[[Formal Epistemology\|形式认识论]]观点划分为素朴观（Naïve）、过渡观（In Transition）与知情观（Informed）。
 > - **实施方式** 纸笔或在线开放式文本自陈作答，配合针对部分被试的面对面半结构化追问访谈，以澄清文字表述背后的真实[[Epistemic Stances\|认识论立场]]。
 
-> [!citation-card]- Lederman et al. 对 VNOS 开发逻辑与认识论立场的界定
+> [!citation-card] Lederman et al. 对 VNOS 开发逻辑与认识论立场的界定
 > 开放式问卷与访谈相结合的设计旨在避免强制选择式量表强加给被试特定哲学立场的弊端，使被试能够用自己的语言阐述科学是什么、科学知识如何产生以及科学主张如何被检验。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 638)]]
 >
 > *The open-ended nature of the VNOS items, coupled with follow-up interviews, avoids the imposition of a particular philosophical stance on respondents and allows individuals to elucidate their views on the nature of science and the epistemological underpinnings of scientific knowledge in their own words (Lederman et al., 2002).*

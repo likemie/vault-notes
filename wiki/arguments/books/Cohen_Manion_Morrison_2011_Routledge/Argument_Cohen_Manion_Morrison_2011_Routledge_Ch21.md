@@ -102,7 +102,7 @@ updated: 2026-10-17
 
 
 #### 概念地图
-> [!knowledge-map]- 第21章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第21章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_21_Concept_Map.jpg)
 
 ## 章节内容
@@ -483,7 +483,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 
 ---
 
-> [!example]- Box 21.2　访谈行为指南
+> [!example] Box 21.2　访谈行为指南
 > **基本态度**
 > - 访谈是人际事件，被访者是在帮忙而非被审问，避免说"我想知道…"
 > - 总结和凝练要点即表示尊重；给予接受信号而不评判；避免评判受访者或其回答
@@ -682,7 +682,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 >   - 将主题放回情境：放入整体语境或视域
 >   - 撰写综合摘要：准确捕捉现象本质
 
-> [!example]- 案例：Hycner（1985）现象学分析完整演示
+> [!example] 案例：Hycner（1985）现象学分析完整演示
 > 受访者与女友 Mary 在山中度假时经历惊奇的体验。以下展示从原始转录到主题簇的完整分析过程。
 >
 > **第一步：划定 18 个一般意义单位（Box 21.3）**
@@ -975,7 +975,7 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 > 9. 回答类别简单且一致
 > 10. 不直接问个人问题（如年龄、收入），而是问分组（如年龄段或收入区间）
 
-> [!example]- Figure 21.1　访谈实施方式
+> [!example] Figure 21.1　访谈实施方式
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_21-1_Interview_Administration_Methods.jpg)
 >
 > 展示各种访谈实施方式分类，包括面对面、电话、电子邮件、焦点小组和视频会议。
@@ -1006,37 +1006,37 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 
 ## 关键引用
 
-> [!citation-card]- Kvale 论访谈的交互主体性
+> [!citation-card] Kvale 论访谈的交互主体性
 > 访谈不是专门主观的，也不是专门客观的——它是主体间的（Laing（1967, p. 66））。访谈使参与者能够讨论他们对所生活的世界的解释，并表达他们从自身立场出发如何看待情境。由此看来，访谈不只是收集关于生活的数据，它本身就是生活的一部分，人际嵌入性贯穿始终。（第21章, p.409）
 >
 > *The interview is not exclusively either subjective or objective, it is intersubjective (Laing（1967, p. 66）). Interviews enable participants to discuss their interpretations of the world in which they live, and to express how they regard situations from their own point of view.*
 
-> [!citation-card]- Kitwood 论第三种访谈观
+> [!citation-card] Kitwood 论第三种访谈观
 > 解决方案是拥有尽可能明确的理论来考虑各种因素。对持这种观点的人来说，在传统意义上不存在好的访谈和坏的访谈——只有社会遭遇；好与坏只存在于解释这些现象的理论之中。（第21章, p.412）
 >
 > *The solution is to have as explicit a theory as possible to take the various factors into [[Accounts\|account]]. For those who hold this view, there are not good interviews and bad in the conventional sense. There are simply social encounters; goodness and badness are predicates applicable, rather, to the theories within which the phenomena are explained. (Kitwood, 1977)*
 
-> [!citation-card]- [[Fitness for Purpose\|适合目的]]的访谈选择
+> [!citation-card] [[Fitness for Purpose\|适合目的]]的访谈选择
 > 这里的核心问题是"适合目的"；一个人越希望获得可比较的数据——跨人群、跨地点——他的访谈就越趋向标准化和量化；一个人越希望获得独特的、非标准化的、个性化的关于个体如何看世界的信息，他就越趋向质性的、开放式的、非结构化的访谈。（第21章, p.414）
 >
 > *The issue here is of "fitness for purpose"; the more one wishes to gain comparable data – across people, across sites – the more standardized and quantitative one's interview tends to become.*
 
-> [!citation-card]- Kvale 论[[Transcription in Qualitative Research\|转录]]
+> [!citation-card] Kvale 论[[Transcription in Qualitative Research\|转录]]
 > 前缀 trans 表明状态或形式的变化；转录是选择性的转换。因此假装转录中的数据已经是经过解释以外的任何东西是不现实的。转录可以成为研究者和原始现场访谈情境之间不透明的屏幕。（第21章, p.446）
 >
 > *The prefix trans indicates a change of state or form; transcription is selective transformation. The transcript can become an opaque screen between the researcher and the original live interview situation. (Kvale（1996, p. 167）)*
 
-> [!citation-card]- [[Focus Group\|焦点小组]]的核心特征
+> [!citation-card] [[Focus Group\|焦点小组]]的核心特征
 > 焦点小组是一种[[Group Interview\|群体访谈]]形式，但不是访谈者和群体之间来回问答意义上的。相反，依赖的是小组内部的互动——小组讨论研究者提供的话题——产出集体而非个体观点。因此参与者互相交流而不是与访谈者交流。（第21章, p.464）
 >
 > *Focus groups are a form of group interview, though not in the sense of a backwards and forwards between interviewer and group. Rather, the reliance is on the interaction within the group who discuss a topic supplied by the researcher (Morgan（1988, p. 9）).*
 
-> [!citation-card]- [[Focused Interview\|聚焦访谈]]的独特价值（Merton and Kendall（1946, p. 541））
+> [!citation-card] [[Focused Interview\|聚焦访谈]]的独特价值（Merton and Kendall（1946, p. 541））
 > 对情境的预先了解明显减少了研究者面对的任务，因为访谈无需用于发现情境的客观性质。预先配备[[Content Analysis\|内容分析]]后，访谈者可以轻易区分案例的客观事实与情境的主观定义。因此他对"选择性回应"的整个领域保持警觉。
 >
 > *Foreknowledge of the situation obviously reduces the task confronting the investigator, since the interview need not be devoted to discovering the objective nature of the situation.*
 
-> [!citation-card]- 访谈不是日常对话
+> [!citation-card] 访谈不是日常对话
 > 与日常对话相比，访谈有特定目的，通常基于问题，问题由访谈者提出；只有访谈者可以表达无知，受访者则不能；回应必须尽可能明确和尽可能详细。访谈是一个被建构且通常经过专门计划的事件，而非自然发生的情境。（第21章, pp.409–410）
 >
 > *In contrast to an everyday conversation, it has a specific purpose, it is often question-based, with the questions being asked by the interviewer; the interviewer alone may express ignorance (and not the interviewee).*

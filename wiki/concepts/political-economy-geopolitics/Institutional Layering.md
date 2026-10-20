@@ -206,7 +206,7 @@ updated: 2026-10-20
 > - **巴西军政府时期的基层卫生运动（[[Subversives|颠覆者]]潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举跃升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
-> [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
+> [!critique] 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
 > - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
 > - **[[EU|欧洲联盟]]预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
 

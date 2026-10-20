@@ -32,7 +32,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **核心角色** 此人在概念、理论、方法、政策或争议网络中承担什么节点功能；独立贡献是什么。
 > - **代表贡献** 1–3 个最重要的贡献，wikilink 到 Concept / Theory / Method / Fact。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*
@@ -82,7 +82,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 用一段话概括此人最稳定、最有解释力的思想主张。聚焦可争辩的核心论断，不复述著作清单。
 
 %% 记录代表性思想引文。直接使用不折叠卡片（[!citation-card]），卡片标题直接采用具体思想主题或名言关键词，严禁添加“关键表述一/二/三”、“关键表述：”等自我说明性元叙述标签。 %%
@@ -102,7 +102,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **政策路径** 此人如何进入政策文本、标准、组织、改革或公共话语。
 > - **跨国／跨领域传播** 思想如何被翻译、再脉络化、商业化或争议化。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、延伸或批评此人的思想。
 
 ---
@@ -150,7 +150,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何批评此人的思想、方法或影响。
 
 > [!warning] 未解问题与边界

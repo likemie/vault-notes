@@ -63,7 +63,7 @@ updated: 2026-09-26
 > [!claim] 政策核心
 > InTASC 标准第 5 条明确确立“应用内容促进[[Higher-Order Thinking Skills\|高阶思维]]”标准，要求教师必须能够设计支持学生主动探究、批判性审视与[[Creativity\|创造性]]解决真实问题的教学情境与评价支架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **四大核心领域** 学习者与学习、学科内容知识、教学实践、专业责任（共 10 条核心标准）。
 > - **Standard 5（高阶思维）** 教师能将学科概念与真实跨学科问题结合，激发学习者的[[Critical Thinking\|批判性思维]]、创造力与协作解决问题能力。
 > - **配套测评工具开发** 联合 15 个州与 [[Educational Testing Service\|ETS]] 开发教师[[Test of Teaching Knowledge\|教学知识测验]]（TTK），摒弃客观题，全面采用教学情境生成性任务（Constructed-Response Items）与教学档案袋。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

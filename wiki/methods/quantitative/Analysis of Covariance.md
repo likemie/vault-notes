@@ -58,12 +58,12 @@ updated: 2026-10-15
 > - 变量类型：类别（[[Independent Variable\|自变量]]）/ 连续（因变量和协变量）
 > - 分数分布：正态
 
-> [!note]- ANCOVA 的核心逻辑
+> [!note] ANCOVA 的核心逻辑
 > ANCOVA 将因变量的总变异分解为三部分：协变量的效应、自变量的效应（组间差异）、以及残差。通过先移除协变量的效应，ANCOVA 能够减少组内误差方差，提高检验的统计功效，同时校正各组在协变量上的初始差异可能导致的偏差（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体与相近方法
 
-> [!tip]-
+> [!tip]
 > - vs [[Analysis of Variance\|ANOVA]] — ANOVA 直接比较组间均值；ANCOVA 在控制协[[Variable\|变量]]后比较调整均值。当各组在某一连续变量（如[[Pre-test and Post-test\|前测]]分数）上存在初始差异且该变量与[[Dependent Variable\|因变量]]相关时，ANCOVA 比 ANOVA 更合适。
 > - vs [[Multiple Regression\|多元回归]] — 多[[Meta-regression\|元回归]]使用连续[[Independent Variable\|预测变量]]；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
 

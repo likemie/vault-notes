@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者超越简单的“公众知识匮乏”假设，诊断数字媒介生态如何重构公众对科学事实与不确定性的理解与信任。
 > - **边界** 科学虚假信息不等于科学探索中暂定的理论假说或正常的学术争论；科学知识本身具有暂定性与演进性，对未经证实的初步结论的学术探讨不属于虚假信息。
 
-> [!citation-card]- 科学虚假信息的时代威胁
+> [!citation-card] 科学虚假信息的时代威胁
 > 科学虚假信息并非新现象，但媒体格局的深刻重塑意味着不准确、误导性乃至完全捏造的信息如今能够以庞大的体量和极高的速度裂变扩散。虚假信息在一定程度上助长了对疫苗的不信任，并扰乱了应对气候变化的公共讨论，给个体与整体社会带来严重损害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 >
 > *Scientific misinformation is not a new phenomenon, but changes in the media landscape mean that inaccurate, misleading and false information can now be shared in large volumes and at speed. False information has to some extent fuelled mistrust in vaccines and confused discussions about tackling climate change. This can result in harm to individuals and to society.*

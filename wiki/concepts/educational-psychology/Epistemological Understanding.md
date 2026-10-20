@@ -83,7 +83,7 @@ updated: 2026-10-20
 >
 > *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective dimensions of knowing... Cognitive and meta-epistemic understanding: understanding why an ideal or process is reliable (e.g., blocking bias), and understanding the boundary conditions under which it fails.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Epistemological Beliefs]]（认识论信念）：信念侧重于个体对知识确定性或来源的脱域主观认同；认识论理解强调反思性协调能力与因果机制理解。
 > - 不等于 认知操作技能：技能关注具体程序动作的熟练执行（如设置对照组）；元认识论理解则追问设置对照背后的因果阻断机制（如消除安慰剂效应）及其失效边界。
 > - 不等于 绝对怀疑主义：多元论时期的认识论理解容易误将主观性觉醒泛化为“人人皆对、无分优劣”，导致对理性论辩的彻底放弃；评价论则重建了基于证据与准则的理性裁决。

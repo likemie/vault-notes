@@ -174,7 +174,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > PISA 假定通过脱离特定国家课程大纲、立足真实生活情境的素养测评，结合跨国共同量表与联赛排名机制，能够为各国政策制定者提供衡量[[Human Capital Theory|人力资本]]成效的客观镜鉴，进而通过国际对标与[[Peer Pressure|同行压力]]倒逼各国推进以产出为导向的教育治理改革。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–448)]]
 
-> [!policy-design]- 测评方案与[[Construct|构念]]体系设计
+> [!policy-design] 测评方案与[[Construct|构念]]体系设计
 > - **三大核心轮换学科素养[[Construct|构念]]**
 >   - **阅读素养（Reading Literacy）** PISA 2000 年首轮以及 2009 年、2018 年的主测领域。测评聚焦学生理解、使用、评估、反思多源文本并参与阅读以实现个人目标、拓展潜能和融入社会的能力；国家政策层面的本土化学力重构详见专门条目：[[PISA Literacy]]。
 >   - **数学素养（Mathematical Literacy）** 2003 年、2012 年、2022 年的主测领域。考查个体在各种现实生活情境中将问题转化为数学表征、运用数学概念推理并解释数学解的能力，强调数学在现代社会决策中的实际效用。
@@ -217,7 +217,7 @@ updated: 2026-10-20
 > - **一线执行机构** 各参测国教育部或指定国家项目经理机构（National Project Managers, NPMs），负责本国[[Sampling Frame|抽样框架]]搭建、试卷多语种翻译[[Back Translation|回译]]质控、主试人员培训与标准化实地施测。
 > - **受试与受益对象** 各国抽样选取的 15 岁在校学生代表性样本；同时由学校校长与任课教师完成学校背景[[Questionnaire|问卷]]，由学生完成家庭背景与学习策略问卷。
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **纵向传导与[[Governing at a Distance|远程治理]]** PISA 通过量化排名、平均分与差距叙事实现超国家层面的“数据治理”，形成国家间[[Peer Pressure|同行压力]]与[[Multilateral Surveillance|多边监督]]，达成无须直接行政指令的“远处掌舵”（[[Steering at a Distance]]）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **多层[[Network Governance|网络治理]]协同** PISA 在维持民族国家名义教育主权的同时，催生了跨国与次国家主体共同参与的“多层网络治理”；主权国家官僚机构主动采纳 PISA 指标以重塑国内行政改革合法性，借助国际危机动员推行绩效问责改革。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 > - **动态反馈与数据罗生门** 成果发布体系由长篇技术报告、国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据（[[Rashomon Effect|罗生门效应]]）。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
@@ -226,7 +226,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **核心学力产出指标** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立的跨国均值（500 分）与标准差（100 分）量表，分设 6 个能力等级（Proficiency Levels），直观呈现拔尖率与学业不达标率。
 > - **过程与背景指标** 学生家庭社会经济文化地位指数（ESCS）、学校资源配置均衡度、[[School Autonomy|学校自主权]]、教师教学法倾向（如[[Inquiry-Based Learning|探究式教学]]与直接指导比例）。
 > - **情感与福祉指标** 学生学业焦虑度、学校归属感、[[Science Capital|科学资本]]、未来职业抱负以及身心生活满意度。

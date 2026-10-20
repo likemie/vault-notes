@@ -86,7 +86,7 @@ updated: 2026-10-20
 >
 > *...when Bildung in Germany, Culture Générale in France, Liberal Education in England or Klassiki Paedeia in Greece had basically the same ultimate aim; the preparation of intellectually, morally and aesthetically cultivated individuals, allegedly capable and willing to provide good service to their country and to mankind.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **现代微观学校教育（Schooling）** 学校教育以规定年限、班级授课、课程达标与文凭证书为核心机制；而 Paideia 是统摄终生的精神生长、城邦文化浸润与文明传承。
 > - 不等于 **纯粹书本知识记忆（Instruction / Didactics）** Paideia 要求心智认知与肉身实践（体育、音乐、修辞演说）的合一，反对脱离公共伦理行动的孤立知识记诵。
 > - 不等于 **近现代民族国家意识形态灌输** 虽具有强烈的公民培育取向，但 Paideia 的哲学顶点是超越特定统治权力的至善（The Good）、真理追求与自省生活（[[Examined Life]]）。

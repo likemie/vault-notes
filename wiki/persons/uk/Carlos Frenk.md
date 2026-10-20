@@ -47,7 +47,7 @@ updated: 2026-10-16
 > - **核心角色** 冷暗物质宇宙学模拟先驱；2026 年与[[Sheila Rowan\|希拉·罗文]]（Sheila Rowan）共同担任英国皇家学会《科学为社会：社会与科学如何相互塑造》（*Science for society: How society and science shape each other*）报告指导委员会联席主席。
 > - **代表贡献** 领导评估 1985 年[[Bodmer Report 1985\|博德默尔报告]]以来 40 年间英国科学与社会关系的深刻演变，主持提出适应数字时代与人工智能挑战的全国性科学参与倡议。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 探索关于我们世界的知识——科学事业的本质——处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 5)]]
 >
 > *The pursuit of knowledge about our world – the essence of the scientific endeavour – lies at the very heart of human civilisation. Science is not the preserve of a small group of accredited scientists; it belongs to all of humanity.*
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 科学参与不仅是提升公众科学知识的手段，更是公众行使知情权与参与社会决策的民主权利。科学家及其支持机构必须承担起知识分享的主体责任。面对从 1985 年每年 50 万篇激增至 2020 年代每年超过 330 万篇的科学论文出版量，以及数字网络信息环境下的注意力竞争，科学界面临的不仅是传播渠道更新，更是重建公众信任与维护理性对话的系统性工程。
 
 ---

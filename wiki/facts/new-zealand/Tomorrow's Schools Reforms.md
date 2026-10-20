@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - 1989 年 10 月：[[Cognition Education\|Multi Serve Education Trust]] 在 Tomorrow's Schools 改革启动之初成立，为学校提供交通、工资和财务行政支持([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])
 > - 1990 年 4 月：Lough Report 在改革实施约六个月后提出进一步压缩教育官僚体系，并建议把更多人事管理责任继续下放给学校，为后续围绕工资管理去中心化的争论奠定方向([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.14-15]])
 > - 1990 年代：围绕 bulk-funding 与学校工资应由中央还是学校直接管理的争论持续存在，导致工资合同长期以短周期方式续签，政策方向处于不稳定状态([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])

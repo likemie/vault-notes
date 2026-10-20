@@ -67,13 +67,13 @@ related_arguments:
 > [!claim] 政策核心
 > 《基础教育课程改革纲要（试行）》宣告了全国基础教育从“双基”知识传授向“[[Quality Education\|素质教育]]”与学生中心教学的根本转向，旨在构建开放、积极、互动的学习环境与更平等的[[Student-Teacher Relationship\|师生关系]][[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 54–55)]]。
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 摆脱[[Examination-Oriented Education\|应试教育]]取向，培育学生的创新精神、实践能力与[[Learner Autonomy\|自主学习]]态度，实现从知识灌输到综合素质发展的跨越[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
 > - **对象** 覆盖全国中小学校、教师、学生及教科书编写出版体系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 > - **工具** 国家课程标准、分层与国家/地方/学校三级课程管理、教科书审定制度、多元评价与教师专业发展培训。
 > - **约束方式** 采取中央顶层设计、大城市先行试点、偏远地区跟进推行以及跨国合作交流等混合推进机制[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 53–55)]]。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 这一改革“意味着从‘双基’（知识与技能）走向教育改革以及新型创新教学与学习方式的发展”[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
 >
 > *“has entailed a move from the 'two basics' — 'shuang ji' (knowledge and skill) — to educational reform and the growth of new and innovative teaching and learning approaches.”*
@@ -99,7 +99,7 @@ related_arguments:
 > - **执行主体与行动者** 中小学教师与校长 — 开展课堂教学创新、师生互动与校本研究。
 > - **政策工具** 217 册必修教科书（如人民教育出版社 PEP 及东南地区主要出版社） — 作为教与学的规范载体[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **大城市先行示范** 北京、上海、广州等发达城市的学校率先推进学生中心教学与课堂创新[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 55)]]。
 > - **偏远地区全面跟进** 内蒙古与甘肃省等中西部地区积极开展实践跟进与合作项目（如东胜试点）[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 55)]]。
 > - **教师层面的微观创新** 教师积极参与实验创新教学、高水平师生互动，并持续开展教学反思、研究与发表[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 53–54)]]。
@@ -121,7 +121,7 @@ related_arguments:
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **过程指标** 学生中心教学的覆盖率、师生互动质量、教师参与反思与研究的程度。
 > - **结果指标** 学生素质发展、教学[[Paradigm\|范式]]转变、西方对[[Chinese Learner\|中国学习者]]刻板印象的解构[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 55)]]。
 > - **文化指标** 教科书叙事对传统文化与[[Official Knowledge\|官方知识]]的塑造[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
@@ -148,7 +148,7 @@ related_arguments:
 > > - **提倡传统复兴立场（如 Yip, 2006）** 认为应从《论语》等传统智慧中汲取力量推进教育复兴[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 56)]]。
 > > - **激进批判传统立场（如 Yip, 2006）** 主张否定与清除传统儒学中的封建糟粕[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 56)]]。
 >
-> > [!axis]- 争议二｜[[Official Knowledge\|官方知识]]垄断 vs 多元文化现实
+> > [!axis] 争议二｜[[Official Knowledge\|官方知识]]垄断 vs 多元文化现实
 > > 讨论 2001 纲要指导下的教科书编写是否陷入了汉族中心主义与单一文化灌输。
 > >
 > > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge\|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding\|文化脱嵌]]与异化。

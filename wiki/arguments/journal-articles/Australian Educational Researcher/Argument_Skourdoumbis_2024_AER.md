@@ -109,7 +109,7 @@ citation_aliases:
 > [!claim] 核心主张
 > 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality\|价值中立]]的[[Evidence-Based Policy-Making|循证决策]]，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation\|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership\|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], CIS）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality\|因果关系]]”。
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
 > - **张力** 一方面，教师流失与短缺的核心原因是“工作量过大”和“行政[[Red Tape|繁文缛节]]”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（CIS）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
 > - **贡献** 运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach\|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement\|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
@@ -188,7 +188,7 @@ citation_aliases:
 
 ### 论证步骤一：教师短缺背景下“工作量危机”向“教学缺陷观”的政治置换
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 政策将“教师流失与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至[[Initial Teacher Training\|初始教师教育]]（ITE）机构，为强制嵌入外部标准课程制造合法性。
 
 > [!contrast-table] 实际劳动力市场状况 vs. 《强劲开端》政策表征
@@ -206,7 +206,7 @@ citation_aliases:
 
 ### 论证步骤二：神经科学作为“价值中立”知识的生物简化主义偏误
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 优先改革1强制将“大脑与学习”（脑科学）列为核心课程，预设该学说是客观、[[Value Neutrality\|价值中立]]且能解决教育痛点的“银弹”。然而，这种脑科学推理不仅完全排斥了社会文化与情境维度的教学法，而且极度简化了学习过程，直接违背了国际政策组织（如[[OECD\|经济合作与发展组织]]，Organisation for Economic Co-operation and Development, OECD）对脑科学过度科学化及被滥用风险的历史警示。
 
 > [!critique-logic] 生物学[[Determinism\|决定论]]与国际组织预警的冲突
@@ -224,7 +224,7 @@ citation_aliases:
 
 ### 论证步骤三：历史的沉默：神经推理与优生学、赤字话语的历史关联
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 政策文本对脑科学在历史上曾作为“压迫性技术”和“伪科学缺陷叙事”的黑暗历史保持绝对沉默。这种“科学确定性”极易在现实课堂中演变为针对低[[Socioeconomic Status|社会经济地位]]（Socio-Economic Status, SES）或少数族裔学生的缺陷标签，将社会不平等生理学化与遗传学化。
 
 > [!case] 神经推理与生物决定论的历史压迫案例
@@ -240,7 +240,7 @@ citation_aliases:
 
 ### 论证步骤四：问题表征的生产者：AERO的未发表证据与跨国“循证”网络
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）这一[[Educational Brokerage Agency\|证据中介机构]]深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
 
 > [!actor-grid] 循证政策移动的核心行动者与利益网络
@@ -256,7 +256,7 @@ citation_aliases:
 
 ### 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 CIS）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
@@ -272,7 +272,7 @@ citation_aliases:
 
 ### 论证步骤六：惩罚性问责的逻辑闭环：AITSL认证扩权与教育存在论转向
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 改革将认证机构 AITSL 的行政监控权力推向了新的高度。通过将强制课程、惩罚性资金划拨和毕业生合格标准绑定，建立起[[Performativity|表演性]]问责的逻辑闭环。这最终破坏了大学教师教育的[[Ontology\|本体论]]与存在论基础，从根本上消解了教学的专业性和灵活性。
 
 > [!proc] 惩罚性问责的制度死锁路径
@@ -306,27 +306,27 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 神经科学的简化主义与压迫风险
+> [!citation-card] 神经科学的简化主义与压迫风险
 > 单一且狭隘地关注基于大脑的方法不仅是简化主义的，而且还可能产生压迫性的技术。（p. 2）
 > 
 > The singular and narrow focus on [[Educational Neuroscience\|brain-based approaches]] is not only reductionist, but also potentially generative of oppressive technologies.
 
-> [!citation-card]- “什么有效”运动的意识形态本质
+> [!citation-card] “什么有效”运动的意识形态本质
 > “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。（p. 9）
 > 
 > The "what works" movement, whilst presenting itself as "VALUE free", is ideological in shape and intent and driven by vested interests.
 
-> [!citation-card]- 惩罚性问责的本质
+> [!citation-card] 惩罚性问责的本质
 > 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。（p. 2）
 > 
 > The standardisation of core curriculum, which will be tied to accreditation processes and graduate teacher standards, is underpinned by a punitive-accountability based approach.
 
-> [!citation-card]- 教育存在论的破坏与因果异化
+> [!citation-card] 教育存在论的破坏与因果异化
 > 这种强调重点的转变——即从将“教育视为人类沟通、意义建构和解释的事件”转向“[[Causality\|因果关系]]”——其蕴含的危险对于所有参与澳大利亚教师教育的人来说都具有深远的关联。（Biesta et al., 2015, p. 11; 引自 p. 10）
 > 
 > The danger in this shift in emphasis from viewing 'education as a human event of communication, meaning making and interpretation towards cause-effect relationships' is of profound relevance for all involved in teacher education in Australia.
 
-> [!citation-card]- 脑科学教育过度科学化和顺从性的危机
+> [!citation-card] 脑科学教育过度科学化和顺从性的危机
 > 尽管一方面神经科学可以“为教育提供信息”，但另一方面它“存在创建一个过度科学化和高度顺从的教育体系的风险”。（OECD, 2002, p. 17; 引自 p. 7）
 > 
 > Whilst on the one hand neurosciences can 'inform education', on the other it 'runs the risk of creating an education system which is excessively scientific and highly conformist'.

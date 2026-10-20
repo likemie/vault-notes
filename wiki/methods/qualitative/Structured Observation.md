@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体的独立行为、互动回合、时间片段、事件。
 > - **输出形式** 数值数据（频率、百分比、计数），可用于统计分析和跨情境比较。
 
-> [!citation-card]- Simpson & Tuson 的结构化观察要点
+> [!citation-card] Simpson & Tuson 的结构化观察要点
 > 结构化观察将花费大量时间准备，但数据分析应快速，因为分析类别已内建于计划表本身。因此，如果需要密切、详细的审查，时间间隔将非常短；如果需要较少的细节，间隔可以更长。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|(Cohen et al., 2011, Ch. 23, 23.2 节)]]
 
 ---

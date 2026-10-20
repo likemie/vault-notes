@@ -217,7 +217,7 @@ updated: 2026-10-20
 > - **同化整合意图（支配方）** 试图通过统编课程、学术认证与算法标准模板将主流[[Paradigm\|范式]]塑造为唯一正统（[[Argument_Yu_2024_CE\|Yu & Zhao, 2024]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。
 > - **主体性能动抵抗（边缘方）** 边缘主体调动本土经验、信仰与批判警觉，拒绝霸权垄断，将主导[[Discourse|话语]]相对化为多元文化之一。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 指出霸权概念在经验实证[[Operationalization\|操作化]]上的模糊性，以及难以精确衡量文化同意具体阈值的测量缺陷。
 
 ---

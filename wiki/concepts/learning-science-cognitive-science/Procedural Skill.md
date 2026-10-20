@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **用途** 作为评估教学干预与智能技术成效的核心[[Dependent Variable\|因变量]]；也是从低阶事实记忆向复杂高阶[[Problem Solving\|问题解决]]与批判性反思跨越的关键基石。
 > - **边界** 程序性技能专注于良构规则应用；若脱离上位概念理解与深层批判性审视，可能退化为机械[[Rote Learning\|死记硬背]]的操作主义。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 技能类认知结果反映了学习者执行标准化规则与程序性操作的熟练度。在 AI [[AI Agent in Education\|智能体]]自适应干预下，程序技能获得了高度稳定且显著的促进效应（$g = 0.391, p < .001$），证实了结构化分步反馈在降低外在负荷并促进图式自动化方面的强大效能。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6, 10）
 >
 > *Skill-based outcomes capture learners' proficiency in applying procedural knowledge and operational rules, demonstrating consistent, robust gains under adaptive AI [[Scaffolding]] through extraneous cognitive load reduction and schema automation.*

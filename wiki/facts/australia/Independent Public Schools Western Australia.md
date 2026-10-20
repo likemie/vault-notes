@@ -49,7 +49,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - **2010** — WA 开始引入 IPS 政策
 > - **至 2019** — 575 所学校转为 IPS 地位（Department of Education, 2019，引自 Keddie et al., 2020, IJLE, p.2）
 > - **2019** — Keddie et al. 研究团队开始对包括 WA 在内的四州进行访谈

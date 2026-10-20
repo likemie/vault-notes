@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体、组织、事件、文本或社会情境元素
 > - **输出形式** 深度描述、理论建构、类型学、案例分析和局部解释
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 在非概率抽样中，总体成员被选入样本的概率未知。某些成员肯定会被排除，另一些肯定会被纳入——即总体的每个成员没有被均等选入样本的机会。研究者有意地——有目的地——选择了总体的特定部分纳入或排除在样本之外。（第8章，p.155）
 >
 > *In a non-probability sample the chances of members of the wider population being selected for the sample are unknown. Some members of the wider population definitely will be excluded and others definitely included.* (Ch. 8, p. 155)

@@ -169,7 +169,7 @@ updated: 2026-10-20
 > > - **Philippe C. Schmitter（1974）** 西欧新法团主义源自公民社会的自主联合与自下而上妥协，而国家法团主义是威权国家的专制移植。
 > > - **[[Carlos Alberto Torres]]（1991）** 在拉美外围国家，国家法团主义是统治阶级建立代用国家、阻碍大众阶级意识觉醒的霸权武器。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 阐明国家法团主义在 20 世纪拉美的维稳功能，同时指出新自由主义市场化削弱了其物质基础，迫使国家转向更加裸露的市场规训。
 
 ---

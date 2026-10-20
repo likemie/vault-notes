@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等实体晶圆制造厂，向 MOSIS 提供[[Multi-Project Wafer|多项目晶圆流片]]配额与标准[[Process Design Kit|工艺设计套件]]（PDK）。
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。
 
-> [!pathways]- 独特的多项目晶圆（MPW）流片机制
+> [!pathways] 独特的多项目晶圆（MPW）流片机制
 > - **设计与制造解耦（Design-Fab [[Cognitive Decoupling|decoupling]]）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
 > - **多项目晶圆共享拼版（Multi-Project Wafer, MPW）** 将数十甚至数百个不同大学和机构提交的微型芯片设计合并到同一套高昂的光刻掩膜版（Mask Set）上，使各项目平摊掩膜和晶圆制造成本。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **网络化敏捷提交流程（[[ARPANET]]/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 体系成效指标
+> [!indicators] 体系成效指标
 > - **资源与项目规模** 累计完成超过 60,000 个芯片设计项目的流片验证，支持了数万名全球芯片设计师的工程实践。
 > - **学术与[[Disciplinary Institutionalization|学科建制化]]** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 [[VLSI Project|VLSI]] 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
 > - **全球半导体产业分工重组** 推动半导体产业由纵向一体化（IDM）模式演变为“设计（Fabless）—代工（Foundry）—封测（OSAT）”的全球精细化分工网络。

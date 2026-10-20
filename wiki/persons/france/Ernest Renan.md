@@ -59,7 +59,7 @@ updated: 2026-10-20
 > - **核心角色** 现代公民民族主义（Civic Nationalism）理论的奠基性先驱，在破除种族主义血缘国家观、确立主观精神契约国家观中承担里程碑节点功能。
 > - **代表贡献** 提出将民族定义为[[Everyday Plebiscite|每日公民投票]]，强调共同历史牺牲记忆与当下共同生活意愿。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 1882 年，出身布列塔尼渔民后裔的法国哲学家欧内斯特·勒南（Ernest Renan）在巴黎索邦大学发表了题为《什么是民族？》的著名演说。他是最早试图将民族概念与狭隘的种族或族裔身份区分开来的学者之一，指出将种族与民族相混淆是“极其严重的错误”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 >
 > *In 1882, Ernest Renan, a French philosopher who was the descendant of fishermen, delivered a speech at the Sorbonne in Paris that was titled “Qu’est-ce qu’une nation?”... He was among the first writers to attempt to distinguish the concept of a nation from a more limited or narrow sense of ethnic or racial identity, noting the “graver mistake” occurs when “race is confused with nation.”*
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 民族本质上是一种高级的道德意识与精神原则（Spiritual Principle），它以过去共同付出的历史牺牲与荣耀为先决条件，并在当下通过全体成员明确表达的共同生活意愿来维系；民族的存在犹如一场“每日的公民投票”，要求公民超越种族、血缘与狭隘宗派利益，持续承诺共同体的未来。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!citation-card] 勒南论民族作为每日的公民投票
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
 > - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
 
 ---

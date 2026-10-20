@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **1970–1971 — 研究框架设计与跨国指标构建** [[Edmund King|埃德蒙·金]]与团队成员（C. H. Moor, J. A. Mundy 等）制定统一的跨国比较维度，重点界定后义务教育的“三维结构”：学术型学术路径、全面技术/职业路径与边工作边培训的在职学徒路径。
 > - **1972–1973 — 五国多中心田野[[Fieldwork|实地调查]]** 深入英、法、德、意、瑞五国的数十所不同类型学校与培训中心，发放数千份学生与教师调查[[Questionnaire|问卷]]，并对教育行政官员、雇主代表及工会领袖进行[[In-depth Interview|深度访谈]]。
 > - **1974 — 第一阶段成果出版** 出版《后义务教育：西欧新分析》（*Post-Compulsory Education: A New Analysis in Western Europe*, [[Sage]] Publications），系统呈现五国青年升学分流现状与制度瓶颈。

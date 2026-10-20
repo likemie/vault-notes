@@ -101,7 +101,7 @@ updated: 2026-10-16
 > [!question]
 > 政府、大学和企业之间的合作关系正受到前所未有的关注。各国面临如何将大学产生的知识通过[[Technology Transfer\|技术转移]]和产业合作转化为经济与社会价值的共同挑战。与此同时，全球、技术和社会经济格局的持续变化要求[[University-Industry Collaboration\|产学合作]]社区不断理解最新趋势、新兴问题以及建立有效伙伴关系的经验。2019 年，牛津大学与大学-产业示范伙伴关系（University-Industry Demonstration Partnership，[[University Industry Demonstration Partnership\|UIDP]]）联合举办了首届 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]]，汇集了来自英国、美国、欧洲及其他地区的 149 名大学、企业和政府高层，旨在识别新的、更好的合作方式并明确需要解决的关键议题。
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 149 名来自大学（76 人）、产业（41 人）、政府（16 人）和界面组织（16 人）的高层代表，英国 74 人、美国 45 人、欧洲其他 24 人、世界其他 6 人。
 > - **形式** 三天密集讨论，包括专家小组会议和引导式分组讨论。
 > - **产出** 围绕十大关键议题的深入见解和行动建议——涵盖产学合作的景观变化、合作模式创新、超越传统伙伴、度量指标、人工智能（AI）应用、研发目标、中介角色、多样性、人才管道和公共沟通。
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > - **理论对齐** 与 Richard Lester（麻省理工学院，Massachusetts Institute of Technology，MIT）的框架一致——大学对本地产业的贡献方式取决于本地产业类型及其所处的产业生命周期阶段。
 > - **前提条件** 强有力的领导力和本地联盟（大学、产业、政府），发展共同的本地创新愿景和实现策略。信任和认同至关重要（pp.8–10）。
 
-> [!example]- 图1：Lester 大学对本地产业的四类贡献
+> [!example] 图1：Lester 大学对本地产业的四类贡献
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig1_Lester_Typology.jpg)
 
 > [!line-a] 趋势二：发展新的组织载体
@@ -242,7 +242,7 @@ updated: 2026-10-16
 > - **生物医学案例** 一家企业实验将其高通量筛选技术和化合物库开放给学术团体以加速药物靶点研究——数据和结果归学术方所有。企业希望通过在早期阶段建立生产性和基于信任的关系，促使学术界在商业化阶段回到该企业而非竞争对手（p.13）。
 > - **大数据共享的 [[King-Persily Model]]** 大量数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Gary King（哈佛大学）和 Nathaniel Persily（斯坦福大学）开发的 [[King-Persily Model]] 提供"互惠激励兼容"方案：企业与资深学者组成的独立委员会签署保密协议 → 委员会与企业共同商定[[Research Scope\|研究范围]]并发布提案征集 → 学术委员会根据学术与社会价值遴选提案，排除违反隐私、法律义务、竞争劣势等提案 → 获选研究者在保护数据隐私条件下访问数据，无需企业预先批准即可发表研究成果（pp.13–14）。该模型正在 [[Social Science One]] 中实施，由哈佛大学量化社会科学研究所孵化。
 
-> [!example]- 图2：King-Persily 产学合作数据共享模型
+> [!example] 图2：King-Persily 产学合作数据共享模型
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig2_King_Persily_Model.jpg)
 
 > [!line-a] 趋势六：将社会科学和人文学科整合进产学合作
@@ -320,7 +320,7 @@ updated: 2026-10-16
 > [!tension] 伙伴选择的关键因素 vs 现有度量的盲区
 > 调查显示影响企业选择大学作为战略伙伴的首要因素包括：大学领导者和研究人员的承诺、大学撬动公共研究资金的能力、知识产权条款和条件、大学与产业合作的声誉/记录，以及大学在目标领域的卓越地位。然而，现有度量指标对这些因素几乎不提供洞察——很多因素极难量化，如建立有效和信任的工作关系、确保内外部利益相关者的承诺和认同、以及对齐目标和期望（pp.21–22）。
 
-> [!example]- 图3：影响企业选择大学作为战略伙伴的因素
+> [!example] 图3：影响企业选择大学作为战略伙伴的因素
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig3_Partner_Choice_Factors.jpg)
 
 > [!success] 绩效评估框架：[[Logic Model\|逻辑模型]]与 [[University Industry Demonstration Partnership\|UIDP]] 指标指南
@@ -333,7 +333,7 @@ updated: 2026-10-16
 > - 指标需要关注评估结果和影响，而非仅关注投入——过多的会议、报告、专利可能并未为伙伴组织创造实际价值
 > - 指标应被纳入整体叙事中，使伙伴关系"活起来"（pp.23–24）
 
-> [!example]- 图5：UIDP 产学[[Partnership Continuum\|合作连续体]]——多面伙伴关系的特征
+> [!example] 图5：UIDP 产学[[Partnership Continuum\|合作连续体]]——多面伙伴关系的特征
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig5_Partnership_Continuum.jpg)
 
 ---
@@ -406,7 +406,7 @@ updated: 2026-10-16
 > > - **2000s** "强商业-强政府"方法（strong-business-strong-government）
 > > - **2010+** 转向[[Netherlands Top-sector Policy]]（顶级行业）和使命驱动政策，包含三要素：通用创新轨道、顶级行业政策、风险与种子资本（pp.31–32）
 >
-> > [!stat-cards] 2013–2017 年关键数据
+> > [!stat-cards]- 2013–2017 年关键数据
 > > - **8 → 4** 全球竞争力排名位次
 > > - **1.93% → 1.99%** 研发强度（仅微升 0.06%，2014 年以来几乎未变）
 > > - **€622M → €1.25B** 公私合作项目规模翻倍
@@ -493,12 +493,12 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 
 ## 关键引用
 
-> [!citation-card]- 峰会核心目标
+> [!citation-card] 峰会核心目标
 > 峰会汇集了来自领先大学、企业和政府的 149 名高层领导和管理者，来自英国、美国、欧洲及更远地区，以识别新的、更好的合作方式以推进人类福祉，以及需要解决的关键问题。（pp.2）
 >
 > Original: The University of Oxford in the UK, and the University-Industry Demonstration Partnership ([[University Industry Demonstration Partnership\|UIDP]]) in the US, joined forces in 2019 to develop and host the inaugural [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]]. This brought together 149 senior leaders and managers from leading universities, companies and governments from the UK, US, Europe and further afield, to identify new and better ways to partner to advance the human condition and key issues that need to be addressed.
 
-> [!citation-card]- 研发目标的核心教训
+> [!citation-card] 研发目标的核心教训
 > 荷兰经验表明，研发量不是改善创新和经济结果的重要驱动力，而是[[Systems of Innovation\|创新系统]]的质量和强度——不仅生成新知识，而且扩散和利用它。
 >
 > Original: There was a suggestion that the volume of R&D was not the important driver of improving innovation and economic outcomes, but the quality and strength of the innovation system in not just generating new knowledge, but also in diffusing and exploiting it.

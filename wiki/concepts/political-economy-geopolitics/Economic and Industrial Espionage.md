@@ -60,7 +60,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - 1450–1550 年：威尼斯出现原始专利法，表明对知识产权的争夺早于工业时代（Prager, 1944; 引自 Partaken, 2022, p.77）
 > - 18 世纪：英法之间围绕煤燃料技术[[Knowledge Transfer\|知识转移]]的工业间谍（Harris, 1998; 引自 Partaken, 2022, p.77）
 > - 1970 年：专利合作条约（Patent Cooperation Treaty）由八国签署，国际专利法律体系开始建立([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.70]])
@@ -81,7 +81,7 @@ updated: 2026-10-16
 
 ## 实证发现
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 欧洲学术专利中 60%–81% 为工业公司所有；美国大学拥有 68.7% 的学术专利（Lissoni, 2012; 引自 Partaken, 2022, p.71）
 > - FBI 调查的 165 家公司中 50% 承认知识产权被盗，95% 怀疑中国（Chon, 2015; Dean, 2015; 引自 Partaken, 2022, p.79）
 > - FBI 截至 2019 年 7 月约有 1000 项对中国知识产权盗窃的调查（AFP, 2019; 引自 Partaken, 2022, p.79）

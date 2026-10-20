@@ -93,7 +93,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > INES 的核心运行假说认为：跨国教育治理无法依赖抽象的人道宣言或强制性的主权法令，而必须通过“[[Governing by Numbers\|数字治理]]”将各国教育现实翻译为跨国通用的标准化数值；跨国横向比较能够构成促进国内教育变革的最强引擎，促使成员国在“警示指标”与[[Peer Pressure|同侪压力]]下自愿重组国家教育体制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 6–8)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 收集、加工、改进与发布教育及相关领域的国际统计指标（Bottani, 1996, p. 279），为成员国决策者提供如同汽车仪表盘般直观的宏观预警信号。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
 > - **覆盖对象** 国家与地方教育系统的全域要素，涵盖早期幼教、K-12 基础教育、职业教育与高等教育。
 > - **网络化组织形态（Networks）** 采取扁平化的“志愿网络群”架构：
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **1973–1987 — 前期孕育与概念试错期** 1973 年 [[OECD]] 发布《指导公共政策决策的[[Performance Indicators\|教育指标]]体系》，但因理论模型过于繁复（内外生[[Variable\|变量]]无法分解）且缺乏可用数据而完全流产；1983 年美国《国家处在危险之中》重燃指标狂热；1987 年华盛顿跨国专家会议正式达成共识，宣布“国际基准比较已成为提升教育质量的不可或缺要素”。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]
 > - **1988–1991 — INES 创立与大会建制探索期** 1988 年 INES 正式启动。1989 年奥地利塞默灵（Semmering）第一届全体大会编制出 160 项初始指标，因不可管理被大幅删减；1991 年瑞士卢加诺（Lugano）第二届全体大会经过白热化博弈，将指标压缩至约 50 项“理想指标”，并在此遭遇历史性分水岭——政治决策者强力击败学术统计学家的保留意见，强行决定将“学生[[Academic Achievement\|学业成绩]]”纳入核心指标体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 11–12)]]
 > - **1992–1999 — 《[[Education at a Glance\|教育概览]]》常态化与产出导向奠基期** 1992 年首版《教育概览》正式出炉；1995 年芬兰拉赫蒂（Lahti）召开第三届全体大会；INES 逐步从学术探索转向例行公事化的高阶政策供给，并直接催生了 1990 年代末启动策划的[[PISA\|国际学生评估项目]]（[[PISA]]）。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 14, 17)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入指标（Inputs）** 各国公共与私人教育支出占国内生产总值（Gross Domestic Product，GDP）比重、生均经费、师生比。
 > - **过程与环境指标（Processes）** 法定教学时间、教师薪资结构、[[School Autonomy\|学校自主权]]配置。
 > - **产出与结果指标（Outputs & Outcomes）** 中学与高等教育完成率、青年劳动力就业溢价、跨国标准化认知测试得分。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 9)]]

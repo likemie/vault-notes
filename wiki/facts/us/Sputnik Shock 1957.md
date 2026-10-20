@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 制度创设与治理影响维度
+> [!indicators] 制度创设与治理影响维度
 > - **国家颠覆性创新策源地诞生** 直接促成了 [[DARPA]]（ARPA）与 [[National Aeronautics and Space Administration|NASA]] 的成立，开创了绕过传统军种官僚体制、由技术卓越项目经理自主规划并主导高风险研究的“DARPA 模式”，为此后数十年的互联网、半导体、隐身技术与全球定位系统（GPS）奠定体制基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 > - **白宫顶层科学顾问体制确立** 促成了 [[President's Science Advisory Committee|PSAC]] 的正式运作，使大学学术领袖直接进入总统核心智囊圈，为冷战战略决策注入深厚的科学理性支撑。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **联邦介入地方教育的合法化** 彻底打破了美国自建国以来联邦政府不直接干预地方基础教育的政治惯例，将教育预算在法律与财政上正式确立为国家安全与国防开支的法定组成部分。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]

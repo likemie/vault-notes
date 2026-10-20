@@ -87,7 +87,7 @@ updated: 2026-10-20
 >
 > 经典思维导图常容易引导学习者沿着语义临近的既有范畴发散，通过将思维导图与随机刺激概念组合技术相结合（Random-Map Technique），能够强制打破习惯性语义联结，显著提升创意生成的独创性水平。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10; Malycha & Maier, 2017)]]
 
-> [!boundary] 概念边界辨析
+> [!boundary]- 概念边界辨析
 > - **不等于 [[Concept Mapping|概念图]]（Concept Mapping）** 概念图基于 Ausubel 有意义学习理论，采用多中心网状拓扑，要求在连线上标注命题连接词（Linking words）并建立横向交叉连接（Cross-links）；思维导图围绕单一中心呈树状辐射，无严格命题语法约束。
 > - **不等于 [[Argument Mapping|论证图]]（Argument Mapping）** 论证图依循非形式逻辑的论辩语法（主张、理由、保证、证据、反驳），强调推论链条的严密性与证据支持度；思维导图强调自由联想的发散性与多样性。
 > - **不等于 自由随手涂鸦（Doodling / Sketching）** 思维导图保留了严格的放射状树形层级结构与关键词约束，属于结构化的空间[[Graphic Organizer|图形组织器]]，而非完全无规则的视觉素描。
@@ -117,7 +117,7 @@ updated: 2026-10-20
 > 4. **视觉强化编码（Color & Visual Coding）** 运用不同色彩区分思维板块，嵌入简笔图标强化视觉注意与语义双重编码（[[Dual Coding Theory]]）。
 > 5. **放射状自由联结（Radiant Association）** 鼓励发散式联想，摆脱传统线性笔记的书写定势，促进跨范畴思维跳跃。
 
-> [!logic-map] 思维导图认知负荷释放与发散生成机制
+> [!logic-map]- 思维导图认知负荷释放与发散生成机制
 > ```mermaid
 > flowchart TD
 >     PROMPT["核心探究任务 / 问题空间"] --> CENTER["中心视觉锚点 (Central Node)"]

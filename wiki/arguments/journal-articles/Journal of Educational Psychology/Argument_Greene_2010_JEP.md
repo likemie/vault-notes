@@ -156,7 +156,7 @@ issuing_organization: ""
 > *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
 > *来源：本研究表 1（p. 235）。*
 
-> [!warrant] 推理桥梁
+> [!warrant]- 推理桥梁
 > EOCD 并非把 Kuhn 的阶段逐项合并或拆分，而是用三个维度重新描述不同认识论位置：现实主义表现为 SC、JA、PJ 均强；认识到知识并非简单且确定后，个体可能转向依赖权威的教条主义（SC 弱、JA 强、PJ 弱），或依赖个人经验的怀疑主义（SC 弱、JA 弱、PJ 强）；理性主义则表现为 SC 弱、JA 与 PJ 中等。作者指出，现实主义近似 Kuhn 等人的绝对主义，怀疑主义近似[[Pluralism|多元主义]]，理性主义近似评价主义（pp. 237–238）。
 
 > [!contrast-table] 表2：[[Epistemic and Ontological Cognition\|认识论与本体论认知]]模型（Model of Epistemic and Ontological Cognition）
@@ -170,7 +170,7 @@ issuing_organization: ""
 > *核心看点：表中的教育水平分布是作者根据既有研究提出的“educated guesses”，属于待检验预测，而非本研究已经证实的发展规律。*
 > *注：SC=简单与确定知识（Simple and Certain Knowledge）；JA=权威辩护（Justification by Authority）；PJ=个人辩护（Personal Justification）。来源：本研究表 2（p. 238）。*
 
-> [!warrant] 概念拓展：良构与劣构领域
+> [!warrant]- 概念拓展：良构与劣构领域
 > 作者引入了领域差异的视角来解释学生认知发展的不平衡性：
 > - **良构领域（Well-structured domains，如数学）** 拥有明确的规则和唯一的标准答案。
 > - **劣构领域（Ill-structured domains，如历史）** 充满了相互冲突的观点和模糊的边界，没有绝对的标准答案，需要权衡多方证据。
@@ -195,7 +195,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > [[Confirmatory Factor Analysis\|验证性因子分析]]显示，区分数学与历史两个领域的领域特定测量模型在数据拟合度上显著优于将两学科题目归为同一因子的领域一般性模型。在简单知识维度上，领域特定模型与领域一般性模型的拟合度存在显著差异（$\Delta\chi^2(10) = 245.56, p < .001$）。
 
-> [!warrant] 推理桥梁
+> [!warrant]- 推理桥梁
 > 若同一维度完全跨领域通用，数学与历史题项应可由共同潜[[Variable\|变量]]解释。三个领域一般模型均比相应的领域特定模型拟合更差：SC 的 $\Delta\chi^2(10)=245.56$、JA 的 $\Delta\chi^2(9)=342.10$、PJ 的 $\Delta\chi^2(9)=622.64$，均为 $p<.001$。结果支持领域特殊性，但不意味着两个领域的信念彼此完全独立。
 
 > [!example]- 图2：领域特定测量模型（简化示意）
@@ -228,7 +228,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 作者最终采用六类别强不变性模型，但模型选择证据并不一致：AIC 与 SABIC 倾向六类别，BIC 倾向五类别；Lo–Mendell–Rubin 检验不支持六类别，而 bootstrap likelihood ratio test 支持。六类别严格不变性模型还出现 Heywood cases 和大于 1 的因子相关，因此未被采用。就理论匹配而言，12个领域轮廓中8个符合预设位置，4个不清晰，且未识别出教条主义轮廓。
 
-> [!warrant] 推理桥梁
+> [!warrant]- 推理桥梁
 > FMM 提供了一种检验方式：若连续维度形成与 EOCD 相符的稳定组合，潜在类别的因子均值轮廓应接近理论预测。实际结果是多数、但并非全部轮廓匹配，因此作者将假设5判断为获得“混合支持”（mixed support），并建议通过修订题项、扩展维度和重抽样继续检验。
 
 > [!ref-table]- 表5：因子混合模型拟合指标（Factor Mixture Model Fit Indices, 部分摘录）
@@ -275,7 +275,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > [[Multinomial Logistic Regression\|多项逻辑回归]]显示，教育水平及课程成绩能够区分若干类别对，但并非每项[[Independent Variable|预测变量]]在每个对比中都显著。成绩变量为学生自报的数学与历史成绩，编码越高表示成绩越差。
 
-> [!warrant] 推理桥梁
+> [!warrant]- 推理桥梁
 > 回归结果说明类别轮廓与外部变量并非无关，但不能判断方向：教育经历可能影响认识论认知，也可能存在选择效应或共同原因；认识论轮廓与成绩的关系同样不能被解释为前者导致后者。作者明确指出，横截面数据不足以验证发展序列。
 
 > [!ref-table]- 附表：多项逻辑回归预测潜类别归属（Multinomial Logistic Regression, 部分摘录）
@@ -307,7 +307,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 理论整合的需求
+> [!citation-card] 理论整合的需求
 > Hofer 提出，个人[[Epistemology|认识论]]研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为[[Epistemic Cognition|认识论认知]]而运作。（Greene 等，2010，p. 234，转引 Hofer，2001，p. 377）
 >
 > *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition” (p. 377).*

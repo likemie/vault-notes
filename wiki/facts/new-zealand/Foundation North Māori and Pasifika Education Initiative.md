@@ -73,7 +73,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 该倡议预设了一套典型的风险投资逻辑假说：通过将大额长期资本（2,000 万新西兰元）集中投放于少数精选项目，深度派驻外部管理咨询团队开展能力建设，并强制建立基于严密因果逻辑的“[[Theory of Change|变革理论]]”（Theory of Change）量规与阶梯式里程碑考核，即可有效破解弱势教育瓶颈并实现高额的社会效益回报。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 显著提升毛利与太平洋岛民青少年的读写算术基准达标率、高级中学国家证书（NCEA）通过率及大学入学率，培育可持续运作的社区教育创新模式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 > - **两阶段项目遴选机制** 
 >   - **第一阶段（社区提案驱动）** 面向社会公开发起提案竞争，从收到的 82 份社区初步意向书中严格筛选出 7 个重点支持项目（包括 Manaiakalani 数字化学习网络、Starpath 大学升学路径倡议等）。
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **一线受助组织（毛利与太平洋岛民基层教育信托及学校）** 负责落地具体教学与社区帮扶方案，但需承担繁重的量化填报与指标审计负担。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 62–63)]]
 > - **目标受益群体（原住民与岛民中小学生）** 实验干预与[[Academic Achievement|学业成绩]]测验的最终对象。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **因果量规强制绑定** 资助资金分期拨付，严格与受助机构在读写、出勤、升学等特定量化指标上的达标进度挂钩。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 62)]]
 > - **外部咨询专家驻场辅导** 派遣具有商业背景的咨询人员入驻学校，协助重构内部管理流程与[[Performance Indicators|绩效指标]]体系。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 63–64)]]
 > - **双向文化摩擦与信息过滤** 一线社区工作者因疲于应付复杂的商业表格，往往通过选择性填报或策略性顺从抵御外部微观管理。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–80)]]
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入规模** 2,000 万新西兰元专款预算；5 年期合同周期；外部管理咨询与第三方评估服务采购开销。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 > - **过程考核指标** 各项目“[[Theory of Change|变革理论]]”节点推进率、董事会合规性报告提交率、里程碑审计通过率。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 62–63)]]
 > - **产出指标** 参与学生在高中 NCEA 等级的达标比例、大学入学率及青年领导力发展成效。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]

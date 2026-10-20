@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **核心驱动力** **权力（Power）**——即国家在对内施加意志以及对外巩固顺从和榨取资源的能力。超国家组织或跨国网络在此视角下仅是大国博弈与延伸外交政策利益的工具。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 > - **国家认同** 视国家为跨越阶级、性别或族群对立的均质化主体，利用“国家性”（statism）赋予政府代表整体利益进行国际博弈的合法性。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 417–418]])
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 大国构成了现存国际社会的全部，大国自身决定了国际社会的形态。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 
 > [!boundary]- 概念边界

@@ -85,7 +85,7 @@ updated: 2026-10-20
 > - **用途** 破解后世实证派学者将朱利安机械割裂为“单纯实证量化先驱”的史学曲解，揭示早期比较教育学如何在[[Scientific Method\|经验科学]]工具与宏观人类博爱伦理之间达成有机互构。
 > - **边界** 严格区别于 20 世纪下半叶[[Behaviorism|行为主义]]实证派（如 Noah & Eckstein）所主张的严格去价值化、纯假设检验与数理统计分析；准科学母题中的问卷充满指导性价值预设，本质上属于欧洲传统的“[[Geisteswissenschaften|人文科学]]（sciences humaines）”范畴。
 
-> [!citation-card]- 关键表述：教育比拟于解剖学的准实证科学奠基
+> [!citation-card] 关键表述：教育比拟于解剖学的准实证科学奠基
 > 马克-安托万·朱利安在 1817 年《工作计划》中确立了这一准科学母题的经典公理：教育与所有其他科学及艺术一样，皆由事实与观察构成。因此，为教育编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学；对比较解剖学的研究推进了人体解剖学，同样，对比较教育的研究必将为完善教育科学提供新的手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 12)]]；引自 Fraser (1964:40–41)
 >
 > *Education, as all other sciences and all the arts, is composed of facts and observations. It, therefore, seems necessary to form, for this science as one has done for other branches of knowledge, collections of facts and observations, arranged in analytical charts, which permit them to be related and compared, to deduct from them certain principles, determined rules, so that education might become almost nearly a positive science. ... Researches on comparative anatomy have advanced the science of anatomy. In the same way the researches on comparative education must furnish new means of perfecting the science of education.*

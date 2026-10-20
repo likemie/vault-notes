@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 题项（Item）与全量表（Scale）层级。
 > - **输出形式** 介于 0 到 1 之间的指数系数（如 $\text{I-CVI} = .89$）或介于 -1 到 1 之间的 CVR 比率。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 编制量表时，将初始题项提交给由学科专家和测量学者组成的专家组进行独立评审，计算内容效度指数（CVI）与内容效度比率（CVR），能够在实证施测前系统剔除偏离构念定义、表述模糊或存在理解歧义的低质题项。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
 >
 > *Content Validity Index provides a quantitative evaluation of item relevance by a panel of content experts, establishing rigorous content validity before preliminary administration.*

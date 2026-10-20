@@ -69,7 +69,7 @@ updated: 2026-10-17
 > [!claim] 政策核心
 > [[Schulqualität Allgemeinbildung|SQA]] 确立了以单所学校为质量发展主体的治理架构，通过设立校级质量协调员、推行三年期校本发展规划（含教学改进与组织发展双主题），并以督导与校长之间的成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）建立契约式发展机制。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20, 33)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 激发学校自我发展潜能，提升课堂教学质量与学生[[21st Century Skills and Competencies Discourse\|核心素养]]，将传统的行政事后审查转变为基于实证数据的持续改进循环。
 > - **适用对象** [[School Leadership\|学校领导]]者（校长）、全体任课教师、各联邦州[[School Inspection\|学校督导]]员（Schulinspektor/innen）以及区县教育行政主管。
 > - **政策工具**

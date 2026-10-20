@@ -76,7 +76,7 @@ updated: 2026-10-17
 > - **核心角色** 国际证据知情政策与实践（Evidence-Informed Policy and Practice, EIPP）运动与社会科学[[Systematic Review\|系统综述]]方法论的领军人物，开创性构建了多维[[Evidence Ecosystem\|证据生态系统]]框架、证据权重评价体系（[[Weight of Evidence Framework\|Weight of Evidence]]）以及[[Educational Brokerage Agency\|知识中介机构]]的自我循证评价标准。
 > - **代表贡献** 领衔主持[[EU|欧盟]]跨国教育循证项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统构建摆脱单纯线性推送的[[Evidence Ecosystem\|证据生态系统]][[Analytic Framework\|分析框架]]，系统提出研究应用之科学（The Science of Using Science）元研究议程。
 
-> [!citation-card]- [[Knowledge Mediation\|知识中介]]自我循证的核心关切
+> [!citation-card] [[Knowledge Mediation\|知识中介]]自我循证的核心关切
 > 知识中介机构旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我评估五大核心领域。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
 >
 > *If KBIs do not take an evidence-informed approach to their own work, they may be less effective than they could be. They may also lose credibility and trust by not following their own advice on using research evidence in decision making.*
@@ -114,7 +114,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 证据在政策与实践中的应用并非知识产品的被动消费过程，而是发生于复杂自适应[[Evidence Ecosystem\|证据生态系统]]之中的多维互动。单纯传播或建立人际联结并不能自然引发行为改变；[[Educational Brokerage Agency\|知识中介机构]]必须确立明确的[[Theory of Change\|变革理论]]，依据透明严谨的[[Evidence Standards\|证据标准]]提出适切的功效主张，并将自身工作有机嵌入包括问责体制在内的外层制度大系统。
 
 > [!citation-card] 证据生态系统的自省与元研究视阈

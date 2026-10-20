@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 欧洲比较教育学的百年演进由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动。比较教育不仅是国别制度的编年史，更是透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。米特主张，欧陆传统将比较教育定位为依附于[[Allgemeine Pädagogik|普通教育学]]但面向历史学与社会学的[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域；在政策参与上，他恪守[[Navigation Metaphor in Comparative Education|航海隐喻]]，主张学者应作为罗盘与地图的提供者，审慎提示多重航线备选方案与潜在暗礁风险，坚决拒绝沦为替政治掌舵或为行政[[Performance Indicators|绩效指标]]背书的技术官僚工具。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 95–98)]]
 
 > [!citation-card] 欧洲统一性与多样性的永恒张力
@@ -143,7 +143,7 @@ updated: 2026-10-20
 > - **跨国学会制度化运作** 在 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 长期维系跨国个人会员制与超政治中立原则，使专业学术学会免受冷战阵营对抗与国家行政权力的工具化操弄。
 > - **[[Intercultural Education|跨文化教育]]与比较教育融通** 推动德国教育学界在 1980 年代消解比较教育（宏观体制）与跨文化教育（微观族群互动）的人为割裂，开创了多元文化融合分析新取向。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特自身梳理欧洲比较教育两百年历史演进的集大成代表作，提供制度地理学、范式变迁、学会社会学与政策咨询光谱的权威阐释。
 
 ---

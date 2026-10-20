@@ -130,7 +130,7 @@ updated: 2026-10-20
 > - **用途** 约束中介机构对研究发现的过度概括与虚假因果声称，为决策者提供可信赖的功效分级参考，防范无效甚至有害的干预进入学校系统。
 > - **边界** 证据标准不等于僵化的单一方法等级制（如盲目将[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）视作唯一合法证据）；它涵盖从原始生产、透明报告到系统综合与外推解释的立体评价维度。
 
-> [!citation-card]- 证据标准的公信力基石
+> [!citation-card] 证据标准的公信力基石
 > 知识中介机构旨在推动决策者采纳研究成果；在传播精选的研究证据时，它们实际上就证据的可靠性与相关性做出了实质性主张，因此其做出此类功效主张的准则至关重要。若证据主张建立在薄弱或不一致的标准之上，[[Research Utilization\|研究使用]]者就可能被严重误导。功效主张不仅必须在研究方法上有据可循，更必须切中手头待决问题的实际情境。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 153–154)]]
 >
 > *In communicating selected research evidence, they are making claims about the [[Trustworthiness]] and relevance of research evidence, and so the criteria they use for making such evidence claims are key... Whatever the nature of the decision, there is the danger that if the evidence claims are based on weak or inconsistent standards (and so not justifiable), then the users of research may be misled.*

@@ -153,7 +153,7 @@ updated: 2026-10-17
 
 ### 论证步骤一　知识动员范式经历代际演进：由单向流水线技术交付转向自适应复杂生态网络
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 对跨领域主流[[Knowledge Mobilisation\|知识动员]]模型的横向考查证实，理论[[Paradigm\|范式]]已从将研究视作标准化货品的线性分发，转向关注伙伴关系、流体反馈及全系统统筹的复杂自适应生态。（pp.34–37）
 
 为厘清科学研究如何有效影响政策与实践，学界在过去二十年间[[Emergence|涌现]]出多维概念界定：
@@ -187,7 +187,7 @@ updated: 2026-10-17
 
 为了直观揭示三大范式在构架机制上的根本断裂，早期线性流程与关系模型的图式拓扑形成鲜明对照：（pp.35–36）
 
-> [!example]- 图2-1：知识动员线性模型（Knowledge mobilisation linear model）
+> [!example] 图2-1：知识动员线性模型（Knowledge mobilisation linear model）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-1_Knowledge_mobilisation_linear_model.jpg)
 >
 > *来源：Torres (2022, p. 35, Figure 2.1)，基于传统流水线传播理念构建。*
@@ -199,7 +199,7 @@ updated: 2026-10-17
 
 随着经验证据表明单纯依靠外部推力无法引发持续实践变革，关系模型改变了单向因果链条：（pp.35–36）
 
-> [!example]- 图2-2：知识动员关系模型（Knowledge mobilisation relationships model）
+> [!example] 图2-2：知识动员关系模型（Knowledge mobilisation relationships model）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-2_Knowledge_mobilisation_relationships_model.jpg)
 >
 > *来源：Torres (2022, p. 36, Figure 2.2)，基于社会互动与伙伴关系理论构建。*
@@ -218,7 +218,7 @@ updated: 2026-10-17
 
 ### 论证步骤二　跨领域主流模型显现认识论深化：从单向信息包装演进为功能重叠与双层嵌套生态
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 四大经典框架不仅映射了从卫生向教育领域的知识迁移，更展现了从行动者中介向功能重叠与生态双层嵌套的系统演进。（pp.37–46）
 
 为了实证检验理论演进轨迹，本项比较在公共卫生、社会经济政策与教育领域甄选了四组被广泛引用、经国际同行公认且开创了新视角的代表性主流模型，开展深度的个案剖析与横向比照。（pp.37–43）
@@ -227,7 +227,7 @@ updated: 2026-10-17
 
 Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组织指导性的[[Knowledge Transfer|知识转移]]战略框架。该框架围绕五个核心追问构建行动逻辑：（pp.37–38）
 
-> [!example]- 图2-3：知识转移战略框架（Knowledge-transfer strategy framework）
+> [!example] 图2-3：知识转移战略框架（Knowledge-transfer strategy framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-3_Knowledge-transfer_strategy_framework.jpg)
 >
 > *来源：Torres (2022, p. 38, Figure 2.3)，改绘自 Lavis et al. (2003, p. 223)。*
@@ -248,7 +248,7 @@ Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组
 
 Graham et al. (2006) 在卫生健康领域提出了里程碑式的知识到行动框架（Knowledge-to-Action, KTA）。该框架将转化过程结构化为“知识创造漏斗”与“行动循环”两套深度耦合的构件：（pp.38–40）
 
-> [!example]- 图2-4：知识到行动框架（[[Knowledge-to-Action Models\|Knowledge-to-Action Framework]]: Knowledge creation and Action cycle）
+> [!example] 图2-4：知识到行动框架（[[Knowledge-to-Action Models\|Knowledge-to-Action Framework]]: Knowledge creation and Action cycle）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-4_Knowledge-to-Action_framework.jpg)
 >
 > *来源：Torres (2022, p. 39, Figure 2.4)，改绘自 Crockett (2017) 与 Graham et al. (2006, p. 19)。*
@@ -263,7 +263,7 @@ Graham et al. (2006) 在卫生健康领域提出了里程碑式的知识到行�
 
 Levin (2004, 2011, 2013) 将[[Research Knowledge Mobilisation Model|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）系统引入教育领域。Levin 强调，[[Research Impact|研究影响力]]的实现绝非单一部门的工作，而是深嵌于生产、使用、中介与宏观社会背景四大语境之中：（pp.40–41）
 
-> [!example]- 图2-5：研究知识动员模型（Research Knowledge Mobilisation model）
+> [!example] 图2-5：研究知识动员模型（Research Knowledge Mobilisation model）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-5_Research_Knowledge_Mobilisation_model.jpg)
 >
 > *来源：Torres (2022, p. 41, Figure 2.5)，改绘自 Levin (2013, p. 11)。*
@@ -277,7 +277,7 @@ Levin (2004, 2011, 2013) 将[[Research Knowledge Mobilisation Model|研究知识
 
 Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推进至成熟的生态系统分析阶段：（pp.41–43）
 
-> [!example]- 图2-6：证据使用生态系统[[Analytic Framework\|分析框架]]的演进（Evidence use ecosystem framework）
+> [!example] 图2-6：证据使用生态系统[[Analytic Framework\|分析框架]]的演进（Evidence use ecosystem framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-6_Evidence_use_ecosystem_framework.jpg)
 >
 > *来源：Torres (2022, p. 42, Figure 2.6)，Panel A 采自 Gough et al. (2011)；Panel B 采自 Gough et al. (2018)；Panel C 采自 Gough et al. (2019)。*
@@ -321,7 +321,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 
 ### 论证步骤三　微观机制模型填补宏观理论盲区：决策行为转化、教师主体声音与教育创新深度协同
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 针对决策行为转化、教师主体声音与教育创新的微观模型，有效填补了宏观框架在因果作用机制与知识[[Heterogeneity\|异质性]]方面的理论空白。（pp.46–50）
 
 宏观模型虽展现了系统复杂性的全貌，但在解释微观行动者如何做出决策、教师如何消化研究文本以及证据如何转化为教学创新等机制上，依然留有理论空白。针对特定动员维度的前沿微观模型，构筑起从宏观生态到微观实践的完整桥梁。（pp.46–51）
@@ -330,7 +330,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 
 Langer et al. (2016) 将[[Evidence-Informed Decision-Making|证据知情决策]]（Evidence-Informed Decision-Making, EIDM）界定为：在规划、实施或调整政策、项目与服务前，系统咨询包括最佳可用研究证据在内的多元信息来源的审议过程。该框架的核心贡献在于将证据利用明确确立为引发行为改变的因果干预过程：（pp.46–47）
 
-> [!example]- 图2-7：证据知情决策行为改变框架（Evidence-informed decision-making framework）
+> [!example] 图2-7：证据知情决策行为改变框架（Evidence-informed decision-making framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-7_Evidence-informed_decision-making_framework.jpg)
 >
 > *来源：Torres (2022, p. 47, Figure 2.7)，改绘自 Langer et al. (2016, p. 28)。*
@@ -349,7 +349,7 @@ Langer et al. (2016) 将[[Evidence-Informed Decision-Making|证据知情决策]]
 
 Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认知反应。教师在审议教学时并非被动接受学术权威，而是置身于三种声音的动态碰撞之中：（pp.47–49）
 
-> [!example]- 图2-8：[[Research-Informed Teaching Practice\|研究知情教学实践]]中的“三种声音”理论（Research-informed teaching theory）
+> [!example] 图2-8：[[Research-Informed Teaching Practice\|研究知情教学实践]]中的“三种声音”理论（Research-informed teaching theory）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-8_Research-informed_teaching_theory.jpg)
 >
 > *来源：Torres (2022, p. 48, Figure 2.8)，改绘自 Cain (2015, p. 488)。*
@@ -371,7 +371,7 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 
 Rickinson et al. (2020) 基于澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
 
-> [!example]- 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
+> [!example] 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-9_Quality_Use_of_Research_Evidence_framework.jpg)
 >
 > *来源：Torres (2022, p. 49, Figure 2.9)，改绘自 Rickinson et al. (2020, p. 6)。*
@@ -390,7 +390,7 @@ Rickinson et al. (2020) 基于澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目�
 
 Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创新协同的[[Evidence-Innovation Knowledge Dynamics|证据-创新知识动力学模型]]。该模型旨在修复教育治理中长期存在的严重割裂——政策制定者往往一方面孤立谈论推广教育创新，另一方面片面强调提高证据使用，却未意识到两者的内在共生性：（pp.49–51）
 
-> [!example]- 图2-10：证据-[[Innovation Ecosystem\|创新生态系统]]中的知识动力学模型（Knowledge dynamics in the evidence-innovation ecosystem）
+> [!example] 图2-10：证据-[[Innovation Ecosystem\|创新生态系统]]中的知识动力学模型（Knowledge dynamics in the evidence-innovation ecosystem）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-10_Knowledge_dynamics_in_evidence-innovation_ecosystem.jpg)
 >
 > *来源：Torres (2022, p. 50, Figure 2.10)，改绘自 Révai (2020, p. 18)。*
@@ -419,7 +419,7 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 
 ### 论证步骤四　既有模型存在功能割裂与终极目标缺失：未来必须以学生与教师专业学习为目标导向完善生态
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 现有知识动员模型依然普遍残留着人为功能割裂、窄化研究证据及隐匿终极教育目标的短板；未来必须建构兼具战略目标与自适应特征的整体模型。（pp.51–52）
 
 对宏观主流模型与微观前沿视角的全面检视表明，历经二十余年发展的知识动员理论依然未能摆脱几大深层理论盲区：（pp.51–52）

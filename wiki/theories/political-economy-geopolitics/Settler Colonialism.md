@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **用途** 协助研究者理解[[Geopolitics|地缘政治]]整合政策中，人口大迁移与文化/语言消解背后的深层主权控制逻辑。
 > - **边界** 不适用于仅以经济掠夺为目的、不涉及大规模人口定居与土著文化替代的短期或间接殖民（传统殖民主义）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “灭绝种族是定居殖民主义固有的意图和后果，是定居者与土著人民之间遵循‘消除的逻辑’的冲突所导致的。”([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]])
 > 
 > *“Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a ‘logic of elimination’”* (Wolfe 2006, p. 387)

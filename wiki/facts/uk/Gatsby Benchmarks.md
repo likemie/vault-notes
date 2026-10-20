@@ -52,7 +52,7 @@ updated: 2026-10-15
 > [!claim] 核心政策架构
 > 盖茨比基准通过系统化指标，要求学校将职业生涯探索全方位嵌入学校战略、各科课堂教学与产业实践体验中。
 
-> [!policy-design]- 八大基准概览
+> [!policy-design] 八大基准概览
 > 1. **稳定的职业指导计划（A stable careers programme）**
 > 2. **学习与劳动力市场信息利用（Learning from career & labour market information）**
 > 3. **满足每位学生的不同需求（Addressing the needs of each pupil）**

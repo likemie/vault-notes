@@ -72,7 +72,7 @@ updated: 2026-10-09
 > - **同谋一致误导操纵** 7 名同谋被指示在特定轮次中一致给出显然错误的判断；真实受试者被安排在倒数第一或第二位发言，必须在目睹前面所有人公然说谎后做出判断抉择。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]
 > - **认知失调与结果分化** 面对感官证据与群体共识的直接冲突，受试者承受了剧烈的社交焦虑与认知失调；大量受试者选择违背自身眼睛所见而屈从群体谎言，仅少数独立者始终坚守客观事实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–132)]]
 
-> [!example]- 图 12-1：阿施从众实验视觉测试示意
+> [!example] 图 12-1：阿施从众实验视觉测试示意
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_12-1_The_Asch_Conformity_Experiment.jpg)
 
 > [!contrast-table] 独立判断模式 vs 从众屈服模式

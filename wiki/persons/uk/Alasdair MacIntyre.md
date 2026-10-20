@@ -58,7 +58,7 @@ updated: 2026-10-20
 > - **核心角色** 当代西方批判自由主义[[Value Neutrality|价值中立]]、情感主义与后现代道德虚无主义的思想泰斗。
 > - **代表贡献** 撰写哲学经典《追寻美德》（*After Virtue*），批判现代社会面临的“[[Pluralism|淹没性多元主义]]”（pluralism which threatens to submerge us all），主张重建能够维系道德生活的社群实体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 正如道德哲学家阿拉斯代尔·麦金太尔（Alasdair MacIntyre）所写，必须抵制那种“威胁着要将我们所有人淹没的多元主义”。正如他所阐明的，现在是时候去构建“能够维系道德生活的新型共同体形式”了。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 >
 > *It is the “pluralism which threatens to submerge us all,” as the moral philosopher Alasdair MacIntyre has written, that must be resisted. It is now time, as he made clear, to [[Construct]] “new forms of community within which the moral life” can “be sustained.”*
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Enlightenment|启蒙运动]]试图脱离具体目的论传统建立普遍道德规则的方案已彻底破产，导致现代社会沦为情感主义支配下的无休止价值争吵；那种以绝对包容为名解构一切实质善恶标准的“[[Pluralism|淹没性多元主义]]”最终会导致社会的道德虚无与瘫痪；人类唯有在拥有共享崇高目的、叙事统一性与内在卓越实践的真实共同体中，方能维系有意义的道德生活。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; Karp & Zamiska, 2025, p. 201)]]
 
 > [!citation-card] 麦金太尔论抵制淹没性多元主义与重建道德共同体
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 借用麦金太尔对[[Pluralism|淹没性多元主义]]的批判，论证技术共和国必须拥有肯定性的共有道德叙事。
 
 ---

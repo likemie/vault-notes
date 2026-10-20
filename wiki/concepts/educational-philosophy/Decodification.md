@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **用途** 帮助受教者揭示隐藏在日常生活现象背后的不公结构，促成[[Conscientization\|批判意识觉醒]]。
 > - **边界** 不等于传统的语法分析或文本解析；必须包含对现实社会权力的批判与实践指向。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 在解码过程中，学习者重新感知他们此前感知到的现实；通过对这一现实的批判性拆解，他们开始将其视为一个可被变革的人类产物。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 >
 > *Decodification is the analysis which takes place through dialogue, revealing the previously unperceived meanings of reality. (Freire, 2000, p. 105; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 61]])*

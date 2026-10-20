@@ -64,7 +64,7 @@ updated: 2026-10-20
 > [!claim] 核心行业倡导与政策赋权
 > ASDC 致力于打破非正式科学部门在政府部门划分中处于科技创新部（DSIT）、教育部（DfE）与文化体育部（DCMS）缝隙边缘化的困境，积极推动跨界政策认可、长期战略资助与财税激励平权。
 
-> [!policy-design]- ASDC 三大旗舰战略倡议
+> [!policy-design] ASDC 三大旗舰战略倡议
 > - **1. Science Centres for Our Future（科学中心守护未来开放信倡议）**
 >   在后疫情时期与能源危机背景下，联合全英 60 多所科学中心直接向英国财政部与内阁办公厅请愿，呼吁设立国家级长期战略运营基金（Emergency & Strategic Resilience Fund），防止大批地方科技场馆因高昂维护成本与能源开支激增而陷入倒闭危机。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
 > - **2. Valuing Inclusion [[Theory of Change]]（包容性变革理论与去中心化枢纽）**

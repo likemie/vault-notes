@@ -54,7 +54,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 从私下猜疑到制度化处理
+> [!dev-timeline] 从私下猜疑到制度化处理
 > - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America\|IBNA]] 描述为威胁 [[International Baccalaureate|IBO]] 未来的分离主义组织。
 > - **1981 年会前　董事会预警** 雷诺向 IBNA 董事会报告，部分校长担忧 IB 可能美国化，并认为纽约办公室资金和薪酬过高、正在挤占 IBO 资源。
 > - **会议期间　极端推论公开化** 一名亚洲学校校长主张，现有资源分配最终会使 IBO 崩溃或被美国方面完全接管。

@@ -152,7 +152,7 @@ issuing_organization: ""
 
 主流制度文献倾向于把所有经验调整都解释为旧体制在环境变化下的适应性再生产，导致理论无法有效识别常态历史时期的渐进质变。（pp. 4–6）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 间断均衡模型将制度历史机械割裂为长期绝对稳定与短期外部剧变两个脱节阶段，缺乏解释常规时期微小变迁持续累积进而引发系统实质性质变的理论工具。（pp. 6–9）
 
 #### 1. 主流理论将制度调整降格为稳态再生产，排除了内生渐进质变的可能性
@@ -166,7 +166,7 @@ issuing_organization: ""
 
 为打破稳态与突变的二元割裂，制度变迁必须依据过程与结果的二维属性空间重新分类。（pp. 8–9）
 
-> [!figure]- 图 1.1　制度变迁类型：过程与结果
+> [!figure] 图 1.1　制度变迁类型：过程与结果
 > ![](https://img.mylikemie.icu/sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_1_Types_of_Institutional_Change.png)
 >
 > 矩阵横轴代表变迁结果（延续 vs 断裂），纵轴代表变迁过程（渐进 vs 突发）。左上象限为适应性再生产，左下象限为幸存与回归，右下象限为传统理论关注的崩溃与替代。右上象限代表渐进转型，即看似缓慢零散的边际调整经过长期累积，最终导致整体制度形态与功能发生颠覆性质变。（pp. 8–9）
@@ -180,7 +180,7 @@ issuing_organization: ""
 
 解释制度内生演化，必须将分析聚焦于现代国家政权背书且具备法律约束力的正式规制安排。（pp. 9–11）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 制度是由社会第三方行使强制力保障的规制体系；规则制定者、执行者与遵守者之间的利益博弈，以及成文条文与基层实际执行之间的永久缝隙，构成了制度内生演进的核心策源地。（pp. 11–16）
 
 #### 1. 制度不是自发行动均衡，而是由第三方强制力维系的权力分配与规制体系
@@ -190,7 +190,7 @@ issuing_organization: ""
 > [!def] 作为社会规约的制度
 > 制度在本质上是[[Social Regime|社会规约]]（Social Regime），即由社会第三方强制力维系的规约体系，体现了全社会对特定群体行为的合法期待；这一架构将抽象的制度分解为规则制定者（Rule Makers）与规则遵从者（Rule Takers）之间的权力配置与支配关系。（pp. 11–14）
 
-> [!figure]- 图 1.2　作为规制的制度
+> [!figure] 图 1.2　作为规制的制度
 > ![](https://img.mylikemie.icu/sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_2_Institutions_as_Regimes.png)
 >
 > 外圈代表包容制度的社会整体与行使合法惩戒权力的第三方机构（如司法裁判与国家强制力）。内层由规则制定者、成文规则与规则遵守者三方构成。向下箭头代表自上而下的权威约束与规则界定；向上箭头代表基层行动者的变通执行、诉求反馈以及向规则制定者施加的修改压力。制度正是在自上而下的规制与自下而上的实践互动中动态运转的。（pp. 12–14）
@@ -216,7 +216,7 @@ issuing_organization: ""
 
 正式规则的外壳即使保持完好，行动逻辑的转变也会使制度在实质上发生根本重塑。（pp. 16–19）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > [[Theory of Gradual Institutional Change|渐进制度变迁]]在实践中表现为置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大形态；每种形态在规则存废、执行偏差与核心驱动力上都有清晰的因果特征。（pp. 18–31）
 
 #### 1. 制度形式的稳定性与实际运作相脱节，形成五种路径各异的渐进变迁形态
@@ -319,7 +319,7 @@ issuing_organization: ""
 
 战后资本主义在过去数十年经历的核心变迁是[[Liberalization|自由化]]（Liberalization）与市场关系的持续扩张，这一进程主要借助渐进方式完成。（pp. 31–34）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > [[Liberalization|自由化]]在当代资本主义体制中占据了制度演化的优势路径；相比于建立非市场化集体保护需要高昂的动员成本，市场化改革只需利用微观个体的自利退出冲动，便能以极低政治阻力自动扩散。（pp. 31–34）
 
 #### 1. 市场化退出的集体行动阻力远低于集体建制，使自由化能够顺水推舟地推进

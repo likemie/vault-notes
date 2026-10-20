@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **核心角色** 当代[[Cosmopolitanism|世界主义]]（Cosmopolitanism）与自由主义全球正义理论的代表人物。
 > - **代表贡献** 与阿玛蒂亚·森（Amartya Sen）共同发展[[Capability Approach|可行能力方法]]（[[Capability Approach]]）；在 1994 年发表《爱国主义与世界主义》（*Patriotism and Cosmopolitanism*），批判民族认同并倡导后国家世界公民理想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 政治哲学家玛莎·努斯鲍姆（Martha Nussbaum）同样将“爱国[[Pride in Learning|自豪]]感”斥责为“在道德上是危险的”，敦促我们的“首要效忠对象”应当是“全世界的人类共同体”。他们的纲领本质上是[[Post-Nationalism|后国家主义]]的。然而，那种彻底废除民族国家的举动既不可取也为时过早。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 >
 > *The political philosopher Martha Nussbaum similarly castigated “patriotic pride” as “morally dangerous,” urging that our “primary allegiance” should be “to the community of human beings in the entire world.” Their project, essentially, was post-national. That move, however, toward an abolition of the nation was ill-advised and premature, and the left has been slow in recognizing its mistake.*
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 道德效忠的核心应当赋予所有人类构成的普世世界共同体（Kosmopolitēs），而非偶然出生的民族国家；将爱国主义[[Pride in Learning|自豪]]感置于首位在伦理上是危险的，容易滑向道德沙文主义与宗派排他；教育与公共生活应当以普遍人类尊严与可行能力的平等等待为最高准则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
 > [!citation-card] 努斯鲍姆论爱国主义的道德危险与世界公民
@@ -100,7 +100,7 @@ updated: 2026-10-20
 > - **发展经济学与政策评估** 与森共同推动联合国开发计划署（United Nations Development Programme, UNDP）采用人类发展指数（Human Development Index, HDI）与可行能力框架。
 > - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 批判玛莎·努斯鲍姆等后国家世界主义学者解构爱国认同所导致的防御意志与公共凝聚力真空。
 
 ---

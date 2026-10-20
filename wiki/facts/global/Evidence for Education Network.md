@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **大区与主权中介节点（Regional & National Hubs）** 由各成员国具有法定授权或高度声誉的独立实体承担，如拉丁美洲中枢智利 [[SUMMA]]、大洋洲中枢澳大利亚 [[Evidence for Learning\|E4L]]、伊比利亚中枢西班牙 “la Caixa” 基金会等，自主制定本土研发与政策动员议程。
 > - **学术与方法论协同网络** 由跨国专家与评估团队组成，协调统一各语言版本工具包的方法学透明度标准（如证据[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Counterfactual\|反事实]]设计规范与[[Effect Size\|效应量]]计算校准）。
 
-> [!pathways]- 核心业务三大支柱（Three Pillars of EEN）
+> [!pathways] 核心业务三大支柱（Three Pillars of EEN）
 > 1. **证据利用与语境化（Evidence Use）** 系统转译并本土化全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究文献深层融合，打破单向西方中心主义局限。
 > 2. **证据动员与专业赋能（Evidence Mobilisation）** 将枯燥复杂的统计报告提炼为面向一线教师与校长的操作性指南；通过与教育部、教师学院合作，将证据规程嵌入在职培训课程体系。
 > 3. **本土证据生成与孵化（Evidence Generation）** 面对发展中国家高水平干预稀缺的挑战，资助与指导本土研究团队开展严谨的前置试点（Pilot Studies）与因果实验，填补全球南方因果实证空白。

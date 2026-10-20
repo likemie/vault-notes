@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 朱利安主张教育是整个社会大厦的真正基石与道德重生的源泉。其思想统一于三大相互支撑的核心支柱：一是将教育学与比较教育学构建为类似于比较解剖学的准实证科学，通过客观搜集各国经验事实编制分析图表，科学诊断教育机体的健康与患病断层，为审慎的制度借用提供理性依据；二是确立教育预防论，坚持经验事实调查全面服从于服务全人道德教化与预防流血暴力革命的政治伦理目标；三是构筑跨国教育共同体与[[Perpetual Peace\|世界和平治理]]蓝图，超越 19 世纪狭隘民族主义与国家利己主义，设计由常设特别教育委员会、标准化[[Questionnaire\|问卷]]图表、示范[[Normal School\|师范学院]]与多语种通报组成的超国家治理网络，以比较文明与跨国教育协作荡涤旧时代的野蛮战争残余，追求全人类的持久和平共处。
 
 从雅各宾专政与拿破仑战争创伤中抽离后，朱利安痛切指出欧洲动乱根源于道德纽带解体与各国教育的破碎患病，由此在 1817 年《计划》中系统提出了前瞻性的超国家治理机制：
@@ -186,7 +186,7 @@ updated: 2026-10-20
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
 > - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism\|经验主义]][[Policy Borrowing\|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯反思比较教育学的现代主义与启蒙源流，系统阐述朱利安通过比较解剖学类比与分析事实图表消除统治者主观专断、开创准实证科学与道德改良双重使命的奠基性坐标。
@@ -263,7 +263,7 @@ updated: 2026-10-20
 >
 > *Jullien’s Plan is a prime example of work in comparative education motivated by a desire to gain useful lessons from abroad.*
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 详细记录了 20 世纪行为实证学派对朱利安问卷先验偏见、价值诱导设问与[[Faculty Psychology\|官能心理学]]教条垄断的学术批判。
 
 > [!warning] 未解问题与边界

@@ -61,7 +61,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 社会互赖理论主张：社会情境中的**目标结构决定了个体间的互动方式**，而互动方式直接决定了活动的结果。当个体感知到共同目标（积极互赖 / 合作）时，会产生相互鼓励、资源共享与深层解释等“促进性互动”，产生高水平的学业成就、积极的社会关系与高[[Self-Efficacy\|自我效能感]]；反之，消极互赖（竞争）引发防守与阻碍性互动，无互赖（个别化）则导致孤立与冷漠。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 社会互赖存在于个体的产出受自身行动及他人行动共同影响的情境中；积极互赖（合作）产生促进性互动，个体相互鼓励并促进彼此实现目标的努力；消极互赖（竞争）通常导致对抗性或阻碍性互动，个体阻碍彼此实现目标的努力；无互赖（个别化）则导致个体独立行动，彼此目标无关（Johnson & Johnson, 2009; Deutsch, 1949）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 >
 > *Social interdependence exists when the outcomes of individuals are affected by each other's actions. Positive interdependence results in promotive interaction, negative interdependence results in oppositional interaction, and no interdependence results in no interaction (Johnson & Johnson, 2009).*

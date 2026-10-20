@@ -77,7 +77,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > 通过解构一线教学微习惯，在同一批参试教师或班级内部引入被试内交叉设计（Within-participant [[Repeated Measures Design\|crossover design]]）与高灵敏度的近端过程性指标（Proximal Outcomes），能够以极低财政成本、极短试验周期精确测定微观教学策略的因果净效益，使循证科学真正嵌入教师的日常决策本能。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
-> [!policy-design]- 方案设计与微观研究策略
+> [!policy-design] 方案设计与微观研究策略
 > - **微观决策主题筛选** 严格聚焦于教师在常态备课与授课中经常发生内部争论、且无论选择何种方案均无需额外采购商业资源的日常教学微习惯，例如：
 >   1. **家校沟通模式** 教师针对违纪学生的“一对一电话家访”与传统的“课后留校惩戒”相比，何者更能显著改善后续课堂纪律？
 >   2. **[[Homework\|作业]]反馈机制** 全班集中式讲评反馈（Whole-class [[Feedback]]）与教师逐本耗时精细批注[[Homework\|家庭作业]]相比，能否在不损害学业增益的前提下大幅减轻教师工时负担？
@@ -94,7 +94,7 @@ updated: 2026-10-16
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目演进历程
+> [!dev-timeline] 项目演进历程
 > - **2018 — [[Paradigm\|范式]]反思与方案预研** [[Education Endowment Foundation\|EEF]] 评估团队基于前八年逾百项大规模 [[Randomised Controlled Trials\|RCT]] 经验总结，系统反思“重型干预偏好”引发的学校参与疲劳，正式提出 Teacher Choices 微观方法学框架。
 > - **2019 — 首批国家级试点立项** 针对全班反馈[[Homework\|作业]]批改与大班朗读策略两项典型课题，面向全英格兰公开招标独立评估团队，正式招募首批中小学开展微型现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 > - **2020–至今 — 融入[[Research Schools Network\|研究学校网络]]常态教研** 将 Teacher Choices 的方法学成果与工具箱下沉至[[Research Schools Network\|研究学校网络]]（Research Schools Network），鼓励一线公立教师将微型对照试验作为校本教学反思与同行听评课的科学工具。

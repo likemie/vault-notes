@@ -52,7 +52,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 
 - 任职于法兰克福歌德大学教育科学系（Department of Education, Goethe University Frankfurt/Main, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Marcelo Parreira do Amaral]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]]*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 
 Thompson 的研究关注高等教育治理技术如何通过数字化和数据化过程塑造新型主体性——特别是"[[Promising Student|有前途的学生]]"（promising student）的建构。她与合作者将大学中的评估工具和自我管理技术理解为一种[[Governmentality|治理术]]主体化（governmental subjectification）形式（Thompson & Parreira do Amaral, 2022, pp.15–16）。在与 Schröder 和 Wrana 的合作中，她进一步将[[Online Self-Assessment|在线自评工具]]（OSA）分析为竞争性大学中建构"有前景的学生"的核心主体化工具，提出[[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的差异驱动算法治理的理论[[Analytic Framework|分析框架]]([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]])。
 

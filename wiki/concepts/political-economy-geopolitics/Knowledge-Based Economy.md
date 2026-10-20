@@ -121,7 +121,7 @@ updated: 2026-10-20
 > - **用途** 揭示国家与超国家组织（如 [[OECD]]、[[World Bank\|世界银行]]）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning\|终身学习]]扩张与 21 世纪技能[[Discourse|话语]]的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
 > - **边界** 区别于单纯的“高科技产业部门”，KBE 是一种跨越私营、公共与第三部门的全社会经济形态；若脱离额外经济系统（法律、教育、科研质保）的制度支撑，单纯的资本投入无法自发形成良性知识生态。
 
-> [!citation-card]- 经典界定
+> [!citation-card] 经典界定
 > 一种实际存在的经济，资本的首要方面是“一般智识”（General Intellect）在知识和设计密集型商品形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用。在一个真正的 KBE 中，知识被[[Reflexivity\|反身性]]地应用于知识的生产，大多数部门趋向于变得更加知识密集化。（Sum & Jessop, 2013, p. 284, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp. 23–24]]）
 >
 > *An economy in which the production, distribution, and use of knowledge is the main driver of growth, wealth creation and employment across all industries, requiring the continuous cultivation of non-routine cognitive skills.* [[Argument_Bouckaert_2023_OECD\|(OECD, 1996; Bouckaert, 2023, p. 4)]]

@@ -94,7 +94,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《拜杜法案》通过颠覆性地将联邦财政资助所产生的发明专利所有权赋予受资助的大学与非营利机构，并建立大学与科研人员的法定收益分成机制，消除了私人企业投资转化大学技术的法律障碍，一举奠定了全美[[Technology Transfer|大学技术转移]]、专利许可与[[Intellectual Capital|知识资本]]化的制度基础设施。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 促进联邦资助发明的商业化利用；鼓励大学、非营利机构与私营部门开展研发协作；保护纳税人与公共利益；增强美国在全球科技与工业领域的战略[[Competitiveness|竞争力]]。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
 > - **适用对象** 承担联邦研发合同与资助项目的高等院校、科研院所、非营利组织，以及寻求技术许可的中小企业与产业公司。
 > - **赋权与保留义务（三大法定支柱）**
@@ -130,7 +130,7 @@ updated: 2026-10-20
 > - **一线教授与科研团队（发明人）** 创新源头。依据法律享有个人版税分成权，并在法案赋权下开办衍生初创企业（Spin-off startups）。
 > - **产业界与商业企业** 承接与转化主体。通过协商排他性或非排他性许可协议，向大学支付授权费与特许提成，投资后续工程化中试并最终将技术推向市场。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
 
-> [!pathways]- 实施路径与内部组织制度化
+> [!pathways] 实施路径与内部组织制度化
 > - **大学内部组织基建的制度化诞生**
 >   法案通过的直接组织后果是迫使大学必须在内部组建高度专业化的中介单位——即[[Technology Transfer Office|技术转移办公室]]（TTOs / TLOs）和赞助项目办公室（Sponsored Projects Offices）。由专职技术经理人、专利律师和许可官员负责将实验室成果包装为可交易的法定资产。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
 > - **高校知识产权规则的全面外溢**
@@ -163,7 +163,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入与参与指标** 设立专职[[Technology Transfer Office|技术许可办公室]]的高校数量、发明披露申请数量、知识产权维护预算。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
 > - **过程指标** 专利申请与授权数量、产学许可协议签署数量、衍生企业孵化数量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
 > - **结果指标** 许可特许权使用费收入总额、商业化上市新产品与药品数量、产业资助占大学研发预算比重。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
@@ -205,7 +205,7 @@ updated: 2026-10-20
 > >
 > > - **国际合作实务学者（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025]]）** 指出拜杜法案要求高校坚守专利所有权，而欧陆等国（如瑞典传统“教授特权”将专利归属于学者个人、部分欧洲国家由政府保留）存在截然不同的产权法制，这种制度摩擦往往导致跨国产学合作在合同谈判中陷入严重僵局。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 
-> [!critique]- 批评与局限索引
+> [!critique] 批评与局限索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 揭示了产学过度商业化可能导致大学沦为工业“代工车间”（job shops）的严重制度异化风险，强调必须守住学术自由与成果公开交流的底线。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]] — 批判该法案作为学术资本主义与[[Financialization of Higher Education|高等教育金融化]]的法律催化剂，深刻制造了公共资金投入与私人专利获利之间的制度张力。
 > - [[Argument_Block_2008_PS|Block, 2008]] — 剖析拜杜法案在公帑资助与私人暴利脱节（Taxol 案例）以及知识过度商品化对跨机构研发协作的阻碍。

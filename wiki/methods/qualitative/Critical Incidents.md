@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 单个关键事件或一组在分析上相互关联的关键事件。
 > - **输出形式** 详细的事件描述和基于事件的解释性洞察。
 
-> [!citation-card]- Wragg 对关键事件的定义
+> [!citation-card] Wragg 对关键事件的定义
 > 关键事件是对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|(Cohen et al., 2011, Ch. 23, 23.5 节)]]
 >
 > *Critical events are events that appear to the observer to have more interest than other ones, and therefore warrant greater detail and recording than other events; they have an important insight to offer. (Wragg, 1994, p. 64)*

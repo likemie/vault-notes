@@ -79,7 +79,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 通过基于[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT）的常模标定与素养层级划分（Kompetenzstufen），将各州异质的教学大纲与学业产出转译为全国统一尺度的达标率（最低标准、基础标准、适切标准、卓越标准），形成透明的跨州学业镜像与政策反思依据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **测评轮替周期**
 >   - **初中阶段（9 年级）** 测评德语、英语、法语（第一外语）及数学、自然科学（生物、化学、物理），轮替周期为 2009、2015、2021/2022 年。
 >   - **小学阶段（4 年级）** 测评德语（阅读、听力、正字法）与数学，轮替周期为 2011、2016、2021 年。

@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2000–2004 — Tuning 第一阶段与第二阶段** 联合 100 多所欧洲高校，确立了欧洲通用的 31 项通用能力（Generic Competences）谱系，明确将“产生新想法的能力（[[Creativity\|创造力]]）”与“批判和自我批判的能力”列为核心高阶能力。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 > - **2005–2015 — 学科参照框架（Subject Benchmark Statements）研发与全球辐射** 拓展至商业、化学、地球科学、历史、护理等数十个学科，并推广至拉丁美洲、非洲、俄罗斯、美国及中国。在此期间，Tuning 协会受[[OECD|经合组织]]委托参与 [[OECD AHELO Project|AHELO]] 可行性测评研发，组织多国学者界定经济学与工程学领域的预期学习成果，成为以学术同行自下而上协商推动[[Soft Policy Transfer|软政策转移]]的典型机制。[[Argument_Morgan_Shahjahan_2014_CE\|(Morgan & Shahjahan, 2014, p. 200)]]
 > - **2016–至今 — 衍生 [[CALOHEE Project\|CALOHEE]] 评价框架** 从宏观资格描述符进一步下沉为直接指导高校教师命题与评分的学科化[[Authentic Assessment\|表现性评价]]框架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 13–14, 27–28)]]
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 关键文件／声明
 
-> [!citation-card]- Tuning 欧洲通用能力共识
+> [!citation-card] Tuning 欧洲通用能力共识
 > 欧洲高等教育毕业生必须具备跨学科的通用迁移素养，其中产生创新观念的[[Creativity\|创造力]]与严谨求证的批判反思能力是现代知识社会基石。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 >
 > *Generic competences include the capacity to generate new ideas (creativity) and the ability to be critical and self-critical, which must be systematically aligned with disciplinary learning outcomes and assessment methods.*

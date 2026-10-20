@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 它帮助研究者看见看似对立的教学模式如何在学生身上交织，并说明“负面情绪或抵触”正是这种认知震荡中必不可少的生产性环节。
 > - **边界** 它不适合解释单纯知识获取失败导致的挫折，它特指在“不同认识论要求并存”的复杂课程体系中产生的内在撕裂。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这些学生发现自己在这两点之间处于一种共振震荡状态：一方面是在更有效地消化和通过六个学术领域获得的知识输出方面“向前”移动，另一方面是在提出问题和挑战被构建为学习活动基础的假设方面“向后”移动。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
 >
 > *These students find themselves in a state of resonant oscillation between moving forwards in terms of more efficient digestion and output of knowledge learnt via the six academic areas, and going backwards in terms of formulating questions and structured answers that challenge the assumptions that are framed as underlying the activity of learning itself.*

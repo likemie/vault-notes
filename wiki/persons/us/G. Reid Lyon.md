@@ -94,7 +94,7 @@ updated: 2026-09-28
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 阅读习得本质上是一种复杂但可被精确测量的神经认知生理机制，而非自然习得的语言副产品；有效的早期阅读教学必须建立在音位意识与显性直接拼读[[Decodification|解码]]的基础之上，任何未经大样本严格控制实验（[[Randomised Controlled Trials|RCT]]）检验的教学哲学（如[[Whole Language|全语言]]）均属于“未经证实的主观信念”，联邦公共财政绝不得为不具备可复制性科学证据的教学项目提供资助。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 
 > [!citation-card] 将阅读干预等同于临床医学规范（G. Reid Lyon, 1998）

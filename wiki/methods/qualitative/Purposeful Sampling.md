@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | [[In-depth Interview\|深度访谈]]实录、[[Qualitative Observation\|田野观察]]手记、机构官方档案、校企合作协议文本与专业出版物。 |

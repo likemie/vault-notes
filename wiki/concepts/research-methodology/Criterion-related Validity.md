@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **用途** 用于新测验开发效验、替代性简版工具验证、高风险选拔性测试及心理潜能评估。
 > - **边界** 效标关联效度不直接证明工具是否测到了理论本质，而是通过外部统计关联提供[[Pragmatic Paradigm\|实用主义]]证据；其有效性完全依赖于**外部效标本身的质量**。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 效标关联效度是一种将测量工具结果与外部标准关联以验证其效度的方式。但选择合适的效标测量面临巨大的内在困难：被选作效标的指标必须满足相关、无偏、可靠与可测量四大准则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 179, 225)]]
 >
 > *Criterion-related validity endeavour to relate the results of one particular measure to another external criterion... Wolf (1994) indicates that a major problem in criterion-related validity is the selection of an appropriate criterion measure.*

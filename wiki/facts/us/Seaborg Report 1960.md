@@ -70,7 +70,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 《西博格报告》（Seaborg Report 1960）正式确立了“基础科学研究与研究生教育密不可分”的国家战略原则；主张联邦政府在未来 15 年内将全美具备世界一流科研实力的卓越中心（Centers of Excellence）数量由 15–20 所倍增至 30–40 所，要求联邦科研项目全面承担大学设施间接成本并允许直接列支教席薪酬，同时明确呼吁优先通过国家奖学金（Fellowships）而非项目助研用工（RAs）培养新一代青年科学家。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
 
-> [!policy-design]- 政策设计与战略构架
+> [!policy-design] 政策设计与战略构架
 > - **政策目标** 突破少数顶尖名校的科研垄断，在全国范围内大面积培植顶尖大学科研高地，实现国家科学攻关能力与高层次科技人才培养的双重倍增。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **战略行动者** 联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、DOD、[[National Aeronautics and Space Administration|NASA]] 等）向大学系统定向投放增量预算，大学管理层配合进行科系与实验室物理扩建。
 > - **核心政策工具**
@@ -107,7 +107,7 @@ updated: 2026-10-16
 > - **执行主体（联邦任务机构）** NSF、[[National Institutes of Health|NIH]]、国防部（DOD）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）分别设立了专项卓越中心与发展基金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 > - **被动员对象** 全美[[Research Universities|研究型大学]]（尤其是原排名前 15 之外的潜力公立与私立大学），通过主动提交科系扩建与机构发展方案竞逐资金。
 
-> [!pathways]- 实施路径与机制展开
+> [!pathways] 实施路径与机制展开
 > - **卓越中心扩散项目群** NSF 创设科学发展计划（Science Development Program）；国防部设立 THEMIS 计划，资助地方大学建立国防科技前沿基地；NIH 设立卫生科学促进奖（HSAA）。
 > - **软钱薪酬通道彻底打通** 虽然联邦拒绝全面为大学教师发放统筹底薪，但各机构迅速默许将学年薪水打入课题直接成本。至 1968–1969 年，全美近半数医学院教师的薪酬直接依赖联邦项目拨款。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 16)]]
 > - **奖学金阶段性暴增** NSF 独立资助的研究生奖学金在 1960 年代中期至后期激增约三分之二。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 17)]]

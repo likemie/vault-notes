@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **用途** 帮助揭示传统强迫应试、[[Rote Learning\|死记硬背]]以及脱离生态语境的“对象课”对学生心智产生的深层危害。
 > - **边界** 不等于令人痛苦或遇到困难的体验；探究中的认知冲突（Felt Difficulty）是引发思考的关键，而反教育经验是指那些使人丧失后续探究能力与敏感度的体验。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 凡是具有阻碍或扭曲未来经验生长效果的经验，都是反教育经验。例如，某些操练可能使学生获得某种特定技能，但却损害了其理智敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 >
 > *Any experience is mis-educative that has the effect of arresting or distorting the growth of further experience. (Dewey, 1963, p. 25)*

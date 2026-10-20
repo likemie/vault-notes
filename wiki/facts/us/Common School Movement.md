@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 公学运动的思想家们将公共学校视为捍卫美利坚合众国自由政体的首要防线：
 
-> [!citation-card]- 关键表述：共和教育世纪中的公学理想
+> [!citation-card] 关键表述：共和教育世纪中的公学理想
 > 在共和教育的世纪（从 1760 年代到 1860 年代），美国人最终选择了公共学校——由公众共同控制与支持，并拥抱一种被假定为非宗派的宗教伦理观念……他们的首要关切是设计一个普及、免费、综合的公立学校系统，以促进现代共和民主制度。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]；引自 Butts (1973:408)
 >
 > *Americans eventually chose the common school, control and supported in common, and embracing a supposedly nonsectarian religious outlook … their primary concern was to design a universal, free comprehensive system of public schools that would promote modern republican [democratic] institutions.*
@@ -219,7 +219,7 @@ updated: 2026-10-20
 > | [[Boston Schoolmasters Controversy]] | 事件 | 因第七次报告引发的公学改革派与传统[[Grammar School\|文法学校]]保守派的大决战。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 确认美国公学在制度上几乎直接复制普鲁士国民学校，指出[[Normal School\|师范学校]]虽沿用法语词汇实为德国教师讲习所翻版；阐明"恶政与良教在自然上可分"是美国改革者回应保守派指控的核心论辩。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统重构公学运动作为"政策导向行政改良主义"的经典[[Paradigm|范式]]，深度剖析霍勒斯·曼、斯托与巴纳德如何将欧陆经验转译为击退本土保守势力的政治合法化依据。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 在比较教育学科史脉络中确认美国公学制度模仿普鲁士国民学校，阐明"恶政与良教在自然上可分"作为方法论公理如何回应保守派对引进专制工具的指控。[(Rust et al., 2009, pp. 124–125)]
 \n

@@ -59,7 +59,7 @@ updated: 2026-10-20
 > - **理论意义** 试图超越传统比较教育学中将情境视为“不可逾越之障碍”的朴素观，通过 3T 与形变框架将情境参数化，使其具备工程学式的可操作性。
 > - **伦理风险** 该概念带有强烈的反思批判色彩，旨在警示研究者警惕那些追求完美移植的社会克隆技术，因其可能剥夺接受国的本土文化防卫和免疫机制。
 
-> [!citation-card]- 嵌入几何学的经典 quote 与原文
+> [!citation-card] 嵌入几何学的经典 quote 与原文
 > 如果将情境在转移、转译、转化和形变的理论中重新概念化并加以驯服，我们就能获得一种嵌入几何学，用于分析那些在一处创造却可以被嵌入另一处的思想和实践。然而，它的政治、伦理和后果究竟是什么？([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 > 
 > *“With 'context' rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a 'geometry of insertion' for ideas and practices which – although they were created in one place – could be inserted in another. What are the politics, ethics, and consequences of that?”*

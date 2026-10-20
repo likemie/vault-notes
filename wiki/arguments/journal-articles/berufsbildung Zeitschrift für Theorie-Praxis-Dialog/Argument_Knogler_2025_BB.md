@@ -156,7 +156,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ### 论证步骤一　单纯依赖科研自发扩散无法消解实践阻滞，必须依托专业中介机构重构转移通道
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap\|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。（pp. 13–14）
 
 #### 1. 教师专业化循证转向与结构性转移困境
@@ -169,7 +169,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。（pp. 13–14）
 
-> [!figure]- 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
+> [!figure] 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg)
 
 清算中心在教育生态系统中承担枢纽职能，其运行架构由三个有机衔接的功能节点构成：（p. 14）
@@ -183,7 +183,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ### 论证步骤二　以元分析为高信度证据基底，通过分层加工显著降低实践者的认知与应用门槛
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 破除学术壁垒的关键在于以因果[[Reliability\|信度]]最高的[[Meta-analysis\|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding\|脚手架]]。（pp. 14–15）
 
 #### 1. 专家规程制定与多层次中介服务矩阵
@@ -200,7 +200,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表的中学理科数字化工具元分析向 CHU 简要评价（Kurzreview）的转化过程，系统呈现了证据中介加工的技术路径。（p. 15）
 
-> [!figure]- 图2：Clearing House Unterricht 对元分析的循证加工示例（左为原始出版物，右为配套简要评价）
+> [!figure] 图2：Clearing House Unterricht 对元分析的循证加工示例（左为原始出版物，右为配套简要评价）
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig2_Meta_Analysis_to_Kurzreview_Translation.jpg)
 
 转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。（p. 15）
@@ -213,7 +213,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：（p. 15）
 
-> [!effect-summary] 元分析核心证据概览（METAANALYSE IM ÜBERBLICK）
+> [!effect-summary]- 元分析核心证据概览（METAANALYSE IM ÜBERBLICK）
 > - **研究焦点（Fokus der Studie）** 检验数字化工具对学业成绩以及对数学与自然科学学科态度的综合因果影响。
 > - **调查目标群体（Untersuchte Zielgruppe）** 中学阶段学生。
 > - **平均效应量（Durchschnittliche Effektstärke）** 对学业成绩产生中等程度且统计显著的正向效应（Hedges' $g = 0.65, p < .001$）；对学科态度产生较小但统计显著的正向效应（Hedges' $g = 0.45$）。
@@ -235,7 +235,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 ### 论证步骤三　以师资培训者为辐射支点并健全双向反馈机制，推动循证理念深层融入教学常态
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 知识转移并非面向个别分散实践者的单向技术输出，必须以师资培训者这一骨干群体为中枢支点实现规模化扩散，并建立包含持续评估与多层级支持的双向反馈迭代机制。（pp. 15–16）
 
 #### 1. 教师教育者作为核心乘数的杠杆放大机制
@@ -255,7 +255,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 基于运行实践与用户评估数据，作者总结出克服实践断层与应用压力的三项核心机制原则：（p. 16）
 
-> [!lessons]- 德语区教师教育与职业教育知识转移的三大启示（Lessons Learned）
+> [!lessons] 德语区教师教育与职业教育知识转移的三大启示（Lessons Learned）
 > 1. **受众适配、通俗易懂且切合实际的加工** 仅凭科学结论本身的可用性不足以改变实践；在应用与时间压力巨大的职业培训中，必须依赖结构精炼的 Kurzreviews、概览与数字模块降低认知负荷。
 > 2. **聚焦师资培训骨干群体的杠杆放大效应** 面向高校师资培训者与在职进修负责人开展重点支持，是推动循证理念广泛落实的关键策略；但这批骨干群体同样需要通俗易用的教学材料、精心设计的培训形式以及与现有培养体制的深度嵌入，无法脱离制度支持自发运转。
 > 3. **知识转移的非线性特征与持续反馈迭代** 知识转移绝非一次性推介的线性流程，而需依托常态化的需求评估与双向反馈，在长效制度支持下动态优化服务形态。（p. 16）

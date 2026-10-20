@@ -63,7 +63,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis\|二阶元分析]]数据集。
 > - **输出形式** Kendall's tau 秩相关系数值、检验统计量 $Z$ 值与双尾显著性 $p$ 值。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Begg 秩相关检验通过检验标准化效应估计与对应抽样方差之间的 Kendall's tau 秩相关，提供了一种不受正态性假设限制的发表偏倚非参数诊断指标（Begg & Mazumdar, 1994; Borenstein et al., 2021）。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 960)]]
 >
 > *The Begg and Mazumdar rank correlation test examines the correlation between standardized effect sizes and their variances using Kendall's tau, serving as a nonparametric test for publication bias (Begg & Mazumdar, 1994).*

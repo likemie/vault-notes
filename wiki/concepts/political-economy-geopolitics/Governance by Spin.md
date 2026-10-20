@@ -52,7 +52,7 @@ updated: 2026-10-15
 > - **用途** 帮助研究者超越单纯的“政策失败”或“设计瑕疵”视角，理解政策话语在协调超国家网络压力与领土历史传统之间的功能性妥协逻辑。
 > - **边界** 它不仅是事后的包装、修饰或单纯的公共关系宣传（[[Participatory Research\|PR]]），更在深层上预先决定并构建了政策话语本身的文本结构。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 舆论操控或印象管理是“试图管理、遏制或使与政策制定和实施相关的潜在争议不可见的治理过程”（Gewirtz, Dickson & Power, 2004, p. 98）。[[Argument_Beech_2009_CE\|Beech, 2009a, p. 357]]
 >
 > *Spin, or impression management are 'processes of governance which attempt to manage, contain, or render invisible potential controversies that relate to policy development and implementation' (Gewirtz, Dickson and Power 2004, 98).*

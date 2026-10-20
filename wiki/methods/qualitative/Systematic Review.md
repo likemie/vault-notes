@@ -142,7 +142,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 单项独立实证研究（study-level）或特定干预项目为基本分析单位；亦可以人群亚组、设计类型或干预剂量为亚单位。
 > - **输出形式** 结构化系统综述技术报告——包含检索流程图（如 [[PRISMA\|PRISMA Flow Diagram]]）、纳入排除清单、偏倚风险质量评定矩阵、机制综合叙述及政策建议；定量综合时输出合并效应量、[[Forest Plot\|森林图]]及[[Funnel Plot\|漏斗图]]。
 
-> [!citation-card]- Evans and Benefield (2001) 的系统综述规范界定
+> [!citation-card] Evans and Benefield (2001) 的系统综述规范界定
 > 系统综述要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议。（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）
 >
 > *Systematic reviews require the use of techniques to minimize bias, they follow protocols and criteria for searching for relevant primary, usually empirical, studies, their inclusion and exclusion, the standards for acceptable methodological rigour, their relevance to the topic in question, the scope of the studies included, team approaches to reviewing in order to reduce bias, the adoption of a consistent and clearly stated approach to combining information from across different studies, and the careful, relevant conclusions and recommendations drawn.*

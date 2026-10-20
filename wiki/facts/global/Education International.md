@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Educational Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]
 > - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的[[Discourse|话语]]权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]
 > - **2010–至今 — 科研自主建制与跨国循证共治突破** EI 深度推进研究证据与教师政策的融合，设立独立运作的[[International Education\|国际教育]]协会研究院（EI Research Institute）；成功争取在[[OECD\|经合组织]]核心理事会的常设观察员席位；2011 年联合发起[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），实现由抗争型工会向基于客观证据的高层战略协商伙伴转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–213, 216)]]
@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **专属科研建制（EI Research Institute）** 设立独立的[[International Education\|国际教育]]协会研究院，负责规划专属研究议程、委托国际顶尖学者开展跨国实证研究并发布权威政策简报。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **跨国协商代表枢纽（TUAC 渠道）** 依托[[OECD\|经合组织]]工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC），向经合组织[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）、[[Teaching and Learning International Survey\|TALIS]] 与 [[PISA]] 治理理事会派驻常设代表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **工会科研委托与二次数据挖掘** 打破外部学者单向调研，主动委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对大型跨国调查数据展开独立挖掘，产出兼具学术严谨与教师关切的实证成果。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **反向重塑跨国调查工具** 将一线教师的教学境遇反向注入官方测量工具，推动 TALIS 等跨国项目引入分布式领导力与教师工作压力专属量表。
 > - **部长-工会首脑闭门证据磋商** 每年依托 [[International Summits on the Teaching Profession\|ISTP]] 峰会平台，促成民选教育部长与全国性教师工会领袖在完全保密、不搞对抗的环境下，基于 OECD 与 EI 的背景研究报告进行平等战略协商。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 覆盖全球 172 个国家和地区、401 个成员工会组织，代表逾 3200 万名教师与教育支持人员，工会密度高居全社会各经济部门首位。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209, 213)]]
 > - **学术与[[Knowledge Production\|知识生产]]** 设立独立运作的[[International Education\|国际教育]]协会研究院，建立内部专属的工会研究网络；三年一度发布覆盖全球的旗舰报告；推动跨国调查数据向教师群体全面开放。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **政策与制度渗透** 在 [[OECD]]/[[Centre for Educational Research and Innovation\|CERI]]、[[PISA]] 与 [[Teaching and Learning International Survey\|TALIS]] 理事会获得常设观察员席位；通过 [[International Summits on the Teaching Profession\|ISTP]] 闭门协商机制实质影响数十个成员国的教师福利、考评与专业协作立法。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]

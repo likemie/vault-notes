@@ -42,7 +42,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > - **时间** 1991 年
 > - **地点** 瑞士 Lugano（卢加诺）
 > - **性质**[[International Indicators of Education Systems\|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.12]])

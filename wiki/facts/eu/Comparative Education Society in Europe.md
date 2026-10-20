@@ -120,7 +120,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > - **欧洲大学比较教育教席建制孵化** 学会骨干在伦敦大学 IOE、汉堡大学、海德堡大学、波鸿鲁尔大学与柏林洪堡大学等名校中推动设立独立研究中心与讲席，奠定了[[Disciplinary Institutionalization|学科制度化]]基石。
 > - **跨国政策咨询与重大比较项目论证** 搭建高规格研讨平台，为西德马普所罗宾逊主持的《社会进程中的学校改革》以及[[Edmund King|埃德蒙·金]]的西欧后义务教育项目等跨国社会学比较课题提供学术网络支撑。
 
-> [!citation-card]- 欧洲比较教育学会初期宪章宗旨（1961年）
+> [!citation-card] 欧洲比较教育学会初期宪章宗旨（1961年）
 > 通过推动比较教育的研究和教学，促进欧洲及其他地区在教育改革和政策制定上的跨国学术交流与国际合作，为和平主义国际理解和人道主义民主进程做出学科贡献。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
 >
 > *to promote international academic exchanges in the reform of European education, embedding the pacifist mission of international understanding into the structural template of European school systems.*

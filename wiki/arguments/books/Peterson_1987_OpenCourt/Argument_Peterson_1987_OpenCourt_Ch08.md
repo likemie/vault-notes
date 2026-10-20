@@ -225,7 +225,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 
 专业化压力需要先限定适用地区，再说明它怎样进入中学课程。
 
-> [!boundary] 西欧及仿照其制度的大学构成讨论范围
+> [!boundary]- 西欧及仿照其制度的大学构成讨论范围
 > 专业化压力在此主要指西欧大学及仿照其制度的大学，原文明确排除了北美大学。这一地区边界不能省略，否则会把所有大学录取制度写成同一机制。（p. 201）
 
 在这一范围内，大学标准还会通过学科发展和教师经历影响课程目标。
@@ -584,14 +584,14 @@ UWC 的突出缺口是东欧社会主义国家青年难以与西方同龄人见�
 
 以下两段分别凝练了课程目的与效果判断的原则。
 
-> [!citation-card]- 课程的最后一次正式学习应服务长期生活
+> [!citation-card] 课程的最后一次正式学习应服务长期生活
 > 按终结性而非预备性目的设计的课程会更好。（p. 202）
 >
 > *A course designed as terminal rather than preparatory will be better still.*
 
 课程改革与政治供给最终回到同一判断：教育目标需要坚持，效果主张需要审慎。
 
-> [!citation-card]- 对宏大效果的怀疑不应直接否定教育目标
+> [!citation-card] 对宏大效果的怀疑不应直接否定教育目标
 > 夸大的主张很可能引起怀疑，但这种怀疑应当针对主张，而不是目标。（p. 216）
 >
 > *Exaggerated claims may well produce scepticism, but it should surely be scepticism about the claims, not about the objectives.*

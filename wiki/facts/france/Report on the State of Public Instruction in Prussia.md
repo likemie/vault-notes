@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 库森在报告中系统梳理并向法国政府重点推荐了三大制度模块：
 
-> [!policy-design]- 报告核心模块：普鲁士经验的制度化提炼
+> [!policy-design] 报告核心模块：普鲁士经验的制度化提炼
 > - **公共教育的治理机器与行政架构（The Government of Public Instruction）**
 >   详尽剖析普鲁士如何通过中央内政与宗教教育事务部统领各省督学公署，并下设地方市镇管理委员会（*Schulvorstand*）；力主法国借鉴其“中央顶层立法规制与基层市镇分权实施”相结合的科层化行政网络，强制各市镇自筹建校并保障贫困儿童免费就读。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
 > - **学制层级分流与[[Culture Générale\|普通文化]]通识课程（Hierarchical Gradation and General Culture）**
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 报告中关于“借用外国经验与真正的爱国主义”的哲学辩护，成为比较教育史上最常被征引的经典段落：
 
-> [!citation-card]- 经典引言：库森论[[Policy Borrowing\|政策借用]]与真正爱国主义
+> [!citation-card] 经典引言：库森论[[Policy Borrowing\|政策借用]]与真正爱国主义
 > 真正的爱国主义不在于对邻邦的卓越制度视而不见，而在于勇敢地采纳其优点以造福祖国。普鲁士人虽为外邦，但人类智慧与公立教育的普遍法则属于全人类。若我研究普鲁士，我所心系者永远是法国……普鲁士 1819 年的教育法案在我看来卓越非凡。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
 >
 > *If it is Prussia I study, it is always of France that I think ... True patriotism does not consist in refusing to learn from others, but in appropriating the good wherever it is found for the benefit of one's own country.* (Brewer, 1971, p. 50; Cousin, 1930, p. 206)
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 [[Victor Cousin|库森]]报告展现了 19 世纪比较教育文献从“官方外交咨询”跃升为“跨国政策合法化弹药”的典型转译链条：
 
-> [!pathways]- 跨国转译与制度扩散的三重路径
+> [!pathways] 跨国转译与制度扩散的三重路径
 > - **法国本土法制化路径** 库森不仅是考察者，更是立法起草者。他将报告中提炼的普鲁士 [[Prussian Draft Education Law of 1819\|聚芬法案]]四大支柱 毫无阻碍地转译为法国本土法典，使 [[Guizot Law of 1833\|基佐法案]] 成为近代法国公立教育制度的奠基石。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 28–29]]; Brewer, 1971:58）
 > - **英国国会辩论与思想洗礼** 奥斯汀的英译本在英国掀起轩然大波。激进自由派与功利主义学者（如罗巴克与密尔）以库森报告为论据，严厉抨击英国完全放任教会与私人慈善办学的滞后文盲状态，推动国会设立枢密院教育委员会与官方常设督学制。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 31]]）
 > - **北美[[Common School Movement\|公学运动]]的合法化神兵** 在合众国，[[Horace Mann\|霍勒斯·曼]]与斯托等人面临着极其顽固的加尔文教派与地方纳税人保守抵抗。库森报告通过确立“公共学校是现代繁荣文明之基”的普遍法则，为北美改革者提供了击碎国内保守阵营谎言的绝佳外部权威与合法性论据（legitimating rationales）。（pp. 31–34）

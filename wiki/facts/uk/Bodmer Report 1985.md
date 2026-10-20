@@ -56,13 +56,13 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 报告断言科学渗透于现代社会的每个角落，明确提出促进公众科学理解是全体科学家及其所在机构不可推卸的职业责任，呼吁将科学传播考核嵌入国家科研基金评审，并推行 16 岁前全员必修科学教育。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–6)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 提升全民[[Scientific Literacy\|科学素养]]，建立公众对国家科研支出的长期支持，增强工业创新与社会决策中的科学理性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
 > - **对象** 英国研究理事会（Research Councils）、高校科研人员、中小学教师与学生、媒体与大众。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–6)]]
 > - **工具** 资助绑定（科研基金申请须陈述科普方案）、制度创设（全国科学周、法拉第讲座、科学图书奖）与课程规程（16岁前国家课程必修科学）。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–6)]]
 > - **约束方式** 国家科研理事会资助导向与教育部课程法令推行。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 6)]]
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 科学渗透于我们的社会。我们绝大多数的产业和大部分的国家繁荣都建立在科学的基础之上……科学影响着许多甚至是大多数具有国家和国际重要性的政策议题，也影响着从健康、饮食到度假和体育等广泛的个人活动。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 6)]]
 >
 > *Science pervades our society. Most of our industry and much of our national prosperity are based on science … Science affects many, if not most, policy issues of national and international importance. It also affects a wide range of personal activities, from health and diet to holidays and sport.*

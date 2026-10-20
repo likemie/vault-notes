@@ -84,7 +84,7 @@ updated: 2026-10-20
 > - **核心角色** 当代[[Epistemic Cognition\|认识论认知]]理论重构与科学论证实质[[Paradigm\|范式]]的领航者。他打破了将个人[[Epistemology\|认识论]]局限于个体内在抽象信念阶段论的传统框架，引入当代哲学自然主义、[[Reliabilism\|可靠主义]]与[[Virtue Epistemology\|美德认识论]]，开创了目标、理想与[[Reliable Epistemic Processes\|可靠过程]]模型（Aims, Ideals, and Reliable Processes Model, [[AIR Model of Epistemic Cognition\|AIR]]）；在国际教学论战中，他是[[Inquiry-Based Learning\|指导式探究]]的坚定捍卫者，系统提出了探究学习六要素框架，推动科学教育从表面程序套用走向深层[[Epistemic Agency\|认识能动性]]培育。
 > - **代表贡献** 创立 AIR 模型；提出科学探究学习六要素框架；主导研发促进科学推理与概念转变的 [[PRACCIS]] 探究课程；开创新一代基于认识论实质与元认识论审议的科学论证评价体系。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > Chinn 将哲学认识论的前沿洞见系统注入学习科学与科学教育，论证了探究学习不是放任发现，而是以认识能动性与证据协调为核心的深度[[Knowledge Building Theory|知识建构]]实践。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 >
 > *Chinn's work redefines science education by focusing on epistemic agency, conceptualizing inquiry as an active process where students coordinate evidence and models rather than passively consuming [[Direct Instruction]].*
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的学习绝非被动吸收预制结论或机械执行探究步骤，而是学习者在富有社会互动支持的共同体中行使[[Epistemic Agency\|认识能动性]]，协调经验证据与替代性理论模型，并在元[[Epistemology\|认识论]]审议中达成[[Knowledge Building Theory|知识建构]]。科学教育的核心目标不仅在于掌握既定结论，更在于培育学生对什么是可靠证据生成过程、什么构成了良好解释标准的深刻认识论反思。
 
 > [!citation-card] 论科学探究教学的六大认识论要素
@@ -147,7 +147,7 @@ updated: 2026-10-20
 > - **教学实践路径** 研发了覆盖初高中的 [[PRACCIS]] 课程体系，将模型建构、证据协调与元认识论审议深度整合进常规科学课堂。
 > - **国际学术领导力** 作为《教育心理学家》前主编与 ISLS 核心领导者，两度率领学习科学学者回击认知负荷派对[[Inquiry-Based Learning\|探究学习]]的否定，深刻捍卫了科学教育改革中探究实践的合法地位。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 作为核心作者之一，提出探究学习六要素[[Analytic Framework\|分析框架]]，运用详实实证反驳[[Direct Instruction\|直接教学]]绝对优越论，确立指导式探究的循证优越性与时序协同模型。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠基性论文，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
@@ -189,7 +189,7 @@ updated: 2026-10-20
 > > - **Sweller 阵营** 宣称[[Working Memory\|工作记忆]]受限决定了直接教学绝对优越，主张取消政策对探究实践的倾斜。
 > > - **Chinn 与学习科学阵营** 证实具备支架的指导式探究不仅不会超载，而且是深层概念理解与[[Epistemic Agency\|认识能动性]]培养的必由之路。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反思了过去部分开放式探究因缺乏[[Structured Teaching\|结构化教学]]支架导致学生迷失的局限，确立了高支架指导式探究的新[[Paradigm\|范式]]。
 
 > [!warning] 未解问题与边界

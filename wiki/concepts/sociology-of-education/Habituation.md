@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **用途** 在哲学层用于审查权威灌输与习惯培养的合规性；在方法层用于在符合伦理（[[Informed Consent\|知情同意]]）的前提下获得真实无伪的实证数据。
 > - **边界** 哲学上的习惯化若缺乏批判反思，易沦为顺从权威的被动驯化；方法上的习惯化依赖足够驻留时间，但并不保证所有参与者均能完全回归自然基线。
 
-> [!citation-card]- 关键表述：亚里士多德关于习惯化的经典论述
+> [!citation-card] 关键表述：亚里士多德关于习惯化的经典论述
 > 人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢。（*Nicomachean Ethics* 1103a33；引自 Darwish, 2009, p. 4）
 >
 > *Men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics 1103a33)*
@@ -131,6 +131,6 @@ updated: 2026-10-20
 > | [[Freedom of the Learner]] | 概念 | 反对将习惯化作为压抑学习者批判自由的工具。 |
 > | [[Observation Method]] | 方法 | 习惯化作为观察研究中降低反应性的核心策略。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 拆解亚里士多德《尼各马可伦理学》习惯化理论及其在阶层固化中的局限。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将习惯化列为[[Qualitative Observation\|质性观察]]中控制反应性偏差的经典策略。

@@ -50,7 +50,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 伦理原则不是不变地适用于所有情境的；它们在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，而这些伦理决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 128–129]]）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 128]]）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
@@ -64,7 +64,7 @@ updated: 2026-10-20
 > [!claim] 命题一：伦理原则在研究实践中被中介
 > 同一伦理原则（如[[Informed Consent\|知情同意]]、保密）在[[Experimental Research\|实验研究]]、[[Ethnography\|人种志]]研究和[[Action Research\|行动研究]]中的含义和适用范围不同，因为每种研究实践有其独特的[[Epistemology\|认识论]]前提、权力关系和社会互动模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 76–77, 128]]）。
 
-> [!warrant] 为什么这很重要
+> [!warrant]- 为什么这很重要
 > 这意味着不能简单地将实验研究中的知情同意程序（一次性签署）移植到[[Emergence\|涌现]]性的[[Qualitative Research\|质性研究]]中，因为后者中的研究关系是持续协商的（Wax, 1982, p. 42）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 83]]）。
 
 > [!claim] 命题二：情境伦理免疫于普遍化

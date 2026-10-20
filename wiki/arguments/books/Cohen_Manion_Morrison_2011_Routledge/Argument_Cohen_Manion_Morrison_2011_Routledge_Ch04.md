@@ -114,7 +114,7 @@ updated: 2026-10-17
 >   K --> L
 > ```
 
-> [!knowledge-map]- 第4章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第4章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_4_Concept_Map.jpg)
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-10-17
 > 3. 如果只有冰而其他因素不成立（平衡好、视力好、光线足、鞋底有抓地力、骨质不脆），我可能仍然不会摔倒和骨折。
 > 4. 因此，冰是众多促成原因之一，但不是充分原因（pp.55–56）。
 
-> [!exegesis] 反事实推理的深层困难
+> [!exegesis]- 反事实推理的深层困难
 > 反事实推理虽具说服力，但存在根本困难：
 > - **证据问题** 如何知道如果没有冰会发生什么？如何以足够的确定性预测，进而归因于反事实因果？
 > - **实验中的解决方案** 在真实验中，控制组被假定为表明如果干预未发生会发生什么，控制组是反事实的代理。
@@ -199,7 +199,7 @@ updated: 2026-10-17
 > | 骨质脆 | 不充分，骨质脆本身不导致摔倒 | 使摔倒的后果（骨折）成为可能 |
 > | 光线暗 | 不充分 | 降低了看到冰面的概率 |
 
-> [!warrant] 为什么孤立寻找单个原因可能是徒劳的
+> [!warrant]- 为什么孤立寻找单个原因可能是徒劳的
 > 在理解效果的原因时，必须理解**环境与条件（circumstances and conditions）**，正是原因和效果所处的具体条件将它们连接起来，这种连接是偶然的（contingent）而非分析的（analytic）。发现一个[[Variable\|变量]]在什么条件下对另一个变量产生因果影响，是理解因果性的关键，是必要条件与充分条件的特定组合产生了效果，而非单个原因（p.57）。
 
 ---
@@ -234,7 +234,7 @@ updated: 2026-10-17
 > 3. **恒定联结（constant conjunction）** 一个事件及其后继事件的配对反复出现。
 > 4. **必然联系（necessary connection）** 从经验、习惯和习俗中习得，而非从演绎的逻辑必然证明中获得。
 
-> [!warrant] 休谟准则中的相关而非因果
+> [!warrant]- 休谟准则中的相关而非因果
 > 在休谟的准则中可察觉的实际上是**相关（correlation）** 而非真正的因果性。休谟本人也主张，因果性是由人类**归纳推断**的，而非一个客观事实。休谟的立场指向一个根本判断：教育研究中的因果性因其推断性、推测性和概率性的特征，而非绝对的、演绎的和确定性的，使得因果研究充满困难（pp.58–59）。
 
 ---
@@ -278,10 +278,10 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 > [!def] 筛选隔离的逻辑结构
 > 两个变量，气压计读数下降与暴风雨，被筛选隔离（screened off）：彼此分离、互不连接。二者有**相关关系**但没有**因果关系**。它们都由第三个因素——气压下降——所引起。
 
-> [!example]- 图4.1：两个不相关因素被第三个因素引起的结构
+> [!example] 图4.1：两个不相关因素被第三个因素引起的结构
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_4-1_Two_Unrelated_Factors_Caused_by_Third_Factor.jpg)
 
-> [!warrant] 筛选隔离的操作含义
+> [!warrant]- 筛选隔离的操作含义
 > 在归因真正的因果性时，必须筛掉不相关的[[Dependent Variable\|因变量]]，将那些与正在被研究的情境直接相关的变量之外的变量排除。这包括通过**偏相关（partial correlation）** 和**结构方程模型（structural equation modelling）** 控制额外变量的效应，以确保一个变量不会被误认为对另一个变量有因果影响，而事实并非如此。
 >
 > Pearl（2009, pp. 423–7）提供了系统识别哪些因素应从哪些因素中筛选掉的方法框架。但在多重因果（或[[Causal Over-determination\|过度决定]]）情境中，这几乎是不可能的，因为可能无法判断应该筛掉什么（p.60）。
@@ -296,7 +296,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 
 **第一步：观察原始分布（Table 4.1）**
 
-> [!data-table] Table 4.1：中学生男女生的科学科目选择
+> [!data-table]- Table 4.1：中学生男女生的科学科目选择
 > | 科目偏好 | 男性 | 女性 | 合计 |
 > |---------|------|------|------|
 > | **偏好物理** | 175 (55.1%) | 87 (27.9%) | 262 (41.6%) |
@@ -312,12 +312,12 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 
 **第三步：读取分表结果**
 
-> [!example]- 表4.2：按教师 A 或 B 划分后的选择（无差异情形）
+> [!example] 表4.2：按教师 A 或 B 划分后的选择（无差异情形）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_4-2_Science_Choices_with_Teacher_A_or_B.jpg)
 
 当按教师划分数据后，如果各分表中的百分比与原始表（Table 4.1）非常相似，结论是：**教师不施加因果影响**——无论是教师 A 还是教师 B 上课，学生的选择模式基本不变。分表（Table 4.2）的百分比紧密复刻了原始表（Table 4.1）的百分比（p.61）。
 
-> [!example]- 表4.3：按教师 A 或 B 划分后的选择（有差异情形）
+> [!example] 表4.3：按教师 A 或 B 划分后的选择（有差异情形）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_4-3_Further_Science_Choices_with_Teacher_A_or_B.jpg)
 
 当分表结果与原始表差异很大时，结论是：**教师确实在因果上影响了学生的科学科目选择（p.62）**。
@@ -335,7 +335,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 >
 > 这些可能机制的揭示需要超越表格本身，它们是质性层面的因果过程问题。列联表和分表**可能不实际表明因果性**，只能表明关联模式（p.62）。
 
-> [!tip]- 统计工具与[[Causal Modeling\|因果建模]]
+> [!tip] 统计工具与[[Causal Modeling\|因果建模]]
 > 统计工具——列联表（crosstabulation）、相关与偏相关（correlation and partial correlation）、回归与[[Multiple Regression\|多元回归]]（regression and multiple regression）、结构方程模型（structural equation models，见第34–36章）——可辅助因果分析。但要控制直接的、间接的、先行的、中介的和组合的变量对结果的影响，往往是极其困难的（尽管统计工具和图形方法可以协助此过程，Pearl, 2009, pp. 423–427）（pp.60–61）。
 
 ---
@@ -403,7 +403,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 > | 2 | 循环性（circularity） | 只对效果 Y 感兴趣，只寻找可能的原因 X，然后"发现"X 是 Y 的原因，因为没有考虑替代解释 |
 > | 3 | 无限回溯 | 可能存在无限数量的原因和效果，取决于回溯多远和包含多广 |
 
-> [!tip]- 应对策略
+> [!tip] 应对策略
 > 需要识别并论证因果研究中变量的纳入与排除，足够广泛地选择关注领域，考虑因果与效果的替代解释（p.66）。
 
 ---
@@ -439,7 +439,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 
 #### 原因效果的掩盖与方向反转
 
-> [!note]- 案例6：头痛药——被掩盖的因果效应
+> [!note] 案例6：头痛药——被掩盖的因果效应
 > 服用头痛药后头痛反而加剧，这并不等于药物无效，因为不服用的话头痛可能会更严重。某些原因的效果可能被其他原因的存在所**掩盖（masked）**，但因果性仍在发生（p.68）。
 
 > [!line-a] 案例7：吸烟-运动-心脏病的因果悖论（Morrison, 2009, p. 45;Hitchcock, 2002, p. 9）
@@ -465,7 +465,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 
 ---
 
-> [!example]- 图4.2：一项原因对效果的正向与负向影响
+> [!example] 图4.2：一项原因对效果的正向与负向影响
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_4-2_Positive_and_Negative_Causes_on_Effect.jpg)
 
 > Figure 4.2 展示了正向与负向因果关系的结构。注意线条的长度表示相对影响强度。
@@ -535,7 +535,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 >
 > **[[Epistemology\|认识论]]后果** 最终没有一个版本被确定为正确的（correct）。原因可能是谋杀或自杀；性行为可能是自愿或强奸；忠诚或背叛。真理在认识论、感知和动机的泥沼中沉没（pp.72–73）。
 
-> [!warrant] 罗生门效应对因果研究的方法论含义
+> [!warrant]- 罗生门效应对因果研究的方法论含义
 > 存在不止一个因果解释。需要揭示这些多重解释，并通过归因于因果的行动者之眼来审视因果性。[[Action Narratives\|行动叙事]]（action narratives）和能动性（agency）在解释因果与效果中具有核心重要性，正因情境中多重行动叙事和个体动机的存在，因果路径是**多重**的，而非简单的输入-输出模型。
 >
 > 这支持了从微观到宏观的分析和解释（从个体行动和互动到社会结构），而非相反的宏观到微观分析。宏观结构特征如何实际进入个体行动和互动、个体行动和互动如何决定社会结构，这些因果过程需要谨慎阐明，目前它们在黑箱式的输入-输出因果模型中通常是不透明的（pp.73–74）。
@@ -567,7 +567,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 > 11. 什么类型的**数据**将建立概率因果性？
 > 12. **何时**收集数据才能从中推断因果性？
 
-> [!tip]- 数据收集时机的重要性
+> [!tip] 数据收集时机的重要性
 > 建立因果过程和原因的效果的需求越大，数据收集点应越密集和越频繁。此外，量化数据更适合建立因果的"是什么"，质性数据在建立因果的"如何"方面可能占据优先地位。**[[Longitudinal Study\|纵向研究]]** 可能比 **[[Cross-sectional Study\|横截面研究]]** 产生更稳健的因果说明（p.75）。
 
 ---
@@ -608,7 +608,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 >
 > 看似简单的因果归因**爆炸为一[[Multiplicity\|多重性]]（multiplicity）** 的原因和效果——原因 A 可能带来了效果 C，C 又成为效果 B 的原因；效果 B 可能实际并非假设原因 A 的结果，而是别的什么的结果（p.77）。
 
-> [!example]- 图4.3：对原因与效果的建模
+> [!example] 图4.3：对原因与效果的建模
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_4-3_Modelling_Causes_and_Effects.jpg)
 
 > Figure 4.3 呈现了因果建模的复杂性结构——从简单的因果链到多重因果网络的爆炸式展开（cf. Morrison, 2009, p. 124）。
@@ -677,7 +677,7 @@ Reichenbach（1956）和 Salmon（1998）提出了 **[[Screening Off|筛选隔�
 
 #### 观察法作为替代与基础比率谬误
 
-> [!tip]- [[Observation Method\|观察法]]的优势与风险
+> [!tip] [[Observation Method\|观察法]]的优势与风险
 > 作为行动研究和实验方法的替代，**参与和[[Non-participant Observation\|非参与观察]]法**（见第23章）可以比实验方法更充分地捕捉人类意向性、能动性以及对因果性和事件的感知。它们还可以提供关于因果过程和因果链的说明。
 >
 > 然而它们也面临与行动研究和实验相同的困难，同样必须提供因果过程和因果链的说明。进一步地，在探讨意向性和能动性时，参与者的感知可能是正确的，但也可能是错误的、片面的、不完整的、选择性的、盲目的或被误导的。一个人可能认为房间里有老鼠（原因）并据此行动（效果），但事实上房间里没有老鼠（p.82）。
@@ -746,7 +746,7 @@ Goldthorpe 首先提出了四种候选理论（pp.83–84）：
 >
 > **文化理论**被拒绝的原因：Boudon（1973）区分了两类阶级效应。**初级效果（primary effects）** 指阶级出身影响儿童在早期学校阶段的初始成就水平——工薪阶层家庭的孩子因[[Cultural Capital\|文化资本]]差异在小学阶段成绩偏低，文化理论可以部分解释这个。但**次级效果（secondary effects）** 指在分叉点（小学升中学、中学升大学）进入的效应——即使成绩相同，较不利背景的子女更可能选择离开学校或选较低资格的课程，而且越往后越强。文化理论无法解释为什么成绩一样的孩子，阶级出身不同会做出系统性不同的教育选择。后者才是[[Rational Action Theory\|理性选择理论]]（成本-风险-收益计算）的解释领域。
 
-> [!warrant] 为什么选择理性选择理论
+> [!warrant]- 为什么选择理性选择理论
 > Goldthorpe（2007, p. 31）的关键概念是**抱负的相对性**——抱负相对于阶级位置而言，而非绝对的。不同社会阶级有不同水平和类型的抱负，受理性行动理论所提示的约束条件以及决策中感知的成本和收益影响。相对而非绝对地看待抱负，使得可以解释教育扩张背景下阶级差异的持续存在（p.84）。
 
 ---
@@ -855,28 +855,28 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 
 ## 关键引用
 
-> [!citation-card]- 论[[Causality\|因果性]]的概率本质
+> [!citation-card] 论[[Causality\|因果性]]的概率本质
 > 原因通常提高其效果的可能性，而不是保证它们。（Mellor, 1995, pp. 69–70）
 >
 > *Causes often RAiSE the likelihood of their effects rather than guaranteeing them.*
 
-> [!citation-card]- [[Causal Over-determination\|因果过度决定]]的定义
+> [!citation-card] [[Causal Over-determination\|因果过度决定]]的定义
 > 因果过度决定是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果。（p.63）
 >
 > *Causal over-determination is "where a particular effect is the outcome of more than one cause, each of which, in itself, would have been sufficient to have produced the effect".* (Morrison, 2009, p. 51)
 
-> [!citation-card]- 论因果关系不能简化为统计
+> [!citation-card] 论因果关系不能简化为统计
 > 统计，无论是推断统计还是[[Descriptive Analysis\|描述统计]]，能表明有力的关系，但未必能建立明确、直接的因果性；它们能确定因果的是什么（what）但不能确定如何（how）。因果性存在于支撑模型的**理论前提和假设**之中，统计的角色是确认、挑战、扩展和完善这些前提和假设。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。
 
-> [!citation-card]- 论超越什么有效
+> [!citation-card] 论超越什么有效
 > 判断什么有效（what works）既是价值判断和判断力的问题，也是[[Causality\|因果性]]的经验结果的问题。成功是一种价值判断，而不只是一种测量或表现。更恰切的问题应是：什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？（p.79）
 
-> [!citation-card]- 论因果研究中的随机性
+> [!citation-card] 论因果研究中的随机性
 > 研究者需要学会在一个随机性经常'胜过'因果性的情境中与因果性共事。（p.94）
 >
 > *Learning to work with causation in a situation in which randomness often "trumps" causation.* (Gorard, 2001a, p. 21)
 
-> [!citation-card]- 论[[Rashomon Effect\|罗生门效应]]中的真理困境
+> [!citation-card] 论[[Rashomon Effect\|罗生门效应]]中的真理困境
 > 真理在[[Epistemology\|认识论]]、感知和动机的泥沼中沉没。（pp.72–73）
 >
 > *Truth flounders in the quagmire of epistemology, perception and motives.*

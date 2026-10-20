@@ -86,7 +86,7 @@ updated: 2026-10-16
 
 ## 相关概念／政策
 
-> [!note]-
+> [!note]
 > [[Argument_Li_2025_HSSC\|Li et al. (2025)]]的[[Systematic Review\|系统综述]]揭示了 [[PISA]]-里斯本战略耦合如何推动[[EU|欧盟]]国家的教育改革（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 > [!entry-map]

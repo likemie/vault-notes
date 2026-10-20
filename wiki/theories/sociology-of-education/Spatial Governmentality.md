@@ -187,7 +187,7 @@ graph TD
 > > - **Foucault（1971） / Rose（1999）** 强调现代权力的毛细血管式渗透与空间构造对主体性的先验塑造，个体在被空间划定的同时完成自我审查。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 > > - **de Certeau（1984） / Dyer（2001）** 主张日常生活实践具有穿透空间栅栏的微观策略（Tactics），被排斥群体能主动借助正规教育资源积累资本、瓦解依附，实现对空间围栏的反向利用。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359, 367)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 指出在分析空间排斥时，不能仅局限于国家结构与权力装置的单一维度，必须将[[Knowledge Questions|知识问题]]式（制度分类与文化偏见）与平等参与问题式结合起来。
 
 ---

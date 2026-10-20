@@ -117,7 +117,7 @@ updated: 2026-10-20
 > - **用途** 广泛用于心理[[Scale Development\|量表开发]]、实验[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]][[Manipulation Check\|操纵检查]]、质性行动者范畴提炼、课程评估对齐审查，以及宏观清算中心“循证认证”的元评估。
 > - **边界** 构念效度不是固定不变的工具属性，而是针对特定使用目的、特定群体和解释情境的“证据累积程度判断”；单一统计拟合指标或权威机构声明均不能单独证明构念效度([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 8]])。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 构念效度要求说明使用一个构念时意味着什么，并检验该表述是否与理论理解相容。如果不同评价机构对同一项目的评级不能收敛，就说明该构念在实践中并不稳定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 176)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 4)]]
 >
 > *Construct validity is the degree to which an operationalization accurately reflects the theoretical construct it is intended to represent, requiring convergent evidence across different methods and discriminant evidence from other traits.*

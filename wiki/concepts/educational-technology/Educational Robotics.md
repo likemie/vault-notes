@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **用途** 在学前与低小学段进行双语认读纠音、拼音与字母笔画示范、算术卡牌游戏互动，以及在高学段进行可编程机器人（如 LEGO / Arduino）软硬件跨学科工程[[Computational Thinking\|计算思维]]训练。
 > - **边界** 实体机器人在高难度抽象逻辑理论推理与大规模并发部署上面临硬件维护成本高、算力受限与算法更新迟滞等物理约束。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 人工智能教育机器人通过具身手势示范、多模态语音交互与[[Gamification\|游戏化]]陪伴机制，显著提升了低龄儿童在语言学习与早期数理技能中的沉浸感与情绪动机。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6）
 >
 > *AI Educational Robotics leverage embodied physical gestures, multimodal speech interaction, and gamified companionship to enhance engagement, emotional rapport, and cognitive skill acquisition in early childhood and primary education.*

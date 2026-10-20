@@ -130,7 +130,7 @@ updated: 2026-10-20
 > | **研究方法分布** | 实证研究高度依赖主观自陈数据：[[Questionnaire\|问卷调查]] 13 篇、访谈 4 篇、[[Mixed Methods Research\|混合方法]] 7 篇；而直接观察课堂教学实际决策的研究极少，仅有 3 篇。 |
 > | **地域与学段** | 涵盖英国（9 篇）、美国（4 篇）、加拿大（3 篇），以及中国、土耳其、西班牙、澳大利亚等 8 个国家各 1 篇。研究对象以中小学（K-12）教师为主，其次为校长与管理者。（p. 3） |
 
-> [!example]- 图1：[[Literature Search\|文献检索]]与筛选系统综述与[[Meta-analysis\|元分析]]优先报告条目（PRISMA）流程图
+> [!example] 图1：[[Literature Search\|文献检索]]与筛选系统综述与[[Meta-analysis\|元分析]]优先报告条目（PRISMA）流程图
 > ![](https://img.mylikemie.icu/sources/Mausethagen_2025_ERR/figures/Mausethagen_2025_ERR_Fig1_PRISMA_Flowchart.jpg)
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ### 论证步骤一：三十年文献在提问时普遍把教师预设为能力短缺的客体
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 现有文献在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字[[Discourse|话语]]。（pp. 4–5）
 
 > [!chain-link] 证据到判断
@@ -173,7 +173,7 @@ updated: 2026-10-20
 
 ### 论证步骤二：方法论个体主义导致无论研究方法如何丰富，调查结论总是千篇一律显示使用不足
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 尽管后来的研究在理论模型（从线性传递走向复杂转译）和分析视角（从个体技能走向组织支持）上日益多样，但受[[Methodological Individualism\|方法论个体主义]]支配，实证调查总是同质化得出教师在实际教学中极少使用研究的结论。（pp. 5–6）
 
 > [!contrast-table] 研究使用概念化的二维分析矩阵与实证表征
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ### 论证步骤三：政策建议往往退回到强化技能培训的简单处方，陷入自我循环论证
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 文献在面向实践与政策制定者提出建议时，普遍缺乏对研究使用概念本身的认识论反思，容易陷入将复杂生态退缩为个体培训的还原主义，并在逻辑上自我确证初始赤字假设。（pp. 6–7）
 
 > [!chain-link] 证据到判断
@@ -207,7 +207,7 @@ ightarrow$ 结论呼吁增设技能培训以弥补短板；结论反向印证了
 
 ### 论证步骤四：迈向第四代专业敏感型范式，关注多源知识整合与教师专业能动性
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 打破 30 年研究僵局的关键路径在于超越将教师视为被动执行者的前三代理论模型，迈向第四代研究使用理论，确立以多源知识动态整合、专业伦理规范和专业能动性为支柱的专业敏感型概念化。（pp. 7–8）
 
 > [!dimension] 第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]的三大支柱与运行机制
@@ -237,12 +237,12 @@ ightarrow$ 结论呼吁增设技能培训以弥补短板；结论反向印证了
 
 ## 关键引用
 
-> [!citation-card]- [[Deficit Framing\|赤字框架]]的长期存在
+> [!citation-card] [[Deficit Framing\|赤字框架]]的长期存在
 > 赤字框架（Deficit Framing）指的是将教师专业群体定位为在知识、技能或能力上存在不足，而倡导[[Research Utilization\|研究使用]]正是为了应对这一缺失……30 年来，关于[[Research Utilization\|研究使用]]的学术文献在这种[[Problem Finding\|问题界定]]下保持了高度的一致性。（pp. 4–5）
 >
 > *The term deficit framing refers to the teacher profession being positioned as lacking in knowledge, skills or competences, which increased research use is designed to address... Problem formulations associated with deficit framing have remained stable over time.*
 
-> [!citation-card]- 迈向第四代研究使用
+> [!citation-card] 迈向第四代研究使用
 > 基于我们的发现，我们主张关于研究使用的研究应当迈向第四代，在更大程度上顾及教师专业实践的核心特征……与其将问题表述为教师个体能力的欠缺，不如将分析焦点置于[[Knowledge Integration\|知识整合]]之上，从而更深刻地揭示科研知识在专业实践中的适用边界与潜在价值。（p. 8）
 >
 > *Based on our findings, we argue that [[Metascience|Research on Research]] use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts\|account]] key characteristics of teachers’ professional practice... Rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances\|affordances]] of research knowledge as a component of professional practice.*

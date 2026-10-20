@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 包含 $k$ 个效应量的初级研究集合。
 > - **输出形式** $k$ 次循环迭代的加权合并效应量序列、重估 95% 置信区间、重估异质性参数（$\tau_{(-i)}^2, I_{(-i)}^2$）及留一法[[Forest Plot\|森林图]]。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 留一法敏感性分析通过系统性地逐项排除初级研究，检验每一次排除后合并效应量是否仍落在基准置信区间内；若排除任何单一研究均未改变总体效应的方向与显著性，则确立元分析证据体系的高度统计稳健性。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 7–9)]]
 >
 > *A leave-one-out sensitivity analysis was conducted to evaluate the robustness of the pooled effect size. By iteratively removing one primary study at a time and recalculating the summary effect under the [[Random-Effects Model]], this method ensures that the overarching conclusions are not driven by any single outlier or disproportionately weighted study.*

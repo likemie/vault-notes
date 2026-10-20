@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** 在 1985 年《哲学杂志》（*The Journal of Philosophy*）发表划时代论文《[[Epistemic Dependence\|认识依赖]]》（*Epistemic Dependence*），彻底颠覆了自[[Enlightenment\|启蒙运动]][[René Descartes\|笛卡尔]]与[[Immanuel Kant\|康德]]以降“理性知者必须完全依靠自身独立验证一切证据”的个我中心教条，首次系统论证现代高度专业化分工中个体对专家共同体权威与社会证言的理性依赖，开创了当代社会认识论的关键分析维度。
 > - **代表贡献** 创立认识依赖（[[Epistemic Dependence]]）理论；确立[[Knowledge Production\|知识生产]]中的信任伦理与学术品格价值（Hardwig, 1991）；在生命伦理学领域提出引发长期国际反响的“死亡义务”伦理命题（*Is There a Duty to Die?*, 1997）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 哈德威格深刻指出，现代知识在广度与深度上高度分布于庞大的专家群体与专业机构之中；当非专家面对自身不可逾越的专业局限时，信任并依赖专家的智力权威，不仅不是理性的妥协，反而是理性反思自身限度后的必然产物。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 2)]]; Hardwig (1985, pp. 335–336)
 >
 > *Hardwig showed that modern knowledge is distributed across experts and institutions; Goldman asked how nonexperts should decide which experts to trust.*
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 哈德威格最深刻的理论断言在于击碎了[[Enlightenment\|启蒙运动]]以来统治西方[[Epistemology\|认识论]]的“独立自主个体知者”神话。他深刻指出，现代知识大厦的本质是高度社会化与分布式的，没有任何单个个体能够完全掌握支持自身所有理性信念的第一手实验与数学推导；如果一个外行固执地坚持事必躬亲式的纯粹个体验证，其结论必将远不如信任该领域专家权威来得可靠。因此，诉诸专家证言并非愚昧的屈从，而在许多关键领域恰恰是最高形式的理智反思。
 
 > [!citation-card] 约翰·哈德威格论诉诸专家权威的理性正当性
@@ -107,7 +107,7 @@ updated: 2026-10-20
 > - **学习科学与教育认识论路径** 纠正了[[Radical Constructivism\|激进建构主义]]盲目贬抑学术权威与显性教学的倾向，为理解学习者如何在专家支架与共同体证言引导下逐步走向成熟认识提供了认识论辩护。
 > - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将哈德威格的认识依赖理论确立为人机中介学习的哲学源流，论证现代人类知识生产历来深嵌于外部工具与专家网络之中，并以此破除脱离技术的虚假纯洁性幻想。
 
 ---

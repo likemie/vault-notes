@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者看见为何单纯将学者与教师置于同一物理空间往往无法消除隔阂，揭示制度化语言翻译、角色边界维护与对等话语权对伙伴关系存续的决定性作用。
 > - **边界** 不等于中小学内部随意的经验交流闲谈，不等于大学单向主导的学术讲座与术语灌输，亦不等于抹杀学术严谨性的纯行政事务性讨论。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 弥合研究与实践鸿沟的举措容易模糊理论与实践、科学知识与经验知识、研究者与实践者、大学与学校之间的界线。另一种建设性的方式是明确承认甚至欣赏研究者与实践者之间的差异，包括源自其不同实践的独特价值、视角、长处与短板。通过时间和资源投入，这种协作能够促成一种拥有共同语言和旨趣的第三空间话语。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
 >
 > *Another way could be to explicitly recognise and even appreciate the differences between researchers and practitioners including the values, perspectives, strengths and weaknesses that follow from their practices... Over time and with resources and efforts, the discourses can potentially become a common one with shared language and interests between researchers and practitioners, creating a “third space discourse”.* (Prøitz, 2022; cited in Bangs et al., 2022, pp. 217–218)

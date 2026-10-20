@@ -208,7 +208,7 @@ updated: 2026-10-20
 > > - **后现代激进阵营** 认为启蒙理性本质上已沦为极权统治与技术规训工具，必须彻底解构。
 > > - **[[Jürgen Habermas|尤尔根·哈贝马斯]]（1987）** 坚称后现代主义在哲学上是“自我挫败的”，指斥其为一种新的保守主义（neo-conservatism），主张通过主体间交往行为与理性辩论完成现代性启蒙工程。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 系统梳理后现代主义对[[Positivism|实证主义]]的解构逻辑，指陈其相对主义滑向[[Epistemology|认识论]]虚无主义与自我反指悖论（Self-referential Paradox）的方法论风险。
 
 ---

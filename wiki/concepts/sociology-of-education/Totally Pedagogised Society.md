@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **用途** 提供了一个超越“学校系统”狭隘视线的社会学概念工具，帮助研究者透视和解构打着教育、培训、评估旗号的深层社会控制逻辑。(p. 336)
 > - **边界** 区别于[[Lifelong Learning\|终身学习]]等鼓励性的政策修辞——全盘教育化社会是批判性的社会形态学诊断，揭示的是无孔不入的指标束缚与行为监控，而非个体的自由成长。(p. 336)
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 译文：目前最好的提示来自巴兹尔·伯恩斯坦（Basil Bernstein）极具原创性的思考。伯恩斯坦以涂尔干式的方法思考系统性地在 19 和 20 世纪学校制度之外创造教育关系模式的社会基础，将全盘教育化社会这个看似耸人听闻的新闻用语转变成了一个连贯的理论概念。
 > 
 > 原文：*"The best hint, so far, is in the remarkably original thinking of Basil Bernstein (2001). Bernstein turned what sounds like an alarmist bit of journalism – a 'totally pedagogised society' – into a coherent theoretical concept by thinking (in a Durkheimian way) about 'the social base' which systematically [[CREATES Project\|CREATES]] patterns of pedagogic relations outside of the institutions of nineteenth and twentieth century schooling."* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
@@ -104,7 +104,7 @@ updated: 2026-10-20
 > - **[[Educated Identity\|受教育身份]]问题（Educated Identity）**
 >   将研究拉回对生命状态的底线关切，保持强烈的道德同理心与清晰性，去严肃地见证并在学术上记录：在“教育”与“算法训练”的旗帜下，我们究竟对全世界的孩子们实施了怎样的系统性人道后果。(p. 336)
 
-> [!note]- 道德形容词工具的辅助
+> [!note] 道德形容词工具的辅助
 > 在分析全盘教育化社会下的极端政治干预（如阿富汗、乌克兰战争，或[[National Security Law\|香港国安法]]下的课程重塑）对受教育身份的实际破坏时，必须辅以“英雄的”（heroic）、“陌生的”（strange）与“野蛮的”（barbaric）等道德词汇，刺破技术官僚的精致相对主义，直面社会控制背后的政治暴力与生命代价。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 335, p. 336]])
 
 ---

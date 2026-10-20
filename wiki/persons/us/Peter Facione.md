@@ -58,7 +58,7 @@ updated: 2026-10-20
 > 2. 编制了全球应用最广的[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST）与[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（[[California Critical Thinking Disposition Inventory\|CCTDI]]）；
 > 3. 提出了整合认知技能与情意倾向的批判性思维决策理论。
 
-> [!citation-card]- 德尔菲报告对批判性思维的奠基性界定
+> [!citation-card] 德尔菲报告对批判性思维的奠基性界定
 > 我们将批判性思维理解为有目的的、自我调节的判断；这种判断表现为对证据、概念、方法、标准或情境考量的解释、分析、评价和推论，以及对该判断所依据的理由之阐明。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 277)]]
 >
 > *We understand critical thinking to be purposeful, self-regulatory judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based.* (Facione, 1990, p. 2)

@@ -123,7 +123,7 @@ updated: 2026-10-20
 > - **前提二** 现代全球治理实践表明，诸如[[OECD\|经合组织]]、[[World Bank\|世界银行]]等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
 > - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“[[Knowledge Mediation\|知识中介]]”。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一与命题二）** 政策决策者在面临选举问责与施政合法性危机时，倾向于对两社区之间的外部证据进行象征性与选择性利用，优先吸纳能够背书既定方针的确定性结论，而主动清洗或过滤具有方法论审慎性与存疑特质的学术文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **推论二（源自核心命题三）** 当[[Boundary Spanner\|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向规训国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **应用命题** 延伸至全球教育[[Policy Borrowing\|政策借用]]与转译研究中，该理论精准预测了在国家课程改革中，国际组织（如经合组织、世界银行）打包推介的“即插即用”式[[21st Century Skills and Competencies Discourse\|核心素养]]框架，比本土大学研究者基于复杂情境的审慎实证更容易在法定行政法令层面获得政策采纳。
@@ -235,7 +235,7 @@ updated: 2026-10-20
 > > - **Best and Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production\|协同生产]]机制以提高知识吸收效率。
 > > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具[[Knowledge Production\|知识生产]]、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展[[Soft Power by Hard Facts\|硬事实软权力]]的政治行为。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 批评传统两社区模型将科学与政治预设为彼此割裂、各自纯粹的孤岛，忽视了现代国际组织集知识生产、推介与资助为一体的权力共谋实质。
 
 ---

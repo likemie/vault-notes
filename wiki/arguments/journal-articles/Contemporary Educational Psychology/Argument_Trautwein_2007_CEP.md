@@ -316,7 +316,7 @@ issuing_organization: ""
 > | 家庭 SES $\to$ 确定性信念 | **-0.02** | $ns$ | 纯经济地位对确定性信念无直接影响（其效应已被文化资本完全吸收） |
 > | 年龄 $\to$ 确定性信念 | **-0.02** | $ns$ | 同一年级内略微的年龄差异不影响[[Epistemological Beliefs\|认识论信念]] |
 
-> [!example]- 图2：结构方程模型预测高中毕业总评成绩
+> [!example] 图2：结构方程模型预测高中毕业总评成绩
 > ![](https://img.mylikemie.icu/sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig2_Predicting_Final_School_Grades.jpg)
 
 > [!exegesis]- 统计参数通俗解读（路径系数、模型拟合与中介机制）
@@ -404,7 +404,7 @@ issuing_organization: ""
 > | **商科/经济（$N = 203$）** | $2.08 \pm 0.03$ | $2.02 \pm 0.03$ | **-0.06** | 维持极高确定性水平 | 硬学科、应用管理领域 |
 > | **工科/工程（$N = 142$）** | $2.05 \pm 0.04$ | **$2.08 \pm 0.04$** | **+0.03** | **全样本中唯一确定性上升的学科** | 硬学科、应用技术领域 |
 
-> [!example]- 图3：不同专业学生在T1与T2时期的确定性信念均值与标准误
+> [!example] 图3：不同专业学生在T1与T2时期的确定性信念均值与标准误
 > ![](https://img.mylikemie.icu/sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig3_Certainty_Beliefs_Across_Fields_T1_T2.jpg)
 
 > [!exegesis]- 表4与图3各专业均值与误差线通俗解读（纵向发展轨迹）
@@ -472,17 +472,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 确定性信念对学习的长期阻碍
+> [!citation-card] 确定性信念对学习的长期阻碍
 > 帮助学生建立关于人类知识的成熟信念系统，其本身就是一项重要的教育目标，同时也是提升[[Academic Achievement\|学业成就]]的重要途径。如果课堂或讲堂上使用的教学材料能够体现人类知识的暂时性与未定性，这一目标就更有可能实现。（p.362）
 >
 > *Hence, helping students to acquire a sophisticated beliefs system about human knowledge is an important educational goal in itself and a means of enhancing academic achievement. It is more likely that this objective will be achieved if the materials used in the classroom or lecture hall reflect the tentative nature of human knowledge.*
 
-> [!citation-card]- 科学教育直面不确定性的必要性
+> [!citation-card] 科学教育直面不确定性的必要性
 > 接触不确定性在硬科学中可能尤为重要。媒体往往将硬科学的发现描绘成“事实”。一些学生可能正是因为硬科学似乎提供事实而非模糊的理论或假设而被其吸引。因此，科学教育去探讨知识及其获取过程中的复杂性显得尤为重要。（p.362）
 >
 > *Exposure to uncertainty might be particularly relevant in the hard sciences. The media often portray findings from the hard sciences as "facts." Some students might be attracted to the hard sciences precisely because they seem to offer facts, and not vague theories or assumptions. It is thus especially important for science education to address the complexities involved in knowledge and knowledge acquisition.*
 
-> [!citation-card]- 科学知识作为探索的暂时性终产物
+> [!citation-card] 科学知识作为探索的暂时性终产物
 > 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学[[Discourse|话语]]体系中“暂时的终产物”，显得格外重要。（p.362）
 >
 > *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*

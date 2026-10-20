@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Slavin 的核心思想归结为教育改革的 **“循证累积[[Paradigm\|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment\|随机分配]]与基线严格等价的准实验）** 基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER\|(Slavin, 2002)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019)]]; [[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]
 
 > [!citation-card] 实验规模与不可逆教育进步
@@ -158,7 +158,7 @@ updated: 2026-10-20
 > - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦学校改善拨款必须依据实证等级投放。
 > - **实践路径** 创办的 [[Success for All]] 惠及全美百万计的贫困与弱势学生；创建的 [[Best Evidence Encyclopedia\|BEE]] 与 [[Evidence for ESSA]] 成为全美学区学监与校长采购教学方案的首选指南。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm\|范式]]对克服教育研究声誉危机的根本意义。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 荣获桑代克奖后的总结性论著，系统梳理 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence-Based Reform\|证据本位改革]]的三条件机制。
 > - [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。

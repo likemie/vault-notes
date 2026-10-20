@@ -90,7 +90,7 @@ updated: 2026-10-20
 >
 > *Emerson reminds us, "For nonconformity, the world whips you with its displeasure... Leave your theory, as Joseph his coat in the hand of the harlot, and flee." Dewey wrote that a commitment to pragmatism "discourages dogmatism, arouses and heartens an experimental spirit which wants to know how systems and theories work before giving complete adhesion, and militates against too sweeping and easy generalizations."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **批判性思维认知技能（CT Cognitive Skills）** — 技能处理的是分析、推理与评价的技术操作（How to think）；倾向处理的是在何时、出于何种内在承诺去运用这些技术的意愿与勇气（Why & When to think）。
 > - 不等于 **被动的心理脆弱性保护** — 批判性思维倾向拒绝将“主观不适”简化为实质伤害，强调在面对异质挑战时保持理智分寸感与探究定力。
 > - 不等于 **教条主义辩护** — 倾向的核心在于根据最新物理与实证证据推翻自身理论，而非死守既有观点。

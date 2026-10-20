@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 米德主张，人类不仅生存于由驱力与生物本能支配的“自然世界”，更居住在由语言与象征符号赋予意义的“社会世界”之中。人类自我的本质并非生物遗传或孤立内省的产物，而是在微观人际互动中通过“扮演他人的角色”（taking the role of the other）持续协商与[[Reflexivity\|反思性]]建构的社会过程。[[Symbolic Interactionism\|符号互动论]]将微观人际“互动本身”确立为经验研究的基本单位，坚决摒弃将人视作机械被动有机体的[[Positivism\|实证主义]]假设，确立了行动者主动解释情境、赋予意义并能动建构社会现实的完整主体形象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
 
 > [!feature] 符号互动论的三大基本公设（Woods, 1979）
@@ -158,7 +158,7 @@ updated: 2026-10-20
 > - **方法路径** 为学校微观[[Ethnography\|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory\|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm\|范式]]提供了微观[[Epistemology\|认识论]]辩护。
 > - **跨领域与课程传播** 1990年代被芬兰教育学者转译为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 详细剖析了米德符号互动论三大公设、[[Role-playing\|角色扮演]]、互动研究单位以及其在学校与课堂探究中的独特解释力。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] — 论述了米德关于心身统一、环境互动与[[Pragmatic Paradigm\|实用主义]]认识论如何为芬兰现象本位学习（PhBL）奠定哲学根基。
 
@@ -193,7 +193,7 @@ updated: 2026-10-20
 > > - **宏观结构批判学者（Rex, 1974; Bernstein, 1974）** 批评符号互动论将社会秩序过分描绘为面对面微观协商的产物，严重低估了宏观政治经济结构、阶级再生产以及制度化强制对个体行动的刚性约束。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > > - **符号互动论学者回应** 辩护称宏观制度并非超越个体的实体，而是无数行动者在无数微观情境中反复实践与协商所维系的模式化结果；研究互动正是揭示制度动态韧性的微观入口。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 评述了符号互动论及[[Interpretive Paradigm\|诠释范式]]在学校与[[Lesson Study\|课堂研究]]中的适用边界，指出若割裂宏观权力网络而孤立观察微观互动，可能难以洞悉深层结构性不平等的来源。
 
 ---

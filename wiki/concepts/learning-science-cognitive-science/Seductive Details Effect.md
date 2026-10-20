@@ -53,7 +53,7 @@ updated: 2026-10-20
 > - **用途** 解释为什么低年龄学习者在面对富媒体或复杂视觉组织器时容易迷失重点，指导极简高效的可视化[[Scaffolding\|脚手架]]设计。
 > - **边界** 诱人细节特指与核心学习目标无关的附加信息；若生动细节本身直接承载核心概念与因果机制，则属于有效表征而非诱人细节。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 无关的图示细节（如装饰性图像）更容易分散小学生的注意力并阻碍其对[[Graphic Organizer\|图形组织器]]的有效利用，产生显著的诱人细节效应；相比之下，高年级学生具备更强的抗干扰与[[Meta-Representational Competence\|元表征能力]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 >
 > *Moreover, unimportant graphic organizer details (e.g., images) more readily distract primary school students and hinder their graphic organizer use, compared to older students (seductive-details effect, Rowland-Bryant et al., 2009)...*

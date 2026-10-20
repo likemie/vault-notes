@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **核心角色** 在 Quine 的强自然主义基础上，开创保留规范性评价的温和自然主义与过程[[Reliabilism\|可靠主义]]；在社会认识论层面系统提出非专家对专家证词的理性评估模型，成为当代学习科学[[Epistemic Cognition\|认识论认知]]与人工智能中介知识确证研究的哲学源流。
 > - **代表贡献** 创立过程可靠主义（Reliabilism）；提出[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]（[[Goldman's Discrimination Theory of Knowledge]]）；开辟社会认识论，提出外行评估专家信誉的五大理性证据维度（Goldman, 2001）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > Goldman 奠定了社会认识论的核心提问：当现代知识高度复杂且高度劳动分工时，非专家究竟应当依据何种理性准则去决定信任哪一位专家的证言。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 4)]]; Goldman (2001, pp. 85–92)
 >
 > *Hardwig (1985) showed that modern knowledge is distributed across experts and institutions; Goldman (2001) asked how nonexperts should decide which experts to trust.*
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 知识的确证不取决于认知主体是否在内省意识中掌握完备的先验理由，而取决于产生该信念的[[Causal Processes\|因果过程]]（如知觉辨识、可靠记忆、严密科学推论或经过良好同行审查的制度通道）在客观世界中产生真信念的真实[[Reliability\|可靠性]]；在个体高度依赖他人专长的社会知识网络中，外行必须依托辩论证据、间接声誉、利益冲突审查及元专业资质等间接线索对专家权威实施理性校准。
 
 > [!citation-card] 论外行对专家证词与认识权威的理性[[Justificatory Standards\|确证标准]]

@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育是权力分配与社会控制原则借以合法化运作的符号中介装置，具有鲜明的意识形态与阶级属性。教育系统通过结构性的分类与框架界线、教学[[Discourse|话语]]的[[Recontextualization\|再脉络化]]过滤以及主导性语言代码的制度性优势，持续再生产阶级结构的不平等；微观情境中的师生互动、协商与定义，从根本上受到宏观权力不对称与客观制度结构的刚性制约。
 
 > [!feature] 伯恩斯坦理论体系的四大核心支柱
@@ -172,7 +172,7 @@ updated: 2026-10-20
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识流失的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ball_2008_SR\|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure\|横向知识结构]]和教育[[Discourse|话语]]为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm\|范式]]争鸣。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse\|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology\|认识论]]危机。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein（1974）批判微观[[Interpretive Paradigm\|诠释范式]]与[[Symbolic Interactionism\|符号互动论]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Ch. 2]] 借其批判[[Technical Rationality\|技术理性]]课程与[[Action Research\|行动研究]]的赋权限度。
@@ -206,7 +206,7 @@ updated: 2026-10-20
 > > - **[[Michael Young]] 编辑团队（1971）** 将伯恩斯坦关于分类与框架的开创性论文收录于经典文集 *Knowledge and Control*，使其被外界普遍打上 NSE 先锋标签。
 > > - **[[Argument_Ball_2008_SR\|Ball (2008)]]** 澄清指出，伯恩斯坦始终拒绝等同于 NSE；他尖锐批评 NSE 沉溺于抽象[[Phenomenology\|现象学]]空谈且缺乏经验实证支撑，坚持依靠严密的社会学分类矩阵与经验数据构建理论大厦。[[Argument_Ball_2008_SR\|Ball, 2008, p. 661]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Ball_2008_SR\|Ball, 2008]] — 指出伯恩斯坦过于精密且高度抽象的形式化概念体系，虽然具有惊人的理论生产力，但也筑起了极高的学术理解门槛，在一定程度上加剧了教育社会学内部语言壁垒的割裂。
 
 > [!warning] 未解问题与边界

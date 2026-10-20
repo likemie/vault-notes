@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　正统新制度主义同构论难以解释微观技术能动性：数据基础设施通过拓扑空间化重构教育政策尺度
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 正统新制度主义将全球化视作国家间政策趋同（isomorphism）与世界体系扩张的宏观过程，忽视了微观物质技术的能动性；数字化[[Data Infrastructure\|数据基础设施]]通过[[Topological Spatialisation\|拓扑空间化]]与装配机制，打破了固定领土边界对政策尺度的固化约束，驱动了教育政策的[[Rescaling\|尺度重组]]。（pp. 135–138）
 
 #### 1. 正统制度主义同构论忽视技术物质性且难以解释本土制度摩擦
@@ -196,7 +196,7 @@ updated: 2026-10-20
 
 ### 论证步骤二　PISA 震荡打破联邦分权路径依赖：驱动产出导向国家教育监测体系建立
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 2000 年 [[PISA]] 震荡打破了德国各州各自为政的传统输入控制模式，促使 16 个联邦州在 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 框架下制定《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》，正式确立了包含四大支柱的产出导向多层级质量监测体系，并由联邦教研部（[[Federal Ministry of Education and Research\|BMBF]]）启动[[National Educational Panel Study\|德国国家教育发展追踪研究]]（NEPS）与“地方学习”计划深化微观与地方基建。（pp. 138–143）
 
 #### 1. 文化主权壁垒与 PISA 震荡危机倒逼治理范式从输入控制转向产出监测
@@ -221,7 +221,7 @@ updated: 2026-10-20
 > - **全生命周期追踪基建：[[National Educational Panel Study\|NEPS]]** BMBF 于 2009 年资助建立全德 20 余所科研机构联合的教育发展追踪网络，跟踪 6 大起始队列逾 6 万名受试者，并在 2013 年正式确立为联邦与各州共建的永久性国家科研基建。
 > - **地方监测与公私伙伴计划：[[Lernen vor Ort]]** BMBF 联合慈善基金会于 2009–2014 年资助 35 个示范市镇建立地方教育管理与监测报告，以[[Public-Private Partnership|公私伙伴关系]]穿透州级壁垒直接赋能基层学区。（pp. 142–143）
 
-> [!example]- 图1：德国标准化绩效评价体系
+> [!example] 图1：德国标准化绩效评价体系
 > ![](https://img.mylikemie.icu/sources/Hartong_2018_GSE/figures/Hartong_2018_GSE_Fig1_Standardised_Performance_Assessments_Germany.jpg)
 
 > [!warrant]- 制度转型的机制推论
@@ -231,7 +231,7 @@ updated: 2026-10-20
 
 ### 论证步骤三　IQB 依托跨尺度数据基础设施穿透行政边界：在去排名约束下实现实质性远距离治理
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 柏林洪堡大学教育质量发展研究所（IQB）作为德国事实上的国家计算中心，通过统筹统一题库、接管 VERA 元治理、设立研究数据中心（FDZ）集成多源数据库以及上线数字化练习平台，在各州行政藩篱之间构筑起跨尺度的拓扑数据网络，促成了教育政策空间的深层重组。（pp. 140–145）
 
 #### 1. IQB 通过垄断国家标准研制与统筹 VERA 确立元治理认知中枢地位

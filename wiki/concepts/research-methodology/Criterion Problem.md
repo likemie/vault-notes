@@ -68,7 +68,7 @@ updated: 2026-10-16
 > - **用途** 帮助研究者透视实证研究中[[Independent Variable\|自变量]]预测力与[[Dependent Variable\|因变量]]被预测力之间的结构性偏差，避免将测量效标的分歧误读为干预或心理特质本身的失效。
 > - **边界** 不等同于单纯的测量随机误差（Random Error）；随机误差通过大样本抽样可相互抵消，而效标问题是由效标界定的系统性偏误与构念割裂所致。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 关于[[Creativity\|创造力]]预测力的结论必须受到以下事实的限定：即既有[[Meta-analysis\|元分析]]中使用的效标数量是有限的。这正是长期困扰创造力研究的著名“效标问题”的集中体现。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
 >
 > *Conclusions about predictions from creativity must be qualified by the fact that there was a finite number of criteria used in the previous meta-analyses. This is in addition to the well-known criterion problem which has long plagued the creativity research.*

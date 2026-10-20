@@ -88,14 +88,14 @@ Kim 通过对全球流动学者的分析展示了市场化如何改变符号位�
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - **Foucault 的权力-知识分析** 将高等教育理解为权力知识的部署（dispositif），强调历史偶然性和权力-知识配置的变迁特征（Ball, 1990; Rose, 1996; Maesse & Hamann, 2016）
 > - **[[Constructivist Paradigm\|建构主义]]社会学** 关注意义建构和主导解释的斗争作为高等教育内部的社会活动——排名、评估和指标不仅衡量现实、更在制造它们所描述的现实([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.805–806]])
 > - **Bourdieu 的符号资本**[[Pierre Bourdieu]] 的符号商品和区分逻辑为理解学术竞争中的非货币维度提供了基础（Bourdieu, 1984）
 
 ## 与分配冲突路径的关系
 
-> [!note]-
+> [!note]
 > [[Discourse|话语]]分层与另一分析路径——分配冲突（distributional conflicts）——形成互补而非对立。分配冲突路径关注政策和资源分配机制，运用制度主义和马克思主义分析；话语分层路径关注意义建构和符号权力斗争。
 >
 > 两条路径在三个核心议题上存在紧张：

@@ -42,7 +42,7 @@ updated: 2026-10-20
 > - **用途** 适用于三种语境：**评价性**（好/坏、有价值/无价值）、**效力性**（强/弱、大/小）和**活动性**（快/慢、主动/被动）。研究者可根据研究需要自行设计形容词对。
 > - **边界** 与[[Likert Scale\|李克特量表]]不同，语义差异量表使用双极形容词而非同意程度陈述，测量的是对象在语义空间中的位置。它仍产生顺序数据，不假设等距。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > Osgood et al.（1957），该技术的先驱者，建议语义差异量表在三种语境中有用：评价性（如 valuable–valueless, useful–useless, good–bad）；效力性（如 large–small, weak–strong, light–heavy）；和活动性（如 quick–slow, active–passive, dynamic–lethargic）。（p. 130）
 >
 > *Osgood et al. (1957), the pioneers of this technique, suggest that semantic differential scales are useful in three contexts: evaluative (e.g. valuable–valueless, useful–useless, good–bad); potency (e.g. large–small, weak–strong, light–heavy); and activity (e.g. quick–slow; active–passive, dynamic–lethargic).*

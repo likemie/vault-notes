@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **核心角色** 重新阐释经典教化（Bildung）理论的社会政治意义，将教学论（[[Didaktik]]）与不确定的开放未来及公共责任相连，为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）等跨学科课程改革奠定了核心的哲学和课程组织框架。
 > - **代表贡献** [[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）、批判建设性教学论（Critical-constructive Didaktik）、[[General Education|通识教育]]（Allgemeinbildung）重构。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > Wolfgang Klafki 是德国教育学与 [[Didaktik]] 传统中的关键人物。他把 [[Bildung]] 与课程/教学理论连接起来，提出以 [[Epochal Key Problems]] 指导课程规划，使教育面向开放未来、公共责任和复杂社会问题。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 >
 > *Wolfgang Klafki... is a key figure in this tradition who connects the idea of Bildung with a theory of curriculum and teaching (Didaktik). Klafki argues... to suggest so called ‘epochal key problems’ to be the guiding questions for curriculum planning.*
@@ -107,10 +107,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育面对的是一个本质上不可预知且开放的未来（Open Future），政策制定者与教师无法预测未来学生所需要的具体知识。因此，教育绝不能矮化为对既有科学知识的狭窄传递，而必须围绕[[Epochal Key Problems|时代关键问题]]来规划课程，培养学生批判（Critique）、论证（Argumentation）与共情（Empathy）的能动性，使其在继承人类知识传统（[[Disciplina and Doctrina|disciplina]]）的同时，具备反思、质疑与变革现状（doctrina）的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
-> [!citation-card]- 知识的深入参与与批判性探究
+> [!citation-card] 知识的深入参与与批判性探究
 > 教学与学习应当使学生能够比仅仅获得一套预先定义的、可测量的和可管理的条目更深入地参与知识。教育应该鼓励学习者进行批判性的、自我[[Reflexivity|反思性]]的探究，既被引入知识传统（disciplina），又参与提问和改变应该发展的事物（doctrina）。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
 >
 > *...teaching and learning should aim to enable a deeper engagement with knowledge than only acquiring a set of pre-defined, measurable, and manageable items. Education should encourage the learners towards critical, self-reflexive inquiry, to be both introduced into the knowledge tradition (disciplina) and to be engaged in questioning and changing what should be developed (doctrina).*
@@ -125,7 +125,7 @@ updated: 2026-10-20
 > - **政策路径** 在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 > - **跨国／跨领域传播** 其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究，影响了北欧基础教育的课程论面貌。1970 年代丹麦学者重读克拉夫基以批判威权灌输式教学，推进以学生为中心的[[Reform Pedagogy|改革教育学]]实验校建设。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 追溯芬兰 PhBL 的哲学根源，分析了 Klafki 的[[Epochal Key Problems|时代关键问题]]框架如何帮助跨学科课程在保持学科深度的同时抵抗技能原子化倾向。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读克拉夫基以批判威权注入式教学、推进以学生为中心的改革教育学实验的本土化经验。
 

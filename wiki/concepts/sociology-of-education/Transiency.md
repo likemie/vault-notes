@@ -73,7 +73,7 @@ updated: 2026-10-20
 >
 > *So starkly is student movement socially coded and culturally constructed in the US context that the policy and research language sometimes shifts from speaking in terms of 'mobility' to discussing this as a form of 'transiency', the latter being closely linked with poverty and the perception that the individual(s) in question exhibit an almost pathological inability to live a proper, settled life. In other words, mobility is not seen as an advantage but as an obstacle to progress and stability.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 [[Student Mobility]]** 后者在欧洲一体化等宏观叙事中被建构为追求跨文化素养、[[Human Capital Theory|人力资本]]与自由流动的褒义制度资产；而 Transiency 则是基础教育问责制下被污名化与赤字化的贬义标签。
 > - **不等于 [[Migrant Education]]** 流动儿童教育通常涉及跨国或跨省城乡大尺度劳动力迁徙；Transiency 则大量发生在大都市内部（城内跨区短途租房变迁）。
 
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **学校绩效免责杠杆（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
 > - **空间规训越轨定性（Spatial Deviance Marking）** 被学校科层系统定性为顽固拒绝停留在既定封闭空间内接受规训的越轨偏离群体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
-> [!logic-map] 要素结构逻辑
+> [!logic-map]- 要素结构逻辑
 > ```mermaid
 > flowchart TD
 >     subgraph 宏观结构动因

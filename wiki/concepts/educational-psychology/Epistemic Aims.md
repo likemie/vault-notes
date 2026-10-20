@@ -83,7 +83,7 @@ updated: 2026-10-20
 >
 > *Epistemic aims are the goals that people adopt when inquiring or forming beliefs... the AIR model expands epistemic cognition beyond acquiring justified true beliefs to a broader array of epistemic achievements, such as developing explanatory models, evaluating empirical evidence, and generating trustworthy scientific arguments.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Epistemic Ideals]]：认识论目标回答“探究追求什么认知成就”（如因果机制理解），而认识论理想回答“达成该成就是否令人信服的检验标准”（如全证据契合与多源收敛）。
 > - 不等于 [[Reliable Epistemic Processes]]：认识论目标是认知探究的意图终点，认识论过程则是实现该目标的因果操作程序（如双盲实验与[[Systematic Review\|系统综述]]）。
 > - 不等于 一般成就动机：追求考试高分、展示个人聪明才智或在辩论中驳倒对手属于普遍动机或社交目标；只有当意图直接锁定在理解事物运作机制或逼近客观事实时，才构成认识论目标。

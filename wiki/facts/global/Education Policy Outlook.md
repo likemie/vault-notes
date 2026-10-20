@@ -77,7 +77,7 @@ updated: 2026-10-16
 > [!claim] 核心机制假说
 > EPO 的核心机制在于将[[OECD\|经合组织]]测评工具产生的"硬事实"数据系统诠释为国别政策成败的客观证据，再通过跨国横向对照（Outward-looking Cross-national Referencing）将排名靠前国家的政策经验转化为可移植的"政策处方"——这是经合组织以[[PISA]]排名激发"PISA 冲击"、随后通过 EPO 提供"问题诊断与处方建议"的完整规制链条的关键后半段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **[[Analytic Framework\|分析框架]]** 沿用经合组织"教育质量、公平、效率、制度容量"四维分析框架，系统评估各国教育系统的相对优势与政策缺口。
 > - **数据整合** 深度整合[[PISA]]学生成绩数据、[[Teaching and Learning International Survey\|TALIS]]教师调查数据、《[[Education at a Glance\|教育概览]]》（EAG）结构性指标，以及各成员国政府提交的政策[[Questionnaire\|问卷]]数据，形成多维混合证据矩阵。
 > - **产品线** 双年度旗舰报告（约 300–400 页）；专题政策聚焦报告（Policy Spotlights，约 20 页）；国别概况简报（Country Profiles，每国 8–12 页摘要卡片）；互动式在线数据可视化工具（[[Education GPS]] 平台）。
@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **2012 年 — 首期发布：从测评数据到政策分析的跨越** 首版《教育政策展望 2012》出版，标志[[OECD\|经合组织]]正式将测评结果系统转化为跨国政策建议产品，弥补了《[[Education at a Glance\|教育概览]]》以指标展示为主、缺乏政策解读深度的功能空缺。
 > - **2014–2018 年 — 双年度机制成熟与国别简报推广** 相继出版 2014、2016、2018 各年度版本，逐步建立覆盖所有成员国的标准化国别政策概况卡片（Country Snapshot），并开发 [[Education GPS]] 互动在线平台。
 > - **2020–至今 — 危机与重建议题的紧急响应** 2020 年版（Shaping Responsive Education Systems）聚焦韧性与危机应对；2022 年版聚焦教师政策；疫情后发布专题政策快报，系统追踪各国疫情期间教育连续性与学习损失（Learning Loss）的政策回应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **政策借鉴影响** EPO 国别简报成为各国教育部在制定中期教育规划时的常用参照文件，尤其在发生"[[PISA]] 冲击"后，落后成员国政府官员频繁援引 EPO 的跨国改革案例作为国内改革合法化依据。
 > - **规制[[Soft Power\|软权力]]** 通过系统性的"点名褒贬"（Naming and Praising）——将芬兰、加拿大等高绩效体系的政策特征转化为范本推广——EPO 形成了无需强制执行的软权力规范压力，驱动成员国政策自发向高分体系靠拢。
 > - **知识市场地位** 与[[World Education Reform Database\|世界教育改革数据库]]（WERD）研究证实，[[OECD\|经合组织]]报告整体呈现高度"外向型"知识借鉴特征，引用其他成员国改革实践的频次显著高于[[World Bank\|世界银行]]报告的自指性引用模式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]

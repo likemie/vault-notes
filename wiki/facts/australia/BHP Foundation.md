@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2013–2017 — 创设与传统企业慈善期** 依托集团矿产业务所在地开展社区援助与助学项目，运营模式接近传统的企业社会责任（Corporate Social Responsibility，CSR）直接赠款。
 > - **2018 — 启动“全球[[Evidence Ecosystem\|教育证据生态系统]]”五年战略项目** 必和必拓基金会转型采取现代[[Venture Philanthropy\|风险慈善]]策略，宣布与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）正式结成全球战略伙伴，出资启动为期 5 年的跨国教学证据生态建设计划，旨在将 EEF 的因果评估与循证工具包模式向全球关键区域辐射扩散。
 > - **2018–2021 — 扶持跨国证据中介节点（[[SUMMA]] 与 [[Evidence for Learning\|E4L]]）** 基金会资金直接支持建立拉丁美洲和加勒比地区的区域证据枢纽 [[SUMMA]]（总部设于智利圣地亚哥），以及澳大利亚的有效学习组织（Evidence for Learning，E4L），开展工具包本土化调试与本土多中心试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **教育项目执行团队** 设立专职项目官员，与受资助国际中介机构的高层管理团队保持常态化战略协同。
 > - **跨国伙伴协同网络** 核心合作伙伴包括英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）、智利 [[SUMMA]] 实验室、澳大利亚社会公益组织[[Impetus\|动力信托]]（[[Social Ventures Australia]] / [[Evidence for Learning\|E4L]]），以及后续成立的官方机构 [[Australian Education Research Organisation\|AERO]]。
 
-> [!pathways]- [[Venture Philanthropy\|风险慈善]]资本运作链条
+> [!pathways] [[Venture Philanthropy\|风险慈善]]资本运作链条
 > 1. **资本注资与中介赋能** 避开官僚程序，直接向国际顶尖证据中介（如 EEF）注资，资助其跨国扩张与全球知识产品开发。
 > 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 [[SUMMA]]、澳洲 E4L），完成核心证据工具的本土情境转译。
 > 3. **人事网络流动与借调** 推动核心专家在国际中介、慈善智库与政府咨询委员会之间交叉任职（如原 EEF 首席执行官柯文·柯林斯爵士同时兼任 AERO 董事会成员）。
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **跨国中介孵化** 成功资助建立了辐射拉美和加勒比 21 国的 [[SUMMA]] 平台以及澳大利亚 [[Evidence for Learning\|E4L]] 组织，成为南半球最具影响力的两大[[Evidence-Based Education\|循证教育]]中介。
 > - **政策与大纲重构** 在澳大利亚，基金会资助的生态网络直接催生了国家级官方机构 [[Australian Education Research Organisation\|AERO]]，并主导了联邦教师教育核心大纲的法定修订。
 > - **资金杠杆效应** 凭借数千万美元的慈善种子资金，成功撬动了澳大利亚联邦与各州政府数亿澳元的公共财政匹配投入。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]

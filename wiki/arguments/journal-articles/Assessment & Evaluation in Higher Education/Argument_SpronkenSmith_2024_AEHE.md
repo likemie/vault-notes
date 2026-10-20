@@ -64,7 +64,7 @@ updated: 2026-10-16
 > [!question]
 > 针对高等教育机构面临的博士培养成效与质量认证压力，探讨不同国家和学科的博士毕业生，在多大程度上感知到博士阶段帮助其发展了[[Graduate Attributes\|毕业生特质]]，以及这些特质在职场中的实际应用程度，以识别博士培养中的系统性薄弱环节。（p. 86）
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 来自美国两所大学与新西兰一所大学的人文与社会科学（HASS）及科学学科的博士毕业生。（p. 88）
 > - **对照** 博士阶段的能力发展水平与当前职场中的实际应用需求之间的差距，以及不同学科和跨国制度环境下的差距模式。（p. 89）
 > - **结论** 博士生在研究相关技能上得到过度培养，但在团队合作、项目管理、网络建立、口头沟通和职业生涯规划等可转移技能上存在系统性滞后，这一脱节特征在不同国家与学科中具有高度共性。（p. 93）
@@ -179,7 +179,7 @@ updated: 2026-10-16
 > [!line-a]- 探索公民属性的融合与七域分类工具
 > 虽然全球公民属性（如环境素养、文化理解、全球视野）的发展得分和职场应用评分均偏低，但访谈表明学生普遍认可其重要性，倾向于将其视为融入具体学科日常实践中的隐性成分，而非脱离学科单独开设的课程（p. 96）。鉴于这些核心能力的脱节，需要建立一个更具系统性的评估框架，将毕业生特质整合为七个维度：知识、研究、沟通、人际技能、[[Higher-Order Thinking Skills\|高阶思维]]、个人资源丰富性（包含职业生涯管理）和全球公民素养，以实现博士培养质量的系统提升与评估（p. 98, Table 5）。
 > 
-> > [!logic-map] 博士毕业生特质七域分类框架
+> > [!logic-map]- 博士毕业生特质七域分类框架
 > > ```mermaid
 > > flowchart LR
 > >     Root["博士毕业生特质<br>七域分类框架"] --> K["知识<br>Knowledge"]
@@ -250,27 +250,27 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- 可转移技能的充分准备感知
+> [!citation-card] 可转移技能的充分准备感知
 > 在极具可迁移性的工作技能方面，甚至想不出有哪一项是未曾获得准备的。（p. 92）
 >
 > Original: I can't think of a single thing that I didn't already get preparation for in terms of just job skills that were very transferable.
 
-> [!citation-card]- 博士学位的跨情境思维价值
+> [!citation-card] 博士学位的跨情境思维价值
 > 这是一场思维游戏……关乎人们如何看待世界，以及如何准备从他人的视角看待世界。无论身处学术界、咨询界还是私营部门，这项资质确实能发挥作用，问题仅在于如何将学到的技能迁移到生活的不同方面。（pp. 92–93）
 >
 > Original: It's a thinking game… how we see the world and how we prepare ourselves to see the world from others' views. No matter if you are in academia, in consultancy or in private, the qualification does serve a purpose, it's just how you transfer the skills being learned to different aspects in life.
 
-> [!citation-card]- 学术职业路径的排他性导师规范
+> [!citation-card] 学术职业路径的排他性导师规范
 > 从本科阶段起，导师就强烈鼓励追求学术道路。这被暗示为唯一的职业生涯路径，或者至少是对拥有最优秀技能的人而言唯一的路径……从来没有人讨论过任何其他可能性。（p. 96）
 >
 > Original: I was strongly encouraged by my mentors to pursue an academic pathway from undergraduate onward. This was implied to be the only career pathway and/or career pathway for those with the best skills… No one ever discussed any other possibilities.
 
-> [!citation-card]- 院系对职业出口的单一假设
+> [!citation-card] 院系对职业出口的单一假设
 > 系里存在一个默认假设，即系里的每个人都会进入学术界。（p. 96）
 >
 > Original: There's a default assumption that everybody in the department is going to go into academia.
 
-> [!citation-card]- 跨非学术界沟通的语言障碍
+> [!citation-card] 跨非学术界沟通的语言障碍
 > 在我观点中，实际上无法将这些研究传播给更广泛的受众。这完全不可及……我认为需要技术技能。（p. 96）
 >
 > Original: We couldn’t actually, in my opinion, communicate that [research] to a wider audience. It wasn’t accessible at all… I think we needed technical skills.

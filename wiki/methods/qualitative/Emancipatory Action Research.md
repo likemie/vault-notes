@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 制度结构、权力关系、社会情境中的个体与群体、参与者共同体。
 > - **输出形式** 实践变革、意识提升和系统层面的政治行动；通常以合作撰写的研究报告呈现。
 
-> [!citation-card]- 祖伯-斯凯里特（Zuber-Skerritt）论解放性行动研究的系统变革目标
+> [!citation-card] 祖伯-斯凯里特（Zuber-Skerritt）论解放性行动研究的系统变革目标
 > 解放性行动研究不仅旨在技术和实践改进以及参与者更好的理解，还旨在改变系统本身或阻碍系统改进的条件。没有层级，只有开放和对称沟通。（Zuber-Skerritt, 1996a, p. 5）
 >
 > *Emancipatory action research ... aims not only at technical and practical improvement and the participants' better understanding ... but also at changing the system itself or those conditions which impede desired improvement in the system/organization. ... There is no hierarchy, but open and 'symmetrical communication'.*

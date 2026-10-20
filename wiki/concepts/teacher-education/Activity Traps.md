@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **用途** 它把“教师协作很多但改进有限”这一常见现象解释为活动设计问题，提示关注的焦点应是协作过程的认知质量，而不只是协作的频次与形式。
 > - **边界** 它不适用于描述有明确探究协议的协作活动，也不等同于对 PLC 本身的否定;该概念恰恰是为了让 PLC 更有效而提出的诊断工具。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 若实践者未有意义地参与专业学习共同体的探究活动，而是立即转向解决方案、不去探究成因，便会落入活动陷阱。
 >
 > *“Activity traps... practitioners do not meaningfully engage in PLC activity and immediately move to solutions rather than exploring causes.”*（pp.130–131，引 Katz & Dack 2013）

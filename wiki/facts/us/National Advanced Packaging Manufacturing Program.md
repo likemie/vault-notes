@@ -83,7 +83,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 通过资助共性先进封装中试线、确立开放式[[Process Design Kit|装配设计套件]]（[[Process Design Kit|Assembly Design Kit]], ADK）与通用芯粒（[[Heterogeneous Integration|Chiplet]]）互连互通标准，并攻克微米/亚微米级微互连（微凸点、硅通孔与直接混合键合）计量与多物理场协同仿真，大幅降低复杂异构微系统的研发准入门槛，形成从实验室概念到 300 毫米晶圆级量产封装的本土工程化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 24)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 建立国内具备全球[[Competitiveness|竞争力]]的先进封装制造生态，使新型先进封装构型从概念设计到工业级量产验证的周期与成本削减 50% 以上。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
 > - **重点技术方向** 
 >   1. 2.5D 与 3D 异构集成（Heterogeneous Integration, 3DHI）；
@@ -120,7 +120,7 @@ updated: 2026-10-20
 > - **产业联合体与领军企业** 包括先进逻辑代工厂、OSAT 封测代工厂、基板与封装设备材料商及无晶圆厂设计公司，共同承担工程化放大验证。
 > - **大学与科研机构** 开展前沿热力学模拟、新型界面材料、微结构表征与异构布线算法研究，培养封装领域高阶工程人才。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–36)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **跨学科技术标准制定** 联合行业联盟（如 UCIe [[Industry Affiliate Program|产业联盟]]）与 IEEE 封装学会确立统一的芯粒机械尺寸、电气互连、[[Process Design Kit|装配设计套件]]（[[Process Design Kit|ADK]]）与通信协议标准。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **软硬件[[Co-Design|协同设计]]工具集成** 与主流 EDA 软件商合作，开发针对 3D [[Heterogeneous Integration|异构集成]]的多物理场联合仿真平台并嵌入 NSTC 云端网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
 > - **全链条跨部门无缝衔接** 承接国家科学基金会（[[National Science Foundation|NSF]]）与国防部[[Microelectronics Commons|微电子共用体]]的早期原型，直接对接商业代工厂量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **技术成熟度跃升** 将先进异构封装方案的[[Technology Readiness Level|技术就绪度]]（TRL）从实验室原理（TRL 3–4）加速推进至工业量产就绪（TRL 7–8）。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
 > - **本土产业链完整度** 建立涵盖先进中介层制造、微凸点焊接、混合键合及高密度测试的本土全流程验证能力。
 > - **研发门槛降低** 借助标准芯粒库与[[Process Design Kit|装配设计套件]]（[[Process Design Kit|ADK]]），使初创企业开发系统级封装（System-in-Package, SiP）的研发周期与资金投入降低 50% 以上。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 24)]]

@@ -79,7 +79,7 @@ APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenth
 > | **有缩写的机构作者** | `(National Institute of Mental Health [NIMH], 2020)` | `National Institute of Mental Health (NIMH, 2020)` | `(NIMH, 2020)` | `NIMH (2020)` |
 > | **无缩写的机构作者** | `(Stanford University, 2021)` | `Stanford University (2021)` | `(Stanford University, 2021)` | `Stanford University (2021)` |
 
-> [!tip]- 直接引语引用规则
+> [!tip] 直接引语引用规则
 > - **短引用（少于 40 词）** 直接嵌入正文段落，用英文双引号包裹，并在句末标注具体页码，如 `(Smith, 2020, p. 15)` 或 `pp. 15–18`。
 > - **块引用（40 词及以上）** 另起一行，全段左侧缩进 0.5 英寸（1.27 cm），不加引号，句末标点在引用括号之前，如 `...end of sentence. (Smith, 2020, p. 25)`。
 

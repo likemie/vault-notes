@@ -107,7 +107,7 @@ updated: 2026-10-20
 > - **执行机构（管理团队）** 设立执行总裁（CEO）与常设业务局室，负责协调全澳标准落地、认证指南更新与教师[[Further Education|继续教育]]评估。
 > - **协作网络与专业同盟** 紧密联动[[Australian Education Research Organisation|澳大利亚教育研究组织]]（[[Australian Education Research Organisation|AERO]]）、[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）及负责实施职前教师统考（[[LANTITE]]）的[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（[[Australian Council for Educational Research|ACER]]）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **由中间领导的学区治理策略** AITSL 董事会明确拒绝直接游说联邦教育部长开展“单年政绩运动”（如英国式单年反馈运动），转而贯彻[[Michael Fullan|迈克尔·富兰]]倡导的“由中间领导”（Lead from the middle）治理模式，绕开易受选举政治波动的政客，直接将循证标准深耕于各州学区网络与校长专业共同体。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
 > - **法定认证附表与绩效考核挂钩** 运用国家认证附表作为政策工具，将[[Initial Teacher Training|初始教师教育]]大纲合规性与大学教师培养机构办学许可、毕业生资质审核及联邦经费挂钩，形成全流程考核管理机制。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
 

@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **核心角色** 现代[[National Innovation System|国家创新系统]]理论与[[User-Producer Interaction|用户—生产者互动]]学习[[Paradigm|范式]]的开创者。
 > - **代表贡献** 首次正式使用“National System of Innovation”术语（1985, 1988, 1992），创立以知识流动、能力构建与互动学习为核心的创新微观基础。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 据该作者记忆所及，最早使用“国家[[Systems of Innovation|创新系统]]”这一表述的是[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Bengt-Åke Lundvall），他也是该领域一本极具原创性与启发性专著（1992）的编者。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 >
 > *According to this author's recollections, the first person to use the expression 'National System of Innovation' was Bengt-Åke Lundvall and he is also the editor of a highly original and thought-provoking book (1992) on this subject.*
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差异化的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]论有限理性与国家创新路径的多样性
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 征引[[Bengt-Åke Lundvall|伦德瓦尔]]的[[User-Producer Interaction|用户—生产者互动]]理论与[[Bounded Rationality|有限理性]]假说，反驳跨国公司无国界神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持组织多样性中的持久价值。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]] — 述及福瑞与伦德瓦尔（1996）对经合组织[[Knowledge-Based Economy|知识经济]]政策转向的奠基贡献，阐释 OECD 如何将终身学习与沟通适应力塑造为全球教育政策议程（pp. 445–446）。
 

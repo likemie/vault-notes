@@ -78,7 +78,7 @@ updated: 2026-10-19
 > - **测量目的** 测量高等教育阶段学生的[[Critical Thinking\|批判性思维]]、分析推理、[[Problem Solving\|问题解决]]与书面沟通等[[Higher-Order Thinking Skills\|高阶思维技能]]，评估院校增值效应（VALUE-Added）与[[Learning Gain\|学习增益]]。
 > - **实施方式** 计算机在线施测（总计 90 分钟），结合基于真实文档库的开放式表现任务与情境化选答题。
 
-> [!citation-card]- 核心设计理念
+> [!citation-card] 核心设计理念
 > CLA 旨在摆脱传统[[Multiple-Choice Questions\|选择题]]对孤立知识事实回忆的局限，通过模拟现实工作与社会生活中的复杂劣构情境，要求学生分析相互冲突的多源材料并撰写决策建议，从而对批判性思维进行基于证据的表现性测量。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17, 22–24)]]
 >
 > *The Collegiate Learning Assessment (CLA+) was designed to measure critical thinking and written communication through authentic, open-ended performance tasks and selected-response questions embedded in real-world scenarios.*

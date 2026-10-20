@@ -132,7 +132,7 @@ updated: 2026-10-17
 >   I --> J["7.14 质量保证<br>35条清单<br>Furlong & Oancea四维度"]
 > ```
 
-> [!knowledge-map]- 第7章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第7章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_7_Concept_Map.jpg)
 
 ---
@@ -431,7 +431,7 @@ updated: 2026-10-17
 
 #### 检索技巧
 
-> [!tip]- 网络检索的四个操作符
+> [!tip] 网络检索的四个操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
 > - **星号（\*）** 在词根后加星号，返回不同结尾的网站，如 Teach\* 返回 teach, teaching, teacher
 > - **波浪号（\~）** 在词前加波浪号，识别相似词，如 \~English teaching 同时返回 English language 和 English teaching
@@ -674,7 +674,7 @@ updated: 2026-10-17
 > 3. **阶段三：在这些约束条件下规划研究的可能性**
 > 4. **阶段四：确定研究设计**
 
-> [!example]- 图7.1：研究规划序列
+> [!example] 图7.1：研究规划序列
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-1_Planning_Sequence_for_Research.jpg)
 
 每个阶段包含若干操作，图 7.1 详细阐明了这一过程。
@@ -723,7 +723,7 @@ updated: 2026-10-17
 > - **人工制品（Artefacts）**
 >   物质环境、物体、文件、语言等可见符号
 
-> [!example]- 图7.2：理解组织文化的层次
+> [!example] 图7.2：理解组织文化的层次
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-2_Understanding_Levels_of_Organizational_Culture.jpg)
 
 组织文化涉及的广泛元素：价值、假设、信念、表现理论、心智模式、观察到的实践、冲突和共识领域、正式和隐藏信息、物理环境、关系、权力、控制、沟通、习俗和仪式、故事、奖励制度和动机、学校微观政治、决策参与、赋权和剥削/操纵、领导力、承诺等（p.152）。
@@ -755,7 +755,7 @@ updated: 2026-10-17
 
 #### 6. 抽样
 
-> [!sample-panel] 抽样策略
+> [!sample-panel]- 抽样策略
 > | 维度 | 信息 |
 > |---|---|
 > | 问卷范围 | 发给所有愿意参与的员工 |
@@ -764,7 +764,7 @@ updated: 2026-10-17
 > | 名义特征 | 年龄、学校层级、部门、性别、民族、国籍、在校工作年限 |
 #### 7. 参数
 
-> [!boundary] 研究参数
+> [!boundary]- 研究参数
 > - 数据以**一次性"（one-shot）** 而非纵向方式收集
 > - 采用**多方法途径**进行数据收集
 
@@ -905,32 +905,32 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 
 ## 关键引用
 
-> [!citation-card]- 研究规划的平衡本质
+> [!citation-card] 研究规划的平衡本质
 > 研究的设置是一种平衡行为，需要协调计划的可能性与可操作的连贯实践，即调和"可以做/想做的事"与"真正能实行/能真正做到的事"之间的差异，因为归根结底，研究必须可行。（第7章, p.118）
 >
 > *The setting up of the research is a balancing act, for it requires the harmonizing of planned possibilities with workable, coherent practice, i.e. the resolution of the difference between what could be done/what one would like to do and what will actually work/what one can actually do, for, at the end of the day, research has to work.* (p.118)
 
-> [!citation-card]- 目的适切性
+> [!citation-card] 目的适切性
 > 没有任何单一蓝图用于规划研究。研究设计由目的适切性概念支配。研究的目的决定了研究的方法论和设计。（第7章, p.118）
 >
 > *There is no single blueprint for planning research. Research design is governed by the notion of "[[Fitness for Purpose]]". The purposes of the research determine the methodology and design of the research.* (p.118)
 
-> [!citation-card]- 从机械操作到知识反思
+> [!citation-card] 从机械操作到知识反思
 > 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的[[Ontology\|本体论]]前提，以及研究它的[[Epistemology\|认识论]]基础。这些是需要反思和决策的关键点，正是它们将研究规划从单纯的机械或实践操作，转变为对知识本质和存在本质的反思。（第7章, p.120）
 >
 > *At issue here is the need for researchers not only to consider the nature of the phenomenon under study, but what are or are not the ontological premises that underpin it, the epistemological bases for investigating it and conducting the research into it. These are points of reflection and decision, turning the planning of research from being solely a mechanistic or practical exercise into a reflection on the nature of knowledge and the nature of being.* (p.120)
 
-> [!citation-card]- [[Operationalization\|操作化]]的本质
+> [!citation-card] [[Operationalization\|操作化]]的本质
 > 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Research Purpose\|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
 >
 > *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the [[Abstract]] to the concrete.* (p.135)
 
-> [!citation-card]- 线性研究的欺骗性
+> [!citation-card] 线性研究的欺骗性
 > 线性顺序具有欺骗性，因为实际中很少如此清晰。真实情况是：研究设计的不同领域相互影响；研究设计随时间变化、演化和[[Emergence\|涌现]]，而非一开始就一次性决定和最终确定。（第7章, p.122）
 >
 > *These three examples proceed in a linear sequence; this is beguilingly deceptive, for rarely is such linearity so clear. The reality is that: different areas of the research design influence each other; research designs change, evolve and emerge over time rather than being a "once-and-for-all" plan.* (p.122)
 
-> [!citation-card]- 研究的政治与道德本质
+> [!citation-card] 研究的政治与道德本质
 > 研究本质上是一种政治和道德活动，不是政治或道德中立的。研究者必须关注研究的使用和研究的实施。（第7章, p.147）
 >
 > *Research is an inherently political and moral activity; it is not politically or morally neutral. The researcher has to be concerned with the uses as well as the conduct of the research.* (p.147)

@@ -185,7 +185,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ### 论证步骤一　TOK 作为自主性训练的课程空间
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Theory of Knowledge\|TOK]] 课程以认知者处于中心位置、环绕[[Ways of Knowing\|认知方式]]和[[Areas of Knowledge\|知识领域]]的结构，为[[Learner Autonomy\|学习者自主性]]提供了制度化的课程空间。但课程结构只设置可能性，可能性能否转化为现实取决于认知者的能力和信心。
 
 > [!chain-link] TOK 的结构特征与自主性空间
@@ -193,7 +193,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 >
 > TOK 在结构上是一个已经包含[[Critical Thinking\|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性实践的质量。
 
-> [!example]- 图1：TOK 模型图（Diagram of TOK Model）
+> [!example] 图1：TOK 模型图（Diagram of TOK Model）
 > ![](https://img.mylikemie.icu/sources/Lakhani_2012_AKUIED/figures/Lakhani_2012_AKUIED_Fig1_TOK_Model.jpg)
 
 > [!warrant]- 案例选择的推理逻辑
@@ -203,7 +203,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ### 论证步骤二　三种角色：自主性的实证形态
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity\|反思性]]思考者（reflective thinker）** 和 **[[Creativity\|创造性]]沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
 
 ---
@@ -261,7 +261,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ### 论证步骤三　能力与信心：自主性的双条件机制
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 三种角色的实证分析共同指向一个核心机制：自主性需要通过两个条件的满足来实现。条件一是通过批判性思维知识和技能发展**能力（competence）**，条件二是认知者对自身反思和意义建构能力的**自信（self-confidence）**。能力提供可能性，信心决定可能性是否被实际行使。
 
 > [!chain-link] 条件一：能力建设——批判性思维作为自主性的技能基础
@@ -281,7 +281,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ### 论证步骤四　自主的相互依存性与课程建议
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 自主性是在社会互动中实现的。即使在最独立的反思中（如 Ariana 在作业中尝试主观经验路径），经验仍根植于社会互动。认知者高度需要课堂中互动、讨论和对话的空间，这是最重要的实证发现之一（p.178）。
 
 > [!interdependence] 自主的相互依存性（autonomous interdependence）
@@ -311,22 +311,22 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ## 关键引用
 
-> [!citation-card]- 探究者、思考者与创造者的统一
+> [!citation-card] 探究者、思考者与创造者的统一
 > [[IB Learner Profile\|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking\|批判性思维]]、多元视角、[[Creativity\|创造性]]表达和自我反思。（pp.178–179）
 >
 > *Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, critical thinking, diverse perspectives, creative expression and self-reflection.*
 
-> [!citation-card]- 自由需要技能的支撑
+> [!citation-card] 自由需要技能的支撑
 > 当一个人不具备处理自由的技能时，思考的自由就失去了效用。（p.176）
 >
 > *Furthermore, in such a situation, the freedom to think loses its usefulness when the person is not skilled to deal with that freedom.*
 
-> [!citation-card]- 自主性的核心：从内在自我意识出发
+> [!citation-card] 自主性的核心：从内在自我意识出发
 > 学习行为、选择和行动的理由，来自内在的自我意识之中。（p.177, citing Benn, 1988）
 >
 > *The reasons for their behaviours, choices and actions of learning come from inside within the consciousness of self.*
 
-> [!citation-card]- 认知失衡与自主性的关系
+> [!citation-card] 认知失衡与自主性的关系
 > 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm\|建构主义]]学习至关重要，而正是认知者在[[Knowledge Building Theory|知识建构]]中的能动性提出了解决方案。（p.178, citing Moon, 2008）
 >
 > *Pedagogue first needs to comfort students that knowledge would certainly create paradoxes because dissonance is vital for constructivist learning and it is also the agency of knower in [[Knowledge Production|Knowledge Construction]] which proposes the solution.*

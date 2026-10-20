@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 伊万·斯努克坚信教育是一项富含伦理、政治与价值权衡的公共事业，绝非冰冷的技术计量工程。他严厉批评将教育简化为标准化考试成绩排名的[[Neo-Taylorism|新泰勒主义]]倾向，主张教育研究应当服务于民主社会的[[Public Value|公共价值]]。在[[Evidence-Based Education|循证教育]]论辩中，他坚定捍卫一线教师的专业自主与批判性反思，反对官僚机构将去情境化的宏观统计数字伪装成真理并挪用为削减教育投入与规训教师的政治借口。
 
 > [!citation-card] 斯努克论教师[[Professional Judgment|专业判断]]不可被统计指标剥夺
@@ -118,7 +118,7 @@ updated: 2026-10-20
 > - **方法路径** 与新西兰批判学者团队共同构筑了针对“超级[[Meta-analysis|元分析]]”与宏观循证狂热的方法学质询[[Paradigm|范式]]，推动学界对[[Research Synthesis|研究综合]]准入标准（[[PRISMA]]/RoB）与底层效度检验的重视。
 > - **政策路径** 成为新西兰战后公立教育体系的最坚定[[Gatekeepers|守门人]]，其学术成果为教师工会、进步校长协会及公共教育倡导者抵制教育券、恶性[[Performance Pay|绩效工资]]及盲目合班提供了扎实的学理弹药。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 领衔新西兰学者团队对[[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]开展首个系统性学术审查，奠定国际批评基调。
 > - [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] — 针对哈蒂的回应进一步深化批判，重申统计平均数不可替代对社会不平等根源的政策正视。
 

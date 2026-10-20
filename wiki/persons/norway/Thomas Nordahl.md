@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]- 核心思想
+> [!tip] 核心思想
 > Nordahl 在当前材料中最稳定的思想位置，是从支持者角度把 [[John Hattie]] 的VL重写为一条学校改进主线：
 >
 > - **学习结果是学校改进的中心尺度** 教育既然深刻影响个人未来和社会延续，学校改进就不能停留在价值口号或制度修补，而必须追问“学生是否真的学到了东西”([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, pp.61–63]])。
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]- 生平与职涯
+> [!note] 生平与职涯
 > - 任 SePU、Høgskolen i Hedmark 教授，活跃于学校改进、学习环境与教育实践改革议题([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, p.61]])。
 > - **2015** 年在 *[[Paideia]]* 发表论文（[[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, pp.61–69]]），系统论证为何斯堪的纳维亚教育系统应以学习结果与研究证据作为改进基准。
 > - 同年所参与的主题号导言（[[Argument_Hansen_2015_Paideia\|Hansen et al., 2015, pp.6–8]]）把他的文章放在主题号的系统改进位置，用来支撑“[[Visible Learning]] 不只是研究结果，也是一种学校改进工程起点”的总体编排。

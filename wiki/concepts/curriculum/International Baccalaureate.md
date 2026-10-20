@@ -171,7 +171,7 @@ updated: 2026-10-20
 
 ### 历史辅助层级需要独立的教育用途
 
-> [!boundary] 术语与时期
+> [!boundary]- 术语与时期
 > 当时的大学预科课程分为辅助层级（Subsidiary Level）与高级层级（Higher Level），辅助层级主要平衡专门化，并常是学生最后一次正式学习该学科的机会。不能把当时的改革建议直接视为今天所有标准层级课程的现行规则。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–203)]]
 
 > [!feature] 学术广度之外的三项课程要求
@@ -179,7 +179,7 @@ updated: 2026-10-20
 > - **跨文化复审** 课程委员会需要不同国家和文化专家的贡献，避免语言与经济条件造成的英国教师优势成为默认的课程文化边界。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–200)]]
 > - **可实施的创新** 新课程能否获得文凭科目位置、符合大学入学要求，并配有合格教师和培训支持，决定教育目的能否进入学生实际选课。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]
 
-> [!boundary] 历史活动名称与现代核心组件
+> [!boundary]- 历史活动名称与现代核心组件
 > 原书的历史用语为创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS），对应创造审美活动和积极社会服务的时间保障要求。本条目其他现代[[Research Utilization|研究使用]] CAS，不能据名称相近推定两个时期课程要求完全相同。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 3, p. 42)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 > [!entry-map] 三项课程试验的比较入口

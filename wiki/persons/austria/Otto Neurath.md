@@ -57,7 +57,7 @@ updated: 2026-09-24
 > - **核心角色** 迪昂（Pierre Duhem）与蒯因（[[W. V. O. Quine]]）之间的桥梁人物——纽拉特原则（Neurath-principle）被视为迪昂整体论（Duhemian holism）的延伸和蒯因[[Epistemology\|认识论]]整体论的先驱。他持一种反基础主义的（anti-foundationalist）和政治上介入的[[Positivism\|实证主义]]立场，与波普尔的[[Falsification\|证伪主义]]形成鲜明对比。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 183)]]
 > - **代表贡献** [[Duhem-Quine Thesis\|不完全决定性论题]]发展史中的关键链接；反基础主义的实证主义科学哲学；ISOTYPE（国际图画语言）视觉教育系统的发明。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 纽拉特现在被认可为迪昂和蒯因之间的连接人物，其纽拉特原则是迪昂整体论的延伸。纽拉特反对他所谓的伪理性主义（pseudo-rationalism）——一种赋予科学大厦不应得的认识论地位（伪基础）的态度。同时，他明确主张一种政治上介入的科学哲学——尽管他是一位彻底的实证主义哲学家。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 >
 > *Neurath is now acknowledged as a linking figure between Duhem and Quine, and his Neurath-principle as an extension of Duhemian holism. Neurath raised strong objections against what he called pseudo-rationalism (at its core a problem of dogmatism), the attitude that granted the edifice of science an undeserved epistemic status: pseudo-foundations. At the same time he explicitly argued for a politically engaged philosophy of science – while being a positivist philosopher to the bone.*
@@ -86,10 +86,10 @@ updated: 2026-09-24
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 科学不应假装是[[Value Neutrality\|价值无涉]]的（VALUE-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism\|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 
-> [!citation-card]- 纽拉特原则的核心意象
+> [!citation-card] 纽拉特原则的核心意象
 > 我们就像在公海上必须重建船只的水手，永远无法从底部重新开始。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 183)]]
 >
 > *We are like sailors who must rebuild their ship on the open sea, never able to start from the bottom.*

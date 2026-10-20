@@ -62,7 +62,7 @@ updated: 2026-10-16
 > - **2000 年代中后期 — 农村学校大撤并加速期** 各地刮起强行裁撤 village schools 的行政风潮，将偏远学生合并至寄宿制中心小学，因通勤距离过远与家庭财务成本激增引发广泛的学术与社会争议。
 > - **2010 年代 — 教育城镇化与资源集聚期** 政策逻辑与地方以教促城的城镇化战略深度捆绑，通过在县级资本投资新建优质大型学校吸收农村生源，实现农民家庭的城镇化转移。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 304, 306)]]
 
-> [!citation-card]- 基层官员的以教促城论述
+> [!citation-card] 基层官员的以教促城论述
 > 要想发展大埔县城，你就应该把所有的农村孩子带到县城里来。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 304)]]（引自 Zhang 2019, p. 71）
 > 
 > *To develop Dapu, you should bring all rural children into the county capital.*
@@ -100,7 +100,7 @@ updated: 2026-10-16
 > - **效率优先与城镇化促进的理性选择（蓝方）** 支持者（包括教育行政部门与地方政府）认为，撤并学校不仅极大提高了办学公用经费的使用效率，而且消除了偏远小微学校的落后设施，让农村儿童能享受城里优质的教学设施，并为农民落户县城提供了教育跳板。
 > - **行政手段的剥夺与社会排斥（红方）** 批评者（如 Teng & Wang 2025）指出，学校撤并以行政手段剥夺了就近入学权，将教育成本转嫁给家庭，实质上是通过教育资源集权来变相“抽干”乡村。它将显性的行政壁垒置换为更加隐蔽且不可置疑的经济与社会资本的隐性筛选，加剧了阶级分化，导致最底层贫困家庭承受了全部政策剥夺后果。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 313–314)]]
 
-> [!citation-card]- 留守老人对撤并后果的评价
+> [!citation-card] 留守老人对撤并后果的评价
 > 有钱人可以把孩子送到镇上或者县城里上学，而穷人则会被剥夺接受好教育的机会，这造成了赤裸裸的社会割裂。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 312)]]
 > 
 > *The rich can send their children to the township. The poor will be deprived of education.*

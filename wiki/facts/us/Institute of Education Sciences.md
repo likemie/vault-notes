@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2002–2008 — 创设奠基与因果[[Evidence Standards\|证据标准]]确立** 成立初期确立以[[Internal Validity\|内部效度]]为基石的研究评价体系，创设[[What Works Clearinghouse\|有效干预清算中心]]（WWC），将[[Randomised Controlled Trials\|随机对照试验]]（RCT）确立为因果干预评估的黄金标准。2007 年，旗下 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 资助实施了全美首批跨校大规模阅读与数学教育软件随机对照试验（Dynarski et al., 2007），首次以国家级严谨实验确证了干预成效的高度情境敏感性与组织[[Heterogeneity\|异质性]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 > - **2008–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program\|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 > - **2015–2018 — [[Every Student Succeeds Act\|ESSA]] 四级法定标准与重大后端因果评估** 《每个学生成功法案》（ESSA 2015）将 IES/WWC 四级证据标准正式上升为国家法定采购门槛；同时，IES 资助了佛罗里达 [[Using Data Intervention\|Using Data]] 数据使用干预等重大试验，推动学界反思纯认知培训与真实学业增益脱节的转化瓶颈。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 571, 592)]]
@@ -160,7 +160,7 @@ updated: 2026-10-20
 >     end
 > ```
 
-> [!pathways]- 业务运行机制与宏观制度杠杆
+> [!pathways] 业务运行机制与宏观制度杠杆
 > - **竞争性同行资助与预先注册规程** 实行高强度的同行竞争性立项评审，强制要求所有受资助的因果实证评估项目在干预前公开注册[[Hypothesis\|研究假设]]、设计与分析计划，并全程公开数据与计算脚本，遏制数据挖掘与[[Publication Bias\|发表偏倚]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **构件拆解与经济学成本核算支持** 强制要求研究者清晰剥离干预的各项构件，终结混杂药丸袋黑箱；设立专门的成本分析专家服务台（Cost Analysis in Practice Help Desk）与便捷核算工具，辅导缺乏经济学训练的研究者核算师资与财力成本。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 207)]]
 > - **宏观法定拨款与因果证据硬性挂钩** 戈拉德等学者强调，IES/WWC [[Evidence Standards\|证据标准]]最核心的制度力量在于其作为美国联邦立法的硬约束支架——在《投资创新计划》（[[Investing in Innovation Program\|Investing in Innovation]], i3）与《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）中，联邦政府将数十亿美元的学校改进竞争性拨款与 IES/WWC 四级证据标准紧密绑定，以法定财政杠杆确保只有高等级[[Counterfactual\|反事实]]实证干预才能获得规模化资金支持。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 598–600)]]
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年度教育科研专属预算约 1.5 亿美元（USD 150 million）；统辖四大常设国家研究中心与区域教育实验室（Regional Educational Laboratories, REL）网络；资助项目覆盖全美数十万学生与教师群体。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206, 209)]]
 > - **学术与[[Knowledge Production\|知识生产]]** 建立全球公认的因果实证评级体系 [[What Works Clearinghouse\|WWC]]；推动全美教育实证研究复现率与[[Preregistration\|预注册]]制度化；建立 EdInstruments 工具库打破测量割裂；主持编制权威的[[National Assessment of Educational Progress|国家成绩单]] NAEP。
 > - **政策与制度渗透** 成为《2001年不让一个孩子掉队法》（No Child Left Behind Act of 2001, NCLB）及《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）法定循证标准的基石，各级学区与州政府依据其指南决定数十亿美元联邦教育拨款的干预投向。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 598–600)]]

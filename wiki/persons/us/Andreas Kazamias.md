@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism\|辉格史观]]”以及将制度差异轻率归咎于“[[National Character\|国民性格]]”的循环论证；对外，他直面战[[Postpositivism\|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm\|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）史学理论论证历史比较依托“非普适[[Working Hypothesis|探索性假说]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全教化（*[[Paideia]]*）与人（*Anthropos*）的终极关怀。
 
 > [!citation-card] 广义科学观与[[Geisteswissenschaften|人文科学]]的[[Epistemology\|认识论]]合法性
@@ -177,7 +177,7 @@ updated: 2026-10-20
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge\|知识地缘政治]]的反省。
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm\|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen(Ed.)_2009_Springer|Cowen & Kazamias (Eds.) (2009)]] — 共同主编比较教育手册，收录考恩与拉斯特的评价以及卡扎米亚斯关于[[Historical-Philosophical-Cultural Motif|历史哲学母题]]与[[Protean Episteme|普罗透斯式认识体系]]的奠基性论述。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与[[Disciplinary Institutionalization|学科制度化]]成就。
 

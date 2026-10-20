@@ -75,7 +75,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《欧洲[[CHIPS and Science Act|芯片法案]]》（[[EU]] Chips Act）号称动员超过 430 亿欧元的公共与私人投资，通过组织跨国研发试验线、在第二支柱下放宽成员国对欧洲首创晶圆厂的国家援助审查限制，并建立危机期应急优先供应机制，力争在 2030 年前将欧洲在全球半导体制造中的市场份额翻一番提升至 20%，但其实质模式受制于超国家财政预算匮乏，欧委会退守为协调者并高度依赖成员国各自掏钱。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98, 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–14)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 增强欧洲在全品类芯片设计制造中的[[Competitiveness|竞争力]]与供应韧性、化解关键元器件战略依赖，力争在 2030 年将欧洲全球芯片制造份额由不足 10% 提升至 20%（因全球市场同步扩张，实际意味着必须在 2030 年前将本土产能扩充至目前的 4 倍）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
 > - **适用对象** 欧洲微电子研发机构、跨国与本土半导体制造巨头（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、格芯、意法半导体、英飞凌、恩智浦等）及上下游中小创新企业。
 > - **政策三大支柱（Three Pillars）**
@@ -114,7 +114,7 @@ updated: 2026-10-20
 > - **适用对象** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]、意法半导体、格芯、英飞凌、恩智浦、博世及比利时 IMEC、法国 CEA-Leti 等研究机构。
 > - **政策工具** 成员国国家援助豁免审批、成员国国库直接建厂资助、欧盟联合研发试验线预算及 [[Important Projects of Common European Interest|IPCEI]] 利润回缴框架。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **欧委会退守协调者角色** 欧委会因缺乏独立的超国家产业征税与直接预算权能，在政策实施中充当协调者，通过为成员国突破常规反垄断与国家援助禁令提供法律豁免，调动成员国财政资金。
 > - **依托 IPCEI 跨国网络拼凑资金** 以 2023 年 6 月获批的 IPCEI ME/CT 为关键实施载体，动员 14 个成员国提供 81 亿欧元国家援助，撬动 137 亿欧元私营资本，协调 56 家企业实施 68 个子项目并开展 180 项跨国界合作。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 > - **前沿试验线与区域联合体** 依托 IMEC 等科研枢纽建设亚 2nm 试验线向全欧开放；同时在第二支柱下由德法等财政大国出资，促成台积电与欧洲汽车芯片三巨头在萨克森州设立合资工厂，绑定本土下游需求。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 430 亿欧元公共与私人总动员预测资金、[[EU|欧盟]]共同预算直接支持 33 亿欧元、14 国 [[Important Projects of Common European Interest|IPCEI ME/CT]] 承诺 81 亿欧元公共补贴。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
 > - **过程指标** 首创晶圆厂国家援助批准时效、德累斯顿与克罗尔晶圆厂施工进度、跨国协同网络运转效率。
 > - **结果指标** 欧洲全球晶圆制造产能份额（目标 2030 年达 20%）、汽车与工业关键芯片本土供给自给率。

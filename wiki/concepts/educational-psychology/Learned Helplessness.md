@@ -97,7 +97,7 @@ updated: 2026-10-20
 > | **[[Epistemology\|认识论]]后果** | 表现目标压倒掌握目标，逃避公开展示 | **信度自我认知失真** 形成自加信度赤字，主动剥夺自身求知者资格 |
 > | **代表学者与文献** | Dweck and Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
-> [!boundary] 概念边界辨析
+> [!boundary]- 概念边界辨析
 > - **习得性无助 vs [[Growth Mindset|实体论智力观]]（Entity Theory of Intelligence）** 习得性无助是面临挑战或面对技术代理时表现出的退缩与放弃行为（症状层面）；实体智力观则是认为智力是天生固定不可变质的底层信念（病因层面）。
 > - **习得性无助 vs 真实的认知能力缺陷** 处于习得性无助状态的学生往往具备解决问题的客观智力潜能，但其主观无助感阻断了认知资源的正常调配与[[Metacognition|元认知]]策略监控。
 > - **自加信度赤字 vs 理智[[Humility|谦逊]]（Intellectual Humility）** 理智谦逊是对自身知识边界的客观清醒认知；自加信度赤字则是因[[Epistemic Practices|认知实践]]长期被技术外包剥夺后产生的病态自我贬抑与虚假无能感。

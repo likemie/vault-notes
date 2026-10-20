@@ -191,7 +191,7 @@ updated: 2026-10-20
 >
 > *When they were promoting developmental and technocratic views, international agencies were advocating a number of [[Abstract]] universal social technologies (such as educational planning) that – in the logic of these agencies – could be used to improve education in most contexts. With the influence of this technical rationality, which introduced social technologies such as ‘educational planning’ and the notion of ‘curriculum’, there was a tendency to increasingly depict international agencies as objective, neutral and scientific experts that could diagnose educational problems and offer the right solutions, above the internal political conflicts of nation states (Southwell, 1997).*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Reflexivity\|反思性]]实践（Reflective Practice） — 技术理性依赖外部通则与既定手段计算，反思性实践依赖行动者在情境中的即时重构与[[Professional Judgment\|专业判断]]。
 > - 不等于 古典全人教化（Paideia / [[Bildung]]） — 全人教化以人为中心，关切人类精神启蒙、民主品格与文明伦理；技术理性将教育降格为满足技术官僚问责与劳动力市场配置的技能规训。
 > - 不等于 合理的科学[[Research Utilization\|研究利用]] — 技术理性批判反对将科学证据教条化为排他性的操作指令，同时肯定实证研究为专业审议提供参考的合法价值。

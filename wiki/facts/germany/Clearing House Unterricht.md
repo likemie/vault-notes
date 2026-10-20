@@ -114,7 +114,7 @@ updated: 2026-10-20
 > - **跨学科专职研发团队** 汇聚来自教育心理学、一般教学论（Allgemeine [[Didaktik]]）、学科教学论（Fachdidaktik）与媒体教育学领域的跨学科研究人员，承担高阶实证文献综合与数字交互资源开发。
 > - **外部资助与协同网络** 早期依托 [[Federal Ministry of Education and Research\|BMBF]] 与 [[Qualitätsoffensive Lehrerbildung\|QLB]] 国家公法资助，当前依托威廉·施特默基金会长效公益资助，横向联结全德各州师资进修学院、[[Fraunhofer Society Model|弗劳恩霍夫学会]]相关项目以及国际比较中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14, 16)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **选题聚焦与高阶证据基底遴选** 重点聚焦[[Effective Teaching\|有效教学]]（effektiver Unterricht）与 MINT 学科教学，严格限定文献池为同行评议的当代实证研究，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为高因果证据基石，优先收录大样本、可复制的高质量[[Meta-analysis\|元分析]]。
 > - **专业研究合成与动态证据库维护** 建立并持续更新涵盖数理学科教学有效性元分析的专门数据库，团队不仅二次提炼外部顶级文献，亦自主开展并发表系统性元综述（如 Knogler et al., 2022a, 2022b）。
 > - **标准化通俗转译规程（11-Step Protocol）** 专家团队严格推行从学术元分析到教学简评的 11 步转译标准：解构复杂统计参数，转化为实践行动发问、结构化核心要点、决策参数概览框与实施边界条件。

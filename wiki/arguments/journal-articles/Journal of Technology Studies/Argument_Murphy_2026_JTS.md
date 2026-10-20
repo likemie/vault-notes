@@ -146,7 +146,7 @@ issuing_organization: ""
 
 ### 论证步骤一　应对国家半导体立法紧迫性必须建立高校有组织的跨学科动员机制
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 美国《[[CHIPS and Science Act|芯片与科学法案]]》将半导体确立为国家安全与经济[[Competitiveness|竞争力]]的关键战略资产，但本土制造产能的萎缩与预计高达 140 万的 [[STEM Education|STEM]] 人才缺口构成了严峻的国家级挑战；高校必须摆脱自发分散的科研模式，通过设立跨学科专班和系统化专业发展机制积极承接国家战略目标。（pp.1–3）
 
 #### 1. 联邦立法引导战略转向并暴露工程科技人才危机
@@ -200,7 +200,7 @@ issuing_organization: ""
 
 ### 论证步骤二　基于四大理论的 DBR 三阶段迭代促成了跨学科协作与知识共享
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 单次碎片化的培训无法形成持久的科研生产力，唯有依托情境学习、[[Cognitive Constructivism|认知建构主义]]、[[Constructivist Paradigm|社会建构主义]]与[[Transformative Learning Theory|转化学习]]四大理论，并借助 [[Design-Based Research|基于设计的研究]]（DBR）进行多轮迭代，才能使工作坊的规模、广度与成效逐级攀升，成功孵化半导体跨学科实践共同体。（pp.3–6）
 
 #### 1. 工作坊规模与范围在三轮实境迭代中逐级扩展
@@ -231,7 +231,7 @@ issuing_organization: ""
 
 ### 论证步骤三　面对面交流具有不可替代优势且需遵循十项设计原则应对实践约束
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 尽管跨阶段成效总体提升，但面对面交流在建立学术信任方面具有线上和混合模式难以替代的优势，且时间短缺成为贯穿各期的核心痛点；高校未来面向重大战略设计学者发展项目时，必须统筹活动节奏、反思机制、网络搭建与校企对接。（pp.5–7）
 
 #### 1. 参与者质性反馈揭示出会议模式差异与时间约束
@@ -291,17 +291,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 学习理论与[[Design-Based Research|基于设计的研究]]之结合
+> [!citation-card] 学习理论与[[Design-Based Research|基于设计的研究]]之结合
 > 这项研究表明，一次性的工作坊远不如持续推进的专业发展项目有效。[[CHIPS and Science Act|芯片法案]]系列工作坊似乎在案例高校中围绕半导体研究培育出了一个初具雏形的[[Communities of Practice|实践共同体]]，从而为长期协作与创新奠定了根基……这些工作坊成功开辟了一个合法边缘性参与的空间，使参与者能够与更广阔的半导体科研共同体展开互动，并逐步走向全面深度参与。（p.6）
 >
 > *This research suggests that one-off workshops are less effective than ongoing professional development programs (Darling-Hammond et al. 2018). The CHIPS & Science Act workshops appear to have created a nascent community of practice around semiconductor research at a [[Case Study]] institution, potentially laying the groundwork for long-term collaboration and innovation (Wenger 1998)... The workshops appear to have successfully created a space for legitimate peripheral participation (Lave & Wenger 1991; Rude 2023), allowing participants to engage with the broader community of semiconductor research and gradually move towards full participation.*
 
-> [!citation-card]- [[Transformative Learning Theory|转化学习理论]]与学者科研视角重构
+> [!citation-card] [[Transformative Learning Theory|转化学习理论]]与学者科研视角重构
 > 参与者在应对《芯片与科学法案》相关举措时表现出的自信心与就绪度提升表明，部分参与者可能发生了转化学习，因为他们形成了全新的视角与参照框架。正如一位参与者所描述的那样：这对我来说是一次非常有趣的体验——让我看到了科学与工程事业背后的政治与政策维度。（p.6）
 >
 > *The reported increases in confidence and preparedness to engage in CHIPS & Science Act-related initiatives suggest that transformative learning (Mezirow 1991) may have occurred for some participants, as they developed new perspectives and frames of reference. One participant described this realization as follows: 'it was an interesting experience for me—seeing the political side of the science & engineering enterprise.'*
 
-> [!citation-card]- 产学研协同与劳动力培育机制
+> [!citation-card] 产学研协同与劳动力培育机制
 > 《芯片与科学法案》所带来的战略成果以及严重的劳动力短缺，凸显出政府机构、产业界与教育机构之间开展协调一致努力的迫切需求。在半导体产业预期迎来大规模扩张的宏观背景下，本案例研究展现了此类学者发展举措在促进大学教师与科研人员之间的深度协作、知识共享与能力构建方面的巨大潜能。（p.7）
 >
 > *The CHIPS & Science Act outcomes and workforce shortage point to a need for a 'coordinate[d] effort among government agencies, industry, and educational institutions' (Gunarathne & Chaitanya 2024, p. 66). In the context of the expected broadening of the semiconductor industry, this case study showcases the potential for such initiatives to foster collaboration, knowledge sharing, and capacity building among faculty and researchers.*

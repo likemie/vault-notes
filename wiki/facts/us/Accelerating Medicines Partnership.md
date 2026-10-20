@@ -88,7 +88,7 @@ updated: 2026-10-16
 >
 > *As private R&D dwarfs federal funding, novel [[Public-Private Partnership]] models are critical. Independent statutory foundations, such as the FNIH, can blend public and private capital under commercial terms. The Accelerating Medicines Partnership (AMP) validated 20 targets for Alzheimer's disease across 12 disease-focused partnerships, drastically compressing timelines. Federal agencies must replicate this institutional foundation model.*
 
-> [!lessons]- 制度经验与政策边界
+> [!lessons] 制度经验与政策边界
 > - **敏捷协同优势** 机构侧基金会的核心价值在于快速订约、成本分摊与前竞争风险共担，有效补齐了传统同行评议资助体系响应缓慢的短板。
 > - **避免替代基础研究** 公私前竞争伙伴关系是解决特定工程与临床靶点验证的有效工具，但不能替代由公共财政全额保障的好奇心驱动纯基础科学探索。
 

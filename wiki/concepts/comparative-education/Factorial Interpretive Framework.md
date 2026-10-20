@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 在明确概念内涵时，必须厘清其学术边界：
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **现代数理统计中的因子分析（Statistical Factor Analysis）** 汉斯框架中的“因素”是指具有历史实在性与文化意义的宏观结构力量（如宗教教派、语言共同体、民族主义意识形态），属于质性历史社会学范畴，绝非心理测验或量化[[Questionnaire\|问卷]]通过协方差矩阵提取的纯数学统计潜变量。
 > - 不等于 **行为实证派的去情境化变量控制模型（Decontextualised Variable Model）** 战后实证派将教育要素降维为孤立的操作化[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]；因素解释框架坚守历史整体论，强调各因素之间密不可分的有机交织与文化特定性。
 > - 不等于 **地理或生物宿命[[Determinism\|决定论]]（Geographical/Biological Determinism）** 汉斯虽然将种族与环境列为自然因素，但严厉批判生物种族优劣论与地理宿命论，坚信人类精神、宗教信仰与理性反思对物质条件具有能动的超越与重构能力。

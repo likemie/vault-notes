@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 学校与课堂生活绝非客观外在制度规范的单向灌输场所，而是由具备主观意图的行动者通过持续符号互动动态建构的社会世界。行动者依据其对情境的主观赋意实施行动，并在互动博弈中发展出丰富的微观生存策略。研究者必须走出外在量化测量的虚妄，以“互动本身作为基本[[Unit of Analysis\|分析单位]]”，深入当事人生活世界[[Decodification\|解码]]其本土意义范畴。
 
 > [!citation-card] 伍兹论[[Symbolic Interactionism\|符号互动论]]在教育探究中的三大核心公设
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为编码系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用伍兹阐发的符号互动论三大公设、课堂微观生存策略与以互动为单位的方法论纲领。
 
 ---

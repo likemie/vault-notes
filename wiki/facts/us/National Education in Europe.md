@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 全书以惊人的体量将各国的公共教育解构为八大相互咬合的制度维度：
 
-> [!policy-design]- 制度考察的八大核心维度
+> [!policy-design] 制度考察的八大核心维度
 > - **历史沿革与立法沿革（Historical Development and Legislation）**
 >   系统梳理各国教育法律的演变过程（如普鲁士 1819年教育草案、法国 [[Guizot Law of 1833\|1833年基佐法案]]），精准译述原始法令条文。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 33]]; Barnard, 1872:335）
 > - **国家行政与层级治理（Organisation and Administration）**
@@ -112,7 +112,7 @@ updated: 2026-10-16
 
 巴纳德对普鲁士建立真正国民教育体系的赞誉，揭示了其探究域外的根本动机：
 
-> [!citation-card]- 经典引言：巴纳德论普鲁士“真正的国民教育”
+> [!citation-card] 经典引言：巴纳德论普鲁士“真正的国民教育”
 > 普鲁士人最值得赞赏的成就，在于他们成功地建立起了一个堪称‘真正国民教育’（true national education）的完整体系。这一体系将国家最崇高的理性意志与最基层社区的日常福祉紧密结合，使教育成为每个国民不可剥夺的成长权利。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 >
 > *All three were especially impressed by the Prussians' success in their efforts to establish a system of what Barnard called 'true national education'.* (Barnard, 1872:365)
@@ -141,7 +141,7 @@ updated: 2026-10-16
 > - **[[Discourse|话语]]功能** 充当美国[[Common School Movement\|公学运动]]在制度法典、课程设置与师资考评上的“技术智库”与“合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 > - **衍生制度成果** 直接催生了美国联邦教育局（Office of Education）的统计监测机制，并为各州公立师范学校的正规化建设提供了现成方案。
 
-> [!pathways]- 实施路径：从文献汇纂到行政实践的渗透机制
+> [!pathways] 实施路径：从文献汇纂到行政实践的渗透机制
 > - **避开意识形态极化的技术路径** 与[[Horace Mann\|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》后激起波士顿校长大反弹不同，巴纳德采取了更为中立、详备的文献汇纂策略；他直接刊载欧洲法典原文、课程时刻表与官方统计数据，以客观事实的沉稳厚重消解保守派的意识形态敌意。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 32–33]]）
 > - **跨国经验对联邦教育局的建制奠基** 巴纳德在 1867 年创建美国联邦教育局时，明确将收集全美及世界各国的教育事实与统计数据作为联邦法定义务，这一制度构想直接承袭自《欧洲国民教育》的百科全书式工作。（p. 31）
 
@@ -164,7 +164,7 @@ updated: 2026-10-16
 > >
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 明确反驳了诺亚与埃克斯坦“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value\|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 
-> [!citation-card]- 经典学术评论：卡洛扬纳基与卡扎米亚斯对巴纳德的重估
+> [!citation-card] 经典学术评论：卡洛扬纳基与卡扎米亚斯对巴纳德的重估
 > 将巴纳德的方法概括为描述性是恰当的，但依我们的诠释，将其定性为‘缺乏条理’或‘不加甄别的记录’是不恰当的。将巴纳德视为一名优秀的‘编年史家’、优秀的‘教育叙述者’或‘教育民族志学者’，而非一名优秀的‘教育历史学家’也是恰当的……然而，人们即使在今天也不应低估优秀的描述性编年史或叙述在研究外国教育中的价值；依我们的判断，尤其是考虑到它们所处的时代，巴纳德的‘教育历史’理应赢得高度赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 33)]]
 >
 > *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as ‘unsystematic’ or ‘indiscriminate reporting’. It would also be appropriate to characterise Barnard as a good ‘chronicler’ or a good ‘educational narrator’ or ‘educational ethnographer’ ... One, however, should not underestimate the VALUE of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s ‘educational histories’ deserve high praise, especially when one considers the times when they were written.*

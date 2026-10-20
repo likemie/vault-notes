@@ -78,7 +78,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 自我决定理论主张，人是具有整合性自我发展潜能的主动有机体；其高质量的行为投入、[[Surface and Deep Learning\|深层学习]]与心理繁荣，取决于社会或技术环境在多大程度上支持其**自主性（Autonomy）**、**胜任感（Competence）** 与**归属感（Relatedness）** 这三大基本心理需求；在教育技术情境中，当工具从外在控制转向提供自适应选择、即时正向反馈与无评判交互时，学生的学习动机便能沿自决连续体内化为强大的自主投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一对[[Academic Achievement\|学业成绩]]和[[Affective Outcomes\|情感动机]]维度的显著促学效应，有力支持了自我决定理论与[[Control-Value Theory\|控制-价值理论]]，凸显了生成式 AI 如何满足学习者的基本心理需求（即自主性、胜任感与归属感）并促进[[Student Engagement\|学习投入]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 16)]]
 >
 > *First, the pronounced effects on academic achievement and affective-motivational outcomes support self-determination theory and control-VALUE theory, while highlighting how Gen-AI satisfies learners' psychological needs (i.e., autonomy, competence and relatedness) and fosters engagement (Guay, 2022; Pekrun, 2006).*
@@ -206,7 +206,7 @@ updated: 2026-10-20
 > > - **严格自决派** 警告外在控制性奖励会侵蚀长期的自发学习兴趣。
 > > - **功能强化派（Eisenberger et al.）** 认为与绩效水平挂钩的奖励能传达高胜任感信息，从而增强动机。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 实证指出，生成式 AI 虽然大幅满足了[[Affective Outcomes\|情感动机]]与自主感，但若缺乏显性思维阻力，高动机并不足以自发转化为高阶[[Metacognition\|元认知]]调控。
 
 ---

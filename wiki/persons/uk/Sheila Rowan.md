@@ -47,7 +47,7 @@ updated: 2026-10-16
 > - **核心角色** 引力波探测光学材料领域国际领军学者；2016–2021 年出任苏格兰政府首席科学顾问（Chief Scientific Adviser for Scotland）；2026 年与[[Carlos Frenk\|卡洛斯·弗伦克]]（Carlos Frenk）共同出任英国皇家学会《科学为社会》（*Science for society*）报告指导委员会联席主席。
 > - **代表贡献** 推动科学证据融入政府决策，领导制定支持学术界、产业界与非正式教育部门深化[[Public Engagement with Science\|公众科学参与]]的系统性政策建议。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 确保科学知识得以分享，是科学家以及支持他们的机构的责任所在。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 7)]]
 >
 > *It is the responsibility of scientists and the institutions that support them to ensure that scientific knowledge is shared.*
@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 科学参与不仅是实验室研究的外部衍生，更是维护科学研究“[[Social License to Operate\|社会许可]]”（Licence to Operate）与维系公众对公共科研投入政治承诺的必要基石。面对全球气候危机、生态危机和人工智能伦理挑战，必须打破科研人员在职业考评和时间精力分配上面临的制度藩篱，为跨界公众沟通提供专业培训与保护。
 
 ---

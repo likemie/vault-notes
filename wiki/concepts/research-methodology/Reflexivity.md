@@ -133,7 +133,7 @@ updated: 2026-10-20
 >
 > *Quality use requires an inquiring mindset and a reflective organisational culture that encourages critical reflection, tolerates risk, and provides psychological safety.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 自传式自我暴露（Confessional Tale）— 强调个人经历的阐述必须紧扣研究解释框架，篇幅受到严格克制，防范学术报告滑入个人心路历程的情感宣泄或自我辩解（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 9]]）。
 > - [[Positivism|实证主义]]消偏技术（Bias Elimination）— 实证主义假定存在脱离主体的纯粹客观事实并试图借标准化程序消除偏见；反身性则立足主体性的不可消除性，通过使前见透明化来保障探究真实性。
 > - 受访者验证 — 受访者验证是由当事人核查生活世界描述是否忠实其本意；反身性是研究者针对自身认知滤镜、权力结构与方法抉择开展的元反思。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 > - **决策审议所有权与反思性卷入（Deliberation Ownership & Reflexive Engagement）** 在高风险决策与人机协同回路中，反身性要求操作者对算法提示背后的依据与情境反常证据展开实质性权衡与审思，维系动态的理性信念修正能力，防范因认知惰性与制度抗辩成本而将控制权异化为法律免责的橡皮图章。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 15–20)]]
 > - **写作修改的反身性审校与[[Alien Intelligence|异己心智]]审视（Reflexive Review & Alien Mind Scrutiny）** 在读写与文本建构中，修改与反思是作者心智成熟的阈限核心（Downs, 2016; Taczak, 2016）；面对生成式 AI 时，反身性要求学习者将大模型作为无道德意识的“异己智能”，依托反思性提问支架对每一次修改建议展开审慎推敲（如“该句式是否契合整篇论证意图？”），彻底划清“拼写检查式反思保留”与“全篇代劳式反思剥夺”的认识论红线。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 8–10)]]
 
-> [!example]- 质性探究反身性四阶段实施规程
+> [!example] 质性探究反身性四阶段实施规程
 > 1. **设计筹划阶段：位置性陈述与前见审视** 撰写研究者立场陈述（Positionality Statement），反思自身与[[Research Topic|研究主题]]、参与者群体的社会距离、权力关系及理论前见，评估[[Backyard Research|后院研究]]风险。
 > 2. **田野实施阶段：方法代码与多模态反思** 在[[Field Notes|田野笔记]]中运用专门的方法代码（Method Codes）标记田野互动戒备、自身角色冲突，并对录像/图像镜头的机位、角度与剪辑偏差保持审慎（[[Visual Research Methods|视觉研究方法]]）。
 > 3. **分析推理阶段：[[Meaningful Human Control|人在回路]]审校与偏误核查** 借助反思备忘录（[[Memos]]）记录编码决策演化；若引入大模型或 [[Qualitative Computer Software|CAQDAS]] 辅助，严格落实人在回路（HITL）规则，人工校验代码有效性并排查证实偏误。
@@ -333,7 +333,7 @@ updated: 2026-10-20
 
 ## 实证数据
 
-> [!stat-card] 实践者反思性在循证探究环境中的实证落差（基于 Brown & Greany, 2018）
+> [!stat-card]- 实践者反思性在循证探究环境中的实证落差（基于 Brown & Greany, 2018）
 > 
 > | 探究维度 | [[Questionnaire\|问卷]]题项与核心内容 | 同意/非常同意 | 不确定 | 不同意/非常不同意 | 理论诊断意义 |
 > |---|---|---|---|---|---|

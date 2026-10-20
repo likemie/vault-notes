@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 现代社会的危机根源于理性维度的病态片面化——工具理性与行政系统（官僚控制与资本逻辑）侵入并残酷殖民了本应以语言沟通为基础的文化生活世界。同时，现代民主政体的政治合法性并非抽象自存，而是根本上取决于国家能否有效提供安全、健康、教育与经济繁荣等核心公共品；当技术红利被封闭精英垄断而无法转化为公共治理效能时，国家将不可避免地陷入深层的[[Legitimation Crisis|合法化危机]]。现代性绝非不可救药的极权铁笼，而是一项远未完成的理性解放工程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
 
 > [!critique] 对[[Positivism|实证主义]]与[[Scientism|科学主义]]的系统批判

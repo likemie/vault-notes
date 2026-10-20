@@ -61,7 +61,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《新教师教育方案》（PädagogInnenbildung NEU）打破制度壁垒，建立大学与[[Normal School\|师范学院]]的区域联盟联合培养机制，将[[Reflective Thinking\|反思性探究]]、批判性审视与教学评价能力确立为全学段教师的通用[[21st Century Skills and Competencies Discourse\|核心素养]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **学制统一** 统一推行“4年学士 + 1–1.5年硕士”培养架构。
 > - **核心素养模型** 重点强化 5 大能力领域：学科专业与教学法、教学互动与[[Classroom Management\|课堂管理]]、诊断评价与促学反馈、学校发展与团队协作、反思与批判性探究。
 > - **评价考核改革** 引入临床实践档案袋（Practicum Portfolios）、教学反思答辩与[[Microteaching|微格教学]][[Authentic Assessment\|表现性评价]]。

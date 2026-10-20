@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **理论用途** 帮助研究者跳出指责教师能力不足的思维定势，合理解释一线教师面对外部科研成果时，为何会进行选择性吸收、[[Creativity\|创造性]]转化甚至审慎搁置。
 > - **适用边界** 并不否认实证科研的重要价值，而是反对脱离教师实际教学情境与育人价值的机械移植。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 针对[[Teacher Knowledge Base\|教师知识库]]的研究日益强调，教师在日常工作中持续努力整合多样化的知识资源。即便在将研究使用概念化为复杂、多向现象的研究中，也很少有人分析关注知识整合的特征以及该活动对教师提出的要求……更具专业敏感性的概念对于深刻理解研究使用这一经验现象是必不可少的。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 >
 > *Research on teachers’ knowledge base is increasingly emphasising teachers’ continuous efforts to integrate diverse knowledge resources as part of their everyday work... an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances\|affordances]] of research knowledge as a component of professional practice... more profession-sensitive concepts are needed to create a deeper understanding of the empirical phenomenon of research use.*

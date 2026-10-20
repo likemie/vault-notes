@@ -93,7 +93,7 @@ updated: 2026-10-20
 > [!claim] 核心干预与机制假说
 > 通过向转型经济体输出[[OECD|经合组织]]成熟的教育[[Performance Indicators|绩效指标]]技术与标准化统计模板，不仅能够在全球范围内建立横向可比的教育投入与产出数据基准，更能够借助“数字即政策”的量化网络，将发展中国家的教育目标引导至[[Knowledge-Based Economy|知识经济]]与[[Human Capital Theory|人力资本]]积累的轨道，实现跨越传统主权边界的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 协助参与国建立与国际接轨的教育统计与指标体系；采集关于学校教育规模、财政投入、教师资历与资源分配的跨国可比数据；为各参与国政府在人力资本投资与教育体制改革方面提供基于实证证据的决策参考。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **统计采集框架** 直接借鉴经合组织 [[International Indicators of Education Systems|INES]] 项目的架构，围绕教育投入（公共与私人经费支出、生均成本）、教育过程（师生比、教学工时、学校设施）、教育参与（各学段毛入学率、完成率与学龄人口保留率）以及教育产出（毕业率、劳动力市场收益）设立标准化[[Definition of Terms|操作性定义]]与测量指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
 > - **小学专项调查（WEI-SPS）** 针对发展中国家小学教育质量不均的问题，开展世界教育指标小学专项调查（WEI Survey of Primary Schools, WEI-SPS），通过[[Questionnaire|问卷调查]]与学校走访，系统收集有关学校资源短缺、教师工作条件、教学实践与学生家庭背景的第一手实证资料。
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **1997–1999 年 — 跨机构联合倡议与首期数据基线建立** [[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]达成合作协议，正式启动 WEI 项目；首批遴选 11 个转型与发展中大国加入，确立指标[[Operationalization|操作化]]定义，并在经合组织《[[Education at a Glance|教育概览]]》方法框架指导下完成首期跨国统计基线数据汇总与试算。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **2000–2006 年 — 参与国扩展、专题报告发布与小学专项调查（WEI-SPS）** 参与国规模扩展至 19 个国家；联合项目组连续发布多部具有广泛影响力的跨国比较报告（如聚焦教育投入、教师队伍建设与中学教育普及）；2005–2006 年正式组织实施多国联合小学专项调查，深入微观学校层面测量办学条件与教育公平。
 > - **2007 年至今 — 方法论制度化沉淀与向 [[PISA]] 测评生态过渡** WEI 项目建立的统计架构与专业网络逐步沉淀为[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]的常态化全球教育监测基座；同时，WEI 的运作为中国、巴西等转型大国熟悉并接纳经合组织技术标准打下基础，为参与国后续直接加入国际学生评估项目（[[PISA]]）和经合组织国别政策审查铺设了通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
@@ -123,7 +123,7 @@ updated: 2026-10-20
 > - **多边金融与发展政策协同方（[[World Bank|世界银行]]）** 提供稳定的财政资助，并将 WEI 产出的指标数据与教育发展战略直接挂钩，作为其在转型国家推进教育贷款与[[Structural Adjustment Programs|结构调整政策]]的重要依据。
 > - **国别执行机构与统计对口部门（各参与国教育部与统计局）** 负责落实本国内部各层级学校数据的统一采集、汇总与校验，组建国家协调团队，参与跨国工作研讨。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **指标本土化适配与概念对齐** 在严格遵循[[International Education|国际教育]]标准分类（ISCED）的前提下，由联合专家组协助各参与国梳理本国学制分段与办学形态，化解中等职业教育、成人培训等多元制度在跨国比较中的分类冲突。
 > - **网络化能力培训与工作坊** 定期在巴黎、蒙特利尔或各参与国首都举办跨国统计培训班与专家研讨会，培育了一批[[Refined Mastery|精通]]经合组织指标规范的发展中国家技术官僚群体。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 > - **定期政策审议与联合旗舰出版物** 坚持三方联合署名机制，出版系列跨国比较报告与国别概况简报，借助国际学术声誉对参与国国内教育资源分配产生柔性审议效应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **教育投入与资源配置指标** 公共教育财政支出占 GDP 比例、教育支出占国家财政总支出比例、生均教育支出绝对额与相对国民收入水平。
 > - **教育参与与流动进展指标** 初等教育净入学率、初高中过渡率、中等教育完成率与高等教育毛入学率。
 > - **学校学习条件与教师资历指标** [[Class Size|班级规模]]与师生比、专任教师学历达标率、教师法定薪酬相对于人均 GDP 的比例、基本教学设施与图书资源配备率。

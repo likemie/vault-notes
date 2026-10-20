@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **用途** 作为复杂开放任务（如编程探究、跨学科写作、科学[[Problem Solving\|问题解决]]）中的个性化认知支架、[[Divergent Thinking\|发散思维]]启发伙伴与[[Formative Assessment\|形成性评价]]工具。
 > - **边界** 生成式智能体存在输出幻觉（Hallucination）与非确定性特征；若缺乏显性教学法约束与教师引导，极易诱发学习者的[[Cognitive Offloading\|认知卸载]]（Cognitive Offloading）与机械盲从。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 生成式智能体通过动态情境推理与开放式表征，能够为复杂任务提供多粒度自适应支架。在基础教育[[Meta-analysis\|元分析]]中，生成式智能体对认知表现展现出显著促进效应（$g = 0.421, p < .001$），但其对高阶思维的赋能高度依赖显性反思量规与结构化探究脚手架。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 7, 10–11）
 >
 > *Generative AI agents leverage large language models to deliver dynamic, multi-modal scaffolding in open-ended learning tasks, achieving substantial [[Learning Gain\|learning gains]] when constrained by structured instructional and reflection frameworks.*

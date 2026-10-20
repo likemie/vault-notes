@@ -66,7 +66,7 @@ updated: 2026-09-22
 > [!claim] 政策核心
 > ISSE（现称 StudentSurvey.ie）以全美 [[National Survey of Student Engagement\|NSSE]] 调查为蓝本，系统测度学生在高级学习（Higher-Order Learning）、[[Reflexivity\|反思性]]与整合性学习、批判性论据分析及量化推理方面的实践频率与深度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 监测高校是否为学生提供了促进[[Higher-Order Thinking Skills\|高阶思维]]与深层探究的[[Effective Teaching\|有效教学]]环境。
 > - **对象** 全爱尔兰数十所高校逾 40,000 名在校大学生。
 > - **工具** 包含 9 大核心指标分量表的标准化[[Questionnaire\|问卷]]（重点涵盖高阶认知加工、师生互动与有效学习策略）。

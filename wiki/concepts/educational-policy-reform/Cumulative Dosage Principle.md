@@ -73,7 +73,7 @@ updated: 2026-10-20
 >
 > *A positive schooling experience depends not on a one-time intense intervention, the impacts of which are unlikely to last, but to schools' use of well-implemented, proven instructional models year after year. It seems likely that students who receive proven, well-implemented instructional methods every year from preschool to 12th grade will have a considerable cumulative advantage over those who do not.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于单纯的“延长课时”或“题海加量”** 累积剂量强调的是经过严格第三方独立实证评估的“有效成分（Proven Active Ingredients）”在各学段的高保真衔接，单纯在低质无效课堂中堆砌教学时长无法产生积极累积效应。
 > - **不否定早期关键期救济** 累积剂量不是用长周期稀释早期干预强度，而是主张在早期 Tier 2/Tier 3 阻断失败后，后续常态化 Tier 1 课堂必须无缝维系循证教学标准，避免儿童重返低效课堂导致既得优势迅速流失。
 

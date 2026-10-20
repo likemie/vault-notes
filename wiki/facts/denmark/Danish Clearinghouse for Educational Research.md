@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展与兴衰历程
+> [!dev-timeline] 组织发展与兴衰历程
 > - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与文献编码规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **2007 — 确立为 [[OECD]] 国际标杆样本** 经合组织在 2007 年标志性研究报告中将该中心列为全球 6 家核心中介机构之一，赞誉其在非英语国家推动[[Evidence-Based Policy-Making|循证决策]]的先驱探索([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
 > - **2008–2015 — 跨国网络参与与成果高产期** 深度加入欧洲教育证据知情政策与实践网络（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），针对包容教育、小班化教学、教师合作与学生心理福祉连续发布数十部丹麦语系统综述，成为北欧循证政策的重要智力依托。
@@ -97,7 +97,7 @@ updated: 2026-10-20
 > - **方法学质量审查组** 参照坎贝尔协作网（[[Campbell Collaboration]]）规程，建立双人独立文献筛选、偏倚风险评定与[[Effect Size\|效应量]]计算机制。
 > - **实践者咨询伙伴** 与丹麦教师工会、校长协会建立定期沟通渠道，确保综述结论符合丹麦学校民主平等的教学传统。
 
-> [!pathways]- 证据生产与转译流程
+> [!pathways] 证据生产与转译流程
 > - **需求导向议题确定** 由教育部会同一线教育专家提炼重大改革痛点（如随班就读包容性教学成效）。
 > - **全文献系统检索与筛选** 系统检索丹麦语、北欧各语种及国际英文期刊数据库，按明确标准剔除低质量研究。
 > - **母语化知识提炼** 将高深复杂的[[Meta-analysis\|元分析]]统计结论转化为简明扼要的丹麦语“证据快报”（Evidence Briefs）与政策咨询备忘录。
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review\|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **北欧政策渗透** 撰写的综述结论被丹麦议会辩论与教育部白皮书频繁征引，推动了北欧从意识形态争论向实证证据知情的[[Paradigm\|范式]]转型。
 > - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索跨国教育证据的共享与转译。

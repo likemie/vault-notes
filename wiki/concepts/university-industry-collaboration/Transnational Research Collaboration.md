@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 追溯了跨国研究合作的网络化转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society\|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作[[Discourse|话语]]之中([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 
 ## 核心要素
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Network Society\|网络社会]]理论（Castells, 1996）— 解释跨国研究合作的网络化结构转型([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])
 > - "网络财富"（Benkler, 2006）— 解释社会生产如何通过网络化协作转变市场和自由
 > - [[Geopolitics of Knowledge\|知识地缘政治]] — 跨国研究合作是知识[[Geopolitics|地缘政治]]在制度层面的关键运作[[Champ\|场域]]，合作的条件、方向和收益分配深受地缘政治格局影响([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–100]])

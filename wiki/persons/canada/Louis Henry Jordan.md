@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 近代所有冠以“比较”（Comparative）之名的学科，其内在合法性均源自一套共享的“[[Scientific Method|科学方法]]论”（Scientific Methodology）：即超越孤立封闭的国别经验描述，运用假说演绎与归纳分析揭示不同系统之间深层的“关系规律”（fundamental laws of relation）。比较教育学在这一知识图景中不仅是一门应用学科，更因其实践建言的高效性而具备典范意义。
 
 > [!citation-card] 论比较教育学作为最具典范意义的科学比较领域

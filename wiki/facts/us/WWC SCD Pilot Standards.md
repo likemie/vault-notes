@@ -138,7 +138,7 @@ updated: 2026-10-17
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - **2010** — Kratochwill et al. 发布 [[Single-Case Design\|SCD]] 技术文档 Version 1.0 (Pilot)([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.459]])
 > - **2013** — Kratochwill et al. 在 *Remedial and Special Education* 上正式发表 [[Single-Case Design\|SCD]] [[Intervention Research\|干预研究]]设计标准([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.468]])
 > - **2013** — Maggin et al. 发表 7 种 SCD 量规的比较研究，指出 [[What Works Clearinghouse\|WWC]] 标准在推广性方面的不足([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.460]])

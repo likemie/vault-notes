@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者[[Evaluation Research|评估研究]]影响的性质：象征性使用看似用了研究，但并不构成真正的[[Knowledge Integration|知识整合]]；它也可作为测量[[Research-Practice Partnership|研究-实践伙伴关系]]长期成果的分类框架([[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, p. 132]])。
 > - **边界** 三分类属于描述性类型划分，不构成价值高下判定；概念性使用体现观念层面的长期渗透，象征性使用亦常伴随正当的政策审议需求。它不回答用什么研究的质量问题（见 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE））。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 概念性使用"构成一个宽泛的研究使用定义，研究以复杂而往往间接的方式为实践者提供信息，并影响对各种议题的理解与思考"；工具性使用指"研究对政策或实践决策的直接影响，某项特定研究直接回应某个特定议题"；象征性使用指"以事后使已作决策合法化为主导的使用方式"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p. 3]]）。
 
 > [!boundary]- 概念边界

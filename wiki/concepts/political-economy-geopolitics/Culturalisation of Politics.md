@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **分析用途** 帮助研究者透视高中道德课程（如[[Citizenship and Social Development\|公社科]]中的儒家八德）和文化机构接管（如故宫分馆建设）背后的政治整合机制。
 > - **概念边界** 政治的文化化不同于普遍的传统文化传承，其特征在于强烈的去政治化防线建构和消解政治能动性的稳压功能（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
-> [!citation-card]- 关键学术表述
+> [!citation-card] 关键学术表述
 > 习近平时代的中国合法性话语出现重大转型，从过去的马克思列宁主义阶级斗争话语，转向以[[Zhonghua Minzu\|中华民族]]伟大复兴和中华优秀传统文化为核心的文化-种族国族主义（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
 >
 > *“...signalled a decisive shift away from Marxist-Leninist class struggle towards a form of cultural-racial nationalism centered on the 'great rejuvenation of the Chinese nation' and the promotion of 'traditional Chinese culture'.”*

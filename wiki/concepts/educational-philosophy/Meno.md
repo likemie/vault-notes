@@ -185,7 +185,7 @@ updated: 2026-10-20
 > > - **传统启发教学论** 盛赞其不直接给答案、让学生自己道出结论的教学智慧。
 > > - **当代[[Epistemology|认识论]]批判（[[Argument_Naeem_2026_Episteme|Naeem, 2026]]）** 批评其提问充满闭合诱导，每一步都锁死了思考方向，学生实质沦为提问者逻辑闭环中的应声虫，丧失思想自主权。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 批判《美诺篇》苏格拉底问答法的预设主义缺陷，指出其无法适应培育[[Epistemic Virtues and Vices|理智美德]]与发散[[Creativity|创造力]]的现代教学需求。
 
 > [!warning] 适用边界

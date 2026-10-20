@@ -54,7 +54,7 @@ updated: 2026-10-15
 > - **核心角色** 20 世纪中叶美国高等教育实验性改革的先驱，伯克利实验大学计划（Experimental College Program, 1965–1969）的主导创立者；在 1960 年代末正典[[General Education|通识教育]]大论战中，因敏锐揭示核心课程选目编辑特权的内在困境而成为思想史关键节点。
 > - **代表贡献** 创立聚焦城邦危机的跨学科整合通识模式；在 1968 年发表关于正典篇目筛选机制的经典质问。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 
-> [!citation-card]- 图斯曼论大学通识正典的篇目筛选困境
+> [!citation-card] 图斯曼论大学通识正典的篇目筛选困境
 > 我们选了[[Plato|柏拉图]]，但为何不选[[Aristotle|亚里士多德]]？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了约翰·斯图尔特·密尔，为何不选马克思？[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Tussman, 1968; cited in Karp & Zamiska, 2025, p. 88)]]
 >
 > *We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*
@@ -88,7 +88,7 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 图斯曼主张本科[[General Education|通识教育]]绝非零散选修知识的拼接，而是引导青年心智进入政治共同体生活的“成人礼”。然而在 1968 年的大论辩中，他敏锐指出，任何试图在庞大思想宝库中精选极少数篇目作为“西方正典”的努力，在技术层面上都带有不可避免的编辑武断性（如选[[Plato|柏拉图]]弃[[Aristotle|亚里士多德]]）。卡普与扎米斯卡指出，图斯曼所揭示的技术性篇目争议，在客观上加速了各高校教授会拆解正典必修课的进程，最终演化为国家历史认同断线的深刻危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 
 ---

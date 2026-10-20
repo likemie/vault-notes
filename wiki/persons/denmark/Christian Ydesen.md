@@ -85,7 +85,7 @@ updated: 2026-10-20
 > - **核心角色** 当代国际组织[[Historical Institutionalism|历史制度主义]]、跨国教育评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
 > - **代表贡献** 奠定[[Global Education Governing Complex\|全球教育治理复合体]][[Construct\|构念]]；深入研究[[OECD\|经合组织]]（[[OECD]]）与[[World Bank\|世界银行]]跨国指标帝国的崛起历程；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中系统构建冷战地缘对抗向当代[[Policy Brokerage\|政策中介]]演化的历史脉络。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 克里斯蒂安·伊德森通过将严密的历史档案学与国际关系政治经济学相结合，彻底破除了国际组织自封的技术中立神话，揭示了全球[[Performance Indicators\|教育指标]]生产背后错综复杂的地缘博弈与霸权争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–543)]]
 >
 > *Christian Ydesen combines rigorous archival historiography with the political economy of international relations, effectively deconstructing the myth of technical neutrality self-fashioned by international organisations, and exposing the intricate geopolitical struggles and [[Hegemony]]-seeking behind global educational indicator production.*
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球教育治理是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
 
 > [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的[[Historical Institutionalism|历史制度主义]]定性
@@ -142,7 +142,7 @@ updated: 2026-10-20
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 在[[Sociology of Measurement\|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems\|INES]] 指标历史档案形成紧密互证。
 

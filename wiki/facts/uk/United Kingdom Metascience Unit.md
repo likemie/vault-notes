@@ -87,7 +87,7 @@ updated: 2026-10-20
 > - **资助实验设计与方法学部** 专门负责设计基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与准实验的基金机制测试方案。
 > - **数据分析与计量评估小组** 追踪受资助项目的长周期产出、学术影响力与非共识创新[[Emergence|涌现]]。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **真实资助场景中的[[Mechanism Experiments|机制实验]]（In-situ [[Mechanism Experiments|Mechanism Experiments]]）** 单元并非停留在理论推演，而是直接将实验设计嵌入真实的政府研发项目招标与评审流程中。
 > - **法定实验介入权与数据透明共享** 拥有合法权限对特定基金池实施[[Random Assignment|随机化]]分配与双盲评审测试，并将实验数据和评估报告向全社会公开，倒逼资助政策调整。
 
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 国际政策辐射
+> [!indicators] 国际政策辐射
 > - **引领国家科研资助的“循证转向”** 终结了数百年来科研资助体制纯粹基于传统惯性与直觉运作的模式，确立了以因果实验优化科研制度的现代[[Paradigm|范式]]。
 > - **美国联邦科学机构改革的直接催化剂** 白宫 [[Office of Science and Technology Policy|OSTP]] 明确将英国经验作为核心样板，推动美国各联邦机构（如 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]）建立具有法定强制实验权的直属[[Metascience|元科学]]单元。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 

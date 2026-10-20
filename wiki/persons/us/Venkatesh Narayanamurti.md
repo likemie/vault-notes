@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **核心角色** 战后线性创新[[Paradigm|范式]]与“[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]”的重要批判者；“[[Discovery-Invention Cycle|发现-发明循环]]理论”的首创者；系统论证工程技术发明与前沿物理科学发现的对称性与共生演进网络，为美国联邦科研资助管理体制与跨学科科研机构设计提供了新范式。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > - **代表贡献** 首倡发现-发明循环理论；批判[[Linear Model of Innovation|线性创新模型]]与基础/应用二分法的[[Epistemology|认识论]]偏见；推动哈佛大学工程学科独立设院改革；主导重塑[[Department of Energy|美国能源部]]（DOE）能源前沿研究中心（EFRC）等任务导向型科研资助机制。
 
-> [!citation-card]- 纳拉亚纳穆尔提的政策学术定位
+> [!citation-card] 纳拉亚纳穆尔提的政策学术定位
 > 纳拉亚纳穆尔提是哈佛大学本杰明·皮尔斯技术与公共政策讲席教授兼物理学教授，历任贝尔实验室研究主管、桑迪亚国家实验室副总裁与哈佛工学院院长，长期致力于从跨学科研发组织实践出发重构美国国家科技创新政策体系。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 >
 > *"Venkatesh Narayanamurti is the Benjamin Peirce Professor of Technology and Public Policy and professor of Physics at Harvard University and the director of the Science, Technology, and Public Policy Program at the Harvard Kennedy School."*
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 战后美国以[[Science, The Endless Frontier 1945|布什报告]]为核心建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]违背了技术先于理论的科学史事实；科学研究由创造新工具与新工艺的“发明”和揭示新知识与新规律的“发现”两大对称通道构成，二者在宏观时间跨度上交替激发、双向流转；科技政策的核心职责在于诊断并消除阻碍知识在循环中顺畅流动的体制瓶颈，必须废弃基于立项动机的标签分类，确立以[[Long-Term Public Utility|长期公共效用]]为准绳的全额资助新机制。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
 > [!citation-card] 终结基础与应用研究二分法
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与[[ARPA-E|高级能源研究计划局]]（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项诺贝尔物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 纳拉亚纳穆尔提与合作者通过对[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的深度[[Case Study|案例研究]]，提炼[[University-Industry Collaboration|产学合作]]与公私研发联合体在连接基础探索与应用需求中的三项组织有效性机制，并探讨向国家能源创新机构迁移的适用边界。
 

@@ -60,7 +60,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体网格（一个受访者的一组元素-构念评分矩阵）；多个网格组（共享元素或构念时的组分析）。
 > - **输出形式** 构念标签（质性）；元素×构念评分矩阵；构念间相关矩阵与平均相关（认知复杂性/简单性指数）；主成分负载与方差解释；聚类树状图；空间表征图；自认同图；聚焦网格。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Repertory grid 是元素与构念之间关系的表征。它提供的信息可用于理解"一个人的心理过程如何被其预期事件的方式所引导"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 5)]]
 >
 > *A repertory grid is simply a representation of the relationship between elements and constructs. As such it provides information that we can use to understand how 'a person's processes are psychologically channelized by the ways in which he or she anticipates events'.*

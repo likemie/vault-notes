@@ -63,7 +63,7 @@ updated: 2026-10-16
 > [!claim] 把课程传播组织成实施能力建设
 > 新课程的采用取决于教师是否认同目标、能否承担额外劳动，以及是否能从更有经验的学校和考官获得支持。介绍会让学校形成初步判断，培训工作坊再把课程知识、校际联系和国际运动身份提供给教师。两类活动形成从了解、申请到实施的连续路径，而不是把扩张停留在行政推广。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 149–152)]]
 
-> [!dev-timeline]- 从小办公室到跨校专业网络
+> [!dev-timeline] 从小办公室到跨校专业网络
 > - **1977 年** 尼科尔选择约 200 平方英尺的独立办公室，以全职区域负责人身份直接处理学校查询、筹资与日内瓦协调；空间很小，但避免业务附属于某所大学或学校的优先事项。
 > - **1978 年** 首轮教师工作坊吸引 26 所学校的 97 名教师，师资来自先行学校和 IB 考试体系。
 > - **1979 年** [[International Baccalaureate North America\|IBNA]] 因资金不足取消教师旅行和食宿补贴，出席人数随即大幅下降；这显示支持网络尚不能只靠学校自费维持。
@@ -71,7 +71,7 @@ updated: 2026-10-16
 > - **1983 年** 培训开始把区域经验教师与正式考试权威结合；各学科小组至少有一名考官参与，阵容包括 3 名欧洲主考官、1 名美国主考官和 1 名英语学校 [[Theory of Knowledge\|TOK]] 协调者。
 > - **1984 年** 106 所已加入学校的 579 名教师参加工作坊，另有 7 所候选学校的 19 名教师提前参与；介绍、考察与实施培训由此连接成连续入口。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–144, 149–152)]]
 
-> [!citation-card]- 北美学校的共同点
+> [!citation-card] 北美学校的共同点
 > 北美 IB 学校在地域、规模、社区财富和既有高级课程上差异很大，最稳定的共同点是教师与管理者对项目目标具有共识性兴趣。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 152–153)]]
 >
 > *IB Schools in North America seem to have little in common except a consensual interest among teachers and administrators in the aims of the IB program.*

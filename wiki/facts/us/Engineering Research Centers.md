@@ -93,7 +93,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 通过建立长期资助、跨学科与多机构联动的实体工程中心，将产业界前沿技术痛点转化为大学实验室先导课题，推动工程专业师生参与高强度工程实践与产学交互，使大学科研能力直接转化为支撑美国工业国际[[Competitiveness|竞争力]]与国家技术主权的关键杠杆。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 根本性重塑美国工程科学研究与[[Engineering Education|高等工程教育]]生态，培养具备多学科系统[[Engineering Mindset|工程思维]]、熟悉产业前沿需求并能直接投入工业竞争的高阶工程科技人才。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **覆盖对象** 全美高水平[[Research Universities|研究型大学]]工程学院、工业制造与高科技企业研发团队、大学工程专业本科生与硕博士研究生。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367–368)]]
 > - **微观靶向与重资产设备资助** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）指出，ERC 代表了联邦“微观靶向”（Micro-targeting）战略的升级版：在 1978 年 IUCRC 经验基础上，1984 年正式设立的 ERC 提供了更大体量的单中心资助，专门用于支持昂贵的大型前沿工程仪器与试验设备采购，攻关工业界特定的重大技术挑战。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]

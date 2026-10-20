@@ -107,7 +107,7 @@ updated: 2026-10-17
 >
 > *External validity threats arise when experimenters draw incorrect inferences from the sample data to other persons, other settings, and past or future situations.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 [[Internal Validity\|内部效度]]** 内部效度关注[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]][[Causality\|因果关系]]的内部真实性与确定性；外部效度关注该因果推论向未测试情境的外推能力。
 > - **不等于 [[Ecological Validity\|生态效度]]** 生态效度是外部效度的子维度，专指研究环境与真实自然生活环境的相似性；外部效度除情境生态外，还涵盖目标总体、时间推移及测验工具的泛化性。
 > - **区别于统计结论效度与[[Construct Validity\|构念效度]]** 统计结论效度关乎样本统计功效与假设检验稳健性；构念效度关乎[[Operationalization\|操作化]]测量是否准确反映[[Construct\|理论构念]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。

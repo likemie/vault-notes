@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** [[John Dewey\|杜威]]在华留美学生网络的核心节点，1919–1925年间[[New Education Movement\|新教育运动]]激进民主派的领袖与理论旗手。
 > - **代表贡献** 主导创办并主编《新教育》（*The New Education*）杂志；提出“以教育创造新国家”与学校隔离改造论；深度参与[[1922 Educational System Reform\|1922年学制改革]]七项标准的制定。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–618]]）
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 蒋梦麟等哥伦比亚校友回国后占据了北京大学等核心机构的领导职位，并参与了1915–1922年间制定新教育体系的组织网络；他们不是中立的翻译者，而是带有强烈自身改革议程的政治与教育行动者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 蒋梦麟教育思想的核心是“以教育创造新国家”。他主张学校必须与旧社会的“恶习惯”彻底隔离，在校园内先行建构一个“新的理想国”去替换旧社会；他将新旧关系建构为非此即彼的替代关系（“新旧调和，殆无余地”），并以追赶世界潮流为终极目标。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
 
 - **教育作为国家重建的根本杠杆** 蒋梦麟将新教育提升为“改造政治与社会的根本手段”，认为学校是创造新国家与新文明的唯一有效通道。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.615]]）
@@ -107,7 +107,7 @@ updated: 2026-10-20
 - **追赶与超越发达国家的目标设定** 以美式[[Progressive Education|进步教育]]与国际潮流为终极参照系，主张中国教育必须迅速追赶并超越西方列强。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.615]]）
 - **新旧关系“殆无余地”的替代逻辑** 明确断言“新旧调和，殆无余地”，主张以新标准完全覆盖旧框架，与杜威“零碎演进”的方法论存在张力。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.615]]）
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “新旧调和，殆无余地。教育者当以创造新国家、培养理想国之理想公民为己任。”（蒋梦麟，《新教育》，1919）
 >
 > *Between the new and the old, there is hardly any room for compromise. Educators must take it as their solemn duty to create a new nation and cultivate ideal citizens for an ideal republic.*
@@ -121,7 +121,7 @@ updated: 2026-10-20
 > - **政策路径** 主导了1922年新学制七项标准的制定（如平民教育精神、个性发展、适应社会进化）。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617–618]]）
 > - **跨国传播** 作为哥大留美精英网络的核心，推动了[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华的选择性传播（强调民主目标，淡化渐进实验方法）。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 详细分析了蒋梦麟《新教育》时代的激进民主立场、学校隔离论及其对1922学制的深远影响。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 揭示了蒋梦麟与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]组成的哥大网络在杜威思想在华[[Recontextualization\|再脉络化]]中的行动者角色。
 
@@ -145,7 +145,7 @@ updated: 2026-10-20
 > >
 > > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.618, 622)]]** 批评蒋梦麟的激进立场导致新教育在实践中脱离了中国农业国国情。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, p.619)]] — 指出蒋梦麟试图以教育单枪匹马完成国家重建，忽视了财政与政局对改革的残酷制约。
 
 > [!warning] 未解问题与边界

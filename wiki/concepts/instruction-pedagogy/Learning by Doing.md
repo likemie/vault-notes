@@ -257,7 +257,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在[[Active Learning|主动学习]]模型中的案例与[[Reflective Thinking|反思性思维]]运作机制。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史视角阐明高科技大规模制造车间中工程排障与工艺良率提升的组织化“在做中学”机制。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与半导体全球竞争视角，阐述干中学如何通过先进制程良率爬坡构筑动态成本壁垒，以及政府补贴介入的经济学逻辑。

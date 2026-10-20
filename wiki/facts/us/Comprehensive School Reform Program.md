@@ -78,7 +78,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > 通过为每所入选学校提供每年至少 5 万美元（连续 3 年）的专项附加经费，激励薄弱学校放弃零散修补，转而采购并在全校整体实施经过严格实验-对照组评估验证的“全面改革模式”（Comprehensive Reform Models）。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 推动高贫困学校进行全方位重构，整合课程教材、课堂教学、形成性测评、全员专业发展与家校协同治理，系统提升全员学业达标率。
 > - **覆盖对象** 全美 [[Title I of the Elementary and Secondary Education Act\|Title I]] 高贫困公立中小学校及其全体在校师生。
 > - **干预模式** 涵盖 9 项法定核心要素的一体化全校模式，代表性方案包括全员成功（[[Success for All]]，SFA）、[[Direct Instruction\|直接教学]]（[[Direct Instruction]]，DI）、美国新学校（New American Schools）及加速学校（Accelerated Schools）等。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > - **外部方案研发方与基金会** 提供经过验证的课程资源、外派全职教练并为学校提供现场专业发展指导（如 [[Success for All]] 基金会）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **项目实施公立学校** 经教师民主表决（如 SFA 80% 投票机制）自主选定方案，开展为期 3 年以上的全校协同教学变革。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 
-> [!pathways]- 实施路径与管理机制
+> [!pathways] 实施路径与管理机制
 > - **资金下达与竞争性评审** 联邦资金按 [[Title I of the Elementary and Secondary Education Act\|Title I]] 公式分配至各州，各州设立竞争性评审委员会，面向辖区内薄弱学校评审 CSR 方案申请。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **全校一体化重构路径** 入选学校打破班级壁垒，在全校统一排课（如 90 分钟不间断读写模块）、跨年级按能力重组教学并在校内设立全职改革协调员。
 > - **州级自由裁量权与标准稀释** 在实际操作中，由于缺乏国家级统一证据审查平台，各州官员在评审时广泛保留自由裁量权，大量未经验证的地方自创模型被宽松准入。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入与规模指标** 联邦累计资助超过 2,600 所学校，年财政总投入最高达 3.1 亿美元。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **资金流向证据达标率** 获得资助的学校中，采纳强证据方案的学校比例 vs 采纳未经验证方案的比例。
 > - **学业产出指标** 独立标准化阅读与数学测验成绩提升幅度、州考达标率及长期学业差距缩小程度。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]

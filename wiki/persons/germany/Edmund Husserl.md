@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 胡塞尔主张哲学必须成为“严格的科学”（strenge Wissenschaft），其首要任务是探寻科学基础的真正源头，质疑日常生活中理所当然（taken-for-granted）的常识假定（Burrell & Morgan, 1979）。通过“回到事物本身！”（back to the things）的原则，穿透文化与象征符号中介的层层遮蔽，直观事物如何直接显现给我们；进而运用“[[Epoché\|悬置]]”（epoché）方法将整个自然态度与先入之见放入括号，达到对先验意识构成机制的纯粹洞察；并在晚期深刻阐明一切[[Scientific Method\|经验科学]]均奠基于主观体验的前理论“生活世界”，借助主体间性的互动与移情共筑客观实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 
 > [!feature] 还原后的先验意识三要素
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > - **方法路径** [[Epoché\|悬置]]和现象学还原方法成为[[Qualitative Research\|质性研究]]中[[Interpretive Paradigm\|诠释范式]]的核心反思工具，为超越表面行为记录、探究参与者深层主观意义提供了[[Epistemology\|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）转译并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning\|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 系统阐明了胡塞尔的悬置方法及先验意识三要素如何确立了自然主义与诠释性教育探究的认识论合法性。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] — 深入分析了胡塞尔的先验现象学、[[Intentionality|意向性]]及生活世界理论，如何作为芬兰跨学科现象本位学习（PhBL）核心哲学根源的演化与转译。
 
@@ -203,7 +203,7 @@ updated: 2026-10-20
 > > 学界争议胡塞尔晚期著作《欧洲科学的危机》中引入历史主义叙事是否削弱了现象学的超历史科学主张。
 > > - **莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）** 认为虽然悬置要求把世界放入括号，但人永远是“世界前反思地已在”的具身存在，而其晚期引入的科学史危机和生活世界讨论，实质上与其早期的反历史主义立场存在内在张力。但也有学者辩护称，历史在晚期现象学中依然仅作为先验自我的[[Intentionality|意向性]]特征呈现。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 11]] — 探讨了在教育实施中，胡塞尔的先验反思常面临[[Operationalization\|操作化]]困难，容易在没有教师反思能动性介入的情况下，降维为一种去情境化、缺乏批判反思潜能的标准化技术性教学包。
 
 ---

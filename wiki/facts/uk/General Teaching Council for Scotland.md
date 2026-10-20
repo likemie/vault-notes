@@ -81,7 +81,7 @@ updated: 2026-10-16
 > - **专业发展与标准委员会（Professional Standards Committee）** 负责定期审议、修订与迭代苏格兰《教师专业标准》，监管高等院校初始师训项目的认证与评估。
 > - **纪律与适任委员会（Fitness to Teach Committees）** 依法独立行使司法裁判职能，处理违反专业守则与失职案件，保障公众与学生福祉。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **教师专业更新（Professional Update, PU）机制** 每五年为周期，要求全体在职教师在持续专业学习（PRD）中开展基于反思与证据的探究，经校领导确认后完成资格更新，取代外部惩罚性重新考核。
 > - **[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）嵌入** 将探究精神确立为专业行动的核心机制，要求教师在真实课堂中界定问题、收集证据、反思教学并与大学学者开展合作。
 > - **学术文献直接赋权（Education Source 接入）** GTCS 直接出资为全苏格兰注册教师采购 EBSCO Education Source 全文数据库访问权限，打破学术期刊付费墙，使一线教师无需依赖商业摘要即可直接查阅原始学术成果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 14]]）。
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **专业覆盖规模** 注册并监管苏格兰逾 75,000 名中小学、特教及高校教师教育工作者。
 > - **国际治理声誉** 作为全球首个完全独立的法定教师专业委员会，其以同行监管和[[Practitioner Enquiry\|实践者探究]]为核心的治理架构被多个英联邦国家与欧洲体系借鉴。
 > - **实践文化塑造** 实证研究表明，GTCS 的专业标准成功在苏格兰培育了抵制“通用循证教条”的一线专业文化，使校长与教师具备深厚的[[Contributory Expertise\|贡献型专长]]，有效对冲了外部商业化包装与高利害[[Performativity|表演性]]合规（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 19–23]]）。

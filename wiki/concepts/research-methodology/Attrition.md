@@ -156,7 +156,7 @@ ight|$$
 
 ## 概念边界与常见误区
 
-> [!boundary] 概念辨析与适用边界
+> [!boundary]- 概念辨析与适用边界
 > - **流失（Attrition） vs 排除偏差（Exclusion Bias）** 流失是指参与者已经入组并启动实验，但在中途退出或[[Pre-test and Post-test\|后测]]失联；排除偏差是指研究者在[[Random Assignment\|随机化]]分配前依据既定准入标准（如智商低于特定值）系统排除特定对象。
 > - **流失偏差 vs 小样本[[Sampling Error\|抽样误差]]（Sampling Error）** 小样本导致的偶然不平衡可通过事后[[Covariate Adjustment\|协变量控制]]缓解，且样本属性未变；流失是在时间维度上动态改变了受试者总体的概率分布结构。
 > - **[[Cross-sectional Study\|横截面调查]]（Cross-sectional）不存在实验流失** 流失是纵向时间序列[[Cohort Study\|追踪研究]]和干[[Pilot Testing\|预实验]]特有的威胁；单次横截面[[Questionnaire\|问卷]]中只存在**无[[Response Bias\|应答偏差]]（Non-response Bias）**。

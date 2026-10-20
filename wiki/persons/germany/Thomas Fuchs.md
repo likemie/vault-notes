@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 将大脑界定为生命机体与世界进行双向生态中介的“关系器官”（Organ of Relations）。意识与学习根植于鲜活生命在真实环境中的具身行动（Embodied Action），无法直接还原为神经元微观突触的放电反应；试图以脑扫描和神经指标遥控教育与人类意义建构的努力，混淆了物理机制与存在体验。
 
 > [!citation-card] [[Ecology of the Brain|大脑作为关系器官]]与反抗神经还原论
@@ -109,7 +109,7 @@ updated: 2026-10-20
 > - **教育哲学路径** 成为斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等[[Critical Pedagogy|批判教育学]]家重构教学[[Ontology|本体论]]的基石，启发了“具身化—延展辩证法”，抵御将教学降维为脑测验指标的绩效主义改革。
 > - **主体间性研究** 与德耶格尔提出的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]），深远改变了发展心理学、教育交往论与自闭症交互机制的解释[[Paradigm|范式]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 汲取福克斯脑生态学与生成主体间性理论，论证脑神经天文级突触动力学的不可还原性，提出具身化—延展辩证法以抗衡可见学习的指标监控。
 
 ---

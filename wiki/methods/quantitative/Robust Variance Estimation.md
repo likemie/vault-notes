@@ -67,7 +67,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 效应量层级（Level 1）、一阶研究层级（Level 2）及元分析集群层级（Level 3 / Cluster）。
 > - **输出形式** 稳健标准误、渐近置信区间、基于霍特林 $T^2$ 近似的小样本调整 $F$ 检验统计量与元回归系数。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 稳健方差估计结合工作模型近似效应量依赖结构，以计算逆方差权重，进而运用稳健方差估计检验假设，确保了假设检验的有效性并提高了估计精度。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 >
 > *The primary analysis employed the combination of a multilevel meta-analytical model with robust variance estimation (RVE)... Standard errors were estimated and RVE used for [[Hypothesis]] testing. This combined approach ensured the validity of hypothesis testing and increased the precision of the estimates.*

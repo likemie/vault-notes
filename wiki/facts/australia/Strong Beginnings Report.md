@@ -71,13 +71,13 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 政策将“大脑与学习”等核心内容强制列为全国教师教育的国家认证标准，要求所有课程在2025年底前完成改组，并通过绩效资金和取消认证机制进行严厉问责，以此确立标准化“什么有效”知识的霸权。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 重构教师教育课程体系，使其完全对齐[[Cognitive Load Theory\|认知负荷理论]]等脑科学与认知结构模型，以提升职前教师的课堂教学效能。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3, pp. 5–6]])
 > - **对象** [[Initial Teacher Training\|初始教师教育]]（ITE）项目开发团队与大学职前教师。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **工具** 国家初始教师教育认证标准与程序大纲附表、质量保证委员会（ITE Quality Assurance Board）审计评估。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **约束方式** 标准化课程规范、毕业生教师标准（1.1和1.2）强制对齐，并与大学绩效资金拨付强制挂钩。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > “[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]])
 > 
 > “The Australian Institute for Teaching and [[School Leadership]] to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should Teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > - **监管主体** 通过设立独立的初始教师教育质量保证委员会（ITE Quality Assurance Board）对大学课程改造和标准合规度实施直接审查。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **政策工具** 法定认证附表（四大核心：大脑与学习、[[Effective Teaching\|有效教学]]实践、[[Classroom Management\|课堂管理]]、回应性教学）、绩效准入评估与惩罚性绩效资金。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央设计与控制** 通过 AITSL 将四大领域的“核心内容”制度化为国家认证程序中的约束性指令。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **机构对齐与压力** 大学被迫重新设计其教师培训课程，引入认知神经科学内容并以指定的 Sweller 文献作为基本参考文献。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 > - **反馈与抵抗** 面临来自批判学者与大学教育者的反对意见，被质疑侵犯大学教师学术自主权并进行“监视治理”；然而[[Policy Network\|政策网络]]通过 [[Australian Education Research Organisation\|AERO]] 董事会的强硬表态（倾向于惩罚性资金），坚持推行权威性的国家规范。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])

@@ -39,7 +39,7 @@ updated: 2026-10-16
 > [!def] 核心定义
 > Kitwood 矛盾（Kitwood's paradox）是 Kitwood (1977) 提出的访谈研究中[[Reliability\|信度]]与效度之间的根本张力：**通过理性化和标准化增强信度的程度越高，访谈的效度就越低**。其核心洞察在于——访谈作为研究方法的价值恰恰在于其**人际性（interpersonal nature）**，而标准化程序恰恰消除了这种人际性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 213)]]
 
-> [!citation-card]- Kitwood (1977) 的经典表述
+> [!citation-card] Kitwood (1977) 的经典表述
 > 通过理性化增强"信度"的程度越高，"效度"就越低。因为在研究中使用访谈的主要目的正是相信在**人际相遇**中，人们比在更少人性的情境中更可能披露自身的方方面面——他们的思想、感受和价值观。至少出于某些目的，有必要产生一种**对话**——在其中"受访者"感到自在。换言之，访谈中独特的人性元素对其"效度"是必要的。访谈者变得越理性、计较和疏离，访谈越不可能被视为一次友好的交流——回应也变得越计算。
 >
 > *In proportion to the extent to which 'reliability' is enhanced by rationalization, 'validity' would decrease. For the main purpose of using an interview in research is that it is believed that in an interpersonal encounter people are more likely to disclose aspects of themselves, their thoughts, their feelings and values, than they would in a less human situation. At least for some purposes, it is necessary to generate a kind of conversation in which the 'respondent' feels at ease. In other words, the distinctively human element in the interview is necessary to its 'validity'. The more the interviewer becomes rational, calculating, and detached, the less likely the interview is to be perceived as a friendly transaction, and the more calculated the response also is likely to be.*

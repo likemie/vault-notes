@@ -88,7 +88,7 @@ updated: 2026-10-20
 >
 > *Characteristics of trustworthy communication include seeking to inform rather than persuade, being balanced, acknowledging uncertainty and limitations of the evidence, and pre-empting misunderstandings... Scientists should not shy away from acknowledging limitations and uncertainties, which does not appear to confuse or deter readers, and may actually increase trust.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **激进怀疑论（Radical Skepticism）** 科学不确定性建立在严谨的证据权重、概率推论与系统性检验之上，探索的是“已知事实的置信边界”；激进怀疑论则主张一切皆不可知、无确定真理。
 > - **方法失误或瑕疵** 不确定性是客观自然规律与归纳逻辑的固有特征，即使在设计最严谨的[[Randomised Controlled Trials\|随机对照试验]]中，抽样变异与未观测混杂依然客观存在。
 > - **纯形式演绎系统** 不适用于如纯数学公理系统的保真推演。

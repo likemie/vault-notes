@@ -53,7 +53,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2008 — 意大利教育部推动 Azione LIM，提供 35,114 块互动白板和相应教师培训([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 > - 2016 — 互动白板已覆盖意大利 42% 的班级。
 
@@ -67,7 +67,7 @@ updated: 2026-10-16
 > [!success]
 > Pellegrini & Vivanet 引用英国大规模[[Experimental Research\|实验研究]]作为对照：互动白板使用 5 个月后，英语[[Effect Size\|效应量]]为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou and Higgins 的[[Systematic Review\|系统综述]]也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 35,114 块互动白板([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])
 > - 总成本 EUR 93,354,571
 > - 2016 年覆盖 42% 班级
@@ -79,7 +79,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Technology Infusion]] — Azione LIM 是欧洲语境中的教育技术投入案例。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据本位政策选择为何能避免高成本低效果投入。
 

@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **核心角色** 在 1980 年代初美国应对日本微电子与先进制造国际[[Competitiveness|竞争力]]危机中，充当顶层政治决策与科学界改革的关键枢纽；全力支持并促成[[National Science Foundation|美国国家科学基金会]]（NSF）设立[[Engineering Research Centers|工程研究中心]]（ERC），深刻推动了联邦科研资助向产学协同与[[Big Science|大科学]]中心模式的转型。
 > - **代表贡献** 推动将国家战略竞争力嵌入联邦科学政策；与[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）结成政治盟友，击退国会剥离 NSF 工程项目的议案并在白宫行政管理和预算局（OMB）财政紧缩阻力下为 ERC 争取到初始拨款。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–372)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 凯沃思在促成工程研究中心计划中扮演了极其关键的政治角色。从 1983 年国家[[Chinese Academy of Sciences|科学院]]科学、工程与公共政策委员会（COSEPUP）研讨会开始，他敏锐地认识到计算机在设计与制造中的战略价值，并同布洛赫建立了深厚的战略盟友关系，将 ERC 视为提升美国工业竞争力的杀手锏。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
 >
 > *George Keyworth played a big role. From the time in 1983 when we had a COSEPUP session... he was very interested in that. We had established a very good relationship with Keyworth and our common denominator was the semiconductor industry. (Bloch in Bozeman & Boardman, 2004, p. 371)*
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 基础科学与工程技术是国家经济繁荣与工业国际[[Competitiveness|竞争力]]的命脉支撑；面对新兴工业强国在高科技制造业的严峻挑战，联邦政府不能继续袖手旁观，必须通过创新资助工具（如[[Engineering Research Centers|工程研究中心]]）打破大学学科象牙塔，将前沿跨学科科研与工业界痛点紧密结合。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
 
 > [!citation-card] 凯沃思论 ERC 与重振美国工业竞争力
@@ -104,7 +104,7 @@ updated: 2026-10-20
 > - **制度路径** 与布洛赫、[[Nam Pyo Suh|徐南杓]]形成政治合力，化解国会分立“国家工程基金会”的政治危机，为 [[Engineering Research Centers|ERC]] 制度在 NSF 内部的诞生保驾护航。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 371–372)]]
 > - **组织路径** 推动了大学研发中心从单一 PI 模式向多资源、多学科（MMURC）产学联合实体的制度化扩散。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 详细记录了凯沃思在 1983 年 COSEPUP 研讨会后力挺 ERC 以及与布洛赫结盟推进科技资助改革的口述史料与制度背景。
 
 ---

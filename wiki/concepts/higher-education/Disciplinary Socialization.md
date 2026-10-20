@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **用途** 解释为什么不同专业门类的大学生在认知风格与认识论成熟度上存在巨大鸿沟，以及大学教育如何在中学生既有特质基础上进一步扩大专业间的认知分化。
 > - **边界** 必须与“自我选择效应（Self-Selection）”严格区分——前者指入学后环境的后天塑造，后者指入学前个体基于先验信念主动挑选专业的分流。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一系列结果在[[Epistemological Beliefs\|认识论信念]]与专业领域的关系上，同时支持了自我选择假说与社会化假说。高中毕业阶段意向不同专业的学生在确定性信念上已存在差异，而两年后当追踪同一批就读大学的被试时，这些差异变得显著更加深刻。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 361)]]
 >
 > *This pattern of results lends support to both the self-selection and the socialization [[Hypothesis\|hypotheses]] when it comes to epistemological beliefs and fields of study.*

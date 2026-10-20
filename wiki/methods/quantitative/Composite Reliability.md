@@ -60,7 +60,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 潜变量（Latent Factor）构念层级。
 > - **输出形式** 介于 0 到 1 之间的信度系数值（通常保留两位或三位小数，如 $\text{CR} = .87$）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 组合信度衡量了潜变量内部所有测度指标的一致性水平。与传统的 Cronbach's $\alpha$ 相比，组合信度不强求各题项具有相等的因子负荷，因而能更准确地反映构念的真实测量信度；通常以 0.70 作为判定信度优良的临界值。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 6)]]
 >
 > *Composite reliability reflects the shared variance among the observed indicators of a latent construct. Unlike [[Cronbach's Alpha]], it does not assume tau-equivalence, providing a more precise and unbiased estimate of internal consistency.*

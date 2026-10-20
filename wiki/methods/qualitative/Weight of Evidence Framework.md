@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 每项独立纳入综述的原始实证研究（study-level）。
 > - **输出形式** 每项研究在 WoE-A、WoE-B、WoE-C（各维度独立评级）与 WoE-D（综合权重判定）四个层次的结构化质量与适切性评分，形成可审计的透明评价矩阵。
 
-> [!citation-card]- Gough（2007）证据权重框架的核心界定
+> [!citation-card] Gough（2007）证据权重框架的核心界定
 > 证据权重框架的根本思路是：不同研究在特定综述问题的证据图谱中所占份量（权重）取决于两方面，一是研究固有的方法学严谨性，二是该研究与综述聚焦问题的相关程度。这两个维度相互独立，均应在综合裁决前分别明确评定。（Gough, 2007, p. 213）
 >
 > *The weight given to a study in a synthesis depends on its methodological quality... and its relevance to the review question... These two dimensions should be assessed separately before being combined.*

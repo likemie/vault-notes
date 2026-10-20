@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **分析取向** 将调查单位严格限定在个体层面，侧重通过[[Questionnaire\|问卷]]自陈、心理量表测量个体的认知倾向、能力储备或态度取向。
 > - **研究警示** 在教育实践中，若不加反思地泛化方法论个体主义，容易掩盖制度权力、组织信任与情境约束，将复杂的系统性治理困境片面归咎于一线教师的个人短板（[[Deficit Framing\|赤字框架]]）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一理论与方法论取向将教师的研究使用置于方法论个体主义的[[Paradigm\|范式]]之内，在分析上突出了个别教师的态度和动机……研究现象主要通过对单个教师或[[School Leadership\|学校领导]]者的感知、态度或行动的分析焦点来建构。从这个角度来看，加强研究使用的努力往往侧重于发展个体的能力、态度或倾向。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 6–7)]]
 >
 > *This theoretical and methodological approach situates teachers’ research use within a paradigm of methodological individualism that analytically foregrounds the attitudes and motivations of the individual teacher... research use as a phenomenon is primarily constituted through an analytical focus on the perceptions, attitudes or actions of individual teachers or school leaders. From this perspective, efforts to strengthen research use often emphasise the development of individual competencies, attitudes or dispositions.*

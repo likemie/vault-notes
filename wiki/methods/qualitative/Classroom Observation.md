@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 [[World Bank|世界银行]]在论述教育治理现代化的突破口时，对教学观察的独特功能作出了核心界定。
 
-> [!citation-card]- 世界银行对教学观察穿透黑箱功能的核心定性
+> [!citation-card] 世界银行对教学观察穿透黑箱功能的核心定性
 > 课堂是整个教育系统中最核心的黑箱。实证证据一致表明，教师教学水平差异是决定学生[[Academic Achievement|学业表现]]最关键的校内因素；然而，教师的学历、教龄与执业考试等传统外在特征对实际教学成效的解释力微乎其微。唯有直接穿透教室表象，对微观师生互动展开系统、可靠的标准化观察，才能准确诊断教学短板并推动有针对性的实践改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
 >
 > *"Classrooms are the black box of education systems... Measuring teaching practices directly and reliably is essential to diagnose instructional gaps and guide targeted professional development."*
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 在复杂教学现场中，观察员的数据收集受到严格的现场规程约束。
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 常态公立或私立中小学课堂教学现场、国家或区域教育视频语料库。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, p. 4)]] |

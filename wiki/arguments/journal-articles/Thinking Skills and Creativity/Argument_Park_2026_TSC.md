@@ -388,18 +388,18 @@ issuing_organization: ""
 > - **高异质性** $I^2 = 95.6\%$，95% CI $[94.8\%, 96.2\%]$，$Q(50) = 1133.19$，$p < 0.001$，支持后续调节分析。（p. 6）
 > - **稳健与无偏倚** RVE 敏感性分析得一致估计（$r = 0.386$，95% CI $[0.292, 0.473]$）；Egger 回归未检出显著发表偏倚（$t(149) = 0.29$，$p = 0.771$）。（pp. 6–7）
 
-> [!example]- 图1：[[Literature Search\|文献检索]]与筛选流程（系统综述与元分析优先报告条目，[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）
+> [!example] 图1：[[Literature Search\|文献检索]]与筛选流程（系统综述与元分析优先报告条目，[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig1_PRISMA.jpg)
 
-> [!example]- 图2：[[Forest Plot\|森林图]]（Forest Plot）
+> [!example] 图2：[[Forest Plot\|森林图]]（Forest Plot）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig2_Forest_Plot.jpg)
 
-> [!effect-summary] 总体效应与异质性摘要
+> [!effect-summary]- 总体效应与异质性摘要
 > | 证据规模 | 效应指标与模型 | 汇总效应与 95% CI | 异质性 | 稳健性 |
 > |---|---|---|---|---|
 > | $k = 51$（29 项研究）<br>$N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$）/ 三水平随机效应 | $r = 0.386$ $[0.296, 0.470]$，$z = 7.81$，$p < .001$ | $I^2 = 95.6\%$ $[94.8\%, 96.2\%]$；$Q(50) = 1133.19$，$p < .001$ | RVE：$r = 0.386$ $[0.292, 0.473]$，$t(27.81) = 7.81$ |
 
-> [!example]- 图3：等高线增强漏斗图（Contour-Enhanced Funnel Plot）
+> [!example] 图3：等高线增强漏斗图（Contour-Enhanced Funnel Plot）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig3_Contour_Enhanced_Funnel_Plot.jpg)
 
 > [!bias-audit] 发表偏倚审计
@@ -429,10 +429,10 @@ issuing_organization: ""
 >
 > 同型测量组合相关高于混合组合，双主观最高、混合组合最低；逐组合样本量未在正文报告，95% CI 见图 4。（p. 9）
 
-> [!example]- 图4：不同测量类型组合的相关估计（含 95% CI）
+> [!example] 图4：不同测量类型组合的相关估计（含 95% CI）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig4_Correlation_Estimates.jpg)
 
-> [!moderator-summary] 调节变量与测量类型交互摘要
+> [!moderator-summary]- 调节变量与测量类型交互摘要
 > | 调节变量 | 检验统计量 | 效应方向 | 结论 |
 > |---|---|---|---|
 > | [[Critical Thinking Assessment\|批判性思维测量类型]]（主观 vs 客观） | $Q_M(1) = 5.234$，$p = .022$ | 主观更强 | 显著 |
@@ -502,17 +502,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体相关的核心结论
+> [!citation-card] 总体相关的核心结论
 > 尽管显著[[Heterogeneity\|异质性]]存在，但正如所假设的，我们发现的总体相关估计明确落在中等范围且显著为正，表明两个[[Construct\|构念]]的测量之间存在某种重叠。（p. 9）
 >
 > *As hypothesized, we found an overall correlation estimate that clearly fell in the moderate range and was significantly positive, which indicates that some overlap between measures of the two constructs exists.*
 
-> [!citation-card]- 测量类型效应的双重解释
+> [!citation-card] 测量类型效应的双重解释
 > 最强的相关出现在两者都以主观方式测量时（$r = 0.509$），其次是两个构念都以客观方式测量时（$r = 0.317$）……客观评估往往触及推理、[[Problem Solving\|问题解决]]与联想灵活性等相似认知过程，因此当两者都作为主动认知过程而非自评倾向被测量时，[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的收敛最强。（pp. 9–10）
 >
 > *The highest correlation was observed when both creativity and critical thinking were measured subjectively (r = 0.509), followed by objective measures of both constructs (r = 0.317)... this pattern suggests that when both constructs are evaluated through structured, task-based [[Performance Indicators]], they may rely on shared underlying cognitive mechanisms.*
 
-> [!citation-card]- 协同培养与个体内边界
+> [!citation-card] 协同培养与个体内边界
 > 学校层面，教师与课程设计者可采用开放式任务先发散生成、再结构化反思、批评与修正，同时培育创造性构想与评价性推理；但当前关系在个体间层面检验，其强度不一定迁移到个体内层面，因此训练其一带动其二仍需纵向证据。（pp. 9–10）
 >
 > *Instruction that simultaneously cultivates creative ideation and evaluative reasoning may yield broader cognitive benefits than programs targeting either skill in isolation... the relationship between the two constructs is investigated at the between-individual level, and this relationship (or its strength) may not translate to the within-individual level.*

@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 核心思想与理论命题
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 技术创新与产业竞争优势的演进绝非自发孤立的市场均衡过程，也非线性的供给侧研发补贴所能单独决定，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
 
 > [!proposition-chain] 国防支持与技术创新的生命周期演变命题（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）
@@ -152,7 +152,7 @@ updated: 2026-10-20
 > - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
 > - **跨领域创新治理启示** 其对 IT 产业公共政策成功前提的严格界定，为当下清洁能源技术攻关、半导体供应链韧性建设及人工智能公共研发基础设施布局提供了重要的边界警示。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher et al., 1998]] — 结合微观晶圆厂标杆数据与宏观产业重构，实证剖析美国半导体产业在 1990 年代重获竞争优势的多元驱动机制。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 系统评估 Sematech 研发联盟的治理架构、战略转型及其向日欧同类项目的比较启示。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 系统考察二战后国防研发与先导采购对微电子、软件及互联网产业复合体的催化机制与生命周期衰减规律。

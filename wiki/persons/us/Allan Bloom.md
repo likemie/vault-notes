@@ -96,7 +96,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 阿兰·布鲁姆强调，真正的哲学思考必须拒绝将某种暂时的现代政治制度盲目神圣化为不可逆转的历史终极形态。西方自由社会最大的内在危机并非来自外部贫困，而是来自内部道德自满与相对主义导致的灵魂空虚。现代大学以不加审视的“[[Open-Mindedness|开放性]]”为名，摧毁了学生对国家深层意义与公共抱负的情感体验，反向催生出系统性惩罚道德勇气、热衷语言巡查的空洞官僚文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!citation-card] 开放性对国家深层意义体验的驱逐

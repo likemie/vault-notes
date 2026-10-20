@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 说明质性数据分析为何必然带有诠释与建构性质，为何报告应力求捕捉不同参与者对情境的不同定义，并综合[[Emic and Etic\|主位与客位]]分析。
 > - **边界** 双重诠释不等于研究者可任意解读，它恰恰提示研究者要提防过度选择、失真与对情境的不公正，并以[[Reflexivity\|反身性]]与多来源数据加以约束。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 由于获得的数据都包裹在社会事件之中，报告涉及一个双重诠释过程。研究者诠释参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 >
 > *Since the data obtained are all couched in "social events", reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*

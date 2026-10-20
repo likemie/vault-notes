@@ -65,7 +65,7 @@ updated: 2026-10-20
 > [!claim] [[Research Utilization\|研究使用]]类型学与 [[Research-Practice Partnership\|RPP]] 影响评估框架
 > NCRPP 团队（Coburn, Penuel et al.）克服了以往仅将研究利用视作机械落实政策指标的狭隘视角，构建了多层级研究使用[[Analytic Framework\|分析框架]]，并研发了全美首套测量研究-实践伙伴关系（[[Research-Practice Partnership\|RPP]]）对学区证据决策影响的实证调查量表。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 132)]]
 
-> [!policy-design]- 成果产出双层结构
+> [!policy-design] 成果产出双层结构
 > - **中间成果（Intermediate Outcomes）** 考察 RPP 合作是否改变了教育者的日常行为（behaviours）与思维定势（mindsets），例如是否更主动在教研会议上索取实证依据。
 > - **长期多维成果（Long-Term Outcomes）** 细分为三类经典研究使用形态：
 >   1. **[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]（Instrumental Use）** 直接依据研究证据调整课程大纲或教学采购；

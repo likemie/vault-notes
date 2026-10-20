@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **核心角色** 在科技政策与国防研发管理网络中，海尔迈耶是连接前沿工业研发与国家战略性科研资助的关键制度奠基者；首创了评估高风险、高回报前沿科研立项的黄金标准准则。
 > - **代表贡献** 发明液晶显示（Liquid Crystal Display, LCD）基础工作原理（动态散射模式，DSM）；创立颠覆性科研项目立项黄金法则 [[Heilmeier Catechism]]（海尔迈耶[[Questionnaire|问卷]]）；在任 DARPA 局长期间果断资助隐形战机验证机（Have Blue / F-117）与空基红外监视等里程碑项目。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 
-> [!citation-card]- 治军 DARPA 的战略问卷奠基
+> [!citation-card] 治军 DARPA 的战略问卷奠基
 > 乔治·海尔迈耶（George Heilmeier）在执掌 DARPA 期间，要求每一个寻求资助的项目经理与科学家必须以极其简明扼要、毫无行话套话的语言回答一组严密的逻辑问题，从而奠定了 DARPA 评估颠覆性技术方案的机构基因。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 >
 > *During his tenure as DARPA Director, George Heilmeier established a set of fundamental questions—known as the Heilmeier Catechism—that every [[Research Proposal]] had to address without technical jargon.*
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **颠覆性技术创新的无行话逻辑审查** 高风险科研管理的核心不是规避失败，而是在立项之初剥离所有学术黑话与虚饰承诺，用常识性的简明逻辑回答“你要做什么、现有局限为何、为何是颠覆性的、谁最在乎、成本几何以及如何验证成败”。唯有清晰界定问题与中期里程碑，国家公共资金才能在容忍单点技术失败的同时，确保整体战略投资能够重塑技术[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 
 > [!citation-card] 研发立项与评估的逻辑法则
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **政策与机构路径** 在任内确立了 DARPA 作为“国防技术突破孵化器”的定位，主导资助洛克希德“拥蓝”（Have Blue）隐形战机验证项目，直接孕育了世界上第一款隐形战斗轰炸机 F-117，彻底改变了现代空中战争的战术与地缘平衡。
 > - **产业技术传播** 发明的液晶显示原理孕育了万亿美元级的现代平板显示与数字屏幕产业生态。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 论述了海尔迈耶治下确立的项目立项准则与管理体制对 DARPA [[Embedded Network Governance|嵌入式网络治理]]机制的历史塑造作用。
 
 ---

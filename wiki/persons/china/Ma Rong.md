@@ -50,7 +50,7 @@ updated: 2026-10-16
 > - **核心角色** 中国当代民族关系社会学研究的重镇。他于 2004 年提出“[[Depoliticalization of Ethnic Policy\|民族政策去政治化]]”的学术主张，成为推动国家民族区域自治制度转型、转向单一国族一体化的关键学术代言人。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 101–103]])
 > - **代表贡献** 提出“[[Depoliticalization of Ethnic Policy\|民族政策去政治化]]”与“族群化”概念。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 去政治化将淡化民族的政治权利，使少数民族在法理上退缩为去政治的文化“族群”，这为建立基于平等的国家公民权提供了理性工具。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 > 
 > *Depoliticalisation will dilute political ethnic rights and turn minorities into depoliticised cultural 'ethnic groups' in law, providing a rational tool for building equal national citizenship.*
@@ -89,7 +89,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 马戎主张废除以苏联模式为蓝本的政治化民族自治体系，主张将中国 56 个少数民族在法律与政策层面从“民族”降格为“族群”，以此剥夺其潜在的自决和地方自治法理基础，进而依靠统一的公民权利和国家通用语言来构筑牢固的“[[Zhonghua Minzu\|中华民族]]”同一性。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 101–103]])
 
 ### 民族去政治化与族群化
@@ -124,5 +124,5 @@ updated: 2026-10-16
 > > - **马戎 (Ma Rong) (2004)** 坚称其主张废除特殊优惠与自治，是为了消除制度性特权和族群隔阂，实现真正的公民权利平等。
 > > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 指出马戎的学说是将少数民族定义为“弗兰肯斯坦的怪物”，其去政治化的核心在于消除少数民族的法理主体地位，使同化暴力变得合理。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 103]])
 > 
-> > [!critique]- 批评索引
+> > [!critique] 批评索引
 > > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 指出其重构概念的取向，在威权政府背景下为废除区域自治与同化提供了科学包装。

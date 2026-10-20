@@ -59,7 +59,7 @@ updated: 2026-10-20
 > - **核心角色** [[John Dewey\|杜威]]思想在中国的主要中介人与首席翻译者，将西方[[Pragmatic Paradigm\|实用主义]]转译为“[[Pragmatism in China\|实验主义]]”并作为打倒传统迷信的思想武器。
 > - **代表贡献** 发起白话文运动与“整理国故”；提出“大胆假设，小心求证”的方法论原则；将[[Scientific Method\|科学方法]]与中国古典考据学相连结。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.72]]）
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 胡适将实用主义极端化转译为一种彻底反传统、崇尚西方科学的全面武器，其明星般的声音与出色的翻译使杜威思想获得了前所未有的公共影响力。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
 
 ---
@@ -95,14 +95,14 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 胡适将[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]转化为中国五四语境下的思想武器。其核心立场体现在三方面：将实用主义哲学极端化为纯粹的方法论；将“[[Pragmatism in China\|实验主义]]”作为扫除传统迷信与全面拥抱西方科学的武器；以及在清代古典考据学中寻得与现代[[Scientific Method\|科学方法]]平行的本土基底。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
 
 - **[[Pragmatic Paradigm|实用主义]]作为方法论的极端化** 胡适将杜威“实用主义必须被看作一种方法”的主张进一步转变为“杜威从头到尾只把实用主义当作一种方法”，消解了其内部可能容纳的温和妥协空间。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]]）
 - **以“实验主义”扫除迷信与拥抱现代西方文明** 在五四中国语境下，胡适认为迷信是现代科学与进步的真正敌人，因而将实验主义充当彻底打倒传统迷信的文化武器。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]]）
 - **发掘中国古典考据学与科学方法的平行性** 胡适开创性地指出中国清代考据学（kaojuxue）的“文本[[Falsification|证伪]]与证据核查”与现代科学方法存在平行契合，提出“大胆假设，小心求证”。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]]）
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “我对我们的东方文明毫不保留地谴责，并以极大的崇拜迎接现代西方文明……我们不仅在技术和政治制度上不如别人，在道德价值和知识方法上也必须虚心学习。”（胡适，1921，转引自 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.72]]）
 >
 > *I condemn our Oriental civilization without reservation and welcome modern Western civilization with immense admiration. We must recognize our shortcomings in moral values and intellectual methods.*
@@ -116,7 +116,7 @@ updated: 2026-10-20
 > - **方法路径** 普及“大胆假设，小心求证”，将[[Scientific Method\|科学方法]]引入中国人文与社会科学研究。
 > - **跨国转译与双刃剑效应** 作为[[John Dewey\|杜威]]在华首席翻译，其明星效应极大地放大了杜威思想的影响力，但其极端化转译也使[[Pragmatic Paradigm\|实用主义]]更容易遭到传统主义与马克思主义的双重攻击。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 详细分析了胡适对杜威实用主义的极端化转译、反迷信立场及在华翻译中介作用。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 分析了胡适等哥大精英网络在五四时期推动新教育改革的角色。
 
@@ -140,7 +140,7 @@ updated: 2026-10-20
 > >
 > > - **[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.72–73)]]** 总结了批评观点，指出胡适消解了[[Pragmatic Paradigm\|实用主义]]的温和妥协空间，使其偏离了杜威渐进主义的本意。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, p.72)]] — 记载了传统主义者对其全盘否定东方文明立场的批评，以及1950年代政治批判对其“走狗”与帝国主义代理人定性的历史。
 
 > [!warning] 未解问题与边界

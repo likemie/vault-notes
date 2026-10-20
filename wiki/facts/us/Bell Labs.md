@@ -126,7 +126,7 @@ updated: 2026-10-20
 > - **科研执行机构（分级研究管理与学科部门）** 下设物理科学部、通信原理部、材料科学部与电子器件研发部；主管多由在一线做出过世界级发现的资深科学家担任（如[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]曾长期担任固态电子学研究主管）。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > - **跨界协同网络** 破除大学学术象牙塔与车间工厂的壁垒，建立理论学家、实验工艺师与材料技师的日常自由流动与联合攻关机制。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **物理空间的高度集聚与无障碍偶遇** 默里山大楼采用极长的双侧通廊式建筑设计，强制不同学科、不同背景的研究者在日常动线中高频交集，打破理论物理学家与工艺机械师之间的隔阂。
 > - **长周期容错与使命导向并存** 研究人员无需撰写频繁的短期基金申请报告，享有充足的[[Academic Freedom|学术自由]]探索空间；但所有研究最终在宏观上均受电信网络物理瓶颈的长期战略使命牵引。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 > - **内部底层制造工艺与[[Process Knowledge|过程知识]]托底** 设立世界领先的半导体晶体生长、分子束外延（Molecular Beam Epitaxy, MBE）超净室与精密机械加工中心，使前沿理论假设能够依托深厚的[[Process Knowledge|过程知识]]在自制高纯材料与原型机上即时接受实验检验。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 34–35)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 51)]]
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **学术荣誉密度** 累计诞生 9 项诺贝尔物理学奖（涵盖 16 位获奖科学家）以及 4 项图灵奖，成为全球学术荣誉最密集的非高校研究机构。
 > - **专利资产规模** 累计注册有效专利逾 33,000 项，主导了战后数十年全球电信通信标准的底层专利池。
 > - **创新[[Paradigm|范式]]证实** 贝尔实验室的历史实践成为科学技术史家与政策学者反思战后线性假说、确立[[Discovery-Invention Cycle|发现-发明循环]]理论与[[Pasteur's Quadrant|巴斯德象限]]论述的核心经验证据。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]

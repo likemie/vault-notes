@@ -53,7 +53,7 @@ updated: 2026-10-16
 > - **用途** 用于评估教育是否帮助学生建立批判性自我认知与社会认知。
 > - **边界** 觉醒本身并非终点；若缺乏后续针对现实压迫的实践行动（Praxis），批判意识觉醒将停留在纯粹的理论省察。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 弗莱雷教育学的核心主题是他所称的 conscientização 或批判意识觉醒。Conscientização 不仅是觉察自己在受压迫社会中的位置，更是通往实践（praxis）的途径——正如[[Plato\|柏拉图]]在洞穴喻中所描述的那样，打破这些锁链。 （第1章，p.7）
 >
 > *One central theme of Freire’s pedagogy is what he calls conscientização or critical consciousness. Conscientização is not only the act of becoming aware of one’s position in the oppressed society, but it is also the means to praxis... ([[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*

@@ -85,7 +85,7 @@ updated: 2026-10-16
 > - **研发核心（NGA 最佳实践中心）** 专门从事政策研发与技术援助的实体，直接承接基金会资助并雇佣政策分析师，负责起草跨州标准指南与评估报告。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **专家审议与验证机构** 在重大改革中联合外部组建独立专家机构，如在 [[Common Core State Standards|CCSS]] 运动中联合 [[Council of Chief State School Officers|CCSSO]] 遴选 29 位学者与一线校长组成的独立验证委员会（Validation Committee），实施学术把关。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **两党议程设定机制** 重大跨州政策动议必须由两党资深州长共同领衔（例如在 CCSS 发起期，由亚利桑那州民主党州长纳波利塔诺与佐治亚州共和党州长珀杜联合主持咨询委员会），以价值融合抵御党派极化分裂。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 11)]]
 > - **自愿联合与规避违宪程序** 严格恪守美国宪法第十修正案边界，在文本研制与各州采纳中坚决避免使用“联邦指令（Federal mandate）”字眼，通过州际自愿契约（Interstate compacts）形式运作。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 17)]]
 > - **微观对标与府际协商** 组织专业智库为各州量身定制新老标准转换评估工具，协助各州州长向州教育委员会（State Board of Education, SBE）提出采纳议案。

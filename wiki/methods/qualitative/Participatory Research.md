@@ -53,7 +53,7 @@ updated: 2026-09-22
 > - **[[Unit of Analysis\|分析单位]]** 社区、工作场所、群体集体而非个体。
 > - **输出形式** 社区发展方案、赋权行动、变革实践、集体行动议程。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 参与式研究的本质，如其名称所示，是参与——参与者和研究者平等控制研究，并通过赋权走向变革。这些特征进入研究的所有阶段，从问题识别到研究设计、研究实施、数据分析、报告以及社区中催化的变革和发展。赋权和发展既是研究的中介也是研究的成果。（第2章，2.4节）
 >
 > The essence of participatory research, as its name suggests, is participation, the equal control of the research by both participants and researchers and the movement towards change through empowerment.

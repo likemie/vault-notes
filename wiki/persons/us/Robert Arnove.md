@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球化绝非单向均质的技术与[[Soft Policy Transfer|理念扩散]]，而是一场由自上而下的超国家资本规训与自下而上的本土民主抗争共同构成的辩证博弈过程。比较教育学者必须确立贯通宏观世界体系与微观学校课堂的“双重视野”，既要看清国际金融机构、世贸规约与非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱与依附固化，又要尊重基层教师、学生与草根社会运动在微观[[Champ|场域]]中的反抗、变通与跨国联合潜能，为开辟自下而上的全球社会民主提供理论支撑。
 
 > [!citation-card] 全球与本土辩证法的核心论断
@@ -160,7 +160,7 @@ updated: 2026-10-20
 > - **政策与机构批判** 对[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、[[New Managerialism|新管理主义]]与[[Shadow State|影子国家]]外包风险的反思。
 > - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
@@ -212,7 +212,7 @@ updated: 2026-10-20
 > > - **结构[[Determinism|决定论]]学者 (Clayton, 1998)** 警示不要过度浪漫化地方微观能动性，认为在跨国资本与霸权国家的巨大压迫下，边缘个体的文化抗拒往往无法改变客观贫困现实。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 > > - **阿诺夫与[[Ethnography|民族志]]学者 ([[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Anderson-Levitt, 2003; Demerath, 1999)** 坚称必须具备“双重视野”，微观田野展现的文化抵制[[Falsification|证伪]]了机械决定论与理性选择教条，基层行动者的主观能动性正是推动历史进步的根本动力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 阿诺夫自述警示：在运用“[[Dialectic of the Global and the Local|全球与本土的辩证法]]”时必须严防概念泛化，必须以扎实的多地点比较案例严格追踪中介机制，避免将一切现象笼统归结为无所不包的辩证互动而丧失因果解释力。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 评述第四阶段激进批判与世界体系宏观分析虽然打破了实证功能主义神话，但其对当代政治经济依附与阶级冲突的强烈倾注，客观上与学科历史维度的边缘化（历史论文占比在 1985–1995 年跌破 5% 的“历史健忘症”）在时间上高度重合。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 指出在[[Conditioned State Theory|受限国家]]与依附资本主义条件下，地方微观抵抗往往遭遇国家机器与跨国金融机构的双重围堵，自下而上全球化仍需突破制度化瓶颈。

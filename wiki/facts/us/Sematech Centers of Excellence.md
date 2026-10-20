@@ -74,7 +74,7 @@ updated: 2026-10-15
 > [!claim] 核心干预／机制假说
 > 通过建立“[[Industry Affiliate Program|产业联盟]]出资定向引导 + 专业非营利中介（[[Semiconductor Research Corporation|SRC]]）统筹评审 + 顶尖大学跨学科集群攻关”的三位一体产学机制，使企业联盟在不破坏大学开放科研自由的前提下，高效获得深层机理模型与定制化高端人才输送。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **研发分工体系** 大学卓越中心专注于 5 至 10 年维度的“竞争前”基础科学与物理极限探索（如 X 射线与 EUV 光刻物理、等离子体化学反应仿真、薄膜生长机理）；[[Sematech]] 奥斯汀总部聚焦 2 至 3 年维度的工业中试验证；设备供应商与制造厂负责具体商品化开发。
 > - **跨校跨学科研究集群** 在各重点高校设立专项技术中心，如伯克利与斯坦福的先进光刻与 CAD 中心、威斯康星大学的 X 射线光刻中心、得克萨斯大学的先进材料与清洗技术中心等。
 > - **博士与博士后专项资助** 设立[[Categorical Funding|定向研究]]生助研金（RA），要求受资助学生参与工业真实场景下的技术建模与联合实验。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
@@ -107,7 +107,7 @@ updated: 2026-10-15
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入规模** [[Sematech]] 累计通过 [[Semiconductor Research Corporation|SRC]] 转拨大学科研经费超过 **1 亿美元**。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 730)]]
 > - **人才培养规模** 每年稳定资助超过 **300 名**微电子相关专业博士生与博士后。
 > - **技术扩散效益** 产出的光刻模拟软件（如 SAMPLE 等）与等离子体刻蚀模型被全美芯片厂与设备商广泛采纳为通用设计标准。

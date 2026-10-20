@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **核心角色** 硅谷投资界批判“科技停滞假说”（Great Stagnation）与“[[Big Idea Famine|大构想饥荒]]”的核心思想导师，力主将风险资本从浅层[[Consumer Internet|消费互联网]]引导至前沿深科技与国防安全领域。
 > - **代表贡献** 提出“我们想要会飞的汽车，得到的却只是 140 个字符”的著名论断，开创从 0 到 1 的垂直创新理论，倡导以[[Apollo Program|阿波罗计划]]式的非连续跨维度跃进作为衡量人类真正进步的根本标尺。
 
-> [!citation-card]- 蒂尔论阿波罗太空计划作为人类进步标尺
+> [!citation-card] 蒂尔论阿波罗太空计划作为人类进步标尺
 > 阿波罗太空计划那种激进、非连续的技术大跨越，而非消费类小物件在性能上的渐进微调，才是我们评判自身成就、衡量人类真正进步的唯一标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; cited in Karp & Zamiska, 2025, pp. 49–50)]]
 >
 > *The radical and discontinuous leap forward of the Apollo space program, not the incremental advances in the capabilities of consumer gadgets, should be the bar by which we judge ourselves and assess human progress.*
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的技术进步在于从 0 到 1 的跨维度突破（创造此前从未存在的事物），而非在存量消费软件与商业模式上的边际微调；当代社会深陷[[Big Idea Famine|大构想饥荒]]，顶尖智力与资本过度流向浅层信息娱乐，必须重塑重大国家工程使命与物理世界硬科技雄心。（Thiel, 2011, 2014; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）
 
 > [!citation-card] 蒂尔论阿波罗登月计划作为进步标尺
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - **政治哲学与科技政策路径** 其大停滞批判与重振重大工程抱负深刻启发了卡普（[[Alexander Karp|Alex Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中关于破除[[Big Idea Famine|大构想饥荒]]、再造[[Technological Republic|技术共和国]]的核心立论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 49–50)]]
 > - **教育与人才流动路径** 蒂尔奖学金打破了美国精英大学对青年智力的体制垄断，倡导顶尖技术人才投身底层工程突破而非安逸的学术与大厂螺丝钉岗位。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引蒂尔关于阿波罗太空计划作为人类进步标尺的论断，批判硅谷软件工程师向消费级广告点击退缩引发的宏大科技野心丧失与大构想饥荒。
 
 ---

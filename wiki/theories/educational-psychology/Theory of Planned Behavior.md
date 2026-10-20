@@ -66,7 +66,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 个体的外显行为直接取决于其实施该行为的意向强弱以及实际掌握的控制条件；而行为意向由对行为结果价值的评估（行为态度）、对重要他人期望的遵从压力（主观规范）以及对执行行为难易程度的掌控信念（知觉行为控制）三者共同决定。所有外部人口学[[Variable\|变量]]、专业背景与信息经验均必须通过改变这三类基础信念间接作用于意向与行为。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–4)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 行为态度、主观规范以及对行为的知觉控制共同预测了行为意向；当知觉行为控制能够较为准确地反映个体的实际控制条件时，它与行为意向结合可以直接解释外显行为的发生。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 3, p. 14)]]
 >
 > *Attitude toward the behavior, subjective norm, and perceived behavioral control predict behavioral intention; when perceived behavioral control realistically reflects actual control, it combines with intention to directly explain behavior.*

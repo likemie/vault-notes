@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **防务与商业科技关系的重估** 表明硅谷大型消费科技平台内部存在深刻的政治文化分歧，单纯依赖传统科技巨头难以建立稳固敏捷的国家防务软件基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–35)]]
 > - **催生专门化国防科技生态** 促使五角大楼将目光转向使命导向明确的防务科技公司，加速了国防软件采办机制的多元化与重构。
 > - **解构[[Techno-Utopianism|技术乌托邦]]假象** 揭示出将商业繁荣与地缘安全割裂开来的认知局限，确立了21世纪软硬件融合的[[Hard Power|硬实力]]必须依赖科技界与国家间深度契约的现实逻辑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 34–36)]]

@@ -61,7 +61,7 @@ updated: 2026-10-16
 >
 > 在多个步骤中均有机会同时收集两种数据，并在这些步骤中嵌入核心混合方法设计（聚敛式、解释性序列或探索性序列）。整合发生在质性数据收集和发现与整体参与式过程的各个连接点上。
 
-> [!example]- 图10.5：混合方法参与式[[Action Research\|行动研究]]设计图
+> [!example] 图10.5：混合方法参与式[[Action Research\|行动研究]]设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-5_Mixed_Methods_Participatory_Action_Research_Design.jpg)
 
 ---

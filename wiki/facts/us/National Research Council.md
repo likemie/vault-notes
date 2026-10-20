@@ -87,7 +87,7 @@ updated: 2026-10-17
 > - **行为与社会科学及教育学部（DBASSE）** 专设的教育与社会政策咨询中枢，下设测试与评估委员会（BOTA）及科学教育委员会，专门承接基础教育改革实证评价。
 > - **独立专家特设委员会（Ad Hoc Committees）** 针对每项重大课题独立遴选全美跨学科权威学者组建委员会，严格排查利益冲突（[[Conflict of Interest in Research|conflict of interest]]），委员完全义务履职以杜绝商业利益渗透。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **严苛的报告审查规程（Report Review Committee）** 所有对外发布的政策白皮书必须经历独立的报告审查委员会多轮匿名同行审读，确保每一项论断均有确凿的实证文献或计量模型支撑。
 > - **实证证据精细梳理与转译** 在 [[Common Core State Standards|CCSS]] 研讨中，NRC 重点聚焦两大实证研究线索：一是安德鲁·波特（Andrew Porter）团队对全美 31 个州课程标准的精细微观比对，揭露各州大纲在知识广度与深度上的巨大混乱；二是将各州及格标准映射到[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实证研究。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **超越党派的学术权威背书** 凭借半个多世纪积累的学术公信力，NRC 的研讨成果成为两党州长打消党派猜忌、凝聚改革共识的关键信任桥梁。

@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **核心角色** 19 世纪[[Great Man Theory|英雄史观]]与伟人理论的集大成者，在抗拒机械唯物论与功利主义、张扬卓越个体精神力量方面占据核心思想枢纽。
 > - **代表贡献** 创立[[Great Man Theory|伟人理论]]（Great Man Theory），系统阐释英雄在历史演化与国家生存中的决定性领导力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 关于究竟是环境还是个人性格塑造了历史进程的古老争论，至少可以追溯到 19 世纪。苏格兰历史学家托马斯·卡莱尔（Thomas Carlyle）在 1840 年写道，“伟人”乃是“他所在时代不可或缺的救世主；——是一道闪电，没有他，燃料将永远不会燃烧”。在当时，认为杰出个体是历史主要驱动力的观点极为普遍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
 >
 > *That ancient argument had stretched back to at least the nineteenth century, when Thomas Carlyle, a Scottish historian, wrote in 1840 of “the Great Man” who had “been the indispensable saviour of his epoch;—the lightning, without which the fuel never would have burnt.” The view that lone individuals were the principal drivers of history was common at the time.*
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类历史的本质是伟大人物在世间所成就之事的总和；客观物质环境与大众群体固然构成历史演进的背景燃料，但唯有具备非凡洞察力、崇高品格与钢铁意志的卓越领袖作为不可或缺的引燃闪电，历史进程才得以发生根本性的破局与飞跃。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
 > [!citation-card] 卡莱尔论伟人作为时代的引燃闪电
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **组织与领导力理论** 成为 20 世纪现代领导力理论（特质理论 Trait Theory of Leadership）的源头。
 > - **当代地缘战略与国家建构反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中结合[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）建国实践，重估卡莱尔思想对于反思现代平庸[[Bureaucracy|科层制]]与后现代解构主义的重要价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 从新加坡李光耀领导实证出发，重审卡莱尔伟人理论对理解卓越领袖打破历史平衡的理论效力。
 
 ---

@@ -77,7 +77,7 @@ updated: 2026-10-20
 >
 > *The third set of assumptions concern human nature and, in particular, the relationship between human beings and their environment. Since the human being is both its subject and object of study, the consequences for social science of assumptions of this kind are indeed far-reaching. Two images of human beings emerge from such assumptions – the one portrays them as responding mechanically and deterministically to their environment, i.e. as products of the environment, controlled like puppets; the other, as initiators of their own actions with free will and creativity, producing their own environments. The difference is between determinism and voluntarism respectively.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 唯心主义（Idealism） — 唯心主义是关于实在终极本体属于意识或精神的哲学本体论；唯意志论特指关于人类行动动力、自由意向与环境能动关系的社会哲学假设。
 > - 不等于 [[Determinism\|决定论]] — 决定论是其在人性维度上的对立极，主张行为受既定前因单向支配。
 > - 不等于 极端唯我论（Solipsism） — 唯意志论强调主体意向性，但完全承认主体间性（intersubjectivity）与社会共同协商秩序的真实性。

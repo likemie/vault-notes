@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 现代世界中唯一真正的社会系统是作为一个不可分割的整体运作的资本主义世界经济体。它建立在中心、半边缘与边缘的不平等国际分工与剩余价值流动之上；任何将民族国家视为自给自足独立实体的现代化研究均陷入了“[[Methodological Nationalism|方法论民族主义]]”的[[Epistemology|认识论]]盲区。教育体系在历史上和现实中始终服务于资本积累与劳动分工，国际援助机构的改革本质上是维系既有分层秩序的政治机制；唯有把握体系的长时段危机与自下而上的基层团结，才能实现教育与社会的真正正义。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 114–115)]]
 
 > [!citation-card] 资本主义世界经济体作为唯一自足[[Unit of Analysis|分析单位]]
@@ -125,7 +125,7 @@ updated: 2026-10-20
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
 > - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）跨国转向中，评述沃勒斯坦现代[[World-Systems Theory|世界体系理论]]为比较教育学打破功能主义现代化迷思提供了宏观结构基石，同时反思该阶段宏观批判与学科“[[Historical Amnesia|历史健忘症]]”并存的历史学悖论。
 
@@ -171,7 +171,7 @@ updated: 2026-10-20
 > > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]现实主义学派** 坚称教育扩张服务于国际资本积累，形式趋同掩盖了实质阶级再生产。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > > - **迈耶[[Stanford School|斯坦福学派]]** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述世界体系分析在解释微观课堂实践与行动者文化抵制方面的局限，提出以全球与本土辩证法予以综合发展。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 揭示第四阶段世界体系批判的学科史悖论：理论原本建立在长时段历史分析之上，但在比较教育学落地过程中却主要被用于当代宏观结构批判，与学科历史研究跌至谷底（1985–1995 年历史论文不足 5%）的“[[Historical Amnesia|历史健忘症]]”同频发生。
 

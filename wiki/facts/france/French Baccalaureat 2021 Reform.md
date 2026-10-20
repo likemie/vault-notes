@@ -58,7 +58,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 法国[[Gaokao\|高考]]改革打破“单一终结性考试决定命运”传统，确立平时过程性评价（40%）与期末统考（60%）双轨结构，并增设由考生自主选定跨学科课题、面对专家委员会现场答辩 20 分钟的标志性“大口试（Grand Oral）”。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 培养学生在学术与公共生活中的独立批判思考、逻辑建构、即席答辩与跨学科[[Knowledge Integration\|知识整合]]能力。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 > - **对象** 普通类与技术类高中的全体毕业生。
 > - **工具** 平时成绩档案（Contrôle continu 占 40%）、跨学科专业统考（占 60%）与全真口试答辩（Grand Oral 独立计分）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]

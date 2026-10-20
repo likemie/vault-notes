@@ -56,7 +56,7 @@ updated: 2026-10-20
 >
 > *Epistemic value is the relative value placed on different epistemic achievements... The decision to adopt an epistemic aim depends on evaluating whether the epistemic value of that achievement outweighs the cognitive effort and costs required... Sustained inquiry relies on attributing high epistemic value to deep explanations and causal understanding.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Epistemic Aims]]：认识目标是指向具体认知状态的意图与终点（如“搞懂该因果机制”），认识论价值则是驱动该目标确立的权重评价（“搞懂该机制非常重要且值得投入精力和时间”）。
 > - 不等于 工具性价值（Instrumental Value）：工具性价值看重知识作为达成外部世俗奖赏（如应试加分、职务晋升）的手段；认识论价值关切知识作为解释客观世界与拓展认知视野的内在价值。
 

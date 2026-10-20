@@ -110,7 +110,7 @@ updated: 2026-10-20
 >
 > *It involves a suspension of ontology, a bracketing of the complexities, contingencies, and histories of [[National Education]] systems in order to produce a commensurable space, a [[Space of Equivalence]], across the globe... ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 448]])*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[René Descartes|笛卡尔]]式的普遍怀疑 — 笛卡尔怀疑旨在推翻可能出错的信念以寻找无可置疑的基石，而悬置只是“中止判断与存而不论”，既不肯定也不否定外部世界的客观存在；
 > - 不等于 [[Positivism|实证主义]]的客观中立假象 — 实证主义假定观察者可以外在于研究对象保持客观冷漠，而悬置深刻承认主体的[[Intentionality|意向性]]构造功能，要求通过严格的自我反思抑制偏见；
 > - 不等于 虚无主义放弃因果探究 — 悬置评判是为了更精确地穿透复杂人际与物理表象，追索深层因果链条（如 [[Five Whys|五问法]]）；

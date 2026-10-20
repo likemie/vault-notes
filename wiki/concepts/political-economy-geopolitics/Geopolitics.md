@@ -219,7 +219,7 @@ updated: 2026-10-20
 > > - **[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]** 主张全球科学系统具有相对自主的水平合作网络特征，过度将[[Research Security|科研安全]]化将损害全人类共同知识进步。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 10–13)]]
 > > - **技术民族主义学者** 强调核心技术直接关涉国家生死存亡与产业[[Competitiveness|竞争力]]，在科技竞争常态化背景下必须建立严格的技术边境与排他性安全审查。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 批判[[Classical Geopolitics|古典地缘政治]]陷入国家中心主义的“领土陷阱”，指出其忽视微观教育实践在生产[[Geopolitical Subject|地缘政治主体]]认同中的关键机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示古典与后殖民地缘政治中西方中心主义[[Epistemology|认识论]]霸权，解构将全球南方框定为依附边缘的话语偏见。
 

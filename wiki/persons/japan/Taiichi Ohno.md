@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 复杂系统的质量缺陷与运转故障必须深入到物理现场与[[Homework|作业]]流程的内在因果链条中进行排查，坚决拒绝将问题表面化、偶然化或简单归咎于操作者的个人疏忽。通过建立在深入观察基础上的“连续追问五次为什么”，组织能够穿透症状表象，直达设备设计、技术参数乃至深层激励机制的根本缺陷；唯有在宽容试错、鼓励主动暴露缺陷的免责文化中，系统才能实现内生性的持续迭代与抗脆弱进化（Ohno, 1978; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
 > [!feature] 大野耐一工程管理哲学四大支柱
@@ -131,7 +131,7 @@ updated: 2026-10-20
 > - **方法路径** 确立了[[Five Whys|五问法]]作为全球质量工程、精益六西格玛与工业根因分析（RCA）的基准[[Operationalization|操作化]]工具。
 > - **跨领域拓展至软件工程与现代治理** 其精益理念直接催生了软件开发中的敏捷开发（Agile）、看板开发（Kanban）与站点[[Reliability|可靠性]]工程（Site Reliability Engineering, SRE）中的无指责复盘（Blameless Post-Mortem）；在《[[Technological Republic|技术共和国]]》中被确立为现代高科技组织抵御官僚化内耗与培育[[Engineering Mindset|工程思维]]的关键方法论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究大野耐一五问法在现代软件组织诊断、反免责文化与狐狸型工程[[Epistemology|认识论]]中的理论升华（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, pp. 164–166]]）。
 
 ---

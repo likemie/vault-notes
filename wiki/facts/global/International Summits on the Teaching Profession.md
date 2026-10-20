@@ -79,7 +79,7 @@ updated: 2026-10-20
 > [!claim] 核心机制假说
 > 唯有当教育决策者将有组织的教师专业集体视作平等的改革设计伙伴，并在去政治化、充分保密与实证研究支撑的环境下共同审议现实难题，才能克服自上而下的政策执行断层，制定出真正改善学生学习成效与教师福祉的卓越制度体系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 搭建部级政界领导与一线教师工会首脑之间的非对抗性对话渠道；基于 [[OECD]] 与 EI 的实证调查识别全球教师职业共性挑战；为各国未来一年的教育立法与政策调整设定行动目标。
 > - **议事规则** 采取严格的闭门保密协商机制（类同查塔姆研究所原则），杜绝媒体记者入场与现场政治作秀，确保参会部长与工会领袖能够开诚布公地坦陈本土改革的痛点与阻力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **双轨实证支撑** 每届峰会主题均由 OECD（如 [[Andreas Schleicher]] 主笔）与 EI（[[Education International\|国际教育协会]]研究院）分别编制独立的背景[[Research Synthesis|研究综合]]报告，确保对话完全扎根于严谨的实证数据而非意识形态辩论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **2011–2014 年 — 跨国协商机制创设与信任奠基期** 2011 年首届峰会由美国在纽约市主办，确立了部长与工会领袖同桌平等协商的历史性惯例；随后的新西兰峰会与荷兰阿姆斯特丹峰会围绕教师职前培养、评价标准与专业学习展开讨论，打破了传统政府间国际会议排斥劳工组织的壁垒。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **2015–2020 年 — 议题深化与实证反哺扩张期** 峰会先后由加拿大班夫、德国柏林、苏格兰爱丁堡、葡萄牙里斯本等地主办，讨论主题逐步从教师人事管理拓展至[[School Leadership\|学校领导力]]分配、教育公平、数字技术赋能与教师身心工作压力；促成将峰会成果反哺至 [[Teaching and Learning International Survey\|TALIS]] 2018 压力专属量表研制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **2021 年至今 — 疫后[[Whole Person Education\|全人教育]]复原与跨国共同原则确立** 2021 年第 11 届峰会再次由美国主办，主题聚焦从历史汲取智慧、共创卓越与公平，深度研讨后疫情时代的学校社区重建、数字教学伦理与教师福祉，并联合发布 [[OECD]] 与 EI 关于有效与公平教育复兴的十大原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - **[[Education International\|国际教育协会]]（EI）及其研究院** 代表全球教师工会网络编制平行实证简报，汇总反映基层教师关于工作负荷、薪资尊严与专业自主权的真实诉求。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 216)]]
 > - **各国参与代表团** 由参会国教育部长与本国全国性教师工会最高负责人共同组团出席，杜绝单方面政策输出。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **双向循证议程设定** 峰会讨论议题由 OECD、EI 与主办国三方联合筹备委员会协商确定，确保政策议程兼顾政府治理关切与工会权益关切。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **国别行动承诺机制** 每届峰会闭幕环节，各国代表团需联合提出针对未来一年的 1–2 项具体改革目标，并在下一届峰会上通报执行进展。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **数据共有与知情赋权** 彻底打破官方垄断大型跨国教育调查的旧制，制度化确立调查数据归政策制定者与教师专业组织共同所有的原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 影响力指标维度
+> [!indicators] 影响力指标维度
 > - **机制稳定性** 连续举办十余届，成为[[International Education\|国际教育]]界历史最悠久、参与规格最高的常设性部长-工会双边峰会。
 > - **政策[[Paradigm\|范式]]重塑** 成功将对抗性劳资谈判转化为基于实证研究的理性协商，被 [[OECD]] 评为现代教育治理史上的重大突破。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **国家立法吸收** 参会国先后在《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）以及欧洲多国教师职业发展规划中直接采纳峰会关于[[Whole Person Education\|全人教育]]与分布式领导的共识。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]

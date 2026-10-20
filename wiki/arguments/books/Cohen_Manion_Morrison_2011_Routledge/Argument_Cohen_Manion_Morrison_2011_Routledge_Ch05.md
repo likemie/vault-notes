@@ -121,7 +121,7 @@ updated: 2026-10-17
 >   R --> S["5.19 结论<br>个人伦理守则六优势"]
 > ```
 
-> [!knowledge-map]- 第5章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第5章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_5_Concept_Map.jpg)
 
 ---
@@ -183,7 +183,7 @@ updated: 2026-10-17
 > | **教育案例** | 失败学校应当关闭，对学生的道德责任所在 | 反对关闭，2000名学生将去更差的学校 | 杀一人救五人仍是谋杀，不能合理化 |
 > | **来源** | Howe and Moses (1999, p. 22) | Howe and Moses (1999, p. 23) | Hammersley (2009, p. 213) |
 
-> [!exegesis] 三种立场为何不可调和
+> [!exegesis]- 三种立场为何不可调和
 > 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**[[Situated Ethics\|情境伦理]]（situated ethics）**（pp.76–77）。
 
 ---
@@ -200,8 +200,8 @@ updated: 2026-10-17
 > | ▸ **道义层** Deontological | 我的义务是什么？ | 义务判断的达成方式 |
 > | ▸ **个体层** Individual | 尊重个人自由和自主吗？ | 核心原则：尊重个体自由与自主 |
 
-> [!example]- Figure 5.1：Seedhouse 的[[Seedhouse's Ethical Pyramid\|伦理金字塔网格]]
-> > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
+> [!example] Figure 5.1：Seedhouse 的[[Seedhouse's Ethical Pyramid\|伦理金字塔网格]]
+> > [!note] 图5.1：Seedhouse's ethical pyramidal grid
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_5-1_Seedhouse_Ethical_Pyramidal_Grid.jpg)
 >
 > 来源：改编自 Seedhouse, 1998b
@@ -234,7 +234,7 @@ updated: 2026-10-17
 > **4. 理解（Comprehension）**
 > 参与者完全理解研究项目的性质，即使程序复杂且涉及风险。确保理解的方法包括：使用受过高等教育的参与者、聘请顾问解释困难、在研究方案中建立请求参与与决策时间之间的时间间隔。
 
-> [!tip]- 四要素的共同要求
+> [!tip] 四要素的共同要求
 > 如果这四个要素同时具备，研究者可以确信参与者的权利将得到适当考量。但 Frankfort-Nachmias and Nachmias (1992) 指出，知情同意并非总是必要（如欺骗在某些情况下可被证成），但作为一般规则：**风险越大，获得知情同意的必要性就越大（pp.78–79）**。
 
 ---
@@ -289,7 +289,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - **如果参与者拒绝** 不应被追问、其行为不应被记录、不应被纳入任何书或文章（即使使用化名）。如果他们是群体的一部分，可以作为集体的一部分被纳入
 > - **拒绝可能源于不信任** 在研究者能与群体建立更强的融洽关系后，最初拒绝的人可以在稍后日期再次被接触，可能私下进行
 
-> [!note]- 两类需要特别关注的儿童群体
+> [!note] 两类需要特别关注的儿童群体
 >
 > **非常年幼的儿童（学前/托儿所）** 研究者可能因其年龄而放弃征求知情同意的想法，但 Fine and Sandstrom (1988) 建议即使如此也应给予某种解释。例如，告知"一个大人会看着他们并和他们一起玩"可能足以提供与儿童理解力一致的知情同意程度。正如他们评论："应该尽可能多地告诉儿童，即使他们中的一些人无法理解完整的解释。他们的年龄不应削弱他们的权利，尽管在分享给他们的解释中必须考虑他们的理解水平"（p.81）。
 >
@@ -403,7 +403,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - 总体时间表
 > - 组织和行政方面是否需要协助
 
-> [!tip]- Festinger and Katz (1966) 的准入策略
+> [!tip] Festinger and Katz (1966) 的准入策略
 > - **从组织最顶层开始** 在层级结构清晰的组织中，先从最高层获得同意和合作。领导者可能比下层更开放，下层由于不安全感可能不那么合作
 > - **避免以特定派系盟友身份进入** 不要以有特殊利益要利用的个体或群体的盟友身份进入，而应以各方共同利益为出发点，使发现对所有群体和人员同等可用
 > - **寻求尽可能广泛的支持基础**
@@ -470,7 +470,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 来源：改编自 Bell, 1991
 
-> [!warrant] 清单的论证功能
+> [!warrant]- 清单的论证功能
 > Bell (1991) 的这份清单将伦理从抽象原则转化为可执行的操作步骤。10 条中的每一条都对应一个具体的伦理风险：第4条对应匿名失效、第5条对应过度承诺、第8条对应信任破坏、第10条对应研究者自以为是的盲区。Hitchcock and Hughes (1995, p. 41) 将这些操作归结为更根本的原则："个体情境必须是最终的裁决者……如果研究似乎将与学校政策、管理风格或个人人格发生冲突，最好直面问题、征询相关方，并在可能或必要时重新安排研究设计。"（p.88）
 
 ---
@@ -603,7 +603,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 来源：改编自 Zimbardo, 1984
 
-> [!warrant] Plummer (1983) 对双方的批评
+> [!warrant]- Plummer (1983) 对双方的批评
 > 在将知情同意原则应用于生活史研究时，Plummer 指出双方都有弱点：
 > - **绝对主义者的弱点** 如果坚持知情同意，可能使相对特权群体研究不足（他们会说"不"），弱势群体研究过度（他们没有可损失的，抱希望说"是"）
 > - **相对主义者的弱点** 如果个体良心是指导，不道德的、甚至是不择手段的研究者的大门就敞开了
@@ -731,7 +731,7 @@ Kelly (1989a) 指出，质性研究中伦理触角需要特别敏感的领域是
 > **3. 信息的传播（Dissemination of information）**
 > 涉及将个人信息与参与者身份匹配的能力。个人数据在法律上被定义为能单独识别提供者身份的数据。当此类信息通过媒体以姓名公开时，隐私被严重侵犯。能获知该信息的人越多，对隐私的关注就越大。
 
-> [!boundary] 隐私不只是保密
+> [!boundary]- 隐私不只是保密
 > 隐私比单纯的保密更广泛。隐私权意味着一个人有权利：不参与研究、不回答问题、不被访谈、不被侵入家庭、不接电话或邮件、在自己的私人场所从事私人行为而不必担心被观察。这是 **"免于"的自由（freedom from）** 以及 **"去做"的自由（freedom for）**。这在侵入性新闻中经常成为问题。因此研究者有义务告知参与者拒绝参与任何或全部研究的权利——获得开展研究的许可、限制参与所需的时间、将观察限制在公共行为上（p.100）。
 
 ---
@@ -911,7 +911,7 @@ Cooper and Schindler (2001, p. 117) 补充：获得签名声明表明不披露�
 >
 > 来源：改编自 Kelman, 1967
 
-> [!warrant] 此案例的教训
+> [!warrant]- 此案例的教训
 > 这个案例展示了欺骗的极限：参与者被引导相信研究是为他们的利益（治疗酗酒），但实际上他们被暴露于他们认为自己在死亡的创伤性经历中。这超越了普通的欺骗——进入了**对脆弱群体进行身体和心理伤害**的领域。即使研究具有潜在的科学价值，也极难证成。
 
 ---
@@ -942,7 +942,7 @@ Cooper and Schindler (2001, p. 117) 补充：获得签名声明表明不披露�
 
 #### 5.14.4 Debriefing（事后说明）
 
-> [!tip]- debriefing 的四项内容
+> [!tip] debriefing 的四项内容
 > 抵消使用欺骗的研究负面效果的主要方式（pp.112–113）。Cooper and Schindler (2001, p. 116) 列出 debriefing 可包括：
 >
 > 1. 解释任何欺骗及其原因（explaining any [[Deception in Research\|deception]] and the reasons for it）
@@ -1062,7 +1062,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > - (iii) 研究者将回避敏感、困难或有争议但重要的领域，以及边缘化或有权力的人（即知情同意不可能的地方），**我们可能无法发现重要数据**
 > - (iv) 研究者将回避重要研究领域，因为他们认为获得伦理委员会同意困难
 
-> [!warrant] Hammersley 的替代方案
+> [!warrant]- Hammersley 的替代方案
 > 如果伦理委员会（看起来很可能）将继续存在，其角色应被削减为：
 > 1. 提供建议（providing advice）
 > 2. 提供伦理事项讨论的论坛（providing a forum for discussion on ethical matters）
@@ -1222,47 +1222,47 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 ## 关键引用
 
-> [!citation-card]- [[Informed Consent\|知情同意]]的定义（Diener & Crandall）
+> [!citation-card] [[Informed Consent\|知情同意]]的定义（Diener & Crandall）
 > 知情同意是"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（p.77）。
 >
 > Informed consent is 'the procedures in which individuals choose whether to participate in an investigation after being informed of facts that would be likely to influence their decisions' (Diener & Crandall, 1978, p. 57).
 
-> [!citation-card]- 伦理的定义（Cavan）
+> [!citation-card] 伦理的定义（Cavan）
 > 伦理是"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（p.87）。
 >
 > Ethics has been defined as 'a matter of principled sensitivity to the rights of others', and that 'while truth is good, respect for human dignity is better' (Cavan, 1977, p. 810).
 
-> [!citation-card]- 隐私权的定义（SSHRC Canada）
+> [!citation-card] 隐私权的定义（SSHRC Canada）
 > 隐私权"延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由"（p.99）。
 >
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences & Humanities Research Council of Canada, 1981).
 
-> [!citation-card]- [[Situated Ethics\|情境伦理]]的核心主张（Simons & Usher）
+> [!citation-card] [[Situated Ethics\|情境伦理]]的核心主张（Simons & Usher）
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 
-> [!citation-card]- 情境伦理的不可普遍化（Simons & Usher）
+> [!citation-card] 情境伦理的不可普遍化（Simons & Usher）
 > "研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（p.128）
 >
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons & Usher, 2000, p. 2).
 
-> [!citation-card]- Wax 对知情同意的批评
+> [!citation-card] Wax 对知情同意的批评
 > Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research\|质性研究]]的[[Emergence\|涌现]]性情境中"过度谨慎且具有破坏性"，但[[Fieldwork\|田野研究]]者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
 > Wax holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ\|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
-> [!citation-card]- debriefing 的核心（Aronson & Carlsmith）
+> [!citation-card] debriefing 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson & Carlsmith, 1969, p. 31).
 
-> [!citation-card]- [[Rich and Thick Description\|厚描述]] vs 薄描述（Howe & Moses）
+> [!citation-card] [[Rich and Thick Description\|厚描述]] vs 薄描述（Howe & Moses）
 > "中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"vs"女生在英语讨论课上参与少于男生"：前者是厚描述，后者是被净化的薄描述。解释性研究需要厚描述所需的细节层次，而隐私、保密和匿名要求可能使其无法获得。（p.105）
 >
 > 'the secondary school girls alternated between being bored, intimidated and silent in English discussion sessions' vs 'the girls participated less than boys in the English discussion sessions' (Howe & Moses, 1999, p. 45). Where the former provides a rich description, the latter, being sanitized, is thin.
 
-> [!citation-card]- Foster 的研究者"亲密接触"
+> [!citation-card] Foster 的研究者"亲密接触"
 > "当个体感到不安全、当他们的世界面临超出他们控制的变革威胁时，他们很可能以不可预测的方式回应他们中间角色不明确的人，而研究者的角色很少被那些不从事研究的人理解。"（p.86）
 >
 > 'when individuals feel insecure, when their world is threatened with change that is beyond their control, they are likely to respond in an unpredictable manner to persons within their midst whose role is unclear, and the role of the researcher is rarely understood by those not engaged in research' (Foster, 1989, p. 194).

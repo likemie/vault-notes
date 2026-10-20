@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 条件题使问卷能够：(1) 跳过不适用于特定受访者的问题；(2) 根据回答深入追问特定子议题；(3) 避免强迫受访者回答无关问题而产生挫败感。它是问卷"智能化"和个性化的核心机制。
 > - **边界** 条件题增加了问卷的认知复杂度和出错风险。受访者倾向于忽略、误读和错误遵循分支指令（Redline et al., 2002）。过度复杂的跳转逻辑可能比没有跳转逻辑带来更多数据质量问题。
 
-> [!citation-card]- 条件题的三要素
+> [!citation-card] 条件题的三要素
 > 条件题依赖于对前面问题的回答。前面的问题充当过滤器，后面的问题是条件性的，是前面问题的分支。（pp. 151–153）
 >
 > *A contingency question is one that depends on the response to an earlier question: the earlier question acts as a filter and the later question is contingent on it, being a branch of the earlier question.*

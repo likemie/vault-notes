@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1936–1980 年代 — 青少年发展与心理适应奠基期** 早期重点资助青少年心理学、精神卫生与适应力研究，设立著名的“格兰特学者计划”（William T. Grant Scholars Program），重点扶持处于职业早期的杰出青年学者开展前沿探索。
 > - **1980–2000 年代 — 处境不利儿童实证研究转型期** 伴随美国贫困加剧与城市种族隔离，资助重心转向弱势家庭、少数族裔儿童发展与跨文化教养研究，长期资助包括美籍华裔与亚洲儿童文化适应在内的重要实证工程。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. xii)]]
 > - **2000 年代至今 — 研究证据利用（URE）与[[Democratising Evidence\|证据民主化]]引领期** 在高级副总裁[[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng, 2004–2022 年主政科研）推动下，基金会开创性将 URE 与 [[Research-Practice Partnership\|RPP]] 确立为核心资助支柱；2017 年后全面反思大学学术研究的种族主义历史与“采矿式科研”（Extractive Research），发起声势浩大的证据民主化运动与大学考核停钟机制改革。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
@@ -96,7 +96,7 @@ updated: 2026-10-20
 > - **跨界同行评审网络** 打破纯学者闭门评审惯例，在同行评审委员会中引入地方学区决策者、社区领袖与一线教育工作者，多维评估方案的科学严谨性与社会行动力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 223)]]
 > - **跨基金会资助者协作网络** 联合斯宾塞基金会（Spencer Foundation）、多丽丝·杜克慈善基金会（Doris Duke Charitable Foundation）与皮尤慈善信托（Pew Charitable Trusts），组建倡导关系型科研的资助者学习小组。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
 
-> [!pathways]- 资助机制四大重构支柱
+> [!pathways] 资助机制四大重构支柱
 > - **提供长效与弹性资助（Sustained and flexible funding）** 摒弃一次性碎片化短期课题，资助跨界互信维护成本、学区数据系统建设及跨界行动者（Brokers/Spanners）专门薪酬。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
 > - **重新定义成果交付物（Redefining deliverables）** 破除唯学术期刊论文与专著数量的狭隘考评，将组织间长期信任沉淀、学区解决实际问题的能力增进确立为项目核心产出。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
 > - **改革评审标准与程序（Reconsidering grant criteria）** 赋予弱势社区在立项审查中的实质审议权，重点考查课题是否符合社区真实利益与去采矿化规范。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **学术[[Discourse|话语]]权** 成功将“研究证据利用”（URE）与“研究与实践伙伴关系”（[[Research-Practice Partnership\|RPP]]）确立为当代教育科学与公共管理的前沿主流显学。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **高等教育制度突破** 推动卡内基基金会（Carnegie Corporation）与全美多所顶尖[[Research Universities|研究型大学]]正式修改终身教职评审章程，引入跨界伙伴工作豁免与政策赋权指标。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
 > - **政策规范重塑** 深刻影响了包括美国教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）在内的官方资助方，促使其在 SEER 卓越标准中纳入公平性与伙伴关系考量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 208, 221)]]

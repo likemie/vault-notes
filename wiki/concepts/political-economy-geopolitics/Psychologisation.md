@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **分析用途** 帮助研究者透视官方如何将政治归属转化为道德责任，以及如何利用幸福、感恩和积极心理学[[Discourse|话语]]消解公众问责与抗争。
 > - **概念边界** 心理化不仅是心理学知识的普及，更是将心理学词汇作为行政控制和去政治化稳压器的制度性实践。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
 > *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*

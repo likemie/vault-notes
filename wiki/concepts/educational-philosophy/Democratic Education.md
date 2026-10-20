@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **用途** 用于批判威权主义学校管理与[[Banking Model of Education\|储蓄式教育]]对学生主体性的压抑，倡导构建包容、合作与开放的[[Student-Teacher Relationship\|师生关系]]。
 > - **边界与批评** 杜威式民主教育假设社会存在基本的正义与平等沟通可能；[[Paulo Freire\|弗莱雷]]与[[Critical Pedagogy\|批判教育学]]指出，在充满结构性压迫的社会中，民主教育必须进一步转化为对抗压迫结构的解放实践。
 
-> [!citation-card]- 关键表述：民主作为联合生活方式
+> [!citation-card] 关键表述：民主作为联合生活方式
 > 民主主要是联合生活、协同沟通经验的一种模式……一个为其所有成员在同等条件下参与其善提供条件的社会，一个确保其制度通过不同生活形式的互动而具有弹性重组的社会，就其本身而言就是民主的。（Dewey, 1961, p. 87, p. 99; 引自 Darwish, 2009, pp. 41–42）
 >
 > *Democracy is primarily a mode of associate living, of conjoint communicated experience... A society which makes provisions for participation in its good for all its members on equal terms and which secures flexible readjustment of its institutions... is in so far democratic. (Dewey, 1961, pp. 87, 99)*
@@ -89,5 +89,5 @@ updated: 2026-10-20
 > | [[Dialogue in Education]] | 概念 | 民主教育依赖平等对话作为中介。 |
 > | [[Praxis]] | 概念 | [[Paulo Freire\|弗莱雷]]对杜威民主教育的实践性补充。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 深入分析杜威民主教育思想及其与弗莱雷解放教育的张力。

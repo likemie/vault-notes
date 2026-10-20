@@ -91,7 +91,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 确立一套由各州自愿采纳、以实证研究为依据、对标国际先进水平的全国统一 K–12 学术内容标准，确保所有高中毕业生均具备升入大学或进入高技能劳动力市场所需的知识与思维技能。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 13)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 构建更少、更清晰、更高的学术标准框架，终结各州课程宽一英里、深一英寸的表层碎片化现象，实现从幼儿园到十二年级的连贯认知进阶。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15)]]
 > - **适用对象** 全美中小学公立教育机构、各学科任课教师、教材与数字学习资源出版商以及州级测评编制机构。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 17)]]
 > - **政策工具** 统一的学科内容标准文本（ELA 与数学）、[[College and Career Readiness|大学与职业就绪]]（College and Career Ready, CCR）锚定标准、[[Learning Progression|学习进阶]]与轨迹（Learning Trajectories）规划指南，以及跨州测评联盟工具。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
@@ -123,7 +123,7 @@ updated: 2026-10-20
 > - **适用对象** 全美各学区公立学校教师、校长、课程专家及 K–12 在校学生。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 13)]]
 > - **政策工具** 学科标准明细表、跨州测评联合体规程、教师专业培训模块与地方课程对比映射表（Crosswalks）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **国家网络设计** 起草专家组基于[[College and Career Readiness|大学与职业就绪]]标准自上而下逆向倒推（Backward Mapping）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
 > - **专业中介审阅** [[American Federation of Teachers|全美教师联盟]]（American Federation of Teachers, AFT）与全国教育协会（[[National Education Association]], NEA）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 > - **慈善资金网络** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]（Bill & Melinda Gates Foundation）在 2009–2010 年间注资 8,900 万美元（5,000 万美元直接资助 18 个全国组织，3,900 万美元资助 10 家服务商与 20 个州地方教育局），构建起全美统一游说、信息推广与技术辅导网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
@@ -163,7 +163,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** [[Bill & Melinda Gates Foundation|盖茨基金会]]投入 8,900 万美元专项推进资金；联邦教育部设立 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）竞争性拨款作为外生激励。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17, 22)]]
 > - **过程指标** 标准草案征集超过 10,000 份公众与教师书面意见；29 人验证委员会经数轮审议后以 25 票赞成通过背书；全美各州委托开展逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–18, 23)]]
 > - **结果指标** 全美 45 个州及哥伦比亚特区在 2010–2011 年间完成法定采纳，终结了长达一个世纪的各州自立标准割裂格局。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16, 18)]]
@@ -193,13 +193,13 @@ updated: 2026-10-20
 > > - **詹姆斯·[[Stanley Milgram|米尔格拉姆]]（R. James Milgram，2010）** 认为新标准在高年级未包含微积分预备内容，数学严谨度低于加利福尼亚州原有标准，因而拒绝在最终报告上签字。
 > > - **桑德拉·斯托茨基（Sandra Stotsky，2010）** 批评语文标准大幅削减经典文学名著比例、过多增加非虚构实用文本，学术水准不及马萨诸塞州原有标准，同样拒绝签署背书。
 >
-> > [!axis]- 早期儿童身心发育的发展适宜性争议
+> > [!axis] 早期儿童身心发育的发展适宜性争议
 > > 学前教育专家在公众评议中对从高中毕业要求逆向倒推至幼儿园的做法提出强烈异议。
 > >
 > > - **学前教育学者与儿童心理学家（2010）** 批评编写组将升学竞争压力过度向下传导给幼儿，脱离了儿童心理发育规律，且与许多州原有的学前教育指南冲突。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 23)]]
 > > - **起草团队与支持派专家（2010）** 坚称逆向倒推是实现十二年一贯制因果衔接的科学途径，幼儿阶段的难度可以通过阶梯式[[Scaffolding|教学支架]]逐步化解。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 13)]]
 >
-> > [!axis]- 统一标准对学生[[Academic Achievement|学业成绩]]的真实因果效能
+> > [!axis] 统一标准对学生[[Academic Achievement|学业成绩]]的真实因果效能
 > > 学界围绕课程标准的严格程度能否切实提高统考成绩展开了持久的实证交锋。
 > >
 > > - **汤姆·洛夫利斯（Tom Loveless, 2012）** 指出各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性，标准评级高的州并未展现出更好的学业产出。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]

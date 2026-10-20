@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 #### 概念地图
 
-> [!knowledge-map]- 第22章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第22章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22_Concept_Map.jpg)
 
 ## 章节内容
@@ -281,7 +281,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > - **孤立者（isolates）** 选择他人但不被任何人选择，单向寻求但被拒绝
 > - **链（chains）** 人们选择他人、他人再选择他人的序列，未必互惠，单向传递的关系路径
 
-> [!example]- 图22.1　社会计量学中的社会图
+> [!example] 图22.1　社会计量学中的社会图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22-1_Sociogram.jpg)
 >
 > - **Diane** 是明星，被多人选择
@@ -331,7 +331,7 @@ Knoke and Yang（2008, p. 12）进一步提出七种关系类型学：
 > [!info] 网络展示方式与分析软件
 > 展示方式包括社会图（图 22.1）、关系强度/类型图形（图 22.2）、矩阵（p.49）、关系测量（p.51）、有向和无向图（pp.56–62）、中心性和声望测量（pp.62–72）、小集团（pp.72–76）、结构等价（pp.76–79）、树状图（pp.79–85）和块模型（pp.85–91）。分析软件推荐 UCINET and StOCNET（pp.453–454）。
 
-> [!example]- 图22.2　展示关系强度或类型的网络图形
+> [!example] 图22.2　展示关系强度或类型的网络图形
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22-2_Network_Graphic.jpg)
 
 ---
@@ -538,37 +538,37 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 
 ## 关键引用
 
-> [!citation-card]- [[Rom Harré\|Harré]] 论陈述的社会功能
+> [!citation-card] [[Rom Harré\|Harré]] 论陈述的社会功能
 > 解释我们的行为可以理解为为我们的行动作出陈述（accounting for our actions），以使它们对周围的人变得可理解和可辩护。因此说"非常抱歉，我不是故意撞到你的"，是一个社会意义阐明的简单案例：通过将碰撞置于非计划序列之外并使其可理解而无法被追责，从而在那个情境中消除了冒犯性。（第22章, p.441）
 >
 > *Explaining our behaviour towards one another can be thought of as accounting for our actions in order to make them intelligible and justifiable to our fellow beings. Thus, saying "I'm terribly sorry, I didn't mean to bump into you", is a simple case of the explication of social meaning. (Harré, 1978)*
 
-> [!citation-card]- Harré 的 [[Ethogenic Approach\|ethogenic]] 人类形象
+> [!citation-card] Harré 的 [[Ethogenic Approach\|ethogenic]] 人类形象
 > 人因取向（ethogenic）这个形容词表达了一种将人类视为**个人**，即制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最好方式。人因研究代表了研究社会行为的另一种取向，其方法与教育研究中常用的方法形成鲜明对比。（第22章, pp.441–442）
 >
 > *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them.*
 
-> [!citation-card]- Kitwood 论经验取样的[[Epistemology\|认识论]]立场
+> [!citation-card] Kitwood 论经验取样的[[Epistemology\|认识论]]立场
 > 因为[[Experience Sampling Method\|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification\|证伪]]。（第22章, p.447）
 >
 > *Because the [[Experience-Sampling Method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
 
-> [!citation-card]- Menzel 论多重意义
+> [!citation-card] Menzel 论多重意义
 > 大多数行为可以被赋予多种意义，其中不止一种可能同时有效。因此坚持确定一个行为的那个意义是谬误的。也不能说当一个人识别出行为的一个意义（或者说研究者乐于指定为真实意义的那个意义）时，解释行为的任务就完成了。（第22章, pp.461–462）
 >
 > *Most behaviour can be assigned meanings and more than one of these may very well be valid simultaneously. It is fallacious therefore, he argues, to insist upon determining "the" meaning of an act.*
 
-> [!citation-card]- Bliss 等人论[[Network Analysis\|网络分析]]的边界
+> [!citation-card] Bliss 等人论[[Network Analysis\|网络分析]]的边界
 > 编码的风格再富有表达力或括号再好看，编码所说的并不比网络所区分的更多。（第22章, p.453）
 >
 > *Helpful as the choice of an expressive coding mood or neat use of indentation or brackets may be, the code actually says no more than the network distinguishes.*
 
-> [!citation-card]- Edwards 论课堂[[Discourse|话语]]中的权力不对称
+> [!citation-card] Edwards 论课堂[[Discourse|话语]]中的权力不对称
 > 教师非常有效地控制着课堂谈话，通过告诉学生何时说话、谈论什么以及他们说得有多好，在课堂中再生产权力不对称。（第22章, p.457）
 >
 > *Teachers control classroom talk very effectively, reproducing asymmetries of power in the classroom by telling the students when to talk, what to talk about, and how well they have talked. (Edwards, 1980)*
 
-> [!citation-card]- 九岁男孩的元评论
+> [!citation-card] 九岁男孩的元评论
 > "没有人能谈论事物是关于它们自身的"（Ain't nobody can talk about things being about theirselves）。一个九岁男孩对教师持续追问故事内容的回应。教师问故事是关于什么的，谁是主要人物，是什么类型的故事。儿童最终以这句话拒绝了将事物从自身剥离的提问方式。（第22章, p.459）
 >
 > *"Ain't nobody can talk about things being about theirselves." This comment by a nine-year-old boy was directed to his teacher when she persisted in interrogating him about the story he had just completed in his reading group.*

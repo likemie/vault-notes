@@ -209,7 +209,7 @@ journal: "Australian Journal of Education"
 
 ### 论证步骤一　建立文献基础：显性批判性思维教学优于隐性融入
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 已有的[[Meta-analysis\|元分析]]证据和[[Randomised Controlled Trials\|随机对照实验]]一致表明：
 
 > [!evidence-grid-a] 显性教学的实证优势
@@ -228,7 +228,7 @@ journal: "Australian Journal of Education"
 
 ### 论证步骤二　阶段一证据：ToK 学生从 11 年级到 12 年级的批判性思维增长
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > [[Critical Thinking Strategies Scale\|CTSS]] 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 的组间比较均显示 12 年级得分显著高于 11 年级，为 ToK 学习阶段与批判性思维技能之间的正向关系提供了初步证据。
 
 > [!chain-link] 证据到判断
@@ -273,7 +273,7 @@ journal: "Australian Journal of Education"
 
 ### 论证步骤三　阶段二证据：ToK 实施方式因学校文化和路径而显著分化
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 四所 NSW 案例学校虽然都将批判性思维发展纳入学校使命，但在 ToK 的概念化、[[Operationalization\|操作化]]和实际教学质量上存在显著差异。学校 1 和 4 代表了高度结构化的全校跨学科整合（学校 1 和 4）到近乎随意的讨论式教学（学校 2）。这一发现揭示了一个关键命题：ToK 课程框架本身并不自动保证批判性思维的有效培养；学校文化、教师团队的经验结构以及学校赖以运作的知识传统，共同构成了决定 ToK 教学效果的关键调节[[Variable\|变量]]。
 
 ---
@@ -300,7 +300,7 @@ journal: "Australian Journal of Education"
 
 ### 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 完成整个 DP 课程（含 ToK）的学生在进入大学时，[[Critical Thinking Disposition\|批判性思维倾向]]的七个维度均值均高于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、[[Academic Self-Concept\|学术自我概念]]、预期大学成果）上均表现出统计显著的优势。原文没有报告批判性思维倾向组间差异的显著性检验。
 
 > [!contrast-table] 批判性思维倾向比较（[[California Critical Thinking Disposition Inventory\|CCTDI]] 七维度 + 总分）
@@ -357,22 +357,22 @@ journal: "Australian Journal of Education"
 
 ## 关键引用
 
-> [!citation-card]- ToK 的官方定义
+> [!citation-card] ToK 的官方定义
 > ToK 是"一门关于[[Critical Thinking\|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在[[Areas of Knowledge\|知识领域]]之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"。（IBO, 2014, p. 1, 转引自 p. 248）
 >
 > *"[A] course about critical thinking and inquiring into the process of knowing, rather than about learning a specific body of knowledge. It plays a special role in the DP by providing an opportunity for students to reflect on the [[Epistemology\|nature of knowledge]], to make connections between areas of knowledge and to become aware of their own perspectives and those of the various groups whose knowledge they share."*
 
-> [!citation-card]- 批判性思维的 Delphi 定义
+> [!citation-card] 批判性思维的 Delphi 定义
 > 批判性思维是"基于严格的智力概念和原则进行有目的的、自我调节的判断的能力……被广泛认为是一项核心学术技能"。（Facione, 1990, p. 2, 转引自 p. 248）
 >
 > *"[T]he ability to engage in purposeful, self-regulatory judgement based on rigorous intellectual concepts and principles . . . and which is widely recognised as an essential academic skill."*
 
-> [!citation-card]- 教师批判性思维教学的巨大落差
+> [!citation-card] 教师批判性思维教学的巨大落差
 > 虽然 $90\%$ 的教师声称重视批判性思维教学，但"只有 $19\%$ [受访者] 给出了关于批判性思维是什么的清晰解释……[并且] 只有 $9\%$ 的受访者在典型课堂日中明确教授批判性思维"。（Paul et al., 1997, p. 18, 转引自 p. 250）
 >
 > *"only $19\%$ [of interviewees] gave a clear explanation of what critical thinking is . . . [and] only $9\%$ of the respondents were clearly teaching for critical thinking on a typical day in class."*
 
-> [!citation-card]- ToK 作为不受学科内容约束的思维空间
+> [!citation-card] ToK 作为不受学科内容约束的思维空间
 > ToK 成功的关键在于"它不依赖课程知识的学习来运作……相反，ToK 允许学生通过结构化的思维练习和跨学科活动，充分使用和探索他们的知识"。案例学校中有一所已经复制了 ToK 课程（出于版权原因重新命名），并将其作为所有学生（包括非 IB 学生）的必修大学预科课程。（p. 259）
 >
 > *"key to ToK's success . . . lies in the fact that the ToK subject is not subsidiary to any other subject, as it does not have learnt curriculum knowledge tied to its functioning; instead, ToK allows students to fully use and explore their knowledge through structured thinking exercises and cross-curricula activities."*

@@ -128,7 +128,7 @@ updated: 2026-10-20
 > | **审查指向** | 指向干预项目所宣称的底层科学原理 | 指向干预项目本身产出的实证干预数据 | 指向具体项目在独立审查平台中的因果成效 |
 > | **代表机制** | [[What Works Clearinghouse\|WWC]] 早期审核标准 | WWC 现行标准、各州采购准入清单 | [[Success for All]]、证明有效证据网 |
 
-> [!tension]- 法定科学本位研究的双重制度功能分野
+> [!tension] 法定科学本位研究的双重制度功能分野
 > 联邦政策文本中的“科学本位研究”并非均质铁板一块，而是存在着根本性的制度功能区隔：
 > - **服务经费支出证明（Service-Provider Expenditure Justification）** 涵盖 1998 年 REA、2001 年 NCLB、残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）相关条款。其制度意图在于规约学区与项目受资助者如何使用联邦专项资金购买教学服务，因而偏好设定狭隘的假设检验与实验因果门槛以证明资金效益。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **科研资助范围划定（Research Funding Parameters）** 涵盖 2000 年卡斯尔草案（H.R. 4875）与 2002 年 ESRA。其制度意图在于界定联邦[[Institute of Education Sciences|教育科学研究院]]（IES）资助何种教育科研，最终立法摒弃了预设的方法学清单，确立了“研究设计与方法契合所提出[[Research Question|研究问题]]”的宽泛科学标准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
@@ -282,7 +282,7 @@ updated: 2026-10-20
 
 ## 边界条件与适用范围
 
-> [!boundary] 适用边界与制度条件
+> [!boundary]- 适用边界与制度条件
 > - **规制型法制土壤依赖** 该概念作为硬性法律准入门槛，仅适用于联邦及州政府拥有明确财政专项拨款转移支付与集中问责权力的治理情境；在高度地方分权、依靠专业行会自律的教育体制中无法直接推行。
 > - **[[Causality|因果推断]]研究储备约束** 当全美或区域内合格的高质量实验干预方案存量过低时，强制推行 SBR 会导致制度空转，迫使学校在“违规无方案可用”与“借用理论包装形式主义过关”之间艰难妥协。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–24)]]
 > - **微观教学本土情境张力** 即使方案完全满足 SBR 的统计学因果标准，当其移植到生源[[Heterogeneity|异质性]]极高、师资流失严重或资源匮乏的弱势学校时，若缺乏情境适配性调试，极易遭遇[[Implementation Fidelity|实施保真度]]崩溃。

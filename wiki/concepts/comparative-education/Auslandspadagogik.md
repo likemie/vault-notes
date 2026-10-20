@@ -78,21 +78,21 @@ updated: 2026-10-16
 
 早期学者与现代比较教育史家围绕外国教育学的历史演变与方法特质留下了经典论述：
 
-> [!citation-card]- 关键表述一：威廉·布里克曼论外国教育学文献洪流的形成（1968）
+> [!citation-card] 关键表述一：威廉·布里克曼论外国教育学文献洪流的形成（1968）
 > 到 1900 年，关于“外国教育”——在德语中被称为 Auslandspädagogik（异域教育学）——的贫瘠文献，已经演变成图书以及其他形式撰述（如报告、旅行者或访客的观察随笔、新闻报道等）的汪洋大海。这在美国尤为显著，但在英格兰和法国等欧洲国家，对异域教育学的关注也同样高涨。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24; Brickman, 1968, p. 19)]]
 >
 > *By 1900, the 'meager literature' on 'foreign education', what in German has been referred to as Auslandspadagogik, was transformed into a 'flood of books' and other writings, e.g. reports, travellers’ or visitors’ observations, journalistic reportages and the like. This was especially conspicuous in the United States, but interest in foreign education was also high in such European countries as England and France.*
 
 现代比较教育思想史家从历史主义立场对这一传统进行了重新定位：
 
-> [!citation-card]- 关键表述二：卡洛扬纳基与卡扎米亚斯论外国教育学的编年史官与民族志特质（2009）
+> [!citation-card] 关键表述二：卡洛扬纳基与卡扎米亚斯论外国教育学的编年史官与民族志特质（2009）
 > 适当的做法应当是将这些早期观察者正名为出色的“教育编年史官”、“优秀的教育叙事家”或“早期的教育[[Ethnography\|民族志]]学者”，而非严格意义上的“现代教育历史学家”或“比较学者”；他们对欧洲各国的教育叙述缺乏历史解释与情境阐释这两个任何现代历史科学所必需的基石……但即便在今天，人们也不应低估优秀的描述性编年史或叙事在研究外国教育中的不可替代价值。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 >
 > *It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'; his historical [[Accounts]] of education in the several European countries lacked the elements of historical interpretation and contextual explanation, two basic desiderata of any historical episteme/science ... One, however, should not underestimate the VALUE of good descriptive chronicles or narratives in studying foreign education even today.*
 
 围绕 19 世纪外国教育学集大成之作《国民教育》，学界形成了极具代表性的学术争鸣：
 
-> [!citation-card]- 关键表述三：霍姆斯与诺亚-埃克斯坦论巴纳德百科全书式文献的史学定位（1965, 1969）
+> [!citation-card] 关键表述三：霍姆斯与诺亚-埃克斯坦论巴纳德百科全书式文献的史学定位（1965, 1969）
 > 霍姆斯指出，毫无疑问，巴纳德对待比较教育的方法主要是历史性与描述性的，其编纂一部宏大世界“教育百科全书”的目标几乎得到了完全兑现；而诺亚与埃克斯坦则严苛指责巴纳德“过于推崇对所有可得材料的不加鉴别、杂乱无章的盲目记录与再版”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965, p. 14; Noah & Eckstein, 1969, pp. 25–26)]]
 >
 > *Holmes has observed that 'unquestionably' Barnard's 'approach to comparative education was largely historical and descriptive', and his aim to produce an 'encyclopaedia of education ... was virtually achieved'. Noah and Eckstein ... were more critical ... According to them, Barnard 'saw merit in the indiscriminate and even unsystematic recording and republication of all that was available'.*
@@ -244,7 +244,7 @@ updated: 2026-10-16
 
 相关文献记录了对外国教育学方法局限性的深层反思：
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 记录了科学[[Positivism\|实证主义]]对早期外国教育学非历史化、非批判性与缺乏[[Variable\|变量]]控制的方法论批判，并提出了历史诠释学的辩护与重估。
 
 > [!warning] 适用局限

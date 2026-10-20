@@ -53,7 +53,7 @@ updated: 2026-10-16
 > - **用途** 元推论是混合方法研究区别于并行使用两种方法的标志——它证明了混合设计的增值：两种方法组合产生的知识超越了单一方法所能提供的。
 > - **边界** 元推论不同于量化推论或质性推论——前者是对跨数据库比较的"二阶"洞察，后两者是对单一数据库的"一阶"结论。当出现分歧时，元推论不是自动选择"更可信"的一方，而是需要进一步跟进探索差异来源。
 
-> [!citation-card]- Creswell 对元推论的定义
+> [!citation-card] Creswell 对元推论的定义
 > 当研究者检视联合展示表或图表时，会得出关于两种数据库比较所产生洞见的结论。在混合方法中，这些洞察被称为元推论——意味着研究者先得出量化和质性推论，然后基于两种数据库的组合得出额外的推论。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 234)]]
 >
 > *As a researcher examines the joint display table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases.*

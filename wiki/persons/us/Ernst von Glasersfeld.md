@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 知识作为认知主体在连续经验流中主动构建、检验并维系的操作性图式，摒弃了对本体实在的镜像追求。学习本质上是个体心智为了适应经验环境而展开的内生自我调节，其评判标准立足于概念结构在经验世界中的“可行性”（viability），区别于传统[[Epistemology|认识论]]要求的本体“符合性”。
 
 > [!citation-card] 冯·[[Robert Glaser|格拉泽]]斯费尔德论经验可行性替代客观符合论
@@ -133,7 +133,7 @@ updated: 2026-10-20
 > - **政策路径** 深度融入 1980–1990 年代英美科学与数学课程标准革新[[Discourse|话语]]，推动课堂教学由传统机械灌输转向强调学生自主建构与问题探究。
 > - **跨国／跨领域传播** 其学习理论被[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中作为核心认知基石全面吸纳，进而通过全球[[Evidence-Based Education|循证教育]]运动广泛传播，引发了围绕教学论消解与评价霸权的广泛哲学争议。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 深入剖析哈蒂《可见的学习》第三章如何照单全收[[Robert Glaser|格拉泽]]斯费尔德的[[Radical Constructivism|激进建构主义]]唯我论，揭示其在取消教师文化权威后强行嫁接教师中心所导致的教学论双重瓦解。
 
 ---
@@ -160,7 +160,7 @@ updated: 2026-10-20
 > > - **Thomas Aastrup [[Argument_Rømer_2018_EPT|Rømer (2018)]]** 指出[[Radical Constructivism|激进建构主义]]将学习简化为孤立心智的自组织运转，斩断了与客观学科传统及外部世界的实质联系，使教育无法区分真理与谬误。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]
 > > - **Ernst von Glasersfeld（1995）** 强调激进[[Constructivist Paradigm|建构主义]]未曾否定本体世界的实在性，着重阐明认知在[[Ontology|本体论]]上无法直接检验表征的真确性，可行性概念足以支撑[[Scientific Method|经验科学]]与主体间共识的建立。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批评[[Robert Glaser|格拉泽]]斯费尔德的激进建构主义消解了教师作为文化传承者的权威角色，诱发教学概念的双重瓦解。
 
 > [!warning] 未解问题与边界

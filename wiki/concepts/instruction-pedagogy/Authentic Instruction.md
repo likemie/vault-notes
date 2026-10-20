@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者和教师设计能够驱动主动探究、论证推理与多角度评估的真实任务环境。
 > - **边界** 真实性教学并不等于无指导的自由发现，也不是孤立的案例列举；它需要结构化的[[Scaffolding\|脚手架]]支持与师生深度互动。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 能够言之有物与不得不说点什么之间，存在着天壤之别。 （Dewey, 1907, p. 67; 引自 Abrami et al., 2015, p. 287）
 >
 > *There is all the difference in the world between having something to say and having to say something. (Dewey, 1907, p. 67; [[Argument_Abrami_2015_RER\|Abrami et al., 2015, p. 287]])*

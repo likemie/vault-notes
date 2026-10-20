@@ -68,7 +68,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 政策确立新西兰 1–8 年级学生在阅读、写作与数学领域的全国统一进步与成就基准，依托教师综合[[Professional Judgment|专业判断]]（Overall Teacher Judgment, OTJ）评定学生表现，要求学校向家长定期汇报并向教育部提交年度学业汇总数据。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 统一各校对进步的认知标准，强化学校和家庭对增值与学业进步的重视，识别需要早期介入干预的弱势学生群体。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]
 > - **适用对象** 全国小学及初中校长、教师、1–8 年级全体在校学生及家长。
 > - **政策工具** 读写与数学国家标准参考量规、[[Formative Assessment|形成性评估]]工具包（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、国家标准家长汇报模版与年度绩效报告。
@@ -101,7 +101,7 @@ updated: 2026-10-20
 > - **适用对象** 1–8 年级全体学生及家庭，涵盖各族裔与不同社经背景学校。
 > - **政策工具** 评估基准、OTJ 教师研判指南、[[Assessment Tools for Teaching and Learning|asTTle]] 测评软件与 ERO 外部视导核查。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央顶层下达** 教育部统一制定全国读写算成就图式，要求学校将学生划分至“低于、接近、达到、高于”四级标准。
 > - **学校校本研判** 教师依据日常[[Homework|作业]]、标准化测试及课堂表现形成综合教师判断（OTJ），但各校评定尺度缺乏严格校准。
 > - **阻抗与策略遵从** 众多学校董事会与教师工会发起抵制运动，部分学校采取[[Strategic Compliance|策略性遵从]]，仅提供最少合规数据以防范非官方学校排名的生成。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 92)]]

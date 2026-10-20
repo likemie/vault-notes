@@ -59,7 +59,7 @@ updated: 2026-10-15
 ---
 ## 概念演变
 
-> [!note]-
+> [!note]
 
 ### 理论奠基：从社会嵌入性到责任大学
 
@@ -86,7 +86,7 @@ updated: 2026-10-15
 ---
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Organizational Actorhood]] — USR 是组织能动者身份中社会嵌入性维度的具体化：大学通过 USR 表明自己不仅是[[Knowledge Production\|知识生产]]机构，更是对社会负责的公民组织（Bromley & Meyer, 2015）
 > - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 
@@ -99,7 +99,7 @@ updated: 2026-10-15
 > - 可持续发展已被部分学者视为大学的一种新型"[[Third Mission\|第三使命]]"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.150]]）
 > - THE 影响力排名中 SDG 17（"促进目标实现的伙伴关系"）是唯一强制报告指标——这暗示即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可推卸的责任([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.154]])
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 全球 **200+ 所**大学已发布 CSR/可持续发展报告（Corporate Register, 2019; GRI, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）
 > - THE 2020 年影响力排名覆盖 **85 个国家近 800 所大学（THE, 2020，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]]）**
 

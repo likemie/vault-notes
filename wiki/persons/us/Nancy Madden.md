@@ -60,7 +60,7 @@ updated: 2026-10-16
 > - **核心角色** [[Cooperative Learning\|合作学习]]理论与全校循证教学方案的核心架构师，与[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）共同开创了全美最具实证影响力的全校阅读改革模型。
 > - **代表贡献** 联合研发了全员成功方案（SFA）、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）以及技术辅助小组阅读辅导项目（[[Lightning Squad]]），在 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]下取得显著成效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
-> [!citation-card]- 全校改革与小组辅导的联合研发
+> [!citation-card] 全校改革与小组辅导的联合研发
 > 斯莱文与马登长期合作研发并系统评估了包括全员成功方案与技术辅助小组辅导在内的多种循证阅读干预模式。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 28, 30)]]
 >
 > *Slavin and Madden co-developed and rigorously evaluated comprehensive school reform and technology-assisted small-group tutoring programs.*
@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **以[[Structured Teaching\|结构化教学]]材料与同伴交互重塑底层课堂效能** 马登主张教育公平的实现不能仅停留在宏观政策号召，而必须深入到每日每课的课堂教学微观结构中；通过为教师和助教提供经过严格实验验证的结构化脚本材料、将[[Cooperative Learning\|合作学习]]机制深度内嵌于阅读教学各环节，并为落后儿童配备即时的个别化/小组辅导，任何高贫困学校都有能力让绝大多数儿童掌握熟练的读写技能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 27–29)]]
 
 ---

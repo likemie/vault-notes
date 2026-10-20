@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **前提二** 传统学术成果充斥免责声明、统计存疑与技术术语（Elson et al., 2019），在极度压缩的政策时间系统中极易因信息过载或犹疑不决而被决策者直接弃置（Gillies, 2014; Sorian & Baugh, 2002）。
 > - **推导** 研究者必须打破纯粹[[Value Neutrality\|价值中立]]的神话，学会以精炼明确的语言呈现坚定结论，遵循国会山“少即是多”原则，并借助整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]打通通往法案文本的瓶颈。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（双速时间系统适应）** 从核心命题一推导出：面对[[Policymaking Chronosystem\|政策制定时间系统]]的急性突发事件，学术组织必须打破传统同行评议数月的惰性，设立如[[Society for Research in Child Development\|儿童发展研究学会]]（SRCD）“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（RARS）专家团队，在数日乃至数小时内快速聚合实证证据并出具政策声明，实现与突发[[Policy Window|政策窗口]]的敏捷咬合。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
 > - **推论二（沉浸式制度培育通道）** 从核心命题一与命题二推导出：要克服学术界对政治运作的神秘感与偏见，必须建立全职浸润式的国会政策研究员机制（Congressional Fellowships）。学者通过一年全职幕僚实践掌握政策[[Tacit Knowledge|隐性知识]]（Tacit Knowledge），在离任后持续辐射行政资助、委员会运作与高校跨界培养。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
 > - **应用命题（四维证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，研究者在推动证据转化前，必须系统评估目标决策者的个人信念（Personal）、研究与意识形态契合度（Research Fit）、制度情境时机（Contextual）以及政策落地执行的可逆性（Implementation）。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
@@ -239,7 +239,7 @@ updated: 2026-10-20
 > > - **循证规制学派（Connolly et al., 2018）** 坚持唯有 RCT 才能确立因果真实性。
 > > - **系统治理与政策生态学派（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]; Raudenbush, 2015）** 论证教育政策具有高度复杂性与时效敏感性，需要定性、行政大数据与[[Experimental Research\|实验研究]]构成的多元证据基座。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 自述框架对学者提出较高的政治敏锐度与时间投入要求，高校传统的长周期终身教职评审机制若不作结构性改革，普通大学教师将面临显著的跨界参与成本。
 
 ---

@@ -64,7 +64,7 @@ updated: 2026-10-05
 > - **核心角色** 20 世纪应用创造力运动（Applied Creativity Movement）的奠基人，打破了创造力仅属少数艺术天才的唯心神话，将[[Divergent Thinking\|发散思维]]与创新构想转化为大众可学、可练、可操作的标准化规程。
 > - **代表贡献** 创立[[Brainstorming\|头脑风暴]]法、联合开创[[Creative Problem Solving\|创造性问题解决]]（Osborn-Parnes CPS）模型雏形、提出包含 73 问的创造力设问检核表（[[SCAMPER]] 雏形）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在儿童与成人[[Creativity Training\|创造性思维训练]]的系统综合评价中，奥斯本—帕内斯创造性[[Problem Solving\|问题解决]]计划及其衍生演化模型，始终是产出最为积极有效、应用最为广泛的经典干预方案。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 2)]]; Torrance (1972)
 
 ---
@@ -97,10 +97,10 @@ updated: 2026-10-05
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Creativity\|创造力]]不是少数天才专有的神秘特质，而是一种人人皆具备、可通过专门训练大幅增强的心智技能；而阻碍人类创造力施展的最大障碍是习惯性的过早批判与逻辑自我审查。唯有在时间与空间维度上将“观念生成（[[Divergent Thinking\|发散思维]]）”与“观念评价（收敛批判）”彻底解耦，遵循延迟评判与以量求质法则，心智方能摆脱平庸定势并[[Emergence\|涌现]]突破性创新成果。Osborn (1953); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 创造力就像流水，批判就像水闸。如果你在放水的同时不断关紧水闸，你将一无所获；先拆掉水闸让灵感自由奔涌，之后再去建造过滤水质的坚固渠道。Osborn (1953, p. 297)
 
 ---

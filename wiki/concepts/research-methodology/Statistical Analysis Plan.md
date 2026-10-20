@@ -88,7 +88,7 @@ updated: 2026-10-20
 >
 > *“The EEF requires a prespecified protocol and statistical analysis plan for every trial to be published on its website and the trial registered on ISRCTN registry... All EEF’s findings are published, whatever the result.”*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 试验总体研究方案（Trial Protocol）** Protocol 涵盖干预背景、受试者招募、实施伦理与田野后勤；而 SAP 专门聚焦数据清洗、统计建模、标准误估计与统计推断规则的技术细则。
 > - **不等于 试验注册摘要（Registry Summary, 如 ISRCTN 登记项）** 注册平台通常仅记录简要的结局指标名称与[[Sample Size Determination\|样本量]]；SAP 是长达数十页的完整数学建模白皮书。
 > - **不等于 事后数据分析脚本（Post-hoc Analysis Script）** 数据分析脚本是事后执行的代码；SAP 是在接触最终结局数据之前确立的先验规则。

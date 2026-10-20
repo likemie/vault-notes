@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **核心角色** DARPA 历史上**任期最长的一任局长**（小布什总统执政期间执掌长达 8 年）。任内推行冷战后最激进的采办考核机制重构与反恐技术攻坚，是当代科技政策界关于“国家战略科研中高校自由探索 vs 产业系统交付”学术论战的核心焦点人物；在发展型国家理论中，其执政经历被[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）视为[[National Innovation System|国家创新系统]]过度藏匿于国防外衣之下导致科研涉密化与学术互信断裂的典型标本。
 > - **代表贡献** 确立“弥合鸿沟”（Bridging the Gap）战略；首创自动驾驶领域悬赏竞赛[[Paradigm|范式]]（DARPA Grand Challenge 2004/2005/2007）；资助敏捷感知认知助理项目（CALO，直接派生孵化出苹果公司 Siri）；资助片内光互连系统集成项目（UNIC 计划）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 
-> [!citation-card]- 采办机制改革的核心主旨
+> [!citation-card] 采办机制改革的核心主旨
 > 托尼·瑟瑟（Tony Tether）在任内推行了 DARPA 历史上最深刻的采办机制改革，将资助重心由大学实验室大规模转向工业界老牌系统巨头，并引入以 12–16 个月为周期的多阶段严格淘汰性审查。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1138)]]
 >
 > *Tony Tether shifted funds away from universities to industry prime contractors and instituted multi-phase contracts with strict go/no-go milestone reviews.*
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **以终为始的系统级工程交付问责** 科技资助不仅要支持天马行空的科学构想，更必须设立明确、可测量且不讲情面的中期里程碑（Go/No-Go Milestones）；唯有将学术界的颠覆性点子与老牌军工巨头的工程系统集成能力硬性绑定，国家高风险投入才能真正转化为改变地缘战略平衡的实质生产力与防御优势。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1138)]]
 
 > [!citation-card] 弥合基础研究与作战能力鸿沟

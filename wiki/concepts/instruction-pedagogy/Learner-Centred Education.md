@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing\|政策借用]]与本土教学实践之间的张力、转译及扩展性改造机制。
 > - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与[[Higher-Order Thinking Skills\|高阶思维]]的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 在近几十年来，以学习者为中心的教育在全球范围内得到了广泛的推广。（p.588）
 >
 > *"LCE has been widely promoted around the globe in recent decades" [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]*

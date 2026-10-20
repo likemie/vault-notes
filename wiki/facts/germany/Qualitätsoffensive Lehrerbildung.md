@@ -81,7 +81,7 @@ updated: 2026-10-17
 > [!claim] 核心干预／机制假说
 > 唯有打破传统师范大学院系割裂与各自为政的体制积弊，建立跨学科“教师教育中心”（Zentrum für Lehrerbildung, ZLB / School of Education），并将前沿实证科研成果转化为师范生与指导教师可直接理解吸收的具象工具，方能在专业化源头提升教师的专业知觉与循证行动能力。
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 提升全德师资培养全过程（职前大学教育、第二阶段实习见习 Referendariat 及职后进修）的学术质量与实证效度；确立实证教学研究成果向教学现场转化的制度化标准。
 > - **覆盖对象** 大学教师教育者（Lehrkräftebildende）、学科教学论专家、在读师范生（Lehramtsstudierende）、见习实习教师（Referendare）及中小学合作导师。
 > - **三大核心干预领域**

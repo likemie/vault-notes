@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **学术用途** 帮助研究者揭开比较教育中“国际合作”与“技术援助”的去政治化科学面纱，审视其背后隐藏的权力等级、干预正当化逻辑以及方法论上的退步。
 > - **边界条件** 它不单纯是对发展中国家教育现状的描述，而是一个批判性解析[[Disciplinary Institutionalization|学科建制化]]历史的社会学范畴，通常与新殖民主义、[[Dependency Theory\|依附理论]]和全球[[Governing by Numbers\|数字治理]]话语交叉使用。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 随着美苏两个超级大国将目标对准“第三世界”，比较教育的大部分可用资金和相当一部分研究焦点被导向了“发展中”国家。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 >
 > *with the two superpowers targeting the 'Third World', most available funding and much of the focus of comparative education was directed to 'developing' countries*

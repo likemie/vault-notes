@@ -97,7 +97,7 @@ updated: 2026-10-20
 > - **数据分析与[[Quantitative Research|量化研究]]团队** 配备专业的计量经济学、教育测量学与公共政策分析师，独立清洗与挖掘联邦、州及学区教育大数据，确保所有倡导主张均建立在可复核的实证数据基础之上。
 > - **跨界合作与民权联盟网络** 与全美有色人种协进会（NAACP）、城市联盟（National Urban League）等民权组织以及[[American Federation of Teachers|全美教师联盟]]（AFT）保持紧密协同，构建多主体政策倡导同盟。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 11)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **数据挖掘与危机识别** 追踪美国国家教育进步评估（[[National Assessment of Educational Progress|NAEP]]）、公民权利民意数据（CRDC）及联邦综合高等教育数据系统（IPEDS），将各州自设考试的虚假达标率与 NAEP 严密对照，制造各州标准普遍失效的危机证据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 > - **双向转译与立法塑形** 将学术界高度专业化的计量模型和因果评估发现，转译为国会幕僚与州议员立即可读的图表、对比清单与立法建议备忘录，并协助议员起草示范法案条文。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 45)]]
 > - **价值绑定与联盟动员** 将冰冷的数据嵌入教育机会均等与民权保护的核心价值框架中，使政策方案能够跨越党派壁垒，同时赢得自由派民权团体与温和派立法者的支持。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得[[Bill & Melinda Gates Foundation|盖茨基金会]]数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 > - **政策与制度渗透** 主导将学生亚群数据分解写入联邦 [[No Child Left Behind Act 2001|NCLB]] 法案；与 [[Achieve]] 联合构建的跨州标准网络为 45 州采纳 [[Common Core State Standards|CCSS]] 奠定了早期制度基础。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 41–42)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 16)]]
 > - **公共[[Discourse|话语]]与观念重构** 将单纯的学术测试指标升华为衡量民权与教育正义的国家标尺，打破了长期以来掩盖薄弱学校与弱势学生学业失败的平均主义繁荣假象。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 > > - **批评视角（教育学者与一线教师）** 指责其过度强调达标切分点和严苛问责，客观上诱发了全美范围内的[[Examination-Oriented Education|应试教育]]（Teaching to the Test）、挤压艺术与体育课程，并促使部分州蓄意下调及格线制造虚假达标率。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > > - **机构立场（EdTrust 辩护）** 坚称没有坚固的量化数据与公开问责，有色人种和贫困学生的学业困境就会重新被忽视，数据分解是捍卫民权平等的不可退让底线。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 45)]]
 >
-> > [!axis]- 民权底线干预 vs 州与学区治理自主权张力
+> > [!axis] 民权底线干预 vs 州与学区治理自主权张力
 > > 争论当全美教育共识转向尊重地方自主权时，中介机构坚持联邦统一底线是否侵蚀了分权治理根基。
 > >
 > > - **分权与保守派阵营** 批评 EdTrust 与外部慈善资本深度绑定，借全国统一标准或联邦拨款规则推行自上而下的政策管制，侵蚀了各州宪法赋予的课程自主权。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]

@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 作为 [[Repertory Grid Technique\|repertory grid]] 的汇总测量，在个别化引发网格无法直接比较时提供可跨个体的指标。
 > - **边界** 它是关于构念结构的测量，不直接等于一般智力或领域知识；指标高低不代表认知对错，只反映分化程度。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > Bieri（1955）的认知复杂性/简单性指数最初是对每对构念计算匹配系数并求总和，现在通常基于构念间平均相关系数。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 10]]）
 >
 > *One of the oldest of these is Bieri's (1955) index of cognitive complexity/simplicity. This was originally a [[Matching]] coefficient calculated for each pair of constructs and summed for the whole grid.*

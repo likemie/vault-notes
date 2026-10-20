@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **核心角色** 兼任帕兰提尔防务政策与国际事务基金会（Palantir Foundation for Defense Policy & International Affairs）董事；在行政法、政府采购规制与国家安全科技战略交汇领域开展深度制度研究与司法抗争。
 > - **代表贡献** 与[[Alexander Karp|亚历山大·卡普]]合著《[[Technological Republic|技术共和国]]》，系统剖析联邦行政采购官僚体制的结构性失灵，论证《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）确立[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法定优先权的历史与实效，推动公共治理去官僚化与防务科技采办制度重塑。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 法律明确要求政府在考虑为定制产品签署合同之前，必须先评估是否有可用的商用现成产品……然而五角大楼的采购系统长期偏离了这一法定要求，必须依靠司法判决与制度改革重新恢复市场竞争与技术供给效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–154)]]
 >
 > *The statute explicitly requires that the government evaluate whether commercial items are available to meet its needs before developing custom systems... but the [[Bureaucracy]] consistently evaded this mandate.*
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 私营部门与国家公共利益的割裂构成了当代西方科技治理的最大隐患。科技工程共同体必须走出狭隘的纯商业中立幻象，在法治与国家安全的框架下积极参与国防与公共安全建设；同时，国家必须通过厉行政府采购法治与推行组织去官僚化，破除既得利益集团的垄断壁垒，重塑公共机构的技术供给效能（pp. xiv–xvi, 139–155）。
 
 > [!feature] 采购法治与制度改革三大支柱
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策路径** 推动美国联邦法院确立 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 商用现成优先先例，实质性推动国防部《国防联邦采办条例补充规定》（DFARS）的执行机制改革。
 > - **跨国／跨领域传播** 为盟国（如英国、北约成员国）防务采购去官僚化及吸纳商业软件技术提供法理范例与制度蓝本。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 论证采购法治、商用优先、[[Engineering Mindset|工程思维]]与行政去官僚化改革（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---

@@ -101,7 +101,7 @@ updated: 2026-10-20
 > - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），由 OSTP、DoD、[[Department of Energy|DOE]]、NIST、[[National Science Foundation|NSF]] 五大机构主管共同担任联合主席（Co-Chairs），并纳入 NSA、[[National Aeronautics and Space Administration|NASA]] 等机构代表，统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
 > - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）、芯片[[Industrial Advisory Committee|工业咨询委员会]]（IAC）及工业界代表，吸纳外部建议。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 每年联合白宫管理与预算办公室（OMB）发布《联邦研发预算优先序联合备忘录》，直接规约各部委下一财年研发经费报送。
 > - **研究与开发** 跨部委设立联合项目办公室，协调各部委所属国家实验室、大学合作中心共同参与重大技术攻关。
 > - **微电子与关键技术跨部门统筹** 通过 SML 定期组织微电子能力审查与联合 RFI 发布，统筹商务部（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]）、国防部（[[Microelectronics Commons]]）与 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 的基础设施开放与技术路线对齐。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 9–10, 48)]]
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 统筹协调全美每年超过 1800 亿美元的联邦研发总预算分配方向，连接 20 余个核心联邦部门。
 > - **学术与[[Knowledge Production|知识生产]]** 推动跨学科、跨部委大科技计划落地，促进了纳米技术、量子信息与前沿生命科学的系统突破。
 > - **政策与制度渗透** 将分散的部门研发职能上升为内阁级国家战略，塑造了 30 余年来美国科技顶层治理的基本格局。

@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **学术用途** 在比较教育学科史上，它被用作证成跨国教科书审查、学术合作网络以及多边教育咨询中立性与合理性的核心[[Discourse|话语]]，将比较教育塑造为促进人类和平改良的理性科学工具。
 > - **边界条件** 它依赖于多边契约和理性科学治理的自由主义假设，通常假定跨国对话能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（现实主义）或深层不平等结构（[[Revolutionism\|革命主义]]）时解释力有限。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 一种在世界各国人民中间比民族主义心态更适合于合作的普遍心态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 >
 > *a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality*

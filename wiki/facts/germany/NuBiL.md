@@ -80,7 +80,7 @@ updated: 2026-10-20
 > [!claim] 核心机制发现：自主反思驱动 vs 机械处方消费
 > NuBiL 项目实证[[Falsification|证伪]]了“教师使用研究是为了寻找标准化教学菜谱”（Rezeptwissen）的朴素假设。研究表明，教师对教育科学成果的主动探究，几乎全部源于应对微观教学危机、化解专业不确定性或寻求外部正当性辩护的“取向与反思知识”（Orientierungs- und Reflexionswissen）诉求。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 12; Otto et al., 2019)]]
 
-> [!research-design]- 研究架构与核心发现维度
+> [!research-design] 研究架构与核心发现维度
 > - **教师使用科研知识的四大动机类型**
 >   1. **反思与启发动机（Reflexive Nutzung）** 在面对新型教学挑战（如全纳课堂融合困难、突发性学业倒退）时，借助实证视角重新审视自身既有教学信念与前理解。
 >   2. **论证与辩护动机（Argumentative / Legitimierende Nutzung）** 在教研组争议、校领导质询或面对家长压力时，引用学术证据为自身教学决策提供制度化合法性支撑。

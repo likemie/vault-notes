@@ -63,12 +63,12 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > “我的行动承诺”（My Pledge to Act）是一项校本行为奖励计划。它通过在中小学校园推广“感恩珍惜・积极乐观”等宣誓口号，把青年因结构性分配不公与政治排斥产生的焦虑，框架化为个人的“快乐不足”与“感恩缺失”，以道德和[[Psychologisation\|心理化]]逻辑消解社会抗争正当性（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **快乐与感恩教导** 官方要求儿童“快乐（be happy）”并“感恩我们所拥有的（be grateful for what we have）”，宣扬生活更好的道路在于改变自我而非改革社会。
 > - **专项资金扶持** 港府设立高达数千万元的专项资助计划，向申请推行感恩宣誓仪式的中小学提供每校最高达十万港元的资助。
 > - **校本仪式性灌输** 要求学生签署承诺书、制作感恩心意卡、录制“积极正能量”学校合唱视频，并在日常校本考评中记录学生的感恩行善表现。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 协助学校营造正面和关爱的学习环境，引导学生以积极的态度面对学习和生活挑战，学会感恩、珍惜，并转化为实际行动。
 >
 > *“Official campaigns urge children to 'be happy' and 'be grateful for what we have'... instructing them that the path to a better life lies in resolving to change themselves, not in actions to reform society.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- 政策形成与经过
+> [!dev-timeline] 政策形成与经过
 > - **2019-08 — 政策紧急推出** 针对暑期愈演愈烈的示威活动，教育局在8月底紧急发布公文，将该年度主题定为“感恩珍惜・积极乐观”，要求全港学校广泛响应。
 > - **2020 — 资金与项目升级** 国安法实施后，教育局追加财政支持，将“我的行动承诺”升格为全港中小学常规道德及国民教育（MNE）评核的硬性课外指标。
 > - **2022 — 常态化与顶层整合** 计划正式与民青局《[[Youth Development Blueprint\|青年发展蓝图]]》接轨，共同构筑香港后运动时代的“[[Psychologisation\|心理化]]治理”防线（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **财务与人员投入** 全港超九成学校响应，申请了教育局每校十万港元的“我的行动承诺”校本专项资助。
 > - **仪式覆盖率** 统计完成感恩卡制作、正能量视频录制的学校比率，及全港学童签署《我的行动承诺书》的覆盖人数。
 > - **态度改变成效** 在表面上消灭了校内的政治性集体抗议，但导致学生在内心产生更深层的伪装与犬儒主义。

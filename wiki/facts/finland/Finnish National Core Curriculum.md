@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - **2014** 芬兰语与瑞典语版基础教育国家核心课程发布，并将跨学科与[[Phenomenon-Based Learning\|现象本位学习]]纳入课程框架([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.2]])。
 > - **2016** 英文版基础教育国家核心课程发布；国际讨论中 PhBL 的能见度进一步上升。
 > - **2018-2023** 赫尔辛基大学 [[SveaSus Project]] 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性探索现象本位学习、具身学习、艺术本位和多语方法([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.1]])。

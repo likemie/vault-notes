@@ -59,7 +59,7 @@ updated: 2026-09-22
 > [!claim] 课程核心设计
 > 采用“基础公民[[Scientific Literacy\|科学素养]]（Core Science）+ 进阶选修模块（Additional / Applied Science）”的分层双轨结构，将“科学如何运作”（How Science Works）置于与学科知识同等重要的基础地位。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 
-> [!policy-design]- 课程三大支柱
+> [!policy-design] 课程三大支柱
 > - **[[Scientific Explanation\|科学解释]]模型（Science Explanations）** 物理、化学、生物的核心学科主干概念与原理。
 > - **科学运作观念（Ideas about Science）** 科学知识的实证性、假说检验、同行评议、[[Falsification\|可证伪性]]与不确定性。
 > - **真实情境模块（Context-based Modules）** 围绕空气污染、遗传基因、放射性与食品安全等真实社会科学争议（[[Socioscientific Issues\|Socio-Scientific Issues]]）组织探究。

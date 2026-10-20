@@ -51,7 +51,7 @@ updated: 2026-08-01
 > - **[[Unit of Analysis\|分析单位]]** 个体；围绕单个元素的构念集合。
 > - **输出形式** 1→2→4→8 的构念极点金字塔；质性特征描述。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 这一程序形成从 1 个元素到 2 个构念极点、再到 4 个、最终到 8 个的金字塔结构。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 9]]）
 >
 > *Land-[[Champ\|field]] termed this a 'pyramid' since it starts from one element to produce two construct poles which in turn produce four construct poles and finally eight construct poles.*

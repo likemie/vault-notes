@@ -102,7 +102,7 @@ updated: 2026-10-20
 >
 > *The second assumption is that of empiricism. We have already touched upon this viewpoint, which holds that certain kinds of reliable knowledge can only derive from experience. In practice, this means scientifically that the tenability of a theory or [[Hypothesis]] depends on the nature of the empirical evidence for its support. Empirical here means that which is verifiable by observation and direct experience; and evidence, data yielding proof or strong confirmation, in probability terms, of a theory or hypothesis in a research setting.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Positivism|实证主义]] — 经验主义是宽泛的认识论哲学立场；实证主义则是将经验主义推向极致的系统[[Scientism|科学主义]]哲学，包含社会工程与拒斥形而上学的特定历史纲领。
 > - 不等于 理性主义（Rationalism） — 理性主义主张真理主要源自先天理性演绎与公理推导；经验主义坚持一切理论必须经受后天感官经验与实证数据的裁判。
 > - 不等于 素朴经验论（Naive Empiricism） — 现代科学经验主义高度强调假说引导与概率检验，非漫无目的的杂乱感官事实罗列。

@@ -55,7 +55,7 @@ updated: 2026-10-15
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **1957–1958 — 形成筹备网络** 哈恩与达瓦尔联合英国工商、政治和教育界人士，筹备委员会把寻找校长置于校址和资金之前；1958 年邀请[[Desmond Hoare\|德斯蒙德·霍尔]]担任创校校长。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–4)]]
 > - **1961 — 确立校园与课程团队** 安东宁·贝斯的捐赠使圣多纳特城堡得以购入，德斯蒙德·霍尔与罗伯特·布莱克本形成领导团队，场地和人员增强了募款可[[Reliability\|信度]]。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 6–7)]]
 > - **1962 — 开学与课程实验** 首批招收 56 名男生，主要来自英国、斯堪的纳维亚和联邦德国；奖学金政策试图避免家庭支付能力成为录取障碍。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 8)]]

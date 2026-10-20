@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 加芬克尔对传统社会学秩序观发起根本性颠覆：社会秩序绝非外在于行动者的客观实体或预设法则，而是行动者在日常实践中运用常识技巧持续建构、维持并使之在理性上“可说明”（accountable）的实践成就。行动者绝非被动承受结构塑造的“文化笨蛋”（cultural dopes），而是主动解释情境的意义建构者。社会探究必须怀疑既定实在性，深入剖析日常生活的“惊人[[Indexicality\|索引性]]”（awesome indexicality）与[[Discourse|话语]]描述与情境互为因果的“[[Reflexivity\|反思性]]”（reflexivity），从参与者内部机制透视社会秩序的生成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 常人方法学的核心概念与操作机制
@@ -149,7 +149,7 @@ updated: 2026-10-20
 > - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观[[Conversation Analysis|会话分析]]（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research\|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
 > - **教育研究应用** 为教育[[Ethnography\|民族志]]与课堂微观研究提供了强大的分析透镜（如著名的课堂“草莓事件”，Walker & Adelman, 1975），揭示了师生互动中默会[[Indexicality\|索引性]]规则如何决定课堂控制与学业成败。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 详细剖析了加芬克尔常人方法学对社会秩序概念的解构、索引性与[[Reflexivity\|反思性]]原则，以及语言与情境常人方法学对教育探究的独特适切性。
 
 ---
@@ -182,7 +182,7 @@ updated: 2026-10-20
 > > - **理论学者立场** 警告若缺乏对认识论边界与真理标准的自我反思，常人方法学极易沦为一种盲目的[[Empiricism\|经验主义]]技术包。
 > > - **常人方法学学者回应** 坚称其核心旨趣原本就在于对现实操作的“不可言说的惊人[[Indexicality\|索引性]]”进行经验捕捉，拒绝用先验哲学教条束缚活生生的生活世界调查。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 评述了常人方法学因其方法论与田野技能优先导向，所导致的在本体论、认识论与人性深度理论建构上的相对不足与局限。
 
 ---

@@ -53,7 +53,7 @@ updated: 2026-10-16
 > - **核心角色** 西班牙当代比较教育研究与政策评论的关键奠基人；在欧洲一体化进程中系统审视西班牙教育的制度同质化、百年孤立主义传统、行政过度分权危机与质量短板。
 > - **代表贡献** 提出西班牙教育史中亲欧主义与孤立主义的双重张力；解构狂热地方分权造成的制度解体隐患；批判[[Comprehensive Education|综合中学制]]延长的均质化弊端。
 
-> [!citation-card]- 知识定位
+> [!citation-card] 知识定位
 > [[EU|欧洲联盟]]在教育事务上不过是其各个成员国的总和。成员国不仅从未赋予布鲁塞尔推行实质性共同教育政策的权力，而且在极力捍卫各自对本国教育体系排他性控制权的同时，仅仅不无抗拒地接纳共同行动导向。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 321)]]
 >
 > *The European Union, in educational matters, is none other than the sum of all its parts... The States which compose the European Union jealously keep exclusive control over their respective education systems.*
@@ -84,7 +84,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 西班牙教育现代化的关键瓶颈在于内部政治行政制度的解耦与政策反复推倒重来，而非单纯的财政投入匮乏；面对欧洲趋同诉求，盲目复制地方分权与延长均质综合中学的做法不仅未能实现教育质量提升，反而导致行政机构极度臃肿、学业失败率居高不下以及高校[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–333)]]
 
 > [!citation-card] [[Plaintive Comparison|诉苦式比较]]与政治发展滞后论

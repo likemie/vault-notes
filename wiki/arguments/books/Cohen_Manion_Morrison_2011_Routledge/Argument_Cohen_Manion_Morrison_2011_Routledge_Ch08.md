@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ---
 
-> [!note]- 变异性、量表类型与样本量
+> [!note] 变异性、量表类型与样本量
 >
 > - **总体变异性越大，所需样本越大** Gorard（2003, p. 62）指出，调查 IQ（范围约 70–150）这类高变异变量，可能需要比低变异变量更大的样本。
 > - **名义数据需要更大样本** Oppenheim（1992, p. 44）指出，名义数据的样本量可能需要比等距和比率数据更大，本质上是子组数量的问题，可能类别越多，样本越大。
@@ -772,37 +772,37 @@ Teddlie and Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 
 ## 关键引用
 
-> [!citation-card]- 抽样决策的核心
+> [!citation-card] 抽样决策的核心
 > 研究的质量不仅取决于方法论和工具是否恰当，也取决于所采纳的抽样策略是否合适。抽样问题直接来源于对研究将聚焦的总体的界定。（第8章，p.143）
 >
 > *The quality of a piece of research not only stands or falls by the appropriateness of methodology and instrumentation but also by the suitability of the sampling strategy that has been adopted. Questions of sampling arise directly out of the issue of defining the population on which the research will focus.* (Ch. 8, p. 143)
 
-> [!citation-card]- 经验丰富者与新手之别
+> [!citation-card] 经验丰富者与新手之别
 > 经验丰富的研究者从总体出发向下推导样本。相比之下，经验不足的研究者常从底部向上工作，即确定进行研究所需的最少受访者数量。然而，除非事先识别了总体，否则几乎不可能评估所抽取样本的代表性。（第8章，p.143）
 >
 > *Experienced researchers start with the total population and work down to the sample. By contrast, less experienced researchers often work from the bottom up, that is, they determine the minimum number of respondents needed to conduct the research.* (Ch. 8, p. 143)
 
-> [!citation-card]- [[Sample Size Determination\|样本量]]与统计功效
+> [!citation-card] [[Sample Size Determination\|样本量]]与统计功效
 > 功效是对你所使用的检验将[[Effect Size\|效应量]]与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
 >
 > *Power is an estimate of the ability of the test you are using to separate the effect size from random variation.* (Ch. 8, p. 152)
 
-> [!citation-card]- [[Sampling Error\|抽样误差]]的本质
+> [!citation-card] [[Sampling Error\|抽样误差]]的本质
 > 抽样误差不一定是抽样程序错误的结果。更确切地说，变异可能源于对不同个体的随机选择。（第8章，p.149）
 >
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
 
-> [!citation-card]- 样本量的复杂性
+> [!citation-card] 样本量的复杂性
 > 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Research Purpose\|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable\|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
 >
 > *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the [[Purpose Statement\|purpose of the study]], the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
 
-> [!citation-card]- [[Non-probability Sampling\|非概率抽样]]的价值
+> [!citation-card] [[Non-probability Sampling\|非概率抽样]]的价值
 > 小规模研究常使用非[[Random Sampling\|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行[[Questionnaire\|问卷]]试点时完全够用。（第8章，p.158）
 >
 > *Small-scale research often uses non-probability samples because, despite the disadvantages that arise from their non-representativeness, they are far less complicated to set up, are considerably less expensive and can prove perfectly adequate where researchers do not intend to generalize their findings beyond the sample in question, or where they are simply piloting a questionnaire as a prelude to the main study.* (Ch. 8, p. 158)
 
-> [!citation-card]- 目的适切性
+> [!citation-card] 目的适切性
 > 抽样策略的选择必须受适宜性标准支配。选择哪种策略必须考虑[[Research Purpose\|研究目的]]、时间尺度和约束、研究设计、数据收集方法和研究方法论。抽样选择必须对所有这些因素都恰当，效度才能得到保障。（第8章，pp.169–170）
 >
 > *The selection of a sampling strategy must be governed by the criterion of suitability. The choice of which strategy to adopt must be mindful of the purposes of the research, the timescales and constraints on the research, the research design, the methods of data collection and the methodology of the research. The sampling chosen must be appropriate for all these factors if validity is to be served.* (Ch. 8, pp. 169–170)

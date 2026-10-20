@@ -82,7 +82,7 @@ updated: 2026-10-20
 > - **核心角色** 当代科学实在论与因果哲学泰斗；将科学[[Philosophical Analysis in Education\|哲学分析]]工具深度介入公共政策与教育[[Evidence-Based Policy-Making|循证决策]]，系统批判纯粹以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为金标准的证据等级制，奠定了证据情境迁移（Evidence Travel）的[[Analytic Framework\|分析框架]]。
 > - **代表贡献** 提出 RCT 证据外推三阶段模型、因果机制支持性因素理论（Support Factors / INUS 条件），为教育循证实践中抵御“机械剪贴”并确立“情境[[Recontextualization\|再脉络化]]”提供了底层[[Epistemology\|认识论]]。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 卡特赖特的研究并非抽象形而上学推演，而是直接回应一项核心现实难题：在某处取得成功的政策或教学证据，凭什么能够在此时此地的全新课堂中奏效。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 10–11)]]
 >
 > *Cartwright's work directly addresses the practical challenge of [[External Validity]]: how evidence that an intervention worked "somewhere" can warrant claims that it will work "here and now."*
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Randomised Controlled Trials\|随机对照试验]]（RCT）的阳性结论仅证明干预措施在特定历史样本与特定协同因素支撑下“在某处有效”（It works somewhere），绝不等于它具有普适有效性或“在我们这里也能起效”（It will work here）。证据无法自动旅行（Evidence doesn't travel automatically）；从一项研究推论至本土课堂，必须透彻解构干预措施起效所必需的“行动理论”（Theories of Action）与本土“支持性协同因素”（Support Factors），将机械的“剪贴移植”转化为批判性的“情境[[Recontextualization\|再脉络化]]”。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 10–11)]]; [[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 
 > [!citation-card] 论 RCT 外推的根本[[Epistemology\|认识论]]局限
@@ -134,7 +134,7 @@ updated: 2026-10-20
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle\|学校探究循环]]（[[School Enquiry Cycle]]）中的证据转译协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization\|证据使用]]建构为深度的“因果行动理论调试”。
 > - **跨国政策辩论** 成为跨国批判单一“什么有效”（What Works）治理教条的权威哲学旗帜，与比斯塔（[[Gert Biesta]]）的[[Democratic Education\|民主教育]]学批判形成跨学科共振。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 系统评述卡特赖特哲学在教育中的应用，提出因果角色理论并批判英格兰[[School Inspection\|教育督导]]（[[Ofsted]]）推崇伪科学的历史。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰[[Self-Improving School System\|自我改进学校系统]]研究中，明确征引卡特赖特（Cartwright, 2013）的证据迁移理论，确立教师识别行动理论与支持性因素是防止陷入[[Activity Traps\|活动陷阱]]的必备专业能力。
 

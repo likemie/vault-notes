@@ -86,7 +86,7 @@ updated: 2026-10-20
 > - **用途** 为评估与培养逻辑推理、演绎证明、批判性论据权衡与事实查错提供测评构念与分析基准。
 > - **边界** 聚合思维关注推理的严密性、有效性与唯一收敛性，不负责开放式构想的广泛发散生成。
 
-> [!citation-card]- 关键表述：聚合思维与[[Higher-Order Thinking Skills\|高阶思维]]体系（[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al., 2026]]; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> [!citation-card] 关键表述：聚合思维与[[Higher-Order Thinking Skills\|高阶思维]]体系（[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al., 2026]]; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > [[Higher-Order Thinking Skills\|高阶思维]]既包括生成新颖观念的[[Divergent Thinking\|发散思维]]，也包括依据逻辑规则进行批判性分析与求证的聚合思维；两者在[[Scaffolding\|教学脚手架]]干预下表现出不同的认知敏感度与[[Effect Size\|效应量]]幅度。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
 >
 > *Higher-order thinking encompasses both divergent thinking that generates novel ideas and convergent thinking that critically analyzes and proves solutions according to logical rules...*

@@ -114,7 +114,7 @@ issuing_organization: ""
 > - **张力** 传统比较教育学中的“[[Methodological Nationalism\|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society\|网络社会]]中“[[Space of Flows\|流动空间]]”与“[[Space of Places|地方空间]]”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin\|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
 > - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语[[Recontextualization|再情境化]]（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。
 
-> [!boundary] 分析范围的边界
+> [!boundary]- 分析范围的边界
 > 本文不假设全球→国家→实践机构是唯一的流通路径。现实中存在绕过国家层面的全球学校网络直接进行交互，也存在对全球影响几乎不渗透的国家。本文的命题是探索性的，只勾勒一条特定的、但在当代最具典型性的话语流通路径，而不是关于这些语境互动的完备理论(p.348)。
 
 ---
@@ -172,7 +172,7 @@ Castells 据此区分了两种空间逻辑：
 > [!theory-use] 空间理论对教育分析的价值
 > 教育中的大部分议程设定（即界定受教育意味着什么）发生在流动空间中（如 [[OECD]] 巴黎总部、[[World Bank\|世界银行]]华盛顿办公室等）。但这些议程的目标是影响以地方为基础的教育政策和学校实践。因此，理解流动空间与地方空间逻辑的关系，是剖析当代教育治理的前提(p.349)。
 
-> [!boundary] 流动空间也有领土中心
+> [!boundary]- 流动空间也有领土中心
 > 流动空间并不是完全虚拟的。它的节点是真实的机构和个人：金融网络中的华尔街和伦敦，国际机构网络中的巴黎和华盛顿。比较教育面临的核心挑战在于理解构成全球教育空间的这些网络的政治和结构属性如何塑造其中被生产和再生产的话语类型，不在于信息技术本身(pp.349–350)。
 
 ---
@@ -262,7 +262,7 @@ Castells 据此区分了两种空间逻辑：
 
 ### 第一步：全球政策空间——网络逻辑与话语生产
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 在[[Space of Flows\|流动空间]]构成的[[Policy Network\|全球政策网络]]中，多元行动者在操演性逻辑和[[Pragmatic Paradigm\|实用主义]]驱动下进行项目结盟，强制生产出脱离历史经验、兼具稳定性与可塑性的“漂浮能指”话语，以期获取最大程度的跨语境可接受性。
 
 #### 1.1 谁在参与：多元行动者与流动的网络
@@ -307,12 +307,12 @@ Castells 据此区分了两种空间逻辑：
 > > [!exegesis]- 流动空间中的文化特质
 > > Castells（2000c, p.22）指出，在流动空间中，符号共存而不参照经验。文化成为“真实虚拟的文化”，混合一切并掏空任何具体信息在特定语境之外的意义(引自 p.353)。这系统性地决定了全球政策话语必须被抽象化为漂浮能指，其价值在于“可被用来说什么”，而非“说了什么”。
 
-> [!exegesis] 能力发展如何成为漂浮能指
+> [!exegesis]- 能力发展如何成为漂浮能指
 > 能力概念有其特定的历史起源。它来自企业管理和职业培训，与从泰勒制到丰田制（[[Post-Fordism|后福特主义]]）的转型相关。传统课程（OECD 1990, 100–101）中，教师拥有一套客观事实，学生只需记忆并在测试中复制，正确与错误非常明晰；而能力概念要求学生“用知识做事”，发展出智力和人际技能（UNESCO 1996; De Ketele 2008）。
 >
 > 但一旦这个话语进入全球政策空间，这些具体的历史起源（职业培训、经济效率、企业劳动控制）就被模糊化了。OECD 的报告中不谈工厂车间，只将能力抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。这种去历史化的“空洞”特征，正是它能够被全球广泛接受的原因(p.354)。
 
-> [!exegesis] 尊重多样性如何成为漂浮能指
+> [!exegesis]- 尊重多样性如何成为漂浮能指
 > 尊重多样性话语的兴起与西方政治哲学中文化同质性追求的退场有关。[[Postmodernism\|后现代主义]]削弱了以民族国家[[Geopolitics|地缘政治]]边界为基础的大叙事(Lyotard, 1984, 引自 p.354)。世界各地的社会运动积极挑战既有叙事在阶级、性别、族裔和文化方面的偏见，争取边缘身份的代表权。
 >
 > 但当尊重多样性在全球教育空间中被再生产时，它被剥离了这些具体的斗争语境，成为一个抽象口号。它可以指保护非裔美国人权利、妇女权利、宗教少数群体、原住民、移民、特殊需求儿童等一切边缘化概念。**同一个口号，可以被意识形态截然不同的政府在迥异的语境中转化为完全不同的政策与实践(pp.354–355)**。
@@ -327,7 +327,7 @@ Castells 据此区分了两种空间逻辑：
 
 ### 第二步：国家层面——全球话语与地方经验的并置
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 当国家在“网络国家”的权力协商和“舆论操控”的驱动下转译全球话语时，受领土附着性的制约，它通常无法彻底替换地方传统话语，而是通过并置不兼容的声明（如同时宣称学科整合与分科体系），制造出“革新包装、保守实质”的混合政策以换取各方妥协。
 
 #### 2.1 影响国家层级话语转译的结构性因素
@@ -380,7 +380,7 @@ Castells 据此区分了两种空间逻辑：
 
 ### 第三步：实践层面——一致性要求与物质条件的约束
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 在具体的学校实践中，政策话语的“模糊性”和“不一致”不再是政治博弈的机会，而是转化为严重的“行动障碍”。教师在转译这些话语时，不可避免地受到既有认知框架（如行为目标）的过滤，以及地方物质环境（如极端贫困）的强烈制约，从而导致原有全球理念发生深刻变形。
 
 #### 3.1 关键区别：从话语到实践的不可回避的转化
@@ -436,7 +436,7 @@ Castells 据此区分了两种空间逻辑：
 
 #### 3.4 实践层面转化的三条原则
 
-> [!lessons]- 实践层面转化的三条原则(p.361)
+> [!lessons] 实践层面转化的三条原则(p.361)
 > 1. **一致性原则** 抽象且矛盾的全球政策话语在转化为实践时必须具有行动一致性。在国家和全球层面，矛盾是政治灵活性资源，但在课堂层面，矛盾则成为教师和学生均无法绕开的行动障碍。
 > 2. **既有话语的中介原则** 实践者基于所处语境中已有的、可用的意义框架（如行为目标、布鲁姆分类学）来解释和重组新话语。新话语被旧框架吸收和转化，而非直接替换旧框架。
 > 3. **物质条件的约束原则** 地方特定的物质环境（如社会经济条件、学校资源和学生处境）直接约束并影响了实践者对全球话语的解读。如布宜诺斯艾利斯中产阶级教师将尊重多样性解读为对贫困现状的默许。
@@ -458,27 +458,27 @@ Castells 据此区分了两种空间逻辑：
 
 ## 关键引用
 
-> [!citation-card]- [[Global Policy Space\|全球政策空间]]的定义
+> [!citation-card] [[Global Policy Space\|全球政策空间]]的定义
 > 正是这些网络构成了我所称的“全球政策空间”。我指的是这样一个空间：在其中，不局限于单一国家空间的多元行动者相互互动、交换信息并建立伙伴关系，以定义他们所认为的共同教育问题并提出全球解决方案。(p.350)
 >
 > *“It is these networks that constitute what I shall call a 'global policy space'. By this I refer to a space in which a variety of actors who are not tied to a single national space interact, exchange information and establish partnerships to define what they perceive to be common educational problems and propose global solutions.”*
 
-> [!citation-card]- 全球[[Discourse|话语]]的策略性设计
+> [!citation-card] 全球[[Discourse|话语]]的策略性设计
 > 在全球教育政策空间中生产和再生产的话语需要精细的设计，以便在倡导这些话语时，能够让不同意识形态的组织开展合作。此外，这些话语通常结合了不兼容的陈述，以寻求在不同文化、意识形态、社会经济和政治脉络中的可接受性。(pp.352–353)
 >
 > *“Thus, discourse produced and reproduced in the global policy space of education requires a sophisticated elaboration that would allow for collaboration between organisations with different ideologies in its advocacy. In addition, these discourses often combine incongruent statements in the search for acceptability in different cultural, ideological, socio-economic and political contexts.”*
 
-> [!citation-card]- 全球话语的沟通力量
+> [!citation-card] 全球话语的沟通力量
 > 这些话语的沟通力量恰恰在于稳定性与可塑性之间，以及话语限制与重新解释之间的复杂结合。(p.355)
 >
 > *“The communicative power of these discourses resides in this complex combination between stability and malleability, and between discursive limitations and reinterpretation.”*
 
-> [!citation-card]- 实践层面的不一致障碍
+> [!citation-card] 实践层面的不一致障碍
 > 在将政策话语转化为实践的过程中，不一致是一个障碍，而不是政治谈判的机会。(p.359)
 >
 > *“In the process of transformation of policy discourse into practice, incoherence is an obstacle and not an opportunity for political negotiation.”*
 
-> [!citation-card]- [[Space of Flows\|流动空间]]中的符号特征
+> [!citation-card] [[Space of Flows\|流动空间]]中的符号特征
 > 任何被赋予的意义都会瞬间过时，被无数不同的观点和替代代码重新处理。(Castells, 2000c, p.22, 引自 p.353)
 >
 > *“Any assigned meaning becomes instantly obsolete, reprocessed by a myriad of different views and alternative codes.”*

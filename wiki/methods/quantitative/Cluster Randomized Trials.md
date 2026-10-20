@@ -95,7 +95,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 分配单位为第二层集群（Level-2，学校/班级），测量单位为第一层微观个体（Level-1，学生）。
 > - **输出形式** 多层线性模型（HLM）[[Fixed-Effect Model|固定效应]]估计值、群组内相关系数（ICC / $\rho$）、设计效应（Design Effect）、校正后标准误与调整后[[Effect Size\|效应量]]（Hedges' $g$）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 当干预措施必须在自然组织单元（如学校或班级）整体实施，或者个体间存在严重的干预溢出污染时，集群随机化是唯一的实验选择。然而，分析单位与分配单位的错位构成了严峻的统计挑战，必须显式建模集群层级的变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, p. 317)]]
 >
 > *Cluster randomized trials assign intact social units rather than individuals to experimental conditions. While preventing treatment spillovers in classroom settings, they introduce positive intraclass correlation that inflates [[Type I and Type II Errors\|Type I error]] rates if not modeled through multilevel hierarchical frameworks.*

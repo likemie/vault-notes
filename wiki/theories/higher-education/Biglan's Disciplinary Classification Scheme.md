@@ -61,7 +61,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 学术学科的本质差异可由三个基本维度所定义：范式共识程度（硬科学 vs. 软科学）、对实际应用的关切（纯科学 vs. 应用科学）以及研究对象是否具有生命特征（生命科学 vs. 非生命科学）。处于不同维度象限的学科展现出截然不同的认识论文化、教学规范与社会化机制。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 351–352)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 早期研究报告显示，硬科学领域的学生往往比软科学领域的学生表现出更不成熟的[[Epistemological Beliefs\|认识论信念]]。这种领域特定差异可能源于自我选择过程，也可能源于社会化效应。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 363)]]
 >
 > *Earlier studies have reported that students in hard fields tend to exhibit less sophisticated epistemological beliefs than students in soft fields. Such [[Champ\|field]]-specific differences in results may [[STEM Education\|STEM]] from self-selection processes or from socialization effects.*

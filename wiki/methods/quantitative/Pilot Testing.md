@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 不同实证[[Paradigm|范式]]对预测试的侧重各有区别。
 
-> [!note]- 调查与实验中的预测试差异
+> [!note] 调查与实验中的预测试差异
 > - **[[Survey Research|调查研究]]** 预测试主要评估[[Questionnaire|问卷]]对目标群体的文化适用性、条目内部一致性、措辞与版面清晰度以及整体施测耗时（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 152]]）。
 > - **[[Experimental Research|实验研究]]** 预测试除检验测量工具外，重心在于检验[[Independent Variable|自变量]]操纵材料（如实验指导语、多媒体教学干预课件）是否真实诱发预期的心理状态，并评估主试标准化操作培训的充分性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 165]]）。
 

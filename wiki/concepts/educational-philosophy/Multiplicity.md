@@ -69,14 +69,14 @@ updated: 2026-09-23
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > 多重性概念植根于 Massey 对 20 世纪末全球化讨论的介入。她反对两种对立的简化论：一是"全球同质化"论（认为全球化使世界变得相同），二是"地方抵抗"论（认为地方文化可以免疫于全球化）。Massey 的贡献在于提出第三种立场：全球化通过连接来分化世界——更多接触产生更多差异而非更少。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一逻辑应用于高等教育，指出[[International Education\|国际教育]]的扩张并未导致全球大学的同质化，各国系统的差异反而更加显著([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 5–7]])。
 
 ---
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放[[Ontology\|本体论]]之上，详见 Massey > 核心思想
 > - Lefebvre（1991）[[Space Production\|空间生产]]理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的[[Open-Mindedness|开放性]]和未完成性
 

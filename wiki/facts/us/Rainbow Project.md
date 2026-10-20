@@ -54,7 +54,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2006 — 研发[[Creativity\|创造力]]与实践能力测验模块** 研制包含幽默图说配文字（Cartoon Captioning）、开放标题故事创作（Story Writing）、口头故事叙述与真实生活情境[[Problem Solving\|问题解决]]的任务题库。
 > - **2006 — 在全美 1,000 余名受测者中开展施测** 覆盖全美 15 所院校的 1,013 名学生，实施 SAT + 彩虹项目补充测验。
 > - **2006–2009 — 纵向追踪与万花筒项目（Kaleidoscope Project）拓展** 追踪大一学业 [[Academic Achievement\|GPA]] 表现，并在塔夫茨大学本科全日制录取中正式应用拓展版。
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 彩虹项目实证结论
+> [!citation-card] 彩虹项目实证结论
 > [[Creativity\|创造力]]与实践能力测验不仅完全可行，而且能够大幅提高大学招生的[[Predictive Validity\|预测效度]]并促进教育公平。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 34)]]
 >
 > *Adding assessments of creative and practical abilities to the SAT roughly doubled the prediction of first-year college [[Academic Achievement\|academic performance]] (GPA) while substantially reducing adverse impact on racial and ethnic minority applicants.*

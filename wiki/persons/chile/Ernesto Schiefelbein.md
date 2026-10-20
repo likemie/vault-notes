@@ -61,7 +61,7 @@ updated: 2026-10-16
 > - **核心角色** 战后拉丁美洲教育规划、教育投资收益评估与教育普及化追踪的领军统计学家；系统建立了评估拉美教育系统民主化与公平性的量化指标体系；其详实的历史统计为批判学者解构拉美教育扩张繁荣下的深层结构性矛盾提供了不可或缺的实证基准。
 > - **代表贡献** 提出评估拉美教育民主化进程的五项核心成就基准（1998）；长期主持 UNESCO/CEPAL 拉美教育发展报告；出版《为拉丁美洲民主筹措教育资金》（1998）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论席费尔拜因对拉美教育民主化成就的总结
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论席费尔拜因对拉美教育民主化成就的总结
 > 埃内斯托·席费尔拜因指出，在 20 世纪的最后四十年中，拉丁美洲通过以下五个方面在迈向教育民主化道路上取得了显著进展：(1) 扩大绝大多数达到学龄儿童的受教育机会；(2) 延长法定修业年限；(3) 改善学龄儿童按时入学率；(4) 为越来越多处于不利境地的儿童提供早期保育；(5) 增加最低限度资源投入保障并消除社会阶层分轨。然而，这些历史成就的背后，却面临着新兴全球经济体制与外围依附结构的根本挑战。[[Argument_Olmos_Torres_2009_StateTheories|(Schiefelbein, 1998; Olmos & Torres, 2009, pp. 81–82)]]
 >
 > *Ernesto Schiefelbein has argued that in the last four decades of the last century, Latin America made significant progress toward democracy by "(i) expanding access to education for most the children reaching school age; (ii) extending the years of schooling; (iii) improving timely entrance to school, (iv) providing early care to an increasing number of deprived children, and (v) increasing the provision of minimum inputs and eliminating tracks for social levels."*
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 席费尔拜因的核心思想在于**坚持以扎实可靠的宏观教育统计为基础，评估国家在履行教育民主承诺中的真实制度作为**。他充分肯定了拉美国家在战后数十年间通过普及学额、延长学制和消除法定阶级分轨所取得的客观历史进步；但与此同时，他的实证调查也清晰揭露：若缺乏持续充足的公共财政支持和针对弱势儿童的精准早期关照，单纯的学额扩张极易在资本积累放缓与外部债务紧缩中发生畸变，沦为高阶文凭繁荣与底层文盲并存的断裂结构。
 
 > [!citation-card] 拉美战后四十年教育民主化的五项客观成就

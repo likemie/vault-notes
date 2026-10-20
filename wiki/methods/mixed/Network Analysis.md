@@ -97,7 +97,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整跨组织/跨国政策全网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）。
 
-> [!citation-card]- 关键定义：社会网络分析的结构解释力
+> [!citation-card] 关键定义：社会网络分析的结构解释力
 > 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，解释人们行为的关键不在于其孤立的个体属性，而在于其所嵌入的社会网络结构规律。
 >
 > *Social network analysis seeks to measure and map the structural regularities of relationships among social entities... The core [[Hypothesis]] is that these macro-structural relations explain people’s behaviour more powerfully than traditional individual categories.*（Knoke & Yang, 2008，引于 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, p. 625]]）

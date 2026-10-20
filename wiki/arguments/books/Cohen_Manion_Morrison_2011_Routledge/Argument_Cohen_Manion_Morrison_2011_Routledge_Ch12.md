@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 概念地图
 
-> [!knowledge-map]- 第12章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第12章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_12_Concept_Map.jpg)
 
 ## 章节内容
@@ -102,7 +102,7 @@ updated: 2026-10-20
 >     G --> H
 > ```
 
-> [!example]- 图12-1 历史与[[Documentary Analysis\|文献研究]]的核心问题
+> [!example] 图12-1 历史与[[Documentary Analysis\|文献研究]]的核心问题
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_12-1_Chapter_Overview.jpg)
 
 ### 12.1 历史与文献研究的三个知识领域
@@ -197,7 +197,7 @@ updated: 2026-10-20
 
 一手文献和二手文献的基本区分（前者是事件的直接记录，后者是对前者的分析阐述）在实践中被四种情形复杂化：
 
-> [!boundary] 一手/二手区分的四种模糊地带
+> [!boundary]- 一手/二手区分的四种模糊地带
 > - **自传（autobiography）**
 >   作者是事件的目击者或参与者（具备一手特征），但通常在生产于事件发生数年乃至数十年之后，受到记忆偏差和选择性回忆的深刻影响。同时，自传往往试图分析作者所经历的时代变迁，因此在相当程度上也发挥着二手文献的功能（如 Hobsbawm, 2002 的自传《Interesting Times》，既是个人的生活史记录，也是对20世纪历史的分析性阐释）。
 > - **学术著作（scholarly works）**
@@ -427,7 +427,7 @@ Jupp and Norris（1993）将文献分析的多元理论路径归纳为三种一�
 > | Data Protection Act (1998) | 规范个人信息的使用、存储和处理 | 限制了含个人信息的近期文献（如学生记录）的使用方式 |
 > | Freedom of Information Act (2005) | 规范政府和机构记录的获取权 | 拓展了研究者获取官方文献的法定权利，但存在豁免条款 |
 
-> [!note]- 跨国差异
+> [!note] 跨国差异
 > 各国对档案访问的限制程度存在显著差异。相比之下，新西兰等国对档案的访问限制远没有那么严格，这使得研究更近期的教育和政策记录成为可能，拓宽了历史研究可以触及的时间范围。研究者在跨国研究中必须对不同司法管辖区的法律要求保持敏感。
 
 ---
@@ -450,37 +450,37 @@ Jupp and Norris（1993）将文献分析的多元理论路径归纳为三种一�
 
 ## 关键引用
 
-> [!citation-card]- 论[[Documentary Analysis\|文献分析]]的核心立场
+> [!citation-card] 论[[Documentary Analysis\|文献分析]]的核心立场
 > 文献一旦被找到和检视后，不会自己说话，它们需要经过仔细的分析与阐释。（第12章，p.17）
 >
 > *Documents once located and examined do not speak for themselves but require careful analysis and interpretation.*
 
-> [!citation-card]- 论历史与文献研究的三重功能
+> [!citation-card] 论历史与文献研究的三重功能
 > 历史与文献研究有能力照亮过去、揭示随时间展开的连续性与变迁模式，以及追溯当前结构与关系的起源。（第12章，pp.22–23）
 >
 > *Historical and documentary research has the capacity to illuminate the past, patterns of continuity and change over time, and the origins of current structures and relationships.*
 
-> [!citation-card]- 论专业历史学家的标志
+> [!citation-card] 论专业历史学家的标志
 > 处理文献来源材料被广泛视为专业历史学家的标志。（Scott, 1990, p. 1，转引自第12章，p.11）
 >
 > *Handling [[Document|documentary source]] material is widely seen as the hallmark of the professional historian.*
 
-> [!citation-card]- 论[[Archival Research\|档案研究]]的现实
+> [!citation-card] 论[[Archival Research\|档案研究]]的现实
 > 你整天坐着阅读，以这个行业的特定方式阅读，以节省时间和金钱，并确信在你破译的一千行笔迹中，你也许只会用到一两行。（Steedman, 2001, p. 29，转引自第12章，p.16）
 >
 > *You [[Schulen im Team|SiT]] all day long, reading in the particular manner of the trade, to save time and money, and in the sure knowledge that out of the thousand lines of handwriting you decipher, you will perhaps use one or two.*
 
-> [!citation-card]- 论文献的不完整性
+> [!citation-card] 论文献的不完整性
 > 存在未跟进的事件的挫败感、未被明确识别的个人、含糊不清的叙述，或那些刚好遗漏了最被迫切寻求的细节的丰富记录。（Andrew, 1985, p. 156，转引自第12章，p.16）
 >
 > *There is the frustration of events reported without follow up, individuals not clearly identified, ambiguous [[Accounts]] or those which provide a wealth of detail except that which is desperately sought.*
 
-> [!citation-card]- 论文献的[[Linguistic Turn\|语言学转向]]分析
+> [!citation-card] 论文献的[[Linguistic Turn\|语言学转向]]分析
 > 文献应被理解为与文本生产的符号学相关：意义如何在文本中制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、[[Discourse|话语]]共同体在文本接受中的角色等。（Cohen, 1999, p. 81，转引自第12章，p.18）
 >
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
 
-> [!citation-card]- 论档案作为活生生的知识
+> [!citation-card] 论档案作为活生生的知识
 > 肯尼亚国家档案馆是"历史与人种学知识的蓄水池和活生生的实例"，提供的不止是"布满灰尘的文献"，而是"在其空间和结构中、在其使用者的目标和理念中、以及在其围墙内进行的各种形式的流行和专业实践中体现的历史"。（Carotenuto & Luongo, 2005, pp. 445–446，转引自第12章，p.15）
 >
 > *A reservoir and living example of historical and ethnographic knowledge ... history in its very space and structure, in the aims and ideas of its users, and in the various forms of popular and professional practice carried out within its walls.*

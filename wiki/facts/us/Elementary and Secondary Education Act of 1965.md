@@ -76,7 +76,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 法案通过确立以第一条款为核心的联邦补偿性财政拨款杠杆，开创了联邦政府以专项经费捆绑教育高标准、证据要求与问责规约的治理模式，奠定了美国现代基础教育公平与实证政策介入的制度根基。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 弥补贫困处境不利学生的学业差距，通过联邦专项转移支付打破贫困与低[[Academic Achievement\|学业成就]]之间的恶性代际循环，促进公立教育资源均衡分配。
 > - **核心法定分编架构（Titles）**
 >   - **第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]: Financial Assistance to LEAs for the Education of Children of Low-Income Families）** 法案最核心且预算最庞大的支柱，向贫困家庭集中的地方学区提供公式补偿拨款，重点支持弱势学生的学业补救项目。
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!dev-timeline]- 母法演进与历次重大重新授权
+> [!dev-timeline] 母法演进与历次重大重新授权
 > - **1965** 约翰逊总统签署初等与中等教育法（ESEA, P.L. 89-10），确立第一条款等五大分编，奠定联邦补偿性财政支持框架。
 > - **1968–1994** 经历多次定期重新授权（Reauthorization），陆续扩充第七条款（双语教育）及第九条款；1994 年克林顿政府签署《改善美国学校法案》（IASA），首次将基于标准的改革理念引入 ESEA。
 > - **2001** 乔治·W·布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），实现 ESEA 历史上干预性最强的重大修订，首次将“[[Scientifically Based Research\|基于科学的研究]]”（SBR）作为刚性法定义务写入法条，强力推行年度全员标准化测试与严苛的“年级[[Adequate Yearly Progress|充分学业进展]]”（AYP）问责。
@@ -112,7 +112,7 @@ updated: 2026-10-16
 > - **地方学区执行层** 全美 13,000 余个地方教育机构（LEAs）与公立学校，根据 [[Title I of the Elementary and Secondary Education Act\|Title I]] 等条款准则设计教学改进方案并负责资金合规落地。
 > - **核心治理工具** 公式专项拨款（Formula Grants）、全州[[Academic Achievement\|学业成就]]问责测试标准、分级证据选用指南与联邦监督审计。
 
-> [!pathways]- 证据规制路径的历史演变
+> [!pathways] 证据规制路径的历史演变
 > - **资源补偿驱动阶段（1965–2000）** 政策重心侧重于财政投入的公平性与合规性审查，主要防范联邦资金被地方挪用或替代既有州财政支出。
 > - **[[Technical Rationality\|技术理性]]与实验硬规约阶段（2001–2014）** [[No Child Left Behind Act 2001\|NCLB]] 推动严苛的技术理性进路，将[[Randomised Controlled Trials\|随机对照试验]]推上唯一黄金标准宝座，试图通过标准化问责倒逼学校达标，但在多州诱发了“为测而教”与舞弊等政策异化。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 > - **分级证据与情境激励阶段（2015 至今）** [[Every Student Succeeds Act\|ESSA]] 转向发展型政策进路，设立四级证据阶梯，允许地方学区在严谨实验证据、准实验证据、相关证据与理论[[Logic Model\|逻辑模型]]之间根据本地需求灵活抉择。

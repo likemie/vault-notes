@@ -71,7 +71,7 @@ updated: 2026-10-20
 >
 > *"if the Prussian schoolmaster could Teach reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could 'copy his modes of teaching these elements, without adopting his notions of passive obedience to government' (Mann, 1844). He argued that human faculties were the same everywhere. The best means for their growth and development would therefore also be the same, and good schools can be used to strengthen the democratic and republican spirit in America."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Policy Borrowing]] — [[Policy Borrowing|政策借用]] 指涉跨国吸纳政策模型的整体过程；而可分性命题则是为该过程在面临“政治体制冲突”时提供合法性论证的核心认识论支柱。
 > - 不等于 [[Value Neutrality]] — [[Value Neutrality|价值中立]] 预设科学研究不作价值判断；而可分性命题承认外来体制具有负面政治价值（恶政），强调的是能动主体具备甄别、剔除恶政并注入民主新价值的能动性。
 

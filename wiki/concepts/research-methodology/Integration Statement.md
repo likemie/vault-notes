@@ -49,7 +49,7 @@ updated: 2026-06-02
 
 ## 写作脚本
 
-> [!tip]-
+> [!tip]
 > 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**
@@ -83,12 +83,12 @@ updated: 2026-06-02
 
 ## 设计选择流程图
 
-> [!example]- 图10.7：基于意图选择设计类型的流程图
+> [!example] 图10.7：基于意图选择设计类型的流程图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-7_Flowchart_for_Choosing_Design_by_Intent.jpg)
 
 图 10.7 的决策链：是否同时收集量化和质性数据？→ 是比较两个数据库还是让一个建立在另一个之上？→ 比较 → 聚敛式；建立在另一个之上 → 质性到量化 → 探索性序列；量化到质性 → 解释性序列 → 是否用核心设计增强一个框架或过程？→ 复杂设计。
 
-> [!example]- 图10.8：基于程序选择设计类型的流程图
+> [!example] 图10.8：基于程序选择设计类型的流程图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-8_Flowchart_for_Choosing_Design_by_Procedure.jpg)
 
 图 10.8 的决策链：是否同时收集量化和质性数据？→ 是合并数据还是连接数据？→ 合并 → 聚敛式；连接 → 质性在先 → 探索性序列；量化在先 → 解释性序列 → 是否将核心设计嵌入更大的过程或框架？→ 复杂设计。

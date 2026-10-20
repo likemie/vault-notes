@@ -64,7 +64,7 @@ updated: 2026-10-20
 >
 > *However, in the US at the post-secondary level, by and large, the overall problematization does not shift from what we have seen at primary and secondary levels: student mobility becomes 'multiple institution attendance' and is seen as a complicating factor, typically with adverse effects on degree completion and sector-wide efficiency (Pusser & Turner, 2004).*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 欧洲学生流动** 欧洲依托[[Erasmus Programme|伊拉斯谟计划]]和 ECTS 学分系统，在制度上消除了跨校壁垒并将流动编码为全欧一体化资产；美国多机构就读多为学生个体在割裂的院校间自行摸索，承受高昂的学分折损与行政阻力。
 > - **不等于海外留学（Study Abroad）** 在美国，海外留学被官方话语命名为“国际交流”并赋予精英文化光环；而国内多机构就读则被剥离了社会救赎叙事，沦为冰冷的效率统计负担。
 

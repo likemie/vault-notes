@@ -87,7 +87,7 @@ updated: 2026-10-16
 > - **大学协作** 大学伙伴同时提供较低成本设施和学术联系。
 > - **全球服务** 英国的业务中心与日内瓦总部、区域办公室共同组成按功能分权的 [[International Baccalaureate|IBO]] 结构。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 166–168, 186–187)]]
 
-> [!stat-cards] 1985 年人员规模
+> [!stat-cards]- 1985 年人员规模
 > - **20+** 名全职人员承担常设考试行政。
 > - **4–5** 名兼职人员在两个装卷和答卷核对高峰期加入。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 187)]]
 

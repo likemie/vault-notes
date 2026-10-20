@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Darwish 主张教育是一种政治行为（political act），教育的终极目标在于追求[[Buen Vivir\|美好生活]]与公共善。真正的[[Active Learning\|主动学习]]必须超越形式上的[[Critical Thinking\|批判性思维]]与探讨，赋予学习者结合[[Conscientization\|批判意识觉醒]]与改造现实不公的实践能力 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 10)]]。
 
 ---

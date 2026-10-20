@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline]- 知识银行演变轨迹
+> [!dev-timeline] 知识银行演变轨迹
 > - **1968–1981 — 麦克纳马拉时代的智力投资与制度奠基** 罗伯特·麦克纳马拉（Robert McNamara）执掌[[World Bank|世行]]期间，大幅扩充教育借贷规模并组建中央经济研究团队，建立[[Return on Investment|教育投资回报率]]（Rate of Return on Education, RORE）实证计量传统，奠定了日后知识银行转型的人才储备与实证数据基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1980 — 《教育部门政策文件》与[[UNESCO|教科文组织]]决裂** 世行正式发布具有里程碑意义的政策白皮书，单方面终结此前与联合国教科文组织长达 16 年的《合作协定》，确立了以[[Human Capital Theory|人力资本理论]]与[[Cost-Benefit Analysis|成本效益分析]]为核心的自主教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1989 — [[World Development Indicators|世界发展指标]]（World Development Indicators, WDI）确立[[Governing by Numbers|数字治理]]基础** 正式以数据库形式发布世界发展指标，[[Performance Indicators|教育指标]]从最初的 116 项扩展至 1,600 余项，开创跨国量化监测先河，构成了知识银行依托数据重塑全球政策议程的统计基础。

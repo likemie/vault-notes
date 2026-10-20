@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **用途** 用于分析传统教育如何通过单向灌输消解学习者的批判主体性，以及解放教育如何通过对话与[[Problem-Posing Education\|提问式教育]]重建个体的声音与能动性。
 > - **边界** 沉默文化并非被压迫者的天然属性，而是特定权力梯度与知识压迫所造成的社会后果。
 
-> [!citation-card]- 关键表述：打破沉默文化与成长的本质
+> [!citation-card] 关键表述：打破沉默文化与成长的本质
 > 批判意识的觉醒与成长，意味着被压迫者不再作为他人决定的客体，而是打破‘沉默文化’，学会说出自己的词语、命名世界并改变世界。（Freire & Macedo, 1987, p. 159; 引自 Darwish, 2009, p. 7）
 >
 > *Growth can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
@@ -111,5 +111,5 @@ updated: 2026-10-20
 > | [[Problem-Posing Education]] | 概念 | 打破沉默文化的教学中介与提问[[Paradigm\|范式]]。 |
 > | [[Freedom of the Learner]] | 概念 | 摆脱沉默文化后的终极学习者自由状态。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]论述沉默文化的破除与[[Active Learning\|主动学习]]中的生长/成长。

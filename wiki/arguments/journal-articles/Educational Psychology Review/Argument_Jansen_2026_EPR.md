@@ -165,7 +165,7 @@ issuing_organization: ""
 
 ### 论证步骤一　传统单一人类提取基准存在系统性偏误，需通过专家双轮仲裁确立无偏金标准
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 以往人工智能[[Evaluation Research\|评估研究]]简单将单一人类提取作为无误差的基准真值，掩盖了人类单方编码中的固有失误；必须通过专家交叉复核与两阶段仲裁建立客观金标准。（pp. 3, 9–10）
 
 #### 1. 研究全流程设计与三阶段实施路径
@@ -173,7 +173,7 @@ issuing_organization: ""
 > [!goal] 研究设计目标
 > - **核心动机** 在开展[[Meta-meta-analysis\|二阶元分析]]时，数据提取是决定证据质量的生命线环节。以往研究直接将单一人工录入作为无偏基准，掩盖了人类编码的固有疏漏；本研究设计严密的三阶段程序，建立客观金标准以解构机器与人类的真实误差形态。
 
-> [!example]- 图1：研究程序示意图
+> [!example] 图1：研究程序示意图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig1_Study_Procedure.jpg)
 
 该流程图系统展示了从数据准备、模型推断到专家仲裁的完整复现闭环。研究团队在提取提示词中固化了精确的代码簿规则与优先级，并在独立的 10 篇试点文献上完成了提示词优化，确保推断过程与测试样本完全隔离。（pp. 8–10）
@@ -193,14 +193,14 @@ issuing_organization: ""
 
 ### 论证步骤二　大语言模型在统计量提取上达到人类专家水平且各模型间高度收敛
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 大语言模型在[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]提取上的统计分布与仲裁金标准高度重合，[[Intraclass Correlation Coefficient\|组内相关系数]]与一致率全面达到甚至部分超越人类专家水平。（pp. 16–19）
 
 #### 1. 总体统计分布对齐性检验
 
 实证分析首先通过[[Violin Plot|小提琴图]]检验各编码主体提取数据的宏观分布特征。
 
-> [!example]- 图2：效应量、研究数与参与者人数分布小提琴图
+> [!example] 图2：效应量、研究数与参与者人数分布小提琴图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig2_Violin_Plots.jpg)
 
 > [!warrant]- 图2 支持分布对齐主张的推理
@@ -228,7 +228,7 @@ issuing_organization: ""
 
 为了进一步厘清多方一致性的深层结构，研究采用[[UpSet Plot|集合交集图]]剖析了 468 个数据点的组合重叠分布。
 
-> [!example]- 图3：人类编码员、LLMs与金银标准之间一致性交集的 UpSet 图
+> [!example] 图3：人类编码员、LLMs与金银标准之间一致性交集的 UpSet 图
 > ![](https://img.mylikemie.icu/sources/Jansen_2026_EPR/figures/Jansen_2026_EPR_Fig3_UpSet_Plot.jpg)
 
 > [!warrant]- 图3 支持共识模式主张的推理
@@ -238,7 +238,7 @@ issuing_organization: ""
 
 ### 论证步骤三　提取误差主要由复杂计算与报告模糊性驱动，人机协同工作流实现效率与精度的帕累托最优
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 大模型的错误并非源于事实捏造，而是受限于分散数据累加与原文报告模糊性；建立多模型共识结合专家仲裁的混合架构能够兼顾效率飞跃与质量问责。（pp. 18, 20–25）
 
 #### 1. 错误形态解构：幻觉罕见而遗漏与多表计算居多

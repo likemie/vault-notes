@@ -190,7 +190,7 @@ updated: 2026-10-20
 > > - **定量评价研究者（2018）** 担忧[[Heterogeneity\|异质性]]剧增削弱因果结论的外在效度。
 > > - **Rickinson 等人（2022）** 强调教育实践以解决本土实际问题为第一要义，评估[[Paradigm\|范式]]应当适应情境复杂性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 144)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 指出在教育领域推行 DSF 需同步建设教师的[[Research Literacy\|研究素养]]与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]，否则易滑入形式主义调适。
 
 ---

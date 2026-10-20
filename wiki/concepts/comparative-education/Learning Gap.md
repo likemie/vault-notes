@@ -55,7 +55,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > ### 研究背景
 
 在 1970 年代末之前，几乎没有关于西方与东亚学习者学习信念或成就动机的比较研究。David McClelland 于 1963 年宣称传统中国人缺乏成就动机，但共产主义意识形态赋予了他们革命热情。此后近二十年间该领域沉寂，直到[[International Education|国际教育]]成就评估显示日本学生在数学和科学上的表现超越许多西方国家，这一意外结果才催生了对东亚学校和儿童学习的研究兴趣([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。
@@ -109,7 +109,7 @@ Hess and Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge\|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models\|文化模型]]的重要实证基础之一，特别是努力归因与 [[Learning Virtues\|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
 > - [[Western Learner]] — 能力归因与西方模型中"区分最有能力者与普通者"的倾向([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])一脉相承
 > - [[Confucian Learning Tradition]] — 东亚的努力归因可追溯至儒家传统中"人人皆可为尧舜"的平等主义——天赋差异存在，但不决定学习结果([[Argument_Li_2012_Cambridge\|Li, 2012, pp.49-52]])

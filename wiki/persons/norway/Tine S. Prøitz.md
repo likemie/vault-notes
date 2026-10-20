@@ -82,7 +82,7 @@ updated: 2026-10-20
 > - **核心角色** 北欧教育改革评估与长效[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）理论化关键节点；受瑞典国家委托领衔评估瑞典 ULF 国家试点工程（覆盖 25 所高校与 150 余市镇）；在国际学界确立了超越二元对立的[[Third Space Discourse\|第三空间话语]]协作模型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220)]]
 > - **代表贡献** 提炼并构建 RPP 运行的六项结构性主张与第三空间[[Discourse|话语]]体系；系统剖析校本科研防范向纯事务性改进退化的“发展性漂移”防线；明确确立一线教师作为实践审议把关专家而非初级科研工人的分工准则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 蒂内·S·普勒茨对瑞典 ULF 试点的实证评估为[[International Education\|国际教育]]界重构研究与实践关系提供了深刻的理论洞见，其提出的第三空间话语成为超越“填补鸿沟”天真隐喻的经典范本。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 >
 > *Tine S. Prøitz has provided profound theoretical insights for reconstructing research-practice partnerships through her empirical evaluation of the [[Swedish ULF Project]], establishing third space discourse as a seminal [[Paradigm]] that moves beyond the naive gap-filling metaphor.*
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 长期以来政策界将研究与实践的脱节简单描述为“需要被填补的鸿沟”，这一浅薄隐喻不仅无法解决问题，反而导致了强制抹平差异的同化迷思。大学研究者与中小学教师在思维语言、行动节奏与价值取向上天然不同，正是这种固有差异构成了彼此独特的专业价值。成熟的伙伴关系决不能强求教师成为兼职科学家，而是必须在持续平等的交流中构建拥有共同语言的“[[Third Space Discourse\|第三空间话语]]”（Third Space [[Discourse]]），在保障实践者主体权利的同时，由学者严格坚守学科严谨性以防范协作退化为纯事务性组织开发。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
 
 > [!citation-card] 超越鸿沟隐喻并构建第三空间话语
@@ -142,7 +142,7 @@ updated: 2026-10-20
 > - **政策路径** 评估直接影响了瑞典政府关于将 ULF 试点从过渡期正式转为国家永久性教育法制基础设施的重大决议。
 > - **跨国传播** 深刻影响了北欧及 [[OECD]] 国家在构建大学-中小学教师教育协同网络中的制度设计，成为反思实践科研异化的权威文献。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 详细记录了普勒茨基于瑞典 ULF 5 年实证追踪所提炼的六项结构性主张与第三空间理论模型。
 
 ---

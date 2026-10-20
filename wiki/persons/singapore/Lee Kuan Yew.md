@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **核心角色** 在国家治理与公共部门激励设计中确立了务实理性主义[[Paradigm|范式]]；坚决破除西方公职伦理中不切实际的道德禁欲主义幻想，力主将公职人员薪酬与私营市场顶级专业人士紧密挂钩；在文化与政德层面倡导儒家[[Junzi|君子]]品德与共同体道德，以千年期战略视野果断推行统一语言政策与国民教育，塑造跨族群国家认同。
 > - **代表贡献** 主导确立[[Singapore Civil Service Salary Benchmarking Policy|新加坡公职薪酬市场化挂钩制度]]与[[Speak Mandarin Campaign|讲华语运动]]；构建起廉洁高效的现代文官治理体制；将新加坡从 1960 年人均国内生产总值（Gross Domestic Product, GDP）仅 428 美元的极端脆弱小岛，建设为人均 GDP 超 8.4 万美元的全球高科技与金融枢纽。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 李光耀在 1994 年议会辩论中明确指出，政治家和公职人员同样是有血有肉、有家庭有现实抱负的普通男女；当社会高谈阔论崇高的道德情怀时，必须记住归根结底极少有人会甘愿成为不食人间烟火的神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >
 > *Lee responded that politicians “are real men and women, just like you and me, with real families who have real aspirations in life.” He continued: “So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.”*
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 国家建构与文明存续无法依赖被动放任与价值虚无的[[Cosmopolitanism|世界主义]]，必须依托兼具千年期战略视野与决断力的卓越领导力；在制度上建立对标私营市场的务实激励，破除公职禁欲主义；在文化上果断塑造跨越族群割裂的共享语言与公民身份；在伦理上倡导兼顾家庭责任与国家忠诚的儒家[[Junzi|君子]]美德，为现代高科技共和国奠定坚实的制度与精神基业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!citation-card] 千年视野下的国家生存意志
@@ -144,7 +144,7 @@ updated: 2026-10-20
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 
-> [!evidence-grid]- 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
 
 ---

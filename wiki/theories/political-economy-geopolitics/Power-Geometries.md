@@ -83,14 +83,14 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > 权力几何学概念在 Massey 的 *For Space*（2005）中得到最系统的阐述，但她的前期工作（Massey, 1994 *Space, Place and Gender*）已奠定了"空间关系中的权力"这一分析方向。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将权力几何学引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，将其[[Operationalization\|操作化]]为三个经验问题：（1）谁控制着高等教育空间的开放与封闭？（2）哪些机构从全球流动中获益最多？（3）高等教育空间的不平等如何被"想象"和"实践"再生产？([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]])
 
 ---
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放[[Ontology\|本体论]]和[[Multiplicity\|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
 > - [[Geopolitics of Knowledge]] — 知识[[Geopolitics|地缘政治]]中的权力关系分析直接使用权力几何学作为分析工具，揭示[[Knowledge Production\|知识生产]]和流动中的不对称控制
 

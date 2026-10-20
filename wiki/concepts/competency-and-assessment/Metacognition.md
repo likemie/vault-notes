@@ -190,7 +190,7 @@ updated: 2026-10-20
 >     OUT -->|"经验内化反哺"| META
 > ```
 
-> [!example]- [[Evaluativist|评价论者]]（Student C）与 ChatGPT 的 7 轮元认知深度审问案例
+> [!example] [[Evaluativist|评价论者]]（Student C）与 ChatGPT 的 7 轮元认知深度审问案例
 > 在评估 8 名学生在 4 点[[Likert Scale\|李克特量表]]上回答 2 个题项的一致性任务中，Student C 展现了典型的元认知监控回路：
 > 1. **初始提问与初筛** 询问该问题是否可使用[[Chi-Squared Test\|卡方检验]]，ChatGPT 初步建议采用卡方独立性检验。
 > 2. **压力测试与自相矛盾暴露** 再次输入相同情境确认，ChatGPT 改推卡方齐性检验；学生凭借元认知监控指出 8 名学生属于同一批被试而非独立总体，推翻齐性检验。

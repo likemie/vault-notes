@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 课堂是由公共世界、半私人同伴世界与私人心智世界交织的三重生态系统；教师受注意力分配与生理观察极限约束，无法觉察课堂中绝大多数真实发生的心智加工与同伴微观互动，因而教学改进必须跨越单一依靠教师主观经验反思的局限，聚焦于学生实际经历的认知变化证据。
 
 > [!citation-card] [[John Hattie|哈蒂]]论纳撒尔课堂盲区发现对可见性概念的启发
@@ -96,7 +96,7 @@ updated: 2026-10-20
 > - **方法路径** 首创多通道随身音频监听与[[Transcription in Qualitative Research|逐字转录]]技术，成为当代课堂互动分析与质性微观转录的重要前驱。
 > - **跨国／跨领域传播** 纳撒尔关于教师知觉盲区的量化发现被[[John Hattie|约翰·哈蒂]]（John Hattie）吸纳为《[[Visible Learning|可见的学习]]》底层理论依据，并进一步催生了移动端客观课堂监控与即时转录工具[[Visible Classroom]]的研制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂自述纳撒尔关于教师遗漏 80% 课堂事件的实证发现如何直接启发其确立可见性概念。
 
 ---

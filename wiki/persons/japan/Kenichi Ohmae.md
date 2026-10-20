@@ -49,7 +49,7 @@ updated: 2026-10-16
 > - **核心角色** 20 世纪 90 年代新自由主义全球化与“无国界世界”（Borderless World）假说的代表人物与鼓吹者。
 > - **代表贡献** 提出三极互联经济（Inter-linked Economy, ILE）学说，断言跨国公司扩张已全面消解民族国家的功能边界，引发了经济学界关于全球化与主权国家存废的激烈大论战。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 大前研一（Ohmae, 1990）在其《无国界的世界》一书中主张，在所谓‘互联经济’（ILE）——由美国、欧共体和日本构成的‘三极’，现在再加上新兴工业化国家——之中，国家疆界正在‘融化消失’。这种互联经济已经‘如此强大，以至于吞噬了绝大多数消费者与企业，使传统国家边界几乎消逝，并将官僚、政客和军人推向了夕阳产业的地位’。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]
 >
 > *Ohmae (1990) in his book The Borderless World argues that national frontiers are 'melting away' in what he calls the 'ILE' (inter-linked economy)—the triad of USA, EC and Japan, now being joined by NICs. This 'ILE' is becoming 'so powerful that it has swallowed most consumers and corporations, made traditional national borders almost disappear, and pushed bureaucrats, politicians and the military towards the status of declining industries'.*
@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球自由贸易、资本即时流动、信息网络以及跨国公司（TNCs）的全球无缝扩张，已经彻底瓦解了传统的国家地理边界与主权控制力；消费者与跨国资本成为世界舞台的真正主宰，由行政官僚控制的民族国家经济单位正在走向历史终结。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–16)]]
 
 > [!citation-card] 大前研一论全球互联经济对国家边界的消解

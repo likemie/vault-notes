@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **核心角色** 曾任[[British Educational Research Association\|英国教育研究协会]]（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与[[Output-Oriented Governance\|循证治理]]研究的代表性学术领袖。
 > - **代表贡献** 提出“以研究为导向的临床实践”（Research-Informed Clinical Practice）[[Paradigm\|范式]]；主导 BERA-RSA 教师教育国家调查；系统论证教育政策从测量时代向[[Evidence Era\|证据时代]]的治理范式演进与[[Policy-Based Evidence-Making\|基于政策的证据制造]]机制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88–91)]]
 
-> [!citation-card]- 教师教育与证据治理的学术定位
+> [!citation-card] 教师教育与证据治理的学术定位
 > 门特的研究长期聚焦于教师教育中的[[Knowledge Production\|知识生产]]、政策演变与实践模式，致力于揭示政治权力与新自由主义治理如何重构教育研究在教师专业发展中的地位。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
 >
 > *His research focuses on knowledge production, policy issues, and practices in teacher education, as well as the labour market for teachers and teacher’s work.*
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 门特认为，教师专业化必须建立在扎实的[[Research Literacy\|研究素养]]与[[Reflective Thinking\|反思性探究]]基础之上，反对将教师简化为执行国家现成方案的技术交付工；在当代教育治理中，证据[[Discourse|话语]]已被制度化为一种主导性的“[[Rationalized Myth\|合理化神话]]”，政府表面上推崇科学证据与分散办学，实质上通过官方守门与适宜性筛选，推行基于政策意图的逆向证据制造以维系中央控制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 > [!citation-card] 教师教育中的研究导向临床实践
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > - **政策路径** 主导的 [[British Educational Research Association\|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training\|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview\|精英访谈]]，提出[[Evidence Era\|证据时代]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]概念框架。
 
 ---

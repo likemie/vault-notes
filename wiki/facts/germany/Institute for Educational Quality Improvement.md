@@ -97,7 +97,7 @@ updated: 2026-10-16
 > - **常设业务部门矩阵** 设有德语学科测评研发部、数理学科测评研发部、外语学科测评研发部、心理测量与方法学部，以及教育研究数据中心（FDZ）。
 > - **跨州与跨机构协同网络** 向上对接 KMK 与联邦教育与研究部（[[Federal Ministry of Education and Research]], BMBF），横向与国际测评机构及各州立监测机构（如汉堡教育质量与学校发展研究所（[[Institute for Educational Monitoring and Quality Improvement]], IfBQ））建立数据交换标准，向下通过数字平台触达单体学校。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **国家标准测验开发（Item Development & Scaling）** 依托[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT）与多维能力模型，开发经过大规模预试与心理测量标定的试题库，确保跨年级、跨地区测试的绝对等价性（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 141]]）。
 > - **全国抽样联邦州比较施测（[[IQB-Bildungstrend]]）** 周期性对全德 16 州具有代表性的小学 4 年级与中学 9 年级学生开展大样本抽样施测，精确计算各州达成国家基础标准、常规标准与卓越标准的学生比例（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 141–142]]）。
 > - **[[Vergleichsarbeiten\|VERA]] 跨州协同与数字化任务分发** 统一向各州提供 VERA-3 与 VERA-8 试卷母本，并通过数字化网络平台向教师分发对齐国家标准的教学训练任务，支持教师开展校本形成性诊断（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
@@ -128,7 +128,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与政策渗透
+> [!indicators] 影响力维度与政策渗透
 > - **全国 16 州 100% 覆盖** IQB 研发的国家标准体系与 [[Vergleichsarbeiten\|VERA]] 题库在全德所有公立中小学实现了全覆盖，终结了各州标准老死不相往来的离散历史。
 > - **国家[[Data Infrastructure\|数据基础设施]]的集约化整合** 通过 FDZ 的集成运作，德国成功建立起可与美国国家教育统计中心（National Center for Education Statistics, NCES）或英国打通的集约化教育数据仓储，极大提升了本国实证教育学的国际[[Competitiveness|竞争力]]。
 > - **重构联邦教育治理权力拓扑** 尽管德国宪法未设立联邦教育部对基础教育的直接管辖权，IQB 依托数据标准和题库，在各州之间搭建起事实上的国家计算与协调中枢，实现了[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。

@@ -86,7 +86,7 @@ updated: 2026-10-20
 > - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系并非微观生产力协调的产物，而是由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成；揭示普世规范扩散中的非强制同构与政策去耦合机制。
 > - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural [[Cognitive Decoupling|decoupling]]）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
-> [!citation-card]- 斯坦福学派的核心理论渊源
+> [!citation-card] 斯坦福学派的核心理论渊源
 > 斯坦福学派的新制度主义社会学理论，将现代大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物；主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，构成了战后比较教育学中最为系统宏大的共识论学术传统。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 101–104)]]
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-10-20
 > > - **斯坦福学派宏观论** 认为地方变通只是暂时且次要的技术性去耦合，全球规范的主导地位在长时段内不可动摇。
 > > - **人类学与比较教育学者（Anderson-Levitt, 2003; Steiner-Khamsi, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出全球规范在进入本土后必然遭遇深度的[[Recontextualization|再情境化]]、借用变通甚至公开嘲讽与反抗；研究者必须警惕将形式同构误判为实质趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 从世界体系政治现实主义与全球与本土辩证法出发，尖锐批判斯坦福学派的世界文化共识论掩盖了资本积累剥削与帝国依附，呼吁结合微观[[Ethnography|民族志]]揭示地方对全球模板的实质抵制与变通（pp. 104–106, 115）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 指出斯坦福学派的世界体系普遍主义假说忽视了欧洲各民族国家深厚的历史文化多元性与制度阻抗（p. 94）。
 

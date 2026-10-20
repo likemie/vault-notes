@@ -101,7 +101,7 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第13章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第13章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_13_Concept_Map.jpg)
 
 ## 章节内容
@@ -131,7 +131,7 @@ sources:
 >     O --> P
 > ```
 
-> [!example]- 图13-1 调查规划的各阶段
+> [!example] 图13-1 调查规划的各阶段
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_13-1_Stages_in_the_Planning_of_a_Survey.jpg)
 
 调查研究有多种变体。阅读本章时可结合抽样（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]）、[[Questionnaire|问卷]]（第20章）、访谈（第21章）和数据分析技术等章节。许多攻读更高学位的研究者时间框架固定且较短，[[Longitudinal Study|纵向研究]]对他们来说可能不可行，但纵向研究仍是一种重要的研究类型。更常见的情况是，[[Cross-sectional Study|横截面调查]]研究适合更高学位研究，且被广泛使用（p.257）。
@@ -186,7 +186,7 @@ sources:
 > [!claim] 吸引力
 > 调查的吸引力在于在给定参数内的[[External Validity\|可推广性]]或普遍性；由大型数据库支持做出陈述的能力；建立对一组发现可信程度的信心（p.259）。
 
-> [!boundary] 不适用场景
+> [!boundary]- 不适用场景
 > 调查不适合以下情形：关注捕捉地方性、制度性或小规模因素和变量；描绘情境的特殊性、独特性和复杂性、人际动态；解释为何某种情境发生或为何某人表现出特定行为；追踪项目如何随时间变化和发展。调查的解释潜力和细节精细度有限，会被脱离时间、空间和具体情境的宽泛概括所淹没。个体实例被牺牲在聚合回应中，这对受访者具有匿名性、不可追踪性和保密性的吸引力。其吸引力主要建立在[[Positivism\|实证主义]]基础之上（pp.259–260）。
 
 调查通常依赖大规模数据（问卷、测试分数、出勤率、公共考试结果等），使跨时间或跨群体比较成为可能。小规模调查也可行，但可推广性很弱。调查中研究者通常是明确的外部者（outsider）；在自己受试者上进行调查研究（如参与者是自己正在开设的课程学员，Bimrose & Bayne, 1995; Morrison, 1997）必须附加信度问题。严格关注抽样至关重要，否则调查对更广泛情境的适用性基础将受到严重破坏。追求可推广性时应避免非概率样本；[[Random Sampling|概率抽样]]更容易产生可推广的结论（p.260）。
@@ -207,7 +207,7 @@ Hoinville and Jowell (1978)提出任何调查设计的三项前提（prerequisit
 
 第二项前提直接影响抽样和资源的决策。例如，在职需求调查可能将总体界定为"在 拉夫堡大学（Loughborough University） 30 英里半径范围内学校工作的中小学教师"。在这种情况下，总体是可识别的，如果有足够资源接触每个成员，抽样决策就不会出现。但事情很少这么简单（p.261）。
 
-> [!note]- 总体界定的[[Operationalization\|操作化]]困难
+> [!note] 总体界定的[[Operationalization\|操作化]]困难
 > 总体界定的标准通常难以[[Operationalization\|操作化]]，如"严重受挑战""成绩不佳""意愿成为教师""高度焦虑"。总体的可及性差异很大：学生和实习教师相对容易调查，吉普赛儿童和校长则更难以捉摸。在大型调查中，研究者通常从总体中抽取样本，很少尝试接触每个成员。
 
 ---
@@ -343,7 +343,7 @@ Rubin (1987)、Little and Rubin (1989)、Allison (2001)、Dale (2006, p. 149–1
 
 ---
 
-> [!example]- 表 13.1：低回应率在 50/50 分布的是否题中的最大变异
+> [!example] 表 13.1：低回应率在 50/50 分布的是否题中的最大变异
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_13-1_Maximum_Variation_for_Low_Response_Rates.jpg)
 >
 > 该表呈现了回应率变化时一道是否题可能出现的最大变异范围。例如，200 名参与者的样本中 90% 回复（180 人），50% 说"是"（90 人），50% 说"否"（90 人）。如果未回复的 10%（20 人）全会说"是"，则 110 人说"是"（55%）、90 人说"否"（45%），结论方向就会改变。若选择 5 点量表，选项从两个增至五个，变异的可能性甚至更大（p.266）。
@@ -466,7 +466,7 @@ Borg and Gall (1979, p. 291)对队列研究和面板研究做出了关键区分�
 
 本章还提及以下著名纵向与重复横截面研究（pp.267–268）：
 
-> [!note]- 著名纵向与重复横截面研究实例
+> [!note] 著名纵向与重复横截面研究实例
 > - **全国儿童发展研究（National Child Development Study，NCDS）** 始于 1958 年，追踪同一年某一周出生的约 17,000 名英国人，涵盖健康、教育、就业、家庭等维度，是世界上运行时间最长的出生队列研究之一
 > - **英国队列研究（British Cohort Study，BCS70）** 始于 1970 年，追踪 1970 年某一周出生的约 17,000 人
 > - **千禧年队列研究（Millennium Cohort Study，MCS）** 始于 2000 年，追踪约 19,000 名千禧年出生的儿童
@@ -571,14 +571,14 @@ Borg and Gall (1979, p. 291)对队列研究和面板研究做出了关键区分�
 
 ---
 
-> [!example]- 图 13.2：发展性研究的类型
+> [!example] 图 13.2：发展性研究的类型
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_13-2_Types_of_Developmental_Research.jpg)
 >
 > 该图可视化了纵向、横截面、趋势、队列和面板研究之间的区分关系（p.269）。
 
 ---
 
-> [!example]- 表 13.2：纵向、横截面、趋势分析和回溯性纵向研究的特征、优势与弱点
+> [!example] 表 13.2：纵向、横截面、趋势分析和回溯性纵向研究的特征、优势与弱点
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_13-2_Characteristics_Strengths_and_Weaknesses.jpg)
 >
 > 该表汇总了四种研究设计在特征、优势和弱点维度的系统比较（pp.272–273，另见 Rose & Sullivan, 1993, p. 184–188）。回溯性纵向研究的若干优势与弱点与第15章讨论的[[Ex Post Facto Research\|事后回溯研究]]（ex POST facto research）共享相同特征。
@@ -667,32 +667,32 @@ Aldridge and Levine (2001, p. 51–54)和 Fowler (2009, p. 80–83)提供了多�
 
 ## 关键引用
 
-> [!citation-card]- 调查的[[External Validity\|可推广性]]与根本边界
+> [!citation-card] 调查的[[External Validity\|可推广性]]与根本边界
 > 调查的吸引力在于其在给定参数内的可推广性或普遍性、由大型数据库支持做出陈述的能力，以及建立对一组发现可信程度的信心。另一方面，如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable\|变量]]，即描绘情境的特殊性、独特性和复杂性、人际动态，则调查方法可能并不适合。其解释潜力和细节精细度有限；它会牺牲在不受时间、空间或地方情境影响的概括性推广中。个体实例被牺牲在聚合回应中。（第13章，p.259）
 >
 > *The attractions of a survey lie in its appeal to [[External Validity\|generalizability]] or universality within given parameters, its ability to make statements which are supported by large data banks and its ability to establish the degree of confidence which can be placed in a set of findings. On the other hand, if a researcher is concerned to catch local, institutional or small-scale factors and variables... then a survey approach is probably unsuitable. Its degree of explanatory potential or fine detail is limited; it is lost to broad brush generalizations which are free of temporal, spatial or local contexts. The individual instance is sacrificed to the aggregated response.*
 
-> [!citation-card]- 无回应者的系统性差异
+> [!citation-card] 无回应者的系统性差异
 > 无回应者几乎总是与回应者不同。这影响了所获回应及其分析的效度和[[Reliability\|信度]]。（第13章，p.265）
 >
 > *Non-respondents almost invariably differ from respondents, and this affects the validity and reliability of the responses obtained, and their analysis.* (Dale, 2006, p. 148)
 
-> [!citation-card]- [[Sample Size Determination\|样本量]]与精度的反直觉关系
+> [!citation-card] [[Sample Size Determination\|样本量]]与精度的反直觉关系
 > 150 人的样本结果将以大致相同的准确度描述 15,000 人或 2,500 万人的总体。超过 150 或 200 人的样本可能仅对数据精度产生适度增益。[[Sampling Error\|抽样误差]]更多是样本量的函数，而非样本占总体比例的函数。（第13章，p.267）
 >
 > *The results of a sample of 150 people will describe a population of 15,000 or 25 million with more or less the same degree of accuracy. Samples of more than 150 or 200 may not yield more than modest gains to the precision of the data. Sampling errors are more a function of sample size than of the proportions of the sample to the population.* (Fowler, 2009, p. 44–45)
 
-> [!citation-card]- Box 13.1：Douglas (1976)的六项辩护
+> [!citation-card] Box 13.1：Douglas (1976)的六项辩护
 > [[Cohort Study\|队列研究]]相对横截面设计有六项核心优势：信息时效性、无信息重复、变量遗漏的可补救性、更大规模的变量积累、从出生队列开始的抽样优势，以及克服因果分析的主要障碍（对记忆信息的重新解释以使其符合传统因果观点）。（第13章，Box 13.1, p.273）
 >
 > *Some types of information are only meaningful if collected contemporaneously. The omission of even a single variable, later found to be important, from a [[Cross-sectional Study]] is a disaster, whereas it is usually possible in a cohort study to fill the gap. Longitudinal studies are free of one of the major obstacles to causal analysis, namely the reinterpretation of remembered information so that it conforms with conventional views on [[Causality\|causation]].*
 
-> [!citation-card]- 调查规划的精确性标准
+> [!citation-card] 调查规划的精确性标准
 > 一项严格的调查制定清晰、具体的目标和[[Research Question\|研究问题]]，确保工具、抽样和数据类型适合为研究问题提供答案，并确保数据分析的复杂性达到数据能够支撑的最高水平（但不要更高）。（第13章，p.264）
 >
 > *A rigorous survey formulates clear, specific objectives and research questions, ensures that the instrumentation, sampling and data types are appropriate to yield answers to the research questions, ensures that as high a level of sophistication of data analysis is undertaken as the data will sustain (but no more!).*
 
-> [!citation-card]- 高门槛技术：参与者不参加比退出要好
+> [!citation-card] 高门槛技术：参与者不参加比退出要好
 > Reips (2002a)建议将动机性不利因素尽可能集中在开头附近，使任何潜在退出者在数据收集开始时而非过程中自我选择退出。原则是：参与者不参加比在过程中退出要好。当实验已经结束后，在要求个人信息时退出的倾向更高，即最好在开头要求个人信息。（第13章，p.306; Frick et al., 1999, p. 4）
 >
 > *...motivationally adverse factors are announced or concentrated as close to the beginning as possible, so that any potential dropouts will self-select at the start rather than during the data collection.* (Frick et al., 1999) found that "the tendency of leaving the experiment when personal information is requested is higher after the experiment has already been finished"...

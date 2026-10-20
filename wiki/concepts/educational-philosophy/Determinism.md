@@ -86,7 +86,7 @@ updated: 2026-10-20
 >
 > *First, there is the assumption of determinism. This means simply that events have causes, that events are determined by other circumstances; and science proceeds on the belief that these causal links can eventually be uncovered and understood, that the events are explicable in terms of their antecedents. Moreover, not only are events in the natural world determined by other circumstances, but there is regularity about the way in which they are determined: the universe does not behave capriciously. It is the ultimate aim of scientists to formulate laws to [[Accounts|account]] for the happenings in the world, thus giving them a firm basis for prediction and control.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Causality|因果性]] — 因果性是关于两类事件之间引起与被引起关联的逻辑范畴；决定论则是主张宇宙一切事件完全由前因严格闭合决定的哲学世界观。
 > - 不等于 [[Positivism|实证主义]] — 实证主义是[[Epistemic Stances|认识论立场]]，主张知识源于感官经验；决定论是实证主义所依托的本体论与人性前设。
 > - 不等于 [[Voluntarism|唯意志论]] — 唯意志论是其在人性维度上的对立极，主张人具有自由意志并能自主创造环境。

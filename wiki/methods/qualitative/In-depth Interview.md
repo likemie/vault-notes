@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 访谈录音、[[Transcription in Qualitative Research\|逐字转录]]稿、访谈反思备忘录、现场环境观察笔记与背景档案。 |

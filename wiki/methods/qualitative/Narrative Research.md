@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 方法变体与相近方法
 
-> [!tip]-
+> [!tip]
 > - vs [[Case Study]] — 案例研究可以包含叙事作为数据来源之一，但案例研究的[[Analytic Framework\|分析框架]]更注重情境和时间边界，而叙事研究以故事本身的时序和意义结构为核心。
 > - vs [[Phenomenology\|现象学]] — 现象学聚焦于多个个体对同一现象的共同本质体验，叙事研究则聚焦于个体生活故事的独特性和时间进程。
 > - vs [[Narrative Analysis\|叙事分析]] — 叙事研究关注研究设计与故事的重述（restorying）；[[Narrative Analysis\|叙事分析]]关注如何以叙事形式组织与呈现分析，二者在收集数据与分析数据之间分工。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, 29.3)]]

@@ -51,14 +51,14 @@ updated: 2026-10-16
 
 ## 量化趋势
 
-> [!info]- 核心数据（美国）
+> [!info] 核心数据（美国）
 > - 2003 至 2012 年间，美国公立[[Research Universities|研究型大学]]中州政府拨款占比下降了近一半，而学费收入占比——通常由联邦贷款和拨款支撑——几乎翻倍(American Academy of Arts and Sciences, 2016, p.9; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.800]])
 > - 同期，"机构债务利息、营利性机构利润和学生贷款利息的综合实际成本增加了一倍以上"，金融回报的增长远低于金融成本的增长(Eaton et al., 2016, p.2, p.23f; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.800–801]])
 > - 自 1970 年代末以来，金融成本与收益在每个学生和每所机构中的份额都成倍增长(Eaton et al., 2016; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.801]])
 
 ## 跨国差异
 
-> [!note]-
+> [!note]
 > 金融化程度在不同国家之间存在显著差异([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.800–801]])：
 > - **美国** 金融化程度最深——捐赠基金投资、学生贷款市场和营利性院校三重驱动
 > - **英国** 自 1998 年引入学费和 2011 年最后一次重大改革（学费上限提升）以来，学生贷款和大学借贷显著增长（McGettigan, 2013）

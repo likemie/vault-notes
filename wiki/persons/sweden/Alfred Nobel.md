@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** 现代工业爆破技术与军用烈性炸药的奠基人；提出了技术发展引发“终极恐怖止战”的现实主义威慑假说。
 > - **代表贡献** 1866 年发明达纳炸药（Dynamite，硝化甘油硅藻土混合炸药）与雷管引信；建立全球跨国军工与民用炸药商业帝国；立下遗嘱设立诺贝尔奖；其威慑思想在 1945 年[[Manhattan Project|曼哈顿工程]]与核时代被[[J. Robert Oppenheimer|奥本海默]]等科学家重新激活。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在 1945 年三位一体核试验现场，奥本海默回想起了诺贝尔当年的和平期许——诺贝尔早年曾寄望于炸药能够终结战争，但随着炸药在普法战争中被迅速军用化，诺贝尔最终确立了现实主义论断：唯有绝对的恐怖才能阻止战争。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Meyer, 1958; cited in Karp & Zamiska, 2025, pp. 37–38]])
 >
 > *On that morning in New Mexico, Oppenheimer contemplated the possibility that this next era of destructive power might somehow contribute to an enduring peace... Oppenheimer recalled that morning the hope of Alfred Nobel that dynamite would end wars.*
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 和平无法通过空洞的道德说教、绝对和平主义倡议或单方面的军备废除来维系。阻止国家发动残酷侵略与[[Total War|全面战争]]的最根本机制是**终极威慑恐怖（terror of ultimate destruction）**——当武器的杀伤力和毁灭规模达到交战双方在瞬息之间承受同归于尽的代价时，理性的国家机器将被迫放弃战争手段。性能更强、破坏力更彻底的硬核武器，而非软弱妥协的退让，才是和平最可靠的物理守护者。
 
 > [!citation-card] 终极恐怖作为和平的保证

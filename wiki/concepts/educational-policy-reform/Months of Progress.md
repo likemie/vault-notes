@@ -68,7 +68,7 @@ updated: 2026-10-20
 >
 > *A basic minimum for a causal study should be to report the means/scores for each group as well as overall — their standard deviations and the resulting effect sizes for pre-intervention (if available), post-intervention and gain/progress scores. There is little advantage in trying to convert effect sizes into something more everyday for better communication, like the months of progress used by EEF (Baird & Pane, 2019).*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 标准化效应量 — 标准化效应量是反映均值差与变异程度的统计量；月度进步指标是基于假定年成长速度人为折算的通俗隐喻衍生值。
 > - 不适用于精确个体因果诊断 — 该指标仅能作为宏观群体干预的经验性参考，不能直接用于预测具体学校或特定受试学生的绝对成长跨度。
 

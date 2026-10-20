@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1958–1962 — 理论奠基与[[Geopolitics|地缘政治]]筹备** 芝加哥大学建立比较教育中心，推动教育经济学与比较研究深度融合；1961 年[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）改组为[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织），被定位为“经济北约”并启动地中海地区项目（[[Mediterranean Regional Project]]，MRP）；赫伯特·帕恩斯（Herbert Parnes, 1962）发布教育人力预测模型，为全球技术官僚规划奠定了方法论标准。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 > - **1963–1970 — 机构创立与普世危机[[Discourse|话语]]确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿[[Philip H. Coombs\|菲利普·库姆斯]]（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm\|范式]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1964–1980 — [[World Bank\|世行]]—[[UNESCO\|教科文组织]]合作期与实证扩张** 1964 年世界银行与联合国教科文组织签署合作协议借道入场，IIEP 深度参与世界银行向第三世界提供基础设施贷款的前期规划与学校建筑设计；同时为亚非拉数十个新独立国家编制国家五年教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -107,7 +107,7 @@ updated: 2026-10-20
 > - **所长与秘书处执行团队** 由具有深厚比较教育政策与发展经济学背景的资深专家领衔，统筹巴黎总部、布宜诺斯艾利斯区域中心及达喀尔非洲办事处。
 > - **全球国家规划师校友网络** 数十年间培训的数千名[[Development Education|发展中国家教育]]部高级规划官员，构成支撑跨国政策知识流通的紧密行政网络。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **高阶专业培训体系** 设立一年制教育规划高级培训课程（Advanced Training Programme，[[Advanced Technology Program|ATP]]）、区域密集模块及在线认证项目，系统培养发展中国家骨干技术官僚。
 > - **国家实地技术援助与诊断** 应成员国政府邀请组建跨国专家团，深入开展国家教育部门全景诊断（Education Sector Analysis，[[Educational Services Australia\|ESA]]），协助编制符合国际多边受援标准的国家中期教育发展规划（Education Sector Development Plan，ESDP）。
 > - **前沿应用政策工具研发** 研制微观学校选址模型、教育财政模拟投影工具及教育管理信息系统（Education Management Information System，EMIS）诊断标准，赋能基层自主治理。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **专业官员培训规模** 累计为全球超过 160 个国家培训了逾 8,000 名教育部核心规划与统计主管。
 > - **国家规划编制渗透率** 深度主导或深度参与了非洲与拉丁美洲数十个后殖民国家首份独立国家教育发展规划的起草。
 > - **学科[[Paradigm\|范式]]重构** 强力驱动战后比较教育学告别传统的人文历史主义，全面转向以实证量化与技术援助为核心的“[[Development Turn in Comparative Education\|发展转向]]”。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–423)]]

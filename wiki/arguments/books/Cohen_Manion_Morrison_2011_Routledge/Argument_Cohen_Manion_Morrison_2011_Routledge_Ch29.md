@@ -87,14 +87,14 @@ updated: 2026-10-17
 
 #### 概念地图
 
-> [!knowledge-map]- 第29章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第29章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29_Concept_Map.jpg)
 
 ## 章节内容
 
 承接第28章，质性数据的组织与呈现（organizing and presenting qualitative data）专门处理数据如何被组织与呈现，这些方式本身构成分析的一部分。围绕[[Data Reduction|数据缩减]]（data reduction）经由仔细的[[Data Display|数据展示]]（data display）与评注这一主线，依次展开：数据表格化、组织与分析数据的七种方式、叙事与传记进路、系统化分析进路（含[[Reflexivity|反身性]]与偏误来源、备忘录、生成意义的策略、[[Content Analysis|内容分析]]、[[Phenomenology|现象学]]分析），以及分析归纳、持续比较、[[Typological Analysis|类型学分析]]、计数四种方法论工具。
 
-> [!abstract]- Box 29.1　议题清单
+> [!abstract] Box 29.1　议题清单
 > - **数据表格化（tabulating data）** 以表格形式呈现访谈等质性数据并配评注，实现数据缩减。
 > - **组织与呈现数据分析的七种方式** 按人／议题／[[Research Question\|研究问题]]／工具／案例／叙事等组织分析。
 > - **叙事与传记进路（narrative and biographical approaches）** 以故事形式组织与呈现分析。
@@ -145,7 +145,7 @@ updated: 2026-10-17
 >
 > **评注** 小学英语教师的观点范围比中学教师更广；小学教师之间比中学教师之间更一致；所有中三（Form 3）中学教师的评注完全一致；所有中五（Form 5）中学教师的观点则各不相同。（29.1）
 
-> [!example]- 表29.1　英语教学的有效性（原表扫描图）
+> [!example] 表29.1　英语教学的有效性（原表扫描图）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-1_Table_29-1_Effectiveness_of_English_Teaching.jpg)
 
 > [!contrast-table] 表29.2　英语教学的优点与缺点
@@ -163,7 +163,7 @@ updated: 2026-10-17
 >
 > **评注** 除一位小学教师外，其余 11 位来自小学与中学的教师评注完全一致。（29.1）
 
-> [!example]- 表29.2　英语教学的优点与缺点（原表扫描图）
+> [!example] 表29.2　英语教学的优点与缺点（原表扫描图）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-2_Table_29-2_Strengths_and_Weaknesses_of_English_Teaching.jpg)
 
 > [!ref-table] 表29.3　教学方法
@@ -178,7 +178,7 @@ updated: 2026-10-17
 >
 > **评注** 这里所有教师的评注完全一致，主要分为两组要点。（29.1）
 
-> [!example]- 表29.3　教学方法（原表扫描图）
+> [!example] 表29.3　教学方法（原表扫描图）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-3_Table_29-3_Teaching_Methods.jpg)
 
 > [!ref-table] 表29.4　与学生相关的因素
@@ -201,7 +201,7 @@ updated: 2026-10-17
 >
 > **评注** 这里的评注种类繁多，但存在不同程度的共识：教年幼小学儿童的教师彼此一致；教年长小学儿童的教师彼此一致；教年长中学儿童的教师彼此一致；而教年幼中学儿童的教师彼此观点不同。四组教师（年幼小学、年长小学、年幼中学、年长中学）提出的要点互不相同。（29.1）
 
-> [!example]- 表29.4　与学生相关的因素（原表扫描图）
+> [!example] 表29.4　与学生相关的因素（原表扫描图）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-4_Table_29-4_Student_Related_Factors.jpg)
 
 > [!info] 访谈数据的要点摘要
@@ -561,22 +561,22 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card]- Bruner 论故事作为意义与思考的形式
+> [!citation-card] Bruner 论故事作为意义与思考的形式
 > 人类以"故事文本"制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。（29.3）
 >
 > *Humans make meaning and think in terms of "storied text" which catch the human condition, human intentionality, the vividness of human experience very fully (Bruner, 1986, pp. 14, 19) and the multiple perspectives and lived realities ("subjective landscapes") of participants (p. 29).*
 
-> [!citation-card]- Walford 论所有研究都是在研究自己
+> [!citation-card] Walford 论所有研究都是在研究自己
 > 带着自身的先入之见、兴趣、偏误、偏好、传记、背景与议程进入数据：所有研究都是在研究自己（all research is researching yourself）。（29.4）
 >
 > *"All research is researching yourself" (Walford, 2001, p. 98).*
 
-> [!citation-card]- 叙事作为编码的对照
+> [!citation-card] 叙事作为编码的对照
 > 叙事是对编码及编码衍生分析的至上性的对照；通过讲述故事，叙事记述摆脱编码的限制与脱体文本的风险，把文本与内容保持在一起。（29.3）
 >
 > *Narratives are a foil to the supremacy of coding and coding-derived analysis.*
 
-> [!citation-card]- 磁铁隐喻
+> [!citation-card] 磁铁隐喻
 > 预先决定议题框架的分析如同把磁铁放到数据上，磁铁吸起该议题的相关数据，但也留下被视为不相关的数据，后者有丢失风险。（29.2）
 >
 > *It is akin to lowering a magnet onto data – the magnet picks up relevant data for the issue in question but it also leaves behind data not deemed relevant and these risk being lost.*

@@ -189,7 +189,7 @@ updated: 2026-10-20
 > - **延后综合学习的立场** 原文转述部分教育者主张先充分掌握各门学科，再开展跨学科课程，这往往会把综合学习推迟到研究生阶段。
 > - **Peterson 的回应** 多数学生不会进入研究生阶段，而学科边界本来也并非固定。保留高级学科训练，并提供可选的辅助层级问题导向课程，可以让更多学生获得知识应用与社会理解的机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
 
-> [!boundary] 理论判定、实施案例与效果证据各有用途
+> [!boundary]- 理论判定、实施案例与效果证据各有用途
 > [[John Dewey|杜威]]的原则提供经验品质的哲学判定，Peterson 的案例说明课程连接和实施条件。两者尚不足以构成所有经验学习均有效的经验结论，也不支持把社会服务时数或课程数量直接当作成长指标。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215)]]
 
 ---
@@ -204,6 +204,6 @@ updated: 2026-10-20
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
 > | [[Education as Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
-> [!evidence-grid]- 文献与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]] — 讨论社会服务、学术课程与地方发展实践的整合，以及教师和制度支持。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细分析杜威《经验与教育》中的连续性与交互作用原则及其在[[Active Learning|主动学习]]中的地位。

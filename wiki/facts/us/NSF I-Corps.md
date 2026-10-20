@@ -124,7 +124,7 @@ updated: 2026-10-20
 >   - **技术主管（Technical Lead / PI）** 由发明核心技术的大学教授或资深科学家担任，负责底层原理验证与实验室技术护航；
 >   - **产业导师（Industry [[Mentorship|mentor]], IM）** 由拥有成功硬科技创业经历、企业高管或天使投资人担任，负责提供行业真实人脉网络与商业陷阱预警。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 
-> [!pathways]- 7 周沉浸式运作机制与客户发现流程
+> [!pathways] 7 周沉浸式运作机制与客户发现流程
 > 1. **提出商业假说（[[Hypothesis]] Generation）** 团队运用商业模式画布（Business Model Canvas），将实验室技术解构为客户细分、价值主张、渠道通路与收益流等 9 大维度的待检验假说。
 > 2. **走出实验室（Get Out of the Building）** 严格禁止在象牙塔内闭门造车，要求团队在 7 周内与产业链上下游潜在客户、供应商、监管者及竞争对手完成 **100+ 场面对面[[In-depth Interview|深度访谈]]**。
 > 3. **科学验证与敏捷转型（Pivot or Proceed）** 将访谈反馈视作实验数据检验商业假说；若发现真实市场痛点与技术优势不匹配，团队必须迅速调整应用场景或商业模式（Pivot）；若假说得到充分[[Falsification|证伪]]且无合理转型路径，则果断放弃商业化（No-Go），避免数百万研发资金的无效沉没。

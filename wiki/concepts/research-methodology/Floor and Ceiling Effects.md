@@ -81,7 +81,7 @@ updated: 2026-10-20
 >
 > *“Recent analysis of archived data has shown that many assessments offer only moderate [[Predictive Validity]], and some evaluations have suffered from floor and ceiling effects (e.g., Hodgen et al., 2019)... truncation of variance artificially obscures real educational gains.”*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **天花板效应（Ceiling Effect）** 测验整体过于容易，大量受试者达到满分或接近满分阈值，无法区分中等优秀与卓越能力者，干预组的高阶增益被尺度封顶。
 > - **地板效应（Floor Effect）** 测验整体难度过大，后进生与弱势群体大面积取得零分或最低基线分，无法区分完全未学与取得微小进步者，补偿性干预效果被尺度垫底。
 > - **不等于 样本同质性（Sample Homogeneity）** 样本同质性指抽样群体本身能力高度一致；而天花板与地板效应是即便总体能力高度异质，工具也强行将极端群体压缩至同一分值。

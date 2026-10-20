@@ -110,7 +110,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ## 理论语境
 
-> [!tip]-
+> [!tip]
 > - Sassen (2010) 的**驱逐（expulsion）** 概念——
 > 
 > > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)

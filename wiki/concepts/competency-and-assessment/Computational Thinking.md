@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **用途** 在基础教育与高等教育中作为评价 [[STEM Education\|STEM]]/STEAM 教育、编程教学及 AI 自适应学习成效的核心[[Dependent Variable\|因变量]]。
 > - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械编码只属于低水平的[[Procedural Skill\|程序性技能]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 计算思维表征了学习者将复杂现实挑战转化为可算法化求解形式的高阶认知能力。在智能教学技术干预中，通过自适应步骤提示与反思量规引导，学生的算法设计与调试推理能力获得显著提升。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6–7）
 >
 > *Computational thinking encompasses the cognitive processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent.*

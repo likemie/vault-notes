@@ -118,7 +118,7 @@ updated: 2026-10-20
 >   S4 --> S5
 > ```
 
-> [!example]- 图3-1：英国公众过去两周主动寻求科学相关信息的主要渠道分布图（PAS 2025 调查，p. 57）
+> [!example] 图3-1：英国公众过去两周主动寻求科学相关信息的主要渠道分布图（PAS 2025 调查，p. 57）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig3-1_PAS_Information_Sources.jpg)
 > *(基于英国研究与创新署（UK Research and Innovation, UKRI）委托益普索（Ipsos）执行的 2025 年全国公众对科学态度调查（Public Attitudes to Science, PAS 2025）5,281 名 16 岁及以上代表性成年受访者数据绘制，直观呈现新媒体超越传统大众媒体成为首要主动获取渠道的媒介变迁格局)*
 
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 在政治、技术与生态急剧变化的时代，驱动科学造福人类的核心价值正遭遇严重威胁；大众传媒作为连接科学共同体与广大公民的神经中枢，其底层生态正经历深刻的结构性重塑。（pp. 56–58）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来，英国传统大众媒体（电视与纸质报刊）受众遭遇断崖式滑坡，媒介生态呈现出传统版图碎片化（Fragmentation）与新兴数字社交媒体爆发式崛起的双重转型；新媒体已成为公众获取科学信息的最主要渠道，但专业科技记者的生存空间日益受挤压，大众媒体在社会议程设置中的主导地位依然不可忽视。（pp. 56–57）
 
 #### 主题一：大众媒介生态的结构性瓦解与[[Science Journalism|专业科学新闻]]面临的生存挤压
@@ -169,7 +169,7 @@ updated: 2026-10-20
 >
 > *(注：数据基于 PAS 2025 调查，题干要求受访者回顾过去 2 周内主动检索科学资讯的渠道，明确排除了因本职工作或课业学习的被动接触，p. 57)*
 
-> [!stat-cards] 渠道格局变迁的关键特征（Newman et al., 2025; Ofcom, 2025）
+> [!stat-cards]- 渠道格局变迁的关键特征（Newman et al., 2025; Ofcom, 2025）
 > - **40% / 36%** 历史性拐点：在排除职业与学业刚需后，40% 的英国成年公众通过新兴数字社交媒体主动获取科学资讯，正式超过依靠电视、广播等传统大众媒体的比例（36%）。（p. 57）
 > - **34%** 的公众处于科学信息零主动接触状态，超三分之一的成年受访者在两周内未主动寻求任何科学信息，凸显出提高科普内容吸引力与触达率的紧迫性。
 
@@ -189,7 +189,7 @@ updated: 2026-10-20
 
 数字社交平台打破了传统媒体的中心化单向广播格局，为科学传播提供了触达数以百万计受众的巨大空间，催生了大量高水准科普博主、科学播客与学术博主；然而，这种[[Open-Mindedness|开放性]]也带来了前所未有的系统性信息污染危机。（pp. 58–60）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 数字媒介环境下，不准确、误导性乃至恶意捏造的[[Scientific Misinformation\|科学虚假信息]]（Misinformation）正以惊人体量与传播速度广泛扩散，在公共卫生与气候行动中造成深远现实伤害；商业平台的推荐算法与数据黑箱严重阻碍独立学术审计，而极少数极化群体的回音室效应在网络中被不成比例地放大，同时针对科研人员的网络暴力正导致大批一线学者从公共[[Discourse|话语]]中退出。（pp. 58–60）
 
 #### 主题一：数字信息环境中的多重风险与结构性诱因
@@ -228,7 +228,7 @@ updated: 2026-10-20
 > - **多方协同的循证传播战役** 科学共同体（纽卡斯尔大学科研团队、威康信托基金会、人类受精与胚胎学管理局（Human Fertilisation and Embryology Authority, HFEA））联合 SMC 展开前置性媒体战略沟通：多次召开专题吹风会，运用通俗图解向科技记者与政治记者严密阐明生物学事实——人类 99.8% 的遗传密码储存于细胞核脱氧核糖核酸（Deoxyribonucleic Acid, DNA）中（决定外貌与性状），而线粒体仅含有 0.2% 负责细胞供能的能量基因，线粒体置换绝非改造个体外貌或智力。
 > - **全球首个合法化立法突破** 严谨、透明且富有同理心的科学传播，配合患儿家庭现身说法的真情实感，彻底赢得了主流媒体与公众的理解支持。2015 年英国议会两院以压倒性多数投票通过修法，使英国成为全球首个合法化线粒体捐赠疗法的国家，树立了争议前沿科技理性立法的全球标杆。
 
-> [!lessons]- 争议前沿科技媒介沟通的制度启示
+> [!lessons] 争议前沿科技媒介沟通的制度启示
 > 1. **前置介入优于事后被动辟谣** 在争议爆发初期即由权威中介组织面对面媒体吹风会，能够有效抢占社会认知制高点，避免惊悚标签主导舆论；
 > 2. **精准区分生物学现实与公众伦理想象** 将 99.8% 核基因与 0.2% 供能线粒体基因清晰剥离，是破除“设计婴儿”泛道德化恐慌的关键科学钥匙；
 > 3. **患者叙事与实证证据的双轮驱动** 严谨的临床证据与受遗传病折磨家庭的真情实感有机结合，能显著增强立法辩论中的同理心与社会凝聚力。
@@ -246,14 +246,14 @@ updated: 2026-10-20
 
 在虚假信息与算法茧房的重围中，公众并未丧失对科学的敬意，反而表现出对高品质科学知识的强烈饥渴。（pp. 59–60）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 英国公众对科学知识保持着巨大的求知胃口，但面对铺天盖地的冲突信息深感真伪难辨；公众日益厌倦令人绝望的灾难叙事，产生了严重的新闻回避（News Avoidance）；科学界应积极倡导“[[Solutions Journalism\|解决方案新闻]]”（Solutions Journalism），借助公众对高校科学家高达 87% 的深厚信任资本，提供建设性、启发希望的高品质科普供给。（pp. 59–60）
 
 #### 主题一：公众科学求知欲与信息环境失真之间的深层矛盾
 
 英国广播公司（British Broadcasting Corporation, BBC）受众调研与 PAS 2025 的联合实证测绘，揭示出现代公众复杂的认知心理特征：
 
-> [!stat-cards] 公众科学求知欲与真实性落差三大指标（BBC, 2025; PAS, 2025; Ipsos, 2025）
+> [!stat-cards]- 公众科学求知欲与真实性落差三大指标（BBC, 2025; PAS, 2025; Ipsos, 2025）
 > - **62% / 92%** 庞大公众信息需求：PAS 2025 调查中 62% 的受访公众明确指出日常生活中听到或看到的科学信息太少；在 BBC 受众调查中，超六成公众自发表达对科学感兴趣，当列出具体科技前沿清单时，高达 92% 的受访者对至少一个领域展现出浓厚兴趣，75% 认同理解科学对现代公民至关重要。（p. 59）
 > - **40% / 48%** 真实性感知的历史性滑坡：仅 40% 的公众认同日常所接收到的科学信息“通常是真实的”（较 2014 年超 50% 显著下降；仅 10% 明确否认，近半数受访者陷入“无法确定”的迷茫状态）；48% 的公众明确表示关于科学的相互冲突信息过多，导致极难抉择应当相信什么。
 > - **87% / ≈ 33%** 科学家公信力对媒介信任的压倒性优势：仅约三分之一（33%）的英国公众信任传统新闻媒体，对社交媒体的信任度更低；然而，公众对大学科学家的诚信信任度长期保持在 80% 以上（PAS 2025 为 87%），科学家群体拥有全社会最宝贵的公信力资产。（pp. 59–60）
@@ -282,7 +282,7 @@ updated: 2026-10-20
 
 [[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, Generative AI）技术的爆炸式演进，正在彻底改写科学新闻生产、学术信息检索与公众获取知识的底层规则。（pp. 60–62）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 生成式 AI 工具正在深刻改变记者、高校新闻官与公众的信息检索及内容生产方式；科学界必须在 AI 生成内容的“狂野西部”中建立权威科学证据的内容护栏，并借鉴文化艺术界经验，深化科学界与广播机构的多样化联合制作（[[Knowledge Co-production\|co-production]]）。（pp. 60–62）
 
 #### 主题一：生成式 AI 对科学传播与搜索引擎生态的底层重构
@@ -310,7 +310,7 @@ updated: 2026-10-20
 > - **融媒体裂变与多渠道社会行动** 纪录片不仅在黄金时段电视频道引发轰动，更衍生出针对社交网络定制的短视频切片、针对学校的配套教学资源包以及公众在地化生物保护行动指南，实现了从线性电视收视向全民环保行动的跨越。
 > - **向艺术界取经的跨界启示** 报告深刻指出，艺术人文界长期擅长联合影视机构开展跨界制作；科学共同体必须打破偏见，积极推动将前沿科学探索与科学家命运融入历史剧、传记片、科幻电影乃至流行电子游戏中，让科学自然流淌在主流通俗文化叙事中。
 
-> [!lessons]- 跨界联合制作（Co-production）的核心机制启示
+> [!lessons] 跨界联合制作（Co-production）的核心机制启示
 > 1. **编辑独立权是公信力护城河** 赞助与学术机构严守科学顾问角色，绝不干涉媒体编辑决策，是保障科学节目免遭“软文宣传”质疑的根本准则；
 > 2. **多元注资模式分摊高昂制作成本** 自然历史纪录片制作周期长、技术投入大，跨学科基金会与大学协同注资是破解公共媒体财政紧缩的可行解法；
 > 3. **全媒体衍生放大社会行动涟漪** 电视播出只是起点，通过切片社交短视频与学校教具包延伸，能将短暂的观影震撼转化为持久的全民保护行动。
@@ -321,7 +321,7 @@ updated: 2026-10-20
 
 科学传播生态的净化，不能仅仅寄望于受众端的事后事实核查，更必须倒逼至[[Knowledge Production|知识生产]]源头与学术机构传播链条的制度化规范。（pp. 61–64）
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 大众媒体报道中耸人听闻的科学夸大结论，很大程度上直接植根于大学与科研机构自身新闻通稿（Press Releases）的过度营销；必须将科学传播正式纳入科研诚信（[[Responsible Conduct of Research]]）大框架，参照英国统计局标准制定科学传播《行为守则》（Code of Practice），并全面落实皇家学会五大系统性政策建议（建议 6 至建议 10）。（pp. 61–64）
 
 #### 主题一：科学新闻结论夸大的源头溯源与科研诚信合流
@@ -380,7 +380,7 @@ updated: 2026-10-20
 
 #### 主题四：第三章专家研制委员会背景（Annex 1, p. 110）
 
-> [!info]- 第三章专家研制工作组核心成员与多元机构构成（Chapter 3 Working Group, Annex 1, p. 110）
+> [!info] 第三章专家研制工作组核心成员与多元机构构成（Chapter 3 Working Group, Annex 1, p. 110）
 > 英国皇家学会为本章研制设立了高规格的专家工作组，成员跨越了科学界、国家广播影视机构、商业主流媒体与科研传播中枢，确保了报告建言的高度专业性与产业可行性：
 > - **工作组主席（Chair）**
 >   - 菲奥娜·福克斯（Fiona Fox）：英国医学科学院院士（Fellow of the Academy of Medical Sciences, FMedSci）、英国皇家学会院士（Fellow of the Royal Society, FRS）、科学媒体中心（SMC）首席执行官，英国科技传播界泰斗级领军人物。
@@ -417,22 +417,22 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- [[Scientific Misinformation\|科学虚假信息]]的时代威胁
+> [!citation-card] [[Scientific Misinformation\|科学虚假信息]]的时代威胁
 > 科学虚假信息并非新现象，但媒体格局的深刻重塑意味着不准确、误导性乃至完全捏造的信息如今能够以庞大的体量和极高的速度裂变扩散。虚假信息在一定程度上助长了对疫苗的不信任，并扰乱了应对气候变化的公共讨论。这会给个体与整体社会带来严重损害。（p. 58）
 >
 > *Scientific misinformation is not a new phenomenon, but changes in the media landscape mean that inaccurate, misleading and false information can now be shared in large volumes and at speed. False information has to some extent fuelled mistrust in vaccines and confused discussions about tackling climate change. This can result in harm to individuals and to society.*
 
-> [!citation-card]- 坦诚沟通不确定性与公众信任
+> [!citation-card] 坦诚沟通不确定性与公众信任
 > 科学家不应回避承认局限性与不确定性；这似乎既不会使读者困惑，也不会阻碍读者，反而实际上可能会增强公众的信任……增进[[Scientific Literacy\|科学素养]]将有助于公众理解科学证据生成的微妙复杂性。（p. 62）
 >
 > *Scientists should not shy away from acknowledging limitations and uncertainties, which does not appear to confuse or deter readers, and may actually increase trust... enhancing scientific literacy will help members of the public appreciate the nuances of scientific evidence generation.*
 
-> [!citation-card]- 科学传播与科研诚信的合流
+> [!citation-card] 科学传播与科研诚信的合流
 > 科学界目前正致力于提升科学文献的标准，越来越关注科研诚信与可重复性；但这些努力往往与科学传播割裂开来——这两项事业应当合二为一。（p. 64）
 >
 > *The science community is currently trying to improve the standards of scientific literature, with increasing focus on [[Responsible Conduct of Research\|research integrity]] and reproducibility, but these efforts often take place separately from science communication – the two endeavours should be merged.*
 
-> [!citation-card]- 赢回受众与抵制竞次倾轧
+> [!citation-card] 赢回受众与抵制竞次倾轧
 > 科学共同体应当向新闻媒体传递强烈信号：在社交媒体上最有效竞争并把受众赢回专业新闻的途径，绝不是加入竞次的泥潭，而是提供英国公众反复表示想要的优质新闻。（p. 63）
 >
 > *The scientific community should send a strong message to the news media that the way to compete most effectively on social media and win audiences back to professional journalism is not to join a race to the bottom, but to deliver the high-quality news that the British public repeatedly say they want.*

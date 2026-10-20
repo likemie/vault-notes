@@ -60,7 +60,7 @@ updated: 2026-10-15
 
 ## 项目形成与进入国际文凭设计
 
-> [!dev-timeline]- OCESCE 从比较研究发展为课程与考试资源
+> [!dev-timeline] OCESCE 从比较研究发展为课程与考试资源
 > - **1960–1961 年　牛津课程改革研究形成问题基础** 牛津报告和三次会议集中讨论英国高中课程过度专门化与文理分裂，吸引 300 多名学校和大学教师参与。国内改革随后长期停留在讨论阶段。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–22)]]
 > - **1960 年代初　牛津与欧洲委员会建立比较项目** 双方商定比较欧洲委员会成员国的高中课程与考试，Halls 负责实施，研究结果以 OCESCE 系列发布。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 22)]]
 > - **1964–1966 年　比较资料进入 IB 可行性研究** 牛津团队参与日内瓦项目时，OCESCE 提供各国现行课程、考试与改革趋势的制度背景。Halls 负责比较研究，并与[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）及[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）形成课程、考试和执行分工。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 22–28)]]

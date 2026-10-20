@@ -83,7 +83,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2013 年 4 月 22 日：[[EU|欧盟]]理事会通过关于设立 Youth Guarantee 的建议书（European Council, 2013）
 > - 该计划与 [[Europe 2020 Strategy]] 同步运作至 2020 年
 > - 与 [[EU Skills Agenda]]（2016）形成政策互补，共同服务于 Europe 2020 的就业和教育目标
@@ -112,7 +112,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Theories of Policy Change]] — Youth Guarantee 的"4 个月窗口"承载了"快速衔接=有效政策"的隐含因果叙事
 > - [[Selectivity]] — 就业优先指标使短期就业安置压倒长期人力发展
 > - [[Performance Indicators]] — 以"4 个月内就业/教育/培训/学徒"作为衡量成功的核心指标

@@ -207,7 +207,7 @@ updated: 2026-10-20
 > > - **批判性应用（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）** 依据盲点与系统封闭论，论证“可见学习”制造了全视神话，其所声称的透明度在[[Epistemology|认识论]]上属于虚构意识形态。
 > > - **辩护性应用（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）** 依据[[Structural Coupling|结构耦合]]论为可见学习辩护，主张量化证据作为概率信息刺激教师[[Professional Judgment|专业判断]]展开情境化审议。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - Habermas (1985) — 《现代性的哲学[[Discourse|话语]]》第十二章集中批判卢曼系统论对交往理性的消解。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 调动[[Blind Spot in Observation|观察盲点]]理论，全面解构实证测量主义的眼球中心主义幻象。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 结合系统论与专业判断模型，反思[[Evidence-Based Education|循证教育]]中机械因果套用的危险。

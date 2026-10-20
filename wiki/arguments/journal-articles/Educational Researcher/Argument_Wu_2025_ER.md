@@ -168,7 +168,7 @@ issuing_organization: ""
 
 ### 论证步骤一　生成式人工智能打破传统教学系统模式，要求确立人机共享认识能动性与自适应认识立场
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[Generative Artificial Intelligence\|生成式人工智能]]打破了传统基于预设规则与固定路径的教学系统模式，能够直接输出高度整合且连贯的知识解答；若缺乏主动反思，学习者面临让渡认知控制权的风险，因此必须将人机交互重塑为双方共同承担[[Epistemic Responsibility\|认知责任]]的共享[[Epistemic Agency\|认识能动性]]系统。（pp. 358–360）
 
 #### 1. 生成式大模型输出的即时完整性容易诱发认知卸载与认识依赖
@@ -206,7 +206,7 @@ issuing_organization: ""
 
 ### 论证步骤二　学习者的认识立场与先验知识决定其能否有效利用生成式模型开展批判性建构（修订蔡今中假说一）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 修订 Tsai (2004) 关于网络学习认识论的第一假说：学习者从生成式人工智能中获得的认知增益由其认识立场、先验知识与知识辩护方式所决定；先验知识丰富且持评价论立场的学习者能够实现深度理解，而缺乏先验知识且持绝对论立场的学习者容易陷入权威盲信。（pp. 360–364）
 
 #### 1. 修订蔡今中网络学习第一假说：生成式环境下知识获取效益由认识立场与先验知识共同决定
@@ -240,7 +240,7 @@ issuing_organization: ""
 > - **交互过程** 由于缺乏先验知识，该生直接向 ChatGPT 询问适用的统计检验方法。ChatGPT 建议采用 $\chi^2$ 拟合优度检验，并附带了 R 语言代码 `chisq.test()` 及示例说明。该生查阅课程讲义确认讲义也提及卡方拟合优度检验后，立即结束交互并将代码照搬至作业中。（p. 363）
 > - **机制诊断** 表现出典型的绝对论（Absolutist）特征，视知识为非黑即白的确定性事实，高度依赖外部权威（讲义与大模型），认知加工停留在程序记忆层面。
 
-> [!figure]- 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）
+> [!figure] 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig1_Student_A_Interaction_Dialog.jpg)
 
 > [!case] Case 2: Student B —— 多元论立场下的多向探索与相对主义容忍
@@ -248,7 +248,7 @@ issuing_organization: ""
 > - **交互过程** 该生知晓经典公式 $\omega^2 = \frac{\text{SS}_{\text{between}} - \text{df}_{\text{between}} \times \text{MS}_{\text{error}}}{\text{SS}_{\text{total}} + \text{MS}_{\text{error}}}$，并在其他资料中见到了基于 $F$ 值的替代公式 $\omega^2 = \frac{(p - 1)(F - 1)}{(p - 1)(F - 1) + np}$。该生并未询问哪个公式是正确的，而是向 ChatGPT 提问为何存在两种公式形式。模型解释了数学等价性与小样本偏差修正后，学生进一步针对参数定义展开多轮追问。（p. 363）
 > - **机制诊断** 展现出清晰的多元论（Multiplist）特征，认识到不同情境下存在多种合理合法的解法；但其局限在于将各种解法视为各自合理，缺乏依据严密评判标准进行排他性优劣裁决的决断意识。
 
-> [!figure]- 图2：Student B 与 ChatGPT 的交互对话记录（多元论立场）
+> [!figure] 图2：Student B 与 ChatGPT 的交互对话记录（多元论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig2_Student_B_Interaction_Dialog.jpg)
 
 > [!case] Case 3: Student C —— 评价论立场下的深度审问与多重证据裁决
@@ -263,14 +263,14 @@ issuing_organization: ""
 >   7. **最终决策收束** 综合[[Sample Size Determination\|样本量]]过小、顺序尺度与非正态特征，排除所有卡方检验，选定非参数的斯皮尔曼等级相关。
 > - **机制诊断** 充分展现评价论（Evaluativist）风范，以方法学假设前提为准绳实施多轮批判检验，综合个人专业反思、机器反馈与同伴研讨构建起多重辩护体系。（pp. 363–364）
 
-> [!figure]- 图3：Student C 与 ChatGPT 的交互对话记录（评价论立场）
+> [!figure] 图3：Student C 与 ChatGPT 的交互对话记录（评价论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig3_Student_C_Interaction_Dialog.jpg)
 
 ---
 
 ### 论证步骤三　频繁的人机交互无法自发带来认识论成熟，必须结合溯源教学支架与技术提示策略推动立场向评价论演进（修订蔡今中假说二）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 修订 Tsai (2004) 第二假说：单纯频繁使用生成式人工智能无法自发促进认识立场成熟；唯有将人机持续互动与跨源核验的教学反思支架及角色扮演、[[Chain-of-Thought Prompting\|思维链]]等技术策略相结合，才能推动学习者由绝对论向评价论稳步演进。（pp. 364–366）
 
 #### 1. 修订蔡今中网络学习第二假说：缺乏反思机制的频繁交互容易固化绝对论盲从

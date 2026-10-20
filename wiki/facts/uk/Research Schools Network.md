@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2016 — 试点启动与标准奠基** [[Education Endowment Foundation\|EEF]] 联合 [[Institute for Effective Education\|IEE]] 启动试点项目，在全英格兰遴选首批 5 所具有深厚教学反思底蕴的公立学校挂牌为“研究学校”，制定统一的学校认证标准与同伴辅导操作规程。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **2017–2019 — 规模化扩张与机会区覆盖** 英国教育部将 RSN 纳入解决区域教育不平等的“机会区”（Opportunity Areas）国家战略，投入数百万英镑专项经费，将网络规模大幅扩展至英格兰黑石、布拉德福德等教育薄弱地区的近 40 所中小学，形成覆盖全英各区域的知识辐射网。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 118)]]
 > - **2020 年代至今 — 实施科学指南研发与业务深化** 研发标准化的《学校证据实施指南》（Putting Evidence to Work: A School's Guide to Implementation），确立“探索—准备—交付—维持”四阶段实施框架；围绕助教循证配置、早期阅读及数学教学法等专项模块开展区域跨校轮训，成为全球教育体系中规模最大、制度化程度最高的校际证据中介实体网络之一。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
@@ -103,13 +103,13 @@ updated: 2026-10-20
 > - **区域研究学校（Designated Research Schools）** 各校设立专职“研究主任”（Director of Research School），负责统筹本校循证实践展示，并与周边数十所结对学校（Associate Schools）建立常态化教研伙伴关系。
 > - **教育证据带头人网络（Evidence Leads in Education, ELEs / Evidence Champions）** 由经过系统循证素养培训的一线骨干教师组成，深入周边薄弱学校开展入校诊断、同侪观摩与伴随式教学教练辅导。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 
-> [!pathways]- 业务运行机制与实施链路
+> [!pathways] 业务运行机制与实施链路
 > - **同伴示范与校际开放日** 举办公开示范活动，让周边学校校长与教师现场观摩基于 EEF 实证证据（如[[Metacognition\|元认知]]训练、结构化同伴辅导、支架式提问教学）的课堂真实教学场景。
 > - **阶梯式持续专业发展（Multi-day Stepped CPD）** 开展为期数月的阶梯式研修项目，指导教师系统掌握“诊断校本问题 $\rightarrow$ 检索匹配证据 $\rightarrow$ 制定实施计划 $\rightarrow$ 监测评估成效”的完整循证循环。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 > - **定制化入校辅导与资源规划教练** 派出证据带头人深入薄弱学校，协助管理层科学规划“[[Pupil Premium\|学生津贴]]”（Pupil Premium）预算投向，确保公共资源精准投向经过严谨因果验证的干预措施。
 > - **四阶段实施科学规程（Explore-Prepare-Deliver-Sustain）** 指导学校告别盲目跟风引入外部新项目的做法，按照探索（严谨诊断需求）、准备（制定方案与调整排课）、交付（微观课堂实践支持）与维持（长效机制制度化）四个阶段扎实推进教改。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 
-> [!theory-components]- [[COM-B Model\|COM-B]] 行为改变支撑机制（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 152–153]]）
+> [!theory-components] [[COM-B Model\|COM-B]] 行为改变支撑机制（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 152–153]]）
 > RSN 机制之所以能够超越单向信息推介，关键在于其运作机制完整对应了行为改变轮（COM-B）的三大核心心理与行为支柱：
 > - **能力支柱（Capability）** 通过阶梯式 CPD 培训，提升一线教师对统计[[Effect Size\|效应量]]、证据挂锁等级及偏倚风险的批判性解读能力；
 > - **机会支柱（Opportunity）** 通过校际协作共同体与排课调适，为教师跨校研讨与入校观摩提供制度化的物理空间与时间工时保障；
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 规模覆盖与网络指标
+> [!indicators] 规模覆盖与网络指标
 > - **实体网络规模** 布局全英格兰近 40 所领头研究学校，下设数十个“研究学习网络”（Research Learning Networks, RLNs），培训并认证数百名教育证据带头人（ELEs）。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **学校触达广度** 在机会区等教育生态脆弱学区，直接触达并深度支持逾 1,000 所中小学校。
 > - **学术与治理定位** 在 [[OECD]] [[Knowledge Mediation\|知识中介]]分类与欧洲证据基础设施研究中，被公认为基础教育领域最大规模的校际去中心化中介网络典范。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 32)]]

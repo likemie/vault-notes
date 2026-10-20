@@ -82,7 +82,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 项目假定：通过外部大学研究教练的结构化支架，引导跨层级教师团队经历八步严谨探究规程，能够将学校原始数据转化为深层归因信息并重塑教师协作文化，从而显著提升教师的[[Data Literacy\|数据素养]]与教学效能，最终带动学生学业成果改善。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 破除[[Empiricism\|经验主义]]盲目摸索，提升教师多源数据质检与实证成因归因能力，建立数据知情的校本持续改进循环。
 > - **团队组成** 每所试点学校组建 1 个数据团队（Data Team），由 4 至 6 名学科教师与 1 至 2 名[[School Leadership\|学校领导]]（校长或中层教导主任）共同构成（全组 6–8 人），确保教学视角与行政协调资源的融合。
 > - **外部教练支架** 由特温特大学派遣经过严格训练的数据研究教练（Data Coach），在 1 至 2 年内定期入校辅导团队会议，提供方法论与统计工具支持，逐步向学校移交主导权。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 推进历程
+> [!dev-timeline] 推进历程
 > - **2010–2012 — 原型开发与荷兰试点** 希尔德坎普团队在荷兰中学系统确立八步规程与教练手册，初步完成单校试点，验证了模型的可行性。
 > - **2013–2016 — 规模化实验与 [[Randomised Controlled Trials\|RCT]] 评估** 在荷兰与瑞典超过 80 所中小学系统铺开，通过多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）检验数据团队对教师[[Data Literacy\|数据素养]]与学生成绩的干预效能（Carlson et al., 2011; Faber & Visscher, 2014; Van Geel et al., 2016）。
 > - **2017 — 遭遇干预设计瓶颈与理论反思** 评估实证表明，教师在完成前六步（诊断病因）后，在第七步“采取行动”时普遍苦于研制不出科学有效的教学改进举措；[[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 提出将数据团队与外部[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）结合，构建 [[School Enquiry Cycle\|ESTI]] 整合模型。

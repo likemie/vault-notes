@@ -39,7 +39,7 @@ updated: 2026-10-16
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.238–239]]）。
 
 > [!quote]
@@ -74,7 +74,7 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 ... Applied fuzzy match at line 41-94.
 ## 发展脉络
 
-> [!note]-
+> [!note]
 > Gruschka 的[[Didaktik\|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
 > - Gruschka（2009）：*Erkenntnis in und durch Unterricht*（教学中的认识与通过教学的认识）——奠定理论基础
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上

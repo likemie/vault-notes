@@ -68,7 +68,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 关于[[Research Utilization\|研究使用]]的理论经历了三代演进：从最初的理性-线性单向传递（第一代），到院校合作与关系网络（第二代），再到学校制度与系统支持（第三代）。前三代模型在底层依然不同程度地将教师预设为外部科研的被动消费者与执行者。第四代理论主张迈向专业敏感型概念化（[[Profession-Sensitive Conceptualisations of Research Use\|profession-sensitive conceptualisations]]），充分尊重教师职业的复杂特性，将[[Research Utilization\|研究使用]]重构为教师在具体教学情境中，依托育人伦理与实践经验，对多元知识进行主动权衡、筛选与整合的专业决策过程。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 2, 7–8)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 我们主张关于研究使用的研究应当迈向第四代，在更大程度上顾及教师专业实践的核心特征。与其将问题归结为教师能力不足，不如将分析焦点置于[[Knowledge Integration\|知识整合]]，从而更深入地揭示科研知识在专业实践中的适用边界与真正价值。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 >
 > *Based on our findings, we argue that [[Metascience|Research on Research]] use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts\|account]] key characteristics of teachers’ professional practice... rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances\|affordances]] of research knowledge as a component of professional practice.*

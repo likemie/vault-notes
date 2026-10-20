@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 制度绝非一经建立便处于刚性静止的均衡实体，其政策意图与现实运行之间必然存在持续的缝隙；制度是具有资源分配后果的权力工具，必须将遵从与规则解释确立为动态博弈[[Variable|变量]]；在面临强大否决点使得推倒重建不可行时，行动者通过在既有规则顶端积极叠加新规程、新工具与新载体（[[Institutional Layering|制度层叠]]），或利用裁量权改变规则实施目标（[[Institutional Conversion|制度转换]]），随历史时间推移逐步重塑原有规则地位与行为结构，从而在规避正面政治冲突的同时实现深刻的制度转型（Thelen, 2004; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15]]；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 11–12]]）。
 
 > [!citation-card] 制度作为权力分配工具与内生变迁动力

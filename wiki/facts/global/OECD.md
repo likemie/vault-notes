@@ -259,7 +259,7 @@ updated: 2026-10-20
 
 在日常业务层面，OECD 通过精密的技术程序将复杂的各国内部教育实践转化为标准化的国际指标。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置与跨国[[Space of Equivalence|等值空间]]虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **远处掌舵与多层网络调控** 借鉴[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
@@ -301,7 +301,7 @@ updated: 2026-10-20
 
 经合组织通过其强大的量化技术与跨国声誉网络，深刻重构了当代全球教育治理的基本图景。
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，[[PISA]] 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
 > - **[[Knowledge Production\|知识生产]]与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居跨国教育智库之首。
 > - **制度问责与国家治理重塑** 推动挪威、瑞士、德国及中国等数十个国家建立与国际标准对接的全国教育质量监测系统与循证督导评估体制。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]

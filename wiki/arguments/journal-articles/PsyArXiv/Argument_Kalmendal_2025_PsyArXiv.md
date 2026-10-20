@@ -184,7 +184,7 @@ issuing_organization: ""
 
 ### 论证步骤一　底层纳入标准严重失范：超过八成影响因素混入错误的研究对象、干预措施与结局指标
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 《[[Visible Learning|可见的学习]]》在文献筛选入口缺乏基本质量控制，绝大多数影响因素混入了与所定义主题不符的学生群体、干预措施、对照条件或测试指标，导致汇总计算出的[[Effect Size|效应量]]失去明确的因果含义。（pp. 14–15）
 
 #### 1. 四项准入条件全合规率仅为 19%，四项全错率高达 25%
@@ -223,7 +223,7 @@ issuing_organization: ""
 
 ### 论证步骤二　统计模型违规合并：将实验干预与相关研究混为一谈摧毁因果解释力
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 《可见的学习》违背统计学原理，将估计完全不同总体参数的组内设计、组间实验与观察性相关研究混在一起直接求平均值，彻底丧失了判断哪种教学真正促成进步的因果解释力。（pp. 7–8, 15–16）
 
 #### 1. 组间实验与组内前后测估计不同参数，不可直接算术平均
@@ -267,14 +267,14 @@ issuing_organization: ""
 
 ### 论证步骤三　文献年代严重脱节：技术领域依赖陈旧研究且重复计算固化早期结论
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 《可见的学习》在信息技术等快速发展的教学领域大量使用 1980 年代的研究，且因反复纳入同一批早期实验形成加权偏倚，导致其结论停留在数十年前，无法反映当代教育实际。（pp. 16–18, 21）
 
 #### 1. 数字化教学因素严重停留在微机起步时代的文献
 
 尽管全库整体有约一半的元分析发表于 2010 年之后，但在技术等迭代迅速的领域，文献却严重滞后于时代。
 
-> [!figure]- 图 1：全库 322 项影响因素纳入元分析的出版年份分布
+> [!figure] 图 1：全库 322 项影响因素纳入元分析的出版年份分布
 > ![](https://img.mylikemie.icu/sources/Kalmendal_2025_PsyArXiv/figures/Kalmendal_2025_PsyArXiv_Fig1_Descriptives_of_Publication_Year.jpg)
 > 
 > *图 1 反映出纳入文献年代跨度的极端离散。大量底层研究发表于上世纪八九十年代，在技术类主题中尤为普遍。（p. 16）*
@@ -337,7 +337,7 @@ issuing_organization: ""
 
 ### 论证步骤四　数据提取全面失真：301 项可查影响因素中仅有 2 项能够成功复现
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 对底层原始数据的逐项核查表明，《可见的学习》存在大面积的数据提取与录入错误：在 301 项因素中仅有 2 项能核实原始数值，超过四成的报告效应量在原文中根本不存在。（pp. 18–19）
 
 #### 1. 独立复现测试的极低通过率与主要错误类型
@@ -381,7 +381,7 @@ issuing_organization: ""
 
 ### 论证步骤五　教学实践关联割裂：专家评审表明大量因素脱离基础教育实际需要
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 国际专家评审评定证实，《可见的学习》充斥着大量学校根本无法干预的外在因素；将医学、生理学或早已被[[Falsification|证伪]]的伪科学概念与课堂教学并列排榜，严重干扰了学校改进的合理重点。（pp. 19–20, 22）
 
 #### 1. 专家评审证实学校核心教学与外围无关因素的评分严重分化
@@ -440,12 +440,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 核心结论：不可接受的方法学质量与复现性
+> [!citation-card] 核心结论：不可接受的方法学质量与复现性
 > 正如《[[Visible Learning|可见的学习]]》这一构想所展现的雄心壮志一样，其方法学质量与可复现性对于任何旨在指导教育实践的事物而言，都是完全不可接受的。[[John Hattie|约翰·哈蒂]]推出其首部超级研究至今已过去十五年，我们希望学术共同体终于准备好接受这一总体构想的价值，并勇于承担挑战——在维持最高水准的方法学质量、可复现性与相关性的同时，为如何提高学生[[Academic Achievement|学业成就]]提供简明易懂的综述。（p. 23）
 >
 > *As promising as the idea of Visible Learning is, the methodological quality and reproducibility is entirely unacceptable for anything that informs educational practices. It has now been fifteen years since John Hattie launched his first mega-study. We hope that the research community is finally ready to accept the overall idea as useful, and step up to the challenge to deliver an easy-to-comprehend overview on how to improve student achievement, while also maintaining the highest levels of methodological quality, reproducibility, and relevance.*
 
-> [!citation-card]- 对实践者的政策通告：切勿依赖
+> [!citation-card] 对实践者的政策通告：切勿依赖
 > 我们给实践者的信息十分明确：除了将其作为影响学生成就的潜在因素清单之外，切勿在任何其他方面依赖《可见的学习》。其报告的[[Effect Size|效应量]]往好里说是不可靠且错误的；往坏里说则是彻头彻尾的误导。（p. 22）
 >
 > *Our message to practitioners is clear: do not rely on Visible Learning for anything other than as a list of potential influences of student achievement. The reported effect sizes are, at best, unreliable and incorrect; at worst, outright misleading.*

@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **动态机制** 知识整合（Knowledge Integration）：面对具体复杂的课堂难题，教师并非照单套用外部论文处方，而是主动在多源知识库中进行因地制宜的剪裁、转译与重构。
 > - **理论用途** 确立教师职业的专业[[Epistemology\|认识论]]地位，破除把教师当作外部知识被动执行者的[[Technical Rationality\|技术理性]]偏见，为解释一线教学中审慎取舍科研证据提供正当性基础。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 针对教师知识库的研究日益强调，教师在日常工作中持续努力整合多样化的知识资源……这种视角将更充分地考虑到教师知识库的多元特征，以及科研知识在具体的实践问题情境中始终需要与其他知识资源进行协商与转译的事实。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 >
 > *Research on teachers’ knowledge base is increasingly emphasising teachers’ continuous efforts to integrate diverse knowledge resources as part of their everyday work... Such a perspective would more adequately [[Accounts\|account]] for the multifaceted nature of teachers’ knowledge bases and the fact that research-based knowledge will always be negotiated in relation to other knowledge resources in the context of a specific problem of practice.*

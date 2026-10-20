@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **用途** 用于重构[[Student-Teacher Relationship\|师生关系]]与课程设计，摆脱被动听讲与[[Rote Learning\|死记硬背]]，使学生获得审视现实不公与做出知情决策的能力。
 > - **边界** 提问式教育并非无目的的提问泛化，其核心在于结合学生切身经验，指向打破[[Culture of Silence\|沉默文化]]、实现[[Conscientization\|批判意识觉醒]]与改造现实的实践行动。
 
-> [!citation-card]- 关键表述：共同探究者与问题提导
+> [!citation-card] 关键表述：共同探究者与问题提导
 > 在提问式教育中，教师不再仅仅是那个教学的人，而是在与学生的对话中自身也在被教学的人；学生在被教学的同时也在教学。他们共同对这一过程负责……人们通过相互的中介实现自我解放。（Freire, 2000, p. 80; 引自 Darwish, 2009, p. 9）
 >
 > *Through problem-posing education, the teacher-of-the-students and the students-of-the-teacher cease to exist and a new term emerges: teacher-student with students-teachers. The teacher is no longer merely the-one-who-teaches, but one who is himself taught in dialogue with the students... (Freire, 2000, p. 80)*
@@ -115,5 +115,5 @@ updated: 2026-10-20
 > | [[Conscientization]] | 概念 | 提问式教育的心理与政治结果（批判意识觉醒）。 |
 > | [[Praxis]] | 概念 | 提问式教育的终极行动落地。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 论述提问式教育在主动学习三环节模型中的定位及其对 [[Theory of Knowledge\|TOK]] 课程的审查。

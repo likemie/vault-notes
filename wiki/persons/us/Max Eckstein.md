@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育学的发展历史体现了从直觉见闻走向系统实证科学的必然演化路径；研究者应当将经验社会[[Scientific Paradigm|科学范式]]引入教育分析，把国家间差异视为天然的准实验场，其方法论核心在于**用抽象的概念[[Variable|变量]]替代具体的国别系统名称**，通过严密的数据抽样、量化调查、假说设立与统计控制，寻求[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变规律；这种[[Positivism|实证主义]]探索不仅能有效清洗传统研究中的主观偏见与任意武断，而且为战后公共教育现代化改革提供了客观中立的决策基石。
 
 > [!citation-card] 卡扎米亚斯论哥大学派：以变量替代系统名称的核心方法论纲领
@@ -185,7 +185,7 @@ updated: 2026-10-20
 > - **学会组织领导** 长期活跃于 [[Comparative and International Education Society|CIES]] 核心领导层并出任会长，推动学会与国际测量组织及各大学术研究机构的跨界协同；
 > - **史学反思的论辩起点** 考恩将 Noah & Eckstein 的经典起源叙事视为学科合法化历史的典范，但同时也指出必须超越这种单一功能性叙事，走向多中心与批判反思的[[Comparative History of Comparative Education|比较教育学比较史]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析埃克斯坦与诺亚的奠基性著作对学科合法性的支持，并探讨未来重写学科史的[[Paradigm|范式]]可能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析“以[[Variable|变量]]替代系统”的方法论教条与[[Multiple Regression|多元回归]]假设，并基于巴伯的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
@@ -247,7 +247,7 @@ updated: 2026-10-20
 > > - **Noah and Eckstein（1969）** 坚信跨国变量统计与客观测量能够根除研究中的主观偏见与政治偏好，为政策干预提供客观依据。
 > > - **[[Andreas Kazamias]] & [[Bernard Barber]]（1972, 2009a）** 揭露方法论主义将研究简化为冰冷数字汇编的危害，指出客观中立的变量模型在冷战时期深度沦为国家五年计划与第三世界技术援助的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
-> [!critique]- 批评与局限索引
+> [!critique] 批评与局限索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 尖锐批判哥大学派“以变量替代系统”的教条抹杀了国家具体的历史土壤，揭露战后量化实证范式充当国家五年计划与国际机构技术援助合法化借口的政治功能。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 肯定其起源史提供的学科合法性，但指出这套单线进化谱系在客观上遮蔽了非西方经验与未归档的历史复杂性。
 

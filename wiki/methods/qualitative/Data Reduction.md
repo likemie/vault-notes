@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者克服认知容量限制与数据过载难题，建立从原始繁复文本通往理论推论的[[Audit Trail\|审计追踪]]与分析通道。
 > - **边界** 数据缩减不等于机械丢弃或简单定量化，必须以保留情境质感与质性保真度为前提；它与仅关注主题聚焦的[[Winnowing\|数据筛选]]有别，属于涵盖全流程的方法论操作。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 质性数据分析的核心支柱是数据缩减：将庞杂的书面材料缩减为可管理、可理解的规模，同时维持质性材料的深度与完整性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 >
 > *One of the enduring problems of qualitative data analysis is how to reduce large amounts of written data to manageable and understandable proportions whilst preserving their essential qualities. Data reduction is a core pillar of qualitative data analysis.*

@@ -152,7 +152,7 @@ journal: McGill Journal of Education
 
 由 皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]） 与利桑·里瓦尔（Lysanne Rivard）开展的数理审计表明，《[[Visible Learning|可见的学习]]》表面上呈现由海量数字构筑的宏大结构，底层计算却存在严重数学缺陷（pp. 238–239）。
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[John Hattie|哈蒂]]的方法论仅停留在平均值与未真正利用的标准差计算层面；其[[Meta-meta-analysis|二阶元分析]]包含初等计算错误，在普通语言[[Effect Size|效应量]]中算出了负概率与超过 100% 的荒谬数值。（pp. 238–239）
 
 #### 1. 负概率与超额概率暴露基础数理失范
@@ -192,7 +192,7 @@ journal: McGill Journal of Education
 
 在初等计算失准之外，二阶元分析更深层的[[Epistemology|认识论]]危机在于对效应量相对性本质的完全无知（pp. 240–242）。
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 每一个效应量都是相对于特定基线总体的相对测量，哈蒂对基线选择的任意性毫无察觉，使得效应量的正负符号与优劣定性完全受制于主观设定的比对方向。（pp. 240–242）
 
 #### 1. 比较基线反转彻底颠覆干预优劣定性
@@ -227,7 +227,7 @@ journal: McGill Journal of Education
 
 受控数值模拟实验为二阶元分析的[[Incommensurability|不可通约性]]提供了确凿数理检验（pp. 243–245）。
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 受控数值模拟证实，跨研究设计的效应量缺乏普适通用标尺，三种在数学上完全合法的效应量计算公式对同一组数据得出了完全相反的排名，证明排行榜反映的是公式选择而非教学干预的真实效能。（pp. 243–245）
 
 #### 1. 受控模拟证实干预排名取决于公式选择
@@ -257,10 +257,10 @@ journal: McGill Journal of Education
 
 四组期末成绩与前后差值的分布形态揭示了公式背后的度量机制差异（p. 244）。
 
-> [!figure]- 图 1　四组期末成绩分布曲线
+> [!figure] 图 1　四组期末成绩分布曲线
 > ![](https://img.mylikemie.icu/sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig1_Grade_Distribution.jpg)
 
-> [!figure]- 图 2　四组前后成绩差值分布曲线
+> [!figure] 图 2　四组前后成绩差值分布曲线
 > ![](https://img.mylikemie.icu/sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.jpg)
 
 #### 2. 相对离散度消除与一致性测量导致维度流失
@@ -279,7 +279,7 @@ journal: McGill Journal of Education
 
 借助公式将[[Correlational Research|相关性研究]]硬性转化为 Cohen's $d$，构成了二阶元分析中最具欺骗性的因果混淆环节（pp. 242, 245）。
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 相关系数向 Cohen's $d$ 的换算公式在 $r \to 1$ 时呈爆炸性发散，且微弱相关即可虚增至[[Zone of Desired Effects|期望效应区]]；将相关性研究包装为因果干预效应量的做法彻底混淆了相关与因果，使整个理论体系滑入伪科学。（pp. 242, 245）
 
 #### 1. 换算公式导致弱关联虚增为高效应量

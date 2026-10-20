@@ -129,7 +129,7 @@ updated: 2026-10-16
 > - **多佛学院提供第一次小规模试验** 皮特森出任多佛学院校长后，开设了小规模国际高中阶段项目。学校需要形成区别于竞争者的特色，他更主要的动机则是借教育拆除民族偏见的壁垒，使青年为相互依存的世界作准备。马来亚经验由此转化为具体学校安排。
 > - **1957 年布鲁日会议使问题意识获得行动框架** 多佛学院的试验使皮特森受邀参加北大西洋公约组织举办的布鲁日[[International Education\|国际教育]]会议，并在那里首次遇见[[Kurt Hahn\|库尔特·哈恩]]。皮特森带来不同文化怎样形成共同体的问题，哈恩则提供通过服务、风险、技能训练和共同责任改变行动的方案。两条线索的汇合，为后来大西洋学院把多国招生、共同生活与真实服务结合起来奠定了思想基础（p. 1）。
 
-> [!phase]- 共同价值为何必须进入行动
+> [!phase] 共同价值为何必须进入行动
 > 三语标语只能证明共同价值可以被表达，还不能证明青年会据此行动。论证因此必须继续回答：学校怎样把跨文化认同从口号变成持续的行为与关系？
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > - **哈恩提供态度转化机制** 他的学校与青年项目说明，知识和口号不足以改变偏见；共同服务、严格训练、领导关系和个人热情才能把价值变成反复实践的行为。
 > - **达瓦尔提供跨国组织原型** NDC 表明，昔日敌国人员可以围绕共同问题形成工作共同体。三者汇合后，国际学校被设想为一套以共同任务持续重组关系的制度，超越了把不同国籍学生集中在同一地点的基本安排（pp. 1–3）。
 
-> [!phase]- 为什么行动教育最终要求建立专门学校
+> [!phase] 为什么行动教育最终要求建立专门学校
 > 偏见、冷漠和被动旁观都是在关系与习惯中形成的行动倾向，偶尔举行国际会议或增加外国知识无法持续改变它们；NDC 的经验又表明，共同解决现实问题需要稳定组织、反复合作和明确责任。若要让这种经验进入青年成长阶段，就必须建立一所让多国学生长期共同生活、学习并服务的学校。下一阶段的任务因而从教育方案转向组织条件：由谁领导、在哪里办学、如何取得资金。教育理念由此进入大西洋学院的创办过程。
 
 ---
@@ -298,7 +298,7 @@ updated: 2026-10-16
 > | **风险与责任** | 规则内竞争的后果主要留在比赛内部。 | 海岸、悬崖和山地活动把判断、勇气、纪律与他人生命联系起来。 |
 > | **国际教育功能** | 国家认同可能转化为队伍边界。 | 共同服务让文化差异退居共同任务之后，形成跨国互赖（pp. 8–9）。 |
 
-> [!phase]- 服务课程如何把国际理解变成互赖
+> [!phase] 服务课程如何把国际理解变成互赖
 > 共同服务以能否可靠地帮助他人为评价标准，因而能够同时训练技能、领导、合作与同情心，并承载哈恩的教育目标。
 
 ---
@@ -378,17 +378,17 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- 教育与行动
+> [!citation-card] 教育与行动
 > 哈恩重视的全部教育，都旨在改变青年人的态度，使其进一步改变自己的行动。（p. 2）
 >
 > *All education that Hahn cared for was aimed at changing young people's attitudes in such a way as to lead them to change their actions.*
 
-> [!citation-card]- 广义课程
+> [!citation-card] 广义课程
 > 课程涵盖学校试图借以影响[[Student Attitude\|学生态度]]与行为的全部社会、智识、审美和道德经验。（p. 8）
 >
 > *I use this word in its widest sense, to cover all the experience, social, intellectual, aesthetic and moral, through which a school seeks to influence the attitudes and behaviour of its students.*
 
-> [!citation-card]- 跨国友谊的目标
+> [!citation-card] 跨国友谊的目标
 > 学校并不寻求培养一代无根的“世界公民”，而是培养能够更好地相互理解、合作并拥有跨国朋友的美国人、英国人、法国人、德国人、墨西哥人、俄罗斯人及其他国家的人。（p. 5）
 >
 > *We sought not to produce a generation of rootless 'world citizens' but one of Americans, English, French, Germans, Mexicans, Russians, and others, who understood each other better, sought to co-operate with each other, and had friends across frontiers.*

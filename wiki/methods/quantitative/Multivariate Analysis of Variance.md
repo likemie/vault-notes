@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体被试（学生、教师、管理者）或聚合组织单元（班级、学校、学区）。
 > - **输出形式** 多元检验统计量（Wilks' $\Lambda$、Pillai's Trace、Hotelling-Lawley Trace、Roy's Largest Root）、$F$ 近似值与自由度、$p$ 显著性水平、多元偏[[Effect Size\|效应量]]（Partial $\eta^2$）、各分维度单变量 ANOVA 后续检验及事后多重比较结果。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 当研究者拥有两个或更多因变量且这些变量彼此相关时，多变量方差分析（MANOVA）是适宜的分析技术。它不是孤立地对每个因变量进行单独的 ANOVA 检验，而是检验由所有因变量组合而成的整体系统是否在自变量各组间存在差异，从而保护研究免受一类错误率累积的威胁。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 316)]]
 >
 > *Multivariate analysis of variance (MANOVA) is an extension of ANOVA used when the researcher investigates the effect of one or more independent variables on two or more dependent variables. Rather than conducting multiple univariate ANOVAs, which inflate the familywise [[Type I and Type II Errors\|Type I error]] rate, MANOVA [[CREATES Project\|CREATES]] a linear combination of dependent variables to test for overall group differences.*

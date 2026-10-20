@@ -74,7 +74,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > 教育转移与教学改进不能依赖外部专家单向灌输标准处方，而必须依托结构化的跨校网络搭建“自组织干预”（selbstorganisierte Intervention）平台。通过赋予一线教师围绕自身教学痛点自主界定转移对象、协同开发教学方案并在跨校同侪观摩中相互印证的能动性，单体学校的[[Absorptive Capacity|组织吸收能力]]与微观教学效能才能获得可持续突破。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 11–12; van Holt, 2014)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **跨校多轨教研网络（Schulnetzwerke）**
 >   打破传统德国分流学制壁垒，组织 4 至 5 所地理相近但不同类型的中学（以及后期的对口小学）组成紧密型区域教研网络，针对跨学段、跨学轨教学断层建立常规会商机制。
 > - **教师网络团队与学科备课工作坊**

@@ -103,7 +103,7 @@ updated: 2026-10-20
 > - **制度功能** 从战后教育社会学的阶级与宏观不平等批判，转向为政府提供可操作、可审查、可排名的技术官僚问责规程。
 > - **跨国流动** 在高等教育财政紧缩与晚期现代[[Knowledge-Based Economy|知识经济]]中，效能研究成果被大学国际咨询部与跨国教育资本打包为标准化的政策商品向全球兜售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
-> [!boundary] 适用边界
+> [!boundary]- 适用边界
 > 学校效能框架预设学校内部管理因素与外部社会结构在方法论上具有可分性，其解释力高度依赖于统一可测量的学业评估指标体系。在高度极化、资源匮乏或拒绝标准化绩效排名的社会情境中，其将宏观阶级与种族不平等缩约至校内管理缺陷的倾向面临严重的解释失效。[[Argument_Ball_2008_SR|(Ball, 2008, p. 664)]]
 
 ---
@@ -220,7 +220,7 @@ updated: 2026-10-20
 >
 > *“Conflating Type 1 school effectiveness research (how to improve schooling given a student body) with Type 2 research (whether schools can overcome social inequalities) commits a serious category mistake... Socioeconomic background [[Accounts]] for 70–80% of achievement variance.”*
 
-> [!lessons]- 政策制定中混淆两类效能研究的实践教训
+> [!lessons] 政策制定中混淆两类效能研究的实践教训
 > 1. **警惕以微观效能参数掩盖宏观资源短缺** 不能以校内教师具有教学影响力为由，免除国家对处境不利学校进行基底性财政补偿与[[Class Size|班额]]优化的制度责任。
 > 2. **杜绝将校际方差压缩误读为学校全能** 控制家庭背景后校际差异微小，恰恰反向证明社会阶层对学业起着决定性塑造，而非证明学校内部管理能独立战胜贫困。
 > 3. **防范绩效排名成为惩罚薄弱校的行政借口** 孤立使用未校准社会背景的学业增值数据，极易将深层社会排斥的恶果单向转嫁为一线教师的“效能失败”。

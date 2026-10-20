@@ -160,7 +160,7 @@ argument_related_color: "#dbeafe"
 
 ### 论证步骤一　新一代使命导向政策必须从冷战科技壮举转向应对复杂的重大社会难题
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 传统使命导向政策聚焦于在封闭系统内攻克既定、高度清晰的国防与航天工程技术指标；而新一代使命导向政策必须直面具有高度系统复杂性、[[Open-Mindedness|开放性]]与价值争议性的[[Wicked Problem|复杂社会难题]]，其核心任务在于驱动技术创新、制度安排与大众行为模式的协同变革。（pp. 804–805）
 
 #### 1. 现代使命政策的成败取决于技术在全社会的广泛扩散与制度协同而非封闭工程攻关
@@ -194,7 +194,7 @@ argument_related_color: "#dbeafe"
 
 ### 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 使命导向政策要求公共部门彻底摆脱新古典经济学被动的弥补[[Market Failure|市场失灵]]框架，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；在政策实施机制上摒弃对特定企业直接补贴的挑选赢家旧模式，转向以解决重大社会挑战为靶向的[[Picking the Willing|挑选意愿者]]新逻辑。（pp. 805–807）
 
 #### 1. 以重大社会挑战为靶向挑选意愿者能够倒逼传统产业转型并规避企业游说俘获
@@ -232,7 +232,7 @@ argument_related_color: "#dbeafe"
 
 ### 论证步骤三　使命实施需要探索型公共组织提供耐性资本并建立对等的风险收益分享契约
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 使命导向政策的实施必须依赖具备试错自主权与组合管理能力的去中心化探索型公共机构；同时必须彻底扭转风险社会化、收益私有化的分配失衡，构建公私对等的风险共担与收益共享机制。（pp. 807–810）
 
 #### 1. 具备试错自主权的公共机构与开发性银行是跨越创新周期的核心支撑
@@ -271,7 +271,7 @@ argument_related_color: "#dbeafe"
 
 ### 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 使命导向政策的系统落地必须依托涵盖战略路径、组织能力、[[Dynamic Assessment|动态评估]]与收益分享的 ROAR 治理框架，并严格依据五大遴选标准将宏大的社会挑战拆解为跨部门、自下而上的多元探索项目组合。（pp. 809–812）
 
 #### 1. ROAR 框架重构了方向设定、组织学习、动态评估与回报分配的政策工具箱
@@ -291,7 +291,7 @@ argument_related_color: "#dbeafe"
 > - **跨学科、跨行业与跨主体协同创新** 突破单一行业框架，拉动自然科学、工程技术、社会科学、传统产业与新兴数字领域的跨界联动。（pp. 811–812）
 > - **多元自下而上的探索方案** 不依赖单一技术或[[Punctuated Equilibrium Theory|政策垄断]]路径，保持开放性，通过自下而上的多样化探索方案形成竞争与互补。（p. 812）
 
-> [!example]- 图1：从[[Grand Challenges|重大挑战]]到具体使命与项目的层级演进（From Challenges to Missions）
+> [!example] 图1：从[[Grand Challenges|重大挑战]]到具体使命与项目的层级演进（From Challenges to Missions）
 > ![](https://img.mylikemie.icu/sources/Mazzucato_2018_ICC/figures/Mazzucato_2018_ICC_Fig1_Challenges_to_Missions.jpg)
 
 > [!dimension] [[Mission-Oriented Innovation Policy|使命导向创新政策]]的四层金字塔治理架构
@@ -306,7 +306,7 @@ argument_related_color: "#dbeafe"
 
 #### 3. “无塑海洋”使命展示了如何通过量化目标拉动跨行业跨学科自下而上项目攻坚
 
-> [!example]- 图2：无塑海洋使命的跨部门与自下而上项目组合结构（A Plastic-Free Ocean Mission）
+> [!example] 图2：无塑海洋使命的跨部门与自下而上项目组合结构（A Plastic-Free Ocean Mission）
 > ![](https://img.mylikemie.icu/sources/Mazzucato_2018_ICC/figures/Mazzucato_2018_ICC_Fig2_Plastic_Free_Ocean_Mission.jpg)
 
 > [!proc] “无塑海洋”使命的结构化拆解与组合实施

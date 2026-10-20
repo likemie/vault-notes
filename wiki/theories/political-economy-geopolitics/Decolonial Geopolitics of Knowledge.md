@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > 去殖民[[Geopolitics of Knowledge\|知识地缘政治]]是 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]"新[[Geopolitics of Knowledge\|知识地缘政治]]"[[Analytic Framework\|分析框架]]的**两大理论支柱之一（另一支柱为[[Critical Geopolitics\|批判地缘政治学]]）**。它发源于拉丁美洲去殖民思想传统，将注意力引向[[Epistemology\|认识论]]本身的政治性，与发源于英语世界人文地理学的另一脉络并列互补。详见 知识[[Geopolitics|地缘政治]] > 概念演变。
 >
 > 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的[[Critical Theory\|批判理论]]，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、[[Ways of Knowing\|认知方式]]和存在方式([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]])。
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ### 1990s–2000s 奠基期
 
-> [!note]-
+> [!note]
 > - 1993 Enrique Dussel 发表 *Eurocentrism and Modernity*，批评后现代性对现代性的批判"必要但不充分"，指出欧洲内部批判不足以捕捉殖民差异（Dussel, 1993, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）
 > - 1999 Dussel 出版 *Postmodernidad y Transmodernidad*，发展"跨现代性"（transmodernity）概念作为超越后现代性的替代方案
 > - 2002 [[Walter Mignolo]] 发表 *The [[Geopolitics of Knowledge]] and the Colonial Difference*，系统阐述去殖民知识[[Geopolitics|地缘政治]]的理论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.38–39]]）
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ### 2010s–present 延伸与扩展
 
-> [!note]-
+> [!note]
 > - 2007 Raewyn Connell 出版 *Southern Theory*，从社会学角度推进"南方[[Epistemology\|认识论]]"议程（Connell, 2007, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）
 > - 2018 [[Arturo Escobar]] 出版 *Designs for the Pluriverse*，将去殖民理论延伸至设计实践和社区自主发展（Escobar, 2018, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.38–39]]）
 > - 2019 Reiter 编辑 *Constructing the Pluriverse*，系统汇集去殖民多元世界建构的案例和路径（Reiter, 2019, cited in）

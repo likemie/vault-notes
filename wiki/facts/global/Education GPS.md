@@ -68,7 +68,7 @@ updated: 2026-09-24
 > [!claim] 核心机制假说
 > Education GPS 的核心机制在于将来自多个大规模测评数据库的碎片化事实，整合为流畅的国别政策叙事推荐界面——用户只需点击国家图标，即可获得一份[[OECD\|经合组织]]预先打包好的"政策优先事项"摘要。这一设计将经合组织的知识诠释权深嵌于数字导航体验之中，使得用户在获得"数据"的同时也接受了经合组织对政策优先项的框架预设。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
 
-> [!policy-design]- 平台设计
+> [!policy-design] 平台设计
 > - **数据整合层** 接入 [[PISA]] 学生成绩数据库、[[Teaching and Learning International Survey\|TALIS]] 教师调查数据库、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 成人技能数据库、[[Education at a Glance\|EAG]] 结构性指标库，以及部分[[Education Policy Outlook\|EPO]] 政策快讯数据。
 > - **用户交互功能** 支持国别单项浏览（Country Profile）、多国指标横向对比（Compare Countries）、专题主题深入（Topic Explorer）与时间序列趋势追踪（Trends）等多种分析路径。
 > - **政策建议整合** 在各国别页面嵌入对应的[[Education Policy Outlook\|EPO]] 国别简报摘要与经合组织政策建议链接，实现从原始数据到可操作政策建议的一键贯通。
@@ -88,7 +88,7 @@ updated: 2026-09-24
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **可及性扩张** 将[[OECD\|经合组织]]教育数据从专业统计年鉴（需订阅或购买）转变为全球免费开放的数字服务，极大降低了中小国家教育部获取国际比较数据的成本。
 > - **政策框架的无声渗透** 在帮助用户"客观查询数据"的界面设计中，平台将经合组织定义的"重要指标"与"政策优先项"作为默认导航框架，对各国政策思维框架产生无声的认知塑造效应。
 > - **品牌强化** Education GPS 成为经合组织教育品牌的数字旗舰，与 [[PISA]] 排名发布联动推广，强化各国政府对经合组织作为权威教育信息中枢的认知。

@@ -98,7 +98,7 @@ updated: 2026-10-20
 > - **专门业务机构（科技人力办公室）** [[Sputnik Shock 1957|斯普特尼克冲击]]后设立的科技人力办公室（Office for Scientific and Technical Personnel），专门负责跨国科学家与工程师缺口评估，成为连接经济规划与学校课程干预的专属桥梁。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **成员国网络** 涵盖英、法、意、荷等西欧 18 国，冷战期间成为西方阵营在多边经济领域最核心的协商平台。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **欧美技术差距测度** 依托科技人力办公室调查跨大西洋科技人才储备，将科研人才供给模型化为经济增长函数。
 > - **国家自愿审查与同侪磋商** 创立了以国家报告为基础的跨国同行互审（Peer Review）雏形，后被 [[OECD]] 继承为核心软性治理技术。
 > - **[[Education-for-Mandates|使命性教育嵌入]]（Education-for-Mandates）** 教育从不作为目的本身被探讨，而是严格锚定于战后复兴与冷战军备竞赛的宏观战略目标。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **历史坐标** 1948–1961 年间主导了二战后西欧整体宏观经济重建，推动西欧工业生产率超越战前水平逾 30%。
 > - **制度遗传** 1961 年无缝转变为[[OECD|经合组织]]（OECD），其科技人力办公室直接催生了 OECD 的教育委员会与 1968 年[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）。
 > - **[[Discourse|话语]]开创** 首次将[[Human Capital Theory|人力资本理论]]从学术象牙塔引渡至国际政府间决策流程，塑造了“教育投资=科技[[Competitiveness|竞争力]]”的现代政策共识。

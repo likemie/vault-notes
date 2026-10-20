@@ -81,7 +81,7 @@ updated: 2026-10-20
 > - **核心角色** 在当代教育哲学与[[Critical Pedagogy|批判教育学]]网络中，以德国教化（[[Bildung]]）传统、二阶[[Blind Spot in Observation|观察盲点]]理论与具身[[Phenomenology|现象学]]为武器，系统解构[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Visible Learning|可见的学习]]（Visible Learning，VL）[[Paradigm|范式]]，捍卫教育实践的不可还原性与不可即时可见性。
 > - **代表贡献** 提出解构证据主义的[[Blind Spot in Observation|观察盲点]]哲学批判框架、创立超越可见性范式的具身化与扩展辩证法、推动北欧当代 [[Bildung]] 理论复兴。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 教育的目的远比增强可见的学习过程与结果更为苛求和富有挑战。如果教育学将自身降格为促进学习的伺服机制，它便丧失了捍卫人类自由与批判教化的精神灵魂。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 >
 > *The purpose of education is much more demanding and challenging than enhancing visible learning processes and results.*
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育本质上属于不可即时还原的存在性实践，而非可在当下直接测量与计算的商业化产品。任何声称能将学习全景“可见化”的[[Positivism|实证主义范式]]，其观看机制都必然受制于自身的认知盲点——狂热追求测量与[[Effect Size|效应量]]的研究者“无法看见自己所无法看见之物”。学习是具身大脑与社会文化环境深层纠缠的历时生成过程，必须以注重自主探索与主体自决的教育教化（[[Bildung]]）以及具身化与扩展辩证法，替代技术主义的短期效益崇拜。
 
 > [!citation-card] 观看中的盲视与[[Epistemology|认识论]]局限
@@ -145,7 +145,7 @@ updated: 2026-10-20
 > - **政策与公共论辩路径** 深度介入丹麦基础教育改革争论，在公共知识界力抗以[[Evidence-Based Education|循证教育]]与量化指标为导向的[[New Public Management|新公共管理]]改革，倡导捍卫北欧学校的民主与人文根基。
 > - **学术论战扩散** 2018 年与[[John Hattie|约翰·哈蒂]]在哥本哈根开展的高峰学术对话，成为[[International Education|国际教育]]学界反思《[[Visible Learning|可见的学习]]》证据效力与教育真正目的的标志性事件。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从教化复兴、[[Neuroplasticity|神经可塑性]]批判、身体现象学与概念史四重视角，系统解构可见学习[[Paradigm|范式]]，提出具身化与扩展学习框架。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 与 Larsen 共同立足丹麦教育哲学语境，从教学论与规范哲学角度批判哈蒂可见学习中的[[Radical Constructivism|激进建构主义]]与[[Dependent Variable|因变量]]虚无。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从教育领导力社会学视角批判可见学习的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]，与 Larsen 的哲学解构形成宏观与微观呼应。

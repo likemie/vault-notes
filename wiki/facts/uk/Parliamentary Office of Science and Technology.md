@@ -62,13 +62,13 @@ updated: 2026-10-20
 > [!claim] 核心功能
 > 议会科学技术办公室独立于政府行政内阁与政党派系，旨在将最前沿、具争议且与立法高度相关的跨学科科学证据，转化为四页篇幅、通俗客观且经过匿名同行严谨评议的政策决策简报（POSTnotes），直接赋能议会辩论与法案审查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 
-> [!policy-design]- 运作机制与产品线
+> [!policy-design] 运作机制与产品线
 > - **旗舰简报（POSTnotes）** 定期围绕前沿科技与社会议题出版 4 页篇幅的快报，平均每份报告访谈数十位顶尖领域专家并经受独立同行双盲审查，严格保持跨党派中立与证据平衡。
 > - **深度分析快讯（POSTbriefs）** 针对复杂议题提供更为详尽的专题[[Literature Review\|文献综述]]与方法论分析。
 > - **委员会证据支持** 直接派出专业学术人员嵌入下议院科技与科学专责委员会（Science, Innovation and Technology Committee），协助拟定质询提纲并调阅关键实证材料。
 > - **博士生议会研修学者计划（POST Fellowship）** 联合英国各研究理事会选拔顶尖在读博士生入驻议会工作 3 个月，搭建学术界与立法中枢的青年人才交流桥梁。
 
-> [!citation-card]- 组织宗旨
+> [!citation-card] 组织宗旨
 > 议会科学与技术办公室致力于向两院议员提供独立、平衡且经过同行评议的科学与技术评估；我们确保议会立法在审议复杂国家议题时，能够站在可靠前沿研究的基石之上。
 >
 > *POST provides independent, balanced and peer-reviewed analysis of public policy issues that have a basis in science and technology, ensuring that Parliament's scrutiny of complex national challenges is grounded in robust research.*

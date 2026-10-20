@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **测量目的** 用于研究测量与组织诊断，在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）资助的“研究学习共同体”（RLC）为期两年的干[[Pilot Testing\|预实验]]启动前，刻画英格兰小学在四类关键使能因素上的基线准备状态，诊断[[School Enquiry Cycle\|学校探究循环]]的制度性断点。
 > - **实施方式** 通过 Survey Monkey 在线自陈填报，经各校校长以电子方式分发至所有 RLC 项目学校与对照学校的全员教师及[[School Leadership\|学校领导]]者。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 128)]]
 
-> [!citation-card]- 开发者的设计说明
+> [!citation-card] 开发者的设计说明
 > 问卷依据广泛文献综述提炼的四类关键因素编制，用于测量学校在能力、文化常规、学习环境与支持性结构上的准备状态；四因素框架本身即为问卷的维度结构与分析逻辑基础。
 >
 > *“The survey was developed... based on the four key factors identified from the literature.”*（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 127]]）

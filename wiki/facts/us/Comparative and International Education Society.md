@@ -116,7 +116,7 @@ updated: 2026-10-20
 > - **专业委员会与特别兴趣小组（SIGs）** 设有数十个常设特别兴趣小组（涵盖拉美、非洲、南亚、性别与教育、高等教育、大规模评估等细分领域），为专业学者与青年研究生提供去中心化的学术孵化网络。
 > - **国际联络与全球治理中枢** 派驻[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）常设代表，与[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）、亚洲比较教育学会等区域组织保持学术协调与互访机制。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 每年由当任会长确立年度学术年会（CIES Annual Conference）的核心主题，通过会长就职演讲（Presidential Address）直接向国际学界抛出前沿理论与[[Epistemology|认识论]]倡议。
 > - **[[Knowledge Production|知识生产]]与同行评议** CER 期刊实行极为严谨的同行双盲评审规程，每年系统编纂年度比较教育文献索引，定期发布针对前沿方法与跨国政策的专题审议报告。
 > - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千篇国际学术论文评审与宣读。
 > - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与影响因子长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
 > - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的[[CORE Education|核心教育]]援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。

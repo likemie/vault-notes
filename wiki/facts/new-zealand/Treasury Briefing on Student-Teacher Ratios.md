@@ -53,7 +53,7 @@ updated: 2026-10-17
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > 2011 年 11 月，新西兰 Treasury 向候任财政部长提交简报，其中包含一项关于学校拨款政策的争议性主张：
 >
 > > "Student achievement can be raised by improving the quality of teaching, which the evidence shows is the largest inschool influence on student outcomes. Increasing student/ teacher ratios, and consolidation of the school network, can free up funding that could be used to support initiatives to enhance the quality of teaching, such as more systemic use of VALUE-add data and a more professionalised workforce."（Treasury, 2011, p.21）

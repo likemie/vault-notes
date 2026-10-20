@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 测验题项、量表维度与受试者单次反应得分。
 > - **输出形式** 半分相关系数、Spearman-Brown 校正系数与 Cronbach's $\alpha$ 估计值。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 对于多项目工具来说，最重要的信度形式是工具的内部一致性——即工具上各组条目以相同方式运作的程度。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]
 >
 > *The most important form of reliability for multi-item instruments is the instrument's internal consistency—the degree to which sets of items on an instrument behave in the same way.*

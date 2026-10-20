@@ -72,7 +72,7 @@ updated: 2026-10-20
 >
 > *"We make no claim that comparative education studies are fundamentally different from social sciences in general. In fact, all social sciences are comparative in nature... The major complication of comparative studies is that it involves the analysis of 'dissimilar units' (different societies and cultures) (Smelser, 1976). In comparative education the unit of analysis is usually the educational system or a subset of that system in two or more nation-states (Thomas, 1998)."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Unit of Analysis]] — [[Unit of Analysis|分析单位]] 是研究设计中具体界定的观察层次（如个体、学校、学制、国家）；而非同质单位困境则是当分析单位跨越不同社会文化边界时所遭遇的认识论异质性障碍。
 > - 不等于 [[Variable]] — [[Variable|变量]] 是可观测与测量的[[Operationalization|操作化]]属性；非同质单位揭示的是同一变量在异质文化单位中所具有的多重甚至相悖的内涵。
 

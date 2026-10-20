@@ -43,7 +43,7 @@ updated: 2026-10-16
 > - **用途** 帮助访谈者在仅有少量预设问题时仍能获取丰富数据；帮助初学[[Qualitative Research\|质性研究]]者应对"访谈时间可能很短"的焦虑。追问使受访者从表面回答进入深层叙述。
 > - **边界** 追问不等于提示（prompts）——提示帮助澄清问题和理解，追问深化和扩展回应。追问也不等于引导性提问——追问应保持开放，不应暗示期望的答案方向。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 提示和追问越多，偏差进入访谈的可能性越大。（Fowler, 2009, p. 139）
 >
 > *The more the interviewer prompts and probes, the greater is the chance of bias entering the interview.*

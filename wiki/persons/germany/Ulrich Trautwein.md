@@ -56,7 +56,7 @@ updated: 2026-10-16
 > - **核心角色** 德国实证教育研究（Empirical Educational Research）学派代表人物，主导多项大型国家与州级教育追踪项目（如 [[TOSCA]]）。
 > - **代表贡献** 推动将[[Epistemological Beliefs\|认识论信念]]与非认知心理特质纳入大规模[[Academic Achievement\|学业成就]]因果模型；确立大学专业分流中的[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 帮助学生建立关于人类知识的成熟信念系统，其本身就是一项重要的教育目标，同时也是提升学业成就的重要途径。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 362)]]
 >
 > *Hence, helping students to acquire a sophisticated beliefs system about human knowledge is an important educational goal in itself and a means of enhancing academic achievement.*
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 个体的[[Academic Achievement\|学业成就]]与长远学术发展不仅由一般认知智力决定，更深度取决于[[Epistemological Beliefs\|认识论信念]]、学业自我概念及[[Student Engagement\|学习投入]]等非认知心理特质；教育环境具有强烈的涵化功能，科学教育必须通过呈现知识的未定性与演进性，培养学生[[Reflexivity\|反思性]]批判思维。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 362–364)]]
 
 ---

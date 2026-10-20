@@ -84,7 +84,7 @@ updated: 2026-10-20
 >
 > *Comparable developments within social psychology may be perceived in the ‘science of persons’ movement. It is argued here that we must use ourselves as a key to our understanding of others and, conversely, our understanding of others as a way of finding out about ourselves, an anthropomorphic model of people. Since anthropomorphism means, literally, the attribution of human form and personality, the implied criticism is that social psychology as traditionally conceived has singularly failed, so far, to model people as they really are. As some wry commentators have pleaded, ‘For scientific purposes, treat people as if they were human beings’ (Harré and Secord, 1972), which entails treating them as capable of monitoring and arranging their own actions, exercising their agency.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 行为主义刺激—反应模型（S-R Model） — 行为主义视人为被动响应外部环境刺激的“塑料人”或操作条件反射载体；拟人化模型则赋予行动者意向性、反思性与自主监控权。
 > - 不等于 唯我论（Solipsism） — 拟人化模型并不将主体封闭于孤立心智，而是强调行动者在主体间性的社会脉络中通过共享符号与他人协调行动。
 > - 不等于 拟人修辞（Anthropomorphism in Literature） — 文学中的拟人修辞是将人类情感强加于非生物客体；方法论上的拟人化模型则是呼吁社会科学停止将人类客体化降维为机器，恢复人类研究对象应有的主体本色。

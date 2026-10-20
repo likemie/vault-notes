@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **用途** 协助研究者理解威权国家如何将少数民族语言与文化的消亡，重构为极具道德色彩的“自愿自我牺牲”与国族贡献。
 > - **边界** 不适用于仅依靠赤裸裸的武力压制和经济剥削、缺乏任何道德化建构与忠诚转化逻辑的强权统治。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “既然善的标志是它值得牺牲，那么反过来也必然为真——牺牲使得某物成为善。”([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 109]])
 > 
 > *“Since the mark of the good is that it is worthy of sacrifice, the reverse is also true—sacrifice makes something good.”* (Halbertal, 2012, p. 69)

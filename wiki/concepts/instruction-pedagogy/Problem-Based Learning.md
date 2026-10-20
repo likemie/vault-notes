@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - 不等于 **[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning）** — 两者都可能采用[[Constructivist Paradigm\|建构主义]]学习观。PBL 以待解决的问题组织活动；芬兰现象本位学习还包含生活世界、具身经验、跨学科教化和教学论传统。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 2–8)]]
 > - 不等于 **[[Project-Based Learning\|项目式学习]]（Project-Based Learning）** — 两者常共享“PBL”缩写与建构主义[[Epistemology|认识论]]基础。问题本位学习以“[[Wicked Problem|劣构问题]]解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
 
-> [!citation-card]- PBL 的定义
+> [!citation-card] PBL 的定义
 > PBL 是一种基于经验的方法，通过学习对有意义问题的调查、解释与解决来促进学习。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 952)]]
 >
 > *PBL is an experience-based approach that fosters learning through the investigation, explanation, and resolution of meaningful problems.*

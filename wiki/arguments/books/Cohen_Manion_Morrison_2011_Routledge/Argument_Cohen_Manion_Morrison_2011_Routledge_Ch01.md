@@ -223,14 +223,14 @@ updated: 2026-10-20
 >   M3 -->|"认识论前沿拓展"| F1
 > ```
 
-> [!knowledge-map]- 全章概念拓扑图谱
+> [!knowledge-map] 全章概念拓扑图谱
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_1_Concept_Map.jpg)
 
 ---
 
 ## 章节内容
 
-> [!abstract]- 核心议题总览
+> [!abstract] 核心议题总览
 > - **哲学奠基与[[Paradigm\|范式]]分野（第1–3节）**
 >   - **探究的本质与知识的求索** 研究的五层哲学推导框架（[[Axiology\|价值论]]、[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论、工具）；Mouly 认知世界的三种途径（经验、权威与常识的局限，推理的历史演进：[[Aristotle\|亚里士多德]]三段论演绎、培根经验归纳革命、归纳-演绎循环结合）；Kerlinger 科学研究的三大本质属性（系统受控、经验检验、自我纠正）。
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability\|不可通约性]]论辩与教育研究“[[Paradigm Wars\|范式战争]]”。

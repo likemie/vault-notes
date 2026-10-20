@@ -251,7 +251,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline]+ [[Randomised Controlled Trials\|随机对照试验]]批判的历史演进
+> [!dev-timeline] [[Randomised Controlled Trials\|随机对照试验]]批判的历史演进
 > - **1980s–2000s — [[Ontology\|本体论]]觉醒与“难以完成的科学”界定** [[Complexity Theory\|复杂性理论]]与现实主义科学哲学发起[[Epistemology\|认识论]]反思；大卫·伯利纳（David Berliner）确立教育作为“难以完成的科学”命题；Ray Pawson（2006）解构封闭系统的人为幻觉。
 >
 >   *科学哲学与复杂性理论挑战实验室封闭系统向社会系统的简单外推。*

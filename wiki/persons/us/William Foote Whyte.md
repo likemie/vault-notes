@@ -51,7 +51,7 @@ updated: 2026-10-15
 > - **核心角色** 其[[Fieldwork\|田野工作]]与晚年反思为[[Reflexivity\|反身性]]在[[Qualitative Research\|质性研究]]中的地位提供经典论述，并推动[[Participatory Action Research\|参与式行动研究]]（PAR）。
 > - **代表贡献** 《街角社会》的参与式观察传统；关于田野工作者个人经验与反身性的反思（1993 年附录 A）；参与式[[Action Research\|行动研究]]。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述；他决定尽己所能填补这一空白（Whyte, 1993, pp. 358–9）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 生平与职涯
@@ -63,7 +63,7 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Fieldwork\|田野工作]]者的个人经验长期被学界遮蔽，研究者必须对自己诚实并把个人卷入纳入反思；[[Participatory Action Research\|参与式行动研究]]提供弥合研究者与所研究组织成员鸿沟的途径。选择研究对象依赖内隐或外显的理论，过程在很大程度上主观，但说明假设与方法后他人可以验证或挑战结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 影响路径

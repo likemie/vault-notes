@@ -208,7 +208,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 在严格排除[[Pre-Experimental Designs\|前实验设计]]和非标准化测量工具后，基于 $k = 341$ 项真实验与准实验研究的[[Random-Effects Model|随机效应]]合并[[Effect Size\|效应量]]为 $g+ = 0.30$，通过纳入[[Between-Study Variance\|研究间方差]]调整权重并结合[[Funnel Plot\|漏斗图]]与出版类型检验排除了[[Publication Bias\|发表偏倚]]，对应的改善指数为 $11.79\%$。（pp. 290–291, 297）
 >
-> > [!example]- 图 1：通用批判性思维技能未加权效应量分布直方图
+> > [!example] 图 1：通用批判性思维技能未加权效应量分布直方图
 > > ![](https://img.mylikemie.icu/sources/Abrami_2015_RER/figures/Abrami_2015_RER_Fig1_Effect_Size_Distribution.jpg)
 >
 > [[Moderator Analysis\|调节变量分析]]进一步证实了效应的广泛普适性：
@@ -377,12 +377,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Authentic Instruction\|真实性教学]]的[[John Dewey\|杜威]]渊源
+> [!citation-card] [[Authentic Instruction\|真实性教学]]的[[John Dewey\|杜威]]渊源
 > 杜威（1907）指出，为了将观念用作思考（乃至[[Critical Thinking\|批判性思维]]）的工具，必须在对学生而言显得真实的具体问题情境中学习观念的意义。正如他尖锐指出的：“能够言之有物与不得不说点什么之间，存在着天壤之别。”（p. 287）
 >
 > *Dewey (1907) felt that in order to be able to use an idea as a tool for thinking (and, by extension, for CT), it was essential that one learned the significance of the idea in the context of a problem that appeared genuine to the student. As he noted, acerbically, “There is all the difference in the world between having something to say and having to say something” (p. 67).*
 
-> [!citation-card]- [[Mentorship\|导师制]]的催化功能
+> [!citation-card] [[Mentorship\|导师制]]的催化功能
 > 导师制在单独分析时并未产生特别强的效果。根据这些结果，导师制似乎在批判性思维教学中发挥了催化剂（catalytic capacity）的作用；它可以以强有力的方式增强其他策略，但如果孤立实施，则不会特别成功。（p. 298）
 >
 > *In light of these results, it appears as though mentoring may serve in a catalytic capacity for CT; it can augment other strategies in a powerful way but is not especially successful if pursued in isolation.*

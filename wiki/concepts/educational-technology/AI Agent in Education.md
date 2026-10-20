@@ -81,7 +81,7 @@ updated: 2026-10-17
 > - **用途** 帮助教学设计者与研究者解析技术中介如何通过即时强化、自适应纠错与认知[[Externalization\|外化]]促进学生的知识习得、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维]]。
 > - **边界** 教育智能体不等于被动呈现内容的静态多媒体课件，亦不能在缺乏教学法设计的情况下完全替代人类教师的育人与情感支持功能。
 
-> [!citation-card]- 关键界定
+> [!citation-card] 关键界定
 > 人工智能智能体在教育中具有辅导、答疑、评估和反馈等显著应用功能，能够通过个性化脚手架、互动学习环境与即时矫正反馈，成为主动的学习中介系统，有效促进学生的知识获取、技能发展与高阶思维潜能。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 1, 9–10)]]
 >
 > *AI agents have been found to have notable applications, such as coaching, tutoring, assessment, and [[Feedback]], with the potential to improve students' knowledge acquisition, skills development, and higher-order thinking skills... Unlike static digital technology, AI acts to respond to learners' inserted information, allowing for personalized scaffolding, providing interactive learning environments, and offering immediate corrective feedback.*

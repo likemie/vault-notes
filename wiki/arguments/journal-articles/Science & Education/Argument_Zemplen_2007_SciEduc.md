@@ -164,7 +164,7 @@ issuing_organization: ""
 
 ### 论证步骤一：TOK 创造了评估框架，框架反过来规训了批判性思维
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Theory of Knowledge\|TOK]] 以培养[[Critical Thinking\|批判性思维]]为宗旨，但它的评估框架催生了三种相互嵌套的扭曲效应。
 
 > [!feature] TOK 评估框架的三个结构性缺陷
@@ -218,7 +218,7 @@ issuing_organization: ""
 
 ### 论证步骤二：Alchin 教科书的科学章节是两种议程冲突的集中症状
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > Alchin（2003a, 2003b）的 TOK 教科书在处理自然科学时呈现出的[[Falsification\|证伪主义]]简化、[[Paradigm\|范式]]概念不一致应用和对科学的美化立场，是批判性思维议程与科学教育议程在课程层面不可调和的症状，而非教科书作者的个别知识不足。对教科书的内部批评暴露出文本的自我矛盾，而外部批评则指向整个 TOK 课程结构的深层缺陷。
 
 > [!info] 教科书背景
@@ -276,7 +276,7 @@ issuing_organization: ""
 > - **批判性思维的不可逾越的边界**
 >   一个令人不安的可能性：这段关于冷聚变的论证已经接近高中生能达到的最高复杂水平。如果这是真的，那么在课程文件中使用批判性思维这样的措辞是否有误导性？（p.178）
 
-> [!citation-card]- 模糊限制语的典型模式
+> [!citation-card] 模糊限制语的典型模式
 > 教科书大量呈现这样的论证结构：先提出一个大胆的主张，然后加上但当然这也可能不是真的、可能还有其他视角、科学家也是人等等。这些免责声明使得书中的陈述难以被确定下来。说出任何想说的话，最后说这只是一种视角，与批判性思维毫无关系（p.177）。
 >
 > *The rhetorical technique of "hedging" is evident here and in a number of other arguments the book presents. These disclaimers make statements made by the book hard to pin down (or falsify?). It is trivially true that the weaker the conclusion of an argument is made, the stronger the argument is to support the (weaker) conclusion. But to "state whatever you want and at the end say that it is only part of the truth" has very little to do with critical thinking.*
@@ -312,7 +312,7 @@ issuing_organization: ""
 
 ### 论证步骤三：两种议程的冲突是结构性的，普遍存在于教育改革中
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > TOK 课程中的批判性思维议程与科学教育议程之间的冲突普遍存在于任何试图将批判性思维课程嫁接在传统学科结构之上的课程改革中。冲突的核心在于：批判性思维的自由探究逻辑要求对所有知识主张（包括科学的主张）进行审查，而科学教育的制度性任务是将科学呈现为最权威的知识形式。
 
 #### 冲突为何是结构性的
@@ -370,7 +370,7 @@ issuing_organization: ""
 
 ### 论证步骤四：三种路径各有侧重，共同前提是必须有一个顶层协调框架
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 解决批判性思维与科学教育之间的冲突需要一个自上而下的顶层框架：一个将学生的认知发展纳入考虑的、以学生为中心的方法，使科学和批判性思维能够在统一方案中同时被教授，并处理前述的三个结构性缺陷。在这样一个框架尚未出现的背景下，HPS 路径、语用辩证路径和学生利益路径分别代表了小、中、大三种尺度的课程变革方向。
 
 这三种方案是基于课堂经验的模块构想，每个模块设计为 5 到 6 次双课时（pp.181–182），共享一个承诺：提供学术上合法且实践上可行的框架。
@@ -502,22 +502,22 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 两难困境的核心表述
+> [!citation-card] 两难困境的核心表述
 > [[Theory of Knowledge\|TOK]] 要么与科学科目的议程兼容但必须妥协[[Critical Thinking\|批判性思维]]要素，要么批判性思维目标被充分承认但科学科目的议程无法得到充分支持。这一张力普遍存在于任何试图将批判性思维课程嫁接在传统学科结构之上的课程改革中（p.179）。
 >
 > *TOK is either "compatible" with the agendas of science-subjects, but has to compromise on the CT element, or the CT aims are fully acknowledged (and [[Nature of Science\|NOS]] and [[Socioscientific Issues\|SSI]] questions are investigated this way), but science-subject agendas cannot be fully supported.*
 
-> [!citation-card]- 独立课程改变游戏规则
+> [!citation-card] 独立课程改变游戏规则
 > 一旦独立科目被创建，批判性思维从属于[[Scientism\|科学主义]]议程就不再合理。在 TOK 课程和课程描述中，负责任的公民意识和批判性思维技能是按其自身权利来呈现的，在课程描述中它没有被写成从属于科学教育（p.181）。
 >
 > *Once an independent subject is created, however, subordination of critical thinking to the scientistic agendas is not justified any longer. In the TOK course and programme descriptions the "responsible citizenship" and CT skills are presented on their own right – in the course description it is not subordinated to science-education.*
 
-> [!citation-card]- 三种路径的学术承诺
+> [!citation-card] 三种路径的学术承诺
 > 三种方案都源于对某个框架的承诺：要么是纽拉特的反基础主义和多元[[Positivism\|实证主义]]，要么是考察意见分歧如何被（或能被）解决的一般论证理论，要么是一种政治驱动的关于自我利益和社会领域协商的路径（p.189）。
 >
 > *They all [[STEM Education\|STEM]] from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
 
-> [!citation-card]- 纽拉特的[[Phronesis\|实践智慧]]
+> [!citation-card] 纽拉特的[[Phronesis\|实践智慧]]
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality\|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。
 >
 > *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not VALUE-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*

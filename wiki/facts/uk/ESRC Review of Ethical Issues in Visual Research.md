@@ -54,7 +54,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 该综述系统梳理[[Visual Research Methods\|视觉研究]]的伦理问题，涵盖框架、专业指导、法规与法律权利和义务，并给出实践指南，标示出[[Visual Data\|视觉数据]]研究者必须遵循的审慎边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
-> [!policy-design]- 综述覆盖的议题
+> [!policy-design] 综述覆盖的议题
 > - **框架与法规** 伦理框架、专业指导、法规与法律权利和义务。
 > - **同意问题** 伦理与同意；研究者生成与受访者生成的图像；照片引谈与[[Informed Consent\|知情同意]]。
 > - **匿名与保密** 匿名化与遮蔽视觉数据；匿名与保密；识别个人的照片与影片；场所图像的匿名化。

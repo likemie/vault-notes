@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会规训网络。
 > - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《[[Cosmopolitanism|世界主义]]与学校改革时代》（2008）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
 > 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和[[EU|欧洲共同体]]等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
 > *In an eight-country study of reforms of teacher education, Popkewitz and Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 波普科维茨的核心思想在于**开创了教育研究的“社会[[Epistemology|认识论]]”，揭示现代教育改革所标榜的科学进步与全纳理念，实质上是一套制造规训与分类排斥的权力理性系统**。他指出，权力不仅体现为国家法律的硬性强制，更体现为关于“什么是合格教师”、“什么是[[Lifelong Learning|终身学习]]者”的[[Discourse|话语]]分类标准。像[[OECD|经合组织]]这样的跨国机构，正是通过制定去情境化的教师能力指标与评价框架，行使着无形的跨国[[Governmentality|治理术]]；这种所谓的改革话语看似旨在包容所有人，却在分类体系底层系统性地把弱势群体打上“不合格”烙印。
 
 > [!citation-card] 跨国组织在教师教育法规中的社会规训角色

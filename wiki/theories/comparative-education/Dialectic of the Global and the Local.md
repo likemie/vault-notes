@@ -207,7 +207,7 @@ updated: 2026-10-20
 > > - **[[Stanford School|斯坦福学派]] (Meyer et al., 1997)** 强调源自[[Enlightenment|启蒙运动]]的世界文化模型促成了战后大众教育体系的形式高度同构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > > - **批判政治经济学流派 (Wallerstein, 1974; Arnove, 1980)** 指出形式同构掩盖了实质剥削与阶层再生产，辩证法正是揭示这种同构表象下激烈阶级斗争的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 坦陈在运用该框架时必须避免概念泛化，必须以扎实的多地点比较案例严格追踪中介机制，防止滑入没有解释力的[[Nominalism|唯名论]]。
 
 ---

@@ -276,7 +276,7 @@ updated: 2026-10-20
 > > - **早期量化合成派（Lysakowski & Walberg, 1980, 1982; Hattie, 2009）** 宣称强化与反馈具有高达 $d = 0.73\text{–}1.17$ 的超高效应，是普适高效的超级教学技术。
 > > - **细致实证检验派（Kluger & DeNisi, 1996; Shute, 2008）** 证实反馈效应高度依赖任务性质与心理归因，在超三分之一的情境下导致绩效衰退，机械的外部刺激往往打压[[Metacognition|元认知]]反思。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统解构可见学习底层的斯金纳—[[Robert Glaser|格拉泽]]行为主义谱系，揭示其如何通过[[Construct|构念]]混淆拼凑虚高反馈效应，并将复杂育人实践异化为新泰勒主义控制工具。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用[[Jürgen Habermas|哈贝马斯]]生活世界理论与舍恩技术理性批判，指出行为主义教育心理学将充满意向性的鲜活师生客体化为因果[[Variable|变量]]，充当官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判当代算法教学与[[Gamification|游戏化]]教育平台对斯金纳操作反射排程的机械复活，揭示其以行为规训替代内在教养（[[Bildung]]）的异化风险。

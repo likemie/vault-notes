@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者打破自上而下预设的标准大纲，将课程建立在学习者的切身生活矛盾之上。
 > - **边界** 不等于任何零散的学生即兴兴趣；必须包含能够向社会权力结构延伸的辩证矛盾。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 解放教育的内容——卓越的教育内容——是由学生对世界的看法构成的，他们的生成性主题正蕴含其中。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 >
 > *The content of an education for freedom... is constituted and organized by the students' view of the world, where their own generative themes are found. (Freire, 2000, p. 109)*

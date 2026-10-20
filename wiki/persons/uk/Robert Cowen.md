@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育既不是中立的客观科学，也不是国家政策制定机构的政策管道工。它的核心智识使命在于探索教育理念与制度在跨国流动和历史转型中“移动即变形”（As it moves, it morphs）的形态规律，而其道德灵魂则在于通过对[[Educated Identity\|受教育身份]]的拷问，以批判性和人道主义立场去见证并记录我们在“教育”的旗帜下对全世界的孩子们所实施的系统性后果。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 335, p. 336)]]
 
 > [!citation-card] 经典表述：移动即变形
@@ -177,7 +177,7 @@ updated: 2026-10-20
 > - **政策与咨询批判** 极力抵制将比较教育简化为服务[[Policy Borrowing\|政策借用]]和[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）等国际评测的技术官僚“[[Policy Science in Comparative Education\|政策科学]]”；揭示高校由公共财政紧缩诱发的“学术重商主义”海外咨询输出倾向。
 > - **跨国传播与应用** 3T 框架被广泛应用于分析包括 [[John Dewey\|杜威]] 思想在民国中国的本土转译与碎片化[[Assemblage\|组装]]等教育史与[[Comparative Policy Analysis|比较政策分析]]中。[[Argument_Zhou_2024_CE\|(Zhou & Westberg, 2024, p. 611)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 以 3T 框架分析杜威思想在中国的历史旅程，证明转译与转化受限于本土分裂的权力结构。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 将其双轴模型与转型学应用到[[Regional University Alliances\|区域大学联盟]]的晚期现代市场竞争分析中。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特将考恩列为伦敦大学教育研究院（IOE）[[Michael Sadler|萨德勒]]遗产的代表性继承者，评析其与卡扎米亚斯、施里维尔共同构筑的欧洲历史文化主义学术主干。

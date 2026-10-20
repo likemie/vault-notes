@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **用途** 用于分析超国家评估机构（如 [[OECD]]/[[PISA]]）如何扮演“知识新帝国”角色，通过数字和基准测评开展[[Governing at a Distance\|远处治理]]，促成全球教育系统向西方标准趋同。
 > - **边界** 必须与新兴非西方国家（如中国）挑战西方霸权、争夺世界秩序主导权但不改变资本主义本质的“[[De-Westernisation\|去西方化]]”（De-Westernisation）相区分。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 美国的再西方化旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 > [!boundary]- 概念边界

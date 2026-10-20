@@ -137,7 +137,7 @@ updated: 2026-10-20
 > [!warrant]- 理论如何支撑论证
 > 初始框架（图 1）以 QURE 为主体：深层使用的双向箭头用来界定"用什么、怎么用"，研究素养的敏感度用来判断研究是否恰当，生态系统模型提供三个层级的子主题，系统层级还额外加入一般社会因素与教育政策两个子主题。这个框架不是结论，而是[[Framework Synthesis\|框架综合]]的先验透镜，用来组织数据提取与编码，同时允许综合中浮现框架之外的新主题。分析分两步：聚合式分析把发现映射回框架并统计来源研究数；配置式分析跨越层级识别反复出现的主题，后者直接产出了四类治理机制。（pp.4–5, 8）
 
-> [!example]- 图1：研究使用的整合框架（初始框架）
+> [!example] 图1：研究使用的整合框架（初始框架）
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig1_Consolidated_Framework.jpg)
 
 ---
@@ -167,10 +167,10 @@ updated: 2026-10-20
 > | **研究设计** | 定量 38 项（35%，多采用调查）、质性 48 项（45%，多采用访谈）、混合方法 23 项（20%）；约 80% 为横断面设计。（p.9） |
 > | **质量分布** | 评 5 分（高质量）41 项（38%）、4 分 18 项（17%）、3 分 31 项（28%）、2 分及以下 17%；1 项未通过筛选。（p.9） |
 
-> [!note]- 团队与[[Theoretical Standpoint\|理论立场]]
+> [!note] 团队与[[Theoretical Standpoint\|理论立场]]
 > 三位研究者分别来自挪威、芬兰和土耳其，前两位有从教背景，第三位是心理学研究者。整体分析持[[Critical Realism\|批判实在论]]（critical realism）立场（Bhaskar, 2013）：要找出生成可观察模式的深层机制，而不只是数障碍与促进因素的频数。这一取向让配置式分析更关注系统与关系性模式，也可能使个体层面因素相对不突出。（pp.6, 8）
 >
-> [!example]- 图2：PRISMA [[Literature Search\|文献检索]]与筛选流程图
+> [!example] 图2：PRISMA [[Literature Search\|文献检索]]与筛选流程图
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig2_PRISMA_Flowchart.jpg)
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　文献如何描述研究使用：聚焦教师个体，组织与系统层面较少被研究
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 纳入的研究大多把研究参与说成一种"缺失"或"挑战"，并把问题和部分解决办法归到个体、组织或系统三个层面之一。但聚合统计显示，个体层面的因素出现在 83% 的研究里，组织与系统层面的因素则很少被提及，说明[[Research Utilization\|研究使用]]研究明显偏向个体视角。（p.9）
 
 > [!dimension] 研究使用在文献中被描述的四个分析层面
@@ -222,7 +222,7 @@ updated: 2026-10-20
 
 ### 论证步骤二　研究使用的障碍与促进因素：最顽固的障碍在系统与组织层面
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 二十六年过去了，文献仍在报告同样的障碍清单，但这些障碍的系统性一面一直被低估：最常被提到的障碍（时间、问责、工作条件、研究与课堂的鸿沟）都属于系统和组织层面，而许多促进因素恰恰是这些障碍在结构、文化和领导上的镜像反转。（pp.12–15）
 
 > [!ref-table] 障碍因素：按层级的完整清单
@@ -257,7 +257,7 @@ updated: 2026-10-20
 > | 核心构件 | 深思熟虑参与（k = 18） | 既可以是工具性的（教师用它解决实践问题，Sinnema et al., 2011），也可以是协作性的（引发对话讨论，Brown & Zhang, 2017）；带来具体改变并增强[[Teacher Professional Agency\|教师能动性]]（“我可以拥有自己工作的所有权”，Hofmann & Ilie, 2022, p. 14） |
 > |  | 恰当研究（k = 35） | 兼具实用性并维护研究完整性，需要在格式、内容、情境相关性与语言之间取得平衡 |
 
-> [!example]- 图3：研究使用的障碍与促进因素
+> [!example] 图3：研究使用的障碍与促进因素
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig3_Barriers_Enablers.jpg)
 
 > [!warrant]- 推理桥梁
@@ -267,7 +267,7 @@ updated: 2026-10-20
 
 ### 论证步骤三　塑造研究使用的四类跨层机制：信任、技能发展、可持续结构、关系
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 一些主题既反复跨越多个层级，又同时出现在"框定/描述"和"障碍/促进"两类数据里，它们构成了四类治理机制：信任、技能发展、可持续结构和关系。这四类机制不属于任何单一层级，而是横跨并贯通整个系统，共同塑造学校里的研究使用。修订框架因而用四类机制取代了原先的层级嵌套逻辑。（pp.15–17）
 
 > [!theory-components] 治理研究使用的四类跨层机制
@@ -280,7 +280,7 @@ updated: 2026-10-20
 > - **关系（Relationships）**
 >   从系统之外看，研究者与实践者之间的"鸿沟"是最清晰的跨层机制。弥合鸿沟需要研究者、系统层面决策者和组织、个体层面的实践者彼此建立互惠关系，形式可以是正式课程、专业发展或[[Research-Practice Partnership\|研究-实践伙伴关系]]。关键是尊重对方专业领域的管辖权，并且基于信任和好奇展开开放对话。（p.17）
 
-> [!example]- 图4：学校[[Governing Mechanisms of Research Use\|研究使用的跨层治理机制]]（修订框架）
+> [!example] 图4：学校[[Governing Mechanisms of Research Use\|研究使用的跨层治理机制]]（修订框架）
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig4_Revised_Framework.jpg)
 
 > [!warrant]- 推理桥梁
@@ -290,7 +290,7 @@ updated: 2026-10-20
 
 ### 论证步骤四　从实施转向整合：把研究融入专业判断与学校文化
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 对研究使用的理解应从实施转向整合。整合有两层含义：认识论上，把研究知识与专业智慧、情境判断和经验知识调和起来；组织上，把研究参与嵌入学校文化、惯例与结构，使它成为持续的集体实践，而不是个别教师的偶发行为。（pp.17–18）
 
 > [!evidence-grid] 支持从实施转向整合的证据
@@ -325,22 +325,22 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 整合的定义
+> [!citation-card] 整合的定义
 > 从实施转向整合，比[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]更进一步：概念性使用描述研究不直接应用也能逐渐改变思维，而整合意味着更主动、更刻意的过程，把研究知识与专业智慧、情境知识调和起来。组织层面，整合是把研究参与嵌入学校文化、惯例与结构，作为持续的集体实践。（pp.17–18）
 >
 > *Integration here can be understood in two complementary senses. Epistemologically, it refers to the active reconciliation of research knowledge with professional wisdom, contextual judgment and the experiential knowledge of teachers and school leaders - research as a third voice in professional dialogue rather than a directive.*
 
-> [!citation-card]- 深思熟虑参与的含义
+> [!citation-card] 深思熟虑参与的含义
 > 教师与所提供研究文章的深度讨论中，"支持既非全盘拒绝，也非不加批判地接受基于研究的建议，而是涉及机会主义的决策"；当研究被整合进其它[[Source of Knowledge\|知识来源]]，并在长时间、聚焦的讨论中参与时，即使没有总是伴随实施，也已经构成深思熟虑参与。（pp.11–12）
 >
 > *It involves opportunistic decision-making. When research is integrated with other sources of knowledge, and is engaged with in "long, focused discussions", it seems to serve as "thoughtful engagement" even though it is not always followed by "implementation".*
 
-> [!citation-card]- 研究整合的公共卫生类比（Sahlberg, 2023）
+> [!citation-card] 研究整合的公共卫生类比（Sahlberg, 2023）
 > "成功战胜全球疫情，靠的是依靠现有最好的科学与专家知识，在最大化治疗效果的同时最小化副作用。教育也应该遵循这个在世界上许多地方的公共卫生领域带来成功的原则。"（Sahlberg, 2023, p. 7）
 >
 > *Success in fighting the global pandemic is a result of relying on best available science and expert knowledge to maximize the effectiveness of treatments while minimizing their [[Side Effects]]. We should follow that same principle that have led success in public health in many parts of the world in education, too.*
 
-> [!citation-card]- 研究参与带来的能动感（Hofmann & Ilie, 2022）
+> [!citation-card] 研究参与带来的能动感（Hofmann & Ilie, 2022）
 > "我看到的好事，是让教职员工参与研究，让他们觉得'哦，我在自己做的事情上可以有所有权'——因为我们这个职业很多时候是'被安排'的。"（Hofmann & Ilie, 2022, p. 14）
 >
 > *The good thing that I saw is getting staff engaged in research, seeing staff think, 'Oh, I can have some ownership in what I do', because we are a profession that are very much done unto...*

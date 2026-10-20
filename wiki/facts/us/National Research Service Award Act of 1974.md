@@ -64,7 +64,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 《1974年国家研究服务奖法案》（National Research Service Award Act of 1974）依法确立了联邦政府在生物医学与行为科学领域持续资助高层次科研后备人才培养的法定责任；法案整合创设了国家研究服务奖（NRSA），规定资助必须重点投向“国家存在明确专业人员短缺需求”的前沿领域，以立法形式逆转了行政当局取消培训经费的企图。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 
-> [!policy-design]- 政策设计与资助工具
+> [!policy-design] 政策设计与资助工具
 > - **双轨制资助架构** 设立个人奖学金（Individual Fellowships，如 F 系列资助）与机构培训基金（Institutional Training Grants，如 T32 资助），允许高校自主选拔优秀博士生与博士后进行系统性学科训练。
 > - **法定需求评估机制** 授权[[National Academy of Sciences|美国国家科学院]]与[[National Research Council|国家研究委员会]]（NRC）每两年定期发布全国生物医学与行为科学人员供求趋势报告，作为国会动态调整 NRSA 资助指标与学科投向的法定依据。
 > - **服务回报条款（Payback Agreement）** 早期要求受资助学者在完成学业后必须从事相应年限的健康科研或教学工作，否则需偿还培训经费，强化人才公共效用导向。

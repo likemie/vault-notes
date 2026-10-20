@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **用途** 在实证[[Quantitative Research|量化研究]]中用作预测[[Academic Achievement|学业表现]]、认知成熟或社会流动的核心[[Independent Variable|自变量]]/控制变量；在宏观[[Comparative Policy Analysis|比较政策分析]]中用以透视国家教育资源的阶级倾斜与层级结构失衡。
 > - **边界** 区别于单纯的“入学率”（Enrollment Rate），受教育水平强调个体所达成的实质性学历资格沉淀与整体人口的阶梯分布。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论受教育层级的结构扭曲
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论受教育层级的结构扭曲
 > 拉丁美洲在工业化初期的教育扩张展现了极端的层级不平衡：高等与中等受教育层级入学增长率超过 240%，而初等教育增长迟缓，成人文盲绝对规模维持恒定。这表明国家优先利用高阶教育机会满足精英与城市中产阶级的文凭需求，而牺牲了面向劳工大众的基础受教育水平普惠。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 >
 > *The educational expansion in Latin America was remarkably uneven across educational levels: while higher and secondary education experienced unprecedented growth rates, primary education lagged behind and adult illiteracy remained virtually unchanged, reflecting an inverted pyramid serving elite reproduction.*

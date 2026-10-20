@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者揭示教科书、国家大纲与考评制度如何通过表面中立的叙事掩盖幕后的意识形态操纵与统治正当性构建。
 > - **边界** 不等于全面强制的洗脑或毫无反抗的单向灌输；课程实施过程中始终存在一线教师与学生的再解释、抵抗与适应空间。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 学校课程并非[[Value Neutrality\|价值中立]]，而是官方知识——即特定群体的知识被选择性地合法化，这一选择过程本身就是政治性的。[[Argument_Yu_2024_CE\|(Apple, 2000, 引自 Yu & Zhao, 2024, p. 59)]]
 >
 > *“Schools are not VALUE-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*

@@ -176,7 +176,7 @@ citation_aliases:
 
 ### 论证步骤一：学科焦虑与陈词滥调的历史包袱
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临[[Epistemology\|认识论]]碎片化的危险。(p.327)
 
 > [!chain-link] 证据到判断
@@ -201,7 +201,7 @@ citation_aliases:
 
 ### 论证步骤二：学术史上的规训惩罚与当代去殖民化
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 重构学术议程总是充满政治阻力。历史上的[[Paradigm\|范式]]转型留下了严重的规训惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
@@ -224,7 +224,7 @@ citation_aliases:
 
 ### 论证步骤三：前瞻未来的原则与“全球解读”演变
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 评估比较教育的前瞻方向必须遵循特定的分类原则，其智识命运取决于它如何阅读地缘政治与经济大叙事（[[Readings of the Global\|全球解读]]）。(pp.329–331)
 
 > [!chain-link] 证据到判断
@@ -249,7 +249,7 @@ citation_aliases:
 
 ### 论证步骤四：四种矛盾理解形式的政治解构
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 比较教育在学术界中长期共存但深刻矛盾的四种理解形式（Forms of understanding），各自携带了不同的、往往是不透明的政治预设与权力结盟。(p.332)
 
 > [!dimension] 学术界中长期并存的四种理解形式
@@ -269,7 +269,7 @@ citation_aliases:
 
 ### 论证步骤五：绩效管理主义与“演绎理性”的腐蚀
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 当代大学的微观政治正在将比较教育卷入一场以效率和绩效为名的意识形态话语控制中。这种新型[[Deductive Rationality\|演绎理性]]具有强烈的腐蚀性，极大地扼杀了学术原创性。(p.332)
 
 > [!warning] 学术界的隐藏讽刺 (Hidden Irony)
@@ -286,7 +286,7 @@ citation_aliases:
 
 ### 论证步骤六：重构的二元支点与未来概念需求
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 比较教育必须战略性地回到其智识与道德的起点，以转移和受教育身份重新定义学科议程，并创造能应对 21 世纪危机的原创概念。(pp.335–336)
 
 > [!success] 核心重构的两个基础问题
@@ -305,7 +305,7 @@ citation_aliases:
 
 ### 论证步骤七：专刊案例分析：知识遭遇政治的各方表达
 
-> [!claim] 步骤七主张
+> [!claim|lead] 步骤七主张
 > 本专刊的各篇研究在各自的历史叙事和地缘情境中，以不同的深度呼应了本诊断的核心关切，展现了认识论遭遇政治的矛盾，并发出卡珊德拉式的未来警告。(p.334)
 
 > [!quad-grid] 专刊重点学者论证矩阵
@@ -338,17 +338,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 学术[[Legitimation Crisis|合法化危机]]
+> [!citation-card] 学术[[Legitimation Crisis|合法化危机]]
 > 我们积累了过多惯例化的自我合法化方式；是时候摆脱关于我们过去的舒适陈词滥调，注意到未来至少在隐喻意义上已经是现在，而且是紧迫的。(p.326)
 >
 > *We have accumulated too many routinised ways to legitimate our academic identity; it is time to step away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent.*
 
-> [!citation-card]- 并存冲突的理解形式
+> [!citation-card] 并存冲突的理解形式
 > 在“学术界”中，我们在相当长的时间里，同时保留了比较教育中相互并存但深刻矛盾的理解形式。(p.332)
 >
 > *In the 'academy', we have retained – for a remarkable length of time – simultaneous but deeply contradictory forms of understanding in comparative education.*
 
-> [!citation-card]- 伦理与智识拷问
+> [!citation-card] 伦理与智识拷问
 > 这个[[Research Question\|研究问题]]是否给了我们足够严肃的智识议程？如果我们再追问一个伦理的、政治的和学术的问题：什么是“[[Educated Identity\|受教育身份]]”？这能否给予我们足够的道德清晰性和确定性，来见证我们以“教育”之名对世界上的孩子们做了什么？(p.336)
 >
 > *Does that problematique give us a sufficient and serious intellectual agenda? If we also ask as an ethical, political, and academic question, what is an 'educated identity' – does that give us enough moral clarity and certitude to bear witness about what we do to the children of the world in the name of 'education'?*

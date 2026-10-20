@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ## 核心主旨
 
-> [!claim] 核心主旨
+> [!claim|lead] 核心主旨
 > [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的教育理念需要通过课程与考试落实。设计者把发展个人理解、改变并享受其内外环境的[[Whole Person Education\|全人教育]]目标转译为一套制度：六门分布式学科训练不同思维方式，[[Extended Essay\|拓展论文]]（Extended Essay，EE）提供自主深究，创造、审美与社会服务（[[Creativity, Action, Service\|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service\|CASS]]）保留直接经验与社会服务，[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）统整学科认识方式，多元考试则在效度、[[Reliability\|可靠性]]与[[Assessment Backwash\|评估反拨]]之间取得平衡（pp. 33–59）。
 
 > [!phase] 从教育目标到课程与评价体系
@@ -172,7 +172,7 @@ updated: 2026-10-16
 
 #### 从改革思想到六学科课程结构
 
-> [!dev-timeline]- 多种思维方式如何获得课程形态
+> [!dev-timeline] 多种思维方式如何获得课程形态
 > - **1960 年　牛津报告把跨领域专门学习与共同反思结合** 牛津大学教育系的《高中毕业阶段的文科与理科方向》（*Arts and Science Sides in the Sixth Form*）主要在《克劳瑟报告》发表前完成，并明确反对英国文理分流造成的过早专门化。报告建议把两三门专业科目增加到横跨文理的四门，再设置第五时间区块，容纳宗教教育、体育、创意艺术及一门统整课程。新课程每年不超过 60 小时，集中讨论各学科的方法、限制以及怎样统一学生的整体学习经验。报告同时建议由 50 所学校试验五区块课程，方案没有获得实施（pp. 41–43）。
 > - **1966 年　美国讨论提出通过专门化实现通识** 丹尼尔·贝尔（Daniel Bell）在 *The Reforming of General Education* 中分析高中先修课程与大学专业化对通识教育的双向挤压，也提出通过专门化实现通识教育（general education through specialization）。这个表述为一个关键折中提供语言：学生可以在少数领域真正进入学科实践，再通过学科分布获得多种思想工具，无需依靠大量浅层课程形成广度（pp. 39–43）。
 > - **1968 年　让·卡佩勒（Jean Capelle）从法国百科全书课程的另一端接近同一方案** Capelle 批评法国毕业会考要求学生储存大量知识样本，并在考试时按题目抽取。其改革方案把十余个浅学领域缩减为约六门性质不同的学科，让学生有时间深入学习，并从知识资源中形成个人的理解组合。英国改革希望把两三门增加到四至六门，法国改革希望把十余门减少到约六门，两条路径由此汇合于多样学科和充分深度的结合（p. 43）。
@@ -243,7 +243,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 
 #### TOK：把学科经验转化为可迁移的认识
 
-> [!phase]- 从统整课程草图到法国哲学课程形态
+> [!phase] 从统整课程草图到法国哲学课程形态
 > - **牛津报告提供制度位置** 1960 年报告提出第五时间区块，用一门短课程讨论各学科的方法、限度和整体学习经验。它说明六门学科之外需要共同反思空间，却没有完成具体课程内容。
 > - **Renaud 提供法国哲学传统的初始转化** [[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）把法国高中哲学课程关于逻辑、科学、数学和判断的讨论带入国际课程设计，使统整目标获得可教学的主题。
 > - **Dreyfus 使课程成为可实施和可评价的结构** 迪娜·德雷福斯（Dina Dreyfus）是法国哲学督学，也是 TOK 的主要合作者及最初考官。她在 Renaud 工作基础上形成早期课程；Peterson 回顾最初十五年时认为，其基本形态变化很小（pp. 42–43, 46）。
@@ -350,7 +350,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 > [!case] 弗莱彻·沃森（Fletcher Watson）用总评权重重新界定一道问题题目的风险
 > 哈佛大学教授 Watson 把讨论从单题质量转向它在整个文凭中的实际影响。一道受质疑题目只是语言 B 选择题测试 40 题中的一题；选择题部分占语言 B 总分五分之一；语言 B 又是构成文凭总评的六门学科之一。按这一简化结构计算，单题约占总评的 1／1,200。这个判断说明，评价项目需要在整套证据中解释其风险：题目仍应改进，其误差却不会直接等同于文凭判断的全部误差（p. 56）。
 
-> [!phase]- 选择题的成本与用途随考生规模改变
+> [!phase] 选择题的成本与用途随考生规模改变
 > - **试验初期** 编写和改进高质量选择题需要专业投入，考生人数又少，选择题一度成为 IBO 最昂贵的评价形式。缺少预测试人群使高投入也难以立即达到大型考试机构的技术标准。
 > - **评价组合确定后** 选择题只承担词汇、习语及部分知识和理解的广泛抽样，听、说、读、写仍由其他任务评价。限定功能减少了选择题对课程的反拨风险。
 > - **考生规模扩大后** 同一套测试可以服务更多学生，单位成本随之下降。选择题相对较高的可靠性和对特定能力的效度，使其从高成本试验项目转变为评价组合中具有成本效益的一部分（pp. 55–56）。
@@ -378,7 +378,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 > [!boundary]- IBO 提供证据，大学决定如何加权
 > IBO 希望大学重视文凭总分，以承认六学科和核心经验构成的整体教育；部分大学和院系仍主要查看相关高级程度学科。某个国家或大学怎样平衡总体成绩与专业成绩，超出 IBO 的控制范围。综合评价的制度作用是同时提供两类证据，使招生机构能够读取整体成熟度，也能核查特定学科准备（pp. 56–57）。
 
-> [!dev-timeline]- 从手工试验到可扩展评价体系
+> [!dev-timeline] 从手工试验到可扩展评价体系
 > - **1960 年代后期　按课程目标组合题型** 各学科国际小组围绕效度、可靠性、反拨、成本和速度选择任务。语言 B 的五类证据成为多种题型互补的清晰案例。
 > - **1970 年　首批正式结果使综合评价进入真实升学使用** IBO 以面对面与录音口试、选择题、短答、论文、实践考试、项目、EE 和教师课程作业评价组成证据组合。首批 29 名学生来自九所学校，评价结果直接关系其进入高等教育的路径（Ch. 2, pp. 30–31；Ch. 3, pp. 56–57）。
 > - **随后十五年　规模改变成本与程序** 项目由手工协调的九校、29 人发展到近 300 所学校、约 6,000 名考生。成本和出分速度推动部分程序调整，选择题的规模经济增强，整个评价体系也由小型试验逐渐转为跨国行政系统（p. 57）。
@@ -463,17 +463,17 @@ Peterson 对理解环境的判断接近部分实现。学生确实接触多种�
 
 ## 关键引文
 
-> [!citation-card]- [[General Education\|通识教育]]作为思维能力
+> [!citation-card] [[General Education\|通识教育]]作为思维能力
 > 我们要确保的，不是学生作为“受过通识教育的男女”已经获得广泛知识，而是他们尽其所能，发展出参与广泛“思维方式”的能力与愿望。（p. 41）
 >
 > *We sought not to ensure that as “generally educated men and women” our students should have acquired a wide range of knowledge, but that they should have developed, as far as they were able, their power and desire to engage in a wide range of what Montaigne called “ways of thinking”.*
 
-> [!citation-card]- [[Paradigmatic Learning\|范例学习]]的边界
+> [!citation-card] [[Paradigmatic Learning\|范例学习]]的边界
 > 要教学生学习、思考和想象，与其试图覆盖完整知识体系，不如选择若干范例，让学科要素得到深入研究。（p. 44）
 >
 > *It is better to select certain examples, where elements of the discipline can be studied in depth, than to attempt to cover a whole corpus of knowledge.*
 
-> [!citation-card]- 课程先于考试
+> [!citation-card] 课程先于考试
 > 这是一个实际必要：修读课程的学生必须能够参加一项获国际高等教育入学承认的考试。但首先存在的是课程。（p. 57）
 >
 > *It was a practical necessity that those who followed it should be able to take an examination recognised for entry to higher education on an international scale. But it was the curriculum which came first.*

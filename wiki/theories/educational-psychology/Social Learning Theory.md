@@ -41,7 +41,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > 社会学习理论（social learning theory）试图在认知心理学与行为修正原理之间实现平衡的综合。其统一理论框架以认知、行为和环境决定因素之间的持续交互互动来解释人类行为（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）。
 
 > [!quote]
@@ -73,7 +73,7 @@ updated: 2026-06-02
 
 ## 发展脉络
 
-> [!note]-
+> [!note]
 > 社会学习理论的发展涉及多位研究者的贡献：
 > - **1941** — Miller & Dollard 出版 *Social Learning and Imitation*，早期社会学习理论基础
 > - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable\|变量]]（行为、期望、强化、心理情境）和社会学习公式

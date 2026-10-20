@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **用途** 协助研究者理解国家或民粹主义[[Discourse|话语]]如何动员集体记忆以重建凝聚力。
 > - **边界** 不等于传统乌托邦（指向未来）或单纯的个体怀旧（缺乏系统性的政治投射与边界建构）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 怀旧乌托邦是一个社区，“位于失去的、被盗的或被遗弃的但未死的过去，而不是与尚未诞生因而尚不存在的未来联系在一起”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 104]])
 >
 > *Retrotopia is a community "located in the lost, stolen or abandoned but undead past, instead of being tied to the not-yet-unborn and so inexistent future"*

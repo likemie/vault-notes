@@ -186,7 +186,7 @@ status: draft
 > | **效应量计算与统计建模**<br>Meta-Analysis & Model Specification | 选用无偏[[Effect Size\|效应量]]指标 Hedges' $g$（克服小样本偏倚，按 Cohen 1992 标准解释）；采用 Cochran's $Q$ 统计量与 Higgins $I^2$ 指标诊断[[Heterogeneity\|异质性]]；鉴于初级研究间显著异质性（$Q = 255.208, p < 0.001, I^2 = 77.273\%$），选用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组异质性 $Q_b$ 检验分别对干预时长、学段层次、教学模式及自主调节学习能力开展调节效应检验。（pp. 7, 9–12） |
 > | **发表偏倚与稳健性诊断**<br>Publication Bias & Diagnostics | 综合运用[[Funnel Plot\|漏斗图（Funnel Plot）]]视检数据对称性分布，结合 [[Egger Regression Test\|Egger 线性回归检验]]（截距检验 $t = 1.871, p = 0.066$）与异质性敏感性分析，系统诊断潜在[[Publication Bias\|发表偏倚]]对合并效应量稳健性的影响。（pp. 9–10） |
 
-> [!example]- 图1：[[Literature Search\|文献检索]]与筛选流程图（PRISMA 2020）
+> [!example] 图1：[[Literature Search\|文献检索]]与筛选流程图（PRISMA 2020）
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig1_PRISMA_Flowchart.jpg)
 > 
 > *[[PRISMA\|PRISMA]] 流程图完整展现了从 400 篇初始检索文献，经过查重去重、标题摘要初筛、全文资格审查与量化数据完整性核验，最终锁定 29 项高质量实验与准实验研究（共计 59 个效应量）的全过程。（p. 8）*
@@ -229,10 +229,10 @@ status: draft
 
 ### 论证步骤一　生成式 AI 整体显著促进高阶思维：效应量达到中等偏大水平且具备发表稳健性
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 基于 29 项实验与准[[Experimental Research\|实验研究]]的一阶[[Meta-analysis\|元分析]]表明，[[Generative Artificial Intelligence\|生成式人工智能]]对学生[[Higher-Order Thinking Skills\|高阶思维]]具有统计学上显著且中等偏大的促进作用（Hedges' $g = 0.609, p < 0.001$）；异质性检验与发表偏倚审计表明该结论稳健可靠，有力证实了生成式 AI 完全有潜力成为有效的外部[[Scaffolding\|认知脚手架]]。（pp. 9–10, 12–13）
 
-> [!evidence-grid]- 支持步骤一主张的证据
+> [!evidence-grid] 支持步骤一主张的证据
 > - **总体合并[[Effect Size\|效应量]]中等显著** [[Random-Effects Model\|随机效应模型]]合并 59 个独立效应量，得出总体效应量 $g = 0.609$（95% CI $[0.485, 0.732], Z = 9.718, p < 0.001$），超越常规教育干预基准线。
 > - **纳入研究[[Heterogeneity\|异质性]]检验显著** Cochran's 检验 $Q = 255.208, df = 58, p < 0.001$，$I^2 = 77.273\%$，表明效应量差异主要源自各研究真实特征而非抽样误差，证实必须使用随机效应模型。
 > - **[[Publication Bias\|发表偏倚]]诊断支持结论稳健** [[Funnel Plot\|漏斗图]]视检显示 59 个数据点大多对称分布于均值两侧，Egger 线性回归检验未达统计显著（$t = 1.871, p = 0.066$），排除了严重发表偏倚对效应量的扭曲。（pp. 9–10）
@@ -248,7 +248,7 @@ status: draft
 > - **模型选择与效应量权重分配（固定效应 vs 随机效应）** 固定效应模型假定所有纳入研究测量的是唯一的真实效应，加权仅基于研究内方差，合并效应为 $0.578$；而随机效应模型承认初级研究因教学情境、干预方案与任务设计不同存在真实的群体间变异，给小样本研究赋予更均衡的权重，合成效应为 $0.609$。
 > - **异质性检验决定分析走向（Cochran's $Q$、$df$ 与 $I^2$）** Cochran's 检验统计量 $Q = 255.208$（自由度 $df = 58, p < 0.001$），远超卡方临界值；$I^2 = 77.273\%$ 表明总方差中超过 77% 源自初级研究间的真实情境差异，仅不到 23% 归因于随机抽样误差。这在统计学上坚决否决了固定效应模型，确立了随机效应模型的必要性，并直接指引了后续拆解认知子维度与调节变量的学术必要。（pp. 9–10）
 
-> [!example]- 图2：[[Standard Error\|标准误]]对应 Hedges' g 的发表偏倚漏斗图
+> [!example] 图2：[[Standard Error\|标准误]]对应 Hedges' g 的发表偏倚漏斗图
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig2_Funnel_Plot.jpg)
 > 
 > *[[Funnel Plot\|漏斗图]]呈现标准误与效应量分布：除 8 个分散离群点外，绝大多数研究紧密且大致对称地分布于合并效应量虚线两侧，右偏倾向轻微，印证了数据稳健度。（p. 9）*
@@ -258,7 +258,7 @@ status: draft
 > - **散点分布与偏倚对称性检验** 图中 59 个效应量除 8 个离群点散落在漏斗斜线外侧外，绝大多数研究紧密且大致对称地分布于中心均值线两侧；漏斗底部并未出现小样本阴性或微弱效应研究系统性缺失的“左下角空洞”，右偏倾向轻微。
 > - **结合定量回归确证结论稳健性** 漏斗图的目视对称性得到了定量检验的有力支持——Egger 线性回归截距检验未达统计显著（$t = 1.871, p = 0.066 > 0.05$），表明未触发严重发表偏倚警报，排除了严重“抽屉文件效应”对合并效应量的实质性扭曲。
 
-> [!example]- 图3：生成式 AI 促进学生高阶思维的[[Forest Plot\|森林图]]
+> [!example] 图3：生成式 AI 促进学生高阶思维的[[Forest Plot\|森林图]]
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig3_Forest_Plot.jpg)
 > 
 > *[[Forest Plot\|森林图]]完整展示了纳入元分析的 59 个独立效应量点估计及其 95% 置信区间，底部菱形标记明确标示出总效应量 $g = 0.609$。（p. 10）*
@@ -276,7 +276,7 @@ status: draft
 > [!warrant]- 推理桥梁：外部[[Scaffolding\|认知脚手架]]的功能释放
 > 按照 Cohen（1992）的标准，$0.5 \le g < 0.8$ 属于教育实证领域中等偏大的促学效应。这一量化结果从根本上反驳了将人工智能简单视作“思考杀手”的悲观论调。其深层认知机制在于：生成式 AI 凭借自然语言多轮交互、智能检索与方案重组能力，承担了繁琐的基础信息检索与初步查错工作，有效减轻了学习者的即时工作记忆负担，从而节省了宝贵的认知资源（认知带宽），让学生能将精力集中在高阶推理、权衡证据与深入反思上。（pp. 10, 12–13）
 
-> [!case]- 代表性实证案例：[[STEM Education\|STEM]] 结构化探究系统 InquiryGPT（Li et al., 2024b）
+> [!case] 代表性实证案例：[[STEM Education\|STEM]] 结构化探究系统 InquiryGPT（Li et al., 2024b）
 > - **研究背景与工具开发** 面对学生在传统[[Inquiry-Based Learning\|探究学习]]中容易迷失方向或将 AI 沦为查答案工具的问题，Li et al. (2024b) 为高校与中职 STEM 实验课程定制开发了嵌入[[Scaffolding\|脚手架]]的系统 **InquiryGPT**。
 > - **核心教学规程设计** 该系统并非开放式聊天，而是强制约束在结构化探究学习框架（Inquiry-Based Learning Framework）内：系统通过多阶段提示语引导学生逐步经历“提出科学假设 $\rightarrow$ 确定[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]控制 $\rightarrow$ 数据异常分析与推论 $\rightarrow$ [[Metacognition\|元认知]]反思评估”四个连续节点；系统被明确设定为“不直接提供实验结果，仅提供[[Socrates\|苏格拉底]]式启发问题”。
 > - **实证效果与机制验证** 实验组学生的系统性科学推理能力与元认知监控得分显著超越使用原生 ChatGPT 的对照组。该案例直接证实：生成式 AI 绝非只要引入就能促进高阶思维，而是必须依托显性[[Structured Teaching\|结构化教学]][[Scaffolding\|脚手架]]的定向规范，才能将大模型的算力真正转化为心智进阶的杠杆。（p. 4）
@@ -285,10 +285,10 @@ status: draft
 
 ### 论证步骤二　高阶思维内部呈现显著的维度分化：问题解决获益最深，批判性思维次之，创造力相对有限
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 生成式 AI 对高阶思维不同维度的促进效果存在明显分化：对以逻辑推理和方案排错为核心的[[Problem Solving\|问题解决能力]]帮助最大（$g = 0.745$）；对注重证据核查与质疑反思的[[Critical Thinking\|批判性思维]]同样有显著提升（$g = 0.691$）；但对高度依赖个人独特创意的[[Creativity\|创造力]]帮助相对有限（$g = 0.444$）。这种效果上的差异，反映出大语言模型基于概率生成内容的特点，与人类不同思维方式之间的契合程度存在明显不同。（pp. 10–11, 13–14）
 
-> [!evidence-grid]- 支持步骤二主张的证据
+> [!evidence-grid] 支持步骤二主张的证据
 > - **[[Problem Solving\|问题解决能力]]位居首位** 在问题解决维度上（$k = 16$），效应量达到 $g = 0.745$（95% CI $[0.521, 0.970], Z = 6.507, p < 0.001$），呈现出接近强效应的显著提升。
 > - **批判性思维中等显著** 在批判性思维维度上（$k = 20$），效应量达到 $g = 0.691$（95% CI $[0.464, 0.918], Z = 5.973, p < 0.001$），证实了在人机互动中辨别真伪、推敲观点能够有效激发学生的批判反思意识。
 > - **创造力增益相对受限** 在创造力维度上（$k = 23$），效应量为 $g = 0.444$（95% CI $[0.259, 0.629], Z = 4.698, p < 0.001$），显著落后于前两个维度。
@@ -320,12 +320,12 @@ status: draft
 > 2. **AI 偶尔犯错反而成了训练批判性思维的“磨刀石”** 批判性思维的核心在于“反思与求证”。在合理的教学引导下，生成式 AI 偶尔出现的事实错误与“胡说八道”（算法幻觉）并没有成为学习障碍，反而带来了一个绝佳的反思训练契机：正因为 AI 会犯错，学生不敢再盲从它的回答，而是带着怀疑眼光主动去查阅一手资料与[[Primary and Secondary Documents\|原始文献]]、推敲逻辑漏洞并提出质疑。这种“给 AI 挑错”的人机互动，在客观上极大地激发了学生的审思意识，使批判性思维得到了显著提升（$g = 0.691$）。（p. 13）
 > 3. **AI 内容同质化对突破性创意的制约（平庸均值瓶颈）** 真正的创造力重在“打破常规与独创性”。然而大语言模型本质上是基于海量语料计算概率，其输出天然偏向挑不出错但也最平庸的“大众平均水平”（即中规中矩的常规套路与模板）；学生在使用时若缺乏深究毅力，极易偷懒直接套用 AI 给出的现成思路（走捷径），导致作品千篇一律、缺乏突破性灵感，因而在客观上限缩了创造力维度的提升幅度（$g = 0.444$）。（pp. 13–14）
 
-> [!case]- 代表性实证案例：导向型化学学习助手 GCLA（Lee et al., 2024）
+> [!case] 代表性实证案例：导向型化学学习助手 GCLA（Lee et al., 2024）
 > - **研究背景与系统机制** Lee et al. (2024) 针对高校化学学习中多步反应机理推演难度大、学生易退缩的问题，开发了基于 ChatGPT 的**导向型化学学习助手（Guided Chemistry Learning Assistant, GCLA）**。
 > - **具体教学交互模式** GCLA 深度整合了专家支架策略：当学生输入复杂分子合成难题时，系统坚决拒绝直接给出反应方程和产物，而是模拟资深教授的启发式追问，引导学生先识别官能团性质、分析亲电/亲核反应中心，再自主推导下一步机理；同时实时评估学生的推理合理性并给予分步反馈。
 > - **实证结果** 实验表明，GCLA 显著改善了学生的元认知自我调节水平，并在多步骤化学问题解决和批判性反思测验中取得大幅增益，完美诠释了“[[Scaffolding\|脚手架]]式引导”如何驱动问题解决能力的跃升。（p. 4）
 
-> [!case]- 代表性实证案例：人机辩论活动中的批判性思维激发（Guo et al., 2023）
+> [!case] 代表性实证案例：人机辩论活动中的批判性思维激发（Guo et al., 2023）
 > - **实验情境与干预设计** Guo et al. (2023) 在高中语文与社会议题探究课中，设计了基于 AI 聊天机器人的课内辩论活动。
 > - **辩论对抗机制** 教学要求学生选定立场后，将 AI 设定为“持有相反观点的辩论对手”。AI 根据学生提交的立论，以极其尖锐的逻辑质问反驳其论据的充分性并抛出反例；学生必须在限定时间内检索权威数据进行抗辩反驳，并重塑自己的论证链条。
 > - **评估成效** [[Pre-test and Post-test\|后测]]数据证实，经历人机对抗辩论的学生在“论点构建的逻辑严密性”与“反思性证据评估”两项批判性思维指标上，均显著高于传统生生辩论对照组，实证展现了人机对抗辩论在激发批判反思方面的显著成效。（p. 4）
@@ -334,10 +334,10 @@ status: draft
 
 ### 论证步骤三　自主调节学习能力与干预周期构成决定促学成效的核心边界调节条件
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 生成式 AI 并不是包治百病的万灵药，其促学成效很大程度上取决于使用时长与学生自身的自律调控水平：教学干预并非越长越好，而是存在一个 8–16 周的最佳黄金期（呈现明显的倒 U 型曲线）；同时，学生的[[Self-Regulated Learning\|自主调节学习]]能力（SRL）起到了决定性的分流作用（组间差异极显著，$p < 0.001$）——自律强的学生收获巨大，自律弱的学生获益寥寥。只有在清晰的教学引导与学生主动思考的配合下，AI 的促学潜能才能真正稳定发挥。（pp. 11–12, 14–16）
 
-> [!evidence-grid]- 支持步骤三主张的证据
+> [!evidence-grid] 支持步骤三主张的证据
 > - **干预时长的倒 U 型时间曲线** 组间检验达到统计学显著（$Q_b = 9.106, df = 2, p = 0.011$）：0–8 周短期干预效应量中等（$g = 0.494$）；8–16 周中期干预跃升至峰值（$g = 0.759$）；而超过 16 周的长期干预效应量骤降至 $g = 0.372$。
 > - **自主调节学习能力的决定性门槛** 组间检验极其显著（$Q_b = 40.962, df = 1, p < 0.001$）：具备高 SRL 能力的学生获得 $g = 0.863$ 的巨大增益，而低 SRL 学生仅获 $g = 0.284$ 的微弱提升。
 > - **学段呈现边缘显著级差** 组间差异虽未达严格显著（$Q_b = 3.353, p = 0.067$），但 K-12 阶段效应量（$g = 0.857$）大幅高于高校阶段（$g = 0.539$），折射出外部监管力度的重要性。
@@ -358,7 +358,7 @@ status: draft
 >   - **干预时长的倒 U 型曲线** 中期 8–16 周（$g = 0.759$）的效应量显著超越短期 0–8 周（$g = 0.494$）与长期 $>16$ 周（$g = 0.372$）；长期干预效应量几乎腰斩，直接证实了技术新奇感衰退及长期缺乏教学设计时容易滋生“认知依赖”与心智惰性。
 > - **关注不显著变量内部的组内显著性检验（$Z$ 值与 $p$ 值）** 在教学模式中，虽然组间异质性 $Q_b$ 未达显著，但**讲授式教学的组内检验未达统计显著（$Z = 1.605, p > 0.05$）**，其 95% 置信区间包含负值与零点（$[-0.088, 0.879]$）；而项目式学习（$g = 0.717, p < 0.001$）与[[Blended Learning\|混合式学习]]（$g = 0.525, p < 0.001$）均高度显著。这表明脱离了真实探究情境的传统讲授式课堂，无法稳定发挥生成式 AI 的促学潜力。（pp. 11–12）
 
-> [!example]- 图4：元分析核心发现与[[Interaction Effect\|调节效应]]模型
+> [!example] 图4：元分析核心发现与[[Interaction Effect\|调节效应]]模型
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig4_Model_of_Findings.jpg)
 > 
 > *模型全面整合了生成式 AI 作用于高阶思维的核心机制路径：三大认知维度在效应量上呈现阶梯式递减；干预时长通过倒 U 型心理适应机制发挥作用；自主调节学习能力则作为关键中和器主导了效应量的高低分流。（p. 17）*
@@ -386,12 +386,12 @@ status: draft
 > 2. **[[Learner Autonomy\|自主学习]]能力是防止思维退化的关键防线** 学生的自我调节学习能力构成了区分最终成效的最关键因素（组间方差 $Q_b = 40.962$）。自律性高的学生能把 AI 当作平等探讨的伙伴和启发思维的“磨刀石”，持续提出深度问题；相反，缺乏自律和反思习惯的学生，很容易沉迷于 AI 给出的现成答案，放弃自己的思考，导致思维训练形同虚设。（pp. 15–16）
 > 3. **教学引导与真实任务是发挥 AI 价值的必要保障** 中小学阶段效果更好（$g = 0.857$），正是因为有老师在课堂上的明确指导、步骤规范和即时监督；而大学生的自主学习环境相对宽松，一旦缺乏指导，就容易滑向直接用 AI 代写、翻译或抄代码的投机行为（Li et al., 2024c; Sun et al., 2024）。这与[[Project-Based Learning\|项目式学习]]（PBL, $g = 0.717$）取得的显著效果一致——只有将 AI 放在真实、复杂且有挑战性的实际任务中，它才能从单纯的“答案生成器”真正转变为“思维加速器”。（pp. 14–15）
 
-> [!case]- 代表性实证案例：编程教育中的“捷径式学习”与认知外包反思（Sun et al., 2024）
+> [!case] 代表性实证案例：编程教育中的“捷径式学习”与认知外包反思（Sun et al., 2024）
 > - **实证观察情境** Sun et al. (2024) 在高校计算机专业《程序设计基础》课程中系统追踪了大学生使用生成式 AI（ChatGPT）的编码行为与认知轨迹。
 > - **认知外包与退化表现** 研究发现，缺乏高自主调节能力的学生在遭遇编程难题时，行为模式高度趋同于“捷径式学习”（Shortcut Learning）：直接复制题目 Prompt 索取完整代码，跳过算法流程设计、变量声明思考与关键语句排错过程；更严重的是，当 ChatGPT 产生含有隐蔽逻辑漏洞的错误代码时，这类学生毫无查错能力，盲目粘贴提交。
 > - **长远后果** 最终测试表明，过度依赖 AI 走捷径的学生在独立编程测验与代码架构解释任务中表现极其糟糕，核心概念理解发生实质性滑坡。这一经典案例为本元分析中“低 SRL 组促学效应仅为 $0.284$”以及“长期干预易诱发认知外包”提供了鲜活的质性微观注脚。（pp. 5, 14–15）
 
-> [!case]- 代表性实证案例：工程[[Project-Based Learning\|项目式学习]]（PBL）中的真实任务驱动（Khan et al., 2023; Shahzad et al., 2024）
+> [!case] 代表性实证案例：工程[[Project-Based Learning\|项目式学习]]（PBL）中的真实任务驱动（Khan et al., 2023; Shahzad et al., 2024）
 > - **教学情境与项目设计** Khan et al. (2023) 在[[Engineering Education|工程教育]]课程中引入以真实产业挑战为驱动的[[Project-Based Learning\|项目式学习]]（PBL），任务设定为“基于最低风速环境下的风力发电系统优化与涡轮叶片多类故障智能诊断”。
 > - **人机协同交互形态** 学生组成跨学科团队，将 Gen-AI 作为“认知合作者（Cognitive Partner）”融入项目生命周期：AI 不仅协助梳理物理流体力学边界条件、提供多种仿真代码思路，还帮助团队比对不同工程方案的可行性与成本风险，支撑团队进行多次原型迭代。
 > - **成效证实** 实证数据显示，结合了真实 PBL 的人机协同不仅大幅提升了工程方案问题解决效率，而且通过团队集体效能感显著激发了学生的创造性设计思维。Shahzad et al. (2024) 亦在高等教育实证中验证了该模式对创意与表现的联合促进，印证了本元分析中 PBL 亚组高达 $g = 0.717$ 的优异成效。（pp. 5–6, 15）
@@ -415,17 +415,17 @@ status: draft
 
 ## 关键引用
 
-> [!citation-card]- 生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的总体影响
+> [!citation-card] 生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的总体影响
 > 本[[Meta-analysis\|元分析]]显示，生成式 AI 对学生高阶思维具有中等程度的正向影响，其中对[[Problem Solving\|问题解决能力]]和[[Critical Thinking\|批判性思维]]的促进作用达到中等显著，但对[[Creativity\|创造力]]的影响相对有限。这一促学效果受到干预时长与学生[[Self-Regulated Learning\|自我调节学习]]能力的显著调节。（p. 16）
 >
 > *The present meta-analysis reveals that Gen-AI exerts a moderate positive influence on the development of students’ HOT, with a moderately significant positive impact on problem-solving ability and critical thinking, yet a relatively more minor effect on creativity. However, its effectiveness is significantly moderated by factors such as intervention duration and students’ self-regulated learning abilities.*
 
-> [!citation-card]- 自我调节学习能力的边界功能与中和机制
+> [!citation-card] 自我调节学习能力的边界功能与中和机制
 > 自我调节学习能力较高的学生能够主动规划学习路径，而非被动依赖或直接复制 AI 生成的结果。这类学生倾向于批判性反思生成内容，并试图将其与自身已有知识结构相融合，而不是不加甄别地盲从。相比之下，自我调节能力较低的学生往往难以评估生成内容的准确性与相关性，更容易不加批判地接受错误或误导性信息。（p. 16）
 >
 > *The results indicate that students with higher levels of SRL are capable of proactively planning their learning trajectories rather than passively relying on or directly replicating Gen-AI–generated outputs. Such students tend to critically reflect on the generated content, seeking to integrate it with their existing knowledge structures rather than adopting it uncritically... In contrast, students with lower levels of SRL often struggle to assess the accuracy and relevance of AI-generated content, making them more susceptible to uncritically accepting information.*
 
-> [!citation-card]- 教学设计决定认知走向与倒 U 型周期
+> [!citation-card] 教学设计决定认知走向与倒 U 型周期
 > 适度的干预时长能够使学生建立熟练使用工具的技能，同时有效规避过度使用带来的负面后果。为了降低长期整合 AI 的潜在风险，教师应采取分阶段[[Scaffolding\|脚手架]]策略，逐步消退 AI 支持以培养学生独立解决问题的能力；同时实施引导式人机互动，利用精心设计的提示语引导 AI 提供概念框架与推理过程而非直接答案，从而激发学生持续的主动探究与深层认知投入。（pp. 14–15）
 >
 > *An intermediate duration strikes a balance, allowing students adequate time to build proficiency in using Gen-AI while avoiding the negative consequences of extended use. To mitigate the risks associated with long-term AI integration, phased scaffolding should be adopted, whereby AI support is systematically faded... Second, guided Gen-AI interaction should be implemented, using carefully designed prompts to steer AI toward providing conceptual frameworks or reasoning processes rather than direct answers.*

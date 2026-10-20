@@ -94,7 +94,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 文化是使一群人区别于另一群人的“心智软件（software of the mind）”，其核心由相对稳定、代际沉淀的价值观构成。该理论主张通过权力距离、个人主义/集体主义、不确定性规避、男性化/女性化、长期/短期导向与放纵/约束六个维度比较国家文化的结构性坐标。在教育[[Champ\|场域]]中，国家文化并不直接决定具体教学质量的成败，而是深刻规训了师生的权力不对称性、互动模式与不确定性容忍度：高权力距离文化强化了对教师权威的遵从与提问抑制，使得去中心化、低威胁的智能中介工具能够激发显著的“权力壁垒破除效应”；而将宏观文化维度机械套用于个体或遮蔽内部阶层分化，则会引发严重的[[Ecological Fallacy\|生态谬误]]与文化本质化偏误。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 36–37, 40)]]; [[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 45–46)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13, 18)]]
 
-> [!citation-card]- 关键表述：心智软件与文化维度的教育投射
+> [!citation-card] 关键表述：心智软件与文化维度的教育投射
 > 文化是心理程序的结晶，它就像心智中的软件……在教育环境中，来自不同文化背景的教师与学生相遇时，关于权力分配、个体成就与人际交往的深层文化预设必然发生碰撞。如果不理解这些深层价值维度，跨文化教学极易退化为相互的不满与误解。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 36)]]
 >
 > *Culture is the collective programming of the mind that distinguishes the members of one group or category of people from others... in teacher-student interactions, differences in power distance and uncertainty avoidance fundamentally structure classroom expectations and communicative competence.*
@@ -155,7 +155,7 @@ updated: 2026-10-20
 > - **前提二** 宏观国家文化维度往往以受教育中产阶级为默认常模，抽象掉了民族国家内部由于家庭资本、阶层地位与亚文化差异造成的结构性[[Heterogeneity\|异质性]]。
 > - **推导** 因此，教学法的有效性无法直接从宏观国家文化维度中先验推导；有效教学存在超越文化维度的普适基础质量，而微观层面的学生社会阶层背景比宏观国家文化更具决定性解释力。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 40)]]
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题二）技术中介解构权力壁垒推论** 在高等教育数字化与智能化转型中，生成式 AI 等新型技术中介通过提供即时、全天候、匿名且无评价负荷的交互界面，有效旁路了高权力距离文化中森严的人际等级屏障，形成显著的“权力壁垒破除效应”，带来更高的边际学业增益。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **推论二（源自核心命题一、三）大文化解释的阶层遮蔽推论** 将国家文化维度机械外推为教育政策时，极易陷入“受教育中产阶级偏见”；过度推崇开放弱控制教学，实质上是将优势阶层的[[Cultural Capital\|文化资本]]误认为全民族共有特质，反而会加剧弱势社会背景学生的学业不利。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 40)]]
 > - **推论三（源自核心命题一）文化地图绘制与学习者本质化推论** 若将宏观文化维度直接等同于个体认知与行为倾向，会导致“文化地图绘制”偏误，将非[[Western Learner\|西方学习者]]（如[[Chinese Learner\|中国学习者]]）本质化为被动顺从、缺乏[[Critical Thinking\|批判性思维]]的缺陷群体，引发自我实现的[[Stereotype Threat\|刻板印象威胁]]。[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 45–46)]]
@@ -291,7 +291,7 @@ updated: 2026-10-20
 > > - **[[Argument_Laursen_2015_Paideia\|Laursen (2015, p. 37)]]** 指出批评者普遍认为 Hofstede 将文化描绘得过于封闭、不可变且由国家决定，未充分反映全球化世界中文化的开放与流动。
 > > - **[[Argument_Ryan_2010_ChineseLearner\|Ryan (2010, pp. 54–56)]]** 指出中国自 2001 年以来的基础教育课程改革与社会剧变已经彻底移动了“文化地板”，继续用静态的传统文化标签来解释当今学生完全背离现实。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 系统解构西方教育学界援引 Hofstede 维度制造关于 [[Chinese Learner\|中国学习者]] 的刻板印象与“文化地图绘制”，揭露第五维度“儒家工作动力”被纳入后反而强化了东方心灵与西方心灵的二元对立，阐明刻板印象对师生造成的实际心理与教育伤害。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 检验表明国家文化画像忽视了国内阶层分化，所谓丹麦国家文化实质是受教育中产阶级文化，不能推翻[[Effective Teaching\|有效教学]]的跨文化基础内核，证明微观阶层背景比宏观国家文化更具解释力。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] — 揭示 Hofstede 抽样单一（仅依赖 IBM 员工）的代表性缺陷，从方法学上警告跨文化比较研究中普遍存在的[[Ecological Fallacy\|生态谬误]]与数据过度外推风险。

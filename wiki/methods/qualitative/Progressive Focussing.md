@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者管理质性数据过载问题（data overload），避免过早聚焦于非核心议题，确保分析的焦点是由数据本身驱动而非先验预设。
 > - **边界** 不等于随机或无序的数据收集——逐步聚焦是有意识的策略性收窄。也不等于[[Grounded Theory\|扎根理论]]的[[Theoretical Sampling\|理论抽样]]——虽然两者都强调从数据出发，但逐步聚焦更侧重于从广到窄的聚焦过程，而非理论生成导向的抽样决策。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 逐步聚焦从研究者以广角镜头收集数据开始，然后通过筛选、归类、审视和反思，情境中最显著的突出特征浮现出来。这些特征随后被用作后续聚焦的议程。整个过程如同从宽泛走向狭窄的漏斗过滤。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
 >
 > *Progressive focussing starts with the researcher taking a wide angle lens to gather data, and then, by sifting, sorting, reviewing and reflecting on them, the salient features of the situation emerge. These are then used as the agenda for subsequent focusing. The process is like funnelling from the wide to the narrow.*

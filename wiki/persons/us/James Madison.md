@@ -55,7 +55,7 @@ updated: 2026-10-16
 > - **核心角色** 主导起草《美国宪法》框架与《权利法案》，与[[Alexander Hamilton|亚历山大·汉密尔顿]]（Alexander Hamilton）、约翰·杰伊（John Jay）合著《联邦党人文集》（*The Federalist Papers*），系统奠定了分权制衡、扩展共和国理论与代议制民主的现代宪政基石；在公职伦理维度上，确立了防止公职人员借权自肥的制度警惕。
 > - **代表贡献** 起草弗吉尼亚方案与美国宪法核心条款；论述派系治理与复合共和制机制；在《[[Technological Republic|技术共和国]]》中被作为反思美国公职补偿历史起源与防腐戒条的关键思想坐标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 自共和国建国以来，我们一直坚守这样一种希望：有抱负且才华横溢的人会出于个人致富以外的崇高原因竞选公职以报效国家。1787 年在一场关于国会薪酬的辩论中，后来成为美国第四任总统的詹姆斯·麦迪逊对允许国会议员掌控自身薪酬持怀疑态度。他主张，国会议员“为了自肥而将手伸进公款是不体面的”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 >
 > *Since the founding of the republic, we have sought to hold on to the hope that well-meaning and talented people would run for office to serve their country for reasons other than their personal enrichment. In 1787, at a debate regarding congressional salaries, James Madison, who would become the fourth president of the United States, was skeptical of allowing members of Congress to have control over their own compensation. He argued that it would “be indecent to put their hands into the public purse for the sake of their own pockets.”*
@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心思想
+> [!claim|lead] 核心思想
 > 人类并非天使，因而政府必须兼具统治人民的能力与自我约束机制；对公共权力的防腐戒条必须与制度激励相审慎平衡，既要防止统治者以权自肥，又要警惕过度压低公职待遇导致权力退化为特定特权阶层的禁脔。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 
 > [!citation-card] 野心制衡野心与人性现实主义

@@ -95,7 +95,7 @@ citation_aliases:
 > - 起点：工作组成员 Wayne Johnson 此前对[[University-Industry Collaboration\|产学合作]]形式的初步分类（Figure 1）提供了项目的出发点(p.4)
 > - 报告作者为 UIDP 项目工作组成员，代表产学双方的实践者视角
 
-> [!example]- 图1：Wayne Johnson 的产学合作形式初步分类
+> [!example] 图1：Wayne Johnson 的产学合作形式初步分类
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig1_Initial_Partnership_Representation.jpg)
 
 ---
@@ -133,7 +133,7 @@ citation_aliases:
 
 当合作双方在五个领域都建立了深度关系时，就形成了报告中所谓的多面关系（Multi-Faceted Relationships）——这是[[University-Industry Collaboration|产学合作]]的最高形态，意味着双方的合作已经超越了任何单一维度的交易，成为一种制度化的、全方位的战略联盟(p.5)。
 
-> [!example]- 图2：大学与产业的多面关系
+> [!example] 图2：大学与产业的多面关系
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig2_Multi_Faceted_Relationships.jpg)
 
 ---
@@ -146,7 +146,7 @@ citation_aliases:
 | **Level 2: 协作（Collaboration）** | 双方愿意分享想法 | 双方预期通过信息共享各自受益。关系中等深度、需要一定信任 |
 | **Level 3: 联盟（Alliance）** | 共享愿景、长期承诺 | 双方作为平等伙伴追求共同目标，需要实质性投入甚至牺牲。关系深度绑定 |
 
-> [!example]- 图3：参与层级（Levels of Engagement）
+> [!example] 图3：参与层级（Levels of Engagement）
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig3_Levels_of_Engagement.jpg)
 
 > [!warning]
@@ -306,7 +306,7 @@ citation_aliases:
 
 #### 跨越五个领域的终极形态：多面关系
 
-> [!note]-
+> [!note]
 > 当大学与企业的合作跨越了上述全部五个领域——而非仅集中在其中一两个——并且每个领域的互动都达到了相当的深度（通常为 Level 2 或 Level 3），合作关系就达到了报告所描述的终极形态：多面关系（Multi-Faceted Relationships）。
 
 多面关系的独特之处不在于合作规模——单个领域的 Level 3 合作（如一座冠名研究大楼）在金额上可能远超五个领域的组合——而在于**风险分散和相互增强**。当合作关系仅依赖于单一领域（例如唯一的赞助研究协议），一旦该领域出现波动（项目结束、研究人员离职、预算削减），整个合作关系就面临断裂。而当合作关系分布在五个领域时，一个领域的暂时困难可以由其他领域的关系维系——学生招聘仍在继续、设备共享仍在运作、咨询委员会仍在开会——合作关系的"韧性"远高于任何单一维度的合作。

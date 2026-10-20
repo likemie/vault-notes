@@ -168,7 +168,7 @@ updated: 2026-10-20
 > > - **后现代解构派（Appiah, 2016）** 认为西方文明本身就是后验发明的神话，应彻底解构文明冲突话语。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 89–90)]]
 > > - **技术战略现实主义派（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 认为虽然反对其简单化划分，但绝不能因噎废食放弃对文化与国家制度力量的严肃求真探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - Said (2001) — 指责文明冲突论掩盖了[[Geopolitics|地缘政治]]中的霸权利益，将复杂的政治经济矛盾转嫁为虚构的文化敌对。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 批判学术界对亨廷顿的全盘反叛导致高校研究丧失了对文化在生产力与国家能力中关键作用的严肃认知。
 

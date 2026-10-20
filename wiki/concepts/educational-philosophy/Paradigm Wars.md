@@ -98,7 +98,7 @@ updated: 2026-10-20
 >
 > *Qualitative or quantitative is merely one way of categorising methods... and not a very useful one at that.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于单纯的数据收集技术争端 范式战争的核心在于背后的哲学世界观对立（客观实在与[[Determinism\|决定论]] vs 主体间性与[[Voluntarism\|唯意志论]]），而非简单的“收集数字还是收集文字”。
 > - 不等于范式和平的永恒确立 混合方法研究虽然宣告了战争的局部终结，但在政策治理领域（如[[Evidence-Based Policy-Making|循证决策]]狂热推崇 [[Randomised Controlled Trials\|RCT]] 黄金标准），新实证主义对质性方法的边陲化倾向依然潜伏，潜在的范式张力从未彻底消弭。
 

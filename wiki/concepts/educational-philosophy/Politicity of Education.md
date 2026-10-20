@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **用途** 瓦解技术官僚与新自由主义经济学家用“科学客观”包装教育政策的去政治化[[Discourse|话语]]。
 > - **边界** 政治性不等于狭隘的政党政治宣传（Partisanship）或党派灌输，而是要求研究者与教育者对自身理论预设、价值取向与服务阶层保持清醒的认识论反思。
 
-> [!citation-card]- 弗莱雷论教育固有的政治性
+> [!citation-card] 弗莱雷论教育固有的政治性
 > 尽管倡导“技术官僚”或“技术主义”取向的教育研究、课程与政策制定者坚信教育可以脱离政治，但教育既非政治中立，亦非技术“客观”。正如保罗·弗莱雷在其著作中所一贯主张的那样，教育具有固有的“政治性”，这种政治性具有认识论、分析与伦理层面的深远意涵。这种政治性首先关乎教育与权力之间明晰而微妙的纽带；同时，它也关乎国家与公共教育作为争鸣场域的政治本质，即在这个场域中展开商品与服务的交换，以及各政治经济路线之间的激烈竞争。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 >
 > *Despite what those advocating "technocratic" or "technicist" views of educational research, curriculum, and educational policy would like to believe education is neither politically neutral nor technically "objective." As Paulo Freire has consistently claimed in his work, there is an inherent "politicity" of education that has epistemological, analytical, and ethical implications. This politicity relates foremost to the explicit but also the subtle linkages between education and power. At the same time, it is related to the political nature of the state and public education as contested arenas and sites for exchanges of goods and services and competition involving political-economic projects.*

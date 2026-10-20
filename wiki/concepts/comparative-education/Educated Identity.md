@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **道德支点** 作为比较教育摆脱“制度性繁繁荣但理论性空洞”危机的道德底线，拷问绩效数据和效率排名背后被遮蔽的生命个体。
 > - **适用边界** 侧重于宏观与中观教育系统对理想人格的整体与系统性建构，而非微观的局部学科教学目标。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 什么是受教育身份？这能否给予我们足够的道德清晰性和确定性，来见证我们以教育之名对世界上的孩子们做了什么？([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 >
 > *"...what is an 'educated identity' – does that give us enough moral clarity and certitude to bear witness about what we do to the children of the world in the name of 'education'?"*

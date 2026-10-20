@@ -99,7 +99,7 @@ updated: 2026-10-16
 
 ## 概念地图
 
-> [!knowledge-map]- 第19章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第19章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_19_Concept_Map.jpg)
 
 ## 章节内容
@@ -575,32 +575,32 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- Gilbert & Troitzsch 论模拟的三大目的
+> [!citation-card] Gilbert & Troitzsch 论模拟的三大目的
 > [[Computer Simulation\|计算机模拟]]的主要目的是发现、证明和实验。超越简单的预测，计算机模拟使研究者能够理解和解释过程如何随时间展开及其结果。这颠覆了预测作为理论检验标准的价值；相反，它主张理论的检验标准应是其解释力和诠释力，而非预测价值。（Gilbert & Troitzsch, 2005, p. 6; p. 147）
 >
 > *The prime purposes of computer simulations are for discovery, proof and experiment. Beyond simply prediction, computer simulations enable an understanding and explanation to be gained of how processes operate and unfold over time, and the results of these. This explodes the VALUE of prediction as a test of a theory; rather it argues that the test of a theory should be its explanatory and hermeneutic power, rather than its predictive value.*
 
-> [!citation-card]- [[Complexity Theory\|复杂性理论]]对[[Virtual World\|虚拟世界]]的基础性支撑
+> [!citation-card] [[Complexity Theory\|复杂性理论]]对[[Virtual World\|虚拟世界]]的基础性支撑
 > 真实世界虽然高度复杂，但建立在相对简单的规则之上，这些规则产生了这种复杂性。（Waldrop, 1992; Lewin, 1993; p. 154）
 >
 > *The real world, though highly complex, is built on comparatively simple rules that give [[Research in Schools Evaluation\|RISE]] to such complexity.*
 
-> [!citation-card]- Reynolds (1987) boids 模型的核心洞见
+> [!citation-card] Reynolds (1987) boids 模型的核心洞见
 > 复杂、模式化的行为从简单规则中[[Emergence\|涌现]]，且模式不能完全以产生它们的初始条件来理解，它们不能被分解或原子化为初始条件，新整体大于部分之和。（pp. 155–157）
 >
 > *Complex, patterned behaviour emerges from simple rules, and the patterns cannot be understood entirely in terms of the initial conditions that gave rise to them — the new whole is greater than the sum of the parts.*
 
-> [!citation-card]- 虚拟世界中沟通的[[Ideal Speech Situation\|理想言说情境]]
+> [!citation-card] 虚拟世界中沟通的[[Ideal Speech Situation\|理想言说情境]]
 > 共识仅源于更好论证的力量，而非参与者的位置或政治权力。（Habermas, 1979, 1984; Morrison, 1995a, p. 102; pp. 158–159）
 >
 > *The consensus resulting from discussion derives from the force of the better argument alone, and not from the positional or political power of the participants.*
 
-> [!citation-card]- Palys 论模拟对实验室实验优势的保留
+> [!citation-card] Palys 论模拟对实验室实验优势的保留
 > 模拟与实验室实验共享实验者对情境每个方面拥有完全操纵控制的特征，同时被试的完整性得以保留，他们被给予逼真的情境，以自己认为合适的方式行动。（Palys, 1978; p. 166）
 >
 > *Simulations share with the laboratory experiment the characteristic that the experimenter has complete manipulative control over every aspect of the situation. At the same time, the subjects' humanity is left intact in that they are given a realistic situation in which to act in whatever way they think appropriate.*
 
-> [!citation-card]- 技术的独特价值与文化再生产
+> [!citation-card] 技术的独特价值与文化再生产
 > 使用技术简单复制现有实践或复制其他技术的功能，是文化再生产或一阶变革（first order change）的例子，不可能产生根本或持续的差异。（Cuban, 1986, 2003; Fullan, 2007; p. 170）
 >
 > *Using a technology to simply replicate existing practice or to copy what other technologies do is an example of cultural reproduction or 'first order change' which is unlikely to produce a fundamental or sustained difference.*

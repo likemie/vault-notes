@@ -79,14 +79,14 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > 半自主性概念源自 Gramsci（1971）对[[Hegemony\|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology\|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom\|学术自由]]才能培养有[[Creativity\|创造力]]的精英。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受[[Geopolitics|地缘政治]]影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
 
 ---
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Hegemony\|霸权理论]]（Gramsci） — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
 > - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间[[Ontology\|本体论]]基础：大学扎根于国家又超越国家
 > - [[Scale in Higher Education]] — 尺度不可化约性论证了为什么国家尺度的分析不能替代其他尺度的分析

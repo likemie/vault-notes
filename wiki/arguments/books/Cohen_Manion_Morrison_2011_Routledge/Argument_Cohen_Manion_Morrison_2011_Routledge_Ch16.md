@@ -130,7 +130,7 @@ updated: 2026-10-17
 
 ## 概念地图
 
-> [!knowledge-map]- 第16章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
 
 ## 章节内容
@@ -165,7 +165,7 @@ updated: 2026-10-17
 > [!info] 实验的基本操作
 > **有意识地控制和操纵**决定事件的条件，**引入干预**并测量干预产生的差异。实验涉及改变一个[[Independent Variable\|自变量]]（independent variable）的值，观察这一改变对另一个[[Dependent Variable\|因变量]]（dependent variable）的影响。[[Independent Variable\|自变量]]是输入变量，[[Dependent Variable\|因变量]]是结果变量（outcome variable）。例如，Kgaile and Morrison (2006) 的研究识别了七个影响[[School Effectiveness\|学校效能]]的自变量（p. 312）。
 
-> [!example]- 图16.1：自变量与因变量
+> [!example] 图16.1：自变量与因变量
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-1_Independent_and_Dependent_Variables.jpg)
 
 > [!info] 确认性与探索性实验
@@ -201,7 +201,7 @@ updated: 2026-10-17
 
 Schneider et al. (2007, p. 13) 提出：一旦接受因果效应是同一人在实验组和控制组中的结果差异，就撞上了 Holland (1986) 的**因果推断基本问题（[[Fundamental Problem of Causal Inference]]）**，一个人不可能同时处于控制组和实验组，因此无法直接观测到因果效应。
 
-> [!example]- 图16.2：真实验的图示
+> [!example] 图16.2：真实验的图示
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-2_The_True_Experiment.jpg)
 
 平均因果效应的计算公式为：
@@ -339,7 +339,7 @@ $$\text{因果效应} = (O_2 - RO_1) - (O_4 - RO_3)$$
 
 **随机化的力量演示** — Box 16.1（改编自 Pilliner, 1973）（pp. 318–319）：
 
-> [!stat-cards] Box 16.1：随机化的效应演示
+> [!stat-cards]- Box 16.1：随机化的效应演示
 > **操作** 从一副牌中选 20 张（10 红 10 黑），洗牌后分成两堆各 10 张，记录每堆中红黑牌的数量，重复多次。
 >
 > **结果**
@@ -496,7 +496,7 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 
 自变量可有不同数量的水平（如一个变量 2 水平、另一个 3 水平、第三个 4 水平），组合数为 2 × 3 × 4 = 24 组。最常见的简化变体是 **2 × 2 设计**（两个自变量各两个水平 = 四组）。
 
-> [!example]- 图16.3：实验中的交互效应
+> [!example] 图16.3：实验中的交互效应
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-3_Interaction_Effects_in_an_Experiment.jpg)
 
 > [!def] 交互效应（Interaction Effect）
@@ -528,7 +528,7 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 
 [[Repeated Measures Design|重复测量设计]]中，同一组实验参与者接受**两种或多种实验条件**的测试，同一人可能接受不止一种干预（可能包含或不包含控制条件）。这是[[Matched Pairs Design|配对设计]]的变体，具有显著的控制潜力：**完全相同的人**接受不同干预，从而消除了所有个体差异混淆（pp. 325–326）。
 
-> [!example]- 图16.4：两组均接受两种条件（重复测量）
+> [!example] 图16.4：两组均接受两种条件（重复测量）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-4_Two_Groups_Receiving_Both_Conditions.jpg)
 
 > [!warrant]- 为什么同一组人接受全部条件？
@@ -675,7 +675,7 @@ Kazdin (1982) 提出 [[ABAB Design|ABAB 设计]]作为单一案研究的基本�
 > - **A₂（撤除）** ~~·~~ ==O₇== ==O₈== ==O₉==
 > - **B₂（引入）** `X` ==O₁₀== ==O₁₁== ==O₁₂==
 
-> [!example]- 图16.5：ABAB 设计
+> [!example] 图16.5：ABAB 设计
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-5_The_ABAB_Design.jpg)
 
 > [!warrant]- 为什么撤除干预再重新引入？
@@ -707,7 +707,7 @@ Kazdin (1982) 提出 [[ABAB Design|ABAB 设计]]作为单一案研究的基本�
 
 Dietz (1977) 在特殊教育班级中使用 ABAB 设计，研究教师对一名**青少年男孩**持续的课堂干扰行为（persistent talking）的干预效果（p. 330）：
 
-> [!example]- 图16.6：ABAB 设计在教育情境中的应用
+> [!example] 图16.6：ABAB 设计在教育情境中的应用
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-6_ABAB_Design_in_Educational_Setting.jpg)
 
 > [!case] Dietz (1977) 单一案 ABAB 研究的详细过程
@@ -804,7 +804,7 @@ Dietz (1977) 在特殊教育班级中使用 ABAB 设计，研究教师对一名*
 > [!claim] 效应量优于统计显著性
 > 大样本量下统计显著性比较容易获得，因此应更重视**效应量**而非单纯的统计显著性，统计显著性是样本量的函数，效应量才反映实际意义的大小（Kline, 2004）（p. 334）。
 
-> [!stat-cards] 小效应的实践意义
+> [!stat-cards]- 小效应的实践意义
 > Torgerson and Torgerson (2003a, pp. 70–71) 指出：小样本可能无法发现小效应，导致 II 型错误。在[[Evidence-Based Education\|证据本位教育]]的语境下，小效应可能具有重要价值——如果仅对课程实施方式做出一个小改变，就能使每班多一名学生通过公共考试，全英国每年将增加 **20,000 至 30,000** 名通过者（p. 334）。
 
 ---
@@ -1130,27 +1130,27 @@ Reips (2002a, 2002b) 提供的系统实施指南（pp. 340–342）：
 
 ## 关键引用
 
-> [!citation-card]- [[Random Assignment\|随机化]]是[[Causality\|因果推断]]的关键
+> [!citation-card] [[Random Assignment\|随机化]]是[[Causality\|因果推断]]的关键
 > 随机化是真实验的关键、核心要素；[[Random Sampling\|随机抽样]]和随机分配至控制组或实验组是应对大量未控制的、因此也未测量的额外[[Variable\|变量]]的关键方式，这些变量可能是各组构成的一部分。这是试图克服内源性变量和外源性变量的混淆效应：其他条件不变（ceteris paribus）的条件。（第16章，p. 313）
 >
 > *Randomization is a key, critical element of the 'true' experiment; random sampling and random allocation to either a control or experimental group is a key way of allowing for the very many additional uncontrolled and, hence, unmeasured, variables that may be part of the make-up of the groups in question... It is an attempt to overcome the confounding effects of [[Exogenous and Endogenous Variables]]: the ceteris paribus condition.* (Morrison, 2009, pp. 143–144)
 
-> [!citation-card]- 复杂理论对 [[Randomised Controlled Trials\|RCT]] 的根本挑战
+> [!citation-card] 复杂理论对 [[Randomised Controlled Trials\|RCT]] 的根本挑战
 > 即使我们可以进行实验，其在实际中适用于持续[[Emergence\|涌现]]、交互、关系性、变化、开放的情境的可能性可能是有限的。在动态、演化、流动、开放的情境中保持变量恒定是错误的。（第16章，p. 319）
 >
 > *Even if we could conduct an experiment, its applicability to ongoing, emerging, interactive, relational, changing, open situations, in practice, may be limited. It is misconceived to hold variables constant in a dynamical, evolving, fluid, open situation.* (Morrison, 2001)
 
-> [!citation-card]- [[Design-Based Research\|设计研究]]的迭代逻辑
+> [!citation-card] [[Design-Based Research\|设计研究]]的迭代逻辑
 > 设计研究试图"工程化创新的教育环境，同时对这些创新进行[[Experimental Research\|实验研究]]"。（第16章，p. 337）
 >
 > *Design studies attempt to 'engineer innovative educational environments and simultaneously conduct experimental studies of those innovations'.* (Brown, 1992, p. 141)
 
-> [!citation-card]- 真实世界的整体性
+> [!citation-card] 真实世界的整体性
 > 真实世界的组成部分"很少可隔离"，"整体确实大于部分之和"。（第16章，p. 338）
 >
 > *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992, p. 166)
 
-> [!citation-card]- [[Fundamental Problem of Causal Inference\|因果推断的基本问题]]
+> [!citation-card] [[Fundamental Problem of Causal Inference\|因果推断的基本问题]]
 > 因果效应的基本问题在于：一个人不可能同时处于控制组和实验组。（第16章，p. 313）
 >
 > *The 'fundamental problem of causal inference'... is that a person may not be in both a control group and an experimental group simultaneously.* (Holland, 1986; 引自 Morrison, 2009, pp. 143–144)

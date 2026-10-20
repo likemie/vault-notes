@@ -113,10 +113,10 @@ updated: 2026-10-20
 >   S4 --> S5
 > ```
 
-> [!example]- 图5-1：英国国会议员履行公职时获取科学信息的主要来源分布（YouGov 专项调查，N = 108，p. 83）
+> [!example] 图5-1：英国国会议员履行公职时获取科学信息的主要来源分布（YouGov 专项调查，N = 108，p. 83）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig5-1_MPs_Scientific_Information_Sources.jpg)
 
-> [!example]- 图5-2：英国公众对科学技术政策决策、专家建言与监管机构沟通态度的分布（PAS 2025，p. 85）
+> [!example] 图5-2：英国公众对科学技术政策决策、专家建言与监管机构沟通态度的分布（PAS 2025，p. 85）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig5-2_PAS_Public_Attitudes_Science_Policy.jpg)
 
 ---
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 现代公共政策面临脱碳、国防安全、人口老龄化以及抗微生物药物耐药性（Antimicrobial Resistance, AMR）等层出不穷的系统性社会挑战，无一不需要突破性科学进展与持续日常科学研究的强力支撑。（pp. 79–80）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 英国现行将科学研究与专业建议整合至政府决策的体制历经 50 年演进，其制度逻辑始于 1971 年《[[Rothschild Report 1971\|罗斯柴尔德报告]]》确立的“市场化采购”模式；通过在政府各部委全面部署高级首席科学顾问（Chief Scientific Advisers, CSAs）网络，依托[[Government Office for Science\|政府科学办公室]]（Government Office for Science, GO-Science）统筹跨部委前瞻预见，并辅以[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, [[Sage]]）与议会科学与技术办公室（[[Parliamentary Office of Science and Technology]], POST），构建了在全球范围内备受赞誉的行政与立法科学咨询双轨生态。（pp. 79–81）
 
 #### 主题一：现代重大社会挑战对前沿与日常科学支撑的双重依赖（pp. 79–80）
@@ -209,7 +209,7 @@ updated: 2026-10-20
 
 尽管英国整合科学与政策的体系享有国际声誉，但该体系在数十年间以半自发（ad hoc）方式生长，面对日益复杂的现代治理呈现出深层结构性脆弱。（p. 82）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 立法决策者对权威、独立与经过同行评议的科学信源使用严重不足，高达 55% 的国会议员主要依赖带有潜在政治或商业偏见的智库与倡导团体，对议会专属科技机构（POST，仅 22%）及国家学术院报告（仅 12%）利用率极低；与此同时，半个世纪以来的市场化外包导致公共部门科研机构（PSREs）基础设施与专业人才队伍遭到慢性侵蚀，使国家在关键战略领域的长期自主科研支撑能力面临严重萎缩风险。（pp. 82–83）
 
 #### 主题一：国会议员科学信源的偏误结构与权威中介边缘化
@@ -258,7 +258,7 @@ updated: 2026-10-20
 
 科学建议在高效政策制定流程中必须占据不可动摇的核心地位，其本质要求是超越党派政治偏见，即便科学发现与当下的政治叙事存在尖锐冲突，也必须能够自由传达。（p. 84）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 首席科学顾问（CSAs）在制度上面临“身处政府帐篷内提供内部参谋”与“独立直言挑战政府政策”的双重角色张力；必须防范政治压力对顾问独立性的干涉与筛选式任用倾向，同时彻底纠正体制内科学家与独立顾问之间界限不清的现状，禁止将大选前静默期等行政守则滥用于压制客观科学发声。（p. 84）
 
 #### 主题一：身处“帐篷之内”的顾问与独立批判者的双重角色张力
@@ -293,7 +293,7 @@ updated: 2026-10-20
 
 政府决策在多大程度上真正基于科学证据，在现实中往往高度不透明，严重削弱了社会公众对政府[[Policy Science in Comparative Education|政策科学]]性的信任基础。（p. 86）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 政客频繁滥用“遵循科学”口号掩盖基于经济、政治与选票的多维妥协，导致公众信任遭到政治操弄的反噬；在面对事实高度不确定且社会赌注巨大的[[Post-Normal Science\|后常规科学]]（Post-Normal Science）问题时，决策者必须公开披露完整的科学[[Chain of Evidence\|证据链]]、坦诚承认[[Scientific Uncertainty\|科学不确定性]]、并详尽说明“为何未采纳特定科学证据”，彻底消除政策制定中的选择性挑选证据（cherry-picking）现象。（pp. 85–86）
 
 #### 主题一：“遵循科学”口号背后的政治动机隐蔽与公信力侵蚀
@@ -341,7 +341,7 @@ updated: 2026-10-20
 
 科学发现与前沿创新正以前所未有的速度重构人类社会，而维系公众对科学信任的核心前提，是在科技萌芽之初就展开透明、平权的双向沟通。（pp. 86–87）
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 全国性调查（PAS 2025）揭示出英国公众对专业专家建言高度尊重（75%），同时对顺应公众关切具有压倒性诉求（62%），但感知到的实际决策参与感跌至 12% 的历史冰点，高达 76% 的公众严厉批评政府未作咨询努力；为破解这一治理赤字，英国皇家学会提出三大国家改革行动蓝图：强制随政策发布法定《科学证据陈述》（建议十四）、国家学术院承担独立第三方监督审查（建议十五）、以及科学界前瞻主动推进前沿颠覆性技术的常态化公共对话（建议十六）。（pp. 85–88）
 
 #### 主题一：PAS 2025 调查揭示的治理落差：高专家尊重度 vs 极低参与感知度
@@ -406,7 +406,7 @@ updated: 2026-10-20
 
 为研制本章关于科学与政策治理的深度分析，英国皇家学会组建了横跨中央政策顾问中枢、国家法定环境监管机构、顶尖高校、前沿干细胞实验室以及第三方政府治理评估机构的高规格专家工作组：
 
-> [!info]- 第五章专家研制工作组核心成员与跨界机构构成（Chapter 5 Working Group, Annex 1, p. 111）
+> [!info] 第五章专家研制工作组核心成员与跨界机构构成（Chapter 5 Working Group, Annex 1, p. 111）
 > - **工作组主席**
 >   - 伊恩·博伊德爵士（Sir Ian Boyd FRS）：英国皇家学会会士、前英国环境、食品与农村事务部（Defra）首席科学顾问（2012–2019）、圣安德鲁斯大学生物学教授、皇家生物学会主席。
 > - **委员会成员**
@@ -440,22 +440,22 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 科学顾问处于体制内外的双重制度张力
+> [!citation-card] 科学顾问处于体制内外的双重制度张力
 > 科学建议在高效政策制定流程中必须占据核心地位。它必须完全超越政治偏见，即使科学发现可能带来政治上的不便、或者完全不符合当下的政治叙事，也必须能够在政府内部自由共享。首席科学顾问常常身处于一种双重境地：他们既必须身处政府的帐篷之内，又必须能够对政府如何使用科学信息发起有力挑战。（p. 84）
 >
 > *Scientific advice should play a critical and central role in an effective policymaking process. It should be independent of political bias, with scientific findings shared freely within government, even where it may be politically inconvenient or may not fit the political narrative of the day. CSAs are often in the position of having to be both within the tent of government and able to challenge how well government uses scientific information.*
 
-> [!citation-card]- 滥用“遵循科学”口号对公众信任的制度性伤害
+> [!citation-card] 滥用“遵循科学”口号对公众信任的制度性伤害
 > 部长们根据科学证据之外的极其广泛的社会、政治与经济因素做出决策，这是完全可以理解的。然而，历史证据充分表明，当政客们在公开场合宣称自己只是在“遵循科学”时，其真实决策往往是由其他因素驱动的，这从根本上侵蚀了公众对科学的信任。因此，科学证据究竟如何在决策中被审慎考量并与各种其他因素协同使用，必须向公众做出极其清晰透明的解释。（p. 86）
 >
 > *It is understandable that ministers will take decisions based on a wide variety of factors beyond just the scientific evidence, including social, political and economic factors. Nevertheless, evidence has shown that, when politicians claim to ‘follow the science’, decisions may be based on other factors, undermining public trust in science. Therefore, how scientific evidence has been considered and used in a decision, alongside other factors, should be clearly communicated to the public.*
 
-> [!citation-card]- [[Post-Normal Science\|后常规科学问题]]中必须诚实披露未采纳证据
+> [!citation-card] [[Post-Normal Science\|后常规科学问题]]中必须诚实披露未采纳证据
 > 需要付出更大努力将公共政策与科学证据及其固有的不确定性明确关联，从而降低“后常规问题”（当赌注极高、[[Scientific Uncertainty\|科学不确定性]]极高且对科学信息需求极度迫切时）变得愈发棘手难解的风险。例如，至关重要的是，不仅要对科学不确定性保持诚实，还必须在相关科学信息未被采纳时给出明确解释，以此坚决防止为了迎合既定政策而挑选证据的行为。（p. 86）
 >
 > *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘POST-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
 
-> [!citation-card]- 建议十四：法定发布平实英文版《科学证据陈述》
+> [!citation-card] 建议十四：法定发布平实英文版《科学证据陈述》
 > 英国政府应当确立雄心，成为公共决策中科学证据系统化应用与公众透明度的全球引领者。为支撑这一透明度，英国政府应当在各项政策出台时同步发布一份《科学证据陈述》，在法律草案、白皮书、政策战略框架和公共咨询文件中，明确详述来自科研领域的科学证据究竟是如何被具体应用的。（p. 87）
 >
 > *The UK government should set the ambition to be the global leader in public transparency and systematic use of scientific evidence in policymaking. To support transparency, the UK government should publish a ‘scientific evidence statement’ alongside policies, which sets out explicitly how scientific evidence from research has been used in draft legislation, papers, policy strategy and consultations.*

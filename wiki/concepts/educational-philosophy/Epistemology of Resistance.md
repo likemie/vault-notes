@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - 抵抗认识论的早期形态可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 的[[Critical Pedagogy\|批判教育学]]
 > - 在拉丁美洲去殖民思想（Mignolo、Dussel、Quijano）中，"[[Epistemology\|认识论]]抵抗"被理论化为去殖民认识论的核心策略，但主要停留在理论论证层面
 > - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论[[Discourse|话语]]带入具体的艺术实践([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 援引 Branco, 2020]])
@@ -86,7 +86,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Creative Tension of Sense]] — 抵抗[[Epistemology\|认识论]]可视为"新在旧内部诞生"命题在[[Knowledge Production\|知识生产]]领域的呈现：新的知识形式在旧的认识论秩序内部孕育，两者之间的张力是[[Creativity\|创造力]]的源泉([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–112]])
 > - [[Ganz-Methode]] — 抵抗[[Epistemic Practices\|认识论实践]]与 Ganz-Methode 两步法对应——承载新旧知识[[Paradigm\|范式]]的张力（步骤一），通过被排斥者的知识实践发现"[[Life Power\|生命力量]]"（步骤二）。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 113–116]])
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 的"认识论不服从"和"边界思维"为抵抗认识论提供了理论框架。抵抗认识论可视为在具体社区实践中执行了 Mignolo 的"去链接"（delink）指令([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 110]])

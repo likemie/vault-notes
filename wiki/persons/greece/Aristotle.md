@@ -84,7 +84,7 @@ updated: 2026-10-15
 
 ## 核心思想与经典案例
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 亚里士多德认为万物皆有其目的或功能（Telos），人类的终极目的在于依据理性的活动以实现最高善（Eudaimonia）；教育的使命在于通过习得与[[Habituation|习惯化]]（Habituation）训练青年运用理性。然而，这一教育传统假设社会秩序与阶级边界由统治者设定，且排除了女性与奴隶形成[[Critical Thinking|批判性思维]]的可能性，形成了维系既有秩序的保守教育观（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
 
 ---

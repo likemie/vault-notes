@@ -191,7 +191,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 纳入研究报告的独立效应量或多水平效应量集群。
 > - **输出形式** 加权合并效应量点估计值、95% [[Confidence Interval|置信区间]]（95% Confidence Interval, 95% CI）、95% [[Prediction Interval|预测区间]]（95% Prediction Interval, 95% PI）、[[Forest Plot|森林图]]、[[Funnel Plot|漏斗图]]及元回归调节系数。
 
-> [!citation-card]- 关键定位与层级区分
+> [!citation-card] 关键定位与层级区分
 > 元分析综合原始研究的效应量；而[[Meta-meta-analysis|元-元分析]]则是通过加权合并综合多个元分析的结果，二者属于不同统计层级。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 11)]]
 >
 > 元分析的结果永远不应该仅仅是一个平均值；它应该是一幅展示变异分布的证据地图。 （Gene Glass; 引自 [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 119]]）

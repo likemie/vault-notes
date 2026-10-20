@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **测量目的** 为欧洲高等教育区高校提供兼具学科专业深度与国际可比性的学习成果评价标准，支撑课程设计、教学交付与专业层面质量保障。
 > - **实施方式** 嵌入日常专业课程考核，采用多级评分量规（Rubrics）对真实性表现任务、项目设计、论文与临床实习进行[[Criterion-Referenced Test\|标准参照]]评定。
 
-> [!citation-card]- 开发者愿景界定
+> [!citation-card] 开发者愿景界定
 > 开发一种跨国多维评价模型，在充分考虑各学位项目在文化与学术情境下的具体使命和特色的同时，能够对学习成果进行实际测量与比较。该模型提供一致的测试格式与题组，使评估深层知识理解与[[Higher-Order Thinking Skills\|高阶思维技能]]成为可能。[[Argument_Bouckaert_2023_OECD\|(Wagenaar, 2018, cited in Bouckaert, 2023, p. 28)]]
 >
 > *To develop a transnational multi-dimensional assessment model, which allows for actual measuring and comparing of learning, while taking into [[Accounts\|account]] the specific mission and profile of each degree programme within its cultural and academic context.*

@@ -67,7 +67,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > PISA 对各国教育政策的影响并非从 [[OECD]] 到国家的线性传递，而是在超国家组织（OECD 的软治理与[[Reference Society\|模范社会]]塑造）、国家层面（[[Policy Borrowing\|政策借用]]、自我认知落差与文化传统转译）和内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）三层机制的[[Interaction Effect\|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
-> [!citation-card]- [[Argument_Li_2025_HSSC\|Li et al. (2025)]]
+> [!citation-card] [[Argument_Li_2025_HSSC\|Li et al. (2025)]]
 > "The specific mechanism of the impact of PISA-related education policies is driven by the international political background established by the supranational OECD, the policy borrowing behavior from model societies at the nation-state level, and the effective information translation of internal actor networks."
 
 ---

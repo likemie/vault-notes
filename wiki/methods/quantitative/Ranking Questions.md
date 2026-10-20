@@ -44,7 +44,7 @@ updated: 2026-10-20
 > - **用途** 适用于研究者希望受访者在变量之间做比较并赋予相对权重的场景，如优先级排序、需求评估、价值判断。排序题能避免评分题中受访者将所有选项都打高分（或中等分）的"不敏感"问题。
 > - **边界** 排序产生的是**顺序数据**，排位相互依赖、无共同度量，不适合复杂的参数统计分析。排序对分数变化不敏感——即使实际取值发生了显著变化，排序结果可能保持不变。
 
-> [!citation-card]- 零和逻辑——排序题的核心
+> [!citation-card] 零和逻辑——排序题的核心
 > 排序题操作在零和模型上：提高一项的排位意味着另一项下降。与评定量表中各题项独立评分不同，排序中受访者必须考虑其他变量，因为他们被要求判断相对价值、权重或重要性。（Ovadia, 2004, p. 406; p. 123）
 >
 > *Ranking operates on a zero-sum model: to RAiSE the ranking of one item is to lower the ranking of another. In a rating scale, by contrast, each item is rated independently, without reference to other items or variables.*

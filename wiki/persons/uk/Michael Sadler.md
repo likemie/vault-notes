@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **地缘工具动机与情境防护张力** 萨德勒的思想体现了地缘竞争驱动[[Policy Borrowing\|政策借用]]与情境防护阻止机械移植之间的深刻张力。他坚信教育是国家生存和工业竞争的利器，因而必须向他者学习；但他同时警告，教育系统绝非一堆可随意拆装的机械零件，而是民族生活各要素相互交织的活体有机体。脱离深层社会、历史、文化及精神脉络的教育移植，必然会遭遇本土系统的免疫排异并走向失败。唯有洞悉校外沉淀的[[Intangible Spiritual Forces\|无形精神力量]]，才能把握教育制度的真正效能。([[Argument_Amos_2022_Springer\|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]])
 > 
 > 在[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）关于学科四重论述代际的考察中，萨德勒 1900 年的牛津演讲标志着学科从 19 世纪“[[Scholiocentric Approach|以校为中心]]”（scholiocentric）的行政描述性借用，根本转向以民族国家系统为整体[[Unit of Analysis\|分析单位]]的文化情境研究，奠定了第二代“历史-哲学与自由人文”代际的基石。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–143)]]

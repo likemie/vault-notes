@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **用途** 作为外在脚手架辅助概念建构、批判性阅读、论证写作、发散构想生成与[[Problem Solving\|复杂问题解决]]。
 > - **边界** 图形组织器是辅助认知加工与信息结构化的脚手架工具，不等于学习者内部已形成的心理图式（Mental Schema），亦不能替代深层概念理解与高阶反思本身。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 能够提取关键信息并在空间上进行组织的视觉工具（如各种图表、图示、导图等图形组织器），可以将学生的认知努力从低阶思维中解放出来，投入到高阶思维（包括倾向、认知过程与技能）之中。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 1)]]
 >
 > *Hence, visual tools that pick out key information and spatially organize it (e.g., charts, diagrams, maps; graphic organizers, GO) might release students' cognitive effort from their lower-order thinking to their higher-order thinking (dispositions, cognitive processes, skills)...*

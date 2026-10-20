@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 大语言模型[[Dialogue in Education\|对话]]输出、学术社交媒体争鸣、智库白皮书、预印本平台（arXiv, bioRxiv）论文。 |

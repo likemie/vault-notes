@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **核心角色** 20 世纪末至 21 世纪初教育认知心理学核心[[Paradigm\|范式]]的确立者。从人类[[Working Memory\|工作记忆]]狭窄性出发，系统构建了针对教学设计、解题教学与多媒体学习的微观干预法则；在国际教学论战中作为显性[[Direct Instruction\|直接教学]]的领军旗手，对[[Constructivist Paradigm\|建构主义]]、[[Discovery Learning\|发现学习]]与[[Inquiry-Based Learning\|探究式学习]]发起持续数十年的理论与实证批判。
 > - **代表贡献** 创立[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory, CLT）；发现并系统验证样例效应（Worked Example Effect）；提出生物初级知识与生物次级知识获取的进化心理学分野；深度介入当代澳大利亚与英国教育政策及职前教师培训标准。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > Sweller 从认知架构的人类学与心理学基础出发，论证人类面对新信息时工作记忆的极端脆弱性，强调显性直接教学是知识传授的不可规避之径。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]; [[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 9–10)]]
 >
 > *According to cognitive load theory, human working memory is severely limited when dealing with novel information, necessitating explicit direct instruction to guide schema acquisition.*
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类认知架构的基本特征在于极其狭窄的[[Working Memory\|工作记忆]]（Working Memory）容量与近乎无限的长时记忆（Long-Term Memory）知识库。在学习全新信息时，人类缺乏长时记忆中的成熟图式支持，此时让学习者自主探索或探究，会迫使工作记忆在庞大的问题空间中盲目搜索与试误，诱发沉重的外在认知负荷，导致[[Surface and Deep Learning\|深层学习]]停滞。因此，最符合人类认知规律的教学[[Paradigm\|范式]]必然是由教师进行完全显性的示范、展示解题工作样例、开展高结构指导练习的[[Direct Instruction\|直接教学]]。
 
 > [!citation-card] 工作记忆受限与显性指导的必然性
@@ -136,7 +136,7 @@ updated: 2026-10-20
 > - **政策路径** 其学术观点被英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）采纳并写入指导指南；被澳大利亚保守智库独立研究中心（CIS）包装为政策分析文本；并在澳大利亚《强劲开端》（[[Strong Beginnings Report]]）报告中被确立为[[Initial Teacher Training\|初始教师教育]]全国必修标准。
 > - **跨国／跨领域传播** 理论从澳大利亚与荷兰发源，广泛传播至欧美主流[[Evidence-Based Education\|循证教育]]界，被政策制定者作为反对[[Progressive Education\|进步主义教育]]、推行标准化显性教学的实证科学依据。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 从批判政策社会学视角剖析 Sweller 的认知负荷理论著作如何被澳大利亚保守派智库 CIS 动员，并通过《强劲开端》报告强制嵌入全国初始教师教育。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 针对 Zhang, Kirschner, Cobern, & Sweller (2022) 倡导的[[Direct Instruction\|直接教学]]绝对优越论展开全面批判，系统反驳其对[[Working Memory\|工作记忆]]瓶颈的片面阐释，证实辅以支架的[[Inquiry-Based Learning\|指导式探究]]在深层概念理解与长效保持上的实证优越性。
 
@@ -176,7 +176,7 @@ updated: 2026-10-20
 > > - **实证认知主义立场（Sweller）** 坚信脑部信息加工规律具有普适性，实证心理学量化实验应当成为指导一切教学法与教师资格准入的唯一最高法庭。
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会化学习约化为机械的心理测量数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销为法定必修，侵蚀了专业教师的审慎自主权。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 批评其 2022 年论文存在严重的文献选择性引证偏误，曲解了[[Control of Variables Strategy\|变量控制策略]]实验与元分析结论，并指出单一直接教学在长期记忆保持上的严重衰减。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的规训工具。
 

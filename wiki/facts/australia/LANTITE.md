@@ -57,7 +57,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > LANTITE 作为[[Initial Teacher Training\|初始教师教育]]项目的毕业门槛测试，强制要求所有职前教师在毕业前通过读写与算术能力统考，属于标准化的“守门机制”。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 保证所有新毕业教师具备前30%成年人水平的基本读写与算术素养。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **对象** 大学初始教师教育（ITE）在读学生。
 > - **工具** 全国统一标准化笔试（分为阅读与数学两个独立板块）、毕业证书获取硬约束。
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!stat-cards] 核心数据
+> [!stat-cards]- 核心数据
 > - **A\$3.7M** LANTITE 统考每年为 [[Australian Council for Educational Research\|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---

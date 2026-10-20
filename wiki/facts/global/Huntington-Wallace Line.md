@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 文明地图与学术争议
 
-> [!example]- 图7-1：[[Samuel P. Huntington|亨廷顿]]-华莱士线（公元1500年西方基督教文明边界）
+> [!example] 图7-1：[[Samuel P. Huntington|亨廷顿]]-华莱士线（公元1500年西方基督教文明边界）
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_7-1_The_Huntington_Wallace_Line.jpg)
 
 > [!dev-timeline] 概念提出与论战演变

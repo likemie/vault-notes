@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** 现代演化经济学微观理论体系与[[National Innovation System|国家创新系统]]跨国比较[[Paradigm|范式]]的共同奠基者。
 > - **代表贡献** 1982 年与 Winter 合著《经济变迁的演化理论》，开创以“企业惯例”（Routines）与搜寻为核心的演化模型；1993 年主编出版跨国里程碑巨著《国家[[Systems of Innovation|创新系统]]：比较分析》（*National Innovation Systems: A Comparative Analysis*）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 正如对十几个国家创新系统的主要比较研究所阐明的那样（Nelson (ed.), 1993），国家创新系统的差异在美、日、欧之间以及欧洲各国内部同样极其显著；形式增长理论与数学模型无法提供有效解释，因为最有趣的现象全部被局限在无法被令人满意地分解的‘余值’（residual）之中，并涉及深层的系统互依性（Nelson, 1973）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15, 20)]]
 >
 > *Differences in national systems are also very important between Japan, the United States and the EC and between European countries themselves, as the major comparative study between more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993)... Nor did formal growth theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved (Nelson, 1973).*
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 企业的技术创新是在[[Bounded Rationality|有限理性]]与高度不确定性约束下受组织惯例支配的演化搜寻过程；由于技术变迁包含密集的制度互依性，无法将其简化为单一数学生产函数中的平滑余值；主权国家的大学体制、反垄断与专利法、公共资助网络及产业组织结构的独特历史组合，决定了其不可替代的国家创新绩效与跨国制度多样性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15, 20)]]
 
 > [!citation-card] 纳尔逊论新古典增长模型中余值的解释贫困
@@ -118,7 +118,7 @@ updated: 2026-10-20
 > - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与[[Competitiveness|国家竞争力]]评估标准。
 > - **跨国学术网络构建** 1993 年工程汇聚了全球数十位经济学家和历史学家，成为推动比较制度分析（Comparative Institutional Analysis）的主导力量。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 频繁征引纳尔逊（Nelson, 1973, 1993）关于索洛余值局限性的批判以及对十余国国家创新系统制度[[Heterogeneity|异质性]]的比较研究，作为捍卫国家[[Unit of Analysis|分析单位]]的有力证据。
 
 ---

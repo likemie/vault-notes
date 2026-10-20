@@ -59,7 +59,7 @@ updated: 2026-10-16
 > - **用途** 帮助教育者与研究者摆脱“唯智商论”的拔尖选拔误区，解释为何高智商人群中创造力表现呈现出极大的离散度。
 > - **边界** 门槛假说不主张智力与创造力完全无关，而是界定基础认知支持的必要边界；门槛值并非绝对固定常数，会因测验领域（言语 vs 图形）与成就类型而浮动。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 认知与外认知相关因素对创造力产生统计学上相近的效应（分别为 0.12 和 0.14），其[[Confidence Interval\|置信区间]]大体重合。这极为关键，因为它强化了创造力绝不能仅仅通过认知因素来理解的核心论点；动机、情感、态度与心境同样必须得到充分承认。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
 >
 > *Cognitive and extracognitive correlates yielded statistically similar effects of .12 and .14, with largely overlapping confidence intervals. This is important because it reinforces the idea that creativity cannot be well understood by only taking cognitive factors into [[Accounts\|account]].*
@@ -143,7 +143,7 @@ updated: 2026-10-16
 
 ## 元分析实证整合
 
-> [!ma-table] 智力与[[Creativity\|创造力]]关系及门槛假说相关[[Meta-analysis\|元分析]]
+> [!ma-table]- 智力与[[Creativity\|创造力]]关系及门槛假说相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | 考察[[Construct\|构念]]与关系 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与核心结论 | 证据确定性 |

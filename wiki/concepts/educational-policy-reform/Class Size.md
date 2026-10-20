@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 班级规模可以用不同口径测量。全校生师比受非任课行政编制稀释，无法反映[[Business as Usual|常态教学]]情境；注册人数常因旷课和早退而失真；而微观[[Observation Protocol|课堂观察规程]]则推动了班级规模测量的进一步精细化。
 
-> [!exegesis] 测量口径的偏差机制与 Teach 微观记录规范
+> [!exegesis]- 测量口径的偏差机制与 Teach 微观记录规范
 > - **宏观生师比偏差** 生师比将全校教师与学生简单相除，抽离了特殊教育、补救辅导和行政兼职对普通班额的掩盖效应。
 > - **平均出勤与注册名额差距** 发展中国家存在严重的隐性辍学与季节性缺勤，注册名单往往虚高 20%–40%。
 > - **分时段分性别实测记录（Teach 规程）** 在[[Teach Classroom Observation Tool|世界银行课堂观察工具]] Teach（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019, pp. 16–17]]）中，观察员必须在每个 15 分钟片段前现场清点并分性别记录实际在席人数（`CLASS SIZE: girls ___ boys ___`），使班级规模从静态行政指标转化为直接与时间利用快照绑定的动态生态[[Variable|变量]]。
@@ -215,7 +215,7 @@ updated: 2026-10-20
 > [!claim] Glass and Smith (1978)
 > **控制质量决定曲线斜率** 格拉斯与史密斯整合 77 项研究与 725 项比较，构建了一条揭示班级规模与[[Academic Achievement|学业成就]]负相关的连续回归曲线。分析显示年级、学科与学生能力的亚组差异均未动摇这一基本形态，唯独实验控制质量构成了决定性调节变量：在实验控制充分的研究中，曲线呈现显著陡峭的上升趋势；而在控制不充分的研究中，曲线趋向平缓。缺乏严格控制的研究系统性低估了小班的真实效果，为分层呈现[[Meta-analysis|元分析]]证据提供了经典范例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
 
-> [!example]- 图 17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
+> [!example] 图 17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_17-1_Class_Size_and_Learning.jpg)
 >
 > *Regression lines for the regression of achievement onto class size for studies that were well-controlled and poorly controlled in the assignment of pupils to classes.*

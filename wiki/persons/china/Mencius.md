@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **核心角色** 为[[Confucian Learning Tradition\|儒家学习传统]]建立人性论哲学基础的节点；其著作《孟子》被宋代[[Zhu Xi\|朱熹]]列入“四书”，在当代国家课程中作为正统[[Official Knowledge\|官方知识]]被广泛选编。
 > - **代表贡献** 提出“性善论”与“[[Four Sprouts\|四端]]说”；主张“人人皆可为尧舜”，将道德修养开放给所有人；确立“自得之”的[[Self-Cultivation\|修身]]责任与“[[Take the World Upon Oneself\|以天下为己任]]”的独立[[Critical Thinking Disposition\|批判精神]]。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 孟子最重要的贡献是将孔子“学以[[Self-Cultivation\|修身]]成仁”的教导建立在人性论的基础上，为[[Confucian Learning Tradition\|儒家学习传统]]提供了一套系统的哲学论证。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 42–43)]]
 >
 > *“Mencius’s paramount contribution lies in rooting Confucius’s teaching of learning for self-cultivation into a theory of human nature, providing a systematic philosophical defense for the Confucian learning tradition.”*
@@ -101,10 +101,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 孟子在三个关键维度上深化了[[Confucius\|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation\|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts\|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi\|君子]]深造之以道，欲其自得之也”，强调个人自主努力的终极责任，并确立了“[[Take the World Upon Oneself\|以天下为己任]]”的社会[[Critical Thinking Disposition\|批判精神]][[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 42–46)]]。
 
-> [!citation-card]- 关键表述：梁惠王问利与四端之说
+> [!citation-card] 关键表述：梁惠王问利与四端之说
 > 王何必曰利？亦有仁义而已矣。（《孟子·梁惠王上》）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 45)]]
 > 恻隐之心，人皆有之；羞恶之心，人皆有之；恭敬之心，人皆有之；是非之心，人皆有之。（《孟子·告子上》）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 42)]]
 >
@@ -128,7 +128,7 @@ updated: 2026-10-20
 > - **政策与课程路径** — 《孟子》被朱熹列入“四书”，主导[[Civil Service Examination\|科举]]考试逾六百年；当代中国《语文》必修教材将其选为“中华优秀传统文化”的[[Official Knowledge\|官方知识]]典范[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **跨文化反思路径** — “[[Take the World Upon Oneself\|以天下为己任]]”的士人精神影响了后世知识分子；然而在当代多元文化研究中，少数民族与信教学生指出教材所渲染的“[[Self-Cultivation\|修身]]、齐家、治国、平天下”[[Discourse|话语]]带有强烈的男性主导（male-dominant）与政治精英压迫色彩，忽视了女性与少数族群的主体价值[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 69)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统分析孟子的性善论、四端说与自得之思想对东亚学习模型的奠基作用。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 揭示《孟子》在当代语文教材中作为[[Official Knowledge\|官方知识]]的呈现方式，以及少数民族与信教学生对其男权精英取向的批判解构。
 
@@ -154,7 +154,7 @@ updated: 2026-10-20
 > > - **孟子（战国）** — 主张“性善论”，认为道德是人类天生的“[[Four Sprouts\|四端]]”萌芽，只需[[Self-Cultivation\|修身]]自得即可实现[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 42)]]。
 > > - **[[Xunzi\|荀子]]（战国）** — 主张“性恶论”，认为人性充满趋利欲望，道德必须通过外部教化与礼法约束强行矫正。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生批判指出，教材中宣传的孟子式“修身齐家治国平天下”构成了男权精英政治[[Discourse|话语]]，漠视女性角色，且将汉族精英的政治抱负包装为普遍的国族规范。
 
 > [!warning] 未解问题与边界

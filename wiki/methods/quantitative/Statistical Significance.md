@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **用途** 为研究者在[[Null Hypothesis\|零假设]]框架下提供可否拒绝零假设的标准化判断依据，是假设检验的核心决策工具。
 > - **边界** 统计显著性不说明效应大小、实践意义或政策价值。它只是众多[[Threats to Internal Validity\|内部效度威胁]]中的一个，而非研究价值的最终裁判。
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于效应大小** 统计显著性受[[Sample Size Determination\|样本量]]驱动——大样本可使微小效应显著，小样本可使大效应不显著。详见 [[Effect Size]]。
 > - **不等于实践重要性** 显著结果可能对应微不足道的实际差异，非显著结果可能对应有实践价值的效应。
 > - **不替代[[Confidence Interval\|置信区间]]** 仅报告 p 值而不报告[[Confidence Interval\|置信区间]]或[[Standard Error\|标准误]]，无法判断估计的稳定性。

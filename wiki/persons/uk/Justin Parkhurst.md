@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 帕克赫斯特坚决反对将循证政策简化为“寻找何者有效”的[[Technical Rationality\|技术理性]]模式，主张任何公共政策决策都是经验证据与规范性价值判断的复合体；评判证据利用质量的终极标尺不在于决策产出了何种既定结果，而在于决策体系是否构建起具备透明度、代表性与可争辩性质询通道的良好治理制度。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 
 > [!citation-card] 良好治理与技术理性的对立
@@ -104,7 +104,7 @@ updated: 2026-10-20
 > - **方法路径** 推动了针对证据咨询委员会、国家智库机制与政策审议档案的制度性审查方法，发展出系统评价政策证据质量的“程序审计”指标。
 > - **教育研究应用** 其治理思想被 [[Mark Rickinson]] 等学者深度融入教育证据质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]），成为界定教育生态系统使能环境（System Influences）与学校过程性问责的关键理论根基。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 汲取帕克赫斯特的良好治理学说，论证教育[[Research Utilization\|证据使用]]理论必须超越单纯的技术效力，深入探究教育制度与专业实践规律。
 
 ---

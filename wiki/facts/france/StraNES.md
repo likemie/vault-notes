@@ -58,7 +58,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > StraNES 白皮书将“培养具备独立审辨精神、[[Creativity\|创造力]]与敏捷行动力的公民”确立为法国高等教育五大国家雄心之一，要求全系统推进教学法转型与学业评价现代化。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 
-> [!policy-design]- 政策设计与实施路径
+> [!policy-design] 政策设计与实施路径
 > - **能力导向** 明确要求各大学课程大纲强化[[Critical Thinking\|批判性思维]]、跨学科探究、团队协作与口头学术论辩技能。
 > - **评价机制改革** 提倡采用连续过程性评价（Contrôle Continu）与真实表现任务替代单一次终结性笔试。
 > - **贯通高中与大学衔接** 直接促成了 2018 年启动、2021 年正式落地的法国高中会考（Baccalauréat）历史性改革，确立 40% 平时过程评价与 20 分钟独立探究“大口试”（Grand Oral）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]

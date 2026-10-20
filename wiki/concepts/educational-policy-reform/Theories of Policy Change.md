@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **Pawson（2006）** 在 [[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Realist Perspective 中提出[[Theory of Change\|变革理论]]概念，作为[[Realist Evaluation\|实在论评估]]的核心工具——强调政策评估应打开因果机制的"黑箱"
 > - **Radaelli et al.（2013）** 分析[[EU|欧盟]]委员会和理事会如何通过传播"因果叙事"（causal narratives）在多个政策领域获得影响力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])
 > - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 将变革理论概念与 Le Galès 的政策工具框架整合，论证其是[[Performance Indicators\|绩效指标]]的四个构成维度之一（p.165–166, 170–172）
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - Pawson（2006）的[[Realist Evaluation\|实在论评估]]框架：强调"情境—机制—结果"（Context-Mechanism-Outcome）的配置，为[[Theory of Change\|变革理论]]提供了方法论基础
 > - [[Performance Indicators]] — Le Galès（2016）的政策工具理论为理解变革理论何以是政策工具的构成维度提供了框架
 
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 在意大利利古里亚和西班牙加泰罗尼亚，第二机会学校明确从"最后一搏的补救站"演变为"教育性、高标准的服务机构"。在加泰罗尼亚，这一转变由非营利组织自主发起，形成"先创建模式→再申请公共支持"的政治关系创新([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - YOUNG_ADULLLT 项目（Horizon 2020, Grant No 693167）：16 个欧盟地区，168 名终身学习政策[[Expert Interview\|专家访谈]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])
 > - 奥地利、德国、芬兰、苏格兰四地的地方专业人员发展出了系统性的本地变革理论（p.172–173）
 

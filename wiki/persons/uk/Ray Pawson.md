@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 社会与教育干预项目绝非被动的物理“注射”过程，而是一个通过向行动者提供外部资源并激发其主观能动推理（Reasoning）来生成结果的复杂互动过程；评估的核心任务在于阐明“背景-机制-结果”（Context-Mechanism-Outcome, CMO）的配置规律，而非计算脱离情境的平均[[Effect Size|效应量]]。脱离主体位置与时间尺度的评估必然陷入假象，唯有置于具体时空情境中，因果机制与变迁性质方可被准确辨识。（Pawson & Tilley, 1997; Pawson, 2006; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）
 
 > [!citation-card] 能动推理与生成性因果假说

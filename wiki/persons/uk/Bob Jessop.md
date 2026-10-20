@@ -55,7 +55,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 
 - 兰卡斯特大学社会学系教授([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 
 Jessop 对[[Knowledge-Based Economy|知识经济]]研究的核心贡献体现在三个相互关联的概念创新上：
 

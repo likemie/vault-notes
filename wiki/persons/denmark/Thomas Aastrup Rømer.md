@@ -89,7 +89,7 @@ updated: 2026-10-20
 > - **核心角色** 欧洲教化传统与批判教育哲学在当代[[Evidence-Based Education|循证教育]]论辩中的重要捍卫者，以对[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》展开的“五线哲学批判”和提出“[[Pure Evaluation|纯粹评价]]”概念闻名。
 > - **代表贡献** 提出[[Pure Evaluation|纯粹评价]]（Pure Evaluation）[[Construct|构念]]、拆解可见学习的五线教育哲学批判框架（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）、系统论证评价图式对教学论（[[Didaktik]]）与文化世界三的解构机制。
 
-> [!citation-card]- 论可见学习的评价异化本质
+> [!citation-card] 论可见学习的评价异化本质
 > 可见学习本身缺乏作为独立学习理论的学理基础，在实质上难以被视为教学理论；它真实反映的是当教育与学习完全屈从于简陋评价图式时所造成的理论异化。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 2)]]
 >
 > *Visible Learning is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.*
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 罗默的思想立足于欧陆教化与教学论传统，以[[John Dewey|杜威]]、[[Immanuel Kant|康德]]、[[Hannah Arendt|阿伦特]]、波普尔与比斯塔的批判哲学为思想资源，主张教育本质上是面向不确定未来的生长、启迪与精神交往，坚决抵制将教育降格为技术控制与绩效测量的“评价主义”异化。他断言《[[Visible Learning|可见的学习]]》在学理上表征为简陋评价图式吞噬教育后吐出的残渣，缺乏作为独立教育学或学习理论的[[Epistemology|认识论]]基石；[[Positivism|实证主义]][[Meta-analysis|元分析]]将师生与文化中介构成的三元教学三角形解构为个体孤立的主观认知调节，构建了脱离教育现实的“[[Research Cage|研究牢笼]]”。
 
 > [!citation-card] 论评价理论吞噬教育本质与“研究牢笼”
@@ -147,7 +147,7 @@ updated: 2026-10-20
 > - **政策与实践路径** 在丹麦及北欧国家掀起关于“[[John Hattie|哈蒂]]主义”与循证教育改革的全国性哲学大辩论，促使政策制定者、教师工会与一线教育者反思数据驱动教学对教师专业自主性与学生主体性的潜在侵蚀。
 > - **跨国传播与论辩** 其 2018 年发表于 *EPAT* 的论文被全球教育哲学界与批评学者广泛引用，与德国[[Ewald Terhart|特哈特]]（Terhart）、英国威廉（Wiliam）、里格利（Wrigley）及荷兰比斯塔（Biesta）的研究形成跨国批判共鸣。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对约翰·哈蒂《[[Visible Learning|可见的学习]]》理论基础提出五线系统哲学批判的奠基性文本。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 丹麦学者克沃特鲁普从支持者立场反驳罗默的反馈集权化论断，将其批评归入“解释社群”的误读。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 丹麦心理学者与罗默就哈蒂底层理论是“激进[[Constructivist Paradigm|建构主义]]”还是“技术理性/[[Behaviorism|行为主义]]”展开深度学术商榷。
@@ -182,7 +182,7 @@ updated: 2026-10-20
 > > - **罗默（2018, 2019）** 判定哈蒂底层奉行[[Radical Constructivism|激进建构主义]]，将学习视为个体自足调节，引发文化与教师权威瓦解后强行复辟教师控制的“双重瓦解”。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]
 > > - **尼尔森与克利特默勒（2021a）** 提出商榷，认为哈蒂仅借用[[Constructivist Paradigm|建构主义]]修辞，其实质底层为[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]式[[Technical Rationality|技术理性]]与[[Behaviorism|行为主义]]输入—输出控制回路。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
 >
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 运用斯坦利·菲什（Stanley Fish）的“解释社群”理论，将罗默等丹麦批评者整体定性为短期内形成先入为主误解的封闭解释社群。
 
 > [!warning] 未解问题与边界

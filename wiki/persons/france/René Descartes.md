@@ -65,7 +65,7 @@ updated: 2026-10-17
 > - **核心角色** 以彻底的怀疑为起点，以我思故我在（*Cogito, ergo sum*）为第一确定性，构建了心物二元论的[[Epistemology\|认识论]]和形而上学体系，标志着西方哲学从经院传统向现代主体性哲学的决定性转向。在数学上发明了解析几何（[[René Descartes|笛卡尔]]坐标系），直接影响了微积分的创立
 > - **代表贡献** [[Epistemology\|认识论]]的重新奠基（cogito）、心物二元论、解析几何、先天观念论在[[Socrates\|苏格拉底]]—[[Plato\|柏拉图]]传统中的顶峰式复兴
 
-> [!citation-card]- Li 对笛卡尔历史位置的定位
+> [!citation-card] Li 对笛卡尔历史位置的定位
 > 苏格拉底的[[Meno|知识即回忆]]说、柏拉图的理型论，在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28)]]
 >
 > *The Socratic-Platonic tradition of innatism resurfaces repeatedly in Western intellectual history, reaching its apex in Descartes' cogito.*

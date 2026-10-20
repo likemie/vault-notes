@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者诊断和弥合传统探究课程中“只讨论不行动”的[[Verbalism\|言语主义]]断层。
 > - **边界** 不等于盲目的社会冲动；必须建立在深层理智反思与集体道德承诺之上。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 实践范式的课程不仅关注理解，更对解放作出明确承诺。在这一范式中，行动不仅受思想指导，更是有政治承诺的变革实践。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 68)]]
 >
 > *The praxis model of curriculum makes an explicit commitment to emancipation... Action is not simply informed, it is also committed. It is praxis. (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 68]])*

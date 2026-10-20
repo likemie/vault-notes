@@ -57,7 +57,7 @@ updated: 2026-10-16
 > [!claim] 教师工会作为高信任度的非学术[[Boundary Spanner\|知识经纪人]]
 > Cooper et al.（2017）针对 ETFO 成员的大规模调查揭示，在课堂[[Formative Assessment\|形成性评估]]等核心教学领域，一线教师获取有效实践信息的最主要渠道是**同行教师（other teachers）与工会主办的专业发展网络**，而非大学发表的学术期刊；ETFO 充当了将外部[[Research Translation|研究转译]]为[[Practice-Based Evidence\|实践本位证据]]（Practice-Based Evidence, PBE）的强信任中介枢纽。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 
-> [!policy-design]- ETFO 专业支持机制
+> [!policy-design] ETFO 专业支持机制
 > - **同行研讨工作坊** 资助一线优秀教师担任培训师，围绕真实课堂评估案例开展同侪研磨。
 > - **实践资源本地化出版** 将前沿形成性评估理论重构为易于直接使用的课堂评估量规与工具指南。
 > - **构建教师心理安全空间** 工会平台脱离了行政督导问责压力，使教师敢于袒露教学困惑并开展真实的教学改进试验。

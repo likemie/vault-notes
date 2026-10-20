@@ -99,7 +99,7 @@ citation_aliases:
 
 但非正式关系无法承载资金支付、知识产权安排和交付物承诺。当合作涉及实质性资源交换时，关系需要通过**签署协议**来正式化。协议将双方的战略、法律和伦理目标转化为可执行的条款和条件。图 14.1 将成功的产学关系机制图示为三个嵌套层次：最外层是协议框架（即"Mechanics of UI Relationships"），中间层是战略-伦理-法律目标，最内层是组织价值观。这意味着协议不是纯粹的法律文件——它是组织价值观的制度化表达，价值观通过战略-伦理-法律目标的中介被翻译为具体的协议条款(p.260)。
 
-> [!example]- 图14.1：Mechanics of successful UI relationships
+> [!example] 图14.1：Mechanics of successful UI relationships
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_14-1_Mechanics_of_Successful_UI_Relationships.jpg)
 
 > [!example]
@@ -212,7 +212,7 @@ citation_aliases:
 > [!warning] [[Responsible Conduct of Research\|负责任的研究行为]]（RCR）与质量保障
 > 质量控制是产学协议中的一个隐藏摩擦点。大学通常要求学生和教师完成 RCR 培训作为研究条件，但大学的质量控制远不如企业那样系统化——大学文化重视创造性独立性，制度性控制和研究基础设施支持相对不足，而且研究的实际执行者往往是经验有限的学生。因此大学合同办公室非常谨慎，不愿在协议中"担保"研究质量(p.266)。企业需要理解：大学的 RCR 培训提供了伦理和方法的底线保障，但不是 ISO 式的质量认证。
 
-> [!note]- 署名伦理
+> [!note] 署名伦理
 > 署名规范（Attribution）要求任何对研究做出实质贡献的人被列为作者，未做贡献的人不得被列入——"幽灵作者"（ghost authorship）和"赠予署名"（gift authorship）均属不当。近年来越来越多期刊采用贡献者角色分类法（Contributor Roles Taxonomy, CRediT）作为署名标准，要求所有作者精确说明各自的贡献类型。在产学合作中，这意味着企业研究人员如果对研究的智力贡献达到作者的实质门槛，应当被列入作者名单；反之，仅提供资金或行政支持的企业人员不应被列入(p.266)。
 
 > [!warning] 知识产权的伦理维度

@@ -49,7 +49,7 @@ updated: 2026-10-20
 > - **用途** 识别和规避措辞陷阱帮助研究者提高问卷的[[Reliability\|信度]]和效度，减少因措辞不当而导致的测量误差。措辞检查是[[Pilot Testing\|预测试]]的核心任务之一。
 > - **边界** 措辞无法完全消除歧义——"最无辜的问题也充满歧义"（Youngman, 1984, pp. 158–159; Morrison, 1993, pp. 71–72）。措辞只能最小化歧义，不能根除，因为语言本身的模糊性无法克服。
 
-> [!citation-card]- 理想问卷的黄金法则
+> [!citation-card] 理想问卷的黄金法则
 > 理想问卷应具备与好法律相同的属性：清晰、无歧义和工作可行，减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话。尽量保持问题简短和简单。（Davidson, 1970; p. 163）
 >
 > *An ideal questionnaire possesses the same properties as a good law, being clear, unambiguous and practicable, reducing potential errors in participants and data analysts, being motivating for participants and ensuring as far as possible that respondents are telling the truth. Keep the questions short and simple.*

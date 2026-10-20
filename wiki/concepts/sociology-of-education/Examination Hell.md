@@ -55,7 +55,7 @@ updated: 2026-09-22
 > - **文化张力** 亲缘网络的伦理要求（优待亲人）与社会公共公平要求（有教无类）之间的不可调和性。
 > - **制度张力** 政策倡导者试图引入西式民主、进步或宽松的教育几何，与本土考试地狱选拔重力场之间发生[[Shape-Shifting\|形变]]冲突。
 
-> [!citation-card]- 考试地狱的经典引用与原文
+> [!citation-card] 考试地狱的经典引用与原文
 > 东亚教育体系是考试驱动的，这对世人来说已不是秘密。任何不承认这一被谴责面向的关于中国和亚洲学习的讨论，都必然面临怀疑。（[[Argument_Li_2012_Cambridge\|Li, 2012, p. 75]]）
 > 
 > *“That East Asian education systems are examination-driven is no secret to the world. Any discussion of Chinese and Asian learning that does not acknowledge this deplored aspect is bound to face skepticism.”*

@@ -85,7 +85,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 认知发展不是零散知识的线性累积，而是认知结构（图式）经历由浅入深、不可逆转的质性飞跃过程；儿童在不同年龄阶段展现出截然不同的思维与推理方式，依次经历感觉运动、前运算、具体运算到形式运算四个不变阶段；现代脑科学证实，该心理阶梯在底层生理机制上高度平行于[[Prefrontal Cortex\|前额叶皮层]]（Prefrontal Cortex, PFC）的神经成熟与执行功能（Executive Function, EF）的阶梯性跃升。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 1–3)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 11–13)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 皮亚杰是第一位系统研究认知发展的心理学家，他提出了建构主义理论，从而开创了考察学习的新方法。他指出，儿童在他们生命的不同时期以不同的方式进行思考和推理。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 1)]]
 >
 > *Piaget was the first psychologist to systematically investigate cognitive development by proposing the theory of constructivism and thereby creating a new approach to examine learning. He stated that children think and reason differently at distinct periods in their lives.*
@@ -238,7 +238,7 @@ updated: 2026-10-20
 > > - **领域通用立场** 经典[[Jean Piaget\|皮亚杰]]框架强调认知结构是一个不可分割的全局图式系统。
 > > - **领域特定立场** 新皮亚杰学者与模块论者（如 Flavell, 1982; Case, 1992）指出，儿童在数理、语言与空间维度的发展极不均衡，存在广泛的水平差异（Horizontal Decalage）。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - **任务[[Working Memory\|工作记忆]]负荷混淆** Bryant and Trabasso（1971）指出，传统皮亚杰任务失败常由前提记忆负担过重引起，强化记忆训练后年幼儿童亦能完成逻辑运算。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 3)]]
 > - **文化与生态背景忽略** 跨文化心理学研究（Dasen & Heron, 1981; Mishra, 1997）证实生态环境对守恒能力发展节点的深刻塑造，否定了纯生物[[Determinism\|决定论]]。
 > - **学校教育导致形式运算推迟** 现代学校若过度偏向[[Rote Learning\|死记硬背]]而缺乏[[Higher-Order Thinking Skills\|高阶思维]]训练，会导致形式运算达成年龄推迟至 15 岁以后。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 20)]]

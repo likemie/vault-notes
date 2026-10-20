@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **1990s 至今** 知识密集型经济的兴起和 MNCs 的全球扩张使企业教育成为全球化研究的重要主题([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.181]])
 > - **1990s** 第一所[[Corporate University\|企业大学]]由美国通用汽车（General Motors）建立，随后被其他美国公司迅速采纳，但在欧洲遭遇更多争议([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.189]])
 > - **近年来** MNCs 开始将培训外包给外部教育提供商，催生了庞大的全球企业培训市场。咨询公司和 IT 巨头（如 Microsoft、LinkedIn Learning）成为企业教育的关键参与者([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.190–193]])
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Institutional Isomorphism]] — DiMaggio & Powell 的三种同构类型（强制型、模仿型、规范型）为企业教育的规范扩散提供了核心[[Analytic Framework\|分析框架]]。详见 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 理论框架部分([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.183–184]])
 > - 韦伯的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.182–183]])
 
@@ -101,7 +101,7 @@ updated: 2026-10-20
 > - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他[[Varieties of Capitalism|自由市场经济体]]（LMEs）([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.187–188]])
 > - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.188]])
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.181]]）
 > - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in）
 > - 企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工正式资格越高、职位越高，获得培训的可能性越大（Brandon Hall Group, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]]）

@@ -68,7 +68,7 @@ updated: 2026-10-20
 > - **用途** 帮助教育者克服传统客观测试造成的“[[Construct\|构念]]代表性不足”（Construct Underrepresentation），使评估真正反映复杂能力的实际运用。
 > - **边界** 真实性评价不等于完全放弃标准化与结构化，其[[Reliability\|信度]]保障高度依赖明确的评分量规（Rubrics）与多评分员校准。
 
-> [!citation-card]- 真实性评价与生成性思维
+> [!citation-card] 真实性评价与生成性思维
 > 认知科学与心理测量学研究指出，识别正确答案（Recognition）与主动生成解决方案（Generation）在心智机制上存在本质差异。多项选择题由于格式受限，往往将评价局限于识记与字面理解；而测量创造力与批判性思维等高阶认知能力，必须依托开放式、课程嵌入式的真实表现任务。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 >
 > *Measuring advanced-thinking skills such as creativity and critical thinking calls for the use of elaborate open-ended and curriculum-embedded tasks through which students can engage in analysis, apply knowledge and create new solutions, rather than select among pre-determined options.*

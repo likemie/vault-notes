@@ -63,7 +63,7 @@ updated: 2026-10-16
 ---
 ## 概念演变
 
-> [!note]-
+> [!note]
 
 ### 大学的组织化：从特定组织到完全组织
 
@@ -98,7 +98,7 @@ updated: 2026-10-16
 ---
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[World Society Theory]] — 组织能动者身份是世界社会理论的核心概念之一，用于解释在全球[[Cultural Models\|文化模型]]扩散过程中，各类组织（包括大学）如何获得标准化但同时又寻求独特性的组织身份（Bromley & Meyer, 2015）
 > - [[Otherhood]] — otherhood 是能动者身份在大学语境中的特殊表现形式：大学作为"他者"为其他行动者和社会目标行使代理权（Meyer & Jepperson, 2000）
 
@@ -112,7 +112,7 @@ updated: 2026-10-16
 > - [[UN Sustainable Development Goals\|SDGs]] 为大学的组织能动者身份提供了全球性"演练场"：大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——系统性地将组织议程与全球治理目标绑定，详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制|Zapp (2022)]]([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–154]])
 > - Zapp and Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、[[Intercultural Education|跨文化教育]]等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]]）
 > - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向（Zapp & Lerch, 2020，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]]）
 > - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）

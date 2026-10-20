@@ -83,7 +83,7 @@ updated: 2026-10-20
 > [!citation-card] 测量工具心理计量特质对[[Causality\|因果推断]]效度的制约（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > [[Implementation and Process Evaluation\|过程评估]]揭示了课堂内部的运行机制，但因果推断的最终效度仍高度受制于终结性测量工具的心理计量特质。测量工具的[[Construct Validity\|构念效度]]、量程灵敏度与独立性直接决定了试验结论的外部推广潜能，确立客观独立的评价标尺成为保障试验公信力的生命线。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于单一题项（Item） — 测量尺度是题项总分或合成指标所依附的度量系统。
 > - 不等于单纯的数字编码 — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
 

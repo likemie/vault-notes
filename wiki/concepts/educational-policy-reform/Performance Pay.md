@@ -109,7 +109,7 @@ updated: 2026-10-20
 >
 > *“Similarly, he is accused of advertising elements of performance-related pay of teachers and he is being criticized for the use of asTTle as the administrative tool for scaling teacher performance. His neglect of social backgrounds, inequality, racism, etc., and issues of school structure is also held against him... So we are confronted with the entire repertoire of bottom-up school reformer arguments against a technocratic, administration-driven, centralistic, and economically motivated neo-liberal strategy.”*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 经验/工龄工资（Seniority Pay）** 经验工资依据任教年限与固定职级晋升，而绩效工资强调打破统一薪级，依据短期量化指标动态浮动。
 > - **不等于 专业阶梯与胜任力认证（Professional Career Ladder）** 专业阶梯关注教师深层专业知识、带教能力与同行评议认证（如 NBPTS），而非机械绑定学生考试分数。
 > - **不适用于 复杂多维的教学育人情境** 当教学成果受家庭背景、同伴效应等多重复杂[[Variable\|变量]]制约时，绩效工资容易退化为惩罚处于薄弱学校教师的机制。

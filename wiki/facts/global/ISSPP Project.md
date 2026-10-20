@@ -44,7 +44,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > ### 项目概况
 >
 > 国际成功学校校长项目（International Successful School Principalship Project, ISSPP）由 [[Christopher Day]] 教授领导，已涵盖超过 20 个国家，被 Møller 称为"可能是迄今为止在西方国家进行的最全面的[[School Leadership\|学校领导力]]研究"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。项目持续扩展，不断纳入新国家。

@@ -61,7 +61,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践异化；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
-> [!citation-card]- 理论源流与教育转译阐述
+> [!citation-card] 理论源流与教育转译阐述
 > 规制型进路与发展型进路之间的区分至关重要，因为每种进路都会塑造出截然不同的政策结构。规制型进路旨在建立强制性的行动框架，其目标是创建一个稳定的监管环境，以便监督和纠正行动……发展型进路则致力于将政策融入持续变革的动态情境之中，政策旨在促进而非规制，旨在培育和部署支持积极变革的新颖实践。在发展型进路中，证据不再被视作唯一或最关键的要素，关注政策制定的具体情境以及人的因素变得至关重要。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 >
 > *A regulatory approach aims at establishing a framework for action that is mandated, such that the goal is to create a stable regulatory environment in which actions can be monitored and corrected... A developmental approach works to integrate policies within a dynamic context of ongoing change. Policies are therefore designed to facilitate rather than regulate... attention to the context of policymaking, including human factors is critical.*

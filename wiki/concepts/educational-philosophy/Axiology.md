@@ -64,7 +64,7 @@ updated: 2026-10-20
 >
 > *This view moves us beyond regarding research methods as simply a technical exercise and as concerned with understanding the world; this is informed by how we view our world(s), what we take understanding to be and what we see as the purposes of understanding, and what is deemed valuable.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Research Ethics\|研究伦理]]（Research Ethics） 伦理聚焦于受试者[[Informed Consent\|知情同意]]、隐私保护与伤害最小化等行为合规准则；价值论则是关于研究意义、知识价值与人类福祉承诺的元哲学基石。
 > - 不等于 方法论（Methodology） 方法论聚焦于探究的规程、逻辑与技术路径；价值论为方法论的选用确立了正当性依据与价值裁判标准。
 

@@ -68,7 +68,7 @@ updated: 2026-10-20
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **采购杠杆与基础设施现代化协同** 《基础设施投资与就业法案》（Infrastructure Investment and Jobs Act, IIJA，常称两党基础设施法案，Bipartisan Infrastructure Law, BIL）授权总计 1.2 万亿美元支出（含 5500 亿美元净新增联邦投资），在系统性更新道路、桥梁、公共交通、清洁水与电网基础设施的同时，通过纳入《建设美国、购买美国法》（[[Build America, Buy America Act]], BABA）及设立美国制造办公室（Made in America Office, MIAO）透明豁免机制，以公共采购为杠杆推动本土供应链重建。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 升级国家现代化物理与数字基础设施网络；拓展宽带普及与清洁能源并网接入；利用大规模公共采购需求重振美国本土制造业产能与供应链韧性。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **适用对象** 交通建设企业、清洁水工程商、电网与储能开发商、宽带基建商及建材设备制造商。
 > - **政策工具**
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **适用对象** 各州交通局、市政公用事业、电网运营商、施工总承包商与工程建材制造商。
 > - **政策工具** 公式拨款（Formula Grants）、竞争性资助（Discretionary Grants）、低息信贷计划（TIFIA 与 WIFIA）及 [[Build America, Buy America Act|BABA]] 豁免规程。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **资金分发与地方项目承接** 联邦通过成熟的公式拨款通道将巨额资金下拨给各州与地方政府，由地方编制基础设施翻新与扩建工程清单。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–12)]]
 > - **需求侧标准撬动供应链重塑** 借助 BABA 法案对建材与工业制成品的严格本土含量要求，促使跨国设备商（如充电桩与光纤制造企业）在美国本土投资设厂或寻找本地配套供应商。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 > - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进本土化的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 1.2 万亿美元总预算（5500 亿美元净新增直接投资）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
 > - **过程指标** [[Build America, Buy America Act|BABA]] 豁免申请与审查数量、公共工程招投标周期、本土供应链企业签约率。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 > - **结果指标** 道路桥梁修复里程、宽带高速覆盖率、清洁水管网更新率、本土建材制造业就业增长。

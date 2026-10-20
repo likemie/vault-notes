@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者洞察看似[[Value Neutrality\|价值中立]]的因果实验与[[Meta-analysis\|元分析]]效应量背后潜藏的多数派道德暴力，解释为何高效应量的改革往往加剧边缘学生的学业边缘化。
 > - **边界** 不等于数理统计中单纯用于描述随机[[Variable\|变量]]分布特性的正态分布数学法则；它专门特指将该数学模型泛化为决定教育资源分配与儿童发展合法性标准的意识形态规约。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 允许以可用性透镜来界定谁是主流、主流需要什么，极有可能忽视少数群体、被剥夺权利者以及不符合特定情境可用性标准的真实诉求。以追求效率为基准的科研质量是以牺牲为代价的，它限制了谁能在教育研究中发声，也限制了谁的声音能通过教育研究在政策与实践中得到代表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 225)]]
 >
 > *Allowing the lens of “applicability” to discern who the majority is, what a majority wants and needs, and the ways to make a functional majority drive research risks overlooking the realities and needs of minorities, the disenfranchised, and voices that do not align with the criteria of “applicability” in a given context. Therefore, it is important to acknowledge that efficiency-based quality in education research comes at a cost.* (Yurita, 2022; cited in Bangs et al., 2022, p. 225)

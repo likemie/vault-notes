@@ -277,7 +277,7 @@ issuing_organization: ""
 > | **年份范围** | 编码为 2010 前、2011–2020 与 2021 后。 |
 > | **报告类型** | 编码为文章与博士论文。 |
 
-> [!example]- 图1：数据流图（Data [[Flow]] Diagram）
+> [!example] 图1：数据流图（Data [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig1_Data_Flow_Diagram.jpg)
 
 ---
@@ -382,7 +382,7 @@ issuing_organization: ""
 > - Begg & Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
 > - Duval & Tweedie [[Trim and Fill Method\|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $d = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
 
-> [!example]- 图2：效应量[[Funnel Plot\|漏斗图]]（Funnel Plot Graph）
+> [!example] 图2：效应量[[Funnel Plot\|漏斗图]]（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig2_Funnel_Plot_Graph.jpg)
 
 > [!stat-cards]- 核心综合数据
@@ -531,17 +531,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体效应与调节[[Variable\|变量]]结论
+> [!citation-card] 总体效应与调节[[Variable\|变量]]结论
 > 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size\|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、基础研究所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
 >
 > *The study concluded that PBL has a significant and high impact on student outcomes. The mean effect size is ES = .60 [CI = 0.49; 0.71; Q(t) = 757.75]. Furthermore, the analysis revealed that the moderators influencing the variability of the effects of PBL encompass the type of student outcome, geographical location, sampling methodology employed in the primary studies, research quality, publication year, and publication type.*
 
-> [!citation-card]- 中国情境效应偏高的文化解释
+> [!citation-card] 中国情境效应偏高的文化解释
 > 中国情境中观察到的效应量显著高于其他地点。这可能归因于 PBL 自 1970 年代以来在中国高等教育机构得到实施……此外，中国在 PBL 上的长期经验以及中国学生的自导向学习、成就动机与集体主义倾向可能共同解释了这一结果。（pp. 964–965）
 >
 > *The effect sizes observed in China were significantly higher than those observed in other locations. This may be attributed to the fact that the PBL model has been implemented in higher education institutions in China since the 1970s... the role of Chinese culture in this finding should not be overlooked.*
 
-> [!citation-card]- PBL 之争与推广结论
+> [!citation-card] PBL 之争与推广结论
 > PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement\|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进[[Theoretical Knowledge\|理论性知识]]获取、增强临床与[[Critical Thinking\|批判性思维]]技能，以及形成积极的[[Student Attitude\|学生态度]]与[[Student Satisfaction\|学生满意度]]。（p. 966）
 >
 > *Evidence indicates that graduates of PBL curricula exhibit comparable or enhanced professional competencies relative to graduates from more conventional curricula... It can be concluded that PBL should be employed in higher education settings to facilitate enhanced theoretical knowledge acquisition, augmented clinical and critical thinking skills, and positive student attitudes and increased satisfaction.*

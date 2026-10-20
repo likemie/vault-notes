@@ -239,7 +239,7 @@ updated: 2026-10-20
 >
 > （p. 4; Wu & Jessop, 2018; Kuh & Ewell, 2010）
 
-> [!citation-card]- 大学首要培养目标与学生实际能力增益的制度断裂
+> [!citation-card] 大学首要培养目标与学生实际能力增益的制度断裂
 > 许多学生无法进行清晰的逻辑推理，也无法胜任对复杂、非技术性问题的分析，尽管大学教师们一致将批判性思维列为大学教育的首要目标。（p. 4）
 >
 > *Many [students] cannot reason clearly or perform competently in analysing complex, nontechnical problems, even though faculties rank critical thinking as the primary goal of a college education. (Bok, 2006, p. 8)*
@@ -325,7 +325,7 @@ updated: 2026-10-20
 >   - **[[Construct\|构念]]与题型创新** 将“促进学生批判性思维与创造性探究的教学能力”确立为核心胜任力，摒弃纯[[Multiple-Choice Questions\|客观选择题]]，采用高度真实的教学情境生成性任务（Constructed-Response Items），要求考生对学习困难诊断、教学策略调整与思维支架设计进行开放论述。
 >   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通[[Normal School\|师范教育]]与教师准入资格认证的[[Authentic Assessment\|表现性评价]]链条。（p. 18）
 
-> [!example]- 图1：促进高等教育中创造力与[[Critical Thinking Assessment\|批判性思维评价]]的政策杠杆汇总
+> [!example] 图1：促进高等教育中创造力与[[Critical Thinking Assessment\|批判性思维评价]]的政策杠杆汇总
 > ![](https://img.mylikemie.icu/sources/Bouckaert_2023_OECD/figures/Bouckaert_2023_OECD_Fig1_Policy_Levers.jpg)
 
 > [!ref-table]- 促进高等教育创造力与批判性思维评价的五大政策杠杆（Figure 1 复刻）
@@ -526,22 +526,22 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 政策与评价实践的制度脱节
+> [!citation-card] 政策与评价实践的制度脱节
 > [[OECD\|经合组织]]对 15 个学校系统的评估审查发现，国家学生评价框架通常滞后于基于能力的课程改革。课程方案或许已经是能力导向的，但评价系统却往往无法充分捕获课程的许多核心目标。（p. 7）
 >
 > *The OECD Reviews of Evaluation and Assessment in 15 school systems found that national frameworks for student assessment were typically lagging behind such competency-based curricula. The curriculum might be competency-based, but the assessment system may not adequately capture many of the key objectives of the curriculum. (Nusche, 2016, p. 11)*
 
-> [!citation-card]- 真实性生成任务对[[Higher-Order Thinking Skills\|高阶思维技能]]的必要性
+> [!citation-card] 真实性生成任务对[[Higher-Order Thinking Skills\|高阶思维技能]]的必要性
 > 测量[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]等高阶思维技能，需要采用精细的开放式且嵌入课程的表现任务（如研究项目、产品开发、学术展示等），使学生能够深入分析、应用知识并创造全新解决方案，而非仅仅在预设选项中进行勾选。（p. 24）
 >
 > *Measuring advanced-thinking skills such as creativity and critical thinking calls for the use of elaborate open-ended and curriculum-embedded tasks through which students can engage in analysis, apply knowledge and create new solutions, rather than select among pre-determined options.*
 
-> [!citation-card]- [[Formative Assessment\|形成性评价]]与低利害试错环境
+> [!citation-card] [[Formative Assessment\|形成性评价]]与低利害试错环境
 > 评价不仅应当用于认证技能的习得，而且更重要地，应当用于促进学习……形成性评价为学生提供了定性反馈以及低利害的练习机会，使他们能够在复杂的任务情境中开展反思与迭代。（p. 33）
 >
 > *Assessment should be used not only to certify skills acquisition but also, and most importantly, for learning... Formative assessment provides students with qualitative [[Feedback]] and low-stakes opportunities to practice, reflect and iterate on complex tasks.*
 
-> [!citation-card]- 评分量规对复杂能力的测量价值
+> [!citation-card] 评分量规对复杂能力的测量价值
 > 量规特别适用于评估复杂且多维度的能力，因为它们能够将重心置于理解而非[[Rote Learning\|机械记忆]]之上，并可广泛应用于多样化的表现任务中。（p. 26）
 >
 > *Rubrics are particularly adapted for the assessment of complex and multi-dimensional competences as they allow to place a greater emphasis on understanding rather than memorisation and can be applied to a wide range of performance tasks. (Oakleaf, 2008)*

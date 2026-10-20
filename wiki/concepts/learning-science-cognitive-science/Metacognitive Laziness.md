@@ -75,7 +75,7 @@ updated: 2026-10-20
 > - **用途** 解释为何学生在借助 GenAI 取得优异表面[[Academic Achievement\|学业成绩]]或语言表现的同时，其深层元认知调控与自主知识迁移能力并未同步发展的促学悖论。
 > - **边界** 不适用于具备显性反思提示与监控约束的高[[Scaffolding\|脚手架]]学习环境；亦不同于泛化的学习动力不足或行为怠惰，它特指高阶认知监控回路的被动旁路。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 元认知至关重要，提供诸如结构化自我评估和策略评价等方面的培训，能够增强学生有效使用生成式 AI 工具的准备度，并避免“元认知惰性”。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 >
 > *Metacognition is essential, and providing training in areas such as structured self-evaluation and strategy appraisal can enhance students' preparedness to engage with Gen-AI tools effectively and avoid "metacognitive laziness".*

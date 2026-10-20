@@ -168,7 +168,7 @@ issuing_organization: ""
 
 [[John Biggs|约翰·比格斯]]（John Biggs）因而把良好教学界定为：促使更多学生开展高阶认知活动。这些活动通常由学术取向较强的学生自发进行（pp. 58–59）。
 
-> [!example]- 图 1：学生取向、教学方法与投入水平
+> [!example] 图 1：学生取向、教学方法与投入水平
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig1_Student_Orientation_Teaching_Method_Engagement.jpg)
 
 > [!warrant]- 为何学习活动可以成为干预对象
@@ -242,7 +242,7 @@ issuing_organization: ""
 > [!conclusion] 目标、活动与评估如何相互配合
 > 课程目标用动词说明学生应达到何种理解，教学／学习活动要求学生开展相应活动，评估任务再判断学生完成这些活动时的表现。三者围绕同一组预期表现相互配合后，学生即使根据评估要求安排学习，所练习的也是课程真正要求的解释、比较、应用或提出新见解，因此更可能采用适合任务的深层学习方式（pp. 64–66）。
 
-> [!example]- 图 2：建构性对齐：课程目标、教学／学习活动与评估任务的对齐
+> [!example] 图 2：建构性对齐：课程目标、教学／学习活动与评估任务的对齐
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig2_Constructive_Alignment.jpg)
 
 > [!ref-table]- 图 2 框内结构复刻
@@ -288,7 +288,7 @@ issuing_organization: ""
 > [!exegesis]- SOLO 的数量阶段与质量阶段
 > SOLO 的前半段主要表现为数量扩展。在单点结构层次，学生只掌握一个相关方面；到多点结构层次，学生掌握了更多事实或程序，但仍以并列为主。进入关联结构后，学生会把各方面整合成可用于解决常见问题的整体。达到拓展抽象层次后，学生还能把已有的整体理解迁移到陌生问题或较远领域，进一步概括、提出假设并形成理论。SOLO 只是界定理解质量的框架，不能把 D 机械地等同于单点结构、把 A 等同于拓展抽象（pp. 66–67）。
 
-> [!example]- 图 3：可用于形成课程目标的动词层级
+> [!example] 图 3：可用于形成课程目标的动词层级
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig3_SOLO_Hierarchy.jpg)
 
 ---
@@ -535,12 +535,12 @@ issuing_organization: ""
 
 ### 学生活动与教学质量
 
-> [!citation-card]- 教学质量的活动标准
+> [!citation-card] 教学质量的活动标准
 > 良好教学，就是让大多数学生运用那些学术取向较强的学生会自发采用的高阶认知过程。良好教学会缩小差距。（p. 58）
 >
 > *Good teaching is getting most students to use the higher cognitive level processes that the more academic students use spontaneously. Good teaching narrows the gap.*
 
-> [!citation-card]- 学生所做之事
+> [!citation-card] 学生所做之事
 > 学生实际做什么，比教师做什么更能决定学生最终学到了什么。（p. 63）
 >
 > *What the student does is actually more important in determining what is learned than what the teacher does.*
@@ -549,12 +549,12 @@ issuing_organization: ""
 
 ### 评估与动机
 
-> [!citation-card]- 评估与实际课程
+> [!citation-card] 评估与实际课程
 > 从学生的角度看，实际课程始终由评估决定。（p. 68）
 >
 > *From our students' point of view, the assessment always defines the actual curriculum.*
 
-> [!citation-card]- 动机与教学
+> [!citation-card] 动机与教学
 > 动机是良好教学的产物，而不是其先决条件。（p. 61）
 >
 > *“Motivation” is a product of good teaching, not its prerequisite.*
@@ -563,7 +563,7 @@ issuing_organization: ""
 
 ### 学习过程与学习结果
 
-> [!citation-card]- 过程与结果的重合
+> [!citation-card] 过程与结果的重合
 > 学生亲自完成教师希望他们学会的任务时，这一活动既构成学习过程，也会成为学习结果。（p. 73）
 >
 > *Grappling with the task you want students to learn is automatically a learning process that becomes a learning outcome.*

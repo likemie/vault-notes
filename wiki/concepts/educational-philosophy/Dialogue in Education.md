@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **用途** 用于打破自上而下的灌输，提供认知冲突、反思[[Scaffolding\|脚手架]]与多元视角协商的互动载体。
 > - **边界** 对话并非无目的的闲聊，也不是权威者隐藏结论的诱导式“伪提问”，而是建立在尊重、爱、[[Humility\|谦逊]]与严谨理由审查基础上的社会建构。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 当对话发生时，学习者不再是驯服的听众，而是批判性共同探究者。 （Freire, 2000, p. 81; 引自 Darwish, 2009, p. 9）
 >
 > *When dialogue takes place, learners are “no longer docile listeners” but “critical co-investigators”. (Freire, 2000, p. 81; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]])*

@@ -159,7 +159,7 @@ issuing_organization: ""
 
 ### 论证步骤一　美国半导体产业在 20 世纪 80 年代失去市场主导地位，但在 90 年代重新夺回全球过半份额
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 美国半导体产业在 20 世纪 80 年代经历了全球市场份额的剧烈下滑，由 1980 年的近 62% 降至 1989 年的 37% 历史低谷，日本厂商则通过在 DRAM 领域的扩张占据了全球过半份额；但自 1990 年起美国厂商启动强劲反弹，于 1993 年重回全球第一，并在 1997 年重新掌控 50% 以上的市场份额。（pp. 109–112）
 
 战后初期美国厂商长期主导微电子市场，但在 80 年代日本厂商在政府计划支持下将标准化 DRAM 作为突破口，引发了深刻的产业格局重构。
@@ -177,7 +177,7 @@ issuing_organization: ""
 > - **全行业市场份额的戏剧性反转** 1980 年美国占据全球半导体市场 62%，日本占 26%；1989 年美国份额跌至 37% 谷底，日本升至 51%；1993 年美国以 43% 重新反超日本（40%），1997 年美国升至 50% 以上，日本降至 29%。（pp. 111–112）
 > - **DRAM 大宗市场的代际接管** 从 1K 到 4M 代际，日本在 DRAM 各代产品中的最大市场份额从 5% 攀升至 98%，全面取代了美国厂商在早期存储器上的统治地位。（pp. 110–111）
 
-> [!figure]- 图1：1980–1997 年全球半导体市场份额演变
+> [!figure] 图1：1980–1997 年全球半导体市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig1_Worldwide_Semiconductor_Market_Share.jpg)
 
 > [!index-table] 表1：按器件类型划分的美日 DRAM 最大市场份额演进（%）
@@ -200,14 +200,14 @@ issuing_organization: ""
 > - **日本存储垄断受外部冲击** 韩国三星与中国台湾厂商迅速进入 DRAM 市场，以更低制造成本削弱了日本企业的独占优势。
 > - **存储器件的大宗商品化** 存储芯片演化为高度标准化的纯大宗商品，依赖激进资本投入与微观良率，利润空间被持续压缩。（pp. 112–113）
 
-> [!figure]- 图2：1980–1997 年全球存储芯片市场份额演变
+> [!figure] 图2：1980–1997 年全球存储芯片市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig2_Worldwide_Memory_Market_Share.jpg)
 
 ---
 
 ### 论证步骤二　微观制造质量控制与一线技能赋能系统性缩小了工艺良率差距，破除了 DRAM 作为唯一技术驱动器的传统假设
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 20 世纪 80 年代初日本半导体厂商的核心优势在于突出的制造质量与产线良率；美国企业在危机中加倍投入质量改进，广泛导入[[Statistical Process Control|统计过程控制]]（SPC）与[[Total Quality Management|全面质量管理]]（TQM），强化产线工人技能培训与跨职能数据排障，使产品缺陷率由 1980 年的 780 PPM 降至 1992 年的 100 PPM 以下，并在 0.7–0.9 微米逻辑制程中追平了日本顶尖晶圆厂的缺陷密度与探针良率。（pp. 113–118）
 
 80 年代初惠普等系统厂商的实测数据显示，日本内存芯片的失效率仅为美国产品的三分之一到二分之一（160 PPM vs 780 PPM），倒逼美国制造企业全面变革质量管理与员工培训体系。
@@ -221,14 +221,14 @@ issuing_organization: ""
 > 2. **全员生产维护（Total Preventive Maintenance, TPM）与设备稳定性管理** 联合设备供应商对产线维护人员开展深度培训，推行预防性维护制度，大幅提升关键光刻与刻蚀设备的平均无故障时间（MTBF），降低非计划停机波动。（p. 114）
 > 3. **跨专业工程诊断与数据快速反馈机制** 打破工艺工程师与一线工人之间的职能壁垒，组建跨职能质量改进小组，依托软件数据分析工具快速定位缺陷机理并优化工艺配方。（pp. 114–115）
 
-> [!figure]- 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
+> [!figure] 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig3_Defective_PPM_in_US_Firms.jpg)
 
 #### 2. 逻辑芯片制造良率追平日本，证明尖端工艺无须依赖大宗存储芯片经验
 
 加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目的[[Industrial Benchmarking|产业标杆分析]]测量表明，在 0.7–0.9 微米互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑制程中，美国领先晶圆厂的缺陷密度自 1990 年的约 1.3 个/$\text{cm}^2$ 持续下降，并在 1994 年达到与日本领先晶圆厂相当的水准。
 
-> [!figure]- 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
+> [!figure] 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig4_Defect_Density_in_CMOS_Logic.jpg)
 
 > [!index-table] 表2：美日半导体制造商晶圆平均探针良率对比（Probe Yield, %）
@@ -242,7 +242,7 @@ issuing_organization: ""
 > | **存储制程：0.5–0.7 微米** | 80 | 80 |
 > | **存储制程：<0.5 微米** | 78 | 89 |
 
-> [!figure]- 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
+> [!figure] 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig5_Direct_Labor_Productivity_at_CMOS_Logic_Fabs.jpg)
 
 > [!warrant]- 硬件自动化 vs. 软件数据分析与微观工程排障效率
@@ -252,7 +252,7 @@ issuing_organization: ""
 
 ### 论证步骤三　战略重组向高附加值微组件转移，纵向专业化分工将所谓组织碎片化转化为敏捷创新优势
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 美国半导体产业复兴的决定性支柱在于战略产品线的果断重组，将资源从低毛利商品化 DRAM 转向设计密集型、高附加值的微组件（微处理器、数字信号处理器、微控制器）与逻辑芯片；同时，无晶圆厂设计公司与晶圆代工厂的纵向专业化分工，结合大学在集成电路设计工具与教学上的普及，使产业能够敏捷响应个人电脑与通信技术革命，将 80 年代被视为劣势的产业碎片化重构为创新优势。（pp. 118–120）
 
 金属氧化物半导体（Metal-Oxide-Semiconductor, MOS）工艺标准化的推进与集成电路计算机辅助设计（Computer-Aided Design, CAD）及[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）工具的普及，打破了芯片电路设计与底层晶圆制造之间的物理耦合。
@@ -270,7 +270,7 @@ issuing_organization: ""
 
 设计公司专注于微架构与算法创新，将晶圆制造外包给专业代工厂（如中国台湾的[[Taiwan Semiconductor Manufacturing Corporation|台积电]]与联电）或具备富余产能的厂商，无须承担高额晶圆厂固定资本投资。
 
-> [!figure]- 图6：美国新型半导体企业创立数量趋势（1966–1996）
+> [!figure] 图6：美国新型半导体企业创立数量趋势（1966–1996）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig6_Formation_of_New_US_Semiconductor_Firms.jpg)
 
 > [!dimension] 美国半导体敏捷[[Innovation Ecosystem|创新生态]]的四大结构支柱
@@ -299,7 +299,7 @@ issuing_organization: ""
 
 ### 论证步骤四　公共政策与研发联盟提供了适度辅助支撑，但基础研究投入萎缩与高校工程人才供给面临制度隐忧
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 产业政策（如 [[Sematech]] 研发联盟）、产学研资助机制（如 [[Semiconductor Research Corporation|SRC]] 与州级计划）以及管理贸易协定对产业复苏起到了适度积极的辅助作用；然而复兴成果并非固若金汤，美国在微观制造绝对能力上并未拉开实质壁垒，且冷战后国防部微电子研发削减、大[[Corporate R&D Labs|企业中央实验室]]撤离基础研究以及[[University-Based Research Infrastructure|大学科研基础设施]]与研究生人才培养管道的长期压力，构成了产业持续竞争力的深层隐忧。（pp. 120–131）
 
 [[David C. Mowery|大卫·莫厄里]]（[[David C. Mowery]]）与合著者系统审视了 80 年代各项产业与政策举措的实际成效与边界：

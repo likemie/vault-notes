@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者诊断和解构应试导向、技术官僚化与知识存货剥离的课程体系。
 > - **边界** 不等于任何关注教学结果的课程；若目标完全压制了探究过程与主体能动性，则属于产物范式。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 产物模式将课程视为制造特定行为结果的生产流水线，教师是技术员，学生是被加工的客体。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 >
 > *Curriculum as product treats learning as a technical exercise designed to produce predefined behavioral results. (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 64]])*

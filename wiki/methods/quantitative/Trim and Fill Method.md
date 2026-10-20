@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis\|二阶元分析]]数据集。
 > - **输出形式** 估计缺失研究的数量（$k_{\text{miss}}$）、对称填补后的漏斗图、偏倚校正后的合并效应量（Adjusted ES）及校正置信区间。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 剪补法通过基于秩次的非参数迭代算法，系统识别漏斗图中由于抑制非显著结果发表而缺失的假想研究，并在镜像位置重新补全这些研究，从而提供一种保守的敏感性校正基准（Duval & Tweedie, 2000; Borenstein et al., 2021）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 8)]]
 >
 > *The trim and fill method is a nonparametric data-augmentation technique that estimates the number and effect sizes of missing studies from a meta-analysis, adjusting the overall effect size for publication bias (Duval & Tweedie, 2000).*

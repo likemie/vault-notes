@@ -55,7 +55,7 @@ updated: 2026-09-22
 > [!claim] 政策核心
 > 通过在地方教育当局设立专职的“小学科学发展专员”（Primary Science Development Officers, PSDOs），为小学教师提供定制化、长周期的学科持续专业发展（CPD），构建区域教师研修网络，全面提升教师科学教学能力与学生早期科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
-> [!policy-design]- 政策设计与核心机制
+> [!policy-design] 政策设计与核心机制
 > - **目标** 消除小学教师科学教学焦虑，提升课堂实验探究频率与质量，在儿童早期建立对科学探索的热情与职业抱负。
 > - **对象** 小学非理科背景的普通全科教师与学校管理层。
 > - **工具** 专职区域科学发展专员（PSDOs）驻点指导、高互动性工作坊、跨学科 [[STEM Education\|STEM]] 教学资源包、区域学校集群研修网络。

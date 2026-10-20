@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **核心角色** 20 世纪发展心理学与[[Constructivist Paradigm|建构主义]]教育哲学的集大成者，开创了关于儿童认知发展阶段与心理图式自我调节的实证与理论体系。
 > - **代表贡献** 创立发生认识论、提出儿童认知发展四阶段论（感知运动、前运算、具体运算、形式运算）、界定同化（Assimilation）、顺应（Accommodation）与平衡化（Equilibration）的认知适应机制。
 
-> [!citation-card]- 论儿童认知发展的奠基性地位
+> [!citation-card] 论儿童认知发展的奠基性地位
 > 皮亚杰是首位系统探索儿童认知发展的心理学家，开创了考查人类学习与思维演进的全新[[Scientific Method|科学方法]]。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 1)]]
 >
 > *Piaget was the first psychologist to systematically make a study of cognitive development, inaugurating a new approach to investigating how children learn and think.*
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 皮亚杰断言知识是认知主体通过与物理和社会环境持续相互作用而积极建构的动态适应产物。儿童的智力发展表现为由低级向高级连续演进的认知平衡化过程：当外部经验挑战已有认知图式时，个体通过同化（将外部现实纳入既有图式）与顺应（应对环境扰动改造既有图式）达成认知再平衡，经历四个年龄依存且不可跳跃的发展阶段——感知运动阶段（0–2岁）、前运算阶段（2–7岁）、具体运算阶段（7–11岁）与形式运算阶段（11–16岁）。
 
 > [!citation-card] 论知识作为主客交互动作的建构本质
@@ -136,7 +136,7 @@ updated: 2026-10-20
 > - **政策与实践路径** 深刻重塑了全球学前教育与K-12课程设计，确立了发展适宜性实践（Developmentally Appropriate Practice, DAP）原则与以动手探究为中心的活动课程传统。
 > - **跨国传播与论辩** 理论在当代教育研究中持续焕发活力：克沃特鲁普（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）以皮亚杰的同化与顺应阐释知识形态之间的动态互动；博尔顿与[[John Hattie|哈蒂]]（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017]]）进一步将皮亚杰阶段过渡与[[Prefrontal Cortex|前额叶皮层]]生理发育和[[Executive Function|执行功能]]对齐。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 探究皮亚杰认知发展阶段与儿童大脑前额叶皮层发育及执行功能之间的神经生理对应机制。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 运用皮亚杰图式同化与顺应理论，论证知识形式相互影响的复杂动态性。
 

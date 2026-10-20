@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - **打破“干预总是无害”的善良假设** 传统教育研究常假设“最差不过是无效（No Effect）”；但实证表明，不当的分组机制或过度干预会造成不可逆的实际伤害（如加剧标签化、恶化学风）。
 > - **清算机构的监控盲区** 纯教育类清算中心（如 [[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[National Dropout Prevention Center\|NDPC]]）长期聚焦于正向提分[[Effect Size\|效应量]]，普遍缺乏系统捕捉心理焦虑、同伴传染及反向行为恶化的监测指标与排查规程。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 循证评估的第一准则同临床医学一样是‘首先，不造成伤害（[[Non-maleficence and Beneficence in Research\|primum non nocere]]）’。教育干预若将高危青少年集中隔离反而会诱发同伴越轨传染，清算中心必须将医源性效应排查设立为不可逾越的刚性底线。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 >
 > *Iatrogenic effects in educational and social programs denote unintended harmful consequences produced directly by the intervention. Rigorous clearinghouses mandate systematic screening for adverse treatment effects, particularly deviancy training in high-risk peer aggregations.*

@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **用途** 最广泛应用于外语口语流利度训练、二语词汇与语法自适应习得、古诗词文本赏析互动与写作即时润色。
 > - **边界** 需防范由于语言模型幻觉产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 对话式智能体通过提供低焦虑、随时可用的多轮对[[Discourse|话语]]境与即时发音纠错，极大地激活了学生在语言与读写学科中的主动输出动机，取得了强劲的促学效果。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 7）
 >
 > *Conversational AI agents provide low-anxiety, on-demand multi-turn dialogue environments with immediate linguistic [[Feedback]], substantially driving student verbal engagement and skill automation in language and literacy learning.*

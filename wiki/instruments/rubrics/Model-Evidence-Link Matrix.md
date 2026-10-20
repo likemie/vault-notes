@@ -59,7 +59,7 @@ updated: 2026-10-16
 > - **测量与教学目的** 用于帮助中小学生显性化地协调相互竞争的因果理论模型与多项性质不同的经验证据材料，降低证据权衡中的认知负荷，防止选择性确认偏误。
 > - **实施方式** 纸笔工作单或数字化交互界面；学生在给定的两到三个互斥模型与 4 到 8 项经验材料之间建立带权重的关联箭头。
 
-> [!citation-card]- 模型与证据的显性协调支架
+> [!citation-card] 模型与证据的显性协调支架
 > 在基于模型的探究中，学生借助模型-证据关联（MEL）矩阵等教学支架，在相互竞争的科学模型与不同质量梯度的经验证据之间建立联系，系统记录证据对特定模型的支持、反驳或无关关系。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 212)]]
 >
 > *Students used scaffolds such as Model-Evidence-Link (MEL) matrices to connect multiple pieces of evidence with competing explanatory models, evaluating the degree to which evidence supports, contradicts, or has no relation to each model.*

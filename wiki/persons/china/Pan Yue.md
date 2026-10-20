@@ -48,7 +48,7 @@ updated: 2026-10-16
 > - **核心角色** 当代中国民族融合意识形态与历史叙事的核心设计者。他通过撰写《[[Wuhu Ruhua\|五胡入华]]》等史论，重塑了中国历史大一统叙事，为“铸牢[[Zhonghua Minzu\|中华民族]]共同体意识”和强力推行国家通用语言提供了理论基石。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 107–108]])
 > - **代表贡献** 提出“[[Wuhu Ruhua\|五胡入华]]”历史叙事概念，重塑大一统中国史观。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 北方的少数民族政权不仅不是华夏文明的破坏者，反而是汉身份的原创者与捍卫者。他们进入中原是主动拥抱汉文化并完成族群大融合的道德化过程。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 107–108]])
 > 
 > *The northern minority regimes were not the destroyers of Chinese civilization, but the originators and defenders of the Han identity. Their entry into the Central Plains was a moralized process of actively embracing Han culture and completing ethnic integration.*
@@ -87,7 +87,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 潘岳主张以“大一统”作为解释中国文明演进的核心主线。他强调历史上的少数民族入侵并非对中原文明的破坏，而是少数民族出于文明向心力主动融入华夏并成为“汉人”身份共同原创者的过程，并以此论证当代的国族融合是延续历史大一统传统的必然道德要求。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 107–108]])
 
 ### “五胡入华”与文明重构
@@ -122,5 +122,5 @@ updated: 2026-10-16
 > > - **潘岳 (Pan Yue) (2020)** 认为少数民族在进入中原后自愿放弃原有风俗是其对先进文明的体认与“自愿自我牺牲”。
 > > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 驳斥称这套[[Discourse|话语]]通过将侵略美化为“仰慕”，抹杀了同化中的惨烈对抗与国家暴力，在逻辑上与日本大东亚战争时期“大东亚共荣圈”的殖民合理化说辞无异。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])
 > 
-> > [!critique]- 批评索引
+> > [!critique] 批评索引
 > > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 指出潘岳的统战修辞将历史转化为现实的统治工具，实质上剥夺了少数民族的反殖民自决话语权。

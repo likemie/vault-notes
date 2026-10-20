@@ -66,7 +66,7 @@ updated: 2026-10-16
 > [!finding] 国际学校历史中的位置
 > [[Alec Peterson|亚历克·皮特森]]（Alec Peterson）认为，Ecolint 有充分理由被视为现存现代国际学校中历史最久者；它也是延续过第二次世界大战的主要国际学校。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–17)]]
 
-> [!warrant] 校内问题如何转化为国际制度议题
+> [!warrant]- 校内问题如何转化为国际制度议题
 > Ecolint 的历史作用来自学校日常问题与跨国制度建设的持续连接。它既提供教师、学生、会议、试验考试和办公空间，也把国家课程并行造成的资源浪费、学生分隔与大学资格风险集中呈现出来。这些问题使国际毕业会考由国际主义愿景转化为学校必须解决的运行难题。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]]
 
 ---
@@ -82,14 +82,14 @@ updated: 2026-10-16
 > - **学校共同体受到分割** 四套小班同时消耗师资与课时，并把学生重新分入国家群体，较小国籍群体只能自行适应。
 > - **共同资格成为实践需要** 一套能够跨国获得大学承认的课程与考试，可以减少重复教学，同时维护[[International Schools|国际学校]]共同学习的制度目标。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17, 21–22)]]
 
-> [!implication] 共同资格超出统一试卷
+> [!implication]- 共同资格超出统一试卷
 > 语言课程还面临翻译问题，社会研究则需要处理国家叙事偏向。共同考试因此不能只替换物理等学科的试卷，还必须形成跨语言课程、国际化学科内容和可被不同大学体系接受的总体资格。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 17–22, 29–31)]]
 
 ---
 
 ### 组织发展与国际文凭的形成
 
-> [!dev-timeline]- Ecolint 从[[International Schools|国际学校]]先例发展为国际资格发源地
+> [!dev-timeline] Ecolint 从[[International Schools|国际学校]]先例发展为国际资格发源地
 > - **1924–1925 年　学校创办与首次资格倡议** 学校成立一年后，校长保罗·梅霍弗（Paul Meyhoffer）依董事会指示，向 17 位欧洲教育改革者发出国际成熟证书[[Questionnaire|问卷]]。没有保存下来的答复，也没有足够国际学校或[[Student Mobility|学生流动]]支撑实施，计划随即沉寂。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 15)]]
 > - **1948–1955 年　战后国际学校网络重新提出需求** 国际意识学校会议于 1948 年要求 Ecolint 恢复倡议。学校随后参与建立[[International Schools Association|国际学校协会]]（International Schools Association，ISA），范·豪特又在 1955 年向 ISA 呼吁建立国际毕业会考。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17)]]
 > - **1961–1962 年　教师把倡议转为课程合作** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）出任英语部主任后组织教师和校外支持者。[[Bob Leach|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开会议，正式把国际毕业会考写入课程开发议程。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–18)]]
@@ -136,11 +136,11 @@ updated: 2026-10-16
 > - **组织分化** 财政和治理能力不足促使专门考试机构从学校中分离，形成 [[International Schools Examination Syndicate|ISES]] 及后续[[International Baccalaureate|IBO]] 的独立责任结构。
 > - **试验基础** Ecolint 持续提供课程人员、校内考试、办公空间和学生，使新资格能够在真实学校中接受检验。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–31)]]
 
-> [!stat-cards] 1985 年应用化学的采用规模
+> [!stat-cards]- 1985 年应用化学的采用规模
 > - **121** 名考生参加应用化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 > - **748** 名考生参加常规辅助层级化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
-> [!result-reading] 采用数据的解释
+> [!result-reading]- 采用数据的解释
 > 应用化学是获得一定采用的课程。这组数据说明课程进入实际考试，不能证明学习成效优于常规化学，也不能推定 Ecolint 本校考生数量。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---

@@ -212,7 +212,7 @@ graph TD
 > > - **[[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]** 警示治理术分析容易陷入将一切教育不平等还原为“主体化话语偏见”的唯心陷阱，忽视了资本、家庭财富与种族隔离等物质现实对学生处境的刚性制约。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 227)]]
 > > - **[[Argument_Ball_2008_SR|Ball (2008)]]** 强调知识政治与物质利益不可分割，政策话语既是治理理性的体现，也是阶级利益集团争夺国家资源的载体。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 651–655)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 批判过度聚焦微观自我技术可能导致忽视宏观社会阶层对教育结果的决定性压迫。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 强调治理术分析必须与空间实践结合，走出传统仅关注身体与意识、忽视物理地理维度的狭隘视野。
 

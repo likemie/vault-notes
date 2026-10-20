@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **核心角色** 全球跨境高等教育与[[Internationalization of Higher Education|高等教育国际化]]理论的奠基性学者。提出了高教国际化的经典工作界定，开创了[[International Education Hubs|国际教育枢纽]]的三级分类体系（学生枢纽、人才枢纽、知识与[[Innovation Hub|创新枢纽]]），并系统建构了[[Knowledge Diplomacy|知识外交]]五要素[[Analytic Framework|分析框架]]，为反思[[Geopolitics|地缘政治]]下的跨国知识流动确立了理论参照。
 > - **代表贡献** 提出并阐发[[Knowledge Diplomacy|知识外交]]核心分析框架；提出[[International Education Hubs|国际教育枢纽]]三类模型；界定[[Internationalization of Higher Education|高等教育国际化]]的操作概念与[[GATS and Trade in Education Services|教育服务贸易]]分析工具。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 简·奈特（Jane Knight）作为国际教育领域资深学者，反思高等教育国际化与地缘政治的关系，正式界定知识外交，倡导以非零和、互信互惠框架替代单向的[[Soft Power|软实力]][[Paradigm|范式]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 跨境高等教育与科研合作不仅是经济创收与国家对外投射影响力的工具，更是以学术互动建立跨国互信、实现共同发展的独立领域；面对全球危机，国际社会必须跳出追求单向政治支配与利己主义的[[Soft Power|软实力]]思维，依托互信、互惠、透明与多元主体协同的[[Knowledge Diplomacy|知识外交]]机制，在相互依存的国际秩序中寻求共同利益交集。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–194)]]
 
 > [!citation-card] 简·奈特论知识外交的非零和互惠本质
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策路径** 其学术定义广泛进入[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与各国高教主管部门政策文献，深刻影响了新加坡、马来西亚、阿联酋等国建设区域教育枢纽的战略规划。
 > - **跨国／跨领域传播** 思想在全球南方与发展中国家研究中获得深度引申；中国学者与国际学者运用其框架系统检验“[[Belt and Road Initiative|一带一路]]”多边大学联盟与定向工程人才联合培养的互惠实效。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用简·奈特的知识外交五要素分析框架，实证评估三所中国行业特色大学在“一带一路”重点能源与基建中的跨国定向[[Engineering Education|工程教育]]实践。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 借助简·奈特对[[Soft Power|软实力]]单向零和局限的批判，系统阐述知识外交立足互信互惠与多边合作以应对全球危机的理论主张。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 运用简·奈特的国际教育枢纽三级分类模型，系统解构全球[[Geopolitics of Knowledge|知识地缘政治]]格局下国家战略性知识空间的建构逻辑。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 > > - **埃尔弗特（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]]）** 指出奈特的枢纽模型偏重于为决策者提供肯定性的规划指南，较少深入审视教育枢纽建设如何加剧区域内部社会阶层分化与公共大学职能异化。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 203, 211–212)]]
 > > - **扎普（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）** 强调知识村与教育特区的兴起展现了大学物理空间被国家重新用于争夺国际资本的地缘政治再领土化悖论。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–156)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 揭示简·奈特的教育枢纽类型学主要呈现政策倡导导向，未能充分解释枢纽在国际[[Soft Power|软实力]]竞争与威权治理中的工具化异化。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 揭示教育枢纽与知识村战略将大学空间再领土化为地缘政治工具的结构性矛盾。
 

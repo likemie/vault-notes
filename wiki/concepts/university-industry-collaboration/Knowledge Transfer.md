@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!warning]- 术语歧义
+> [!warning] 术语歧义
 > “knowledge transfer”（知识转移）在当代社会科学与教育研究中存在三种截然不同的使用脉络：
 > - **脉络一（[[Geopolitics of Knowledge\|知识地缘政治]]意义）** [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 在[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入传授、挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的“运动”。
 > - **脉络二（[[University-Industry Collaboration\|产学合作]]与创新意义）** 在[[University-Industry Collaboration\|产学合作]]与组织管理脉络中，指知识在大学与产业组织之间的流动——涵盖从非正式的人际交流到高度结构化的合同协议全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b]]）。

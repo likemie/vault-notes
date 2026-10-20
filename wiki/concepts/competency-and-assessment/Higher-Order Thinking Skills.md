@@ -132,12 +132,12 @@ updated: 2026-10-20
 > - **用途** 帮助教学设计与教育[[Evaluation Research\|评价研究]]者超越低阶事实回忆和标准化机械应试，精准培育与测度面向21世纪知识社会的核心认知素养。
 > - **边界** 高阶思维技能不等于脱离具体学科知识的空洞逻辑游戏，亦不同于遵循明确公式步骤的常规熟练运算。
 
-> [!citation-card]- 经典界定与当代操作化表述
+> [!citation-card] 经典界定与当代操作化表述
 > 高阶思维技能被经典界定为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代实证研究中，它将批判性思维、推论推理与[[Problem Solving\|复杂问题解决]]等高阶能力操作化，所有这些能力都要求学习者对已习得的知识进行深层加工与结构重组（Ghanizadeh et al., 2020; Liu et al., 2024）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1365–1366)]]
 >
 > *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve [[Self-control\|self-regulation]], often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... Higher-order thinking frameworks operationalize problem solving, metacognition, critical thinking, collaboration, and creativity (Liu et al., 2024; McLoughlin & Mynard, 2009).*
 
-> [!citation-card]- [[Man-Computer Symbiosis|人机共生]]中的自适应[[Epistemic Stances\|认识立场]]与高阶思维激活
+> [!citation-card] [[Man-Computer Symbiosis|人机共生]]中的自适应[[Epistemic Stances\|认识立场]]与高阶思维激活
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的学习网络中，高阶思维的展现高度依从于学习者的自适应认识立场（Adaptive Epistemic Stance）。持有绝对论立场的学习者容易让渡认知控制权而停留在低阶代码或文本复制层面；唯有持有评价论立场并具备丰富先验知识的学习者，才能通过对大模型输出展开持续的多轮压力测试、[[Scale of Measurement\|测量尺度]]辨析与多源三角核验，将人机交互深化为高水平的高阶推论与方法论评价。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 >
 > *In human-AI learning networks, higher-order thinking manifests through adaptive epistemic stances: while [[Absolutist]] stances induce [[Cognitive Offloading]] and superficial [[Strategic Compliance|compliance]], [[Evaluativist]] stances [[Activate Fellowship|Activate]] rigorous metacognitive monitoring, stress-testing, and multi-source justification.*

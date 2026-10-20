@@ -215,7 +215,7 @@ updated: 2026-10-20
 > > - **斯坦福新制度主义** 强调官方课程门类与课时分配在世界模型压力下的跨国趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 > > - **比较教育[[Ethnography|民族志]]学者 (Anderson-Levitt, 2003; Demerath, 1999)** 证实自上而下的模型在各地产生截然不同的教学常模，边缘社群更会主动拒斥资本主义功利逻辑。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 批评世界文化模型抽离了历史唯物主义与殖民遗产，忽视了外围国家在依附性资本积累下形成的阶级双轨学制。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判世界文化模型过度依赖形式同构指标，指出必须具备双重视野，结合微观民族志透视地方行动者的文化反抗与实践变通。
 

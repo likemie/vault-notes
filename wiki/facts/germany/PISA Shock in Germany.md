@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法** 催生战后首个全国统一的《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》与国家教育标准（NES）。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
 > - **思想[[Paradigm|范式]]变迁** 彻底打破输入规制神话，确立面向真实情境应用的素养与[[Output-Oriented Governance|产出导向治理]]范式。
 > - **社会结构重塑** 大规模普及全日制学校（Ganztagsschule），改善了劳工与移民家庭子女的看护与课业支持。

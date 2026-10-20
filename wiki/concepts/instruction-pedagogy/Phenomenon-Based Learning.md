@@ -76,7 +76,7 @@ updated: 2026-10-20
 > - 不等于彻底取消学科分类 — PhBL 并非消灭传统学科，而是倡导在保持学科自身逻辑和深度的前提下进行跨学科整合。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - 不适用于去情境化的机械训练 — 它反对脱离学生生活经验的碎片化技能原子化训练。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 现象学学习观将学习视为具身的、情绪化的和 experimental 的，而非能够被量化或项目化的东西。([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 4]])
 >
 > *A phenomenological approach to learning sees learning as something embodied, emotional, and experimental, and not as something quantified or itemized.*

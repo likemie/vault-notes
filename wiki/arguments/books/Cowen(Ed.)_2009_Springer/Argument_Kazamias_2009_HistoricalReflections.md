@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　启蒙时期的比较教育兼具科学实证探索与国家行政改良双重目的，并在萨德勒的文化研究中转向社会整体探究
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 比较教育学自诞生起就不是单一纯粹的学科，而是兼具双重使命：一方面借鉴自然[[Scientific Method|科学方法]]寻找教育的普遍规律以推动社会进步，另一方面收集外国办学经验为本国政府的制度建设提供参考。直到[[Michael Sadler|萨德勒]]提出不能孤立看待学校，必须考察校外的社会文化力量，比较教育才确立了以民族国家为整体单位的文化研究传统。（pp.139–143）
 
 学科的思想根源可以追溯到 18 世纪末至 19 世纪初的欧洲[[Enlightenment|启蒙运动]]。启蒙学者崇尚理性、经验观察和科学方法，坚信教育能推动人类文明进步。在这一时期，欧洲正处于工业化早期和现代民族国家建立的关键阶段，比较教育的研究呈现出两种互相关联却又取向不同的传统。
@@ -252,7 +252,7 @@ updated: 2026-10-20
 
 ### 论证步骤二　历史-哲学学派将比较教育确立为关注理念与政体关系的人文阐释传统，并在抵抗极权中坚守民主价值
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 20 世纪上半叶以[[Isaac Kandel|坎德尔]]、汉斯和[[Robert Ulich|乌利希]]为代表的学者，将比较教育建设成为一门成熟的学术学科。他们明确反对把比较教育简化为寻找通用公式的预测科学，主张通过分析自然、宗教与世俗历史因素来理解各国的办学理念，确立了“国家政体决定学校形态”的核心观点，并借由跨国教育研究弘扬自由民主价值以抵御极权统治。（pp.143–144）
 
 在萨德勒文化研究的基础上，艾萨克·坎德尔（Isaac Kandel）、罗伯特·乌利希（Robert Ulich）与[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）等学者完成了比较教育学的学科体系建设，奠定了历史-哲学研究传统。
@@ -285,7 +285,7 @@ updated: 2026-10-20
 
 ### 论证步骤三　战后实证科学化运动追求量化规律与政策预测，但过度依赖技术手段导致脱离文化情境与人文价值
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 二战后英美学界掀起将比较教育改造成严密科学的风潮，试图用统计回归、[[Variable|变量]]测算和假说演绎彻底替代历史研究；然而这种做法预设了单一通用科学方法的迷思，把复杂的教育现象缩减为抽象的数字指标，不仅割裂了教育背后的历史文化脉络，还往往沦为政府官员推卸教育决策责任的工具。（pp.144–152）
 
 20 世纪 50 年代末至 60 年代，战后成长起来的一批年轻学者对历史-哲学传统发起猛烈批评，指责其主观性强、缺乏严密的实证检验，且无法为战后迅速扩张的国家教育规划提供精确的预测数据。比较教育学由此掀起了一场将自身重塑为实证社会科学的激烈争鸣。
@@ -345,7 +345,7 @@ updated: 2026-10-20
 
 ### 论证步骤四　批判冲突理论揭示了教育维护不平等的政治本质，但学科走向多元的同时却因放逐历史而陷入历史健忘症
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 1970 年代兴起的马克思主义、[[Dependency Theory|依附理论]]与批判政治经济学，打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所；然而，比较教育在世纪之交拥抱多元研究视角的同时，却极度边缘化了历史研究方法，导致学科严重丧失历史视野。（pp.152–156）
 
 实证功能主义在 20 世纪 70 年代遭遇了激进冲突学派的强力挑战。[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston）与卡扎米亚斯等人将权力、阶级剥削、意识形态支配和资本主义国家等批判概念引入比较教育，把学校从“推动社会现代化的中立钥匙”拉回到阶级利益博弈的真实社会现实中。（pp.152–153）
@@ -414,32 +414,32 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- [[Protean Episteme|普罗透斯式认识体系]]的经典界定
+> [!citation-card] [[Protean Episteme|普罗透斯式认识体系]]的经典界定
 > 比较教育学这一术语并非一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“[[Geisteswissenschaften|人文科学]]”，是[[Nicholas Hans|尼古拉斯·汉斯]]意义上的教育科学（Vergleichende Erziehungswissenschaft）……如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的[[Epistemology|认识论]]、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。（pp.139–140）
 >
 > *The term comparative education (CE) is not a mono-faceted or monophonic concept/intellectual system. It is an inter- and multidisciplinary 'human science', an episteme in Nicholas Hans' sense of Vergleichende Erziehungwissenschaft... Like the Greek mythical demigod Proteus, CE at different historical periods has donned different attire, woven by differently coloured epistemological, methodological and ideological threads. Consequently, it has appeared in a variety of guises reflecting to a large degree, the intellectual, methodological and cultural strands and fads of the times. Hence, the appellation of CE as a protean episteme (Kazamias, 2001).*
 
-> [!citation-card]- [[Michael Sadler|萨德勒]]论[[Intangible Spiritual Forces|校外无形精神力量]]对教育制度的支配
+> [!citation-card] [[Michael Sadler|萨德勒]]论[[Intangible Spiritual Forces|校外无形精神力量]]对教育制度的支配
 > 因此，如果我们打算研究外国教育制度，我们绝不能只将目光盯在砖石构建的学校建筑上，亦不能仅仅关注教师和学生；我们必须走到大街上，走进人们的家庭中，探寻究竟是什么不可捉摸、无形的心灵精神力量，在现实中支撑着学校制度并决定着它的实际效能……在研究外国教育制度时，我们不应忘记：校外的事物比校内的事物更为重要，并且支配和解释着校内的事物。一个国家的教育体系是一个活生生的有机体……以正确的精神和学术的严谨性研究外国教育体系的实际价值在于，它将使我们更有能力去研究和理解我们自身的体系。（pp.141–142）
 >
 > *Therefore, if we propose to study foreign systems of education, we must not keep our eyes on the brick and mortar institutions, nor on the teachers and pupils only, but we must also go outside into the streets and into the homes of the people, and try to find out what is the intangible, impalpable, spiritual force which, in the case of any successful system of Education, is in reality upholding the school system and accounting for its practical efficiency... In studying foreign systems of Education we should not forget that the things outside the schools matter even more than the things inside the schools, and govern and interpret the things inside. A national system of Education is a living thing... The practical value of studying, in a right spirit and with scholarly accuracy, the working of foreign systems of education is that it will result in our being better fitted to study and to understand our own (Sadler, 1900).*
 
-> [!citation-card]- [[Isaac Kandel|坎德尔]]论国家政体与学校的内在统一公理
+> [!citation-card] [[Isaac Kandel|坎德尔]]论国家政体与学校的内在统一公理
 > 国家如何，学校亦如何；学校如何，国家亦如何。每一个国家都拥有其自身意愿所决定的教育类型。（p.144）
 >
 > *As is the state, so is the school... As is the school, so is the state... Every state has the type of education that it wills (Kandel, 1933: 82; 1955: 21).*
 
-> [!citation-card]- 比较历史学中非普适[[Working Hypothesis|探索性假说]]的认识论辩护
+> [!citation-card] 比较历史学中非普适[[Working Hypothesis|探索性假说]]的认识论辩护
 > 断言历史学主要处理独特而个别的事件，进而怀疑其对于以抽象、概括和规律性为前提的比较分析的价值，这一观点已被包括历史学家在内的诸多学者所驳斥。正如比较历史学家[[Crane Brinton|克莱恩·布林顿]]所示，对历史现象进行归类并为了形成概括而进行比较是完全可行的。尽管此类概括可能属于有限范围而非普适全称性质，但它们反过来可以作为工作假设在其他类似情境中进行检验，以阐明新的现象。换言之，通过对具体、个别和特殊事物的审视，具有历史头脑的比较教育学者能够归纳出一种概括，并进而运用它来照亮另一个具体的事件或形式。对普遍性与特殊性的关切同时存在于社会科学与历史学之中，二者的差异在于研究侧重点与目的，绝非方法或性质的对立。（pp.151–152）
 >
 > *The assertion that history deals essentially with unique and particular events, and that consequently its value for comparative analysis, which presupposes abstraction, generalisation and regularity is questionable, has been refuted by several writers including historians. As Crane Brinton, the comparative historian, has shown, it is quite possible to categorise or classify historical phenomena and compare them for the purpose of making generalisations. Although such generalisations may be of a limited rather than a universal nature, they may in turn be used in working [[Hypothesis|hypotheses]] to be tested in other similar situations in order to illuminate them... The concern for the general and the particular is to be found in both the social sciences and history, and the difference is one of emphasis and objectives of research rather than kind or method (Kazamias, 1963: 396).*
 
-> [!citation-card]- 卡诺伊论学校作为再生产与民主化矛盾交锋的竞技场
+> [!citation-card] 卡诺伊论学校作为再生产与民主化矛盾交锋的竞技场
 > 与传统正统新马克思主义的论述不同，我们认为学校绝不仅仅是资本家在资本主义社会中的工具，而是一个在再生产力量（客观生产关系的再生产，即鲍尔斯与金蒂斯所称的对应原则）与民主化力量（个体与集体的表达诉求，即矛盾）之间展开激烈博弈的机构。因此，学校蕴含着再生产与民主的双重元素，正如资本主义和国家官僚社会中的整体国家同样蕴含着这些元素一样。我们确实假定，无论在资本主义还是国家官僚社会中，国家从根本上再生产着等级制与不平等的权力关系；但国家及其用于再生产的教育系统本身，内生着至关重要的矛盾。（pp.153–154）
 >
 > *...unlike conventional neo-Marxist writing, we argue that schools are not simply the tools of capitalists (in capitalist society) but an institution where the tensions among the forces for reproduction (reproduction of the objective relations of production) – which Bowles and Gintis call correspondence – and the forces of democratization (individual and collective expression) – which we call contradiction – are played out. Thus, the schools contain elements of reproduction and democracy, just as the State as a whole in capitalist and state bureaucratic societies contains these elements. Therefore, we do assume that the State in both capitalist and state bureaucratic societies fundamentally reproduces hierarchical and inequitable power relations, but that it and the educational system it uses in reproduction contain important contradictions (Carnoy, 1983).*
 
-> [!citation-card]- 期刊计量证据揭示学科深陷[[Historical Amnesia|历史健忘症]]
+> [!citation-card] 期刊计量证据揭示学科深陷[[Historical Amnesia|历史健忘症]]
 > 然而，这种发展是以认识论与方法论的代价为前提的，即牺牲或近乎彻底放弃比较教育研究中的历史维度。根据一项近期研究显示，“从 1955 年到 1994 年，在《[[International Education|国际教育]]发展杂志》、《比较教育》和《比较教育评论》发表的近 2000 篇论文中，仅有 10.5% 的研究策略依赖于史学编纂和历史研究”。更为令人沮丧的是：“从 1985 年到 1995 年，在所有发表的论文中，被界定为历史研究（比较历史或历史比较）的比例不足 5%”（Larsen, 2001）。这种严峻的状况促使一位评论家指出：我们这个领域正患有严重的“[[Historical Amnesia|历史健忘症]]”。（pp.155–156）
 >
 > *But such developments, I would argue, were made at an epistemological cum methodological cost, namely, the sacrifice or almost total abandonment of the historical dimension in comparative educational research. According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies' (Larsen, 2001)... This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia'.*

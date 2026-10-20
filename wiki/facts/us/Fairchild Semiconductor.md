@@ -92,7 +92,7 @@ updated: 2026-10-16
 > - **制造运营部（Manufacturing Operations）** 查尔斯·斯波克与弗雷德·比亚莱克主导，设立晶体管、二极管与集成电路产品线事业部，推行严格的在制品跟踪与[[Statistical Process Control|统计过程控制]]（SPC）。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–201)]]
 > - **[[Application Engineering|应用工程]]部（Application Engineering Department）** 招聘来自整机企业的专业工程师，负责编制开源应用说明书、设计客户定制电路并打造系统原型，充当行业外部工程研发与技能培训中介。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 188–194)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **[[Research Translation|技术转化]]路径** 基础实验室研发 $\to$ 工艺试验线试制 $\to$ 大规模量产部门导入，实现快速产业化验证。
 > - **全球分工与离岸[[Assemblage|组装]]路径** 加州本土负责硅片制造与扩散核心工艺，成品晶圆运往香港与东亚工厂进行劳动密集型切割、引线键合与塑封，再返销全球市场。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 201–203)]]
 
@@ -116,7 +116,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **底层技术标准确立** 平面工艺与[[Dual In-Line Package|双列直插封装]]成为全球半导体制造业沿用数十年的底层工业规范。
 > - **市场统治力** 1968 年占据美国民用计算机集成电路市场约 80% 的市场份额。
 > - **全球供应链[[Paradigm|范式]]开创** 1963 年在香港建立半导体封装厂，开创了半导体制造业将后端封测向亚洲离岸外包的全球化分工范式。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 201–203)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 88)]]

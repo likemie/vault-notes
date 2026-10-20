@@ -136,7 +136,7 @@ updated: 2026-10-20
 > - **用途** 为教育政策制定、教学方案选择与公共资源配置提供无偏的净收益信号，避免将偶然相关或虚假趋势误判为政策红利。
 > - **边界** 因果推断不等于相关（相关可能由第三变量驱动）、不等于预测（基于错误因果识别的气压计仍可预测风暴）、不等于事后合理化解释；社会科学中的因果推断始终是概率性的证据累积，而非绝对的逻辑证明([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 58–59]])。
 
-> [!citation-card]- 实验设计中[[Internal Validity|内部效度]]的核心表述
+> [!citation-card] 实验设计中[[Internal Validity|内部效度]]的核心表述
 > 因果性意味着我们预期变量 X 会导致变量 Y。[[Internal Validity\|内部效度]]，即干预与结果之间因果关系的有效程度，是实验设计的[[Necessary and Sufficient Conditions\|必要条件]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]; [[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, p. 461)]]
 >
 > *Causality means that we would expect variable X to cause variable Y. Establishing causal evidence requires demonstrating empirical association, temporal precedence, and the elimination of plausible rival explanations.*

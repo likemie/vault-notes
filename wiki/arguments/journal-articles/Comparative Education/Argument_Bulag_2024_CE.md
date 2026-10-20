@@ -166,7 +166,7 @@ citation_aliases:
 
 ### 论证步骤一：现有西方批评框架的三个政治悖论
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 西方的灭绝种族与[[Settler Colonialism\|定居殖民主义]]批评框架虽然强力揭发了中国国家暴力，但在政治效果上存在严重的自我否定悖论，实质上削弱了少数民族的反殖民自决权与宪法自治权(pp.99–100)。
 
 > [!critique] 西方批评框架的三重政治悖论
@@ -184,7 +184,7 @@ citation_aliases:
 
 ### 论证步骤二：西方后殖民学术与中国政策之间的非意图合谋
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 中共在 2000 年代以来的民族政策转型（去政治化与同化），通过非意图合谋挪用了西方后殖民批判与社会建构论的概念工具（如将政治民族 minzu 降格为去政治的族群 zuqun），从而为其提供了拆除少数民族自治法律屏障的学术正当性(pp.101–103)。
 
 > [!chain-link] 学术与政策“非意图合谋”的演进链
@@ -207,7 +207,7 @@ citation_aliases:
 
 ### 论证步骤三：中华民族建构的怀旧乌托邦与“自我牺牲”机制
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > [[National Rejuvenation Narrative|中华民族伟大复兴]]本质上是一场[[Retrotopia\|怀旧乌托邦]]与修复性怀旧的国家工程；其核心的话语逻辑并非仅仅是暴力同化，而是通过一系列历史重构神话，要求少数民族主动并自愿进行文化与身份的自我牺牲（self-sacrifice），从而完成对国家道德正当性的自我论证(pp.104–109)。
 
 > [!def] 怀旧乌托邦与修复性怀旧
@@ -229,7 +229,7 @@ citation_aliases:
 
 ### 论证步骤四：内蒙古双语教育危机中“自我牺牲”的实践运作
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > [[2020 Inner Mongolia Bilingual Education Reform\|2020 年内蒙古双语教育改革]]危机以及官方的后续反应，具体而微地展现了自我牺牲逻辑在实践层面的三重运作机制，体现了模范自治区从自治权保障向族群特殊性主动放弃（即模范牺牲）的本质转型(pp.109–111)。
 
 > [!factors] “自我牺牲”逻辑的三重实践机制
@@ -263,27 +263,27 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- [[Necropolitics\|死亡政治]]的定义
+> [!citation-card] [[Necropolitics\|死亡政治]]的定义
 > “主权的最终表达在很大程度上存在于决定谁可以活、谁必须死的权力和能力之中。”(Mbembe, 2003, p.11)
 > 
 > *“The ultimate expression of sovereignty resides, to a large degree, in the power and the capacity to dictate who may live and who must die.”*
 
-> [!citation-card]- 西方指控的后果
+> [!citation-card] 西方指控的后果
 > “西方对中国新疆穆斯林少数民族政策的学术定性为灭绝种族，已经正当化了旨在惩罚中国的措施，导致了更加极化的美中人权外交。”(p.98)
 > 
 > *“The academic characterisation of China’s policy towards Muslim minorities in Xinjiang as genocide has justified punitive measures against China, leading to a highly polarised US-China human rights diplomacy.”*
 
-> [!citation-card]- 自我牺牲机制的定义
+> [!citation-card] 自我牺牲机制的定义
 > “中国死亡政治的内在组成部分因而是培养少数民族为[[Zhonghua Minzu\|中华民族]]共同体所做的自我牺牲。这种少数民族自我牺牲的观念集中体现了中共在过去一个世纪左右、在今天以更高的强度在共产主义和民族主义两方面投入的意识形态和情感劳动。”(p.98)
 > 
 > *“An intrinsic part of Chinese necropolitics is thus the cultivation of minorities’ ‘self-sacrifice’ for the Chinese national community. This notion of minority self-sacrifice epitomises the ideological and emotional labour that the CCP has invested in both communism and nationalism over the past century or so, and with even higher intensity today.”*
 
-> [!citation-card]- 苏日娜的遗言
+> [!citation-card] 苏日娜的遗言
 > “我们用生命来证明我们已经尽力了。”——苏日娜（Surnaa）的遗书(p.111)
 > 
 > *“We use our lives to prove that we have tried hard.”*
 
-> [!citation-card]- 牺牲的循环逻辑
+> [!citation-card] 牺牲的循环逻辑
 > “既然善的标志是它值得牺牲，那么反过来也必然为真——牺牲使得某物成为善。”(Halbertal, 2012, p.69)
 > 
 > *“Since the mark of the good is that it is worthy of sacrifice, the reverse is also true—sacrifice makes something good.”*
@@ -292,7 +292,7 @@ citation_aliases:
 
 ## 外部批评
 
-> [!critique]- 对本篇论证的学术批判
+> [!critique] 对本篇论证的学术批判
 > - **全球化背景下的文化趋同过度政治化** 将中国语言政策完全定性为文化灭绝忽视了城市化、经济一体化等全球现代化进程中少数民族为社会流动而做出主动调适与文化趋同的普遍现象。
 > - **忽略推广普通话的[[Pragmatic Paradigm\|实用主义]]维度** 忽视了通用语言作为国家通用教学媒介的[[Human Capital Theory\|人力资本]]投资价值，且无法合理解释在推行普通话的同时大规模投资英语教育与消灭少数民族语言定性之间的逻辑张力。
 > - **[[Retrotopia\|怀旧乌托邦]]批判的双向性缺失** 仅批判汉人中心的国家复古想象，但对少数民族文化保护运动中同样存在的坚守传统、试图修复前现代家园的怀旧结构保持沉默。

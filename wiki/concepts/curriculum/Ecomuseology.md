@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - 1970 年代法国：Georges Henri Rivière 和 Hugues de Varine 在地方博物馆运动中提出"écomusée"概念
 > - 巴西发展：Mário Chagas (2001) 将生态博物馆学与权力和记忆的政治分析结合；Mário Moutinho (2007) 在[[Social Museology\|社会博物馆学]]（sociomuseologia）框架内发展了生态博物馆理论
 > - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例实践中，将生态博物馆学（与社会博物馆学一起）作为 [[Ganz-Methode]] 的实证基础([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.107, 110]])
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm\|范式]]之间的张力是"意义张力"在文化遗产制度领域的呈现。生态博物馆学在旧秩序（建筑中心、专家权威）内部培育了一种以地域和社区为核心的新范式([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–112]])
 > - [[Ganz-Methode]] — 生态博物馆学的操作逻辑与 Ganz-Methode 两步法对应。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 112–113]])
 > - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民[[Epistemology\|认识论]]在文化遗产制度中的实践

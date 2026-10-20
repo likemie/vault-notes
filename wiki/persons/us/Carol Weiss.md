@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **核心角色** [[Research Utilization\|研究利用]]（research utilization）研究的开创者，为"研究如何进入政策与实践"提供概念工具箱。
 > - **代表贡献** 提出[[Research Utilization Models\|研究利用模型]]（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]类型学奠定基础。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 卡罗尔·韦斯于 1979 年提出研究利用的七种模型（知识驱动、[[Problem Solving\|问题解决]]、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
 >
 > *Weiss (1979) who introduced seven models of research use... This served as the basis of the later typologies of research use as conceptual, instrumental or symbolic.*
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 研究不是以“研究发现→直接采纳”的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving\|问题解决]]、持续互动、策略性引用——并以“知识渗透”般的缓慢方式改变决策者的思维。[[Research Utilization\|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
 
 > [!feature] 政策决策中的证据燃料论、价值本质与委员会吸收机制
@@ -94,7 +94,7 @@ updated: 2026-10-20
 > - **政策制定本质上关乎价值立场（Policymaking is About Values）** Weiss（1977）指出，政策辩论的核心是价值观念与政治哲学的交锋，而非[[Technical Rationality\|技术理性]]的算计。立法者主要利用研究强化预先存在的政治信念并为其施政口号提供注脚；策略性挑选（cherry-pick）符合立场的文献是政治世界维系选民联盟的理性行为，学者必须理解并合理嵌入立法者的价值框架。（Weiss et al., 2008; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, pp. 42–43]]）
 > - **国会常设委员会作为实证分析的核心用户（Committees as Users of Analysis）** Weiss（1989）对美国国会的研究证实，相较于议员个人办公室面对选民突发事件的快节奏应付，国会常设委员会的专业幕僚拥有更长远的政策视野、更强的专业知识与更高的实证利用意愿，构成了学术证据实质性嵌入法案文本的最关键制度载体。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > Weiss（1980, p. 381）把[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]称为"知识渗透"（knowledge creep）：研究以复杂而往往间接的方式为实践者提供信息，影响他们对议题的理解与思考（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
 >
 > *Conceptual use... or as Weiss (1980, p. 381) puts it; "knowledge creep".*
@@ -109,7 +109,7 @@ updated: 2026-10-20
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
 > - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–45)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的[[Research Utilization Models\|研究利用模型]]与知识渗透概念，作为[[Framework Synthesis\|框架综合]]先验框架中"研究使用的多重意义"的来源。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 援引 Weiss（1977, 1989, 1991）关于政策价值负荷性、国会委员会证据使用以及政策倡导时机的重要论述，为[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]提供基础理论依托。
 

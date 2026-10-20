@@ -54,7 +54,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 迪昂版本认为，物理理论总是作为整体面对经验检验——不可能单独检验一个孤立假设，因为检验总是同时预设了辅助假设、测量理论和背景知识。蒯因版本将这一整体论推广到所有[[Areas of Knowledge\|知识领域]]：我们的知识是一个整体网络，与经验的接触只发生在边缘，任何陈述（包括逻辑和数学）原则上都可以在面对反常经验时被修正，只要对网络其他部分做足够大的调整。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 
-> [!citation-card]- 蒯因的自我评价
+> [!citation-card] 蒯因的自我评价
 > 在回答 Grünbaum 关于该论题非平凡地理解是假的这一批评时，蒯因承认：该论题以我所使用的方式来看可能是平凡的。我没有把它作为有趣的论题来推进。我甚至不关心通过改变意义来维持一条定律这种平凡极端。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 193, note 24)]]
 >
 > *"I would say that the thesis as I have used it is probably trivial. I haven't advanced it as an interesting thesis as such. ... I am not concerned even to avoid the trivial extreme of sustaining a law by changing a meaning."* (Harding, 1976, p. 132)

@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 世界是由多重层级构成的开放系统，真正的科学探索聚焦于解释引发事件发生的深层因果机制与结构性力量，揭示经验可感知现象背后的生成机制。社会结构具有[[Emergence|涌现]]特征和因果力量，先于个体存在并依赖人类实践活动予以再生产或转化。[[Critical Realism|批判实在论]]为超越休谟式[[Positivism|实证主义]]还原论与后现代相对主义确立坚实的[[Ontology|本体论]]支点，为社会与教育政策的批判性评估提供因果解释与价值批判依据。
 
 > [!citation-card] 三层本体论与生成机制
@@ -133,7 +133,7 @@ updated: 2026-10-20
 > - **方法路径** 成为[[Ray Pawson|雷·波森]]（Ray Pawson）等人创立“[[Realist Evaluation|实在论评估]]”与“实在论综合”的哲学根基，为解构[[Randomised Controlled Trials|RCT]]与[[Meta-analysis|元分析]]提供[[Ontology|本体论]]支撑。
 > - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）的批判研究进入教育政策辩论，成为批判新自由主义审计文化与“[[Governing by Numbers|以数字治理]]”政策的重要工具；在跨国高教政策领域，吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其[[Explanatory Critique|解释性批判]]与[[Critical Discourse Analysis|批判话语分析]]结合，用于剖析国家地缘教育政策[[Discourse|话语]]的深层权力生成机制。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，主张以基于实在论的[[Pluralism|多元主义]]替代单一排行榜。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合巴斯卡的批判实在论解释性批判与费尔克拉夫批判[[Discourse Analysis|话语分析]]，解构跨国高等教育政策话语背后的[[Geopolitics|地缘政治]]与权力再生产机制。

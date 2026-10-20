@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 从校园复制到整校加入
+> [!dev-timeline] 从校园复制到整校加入
 > - **1970 年 3 月　圣约翰合作进入政府沟通** 蒙巴顿致函[[Lee Kuan Yew|李光耀]]，建议把圣约翰建设为服务东南亚的 [[United World Colleges\|UWC]]。李光耀说明校址已经交给英国欧洲协会（British European Association）筹建外籍社群[[International Schools\|国际学校]]，但同意研究合作。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–111)]]
 > - **1970 年 7 月　校内高中部成为互补方案** 国际学校担心生源不足以维持十一、十二年级，UWC 需要区域基地。双方考虑由国际学校提供校址和基础设施，UWC 以国际寄宿生补足高中规模。
 > - **1970 年 8 月　樟宜重新激活独立书院设想** 汉基、霍尔和戴维·威尔斯（David Wills）判断圣约翰空间不足，转而考察具有住宿、运动场、泳池和海岸通道的樟宜设施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 111–112)]]

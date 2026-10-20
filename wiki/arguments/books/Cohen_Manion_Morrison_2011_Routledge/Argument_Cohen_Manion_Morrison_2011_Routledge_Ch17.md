@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 概念地图
 
-> [!knowledge-map]- 第17章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第17章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_17_Concept_Map.jpg)
 
 ## 章节内容
@@ -317,7 +317,7 @@ Glass and Smith（1978）的[[Class Size|班级规模]]研究是元分析的经�
 >
 > **反直觉的发现** 在控制充分的研究中，班级规模缩小与成就提升之间的关联曲线更为陡峭；在不充分控制的研究中曲线反而较平坦。这意味着不充分的控制倾向于**低估**班级规模效应，而不是像通常假设的那样混杂变量会夸大效应。这一发现颠覆了控制不佳的研究必然高估效应的直觉，也说明方法论的严谨程度与效应方向之间的关系不可简单预设（pp. 358–360）。
 
-> [!example]- 图17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
+> [!example] 图17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_17-1_Class_Size_and_Learning.jpg)
 >
 > *Regression lines for the regression of achievement (expressed in percentile ranks) onto class size for studies that were well-controlled and poorly controlled in the assignment of pupils to classes.*
@@ -590,32 +590,32 @@ Thomas and Pring（2004, pp. 54–55）从研究设计层面补充了元分析�
 
 ## 关键引用
 
-> [!citation-card]- McGaw 论[[Meta-analysis\|元分析]]取代叙事直觉
+> [!citation-card] McGaw 论[[Meta-analysis\|元分析]]取代叙事直觉
 > 定量元分析取代了通常以叙事方式报告的直觉，作为更透明和明确地综合不同研究的方式，尤其是当研究差异非常大时。（McGaw, 1997, p. 371）
 >
 > *Quantitative meta-analysis replaces intuition, which is frequently reported narratively, as a means of synthesizing different research studies transparently and explicitly, particularly when they differ very substantially.*
 
-> [!citation-card]- Morrison 对元分析公平性的追问
+> [!citation-card] Morrison 对元分析公平性的追问
 > 如果各实验的假设不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（Morrison, 2001, p. 78）
 >
 > *How can we be certain that meta-analysis is fair if the [[Hypothesis|hypotheses]] for the separate experiments were not identical, if the hypotheses were not operationalisations of the identical constructs, if the conduct of the separate RCTs (e.g. time frames, interventions and programmes, controls, constitution of the groups, characteristics of the participants, measures used) were not identical?*
 
-> [!citation-card]- Fitz-Gibbon 论[[Effect Size\|效应量]]优于显著性
+> [!citation-card] Fitz-Gibbon 论[[Effect Size\|效应量]]优于显著性
 > 在元分析中，[[Variable\|变量]]的效应以效应量来检验——即它们产生了多大差异——而不仅仅是效应是否在某个任意水平（如 5%）上具有[[Statistical Significance\|统计显著性]]。因为使用效应量更容易关注发现的教育显著性，而不是通过统计显著性来评估其重要性，我们可能最终看到统计显著性被放在恰当的位置上——只是[[Internal Validity\|内部效度]]众多可能威胁中的一个。（Fitz-Gibbon, 1985, p. 45）
 >
 > *In meta-analysis the effects of variables are examined in terms of their effect size, that is to say, in terms of how much difference they make rather than only in terms of whether or not the effects are statistically significant at some arbitrary level such as 5 per cent. Because with effect sizes it becomes easier to concentrate on the educational significance of a finding rather than trying to assess its importance by its statistical significance, and we may finally see statistical significance kept in its place as just one of many possible [[Threats to Internal Validity]].*
 
-> [!citation-card]- Eysenck 的"垃圾进，垃圾出"格言
+> [!citation-card] Eysenck 的"垃圾进，垃圾出"格言
 > 大量报告——好的、坏的和平庸的——被输入计算机，希望人们不再关心结论所基于的材料的质量。……"垃圾进——垃圾出"是计算机专家熟知的格言；它在这里同样有力。（Eysenck, 1978, p. 517）
 >
 > *A mass of reports — good, bad, and indifferent — are fed into the computer in the hope that people will cease caring about the quality of the material on which the conclusions are based. ... 'Garbage in — garbage out' is a familiar motto of computer specialists; it applies here with equal force.*
 
-> [!citation-card]- 证据与决策的伦理维度
+> [!citation-card] 证据与决策的伦理维度
 > 在缺乏证据的情况下实施未经验证的建议，与在未经同意的情况下对医院病人使用未测试的产品和程序一样，都接近于不道德。（pp. 340–341）
 >
 > *It is bordering on the unethical to implement untried and untested recommendations in educational practice, just as it is unethical to use untested products and procedures on hospital patients without their consent.*
 
-> [!citation-card]- Glass 对平均值的警告
+> [!citation-card] Glass 对平均值的警告
 > 元分析的结果永远不应该是平均值；它应该是一张图。（Glass, cited in Robinson, 2004; cited in Wrigley & McCusker, 2019, p. 119）
 >
 > *The result of a meta-analysis should never be an average; it should be a graph.*

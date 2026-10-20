@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者区分令人愉悦的消遣活动与真正具备育人价值的智性探究活动。
 > - **边界** 不等于任何即时令人愉悦的活动；若某项活动当时愉快但阻碍了未来的生长能力，则不属于教育性经验。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 凡是能够产生生长、促进生长并为未来更广阔经验开启可能性的经验，即是教育性经验。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 >
 > *Every genuine experience has an active side which changes in some degree the objective conditions under which experiences are had... An educative experience is one that enriches the immediate experience and opens up doors to future, deeper experiences. (Dewey, 1963, p. 47)*

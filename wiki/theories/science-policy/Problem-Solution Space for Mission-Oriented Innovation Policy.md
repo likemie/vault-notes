@@ -172,7 +172,7 @@ updated: 2026-10-16
 >
 > **应用实例** 英国闭路电视监控（CCTV）政策在早期大规模铺设后遭遇犯罪控制效果不显的实证质疑，决策部门迅速进行政策反思与功能重构，将其定位调整为威慑街头反社会行为与缓解公众恐惧感，并在社区层面达成了治理对齐。
 
-> [!example]- 图1：问题–解决方案空间中的三条使命政策收敛路径
+> [!example] 图1：问题–解决方案空间中的三条使命政策收敛路径
 > ![](https://img.mylikemie.icu/sources/Wanzenbock_2020_SPP/figures/Wanzenbock_2020_SPP_Fig1_Pathways.jpg)
 
 ---

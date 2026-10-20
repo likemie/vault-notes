@@ -65,7 +65,7 @@ updated: 2026-10-16
 > [!success]
 > Dachet and Baye 综合指出，关于[[Grade Retention\|留级]]的穷尽性和批判性[[Literature Review\|文献综述]]没有识别出正向平均效果；因此，对留级只提出 2030 年减半目标，被他们评价为改革力度不足([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - [[PISA]] 2015：1 至 10 年级 46% 学生受留级影响([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.165]])。
 > - 小学：平均每年级留级率约 3%，小学结束约 22.7% 学生落后同龄人([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.169]])。
 > - 中学：平均每年级留级率约 12%，中学结束约 60% 学生落后同龄人。

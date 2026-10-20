@@ -68,7 +68,7 @@ updated: 2026-10-20
 > - **核心概念** **武力（Force）**——即为了推翻不合法的既得利益结构、执行革命性教义并进行根本重建而动用的革命性变革力量。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 > - **道德目标** 追求利益与社会的**道德统一（moral unity）**，致力于让人类朝着普遍博爱（human fraternity）的目标工作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 418–419]])
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > > 康德传统中最深层的元素是消除苦难的道德激情。 (Hedley Bull, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 >
 > > 革命主义将世界划分为两种人：忠于世界国家愿景者（Faithful）和阻碍该愿景者（Stand in its way）。忠实者是“[[Cosmopolitanism|世界主义]]者”（Cosmopolitan）而非中立的“国际主义者”，他们承担着“压倒一切的、具有传教士性质的义务”（missionary character）去促成世界国家愿景。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 418–419]])

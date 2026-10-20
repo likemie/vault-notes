@@ -71,15 +71,15 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Kelly 的核心隐喻是**人即科学家（person-as-scientist）**。个体不是被动接收刺激，而是主动寻求预测和控制事件。[[Personal Constructs\|个人建构]]是我们用于概念化日常世界的维度。不存在客观、绝对的真实——事件只有相对于个体的建构方式才有意义。教育在其框架中是必然实验性的，最终目标是个人实现和潜能最大化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 一个人的心理过程由他或她预期事件的方式所引导。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 5)]]
 >
 > *A person's processes are psychologically channelized by the ways in which he or she anticipates events.*
 
-> [!citation-card]- 终极解释
+> [!citation-card] 终极解释
 > 对人类行为的终极解释"在于审视人的事业、他提出的问题、他发起的探究路线以及他采用的策略"。（Kelly, 1969）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 4)]]
 >
 > *The ultimate explanation of human behaviour "lies in scanning man's undertakings, the questions he asks, the lines of inquiry he initiates and the strategies he employs".*
@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **方法路径** Kelly 发明的 [[Repertory Grid Technique]] 从最初的临床工具发展为广泛应用于教育、心理咨询、消费者研究和组织行为学的跨领域研究方法。Hinkle（1965）的[[Laddering\|阶梯法]]、Landfield（1971）的[[Pyramiding\|金字塔法]]、Shaw and Thomas（1978）的聚焦法都是在其基础上发展的重要变体。
 > - **跨国／跨领域传播** repertory grid 从心理治疗领域扩展到教育研究（教师认知、学生概念转变、考试评分特征、医学生身份发展）、消费者研究（Reynolds & Gutman, 1988）、信息系统评估（Crudge & Johnson, 2007）等多个领域。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍 Kelly 的理论体系及其对教育研究方法的贡献，包含基本公设、十一条推论、repertory grid 技术和教育研究应用实例。
 
 ---

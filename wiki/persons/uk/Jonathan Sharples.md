@@ -55,7 +55,7 @@ updated: 2026-10-16
 > - **核心角色** 英国证据知情教育与[[Research Translation|知识转译]]运动的核心理论家与实践推动者，主张超越生硬的医学证据本位模式，推动研究证据与教师[[Professional Judgment\|专业判断]]的深度融合。
 > - **代表贡献** 提出被国际学界广泛引用的[[Evidence-Informed Practice\|证据知情实践]]经典定义（Sharples, 2013）；主持设计 EEF 教学工具包的学校转译与实践落地指南。
 
-> [!citation-card]- 经典反脚本化定义
+> [!citation-card] 经典反脚本化定义
 > “证据知情实践不是‘按脚本行事’式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。”（Sharples, 2013, p. 7，转引自 [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]]）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*

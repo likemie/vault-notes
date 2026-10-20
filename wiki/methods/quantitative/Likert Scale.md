@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **用途** 广泛应用于[[Survey Research\|调查研究]]、心理学和教育研究，用于测量态度、信念、感知、满意度、[[Self-Efficacy\|自我效能]]等潜在[[Construct\|构念]]。它结合了灵活回应的机会与生成频率、相关和其他量化分析的能力。将二分类问题转换为评定量表非常简单：将"你是否""你有没有""你是""你能"替换为"在多大程度上""多远""多少""多经常"即可（p. 129）。
 > - **边界** 李克特量表产生的是**顺序数据**而非比率数据。评分"4"不表示是"2"的两倍感受强度。不能假设类别间存在等距。将李克特数据当作参数数据处理在统计上是不被接受的，尽管实践中存在大量违反这一规则的例子。
 
-> [!citation-card]- 单维性——Likert 量表的基石
+> [!citation-card] 单维性——Likert 量表的基石
 > 态度量表工具的一个重要特征是单维性假设——量表每次只应测量一件事。这是 Likert 本人思想的核心基石。（Oppenheim, 1992, pp. 187–188; p. 129）
 >
 > *A significant feature of the attitude scale instrument is its assumption of unidimensionality — that the scale is measuring only one thing at a time. This is a cornerstone of Likert's own thinking (Likert, 1932).*

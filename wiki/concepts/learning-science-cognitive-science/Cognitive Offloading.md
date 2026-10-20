@@ -99,12 +99,12 @@ updated: 2026-10-20
 > - 不等于 **认知惰性（Cognitive Laziness）** — 认知卸载是具体的负荷分配与外部工具调用行为策略；认知惰性是个体在认知投入意愿上的消极主观状态。无约束的认知卸载是诱发长期认知惰性的核心机制。
 > - 不等于 **捷径式学习（Shortcut Learning）** — 认知卸载是上位中性[[Construct\|构念]]（兼具建设性与破坏性分支）；捷径式学习专指学生在复杂任务中为了效率而绕过概念理解与算法推演、直接索取并复制粘贴最终解的不良卸载形态。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]]
 
-> [!citation-card]- 关键表述：知识外包与捷径学习风险
+> [!citation-card] 关键表述：知识外包与捷径学习风险
 > 在高等教育与缺乏结构化引导的情境中，学生往往将生成式 AI 主要用于文本生成和信息检索，进行表面化互动或直接将智力任务全盘委托给技术——这一现象被称为“知识外包”。学生直接复制题目并索取现成答案，跳过深层逻辑推演与关键排错环节，诱发了阻碍[[Critical Thinking\|批判性思维]]与深度学习的“捷径式学习”。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]
 >
 > *In higher education, students tend to rely on Gen-AI primarily for text generation and information retrieval, often engaging in superficial interactions or delegating intellectual tasks to the technology—a phenomenon referred to as “knowledge outsourcing”... encouraging “shortcut learning,” limiting originality and [[Divergent Thinking]].*
 
-> [!citation-card]- 关键表述：表面顺从与认识立场分化
+> [!citation-card] 关键表述：表面顺从与认识立场分化
 > 生成式 AI 提供高度整合与连贯的完整解答数据包，极易诱发学习者的表面顺从（Superficial [[Strategic Compliance|compliance]]），绕过批判性证据过滤与深入逻辑推理，导致[[Epistemic Agency\|认识主体性]]的不当卸载。学习者的认识立场（Epistemic Stances）起到了关键分流作用：[[Absolutist\|绝对主义立场]]导致对 AI 输出的全盘盲从；[[Multiplist\|相对主义立场]]导致无标准的随意拼贴；评价主义立场则能借助提示工程与交叉核验，将认知卸载限制在表层负荷削减上，把持核心评价权。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–361)]]
 >
 > *Generative AI easily tempts learners into superficial compliance and epistemic offloading, bypassing critical evidence filtering... Only an [[Evaluativist]] epistemic stance enables constructive offloading while preserving epistemic agency.*

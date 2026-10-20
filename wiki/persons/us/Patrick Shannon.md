@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 识字与阅读教育从来不是中立的神经认知技术，而是一种负载着阶级、权力和意识形态利益的社会文化实践；将阅读教学还原为孤立、机械的技能切片训练，其深层政治经济意图在于服务于商业出版寡头的垄断利润与国家技术官僚的规训控制。教育者必须运用[[Critical Policy Analysis|批判性政策分析]]透视政策的深层偏向，在真实社区语境与丰富文学情境中恢复[[Teacher Professional Agency|教师专业自主权]]与儿童的批判性民主素养。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
 
 > [!citation-card] 抵制商业去专业化与维护教师能动性（Patrick Shannon, 1989）

@@ -69,7 +69,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 学校中的研究使用不是主要受个体缺陷制约，而是由四类跨越并贯通系统的机制（信任 trust、技能发展 skills development、可持续结构 sustainable structures、关系 relationships）共同塑造；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > "研究使用在学校中并不是主要受个体缺陷制约，而是受决定信任、技能、关系与结构能否发展和富有成效地互动的系统性条件所制约。"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.18]]）
 >
 > *Research use in schools is not primarily constrained by individual deficits but by the systemic conditions that govern whether trust, skills, relationships and structures can develop and interact productively.*

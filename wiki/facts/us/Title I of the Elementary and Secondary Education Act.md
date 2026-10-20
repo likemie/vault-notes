@@ -75,7 +75,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > Title I 通过公式化联邦专项拨款向高贫困率学校注入补充性教育资源，并在 [[Every Student Succeeds Act\|ESSA]] 再授权框架下要求地方学区将资金投向具备实证因果证据支持的教育实践与干预方案，以保障公共教育投资的学业回报与教育公平。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 为低收入家庭集中学校提供补偿性财政支持，改善办学条件与教学质量，提高弱势群体的阅读与数学等核心学科[[Academic Achievement\|学业表现]]。
 > - **适用对象** 满足贫困生比例门槛（通常为 40% 以上）的公立学校及相关服务学生；分为全校范围项目（Schoolwide Programs）与目标援助项目（Targeted Assistance Programs）。
 > - **政策工具** 联邦基础拨款（Basic Grants）、集中拨款（Concentrated Grants）、针对性拨款（Targeted Grants）与教育金融激励拨款（Education Finance Incentive Grants）；在 ESSA 下硬性嵌入 Tier 1 至 Tier 4 四级法定[[Evidence Standards\|证据标准]]。
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **适用对象** K–12 阶段低收入、少数族裔、英语学习者（English Learner, EL）及有特殊教育需求的学生。
 > - **政策工具** 联邦项目资金直拨、校级全校改进项目自主权、外购商业教学软件与专业发展合同。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 167–170)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央到地方分配机制** 联邦资金按人口普查贫困数据下拨至各州，各州转拨至学区；大型学区通常将约三分之二资金按校内贫困生规模下达给各公立学校用于全校项目（采购师资编制、辅导服务、软件教材），约三分之一保留在学区中心办公室用于跨校通识培训、暑期项目及教学辅导支持。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 167)]]
 > - **合规与实质有效性断裂** 实证审计显示，在大型城市学区中，超过 95% 的 Title I 支出能够满足 ESSA 的单项合格研究宽松门槛；然而当采用跨数据库全量证据评价时，仅有不到 60%（49%–58%）的资金投向了在广泛研究中获得稳定积极效应的实践。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–177)]]
 > - **法律实施前后无显著转变** ESSA 法定证据要求在 2017–2018 学年正式落地后，学区投向循证实践的资金占比在三年跟踪期间保持基本平稳，并未产生实质性转向。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 175–177)]]
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 年度 140 亿至 165 亿美元以上联邦拨款规模、大城市学区约 500–600 美元生均 Title I 专项增量资金、各州 7% 学校改进专项基金（Section 1003）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162, 167)]]
 > - **过程指标** 全校范围项目与学区中心统筹分配比重、常规人事编制与商业软件采购流向、符合 [[Every Student Succeeds Act\|ESSA]] Tier 1–3 法定[[Evidence Standards\|证据标准]]的资金覆盖率。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 167–174)]]
 > - **结果指标** 低收入学生核心学科标准化测验成绩增值、全量[[Research Synthesis|证据综合]]评级下获得稳定积极支持的资金比例、薄弱学校学业达标出列率。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 164, 175)]]

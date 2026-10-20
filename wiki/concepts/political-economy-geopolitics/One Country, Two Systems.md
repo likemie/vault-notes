@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **分析用途** 帮助研究者剖析特别行政区教育自主权的收缩轨迹，以及历史和公民教材中关于法治、权利与国家主权修辞的变迁。
 > - **概念边界** 该制度并不授予特区固有的独立或自决权，其高度自治权的大小最终取决于中央权力的自我克制与授权水平。
 
-> [!citation-card]- 关键宪制表述
+> [!citation-card] 关键宪制表述
 > 宪法第 31 条赋予一国两制宪制地位，其终极指向是结束分裂、维护台湾及整个祖国的繁荣（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
 >
 > *“The constitutional basis is provided by Article 31 of the PRC Constitution, which was formulated in 1982 with the ultimate intention of reuniting Taiwan with the mainland.”*

@@ -74,13 +74,13 @@ updated: 2026-10-09
 > [!claim] 政策核心
 > 公民与社会发展科（CSD）是香港高中必修科目，其目标是通过精简课程内容、取消独立专题探究（[[Institute of Education Sciences\|IES]]）、改以必修内地考察，并将评估简化为通过/不通过非分级制，全面转向灌输国家安全、守法意识与爱国主义认同（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。
 
-> [!policy-design]- 政策设计与机制
+> [!policy-design] 政策设计与机制
 > - **设计目标** 纠正原[[General Education\|通识教育]]科中被指责的[[Analytical Stance\|批判立场]]偏颇、国家认知淡漠的问题，培养学生对国家和[[Zhonghua Minzu\|中华民族]]的单一认同感和归属感（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.149]]）。
 > - **适用对象** 全体高中的学生，必须在三年内完成必修课程及到内地考察（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 491]]）。
 > - **核心工具** 实施教育局统一教材评审机制，取消独立专题探究，建立内地考察团实践体系，简化外部考评为通过/不通过的合格性考试。
 > - **约束方式** 强制性高中毕业必修要求，学校与教师受到国安法行政红线的刚性约束，必须完整使用经审查合格的官方教科书教学（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141–142]]）。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 公民与社会发展科旨在让学生认识香港特区在回归后的宪制地位，包括中国对香港拥有不可争议的主权，以及总体国家安全观对香港繁荣稳定的重要性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.149, 152]]）。
 >
 > *“The replacement turned the curriculum from one encouraging critical analysis of multiple perspectives into one centred on patriotism and national security.”*（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）
@@ -105,7 +105,7 @@ updated: 2026-10-09
 
 ## 时间线
 
-> [!dev-timeline]- 政策形成与取代经过
+> [!dev-timeline] 政策形成与取代经过
 > - **2019 — 舆论定性与审查施压**
 >   - 2019-07 中国内地及本地亲北京官媒集中攻击[[General Education\|通识教育]]科，指控其教科书夹带私货，定性为社会政治危机的病根（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 488–490]]）。
 >   - 2019-12 特区政府行政长官称香港教育不能再是不设防的鸡笼，前特首董建华公开称通识科在其任内引入是失败，施加行政压力。
@@ -147,7 +147,7 @@ updated: 2026-10-09
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 总课时数从通识科的250课时压缩为150课时，取消[[Institute of Education Sciences\|IES]]，全额资助并统筹内地研学考察路线（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 491]]）。
 > - **过程指标** 评审通过教材覆盖率达100%，学校端教学及考察合规率达100%，教师宣誓效忠执行率达100%。
 > - **结果指标** 批判性思考与集体抗争讨论被完全扫除；但评估方式退化为通过/不通过引发了学业边缘化，部分学生将其视为休息课，削弱了认同建立的主动性。
@@ -184,7 +184,7 @@ updated: 2026-10-09
 > > - **中立/批评学者（2023）** pass/fail机制令学生视CSD为放松时间而不予重视，与其在教科书中灌输至高无上国家主权和认同的目的形成了结构性讽刺。
 > > - **支持政策人士（2021）** 简化考评有助于将学生从枯燥的分数竞争中解放出来，更多通过内地研学考察建立直观的、感性的家国情怀。
 
-> [!citation-card]- 反思西方学术界去殖民理论盲区
+> [!citation-card] 反思西方学术界去殖民理论盲区
 > 西方去殖民学者仅关注观念起源的殖民血统（如因法治源于英国统治而予以排斥），与威权政府的[[Cultural Relativism|文化相对论]]达成共谋，实际上背叛了香港本土的民主与自由能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
 >
 > *“Hong Kong stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.”*

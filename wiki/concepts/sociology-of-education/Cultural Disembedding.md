@@ -57,7 +57,7 @@ related_arguments:
 > - **用途** 帮助研究者分析第一代大学生/寒门学子进入精英大学时的物理与文化屏障，以及少数民族与信教学生在汉儒中心主义国家课程中体验到的结构性边缘化[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **边界** 涵盖微观阶层场域（个体在特定机构中的短暂疏离）与宏观国族场域（群体在国家统治[[Discourse|话语]]中的系统性脱嵌）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 官方主导的儒家版本将其呈现为单一汉文化的核心……要求所有民族效仿，这种叙事反而倾向于加剧文化分裂与疏离（文化脱嵌）。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]
 >
 > *“The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture ... tends to stoke cultural division and alienation.”*

@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者识别教育改革背后多元私营行动者与跨国组织的网络关系，揭示数据化评价、教育科技与技能原子化等政策工具如何重构地方教育生态。
 > - **边界** 它不限于传统公共教育的狭义私有化形式（如特许学校或教育券），而是一个涵盖教育供给、研究、政策论证和认知想象被市场逻辑全面渗透的广泛场域（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 教育已成为一项自身的经济事业，在这个事业中，无数行动者生产、交换和消费教育商品与服务，且通常是以营利为基础的。
 >
 > *Education has become an economic enterprise unto itself, in which myriad actors produce, exchange, and consume educational goods and services, often on a for-profit basis.* (Verger et al., 2016, p. 4, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]])

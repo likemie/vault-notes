@@ -98,7 +98,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- [[International Baccalaureate\|国际文凭]]的起源与早期制度形成
+> [!dev-timeline] [[International Baccalaureate\|国际文凭]]的起源与早期制度形成
 > - **1924–1925 — 日内瓦[[International Schools\|国际学校]]提出最早设想** [[International School of Geneva\|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和[[Student Mobility|跨国学生流动]]都很少，设想未进入实施，但[[General Education\|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
 >
 > - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association\|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，[[EU|欧洲共同体]]学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
@@ -126,10 +126,10 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 1925 年国际毕业会考[[Questionnaire\|问卷]]
+> [!citation-card] 1925 年国际毕业会考[[Questionnaire\|问卷]]
 > 问卷向 17 位欧洲教育改革者征询建立国际毕业会考的意见。计划没有留下回复记录，但已提出通识与专门化教育之间的课程关系问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
 
-> [!citation-card]- 1967 年塞夫尔试验方案
+> [!citation-card] 1967 年塞夫尔试验方案
 > 拉尔夫·泰勒提出，从 1969 年起以六年为期，让尽可能多国家的大学和主管机关承认由获批学校每年不超过 500 名学生取得的 IB 成绩。该提议把理念争论转化为有限规模、可观察并可扩展的资格试验。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]]
 
 ---

@@ -100,10 +100,10 @@ updated: 2026-10-16
 
 ## 争议、局限与经验教训
 
-> [!boundary] 常规采用的范围与数据含义
+> [!boundary]- 常规采用的范围与数据含义
 > 常规课程地位不能直接说明所有学校采用，也不能推定考生全部来自[[International School of Geneva|日内瓦国际学校]]。八个应用领域仅有三个例子可核对，不补造完整课程清单；课程属于1987年出版的历史记述，未提供后续运行状态。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
-> [!lessons]- 正式采用提供了后续课程推广的参照
+> [!lessons] 正式采用提供了后续课程推广的参照
 > [[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]曾尝试沿用应用化学从学校开发进入常规选项的路径。后者推广受阻说明，课程获得认可还需要其他学校具备相应教学能力；两门课程制度状态的差异可以用于分析推广条件，不能直接比较教学效果。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
 ---

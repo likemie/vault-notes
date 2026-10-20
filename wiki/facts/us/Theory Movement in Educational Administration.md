@@ -57,7 +57,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > **起点：Denver, Colorado, August 1954**
 >
 > 理论运动的起源可追溯到 1954 年 8 月在丹佛举行的全国教育行政教授会议（National Conference for Professors of Educational Administration）年会。这一以美国为中心的学派，主要代表人物是 **Andrew Halpin** 和 **Daniel Griffiths**，其许多基本原则归功于 [[Herbert A. Simon\|Herbert Simon]]（1945）的 *Administrative Behavior*([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.315]])。

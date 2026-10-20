@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者分析科学证据在大众媒介中的转化损耗、算法传播生态对公共理解的重构，以及媒体经济危机对科学公信力的系统性侵蚀。
 > - **边界** 不等于单向宣传科研成果的高校公关通稿，亦不同于追求商业变现与流量裂变的自媒体科普网红。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 科学新闻必须坚持以向公众提供准确信息而非单向说服为宗旨，保持平衡，坦诚承认证据的不确定性与局限性，并前置化解可能的公众误解；唯有坚持高质量专业采编标准，才能在数字化竞争中重建公共信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–63)]]
 >
 > *Characteristics of trustworthy communication include seeking to inform rather than persuade, being balanced, acknowledging uncertainty and limitations of the evidence, and pre-empting misunderstandings... delivering the high-quality news that the public repeatedly say they want.*

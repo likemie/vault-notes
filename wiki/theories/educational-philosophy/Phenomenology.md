@@ -230,7 +230,7 @@ updated: 2026-10-20
 > >
 > > - **[[Critical Realism|批判实在论]]反思（Wheelahan, 2012）** 批评纯粹[[Phenomenon-Based Learning|现象本位学习]]若脱离了学科知识的深层[[Ontology|本体论]]秩序，极易使学生沦为零散感官活动的体验者，失去掌握抽象、强大专门[[Discipline-Based Theory|学科理论]]（[[Powerful Knowledge]]）的机会。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 系统梳理[[Interpretive Paradigm|诠释范式]]下现象学对实证[[Objectivism|客观主义]]的批判逻辑与先验意识三要素。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024, p. 4)]] — 深入反思全球治理技能[[Discourse|话语]]对现象学生活世界的原子化侵蚀。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 从现象学身体知觉与自由生成角度，全面解构 Hattie 可见学习范式的测量狂热。

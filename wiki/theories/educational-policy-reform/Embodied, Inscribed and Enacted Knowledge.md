@@ -174,7 +174,7 @@ updated: 2026-10-20
 > > - **创新与调适论** 认为践行知识使行动者能够把抽象规则转化为情境化判断，是政策落地的[[Necessary and Sufficient Conditions|必要条件]]。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 > > - **问责盲区论** 指出践行知识转瞬即逝、难以记录，可能使关键判断脱离公开审查，削弱证据本位治理的可问责性。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - **与[[Tacit Knowledge|默会知识]]理论的关系** 具身知识承接[[Tacit Knowledge|默会知识]]传统，但更强调身体作为知识的载体与移动条件，而非仅强调“难以言说”。
 > - **与[[Actor-Network Theory|行动者网络理论]]的张力** 铭写概念与拉图尔（Latour）的“铭写装置”相近，但弗里曼与斯特迪更关注知识形态的分类与转化，而非异质行动者的网络建构。
 > - **与批判政策社会学的距离** 该框架揭示了文本背后的选择与权力，却较少追问制度性不平等与政治经济结构，因而需要与批判视角结合。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–654)]]

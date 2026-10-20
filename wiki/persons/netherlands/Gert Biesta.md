@@ -86,7 +86,7 @@ updated: 2026-10-20
 > - **核心角色** 当代反思[[Evidence-Based Education|循证教育]]运动、警惕“[[Learnification|学习化]]”（Learnification）倾向与重构教育目的论的领军学者，确立了[[Value-Based Education|价值本位教育]]与主体化维度的理论根基。
 > - **代表贡献** 提出教育目的三维框架（资格化、社会化、主体化）、构建对循证教育的三重缺陷（[[Epistemology|认识论]]、[[Ontology|本体论]]、实践论）批判模型（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）、阐发“被动性”（Passivity）与“领受教学之礼”的教育存在论哲学。
 
-> [!citation-card]- 论教育作为目的驱动的规范性实践
+> [!citation-card] 论教育作为目的驱动的规范性实践
 > 教育是一项目的性实践——一项由目的（Telos）所规约的实践。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 500)]]
 >
 > *Education is a teleological practice — a practice framed by a telos: an aim or purpose.*
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比斯塔的学术核心在于捍卫教育的目的性与规范性：教育本质上是一项由目的与价值驱动的规范性实践（Teleological and Normative Practice），具有不可化约的伦理与政治维度。他指出教育系统同时服务于三重功能——**资格化（技能与知识传递）**、**社会化（融入既有文化与制度秩序）** 与**主体化（唤醒独立自主行动与批判思考的主体）**；片面追求量化成就的循证测评将教育窄化为单一的资格化指标，严重挤压了社会化与主体化的育人空间。面对将教学退化为算法式促进的“[[Learnification|学习化]]”潮流，他主张教育实践依赖于基于[[Phronesis|实践智慧]]（*[[Phronesis]]*）的情境判断，倡导接纳教育中不可消除的脆弱性与“美丽风险”。
 
 > [!citation-card] 论教育系统三维目的论框架
@@ -148,7 +148,7 @@ updated: 2026-10-20
 > - **政策与实践路径** 深刻影响了英国、荷兰、北欧等国教师教育体系与课程哲学重构，为一线教师抗拒官僚化数据考核、捍卫课堂[[Professional Judgment|专业判断力]]（[[Phronesis|实践智慧]]）提供了关键思想武器。
 > - **跨国传播与论辩** 理论被广泛引入政策社会学与实证教育研究批判：里格利（Wrigley）援引其系统论反驳循证医学模型；罗默（Rømer）借用其被动性概念解构可见学习对被动维度的偏狭排斥；考恩（Cowen）在比较教育制度分析中印证其哲学诊断。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 系统阐述[[Evidence-Based Education|循证教育]]在[[Epistemology|认识论]]、存在论和实践论维度的三重缺陷，倡导向[[Value-Based Education|价值本位教育]]转型。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 援引比斯塔的“被动性”与“被教导”论述，批判[[John Hattie|哈蒂]]可见学习排斥被动性、割裂西方教育哲学传统的认识论缺陷。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 援引比斯塔关于教育属于“开放、递归、符号系统”的本体论论断，批判循证教育将社会情境生物学化的方法论错误。

@@ -65,7 +65,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 绿皮书强制要求所有政府公共支出提议与政策方案必须建立在严谨、系统与客观的证据评估之上，明确规定义务性比选多种政策方案、量化社会整体成本与收益，并要求在政策论证中清晰识别并妥善处理科学与经济不确定性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 81, 87)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 规范公共投资决策程序，确保财政支出实现最佳社会经济效益，消除主观臆断与单一部门利益偏倚。
 > - **适用对象** 英国中央部委政策制定者、公共机构管理层、项目评估经济学家与分析师团队。
 > - **政策工具** 五维商业论证框架（Strategic, Economic, Commercial, Financial, Management）、社会[[Cost-Benefit Analysis|成本效益分析]]（Social CBA）、乐观偏差调整（Optimism Bias）以及敏感性情景分析工具。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
@@ -97,7 +97,7 @@ updated: 2026-10-20
 > - **执行主体** 各部委政策分析司、经济学家、统计学家以及首席科学顾问（Chief Scientific Advisers, CSAs）领导的科学家团队。
 > - **监督伙伴** 英国国家审计署（National Audit Office, NAO）与议会公共账目委员会（Public [[Accounts]] Committee）。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央设计** 财政部发布法定指南与技术补充文件，要求各部门在编制重大项目商业论证时严格遵循五维框架与折现率基准。
 > - **机构执行** 各部委依据指南开展立项前置成本效益测算与多方案比选，并将实证评价结论纳入政策立项审批。
 > - **监督反馈** 国家审计署通过项目后评价开展合规审计，针对评估质量与证据透明度提出整改意见。

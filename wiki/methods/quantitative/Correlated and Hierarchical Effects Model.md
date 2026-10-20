@@ -60,7 +60,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** Level 1 [[Sampling Error\|抽样误差]]、Level 2 研究内变异、Level 3 集群/元分析间真实效应变异。
 > - **输出形式** 层级方差分量估计值（$\tau_3^2, \tau_2^2$）、异质性比率（$I_{(3)}^2, I_{(2)}^2$）及加权逆方差协方差工作矩阵 $\mathbf{V}$。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > CHE 模型结合了相关效应与层级效应的优点，通过指定近似的相关结构构建工作协方差矩阵，使得效应量多水平加权更为精准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 >
 > *We employed a correlated and hierarchical effects (CHE) working model to [[Accounts\|account]] for the simultaneous [[Presence]] of correlated outcomes within studies and hierarchical nesting across meta-analyses...*

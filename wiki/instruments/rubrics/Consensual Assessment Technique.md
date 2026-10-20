@@ -68,7 +68,7 @@ updated: 2026-10-16
 > - **测量目的** 用于对被试在真实情境下产出的显性[[Creativity\|创造性]]产品（如诗歌、故事、拼贴画、产品原型、教学设计、科学假说）进行客观、高[[Ecological Validity\|生态效度]]的创造性水平评估。
 > - **实施方式** 多名具有相关领域专业背景的独立专家评定者，依据个人内隐专业知识对样本进行匿名相对等级评定或排序。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为[[Creativity Assessment\|创造力测评]]的操作化黄金标准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3, 5)]]
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > | **施测成本** | 高（需招募并报酬多位资深领域专家） | 低（可大班集体施测、客观电脑评分） |
 > | **二阶[[Effect Size\|效应量]]** | **$r = 0.12$**（受领域专家主观方差稀释） | **$r = 0.14$**（标准化程度高） |
 
-> [!ma-table] CAT 与创造性产品评估相关[[Meta-analysis\|元分析]]
+> [!ma-table]- CAT 与创造性产品评估相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析来源 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 二阶效应量与 95% [[Confidence Interval\|CI]] | 核心结论与启示 |

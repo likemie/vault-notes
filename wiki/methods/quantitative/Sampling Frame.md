@@ -43,7 +43,7 @@ updated: 2026-10-20
 > - **用途** 为抽样提供可执行的名单或范围，使[[Random Sampling\|概率抽样]]成为可能；帮助读者判断研究结果的推广边界。
 > - **边界** 抽样框不等于总体本身——它是总体的操作性近似。抽样框总是不完美的：名单可能过时、不完整，或系统性遗漏某些子群。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 研究者需要明确什么在被代表，即正确清晰地设定更广泛总体的参数特征——抽样框。有一个人所共知的例子说明糟糕的抽样如何可能无代表性。（第8章，pp.152–153）
 >
 > *The researcher will need to be clear what it is that is being represented, i.e. to set the parameter characteristics of the wider population – the sampling frame – clearly and correctly.* (Ch. 8, pp. 152–153)

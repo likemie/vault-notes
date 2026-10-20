@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **用途** 衡量学生利用、设计与反思科学与数学表征工具的能力，是连接外部[[Scaffolding\|教学脚手架]]与内在认知发展的核心枢纽。
 > - **边界** 元表征能力超越了单一图表的绘制技能，重点在于对表征符号系统与认知功能之间的元认知觉察与批判性裁量。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 相比于低年级学生，中学生通常具备更强的元表征技能，因而能够更高效地利用[[Graphic Organizer\|图形组织器]]来组织思维并抑制无关干扰。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 >
 > *Compared to younger students, secondary school students often have stronger (meta-) representational skills, so they can use graphic organizers more effectively...*

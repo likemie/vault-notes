@@ -114,7 +114,7 @@ updated: 2026-10-20
 > - **教育政策咨询委员会（Consejo Asesor de Políticas Educativas, CAPE）** 由拉美 10 余个成员国教育部部长、副部长以及国家教育评价机构最高官员组成，专责审核 SUMMA 战略研发方向，保障研究议程与各主权国家教育优先政策的制度化咬合。
 > - **执行机构与跨学科研发团队** 执行总部设于圣地亚哥，由执行总监 Javier González 与副总监 Rafael Carrasco 领导，汇集经济学、社会学、教育学与数据科学领域的跨国跨学科研究团队（80% 以上拥有硕士学位，约三分之一获博士学位）。
 
-> [!pathways]- 证据中介与[[Knowledge Mobilisation\|知识动员]]机制
+> [!pathways] 证据中介与[[Knowledge Mobilisation\|知识动员]]机制
 > 1. **国际证据本土化校准（Global-to-Local Adaptation）** 引进英国 [[Education Endowment Foundation\|EEF]] 等国际成熟因果证据库，组织本土专家对其方法论、干预成本及适切性实施审查，完成从英语到西班牙语与葡萄牙语的语境化转译。
 > 2. **本土干预因果试验孵化（Local Evidence Generation）** 依托 EDU-LAC 影响力基金与各国教育部协同机制，在拉美本土学校一线设计并执行[[Randomised Controlled Trials\|随机对照试验]]（RCT）与准实验评估，克服全球北方证据无法直接外推的局限。
 > 3. **政策与实践端双向反馈（[[Policy Brokerage]] & Embedding）** 通过 CAPE 部长级联席会议与一线教师工作坊（如 PRISA 平台、La Voz Docente 调查），将评估发现直接嵌入各成员国教师培训大纲与国家教育拨款指南中。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **主权合作网络跨度** 常态化协同拉美和加勒比 21 个国家的教育部，成为南美、中美及加勒比区域间唯一的官方互信教育创新与证据中枢。
 > - **双语实证基建供给** 首次打破拉美教育决策过度依赖英美原文证据的语言与情境壁垒，向全大陆数百万名西语与葡语校长及教师免费提供标准化证据工具包。
 > - **政策议程塑造力** 深度参与智利国家教育质量局（Agencia de Calidad de la Educación）治理评估，为主管部门编制国家补偿性拨款与初任教师培养指南提供底层实证支撑。

@@ -71,7 +71,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > AVID 假定中等[[Academic Achievement\|学业表现]]的弱势学生并非缺乏智力潜能，而是缺乏高阶学习策略与社会资本支持；通过将学生置于高难度严格学术课程（如荣誉课程与 [[Advanced Placement Program\|大学先修课程]]）中，并在日常课表中提供一门密集辅导的 AVID 选修课作为支架，能促发学生完成从被动受助向自主学业规划的转变。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **选修支持课程（AVID Elective）** 学生在常规必修课之外，每天参加一节专门的 AVID 选修课，接受系统的学业技能与心理素质训练。
 > - **WICOR 核心教学架构** 贯穿写作（Writing）、探究（Inquiry）、协作（Collaboration）、整理组织（Organization）与阅读（Reading）五大核心支柱，强制推行康奈尔笔记法（Cornell Notes）与学生主导的问题澄清研讨会。
 > - **大学生同伴辅导机制（Tutor-Facilitated Study Groups）** 每周安排 2 次由正在就读大学的在校本科生担任兼职导师，进校主持 5–7 人的小型协作探究小组，引导学生自主剖析学科[[Homework\|作业]]疑难。
@@ -87,7 +87,7 @@ updated: 2026-10-16
 > - **AVID 专职辅导教师** 经过认证的一线教师负责讲授选修课、监督日常学业笔记、与任课教师沟通并联络家庭。
 > - **受试学生群体** 签署自愿承诺书，承诺保持良好出勤、自律管理与完成大学申请全流程。
 
-> [!pathways]- 基层学区的资金映射与采购实践
+> [!pathways] 基层学区的资金映射与采购实践
 > [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 170]]）对美国大型城市学区微观财务账目的实证穿透揭示，在高中学段，学校管理层将联邦 Title I 补偿性资金的相当比例定点采购于 AVID 项目及其配套的辅导服务。这表明 AVID 已成为美国大城市弱势高中改善大学准备度、提升高校录取率最主要的制度化采购选择之一。
 
 ---

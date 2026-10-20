@@ -84,7 +84,7 @@ updated: 2026-10-20
 >
 > *Justificatory standards are the fine-grained criteria used to evaluate knowledge claims and evidence... Rather than viewing justification as a static, decontextualized belief, standards are deeply embedded in disciplinary practices and socially negotiated through collective inquiry.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 抽象认识论信念（[[Epistemological Beliefs]]）：宏观信念仅回答“知识是确定的还是流动的”，无法预测具体的行为；确证标准直接规定了在当下情境中“什么样的理由才能算作充分证据”。
 > - 不等于 [[Epistemic Aims]]：认识目标界定探究追求什么认识成就（如因果理解）；确证标准则是检验该项产出是否合格的判准量规。
 > - 与 [[Epistemic Ideals]] 的演化承接：在 2011 年五构件模型中，确证标准涵盖了评价产出的所有准则；在 2014 年以后的 [[AIR Model of Epistemic Cognition\|AIR]] 模型及 [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 框架中，对认识产出的规范性确证标准被进一步具象化和系统化为认识论理想（[[Epistemic Ideals]]）。

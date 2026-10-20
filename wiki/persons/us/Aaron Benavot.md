@@ -108,7 +108,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在[[Educational Decentralization|教育权力下放]]与[[School Autonomy|学校自主]]的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 
 > [!citation-card] 贝纳沃特论课程趋同与本土学校分化

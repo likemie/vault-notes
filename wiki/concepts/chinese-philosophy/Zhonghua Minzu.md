@@ -70,7 +70,7 @@ related_arguments:
 > - **用途** 帮助研究者分析中国民族政策转向、历史教科书“[[Official Knowledge\|官方知识]]”构建，以及推广通用语言文字与“铸牢中华民族共同体意识”的合法性基础[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 97)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 > - **边界** 不等于单一的汉族或特定少数民族；在宪制[[Discourse|话语]]中，后者被定义为构成中华民族整体的多元元素[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 费孝通对中华民族的定义，试图将宪法中定义的多民族国家转变为具有族群多样性的单一国族。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]
 >
 > *“Fei’s definition of Zhonghua minzu attempts to turn what is defined in the PRC constitution as a multinational state into a single 'nation' with 'ethnic' diversity.”*
@@ -185,7 +185,7 @@ related_arguments:
 > > [!axis] 新清史与文明底色的冲突
 > > - **清朝身份的主权争议** — 中华民族[[Grand Theory\|宏大叙事]]无法容忍新清史学者强调清朝满族统治者内陆亚洲特异性身份的研究，官方常将其定性为分裂学术阴谋[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 106)]]。
 
-> [!critique]- 外部批评
+> [!critique] 外部批评
 > - **剥夺少数民族主体性能动性** — [[Argument_Bulag_2024_CE\|Bulag (2024)]] 指出，中华民族多元一体论述滥用[[Structural Functionalism|结构功能主义]]，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 104–105)]]。
 > - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 

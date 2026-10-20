@@ -60,7 +60,7 @@ updated: 2026-10-20
 > 2. 编制了全球通行的标准化评估工具（[[Cornell Critical Thinking Test\|康奈尔批判性思维测验]] Cornell Critical Thinking Tests 与 [[Ennis-Weir Critical Thinking Essay Test\|Ennis-Weir]] 论证论文测验）；
 > 3. 提出了 Ennis 批判性思维课程模式四分法（通用、融入、沉浸、混合）。
 
-> [!citation-card]- 批判性思维经典定义
+> [!citation-card] 批判性思维经典定义
 > 批判性思维是合理的、[[Reflexivity\|反思性]]的思维，其核心聚焦于决定我们应当相信什么或做什么。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 278)]]
 >
 > *Critical thinking is reasonable, reflective thinking that is focused on deciding what to believe or do.*

@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 当代中国的高等教育跨国输出与全球崛起深刻根植于古代[[Tributary System|朝贡体系]]的历史心智之中；大学在其中承担着不可替代的核心纽带功能，通过自主[[Knowledge Production|知识生产]]支撑国家卓越声誉，协同经贸外交促进区域联通，依托语言文化输出塑造友善形象，从而在周边构建多边非对称合作网络。[[Argument_Zhu_Yang_2025_HE|(Pan & Lo, 2018, 引自 Zhu & Yang, 2025, pp. 1044–1046)]]
 
 > [!citation-card] 大学作为新朝贡体系的连接纽带
@@ -114,7 +114,7 @@ updated: 2026-10-20
 > - **实证与政策应用** 该框架被广泛应用于检验中外合作办学空间布局、[[Confucius Institute|孔子学院]]发展、[[Belt and Road Initiative|一带一路]]跨国大学联盟及区域留[[Student Mobility|学生流动]]的动力机制。
 > - **后续范式整合** 促使后继学者进一步将新朝贡微观实践透镜与宏观[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]相结合（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用潘苏燕与卢天佑构建的高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]，基于中柬高教合作实证全面检验其解释效力，修正文化同化假设并提出[[Cultural Recognition|文化认同探索]]。
 
 ---

@@ -152,7 +152,7 @@ updated: 2026-10-20
 > 4. **基线平衡检验（[[Baseline Standardized Mean Difference|Baseline Equivalence]] Test）** 在干预前比对处理组与对照组的[[Pre-test and Post-test|前测]]得分及核心协[[Variable|变量]]，检验随机化是否成功消除组间系统性偏差。
 > 5. **后测与因果净效应估计** 收集后测结果数据，严格核查[[Attrition|样本流失]]率，计算并报告[[Effect Size|效应量]]（ES）与[[Confidence Interval|置信区间]]。
 
-> [!stat-cards] 随机分配的概率等价演示（改编自 Pilliner, 1973）
+> [!stat-cards]- 随机分配的概率等价演示（改编自 Pilliner, 1973）
 > - **20** （纸牌模拟实验） 从一副牌中选 20 张（10 红 10 黑），洗牌后随机分成两堆各 10 张，记录红黑牌分布。
 > - **1/92,378 / ≈82%** （理论概率分布）
 >   - 最可能的结果：每堆各 5 红 5 黑；

@@ -68,7 +68,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 具体的故障事件、延期项目、工作流断裂点或组织人际博弈案例。
 > - **输出形式** 多层递进因果链条诊断流程图、不指责具体个人的免责式系统审查报告与结构性纠错行动方案。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 排查任何复杂系统故障的原因，无论是企业级软件平台还是内燃机装配线，都必然要求将焦点放在系统内部的运行机制上。在帕兰提尔，我们将这一探究方法扩展到对作为软件前置条件的人际系统的剖析中……通过追踪因果链条，往往能够解开阻碍组织发展的核心死结。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 >
 > *Identifying the reasons for the failure of a system, whether it be an enterprise software platform or an assembly line for internal combustion engines, necessarily requires a focus on the inner workings and mechanics of the system at issue. At Palantir, we build on this method of inquiry to incorporate an analysis and indeed acknowledgment of the human systems that are precursors to the software that we are building.*
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 质性诊断程序与现场证据链
 
-> [!sample-panel] 现场诊断与证据收集规范
+> [!sample-panel]- 现场诊断与证据收集规范
 > | 维度 | 具体规范与操作要求 |
 > |---|---|
 > | **材料来源** | 系统监控日志、Git 代码提交与审查记录、财务预算与编制调整单、考核制度文件、当事人[[In-depth Interview\|深度访谈]]记录。 |
@@ -206,5 +206,5 @@ updated: 2026-10-20
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]] — 详述[[Taiichi Ohno|大野耐一]]丰田机械排查案例与[[Palantir Technologies|帕兰提尔]]二十年间开展数千次五问法复盘以穿透软件交付延期至高层人际博弈的实战案例。

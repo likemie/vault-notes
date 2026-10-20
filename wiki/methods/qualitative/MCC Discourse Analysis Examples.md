@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 #### 示例 1：EA 母亲与儿子 Neil（差学习）
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: How did you feel when you brought home a P?
 >    母：你把 P 带回家时感觉如何？
@@ -96,7 +96,7 @@ updated: 2026-10-16
 
 #### 示例 2：TW 母亲与儿子 Wei（差学习）
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Do you remember that mom told you... to review your schoolwork
 >       before you come home from school? You should look at your schoolwork
@@ -144,7 +144,7 @@ updated: 2026-10-16
 
 #### 示例 3：EA 女孩 Kate 的反驳
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: ...So do you think when you get home from school... is it because you
 >       want to relax and maybe have a snack or play a game or something,
@@ -186,7 +186,7 @@ updated: 2026-10-16
 
 #### 示例 4：TW 女孩 Ruli 的反驳
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: When you write, you need to write slowly.
 >    母：你写字的时候要慢慢写。
@@ -241,7 +241,7 @@ updated: 2026-10-16
 
 #### 示例 5：EA 母亲教女儿 Sue 寻求帮助
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: So if there's something in, like, you don't really have trouble except
 >       in math so far right?
@@ -312,7 +312,7 @@ updated: 2026-10-16
 
 #### 示例 6：TW 母亲教女儿 Lanyi 纠正写字错误
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Your mind runs fast, and relatively speaking, this makes mom very
 >       happy, but there is one thing about you that makes me stressed out.
@@ -387,7 +387,7 @@ updated: 2026-10-16
 
 **对话 A：Ed 和"聪明人"**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: You really liked Harriet Tubman's [book] too, huh?
 >    母：你也很喜欢 Harriet Tubman 那本书，对吧？
@@ -448,7 +448,7 @@ updated: 2026-10-16
 
 **对话 B：Kevin 和拍照式记忆**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. C: ...someone said air and I said oxygen. So I basically was... naming all
 >       of the categories but using a scientific name for them.
@@ -527,7 +527,7 @@ updated: 2026-10-16
 
 **对话 C：[[Benevolence]] 和"为什么你要认真上课？"**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Oh, why does your teacher think that you behave well?...
 >    母：哦，为什么老师觉得你表现好？……
@@ -593,7 +593,7 @@ updated: 2026-10-16
 
 **对话 D：Jia 和在表扬中继续推动**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: ...what's more, you still need to make extra effort; your composition
 >       writing needs to be strengthened. Tell me... you go deep in reading
@@ -656,7 +656,7 @@ updated: 2026-10-16
 
 **对话 E：Tim 和妈妈一起解决数学问题**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: ...I wanted to talk to you about... that time when you had that one
 >       math paper that "Oh my goodness!" like mostly everything was wrong
@@ -723,7 +723,7 @@ updated: 2026-10-16
 
 **对话 F：Nina 做研究**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: ...but I like that you... do the research part and do it correctly, and you
 >       read the books you're supposed to read, so that you know... what you're
@@ -770,7 +770,7 @@ updated: 2026-10-16
 
 **对话 G：Ming 和游泳**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: My boy, I'd like to talk about your swimming because I think that
 >       you are great at swimming. Am I right?
@@ -871,7 +871,7 @@ updated: 2026-10-16
 
 **对话 H：Wei 和钢琴"二重唱"**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: I thought that the best thing to do was for you take initiative... to
 >       hurry to learn how to play "Für Elisa!"
@@ -949,7 +949,7 @@ updated: 2026-10-16
 
 #### 示例 11：EA 母亲引导儿子 Tom 感受"享受"
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: And did you enjoy that part of it?
 >    母：那你享受那部分吗？
@@ -993,7 +993,7 @@ updated: 2026-10-16
 
 #### 示例 12：TW 母亲引导儿子 Sheng 感受"勇气"
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: You got your new belt, didn't you?
 >    母：你拿到了新腰带，对吧？
@@ -1048,7 +1048,7 @@ updated: 2026-10-16
 
 **对话 I：Evan 和青蛙数学**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Do you think it's interesting to learn about math?
 >    母：你觉得学数学有趣吗？
@@ -1080,7 +1080,7 @@ updated: 2026-10-16
 
 **对话 J：Shelley 和戏剧 vs 读书**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: You were learning things but it was fun, wasn't it?
 >    母：你在学东西但很有趣，对吧？
@@ -1125,7 +1125,7 @@ updated: 2026-10-16
 
 **对话 K："辛苦中有快乐啊！"**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Hmm, would you like to become a natural scientist later on?
 >    母：嗯，你以后想成为自然科学家吗？
@@ -1157,7 +1157,7 @@ updated: 2026-10-16
 
 **对话 L：Wenyi 从害怕中文到喜欢中文**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: ...why did you feel it hard to spell words, but now you feel easy?
 >       Before you were afraid of Chinese, and you didn't like it, but why did
@@ -1205,7 +1205,7 @@ updated: 2026-10-16
 
 **对话 M：Ian 和莎士比亚 — 两种[[Pride in Learning|骄傲]]**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Oh cause it was something you really liked... because everyone was
 >       impressed...
@@ -1236,7 +1236,7 @@ updated: 2026-10-16
 
 **对话 N：Yun 和象棋比赛 — 从反败为胜到生活原则**
 
-> [!example]- 原始对话
+> [!example] 原始对话
 > ```
 > 1. M: Mom was very moved that time.
 >    母：妈妈那次非常感动。

@@ -78,14 +78,14 @@ updated: 2026-10-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第27章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第27章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_27_Concept_Map.jpg)
 
 ## 章节内容
 
 教育研究可调用的[[Visual Data|视觉媒体]]种类繁多，包括照片、影片、录像、[[Artefact|器物]]、图画、地图、漫画等，凡是能被观看与注视的材料都可作为视觉数据。视觉数据既为教育研究提供了文字与数字难以承载的独特资料通道，也因其制作、观看与解读过程的选择性和多义性，要求在收集之前就处理图像的选择性、解读的[[Reflexivity|反身性]]以及随之而来的[[Informed Consent|知情同意]]与匿名化等伦理问题。相关内容可与第32章（视觉数据的分析）衔接阅读。
 
-> [!abstract]- Box 27.1　议题清单
+> [!abstract] Box 27.1　议题清单
 > 视觉数据收集的规划与实施涉及一系列议题：
 > - **照片与静态图像** 如何以照片收集与激发资料
 > - **影片与动态图像** 如何以录像记录情境与互动
@@ -166,7 +166,7 @@ updated: 2026-10-16
 
 #### 论证链：为什么视觉图像不能当作客观现实
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 核心主张建立在一条可拆解为多层的推理链上。图像的制作者、图像本身与观看者共同决定图像的意义，因此视觉数据必须被当作现实呈现而非客观事实。
 
 > [!chain-link] 图像作为现实呈现的论证
@@ -284,7 +284,7 @@ updated: 2026-10-16
 > [!claim] Schein（1992）：器物是组织文化最可观察的层次
 > 器物是[[Organizational Culture\|组织文化]]三个层次之一，也是唯一可直接观察的层次，另外两层是价值观与深层规范。器物的外显形态包括着装规范、建筑、地位符号、标志、家具、办公空间、所采用的技术及其使用位置、使命宣言与物理场所（Buch & Wetzel, 2001）。器物是文化的可见指示物，但难以解读，它们可能提示一个群体在做什么，却不能说明他们为什么这样做（27.4）。
 
-> [!example]- Box 27.2　两间教室的器物对比
+> [!example] Box 27.2　两间教室的器物对比
 > 一边是昏暗、空旷、陈设简陋、没有真正设施或装饰、角落只有几盆干枯盆栽、没有多余饰物或展示的教室；另一边是明亮、有趣、设备齐全、有布告与展示、有学生作品与正在使用的最新交互式白板的教室。器物差异可能指向什么？
 >
 > - 有些教室是沉闷、令人沮丧的地方，另一些则令人振奋、有趣
@@ -356,32 +356,32 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- Rose 论图像的非中立性
+> [!citation-card] Rose 论图像的非中立性
 > 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。（27.1）
 >
 > *[[Visual Data\|visual images]] are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007, p. 26)*
 
-> [!citation-card]- Berger 论观看之道
+> [!citation-card] Berger 论观看之道
 > 我们拥有观看之道，观看总是带着自身的方式。（27.1）
 >
 > *As Berger (1972) made clear, we have "ways of seeing".*
 
-> [!citation-card]- Harper 论照片引谈访谈
+> [!citation-card] Harper 论照片引谈访谈
 > 照片引谈访谈以照片作为访谈的起点或主要内容，照片唤起受访者的讨论与记忆。（27.1–27.2）
 >
 > *The "[[Photo-elicitation\|photo-elicitation interview]]" (Harper, 2000, p. 725) uses photographs ... as starting points for interviews or as main elements of interviews.*
 
-> [!citation-card]- Banks 论照片作为中性第三方
+> [!citation-card] Banks 论照片作为中性第三方
 > 在照片中拥有共同／共享的焦点，把照片这一中性第三方引入访谈。（27.2）
 >
 > *Having a common/shared focus in the photograph introduces a "neutral" third party (the photograph) into the interview. (Banks, 2007, p. 66)*
 
-> [!citation-card]- Schein 论[[Artefact\|器物]]与[[Organizational Culture\|组织文化]]
+> [!citation-card] Schein 论[[Artefact\|器物]]与[[Organizational Culture\|组织文化]]
 > 器物可能提示一个群体在做什么，却不能说明他们为什么这样做。（27.4）
 >
 > *Artefacts may suggest what a group is doing, but not why. (Schein, 1992)*
 
-> [!citation-card]- Prosser et al. 论视觉方法对伦理的挑战
+> [!citation-card] Prosser et al. 论视觉方法对伦理的挑战
 > 视觉方法及其产生的数据，挑战了以文字与数字为基础的研究所伴随的部分伦理实践，尤其是[[Informed Consent\|知情同意]]、匿名与保密以及传播策略。（27.5）
 >
 > *[[Visual Research Methods\|visual methods]], and the data they produce, challenge some of the ethical practices associated with word and number based research, in particular around informed consent, [[Anonymity in Research\|anonymity]] and [[Confidentiality]], and dissemination strategies. (Prosser et al., 2008, p. 2)*

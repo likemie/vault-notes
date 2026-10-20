@@ -68,7 +68,7 @@ updated: 2026-10-16
 > [!claim] 核心干预／机制假说
 > 该计划假定：通过在市镇层面整合跨部门教育与社会人口学数据、定期编制标准化地方教育报告（Kommunale Bildungsberichterstattung）并引入第三方智库与基金会提供管理咨询，地方政府能够建立起超越传统学校围墙的[[Lifelong Learning\|终身教育]]治理网络，实现对弱势群体学业过渡的精准干预（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **四大核心功能支柱**
 >   - **地方教育监测（Kommunales Bildungsmonitoring）** 整合统计局、学校局与青少年福利部门数据，定期发布量化地方教育报告。
 >   - **地方教育管理（Kommunales Bildungsmanagement）** 建立跨部门联席决策机构，协调学前保育、义务教育与职业培训衔接。

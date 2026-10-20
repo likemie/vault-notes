@@ -79,7 +79,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体或嵌入特定人际关系网络中的社会行动者。
 > - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview\|质性访谈]][[Transcription in Qualitative Research\|转录]]材料或探索性[[Questionnaire\|问卷]]数据形式呈现。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 滚雪球抽样在[[Sensitive Research\|敏感研究]]中通常被称为网络化，旨在强调其借助社会关系链来规避行政审查与[[Gatekeepers\|守门人]]门槛的核心功能。每一波推荐不仅扩大了样本，同时也由于人际背书而在研究者与参与者之间建立了一层安全保护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]]（引自 Lee, 1993, p. 66）
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 资料与进入现场
+> [!sample-panel]- 资料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 城乡学校教师与校长[[Qualitative Interview\|深度访谈]]、农村进城[[Peidu\|陪读]]家庭口述叙事、教育行政人员半结构化访谈。 |

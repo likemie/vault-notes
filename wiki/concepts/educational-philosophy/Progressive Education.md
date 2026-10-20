@@ -80,7 +80,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者解构传统与现代教学法的阵营分歧，分析跨国教育政策借用中的理念变异、教学法转译与制度张力。
 > - **边界** 进步教育不等于无结构的放任自流，也非脱离中观社会情境的纯心理学[[Constructivist Paradigm\|建构主义]]；在硬性考核环境下，其理想型民主育人维度常受限于统一大纲与高利害[[Test-Based Accountability\|考试问责]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 进步主义教育改革的目标是将强调服从的严格学术式教学，替换为更加关注儿童发展的教育体系。（p.102）
 >
 > *"progressive educational reform's goal as the replace of the strict academic style of teaching that stressed obedience into an educational system that was more focused on the child's development"* Zilversmit (1993, p. 18, 引自 [[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p. 102]])

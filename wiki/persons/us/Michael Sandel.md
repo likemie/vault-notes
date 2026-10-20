@@ -105,7 +105,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 迈克尔·桑德尔指出，自由主义试图在重大道德与精神争议中保持绝对中立的企图注定是一场幻觉。当现代社会因害怕争议而要求公民将道德和精神信念留在公共广场之外时，留下的真空绝不会保持中立，而是迅速被不受约束的[[Market Triumphalism|市场必胜论]]（Market Triumphalism）所填补；科技企业领导人普遍臣服于这种市场逻辑，任由商业变现与资本估值取代对企业社会价值的自主思考。重建充满生机的民主生活与[[Technological Republic|技术共和国]]，必须打破道德不可知论，勇于在公共广场开展具有实质道德共鸣与公共善抱负的哲学辩论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---

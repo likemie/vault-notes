@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元[[Cosmopolitanism|世界主义]]向单极霸权主义的[[Geopolitics|地缘政治]]立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 ---

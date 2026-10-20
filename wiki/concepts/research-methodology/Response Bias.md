@@ -47,7 +47,7 @@ updated: 2026-10-16
 
 从更广泛的跨文化和方法论角度看，回应偏差涵盖了研究参与者以系统不同方式回应项目、元素、[[Construct|构念]]或量表的现象——不仅关乎"谁不回应"，还关乎"回应者如何被自身文化和研究情境塑造了回答"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
-> [!citation-card]- Fowler 对回应偏差的定义
+> [!citation-card] Fowler 对回应偏差的定义
 > 偏差意味着若非回应者做出了回应，他们的回答将显著改变调查的整体结果。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 >
 > *Bias means that if nonrespondents had responded, their responses would have substantially changed the overall results.*
@@ -80,7 +80,7 @@ updated: 2026-10-16
 > - **波次分析（Wave Analysis）** 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据假设：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 > - **回应者/非回应者对比** 电话联系少数非回应者，询问几个关键问题，比较他们的回应与已回应者是否存在实质性差异。这是一种对回应偏差的直接检查。
 
-> [!tip]- Hudson and Miller (1997) 降低[[Questionnaire\|问卷]]无回应偏差的十二项策略
+> [!tip] Hudson and Miller (1997) 降低[[Questionnaire\|问卷]]无回应偏差的十二项策略
 > - 附上贴邮票的回邮信封；多轮追踪请求回寄（最多三轮）
 > - 强调问卷的重要性和益处，特别是对目标群体
 > - 向未回寄者提供已回寄者的期中数据以卷入研究

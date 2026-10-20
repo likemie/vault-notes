@@ -62,7 +62,7 @@ updated: 2026-10-16
 > - **测量目的** 评估个体在日常真实生活情境中自主产生、思考与玩味各种新颖构想的自发行为频次，作为反映“[[Creativity\|创造潜能]]（Creative Potential）”的核心行为测量指标。
 > - **实施方式** 纸笔或线上自陈量表。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 伦科观念行为量表基于这样一种测量假设：经常在日常生活中产生大量想法的人更有可能在特定任务中产出高水平的创造性构想；它为评估不受标准化纸笔测验时间限制的日常创造潜能提供了高效工具。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 >
 > *The Runco Ideational Behavior Scale assesses the use of, appreciation of, and skill with ideas, capturing everyday creative potential beyond artificial testing conditions.*

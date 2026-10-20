@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展与职能演进
+> [!dev-timeline] 组织发展与职能演进
 > - **2006–2010 — 创设奠基与测评体系本土化** 依据 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 2006 年[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]正式创设，整合汉堡原有的分散评估机构。初期聚焦于研发契合汉堡[[Dual School System\|双轨制学制]]的 KERMIT（Kompetenzen ermitteln）全州统一能力诊断测试，确立从小学到高中的标准化测评基准。
 > - **2011–2018 — [[Data Infrastructure\|数据基础设施]]制度化与社会指数研发** 主导开发“汉堡社会指数”（Hamburger Sozialindex），依据全州普查家庭背景数据将全州学校划分为 1–6 级，奠定了补偿性教育资源精准配置的科学基石；同步上线面向校长的“学校一览表”（SchÜb）数字化概览系统，推动数据向[[School Autonomy|校本管理]]下沉（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
 > - **2019–至今 — 跨国比较视域下的形成性模式示范与深层协同** 在跨国教育治理研究中，IfBQ 被广泛确立为欧洲低利害形成性治理的典范（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）。该机构在坚持去排名、去高利害淘汰的前提下，与汉堡州立师训与学校发展研究所（Landesinstitut für Lehrerbildung und Schulentwicklung, LI）深度协同，为基层校长开展同侪案例会商（Kollegiale Fallberatung）提供客观实证支撑。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **跨州与联邦协调枢纽** 作为汉堡向联邦层级 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 呈报教育统计数据的法定权威接口，确保地方数据符合全国[[Commensuration\|通约]]标准（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, p. 7]]）。
 > - **学校与师训协同网络** 与 LI 建立紧密联动机制，IfBQ 负责诊断问题与生产数据，LI 负责依据数据提供针对性教师专业研训与校本咨询方案。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **全州统一测评与标准化采集** 每年常态化组织实施 KERMIT 能力测试与全德统一的 VERA 测评，覆盖汉堡全部公立中小学各关键年级。
 > - **多源数据清洗与通约建模** 将学生测验得分、生源[[Socioeconomic Status|家庭社会经济背景]]数据与学校组织特征进行匹配，依托统一算法消除生源背景干扰，生成具有统计可比性的公平诊断基准。
 > - **非公开单页仪表盘反馈（SchÜb）** 开发高度浓缩的单页可视化工具“学校一览表”（Schule im Überblick），仅面向该校校长与责任督学内部定向反馈，严禁向公众开放或制作学校排行榜（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与政策渗透
+> [!indicators] 影响力维度与政策渗透
 > - **全州学校 100% 覆盖** IfBQ 的测评系统与社会指数算法全面覆盖汉堡全州数百所中小学，成为汉堡教育行政配置资源与评估质量不可或缺的基础基础设施。
 > - **再分配正义的制度化支撑** 通过社会指数 1–6 级的科学测算，汉堡市政府成功打破了“一刀切”财政拨款模式，使处于薄弱社区的学校获得多达 2–3 倍的编制倾斜与专项经费扶持。
 > - **抵御高利害问责的制度防线** 严格遵循去排名的假名化数据管理规程，有力抵制了新自由主义绩效排名的渗透，有效保护了教师群体的专业自主权与职业安全感。

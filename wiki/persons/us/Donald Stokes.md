@@ -126,7 +126,7 @@ created: 2026-10-02
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（纯基础研究）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 
 > [!citation-card] 樊春良论斯托克斯与冷战后科学契约的再协商

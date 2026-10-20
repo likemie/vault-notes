@@ -79,7 +79,7 @@ updated: 2026-10-17
 
 #### 概念地图
 
-> [!knowledge-map]- 第31章　[[Concept Mapping|概念地图]]
+> [!knowledge-map] 第31章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_31_Concept_Map.jpg)
 
 #### 章节内容
@@ -629,7 +629,7 @@ updated: 2026-10-17
 
 #### 关键引用
 
-> [!citation-card]- 反身性披露并不消除偏见
+> [!citation-card] 反身性披露并不消除偏见
 > 可以说明自己的可能偏见与解释，但这不必然阻止它们继续带有选择性和偏向。（第31章，§31.2）
 >
 > *I can state my possible biases and interpretations but that does not necessarily stop them from being selective and biased.*

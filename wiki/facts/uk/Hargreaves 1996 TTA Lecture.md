@@ -40,7 +40,7 @@ updated: 2026-09-17
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > - **1996 年 4 月** — David Hargreaves 在 [[Teacher Training Agency]] (TTA) 年度讲座上发表题为 Teaching as a research-based profession: Possibilities and prospects 的演讲。
 > - Hargreaves 将教育与医学进行了不利比较——在医学领域，研究更有效地为专业实践提供信息。
 > - 尽管他明确拒绝教育应简单复制医学的建议，但论证教育应像医学一样寻求研究与专业实践之间更有生产力的关系。

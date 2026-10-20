@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - 社会博物馆学的国际理论源头可追溯至 1972 年智利圣地亚哥圆桌会议和 1984 年魁北克宣言——后者正式提出"新博物馆学"（new museology）概念，强调博物馆的社会角色
 > - 在巴西，Mário Moutinho (2007) 系统阐述了社会博物馆学的理论框架，Mário Chagas (2001) 在[[Ecomuseology\|生态博物馆]]和社区博物馆实践中发展了其方法论
 > - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例实践中，将社会博物馆学和生态博物馆学作为 [[Ganz-Methode]] 的实证基础之一。这些案例展示了社区居民如何通过保存和讲述自身历史来承载与[[Official Knowledge\|官方知识]]模式的张力([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.107, 110]])
@@ -78,7 +78,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm\|范式]]之间的张力是"意义张力"在文化制度领域的呈现。社会博物馆学实践展示了一种在旧秩序（专家权威）内部培育新范式（社区权威）的方式([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–111]])
 > - [[Ganz-Methode]] — 社会博物馆学的操作逻辑与 Ganz-Methode 两步法契合，是该方法的实证基础之一([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 112–113]])
 > - [[Decolonial Geopolitics of Knowledge]] — 社会博物馆学是 Mignolo 式去殖民[[Epistemology\|认识论]]在博物馆制度内的具体实践：以社区居民的知识权威替代西方博物馆学的专家权威([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 110]])

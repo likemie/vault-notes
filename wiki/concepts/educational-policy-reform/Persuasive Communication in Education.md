@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **应用分析** 用于解构教育培训市场中的伪科学炒作、商业教育软件的营销话术以及自上而下政策推销中的修辞包装。
 > - **对应防线** 呼唤教育者确立批判性[[Analytical Stance\|分析立场]]（Analytical Stance）并发展[[Research Literacy\|研究素养]]，学会剥离修辞表象审视证据质量。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “为什么某些教育创新能在学校中风靡一时？Carrier 的研究表明，这往往取决于推广者使用了怎样的说服性沟通策略，而非该方案是否拥有严谨的研究证据支撑。”[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!boundary]- 概念边界

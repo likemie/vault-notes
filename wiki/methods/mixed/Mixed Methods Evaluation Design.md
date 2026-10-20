@@ -67,7 +67,7 @@ updated: 2026-10-16
 > - 通过访谈、观察和文件分析来跟进项目效果并完善方案
 > - 整合：用质性数据解释量化结果（对应 **[[Explanatory Sequential Design\|解释性序列设计]]**）
 
-> [!example]- 图10.6：混合方法评价设计图
+> [!example] 图10.6：混合方法评价设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-6_Mixed_Methods_Evaluation_Design.jpg)
 
 ---

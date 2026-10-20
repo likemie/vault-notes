@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者评估强调批判思考、反思审议与学生主体参与的课程（如 IB [[Theory of Knowledge\|TOK]] 课程）。
 > - **边界** 不等于无目标的混乱探究；它依靠严格的探究程序原则与理性批判标准。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 过程模式将课程视为在课堂中交流知识本质原则的尝试，而非预先指定行为结果的说明书。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
 >
 > *Curriculum as process is an attempt to communicate the essential principles and features of an educational proposal... not in terms of pre-specified behavioral outcomes. (Stenhouse, 1975; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 66]])*

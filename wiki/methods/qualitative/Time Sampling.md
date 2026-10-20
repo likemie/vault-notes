@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 [[World Bank|世界银行]]在研发 Teach 工具时，系统确立了瞬时定格快照作为时间抽样法的标准[[Operationalization|操作化]]形态。
 
-> [!citation-card]- 世界银行对定格快照时间抽样的操作化界定
+> [!citation-card] 世界银行对定格快照时间抽样的操作化界定
 > 在任务在轨时间要素中，观察员实施 3 次历时 1 至 10 秒的全班“定格快照”（Snapshots），且仅利用扫视当下所收集的即时信息进行编码。对于首个指标，观察员通过判断‘是’或‘否’来记录教师是否正在为绝大多数学生提供学习活动；若教师正在教学，观察员从左至右快速扫视全班以判定学生是否在轨。如果在快照扫视瞬间仅有 0 或 1 名学生离轨，记为高；若有 2 至 5 名学生离轨，记为中；若有 6 名及以上学生离轨，则记为低。若教师未提供教学活动，第二项指标直接记为不适用（N/A）。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 16)]]
 >
 > *"For the Time on Learning element, observers will take 3 'snapshots,' or 1–10 second scans of the classroom, and use only information gathered during the snapshot to code the behaviors... scan the classroom from left to right to determine whether students are on task."*
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 在复杂课堂情境中，时间抽样法依赖标准化的现场进入与质性判断纪律。
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 现场真实中小学课堂环境或标准时长教学视频语料库。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 4, 14)]] |

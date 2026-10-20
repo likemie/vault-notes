@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **技术联合体与承包商监管** 负责选拔并监督由[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）等机构组成的国际研发联合体。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 > - **领域功能专家组（Subject Expert Groups）** 在阅读、数学、科学及创新领域设立专业顾问委员会，负责将 PGB 确立的政策诉求转化为具体的心理测量技术框架。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 197)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 依据成员国经济与社会发展需求，确定每轮 [[PISA]] 测评的轮换主测领域与创新素养模块。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 > - **契约管理与质控审计** 严密把关技术承包商提交的命题规程、双向翻译[[Back Translation|回译]]标准与抽样方案，确保跨国等值性与政治可[[Reliability|信度]]。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **参与国政策绑定深度** 从 1997 年首批 30 余国扩展至覆盖全球 80 余个国家和经济体的主流教育行政体系。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 > - **国家教育优先项重塑** 推动各国教育部高级官员将本国课程改革与问责体系紧密对标 [[PISA]] 所界定的素养标准。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 

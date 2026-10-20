@@ -57,7 +57,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2012–2013 — 工具跨国转译与本土化设计** ANVUR 与 [[Council for Aid to Education\|CAE]] 合作，将大学学习评估（[[Collegiate Learning Assessment\|CLA+]]）真实文档库表现任务（Performance Tasks）翻译并进行意大利文化本土化调试，命名为 TECO（Test sulle Competenze）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **2013–2014 — 小规模预试与量规校准** 在部分高校开展小规模试测，组织意大利本土高校教师参加评分一致性培训（Calibration）。
 > - **2015 — 全国性大规模试验施测** 在全意 23 所公私立大学对 6,000 余名本科生进行全真施测与效度检验。
@@ -66,7 +66,7 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 项目核心定位
+> [!citation-card] 项目核心定位
 > 意大利大学生素养测验（TECO）旨在评估本科生跨学科的通用[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]与书面论证能力，为国家质保与大学自我诊断提供客观增益证据。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 >
 > *TECO aims to assess undergraduate students' transversal competencies in critical thinking, problem-solving, and written communication to support institutional self-assessment and quality assurance.*

@@ -189,7 +189,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。

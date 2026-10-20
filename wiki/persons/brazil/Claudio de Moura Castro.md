@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **核心角色** 在比较教育学与国际发展研究中扮演关键的“圈内反思者”与制度解构者角色；打破了外界将多边金融机构抽象妖魔化或盲目崇拜的二元对立，从金融发债结构、组织行政亚文化、主权借贷博弈与执行评估异化等实务微观机制，深刻揭示了[[International Education|国际教育]]治理的真实运作图景与制度边界。
 > - **代表贡献** 阐明[[Multilateral Development Bank|多边开发银行]]作为“主权信用合作社”的金融本质；提出国际教育治理中的“思想与资金双轮驱动论”并揭示缺乏信贷杠杆的“免费建议廉价性悖论”；系统确立[[Counterpart Funds|对等配套资金]]在抵御政客走马灯轮替与导致项目拖延的双重制度效应；与维尔迪斯科（A. Verdisco）合作揭示多边银行“方案设计端为学习型组织、执行评估端为非学习型组织”的深层体制矛盾；力推拉美职业技术教育现代化与普职分流改革。
 
-> [!citation-card]- 圈内高阶官员的参与反思定位
+> [!citation-card] 圈内高阶官员的参与反思定位
 > 本文并非源于纯粹书斋式的文本阅读，尽管相关理论著述有助于概念化这些问题。作者曾长期在世界银行与泛美开发银行担任高级官员，并始终保持着审慎的外部观察视角。这种独特的双重身份赋予了叙事难得的第一手实务观察，是一次将内部高阶亲历经验上升为系统制度反思的真诚尝试。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 455]]）
 >
 > *This essay is not the result of reading books and papers – even though some writings are helpful to better conceptualize the issues. The author has been an officer of both banks, as well as a close observer from the outside. This brings to the narrative a first-hand perspective and an effort to make sense out of a personal experience as an insider.*

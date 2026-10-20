@@ -67,7 +67,7 @@ updated: 2026-10-20
 >
 > *According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell and Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered. The fund of everyday knowledge by means of which we are able to typify other people’s behaviour and come to terms with social reality varies from situation to situation. We thus live in a world of multiple realities, and social actors move within and between these with ease.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 刻板印象（Stereotype） — 刻板印象是僵化、带有价值偏见与情绪偏执的定型观念；类型化则是人类认知与日常社会交往得以可能的中性本体机制。
 > - 不等于 科学分类法（Scientific Taxonomy） — 科学分类追求严格的形式逻辑与互斥边界；类型化是充满[[Phronesis\|实践智慧]]、模糊边界与情境弹性的常识手头知识。
 > - 不等于 [[Indexicality\|索引性]] — 索引性指言行意义对即时情境的深层依赖；类型化则是行动者借助通用图式克服索引性、实现相互理解的认知中介。

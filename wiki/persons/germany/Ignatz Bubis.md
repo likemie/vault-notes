@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **核心角色** 战后德国道德权威与大屠杀历史正义的坚定捍卫者，在维护反法西斯历史共识与抵制历史修正主义中处于核心枢纽。
 > - **代表贡献** 在 1998 年和平奖典礼上拒绝为瓦尔泽起立鼓掌，公开发表“精神纵火”（*geistige Brandstiftung*）批评，引爆了关乎德国立国道德根基的[[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 那天观众席中有一位孤独的身影拒绝起立鼓掌。德国犹太人中央理事会主席、国内道德权威巨人伊格纳茨·布比斯（Ignatz Bubis）认为，瓦尔泽的言论虽然极力用旨在防范反犹主义指控的措辞加以掩饰，但实质上极具破坏性，威胁着将国家引向倒退而非前行。演讲次日，布比斯向德国媒体发表声明，指责瓦尔泽犯下了“精神纵火”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 >
 > *A lone figure in the audience that day declined to stand and applaud. Ignatz Bubis, the chair of the Central Council of Jews in Germany and a towering figure of moral authority in the country, believed that Walser’s remarks, while strenuously couched in language aimed at providing cover against charges of antisemitism, were essentially divisive, threatening to take the country back, not forward. The day after the speech, Bubis issued a statement to the German press accusing Walser of “spiritual arson,” or geistige Brandstiftung.*
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 对纳粹大屠杀罪责的公开、制度化铭记与忏悔是战后德国重返文明世界、确立宪政爱国主义（Verfassungspatriotismus）不可动摇的道德基石；任何试图以“厌烦耻辱展示”或“道德大棒”为由将奥斯威辛私有化、相对化或边缘化的企图，都是危险的“精神纵火”，将为极右翼历史修正主义与反犹主义复活打开缺口。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
 > [!citation-card] 布比斯论对大屠杀记忆的公共责任底线
@@ -98,7 +98,7 @@ updated: 2026-10-20
 > - **少数族裔与公民权利保障** 强化了德国犹太人社群及其他少数群体在联邦共和国作为平等主体的政治发声权与尊严保障。
 > - **地缘战略与国家认同反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中分析布比斯与瓦尔泽的辩论，指出该论战揭示了战后欧洲在彻底否定历史罪责与重建有效国家认同与防务威慑意志之间的深刻张力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 以布比斯对瓦尔泽的批驳为切入点，探讨德国由于沉重历史记忆导致国家认同与防卫意志长期受抑的深层地缘困境。
 
 ---

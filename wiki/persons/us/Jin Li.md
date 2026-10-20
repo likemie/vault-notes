@@ -85,7 +85,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 > - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 > - 1977 年通过文革后首届[[Gaokao\|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge\|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik\|教学理论]]，实质接受了具有德国色彩的[[Liberal Education\|博雅教育]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.3]])
@@ -111,7 +111,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 > Li 的核心理论主张是：东亚与西方各自拥有系统而完整的学习[[Cultural Models\|文化模型]]（cultural learning models），两种模型分别植根于不同的知识传统与价值取向，并在儿童的学习信念、情感与行为层面产生深远而系统性的差异。
 
 具体而言，Li 的研究以[[Heart and Mind for Wanting to Learn|好學心]]（[[Heart and Mind for Wanting to Learn]]）这一中国本土概念为切入点，对比欧裔美国精英学生对学习的理解，发现两种文化在学习的意义、目标、过程与情感维度上几乎没有重叠——尽管两种文化都重视学习、拥有悠久的智识传统和相似的教育制度([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。
@@ -166,7 +166,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ## 思想发展
 
-> [!note]-
+> [!note]
 > Li 的研究议程诞生于一段曲折的跨文化思想历程，她称之为"锯齿般的智识之旅"（jagged intellectual journey）([[Argument_Li_2012_Cambridge\|Li, 2012, p.11]])。
 
 ### 浮士德困惑：中西学习观的初次碰撞

@@ -123,7 +123,7 @@ updated: 2026-10-20
 >   S4 --> S5
 > ```
 
-> [!example]- 图4-1：英国研发资金执行主体与公众公信力倒挂格局示意图（基于 ONS 2026 研发统计与 PAS 2025 调查，pp. 68–69）
+> [!example] 图4-1：英国研发资金执行主体与公众公信力倒挂格局示意图（基于 ONS 2026 研发统计与 PAS 2025 调查，pp. 68–69）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig4-1_Industry_RD_Expenditure_vs_Public_Trust.jpg)
 > *(图示展示全英商业部门承担超三分之二（>67%）研发创新的压倒性执行体量，与公众对私企科学家仅 47% 信任度（大学科学家为 87%）及人工智能仅 33% 利益认可度的鲜明公信力倒挂反差)*
 
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 产业界在英国[[National Innovation System|国家创新体系]]中占据不可替代的核心地位，是科学发现转化为社会公共福祉的关键枢纽。（p. 68）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 商业企业实际承担了全英三分之二以上的研究与试验发展（Research and Development, R&D）与创新总支出，使产业研发人员与公众参与各利益相关方的联结具有根本性的国家战略意义；然而，由于不同行业属性与商业模式的深刻分化、严苛的行业合规审查约束、以及大企业与初创小企业之间巨大的资源鸿沟，英国公众在生活成本、医疗卫生与生态环境等最高优先级的社会关切痛点上，与产业研发效益处于严重的心理与认知脱节状态。（pp. 68–69）
 
 #### 主题一：压倒性研发体量与公众感知的脱节表征
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 在特定高安全风险行业中，科研人员直接面对公众发声受到严格的法律与行业自律限制：
 
-> [!boundary] Box 4-1：英国制药工业协会（Association of the British Pharmaceutical Industry, ABPI）行为守则对科学家公共与自媒体沟通的合规禁区（Taylor, 2023; ABPI, 2024, p. 68）
+> [!boundary]- Box 4-1：英国制药工业协会（Association of the British Pharmaceutical Industry, ABPI）行为守则对科学家公共与自媒体沟通的合规禁区（Taylor, 2023; ABPI, 2024, p. 68）
 > - **严禁直面消费者的产品推介** 英国制药工业协会新版《实践守则》（ABPI 2024 Code of Practice）对处方药营销与公众交流设立了严苛界限，严禁任何科研人员直接面向普通消费者推介尚未上市或特定品牌药物。
 > - **个人社交媒体言论的连带合规审查** 守则首次出台详尽的社交媒体指南，将医药企业雇佣科研人员在个人 LinkedIn、X（原 Twitter）等平台上的点赞、转发和学术评论纳入企业合规审查范围；一旦言论被判定为隐性宣传，企业将面临巨额罚款与行业谴责。这导致英国本土药企科学家在公共交流中面临沉重的寒蝉效应，与不受此类守则管辖的海外竞争对手形成不平等反差。（p. 68）
 
@@ -186,7 +186,7 @@ updated: 2026-10-20
 
 公众对产业界研究的不信任并非凭空产生，而是过去数十年间重大科技争议和少数企业恶劣行为累积的系统性创伤。（pp. 69–70）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 历史上的公众沟通灾难（如欧洲转基因食品风波）与商业操纵恶行（如烟草行业长期掩盖健康危害），在全社会形成了产业界“唯利是图”的深层刻板印象，导致公众对私营企业科学家的信任度急剧滑坡至 47%；然而，英国中央政府采购推行的《[[The Social Value Model\|社会价值模型]]》（法定 10% 评审权重），为激励企业投资社区科学沟通、携手非正式科学场馆提供了强大的制度化财税杠杆。（pp. 69–71）
 
 #### 主题一：历史恶劣案例的声誉溢出与“利润导向”刻板印象
@@ -210,7 +210,7 @@ updated: 2026-10-20
 
 英国公众对科学的态度调查（Public Attitudes to Science, PAS, 2025）与权威追踪揭示出全英产业研发的信任两极分化与中立争取潜能：
 
-> [!stat-cards] 英国产业研发与公众认知的四重核心指标（ONS, 2026; PAS, 2025; CaSE, 2025）
+> [!stat-cards]- 英国产业研发与公众认知的四重核心指标（ONS, 2026; PAS, 2025; CaSE, 2025）
 > - **> 67%** 商业企业承担全英超三分之二研发创新支出，但在公众生活成本与医疗等最高优先痛点上感知严重脱节（ONS, 2026, p. 68）。
 > - **47% vs 87%** 公众对私企科学家的信任度（47%）大幅落后于大学高校科学家（87%），信任赤字达 40 个百分点（PAS, 2025, p. 69）。
 > - **53%** 超半数公众对以盈利为目的的私人研发持中立态度，表明企业研发依然具备巨大的社会争取潜能（CaSE, 2025, p. 70）。
@@ -226,7 +226,7 @@ updated: 2026-10-20
 > - **政策工具** 依据政府采购政策声明备忘录《社会价值模型指南》（Procurement Policy Note, PPN 002/2025），在中央政府采购合同评审最终阶段，**社会价值（Social VALUE）强制占据至少 10% 评审权重**。
 > - **约束机制** 实行严格的可审计（Auditable）方案核算，倒逼企业携手[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员场馆落地普惠科普，形成长期造血双赢闭环。（p. 69）
 
-> [!example]- 图4-2：英国政府采购《社会价值模型》（PPN 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）
+> [!example] 图4-2：英国政府采购《社会价值模型》（PPN 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig4-2_Social_Value_Procurement_Partnership_Model.jpg)
 > *(图示呈现中央政府采购将 10% 社会价值硬性挂钩商业合同评审，激励大型工业承包商与地方科技探索中心、学校及社区深度合作，形成资金造血与普惠科普双赢闭环)*
 
@@ -244,7 +244,7 @@ updated: 2026-10-20
 
 不同行业在应对公众关切中摸索出了差异化的参与路径，其中新兴数据赋能技术的民主审议尤为紧迫。（pp. 71–73）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及以患者为中心（Patient Centricity）的全生命周期参与[[Paradigm\|范式]]；然而，在关系国家未来[[Competitiveness|竞争力]]的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）
 
 #### 主题一：传统工业与重大基础设施的群己共商转型（核能与交通）
@@ -279,7 +279,7 @@ updated: 2026-10-20
 > - **实证效益与全行业普及** 试验脱落率显著下降，药物研发周期明显缩短，真正实现了科技效益与患者人道尊严的高度统一。
 > - **研发共创启示** 患者真实生活体验与专业实验室指标同样重要，减负设计与以人为本的结局评价不仅不削弱科研严谨性，反而大幅提高了临床试验成功率。
 
-> [!example]- 图4-3：生命科学研发全生命周期中“以患者为中心”（Patient Centricity）全流程共创模型图（基于阿斯利康框架与英国国家健康与护理研究所（National Institute for Health and Care Research, NIHR）标准，p. 71）
+> [!example] 图4-3：生命科学研发全生命周期中“以患者为中心”（Patient Centricity）全流程共创模型图（基于阿斯利康框架与英国国家健康与护理研究所（National Institute for Health and Care Research, NIHR）标准，p. 71）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig4-3_Patient_Centricity_Lifecycle_Framework.jpg)
 > *(图示解构从早期研究优先级设定、方案设计、临床终点选择、受试者招募到上市后随访的全流程患者声音机制化嵌入路径)*
 
@@ -320,7 +320,7 @@ updated: 2026-10-20
 
 第三部门（Third Sector）涵盖非政府、非商业的各类慈善组织、志愿与社区社群、社会企业、合作社以及非政府组织（Non-Governmental Organizations, NGOs）。（pp. 74–75）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 第三部门以崇高使命为绝对驱动，拥有全社会最深厚的信任纽带与全流程参与专业经验；医学研究慈善联合会（[[Advanced Manufacturing Research Centre\|AMRC]]）将患者真实生活体验机制化融入 16 亿英镑研发生态，自然保护与土地管理机构依托数百万大众会员动员大规模[[Citizen Science\|公民科学]]，为整个科学界重构公众信任提供了示范性的实操范本。（pp. 74–75）
 
 #### 主题一：医学研究慈善机构（AMRC）与患者生活经验深度嵌入研发生态
@@ -374,7 +374,7 @@ updated: 2026-10-20
 
 基于对产业研发体量、公众信任断层及第三部门成熟经验的系统诊断，英国皇家学会正式确立了三项具有针对性的国家级行动蓝图（Recommendations 11–13）：
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 解决产业研发与公众认知的深刻脱节，必须实现政策工具、企业治理与科学家赋权的三维协同：中央政府应通过采购制度法定 10% 社会价值与研发拨款挂钩考核，为企业参与提供硬性财税激励；新兴科技与人工智能企业必须主动打破神秘感、建立全生命周期的常态化民主审议；企业雇主则须将公众沟通培训与带薪激励内嵌于科学家职业发展通道，全面激发科技主力军的公共发声潜能。（pp. 76–77）
 
 #### 主题一：政府社会价值激励与商业企业社区联结（建议十一，p. 76）
@@ -409,7 +409,7 @@ updated: 2026-10-20
 
 #### 主题四：第四章专家研制工作组背景与产业专家构成（Annex 1, p. 110）
 
-> [!info]- 第四章专家研制工作组核心成员与跨界机构构成（Chapter 4 Working Group, Annex 1, p. 110）
+> [!info] 第四章专家研制工作组核心成员与跨界机构构成（Chapter 4 Working Group, Annex 1, p. 110）
 > 英国皇家学会为第四章《产业与商业部门／第三部门》组建了高规格专家工作组，成员横跨前沿学术界、跨国工业研发中枢、前沿人工智能实验室与转化医学机构：
 > - **工作组主席（Chair）**
 >   - 卢克·奥尼尔教授（Professor Luke O'Neill）：英国皇家学会会士（Fellow of the Royal Society, FRS）、都柏林圣三一大学生物化学与免疫学顶尖教授、多家知名生物医药企业联合创始人。
@@ -446,27 +446,27 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 研发执行的隐形巨人与公众认知脱节
+> [!citation-card] 研发执行的隐形巨人与公众认知脱节
 > 商业部门承担了全英三分之二以上的研究与试验发展支出，商业界科学家在数量上构成了英国科技队伍的绝大多数。然而，当公众思考关系切身福祉的优先议题时，几乎完全无法将产业界研发与这些痛点的解决联系起来。商业研发体量庞大，却对公众处于隐形状态。（pp. 68–69）
 >
 > *The business sector [[Accounts]] for over two-thirds of total UK R&D expenditure, and scientists in business make up the majority of the UK's scientific workforce. However, when the public consider high-priority societal issues affecting their daily lives, they rarely connect business R&D with addressing these challenges. Business R&D is massive in scale, yet largely invisible to the public.*
 
-> [!citation-card]- 资本利润动机与公众信任的脆弱性
+> [!citation-card] 资本利润动机与公众信任的脆弱性
 > 历史上的负面案例——尤其是烟草行业系统性压制健康危害证据的行为——在公众心目中深植了一种普遍怀疑：只要利润动机占据主导，科学证据与公众福祉就会退居次席。这种历史创伤极易溢出至其他科技行业。获取与维系[[Social License to Operate\|社会许可]]，要求企业展现无懈可击的科研诚信与坦诚的双向沟通。（p. 70）
 >
 > *Historical negative examples – notably the tobacco industry's systematic suppression of evidence regarding health harms – have embedded a deep-seated public scepticism that when profit motives dominate, scientific evidence and public wellbeing are compromised. This historical damage easily spills over to other sectors. Securing and maintaining a social licence to operate requires companies to demonstrate unassailable [[Responsible Conduct of Research\|research integrity]] and candid two-way dialogue.*
 
-> [!citation-card]- 以患者为中心：真实生活经验赋能科研
+> [!citation-card] 以患者为中心：真实生活经验赋能科研
 > 医学研究必须超越冰冷的生物物理与生化指标；患病者及其照护者的真实生活经验（Lived Experience）不仅是一种人道关切，更是一种关键的[[Epistemic Resources\|认识论资源]]。当患者在研发立项、方案设计与结局评价中拥有平等的决策席位时，临床研究的依从性、质量与社会效益均获得质的飞跃。（pp. 71, 74）
 >
 > *Medical research must look beyond clinical and biochemical endpoints; the lived experience of patients and carers is not merely a humanitarian concern, but a crucial epistemological resource. When patients have equal decision-making seats in priority-setting, trial design and outcome evaluation, the adherence, quality and societal impact of clinical research are profoundly enhanced.*
 
-> [!citation-card]- 前沿颠覆性技术的去神秘化与常态化审议
+> [!citation-card] 前沿颠覆性技术的去神秘化与常态化审议
 > 任何可能对社会生活方式造成颠覆性改变的前沿技术——当前以包含人工智能在内的数据赋能技术最为突出——绝不能等到商业应用完全定型后才进行单向的公共关系（Public Relations, [[Participatory Research\|PR]]）包装。企业必须主动去神秘化，深入倾听社会公众的真实关切，将公众审议制度化内嵌于研发治理全生命周期之中。（pp. 73, 76）
 >
 > *Any frontier technology capable of profoundly transforming societal ways of life – currently exemplified by data-enabled technologies including AI – cannot wait until commercial applications are fully finalized before engaging in one-way PR marketing. Businesses must proactively demystify their technologies, listen deeply to public concerns, and institutionalize public deliberation throughout the entire research and governance lifecycle.*
 
-> [!citation-card]- 雇主赋权与产业科学家发声激励
+> [!citation-card] 雇主赋权与产业科学家发声激励
 > 企业雇主必须确保产业科学家获得系统的沟通培训与制度化的职业支持，使其能够自信、公开地向社会公众阐述产业科学的核心贡献。消除科学家发声的后顾之忧并予以实质性职业表彰，是打破产业界与公众隔阂的根本动力。（p. 77）
 >
 > *Business employers must ensure that scientists in industry are provided with systematic training, encouragement and institutional support to speak openly and confidently to the public about their work. Removing disincentives and actively recognizing engagement efforts in career progression are essential to bridging the divide between industry and society.*

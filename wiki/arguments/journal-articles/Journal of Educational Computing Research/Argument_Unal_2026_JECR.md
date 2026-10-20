@@ -250,7 +250,7 @@ issuing_organization: ""
 
 ### 论证步骤一　现有 FOM 证据分歧与检索筛选：二阶元分析的必要性与 PRISMA 流程
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 现有 AI 教育一阶[[Meta-analysis\|元分析]]由于[[Research Scope\|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size\|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis\|二阶元分析]]数据集（pp. 1367–1369）。
 
 > [!chain-link] 证据到判断
@@ -265,14 +265,14 @@ issuing_organization: ""
 > - **计算机科学极端高效应案例** Tlili (2024) 综合 28 项研究考察 AI 在计算机科学教育中的应用，报告了极高的正向效应（$ES = 1.36$，95% CI = [0.95, 1.78]），指出生成式 AI 在代码解释、程序纠错与算法可视化中能提供立竿见影的支架作用。
 > - **基础数学微弱效应案例** Yi et al. (2025) 综合 21 项研究考察 AI 对 K12 学生数学学习的影响，仅报告了微弱效应（$ES = .32$，95% CI = [0.20, 0.45]）；类似地，Hwang (2022) 针对小学生数学成就的元分析也仅获得 $ES = .35$ 的低效应量。两者效应量相差逾 4 倍，凸显了二阶综合与调节检验的紧迫性（p. 1371）。
 
-> [!example]- 图1：PRISMA 2020 数据流向图（Page et al., 2021, p. 1369）
+> [!example] 图1：PRISMA 2020 数据流向图（Page et al., 2021, p. 1369）
 > ![](https://img.mylikemie.icu/sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig1_PRISMA_Flowchart.jpg)
 
 ---
 
 ### 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 文献重叠会导致初级[[Study Population and Sample\|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval\|置信区间]]并膨胀假阳性；必须采用 [[GROOVE]] [[Corrected Covered Area\|校正覆盖面积]]（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性（pp. 1370–1375）。
 
 > [!chain-link] 证据到判断
@@ -283,7 +283,7 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 传统粗放元综合（如第一代 Hattie 模式）因无视文献重叠而受到学界严厉批评（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]; Schmidt & Oh, 2013）。本研究引入第二代[[Umbrella Review\|伞状综述]]规范，严格遵循 Cooper & Koenka 与 Bracchiglione et al. (2022) 的数学准则，以 CCA 阈值作为准入红线，确保了二阶数据集在抽样独立性与统计加权上的数学合法性（pp. 1373–1375）。
 
-> [!example]- 图2：FOM 数据集的 CCA 热力图（Bracchiglione et al., 2022, p. 1374）
+> [!example] 图2：FOM 数据集的 CCA 热力图（Bracchiglione et al., 2022, p. 1374）
 > ![](https://img.mylikemie.icu/sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig2_CCA_Heatmap.jpg)
 
 ---
@@ -321,7 +321,7 @@ issuing_organization: ""
 
 ### 论证步骤三　总体效应合并与异质性检验：AI 对学生成果的中等正向效应
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 在[[Random-Effects Model\|随机效应模型]]下，二阶元分析证实人工智能教育应用对学生的整体学习成果产生统计显著的中等程度正向效应（$ES = .67$，95% CI = [.55, .78]，SE = .06）；同时数据集呈现出高度统计[[Heterogeneity\|异质性]]（$I^2 = 84.78\%$），表明真实效应量因教学情境特征产生实质分化（p. 1375）。
 
 > [!chain-link] 证据到判断
@@ -350,7 +350,7 @@ issuing_organization: ""
 
 ### 论证步骤四　分类调节变量分析：教育阶段与学科领域的系统性制约机制
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > AI 教育应用的干预效果受到教育阶段与学科领域的显著调节（$p < .05$）：K12 阶段的效应显著弱于高等教育与混合阶段，计算机科学领域的增益最为突出而数学领域最弱；与此同时，不同 AI 工具类型、学习成果类型及方法学质量等级之间未呈现显著差异（pp. 1376–1377）。
 
 > [!chain-link] 证据到判断
@@ -369,7 +369,7 @@ issuing_organization: ""
 
 ### 分类调节变量分析详表
 
-> [!moderator-summary] Table 4. Moderator Analysis of FOM Dataset（p. 1377）
+> [!moderator-summary]- Table 4. Moderator Analysis of FOM Dataset（p. 1377）
 > | 调节[[Variable\|变量]]维度（Moderator） | 亚组类别（Subgroup） | 元分析数 $k$ | 效应量 $ES$ | 95% CI 下限（LL） | 95% CI 上限（UL） | 组间检验 $Q_{bg}$ | 自由度 df | $p$ 值 |
 > |---|---|---|---|---|---|---|---|---|
 > | **成果类型（Outcome）** | | | | | | .03 | 2 | .98 |
@@ -405,7 +405,7 @@ issuing_organization: ""
 
 ### 论证步骤五　连续调节变量元回归与数据集敏感性分析：研究规模与列表缺失检验
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > [[Second-Order Meta-Regression\|二阶元回归]]分析表明，学生样本规模与发表年份不能预测元分析效应量，但纳入的初级研究数量对效应量具有显著的正向预测力；敏感性分析进一步证实，纳入 3 项未提供初级研究清单的 FOM 不会改变二阶综合的稳健性（pp. 1377–1378）。
 
 > [!chain-link] 证据到判断
@@ -449,7 +449,7 @@ issuing_organization: ""
 
 ### 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects\|小研究效应]]与右偏倾向，但 Begg-Mazumdar 秩相关与[[Trim and Fill Method\|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
 
 > [!chain-link] 证据到判断
@@ -461,7 +461,7 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 当参数化检验（Egger 显著）与非参数检验（Begg 及剪补法不显著）出现分歧时，通常精准对应了新兴前沿技术领域的典型发表生态：在生成式 AI 等技术热潮驱动下，小规模试验与积极阳性结果更容易获得快速审稿与优先发表，而中性或负面结果往往沉淀在抽屉中（File-drawer Problem）。因此，尽管 $ES = .67$ 证实了 AI 的整体增益，但教育决策者在开展大规模全校推广时，必须保持理性审慎，防范由早期小样本积极试验引发的技术效能虚高预估（pp. 1380–1382）。
 
-> [!example]- 图3：二阶效应量的漏斗图（p. 1376）
+> [!example] 图3：二阶效应量的漏斗图（p. 1376）
 > ![](https://img.mylikemie.icu/sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig3_Funnel_Plot.jpg)
 
 ---
@@ -488,27 +488,27 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Meta-meta-analysis\|二阶元分析]]的核心定义与方法学定位
+> [!citation-card] [[Meta-meta-analysis\|二阶元分析]]的核心定义与方法学定位
 > "二阶[[Meta-analysis\|元分析]]与一阶元分析类似，两者的主要区别在于数据来源：二阶元分析采用一阶元分析作为其初级数据，而一阶元分析则以独立实证研究为数据来源。"（p. 1367）
 >
 > *"Second-order meta-analyses are similar to FOM studies. The main difference between these two types of studies is related to the use of data sources. Specifically, second-order meta-analyses employ FOM studies as their primary data, while FOM studies, in turn, use independent studies as their data source."*
 
-> [!citation-card]- [[Higher-Order Thinking Skills\|高阶思维技能]]超越机械回忆的本质
+> [!citation-card] [[Higher-Order Thinking Skills\|高阶思维技能]]超越机械回忆的本质
 > "高阶思维描述了要求学习者批判性地处理、操纵和使用信息的技能，超越了单纯的回忆。"（McLoughlin & Mynard, 2009，引自 p. 1366）
 >
 > *"Higher-order thinking describes skills that require learners to critically process, manipulate, and use information, moving beyond mere recall."*
 
-> [!citation-card]- 数学学科 AI 效应偏低的理论根源
+> [!citation-card] 数学学科 AI 效应偏低的理论根源
 > "这可能与数学本身的性质有关：数学是多维度的，需要抽象与具象思维的统一。换言之，数学思维不仅涉及应用规则解决给定问题，更涉及理解数学运算规则背后的深层原理与意图。在当前形态下，AI 可能尚未完全具备[[Creativity\|创造性]]应对这些复杂学习需求的能力。"（p. 1380）
 >
 > *"This may also be related to the nature of mathematics itself, which is multidimensional and requires both [[Abstract]] and concrete thinking. In other words, mathematical thinking involves not only applying rules to solve a given problem, but also understanding what to do and why. In its current form, AI may not yet be fully capable of responding creatively to these complex learning needs."*
 
-> [!citation-card]- 教学整合优于技术形态工具论
+> [!citation-card] 教学整合优于技术形态工具论
 > "各项发现跨越不同的 AI 工具类型、学习成果类型与研究质量等级保持一致，表明 AI 与教学法融合的方式可能比所采用的具体工具形态更为关键。"（p. 1382）
 >
 > *"The findings were consistent across different types of AI tools, learning outcomes, and study quality levels, suggesting that the manner in which AI is integrated into pedagogy may be more significant than the specific tool employed."*
 
-> [!citation-card]- 对学生过度依赖 AI 的负面警示
+> [!citation-card] 对学生过度依赖 AI 的负面警示
 > "研究表明，过度依赖 AI 可能会对学习成果产生负面影响。当学生过度依赖 AI 时，这可能会阻碍其创造性思维、[[Problem Solving\|问题解决能力]]及整体[[Academic Achievement\|学业表现]]。"（p. 1380）
 >
 > *"Research indicates that overreliance on AI can negatively impact learning outcomes. When students excessively depend on AI, it can hinder their creative thinking, problem-solving abilities, and overall performance."*

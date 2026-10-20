@@ -105,7 +105,7 @@ updated: 2026-10-20
 > - **24 个专业学部（Sections）** 包括教育学（Section Q）、心理学（Section J）、社会经济与政治学（Section K）等，体现了自然科学与社会科学高度交融的综合特性。
 > - **研发预算与政策项目组（R&D Budget and Policy Program）** 独立测算并长程跟踪联邦研发预决算、机构支出与学科分布，为学术界与政策制定者提供独立财政量化基准。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
 
-> [!pathways]- 业务运行机制与跨界协同网络
+> [!pathways] 业务运行机制与跨界协同网络
 > - **科技政策研究员遴选与集中培植** 每年在全美公开遴选数百名拥有博士学位的各学科顶尖科学家，开展为期两周的“华盛顿政治与立法微型魔鬼集训”，随后派遣至参众两院议员个人办公室、常设委员会或联邦部委担任为期一至两年的全职特别幕僚。
 > - **同盟学会协同模式** AAAS 充当超级平台，与 [[American Educational Research Association|AERA]]、[[Society for Research in Child Development|SRCD]]、APA 等三十余个专业协会建立联合资助联盟，协同管理学科专长研究员的国会入驻与后续校友网络。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 > - **国家科学政策独立研讨与冷战史学反思** 定期组织由原政府高官、高校领袖与科学政策史学家参与的高峰研讨会，系统剖析早期冷战对美国国家科学政策形成的影响、基础研究资助结构变迁及跨国体制比较。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 47)]]
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响与学术利用机制
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **会员与出版覆盖** 全球会员超过 12 万人，覆盖 91 个国家和地区；《科学》杂志每周全球读者逾百万人，是全球学术引文与公共媒体关注度最高的基础综合学刊之一。
 > - **政策输送规模** STPF 累计向美国国会两院委员会、白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）、国务院、[[National Science Foundation|NSF]] 及能源部等机构输送超 4,000 名博士级专业学者。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 46)]]
 > - **预算监测权威度** 其年度报告与历史序列被国会听证会、白宫及顶尖科学计量学学者（如 Fabrizio & Mowery, 2005）作为考证联邦战后科研财政变迁的核心权威依据。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 28)]]

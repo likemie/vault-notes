@@ -60,7 +60,7 @@ updated: 2026-10-16
 >
 > 核心设计嵌入的方式可以多样化：Shaw et al. (2013) 提供了一个使用[[Convergent Design\|聚敛式设计]]嵌入[[Case Study\|案例研究]]的良好范例，他们在家庭医学诊所的质量改进实践中比较了量化筛查率和质性实践描述。
 
-> [!example]- 图10.4：多案例研究设计图
+> [!example] 图10.4：多案例研究设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-4_Multiple_Case_Study_Design.jpg)
 
 ---

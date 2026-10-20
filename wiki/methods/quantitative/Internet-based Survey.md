@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 在线调查平台（如 SurveyMonkey、Qualtrics、Google Forms 等）已极大简化了互联网调查的实施。写作时的许多技术性问题（下载速度、浏览器兼容性等）在今天已基本被平台解决，但核心方法论关切仍是重要议题（p.290）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 互联网调查是通过互联网进行数据收集的调查方式。其形式已从电子邮件发展到电子邮件附带问卷附件，再到电子邮件引导潜在受访者访问网站，或直接使用网站。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]]
 >
 > *Using the internet for the conduct of surveys is becoming commonplace in many branches of social science. Internet-based surveys have moved from being in the form of emails to emails-plus-attachments of the questionnaire itself, to emails directing potential respondents to a website, or simply to websites.* (p. 290)
@@ -105,7 +105,7 @@ Dillman 等人（1998a, 1998b, 1999）提出的网站调查原则中，与纸笔
 > - **避免强制回答** 受访者在完成所有项目之前不能继续会激怒他们并导致放弃。替代方案：提供"不愿回答"或"不知道"选项。
 > - **使用颜色保持图形/背景一致性和可读性** 遵循格式塔原则——接近性（物理接近的项目归为一组）、相似性（外观相似的项目归为一组）、简约性（简单的图形更容易被感知和记住）（Smyth et al., 2004）。
 
-> [!note]- 分支指令的设计原则（Redline et al., 2002）
+> [!note] 分支指令的设计原则（Redline et al., 2002）
 > 分支指令（如"跳到第13题"）在网站调查中需特别注意以下发现：问题字数越多，正确执行分支指令的可能性越低；超过七个回答类别时读者可能犯错并忽略指令；将分支指令放在一系列回答框的最后一类旁边比放在前面更安全；首因效应导致受访者倾向于选择列表中较早的项目，因此对后期项目的分支指令做出错误行动；页面底部附近的指令更容易被忽略。这些发现对现代调查平台的逻辑跳转设计仍有参考价值。
 
 ---

@@ -60,7 +60,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 政策通过发布《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）报告，建议引入全国统一的读写与算术统考、教学表现评估（TPA）以及更为严苛的[[Initial Teacher Training\|ITE]]项目国家认证程序，以强化教师教育的合规审计。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 提高教师质量和“课堂准备度”，增强职前教师入行门槛的标准化把关。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **对象** 全国初始教师教育（ITE）课程提供商及职前教师。
 > - **工具**

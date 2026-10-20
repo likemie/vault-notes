@@ -145,7 +145,7 @@ updated: 2026-10-16
 > - **制度背景演变** 1973 年美国取消强制兵役，全面实行全志愿兵役制（All-Volunteer Force）。
 > - **决策阶层风险脱节** 参与政治决策的精英群体自身很少直接承担前线风险，造成社会与战场的制度性隔离（p. 144）。
 
-> [!example]- 图13-1：美国国会议员中拥有服役经历的比例变化
+> [!example] 图13-1：美国国会议员中拥有服役经历的比例变化
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_13-1_Percentage_Members_US_Congress_Served_Military.jpg)
 
 > [!voice] 查尔斯·兰格尔关于公民共担防卫风险的立法呼吁

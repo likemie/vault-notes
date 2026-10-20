@@ -99,7 +99,7 @@ updated: 2026-10-17
 
 #### 概念地图
 
-> [!knowledge-map]- 第26章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第26章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_26_Concept_Map.jpg)
 
 ## 章节内容
@@ -174,7 +174,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 
 角色扮演迄今的运用成败参半，很大程度上源于对其是什么以及如何定义的困惑。英国医学期刊（*British Medical Journal*）的一份报告（Box 26.1）揭示了这种困惑。
 
-> [!example]- Box 26.1　一次角色扮演经历
+> [!example] Box 26.1　一次角色扮演经历
 > 南非 Mosvold 医院（英古瓦夫马）的医官 Duncan Curr 记述了他在艾滋病咨询培训课上第一次引入角色扮演的经历。
 >
 > 星期三早晨，又到了诊所护士长的教学时间。任何以为我能从门诊的严苛中获得两小时轻松休息的人都大错特错，比起面对我们四位资历最深的护士长（练习本摊开、笔尖悬着随时记录我的每一句话），看一百个病人倒是相当轻松的选项。
@@ -341,7 +341,7 @@ Bolton（1996, p. 187）以 James Patrick（化名）的案例说明隐蔽渗透
 
 或许涉及角色扮演的最具争议的研究案例，是 Philip Zimbardo 于 1971 年进行的著名的斯坦福监狱实验（Zimbardo, 2007a, 2007b, 2008; Zimbardo et al., 2000; 亦见 Haney & Zimbardo, 1998），其简要概述见 Box 26.2。
 
-> [!example]- Box 26.2　[[Stanford Prison Experiment\|斯坦福监狱实验]]
+> [!example] Box 26.2　[[Stanford Prison Experiment\|斯坦福监狱实验]]
 > 研究于 1971 年夏在斯坦福大学心理学系大楼地下室的模拟监狱中进行。受试者来自 75 名回应报纸广告的应征者，广告招募有偿志愿者参与一项关于监狱生活的心理学研究。受试者被[[Random Assignment\|随机分配]]，一半担任看守角色，一半担任囚犯角色。实验前受试者签署一份表格，同意在最多两周内扮演囚犯或看守角色。被分配到囚犯角色者应预期会受到监视、骚扰，但不会受到身体虐待。作为回报，受试者将得到充足的食物、衣物和住所，并在实验期间每天获得 15 美元。
 >
 > 研究结果相当戏剧化。实验开始后不到两天，暴力和叛乱爆发：囚犯撕掉衣物和身份编号，把自己关在牢房里，对看守大声喊叫和咒骂；看守则开始骚扰、羞辱和恐吓囚犯，使用精巧的心理技巧来打破囚犯之间的团结、制造彼此的不信任。不到 36 小时，一名囚犯出现严重情绪紊乱症状，出现无法控制的哭泣和尖叫，被释放。第三天，传出大规模越狱计划的消息，看守加强对囚犯的骚扰、恐吓和暴行。第四天，两名囚犯出现严重情绪紊乱症状，被释放。第五天，囚犯出现个体和群体瓦解的症状，大多变得被动和顺从，与现实严重脱节；看守则保持骚扰，有些人表现得虐待狂。由于模拟监狱体验引发的强烈反应出乎意料，实验者在第六天结束时终止了研究。（据 Banuazizi & Movahedi, 1975 改编）（pp. 8–9）
@@ -470,7 +470,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 
 虽然没有既定的方法或标准化路径，McKeachie and Svinicki（2006）指出，角色扮演的有效性取决于仔细的规划以及向参与者传达角色扮演可以是有价值策略之信心的能力。Box 26.3 中的八项原则旨在支持研究者规划丰富而设计良好的角色扮演情境。若不遵守某些通用指南，即兴表演或角色扮演就有变得刻板、过度表演、简单化并扭曲数据的危险；如果参与者缺乏关于情境或所扮演角色的足够信息，这样的活动也可能在片刻后就消沉下去。根据研究的目标，可以改变其中一些原则来引出、监控和评估特定回应（pp. 14–15）。
 
-> [!proc]- Box 26.3　有效管理角色扮演的八项原则
+> [!proc] Box 26.3　有效管理角色扮演的八项原则
 > 1. **设定场景（Set the scene）** 参与者就位后，介绍活动并概述整个环节将要发生的事情。
 > 2. **叙述戏剧框架（Narrate the dramatic frame）** 描述虚构情境的背景信息：故事到目前为止发生了什么、场景设在哪里、谁在场、何时发生。这使参与者熟悉情境，消除冷启动角色扮演的尴尬。
 > 3. **提供角色的第二维度（Provide a second dimension for each role）** 提供关于每个角色的充分信息以丰满其轮廓，使角色扮演者能够安全、自信、正直地进入角色。角色的第一维度只规定其宽泛轮廓，如父亲、教师、囚犯、医生，却不说明是哪一种医生、接受过什么训练、主导人格特质是什么。谈论那个角色时要像你认识她一样，这会增加参与者对她处境的兴趣和投入。
@@ -513,7 +513,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 
 对细节的关注和负责任的规划应始终结合这些策略，以便在参与者投入角色扮演时同时挑战和保护他们。仔细注意如何安全、负责任地引导人们入戏，会引出更可靠和更伦理的研究发现，并限制任何可能的数据扭曲。斯坦福监狱实验在组织研究部分（通过[[Informed Consent|知情同意]]表和大学伦理批准）方面看似无微不至，但其设计的一个主要弱点在于，在此案例研究中缺乏对使用角色扮演作为方法这一实践层面的关注。遗憾的是，对文献的回顾表明，这在许多使用角色扮演的研究中很常见。Box 26.4 列出了搭建多重角色扮演程序时的若干实践要点（p. 17）。
 
-> [!proc]- Box 26.4　组织多重角色扮演程序的实践要点
+> [!proc] Box 26.4　组织多重角色扮演程序的实践要点
 > 1. 如果使用多重角色扮演程序，即多组或结对在同一空间同时进行角色扮演，首先根据场景所需人数组织小组（例如请三人一组）。
 > 2. 使用 Box 26.3 的八项原则，向小组提供后续角色扮演所需的必要信息和指令。请他们花一点时间讨论谁扮演谁、角色叫什么名字（如果尚未预先决定）。把角色名字写在显眼的挂图上是个好主意，参与者若忘记可以在不打断行动的情况下查看。
 > 3. 请参与者找一处空间布置场景（例如按随手可得的物品和资源，把空间粗略划定为一个办公室、一间珠宝店、一间大学教室等），用椅子或包来划分空间。这有助于建立对所做之事的信念，并使空间半私密化，以便专注于手头的任务。
@@ -579,7 +579,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 
 几乎所有学科中的文献都包含许多创造性、创新性和主动性的教与学方法例证，角色扮演在此类最常使用的策略中名列前茅。表 26.1 提供了文献中角色扮演方法（既作为研究工具，也作为有效的教与学方法）近期使用情况的简要总结（仅作说明）。
 
-> [!example]- 表26.1　角色扮演在文献中的使用示例
+> [!example] 表26.1　角色扮演在文献中的使用示例
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_26_Table_26-1.jpg)
 
 此外，Ginsburg（1978）对角色扮演作为科学知识生成工具的批评，即不真实、行为不自发、口头报告易受人为影响、对复杂互动不敏感，虽针对行为主义取向的实践，但通过发展系统性的角色扮演方法论，他的许多关切已在后续年代得到回应（p. 22）。
@@ -588,42 +588,42 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 
 ## 关键引用
 
-> [!citation-card]- [[Role-playing\|角色扮演]]的定义
+> [!citation-card] [[Role-playing\|角色扮演]]的定义
 > 角色扮演是一种自发的、戏剧性的、[[Creativity\|创造性]]的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498），涉及多层次沟通，能够在影响态度和情感的同时促进[[Higher-Order Thinking Skills\|高阶认知技能]]。（26.2，p. 3）
 >
 > *Role-play is a "spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others" (Sellers, 2002, p. 498).*
 
-> [!citation-card]- 角色扮演的虚构本质与拥抱知识
+> [!citation-card] 角色扮演的虚构本质与拥抱知识
 > 所有角色扮演活动的唯一标准是要求参与者进入一个以学习为目标构思的仿佛虚构。角色扮演者不只是接收或获取知识，他们在制造知识、实践知识、体现知识：他们知道他们所知道的。（Bolton & Heathcote, 1999, pp. 57–58）（26.3，p. 5）
 >
 > *The single criterion underpinning all role-play activity is that it demands participants to step into an "as if" fiction: a fiction that has been "conceived of by a tutor, teacher, or researcher in terms of learning". Role-players are not just receiving or acquiring knowledge; they are making it, practising it and embodying it: they know what they know.*
 
-> [!citation-card]- 戏剧作为研究金矿
+> [!citation-card] 戏剧作为研究金矿
 > 当参与角色时，我们同时通过身体和语言进行表达，这种主动参与促进了情感、认知、社会和自我发展。从隐喻上说，我们正坐在一座研究金矿上。（Arnold, 1998, p. 111）（26.3，p. 5）
 >
 > *When participating in role, we articulate both physically and verbally, and this active engagement promotes "emotional, cognitive, social and ego development. We are, metaphorically speaking, sitting on a research gold mine".*
 
-> [!citation-card]- [[Stanford Prison Experiment\|斯坦福监狱实验]] 的伦理教训
+> [!citation-card] [[Stanford Prison Experiment\|斯坦福监狱实验]] 的伦理教训
 > Bolton 认为斯坦福监狱实验中的伦理标准被漠视，源于扮演权力位置时角色扮演所赋予的隐性许可而非欺骗。尽管预计到了身体虐待的风险并修改了规则，却未能预测到部分看守从施加心理虐待中获得的快感，即便他们能看到受害者的真实不适。（Bolton, 1996, p. 188）（26.4，p. 8）
 >
 > *Bolton argues that the disregard of ethical standards in this research results from "the tacit permission that role-playing a power-position gives", and not from [[Deception in Research\|deception]]. Although the researchers anticipated the risk of physical abuse and changed the rules to reflect this, they failed to predict the pleasure that some guards might derive from employing psychological abuse, "even when they could perceive ... the genuine discomfort of their victims".*
 
-> [!citation-card]- [[Self-spectator\|自观]]的定义
+> [!citation-card] [[Self-spectator\|自观]]的定义
 > 自观意味着成为自己表演的批判观众，并促成在需要时做出改变的能力。未能监控自己在角色扮演中的参与可能导致错失学习机会、降低对情境做出灵活反应的能力，并增加危险的情感卷入风险。（26.7，p. 15）
 >
 > *Self-spectation implies becoming the critical audience of your own performance, and facilitates an ability to change if required. Failure to monitor one's participation in a role-play may result in missed learning opportunities, reduced flexibility in responding to a situation, and increases the risk of dangerous emotional engagement.*
 
-> [!citation-card]- 角色扮演作为现实的排练
+> [!citation-card] 角色扮演作为现实的排练
 > Augusto Boal（1979, 2002）将这种戏剧活动称为现实的排练（rehearsal for reality）。在健康护理、教育、工程和社会关怀实践等专业学科中，角色扮演为增强[[Case Study\|案例研究]]法和促进最佳实践模式研究提供了巨大潜力。（26.3，p. 6）
 >
 > *Augusto Boal (1979, 2002) refers to this type of dramatic activity as a "rehearsal for reality". In professional disciplines, such as health care, education, engineering and social care practice, role-play offers enormous potential to enhance [[Case Study]] method and facilitate research on models of best practice.*
 
-> [!citation-card]- 脱离角色的重要性
+> [!citation-card] 脱离角色的重要性
 > McCarthy & Anderson 证明：如果没有教师在指导下帮助学生将角色扮演中探索的信息和视角进行情境化组织，角色扮演的有效性将严重降低。（26.8，p. 19）
 >
 > *It was found that a role-play's effectiveness would be severely diminished unless the students could carefully review it under the instructor's guidance (McCarthy & Anderson, 2000, p. 285).*
 
-> [!citation-card]- 角色扮演的不真实批评
+> [!citation-card] 角色扮演的不真实批评
 > Ginsburg（1978）总结反对角色扮演作为科学[[Knowledge Production\|知识生成]]工具的论点：参与者报告她会做什么，而这被当作她确实做了什么；所展示的行为不是自发的；口头报告极易受到社会期望等人为影响；角色扮演程序对复杂互动不敏感。（26.5，p. 14）
 >
 > *Role-playing is unreal with respect to the [[Variable\|variables]] under study in that the subject reports what she would do, and that is taken as though she did do it; the behaviour displayed is not spontaneous even in the more active forms of role-playing; the verbal reports in role-playing are very susceptible to artefactual influence such as social desirability; and role-playing procedures are not sensitive to complex interactions.*

@@ -111,7 +111,7 @@ updated: 2026-10-20
 >
 > *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and [[Structural Adjustment Programs|SAPs]] are published online ahead of trials starting, thereby preventing cherry-picking of results."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Publication Bias\|发表偏倚]] 发表偏倚是文献库中系统性过滤零结果的宏观现象；预注册是微观与中观层面的前置解决方案。
 > - 不等于 [[Researcher Degrees of Freedom\|研究者自由度]] 研究者自由度是预注册旨在规制的操作行为；预注册事前锁定分析模型，但无法完全消除事后变通空间。
 > - 不等于开放数据（Open Data） 预注册是事前分析意图的时间戳锁定；开放数据是事后微观原始数据的公开归档，二者前后互补，缺一不可。

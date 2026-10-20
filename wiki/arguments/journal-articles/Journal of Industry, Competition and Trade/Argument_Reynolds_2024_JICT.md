@@ -137,7 +137,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ### 论证步骤一　确立现代产业战略的过程准则以规避传统政策失灵与寻租风险
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[Modern Industrial Policy|现代产业政策]]的成败并不取决于抽象的产业选择，而在于能否建立以促成部门内竞争、撬动私人资本、推行投资组合与具备[[Learning by Doing|干中学]]弹性为核心的制度化过程治理机制。（pp. 3–5）
 
 #### 1. 产业政策有效性的核心在于促进部门内竞争而非扶植单一国家领军企业
@@ -165,7 +165,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ### 论证步骤二　三大立法支柱通过护栏条款与附加条件实现市场塑造与公共价值捆绑
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 拜登政府通过《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Inflation Reduction Act|通胀削减法案]]》及《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》，创新性地构建了以护栏条款限制企业寻租脱轨、以[[Policy Conditionalities|制度化附加条件]]引导[[Public Value|公共价值创造]]的复合治理架构。（pp. 5–13）
 
 #### 1. 《芯片与科学法案》通过资金池竞标与护栏条款兼顾产业安全和防范资本寻租
@@ -232,7 +232,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ### 论证步骤三　产业政策面临国家能力、要素瓶颈与结构性边界的现实约束
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 现代产业战略的成功取决于公共部门自身的专业行政能力与跨层级协调效率；同时必须清醒认识到产业政策在重塑全球竞争格局、达成减排目标及解决深层社会不平等上的内在局限。（pp. 13–15）
 
 #### 1. 劳动力短缺、审批滞后、国家能力不足与外部贸易摩擦构成政策落地的主要现实瓶颈
@@ -293,12 +293,12 @@ journal: "Journal of Industry, Competition and Trade"
 
 ## 关键引用
 
-> [!citation-card]- 21世纪产业战略的核心在于如何实施
+> [!citation-card] 21世纪产业战略的核心在于如何实施
 > 尽管各界对拜登产业战略的内容（what）给予了极大关注，但对如何实施（how）的关注却相对不足。随着各项政策进入落地执行阶段，如何实施对于确保产业政策从理论成功转化为实践将变得更加关键。（p. 2）
 >
 > *While there has been significant focus on the "what" of the Biden industrial strategy, less attention has been paid to the "how." As implementation gets underway, the how will become more critical to ensuring successful translation from the theory to the practice of industrial policy.*
 
-> [!citation-card]- 附加条件与重塑国家与企业契约
+> [!citation-card] 附加条件与重塑国家与企业契约
 > [[Modern Industrial Policy|现代产业政策]]的另一个核心特征涉及塑造市场以及附加条件的作用。政府政策应当超越仅仅弥补[[Market Failure|市场失灵]]的最低要求去塑造市场，使其更好地反映国家优先考虑的价值观与社会目标……附加条件要求获得政府补贴的企业承担相应义务，旨在支持高质量就业、可持续增长与更广泛的共同繁荣。（p. 5）
 >
 > *A final additional aspect of a "modern" approach to industrial policies involves shaping markets and the role of [[Policy Conditionalities|Conditionalities]]... In this case, government policy should go beyond the minimal requirements of addressing market failures to "shape markets," so they better reflect the values and societal goals that governments have prioritized... Conditionalities, where government places obligations on recipients of government subsidies... should be used, it is argued, to support goals such as quality jobs, sustainable growth, and more broadly shared prosperity.*

@@ -48,10 +48,10 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > Clark Kerr 在 1963 年首次出版 The Uses of the University，基于他在加州大学伯克利分校和加州大学系统的领导经验，提出了 multiversity 概念以区别于传统的"大学"（university）理念。传统大学——如 John Henry Newman 在 The Idea of a University（1852）中描述的——以教学和学术共同体为核心使命；而 multiversity 则是一个同时服务教学、研究、公共服务、经济发展和医疗保健的多重使命机构（pp.5–7）。
 
-> [!note]-
+> [!note]
 > 2001 年出版的第五版增加了对全球化、信息技术和[[University-Industry Collaboration\|产学合作]]等新趋势的评论。Boccanfuso and Hall（2025）将 Multi-university 概念引入产学合作[[Analytic Framework\|分析框架]]：多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报——研究与学术、教育与学习、公共效益（p.5）。
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Triple Helix]] — 多元大学是 Triple Helix 中"大学"一方的制度形态；现代[[Research Universities|研究型大学]]不仅从事教学和研究，还通过[[Technology Transfer\|技术转移]]、初创企业孵化和区域经济发展承担部分产业和政府角色（p.13）
 > - [[Innovation Ecosystem]] — 多元大学是区域创新生态系统的关键"锚点"；斯坦福大学之于硅谷、MIT 之于波士顿，正是多元大学作为创新锚点的典型案例（pp.12–13）
 

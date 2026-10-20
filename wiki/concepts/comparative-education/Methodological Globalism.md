@@ -68,14 +68,14 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > 方法论全球主义概念由 [[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]在批评 Wallerstein [[World-Systems Theory\|世界体系理论]]时提出并命名。这一概念的提出是在 Wimmer and Schiller（2003）的"[[Methodological Nationalism\|方法论民族主义]]"和 Beck（2007）对方法论民族主义的扩展之后，作为方法论批判的对偶概念。Marginson 同时指出，过去三十年全球高等教育和科学的发展——特别是中国、新加坡、韩国、印度、巴西等国在绝对和相对意义上的同时进步——直接[[Falsification\|证伪]]了方法论全球主义的零和假设([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
 
 ---
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Scale in Higher Education]] — 尺度不可化约理论提供了最直接的反驳工具：不同尺度有不同的运作逻辑，全球尺度不能代替国家尺度
 > - [[Semi-Autonomy of Higher Education]] — 高等教育和科学的半自主性概念为理解国家尺度的相对独立性提供了理论依据
 > - [[Multiplicity]] — Massey 的多重性概念从[[Ontology\|本体论]]层面排除了单一尺度[[Determinism\|决定论]]的可能：如果空间总是多重的，那么任何单一尺度都不可能完全决定其他尺度

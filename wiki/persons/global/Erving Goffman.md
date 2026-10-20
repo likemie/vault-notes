@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 机构中的日常物品关系可以揭示身份与自主性的处境。衣物、钱、身份文件及日用品的取得被控制，私人储存又缺少安全性和可及性时，成员失去的不只是一处存放东西的地点，还包括对自我呈现与日常需要的部分支配。去人格化（Depersonalization）与人格贬损（Mortification）的分析必须连接制度安排和日常行动。封闭管理的机构形态往往切断与广泛社会的有机联系，在规训内部生活的同时削弱成员应对外部真实世界冲突的自主能力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 
 ---

@@ -104,7 +104,7 @@ citation_aliases:
 > [!claim] 核心主张
 > 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的[[Empiricism\|经验论]]抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality\|价值中立]]（VALUE Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis\|元分析]]以及 [[Meta-meta-analysis\|元-元分析]]。
 > - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
 > - **贡献** 借助 [[Critical Realism\|批判实在论]]（Critical Realism）的分层 [[Ontology\|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment\|随机分配]]”幻象；提出了以“[[Realist Evaluation\|实在论综合]]（Realist Synthesis）”与“方法论[[Pluralism|多元主义]]”作为重建教师专业反思能力的替代方案。
@@ -286,22 +286,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 教育项目的现实主义因果观
+> [!citation-card] 教育项目的现实主义因果观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)
 >
 > Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006, p. 45)
 
-> [!citation-card]- [[Meta-analysis\|元分析]]的净化与空洞化
+> [!citation-card] [[Meta-analysis\|元分析]]的净化与空洞化
 > 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。(p. 13)
 >
 > At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006, pp. 42–43)
 
-> [!citation-card]- 均值指标的荒谬性
+> [!citation-card] 均值指标的荒谬性
 > 元分析的结果绝不应该是一个平均数；它应该是一张图表。(p. 9)
 >
 > The result of a meta-analysis should never be an average; it should be a graph. ([[Gene Glass\|吉恩·格拉斯]])
 
-> [!citation-card]- 《VL》对 陶冶 的遮蔽
+> [!citation-card] 《VL》对 陶冶 的遮蔽
 > 让学习可见的尝试，使人们对教育作为 陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。(p. 16)
 >
 > The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).

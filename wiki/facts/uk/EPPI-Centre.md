@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm\|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review\|系统综述]]规程，开发质性[[Research Synthesis|证据综合]]（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（[[Evidence-Based Policy-Making|Evidence-Based Policy]]），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education\|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 31]])。
 > - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络** 面对单纯文献线性推送在推动实践变革上的局限，中心由[[David Gough\|戴维·高夫]]（David Gough）等人牵头，发起联合[[EU|欧盟]]多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]])。
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **软件研发与技术支持单元** 专门组建数字化工程团队，自主研发并常态化运维全球通用的系统综述软件平台（EPPI-Reviewer）。
 > - **跨界合作与咨询网络** 与中央政府部门（如英国教育部、卫生部）、国际组织（[[OECD]]、世界卫生组织）及基层专业团体建立紧密的项目咨询合作网络。
 
-> [!pathways]- 业务运行与多元协同机制
+> [!pathways] 业务运行与多元协同机制
 > - **参与式议程设置（Participatory Agendas）** 邀请政策制定者、学校教师与服务对象早期介入选题界定，确保综述问题精准呼应复杂教育现实，而非闭门造车。
 > - **质性与定量[[Mixed Methods Research\|混合方法]]矩阵** 突破单一量化[[Meta-analysis\|元分析]]的狭隘界限，系统吸纳[[Qualitative Research\|定性研究]]（Qualitative Research）与实地经验，研制“实证因果效应 $+$ 实施机制解释”的综合[[Chain of Evidence\|证据链]]。
 > - **全流程透明与质量控制** 强制执行公开注册审查方案（Protocol Registration）、双人独立文献筛选、严格偏倚风险评价与证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）分级。
@@ -134,7 +134,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **学术与方法论引领** 奠定了全球社会科学[[Systematic Review\|系统综述]]的黄金规程，开创的质性综合与主题综合方法被引用数万次。
 > - **国际软件生态占有率** EPPI-Reviewer 成为仅次于医学界 RevMan 的国际权威综述管理平台，深度赋能全球循证研究者。
 > - **政策与制度渗透** 为英国《每一个孩子都重要》（Every Child Matters）等重大国家政策法案提供了底层实证证据基础，并作为母体孵化了英国多项公共中介机制。

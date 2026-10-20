@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **核心角色** 全球以学生为中心教育（[[Learner-Centred Education\|LCE]]）与跨国[[Policy Borrowing\|政策借用]]研究的关键权威学者。
 > - **代表贡献** 出版奠基专著 *Learner-centred Education in International Perspective*（2013），提出了 LCE 的 7 项最低实施标准（minimum standards）与全球框架。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 当以固定标准评判学生时，探究性、灵活的教育模式，如以学生为中心教育，容易在高利害[[Test-Based Accountability\|考试问责]]压力下成为奢侈品。[[Argument_Wang_2025_CE\|(Schweisfurth, 2013, 引自 Wang & McLaughlin, 2025, p. 588)]]
 >
 > *“When learners are judged by fixed standards, a more explorative and flexible educational mode can be a luxury.”*
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Schweisfurth 主张将 [[Learner-Centred Education\|LCE]] 视为一种在不同文化语境中具有多重形态的实践流变，而非单一固化的西方模板。她提出了包含尊重学生表达、对话互动与批判思考在内的最低实施标准；同时指出高利害[[Test-Based Accountability\|考试问责]]体制普遍构成 LCE 移植的最大障碍，呼吁实施语境敏感（context-sensitive）的教学改革。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-10-20
 > - **理论路径** — 为全球 [[Learner-Centred Education\|LCE]] 比较研究确立了从“西方民主理想”到“语境最低标准”的[[Analytic Framework\|分析框架]]。
 > - **跨国／跨领域传播** — 其观点广泛应用于中低收入国家与东亚高压应试地区的教学法移植研究[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 对话 Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
 
 ---

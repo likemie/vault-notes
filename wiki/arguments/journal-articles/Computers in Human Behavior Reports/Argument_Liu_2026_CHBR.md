@@ -226,7 +226,7 @@ updated: 2026-10-20
 > | **[[Argument_Liu_2025_IndHE\|Liu et al. (2025)]]** | 中国 | 104 (60/44) | 低小学段 | 数学（数学推理与四则运算技能） | 未报告 (40分/次) | 技能类 (1) | 0.09 | 0.03 |
 > | **Rücker & Becker-Genschow (2025)** | 德国 | 195 (104/91) | 初中阶段 | 数学（平方根运算自适应练习） | 未报告 | 技能类 (1) | -0.27 | 0.02 |
 
-> [!example]- 图1：PRISMA [[Literature Search\|文献检索]]与筛选流程图
+> [!example] 图1：PRISMA [[Literature Search\|文献检索]]与筛选流程图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig1_PRISMA_Flow_Diagram.jpg)
 
 ---
@@ -265,7 +265,7 @@ updated: 2026-10-20
 > | **固定效应** | 0.269 | [0.221, 0.316] | 813.560 | 91.2% | 72 | < 0.001 | 0.448 | 0.083 | 0.669 |
 > | **随机效应** | 0.404 | [0.242, 0.567] | / | / | / | / | / | / | / |
 
-> [!example]- 图2：所选研究整体[[Forest Plot\|森林图]]
+> [!example] 图2：所选研究整体[[Forest Plot\|森林图]]
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig2_Forest_Plot_Overall.jpg)
 
 > [!warrant]- 理论推理桥梁
@@ -294,13 +294,13 @@ updated: 2026-10-20
 > | **技能类认知结果（Skill-Based）** | 42 | 0.391 | [0.197, 0.584] | 409.56 | 90.0% | 3.95 | 0.000 | 0.359 | 0.099 |
 > | **高阶思维技能（Higher-Order Thinking）** | 13 | 0.540 | [-0.036, 1.117] | 259.62 | 95.4% | 1.838 | 0.066 | 1.063 | 0.294 |
 
-> [!example]- 图3：知识类认知结果森林图
+> [!example] 图3：知识类认知结果森林图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig3_Forest_Plot_Knowledge_Based.jpg)
 
-> [!example]- 图4：技能类认知结果森林图
+> [!example] 图4：技能类认知结果森林图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig4_Forest_Plot_Skills_Based.jpg)
 
-> [!example]- 图5：高阶思维认知结果森林图
+> [!example] 图5：高阶思维认知结果森林图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig5_Forest_Plot_Higher_Order_Thinking.jpg)
 
 > [!warrant]- 理论推理桥梁
@@ -400,7 +400,7 @@ updated: 2026-10-20
 > | 假设缺失研究的平均 Hedges' $g$ | 0.00 |
 > | **将 $g$ 拉低至 $< 0.01$ 所需缺失研究数** | **2876.00** |
 
-> [!example]- 图6：随机效应模型漏斗图
+> [!example] 图6：随机效应模型漏斗图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig6_Funnel_Plot.jpg)
 
 > [!warrant]- 理论推理桥梁
@@ -426,12 +426,12 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 认知中介定位
+> [!citation-card] 认知中介定位
 > 结果表明，AI [[AI Agent in Education\|智能体]]对学生的认知学习成果具有中等程度的积极影响（$g = 0.404, p < .001$）。这表明 AI 智能体不仅仅是替代传统教学的工具，而是作为活跃的学习中介发挥作用。与静态数字技术不同，AI 能够响应学习者输入的信息，实现个性化脚手架、提供交互式学习环境并给予即时反馈。（pp.9–10）
 >
 > *The results show that AI agents have a moderately positive effect on student cognitive learning outcomes, with an overall [[Effect Size]] of (g = 0.404, p < 0.001). This suggests that AI agents are not merely tools to substitute traditional teaching, but act as active mediators of learning, especially in the 21st-century era... Unlike static digital technology, AI acts to respond to learners' inserted information, allowing for personalized scaffolding, providing interactive learning environments, and offering immediate corrective feedback.*
 
-> [!citation-card]- 发展阶段与学科适配性
+> [!citation-card] 发展阶段与学科适配性
 > 高小学段获得的强劲效应量（$g = 0.877$）表明该阶段学生正经历从具体运算向形式运算的认知飞跃，自适应支架在此阶段能够产生最大效益；而在学科层面，语言与艺术学科的多轮表达与生成特性与 AI 智能体高度共振，相比之下，自然科学强调假设检验与具身实验，现有程序性 AI 智能体难以完全满足开放式科学探究的需求。（pp.11–13）
 >
 > *The strongest effect size observed in upper-primary level suggests that AI technology may be effective in transitioning the bridge of basic to complex cognitive skills... A significantly larger effect was demonstrated in language and literacy, as well as in the arts and [[Creativity]]... In contrast, natural science learning typically entails conceptual reasoning, [[Inquiry-Based Learning]], [[Hypothesis]] testing, and experimentation... AI agents in the K-12 context may constrain learners from developing or acquiring authentic scientific inquiry when applied in natural science contexts.*

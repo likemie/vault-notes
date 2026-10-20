@@ -124,7 +124,7 @@ citation_aliases:
 > | **政策创业与跨国倡导（Mintrom, 2000; Ball, 2012）**<br>[[Policy Entrepreneur\|政策创业者]] / [[Policy Network\|政策网络]] | 解释具备专业威望的学者或专家如何抓住[[Policy Window\|政策窗口]]，将个人研究包装为标准化的改革方案，同时获取政策[[Discourse\|话语]]权与商业回报。（pp.65–70） |
 > | **风险慈善理论（Scott, 2009; Ball, 2012）**<br>[[Venture Philanthropy\|风险慈善]] / [[Philanthrocapitalism\|资本主义慈善]] | 分析现代基金会不再单纯提供救济金，而是像风险投资机构一样深度干预学校办学，要求量化评估并寻求成效扩散的运作逻辑。（pp.46–48, 54–57） |
 
-> [!figure]- 图1：组织单元形式与关系处理方式矩阵（Thompson, 1991）
+> [!figure] 图1：组织单元形式与关系处理方式矩阵（Thompson, 1991）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig1_Organisational_Forms_Thompson.jpg)
 
 > [!warrant]- 理论如何支撑论证
@@ -169,7 +169,7 @@ citation_aliases:
 
 ### 论证步骤一　网络治理正在取代公立教育的科层管理体制
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 2008 年以来，新西兰中央政府逐步放弃对公费教育的全额资助责任，转而将自身定位为提供部分补贴的购买方；与此同时，依靠私人信任与利益结盟的[[Network Governance|网络治理]]，正在替代原有的科层规制与公开市场，成为主导公立学校改革的核心机制。（pp.21–34）
 
 #### 1. 政府逐步将办学责任缩减为财政部分补贴
@@ -231,7 +231,7 @@ citation_aliases:
 
 ### 论证步骤二　双层法人架构为政策创业者的商业获利提供了税收规避机制
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 新西兰法律允许非营利慈善机构设立全资营利公司，促成了[[Educational Management Organisation|教育管理组织]]（EMO）的双层套利结构；具备学术声誉的政策学者深度融入这一结构，将公费科研成果转变为跨国专有商业品牌，获取丰厚个人报酬与免税结余。（pp.46–54, 65–76）
 
 #### 1. 慈善信托控股营利公司形成了免税资金的内部循环
@@ -266,7 +266,7 @@ citation_aliases:
 
 哈蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业中学术、政策与商业相互强化的循环机制：
 
-> [!influence-path]- 约翰·哈蒂学术影响力的商业化转化路径
+> [!influence-path] 约翰·哈蒂学术影响力的商业化转化路径
 > - **理论** 依托大学与国家科研资助完成大规模元分析数据库，确立“可见的学习”理论权威。（p.65）
 > - **政策** 深度嵌入教育部决策网络，将理论模型转化为全国教师专业评价政策。（p.66）
 > - **跨国传播** 授权商业管理组织注册排他性跨国商标，推行标准化研修与学校认证特许。（pp.66, 78）
@@ -313,7 +313,7 @@ citation_aliases:
 
 ### 论证步骤三　私营机构参与公立学校呈现出多元异质的组织形态
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 介入公立教育的六大典型案例展现了不同的利益取向：跨国企业通过标准化标准垄断市场，本土管理组织借助政府外包赚取高额结余，超级基金会优先追求资本长期增值，地方协调组织充当外包杠杆，而大众救济慈善则被迫替退缩的福利国家收拾残局。（pp.76–133）
 
 为深入理解不同组织的具体运作，报告对六家代表性实体进行了系统对比：
@@ -447,7 +447,7 @@ citation_aliases:
 
 ### 论证步骤四　教育管理组织的商业索取动摇了免费义务教育的社会契约
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 必须在法理与实质经济学意义上严格区分从公费系统净抽取资金的机构与向学校纯投入资源的慈善机构；商业化教育管理组织从公立学校获取的预算，远高于其返还的服务与微量资助，实质上侵蚀了公费教育资源，背离了国家保障免费义务公立教育的社会契约。（pp.134–136）
 
 #### 1. 营利型管理组织从公立学校净抽走资金
@@ -503,13 +503,13 @@ citation_aliases:
 > - **NZ\$1.215B** 北方基金会在 2015 年末积累留存的庞大净资产规模。（p.112）
 > - **NZ\$0 → NZ\$4.55M** [[KidsCan|儿童之友]]（KidsCan）账面留存净资产在 2007 至 2015 年间实现的快速增长。（p.130）
 
-> [!figure]- 图2-3：教育慈善机构总收入分布图（数量与占比）
+> [!figure] 图2-3：教育慈善机构总收入分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig2_3_Educational_Charities_Income.jpg)
 
-> [!figure]- 图4-5：教育慈善机构总支出分布图（数量与占比）
+> [!figure] 图4-5：教育慈善机构总支出分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg)
 
-> [!figure]- 图6-7：教育慈善机构总资产分布图（数量与占比）
+> [!figure] 图6-7：教育慈善机构总资产分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg)
 
 ---

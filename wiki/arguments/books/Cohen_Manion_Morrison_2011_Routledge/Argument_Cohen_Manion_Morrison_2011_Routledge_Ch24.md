@@ -104,7 +104,7 @@ updated: 2026-10-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第24章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第24章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24_Concept_Map.jpg)
 
 ## 章节内容
@@ -159,7 +159,7 @@ updated: 2026-10-16
 >
 > **Reynolds and Kamphaus（2003）**《儿童心理与教育评估手册》（*Handbook of Psychological and Educational Assessment of Children: Intelligence, Aptitude and Achievement*）涵盖以下领域：
 >
-> > [!case]- 图 24.1　手册覆盖领域
+> > [!case] 图 24.1　手册覆盖领域
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-1_Reynolds_Kamphaus_2003_Coverage.jpg)
 >
 > - 心理与教育评估的历史
@@ -224,7 +224,7 @@ updated: 2026-10-16
 > - **计算简洁** 非参数统计的计算比参数统计更简单
 > - **情境贴合** 针对特定机构、部门和个体情境量身定制，为教师提供快速、相关且聚焦的学生表现反馈
 
-> [!case]- 非参数测验的日常案例
+> [!case] 非参数测验的日常案例
 > 参数测验（具有真正零点和计分规则）正是课堂教师的**常规工具** 拼写测验、数学测验、年终考试、模拟考试都属此类。教师每天都在使用非参数测验，尽管可能没有意识到这个术语。
 
 #### 两类测验的效力差异与选择逻辑
@@ -282,7 +282,7 @@ updated: 2026-10-16
 > 3. **计算比例** 学生的测验成绩计算为最高可能得分的比例
 > 4. **推断全域** 该比例用作学生已掌握整个领域比例的指标
 
-> [!case]- 领域参照推断的具体计算
+> [!case] 领域参照推断的具体计算
 > 假设一个领域有 1000 个项目，测验包含 50 个项目，学生得分 30 分（满分 50 分），则推断该学生已掌握该领域的 60%（{30 ÷ 50} × 100）。
 >
 > 这种从有限项目到整个领域的推断要求**谨慎且具有代表性的项目抽样程序**，这是领域参照测验科学性所在，也是其最容易受质疑的环节。
@@ -336,7 +336,7 @@ Howitt and Cramer（2005）指出商业测验的购买和施测成本高昂、�
 > - **翻译与文化等价性** 商业测验即使有其他语言版本，也需要检查翻译的正确性，以及测验项目在目标语言中是否承载与原语言**相同的含义和内涵**。将一种语言和一种文化中开发的测验引进另一种语言和文化通常是**危险的**，存在效度、偏差和[[Reliability\|信度]]问题。
 > - **目的-内容匹配** 商业诊断测验可能不适用于成就评估的需要；成就测验可能缺乏研究者寻求的预测品质；阅读测验可能未覆盖研究者想评估的阅读领域。商业测验按定义不针对特定机构或当地情境，声称客观性的理由正是**刻意超越机构**。
 
-> [!note]- 选择商业测验的黄金法则
+> [!note] 选择商业测验的黄金法则
 > 使用商业出版测验必须证明**目的适切性（[[Fitness for Purpose]]）**。Cronbach（1949）和 Gronlund and Linn（1990）制定了一套评估商业测验是否适合特定[[Research Purpose\|研究目的]]的准则。
 >
 > 若未能证明目的适切性，研究者就必须自编测验。自编测验的优势在于紧密贴合当地和机构情境——目的、目标和内容将刻意匹配研究者在特定给定情境中的具体需求。
@@ -480,7 +480,7 @@ IRT 建立在以下关键假设之上：
 >
 > **表 24.1** 以一个中学历史课程为例，说明了这种矩阵的构建方式。矩阵的行是内容领域（如战前局势、法国入侵等），列是课程目标（用编号 1a–3c 表示具体规格）。
 
-> [!case]- 表 24.1　A matrix of test items（历史课程测验项目矩阵）
+> [!case] 表 24.1　A matrix of test items（历史课程测验项目矩阵）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-2_Table_24-1_Matrix_of_Test_Items.jpg)
 
 > [!info] 矩阵分析可以揭示的关键信息
@@ -493,7 +493,7 @@ IRT 建立在以下关键假设之上：
 
 **权重分配顺序**（Gronlund & Linn, 1990）：先在各列底部设置百分比 → 再在各行末尾设置百分比 → 然后在这些规格限制内完成每个单元格。这确保项目获得适当的抽样和覆盖。
 
-> [!case]- 表 24.2　Compiling elements of test item（起重机活动测验项目要素）
+> [!case] 表 24.2　Compiling elements of test item（起重机活动测验项目要素）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-3_Table_24-2_Compiling_Elements_of_Test_Item.jpg)
 
 > [!info] 表 24.2 的替代用途
@@ -578,7 +578,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 **计算程序** 假设研究者为某学校 30 名学生编制数学测验（A 班）。在另一学校（B 班）对 30 名同龄学生进行[[Pilot Testing|预测试]]。将 30 名预测试学生的分数分为三组（高、中、低各 10 人）。取高分组和低分组计算：
 
-> [!case]- 图 24.4　项目区分度计算公式
+> [!case] 图 24.4　项目区分度计算公式
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-4_Item_Discriminability_Formula.jpg)
 
 > [!formula] 区分度指数
@@ -588,13 +588,13 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 >
 > **判断标准** 最大值 1.00；小于 0.67 的题目应首先审查是否存在措辞歧义或暗示线索；是否使用低于 0.67 的题目取决于研究者的[[Professional Judgment\|专业判断]]。常模参照中区分度至关重要，标准参照中区分度不是中央关注。
 
-> [!case]- 区分度计算示例
+> [!case] 区分度计算示例
 > 高分组 10 人全部答对（$A = 10$），低分组 2 人答对（$B = 2$），$N = 20$：
 >
 > > [!formula] 计算过程
 > > $$\text{区分度指数} = \frac{10 - 2}{20} = 0.40$$
 
-> [!case]- 图 24.5　区分度计算示例
+> [!case] 图 24.5　区分度计算示例
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-5_Discriminability_Example_Calculation.jpg)
 
 ---
@@ -629,7 +629,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 >
 > **判断标准** 最大值 100%；低于 33% 可能过难，高于 67% 可能过易。常模参照理想难度约为 50%（Frisbie, 1981）；标准参照难度应匹配任务或目标的固有难度，容易的目标应有高难度指数，困难的目标应有低难度指数。
 
-> [!case]- 图 24.6　项目难度计算公式
+> [!case] 图 24.6　项目难度计算公式
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-6_Item_Difficulty_Formula.jpg)
 
 > [!case] 难度计算示例
@@ -638,7 +638,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 > > [!formula] 计算过程
 > > $$\text{难度指数} = \frac{12}{20} \times 100\% = 60\%$$
 
-> [!case]- 图 24.7　难度计算示例
+> [!case] 图 24.7　难度计算示例
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-7_Difficulty_Example_Calculation.jpg)
 
 > [!warning] 项目分析的实证循环
@@ -713,7 +713,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 >
 > 在上述 10 项例子中，因子分析可能发现三个因子：
 >
-> > [!case]- 图 24.8　因子分析结果示意
+> > [!case] 图 24.8　因子分析结果示意
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-8_Factor_Analysis_Results.jpg)
 >
 > - **因子 1：积极情感** 项目 9、10
@@ -757,7 +757,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 > - **留空空间** 暗示应写多少
 > - **空白位置** 句子不同位置的空白受已读内容的前指（anaphoric）和后指（cataphoric）阅读线索辅助
 
-> [!note]- 填空题的编写准则（Hanna, 1993, pp. 139–141; Cunningham, 1998）
+> [!note] 填空题的编写准则（Hanna, 1993, pp. 139–141; Cunningham, 1998）
 > - **空白靠后** 将空白靠近句末
 > - **长度一致** 保持空白长度一致
 > - **唯一答案** 确保只有单一正确答案
@@ -770,7 +770,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 <br>
 
-> [!note]- 多项选择题的编写准则
+> [!note] 多项选择题的编写准则
 > Gronlund and Linn（1990）、Hanna（1993, pp. 161–175）、Cunningham（1998）和 Aiken（2003）提出以下准则：
 >
 > **题干设计：**
@@ -796,7 +796,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 <br>
 
-> [!note]- 是非题的常见问题（Morris et al., 1987; Hanna, 1993, p. 147; Cunningham, 1998; Aiken, 2003）
+> [!note] 是非题的常见问题（Morris et al., 1987; Hanna, 1993, p. 147; Cunningham, 1998; Aiken, 2003）
 >
 > **问题清单：**
 > - **意义模糊** 表述不清，可多重解读
@@ -824,7 +824,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 <br>
 
-> [!note]- 配对题的困难与应对（Morris et al., 1987; Hanna, 1993, pp. 150–152; Cunningham, 1998; Aiken, 2003）
+> [!note] 配对题的困难与应对（Morris et al., 1987; Hanna, 1993, pp. 150–152; Cunningham, 1998; Aiken, 2003）
 >
 > **三个核心困难：**
 > - **排除法匹配** 学生可能通过内容、语法或概念的排除来匹配，而非通过理解
@@ -844,7 +844,7 @@ Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 <br>
 
-> [!note]- 论文题的优势与应对
+> [!note] 论文题的优势与应对
 >
 > **优势：**
 > - **复杂测量** 作为开放形式，能测量复杂的学习结果
@@ -1111,7 +1111,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 
 ---
 
-> [!case]- 图 24.9　Companion Website
+> [!case] 图 24.9　Companion Website
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-9_Companion_Website.jpg)
 >
 > [配套网站](https://www.routledge.com/textbooks/cohen7e) 提供第 24 章 PowerPoint 幻灯片，列出各节结构并总结要点。
@@ -1120,42 +1120,42 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 
 ## 关键引用
 
-> [!citation-card]- 测验作为数值型数据收集方法
+> [!citation-card] 测验作为数值型数据收集方法
 > 在测验中，研究者拥有一种强大的资料收集方法，一种收集数值型而非言语型数据的令人印象深刻的测验阵列。（第 24 章，引言）
 >
 > *In tests, researchers have at their disposal a powerful method of data collection, an impressive array of tests for gathering data of a numerical rather than verbal kind.*
 
-> [!citation-card]- 参数测验的三项假设
+> [!citation-card] 参数测验的三项假设
 > 参数测验假设：分数在总体中呈正态曲线分布；测验分数之间为连续且等距的间隔；如果测验具有真正零点，则可能使用比率数据。这与[[Questionnaire\|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔。（第 24 章，24.2 节；Morrison, 1993）
 >
 > *[[Parametric and Non-parametric Tests\|parametric tests]] assume a normal curve of distribution of scores in the population, continuous and equal intervals between the test scores, and with tests that have a true zero, the opportunity for ratio data.*
 
-> [!citation-card]- [[Criterion-Referenced Test\|标准参照测验]]的目的
+> [!citation-card] [[Criterion-Referenced Test\|标准参照测验]]的目的
 > 标准参照测验不将学生与学生比较，而是要求学生满足一组预设标准——一个预定义的、绝对的标准或结果。（第 24 章，24.3 节；Cunningham, 1998）
 >
 > *A criterion-referenced test does not compare student with student but, rather, requires the student to fulfil a given set of criteria, a predefined and absolute standard or outcome.*
 
-> [!citation-card]- [[Classical Test Theory\|CTT]] 的基本公式
+> [!citation-card] [[Classical Test Theory\|CTT]] 的基本公式
 > 观测分数（$X$）等于真实分数（$T$）加上误差（$E$）：$X = T + E$。（第 24 章，24.5 节）
 >
 > *The observed score (X) is the true score (T) plus the error (E) (X = T + E).*
 
-> [!citation-card]- [[Item Response Theory\|IRT]] 的核心突破
+> [!citation-card] [[Item Response Theory\|IRT]] 的核心突破
 > IRT 使研究者能够以独立于特定受试者样本的方式描述项目（即[[Item Analysis\|题目难度]]和区分度不依赖样本），以及以独立于任何特定项目样本的方式描述受试者（即受试者的能力不取决于特定的项目样本）。可以在施测前指定和预测测验属性，并计算每位受试者测量精度的统计量。（第 24 章，24.5 节）
 >
 > *IRT is based on the view that it is possible to describe an item independently of any particular sample of people who might be responding to it, i.e. is not group-dependent, and to describe a person independently of any sample of items that has been administered to that person.*
 
-> [!citation-card]- [[Pilot Testing\|预测试]]的不可替代性
+> [!citation-card] [[Pilot Testing\|预测试]]的不可替代性
 > 项目区分度和难度只有在测验完成后才能知道，因此对自编测验的预测试是不可避免的。区分度和难度有限的项目必须剔除并替换，区分度最佳和难度最适当的项目可以保留，但这只能在预测试数据分析之后进行。（第 24 章，24.5 节）
 >
 > *Given that the researcher can only know the degree of item discriminability and difficulty once the test has been undertaken, there is an unavoidable need to pilot home-grown tests.*
 
-> [!citation-card]- 测验伦理的核心原则
+> [!citation-card] 测验伦理的核心原则
 > 测验数据只能用于测验编制的目的；测验数据被用于其他目的在伦理上是高度可疑的。（第 24 章，24.8 节）
 >
 > *The test data should only be used for the purpose for which the test was constructed; too often test data become used for purposes other than these, and this is ethically highly questionable.*
 
-> [!citation-card]- CAT 的效率
+> [!citation-card] CAT 的效率
 > [[Computerized Adaptive Testing\|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
 >
 > *Computer adaptive testing can reduce the number of test items present to around 50 per cent of those used in conventional tests.*

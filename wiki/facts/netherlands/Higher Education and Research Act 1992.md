@@ -70,7 +70,7 @@ updated: 2026-10-15
 > [!claim] 政策核心
 > 1992 年《高等教育与科研法》（WHW）是荷兰高等教育的现代宪章；它废除了国家对大学的事前课程与编制审批，将[[Research Universities|研究型大学]]与应用科技大学统一置于宏观框架法下，法定确立了高校自治法人地位、整笔[[Block Grants|总额预算]]拨款、对话式发展规划（[[Higher Education and Research Plan|HOOP]]）与事后独立同行质量评估体系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 150)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 终结微观行政管制泥潭，赋予高等院校完全的办学、财务与内部治理自治权，重塑高校面向社会需求的动态自适应能力与国际[[Competitiveness|竞争力]]。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
 > - **适用对象** 荷兰全体公立大学、应用科技大学（HBO）管理层、教授共同体与质量督导机构。
 > - **政策工具** 框架立法（Framework Legislation）、整笔总额拨款（Block Grants）、两年一度的高等教育与科研规划对话（HOOP）、学科同行外部巡视委员会（Visiting Committees）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 146)]]
@@ -102,7 +102,7 @@ updated: 2026-10-15
 > - **中介枢纽** [[VSNU|荷兰大学联合会]]（VSNU）与高等职业教育委员会（[[HBO-Raad]]），组织全国同行质量巡视委员会。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145, 150)]]
 > - **监督兜底** 高等教育国家督导团（Inspectorate of Higher Education），负责对同行评估报告开展二次独立监督。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 150)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央去规制化下放** 教育部废除厚达数百页的细则手册，仅保留宏观规划指南与拨款总额核算公式。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 137, 146)]]
 > - **双向战略规划对话** 政府与高校依托两年一度的《[[Higher Education and Research Plan|高等教育与科研规划]]》（HOOP）开展对话，各校自主编制中长期机构发展规划（Instellingsplan）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
 > - **同行评议质量保障机制** 以学科为单位组建跨校独立同行评议小组，定期入校巡视并公开发布评估报告，向公众与政府提供反馈回路。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 150–152)]]

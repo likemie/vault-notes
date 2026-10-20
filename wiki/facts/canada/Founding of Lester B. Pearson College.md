@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 从等待军用校园到森林书院开幕
+> [!dev-timeline] 从等待军用校园到森林书院开幕
 > - **1970 年初　皇家路方案终止** 皇家路国防学院确认不会释放，乔治·[[Rob Kitchin\|基钦]]将军（General George Kitching）主张改为主动建设，结束对现成军用校园的依赖。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 109–110)]]
 > - **1970 年 6 月　教育领导提前进入** 加拿大方面在校址、建筑和完整资本尚未落实时任命学校负责人，使校长能够参与空间、课程与共同生活的初始设计。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 111, 119–120)]]
 > - **1971 年　西部创办结构形成** 罗伯特·休斯顿（Robert Houston）接任国家委员会主席，西部创办委员会承担资本建设和未来地方治理，安大略方面继续负责全国选拔与奖学金。
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 关键声明
 
-> [!citation-card]- 百分之百奖学金入学目标
+> [!citation-card] 百分之百奖学金入学目标
 > 书院不以富裕家庭子女为对象。目标是实现百分之百奖学金入学，即使实现这一目标极为困难，也不能放弃这一公共方向。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 121)]]
 >
 > *It is not a private school for the children of rich people. We are aiming for 100 percent scholarship enrolment. We realise that this is extremely difficult, but that is what we are aiming for.*

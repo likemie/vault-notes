@@ -88,7 +88,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 包含成对测量数据的个体、班级、学校、年份或[[Meta-analysis|元分析]]中的实证[[Study Population and Sample|研究样本]]。
 > - **输出形式** 积差相关系数 $r$、决定系数 $R^2$、双尾或单尾显著性检验 $p$ 值以及对应[[Confidence Interval|置信区间]]。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Pearson 相关属于双变量推断统计，报告时统计符号 $r$ 须以斜体呈现，核心功能在于量化两个连续变量间关联的强度与方向。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8, Table 8.3)]]
 >
 > *Pearson correlation (r) relates two continuous variables to examine the strength and direction of the association.*

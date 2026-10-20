@@ -112,7 +112,7 @@ updated: 2026-10-20
 > - **用途** 用于院校与系统的质量问责与增值监测、高利害专业准入与招生选拔、课程大纲与评估任务的[[Constructive Alignment\|建构性对齐]]审核，以及日常课堂中向师生提供精准的[[Formative Assessment\|形成性评价]]反馈。
 > - **边界** 测量命令词或题型格式本身不能等同于高阶思维的实际发生；[[Multiple-Choice Questions\|客观选择题]]易陷入“选项再认”而非“主动生成”的效度局限，自陈[[Questionnaire\|问卷]]则易受[[Common Method Variance\|共同方法变异]]与社会期望污染。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–26)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
 
-> [!citation-card]- 真实性任务与测评[[Paradigm\|范式]]转型
+> [!citation-card] 真实性任务与测评[[Paradigm\|范式]]转型
 > 测量[[Creativity\|创造力]]与批判性思维等高阶思维技能，需要采用精细的开放式且嵌入课程的表现任务（如研究项目、产品开发、学术展示等），使学生能够深入分析、应用知识并创造全新解决方案，而非仅仅在预设选项中进行勾选。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 >
 > *Measuring advanced-thinking skills such as creativity and critical thinking calls for the use of elaborate open-ended and curriculum-embedded tasks through which students can engage in analysis, apply knowledge and create new solutions, rather than select among pre-determined options.*

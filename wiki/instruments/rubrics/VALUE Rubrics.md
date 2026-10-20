@@ -68,7 +68,7 @@ updated: 2026-10-16
 > - **测量目的** 评估本科生在[[General Education\|通识教育]]与专业学习中达到的 16 项核心学习成果（涵盖[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、[[Problem Solving\|问题解决]]、公民参与等），作为标准化纸笔测验的校本[[Authentic Assessment\|真实性评价]]替代方案。
 > - **实施方式** 基于课程嵌入式真实学业作品（Authentic Student Work，如学术论文、设计项目、研究报告、反思档案袋）开展质性评审与表现分级。
 
-> [!citation-card]- 核心设计理念
+> [!citation-card] 核心设计理念
 > VALUE 量规由全美上百所高校的教师团队共同研制，旨在将广泛认同的高等教育[[21st Century Skills and Competencies Discourse\|核心素养]]转化为具体的表现描述符。它不依赖外部统一考试，而是直接嵌入日常教学作品，通过校内校准评分实现学习质量的形成性诊断与跨校基准比对。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
 >
 > *The VALUE rubrics were developed by teams of faculty to assess student work across 16 essential learning outcomes... They provide a national framework to measure authentic student achievement without relying on standardized testing.*

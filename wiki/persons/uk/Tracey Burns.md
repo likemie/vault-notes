@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Burns 的核心论旨在于：教育[[Knowledge Mediation\|知识中介]]不能止步于向学校与教师提供[[Abstract\|研究摘要]]与工具包，必须在政策、实践与公众媒介三个层面同时发力；中介机构的高夭折率本质上是政治与预算治理失灵的体现，而非学术绩效不足；唯有建立跨机构、跨国别的元中介协作网络（"中介的中介"），并保持对循证医学技术化异化的警惕，才能建构真正具有社会公信力的累积性教育知识基石。
 
 > [!citation-card] Burns & Schuller 论建构累积性知识基石的系统要求
@@ -109,7 +109,7 @@ updated: 2026-10-20
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告及国际政策咨询平台，直接影响[[EU|欧盟]]、英国、北欧及加拿大等国政府建立或评估本国[[Educational Brokerage Agency\|教育中介机构]]的政策决策；其 2007 年报告所确立的 6 家标杆中介机构成为[[International Education\|国际教育]]治理比较研究的共同参照。
 > - **跨国传播** 2022 年与 Schuller 合著章节成为[[Evidence-Based Education\|循证教育]]政策领域反思"技术官僚化"倾向与倡导"元中介协作"的重要理论资源，被后续 [[OECD]] 项目及各国[[Knowledge Mobilisation\|知识动员]]研究广泛引用。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 系统论述了 2007–2022 年全球中介机构演进的三重变迁，以及通过"中介的中介"建构跨国[[Cumulative Knowledge Base\|累积性知识库]]的行动路径。
 
 ---

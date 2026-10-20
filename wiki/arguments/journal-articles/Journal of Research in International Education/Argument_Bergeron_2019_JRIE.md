@@ -115,7 +115,7 @@ issuing_organization: ""
 > - **第一阶段（量化调查）** 使用研究者设计的“[[Theory of Knowledge\|TOK]] Survey”（包含教授 TOK 自信心量表（[[Confidence Teaching TOK Scale]]）与 DP 协调员[[Questionnaire\|问卷]]）。使用描述性统计、独立样本 t 检验、[[Analysis of Variance\|方差分析]]（ANOVA）和线性[[Trend Study\|趋势分析]]，探究国别、教龄和[[Class Size\|班级规模]]对教师态度与自信心的影响。
 > - **第二阶段（质性[[Focus Group\|焦点小组]]）** 基于问卷发现的问题，开展半结构化焦点[[Group Interview\|小组访谈]]。运用逐行[[Open Coding|开放编码]]和恒定比较法，归纳出教学法转变、行政排课问题及评估困难等核心主题。
 
-> [!stat-cards] 样本与[[Reliability\|信度]]快照
+> [!stat-cards]- 样本与[[Reliability\|信度]]快照
 > - **1,534** 量化样本（$n$），含 960 名 TOK 教师、585 名 DP 协调员，涵盖英、法、西三种语言的全球 IB 学校。
 > - **33** 质性样本（$n$），含 13男、20女，分别在澳大利亚（布里斯班）、荷兰（阿姆斯特丹）和美国（芝加哥）进行三场焦点小组访谈。
 > - **.798** 信度指标，“教授 TOK 自信心（[[Classical Test Theory\|CTT]]）”量表的 Cronbach's $\alpha$，表现出良好的[[Internal Consistency\|内部一致性]]。

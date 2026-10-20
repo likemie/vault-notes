@@ -60,7 +60,7 @@ updated: 2026-10-16
 > - **测量目的** 评估个体在 10 大特定艺术与科学领域的真实客观创造性成就，作为创造力研究中衡量“产品/成果（Product/Outcome）”效标的行业基准工具。
 > - **实施方式** 纸笔或计算机化自陈作答。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 自陈创造性成就问卷作为创造力心理测量学中最具代表性的客观产出测量工具，有效解决了传统纸笔[[Divergent Thinking\|发散思维]]测验难以直接反映现实世界高阶创造表现的效标难题。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 >
 > *The Creative Achievement Questionnaire provides an objective, domain-specific measure of real-world creative accomplishments across ten distinct domains of human endeavor.*

@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 发展与测评演变脉络
+> [!dev-timeline] 发展与测评演变脉络
 > - **1958–1960s 初 — 机构创立与探索性先导研究** 跨国学者在汉堡确立通过标准化[[Achievement and Aptitude Tests|成就测验]]开展跨国比较的设想；1959–1962 年实施 12 国先导测试（Pilot Twelve-Country Study），证实了跨语言与跨文化标准化量化测验的可行性。
 > - **1964–1967 — 首次国际数学研究（FIMS）确立跨国实证典范** 实施覆盖 12 个国家的首个正式大规模比较项目（First International Mathematics Study, FIMS），首次系统测定学校特征、家庭背景与数学学业产出之间的统计共变关系，成为战后第三代际实证[[Scientific Paradigm|科学范式]]的标杆。卡扎米亚斯指出，哥伦比亚大学学派的诺亚与埃克斯坦正是依托此类大规模跨国数据集与[[Multiple Regression|多元回归]]技术，将具体的国家名称消解为跨国[[Variable|变量]]（如家庭收入不平等程度、中央集权度），推动了比较教育向[[Scientific Method|经验科学]]的大转型。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1970s–1980s — 测评学科拓展与政治危机触发** 推进“六门学科调查”（Six-Subject Survey）与第二次数学研究（SIMS）；1983 年美国因 IEA 早期测评中学生表现远逊于日本而爆发体制危机，直接促成了《[[A Nation at Risk 1983|国家在危机中]]》报告的出台与对日本教育模式的借用浪潮。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 234–235)]]

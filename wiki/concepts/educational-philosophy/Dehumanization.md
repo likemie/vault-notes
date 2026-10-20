@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者揭示压迫制度对受压迫者及压迫者双方人性的破坏性。
 > - **边界** 不等于抽象的道德失范；必须紧密结合具体的社会阶级剥削与制度控制关系。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 对于压迫者而言，“人类”仅指他们自己；其他人则全都是“东西”。打破这一非人性化不公是解放教育的最高使命。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61 注脚72)]]
 >
 > *For the oppressor, 'human beings' refers only to themselves; other people are 'things'. (Freire, 2000, p. 57; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 61]])*

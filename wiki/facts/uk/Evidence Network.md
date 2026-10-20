@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 ## 历史沿革与演变脉络
 
-> [!dev-timeline]- 证据网络的发展演进历程
+> [!dev-timeline] 证据网络的发展演进历程
 > - **1999–2009 — ESRC 资助下的实体网络探索期** 依托英国循证政策与实践中心建立专门在线门户（`www.evidencenetwork.org`），广泛整合教育、公共卫生与刑事司法领域的实证证据，发布系列政策工作论文与循证方法指南，成为英国跨界[[Knowledge Mobilisation\|知识动员]]的先驱实验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
 > - **2010s — 职能内嵌与高校政策研究所转型** 随着 ESRC 专项资助周期结束，原网络门户逐渐由各大学内部实体机构承接升级——以伦敦国王学院政策研究所（Policy Institute at King's College London）为代表，大学将证据网络职能转化为常设性智库功能，持续为英国白厅（Whitehall）中央政府与国际组织提供政策咨询。
 > - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，非洲证据网络（African Evidence Network，AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry\|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry\|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > - **政策决策伙伴** 中央各部委（如英国教育部 DfE、内阁办公室 Cabinet Office）官员、地方教育当局与议会委员会分析师。
 > - **一线实践节点** [[School Leadership\|学校领导]]者、骨干教研员与教师专业组织，负责在实践情境中验证与反馈证据效度。
 
-> [!pathways]- 关系型[[Knowledge Mobilisation\|知识动员]]机制与运行路径
+> [!pathways] 关系型[[Knowledge Mobilisation\|知识动员]]机制与运行路径
 > - **反向需求拉动与议程共创** 改变单纯由学者闭门选题的惯性，通过定期圆桌会议让决策者与实践者提前介入课题设计，精准对接国家重大改革需求；
 > - **成果去专业化转译与政策简报** 将动辄数百页的学术论著与[[Meta-analysis\|元分析]]转化为直指决策痛点的精炼政策摘要（Policy Briefings）与操作指南；
 > - **跨界交往空间与信任资本培育** 依托面对面工作坊、联合研修班与非正式对话，消除不同制度文化与专业行话带来的交流阻力，建立跨越体制壁垒的非交易性伙伴关系。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122)]]

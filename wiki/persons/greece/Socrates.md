@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **核心角色** 苏格拉底被视为西方学习传统中“未经[[Examined Life|省察的生活]]”与“心智及其奇迹（[[Mind and Its Wonders]]）”两大支柱的最崇高人格[[Avatar|化身]]。他既是“叮咬雅典怠惰骏马的牛虻”，又是“执行审慎评判与明智评估的西方[[Sage|圣人]]”，是西方[[Critical Thinking|批判性思维]]无可争议的文化化身[[Argument_Li_2012_Cambridge|(Li, 2012, p. 33)]]。
 > - **代表贡献** 创立苏格拉底式反诘法（[[Socratic Elenchus|Elenchus]]）与精神[[Socratic Dialogue|助产术]]（Maieutics）；确立“[[Examined Life|未经省察的生活不值得过]]”这一哲学反思基石；在[[Meno|《美诺篇》]]中通过童奴几何演示创立知识即回忆说（Theory of Recollection），开启了西方启发式提问教学与先天心智传统。
 
-> [!citation-card]- 赫克特论苏格拉底的创新性象征
+> [!citation-card] 赫克特论苏格拉底的创新性象征
 > 苏格拉底和耶稣并列为西方历史上最具创新性的人物代表。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164 脚注 2)]]
 >
 > *Socrates and Jesus stand side by side as the two most innovative figures in Western history.*
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 美德即知识（Virtue is Knowledge），唯有通过坚持不懈的自我理性审视，破除自以为是的虚假经验，人类才能触及真正的善与德性；承认自己的“无知”是一切真智慧探索的唯一起点；哲学家的神圣使命如同精神的助产士，不强行灌输教条，而是通过连续的反诘追问，唤醒谈话者心灵深处固存的理性与逻辑推理潜能。
 
 > [!theory-components] 苏格拉底哲学的四大核心构件
@@ -155,7 +155,7 @@ updated: 2026-10-20
 > - **政策路径** 苏格拉底宁死不放弃哲学探究与公开批评的殉道行为，成为西方现代[[Academic Freedom|学术自由]]、思想不受政治裁判以及公民良知抵抗的制度化伦理源泉[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 32–33)]]。
 > - **跨国／跨领域传播** 在中西比较视域下，苏格拉底与[[Confucius|孔子]]构成了人类古代轴心文明互为镜像的至圣先师[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164 脚注 2)]]；在当代人工智能教育技术中，纳伊姆通过解构其几何诱导的收敛预设缺陷，推动了智能导师从苏格拉底式向心理治疗式交互[[Paradigm|范式]]的现代转型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统挖掘苏格拉底作为西方学习传统“省察生活”与“心智奇迹”两大维度的奠基人，对比其向外追问真知与孔子向内修养人格的文明差异。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 批判苏格拉底问答法中预设唯一标准答案的收敛诱导性缺陷，论证现代人机[[Dialogue in Education|对话教学]]必须转向心理治疗式开放探究以捍卫学生的思想作者权。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨苏格拉底对话在克服传统储蓄式灌输教学中的潜能，同时警告缺乏心理安全与民主平等的反诘容易沦为居高临下的审查。
@@ -202,7 +202,7 @@ updated: 2026-10-20
 > >
 > > - **史学定性（[[Argument_Li_2012_Cambridge|Li, 2012]]）** 思想史研究中必须清醒意识到“柏拉图的苏格拉底”是一定程度上的哲学虚构与理念投射，与阿里斯托芬在戏剧《云》中讽刺的诡辩苏格拉底形成鲜明对立。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 批判苏格拉底回忆说问答法中唯一的预设标准答案对学生发散性创造力与作者权的压制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 警告脱离民主平等与心理安全的苏格拉底追问容易退化为压迫性的审问程序。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 剖析[[Socratic Elenchus|苏格拉底反诘法]]在跨文化人际沟通与情感关怀维度的局限性。

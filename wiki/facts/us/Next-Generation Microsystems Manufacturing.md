@@ -64,7 +64,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 下一代微系统制造计划的核心干预假说在于：通过政府高额资本开支建立一个具备工业级精度的本土开放式 [[Heterogeneous Integration|3DHI]] 中试制造中心，并配套开发标准化的[[Process Design Kit|装配设计套件]]（ADK）与自动化[[Hardware Security|硬件安全]]协议，能够将不同工艺节点制造的硅基数字逻辑、氮化镓射频芯片、磷化铟光子器件与高密度存储器在垂直空间实现微米级紧密堆叠，从而在摆脱二维单片物理微缩瓶颈的同时实现系统效能的数量级跃升。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 27–28)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 建立全美自主可控的本土三维异构集成开放中试中心，确立下一代微系统直接键合微互连技术标准，加速高密度异构芯片从概念样片向量产转化的速度。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 28)]]
 > - **覆盖对象** 全美半导体无晶圆厂设计公司、高科技国防承包商、[[Research Universities|研究型大学]]微电子工程系及小微硬件创客。
 > - **干预措施** 投资采购先进制程晶圆键合机、超高精度对准曝光装备、微凸点电镀及高纵横比硅通孔（TSV）蚀刻机台；开发跨芯片物理仿真与多物理场散热分析软件。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 27)]]
@@ -94,7 +94,7 @@ updated: 2026-10-20
 > - **半导体装备与先进封装企业伙伴** 提供原子层键合机、等离子体活化设备与高密度基板，联合开发[[Process Design Kit|装配设计套件]]（ADK）。
 > - **学术界与国防工业用户社群** 依据统一设计规范提交前沿 [[Heterogeneous Integration|3DHI]] 设计方案，分享中试流片批次并验证原型。
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **纵向传导与支持** 建立面向外部用户的“开放准入协议（Open-Access Policy）”，杜绝传统国防设施过度保密导致的排外现象，确保商业初创公司与学术界平权使用。
 > - **横向跨部门协同** 与美国国防部[[Microelectronics Commons|微电子共用体]] 8 大枢纽及商务部 [[National Advanced Packaging Manufacturing Program|NAPMP]] 建立跨平台数据接口与流片转接机制。
 > - **动态反馈与调整** 针对多材料键合时的热膨胀系数（CTE）失配难题，依托在位计量与数字孪生实时优化反应温度与键合压力曲线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 27)]]
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入指标** 联邦专项资助金额、先进封装与微互连设备采购就绪率、高标准洁净室建造达标面积。
 > - **过程与依从性指标** 开放准入用户数、跨材料异构流片批次、垂直对准互连精度（微米级至次微米级）。
 > - **产出与结果指标** 国防雷达/光电微系统体积缩减比、算力能效提升倍数、本土 [[Heterogeneous Integration|3DHI]] 知识产权与工艺套件发布量。

@@ -326,7 +326,7 @@ updated: 2026-10-20
 > > - **莱斯特（[[Argument_Lester_2005_MIT|Lester, 2005]]）** 专利许可仅占大学经济贡献的极小部分；不同区域的产业转型路径各异，盲目追捧重磅专利模式是严重的路径误判，大学必须因地制宜适配本地的产业升级需求。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
 > > - **商业化崇拜者阵营** 强调[[Technology Transfer Office|技术转移办公室]]（TTO）创收与高科技专利转让是量化评价[[Third Mission|大学第三使命]]最硬核的指标，力推高校技术知识产权资本化。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 批判了单一量化研发经费指标（GERD/GNP）的技术官僚迷思与无国界全球化神话，揭示出企业研产内部整合、[[Education for All|全民教育]]基础与母国制度环境对创新系统的深层决定性。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 揭示了传统国家创新系统学派局限于“系统失灵修补”（System-Fixing）的理论盲区，阐发了由国家主动设立方向并进行[[Market Shaping and Creating|市场塑造]]的必要性。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 揭示了传统[[Innovation Policy Paradigms|创新系统范式]]在应对气候危机时方向性不足的局限，以及大[[Corporate R&D Labs|企业研发实验室]]衰落后高校与初创企业难以完全弥补跨学科系统研发赤字的现实张力。

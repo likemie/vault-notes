@@ -77,7 +77,7 @@ updated: 2026-10-20
 > [!claim] 核心测评机制
 > NAEP 不向任何具体学生、教师或学校出具个人成绩单，亦不与奖惩高利害问责挂钩；它纯粹采用分层[[Random Sampling|随机抽样]]设计（[[Stratified Sampling|stratified random sampling]]）与矩阵抽样（Matrix sampling）技术，在大规模群体层面上精准估计全美及各州的学业分布与认知梯度，从而杜绝一线学校应试刷题或篡改分数的作弊动机。
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **三大熟练度成就水准（Achievement Levels）** 确立了广为人知的三级评定标准：基础级（Basic，展现对先决知识的部分掌握）、熟练级（Proficient，展现对复杂学科内容的扎实学术胜任力）以及高级（Advanced，展现卓越的[[Higher-Order Thinking Skills|高阶思维]]与[[Problem Solving|问题解决能力]]）。
 > - **刻度量表与跨期等值** 依托严密的[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT），在阅读与数学学科建立 0–500 分的统一度量量表，实现跨年度、跨年代的历史长期趋势（Long-Term Trend, LTT）稳健对比。
 > - **免受应试操纵的抽样架构** 每名参测学生仅需回答部分试卷模块（Matrix booklet design），极大地拓宽了测验对全学科大纲知识点的抽样覆盖广度，同时减轻了受试者的测试负担。

@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 传统中国构建了一套基于华夏中心主义文明优越感、将对外通商与周边地缘关系高度仪式化与道德化的[[Tributary System|朝贡体系]]；在该体系中，文化感召与礼仪从属先于且高于纯粹的经贸利益与行政控制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 
 > [!citation-card] 华夏中心主义与朝贡等级秩序
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **方法路径** 倡导深度整合多语种原始档案（汉文、满文、外文）与制度[[Documentary Analysis|文献分析]]，开创了近代中国制度史与外交史的跨学科[[Paradigm|研究范式]]。
 > - **跨国与当代传播** 其理论被后世比较教育与政治学者发展为当代跨国高等教育输出的[[Neo-Tributary Perspective|新朝贡视角]]（Pan & Lo, 2017, 2018；[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 梳理费正清经典朝贡模型在当代高等教育地缘战略研究中的理论投射，实证检验并[[Falsification|证伪]]了源自费正清学说的文化同化假设。
 
 ---

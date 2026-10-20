@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育研究目前处于产出数量激增但实际影响低效的严峻困境（dire state）；根源在于知识供给侧的质量赤字：理论根基脆弱且过度依附外部流行思潮、方法论上严重缺乏独立复现与外在评估（顶级期刊复现率仅 0.13%）、研究者普遍存在内幕偏误（评估者即干预开发者）以及政治行动主义倾向。摆脱困境的根本出路不在于让研究者迎合碎片化的即时实用诉求，而在于政府制定长期战略性增量资助规划投向蓝天基础研究，建立教育学自身的因果演绎理论体系与高标准同行评议自律机制，恪守实证研究的有效解释边界。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–206)]]
 
 > [!citation-card] 理论根基脆弱与概念借用之反思
@@ -146,7 +146,7 @@ updated: 2026-10-20
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 范达默系统诊断教育科研供给侧的三大深层病理（理论依附、复现赤字与政治过度承诺），提出长期基础研究资助与学术自律建制。（pp. 202–206）
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-20
 > > - **[[Critical Pedagogy\|批判教育学]]者（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）** 批评建制派将教育学还原为去政治化的量化因果科学，实质是在掩盖新自由主义问责对公共教育生态的侵蚀。
 > > - **曾薇薇安（2022）** 认为宣称价值中立的传统高校科研往往制造了系统性榨取，如果不以教育公平与社区赋权为导向，科学严谨性只会服务于维持特权现状。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 教师工会代表班斯与亨利指出，建制派学者将科研困境归咎于理论赤字，却忽视了制度上对教师专业[[Phronesis\|实践智慧]]的长期剥夺与结构性调查疲劳。（pp. 209–213）
 
 > [!warning] 未解问题与边界

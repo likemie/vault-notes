@@ -208,7 +208,7 @@ updated: 2026-10-20
 > AERO 首席执行官杰妮·多诺万（Jenny Donovan）在学术访谈中直言不讳地指出，机构之所以没有设立为传统的政府法定机构，而是依据《公司法》设立为担保有限公司，核心考量正是为了吸纳私人慈善与企业资本：
 > > “选择这种法人形式是刻意为之的。它使我们不仅能接受联邦和州政府的联合拨款，而且在法律结构上能够合法接受慈善捐赠与企业资金的注入（allow for philanthropic contributions）……这为我们提供了传统法定机构所不具备的灵活性。”（Jenny Donovan Interview; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 依据《公共治理、绩效与问责规则》立法授权，同政府教育部门、早期教育机构、大学科研机构及慈善基金会联合制定国家研究议程。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]])
 > - **证据转化与工具研制** 制定标准化证据量规（evidence rubrics），将[[Randomised Controlled Trials\|随机对照试验]]成果提炼为课堂实操指南，向教师与决策者推介“有效实践”。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
 > - **商业豁免与透明度控制** 企业法人属性使其在成立前 18 个月内免于向公众公开经审计的财务账目；同时为政府资金向私营咨询机构分包提供合法合规通道。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]])
@@ -232,7 +232,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与资本规模** 获得联邦及各州政府 5000 万澳元联合财政资助，对接数以亿计的跨国[[Venture Philanthropy\|风险慈善]]基金会（BHP 基金会、[[Sutton Trust\|萨顿信托]]）与金融咨询资本。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7–8]])
 > - **政策与制度渗透** 直接主导全国大学教师教育课程大纲制定，将原本柔性的循证指南上升为关乎院校办学资质与联邦资金分配的刚性问责铁律。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **生态与[[Discourse|话语]]垄断** 本土化移植英国 [[Education Endowment Foundation\|EEF]] 工具模型，依托公私网络形成对国家教育研究议程定义权的集中垄断。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])

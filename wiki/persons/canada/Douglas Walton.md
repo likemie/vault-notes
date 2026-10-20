@@ -56,7 +56,7 @@ updated: 2026-10-16
 > - **核心角色** 在当代论辩理论网络中，他突破了形式逻辑的形式有效性禁锢，系统建构了以"假定性推理"与"可撤销论式"为核心的论证分析学派。
 > - **代表贡献** 创立[[Walton's Argumentation Schemes\|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用对话中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 沃尔顿将论证型式定义为日常[[Discourse|话语]]中假定性推理的规范性结构，通过提出批判性提问清单来探测论证的漏洞并转移举证责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
 > *Walton defined argumentation schemes as forms of argument that represent structures of presumptive reasoning used in everyday discourse, accompanied by sets of critical questions that guide probing of the argument.*
@@ -85,7 +85,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类的实际推理与论辩绝非封闭的演绎有效性运算，而是在不完备信息情境下寻求合理假定（Presumption）的语用对话实践。论辩的理性并不依赖形式逻辑三段论的保真性，而依赖于定型论辩模式在多轮对话中经受批判性质询（Critical Questions）的动态抗辩能力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!citation-card] 假定推理与可撤销性
@@ -124,7 +124,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 指出[[Walton's Argumentation Schemes\|沃尔顿论证型式]]在科学论证评价中存在三重局限：① 批判性提问清单未提供[[Epistemology\|认识论]]与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!warning] 未解问题与边界

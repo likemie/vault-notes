@@ -76,7 +76,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 法案以法制化形式确立了联邦政府各部门系统建立数据治理、学习议程与评价能力的法定义务，通过推行“默认开放且机器可读”原则破除部委数据壁垒，并在严格保密机制下赋权科研界安全调取联邦教育与民生微观行政数据，为国家宏观[[Output-Oriented Governance\|循证治理]]奠定全域制度基座。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 破除政府数据孤岛与部门割裂，确保联邦拥有的非敏感数据能够以安全、合规、电子化和用户友好的方式向公众与学术研究者开放，推动实证数据深度嵌入政策决策闭环。
 > - **三大法定核心架构（Titles）**
 >   - **第一分编：联邦证据构建活动（[[Title I of the Elementary and Secondary Education Act\|Title I]]: Federal Evidence-Building Activities）** 法定要求各部委建立系统化“学习议程”（Learning Agendas）与年度评价计划（Annual Evaluation Plans），设立机构首席数据官（Chief Data Officer, CDO）与评价官（Evaluation Officer, EO）。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 > - **行业执行主体** 联邦教育部（ED）及所属国家[[Institute of Education Sciences\|教育科学研究院]]（IES），负责制定教育部四年期学习议程、协调微观教育数据安全访问。
 > - **科研与应用对象** 高校研究人员、政策智库、各州教育厅及学区管理者。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **顶层机制确立** 各部委设立首席数据官（CDO）、评价官（EO）与统计官员三大治理枢纽，编制机构级数据目录。
 > - **需求驱动证据构建** 废除过往盲目委托与碎片化立项，各机构必须围绕战略目标提出前置性“学习议程”，明确急需解答的循证政策命题。
 > - **安全开放与数据集成** 依据 CIPSEA 框架建立微观行政数据安全共享接口，推动教育数据与劳工、人口普查等跨部门大数据的交叉连接。

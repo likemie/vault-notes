@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 效度（validity）与[[Reliability|信度]]（reliability）在量化、质性、自然主义和[[Mixed Methods Research|混合方法研究]]中的含义与操作各不相同。核心前提是：**效度与信度适用于所有这些研究类型，只是在不同研究路径中处理方式有所差异（p.157）**。
 
-> [!example]- 图10.1：章节流程概览
+> [!example] 图10.1：章节流程概览
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_10-1_Chapter_Overview.jpg)
 
 ---
@@ -276,7 +276,7 @@ Lincoln and Guba (1985) 提出了质性研究效度的四项核心标准，每�
 > | 可依赖性 | dependability | 信度（reliability） | 研究过程和结果是稳定、可追踪、可审计的 |
 > | 可确认性 | confirmability | 客观性（objectivity） | 研究发现由数据和参与者建构而来，而非研究者偏见 |
 
-> [!tip]- 在这四项标准内达成严谨性的具体策略
+> [!tip] 在这四项标准内达成严谨性的具体策略
 > - **[[Audit Trail\|审计追踪]]（audit trails）** 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
 > - **成员核查（member checking / respondent validation）** 在编码或分类时让参与者确认、修正或补充
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
@@ -302,7 +302,7 @@ Maxwell (1992) 以"理解"（understanding）为核心，提出了五种质性�
 > - **[[Evaluative Validity\|评价效度]]（evaluative validity）**
 >   对被研究对象采取评价性、判断性立场，而非仅仅描述、解释或阐释。显然与[[Critical Theory\|批判理论]]视角共鸣——研究者自身的评价议程可能介入研究。评价效度不像其他四种那样试图保持中性，而是明确承认研究者的价值判断是研究效度的组成部分。
 
-> [!note]- 第六个维度：透明性
+> [!note] 第六个维度：透明性
 > Auerbach and Silverstein (2003) 增加了第六个维度——**透明性（transparency）** 读者能在多大程度上理解和被告知解释被实际达成的**过程（p.162）**。
 
 ---
@@ -384,7 +384,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln and Guba (1985) 等人的�
 > | 信度（Reliability） | 可依赖性（Dependability） |
 > | 观察（Observations） | 意义（Meanings） |
 
-> [!note]- 对 Table 10.1 的说明
+> [!note] 对 Table 10.1 的说明
 > 这些标准并非两种研究类型的专属领地。本表仅为启发式目的，指示两种研究传统在效度基础方面的**侧重点**差异（p.163）。在实际研究中，质性研究也可能关注可复制性（如多[[Case Study\|案例研究]]），量化研究也可能关注情境因素（如分层分析）。表中左右两列不应理解为非此即彼的对立，而是连续统上的不同位置。
 
 ---
@@ -440,10 +440,10 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln and Guba (1985) 等人的�
 >
 >   **应对策略** 降低显著性水平（如使用 ρ < 0.20 或 ρ < 0.30），或增大样本量以提高统计效力，或改进测量工具以更精确地捕捉干预的真实效果。
 
-> [!exegesis] 两类错误的权衡
+> [!exegesis]- 两类错误的权衡
 > 减少第一类错误的机会越多（如降低 ρ 值），犯第二类错误的机会就越大，反之亦然。教育研究者需要根据研究的实际后果来决定哪类错误更不可接受。评估一种新教学法时，第一类错误可能导致无效方法被推广（浪费资源），第二类错误可能导致有效方法被埋没（错失创新）。
 
-> [!note]- 在质性研究中的对应
+> [!note] 在质性研究中的对应
 > 在质性数据中，第一类错误指相信了一个实际上不真实的陈述，第二类错误指拒绝了一个实际上真实的陈述（pp.165–166）。这一区分提醒质性研究者：对数据的过度怀疑（拒绝真实）和[[Trust Calibration|过度信任]]（相信虚假）都是效度威胁。
 
 ---
@@ -561,7 +561,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 
 Schofield (1996, p. 200) 认为质性研究提供**清晰、详细和深入的描述**至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决**可比较性（comparability）** 和**可翻译性（translatability）** 这一对问题。他进一步提出质性研究可以通过两种方式实现可推广性（p. 209）：研究**典型**案例（其对其他情境的适用性——即可迁移性, LeCompte & Preissle, 1993, p. 324）；以及进行**多场所研究（multi-site studies, 如 Miles & Huberman, 1984）**。
 
-> [!boundary] Lincoln & Guba 对研究者任务的限定
+> [!boundary]- Lincoln & Guba 对研究者任务的限定
 > Lincoln and Guba (1985, p. 316) 明确界定：自然主义研究者**不应**试图提供可迁移性**指标**，这不是研究者的任务。研究者应做的是提供**足够丰富的数据**，让读者和[[Research Utilization\|研究使用]]者自行判断迁移是否可能。在此意义上，可迁移性需要**厚描述（thick description）（p.172）**。
 
 Bogdan and Biklen (1992, p. 45) 从更广泛的角度说：质性研究中我们更关心的是发现**可能**适用于哪些环境、人群和情境，而不是发现是否在最广义上是可推广的。
@@ -629,7 +629,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 
 构念是一个**抽象（p.176）**。构念效度在于就构念的"操作化"形式达成一致——澄清我们使用该构念时**意味什么**。
 
-> [!example]- 构念效度的经典例子：智力的操作化
+> [!example] 构念效度的经典例子：智力的操作化
 > "假设我想评估一个儿童的'智力'（为此示例假设智力是一个单一品质）。我可以说，我将智力解释为'削铅笔的能力'。这种对智力的构造有多可接受？智力难道不是其他什么东西吗——例如在智力测验中得高分所展示的东西？"
 >
 > 这个例子虽然极端，但精确地说明了构念效度的核心问题：**我对这个构念的理解是否与被普遍接受的该构念的理解一致？** 要建立构念效度，我需要确保我对特定议题的构造与其他对同一底层议题的构造或理论（如智力、[[Creativity\|创造力]]、焦虑、动机）**一致（p.176）**。
@@ -654,7 +654,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 > | **质性方法** | NVivo "接近性搜索"，整合来自不同群体、样本和子样本的数据以检查是否发现收敛 | 检查负面案例、偏差案例，比较子群体的数据以确定差异是否确实存在 |
 > | **混合方法检验** | 检查一种方法的数据是否与另一种方法聚焦同一问题的数据一致 | 检查假设不相关的因素是否在两种方法中都显示为不相关 |
 
-> [!example]- 混合方法中的收敛与区分效度验证
+> [!example] 混合方法中的收敛与区分效度验证
 > **收敛效度案例** 研究者调查社会阶层对高等教育获取的影响时，同时收集[[Qualitative Interview\|质性访谈]]数据和量化问卷数据。如果质性数据中工人阶级学生普遍报告"成本是核心障碍"，而量化数据也显示家庭收入与大学入学率显著正相关，且这一发现受到文献支持，那么**预期的收敛效度**就得到了证明。
 >
 > **区分效度案例** 研究者假设家庭收入（财富指数）与工人阶级学生的社会阶层向上流动**抱负（文化指数）** 不显著相关。如果量化数据（收入与抱负的相关系数接近零）和质性数据（学生明确说"我家不富裕但不影响我想上好大学"）都给出了不一致的、分离的结果，那么**区分效度**就得到了证明。
@@ -753,7 +753,7 @@ Matsumoto and Yoo (2006) 识别了跨文化研究的四个阶段（pp.179–180�
 > 3. **两个英文版本比较** 比较原始英文和回译英文——检查意义（和在少数情况下确切的措辞）是否相同
 > 4. **判断** 如果两个英文版本的意义相同 → 中文版本可接受；如果意义不一致 → 中文翻译有问题，需要修改并重新进行此过程
 
-> [!tip]- 增强回译效度的变体
+> [!tip] 增强回译效度的变体
 > - **双人翻译双人回译（Banville et al., 2000, p. 379）** 在译入和回译阶段各使用多人（各自独立工作），比较各自版本并讨论差异——避免单一译者的偏差
 > - **专业译者**Banville et al. (2000) 报告使用专业译员而非简单回译以确保翻译中相似项目的可区分性
 > - **去中心化（decentring）** 当目标语言中不存在完全对等的词汇时，可能需要对**原始语言和译文语言双方**做出妥协——原文和译文的语言同等重要（Liu, 2002, p. 81），且都对所有群体友好
@@ -771,7 +771,7 @@ Liu (2002) 补充建议：使用**主动而非被动语态**、简单短句、�
 > 6. **评估构念效度** 通过因子分析、量表间相关分析以及检验理论衍生的假设
 > 7. **建立常模** 通过选择样本来自的总体、统计指标以及计算均值、标准差和 z 分数——使用大量人群以建立常模的稳定性
 
-> [!note]- 步骤 4 的操作要点
+> [!note] 步骤 4 的操作要点
 > **双语参与者同时完成两种语言版本**，然后比较两套答案寻找差异（Liu, 2002, pp. 81–2）。这要求研究者能接触到足够大的双语参与群体——对于独立研究者可能不可行。
 
 > [!dimension] 3. 量化验证技术（pp.185–186）
@@ -1141,7 +1141,7 @@ Guba and Lincoln (1994) 认为信度概念主要是实证主义的。虽然广�
 > | **假设性案例** | 研究者准备假设性案例，预测受访者的可能回应 |
 > | **报告回访** | 研究者将研究报告带回受访者处，记录他们的反应 |
 
-> [!boundary] 依赖受访者验证的边界
+> [!boundary]- 依赖受访者验证的边界
 > 虽然可依赖性可能建议研究者需要回到受访者那里**检查**研究发现是否可靠，但研究者也需要谨慎：不要**排他性地依赖**受访者。Hammersley and Atkinson (1983) 指出，受访者**在解释自己的行为上并无特权位置**——他们既不是"文化玩偶"，也不是自己行为的唯一权威评论者（p.206）。
 
 ---
@@ -1190,7 +1190,7 @@ Guba and Lincoln (1994) 认为信度概念主要是实证主义的。虽然广�
 > | 半分法（[[Split-Half Reliability\|split-half]]） | — |
 > | 项目间相关（Alphas） Inter-item correlations | — |
 
-> [!note]- 对 Table 10.2 的说明
+> [!note] 对 Table 10.2 的说明
 > 此表显示：虽然有些信度特征是量化研究**独有**的（半分测试、等价形式和 Cronbach alpha），但许多信度特征（做必要修正后，_mutatis mutandis_）**同时适用于**量化和质性研究。此外，Table 10.2 也显示，有些在 Table 10.1（效度）中出现的特征也出现在 Table 10.2（信度）中——例如内容效度以**领域覆盖/情境全面性**出现、共时效度以**三角验证**出现，这表明文献中效度和信度之间存在**边界的模糊（p.207）**。
 
 ---
@@ -1317,7 +1317,7 @@ Belson (1986) 从两个角度看待邮寄问卷的效度（pp.216–218）：
 
 Hudson and Miller (1997) 提出了最大化邮寄问卷回应率的十二项策略：
 
-> [!tip]- 提高邮寄问卷回应率的策略
+> [!tip] 提高邮寄问卷回应率的策略
 > - 附上**贴邮票的回邮信封**
 > - **多轮追踪（最多三轮）** 请求回寄
 > - 强调问卷的**重要性和益处**
@@ -1528,37 +1528,37 @@ Plummer (1983) 提供了四种效度检查：
 
 ## 关键引用
 
-> [!citation-card]- 效度的程度论
+> [!citation-card] 效度的程度论
 > 效度应当被视为一个程度问题，而非一个绝对状态（Gronlund, 1981）。因此，我们充其量只能努力最小化无效度并最大化效度。（第10章, p.157）
 >
 > *Validity, then, should be seen as a matter of degree rather than as an absolute state (Gronlund, 1981). Hence at best we strive to minimize invalidity and maximize validity.*
 
-> [!citation-card]- [[Reliability\|信度]]与效度的逻辑关系
+> [!citation-card] [[Reliability\|信度]]与效度的逻辑关系
 > 信度是研究中效度的必要但不[[Necessary and Sufficient Conditions\|充分条件]]；信度是效度的必要前提，而效度可能是信度的充分但非必要条件。（第10章, p.157）
 >
 > *It is suggested that reliability is a necessary but insufficient condition for validity in research; reliability is a necessary precondition of validity, and validity may be a sufficient but not necessary condition for reliability.*
 
-> [!citation-card]- 效度附着于解释而非数据
+> [!citation-card] 效度附着于解释而非数据
 > 效度附着于解释（[[Accounts]]），而非数据或方法（Hammersley & Atkinson, 1983）；重要的是主体赋予数据的意义和从数据中得出的推论。（第10章, p.160）
 >
 > *Validity, then, attaches to accounts, not to data or methods (Hammersley & Atkinson, 1983); it is the meaning that subjects give to data and inferences drawn from the data that are important.*
 
-> [!citation-card]- Lincoln & Guba 四项[[Qualitative Validity\|质性效度]]标准
+> [!citation-card] Lincoln & Guba 四项[[Qualitative Validity\|质性效度]]标准
 > Lincoln and Guba (1985) 认为[[Qualitative Research\|质性研究]]中的效度的关键标准是：（a）可信性（替代量化[[Internal Validity\|内部效度]]概念）；（b）可迁移性（替代量化[[External Validity\|外部效度]]概念）；（c）可依赖性（替代量化信度概念）；（d）可确认性（替代量化客观性概念）。（第10章, p.161）
 >
 > *Lincoln & Guba suggest that key criteria of validity in qualitative research are: (a) credibility (replacing the quantitative concepts of internal validity); (b) transferability (replacing the quantitative concept of external validity); (c) dependability (replacing the quantitative concept of reliability); and (d) confirmability (replacing the quantitative concept of objectivity).*
 
-> [!citation-card]- [[Qualitative Reliability\|质性信度]]作为吻合度
+> [!citation-card] [[Qualitative Reliability\|质性信度]]作为吻合度
 > 在质性研究中，信度可被视为研究者记录为数据的内容和在被研究的自然情境中实际发生的内容之间的吻合度——即一定程度的准确性和覆盖面的全面性。（第10章, p.205）
 >
 > *In qualitative research reliability can be regarded as a fit between what researchers record as data and what actually occurs in the natural setting that is being [[ResearchED]], i.e. a degree of accuracy and comprehensiveness of coverage (Bogdan & Biklen, 1992, p. 48).*
 
-> [!citation-card]- Kitwood 的信度-效度矛盾
+> [!citation-card] Kitwood 的信度-效度矛盾
 > 通过理性化增强"信度"的程度越高，"效度"就越低。因为在研究中使用访谈的主要目的正是相信在**人际相遇**中，人们比在更少人性的情境中更可能披露自身的方方面面……换言之，访谈中独特的人性元素对其"效度"是必要的。（第10章, p.213）
 >
 > *In proportion to the extent to which 'reliability' is enhanced by rationalization, 'validity' would decrease. For the main purpose of using an interview in research is that it is believed that in an interpersonal encounter people are more likely to disclose aspects of themselves, their thoughts, their feelings and values, than they would in a less human situation. (Kitwood, 1977)*
 
-> [!citation-card]- Lather 的[[Catalytic Validity\|催化效度]]主张
+> [!citation-card] Lather 的[[Catalytic Validity\|催化效度]]主张
 > 催化效度的议程是帮助参与者**理解他们的世界，以便转变它**。议程是明确的政治性的……效度，有人认为（Mishler, 1990; Scheurich, 1996），不再是历史给定的，而是**可争辩的**——有效研究的定义存在于有权力的学术社群中。（第10章, pp.173–174）
 >
 > *The agenda for catalytic validity is to help participants to understand their worlds in order to transform them. The agenda is explicitly political... Validity, it is argued (Mishler, 1990; Scheurich, 1996), is no longer an ahistorical given, but contestable, suggesting that the definitions of valid research reside in the academic communities of the powerful.*

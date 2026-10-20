@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2017 — 法国教育部在弱势地区实施一、二年级[[Class Size\|班额]]缩减，从 24 人降至 12 人([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 实施情况
@@ -64,7 +64,7 @@ updated: 2026-10-16
 > [!success]
 > 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等后续研究显示[[Class Size\|班额]]对[[Academic Achievement\|学业成就]]的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis\|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 班额从 24 人降至 12 人([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])
 > - Bressoux 等 2003 年研究：阅读 ES = +.14，拼写 ES = +.22
 > - Campbell 元分析：阅读 ES = +.11，p = .0003；数学 ES = -.03，p = .75([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Class Size]] — 该政策是欧洲班额政策的证据知情案例。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据能够帮助政策制定者比较成本和效果。
 

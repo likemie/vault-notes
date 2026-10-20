@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 关键声明：北京学生界宣言
+> [!citation-card] 关键声明：北京学生界宣言
 > “中国的土地可以征服而不可以断送！中国的人民可以杀戮而不可以低头！国亡了！同胞起来亚！”（《北京学生界宣言》，1919年5月4日）
 >
 > *China's territory may be conquered, but it can never be given away! China's people may be killed, but they will never bow their heads! The nation is falling! Arise, compatriots!*
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > - **政治革命路线（蓝方）** 激进派认为思想文化启蒙缓不济急，主张通过直接群众运动与政治革命彻底改造国家政权与[[Social Regime|社会体制]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **教育改良路线（红方）** 蒋琦（1919）等温和派主张新教育对旧教育应是“修正而非对立、演进而非原创”，坚持通过教育改良一步一个脚印改变国民。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
 
-> [!citation-card]- 代表性学术评论
+> [!citation-card] 代表性学术评论
 > 五四运动创造的高度政治化氛围，构成了杜威 1919–1921 年访华期间中国知识界接受其思想的关键语境——在这一氛围中，杜威的[[Democratic Education\|民主教育]]目标被激进派放大，而其渐进实验方法则被忽略。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–617]]）
 
 ---

@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2021 — Pellegrini & Vivanet 将 EBTN 归入欧洲证据传播组织，用来说明证据文化不只依赖研究中心，也依赖教师网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 实施情况
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Evidence-Informed Practice]] — EBTN 体现教师通过社群接触和使用证据。
 > - [[Knowledge Mobilisation]] — EBTN 通过网络交流和培训推动研究知识流动。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — EBTN 属于欧洲证据传播生态中的实践者网络。

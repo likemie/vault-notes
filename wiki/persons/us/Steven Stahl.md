@@ -55,7 +55,7 @@ updated: 2026-10-17
 > - **代表贡献** 首次尝试对全语言与[[Language Experience Approach\|语言经验法]]（Language Experience Approach, LEA）进行大规模量化合成（Stahl & Miller, 1989，见 [[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]]），并在后续研究中对两者的概念混淆进行了自我修正。
 > - **阅读边界** 本页主要探讨他在全语言与语言经验法划分上的学术贡献、元分析分类的变迁、以及[[John Hattie\|约翰·哈蒂]]（John Hattie）对其数据的采纳争议。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > “斯塔尔在五年后主持的一项随访元分析中，实际上承认了麦基与洛马斯（McGee & Lomax）的观点……斯塔尔等人（1994）承认了全语言与早期语言经验法之间的区别……在新研究中不再包含纯粹的语言经验法研究，因为在此时使用这种标签将是时代错误的。” ([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144-145]])
 >
 > “Steven Stahl effectively conceded McGee and Lomax’s point in a follow up meta-analysis that he led five years later... Stahl, McKenna, and Pagnucco (1994) recognised the distinction between ‘whole language and the earlier language experience approaches’... This meta-analysis ‘did not include any studies dealing purely with language experience approaches [because] at this time, such a label would be anachronistic’...”
@@ -80,10 +80,10 @@ updated: 2026-10-17
 
 ## 核心思想与争议
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 斯塔尔主张，虽然[[Whole Language\|全语言]]和[[Language Experience Approach\|语言经验法]]在教育演进上存在继承关系，但它们在教学法操作和材料使用上存在显著差异；在实证评估中，不能将 1960 年代（全语言诞生前）的语言经验法研究结果直接套用到全语言的推论上（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144-145]]）。
 
-> [!concept-lens]- 思想透镜
+> [!concept-lens] 思想透镜
 > - **问题意识** 如何科学界定全语言教学的实证范围，并利用[[Quantitative Research\|量化研究]]合成工具客观评估其相对于传统基本阅读教学的实际识字成效。
 > - **概念工具** 全语言与语言经验法的分类界碑；基本阅读教学（Basal Reading Instruction）与阅读准备计划（Reading Readiness Program）的对比（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]]）。
 > - **研究影响** 其 1989 年包含混淆数据的[[Meta-analysis\|元分析]]被[[John Hattie\|约翰·哈蒂]]直接整合进《VL》中，导致哈蒂的全语言计算包含了严重的概念偏误。

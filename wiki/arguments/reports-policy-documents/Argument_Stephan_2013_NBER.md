@@ -148,7 +148,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤一　战后初期联邦政府主导建立大学科研能力且资助高度集中于顶尖名校
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 二战结束时全美仅有少数大学具备基础研究能力；在 1940 与 1950 年代，联邦政府主动设立机构、招募课题并提供独立奖学金来扶持大学，早期研发资金呈现出高度集中于顶尖名校的特征。（pp.4–11）
 #### 1. 战后严峻的科研人才短缺与联邦机构的主动动员
 
@@ -182,7 +182,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 伴随联邦资金的注入，全美科学与工程领域的博士学位年授予量在战后数十年间呈现出快速上升的趋势（p.6）。
 
-> [!example]- 图 1：全美科学与工程博士生产规模演进（1920–2010）
+> [!example] 图 1：全美科学与工程博士生产规模演进（1920–2010）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig1_PhD_Production_1920_2010.jpg)
 
 #### 2. 早期联邦资金的高度集中与向地方院校的逐步扩散
@@ -198,7 +198,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 与资助集中相伴随的是，同行评议资助的申请成功率在初期保持在较高水平，随后随着申报项目数量的大幅增加而逐步走低（p.8）。
 
-> [!example]- 图 2：NIH 与 NSF 历史申请成功率变迁
+> [!example] 图 2：NIH 与 NSF 历史申请成功率变迁
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig2_NIH_NSF_Success_Rates.jpg)
 
 1957 年苏联人造卫星发射后，美国国会通过《[[National Defense Education Act of 1958|国防教育法]]》，联邦资助进入快速增长期，博士培养规模开始向更多地方公立高校扩散，科研体系的机构分布逐步呈现多元化（pp.11–12）。
@@ -219,7 +219,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤二　1960年代大学开始主动要求联邦政府承担教师薪资与间接成本
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 1960 年代是联邦与大学关系的重要转折期；大学管理层逐渐认识到联邦资助的财政价值，开始积极游说联邦政府允许课题经费支付专任教师薪资，并争取更高的间接成本报销比例，从而改变了大学自身的成本分担机制。（pp.11–17）
 
 #### 1. 教师薪资支出从大学内部向外部科研经费的转移
@@ -228,7 +228,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 联邦经费在全美学术研发总支出中的占比在 1960 年代达到历史高位，为大学向联邦争取更多支持提供了客观环境（p.11）。
 
-> [!example]- 图 3：美国学术研发经费各部门支持份额变迁（1953–2011）
+> [!example] 图 3：美国学术研发经费各部门支持份额变迁（1953–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig3_Academic_RD_Support_by_Sector.jpg)
 
 大学争取薪资覆盖的过程经历了循序渐进的三个阶段：
@@ -278,7 +278,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤三　1970至1990年代联邦资助放缓促使大学增加自筹并改变研究生资助形式
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 越战后联邦研发支出增速放缓，大学通过增加自有资金投入来补偿科研差额；同时，研究生资助形式由独立奖学金普遍转变为依附于具体课题的助研岗位，学术劳动力市场开始面临供需不平衡的初期压力。（pp.17–27）
 
 #### 1. 1970 年代联邦投入放缓与资助高校范围的进一步扩大
@@ -293,19 +293,19 @@ issuing_organization: "National Bureau of Economic Research"
 
 衡量资金集中程度的赫芬达尔-赫希曼指数（HHI）在这一时期总体呈下降态势，直观展现了资助范围的持续扩增（pp.16, 19）。
 
-> [!example]- 图 4：接受各联邦机构科研资助的高校数量变迁（1971–2010）
+> [!example] 图 4：接受各联邦机构科研资助的高校数量变迁（1971–2010）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig4_Universities_Receiving_Federal_Funds.jpg)
 
 衡量资金集中程度的赫芬达尔-赫希曼指数（HHI）在这一时期总体呈下降态势，表明科研经费进一步向更多高校分散（唯独 NIH 保持相对稳定）（p.19）。
 
-> [!example]- 图 5：各大联邦资助机构的 HHI 集中度指数演变（1971–2009）
+> [!example] 图 5：各大联邦资助机构的 HHI 集中度指数演变（1971–2009）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig5_HHI_Concentration_Federal_Funds.jpg)
 
 #### 2. 研究生资助转向助研津贴与青年学者职业前景的变化
 
 随着面向个人的独立奖学金名额减少，研究生和博士后日益依赖导师科研项目中的研究生助研津贴（Graduate Research Assistantships, GRAs）来获取资助（pp.20–21）。
 
-> [!example]- 图 6：NIH 资助研究生的机制流向演变
+> [!example] 图 6：NIH 资助研究生的机制流向演变
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig6_NIH_Support_Graduate_Students.jpg)
 
 这种资助机制的转变，深刻改变了研究生的培养定位，使科研后备力量的供给由实验室常规用工需求直接驱动（pp.21–23）。
@@ -317,10 +317,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 普林斯顿[[Grandes Ecoles|大学校]]长雪莉·[[Peter Thiel|蒂尔]]曼主持的全国研究委员会青年学者委员会在 1990 年代末提出，应当密切关注博士毕业生的实际就业出路，建议将毕业生的职业发展质量纳入对导师后续申请基金的评审考核中（pp.22–23）。
 
-> [!example]- 图 7：全美各学科博士毕业生拥有确定性去向的比例（1991–2011）
+> [!example] 图 7：全美各学科博士毕业生拥有确定性去向的比例（1991–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig7_Doctorate_Recipients_Definite_Commitments.jpg)
 
-> [!example]- 图 8：拥有确定去向的博士毕业生中流向博士后职位的比例（1991–2011）
+> [!example] 图 8：拥有确定去向的博士毕业生中流向博士后职位的比例（1991–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig8_Doctorates_Taking_Postdoc.jpg)
 
 #### 3. 教师启动配套资金竞争与设备购置支出的压力
@@ -334,20 +334,20 @@ issuing_organization: "National Bureau of Economic Research"
 
 大学自筹科研开支占捐赠基金总额的比例持续上扬，凸显了高校资产配置承受的沉重科研杠杆（pp.24–25）。
 
-> [!example]- 图 9：按[[Carnegie Classification of Institutions of Higher Education|卡内基分类]]划分的全美大学捐赠基金中位数规模（1993–2011）
+> [!example] 图 9：按[[Carnegie Classification of Institutions of Higher Education|卡内基分类]]划分的全美大学捐赠基金中位数规模（1993–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig9_Endowment_Funds_Carnegie.jpg)
 
-> [!example]- 图 10：大学内部自筹研发支出占捐赠基金总额的中位数比率（1992–2011）
+> [!example] 图 10：大学内部自筹研发支出占捐赠基金总额的中位数比率（1992–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig10_RD_Expenditures_to_Endowment.jpg)
 
-> [!example]- 图 11：各主要学科科研经费中用于仪器设备的支出比例（1981–2011）
+> [!example] 图 11：各主要学科科研经费中用于仪器设备的支出比例（1981–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig11_RD_Spent_on_Equipment.jpg)
 
 ---
 
 ### 论证步骤四　NIH预算倍增并未改善科研生态反而加剧了机构扩张与竞争压力
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 1998 至 2002 年美国国会实施的 NIH 预算翻倍计划表明，在既有的微观激励机制下，单纯追加资金投入不仅未能改善青年学者的职业处境或提高立项率，反而引发了资助成功率回落、资助人员高龄化以及大学借债扩张科研建筑的后遗症。（pp.27–28, 33–34）
 
 #### 1. 预算翻倍后的申请竞争加剧与学者群体老龄化
@@ -366,7 +366,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 
 在 NIH 经费翻倍期间，许多大学依据商场模型扩大科研物理空间，认为只要建设先进实验室并引进优秀学者，就能通过项目间接成本获得充足回报（pp.28, 33–34）。各领域的科研建筑面积在 1990 年代末至 2000 年代初出现了明显增长（p.28）。
 
-> [!example]- 图 12：全美大学各领域净科研可用建筑面积变迁（1988–2011）
+> [!example] 图 12：全美大学各领域净科研可用建筑面积变迁（1988–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig12_Net_Assignable_Square_Feet_Research.jpg)
 
 2004 年后 NIH 预算增速放缓，在扣除通胀后 2004 至 2009 年 NIH 实际购买力下降了约 4.4%（p.34）。
@@ -380,7 +380,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 
 ### 论证步骤五　现行体制诱发了当代研究型大学的五大结构性体制压力
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 当代大学科研系统在长期演变中面临五重深层压力：科研选题的避险倾向、博士培养与学术岗位的脱节、对生物医学的过度依赖、科研建筑的盲目扩张，以及对联邦经费的脆弱依附。（pp.29–37）
 
 #### 1. 压力之一：科研选题的避险倾向与对确定性成果的追求
@@ -407,7 +407,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 
 联邦科研投资中生命科学占据了支配性比例，大学在此导向下持续向生物医药领域倾斜（pp.27–28, 33–35）。全美大学联邦研发义务支出中，生命科学的份额长期稳定在 55% 以上，并在 NIH 倍增期间接近 70%（p.35）。
 
-> [!example]- 图 13：美国各学科领域占大学联邦研发义务支出的份额（1973–2009）
+> [!example] 图 13：美国各学科领域占大学联邦研发义务支出的份额（1973–2009）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig13_Share_RD_Obligations_by_Field.jpg)
 
 资助领域的严重失衡与高校基建的盲目扩张，共同构成了现代大学难以摆脱的结构性负担（pp.34–35）。

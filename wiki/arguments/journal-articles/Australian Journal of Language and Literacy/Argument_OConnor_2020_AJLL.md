@@ -83,7 +83,7 @@ citation_aliases:
 > [!claim] 核心主张
 > 哈蒂对全语言教学的极低评估（d = 0.06）并不是由科学数据客观推导出来的，而是受其对[[Constructivist Paradigm\|建构主义范式]]的先验偏见驱动的、存在严重方法论缺陷的数据操纵结果。以《VL》的单一效应量来指导教学实践是愚蠢的，以此作为制定公共政策的决策基础则是极其不负责任的 (p.149)。
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 哈蒂《VL》(Hattie, 2009) 中关于全语言教学的 5 段文本（约 1.5 页）及其背后的 4 项元分析（共包含 64 项原始研究）。
 > - **张力** 元分析所承诺的“对研究叙述性讨论的严谨统计替代方案” vs 哈蒂主张的“解释与故事优先于数据”的主观透镜，暴露出证据本位政策中的[[Technical Rationality\|技术理性]]与数据选择偏向。
 > - **贡献** 详细拆解了《VL》中分类错误、非对称审查和选择性剔除数据的操作，论证了宏观实证数据整合背后的政治、宗教偏见与新自由主义教育治理的同盟关系。
@@ -154,7 +154,7 @@ citation_aliases:
 
 ### 论证步骤一：数据输入的分类错误与时代错误
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach\|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误 (p.144)。
 
 > [!critique-method] [[Steven Stahl\|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
@@ -171,7 +171,7 @@ citation_aliases:
 
 ### 论证步骤二：对负面结果的非批判性接受与偏见忽视
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 哈蒂在面对报告全语言产生极度负面效应（d = -0.65）的元分析时，完全放弃了方法论审查与学术警惕，选择性忽略了其中的计算错误以及作者强烈的右翼宗教政治偏见 (p.145)。
 
 > [!critique-data] 极端负面离群值与克拉申的数据重算 (Jeynes & Littell, 2000)
@@ -198,7 +198,7 @@ citation_aliases:
 
 ### 论证步骤三：对正面结果的选择性修正与定义裁剪
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 哈蒂在处理显示全语言具有显著正面效应（d = 0.65）的元分析时，采用了截然不同的严苛标准，以“混入拼读”为由，人为删除其中表现突出的原始研究，强行将该元分析的效应量归零 (p.147)。
 
 > [!critique-logic] 哈蒂对全语言定义的概念曲解与双重标准
@@ -218,7 +218,7 @@ citation_aliases:
 
 ### 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学实践 (p.142)。
 
 > [!critique-logic] “故事”对“数据”的凌驾与统计承诺的背叛
@@ -255,17 +255,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 论[[Effect Size\|效应量]]评估的非责任性
+> [!citation-card] 论[[Effect Size\|效应量]]评估的非责任性
 > 试图通过《VL》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。(p.149)
 >
 > Attempting to orient pedagogical practice through [[Visible Learning]]’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
 
-> [!citation-card]- 论[[Whole Language\|全语言]]被人工剔除的特权
+> [!citation-card] 论[[Whole Language\|全语言]]被人工剔除的特权
 > 在《VL》收录的 800 多项[[Meta-analysis\|元分析]]中，唯有这一项——发现全语言教学有正面影响的元分析——被[[John Hattie\|哈蒂]]通过选择性消除某些研究而修正了效应量。(p.148)
 >
 > Out of more than 800 meta-analyses examined in Visible Learning, just one – the meta-analysis that found a positive impact for whole language teaching – had its effect size revised by Hattie through the selective elimination of certain research studies.
 
-> [!citation-card]- 论全语言效应量的荒谬推论
+> [!citation-card] 论全语言效应量的荒谬推论
 > 如果在《VL》中呈现的全语言效果大小 d = 0.06 是正确的，这将意味着全语言课堂中的学生学到的东西与从未踏入学校的学生一样多。(p.142，转述)
 >
 > If correct, this would be a highly significant finding. A student in a classroom with a whole language literacy teacher would learn to read just as effectively if they had never set foot inside a school.

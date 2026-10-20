@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **核心驱动力** **权威（Authority）**——即“以符合道德原则而获得合法化的权力”，它超越了单纯的强权胁迫，能够促成国家在内外部的自愿服从与长效合作。
 > - **托管责任（Trusteeship）** 认为国际法律共同体中的成员是不平等的，实力较强的国家和多边机构作为“受托人”，对推进和发展弱小国家承担着合法的法律与道德义务。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 法律是理性的[[Avatar\|化身]]，它是权威的外部源泉，权力需要通过法律转化为合法的权威。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 
 > [!boundary]- 概念边界

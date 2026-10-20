@@ -77,7 +77,7 @@ updated: 2026-10-20
 >
 > *Philosophical basis: Realism (Objectivist): the world exists and is knowable as it really is. Organizations are real entities with a life of their own. Idealism (Subjectivist): the world exists but different people construe it in very different ways. Organizations are invented social reality.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 唯我论（Solipsism） — 唯我论断言唯有自我及其意识才是唯一的存在；唯名论则承认主体间性交往与客观现实的多样性，仅主张概念是心智发明的符号而非先验实体。
 > - 不等于 [[Interpretive Paradigm\|反实证主义]]（Anti-[[Positivism]]） — 唯名论是关于现实本质的本体论（Ontology）主张；反实证主义则是关于知识获取与验证规程的[[Epistemology\|认识论]]（Epistemology）主张，尽管二者在主观主义进路中高度协同。
 > - 不等于 相对主义（Relativism） — 唯名论强调范畴建构的约定俗成性，并不必然主张所有关于社会现象的真理陈述在认识论上完全等价。

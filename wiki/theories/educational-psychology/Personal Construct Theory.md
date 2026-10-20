@@ -49,7 +49,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 人并非被动接收刺激的客体，而是主动寻求预测和控制事件的"科学家"。教育的终极目标是个人实现和潜能最大化，利用每个人质疑和探索的需求。因此，教育本质上是实验性的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 一个人的心理过程由他或她预期事件的方式所引导。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 5)]]
 >
 > *A person's processes are psychologically channelized by the ways in which he or she anticipates events.*
@@ -89,7 +89,7 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 > - **前提三** 偏斜性（lopsidedness）与组织推论暗示的上属—从属关系相关（Bell, 2004a）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 8)]]
 > - **推导** 由前提一和二 → 个体建构系统是有结构的，可被分析和映射。前提三提供了实证证据，说明偏斜性不是方法缺陷而是理论预期的结果。由此推出：[[Repertory Grid Technique]] 不仅收集表面数据，还能揭示构念之间的深层层级组织。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** 因为在心理治疗情境中所有构念都与自我相关，所以确保"现在的我"元素被纳入所有三元组，是临床使用中最有效的方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 7)]]
 > - **推论二（源自核心命题二和共同性推论）** 因为相似的建构方式导致相似的心理过程，所以多个个体可以共享构念，为使用提供构念（而非引发）提供了理论合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 7–8)]]
 > - **应用命题** 在教育研究中，个人建构理论支持使用 repertory grid 引发教师和学生对教育现象的个人建构，从而理解其认知结构、效能感和身份发展。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 12–15)]]

@@ -73,7 +73,7 @@ related_arguments:
 > - **习近平时代（2012至今） — 民族主义绑定与国家推进** — 儒家复兴与“[[Zhonghua Minzu\|中华民族]]伟大复兴中国梦”高度绑定；设立[[Confucius\|孔子]]学院作为[[Soft Power\|软实力]]工具向海外输出[[Beijing Consensus|中国模式]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **2017至今 — 意识形态收紧与官控重塑** — 重新强调马克思主义正统，收紧[[Academic Freedom\|学术自由]]；压制自发民间书院，代之以国家主导的“优秀传统文化”运动[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 官方主导的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]
 >
 > *“The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.”*
@@ -100,7 +100,7 @@ related_arguments:
 > - **受教与传导对象** 广大中小学师生、海外[[Confucius\|孔子]]学院学员、边疆少数民族群体。
 > - **政策工具** 217 册基础教育必修教材、[[Confucius Institute|孔子学院]]、国家文化工程。
 
-> [!pathways]- 关键策略与机制
+> [!pathways] 关键策略与机制
 > - **去宗教化定位（De-religionisation）** — 将儒学严密剥离宗教色彩，定性为“文化与伦理传统”，从而避开与中共无神论意识形态的正面冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **选择性删减与过滤（Selective Filtering）** — 精心筛选儒家文本，突出家庭伦理、社会秩序与服从意识，过滤民贵君轻或对抗统治权力的批判性元素[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59–60)]]。
 > - **边疆教化与同化工具** — 将儒家伦理注入边疆教育与“思想改造”中，要求少数民族效仿汉儒礼制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。
@@ -109,7 +109,7 @@ related_arguments:
 
 ## 影响与后果
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **政治指标** 党的意识形态合法性巩固程度、国家文化自信。
 > - **[[Performance Indicators\|教育指标]]** 学校课程中儒家文本的比重、学生对传统文化的认知。
 > - **社会与民族指标** 少数民族群体的认同感、[[Cultural Hierarchy\|文化等级]]与[[Cultural Disembedding\|文化脱嵌]]效应[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
@@ -136,7 +136,7 @@ related_arguments:
 > > - **官方立场** — 通过“去宗教化”与“中华优秀传统文化”重新封装，实现传统与社会主义核心价值观的结合[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > > - **批判学者** — 指出这种组合本质上是借用儒家家庭等级与服从结构来巩固统治权力[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 >
-> > [!axis]- [[Cosmopolitanism|世界主义]]解读 vs. 汉人中心强行同化
+> > [!axis] [[Cosmopolitanism|世界主义]]解读 vs. 汉人中心强行同化
 > > 讨论儒家传统在现代社会应当如何被解读。
 > >
 > > - **世界主义视角 (Chen, 2020)** — 主张儒家传统可以进行“世界主义解读”，成为全球伦理的包容性组成部分[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。

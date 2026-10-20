@@ -63,13 +63,13 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《青年发展蓝图》是特区政府首份系统的青年政策文件，通过确立“探索、希望、赋能、贡献”四大工作主题，把青年社会矛盾和权利诉求去政治化，翻译为培养“积极思维”、感恩心态与个人调试的心理学课题（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **探索（Exploration）** 引导青年将精力分配于[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]就学、实习与个人兴趣等去政治化的功利和经济途径。
 > - **希望（Hope）** 侧重推行积极乐观思维，教导青年在面对高压环境时感恩现实，削弱抗争动机。
 > - **赋能（Empowerment）** 提供创新创业基金、青年宿舍计划及职业技能培训。
 > - **贡献（Contribution）** 鼓励以合规的“社会服务”参与治理，排除政治能动性与抗争表达。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 蓝图旨在协助青年建立正向思维，让他们体验多元发展，同时建立对社会的认同感和国家归属感。
 >
 > *“Official [[Discourse]] reduces youth alienation to a matter of individual psychological deviance... seeking explanations for public discontent at the level of private or individual maladaptation.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- 政策形成与经过
+> [!dev-timeline] 政策形成与经过
 > - **2022-07 — 顶层政策重组** 习近平出席香港回归25周年典礼，发表以“青年”为核心的讲话。同日民政及青年事务局正式成立，启动青年蓝图编写（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 > - **2022-12 — 蓝图正式发布** 民青局发布《青年发展蓝图》，列出首阶段160多项针对性青年项目。
 > - **2023–2024 — 课外协同落实** 蓝图与教育局[[My Pledge to Act\|我的行动承诺]]（2019-2022）项目进行跨部门配合，把青年的生活压力和不满重构为个人心态调适问题。
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 设立数亿港元青年发展基金、首批提供数千个青年宿舍宿位并全额资助[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]实习项目。
 > - **过程指标** 政府部门与亲建制青年协会举办了数百场“正向思维”讲座、创业大赛和大湾区考察交流团。
 > - **结果指标** 在制度上封锁了青年组织独立政治诉求的空间；但将结构性危机矮化为个人情绪调适，导致部分青年产生系统性疏离。

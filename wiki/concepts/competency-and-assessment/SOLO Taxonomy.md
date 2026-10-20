@@ -125,7 +125,7 @@ updated: 2026-10-20
 >     end
 > ```
 
-> [!example]- 图 3：用于形成课程目标的动词层级
+> [!example] 图 3：用于形成课程目标的动词层级
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig3_SOLO_Hierarchy.jpg)
 
 ---

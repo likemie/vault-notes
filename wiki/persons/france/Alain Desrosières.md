@@ -76,7 +76,7 @@ updated: 2026-10-20
 > - **核心角色** “量化社会学”（Sociologie de la quantification）与统计政治史的国际学术开创者。在批判政策社会学与跨国治理分析中，其“[[Space of Equivalence|等值空间]]”与公约理论被广泛用于解构跨国标准化测评的技术官僚假象。
 > - **代表贡献** 创立量化历史社会学分析[[Paradigm|范式]]，系统提出[[Space of Equivalence|等值空间]]（Space of Equivalence）与[[Commensuration|通约化]][[Analytic Framework|分析框架]]，揭示统计工具兼具“证明”（Prouver）与“治理”（Gouverner）的双重政治属性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目并未被动记录各国的既有教育成就，而是借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，凭空制造出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了绝对优先于本土效度与[[Ontology|本体论]]多样性的至高地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured.*
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 量化统计绝非对既有外部客观世界的中立测量与被动镜像，而是一种通过制定规范惯例、消除地方情境差异并建立“[[Space of Equivalence|等值空间]]”（Space of Equivalence）来强行“将事物凝聚在一起”（*tenir ensemble*）的制度建构工程。量化兼具科学“证明”（Prouver）与政治“治理”（Gouverner）的双重功能；一旦统计指标脱离认知探索而沦为行政问责与资源分配的工具，它便会借助数字的客观科学伪装，掩盖极其复杂的政治价值决断，并通过自我实现的[[Commensuration|通约]]机制深度重塑被测量对象的实践生态。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] [[Alain Desrosières|德罗西埃]]论统计作为制造等值空间的制度公约
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策路径** 深刻影响了批判政策社会学与比较教育学；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）等学者将其概念用于解构[[OECD|经合组织]]与[[PISA]]等全球量化监控网络。
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[Alain Desrosières|德罗西埃]]的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
 

@@ -43,7 +43,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!claim] 核心干预／机制假说
 > 用一两句话陈述项目的核心干预假说：通过什么手段（小班化/素养测评/卓越拨款/人才特区）达成何种预期成效。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 项目预期解决的核心问题、理论假说或能力提升目标。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **覆盖对象** 参与试点的学区、学校、教师群体、受试样本或目标受益人群。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **干预措施** 核心教学干预方案、实验处理形态、课程资源包、专项资金或设备支持。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -75,7 +75,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **一线执行机构** 具体承接项目试点的学区、学校、校长、教研员与教师。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **受试与受益对象** 参与实验干预或测验评估的学生、家长或高校青年学者。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **纵向传导与支持** 顶层设计如何分解为可操作的实施细则并提供配套专业培训。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **横向跨部门协同** 教育行政部门、财政部门、高校研究团队与社区力量的协同机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **动态反馈与调整** 在实施出现阻力或偏差时采取的微调、纠偏与保障补救措施。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -84,7 +84,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **投入指标** 财政拨款落实额、师资配置到位率、技术平台支持度。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **过程与依从性指标** 项目执行依从度（Fidelity）、干预时长、流失率（Attrition）。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **产出与结果指标** 学业成绩标准差提升、高阶能力增值、升学/就业率、教师教学效能感或制度改革突破。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

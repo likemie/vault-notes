@@ -53,7 +53,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 巴基斯坦 2009 年国家教育政策的核心目标之一是"培养一个自力更生的个体，具备分析和原创思维的能力"（to develop a self-reliant individual, capable of analytical and original thinking）（Ministry of Education, 2009, p. 11）。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 培养一个自力更生的个体，具备分析和原创思维的能力。（Ministry of Education, 2009, p. 11）
 >
 > *"to develop a self-reliant individual, capable of analytical and original thinking"*

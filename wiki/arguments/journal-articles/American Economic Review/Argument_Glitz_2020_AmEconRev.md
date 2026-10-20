@@ -106,7 +106,7 @@ issuing_organization: ""
 > - **第十五处（Abteilung XV）**
 > 覆盖机械工程和受 CoCom 管制的工业两用产品的情报收集。
 
-> [!stat-cards] 线人网络的构成
+> [!stat-cards]- 线人网络的构成
 > - **60%** 因政治意识形态信念被招募。（p.1060）
 > - **27%** 出于物质利益被招募。
 > - **<1%** "在压力下"被招募。
@@ -183,7 +183,7 @@ issuing_organization: ""
 
 ### 论证步骤一：识别策略——从面板固定效应到工具变量
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 面板[[Fixed-Effect Model\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
@@ -198,7 +198,7 @@ issuing_organization: ""
 
 ### 论证步骤二：两种工具变量的构建与效力
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 两种工具变量——"老线人"[[Shift-Share Instrument\|shift-share IV]] 和"退出线人"IV——均满足相关性和外生性条件，IV 估计结果较 OLS 更大，表明 OLS 可能存在衰减偏误。
 
 > [!chain-link] 证据到判断
@@ -213,7 +213,7 @@ issuing_organization: ""
 
 ### 论证步骤三：分解与稳健性
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 工业间谍主要通过加速东德 TFP 增长来缩小差距，对西德 TFP 无显著影响；且这一结论对多种替代设定保持稳健。
 
 > [!chain-link] 证据到判断
@@ -228,7 +228,7 @@ issuing_organization: ""
 
 ### 论证步骤四：替代结果变量
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 工业间谍不仅提高了基于价值的 TFP，还增加了实物产量、产品多样性和出口能力。
 
 > [!chain-link] 证据到判断
@@ -241,7 +241,7 @@ issuing_organization: ""
 
 ### 论证步骤五：异质性——信息质量与技术前沿距离
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 工业间谍的生产率效应高度集中在少数高质量情报和接近技术前沿的行业中。
 
 > [!chain-link] 证据到判断
@@ -256,7 +256,7 @@ issuing_organization: ""
 
 ### 论证步骤六：反事实模拟与成本收益
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术[[Competitiveness|竞争力]]的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
 
 > [!chain-link] 证据到判断
@@ -289,17 +289,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 工业间谍的经济回报
+> [!citation-card] 工业间谍的经济回报
 > 我们对工业间谍经济回报的估计表明，国际知识流动对落后国家的生产率增长具有重要作用。（p.1056）
 >
 > *Our results provide evidence of significant economic returns to [[Economic and Industrial Espionage\|industrial espionage]], indicating an important role of international knowledge flows for productivity growth in laggard countries.*
 
-> [!citation-card]- 工业间谍与技术[[Absorptive Capacity\|吸收能力]]
+> [!citation-card] 工业间谍与技术[[Absorptive Capacity\|吸收能力]]
 > 东德研究人员和工程师在技术更接近西德同行的行业中很可能更能将新获得的[[Knowledge Integration\|知识整合]]到自己的生产过程中，表明足够高的吸收能力是成功利用间谍科技情报的前提条件。（p.1096）
 >
 > *In these cases, East German researchers and engineers were presumably better able to integrate the newly acquired knowledge into their own production processes, suggesting that a sufficiently high absorptive capacity is a prerequisite for the successful exploitation of espionage-based scientific-technical information.*
 
-> [!citation-card]- 工业间谍的净回报
+> [!citation-card] 工业间谍的净回报
 > 尽管这些数字应当审慎看待，但它们共同表明工业间谍的[[Return on Investment\|投资回报]]非常高昂。（pp.1098–1099）
 >
 > *While these figures should naturally be viewed with caution, taken together they suggest a very high return on the investment in industrial espionage.*

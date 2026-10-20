@@ -57,10 +57,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > Kuhn 认为，真正成熟的认知不仅是获得知识或解决问题，更在于掌握对知识进行[[Metacognition\|元认知]]反思和论辩的能力。她提出[[Epistemological Understanding\|认识论理解]]（即人们如何看待“知识是什么”以及“知识是如何被辩护的”）是[[Critical Thinking\|批判性思维]]发展的基础，其发展路径必须经历“客观绝对化”（绝对论）到“主观相对化”（多元论），最终达到“主客观协调”（评价论）的辩证过程。而且，这一发展不是一蹴而就的，而是高度依赖于具体的判断领域（如事实 vs. 价值）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 我们提出，成熟认识论理解发展的本质，是对认知的主观维度和客观维度进行协调。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]
 >
 > *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective dimensions of knowing.*
@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **理论路径** Kuhn 极大地推动了教育心理学界对[[Epistemological Beliefs\|认识论信念]]（epistemological beliefs/understanding）和论辩（argumentation）之间关系的理解。她的绝对论-多元论-评价论模型成为该领域的标准参考框架之一。
 > - **方法路径** 通过开发简洁的冲突观点选择任务，她将[[Epistemological Understanding\|认识论理解]]的测试从复杂的长时[[In-depth Interview\|深度访谈]]（如 King & Kitchener）简化为可跨领域、大规模施测的工具。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 本文系统阐述了她关于认识论理解在不同判断领域（事实、价值、审美等）不对称发展的实证研究。
 
 ---

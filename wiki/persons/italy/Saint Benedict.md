@@ -55,7 +55,7 @@ updated: 2026-10-16
 > - **核心角色** 在西罗马帝国崩溃后的乱世中创建卡西诺山（Monte Cassino）修道院并制定《圣本笃会规》（*Rule of Saint Benedict*），确立了“祈祷与工作”（*Ora et labora*）的共同体自律秩序；在政治与伦理哲学维度上，其面对迫害者与政敌时的非复仇品格构成了抵御政治狂热与替罪羊猎巫的道德伦理标杆。
 > - **代表贡献** 创立圣本笃修会与规范化隐修院制度；确立节制、宽容与戒绝幸灾乐祸的政治伦理防线；在《[[Technological Republic|技术共和国]]》中被作为反思现代社会借由道德审判清洗异类实干家的伦理戒尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 战胜对手是一个应当驻足反思的时刻，而不是欢欣雀跃的时刻。公元六世纪，在罗马城外的一个小村庄，圣本笃遭到一名叫弗洛伦蒂乌斯的祭司的骚扰与迫害……弗洛伦蒂乌斯最终丧命；其死因至今不明。然而当一名徒弟兴奋地冲来向本笃报告敌人的死讯时，教宗额我略记述道，本笃“心情极其沉重，既因为他的敌人死去了，更因为他的门徒为此感到欢欣”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
 >
 > *The vanquishing of an opponent is a moment to pause, not rejoice. In the sixth century, in a small village outside Rome, Saint Benedict found himself harassed and persecuted by a priest named Florentius... Florentius was himself eventually killed; the circumstances of his death remain unclear. But when an apprentice rushes to tell Benedict of his enemy’s demise, Pope Gregory recounts that Benedict took the news “very heavily, both because his enemy was dead and because his disciple rejoiced thereat.”*
@@ -83,7 +83,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心思想
+> [!claim|lead] 核心思想
 > 政治共同体的成熟度取决于其对待失败者与敌手的道德自律；对政敌落难的狂喜（Gleeful Demise）暴露出人性深层的卑劣与脆弱，必须通过最高等级的审慎、悲悯与制度宽容，终结以消灭异己为快的替罪羊循环。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
 
 > [!citation-card] 战胜敌手时的克制与反思

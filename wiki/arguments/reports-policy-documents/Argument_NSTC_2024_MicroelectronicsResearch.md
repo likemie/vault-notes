@@ -176,7 +176,7 @@ publisher: "Executive Office of the President of the United States"
 
 ### 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 美国微电子产业面临本土制造产能严重萎缩与传统物理微缩收益放缓的双重挑战，必须打破单一部门分散资助格局，依托法定跨部委机制推行贯穿材料到系统的全技术栈跨部门协同。（pp. 1–3, 8–10）
 
 #### 1. 制造外包与物理微缩放缓阻断了传统技术升级路径
@@ -191,7 +191,7 @@ publisher: "Executive Office of the President of the United States"
 > [!case] ENIAC 计算机微缩为单芯片的历史演进
 > 1946 年宾夕法尼亚大学研制的首台通用电子数字计算机 ENIAC 占地 1,800 平方英尺，重达 30 吨，耗电 150 千瓦并装有 18,000 个真空管。1995 年 ENIAC 问世 50 周年时，宾夕法尼亚大学师生在仅 $7.44\text{ mm}\times 5.29\text{ mm}$ 的单个硅片上完整再现了 ENIAC 的计算逻辑。该芯片采用 0.5 微米 CMOS 工艺，集成了 174,569 个晶体管。这一经典事实展现了半导体物理微缩带来的计算能力跃升，同时也表明，当特征尺寸接近原子极限时，必须转向三维集成与架构革新。（p. 4）
 
-> [!figure]- 图1：微电子技术发展全周期转化路径
+> [!figure] 图1：微电子技术发展全周期转化路径
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig1_Technology_Development_Pathway.png)
 
 #### 2. 微电子领导力小组委员会统筹全技术栈双向研发流程
@@ -211,14 +211,14 @@ publisher: "Executive Office of the President of the United States"
 > | **能源部（[[Department of Energy\|DOE]]）** | 基础材料物理、超算架构、微观表征设施 | 5 大纳米科学研究中心（NSRC）、国家实验室先进光源与中子源 | 探索量子与前沿材料物理机理并提供精密表征 |
 > | **国家科学基金会（NSF）** | [[Curiosity-Driven Research\|自由探索研究]]、开放共享设施、[[Engineering Education\|工程教育]] | 国家纳米技术协调基础设施（NNCI）、[[NSF I-Corps\|I-Corps]]、ASEM 计划 | 资助早期前沿课题与各层次 [[STEM Education\|STEM]] 人才培养 |
 
-> [!figure]- 图2：全技术栈双向贯通的[[Co-Design|协同设计]]模型
+> [!figure] 图2：全技术栈双向贯通的[[Co-Design|协同设计]]模型
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig2_Integrated_Design_Stack.jpg)
 
 ---
 
 ### 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 战略第一目标（Goal 1）聚焦六大前沿科研领域，将研发重心确立为利用[[Heterogeneous Integration|三维异构集成]]突破单芯片物理极限、依靠全栈协同设计提高系统整体能效，并将[[Hardware Security|硬件安全]]作为系统内生要素贯穿始终。（pp. 10–20）
 
 #### 1. 宽禁带材料与非冯·诺依曼计算架构突破单芯片物理与能耗极限
@@ -230,7 +230,7 @@ publisher: "Executive Office of the President of the United States"
 > - **电路设计与仿真工具开发（[[Electronic Design Automation|EDA Tools]], 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
 > - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗；并协同[[National Quantum Initiative|国家量子倡议]]（National Quantum Initiative, NQI）探索量子计算器件、极低温电子学与量子传感接口系统。（pp. 16–17）
 
-> [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
+> [!figure] 图：半导体算力演进曲线与未来三维异构驱动力
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png)
 
 #### 2. 三维芯粒堆叠与内生硬件安全机制保障系统性能与物理可信
@@ -242,7 +242,7 @@ publisher: "Executive Office of the President of the United States"
 > - **全栈内生[[Hardware Security|硬件安全]]（Hardware Security, 1.5）** 将防篡改与完整性作为[[Co-Design|协同设计]]的核心要求，在芯片前端设计中嵌入硬件信任根（RoT）、物理不可克隆函数（PUF）与自动化安全扫描算法，确保在复杂的供应链环境下芯片依然可信。（pp. 18–19）
 > - **绿色制造与工艺数字孪生（Sustainable Manufacturing & Metrology, 1.6）** 研发替代全氟/多氟烷基物质（PFAS）的环保化学试剂，推进[[Digital Twin in Manufacturing|半导体制造数字孪生]]（Digital Twin in Manufacturing）与全厂虚拟化建模，结合原位计量加速工艺流收敛并降低制造环境足迹。（pp. 19–20）
 
-> [!frames-ref]- 目标一前沿技术突破六大任务
+> [!frames-ref] 目标一前沿技术突破六大任务
 > - **1.1 材料创新** 研发超越传统硅基的二维晶体管材料与超宽禁带功率半导体。（pp. 14–15）
 > - **1.2 设计使能** 支持 AI 辅助的芯片设计工具与开放[[Process Design Kit|装配设计套件]]（ADK）。（pp. 15–16）
 > - **1.3 新型架构** 研发存内计算与抗辐射计算架构以提升复杂任务能效。（pp. 16–17）
@@ -254,7 +254,7 @@ publisher: "Executive Office of the President of the United States"
 
 ### 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 战略第二目标（Goal 2）旨在构建并贯通从微观材料制备到晶圆级中试加工的基础设施网络，通过开放设计工具与先进封装测试平台消除硬件创新的重资产准入门槛。（pp. 20–28）
 
 #### 1. 国家纳米技术设施网络与设计网关打破大学和小微企业的重资产壁垒
@@ -266,7 +266,7 @@ publisher: "Executive Office of the President of the United States"
 > - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 推广DARPA [[DARPA Toolbox Initiative|工具箱计划]]（[[DARPA Toolbox Initiative]]）模式，整合[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
 > - **关键材料库与高性能建模平台（Materials & Cyberinfrastructure, 2.3–2.4）** 建设前沿半导体材料样品分发中心，并提供面向多物理场仿真的云端高性能计算支持。（pp. 24–25）
 
-> [!figure]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
+> [!figure] 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig3_NNCI_Network.jpg)
 
 #### 2. 国家半导体技术中心与先进封装计划弥合商业量产前的工艺匹配差距
@@ -284,7 +284,7 @@ publisher: "Executive Office of the President of the United States"
 
 ### 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 战略第三目标（Goal 3）提出全谱系微电子人才开发方案，通过基础教育普及、非学位技能认证、[[Apprenticeship|学徒制]]与高层次科研训练，系统性缓解从一线产线技师到领军科学家的人力资源缺口。（pp. 29–37）
 
 #### 1. 从中小学科普启发到研究生前沿科研贯通全链条人才培养
@@ -303,7 +303,7 @@ publisher: "Executive Office of the President of the United States"
 > [!case] 全美非正式科学教育网络（NISE Network）科普实践
 > 由 NSF 资助建立的 NISE Network 联合了全美 600 余家科技馆、大学科普基地与社区中心。该网络通过发放便携式微电子体验教具箱、举办全国巡回展览，向青少年直观演示晶体管工作机理与芯片制造流程，增进了公众对微电子产业的理解与投身意愿。（p. 35）
 
-> [!figure]- 图：全美非正式科学教育网络（NISE Network）合作机构分布
+> [!figure] 图：全美非正式科学教育网络（NISE Network）合作机构分布
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_NISE_Network.jpg)
 
 > [!case] [[Semiconductor Research Corporation|半导体研究公司]]（SRC）本科生科研保留机制
@@ -313,14 +313,14 @@ publisher: "Executive Office of the President of the United States"
 
 ### 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 战略第四目标（Goal 4）强调通过[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
 
 #### 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求
 
 搭建跨界协同的制度平台，使公共研发投入能够紧扣产业前沿的技术痛点。
 
-> [!pathways]- 产业生态协同机制
+> [!pathways] 产业生态协同机制
 > - **深化公私合作研发联盟（Centers & PPPs, 4.1）** 统筹运营 NSTC、NAPMP、微电子共用体、[[Manufacturing USA]] 制造业研究所及半导体研究公司（SRC [[Joint University Microelectronics Program 2.0|JUMP 2.0]]）跨校中心，促进技术成果与知识产权共享。（pp. 39–43）
 > - **发挥[[Industrial Advisory Committee|工业咨询委员会]]（IAC）桥梁作用（Engage IAC, 4.2）** 持续听取半导体企业、高校学者与劳工代表的政策建议，动态调整联邦资金资助重点。（pp. 43–44）
 > - **编制技术路线图与设立重大攻关目标（Roadmaps & [[Grand Challenges]], 4.3）** 借鉴国际半导体技术路线图（ITRS/IRDS）经验，定期发布行业共性技术指标，引导科研资源集中攻关。（pp. 44）

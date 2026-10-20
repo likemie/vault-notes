@@ -58,10 +58,10 @@ updated: 2026-10-17
 
 ## 模式核心与机制
 
-> [!claim] 模式核心
+> [!claim|lead] 模式核心
 > 爱沙尼亚科学教育的成功关键在于：在宽广宏观的国家课程框架下，赋予教师充分的专业自主权（[[Teacher Professional Agency\|professional agency]]）与教学灵活性，鼓励结合本土情境与跨学科探究开展富有激发性的课堂教学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
-> [!policy-design]- 治理与教学机制
+> [!policy-design] 治理与教学机制
 > - **宏观宽大纲与去微观规制** 国家只界定核心学习成果与关键胜任力标准，彻底摒弃自上而下的微观进度规制，避免过度应试回忆，为一线留足探索空间。
 > - **教师高度专业赋权（Professional Agency）** 教师拥有自由选择教材、设计动手实践探究活动及跨学科整合的完全决策权，营造了对师生双向激发的高互动教学环境。
 > - **数字化与技术生态早期深度融合** 依托国家“虎跃计划”（Tiigrihüpe）早期全面普及编程、机器人与算法素养，使技术应用成为科学探究的天然组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]

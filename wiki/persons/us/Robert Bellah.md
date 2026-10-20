@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **核心角色** 当代[[Civic Religion|公民宗教]]（Civil Religion）理论与社群主义文化批判的核心奠基人。
 > - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的习性》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 正如罗伯特·贝拉（Robert Bellah）在 1967 年所写，美国确实“在教会体制之外且与教会截然不同地存在着一套精致且高度制度化的公民宗教”。他提出论点认为，“这种宗教——或者更准确地说，这种宗教维度——具有其自身的严肃性与完整性，并且需要像对待任何宗教一样给予同样的关怀与理解”。一套松散的“圣经原型”，包括来自出埃及记、牺牲以及复活的故事，或许是一个起点，但当代精英文化甚至对公共生活中的这些微小参照也日益持怀疑和轻蔑态度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 >
 > *It is true, as Robert N. Bellah wrote in 1967, that there “exists alongside of and rather clearly differentiated from the churches an elaborate and well-institutionalized civil religion in America.” He made the argument that “this religion—or perhaps better, this religious dimension—has its own seriousness and integrity and requires the same care and understanding that any religion does.”*
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 世俗民主宪政体制的稳定运行无法单靠薄弱的利益算计与功利法理，必须依赖于一套与宗派教会相区别、深植于国家历史牺牲与立约神圣性的“[[Civic Religion|公民宗教]]”维度；当社会过度沉溺于原子化个人主义并解构公共神圣叙事时，政治共同体的道德资本将迅速枯竭，引发广泛的公共冷漠与社会解体危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Bellah, 1967; Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!citation-card] 贝拉论制度化公民宗教的完整性
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
 > - **现代[[Technological Republic|技术共和国]]的文化道德资本重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用贝拉概念，指出科技精英与现代政体必须重新珍视公民宗教遗产，以防止民主国家沦为纯粹的物质交易市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐释罗伯特·贝拉公民宗教理论对技术共和国克服激进世俗化虚无与重构共有信念的核心意义。
 
 ---

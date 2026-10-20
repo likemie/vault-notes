@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - 不等于 [[Purpose Statement\|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
 > - 不适用于纯粹的描述性研究、探索性[[Qualitative Research\|质性研究]]（这些研究可能不预设假设）
 
-> [!citation-card]- Medawar 论假设的[[Creativity\|创造性]]本质
+> [!citation-card] Medawar 论假设的[[Creativity\|创造性]]本质
 > 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972, p. 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）
 >
 > *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972, p. 22)
@@ -122,7 +122,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 使用时机 | 已有研究、预测或理论提示发现可能走向特定方向 | 已有研究或理论不清或矛盾，或无法预测，结果更开放 |
 > | 示例 | 人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数 | 静音条件与音乐播放条件下，数学测试分数存在差异 |
 
-> [!tip]- 方向性假设的写作要点
+> [!tip] 方向性假设的写作要点
 > 方向性假设的常见形式是陈述两个变量之间预期关系的方向。以下为 Moore (2000) 在以色列女性性别认同研究中的范例（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
@@ -167,7 +167,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 逻辑角色 | 被尝试**拒绝**的稻草人，如果被拒绝，则 H₁ 得到支持 | 研究者真正想**支持**的主张 |
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
-> [!tip]- 方向性备择假设
+> [!tip] 方向性备择假设
 > 研究者应将备择假设写为方向性形式。例如：预测身高与体重之间存在正向关系，越高的人可能越重。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。
 >
 > *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*

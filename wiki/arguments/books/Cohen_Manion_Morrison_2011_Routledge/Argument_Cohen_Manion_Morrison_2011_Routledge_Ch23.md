@@ -114,7 +114,7 @@ updated: 2026-10-17
 
 #### 概念地图
 
-> [!knowledge-map]- 第23章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第23章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_23_Concept_Map.jpg)
 
 ## 章节内容
@@ -271,7 +271,7 @@ Cooper and Schindler（2001, p. 375）补充了另一个维度：
 > - **直接观察** 需要观察者在场
 > - **间接观察** 依赖录像等记录设备
 
-> [!example]- 图23.1：观察的连续体
+> [!example] 图23.1：观察的连续体
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_23-1_Continua_of_Observation.jpg)
 
 ---
@@ -309,7 +309,7 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 
 教材提供了一份用于监控师生对话的观察计划表示例，时间跨度为10分钟。表中上方的七个类别记录谁在对谁说话，下方的四个类别记录对话的性质。
 
-> [!example]- 表23.1：结构化观察计划表
+> [!example] 表23.1：结构化观察计划表
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_23-1_Structured_Observation_Schedule.jpg)
 
 从该示例中可归纳出几个要点：
@@ -346,7 +346,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 > - **变量数量** 确定需要收集多少变量的数据
 > - **观察计划表类型** 选择最适合研究设计的计划表格式
 
-> [!example]- 框23.1：非[[Participant Observation\|参与观察]]，设计任务清单（Dyer, 1995, p. 186）
+> [!example] 框23.1：非[[Participant Observation\|参与观察]]，设计任务清单（Dyer, 1995, p. 186）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Box_23-1_Non-participant_Observation_Checklist.jpg)
 
 ---
@@ -794,7 +794,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 > | **结构化** | 结构化田野研究（如 Sears et al.（1965）的 *Identification and Child Rearing* 研究） | 完全结构化实验室（如斯坦福监狱实验、Milgram服从实验，见第26章）。带单向镜或录像的实验 |
 > | **非结构化** | 完全非结构化田野研究（如 Whyte（1993）的著名研究 *Street Corner Society*，以及民族志研究） | 非结构化实验室（如 Axline（1964）的著名研究 *Dibs in Search of Self*。带单向镜或录像的观察） |
 
-> [!example]- 表23.2：结构化、非结构化、自然与人工观察环境
+> [!example] 表23.2：结构化、非结构化、自然与人工观察环境
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_23-2_Settings_for_Observations.jpg)
 
 结构化环境有助于验证假设；非结构化环境有助于生成假设。研究者需要以**适合目的**的概念来指导环境类型和施加结构量的选择。这些边界之间存在模糊性（23.8 节）。
@@ -1017,27 +1017,27 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 
 ## 关键引用
 
-> [!citation-card]- 观察的定义
+> [!citation-card] 观察的定义
 > 观察不止是看。它是（通常系统地）看和系统地记录（始终）人、事件、行为、环境、物品、常规等。（第23章，23.1 节）
 >
 > *Observation is more than just looking. It is looking (often systematically) and noting systematically (always) people, events, behaviours, settings, artefacts, routines and so on. (Marshall & Rossman, 1995; Simpson & Tuson, 2003, p. 2)*
 
-> [!citation-card]- [[Structured Observation\|结构化观察]]的"定格快照"批评
+> [!citation-card] [[Structured Observation\|结构化观察]]的"定格快照"批评
 > 如果我们接受行为是发展性的、互动随时间演化，因此按定义是流动的，那么上述结构化观察方法似乎对行为采取一系列的定格快照，从而违反了行动流动性的原则。在一个瞬间被抓取，很难推断出对一个或多个事件的特定意义，正如我们无法通过研究一张或一组照片来肯定地说出正在发生什么。（第23章，23.2 节）
 >
 > *If we accept that behaviour is developmental, that interactions evolve over time and, therefore, are, by definition, fluid, then the methods of structured observation outlined above appear to take a series of 'freeze-frame' snapshots of behaviour, thereby violating the principle of fluidity of action. Captured for an instant in time, it is difficult to infer a particular meaning to one or more events – just as it is impossible to say with any certainty what is taking place when we study a single photograph or a set of photographs of a particular event. (Stubbs & Delamont, 1976)*
 
-> [!citation-card]- [[Participant Observation\|参与观察]]者的"精神分裂"角色
+> [!citation-card] [[Participant Observation\|参与观察]]者的"精神分裂"角色
 > 参与式观察者在某种程度上是精神分裂的，必须在吸收情境的参与和足以分析和观察情境的脱离之间取得平衡。（第23章，23.6 节）
 >
 > *The participant observer is somewhat 'schizophrenic', as he/she has to balance participation in order to absorb the situation, with sufficient detachment to be able to analyse and observe it in a detached way. (Merriam, 1998, p. 103)*
 
-> [!citation-card]- 沉浸产生[[Rich and Thick Description\|厚描述]]与整体视角
+> [!citation-card] 沉浸产生[[Rich and Thick Description\|厚描述]]与整体视角
 > 通过在一段时间内沉浸于特定情境，不仅情境的显著特征会浮现并呈现自身，而且一个关于诸因素相互关系的更整体性的视角将被收集。（第23章，23.6 节）
 >
 > *By being immersed in a particular context over time not only will the salient features of the situation emerge and present themselves but a more holistic view will be gathered of the interrelationships of factors. (Morrison, 1993, p. 88)*
 
-> [!citation-card]- 观察不是道德中立的事业
+> [!citation-card] 观察不是道德中立的事业
 > 与[[Geisteswissenschaften|人文科学]]中的其他数据收集形式一样，观察不是道德中立的事业。观察者和其他研究者一样，对参与者和研究社群都负有义务。（第23章，23.13 节）
 >
 > *Like other forms of data collection in the human sciences, observation is not a morally neutral enterprise. Observers, like other researchers, have obligations to participants as well as to the research community.*

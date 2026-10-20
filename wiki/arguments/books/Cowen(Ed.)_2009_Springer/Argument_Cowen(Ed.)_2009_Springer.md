@@ -188,7 +188,7 @@ updated: 2026-10-20
 > - **组织逻辑** 全书严谨划分为 8 个规模均等的主题板块（各含 10 章），形成历史反思与学科奠基 → 政治形态与国家建构 → 国际与全球力量交织 → 工业化与[[Knowledge-Based Economy\|知识经济]] → 后殖民正义与赋权 → 文化、知识与教学法 → 新思维[[Paradigm\|范式]]转向 → 未来前沿批判与重构的逐层推进逻辑。（pp.v–xii）
 > - **整体贡献** 汇聚百余位国际代表性学者，不仅构建了迄今为止规模最为庞大的比较教育参考图景，更推动了该学科从西方中心线性历史向多元、多中心、具有高度[[Epistemology\|认识论]]自省的现代学科体系演进。（pp.3–6）
 
-> [!citation-card]- 编者关键表述
+> [!citation-card] 编者关键表述
 > 我们做得很好吗？在某些方面，是的。比较教育学领域在世纪之交重新开始增长……出版了大量著作，期刊繁荣，研究生教育广泛制度化。然而，繁荣之下隐藏着大量未被看见的历史、制度性支持的短缺，以及对更为深邃的比较视野的渴求。（pp.3–4）
 >
 > *We are doing well...? In some ways, yes. The [[Champ\|field]] of comparative education began to grow again around the millennium... The advanced study of comparative education is widely institutionalised... But we are still short of material.*

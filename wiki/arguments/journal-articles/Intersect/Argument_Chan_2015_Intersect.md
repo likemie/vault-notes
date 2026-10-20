@@ -167,7 +167,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 >
 > 这一错过的代价极其沉重。到1980年代末，苏联不仅在计算机数量上与美国差距悬殊，更在计算能力上落后了超过两个数量级。新西伯利亚的科研机构使用的计算设备比美日工业界落后整整20年（Kuleshov and Castells, 1993, p.2）。以物质投入的线性扩张为核心的工业化，与以信息处理和知识优化为核心的信息化，是两种性质根本不同的发展模式。前者向后者转型不是量的延续，而是质的断裂，需要根本性的制度变革。
 
-> [!boundary] 关键区分
+> [!boundary]- 关键区分
 > 苏联的失败不是"工业化不足"，恰恰是"工业化过度成功"导致的对新发展模式的误判。一个在旧赛道上跑得最快的选手，可能最难以切换到新赛道。
 
 ---
@@ -176,7 +176,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!line-a] 国家安全的绝对优先如何形成资源黑洞
 > 国家主义将国家安全，即国家机器自身的安全和权力，置于绝对优先地位，这直接表现为经济的军事化。苏联将"国家安全国家"（national-security state）的逻辑推向了极端，使民用经济利益、政治社会和公民社会都服从于安全需求。科学和技术被完全置于国家安全的服务之下，即军事需要（pp.3–4）。
 
-> [!stat-cards] 军工复合体的资源汲取规模
+> [!stat-cards]- 军工复合体的资源汲取规模
 > - **2/3** 1980年代军工占苏联工业生产总值的比例。
 > - **15–25%** 军工占苏联国民生产总值的比例；作为对比，美国军工支出在1987年冷战高峰时也仅为GNP的6.6%（Loren and New, 1992, pp.3–4）。
 > - **≈ 40%** 与国防相关的工业生产占全部工业生产的比例。
@@ -207,7 +207,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!line-a] 相对论风波：意识形态与实用需求的冲突
 > 同样的逻辑也发生在物理学领域。爱因斯坦的相对论被苏联官方斥为"资产阶级的、反动的、与马克思列宁主义不相容"（Vucinich, 2001, p.5）。然而一个讽刺性的转折发生了：制造核弹的现实需求迫使苏联科学家不得不接受爱因斯坦物理学的工具价值。这一案例揭示了苏联科学意识形态化中的一个深层悖论：当意识形态与国家安全发生直接冲突时，实用需求可以暂时压倒意识形态正统，但这种"例外"并不改变体制对[[Scientific Autarky\|科学自主]]性的系统性压制。
 
-> [!boundary] 革命例外论的边界效应
+> [!boundary]- 革命例外论的边界效应
 > 意识形态对科学的破坏程度因学科距意识形态核心的远近而异。数学和物理（其结论难以直接关联意识形态立场）受到的破坏相对较小，生物学（涉及生命本质和人类本性，与意识形态直接相关）几乎被全面摧毁。这一差异本身说明，科学意识形态化不是随机的滥用，而是有选择地针对那些可能威胁正统意识形态的学科领域。
 
 ---
@@ -231,7 +231,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 >
 > 因此，对工人和管理者而言，理性策略是"够用即可"（satisficing）：做到刚好满足计划指标，绝不多做。这一制度系统性地抑制了生产率提升技术的开发和应用，因为在结构上，生产力更高并不划算（pp.5–6）。
 
-> [!boundary] 风险规避 vs 风险承担
+> [!boundary]- 风险规避 vs 风险承担
 > 苏联不是没有雄心。它建造了逆转河流的工程和世界上最大的水电站，但这些是国家指定的工程壮举，不涉及市场不确定性。真正的技术创新风险（产品可能失败、市场可能不存在）在苏联体制中没有承担者。在 Silicon Valley，失败是荣誉徽章；在苏联，失败是政治责任。
 
 ---
@@ -249,7 +249,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > - **时滞效应** 逆向工程西方技术需要时间，而且因为苏联永远在追逐技术的尾端，它始终落后于前沿技术数个步骤。
 > - **依赖程度** 到1980年代，苏联对西方技术的依赖已极深。据估计，没有西方技术，苏联的微电子设备年产量将减少：分立半导体器件25%、中小规模集成电路75%、大规模集成电路超过90%（Office of Scientific and Weapons Research, 1986, p.7）。
 
-> [!boundary] 冷战零和思维的技术代价
+> [!boundary]- 冷战零和思维的技术代价
 > 苏联规划者长期处于冷战思维定式中，一切通过零和博弈的棱镜来看待，过度急于与西方"亦步亦趋"。这种反应式冷战心态的逻辑是"西方有的，我们也必须有"。为了弥合苏联与西方计算机科学之间最初只是微小的差距，他们做出了实际上将自己锁定在西方技术依赖路径上的决策（p.6）。技术保守主义将苏联锁定在一条严重抑制本土计算机研究的[[Technological Trajectories\|技术轨道]]上。
 
 ---
@@ -310,32 +310,32 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ---
 ## 关键引用
 
-> [!citation-card]- 国家主义定义
+> [!citation-card] 国家主义定义
 > 国家主义社会系统是围绕国家机器权力持有者对社会所生产的经济剩余的占有而组织起来的。（p.3）
 >
 > Original: A statist social system is one organized around the appropriation of the economic surplus produced in a society by the holders of power in the state apparatus.
 
-> [!citation-card]- [[Informationalization\|信息化]]定义
+> [!citation-card] [[Informationalization\|信息化]]定义
 > 信息化是一种发展模式，其主要生产力来源在于基于知识和信息优化生产要素组合与使用的质化能力。（p.7）
 >
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
-> [!citation-card]- [[Military-Industrial Black Hole\|军工黑洞]]
+> [!citation-card] [[Military-Industrial Black Hole\|军工黑洞]]
 > 将其全部研究能力导向使苏联成为一台[[Total War|全面战争]]机器的极其狭隘的目标，苏联军事工业部门变成了一个黑洞，从苏联经济中吸走了巨大的生产力和[[Creativity\|创造力]]。（p.4）
 >
 > Original: In directing all of its research capacities toward the extremely narrow goal of making the Soviet Union a total war machine, the Soviet military-industrial sector became a black hole that sucked away massive productive and creative energies from the Soviet economy.
 
-> [!citation-card]- 信息自由流动是信息化的核心前提
+> [!citation-card] 信息自由流动是信息化的核心前提
 > 信息自由流动是任何想要参与信息革命的经济体的基本前提。（p.7）
 >
 > Original: The free [[Flow]] of information is an essential prerequisite for any economy that wants to be part of the information revolution.
 
-> [!citation-card]- 拉链效应：苏联经济的垂直结构
+> [!citation-card] 拉链效应：苏联经济的垂直结构
 > 整个苏联经济是一台由庞大官僚机构的垂直行政决策推动的巨型机器，拥有无数计划机构、执行部门和生产单位。因此，机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定。（p.8）
 >
 > Original: The whole Soviet economy was a gargantuan piece of machinery moved by the vertical administrative decisions of a massive [[Bureaucracy]] with countless planning institutions, ministries of execution, and production units. As a result, few horizontal links existed across agencies, and exchanges were pre-established by respective parent administrations.
 
-> [!citation-card]- [[Akademgorodok]] 的结局
+> [!citation-card] [[Akademgorodok]] 的结局
 > 这个有前途的西伯利亚科学城变成了日益吱吱作响的苏联工业机器中的又一个齿轮。（p.9）
 >
 > Original: The promising Siberian science city became just another cog in an increasingly creaky Soviet industrial machine.

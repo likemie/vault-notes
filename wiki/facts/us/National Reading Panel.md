@@ -111,7 +111,7 @@ updated: 2026-10-16
 > - **指导与协调机构** 由 [[National Institute of Child Health and Human Development|NICHD]] 儿童发展与行为分支主管[[G. Reid Lyon|里德·里昂]]与联邦教育部高级官员担任行政联络员，掌控议程设置与审查方法论基准。
 > - **外部独立声音与持异见成员** 委员会中唯一的初等教育实践学者乔安妮·亚特温（Joanne Yatvin）在审查过程中持强烈保留态度，并最终发表少数派异见报告（Minority Report）。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **严苛的方法论准入漏斗** NRP 确立了极其狭隘的文献筛选规程：审查最初搜集的 100,000 余篇阅读研究，仅接纳具备[[Causality|因果推断]]力度的真实验或[[Quasi-Experimental Designs|准实验设计]]（Experimental / Quasi-Experimental Designs），绝大多数质性、叙事及[[Action Research|行动研究]]在初筛阶段即被系统剔除，最终仅纳入约 450 项[[Quantitative Research|定量研究]]进行[[Meta-analysis|元分析]]。
 > - **公开听证与闭门审议结合** 委员会在华盛顿特区、芝加哥、波特兰等地举行区域性公开听证，听取教师、家长与学者证词，但核心结论与[[Effect Size|效应量]]合成则由认知专家小组闭门进行数据综合与报告起草。
 

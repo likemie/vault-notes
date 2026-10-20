@@ -130,7 +130,7 @@ citation_aliases:
 >
 > **同期获奖者的相互影响**。20 次引用中有 6 次是由同一 year 获奖的两位科学家做出的（1998、2002、2014）。尽管获奖者提前准备演讲，但可能通过 last-minute 的 reactive adjustments 相互影响，因为诺贝尔演讲是在同一天上午一个接一个进行的。
 
-> [!example]- 诺贝尔演讲中提到导师的具体例子
+> [!example] 诺贝尔演讲中提到导师的具体例子
 >
 > **1974 年 Christian de Duve**。「My debt goes also to my early mentors in science: Joseph Bouckaert, Joseph Maisin, Hugo Theorell, Carl and Gerty Cori, Earl Sutherland. Four of them have preceded me on this podium.」（我还要感谢我在科学领域的早期导师：Joseph Bouckaert、Joseph Maisin、Hugo Theorell、Carl and Gerty Cori、Earl Sutherland。他们中的四位已经先于我登上了这个讲台。）
 >

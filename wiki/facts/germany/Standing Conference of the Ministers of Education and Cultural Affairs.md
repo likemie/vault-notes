@@ -106,7 +106,7 @@ KMK 的组织运作体现了德国合作联邦制（Cooperative Federalism）在
 > - **专业委员会（Fachausschüsse）** 下设学校委员会、高校委员会、文化委员会等专门委员会，由各州部属高级官员与处长组成，开展实质政策起草。
 > - **秘书处（Generalsekretariat）** 设常任秘书长领导的专职常设执行机构，保障各州日常沟通、法律审查与大型跨州项目推进。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置与协商仲裁** 针对各州教育改革的分歧领域，通过常设工作组开展预备谈判，寻求兼顾各州文化特色与国家最低标准的折衷方案。
 > - **元治理与科研机构托管** 将国家测评与数据处理等高专业性业务托付给独立学术机构（如 [[Institute for Educational Quality Improvement\|IQB]]、[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]、[[Leibniz Institute for Educational Research and Educational Information\|DIPF]]），KMK 保持顶层战略监督与拨款控制。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 140)]]
 > - **国家标准版本迭代** 定期组织全国学科专家委员会与测量学家，根据实证监测反馈修订基础教育[[21st Century Skills and Competencies Discourse\|核心素养]]标准与能力模型。

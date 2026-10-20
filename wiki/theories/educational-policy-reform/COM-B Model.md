@@ -82,7 +82,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 任何特定行为（Behaviour, B）的发生，均是个体或群体内部**能力（Capability, C）**、外部环境**机会（Opportunity, O）** 与内在驱动**动机（Motivation, M）** 三者相互作用、动态咬合的产物。在教育与公共政策领域，教师与管理者的[[Research Utilization\|研究利用]]行为绝非单纯取决于“是否知晓证据”，而是受制于心理/物理能力（如[[Effect Size\|效应量]]理解与转化技能）、物理/社会机会（如工时调适、资源配置与[[Organizational Culture\|组织文化]]）以及反思/自发性动机（如专业价值认同与风险考量）；唯有针对这三大要素开展系统诊断并提供多维协同干预，循证改进才能真正穿透组织并持续维持（Michie et al., 2011；引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 152]]）。
 
-> [!citation-card]- 经典理论界定
+> [!citation-card] 经典理论界定
 > 行为系统涉及三个关键要素之间的互动：能力（Capability）、机会（Opportunity）与动机（Motivation），即 COM-B 系统。能力是个体参与该项活动的心理与物理适应度；机会是个体外部使该行为得以发生的一切物理与社会环境因素；动机是指大脑中所有激活与引导行为的精神过程，包括目标规划与情绪反应。这三者构成了一个动态系统，行为改变需要改变其中一个或多个要素。（Michie, van Stralen, & West, 2011, p. 4）
 >
 > *A 'behaviour system' involving three essential conditions: capability, opportunity, and motivation (what we term the COM-B system)... Capability is defined as the individual's psychological and physical capacity to engage in the activity concerned... Opportunity is defined as all the factors that lie outside the individual that make the behaviour possible or prompt it... Motivation is defined as all those brain processes that energize and direct behaviour, not just goals and conscious intentions.*

@@ -135,7 +135,7 @@ updated: 2026-10-20
 > - **骨干工程师借调轮换机制（Assignee System）** 成员企业必须选派资深骨干工程师全职进驻奥斯汀总部工作 2 至 3 年；借调期满后工程师携带共有前沿工艺与最佳实践诀窍返回原企业，充当了[[Tacit Knowledge|隐性知识]]与[[Process Knowledge|过程知识]]在产业内部高效扩散的跨组织桥梁。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 751)]]
 > - **共享[[Pilot Scale Platform|中试验证平台]]（Shared Testbeds）与标准化工具箱** 建设中立的共性试验晶圆线，允许设备厂商在真实产线环境下免费测试最新原型机，并统一设备测试与认证规程，化解中小设备商无力自建测试线的[[Valley of Death|死亡之谷]]困境。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–736)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **自下而上的研发议程制定** 研发重点不由政府官僚指定，而是由制造厂商与设备厂商的技术专家在专业技术委员会（Technical Advisory Boards）中共同讨论形成，定期根据产线实际瓶颈动态调整。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730–732, 751)]]
 > - **联合研发与中试认证闭环** 芯片制造厂商工程师与设备供应商工程师在奥斯汀中试线共同调试原型设备，利用[[Cost of Ownership|所有权成本]]（COO）模型进行量化评估，达标后直接导入芯片厂商业产线，大幅降低采购风险。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–736)]]
 > - **跨组织隐性技术扩散** 借调工程师不仅参与联合攻关，还将规范化的质量控制和测试标准带回母公司，形成行业通用技术标准的自发普及。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 752–753)]]

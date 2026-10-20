@@ -64,7 +64,7 @@ updated: 2026-09-07
 > [!claim] 政策核心
 > VSA 建立“大学画像”（College Portrait）在线公共报告系统，要求成员高校从大一入学至大四毕业，运用经官方认证的三大标准化测验之一（[[Collegiate Learning Assessment\|CLA]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]] 或 [[ETS Proficiency Profile\|MAPP]]）测算并向公众公开学生的[[Critical Thinking\|批判性思维]]与书面沟通增值指标。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 向公众、学生与政策制定者提供可比较的本科教育质量与核心能力增益数据。
 > - **对象** 成员高校的大一新生与应届毕业生纵向/横向样本。
 > - **工具** 大学学习评估（CLA / CLA+）、大学学业能力测评（CAAP）、学术水平概况测验（MAPP / EPP）。

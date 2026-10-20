@@ -151,7 +151,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤一　反垄断同意令与国防先导采购协同催生了去中心化的商用半导体产业
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 战后美国半导体产业之所以超越欧洲与日本形成高度竞争的专业化分工结构，并非源于单纯的研发资助，而是 [[1956 AT&T Consent Decree|1956年美国电话电报公司同意令]] 强制开放底层专利与国防采购充当创新竞赛奖金双重制度力量协同塑造的结果。（pp.161–171）
 
 #### 1. 反垄断诉讼威慑与 1956 年同意令打破技术垄断封锁
@@ -166,7 +166,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 冷战初期军方对雷达、声呐及导弹制导系统小型化与高[[Reliability|可靠性]]的极端追求，使其采购合同发挥了超越传统研发资助的[[Market Shaping and Creating|市场塑造]]力量。（pp.163–168）
 
-> [!example]- 图5-1：1955–1961年联邦半导体研发合同在顶尖企业与其他企业间的分配份额
+> [!example] 图5-1：1955–1961年联邦半导体研发合同在顶尖企业与其他企业间的分配份额
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-1_Federal_Semiconductor_Contracts.jpg)
 
 > [!factors] 需求侧采购塑造去中心化微电子生态的四大机制
@@ -179,13 +179,13 @@ issuing_organization: "National Bureau of Economic Research"
 > - **优胜劣汰的市场选择机制**
 >   高度竞争的产业组织形态促使低效企业和落后技术路线被迅速淘汰，激发了硅谷微电子技术的持续动态创新。（pp.168–169）
 
-> [!example]- 图5-2：1962–1968年政府采购占集成电路总出货量的份额变化
+> [!example] 图5-2：1962–1968年政府采购占集成电路总出货量的份额变化
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-2_Government_IC_Purchases_Share.jpg)
 
-> [!example]- 图5-3：1955–1968年政府采购占半导体器件总出货量的份额变化
+> [!example] 图5-3：1955–1968年政府采购占半导体器件总出货量的份额变化
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-3_Government_Semiconductor_Share.jpg)
 
-> [!example]- 图5-4：1960–1977年美国集成电路总销售额与军品采购份额演变
+> [!example] 图5-4：1960–1977年美国集成电路总销售额与军品采购份额演变
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-4_US_IC_Sales_and_Military_Share.jpg)
 
 > [!ref-table] 1962–1978年美国集成电路终端市场销售份额与总市值演变（Table 5.1）
@@ -215,7 +215,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 与半导体产业不同，战后计算机硬件与软件产业深度依托大学先锋原型研发，并在国防超级工程采购（[[Semi-Automatic Ground Environment|半自动地面防空系统]] [Semi-Automatic Ground Environment, [[Sage]]]）与 [[1956 IBM Consent Decree|1956年国际商业机器公司同意令]] 的约束下，完成了从封闭专有租赁向开放多元分工体系的制度转型。（pp.171–183）
 
 #### 1. 大学先锋探索与开放式多元计算架构资助
@@ -255,10 +255,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 联邦采购支撑了巨型工程研制（如 SAGE 防空系统与 AEC 的 Stretch 超级计算机），而反垄断同意令拆除了 IBM 的专有市场壁垒。（pp.174–178）
 
-> [!example]- 图5-5：1950–1968年IBM对美国政府机构的特殊产品与服务销售占其总收入的份额
+> [!example] 图5-5：1950–1968年IBM对美国政府机构的特殊产品与服务销售占其总收入的份额
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-5_IBM_Government_Sales_Share.jpg)
 
-> [!example]- 图5-6：1953–1980年联邦数学与计算机科学经费占全美计算机相关研发总额的份额
+> [!example] 图5-6：1953–1980年联邦数学与计算机科学经费占全美计算机相关研发总额的份额
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-6_Federal_Math_CS_Funds_Share.jpg)
 
 > [!policy-design] 1956 年 IBM 同意令与 1969 年解绑的产业重塑
@@ -287,7 +287,7 @@ issuing_organization: "National Bureau of Economic Research"
 >
 >   互联网通用平台与开放源码软件模式崛起，软件产业由单机运行迈向全球分布式网络协同与云端服务生态。（pp.183–185）
 
-> [!example]- 图5-7：1959–1990年美国国防部软件采购规模演变
+> [!example] 图5-7：1959–1990年美国国防部软件采购规模演变
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-7_DoD_Software_Procurement.jpg)
 
 > [!contrast-table] 国防采购在技术不同发展阶段的效力分化：COBOL vs. Ada 语言
@@ -301,7 +301,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤三　高校学科建制化与用户端共同发明完成了通用技术范式的闭环
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 联邦科研投入推动了大学计算机科学[[Disciplinary Institutionalization|学科建制化]]与高层次人才供给，而标准化计算硬件与软件平台的大规模部署激活了下游用户端广泛的[[Co-invention|共同发明]]，共同奠定了美国信息技术产业的长期全球领导地位。（pp.183–185）
 
 #### 1. 联邦科研资助催生计算机科学学科建制化与人才蓄水池
@@ -323,7 +323,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ### 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品同质性与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
 
 #### 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]

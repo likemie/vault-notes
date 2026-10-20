@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年[[OECD|经合组织]]正式设立 CERI，标志着组织内部深刻认识到经济增长不仅有数量规模，更有定性维度，教育应当作为“改善生活条件的重要工具”；到 1970 年，经合组织逐步摆脱狭隘的经济主义偏见，承认教育肩负着广泛的社会与文化使命，在追求经济发展的同时高度关注教育机会均等与民主化。在此阶段，经合组织教育工作围绕四大业务支柱展开（教育委员会、CERI 领导理事会、学校建筑项目 [[Programme on Educational Building|PEB]]、高等教育机构管理项目 [[Institutional Management in Higher Education|IMHE]]），CERI 充当包容成员国多元立场、尊重国家自主权的“广泛意识形态教会”，积极吸收欧洲激进教育学与[[Lifelong Learning|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
 > - **1980–1990 年代 — 指标孵化与实证帝国奠基** 1983 年美国《国家处在危险之中》报告发布后，里根政府教育部门转向 CERI 寻求跨国比较方案；在 CERI 资深主管 [[Jarl Bengtsson]] 推动下，该中心于 1988 年正式孵化设立[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems, INES）项目网络，由教育社会学家 [[Norberto Bottani]] 挂帅长达十年，成功奠定了《[[Education at a Glance\|教育概览]]》（Education at a Glance, EAG）的生产母体，并直接催生了后来的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 5, 8)]]
 > - **2000 年代至今 — 未来学校构想、[[Epistemic Governance\|知识治理]]探索与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 全面深化其前瞻实验室与教育知识治理智库定位：
@@ -129,7 +129,7 @@ updated: 2026-10-20
 > - **中心管理团队与资深主管** 历任领导层（如 [[Jarl Bengtsson]], [[Norberto Bottani]], [[Dirk Van Damme]], Stéphan Vincent-Lancrin）及当代项目主管（如 Nóra Révai）多具备深厚的社会学、经济学、测量学与政策分析学术背景，擅长在学术探索性与政策落地性之间保持动态平衡。
 > - **跨国大学与独立智库协同网络** 与全球顶尖大学、教育[[Chinese Academy of Sciences|科学院]]及基金会研究人员建立项目制紧密联盟，承担探索性田野试验、心理测量建模与质性案例研讨。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **前瞻情境研判与先导试验** 针对尚未形成政策共识的边缘议题（如人工智能在教学中的伦理边界、教师[[Creativity Assessment\|创造力评价]]、神经科学与学习机制、[[Evidence Ecosystem\|教育证据生态系统]]）设立中短期探索课题，先行开发原型工具。
 > - **制度化概念孵化与成果交割** 一旦探索性项目验证成功并具备全球推广价值，CERI 便将其机制化交割给经合组织常设行政司局（如 [[International Indicators of Education Systems\|INES]] 项目成熟后移交教育与技能司，[[Definition and Selection of Competencies\|DeSeCo]] 框架成熟后交由 [[PISA]] 实施）。
 > - **多方平等对话与受托生态共建** 近年来深刻反思[[New Public Management\|新公共管理]]模式下的单向知识传输与工具主义采买，倡导在官方决策者、专业科研人员与一线教师工会之间建立以信任与共同所有权为基石的多边对话机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 108)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 229–231)]]
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **理念先导力** 率先将[[Lifelong Learning\|终身学习]]与高阶认知素养植入全球政策[[Discourse|话语]]，深刻塑造了 20 世纪下半叶以来的跨国教育思潮。
 > - **制度孵化规模** 孕育的 [[International Indicators of Education Systems\|INES]] 与指标体系最终发展为调动数十个国家、囊括数十万数据点的全球测验帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **多边协商建制** 推动设立 [[International Summits on the Teaching Profession\|ISTP]] 闭门峰会与吸纳教师工会进入核心治理层，打破了国际组织单一服务政府官僚的传统单极模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]

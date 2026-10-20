@@ -161,7 +161,7 @@ issuing_organization: ""
 
 ### 论证步骤一　国防研发投资通过知识基础设施、技术衍生与先导采购三大渠道系统奠定了新兴产业底座
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 国防公共投资对民用技术创新绩效的驱动力并不局限于狭义的军用武器研制，而是通过建立[[University-Based Research Infrastructure|大学科研基础设施]]、早期军转民技术衍生以及先导采购拉动微观学习效应三大核心渠道发挥全方位制度支撑作用。（pp. 30–31）
 
 #### 1. 联邦国防科研经费长期主导全美研发并支撑起前沿学科的大学科研基础设施
@@ -172,10 +172,10 @@ issuing_organization: ""
 > - **联邦研发在全美总研发中的支配地位** 在 1953–1978 年间，联邦研发支出占据全美研发总投入的 50% 以上，直至 1990 年后才降至 40% 以下；而在 1950 年代大部分年份中，国防研发占联邦研发支出的 80% 以上，在 1949–2005 年全期鲜少低于 50%。（pp. 28–29）
 > - **重点工程与计算学科科研基础设施的奠定** 尽管国防预算中 85%–90% 集中于战术试验与工程开发，但其投向基础与应用研究的资金依然支撑了计算机科学 35%（2001 财年）及工程科学 30% 以上的联邦科研预算，直接培育了包括斯坦福大学与麻省理工学院在内的[[Cold War University|冷战大学]]与[[University-Based Research Infrastructure|依托大学的科研基础设施]]。（pp. 28–29）
 
-> [!example]- 图1：1949–2005年联邦政府国防与非国防研发支出占联邦研发总支出份额
+> [!example] 图1：1949–2005年联邦政府国防与非国防研发支出占联邦研发总支出份额
 > ![](https://img.mylikemie.icu/sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig1_Defense_Nondefense_Share_Federal_RD.jpg)
 
-> [!example]- 图2：1953–2002年联邦资助与非联邦资助研发支出占全美总研发支出份额
+> [!example] 图2：1953–2002年联邦资助与非联邦资助研发支出占全美总研发支出份额
 > ![](https://img.mylikemie.icu/sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig2_Federal_Nonfederally_Funded_RD.jpg)
 
 数据揭示出联邦政府与军方出资在全美科研版图中的压倒性权重。
@@ -199,7 +199,7 @@ issuing_organization: ""
 
 ### 论证步骤二　国防采购与研发支持在半导体、计算机硬件、软件及互联网的萌芽期展现出决定性的体制催化效应
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 在半导体、计算机硬件、系统软件及互联网四大部门的早期发育阶段，国防部门的研发注资、先导采购订单与[[Open-Mindedness|开放性]]产业规制不仅解决了技术不确定性与早期市场需求，更塑造了美国特有的高度竞争、去中心化的企业进入格局。（pp. 32–40）
 
 #### 1. 军方先导采购与第二货源机制打破了既有大企业垄断并催生出硅谷微电子生态
@@ -211,7 +211,7 @@ issuing_organization: ""
 > - **新创企业的先导采购合同支持** 关键的技术突破（如 1954 年德州仪器生产的首个耐恶劣军用环境的硅面结晶体管，以及 1958 年杰克·基尔比发明的集成电路）主要是在未获军方研发合同资助的背景下完成的；然而，军方通过提供巨额且利润丰厚的先导采购订单，挽救并壮大了这些新创企业。（pp. 33–34）
 > - **第二货源规制（[[Second-Sourcing]]）催化知识扩散** 为避免单一供应商在战时断供，国防部强制规定主承包商必须为所采购器件建立第二供货商，要求其完全移交设计图纸、光刻掩膜与制造工艺诀窍；这种强制技术解密不仅打破了技术垄断壁垒，更推动了制造经验知识在行业内的横向扩散，刺激了高频的企业衍生。（p. 34）
 
-> [!example]- 图3：1965–1990年美国集成电路总销售额与军方采购份额演变
+> [!example] 图3：1965–1990年美国集成电路总销售额与军方采购份额演变
 > ![](https://img.mylikemie.icu/sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig3_Total_Military_Share_IC_Sales.jpg)
 
 政府采购在芯片生命周期早期扮演了打破成本瓶颈的关键催化角色。
@@ -233,7 +233,7 @@ issuing_organization: ""
 
 在计算机硬件与软件发端之初，军方同样扮演了技术资助者与标准化买方的双重角色。
 
-> [!example]- 图4：1945–1955年美国军方资助的第一代计算机研制项目清单
+> [!example] 图4：1945–1955年美国军方资助的第一代计算机研制项目清单
 > ![](https://img.mylikemie.icu/sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig4_Military_Funded_Computer_Projects.jpg)
 
 冷战初期军方的战略计算需求直接催生了全美首批电子数字计算机工程集群。
@@ -286,7 +286,7 @@ issuing_organization: ""
 
 ### 论证步骤三　随着商业民用市场成熟与技术逆向流动，国防政策的塑造效能呈现生命周期衰减
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 当各技术领域发展成熟并演变为由民用商业需求主导时，军用与民用技术的性能要求产生深刻分化，国防研发与采购对产业[[Technological Trajectories|技术轨迹]]的塑造力显著衰减，甚至遭遇严重的技术逆向依赖与政策失灵。（pp. 31, 34, 38）
 
 #### 1. 民用商业市场规模反超与技术前沿转移促成了由民向军的逆向技术溢出
@@ -312,7 +312,7 @@ issuing_organization: ""
 
 ### 论证步骤四　9/11 后反恐与国土安全研发预算重组呈现短期化与生物医药倾斜，面临削弱基础物理工程科研的深层风险
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 2001 年 9/11 事件后联邦研发预算发生结构性转向，国防支出触底反弹，但资金更向短期战术开发及卫生与公众服务部主导的生物医药反恐倾斜，这可能削弱支撑长期信息技术创新的大学工程与物理基础科研。（pp. 41–42）
 
 #### 1. 反恐与国土安全研发预算迅速扩张并在内部向生物防御部门大比例倾斜
@@ -347,12 +347,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 先导采购与学习效应
+> [!citation-card] 先导采购与学习效应
 > 军事采购在许多情况下使供应商企业能够通过学习效应降低其产品成本。此外，军事应用可为改进此类技术的[[Reliability|可靠性]]与功能提供试验基座。新技术的逐步完善影响其采纳速度，而采纳速度反过来进一步推进创新。政府采购使这些产业中的企业能够通过在技术早期阶段扩大生产规模而从学习中获益。（p. 31）
 >
 > *These procurement programs in many cases enable supplier firms to reduce the costs of their products through learning effects. In addition, military applications may provide a basis for improving the reliability and functionality of such technologies... Government procurement allowed companies in these industries to benefit from learning by increasing the scale of production for early stages of the technology.*
 
-> [!citation-card]- 萌芽期介入与历史衰减规律
+> [!citation-card] 萌芽期介入与历史衰减规律
 > 很难过分夸大国防研发支持（尤其是像计算机硬件或半导体这样由采购加速美国企业成长的行业）的重要性。这些公共计划的组织结构同样增强了 IT 部门的创新活力与竞争实力。然而，国防研发与采购支持的影响力之大，恰恰得益于此类公共干预发生在这些产业的初创萌芽阶段。随着 IT 部门走向成熟，国防部的研发与采购合同对半导体、计算机硬件及软件产业的影响力显著衰减。（p. 41）
 >
 > *It is difficult to overstate the importance of defense-related support for R&D and, especially in industries such as computer hardware or semiconductors, procurement, which together accelerated the Growth of U.S. firms... But the influence of defense-related funding for R&D and procurement was enhanced by the fact that such public intervention occurred at the inception of these industries. As the IT sector developed, DoD R&D and procurement contracts exercised less influence over the semiconductor, computer hardware, and computer software industries in the United States.*

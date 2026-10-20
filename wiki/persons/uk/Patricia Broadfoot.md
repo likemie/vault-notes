@@ -66,7 +66,7 @@ updated: 2026-10-17
 > - **核心角色** [[Intercultural Education|跨文化教育]]评价与微观学习过程研究领军者；在英国比较教育学派第四代际转型中，将质性社会学与微观比较相结合，开创“[[Learnology|学习学]]”（[[Learnology|Learnology]]）研究纲领，有力纠偏了北美[[Positivism|实证主义]]抽离文化土壤的宏观回归[[Paradigm|范式]]。
 > - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（[[Picking Up the Pace|PACE 项目]]）；3. 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布罗德富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >
 > *First, there is the renewed emphasis on what many years back we had called 'comparative pedagogy', a most important aspect of the process of education, and what Broadfoot has called 'learneology' of education (Alexander et al., 1999; Broadfoot, 1999). Second, I wish to underline the British traditional and lately reinvented emphasis on contexts and cultures... These two epistemic emphases render the British comparative education more human and humane than the American, and the way of reading the world less mechanistically and economically motivated (Kazamias, 2001).*
@@ -104,7 +104,7 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育评价绝非[[Value Neutrality|价值中立]]的客观技术测量，而是深沉浸润于特定民族文化信念与制度契约之中的社会学实践；比较教育学若要摆脱北美计量经济实证模型的空洞化与短视化危机，就必须走出宏观统计数字的迷思，深入学校与课堂[[Champ|场域]]，确立以学习者主体经验、认知建构与心智发展为核心的“[[Learnology|微观学习学]]”（[[Learnology|Learnology]]），在情境与文化的深厚土壤中找回教育的人文价值。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!citation-card] 布罗德富特论走向比较“学习学”

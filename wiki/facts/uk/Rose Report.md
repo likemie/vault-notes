@@ -54,7 +54,7 @@ updated: 2026-10-17
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - **2005** — 英国政府委托 Jim Rose 领导早期阅读教学独立审查
 > - **2006** — Rose Report 正式发布，推广[[Simple View of Reading\|简单阅读观]]
 > - **2006 年后** — 报告直接导致英国实施**强制合成语音教学**政策([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.149]])

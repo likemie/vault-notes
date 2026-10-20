@@ -266,7 +266,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育教学的核心机制在于“使教对学生可见、使学对教师可见”。教师不应充当消极旁观的课堂“促进者”，而必须成为主动干预、高频反馈并以可见证据评估自身教学成效的“激活者”。通过以标准差为单位的[[Effect Size\|效应量]]关节点（$d=0.40$）建立证据排序坐标，能够穿透主观轶事与教学时尚，为学校改进提供实证标尺；然而证据应被视为明智[[Problem Solving\|问题解决]]的假设起点，不可直接视同刚性行动处方。
 
 > [!citation-card] 可见的教与学之本质
@@ -366,13 +366,13 @@ updated: 2026-10-20
 > >   - *低估[[Class Size|班级规模]]被政策误用*：STAR 与 PACE 试验证实小班在低年级具有显著非线性门槛，低估班级规模沦为政府推行[[Performance Pay|绩效工资]]与削减投入的借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]; [[Argument_Snook_2010_NZJES|(Snook et al., 2010)]]
 > > - **Hattie 本人辩护** 辩护称元分析旨在提供经验概览而非绝对处方，坚持将研究聚焦于学校可控因素，主张提升教师效能仍是学校系统最可行、最具操作性的专业责任。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–92)]]
 >
-> > [!axis]- 社会的良知与批评者：专业技术辩护 vs 结构性社会公正
+> > [!axis] 社会的良知与批评者：专业技术辩护 vs 结构性社会公正
 > > 围绕新西兰大学立法赋予学者的法定角色，争论学者介入公共政策的伦理边界。
 > >
 > > - **[[Gerald Grace]] 批判** 批评哈蒂混淆了学科内部技术批判的“学术批评者”与必须将阶级、贫困等非学校因素置于核心地位的“[[Critic and Conscience of Society|社会的批评者与良知]]”，选择性排除社会背景与良知角色存在根本矛盾。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 > > - **Hattie 职能自辩** 坚持援引法定条款为公共参与辩护，主张学者应遵守仅在专业领域发言、展示谨慎提升专业的自我约束原则。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
 >
-> > [!axis]- 统计方法学审查：通用连续体与伪综合指控
+> > [!axis] 统计方法学审查：通用连续体与伪综合指控
 > > 围绕两级[[Fixed-Effect Model|固定效应]]代数前提、概率公理、基线选择与全量数据复现率，统计学界与比较教育学界展开严格的方法论质询。
 > >
 > > - **[[Christof Wecker]] 等人** 依据两级[[Fixed-Effect Model|固定效应模型]]代数等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审查，判定跨本体范畴的超级元分析在科学上不可行：
@@ -389,14 +389,14 @@ updated: 2026-10-20
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 > > - **Terhart 提出[[Stability vs. Variability Dilemma|双重困境模型]]** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：[[Effective Teaching|有效教学]]因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
-> > [!axis]- 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
+> > [!axis] 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
 > > 质询其对教师专业主体的技术化规训、知识产权商业化转化机制以及在国家主权规制中的治理边界。
 > >
 > > - **Eacott 以及 McKnight and Whitburn** 定性其为[[Neo-Taylorism|新泰勒主义]]监控与“[[Cult of the Guru|大师崇拜]]”，将微观教学拆解为原子化可测量单元，以进步主义修辞包装[[Positivism|实证主义]]考核与新自由主义问责。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
 > > - **O'Neill 等人以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
-> > [!axis]- 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
+> > [!axis] 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
 > > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。
 > >
 > > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《[[Visible Learning|可见的学习]]》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、[[Radical Constructivism|激进建构主义]]消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]

@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **政策转化率** IAC 关于 [[National Science and Technology Council|NSTC]] 治理模式、[[National Advanced Packaging Manufacturing Program|NAPMP]] 重点方向与劳动力微证书的核心建议全部被商务部政策与白宫国家战略吸纳采纳。
 > - **跨界代表性** 聚合制造巨头（如英特尔、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]北美、美光）、无晶圆设计商（如高通、英伟达）、EDA/IP 龙头（如新思、楷登）、顶尖大学（如麻省理工、普渡）与劳工领袖，代表全美微电子[[Innovation Ecosystem|创新生态]]的最广泛共识。
 

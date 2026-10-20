@@ -250,7 +250,7 @@ issuing_organization: ""
 > | **参与者年级学段**<br>（Participant Level） | • **跨年级混合** 40 篇（70.2%）<br>• **大一新生** 6 篇（10.5%）<br>• **大二学生** 6 篇（10.5%）<br>• **大三学生** 5 篇（8.8%） | 绝大多数实证面向通识或大类基础课的混合学段学生；大一新生作为独立亚组呈现出最强的[[Scaffolding\|教学支架]]需求。 |
 > | **学科领域门类**<br>（Academic Disciplines） | • **语言学** 20 篇（35.1%）<br>• **STEM 学科** 19 篇（33.3%）<br>• **人文社科** 9 篇（15.8%）<br>• **医学与健康** 7 篇（12.3%）<br>• **交叉学科** 2 篇（3.5%） | 语言与 [[STEM Education\|STEM]] 占据三分之二以上（天然契合大语言模型交互机制）；医学教育亦逐步引入 AI 问诊与病案模拟。 |
 
-> [!search-protocol]- 文献检索与筛选 PRISMA 流程（p. 7）
+> [!search-protocol] 文献检索与筛选 PRISMA 流程（p. 7）
 > ![](https://img.mylikemie.icu/sources/Chen_Cheung_2025_ERR/figures/Chen_Cheung_2025_ERR_Fig1_Literature_Search_PRISMA_Flowchart.jpg)
 
 ---
@@ -275,7 +275,7 @@ issuing_organization: ""
 
 ### 论证步骤一：基线等效性控制下的大学生成果总体效应与多维产出分化
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 在严格排除[[Pre-test and Post-test\|前测]]组间基线差异过大（$d \ge 0.25$）的不合格研究后，生成式 AI 对大学生的总体学习产出仍表现出高度显著的大[[Effect Size\|效应量]]（$g^+ = 0.804$）；但不同学习维度的获益呈现出极不均衡的梯度分化：[[Language Skills\|语言技能]]提升最为剧烈，[[Academic Achievement\|学业成绩]]、[[Affective Outcomes\|情感动机]]与[[Higher-Order Thinking Skills\|高阶思维]]呈现中到大效应，而对[[Metacognition\|元认知]]则未产生统计显著影响。（pp. 10, 15）
 
 > [!ma-table]- 多维学习产出效应量与[[Heterogeneity\|异质性]]检验汇总（p. 10）
@@ -302,7 +302,7 @@ issuing_organization: ""
 > - **[[Higher-Order Thinking Skills\|高阶思维]]（HOT）** 中度思维支架，赋能发散[[Brainstorming\|头脑风暴]]、结构化辩难支持与复杂方案设计
 > - **[[Metacognition\|元认知]]（MC）** 促进缺失警示，常规交互缺乏显性反思支架，易诱发思维外包与“[[Metacognitive Laziness\|元认知惰性]]”
 
-> [!evidence-grid]- 支持步骤一主张的初级研究实证证据
+> [!evidence-grid] 支持步骤一主张的初级研究实证证据
 > - **[[Language Skills\|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时对话中提供极低焦虑的演练环境，产生超大促学效应（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]; Wang et al., 2024）。（pp. 9–10）
 > - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时助教角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
 > - **情感动机提升机制** AI 工具以无评判压力的对话界面响应学生提问，极大降低了求助焦虑并提升了学业[[Self-Efficacy\|自我效能感]]（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）。（pp. 10, 15）
@@ -316,7 +316,7 @@ issuing_organization: ""
 
 ### 论证步骤二：基于活动理论（AT-MCSCL）维度的调节机制检验与微观-宏观生态解构
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 生成式 AI 的促学成效受到活动系统中学习者、规则与共同体情境要素的显著调节：大一新生与语言学习者获益最为显著；真实课堂、4–12 周中期干预、自编测验与中等[[Sample Size Determination\|样本量]]产生最高效应；在宏观情境上，低 ICT 水平、低 [[Socioeconomic Status|SES]] 地区与高权力距离文化中 AI 展现出显著更强的促学赋能（边际效益递增与权力壁垒破除机制）。（pp. 10–13, 16–18）
 
 > [!moderator-summary]- 主体、工具、角色与规则特征调节分析（pp. 11–12）
@@ -365,7 +365,7 @@ issuing_organization: ""
 
 ### 论证步骤三：发表偏倚压力测试、剪补法调整与批判性实践反思
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 现有文献存在不可忽视的发表偏倚与效果高估风险；经 Duval & Tweedie [[Trim and Fill Method\|剪补法]]严密校正后，生成式 AI 对大学生产出的实际真实效应量收敛为中等偏小水平（$g^+ = 0.321$），学界与实践界必须摒弃盲目的技术狂热，警惕“元认知惰性”与代做[[Homework\|作业]]导致的表面虚高，转向深层教学法与评价体系重构。（pp. 13–14, 18–19）
 
 > [!bias-audit]- 发表偏倚诊断与[[Funnel Plot\|漏斗图]]不对称性检验（p. 13）
@@ -418,22 +418,22 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Baseline Standardized Mean Difference\|基线等效性]]与[[Meta-analysis\|元分析]]严谨性
+> [!citation-card] [[Baseline Standardized Mean Difference\|基线等效性]]与[[Meta-analysis\|元分析]]严谨性
 > 早期元分析往往采用了不够严格的纳入标准，导致对[[Effect Size\|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具。由于本研究采用了更为严格的标准，许多在其他综述中出现的文献未被纳入。在经过[[Trim and Fill Method\|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。（p. 15）
 >
 > *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes, such as failing to control for baseline differences and using measures inherent to the experimental treatment... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational VALUE beyond inflated estimates reported in prior reviews.*
 
-> [!citation-card]- 权力距离与人机交互自主赋能
+> [!citation-card] 权力距离与人机交互自主赋能
 > 在以高权力距离为特征的教育情境中，学生更为依赖教师权威和自上而下的层级式教学。生成式 AI 在此类环境中的整合打破了这种传统动态，减少了学生对教师的依赖，提供了个性化和[[Learner Autonomy\|自主学习]]的机会。通过与 AI 工具的即时个性化交互，学生得以独立建构理解，从而推动教学模式从教师中心向学习者中心转变。（p. 18）
 >
 > *In educational contexts characterized by high power distance, students are more reliant on the authority of teachers and hierarchical, top-down instruction. The integration of Gen-AI in such settings may disrupt this traditional dynamic by reducing students' dependence on instructors and offering opportunities for individualized, autonomous learning... thereby shifting the instructional model from teacher-centered to learner-centered.*
 
-> [!citation-card]- [[Marginal Gains Hypothesis\|边际效益假说]]与教育数字化公平
+> [!citation-card] [[Marginal Gains Hypothesis\|边际效益假说]]与教育数字化公平
 > 尽管高 ICT 国家能够更有效地将 AI 整合到学习产出中，本研究支持了“边际效益”效应。即在数字化资源匮乏的地区引入教育技术往往会产生更大的相对效果。在 ICT 资源有限的地区，学生通常很少能获得数字化学习支持，因此生成式 AI 的引入带来了更为显著的附加价值。（p. 18）
 >
 > *Although high-ICT countries enabled more effective integration of AI into learning outcomes, the present study supported the 'marginal gains' effect. That is, the introduction of educational technology in digitally under-resourced regions tends to produce a greater relative effect. In regions with limited ICT resources, students typically have minimal access to digital learning support. As a result, the introduction of Gen-AI produces a more pronounced added value.*
 
-> [!citation-card]- [[Metacognitive Laziness\|元认知惰性]]与结构化反思培训
+> [!citation-card] [[Metacognitive Laziness\|元认知惰性]]与结构化反思培训
 > [[Metacognition\|元认知]]至关重要，提供诸如结构化自我评估和策略评价等方面的培训，能够增强学生有效使用生成式 AI 工具的准备度，并避免“元认知惰性”。（p. 19）
 >
 > *Metacognition is essential, and providing training in areas such as structured self-evaluation and strategy appraisal can enhance students' preparedness to engage with Gen-AI tools effectively and avoid 'metacognitive laziness'.*

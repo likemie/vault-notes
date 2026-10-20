@@ -185,7 +185,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ### 1. 课程认知（Perceptions of TOK）：目标、益处与挑战
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 知识论的核心目的不仅是学术上的批判性评估，更是打破学科壁垒和自我中心的主观偏见。其带给学生的最大益处体现在[[Open-Mindedness|思想开放]]和反思能力的跨情境迁移。然而，将这种隐性认知转变落实为显性量化的评分评估，构成了最大的实施挑战。
 
 > [!goal] 总体目的 建立认知意识
@@ -226,7 +226,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | **国际公民与生活技能** | 国际情怀 | 173 |
 > | | 不论断他人（not judge others） | 170 |
 
-> [!case]- [[Focus Group\|焦点小组]] 视角改变与溢出效应
+> [!case] [[Focus Group\|焦点小组]] 视角改变与溢出效应
 > 在质性焦点小组中，任课群体生动地描述了知识论给学生带来的深远影响：
 > 1. **建立联系（Connections）** “我认为该课程的重点在于建立联系... 一旦学生开始建立认知方式和知识领域的联系，这种状态就无法逆转（that bell can't be unrung）。” 在许多学校，知识论甚至变成了一个动词——“你被知识论了（you have been TOKed）”，指的是学生对每件事都开始进行思想唤醒与多维探究。
 > 2. **批判性思维（Critical thinking）** 学生不再轻信。“简单来说，如果阅读了一篇关于奥巴马的文章，学生不会直接吞下（swallow it all），而是会去研究其他国家的人对同一件事的看法。”
@@ -263,12 +263,12 @@ issuing_organization: "International Baccalaureate Organization"
 > | 识别并反思意识形态假设 | 4.43 | 710 |
 > | 在知识论内容与其他课程内容之间建立联系 | 4.61 | 708 |
 
-> [!citation-card]- 焦点小组中的评估困境 学生索要数字分数
+> [!citation-card] 焦点小组中的评估困境 学生索要数字分数
 > “学生想要分数，他们需要知道自己表现如何。对于反馈，即使是详尽的形成性反馈，他们实际上并不清楚自己表现如何，他们只想要一个数字。”（p. 33）
 > 
 > *“Because they want to have grades, because they need to know how they are doing. With the [[Feedback]], even if it's an extended feedback, they don't really know how they are doing, they want the number.”*
 
-> [!citation-card]- 焦点小组中的评估困境 探究性评分主观
+> [!citation-card] 焦点小组中的评估困境 探究性评分主观
 > “批判性评估学生的知识是一个挑战，因为即使在一小群学生中，思考也可能处于许多完全不同的阶段。过去教授英语语言艺术（ELA），知识论中学生写作的评估与传统环境中的写作评估非常不同。”（p. 32）
 > 
 > *“Critically evaluating student knowledge is a challenge because students' thinking can be at many different stages within even a small group of students. I am historically an English Language Arts teacher, and the evaluation of students' writing within TOK is quite different than evaluation of students' writing in a traditional ELA setting.”*
@@ -298,7 +298,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ### 2. 知识论对教师专业发展的影响（Impact on Teachers）
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 教授知识论深刻地重塑了任课群体的[[Epistemological Beliefs\|认识论信念]]与教学实践。它本身就是一项高价值的在职专业发展，推动了教师从“事实传递者”向“概念探究引导者”的哲学转变，尽管应对不同知识领域的信心存在显著梯次落差。
 
 > [!chain-link] 教学能力的提升与信心的领域落差
@@ -328,10 +328,10 @@ issuing_organization: "International Baccalaureate Organization"
 > 3. **全面转向学生** 对“教学哲学”开放式回答的词频分析（图1）揭示，教师高频使用了“以讨论为基础（discussion based）”、“反思性聆听（reflective listening practices）”、“通过活动而非讲授来教学（Teach through activity not lecture）”等理念词汇。
 > 4. **打破孤岛协作** 因为该课程涵盖八大知识领域，几乎没有教师具备全知背景，这迫使他们打破“关门教书（shut their doors and teach in isolation）”的传统习惯，主动寻求与其他学科教师的“团队教学（team teaching）”或邀请客座讲师，从而在学校中催生了真正真实的协作文化。
 
-> [!example]- 图1 教学哲学编码词频图
+> [!example] 图1 教学哲学编码词频图
 > ![](https://img.mylikemie.icu/sources/Bergeron_2015_TeachingTOK/figures/Bergeron_2015_TeachingTOK_Fig1_Word_frequency_display.jpg)
 
-> [!case]- 焦点小组 从科学事实走向伦理概念
+> [!case] 焦点小组 从科学事实走向伦理概念
 > 表9详细梳理了对教师影响的主题：
 > 1. **改进教学（Improves teaching）** “我虽然有心理学博士学位，以为自己懂得该如何教学...但当我开始沉浸在IB哲学中时，我才发现了思考常规（thinking routines）和结构化探究（structured way of inquiry）的力量，这极大地发展了我的教学法。”
 > 2. **教学方法（Methods）** “知识论是一次难得的机会去反思学生到底在学什么。它让学生明白，他们在数学课上学的东西不仅是离散的，而且可能会影响生物课...这是一次建立跨学科连接的机会，让他们去反思构成知识的基本底蕴。”
@@ -343,7 +343,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ### 3. 课程的实施与协作策略（TOK Implementation）
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 虽然课程实施在宏观上平稳，但微观上深受课时边缘化和跨学科背景耗时的阻碍。教师们并没有被动等待行政救援，而是通过极为活跃的跨学科团队协作，成功地从内部破解了这些实施壁垒。
 
 > [!challenges] 结构性实施壁垒
@@ -373,7 +373,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | 协调教学以使跨学科主题对齐 | 225 | 23.4% | 960 |
 > | 协调作业使学生课业有重叠 | 141 | 14.7% | 960 |
 
-> [!citation-card]- 协作带来的破壁效应
+> [!citation-card] 协作带来的破壁效应
 > “这是一次极其真实的[[Cooperative Learning\|合作学习]]和教学体验...比如我是科学老师，但我们的团队里有语言老师和音乐老师一起参与。这大大减少了你需要去自己研究和理解其他学科知识的压力。”（p. 38）
 > 
 > *“I think this is a truly authentic collaborative learning and teaching experience... I'm a science teacher but we have a language teacher, music teacher as part of the team. It cuts back on you having to do the research and trying to understand other subjects.”*

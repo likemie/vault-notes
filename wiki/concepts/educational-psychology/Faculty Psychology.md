@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 在 19 世纪的比较教育考察与课程规划中，官能心理学被普遍确立为衡量教育品质的黄金标准：
 
-> [!citation-card]- 关键表述：作为课程与心智训练基石的官能心理学
+> [!citation-card] 关键表述：作为课程与心智训练基石的官能心理学
 > 库森与朱利安一样信奉被称为‘官能心理学’的心理学理论以及相关的‘心智训练’观念。库森对中学课程内容的构想——将人文与科学研究融为一体的普通教育——可以被解释为后来长期主导法国教育思想的‘普通文化’（culture générale）理想的先声。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 30)]]；引自 Brewer (1971:91–92); Halls (1965:2)
 >
 > *Cousin, like Jullien, adhered to the psychological theory known as 'faculty psychology' and the associated idea of 'mental discipline', Cousin’s conception of the content of the curriculum of the secondary collèges—a general education that combined humanistic with scientific studies—could be interpreted as foreshadowing the ideal of culture générale.*

@@ -473,7 +473,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 对齐与高阶认知的教育启示
+> [!citation-card] 对齐与高阶认知的教育启示
 > 此外，当[[Academic Achievement\|学业成就]]衡量的是概念性知识或论证，而不是陈述性或[[Procedural Knowledge\|程序性知识]]时，[[Effect Size\|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition\|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、[[Epistemic Ideals\|认识理想]]和[[Reliable Epistemic Processes\|可靠过程]]来定制其测量工具。 (p. 1102)
 >
 > *Furthermore, effect size estimates were higher when the academic achievement measure captured conceptual knowledge or argumentation, as opposed to declarative or [[Procedural Knowledge]]. Conceptual knowledge and argumentation achievement measures capture the kinds of higher order processing posited to require epistemic cognition. These findings may be expected, but they are important. They bolster arguments that researchers should take domain differences in argumentation, conceptual understanding, and epistemic cognition seriously, and consider tailoring their instruments to the kinds of [[Epistemic Practices]], epistemic ideals, and reliable processes considered normative in particular domains.*

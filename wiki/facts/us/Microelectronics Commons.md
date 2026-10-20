@@ -85,7 +85,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 通过在 6 大关键技术方向上部署区域共享中试试验线（Prototyping Facilities），为大学与初创企业提供低成本、高效率的早期芯片流片、开放[[Process Design Kit|工艺设计套件]]（PDK）与[[Heterogeneous Integration|异构集成]]通道，实现颠覆性[[Dual-Use Technology|军民两用技术]]向[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及商业规模化制造的无缝接力。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–24)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **六大战略技术赛道**
 >   1. 电磁战与射频微电子（Electromagnetic Warfare / Secure RF）；
 >   2. 量子微电子与量子计算硬件（Quantum Technologies）；
@@ -130,7 +130,7 @@ updated: 2026-10-20
 > - **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与商务部** 提供跨平台数字化设计与执行网关（DEG）、[[Multi-Project Wafer|多项目晶圆]]（MPW）流片排期及国家级先进封装配套。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 15)]]
 > - **产业界与商业代工厂** 开放兼容的[[Process Design Kit|工艺设计套件]]（PDK）与流片机时，承接中试成熟技术的量产转化。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 24, 27–29)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **敏捷流片支持** 通过资助区域枢纽内部试验线机时，为大学课题组提供数周内完成流片迭代的敏捷通道。
 > - **保密与开放分级管理** 建立灵活的知识产权与技术访问分级机制，既保障国防涉密项目的可信环境，又支持通用商业技术的开放学术发表。
 > - **部际定期协调机制** 依托白宫 NSTC 微电子领导小组委员会（[[Subcommittee on Microelectronics Leadership|SML]]）与商务部 CHIPS 研发办公室、[[National Science Foundation|NSF TIP]] 理事会设立联合协调框架，避免资助重叠并确保原型顺畅转入 NSTC 放大。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 21)]]
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **原型流片周期压缩** 将新型器件概念从实验室设计到完成首轮硬件流片测试的时间缩短至 6–12 个月以内。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
 > - **国防微电子自主可控率** 显著提升关键射频、量子及安全边缘计算器件在本土可信环境下的原型验证覆盖率。
 > - **[[Research Translation|技术转化]]外溢率** 确保国防资助的颠覆性硬件构想同时具备向民用商业计算与人工智能市场溢出的工程接口。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]

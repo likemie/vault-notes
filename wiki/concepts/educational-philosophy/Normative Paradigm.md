@@ -76,7 +76,7 @@ updated: 2026-10-20
 >
 > *The normative paradigm (or model) contains two major orienting ideas: first, that human behaviour is essentially rule-governed; and second, that it should be investigated by the methods of natural science. The interpretive paradigm, in contrast to its normative counterpart, is characterized by a concern for the individual. Whereas normative studies are positivist, all theories constructed within the context of the interpretive paradigm tend to be anti-positivist... As regards theory, normative researchers try to devise general theories of human behaviour and to validate them through the use of increasingly complex research methodologies... For them, the basic reality is the collectivity; it is external to the actor and manifest in society, its institutions and its organizations. The researcher’s ultimate aim is to establish a comprehensive ‘rational edifice’, a universal theory, to [[Accounts\|account]] for human and social behaviour.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Positivism\|实证主义]] — 实证主义是哲学层面的[[Epistemology\|认识论]]与科学哲学立场；规范范式是社会科学层面的上位元范式架构，除实证认识论外，还吸收了行为主义刺激-反应论与功能主义系统工程观。
 > - 不等于 [[Scientific Method\|科学方法]] — 科学方法是实证探索的具体程序与检验工具；规范范式则是包含规则[[Ontology\|本体论]]、过去因果论与社会工程取向的完整研究范式。
 > - 不等于 [[Interpretive Paradigm\|诠释范式]] — 诠释范式是对位的反实证主义范式，二者在行为/行动、[[Grand Theory\|宏大理论]]/扎根洞见维度构成二元对抗。

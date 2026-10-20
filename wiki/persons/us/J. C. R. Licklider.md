@@ -102,7 +102,7 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 计算技术的本质使命不是排他性地替代人类心智，而是通过实时交互与优势互补形成[[Man-Computer Symbiosis|人机共生]]体（Man-Computer Symbiosis），使机器承担机械运算与数据检索，使人类专注于假设建构、价值权衡与启发式洞察。这种颠覆性计算[[Paradigm|范式]]的诞生，根本上得益于国家安全战略机构与顶尖科学家之间高度互信的资助与协同体制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 
 > [!citation-card] 人脑与计算机器的紧密共生

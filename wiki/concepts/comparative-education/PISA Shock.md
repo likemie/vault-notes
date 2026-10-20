@@ -119,7 +119,7 @@ updated: 2026-10-20
 >
 > *The PISA 2000 shock fundamentally broke the long-standing taboo on standardised student assessments in Germany... leading to the establishment of the IQB as a national center of calculation and a [[Topological Spatialisation\|Topological Re-Assemblage]] of policy spaces.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 常态化国际测评排名下滑 — 常态化下滑往往被视为技术性波动，而 PISA 震荡是深层信念破灭驱动的跨党派全[[Social Regime|社会体制]]危机。
 > - 不等于 媒介化人为建构的虚假危机 — 真实 PISA 震荡源于出人意料的客观实证断裂（如德国 2001 年、瑞典 2012 年），而非政治精英在成绩平稳时为强推私有化而操纵媒体剪裁出的“人工危机”（如英格兰 2012 年）（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 113]]）。
 > - 不等于 孤立的课程纲要修补 — 传统课程修补仍停留在投入端的大纲修改，PISA 震荡则直接驱动了涵盖国家标准、国家计算中心、全域普查测试与独立[[School Inspection\|外部学校督导]]的系统性治理生态重建。

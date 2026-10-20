@@ -58,7 +58,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 批判民族志将民族志方法从"发现和描述"推进到"质疑和改变"：研究不仅是对社会现实的记录，更是揭露压迫、赋权被研究群体、推动社会正义的政治行动和行动主义。研究者既非中立也非无辜——[[Reflexivity\|反身性]]不只是自我审视，而是积极干预。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 446–451)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 传统民族志关注是什么，批判民族志关注可能是什么。（Thomas, 1993, p. 4）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 446)]]
 >
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be.*
@@ -131,7 +131,7 @@ updated: 2026-10-20
 > > - **Madison (2005)** 认为无论是主体性还是客观性，都需因其政治立场和效应而被审视，研究者和研究既非中立也非无辜。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 447)]]
 > > - **批评者** 认为当研究结论被政治承诺预先决定时，研究就失去了发现意外事实和纠正研究者错误认知的能力。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]] — 章内指出批判民族志被批评为"研究者变成意识形态家而非理论家"，且研究者的解放议程可能与参与者自身利益不一致（pp. 447–448）。
 
 ## 相关研究

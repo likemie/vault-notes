@@ -95,7 +95,7 @@ updated: 2026-10-20
 >
 > *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to ESSA Evidence Standards could virtually assure student success.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于特殊教育分类本身** RTI 是一种普通教育与特教衔接的递进支持体系，其首要目标是在普通教育体系内部解决学业困难，而非扩大特教标签。
 > - **不等于单一孤立的辅导项目** RTI 是贯通全校教学（Tier 1）、中度补充（Tier 2）与重度干预（Tier 3）的连续谱系系统。
 > - **RTI 与 RTPI 的演进关系** RTI 侧重多层支持的组织流程与评估机制；循证干预反应（Response to Proven Instruction, RTPI）则是由[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）提出的升级版，强调必须用达到最高法定[[Evidence Standards\|证据标准]]的具体课程与辅导产品刚性填充各层。

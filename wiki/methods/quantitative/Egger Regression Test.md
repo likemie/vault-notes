@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 包含 $k$ 个独立效应量的一阶元分析或去重后的[[Meta-meta-analysis\|二阶元分析]]。
 > - **输出形式** 截距估计值（Intercept $a$）、$t$ 统计量、自由度 $df$ 与双尾显著性 $p$ 值。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Egger 回归检验通过对标准化效应量与精度建立线性模型，定量测定漏斗图不对称程度；截距显著不为零表明小样本研究的效应量系统性偏大（Egger et al., 1997; Borenstein et al., 2021）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 8)]]
 >
 > *The Egger regression asymmetry test detects publication bias by regressing the standardized effect size against its precision, where a non-zero intercept indicates funnel plot asymmetry (Egger et al., 1997).*

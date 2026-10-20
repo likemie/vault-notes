@@ -71,7 +71,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 创造性[[Problem Solving\|问题解决]]并非单一的发散联想，而是由“理解挑战（目标发现、数据发现、[[Problem Finding\|问题界定]]）$\to$ 产生想法（观念发散生成）$\to$ 准备行动（方案评估选择、接受度建立）”构成的完整认知闭环；在每一个阶段均严格实施“先发散延迟判断、后收敛审慎评估”的双阶段认知规则，能显著提升学习者的创造潜能与复杂问题解决效能。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 8–9)]]
 
-> [!citation-card]- 关键表述：CPS 的结构化干预效能（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）
+> [!citation-card] 关键表述：CPS 的结构化干预效能（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）
 > 创造性问题解决模型作为历史最悠久、实证检验最充分的结构化训练体系，在多项[[Meta-analysis\|元分析]]中均展现出稳健的大[[Effect Size\|效应量]]促进（$d = 0.74 \sim 0.84$），证实认知启发式策略对破除思维固化具有决定性赋能作用。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]
 >
 > *The Osborn-Parnes Creative Problem Solving framework structures the creative process into explicit, manageable stages, alternating divergent search with convergent evaluation.*
@@ -109,7 +109,7 @@ updated: 2026-10-20
 > - **前提二** 纯粹的发散构想若缺乏收敛评估与现实检验，无法形成可落地的有效创新产品。
 > - **推导** CPS 在各阶段均强制分离“发散期”（禁止批判、追求数量）与“收敛期”（标准筛选、可行性论证），从而在心理机制上实现了“新颖性”与“适切性”的双重兼顾。实证数据进一步揭示，在发散生成阶段，**个体独立深思（$g = 0.682$）优于群体协作（$g = 0.567$）**，CPS 流程必须保障充分的个体独立构思以规避群体评价顾虑与生产力阻塞。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 7–8)]]
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** CPS 训练对不同年龄段学习者均具有显著增益，但在经历系统练习后对真实学科任务的迁移效果最佳。
 > - **推论二（源自核心命题二）** 结合计算机协作工具（如电子[[Brainstorming\|头脑风暴]] EBS）能够进一步降低群体协作中的生产力阻塞，放大 CPS 发散阶段的产出效能（$d = 0.44$）。
 > - **推论三（时间周期与[[Habituation\|习惯化]]定势）** CPS 等技术型训练的干预效果呈现倒 U 型时间曲线，$< 2$ 个月（$g = 0.844$）为策略精熟与动机最优的黄金窗口；长达数年的超长周期训练（如 Puccio et al., 2020）易导致规则工具依从性与[[Habituation\|习惯化]]倦怠（$< 3$ 年 $g = -0.122$），因此 CPS 训练应采取模块化、中短期循环强化的教学架构。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–8)]]
@@ -180,7 +180,7 @@ updated: 2026-10-20
 > > - **Weisberg (2006)** 强调[[Creativity\|创造力]]依赖领域知识重组与逻辑递进，程序化步骤只是外在辅助。
 > > - **Isaksen et al. (2011)** 强调现代 CPS 为动态非线性网络，学习者可根据任务需要自由调用各模块。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 指出单一依赖脱离学科知识的独立 CPS 操练容易陷入浅层技能化，应与长周期学科深度探究（如 PBL）相结合。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 实证指出技术型 CPS 训练若缺乏领域深层连接，易导致学习者产生工具依从性（Transfer Limitations），其远迁移效应略低于高度聚焦的纯思维发散训练。
 

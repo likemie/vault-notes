@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过[[Commensuration\|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
@@ -130,7 +130,7 @@ updated: 2026-10-20
 > - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织[[Evidence-Based Policy-Making|循证决策]]中的数字修辞。
 > - **跨国／跨领域传播** 思想跨越高等教育、医疗政策、环境治理与法律经济学，成为全球批判数据主义（Critical Data Studies）与算法问责研究的核心理论资源。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。

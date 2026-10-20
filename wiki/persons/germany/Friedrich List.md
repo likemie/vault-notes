@@ -53,7 +53,7 @@ updated: 2026-10-20
 > - **核心角色** 后发国家[[Technological Catch-up|技术赶超]]与[[National Innovation System|国家创新系统]]理论思想雏形的奠基者；从生产力论出发挑战英国古典自由放任[[Paradigm|范式]]。
 > - **代表贡献** 创立国家政治经济学体系（The National System of Political Economy），提出[[Intellectual Capital|智力资本]]与国家生产力积累学说，倡导依托关税保护与国家技术教育体系实现工业追赶。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 该作者记忆所及，最早使用“国家[[Systems of Innovation|创新系统]]”表述的是[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Bengt-Åke Lundvall, 1992）；然而正如他及其同事首先承认的那样，这一思想实际上至少可以追溯至弗里德里希·李斯特在 1841 年提出的《政治经济学的国民体系》，该书完全可以被冠以《国家创新系统》之名。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 >
 > *According to this author's recollections, the first person to use the expression 'National System of Innovation' was Bengt-Åke Lundvall... However, as he and his colleagues would be the first to agree, the idea actually goes back at least to Friedrich List's conception of 'The National System of Political Economy' (1841), which might just as well have been called 'The National System of Innovation'.*
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 后发国家的长期经济繁荣取决于全社会积累、消化与增进知识的生产力能力，而非即期的物质财富存量；国家必须扮演积极协调者角色，通过保护性贸易政策、建立公共技术教育与科研网络，将现代科学融入制造业全过程，以实现对先发工业国的赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 
 > [!citation-card] 李斯特论[[Intellectual Capital|知识资本]]与生产力对物质资本的超越
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **政策路径** 直接塑造了普鲁士与 19 世纪中后期统一德国的技术教育网络、铁路统一规划及工业追赶政策，并成为 20 世纪东亚后发国家（如日本、韩国）产业政策的重要思想范本。
 > - **跨国传播** 李斯特思想在 19 世纪中叶传播至美国、日本（明治维新时期广泛译介）及俄国，成为非英美核心区抗衡自由放任贸易学说的关键理论武器。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 将李斯特追认为国家创新系统理论的真正思想源头，揭示其关于无形投资、技术教育与战略政策协调的洞见对反思全球化迷思的核心价值。
 
 ---

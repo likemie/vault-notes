@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 纵向研究的吸引力在于其能够建立因果关系和进行推断。Ruspini (2002, p. 26)补充指出，纵向研究能够"构建比纯粹的横截面或时间序列数据更复杂的行为模型"，它们捕捉了人类行为的复杂性。此外，纵向研究可以结合数值数据和质性数据（p.268）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 纵向研究可以结合数值数据和质性数据，构建比纯粹的横截面或时间序列数据更复杂的行为模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011)]]
 >
 > *Longitudinal studies can combine numerical and qualitative data. They enable researchers to [[Construct]] more complicated behavioural models than purely cross-sectional or time-series data.* (Ruspini, 2002, p. 26)

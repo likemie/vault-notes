@@ -53,7 +53,7 @@ updated: 2026-10-17
 > - **代表贡献** 主持了针对低[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
 > - **阅读边界** 本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > “杰尼斯的出版物（其中八篇被用于《VL》）包括：‘公立学校、公立特许学校和私立宗教学校对学生成绩影响的元分析’……在接受杰尼斯对全语言的 -0.65 [[Effect Size\|效应量]]之前，哈蒂本应考虑作者的潜在偏见是否在研究的选择与解释中发挥了作用。” ([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.147]])
 >
 > “Jeynes’s publications (eight of which are used in Visible Learning) include: ‘A Meta-Analysis on the Effects and Contributions of Public, Public Charter, and Religious Schools on Student Outcomes’... Before accepting Jeynes’s -0.65 effect size for whole language, Hattie ought to have considered the possibility of whether author bias could have played any role in the selection and interpretation of the research studies...”
@@ -77,10 +77,10 @@ updated: 2026-10-17
 
 ## 核心思想与争议
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 杰尼斯主张，对于低[[Socioeconomic Status|社会经济地位]]的儿童，传统的基本阅读器（Basal Readers）和系统技能训练在整体上优于[[Whole Language\|全语言]]教学；但他同时承认，如果教师严格贯彻无技能切片、无机械操练的“纯粹全语言”教学，儿童将获得极高的阅读收益（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146-147]]）。
 
-> [!concept-lens]- 思想透镜
+> [!concept-lens] 思想透镜
 > - **问题意识** 如何通过可量化的[[Meta-analysis\|元分析]]方法，评估宗教学校、传统教学法和家庭结构对弱势学童教育表现的促进作用，并将其转化为可供新保守主义政府采纳的政策依据。
 > - **概念工具** 全语言的多级分类法：纯粹（Pure）、特定（Specific）、广泛（Broad）、折衷（Eclectic）；“纯粹全语言”的三大判准（无文本切片与改编、无全班统一任务、无孤立技能操练）（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146]]）。
 > - **研究影响** 其数据被[[John Hattie\|约翰·哈蒂]]直接整合进《VL》中，直接促成了对全语言“低效”的科学判决，但也因为数据质量与作者背景而饱受方法论专家的质疑。

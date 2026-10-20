@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **核心角色** 全球教育多边治理与跨国公民社会研究的开拓者；曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）主席（2014–2015）；兼具顶尖国际组织治理高管与批判政治经济学理论家的双重角色。
 > - **代表贡献** 提出奠基性的[[Educational Multilateralism|国际教育多边主义]]三阶段历史演化理论（Mundy, 1998）；系统考证了[[UNESCO|联合国教科文组织]]（[[UNESCO]]）被[[World Bank|世界银行]]夺取全球教育政策领导权的历史轨迹（Mundy, 1999）；系统评估了国际跨国倡导网络与非政府组织在[[Education for All|全民教育]]（EFA）运动中的制度困境（Mundy & Murphy, 2001）。
 
-> [!citation-card]- [[Robert Arnove|阿诺夫]]论曼迪对主要跨国援助机构运作的考察
+> [!citation-card] [[Robert Arnove|阿诺夫]]论曼迪对主要跨国援助机构运作的考察
 > 主要国际技术援助与金融机构的日常运作与机构间权力关系，构成了曼迪（Mundy, 1999, 2002）等学者日益丰富的[[Research Topic|研究主题]]。曼迪（1999）详尽追踪了秉持人道主义与[[Lifelong Learning|终身学习]]导向的联合国教科文组织，如何逐步将全球教育政策制定的领军地位拱手让给更具经济理性的世界银行。曼迪（1998）更系统记录了教育多边主义意识形态的三阶段变迁。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 >
 > *The workings and inter-institutional relations of the major international technical assistance and financial agencies is the subject of a growing body of scholarly work by Mundy. Mundy (1999) for example, traces how UNESCO with its humanistic orientation toward life-long learning systems has lost its position as the leading United Nations agency setting policy directions for education to the more economically minded World Bank.*
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[International Education|国际教育]]多边机制并非超然于[[Geopolitics|地缘政治]]的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在新自由主义和债务危机冲击下被[[World Bank|世界银行]]的规训性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 
 > [!citation-card] 曼迪论多边主义意识形态的三阶段演化

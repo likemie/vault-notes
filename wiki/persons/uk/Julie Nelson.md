@@ -46,7 +46,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]- 核心思想
+> [!tip] 核心思想
 > Nelson 的贡献更适合按主题而不是按年份理解：
 >
 > - **把 [[Evidence-Informed Practice\|EIP]] 概念做清楚** 与 [[Carol Campbell]] 共同主张 EIP 应被理解成[[Professional Judgment\|专业判断]]、系统数据、课堂数据和研究证据的整合，而不是“多看一点研究”的宽泛口号([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.129]])。
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 > - 任英国 NFER 研究者，工作集中于[[Research Utilization\|研究使用]]、教师研究参与和[[Evidence-Informed Practice\|证据知情实践]]。
 > - 与 [[Carol Campbell]] 合作推进 EIP 的概念整合与测量工作。
 > - **2017** 年参与 EIP 特刊与教师研究参与度测量项目，使 EIP 讨论更具经验研究取向。

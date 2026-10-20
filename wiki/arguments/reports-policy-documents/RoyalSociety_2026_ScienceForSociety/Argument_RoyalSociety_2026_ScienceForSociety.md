@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **核心解释** 40 年来科学传播[[Paradigm\|范式]]已从“弥补公众无知”的单向知识普及（[[Deficit Model of Science Communication\|赤字模型]]）彻底转向平权、双向倾听与互信建构的[[Public Engagement with Science\|公众科学参与]]；然而在基础教育体系、公共科普基建投资、媒体分发激励、产业透明披露、政策咨询透明度及高校考评体系中，普遍存在将公众参与视作“编外负担”的体制性阻碍与结构性激励错位。
 > - **最终贡献** 全书系统超越了传统的“自愿外展”观念，在国家战略层面确立了将公众科学参与全面内嵌于**科研全生命周期（Research Lifecycle）** 的顶层制度框架，为基础教育全员[[Scientific Literacy\|科学素养]]培育、公共场馆公平普惠、媒体算法生态治理、产业社会价值杠杆撬动、政府透明决策机制以及学术考评体制重构提供了协同落地的二十项政策行动蓝图。
 
-> [!citation-card]- 核心表述
+> [!citation-card] 核心表述
 > 公众科学参与是科研生命周期中不可或缺的有机组成部分。它应当被确认为核心活动，学术界、产业界和第三部门的研究人员在做好这一工作时应当获得充分的支持、保护与奖励。（p. 14）
 >
 > *Public engagement is an essential part of the research lifecycle. It should be acknowledged as such, and researchers in academia, industry and the third sector should be supported, protected and rewarded for doing it well.*
@@ -250,17 +250,17 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 科学属于全人类的共同文明基石
+> [!citation-card] 科学属于全人类的共同文明基石
 > 探索世界的知识作为科学事业的本质，处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。（p. 5）
 >
 > *The pursuit of knowledge about our world – the essence of the scientific endeavour – lies at the very heart of human civilisation. Science is not the preserve of a small group of accredited scientists; it belongs to all of humanity. Access to scientific principles and facts, and their implications, should be available to everyone.*
 
-> [!citation-card]- 四十年科学与社会关系的深刻重塑
+> [!citation-card] 四十年科学与社会关系的深刻重塑
 > 自 1985 年《公众理解科学》报告发布以来的四十年间，科学与社会的互动方式发生了翻天覆地的变化。科学传播不再是单向的知识灌输，而演进为双向的倾听与互信建构。当今社会深陷数字网络与算法重塑，科学唯有与公众紧密站在一起，才能共同应对全人类面临的深层危机。（p. 4）
 >
 > *In the forty years since the 1985 Public Understanding of Science report, the ways in which science and society interact have been utterly transformed. Science communication is no longer a one-way transfer of knowledge, but a two-way dialogue of listening and trust-building. In an era reshaped by digital networks and algorithms, science can only address our shared crises by standing firmly together with the public.*
 
-> [!citation-card]- 公众参与是科研全生命周期的核心组成部分
+> [!citation-card] 公众参与是科研全生命周期的核心组成部分
 > [[Public Engagement with Science\|公众科学参与]]是科研生命周期中不可或缺的有机组成部分。它应当被确认为核心活动，学术界、产业界和第三部门的研究人员在做好这一工作时应当获得充分的支持、保护与奖励。（p. 14）
 >
 > *Public engagement is an essential part of the research lifecycle. It should be acknowledged as such, and researchers in academia, industry and the third sector should be supported, protected and rewarded for doing it well.*

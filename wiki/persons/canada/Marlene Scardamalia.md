@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 传统的学校教育过分局限于个体大脑内部的“知识习得与记忆再现”，使学生沦为执行固定教学程序的被动客体。真实的学习应当被重塑为类似专业科研社群的“[[Knowledge Building Theory|知识建构]]（Knowledge Building）”实践：学习者通过提出真实问题、构想可改进的观点（Improvable Ideas）、协同利用技术媒介开展思想论辩与升华（[[Research in Schools Evaluation\|RISE]] Above），并在该过程中完全享有对探究目标、方法与标准的[[Epistemic Agency\|认识能动性]]（Epistemic Agency）。
 
 > [!citation-card] 学习者从被动客体向认识主体跃迁

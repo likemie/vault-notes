@@ -156,7 +156,7 @@ publisher: "U.S. Department of Commerce"
 
 [[National Semiconductor Technology Center|国家半导体技术中心]]是落实《[[CHIPS and Science Act|芯片与科学法案]]》的核心载体，承载着重振美国本土半导体制造能力与前沿科技领导力的国家使命。（pp. 2–3）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[National Science and Technology Council|NSTC]] 必须确立延长美国技术领导力、降低原型制作时间与成本、构建并维系全美半导体劳动力生态三大战略支柱，以系统扭转本土微电子制造份额萎缩与创新断代危机。（pp. 4–5）
 
 #### 1. 先进半导体制造产能过度集中构成战略脆弱性，联邦政府亟需通过法定授权重构本土创新底座
@@ -169,7 +169,7 @@ publisher: "U.S. Department of Commerce"
 > - **立法授权与部际协同** 依据《2021 财年国防授权法案》第 99 编及《2022 年芯片与科学法案》，商务部长协同国防部长、能源部长与国家科学基金会（[[National Science Foundation]], NSF）主任共同建立 NSTC，统筹 110 亿美元国家级半导体先进研发预算。（pp. 2–3, 26）
 > - **公私联合体属性** NSTC 采取公私合作联合体模式，兼顾国家安全硬性需求与商业半导体市场的敏捷创新活力。（pp. 3–5）
 
-> [!figure]- 图 1　国家半导体技术中心使命宣言架构
+> [!figure] 图 1　国家半导体技术中心使命宣言架构
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig1_Mission_Statement.jpg)
 
 #### 2. 延长技术领导力、降低原型验证成本与维系人才生态构成相互支撑的三大核心支柱
@@ -187,12 +187,12 @@ publisher: "U.S. Department of Commerce"
 
 为防止研发资源割裂，NSTC 必须在联邦政府整体创新布局中明确自身定位，与既有及新建项目形成无缝的技术接力机制。（pp. 8–11）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > NSTC 通过与国防部（Department of Defense, DOD）[[Microelectronics Commons|微电子共用体]]、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及国家制造创新机构（[[Manufacturing USA]]）紧密协同，构建了从基础原理到商业代工厂的完整全流程中试流水线。（pp. 8–11）
 
 研发流水线的畅通需要消除从实验室原型到规模化量产之间的结构性断层。
 
-> [!figure]- 图 2　扩大跨越[[Valley of Death|死亡之谷]]的半导体创新转化漏斗
+> [!figure] 图 2　扩大跨越[[Valley of Death|死亡之谷]]的半导体创新转化漏斗
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig2_Innovation_Pipeline_Valley_of_Death.jpg)
 
 #### 1. 概念验证与规模量产之间的工艺断层构成了微电子研发的核心堵点
@@ -207,7 +207,7 @@ publisher: "U.S. Department of Commerce"
 
 各部门依托技术就绪度梯次推进，实现了基础研究向商业量产的闭环接力。
 
-> [!figure]- 图 3　美国各联邦研发计划在芯片创新各阶段的分工图谱
+> [!figure] 图 3　美国各联邦研发计划在芯片创新各阶段的分工图谱
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig3_Stages_of_Innovation_Across_Programs.jpg)
 
 #### 2. 商务部与国防部等多部门协同明确了基础探索、敏捷原型与共性中试的职责分工
@@ -228,7 +228,7 @@ publisher: "U.S. Department of Commerce"
 
 为将战略目标转化为实体能力，NSTC 设计了涵盖硬件中试、数字软件资产、技术路线图、劳动力培养与创业投资的完整业务矩阵。（pp. 12–20）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > NSTC 通过实体共享技术中心网络、云端设计使能网关（Design Enablement Gateway, DEG）与国家半导体劳动力卓越中心（Workforce Center of Excellence, WCoE）的深度融合，彻底打破了高昂硬件壁垒、软件授权壁垒与技能供给断层。（pp. 12–20）
 
 #### 1. 跨区域共享晶圆试验线与多项目流片排期能够大幅摊薄先进制程的验证成本
@@ -282,12 +282,12 @@ publisher: "U.S. Department of Commerce"
 
 为确保 NSTC 成为能够跨越代际持续运行的百年创新中枢，报告规划了中立的治理架构与多渠道自生财务模型。（pp. 21–25）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > NSTC 必须依托独立设立的专用非营利实体（[[Natcast]]）实施专业化运营，通过分层会员结构防范利益冲突，并以五年联邦拨款为杠杆建立多元造血的长效财务机制。（pp. 21–25）
 
 治理结构的设计必须在政府战略把关、产业敏捷响应与学术中立探索之间取得动态平衡。
 
-> [!figure]- 图 4　国家半导体技术中心运营与治理架构模型
+> [!figure] 图 4　国家半导体技术中心运营与治理架构模型
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig4_Operational_Structure_NSTC.jpg)
 
 #### 1. 设立独立非营利运营商 [[Natcast]] 能够有效防范利益冲突并实现多方共治
@@ -311,7 +311,7 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 
 联邦资金作为初始催化剂，NSTC 需在 5–10 年内逐步构筑自我循环的商业造血能力。（pp. 22–25）
 
-> [!pathways]- 财务自给机制与严格绩效评估
+> [!pathways] 财务自给机制与严格绩效评估
 > - **多渠道收入组合** 包括阶梯式会员年费、中试线与设计网关服务费、投资基金退出收益、知识产权许可特许权使用费、州政府配套补贴及慈善捐赠。（pp. 22–23）
 > - **定量与定性多维考核指标** 追踪受训技术人员数量、流片项目交付量、初创企业存活率及行业满意度。（p. 23）
 > - **OMB 标准独立专家定期评估** 每 3–5 年由外部独立第三方专家开展形成性、过程性与结果影响评估，报告向社会全公开。（pp. 23, 27）

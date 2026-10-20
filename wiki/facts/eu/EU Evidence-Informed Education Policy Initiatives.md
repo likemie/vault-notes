@@ -99,7 +99,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > [[EU|欧盟]]证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托欧洲教育信息网（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、转译与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
 
-> [!policy-design]- 政策设计与核心三维框架
+> [!policy-design] 政策设计与核心三维框架
 > - **证据术语的范式定位（Evidence-Informed vs Evidence-Based）** 欧洲官方[[Discourse|话语]]严谨区分“证据知情教育”（Evidence-Informed Education）与英美盛行的“[[Evidence-Based Education\|证据本位教育]]”（Evidence-Based Education）；在研究层面，包容[[Qualitative Research\|定性研究]]（Qualitative Research）与[[Mixed Methods Research\|混合方法]]（Mixed Methods Research），拒绝单一 [[Randomised Controlled Trials\|RCT]] 垄断；在政策层面，强调研究证据是复杂决策的参考资源之一，而非机械处方([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 26]])。
 > - **2007 委员会核心三维模型** 欧洲委员会将知识知情政策生态拆解为三大支柱：
 >   1. **知识创造（Knowledge Creation）** 高质量实证因果与质性解释研究的规范化生产；
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- [[EU|欧盟]]证据知情政策演化历程
+> [!dev-timeline] [[EU|欧盟]]证据知情政策演化历程
 > - **2006 — 评价文化与效率公平倡议** 欧洲理事会春季结论强调建立系统评价文化；发布《欧洲教育与培训体系的效率与公平》，强调提炼与传播最佳实证实践的重要性([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
 > - **2007 — 确立[[Knowledge Mediation\|知识中介]]三维框架** 欧洲委员会发布标志性工作文件《迈向教育与培训中更多基于知识的政策与实践》，正式确立知识创造、知识应用与知识中介的三维分析[[Paradigm\|范式]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 29]])。
 > - **2009–2015 — “教育与培训 2020”（ET 2020）框架** 将周期性指标监测与证据分析确立为实现欧盟教育战略目标的核心支撑机制。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 > - **国家级官方与学术中介** 包括英国 [[Education Endowment Foundation\|EEF]]、[[EPPI-Centre]]、丹麦 [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]、瑞典 [[Swedish Institute for Educational Research]]、荷兰 TIER 及约克大学 [[Institute for Effective Education\|IEE]] 等，承担具体领域的因果评估与本土转译。
 > - **一线实践与教师组织** 包括英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]]、[[Evidence-Based Teachers Network\|EBTN]] 等，深耕基层教师[[Scientific Literacy\|证据素养]]与实践落地。
 
-> [!pathways]- 实施路径与 EIPPEE 三大实证发现
+> [!pathways] 实施路径与 EIPPEE 三大实证发现
 > EIPPEE 跨国协作项目实施揭示了欧洲教育中介生态的三大根本制度障碍（Gough et al., 2011; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]]）：
 > 1. **有效干预实证供给严重匮乏** 尽管各国机构参与热情极高，但在欧洲本土极少能找到经过高严谨性检验、阐明“何种干预在何种情境下切实有效”的扎实经验研究；
 > 2. **重供给推送而轻全系统采纳** 绝大多数中介活动局限于研究报告的撰写与被动线性分发，极少关注决策者与教师的真实吸收过程，缺乏对[[Evidence Ecosystem\|证据生态系统]]的全链条观照；
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 影响力评价维度
+> [!indicators] 影响力评价维度
 > - **制度共识形成** 成功在欧洲全境普及了“证据知情”（Evidence-Informed）的理念，将其确立为现代教育系统现代化的基础标尺。
 > - **跨国元中介网络沉淀** 奠定了欧洲首个横跨 23 国的[[Knowledge Mediation\|知识中介]]专业共同体，为[[OECD\|经合组织]]倡导的“中介的中介”提供了组织雏形。
 > - **实证监测机制常态化** Eurydice 网络实现了对欧洲数十个教育系统结构与政策趋势的跨国持续追踪。

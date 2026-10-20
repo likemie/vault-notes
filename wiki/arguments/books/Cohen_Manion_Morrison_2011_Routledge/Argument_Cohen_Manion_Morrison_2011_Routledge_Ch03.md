@@ -95,7 +95,7 @@ updated: 2026-10-20
 >   M --> N
 > ```
 
-> [!knowledge-map]- 第3章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第3章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_3_Concept_Map.jpg)
 
 ---
@@ -250,7 +250,7 @@ Smith and Glass（1987）将研究（以及与之共享方法的评估）的操�
 Morrison（1993, p. 2）由此给出评估的简洁定义：
 > 评估是就特定议题提供信息，在此基础上做出判断，并据此采取行动决策。
 
-> [!citation-card]- MacDonald 论评估者的政治处境
+> [!citation-card] MacDonald 论评估者的政治处境
 > 评估者面对相互竞争的利益群体、分歧的情境界定和冲突的信息需求……他必须决定服务于哪些决策者、哪些信息最有价值、何时需要以及如何获取……这些议题的解决使评估者承诺于一种政治立场，一种对教育治理的态度。研究者则无需做出此类承诺。他站在政治过程之外，珍视其超脱。对他而言，新知识的生产与其社会使用是分离的。评估者则卷入行动之中，嵌入一个关乎权力分配的政治过程——即资源的配置与目标、角色和任务的确定……当评估数据影响权力关系时，评估者被迫仔细权衡其任务说明的后果……研究者可以自由选择问题和寻求答案。评估者则绝不可犯这样的错误：回答没有人——除了他自己——在问的问题。（MacDonald, 1987, p. 42）
 >
 > *The evaluator is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. ... He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. ... The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. ... When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. ... The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking.*
@@ -263,12 +263,12 @@ Morrison（1993, p. 2）由此给出评估的简洁定义：
 
 MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 
-> [!citation-card]- MacDonald 论"倒转"研究-评估关系
+> [!citation-card] MacDonald 论"倒转"研究-评估关系
 > 将评估概念化为研究的分支是危险的——评估者会陷入研究体面的束缚性触角中。纯粹可能替代效用，琐碎证明可能替代对复杂意义的笨拙把握。将研究定义为评估的一个分支——其任务是解决评估者遇到的技术问题——将会多么更有成效。（MacDonald, 1987, p. 43）
 >
 > *The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.*
 
-> [!exegesis] 为什么 MacDonald（1987）主张"倒转"研究-评估关系
+> [!exegesis]- 为什么 MacDonald（1987）主张"倒转"研究-评估关系
 > MacDonald的逻辑是：如果评估被视为研究的分支，评估者就会以研究的标准（方法论纯粹性、理论贡献、内部效度）来评判自己的工作，而这些标准恰恰不是评估的委托人（决策者、公众、利益相关者）所关心的。评估者需要的是**效用（utility）** 而非**纯粹（purity）**。倒转关系之后，研究只是评估工具包中的一个技术分支——这一定位使研究的方法论工具仍然可用，但不再让方法论标准绑架评估的政治和实用功能。然而正如后续讨论所示，现实中的[[Categorical Funding\|分类资助]]正在从反方向——将研究拉向评估——模糊这一关系。
 
 ---
@@ -287,12 +287,12 @@ Norris（1990, p. 99）指出，将研究视为不受日常政治污染的纯净
 > - **结果** 研究议程从"研究者指定[[Research Topic\|研究主题]]"转向"赞助方指定研究焦点"（Burgess, 1993）（pp.36–37）。
 
 Burgess（1993, p. 1）概括了这一趋势的极端表达：
-> [!citation-card]- Burgess 论研究者的合同工化
+> [!citation-card] Burgess 论研究者的合同工化
 > 研究者不过是合同工……教育研究必须与政策相关……研究必须更加贴近实践者的需求。（Burgess, 1993, p. 1）
 >
 > *Researchers are little more than contract workers ... research in education must become policy relevant ... research must come closer to the requirement of practitioners.*
 
-> [!warrant] 分类资助为何模糊了研究-评估边界
+> [!warrant]- 分类资助为何模糊了研究-评估边界
 > 分类资助使研究在多个维度上变得更像评估：
 > - **意图** 从"推进知识"转向"回答政策问题"
 > - **议程** 从"研究者自定"转向"赞助方给定"
@@ -305,7 +305,7 @@ Burgess（1993, p. 1）概括了这一趋势的极端表达：
 Anderson and Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
 
 James（1993, p. 135）对评估证据政治命运的冷峻判断：
-> [!citation-card]- James 论评估证据的政治命运
+> [!citation-card] James 论评估证据的政治命运
 > 基于研究的评估为理性决策提供证据的力量是相当有限的。如果信息不支持当时主导的政治议程，决策者总能找到理由忽视或高度选择性地使用评估结果。（James, 1993, p. 135）
 >
 > *The power of research-based evaluation to provide evidence on which rational decisions can be expected to be made is quite limited. Policy-makers will always find reasons to ignore, or be highly selective of, evaluation findings if the information does not support the particular political agenda operating at the time when decisions have to be made.*
@@ -326,7 +326,7 @@ James（1993, p. 135）对评估证据政治命运的冷峻判断：
 > | 7 | **隐性的项目辩护（implicit advocacy）** | 在报告风格中以各种形式为项目进行隐性倡导，包括语言选择、框架设定、强调或淡化特定发现的模式 |
 > | 8 | **职业精神分裂（professional schizophrenia）** | 研究者和评估者形成分裂的公开与私下意见，在合同评估活动中顺应项目叙事，在学术写作或私下交流中进行批判，个体在批判自我和顺应自我之间交替 |
 
-> [!implication] 顺应性评估是结构性产物，不能归因为个体职业操守
+> [!implication]- 顺应性评估是结构性产物，不能归因为个体职业操守
 > Stronach and Morris 的分析指向一个系统性问题：当评估者的**未来资助**取决于当前评估报告的**政治可接受性**时，评估者面临结构性利益冲突，这个冲突被是否应该保持独立的个人道德框架所遮蔽。第6条（合同关系）是其他7条的制度根源：只要合同赋予赞助方对发表和数据所有权的控制，评估者在报告中的每一步都承受着顺应性压力。这一现象根植于高度政治化的委托评估生态系统，不能归因为个别评估者的职业操守问题。
 
 ##### 学校微观政治与行动研究的困境
@@ -347,7 +347,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 > 4. [[Evaluation Research\|评估研究]]的增长是对分类资助的直接回应。
 > 5. 评估的**受关注度和被利用程度**取决于其结果与决策者政治吸引力的契合度——与技术质量无关。
 
-> [!tip]- Burgess 的务实策略
+> [!tip] Burgess 的务实策略
 > 面对分类资助和政治化的双重压力，Burgess（1993）提出了一种务实策略：研究者需要**在满足赞助方评估要求的同时，也产生研究数据**——这就涉及在合同谈判阶段就明确**数据所有权（ownership of the data）** 和**知识产权（intellectual property rights）** 的归属。这是在政治现实中为学术自主争取空间的策略性行动（p.41）。
 
 
@@ -411,7 +411,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > | **战术模型（Tactical Model）** | 武器 | 研究被策略性地引用，充当**支持既定立场的修辞资源**或**拖延决策的工具**（"还需要更多研究"），而非决策的信息基础。 | 政府部门引用选择性研究为已做出的政策决定提供"科学背书" |
 
 
-> [!exegesis] 四模型共存于同一政策过程中
+> [!exegesis]- 四模型共存于同一政策过程中
 > 同一项研究可以在不同阶段以不同模型被使用：在研究进行时可能是"互动模型"（研究者与决策者对话）；在研究报告发布时可能变为"战术模型"（决策者选择性引用支持性证据）；长期来看可能产生"研发模型"式的积累效应。研究者需要判断其研究的最适当利用形式（Alkin et al., 1991），并根据利用模型匹配传播策略——在互动模型中建立与决策者的持续关系、在战术模型中警惕研究被选择性使用。
 
 ---
@@ -423,12 +423,12 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > [!claim] 研究利用的政治性是一个共识（truism）
 > Selleck（1991）、Kamin（1991）、Horowitz and Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
 
-> [!citation-card]- Wineburg（1991）论研究如何沦为"确认性文本"
+> [!citation-card] Wineburg（1991）论研究如何沦为"确认性文本"
 > 研究太容易成为仅仅一种"确认性文本"（affirmatory text）——一种"为体制开脱"（exonerates the system）的文本——被那些在其中只寻求自己声音和愿望的回声的人所使用。（Wineburg, 1991; Kogan & Atkin, 1991）
 >
 > *Research too easily becomes simply an "affirmatory text" which "exonerates the system" and is used by those who seek to hear in it only echoes of their own voices and wishes.*
 
-> [!implication] 为什么政治可接受性是影响力的门槛而非质量的门槛
+> [!implication]- 为什么政治可接受性是影响力的门槛而非质量的门槛
 > 政策制定者的核心关切是**政治生存（Cook, 1991）** 和**社会项目的推进（Thomas, 1991）**。研究对他们而言是众多工具中的一种：
 > - 当研究支持其议程时，研究被用作"科学背书"——赋予政策以认识论合法性。
 > - 当研究不支持其议程时，研究被视作"学术脱离现实"——其方法论被质疑、其复杂性被指责为"不确定"。
@@ -456,7 +456,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 > [!tension] 研究者的回应：简单化是对复杂现实的歪曲
 > 研究者一方则反驳说：决策者对快速解决的偏好**误读了研究的本质（Shavelson & Berliner, 1991）**，掩盖了研究者试图调查的**复杂社会现实（Blalock, 1991）**。捕捉社会复杂性与服务于政治效用，这两种价值可能根本性地相互冲突。
 
-> [!citation-card]- Radford（2008, p. 506）的终极概括
+> [!citation-card] Radford（2008, p. 506）的终极概括
 > 研究者的工作由客观性（objectivity）和对意识形态的独立性或不关心（disinterestedness）驱动，而决策者由利益、意识形态和价值（interests, ideologies and values）驱动。（Radford, 2008, p. 506）
 >
 > *The work of researchers is driven by objectivity, and independence from, or disinterestedness in, ideology, whereas policy makers are driven by interests, ideologies and values.*
@@ -479,7 +479,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 >
 > 知识的社会建构必须考虑不同群体定义何为有价值研究知识的**不平等权力**。这本身就是研究活动的构成性条件，而非外部附加的政治议题。
 
-> [!note]- 本章边界与全书衔接
+> [!note] 本章边界与全书衔接
 > 本章为导论性概述，将评估和研究之间的操作细节（如具体的方法论选择、抽样设计、信效度程序、数据分析技术）留给了后续章节。本章的核心贡献在于：**在进入操作细节之前，先让读者理解这些操作发生的政治和制度条件**——谁付钱、谁设题、谁控制结果、谁使用、为谁的利益。没有这一视角，方法论教科书上的技术程序就可能被误读为中立和去政治化的——而这恰恰是本章试图解构的幻觉。
 
 
@@ -488,7 +488,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 
 ## 关键引用
 
-> [!citation-card]- Morrison 的评估定义
+> [!citation-card] Morrison 的评估定义
 > 评估是就特定议题提供信息，在此基础上做出判断，并据此采取行动决策。
 >
 > *Evaluation is the provision of information about specified issues upon which judgements are based and from which decisions for action are taken.*

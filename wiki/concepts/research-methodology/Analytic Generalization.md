@@ -44,7 +44,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者理解其他类似案例、现象或情境——存在逻辑而非统计的连接。类似单次实验或准实验中通过复制来检验理论。
 > - **边界** 不能替代统计推广进行总体参数估计；不适用于需要从样本频率推断总体比例的研究情境。
 
-> [!citation-card]- Yin的关键论断
+> [!citation-card] Yin的关键论断
 > 推定推广只能是从样本到总体/全域的观点，在个案研究这一特殊情况下完全是错误的、不相关的、不适当的和不适用。个案研究可帮助推广到更广泛的理论——理论可以在一个或多个经验案例中检验，并可以被证明不支持竞争性（即使是看似合理的）理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 288–289)]]
 >
 > *To assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory, in that the theory can be tested in one or more empirical cases and can be shown not to support rival, even if plausible, theories.* (Yin, 2009, pp. 38–39, 43)

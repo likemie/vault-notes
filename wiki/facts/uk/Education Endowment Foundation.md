@@ -278,7 +278,7 @@ updated: 2026-10-20
 > - **循证实践与基层学校生态** 经过多维[[Research Synthesis|证据综合]]形成的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》和主题指导报告，依托 40 所[[Research Schools Network\|研究学校网络]]（RSN）作为边界跨越枢纽，向覆盖全英 80% 以上的公立中小学进行校际教研推广与常态化能力建设。
 > - **跨国辐射与全球镜像网络** EEF 跨国输出中介模式，出资扶持澳大利亚[[Social Ventures Australia\|SVA]]旗下中介原型[[Evidence for Learning\|E4L]]并促成澳国家级机构[[Australian Education Research Organisation\|AERO]]创设；携手必和必拓基金会共建拉美中介[[SUMMA]]；牵头协调覆盖 20 国的全球[[Evidence for Education Network\|教育证据网络]]（EEN）。
 
-> [!pathways]- 业务运行与生态化转化机制
+> [!pathways] 业务运行与生态化转化机制
 > - **因果证据生成机制** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test\|前测]]-后测大规模 [[Randomised Controlled Trials\|RCT]] $\to$ 在国际标准随机对照试验编码（[[ISRCTN\|International Standard Randomised Controlled Trial Number]]，ISRCTN）[[Preregistration\|预注册]]方案与[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP） $\to$ 统一归档至[[National Pupil Database\|国家学生数据库]]（NPD）并发布完全公开的独立评估报告。
 > - **多维证据合成** 组织顶尖学者对全球数千项[[Meta-analysis\|元分析]]与本土试验进行二次综合，定期迭代《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并推进编码上万项研究的教育数据库（Education Database）。
 > - **校本落地渗透** 通过研究学校网络开展系统培训，指导校领导根据[[Pupil Premium\|学生津贴]]账目开展[[Evidence-Based Policy-Making|循证决策]]。
@@ -302,7 +302,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **学校覆盖率与动员广度** 截至官方最新发布的评估报告（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)），全英格兰已有超过五分之四（80%）的公立中小学实际参与过 EEF 资助的项目；累计资助超过 400 项教育干预试验与先导试点，构建起全球覆盖密度最高的单体教育实证试验网络。
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 111]]）。
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
@@ -311,7 +311,7 @@ updated: 2026-10-20
 > - **美国联邦审计的国际权威认可** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse\|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 165–166, 170]]）。
 
 
-> [!critique-data]- 最终受益人评估与[[Research Schools Network\|研究学校网络]]（RSN）3年实证结果
+> [!critique-data] 最终受益人评估与[[Research Schools Network\|研究学校网络]]（RSN）3年实证结果
 > - **全球有效机构中的评估例外** 跨国实证综述显示，除英国教育捐赠基金会（EEF）之外，绝大多数有效机构（[[What Works Network\|What Works Centres]]）极少对其推动的证据利用在最终受益人（即学生学业与身心发展）上的长远效益进行独立因果评估。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]; Gough et al. (2018)
 > - **研究学校网络（RSN）三年评估的实证警示** 由第三方独立团队对全英由 EEF 资助的研究学校网络（Research Schools Network，RSN）前三年实施效果开展的大规模评估（Gu et al., 2021）证实：项目虽然在教师与校长的研究意识、循证教学信念与校本教研文化上取得了显著的制度性改变，但在学生客观标准化统考成绩（普通中等教育证书（General Certificate of Secondary Education，GCSE）成绩）上尚未呈现出任何统计学显著改善的证据。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 118)]]
 > - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考[[Academic Achievement\|学业成绩]]显著提升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–118)]]
@@ -373,22 +373,22 @@ updated: 2026-10-20
 >
 > *In providing a 125 million pound founding grant for EEF, the UK Department for Education wrote that the foundation 'is being established from the money that was set aside when the Government took the decision not to increase the number of free school meals initiative'... The EEF is committed to 'improving equity' for young people (even whilst it takes money for free school meals); and is funded by The Sutton Trust and the private equity firm Impetus: nodes that are funded by an assortment of multinational corporations—the 'corporate and financial elite'.*
 
-> [!critique-data]- 案例一：新起点拼读 [[Randomised Controlled Trials\|RCT]] 的数据包装与[[Random Assignment\|随机分配]]失败
+> [!critique-data] 案例一：新起点拼读 [[Randomised Controlled Trials\|RCT]] 的数据包装与[[Random Assignment\|随机分配]]失败
 > EEF 官方摘要高调宣称，针对初中一年级阅读落后学生的“新起点”（Fresh Start）合成拼读干预产生了 $+0.24$ 标准差（Standard Deviation，SD）的显著[[Effect Size\|效应量]]（等同于 3 个月额外学业增益）。
 > 
 > 然而[[Critical Realism\|批判实在论]]学者深度核查底层数据发现，由于试验初期随机分配严重失衡，干预组[[Pre-test and Post-test\|前测]]基线成绩系统性低于对照组。当研究者剔除偏差、筛选出前测完全相同的低分学生配对子集时，干预组与对照组后测进步**完全一致（效应量净值为 $+0.00$ SD）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 5]])**。所谓的 3 个月学业增益纯属随机分配缺陷导致的虚假统计幻象。
 
-> [!critique-method]- 案例二：助教（[[Teaching Assistant]]，TA）类目的去情境化抹杀
+> [!critique-method] 案例二：助教（[[Teaching Assistant]]，TA）类目的去情境化抹杀
 > 工具包长期将助教（TA）归入低影响、高成本（效应量仅 $+0.08$ SD）的排行榜垫底位置，险些导致财政紧缩背景下英格兰中小学对助教岗位的大规模裁撤。
 > 
 > 深度质性实证表明，助教显效不彰的根源在于学校未能为其预留与任课教师沟通备课的时间，且制度性将后进生直接甩给助教照看，剥夺了弱势学生接受合格专业教师教学的机会。工具包脱离微观组织情境的单纯数值排序，极易给政策制定者提供危险的裁减误导([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]])。
 
-> [!critique-logic]- 案例三：实验控制设计与教育能动性（Agency）的[[Ontology\|本体论]]冲突
+> [!critique-logic] 案例三：实验控制设计与教育能动性（Agency）的[[Ontology\|本体论]]冲突
 > EEF 主导的 RCT [[Paradigm\|范式]]倾向于将教师的主观教学热情、[[Reflexivity\|反思性]]调整以及学生的能动性推理视为需要被严加控制的干扰噪声或混淆[[Variable\|变量]]，盲目追求干预方案的标准化（Teacher-Proof）。
 > 
 > 批判实在论与[[Realist Evaluation\|实在论评估]]（Realist Evaluation）表明，教育干预是否产生积极效果，在本体论上恰恰取决于教师在具体微观情境中的[[Professional Judgment\|专业判断]]（Professional Judgment）以及学生的能动性反应。将能动性视为实验污染物的[[Positivism\|实证主义]]进路，在根本上背离了教育实践的开放系统属性([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 6–7]])。
 
-> [!critique-logic]- 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
+> [!critique-logic] 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
 > EEF 资深评估团队自述揭示：Lortie-Forgues and Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual\|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial\|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity\|实施保真度]]，催生了向现实主义试验与适应性设计演进的迫切诉求。
 
 ---

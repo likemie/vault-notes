@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 [[Victor Cousin|库森]]在主笔起草过程中，系统吸纳普鲁士[[Prussian Draft Education Law of 1819|聚芬法案]]条文，确立了支撑法兰西教育机器运转的四大制度支柱：
 
-> [!policy-design]- 政策设计：吸纳普鲁士经验的四大法定建制
+> [!policy-design] 政策设计：吸纳普鲁士经验的四大法定建制
 > - **市镇办学法定义务与贫困儿童全免就读（Communal Obligation and Free Access）**
 >   强制全法逾三万个市镇必须独立开设或联合设立初级初等小学（école primaire élémentaire），由市镇财政税收常态维持；对赤贫家庭适龄学童实行强制全免学费保障，打破天主教慈善救济与宗派势力对初等教育的垄断。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 29; Halls, 1965, p. 20)]]
 > - **省立初等师范学校强制设立与国家最低年薪保障（Compulsory Normal Schools and State Salaries）**
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 比较教育史家对该法案核心技术条款的跨国转置特征给出了精确的文献提炼：
 
-> [!citation-card]- 关键条文：基佐法案核心条款概括
+> [!citation-card] 关键条文：基佐法案核心条款概括
 > 基佐法案的主要条款如下：每一个市镇（当时全法超过三万个）都有义务开设一所初级小学，贫困家庭儿童免费就读；每一个省都必须设立一所师范学校以培训小学教师；初等教育按层级组织为两级……初级初等学校教授读写算、法语和宗教，高级初等学校面向中产阶级培养工商技能；各级学校均须包含宗教与道德教学；参照普鲁士模式实行分权化行政架构；通过承认开办非公立学校认可教学自由原则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 29)]]
 >
 > *The main provisions of the Guizot Law ... were the following: (a) every commune (and there were more than 30,000) was obliged to open an elementary school to which children from poor indigent families would be admitted free; (b) every department was required to establish a normal school to train primary school teachers; (c) elementary education was to be organised hierarchically into two levels ... (d) religious and moral instruction was to be included in both levels of schools; (e) the administrative structure of the system was to be decentralised after the Prussian pattern; and (f) the (liberal) principle of la liberté d’enseignement was to be recognised by sanctioning the opening of non-state, i.e. private, institutions.*
@@ -116,7 +116,7 @@ updated: 2026-10-16
 
 法案的落地采取了自上而下行政推进与地方财政结合的清晰实施路径：
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央立法与分权化地方监察治理** 借鉴普鲁士行政分权经验，在统一国家法令下打破单一官僚包揽，设立由市长、教士和地方显贵组成的市镇与区级委员会，负责学校日常运转监督。（Brewer, 1971:89; p. 29）
 > - **专业师范先行与中央财政兜底保障** 各省迅速创办师范学校统一专业培育，终结兼职教工陋习；国家确立最低 200 法郎年薪加免费住房，当市镇财力不足时由中央财政全额贴补，稳定教师队伍。（Bowen, 1981:315; p. 29）
 > - **双轨分流与工商业技术对流** 在超 6,000 人的城镇强制设立高级初等小学，传授应用几何、商业簿记与物理自然史，直接面向工商业中产阶层培育技术管理人才。（pp. 28–29）
@@ -162,7 +162,7 @@ updated: 2026-10-16
 
 [[François Guizot|基佐]]法案在短时间内从根本上改写了法国教育的制度地貌，成为欧洲初等公学普及的标杆性实践：
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 市镇法定初等公立学校创设数量、各省公立[[Normal School\|师范学校]]创设数量、国家与地方财政教育预算总额。
 > - **过程指标** 皇家督学全法行政巡视合规率、初等教师能力证书（*brevet de capacité*）持有率、教学自由私立学校审批合规度。
 > - **结果指标** 平民与贫困适龄学童入学人数激增、全国初等文盲率下降速度、工商业技术人才供给规模。
@@ -203,7 +203,7 @@ updated: 2026-10-16
 
 立法领袖在推介法案时，深刻阐述了大众初等教育的国民福祉宗旨：
 
-> [!citation-card]- 代表性评论：基佐论大众教育的国民福祉
+> [!citation-card] 代表性评论：基佐论大众教育的国民福祉
 > 弗朗索瓦·基佐明确宣示，1833 年初等教育法案的终极目标，在于“使全社会从人民教育中汲取最大的善”，通过在每一个市镇播撒知识与道德的火种，构筑法兰西立宪秩序不可动摇的公民基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 29; Brewer, 1971, p. 17)]]
 >
 > *The objective of the Guizot Law, as stated by Guizot himself, was 'the greatest good to be derived from educating the people'.*

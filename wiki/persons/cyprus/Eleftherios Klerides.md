@@ -76,10 +76,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育的[[Knowledge Production\|知识生产]]与议程设置在本质上是国际关系（International Relations，IR）变迁的函数。通过马丁·怀特（Martin Wight）的国际理论三大传统，可以清晰解构比较教育的三种历史形态：现实主义（教育作为国家生存与竞争的工具，驱动政策掠夺与评测竞争）、理性主义（教育作为促进国际规则、相互理解与治理合作的工具）和[[Revolutionism\|革命主义]]（教育作为挑战国家权力、追求人类全球正义与知识去殖民化的工具）。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 419–422)]]
 
-> [!citation-card]- 经典表述：三大传统与学科重组
+> [!citation-card] 经典表述：三大传统与学科重组
 > 译文：对国际社会性质的不同理解使得不同的比较教育研究成为可能；比较教育的[[Agendas of Attention\|注意力议程]]总是随着[[Geopolitics|地缘政治]]与国际关系格局的变迁而转换。
 > 
 > 原文：*Different understandings of the nature of international society make different [[Comparative Educations]] possible... the agendas of attention in comparative education shift in response to the changing landscape of international relations.* ([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 416]])

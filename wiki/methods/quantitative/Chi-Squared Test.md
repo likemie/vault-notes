@@ -215,7 +215,7 @@ updated: 2026-10-20
 >   - **学生后续行动** 学生仅在课程讲义（Lecture slides）中简单搜索并确认提到了卡方拟合优度检验后，未作任何进一步公式理解或参数推演，立即结束对话并将 R 代码与输出结果直接粘贴至作业中。
 > - **[[Epistemology\|认识论]]机制诊断** 表现出典型的一阶绝对论（[[Absolutist]]）特征。将统计知识视为非黑即白的固定操作，过度依赖外部权威（大模型与讲义），缺乏对期望频数计算逻辑或自由度设定的深层理解，认知加工停留在代码复制与程序执行层面。
 
-> [!figure]- 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）
+> [!figure] 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig1_Student_A_Interaction_Dialog.jpg)
 
 > [!case] Case 3: Student C —— [[Likert Scale\|李克特量表]]极小样本一致性检验与评价论7轮多源核验（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）
@@ -230,7 +230,7 @@ updated: 2026-10-20
 >   - **Round 7（最终决策收束）** 综合极小样本（$N=8$）、4 点顺序量表与数据非正态分布特征，全面排除所有卡方检验变体，最终独立决策采用非参数的斯皮尔曼等级相关（Spearman Rank Correlation）。
 > - **认识论机制诊断** 充分展现了高阶评价论（[[Evaluativist]]）风范。以方法学假设前提为准绳，实施对抗性提示与多源[[Triangulation\|三角互证]]，将大语言模型从“解答生成器”降级为“论辩压力测试靶标”，牢固坚守了人类研究者的[[Epistemic Agency\|认识能动性]]与最终裁决权。
 
-> [!figure]- 图3：Student C 与 ChatGPT 的交互对话记录（评价论立场）
+> [!figure] 图3：Student C 与 ChatGPT 的交互对话记录（评价论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig3_Student_C_Interaction_Dialog.jpg)
 
 ---

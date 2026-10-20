@@ -85,7 +85,7 @@ updated: 2026-10-08
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 高尔顿在晚年通过家畜集市实验指出，当大量互不串通的独立个体对某一客观未知量进行分散估算时，个体的极端偏差与随机噪声会在群体汇聚过程中相互抵消，使得所有估计值的中位数或平均值表现出超越绝大多数个别专家的惊人精确度。高尔顿将这一现象视为民主判断可[[Reliability|信度]]（the [[Trustworthiness]] of a democratic judgment）的实证基石，并由此引发了关于集体智慧与群体预测能力的百年学术探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 
 > [!citation-card] 高尔顿论普利茅斯公牛估重实验与民主判断的可信度

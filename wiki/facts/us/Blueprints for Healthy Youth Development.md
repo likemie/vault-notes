@@ -78,7 +78,7 @@ updated: 2026-10-16
 
 ## 机构背景与资助体系
 
-> [!note]- 发展背景与资助演进
+> [!note] 发展背景与资助演进
 > Blueprints 起源于 1990 年代美国针对青少年暴力与越轨行为的预防性[[Intervention Research\|干预研究]]，旨在为政策制定者筛选真正具备因果实证的“示范项目（Model Programs）”。
 >
 > - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了[[Clinical Trial\|临床试验]]对安慰剂对照、[[Iatrogenic Effects in Education\|医源性伤害]]排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。

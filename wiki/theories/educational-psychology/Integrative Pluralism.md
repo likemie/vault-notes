@@ -64,7 +64,7 @@ updated: 2026-10-20
 > [!def] 核心定义
 > 整合的[[Pluralism|多元主义]]（Integrative Pluralism）是一种旨在化解学科[[Paradigm Wars\|范式战争]]的元[[Theoretical Perspective\|理论视角]]。它承认复杂的现象（如认知）可以在多个聚合层级（levels of aggregation）上同时存在并被独立建模。它主张彻底放弃寻找单一的“大一统理论（grand unifying theory）”，转而承认各理论[[Paradigm\|范式]]在其特定层级上的合法性，并通过在不同层级模型之间建立“因果解释链条”来推进科学理解。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 鉴于[[Epistemic Cognition\|认识论认知]]现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
 >
 > *Given the scope of contexts where Epistemic Cognition is now seen to occur and the various perspectives on how it happens, integration of findings from these myriad contexts should be a major focus of research in the coming century. Progress toward an Integrative Pluralism of [[Accounts]] of epistemic cognition can occur through an expansion of current trends in epistemic cognition research. Obviously, to integrate theoretical accounts across multiple levels of analysis requires an articulation of the levels.*

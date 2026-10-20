@@ -101,7 +101,7 @@ updated: 2026-10-20
 > - **用途** 确立学校教育与组织培训提升创造力的实证依据，指导课程设计、教学改革与思维训练。
 > - **边界** 创造力训练不能替代特定学科领域的专业基础知识积累，亦非单一测验分数的机械操练。
 
-> [!citation-card]- 关键表述：创造力训练的基准效能与时间窗口（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）
+> [!citation-card] 关键表述：创造力训练的基准效能与时间窗口（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）
 > 创造力干预与教育项目在各类相关因素中展现出最高的[[Effect Size\|效应量]]（$r = 0.20$，95% [[Confidence Interval\|置信区间]] $[0.10, 0.29]$），表明人类创造潜能具有高度的教育可塑性与环境响应度。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
 >
 > *Interventions and educational programs yielded the largest effect size (r = .20)... supporting the idea that humans have creative potentials which may be fulfilled through educational efforts.*
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ### 范式一　结构化认知训练课程与思维模型
 
-> [!exegesis] 结构化认知启发式与系统思维模型
+> [!exegesis]- 结构化认知启发式与系统思维模型
 > 此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）。
 >
 > 1. **创造性[[Problem Solving\|问题解决]]模型（Creative Problem Solving, CPS）**
@@ -170,7 +170,7 @@ updated: 2026-10-20
 
 ### 范式二　以学习者为中心的建构主义学科探究教学
 
-> [!exegesis] 学科深度嵌入式与劣构问题探究教学
+> [!exegesis]- 学科深度嵌入式与劣构问题探究教学
 > 此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶[[Knowledge Building Theory|知识建构]]与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021; Vally et al., 2019）。
 >
 > 1. **问题驱动教学法（Problem-Based Learning, PBL）**
@@ -187,7 +187,7 @@ updated: 2026-10-20
 
 ### 范式三　任务框架与即时认知指导语操纵
 
-> [!exegesis] 任务情境定向与即时认知指导语微调
+> [!exegesis]- 任务情境定向与即时认知指导语微调
 > 此类干预无需长期课程投入，而是通过在任务呈现与施测阶段调整外部指导语与评价框架，直接重构学习者的任务目标表征与注意资源分配（Acar, Runco & Park, 2020）。
 >
 > 1. **显性独创性指导语（Explicit Instructions for Originality）**
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ### 范式四　言语符号外化、技术中介与思维可视化
 
-> [!exegesis] 言语符号外化、协作平台与认知可视化
+> [!exegesis]- 言语符号外化、协作平台与认知可视化
 > 此类干预聚焦语言符号表征的灵活性与数字化平台优势，加速远距离概念检索并消除群体互动中的生产力阻滞（Fink et al., 2015; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]; DeRosa et al., 2007）。
 >
 > 1. **言语训练与即时口头外化（Verbal Training & Oral Ideation）**
@@ -220,7 +220,7 @@ updated: 2026-10-20
 
 ### 范式五　外认知、情绪与身心调节干预
 
-> [!exegesis] 外认知调节、情绪调适与潜意识酝酿
+> [!exegesis]- 外认知调节、情绪调适与潜意识酝酿
 > 此类干预关注非认知心理状态对创造性加工的深层调制，通过拓展注意广度、降低情绪焦虑与安排潜意识酝酿，为顿悟创造提供生理与心理温床（Lebuda, Zabelina & Karwowski, 2016; Sio & Ormerod, 2009; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）。
 >
 > 1. **正念冥想与开放监控训练（Mindfulness & Open Monitoring Meditation）**
@@ -364,7 +364,7 @@ updated: 2026-10-20
 > - **独立专门课程学派（蓝方）** 主张将 [[Creative Problem Solving\|CPS]]、[[SCAMPER]] 等启发式工具作为独立思维课程讲授，确保学生系统掌握[[Metacognition\|元认知]]算子与抽象思维模型（Scott et al., 2004）。
 > - **学科深度嵌入式学派（红方）** 认为脱离具体学科知识脉络的抽象技巧易沦为口头游戏，唯有将创造力嵌入数学、物理、艺术等学科的真实[[Problem Solving\|问题解决]]中才能生根发芽（Baer, 2012; Yunita et al., 2020）。
 
-> [!critique]- 外部批评
+> [!critique] 外部批评
 > - **表层技巧操练批评** 批评部分短训班将创造力简化为机械的联想套路，忽视了真实领域高阶创新所需的长期专业知识积累与严苛构想评估（Baer, 2012）。
 > - **效标局限批评** 多数[[Intervention Research\|干预研究]]仅以纸笔发散思维测验得分作为效果指标，未能提供个体在真实世界获得发明专利或卓越专业产出的长期追踪证据（[[Criterion Problem\|效标问题]]，Runco et al., 2026）。
 

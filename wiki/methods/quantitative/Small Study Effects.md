@@ -70,7 +70,7 @@ updated: 2026-10-16
 > - **用途** 帮助研究者警惕元分析未校正前合并值的夸大风险，通过统计建模（如[[Multilevel Egger's Test\|多水平艾格回归]]）分离出无偏的大样本真实效应基准。
 > - **边界** 小研究效应是一种**经验现象（Phenomenon）** 而非单一特定原因；漏斗图不对称不等于必定存在学术不端或有意隐瞒阴性结果。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 采用基于 [[Robust Variance Estimation\|RVE]] 的改进多水平[[Egger Regression Test\|艾格回归检验]]潜在发表偏倚并检验小研究效应……截距项统计显著（p = .002），表明存在小研究效应；经偏倚校正后的二阶效应量为 0.17。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
 >
 > *We adopted a modified multilevel Egger's regression with RVE to examine potential publication bias... The intercept, representing the bias-corrected second-order effect size, was statistically significant (r = .17, 95% CI [.11, .22]). The slope was also significant, F(1, 10.9) = 15.7, p = .002, indicating the [[Presence]] of small-study effects.*

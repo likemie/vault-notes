@@ -102,7 +102,7 @@ updated: 2026-10-20
 >
 > *Thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice... supported by trust-based collegial relationships and collaborative teams.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 全校教职工行政例会（Staff Meeting）** 行政会议以科层信息通报、规章制度宣讲与事务性布置为核心，缺乏平等的专业反思与证据研判空间；PLC 则是以学生学习证据与教学调适为中心的专业审议。
 > - **不等于 传统的年级组/单科行政教研组** 传统教研组往往侧重统一备课进度与应试练习卷编制；PLC 聚焦于围绕学生真实认知难点开展循证探究、互评课堂教学并追踪持续改善。
 > - **不等于 伪合作或表面合群（Contrived Collegiality）** 安迪·哈格里夫斯（Andy Hargreaves）指出，若 PLC 沦为管理层自上而下强制规训的流水线工具，剥夺[[Teacher Professional Agency\|教师专业能动性]]，便异化为行政问责的监控外衣。

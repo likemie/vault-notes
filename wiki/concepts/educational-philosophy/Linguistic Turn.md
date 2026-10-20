@@ -42,7 +42,7 @@ updated: 2026-10-20
 > [!def] 核心定义
 > 语言学转向（linguistic turn）在[[Documentary Analysis\|文献分析]]中指对文献的语言和[[Discourse|话语]]进行细致研究，以理解文本如何**建构**其所呈现的事实和论证，而非仅仅从中提取信息。这一取向遵循解释学（hermeneutics）原则，并受到文学批评的影响（Reinfandt, 2009）。一些教育史学者已[[Creativity\|创造性]]地将其运用于文献研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 17–18)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 文献应被理解为与文本生产的符号学相关：意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(Cohen, 1999, p. 81, 转引自 p. 18)]]
 >
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*

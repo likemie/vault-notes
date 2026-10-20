@@ -62,13 +62,13 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 报告提出了著名的“客户-承包商原则”（Customer-Contractor Principle），断言应用型研究与试验发展必须由具备明确实际需求的政府部门（客户）提出委托并出资，由科研机构或大学（承包商）承接执行，促使政府从科研的“自我供给者”全面转型为“智能采购者”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **核心目标** 建立需求导向的政府科研管理机制，确保公共财政资助的应用研究直接服务于国家政策制定与社会公共服务需求。
 > - **资金转移** 强制将原直拨给农业、环境和卫生等研究理事会（Research Councils）约 25% 的应用研究预算划拨至对应政府行政部委，由部委自主向研究市场采购所需科研项目。
 > - **体制重塑** 设立部委首席科学顾问（Chief Scientific Advisers, CSAs）制度，要求部委配备高级科学家担任“智能客户”（Intelligent Customer），负责界定政策[[Research Question\|研究问题]]并评估交付成果。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 80–81)]]
 > - **约束方式** 行政拨款结构重组与法定采购委托审查。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 无论目标多么重大，只要涉及应用研究与试验发展，就必须遵循客户-承包商原则：客户负责说明需要什么；承包商负责开展研究并交付结果；客户为此付费。
 >
 > *However important the objective may be, if applied R&D is involved, it must be done on a customer-contractor basis: the customer says what they want; the contractor does the work (if they can); and the customer pays.*
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > - **研究交付方（承包商）** 大学高等教育机构（HEIs）、独立研究机构（IROs）以及私营科研咨询机构。
 > - **历史转型机构** 原属于政府内部的公共部门科研机构（如英国气象局、英国国家物理实验室等），从全额预算拨款转向参与科研市场竞争交付。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **部门首席科学顾问网络的成型** 历经约半个世纪的发展，政府各部委均已在高级决策层设立 CSAs，不仅负责采购与管理研究项目，更成为常态化向内阁大臣提供独立科学建议的权威通道。
 > - **研究需求清单制度化（[[Areas of Research Interest\|ARIs]]）** 自 2013 年起，各部委在 CSA 监督下常态化公开发布“重点研究领域”（Areas of Research Interest, ARIs），引导学术界与研究市场对齐国家决策需求。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 

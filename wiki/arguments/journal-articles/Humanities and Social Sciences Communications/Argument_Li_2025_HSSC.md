@@ -175,7 +175,7 @@ issuing_organization: ""
 > | **质量评估** | 将纳入文献分为评价效果文献、描述性文献和解释性文献三类，分别采用不同质量标准。描述性文献按信息来源、[[Purpose Statement\|研究目的]]与方法相关性、专业权威性判断。解释性文献从研究效度（数据收集和分析方法是否清晰说明、数据源和分析过程效度检验、受访者数据效度验证、特殊或矛盾数据是否清晰描述）和研究相关性（是否提出新知识或理论、能否广泛推广）两方面评估。 |
 > | **数据验证** | 独立分析后讨论直至达成一致（mutual agreement）。 |
 
-> [!note]- 图1：[[PRISMA]] 研究筛选流程
+> [!note] 图1：[[PRISMA]] 研究筛选流程
 > 筛选流程：SSCI and Scopus 数据库检索，初始 2,199 篇，去重后 1,754 篇，摘要与结论初步筛选后 625 篇，全文下载并二次筛选，排除不回应研究问题的 18 篇，最终纳入 **85 篇**。二次筛选标准：（1）全文可下载；（2）聚焦 PISA 对教育政策的影响；（3）聚焦基础教育阶段。
 
 ---
@@ -336,7 +336,7 @@ issuing_organization: ""
 > - **美国：分权结构的限制** 美国学校体系高度分权，联邦政府在教育领域影响力有限，阻止了其对 PISA 的即时响应（Engel & Frizzell, 2015）。然而 2009 年上海（中国）的优异表现触发了美国的转变：中国作为全球经济市场最直接的竞争者，其 PISA 成绩在美国引起强烈反应，时任总统奥巴马将其类比为新的 [[Sputnik Shock 1957\|Sputnik]] 冲击，从而启动了新一轮全面教育改革（Martens & Niemann, 2013）。
 > - **澳大利亚与亚洲世纪** Sellar and Lingard（2018）探讨了澳大利亚对上海 2009 年 PISA 表现的态度。亚洲世纪（Asian Century）的崛起是澳大利亚教育政策回应的重要情境因素，即澳大利亚未来经济发展将紧密联系亚洲经济繁荣，尤其是中国。
 
-> [!note]- 图3：政策效果机制模型
+> [!note] 图3：政策效果机制模型
 > 模型展示了 PISA 影响教育政策发展的三层机制架构。最外层为**超国家层级** OECD 通过量化 PISA 分数与国家经济发展的联系进行软治理，设立模范社会（芬兰、上海等）推动政策借用。中间层为**国家层级** 各国在自我认知落差触发下，通过文化传统与政治制度的转译框架选择性借用模范社会的教育政策。最内层为**内部行动者网络** 政策制定者、政党、协会、媒体对 PISA 信息进行转译和传递，形成政策共识或博弈。三层之间为双向互动关系：超国家层级的软治理影响国家层级和国家内部的行动者网络，各国的政策回应结果又通过反馈机制验证或修正超国家层级的政策话语。
 
 > [!mechanism-map]- 三层机制交互图
@@ -402,19 +402,19 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[PISA]] 作为决定性分水岭
+> [!citation-card] [[PISA]] 作为决定性分水岭
 > 德国案例："PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a [[Comprehensive Education]] reform agenda was put forward in Germany. The experienced reform dynamic was highly surprising because the traditional German education system and politics were characterized by deep-rooted historical legacies, many involved stakeholders at different levels, and reform-hampering institutions. Hence, a backlog of grand education reforms has prevailed in Germany since the 1970s. The external pressure exerted by PISA completely changed that situation."（Niemann et al., 2017, pp.175–183）
 
-> [!citation-card]- 三层机制的核心逻辑
+> [!citation-card] 三层机制的核心逻辑
 > "The specific mechanism of the impact of PISA-related education policies is driven by the international political background established by the supranational [[OECD]], the [[Policy Borrowing]] behavior from model societies at the nation-state level, and the effective information translation of internal actor networks."
 
-> [!citation-card]- 科学性的修辞运用
+> [!citation-card] 科学性的修辞运用
 > "In justifying the argument that PISA is a reliable barometer of the national educational systems, the central government officials' texts particularly emphasize PISA's scientific nature. In so doing, it is repeatedly contrasted with many earlier international studies, which are deemed political in nature. Thus, scientificity is used as a self-evident premise on which the argument of PISA's [[Reliability]] is built."（Rautalin & Alasuutari, 2009, p.546）
 
-> [!citation-card]- 触发政策回应的两个条件
+> [!citation-card] 触发政策回应的两个条件
 > Martens and Niemann（2013）："the relation between the self-perception and the actual results needs to be taken into [[Accounts\|account]], and the issue — in our case, education policy — needs to be framed as problematic within the national context."
 
-> [!citation-card]- 欧洲 PISA 与[[EU|欧盟]]政策的交织
+> [!citation-card] 欧洲 PISA 与[[EU|欧盟]]政策的交织
 > "In Europe, it is particularly difficult to isolate the influence of PISA from the impact of the initiatives of the European Commission ... the initiatives and recommendations of the OECD and the EU Council and Commission have become more and more intricate in recent years because of the reciprocal influence and closer cooperation of these two international institutions."（Michel, 2017, p.207）
 
 ---

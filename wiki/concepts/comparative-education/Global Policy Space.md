@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **学术用途** 解放传统的“[[Methodological Nationalism\|方法论民族主义]]”视角，使研究者能透视全球政策[[Discourse|话语]]脱嵌于地方经验而生产、流通的权力机制。
 > - **适用边界** 并非用于描述国家间的外交或双边关系，而是描述跨国多中心网络所构成的非对称权力场域。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 正是这些网络构成了我所称的“全球政策空间”。我指的是这样一个空间：在其中，不局限于单一国家空间的多元行动者相互互动、交换信息并建立伙伴关系，以定义他们所认为的共同教育问题并提出全球解决方案。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 350]])
 >
 > *“It is these networks that constitute what I shall call a 'global policy space'. By this I refer to a space in which a variety of actors who are not tied to a single national space interact, exchange information and establish partnerships to define what they perceive to be common educational problems and propose global solutions.”*

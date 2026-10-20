@@ -194,7 +194,7 @@ updated: 2026-10-20
 > - **专家与审议委员会** [[Global Education Monitoring Report|全球教育监测报告]]（Global Education Monitoring Report，GEMR）独立专家顾问委员会、教科文组织教席网络（UNESCO Chairs Network）以及下设的一类机构管委会（[[International Institute for Educational Planning|IIEP]]、[[UNESCO Institute for Statistics|UIS]]、[[International Education|国际教育]]局（International Bureau of Education，IBE）、终身学习研究所（UNESCO Institute for Lifelong Learning，UIL）等）。
 > - **会员与外部利益相关者** 拥有极具特色的“国家委员会”（National Commissions for UNESCO）系统，深度联结各主权国教育部、外交部、高校学术界与民间公民社会团体。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 依托全球多边民主协商程序，确立涵盖“全民普及、性别平等、教师发展、绿色教育变革与高等教育文凭跨国互认”的综合发展议程。
 > - **研究与开发** 融合规范哲学思辨与实证统计，由 UIS 负责全球统计口径标准化，由 IIEP 负责国别政策诊断规划，由巴黎总部组织跨学科国际委员会起草战略宣言。
 > - **质量控制与透明度** 实行严谨的政府间条约草拟规程、国际教育标准分类（International Standard Classification of Education，ISCED）修订审定程序及内部监督服务处（Internal Oversight Service，IOS）全覆盖项目审查。
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 经常性预算年均约 3–4 亿美元，全球雇员与专家约 2,500 人；覆盖 194 个成员国，建立超 800 个教科文组织大学教席和数千所联系学校网络（Associated Schools Project Network，ASPnet）。
 > - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；[[Global Education Monitoring Report|GEMR]] 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议文献。
 > - **政策与制度渗透** 主导确立了 EFA 和 [[UN Sustainable Development Goals|SDG 4]] 全球政治共识，促使数十个发展中国家将“免费普及初等教育”、“受教育权”写入国家宪法与基础教育法案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]

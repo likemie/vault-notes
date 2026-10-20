@@ -47,7 +47,7 @@ updated: 2026-10-19
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > 高等教育新封建主义（Neo-feudalism in Higher Education）是 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]引入高等教育研究的[[Paradigm\|范式]]概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799]])。
 
 这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注(Neckel, 2013; Zinn, 2015; [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.799]])。
@@ -79,7 +79,7 @@ updated: 2026-10-19
 
 ## 两种类型学
 
-> [!note]-
+> [!note]
 > Wieczorek, Beyer & Münch运用 Weber 式理想类型，区分了学术新封建主义的两种形态([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.805–806]])：
 
 | 维度 | 封地封建主义 (Fief Feudalism) | 俸禄封建主义 (Benefice Feudalism) |
@@ -93,7 +93,7 @@ updated: 2026-10-19
 
 ## 发展脉络
 
-> [!note]-
+> [!note]
 > - **1962 年**Habermas 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
 > - **1984 年** Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.
@@ -103,7 +103,7 @@ updated: 2026-10-19
 
 ## 与相关理论的关系
 
-> [!tip]-
+> [!tip]
 > - **Bourdieu 的学术[[Champ\|场域]]** [[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 > - **新 Weber 式权力分析** 探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007;)
 > - **马克思主义[[Knowledge Capitalism\|知识资本主义]]分析** 将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy\|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.805]]）

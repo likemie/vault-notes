@@ -85,7 +85,7 @@ updated: 2026-10-20
 >
 > *...in an era when the humanities dominated the school curriculum in Europe, when Bildung in Germany, Culture Générale in France, Liberal Education in England or Klassiki Paedeia in Greece had basically the same ultimate aim; the preparation of intellectually, morally and aesthetically cultivated individuals, allegedly capable and willing to provide good service to their country and to mankind.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **现代通识教育（[[General Education]]）** 现代通识教育多指向大学阶段跨学科思维工具的迁移与选修分布（如 Peterson 与 IB 课程）；而普通文化是特指 19 世纪至 20 世纪中期法国国立中学统一规训、以古典语文学与笛卡尔理性为核心的必修精英课程传统。
 > - 不等于 **泛化的个人自我形成（[[Bildung]]）** 德国教化强调个体精神内在、非目的论的自由展开与浪漫主义有机生成；法国普通文化则更具规范性、理性主义色彩，直接服务于国家官僚与法律行政体系的制度化选拔。
 > - 不等于 **百科全书式知识灌输（[[Encyclopaedism]]）** 普通文化不以穷尽具体知识信息为目标，强调少而精的典范文本研读与严谨论证写作训练（Dissertation）。

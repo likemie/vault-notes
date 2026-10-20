@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **透明委员会（Advisory Council，Insynsråd）** 由 10 人组成，向局长提供咨询。收集材料期间，其中 3 人是大学高级研究人员；一名成员长期研究瑞典的成功学校。该委员会构成督察局与研究共同体的制度联系。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 647)]]
 > - **传播秘书处** 负责扫描、编辑与“清理”机构文件，包括质量审计最终报告。研究者形容其为机构内部神秘的“分析部门”，在报告定稿前删改内容。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–652)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **常规督导（Regular Supervision）** 对全部学校与办学机构按三年一轮开展。督导围绕四大评估领域：[[Academic Achievement|学业成绩]]或目标达成、教育领导与发展、学习环境、学生个人权利。评估领域与指标由工作组从成功学校研究中提炼，经高层管理协商后写入督导指令与学校指南。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 647–648)]]
 > - **质量审计（Quality Audit）** 对学校系统中特定且界定明确的问题领域开展深度审计，抽样约 30 所学校，其发现被视为对该问题领域具有全国代表性。审计以国家目标与指南为基础，更强调质量面向与学校发展；流程包括内部指令、知识综述、法律框架、项目计划、参考研究者、参考组、内部与外部质量保障，以及最终报告。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 649)]]
 > - **投诉处理** 处理个人就学校问题（如校园欺凌）提出的投诉，并据此开展调查与判断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **覆盖范围** 按三年一轮督导所有学前教育、小学与中学、成人教育与特殊学校，按比例覆盖各类办学机构。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **证据基础设施** 三分之一督导具备调查或研究背景；建立研究资源名单；透明委员会 10 人中有 3 名大学高级研究人员；委托编制术语表与流程说明。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–647)]]
 > - **质量审计规模** 每次审计抽样约 30 所学校，发现被视为对该问题领域具有全国代表性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 645)]]
@@ -134,7 +134,7 @@ updated: 2026-10-20
 > - **1/3** 计划具备“一般调查背景”的督导比例。（p. 647）
 > - **3/10** 透明委员会中大学高级研究人员的数量。（p. 647）
 
-> [!note]- 成效证据的性质
+> [!note] 成效证据的性质
 > 上述指标描述的是督察局的组织规模与制度安排，而非督导对学生成绩或学校改进的因果效果。塞格霍尔姆等人的研究是质性[[Case Study|个案研究]]，关注研究知识如何进入督导工作，不评估督导本身的净效应。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 654–655)]]
 
 ---
@@ -166,7 +166,7 @@ updated: 2026-10-20
 >
 > *Researchers saw that their role was to calibrate or “soften” normative aspects within the agency and the overall claims and interpretations made in the quality audit. (p. 650)*
 
-> [!critique]- 代表性批评与反思
+> [!critique] 代表性批评与反思
 > - **选择问题缺乏机构政策** 项目负责人承认，机构内部没有关于“该听哪些研究”“谁决定听谁”的统一政策，选择往往取决于个别督导。这使知识基础的一致性依赖个人判断，而非可问责的机构规则。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–650)]]
 > - **“当前知识状态”本身可争议** [[Jean Piaget|皮亚杰]]、库恩与[[Basil Bernstein|伯恩斯坦]]分别指出知识是持续建构的过程、社会科学充满主张与反主张、教育学属于“[[Horizontal Knowledge Structure|弱语法]]”领域。以此衡量，声称呈现“当前知识状态”的知识综述必然包含选择与简化。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 654–655)]]
 > - **取证式审计** 审计围绕政策结论拼合证据，发现意外或新事物不在其目标之内。这种做法可以设定政策议程，也可能促使专业人员遵循该议程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]

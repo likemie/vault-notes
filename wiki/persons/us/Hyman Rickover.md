@@ -52,7 +52,7 @@ updated: 2026-10-16
 > - **核心角色** 在美国军事工程与国家安全技术网络中扮演了颠覆性技术领航者角色；以极端执着、打破常规和注重实战交付的[[Engineering Mindset|工程思维]]，强力推行核反应堆小型化与潜艇核动力化改造，彻底改写了全球海战格局。
 > - **代表贡献** 领导研制出世界上第一艘核动力潜艇鹦鹉螺号（USS Nautilus）；建立起一套零容忍事故、极度严苛的核安全与工程审查标准；成为结果导向型工程领袖对抗防卫型官僚程序的代表人物。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–186)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 里科弗上将展现出的无畏进取精神，促成美国海军迅速研制出由核反应堆驱动的可潜航舰艇，这一突破将潜艇从仅能短时间下潜的水面舰艇彻底转化为能够在深海隐蔽数月的水下作战平台。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
 >
 > *The speed with which the U.S. Navy was able to build a functional submersible vessel powered by a nuclear reactor was the direct result of Rickover’s “daring aggressiveness,” according to Kintner—a breakthrough that had the potential to transform a submarine into something more than a “surface ship which could submerge only for short periods,” but rather into an underwater vessel that would be able to remain hidden in the depths for months.*
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 工程领袖的首要天职在于交付关乎国家命运的实质成果，而非屈从于平庸自保的科层合规；追求完美的道德纯洁性与僵化程序往往会逆向淘汰真正具有开创能力的异类工程天才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
 
 > [!citation-card] 打破科层体制与直面结果责任

@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ### 步骤一：清算中心景观与制度异质性
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Educational Evidence Clearinghouses\|教育证据清算中心]]在组织使命、服务对象、资金支持和评估对象上展现出极大的制度[[Heterogeneity\|异质性]]，这种异质性从源头上决定了各中心制定评估规则的出发点与资源能力(pp. 6–8)。
 
 > [!chain-link] 机构筛选与排除边界
@@ -244,7 +244,7 @@ updated: 2026-10-20
 
 ### 步骤二：因果推断方法论标准与单项研究质量
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 所有清算中心均视[[Randomised Controlled Trials\|随机对照试验]]（RCT）为[[Causality\|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（流失、基线等值、分析层次、[[Intent-to-Treat Analysis\|意向治疗分析]] [Intention-to-Treat, [[Initial Teacher Training\|ITT]]] 与[[Complier Average Causal Effect\|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs\|准实验设计]]（QED）、[[Regression Discontinuity Design\|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
 
 > [!chain-link] 设计编码与实施细则
@@ -282,7 +282,7 @@ updated: 2026-10-20
 
 ### 步骤三：高等级项目评级门槛与证据综合标准
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 当清算中心从单项研究质量评价迈向项目整体有效性综合评级时，其设定的最高证据门槛产生了本质分歧：部分中心要求极其严苛的独立外部复制与长期追踪，而另一些中心仅需单项具有[[Statistical Significance\|统计显著性]]的短期研究(pp. 11–15)。
 
 > [!chain-link] 综合标准微观对比
@@ -318,7 +318,7 @@ updated: 2026-10-20
 
 ### 步骤四：项目评级一致性实证检验
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 在去重后的 1,359 个教育项目中，绝大多数（83.2%）仅获得单一清算中心的评价；而在获得多重评级的项目中，评级完全一致率仅约 30%，且一致性主要集中在“不推荐”，完全冲突（推荐 vs 不推荐）成为最主要的分歧形式(pp. 16–21)。
 
 > [!chain-link] 项目池构建与评级转换
@@ -376,10 +376,10 @@ updated: 2026-10-20
 > | **4 个中心评级项目** | 30.0% | 20.0% | 22.2% | **27.8%** | 90 |
 > | **5 个中心评级项目** | 50.0% | 20.0% | 5.0% | **25.0%** | 40 |
 
-> [!example]- 图1：两个清算中心评级教育项目的对应关系（Figure 1）
+> [!example] 图1：两个清算中心评级教育项目的对应关系（Figure 1）
 > ![](https://img.mylikemie.icu/sources/Wadhwa_2024_RER/figures/Wadhwa_2024_RER_Fig1_Correspondence_in_Rating_2CHs.jpg)
 
-> [!example]- 图2：被3个、4个和5个清算中心评级的教育项目评价离散度分布（Figure 2）
+> [!example] 图2：被3个、4个和5个清算中心评级的教育项目评价离散度分布（Figure 2）
 > ![](https://img.mylikemie.icu/sources/Wadhwa_2024_RER/figures/Wadhwa_2024_RER_Fig2_Dispersion_in_Evaluative_Ratings_MultiCHs.jpg)
 
 > [!warrant]- 步骤四深度解读：评价重叠的结构性稀疏与[[Convergent and Discriminant Validity\|收敛效度]]的经验崩溃
@@ -397,7 +397,7 @@ updated: 2026-10-20
 
 ### 步骤五：五大深度案例拆解与分歧归因
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 通过对五个知名成熟教育干预案例（[[Open Court Reading\|开放式阅读]] [OCR]、人人成功 [SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies\|PALS]]、[[Quantum Opportunity Program\|量子机会项目]] [[Quantum Opportunity Program\|QOP]] / EQOP]、[[Communities in Schools\|校内社区]] CIS）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入文献池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
 
 > [!chain-link] 案例一：开放式阅读（[[Open Court Reading]], OCR） —— 表面结论一致掩盖底层评估分歧
@@ -441,7 +441,7 @@ updated: 2026-10-20
 
 ### 步骤六：分歧机制归因与构念效度审思
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 四种潜在分歧机制中，“证据综合门槛差异”是导致清算中心评级不一致的最核心原因，“纳入研究池与检索时效差异”次之，而“评估结果域差异”与“项目变体混淆”属于较易通过使用者甄别克服的次要因素(pp. 26–27)。
 
 > [!factors] 四种分歧解释机制的解释力排序
@@ -489,17 +489,17 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- 循证评级的政策愿景与现实差距
+> [!citation-card] 循证评级的政策愿景与现实差距
 > 识别“基于证据”的干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。(p. 3)
 >
 > *Identifying “evidence-based” interventions is still more of a policy aspiration than a reliable research practice.*
 
-> [!citation-card]- 清算中心语境下的有限[[Construct Validity\|构念效度]]
+> [!citation-card] 清算中心语境下的有限[[Construct Validity\|构念效度]]
 > “基于证据（evidence-based）”在清算中心（CH）的背景下，其实际的构念效度是有限的。(p. 26)
 >
 > *“Evidence-based” has limited practical [[Construct]] validity in the CH context.*
 
-> [!citation-card]- [[Research Synthesis|证据综合]]门槛的实质差异
+> [!citation-card] [[Research Synthesis|证据综合]]门槛的实质差异
 > 要求一项具有统计显著发现的单一 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]，与要求两项具有特定[[Effect Size\|效应量]]、干预结束后 12 个月仍观察到效果、且由独立于程序开发者及先前研究者的团队完成的 RCT 相比，其门槛高度存在本质区别。(p. 26)
 >
 > *To require a single RCT or QED with a statistically significant finding is a much lower hurdle than requiring two RCTs with positive findings that are of a given size, that are observed 12 months after the intervention has ended, and that are in studies conducted by researchers who are independent of the program developers and even of prior researchers of the program in question.*

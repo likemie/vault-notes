@@ -64,7 +64,7 @@ updated: 2026-10-16
 > [!claim] 核心设计哲学
 > KNAER 摒弃了由大学向中小学单向输送文献的技术-理性供给模式，构建了集“**优质知识产品 ＋ 跨界协作关系 ＋ 全系统能力建设**”于一体的三位一体全系统[[Knowledge Mobilisation\|知识动员]]战略，通过建立专题知识网络（Thematic Knowledge Networks）与派遣[[Boundary Spanner\|跨界中介者]]，实现研究者与实践者的共同知识创造。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]
 
-> [!policy-design]- 三位一体核心支柱
+> [!policy-design] 三位一体核心支柱
 > - **支柱一：优质知识产品（Quality Products）** 联合学者与骨干教师，将复杂的同行评议论文与[[Systematic Review\|系统综述]]二次开发为直观的教学工具包、视频微课与实践指南，确保信息易读、易懂、易上手。
 > - **支柱二：跨界协作关系（Collaborative Relationships）** 建立覆盖省-大学-学区-学校的多层级伙伴关系（[[Research-Practice Partnership\|RPP]]），促进研究者、教研员与一线教师常态化双向对话。
 > - **支柱三：全系统能力建设（System-wide Capacity Building）** 设立专项[[Seed Funding|种子基金]]，培育学校中层领导与教师的[[Research Literacy\|研究素养]]与数据分析能力，培训专职“知识经纪人”（Knowledge Brokers）。

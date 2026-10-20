@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **用途** 解释为什么欠发达国家、低数字化高校或弱势背景学生在技术介入后能展现出远超欧美发达高校的高[[Effect Size\|效应量]]，为全球教育技术资源配置与教育公平政策提供理论辩护。
 > - **边界** 解释的是干预前后的“相对改进幅度”（Effect Size），而非“绝对[[Academic Achievement\|学业成就]]绝对值”；且假定低资源环境具备运行该技术的基本电力与硬件接入底线。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 尽管高 ICT 国家能够更有效地将 AI 整合到学习产出中，本研究支持了“边际效益”效应。即在数字化资源匮乏的地区引入教育技术往往会产生更大的相对效果。在 ICT 资源有限的地区，学生通常很少能获得数字化学习支持，因此生成式 AI 的引入带来了更为显著的附加价值。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 >
 > *Although high-ICT countries enabled more effective integration of AI into learning outcomes, the present study supported the 'marginal gains' effect. That is, the introduction of educational technology in digitally under-resourced regions tends to produce a greater relative effect (OECD, 2015). In regions with limited ICT resources, students typically have minimal access to digital learning support. As a result, the introduction of Gen-AI produces a more pronounced added value.*

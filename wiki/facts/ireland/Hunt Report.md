@@ -60,7 +60,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 战略明确将“教学与学习的卓越性”确立为与学术科研同等重要的国家战略支柱，要求全爱尔兰高校全面转向以学生为中心的教学法，改革考核模式以系统发展学生的批判反思与独立探究素养。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 
-> [!policy-design]- 政策设计与关键举措
+> [!policy-design] 政策设计与关键举措
 > - **发展通用高阶素养** 课程必须系统整合[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、人际沟通与自律[[Lifelong Learning\|终身学习]]能力。
 > - **考核机制创新** 要求高校摒弃纯记忆性期末考核，推行多元化、形成性且强调真实情境的评价方式。
 > - **建立全国监测工具** 责成[[Higher Education Authority\|爱尔兰高等教育局]]（[[Higher Education Act of 1965\|HEA]]）设立常态化全国调查体系，正式催生了[[Irish Survey of Student Engagement\|爱尔兰学生投入调查]]（ISSE）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]

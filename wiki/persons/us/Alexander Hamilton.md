@@ -45,7 +45,7 @@ updated: 2026-10-20
 > - **核心角色** 后发国家战略性产业政策、国家协调工业化与保护幼稚产业思想的奠基人。
 > - **代表贡献** 1791 年向美国国会提交《关于制造业的报告》（*Report on Manufactures*），奠定了美国早期依托高关税与国家基础设施推动制造业起飞的体制框架，直接启发了[[Friedrich List|弗里德里希·李斯特]]的国家政治经济学。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在 19 世纪后半叶超越英国方面，美国当然比德国更加成功；而李斯特在旅居美国期间获益良多，尤其是从汉密尔顿 1791 年的《关于制造业的报告》中汲取了极其深厚的思想养分。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 7–8)]]
 >
 > *The United States was of course even more successful than Germany in overtaking Britain in the second half of the nineteenth century and List had learnt a great deal from his residence in the United States and especially from Hamilton's (1791) Report on Manufactures.*
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 后发国家如果放任自由贸易，必然被拥有先发规模与技术优势的成熟工业国长期锁定在农业与初级原料输出的依附地位；主权国家必须采取包括保护关税、资助关键设备引进、保护技术发明与兴建国家级基础设施在内的全套积极产业政策，系统培育本土高端制造业与生产力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 7–8)]]
 
 > [!citation-card] 汉密尔顿论国家干预对新兴制造业培育的不可替代性
@@ -97,7 +97,7 @@ updated: 2026-10-20
 > - **政策路径** 奠定了 19 世纪美国长达百年的高关税保护工业体系与“美国制造体系”（American System of Manufactures），并为普鲁士关税同盟和 20 世纪东亚国家产业政策提供了历史范本。
 > - **跨国思想回流** 汉密尔顿思想由李斯特系统化为《政治经济学的国民体系》后，在 19 世纪中后期反向输入回美国、统一后的帝国德国以及明治维新时期的日本，成为全球非英国核心区实现技术超越的共同思想母体。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 明确考证了李斯特[[National Innovation System|国家创新系统]]理论对汉密尔顿《制造业报告》的历史继承关系，揭示美国工业追赶中主动国家政策的原初角色。
 
 ---

@@ -47,7 +47,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!note]- 经过
+> [!note] 经过
 > - **2018** — 美国教育部教育科学研究所（[[Institute of Education Sciences\|IES]]）正式启动 **Registry of Efficacy and Effectiveness Studies (REES)**([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 444]])
 > - REES 由 Anderson, Spybrook and Maynard (2019) 在 *Educational Researcher* 第 48 卷第 1 期上系统描述
 > - REES 被专门设计用于教育领域的项目评估——即"旨在确定教育干预或策略的功效或有效性的研究"（Anderson et al., 2019, p. 48; 引自 Wolf et al., 2020, p. 444）

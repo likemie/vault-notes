@@ -162,7 +162,7 @@ citation_aliases:
 
 ### 第一步：确立三大传统作为分析框架
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策实践对国家行为模式的规范性预期(p. 417)。
 
 > [!theory-components] 怀特[[Wight's Three Traditions of International Theory\|国际关系三大传统]]
@@ -187,7 +187,7 @@ citation_aliases:
 
 ### 第二步：现实主义如何塑造比较教育
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 从现实主义视角出发，比较教育是一系列务实而行动导向的工具，旨在帮助国家最大限度地提升权力能力、获取或维持国际地位。这一形态被称为现代主义比较教育，它以领土和[[Geopolitics|地缘政治]]的术语阅读社会空间(pp. 419–420)。
 
 > [!dev-timeline] 现实主义比较教育的演进脉络
@@ -224,7 +224,7 @@ citation_aliases:
 
 ### 第三步：理性主义如何塑造比较教育
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种[[Governing at a Distance\|远处治理]]的政治技术(p. 425)。
 
 > [!dev-timeline] 理性主义比较教育的演进脉络
@@ -257,7 +257,7 @@ citation_aliases:
 
 ### 第四步：革命主义如何塑造比较教育
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 革命主义将国际秩序解构为压迫与被压迫的阶级与殖民支配结构。这推动比较教育成为一项道德批判事业，旨在揭露不平等、挑战殖民性并为被压迫群体争取解放(p. 426)。
 
 > [!dev-timeline] 革命主义比较教育的演进脉络
@@ -288,10 +288,10 @@ citation_aliases:
 
 ### 第五步：综合与前瞻：中美对抗、美俄对抗下的学科未来
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 三大传统并非替代性的历史分期，而是共存且交叉于学科过去的理论形态；学科的[[Agendas of Attention\|注意力议程]]必然随着国际关系格局的转变而重新分配(p. 431)。
 
-> [!conclusion]- 比较教育是国际关系的产物与学科矛盾的解释
+> [!conclusion] 比较教育是国际关系的产物与学科矛盾的解释
 > 三大传统不是比较教育从现实主义演变为理性主义再到革命主义的关系。它们是共存的思想传统，同时运作于比较教育的过去和现在，构成本领域的多重、竞争和交叉的身份与历史。
 > 
 > 比较教育内部的长期矛盾由此获得了深层解释。例如，政策借用与情境理解之间的张力，不是方法论的分歧，而是现实主义预设（国家竞争）与反现实主义预设（文化差异）之间的张力。技术治理与批判解放之间的张力，不是政治立场的差异，而是理性主义预设（合作与规则）与革命主义预设（支配与抗争）之间的张力。这些张力是不可消除的，因为它们根植于对国际社会性质的最深层理解(p. 431)。
@@ -310,7 +310,7 @@ citation_aliases:
 > > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。
 > > - **中国的去西方化（De-Westernisation）** 依托经济实力在权威、知识和主体性层面挑战西方霸权，但底层仍与资本主义共存。
 
-> [!challenges]- 重返档案与最终的学科难题
+> [!challenges] 重返档案与最终的学科难题
 > 在向前走之前，比较教育需要首先回头审视自身的档案。国际关系中有大量议题与比较教育的联系尚未被挖掘：战争、革命、干预、集团主义、和平、外交和他者性。例如，如何从攻势现实主义（aggressive realism）的角度阐述巴尔干半岛受教育者身份与19世纪末20世纪初列强对奥斯曼欧洲领土竞争的联系？如何从革命理想主义（revolutionary idealism）的角度阐述同一地区20世纪末21世纪初教育转移在国际和解政治中的地位？(p. 430)
 > 
 > 三大传统之所以关键，是因为它们揭示了学术工作的底层价值，促进对学术工作在历史和政治上再生产或反对谁...的权力的批判反思。
@@ -334,22 +334,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 理论反思的缺失
+> [!citation-card] 理论反思的缺失
 > 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。(|Klerides, 2023, p. 416)
 > 
 > *We have never used the lens of international theory in a systematic way to articulate our [[Champ\|field]]'s identity, history and future.*
 
-> [!citation-card]- 国际预设决定学术实践
+> [!citation-card] 国际预设决定学术实践
 > 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。(|Klerides, 2023, p. 417)
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
-> [!citation-card]- 怀特传统的政治价值
+> [!citation-card] 怀特传统的政治价值
 > 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。(|Klerides, 2023, p. 431)
 > 
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
-> [!citation-card]- 比较教育史的未来难题
+> [!citation-card] 比较教育史的未来难题
 > 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被[[Revolutionism\|革命主义]]的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？(|Klerides, 2023, p. 431)
 > 
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*

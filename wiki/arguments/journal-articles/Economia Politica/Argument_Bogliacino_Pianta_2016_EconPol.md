@@ -69,7 +69,7 @@ updated: 2026-10-16
 > [!question]
 > 企业和产业在创新行为和经济表现上的[[Heterogeneity\|异质性]]极高且持久——同一三位数行业内企业的生产率差异可达 2-9 倍。主流经济学的"代表性企业"方法无法处理这种异质性。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]提出的分类法是整合多样性和识别共性的关键工具，但它仅覆盖制造业且基于 1980 年代的英国数据。随着服务业在经济中占比持续上升、ICT 技术深刻改变创新方式以及[[EU|欧盟]]行业分类从 NACE Rev. 1 转向 Rev. 2，[[Pavitt Taxonomy\|Pavitt 分类法]]是否仍然有效？能否扩展至服务业？需要怎样的修订？
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 三轮社区创新调查（[[Community Innovation Survey]]，CIS 2、3、4），覆盖 7 个欧洲国家和挪威，22 个制造业和 17 个服务业两位数 NACE 行业
 > - **方法** 主成分分析 + 回归分析，检验替代性行业分组的稳定性
 > - **结论** Pavitt 的四类核心结构稳健成立；服务业可按相同逻辑归类；原"规模密集型"应修订为"规模与信息密集型"以纳入 ICT 维度
@@ -187,7 +187,7 @@ updated: 2026-10-16
 > [!line-a] PCA 二维图验证四类空间分布
 > 每个两位数行业在二维平面上的位置显示了一个清晰的层级结构：SB 产业位于右上角（高研发-高产品创新），SD 产业位于左下角（两者都低），SII 产业集中在左上角（高成本竞争力-低技术竞争力），SS 产业位于中间位置。每个类别与其余样本在两个成分上的 $t$ 检验全部在 $p < 0.000$ 水平上显著——SB 的 $t$ 统计量为 $-21.29$ 和 $-14.89$，SII 为 $-10.49$ 和 $15.00$，SD 为 $19.89$ 和 $5.04$，SS 为 $4.14$ 和 $-8.52$（pp.164-165）。
 >
-> > [!example]- 图1：修订版 Pavitt 分类法的 PCA 二维图
+> > [!example] 图1：修订版 Pavitt 分类法的 PCA 二维图
 > > ![](https://img.mylikemie.icu/sources/Bogliacino_Pianta_2016_EP/figures/Bogliacino_Pianta_2016_EP_Fig1_PCA_Pavitt_Classes.jpg)
 
 > [!line-a] 服务业分类的指标验证
@@ -225,12 +225,12 @@ updated: 2026-10-16
 ---
 ## 关键引用
 
-> [!citation-card]- 分类法的核心价值
+> [!citation-card] 分类法的核心价值
 > [[Pavitt Taxonomy\|Pavitt 分类法]]的贡献在于能够将产业多样性纳入一个连贯的[[Analytic Framework\|分析框架]]，在不同产业组的创新来源、目标和结果之间建立起系统性的联系，使[[Heterogeneity\|异质性]]从"噪音"变成可分析的"信号"。（pp.155-156）
 >
 > Original: The key contribution of the Pavitt Taxonomy was its ability to fit the diversity of industries in the context of a coherent framework, establishing systematic links between sources, objectives and outcomes of innovation in different industry groups.
 
-> [!citation-card]- 修订版的核心判断
+> [!citation-card] 修订版的核心判断
 > 我们的发现确认 Pavitt 最初识别的四个类别仍然成立，但需要一个新的——规模与信息密集型——概念来整合 ICT 在经济中日益重要的角色。（pp.175）
 >
 > Original: Our findings confirm that the four classes originally identified by Pavitt still hold, but a new concept of Scale and Information Intensive industries is needed to integrate the growing role of ICT in the economy.

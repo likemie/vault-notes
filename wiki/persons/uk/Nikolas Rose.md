@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **核心角色** 当代西方批判[[Governmentality|治理术]]研究（Governmentality Studies）与高级自由主义（Advanced Liberalism）理论的核心思想家。在政策社会学与跨国治理分析中，其“[[Governing at a Distance|远处治理]]”与“数字即政策”理论构成了剖析超国家量化监控与绩效主义重构公共教育的核心[[Epistemology|认识论]]武器。
 > - **代表贡献** 发展了新自由主义“远处治理”（[[Governing at a Distance]]）理论，系统论证“数字即政策”（Policy as Numbers）与[[Governing by Numbers|数字治理]]技术，阐释心理学、精神医学与生命科学如何将社会控制内在化为行动者的“自我技术”（Technologies of the Self）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，[[PISA|国际学生评估项目]]（PISA）之所以能够在全球范围内建立起无人能够辩驳的规训威权，根源正在于尼古拉斯·罗斯所揭示的数字治理机制——数字的真正力量在于将构成一次测量、一个刻度、一个指标背后所涉及的大量复杂政治裁决与价值决断完全变得不可见，因而也变得无可反驳。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208).*
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 在高级自由主义时代，权力的运作不再主要依赖中央集权国家的强制命令与直接禁令，而是通过将受治主体形塑为“自由、理性且追求自我负责的企业家”来行使；治理的精髓在于“远处统治”（[[Governing at a Distance]]）。在此过程中，量化数据与性能指标构成了不可或缺的政治技术（Political Technology）：“数字即政策”（Policy as Numbers）将原本充满伦理冲突、意识形态分歧与阶级利益博弈的政治决断，彻底降解为看似中立、客观且无可辩驳的技术测量；通过设置排名、审计公约与[[Performance Indicators|绩效指标]]，治理者成功诱使地方自治机构与个体主动将自身行为对齐中央或跨国标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 罗斯论数字作为使政治决断隐形化的统治技术
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、珍妮·奥兹加（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
 > - **跨国／跨领域传播** 其论著被译为十余种语言，不仅在社会学与政治学领域产生震荡，更深刻渗透至法学、医学社会学、地理学与比较教育学。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用罗斯的“数字即政策”理论，论证 [[PISA]] 如何通过隐匿政治决断确立免于质疑的治理权威。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与规训容器对人口流动实施精细监控。
 

@@ -77,7 +77,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 控制-价值理论主张，**主观控制感评价（Control Appraisals）** 与**任务价值感评价（VALUE Appraisals）** 是诱发和分化学业情绪的近端决定因素（Proximal Determinants）；当学习环境提升个体对学习过程/结果的可控感，并赋予活动内在或工具性价值时，将系统激发积极的高唤醒情绪（如学习享受、希望），抑制消极阻滞情绪（如课业焦虑、无聊与绝望），进而赋能高阶策略运用与深度[[Student Engagement\|学习投入]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一对[[Academic Achievement\|学业成绩]]和[[Affective Outcomes\|情感动机]]维度的显著促学效应，有力支持了[[Self-Determination Theory\|自我决定理论]]与控制-价值理论，凸显了生成式 AI 如何满足学习者的基本心理需求并促进学习投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 16)]]
 >
 > *First, the pronounced effects on academic achievement and affective-motivational outcomes support self-determination theory and control-value theory, while highlighting how Gen-AI satisfies learners' psychological needs (i.e., autonomy, competence and relatedness) and fosters engagement (Guay, 2022; Pekrun, 2006).*
@@ -200,7 +200,7 @@ updated: 2026-10-20
 > > - **传统阻滞派** 强调焦虑侵占[[Working Memory\|工作记忆]]带宽，导致策略退化。
 > > - **生产性摩擦派（D'Mello et al.）** 认为适度的认知困惑（Confusion）是引发高阶概念转变和深层探究的必要心智阻力。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 实证提示，技术虽然通过赋予高控制感消除了学习阻力与挫败情绪，但也可能因过于平滑而让学习者跳过深层自我监控，诱发“[[Metacognitive Laziness\|元认知惰性]]”。
 
 ---

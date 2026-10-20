@@ -100,7 +100,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 研究并非通过直接的“证据输入 $\rightarrow$ 决策产出”工程式闭环进入实践，而是沿着知识驱动、[[Problem Solving\|问题解决]]、持续互动、政治辩护、战术拖延、概念启蒙与社会智识涵育等多重路径展开；其中最深远的影响是通过“知识渗透”（knowledge creep）与“决策累积”（decision accretion）潜移默化地重塑实践者的概念视界与[[Problem Finding\|问题界定]]方式。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > [[Research Utilization\|研究利用]]并不总是意味着做出具体决策时的直接依据。更常见的情况是，研究的概念和理论逐渐扩散并渗透到决策者的日常思考中，以缓慢而累积的方式重构他们理解问题、定义优先级与评价备选方案的整体智识地图。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 132)]]
 >
 > *Research use is not a single, monolithic act of direct implementation. Instead, it encompasses multiple diffuse pathways through which research evidence, theoretical perspectives, and empirical concepts percolate into the policy and professional [[Discourse]], gradually reshaping how problems are understood and framed.*
@@ -162,7 +162,7 @@ updated: 2026-10-20
 >   > - **协作[[Framework Synthesis\|框架综合]]证据** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 对 32 项质性与混合研究的框架综合发现，外在自上而下的绩效问责容易诱发表面应付的“象征性使用”，而只有在具备专业信任与同行协作的生态中，互动模型与整合使用才能真正发生。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
 > - **推导** 研究利用并非由证据质量单向决定，而是取决于组织制度环境（信任 vs 问责）以及个体知觉行为控制（[[Research Literacy\|研究素养]]与技能储备）的交互调控。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一：互动模型的制度化演进）** 从 Weiss 的互动模型出发，当代教育改革演化出了“第四代研究使用”理论与[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]（Ecosystem for [[Research-Engaged School\|Research-Engaged Schools]]），主张研究机构与中小学建立“研究者-实践者伙伴关系”（Researcher-Practitioner Partnerships, [[Research-Practice Partnership\|RPP]]），从单向[[Knowledge Transfer\|知识转移]]（Transfer）走向[[Knowledge Co-production\|知识共创]]（Co-production）。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 > - **推论二（源自核心命题二：反向象征性异化推论）** 当[[New Public Management\|新公共管理]]（NPM）与高利害问责机制将“证据本位”强行作为量化考核指标时，学校和教师为了展示合法性，极易倒退向政治模型与战术模型，产生仪式性的象征性使用（如言语上堆砌术语、机械填报量表），阻碍真实教学反思。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
 > - **应用命题** 在教育政策与教师教育评价中，不得仅以“是否有具体证据被直接采纳（工具性指标）”作为衡量科研转化成效的唯一标准，必须将概念性理解深化、专业[[Discourse|话语]]更新与探究文化塑造纳入多维评价体系。
@@ -255,7 +255,7 @@ updated: 2026-10-20
 > > - **Hargreaves（1996）** 主张建立类似循证医学的[[Knowledge Production\|知识生产]]与直接转化体系。
 > > - **Greenhalgh and Wieringa（2011）** 批评单纯的知识传输（[[Knowledge Transfer]]）隐喻脱离实际，呼吁全面转向基于社会实践的知识流动与共创（[[Knowledge Mobilisation]]）。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 指出既有研究利用模型多聚焦于个体决策者的认知与态度，对“[[New Public Management\|新公共管理]]”等宏观问责体制如何系统性诱发“象征性使用”和“合规表演”缺乏足够的制度权力分析。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 指出早期的启蒙模型虽然概念解释力强，但在实证测评中由于其隐蔽与扩散性特征，极难进行量化因果归因与效果分离。
 

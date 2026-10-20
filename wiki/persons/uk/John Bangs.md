@@ -79,7 +79,7 @@ updated: 2026-10-20
 > - **核心角色** 全球教师专业组织介入跨国教育证据治理的奠基人；[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）核心发起人兼联合主席；致力于打破新自由主义官僚对教育决策的排他性垄断，搭建部级高官与教师工会基于实证研究展开闭门平等协商的跨国机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 > - **代表贡献** 推动设立[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）；促成在[[OECD\|经合组织]]大型调查中确立工会的数据共同所有权原则；主导向[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）反向注入教师工作压力与分布式领导力量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 约翰·班斯是[[International Education\|国际教育]]界将教师集体发声转化为实证政策影响力的领军人物。他主导创设的国际教师职业峰会开创了历史先河，证明了一支充满自信且作为平等伙伴参与改革的教师队伍是卓越教育体系的基石。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
 >
 > *John Bangs has been a pioneering figure in transforming the collective voice of teachers into empirical policy influence. The International Summits on the Teaching Profession, which he helped initiate, demonstrated that a confident teaching profession engaged as equals is the bedrock of outstanding education systems.* (Bangs, 2020; cited in Bangs et al., 2022, p. 211)
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育改革陷入“政策频出却执行瘫痪”的系统性困境，根本病灶在于决策者将教师排斥在方案设计之外并贬为单纯执行命令的受试工具。真正的[[Evidence-Based Education\|循证教育]]治理必须将有组织的教师专业集体视作平等的改革设计伙伴；工会必须发展独立的实证科研能力，争取跨国数据共同所有权，并在免受政治作秀干扰的闭门保密环境下与民选高官开展基于证据的坦诚战略对话。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 
 > [!citation-card] 教师集体发声是教育改革卓越的决定性基石
@@ -141,7 +141,7 @@ updated: 2026-10-20
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession\|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act\|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
 > - **跨国传播** 将英美工会参与[[Output-Oriented Governance\|循证治理]]的经验拓展至[[OECD\|经合组织]]全部成员国，为拉美、亚太等发展中地区的教师专业化发展提供了跨国行动蓝本。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 详细记录了班斯关于 EI 智库战略、TALIS 量表重塑与 ISTP 峰会十一年运作机制的系统论述。
 
 ---

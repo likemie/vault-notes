@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **用途** 帮助受教者拉开与残酷日常现实的反思距离，客观审视自身受压迫境遇。
 > - **边界** 不等于教学插图；必须凝聚深层社会权力矛盾与[[Open-Mindedness|开放性]]问题。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 编码是指将学习者的日常生存情境转化为具象的表达形态，而[[Decodification\|解码]]则是通过对话对其展开分析，揭示该编码所代表的现实中此前未被觉察的含义。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53 注脚61)]]
 >
 > *By codification Freire means a learner's day-to-day situations, while decodification is the analysis which takes place through dialogue. (Heaney, 2005; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 53]])*

@@ -58,7 +58,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > HEInnovate 提供覆盖 8 大维度的免费在线机构自我评估工具（Self-Assessment Tool），指导大学诊断自身在培育学生[[Creativity\|创造力]]、跨学科[[Problem Solving\|问题解决]]与创新考核方面的系统能力并制定改进策略。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 11–12)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 赋能高校自主评估其创新创业生态，推动教学与考核法向激发创造力转型。
 > - **核心评估维度** 领导力与治理、组织能力与资源、教与学中创业与创造力培育、跨学科创新准备、国际化与数字转型等 8 个领域。
 > - **考核机制引导** 明确要求高校提供有利于试错、开放式探究与真实问题解决的[[Formative Assessment\|形成性评价]]机制。

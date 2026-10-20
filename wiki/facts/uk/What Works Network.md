@@ -103,7 +103,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 通过中央政府顶层倡导与多元资助孵化，在教育、医疗、警务、福祉等关键公共领域设立专门的有效性中心（What Works Centres, WWCs），运用严格方法综合存量科研证据（特别是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Systematic Review\|系统综述]]），研制通俗直观的证据工具包与实践指南，并资助因果试验以弥合学术研究与一线决策之间的鸿沟。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–150)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 破除学术研究碎片化，确立分领域[[Evidence-Based Policy-Making|循证决策]]基准，淘汰缺乏实证支持的热门虚假干预，降低专业人员获取与研读证据的认知门槛，最终提升公共财政投资效益与公共服务受益人的实际福祉。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150, 156–157)]]
 > - **适用对象** 一方面规范中央部委与地方政府决策公职人员的政策采购与方案论证行为；另一方面为[[School Leadership\|学校领导]]者、教师、警官、社工等基层一线专业人员提供日常实践指南。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **政策工具** 设立专项国家留本基金与多元匹配资助、发布循证工具包（如 《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》、警务《犯罪减少工具包》）、研制分领域实践指南（Practice Guides）、资助开展大规模实地因果试验（RCT），以及构建区域中介扩散网络（如[[Research Schools Network\|研究学校网络]]）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 19–20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- 政策发展历程
+> [!dev-timeline] 政策发展历程
 > - **2000 年代早期 — [[Evidence-Based Policy-Making|循证决策]]思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses\|证据清算中心]]起步运作，[[Systematic Review\|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 3)]]
 > - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust\|萨顿信托]]（Sutton Trust）联合英国教育部设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
 > - **2013 — 内阁办公室正式启动有效性网络（WWN）与指定教育中心** 英国政府内阁办公室正式倡导并发布有效性网络国家规划，正式指定[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Sutton Trust\|萨顿信托]]联合作为英格兰“教育领域有效性中心”（What Works Centre for Education），全面纳入覆盖全英逾 2,500 亿英镑公共支出的宏观网络；本·戈尔达克（Goldacre, 2013b）发表《将证据注入教育》政府独立咨询报告，强烈呼吁在学校系统普及[[Randomised Controlled Trials\|随机对照试验]]（RCT），推动网络化[[Output-Oriented Governance\|循证治理]]上升为国家战略。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
@@ -155,7 +155,7 @@ updated: 2026-10-20
 > | | **儿童社会关怀有效性中心**<br>（What Works for Children's Social Care, WWCSC） | 脆弱儿童保护、家庭寄养与地方社会工作；地方政府儿童服务部、司法法庭与一线社工（一线实践端） | 由英国教育部出资委托、英国国家科技艺术基金会（Nesta）智库孵化后独立的慈善法人（现合并重组为 Foundations） | 建立社会关怀实践证据工具包、资助地方当局开展家庭保障模式多中心因果试验、发布实务标准 | 深入高行政阻力与伦理争议的高风险领域，强调证据标准中的[[Implementation Fidelity\|实施保真度]]，弥补纯效果测度的不足（pp. 149–150） |
 > | **观察员与关联中介组织** | **国际公共政策观察站**<br>（IPPO, International Public Policy Observatory） | 重大突发公共卫生危机、社会不平等、后疫情期教育与经济复苏；联合王国四方政府高层决策者与智库（国家宏观决策端） | 大学牵头跨国研究观察站；由伦敦大学学院教育研究院（UCL IOE）牵头联合多所顶尖高校组建，ESRC 资助设立 | 开辟 2–4 周极速系统综述（Rapid Evidence Syntheses）响应通道、组织四方政府高层闭门证据圆桌会与跨国政策数据库 | 在重大危机中探索即时响应与科学严谨性的平衡，突破传统中介漫长综述周期的局限，构建敏捷[[Knowledge Mediation\|知识中介]]元架构（pp. 147, 150） |
 
-> [!pathways]- 实施路径与战略转向
+> [!pathways] 实施路径与战略转向
 > - **从单向文献综合向扎根区域生态的深度护航转向**
 >   有效性中心在创设初期多将资源集中于证据综合与信息发布（七大初期核心目标分布：初级研究、科研共创、证据综合、打通渠道、支持采纳、循证指南、落地护航）。实践表明单纯提供证据摘要难以驱动系统性变革，促使各中心探索扎根区域生态的深度实施与行为动员机制：
 >   1. **EEF 研究学校网络（Research Schools Network, RSN）** EEF 联合有效性教育研究所（[[Institute for Effective Education\|IEE]]）在全英格兰分批遴选数十所高绩效学校设立区域网络，由一线骨干教师兼任“实证大使”，通过校际共同体向周边数百所薄弱校提供阶梯式专业发展（CPD）与长效陪伴（Gu et al., 2020; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）。
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标体系
+> [!indicators] 评价指标体系
 > - **投入指标** 英国教育部 1.25 亿英镑初始留本基金（[[Education Endowment Foundation\|EEF]]）、国家彩票社区基金 5000 万英镑（老龄优化中心）、内政部与 ESRC 联合专项资助；全英设立 9 大领域国家级有效性中心。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **过程指标** 《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》涵盖 5,500+ 项实证研究总结、资助 200 余项大规模多臂学校 [[Randomised Controlled Trials\|RCT]]；全英逾数万名教师与管理层常态化查阅工具包；建立涵盖数十所骨干校的全国[[Research Schools Network\|研究学校网络]]（RSN）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 > - **结果指标** 成功排除缺乏证据支持的热门干预（如[[Learning Styles|学习风格]]理论、简单缩减[[Class Size\|班级规模]]）；促成助教角色的结构性优化，并使参与推广的学校 11 岁学生在全国统考（Key Stage 2, KS2）中获得显著学业月数增益；确立社会科学循证评价规范（如警务 [[EMMIE Framework\|EMMIE]] 框架、无家可归证据差距图谱）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150, 157)]]

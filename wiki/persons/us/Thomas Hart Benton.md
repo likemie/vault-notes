@@ -55,7 +55,7 @@ updated: 2026-10-20
 > - **核心角色** 在美国现代艺术史与艺术教育史上扮演具象表现主义与现实主义的守望者角色；以不妥协的抵抗性格与直率的批评风格著称，为师生间通过思想交锋激发突破性[[Creativity|创造力]]提供了经典范例。
 > - **代表贡献** 创作《今日美国》（*America Today*）等宏大具象壁画系列；培养了[[Jackson Pollock|杰克逊·波洛克]]（Jackson Pollock）等一代艺术大师。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
 
-> [!citation-card]- 本顿论早期对波洛克泼洒艺术的怀疑
+> [!citation-card] 本顿论早期对波洛克泼洒艺术的怀疑
 > 本顿起初对波洛克的画布不屑一顾，将其形容为‘泼洒颜料的噱头’，并蔑视它们拥有任何长期价值的想法。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
 >
 > *Benton initially thought little of Pollock’s canvases, describing them as "paint-spilling innovations" and "scorned the idea of their possessing any long-term value."*
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的艺术探索要求创作者具备强烈的批判定力与抵抗性格，拒绝为了顺应潮流或博取大众赞许而轻易抛弃自身坚信的表现形式；[[Creativity|创造性]]传承并非来自温和顺从的讨好，而是来自高强度的观念交锋、建设性批评与创造性摩擦。
 
 > [!citation-card] 抵抗性导师与反讨好品格
@@ -107,7 +107,7 @@ updated: 2026-10-20
 > - **艺术教育与非从众[[Creativity|创造力]]** 作为导师培养了[[Jackson Pollock|波洛克]]等艺术巨匠，开创了通过严厉批判与包容特立独行激发潜在创造力的师生互动典范。
 > - **工程与创新[[Organizational Culture|组织文化]]** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其与波洛克的[[Student-Teacher Relationship|师生关系]]提炼为反思现代企业“讨好文化”（Culture of Agreeableness）的核心案例，论证了允许建设性人际摩擦与包容尖锐异见对实现突破性创新的关键价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 借助本顿与波洛克的师生交锋批判过度讨好的平庸文化，论证非从众性格与创造性摩擦对实现颠覆性创新的不可替代性。
 
 ---

@@ -263,7 +263,7 @@ journal: Educational Psychologist
 
 从外部观察，美国立法过程往往显得喧嚣混乱、难以捉摸；然而从国会内部的局内人视角审视，这一环境固然快节奏且动态多变，但内在却具有高度规律性与秩序性（p.43）。
 
-> [!figure]- 图 1　公共政策阶段模型与核心驱动要素
+> [!figure] 图 1　公共政策阶段模型与核心驱动要素
 > ![](https://img.mylikemie.icu/sources/Serpell_2020_EP/figures/Serpell_2020_EP_Fig1_Stage_Model_Policymaking.jpg)
 
 基于[[Six-Stage Model of Policymaking|公共政策六阶段模型]]（Oakley et al., 2013），政策生命周期涵盖从[[Problem Finding|问题界定]]到[[Implementation and Process Evaluation|实施评估]]的完整闭环，而教育研究者在前端四个关键阶段拥有明确的介入窗口与驱动力量（pp.43–46）：

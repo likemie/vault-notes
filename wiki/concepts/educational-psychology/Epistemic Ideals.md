@@ -90,7 +90,7 @@ updated: 2026-10-20
 >
 > *Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence... When composing arguments, people are guided by epistemic ideals regarding what counts as adequate support for the claims being made... High-quality arguments are grounded in appropriate epistemic ideals; low-quality arguments rely on problematic ideals.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **[[Epistemic Aims]]（认识论目标）** 认识目标是指向真理、因果理解或经验解释的探究意图，回答为什么探究；认识论理想则是衡量该产出是否达成高标准的检验规则，回答怎样才算令人信服的优质成果。
 > - **[[Reliable Epistemic Processes]]（可靠认识论过程）** 认识论过程是生成证据或模型的实践动作与操作规程，回答通过什么手段获取知识；认识论理想是对产出状态的质性标准，回答达到何种标准。
 > - **形式逻辑有效性** 认识论理想具有学科情境依附性与经验性，超越形式逻辑的抽象命题结构，紧密依赖特定学科领域对数据质量、直接性与综合性的专业规范。

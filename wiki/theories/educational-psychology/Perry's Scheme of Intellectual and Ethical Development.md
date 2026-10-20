@@ -76,7 +76,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 大学生的智力与认识论发展并非零散经验的线性累加，而是经历了一个从“非黑即白的绝对权威依赖（二元论）”，走向“人人皆有理的主观并存（多元论）”，进而跃迁至“依语境证据评估知识（相对主义）”，并最终在不确定世界中确立自我价值与学术使命（相对主义内的承诺）的阶梯式质变过程。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 91)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一演化序列的核心在于认知结构的质变——学生从最初将知识视为外部权威掌握并下达的绝对事实，逐步意识到知识是人类在特定语境中基于证据建构的产物，最终认识到个体必须在相对主义的复杂世界中勇于承担主观选择与价值承诺的伦理责任。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 91)]]
 >
 > *The scheme describes a journey from a simplistic, categorical view of knowledge to a complex, contextual understanding of the world, culminating in the capacity for personal commitment within a relativistic framework.*
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ### 延伸命题
 
-> [!proposition-chain]- 延伸命题：认知发展的防御与停滞机制
+> [!proposition-chain] 延伸命题：认知发展的防御与停滞机制
 > - **推论一（源自命题一）** 阶段发展并非单向顺利推进，面对无法消化的相对主义危机时，个体可能启动三种心理防御机制：
 >   - **暂时搁置（Temporizing）** 在某个位置上长期停留，犹豫不决，推迟进一步的承诺与发展。
 >   - **逃避退缩（Escape）** 过度滥用相对主义作为逃避个人责任与承诺的借口（如陷入虚无主义的“既然一切都是相对的，那什么都无所谓”）。
@@ -226,7 +226,7 @@ updated: 2026-10-20
 > >
 > > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** [[Meta-analysis\|元分析]]数据显示，初中生（$r = .246$）和小学生（$r = .212$）的认识论与[[Academic Achievement\|学业成就]]关联显著高于大学生（$r = .131$），彻底颠覆了佩里传统发展模型对低龄学习者的低估，证明只要情境得当，中小学生同样能展现评价主义等高阶认识论认知。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理并指出佩里图式的白人男性样本偏差及高阶位置中伦理承诺与认知信念的[[Construct\|构念]]混淆。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 指出佩里传统阶段发展模型对低龄儿童认识论能力的低估，并揭示宏观阶段自陈量表较低的[[Reliability\|信度]]限制了其解释力。
 

@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **核心角色** 当代国际组织行为学、非国家行为体参与与跨国教育治理政治学的前沿领军学者；将国际关系机制分析引入比较教育政策研究，开创“硬[[Soft Power by Hard Facts\|事实软实力]]”与“[[Education-for-Mandates\|使命性教育嵌入]]”研究传统。
 > - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；构建涵盖全球 30 个政府间组织涉教育规章的 IO-ED 权威实证数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中奠定国际政治学分析基石。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 克里斯汀·马滕斯敏锐地捕捉到了当代全球治理中一种隐蔽而强大的权力形态：国际组织无需动用主权强权或经济制裁，仅凭对量化硬事实的垄断生产与议程设置，便能对主权国家的公共政策产生深远的认知塑造与规制效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–540)]]
 >
 > *Kerstin Martens acutely captured a subtle yet formidable form of power in contemporary global governance: without resorting to sovereign coercion or economic sanctions, international organisations can exert profound cognitive shaping and regulatory effects on sovereign public policies merely through their monopolistic production of quantitative hard facts and strategic agenda-setting.*
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 当代全球治理中，国际组织的权威基础已从传统的条约法律强制转移至对专业知识与测量指标的垄断性生产。面对现代公共决策固有的歧义性与政治不确定性，国际组织扮演着超级“[[Policy Brokerage\|政策中介]]”的角色；通过将自身的法定使命（如促进经济增长、维护国际和平、保障自由贸易）转译并强行嵌入教育政策议程，国际组织利用量化指标构筑起坚硬的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]，以看似不偏不倚的科学硬事实施展强大的软性[[Epistemology\|认识论]]规制，驱动全球公共政策形成无强制的制度趋同。
 
 > [!citation-card] 硬事实构筑软性规制霸权的核心逻辑
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > - **政策路径** 促使欧洲议会与多国教育决策智库重新审视[[OECD\|经合组织]]等外部经济组织发布的指标建议，警惕其工具性使命对国家教育本体价值的扭曲。
 > - **跨国／跨领域传播** 成果跨越比较政治学、社会政策学、公共行政学与教育学，在全欧乃至全球社会科学界产生跨学科[[Demonstration Effect|示范效应]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
 

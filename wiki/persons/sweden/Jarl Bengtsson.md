@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **核心角色** 战后[[International Education\|国际教育]]政策史中最具战略远见的组织操盘手与幕后架构师；一手推动经合组织摆脱早期单纯的劳动力规划，跨越式转型为掌控全球教育标准、跨国指标与学业评价的终极智库。
 > - **代表贡献** 早期推动人文主义[[Lifelong Learning\|终身学习]]先驱概念“循环教育”（Recurrent Education）；冷战后期全面执掌与发起[[International Indicators of Education Systems\|国际教育系统指标项目]]（INES），奠定 1992 年首版《[[Education at a Glance\|教育概览]]》（EAG）技术基石；在 1990 年代力主开发跨国能力测试，直接催生了 2000 年 [[PISA]] 的诞生。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 雅尔·本特森在 CERI 执掌三十年，是经合组织实现从‘理念实验室’向‘指标与评估帝国’战略飞跃的灵魂人物；他深知若无坚硬的统计数据与比较基准作为[[Scaffolding\|脚手架]]，国际组织在主权国家的政策辩论中便毫无立足之地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
 > *Steering CERI for three decades, Jarl Bengtsson was the visionary architect behind the OECD's strategic leap from an 'ideas laboratory' to an 'indicator and evaluation empire'; he keenly understood that without hard statistical data and comparative benchmarks as scaffolding, international organisations would hold no ground in sovereign policy debates.*
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 跨国教育治理的权威并不取决于强制性的国际法指令，而取决于国际组织能否建立起一套被成员国技术官僚广泛接受、具备高度[[Commensuration\|通约]]性与政治防御力的比较统计指标。通过将教育改革的[[Problem Finding\|问题界定]]权嵌入指标编制规程中，国际组织得以在看似纯粹的技术合作网络中重塑主权国家的教育发展优先序。正是指标的去语境化与客观科学外观，使数字成为支撑公共政策[[Façade of Rationality\|理性表象]]的强韧[[Scaffolding\|脚手架]]。
 
 > [!citation-card] 本特森论指标网络作为国际治理的核心工具
@@ -138,7 +138,7 @@ updated: 2026-10-20
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观[[Competitiveness|竞争力]]的战略核心。
 > - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm\|范式]]被[[World Bank\|世界银行]]、[[EU|欧盟]]委员会（欧委会教育与培训监测框架）以及 [[UNESCO]] 统计研究所（[[UNESCO Institute for Statistics\|UIS]]）全面仿效。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 详尽记录本特森在 1980 年代末如何突破各国外交疑虑，开创 [[International Indicators of Education Systems\|INES]] 指标项目并确立 OECD 生产“可计算世界”的技术神话。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将本特森领导下的 [[Centre for Educational Research and Innovation\|CERI]] 转型确立为 OECD 从技术官僚劳动力预测迈向现代量化[[Policy Brokerage\|政策中介]]的关键枢纽。
 

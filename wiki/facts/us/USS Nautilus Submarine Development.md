@@ -65,7 +65,7 @@ updated: 2026-10-16
 > [!claim] 核心工程假说与技术路线
 > 通过压水核反应堆（Pressurized Water Reactor, PWR）技术将浓缩铀链式核裂变释放的热能转化为高温蒸汽驱动汽轮机，使潜艇彻底摆脱对化石燃料与大气氧气的依赖，实现真正的全天候隐蔽深海巡航。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 制造出能够在水下连续潜航数千英里、时速超过 20 节且免遭常规鱼雷与航空兵有效拦截的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
 > - **关键技术突破** 第一代潜艇热反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W）高压密封与辐射[[Screening Off|屏蔽]]、耐压双壳体结构、舰载蒸汽轮机与电力传动系统深度集成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 > - **工程组织控制** [[Hyman Rickover|里科弗]]推行极端严苛的技术审查与穿透式品控管理，严禁官僚层级拖延与责任推诿，要求关键部件所有供应商直接面对最高质量问责。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–185)]]
@@ -95,7 +95,7 @@ updated: 2026-10-16
 > - **核动力研发机构** 西屋电气（Westinghouse Electric Corporation）与爱达荷国家反应堆试验站，负责反应堆物理设计与陆上原型堆测试。
 > - **实战用户** 美国海军潜艇部队，直接在极端远洋巡航中检验战术性能并反馈迭代。
 
-> [!pathways]- 实施路径与工程管理
+> [!pathways] 实施路径与工程管理
 > - **打破官僚程序** 严格实行结果问责制，里科弗直接下令烧毁阻碍进度的规章手册，确保工程人员将全部注意力集中于物理[[Reliability|可靠性]]与实战交付。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 185)]]
 > - **跨机构强力统合** 打破海军军种内耗与文职官僚阻隔，实现从核物理基础科研到舰艇工程制造的无缝集成。
 

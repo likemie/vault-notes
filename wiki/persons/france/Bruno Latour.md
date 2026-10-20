@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 社会并非先验存在的[[Independent Variable\|自变量]]或宏观实体，而是由人类与非人类行动者（法律、技术、仪器、文本）通过转译与关系物质性临时装配而成的网络效果；权力和知识的普遍性依靠“[[Center of Calculation\|计算中心]]”在远处汇聚“不变移动物”并辐射标准来实现，而非中心意志的自发扩散。（Latour, 1987, 2005; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 
 > [!citation-card] 拉图尔论计算中心与从远处采取行动
@@ -137,7 +137,7 @@ updated: 2026-10-20
 > - **教育政策与比较教育路径** 深刻启发了批判政策社会学：学者借用其“[[Center of Calculation\|计算中心]]”与“不变移动物”解构国际组织测评（[[PISA]]）与国家数据监测（[[Vergleichsarbeiten\|VERA]]）的[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Klerides_2023_CE\|Klerides, 2023]]）；借用其“互客体性”与耐用材料装配解构国家[[Educational Brokerage Agency\|证据中介机构]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）与数字课堂硬件规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 > - **跨国／跨领域传播** 思想广泛辐射至建筑学、生态学、法学、人类学与管理学，并在全球学术界引发对非人类能动性的广泛探讨。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合拉图尔的计算中心与[[Topological Spatialisation\|拓扑空间]]理论，分析德国教育质量监测[[Data Infrastructure\|数据基础设施]]如何实现跨尺度的远处治理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 借用拉图尔互客体性与耐用材料装配理论，解构澳大利亚国家证据中介（[[Australian Education Research Organisation\|AERO]]）背后的非公立权力渗透。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用拉图尔 [[Actor-Network Theory\|ANT]] 与非人类能动性概念，剖析阿根廷国家数字化项目中微观硬件对课堂教学秩序的直接建构。

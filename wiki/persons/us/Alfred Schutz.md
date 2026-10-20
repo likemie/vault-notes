@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 舒茨主张，社会现实绝非独立于人类行动者意识之外的客观物化实体，而是主体在日常“生活世界”中共同创造与经验的产物。社会世界本质上是一个由主观意义所浸润的“主体间性世界”。行动者借由[[Reflexivity\|反思性]]回溯赋予经验流以主观意义，依托传记位置所沉淀的“常识知识库”与“[[Typification\|类型化]]”图式理解他人行为；人类穿梭于包含日常生活、科学探究与艺术梦境的“多重实在”之间，各实在均遵循其特定的认知风格与情境规则。社会科学的任务并非强行套用自然科学的因果规律，而是基于行动者“第一序[[Construct\|构念]]”提炼出逻辑一致、主观充分的“第二序构念”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 日常生活世界的意义建构机制
@@ -133,7 +133,7 @@ updated: 2026-10-20
 > - **方法路径** 为[[Qualitative Research\|质性研究]]中的[[Interpretive Paradigm\|诠释范式]]确立了第一序[[Construct\|构念]]（参与者常识理解）与第二序构念（研究者科学概念）的[[Operationalization\|操作化]]桥梁，深刻启蒙了加芬克尔（[[Harold Garfinkel]]）的常人方法学，将日常[[Conversation Analysis|会话分析]]与破坏性实验推上微观探究前沿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **教育研究应用** 为微观教育[[Ethnography\|民族志]]、课堂互动[[Discourse Analysis\|话语分析]]、教师实践知识（Practitioner Knowledge）与学生亚文化分类图式研究提供了直接的理论透镜。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 系统阐释了舒茨的意识流、[[Reflexivity\|反思性]]、[[Typification\|类型化]]与多重实在理论，如何确立了诠释范式在教育研究中考察社会行动与生活世界的合法性。
 
 ---
@@ -162,7 +162,7 @@ updated: 2026-10-20
 > > - **[[Critical Theory\|批判理论]]与结构主义立场（Rex, 1974; Bernstein, 1974）** 批评舒茨过于迷恋行动者当下的主观意义与[[Typification\|类型化]]图式，严重忽视了深层结构性的客观权力不对称、意识形态蒙蔽与虚假意识；将社会现实仅仅归结为协商一致的常识，可能抹平阶级冲突与制度压迫的客观实在性。
 > > - **现象学社会学辩护立场** 指出任何宏观社会制度与权力结构，若脱离了个体行动者持续的常识理解、意义赋予与日常实践，都将沦为毫无生命力的抽象空壳；揭示常识构成机制恰恰是解构制度物化幻觉的首要前提。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 探讨了在教育与社会探究中，纯粹现象学取向因过度强调微观情境协商，可能面临难以解释宏观制度权力不对称与结构性制约的理论边界。
 
 ---

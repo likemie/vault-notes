@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 多组独立样本的观测[[Variable\|变量]]、潜变量因子载荷、测量截距与测量残差方差。
 > - **输出形式** 形态、弱、强、严格四阶段嵌套模型的拟合指数矩阵（$\chi^2$、$df$、[[Model Fit Indices in SEM and CFA\|RMSEA]]、SRMR、CFI）及其改变量（$\Delta\text{CFI}$、$\Delta\text{RMSEA}$）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 测量等值性确立了量表在不同子群体中具有相同的测量意义与单位。只有当强等值（截距等值）成立时，跨组潜变量均值比较才具有实质解释力；否则观测到的群体均值差异可能仅仅源于题项反应偏差而非真实的特质水平差异。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
 >
 > *Measurement invariance evaluates whether an instrument measures the same construct across different groups. Establishing scalar invariance is a necessary prerequisite for meaningful latent mean comparisons.*

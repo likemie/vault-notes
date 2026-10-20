@@ -83,7 +83,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 教学质量的根本改进无法通过自上而下的行政命令或理论宣讲达成，而必须依靠结构化的“教学发展模块”为教师提供反思支架，并将单体学校嵌入跨校专业教研网络（Netzwerke），使一线教师在平等的同侪共研与[[Recontextualization|本土重构]]中重塑专业信念与教学[[Habitus|惯习]]。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 11; Stadler et al., 2007)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差异化分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
 > - **跨校教研网络（Schulnetzwerke）** 打破单体学校孤立状态，由地理位置相邻的 2–4 所学校结成基层教研联合体（Schulset）。每个联合体由学科教研组长和骨干教师组成，定期展开协同备课、互访听课与案例剖析。
 > - **区域协调员与专业支架** 设立区域教研协调员（Koordinator/innen），由各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）会同大学学科专家，为协调员提供常态化的理论研修与咨询支架。

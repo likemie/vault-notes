@@ -94,7 +94,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2001 年：[[Lisbon Strategy\|里斯本议程]]启动，首次尝试将创新和教育原则转化为可操作的十年目标([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])
 > - 2010 年：[[EU|欧盟]]委员会发布《EUROPE 2020: 智能、可持续与包容性增长战略》通讯文件（European Commission, 2010）
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b）
@@ -118,7 +118,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]]指出，Europe 2020 通过[[Performance Indicators\|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
 > - 战略所承载的[[Theory of Change\|变革理论]]——[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同演化产生互利增效——在[[Discourse|话语]]层面被自然化为[[Doxa\|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity\|异质性]]挑战（p.174–175）
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - Europe 2020 核心目标：将早期辍学率降至 10% 以下；将 15 岁人群阅读、数学和科学低成就者比例降至 15% 以下（p.171）
 > - 涵盖当时[[EU|欧盟]] 28 个成员国的所有 NUTS2 区域（p.169）
 
@@ -131,7 +131,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Performance Indicators]] — 基准管理是 Europe 2020 的核心治理机制
 > - [[Theories of Policy Change]] — 战略承载"创新+教育=智能增长"的核心因果叙事
 > - [[Selectivity]] — 战略框架隐含的自由主义经济秩序预设构成结构性选择

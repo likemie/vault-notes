@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 实证教育学与[[Evidence-Based Education|循证教育]]决策必须建立在无偏且严密的统计数学推导与正确的因果[[Ontology|本体论]]之上；任何缺乏精度加权、忽视文献重叠、混淆测度指标并抹平情境调节[[Variable|变量]]的宏观二阶[[Meta-meta-analysis|元综合]]，不仅无法带来累积性知识进步，反而会借由数字精确性的科学假象制造严重的政策与教学误导；必须将实证结果归档与商业学术期刊体制彻底解耦，由学术界共建共享全量开放的标准化证据[[Data Infrastructure|数据基础设施]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 > [!citation-card] 中央证据数据库建议
@@ -123,7 +123,7 @@ updated: 2026-10-20
 > - **理论路径** 提出解构教育有效性排行的四大不可[[Commensuration|通约]]本体范畴（制度框架条件、个体心理特征、综合教学方案、微观设计变体），深刻批判了量化循证政策中的激进通约主义与[[Category Mistake|范畴错误]]。
 > - **制度路径** 率先倡导将实证数据存缴作为“适合列入学者出版物清单的学术成果”（Publikationslisten; Stanat, 2012）予以体制承认，从激励机制根源终结商业期刊引致的[[Publication Bias|发表偏倚]]与数据黑箱，为开放科学证据基础设施建设指明了方向。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统构建二级元分析数学检验模型，对《[[Visible Learning|可见的学习]]》展开长达六步的统计审计与中央证据库制度设计。
 > - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的六大批判谱系，将 Wecker et al. 确立为方法论统计技术审计的奠基性文献。
 

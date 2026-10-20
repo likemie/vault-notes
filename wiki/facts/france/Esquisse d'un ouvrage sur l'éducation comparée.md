@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 《计划》主体由专论陈述与包含数百道题目的标准化问卷组成，设计了极其精密的实证调查架构：
 
-> [!policy-design]- 调查架构：六大领域与比较观察表
+> [!policy-design] 调查架构：六大领域与比较观察表
 > - **六大教育考察领域（Six Educational Areas）**
 >   1. **初等与大众教育（Primary and Common Education）** 涵盖学校数量与经费、学生入学年龄与入学率、师范培养与俸禄晋升、体育卫生与疫苗接种、道德与宗教教育、基于[[Faculty Psychology\|官能心理学]]的心智智力训练等。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 15]]）
 >   2. **中等与古典教育（Secondary and Classical Education）** 涵盖文理中学及[[Boarding Schools\|寄宿学校]]建制、课程设置、古典文献研读、修辞与法律学习、道德陶冶与身体锻炼等。（p. 15）
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 朱利安在《计划》引言中对比较教育诊断功能的经典阐述，成为学科史上的不朽名段：
 
-> [!citation-card]- 经典引言：朱利安论比较教育的诊断与改良功能
+> [!citation-card] 经典引言：朱利安论比较教育的诊断与改良功能
 > 依据统一顺序在相同时间搜集的这些关于欧洲所有国家教育与公共教学状况的信息分析摘要，将能在不到三年的时间内，连续提供反映欧洲各国在此重要领域现状的比较观察表。人们由此可以轻而易举地判断哪些国家正在前进、哪些正在倒退、哪些保持停滞；每一国家薄弱和患病的环节何在；内部缺陷的原因是什么……哪些改进措施能够适于从一个国家移植到另一个国家，并在根据环境和地方特征做出适度修正后加以推行。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 >
 > *These analytical summaries of information, on the condition of education and public instruction in all the countries of Europe, would supply successively comparative tables of the present state of European nations in regard to this important aspect. One could judge with ease those which are advancing; those which are falling back, those which remain stationary; what are in each country the deficient and ailing sections ... finally, which parts offer improvement capable of being transported from one country to another, with modifications and changes which circumstances and localities would determine suitable.* (Fraser, 1964:37)
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 实施情况与方法学反思
 
-> [!pathways]- 实施路径与历史受挫
+> [!pathways] 实施路径与历史受挫
 > - **瑞士 22 州作为首期试点的构想** 朱利安最初试图将[[Questionnaire\|问卷]]运用于瑞士 22 个州，旨在通过跨州教育比较促进各州取长补短，进而“培养一种泛瑞士的国民精神（national Helvetian mind）”，巩固瑞士的政治统一。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 14]]; Fraser, 1964:45–46）
 > - **私人学者的财力与行政瓶颈** 问卷庞大繁复，包含近三百个细分问题；在没有现代常设国际组织或本国政府资助的条件下，仅凭个人通信网络根本无法组织起跨国标准化数据的填报与回收。（pp. 15, 21）
 > - **向国家行政调查的[[Paradigm\|范式]]让位** 1830 年代后，比较教育的主导权迅速转移到由中央政府全权资助并带有明确立法授权的官方使节手中（如[[Victor Cousin\|库森]]的《普鲁士公共教育现状报告》），朱利安的纯学术与[[Cosmopolitanism|世界主义]]调查路径被更为务实的“国家利益[[Educational Meliorism\|改良主义]]”所取代。（pp. 25–26）
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
 
-> [!citation-card]- 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯
+> [!citation-card] 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯
 > 诺亚与埃克斯坦认为朱利安最终关切的是传播教育革新知识：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，他期望促进一种实用的、以儿童为中心的教学法，强调感官教育与融入社会生活的预备，一切均带有鲜明的人道主义色彩。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 18)]]
 >
 > *Influenced as he was by the ideas of Rousseau and Pestalozzi, he wished to encourage a practical, child-centered educational methodology that emphasized, among other things, education of the senses and preparation for life in society, all with a humanitarian emphasis.* (Noah & Eckstein, 1969:16)

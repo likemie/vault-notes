@@ -92,14 +92,14 @@ updated: 2026-10-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第28章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第28章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_28_Concept_Map.jpg)
 
 ## 章节内容
 
 质性数据分析（qualitative data analysis）的多种进路在此系统展开，为[[Content Analysis|内容分析]]与[[Grounded Theory|扎根理论]]（grounded theory）等后续议题奠基。质性数据分析没有单一正确方法，一切应遵循[[Fitness for Purpose|目的适配性]]（fitness for purpose）原则。其核心特征是把分析与诠释、把数据收集与数据分析融合在迭代往复的过程中（Gibbs, 2007, p. 3），分析的结果本身又构成进一步分析的数据。围绕这一主线，依次涉及质性数据的来源与[[Transcription in Qualitative Research|转录]]（transcription）选择、[[Rich and Thick Description|厚描述]]（thick description）与[[Reflexivity|反身性]]（reflexivity）对分析的规范、质性数据分析的伦理约束，以及计算机辅助质性数据分析（[[Qualitative Computer Software|CAQDAS]]）的支持与争议。
 
-> [!abstract]- Box 28.1　议题清单
+> [!abstract] Box 28.1　议题清单
 > 质性数据分析的几种形式在此展开讨论，内容分析与扎根理论留待后文专门处理。不同进路的质性数据分析包括：
 > - **数据分析、厚描述与反身性** 如何组织、解释与呈现质性数据
 > - **质性数据分析中的伦理** 如何保护个体的可识别性、保密与隐私
@@ -180,7 +180,7 @@ updated: 2026-10-16
 > [!warning] 转录的准确性与语音识别
 > 无论人工转录还是 AI 转写，转录者都需核验准确性，因为听错或混淆词语并不罕见（Gibbs, 2007, p. 19 提供了许多此类例子）。现代 AI 语音识别已高度成熟，可自动转写语音并大幅节省时间，但多说话者、口音与噪音情境下仍可能出错，输出须经人工校对。（28.1）
 
-> [!example]- 图28-1　线程对话中的邮件
+> [!example] 图28-1　线程对话中的邮件
 > 可以分析线程式（threaded）电子对话或交流，即同一主题被串联起来，或同一方之间的持续交流进入同一邮箱收件箱。图28-1展示了一组刻意准备的 Gmail 邮件序列，说明邮件如何标示线程式对话。单一线程中有八封邮件，Gmail 记录线程中先前每封邮件的开头词（位于当前打开邮件上方），并附先前邮件发送的时间（即年代顺序）。
 >
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_28-1_Threaded_Email_Conversation.jpg)
@@ -367,32 +367,32 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- Geertz 论[[Ethnography\|民族志]]学者的铭写
+> [!citation-card] Geertz 论[[Ethnography\|民族志]]学者的铭写
 > 民族志学者铭写社会[[Discourse|话语]]，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（28.2）
 >
 > *The ethnographer "inscribes" social discourse; he writes it down. In so doing, he turns it from a passing event, which exists only in its own moment of occurrence, into an [[Accounts\|account]], which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
 
-> [!citation-card]- Geertz 论民族志写作作为解读
+> [!citation-card] Geertz 论民族志写作作为解读
 > 做民族志，就像尝试阅读一部手稿，陌生、褪色、充满省略、不连贯、可疑的订正与倾向性的评论，写在转瞬即逝的行为范例中。（28.2）
 >
 > *Doing ethnography is like trying to read (in the sense of "[[Construct]] a reading of") a manuscript – foreign, faded, full of ellipses, incoherencies, suspicious emendations, and tendentious commentaries, but written not in conventionalized graphs of sound but in transient examples of shaped behavior. (Geertz, 1973, p. 10)*
 
-> [!citation-card]- Giddens 论[[Double Hermeneutic\|双重诠释]]
+> [!citation-card] Giddens 论[[Double Hermeneutic\|双重诠释]]
 > 由于获得的数据都包裹在社会事件之中，报告涉及一个双重诠释过程。研究者诠释参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。（28.2）
 >
 > *Since the data obtained are all couched in "social events", reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*
 
-> [!citation-card]- Gibbs 论写作即思考
+> [!citation-card] Gibbs 论写作即思考
 > 写作就是思考，[[Qualitative Research\|质性研究]]应尽早并频繁地开始书写与分析，而不是等数据收集结束。（28.2）
 >
 > *"Writing is thinking" (Gibbs, 2007, p. 25).*
 
-> [!citation-card]- Walford 论[[Transcription in Qualitative Research\|转录]]的拜物教
+> [!citation-card] Walford 论[[Transcription in Qualitative Research\|转录]]的拜物教
 > 转录极其耗时，研究者须权衡转录的成本与收益；直接分析录音录像也是可取的替代方案。（28.1–28.2）
 >
 > *Walford (2001, p. 92), commenting on the "fetish of transcription", admits that he "rarely fully transcribed more than a few interviews for any of [his] research studies".*
 
-> [!citation-card]- Kelle 论算法式诠释的限度
+> [!citation-card] Kelle 论算法式诠释的限度
 > 软件不分析文本，而是组织与结构化文本以供后续分析；文本所含多于可机械检查的内容。（28.4）
 >
 > *They do not analyse text so much as organize and structure text for subsequent analysis... there are strict limits to algorithmic interpretations of texts. (Kelle, 2004, p. 277)*

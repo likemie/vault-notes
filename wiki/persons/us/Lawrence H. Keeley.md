@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **核心角色** 史前战争研究与石器微痕分析（Microwear Analysis）领域的开创性学者；在人类学界以[[Positivism|实证主义]]方法系统解构关于前国家社会“原初和平”与“高贵野蛮人”的浪漫主义神话。
 > - **代表贡献** 出版里程碑式著作《文明前的战争：原始和平神话》（*War Before Civilization: The Myth of the Peaceful Savage*, 1996），实证揭示前现代部落战争的高频度与残暴性，为[[Moral Dualism|道德二元论]]批判提供了关键证据支撑。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 我们依然执迷于一种危险且普遍存在的‘和平过去’神话。正如基利在《文明前的战争》中所详述，前工业社会的部落冲突充斥着令人发指的残暴暴力，从北美大平原的夏延人到新几内亚的达尼人概莫能外。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Keeley, 1996; cited in Karp & Zamiska, 2025, p. 53]])
 >
 > *Yet we still cling to dangerous and pervasive mythologies of a 'pacified past,' as Lawrence H. Keeley described it in War Before Civilization, published in 1996, in which he recounted the history of often brutal violence in preindustrial societies.*
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类早期的前国家与前工业部落社会绝非[[Jean-Jacques Rousseau|卢梭]]式和平乐园，战争与有组织暴力在人类进化史上具有普遍性与高度破坏性。史前部落战争不仅频繁爆发，且在消灭战俘、屠杀妇孺及身体残损（如割喉、裂鼻、剧毒箭头）等残暴程度上往往超越了具有法律与道德规约的现代国家战争。将前现代社会或从属群体浪漫化为天然爱好和平的纯洁受害者，不仅是对人类学事实的背离，更构成了否定弱者复杂人性与施恶潜能的道德屈尊。
 
 > [!citation-card] 解构原始和平神话与揭示部落战争残暴性

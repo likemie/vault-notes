@@ -161,7 +161,7 @@ issuing_organization: ""
 
 ### 步骤一　AERO 的科学中立表象掩盖了其依据公司法设立及特许私营分包的制度底座
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[Australian Education Research Organisation\|AERO]] 对外自我标榜为超党派、客观中立的公共[[Educational Brokerage Agency\|证据经纪人]]，其合法性表面上借由《[[Gonski 2.0]]》国家审查报告的道德声誉获得包装；然而其法律底座实为依据《2001年公司法》设立的担保有限公司，并借由行政规程修改在法律上确立了与慈善组织合作并向营利咨询分包的特许权力。（pp. 2–3, 5）
 
 #### 1. 防野狗围栏隐喻与证据中介的客观中立神话
@@ -188,7 +188,7 @@ issuing_organization: ""
 
 ### 步骤二　AERO 是麦肯锡系风险慈善枢纽与跨国金融资本长期游说的制度化产物
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > AERO 绝非仅仅诞生于《[[Gonski 2.0]]》的单点政策建议，而是[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）自 2002 年创立以来，依托麦肯锡咨询背景，以及英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）、[[Sutton Trust\|萨顿信托]]与跨国投行等跨国[[Venture Philanthropy\|风险慈善]]网络长达十年精心组织游说的产物。（pp. 3, 5–7）
 
 #### 1. 澳大利亚社会创投的十年游说轨迹与原型试验
@@ -205,15 +205,15 @@ issuing_organization: ""
 
 #### 2. 跨国资助网络中的资本流动与影子节点
 
-> [!example]- 图1：澳大利亚社会创投（SVA）的政策网络映射
+> [!example] 图1：澳大利亚社会创投（SVA）的政策网络映射
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig1_SVA_Policy_Network.jpg)
 
 SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，年度政府补助达 120 万澳元，企业捐赠 600 万澳元，旗下商业咨询部门（SVA Consulting）年营业额近 1000 万澳元；财务披露证实其获得的政府财政补贴总额超过了其对外发放的赠款，实际充当了大型企业享受税收减免的避税庇护所（tax shelter）（pp. 5–6）。
 
-> [!example]- 图2：萨顿信托（The Sutton Trust）的跨国企业与金融资助者网络
+> [!example] 图2：萨顿信托（The Sutton Trust）的跨国企业与金融资助者网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig2_Sutton_Trust_Funders.jpg)
 
-> [!example]- 图3：[[Impetus\|动力基金会]]（Impetus）的跨国金融与私募股权资助网络
+> [!example] 图3：[[Impetus\|动力基金会]]（Impetus）的跨国金融与私募股权资助网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig3_Impetus_Funders.jpg)
 
 英国 EEF 资助母体[[Sutton Trust|萨顿信托]]（The Sutton Trust）与[[Impetus|动力基金会]]（Impetus）汇聚了美洲银行（Bank of America）、高盛集团（Goldman Sachs）、摩根大通（JP Morgan）、普华永道（PwC）等跨国投行、算法交易公司与商业律所资本；这些跨国金融资本流动至英国成立 EEF，EEF 再与必和必拓基金会（BHP Foundation）联合注资澳大利亚 SVA 与 [[Evidence for Learning|E4L]]，最终在澳大利亚国家政权内部装配出全新的国家机构（pp. 6–8）。
@@ -222,12 +222,12 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 
 ### 步骤三　跨界共同从属网络构筑异质治理层级并侵蚀公共科研的民主问责
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > AERO 的专家董事会在人事结构上呈现高度的[[Co-affiliation\|共同从属]]（co-affiliations）与多重从属性，其决策核心被前商业银行高管、风险慈善理事与跨国咨询顾问深度把持；这种公私模糊的异质网络不仅没有脱离政治，反而通过特许营利分包与税收规避，将公共教育资金与研究定义权让渡给私营资本，严重侵蚀了民主问责机制。（pp. 8–11）
 
 #### 1. 董事会成员的共同从属与交叉结网
 
-> [!example]- 图4：AERO 董事会成员的[[Co-affiliation\|共同从属]]与跨机构网络
+> [!example] 图4：AERO 董事会成员的[[Co-affiliation\|共同从属]]与跨机构网络
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig4_AERO_Directors_Coaffiliations.jpg)
 
 > [!feature] AERO 核心董事的跨界多重网络从属（pp. 9–10）

@@ -67,7 +67,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > EQF 确立了以“知识（Knowledge）、技能（Skills）与自主及责任（Responsibility and Autonomy）”为三维维度的 8 级阶梯式进阶架构，将批判性反思与创新[[Problem Solving|问题解决]]确立为高等教育阶段（第 6–8 级）的通用核心成果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
 
-> [!policy-design]- 8 级阶梯与高教高阶能力进阶
+> [!policy-design] 8 级阶梯与高教高阶能力进阶
 > - **第 6 级（学士学位 / Bachelor）** 掌握专业前沿的高级知识；展示解决复杂和[[Wicked Problem|劣构问题]]的创新技能；在不可预测的工作语境中展现自律决策与管理责任。
 > - **第 7 级（硕士学位 / Master）** 掌握跨学科高度专业化的批判性意识知识；具备开发新知识、整合多源信息并提出前沿创新方案的能力。
 > - **第 8 级（博士学位 / Doctorate）** 掌握最前沿学科哲学知识；具备批判性分析、评价和综合最复杂新思想的核心能力，引领新[[Paradigm|范式]]创新。

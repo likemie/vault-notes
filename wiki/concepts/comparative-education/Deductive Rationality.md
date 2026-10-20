@@ -53,7 +53,7 @@ updated: 2026-10-07
 > - **用途** 作为[[Critical Theory\|批判理论]]工具，用以横向解构当代大学管理主义的行政绩效枷锁，暴露并拷问学术界微观政治中对知识合法性的垄断。(p. 332)
 > - **边界** 区别于一般的大学行政管理（Administrative Management）——演绎理性特指带有排他性、压迫性，且直接干预、定义“合法[[Knowledge Production\|知识生产]]”的意识形态化管理话语。(p. 332)
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 译文：学术管理话语已成为“演绎理性”（Cowen 2005），即压缩的政策话语和控制话语。
 >
 > 原文：*"Academic-management discourses have become 'deductive rationalities' (Cowen 2005) which are compressed policy-words, words of control."* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])

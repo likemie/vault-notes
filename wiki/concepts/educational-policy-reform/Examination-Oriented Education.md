@@ -88,7 +88,7 @@ updated: 2026-10-20
 >
 > *People no longer read to explore the good, but to find topic sentences and circle transitional words.* (Collin, 2024, p. 16/149; 引自 Smith, 2026, p. 5)
 
-> [!boundary] 概念边界辨析
+> [!boundary]- 概念边界辨析
 > - **不等于 基于测试的问责制（[[Test-Based Accountability]]）** 考试问责制是新自由主义教育治理的跨国通用行政机制；应试教育则兼具制度问责、历史文化沉积与社会分层信念，具有更深厚的文化认同与道德责任色彩。
 > - **不等于 机械[[Rote Learning|死记硬背]]（Rote Learning）** 机械死记硬背仅是一种低阶认知记忆策略；应试教育涵盖了针对试题逻辑的高强度做题训练、模式匹配与解题策略建构，属于制度化系统工程。
 > - **不等于 正常的[[Academic Achievement|学业成就]]评估** 正常的学业评估旨在诊断学习过程并促进发展；应试教育将选拔性分流设定为教育终极目的，导致教学过程完全臣服于考试考核内容。

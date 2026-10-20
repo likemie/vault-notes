@@ -75,7 +75,7 @@ updated: 2026-10-20
 >   - **出版学科奠基专著** 1962 年出版《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik: Eine Einführung in ihre Geschichte, Theorie und [[Praxis]]*），成为战后欧陆比较教育学史的权威经典。
 >   - **倡导比较教育作为教育实践艺术的源流考据** 考据古典时代跨国教育观察与风土记录，指出比较探究源远流长且兼具教育实践艺术（educating art）品格，深涉德语语境下比较教育学（Vergleichende Pädagogik）与比较教育科学（Vergleichende Erziehungswissenschaft）的学科分界。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在德国这一第二核心国家中，第一时期的比较教育代表是弗里德里希·施奈德与弗朗茨·希尔克的个人学术贡献，而他们的后继者才开始掌管各大学的教授讲座席位或独立研究所。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 89)]]
 >
 > *In Germany as the second focal country, the first period was represented by the individual contributions of Friedrich Schneider and Franz Hilker, while their successors were in charge of university chairs or independent research institutes.*
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育学绝非散乱的海外考察游记，而是一门兼具教育实践艺术（educating art）与严谨科学认识规程的独立学科。科学的跨国比较必须通过由浅入深、循序渐进的认知阶梯推进：从客观描述出发，经过历史文化解释，通过设立共同比较准则（Tertium Comparationis）进行结构性并置，最终在深层比较中揭示制度运行与文化传统的因果法则，以此服务于国家教育体系的审慎改良与理性发展。
 
 希尔克在 1962 年专著中构建了享誉西方比较教育学界的四阶段方法论阶梯：
@@ -147,7 +147,7 @@ updated: 2026-10-20
 > - **[[Disciplinary Institutionalization|学科建制]]路径** 战后主持设立黑森州及联邦教育工作中心，编纂发布大量权威文献与动态报告，将德国比较教育从个人玄思推进为依托制度化文献库的专业学术事业。
 > - **跨国组织与平台** 积极参与倡建[[UNESCO|联合国教科文组织]]汉堡教育研究所（UIE），重构了二战后德国教育界与国际学术界、特别是西欧同行间的常态化对话机制。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统阐明施奈德与希尔克作为战后西德比较教育第一阶段双核奠基人的历史坐标。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者评析希尔克对古代比较探究实践艺术源流的梳理，及其在德语学科定名争鸣中的核心论述。
 

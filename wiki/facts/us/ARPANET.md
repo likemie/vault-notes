@@ -76,7 +76,7 @@ updated: 2026-10-20
 > [!claim] 核心机制假说
 > 通过摆脱传统电信垄断机构的专有线路交换模式，采用基于无中心分布式分组交换（Packet Switching）与异构网关互联的技术路线，并将核心通信协议置于公共领域（Public Domain），以零许可壁垒的大规模先导网络催生高度竞争的软硬件生态。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–40)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 验证分布式分组交换在恶劣网络环境与异构计算节点间传输数据的高[[Reliability|可靠性]]，建立跨高校与实验室的协同计算基础设施。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 > - **覆盖对象** 遍布全美的顶尖[[Research Universities|研究型大学]]计算机科学系、国家实验室及国防外包科研机构的主机群与终端。
 > - **干预措施** 资助理论学者进行分组交换协议设计；采购专用接口信息处理机（Interface Message Processor, IMP）作为通信网关；全资铺设 50 kbps 租用数字通信干线。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]

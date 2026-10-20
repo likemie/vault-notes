@@ -107,7 +107,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 西格蒙德·弗洛伊德（Sigmund Freud）主张，人类的显意识理性只是冰山一角，个体行为、社会文化与价值系统深层受制于被压抑的无意识本能冲动。这一思想在[[Epistemology|认识论]]上赋予人类前所未有的向内穿透力（Interrogation of the Mind），但其将宗教信仰与超验崇高道德还原为心理病理防御的[[Theoretical Perspective|理论取向]]，也为现代世俗精英阶层排斥严肃信仰的怀疑主义铺平了道路。
 
 > [!feature] 思想支柱

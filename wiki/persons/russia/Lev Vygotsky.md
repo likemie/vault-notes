@@ -71,7 +71,7 @@ related_arguments:
 > - **核心角色** 20 世纪社会文化理论（Sociocultural Theory）与第一代文化-历史[[Third Generation Activity Theory\|活动理论]]（CHAT）创始人；在心理学与教育学交汇处构建了中介符号、概念分化与社会认知发展的理论框架。
 > - **代表贡献** 提出心理中介三角（第一代活动理论）；提出科学概念与自发概念的[[Epistemology\|认识论]]区分；提出[[Zone of Proximal Development\|最近发展区]]（ZPD）与[[Scaffolding\|认知支架]]（Cognitive Scaffolding）理论。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 590, 596)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 提高学生的考试成绩与[[Learner-Centred Education\|以学生为中心的教育]]（LCE）并不冲突。维果茨基关于社会互动促进认知发展的见解，恰好呼应了[[Confucius\|孔子]]关于对话式教学有助于深度思考的古老信念。（p.596）
 >
 > *"Enhancing students’ examination results does not conflict with LCE... Moreover, Vygotsky’s insights echo Confucius’ beliefs that [[Dialogue in Education|dialogic teaching]] contributes to deep thinking." [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]*
@@ -100,7 +100,7 @@ related_arguments:
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类高级心理功能并非直接产生于生物神经刺激，而是由社会文化符号、语言与工具（Mediating Tools）所中介；学习是一个嵌入在社会历史与人际互动中的合作过程，学校系统教育通过传授科学概念引导认知发展。
 
 > [!claim] 科学概念与自发概念的分化
@@ -112,7 +112,7 @@ related_arguments:
 > [!claim] [[Scaffolding\|认知支架]]与社会化引导
 > 维果茨基学派提出**认知支架（Cognitive Scaffolding）** 与[[Zone of Proximal Development\|最近发展区]]理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 科学概念与自发概念的区分，为课程设计中理解日常知识与[[Theoretical Knowledge\|理论知识]]的区别提供了坚实基础。（p.4）
 >
 > *"Vygotsky's distinction between scientific and spontaneous concepts provides a foundational basis for distinguishing between everyday and theoretical knowledge in curriculum design." [[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]*
@@ -127,7 +127,7 @@ related_arguments:
 > - **政策与教学路径** 广泛影响了全局以学生为中心教育（[[Learner-Centred Education\|LCE]]）、[[Dialogue in Education|对话教学]]（Dialogic Teaching）与学科课程设计的编制。
 > - **批判路径** 在[[Educational Neuroscience\|教育神经科学]]（[[Educational Neuroscience\|Educational Neuroscience]]）兴起时，维果茨基社会文化理论被学者用于抵制将学习简化为大脑神经元生理机制的还原论，保护学习的社会性与关系维度。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 121)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 借用 Vygotsky 的科学概念与自发概念区分，论证社会实在论课程设计模型（CDCM）中知识连贯性的必要性。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 阐述 Vygotsky 社会文化互动理论在华北案例学校中与[[Confucius\|孔子]]对话传统产生的[[Selective Affinity\|选择性亲和]]，以及第一代活动理论在研究框架中的定位。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 引用 Vygotsky 社会文化理论（结合 Rose & Rose 1976），批判脑科学与[[Cognitive Load Theory\|认知负荷理论]]对教育社会性与关系维度的遮蔽。

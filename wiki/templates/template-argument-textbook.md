@@ -45,7 +45,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | [[Argument_BookFolder_Ch01|第1章 <章节标题>]] | 用一两句话说明这一章主要讲什么。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
 > | 第<X>章 <章节标题> | 若不分章节建页，保留普通章节名即可。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
 
-> [!knowledge-map]- 知识路线图
+> [!knowledge-map] 知识路线图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Knowledge_Map.jpg)
 
 ---
@@ -56,7 +56,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 #### 概念地图
 
-> [!knowledge-map]- 第X章　概念地图
+> [!knowledge-map] 第X章　概念地图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Concept_Map.jpg)
 
 #### 章节内容
@@ -70,14 +70,14 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **知识点二** 说明它与上一知识点的关系。
 > - **知识点三** 说明它如何转化为方法、案例或练习。
 
-> [!example]- 图X-X　图名或案例名
+> [!example] 图X-X　图名或案例名
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
 
 %% <book-folder> 与 sources/ 下的教材文件夹名一致。案例或练习无图时，删除图片行，改为说明文字或链接到对应条目。 %%
 
 #### 关键引用
 
-> [!citation-card]- 关键引用
+> [!citation-card] 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
 > *Original text or English translation.*

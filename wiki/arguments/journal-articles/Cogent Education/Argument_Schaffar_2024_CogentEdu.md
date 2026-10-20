@@ -84,7 +84,7 @@ updated: 2026-10-17
 > [!claim] 核心主张
 > PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、教化（[[Bildung]]）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策[[Discourse|话语]]、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
 > - **张力** [[Phenomenology\|现象学]]与教化传统主张的生活世界体验整体性、[[Open-Mindedness|开放性]]和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
 > - **贡献** 澄清了国际社会对芬兰取消学科的普遍误读，从概念考古学和知识社会学视角揭示了 PhBL 课程化背后的新自由主义悖论，为理解跨学科课程改革的政策风险提供了[[Analytic Framework\|分析框架]] (pp.2, 9–11)
@@ -142,7 +142,7 @@ updated: 2026-10-17
 
 ### 论证步骤一：现象学与生活世界中的现象体验
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 在 [[Phenomenon-Based Learning\|PhBL]] 中，现象是主体在以[[Intentionality|意向性]]（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，具有主观价值关联性。(pp.2–3)
 
 > [!chain-link] [[Phenomenology\|现象学]]体验链
@@ -163,7 +163,7 @@ updated: 2026-10-17
 
 ### 论证步骤二：学科划分的历史与跨学科深度整合
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 现行的学科划分是人类在探索生活世界不同现象过程中沉淀出的理论秩序。PhBL 旨在保持学科深度（Disciplinary Depth）的前提下进行跨学科整合（Cross-disciplinary Integration），并非取消[[Disciplinary Institutionalization|学科建制]]。(pp.4–5)
 
 > [!contrast-table] 学科秩序的演变与整合
@@ -180,10 +180,10 @@ updated: 2026-10-17
 
 ### 论证步骤三：德语区教育哲学及其对芬兰教化传统的塑造
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 芬兰教育体制深度植根于源自德国启盟运动时期的 [[Bildung]]（教化）与 [[Didaktik]]（教学论）传统，这两大传统赋予了 PhBL 追求社会正义、个人自治（Autonomy）和面向不确定未来进行批判性探索的规范性价值。(pp.5–6)
 
-> [!exegesis] 德语区哲学的本土化与批判性转化
+> [!exegesis]- 德语区哲学的本土化与批判性转化
 > - **教化的双重追问与非预设性** Bildung 关注何为人类以及如何成为人类这一非目的论（Non-teleological）的过程。Snellman 将其引入芬兰，强调个体的道德与精神自我修养。Bildung 主张教育面向不可预知的开放未来（Open future），与对既有规范的简单复制保持距离。(pp.5–6)
 > - **Klafki 的时代关键问题（Epochal key problems）** Didaktik 传统（特别是 [[Wolfgang Klafki]] 的批判建设性教学论）指出，教学设计者和教师无法预知学生未来需要的具体知识。因此，课程设计必须围绕时代关键问题（如环境危机、社会不平等、战争）展开，这些问题要求统合学科深度与跨学科广度。(pp.6–7)
 
@@ -191,7 +191,7 @@ updated: 2026-10-17
 
 ### 论证步骤四：教育心理学中实用主义建构主义的演进
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 20世纪末，芬兰教育心理学[[Paradigm\|范式]]由[[Behaviorism|行为主义]]（Behaviorism）向[[Constructivist Paradigm\|建构主义]]（Constructivism）转型，直接孕育了 PhBL 的教学法模型，使其成为桥接教育理论与学校实践的工具。(pp.7–8)
 
 > [!timeline] 芬兰教育心理学与建构主义演进史
@@ -204,7 +204,7 @@ updated: 2026-10-17
 
 ### 论证步骤五：全球教育治理对芬兰现象本位学习的政策吸纳
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、[[EU|欧盟]]等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
 
 > [!chain-link] 政策吸纳逻辑链
@@ -216,7 +216,7 @@ updated: 2026-10-17
 
 ### 论证步骤六：新自由主义下绩效测量与技能原子化的张力
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > 当代由新自由主义主导的全球教育行业（[[Global Education Industry]], GEI）强调可测量结果与绩效问责（Accountability），导致了课程知识的技能原子化（Atomisation of Skills），与 PhBL 追求的整体性、存在性价值存在不可调和的制度张力。(pp.9–10)
 
 > [!tension] 整体性教育 vs. 技能原子化
@@ -230,7 +230,7 @@ updated: 2026-10-17
 
 ### 论证步骤七：现象本位学习在可持续性教育中的实践重构
 
-> [!claim] 步骤七主张
+> [!claim|lead] 步骤七主张
 > 赫尔辛基大学的 SveaSus 教学与研究项目提供了一个 PhBL 在教师教育阶段的具体实践范例，展示了如何通过真实[[Champ\|场域]]和多维整合抵制知识原子化的倾向。(p.1)
 
 > [!case] SveaSus 教学实验
@@ -252,17 +252,17 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card]- 关于 [[Phenomenon-Based Learning\|PhBL]] 定位与局限的反思
+> [!citation-card] 关于 [[Phenomenon-Based Learning\|PhBL]] 定位与局限的反思
 > 现象导向学习方法并非包治百病的灵丹妙药，也不是能够迅速解决教育问题的权宜之计……(p.11)
 > 
 > *The PhBL approach is neither a salvation approach, nor a quick-fix-method...*
 
-> [!citation-card]- 国际媒体对芬兰学科的误读澄清
+> [!citation-card] 国际媒体对芬兰学科的误读澄清
 > 芬兰的课程体系仍然是建立在传统学校学科的基础之上……(p.2)
 > 
 > *The Finnish curriculum is still structured according to traditional school subjects...*
 
-> [!citation-card]- 学习的[[Phenomenology\|现象学]]本质
+> [!citation-card] 学习的[[Phenomenology\|现象学]]本质
 > 现象学学习观将学习视为具身的、情绪化的和实验性的，而非能够被量化或项目化的东西。(p.4)
 > 
 > *A phenomenological approach to learning sees learning as something embodied, emotional, and experimental, and not as something quantified or itemized.*

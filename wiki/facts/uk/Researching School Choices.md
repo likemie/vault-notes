@@ -91,7 +91,7 @@ updated: 2026-10-16
 > [!claim] 核心机制假说
 > 在不适宜强行[[Random Assignment\|随机化]]的宏观制度领域，通过捕捉教育体系内部自发产生的制度断点、政策试点时间差或校本办学特征，运用现代计量经济学准实验工具从海量普查行政数据中精准剥离混淆偏差，能够以极高[[External Validity\|外部效度]]与零田野破坏性评估学校宏观选择的真实因果效应。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 
-> [!policy-design]- 方案设计与准实验架构
+> [!policy-design] 方案设计与准实验架构
 > - **资助方向界定** 专门资助学校管理层在宏观组织层面拥有自主选择权、但此前因缺乏外部因果证据而争议不决的制度议题，重点包括：
 >   1. **宏观教学组织架构** 按学科[[Tracking\|能力分组]]（Setting / Streaming）与混合能力编班（Mixed-ability Teaching）在常态校本选择中的长期累积增益差异；
 >   2. **办学时间与作息制度** [[School Autonomy|学校自主]]推迟上午上课时间或延长下午课后学时对不同阶层学童的[[Heterogeneity\|异质性]]影响；
@@ -111,7 +111,7 @@ updated: 2026-10-16
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目演进历程
+> [!dev-timeline] 项目演进历程
 > - **2014–2018 — 强推 [[Randomised Controlled Trials\|RCT]] 的挫败与方法学反思期** 能力分班与 [[Teensleep]] 现场试验相继因招募归零而夭折，学界批评单一 RCT [[Paradigm\|范式]]将复杂学校生态削足适履（Edovald & Firpo, 2016; Roy et al., 2018）。
 > - **2019 — 资助机制破局与 [[Quasi-Experimental Designs\|QED]] 专属通道确立** [[Education Endowment Foundation\|EEF]] 董事会正式批准设立 Researching School Choices 资助流，制定前置准实验审查标准，开创了英国循证资助从单一 RCT 向多方法学生态的重大转型。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 > - **2020–至今 — NPD 普查大数据赋能与宏观政策反哺** 深度结合英格兰[[National Pupil Database\|国家学生数据库]] 105 项完成试验微观档案与全英普查底册，系统产出针对能力编班、校本弹性课表的高公信力准实验报告。

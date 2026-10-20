@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **核心角色** 在现代西方艺术中扮演复兴具象主义传统的中流砥柱角色；在抽象主义风靡一时的浪潮中，坚持以长期耐心的目光穿透表象，捕捉人物与现实世界的物理本质。
 > - **代表贡献** 创立冷峻逼真、极富张力的具象肖像画风格；确立了“如实描摹眼前之物”的非评判性细致观察[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 
-> [!citation-card]- 弗洛伊德论如实描摹与非评判性观察
+> [!citation-card] 弗洛伊德论如实描摹与非评判性观察
 > 我尝试画出那里真实存在的事物。通过非常仔细、不带任何评判地观察某个人，你能够从对方身上学到很多东西，甚至能从中加深对自己的了解，这种收获往往非同寻常。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 >
 > *As Lucian Freud put it, "I try to paint what is actually there." ... The artist once told an interviewer, "It can be extraordinary how much you can learn from someone, and perhaps about yourself, by looking very carefully at them, without judgment."*
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 真正的洞察力源于对物理与客体现实的深长注视和对先入为主观念的[[Epoché|悬置]]；在观察世界时抵制将主观偏见或抽象理论强加于现实之上的冲动，才能触及事物最本真的物理与精神现实。
 
 > [!citation-card] 悬置主观评判的深度观察
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - **现代艺术与具象美学** 确立了20世纪西方具象肖像绘画的高峰，有力驳斥了抽象浪潮席卷下“具象绘画已死”的虚无主义论调。
 > - **工程认知与[[Epistemology|认识论]]启示** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其“如实观察而不做评判”的凝视态度引入[[Engineering Mindset|工程思维]]的[[Epistemology|认识论]]讨论中，强调高水平工程师与治理者必须具备直面未加修饰之运行代码与物理现实的专注力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引入弗洛伊德具象凝视论证工程思维以客观观察和[[Epoché|悬置]]评判直面动态物理现实的认识论原则。
 
 ---

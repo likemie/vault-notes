@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 曼在报告中以极其详尽的观察记述，系统提炼了普鲁士公立教育的核心经验模块：
 
-> [!policy-design]- 报告核心考察维度：普鲁士经验的制度要素
+> [!policy-design] 报告核心考察维度：普鲁士经验的制度要素
 > - **公共国家责任与普遍义务就学**
 >   盛赞普鲁士法律确保了每个市镇均设有充足的公立初等学校，贫困家庭儿童免费入读，全境适龄儿童无一人流浪失学，消除了大众文盲现象。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
 > - **正规公立[[Normal School\|师范学校]]（Normal Schools）与教师专业素质**
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 霍勒斯·曼在传记与报告中对考察动机的坦诚陈述，揭示了[[Policy Borrowing|政策借用]]的核心机制：
 
-> [!citation-card]- 经典引言：曼论欧洲考察的取舍原则
+> [!citation-card] 经典引言：曼论欧洲考察的取舍原则
 > 外国制度的巨大声誉吸引了他的目光，使他怀着强烈的渴望，想知道那些制度在任何方面是否优于我们自己的制度；如果发现其中有任何值得采纳之处，便将其移植过来以改进我们自己的教育……对曼而言，首要之务是寻找令人戒惧的警示之标，以及引路的指引之光。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 >
 > *The celebrity of institutions in foreign countries had attracted his attention, filling him with "an intensive desire of knowing whether, in any respect, those institutions were superior to our own; and if anything were found in them worthy of adoption, of transferring it for our improvement." ... Of first importance to Mann was to find "beacons" to terrify as well as lights to guide.* (Downs, 1974:88)
@@ -121,7 +121,7 @@ updated: 2026-10-20
 > - **阻抗势力** 波士顿 31 位[[Grammar School\|文法学校]]校长、保守加尔文派公理宗教会、极端地方自治派土地纳税人。
 > - **制度落脚点** 州立公立[[Normal School\|师范学校]]（Normal Schools）、非宗派公学课程法典、地方公税统筹法案。
 
-> [!pathways]- 实施路径：从域外考察到本土立法的转译机制
+> [!pathways] 实施路径：从域外考察到本土立法的转译机制
 > - **非中央命令体制下的政治转译** 与法国[[Victor Cousin\|库森]]依托中央部委指令将普鲁士经验直接法典化（1833 年基佐法案）截然不同，美国的联邦分权体制迫使曼必须走公共舆论动员与议会说服路线。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 > - **作为政治合法化依据的[[Discourse|话语]]杠杆** 曼并不主张照搬普鲁士君主政体的法律外壳，而是战略性地运用普鲁士“在无体罚、高素养师资与普及入学”上的无可辩驳事实，打破国内保守派宣称“免收学费与废除体罚将导致混乱”的道德恐吓，为[[Common School Movement\|公学运动]]赢得了强大的政治合法性（legitimating rationales）。（pp. 33–34）
 
@@ -145,7 +145,7 @@ updated: 2026-10-20
 > > - **波士顿校长协会（1844）** 宣称体罚是基于《圣经》诫命与人性原罪的必要手段，曼宣扬普鲁士无体罚是削弱师道尊严、纵容学生道德堕落的危险空想。
 > > - **Horace Mann (1844)** 回应指出依赖肉体痛苦只能催生奴性与仇恨，[[Normal School\|师范教育]]培养的教师完全能够依靠理智与爱唤醒儿童内心的尊严与求知欲。（Downs, 1974）
 
-> [!citation-card]- 劳伦斯·克雷明论曼的共和教育哲学
+> [!citation-card] 劳伦斯·克雷明论曼的共和教育哲学
 > 曼深刻理解自由、大众教育与共和政府之间的内在必然关联……一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 >
 > *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.* (Cremin, 1957:7)

@@ -129,7 +129,7 @@ updated: 2026-10-17
 
 ## 概念地图
 
-> [!knowledge-map]- 第11章：[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第11章：[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_11-1_Concept_Map.jpg)
 
 ---
@@ -252,7 +252,7 @@ Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操�
 
 ### 论证步骤一：确立认识论基础
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 自然主义/质性/民族志研究共享一个连贯的认识论范式，系统地区别于[[Positivism\|实证主义]]传统。此范式不仅提供了替代性的[[Ontology\|本体论]]和认识论立场，也为后续研究规划、抽样、数据收集和分析提供了内在一致的操作原则。
 
 **民族志研究的核心要素。** LeCompte and Preissle（1993）定义民族志为兼具探究方法、结果和记录的过程，旨在尽可能生动地重构所研究的文化或群体（p.235）：
@@ -300,7 +300,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ### 论证步骤二：自然主义与实证主义的系统性对比
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 自然主义/民族志方法与实证主义传统之间存在系统的、多维度的差异。但这些差异在某些方面，特别是认识论层面的对立，被过度夸大。Woods（1992）指出质性技术既可用于生成理论，也可用于检验理论。民族志学者的任务是平衡两种承诺：捕捉社会互动的多样性和独特性（通过厚描述），同时寻求其中的规律性和模式。正如 Durkheim（1982）所指出，"社会事实"客观存在。
 
 > [!contrast-table] 民族志方法 vs 实证主义方法（LeCompte & Preissle, 1993, pp. 39–44）
@@ -330,7 +330,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ### 论证步骤三：有效民族志的标志
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > Spindler and Spindler（1992, pp. 72–74）的11条有效民族志标准将认识论原则转化为可操作的质量基准，是对前述理论框架的自然延伸，也是后续12阶段操作模型的质量控制锚点。
 
 > [!seq-table] 有效民族志的11条标志（Spindler & Spindler, 1992）
@@ -352,7 +352,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ### 论证步骤四：研究设计的迭代性：线性模型与递归现实的张力
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 质性研究规划可呈现为阶段模型，但实操本质是**迭代和递归**的。Flick（2009, p. 133）的循环模型，主张质性研究设计元素相互告知，比线性描述更准确。阶段模型提供导航框架而非刚性处方；小型质性研究（如一次性质性调查）可能不需经历全部阶段（pp.406–408）。
 
 质性研究规划过程受七个贯穿因素持续影响：
@@ -617,7 +617,7 @@ Morse（1994, p. 228）将信息提供者分为两类：
 
 ### 阶段8–10：数据收集与分析
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 质性研究现场数据收集的核心原则是"**目的适切性**"（[[Fitness for Purpose]]）。无单一工具处方。数据分析须在数据收集过程中尽早开始，这一时间性决策实践上防止数据过载、理论上使理论生成成为可能。
 
 #### 阶段8：现场数据收集（Data Collection in Situ）
@@ -732,7 +732,7 @@ Lincoln and Guba（1985, pp. 354–355）提醒注意数据过载、仅根据第
 > | 准统计 | 审视声称罕见/极端/典型/频繁/主导等性质。 |
 > | 比较 | 跨群体/场景/时间等，看一致性/不一致性/相似性/差异性。 |
 
-> [!warning]- 数据选择的过滤效应
+> [!warning] 数据选择的过滤效应
 > Swain（2006, p. 202）指出写作时不到1%被收集数据出现在最终报告中；即使包含100%也只是1%发生了的事。忠实于细节与必然选择性使用数据之间存在根本张力。
 
 ---
@@ -786,7 +786,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ### 论证步骤六：批判民族志：从描述到变革
 
-> [!claim] 步骤六主张
+> [!claim|lead] 步骤六主张
 > [[Critical Ethnography\|批判民族志]]不否定传统民族志，而是将传统民族志暴露于[[Ideology Critique\|意识形态批判]]之下。传统民族志关注"**是什么**"（what is），批判民族志关注"**可能是什么**"（what could be）（Thomas, 1993, p. 4）。研究不仅是科学/技术实践，也不仅是诠释学理解；它必须成为反对霸权压迫的**政治行动和行动主义（pp.446–451）**。
 
 > [!chain-link] 传统民族志到批判民族志的转换逻辑
@@ -810,7 +810,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ### 论证步骤七：十大内在困难
 
-> [!claim] 步骤七主张
+> [!claim|lead] 步骤七主张
 > 自然主义和民族志方法尽管重要，面临影响可靠性和可信度的多项**固有**困难。这些不是外部批评攻击，而是方法本身未完全解决的内在张力；在研究设计阶段即应预判。
 
 > [!challenges] 自然主义和民族志方法的十大内在困难
@@ -842,15 +842,15 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ## 关键引用
 
-> [!citation-card]- 卓越的研究工具
+> [!citation-card] 卓越的研究工具
 > 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用，这成为分析的核心……我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。（p.409，引自 Hammersley & Atkinson, 1983, pp. 18–19）
 > *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers.*
 
-> [!citation-card]- 边际性管理
+> [!citation-card] 边际性管理
 > [[Ethnography\|民族志]]学者必须在智识上保持"熟悉"与"陌生"之间的平衡，同时在社交上保持"局外人"和"朋友"之间的平衡……这种多重角色的管理，尤其是边际性的管理，可能产生一种持续的不安全感。（p.427，引自 Hammersley & Atkinson, 1983, pp. 97–100）
 > *The ethnographer must be intellectually poised between '[[Familiarization\|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'.*
 
-> [!citation-card]- [[Critical Ethnography\|批判民族志]]的政治承诺
+> [!citation-card] [[Critical Ethnography\|批判民族志]]的政治承诺
 > 传统民族志关注是什么，批判民族志关注可能是什么……批判民族志具有明确的议程，有伦理责任去促进自由、社会正义、公平和福祉。这不可避免地涉及扰乱被接受的意义、打破研究的中立声称，并暴露那些使已然强大者以已然无权力和被支配者为代价而延续权力的、想当然的假设。（pp.446–447，引自 Thomas, 1993, p. 4, 7; Madison, 2005, p. 5）
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be... Critical ethnography has an explicit agenda, an 'ethical responsibility' to promote freedom, social justice, equity and well-being. This inevitably involves disturbing accepted meanings and disrupting the status quo and purported neutrality of research, together with exposing taken-for-granted, 'domesticated' assumptions that perpetuate the power of the already powerful at the expense of the powerless and the dominated.*
 

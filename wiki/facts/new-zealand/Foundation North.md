@@ -89,7 +89,7 @@ updated: 2026-10-16
 > - **高级执行领导团队（Leadership Team）** 长期由首席执行官珍妮弗·吉尔（Jennifer Gill，曾任富布赖特新西兰执行总监及新西兰慈善协会主席）领衔，下辖首席财务官、战略规划与评估总监、项目资助总监等数十位专业管理人员。
 > - **业务运营子公司群** 下设北方基金会赠款有限公司（Foundation North Grants Ltd）与新西兰社会影响力中心有限公司（Centre for Social Impact NZ Ltd），分别承接资助分配与咨询评估职能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 91–94)]]
 
-> [!pathways]- 战略运作路径与业务机制
+> [!pathways] 战略运作路径与业务机制
 > - **资本代际永续滚存机制** 将超过 10 亿纽币的信托本金交由全球金融市场运作，确立留存资本跑赢通货膨胀的核心原则，[[Return on Investment|投资回报]]的绝大部分直接滚入净资产扩充本金。
 > - **高介入度竞争性立项** 改变被动受理散碎申请模式，在重点战略项目（如 [[Foundation North Māori and Pasifika Education Initiative|MPEI]]）中推行定向网络招标与量化考核，强制要求受资助项目绑定大学学术机构展开因果效应测定。
 > - **咨询输出与政策倡导** 依托社会影响力中心（CSI）承接政府与慈善业界的评估咨询项目，将[[Return on Investment|社会投资回报]]（Social Return on Investment, SROI）与经济投资回报（EROI）标准制度化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–95)]]
@@ -126,7 +126,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 制度化影响力指标
+> [!indicators] 制度化影响力指标
 > - **金融资产量级与区域支配力** 掌控逾 12 亿新西兰元的金融资产，其实际投资收益与资助投放规模在新西兰慈善界位居首位。
 > - **对政府公办政策的示范渗透** [[Foundation North Māori and Pasifika Education Initiative|MPEI]] 项目扶持的数字化教育模型（如马奈卡拉尼）直接吸引中央教育部关注并获政策采纳，成为向全国推广的范例。
 > - **现代[[Venture Philanthropy|风险慈善]]标准的塑造成型** 通过社会影响力中心将基于量化指标与[[Return on Investment|社会投资回报]]测算的考核模式扩散至整个非营利与政府公共服务采购领域。

@@ -56,7 +56,7 @@ updated: 2026-10-15
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - **2014-2015** — 项目从 10 所 Lighthouse elementary schools 的 1-3 年级启动，用于试点和调整项目组件([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115-116]])。
 > - **2015-2016** — Lighthouse schools 扩展到 K、4、5、6 年级；全学区开始纳入 1-3 年级([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.116]])。
 > - **2016-2017** — Lighthouse schools 扩展到 7 年级和 9-12 年级；全学区扩展到 K、4、5、6 年级。
@@ -68,7 +68,7 @@ updated: 2026-10-15
 > [!example]
 > STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师[[Questionnaire\|问卷]]、学生[[Focus Group\|焦点小组]]、校长与 STAT teachers 访谈、课堂教师焦点小组、[[Classroom Observation|课堂观察]]、行为数据以及 ELA 和数学成就数据([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115-118]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.116]])。
 > - 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.117]])。
 > - BCPS 接近 50% 学生符合免费或减价餐资格，PARCC 结果通常接近州平均但略低，低于许多经济条件更优的学区([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.118]])。
@@ -94,7 +94,7 @@ updated: 2026-10-15
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Technology Infusion]] — STAT 是全学区技术融入的案例，说明技术改革很难被当作单一、边界清晰的干预来评价([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.113-115]])。
 > - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方实践后，会受到项目目标、[[Formative Program Evaluation\|形成性项目评价]]和利益相关者价值判断的共同塑造([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.121-124]])。
 

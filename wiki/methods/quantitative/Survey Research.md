@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ### 预注册与研究结果解释
 
-> [!note]-
+> [!note]
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中 **[[Preregistration\|预注册]]（Preregistration）** 研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 [[National Institutes of Health|NIH]] 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
@@ -291,7 +291,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 方法变体
 
-> [!tip]-
+> [!tip]
 > - **[[Cross-sectional Study\|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research\|相关性研究]]问题，但难以建立[[Causality\|因果关系]]。
 > - **[[Longitudinal Study\|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition\|样本流失]]（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国文献中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。

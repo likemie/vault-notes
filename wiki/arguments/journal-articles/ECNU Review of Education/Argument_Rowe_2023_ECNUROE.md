@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ### 步骤一　风险慈善以金融化投资逻辑取代道德救济并驱动国家演化为培育私营中介的异层催化平台
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[Venture Philanthropy\|风险慈善]]彻底颠覆了传统慈善以无偿赠与和道德救济为核心的运行逻辑，转而践行投资而非赠款的商业模式；这一演进不仅折射出新自由主义下公立教育被视作万亿美元级待开发市场的全球趋势，更驱动资本主义国家由中心化的税收再分配主体转变为积极培育与特许私营中介的异层治理催化平台。（pp. 519–523）
 
 #### 1. 跨国金融与咨询资本将公立教育定义为万亿级新兴市场并以投资回报追索治理权力
@@ -188,7 +188,7 @@ updated: 2026-10-20
 
 跨国资本的治理雄心与金融化[[Discourse|话语]]，直接驱动了全澳范围内以 [[Social Ventures Australia|SVA]] 为核心的[[Policy Network|政策网络]]拓扑构建。
 
-> [!figure]- 图1：[[Social Ventures Australia\|SVA]] 及其广泛的资助者、合作伙伴与捐助者[[Policy Network\|政策网络]]拓扑
+> [!figure] 图1：[[Social Ventures Australia\|SVA]] 及其广泛的资助者、合作伙伴与捐助者[[Policy Network\|政策网络]]拓扑
 > ![](https://img.mylikemie.icu/sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg)
 
 #### 2. 现代国家并未空心化退场而是通过行政外包与特许赋权演进为异层市场缔造者
@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ### 步骤二　SVA 政策网络通过装配三大中介实体与特许立法突破将商业标准深度植入国家教育治理体系
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 创立于 2002 年的澳大利亚社会创投（SVA）作为异层政策网络的中枢，并非孤立的公益组织，而是通过严密的控股架构、长达二十年的渐进游说以及关键的立法突破，相继装配了[[Australian Schools Plus\|澳大利亚学校加计划]]（[[Australian Schools Plus\|Schools Plus]]）、[[Evidence for Learning\|证据学习中心]]（E4L）与[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）三大国家级中介实体，将跨国商业标准全面注入公共教育。（pp. 524–531）
 
 #### 1. SVA 依托四层控股架构与政商中介网络奠定全澳风险慈善核心中枢地位
@@ -298,14 +298,14 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 通过追踪资金、人员与[[Policy Mobility|政策流动]]，整个网络呈现出高度一致的利益共同体特征。
 
-> [!figure]- 图2：追踪人员、政策与资金流动拓扑
+> [!figure] 图2：追踪人员、政策与资金流动拓扑
 > ![](https://img.mylikemie.icu/sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg)
 
 ---
 
 ### 步骤三　异层治理实践加剧公共财政向免税中介逆向输送并以制度性保密深度侵蚀民主问责
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > SVA 所展现的异层治理实践并非良性的公私合作创新，而是一种新型的资本剥削与财富逆向再分配机制：免税风险慈善机构吸收的政府财政补贴远超其对外资助净额，迫使弱势公立学校为了生存而竞逐商业性赠款并接受企业规训；同时，隐蔽的保密招标、人事旋转门与免责条款彻底排除了公众的知情权与民主参与。（pp. 527–528, 531–532）
 
 #### 1. 免税中介净吸收高额公共财政补贴并迫使弱势公立学校竞逐项目赠款而接受商业规训

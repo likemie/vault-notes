@@ -46,7 +46,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 事件、互动回合、时间片段、场景
 > - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research\|转录]]、编码和分析用的原始材料
 
-> [!citation-card]- King（1979）的田野笔记规模
+> [!citation-card] King（1979）的田野笔记规模
 > 我填满了三十二本笔记本，包含在近六百小时观察中做的约五十万字笔记。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 295)]]
 >
 > *I filled thirty-two notebooks with about half a million words of notes made during nearly six hundred hours [of observation].* (King, 1979)

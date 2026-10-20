@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - **核心角色** 全球技术增强科学探究教育（Technology-Enhanced Science Education）与“[[Knowledge Integration\|知识整合]]”（Knowledge Integration, KI）[[Didaktik\|教学理论]]的奠基者。她开创了将交互式可视化技术、[[Authentic Science Practices|真实科学探究]]、形成性自动评价与教师专业发展深度融合的循证研究传统；所主持创立的 WISE 平台成为全美最具代表性、历时最长的大规模探究课程研发基地；长期致力于利用自适应学习技术缩小女性与少数族裔在 [[STEM Education\|STEM]] 学科中的[[Academic Achievement\|学业成就]]差距。
 > - **代表贡献** 构建“知识整合”（Knowledge Integration）教学理论框架；创立全球知名的开源探究平台 WISE；主导涵盖 8,000 余名中学生的里程碑式课程准实验（Linn et al., 2006）；率先将自然语言处理（NLP）与大语言模型引入课堂科学论述自动评估。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 马西娅·琳通过数十年严谨的课程级实证追踪表明，高质量的科学探究依赖于学生对自身直觉观念的辨析与整合。其创立的知识整合框架与 WISE 平台，彻底打破了传统直接灌输模式在抽象科学概念学习上的垄断。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 6, 9–10)]]
 >
 > *Linn has led transformative work in science education, demonstrating that technology-supported inquiry, guided by the Knowledge Integration framework, produces superior conceptual understanding across large and diverse student populations.*
@@ -101,7 +101,7 @@ updated: 2026-10-15
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 学生并不是带着空白的大脑走进科学课堂的，他们对自然现象早已形成了一套丰富但碎片化的直觉观点。传统[[Direct Instruction\|直接教学]]企图用现成标准公式简单覆盖这些直觉，往往只产生僵化而脆弱的短期应试记忆；真正的[[Scientific Literacy\|科学素养]]培育必须依托“[[Knowledge Integration\|知识整合]]”（Knowledge Integration）流程——通过交互微世界让隐性规律可视化，引导学生主动呈现自身观念、对比冲突证据并修正心理模型，方能实现持久的概念转变。
 
 > [!citation-card] 论知识整合与技术增强探究的课堂实效

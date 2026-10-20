@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 关键文件与声明
+> [!citation-card] 关键文件与声明
 > “新教育旨在带来一个新纪元，使民主之光辉照耀东亚、永远照耀世界。”（《新教育》创刊号发刊词 1919, p.1，引自 [[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
 >
 > *New Education aims to bring about a new era, allowing the radiance of democracy to shine upon East Asia and forever illuminate the world.*
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > - **全盘反传统路线（蓝方）** 陈独秀、胡适等激进派主张高举“民主”与“科学”旗帜彻底打破旧伦理与旧教育，建立白话文与新文化。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **演进性修正路线（红方）** 蒋琦（1919）等温和派主张新教育对旧教育应是“修正而非对立、演进而非原创”，反对全盘否定传统文化。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
 
-> [!citation-card]- 代表性评论
+> [!citation-card] 代表性评论
 > 新文化运动与[[May Fourth Movement\|五四运动]]的政治合流，使教育改革与社会政治变革深度绑定。这种绑定在短期内为教育改革提供了强大动力，但也使教育议程过度依赖于政治条件的变化。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615, 619]]）
 
 ---

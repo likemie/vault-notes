@@ -75,13 +75,13 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > [[General Education\|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（[[Institute of Education Sciences\|IES]]）及分级外部考评，旨在培养学生的[[Critical Thinking\|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 485]]）。
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **设计目标** 克服灌输式应试教学，引导学生从多角度分析争议性社会议题，培养理性沟通、尊重证据、包容不同价值观的开放态度（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
 > - **学习领域** 包含个人成长与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境六大关联的探究领域。
 > - **核心工具** 实行议题为本的[[Constructivist Paradigm\|建构主义]]教学法，采用包含独立专题探究（IES）的校本评估（SBA），鼓励使用即时社会新闻等非常规辅助教材，豁免教育局教科书前置评审（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]]）。
 > - **知识构建** 倡导知识是情境化的、跨学科的以及由个人和社会共同建构的，强调认同的[[Multiplicity\|多重性]]与多元文化共存的协商价值（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.148, 150]]）。
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 通识教育科旨在让学生认识底层多元的社会价值取向，学会清晰陈述观点并展示对证据的尊重，以及对其他人的价值观保持开放和包容的姿态。
 >
 > *“Identify the values underlying different views and judgements on personal and social issues, and apply critical thinking skills . . . in making decisions and judgements.”* (CDC & HKEAA, 2007, p. 6)
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > - **教学执行主体** 由转岗的剩余学科教师组成，无需强制学科资格审查即可任教，虽然展现了跨学科弹性，但也降低了面对政治压力时的专业防护底限。
 > - **学术考评主体** 高中学生与考评局，独立专题探究（[[Institute of Education Sciences\|IES]]）校本评估占[[Gaokao\|高考]]总成绩的20%，以引导学生进行自我导向的实证课题探究。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **全球借鉴与制度落地** 借鉴IB等全球课程元素，将其确立为毕业必修科目，成功在新高中学制中建立了高学分、高学术标准的地位。
 > - **时政研讨与多角度辩论** 摆脱了官方统编大纲束缚，教师利用报刊、网络和时事开展多角度争议讨论，极大地促进了本地认同与批判思维的形成。
 > - **政治接管与行政取缔** 在2019年社会风暴后，行政威慑长驱直入，通过大换血教材顾问、取缔IES并强推新大纲，迅速抹去了LS的专业痕迹（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141, 148]]）。
@@ -143,7 +143,7 @@ updated: 2026-10-16
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 250课时的充足教学容量，将[[Institute of Education Sciences\|IES]]和多角度分析设为[[Gaokao\|高考]]毕业刚性要求。
 > - **过程指标** 时事材料引入率及课堂思辨参与度高，教师高度自主，但也存在转岗教师缺乏稳固学科训练的现象（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]]）。
 > - **结果指标** 成功培养了香港学生的公民思辨和主体意识；但也使该科目深陷社会政治冲突的核心地带，因缺乏学科边界而脆弱易毁。
@@ -180,7 +180,7 @@ updated: 2026-10-16
 > > - **Deng (2009)** 师资缺乏扎实学术底蕴易导致讨论流于浅薄，容易受到各种外部意识形态影响。
 > > - **教协及一线专业组织（2012）** 教师有能力在多元价值碰撞中保持中立，为学生提供公正的探讨议题环境。
 
-> [!citation-card]- 争议中的身份立场表达
+> [!citation-card] 争议中的身份立场表达
 > LS教科书中举着改善民生标语虚构女孩的对话，展现了在回归后[[One Country, Two Systems\|一国两制]]下高度自治和游行抗议权利的正当性（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
 >
 > *“In spite of the return to the motherland, Hong Kong implements 'One Country, Two Systems', enjoying a high degree of autonomy and the right to protest and demonstrate. I feel I am more of a Hongkonger than a Chinese.”*

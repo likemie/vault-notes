@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 > - 在巴西里约热内卢生活和创作，为 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])
 > - 开发自创剧场方法 EspectAtor，以[[Epistemology of Resistance\|抵抗认识论]]为核心，指导贫民窟居民通过表演讲述自身遭受的暴力创伤故事([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 援引 Branco, 2020]])
 > - 2020 年通过 YouTube 频道"Favelaflix"发布剧场作品([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.122, 参考书目 Branco, 2020]])
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 > Castelo Branco 的 EspectAtor 方法的核心思想可通过其名称理解：**EspectAtor 是 espectador（观众）和 ator（演员）的合成词**——它打破了传统剧场中演员（主动生产）与观众（被动接收）的二分法。在 EspectAtor 方法中，贫民窟居民既是暴力事件的"观众"（他们在日常生活中目睹和承受暴力），又是通过表演赋予创伤以意义的"演员"（他们在舞台上重新讲述和重释自己的经历）。
 
 > 这种演员-观众的角色融合在[[Epistemology\|认识论]]层面具有深刻意义：它拒绝了一种外在的"专家"（如学术研究者、专业编剧）来代表贫民窟居民的经验——知识的生产权被归还给经验者自身。这就是 Delambre 将其定性为"[[Epistemology of Resistance\|抵抗认识论]]"的根本原因：EspectAtor 不请求[[Official Knowledge\|官方知识]]体制的认可，而是直接在剧场中制造出另一种关于什么算是"有效知识"的标准([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。

@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **核心角色** 开创了教育研究中的[[Dependency Theory|依附理论]]与文化帝国主义批判[[Paradigm|范式]]；系统建立了国家理论与教育改革辩证冲突的宏观[[Analytic Framework|分析框架]]；与[[Joel Samoff|乔尔·萨莫夫]]共同开创了亚非拉转型国家教育政治经济学的跨国历史比较研究。
 > - **代表贡献** 出版奠基性著作《教育作为文化帝国主义》（1974）；提出“任何教育问题诊断与政策处方都必然暗含特定国家理论”的核心命题（1992）；系统剖析第三世界社会主义与民族解放转型社会的教育变革（1990）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论卡诺伊的国家理论命题
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论卡诺伊的国家理论命题
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
 >
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 卡诺伊的核心思想在于**彻底打破教育政策与规划的“技术中立性神话”，将教育制度牢牢锚定在资本主义国家权力的结构性矛盾之中**。他断言，不存在超越历史与政治的纯粹客观教育方案：任何关于教育效率、质量评价与资源配置的诊断，在深层都必然折射出其所秉持的国家理论。资本主义国家必须同时兼顾“资本积累”与“政治合法化”两项互相对立的功能，这使得学校教育始终成为垄断资本的技能规训意志与劳动阶级民主平权诉求激烈搏杀的政治战场。
 
 > [!citation-card] 教育政策诊断内生于国家理论的前提性支配
@@ -146,7 +146,7 @@ updated: 2026-10-20
 > - **方法路径** 倡导将宏观政治经济学制度溯源与严格的定量计量模型相结合，展示了[[Analytical Stance|批判立场]]如何与扎实数据并存，破除了批判教育学“只思辨不实证”的学科偏见。
 > - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引卡诺伊《全球化与教育改革》，揭示世界银行新自由主义[[Discourse|话语]]如何将教师建构为阻碍效率的恶棍以证成预算削减。

@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 # Interview Protocol
 
-> [!example]- 图9.2：访谈协议或指南示例
+> [!example] 图9.2：访谈协议或指南示例
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-2_Interview_Protocol.jpg)
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 单次访谈为基本单位；跨个案比较时以所有访谈的集合为单位。
 > - **输出形式** 一份书面协议文档，包含引言、内容问题、[[Probes\|追问提示]]和结束说明；[[Pilot Testing\|预测试]]后可能包含修订版本。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 访谈提纲的构建涉及将研究目标转化为具体问题。第一步是写下要研究的[[Variable\|变量]]，变量告诉研究者从哪里开始（Tuckman, 1972）。构建时需考虑问题格式、回答模式、提示和追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 418–420]]）。
 >
 > *The first step in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ### 操作建议
 
-> [!tip]-
+> [!tip]
 > - 提前记住问题，避免在访谈中只是朗读协议，给受访者留下生硬的印象
 > - 即使使用录音，也做笔记以防设备故障
 > - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）

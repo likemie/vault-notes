@@ -60,7 +60,7 @@ related_arguments:
 > - **用途** 帮助研究者分析国家课程如何通过选材与表达策略自然化文化支配、为什么单一民族/文化中心主义的教科书会引发边缘群体的符号剥夺与文化疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 60, 67)]]。
 > - **边界** 不同于基于生物学建构的“种族等级”（Race Hierarchy），文化等级侧重于文化符号、历史叙事、宗教传统与语言语码的不平等价值赋予。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 对儒家传统的阐释构成了一种垄断性主导[[Discourse|话语]]，强化了不同文化群体之间的文化等级。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
 >
 > *“The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.”*
@@ -154,7 +154,7 @@ related_arguments:
 > > - **官方同化整合视角** — 认为确立共享的汉儒文化核心有助于促进“[[Zhonghua Minzu\|中华民族]]”一体化与国家凝聚力。
 > > - **批判性多元文化视角 ([[Argument_Yu_2024_CE\|Yu & Zhao, 2024]])** — 指出强行推行单向度的文化等级不仅未能实现真正凝聚，反而在少数民族学生中造成严重的[[Cultural Disembedding\|文化脱嵌]]与异化疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
-> [!critique]- 外部批评
+> [!critique] 外部批评
 > - **对边缘群体反思能动性的低估** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 的实证访谈显示，文化边缘群体（少数民族与信教学生）并非被动接受课程文化等级，而是展现出强烈的跨文化[[Reflexivity\|反思性]]，主动将儒家降格为多元文化中的一种[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 68)]]。
 
 > [!warning] 适用局限

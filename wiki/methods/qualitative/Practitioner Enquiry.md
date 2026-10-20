@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 学生作业、反思日志、课堂录像、师生日常对话、[[Placement, Formative, Diagnostic, and Summative Testing\|形成性测验]]卷与教师合作研讨记录。 |

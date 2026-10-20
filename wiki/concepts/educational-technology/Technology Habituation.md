@@ -59,7 +59,7 @@ updated: 2026-10-15
 > - **用途** 为破解人工智能等新兴前沿科技遭遇的严重民意赤字（如仅 33% 公众认同 AI 利大于弊）提供深层的课程教学论解法，超越表面化的公关辟谣。
 > - **边界** 技术习惯化不等于盲目盲信或无节制的[[Cognitive Offloading\|认知外包]]；它以批判性审视与证据评估为前提，旨在让学生掌握技术底层逻辑与局限性。
 
-> [!citation-card]- 关键表述：英国皇家学会关于学校技术习惯化的战略建言
+> [!citation-card] 关键表述：英国皇家学会关于学校技术习惯化的战略建言
 > 聚焦于学校以实现技术的习惯化：资助学校让学生广泛接触各类前沿技术，例如数字技术与人工智能、增强现实、以及包含三维打印在内的现代先进制造业。（Recommendation 12, p. 76）
 >
 > *Focus on schools to habituate technology: fund schools to create access to technology such as digital technologies and AI, augmented reality, modern manufacturing (including three-dimensional printing).*

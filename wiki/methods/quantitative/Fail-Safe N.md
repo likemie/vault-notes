@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 元分析数据集（一阶元分析效应量集合或[[Meta-meta-analysis\|二阶元分析]]汇总集）。
 > - **输出形式** 理论所需的临界文献数量 $N_{\text{fs}}$（整数值）及经验安全门槛（如 Rosenthal $5k + 10$ 准则）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 经典失安全数代表将总体效应降至不显著水平所必须添加到元分析中的非显著（零效应）研究数量；当失安全数远大于经验安全门槛（$N_{\text{fs}} \gg 5k + 10$）时，表明该元分析结论受发表偏倚逆转的概率极低（Rosenthal, 1979; Borenstein et al., 2021）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 8)]]
 >
 > *The classic fail-safe N represents the number of non-significant (null) studies that would have to be added to the meta-analysis to reduce the overall effect to a non-significant level... while Orwin's fail-safe N calculates the number of missing studies needed to reduce the overall effect size to a specified trivial criterion (Rosenthal, 1979; Orwin, 1983).*

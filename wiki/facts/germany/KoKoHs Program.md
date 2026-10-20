@@ -64,7 +64,7 @@ updated: 2026-10-15
 > [!claim] 政策核心
 > 德国联邦教研部通过两期十年持续资助，构建跨学科科研协作网络，系统研发覆盖学科专业胜任力与跨学科通用[[Higher-Order Thinking Skills\|高阶思维]]的理论模型与测评工具库，实现大规模常模标定与方法学突破。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 16–17)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 突破高等教育能力不可测的传统迷思，建立兼具[[Domain Specificity\|学科特异性]]与跨学科通用性的严谨测量[[Paradigm\|范式]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **对象** 经济学、工程学、医学、教师教育等专业领域以及全德大学生的通用[[Critical Thinking\|批判性思维]]与[[Problem Solving\|复杂问题解决]]能力。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 16–17)]]
 > - **工具** 国家竞争性专项科研基金、跨校协作研究联合体、计算机自适应测试平台与多维统计分析技术。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
@@ -89,7 +89,7 @@ updated: 2026-10-15
 > - **适用对象** 全德 350 所高等院校的 75,000 余名本科生及研究生。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **政策工具** 竞争性教改基金资助、跨学科子项目攻关（70 个独立课题）与国家测试基础设施建设。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **第一阶段：跨校建模与工具研发（2011–2015）** 设立 70 个跨学科子课题，研制出 41 套高教能力理论模型与 116 套心理测量学工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **第二阶段：实证常模与技术创新（2015–2020）** 开展 350 所高校超大规模施测，推进多维[[Item Response Theory\|项目反应理论]]（IRT）与计算机化自适应测试（CAT）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **制度化沉淀与辐射** 形成覆盖多学科的开放评价工具库，为德国高校质量发展与国际评估提供核心支架。

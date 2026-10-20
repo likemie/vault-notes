@@ -72,7 +72,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** Level 1 [[Sampling Error\|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
 > - **输出形式** 经 RVE 稳健调整后的回归系数点估计 $\hat{\beta}_p$、稳健[[Standard Error\|标准误]]、95% [[Confidence Interval\|置信区间]]及基于 Hotelling $T^2$ 近似的宏观[[Interaction Effect\|调节效应]] Wald $F$ 检验统计量与 $p$ 值。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 二阶元回归通过在多水平 CHE 与 RVE 框架下纳入多重调节变量，系统分解了全领域效应量的[[Heterogeneity\|异质性]]来源，评估了构念类型、变量角色与研究设计对效应强度的调节作用。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–7)]]
 >
 > *Second-order meta-regressions were conducted using correlated and hierarchical effects models combined with robust variance estimation to examine the moderating roles of theoretical constructs, study design, and methodological quality...*

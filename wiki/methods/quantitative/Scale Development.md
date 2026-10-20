@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 目标群体个体的逐题标准化作答数据。
 > - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted\|平均方差抽取量]]（AVE）与[[Composite Reliability\|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论文献中界定构念边界并生成初始题池，通过专家[[Content Validity Index\|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis\|项目分析]]与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity\|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
 >
 > *Scale development is an iterative, multi-phase methodology in which researchers define construct boundaries, generate item pools, evaluate content validity via expert panels, and administer the instrument across independent samples to conduct EFA for dimension discovery and CFA for structural verification, convergent/discriminant validity, and measurement invariance.*

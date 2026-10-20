@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 在英国皇家学会 2026 年战略报告中，生命科学产业界与非营利第三部门的公众参与实践呈现出深度互补的生态格局：
 
-> [!pathways]- 产业与慈善部门的实践落地路径
+> [!pathways] 产业与慈善部门的实践落地路径
 > - **跨国药企的研发流程重构** 跨国大型制药企业在面对公众对商业利润动机的普遍怀疑时，积极引入以患者为中心（Patient Centricity）框架；例如阿斯利康等企业在全流程[[Clinical Trial\|临床试验]]中与患者组织共创设计，有效降低了受试者中途脱落率，显著缩短了新药研发周期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]
 > - **医学研究慈善机构的中枢引领** [[Association of Medical Research Charities\|英国医学研究慈善联合会]]（[[Advanced Manufacturing Research Centre\|AMRC]]）148 家成员单位每年投入 16 亿英镑科研经费，在英国癌症研究中心（Cancer Research UK）等重大项目中将病患直接聘为课题评审专家与伦理委员，开创了第三部门使命驱动型科学参与的标杆[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 74)]]
 

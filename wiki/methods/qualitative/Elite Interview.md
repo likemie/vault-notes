@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 政策决策网络、高层精英行动者个体叙述、跨部门协商事件与政策制定阶段。
 > - **输出形式** 决策动机主题、非正式协商网络图景、政策工具化因果机制模型与制度变迁微观解释。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 在教育政策研究中，精英访谈使研究者能够跨越公开官方文件的表象，深入探究那些直接参与政策塑造的行动者如何在适宜性逻辑、政治生存考量与专业证据之间展开权衡。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 >
 > *Elite interviewing allows researchers to probe the [[Accounts]] of key actors with inside access to the policy process, unpacking the implicit rationales that cannot be observed from published texts alone.*
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 占据关键决策位置的高级官员、政府顾问、智库领袖与学者的半结构化[[In-depth Interview\|深度访谈]]录音与逐字转录文本（如 Legrand, 2012; [[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。 |

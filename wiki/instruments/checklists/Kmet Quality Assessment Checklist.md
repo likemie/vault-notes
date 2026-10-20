@@ -67,7 +67,7 @@ updated: 2026-10-16
 > - **测量目的** 在[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]中，标准化评估初级定量与质性实证研究的[[Internal Validity\|内部效度]]、研究设计严密性、测量信效度与控制充分性。
 > - **实施方式** 由两名研究者独立背对背审阅文献全文并评分，计算[[Intercoder Agreement\|编码者间一致性]][[Reliability\|信度]]，通过协商解决分歧。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 两位作者运用 Kmet, Lee, and Cook's (2004) 14 项检查清单独立评估了纳入研究的方法学质量，从多个维度全面评估[[Quantitative Research\|定量研究]]的内部效度；所有 66 项初级研究得分均在 50% 以上（总分 28 分，均分 23.75 分，质量达标率为 85%）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 5)]]
 >
 > *Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These items helped assess the internal validity of quantitative research across multiple methodological dimensions...*

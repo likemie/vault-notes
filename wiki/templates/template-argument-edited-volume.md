@@ -54,7 +54,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **组织逻辑** 为什么这些章节按当前顺序、部分或主题组合在一起。（p.X）
 > - **整体贡献** 这本编著作为整体改变了什么理解，而不是单章贡献的简单相加。（p.X）
 
-> [!citation-card]- 编者关键表述
+> [!citation-card] 编者关键表述
 > 中文译文或中文原文。（p.X）
 >
 > *Original text or English translation.*
@@ -68,7 +68,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **Part II / Ch. X-Y — 部分标题** 说明该部分如何推进、对比或转向。（p.X）
 > - **Part III / Ch. X-Y — 部分标题** 说明该部分如何收束、扩展或提出实践含义。（p.X）
 
-> [!volume-map]- 结构图
+> [!volume-map] 结构图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Structure_Map.jpg)
 
 %% 结构图只显示全书组织逻辑，不替代各章概览。无扫描图时可改用 Mermaid flowchart。 %%

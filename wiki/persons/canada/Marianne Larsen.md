@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **核心角色** 比较教育学史学反思与批判性[[Discourse Analysis|话语分析]]领军学者；通过对英美三大国际旗舰学术期刊 40 年论文的系统[[Content Analysis|内容分析]]，实证确证了比较教育学在二战后逐步放逐历史维度的严峻轨迹，并首创提炼了著名的“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）学术诊断[[Construct|构念]]。
 > - **代表贡献** 1. 开展 1955–1994 年近两千篇国际核心期刊研究策略里程碑计量调查，以数据确证历史论文跌破 5% 并正式命名“历史健忘症”；2. 开创福柯历史谱系学与[[Post-structuralism|后结构主义]]在比较教育史学中的分析[[Paradigm|范式]]；3. 发展教师无国界流动与[[Global Citizenship|全球公民教育]]的空间社会学理论。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 根据一项最新研究，对 1955 至 1994 年间比较教育研究策略的调查表明，在《[[International Education|国际教育]]发展杂志》、《比较教育》和《比较教育评论》三大国际旗舰期刊近 2000 篇论文中，仅有 10.5% 的文章依赖史学编纂与历史研究；更为令人失望的是：从 1985 到 1995 年，发表的历史性研究论文占比已不足 5%（Larsen, 2001）。这种严峻现状促使一位评论者指出，我们的领域正严重患上‘历史健忘症’。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
 >
 > *According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies'. This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia' (Larsen, 2001).*
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 历史绝非被动储存于档案馆中的死寂事实，而是每时每刻都在塑造当下政策可能性与[[Discourse|话语]]边界的权力/知识[[Champ|场域]]；比较教育学若沦为现时性量化指标与[[Policy Borrowing|政策借用]]公关工具，就会在实质上蜕变为患上“[[Historical Amnesia|历史健忘症]]”的技术附庸。唯有借助历史批判谱系学与多元方法论，将历史维度的深层反思注入跨国比较之中，比较教育才能真正打破对新自由主义通用模型的迷信，发挥解构霸权与拓展社会公正的智识功能。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---

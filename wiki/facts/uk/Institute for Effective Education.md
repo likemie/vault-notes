@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2008–2010 — 创立奠基与跨大西洋[[Evidence Network\|证据网络]]构建** 斯莱文与贝特·钱伯斯（Bette Chambers）在约克大学创办 IEE，与美国约翰霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）紧密协同，推出面向一线实践者的《简明证据通讯》（Evidence in Brief），向英国中小学系统引进国际前沿实证综述。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
 > - **2011–2015 — 证据清算平台与试点创新资助** 创设英国首个针对具名教育干预方案的有效性评价数据库 Evidence 4 Impact（E4I），推行透明的四级因果评级标准；同时设立“创新评估专项资助”（Innovation Evaluation Grants），直接资助中小学校联合研究人员开展教学创新的前期因果试点评估。
 > - **2016–2019 — 联合创设[[Research Schools Network\|研究学校网络]]（RSN）进入黄金期** 针对单纯网络工具包无法穿透课堂的痛点，IEE 联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）共同发起创设全国性[[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN），IEE 承担全国认证标准制定、培训规程设计与核心运行统筹，成功将中介重心由中央平台下沉至分布式校际[[Communities of Practice|实践共同体]]。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > - **执行团队与中介专员** 设执行主任、高级研究员及专职[[Knowledge Mobilisation\|知识动员]]人员（Knowledge Mobilisation Officers），负责与中小学校长的日常对接。
 > - **中小学实证协作网络** 联合英格兰数十所标杆实验校，组建跨区域的教研实践伙伴联盟。
 
-> [!pathways]- 业务运行机制与转化流程
+> [!pathways] 业务运行机制与转化流程
 > - **双轮驱动业务模型** IEE 同时在“研究生产端”与“学校实践端”开展双向咬合工作：
 >   1. **研究层面** 独立承接大规模现场[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Systematic Review\|系统综述]]，确保因果推论的[[Internal Validity\|内部效度]]；
 >   2. **学校层面** 与中小学校长直接合作，通过 Evidence in Brief 与工作坊把复杂统计发现转译为实践行动要领。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **网络覆盖规模** 创设并协同管理全英近 40 所区域研究学校，间接辐射周边数千所基础教育公立薄弱学校。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **清算平台收录** E4I 数据库收录并独立评定逾百项中小学读写、数学及科技干预方案，成为英格兰学校管理层采购教学资源的重要参考源。
 > - **欧洲证据基础设施典范** 在 [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 欧洲证据生态全景调研中，IEE 被列为全欧少数兼具“证据生产（Generation）”与“[[Knowledge Mobilisation\|知识动员]]（Mobilisation）”双重机能的国家级典范机构之一。（pp. 32–33）

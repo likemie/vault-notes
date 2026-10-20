@@ -106,7 +106,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > SFA 确立了以预防为主的循证干预金字塔架构（Response to Proven Intervention, [[Response to Proven Instruction\|RTPI]]）：通过将高保真度的全班[[Cooperative Learning\|合作学习]]、结构化语音拼读与针对后进生的小组/个别化辅导相结合，确保绝大多数弱势儿童在小学三年级前达到年级阅读水平。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 消除小学 K–2 年级阅读障碍，使 80% 以上弱势儿童无需进入特殊教育即可达到标准化学业阅读水平。
 > - **覆盖对象** K–5 年级全体学生，重点聚焦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资助的高贫困率、高少数族裔比例公立小学。
 > - **核心教学干预体系（RTPI 三层架构）**
@@ -140,7 +140,7 @@ updated: 2026-10-20
 > - **教学助教与辅导师** 经考核认证后执行 TIER 2 与 Tier 3 的小组/个别化辅导，每日记录学生诊断数据并动态向主讲教师反馈。
 > - **家庭支持团队与社区** 协调家长参与家庭阅读计划，跟踪解决长期缺勤与处境不利儿童的家庭社会性支持。
 
-> [!pathways]- 实施路径与管理机制
+> [!pathways] 实施路径与管理机制
 > - **80% 教师匿名投票门槛** 杜绝行政长官强推带来的形式主义抵制，确保一线教师具备强大的组织认同与自发实施意愿。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > - **多维驻校教练与高保真度监控** 基金会教练定期进校听课、分析季度测验数据，并针对教学偏离提供即时指导，维持高度的[[Implementation Fidelity\|实施保真度]]（Implementation Fidelity）。
 > - **跨年级[[Tracking\|能力分组]]（Cross-Grade Grouping）** 每日读写课期间打破传统行政班级界限，依据学生当前实际阅读能力重新分班，实现无标签化的同质因材施教。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **保真度与组织指标** 教师投票赞成率（$\ge 80\%$）、每日 90 分钟课时到位率、辅导方案依从性。
 > - **标准化阅读产出指标** 独立标准化阅读测试成绩（Woodcock Reading Mastery Test、Gates-MacGinitie、州统考总分）。
 > - **特殊教育与[[Grade Retention\|留级]]率指标** 弱势学生被转介至特殊教育的比例降低幅度、正常升级率。

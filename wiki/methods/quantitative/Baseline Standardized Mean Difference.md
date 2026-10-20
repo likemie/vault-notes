@@ -89,7 +89,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 初级研究中处理组与对照组的前测[[Sample Size Determination\|样本量]]（$n_T, n_C$）、前测均值（$\bar{X}_T, \bar{X}_C$）与前测标准差（$SD_T, SD_C$）。
 > - **输出形式** 标准化均数差点估计值 $d_{\text{baseline}}$（或小样本校正值 $g_{\text{baseline}}$）及对应的三级等效性评定结论（完全等效、需调整后采纳、不达标剔除）。
 
-> [!citation-card]- 关键定义与排除规程
+> [!citation-card] 关键定义与排除规程
 > 报告前测数据并确立初始组间等效性且基线差异小于 0.25 SD 是元分析的重要准入标准；若无前测则必须为严格随机试验。前测差异超过 0.25 SD 的研究必须予以排除，因为即便使用[[Analysis of Covariance\|协方差分析]]，由于底层分数分布存在实质性[[Heterogeneity\|异质性]]，过大的前测差异也无法得到充分控制。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 8)]]
 >
 > *Studies with pretest differences of more than 25% of a standard deviation were excluded because, even with analyses of covariance, large pretest differences cannot be adequately controlled for as underlying distributions may be fundamentally different.*

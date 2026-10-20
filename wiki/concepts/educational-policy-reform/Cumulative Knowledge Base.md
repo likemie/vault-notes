@@ -186,7 +186,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline]- 概念历史演化脉络
+> [!dev-timeline] 概念历史演化脉络
 > - **2000 年代初 — 单一[[Research Synthesis|研究综合]]与清算中心孤岛（First-Order Syntheses）** 随着美国设立 [[What Works Clearinghouse\|WWC]]、英国设立 [[EPPI-Centre]]，循证运动主要聚焦于运用初阶[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]对特定教学干预进行[[Effect Size\|效应量]]加总；此时机构间各自为政，标准严重割裂。
 > - **2010–2015 年 — 跨国元中介网络探索与实践重心下沉（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] & [[Education Endowment Foundation\|EEF]]）** [[EU|欧盟]]资助建立 EIPPEE 跨国中介协作网络，开启了关于跨国元中介治理的早期探索；同时英国设立 [[Education Endowment Foundation\|EEF]]，推动证据从宏观政策向一线实践与工具包深度下沉。
 > - **2016–至今 — 二阶系统综述与累积性知识大厦构想（Meta-Brokerage Era）** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 正式提出建构“准普遍公认的累积性知识库”命题；反思单体中介的高夭折率生存悖论，呼吁在跨国与跨学科层面协同推进“中介的中介”，将自然科学、医学反思透镜、算法治理与教师专业主体性融为一体。

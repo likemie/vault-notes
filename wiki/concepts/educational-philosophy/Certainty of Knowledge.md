@@ -102,12 +102,12 @@ updated: 2026-10-20
 > - **用途** 在跨文化比较中，用于区分西方追求外在世界客观真理与东方追求内在道德[[Self-Cultivation\|修身]]的学习传统；在教育测量中，用于预测学生的高阶学习策略、[[Wicked Problem|劣构问题]]推理能力与学术分流轨迹。
 > - **边界** 不等于[[Simplicity of Knowledge\|知识的简单性]]（后者关注知识是离散碎片还是复杂网络）；不适用于纯道德人伦的实践规范；不可等同于后现代的虚无主义或彻底不可知论。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 数学知识似乎是确定的、精确的、适用于真实世界的；而且，它仅通过思维即可获得，无需观察。因此，它被认为提供了一种令日常经验知识相形见绌的理想。基于数学，人们认为思维高于感官。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 24 引 Russell)]]
 >
 > *Mathematical knowledge appeared to be certain, exact, and applicable to the real world; moreover, it was obtained by mere thinking, without the need for observation. Consequently, it was thought to supply an ideal, from which everyday empirical knowledge fell short. It was thought that thought is nobler than sense.*
 
-> [!citation-card]- 科学知识作为探索的暂时性终产物
+> [!citation-card] 科学知识作为探索的暂时性终产物
 > 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学话语体系中“暂时的终产物”，显得格外重要。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 362)]]
 >
 > *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*

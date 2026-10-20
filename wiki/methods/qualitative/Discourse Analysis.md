@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 自然发生的谈话（课堂对话、日常对话）、访谈[[Transcription in Qualitative Research\|转录]]、政策文本、书面材料 |

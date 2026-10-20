@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 初级研究文献及其提取的发现段落与编码单元。
 > - **输出形式** 层级化主题框架（包含基础编码、描述性主题与高阶分析性综合主题），常配合频数矩阵与情境调节模型呈现。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 数据分析遵循主题综合法与定性[[Descriptive Methods\|描述性方法]]（Sandelowski, 2010; Thomas & Harden, 2008）。编码过程涉及提取初级研究的关键发现、开发描述性主题，并将它们聚类为更高级别的分析性主题，以捕捉 ChatGPT 对批判性与[[Creativity\|创造性思维]]的综合影响。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 4–5)]]
 >
 > *Data analysis followed thematic synthesis and qualitative descriptive approaches (Sandelowski, 2010; Thomas & Harden, 2008). The coding process involved extracting key findings, developing descriptive themes, and clustering them into higher-order analytical themes...*
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 经系统检索（如 WoS、Scopus、[[Education Resources Information Center\|ERIC]]）并依纳入标准筛选出的实证文献全文本。 |

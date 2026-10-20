@@ -111,7 +111,7 @@ updated: 2026-10-20
 ### 4.3 整合工具：联合展示 (Joint Display)
 整合分析通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列，反映量化在先、质性在后的逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.240–241]])。
 
-> [!note]- 整合逻辑
+> [!note] 整合逻辑
 > 解释性序列的[[Metainferences\|元推论]]代表对量化结果的**延伸与细化**，而非简单的确认。质性主题应具体说明其如何解释了某一得分水平的成因。
 
 **表 10.3：解释性序列设计联合展示模板**
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 6. 方法变体与对比
 
-> [!tip]-
+> [!tip]
 > - [[Convergent Design\|聚敛式设计]]：同时进行 vs. 序列进行；聚敛式是互证，解释性是驱动与解释。
 > - [[Exploratory Sequential Design\|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
 
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 8. 相关概念与理论
 
-> [!tip]-
+> [!tip]
 > - [[Purposeful Sampling]] — 序列设计中连接两阶段的关键抽样策略。
 > - [[Metainferences]] — 整合解释阶段的最终产出。
 

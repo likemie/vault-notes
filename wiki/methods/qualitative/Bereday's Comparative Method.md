@@ -120,7 +120,7 @@ updated: 2026-10-20
 > 4. **综合分析阶段（Comparison / Total Analysis）**
 >    在同一理论框架下多国数据同步综合比对，对工作假说进行深入论证与检验，探寻贯通不同体制的普遍动力学机制，最终推导出跨国普遍规律或理论类型学。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 规范与要求 |
 > |---|---|
 > | 材料来源 | 各国官方学制法令、教育部年度报告、人口与教育统计年鉴、权威史学典籍与[[Fieldwork\|实地调查]]记录。 |

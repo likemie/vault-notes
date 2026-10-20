@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2008 — TIER 作为荷兰跨大学研究所建立([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 实施情况
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Educational Evidence Clearinghouses]] — TIER 是欧洲证据生产、综合和传播基础设施的一部分。
 > - [[Evidence-Based Reform]] — TIER 的干预开发、实验评价和教师学院对应证据本位改革的多个环节。
 > - [[Knowledge Mobilisation]] — TIER 通过[[Meta-analysis\|元分析]]、知识传播和 Teacher Academy 支持证据进入学校。

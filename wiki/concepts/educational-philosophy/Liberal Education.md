@@ -98,7 +98,7 @@ updated: 2026-10-20
 >
 > *The historical-philosophical cum liberal-humanist [[Discourse]]... represented by Michael Sadler, I. L. Kandel, Robert Ulich, [[Nicholas Hans]], and [[Friedrich Schneider]]... conceived of comparative education within the matrix of the [[Geisteswissenschaften|Human Sciences]] (Geisteswissenschaften)... fostered [[Enlightenment]], human betterment, liberal-humanist values, democratic citizenship, and 'liberty, equality, fraternity' to counteract totalitarian ideologies.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **现代[[General Education\|通识教育]]（[[General Education]]）** 现代通识教育往往面向大众高等教育，关注不同学科思维模式的平衡选修与认知迁移（如 Peterson 与 IB 课程）；而传统自由教育具有鲜明的阶层属性，专指以古典人文学术为唯一合法核心、以塑造少数特权绅士阶层为目标的精英传统。
 > - 不等于 **专业技术与职业教育（Vocational Training）** 自由教育在[[Ontology\|本体论]]上鄙视带有直接谋利、手工技术操作或商业功利性质的课程，认为其属于“奴役性技艺（servile arts）”，有损心智的崇高与自由。
 > - 不等于 **纯粹书本[[Rote Learning\|死记硬背]]** 英国自由教育高度依托九大公学与牛津剑桥的[[Mentorship\|导师制]]、学院礼仪与竞技体育，主张品格熏陶深植于日常生活实践与公共担当之中。

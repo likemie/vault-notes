@@ -78,7 +78,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 1990 年代：[[EU|欧盟]]创始条约为 Innovation Union 提供了法律架构建构([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])
 > - 2001 年：[[Lisbon Strategy\|里斯本议程]]首次尝试将创新原则转化为可操作的政策目标（p.169）
 > - 2010 年：[[Europe 2020 Strategy]] 启动，Innovation Union 成为旗舰倡议（p.168）
@@ -108,7 +108,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 - [[Performance Indicators|绩效指标]]体系倾向于将创新窄化为研发投入和专利产出等可量化指标，忽视了社会创新、基层创新等更广泛的创新形式。详见 [[Selectivity]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
 - 区域创新记分牌的分类（"创新领导者""一般创新者"）在年复一年的发布中从描述性标签演变为自我实现的预言——"创新领导者"更易吸引投资，"一般创新者"则陷入资源劣势的累积循环（p.174）
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 区域创新记分牌覆盖欧盟 28 个成员国的所有 NUTS2 区域(Hollanders & Es-Sadki, 2017; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
 > - 北欧、德语区和西大西洋区域为"创新领导者"；南欧和东欧区域主要为"一般创新者"和"温和创新者"（p.174）
 
@@ -121,7 +121,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
 > - [[Theories of Policy Change]] — Innovation Union 承载"[[Innovation Ecosystem\|创新生态]]体系→经济增长"的核心因果叙事
 > - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新

@@ -75,7 +75,7 @@ updated: 2026-10-20
 >
 > *Instructional method represents an important contextual moderator... Blended learning, combining in-person classroom discussion with online intelligent exploration, yielded significant gains and substantially outperformed traditional lecture-based instruction, providing a flexible learning environment with both structural support and autonomous agency.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **浅层技术叠加** 若只是在传统讲授课堂中放映数字课件，或将纸质练习题扫描上网，而未重塑师生互动流程，属于浅层媒体替换，不构成混合学习。
 > - **完全纯在线远程学习** 混合式学习必须保留定期的面对面实体教学环节，依托教师具身临场感与生生即时协作提供社会性情感支撑与辩论对抗。
 > - **翻转课堂的狭隘等同** 翻转课堂（Flipped Classroom）是混合式学习的一种典型实现[[Paradigm\|范式]]，但混合式学习包含更为宽广的双轨教学架构与项目实践形态。

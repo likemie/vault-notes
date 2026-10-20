@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - 2014 年：Horizon 2020 正式启动，SSH 整合政策生效
 > - 2014–2020 年：SSH 作为横向议题被嵌入所有研究优先领域
 > - 2021 年：[[Horizon Europe]] 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）

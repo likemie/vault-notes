@@ -92,7 +92,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 通过跨国统一测评通用[[Higher-Order Thinking Skills|高阶认知技能]]（[[Critical Thinking|批判性思维]]、分析推理、[[Problem Solving|问题解决]]）与学科专业能力，能够为不同制度背景的高等教育机构提供超越单纯科研排名的教育产出质量镜像，驱动大学教学质量问责与持续改进。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 验证跨国家、跨语言与跨文化情境测量大学生通用与学科专业学习成果的技术可行性与国际可比性。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
 > - **四大测评支柱** 项目架构由四大模块构成：(1) [[Generic Skills|通用认知技能]]（[[Generic Skills]]）；(2) 学科特定能力（选择工程学与经济学两大试点学科）；(3) 院校与学生背景情境调查；(4) [[Learning Gain|学习增益]]（增值评价）维度探索。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
 > - **双重转移路径** 针对经济学与工程学学科，联合欧洲 [[Tuning Project|Tuning]] 协会等学术网络界定专业实践胜任力；通用认知技能模块为压减成本与周期，直接采纳美国大学学习评估（[[Collegiate Learning Assessment|CLA]]）的表现性任务。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
@@ -122,7 +122,7 @@ updated: 2026-10-20
 > - **技术执行把关层（GNE）** 设立国家专家组（Group of National Experts, GNE），每年集中两次把控可行性研究进度与技术规范。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 > - **利益相关者咨询缓冲（SCG）** 首创利益相关者咨询组（Stakeholders' Consultative Group, SCG），吸纳国际大学协会与高校工会代表，缓冲高校办学自主权抵制。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 201–202)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **自愿试点与多方协商** 面对大学高度分散且自治的特点，项目依靠高校自愿申请与双轨咨询机构维持基本推进行政秩序。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 201–202)]]
 > - **应急纠偏机制** 在 [[Collegiate Learning Assessment|CLA]] 表现性任务遭遇跨语言排异与实施障碍时，研发团队被迫追加[[Multiple-Choice Questions|多项选择题]]以维持基本测量[[Reliability|信度]]。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **技术可行性指标** 跨国双向翻译一致性、计算机化施测稳定性、评分员跨国[[Reliability|信度]]。
 > - **效度与可比性指标** 通用能力与学科知识跨国因子等价性（Invariance）、背景[[Variable|变量]]与[[Academic Achievement|学业表现]]相关度。
 

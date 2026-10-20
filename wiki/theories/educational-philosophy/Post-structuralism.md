@@ -74,7 +74,7 @@ updated: 2026-10-20
 >
 > *Post-structuralism can be regarded as a counter to those structural-functionalists who adopt a systems view of society... In post-structuralist approaches, data (e.g. conversations, observations), even artefacts can be regarded as texts, as discourses that are constructed and performed through discourses, open to different meaning and interpretations... Post-structuralists argue individual agency has prominence; individuals are not simply puppets of a given system, people are diverse and different, indeed they may carry contradictions and tensions within themselves... The task of the research is to 'deconstruct', e.g. to expose, the different meanings, layers of meanings and privileging of meanings inherent in a phenomenon or piece of research.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 结构主义（Structuralism） — 结构主义假定深层不变的普遍语法、系统规律与决定论结构；后结构主义坚决解构系统中心，主张去中心化、历史偶变性与意义延异。
 > - 不等于 [[Postmodernism\|后现代主义]] — 后现代主义侧重于宏观历史时代断裂、[[Grand Theory\|元叙事]]合法性危机与异质多元世界观；后结构主义更聚焦于微观符号、话语权力、文本解读与去中心化主体的能动实践。
 > - 不等于 [[Critical Theory\|批判理论]] — 批判理论追求启蒙理性与解放规范性；后结构主义对一切理性解放叙事保持解构警惕，二者在[[Jürgen Habermas\|哈贝马斯]]交往理性论辩中形成深刻理论张力。

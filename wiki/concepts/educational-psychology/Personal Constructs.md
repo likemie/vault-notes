@@ -49,7 +49,7 @@ updated: 2026-10-20
 > - **用途** 在研究中，引发个体的个人建构可以揭示其认知结构、价值观层级、自我概念和意义系统。[[Repertory Grid Technique]] 是系统引发和分析个人建构的核心工具。
 > - **边界** 个人建构不等于通用概念或社会共享的分类系统；它是个体层面的、双极的（每个[[Construct\|构念]]有两个对立极点）、且彼此之间存在层级组织关系（从属—上属）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 个人建构是我们用于概念化日常生活中各个方面的维度，人对事件的建构各不相同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 >
 > *Personal constructs are the dimensions that we use to conceptualize aspects of our day-to-day world, and people differ from each other in their construction of events.*

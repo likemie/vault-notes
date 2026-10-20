@@ -69,7 +69,7 @@ updated: 2026-06-02
 >
 > 质性数据收集与实验的各个连接点，就是[[Mixed Methods Research\|混合方法研究]]中的整合点。
 
-> [!example]- 图10.3：混合方法干预设计图
+> [!example] 图10.3：混合方法干预设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-3_Mixed_Methods_Intervention_Design.jpg)
 
 ---

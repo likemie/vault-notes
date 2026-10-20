@@ -75,7 +75,7 @@ updated: 2026-10-16
 > [!claim] 过程构件与[[Criterion Problem\|效标问题]]
 > [[Divergent Thinking\|发散思维]]（Divergent Thinking）是评估创造潜能的核心认知构件，但仅代表构想生成阶段；解决[[Creativity Assessment\|创造力测量]]长期面临的效标问题（The Criterion Problem）需要整合[[Problem Finding\|问题发现]]、观念生成与多维外认知调节[[Variable\|变量]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 认为背景变量可能影响创造力的观点源于人类具有可被实现的创造潜能这一理论；关于创造力认知的观点源于指出发散思维、顿悟与问题发现的理论。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 4)]]
 >
 > *...the idea that background variables may influence creativity follows from the theory that humans have creative potentials which may be fulfilled... The idea that there are cognitive correlates of creativity follows from numerous theories which point to divergent thinking, insight, [[Problem Solving]], and so on.*

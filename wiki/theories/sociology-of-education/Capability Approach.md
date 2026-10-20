@@ -232,7 +232,7 @@ updated: 2026-10-20
 > > - **技术官僚与量化经济学家** 批评可行能力概念过于抽象、[[Operationalization|操作化]]成本高昂，难以构建简明且具有国际可比性的政策统计指标。
 > > - **博亚吉耶娃与人文发展学派（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022]]）** 指出追求过度简化的量化指标（如大学排行榜）导致政策视野急剧窄化并造成严重的学术治理异化，即使存在测量困难，也必须坚持多维使命的综合审视。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–136)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 揭示[[Global Universities Rankings|全球大学排名]]系统严重依赖狭隘的科研与就业指标，系统性偏离并压制了大学在教化心灵与促进公平方面的可行能力拓展使命。
 
 ---

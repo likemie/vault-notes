@@ -65,7 +65,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 性别作为经验类别、制度过程、[[Discourse|话语]]实践。
 > - **输出形式** 赋权行动、女性声音呈现、性别权力分析、变革实践。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 女性主义研究挑战不赋权被压迫和隐形群体——女性——的研究的合法性。Ezzy (2002, p. 20) 提出需要用来自女性主义视角的解放性知识承诺取代传统的男性化科学图景，因为"如果仅使用男性立场的理论和观察来分析女性经验，由此产生的理论将压迫女性"。（第2章，2.5节）
 >
 > If women's experience is analyzed using only theories and observations from the standpoint of men, the resulting theories oppress women. (Ezzy, 2002, p. 23)

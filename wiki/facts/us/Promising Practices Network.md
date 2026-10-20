@@ -68,7 +68,7 @@ updated: 2026-10-16
 
 ## 机构背景与资助体系
 
-> [!note]- 发展背景与资助演进
+> [!note] 发展背景与资助演进
 > PPN 由兰德公司儿童与政策倡议中心发起，受到威廉与弗洛拉·惠普尔基金会等多家慈善基金支持。
 >
 > - **先驱性循证平台** 在 [[What Works Clearinghouse\|WWC]] 成立之前，PPN 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 共同开创了美国早期循证项目独立评级[[Paradigm\|范式]]。

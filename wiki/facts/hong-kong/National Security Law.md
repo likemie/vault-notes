@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2020 — 国安法落地与通识科危机**
 >   - 2020-06-30 全国人大常委会正式颁布实施香港国安法，在教育体系中确立了强制国民教育的法定地位（p.141）。
 >   - 2020-07-09 中国官方媒体集中攻击[[General Education\|通识教育]]科，将其归结为引发社会危机的根源。
@@ -84,12 +84,12 @@ updated: 2026-10-20
 
 ## 关键文件／声明
 
-> [!citation-card]- 国安法与国民教育的法定框架
+> [!citation-card] 国安法与国民教育的法定框架
 > 2020年引入的国安法为强制性国民教育提供了法律框架（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。
 >
 > *“The introduction of the National Security Law in 2020 provided the legal framework for compulsory [[National Education]].”*
 
-> [!citation-card]- 国安法后的课程[[Paradigm\|范式]]转型
+> [!citation-card] 国安法后的课程[[Paradigm\|范式]]转型
 > 2020年后通识科与[[Citizenship and Social Development\|公社科]]课程的重组标志着一个决定性的转变：从侧重于培养理性讨论和参与式公民所必需的素质，转向强加一种关于香港作为中国一部分的同质化和总体性的国族身份图景（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
 > *“The POST-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development\|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
@@ -124,7 +124,7 @@ updated: 2026-10-20
 > - **国家安全无边界延伸（蓝方）** 将维护主权和政治稳定置于绝对优先地位，任何教育内容和教学自主必须让位于国家利益与安全控制（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 490]]）。
 > - **专业与学术自治（红方）** 强调教育应当保护学生的批判思考能力、教师的教学自主权，以及对多元身份与争议性议题进行理性探讨的学术与专业空间（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141, 149]]）。
 
-> [!citation-card]- 青年异化的[[Psychologisation\|心理化]]归因
+> [!citation-card] 青年异化的[[Psychologisation\|心理化]]归因
 > 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
 > *“Official [[Discourse]] meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*

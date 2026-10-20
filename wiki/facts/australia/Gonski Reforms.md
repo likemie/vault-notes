@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - **2011** — 第一轮 Gonski 审查报告发布
 > - **2018** — 第二轮 Gonski 审查报告发布（"[[Gonski 2.0|Through Growth to Achievement]]"）
 > - **持续** — 改革在各州和部门的实施情况参差不齐

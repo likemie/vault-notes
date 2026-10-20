@@ -59,13 +59,13 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 国际董事会同意鼓励既有且符合条件的学校与 [[United World Colleges\|UWC]] 建立关联，但正式决定前必须先与现有联合世界书院保持一段适当长度的非正式联系。政策没有规定统一年限，把时间判断和最终资格保留给个案审议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 124)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 在扩大国际影响的同时检验学校是否能够持续承担共同教育目标，并防止关联自动等同正式成员身份。
 > - **对象** 已经运行、价值方向可以接受，并希望取得 UWC 正式联系的学校。
 > - **工具** 非正式校际配对、持续合作、国际办公室协调、课程与服务经验交流，以及国际董事会的资格审议。
 > - **约束方式** 以阶段性联系和个案判断代替自动准入。政策使用指导性程序，没有统一期限、量化标准或自动晋级规则。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–124)]]
 
-> [!citation-card]- 非正式联系期
+> [!citation-card] 非正式联系期
 > 正式成员决定前，候选学校与现有联合世界书院之间应经历一段适当长度的非正式联系。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 124)]]
 >
 > *A period of informal linking of appropriate length between these schools and existing United World Colleges.*
@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!dev-timeline]- 关联政策的形成与首轮检验
+> [!dev-timeline] 关联政策的形成与首轮检验
 > - **1970 年 10 月　新加坡形成关联先例** 新加坡[[International Schools\|国际学校]]以整校身份成为关联学校，[[United World Colleges\|UWC]] 通过人员、奖学金和国际联系进入既有学校。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 113–114)]]
 > - **1975 年 4 月　先例转为成员边界问题** 东南亚联合世界书院取得正式身份，证明关联学校可能迅速要求完整成员资格。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117)]]
 > - **1975 至 1977 年　董事会讨论关联网络** 扩展派设想经典书院核心、约十余所关联学校内圈和数百所[[International Baccalaureate\|国际文凭]]学校外围；谨慎派强调国际办公室成本和身份稀释风险。
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > - **现有[[United World Colleges\|联合世界书院]]** 与候选学校形成非正式配对，通过实际合作检验教育目标和组织连续性。
 > - **候选学校及校董会** 提供已有课程、治理和地方实践，并证明关联能够在人员更替后继续约束学校方向。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–124)]]
 
-> [!pathways]- 从候选学校到正式成员
+> [!pathways] 从候选学校到正式成员
 > - **价值筛选** 判断学校的创办目的、学生共同体、服务活动和[[International Education\|国际教育]]方向是否与 UWC 相容。
 > - **非正式联系** 候选学校与现有书院保持适当时长的合作，让双方了解课程、治理和支持需求。
 > - **关联决定** 国际机构确认正式联系，但不自动授予完整成员资格。

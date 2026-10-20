@@ -100,7 +100,7 @@ updated: 2026-10-20
 > - **技术与环境工程顾问处（Technical & Environmental Engineering）** 依托能源部国家实验室科学家与注册工程师，对项目的[[Technology Readiness Level|技术就绪度]]、生产良率与环境影响进行严密现场工程审计。
 > - **信贷风险与资产监督委员会（Credit Review Board）** 负责独立评估借款人信用违约概率，设立抵押物与还款里程碑，确保联邦公共资金安全。
 
-> [!pathways]- 业务运行机制与跨越“[[Valley of Death|死亡之谷]]”
+> [!pathways] 业务运行机制与跨越“[[Valley of Death|死亡之谷]]”
 > - **首台套商业化填补（Bridging the Valley of Death）** 传统商业银行仅愿意为拥有成熟运营记录的成熟项目贷款；LPO 专门为已完成中试（TRL 7–8）但首次进行大规模商业化工厂建设（TRL 9）的企业提供定制化低息贷款。
 > - **辛迪加对等谈判（Term Sheet Negotiation）** 凭借内部高素质金融团队，与福特、通用、Ultium 等巨头展开完全平等的商业条款谈判，将法定[[Policy Conditionalities|政策附加条件]]（现行工资、[[Apprenticeship|学徒制]]、社区效益计划）嵌入具有法律约束力的贷款合同。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
 > - **私营资本撬动与挤入效应（Crowding-in Private Capital）** LPO 通常仅提供项目所需资金的 50%–70%，强制要求私营股权资本与商业财团共同出资，成功将公共信用转化为私营资本入场的“信任背书”。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力与运营指标
+> [!indicators] 影响力与运营指标
 > - **资本授信与资产规模** 拥有超过 4000 亿美元的法定放贷能力，申请储备项目总额逾千亿美元。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **历史资产安全性指标** 自 2009 年累计发放数批贷款以来，整体投资组合的实际净损失率低于 3%，甚至优于许多商业银行的基础设施信贷资产。
 > - **产业催化辐射度** 历史上通过早期贷款成功孵化了特斯拉电动汽车制造与全美最初五座百万千瓦级大型公用事业太阳能光伏电站。

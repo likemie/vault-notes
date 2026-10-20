@@ -79,7 +79,7 @@ updated: 2026-10-20
 > - **核心角色** [[Niklas Luhmann|卢曼]]（Niklas Luhmann）系统论教育学的重要阐释者，当代[[Evidence-Based Education|循证教育]]与《[[Visible Learning|可见的学习]]》在丹麦及北欧地区的主要学术引介者与理论辩护者。
 > - **代表贡献** 提出以贝特森（Gregory Bateson）学习理论为基础的[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]、提出[[Professional Judgment|专业判断]]作为可见学习干预与成效之间的“缺失环节”（The Missing Link）、从系统论视角构建观察透镜[[Epistemology|认识论]]。
 
-> [!citation-card]- 论可见学习支持教师专业判断的宗旨
+> [!citation-card] 论可见学习支持教师专业判断的宗旨
 > 可见学习的宗旨在于支持教师的专业判断……其目标是为教师提供用于明智解决问题的假设。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 7)]]
 >
 > *The aim of Visible Learning is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent [[Problem Solving|problem solving]]'.*
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 克沃特鲁普立足于社会系统论与[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]，主张教学与学习体现为两个操作封闭系统之间的结构性联动，难以还原为线性的机械因果决定。他认为实证[[Meta-analysis|元分析]]与[[Effect Size|效应量]]的核心功能在于为教师提供智能探究假设，以超越机械的技术操作；教师的[[Professional Judgment|专业判断]]正是连接研究证据与情境行动的核心枢纽（The Missing Link）。同时，他倡导多元观察透镜立场，主张定量元分析与定性人文研究属于互为补充的观察视角，共同服务于理解教育复杂性。
 
 > [!citation-card] 论专业判断作为教学与学习的缺失环节
@@ -136,7 +136,7 @@ updated: 2026-10-20
 > - **政策与实践路径** 作为丹麦引入《[[Visible Learning|可见的学习]]》的关键学术推手，其撰写的导言与政策咨询报告直接影响了丹麦基础教育改革、教师专业发展项目与[[School Effectiveness|学校效能]]评估政策的推进。
 > - **跨国传播与论辩** 其 2019 年在 NordSTEP 发表的辩护论文成为国际学术界关于《可见的学习》论争中罕见且具系统理论深度的支持方代表文献，与北欧及国际批判学界展开长久对话。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 面对可见学习的方法论争议，提出四阶动态知识与学习模型以修正学习结果界定。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 综合解释社群、观察透镜与系统结构联结，为可见学习构建系统性理论辩护。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 丹麦哲学家罗默系统批判克沃特鲁普的医学化类比与原始数据库存设想，指出其导致的“衰变序列”。
@@ -165,7 +165,7 @@ updated: 2026-10-20
 > > [!axis] “解释社群”标签的学理有效性争鸣
 > > 克沃特鲁普（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）运用文学理论家斯坦利·菲什（Stanley Fish）的“解释社群”概念，将丹麦批评者整体定性为因先入为主而形成误解的封闭社群。批评者反驳指出，这种定性将具有深厚学理支撑的方法论与哲学质询轻慢地降维为“误解”，回避了关于[[Effect Size|效应量]][[Heterogeneity|异质性]]与[[Construct|构念]]错位的实质性学术检验。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 深入剖析克沃特鲁普对可见学习的引介逻辑，批评其悬置规范性科学、推崇原始数据库存的技术治理倾向。
 
 > [!warning] 未解问题与边界

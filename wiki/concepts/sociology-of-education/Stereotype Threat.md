@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **2002 年** — Aronson 在 social psychology 领域正式提出 stereotype threat 概念，最初用于解释标准化测试中的种族和性别成绩差距
 > - **2007 年** — Ryan & Louie 将这一概念引入[[Intercultural Education|跨文化教育]]研究，观察到[[Chinese Learner\|中国学习者]]在西方课堂中**内化**了关于自己"被动"的刻板描述，甚至为不够主动而主动道歉([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])
 > - **2010 年** — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]]在 [[Chinese Learner]] 的批判分析中，系统展示了刻板印象威胁在跨文化教育中的完整运作链条，并将其与 [[Orientalism]] 的理论框架对接
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - 植根于社会心理学的刻板印象研究传统（Aronson, 2002）
 > - 在[[Intercultural Education|跨文化教育]]语境中与 [[Orientalism]]（Said, 1978）形成理论衔接：正是西方学术界将[[Chinese Learner\|中国学习者]]定义为"以偏离西方规范来定义"（Watkins & Biggs, 2001, p.4），才为刻板印象威胁提供了[[Discourse|话语]]激活条件。详见 [[Chinese Learner#定义]]
 > - 与 [[Meta-Cultural Sensitivity]] 形成理论互补：刻板印象威胁描述了**问题机制**（刻板印象如何伤害学生），元文化敏感度提供了**解决方案**（教师如何超越刻板印象）

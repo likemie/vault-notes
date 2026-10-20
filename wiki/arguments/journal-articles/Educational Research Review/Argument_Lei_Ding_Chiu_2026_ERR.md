@@ -187,10 +187,10 @@ updated: 2026-10-17
 
 ### 论证步骤一　空间组织表征卸载低阶认知负荷并显著赋能高阶思维整体发展
 
-> [!example]- 图1：Ana 的[[Higher-Order Thinking Skills\|高阶思维]]倾向、认知过程与技能结果概念模型
+> [!example] 图1：Ana 的[[Higher-Order Thinking Skills\|高阶思维]]倾向、认知过程与技能结果概念模型
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig1_Conceptual_Framework.jpg)
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Graphic Organizer\|图形组织器]]通过空间隐喻与信息提取有效降低了低阶认知负荷，对学生[[Higher-Order Thinking Skills\|高阶思维]]的整体发展具有中等到强效的稳健促进作用。
 
 > [!case] 理论案例解析：Ana 的蒲公英重金属探究与高阶思维三元结构
@@ -216,7 +216,7 @@ updated: 2026-10-17
 
 ### 论证步骤二　高阶思维构念层级与思维类型对图形组织器干预效应的调节机制
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 图形组织器的促学效应在思维[[Construct\|构念]]层级上表现为倾向与过程优先于技能结果，在思维类型上表现为[[Divergent Thinking\|发散思维]]显著优于[[Convergent Thinking\|聚合思维]]。
 
 > [!chain-link] 证据到判断
@@ -239,10 +239,10 @@ updated: 2026-10-17
 
 ### 论证步骤三　图形组织器结构复杂度与认知开销的效能级差检验
 
-> [!example]- 图2：[[Concept Mapping\|概念图]]、[[Argument Mapping\|论证图]]与[[Mind Mapping\|思维导图]]结构形态对比
+> [!example] 图2：[[Concept Mapping\|概念图]]、[[Argument Mapping\|论证图]]与[[Mind Mapping\|思维导图]]结构形态对比
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig2_Graphic_Organizer_Types.jpg)
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 图形组织器的工具效能与其内在结构复杂度呈反比：单中心低开销的思维导图促学效应最强，依循严密逻辑的论证图次之，多向交叉的概念图相对最弱。
 
 > [!chain-link] 证据到判断
@@ -260,7 +260,7 @@ updated: 2026-10-17
 
 ### 论证步骤四　学习者认知发展阶段与宏观社会经济背景的调节效应
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 图形组织器的促学收益受学习者[[Meta-Representational Competence\|元表征能力]]与社会技术条件的双重调节，呈现出中学生收益最高、经济与技术发展水平正向赋能的分布格局。
 
 > [!chain-link] 证据到判断
@@ -309,13 +309,13 @@ updated: 2026-10-17
 
 ### 论证步骤五　元分析方法学诊断与发表偏倚检验
 
-> [!example]- 图3：[[Literature Search\|文献检索]]与筛选 [[PRISMA]] 流程图
+> [!example] 图3：[[Literature Search\|文献检索]]与筛选 [[PRISMA]] 流程图
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig3_PRISMA_Flowchart.jpg)
 
-> [!example]- 图4：[[Meta-analysis\|元分析]]纳入研究[[Funnel Plot\|漏斗图]]
+> [!example] 图4：[[Meta-analysis\|元分析]]纳入研究[[Funnel Plot\|漏斗图]]
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig4_Funnel_Plot.jpg)
 
-> [!claim] 步骤五主张
+> [!claim|lead] 步骤五主张
 > 本元分析证据体系方法学质量严格，漏斗图分布对称，统计检验排除了[[Publication Bias\|发表偏倚]]对核心结论的实质性威胁。
 
 > [!chain-link] 证据到判断
@@ -350,12 +350,12 @@ updated: 2026-10-17
 
 ## 关键引用
 
-> [!citation-card]- 认知负荷释放与[[Higher-Order Thinking Skills\|高阶思维]]赋能机制
+> [!citation-card] 认知负荷释放与[[Higher-Order Thinking Skills\|高阶思维]]赋能机制
 > 能够提取关键信息并在空间上进行组织的视觉工具（如各种图表、图示、导图等[[Graphic Organizer\|图形组织器]]），可以将学生的认知努力从低阶思维中解放出来，投入到高阶思维（包括倾向、认知过程与技能）之中。（p.1）
 >
 > *Hence, visual tools that pick out key information and spatially organize it (e.g., charts, diagrams, maps; graphic organizers, GO) might release students' cognitive effort from their lower-order thinking to their higher-order thinking (dispositions, cognitive processes, skills)...*
 
-> [!citation-card]- 高阶思维倾向、过程与技能的分层逻辑
+> [!citation-card] 高阶思维倾向、过程与技能的分层逻辑
 > 倾向先于认知过程，认知过程先于高阶思维结果；成功的高阶思维结果需要合适的高阶思维倾向与认知过程同时具备，而无论是倾向还是认知过程本身都不依赖于终结性结果。因此，当评估高阶思维倾向或认知过程而非终结性技能时，图形组织器的[[Effect Size\|效应量]]往往更大。（pp.3, 11）
 >
 > *As dispositions precede cognitive processes and cognitive processes precede higher-order thinking outcomes, successful higher-order thinking outcomes require both suitable higher-order thinking dispositions and higher-order thinking cognitive processes... Hence, GO-HOT links are likely larger when assessing higher-order thinking dispositions or cognitive processes rather than higher-order thinking skills.*

@@ -88,7 +88,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 国家财政打破传统的按学校整体规模平均配给模式，以过去 6 年内有资格享受免费校餐（Ever 6 FSM）的学生人头为基准，向学校直接拨付非定向专项津贴；赋予中小学校长完全的经费支配自主权，但要求学校必须依据严格的实证科研证据合理规划开支，切实缩小弱势学生的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–48)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 阻断家庭背景与[[Academic Achievement\|学业成就]]之间的代际传递，提升 3 至 18 岁处境不利青少年的学业水平与生活技能，缩小全英学业成就鸿沟。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
 > - **适用对象** 享受免费校餐（Free School Meals, FSM）及在过去六年曾登记过 FSM 的学生（Ever 6 FSM）、由地方当局看护满一天以上的儿童（Looked-after children, LAC）以及军人家庭子女（Service Children）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 > - **政策工具** 人头递增专项补助金（Pupil Premium Grant, PPG）、自主支配裁量权以及由官方认定的第三方证据决策支持平台（[[Education Endowment Foundation\|EEF]] 工具包）。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
@@ -119,7 +119,7 @@ updated: 2026-10-20
 > - **证据支持与中介机构** [[Education Endowment Foundation\|EEF]] 与[[Research Schools Network\|研究学校网络]]（RSN） — 负责证据转化，向全英学校输出通俗易懂的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与证据教练入校辅导。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
 > - **外部督导与问责机构** 英国教育标准局（[[Ofsted]]） — 负责将津贴支出的循证依据与实际缩小成就差距的幅度作为评定学校办学质量的关键维度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 237)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **中央精准测算与直接下达** 依托教育部 NPD 普查系统的唯一学生编号（UPN），彻底剔除传统地方教育局（LEAs）的中间截留，实现从中央财政到学校账户的点对点下沉。
 > - **学校[[Evidence-Based Policy-Making|循证决策]]与三年规划** 学校被要求将津贴开支从早期的“碎片化购买”转变为结构化的“分层支持模型”：第一层优质日常教学改进、第二层针对性学业辅导（如 1 对 1 或小班阅读辅导）、第三层更广泛的非学业支持（出勤率与心理健康）。
 > - **公开透明披露与督导核查** 学校必须在官网上发布标准化模板的《学生津贴战略陈述书》（Pupil Premium Strategy Statement），详述往年产出与后续预算论据。
@@ -151,7 +151,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 2011 年启动时为 6.25 亿英镑，至 2020 年稳定在每年逾 25 亿英镑；每名合格小学生的年度津贴超 1,300 英镑，中学生超 900 英镑。
 > - **过程指标** 全英格兰逾 14,000 所公立中小学纳入覆盖；超过 70% 的中学校长制度化依据 [[Education Endowment Foundation\|EEF]] 证据规划预算。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 > - **结果指标** 小学阶段（Key Stage 2）弱势学生与非弱势学生的学业差距在政策实施前十年间收窄约 9.3%，但中学统考阶段（Key Stage 4 / GCSE）的差距收窄较为缓慢且存在显著的区域不平衡。

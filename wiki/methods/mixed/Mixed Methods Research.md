@@ -147,7 +147,7 @@ updated: 2026-10-20
 >
 > 如果不进行实质整合，即使在同一项调查中同时收集了量化与质性材料，也仅属于未完成整合的准混合或并列多方法研究。
 
-> [!example]- 图10.1：混合方法研究的核心要素
+> [!example] 图10.1：混合方法研究的核心要素
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-1_Essential_Components_of_Mixed_Methods_Research.jpg)
 
 > [!abstract] 混合方法研究的六个定义性特征（从核心到外层）
@@ -224,7 +224,7 @@ updated: 2026-10-20
 ### 克雷斯威尔三大核心设计
 克雷斯威尔等学者将纷繁复杂的设计提炼为三种最具操作性的核心母[[Paradigm|范式]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 233–238]]）：
 
-> [!example]- 图10.2：三种核心设计
+> [!example] 图10.2：三种核心设计
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
 
 > [!designs] 三种核心设计（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
@@ -242,7 +242,7 @@ updated: 2026-10-20
 > | **平行运行** | 量化数据与质性数据并行独立推进 | 两类数据持续并行采集 | 两种结果汇总合并回答研究问题 | 最终阶段合并 |
 > | **合成式** | 量化与质性数据从方案构思起便高度共生 | 全程联动采集与双向迭代 | 全程持续迭代交织 | 全流程整合 |
 
-> [!tip]- 规划启示
+> [!tip] 规划启示
 > 研究者需审视各阶段所需的时间弹性。前载型（front-loaded）[[Quantitative Research\|量化研究]]前期工具研制与[[Pilot Testing\|预测试]]准备耗时较长，但后期数据清理和运算较快；后载型（end-loaded）质性研究进入现场较快，但后续田野[[Transcription in Qualitative Research\|转录]]、多轮编码与[[Rich and Thick Description\|厚描述]]撰写极其耗时。混合方法处于两者之间，若缺乏严谨的时间规划易导致进度失控（pp. 119–121）。
 
 ---

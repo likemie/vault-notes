@@ -81,7 +81,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法** 是否催生了全新的国家教育制度、公立法案或监督体制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **思想范式变迁** 对教育哲学思潮、课程知识合法性或学术研究转向的塑造。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **社会结构重塑** 对不同阶层受教育权普及、女性/少数族裔平权或社会流动的长期影响。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

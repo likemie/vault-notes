@@ -66,7 +66,7 @@ updated: 2026-10-20
 > [!claim] 核心干预／机制假说
 > 项目的核心假说主张：毛利学生学业困境的决定性根源并非学生自身的文化或家庭缺陷，而是教师根深蒂固的 [[Deficit Framing\|赤字归因]]（Deficit Theorising）；通过倾听学生真实的课堂体验叙事、打破赤字认知，并在课堂中建立基于毛利文化隐喻的关系性教学配置（[[Effective Teaching]] Profile），能够迅速恢复学生的学习尊严并大幅提升[[Academic Achievement\|学业表现]]。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **倾听学生心声与叙事采集** 深入访谈 9–10 年级毛利学生、流失学生、家长及校长，建立“以学生体验为镜”的证据库，直观揭示学生对消极[[Student-Teacher Relationship\|师生关系]]与低期望的敏感洞察。
 > - **破除赤字理论与重塑[[Teacher Professional Agency\|教师能动性]]** 通过专业研讨会向教师展示学生叙事，使教师痛苦而清醒地意识到自身将学生困难归因于家庭文化是在推卸教学责任，进而确立“教师能够在课堂创造改变”的专业承诺。
 > - **有效教学画像（Effective Teaching Profile）** 建立涵盖 Manaakitanga（关爱学生作为毛利人的身份）、Mana Motuhake（对学生学业抱有极高期望）、Whanaungatanga（构建班级家庭式信任关系）、Wānanga（互动对话式教学）与 Kotahitanga（共同愿景）等毛利文化核心价值的课堂教学规程。

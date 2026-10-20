@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **2002–2008 — 奠基与金标准确立期** [[Education Sciences Reform Act 2002|ESRA]] 法案通过后设立 NCEE，启动[[What Works Clearinghouse\|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials\|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境[[Heterogeneity\|异质性]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 > - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和[[Race to the Top|争向顶峰]]（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education\|循证教育]][[Meta-analysis\|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
@@ -117,7 +117,7 @@ updated: 2026-10-20
 >   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育文献数据库。
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
-> [!pathways]- 业务运行机制与独立性制度特征
+> [!pathways] 业务运行机制与独立性制度特征
 > - **法定独立评估采购** 依据 [[Education Sciences Reform Act 2002|ESRA]] 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、[[MDRC]]、SRI International、[[AIR Model of Epistemic Cognition\|AIR]]）。
 > - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation\|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence\|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs\|准实验设计]]（QED）并导致高流失率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。
 
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **评估项目规模** 成立二十年来主持及资助了数百项跨州、跨学区的大规模现场因果试验，覆盖数百万受试学童。
 > - **[[Evidence Standards\|证据标准]]全球外溢** [[What Works Clearinghouse\|WWC]] 证据审查框架被[[OECD\|经合组织]]（OECD）、澳大利亚 [[Australian Education Research Organisation\|AERO]] 及全球数十个国家循证中介机构深度参考或采纳。
 > - **政策问责重塑** 使得联邦教育财政资助（从 i3 到 [[Education Innovation and Research\|EIR]]、从 [[Title I of the Elementary and Secondary Education Act\|Title I]] 到 Comprehensive Support）全量与因果证据层级深度挂钩。

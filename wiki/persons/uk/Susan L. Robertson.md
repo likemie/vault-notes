@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** 全球教育空间政治经济学研究的领军学者；系统揭示[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对全球[[Educational Privatisation|教育私有化]]与商品化推进机制的学术先锋。
 > - **代表贡献** 与[[Roger Dale|罗杰·戴尔]]及哈维尔·博纳尔共同创建“[[Pluri-Scalar Governance|多标度教育治理]]”三维[[Analytic Framework|分析框架]]；系统论证教育从国家公共品向全球贸易服务的体制嬗变；深刻剖析新自由主义对教师劳动过程与专业身份的重构。
 
-> [!citation-card]- [[Robert Arnove|阿诺夫]]论罗伯逊对服务贸易总协定的关键研究
+> [!citation-card] [[Robert Arnove|阿诺夫]]论罗伯逊对服务贸易总协定的关键研究
 > 为了进一步开启全球化的黑箱，罗伯逊、博纳尔与戴尔（2002）深入审视了《服务贸易总协定》（GATS）。他们提供了一套概念框架与严密的分析范畴，用以理解千禧年以来教育发生的深刻剧变。他们指出，世贸组织致力于构建一个无壁垒的假设性世界教育体系，不仅涉及学历文凭国际化与知识产销全球化，更深刻影响了长期由民族国家掌控的[[CORE Education|核心教育]]主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
 > *In a further effort to open the "black box" of globalization, Robertson, Bonal, and Dale (2002) examine the General Agreement on Trade in Services (GATS). They provide a conceptual framework and a "rigorous set of analytic categories that might enable us to make sense of the profound changes now characterizing education in the new millennium."*
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球化不是权力的简单消散，而是权力在地理与制度空间上的重新标度化（[[Rescaling]]）。伴随[[World Trade Organization|世贸组织]]及其《[[GATS and Trade in Education Services|服务贸易总协定]]》的推行，教育被制度化地重组为一种跨境资本可以合法套利的私人物品与贸易服务，民族国家不再垄断教育的筹资、提供与规制权，而是不得不与跨国资本、私立承包商和区域集团共享甚至让渡主权；这一过程深刻地加剧了全球教育获取的不平等与教师劳工的去专业化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 罗伯逊论世贸组织与国家主权让渡

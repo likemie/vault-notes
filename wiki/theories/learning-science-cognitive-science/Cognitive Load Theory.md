@@ -90,7 +90,7 @@ updated: 2026-10-20
 > [!claim] 核心判断
 > 人类认知架构的核心特征是狭窄有限的工作记忆（Working Memory, WM）与容量庞大持久的长时记忆（Long-Term Memory, LTM）之间的结构性不对称；教学设计的最优目标在于通过精细解构教学任务，消除不必要的外在认知负荷（Extraneous Load），优化由元素交互性决定的内在认知负荷（Intrinsic Load），并释放有限的心智资源转化为关联认知负荷（Germane Load），以促进长时记忆中知识图式（Schemas）的建构与自动化提取。在复杂教学与数字化环境中，[[Scaffolding\|教学支架]]必须精准平衡认知负荷，防止将关键的[[Epistemic Friction\|认识论摩擦]]（Epistemic Friction）有害外包，或因缺乏支架导致盲目试错超载。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–11)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–3)]]
 
-> [!citation-card]- 关键表述：工作记忆限制与图式建构
+> [!citation-card] 关键表述：工作记忆限制与图式建构
 > 认知负荷理论将人类认知架构作为教学设计的出发点。其基本前提是：在处理新信息时，工作记忆在广度和持续时间上均受到严格限制；而长时记忆则储存着大量在复杂度与数量上均无上限的图式单元。学习的实质就是将多个离散信息元素组织为单一高级图式，并在反复演练中达到自动化运作。（Sweller, 1988, 1998, 2021）
 >
 > *Cognitive Load Theory is based on a cognitive architecture that consists of a limited working memory and an unlimited long-term memory. The central purpose of instructional design is to manipulate the extraneous and intrinsic cognitive loads so that working memory capacity is freed to [[Construct]] and automate cognitive schemas in long-term memory.*
@@ -220,7 +220,7 @@ updated: 2026-10-20
 > > - **[[Positivism\|实证主义]]立场（Sweller）** 坚信脑神经认知规律超越文化差异，必须作为强制性[[Initial Teacher Training\|初始教师培训]]与课程设置的实证标准。
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会教育过程约化为机械的实验室数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销，存在生物还原主义风险并压制了教师的专业自主反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的文献选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评认知负荷理论在澳大利亚教师教育改革中被保守智库工具化，指出其将学生学习差异简单还原为工作记忆负荷，[[Screening Off\|屏蔽]]了教育的社会历史与文化关系维度。
 

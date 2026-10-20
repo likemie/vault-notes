@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 比较教育史学者在追溯学科思想源流时，将裴斯泰洛齐视为人道儿童中心[[Paradigm|范式]]的重要源泉：
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 卡洛扬纳基与卡扎米亚斯指出：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，朱利安希望倡导一种实用的、以儿童为中心的教育方法论，强调感官教育与适应社会生活的准备，一切均带有鲜明的人道主义色彩……朱利安在 1810 年访问瑞士伊弗东裴斯泰洛齐学校后确立了核心法则：教育在于使儿童顺应自然天性，让身体、心灵与理智的固有潜能得到和谐充分的自主生长。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18, 20)]]
 >
 > *Influenced as he was by the ideas of Rousseau and Pestalozzi, he wished to encourage a practical, child-centered educational methodology that emphasized, among other things, education of the senses and preparation for life in society, all with a humanitarian emphasis.* (Noah & Eckstein, 1969:16; Palmer, 1993:163–164)
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育的本质不在于自上而下向儿童灌输抽象僵死的教条知识，而在于通过关爱与理解，促使儿童内心蕴藏的体力、智力与道德官能顺应自然秩序获得和谐舒展。一切认知均始于感官对具体事物的直接直观观察；唯有彻底扬弃依赖恐惧与皮鞭维持的粗暴体罚，以教师的人道关爱与内在求知欲引导儿童，学校才能成为唤醒人类尊严与造就健全公民的圣殿。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18, 20)]]
 
 ---

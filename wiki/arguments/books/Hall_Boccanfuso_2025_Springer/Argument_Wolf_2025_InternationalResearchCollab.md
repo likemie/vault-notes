@@ -106,12 +106,12 @@ citation_aliases:
 
 ### 第一步：国际 UI 合作的特殊性来自基础研究与应用研究在跨国条件下的张力叠加
 
-> [!note]- [[Pasteur's Quadrant|巴斯德象限]]的定位功能
+> [!note] [[Pasteur's Quadrant|巴斯德象限]]的定位功能
 > 学术界专长于基础研究，追求对现象的根本科学理解；产业界聚焦于应用研究，以解决现实问题为首要目标(p.310)。两者的自然交汇点正是 Stokes(1997)四象限模型中的巴斯德象限：[[Use-Inspired Basic Research\|应用启发的基础研究]]，同时追求深层机制理解和实际需求驱动。
 >
 > 这种双重目标在国内合作中已产生张力：大学需要发表自由，产业需要商业保密。当合作跨越国界时，每一重张力都被额外叠加了跨境维度。发表自由不仅受产业合同约束，还受出口管制和国家安全审查约束；知识产权不仅涉及双方谈判，还涉及多国法律体系的不兼容。
 
-> [!example]- 图17.1：Stokes 四象限模型
+> [!example] 图17.1：Stokes 四象限模型
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_17-1_Stokes_Quadrant_Model.jpg)
 
 ---
@@ -162,7 +162,7 @@ citation_aliases:
 > [!info] Dollinger et al.(2018)三因素框架
 > 该框架将影响国际 UI 合作的因素分为环境因素（政策法规、文化与劳动力背景）、技术因素（研发能力、基础设施）和管理因素（治理结构、沟通机制、信任建设）(p.316)。其优势在于操作的清晰性，三个维度可对照评估任何具体合作的进展。其盲区在于更适合评估一个已经启动的合作，对"如何启动一个合作"提供的指导较弱。
 
-> [!example]- 图17.2：Dollinger et al. (2018) 国际[[University-Industry Collaboration\|产学合作]]框架
+> [!example] 图17.2：Dollinger et al. (2018) 国际[[University-Industry Collaboration\|产学合作]]框架
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_17-2_Dollinger_Framework.jpg)
 
 ---
@@ -174,7 +174,7 @@ citation_aliases:
 
 ### 第四步：共同选址是五重挑战的系统性应答
 
-> [!note]- 空间策略的机制效应
+> [!note] 空间策略的机制效应
 > 共同选址以单一空间决策同时降低多个挑战的难度。[[University Industry Demonstration Partnership\|UIDP]](2019)将其定义为"产业与大学人员在专用空间中有目的地结合，通过减少物理距离带来的沟通和文化壁垒来促进思想交流"(p.317)。
 >
 > 物理邻近的机制效应是多重的：（1）短路径的日常互动降低了沟通成本，直接作用于第五层挑战；（2）共享设施和联合活动增进了对彼此制度和文化的理解，间接触及第一层挑战（目标对齐）；（3）共处一处的产业人员成为企业内部 IP 和法律团队的"前线翻译者"，降低了第三层挑战的摩擦。
@@ -192,7 +192,7 @@ citation_aliases:
 
 ### 第五步：Mars and UC Davis 的案例链
 
-> [!note]- 三个案例构成一条[[Chain of Evidence\|证据链]]
+> [!note] 三个案例构成一条[[Chain of Evidence\|证据链]]
 > Mars and UC Davis 的合作由三个相互关联、层层扩展的案例构成一条证据链。它们共同展示了一条路径：从单个科学问题的识别（AWD），到跨国多边合作网络的建立（[[African Orphan Crops Consortium\|AOCC]]），再到制度化创新平台的构建（[[Innovation Institute for Food and Health\|IIFH]]）。每一步都在解决前一阶段暴露出的结构性局限。
 
 ---
@@ -269,7 +269,7 @@ citation_aliases:
 > - 合作的长期成功取决于互利机制的建立，而非单一项目中的利益对等。互利机制使共同选址从空间安排升级为制度安排(p.320, p.323)
 > - 国际 UI 研究合作的出版物影响力更高，能汇聚多元视角解决单一机构无法应对的全球性挑战(p.311)
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 过去二十年，涉及三个及以上国家的国际合作出版物显著增加(Maher & Van Noorden, 2021, cited on p.311)
 > - 11% 的大学因政府新规修订了研究伙伴关系，3% 主动中止了与特定国家的合作(Marinoni & Cardona, 2024, cited on p.315)
 > - AOCC 培训了超过 172 名非洲科学家，获得超过 1.75 亿美元资助，发表超过 665 篇论文(p.321)

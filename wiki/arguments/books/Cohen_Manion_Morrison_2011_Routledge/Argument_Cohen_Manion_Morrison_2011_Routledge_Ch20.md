@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 概念地图
 
-> [!knowledge-map]- 第20章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第20章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)
 
 ## 章节内容
@@ -143,7 +143,7 @@ updated: 2026-10-16
 
 在设计的初步阶段，使用流程图技术规划问题序列有助于研究者预判问题可能引出的回答类型和范围（p. 107）。
 
-> [!example]- 图 20.1　问题规划的流程图技术
+> [!example] 图 20.1　问题规划的流程图技术
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_20-1_Flow_Chart_for_Question_Planning.jpg)
 
 Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类决策组织（Box 20.1, pp. 107–109）：
@@ -275,7 +275,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > | 不好 | 不好 | 不好 | 58（36.3%） |
 > | **合计** | | | **160（100%）** |
 
-> [!claim]- 从 Table 20.1 得出的推论
+> [!claim] 从 Table 20.1 得出的推论
 > "有效领导力"被 82 人（51.2%，即 45+15+10+12）报告；"不好"的领导力被 78 人（48.8%，即 3+12+5+58）报告。表格表明：**最强形式的"好"领导力要求校长的沟通和沟通意愿两个因素都"好"**。如果其中一个或两个因素"不好"，"好"的领导力评价急剧下降。例如当沟通意愿"不好"时（15+12=27 人），"好"领导力仅来自 27 人，远低于两个因素都"好"时的 45 人（p. 113）。
 
 ---
@@ -591,7 +591,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 比率数据题处理有真零点的连续变量（如"你银行里有多少钱？____""你数学测验得了多少分？____""你多大了（以年计）？____"）。无固定答案或类别，受访者填入精确数值。这使得平均值、标准差、极差和高级统计（回归、因子分析、SEM）成为可能。一种替代形式是要求受访者对特定项目打十分制分数（如 Kgaile and Morrison, 2006），例如：
 
-> [!example]- 表 20.2　问卷中的十点评分量表
+> [!example] 表 20.2　问卷中的十点评分量表
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_20-2_Ten_Point_Marking_Scale.jpg)
 
 这种量表常用于[[Telephone Interview|电话访谈]]，因为它易于受访者理解。指令的措辞明确暗示它要求的是比率尺度数据（pp. 146–147）。
@@ -803,7 +803,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 >
 > 跟进信是最大化回应率的最有效手段，应附另一份问卷和回邮信封，绝不要暗示不回应是正常的。三次跟进可将邮寄问卷回收率从 40% 逐步提升至 75%（Hoinville & Jowell, 1978）（pp. 173–176）。邮寄问卷如今已较少使用。
 
-> [!example]- 图 20.2　邮寄调查的规划流程图
+> [!example] 图 20.2　邮寄调查的规划流程图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_20-2_Flow_Chart_for_Postal_Survey_Planning.jpg)
 
 ---
@@ -962,37 +962,37 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 
 ## 关键引用
 
-> [!citation-card]- [[Questionnaire\|问卷]]作为对受访者生活的侵入
+> [!citation-card] [[Questionnaire\|问卷]]作为对受访者生活的侵入
 > 问卷始终是对受访者生活的侵入，无论体现在完成时间、问题的威胁或敏感程度，还是对隐私的可能侵犯。问卷受访者不是被动的数据提供者；是研究的主体。方法论严谨性是一个伦理问题，而非仅仅是技术问题。（Morrison, 1996b; pp. 105–106）
 >
 > *The questionnaire will always be an intrusion into the life of the respondent, be it in terms of time taken to complete the instrument, the level of threat or sensitivity of the questions, or the possible invasion of privacy. Questionnaire respondents are not passive data providers for researchers; they are subjects not objects of research. Methodological rigour is an ethical not simply a technical matter.*
 
-> [!citation-card]- 问卷设计的黄金法则
+> [!citation-card] 问卷设计的黄金法则
 > 理想问卷应具备与好法律相同的属性：清晰、无歧义和工作可行，减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话。（Davidson, 1970; p. 163）
 >
 > *An ideal questionnaire possesses the same properties as a good law, being clear, unambiguous and practicable, reducing potential errors in participants and data analysts, being motivating for participants and ensuring as far as possible that respondents are telling the truth.*
 
-> [!citation-card]- 粗糙数据的解释限制
+> [!citation-card] 粗糙数据的解释限制
 > 粗糙的数据只能产生粗糙的解释；精微的统计需要精微的数据。数据的解释绝不能不公平地扭曲数据。[[Rating Scale\|评定量表]]问题应按顺序数据处理，使用众数和非参数数据分析，尽管可以发现大量违反这一规则的例子。这是不可接受的。（p. 143）
 >
 > *Crude data can only yield crude interpretation; subtle statistics require subtle data. The interpretation of data must not distort the data unfairly. Rating scale questions are treated as ordinal data, using modal scores and non-parametric data analysis, though one can find very many examples where this rule has been violated, and non-parametric data have been treated as parametric data. This is unacceptable.*
 
-> [!citation-card]- 评定量表的量表数值正负号含义不同
+> [!citation-card] 评定量表的量表数值正负号含义不同
 > 在 −5 至 +5 量表中，零表示属性的缺失；而在 0–10 量表中，零表示两极量表负性端的存在，即零在两种量表中具有两种不同的含义。因此研究者必须不仅注意使用的文字标签，还要注意与这些相同描述词一起使用的量表和标点。（Schwartz et al., 1991, p. 577; p. 136）
 >
 > *In a −5 to +5 scale, zero indicates absence of an attribute, whereas in a 0–10 scale a zero indicates the [[Presence]] of the negative end of the bipolar scale, i.e. the zero has two different meanings, depending on the scale used. Hence researchers must be careful not only on the verbal labels that they use, but the scales and scale points that they use with those same descriptors.*
 
-> [!citation-card]- [[Pilot Testing\|预测试]]的全面性
+> [!citation-card] [[Pilot Testing\|预测试]]的全面性
 > 问卷上的一切都应经过预测试；没有任何东西应被排除，甚至包括字体或纸张质量。（Oppenheim, 1992, p. 48; p. 178）
 >
 > *Everything about the questionnaire should be piloted; nothing should be excluded, not even the type face or the quality of the paper.*
 
-> [!citation-card]- 问题的心理顺序优先于逻辑顺序
+> [!citation-card] 问题的心理顺序优先于逻辑顺序
 > 问卷的逻辑排序必须由心理排序来中介。工具必须同时通过受访者的眼睛和设计者的眼睛来看待。（p. 165）
 >
 > *The logical ordering of a questionnaire has to be mediated by its psychological ordering. The instrument has to be viewed through the eyes of the respondent as well as the designer.*
 
-> [!citation-card]- 处理[[Sensitive Questions\|敏感问题]]的预期偏差
+> [!citation-card] 处理[[Sensitive Questions\|敏感问题]]的预期偏差
 > 随着问题变得更加威胁和敏感，应预期更大的偏差和不[[Reliability\|可靠性]]。敏感性和威胁必须通过受访者的眼睛来看待。对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。（Sudman and Bradburn, 1982, p. 86; p. 156）
 >
 > *As the questions become more threatening and sensitive, it is wise to expect greater bias and unreliability. Sensitivity and threat are to be viewed through the eyes of respondents rather than the questionnaire designer; what might appear innocuous to the researcher might be highly sensitive or offensive to participants.*

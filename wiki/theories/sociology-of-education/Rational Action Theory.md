@@ -200,7 +200,7 @@ updated: 2026-10-20
 > > - **理性选择制度主义假定** 认为监督与违规成本已经完全内生于理性行动者的效用预期中，制度构成了自我实施的协调均衡，变迁只能诉诸外生参数剧变。
 > > - **[[James Mahoney|詹姆斯·马奥尼]]与[[Kathleen Thelen|凯瑟琳·希伦]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）** 批评指出，理性选择理论将规则遵从预设为静态事实，掩盖了成文规则不可消除的内生模糊性与执行裁量缝隙；制度本质上是不平等的权力分配工具，遵从是行动者在不同否决与裁量语境下不断博弈、甚至策略性偏离的动态[[Variable|变量]]，微观主体的机会主义策略正是驱动[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心动能。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 5–6, 10–14)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘[[Cost-Benefit Analysis|成本效益分析]]的跨情境局限。

@@ -80,7 +80,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 丹麦公立学校改革确立了“确保教育系统中的每名学生学到尽可能多的知识”的效能宗旨，用将近 3,000 个以产出为导向的细分“学习目标”全面置换传统的科目育人目标，将[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作为重构全国基础教育的制度蓝本。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 扭转 [[PISA]] 国际排名劣势，追求[[Academic Achievement|学业表现]]最大化，将义务教育法定宗旨从师生民主交往与全人教养，窄化为对知识和可测量技能的高密度吸收。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **适用对象** 全体 Folkeskole 教师、校长、市镇教育督学及 10 年制义务教育阶段学生。
 > - **政策工具** 建立近 3,000 个国家级细分学习目标矩阵、高频标准化国家测试、自上而下的微观课堂反馈监控量规（向后反馈、向上反馈、向前反馈），以及各市镇出资购买的哈蒂培训服务包。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–88)]]
@@ -112,7 +112,7 @@ updated: 2026-10-20
 > - **适用对象** 一线教师（被要求转型为目标达成技术的执行者）与学生（被要求持续向学习目标靠拢）。
 > - **政策工具** 嵌入将近 3,000 个细分学习目标的课程框架、国家标准化测验数据库与 [[Visible Learning]] 工作坊。
 
-> [!pathways]- 实施路径与技术规训
+> [!pathways] 实施路径与技术规训
 > - **国家课程目标彻底量化** 传统的自由讨论与教养（Dannelse）传统被全面边缘化，取而代之的是由上至下层层下达的可测量学习指标。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **课堂教学行为的技术控制** 教师被要求严格依照[[John Hattie|哈蒂]]式的反馈程式（向后、向上、向前反馈）监控课堂，将教学活动降格为刺激-强化-纠偏的控制流水线。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 88–89)]]
 > - **学术招牌作为政治盾牌** 当家长和教师对死板考核与课时延长提出强烈抗议时，教育部与市镇官员反复将哈蒂的[[Meta-analysis|元分析]]数据奉为不可抗拒的科学准则，用以压制民主商榷并削弱教师专业自主。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86)]]

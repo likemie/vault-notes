@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **地位是动态表演的工具而非固化先天的本质** 基思·约翰斯通指出，人类在任何面对面的微观交往中无时无刻不在进行“[[Status Transactions|地位交易]]”（Status Transactions）。每一个眼神接触的回避、头部的微扬或对话打断，都是协商相对权力位置的信号。关键在于，个人的真实地位与所扮演的地位必须明确剥离（Bifurcation of status you are and status you play）；地位本质上是一种工具性属性（Instrumental Attribute），应当被灵活借用以服务于具体情境目标的实现，而不应僵化为自我维系特权的制度枷锁。
 
 > [!citation-card] 约翰斯通论地位交易与微观人际博弈
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - **认知与心理学路径** 揭示了日常社交互动中无处不在的微观统治与服从信号，推动了人际沟通分析与社会互动心理学的发展。
 > - **科技与管理组织路径** 被硅谷先锋科技企业（如 [[Palantir Technologies|Palantir]]）引入作为工程师入职必读书目，成为培育反科层固化、注重实效、倡导心理弹性与即兴协作的[[Engineering Mindset|工程思维]][[Organizational Culture|组织文化]]基石。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]] — 卡普与扎米斯卡阐述帕兰提尔如何借助约翰斯通的[[Status Transactions|地位交易]]与即兴理论破除传统[[Bureaucracy|科层制]]固化，确立工具性地位观念与开放敏捷的初创工程文化。
 
 ---

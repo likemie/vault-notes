@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 数字与智能技术对学习的深层影响不仅取决于信息呈现与交互界面，更取决于技术中介与学习者[[Epistemic Cognition\|认识论认知]]的[[Interaction Effect\|交互作用]]。从互联网搜索到生成式大语言模型，学习者必须从被动顺从或单一怀疑转向情境化的[[Epistemic Stances\|适应性认识立场]]，在双轨[[Scaffolding\|教学支架]]的协同下行使[[Epistemic Agency\|认识能动性]]，实现[[Man-Computer Symbiosis|人机共生]]智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!citation-card] 网络学习与[[Epistemology\|认识论]]重塑假说
@@ -135,7 +135,7 @@ updated: 2026-10-20
 > - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及[[Man-Computer Symbiosis|人机协同]]课堂中双轨促学支架的研制。
 > - **跨领域传播** 成果横跨学习科学、教育技术学、科学教育与人机交互领域，成为东亚及[[International Education\|国际教育]]计算研究领域被引频次最高的领军学者之一。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]理论，系统建构双轨支架干预矩阵并界定人机共享认识主体性。
 
 ---

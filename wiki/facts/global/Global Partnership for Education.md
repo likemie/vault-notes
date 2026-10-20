@@ -89,7 +89,7 @@ updated: 2026-10-20
 > - **专家与技术审议委员会** 独立的独立监测与评估委员会、赠款质量审查组，负责对发展中国家提交的教育部门规划（ESP）进行循证审查与指标合规评估。
 > - **在地协调中枢（地方教育集团 LEG）** 在各受援国教育部设立由政府官员、当地捐助方与民间社团组成的地方教育集团（Local Education Group，LEG），直接介入成员国国家教育行政决策。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **联合部门审查（Joint Sector Reviews，JSR）** 每年由 GPE 牵头，会同受援国教育部与外部利益相关方对国家教育系统进展进行全景式数据审议，将资金拨款与部门[[Performance Indicators\|绩效指标]]直接挂钩。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **国家教育规划（ESP）赠款协同** 要求受援国必须依据国际可比指标研制国家教育部门规划，通过审查后方可分阶段拨付教育系统改革专项赠款。
 > - **[[Knowledge and Innovation Exchange\|KIX]] 区域[[Knowledge Mediation\|知识中介]]枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织[[Development Education|发展中国家教育]]部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 汇聚全球数十个双边捐助国与多边机构资金，累计动员超 80 亿美元多边赠款，覆盖近 90 个伙伴发展中国家。
 > - **[[Knowledge Production\|知识生产]]与同侪中介** 依托 [[Knowledge and Innovation Exchange\|KIX]] 机制资助设立 4 大区域知识枢纽，支持 70 余个国家开展本土应用政策研究与跨国经验交流。
 > - **政策与制度渗透** 通过地方教育集团（LEG）与年度联合部门审查（JSR），深度介入发展中国家国家教育部门规划（ESP）的起草与财政预算分配。

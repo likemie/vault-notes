@@ -206,14 +206,14 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- 从理念到行动
+> [!citation-card] 从理念到行动
 > 相信一种理念，就不能只思考、谈论或写作，而必须行动。（第1章，p. 2）
 >
 > *If you believe in something, you must not just think or talk or write, but must act.*
 
 行动需要组织和课程支持，行动取得的成就又需要接受与证据相称的评价。
 
-> [!citation-card]- 教育目标与效果主张需要分别判断
+> [!citation-card] 教育目标与效果主张需要分别判断
 > 夸大的主张很可能引起怀疑，但这种怀疑应当针对主张，而不是目标。（第8章，p. 216）
 >
 > *Exaggerated claims may well produce scepticism, but it should surely be scepticism about the claims, not about the objectives.*

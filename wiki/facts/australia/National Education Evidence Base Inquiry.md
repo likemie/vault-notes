@@ -68,7 +68,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 生产力委员会最终报告正式建言：澳大利亚各级政府应联合设立一个常设性、独立的国家级教育证据机构，全面汲取英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）和美国教育科学研究所（[[Institute of Education Sciences\|IES]]）的国际经验，负责统筹全国教育数据的接入与跨部门流通，并基于高质量实验证据合成“什么有效”的转化指南（Australian Government Productivity Commission, 2016a；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
 
-> [!policy-design]- 审查建议的核心设计
+> [!policy-design] 审查建议的核心设计
 > - **国家证据机构设立** 建立具有跨辖区独立地位的科研转化实体，避免受制于单一州或联邦政党的政治周期。
 > - **打通全澳教育数据孤岛** 建立全澳学生唯一识别码（Unique Student Identifier, USI），打通从早教、NAPLAN、高等教育到劳动力市场的纵向追踪数据库。
 > - **循证评估与投资效益挂钩** 严格要求各州与私立系统在申请联邦重大教育改革追加经费时，必须提交符合国际因果[[Evidence Standards\|证据标准]]的项目实施方案。

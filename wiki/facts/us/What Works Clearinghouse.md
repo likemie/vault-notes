@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展与立法资助历程
+> [!dev-timeline] 组织发展与立法资助历程
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Office of Educational Research and Improvement|OERI]] 拨付初始合同与发布 [[Study Design and Implementation Assessment Device|Study DIAD]] 草案** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）向 WWC 资助 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动教育有效性证据审查；同年 11 月发布设计与[[Implementation and Process Evaluation|实施评估]]规程（Study Design and Implementation Assessment Device, Study DIAD）草案并向学界公开征求意见。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–35)]]
@@ -179,7 +179,7 @@ updated: 2026-10-20
 > - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的文献筛选、代码提取与基线等值性核验。
 > - **认证审查员库（Certified Reviewers）** 建立严格的审查员培训与考证机制，只有通过标准一致性考核的学者方可签署审查意见。
 
-> [!pathways]- 证据审查与产品生成规程
+> [!pathways] 证据审查与产品生成规程
 > - **议题议程设定** 优先遴选联邦拨款重点领域、高采购率课程方案或一线学区广泛关注的教学实践。
 > - **广泛文献抓取** 系统回溯前 20 年的已发表期刊论文及未发表灰色评估报告，消除[[Publication Bias\|发表偏倚]]。
 > - **逐级门控审查** 按照“因果识别设计 $\to$ [[Attrition\|样本流失]]模型 $\to$ 基线等值性检验 $\to$ [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]]聚合”程序完成标准化评级。
@@ -232,7 +232,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **库容规模第一** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），收录规模居全美首位([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **法定行政约束力** [[Every Student Succeeds Act\|ESSA]] 法案直接将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
 > - **方法学溢出效应** 其流失模型、集群随机校正与基线等值性规范已被国际计量经济学界与[[Meta-analysis\|元分析]]研究者奉为跨学科黄金标准。

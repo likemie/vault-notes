@@ -141,7 +141,7 @@ updated: 2026-10-16
 
 ### 论证步骤一　国际产业技术竞争压力迫使联邦科研资助转向产学协同的大科学中心模式
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 1980 年代初美国面临的产业国际[[Competitiveness|竞争力]]危机，打破了战后 [[National Science Foundation|NSF]] 仅资助同行评议、个人科学家自由探索小科学的传统教条，推动联邦科研资助正式转向以跨学科[[Big Science|大科学]]中心（Center-based）为载体、产业界深度嵌入的战略资助[[Paradigm|范式]]。（pp.365–367）
 
 #### 1. 国际竞争焦虑暴露传统大学科研与工程实践的脱节
@@ -167,7 +167,7 @@ updated: 2026-10-16
 
 ### 论证步骤二　工程研究中心在关键工业领域完成战略布局并展现出近八成历史存续率
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 经过二十年发展，ERC 成为 NSF 工程资助中最核心的资金载体之一，覆盖生物工程、微电子、先进制造等核心产业前沿，保持了近八成的历史存续率，并在国内催生出[[Science and Technology Centers|科学技术中心]]（Science and Technology Centers, STC）以及在英爱等国引发广泛的制度移植。（pp.368–370）
 
 #### 1. 覆盖全美核心产业前沿的跨学科中心网络
@@ -200,15 +200,15 @@ updated: 2026-10-16
 > | **先进制造与加工工艺**<br>Manufacturing and processing | 环境有益催化中心<br>Center for Environmentally Beneficial Catalysis | 堪萨斯大学（领衔），联合爱荷华大学与圣路易斯华盛顿大学<br>University of Kansas, Lawrence, KS | [www.ku.edu/~cebc/](http://www.ku.edu/~cebc/) |
 > | **先进制造与加工工艺**<br>Manufacturing and processing | 可重构加工系统中心<br>Center for Reconfigurable Machining Systems | 密歇根大学安娜堡分校<br>University of Michigan, Ann Arbor, MI | [erc.engin.umich.edu/](http://erc.engin.umich.edu/) |
 
-> [!figure]- 图 1：1984–2004 年 NSF 工程研究中心历年获批资助分布（N = 56）
+> [!figure] 图 1：1984–2004 年 NSF 工程研究中心历年获批资助分布（N = 56）
 > ![](https://img.mylikemie.icu/sources/Bozeman_2004_JTT/figures/Bozeman_2004_JTT_Fig1_ERC_Awards_by_Year.jpg)
 
-> [!result-reading] 历年资助批复与历史存续特征
+> [!result-reading]- 历年资助批复与历史存续特征
 > 历年批复资助数与当前接受资助的中心总数之间存在显著落差。自 1984 年至 2004 年，NSF 累计颁发 56 项资助设立 ERC，呈现周期性波动态势。截至 2003 年底，NSF 累计资助了 41 所标准 ERC 和 3 所地震工程 ERC，存活率达到 79%（44/56）。部分中心资助期满后毕业并实现自给自足，但也有部分中心在严格的期中审核与续约竞争中遭遇淘汰。（p.369）
 
 #### 2. 联邦种子资金与产业配套投入的资金杠杆机制
 
-> [!figure]- 图 2：NSF 工程学部各子活动历年经费支出趋势（百万美元）
+> [!figure] 图 2：NSF 工程学部各子活动历年经费支出趋势（百万美元）
 > ![](https://img.mylikemie.icu/sources/Bozeman_2004_JTT/figures/Bozeman_2004_JTT_Fig2_ENG_Subactivity_Funding.jpg)
 
 > [!contrast-table] NSF 工程学部主要中心计划历年资助经费表（单位：百万美元）
@@ -220,7 +220,7 @@ updated: 2026-10-16
 > | **科学技术中心（STC）** | 7.89 | 7.96 | 7.96 | 0.00 | 0.0% |
 > | **中心总资助支出（Total Centers Support）** | 85.71 | 98.42 | 99.46 | +1.04 | +1.1% |
 
-> [!result-reading] 经费配置格局与资金杠杆效应
+> [!result-reading]- 经费配置格局与资金杠杆效应
 > - **资金杠杆配比** NSF [[Seed Funding|种子资助]]约占 ERC 中心年均运营总预算的 30%，其余约 70% 由工业界、其他联邦机构、大学及州政府共同配比提供，杠杆放大效应显著。
 > - **学部内部统领地位** 在工程学学部各子业务中，工程教育与中心处（EEC）经费体量远超生物工程与环境系统处（BES）、化学与运输系统处（CTS）、土木与机械系统处（CMS）、设计制造与工业创新处（DMII）及电气与通信系统处（ECS），仅次于小企业创新研究（[[SBIR and STTR Programs|SBIR]]）。
 > - **预算绝对权重** 在 2003 财年，EEC 总预算 1.327 亿美元中近半数（6,572 万美元）划拨给 ERC；若计入地震、纳米及科学技术中心，中心类总支出达 8,571 万美元，占 EEC 总经费的 65%，约占工程学学部总预算的六分之一（85.71/541.7）。（p.369）
@@ -236,7 +236,7 @@ updated: 2026-10-16
 
 ### 论证步骤三　关键决策者口述复盘：国会立法妥协、早期果断淘汰与十年日落条款的治理哲学
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 前 NSF 主任布洛赫的完整口述访谈揭示出，ERC 制度的建立伴随着与国会独立工程基金会动议的激烈政治博弈，其长期生命力依托于不惧政治压力的淘汰问责与十年[[Sunset Provisions|日落条款]]，但也折射出联邦问责与高校自治之间难以消除的行政微观管理张力。（pp.370–374）
 
 #### 1. 突破十九世纪工程学科思维与国会立法妥协
@@ -252,7 +252,7 @@ updated: 2026-10-16
 
 #### 2. 通用需求导向申报与首批试点中心淘汰的制度震慑
 
-> [!policy-design]- 自由申报机制与淘汰问责威慑
+> [!policy-design] 自由申报机制与淘汰问责威慑
 > - **不指定具体研发领域的申报机制** 布洛赫指出，NSF 过去搞过自上而下指定技术领域的资助计划，结果招致极大抱怨却毫无成效。ERC 采用通用申报指南，因为学术界本身具备敏锐嗅觉，扔出指南即可精准命中核心产业技术方向。（p.372）
 > - **订书机包装法的警惕与早期淘汰关闭** 布洛赫严厉批评部分大学搞订书机做法（Stapling approach）——仅仅把教师现有的零碎科研用订书机订在一起重新包装申报，而没有真正的跨学科协同。在首批设立的 6 所中心中，特拉华大学与加州大学圣巴巴拉分校两所中心在期中审核后未获续约被果断关停。布洛赫强调这一失败产生了无可估量的积极威慑：向全美高校传递了中心必须兑现承诺、具备扎实执行规划否则必遭淘汰的明确信号。（p.373）
 
@@ -271,7 +271,7 @@ updated: 2026-10-16
 
 ### 论证步骤四　双重聘任体制与传统院系科层的深层治理困境
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > ERC 在大学基层的落地受到双重雇佣制度的结构性制约，使中心主任在缺乏人事[[Hard Power|硬权力]]的情况下不得不依靠微弱的利益诱导艰难维系跨学科协作，折射出新型组织设计与数百年大学传统科层之间的深层冲突。（pp.373–374）
 
 #### 1. 双重雇佣制度导致科研人员承担双重考评负担
@@ -312,17 +312,17 @@ updated: 2026-10-16
 
 ## 关键引用
 
-> [!citation-card]- 1984 年国家工程院指南核心定位
+> [!citation-card] 1984 年国家工程院指南核心定位
 > 中心的目标是改进工程研究，使美国工程师能够更好地协助美国工业提升在全球市场上的[[Competitiveness|竞争力]]。因此，工程研究与[[Engineering Education|工程教育]]必须以其在实现这一产学联动纽带上的成效作为评价标准。（p.367）
 >
 > *The goal of the centers is to improve engineering research so that U.S. engineers will be better prepared to assist U.S. industry in becoming more competitive in world markets. Thus, engineering research and education must be judged by their success in achieving this linkage. (Mayfield, 1987, p. 131; p. 367)*
 
-> [!citation-card]- 布洛赫论[[Sunset Provisions|日落条款]]的防膨胀初衷
+> [!citation-card] 布洛赫论[[Sunset Provisions|日落条款]]的防膨胀初衷
 > 日落条款的逻辑非常明确：首先是为了确保中心真正学会依靠自己站稳脚跟；第二是为了遏制大兴土木、搞无限扩张实体的冲动。中心必须在规定期限内结出硕果，否则就该退出；大学如果希望中心持续运转，就必须接过接力棒去寻找新的资助方与资金。（p.374）
 >
 > *First, the sunset is very simple. It was put in place to make sure that centers find their feet. The second reason was to deflect from the idea of promoting bricks and mortar centers and ever-expanding centers. The idea of the sunset was at that time was that the centers should show fruit or die... A third good reason for the sunset is that the university should take over if they want the centers to continue. (Bloch, 2004, p. 374)*
 
-> [!citation-card]- 大学中心主任论多学科协调的终极挑战
+> [!citation-card] 大学中心主任论多学科协调的终极挑战
 > 我最大的挑战在于教师利益的多样性以及如何让他们团结协作。毫无疑问这个问题是最耗费时间与精力的大难题。当我们试图在他们的科研议程中添加新方向时，他们必须主动权衡放弃原有的一些东西……人们天然受自身利益驱动，只有当他们意识到我们要他们做的事情正是他们自己想做的时候，协作才会真正发生。（p.374）
 >
 > *My biggest challenge is the diversity of faculty interests and getting people to work together. There is no question that this issue is the biggest struggle and requires the most time and commitment. When we are trying to add something else to their agenda, they have to be convinced to give up something else... People are driven by their own self-interests. (Center Director, 2004, p. 374)*

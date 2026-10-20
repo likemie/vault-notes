@@ -122,7 +122,7 @@ updated: 2026-10-20
 >   G --> H["6.8 Box 6.1<br>36条选择清单"]
 > ```
 
-> [!knowledge-map]- 第6章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第6章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_6_Concept_Map.jpg)
 
 ---
@@ -180,12 +180,12 @@ updated: 2026-10-20
 > > - 可检验的猜想或直觉（testable guess or hunch）
 > > - 调查原因或效果的愿望（causes of a phenomenon / effects of an intervention）
 
-> [!exegesis] 四类驱动力的非互斥关系
+> [!exegesis]- 四类驱动力的非互斥关系
 > 这四个类别并非互斥，一个[[Research Topic\|研究选题]]可以同时来自多种驱动力。例如，一位教师可能因日常教学中遇到的问题（实践驱动）而注意到文献中的空白（文献驱动），同时该议题也是学科会议广泛讨论的热点（外部驱动）。选题来源框架的功能不是将研究归类，而是帮助研究者识别选题背后的驱动力构成。
 
 ---
 
-> [!tip]- 维持兴趣：一个容易被忽略的关键决策
+> [!tip] 维持兴趣：一个容易被忽略的关键决策
 > 研究可能持续数周、数月甚至数年。选择课题时需要问：**这个议题能否在长周期内维持研究兴趣？** 如果答案是否定的，且没有非做不可的约束，就应考虑另选一个能够维持兴趣和动力的研究领域。由不情愿或感到厌倦的人进行的研究，很容易变得平庸。
 
 选题不仅是一个智力判断（这个课题是否值得做），也是一个情感判断（是否愿意与这个课题共度数月甚至数年）。二者缺一不可。
@@ -327,7 +327,7 @@ updated: 2026-10-20
 > | **根本问题** | 手段（方法）决定目的（问题） | 目的（问题）决定手段（方法） |
 > | **后果** | 损害严谨性，研究可能无法回答它声称要回答的问题 | 研究设计内在一致，方法服务于问题 |
 
-> [!Tip]- 目的适配性的操作推论
+> [!Tip] 目的适配性的操作推论
 > 研究规划的操作顺序必须是**先明确目的，再选择方法**。对方法的偏好、熟悉或恐惧不应进入方法选择决策，它们只应在选定方法后作为是否需要额外训练或支持的实操考量出现。
 
 
@@ -360,7 +360,7 @@ updated: 2026-10-20
 >
 > **共同教训** 这些都是真实经历。在制定完整工作计划之前，必须先检查实际情况，否则计划可能毫无意义。
 
-> [!tip]- 实战策略：先试探，再详细规划
+> [!tip] 实战策略：先试探，再详细规划
 > 在详细规划之前，先带着初步的研究大纲接触一些组织（学校、学院、大学、政府部门），了解准入的可能性。如果答案是否定的，研究计划要么停止，要么必须修改。
 
 > [!info] 准入什么的关键追问
@@ -448,7 +448,7 @@ updated: 2026-10-20
 > [!case] 案例六：Piaget (1932) — 少数几个孩子的理论革命
 > Piaget 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为**少数几个孩子（a handful of children）**。他没有使用大样本或标准化测验，而是通过对少数儿童进行[[In-depth Interview\|深度访谈]]和对游戏规则的细致观察，提出了从他律道德（heteronomous morality，规则来自外部权威）到自律道德（autonomous morality，规则来自相互尊重和合作）的发展阶段模型。这一理论深刻影响了整个20世纪的发展心理学和教育学。
 
-> [!lessons]- Axline和Piaget的共同方法论启示
+> [!lessons] Axline和Piaget的共同方法论启示
 > 两个经典案例共同说明：**小样本、窄聚焦的研究可以产生卓越的成果。** 研究对象被仔细限定（Axline聚焦一个孩子的一种治疗形式，Piaget聚焦少数儿童的道德推理），研究执行深度而非广度，边界清晰使严谨性成为可能。对新手研究者的核心启示是：不要害怕做得小。小不是缺点，只要足够深、足够严谨、有清晰边界。
 
 ---
@@ -466,7 +466,7 @@ updated: 2026-10-20
 > [!claim] 从一般目的到具体问题的转化
 > 研究问题将一般目的转化为**具体问题**，从而提供**具体的、数据驱动的、可回答的答案**。例如，"我要研究教师职业倦怠"（一般目的）可以转化为"哪些工作条件最显著地预测城市小学教师的情绪耗竭"（具体问题）。
 
-> [!tip]- 决定是否追求某项研究的实用方法
+> [!tip] 决定是否追求某项研究的实用方法
 > 一个有用的方法是从一组一般目的逐步移动到一系列具体的、实质性的议题和领域，并为每个议题框定一个或多个研究问题或待辩护的论点。研究问题的**答案**构成了前文提到的交付物。
 >
 > 在决策时，审视研究问题本身的以下维度：
@@ -526,7 +526,7 @@ updated: 2026-10-20
 
 （类型框架来源：University of Berkeley, 2002；Newby, 2010, pp. 67–69）
 
-> [!tip]- 复杂问题不等于坏问题
+> [!tip] 复杂问题不等于坏问题
 > 研究不需要在研究问题上一帆风顺。许多最有用的研究恰恰源于**复杂问题**和**难以回答的研究问题**。关键在于是否愿意承担该问题所要求的复杂性和难度，在可用时间和资源范围内完成。
 
 ---
@@ -685,42 +685,42 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 
 ## 关键引用
 
-> [!citation-card]- 研究的核心任务
+> [!citation-card] 研究的核心任务
 > 研究的任务是发现、调查、发展、检验（如一项理论）、回答诸如"假如""如何""为什么""多好""什么"和"在哪里"等问题。（第6章, p.78）
 >
 > The task of research is to find out, to investigate, to develop, to test out (e.g. a theory), to address questions that ask, for example: 'what if', 'how', 'why', 'how well', 'what' and 'where'.
 
-> [!citation-card]- 窄化即严谨
+> [!citation-card] 窄化即严谨
 > 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose\|目的适配性]]和方法论[[Reliability\|可靠性]]）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
 >
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
-> [!citation-card]- 原创性不够
+> [!citation-card] 原创性不够
 > 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
 >
 > Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ\|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
 
-> [!citation-card]- 研究的根本问题：值得做吗？
+> [!citation-card] 研究的根本问题：值得做吗？
 > 这项研究的用途是什么？做这项研究的意义是什么？这项研究值得做吗？如果最后一个问题的答案是"不"，那么研究者也许应该放弃——否则它将从有用研究沦为一个业余爱好者的放纵。（第6章, pp.81–82）
 >
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
-> [!citation-card]- 目的适配性：让尾巴摇狗
+> [!citation-card] 目的适配性：让尾巴摇狗
 > 研究者不能简单地说他或她喜欢[[Questionnaire\|问卷]]、害怕数字或偏好访谈，或觉得做[[Covert Research\|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose\|研究目的]]决定随后的研究类型、[[Research Question\|研究问题]]、资料收集工具、抽样策略、[[Research Ethics\|研究伦理]]和[[Research Scope\|研究范围]]等。（第6章, p.91）
 >
 > The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose\|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 
-> [!citation-card]- [[Access and Acceptance in Research\|研究准入]]：最困难的任务
+> [!citation-card] [[Access and Acceptance in Research\|研究准入]]：最困难的任务
 > 获得人员和机构的准入是任何实证研究者最困难的任务之一，尤其当研究具有任何敏感性时。准入问题可能阻止研究启动，也可能扭曲或改变研究的原始计划。（第6章, p.91）
 >
 > Gaining access to people and institutions is one of the most difficult tasks for any empirical researcher, particularly if the research is in any way sensitive. Access problems can prevent the research from starting at all, or they can distort or change the original plans for the research.
 
-> [!citation-card]- 吃大象：研究的范围边界
+> [!citation-card] 吃大象：研究的范围边界
 > 我们建议一项研究保持狭窄和有限的范围，以实现可管理性和严谨性。俗话说"吃大象的最佳方式是一次一口"！研究者必须为研究设定清晰、可感知、现实、公平和可管理的边界。失控的研究可能漫游各处，实际上哪里也去不了。（第6章, pp.92–93）
 >
 > Principally, we advise a single piece of research to be narrow and limited in scope in order to [[Achieve]] manageability as well as rigour. As the saying goes 'the best way to eat an elephant is one bite at a time'! Researchers will need to put clear, perceptible, realistic, fair and manageable boundaries round their research. If this cannot be done straightforwardly then maybe the researcher should reconsider whether to proceed with the planned enterprise, as uncontrolled research may wander everywhere and actually arrive nowhere.
 
-> [!citation-card]- 小样本的力量
+> [!citation-card] 小样本的力量
 > 小样本、窄聚焦的研究可以产生卓越的成果。例如 Axline 的 *Dibs in Search of Self* (1964) 聚焦一个孩子的游戏治疗效果，Piaget (1932) 的 *The Moral Judgement of the Child* 聚焦少数几个孩子——两者都通过详细而谨慎限定边界的研究，为教育工作者带来了巨大收益。（第6章, p.93）
 >
 > Small samples, narrowly focused research, can yield remarkable results. For example Axline's *Dibs in Search of Self* (1964) study of the restorative and therapeutic effects of play therapy focused on one child, and Piaget's (1932) seminal theory of moral development, in his *The Moral Judgement of the Child*, focused on a handful of children.

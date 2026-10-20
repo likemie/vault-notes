@@ -83,7 +83,7 @@ updated: 2026-10-20
 > - **核心角色** 2,500 年东亚教育传统与社会伦理的奠基节点；在当代国家课程中被党国建构为[[Official Knowledge\|官方知识]]的核心代表与[[Soft Power\|软实力]]符号，同时作为跨文化[[Policy Borrowing\|政策借用]]与边缘反思的符号参照系。
 > - **代表贡献** 创办私学并宣告“有教无类”；建立以[[Self-Cultivation\|修身]]、成仁与[[Junzi\|君子]]理想为核心的[[Confucian Learning Tradition\|儒家学习传统]]；确立以[[Heart and Mind for Wanting to Learn\|好學心]]与[[Action Better Than Words\|行勝於言]]为驱动的学习[[Paradigm\|范式]]。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 孔子是中国文化的中心。没有孔子，就没有中国文化。正是他使得千年前的古代文化得以传承，也是他为千年后的文化繁荣开辟了道路。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 36)]]
 >
 > *“Confucius is the center of Chinese culture. Without Confucius, there would be no Chinese culture. ... It is he who made it possible for the ancient culture of thousands of years ago to be transmitted, and it is he who opened the way for the flourish of culture thousands of years later.”*
@@ -118,10 +118,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 孔子思想的根本不在于政治权力或工具性知识，而在于回答“如何成为一个人与达成人性卓越”。他将学习的终极目的定义为[[Self-Cultivation\|修身]]，以仁为最高道德境界，以[[Junzi\|君子]]为[[Paradigm\|范式]]人格；在学习动能上将[[Heart and Mind for Wanting to Learn\|好學心]]置于纯粹认知之上，在社会实践中以礼、孝与[[Action Better Than Words\|行勝於言]]为纽带，构成了独立于政治体制的持久文化传统[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 37–41, 52–55)]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 知之者不如好之者，好之者不如乐之者。（《论语·雍也》）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 52)]]
 > 今之孝者，是谓能养。至于犬马，皆能有养；不敬，何以别乎？（《论语·为政》）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 38)]]
 >
@@ -137,7 +137,7 @@ updated: 2026-10-20
 > - **政策与课程路径** — [[Civil Service Examination\|科举]]制与现代[[Gaokao\|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu\|中华民族]]传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge\|官方知识]]与对外[[Soft Power\|软实力]]符号[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 63, 67)]]。
 > - **跨国／跨领域传播** — 在跨国[[Policy Borrowing\|政策借用]]中与西方心理学产生[[Selective Affinity\|选择性亲和]]（如与[[Lev Vygotsky\|维果茨基]]社会文化理论在 [[Learner-Centred Education\|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在[[John Dewey\|杜威]]中国接受史中充当对比与反转的符号参照系[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 75, 81)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents\|原始文献]]，建构东亚与西方文化学习模型的对比框架。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的本土化赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization\|再脉络化]]与反转调用。
@@ -167,7 +167,7 @@ updated: 2026-10-20
 > > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 认为近代知识分子混淆了国家的政治体制与文化本身，指出孔子的真实力量在于解答普遍的人性卓越与生命意义问题[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 9, 11)]]。
 > > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]** — 指出当代党国将孔子高度等同于单一汉文化，构建了排他性的[[Symbolic Boundary\|象征边界]]与[[Cultural Hierarchy\|文化等级]]，在少数民族与信教学生中引发了对其男权支配与阶级控制底色的强烈批判[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–69)]]。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生指出孔子伦理缺乏对非人类自然的关怀（人类中心主义），且缺乏对生死起源的灵性终极解答。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 指出威权政治将决策包装为“儒家价值”（如新加坡模式），但实践与孔子本意相去甚远，稀释了概念解释力。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 指出孔子传统强调教师道德与知识权威，在现代化课堂中留下了学生无法参与共决课程大纲与评估标准的结构性硬边界。

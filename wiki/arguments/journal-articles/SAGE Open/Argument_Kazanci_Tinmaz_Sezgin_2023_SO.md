@@ -184,7 +184,7 @@ journal: "SAGE Open"
 
 ### 论证步骤一　基于行为理论建构操作化构念，通过探索性因子分析确立四因子精简结构与知觉控制核心地位
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 教师[[Research Literacy\|研究素养]]并非单一技术维度的技能测验，而是一个由研究意识、研究态度、研究技能与[[Research Utilization\|研究使用]]构成的多维结构；其中研究技能作为知觉行为控制[[Variable\|变量]]解释了高达 46.90% 的绝大部分方差，构成态度向实践转化的核心控制枢纽；经[[Exploratory Factor Analysis\|探索性因子分析]]精简所得的 20 题量表具备优良的测量稳定性与结构代表性。（pp.5–7）
 
 > [!dimension] 教师研究素养的四维[[Construct\|构念]]拆解
@@ -204,7 +204,7 @@ journal: "SAGE Open"
 > 4. **样本 1 现场施测与初筛净化** 在样本 1（$N=310$）施测，剔除 3 个题总相关低于 $.30$ 的题项，KMO 系数达 $.966$，Bartlett 球形检验极显著（$\chi^2 = 14332.69, p < .001$）。
 > 5. **公因子提取与载荷精简** 采用 PAF 主轴因子提取与 Varimax 正交旋转，依据载荷 $> .32$ 且跨载荷差值 $> .10$ 准则精简保留 20 题。
 
-> [!example]- 图1：[[Scale Development\|量表编制]]流程图
+> [!example] 图1：[[Scale Development\|量表编制]]流程图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig1_Scale_Development_Stages.jpg)
 
 > [!ref-table]- 表1：探索性因子分析旋转后因子结构与题项负荷（N=310）
@@ -246,13 +246,13 @@ journal: "SAGE Open"
 
 ### 论证步骤二　通过验证性因子分析确立二阶因子模型，确立构念信效度与跨性别严格测量等值性
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 在全新独立样本中，竞争模型选拔证实单因子模型严重失效，而二阶高阶因子模型拟合优异，证实四维度归属于一个统摄性的全局研究素养构念；量表[[Convergent and Discriminant Validity\|收敛效度]]、区分效度与[[Composite Reliability\|复合信度]]体系完备；跨性别严格[[Measurement Invariance\|测量等值性]]的确立为后续无偏跨群体比较奠定了坚实基础。（pp.7–12）
 
-> [!example]- 图2：[[Research Literacy Scale for Teachers\|RLS]] 一阶四因子模型标准化路径图
+> [!example] 图2：[[Research Literacy Scale for Teachers\|RLS]] 一阶四因子模型标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig2_First_Order_Model.jpg)
 
-> [!example]- 图3：RLS 二阶因子结构标准化路径图
+> [!example] 图3：RLS 二阶因子结构标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig3_Second_Order_Model.jpg)
 
 > [!ref-table]- 表3：[[Confirmatory Factor Analysis\|验证性因子分析]][[Model Fit Indices in SEM and CFA\|模型拟合指数]]体系对比（N=258）
@@ -309,7 +309,7 @@ journal: "SAGE Open"
 
 ### 论证步骤三　实证揭示教师科研态度与实践的结构性断层，验证期刊追踪与科研参与的独立双轨赋能机制
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 教师群体普遍呈现“高态度认同、低实践行为”的结构性知行断层；追踪学术期刊（输入型）与亲身开展科研（输出型）呈现双轨独立的显著赋能机制：做研究对提升研究技能产生最大主效应，而读期刊对驱动研究使用产生最大主效应，两者互不替代，为精准设计教师专业发展政策提供了经验支点。（pp.12–16）
 
 > [!tension] 教师研究素养的知行结构性断层
@@ -398,12 +398,12 @@ journal: "SAGE Open"
 
 ## 关键引用
 
-> [!citation-card]- 教师[[Research Literacy\|研究素养]]的统整定义
+> [!citation-card] 教师[[Research Literacy\|研究素养]]的统整定义
 > 研究素养可以定义为：具备研究意识，积极参与科研活动与研究文献，坚信科学研究的重要性与有用性（即持有积极态度），掌握检索、阅读与开展研究的充分技能，并在专业教学实践中运用科研成果。（p.14）
 >
 > *According to our results, it is possible to define RL as "having awareness of research, [[Engagement in and with Research]], belief in the importance and usefulness of research, in other words a positive attitude towards scientific research, having sufficient skills in accessing, reading, and conducting research, and using research in professional practice."*
 
-> [!citation-card]- 技能作为知觉控制的核心地位
+> [!citation-card] 技能作为知觉控制的核心地位
 > 研究技能维度的方差在所有因子中最高。这一发现支持了[[Theory of Planned Behavior\|计划行为理论]]中将知觉行为控制作为直接解释行为的[[Variable\|变量]]的设定。（p.14）
 >
 > *On the other hand, the variance of the research skill is the highest among the factors. This finding supports the consideration of perceived behavioral control as a variable that directly explains behavior in TPB.*

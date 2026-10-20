@@ -137,7 +137,7 @@ updated: 2026-10-20
 >
 > *Evidence-based education reduces the fundamental question of education from 'what is educationally desirable' to 'what is technically effective', thereby replacing democratic deliberation with technocratic instrumentalism.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于否定经验证据价值** 批判对象是 EBE 强[[Paradigm\|范式]]（将 RCT 奉为唯一黄金标准并强制干预实践），而非否定实证数据对教学改进的参考意义。
 > - **不等于反量化主义** 许多批评者（如 [[Dylan Wiliam]]、[[Adrian Simpson]]）本身即是资深量化方法论学者，其批判聚焦于统计假设违背、效应量误读与混淆[[Variable\|变量]]。
 > - **不替代具体统计方法论条目** 关于效应量方差膨胀、[[Meta-meta-analysis\|元-元分析]]聚合技术细节等问题，分别归口于各专用方法条目深入探讨。
@@ -339,7 +339,7 @@ updated: 2026-10-20
 > 4. **[[Pre-test and Post-test\|前测]]失衡产生巨大虚假[[Effect Size\|效应量]]** 拼读项目 Fresh Start 官方宣称效应量为 +0.24SD，但在严格匹配排除前测基线失衡后，真实净效应降为 +0.00SD。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]
 > 5. **宏观二阶循证综合基础崩溃（0.66% 可复现）** 对全球影响最广的《[[Visible Learning|可见的学习]]》全量审计发现，仅 19% 满足 [[PICO Framework|PICO]] 入选门禁，301 个因素中仅 2 项能复现数据提取，44% 效应量查无实据，证明宏观循证知识库底层存在灾难性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14, 18–19)]]
 
-> [!stat-cards] 关键量化指标
+> [!stat-cards]- 关键量化指标
 > - **83.2%** 清算中心项目中仅由单一机构评级、缺乏独立交叉验证的比例。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 18)]]
 > - **30%** 跨清算中心对同一教育项目有效性评级结论的一致率。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
 > - **+0.24SD vs +0.00SD** Fresh Start 项目官方宣传效应量与校正前测失衡后的真实效应量对比。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]

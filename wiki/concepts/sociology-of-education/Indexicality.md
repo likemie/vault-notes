@@ -79,7 +79,7 @@ updated: 2026-10-20
 >
 > *Only by understanding the relationship that had developed over time – the indexical context of this particular social encounter – could one begin to understand the interaction.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Reflexivity\|反思性]]（Reflexivity） — 索引性关注陈述对语境的依赖性，而反思性强调陈述与语境之间的互为构成关系（陈述既描述情境亦同时塑造情境）；
 > - 不等于 语言学中的纯代词指示 — 语言学中的指示词（indexicals）仅指时空指示代词，常人方法学的索引性则扩展至一切社会实践、互动仪式与文化暗号；
 > - 不适用于 假定概念具有跨情境不变性的形式化逻辑演算或标准化量化测验。

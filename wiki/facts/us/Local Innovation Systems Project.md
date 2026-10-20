@@ -53,12 +53,12 @@ updated: 2026-10-16
 > - **方法** 多案例比较研究，结合[[Semi-structured Interview\|半结构化访谈]]（覆盖大学、企业、政府和其他机构）和匹配案例对比
 > - **产出**[[Lester's Typology of University Contributions to Local Industry\|Lester 大学贡献分类]]——四种产业转型类型对应的四种大学贡献模式
 
-> [!note]- 匹配案例对比设计
+> [!note] 匹配案例对比设计
 > LIS 项目通过匹配案例对比（如挪威斯塔万格与苏格兰阿伯丁的北海油气产业、芬兰赫尔辛基与康涅狄格州纽黑文的无线/生物技术产业）增强发现的普遍性。匹配案例使研究者能够通过"在定性理解中注入更大严谨性"来从特例中提取可推广的因果模型。
 
 ---
 ## 相关概念
 
-> [!tip]-
+> [!tip]
 > - [[Lester's Typology of University Contributions to Local Industry]] — LIS 项目的直接理论产出
 > - [[University-Industry Collaboration]] — LIS 项目研究的是大学在这种合作中的经济贡献

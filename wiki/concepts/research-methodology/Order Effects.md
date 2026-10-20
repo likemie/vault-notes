@@ -50,7 +50,7 @@ updated: 2026-10-20
 > - **用途** 识别顺序效应帮助研究者区分处理效应和位置效应，从而更准确地比较不同干预条件。如果顺序效应未被控制，研究结论可能指向错误的干预。
 > - **边界** 顺序效应只存在于**同一组参与者接受多个条件**的设计中——在组间设计中不存在（因为每人只接受一个条件）。顺序效应不等于干预本身的"学习效应"或"适应效应"——它是因呈现顺序而产生的系统性偏差，而非干预内容的必然结果。
 
-> [!citation-card]- 重复测量设计的代价
+> [!citation-card] 重复测量设计的代价
 > 让完全相同的人接受所有条件，彻底消除了个体差异混淆，统计检验力更高。代价是引入了顺序效应——先接受的条件可能影响后续条件的表现。（p. 325）
 >
 > *Having the same people in each condition removes the confounding [[Variable]] of individual differences, giving greater statistical power. The cost is the introduction of order effects.*

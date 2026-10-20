@@ -101,7 +101,7 @@ updated: 2026-10-16
 > [!claim] 核心机制假说
 > 项目确立的核心假说指出：局部的中介机构扩建或单向证据推送无法打破转化壁垒；唯有通过结构、关系、质量、文化与技能五维协同，激活包含动态反馈与学术考核激励重构的[[Evidence Ecosystem\|证据生态系统]]，才能实现教育[[Research Impact\|研究影响力]]的全系统规模化释放。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–25)]]
 
-> [!policy-design]- 方案设计与多层[[Operationalization\|操作化]]指标体系
+> [!policy-design] 方案设计与多层[[Operationalization\|操作化]]指标体系
 > - **项目目标** 绘制跨国政策制定中教育研究应用的行动者与关系图谱；诊断政策官员与一线教师有效获取和利用证据的系统性阻碍；探索促进研究者与实践者[[Knowledge Co-production\|知识共创]]（Co-production）的制度改革路径。
 > - **多层调查模块与指标体系（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 76]]）** 项目研制的专用工具SIER 政策调查[[Questionnaire\|问卷]]系统覆盖系统、组织与个体三个嵌套视界：
 >   - **系统情境层** 考察国家教育研究战略完备性与教师科研制度保障；
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **2021年上半年 — 理论综合与[[Questionnaire\|问卷]]框架研制** [[Centre for Educational Research and Innovation\|CERI]] 梳理卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation\|知识动员]]模型，确立线性-关系-复杂系统三代嵌套理论框架，完成跨国政策调查问卷（[[Strengthening the Impact of Education Research Policy Survey]]）设计。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–25)]]
 > - **2021年6月–9月 — 跨国政策调查大规模施测** 针对 [[OECD]] 成员国教育部实施标准化问卷调研，正式采集到 29 个国家共计 37 个教育系统的高级行政数据，建立跨国政策端[[Research Utilization\|研究利用]]的首个基准数据库。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 25)]]
 > - **2021年秋季 — 典型国家高层[[In-depth Interview\|深度访谈]]** 选取日本、新西兰、挪威、葡萄牙、斯洛文尼亚与南非 6 国教育部司局长及高级战略主管展开深入[[Qualitative Interview\|质性访谈]]，核验调查数据的[[Ecological Validity\|生态效度]]并沉淀典型治理案例。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 26)]]
@@ -145,7 +145,7 @@ updated: 2026-10-16
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **覆盖规模指标** 参与国别数（29 国）、独立教育系统数（37 个）、深度案例访谈数（6 国）。
 > - **组织生态指标** 17 类组织活跃度分布、部委政务网络规模（0–16 类）与联结强度（1–6 点量表）、8 类官方中介治理形态。
 > - **个体促成指标** 4 类专业中介设立比例、科研 7 阶段参与系统数、8 类内外激励机制分布。

@@ -67,7 +67,7 @@ updated: 2026-10-20
 >   - **分层信度 $\omega_{\text{hierarchical}}$（或 $\omega_h$）** 控制特定分维度因子后，全局一般因子（General Factor）单独解释的方差比例。
 >   - **子维度分层信度 $\omega_{\text{subscale}}$（或 $\omega_s$）** 各子维度在剔除全局因子干扰后的净信度。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 当因子载荷在各测验题项间存在差异时（即现实中普遍存在的同类测验模型），Cronbach's $\alpha$ 仅能提供真实信度的下界估计。McDonald's $\omega$ 基于完全估计的因子载荷矩阵与误差方差直接计算真分数方差与总方差的比值，因而是当代心理测量学报告复合测量工具信度的最优基准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 11)]]
 >
 > *McDonald's omega coefficient is a model-based reliability estimate derived from the factor loadings and uniquenesses of a factor model. When the assumption of essential tau-equivalence is violated, omega provides a more accurate, unbiased estimate of internal consistency than alpha.*

@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育必须是一门以[[Nomothetic|通则式]]“预测（prediction）”为核心标志的概括性[[Policy Science in Comparative Education|政策科学]]；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以[[John Dewey|杜威]]反思思维和波普尔批判理性主义为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
 
 > [!citation-card] 通则式预测优于回顾性历史解释
@@ -214,7 +214,7 @@ updated: 2026-10-20
 > - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（[[Henry Barnard|Henry Barnard]]）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与[[Policy Science in Comparative Education|政策科学]]定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm|范式]]冲击。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统评析战后第三代际实证科学主义运动中霍姆斯伦敦学派的 $L + I = P$ 假说演绎模型、审慎条件预测与反宿命预言立场，并揭示实证政策科学作为冷战现代化援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能。
@@ -281,7 +281,7 @@ updated: 2026-10-20
 > > - **Holmes, B.（1965）** 坚信科学的唯一试金石是“预测”，政策决策者迫切需要评估现实干预的未来后果，而非回溯先行历史原因。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
 > > - **Kazamias & King** 反驳指出，教育深嵌于复杂的历史、文化与人际互动中，充斥着不可还原的价值与行动者自由意志，强行追求自然科学式的单向预测容易落入[[Technical Rationality|技术理性]]的官僚陷阱。([[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009b, pp. 55–56]]; King, 1967)
 
-> [!critique]- 批评与局限索引
+> [!critique] 批评与局限索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 揭示霍姆斯折衷复杂的问题法因坚持批判二元论与权变思维，倾向于暴露政策改革中规范与制度不同步所伴生的尖锐矛盾与非意图后果，无法像经验量化学派那样提供符合执政周期的简化、确定性数据背书，从而在战后官方政策资助市场（五年计划与技术援助）中屡遭冷遇。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 揭露以霍姆斯、安德森与诺亚为代表的第三代际[[Scientism|科学主义]]运动在追求[[Value Neutrality|价值中立]]与预测精准的同时，客观上为战后美苏冷战竞争、国家五年计划与国际技术援助提供了意识形态上的[[Social Science as Legitimation Alibi|合法化借口]]，将深刻的政治选择退化为技术工程。
 

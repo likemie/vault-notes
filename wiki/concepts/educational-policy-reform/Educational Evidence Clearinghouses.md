@@ -202,7 +202,7 @@ updated: 2026-10-20
 > - **用途** 帮助教育采购者、学校领导与政策制定者快速甄别“行之有效（What Works）”的方案，降低信息不对称与决策成本，并为财政资助分配提供合法性依据。
 > - **边界** 清算中心提供的是基于学术文献审查的“因果有效性信号”，不直接等同于包含实施成本、[[Organizational Culture\|组织文化]]、教师负担与本土情境适配在内的完整办学决策方案([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 121]])；且评级实践受制于各机构独特的准入门槛与方法论偏好，缺乏跨机构的一致[[Construct Validity\|构念效度]]([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 26]])。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 清算中心制定科学质量标准，审查教育干预的研究证据，并发布关于项目有效性的评级。然而，识别“基于证据”的干预措施目前仍更多是一种政策愿景，而不是一种可靠的研究实践。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
 >
 > *Clearinghouses set standards of scientific quality, review research on educational interventions, and issue ratings of program effectiveness. However, identifying "evidence-based" interventions is still more of a policy aspiration than a reliable research practice.*

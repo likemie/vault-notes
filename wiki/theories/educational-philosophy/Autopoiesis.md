@@ -68,7 +68,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 自创生（Autopoiesis）最初由 Maturana and Varela 创立，用以界定生命系统的自我指涉和边界自我维系特征。该理论由 Luhmann 扩展至社会科学，表明社会系统由操作封闭的自我指涉网络构成。在比较教育中，该学说被 Schriewer 用于解释教育系统的自我参照与折射机制（即全球教育修辞的外在参照与内部重组），而在转型设计中被 Escobar 用于阐释多重地方自组织在去中心化社会转型中的[[Emergence\|涌现]]逻辑。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 涌现，是在多重地方行动的基础上发生的，这些行动通过其（很大程度上未计划的）相互作用，产生了一个在观察者看来是新的整合整体结构……而不需要任何中央计划或智能来引导这一过程。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
 >
 > *Emergence, […] takes place on the basis of a [[Multiplicity]] of local actions that, through their (largely unplanned) interaction, give [[Research in Schools Evaluation\|RISE]] to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process.* (Escobar, 2018, p. 152)
@@ -109,7 +109,7 @@ updated: 2026-10-20
    >   > - **系统理论与自创生引入比较教育** 1990 年代起，Schriewer 将自创生与系统理论引入比较教育，用以论证为何全球趋同政策在地方层面的内化总是伴随着重大的印记折射与变异抵抗，否定了简单的单一趋同假说。(Schriewer, 2012, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 > - **推导** 比较教育中的教育转移不是简单的输入-输出，而是受制于系统本国内部折射机制（如转译与转化）的自创生过程。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** [[Transhumanism\|超人类主义]]的教育愿景在本质上是生物学自创生（自我提升与独立自我完善）的逻辑延伸，将学习界定为高度技术化的个体进化与增殖。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 62]])
 > - **应用命题** 教育政策分析不应当仅停留在“名义采纳”层面，而应运用自创生封闭性解释为何许多法定的“国际标准”在本土运行时被系统自身运作彻底“解耦”或改组。
 
@@ -178,7 +178,7 @@ updated: 2026-10-20
 > > - **Meyer and Ramirez (2000)** 强调由于全球普世[[Cultural Models\|文化模型]]的输出，教育政策呈现广泛的形式趋同。
 > > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和实践层面发生着根深蒂固的本土化重塑与拒绝。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Amos_2022_Springer\|Amos, 2022]] — 批评自创生理论在应对晚期现代性关系伦理时，对 connectivity 和 response-ability 的敏锐度不足，需要用 sympoiesis 对抗[[Transhumanism\|超人类主义]]的技术优化狂热。
 
 ---

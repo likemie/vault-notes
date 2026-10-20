@@ -57,7 +57,7 @@ updated: 2026-09-22
 > [!claim] 政策核心
 > 报告倡导对[[Scientific Literacy\|科学素养]]进行更广阔的理解，强调科学教育不仅要传授学科核心概念，更必须培养学生理解“科学如何运作”（How Science Works）、批判性评估证据来源以及在日常真实情境中应用科学思维的能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 30–31)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **目标** 培养能够批判性阅读媒体[[Science Journalism\|科学新闻]]、理性评估生活中的科技风险与争议的明智公民。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 > - **工具** 课程模块重构、引入[[Nature of Science\|科学本质]]（Nature of Science）讨论、社会科学争议（[[Socioscientific Issues\|Socio-Scientific Issues]]）辩论与探究性[[Homework\|作业]]。
 

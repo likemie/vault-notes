@@ -139,7 +139,7 @@ updated: 2026-10-16
 
 ### 4.4 关键工具：联合展示模板
 
-> [!note]- 联合展示的操作逻辑
+> [!note] 联合展示的操作逻辑
 > 联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences\|元推论]]行和列。
 
 **表 10.2：聚敛式设计联合展示模板（Template for a Convergent Design Joint Display）**
@@ -166,7 +166,7 @@ updated: 2026-10-16
 
 ## 6. 方法变体与对比
 
-> [!tip]-
+> [!tip]
 > - [[Explanatory Sequential Design\|解释性序列设计]] — 顺序不同：聚敛式是同时收集、合并比较；解释性序列是量化在前、质性在后，质性用于解释量化结果。
 > - [[Exploratory Sequential Design\|探索性序列设计]] — 顺序相反（质性→量化），且质性发现直接用于开发或修改量化工具。
 > - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、[[Case Study\|案例研究]]）中使用。
@@ -183,7 +183,7 @@ updated: 2026-10-16
 
 ## 8. 相关概念与理论
 
-> [!tip]-
+> [!tip]
 > - pragmatism — 作为其哲学基础的[[Pragmatic Paradigm\|实用主义]]。
 > - [[Integration in Mixed Methods]] — [[Mixed Methods Research\|混合方法研究]]的整合核心过程。
 > - [[Joint Display]] — 核心可视化整合工具。

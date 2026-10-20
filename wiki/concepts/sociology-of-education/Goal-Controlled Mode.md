@@ -78,7 +78,7 @@ updated: 2026-10-17
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **1960s 原初洞察**Bourdieu and Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于[[Cultural Capital\|文化资本]]不平等的两种大学融入模式（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - **2014–2017 田野发现**[[Yajun Zheng\|郑雅君]]在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始假设，为双模式概念奠定了经验基础
 > - **2023 理论整合与命名** 郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship\|自我主导性]]理论（Baxter Magolda），正式提出目标掌控模式／[[Intuition-Dependent Mode\|直觉依赖模式]]二分框架
@@ -99,7 +99,7 @@ updated: 2026-10-17
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > 目标掌控模式根植于[[Yajun Zheng\|郑雅君]]（2023）"大学过程"三层嵌套框架：
 > - wiki-[[Pierre Bourdieu]] — 对应**资本化过程** 目标掌控模式是优势阶层[[Habitus]]的具身化表达。郑雅君以布迪厄的游戏比喻阐明其在[[Champ\|场域]]中的位置——"手持迷宫地形图入场，洞察游戏规则，直奔关底对决"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：目标掌控模式被理解为一组由优势家庭提供的文化工具（规划意识、策略思维、信息搜集能力），使学生能策略性地组织行动路线

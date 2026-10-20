@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 里兹维的核心主张在于：当代教育政策转型与全球高等教育重构不能仅在民族国家封闭疆域内或孤立的技术效率层面被理解，而必须置于跨国[[Social Imaginary|社会想象]]、国际组织[[Discourse|话语]]霸权以及全球[[Geopolitics|地缘政治]]权力转移的多维透镜下审视。一方面，以[[OECD|经合组织]]为代表的跨国行动者依托[[New Growth Theory|内生新增长理论]]建构了排他性的“[[Knowledge-Based Economy|知识经济]]社会想象”，借由标准化测评数据制造跨国[[Space of Equivalence|等值空间]]，将公平与民主诉求降格为劳动力生产率的附庸；另一方面，亚洲的经济与政治崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge|知识地缘政治]]格局的“独立因果力量”，驱动国际化理性从传统的现代化援助向全额付费的出口创收市场理性深刻转变。
 
 > [!citation-card] 经合组织与知识经济的全球社会想象
@@ -156,7 +156,7 @@ updated: 2026-10-20
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
 > - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考文献。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统解构[[OECD|经合组织]]从 1960–1990 年社会民主多元协商到[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] 数字治理的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 论证亚洲崛起作为重塑全球高等教育格局的独立因果力量，建立批判[[Geopolitics|地缘政治学]]与双重国际化理性[[Analytic Framework|分析框架]]。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引里兹维等关于跨国政策行动者与话语网络的论述，探讨国际组织对比较教育学科[[Knowledge Production|知识生产]]的深层塑造。

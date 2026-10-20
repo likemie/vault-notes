@@ -87,7 +87,7 @@ updated: 2026-10-20
 >
 > *“Twelve of the 17 evaluations were sensitive to the model used... this powerful data set demonstrated that even when data are completely authentic, findings remain vulnerable to analytical model dependency unless rigorously pre-specified.”*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 [[Researcher Degrees of Freedom\|研究者自由度]]（p-hacking）** 研究者自由度强调研究者主观恶意或下意识地“试错直到显著”；而模型依赖性是客观存在的技术特征，即便极其严谨正直的研究者在面临不同合法模型时，同样会遭遇结论分歧。
 > - **不等于 [[Sampling Error\|抽样误差]]（Sampling Error）** 抽样误差随[[Sample Size Determination\|样本量]]增大而趋近于零，由[[Random Sampling\|随机抽样]]波动决定；模型依赖性在样本量极大时依然存在，甚至可能因大样本过度敏感而放大模型误设的偏差。
 > - **不等于 测验测量偏倚（Measurement Bias）** 测量偏倚源于测验工具本身的信效度缺陷；模型依赖性发生在测验分数已完成采集之后的统计建模阶段。

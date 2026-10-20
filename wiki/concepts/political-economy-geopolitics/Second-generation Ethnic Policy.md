@@ -49,7 +49,7 @@ updated: 2026-10-07
 > - **用途** 帮助研究者理解 2012 年后中国推广普通话、收紧区域自治权、推行[[Boarding Schools\|寄宿学校]]以及淡化地方少数民族特殊性的政策逻辑。
 > - **边界** 它不是一项国家公开颁布的单一法令，而是一套系统的、已被广泛吸纳入官方实践的政策理论与[[Discourse|话语]]纲领。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 既然民族是国家建构出来的虚假实体，那么就可以通过国家政策予以拆除。中国应主张借鉴美国同化少数族裔的熔炉模式，废除少数民族享有的宪法区域自治和优惠政策。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 102–103]])
 > 
 > *Since ethnic groups are socially constructed categories, they can be actively de-constructed or merged by state policy. China should adopt a 'melting pot' model similar to the US, dismantling minority autonomous regions and preferential treatments.*
@@ -106,7 +106,7 @@ updated: 2026-10-07
 > > - **胡鞍钢 (Hu Angang) (2011)** 认为苏联因为赋予加盟共和国和自治地方政治地位而瓦解，中国应全面废除自治以保安全。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 > > - **郝时远 (Hao Shiyuan) (2012)** 反驳称苏联的解体在于其背离了社会主义民族平等，而中国现有的自治制度是国家团结的基石，盲目废除自治反而会激化边疆矛盾。
 > 
-> > [!critique]- 批评索引
+> > [!critique] 批评索引
 > > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 批评第二代民族政策实质上是一种剥夺少数民族宪法主权地位、强制推进同化的[[Necropolitics\|死亡政治]]，其结果是在内蒙古等地区诱发了深重的自决悲剧。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 110]])
 > 
 > > [!warning] 未解问题与边界

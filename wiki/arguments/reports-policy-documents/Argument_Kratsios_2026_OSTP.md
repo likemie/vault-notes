@@ -256,7 +256,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ### 论证步骤一　从基础研究到开发的单向管道已无法解释当代发现机制
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 联邦政府资助私人市场不愿充分承担之基础研究的公共职能依然成立，但将基础研究、应用研究与试验开发割裂为固定机构分段负责的单向线性模型，已与当代科研实践严重脱节。（pp. 1–7）
 
 #### 1. 联邦公共资助职能仍然成立，但发现的组织形态已发生根本重构
@@ -280,7 +280,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 私人研发力量的迅猛崛起，构成了单向分工模型失效的最有力实证。
 
-> [!stat-cards] 私人部门研发崛起的核心规模对比
+> [!stat-cards]- 私人部门研发崛起的核心规模对比
 > - **≈700B** 企业部门每年研发支出（美元），超过联邦政府与高等教育总和的三倍。（p. 5）
 > - **> 35% / 40%** 基础研究中产业资助份额，与联邦资助份额的对比区间（产业份额急剧上升）。（p. 41）
 >
@@ -288,7 +288,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > > 领军企业实验室为顶尖人工智能与半导体科学家开出的薪资相对传统高校的溢价倍数。（p. 5）
 >
 
-> [!figure]- 图1　私人部门基础研发的执行者与资助来源
+> [!figure] 图1　私人部门基础研发的执行者与资助来源
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig1_Private_Basic_RD.jpg)
 
 企业研发已深入基础科学核心腹地，其产出的突破性成果表明传统机构界限正在瓦解。
@@ -314,7 +314,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 行政合规负担与管理费用的攀升，正严重侵蚀纳税人投入科学研究的实际经费价值。
 
-> [!stat-cards] 教师研究时间与间接成本负担
+> [!stat-cards]- 教师研究时间与间接成本负担
 > - **42%–44%** 联邦资助高校教师用于起草申请、财务审计与合规文书的工作时间比例，显著挤占科研与教学。（p. 8）
 > - **40%+** 接受 [[National Institutes of Health|NIH]] 资助的高校平均有效间接成本补偿率，部分机构协议费率高达直接成本的 50%–60%。（pp. 8, 15）
 > - **10%–15%** 同批高水平科研机构在接受私人基金会资助时通行的间接成本管理费率区间。（p. 8）
@@ -330,12 +330,12 @@ issuing_organization: "Office of Science and Technology Policy"
 
 全球科技竞争的战略态势已发生根本性逆转，竞争对手在研发总投入与体制动员上已形成全方位挑战。
 
-> [!figure]- 图2　按购买力平价计算的国内研发总支出
+> [!figure] 图2　按购买力平价计算的国内研发总支出
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig2_GERD_PPP.jpg)
 
 与此同时，世界主要经济体均在积极重塑科研体制，而美国高比例的外籍科研人才与薄弱的本土转化链条形成了巨大张力。
 
-> [!figure]- 图3　授予临时签证持有者的美国博士比例
+> [!figure] 图3　授予临时签证持有者的美国博士比例
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig3_Doctorates_Temporary_Visa.jpg)
 
 若缺乏本土制造生态承接，单纯的科学开放将面临严重的战略外溢。
@@ -349,14 +349,14 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ### 论证步骤二　行政摩擦、资历垄断与错位激励大幅抬高突破性创新成本
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 维持历史科技进步速度所需的科研投入在多领域急剧攀升；行政文书重负、资深学者的[[Seniority Barrier in Academia|资历垄断]]、偏离学术能力的考核标准以及追求论文数量的功利激励，共同推高了取得突破性科学进展的制度成本。（pp. 13–20）
 
 #### 1. 维持历史技术进步速度所需的研究投入在多个领域成倍攀升
 
 生物医学与微电子等关键领域的经验事实表明，单纯扩大经费规模并未带来突破性产出的线性增长，科研边际生产率正面临普遍放缓的挑战（pp. 13–14）。
 
-> [!stat-cards] 研发效率放缓与成本上升的关键测度
+> [!stat-cards]- 研发效率放缓与成本上升的关键测度
 > - **80×** 1950 年以来通胀调整后每十亿美元产出新药数量的下降倍数（[[Eroom's Law|厄鲁姆定律]]，约每九年减半）。（p. 13）
 > - **18×** 1970 年代初以来维持晶体管密度历史增长所需的研究人员增幅。（p. 14）
 > - **3–25×** 1969 年以来农业研发投入的扩大倍数，而产出增速大体持平。（p. 14）
@@ -381,7 +381,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!case] [[Star Scientists|明星科学家]]逝世后的知识垄断打破效应
 > 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级原始创新产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引文献。传统学科规模扩大后，注意力往往固化于既有经典文献，严重阻碍了前沿范式的迭代升级（p. 16）。
 
-> [!figure]- 图4　首次获得 R01 等效资助的研究者平均年龄
+> [!figure] 图4　首次获得 R01 等效资助的研究者平均年龄
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig4_Age_First_Time_NIH_Investigators.jpg)
 
 [[Seniority Barrier in Academia|学术资历壁垒]]与评审固化共同将青年学者的创新探索推迟。
@@ -435,7 +435,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ### 论证步骤三　构建多元资助工具与新型组织形态的可检验科研组合
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 每年约 2000 亿美元的联邦研发投入应当作为经过深思熟虑的资助组合进行主动配置；联邦机构必须发展多元科研组织实体与选拔机制，并依托元科学单元开展[[Randomised Controlled Trials|随机对照实验]]以检验其有效性。（pp. 20–32）
 
 #### 1. 历史上针对特定科学前沿设立专用机构的制度传统
@@ -512,7 +512,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ### 论证步骤四　跨越从科学发现到本土转化的鸿沟以维系国家技术优势
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 单纯依赖论文层面的学术卓越无法自发维系国家技术领导地位；必须打破行政许可枷锁，全面开放联邦试验测试设施，组建前竞争技术联合体，确保公共研发成果扎根于本土实体产业。（pp. 33–46）
 
 #### 1. 单纯科学卓越无法自发维系国家综合技术领导地位
@@ -633,7 +633,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ### 论证步骤五　将过程知识与熟练手艺重构为科研生态的核心支柱
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 技术能力本质上深植于无法完全编码的[[Process Knowledge|过程知识]]与熟练手艺之中；制造业的外流切断了科学探索与生产实践的反馈回路，必须重振学徒制并拓宽传统学术阶梯之外的科研参与路径。（pp. 47–56）
 
 #### 1. 过程知识深植于实践现场而无法仅凭发表文献传递
@@ -702,7 +702,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ### 论证步骤六　在人工智能时代同步扩大知识生成与同等规模的实验核验
 
-> [!claim] 步骤六核心主张
+> [!claim|lead] 步骤六核心主张
 > 人工智能大幅降低了假设生成与论文撰写的成本，但并未自动消除实验反馈的物理约束；[[Genesis Mission|创世纪计划]]必须将国家算力仪器整合为发现引擎，并同步建立以黄金标准科学为核心的大规模自动化核验基础设施。（pp. 57–72）
 
 #### 1. 认知工具跃升难以直接消除物理与制度层面的硬性约束
@@ -779,7 +779,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ### 论证步骤七　以 2028 财年预算优先事项指导联邦研发组合战略重组
 
-> [!claim] 步骤七核心主张
+> [!claim|lead] 步骤七核心主张
 > 附件指导备忘录将[[Portfolio-Based Research Funding|组合式科研资助]]、开放设施、机制设计试验与制造转化等核心原则，正式转化为各联邦部门编制 2028 财年预算时的刚性合规科目。（p. 86）
 
 #### 1. 联邦政府应聚焦时间视野长且私人资本难以承担的基础探究

@@ -193,7 +193,7 @@ updated: 2026-10-20
 > [!info] 模型基础
 > 以创新资源流动为视角，将国际和国内的人才、技术、资本、知识等创新资源在[[Systems of Innovation\|创新系统]]中的流动分别看作科技创新的国际循环和国内循环，从而构建科技创新双循环生态系统模型。
 
-> [!example]- 图2-1：科技创新双循环生态系统模型
+> [!example] 图2-1：科技创新双循环生态系统模型
 > ![](https://img.mylikemie.icu/books/Zhang_2023_PHEI/figures/Figure_2-1_Dual_Circulation_Model.jpg)
 
 > [!taxonomy] 七大构成要素
@@ -205,7 +205,7 @@ updated: 2026-10-20
 > - **产业集群** 一定地域空间内由产业化组织串联形成的有机集聚网络
 > - **双循环系统** 创新资源通过国内循环和国际循环最终沿着创新链演化和增值
 
-> [!example]- 图2-2：创新生态系统中创新主体之间的相互作用
+> [!example] 图2-2：创新生态系统中创新主体之间的相互作用
 > ![](https://img.mylikemie.icu/books/Zhang_2023_PHEI/figures/Figure_2-2_Innovation_Agent_Interaction.jpg)
 
 > [!line-a] 国内循环：产业链与创新链的精准对接
@@ -389,7 +389,7 @@ updated: 2026-10-20
 > [!line-a] 国内循环建设对策
 > 以广深港和广珠澳两大走廊为轴，推动核心城市与周边城市科技产业协同发展。
 >
-> > [!example]- 表5-3：香港、澳门、广州市、深圳市的基础优势与发展战略
+> > [!example] 表5-3：香港、澳门、广州市、深圳市的基础优势与发展战略
 > > ![](https://img.mylikemie.icu/books/Zhang_2023_PHEI/figures/Table_5-3_GBA_Four_Cities_Strategy.jpg)
 >
 > > [!features] 五大建设路径

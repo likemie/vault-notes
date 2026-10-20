@@ -129,7 +129,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 教学与学习工具包（Teaching and Learning Toolkit）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研发与运维的标志性在线[[Evidence-Based Policy-Making|循证决策]]工具；该工具以[[Umbrella Review\|伞状综述]]和[[Meta-meta-analysis\|二阶元分析]]系统汇总全球实证研究，面向[[School Leadership\|学校领导]]者与教师，从额外学习月数、实施成本与证据挂锁等级三个维度系统比较 30 余类通用教学策略，总结了超过 5,500 项教育研究，作为学校专业审议与资源规划的直观标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 
-> [!policy-design]- 架构设计与三大策略范畴
+> [!policy-design] 架构设计与三大策略范畴
 > - **三大干预范畴（[[OECD]] 系统分类）** Toolkit 的证据摘要被系统界定为一系列整合的伞状综述，将广泛的学校与课堂干预解构为三大范畴共 30 余类策略：
 >   1. **教学策略（Pedagogical approaches）** 如[[Metacognition\|元认知]]与自我调节、同伴辅导、反馈策略、拼读教学；
 >   2. **组织与制度策略（Institutional approaches）** 如延长在校时间、小班化教学、[[Tracking\|能力分组]]设置；
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- 政策发展历程
+> [!dev-timeline] 政策发展历程
 > - **2008–2011 — 研发萌芽与[[Pupil Premium\|学生津贴]]契机** 杜伦大学学者在 ESRC 资助下建立[[Meta-analysis\|元分析]]数据库；英国政府出台“学生津贴”（Pupil Premium）政策，[[Sutton Trust\|萨顿信托]]发布首版摘要指南。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 46)]]
 > - **2011 — [[Education Endowment Foundation\|EEF]] 成立与工具包制度化发布** 伴随 EEF 设立，工具包被确立为旗舰在线产品，首创学习月数与成本效益的可视化联盟表，覆盖中小学核心教学策略。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **2013 — 纳入[[What Works Network\|有效性网络]]（WWN）国家战略** 英国中央内阁办公室设立 What Works Network，EEF Toolkit 成为全英[[Output-Oriented Governance\|循证治理]]的公认标杆，Goldacre (2013b) 报告大力推介其证据呈现模式。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]
@@ -175,7 +175,7 @@ updated: 2026-10-20
 > - **核心使用群体** 英格兰及全英数十万名中小学校长、副校长、学科带头人与一线教师。
 > - **政策支撑工具** 英国教育部“[[Pupil Premium\|学生津贴]]”（Pupil Premium）自主支配政策将 Toolkit 作为合规与评估推荐工具；EEF 配套发布《学校证据实施指南》。
 
-> [!pathways]- 运作机制与从单向发布向深度护航的演进
+> [!pathways] 运作机制与从单向发布向深度护航的演进
 > - **独立元[[Unit of Analysis\|分析单元]]运转规程** Toolkit 将每类教学策略作为一个动态追踪的独立元分析单元：广泛检索全球因果实证文献并依标准筛选，采用倒方差加权计算综合平均[[Effect Size\|效应量]]，运用统计转换公式将效应量标准化为“额外进步月数”，并结合成本与挂锁等级形成多维矩阵排行榜。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 46)]]
 > - **底层元分析局限与 200 余项本土 [[Randomised Controlled Trials\|RCT]] 反哺回填机制** Toolkit 初期依赖的元分析综合整合了全球不同国家、学段与质[[Quantitative Research\|量的研究]]，存在[[External Validity\|外部效度]]局限；为此 EEF 自主资助开展了 200 余项英格兰本土大规模 RCT，建立起将本土高质量因果发现实时回填并动态更新工具包指标的循环反馈机制。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **单向发布的失效与多臂因果试验判决** 尽管 Toolkit 在学校端建立了极高知名度，大规模多臂因果随机对照试验（Lord et al., 2017 “识字八爪鱼”试验，覆盖 800 所小学；4 级最高因果可信度）实证证实：单纯依靠宣传册、邮件通讯、期刊专栏与网站等单向改写传播策略，在改善学生统考成绩上效应量完全为零（$ES pprox 0.00$）。戈拉德等学者据此指出，该实证彻底推翻了“单纯提供改写摘要即可驱动实践变革”的信息赤字假设。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 核心指标与采纳率
+> [!indicators] 核心指标与采纳率
 > - **学校采纳率** [[OECD\|经合组织]]（OECD）跨国政策调查数据显示，截至 2017 年，英格兰已有 **70% 的中学校长**在校本决策中常规参考 Toolkit，使其成为全球覆盖面最广的循证信息平台之一。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **实证体量储备** 汇总全球超过 5,500 项教育实证研究，涵盖 30 余类中小学关键教学与管理策略。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]
 > - **资助联动杠杆** 推动 [[Education Endowment Foundation\|EEF]] 自主资助超过 200 项学校现场大规模 [[Randomised Controlled Trials\|RCT]] 试验，并将最新本土因果发现实时回填至工具包矩阵。

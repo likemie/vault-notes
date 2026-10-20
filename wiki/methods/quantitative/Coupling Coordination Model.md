@@ -54,7 +54,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 地区、年份、城市、省份、国家、政策单元或其他可构建指标体系的空间/组织单元。
 > - **输出形式** 子系统发展水平 $e_j$、耦合度 $C$、综合发展指数 $T$、协调度 $D$、等级分类和时空格局。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 耦合指两个或多个子系统之间相互影响和相互作用的程度，也可以反映不同子系统之间的约束程度。耦合度可以衡量不同子系统之间的协同发展水平，并在一定程度上描述不同子系统发展水平的差异。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 67)]]
 >
 > Original: Coupling refers to the extent of mutual influence and interaction among two or more subsystems, and it can also reflect the degree of constraint between different subsystems. The degree of coupling can measure the level of collaborative development between different subsystems.
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > > [!result-reading]- 结果怎么读
 > > $g_{ij}$ 越接近 1，表示该单位在这个指标上越接近样本中的最好水平；越接近 0，表示越接近样本中的最低水平。
 >
-> > [!method-limits]- 参数、分类与注意事项
+> > [!method-limits] 参数、分类与注意事项
 > > - **样本范围** 标准化结果依赖最大值和最小值。若加入新年份或新地区，历史得分可能随之变化。
 > > - **指标方向** 正向/负向判断必须明确，否则同一指标可能被反向解释。
 > > - **可比性边界** $g_{ij}$ 是相对得分，不是原始指标的绝对水平。
@@ -132,7 +132,7 @@ updated: 2026-10-16
 > > [!result-reading]- 结果怎么读
 > > $e_j$ 是第 $j$ 个子系统的相对发展水平。它可以帮助识别短板，例如教育系统高、科技系统低、人才系统中等。
 >
-> > [!method-limits]- 权重与注意事项
+> > [!method-limits] 权重与注意事项
 > > - **指标权重 $f_i$** 可用等权、AHP、熵权法、AHP-EWM-LSD 组合赋权等。
 > > - **权重敏感性** $e_j$ 对权重很敏感，应报告权重来源，并检查替换权重后排序是否稳定。
 > > - **指标体系主观性** 指标选择、正负向设定和缺失值处理都会影响子系统得分。
@@ -149,7 +149,7 @@ updated: 2026-10-16
 > > [!result-reading]- 结果怎么读
 > > 高 $C$ 表示“均衡”或“贴合”，不是“高水平”。如果三个子系统都很低但一样低，$C$ 也可能很高。
 >
-> > [!method-limits]- 参数与注意事项
+> > [!method-limits] 参数与注意事项
 > > - **子系统数量 $K$** 通常为 2 或 3，也可扩展到更多子系统；$K$ 改变会影响公式阶数和解释。
 > > - **耦合度陷阱** 若 $e_1=e_2=e_3=0.1$，$C$ 仍可达到 1，因此不能只看 $C$ 判断协调发展。
 > > - **结果边界** $C$ 描述均衡贴合，不描述整体发展水平。
@@ -165,7 +165,7 @@ updated: 2026-10-16
 > > [!result-reading]- 结果怎么读
 > > $D$ 越高，表示系统越接近“高水平且均衡”的协调状态；$D$ 低可能来自系统整体水平低，也可能来自子系统之间不均衡。等级分类和地图只用于展示空间格局。
 >
-> > [!method-limits]- 权重、分类与注意事项
+> > [!method-limits] 权重、分类与注意事项
 > > - **子系统权重 $\alpha_j$** 常见做法为等权，例如三系统各取 $1/3$。等权表达“同等重要”的规范判断，不是数据自动给出的事实。
 > > - **等级阈值** Fan et al. 使用 ArcGIS 10.8 的自然断点法；自然断点依赖样本分布，分类线不能被理解为自然断裂。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 > > - **因果边界** $D$ 是描述性综合指标，不是因果估计。高 $D$ 不能说明某个子系统导致另一个子系统发展。

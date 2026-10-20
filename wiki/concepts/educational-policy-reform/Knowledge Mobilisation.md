@@ -112,12 +112,12 @@ updated: 2026-10-20
 > - **用途** 解释为何高质量学术研究不会自动转化为教学行动，指导教育系统通过全方位策略（传播、能力、网络、系统）破除转化阻滞。
 > - **边界** 知识动员是促成证据流动的系统战略与中介机制，区别于[[Evidence-Informed Practice\|证据知情实践]]（EIP）决策取向本身，也区别于单一的文献扩散（Dissemination）。
 
-> [!citation-card]- 关键表述：动员即多方协作共创
+> [!citation-card] 关键表述：动员即多方协作共创
 > "动员意味着研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。"（Campbell et al.，引于 [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 130]]）
 >
 > *"Mobilisation implies social interaction and iterative processes of co-creating knowledge through collaboration between and among researchers, decision-makers and practitioners."*
 
-> [!citation-card]- 知识动员作为学校改进基石
+> [!citation-card] 知识动员作为学校改进基石
 > "这在同样程度上是一种知识动员的形式：学校改进的核心难点不在于是否存在研究，而在于研究如何进入课堂并转化为教师的内生行动。"[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
 >
 > *"Det har i like stor grad vært en form for kunnskapsmobilisering."*

@@ -83,7 +83,7 @@ updated: 2026-10-16
 > [!claim] 核心机制假说
 > WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制[[Discourse|话语]]权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **数据收集方式** 整合各国官方行政统计（教育部数据）、人口普查、家庭调查（如[[UNICEF\|儿童基金会]][[Multiple Indicator Cluster Surveys\|MICS]]、世行 LSMS）与国际组织专项调查，经标准化处理后汇入数据库。
 > - **[[Performance Indicators\|教育指标]]体系** 涵盖投入指标（公共教育支出占 GDP 比重、生师比）、过程指标（净入学率、[[Grade Retention\|留级]]率）与产出指标（完成率、成人识字率、学习成绩基准），并自 2018 年起纳入世界银行《[[Human Capital Theory\|人力资本]]指数》（HCI）各子指标。
 > - **发布与开放** 通过 data.worldbank.org 免费向全球开放全量历史时间序列数据（API 接口与批量下载）；并以《世界发展报告》专题年报的形式定期进行政策诠释。
@@ -96,7 +96,7 @@ updated: 2026-10-16
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **1978–1988 年 — 统计汇编早期积累** [[World Bank\|世界银行]]内部统计部门开始系统整合全球发展数据，主要为内部研究与放贷决策服务，[[Performance Indicators\|教育指标]]仍属于宏观发展统计的附属模块。
 > - **1989 年 — 《世界发展指标》印刷年鉴正式发布** 作为《世界发展报告》的配套统计附件出版，教育统计数据首度以结构化跨国指标集形式公开发布，包含 116 项教育相关指标，标志着世界银行正式将教育统计纳入其发展规制工具链。
 > - **1997–2004 年 — 数字化开放与全球推广** 1997 年发布 CD-ROM 版数据库；2004 年免费网络开放，为全球政府、学者和智库提供一站式教育统计比较平台，大幅降低了世界银行知识产品的获取门槛。
@@ -115,7 +115,7 @@ updated: 2026-10-16
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **数据霸权** WDI 是全球学术文献（特别是发展经济学领域）引用频次最高的宏观数据来源，也是多边援助机构进行国别比较分析时的首选基准数据库。
 > - **政策影响** [[World Bank\|世界银行]]通过 WDI 将教育回报率比较数据（Psacharopoulos & Patrinos 系列）直接嵌入贷款谈判的条件性诊断（Policy Diagnostic）框架，实质上将 WDI 转化为放贷合法性的统计护盾。
 > - **[[Systems Approach for Better Education Results\|SABER]] 联动** [[Systems Approach for Better Education Results\|SABER]] 评估框架直接采用 WDI 指标作为基准对比参照，将 WDI 数字进一步转化为可[[Operationalization\|操作化]]的政策处方依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]

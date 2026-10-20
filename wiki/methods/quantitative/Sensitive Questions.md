@@ -45,7 +45,7 @@ updated: 2026-10-20
 > - **用途** 识别和应对敏感问题帮助研究者在获取必要数据与保护受访者之间取得平衡。匿名性和缺乏面对面接触通常有助于回应敏感材料，但不能完全消除偏差。
 > - **边界** 敏感问题处理与[[Informed Consent\|知情同意]]和无害性等伦理原则互补但不重叠——前者是操作层面的偏差控制策略，后者是研究设计的伦理前提。
 
-> [!citation-card]- 敏感必须通过受访者的眼睛看待
+> [!citation-card] 敏感必须通过受访者的眼睛看待
 > 随着问题变得更加威胁和敏感，应预期更大的偏差和不[[Reliability\|可靠性]]。敏感性和威胁必须通过受访者的眼睛来看待——对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。（Sudman & Bradburn, 1982, p. 86; p. 156）
 >
 > *As the questions become more threatening and sensitive, it is wise to expect greater bias and unreliability. Sensitivity and threat are to be viewed through the eyes of respondents rather than the questionnaire designer; what might appear innocuous to the researcher might be highly sensitive or offensive to participants.*

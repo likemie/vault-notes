@@ -128,7 +128,7 @@ updated: 2026-10-16
 
 [[Public Engagement with Science|公众科学参与]]的开展根本上取决于科研人员自身的参与意愿与专业行动能力。这亟需在科学界内部建立一种积极的科研文化，使一线科学家在大学及科研雇主的支持下，拥有充分的信心与资源，与多元公众社群、政策制定者、大众媒体以及产业与第三部门开展深度交流。（pp. 91–92）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 科研人员投身[[Public Engagement with Science\|公众科学参与]]能够获得学术反哺、资助[[Competitiveness|竞争力]]、伦理践行、工作乐趣与综合技能等多维实质增益；与此同时，高等教育机构（Higher Education Institutions, HEIs）亦迫切需要依托公众参与维系大学开展科研与教学的核心制度契约——[[Social License to Operate\|社会运营许可]]（Licence to Operate），两者在战略目标上高度互构。（pp. 91–93）
 
 #### 主题一：多元化草根科学传播平台与公共空间网络创新（p. 92）
@@ -201,18 +201,18 @@ updated: 2026-10-16
 
 在实证方法上，皇家学会委托 Technopolis 执行的 2025 年全国代表性大样本抽样调查，与 2006 年皇家学会首次开展的里程碑调查以及 2015 年由英国公共科研资助机构联盟（包括惠康信托基金会）联合开展的全国调查构成了一项跨越近二十年的[[Longitudinal Study|纵向研究]]面板对比，为解构英国高校科研文化的历史演进提供了极其详实的微观定量基准。（pp. 93–94）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 历时二十年的纵向追踪数据显示，英国科学界的公众参与文化已经实现了历史性的范式跃迁：参与行为的覆盖面与深度均达历史峰值（理工科参与率达 85%）；对参与本质的认知彻底打破了以往由少数资深学者或特聘公关垄断的精英主义藩篱（仅 9% 认同限资深学者），转变为由绝大多数科研人员全员共享的学术职业道德义务（83% 认同）。（pp. 94–96）
 
 #### 主题一：参与行为覆盖率与高频参与群体的持续扩张（p. 94）
 
 过去二十年间，约四分之三的受访学者开展过不同程度的公众科学活动，高频参与群体的比例大幅攀升，超过半数的学者表达了未来参与更多活动的意愿，整体参与广度与深度呈现极为明显的稳步攀升态势（图 6，p. 94）。
 
-> [!example]- 图6：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
+> [!example] 图6：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6_Participation_in_Public_Engagement.jpg)
 > *(基于皇家学会 2006 年调查、RCUK/Wellcome 2015 年调查与 Technopolis 2025 年全国追踪调查数据绘制，展示理工科科研人员公众参与率从 74% 攀升至 85%、高活跃度群体稳定在 27% 的纵向演进图景)*
 
-> [!stat-cards] 英国科研人员公众参与行为核心演进指标（2006 → 2015 → 2025）
+> [!stat-cards]- 英国科研人员公众参与行为核心演进指标（2006 → 2015 → 2025）
 > - **74% → 78% → 85%** 英国理工科（[[STEM Education\|STEM]]）科研人员报告开展过至少一项公众参与活动的比例从早期的四分之三持续增长至 85% 的全员覆盖水平。
 > - **11% → 27% → 27%** 每年参与 10 次以上高频、重度参与的学者群体比例，在 2015 年较 2006 年实现了两倍以上的跨越式暴增后，在 2025 年维持在 27% 的稳定高位。
 > - **45% → 53% → 54%** 超过半数的受访学者明确表达了“渴望在未来开展更多公众参与活动”的强烈主观诉求。（p. 94）
@@ -230,7 +230,7 @@ updated: 2026-10-16
 
 最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%。这充分表明，广大早期职业研究人员（Early-Career Researchers, ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式（图 7，p. 95）。
 
-> [!example]- 图7：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
+> [!example] 图7：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig7_Attitudes_toward_Public_Engagement.jpg)
 > *(基于近二十年纵向追踪调查数据绘制，展示认为公众参与是不可推卸道德义务的比例升至 83%，而认为“仅限资深学者”的比例从 44% 断崖式跌至 9% 的去精英化认知跃迁)*
 
@@ -246,7 +246,7 @@ updated: 2026-10-16
 
 在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征：虽然单向“告知公众”（70%）依然是绝对主导的驱动力，且学者对“彰显研究的社会相关性”（60%）和“享受参与乐趣”（58%）的认同度居高不下，但以双向对话与深度倾听为特征的参与模式正在快速萌芽——包括通过[[In-depth Interview|深度访谈]]、民意[[Questionnaire|问卷]]开展的“政策咨询型参与”（Consultation），以及涉及课题联合设计、社区科研能力建设、[[Participatory Action Research|参与式行动研究]]与大规模公民科学的“协同共创型参与”（Collaborative / [[Knowledge Co-production|co-production]] activities）（图 8，p. 96）。
 
-> [!example]- 图8：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
+> [!example] 图8：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig8_Motivations_for_Engagement.jpg)
 > *(基于 2006、2015 与 2025 年调查数据绘制，揭示单向告知（70%）与社会相关性（60%）占据主导，享受参与乐趣（58%）持续上升，而职业晋升驱动（18%）仍处低位的动机构成)*
 
@@ -264,14 +264,14 @@ updated: 2026-10-16
 
 二十年的纵向追踪展现出一幅尖锐的悖论图景：尽管学者个体的参与意愿与道德热情空前高涨，但在高校学术体制的现实运行中，科研人员面临的体制性阻碍非但没有减少，反而在时间与经费等核心维度上呈现全面加剧的恶化态势。（pp. 96–97）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 时间匮乏已成为扼杀高质量公众参与的头号杀手（75% 的学者深陷其中），加之专项资助匮乏恶化以及高校职称晋升机制对参与贡献的严重无视，造成了学者“个体热情”与大学“制度冷漠”的深刻撕裂；三分之一的科研人员直言公众参与在所在大学被严重低估，人事聘任说明书中极少体现参与职责。（pp. 96–99）
 
 #### 主题一：不断恶化的时间压力与资源匮乏困境（pp. 96–97）
 
 调查数据显示，制约科研人员投身参与的核心阻碍呈现出鲜明的两极分化与恶化态势：尽管公众参与在政策层面受到更多倡导，但时间匮乏（75%）已成为首要且持续恶化的体制性瓶颈，加之专项活动经费短缺（45%）问题日益突出；相比之下，技能培训短缺（10%）已大幅缓解，表明当前阻碍已从个人能力不足转向大学工作量与资源的结构性挤出（图 9，p. 97）。
 
-> [!example]- 图9：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
+> [!example] 图9：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig9_Barriers_to_Engagement.jpg)
 > *(基于近二十年纵向调查数据绘制，展示时间压力（75%）与经费短缺（45%）持续攀升，而技能培训短缺（10%）大幅缓解的体制性挤出特征)*
 
@@ -287,7 +287,7 @@ updated: 2026-10-16
 
 在机构支持层面，开展高品质、多样化的公众参与高度依赖大学机构与直线管理者的实质性支撑。尽管各高校近年来普遍设立了专职支持团队，但在全英学术界范围内，高校的制度化支持依然呈现出结构性滞后：不仅培训实际参与率长期徘徊在 27% 左右，参与贡献对职称晋升的支撑作用亦处于低位（27%），且岗位职责说明书中几乎从未明确纳入参与要求（图 10，p. 98）。
 
-> [!example]- 图10：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
+> [!example] 图10：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig10_Institutional_Support.jpg)
 > *(基于 2006、2015 与 2025 年调查数据绘制，展示高校培训参与率（27%）与职称晋升支撑率（27%）长期停留在低位，揭示高校体制支持的结构性滞后)*
 
@@ -333,7 +333,7 @@ updated: 2026-10-16
 
 外部资助机构的经费分配机制与国家级科研评估框架，是决定大学管理层是否愿意对公众参与进行长线制度投资的终极决定性杠杆。（p. 100）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 依托单项分散课题划拨短期经费的传统机制无法激发大学的长期战略承诺；现行科研卓越框架（REF）在测度公众参与的长周期、微妙[[Research Impact\|科研影响力]]上存在量化归因失真，导致大学资源过度向短期商业化倾斜；唯有通过即将实行的 REF 2029 改革设立专属性的“参与与影响”独立考评剖面，并将专职专业支持人员编制纳入科研共同体数据核算，才能从根本上矫正制度扭曲。（pp. 100–101）
 
 #### 主题一：课题制资助的分散性与上游深度嵌入诉求（p. 100）
@@ -380,7 +380,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 英国学术科研共同体内部已经孕育出深厚的公众参与文化自觉；巩固并深化这一文化，需要大学领导、国家资助委员会以及科研基金会展现出等量齐观的制度性承诺。（p. 102）
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 公众参与是大学在动荡紧缩时代维系办学生存合法性与全社会民主支持的战略性生命线投资；必须通过由大学校长落实工作量核算与晋升认定、资助委员会提供对标财政激励、资助机构设立预算占比指标与多年期团队资助，以及学者共同体主动开展上游倡导构成的四维国家行动路线图。（pp. 102–106）
 
 #### 主题一：公众参与关乎大学存续发展的六大核心战略价值（p. 102）
@@ -457,7 +457,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 为研制本章关于学术科研共同体与高等教育机构公众参与的深度实证分析与战略建议，英国皇家学会组建了横跨前沿基础研究学者、大学高层治理中枢、青年科学家代表与国家公众参与专业协调机构的专家工作组：
 
-> [!info]- 第六章专家研制工作组核心成员与跨界机构构成（Chapter 6 Working Group, Annex 1, p. 111）
+> [!info] 第六章专家研制工作组核心成员与跨界机构构成（Chapter 6 Working Group, Annex 1, p. 111）
 > - **工作组主席（Chair）**
 >   - 蒂莫西·索夫特利教授（Professor Timothy Softley FRS）：英国皇家学会会士、伯明翰大学物理与理论化学名誉教授、前伯明翰大学负责科研与[[Knowledge Transfer\|知识转移]]副校长（Pro-Vice-Chancellor for Research and Knowledge Transfer）。
 > - **委员会成员（Committee Members）**
@@ -494,22 +494,22 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 ## 关键引用
 
-> [!citation-card]- 公众参与是科研全生命周期的核心组成部分
+> [!citation-card] 公众参与是科研全生命周期的核心组成部分
 > [[Public Engagement with Science\|公众科学参与]]是科研生命周期中不可或缺的有机组成部分。它应当被确认为核心活动，学术界、产业界和第三部门的研究人员在做好这一工作时应当获得充分的支持、保护与奖励。（p. 14）
 >
 > *Public engagement is an essential part of the research lifecycle. It should be acknowledged as such, and researchers in academia, industry and the third sector should be supported, protected and rewarded for doing it well.*
 
-> [!citation-card]- 大学存续发展的战略基石
+> [!citation-card] 大学存续发展的战略基石
 > 尽管高等教育机构面临充满挑战的财政环境，但对公众参与的资金投入应当被视为对未来的战略性投资。公众参与基于以下理由对于大学的生存发展至关重要：为科研活动建立公众支持并提升其社会形象；为大学科研与教育核心活动维持公共投资的合法性；展示透明且合乎伦理的研究实践；凸显大学作为促进社会建设性与相互尊重对话的关键中枢角色；启迪下一代学生、学者和教育工作者；以及通过外部大奖认可和吸引社会慈善提升声誉。（p. 102）
 >
 > *Although HEIs face a challenging financial environment, funding of public engagement should be seen as a strategic investment in the future. Public engagement is vital to universities’ existence on the grounds of: building public support for research activities and raising the profile of these activities; maintaining legitimacy for public investment in their core activities of research and education; demonstrating transparent and ethical practice; highlighting their key role as facilitators of constructive and mutually respectful dialogue; inspiring the next generations of students, researchers and educators; boosting opportunities for external recognition through prizes and attracting philanthropy.*
 
-> [!citation-card]- 大学管理层必须落实工作量核算与晋升认可
+> [!citation-card] 大学管理层必须落实工作量核算与晋升认可
 > 大学领导层必须确保公众参与在教师职称晋升、招聘准则以及校内评奖计划中得到明确、正式的制度化认定；建立法定工作量核算机制，将参与活动正式折算计入工作时长，为学者实质性松绑减负。（p. 103）
 >
 > *University leadership should ensure that engagement is clearly recognized in promotion criteria, hiring processes and recognition schemes; and introduce workload models that legitimately allocate time for public engagement activities.*
 
-> [!citation-card]- 资助机构设立法定支出比例与多年期团队资助
+> [!citation-card] 资助机构设立法定支出比例与多年期团队资助
 > 各资助机构应当率先垂范，建立透明的财务核算机制，每年向社会公开发布用于支持公众参与的专项支出占其总体科研资助预算的法定比例目标；创设竞争性、多年期战略公众参与专项基金，直接资助跨学科科研团队与专业支持队伍。（p. 104）
 >
 > *Research funders should set a target percentage of their research funding that is dedicated to public engagement, and report annually on progress against this target; and introduce competitive, multi-year strategic funding for teams of researchers and public engagement professionals.*

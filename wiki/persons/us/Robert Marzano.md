@@ -66,7 +66,7 @@ updated: 2026-10-20
 > - **核心角色** 马扎诺是将[[Meta-analysis|元分析]]方法规模化引入基础教育与[[School Effectiveness|学校效能]]研究的开创性学者。他在2000年率先将数理元分析工具全面运用于学校改革实证文献的量化综合，提出了“学校效应”（school effects）的分析概念与五层级学校效能模型，直接奠定了后续[[John Hattie|John Hattie]]《[[Visible Learning|可见的学习]]》等[[Meta-meta-analysis|二阶元分析]]的学理基础。
 > - **代表贡献** 首创理论驱动的教学策略元综合框架；在《学校改革新纪元》（2000）中综合 4,057 项效应维度提出学校效能五层级；发展马扎诺教育目标新分类学（Marzano Taxonomy），替代并扩展传统[[Bloom's Taxonomy|布鲁姆分类学]]中的[[Metacognition|元认知]]与自我系统。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在2000年，罗伯特·马扎诺在《学校改革新纪元：走向研究指引的方向》一书中首次将元分析应用于教育领域。他总结了4057个维度的效应，并最终确定了学校绩效的五个层级。……哈蒂在本质上补充了研究教育系统的科学传统，但他所使用的“学校效应”这一术语正是从马扎诺那里借用的。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 >
 > *"In 2000 R. Marzano in the book 'A New Era of School Reform' for the first time applied meta-analysis to education. He summarized 4,057 dimensions of effects and ultimately identified five levels of school performance ... The goal of such a large-scale generalization is to assess the so-called 'school effects' (the term is borrowed from Marzano)."*
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育效能与教学改革研究绝不能沦为去理论化的统计数字堆砌或空洞的“品牌名”盲从，而必须建立在扎实的认知心理学理论与严密的学校层级组织保障之上；真正的教学有效性是通过对具体认知加工过程的理论指引以及学校安全、课程、教学和测评系统的协同达成的。
 
 > [!proc] [[School Effectiveness|学校效能]]的五个层级（Five Levels of School Performance, Marzano 2000）
@@ -124,7 +124,7 @@ updated: 2026-10-20
 > - **理论路径** 提出的理论驱动[[Meta-meta-analysis|元综合]]不仅深刻启发了后续学者（如 Higgins 等）反思元分析分类缺陷，其构建的马扎诺分类学也成为西方替代传统[[Bloom's Taxonomy|布鲁姆分类学]]的核心框架之一。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
 > - **承继与拓展** [[John Hattie|John Hattie]] 直接继承了马扎诺关于“学校效应”的提法和元分析综合传统，但 Hattie 将其进一步推向包含 800+ 元分析的“二阶元分析”（mega-analysis），在更宏观的全球政策层面掀起了可见学习浪潮。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 考证了马扎诺在2000年首次将元分析引入教育效能评估的历史地位，梳理其4,057项效应维度与五层级学校标准，并指出哈蒂的“学校效应”概念正源自马扎诺。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 高度评价马扎诺1998年元综合报告在解构“品牌名”聚合偏误与践行理论驱动分类上的开创性方法贡献。
 

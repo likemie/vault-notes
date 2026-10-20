@@ -57,7 +57,7 @@ updated: 2026-10-20
 > - **用途** 提醒质性研究者关注自身在研究中的角色效应；要求在研究设计中纳入管理反应性的策略；要求在研究报告中披露反应性的影响。
 > - **边界** 不等于[[Reflexivity\|反身性]]——反身性是研究者对自我影响的认知和批判性反思，反应性是这一影响力的实际表现。不等于故意的引导或访谈者偏见——反应性可能存在于参与者方面（无意识的或被动的行为改变）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 反应性——霍桑效应——研究者的在场改变了情境，因为参与者可能试图回避、取悦、引导、否认或影响研究者。通常反应性通过谨慎的现场协商、在情境中长期驻留以及尽可能谨慎地呈现研究者自我来应对。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 452)]]
 >
 > *Reactivity – the Hawthorne effect – the [[Presence]] of the researcher alters the situation as participants may wish to avoid, impress, direct, deny or influence the researcher. Typically the problem of reactivity is addressed by careful negotiation in the [[Champ\|field]], remaining in the field for a considerable time, ensuring as far as possible a careful presentation of the researcher's self.*

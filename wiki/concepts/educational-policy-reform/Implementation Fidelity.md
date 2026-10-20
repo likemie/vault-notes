@@ -107,7 +107,7 @@ updated: 2026-10-20
 >
 > *"Without clear information on implementation fidelity, training requirements, dosage, and real-world costs, school consumers cannot determine whether a statistically significant finding in an [[Efficacy Trial]] can be replicated under [[Normal School]] conditions."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于依从性（[[Strategic Compliance|compliance]]） 依从性通常仅测量参与者是否按规定出勤或使用软件；实施保真度是涵盖方案理解、互动质量、核心成分传递与环境支持的多维系统[[Construct\|构念]]。
 > - 不等于[[Internal Validity\|内部效度]]（Internal Validity） 内部效度关注组间因果推断在统计与设计上是否免于混淆偏倚；实施保真度关注[[Independent Variable\|自变量]]本身在现场是否被充分、真实地施加。
 > - 不等于[[External Validity\|外部效度]]（External Validity） 外部效度关注证据向不同人群和情境的外推潜力；实施保真度是决定效力研究能否成功外推至常态生态的底层机制支柱。

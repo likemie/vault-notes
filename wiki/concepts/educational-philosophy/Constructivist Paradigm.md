@@ -173,7 +173,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **学习环境具有心理安全感** 学生可以把注意力投入任务，而不必把主要精力用于防御失败或猜测考试技巧。
 > - **对话支持理解深化** 同伴与教师之间的协作、说明、质疑和反馈能够帮助学生修正并扩展概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–61)]]
 
-> [!example]- 图 2：[[Constructive Alignment\|建构性对齐]]中的目标、教学活动与评估任务
+> [!example] 图 2：[[Constructive Alignment\|建构性对齐]]中的目标、教学活动与评估任务
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig2_Constructive_Alignment.jpg)
 >
 > 图 2 把建构主义的学习判断转化为课程设计。课程目标用可观察的动词说明学生应达到的理解层次；[[Teaching and Learning Activities\|教学与学习活动]]为学生提供执行这些动词的机会；评估任务再要求学生展示同一类活动。三者采用同一套学习要求，学生较难依靠低阶记忆绕开课程目标。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–65, Figure 2)]]

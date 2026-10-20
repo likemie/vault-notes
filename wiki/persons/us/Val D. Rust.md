@@ -129,7 +129,7 @@ updated: 2026-10-20
 > - **[[Policy Borrowing|政策借用]]模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
 > - **全球化[[Critical Theory|批判理论]]路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构新自由主义跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特及其团队为《比较教育学国际手册》撰写的奠基性学科史反思专章，系统总结两百年学科发端、方法演进与全球化批判前沿。
 
 ---

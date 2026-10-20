@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **用途** 帮助看见文字与数字数据难以承载的层面，包括情境的即时性、情绪、氛围、物质环境与隐性信息。
 > - **边界** 视觉图像从来不是无辜的（never innocent）；它由图像制作者选择性建构，必须在社会与文化语境中被解读，不能当作单一客观现实。
 
-> [!citation-card]- Rose 论图像的非中立性
+> [!citation-card] Rose 论图像的非中立性
 > 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 >
 > *Visual images are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007, p. 26)*

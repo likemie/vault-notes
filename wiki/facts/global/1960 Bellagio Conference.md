@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 发展经过与演变阶段
 
-> [!dev-timeline]- 事件推进历程
+> [!dev-timeline] 事件推进历程
 > - **1959–1960 — 危机酝酿与跨学科筹备**
 >   - 洛克菲勒基金会联合[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage\|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的基础[[Memos|研究备忘录]]。
 > - **1960-06 — 贝拉吉奥峰会召开与[[Paradigm\|范式]]对决**

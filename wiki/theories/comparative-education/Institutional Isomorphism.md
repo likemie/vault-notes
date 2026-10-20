@@ -84,7 +84,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 处于同一组织场域中的组织，在生存竞争中不仅受制于技术效率与资源配置，更根本地依赖于制度环境赋予的合法性。组织通过**强制型（Coercive）**、**模仿型（Mimetic）** 与**规范型（Normative）** 三种制度同构机制，将环境中被广泛接受的[[Rationalized Myth\|合理化神话]]与文化脚本内化为自身结构，从而导致场域内部组织形态的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 183–184)]]；[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–92)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 组织之所以变得越来越相似，不是因为它们在技术上变得越来越高效，而是因为它们在追求制度合法性的过程中被迫或自愿地采纳了场域中主导的制度规范。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 183)]]
 >
 > *Organizations may become more homogeneous as a result of institutional isomorphism, which operates through coercive, mimetic, and normative processes to structure organizational fields.*
@@ -134,7 +134,7 @@ updated: 2026-10-20
 > - **前提二** 专业人员在跨组织流动中将相同的专业理念带入不同机构，形成对“何为适宜专业实践”的集体共识。
 > - **推导** 专业化教育与跨组织网络 $\rightarrow$ 确立排他性的行业正当性规范 $\rightarrow$ 组织自发吸纳行业准则以获得同行认可 $\rightarrow$ 实现场域内的规范同构。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（跨国权力不对称衍生）** 当模仿型与规范型同构在全球尺度上运作时，往往内嵌着深层的[[Geopolitics|地缘政治]]与[[Knowledge Production\|知识生产]]权力不对称（如美欧管理规范借由跨国企业教育向全球南方单向输出）。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 194–195)]]
 > - **推论二（[[Evidence Era\|证据时代]]治理同构）** 随着全球进入证据时代，诉诸科学引文、[[Randomised Controlled Trials\|随机对照试验]]（RCT）与循证规程已演进为全场域通行的规范型与模仿型同构脚本。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–93)]]
 
@@ -217,7 +217,7 @@ updated: 2026-10-20
 > >
 > > - **批判全球政治经济学立场** 强调模仿与规范同构往往内嵌了西方中心主义知识霸权与跨国资本控制。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 194–195)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 揭示了传统同构理论忽略全球跨国教育扩散中知识与权力不对称的地缘政治维度。
 
 ---

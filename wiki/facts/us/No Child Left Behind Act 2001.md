@@ -124,7 +124,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“[[Scientifically Based Research\|科学本位研究]]”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Quasi-Experimental Designs\|准实验设计]]（QED）的实证[[Evidence Standards\|证据标准]]嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement\|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
 > - **适用对象** 全美各州教育厅、学区公立中小学校、K–12 教师及在读学生。
 > - **政策工具** 借助联邦 [[Elementary and Secondary Education Act of 1965\|ESEA]] 专项拨款（整体拨款因法案增长 18%，创当时历史新高），重点嵌入以下核心项目：
@@ -136,7 +136,7 @@ updated: 2026-10-20
 > - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research\|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 > - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research\|科学本位研究]]”标准。
 
-> [!figure]- 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
+> [!figure] 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig3_NCLB_Definition_SBR.jpg)
 
 > [!citation-card] 科学本位研究法定定义
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!dev-timeline]- 政策时间线
+> [!dev-timeline] 政策时间线
 > - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965\|ESEA]] 的重新授权法案。
 > - **2002** — 布什总统于 1 月正式签署生效。Robert E. Slavin 发表专题分析，指出 NCLB 法定“[[Scientifically Based Research\|科学本位研究]]”概念界定缺乏[[Operationalization\|操作化]]标准化，任何教学项目都能寻得支持性文献，尚未产生实质性实践约束。([[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 16, 18–19]])
 > - **2003** — 美国教育研究协会（[[American Educational Research Association\|AERA]]）前主席罗伯特·林恩（Robert Linn）发表著名会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想，除非出现具有“原子弹级规模”的颠覆性技术创新。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]; Linn (2003)
@@ -165,7 +165,7 @@ updated: 2026-10-20
 > - **适用对象** K–12 公立学校管理团队、学科任课教师及全体在读学生。
 > - **政策工具** 联邦财政专项资助杠杆、[[Adequate Yearly Progress|AYP]] 阶梯式问责制裁、全州统考量化排名与“[[Scientifically Based Research\|科学本位研究]]”合规性审核。
 
-> [!pathways]- 实施路径与评估机制转向
+> [!pathways] 实施路径与评估机制转向
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
 > - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE\|Downey and Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭[[Socioeconomic Status|社会经济地位]]差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上毫无道理。
 > - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者被迫承认了学校外部社会环境的基础性作用。([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p. 11]])

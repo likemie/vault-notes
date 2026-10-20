@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合[[Geisteswissenschaften|人文科学]]与社会科学工具的[[Comparative Education as a Cross-Sectional Area|交叉学科]]。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
 
 > [!proc] 乔治·贝雷迪比较研究四步归纳程序
@@ -161,7 +161,7 @@ updated: 2026-10-20
 > - **跨洲学术网络** 与英国的 Lauwerys 跨大西洋联合主持《世界教育年鉴》，联动拉美、东亚与欧洲学者，开创战后多元思想对话机制。
 > - **史学反思与肖像学解构** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）指出，贝雷迪的学术叙事赋予了学科早期合法的历史感，但他本人的复杂学术生命长期被学科圣徒式的肖像叙事所遮蔽，亟待严肃的历史学家撰写批判性学术评传。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析贝雷迪著作对战后青年学者专业合法性认同的建构功能，以及学界缺乏严肃史学评传的反思。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 马修系统定位贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间关键桥梁的方法论贡献，提炼其四步法对内在普遍力量与跨国法则的探寻。
 

@@ -111,7 +111,7 @@ updated: 2026-10-17
 >   S2 --> S3
 > ```
 
-> [!example]- 图2-1：英国科学与探索中心及科学旅游景点地理分布网络（基于[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员网络绘制，pp. 44–45）
+> [!example] 图2-1：英国科学与探索中心及科学旅游景点地理分布网络（基于[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员网络绘制，pp. 44–45）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig2-1_UK_Science_Centres_Distribution.jpg)
 > *(图示展示了苏格兰、北爱尔兰、威尔士以及英格兰 9 大区域内 60 多所主要科学中心、天文馆与国家博物馆的地理集群，直观揭示出资源过度集中于伦敦首都圈与主要大学城的空间极化格局)*
 
@@ -121,7 +121,7 @@ updated: 2026-10-17
 
 [[Informal Science Learning|非正式科学学习]]已经发生根本性[[Paradigm|范式]]转变，成为支撑现代社会文明与公共福祉的基础支柱。（pp. 42–46）
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来，英国非正式科学参与已从以公共讲座和传统博物馆为主的单向知识普及，发展为由 60 多所科学探索中心、科学节、在地化社区活动、数字化网络及[[Citizen Science\|公民科学]]共同构成的繁荣生态；其本质已超越正规教育的辅助延伸，跃升为支撑社区繁荣、公众健康与民主生活的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, pp. 42]], 48)
 
 > [!dev-timeline] 40 年间非正式科学参与的三次范式跃迁
@@ -160,14 +160,14 @@ updated: 2026-10-17
 
 全英代表性长期追踪民意调查揭示出公众对科学知识的高度渴望、对科学家的压倒性信任，与公众在重大国家科技决策中被系统性边缘化之间的深层结构性断层。（pp. 47–48）
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 2025 年全英公众对[[Scientific Attitude\|科学态度]]调查（Public Attitudes to Science, PAS 2025）系统证实：英国公众对科学信息的渴求出现历史性激增（62%），对科研共同体保持极高信任（87%），各类非正式场馆实地访问率全面回暖；然而，公众在科技重大决策中的实际参与感却遭遇断崖式滑坡（仅 12%），且普遍担忧科学参与机会的不平等；这种渴望深度对话与遭遇决策排斥的制度性落差，已成为制约科学与社会良性协同的核心瓶颈。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 47]]); [[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 9, 12)]]
 
-> [!example]- 图2-2：英国公众在各类科学文化场馆的年实地访问率对比图（PAS 2025 与 ASDC 汇总，p. 47）
+> [!example] 图2-2：英国公众在各类科学文化场馆的年实地访问率对比图（PAS 2025 与 ASDC 汇总，p. 47）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig2-2_PAS_Survey_Engagement_Venues.jpg)
 > *(数据来源于英国研究与创新署（UK Research and Innovation, UKRI）委托益普索（Ipsos）与英国科学协会联合执行的 2025 年全国代表性调查，由英国科学与探索中心协会（Association for Science and Discovery Centres, ASDC）系统汇总，直观呈现全英公众在不同科普与文化场景中的实地参与偏好)*
 
-> [!stat-cards] [[Public Attitudes to Science\|PAS 2025]] 核心民意诊断指标（Ipsos 与 UKRI, 2025）
+> [!stat-cards]- [[Public Attitudes to Science\|PAS 2025]] 核心民意诊断指标（Ipsos 与 UKRI, 2025）
 > - **87% / 83%** 坚实信任底座，87% 的受访公众高度信任高校科学家能够诚信开展科研，83% 深刻认同科学对日常生活与国家经济繁荣作出了不可替代的巨大贡献。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 12)]]
 > - **62%** 信息渴求（较 2019 年 47% 激增 15%），接近三分之二（五分之三）的公众明确表示日常生活中看到或听到的科学信息太少，展现出数字时代面对 AI 与气候危机时全社会对权威、优质科学对话的强烈渴求。
 > - **12%** 决策参与感冰点（自 2008 年 21% 持续滑落），仅 12% 的公众认为普通民众在涉及科学与技术的国家重大决策中得到了充分参与，八成以上公众感到科技政策是由精英闭门制定，参与感滑落至近二十年历史最低点。（p. 47）
@@ -205,7 +205,7 @@ updated: 2026-10-17
 
 非正式科学资源的地理过度集聚与阶层壁垒导致大量边远区域与低科学资本群体被边缘化。（pp. 43, 48）
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 英国非正式科学参与资源在空间分布上高度集中于伦敦及拥有顶尖大学的大都市圈，加之阶层与文化资本门槛，导致欠发达地区和低[[Science Capital\|科学资本]]群体面临系统性参与排斥；必须依托区域中心枢纽（Regional Hubs）、在地化社区协作与前沿公民科学打破受众自选壁垒。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, pp. 43]], 48)
 
 > [!factors] 非正式科学参与的三重排斥机制
@@ -253,7 +253,7 @@ updated: 2026-10-17
 
 在运营成本飙升与资助结构调整的夹击下，非正式科学部门正面临生存威胁。（pp. 48–50）
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social VALUE Procurement）与现代慈善激励机制。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, pp. 42]], 48–50)
 
 > [!factors] 威胁非正式科学部门可持续性的四大财务结构瓶颈
@@ -278,7 +278,7 @@ updated: 2026-10-17
 
 非正式科学学习的评估必须突破短期孤立局限，构建跨界通用标准并开展国家级长期队列追踪。（pp. 50–53）
 
-> [!claim] 步骤五核心主张
+> [!claim|lead] 步骤五核心主张
 > 非正式科学参与的育人效能具有终身性与累积性，单一场馆或短期项目的孤立评估无法捕捉其对个体科学素养与人生抱负的深远影响；必须在全行业推广通用学习成果框架（Generic Learning Outcomes, GLOs），并由皇家学会牵头联合资助方发起针对非正式科学参与的**国家长期队列[[Cohort Study\|追踪研究]]（Long-term Cohort Study）**。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, pp. 50–53]])
 
 > [!dimension] 英国非正式科学参与的四级评估体系架构

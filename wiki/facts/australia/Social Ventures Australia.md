@@ -117,7 +117,7 @@ updated: 2026-10-20
 > - **子公司网络与四层控股架构** 经由澳大利亚证券与投资委员会（ASIC）监管档案确认，SVA 建立了涵盖 SVA Nominees、SVA Nominees No. 2、Mastery Learning、Newpin 等 4 家全资子公司，并在历史上创立分拆了[[Australian Philanthropic Services|澳大利亚慈善服务社]]（APS），构建了分层规避风险与承接资金的组织装配（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
 > - **跨国资助与资本盟友** 深度整合跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]、英国[[Sutton Trust\|萨顿信托]]、[[Impetus\|动力基金会]]以及美洲银行、麦格理银行、高盛集团、普华永道等全球金融与咨询资本，并联合澳大利亚联邦银行与三星集团开展学校项目（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 
-> [!pathways]- 运行机制与[[Epistemology\|认识论]]粘合剂
+> [!pathways] 运行机制与[[Epistemology\|认识论]]粘合剂
 > - **金融化认识论统摄** SVA 在[[Policy Network\|政策网络]]中普及买入、[[Educational Brokerage Agency\|证据经纪人]]与社会[[Return on Investment\|投资回报]]率（SROI）等金融从业术语；正如其[[Venture Philanthropy\|风险慈善]]领袖在主旨演讲中所言，“金钱是我们对话的通用货币”（Money is the currency of our conversation），以商业投行语系统摄公共教育治理逻辑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **原型试验与政策外溢** 先以民间资金在子公司 [[Evidence for Learning\|E4L]] 试行英国 [[Education Endowment Foundation\|EEF]] 工具包模型，待积累地方案例后再通过政府审查报告推动国家财政全额接盘，实现由私到公的制度化跨越（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **避税通道装配与政商闭门磋商** 通过游说专门修改税法为关联实体争取 [[Deductible Gift Recipient\|DGR1]] 特许资质，直接与总理幕僚长闭门协商政策，并接受高达 1500 万澳元的保密竞标资助，锁定国家政策导向（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 526–527, 530]]）。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资本动员与资金杠杆** 管理资产规模逾 1.5 亿澳元，年均咨询创收近 1000 万澳元，成功撬动联邦与各州财政 5000 万澳元联合设立 [[Australian Education Research Organisation\|AERO]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5–6]]）。
 > - **体制重塑与立法突破** 推动联邦政府修改《公共治理、绩效与问责规则》并修订税法法案，合法确立国家教育科研机构与私营慈善资本合作的法定通道及企业全额免税捐赠通道，深层重构了国家教育科研生产关系与财政再分配方式（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
 > - **跨界精英网络统摄** 构筑了涵盖麦肯锡前高管、跨国投行理事、力拓前高管及最高教育行政长官的人事[[Co-affiliation\|共同从属]]闭环（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。

@@ -60,7 +60,7 @@ updated: 2026-10-16
 > - **核心角色** 国际技术增强科学探究（Technology-Enhanced Inquiry Learning）与[[Computer Simulation\|虚拟仿真]]实验领域的领军学者。他长期专注于计算机微世界中学生科学发现推理规律、多媒体认知负荷调控与自适应支架体系研发；主持发起了欧洲规模最大的虚拟实验室生态圈 Go-Lab（及其后续项目 Next-Lab 与 Go-Ga）；在[[Direct Instruction\|直接教学]]与探究教学长达数十年的国际论争中，他是科学[[Inquiry-Based Learning\|指导式探究]]的领衔辩护人与协同教学[[Paradigm\|范式]]的构建者。
 > - **代表贡献** 开创“多媒体环境中的[[Discovery Learning\|引导式发现]]学习原则”（Guided Discovery Principle）；主持构建欧洲 Go-Lab 在线探究学习生态平台；领衔发表 2023 年里程碑综述《Let’s talk evidence》，系统反驳直接教学绝对优越论。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 唐·德容等学者的系列实证工作确立了技术增强科学探究的循证地位。其研究证明，探究式学习并非无约束的盲目探索，通过与结构化支架以及适时直接教学的有机协同，能够达成任何单一教学法无法企及的深层概念理解与长效知识内化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–10)]]
 >
 > *De Jong has pioneered research on simulation-based inquiry learning, demonstrating how structured [[Scaffolding]] and digital learning environments resolve the false dichotomy between inquiry and direct instruction.*
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Inquiry-Based Learning\|探究式教学]]与[[Direct Instruction\|直接教学]]绝非水火不容的二元对立。无指导的[[Discovery Learning\|纯发现学习]]固然违背认知负荷规律，但剥夺了学生试错与[[Epistemic Agency\|认识能动性]]的纯直接灌输同样无法达成抗遗忘的深层理解。教学设计的最优路径是将精心设计的[[Scaffolding\|认知支架]]与虚拟微世界深度整合，让学生在有结构约束的环境中体验探索与挫折，并在最适宜的时机精准嵌入直接讲授，实现两种取向的功能互补与时序协同。
 
 > [!citation-card] 论探究教学与直接教学的功能互补性

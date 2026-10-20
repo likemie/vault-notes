@@ -221,7 +221,7 @@ updated: 2026-10-20
 > | **借贷谈判行为取向** | 谈判姿态往往偏向指令性（Prescriptive），倾向于将华盛顿总部的统一处方强加于借贷国。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 465)]] | 谈判姿态更具协商性，官员[[Refined Mastery\|精通]]在地语言并与借款国教育部保持非正式紧密互动。 |
 > | **改革附加条件力度** | 激进捆绑宏观体制重构条件（人事编制冻结、民营化），易在借款国引发政治僵局与“赶猫”困境。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 465–466)]] | 长期坚守物理基建与技术培训项目，虽较少触碰深层体制病灶，但履约顺利度与拨付率显著更高。 |
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
 > - **[[Policy Brokerage|政策中介]]与跨国政策转移（Policy Brokerage and Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 [[Systems Approach for Better Education Results|SABER]] 诊断基准引导借款国协商采纳外部经验；另一方面在结构调整与紧急援助时将制度改革捆绑为放贷附加条件，促成受迫性政策转移。
@@ -263,7 +263,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年均教育信贷承诺额超 30–50 亿美元，是全球发展中国家最大的外部教育公共资助方；在华盛顿及全球驻外使团拥有数千名经济与技术专家。
 > - **学术与[[Knowledge Production|知识生产]]** 发展经济学工作报告年产出数百篇，其[[Return on Investment|教育投资回报率]]研究、教师缺勤率调查与 [[Randomised Controlled Trials|RCT]] 实验成果在发展经济学界具有极高的引文声誉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]

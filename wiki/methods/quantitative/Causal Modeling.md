@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体或组织层面的观察数据。
 > - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA\|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed. [[Argument_Berk_2011_EvalRev\|(Berk, 2011, p.196)]]
 
 ---
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 历史沿革
 
-> [!dev-timeline]+ 发展脉络
+> [!dev-timeline] 发展脉络
 > 1. **奠基与推广（1969–1975）**
 >    - 1969, 1985, 1991 — [[Herbert Blalock]] 倡导因果建模，将口头理论重构为因果模型以可视化[[Variable\|变量]]之间的相互联系。他提出了构建视觉因果图的基本符号规则：[[Dependent Variable\|因变量]]置于右侧、[[Independent Variable\|自变量]]置于左侧；单向箭头表示因果方向；正负价符号表示关系方向；双向箭头连接未分析关系（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.58]]）
 >    - 1970s — 因果建模在计量经济学推动下进入社会科学，承诺将理论整合与统计建模正式结合

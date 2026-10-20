@@ -76,7 +76,7 @@ updated: 2026-10-15
 
 ## 时间线
 
-> [!note]- 时间线
+> [!note] 时间线
 > - 2006 — [[OECD]] 启动 ISL 项目，18+4 国参与
 > - 2008 — 发布 Vol. 1 (Policy and Practice) 和 Vol. 2 (Case Studies)
 > - 后续 — ISL 项目与 [[PISA]] 和 [[Education at a Glance]] 形成互补，共同构成 OECD 的教育治理工具体系

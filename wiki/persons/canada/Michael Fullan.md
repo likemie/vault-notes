@@ -62,7 +62,7 @@ updated: 2026-10-20
 > - **核心角色** 全球公立教育变革咨询与思想领袖（Thought Leader）核心枢纽；主导设计加拿大安大略省全系统教育改革，创办[[New Pedagogies for Deep Learning|深度学习全球伙伴关系]]（NPDL Global），与[[John Hattie|约翰·哈蒂]]（John Hattie）、[[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]）并列为重塑当代基础教育政策的三大跨国[[Policy Entrepreneur|政策创业者]]。
 > - **代表贡献** 开创全系统变革理论框架、动能领导力（Motion Leadership）方法论与[[New Pedagogies for Deep Learning|深度学习新教学法]]（NPDL）6C 素养体系。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 深度学习新教学法全球倡议于 2012 年由迈克尔·富兰、格雷格·巴特勒、乔安妮·奎因以及来自英特尔、微软、[[OECD|经合组织]]与普罗米休斯的代表在加拿大多伦多创立。富兰是多伦多大学安大略教育研究院荣休教授与前院长。NPDL 通过其商标将自身界定为一个‘全球伙伴关系’，并宣称致力于通过识别促进深度学习能力的教学法来改变学习。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25)]]
 >
 > *NPDL Global was created in Toronto Canada in 2012 by Michael Fullan, Greg Butler, Joanne Quinn and representatives from Intel, Microsoft, OECD and Promethean. Michael Fullan is Emeritus Professor and former Dean of Education at OISE, University of Toronto, Canada.*
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育改革不是孤立的政策指令事件，而是一场由底层专业能力建设驱动的复杂系统演进；成功的全系统变革必须摒弃惩罚性问责、个体竞争与技术崇拜等“错误驱动力”，转向以教师协作专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
 
 > [!citation-card] 全系统变革的正确驱动力与动能推进
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > - **政策路径** 作为安大略省首席顾问主导全省教育改革，其政策理念被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。
 > - **跨国商业传播** 授权新西兰 [[CORE Education]] 等商业[[Educational Management Organisation|教育管理组织]]（EMO）推行 [[New Pedagogies for Deep Learning|NPDL]] 排他性特许加盟，通过百校集群协议收取经常性会费。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
 
 ---

@@ -72,7 +72,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 卡特审查旨在系统评估英格兰[[Initial Teacher Training\|初始教师培训]]的质量与有效性，主张在培训中确立以严谨学术研究和实证证据为支撑的核心课程框架，重点强化循证教学法、学科教学知识、行为管理、特殊教育需要（Special Educational Needs and Disabilities，SEND）技能以及以研究为导向的临床实践（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90, 95]]）。
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 确立国家层面统一的 ITT 核心课程框架，提高证据与实证研究在教师职前培训中的使用水平。
 > - **适用对象** 英格兰全体教师培训机构、指导教师（Mentors）与职前实习生。
 > - **政策工具** 定向专家审查、发布国家级培训建议清单、研制全国统一核心内容标准。
@@ -103,7 +103,7 @@ updated: 2026-10-16
 > - **执行与培训主体** 大学教育学院（HEIs）与校本培训联盟（SCITT/School Direct），负责调整课程以契合核心框架。
 > - **监督评估机构** 英国教育标准局（[[Ofsted]]），负责依据审查后制定的新标准开展专项核查。
 
-> [!pathways]- 政策落地与制度化路径
+> [!pathways] 政策落地与制度化路径
 > - **建议向白皮书转化** 卡特审查的建议被直接吸纳进 2016 年白皮书《处处卓越的教育》（*Educational Excellence Everywhere*）。
 > - **法定标准制度化** 2019 年教育部分别出台 [[Initial Teacher Training Core Content Framework\|CCF]] 与 ECF，将卡特审查提倡的循证教学模块（[[Cognitive Load Theory\|认知负荷理论]]、[[Formative Assessment\|形成性评价]]、行为管理）固化为全国法定培训大纲。
 

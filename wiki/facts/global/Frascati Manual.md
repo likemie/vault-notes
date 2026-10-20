@@ -62,7 +62,7 @@ updated: 2026-10-19
 > [!claim] 政策核心
 > 《弗拉斯卡蒂手册》为研究与试验发展（R&D）活动建立了国际统一的[[Operationalization|操作化]]定义和统计调查规则，将全社会研发投入从宽泛的科技与教育支出中精准剥离，确立了 GERD/GNP（研发支出占国民生产总值比率）作为衡量国家科技强度的通用国际基准。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 消除各国在科技投入核算上的歧义，为跨国科学政策审议（Science Policy Reviews）提供统一客观的量化标尺。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **适用对象** 国家统计机构、大学实验室、政府科研院所及工业企业的专业研发部门。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **统计工具** 明确划分基础研究（Basic Research）、应用研究（Applied Research）与试验发展（Experimental Development）三大活动范畴，设计专职研发人员（FTE）与全口径研发支出核算表。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]

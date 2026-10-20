@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2012 发布白皮书（Henry, 2012）
 > - 后续推动 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF) 等与研究合作相关的项目
 
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Geopolitics of Knowledge]] — 白皮书体现了知识[[Geopolitics|地缘政治]]在国家政策层面的运作：国家通过战略投资将自身定位为知识流动网络中的核心节点
 > - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从[[Developmentalism|发展主义]]理性转向市场理性的政策标志
 

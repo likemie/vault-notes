@@ -179,7 +179,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何批评、修正或限制该理论。
 
 ---

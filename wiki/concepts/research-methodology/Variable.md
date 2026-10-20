@@ -90,7 +90,7 @@ updated: 2026-10-20
 >
 > *Noah formulated the task of scientific comparative education: 'to move from the particular to the general, from identification-description-classification to hypothesis-testing, theory building and prediction' by 'replacing names of systems or observable facts by names of concepts (variables)'.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 **常量（Constant）** — 在一个特定研究情境中所有观测对象均保持不变的特征或条件（例如在单一国家或同一年龄层样本中的国别或年龄）（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch. 2）。
 > - 不等于 **[[Construct|构念]]（Construct）** — 构念属于理论层面的抽象概念（如“动机”、“社会阶层”、“民主化”），变量是构念在实证层面的可[[Operationalization|操作化]]、可测量形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 54]]）。
 > - 不等于 **体系名称（Names of Systems）** — 在历史哲学比较传统中，“国家体系”代表嵌入在深厚文化与[[National Character|民族性格]]中的不可分割整体；而在实证科学范式中，体系名称被还原为一系列具有数值变异的概念变量集合。

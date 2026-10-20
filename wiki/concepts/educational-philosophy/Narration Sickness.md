@@ -52,7 +52,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者诊断和解构自上而下脱离学生切身生活现实的[[Rote Learning\|死记硬背]]与灌输教学。
 > - **边界** 不等于一切口头讲授；若讲授能激发探究并根植于学生切身现实，则不属于叙事病。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一类型的教育，正在遭受叙事病的折磨。在这种学校中，学生的任务仅仅是接收、记忆与重复。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 >
 > *Education thus becomes an act of depositing... This type of education is suffering from narration sickness. (Freire, 2000, p. 71)*

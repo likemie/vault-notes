@@ -88,7 +88,7 @@ updated: 2026-10-20
 > - **核心角色** 在当代科技政策、国家安全与企业[[Organizational Culture|组织文化]]交汇处担任旗帜性批判者与制度重构者；倡导打破硅谷虚浮商业主义，重构科技产业与国家防务的战略结盟。
 > - **代表贡献** 联合创立帕兰提尔科技并推动大数据与人工智能实战系统在西方防务与情报领域的深度应用；提出[[Technological Republic|技术共和国]]理论框架，系统阐发融合[[Swarm Intelligence|群智能]]、[[Constructive Disobedience|建设性不服从]]、[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法定优先与“极致狐狸”经验探索的[[Engineering Mindset|工程思维]]。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 科技行业必须对使自身的崛起成为可能的国家承担积极的责任；政府要维持保障公众福祉与安全的能力，同样要求国家愿意借鉴使硅谷得以重塑整个经济领域的独特工程文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 10–11)]]
 >
 > *The technology sector has an affirmative obligation to support the state that made its [[Research in Schools Evaluation|RISE]] possible... The ability of government to continue to provide for the welfare and security of the public will also require a willingness on the part of the state to borrow from the idiosyncratic organizational culture.*
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 现代西方民主政体的存续与地缘战略优势根本上依赖于前沿科技与国家防务的深度融合。科技企业必须走出狭隘的纯商业中立幻象与衍生性模仿，主动承担捍卫母国与民主制度的公共使命；同时，公共治理体系必须全面吸纳硅谷在软件实践中沉淀的[[Engineering Mindset|工程思维]]——以物理运行结果为唯一裁判、视现实为流动云团的“极致狐狸”概率认知、自底向上的边缘赋权与免责式多层根因复盘，彻底破除各领域的[[Innovation Desert|创新荒漠]]，以切实的技术供给效能重塑政权合法性（pp. 3–15, 109–167）。
 
 > [!feature] 工程组织与治理机制四大支柱
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > - **政策路径** 推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》在司法裁判中实质落地，倒逼美国国防部改革防务采购规程，向商业科技开放准入。
 > - **跨国／跨领域传播** 深度介入俄乌冲突、地缘情报分析与北约联合防务数据体系重构，引领西方科技界重拾国家防务使命。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 系统论证技术共和国、[[Engineering Mindset|工程思维]]、[[Swarm Intelligence|群智能]]与认识论治理框架（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---

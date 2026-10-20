@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **分析单位** 子句（clause）作为编码的基本统计单元，或特定章节的主题段落、图文组合。
 > - **输出形式** 归纳性的比较维度框架、分析单位在各维度的频率百分比分布、定性的核心叙事和机制解释。
 
-> [!citation-card]- 关键学术定义
+> [!citation-card] 关键学术定义
 > 教科书不仅仅是传递中立知识的物理载体，更是社会主导群体将自身利益和世界观合法化为[[Official Knowledge\|官方知识]]的核心阵地。通过比较分析，我们可以透视不同意识形态力量对教育内容的接管与改造。
 >
 > *“Textbooks are not simply delivery systems of facts. They are the result of political, economic, and cultural activities, battles, and compromises.”* (Apple & Christian-Smith, 1991, p. 4)
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ### 质性案例与进入现场
 
-> [!sample-panel] 比较案例与资料范围
+> [!sample-panel]- 比较案例与资料范围
 > | 维度 | 信息 |
 > |---|---|
 > | 资料来源 | 香港与大陆初中中国历史教科书正文与补充材料（[[Argument_Xu_2024_CE\|Xu, 2024, p.579]]）；香港高中通识科与公社科教科书文本（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.148–149]]）。 |

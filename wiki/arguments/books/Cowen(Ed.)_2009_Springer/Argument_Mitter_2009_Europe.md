@@ -279,14 +279,14 @@ publisher: "Springer"
 
 考察欧洲比较教育百年的理论演进，可以清晰辨识出三大发展时期的理论范式更迭，折射出社会政治思潮与邻近人文社会科学的深刻影响：（pp.92–94）
 
-> [!dev-timeline]- 欧洲比较教育百年理论范式更迭阶段
+> [!dev-timeline] 欧洲比较教育百年理论范式更迭阶段
 > - **1920s–1950s — 宏大历史文化全景与[[Geisteswissenschaften|精神科学]]传统** 这一时期由英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]与德国的[[Friedrich Schneider|弗里德里希·施奈德]]（深受天主教思想影响）所构建的宏大历史文化全景所主导，意大利的达尔卡伊斯与西班牙的图斯克茨亦在战后推进类似探索。学者深入考察塑造民族教育体系的历史背景与精神驱动力（driving forces），汉斯所主张的“将每个国家体系置于其历史背景中、研究其与[[National Character|国民性格]]和文化发展的紧密联系”成为这一时期的灵魂注脚。（pp.93–94）
 > - **1960s–1980s — [[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与跨国范式分化** 德国社会学界在[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的法兰克福学派[[Critical Theory|批判理论]]之间爆发了著名的[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]（德文：Positivismusstreit）。这场论战迅速席卷欧洲，重塑了比较教育的[[Research Problem|研究议题]]与方法论基础，新马克思主义观点亦进一步拓展了理论视野。在此背景下，伦敦大学教育研究院（IOE）经历了从汉斯、劳威斯的文化主义向布莱恩·霍姆斯（Brian Holmes）实证主义[[Critical Dualism|批判二元论]]的转向；波鸿鲁尔大学则经历了从安维勒的苏联东欧研究向阿迪克的全球化与[[World-Systems Theory|世界体系理论]]转向。（pp.92–93）
 > - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以[[Stanford School|斯坦福学派]]为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及[[Intercultural Education|跨文化教育]]等新兴领域蓬勃兴起。（p.94）
 
 理论范式的演进并非均质铺展，而是在各大学学派的微观探索中呈现出断裂与重构：（pp.92–93）
 
-> [!case]- 典型大学学派的范式转向
+> [!case] 典型大学学派的范式转向
 > - **伦敦大学 IOE 的文化主义与实证主义博弈** 长期秉持以汉斯、劳威斯、托米亚克以及国王学院埃德蒙·金为代表的文化主义传统；但在 1960 至 1980 年代，布莱恩·霍姆斯（Brian Holmes, 1965, 1981）力推以波普尔批判二元论为基础的实证主义[[Problem Approach|问题法]]（Problem Approach），在学院内部引发了持续的[[Epistemology|认识论]]论辩。（pp.92–93）
 > - **波鸿鲁尔大学从极权体制剖析向全球化世界体系转向** 1960 至 1980 年代在安维勒带领下成为全欧苏联与东欧社会主义教育研究的重镇；其继任者克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick）则转向研究全球化与斯坦福学派世界体系理论对比较教育的冲击。
 > - **柏林洪堡大学的系统论与跨国[[Discourse|话语]]重构** 两德统一后，[[Jurgen Schriewer|于尔根·施里韦尔]]（Jürgen Schriewer, 1987, 1999）将德国社会学家[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的[[Autopoiesis|自创生]]系统论（Autopoietic System Theory）与世界体系理论相结合，创立了以世界层面的意义[[Externalization|外化]]（Externalisation）为核心的比较教育新范式。（p.93）
@@ -296,7 +296,7 @@ publisher: "Springer"
 
 [[Geopolitics|地缘政治]]动荡亦催生了欧洲与北美之间的大规模智力流动，深刻重塑了跨大西洋的学术合作格局。（p.93）
 
-> [!case]- 跨大西洋智力流动与比较教育学派互动
+> [!case] 跨大西洋智力流动与比较教育学派互动
 > 自 1930 年代欧洲知识分子流亡北美避难开始，以[[Isaac Kandel|艾萨克·坎德尔]]、[[Robert Ulich|罗伯特·乌利希]]、[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与汉斯·魏勒为代表的流亡学者，将欧洲深厚的文化历史底蕴带入北美，并反向推动了跨大西洋的深度合作，例如布莱恩·霍姆斯倡议设立的[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）理论转型委员会。（p.93）
 
 ---

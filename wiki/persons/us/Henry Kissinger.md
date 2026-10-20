@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** 在[[Wight's Three Traditions of International Theory|国际关系理论]]与战略决策网络中构成了政治现实主义与均势外交的核心节点；在历史动力与领导力研究中，坚定捍卫领袖性格与国家意志的塑造作用，为打破唯物结构宿命论提供了权威实证与哲学辩护。
 > - **代表贡献** 推动冷战时期中美建交与美苏缓和（Détente）；系统建构基于均势与国家利益的现实政治（Realpolitik）[[Analytic Framework|分析框架]]；在政治领导力理论中确立领袖能动性对历史进程的决定性影响。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在[[Lee Kuan Yew|李光耀]]的领导成就面前，究竟是外部环境还是个人性格塑造历史进程的古老争论，最终以后者胜出而告终。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; quoted in Karp & Zamiska, 2025, p. 197)]]
 >
 > *In the case of Lee’s leadership, the ancient argument whether circumstance or personality shapes events was settled in favour of the latter.*
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 基辛格主张国际和平绝非源于抽象道德说教或单方面善意，而是建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上；在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与坚毅决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
 > [!citation-card] 基辛格论领袖性格对历史环境的决定性突破

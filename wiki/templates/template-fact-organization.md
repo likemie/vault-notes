@@ -71,7 +71,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **专家与审议委员会** 独立的学术委员会、方法论顾问组、同行评审网络或伦理审查委员会。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **会员与外部利益相关者** 成员国/机构代表大会、专业委员会或公众参与渠道。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **议程设置** 组织如何识别优先问题、确定标准研制或调查选题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **研究与开发** 内部研究团队与外部学术网络的协同研发与同行评议流程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **质量控制与透明度** 数据审计规程、利益冲突申报、审查标准公开与版本迭代机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -95,7 +95,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年预算总额、专业雇员数、会员覆盖国别数/机构数、合作网络规模。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **学术与知识生产** 报告下载量、研究成果引用率、同行评审学者网络规模。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **政策与制度渗透** 被国家法律法规引用的频次、主导制定的行业标准采纳度、对教育治理问责的塑造程度。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

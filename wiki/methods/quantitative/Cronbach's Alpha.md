@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 测验题项（Items）与被试作答反应向量。
 > - **输出形式** $\alpha$ 信度系数值（介于 0 到 1 之间）、标准化 $\alpha$ 值、删除某题项后的 $\alpha$ 变化值（$\alpha$ if item deleted）及矫正题总相关（Corrected Item-Total Correlation, CITC）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 内部一致性检验反映了量表内部题项反应的一致程度。如果量表中的所有题项都在测量相同的构念，被试对这些题项的反应应当高度关联。克隆巴赫 $\alpha$ 系数是这一内部一致性检验的行业标准统计量。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 311)]]
 >
 > *Internal consistency relates to the degree of consistency between item responses within a single instrument. If the items all measure the same underlying construct, responses across items should be correlated. Cronbach's alpha is the industry-standard statistic for reporting internal consistency.*

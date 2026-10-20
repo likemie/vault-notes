@@ -61,7 +61,7 @@ updated: 2026-10-15
 > - **认知功能** 瓦解政客以“纯粹遵循科学”（Follow the science）为挡箭牌推卸政治责任的借口，迫使决策者公开承认证据背后的认识论局限与不确定性。
 > - **概念边界** 并不否定传统基础科学研究的严谨性与有效性；当系统不确定性与决策赌注均处于低水平时，常规科学与标准专家咨询依然是最高效的研究与决策工具。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 在许多当代最重大的社会挑战中，我们面对的是典型的“后常规问题”：赌注极其高昂，[[Scientific Uncertainty\|科学不确定性]]极高，而社会对确凿科学信息的需求又极度迫切。要防止这类问题陷入难以化解的治理死结，决策者必须坦诚披露科学不确定性，并明确解释为何特定科学信息未被采纳，绝不能为了迎合既定政策而挑选证据。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 >
 > *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘post-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*

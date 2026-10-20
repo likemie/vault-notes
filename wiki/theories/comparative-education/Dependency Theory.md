@@ -236,7 +236,7 @@ updated: 2026-10-20
 > > - **传统结构主义依附论** 强调资本主义世界体系对教育系统的单向塑造与剥削。
 > > - **全球与本土辩证法学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深刻指出第四代际批判学者虽揭露了教育维系不平等的阶级本质与依附结构，但在方法论上由于过度执迷于宏观当代社会学与政治经济学抽象模型，严重放逐了历史维度，促成了学科的[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 批评依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘能动主体的杂糅与抵抗实践在理论上被过度消解。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 指出在新自由主义全球化分散权威与多中心[[Network Governance|网络化治理]]现实下，单纯二元单向的“中心-边缘”模型难以全面涵盖跨国非政府组织与数字平台的复杂博弈。

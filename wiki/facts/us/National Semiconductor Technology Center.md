@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **技术顾问咨询委员会（Technical Advisory Boards）** 汇聚全美主流晶圆代工厂（如 Intel、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、GlobalFoundries）、无晶圆设计巨头（如 NVIDIA、Qualcomm）、[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）软件商、装备材料供应商与顶尖大学领袖。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 22)]]
 > - **多层级会员体系与国家安全护栏** 设立涵盖跨国企业、初创公司、[[Research Universities|研究型大学]]、社区学院及州政府的分级会员制度，严格执行防范受关注外国实体（Foreign Entities of Concern, FEOC）的安全合规护栏。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21, 27)]]
 
-> [!pathways]- 业务运行机制与财务可持续性
+> [!pathways] 业务运行机制与财务可持续性
 > - **政产学研四方协同立项** 依据国家微电子技术路线图，围绕重大技术瓶颈（如超越摩尔定律新材料、光电共封装、芯粒互连标准）发布竞争性攻关指南。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 13–15)]]
 > - **共享开放中试与流片设施（Open Access Prototyping）** 为[[University Spin-Out|大学衍生企业]]与学术团队提供 EUV 光刻与 300 毫米先进中试环境，将概念验证周期从数年压缩至数月。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10, 14–15)]]
 > - **数字化设计与执行网关（Design and Execution Gateway, DEG）** 依托云平台集中提供 EDA 工具授权、标准[[Process Design Kit|工艺设计套件]]（Process Design Kit, PDK）、硅验证安全知识产权（IP）库与基准测试数据集。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **资金与资本动员规模** 统筹运用 110 亿美元联邦研发专项资金，撬动地方政府与私营资本数百亿美元配套投资，成为美国历史上规模最宏大的定向产业科技投资计划。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 22–23)]]
 > - **跨代协同机制演进标杆** 标志着半导体跨界协同完成从“企业战略倡议（[[Universal Parallel Computing Research Centers|UPCRC]]）” $\to$ “行业前竞争联盟（[[Semiconductor Research Corporation|SRC]]）” $\to$ “国家法定四方共治平台（[[National Science and Technology Council|NSTC]]）”的三代历史跨越。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 > - **战略性重构企业[[University-Industry Collaboration|产学合作]]策略** 充当全球高科技企业[[Academic Engagement Team|学术参与团队]]（AET）的“强制函数”（Forcing Function），迫使跨国企业将传统的自发性分散大学合作，系统性接入国家级大型公私合作平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]

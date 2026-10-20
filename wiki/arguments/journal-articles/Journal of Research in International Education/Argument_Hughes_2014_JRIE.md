@@ -253,12 +253,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 课程效度的核心缺口
+> [!citation-card] 课程效度的核心缺口
 > 评估标准真正引发疑问的，与其说是其中包含了什么，不如说是其中缺少了什么。（p.41）
 >
 > *It is not so much what is in the assessment criteria that begs the question of whether this is indeed a course in [[Critical Thinking]], but what is not there.*
 
-> [!citation-card]- 课程修订的最终方向
+> [!citation-card] 课程修订的最终方向
 > 课程说明应当为更多批判、推测、分析和有根据的判断留出空间。（p.42）
 >
 > *The course description should allow for more critiquing, conjecture, analysis and informed judgement.*

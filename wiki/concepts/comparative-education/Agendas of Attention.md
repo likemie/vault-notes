@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **用途** 它帮助研究者批判性地识别特定学术研究“照亮了什么，又遮蔽了什么”，进而解构看似客观的比较研究背后的地缘利益与[[Knowledge Power|知识权力]]分配。
 > - **边界** 它侧重于宏观地缘和[[Epistemology\|认识论]]层次上的[[Discourse|话语]]屏蔽分析，不适合用来解释学者个人微观主观学术兴趣的偶然转变。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 国际关系的三大传统提供了不同的“全球阅读方式”，并使“多重的比较教育”成为可能。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 417)]]
 >
 > *the three traditions offer different '[[Readings of the Global]]' and make possible 'multiple [[Comparative Educations]]'.*

@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- 从信息接触到公立学校示范
+> [!dev-timeline] 从信息接触到公立学校示范
 > - **新闻接触　发现项目** 塞里斯基先从新闻媒体得知[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）。
 > - **专业会议　确认问题** 他参加资优教育会议，把 IB 与学校最优秀学生缺少完整课程的问题连接起来。
 > - **现场观察　降低不确定性** 他访问联合国[[International Schools\|国际学校]]的 IB 课堂，观察国际课程在美国学校中的具体运行。

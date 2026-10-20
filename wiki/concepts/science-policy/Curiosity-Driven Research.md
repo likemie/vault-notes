@@ -168,7 +168,7 @@ updated: 2026-10-20
 > [!claim] Burgess (1993)
 > Burgess（1993）所讨论的时期内，[[Categorical Funding|分类资助]]（categorical funding）的结构性增长正在系统性压缩蓝天研究的空间。当政府和非政府资助机构越来越倾向于赞助政策导向项目时，由研究者好奇心驱动、不以直接政策应用为目标的研究越来越难以获得资助（Burgess, 1993, p. 1）。该趋势也影响研究社区对议题重要性的判断权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 36–37)]]
 
-> [!implication] 命题后果
+> [!implication]- 命题后果
 > - **对[[Knowledge Production\|知识生产]]的后果** 当资助只流向政策相关研究时，知识生产的议程被政策议程重新定向。不被政策制定者视为优先的领域——无论其学术价值如何——面临资源匮乏。
 > - **对研究自主性的后果** 从"研究者指定[[Research Topic\|研究主题]]"向"赞助方指定研究焦点"的转变，意味着研究社区丧失了定义什么问题是重要问题的自主权。
 

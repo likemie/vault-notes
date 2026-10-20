@@ -54,7 +54,7 @@ updated: 2026-10-17
 > - **核心角色** [[Action Research\|行动研究]]的两位奠基人之一（与 Corey 并列）；社会心理学创始人之一；群体动力学、力场分析和变革管理理论的创立者。
 > - **代表贡献** 提出行动研究的"计划—行动—观察—反思"螺旋模型；创立力场分析和变革三步模型（unfreezing → moving → refreezing）；开创群体决策和参与式管理研究。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 勒温本人的工作（行动研究奠基人之一）旨在改变弱势群体在住房、就业、偏见、社会化与培训方面的生活机会。行动与研究的结合使其对研究者、教师以及学术和教育共同体具有吸引力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 263)]]
 >
 > *Kurt Lewin's own work (one of action research's founding fathers) was deliberately intended to change the life chances of disadvantaged groups in terms of housing, employment, prejudice, socialization and training.*
@@ -100,7 +100,7 @@ updated: 2026-10-17
 > [!claim] 勒温的核心主张：研究必须与行动结合以改变社会现实
 > 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research\|行动研究]]将研究者的分析能力与实践者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究编码为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948, p. 205）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > "理性社会管理"可被视为计划、行动和关于所采取行动结果之查证的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 280, citing Lewin, 1948, p. 205)]]
 >
 > *Such "rational social management" can be conceived of as a spiral of planning, action and fact-finding about the outcomes of the actions taken.*

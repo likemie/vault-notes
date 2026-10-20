@@ -61,7 +61,7 @@ updated: 2026-10-16
 > - **用途** 帮助教育决策者与研究者避免将“平均效应显著为正”盲目等同于“在任何学校或课堂都能产生正向效果”，揭示具体情境对干预成败的决定性影响。
 > - **边界** 预测区间要求纳入研究数量（$k$）足够充足（通常 $k \ge 10$）且真实效应服从正态分布假设；当 $k$ 较小时基于 $t$ 分布自由度构建的预测区间会极其宽泛。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 必须指出，这里报告的统计量是平均值，并不必然指示在任何单一独立样本中会发现什么结果。人口背景[[Variable\|变量]]的预测区间为 −0.38 至 0.49，表明真实效应量的范围可以从负相关一直跨越到正相关。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 10)]]
 >
 > *The statistics are averages that are not necessarily indicative of what might be found in any single sample. The prediction interval for background variables was −.38 to .49, indicating that the true effect size could range from a negative correlation to a positive correlation.*

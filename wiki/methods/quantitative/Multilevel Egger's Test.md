@@ -65,7 +65,7 @@ updated: 2026-10-16
 > - **[[Unit of Analysis\|分析单位]]** 包含抽样标准误 $\text{SE}_{ij}$ 与效应量 $z_{ij}$ 的多水平观测矩阵。
 > - **输出形式** 偏倚斜率检验统计量（$\beta_{\text{SE}}$ 与 $p$ 值）、偏倚校正后的二阶效应量点估计（$\beta_0$ / 转换后的 $r$ 或 $g$）及其 95% [[Confidence Interval\|置信区间]]。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 多水平艾格回归模型通过在层级随机效应结构中将效应量对标准误进行回归，能够在控制聚类依赖的同时准确检验发表偏倚并给出校正后的效应量估计。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
 >
 > *We evaluated potential publication bias using a multilevel extension of Egger's regression test... The intercept provides an estimate of the overall effect size adjusted for small-study effects.*

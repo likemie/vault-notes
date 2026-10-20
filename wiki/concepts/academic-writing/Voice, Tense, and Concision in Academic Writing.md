@@ -44,7 +44,7 @@ Ross-Larson (1982, p.29) 给出了最简洁的区分："如果主语执行动作
 
 学术写作中应尽可能使用主动语态（APA, 2020），并使用强动作动词。惰性动词（lazy verbs）缺乏动作感，通常是"to be"动词（is、was），或被转为形容词或副词的动词。
 
-> [!note]- 被动语态的合理使用
+> [!note] 被动语态的合理使用
 > 被动语态在两种情况下是合适的（Ross-Larson, 1982）：
 > - 行为者的身份从逻辑上可以省略
 > - 受动者是段落剩余部分的主语
@@ -63,7 +63,7 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 
 研究计划中使用将来时表示研究将在未来进行。[[Mixed Methods Research|混合方法研究]]中的时态通常反映其主要取向，量化为主则偏过去时，质性为主则偏现在时。这些指南是建议而非硬性规定。
 
-> [!note]- 时态与路径的关联
+> [!note] 时态与路径的关联
 > 过去时是[[Quantitative Research\|量化研究]]中最常用的形式，因为量化研究通常报告已完成的检验结果。现在时常出现在[[Qualitative Research\|质性研究]]的引言中，因为质性研究强调对现象的当下理解。这一时态差异反映了量化与质性研究对"时间"和"确定性"的不同预设。
 
 ---
@@ -113,10 +113,10 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 | Annals of Family Medicine | 混合方法 | [AFM](https://www.annfammed.org/) |
 | Journal of Nursing Scholarship | 混合方法 | [JNS](https://sigmapubs.onlinelibrary.wiley.com/journal/15475069) |
 
-> [!note]- [[Qualitative Research\|质性研究]]中的文学阅读
+> [!note] [[Qualitative Research\|质性研究]]中的文学阅读
 > [[Qualitative Research\|质性研究]]方法教师有时会布置经典文学作品作为阅读任务，如 Moby Dick、The Scarlet Letter、The Bonfire of the Vanities，因为这些作品的清晰散文和细致描写是质性写作的良好范本（Webb & Glesne, 1992）。
 
-> [!note]- [[Mixed Methods Research\|混合方法]]核心参考书
+> [!note] [[Mixed Methods Research\|混合方法]]核心参考书
 > - [[Sage]] Handbook of Mixed Methods in Social and Behavioral Research (Tashakkori & Teddlie, 2010)
 > - The Mixed Methods Reader (Plano Clark & Creswell, 2008)
 

@@ -76,12 +76,12 @@ updated: 2026-10-20
 > - **用途** 揭示[[Man-Computer Symbiosis|人机协同]]学习中深层理解与浅层应付的行为分化机制，指导自适应学习环境与支架式提示词设计。
 > - **边界** 自我调节学习不仅是静态的个体特质，更是受到具体[[Task Structure\|任务结构]]、教学提示与外部反馈环境深度塑造的情境化表现。
 
-> [!citation-card]- 关键表述：自我调节在人机交互中的认知审视功能（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> [!citation-card] 关键表述：自我调节在人机交互中的认知审视功能（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > 自我调节学习指学习者通过战略性目标设定、反思和适应来规划、监控和调节自身学习的能力。元认知框架强调对自己思维过程的觉察以及评估和调整认知策略的能力。在理解学生如何与作为思维辅助工具的 ChatGPT 互动时，这两个视角至关重要——即他们是批判性地审视其输出，还是被动地采纳它们。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 >
 > *Self-Regulated Learning (SRL) refers to learners' capacity to plan, monitor, and regulate their learning through strategic goal-setting, reflection, and adaptation... Both perspectives are crucial for understanding how students interact with ChatGPT as a thinking aid — whether they critically interrogate its outputs or passively adopt them.*
 
-> [!citation-card]- 关键表述：自我调节学习对[[Higher-Order Thinking Skills\|高阶思维]]的奠基与风险中和（[[Argument_Zhao_2025_JIntell\|Zhao et al., 2025]]）
+> [!citation-card] 关键表述：自我调节学习对[[Higher-Order Thinking Skills\|高阶思维]]的奠基与风险中和（[[Argument_Zhao_2025_JIntell\|Zhao et al., 2025]]）
 > 自我调节学习（SRL）在促使学生确立学习目标、选择适切策略与监控认知加工方面发挥着决定性作用，从而为高阶思维的发展奠定了基础框架。更重要的是，SRL 构成了关键的调节中枢，能够有效“中和”使用生成式 AI 培养高阶思维时伴随的潜在认知风险。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 >
 > *Self-regulated learning (SRL) plays a critical role in enabling students to establish learning goals, select appropriate strategies, and monitor their cognitive processes, thereby laying a foundational framework for the development of HOT... Specifically, SRL functions as a "key regulatory mechanism" that can effectively "neutralize" the potential cognitive risks associated with the use of Gen-AI in fostering HOT.*

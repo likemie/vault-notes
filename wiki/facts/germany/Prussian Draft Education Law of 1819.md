@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 聚芬草案在文本结构中确立了支撑普鲁士国家公共教育机器运转的四大制度支柱：
 
-> [!policy-design]- 政策设计：支撑普鲁士国家教育机器的四大制度支柱
+> [!policy-design] 政策设计：支撑普鲁士国家教育机器的四大制度支柱
 > - **法定送学义务与市镇自筹建校责任（Statutory School Duty and Communal Obligation）**
 >   草案规定适龄儿童父母负有必须送子女入学的法定义务（*Schulpflicht*）；同时规定每个教区和市镇社团必须由自身财政税收建立并维持至少一所初等学校（*Schullasten*），确保乡村与城镇贫困阶层儿童均能接受基础教化。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
 > - **基层分权治理委员会与国家最高行政监督（Decentralized Local Boards and Supreme State Oversight）**
@@ -94,7 +94,7 @@ updated: 2026-10-16
 
 比较教育学者记录了[[Victor Cousin|维克多·库森]]在对该法案进行密集文本引录后的著名历史赞誉：
 
-> [!citation-card]- 关键条文：聚芬法案文本引录与库森的评价
+> [!citation-card] 关键条文：聚芬法案文本引录与库森的评价
 > 该法案未忽略任何具有重大意义的议题，是我所知晓的最完备、最广泛的初等教育法。面对其中蕴含的深邃智慧，人们不可能不深感震撼……普鲁士 1819 年法案在我看来卓越非凡。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 29)]]
 >
 > *This law ... omits no topic of interest, and is the most extensive and complete law on primary instruction of which I have any knowledge. It is impossible not to be struck with its profound wisdom ... the Prussian law of 1819 appears to me excellent.* (Cousin, 1930, pp. 205–206)
@@ -125,7 +125,7 @@ updated: 2026-10-16
 > - **适用受体** 全普鲁士初等小学学童、市民中产子弟、各省[[Normal School\|师范学校]]（*Lehrerseminare*）受训教师。
 > - **政策工具组合** 法定义务送学指令、市镇财产税筹措机制、师范生公费食宿资助与合格证书准入制、分省教学视导网络。
 
-> [!pathways]- 实施路径：从内政部规程到跨国制度移植
+> [!pathways] 实施路径：从内政部规程到跨国制度移植
 > - **普鲁士内部事实行政转化** 聚芬法案虽未上升为御准制定法，但阿尔滕施泰因大臣通过各省行政督导系统，将草案关于市镇建校、师资培训与学额统计的要求转化为各省强制规章，为普鲁士奠定了领先欧洲的 80% 以上净入学率与高师资标准。（Brewer, 1971:44; Knight, 1930:255）
 > - **跨国技术文本转化** [[Victor Cousin\|库森]]在 1831 年外交调查中，抛开普鲁士专制政治外壳，将聚芬法案提炼为“技术中立的公共行政最优[[Paradigm\|范式]]”，使其成为法国 [[Guizot Law of 1833\|基佐法案]] 最具操作性的条文蓝本。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 28–29]]）
 > - **跨大西洋[[Policy Borrowing\|政策借用]]** 萨拉·奥斯汀（Sarah Austin）与奥维尔·泰勒（J. Orville Taylor）翻译的[[Report on the State of Public Instruction in Prussia\|库森报告]]将聚芬法案条款英文化，直接滋养了马萨诸塞州第 12 号年度报告与俄亥俄州 1837 年初等教育法案。（pp. 31–34）

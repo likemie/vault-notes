@@ -72,7 +72,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 框架确立了英格兰[[Initial Teacher Training\|初始教师培训]]的法定最低课程权利，将认知科学、[[Classroom Management\|课堂管理]]与学科教学的实证研究成果强制编纂为标准化的“了解理论（Learn that...）”与“掌握实践（Learn how to...）”双轨专业清单。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 确立全国统一的循证教学知识基底，确保所有入职教师掌握基于严谨实证研究（尤其是认知心理学与行为科学）的[[Effective Teaching\|有效教学]]法。
 > - **适用对象** 所有经官方认证的 ITT 培训提供方、课程导师（Mentors）及全体在读受训学员。
 > - **政策工具** 法定课程框架、准入合规审查、认证评估指标与英国皇家教育标准局（[[Ofsted]]）专项督导标准。
@@ -105,7 +105,7 @@ updated: 2026-10-20
 > - **督导主体** 英国皇家教育标准局，依据全新修订的 [[Initial Teacher Training\|ITT]] 督导框架，将 CCF 落实程度作为评定培训质量的核心硬性指标。
 > - **支持主体** [[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Chartered College of Teaching\|特许教学学院]]（CCT），提供配套研究证据指南与专业进修资源。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **双轨结构拆解** 框架将国家教师标准的八个领域逐一拆解为两列：左列为“了解理论（Learn that...）”，规定必须掌握的研究原则；右列为“掌握实践（Learn how to...）”，规定导师必须示范并在实践中评估的具体教学动作。
 > - **认知科学基底绑定** 深度嵌入[[Working Memory\|工作记忆]]容量限制、双重编码、精细复述、检索练习及[[Formative Assessment\|形成性评价]]等认知心理学核心论断。
 > - **行政督导挂钩** [[Ofsted]] 开展拉网式专项督导检查，未严格按 CCF 循证清单组织教学的大学机构被判定为不合格并限期整改。

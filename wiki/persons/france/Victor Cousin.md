@@ -214,7 +214,7 @@ updated: 2026-10-20
 > - **比较教育学科[[Paradigm\|范式]]开创** 确立了 19 世纪政策导向行政[[Educational Meliorism\|改良主义]]传统，示范了官方决策精英如何通过实地调研发掘他者经验，并以主权法哲学为推论桥梁实现机制转置。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 25–26, 30)]]
 > - **法国课程哲学与文化传统** 其所倡导的文理融合通识构想，直接孕育了法国中等教育延续一个多世纪的“[[Culture Générale\|普通文化]]（*culture générale*）”理念与心智训练传统。（Halls, 1965:2; p. 30）
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 深度解构库森的“政策导向行政改良主义母题”，阐明教育权作为国家公共资源的法哲学如何作为推论桥梁，完成从普鲁士[[Prussian Draft Education Law of 1819\|聚芬法案]]向法国 1833 年基佐法案的实定法直接转置。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 指出[[Report on the State of Public Instruction in Prussia|库森报告]]英译后掀起美国教育者赴欧考察潮，美国公学模仿普鲁士国民学校，师范学校沿用法语术语（p. 124）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立库森在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的枢纽坐标，剖析其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
@@ -294,7 +294,7 @@ updated: 2026-10-20
 
 围绕库森借用[[Paradigm|范式]]的局限与认识论批判，相关学术文献记录了进一步的反思：
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 梳理了学界对其折衷主义服务大资产阶级统治意识形态的批判，以及其实定法移植模式在深层历史解释力上的不足。
 
 > [!warning] 未解问题与边界

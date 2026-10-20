@@ -80,7 +80,7 @@ citation_aliases:
 > 
 > 其核心追问在于：经典发展心理学所观察到的“认知发展阶段过渡”这一质变过程，其底层的物理与生理机制是什么？是否能将认知阶段的过渡解释为执行功能 (Executive Function, EF) 随着大脑成熟发育而提高的函数？（pp.3–4）
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 0–16岁儿童的认知发展阶段与脑神经发育 (前额叶皮层解剖生理、[[Synaptogenesis\|突触发生]]与修剪及[[Myelination\|髓鞘化]]) 以及执行功能 (抑制、转换、更新)。
 > - **工具** 将传统经验观察的认知阶段，与硬核脑成像数据 ([[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] [[Functional Magnetic Resonance Imaging\|fMRI]]、[[Electroencephalography\|脑电图]] [[Electroencephalography\|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 [[Punctuated Equilibrium Theory|PET]]) 及脑解剖数据进行横向对齐。
 > - **张力** 心理学对阶段过渡物理层机制解释力的匮乏，同大脑生理学对高阶认知控制缺乏宏观阶段性发展视野之间的张力。
@@ -137,7 +137,7 @@ citation_aliases:
 >     E -->|逻辑推论| F
 > ```
 
-> [!example]- 图1：脑发育、[[Executive Function\|执行功能]]各成分发展与[[Jean Piaget\|皮亚杰]]认知阶段的时间对齐关系对照图
+> [!example] 图1：脑发育、[[Executive Function\|执行功能]]各成分发展与[[Jean Piaget\|皮亚杰]]认知阶段的时间对齐关系对照图
 > ![](https://img.mylikemie.icu/sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg)
 
 ### 步骤一：感觉运动阶段（0-2岁）——PFC早期连结与执行功能萌芽
@@ -225,12 +225,12 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 认知阶段过渡是脑发育中 EF 发展的函数
+> [!citation-card] 认知阶段过渡是脑发育中 EF 发展的函数
 > 本文的主张是，这些变化是随着大脑发育，[[Executive Function\|执行功能]]发展的一个函数。（pp.3–4）
 > 
 > Original: It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops.
 
-> [!citation-card]- Piaget与前额叶的对齐
+> [!citation-card] Piaget与前额叶的对齐
 > 本综述表明，[[Jean Piaget\|皮亚杰]]的发展理论可能与大脑解剖和生理发展的变化——特别是[[Prefrontal Cortex\|前额叶皮层]]及其相关连接的变化——紧密一致。（p.1）
 > 
 > Original: This review suggests that Piagetian development theory may be closely aligned with changes in the anatomical and physiological development of the brain—in particular, the prefrontal cortex and its associated connections.

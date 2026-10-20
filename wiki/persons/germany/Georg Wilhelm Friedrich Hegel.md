@@ -64,7 +64,7 @@ updated: 2026-10-20
 > - **核心角色** 构筑了涵盖逻辑学、自然哲学与精神哲学的绝对唯心论庞大体系；在教育哲学与批判课程研究中，其教化（[[Bildung]]）理论被确立为古典人文主义与制度化学校教育的重要哲学源头，同时也因强调理性普遍性对个体经验的重塑而引发当代[[Critical Pedagogy|批判教育学]]的持续论辩。
 > - **代表贡献** 创立绝对唯心论辩证法体系；阐发精神辩证否定与扬弃（Aufheben）运动；构建以伦理生活（Sittlichkeit）为核心的黑格尔式教化（Hegelian [[Bildung]]）模型。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 在传统（黑格尔式）课堂中，教育的核心被预设为通过外在的结构化知识来填充“空无认知者（[[Empty Knower]]）”，其政治终点是服务于市场与国家的市民社会。[[Argument_Cole_2005_JRIE|(Cole, 2005)]]
 >
 > *In the traditional (Hegelian) classroom, education is conceived as filling the 'empty knower' with structured external knowledge, pointing politically toward civil society serving the market and the state.*
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 在黑格尔的哲学体系中，教育本质上构成了个体自然本能向普遍理性与伦理实体升华的教化（[[Bildung]]）过程。绝对精神通过在历史世界中的持续[[Externalization|外化]]与辩证扬弃（Aufheben）实现自我确证；个体的生命价值在于摆脱纯粹主观的自然欲求与感官局限，在投身市民社会分工与融入国家伦理实体的普遍规范中，达成真正的精神自决与客观自由。
 
 > [!citation-card] 教化作为走向普遍性的扬弃运动
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > - **现代课程与制度化教育反思** 当代批判课程学者（如 Cole, 2005）认为，黑格尔式教化常被现代[[International Education|国际教育]]体制（如[[International Baccalaureate|国际文凭]]课程）内化为深层语法，批评其倾向于用客观理性框架修剪个体情感，把学生预设为等待填充的“空无认知者（[[Empty Knower]]）”。
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思[[Positivism|实证主义]]评价时，重新激活包含黑格尔在内的德意志[[Geisteswissenschaften|精神科学]]教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 将黑格尔列入德意志教化（[[Bildung]]）与存在[[Ontology|本体论]]哲学谱系，以此阐明教育实践对实证主义量化可见[[Paradigm|范式]]的超越性意义。
 

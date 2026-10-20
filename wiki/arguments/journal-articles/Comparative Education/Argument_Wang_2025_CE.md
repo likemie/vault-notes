@@ -167,7 +167,7 @@ citation_aliases:
 
 ### 论证步骤一：考试问责与 LCE 改革在案例学校中的要素情境化及初始失调
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > [[Test-Based Accountability\|考试问责]]系统在案例学校中呈现为一个自我强化、高度咬合的封闭循环，其正当性扎根于标准化考试保障社会流动的文化信念。初始阶段仅作为外部中介工具引入的 [[Learner-Centred Education\|LCE]] 改革因缺乏配套的评价规则、共同体信任与明确的风险分工担保，表现出深刻的系统性失调与错位(pp. 593–598)。
 
 > [!contrast-table] 案例学校中双活动系统的要素情境化对比
@@ -187,7 +187,7 @@ citation_aliases:
 
 ### 论证步骤二：保守防御型与跟风改良型案例拆解：城市一校与农村一校的改革卡顿
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > 仅依赖外部经验的引入而未能建立学校特定共享目标，或者在维持现有成绩的防御性定位下，学校缺乏动力打破既有考试系统的要素平衡，导致教学改革流于表面并陷入停滞(pp. 596–598, 600)。
 
 > [!case] 改革停滞案例一：城市一校（Urban School 1）的维持顶尖陷阱
@@ -213,7 +213,7 @@ citation_aliases:
 
 ### 论证步骤三：突破进取型案例拆解：城市二校与农村二校的扩展性改造与实践机制
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 谋求突破性成绩或处于垫底位置急需翻盘的学校具有强烈的动机打破传统教学的天花板。通过将 [[Learner-Centred Education\|LCE]] 重新[[Decodification\|解码]]为达成特定考试目标的必由路径（应对考核[[Critical Thinking\|批判性思维]]的新考情或提升农村课堂 45 分钟效率），并在工具、规则与分工上展开全校性协同重组，学校能够促成双活动系统的扩展性改造（Expansive Transformation）(pp. 598–601)。
 
 > [!case] 扩展性改造案例一：城市二校（Urban School 2）的冲击前 20% 攻坚战与评课量表重构
@@ -253,7 +253,7 @@ citation_aliases:
 
 ### 论证步骤四：中国考试文化与儒家传统中 LCE 的选择性亲和与硬边界
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > [[Learner-Centred Education\|LCE]] 在案例学校的本土化是与中国考试文化及儒家教育传统的深度对话。这种转译在赋予教学改革认知与效率强化的同时，也显现出不可跨越的结构性实施边界(pp. 601–603)。
 
 > [!contrast-table] 理想型 LCE 与中国本土化 LCE 的维度张力对比
@@ -296,32 +296,32 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 考试与社会流动
+> [!citation-card] 考试与社会流动
 > 每个人都了解考试在塑造孩子未来方面的重要性。在考试中得高分的学生能进入更好的大学，过上更好的生活。作为一名教师，我被期望帮助他们赢得一个有前途的未来。（p. 594）
 >
 > *“Everyone understands the importance of examinations in shaping children’s future. Students who score high in examinations enter better universities and lead better lives. As a teacher, I am expected to help them earn a promising future.” (Urban 2-Teacher 1, p. 594)*
 
-> [!citation-card]- 教学改革的底线
+> [!citation-card] 教学改革的底线
 > 我们知道以学习者为中心教学的好处，但教学法的改变不应降低学生的考试成绩。我们可以花三年时间来改变我们的教学法，但我们的学生不能等三年才去参加入学考试。不应有任何学生为变革而牺牲。（p. 596）
 >
 > *“We know the benefits of [[Learner-Centred Education\|LCE]], but pedagogical changes should not lower students’ examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes.” (Urban 1-Principal, p. 596)*
 
-> [!citation-card]- [[Lev Vygotsky\|维果茨基]]与[[Confucius\|孔子]]的共振
+> [!citation-card] [[Lev Vygotsky\|维果茨基]]与[[Confucius\|孔子]]的共振
 > 提高学生的考试成绩与 LCE 并不冲突。它们应该是互惠互利的。此外，维果茨基的见解呼应了孔子关于对话式教学有助于深度思考的信念。（p. 596）
 >
 > *“Enhancing students’ examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky’s insights echo Confucius’ beliefs that [[Dialogue in Education|dialogic teaching]] contributes to deep thinking.” (Rural 2-Principal, p. 596)*
 
-> [!citation-card]- 规则与评价的约束
+> [!citation-card] 规则与评价的约束
 > 以学习者为中心教学的构建应该得到奖励。我并不是说如果不被推着去做我们就不去尝试。然而，由于考试压力，不作任何改变是更容易的。（p. 598）
 >
 > *“The construction of LCE should be rewarded. I am not suggesting that we would not have a try if not being pushed to do so. However, due to the examination pressure, it is easier not to make any changes.” (Urban 2-Teacher 1, p. 598)*
 
-> [!citation-card]- 农村学校的课堂效率诉求
+> [!citation-card] 农村学校的课堂效率诉求
 > 与城市学生相比，我们的学生从父母那里得到的支持通常要少得多，因此我们实施 LCE 以提高他们在课堂上的学习效率至关重要。我相信，当学生的意见与自主权得到充分尊重时，他们就能进行有效的学习。（p. 599）
 >
 > *“Compared to urban students, our students generally have much less support from parents, so it is crucial that we implement LCE to enhance their learning efficiency in class. I believe that students can learn effectively when their opinions and autonomy are fully respected.” (Rural 2-Principal, p. 599)*
 
-> [!citation-card]- 权力共享的结构性硬边界
+> [!citation-card] 权力共享的结构性硬边界
 > 学生不可能参与决定他们想学什么或考什么。在中国，课程标准和考试大纲是统一且刚性的，教师的任务是在这个框架内引导学生达成优秀。（p. 599）
 >
 > *“Students cannot co-decide what they want to learn or how they will be assessed. In China, curriculum standards and examination outlines are unified and rigid. Teachers' role is to guide students to [[Achieve]] excellence within this framework.” (Urban 2-Teacher 2, p. 599)*

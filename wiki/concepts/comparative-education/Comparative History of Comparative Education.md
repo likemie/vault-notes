@@ -81,7 +81,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者摆脱将早期学科史单纯视为职业合法性工具的局限，打破英美中心叙事，照见边缘学者与未被开掘的档案。
 > - **边界** 它不等于国别教育史或一般教育思想史的简单罗列，而是以比较教育学自身的理论、人物、制度与传统为对象的元研究（Meta-Study）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 比较教育学的历史迟早应当演变为比较教育学的比较史。我们现在距离这一目标仍有距离……阅读全书提醒我们在潜在的比较教育学比较史中存在着丰富的可能性与主题。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 8)]]
 >
 > *The problem is also worse than that because a history of comparative education ought – sooner or later – to become a comparative history of comparative education. We are still a little bit away from that... reading the chapters in the other sections of the volumes... reminds us of possibilities and thematics in a potential comparative history of comparative education.*

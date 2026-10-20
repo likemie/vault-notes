@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与教师访谈、课堂教师焦点小组、[[Classroom Observation|课堂观察]]、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.116]])。
 > - STAT 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.117]])。
 
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 ## 相关理论
 
-> [!tip]-
+> [!tip]
 > - [[Absorptive Capacity]] — [[Formative Assessment\|形成性评价]]能否转化为改进行动，取决于学区关键伙伴是否理解项目、沟通是否开放、领导是否支持([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.122-124]])。
 > - [[Professional Judgment]] — 形成性评价提供阶段性证据，但如何权衡实施进展、学生参与、技术公平和成就结果，仍需要专业判断([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.121-123]])。
 

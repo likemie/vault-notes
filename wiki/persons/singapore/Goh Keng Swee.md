@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **核心角色** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）最核心的执政搭档与政策大脑，在新加坡工业化起步、武装部队创建以及教育语言体制改革中承担顶层设计功能。
 > - **代表贡献** 主持完成了奠定新加坡现代双语教育与道德伦理基石的《[[Goh Report|吴庆瑞报告]]》，推动发起了[[Speak Mandarin Campaign|讲华语运动]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 一项被称为《吴庆瑞报告》的政府研究（以李光耀治下的副总理吴庆瑞命名）指出：“一个缺乏道德价值观引导的社会，在面临压力时很难指望能保持凝聚力。正是对一套共同价值观的承诺，将决定来自近代移民背景的人民在多大程度上愿意并能够捍卫他们的集体利益。”[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 >
 > *“A society unguided by moral values can hardly be expected to remain cohesive under stress,” noted the government study, which came to be known as the Goh Report, after its principal author, Goh Keng Swee, Singapore’s deputy prime minister under Lee. “It is a commitment to a common set of values that will determine the degree to which people of recent migrant origin will be willing and able to defend their collective interest.”*
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 国家生存不仅依赖于经济繁荣与硬军事防卫，更依赖于公民对一套核心道德价值观与国家认同的深层承诺；在多族群移民社会中，单纯的世俗外语教育可能导致传统伦理根基断裂，必须通过强有力的国家语言与教育政策整合，构建抵御外部危机与维护共同体集体利益的文化屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!citation-card] 吴庆瑞论共同道德价值观与国家防卫意志
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
 > - **科技[[Geopolitics|地缘政治]]论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 论证吴庆瑞主持的教育与语言政策对新加坡确立国家威慑意志与凝聚力的决定性贡献。
 
 ---

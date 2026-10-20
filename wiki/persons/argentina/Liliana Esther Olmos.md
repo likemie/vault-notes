@@ -65,7 +65,7 @@ updated: 2026-10-20
 > - **核心角色** 从新马克思主义政治经济学与批判政治社会学视角，深入考察第三世界与拉丁美洲教育扩张的制度动力、依附性国家机器的运作机制以及全球化与新自由主义调整对公共教育公平的冲击。
 > - **代表贡献** 与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）合作系统阐述[[Conditioned State Theory|受限国家理论]]在教育扩张中的解释机制，剖析拉美双轨教育体制与[[State Corporatism|国家法团主义]]下的[[Compensatory Legitimation|补偿性合法化]]，批判[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
 
-> [!citation-card]- 奥尔莫斯与托雷斯论国家与教育扩张
+> [!citation-card] 奥尔莫斯与托雷斯论国家与教育扩张
 > 任何对教育与国家关系的分析，都必须考虑到这些关系的多层级、复杂性与动态性，揭示出在历史与社会力量冲击政治和教育机构时所[[Emergence|涌现]]的诸多张力与矛盾。有些理论往往假定教育扩张存在单一因果，忽视了在具体的结构、政治与历史约束下运作的国家对于教育在其积累与合法化职能中所做贡献的重视程度。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74)]]
 >
 > *Obviously, any analysis of the relationships between education and the state should take into [[Accounts|account]] the multilayered, complex, and dynamic nature of these relationships, revealing the multitude of tensions and contradictions that emerge out of the historical and social force buffeting political and educational institutions. This comment is due to the weaknesses of some theories, which often tend to assume a single causal factor of educational expansion, and ignore the importance, which the state, operating under concrete structural, political, and historical constraints, attaches to the contribution that education might make to its functions in the area of accumulation and legitimation.*
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（内生与[[Exogenous Privatisation|外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 系统阐明马克思主义国家理论、受限国家与新自由主义全球化对比较教育扩张研究的核心解释力。
 
 ---

@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 传统的[[Evidence-Based Education\|循证教育]]科研过度狭隘地局限于单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）的孤立因果验证，常常把复杂的教育综合干预视作未被拆解的药丸袋（bag of pills），既无法识别究竟是何种成分发生效用，又忽视了学校真实的实施成本与推广条件。必须通过制度化的教育研究卓越标准（SEER），强制推行研究[[Preregistration\|预注册]]、干预核心构件界定、详实记录实施反差与保真度、严谨成本核算、独立通用测量规程（防范[[Developer-Made Measures\|研究者自编测验]]效应虚高）、多样态人群系统复现、市场化推广激励与教育公平导向，让科学证据真正具备变革教育实践的力量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 
 > [!citation-card] 剖析教育干预的药丸袋隐喻
@@ -131,7 +131,7 @@ updated: 2026-10-20
 > - **技术生态与敏捷复现** 引入数字实验平台与竞争性奖项机制，改变了传统实地田野试验耗资千万、耗时数年且极难复现的沉重周期，开创了[[Evidence-Based Education\|循证教育]]科学的敏捷迭代机制。
 > - **政策转化与产业化机制** 联合斯坦福国际研究院（Stanford Research Institute, SRI International）将市场化规模化推广条款明确植入资助指南，打破教育科研唯论文发表即结项的象牙塔闭环。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 施奈德系统总结执掌 IES 期间推行 SEER 卓越标准、成本分析服务台、EdInstruments 工具库与数字平台快速复现的实践战略。（pp. 206–209）
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > > - **曾薇薇安（2022）** 指出如果卓越标准依然由资助者与高校专家垄断制定，而未赋予边缘社区和一线教师议程否决权与共有权，技术标准的升级仍难逃脱学术垄断与榨取式科研的伦理风险。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 > > - **牧人友利田（2022）** 警告以高性价比与成本核算为导向的标准极易滑向狭隘功利主义，其追求[[Statistical Normalisation\|统计正态化]]的均值逻辑会制度性排斥处于正态两端的极端弱势离群学生。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 批判学者指出 SEER 标准对中小学区和一线教师的科研参与门槛极高，若无配套基层能力建设，易加剧大学与学校的权力失衡。（pp. 221–227）
 
 > [!warning] 未解问题与边界

@@ -62,7 +62,7 @@ updated: 2026-10-16
 > [!claim] 政策核心
 > 《高等教育与科研规划》（HOOP）终结了政府对大学微观指标的刚性指令，确立了“对话式规划（Dialogue Planning）”新模式；教育部在 HOOP 中仅发布宏观政策意图、劳动力市场需求与财政总额边界，高校据此自主制定机构发展规划（Instellingsplan），双方在双向战略对话中达成动态调适。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 151)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 将政府规划角色从微观指令下达者转变为宏观战略对话伙伴，在尊重院校办学自主权的前提下引导高等教育契合社会中长期需求。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
 > - **适用对象** 国家教育部决策官员、大学理事会、应用科技学院领导层及社会利益相关方（雇主组织与工会）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
 > - **政策工具** 两年一度的双向战略规划文本、院校机构发展规划（Instellingsplan）、开放式社会各界协商会议。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 151)]]
@@ -92,7 +92,7 @@ updated: 2026-10-16
 > - **响应主体** 各大学与高等职业学院，依据国家宏观重点编制中长期机构发展规划。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **外部参与方** 雇主协会与产业界代表，就劳动力市场紧缺专业在规划磋商中发声。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **发布国家宏观基调** 教育部在 HOOP 中阐明未来四年的战略优先领域、财政约束及国家科技重点。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **院校战略响应规划** 高校依据自身办学定位编制机构规划，自主决定学科增减、资源调配与科研重点。
 > - **双向反馈与对话校准** 部委与高校管理层开展双边与多边磋商，就潜在盲区进行战略校准，形成制度化双向对话协商机制。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 151)]]

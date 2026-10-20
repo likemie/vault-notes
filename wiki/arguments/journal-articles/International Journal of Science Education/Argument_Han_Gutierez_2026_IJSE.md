@@ -114,7 +114,7 @@ issuing_organization: ""
 > 2. 以四项科学解释标准为参照，让学生对文本与图像的审问有章可循，而非凭主观感觉判断；
 > 3. 以[[Reflexivity\|反思性]]提问引导学生跳出文本表面，去探究背后数据来源并检查自己是否真正听懂，进而让人机对话转化为深度的科学探究过程。（pp.4–7）
 
-> [!example]- 图1：概念框架
+> [!example] 图1：概念框架
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Fig1_Conceptual_Framework.jpg)
 
 ---
@@ -141,7 +141,7 @@ issuing_organization: ""
 > | **第 1 课（2 课时）**<br>植物为何生长良好？<br>（Why do plants grow well?） | 运用 **Canva**，依据植物根、茎、叶等器官的结构与功能，协同建构植物茁壮生长的科学因果解释与图解。 | **同伴全程联合审议（joint peer deliberation）**<br>每个小组必须对每一个输入的提示词和每一条人工智能输出进行充分协商；唯有双方达成共识的想法才能进入下一轮提示词。 |
 > | **第 2 课（1 课时）**<br>蘑菇为何不是植物？<br>（Why is a fungus not a plant?） | 运用 **ChatGPT**，从营养方式、细胞壁成分、繁殖方式与分类地位，协同建构蘑菇不属于植物的科学分类解释。 | **对照四项认识论标准评估（evaluation against epistemic criteria）**<br>严格对照优质科学解释的四项标准（相关性、因果叙事、概念框架、适切表征水平）审查生成输出。<br><br>**迭代重构提示词与修正（iterative reprompting and revision）**<br>将人工智能输出视为暂定草案；当输出未达标准时，重新组织提示词，删改并重组内容。<br><br>**调取先验知识与预判受众理解（anticipation of peers and reflection）**<br>调取先前科学课知识，预判同伴可能提出的质疑，据此调整提示词用词与多模态表征呈现。 |
 
-> [!example]- 图2：四层多模态质性话语分析框架
+> [!example] 图2：四层多模态质性话语分析框架
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Fig2_Analytical_Framework.jpg)
 
 ---
@@ -167,7 +167,7 @@ issuing_organization: ""
 
 ### 论证步骤一　显性学科标准能够引导中学生精准识别生成式人工智能内容中的因果机制缺陷与表征失真
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 四项显性[[Scientific Explanation\|科学解释]]评价标准（相关性、因果叙事、概念框架、适切表征水平）为学生提供了清晰的学科判断依据，使他们能够跳出算法生成的顺滑语言与故事化外壳，敏锐发现生成内容中因果逻辑的缺失、上位分类概念的遗漏以及示意图表征的失真，并驱动多轮提示词重写与图文修正。（pp.11–18）
 
 #### 1. 对照科学解释标准识别事实堆砌并补齐因果逻辑与分类框架
@@ -187,7 +187,7 @@ issuing_organization: ""
 > | 行 18 | **学生 B** "What if we ask it to explain how the interaction between the [[ROOTS]], stems, and leaves helps plants thrive?" | 迭代重构提示词，明确要求生成器官间因果交互机制 |
 > | 行 30 | **学生 B** "Now our explanation tells what happens and why it happens. That makes it clearer." | 评估新生成内容，确认已形成清晰的因果解释闭环 |
 
-> [!example]- 图解：对话 1 多模态[[Transcription in Qualitative Research\|转录]]片段
+> [!example] 图解：对话 1 多模态[[Transcription in Qualitative Research\|转录]]片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue1_Part1.jpg)
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue1_Part2.jpg)
 
@@ -203,7 +203,7 @@ issuing_organization: ""
 > | 行 11 | **学生 D** "You're right... we should add that because it makes the explanation more complete." | 达成同伴共识，决定将真菌界分类补充进最终解释制品 |
 > | 行 20 | **学生 D** "I realized I was thinking about what mushrooms look like instead of how they get food and reproduce." | 接收者自我反思：从关注外在形态转向深层生理机制与系统分类 |
 
-> [!example]- 图解：对话 2 多模态转录片段
+> [!example] 图解：对话 2 多模态转录片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue2_Fungi.jpg)
 
 #### 2. 穿透修辞与图像表象并修正多模态生成中的微观机制缺失
@@ -222,7 +222,7 @@ issuing_organization: ""
 > | 行 33 | **学生 F** "I don't think it explains that the [[STEM Education\|STEM]] carries water and nutrients from the roots to the leaves." | 精准定位机制断裂：指出缺少茎部输导组织运送水和养分的环节 |
 > | 行 34 | **学生 E** "Otherwise people won't understand how the leaves get the water they need for photosynthesis." | 论证机制必要性：强调水运输是叶片进行光合作用的前提 |
 
-> [!example]- 图解：对话 3 多模态转录片段
+> [!example] 图解：对话 3 多模态转录片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue3_Part1.jpg)
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue3_Part2.jpg)
 
@@ -240,7 +240,7 @@ issuing_organization: ""
 > | 行 42 | **学生 G** "Good idea. Otherwise people might think the roots only absorb water." | 确认补充必要性：防止产生“根系仅吸收水分”的片面认知 |
 
 
-> [!example]- 图解：对话 4 多模态转录片段
+> [!example] 图解：对话 4 多模态转录片段
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Dialogue4_Illustration.jpg)
 
 这些课堂交互过程表明，显性学科标准发挥了认知滤镜的作用，帮助学生穿透生成文本与图像的表象，精准找出机制断裂处，并主动指导算法进行修改与完善。
@@ -252,7 +252,7 @@ issuing_organization: ""
 
 ### 论证步骤二　反思性提问语能够促使学生主动核查外部信源并监控自身的真实理解
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 教师提供的[[Reflexivity\|反思性]]提问语（如追问数据来源、核对已有知识）有效激活了学生对信息来源（[[Source Evaluation\|信源评估]]）和自身认知状态（接收者评估）的审验；学生通过追查人工智能答案的依据、查阅权威教科书进行多方比对，并借助大模型自带的警示语，主动克服了盲目信从算法的倾向。（pp.18–22）
 
 #### 1. 追问证据出处并对照权威教科书开展跨来源核验
@@ -287,7 +287,7 @@ issuing_organization: ""
 
 ### 论证步骤三　双轨显性支架与课堂协作规范协同保障了学生在人机交互中的认知主体地位
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 学科评价标准与反思性提问语并非各自分立，而是形成了优势互补的双轨支架体系；在同伴充分协商与多轮修改的课堂规范支持下，二者共同促使学生牢牢掌握对科学解释的最终裁决权，将生成式人工智能转化为提供灵感与激发思考的对话伙伴，有效防止了思维的被动外包。（pp.5–7, 22–24）
 
 课堂互动的全过程及最终生成的图文制品表明，这一教学设计成功化解了人工智能技术进课堂可能带来的认知惰性风险。
@@ -318,17 +318,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 显性[[Epistemic Scaffolding\|认识论支架]]的双轨互补功能
+> [!citation-card] 显性[[Epistemic Scaffolding\|认识论支架]]的双轨互补功能
 > [[Scientific Explanation\|科学解释]]标准主要通过显化科学家评价解释质量的学科规范来为内容评估搭建[[Scaffolding\|脚手架]]；与此同时，[[Reflexivity\|反思性]]提问提示语显性引导学生核查信息可[[Reliability\|信度]]并监控自身[[Epistemology\|认识论]]推理。这两类支架互为补充，共同引导了学生在与 [[Generative Artificial Intelligence\|GenAI]] 交互中对科学内容、信息来源及自我理解的协同评估。（p.5）
 >
 > *The criteria for good scientific explanations primarily scaffolded content evaluation by making explicit the disciplinary standards that scientists use to judge the quality of explanations... Complementing the [[Epistemic Ideals\|epistemic criteria]], epistemic question prompts explicitly directed students to examine the credibility of information and to monitor their own epistemic reasoning.*
 
-> [!citation-card]- 生成式人工智能激发主动审思的协作角色
+> [!citation-card] 生成式人工智能激发主动审思的协作角色
 > 最关键的是，GenAI 承担了“[[Epistemic Provocateur|认识论挑衅者]]”的角色——通过生成需要辨析的回复，激发学生的[[Epistemological Vigilance\|认识论警觉]]去质疑、核验与批判，而非直接替代其思维。（pp.6–7）
 >
 > *Most crucial however, was its role as an epistemic provocateur by producing responses that encourage students' epistemic vigilance to question, verify, critique.*
 
-> [!citation-card]- 中学生在[[Man-Computer Symbiosis|人机协同]]中的认知主体地位
+> [!citation-card] 中学生在[[Man-Computer Symbiosis|人机协同]]中的认知主体地位
 > 在其认知水平范围内，中学生在显性认识论支架的辅助下，完全能够对 GenAI 生成的科学解释展开严谨的认识论警觉，使学生始终保持为主要认识主体。（p.2）
 >
 > *These findings suggest that within their cognitive levels, middle school students may engage in epistemic vigilance with explicit epistemic scaffolding, positioning students as primary epistemic agents.*

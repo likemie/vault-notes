@@ -89,7 +89,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 研究者的分析备忘录（[[Memos]]）、[[Transcription in Qualitative Research\|转录]]片段与编码关联表、个案释义框架及阶段性研究报告草稿。
 > - **输出形式** 同行审议纪要、经过质疑修正的编码框架、替代性解释排查记录与下一步调查计划。
 
-> [!citation-card]- Lincoln & Guba 与 Creswell 对同行汇报的经典界定
+> [!citation-card] Lincoln & Guba 与 Creswell 对同行汇报的经典界定
 > 同行汇报是将自己暴露于一位无利害关系的同行面前，以类似交叉审问的方式，检验诚实性、工作假设并识别研究的下一步。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]
 >
 > 审议者扮演恶魔代言人（[[Devil's Advocate]]）的角色，就质性研究的方法论、解释逻辑与证据支撑提出尖锐质疑，确保研究报告能够与研究者以外的更广泛读者产生共鸣。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch9, p. 213)]]
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 审议材料与质询互动
+> [!sample-panel]- 审议材料与质询互动
 > | 维度 | 信息与规程 |
 > |---|---|
 > | **材料来源** | 访谈录音[[Transcription in Qualitative Research\|转录]]文本、课堂微观录像切片、[[Field Notes\|田野笔记]]、分析备忘录（[[Memos]]）与编码网络。 |
@@ -151,7 +151,7 @@ updated: 2026-10-20
 > | **[[Epistemic Value\|认识论价值]]** | 外部制衡研究者主观盲点，促进主体间性共识 | 尊重当事人对其生活世界经验的知情权威 | 确立研究程序的可确认性（Confirmability） |
 > | **在 L&G 框架中位置** | 可信性（Credibility）核心策略 | 既是可信性策略，也是[[Reliability\|可依赖性]]（Dependability）策略 | 确立可依赖性与可确认性的独立程序 |
 
-> [!note]- Lincoln & Guba 对同行汇报与成员核查的功能区分
+> [!note] Lincoln & Guba 对同行汇报与成员核查的功能区分
 > Lincoln and Guba (1985, p. 315) 在讨论[[Interpretive Paradigm\|自然主义探究]]时明确区分：**[[Triangulation\|三角验证]]** 是对**数据源**的交叉核验；**成员核查**是对**当事人意义建构**的忠实度核对；而**同行汇报**则聚焦于研究者**如何加工与建构数据**。它是对研究者从经验语料上升至理论论据全过程的社会[[Epistemology\|认识论]]检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]
 
 ---

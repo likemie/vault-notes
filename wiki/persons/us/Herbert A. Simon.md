@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 人类决策者并非具备无限信息处理能力的完全理性经济人，而是在认知资源、信息不完整与时间匮乏多重约束下的[[Bounded Rationality|有限理性]]主体。在复杂实践系统中，行动者只能通过启发式搜索寻求满意解，并依赖环境反馈持续修正。人类认知与数字计算机在本质上均属于物理符号系统，能够通过符号操作模拟人类的高阶智力行为与逻辑推理。
 
 > [!citation-card] 有限理性与人类决策的满意原则
@@ -131,7 +131,7 @@ updated: 2026-10-20
 > - **教育与专业实践路径** 其[[Bounded Rationality|有限理性]]概念被当代教育学者（如 Qvortrup）引入[[Didaktik|教学理论]]，用于解释教学情境的高复杂度与教师[[Professional Judgment|专业判断]]的理性赤字，论证教学必须依赖形成性反馈与[[Reflexivity|反思性]]调整。
 > - **技术哲学与地缘战略回顾** 其在冷战早期对[[Artificial General Intelligence|通用人工智能]]降临周期的激进预言，成为当代科技战略家反思技术周期律、历史乐观主义与认知盲区的重要思想坐标。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将西蒙的有限理性理论作为理解教学-学习关系与教师专业判断局限的[[Epistemology|认识论]]基石。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 回顾西蒙在达特茅斯研讨会后对机器智力替代人类工作的著名预测，作为 20 世纪下半叶计算先驱早期技术自信与预言提前的历史透镜。
 
@@ -166,7 +166,7 @@ updated: 2026-10-20
 > > - **[[Herbert A. Simon]]（1960）** 认为基于物理符号系统的逻辑规则与启发式搜索能够完全复刻人类的高级推理机制，脑力劳动在计算结构上易于被机器攻克。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
 > > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 指出以西蒙为代表的早期先驱严重低估了常识知识、物理具身性与语言上下文的复杂性；其断言虽然过早落空，但确立了机器替代人类智力劳动的终极竞争视界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 26)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 指出 20 世纪中叶符号 AI 学派关于[[Artificial General Intelligence|通用人工智能]]在 1980 年代全面实现的断言存在显著的时代乐观局限。
 
 > [!warning] 未解问题与边界

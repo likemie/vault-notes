@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **早期背景** 20世纪初，美国教育行政学者如埃尔伍德·库伯利（Ellwood Cubberly）确立了行政与教学的二分法，将校长定位为学校的“首席执行官（CEO）”。这导致了学校管理中教学指导与日常行政事务的长期结构性脱嵌。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 416]])
 > - **[[School Effectiveness\|学校效能]]运动的遗产** 1970年代，随着“学校效能与学校改进运动”（School Effectiveness and School Improvement movement）的兴起，研究者为克服管理与教学的二分，开始倡导重将“教育”注入[[School Leadership\|学校领导力]]实践中。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 416–417]])
 > - **科学证据的确立** 2008年，[[Viviane Robinson]]、克莱尔·劳埃德（Claire Lloyd）与肯·罗（Ken Rowe）通过[[Meta-analysis\|元分析]]实证证明了教学领导力的优势，使其打破[[Transformative Leadership\|变革型领导力]]在主流学术界的主导地位，成为当代最具代表性的学校领导力[[Paradigm\|范式]]。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 417]])
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - **[[School Effectiveness\|学校效能]]与学校改进运动** — 教学领导力的复兴继承了该运动的持久遗产，试图论证校长行为与学生表现之间的实证[[Causality\|因果关系]]。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 417]])
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-20
 > [!success]
 > - **不同领导力维度的效应差异**[[Meta-analysis\|元分析]]数据证明，教学领导力的不同子维度对学生表现的影响极不平衡，其中最有效的路径是直接介入教师的专业化成长。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 417]])
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 促进与参与教师的学习与发展（promoting and participating in teacher learning and development）对学生[[Academic Achievement\|学业成绩]]的[[Effect Size\|效应量]]高达 **ES = 0.84**（SE = 0.14），是唯一具有高度影响力的维度。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 417]])
 > - 确立目标与期望（establishing goals and expectations）的效应量为 **ES = 0.42**（SE = 0.07）。
 > - 规划、协调与评估教学及课程（planning, coordinating, and evaluating teaching and the curriculum）的效应量为 **ES = 0.42**（SE = 0.06）。

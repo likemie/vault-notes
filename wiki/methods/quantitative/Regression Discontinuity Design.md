@@ -90,7 +90,7 @@ updated: 2026-10-17
 > - **[[Unit of Analysis\|分析单位]]** 处于驱动变量连续分布中的学生个体、班级或学校集群。
 > - **输出形式** 断点处因果跃升跳跃估计值 $\tau_{\text{RDD}}$、局部线性回归斜率、最优带宽（Optimal Bandwidth）及 McCrary 密度检验统计图。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 断点回归设计是准实验方法中[[Internal Validity\|内部效度]]最接近随机实验的设计。当受试者依据连续测量分数的固定切分点被分配到不同处理时，只要驱动变量与结果变量的关系在断点处可被准确建模，断点处的跳跃就能提供因果效应的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, pp. 320–321)]]
 >
 > *Regression discontinuity designs exploit exogenous administrative cutoffs on continuous running variables to [[Construct]] [[Counterfactual\|counterfactuals]]. In the neighborhood of the cutoff, assignment is as good as random, allowing identification of local average treatment effects with causal rigor rivaling randomized trials.*

@@ -285,17 +285,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 主观性向多元论的极速渗透（投毒隐喻）
+> [!citation-card] 主观性向多元论的极速渗透（投毒隐喻）
 > 正如 Chandler et al. (1990)从理论层面所提出的假设，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
 > 
 > *A second explanation is one argued on theoretical grounds by Chandler, Boyes, and Ball (1990), namely that this transition occurs very rapidly; once the “well is poisoned,” as Chandler et al. put it, by the acknowledgment of subjectivity, the movement toward the [[Multiplist]] position of total subjectivity occurs very rapidly.*
 
-> [!citation-card]- [[Epistemology\|认识论]]反转序列的心理学机制
+> [!citation-card] [[Epistemology\|认识论]]反转序列的心理学机制
 > 在从多元论向评价论的转变中，情况则形成对比，此时的发展任务是认识并重新整合认知的客观维度。这里可以预测一个完全相反的获得顺序。在面对多种观点时，在真理判断领域（物理与社会）认识到客观标准的可能性也许是最容易的。
 >
 > *In the transition from multiplist to [[Evaluativist]], in contrast, the developmental task is one of recognizing and reintegrating the objective dimension of knowing. Here an order of attainment exactly the reverse might be predicted. It may be easiest to recognize the possibility of objective criteria (in the face of [[Multiplicity]] of views) in the domain of truth judgments.* (p. 314)
 
-> [!citation-card]- 当代社会价值与多元论的共谋
+> [!citation-card] 当代社会价值与多元论的共谋
 > 在西方文化中盛行的知识气候和价值观是值得指出的一个显著因素……现代社会中，“宽容”与“接纳”的价值观可能与客观评估的价值观相互竞争，体现为“求同存异（live and let live）”和“各有所好”的格言。现代社会有很多迹象表明，后者压过了前者，导致超越多元论层次的智识发展受到抑制。
 >
 > *One factor we would point to as salient is the intellectual climate and values that prevail in Western culture... Competing perhaps with this set of values in modern society are the values of social tolerance and acceptance — reflected in the “live and let live” and “to each his own” adages... resulting in an [[Cognitive Inhibition\|inhibition]] of intellectual development beyond the multiplist level.* (p. 325)

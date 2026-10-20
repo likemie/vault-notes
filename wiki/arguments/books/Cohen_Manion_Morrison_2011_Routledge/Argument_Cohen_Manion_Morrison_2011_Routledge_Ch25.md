@@ -78,7 +78,7 @@ updated: 2026-10-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第25章　[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第25章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25_Concept_Map.jpg)
 
 ## 章节内容
@@ -139,7 +139,7 @@ updated: 2026-10-16
 
 #### 基本公设与关键术语
 
-> [!claim] 基本公设
+> [!claim|lead] 基本公设
 > 一个人的心理过程由他或她预期事件的方式所引导。（p. 5）
 >
 > *A person's processes are psychologically channelized by the ways in which he or she anticipates events.*
@@ -153,10 +153,10 @@ updated: 2026-10-16
 > [!def] Repertory Grid 的本质定义
 > Repertory grid 本质上是元素与构念之间关系的表征。它提供的信息可用于理解一个人的心理过程如何被其预期事件的方式所引导。理论提供了理解网格中发生了什么的概念工具，但这并非使用网格的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 5, 18）。
 
-> [!example]- 图25.1　简易网格布局
+> [!example] 图25.1　简易网格布局
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-1_Simple_Grid_Layout.jpg)
 
-> [!example]- 图25.2　一份已完成网格
+> [!example] 图25.2　一份已完成网格
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-2_Completed_Grid.jpg)
 
 > [!info] 评分形式的典型指导语
@@ -408,7 +408,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 
 #### 聚类分析：元素间距离的层次结构
 
-> [!example]- 图25.3　网格聚类表征
+> [!example] 图25.3　网格聚类表征
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-5_Figure_25-3_Grid_Cluster_Representation.jpg)
 
 > [!info] 图25.3 的元素聚类结构（元素间欧几里得距离的层次聚类树状图）
@@ -422,7 +422,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!info] 自认同图的功能
 > 当网格中包含现在的自我和理想自我作为元素时，二者之间的差异可作为自尊的测量。以自我和理想为参考轴，可绘制其他元素的位置，观察不同元素在自我-理想空间中的分布。
 
-> [!example]- 图25.4　自认同图
+> [!example] 图25.4　自认同图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-6_Figure_25-4_Self-Identity_Plot.jpg)
 
 ---
@@ -432,7 +432,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!info] Slater（1964）的主成分/奇异值分解方法
 > 该方法将元素和构念同时表示在一个空间中。元素始终为点，构念有多种表示方式，最常见的两种是：对称于原点的线段（两端代表构念极点）或包围元素的圆上的点（p. 11）。
 
-> [!example]- 图25.5　元素与构念的空间表征
+> [!example] 图25.5　元素与构念的空间表征
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-7_Figure_25-5_Spatial_Representation.jpg)
 
 > [!info] 图25.5 的解读（使用 Idiogrid 程序绘制）
@@ -625,7 +625,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 >
 > 关键评价模型（含程序要素的连接）为进一步从用户视角评估搜索引擎提供了研究框架（p. 15）。
 
-> [!note]- 同章另一项阶梯法应用
+> [!note] 同章另一项阶梯法应用
 > 本章的阶梯法应用共两项。Voss et al.（2007）的阶梯法研究因聚焦学生期望的讲师品质，已归入教师与教学专业认知主题。
 
 ---
@@ -665,7 +665,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > - Butt（1995）指出了阶梯法在过程层面的问题
 > - van Rekom and Wierenga（2007）指出阶梯法产生的层级蕴含存在后续问题，阶梯法识别的上属-从属关系可能在逻辑上并不严格成立（p. 18）
 
-> [!note]- 实践问题并非网格独有
+> [!note] 实践问题并非网格独有
 > Yorke（1978）识别的上述实践问题需要说明：它们并非网格方法所独有，也出现在其他数据收集方法中（p. 17）。
 
 ---
@@ -691,42 +691,42 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 
 ## 关键引用
 
-> [!citation-card]- [[Personal Constructs\|个人建构]]的定义与个体性
+> [!citation-card] [[Personal Constructs\|个人建构]]的定义与个体性
 > 个人建构是我们用于概念化日常生活中各个方面的维度，人对事件的建构各不相同。（第25章，25.1节；Kelly, 1955）
 >
 > *Personal [[Construct\|constructs]] are the dimensions that we use to conceptualize aspects of our day-to-day world, and, as Kelly writes, people differ from each other in their construction of events.*
 
-> [!citation-card]- 基本公设，整个理论体系的基石
+> [!citation-card] 基本公设，整个理论体系的基石
 > 一个人的心理过程由他或她预期事件的方式所引导。（第25章，25.1节；Kelly, 1955）
 >
 > *A person's processes are psychologically channelized by the ways in which he or she anticipates events.*
 
-> [!citation-card]- 人即科学家，教育的实验性本质
+> [!citation-card] 人即科学家，教育的实验性本质
 > 对人类行为的终极解释在于审视人的事业、他提出的问题、他发起的探究路线以及他采用的策略。（第25章，25.1节；Kelly, 1969）
 >
 > *The ultimate explanation of human behaviour lies in scanning man's undertakings, the questions he asks, the lines of inquiry he initiates and the strategies he employs.*
 
-> [!citation-card]- [[Repertory Grid Technique\|repertory grid]] 的双向数据优势
+> [!citation-card] [[Repertory Grid Technique\|repertory grid]] 的双向数据优势
 > 元素之间的关系可以通过构念集合加以评估，因为每个元素在整组构念上都有信息。反过来，构念之间的关系也可以通过元素集合提供的信息加以考察。（第25章，25.2节）
 >
 > *Relationships between elements can be assessed, since there is information about each element provided by the set of constructs. Conversely the relationships between constructs can be examined through the information provided for each construct by the set of elements.*
 
-> [!citation-card]- 引发与提供构念的调和立场
+> [!citation-card] 引发与提供构念的调和立场
 > 构念必须在组情境中提供，如果需要组数据的话。（第25章，25.3节；Fransella et al., 2004, p. 48）
 >
 > *Constructs have to be supplied in a group context if group data is required.*
 
-> [!citation-card]- 偏斜性不是方法缺陷
+> [!citation-card] 偏斜性不是方法缺陷
 > Bell（2004a）展示了偏斜性与组织推论暗示的上属-从属关系相关联。不应强制要求平衡分配。（第25章，25.3节）
 >
 > *It has been shown that lopsidedness is associated with the super- and sub-ordinate relationships implied by Kelly's organizational corollary.*
 
-> [!citation-card]- 个体性与共同性的根本张力
+> [!citation-card] 个体性与共同性的根本张力
 > 完全从受访者引发的网格是该人建构的最有效表征。然而研究通常要求跨受试者复制。（第25章，25.6节）
 >
 > *A grid which is elicited wholly from the respondent is the most valid representation of that person's construing. However research often demands replications across subjects.*
 
-> [!citation-card]- 理论与方法的张力，术语过多是真正的弊端
+> [!citation-card] 理论与方法的张力，术语过多是真正的弊端
 > 理论可用于理解网格中正在发生的事情，但并非使用网格的[[Necessary and Sufficient Conditions\|必要条件]]。该领域作者的真正弊端往往在于术语过多，例如 Bannister 将构念间平均相关命名为强度（intensity）。（第25章，25.6节）
 >
 > *The theory can be used to understand what is happening in the grid, but of course it is not essential to its use. The real drawback to the [[Personal Construct Theory]] background of writers in this area is often with the jargon employed.*

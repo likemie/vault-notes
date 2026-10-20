@@ -67,7 +67,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体、组织；通常以组别（处理组/对照组，或按因变量高低分组）为比较单位。
 > - **输出形式** 组间差异比较、相关关系、可能的因果推断（试探性而非确定性）。
 
-> [!citation-card]- Kerlinger（1970）的定义
+> [!citation-card] Kerlinger（1970）的定义
 > 事后回溯研究被定义为自变量已经发生、研究者从因变量的观察出发、回溯研究自变量与因变量可能关系的方法。研究者从已发生的结果逆向推断可能的原因，通过逐一检验和排除来锁定最可能的因果因素（p. 305）。
 >
 > *Ex post facto research is that in which the independent variable or variables have already occurred and in which the researcher starts with the observation of a dependent variable or variables. She then studies the independent variable or variables in retrospect for their possible relationship to, and effects on, the dependent variable or variables.*

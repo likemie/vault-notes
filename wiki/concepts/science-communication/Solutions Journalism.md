@@ -56,7 +56,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者分析公众信息回避背后的心理防御机制、科技成果如何向公共政策与公民赋能转化，以及科学传播如何兼顾希望引导与反思批判。
 > - **边界** 严禁退化为缺乏证据支撑的企业公关通稿（[[Participatory Research\|PR]]）、非黑即白的英雄主义吹捧（Hero-worship）或廉价的情感慰藉（Fluff）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 权威调研一致表明，公众的新闻回避行为与负面轰动报道所带来的绝望与无力感紧密相关；受众真正期望从新闻中获得的是解决方案与行动希望。科学研究在回应重大社会挑战方面具有天然优势，是新闻界走出流量恶性竞争、赢回公众信任的核心力量。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59, 63)]]
 >
 > *Authoritative sources consistently identify news avoidance as linked to negativity and despair when what those people want from news are solutions and hope. Science is especially well placed to deliver these kinds of stories to news media.*

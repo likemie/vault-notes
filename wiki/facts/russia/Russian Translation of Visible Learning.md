@@ -128,7 +128,7 @@ updated: 2026-10-17
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法防范** 阻止了俄联邦盲目将 $d=0.40$ 等指标机械载入国家督导考核体系，警示决策层避免重蹈澳大利亚过度指标化的覆辙。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 > - **思想[[Paradigm|范式]]变迁** 打破了俄罗斯教育界对西方证据“盲目崇拜”的信息差，促成从单纯概念引介转向对[[Meta-meta-analysis|二阶元分析]]统计底层与[[Ecological Validity|生态效度]]的审慎反思。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238)]]
 > - **社会结构重塑** 揭示了基层教师去专业化危机的深层机制，为维护[[Normal School|师范教育]]传统地位与减轻教师报表负担提供了学理支持。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]

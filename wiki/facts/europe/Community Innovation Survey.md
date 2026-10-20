@@ -61,5 +61,5 @@ updated: 2026-10-16
 ---
 ## 在创新研究中的应用
 
-> [!note]-
+> [!note]
 > CIS 数据被广泛用于检验创新理论、分类法和政策假设。[[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]使用 CIS 的六个创新[[Variable\|变量]]——内部研发占创新支出比重、创新产品占营业额比重、流程创新企业占比、新设备投资企业占比、以供应商为创新来源的企业占比、以降低劳动力成本为目标的企业占比——进行主成分分析，验证了修订版 [[Pavitt Taxonomy]] 的有效性。其他典型应用包括创新与就业关系研究（Bogliacino & Pianta, 2010）和创新与生产率关系研究（Bogliacino & Pianta, 2011）。

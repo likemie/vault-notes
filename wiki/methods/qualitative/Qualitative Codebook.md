@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究团队建立共享解释共识，消除编码员间漂移，控制认知负荷，并为[[External Auditor\|外部审计]]提供方法论透明度。
 > - **边界** 编码手册并非僵化封闭的教条体系，亦非脱离情境的孤立字词词典；不适于完全替代针对复杂互动时序的整体叙事[[Rich and Thick Description\|深描]]。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 质性编码手册包含预设编码列表及其操作定义，用于在数据分析中最大化[[Intercoder Agreement\|编码一致性]]，尤其是在涉及多位编码者团队协作的情境下。（Guest et al., 2012；引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 211]]）
 >
 > *A codebook is a table that contains a list of predetermined codes that researchers use for coding data. The codebook serves to provide definitions of codes and to maximize coherence among codes—especially when multiple coders are involved.*

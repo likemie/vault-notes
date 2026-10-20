@@ -66,7 +66,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]-
+> [!note]
 > - **1984 提出** Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Astin, 1984）
 > - **1991 Kuh 发展** Kuh 在 Astin 基础上发展[[Student Engagement\|学生投入]]理论，将涉入概念进一步[[Operationalization\|操作化]]为可观察的行为指标，并强调学校的制度性支持角色（，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2023 中国教育研究应用**[[Yajun Zheng\|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用
@@ -87,7 +87,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"大学冲击"（college impact）研究[[Paradigm\|范式]]，关注大学环境如何通过学生的主动参与来影响其发展结果
 > - 该理论为后续 [[Student Engagement]]（Kuh, 1991）和 [[Academic and Social Integration]]（Tinto, 1993）的实证[[Operationalization\|操作化]]提供了"能量"维度的理论基础（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 

@@ -85,7 +85,7 @@ updated: 2026-10-20
 >
 > *When seeking to generate knowledge and other epistemic products (evidence, models, theories, etc.), people use a variety of epistemic processes... Epistemic processes lie on a continuum of reliability with highly reliable processes at one end and highly unreliable processes at the other. For any potentially reliable epistemic process, there are typically many conditions that must be met for the process to be reliable... Higher quality arguments are those that appropriately evaluate whether reliable epistemic processes have been used, or at least ask questions about whether such processes have been used.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Epistemic Ideals]]：可靠认识论过程关注知识生成的“方法论手段”（如通过多地点长期布点提升物种监测可靠性），而认识论理想关注最终评价的“品质要求”（如分类精准性与数据无偏性）。
 > - 不等于 抽象方法论公式：认识论过程的可靠性不是孤立抽象的教条，而是高度情境化且依附于具体物理环境与学科知识的（如双[[Blinding\|盲法]]在药物[[Clinical Trial\|临床试验]]中极度可靠，但在心理动力学心理治疗中因无法设置有效安慰剂而可能失效）。
 

@@ -60,7 +60,7 @@ updated: 2026-10-20
 > - **核心角色** [[Confucius\|孔子]]与[[Mencius\|孟子]]之后最重要的儒家思想家；整合宋代理学碎片，将儒家[[Self-Cultivation\|修身]]路径标准化为完整的[[The Great Learning\|八条目]]链条；编纂《四书》主导中国教育近千年。
 > - **代表贡献** 编纂《四书集注》并确立其正统地位；提出“格物致知”作为认知的起点；系统化“格物→致知→诚意→正心→修身→齐家→治国→平天下”的[[Self-Cultivation\|修身]]链条；主张“人人皆可为圣”。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 朱熹可能是孔子和孟子之后最著名的儒家思想家。在儒学经历了近千年的式微之后，朱熹整合前人的思想碎片，将儒家学习路径系统化为一条从格物到平天下的完整修养链条。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 43–44, 47)]]
 >
 > *“Zhu Xi was perhaps the most famous Confucian philosopher after Confucius and Mencius... He integrated the fragments of earlier thinkers and systematized the Confucian learning path into a complete chain from the investigation of things to bringing peace to the world.”*
@@ -95,10 +95,10 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 朱熹在四个关键维度上完成了新儒学的系统整合：第一，提出“格物致知”，将探究天理与事物物理确定为[[Self-Cultivation\|修身]]的必要起点；第二，提炼《大学》“[[The Great Learning\|八条目]]”链条（格物→致知→诚意→正心→修身→齐家→治国→平天下），以修身为连接内在修养与社会实践的枢纽；第三，主张“[[Sage\|圣人]]可及”，宣称天赋予所有人的禀赋相同，人人皆有责任成为[[Sage\|圣人]]；第四，将读书上升为严肃的修身天职[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 43–47)]]。
 
-> [!citation-card]- 关键表述：圣人可及与读书天职
+> [!citation-card] 关键表述：圣人可及与读书天职
 > 许多人觉得成为圣贤的目标太高远，认为自己不配。因此，他们不做任何努力向它前进……然而，天赋予所有人的禀赋是相同的……一个人怎能不自己承担成为圣贤的责任呢？[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47 引朱熹)]]
 >
 > *“Many feel that the goal of becoming a sage is too lofty and unattainable... However, Heaven has endowed all people with the same nature... How can one not take upon oneself the responsibility to become a sage?”*
@@ -123,7 +123,7 @@ updated: 2026-10-20
 > - **政策与课程路径** — 当代国家教科书将朱熹及其四书集注作为“中华文明理学高峰”进行官方正统化讲授[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 > - **跨文化反思路径** — de Bary 等学者将其解释为“个体是自我决定的道德能动者”[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 46)]]；然而在当代实证研究中，少数民族与信教学生反思指出，朱熹式理学给人们施加了过度的“道德束缚”（moral constraints），且缺乏对生死起源等灵性领域的终极安顿[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 70)]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析朱熹的四书编纂、格物致知与[[The Great Learning\|八条目]]框架对东亚学习模型的系统化贡献。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 揭示朱熹理学在当代教科书中的[[Official Knowledge\|官方知识]]定位，以及信教学生从佛教与伊斯兰教视角对其“道德束缚”与“灵性缺失”的批判解构。
 
@@ -148,7 +148,7 @@ updated: 2026-10-20
 > > - **朱熹（南宋）** — 主张“格物致知”，认为天理散于万物，必须通过读书与探究事物物理来推扩认知[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 43)]]。
 > > - **[[Wang Yangming\|王阳明]]（明代）** — 批判朱熹之学繁琐支离、脱离[[Self-Cultivation\|修身]]本质，主张“心即理”与“知行合一”，认为良知本具，无需外求。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生批判指出，朱熹式理学主导的学校课程倾向于强调严苛的道德束缚，而无法提供赋予灵魂解放的灵性力量（如佛教），亦无法解答宇宙起源与生死的终极问题（如伊斯兰教）。
 > - 思想史批判 — 制度化的[[Neo-Confucianism\|程朱理学]]在明清时期被[[Civil Service Examination\|科举]]体制固化，一定程度上限制了思想多样性与科学实证萌芽。
 

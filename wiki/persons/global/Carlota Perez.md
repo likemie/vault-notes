@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **核心角色** [[Techno-economic Paradigm|技术-经济范式]]理论与技术革命长波周期的开创者。
 > - **代表贡献** 提出重大技术革命必引发社会制度框架“制度滞后”的动态假说，与 [[Chris Freeman]] 合作系统构建了新[[Joseph Schumpeter|熊彼特]]长波[[Paradigm|范式]]模型。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 佩雷斯（Perez, 1983）深刻指出，适合某一套技术的社会与制度框架，绝不可能同样适合一套激进的全新技术。渐进式创新很容易被吸收，但激进创新因其内含的‘[[Creativity|创造性]]破坏’本质，必然在结构与社会调适上面临巨大阻力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 >
 > *Perez (1983) has pointed out that the social and institutional framework which is hospitable to one set of technologies will not be so suitable for a radically new technology. Whereas incremental innovations can be easily accommodated, this may not be the case with radical innovations which by definition involve an element of [[Creative Destruction]].*
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 重大技术革命的扩散是一场涉及技术经济子系统与社会制度子系统的动态博弈；激进技术创新的集群爆发必然导致与旧管理模式、法规与教育体系的深刻“结构失调”；技术[[Paradigm|范式]]能否成功转化为普遍繁荣，根本取决于国家能否主动开展广泛的组织创新与制度试错。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
 
 > [!citation-card] 佩雷斯论技术范式与制度试错
@@ -112,7 +112,7 @@ updated: 2026-10-20
 > - **政策路径** 其制度滞后与绿色技术[[Paradigm|范式]]转型理论被 [[OECD]]、[[EU|欧盟]]委员会及联合国贸发会议（UNCTAD）广泛采纳为产业与科技政策制定的理论参考。
 > - **教育研究启示** 揭示了职业技能培训与[[Engineering Education|工程教育]]若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引佩雷斯关于制度框架滞后的论断，阐释为什么微电子革命必须伴随着国家层面的教育调适、组织变革与多样性公共政策保障。
 
 ---

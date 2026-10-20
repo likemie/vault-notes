@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]-
+> [!tip]
 > - [[Cognitive Source\|认知来源]] — Mind Efficacy and Virtue Efficacy 分别对应两种认知来源：前者以心智为合法性来源，后者以美德为合法性来源
 > - [[Learning Virtues\|学习美德]] — Virtue Efficacy 是学习美德理论在家庭社会化中的具体运作
 > - [[Chinese Learner\|中国学习者]] vs [[Western Learner\|西方学习者]] — 两种归因模式分别塑造了两类学习者的学习信念和学习行为

@@ -327,7 +327,7 @@ Morrison (2006) 在敏感教育研究中具体发现了十五项与守门人相�
 > 14. 研究者的权力/地位——如研究者是初级或高级职员，或在教育界有影响力的人物
 > 15. 条件性准入导致研究者失去对研究议程的控制
 
-> [!tip]- 实用主义妥协：Lee 的建议
+> [!tip] 实用主义妥协：Lee 的建议
 > Lee (1993, p. 127) 的建议是现实主义的：研究者可能需要做一些让步——做一点守门人要求的事，总比根本无法做研究要好。但这是"程度"问题——在不可协商的伦理底线之内寻找可妥协的空间。
 
 ---
@@ -454,7 +454,7 @@ Doc 参与了写作过程——Whyte 将论文草稿拿给 Doc 审阅，其批�
 
 研究者的责任是：确保**即使读者试图**重新组合细节以识别受访者，也**无法做到**。这比通常意义上的保密标准更高：它要求研究者在报告发布前主动审查和修改描述性细节，消灭演绎披露的可能性，而不只是在报告中做出[[Confidentiality|保密承诺]]。
 
-> [!boundary] 匿名化的边界：当识别不可避免时
+> [!boundary]- 匿名化的边界：当识别不可避免时
 > 在某些情况下，学校和参与者**不可避免地**是高度独特且可识别的。Whitty and Edwards (1994, p. 22) 在研究精英独立学校时面临这一边界——这些学校本身就具有高度独特性，任何描述性细节的修改都无法掩盖其身份。在这种情况下，匿名化策略失效——可能需要就该信息的披露获得参与者的明确许可。但即使获得了许可，披露仍可能对学校和参与者造成伤害。
 
 ---
@@ -645,7 +645,7 @@ Hart (1992) 的"[[Hart's Ladder of Participation|参与阶梯]]"（Ladder of Par
 > [!case] 替代性实践：香港贫困研究的包容性设计
 > 香港贫困研究（Sequeira et al., 1996）提供了替代性实践的案例：研究者在参与者自己的家中进行结构化访谈。这一设计选择有意识地对抗了无权群体研究中的权力不对称，参与者在自己熟悉的环境中接受访谈，而非被带入研究者的场地。研究者前往参与者的空间，这一行为本身就是对无权群体表示尊重（p.225）。
 
-> [!tip]- 与无权群体沟通的操守
+> [!tip] 与无权群体沟通的操守
 > 研究者需要避免居高临下、恩赐、权力支配或傲慢的态度。这既关乎非语言行为、着装，更关乎语言选择：语言应具有包容性，但不能显得刻意做作或人造。数据是礼物，不是权利（data are gifts, not entitlements）。研究者必须以尊重进行研究，给予参与者尊严，同时不对参与者做出不能兑现的承诺（p.225）。
 
 ---
@@ -654,7 +654,7 @@ Hart (1992) 的"[[Hart's Ladder of Participation|参与阶梯]]"（Ladder of Par
 
 前六节讨论主要停留在概念、伦理和策略层面。以下将这些讨论转化为具体的操作技术（pp.226–229）。
 
-> [!tip]- 核心原则：敏感研究更需要面对面访谈
+> [!tip] 核心原则：敏感研究更需要面对面访谈
 > 一个看似矛盾的发现：研究越敏感，越有必要采用面对面访谈收集数据——即使匿名问卷可以让参与者私下、独立、深入和诚实地回应，即使面对面访谈在涉及某些敏感议题时可能非常具有威胁性以至于诚实或完整的回答不太可能（p.226）。其背后的逻辑是：敏感研究需要信任，而信任需要人际接触。问卷虽然保护隐私，但它无法建立研究者和参与者之间的信任关系——后者正是敏感数据的质量保障。
 
 ---
@@ -668,7 +668,7 @@ Sudman and Bradburn (1982, pp. 50–51) 提供了问题设计的实证基础（p
 > 2. **长问题优于短问题** 长问题更适合询问**行为（behavior）**，可以包含例子供受访者回应；短问题更适合收集**态度（attitudes）**。长问题可以减少敏感话题行为频率的**低报**——例如教师使用酒精或药物的情况。
 > 3. **使用熟悉的词汇** Lee (1993, p. 78) 倡导使用受访者熟悉的日常语言——降低处理敏感话题时的威胁感，帮助受访者更放松。
 
-> [!warning]- 长问题的风险
+> [!warning] 长问题的风险
 > 研究者必须谨慎避免用长篇问卷或访谈使参与者疲惫、情感耗竭或受到压力——这在敏感话题上尤其容易发生。
 
 ---
@@ -696,7 +696,7 @@ Lee (1993, p. 79) 推荐的 Vignettes 是敏感研究提问的核心创新（p.2
 > - **背景与身份** 专业背景、机构归属、政治倾向、职业或志业类型（如 McHugh 的牧师身份）。
 > - **访谈者期望（关键实证发现）** Bradburn & Sudman (1979, 引自 Lee, 1993, p. 101) 报告了一个引人注目的发现：**不预期访谈困难的访谈者，在敏感话题上的信息报告率比预期困难的访谈者高 5–30%**。这意味着访谈者自身的预期——焦虑、不适、预判——直接且显著地影响数据质量。由此得出的结论是：访谈者培训是敏感研究数据质量的直接决定因素。
 
-> [!warning]- 非语言沟通与反移情
+> [!warning] 非语言沟通与反移情
 > 研究者在访谈中的非语言沟通可能至关重要。他们不能流露出判断、支持或谴责的暗示。他们必须避免**反移情（counter-transference）**——将研究者自己的观点、价值观、态度、偏见和背景投射到研究情境中。
 
 ---
@@ -755,42 +755,42 @@ Lee (1993, pp. 102–114) 将敏感访谈的操作总结为四个需要逐一处
 
 ## 关键引用
 
-> [!citation-card]- [[Sensitive Research\|敏感研究]]的定义
+> [!citation-card] [[Sensitive Research\|敏感研究]]的定义
 > 敏感研究是"可能对已经或曾经参与其中的人构成实质性威胁"的研究。（Lee, 1993, p. 4）
 >
 > *Sensitive research is that "which potentially poses a substantial threat to those who are involved or have been involved in it."*
 
-> [!citation-card]- 社会情境决定敏感性
+> [!citation-card] 社会情境决定敏感性
 > 敏感性不仅关乎话题本身，更关键的是"该话题与研究在其中进行的社会情境之间的关系"。对研究者看似无害的话题，可能对研究对象或第三方高度敏感。（Lee, 1993, p. 5）
 >
 > *The sensitivity not only concerns the topic itself, but, perhaps more importantly, "the relationship between that topic and the social context" within which the research is conducted.*
 
-> [!citation-card]- 研究是人际关系的持续协商
+> [!citation-card] 研究是人际关系的持续协商
 > 做研究不仅是设计项目、收集、分析和报告数据——那是理想主义的天真或无知；研究是人际关系的持续协商、微妙关系的建立与维持、挫折、修正和妥协。在理想世界中研究者可以不受阻碍地规划和实施研究；然而理想世界，用诗人叶芝的话说，是"空气的形象"。（p.202）
 >
 > *Doing research is not only a matter of designing a project and collecting, analysing and reporting data – that is the optimism of idealism or ignorance; it is a matter of interpersonal relations, potentially continual negotiation, delicate forging and sustaining of relationships, setback, modification and compromise.*
 
-> [!citation-card]- Doc 的担保[[Discourse|话语]]
+> [!citation-card] Doc 的担保[[Discourse|话语]]
 > "你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你不会有任何麻烦。你以朋友的身份进来。"（Whyte, 1993, p. 292）
 >
 > *"You tell me what you want me to see, and we'll arrange it. When you want some information, I'll ask for it, and you listen. When you want to find out their philosophy of life, I'll start an argument and get it for you... You won't have any trouble. You come in as a friend."*
 
-> [!citation-card]- [[Covert Research\|隐蔽研究]] vs 间谍活动
+> [!citation-card] [[Covert Research\|隐蔽研究]] vs 间谍活动
 > "间谍活动是意识形态主动的，而研究是意识形态天真的。"间谍旨在推进特定价值体系或意识形态；研究旨在理解而非说服。（Mitchell, 1993, p. 46）
 >
 > *"Spying is ideologically proactive, whereas research is ideologically naïve." Spies seek to further a particular VALUE system or ideology; research seeks to understand rather than to persuade.*
 
-> [!citation-card]- 访谈是权力游戏的延伸
+> [!citation-card] 访谈是权力游戏的延伸
 > "我们需要承认……访谈是'权力游戏'的延伸而非与之分离，只是对其的评注……访谈既是[[Ethnography\|民族志]]事件，也是政治事件。"（Ball, 1994b, p. 113）
 >
 > *"We need to recognize... the interview as an extension of the 'play of power' rather than separate from it, merely a commentary upon it... the interview is both an ethnographic... and a political event."*
 
-> [!citation-card]- 有权者在访谈中的优势
+> [!citation-card] 有权者在访谈中的优势
 > "有权者习惯于自己的意见被重视。他们善于应对访谈者，回答问题并回避特定问题以服务于自身目的，以有利的方式呈现自己的角色。他们对学术研究的内容了然于心，熟悉被访谈和被录音。总之，他们在教育世界中的权力在访谈情境中得到回响，访谈对其地位几乎没有威胁。"（Walford, 1994c, p. 225）
 >
 > *"Those in power are well used to their ideas being taken notice of. They are well able to deal with interviewers, to answer and avoid particular questions to suit their own ends, and to present their own role in events in a favourable light... In sum, their power in the educational world is echoed in the interview situation, and interviews pose little threat to their own positions."*
 
-> [!citation-card]- 伦理的情境性
+> [!citation-card] 伦理的情境性
 > 伦理是"情境化的"（situated），即取决于具体的地方环境和情境。它们必须在具体情况的特殊性中协商和解决；普适指南可能有帮助，但通常不解决实际问题。（Simons & Usher, 2000）
 >
 > *Ethics are "situated" (Simons & Usher, 2000), i.e. contingent on specific local circumstances and situations. They have to be negotiated and worked out in relation to the specifics of the situation; universal guidelines may help but they don't usually solve the practical problems.*

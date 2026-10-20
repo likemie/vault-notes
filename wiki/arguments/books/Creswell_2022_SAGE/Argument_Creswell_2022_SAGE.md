@@ -309,7 +309,7 @@ citation_aliases:
 
 第1章建立全书的概念框架，回答一个核心问题：研究者如何选择适合自己的研究路径？答案涉及四个层次的分析——从最底层的基本信念，到中间层的研究设计类型，再到最上层的具体操作技术，最后统合为三条完整的研究路径，并依据研究问题、个人背景和受众做出最终选择。
 
-> [!example]- 图1.1：研究框架——世界观、设计与研究方法的互联
+> [!example] 图1.1：研究框架——世界观、设计与研究方法的互联
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.jpg)
 
 图 1.1 呈现了全书的组织框架：哲学世界观、研究设计、研究方法三者相互连接，共同构成研究路径。世界观（[[Postpositivism|后实证主义]]、[[Constructivist Paradigm|建构主义]]、[[Transformative Paradigm|变革主义]]、[[Pragmatic Paradigm|实用主义]]）位于顶层，向下连接具体的设计类型（量化实验/调查、质性民族志/现象学等、混合方法序列/聚敛式），底层是数据收集、分析和解释的具体方法。
@@ -354,7 +354,7 @@ citation_aliases:
 > “[[Mixed Methods Research\|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或整合）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences\|元推论]]）。”
 > ("Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases.")（第1章, p.5）
 
-> [!note]- 连续谱而非二分
+> [!note] 连续谱而非二分
 > 量化和质性不宜视为截然对立或互斥的范畴，两者的区分常用"文字（质性）vs 数字（量化）"或"开放问题 vs 封闭问题"来表述。更完整的区分方式是从哲学假设、研究策略和具体方法三个层面来观察差异梯度。从历史看，量化路径在 19 世纪末至 20 世纪中期主导社会科学，20 世纪后半叶质性研究兴起，混合方法随之发展。
 
 ---
@@ -474,7 +474,7 @@ citation_aliases:
 > “优秀、扎实的研究项目始于直截了当、毫不复杂的想法，以便读者能够轻松理解。”
 > ("Good, sound research projects begin with straightforward, uncomplicated thoughts that readers can easily understand.")（第2章）
 
-> [!note]- 简单 vs 复杂的张力
+> [!note] 简单 vs 复杂的张力
 > 初学者容易用复杂晦涩的语言表述主题，但"Good, sound research projects begin with straightforward, uncomplicated thoughts." 发表的期刊文章之所以干净清晰，是因为经过了大量修改。
 
 ---
@@ -534,7 +534,7 @@ citation_aliases:
 > “日常语言中的词汇具有丰富的多重含义。就像其他符号一样，它们的力量来自于特定情境中意义的组合……科学语言表面上出于精确性的考虑，剥离了词汇的这种[[Multiplicity\|多重性]]意义。”
 > ("The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision.")(Firestone, 1987, p.17,引自第2章)
 
-> [!note]- "锁定"还是"涌现"？
+> [!note] "锁定"还是"涌现"？
 > 存在一个与文献综述平行的不对称性：量化研究要求在开头全面、精确地定义术语（锁定）；质性研究通常让术语在过程中涌现和定义（涌现）；混合方法视起始阶段而定。"术语定义"不仅是写作规范问题，也是认识论选择。
 
 ---
@@ -614,20 +614,20 @@ citation_aliases:
 
 三个视觉模型实例如下。
 
-> [!example]- Three Predictor Variables Influence a Single Dependent Variable Mediated by Two Intervening Variables
+> [!example] Three Predictor Variables Influence a Single Dependent Variable Mediated by Two Intervening Variables
 >![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-1_Three_Predictor_Variables.jpg)
 
-> [!example]- Two Groups With Different Treatment on X Are Compared in Terms of Y
+> [!example] Two Groups With Different Treatment on X Are Compared in Terms of Y
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-2_Two_Groups_Compared.jpg)
 
-> [!example]- A Visual Model of a Theory of Faculty Scholarly Performance
+> [!example] A Visual Model of a Theory of Faculty Scholarly Performance
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-3_Faculty_Scholarly_Performance_Model.jpg)
 
 基础调查模型展示三个自变量经两个中介变量影响一个因变量（图 3.1）。组间实验设计比较两组在 X 上的不同处理对 Y 的影响（图 3.2）。Jungnickel (1990) 构建了关于药学院教师研究生产力的复杂模型（图 3.3），区分了外生变量（exogenous，不被模型中其他变量引起）和内生变量（endogenous，影响其他变量）。
 
 关于**理论在量化研究中的位置**，量化研究以**演绎方式**使用理论，将理论置于研究方案的前端。
 
-> [!example]- The Deductive Approach Typically Used in Quantitative Research
+> [!example] The Deductive Approach Typically Used in Quantitative Research
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-4_Deductive_Approach.jpg)
 
 演绎模型（图 3.4）的四阶段是：研究者检验或验证理论 → 从理论推导假设或研究问题 → 定义并操作化变量 → 使用工具测量变量以检验假设。
@@ -661,7 +661,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 > “质性研究是一个归纳的过程，从数据建构出广泛的主题，再建构出普遍化的模型或理论。”
 > ("Qualitative research is an inductive process building from data, to broad themes, and to a generalized model or theory.")（第3章, p.66）
 
-> [!example]- The Inductive Logic of Research in a Qualitative Study
+> [!example] The Inductive Logic of Research in a Qualitative Study
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-5_Inductive_Logic_Research.jpg)
 
 归纳逻辑（图 3.5）从下往上依次是：收集详细信息 → 提出开放问题或记录[[Field Notes|田野笔记]] → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。
@@ -700,7 +700,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 世界观涉及研究者的信念和价值观，在抽象层面运作；理论较不抽象，从文献中提取，为研究设计诸多方面提供具体指导。
 
-> [!example]- Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
+> [!example] Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-6_Four_Levels_Research_Study.jpg)
 
 关于**理论驱动（theoretically driven）的争议**。Morse and Niehaus (2009) 主张所有混合方法研究都由理论驱动，要么量化为主，要么质性为主。另一种立场认为，这种取向在量化和质性之间制造了不健康的权力失衡，混合方法研究的核心优势恰恰在于给予两种研究形式同等的重要性。
@@ -813,7 +813,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 在介绍引言模板之前，Creswell 先讨论了置于引言之前的摘要。APA 出版手册称摘要可能是研究中最重要的单个段落（约 250 词），必须准确、非评价性、连贯、可读和简洁。实证研究方案的摘要包含五个核心组成部分：研究问题 → 数据来源与特征 → 方法核心特征 → 基本发现 → 结论与启示，并按此顺序呈现。
 
-> [!note]- 文献摘要与研究摘要
+> [!note] 文献摘要与研究摘要
 > 第2章讨论的摘要是文献综述中的加工工具；本章讨论的摘要是研究方案或论文开篇的全文概述。两者同名但功能不同。
 
 ---
@@ -822,7 +822,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 量化引言结构固定，问题源于理解哪些因素或变量影响某一结果，常以非个人视角、过去时态撰写。质性引言结构多样，问题涉及探索某一概念或现象。Morse(1991)概括了质性研究问题的四个特征：概念因缺乏理论和先前研究而"不成熟"；现有理论可能不准确或不适用；需要探索和描述现象并发展理论；现象本质可能不适合量化测量。质性引言可能以个人经验开头（如现象学研究），也可能使用变革性透镜审视问题（如性别薪酬不平等）。混合方法引言根据设计中哪一方的权重更大，灵活采用量化或质性路径。
 
-> [!note]- 差异是微妙的
+> [!note] 差异是微妙的
 > 三种路径引言的差异主要涉及呈现的研究问题类型不同。缺陷模型作为通用模板适用于所有三种路径。
 
 ---
@@ -833,7 +833,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 陈述研究问题时的常见误区：只识别文献中存在什么而非需要解决什么（例如青少年怀孕的普遍性是事实，"学校在接纳怀孕青少年方面做得很差"才是问题）；问题不清晰让读者自行判断重要性；混淆研究问题与研究问题句。
 
-> [!tip]- 撰写建议
+> [!tip] 撰写建议
 > 开篇句应激发兴趣并传达广泛受众能理解的议题；确保有明确的句子传达研究问题；第一页至少引用十几条参考文献来证明问题的重要性；确保问题框架与研究路径一致。
 
 **（二）综述文献中的证据。** 这不是完整的[[Literature Review|文献综述]]——完整综述出现在研究方案后面。引言中的文献综述应总结大的研究群组而非逐一详述个别研究，文内引用放在段落末尾以弱化单个研究。当"我的题目没有研究做过"时，可用[[Inverted Triangle Literature Search|倒三角策略]]从窄到宽逐层拓宽检索范围，先总结更宽泛的文献再以接近计划的狭窄研究收尾。优先回顾近 10 年的文献。
@@ -883,7 +883,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收窄：
 
-> [!example]- 图6.1：研究问题、目的陈述、研究问题与数据的关系
+> [!example] 图6.1：研究问题、目的陈述、研究问题与数据的关系
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_6-1_Problem_Purpose_Questions_Data.jpg)
 
 
@@ -897,7 +897,7 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 
 ...
 
-> [!note]- [[Nondirectional Language\|非方向性法则]]
+> [!note] [[Nondirectional Language\|非方向性法则]]
 > McCracken (1988) 提出质性研究中的[[Nondirectional Language\|非方向性法则]]（law of nondirection, p.21）：访谈者和目的陈述写作者很容易通过使用暗示方向性结果的词语而违反这一法则。
 
 > [!quote]
@@ -910,7 +910,7 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 > “与质性研究的话语方式相一致，应将该定义视为非固定不变的，而是尝试性的，并且在整个研究过程中会根据参与者的信息不断演变。”
 > ("Consistent with the rhetoric of qualitative research, view this definition as not fixed but tentative and evolving throughout a study based on information from participants.")（第6章, p.126）
 
-> [!tip]- 写作脚本
+> [!tip] 写作脚本
 > 脚本包含了一份陈述的主要词汇和观点，并为研究者插入其项目信息留出了空间。
 
 > [!quote]
@@ -931,12 +931,12 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 ...
 
-> [!note]- 构念与变量
+> [!note] 构念与变量
 > [[Construct]] 是变量在理论层面更抽象、更一般的意义表达(p.130)，代表不可直接观察的理论实体（如"动机""智力""[[Self-Efficacy\|自我效能]]"）。变量是构念在实证层面通过测量工具获得的可操作化数值表达。详细辨析见 [[Construct]] 条目。
 
 变量在量化目的陈述中的排列顺序反映因果关系的时间方向：自变量（原因）置于左侧，因变量（结果）置于右侧。中介变量位于两者之间。
 
-> [!tip]- 写作脚本与范例
+> [!tip] 写作脚本与范例
 > 量化目的陈述的 Script 将八个要素串联为一段可填空的模板。
 
 > [!quote]
@@ -964,7 +964,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 三种核心设计各自有填空式 Script，三个已发表范例(Classen et al., 2007; Ivankova & Stick, 2007; Enosh et al., 2015)及 Ivankova & Stick 的要素拆解见 [[Purpose Statement]]。
 
-> [!note]- 复杂设计的整合洞见
+> [!note] 复杂设计的整合洞见
 > 除三种核心设计外，混合方法还可以将质性或量化数据嵌入实验或评估等框架中，以丰富该框架或过程。。
 
 ---
@@ -1568,7 +1568,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 ---
 
 **第八步：写作策略。** 质性报告的基本程序是从数据中发展描述和主题，呈现多重视角和详细描述。
-> [!tip]- 六种写作策略
+> [!tip] 六种写作策略
 > (1) 引语；(2) 对话；(3) 多样化叙事形式（矩阵、比较表、图表）；(4) 第一人称代词；(5) 隐喻和类比；(6) 与特定策略相关的叙事形式(p.216)。
 
 ---

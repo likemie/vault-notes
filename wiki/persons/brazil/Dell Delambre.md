@@ -55,7 +55,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 > - 在巴西里约热内卢工作和生活，任职于 WTS Sustainable Business & Coaching([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105]])
 > - 2013–2020 年在里约热内卢开展多案例实践研究，涵盖个体发展、地方发展（通过 [[Ecomuseology\|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展和可持续发展([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.107]])
 > - 与巴西著名女演员和剧场导演 [[Camilla de Hollanda Amado]]（1941–2021）共同创立 Bora Bora em Bando 项目。Amado 的梦想是看到贫民窟知识被用于国家发展，该项目旨在帮助 Rocinha 贫民窟的 Bando Cultural Favelados da Rocinha 剧场团体获得社会可见度和认可。Amado 于 2021 年 6 月 6 日去世，享年 82 岁([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 > Delambre 的核心思想围绕张力作为存在和知识的基本条件展开，详见 [[Creative Tension of Sense#核心主张]] 和 [[Creative Tension of Sense#核心命题]]。其思想特点可概括为四个立场：
 >
 > 1. **诊断** 现代性的封闭理性已耗竭——环境危机本质上是[[Ways of Knowing\|认知方式]]的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.108–109]])

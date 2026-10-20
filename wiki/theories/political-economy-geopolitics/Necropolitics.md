@@ -54,7 +54,7 @@ updated: 2026-10-16
 > - **用途** 协助研究者分析国家同化政策如何系统性剥夺或终结少数民族的语言、文化与独特性。
 > - **边界** 不限于大规模肉体屠杀（Genocide），也涵盖强迫同化下的文化与语言灭绝。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > “主权的最终表达在很大程度上存在于决定谁可以活、谁必须死的权力和能力之中。”([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 98]])
 > 
 > *“The ultimate expression of sovereignty resides, to a large degree, in the power and the capacity to dictate who may live and who must die.”* (Mbembe 2003, p. 11)

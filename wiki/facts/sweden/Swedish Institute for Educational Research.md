@@ -52,7 +52,7 @@ updated: 2026-10-20
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2015 — Swedish Institute for Educational Research 建立([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 实施情况
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Educational Evidence Clearinghouses]] — 该机构是[[Systematic Review\|系统综述]]和传播型国家证据机构。
 > - [[Knowledge Mobilisation]] — 该机构通过传播和实践者对话推动研究知识进入学校。
 

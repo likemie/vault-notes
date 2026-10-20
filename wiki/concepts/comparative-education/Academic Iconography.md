@@ -61,7 +61,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者警惕教科书式起源神话，打破对奠基人物的非反思崇拜，透视被神话遮蔽的学术争论、制度妥协与边缘主体。
 > - **边界** 它不否定历史人物的实际贡献，而是批判将其神化为超越历史情境的学术图腾的非反思叙事；不等于一般的学术思想史。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 我们并不理解我们自己的肖像学。例如，[[Michael Sadler]] 爵士显然是一位优秀的公职人员和教育领袖……但我们在比较教育学中赋予了他令人震惊的重要性，尽管他那篇著名的演讲所造成的混乱远多于它所解答的问题。但他总是出现在正统历史之中，这本身就成了我们肖像学的社会建构这一历史问题。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 >
 > *We do not understand our own iconographies. For example, Sir Michael Sadler was clearly a fine public servant and an educational leader... but we give him an astounding importance in comparative education even though that famous essay of his (Sadler, 1964) has caused far more confusion than it has ever solved. But he is always in 'the histories', which itself becomes a historical problem of the social construction of our iconographies.*

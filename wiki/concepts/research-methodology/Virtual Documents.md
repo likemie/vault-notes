@@ -39,7 +39,7 @@ updated: 2026-10-20
 > [!def] 核心定义
 > 虚拟文献（virtual documents）指通过互联网以数字形式访问的[[Primary and Secondary Documents\|一手文献]]——即"一点鼠标即可获取"的历史或当代文献（Guardian, 2003）。它们是文献数字化和在线档案扩散的产物，在保持一手文献的内容特征的同时，改变了文献的物质载体和访问方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 11–12)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 一点鼠标即可获取的虚拟文献。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(Guardian, 2003, 转引自 p. 12)]]
 >
 > *Virtual documents, available at the click of a mouse.*

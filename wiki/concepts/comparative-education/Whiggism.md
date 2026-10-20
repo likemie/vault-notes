@@ -91,7 +91,7 @@ updated: 2026-10-20
 >
 > *The POST-war positivist narrative created a Whiggish myth of linear scientific progress, dismissing 19th-century pioneers as 'pre-scientific borrowers' by anachronistically imposing 20th-century quantitative criteria, thereby obscuring their foundational role as educational chroniclers and the moral-meliorist problematique of early comparative inquiry.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 历史主义（Historicism）** — 历史主义主张历史现象具有独特的个殊性与内生逻辑，要求依时代自身的原则理解过去；辉格史观恰恰取消了这种独立性，将历史降格为当代标准的注脚。
 > - **不等于立足当下的批判反思** — 批判史学允许研究者从当代教育危机出发提出探索性问题，但因果推导必须尊重当时历史行动者的思想地平线；辉格史观则是将当代答案直接强加给历史。
 > - **不等于 传统的发明（Invention of Tradition）** — 传统的发明特指政治或文化共同体为了当下正当性而主动虚构的象征符号与仪式；辉格史观更侧重于历史编纂认知过程中的无反思时代错置与线性格局。

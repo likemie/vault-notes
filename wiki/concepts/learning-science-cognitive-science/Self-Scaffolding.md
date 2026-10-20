@@ -54,7 +54,7 @@ updated: 2026-10-20
 > - **用途** 解释为什么高认知水平或高学段学习者在外显教学支架干预下表现出促学效应边际递减的现象。
 > - **边界** 自我脚手架属于成熟个体内在的[[Metacognition\|元认知]]与表征能力，不等于初学者面对未知任务时的盲目无支架探索。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 大学生具备高度成熟的表征技能，能够轻易自发构建空间隐喻来提取并组织关键观念，从而降低了外在[[Graphic Organizer\|图形组织器]]带来的相对促学增益（自我脚手架，Bickhard, 2013）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 >
 > *As university students have mature representation skills, they can readily create their own spatial metaphors to pick out key ideas and organize them, reducing the comparative benefit of an external graphic organizer (self-scaffolding, Bickhard, 2013).*

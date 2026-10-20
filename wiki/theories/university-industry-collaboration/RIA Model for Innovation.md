@@ -34,7 +34,7 @@ updated: 2026-10-16
 
 ## 核心主张
 
-> [!tip]-
+> [!tip]
 > [[Schlegel-UW Research Institute for Aging\|RIA]] 创新模型（RIA Model for Innovation）是 Schlegel-UW 老龄化研究所（RIA）在其 2022–2023 年影响报告中提出的四阶段框架，用于描述研究型[[University-Industry Collaboration\|产学合作]]从知识创造到终端用户影响的完整过程([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.253]])。模型的核心主张是：研究创新不应止步于学术产出（期刊论文），而应持续推至应用场景中的验证和面向终端用户的[[Knowledge Mobilisation\|知识动员]]。
 
 ## 核心命题
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 四个阶段在同一物理空间（共同选址）中同时发生，而非线性推进。传统大学研究通常止步于第一阶段，将后续阶段交给其他组织；RIA 将全部四个阶段内置在同一组织中，通过共同选址和嵌入式[[Knowledge Mobilisation|知识动员]]网络实现从基础研究到终端影响的完整链条（p.254）。
 
-> [!example]- 图13.2：RIA 创新模型
+> [!example] 图13.2：RIA 创新模型
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_13-2_RIA_Model_for_Innovation.jpg)
 
 ## 运作前提

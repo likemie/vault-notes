@@ -102,7 +102,7 @@ updated: 2026-10-16
 > - **质性与[[Quantitative Research|量化研究]]的格局定格** 揭示了比较教育学在分析工具上虽出现显著的量化激增（以调查[[Questionnaire|问卷]]为主），但质性与自然情境研究（如访谈、[[Ethnography|民族志]]、[[Qualitative Observation|田野观察]]）始终构成了学科最坚固的基石与传统优势。
 > - **母学科重心迁移** 数据表明比较教育学者的学科认同从建制初期的历史学与哲学，全面转向以社会学、政治学与经济学为主体，完成了母学科[[Paradigm|范式]]的[[Discourse|话语]]重置。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 131)]]
 
-> [!stat-cards] 核心历史数据
+> [!stat-cards]- 核心历史数据
 > - **3** 大核心旗舰期刊被系统纳入全样本回溯分析（CER、CE、IJED）。
 > - **> 50% ➔ < 20%** 纯依赖二手文献的非方法论阐释性思辨论文比例发生断崖式下降。
 > - **3** 大主导母学科被学者广泛认同（社会学、政治学与经济学）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131)]]

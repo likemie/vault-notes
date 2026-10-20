@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2018 — 项目启动与课程开设** SveaSus 项目在赫尔辛基大学教育科学学院正式立项并启动。面向学院全体学生开设选修课程，确立了教师、研究者、学生与艺术家的协同合作研究框架（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 1]]）。
 > - **2018–2023 — 芬兰堡真实[[Champ\|场域]]的跨学科教学实验**
 > - **现象核心确立** 项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定。
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 关键文件／声明
 
-> [!citation-card]- SveaSus 项目核心主张
+> [!citation-card] SveaSus 项目核心主张
 > SveaSus 项目将可持续性作为核心，[[Phenomenon-Based Learning\|现象本位学习]]作为教学方法，世界遗产地作为学习环境，构成了一个独特的教学与研究实验。
 >
 > *With sustainability as the focus, phenomenon-based learning as an approach and World Heritage as a learning environment the SveaSus project has been a unique teaching and learning experiment.* ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 1]])

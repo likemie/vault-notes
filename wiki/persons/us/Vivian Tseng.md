@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 教育研究必须从根本追问“研究究竟为何而做”（First things first）：研究的终极目的应当是服务学生与社区，尤其是历史上遭受种族主义与贫困排斥的边缘群体。学术界长期推行的“榨取式研究”（Extractive Research）仅将弱势社群视作提取个人经历或生理指标的数据矿场，却未给社群留下实质收益。必须通过[[Democratising Evidence\|证据民主化]]，将研究议程设定权交由一线实践者与社区共有；推动科研资助机构实施四项深刻转型：提供耐心灵活的长效基础设施拨款、将关系网络与组织能力增进重新界定为核心交付成果（打破学术唯论文评价）、设立包容性多元评审指标（赋予社区代表否决权），以及对资助机构自身权力实践展开系统元研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 > [!citation-card] 终结学术榨取式研究的深刻呼吁
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > - **[[Research-Practice Partnership\|RPP]] 评估体系确立** 协同 Henrick 等学者确立[[Evaluation Research\|评估研究]]-实践伙伴关系有效性的五大维度，为全美数十个学区-高校协作联盟提供操作与检验基准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 232)]]
 > - **跨界中介专业化** 将跨界中介专员（[[Boundary Spanner]]）与一线社区误工补偿机制列入常设预算，重塑了科研合作的经济与人力资源分配模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 曾薇薇安系统阐发[[Democratising Evidence\|证据民主化]]纲领、批判高校榨取式科研并提出资助机构四大行动支柱。（pp. 220–224）
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-20
 > > - **迪尔克·范达默（2022）** 担忧过度强调政治行动主义和即时实践迎合会进一步削弱教育学脆弱的理论基础，主张必须坚持严格的同行自律与长周期自主演绎科学规程。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–206)]]
 > > - **蒂娜·S·普勒茨（2022）** 从瑞典 ULF 试点经验指出，伙伴关系虽然至关重要，但若缺乏资深学者的[[Epistemology\|认识论]]把关，极易滑落为琐碎事务性的学校行政开发，丧失学术[[Reflexivity\|反思性]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 传统大学管理层指出，长效伙伴关系与停钟制度在落地时极易遭遇现有大学学科终身教职评审委员会的制度惯性阻力。（pp. 222–223）
 
 > [!warning] 未解问题与边界

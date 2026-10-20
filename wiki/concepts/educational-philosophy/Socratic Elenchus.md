@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **用途** 作为西方[[Critical Thinking\|批判性思维]]与[[Inquiry-Based Learning\|探究式教学]]的智识源头，用于破除教条主义与未经检验的常识。
 > - **边界** 若脱离了对所有学习者生长/成长的民主承诺，驳诘法容易被工具化为少数哲学精英统治的独占特权（如柏拉图将深度辩证法限定于护卫者阶层），或沦为缺乏伦理责任的纯粹辩术 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–5)]]。
 
-> [!citation-card]- 关键表述：驳诘法与真理土壤
+> [!citation-card] 关键表述：驳诘法与真理土壤
 > 驳诘法并不实际增加知识，而只是为知识准备土壤。苏格拉底式驳诘法导向他的辩证法——即真理需要通过质疑以及与对立观念的冲突来修改自身立场而被追求。（Robinson, 1953, p. 12; Hooker, 1999; 引自 Darwish, 2009, pp. 2–3）
 >
 > *Elenchus does not actually increase knowledge, but only prepares the ground for it. Furthermore, the Socratic Elenchus leads to his dialectic: the idea that truth needs to be pursued by modifying one's position through questioning and conflict with opposing ideas. (Robinson, 1953, p. 12; Hooker, 1999; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 2–3]])*
@@ -151,7 +151,7 @@ updated: 2026-10-20
 > > [!axis] 无情反诘的跨文化适用性与人际摩擦
 > > [[Argument_Li_2012_Cambridge\|Li (2012)]] 指出，在《优绪弗洛》中，[[Socrates\|苏格拉底]]“完全不关心优绪弗洛被逼到墙角的感受”的逼问风格，在看重尊严、社会和谐与尊师重道的东亚儒家文化中可能被视为具有攻击性或破坏和谐，而非理想教学 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 32)]]。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 批判古典哲学将驳诘法与理性能动限定于护卫者阶层。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析苏格拉底无情反诘风格在跨文化比较中的边界。
 
@@ -173,6 +173,6 @@ updated: 2026-10-20
 > | [[Banking Model of Education]] | 概念 | 驳诘法自下而上的探究是对储蓄式单向存入的彻底否定。 |
 > | [[Socratic Tutoring Style]] | 概念 | 驳诘法在现代教学论中的应用形态。 |
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 拆解《申辩篇》[[Meno|《美诺篇》]]《理想国》中的驳诘法及其阶级局限。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析《优绪弗洛》对话中的 7 轮反诘及其跨文化比较。

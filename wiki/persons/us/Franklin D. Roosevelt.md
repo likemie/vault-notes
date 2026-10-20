@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Michael Fullan|富兰]]克林·D. 罗斯福展现了成熟宪政民主国家统帅的战略决断力与制度前瞻性：面对大萧条与世界大战的系统性生存危机，最高执政者必须既能在微观制度设计上通过巧妙的机制嵌套（如以缴费型融资绑定合法性权利）实现政策防卫与抗风浪韧性，又能在宏观地缘战略上以高度互信跨越科层阻隔，将最顶尖的科学理性转化为守护民主自由的战略[[Hard Power|硬实力]]（Karp & Zamiska, 2025；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 12–13]]）。
 
 ---

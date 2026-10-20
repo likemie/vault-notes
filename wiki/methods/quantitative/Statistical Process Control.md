@@ -70,7 +70,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 连续生产批次、晶圆批次（Lot）、样本子组（Subgroups）、时序周/月观测单元、班级或学校学期数据点。
 > - **输出形式** 休哈特控制图（$\bar{X}-R$ 图、$\bar{X}-S$ 图、$p$ 图、$c$ 图）、工序能力指数（$C_p, C_{pk}, P_p, P_{pk}$）、受控状态诊断报告与异常归因警报。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 统计过程控制（SPC）与[[Cost of Ownership|所有权成本]]（COO）标准在全产业链的推广，促使中小设备商建立了严格的质量与[[Reliability|可靠性]]度量体系，将设备在役平均无故障工作时间（MTBF）提升数倍，并有效遏制了制造过程中的随机缺陷蔓延。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 >
 > *Implementing statistical process control across supplier facilities enabled suppliers to monitor tool performance objectively, eliminate process variations, and significantly boost mean time between failures (MTBF).*

@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 机构背景与资助体系
 
-> [!note]- 发展背景与资助演进
+> [!note] 发展背景与资助演进
 > NDPC 的核心使命是一线学校的实用赋能。其治理哲学强调“包容与赋能（Inclusiveness & Practice Empowerment）”，旨在为面临严重辍学危机的薄弱学校网罗尽可能多的实操方案。
 >
 > - **准入门槛最低的清算中心** 在 Wadhwa et al. 深度对比的四大清算中心（[[What Works Clearinghouse\|WWC]], [[Blueprints for Healthy Youth Development\|Blueprints]], NDPC, [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]）中，NDPC 设置了最低的科学证据准入门槛([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 15]])。

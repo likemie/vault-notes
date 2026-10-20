@@ -74,7 +74,7 @@ updated: 2026-10-20
 > - **用途** 用于解释西方文化中[[Critical Thinking\|批判性思维]]与[[Academic Freedom\|学术自由]]的产生机制，以及比较东西方学习取向的差异。
 > - **边界** 古典省察常带有精英主义色彩（如柏拉图将深度省察限定于护卫者阶层）；现代主动学习则主张将省察生活拓展为所有个体打破沉默、追求意识觉醒与实践的民主权利。
 
-> [!citation-card]- 关键表述：苏格拉底的终极宣告
+> [!citation-card] 关键表述：苏格拉底的终极宣告
 > 我告诉你们，每天讨论美德以及你们听到我审视自己和他人所谈论的其他主题，是人类最大的善，而未经省察的生活是不值得过的。（柏拉图，《申辩篇》 38a；引自 Li, 2012, p. 31; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 2]]）
 >
 > *I tell you that to [[Discourse]] every day about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living. (Plato, Apology 38a)*
@@ -153,7 +153,7 @@ updated: 2026-10-20
 > > [!axis] [[Socrates\|苏格拉底]]无情反诘的跨文化适用性
 > > 在《优绪弗洛》中，苏格拉底“完全不关心对方被逼到墙角的感受”的无情追问风格，在儒家或关系导向文化中可能被视为破坏尊师重道与社会和谐的行为，而非[[Effective Teaching\|有效教学]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 51–53)]]。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析西方“省察的生活”与东亚“心智/德性[[Self-Cultivation\|修身]]”的文化底色差异。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 批判古典教育哲学将省察生活工具化为维护静态社会阶层的手段。
 
@@ -164,6 +164,6 @@ updated: 2026-10-20
 
 ## 条目关联
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 识别“省察的生活”为西方学习传统第三主题，分析[[Socrates\|苏格拉底]]、[[Jean-Jacques Rousseau\|卢梭]]与[[University Motto\|大学校训]]。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 从《申辩篇》《理想国》[[Meno|《美诺篇》]]梳理省察生活在古典哲学中的表现及其阶级局限。

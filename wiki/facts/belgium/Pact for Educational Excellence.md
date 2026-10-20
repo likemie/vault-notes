@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2015 年，教育部长发起改革，各类教育利益相关者组成专题工作组，综合系统现状数据并形成诊断，改革由此被命名为教育卓越公约([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.170]])。
 > - 2016 年，围绕教学工具和项目的清单工作启动；同年 Baye and Bluge 的报告向改革核心单位介绍[[Evidence-Based Education\|证据本位教育]]([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.170-171, 175]])。
 > - 2017 年，Groupe central 的第三号建议采纳部分证据本位教育表述，承认[[French-Speaking Belgium Education System\|法语比利时教育系统]]中 EBE 几乎不存在，并提出试点、验证和扩大有效项目([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.171]])。
@@ -88,7 +88,7 @@ updated: 2026-10-16
 > [!success]
 > 从[[Evidence-Based Reform\|证据本位改革]]角度看，公约的明确进展在于：官方文本第一次承认需要按有效性对项目进行试点、验证和扩大；研究者、学科教学专家、教育当局与教师之间形成了互动过程；工作组识别了与课程和研究建议相匹配的潜在项目；不同方法类别的最低标准被共同讨论出来([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.182]])。
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - 2017 年工作组列出 425 个教学工具或项目，其中 61 个曾被教育研究者测试，13 个采用实验设计测试，占总数约 3%([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.175]])。
 > - 改革文本估算需要 200 万欧元专项和经常性预算，用于学校实验、严格评价和公共政策系统评价([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.181]])。
 > - 首年工作中，英文科学文献引用少于全部参考文献的 15%，显示语言屏障限制了法语教育行动者使用国际证据资源。
@@ -102,7 +102,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Evidence-Based Education]]：公约把 EBE 作为改革语言的一部分，但实际采用的是更具妥协性的[[Research Utilization\|证据使用]]路径。
 > - [[Evidence-Based Reform]]：公约可作为 Slavin 三条件框架在非英美、[[Qualitative Research\|定性研究]]传统较强地区落地时的边界案例。
 > - [[Educational Evidence Clearinghouses]]：公约没有直接复制英美清算中心标准，而是因本地项目证据稀少而建立包容性类型学。

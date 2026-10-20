@@ -78,7 +78,7 @@ updated: 2026-10-20
 > - **核心角色** 率先将[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）的[[Champ|场域]]理论与反思社会学引入教育行政学，创立关系取向（Relational Approach）教育组织理论；提出“[[Parallel Monologues\|平行独白]]”概念揭示学术交流异化；系统将[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的[[Visible Learning\|可见的学习]]与[[Evidence-Based Education|循证教育]]狂热定性为当代教育行政中的“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”，为全球反思量化绩效问责提供了关键批判视角。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 413)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 774)]]
 > - **代表贡献** 新泰勒主义教育治理批判、平行独白理论、关系取向教育组织理论（*Beyond Leadership*）。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 斯科特·埃考特专注于教育行政与领导力领域的社会[[Epistemology|认识论]]、组织理论和学术实践逻辑研究。他将布迪厄的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思。他自述从不回避坚定的学术主张，这一鲜明学术风格使他的工作在学术界引发了强烈的正面共鸣与争议反弹。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 774, 776)]]
 >
 > *Scott Eacott works on social epistemology, organizational theory and the logic of academic practice in educational administration and leadership, bringing Bourdieu's concepts to bear on the conditions of knowledge production.*
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 斯科特·埃考特的核心思想由三重批判支柱构成：其一，在[[Epistemology|认识论]]上主张教育行政研究必须转向社会认识论，关注知识主张如何在特定的权力[[Champ|场域]]与制度安排中被制造、筛选与推销；其二，在教育治理上揭示当代引导学校改革的[[Effect Size|效应量]]崇拜与[[John Hattie|哈蒂]]体系本质上是工业时代“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”的复兴，是以确定性技术手段剥夺专业自主性的伪科学工程；其三，在学术实践上倡导以实质性“论证与反驳”取代各自立论的“[[Parallel Monologues\|平行独白]]”，通过关系取向超越对孤立实体与等级领导力的形而上学执念。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
 
 > [!citation-card] 埃考特论可见学习的新泰勒主义同构性
@@ -142,7 +142,7 @@ updated: 2026-10-20
 > - **实务批判路径** 激发了一线教育工作者对科层持续数据生产与机械问责的警觉与反思，其论文发表后持续收到世界多国中小学校长分享[[Cult of the Guru|大师崇拜]]如何异化日常教学的个人叙事。
 > - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义规训本质。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出哈蒂可见学习为当代教育行政中的“新泰勒主义”与“大师崇拜”。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩技术理性批判，细读哈蒂反馈元分析底层数据，实证支撑埃考特关于新泰勒主义规训与构念混淆的论断（pp. 14–15）。
@@ -180,7 +180,7 @@ updated: 2026-10-20
 > > - **[[Positivism|实证主义]]倾向批评者（包括向 UNSW 科研副校长投诉者）** 攻击埃考特未收集大规模调查或访谈数据，指责其论断缺乏实证支撑。
 > > - **埃考特的[[Epistemology|认识论]]辩护（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 776]]）** 坚称批判性论证本身依托于扎实的制度例证与概念分析，即使未亲自开展实地[[Questionnaire|问卷]]，其论断的稳健性亦已由随后多国学者的大规模实证研究所确证。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 声称埃考特使用新泰勒主义代码词贬低对效率与科学严谨性的追求。
 
 > [!warning] 未解问题与边界

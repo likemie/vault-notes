@@ -212,7 +212,7 @@ updated: 2026-10-20
 >
 > *Constructivism too often is seen in terms of student-centred inquiry learning, problem-based learning, and task-based learning... The role of the constructivist teacher is claimed to be more of a facilitation... with minimal corrective intervention... These kinds of statements are almost directly opposite to the successful recipe for teaching and learning... constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism. From constructivism it does not follow that a teacher can withdraw from his role.*
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 指出激进建构主义具有唯我论倾向，消解了客观学科文化与教学规范性，导致教学概念的双重瓦解。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 辨析可见学习中的认识论混淆，划定激进建构主义与行为主义技术理性的实质边界。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 引述罗默理论，指出将可见学习归入激进建构主义[[Paradigm|范式]]将暴露出教学本质崩溃的危机。

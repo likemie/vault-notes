@@ -49,7 +49,7 @@ updated: 2026-10-20
 > - **用途** 它帮助研究者反思以“标准化考试”和“国家公民塑造”为终点的教育模式的局限，提供了一种以后现代想象力为核心的替代性课程评估视角。
 > - **边界** 它不适合用于强调标准化基础技能习得的训练场景，而主要适用于高等教育、[[International Education\|国际教育]]或如[[Theory of Knowledge\|知识论]]（TOK）这类的批判性探究课程。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 国际斯宾诺莎主义不会导向一个普遍的乌托邦结局……（而是）像一台机器一样，将（课堂的）情境作为决定新智识探究领域建立的**滋养机制**。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 >
 > *The international Spinozism will not lead to a universal, utopian conclusion... acts like a machine that uses the situation as a **feeder mechanism** to determine the establishment of new areas of intellectual inquiry.*

@@ -76,12 +76,12 @@ updated: 2026-10-20
 > - **用途** 帮助研究者识别教育改革辩论中行动者出于自利动机如何剪裁和利用数据，打破“科学证据必然产生唯一定论”的[[Technical Rationality\|技术理性]]神话。
 > - **边界** 区别于[[Epistemology\|认识论]]虚无主义（Nihilism）；它并非否定物质事实的存在，而是强调行动者对事实赋予因果解释时的社会建构性与利益附着性。
 
-> [!citation-card]- 关键表述一：教育研究方法论中的罗生门效应与多重因果路径（2011）
+> [!citation-card] 关键表述一：教育研究方法论中的罗生门效应与多重因果路径（2011）
 > 在社会与教育研究中，[[Causality\|因果关系]]的解释往往呈现出罗生门效应。四个见证者给出了四种截然不同的因果叙事，每个叙事都是自我服务的，最终没有单一的绝对真相被确定。这提醒研究者，因果不是孤立的机械链条，而是多重行动者在特定情境中建构的多重因果路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 72–73)]]
 >
 > *“The Rashomon effect reminds researchers that causal narratives are constructed by multiple actors... there is not a single, unproblematic causal chain, but multiple causal pathways.”*
 
-> [!citation-card]- 关键表述二：全球教育治理中的数据可塑性与“多重真实”（2018）
+> [!citation-card] 关键表述二：全球教育治理中的数据可塑性与“多重真实”（2018）
 > [[International Large-Scale Assessments\|国际大规模评估]]（如 [[PISA]]）的结果并非中立的科学镜鉴，而是具备高度可塑性的[[Discourse|话语]]资源。关于英格兰学生成绩的同一种数据，在[[OECD\|经合组织]]专家手中是强调教育公平与专业合作的诊断，在执政政客口中是被剪裁为国家危机以强推市场化政策的弹药，在媒介眼中则是耸动的排行榜新闻。评估结果因此分裂为互不相容的“多重真实”。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 111–112, 125–126)]]
 >
 > *“PISA produces multiple ‘truths’ that serve different interests... The plasticity of the data allows it to be used as a discursive resource for contrasting political agendas.”*

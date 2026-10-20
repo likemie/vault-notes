@@ -78,7 +78,7 @@ updated: 2026-10-17
 
 刊物在编排与知识组织上确立了极其前沿的全球视野与人类知识分类学：
 
-> [!policy-design]- 刊物三大核心支柱
+> [!policy-design] 刊物三大核心支柱
 > - **全球跨洲际报道网络（Circulation Throughout the Civilized World）**
 >   刊物广泛发行于欧洲、美洲、亚洲与非洲的所有文明国家，建立了由各国知名学者、外交家与通讯员组成的庞大合作网络；定期开辟专栏刊发世界各地的科学新知、文学评论与社会改良报告。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 21–22]]; Palmer, 1993:180）
 > - **1819 年人类知识分类总表（Synoptic Table of Human Knowledge）**
@@ -88,7 +88,7 @@ updated: 2026-10-17
 
 朱利安在 1819 年与 1823 年就刊物宗旨发表的经典声明，展现了其宏大的[[Cosmopolitanism|世界主义]]视野：
 
-> [!citation-card]- 经典引言：朱利安论世界公民与培根科学统一
+> [!citation-card] 经典引言：朱利安论世界公民与培根科学统一
 > 对我们而言，仅仅作为百科全书编纂者是不够的；我们尤为渴望成为世界公民（cosmopolites）。除非我们的每一期杂志都能以最完整、最精确的方式，展现整个地球表面上的科学、文学、艺术、智力劳动与道德改良状况，否则我们绝不会认为自己的使命已经达成……我们的《评论》是第一部也是唯一一部通过定期出版物践行培根关于科学统一之伟大思想的作品；它汇聚在一起，宛如一个普世的国会，在真正神圣的同盟中促进人类心灵迈向相同的道德与哲学目标。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 20–21; Palmer, 1993:178–181)]]
 >
 > *It is not enough for us to be encyclopedists; we aspire especially to be cosmopolites (world citizens). We would not think our task fulfilled unless each of our numbers presented, in the most complete and accurate way, the state of sciences, letters, arts, intellectual labors and moral improvement throughout the surface of the globe.*
@@ -97,7 +97,7 @@ updated: 2026-10-17
 
 ## 时间线
 
-> [!dev-timeline]- 创办、跨国影响与演变时间线
+> [!dev-timeline] 创办、跨国影响与演变时间线
 > - **1819** 朱利安在巴黎正式创办《[[Revue encyclopédique|百科评论]]》（*Revue encyclopédique*）并出任主编，首期发表创刊宣言，宣称刊物致力于忠实呈现人类知识在社会秩序改良中的进步。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 20)]]
 > - **1819–1823** 建立覆盖欧美及各大洲的通讯员网络，持续刊载法国、瑞士、西班牙与美国的公共教育发展报告；发表著名的世界公民宣言。
 > - **1820s** 收到美国前总统托马斯·杰斐逊（Thomas Jefferson）的专函致信，赞扬朱利安通过该刊物对“[[International Education\|国际教育]]所作出的杰出奉献”。（Fraser, 1964:12–13; p. 21）

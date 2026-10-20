@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 哲学论辩、政策命题、认识论模型、概念范畴与理论假定。
 > - **输出形式** 概念区分框架、前提批判谱系、结构性缺陷辨析、替代价值主张与[[Reflexivity|反思性]]抵抗资源。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 哲学分析旨在通过概念辨析揭示内置于教育理论与政策中的结构性前提，为教育者抵抗技术官僚的不合理期待提供智识资源。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 491)]]
 >
 > *My contribution is primarily meant to provide educators and other professionals with arguments that can help them to resist unwarranted expectations about the role of evidence in their practices.*
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与文本进入
+> [!sample-panel]- 材料与文本进入
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 经典哲学著作、实证综合报告、教育政策白皮书、课程标准与评价规程。 |

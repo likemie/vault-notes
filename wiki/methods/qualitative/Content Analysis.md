@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **语言事实四分类** 归因（attributions）、社会关系（social relationships）、公共行为（public behaviours）与制度现实（institutional realities）（Krippendorff, 2004）。
 > - **典型输出** 范畴体系、类属包容层级、频数计票单、态度交叉矩阵、概念网络图及[[Grounded Theory\|扎根理论]]推论。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 内容分析是一种从文本（或其他有意义材料）向其使用语境作出可重复且有效推论的研究技术。其分析规则必须是公开、透明且可被独立复验的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 563)]]
 >
 > *A research technique for making replicable and valid inferences from texts (or other meaningful matter) to the contexts of their use.*
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 访谈录音[[Transcription in Qualitative Research\|转录]]文本、开放式[[Questionnaire\|问卷]]作答、政策文件、历史档案、教材、网络讨论帖等。 |

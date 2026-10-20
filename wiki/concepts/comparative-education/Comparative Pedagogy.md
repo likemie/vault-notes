@@ -79,7 +79,7 @@ updated: 2026-10-20
 >
 > *Pedagogy is not just about instructional techniques and classroom organization; it is the discourse and practice of teaching underpinned by ideas, values, evidence and collective beliefs. It is deeply embedded in the historical and cultural matrix of human societies. Any genuine cross-national comparison of pedagogy must view the classroom as a dynamic arena where national cultural norms and educational ideals are embodied.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Scholiocentric Approach\|以校为中心取向]] — 19 世纪视察官的以校为中心是孤立描述学校章程与桌椅设施等物质表象；比较教学论则以人类学和解释学深度[[Rich and Thick Description|深描]]课堂内外的文化互动。
 > - 不等于 跨国标准化测评 — 国际测评追求无情境横截面回归；比较教学论坚持情境化质性理解。
 > - 不适用于 抽离社会文化生态的纯技术性“[[Effective Teaching|有效教学]]”机械移植。

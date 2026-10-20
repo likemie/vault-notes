@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > [[Johann Wilhelm Süvern|聚芬]]确立了现代世俗国家统摄国民教育体系的法哲学纲领：教育既非宗教教会的私有教区附属物，亦非个人与家族的任意私权，而是关乎民族存亡与社会秩序的最高公共事务。国家必须在世俗主权下对各级各类学校行使不可侵犯的最高监督权（*Supreme Right of Supervision*），通过市镇自筹强制设校保障贫困阶层基本知识分配，通过省立公立[[Normal School\|师范学校]]垄断教师专业化执业资质与最低俸给，并在初等大众轨道（初小）与工商业中产轨道（市民学校）之间建立分层而协调的现代化制度骨架。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–29)]]
 
 > [!citation-card] 聚芬草案对国民初等教育终极宗旨的界定
@@ -116,7 +116,7 @@ updated: 2026-10-20
 > - **法国立法跨国转置路径** 1831 年法国哲学家[[Victor Cousin\|维克多·库森]]深入研究[[Johann Wilhelm Süvern|聚芬]]草案文本，以其为蓝本撰写《普鲁士公共教育现状报告》；该报告随后被七月王朝公共教育部部长[[François Guizot\|弗朗索瓦·基佐]]全盘吸收，使聚芬草案的四大支柱（国家最高监督、市镇强制设校、省立师范垄断、初等双轨层级）在法国《1833 年[[Guizot Law of 1833\|基佐法案]]》中实现实定法重构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、曼（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察文献传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 详细考证聚芬草案作为 19 世纪欧陆国家现代化建制的核心枢纽地位，以及其如何通过库森报告驱动法国实定法移植并影响北美公学运动。
 
 ---

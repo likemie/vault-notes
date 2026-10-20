@@ -94,7 +94,7 @@ updated: 2026-10-20
 > 
 > 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 NAPLAN 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size\|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？（pp.418–419）
 
-> [!feature]+ 一页读懂
+> [!feature] 一页读懂
 > - **对象** 澳大利亚[[School Leadership\|学校领导力]]实践、哈蒂的VL品牌与国家行政权力的结盟。
 > - **工具** 卡拉汉的[[Cult of Efficiency\|效率崇拜]]历史类比，诊断VL为重构学校领导力的[[Neo-Taylorism\|新泰勒主义]]。
 > - **张力** 方法论的严厉学术批判与政策/实践界将哈蒂封神并制度性深锁之间的巨大鸿沟。
@@ -177,7 +177,7 @@ updated: 2026-10-20
 - **科学管理的中介化** 这复刻了泰勒在工厂车间通过秒表和动作分解去除经验法则的做法。哈蒂将教学还原为孤立的、按效应量排序的干预[[Variable|变量]]，为管理者提供了实施科学管理的精密中介（p.419）。
 - **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL and [[Corwin Press|Corwin]] 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
 
-> [!boundary] 数据中介与科层审计
+> [!boundary]- 数据中介与科层审计
 > 效应量 d = 0.40 将复杂的教育活动简化为度量衡，完成了行政权力对教学专业性的掠夺。这种数据中介让不懂教学的科层官僚也能够坐在办公室里直接判定一位教师是否合格，从而建立起一套数据控制的幻觉（p.418）。
 
 ---
@@ -233,27 +233,27 @@ updated: 2026-10-20
 
 ## 关键引用
 
-> [!citation-card]- [[Cult of the Guru\|大师崇拜]]的悲剧性结论
+> [!citation-card] [[Cult of the Guru\|大师崇拜]]的悲剧性结论
 > 我认为，这种对个人崇拜的盲目接受和扩散是澳大利亚[[School Leadership\|学校领导力]]领域的一场悲剧。（p.413）
 > 
 > Original: I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian school leadership.
 
-> [!citation-card]- [[Evidence-Based Policy-Making|循证决策]]与行政控制的本质
+> [!citation-card] [[Evidence-Based Policy-Making|循证决策]]与行政控制的本质
 > 相比于教学模型——即使是那些配有衡量实践质量工具的模型——[[John Hattie\|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
 > 
 > Original: Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.
 
-> [!citation-card]- 科学管理在教育中的实现
+> [!citation-card] 科学管理在教育中的实现
 > 哈蒂提供了在教育领导力中实现科学管理的手段。（p.419）
 > 
 > Original: Hattie has provided the means through which scientific management can be achieved in educational leadership.
 
-> [!citation-card]- 碎片化教学与泰勒制的历史回响
+> [!citation-card] 碎片化教学与泰勒制的历史回响
 > 将教学划分为最小的可测量单元，这种零碎地阐述如何改善学生学习的方式，与 100 多年前泰勒的工作并没有太大的区别。（p.422）
 > 
 > Original: The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago.
 
-> [!citation-card]- 呼唤理性对话与民主论辩
+> [!citation-card] 呼唤理性对话与民主论辩
 > 将自己主体化于某个单一人物之下，就是将该人物提升到了“教父”的地位。澳大利亚学校领导力共同体更需要的是更严谨、更稳健的工作，以及更重要的对话与辩论（哈蒂也应当是其中的一部分），而不是盲目追随某一个教父。（p.422）
 > 
 > Original: To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru.
@@ -267,7 +267,7 @@ updated: 2026-10-20
 > - **经验基础的地理局限** 本研究的经验性观察主要锚定在澳大利亚特定的政策、组织与历史环境下（但作者声称其理论论证超越地理边界，对其他同样具有新自由主义管理主义倾向的系统同样适用）。
 > - **不对[[Meta-meta-analysis\|元-元分析]]进行具体的技术纠错** 文章未对哈蒂的[[Meta-analysis\|元分析]]如何进行具体的[[Causality\|因果推断]]、选择性偏差或重复计算进行数学上的微观纠错，而是将其直接作为社会学意义上的意识形态证据来进行组织[[Discourse Analysis\|话语分析]]（p.414, p.419）。
 
-> [!note]- 外部回应与后续争议
+> [!note] 外部回应与后续争议
 > - **哈蒂的自我声辩** 在同一期期刊中，[[John Hattie\|约翰·哈蒂]]发表了回应文章 [[Argument_Hattie_2017_SLM\|Hattie (2017)]]，矢口否认了“教父/[[Cult of the Guru\|大师崇拜]]”的指控，辩称其只关注证据本身。
 > - **编辑部的声音封锁**[[Scott Eacott\|斯科特·伊科特]]曾撰写针对哈蒂该回应的反驳，但被期刊编辑部拒绝发表，导致论辩呈现为单向的霸权合谋（[[Argument_Eacott_2019_IJLE\|Eacott, 2019, p. 778]]）。
 

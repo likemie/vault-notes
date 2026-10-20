@@ -33,7 +33,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **分析单位** 个体、课堂、学校、文本、政策、地区、年份、案例、研究、指标或系统。
 > - **输出形式** 主题、分类、机制解释、效应估计、系数、指标、指数、模型结果、空间格局或评价结论。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*
@@ -69,7 +69,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ### 质性方法模块
 
-> [!sample-panel] 材料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 访谈、观察、档案、政策文本、网站、影像、社交媒体等。 |
@@ -142,7 +142,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > [!result-reading]- 结果怎么读
 > > 说明输出值的方向、大小、边界、分类或变化趋势。
 >
-> > [!method-limits]- 参数、权重、分类与注意事项
+> > [!method-limits] 参数、权重、分类与注意事项
 > > 说明权重、参数、阈值、分类规则、模型假设、敏感性和因果边界。
 
 > [!method-limits] 敏感性与稳健性

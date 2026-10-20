@@ -70,7 +70,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 苏格兰政府依据学生的社会经济处境不利程度直接向具体学校核拨专项经费，赋予校长自主支配权，旨在专项用于缩小贫困相关的[[Academic Achievement\|学业成就]]差距，并配套引入《苏格兰学业达标挑战：[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，推动一线教育工作者向[[Evidence-Based Policy-Making|循证决策]]靠拢。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 阻断家庭贫困对学业表现的负面影响，靶向提升低成就群体的学术水平，缩小苏格兰中小学学业鸿沟。
 > - **适用对象** 登记注册于苏格兰公立中小学、面临社会经济劣势的高风险学生群体及其所在学校。
 > - **政策工具** 专项下拨的人头定向资助金（PEF）、校级自主支配裁量权，以及由[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）合作打造的证据工具包。
@@ -101,7 +101,7 @@ updated: 2026-10-20
 > - **中介主体** 地方当局虽被直拨机制绕过，但仍通过集中采购外部培训方案与行使指导权保留强大影响力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 > - **适用对象** 面临社会经济脆弱性的苏格兰中小学生。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **资金直拨与自主采购** [[School Leadership\|学校领导]]者获得独立财务账户，可直接向商业或第三部门机构购买课程干预方案与专业发展支持。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 > - **地方当局的弹性规制** 地方当局依然扮演[[Gatekeepers\|守门人]]角色，有时向学校推行强制性改进方案（如将特定行为干预项目作为高辍学率学校的必选动作），同时组织学者专家讲座。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 15)]]
 > - **[[Practitioner Enquiry\|实践者探究]]的校本锚定** 校长普遍利用[[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）所倡导的实践者探究（practitioner enquiry），在落实 PEF 资助项目时组织教师搜集校本数据，评估干预措施的本土适切性。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 18)]]

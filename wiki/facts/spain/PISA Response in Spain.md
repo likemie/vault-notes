@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法** 频繁推倒重来，相继出台 LOCE 2002（被冻结废除）与 [[Organic Law on Education 2006|LOE]] 2006，陷入政党轮替的法案废立动荡。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 > - **思想[[Paradigm|范式]]变迁** 固化了“[[Plaintive Comparison|诉苦式比较]]”文化，将教育质量危机[[Externalization|外化]]为不可抗拒的政治宿命，阻滞了循证问责转型。
 > - **社会结构重塑** 极高学业失败率造成庞大的早期辍学青年群体，严重制约了国家青年劳动力就业质量。

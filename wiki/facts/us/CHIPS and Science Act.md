@@ -132,7 +132,7 @@ updated: 2026-10-20
 > [!claim] 政策核心
 > 《芯片与科学法案》（CHIPS and Science Act）授权总计 2800 亿美元新资金，其中包含 527 亿美元直接资金用于半导体制造补贴与先进研发、25% 制造投资税收抵免，并在科学部分圈定二十项前沿技术清单，授权大幅扩充两大核心科学资助机构预算并设立[[Research Translation|技术转化]]部门，旨在重振美国本土半导体制造能力、重塑[[Research Universities|研究型大学]]研发育人功能并全面强化国家战略科技纵深。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
-> [!policy-design]- 政策设计
+> [!policy-design] 政策设计
 > - **政策目标** 夺回美国在先进制程半导体制造领域的领导地位、吸引先进制程晶圆厂回流本土、圈定前沿技术重点突破、构建跨[[Innovation Ecosystem|区域创新生态]]、保障国家安全芯片供给，并在地缘科技竞争中确立领先优势。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 > - **适用对象** 晶圆制造巨头、先进封装商、材料设备供应商、研究型大学科研团队、区域创新联盟及劳动力培训机构。
 > - **政策工具**
@@ -182,7 +182,7 @@ updated: 2026-10-20
 > - **适用对象** 英特尔（Intel）、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
 > - **政策工具** 联邦中央直接资本资助（390 亿美元）、25% 投资税收抵免、低息联邦贷款、公私合作研发联盟（[[National Science and Technology Council|NSTC]]）、30 亿美元先进封装专项（[[National Advanced Packaging Manufacturing Program|NAPMP]]）及技术枢纽建设。
 
-> [!pathways]- 实施路径
+> [!pathways] 实施路径
 > - **联邦中央集权遴选与直接拨付** 资金由联邦政府全额出资并直接主导投资优先级裁决，绕开地方中介层级，直接面向单个制造企业开展定向资助谈判，实现资金落地与项目推进的高效迅速。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 9–10)]]
 > - **无国籍偏好的投资组合与资金池竞标** 商务部打破传统保护主义只补贴本土企业的偏狭，向所有在美投建尖端晶圆厂的全球领军厂商（台积电、三星、英特尔、美光）开放资金池竞标，采用投资组合进路分散技术与商业化风险。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4, 8)]]
 > - **地方与区域承接** 亚利桑那州、纽约州、德克萨斯州、俄亥俄州等地方政府提供数十亿美元的地方税收减免与土地配套，推动晶圆超级工厂落地，并在地理空间上形成高度集聚。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
@@ -221,7 +221,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!indicators]- 评价指标
+> [!indicators] 评价指标
 > - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]
 > - **过程指标** 晶圆厂开工率、环境评估审批速度、[[National Science and Technology Council|NSTC]] 产学联盟会员数与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 资助覆盖率。
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。

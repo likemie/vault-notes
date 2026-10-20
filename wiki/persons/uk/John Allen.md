@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或柏林的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效规训（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
 
 > [!citation-card] 拓扑临近性与空间的折叠

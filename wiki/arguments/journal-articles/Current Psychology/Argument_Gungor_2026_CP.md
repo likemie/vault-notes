@@ -281,7 +281,7 @@ issuing_organization: ""
 > - 采用 R-AMSTAR 量表（Kung et al., 2010）与 JBI 清单评估质量，得分在 24 至 36 分之间，划分为 14 项中等质量与 9 项高质量效应量，无低质量研究。（p. 5）
 > - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu and Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本假设下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。（pp. 5–6）
 
-> [!example]- 图1：文献筛选数据流程图（Data [[Flow]] Diagram）
+> [!example] 图1：文献筛选数据流程图（Data [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig1_Data_Flow_Diagram.jpg)
 
 > [!warrant]- 推理桥梁
@@ -299,7 +299,7 @@ issuing_organization: ""
 > - 在各产出类型中，高阶思维技能效应量最高（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），学业成就次之（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90], k = 12$），情感行为亦显著正向（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84], k = 6$），综合产出达 $ES = 1.25$（$k = 1$），产出间差异未达统计显著（$Q_b(3) = 4.35, p = .23$）。（pp. 8–9）
 > - 经典[[Fail-Safe N\|失安全系数]] $N = 4954$ 远超临界值 125（$5k + 10$）；Egger 回归未检出偏倚（$t = 2.08, p = .05$）；杜瓦尔与特威迪[[Trim and Fill Method\|剪补法]]（Duval and Tweedie's Trim and Fill，DTTF）补充 0 个效应量；[[Funnel Plot\|漏斗图]]整体对称（图2）。（p. 8）
 
-> [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
+> [!example] 图2：效应量漏斗图（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig2_Funnel_Plot_Graph.jpg)
 
 > [!stat-cards]- 核心综合数据
@@ -311,7 +311,7 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 合作学习之所以对高阶思维产生最强促进，是因为异质性组员在面对面互动中必须向同伴解释概念、处理认知冲突、质疑对立论点并协商形成共识，这一持续的社会建构过程直接激活了分析、评价与创造等深层认知加工；而全套发表偏倚检验证实该效应并非由选择性出版所制造。（pp. 8–10）
 
-> [!critique]- 方法学局限与统计边界反思
+> [!critique] 方法学局限与统计边界反思
 > 本研究采用单水平经典[[Random-Effects Model\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在四项关键的方法学局限与统计边界：
 > - **初级研究未微观去重（重复计算风险，Double-Counting）** 遵循 Cooper and Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
 > - **集群依赖性未建模（集群依赖被忽略，Cluster-Dependence Ignored）** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model，CHE）进行三水平方差分解；
@@ -423,17 +423,17 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[Meta-meta-analysis\|二阶元分析]]总体结论与调节分化
+> [!citation-card] [[Meta-meta-analysis\|二阶元分析]]总体结论与调节分化
 > 本研究结果表明，[[Cooperative Learning\|合作学习]]对学习产出具有中等程度的影响（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。观察到合作学习对学习产出的影响在统计上因合作学习技术、学科领域以及一阶[[Meta-analysis\|元分析]]研究所涵盖的基础研究实验设计类型而异。（p. 1）
 >
 > *The results of this study reveal that CL has a moderate effect on learning outcomes (ES = 0.71 [CI = 0.55-0.87]). The impact of CL on learning outcomes was observed to statistically differ according to CL techniques, academic [[Champ\|field]], and the [[Experimental Research\|experimental design]] type of basic studies covered by FOM research.*
 
-> [!citation-card]- [[Higher-Order Thinking Skills\|高阶思维技能]]的赋能潜力与社会建构价值
+> [!citation-card] [[Higher-Order Thinking Skills\|高阶思维技能]]的赋能潜力与社会建构价值
 > 相当大的[[Effect Size\|效应量]]表明了合作学习在增强高阶思维技能方面的潜力。鉴于合作学习对批判性和[[Creativity\|创造性]]思维技能的影响，审慎的做法是对合作学习进行进一步审查，以确定其在这一前景广阔领域的潜力。（p. 9）
 >
 > *The considerable effect size indicates the potential of CL for enhancing higher-order thinking skills. In light of the impact of CL on critical and creative thinking skills (Huang et al., 2017; Silva et al., 2022), it would be prudent to subject CL to further scrutiny in order to ascertain its potential in this promising area.*
 
-> [!citation-card]- 软科学领域综合缺口的揭示
+> [!citation-card] 软科学领域综合缺口的揭示
 > 采用二阶元分析的独特价值不仅在于报告一项发现，更在于精准揭示这一方法学空白：系统性报告语言或社会学科领域效应量的高水平综合（元分析）极度匮乏……我们的研究不仅证实了合作学习的总体有效性，更关键的是为未来的一阶元分析确立了明确的议程，这些研究必须积极搜寻并综合语言和社会学科的基础研究，以纠正综合文献图景中的系统性失衡。（p. 10）
 >
 > *The unique VALUE of employing a second-order meta-analysis here is not just to report a finding, but to highlight this exact methodological gap: there is a severe paucity of high-level synthesis (meta-analyses) that systematically report effect sizes for the language or social studies domains... establishes a clear agenda for future first-order meta-analyses, which must actively seek out and synthesize primary research in disciplines such as language and social studies to rectify this systemic imbalance in the synthesis landscape.*

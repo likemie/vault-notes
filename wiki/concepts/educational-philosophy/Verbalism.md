@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者解构“只在课堂里口头辩论社会不公、却对真实变革零承诺”的假对话（如 [[Theory of Knowledge\|TOK]] 课程的言语主义陷阱）。
 > - **边界** 不等于对反思的否定；它反对的是将对话切割为无行动的纯文字体操。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 当一个词语被剥夺了它的行动维度，它立刻变成了空洞的言语主义；对话就退化成了空谈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 >
 > *When a word is deprived of its dimension of action, it immediately becomes empty verbalism... Dialogue degenerates into idle chatter. (Freire, 2000, p. 87)*

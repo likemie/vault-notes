@@ -142,7 +142,7 @@ updated: 2026-10-17
 >   I --> K
 > ```
 
-> [!knowledge-map]- 第2章[[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第2章[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_2_Concept_Map.jpg)
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-17
 > [!claim] 核心主张
 > [[Critical Theory\|批判理论]]构成了教育研究的**第三种[[Paradigm\|范式]]**——不同于实证主义（技术兴趣）和诠释范式（实践兴趣），它以**解放兴趣**为驱动，旨在揭露教育中隐藏的权力运作和意识形态压制，并通过[[Ideology Critique\|意识形态批判]]、[[Action Research\|行动研究]]、[[Participatory Research\|参与式研究]]和[[Feminist Research\|女性主义研究]]等方法论工具，推动从压迫走向平等与民主的变革实践。
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 批判教育研究范式的理论根基（[[Jürgen Habermas\|哈贝马斯]]认识兴趣三分法）、核心方法论（意识形态批判的四阶段反思实践）、分支实践（参与式研究、女性主义研究）以及内在批评。
 > - **张力** 批判理论声称的"解放"效果是逻辑必然还是经验假设？研究者如何在持有政治议程的同时避免成为新的意识形态支配者？质性方法对量化的替代是否足以保证非剥削性研究关系？
 > - **贡献** 将"知识为谁服务"和"研究如何改变世界"这两个被前两大范式回避的问题提上方法论议程，揭示了一切研究——包括声称价值中立的研究——的政治性。
@@ -232,7 +232,7 @@ updated: 2026-10-17
 > [!claim] 知识由利益构成，利益区分了三种范式
 > 哈贝马斯（1972）的核心洞见是：**知识，以及研究知识，服务于不同的兴趣（interests）**。兴趣是社会建构的，并且是**知识构成性的（knowledge-constitutive）**，因为它们塑造和决定了什么算作知识的对象和类型。兴趣具有意识形态功能：技术兴趣可以起到让有权者继续有权、无权者继续无权的作用，即**强化和延续现状**；解放兴趣则**威胁现状（pp.35–36）**。
 
-> [!warrant] 三种兴趣的层级关系
+> [!warrant]- 三种兴趣的层级关系
 > 解放兴趣**涵括前两种范式** 它需要它们，但超越了它们（Habermas, 1972, p. 211）。解放兴趣关注 **[[Phronesis\|实践智慧]]（[[Praxis]]）**——以解放为目标的、由反思所启发的行动（Kincheloe, 1991, p. 177）。这一层级关系意味着：批判理论并不否认实证主义和诠释范式的价值，而是指出它们是不完整的。描述世界和理解世界是必要的，但不足够；还需要追问谁的世界、谁的理解，以及如何改变。
 
 以下 Table 2.1 复刻了哈贝马斯三种知识构成性兴趣与对应的研究性质：
@@ -411,7 +411,7 @@ Tyler（1949）的课程四问原理如下：
 > - **研究者作为促进者和催化剂** 研究者分享其人性而非专家权威，充当变革的推动者而非控制者（Pinto, 2000, p. 13）。
 > - **贯穿所有阶段的核心问题** **谁在控制？（Pinto, 2000, p. 13）**。这一问题必须在 PR 的每一个阶段被持续追问。
 
-> [!example]- 图2.1：理想参与式研究方法的步骤（Tandon, 2005, p. 30）
+> [!example] 图2.1：理想参与式研究方法的步骤（Tandon, 2005, p. 30）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_2-1_Steps_in_Participatory_Research.jpg)
 
 > [!timeline-compact] Tandon（2005, p. 30）的理想 PR 步骤序列（Figure 2.1）
@@ -531,7 +531,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 
 ### 步骤 8：后殖民理论与酷儿理论：批判理论伞下的其他取向
 
-> [!note]- 本章的定位说明
+> [!note] 本章的定位说明
 > 本章明确承认[[Post-colonial Theory\|后殖民理论]]、[[Queer Theory\|酷儿理论]]和批判种族理论也可以被纳入批判理论的伞下，但并未展开它们，只将其列为教育研究者可能希望探索的路径（p.19）。以下为本章提供的简要注记。
 
 > [!info] [[Post-colonial Theory\|后殖民理论]]（POST-colonial Theory）
@@ -563,7 +563,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > | **典型方法** | [[Randomised Controlled Trials\|随机对照试验]]、调查、[[Causal Modeling\|结构方程建模]] | 深度访谈、参与观察、叙事分析、[[Grounded Theory\|扎根理论]] | 意识形态批判、参与式行动研究、女性主义/[[Critical Ethnography\|批判民族志]] |
 > | **教育研究实例** | 测量"教师反馈对学生成绩的[[Effect Size\|效应量]]" | 理解"教师和学生如何体验课堂互动" | 追问"课程大纲服务于谁的利益，如何改变它" |
 
-> [!example]- 图2.2：实证主义、诠释和批判范式在教育研究中的定位
+> [!example] 图2.2：实证主义、诠释和批判范式在教育研究中的定位
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_2-2_Positivist_Interpretive_Critical_Paradigms.jpg)
 
 > [!logic-map]- 三大范式的总体关系
@@ -578,7 +578,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 >   C --> I["后殖民/酷儿理论<br>身份与差异政治"]
 > ```
 
-> [!implication] 这一综合的核心意涵
+> [!implication]- 这一综合的核心意涵
 > 三大范式不是线性进化的关系（批判理论不是"更高级"的实证主义），也不是互斥的选择（一个研究可以不局限于单一范式）。完整的[[Research Literacy\|研究素养]]意味着能够在三大范式之间**审慎地选择、结合和移动**——根据研究问题的性质选择适当的兴趣-方法论组合。更重要的是，批判理论的贡献不在于"替代"前两大范式，而在于揭示了**任何范式选择本身都是一个政治决策**——选择测量"效应量"而非追问"谁受益"，选择"理解参与者视角"而非"揭露权力运作"，都是对特定利益的回应。
 
 ---
@@ -595,37 +595,37 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 
 ## 关键引用
 
-> [!citation-card]- [[Critical Theory\|批判理论]]的核心意图
+> [!citation-card] [[Critical Theory\|批判理论]]的核心意图
 > 批判理论的意图不仅是说明社会和行为的现状，更是实现一个基于全体成员平等与民主的社会。其目的不仅是理解情境和现象，而是改变它们。它特别寻求解放被剥夺权力者、纠正不平等、在民主社会中促进个人自由。（第2章，2.1节，p.27）
 >
 > Its intention is not merely to give an [[Accounts\|account]] of society and behaviour but to realize a society that is based on equality and democracy for all its members. Its purpose is not merely to understand situations and phenomena but to change them.
 
-> [!citation-card]- 兴趣的意识形态功能
+> [!citation-card] 兴趣的意识形态功能
 > 兴趣是"知识构成性的"，因为它们塑造和决定了什么算作知识的对象和类型。兴趣具有意识形态功能——技术兴趣可以起到让有权者继续有权、无权者继续无权的作用，即强化和延续现状。解放兴趣则威胁现状。（第2章，2.1节，pp.35–36）
 >
 > Interests are socially constructed, and are 'knowledge-constitutive', because they shape and determine what counts as the objects and types of knowledge. Interests have an ideological function.
 
-> [!citation-card]- [[Ideology Critique\|意识形态批判]]的双重性
+> [!citation-card] [[Ideology Critique\|意识形态批判]]的双重性
 > 意识形态批判在此既有反思的、理论的一面，也有实践的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。（第2章，2.1节，p.101）
 >
 > Ideology critique here has both a reflective, theoretical and a practical side to it; without reflection it is hollow and without practice it is empty.
 
-> [!citation-card]- 课程的核心洞见
+> [!citation-card] 课程的核心洞见
 > 一个社会如何选择、分类、分配、传递和评估它认为是公共的教育知识，反映的既是权力的分配也是社会控制的原则。（第2章，2.3节，引自Bernstein, 1971, p. 47，p.143）
 >
 > How a society selects, classifies, distributes, transmits and evaluates the educational knowledge it considers to be public, reflects both the distribution of power and the principles of social control.
 
-> [!citation-card]- [[Participatory Research\|参与式研究]]的核心倒转
+> [!citation-card] [[Participatory Research\|参与式研究]]的核心倒转
 > 参与式研究打破了将"研究"视为由精英研究群体而非普通人进行的惯常方式；普通人完全有能力对自己的处境进行[[Reflexivity\|反思性]]和批判性分析。它是深刻民主的——所有参与者平等。（第2章，2.4节，pp.155–156）
 >
 > Participatory research breaks with conventional ways of construing research, as it concerns doing research with people and communities rather than doing research to or for people.
 
-> [!citation-card]- [[Feminist Research\|女性主义研究]]的[[Epistemology\|认识论]]批判
+> [!citation-card] [[Feminist Research\|女性主义研究]]的[[Epistemology\|认识论]]批判
 > 如果仅使用男性立场的理论和观察来分析女性经验，由此产生的理论将压迫女性。（第2章，2.5节，引自Ezzy, 2002, p. 23，p.241）
 >
 > If women's experience is analyzed using only theories and observations from the standpoint of men, the resulting theories oppress women.
 
-> [!citation-card]- 马克思：解释世界与改变世界
+> [!citation-card] 马克思：解释世界与改变世界
 > 哲学家只是以各种方式解释世界；然而关键在于改变世界。（第2章，2.5节，引自马克思《关于费尔巴哈的提纲》，p.386）
 >
 > The philosophers have only interpreted the world, in various ways; the point, however, is to change it.

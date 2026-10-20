@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 现代工程与产业技术绝非孤立学科知识的机械拼接，而是基础科学与产业实际问题深度融合的系统工程；高等教育体系必须坚决破除 19 世纪遗留下来的狭隘系所行政壁垒，通过具有严苛期中问责与十年[[Sunset Provisions|日落条款]]的跨学科中心实体，强制促成学术界与产业界的战略互动，将大学前沿研发活力直接转化为国家工业[[Competitiveness|竞争力]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–374)]]
 
 > [!citation-card] 布洛赫论工程研究与基础科学的共生融合
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
 > - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录布洛赫政策口述史，全面剖析其主导 ERC 创设的立法博弈、日落条款治理哲学、淘汰机制威慑以及对传统大学系所壁垒的尖锐批判。
 
 ---

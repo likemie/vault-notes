@@ -47,7 +47,7 @@ updated: 2026-10-20
 > - **用途** 自观是保护参与者在戏剧中不受情绪伤害的关键机制。它允许参与者在保持情感投入的同时，维持足够的客观距离来进行反思。自观还促进了"边做边学"——参与者在行动的同时也在分析和评估自己的行动。
 > - **边界** 自观不同于完全的沉浸（[[Presence\|immersion]]）或疏离（detachment）。它不是让参与者冷眼旁观，而是让他们在投入中保持觉醒。当自观失败时，参与者可能被角色"吞噬"（devoured by the imaginary），如 [[Stanford Prison Experiment]] 中的参与者所经历的那样（Sartre, 1976, p. 162）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 自观意味着成为自己表演的批判观众，并促成在需要时做出改变的能力。未能监控自己在角色扮演中的参与可能导致错失学习机会、降低对情境做出灵活反应的能力，并增加危险的情感卷入风险（即被行动带着走）。（Ch. 26）
 >
 > *Self-spectation implies becoming the critical audience of your own performance, and facilitates an ability to change if required. Failure to monitor one's participation in a role-play may result in missed learning opportunities, reduced flexibility in responding to a situation, and increases the risk of dangerous emotional engagement (i.e. getting carried away with the action).*

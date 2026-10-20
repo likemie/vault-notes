@@ -150,7 +150,7 @@ issuing_organization: ""
 
 ### 论证步骤一　跨国测评打破国家传统防御，同时显露内在推论自相矛盾
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[OECD]] 在教育版图的扩张伴随着与主权国家既有文化的摩擦，其打着中立旗号的[[Discourse|话语]]体系内部潜藏着理念与方法的脱节。（p. 422）
 
 #### 1. 法国本土传统的妥协与专业意向的群体差异
@@ -182,7 +182,7 @@ issuing_organization: ""
 
 ### 论证步骤二　测评工具绕开国家政治中介，迫使基层学校脱离历史情境
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 跨国机构不仅影响中央政府，更通过量化手段直接把管理触角伸向一线校长、教师乃至单所学校，重塑基层主体的认知并带来严重的去情境化风险。（pp. 422–423）
 
 #### 1. 学校领导责任强化与公众舆论受控
@@ -213,7 +213,7 @@ issuing_organization: ""
 
 ### 论证步骤三　跨国标准重组主权国家课程，并在本土博弈中引发多向变形
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 国际测评的真正威慑力在于促使主权国家按照外来模板重订教学目标，并在本土政治生态与选拔文化碰撞中被赋予多重含义与多向变形。（pp. 423–424）
 
 #### 1. 日本与挪威在测评震荡下重组核心课程大纲
@@ -239,7 +239,7 @@ issuing_organization: ""
 
 在全球化浪潮下，亚太等转型中经济体尤其需要警惕技术官僚对数字政制的盲目遵从。（pp. 423–424）
 
-> [!implication] 转型中国家应对量化狂热的政策启示
+> [!implication]- 转型中国家应对量化狂热的政策启示
 > - **认清后国家现实** 多数亚太国家虽然缺少经合组织正式成员国身份，但同样面对其作为全球教育治理核心机构的现实，地方教育改革已深陷“后国家”政策环境与国际化规训网络之中，无法独善其身。（p. 424）
 > - **审慎借鉴办学经验** 测评方法学探索、学校领导力赋能以及高素质教师队伍建设经验确实具有参考借鉴价值，但绝不可将其简化为盲目的指标崇拜。（p. 424）
 > - **警惕盲从量化指标** 在当前的“量化狂热时代”，转型中国家最易陷入对数字、排位与指标的过度信奉与依赖；若将技术标尺凌驾于育人本真之上，将不可逆地导致教育实践滑向去文化化与去历史化的教条深渊。（p. 424）
@@ -258,12 +258,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- [[OECD|经合组织]]教学导向的双重尺度悖论
+> [!citation-card] [[OECD|经合组织]]教学导向的双重尺度悖论
 > 著者深入分析了经合组织通过其[[Discourse|话语]]传播的教学取向的本质与基础，指出其内部存在自相矛盾的教学立场：其倡导的教学取向脱离了作为官方决策基石的循证政策，高度偏向未经验证的‘[[Constructivist Paradigm|社会建构主义]]’教学实践。
 >
 > *The authors analyse the nature and foundations of teaching orientations transmitted by the OECD through its discourse and found that there is a problematic and paradoxical pedagogical position in the OECD. The teaching orientations are not founded on the [[Evidence-Based Policy-Making|Evidence-Based Policy]] which it uses as the main tool for decision-making, rather, it is the “socio-constructivist” practices that is valued.* (p. 422)
 
-> [!citation-card]- 学校版评估对教育实体的去脉络化塑造
+> [!citation-card] 学校版评估对教育实体的去脉络化塑造
 > 通过空间关系，量化和比较绩效数据将文化各异且地理相隔的学校系统与单所学校置于同一个[[Commensuration|通约]]的教育[[Champ|场域]]之中，经合组织在此成功推行了校级改革并实践了其对教育的[[Epistemology|认识论]]治理。然而，著者指出，学校版[[PISA|国际学生评估项目]]（PISA for Schools）的横向比较也将单所学校定位为一种去情境化、无文化与无历史属性的独立实体，从而导致对复杂现实的过度简化。
 >
 > *Through spatial relations, the quantitative and comparative performance data situate culturally different and geographically distant schooling systems and schools within a commensurate education field, where the OECD successfully effects school-level reforms and practices its epistemological governance of education. However, the author argues that the comparisons in PISA for Schools also lead to oversimplification of complex situations by positioning a school as a decontextualized, acultural and ahistorical entity.* (p. 423)

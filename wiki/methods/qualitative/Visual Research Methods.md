@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 单幅图像、图像序列、录像片段、器物组合、场景与互动。
 > - **输出形式** 编码与主题、[[Content Analysis\|内容分析]]、扎根式范畴、图像的多重解读与叙事。
 
-> [!citation-card]- 方法定位的经典表述
+> [!citation-card] 方法定位的经典表述
 > 视觉媒体不是中立的；它们有意或无意地传递信息，我们以多种方式解读它们。图像是建构的社会事件与视角、权力与权力关系、社会关系与社会差异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 >
 > *Visual media are not neutral; they give messages, deliberately or not, and we interpret them in many different ways. They are constructions of social events and perspectives, of power and power relations, of social relations and social difference.*

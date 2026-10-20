@@ -83,7 +83,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 
 ## 时间线
 
-> [!note]-
+> [!note]
 > - 2011 年：[[EU|欧盟]]理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
 > - 2013 年：[[Youth Guarantee Scheme]] 建立，将就业与教育培训衔接制度化
 > - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯文件（European Commission, 2016）
@@ -117,7 +117,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 > - Skills Agenda 成功将"教育培训体系"建构为[[EU|欧盟]]政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change\|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
-> [!info]- 核心数据
+> [!info] 核心数据
 > - [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning\|终身学习]]政策[[Expert Interview\|专家访谈]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])
 > - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
 
@@ -130,7 +130,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 
 ## 相关概念／理论
 
-> [!tip]-
+> [!tip]
 > - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
 > - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning\|终身学习]]中系统性地优先就业维度
 > - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事

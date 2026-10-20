@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 哈通主张将数字教育治理视作处于持续变动之中的社会-技术装配（Socio-Technical [[Assemblage]]），强调算法指标、软件架构与数据库业务规则并非客观中立的镜子，而是深嵌政治裁决、规范价值与权力配置的治理媒介；[[Technical Rationality\|技术理性]]承诺的自动化中立闭环在行政现实中必然坍缩为充满妥协与修补的即兴试凑过程，行动者必须在五维做数据张力中艰难权衡。
 
 > [!citation-card] 拓扑学重构与[[Data Infrastructure\|数据基础设施]]的治理权力
@@ -132,7 +132,7 @@ updated: 2026-10-20
 > - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字[[Bureaucracy|官僚制]]提供了极具启发性的做数据张力分析工具与可视化模型。
 > - **政策路径** 其实证研究成果向德国及欧洲教育行政决策者清晰揭示了高利害数据问责引发的防御性造假与信任侵蚀，为德国各州坚守低利害诊断问责、抵制粗暴学校排名榜提供了重要学术论证支撑。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage|装配理论]]，深入考察德国 [[PISA]] 震荡后 [[Institute for Educational Quality Improvement\|IQB]] 作为国家[[Center of Calculation\|计算中心]]与跨州绩效数据基础设施的演进历程。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 跨国比较美德两地州级教育行政机关，系统解构学校数据监测技术黑箱并提出做数据张力框架。
 

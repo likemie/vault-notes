@@ -61,7 +61,7 @@ related_arguments:
 > - **用途** 帮助研究者分析高等教育中微观阶层习性导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge\|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 象征边界是行动者用来对对象、人、实践乃至时空进行分类的脑海中的区隔线……当象征边界被广泛认同并转化为社会配给与资源控制时，它们就硬化成了社会边界。[[Argument_Zheng_2023_ShanghaiSanlian\|(Lamont & Molnár, 2002, p. 168, 转引自 郑雅君, 2023)]]
 >
 > *“Symbolic boundaries are conceptual distinctions made by social actors to categorize objects, people, practices, and even time and space. ... Only when symbolic boundaries are widely agreed upon can they take on a constraining character and become social boundaries.”*
@@ -176,12 +176,12 @@ related_arguments:
 > > - **Lamont et al. (2002, 2015)** — 主张道德象征边界具有独立的社会学意义，能够独立于资本总量对社会互动施加约束。
 > > - **传统[[Pierre Bourdieu\|布迪厄]]学派学者** — 倾向于将道德表述视为文化资本与阶级习性（[[Habitus]]）的派生产物。
 >
-> > [!axis]- 边界跨越（Boundary Crossing）vs. 边界固化（Boundary Reinforcement）
+> > [!axis] 边界跨越（Boundary Crossing）vs. 边界固化（Boundary Reinforcement）
 > > 探讨行动者在遭遇符号象征边界时，倾向于调整自身行为穿透边界，还是强化自我认同形成抵制。
 > >
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]** — 发现直觉依赖者往往通过道德固化（道德贬低功利行为）来保护自我认同，但也因此错失了跨越学业边界的机会[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
 
-> [!critique]- 外部批评
+> [!critique] 外部批评
 > - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常实践中的[[Pragmatic Paradigm\|实用主义]]策略与非道德化的情境适应。
 > - **[[Official Knowledge\|官方知识]]边界的排他性后果** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
 

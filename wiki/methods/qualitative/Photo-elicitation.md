@@ -60,7 +60,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 访谈文本、照片及其叙事、照片内容与受访者解释之间的对照。
 > - **输出形式** 访谈[[Transcription in Qualitative Research\|转录]]文本、主题、编码与照片支撑的叙事。
 
-> [!citation-card]- Harper 的定义
+> [!citation-card] Harper 的定义
 > 照片引谈法（photo-elicitation interview）以照片作为访谈的起点或主要内容，照片唤起受访者的讨论与记忆。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1–27.2)]]
 >
 > *The "photo-elicitation interview" (Harper, 2000, p. 725) uses photographs ... as starting points for interviews or as main elements of interviews.*

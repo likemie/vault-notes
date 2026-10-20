@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!boundary] 概念边界辨析
+> [!boundary]- 概念边界辨析
 > - **不等于先天智商或潜在认知能力** 学业成就是努力、策略、动机、[[Epistemological Beliefs|认识论信念]]与环境支架长期交互的输出产物，受学习情境与教学[[Task Structure|任务结构]]的剧烈调节，具有高度的可塑性与发展性，不属于静态心理特质。
 > - **不等于无效标锚定的随意主观自报** 随意的主观自评会因社会赞许性而产生偏差并稀释理论关联；但若在严谨指导下自报特定学科平均百分比并与学校官方实际总评成绩（OAA）建立效标锚定，其自报预估值（EOAA）可展现稳健的[[Criterion-related Validity|效标效度]]。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, p. 314)]]
 > - **不等于脱离情境的一般性表现** 学生在结构清晰的常规练习题中的表现，与在充满矛盾争议的开放辩护任务中的[[Reflexivity|反思性]]表现，属于不同维度的学业成就。
@@ -251,7 +251,7 @@ updated: 2026-10-20
 >    - **研究者或教师自编测验（developer-/teacher-made measures）** 紧密贴合特定教学单元或干预课程的定制化测验，对微观教学内容变化高度敏感。
 >    - **国家与跨国高利害统一考试（national & international high-stakes examinations）** 与法定课程标准或关键素养基准紧密对齐的终结性大规模考试（如[[Gaokao|高考]]、会考及 [[PISA]] 等跨国测评）。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
-> [!logic-map] 要素关系
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     subgraph Dimensions["学业成就的核心要素与操作化维度"]

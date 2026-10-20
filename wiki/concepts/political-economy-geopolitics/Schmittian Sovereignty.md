@@ -60,7 +60,7 @@ updated: 2026-10-20
 > - **分析用途** 帮助研究者透视国家安全逻辑如何以“例外状态”为由合法侵入并重构日常教育、教材编写和学校行政。
 > - **概念边界** 施米特式主权并非单纯的无序暴力，而是一种高度理论化的法律理论解释，论证了决断（decision）如何作为法律规范的终极源泉。
 
-> [!citation-card]- 关键学术表述
+> [!citation-card] 关键学术表述
 > 施米特式的主权观认为主权在于决断。主权者不仅仅是制定规则的人，更是决定什么时候可以悬置规则的人（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.155]]）。
 >
 > *“Sovereign is he who decides on the exception.”* (Carl Schmitt, Political Theology, 1922)

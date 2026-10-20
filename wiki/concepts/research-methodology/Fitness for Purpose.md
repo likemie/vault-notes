@@ -95,7 +95,7 @@ updated: 2026-10-20
 >
 > *Appropriate research evidence is about the quality and the context-specific appropriateness of the research... it needs to be not only methodologically rigorous, but also appropriate for the educational issues, the context and the people involved (i.e. 'fitness-for-purpose') (Nutley, Powell, and Davies 2013).*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **不等于 研究者的方法偏好** 研究者不能因“熟悉访谈”或“害怕数字”而倒推研究目的；让方法偏好决定研究目的是典型的“尾巴摇狗”本末倒置。
 > - **不排斥 [[Mixed Methods Research\|混合方法研究]]** 目的适配性不仅适用于单一[[Paradigm\|范式]]，在混合方法中更要求在质性与量化成分之间协同建立内在逻辑一致性。
 > - **不等于 单一教条的证据等级制（Hierarchy of Evidence）** 证据等级制预设单一方法（如[[Randomised Controlled Trials\|随机对照试验]]）先验优于其他一切方法；目的适配性主张不同实践目的（如机制理解、因果效应、体验质感）需要不同方法论证据。

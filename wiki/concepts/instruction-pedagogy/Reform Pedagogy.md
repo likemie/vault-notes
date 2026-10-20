@@ -74,7 +74,7 @@ updated: 2026-10-20
 >
 > *The concept of learning entered the Danish context during the 1960s and 1970s as a word explicitly criticizing undemocratic educational top-down decisions and traditional and enforced socialization patterns within education. In those days, the learning agenda was critical towards what was seen as an authoritarian and conservative codified learning monopoly and demanded autonomy, problem-oriented study and group work, interdisciplinary approaches, social relevance and personal motivation. Critical educationalists studied and revitalized the ‘old’ texts of the American philosopher John Dewey and the German didactical pedagogical theoretician Wolfgang Klafki—and the Germans and Danes developed several types of “Reform Pädagogik” (reform pedagogy) and ‘implemented’ them in state-supported school experiments.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Progressive Education|进步主义教育]] — 进步主义教育主要是以美国为主战场的教育改革运动，侧重[[Pragmatic Paradigm|实用主义]]与民主社会的社会化功能；改革教育学则是其欧洲对偶形态，更深地交织了德奥北欧的教化哲学、范型教学论以及反抗国家集权主义的文化批判传统。
 > - 不等于 [[Learnification|学习化]] — 改革教育学中的“学习”强调自决与社会正义，而新自由主义的“学习化”则剥离了教学内容与教育目的，将师生矮化为促学员与消费客户。
 
@@ -100,7 +100,7 @@ updated: 2026-10-20
 > - **个人内在动机与社会相关性** 强调课程内容必须与学习者的鲜活生活体验深度联结，依靠问题引发的理智惊奇激发探究动力，而非依赖外部奖惩与分数威胁。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 > - **体制内自治实验基地** 依赖国家资助与地方社区支持建立专门的实验学校，开展去中心化的课程与组织重构，充当全社会民主化转型的先锋阵地。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!logic-map] 要素关系
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     A["反抗威权注入（打破 indlæring 容器隐喻）"] --> B["确立学习者自决与批判主体地位"]

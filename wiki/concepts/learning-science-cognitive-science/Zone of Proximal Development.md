@@ -267,7 +267,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 在实证研究与实践落地中，ZPD 已发展出一整套可量化、可干预的[[Operationalization|操作化]]矩阵。
 
-> [!measurement-table] 操作化与测评矩阵
+> [!measurement-table]- 操作化与测评矩阵
 > | 评估与应用方式 | 核心技术规程 | 在研究中的指标化表现 |
 > |---|---|---|
 > | **[[Dynamic Assessment\|动态评估]]（Dynamic Assessment）** | 采用“前测（独立基线）$\to$ 标准化线索提示 $\to$ 后测（迁移应用）”的三段式流程。 | 以受试者达成解决问题所需的**线索提示数量（Prompt Count）** 作为 ZPD 宽度的逆向指标。 |

@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]-
+> [!note]
 > - 就读于复旦大学高等教育研究所，师从熊庆年教授([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程
 > - 2015 秋至 2017 年初，在中国两所著名[[Research Universities|研究型大学]]（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview\|深度访谈]]
@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]-
+> [!tip]
 > 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与习性理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 
 > [!quote]
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ## 思想发展
 
-> [!note]-
+> [!note]
 > 研究按阶段推进：
 
 ### 2014–2017 研究起点与首轮田野

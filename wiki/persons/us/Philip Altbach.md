@@ -73,7 +73,7 @@ updated: 2026-10-16
 > - **核心角色** 在全球知识社会学、中心-边缘[[Dependency Theory|依附理论]]与跨国高等教育[[Policy Network|政策网络]]中承担理论中枢角色；在比较教育学科史中，作为第四代际转型的重要亲历者与记录者，权威定性了 20 世纪 70 年代后功能主义垄断被打破、多元[[Paradigm|范式]]并存的历史轨迹。
 > - **代表贡献** 1. 创立全球高等教育学术依附与“中心-边缘”[[Analytic Framework|分析框架]]；2. 奠定国际高等教育（International Higher Education）作为成熟独立[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域的建制基础；3. 权威阐释比较教育学向性别研究、课堂[[Ethnography|民族志]]与新马克思主义[[Pluralism|多元主义]]迈进的范式重构。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 正如美国著名的比较教育学者菲利普·阿特巴赫在 1991 年谈及美国比较教育时所写道的：“自 20 世纪 70 年代以来，比较教育学发生了重大变化。那些曾被认为无关紧要的主题（如教育中的性别角色）已成为研究与分析的核心；民族志和[[Participant Observation|参与观察]]等新方法论变得愈发重要；马克思主义等替代性意识形态已被用于启发比较教育分析。[[Structural Functionalism|结构功能主义]]等范式的霸权被彻底打破……各种不同的视角涌入了比较教育研究中。”[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >
 > *As Philip Altbach, a leading American comparative educator, wrote in 1991 about American CE: 'Comparative education has changed significantly since the 1970s. Topics that were considered unimportant, such as the role of gender in education, have become the subject of research and analysis. New methodologies, such as ethnography and participant observation, have become important. And alternative ideologies such as Marxism have been used to inform analysis in comparative education. The domination of such paradigms as structural functionalism was broken... Rather, a variety of different perspectives have entered into comparative education research' (Altbach, 1991: 504).*
@@ -112,7 +112,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球高等教育与科学研究系统从根本上运作于一个高度等级化的“中心-边缘”（Center-Periphery）结构中：北美与西欧的核心大学垄断了学术资本、高水平实验室、顶尖国际期刊与知识合法化定义权；外围与半外围国家在语言（英语霸权）、教科书与学术标准上长期依附于核心国。健康均衡的全球学术生态决不能依赖核心国的单向知识倾销，必须承认多元[[Epistemology|认识论]]的合法性，打破任何单一教条[[Paradigm|范式]]对学术[[Knowledge Production|知识生产]]的垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!citation-card] 阿特巴赫论比较教育学科范式多元化转向

@@ -77,7 +77,7 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第15章 [[Concept Mapping\|概念地图]]
+> [!knowledge-map] 第15章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_15_Concept_Map.jpg)
 
 ## 章节内容
@@ -168,7 +168,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 核心逻辑 | 假设自变量 → 检验因变量差异 | 观察因变量差异 → 假设并检验各自变量 |
 > | 与实验的相似性 | 接近实验逻辑：有处理组和对照组 | 更接近探索性的逆向推理 |
 
-> [!example]- 图15.1 四种事后回溯研究类型
+> [!example] 图15.1 四种事后回溯研究类型
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_15-1_Four_Types_of_Ex_Post_Facto_Research.jpg)
 >
 > 该图以前瞻性/回溯性和[[Co-relational Study\|共变关系研究]]/[[Criterion Group Study\|标准组研究]]两个维度，划分出四种事后回溯研究设计类型（p. 306）。
@@ -255,7 +255,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 基本设计可表示为：
 
-> [!example]- 图15.2 两个原因与两个效果
+> [!example] 图15.2 两个原因与两个效果
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_15-2_Two_Causes_and_Two_Effects.jpg)
 >
 > 该图呈现 Morrison（2009, p. 181）的[[Effective Teaching\|有效教学]]因果-比较研究设计（见下文）（p. 308）。
@@ -480,32 +480,32 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 ## 关键引用
 
-> [!citation-card]- 从结果逆向搜索原因
+> [!citation-card] 从结果逆向搜索原因
 > [[Ex Post Facto Research\|事后回溯研究]]字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的因果-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
 >
 > *Ex POST facto means 'after the fact' ... In the context of social and educational research the phrase means 'retrospectively' and refers to those studies which investigate possible cause-and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors.*
 
-> [!citation-card]- 概率性因果：试探性推断，无法确定性展示
+> [!citation-card] 概率性因果：试探性推断，无法确定性展示
 > 只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable\|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此推断在概率性[[Causality\|因果关系]]的领域内进行：试探性地推断原因，无法确定性地展示因果关系。（第15章，p. 304）
 >
 > *Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. [[Independent Variable\|independent variables]] cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of [[Probabilistic Causation]], inferring causes tentatively rather than being able to demonstrate causality unequivocally.*
 
-> [!citation-card]- 反向实验：事后回溯是实验的逻辑镜像
+> [!citation-card] 反向实验：事后回溯是实验的逻辑镜像
 > 事后回溯设计在某种程度上相当于反向进行的[[Experimental Research\|实验研究]]：从已经在某些方面存在差异的组出发，回溯搜索导致差异的因素，而不是取等效组并施加不同处理以产生[[Dependent Variable\|因变量]]差异。Spector（1993, p. 42）认为事后回溯研究是一种试图将非实验研究设计转化为伪实验形式的程序。（第15章，pp. 305–306）
 >
 > *Some instances of ex post facto designs correspond to experimental research in reverse, for instead of taking groups that are equivalent and subjecting them to different treatments so as to bring about differences in the dependent variables to be measured, an ex post facto experiment begins with groups that are already different in some respect and searches in retrospect for the factor that brought about the difference.*
 
-> [!citation-card]- [[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]与反向因果
+> [!citation-card] [[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]与反向因果
 > 因果关系的建立常常仅仅基于这样的前提：任何先于所研究现象发生的相关事件都被假定为其原因，即经典的事后归因谬误（post hoc, ergo propter hoc fallacy）。仅因一个变量在时间上先于另一个，不意味着前者引发后者。即使发现两个变量之间的关系，也必须认识到二者可能都是某个共同的第三因素的结果。还有反向因果的真实可能性，如心脏状况促进肥胖，反过来也可能成立。（第15章，pp. 309–310）
 >
 > *Frequently, causal relationships seem to be established on nothing more substantial than the premise that any related event occurring prior to the phenomenon under study is assumed to be its cause – the classical post hoc, ergo propter hoc fallacy. Even when we do find a relationship between two variables, we must recognize the possibility that both are individual results of a common third factor rather than the first being necessarily the cause of the second. There is also the real possibility of reverse causation.*
 
-> [!citation-card]- 证据只能说明假设，不能检验假设
+> [!citation-card] 证据只能说明假设，不能检验假设
 > 事后回溯假设生成于数据收集之后，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
 >
 > *The ex post facto [[Hypothesis]] is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here .*
 
-> [!citation-card]- 将事后回溯研究重新定位为调查
+> [!citation-card] 将事后回溯研究重新定位为调查
 > 事后回溯设计更适合被理解为调查（surveys），作为需由更常规实验方法在日后检验的假设的有用来源。尽管有诸多局限，教育和心理学中许多重要研究都是事后回溯设计：通常别无选择，无法使一组人成为失败者、犯罪者、自杀者或脑损伤者，研究必须依赖已有群体。（第15章，p. 310）
 >
 > *Ex post facto designs are probably better conceived more circumspectly, not as experiments with the greater certainty that these denote, but more as surveys, useful as sources of hypotheses to be tested by more conventional experimental means at a later date. Many of our important investigations in education and psychology are ex post facto designs. There is often no choice in the matter: an investigator cannot cause one group to become failures, delinquent, suicidal, brain-damaged or dropouts.*

@@ -80,7 +80,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 创造力是由**人（Person）**、**过程（Process）**、**产品（Product）** 与**压力/环境（Press）** 四个核心维度构成的动态复合生态系统；任何孤立抽离单一维度的研究都将导致[[Construct Validity\|构念效度]]滑坡与结论片面化，创造力的完整发生必然是具有特定人格与动机的个体，在特定物理与社会环境支持下，运用复杂认知加工策略，最终产出被领域认可的新颖且适切的产品（Rhodes, 1961; Runco, 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 3–4]]）。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 这一[[Variable\|变量]]分类符合创造力理论。背景变量影响创造力的观点源自人类具有创造潜能的理论；认知相关因素源自发散思维与顿悟理论；外认知相关因素源自人格特质与情绪心境理论；干预与教育教学源自教学与训练理论；而即时情境影响则源自将创造力视为当前心理机能表现的理论。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 4)]]
 >
 > *This distinction fits with creativity research and theory... The idea that there are important immediate influences on creativity follows from theories of creativity as an expression of current functioning.*
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ### 延伸命题与机制
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一与命题二）** 当创造力作为[[Independent Variable\|预测变量]]时，由于采用标准化潜能（Person/Process）测验，其[[Predictive Validity\|预测效度]]（$r = 0.29$）显著强于创造力作为[[Dependent Variable\|效标变量]]时（$r = 0.12$），揭示了效标定义分散（Product 异质性）对效应量的统计稀释机制[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。
 > - **推论二（教育应用命题）** [[Creativity Training\|创造力教学]]干预必须采取“Press-Process-Person”三位一体策略：通过创设高心理安全感与[[Wicked Problem|劣构问题]]情境（Press），传授启发式重构策略（Process），同步激发创造性[[Self-Efficacy\|自我效能]]与内在动机（Person），以达成最大干预效应（$d \approx 0.74–0.87$）。
 
@@ -228,7 +228,7 @@ updated: 2026-10-20
 > >
 > > - **Mihaly Csikszentmihalyi (1988)** 三元系统模型强调[[Creativity\|创造力]]是个体（Individual）、领域（Domain）与[[Champ\|场域]]（Field）共同认定的社会建构物。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al., 2026]] — 揭示 4P 各维度的实证[[Effect Size\|效应量]]存在显著不对称性：环境干预（$r = 0.20$）与过程（$r = 0.27$）关联强劲，而产品维度受效标[[Heterogeneity\|异质性]]制约效应量偏低（$r = 0.12$）。
 
 ---

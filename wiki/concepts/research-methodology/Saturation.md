@@ -48,7 +48,7 @@ updated: 2026-10-20
 > - **用途** 在无法预先确定样本量的质性研究中，饱和提供了一个理性的终止依据
 > - **边界** 饱和是事后判断的概念，无法在研究开始前预知何时达到；研究者可能因编码框架的限制而未能看到新信息
 
-> [!citation-card]- 经典定义
+> [!citation-card] 经典定义
 > 当类别（或主题）达到饱和时即停止收集数据，也就是当收集新鲜数据不再引发新的洞见或揭示新的主题时。（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p. 198）
 >
 > *One stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes.*

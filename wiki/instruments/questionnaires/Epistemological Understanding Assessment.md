@@ -56,7 +56,7 @@ updated: 2026-10-16
 > - **测量目的** 用于诊断和描述个体在五个判断领域中的[[Epistemology\|认识论]]发展阶段（[[Absolutist\|绝对论者]]、[[Multiplist\|多元论者]]、[[Evaluativist\|评价论者]]）。
 > - **实施方式** 自陈纸笔测验（或访谈，如针对低龄儿童）。
 
-> [!citation-card]- 理论支撑
+> [!citation-card] 理论支撑
 > “The instrument we constructed to assess epistemological understanding was designed to focus on what we propose to be the key elements in achieving this coordination [of subjective and objective dimensions] for each of the transitions (from absolutist to multiplist and from multiplist to evaluativist) examined.”
 >
 > *[[Deanna Kuhn\|Kuhn, D.]], Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive Development, 15(3), p. 315.*

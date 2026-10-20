@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　提升教学效能必须依托经过实验检验的具体方案而非抽象教学原则
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > 教育研究之所以长期未能显著改变学校实践，关键在于过往政策倾向于传播抽象的教学原则，而教师缺乏将通用原则转化为课堂效能的能力；真正的循证改革必须指向经过对照组实验验证的具体课程材料、技术工具与结构化培训项目。（pp. 22–23）
 
 #### 1. 传统教育改革的意识形态钟摆与通用原则困境
@@ -251,14 +251,14 @@ updated: 2026-10-20
 
 ### 论证步骤二　分层资助管线、独立审查与法定证据分级构筑了循证改革落地的制度基础设施
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 过去 15 年间，美国与英国通过[[Tiered Evidence Grants\|分层资助管线]]（i3、[[Education Innovation and Research\|EIR]]、[[Education Endowment Foundation\|EEF]]）、独立证据清算机构（[[Educational Evidence Clearinghouses]], EEC）（[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[Evidence for ESSA]]）以及《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA 2015）的法定证据分级，首次使循证改革的三大[[Necessary and Sufficient Conditions\|必要条件]]在全球范围内成为现实。（pp. 23–26）
 
 #### 1. 联邦与国际分层资助管线推动循证干预项目的系统研发与产出
 
 公共研发资金的机制创新彻底扭转了高质量教育实验匮乏的历史困局。（pp. 23–24）
 
-> [!figure]- 图 1：符合 ESSA 强与中等证据标准的研究数量演进（1988–2017）
+> [!figure] 图 1：符合 ESSA 强与中等证据标准的研究数量演进（1988–2017）
 > ![](https://img.mylikemie.icu/sources/Slavin_2019_EP/figures/Slavin_2019_EP_Fig1_ESSA_Studies_Growth.jpg)
 
 从 1988 年至 2003 年，符合严格因果标准的教育实证研究数量长期处于低位（每两年仅 0–2 项）；2003 年美国国家[[Institute of Education Sciences|教育科学研究院]]（[[Institute of Education Sciences|IES]]）成立及 2009 年 i3 分层资助计划实施后，小学数学、小学后进生阅读与中学阅读领域的合规严谨研究数量呈现出显著增长态势，到 2016–2017 年已突破每两年 20 项以上。（p. 23）
@@ -302,7 +302,7 @@ updated: 2026-10-20
 
 ### 论证步骤三　以经验证的具体方案填充干预反应三层谱系能够系统性预防早期学业失败
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 传统[[Response to Intervention\|干预反应模型]]（RTI）在大规模实施中失败的根本原因在于缺乏具体方案填充；若将达到 ESSA 强与中等标准的循证阅读与数学方案成套配置于 TIER 1、Tier 2 和 Tier 3（即 [[Response to Proven Instruction\|RTPI]] 方案），将使处境不利学生的学业成功获得确定性的制度保障。（pp. 27–29）
 
 #### 1. 传统 RTI 实施困境与 RTPI 理论方案的提出
@@ -379,7 +379,7 @@ updated: 2026-10-20
 
 ### 论证步骤四　大样本整群随机试验与多层线性模型在保障内部因果效度的同时确立了外部概化力
 
-> [!claim] 步骤四核心主张
+> [!claim|lead] 步骤四核心主张
 > 针对[[External Validity\|外部效度]]概化困难、[[Replication in Education Research\|复现危机]]、低资源学校承载力及实验特权论等主流批评，现代实验方法学通过 40–50 所学校的整群[[Random Assignment\|随机分配]]与 [[Hierarchical Linear Model\|HLM]] 分析有效解决了概化问题；实验方法是回答相比替代方案何者有效这一特定问题的最佳匹配设计，而非对其他研究方法的排斥。（pp. 26–29）
 
 #### 1. 整群随机分配与多层线性模型对外部效度的技术保障

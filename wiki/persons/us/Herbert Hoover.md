@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 工程实践的核心特质在于其成果具有不可伪饰的物理可检验性与极端透明的责任对称性。与其他依赖语言修辞、法律辩护或人际博弈的职业不同，工程师的作品直接暴露在客观物理世界的大众视野之下；构件要么能够稳定承重，要么发生断裂坍塌；软件要么正常运行，要么出现故障崩溃。这种对物理反馈的绝对敬畏与对失败的即时面对，构成了[[Engineering Mindset|工程思维]]抗拒官僚推诿与教条主义的最坚实底座，也是打破公共部门[[Innovation Desert|创新荒漠]]与奢侈信念的核心思想资源（Hoover, 1951; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
 
 > [!feature] 胡佛工程责任与[[Epistemology|认识论]]三大特质
@@ -128,7 +128,7 @@ updated: 2026-10-20
 > - **政策与实践路径** 主导了20世纪美国现代物流调度、工业标准化规程（从螺栓尺寸到砖块规格）以及无线电频谱早期管制的制度框架。
 > - **现代工程哲学与治理复兴** 其关于工程师责任不可逃避的格言被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中重新激活，作为现代软件工程文化、无过错根因复盘（[[Five Whys|五问法]]）与跨越公共部门[[Innovation Desert|创新荒漠]]的[[Epistemology|认识论]]灯塔（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究胡佛工程责任伦理对现代[[Engineering Mindset|工程思维]]、反官僚推诿认识论及跨越公共创新荒漠的历史奠基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14, p. 160)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]
 
 ---

@@ -207,7 +207,7 @@ updated: 2026-10-20
 >
 > *The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - **与[[Evidence-Informed Practice|证据知情实践]]（EIP）的分野** EBE 将研究证据置于决策驱动的排他核心地位；EIP 则将证据视作多源参考信息之一，依托教师[[Professional Judgment|专业判断]]完成情境整合与能动转化。
 > - **与价值正当性反思的边界** EBE 聚焦于什么有效的工具理性效能识别，无法回答什么是值得学习与追求的价值本体问题，后者属于[[Value-Based Education|价值本位教育]]、教学论与教化哲学的关切领域。
 > - **不可替代教师专业判断** 统计显著的实验效应量仅反映概率性历史规律，向具体异质课堂情境的迁移始终需要教师的专业[[Phronesis|实践智慧]]作为调适中介。

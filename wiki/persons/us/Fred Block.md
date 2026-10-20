@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 现代美国的真正成功并非来自自由市场的无干预自发调节，而是源于冷战后悄然成型的去中心化“[[Developmental Network State|发展型网络国家]]”。由于两党政治逻辑与[[Market Fundamentalism|市场原教旨主义]]意识形态的束缚，这一国家机器不得不以隐形形态在暗中运作；唯有破除市场神话、克服知识商品化障碍，并将公帑投入与公众收益、劳工技能及民主问责有机绑定，国家创新能力才能真正服务于包容性繁荣。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172, 193–204)]]
 
 > [!citation-card] 隐藏在聚光灯下的国家创新机器
@@ -144,7 +144,7 @@ updated: 2026-10-20
 > - **政策路径** 深刻启发了当代关于美国国家战略、[[CHIPS and Science Act|芯片法案]]及[[Inflation Reduction Act|通胀削减法案]]的公共讨论，为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）的“创业型国家”（Entrepreneurial State）理论提供了先驱性证据支持。
 > - **跨国／跨领域传播** 其对波兰尼思想的当代重构广泛影响了社会学、政治学、国际关系与公共政策学界，成为剖析当代[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）与新自由主义悖论的经典文献。
 
-> [!evidence-grid-a]- 相关文献索引
+> [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 提出“隐藏的发展型国家”命题，系统梳理 1980 年代以来美国联邦科研网络对高科技产业的结构性重塑与制度张力。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 借鉴布洛克 DNS 理论，进一步以 [[DARPA]] 为实证案例揭示公共代理人主动引导国家战略[[Technological Trajectories|技术轨道]]的微观嵌入机制。
 

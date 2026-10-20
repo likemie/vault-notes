@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
 
 > [!citation-card] 跨国证据与教育体系自我超越
@@ -129,7 +129,7 @@ updated: 2026-10-20
 > - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse\|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
 > - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威援引其文献，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
@@ -173,7 +173,7 @@ updated: 2026-10-20
 > > - **施莱歇尔团队** 宣称经合组织仅提供客观实证数据与国际同行镜鉴，政策裁量权始终由主权国家政府保留。
 > > - **社会学学者（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）** 揭示经合组织深度迎合[[Media Logic\|媒体逻辑]]与商业出版巨头利益，通过“命名与羞辱”制造制度恐慌，以此推介以绩效挂钩与私营介入为特征的标准化治理处方。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[2014 Open Letter on PISA]] — 83 位全球顶尖学者联名抗议其推行的大规模测验引发短期应试修补并侵蚀[[Teacher Professional Agency\|教师专业自主权]]。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 揭露其在伦敦发布会运用极度迎合媒体传播的简报技术，将高度不确定的统计相关性包装为确定性的因果改革处方。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批评其将东亚高应试表现归因于学生自我谴责，掩盖了高利害测评对学生心理健康与[[Creativity\|创造力]]的深远负面损害。

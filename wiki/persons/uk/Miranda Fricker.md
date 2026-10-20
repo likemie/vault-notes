@@ -60,7 +60,7 @@ updated: 2026-09-24
 >   - 确立“求知者能力（Capacity as a Knower）”作为人类不可剥夺的基本尊严；
 >   - 提出纠正潜意识偏见的[[Reflexivity|反思性]]认识德性（Epistemic Justice as a Virtue）。
 
-> [!citation-card]- 弗里克论求知者能力的伦理尊严
+> [!citation-card] 弗里克论求知者能力的伦理尊严
 > 认识不正义在根本上是对一个人作为求知者能力的贬损。当一个人的证言因为听者的潜意识身份偏见而遭到轻视，或者当他因为集体诠释资源的匮乏而无法理解自己的社会苦难时，他不仅在认知上受挫，更在人性尊严的原初意义上遭受了伤害。Fricker (2007, p. 5)
 >
 > *To be wronged in one's capacity as a knower is to be wronged in a capacity essential to human value... When someone is excluded from the relations of trust that are necessary for social knowledge, they are degraded as human subjects.*

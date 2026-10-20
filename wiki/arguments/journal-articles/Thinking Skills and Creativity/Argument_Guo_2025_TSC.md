@@ -244,12 +244,12 @@ issuing_organization: ""
 > 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的假设。
 > 2. **模型选择依据** 异质性检验 $I^2 = 84.314\% > 75\%$ 且 $Q(28) = 178.507$（$p < 0.001$），表明效应量的变异主要来自各研究间真实的教学设计与情境差异而非抽样误差，因而随机效应模型与后续调节分析具有充分的方法学正当性。（p.6）
 
-> [!evidence-grid]- 支持全域效应与偏倚检验的论述证据
+> [!evidence-grid] 支持全域效应与偏倚检验的论述证据
 > - **统计显著的中等干预效应** 多层随机效应模型综合 29 项研究 109 个效应量，确立了干预对大学生综合创造力的稳健提升，[[Confidence Interval\|置信区间]]完全处于正向显著区间。
 > - **高度异质性提示深层调节机制** 极高比例的[[Between-Study Variance\|研究间真实方差]]（$I^2 > 84\%$）表明，干预效果不仅取决于“是否训练”，更高度依赖于“如何训练”与“训练多久”。
 > - **低[[Publication Bias\|发表偏倚]]风险保障结论可[[Reliability\|信度]]** [[Funnel Plot\|漏斗图]]散点对称聚集于均值顶部，未出现小样本极端正向效应扎堆的右偏不对称现象，表明[[Literature Search\|文献检索]]与纳入较为全面。（pp.5–6）
 
-> [!example]- 图2：109 个效应量的[[Standard Error\|标准误]]漏斗图
+> [!example] 图2：109 个效应量的[[Standard Error\|标准误]]漏斗图
 > ![](https://img.mylikemie.icu/sources/Guo_2025_TSC/figures/Guo_2025_TSC_Fig2_Funnel_Plot.jpg)
 
 > [!warrant]- 推理桥梁
@@ -279,7 +279,7 @@ issuing_organization: ""
 > 2. **言语与词汇联想保持稳健** 词汇创造力（$g = 0.641$）与言语创造力（$g = 0.606$）展现出强劲的语义重组与非常规用途生成能力。
 > 3. **情绪创造力响应相对滞后** 情绪创造力（$g = 0.397$）显著偏低，提示涉及深层情绪体验与人格调节的非认知构念对常规认知干预的敏感度相对有限。（p.7）
 
-> [!evidence-grid]- 子维度响应差异的认知机制论述
+> [!evidence-grid] 子维度响应差异的认知机制论述
 > - **思维发散与视觉表征的强可塑性** 启发式思维训练和发散演练能够迅速解除大学生的功能固着（Functional Fixedness），直接促进图形与思维任务中的观念流畅性与独创性。
 > - **语义重组与言语[[Externalization\|外化]]的认知通道** 字词联想任务与非常规用途测试依赖于[[Working Memory\|工作记忆]]中的远距离语义激活，经过显性联想策略引导后呈现出稳健的增益。
 > - **情绪构念与认知任务的转化阻滞** 情绪创造力涉及情感情境的深度体验与自我表达，难以仅凭短期课堂干预在标准化情商或体验量表上产生大幅跃升。（pp.7–9）
@@ -436,22 +436,22 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体[[Meta-analysis\|元分析]]结论
+> [!citation-card] 总体[[Meta-analysis\|元分析]]结论
 > 总体而言，结果显示训练项目对大学生的[[Creativity\|创造力]]具有中等但在统计上显著的影响（Hedges' $g = 0.628, p = 0.000 < 0.01$）。这些发现为教育工作者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。（p.1）
 >
 > *Overall, the results revealed a medium yet statistically significant impact of training programs on the creativity of university students (Hedges’ g = 0.628, p = 0.000 < 0.01). These findings offer valuable insights for educators and policymakers in formulating curricula and interventions aimed at fostering students’ creativity.*
 
-> [!citation-card]- 时间周期的倒 U 型关系
+> [!citation-card] 时间周期的倒 U 型关系
 > 根据我们对“训练周期”的分析，我们发现训练持续时间与其效果之间存在曲线关系，呈现出倒 U 型特征。最初，训练效果随时间增加而上升；然而，超过某一关键阈值后，过长的训练时间会导致效果下降。（p.6）
 >
 > *According to our analysis of “duration,” we identified a curvilinear relationship between the duration of training and its efficacy, characterized by an inverted U-shaped relationship. Initially, the training effectiveness increased with time. However, beyond a critical threshold, prolonged training duration led to a decline in effectiveness.*
 
-> [!citation-card]- 独立训练与深度沉思优势
+> [!citation-card] 独立训练与深度沉思优势
 > 个体[[Creativity Training\|创造力训练]]为内省和高度专注提供了有利环境。参与者可以在没有外界干扰的情况下进行任务和练习，使他们能够完全沉浸在创造过程中。这种专注促进了对个人创造力的更深入探索，并鼓励参与者在不受群体动力影响的情况下自由产生想法。（p.8）
 >
 > *Individual creativity training offers a conducive environment for introspection and deep concentration. Participants can engage in tasks and exercises without external distractions, enabling them to fully immerse themselves in the creative process. This solitary focus facilitates a deeper exploration of personal creativity and encourages participants to freely generate ideas without the influence of group dynamics.*
 
-> [!citation-card]- 言语训练与认知技能核心价值
+> [!citation-card] 言语训练与认知技能核心价值
 > 言语训练产生了最显著的效果，强调了认知技能发展在创造力训练中的关键作用……针对[[Divergent Thinking\|发散思维]]和[[Problem Solving\|问题解决]]技能等认知过程的干预措施，能够有效促进学生在感知、注意、记忆、[[Executive Function\|执行功能]]、逻辑推理和加工速度等方面的全面提升。（p.9）
 >
 > *Firstly, the results demonstrate that verbal training yields the most significant outcomes, underscoring the critical role of cognitive skill development in creativity training... Specifically, the design of such programs should prioritize interventions that target cognitive processes — such as divergent thinking and problem-solving skills — thereby facilitating improvements in students’ perception, attention, memory, executive function, logical reasoning, and processing speed.*

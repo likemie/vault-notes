@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 发展经过与演变阶段
 
-> [!dev-timeline]- 事件推进历程
+> [!dev-timeline] 事件推进历程
 > - **1981–1983 — 委员会组建与危机修辞锻造** 说明从联邦教育部危机自救到发布震撼性冷战战争隐喻报告的过程。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
 >   - 1981-08 教育部长 T. H. Bell 成立由 18 位[[Grandes Ecoles|大学校]]长、教育学者及工商界代表组成的国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]），受命评估美国公立学校质量、开展跨国基准比较并制定改革建议。
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、教师资质不足与有效学习时间偏短的抱怨。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法** 促成全美 45 个州大幅提高公立高中毕业学分与课程要求；促使美国联邦教育部得以在保守派裁撤风暴中幸存并扩权；直接孵化了[[OECD\|经合组织]] [[International Indicators of Education Systems\|INES]] 项目及后续 [[PISA]] 测评体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 10, 12)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底打破了战后早期的平等主义与社会补偿叙事，确立了“卓越”（Excellence）、标准、问责与以跨国数据为依据的[[Evidence-Based Education\|证据本位教育]]主导范式；实现了比较教育中的“比较转向”（Comparative Turn），将跨国横向比较确立为提升国家教育质量的最佳引擎。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **社会结构重塑** [[Discourse|话语]]焦点从 1960 年代[[Coleman Report 1966\|科尔曼报告]]强调的家庭背景与种族阶级结构，彻底转移至学校内部绩效；促成了以高利害测试和标准为基础的[[School Choice\|择校]]与绩效问责机制，强化了中产阶级与底层劳工学区之间的阶层分化。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]

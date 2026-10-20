@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **专职编码与质评团队** 由 JHU 专职博士后与研究员组成，执行统一的文献筛选与[[Effect Size\|效应量]]加权编码规程。
 > - **国际同行评议网络** 综述成果均经过国际顶级同行评议期刊匿名评审后正式发表，确保学术公信力。
 
-> [!pathways]- [[Best Evidence Synthesis\|最佳证据综合]]（BES）审查机制
+> [!pathways] [[Best Evidence Synthesis\|最佳证据综合]]（BES）审查机制
 > - **常规替代对照组（[[Business as Usual\|BAU]]）刚性要求** 坚决排斥“无教学或虚假对照组”，对照组学生必须接受同等课时的常规教学，以测度干预的真实净增量。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 11)]]
 > - **12 周干预时长底线** 明确排除干预周期短于 12 周的短期实验，阻断新奇效应对因果[[Effect Size\|效应量]]的虚假推高。
 > - **加权平均效应量合成** 采用方差倒数加权元分析模型，依据[[Sample Size Determination\|样本量]]与测量精度对入选的 [[Randomised Controlled Trials\|RCT]] 与高质量 [[Quasi-Experimental Designs\|QED]] 进行定量合成。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 影响与体系成效
 
-> [!indicators]- 影响力维度与指标
+> [!indicators] 影响力维度与指标
 > - **库容规模全美第二** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，BEE 贡献了 **124 个项目**，规模仅次于 [[What Works Clearinghouse\|WWC]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
 > - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础文献。
 > - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]

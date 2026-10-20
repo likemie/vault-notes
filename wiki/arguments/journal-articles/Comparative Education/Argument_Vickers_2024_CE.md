@@ -142,7 +142,7 @@ citation_aliases:
 
 ### 步骤一 制度压制与教育专业自主空间的消亡
 
-> [!claim] 步骤一主张
+> [!claim|lead] 步骤一主张
 > 2020年香港特别行政区维护国家安全法（[[National Security Law]]）的颁布构成了一道制度分水岭，彻底清除了教育界原有的专业自主与抵抗性空间，使国民教育（[[National Education]]）的性质从柔性的勉励和资助转向刚性的威慑与惩罚（pp.141–142）。
 
 > [!chain-link] 权力结构从对抗制衡到全面规训
@@ -167,7 +167,7 @@ citation_aliases:
 
 ### 步骤二 教科书重构的四个经验维度与具体案例
 
-> [!claim] 步骤二主张
+> [!claim|lead] 步骤二主张
 > [[Citizenship and Social Development\|公民与社会发展科]]教科书在历史叙事、宪制关系、文化定位以及公民权利四个维度上对[[General Education\|通识教育]]科进行了系统性改写，通过本质主义的国族身份重构与政治抗议叙事的全面抹除，剥夺了学生进行多元思考与理性讨论的空间（pp.148–153）。
 
 > [!dimension] CSD 对比 LS 教科书变迁的四个核心维度
@@ -213,7 +213,7 @@ citation_aliases:
 
 ### 步骤三 课外协同机制——青年不满的“心理化”治理
 
-> [!claim] 步骤三主张
+> [!claim|lead] 步骤三主张
 > 在课堂教学之外，特区政府推行以感恩和幸福为核心的[[Psychologisation\|心理化]]政策，将青年的结构性社会不满和政治参与诉求转化为个体心理调试问题，在根源上消解了集体行动与政治能动性的正当性（pp.153–154）。
 
 > [!chain-link] 青年不满的“心理化”规训机制
@@ -228,7 +228,7 @@ citation_aliases:
 
 ### 步骤四 从公民到臣民的范式翻转与学术反思
 
-> [!claim] 步骤四主张
+> [!claim|lead] 步骤四主张
 > 课程转型标志着香港学校教育完成了从培养参与式公民到强加总体化臣民认同的[[Paradigm|范式]]转换。在此过程中，西方学术界因沉迷于本质主义的去殖民话语，对香港本土能动性的受挫普遍陷入失语状态与认知盲区（pp.154–155）。
 
 > [!chain-link] 臣民范式与[[Decolonial Paradox\|去殖民悖论]]
@@ -262,22 +262,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 课程重组的终极目的
+> [!citation-card] 课程重组的终极目的
 > 2020年后对[[General Education\|通识教育]]和[[Citizenship and Social Development\|公民与社会发展科]]的全面改革标志着一种决定性的转变，即从强调培养对负责任地行使参与式公民权至关重要的品质，转向强加一种将香港视为中国人的同质化、总体化的愿景。（p.154）
 >
 > *“The POST-2020 overhaul of the curriculum for [[Liberal Studies]] / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
 
-> [!citation-card]- 青年异化的心理学消解
+> [!citation-card] 青年异化的心理学消解
 > 与此同时，官方[[Discourse|话语]]将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。（p.154）
 >
 > *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
 
-> [!citation-card]- 去殖民话语的盲区与本土能动性
+> [!citation-card] 去殖民话语的盲区与本土能动性
 > 因此，香港成为了一个警示：去殖民化思维若是过度沉迷于考究思想的“出身”（pedigree of ideas），极易忽视本土“能动性”（native agency）的重要性。（p.155）
 >
 > *“Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.”*
 
-> [!citation-card]- 新香港的政治本质
+> [!citation-card] 新香港的政治本质
 > 为了实现关于文化、种族和国家主权的法西斯式愿景，新香港的政治不再被呈现为公民能动性实践的竞技场，而是作为表演爱国忠诚的舞台。（p.155）
 >
 > *“In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty.”*

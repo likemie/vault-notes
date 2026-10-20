@@ -124,7 +124,7 @@ updated: 2026-10-20
 > 4. **历时资料梳理与[[Coding in Qualitative Research|质性编码]]** 结合现场观察即时整理访谈记录并进行录音[[Transcription in Qualitative Research|转录]]，通过类属与情境分析提炼核心主题与微观实践机制。
 > 5. **撰写[[Rich and Thick Description|深描]]报告并实现理论对话** 将微观行动者的生动叙事与宏观社会变迁框架严密交织，全面呈现主客体互动过程与[[Epistemology|认识论]]局限。
 
-> [!sample-panel] 田野调查的材料与现场维度
+> [!sample-panel]- 田野调查的材料与现场维度
 > | 维度 | 规范与操作要求 |
 > |---|---|
 > | **材料来源** | 参与观察记录、深度[[Semi-structured Interview\|半结构化访谈]]、非正式日常交谈、课堂视频与实物档案 |

@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 ## 从共同问题网络到课程项目
 
-> [!dev-timeline]- ISA 在[[International Baccalaureate\|国际文凭]]倡议中的角色变化
+> [!dev-timeline] ISA 在[[International Baccalaureate\|国际文凭]]倡议中的角色变化
 > - **1951 年　建立[[International Schools\|国际学校]]合作组织** [[International School of Geneva\|Ecolint]] 在战后再次发挥发起作用，参与建立 ISA，以帮助不断增加的国际学校处理共同问题。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 15–16)]]
 > - **1955 年　接收国际毕业会考呼吁** [[EU|欧洲共同体]]学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 呼吁建立国际毕业会考。倡议获得更多教师与学校董事关注，仍缺少执行结构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 17)]]
 > - **1962 年　社会研究项目形成跨校合作入口** 借调至 ISA 的[[Bob Leach\|鲍勃·利奇]]（Bob Leach）以国际历史与社会研究课程为切入点，从联合国教育、科学及文化组织取得 2,500 美元资助。小型会议由 Ecolint 教师准备工作论文，[[UNESCO\|联合国教科文组织]]和欧洲学校派观察者参加。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 17–18)]]

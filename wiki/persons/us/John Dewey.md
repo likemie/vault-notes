@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育本质上是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
 > 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Education as Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
@@ -243,7 +243,7 @@ updated: 2026-10-20
 > [!phase] 北欧与丹麦[[Reform Pedagogy|改革教育学]]（1970s–1980s）
 > - **抗击官僚威权与倡导主动探究** 1970 年代丹麦教育学界引入“学习（læring）”概念以打破传统自上而下的国家威权注入式教学（indlæring）；学者重读杜威与克拉夫基，倡导以问题导向、跨学科小组合作与个性化探究为特征的“改革教育学”（Reform Pädagogik），在国家资助实验校中开展广泛的民主探究实践。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
@@ -282,7 +282,7 @@ updated: 2026-10-20
 > > [!axis] [[Evidence-Based Education|循证教育]]的技术主义挪用与杜威探究假设论的抵抗
 > > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了规训教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。[[Thomas Aastrup Rømer|托马斯·罗默]]进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
 >
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。

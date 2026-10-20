@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心主张
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > **世界体系理论（World-Systems Theory，或称世界体系分析 World-Systems Analysis, WSA）** 由美国历史社会学家[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Immanuel Wallerstein）创立。该理论主张，现代世界中唯一真实的社会系统是以单一国际劳动分工为基础的资本主义世界经济体（Capitalist World-Economy）。该体系自 16 世纪欧洲发端，通过不平等交换形成了由欧美发达国家构成的“**中心**”（Core）、具备缓冲与转承功能的“**半边缘**”（Semi-periphery），以及主要由前殖民地构成的“**边缘**”（Periphery）三层结构。沃勒斯坦根本否定孤立封闭的“国家发展”假定，强调任何主权国家的制度演化都是全球资本主义总体性规律的函数；教育系统在历史上与现实中始终服务于这一等级化劳动分工与资本积累，国际援助与借贷规则本质上是维系跨国依附与阶级分层的制度化工具。
 
 > [!citation-card] 沃勒斯坦论资本主义世界经济体作为唯一真实[[Unit of Analysis|分析单位]]
@@ -173,7 +173,7 @@ updated: 2026-10-20
 > >
 > > - **卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 154–156]]）** 深刻揭示了一个学术史悖论：沃勒斯坦本人的社会学建构深植于布罗代尔的长时段历史学；然而在比较教育学第四阶段[[Discourse|话语]]（1970–1990）全面拥抱世界体系分析时，学者们却将全部精力投入当代宏观结构的[[Ideology Critique|意识形态批判]]与当下危机分析，在客观上加速了传统历史-哲学传统的边缘化，导致学科深陷“历史健忘症”（历史论文占比跌破 5%）。
 
-> [!critique]- 批评索引
+> [!critique] 批评索引
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 严厉批评世界体系理论在分析当代高等教育与科学网络时的机械[[Determinism|决定论]]、零和假设以及方法论全球主义偏差。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 肯定世界体系分析打破功能主义现代化神话的重大贡献，但批判其在比较教育学落地过程中与学科历史维度的流失并存的史学悖论。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 阿诺夫反思经典世界体系分析对微观行动者文化抵制与能动性关注不足，主张以“[[Dialectic of the Global and the Local|全球与本土的辩证法]]”予以完善。

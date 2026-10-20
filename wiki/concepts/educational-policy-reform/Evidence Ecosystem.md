@@ -147,7 +147,7 @@ updated: 2026-10-20
 >
 > *"To understand and improve evidence use in systems, then, there is a need for ongoing evaluation and [[Feedback]] mechanisms... Where traditional measures focus on accountability through outcomes, sustained system-wide changes call for the continuous self-monitoring of individual and school [[Engagement in and with Research\|Engagement in Research]] use."*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[Knowledge Transfer\|知识转移]]（Knowledge Transfer） 知识转移预设自上而下或自外向内的单向传递；证据生态系统强调多向共创、自下而上反馈与网状共生。
 > - 不等于 [[Innovation Ecosystem\|创新生态系统]]（Innovation Ecosystem） 创新生态系统侧重产学研协同开发技术专利与商业产品；证据生态系统核心在于科学证据与公共决策及课堂教学智慧的融合互证。
 > - 不适用于 静态封闭式行政管理 证据生态系统具有[[Open-Mindedness|开放性]]与[[Emergence\|涌现性]]，纯自上而下的行政命令往往会压抑一线专业反思而破坏生态活力。
@@ -185,7 +185,7 @@ updated: 2026-10-20
 > - **战略性价值沟通（Strategic Communications）** 超越简单的信息转译与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方对话中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
 > - **系统级使能与治理机制（System-Level Enabling Influences）** 涵盖领导层在全系统层面确立[[Research Utilization\|研究使用]]的战略优先地位（Farley-Ripple et al., 2018; EEF, 2019）、为学校循证文化与基础架构提供持续专项经费资助（Nelson & Campbell, 2019），以及建立超越下游惩戒性问责的形成性反馈与持续自我监控机制（Bannigan, 2007; Senge et al., 2012; [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
-> [!figure]- 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）
+> [!figure] 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
 >
 > - **外层大系统（顶层虚线方框）** 包容宏观政治体制、拨款问责、意识形态与权力博弈，汇聚多元行动者、不同视角、焦点议题、待解问题与既有权力结构。

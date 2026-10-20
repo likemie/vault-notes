@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 软件实现与代码规程
 
-> [!software-code]- R 语言与 Python 统计计算实现规程
+> [!software-code] R 语言与 Python 统计计算实现规程
 > ```R
 > # R 语言实现：基于 effectsize 包直接提取方差分析模型对象的 omega_squared
 > library(effectsize)

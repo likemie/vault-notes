@@ -76,7 +76,7 @@ updated: 2026-10-20
 > - **用途** 用于评估高等教育及博士生特质（[[Graduate Attributes]]）在应对多元就业与国际化环境时的综合能力框架；在比较教育研究中，用于透视全球[[Discourse|话语]]政策流转中跨国非政府组织与超国家规训的合法化修辞。
 > - **边界** 不能与单纯用于跨国商业竞争的“全球胜任力”或局限于特定国家内部参与的“积极公民身份”等同，它更带有伦理关怀与去中心化认同。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 全球公民、人权与生态身份挑战了基于[[Methodological Statism\|方法论国家主义]]、国家集权 (statism) 及[[Methodological Educationism\|教育主义]]的传统国民身份。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 
 > [!boundary]- 概念边界

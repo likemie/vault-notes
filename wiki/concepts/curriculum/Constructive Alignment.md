@@ -120,7 +120,7 @@ updated: 2026-10-16
 > 2. **设计[[Criterion-Referenced Test\|标准参照评估]]任务（ATs）** 设置情境化考核任务，判断学生是否展现了目标要求的表现水平。
 > 3. **选择并组织学习活动（[[Teaching and Learning Activities\|TLAs]]）** 安排最能促使学生开展目标动词认知加工的活动，并根据情境持续优化。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]
 
-> [!example]- 图 2：课程目标、教学／学习活动与评估任务的建构性对齐
+> [!example] 图 2：课程目标、教学／学习活动与评估任务的建构性对齐
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig2_Constructive_Alignment.jpg)
 
 > [!taxonomy] 图 2 中的 A–D 理解质量与表现标准
@@ -158,7 +158,7 @@ updated: 2026-10-16
 >     Meso -.->|质量保障与机构认证| Macro
 > ```
 
-> [!frames-ref]- 多层级对齐的核心内涵（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）
+> [!frames-ref] 多层级对齐的核心内涵（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）
 > - **宏观层级（Macro）** [[European Qualifications Framework\|欧洲资格框架]]（EQF）与各国 NQF 将[[Higher-Order Thinking Skills\|高阶思维]]确立为学士、硕士与博士的核心学习成果。
 > - **中观层级（Meso / 全课程级）** 克服模块化（Modularisation）导致的考核碎片化危机；依托 [[TESTA Project\|TESTA]] 等模式在专业整体层面统整评价任务，保障跨学期复合能力的螺旋式上升。
 > - **微观层级（Micro / 课堂与量规）** 采用 VALUE 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework\|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]

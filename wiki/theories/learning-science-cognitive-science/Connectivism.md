@@ -66,7 +66,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 知识不再仅仅储存在个体的头脑中，而是以分布式形态存在于由人际、组织、数据库及人工智能等非人类行动者构成的异质网络之中；学习的本质就是创建、遍历、维护和重组这些由节点（Nodes）构成的动态连接（Connections），并在模式识别中实现跨情境知识综合。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 3)]]
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 连通主义视角将 ChatGPT 视为分布式学习网络中的关键资源，它能够支持模式检测与跨情境重新组合，尤其适用于要求跨越不同情境进行高阶综合而非浅层语言流畅性的复杂任务。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 3)]]
 >
 > *From a Connectivist lens (Siemens, 2005), ChatGPT can be analyzed as a resource within distributed learning networks that supports pattern detection and cross-context recombination, especially in tasks that demand synthesis across contexts...*
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > - **前提二** 浅层调用仅能获取表层文本，深层探究要求学习者对跨领域知识进行意义建构与批判性筛选。
 > - **推导** 学习者通过迭代提示与多轮对话，将 AI 节点输出的信息与自身先验图式、专业共同体规范重新连接，从而触发[[Creativity\|创造性]]重组与批判性综合。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一）** 当智能节点输出虚假或有偏信息（幻觉）时，网络连接的脆弱性要求学习者必须具备强大的[[AI Literacy\|人工智能素养]]与[[Epistemological Vigilance\|认识论警觉]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **推论二（源自核心命题二）** 教学设计应从线性的内容传授转向构建多源反馈与[[Man-Computer Symbiosis|人机协同]]的生态网络系统。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
@@ -162,7 +162,7 @@ updated: 2026-10-20
 > > - **[[Analytical Stance\|批判立场]]** 认为连通主义没有提供新的内部认知机制解释，其许多主张已被分布式认知与[[Third Generation Activity Theory\|活动理论]]所涵盖。
 > > - **支持立场** 坚决主张连通主义从[[Ontology\|本体论]]上将知识视为网络连接本身，彻底突破了传统“知识存在于大脑或人际社会”的心智主义局限。
 >
-> > [!critique]- 忽视认知负荷与内部内化
+> > [!critique] 忽视认知负荷与内部内化
 > > 部分认知心理学家批评连通主义过度崇拜外部网络连接，忽视了人类长时记忆中内部知识图式对于高阶[[Problem Solving\|问题解决]]不可替代的基石作用。
 
 ---

@@ -81,7 +81,7 @@ updated: 2026-10-20
 > [!claim] 核心干预与机制假说
 > 唯有打破以大学研究者为单向主导的传统课题外包模式，建立研究者与中小学教师在[[Problem Finding\|问题界定]]、方案设计与成果应用各阶段地位平等的长效伙伴机制，并为学校专业人员设立自主发起课题的制度化通道，才能实现科研严谨性与实践情境性的有机融合。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 
-> [!policy-design]- 方案设计
+> [!policy-design] 方案设计
 > - **项目目标** 验证高校与中小学开展协同研究的可行组织模型；将实践本位科研制度化嵌入教师职前教育与在校日常教研；为瑞典基础教育建立坚实的科学证据底座。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
 > - **双向议题发起机制** 彻底改变过去只能由大学教授拟定课题的做法，制度化允许并鼓励中小学校长与教研组根据日常课堂教学痛点自主提出研究课题，与对口高校研究团队共同论证立项。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
 > - **常态化对话平台** 在高校与学区之间设立跨界研讨工作坊（Seminars），定期组织学者与教师就教学难点、概念定义、实证方法与阶段性数据展开深入对话，促成共享[[Discourse|话语]]的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 推进历程与阶段演进
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **2017–2021 年 — 国家先导试点与模式探索期** 瑞典政府下达试点委托令，25 所高校与 150 余市镇组建区域合作节点，在[[Action Research\|行动研究]]、协同探究与设计本位研究中探索大学与学校签订长期合作协议（ULF-avtal）的操作范本。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
 > - **2021–2024 年 — 过渡深化与国家评估推进期** 挪威学者蒂娜·S·普罗伊茨（[[Tine S. Prøitz]]）等独立专家团队完成五年试点成效追踪评估，系统总结协作机制的障碍与成功要素；瑞典政府决定设立三年过渡期，完善国家级经费长效保障机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 > - **2024 年至今 — 长期国家基础设施沉淀期** 试点模式正式上升为瑞典国家教育科研的法定常态机制，成为支撑瑞典教师教育与中小学专业教学实践的制度化基座。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 217)]]
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > - **地方学区与中小学校（150+ 市镇）** 统筹协调校内教师备课工时豁免，保障教师参与研讨的必要空间，推动研究成果在校本课程中的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–219)]]
 > - **一线教师专业人员** 从课堂真实育人困境出发提出[[Hypothesis\|研究假设]]，作为协同探究者参与数据收集与教学设计迭代。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 
-> [!pathways]- 实施路径与管理
+> [!pathways] 实施路径与管理
 > - **明确主体角色分工（Clarity in actor roles）** 在合作早期阶段充分澄清教师与学者的角色定位，避免对教师科研技能提出不切实际的学术幻想。
 > - **确立专业地位平等（Equality）** 正式确立教师的实践性专业知识与学者的学术[[Theoretical Knowledge\|理论知识]]享有平等的权威，打破大学研究者在研讨中的[[Discourse|话语]]垄断。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **搭建便捷中介平台（Accessible arenas）** 通过常态化微型研讨小组让双方持续接触，实现知识需求的共同界定与学术概念的情境化重构。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 成效评估与实证发现
 
-> [!indicators]- 评估指标体系
+> [!indicators] 评估指标体系
 > - **制度覆盖广度** 签约参与高校与地方市镇比例、跨界合作协议履行率。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
 > - **主体参与深度** 由中小学一线主动发起的课题占比、教师参与常态化研讨的工时落实度。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 > - **知识双向转化** 校本教学法改进方案形成数量、教师教育课程更新程度与同行评议论文产出。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]

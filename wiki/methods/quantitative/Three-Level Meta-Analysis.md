@@ -84,7 +84,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 包含三层嵌套结构：第一层为具体效应量（Effect Size），第二层为原始研究（Study），第三层为更高层级的聚类单位或跨研究总体。
 > - **输出形式** 汇总加权效应量估计值、95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）、各层方差分量（$\tau_{(2)}^2$ 与 $\tau_{(3)}^2$）、异质性比例指标（$I_{(1)}^2$、$I_{(2)}^2$、$I_{(3)}^2$）、多[[Variable\|变量]][[Meta-regression\|元回归]][[Interaction Effect\|调节效应]]检验统计量（$F$ 或 $\chi^2$）。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 三层元分析模型通过建立分层[[Random-Effects Model|随机效应]]结构，使得研究者能够纳入[[Primary and Secondary Documents\|原始文献]]中报告的所有相关效应量，既避免了人为平均或强制舍弃效应量导致的信息损失与偏倚，又严格遵守了统计独立性假设。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 >
 > *Adopting this hierarchical structure enables all relevant effect sizes to be used in the meta-analysis without violating the independence assumption.*

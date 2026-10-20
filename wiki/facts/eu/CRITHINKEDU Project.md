@@ -54,7 +54,7 @@ updated: 2026-10-16
 
 ## 经过
 
-> [!dev-timeline]- 事件经过
+> [!dev-timeline] 事件经过
 > - **2016 — 全欧课程大纲普查与文献梳理** 系统检索与编码欧洲 9 国大学课程大纲中[[Critical Thinking\|批判性思维]]的表征形态与教学痛点。
 > - **2017 — 研制欧洲高等教育批判性思维框架** 确立包含认知技能（分析、评价、推论）与情意倾向（求真、开放、系统性）的二维框架。
 > - **2018–2019 — 开发教学与评价指南并在全欧试点培训** 研制《高等教育课程中批判性思维教学与评价指南》，并在 9 国高校开展教师教学发展工作坊。
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 关键文件／声明
 
-> [!citation-card]- 欧洲[[Critical Thinking\|批判性思维]]框架核心界定
+> [!citation-card] 欧洲[[Critical Thinking\|批判性思维]]框架核心界定
 > 批判性思维是由[[Reflexivity\|反思性]]倾向与认知技能共同支撑的高阶心智过程，必须通过显性的教学设计、真实的问题情境与持续的[[Formative Assessment\|形成性评价]]嵌入各专业课程之中。
 >
 > *Critical thinking is a purposeful, self-regulatory judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based.*

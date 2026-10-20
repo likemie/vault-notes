@@ -63,7 +63,7 @@ updated: 2026-10-20
 > [!claim] 核心主张
 > 批判性思维教学的成效由“思维原则的显性程度”与“学科知识的结合深度”共同决定。将通用的论证与[[Metacognition\|元认知]]原则显性化教授，并与具体学科知识深度融合的**显性混合模式（Mixed Approach）** 能够获得最高的综合思维收益与跨情境迁移效能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281, 293–294)]]
 
-> [!citation-card]- 经典理论定义
+> [!citation-card] 经典理论定义
 > 在探讨批判性思维与[[Domain Specificity\|学科特异性]]关系时，课程可区分为四类模式：通用模式（非学科独立设课）、融入模式（学科内显性教原则）、沉浸模式（学科内隐性渗透）与混合模式（独立显性教学与学科结合）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
 >
 > *Ennis (1989) proposed a typology of four approaches to teaching critical thinking: the general approach, the [[Infusion Approach]], the [[Immersion Approach]], and the mixed approach... distinguished by the explicitness of CT instruction and its relationship to subject-matter content.*

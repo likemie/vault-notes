@@ -103,7 +103,7 @@ updated: 2026-10-08
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 杰克逊·波洛克（Jackson Pollock）主张，真正的突破性创造绝不是对过去既有成功[[Paradigm|范式]]的渐进式模仿或平庸合群妥协，而是一场敢于承担毁灭性风险的决裂与冒险。在[[Epistemology|认识论]]与[[Organizational Culture|组织文化]]上，这种创新要求个体具备敢于打破陈规的狂热勇气，并依赖于具有张力的“[[Creativity|创造性]]摩擦”（Creative Friction），从而在抵抗平庸合群的牢笼中实现从无到有的突破。
 
 > [!feature] 思想与实践支柱

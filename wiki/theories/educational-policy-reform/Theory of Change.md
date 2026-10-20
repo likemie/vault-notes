@@ -153,7 +153,7 @@ updated: 2026-10-20
 > - **前提二** 若缺乏显性化的变革理论与全过程实施监控，研究者极易将现场执行崩溃误诊为理论彻底报废，从而过早抛弃具有潜力的科学构想。
 > - **推导** 必须依托变革理论明确从投入、过程活动、行为转变到最终学业成效的每一级阶段性因果断言，并由[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）全程对照监测。当终端[[Effect Size\|效应量]]为零时，借助 ToC 因果链可逐级倒查究竟是哪一环发生了因果断裂，从而实现精准归因与迭代修正。
 
-> [!proposition-chain]- 延伸命题
+> [!proposition-chain] 延伸命题
 > - **推论一（源自命题一与命题二）** 当变革理论揭示出单纯信息推送的因果断裂时，中介机构必然从单纯编制指南转向培育区域实施网络（如 EEF [[Research Schools Network\|研究学校网络]]），通过同侪示范与长效陪伴驱动教学实践改变。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 > - **推论二（源自命题二与命题三）** 变革理论是终结中介自我循证赤字与开展因果成效评估的理论底座。中介机构只有明确自身的因果链条，才能摆脱简单的网站点击量等过程记录，针对最终受益人（学生学业与身心福祉）开展严谨的形成性与终结性因果评估。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 156–158)]]
 

@@ -53,7 +53,7 @@ updated: 2026-10-07
 > - **核心角色** 英国现代[[Public Engagement with Science\|公众科学参与]]与科学传播政策的奠基者；1985 年主持撰写皇家学会《公众理解科学》报告（[[Bodmer Report 1985\|The Bodmer Report]]），推动科学界将面向公众的传播与对话确立为科学家的核心职责。
 > - **代表贡献** 主持发布《公众理解科学》报告（1985）、推动英国建立全国科学周（National Science Week）与法拉第讲座（Faraday Lecture）、倡导 16 岁前全员必修科学教育及 16–18 岁跨学科[[General Education\|通识教育]]。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 《公众理解科学》报告出版至今已有 40 年，其产生的整体影响超出了所有预期。报告发布后，研究理事会被要求资助公众理解科学活动，研究基金申请必须说明如何促进公众理解科学。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
 >
 > *It is 40 years since the publication of the 1985 Royal Society report on The public understanding of science, which had an overall impact beyond all expectations.*
@@ -81,10 +81,10 @@ updated: 2026-10-07
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 科学并非少数专业科学家的专属领地，而是全人类文明的共同基石。科学界及其资助机构承担着向社会各阶层公开、透明分享科学知识的道德与职业责任。公众对科学证据与不确定性的理解不仅是理性公民决策的基础，更是现代国家经济繁荣与科技资助合法性的根本前提。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 科学界最终要传达的信息与 1985 年一样：学会与各层面的公众沟通和互动至关重要，并且应被视为一种职责。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
 >
 > *The final message to the scientific community is, as it was in 1985, that it is important to learn how to communicate and engage with the public at all levels and to consider it a duty to do so.*

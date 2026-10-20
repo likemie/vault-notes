@@ -132,7 +132,7 @@ citation_aliases:
 
 3. **第二个方向是人才培养**。这些合作资助项目同时支持培养高质量研究人员（High Quality Personnel, HQP），本科生、研究生和博士后通过产业合作项目获得资助，在真实产业环境中应用理论和技能(p.243)。由于 Mitacs 加速项目的成功，Mitacs 已发展到每年支持超过 **20,000 个**[[Cooperative Education|工作整合学习]]岗位(pp.243–244)。
 
-> [!example]- 图13.1：产学合作中各利益相关方的收益
+> [!example] 图13.1：产学合作中各利益相关方的收益
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_13-1_Stakeholder_Benefits_to_UI_Partnership.jpg)
 
 > 滑铁卢大学与 Mitacs 联合资助了一位专家，专门负责推动加速项目的校内参与。这位专家的存在显著提升了项目的教师使用率(p.244)。这本身构成一个微缩版的论证：**仅有资金杠杆还不够，还需要有人帮助教师跨越从知道这个项目到实际申请之间的行政距离。**

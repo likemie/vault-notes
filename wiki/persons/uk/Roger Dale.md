@@ -69,7 +69,7 @@ updated: 2026-10-20
 > - **核心角色** 批判教育全球化研究与[[European Education Space|欧洲教育空间]]治理理论的奠基人之一；开创了与[[Stanford School|斯坦福学派]]“[[World Society Theory|世界文化理论]]”针锋相对的“[[Globally Structured Agenda for Education|全球结构化教育议程]]”（Globally Structured Agenda for Education, GSAE）分析[[Paradigm|范式]]。
 > - **代表贡献** 与[[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）及哈维尔·博纳尔（Xavier Bonal）共同提出“教育[[Pluri-Scalar Governance|多标度治理]]”[[Analytic Framework|分析框架]]；提出全球化影响国家教育政策的八大外部机制（Dale, 1999）；系统剖析[[EU|欧洲联盟]]教育一体化与《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对民族[[State Educational Sovereignty|国家教育主权]]的重塑。
 
-> [!citation-card]- [[Robert Arnove|阿诺夫]]论戴尔对全球化分析机制的突破
+> [!citation-card] [[Robert Arnove|阿诺夫]]论戴尔对全球化分析机制的突破
 > 新兴的全球治理结构在经济与教育层面涵盖了欧洲联盟、北美自由贸易协定等区域组织以及[[World Trade Organization|世界贸易组织]]。这些组织塑造教育系统的机制与过程，已由戴尔（Dale）与罗伯逊（Robertson）等人作出深刻剖析。戴尔（1999）明确提出了八种影响国家政策外部效应性质的非传统机制及其关联组织特征，有力推进了对全球化这一黑箱的经验拆解。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
 > *The emerging structures of global governance, economically, and educationally, now include major regional organizations... and the World Trade Organization. The mechanisms and processes by which these organizations shape education systems have been analyzed by Dale and Robertson among others. Dale (1999) specifies eight nontraditional mechanisms and related organizational features that influence the nature of external effects on national policy.*
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!claim] 核心主张
+> [!claim|lead] 核心主张
 > 全球化对教育的影响绝非不可捉摸的抽象幽灵，而是通过高度结构化的跨国资本主义议程与多重空间尺度的权力重置而展开。民族国家并未在“无国界世界”中简单消亡，而是其教育职能被重新分配到超国家、国家与次国家等不同标度之上；研究者必须区分借用、强加、条件限制与协同等不同机制，才能准确揭示外部力量如何穿透并重塑国家教育体制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 戴尔论外部政策影响的非传统机制

@@ -81,7 +81,7 @@ updated: 2026-10-16
 
 斯托在报告中向俄亥俄州重点推荐了四大普鲁士核心制度要素：
 
-> [!policy-design]- 报告核心考察维度：普鲁士公学机制的提炼
+> [!policy-design] 报告核心考察维度：普鲁士公学机制的提炼
 > - **国家立法规制与爱国国民认同的凝聚**
 >   斯托高度赞誉普鲁士国王腓特烈·威廉三世的教育法制，强调普鲁士法律“在所有关乎教育的法令中，反复且坚定地坚持唤醒一种国民精神——在青年心灵中培育对其母国本土及其制度的热烈依恋”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 31]]; Knight, 1930:255）
 > - **正规公立师范学校（Normal Schools）与教师专业身份**
@@ -93,7 +93,7 @@ updated: 2026-10-16
 
 斯托赞扬普鲁士学校法唤醒国民精神的经典表述，成为跨国借用史上的名段：
 
-> [!citation-card]- 经典引言：斯托论普鲁士教育法与国民精神
+> [!citation-card] 经典引言：斯托论普鲁士教育法与国民精神
 > 斯托赞扬了‘质朴朴素’的君主腓特烈·威廉的非共和政府，因为该政府‘在所有关乎教育的法律中，反复且坚定地坚持唤醒一种国民精神——在青年心灵中激发对其祖国及其体制的热烈依恋’。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 >
 > *Stowe praised the non-Republican government of the 'unostentatious' monarch Frederick William in that it 'repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions'.* (Knight, 1930:255)
@@ -120,7 +120,7 @@ updated: 2026-10-16
 > - **抵制群体** 边疆极端地方主义纳税人、私立宗派学校主办方。
 > - **[[Discourse|话语]]功能** 作为击碎“公立学校是专制集权与违宪抢劫”借口的强力“政治合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 
-> [!pathways]- 实施路径：从俄亥俄官方报告到全美公学立法的转译机制
+> [!pathways] 实施路径：从俄亥俄官方报告到全美公学立法的转译机制
 > - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策文献大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
 > - **作为合法化依据的借用功能** 卡洛扬纳基与卡扎米亚斯指出，斯托与曼一样，绝非机械将普鲁士法律法典直接移植到美利坚，而是将普鲁士在无文盲、专业师资与高素质道德教学上的无可辩驳事实，转译为说服议会投票支持公税办学与设立公立[[Normal School\|师范学校]]的政治资本。（pp. 33–34）
 

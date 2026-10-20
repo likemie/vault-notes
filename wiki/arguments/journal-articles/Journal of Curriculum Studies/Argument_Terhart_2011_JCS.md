@@ -155,7 +155,7 @@ journal: "Journal of Curriculum Studies"
 
 ### 论证步骤一　二阶聚合消解经验情境且掩盖数据异质性
 
-> [!claim] 步骤一核心主张
+> [!claim|lead] 步骤一核心主张
 > [[Meta-meta-analysis|二阶元分析]]将已经高度汇总的[[Meta-analysis|元分析]]数据再次聚合，造成原始经验情境信息的系统性损耗；缺乏明确的纳入质控标准且过度依赖陈旧文献，导致其庞大数据库在方法学质量与时效性上呈现严重缺陷。（pp. 427–429, 436）
 
 #### 1. 层级累加导致信息损耗且缺乏质控标准
@@ -169,7 +169,7 @@ journal: "Journal of Curriculum Studies"
 
 哈蒂将所有 138 个因素归纳为六大来源，并以 $d = 0.40$ 作为期望效应门槛，构建了影响气压计。（p. 428）
 
-> [!effect-summary] 六大贡献领域的二阶汇总效应量（p. 428, Table 1）
+> [!effect-summary]- 六大贡献领域的二阶汇总效应量（p. 428, Table 1）
 > | 贡献领域 | 元分析数 | 初级研究数 | 样本规模 | 效应量数 | 合并效应量 $d$ |
 > |---|---|---|---|---|---|
 > | **教师** | 31 | 2,225 | 402,325 | 5,559 | 0.49 |
@@ -181,7 +181,7 @@ journal: "Journal of Curriculum Studies"
 > | **总计** | 816 | 52,649 | 83,033,433 | 146,626 | — |
 > | **均值** | — | — | — | — | 0.40 |
 
-> [!figure]- 图1　[[Direct Instruction|直接教学]]影响气压计
+> [!figure] 图1　[[Direct Instruction|直接教学]]影响气压计
 > ![](https://img.mylikemie.icu/sources/Terhart_2011_JCS/figures/Terhart_2011_JCS_Fig1_Barometer_of_Influence.jpg)
 
 > [!spectrum] 影响气压计的四级效应区间
@@ -199,7 +199,7 @@ journal: "Journal of Curriculum Studies"
 
 ### 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
 
-> [!claim] 步骤二核心主张
+> [!claim|lead] 步骤二核心主张
 > 哈蒂的形式化[[Didaktik|教学理论]]完全抽空了德国教学论与教化传统所关注的学科实质内容与课程正当性；其倡导的双向可见性与教师激活角色，在福柯视角下展现为将传统公开外显统治转化为内化自我监控的现代全景规训技术。（pp. 430–435）
 
 #### 1. 课程缺乏教化实质且双向可见性沦为微观监控
@@ -225,11 +225,11 @@ journal: "Journal of Curriculum Studies"
 > | **核心实践七** | **教师期望**<br>$d = 0.43$ | **设置挑战性目标**<br>$d = 0.56$ | **全语言阅读教学**<br>$d = 0.06$ |
 > | **组别平均效应** | — | **激活者平均效应**<br>$d = 0.60$ | **促进者平均效应**<br>$d = 0.17$ |
 
-> [!result-reading] 激活者 vs 促进者效应量解读与学理定性
+> [!result-reading]- 激活者 vs 促进者效应量解读与学理定性
 > - **激活者优势显著压倒促进者** 教师作为激活者（$d = 0.60$）的合并效应量远高于作为促进者（$d = 0.17$），为反驳激进[[Constructivist Instruction|建构主义教学法]]提供了量化经验依据。（pp. 431–433）
 > - **实证结论实质印证既有共识** [[Constructivist Paradigm|建构主义]]属于关于认知的学习心理学理论，不可直接外推为自由放任的具体教学形式；强调教师主导与结构化指导实为主流教学论数十年的既有常识，缺乏理论突破。（pp. 431, 433）
 
-> [!figure]- 图2　可见的教与学模型
+> [!figure] 图2　可见的教与学模型
 > ![](https://img.mylikemie.icu/sources/Terhart_2011_JCS/figures/Terhart_2011_JCS_Fig2_Visible_Teaching_Learning_Model.jpg)
 
 教与学模型以眼睛为核心象征，强调教师通过学生的眼睛看教学、学生将自己视为自身的教师。从权力哲学视角审视，这一视觉隐喻展现出深层的微观规训机制。（pp. 434–435）
@@ -243,7 +243,7 @@ journal: "Journal of Curriculum Studies"
 
 ### 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
 
-> [!claim] 步骤三核心主张
+> [!claim|lead] 步骤三核心主张
 > 二阶元分析试图以追求最高确定性的科学知识指导教育决策，却在[[Epistemology|认识论]]上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说；哈蒂未曾获得终结教学争议的圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔。（pp. 435–437）
 
 #### 1. 循证决策面临常识逼近与结论过时的不可调和矛盾

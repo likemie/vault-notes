@@ -43,7 +43,7 @@ updated: 2026-10-20
 > - **用途** 作为有效数据收集的前提条件——帮助研究者获得参与者信任、减少参与者防御性、增加数据丰富性和真实性。在纵向[[Qualitative Research\|质性研究]]中维持融洽关系有助于降低参与者和研究者的流失率。
 > - **边界** 不等于友谊或亲密关系——融洽关系虽然包含人际温暖，但其根本目的是服务于研究，需要保持研究-参与者的专业边界。过多的融洽可能引入新的偏误（如参与者只为取悦研究者而提供信息）。Seidman（1998, pp. 80–82）指出融洽关系的量并非越多越好——太多或太少都可能成为问题。
 
-> [!citation-card]- 关键表述
+> [!citation-card] 关键表述
 > 融洽关系是一个有问题的概念，因为它不是一个关于数量或程度的单一概念（事实上一个人可能有太多或太少），而是其性质和类型随时间、人和事件的演变而变化。融洽关系和关系影响数据收集、抽样和研究设计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 429–430, 引自Maxwell, 2005, p. 83)]]
 >
 > *Rapport is a problematic concept in discussing relationships, as it is not a unitary concept concerning its amount or degree (indeed one may have too much or too little of it), but its nature and kind changes over time, as people and events evolve. Rapport and relationships influence the data collection, sampling and research design.*

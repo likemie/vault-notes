@@ -79,7 +79,7 @@ updated: 2026-10-20
 > - **[[Unit of Analysis\|分析单位]]** 纳入元分析的主要实证研究（Primary Studies）或一阶效应量。
 > - **输出形式** 统一的标准化效应量点估计值及其对应的抽样方差（Sampling Variance）与[[Standard Error\|标准误]]。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 关键定义
 > 为了在统一尺度上进行元分析聚合，所有提取的一阶效应量均统一转换为皮尔逊相关系数 $r$，并进一步通过费舍尔 $z$ 变换实现方差稳定化与正态化。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 >
 > *All effect sizes were converted to Pearson’s r to maintain consistency across studies... and Fisher’s z transformation was applied to normalize the distribution.*

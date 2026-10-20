@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **国家咨询委员会（National Advisory Child Health and Human Development Council）** 由外部顶尖医学科学家、神经生物学家及公众代表构成的法定咨询审议机构，对重大科研基金审批行使二次审查权。
 > - **跨部门行政联络网** 与白宫国内政策委员会、联邦教育部政策规划司保持长期制度化联络。
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **定向基金引导与[[Paradigm|范式]]塑造** CDBB 设立排他性的阅读科研招标指南（RFA），重点向采用真[[Randomised Controlled Trials|随机对照试验]]（RCT）、量化神经成像与直接显性拼读干预的研究团队倾斜巨额资助，系统压缩对质性、社会文化与[[Constructivist Paradigm|建构主义]]读写研究的经费支持。
 > - **听证会立法输入直通车** 里昂直接将 NICHD 资助学者的定量论文转化为国会两党辩论要点，与[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林形成高度共谋的立法语言输入机制。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 

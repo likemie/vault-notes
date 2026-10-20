@@ -83,7 +83,7 @@ updated: 2026-10-16
 > - **跨州专题网络（SCASS 网）** 设立州协同评估与学生标准网（State Collaborative on Assessment and Student Standards, SCASS），为各州学科教研专员提供常态化同行研讨平台。
 > - **独立质量验证委员会** 联合 [[National Governors Association|NGA]] 遴选并资助由 29 位跨学科顶尖学者、测量专家与特级教师组成的外部把关委员会，审查标准是否具备扎实的学术文献依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 
-> [!pathways]- 业务运行机制
+> [!pathways] 业务运行机制
 > - **确立科学至上与去政治化防卫策略** 针对以往课程大纲陷入党派与利益集团无休止争吵的历史教训，威洛伊特在研制初期公开立下规矩：新标准坚决拒绝利益政治谈判，一切修订必须以学术文献和实证数据为唯一裁决依据，用技术门槛阻挡外部意识形态游说。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 13)]]
 > - **逆向倒推（Backward Mapping）工程管理** 统筹数学与语文两大起草团队，率先研制高中毕业走向社会所需的[[College and Career Readiness|大学与职业就绪]]总标准，再逐年级向下反向推导，确保十二年各学段在认知上的因果衔接。
 > - **州教育厅闭门多轮审读机制** 在标准草案公开前，CCSSO 组织全美参与州的州教育厅专业骨干对文本进行封闭式审读，重点利用行政实践经验排查条文在排版、逻辑与课堂操作上的缺陷。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]

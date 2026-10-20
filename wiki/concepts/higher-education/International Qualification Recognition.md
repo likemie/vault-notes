@@ -51,7 +51,7 @@ updated: 2026-10-20
 > - **用途** 用于分析跨国流动学生怎样把既有学习转换为下一阶段机会，以及自治大学、中央机关和学校怎样分配决定权。
 > - **边界** “等值”“接受”和“承认”必须说明具体用途；大学入学承认不自动等于专业执照、公共任职、学分转换或所有本国学生均可使用。
 
-> [!citation-card]- 承认首先服务跨国流动
+> [!citation-card] 承认首先服务跨国流动
 > IB 试验的主要政府支持理由不是把它当作研究试验场，而是它为国际社会和流动学生提供了服务。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 62)]]
 >
 > *The main reason why national governments have supported it is not as a “test-bed for research”, but for the service it renders to the international community and the mobile student.*
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline]- IB 案例中的承认路径
+> [!dev-timeline] IB 案例中的承认路径
 > - **1967 年 — 有限试验承认** 塞夫尔会议把人数上限、获批学校和六年期限组合起来，使大学和政府能够在有限风险下试用新资格。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 30–31)]]
 > - **1968–1970 年 — 分散与集中路径并行** 英美逐校谈判，法国、瑞典和德国通过法令、等值或特殊程序建立初始承认。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–71)]]
 > - **1973 年 — 承认网络达到跨国规模** 20 国给予一般承认，其他国家部分承认，学生进入 25 国 175 所大学；资格由少数承诺转化为实际使用网络（p. 71）。

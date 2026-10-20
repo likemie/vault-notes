@@ -145,7 +145,7 @@ updated: 2026-10-16
 
 ## 6. 方法变体与对比
 
-> [!tip]-
+> [!tip]
 > - [[Explanatory Sequential Design\|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
 > - [[Convergent Design\|聚敛式设计]]：同时收集，不涉及工具开发。
 > - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research\|混合方法]]框架的标准方案。
@@ -161,7 +161,7 @@ updated: 2026-10-16
 
 ## 8. 相关概念与理论
 
-> [!tip]-
+> [!tip]
 > - [[Construct Validity]] in Quantitative Measurement — 第三阶段检验的核心指标。
 > - [[Coding in Qualitative Research]] — 第一阶段向第二阶段转化的基础。
 
