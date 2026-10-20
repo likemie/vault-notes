@@ -41,7 +41,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[New Public Management]]"
   - "[[Research Translation]]"
-  - "[[Socioscientific Issues]]"
   - "[[Assemblage]]"
   - "[[Research Utilization]]"
   - "[[Policy Mobility]]"
@@ -257,16 +256,16 @@ updated: 2026-10-20
 
 ---
 
-### 命题八　研究知识被选择并铭写进督导标准，使外部督导获得合法化的治理权力
+### 命题八　研究知识被选择并编码为规程文本，使外部督导获得合法化治理权力
 
-> [!concept-lens] 研究选择、文本铭写与督导合法化
-> 探讨督导机构如何把教育[[Research Translation|研究转译]]为评估领域、知识综述与报告，并借此使学校实践变得可见、可比较、可整改。
+> [!concept-lens] 研究选择、文本化规程与督导合法化
+> 探讨督导机构如何把教育[[Research Translation|研究转译]]为评估领域、知识综述与报告，并借此使学校实践变得清晰可控与可问责。
 
-> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm, Lindgren and Novak (2022)]]
-> **研究基础的选择性与铭写机制** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, [[Socioscientific Issues|SSI]]）的[[Case Study|个案研究]]显示，督导的“研究基础”是经过选择、转译与铭写的组织过程，开放的证据应用只是其表象。常规督导从与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究中提炼约十个评估领域，经高层管理协商后写入督导指令与学校指南；质量审计则延请研究者、编制声称呈现“当前知识状态”的知识综述，并在参考组讨论后由传播秘书处重写最终报告。两条路径都使特定实践方向变得清晰、单一、可控，研究既提供方法正当性，也成为合法化督导与国家政策的资源。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–654)]]
+> [!claim] Segerholm et al.
+> **研究基础的选择性与规程文本编码** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate）的[[Case Study|个案研究]]显示，督导的“研究基础”是经过选择、转译与编码为规程文本的组织过程，开放的证据应用只是其表象。常规督导从与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究中提炼约十个评估领域，经高层管理协商后写入督导指令与学校指南；质量审计则延请研究者、编制声称呈现“当前知识状态”的知识综述，并在参考组讨论后由传播秘书处重写最终报告。两条路径都使特定实践方向变得清晰、单一、可控，研究既提供方法正当性，也成为合法化督导与国家政策的资源。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–654)]]
 
 > [!claim] Gormley (2011); Scott (1998); Smith (2000)
-> **论证优先于说服、简化优先于发现** 公共官员使用科学信息，更可能是强化既有判断的论证，而非改变判断的说服；国家机构为便于行政控制，会把复杂现实简化为可计量、可比较的分类；取证式调查则先有政策结论，再[[Assemblage|组装]]支持结论的证据。SSI 的常规督导与质量审计分别体现了这三种机制，说明督导中的[[Research Utilization|研究使用]]同时具有认知性与合法化功能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 651–653)]]
+> **论证优先于说服、简化优先于发现** 公共官员使用科学信息，更可能是强化既定判断的论证，而非改变判断的说服；国家机构为便于行政控制，会把复杂现实简化为可计量、可比较的分类；取证式调查则先有政策结论，再[[Assemblage|组装]]支持结论的证据。瑞典学校督察局的常规督导与质量审计分别体现了这三种机制，说明督导中的[[Research Utilization|研究使用]]同时具有认知性与合法化功能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 651–653)]]
 
 ---
 
@@ -282,7 +281,7 @@ updated: 2026-10-20
 > | **认同分化命题** | 目标协定型督导的治理效能取决于校长的循证取向，面临深层的微观认同断裂与认知把关 | 产出导向现代督导改革、督导对话推进与校长专业认同分异 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, pp. 27–29)]] |
 > | **调控转移受挫命题** | 学校督导在基层学校面临成效缺失，外部诊断无法线性推导校内改进，且督导中介机制缺乏实证研究 | 德语区学校督导成效评估、新治理反思与教育转移机制分析 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11–12)]] |
 > | **商业资本化命题** | 公私伙伴关系将国家法定督导外包给私营企业，使其转化为跨国流动的商业咨询资本 | 公共服务外包、PPP 改革、教育跨国市场化与全球[[Policy Mobility\|政策流动]] | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]]；Cardini (2006) |
-> | **研究铭写与合法化命题** | 督导机构选择并铭写研究知识，使实践方向清晰可控，研究同时成为督导与国家政策的合法化资源 | 证据本位督导、研究知识进入评估标准、质量审计与报告政治 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 647–654)]] |
+> | **研究文本化与合法化命题** | 督导机构选择研究知识并将其编码为规程文本，使实践方向清晰可控，研究同时成为督导与国家政策的合法化资源 | 证据本位督导、研究知识进入评估标准、质量审计与报告政治 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 647–654)]] |
 
 ---
 
@@ -293,7 +292,7 @@ updated: 2026-10-20
 > - **1980–1990 年代 — [[New Public Management|新公共管理]]与集中规制转向** 伴随撒切尔主义与新公共管理兴起，英国 1992 年设立独立于教育部的 [[Ofsted]]，欧洲各国相继成立中央督查署；督导职能从“同行指导”剧变为“量化审查、公开排列表与四级等级裁定”。
 > - **2000 年代初 — [[Public-Private Partnership|公私伙伴关系]]与督导业务的商业化外包** 伴随新公共管理与公私伙伴关系（PPP）深化，英国等国将学校督导业务成套外包给私营教育服务公司（如[[Nord Anglia Education|诺德安达教育集团]] Nord Anglia Education [[Professional Learning Community|PLC]]）；私营公司借由承接政府法定督导合同积累运营经验与资质，进而将学校督导与政策咨询打包转化为跨国输出的商业资本，彻底重构了督导作为纯国家公权力机关的传统属性（Cardini, 2006；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）。
 > - **2000 年代中叶 — 欧陆经验转向与过程督导确立** 伴随 [[PISA]] 冲击（[[PISA Shock|PISA-Schock]]），德国各联邦州在[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）国家教育监测框架下，全面引入独立的外部学校督导（Schulinspektion / Schulvisitation）体系，通过对全域学校开展定期现场综合视导，作为沟通宏观国家标准与微观课堂教学改进的制度支柱。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
-> - **2008 — [[Swedish Schools Inspectorate|瑞典学校督察局]]成立与证据本位督导** 瑞典在 2003 年恢复学校督导后，于 2008 年设立[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, [[Socioscientific Issues|SSI]]），以《教育法》的“科学依据与经验验证”要求为起点，把成功学校[[Research Translation|研究转译]]为常规督导的评估领域，并通过研究资源名单、透明委员会、术语表与知识综述把研究纳入督导流程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
+> - **2008 — [[Swedish Schools Inspectorate|瑞典学校督察局]]成立与证据本位督导** 瑞典在 2003 年恢复学校督导后，于 2008 年设立[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate），以《教育法》的“科学依据与经验验证”要求为起点，把成功学校[[Research Translation|研究转译]]为常规督导的评估领域，并通过研究资源名单、透明委员会、术语表与知识综述把研究纳入督导流程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
 > - **2010 年代初 — 严苛惩罚化与市场兼并工具化** 联合政府时期教育大臣[[Michael Gove|迈克尔·戈夫]]高调宣称“磨利督导之剑”，将督导结果与强行转制赞助型学院学校挂钩，使督导成为拆解公立维持体制、推行私有化重组的行政执行令。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 119)]]
 > - **2010 年代中叶 — 目标协定与协商对话型督导兴起** 伴随[[Output-Oriented Governance|产出导向治理]]与单校自主深入推进，奥地利推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung|SQA]]），推动学校督导从单向规则核查转向督学与校长间的“成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）”；然而实证研究揭示，协商型督导的实际采纳面临一线校长微观价值取向的显著极化与认知把关。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 27–29)]]
 > - **2019 年至今 — 新治理工具成效缺失反思与[[Epistemology|认识论]]解构** 德语区学者系统揭示学校督导在单体学校层面陷入“成效缺失”（mangelnde Effekte）的治理现实，指出督导外部诊断向校内行动转化的非线性特质与“理论-实践问题”的历史重现，呼吁打破中层督导机构的研究空白并吸纳国际政策执行[[Complexity Theory|复杂性理论]]（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]）；同时，英国学者深入解构督导评级被异化为道德侧步的修辞机制（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]），推动各国反思单一等级制并呼吁重归诊断性与合作式同行支持。
@@ -345,7 +344,7 @@ updated: 2026-10-20
 > |---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 24)]] | 奥地利施泰尔马克州公立普通义务教育学校校长（$N = 362$） | **学校督导与质量对话（Schulaufsicht / SQA）**<br>1. 与督学签订的目标与成效协定（Ziel- und Leistungsvereinbarungen）<br>2. 与督导部门开展的 SQA 对话（SQA-Gespräche）<br>3. 来自督导部门的诊断反馈（Rückmeldungen der Schulaufsicht） | Cronbach's $\alpha = 0.73$<br>全样本均值 $M = 3.23$（4 点量表，1=极低适切性，4=极高适切性）<br>标准差 $SD = 0.58$<br>在因子分析中为第一主因子（载荷介于 .54 至 .73） | 目标协定与督导[[Dialogue in Education\|对话]]构成德语区现代[[Output-Oriented Governance\|产出导向治理]]中获得校长整体正面认可的关键工具 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 494)]] | 德国 4 个联邦州教育部质量保障主管官员 | **全域过程督导实用价值感知**<br>现场核查教学互动、管理效能与组织生态 | 定性访谈共识：全样本覆盖的过程督导在微观干预针对性上显著压倒宏观测评 | 督导能够直接揭示具体学校的深层运转机制并指导针对性扶持与资源倾斜 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 645–654)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导（7 名高层管理组成员、3 名督导与法律[[Expert Interview\|专家访谈]]）与一次质量审计（2 名研究者访谈、2 次参考组会议观察及文件） | **研究知识进入督导的流程**<br>研究选择、评估领域提炼、知识综述编制、参考组协商、最终报告重写 | 质性工具性[[Case Study\|个案研究]]；[[Semi-structured Interview\|半结构化访谈]] 45–60 分钟并转写；不适用统计信效度 | 督导标准与报告是研究知识被选择与铭写的产物，评估领域与最终文本决定学校实践何者可见、可比较、可整改 |
+> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 645–654)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导（7 名高层管理组成员、3 名督导与法律[[Expert Interview\|专家访谈]]）与一次质量审计（2 名研究者访谈、2 次参考组会议观察及文件） | **研究知识进入督导的流程**<br>研究选择、评估领域提炼、知识综述编制、参考组协商、最终报告重写 | 质性工具性[[Case Study\|个案研究]]；[[Semi-structured Interview\|半结构化访谈]] 45–60 分钟并转写；不适用统计信效度 | 督导标准与报告是研究知识被选择与编码为规程文本的产物，评估领域与最终文本决定学校实践何者可见、可比较、可整改 |
 
 > [!effect-table]- 校长治理聚类对学校督导评价的单因素[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]]
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -356,36 +355,14 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
+## 相关研究
 
-> [!entry-map]
-> 
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Ofsted]] | Fact (Organization) | 英国学校督导制度的典型实体机构，展现了外部强力督查与评级工具化的全部制度特征。 |
-> | [[Swedish Schools Inspectorate]] | Fact (Organization) | 瑞典国家学校督导机构，以《教育法》的科学要求为基础，把研究知识铭写进评估领域、知识综述与督导报告。 |
-> | [[Embodied, Inscribed and Enacted Knowledge]] | Theory | 解释督导标准与报告如何把研究固化为文本，同时依赖督导者与研究者的具身及践行知识。 |
-> | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 德国制定[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]、推动各联邦州普遍建立外部学校督导体系的政府间最高协调机构。 |
-> | [[Output-Oriented Governance]] | Concept | 驱动当代学校督导从传统合规稽查向目标协定、数据诊断与协商[[Dialogue in Education\|对话]]转型的宏观治理形态。 |
-> | [[PISA Shock]] | Concept | 触发德语区打破投入规制惯性、全面引入国家教育标准与现代外部学校督导体系的政策分水岭。 |
-> | [[Test-Based Accountability]] | Concept | 与学校督导相互交织的另一种宏观问责机制，为督导提供了量化风险预警与数据监控依据。 |
-> | [[Moral Sidestep]] | Concept | 政客将技术性督导评级偷换为道德上的“好学校”[[Discourse\|话语]]以规避学术证据审查的核心机制。 |
-> | [[Policy Avoidance]] | Concept | 媒体在大肆报道督导危机与学校不及格丑闻时，系统性回避对督导制度合法性审查的现象。 |
-> | [[Mediatised Governance]] | Concept | 执政者动员媒体炒作督导结果、以行政威慑推进争议性激进改革的宏观媒介化治理形态。 |
-> | [[School Autonomy]] | Concept | 督导问责常常以“赋予学校自主权”为幌子，实则建立起更为严苛的新自由主义遥控[[Disciplina and Doctrina\|规训]]。 |
-> | [[Evidence-Based Education]] | Concept | 督导体系所声称维护但实际上因制造生存焦虑而严重阻碍一线审慎应用的循证实践。 |
-> | [[Education and Inspections Act 2006]] | Fact (Policy) | 奠定当代英国学校督导与干预权力的核心法定法案。 |
-> | [[Grammar School]] | Fact (Policy) | 英国议会借用 Ofsted 督导评级推行道德侧步、为其特权扩张辩护的核心争议客体。 |
-> | [[PISA]] | Fact (Program) | 跨国评估数据常被国内政客作为宣称教育陷入危机、进而借机强化严苛外部督导的合法化弹药。 |
-> | [[OECD]] | Fact (Organization) | 明确批评自上而下的当局督导为旧官僚体制、倡导扁平同行自我规制的超国家智库。 |
-> | [[Paul Morris]] | Person | 深入揭示[[Michael Gove\|迈克尔·戈夫]]如何借 PISA 危机推销“磨利督导之剑”等争议政策的核心比较教育学者。 |
-> | [[Nick Cowen]] | Person | 实证论证高压督导问责机制如何阻碍教师审慎使用循证研究证据的学者。 |
-> | [[Jason Beech]] | Person | 比较教育学者，揭示英国通过[[Public-Private Partnership\|公私伙伴关系]]将学校督导外包并转化为跨国输出商业资本的机制。 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | Argument | 实证检验[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（SQA）中目标协定型督导的治理功能与校长群体的认同断裂。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈的期刊文献。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析外部高压惩罚性督导与 OECD 专业共同体自律理念之间尖锐冲突的期刊文献。 |
-> | [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] | Argument | 揭示督导评级被道德化滑移为研究证据以掩护文法学校扩张的实证[[Discourse Analysis\|话语分析]]文献。 |
-> | [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] | Argument | 深入探讨督导等外部高压制度问责阻碍学校内生循证实践深化的实证研究报告。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 剖析公私伙伴关系下学校督导的外包、商业资本化与跨国服务输出。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 以 [[Socioscientific Issues\|SSI]] 为工具性个案，揭示研究知识如何被选择、铭写进督导标准与报告，并使督导获得合法化的治理权力。 |
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 剖析外部高压惩罚性督导与经合组织倡导的专业共同体自律理念之间的尖锐冲突。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈。
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 实证检验奥地利普通学校质量保障体系中目标协定型督导的治理功能与校长群体的认同断裂。
+> - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 揭示督导评级在政策辩论中被道德化滑移为研究证据以掩护文法学校扩张的话语机制。
+> - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 探讨高压督导问责机制诱发防御性合规并阻碍教师审慎使用循证研究证据的深层影响。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析公私伙伴关系下学校督导的外包、商业资本化与跨国服务输出。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 揭示德语区学校督导在单体学校层面的成效缺失与外部诊断向校内行动转化的非线性阻滞。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典学校督察局为个案，揭示研究知识如何被选择、编码为规程文本并使督导获得合法化治理权力。

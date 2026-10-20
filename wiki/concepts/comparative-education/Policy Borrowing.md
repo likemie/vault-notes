@@ -185,7 +185,7 @@ updated: 2026-10-20
 >
 > *Traditional policy borrowing approaches focus on discursive mobility while overlooking socio-material technical agency; a topological perspective reveals how education policy spaces are re-assembled through data infrastructures.*
 
-> [!boundary] 概念边界
+> [!boundary]- 概念边界
 > - 不等于 [[World Society Theory\|世界文化理论]] — 世界文化理论强调全球趋同与规范内化（供给端），政策借用强调选择性借用与政治修辞工具性（需求端）。
 > - 不等于 政策转移（Policy Transfer） — 政策转移预设最佳实践的中立搬运，政策借用关注借用话语背后的地缘竞争、合法化操纵与本土转译。
 > - 不等于 盲目机械照搬（Blind Copying） — 经典政策借用要求立足本土情境进行批判性改造，抽取合用部分而排斥有害异质成分。
@@ -341,7 +341,7 @@ updated: 2026-10-20
 
 ### 命题一　工具性政策借用会因脱离深层本土情境而引发文化与制度排异
 
-> [!dimension] 工具性借用与情境冲突维度
+> [!concept-lens] 工具性借用与情境冲突
 > 探讨[[Geopolitics|地缘政治]]焦虑与生存危机如何驱动国家对外借鉴，以及本土情境与文化防护对跨国移植的排异机制。
 
 > [!claim] [[Michael Sadler|Sadler, M.]]
@@ -354,7 +354,7 @@ updated: 2026-10-20
 
 ### 命题二　政策借用本质上是一种外化修辞策略，旨在通过全球话语为争议性本土决策提供正当性
 
-> [!dimension] [[Externalization|外部化]]合法化与政治修辞维度
+> [!concept-lens] 外部化合法化与政治修辞
 > 聚焦政策借用背后的国内政治动因，剖析官方如何将外部声望[[Discourse|话语]]作为合法化修辞来推行争议性本土方案。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]
@@ -372,14 +372,14 @@ updated: 2026-10-20
 > [!claim] Kazamias, A. M.
 > **学校中心主义借用与启蒙改良合法化论断** 卡扎米亚斯系统界定了 19 世纪第一代比较教育研究的政策借用性质。曼、巴纳德、斯托、哈里斯等美国行政官员与库森、阿诺德等欧洲督学开展跨国调研的支配性动机，是搜寻可供本国改革“借用”（borrow）的有用观念与实践。这一时期的借用报告多具描述性、劝诱性与“学校中心主义”（[[Scholiocentric Approach|scholiocentric]]）特征（将学校、学制与教学法作为孤立的制度现象）。更为根本的是，借用的外国经验在深层被用作服务于政治意识形态与道德[[Educational Meliorism|教育改良主义]]（educational meliorism）的合法化依据（legitimating rationales）。直到萨德勒在 1900 年牛津演讲中提出“校外之物重于校内之物”，比较教育才实现了对素朴学校中心主义借用的[[Epistemology|认识论]]超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 
-> [!claim] [[Argument_Grey_2018_CE|Grey and Morris (2018, pp. 116–122)]]
+> [!claim] Grey and Morris
 > **[[Mediatised Governance|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
 
 ---
 
 ### 命题三　教育政策在跨国转移中必然因微观政治介入而发生形态变异与本土转译
 
-> [!dimension] 流动转译与形态变异维度
+> [!concept-lens] 流动转译与形态变异
 > 关注教育政策跨国流动时的非线性转译特征，剖析外部元素在输入端被本土微观权力裁剪、扭曲和变形的微观过程。
 
 > [!claim] [[Robert Cowen\|Cowen, R.]]
@@ -395,7 +395,7 @@ updated: 2026-10-20
 
 ### 命题四　作为合法化策略的借用话语在国家拥有绝对强制性行政权力下面临失效
 
-> [!dimension] 合法化功能与行政强力边界维度
+> [!concept-lens] 合法化功能与行政强力边界
 > 探究合法化修辞在不同国内权力政治结构下的适用限度，明确政策借用框架在强行政强制力支配下的失效边界。
 
 > [!claim] Yan, Y. & [[Paul Morris\|Morris, P.]]
@@ -415,7 +415,7 @@ updated: 2026-10-20
 
 ### 命题六　德英双轨传统折射政策借用与哲学反思的分野，航海隐喻警示浅层功利借用的认识论风险
 
-> [!dimension] [[Disciplinary Institutionalization|学科建制]]双轨与浅层借用批判维度
+> [!concept-lens] 学科建制双轨与浅层借用批判
 > 探讨欧洲比较教育在英德建制模式中对政策借用展现出的深层学术分歧，以及当代国际测评热潮下[[Navigation Metaphor in Comparative Education|航海隐喻]]对浅层去情境借用的认识论捍卫。
 
 > [!claim] [[Wolfgang Mitter\|Mitter, W.]]
@@ -431,7 +431,7 @@ updated: 2026-10-20
 > [!concept-lens] 全球化权力结构与非自愿强加维度
 > 本类命题批判早期政策借用理论将跨国流动预设为自愿、平等与双向互惠的认识论局限，揭示全球资本与核心强权在跨国政策扩散中的结构性强加与依附机制。
 
-> [!claim] [[Val D. Rust|Rust, V. D.]], Johnstone, B. & Allaf, C.
+> [!claim] Rust, V. D.; Johnstone, B.; Allaf, C.
 > **全球化四维响应与强制再生产批判** 传统政策借用研究往往局限于“接受（Receptivity）”维度，将注意力集中于主权国家出于自主改良意愿主动调研和汲取外部模式的过程，从而掩盖了国际关系中强势核心国家对弱势边缘国家非自愿的结构性强加。全章确立了涵盖四重机制的全球化教育响应批判分析框架：除主动借用的“接受”外，还包括草根力量捍卫本土文化、抵御新自由主义资本渗透的“抵制（Resistance）”，边缘社群抢救濒危传统语言与本土生态知识的“恢复（Restoration）”，以及核心发达国家与国际金融机构向发展中国家强制输出市场化私有化体制所造成的“强制再生产（Reproduction）”。这一框架揭示出跨国政策借用绝非纯粹的技术选择，而是充满霸权强加与依附对抗的政治经济过程。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
 
 ---
@@ -441,7 +441,7 @@ updated: 2026-10-20
 > [!concept-lens] 跨国网络行动者扩散与双重收拢机制
 > 本命题探讨全球化与[[Network Society|网络社会]]下，漫步于世界教育花园的政策借用主体如何超越主权国家官方垄断，以及国际组织如何通过议程垄断封闭本土改革话语。
 
-> [!claim] [[Jason Beech|Beech, J.]]
+> [!claim] Beech, J.
 > **新型跨国借用行动者与国际机构的双重收拢机制** 杰森·比奇（Jason Beech）指出，19 世纪由主权国家特派官员（如库森、曼、萨米恩托）垄断的花园采撷式借用，在当代已被四类跨国新型行动者所打破：携带商业方案周游列国的穿梭咨询专家、开辟海外咨询市场兜售[[School Effectiveness|学校效能]]知识的高校国际发展部门、推行[[Bologna Process|博洛尼亚进程]]与跨国认证的超国家区域联盟（如[[EU|欧盟]]），以及通过[[Public-Private Partnership|公私伙伴关系]]接管学校运营与督导的跨国营利性教育服务集团（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]）。更为根本的是，以[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]为代表的多边机构充当“[[Knowledge Bank|知识银行]]”，基于紧迫[[Pragmatic Paradigm|实用主义]]将复杂学术话语简化为包含五大支柱（[[Lifelong Learning|终身学习]]、[[Constructivist Instruction|建构主义教学]]、能力本位、机构自主与评估问责、新教师角色）的统一[[Global Educational Discourse|全球教育话语]]普遍方案。国际机构通过“界定危机”与“提供通用解方”的双重收拢机制（Dual Closure），与受援国学术与官僚精英合一的[[Gatekeepers|守门人]]网络形成闭环，严重收窄了受援国的政策[[Discursive Field|话语空间]]与本土改革想象力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
 
 > [!citation-card] Beech论知识银行的双重收拢与受援国政策空间闭合

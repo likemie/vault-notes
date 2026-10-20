@@ -56,7 +56,6 @@ related_concepts:
   - "[[Contributory Expertise]]"
   - "[[Literature Search]]"
   - "[[International Education]]"
-  - "[[Socioscientific Issues]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
@@ -353,13 +352,13 @@ updated: 2026-10-20
 
 ---
 
-### 命题六　政策组织中的研究使用是选择、铭写与重写的过程，告知、概念与合法化功能可以并存
+### 命题六　政策组织中的研究使用是选择、文本化与重写的过程，告知、概念与合法化功能可以并存
 
 > [!concept-lens] 组织内部的研究选择与文本生产
 > 打开政策机构“使用研究”的黑箱，[[Cohort Study|追踪研究]]如何被选择、转译、写入标准与报告，以及在定稿前被删改。
 
-> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm, Lindgren and Novak (2022)]]
-> **从研究选择到文本定稿的使用链条** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, [[Socioscientific Issues|SSI]]）的[[Case Study|个案研究]]显示，政策组织中的研究使用呈现为一条由选择、解释、协商与重写构成的链条，一次性采纳的图景过于简化。常规督导从与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究中提炼约十个评估领域，再写入督导指令与学校指南；这同时接近知识“告知政策”、韦斯所说的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，以及[[Embodied, Inscribed and Enacted Knowledge|铭写知识]]的固化。质量审计则延请研究者担任参考人、编制知识综述，研究更多发挥概念性使用，帮助识别问题与可能方案；研究者还试图把教师经验与情境差异带入审计。然而，最终报告在定稿前经传播秘书处“清理”，参考组讨论过的课程解释被删除，只留下教师不自信的结论。机构内部没有关于“该听哪些研究”“谁决定听谁”的统一政策，选择往往取决于个别督导。这说明研究使用既受认知功能驱动，也受组织权力与文本生产流程塑造。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–654)]]
+> [!claim] Segerholm et al.
+> **从研究选择到文本定稿的使用链条** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate）的[[Case Study|个案研究]]显示，政策组织中的研究使用呈现为一条由选择、解释、协商与重写构成的链条，一次性采纳的图景过于简化。常规督导从与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究中提炼约十个评估领域，再写入督导指令与学校指南；这同时接近知识“告知政策”、韦斯所说的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，以及[[Embodied, Inscribed and Enacted Knowledge|文本化知识]]的固化。质量审计则延请研究者担任参考人、编制知识综述，研究更多发挥概念性使用，帮助识别问题与可能方案；研究者还试图把教师经验与情境差异带入审计。然而，最终报告在定稿前经传播秘书处“清理”，参考组讨论过的课程解释被删除，只留下教师不自信的结论。机构内部没有关于“该听哪些研究”“谁决定听谁”的统一政策，选择往往取决于个别督导。这说明研究使用既受认知功能驱动，也受组织权力与文本生产流程塑造。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–654)]]
 
 > [!claim] Issakyan and Ozga (2008); Weiss (1979); Smith (2000)
 > **告知、构成与合法化的交织** 知识可以位于政策过程之外，作为理性决策的依据（告知政策）；也可以成为政策工作本身的一部分（构成政策）。工具性、概念性与象征性使用可以在同一组织流程中先后出现，三者常相互交叠。当机构在报告定稿前审查、删改文本时，研究使用便从认知支持转向机构论证与合法化。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 644, 651–654)]]
@@ -376,7 +375,7 @@ updated: 2026-10-20
 > | **组织治理与制度塑造** | 跨层治理机制协同影响学校证据使用，高利害问责诱发表演性合规而低利害生态支持反思探究 | 学校组织改进、问责督导制度评估与比较教育治理 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 > | **微观知行与多源整合** | 克服知行脱节需加强技能与阅读输入，教学决策本质是结合育人伦理的多源知识整合 | 教师专业发展、课堂教学决策与校本教研 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
 > | **使用质量与伙伴范式** | 评价重心从证据生产质量转向适切与审慎的使用质量，依托跨界伙伴关系推进知识共有 | 循证实践评价、研究-实践伙伴关系（RPP）与教师专业赋权 | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]]; Tseng (2022); [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] |
-> | **组织选择与文本铭写** | 研究使用是选择、解释、协商与重写的链条，告知、概念与合法化功能可并存，最终文本决定哪些知识进入治理 | 政策机构内部的研究使用、督导标准与报告生产、知识综述 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 648–654)]] |
+> | **组织选择与文本化规程** | 研究使用是选择、解释、协商与重写的链条，告知、概念与合法化功能可并存，最终文本决定哪些知识进入治理 | 政策机构内部的研究使用、督导标准与报告生产、知识综述 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 648–654)]] |
 
 ---
 
@@ -393,7 +392,7 @@ updated: 2026-10-20
 > - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
-> - **2011–2013 / 2022 — 政策组织内部的研究选择与文本铭写** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 依据 2011–2013 年[[Swedish Schools Inspectorate|瑞典学校督察局]]的访谈、会议观察与文件，[[Cohort Study|追踪研究]]知识如何被选择、转译为评估领域、写入知识综述并在报告定稿前被重写，把研究使用研究从“用了没有”推进到组织内部“谁选择、谁转译、谁删改”的流程分析。
+> - **2011–2013 / 2022 — 政策组织内部的研究选择与文本化规程** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 依据 2011–2013 年[[Swedish Schools Inspectorate|瑞典学校督察局]]的访谈、会议观察与文件，[[Cohort Study|追踪研究]]知识如何被选择、转译为评估领域、写入知识综述并在报告定稿前被重写，把研究使用研究从“用了没有”推进到组织内部“谁选择、谁转译、谁删改”的流程分析。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
@@ -478,7 +477,7 @@ updated: 2026-10-20
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰、苏格兰与德国汉堡 9 位中小学与特教[[School Leadership\|学校领导]]者；49 份政策与中介文献 | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋半结构化访谈） | 治理机制对证据中介形态、校长接触负荷与使用功能的影响 | 英格兰高利害市场竞争导致中介泛滥与校长表演性自保使用（压缩反思）；苏格兰地方当局缓冲与[[Practitioner Enquiry\|实践者探究]]促进校本批判整合；德国汉堡官僚监测与同侪咨询促成去魅化反思使用 | — | 实证确立国家治理体制对微观证据利用性质的决定性规约，揭示表演性依从与[[Reflective Thinking\|反思性探究]]的制度分野 |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）；教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字假设 |
 > | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 卫生保健、社会关照、教育与公共政策四大实践领域 | 跨领域[[Systematic Review\|系统综述]]与叙事综合（PRISMA 规程） | 跨学科数据库检索检出与最终纳入篇数分布 | 初检 10,813 篇，查重后 10,634 篇，初筛剔除 9,837 篇，评估 797 篇全文，最终精选 112 篇核心文献（卫生 30 篇、社工 29 篇、教育 31 篇、政策 22 篇）撰写 6,000–12,000 词综述 | — | 首次跨领域系统检视使用质量文献，实证揭示各领域对使用质量显性定义的普遍匮乏，并确立[[Professional Judgment\|专业判断]]与系统动态性两大跨界共识（pp. 135–140） |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导与一次质量审计 | [[Case Study\|工具性个案研究]]，含两个嵌入式迷你个案；半结构化访谈与会议观察 | 研究知识进入督导流程的形态：研究选择、评估领域提炼、知识综述、参考组协商、报告重写 | 常规督导访谈 7 名高层管理组成员和 3 名督导/法律专家，从成功学校研究提炼约 10 个评估领域；质量审计访谈 2 名研究者、观察 2 次参考组会议，最终报告删除参考组讨论的课程解释 | 不适用（质性研究，不作统计推断） | 揭示研究使用是组织内部的选择与铭写链条，机构没有统一的选择政策，最终文本决定哪些知识进入治理（pp. 645–654） |
+> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导与一次质量审计 | [[Case Study\|工具性个案研究]]，含两个嵌入式迷你个案；半结构化访谈与会议观察 | 研究知识进入督导流程的形态：研究选择、评估领域提炼、知识综述、参考组协商、报告重写 | 常规督导访谈 7 名高层管理组成员和 3 名督导/法律专家，从成功学校研究提炼约 10 个评估领域；质量审计访谈 2 名研究者、观察 2 次参考组会议，最终报告删除参考组讨论的课程解释 | 不适用（质性研究，不作统计推断） | 揭示研究使用是组织内部的选择与文本化链条，机构没有统一的选择政策，最终文本决定哪些知识进入治理（pp. 645–654） |
 
 ---
 
@@ -498,29 +497,5 @@ updated: 2026-10-20
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被[[Performativity|表演性]]利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，追踪教育研究如何被选择、转译为常规督导的评估领域，如何在质量审计的知识综述与参考组中被协商，又在报告定稿前被传播秘书处重写，揭示研究使用中的组织权力与文本铭写。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为个案，追踪研究如何被选择、转译为常规督导评估领域，在质量审计中被协商并于定稿前被重写，揭示组织权力与规程文本化。
 
----
-
-## 条目关联
-
-> [!entry-map]
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Six-Stage Model of Policymaking]] | 理论 | 解释研究证据在议程设置、方案研制与政策采纳等各阶段依随利用的六阶段政策模型。 |
-> | [[Common Core State Standards]] | 政策事实 | 展现阶段依随型证据利用与去政治化护盾机制的经典宏观全美政策改革案例。 |
-> | [[Research Utilization Models]] | 理论 | 系统阐明研究利用 7 种机制模型与知识渗透理论的底层理论母体。 |
-> | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 分类概念 | 研究利用最核心的三元形态分类学。 |
-> | [[Research Literacy]] | 核心概念 | 教师有效开展研究利用所必需的能力[[Construct\|构念]]与知觉行为控制基础。 |
-> | [[Theory of Planned Behavior]] | 理论框架 | 将研究利用解释为由意识、态度和知觉控制技能驱动的外显目标行为。 |
-> | [[Quality Use of Research Evidence Framework]] | 实践框架 | 评价学校与教师研究使用质量的系统准则。 |
-> | [[Profession-Sensitive Conceptualisations of Research Use]] | 理论[[Paradigm\|范式]] | 第四代研究使用理论，强调多源[[Knowledge Integration\|知识整合]]与育人伦理裁决。 |
-> | [[Democratising Evidence]] | 理论转向 | 推动研究利用超越技术专家垄断、走向多元主体权力共有与包容性审议的深层价值范式。 |
-> | [[Research-Practice Partnership]] | 实践形态 | 克服单向采矿式科研、保障长期互信与研究知识持续转化的制度化合作架构。 |
-> | [[Boundary Spanner]] | 角色机制 | 在学术研究、政策制定与教学一线之间促成[[Third Space Discourse\|第三空间对话]]与[[Research Translation\|知识转译]]的跨界行动者。 |
-> | [[Swedish Schools Inspectorate]] | 事实（机构） | 以评估领域、知识综述与督导报告把研究知识写入国家教育治理的瑞典督导机构。 |
-> | [[Embodied, Inscribed and Enacted Knowledge]] | 理论 | 解释研究知识如何在具身、铭写与践行三种形态之间转化，以及文本定稿前为何可被重写。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 追踪 [[Socioscientific Issues\|SSI]] 内部研究选择、知识综述与报告重写的完整链条，打开政策组织研究使用的黑箱。 |
-> | [[Research Literacy Scale for Teachers]] | 测量工具 | 包含 7 题研究使用分量表、经 [[Confirmatory Factor Analysis\|CFA]] 严格验证的教师素养测评工具。 |
-> | [[Multivariate Analysis of Variance]] | 方法 | 检验期刊阅读与科研参与对研究使用主效应的统计分析方法。 |
