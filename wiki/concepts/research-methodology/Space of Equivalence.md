@@ -62,7 +62,7 @@ updated: 2026-10-21
 ## 定义
 
 > [!def] 核心定义
-> **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量绝非对外部客观实在的被动映射，而是通过制度化创设统一的分类编码、基准刻度与公分母，在异质的社会实体、机构与实践之间强行建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量通过制度化创设统一分类编码、基准刻度与公分母，在异质社会实体、机构与实践之间建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向通过人为设计标准化度量尺度，使原本不可比的事物在统一公分母下实现均质化通约的制度空间。
@@ -81,7 +81,7 @@ updated: 2026-10-21
 
 > [!boundary]- 概念边界
 > - 不等于 [[Commensuration]] — 通约强调将质的差异转化为量的度量过程与认知转化机制；等值空间强调该通约过程赖以成立并制度化维系的标准化度量[[Champ|场域]]与公分母空间。
-> - 不等于客观物理同质性 — 等值空间并非真实世界中客观存在的物理同质性，而是由统计专家联盟、标准化[[Questionnaire|问卷]]与数学模型共同维系的人为建构产物。
+> - 不等于客观物理同质性 — 等值空间是由统计专家联盟、标准化[[Questionnaire|问卷]]与数学模型共同维系的制度建构产物，不同于事物在本体论意义上的自然同一性。
 > - 不适用于教育本体论质性阐释 — 该概念揭示了度量建构的政治性，但其度量框架本身无法包容根植于特定文化历史背景中的差异化教育追求。
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-21
 
 > [!feature] 核心要素
 > - **制度化公分母建构** 通过专门的专家委员会与技术承包商网络，人为设定共同测度标准，在异质社会实践间强行打通可[[Commensuration|通约]]刻度。（Desrosières, 1998）
-> - **脱离本土课程的自生数据生产** 不采集各主权国家既有的课程与考试数据，而是独立命题生成标准化跨国原始数据，确保度量体系不受局部情境干扰。
+> - **脱离本土课程的自生数据生产** 独立命题生成标准化跨国原始数据以避开各国既有课程与考试差异，确保度量体系不受局部情境干扰。
 > - **[[Reliability|信度]]置换效度与[[Ontology|本体论]][[Epoché|悬置]]** 为维持跨国比较尺度的稳定性，系统性优先追求统计信度与跨情境可比性，妥协情境[[Construct Validity|构念效度]]并悬置对教育深层本质的追问。
 > - **复杂政治决断的技术隐形化** 依靠量化数据的客观外观，将背后充满价值取舍、文化偏好与规范预设的建构过程遮蔽，使其成为无可争辩的技术事实。（Rose, 1999; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 448]]）
 
@@ -128,7 +128,7 @@ updated: 2026-10-21
 > 本类命题探讨统计空间的人工建构本质，批判[[Positivism|实证主义]]将度量视为镜像反映客观实在的朴素实在论观点。
 
 > [!claim] [[Alain Desrosières|Desrosières, A.]]
-> **制度化[[Commensuration|通约]]机制** 阿兰·德罗西埃（Alain Desrosières, 1998）在其统计社会学经典论著中论证，统计数据从来不是对自然现成事物的被动记录，而必须首先经过艰巨的制度化“通约”工作；为了使不同地域、不同形态的事物能够在同一张统计表格中相提并论，统计学家必须人为设立统一的分类框架、度量规则与技术公分母，从而在概念上创造出一个原本并不存在的等值空间。
+> **制度化[[Commensuration|通约]]机制** 阿兰·德罗西埃（Alain Desrosières, 1998）在其统计社会学经典论著中论证，统计度量依托艰巨的制度化“通约”工程得以确立；为了使不同地域、不同形态的事物能够在同一张统计表格中相提并论，统计学家通过确立统一的分类框架、度量规则与技术公分母，在概念上创造出均质的等值空间。
 
 ---
 
@@ -172,7 +172,7 @@ updated: 2026-10-21
 ## 概念演变
 
 > [!dev-timeline|notitle] 概念演变
-> - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量并非发现自然实在而是创设制度[[Champ|场域]]的核心论断。
+> - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量实质上是制度创设[[Champ|场域]]的核心论断。
 > - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** [[Nikolas Rose|尼古拉斯·罗斯]]在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
 > - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（Sotiria Grek）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26)]]
 

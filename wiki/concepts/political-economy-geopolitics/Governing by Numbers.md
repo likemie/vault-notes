@@ -84,7 +84,7 @@ updated: 2026-10-21
 > 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；Steiner-Khamsi 等（2024）进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜
-> - **含义** 教育治理的权力运作不再主要依赖强制或立法，而是通过数据生产、排名比较、指标标准化以及政策中介的证据包装来引导各国教育政策向特定方向靠拢。
+> - **含义** 教育治理依托数据生产、排名比较、指标标准化以及政策中介的证据包装，以软治理方式引导各国教育政策向特定方向协调推进。
 > - **用途** 用于分析国际组织（尤其是 [[OECD]] 与[[World Bank|世界银行]]）如何通过评估工具以“软治理”方式重塑各国教育政策议程，以及量化数据如何在政治决策中获得合法性。
 > - **边界** 不等于传统自上而下的科层治理或法律强制——数字治理依赖的是信息的权威性和比较压力，而非直接命令；亦非中立的科学传播，数据生产与中介转译本身包含政治性的分类、标准化与排他性网络逻辑。
 
@@ -94,7 +94,7 @@ updated: 2026-10-21
 > *The authors make the case for a comparative research programme – tentatively labeled 'Governance by Numbers 2.0' – that is informed by a multidisciplinary (history, political science, interdisciplinary policy studies) interpretive framework and that advances a transnational, relational method of inquiry which draws attention to the global/national nexus.*
 
 > [!citation-card] 罗斯与里兹维等论数字即政策与判断的隐形化
-> 伴随经合组织国际学生评估项目（PISA）的崛起，跨国教育治理确立了[[Alain Desrosières|德罗西埃]]（Desrosières, 1998）所谓的跨国“等价空间”（[[Space of Equivalence]]）。PISA 并非汇总各国既有统计，而是通过专家咨询联合体自行生产专属全球数据流，将对[[Reliability|信度]]与可比性的关注置于[[Construct Validity|构念效度]]与[[Ontology|本体论]]之上。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999: 208）揭示，数字的力量正在于其“使测量、刻度与数字背后的复杂判断和决策变得不可见，因而也不容置疑”。经合组织由此通过“数字即政策”（policy as numbers），将原本属于政治哲学讨论的教育目的问题，置换为技术层面的投入产出排位赛，使[[Technical Rationality|技术理性]]凌驾于政治协商之上并维系了[[Social Imaginary|知识经济的社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> 伴随经合组织国际学生评估项目（PISA）的崛起，跨国教育治理确立了[[Alain Desrosières|德罗西埃]]（Desrosières, 1998）所谓的跨国“等价空间”（[[Space of Equivalence]]）。PISA 通过专家咨询联合体独立研发专属全球数据流，将对[[Reliability|信度]]与可比性的关注置于[[Construct Validity|构念效度]]与[[Ontology|本体论]]之上。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999: 208）揭示，数字的力量正在于其“使测量、刻度与数字背后的复杂判断和决策变得不可见，因而也不容置疑”。经合组织由此通过“数字即政策”（policy as numbers），将原本属于政治哲学讨论的教育目的问题，置换为技术层面的投入产出排位赛，使[[Technical Rationality|技术理性]]凌驾于政治协商之上并维系了[[Social Imaginary|知识经济的社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison – a space of uniform measurement, or what Desrosieres (1998) refers to as a "space of equivalence." ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they "render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number" (Rose, 1999: 208). ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]])*
 
@@ -120,7 +120,7 @@ updated: 2026-10-21
 
 > [!feature] 核心要素
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
-> - **跨国“等价空间”（[[Space of Equivalence]]）的自产机制** PISA 并不依赖各国上报的国内统计数据，而是委托跨国专家咨询财团专门独立研发文化公平测验与精密翻译流程，自行生产全球专属数据流；在此过程中，跨国统一度量与[[Reliability|信度]]（reliability）比较被置于本土[[Construct Validity|构念效度]]与[[Ontology|本体论]]（ontology）考量之上。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]; Desrosières (1998)
+> - **跨国“等价空间”（[[Space of Equivalence]]）的自产机制** PISA 依托跨国专家咨询财团专门独立研发文化公平测验与精密翻译流程，自产全球专属数据流；在此过程中，跨国统一度量与[[Reliability|信度]]（reliability）比较被置于本土[[Construct Validity|构念效度]]与[[Ontology|本体论]]（ontology）考量之上。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]; Desrosières (1998)
 > - **“数字即政策”（Policy as Numbers）的去政治化效应** 数字将测评[[Construct|构念]]背后极其复杂的价值权衡、哲学预设与政策判断彻底“隐形化与不可争辩化”（Rose, 1999: 208）；全球媒体与政治系统将注意力高度聚焦于绩效联赛排行榜与相对排位，使技术评估凌驾于政治讨论之上，压制了关于教育公共本质与社会正义的哲学辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
 > - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为[[Evidence-Based Policy-Making|循证政策制定]]披上[[Façade of Rationality|理性外衣]]。
 > - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的[[Surplus of Evidence|研究证据过剩]]与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其转译为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -165,7 +165,7 @@ updated: 2026-10-21
 > **数字治理的双向互动机制** PISA 与国家教育改革之间存在双向互动：各国政策制定者利用 PISA 数据来验证和推动国内已有的改革议程，同时又因国际排名压力而调整政策方向以回应外部审视。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009) & Rose (1999)
-> **跨国等价空间自产与“数字即政策”的价值隐形化机制** 法扎尔·里兹维与鲍勃·林加德结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）与[[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1999）的理论指出，国际学生评估项目（[[PISA]]）之所以能构建起空前强大的跨国软治理网络，关键在于其并非搜集汇总成员国现成的数据，而是委托专门的跨国专家财团独立生产专属全球数据流。这一过程极度注重跨国可比性与“等价空间”（[[Space of Equivalence]]）的均一性，将测量[[Reliability|信度]]置于[[Ontology|本体论]]与本土[[Construct Validity|构念效度]]之上。经合组织推行的“数字即政策”（policy as numbers）展现出独特的治理力量：数字“使构成测量、量表和分值的复杂判断与决策阵列隐形化，从而使其变得不可争辩”（Rose, 1999: 208）。各国政界与媒体对 PISA 排行榜的狂热追逐，使技术性排位赛凌驾于政治哲学讨论之上，将深层教育目的和公平议题技术化为狭隘的学校准入与效能指标，强力维系了[[Knowledge-Based Economy|知识经济]]的新自由主义[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **跨国等价空间自产与“数字即政策”的价值隐形化机制** 法扎尔·里兹维与鲍勃·林加德结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）与[[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1999）的理论指出，国际学生评估项目（[[PISA]]）之所以能构建起空前强大的跨国软治理网络，关键在于其跳过各国现成统计数据，委托专门的跨国专家财团独立生产专属全球数据流。这一过程极度注重跨国可比性与“等价空间”（[[Space of Equivalence]]）的均一性，将测量[[Reliability|信度]]置于[[Ontology|本体论]]与本土[[Construct Validity|构念效度]]之上。经合组织推行的“数字即政策”（policy as numbers）展现出独特的治理力量：数字“使构成测量、量表和分值的复杂判断与决策阵列隐形化，从而使其变得不可争辩”（Rose, 1999: 208）。各国政界与媒体对 PISA 排行榜的狂热追逐，使技术性排位赛凌驾于政治哲学讨论之上，将深层教育目的和公平议题技术化为狭隘的学校准入与效能指标，强力维系了[[Knowledge-Based Economy|知识经济]]的新自由主义[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 
@@ -175,7 +175,7 @@ updated: 2026-10-21
 > 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **中介证据包装与行政出台阶段的政治过滤** 在信息过载与[[Surplus of Evidence|证据过剩]]的数字经济下，数字治理进入 2.0 阶段；国际组织不再仅靠单次发榜制造冲击，而是通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
+> **中介证据包装与行政出台阶段的政治过滤** 在信息过载与[[Surplus of Evidence|证据过剩]]的数字经济下，数字治理进入 2.0 阶段；国际组织转向通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-10-21
 > 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图统合格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 [[PISA for Development|PISA-D]]，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图整合多边评估格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 [[PISA for Development|PISA-D]]，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 ---
 
