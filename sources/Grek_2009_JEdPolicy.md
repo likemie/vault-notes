@@ -1,6 +1,7 @@
 ---
 citation: "Grek, S. (2009). Governing by numbers: the PISA 'effect' in Europe. *Journal of Education Policy*, 24(1), 23–37. https://doi.org/10.1080/02680930802412669"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 processed_date: 2026-10-21
 ---
 

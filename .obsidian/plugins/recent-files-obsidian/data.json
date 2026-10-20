@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Grek_2009_JEdPolicy",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
+    },
+    {
+      "basename": "Argument_Kalmendal_2025_PsyArXiv",
+      "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
+    },
+    {
       "basename": "Argument_Segerholm_Lindgren_Novak_2022_SJER",
       "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
-    },
-    {
-      "basename": "Argument_Kalmendal_2025_PsyArXiv",
-      "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
     },
     {
       "basename": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",
@@ -195,10 +199,6 @@
     {
       "basename": "Effect Size",
       "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Argument_Woo_2023_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
     }
   ],
   "omittedPaths": [],
