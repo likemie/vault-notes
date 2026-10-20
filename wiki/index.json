@@ -5495,6 +5495,17 @@
     ]
   },
   {
+    "title": "Mediatisation of Education Policy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Mediatisation of Education Policy.md",
+    "aliases": [
+      "教育政策媒介化",
+      "政策媒介化",
+      "Mediatisation",
+      "Mediatization of Education Policy"
+    ]
+  },
+  {
     "title": "Months of Progress",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Months of Progress.md",
@@ -25859,6 +25870,15 @@
     ]
   },
   {
+    "title": "Sotiria Grek",
+    "type": "person",
+    "path": "wiki/persons/uk/Sotiria Grek.md",
+    "aliases": [
+      "索蒂丽亚·格雷克",
+      "S. Grek"
+    ]
+  },
+  {
     "title": "Stephen Ball",
     "type": "person",
     "path": "wiki/persons/uk/Stephen Ball.md",
@@ -29500,6 +29520,16 @@
     ]
   },
   {
+    "title": "Eurydice",
+    "type": "fact",
+    "path": "wiki/facts/eu/Eurydice.md",
+    "aliases": [
+      "Eurydice Network",
+      "欧洲教育信息网络",
+      "欧洲教育信息网"
+    ]
+  },
+  {
     "title": "Critical Raw Materials Act",
     "type": "fact",
     "path": "wiki/facts/eu/Critical Raw Materials Act.md",
@@ -29691,6 +29721,16 @@
     ]
   },
   {
+    "title": "Fabricating Quality in European Education",
+    "type": "fact",
+    "path": "wiki/facts/eu/Fabricating Quality in European Education.md",
+    "aliases": [
+      "FabQ",
+      "制造欧洲教育质量项目",
+      "制造欧洲教育质量"
+    ]
+  },
+  {
     "title": "Important Projects of Common European Interest",
     "type": "fact",
     "path": "wiki/facts/eu/Important Projects of Common European Interest.md",
@@ -29700,6 +29740,17 @@
       "Important Project of Common European Interest",
       "IPCEI ME/CT",
       "微电子与通信技术欧洲共同利益重要项目"
+    ]
+  },
+  {
+    "title": "Peer-Learning Activities",
+    "type": "fact",
+    "path": "wiki/facts/eu/Peer-Learning Activities.md",
+    "aliases": [
+      "欧盟同行学习活动",
+      "PLA",
+      "Peer Learning Activities",
+      "欧盟同伴学习活动"
     ]
   },
   {
@@ -30375,6 +30426,16 @@
       "NuBiL-Projekt",
       "Nutzung von Bildungsforschung durch Lehrpersonen",
       "Teachers' Use of Educational Research"
+    ]
+  },
+  {
+    "title": "Physik im Kontext",
+    "type": "fact",
+    "path": "wiki/facts/germany/Physik im Kontext.md",
+    "aliases": [
+      "PIKO",
+      "语境中的物理",
+      "语境物理教学项目"
     ]
   },
   {
@@ -31268,6 +31329,16 @@
     ]
   },
   {
+    "title": "International Adult Literacy Survey",
+    "type": "fact",
+    "path": "wiki/facts/global/International Adult Literacy Survey.md",
+    "aliases": [
+      "国际成人识字率调查",
+      "国际成人读写能力调查",
+      "IALS"
+    ]
+  },
+  {
     "title": "International Baccalaureate Applied Chemistry Course",
     "type": "fact",
     "path": "wiki/facts/global/International Baccalaureate Applied Chemistry Course.md",
@@ -31478,6 +31549,17 @@
       "国际数学与科学趋势研究",
       "国际数学与科学趋势调查",
       "Trends in International Mathematics and Science Study"
+    ]
+  },
+  {
+    "title": "UOE Data Collection",
+    "type": "fact",
+    "path": "wiki/facts/global/UOE Data Collection.md",
+    "aliases": [
+      "UOE",
+      "UNESCO-OECD-Eurostat",
+      "UOE 联合数据收集机制",
+      "UNESCO-OECD-Eurostat joint data collection"
     ]
   },
   {
