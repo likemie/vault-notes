@@ -135,8 +135,8 @@ updated: 2026-10-21
 > [!stat-cards]- 核心历史数据
 > - **€4B** （联邦投资规模） 联邦政府注入 40 亿欧元专项资金用于全日制学校建设。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]
 > - **7** （行动领域） [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 确立 7 大国家优先改革领域。
-> - **687 版面** 德国媒体对 PISA 2000 结果的报道多达 687 个版面，形成全面舆论风暴（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 29]]）。
-> - **第 20 位** 德国在 PISA 2000 的 32 个受测国中阅读、数学与科学均位列第 20 位（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）。
+> - **687** 德国媒体对 PISA 2000 结果的报道多达 687 个版面，形成全面舆论风暴（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 29]]）。
+> - **20th** 德国在 PISA 2000 的 32 个受测国中阅读、数学与科学均位列第 20 位（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）。
 
 ---
 
@@ -152,7 +152,7 @@ updated: 2026-10-21
 > > - **[[Critical Pedagogy|批判教育学]]派** 指责技术官僚主导的产出控制矮化了传统人文教养理想，导致学校教学窄化为应试技能训练。
 
 > [!citation-card] 代表性史学论著引言：[[Sigrid Hartong|哈通]]论德国[[Topological Spatialisation|拓扑治理]]装配
-> 德国并未盲目效仿英美的高利害惩罚性学校排名榜，而是依托宪制折中，通过 [[Institute for Educational Quality Improvement|IQB]] [[Center of Calculation|计算中心]]与跨尺度[[Data Infrastructure|数据基础设施]]装配，发展出一种兼顾州自主与国家标准渗透的独特拓扑治理空间。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
+> 德国依托宪制折中，通过 [[Institute for Educational Quality Improvement|IQB]] [[Center of Calculation|计算中心]]与跨尺度[[Data Infrastructure|数据基础设施]]装配，开创出一种兼顾州自主与国家标准渗透的独特拓扑治理空间，未采纳英美式的市场化惩罚性学校排名榜。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
 >
 > *Germany did not adopt market-driven punitive [[Global Universities Rankings|league tables]]... Instead, through the IQB and data infrastructure assemblages, it created a topological governance spatialisation that reassembled federal educational space.*
 
