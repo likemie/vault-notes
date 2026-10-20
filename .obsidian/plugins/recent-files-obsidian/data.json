@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
     },
     {
+      "basename": "Embodied, Inscribed and Enacted Knowledge",
+      "path": "wiki/theories/educational-policy-reform/Embodied, Inscribed and Enacted Knowledge.md"
+    },
+    {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Employment Retention and Advancement",
       "path": "wiki/facts/uk/Employment Retention and Advancement.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/arguments/index.md"
     }
   ],
   "omittedPaths": [],

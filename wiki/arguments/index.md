@@ -574,7 +574,7 @@ Total entries: **365**
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]] — 基于计划行为理论与研究利用模型开发并验证20题4维度的教师研究素养量表，证实研究技能是解释力最强的核心知觉控制变量，且开展科研与阅读期刊能显著赋能教师研究素养。
 
 > [!index-list]- Scandinavian Journal of Educational Research (1)
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER]] — 以瑞典学校督察局为工具性个案，通过常规督导与质量审计两个嵌入式迷你个案，追踪教育研究如何被选择、转译并铭写进督导标准与报告，揭示证据本位治理同时依赖具身与践行知识，研究知识最终使特定教育实践方向清晰可控并合法化国家政策
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER]] — 以瑞典学校督察局为工具性个案，追踪常规督导与质量审计如何选择、转译并铭写教育研究：前者从成功学校研究中提炼评估领域，经高层协商写入督导指令；后者延请研究者组成参考组、编制知识综述，却在定稿前由传播秘书处删去课程解释。两条路径把复杂的教育实践压缩为清晰、可控的方向，使研究同时成为督导的方法正当性与合法化资源，而具身与践行知识始终支撑着这套证据本位流程
 
 > [!index-list]- Scholarship of Teaching and Learning in Psychology (1)
 > - [[Argument_Hattie_2015_SOTLP]] — 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
