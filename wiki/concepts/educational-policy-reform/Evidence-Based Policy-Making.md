@@ -10,7 +10,7 @@ aliases:
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

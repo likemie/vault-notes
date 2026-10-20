@@ -8,10 +8,10 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/epistemology
   - theme/research-philosophy
