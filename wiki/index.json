@@ -16635,6 +16635,22 @@
     ]
   },
   {
+    "title": "Embodied, Inscribed and Enacted Knowledge",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Embodied, Inscribed and Enacted Knowledge.md",
+    "aliases": [
+      "具身、铭写与践行知识",
+      "知识的三相形态",
+      "具身知识",
+      "铭写知识",
+      "践行知识",
+      "embodied knowledge",
+      "inscribed knowledge",
+      "enacted knowledge",
+      "embodied inscribed and enacted knowledge"
+    ]
+  },
+  {
     "title": "Four Generations of Research Use",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Four Generations of Research Use.md",
@@ -32591,6 +32607,16 @@
     ]
   },
   {
+    "title": "Swedish Schools Inspectorate",
+    "type": "fact",
+    "path": "wiki/facts/sweden/Swedish Schools Inspectorate.md",
+    "aliases": [
+      "瑞典学校督察局",
+      "瑞典教育督导局",
+      "Skolinspektionen"
+    ]
+  },
+  {
     "title": "Swedish ULF Project",
     "type": "fact",
     "path": "wiki/facts/sweden/Swedish ULF Project.md",
@@ -38567,6 +38593,11 @@
     "title": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md"
+  },
+  {
+    "title": "Argument_Segerholm_Lindgren_Novak_2022_SJER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
   },
   {
     "title": "Argument_Hattie_2015_SOTLP",
