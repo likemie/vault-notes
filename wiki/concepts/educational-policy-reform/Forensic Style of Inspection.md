@@ -6,8 +6,13 @@ aliases:
   - 取证式调查风格
   - Forensic Investigation Style
   - Forensic Style of Audit
-summary: "格雷厄姆·史密斯在对英国教育标准局（Ofsted）研究中提出的批判性概念；指国家学校督导机构所开展的以支持既定行政结论为导向的封闭式调查模式；调查并不寻求发现未知事实或实践多样性，而是围绕既定政策设判定向搜集并拼合支撑材料，在终审环节通过内部重写清洗异议，以科学循证外观确立政策议程并迫使一线学校服从合规。"
+summary: "格雷厄姆·史密斯在对英国教育标准局（Ofsted）研究中提出的批判性概念；指国家学校督导机构开展的以支持既定行政结论为导向的封闭式调查模式；调查围绕既定政策设判定向搜集并拼合支撑材料，在终审环节通过内部重写清洗异议，以科学循证外观确立政策议程并促使一线学校服从合规。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 subtype: educational-policy-reform
 tags:
   - concept/educational-policy-reform
@@ -46,7 +51,7 @@ updated: 2026-10-21
 ## 定义
 
 > [!def] 核心定义
-> 取证式督导（Forensic Style of Inspection / Forensic Investigation）是教育政策研究者格雷厄姆·史密斯（Graham Smith, 2000）在剖析英国教育督察体制演变时提出的分析性概念，指国家督导或质量审计机构开展的一种具有高度预设性与辩护性的调查模式。该模式不以探索实践的多样性变体或发现未知的教学现象为目的，而是从一开始就为了支撑某项既定的政策假定或行政裁决，定向搜罗、拼凑并组装经验材料；调查发现并非来自对数据的客观中立分析，而是依循类似法庭公诉取证的逻辑建立行政问责卷宗。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Smith, 2000, p. 337)]]
+> 取证式督导（Forensic Style of Inspection / Forensic Investigation）是教育政策研究者格雷厄姆·史密斯（Graham Smith, 2000）在剖析英国教育督察体制演变时提出的分析性概念，指国家督导或质量审计机构开展的一种具有高度预设性与辩护性的调查模式。该模式为了支撑既定的政策假定或行政裁决，定向搜罗、拼凑并组装经验材料；调查发现来自对行政主张的事后论证，依循类似法庭公诉取证的逻辑建立问责卷宗。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Smith, 2000, p. 337)]]
 
 > [!concept-lens] 概念透镜
 > - **指向对象** 指向国家督导与审计过程中将实证调研异化为“先定结论、后拼论据”的定向取证操作。
@@ -54,7 +59,7 @@ updated: 2026-10-21
 > - **概念边界** 与探索性个案调查或形成性教学评估相对立；取证式督导具有鲜明的规范封闭性，对与政策结论不相符的复杂情境与矛盾证据采取系统性过滤与重写策略。
 
 > [!citation-card] 取证式调查对既定政策结论的单向拼合
-> 质量审计整体上呈现出一种开展调查的‘取证式风格’（Smith, 2000）。审计绝非为了发现任何意外的新事物，抑或探索实践解决方案的多样性变体；因此，‘证据的搜集与组装是为了支持既定的政策结论，而非从对数据的冷静客观分析中涌现发现’（Smith, 2000, p. 337）。正如史密斯所指出的，这不仅是一种设定政策议程的策略，更是一种迫使专业人员服从该议程的策略。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
+> 质量审计整体上呈现出一种开展调查的‘取证式风格’（Smith, 2000）。审计以确证既定政策设想为目标；‘证据的搜集与组装是为了支持既定的政策结论，替代了对数据的冷静客观分析’（Smith, 2000, p. 337）。正如史密斯所指出的，这不仅是一种设定政策议程的策略，更是一种促使专业人员服从该议程的策略。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 >
 > *Overall, the audit process resembles a “forensic style” (Smith, 2000) of conducting investigations. The audit is not conducted to find anything unexpected and new or to discover any variations of practical solutions; thus, “evidence was assembled in support of a policy conclusion, rather than findings emerging from a more dispassionate analysis of the data” (Smith, 2000, p. 337). As noted by Smith (2000), this is a strategy to set the policy agenda, but we argue that it could also be a strategy to make professionals follow this agenda. (Segerholm et al., 2022, p. 653)*
 
@@ -99,7 +104,7 @@ updated: 2026-10-21
 ### 命题一　取证式督导通过循证修辞建立政策垄断并阻断专业自主反思
 
 > [!concept-lens] 督导权力与证据构建的合法化机制
-> 探讨督察机构如何利用科学证据的客观性外观掩盖行政主导的取证逻辑，进而达成对一线教学实践的强力规约。
+> 探讨督察机构如何利用科学证据的客观性外观掩盖行政主导的取证逻辑，进而达成对一线教学实践的强力控制。
 
 > [!claim] Segerholm et al. (2022)
 > **取证式调查违背了科学求证的开放性本质** 塞格霍尔姆等指出，科学证据的根本特性在于其所呈现的事实往往具有超越预期的意外性，能够拓宽观察者的认知视野（Eriksson & Martinsen, 2012）。瑞典学校督察局的质量审计完全偏离了这一求真逻辑，沦为典型的取证式风格：机构在定稿前刻意抹去外部专家对国家课程大纲缺陷的学术批评，将教学问题全部归咎为学校领导与教师缺乏自信，从而使取证式督导成为迫使专业人员无条件服从国家既定教育方针的技术工具。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–653)]]

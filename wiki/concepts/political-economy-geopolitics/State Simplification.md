@@ -7,6 +7,11 @@ aliases:
   - Simplification by the State
 summary: "詹姆斯·C·斯科特在《像国家一样审视》中提出的核心政治学与治理概念；指现代国家官僚机构为实现自上而下的行政统领与远程控制，将极其复杂、异质且情境依赖的社会现实与地方性知识，强制裁剪并编码为标准化、可度量、可横向比较的分类矩阵；在当代教育治理中，国家督导机构以此将生动的教学实践与充满学术争议的科研成果压缩为单一评估指标，以行政可控性排斥科学多元主义。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 subtype: political-economy-geopolitics
 tags:
   - concept/political-economy-geopolitics
@@ -80,7 +85,7 @@ updated: 2026-10-21
 > [!feature] 核心要素
 > - **可读性生产（Production of Legibility）** 国家官僚机器无法直接处理微观层面的无数特殊情境，必须通过统一的分类标准和指标矩阵，创造出一种脱离原初脉络的标准化视野。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 > - **对多元与冲突的排他性过滤（Purging of Pluralism）** 任何学术争议、未解谜题或相互矛盾的实证结论，都会威胁到行政常模的权威性；因此国家机构必然选择性封装证据，制造出所谓“无可争议的当前知识状态”。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
-> - **铭写为法定文本（Inscription into Statutory Instruments）** 将简化后的分类编码进督导规程、学校自查指南与评估报告，使国家简化转化为具有行政强制力或导向性的治理规约。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 648)]]
+> - **铭写为法定文本（Inscription into Statutory Instruments）** 将简化后的分类编码进督导规程、学校自查指南与评估报告，使国家简化转化为具有行政强制力或导向性的治理规范。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 648)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -145,7 +150,7 @@ updated: 2026-10-21
 > |:-----|:-----|:-----|
 > | [[James C. Scott]] | Person | 概念的原创提出者，在其名著《像国家一样审视》中奠定理论根基。 |
 > | [[Swedish Schools Inspectorate]] | Fact (Organization) | 运用国家简化理论进行经验剖析的典型国家学校督导机构案例。 |
-> | [[Technical Rationality]] | Concept | 国家简化在认识论层面的哲学基础，二者共同追求可控的因果闭合。 |
+> | [[Technical Rationality]] | Concept | 国家简化在认识论层面的哲学基础，二者共同追求可控的确定性因果模型。 |
 > | [[Governing by Inspection]] | Theory | 国家简化在现代教育治理场景中通过外部督导得以施展的具体理论载体。 |
 > | [[Governing at a Distance]] | Theory | 国家简化为远程治理提供了关键的量化可读性中介与指标工具。 |
 > | [[Pluralism]] | Theory | 国家简化在科层行政运作中为了维持单向确定性而着力排斥与压制的对象。 |

@@ -5290,6 +5290,18 @@
     ]
   },
   {
+    "title": "Forensic Style of Inspection",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Forensic Style of Inspection.md",
+    "aliases": [
+      "取证式督导",
+      "取证式调查",
+      "取证式调查风格",
+      "Forensic Investigation Style",
+      "Forensic Style of Audit"
+    ]
+  },
+  {
     "title": "Global Education Reform Movement",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
@@ -5387,6 +5399,18 @@
     "aliases": [
       "制度性不信任",
       "制度不信任"
+    ]
+  },
+  {
+    "title": "Juridification of Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Juridification of Education.md",
+    "aliases": [
+      "教育司法化",
+      "教育法律规制化",
+      "教育领域的司法化",
+      "Juridification of Schooling",
+      "Juridification"
     ]
   },
   {
@@ -10707,6 +10731,17 @@
     "aliases": [
       "空间分选",
       "空间分化"
+    ]
+  },
+  {
+    "title": "State Simplification",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/State Simplification.md",
+    "aliases": [
+      "国家简化",
+      "国家的简化",
+      "像国家一样审视",
+      "Simplification by the State"
     ]
   },
   {
@@ -16696,6 +16731,18 @@
     ]
   },
   {
+    "title": "Governing by Inspection",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Governing by Inspection.md",
+    "aliases": [
+      "借督导治理",
+      "督导治理",
+      "督导即治理",
+      "督察治理",
+      "Inspection as Governance"
+    ]
+  },
+  {
     "title": "Governing Mechanisms of Research Use",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Governing Mechanisms of Research Use.md",
@@ -16880,6 +16927,18 @@
       "ToC",
       "theories of change",
       "变革理论模型"
+    ]
+  },
+  {
+    "title": "Three Lenses of Evidence-Based Policy",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Three Lenses of Evidence-Based Policy.md",
+    "aliases": [
+      "循证政策的三维透镜模型",
+      "循证政策的三重视角",
+      "循证政策的三维证据框架",
+      "Three Lenses of Evidence",
+      "Head's Three Lenses Framework"
     ]
   },
   {
@@ -17251,6 +17310,17 @@
       "Theory of Inventive Problem Solving",
       "TIPS",
       "Teoriya Resheniya Izobretatelskikh Zadatch"
+    ]
+  },
+  {
+    "title": "Legitimate Peripheral Participation",
+    "type": "theory",
+    "path": "wiki/theories/learning-cognition/Legitimate Peripheral Participation.md",
+    "aliases": [
+      "合法的边缘性参与",
+      "正当边缘参与",
+      "边缘参与",
+      "LPP"
     ]
   },
   {
@@ -25241,6 +25311,16 @@
     ]
   },
   {
+    "title": "Jenny Ozga",
+    "type": "person",
+    "path": "wiki/persons/uk/Jenny Ozga.md",
+    "aliases": [
+      "珍妮·奥兹加",
+      "奥兹加",
+      "Jennifer Ozga"
+    ]
+  },
+  {
     "title": "Jeremy Rappleye",
     "type": "person",
     "path": "wiki/persons/uk/Jeremy Rappleye.md",
@@ -26960,6 +27040,17 @@
       "雅各布·哈克",
       "Hacker, J. S.",
       "Jacob Hacker"
+    ]
+  },
+  {
+    "title": "James C. Scott",
+    "type": "person",
+    "path": "wiki/persons/us/James C. Scott.md",
+    "aliases": [
+      "詹姆斯·C·斯科特",
+      "詹姆斯·斯科特",
+      "斯科特",
+      "James Scott"
     ]
   },
   {
@@ -32689,6 +32780,19 @@
     "aliases": [
       "瑞典教育研究所",
       "Skolforskningsinstitutet"
+    ]
+  },
+  {
+    "title": "Swedish National Agency for Education",
+    "type": "fact",
+    "path": "wiki/facts/sweden/Swedish National Agency for Education.md",
+    "aliases": [
+      "瑞典国家教育局",
+      "瑞典国家学校教育署",
+      "瑞典国家教育署",
+      "Skolverket",
+      "National Agency for Education",
+      "NAE"
     ]
   },
   {
