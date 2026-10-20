@@ -24,11 +24,11 @@ tags:
   - narrative-case-study
 related_concepts:
   - "[[Discourse]]"
+  - "[[Debt-Trap Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Knowledge Power]]"
   - "[[International Education]]"
-  - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -43,13 +43,17 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
+  - "[[Narrative Research]]"
   - "[[Purposeful Sampling]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Member Checking]]"
 related_instruments: []
 related_persons:
   - "[[Jane Knight]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
+  - "[[Study in China]]"
   - "[[China Scholarship Council]]"
 related_arguments: []
 sources:
@@ -64,7 +68,7 @@ title: "Argument_Liu_2025_IndHE"
 argument_key: "Argument_Liu_2025_IndHE"
 argument_display_title: "International higher education as knowledge diplomacy: The role of Chinese universities in China’s belt and road initiative"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -81,7 +85,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）实施十余年来，中国高等教育在其中发挥着怎样的实质作用？西方[[Discourse|话语]]普遍将该倡议指控为债务陷阱外交和新殖民主义地缘扩张，而既有高教研究也多假定中国招收国际学生缺乏经济考量、仅用于展示政治[[Soft Power|软实力]]。在此背景下，中国高校如何协同海外重点能源与基建工程开展人才培养？这类跨国合作办学在多大程度上契合[[Jane Knight|简·奈特]]（Jane Knight）界定的[[Knowledge Diplomacy|知识外交]][[Analytic Framework|分析框架]]（Knight, 2022b）？（pp.187–188）
+> [[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）实施十余年来，中国高等教育在其中发挥着怎样的实质作用？西方[[Discourse|话语]]普遍将该倡议指控为[[Debt-Trap Diplomacy|债务陷阱外交]]和新殖民主义地缘扩张，而既有高教研究也多假定中国招收国际学生缺乏经济考量、仅用于展示政治[[Soft Power|软实力]]。在此背景下，中国高校如何协同海外重点能源与基建工程开展人才培养？这类跨国合作办学在多大程度上契合[[Jane Knight|简·奈特]]（Jane Knight）界定的[[Knowledge Diplomacy|知识外交]][[Analytic Framework|分析框架]]（Knight, 2022b）？（pp.187–188）
 
 > [!claim] 核心主张
 > 中国高校参与一带一路建设的合作办学实践符合知识外交的核心准则。双边政府、跨国企业、专业院校与国际学生四方结成紧密伙伴，既解决了受援国关键能源与交通工程缺乏本土技术骨干的燃眉之急，践行了 Sen (2001) 倡导的[[Capability Approach|能力进路]]理念，又实现了中国海外投资长期效益与受援国自主造血发展的双赢。（pp.187, 193–196）
@@ -117,9 +121,9 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **叙事[[Case Study\|案例研究]]** | 依据 Clandinin and Connelly (2000) 以及 Yin (2013) 的质性设计原则，邀请深度参与项目的[[International Education\|国际教育]]主管与学者以故事纪实形式提供详尽的第一手材料，完整还原历史背景与办学过程。（p.190） |
+> | **叙事[[Case Study\|案例研究]]** | 依据 Clandinin and Connelly (2000) 与 Yin (2013) 的质性设计原则，将[[Narrative Research\|叙事研究]]与[[Case Study\|案例研究]]融为一体，邀请深度参与项目的[[International Education\|国际教育]]主管与学者以故事纪实形式提供详尽的第一手材料，完整还原历史背景与办学过程。（p.190） |
 > | **[[Purposeful Sampling\|目的性抽样]]** | 遵循 Staller (2021) 的抽样标准，从[[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR）中系统选取在石油、水利、路桥等工程领域办学实力顶尖、且与海外重大工程长期深度合作的三所代表性院校。（p.190） |
-> | **跨案例分析与[[Reliability\|信度]]检验** | 参照 O'Connor and Joffe (2020) 的编码员间信度分析规程，由四位分析者对三校经验材料开展交叉比对，严格执行信度检验，保障质性归纳与跨案例综合的客观性与透明度。（p.190） |
+> | **跨案例分析与[[Intercoder Agreement\|信度检验]]** | 参照 O'Connor and Joffe (2020) 的[[Intercoder Agreement\|编码员间信度]]分析规程，由四位分析者对三校经验材料开展交叉比对，严格执行信度检验，保障质性归纳与跨案例综合的客观性与透明度。（p.190） |
 
 案例高校在学科特长、工程地理与培养规模上各具特色，提供了极具对比价值的实证经验。（pp.190–193）
 
@@ -128,7 +132,7 @@ issuing_organization: ""
 > |----------|------|
 > | **案例院校** | 三所行业优势突出的中国骨干高校（匿名化处理为 SY 大学、HH 大学、CA 大学），分别对应中亚油气输送管道、东南亚水电电网建设、非洲干线公路与铁路三大工程场景。（pp.190–193） |
 > | **培养对象** | 涵盖塔吉克斯坦全国高考前 1000 名选拔的 30 名石油工程定向本科生；老挝电力系统定向培养的 138 人（含 60 名水利电气五年制本科生、37 名工商管理硕士（Master of Business Administration, MBA）、41 名水利防灾硕士）；非洲交通基建全额资助定向培养的 135 名留学生（刚果（布）101 人、塞内加尔 15 人、马达加斯加 15 人、加蓬 4 人）及加蓬 4 名短期实训工程师。（pp.190–193） |
-> | **档案情境** | 依托高校涉外办学档案、双边政府间协定、校企合作协议及毕业生追踪记录；材料经多轮核实与文字修订，确保叙事实证链条完整对齐。（p.190） |
+> | **档案情境** | 依托高校涉外办学档案、双边政府间协定、校企合作协议及毕业生追踪记录；材料参照 Birt et al. (2016) 执行[[Member Checking\|成员检验]]（Member Checking），经多轮核实与文字修订，确保叙事实证链条完整对齐。（p.190） |
 
 ---
 
@@ -188,6 +192,7 @@ issuing_organization: ""
 
 > [!policy-context] 跨国工程与多边高教合作制度架构
 > - **战略发端与宗旨** 2013 年启动倡议，以实体基础设施互联互通为支柱，拓展南南经济互利协作网络。（pp.187–188）
+> - **来华留学战略基底** 2010 年教育部出台《[[Study in China|留学中国计划]]》，设定十年内吸引 50 万国际学生来华的战略目标；截至 2018 年约 12% 的在华留学生享有中国政府国家级全额奖学金，为高教服务大国外交提供了稳固的制度与生源基底。（p.188）
 > - **全球覆盖与规模** 截至 2023 年汇聚全球 150 多个国家，涵盖世界近 75% 的人口与超 50% 的经济总量。（p.187）
 > - **多边金融保障** 2015 年成立亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB），为重大跨国能源与交通基建提供资金支撑。（pp.187–188）
 > - **高教协同纽带** 2015 年成立[[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR），搭建沿线高校工程科技协同攻关与骨干人才定向培养网络。（pp.187, 190）
@@ -329,7 +334,7 @@ issuing_organization: ""
 
 #### 4. 建设基础设施与培育本土技术力量打破了单向依附的债务陷阱论调
 
-西方地缘政治论调常将一带一路指责为制造主权债务危机的工具，但深入一线的[[Engineering Education|工程教育]]实践展现了截然不同的发展事实。（pp.194–195）
+西方地缘政治论调常将一带一路指责为制造主权债务危机的[[Debt-Trap Diplomacy|债务陷阱外交]]工具，但深入一线的[[Engineering Education|工程教育]]实践展现了截然不同的发展事实。（pp.194–195）
 
 > [!critique] 对地缘依附与债务陷阱指控的事实反驳
 > - **填补发展赤字的能力进路** 中国传统经验强调要想富先修路，与 Sen (2001) 倡导的可行能力理念形成理论共振；发展中国家长期落后源于基础设施匮乏与[[Human Capital Theory|人力资本]]断层，单纯提供货币援助无法形成内生动力，必须通过重大交通与能源工程夯实实体经济根基。（pp.194–195）

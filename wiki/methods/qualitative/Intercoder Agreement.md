@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -67,10 +67,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Jansen_2026_EPR]]"
+  - "[[Argument_Liu_2025_IndHE]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Intercoder Agreement
@@ -82,7 +83,7 @@ updated: 2026-10-16
 > [!def] 核心定义
 > **编码者间一致性（Intercoder Agreement，又称编码者间[[Reliability\|信度]]、intercoder reliability）** 是[[Qualitative Research\|质性研究]]、[[Content Analysis\|内容分析]]与[[Meta-analysis\|元分析]]编码中评估分析质量与[[Measurement Invariance\|测量等值性]]的关键[[Reliability\|信度]]规程：指两名或多名独立编码者在面对相同的数据文本段落或文献特征时，依据预先设定的编码方案独立赋予相同或相近范畴代码的重叠程度（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 573–574]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9, p. 215]]）。
 >
-> 编码者间一致性的核心价值不在于判定两个编码者是否阅读了同一份材料，而在于检验编码规则的清晰度与可操作性——即一套编码方案能否引导不同的研究者对相同的经验现象作出高度吻合的分类与意义赋予。在内容分析与元分析中，编码信度直接决定了全案综合结论的客观性与可复验性。
+> 编码者间一致性的核心价值在于检验编码规则的清晰度与可操作性——即一套编码方案能否引导不同的研究者对相同的经验现象作出高度吻合的分类与意义赋予。在内容分析与元分析中，编码信度直接决定了全案综合结论的客观性与可复验性。
 
 > [!concept-lens] 概念透镜
 > - **含义** 衡量编码方案在不同分析者之间可迁移、可共享与可重复执行的规范化程度。
@@ -90,7 +91,7 @@ updated: 2026-10-16
 > - **边界** 一致性高并不自动等同于效度高。多位编码者可能由于受到相同的先验训练偏见或刻板印象影响，高度一致地赋予错误的范畴；信度是效度的[[Necessary and Sufficient Conditions\|必要条件]]而非充分条件。
 
 > [!citation-card] Creswell 论编码者间一致性的本质
-> 编码者间一致性是基于两个或多个编码者对同一段文本中使用的编码是否达成一致进行评估。关键不在于他们是否编码同一段文本，而在于确定另一位编码者是否会使用相同或相似的编码来进行标注。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
+> 编码者间一致性评估两个或多个编码者对同一段文本赋码的一致程度，其重点是确定另一位编码者是否会使用相同或相似的代码进行标注。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
 >
 > *Intercoder agreement is based on whether two or more coders agree on codes used for the same passages in the text. It is not that they code the same passage of text but whether another coder would code it with the same or a similar code.*
 
@@ -109,7 +110,7 @@ updated: 2026-10-16
 > | 比较维度 | 编码者间一致性（Intercoder Agreement） | [[Inter-Rater Reliability\|评分者间信度]]（Inter-Rater Reliability） | [[Qualitative Reliability\|质性信度]]（Qualitative Reliability） |
 > |---|---|---|---|
 > | **数据尺度** | 类别/名义尺度（词汇、主题标签、范畴归入） | 等级或连续尺度（[[Homework\|作业]]打分、行为表现评定、量表分） | 意义阐释、[[Reflexivity\|反思性]]日志与语境叙事 |
-> | **典型场景** | [[Coding in Qualitative Research\|质性编码]]、[[Content Analysis\|内容分析]]、元分析特征提取 | [[Classroom Observation\|课堂观察]]打分、论文盲审评分、面试结构化评分 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、[[Grounded Theory\|扎根理论]]实质理论建构 |
+> | **典型场景** | [[Coding in Qualitative Research\|质性编码]]、[[Content Analysis\|内容分析]]、元分析特征提取 | [[Classroom Observation\|课堂观察]]打分、同行盲审评分、面试结构化评分 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、[[Grounded Theory\|扎根理论]]实质理论建构 |
 > | **核心指标** | 一致性百分比、Cohen's κ、Krippendorff's α | 组内相关系数（ICC）、加权 κ、[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 | [[Audit Trail\|审计追踪]]（Audit Trail）、同行辩难、[[Member Tests\|成员核验]] |
 > | **关注焦点** | 分类归属的一致性与编码规则的客观性 | 评分数值的等值性与评分者漂移控制 | 研究过程的可信度、反身性与真实性 |
 
@@ -167,8 +168,8 @@ updated: 2026-10-16
 > [!layer] [[Content Analysis\|内容分析]] 14 项系统性信度威胁体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 573–574]]）
 >
 > > [!col-l] 文本来源与语言多义性威胁
-> > - **1. 有意与无意证据混淆（Witting vs Unwitting）** 有意证据是作者明确意图传达的内容；无意证据则是研究者间接推导出的潜台词，后者极易掺杂编码者的主观臆测（Robson, 1993, p. 273）。
-> > - **2. 非科研目的的文本意图** 文献多为行政宣传、个人申辩或制度应对而写，作者真实意图容易扭曲编码判断。
+> > - **1. 有意与无意证据混淆（Witting vs Unwitting）** 有意证据是文本撰写者明确意图传达的内容；无意证据则是研究者间接推导出的潜台词，后者极易掺杂编码者的主观臆测（Robson, 1993, p. 273）。
+> > - **2. 非科研目的的文本意图** 文献多为行政宣传、个人申辩或制度应对而写，原撰写者的真实意图容易扭曲编码判断。
 > > - **3. 留存材料的选择性与偏颇性** 归档文献往往存在幸存者偏差与立场倾向，天然具有非中立性。
 > > - **4. 缺乏外部三角印证** 孤立文本难以找到平行证据进行交叉验证。
 > > - **5. 同形多义词多价性（Homographs）** 同一单词具有多重截然不同的语义（如英文 school 可指学校建筑、艺术流派、专业学院、训育行为或鱼群），脱离语境赋码极易致错。
@@ -182,7 +183,7 @@ updated: 2026-10-16
 > > - **11. 因果推论方向倒置** 单凭静态文本极难准确判定某事件究竟是情境的诱因还是结果。
 > > - **12. 研究者理论议程的强加** 编码体系反映的是研究者的先验预设，而非受访者的真实经验意图。
 > > - **13. 聚合尺度反比规律（Aggregation Law）** 韦伯（Robert Weber, 1990, p. 39）指出，[[Unit of Analysis\|分析单位]]的尺度直接决定信度：单词、短语、单句和完整文档具有最高编码信度；而未完成的段落或中等片断因推论空间过大，其信度最低。
-> > - **14. 刻意压制的文本沉默（Withholding Comment）** 作者出于禁忌或自我保护而刻意遗漏、回避的实质关键内容，无法被字面频次统计所捕捉（Weber, 1990, p. 73）。
+> > - **14. 刻意压制的文本沉默（Withholding Comment）** 文献起草人出于禁忌或自我保护而刻意遗漏、回避的实质关键内容，无法被字面频次统计所捕捉（Weber, 1990, p. 73）。
 
 ---
 
@@ -205,3 +206,4 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 结合第 30 章[[Content Analysis\|内容分析]] 14 项[[Reliability\|信度]]威胁体系（pp. 573–574）与第 17 章[[Meta-analysis\|元分析]]规程（pp. 359–363），系统阐明编码者信度的[[Operationalization\|操作化]]检验与门槛基准。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐释[[Coding in Qualitative Research|质性编码]]者间一致性的四步检验规程与 Miles & Huberman 80% 一致性门槛（p. 215）。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 比较大语言模型与人类专家在 156 项教育元分析数据提取中的编码者间一致性（百分比一致率达 77%–86%），并通过多方仲裁确立金标准基准。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 遵循 O'Connor and Joffe (2020) 规程在跨国跨案例质性分析中执行四人独立编码与一致性复核，保障对三校经验材料归纳的系统性、可沟通性与透明度。
