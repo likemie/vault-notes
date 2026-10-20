@@ -10,9 +10,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "中华人民共和国教育部"
 tags:
@@ -24,10 +24,12 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Reliability]]"
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Learner-Centred Education]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Inquiry-Based Learning]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -102,7 +104,7 @@ updated: 2026-10-20
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **选拔信度与合规度** 命题科学性、密卷评阅信度与考风考纪达标率。
+> - **选拔[[Reliability|信度]]与合规度** 命题科学性、密卷评阅信度与考风考纪达标率。
 > - **社会流动效能** 来自工农家庭与薄弱学区考生通过统考进入高水平大学的通道保障度。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **对基础教育教学的导向** 高考题型设置对高中教学内容、思维训练方式的逆向塑造作用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–599)]]
 
@@ -135,7 +137,7 @@ updated: 2026-10-20
 > > - **制度平稳运行立场** 认为分省定额有助于保障基础教育资源薄弱省份的最低录取基准，避免全国单纯按总分划线引发更严重的区域间资源失衡。
 
 > [!citation-card] 高考问责与教学改革的双重性
-> 高考问责文化虽设定了不可逾越的应试界限，但在命题改革转向高阶思维考核的背景下，它并未单向扼杀以学生为中心的教学法，反而促成了学校自下而上将探究式教学与提分目标相契合的本土策略。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–600)]]
+> 高考问责文化虽设定了不可逾越的应试界限，但在命题改革转向高阶思维考核的背景下，它并未单向扼杀以学生为中心的教学法，反而促成了学校自下而上将[[Inquiry-Based Learning|探究式教学]]与提分目标相契合的本土策略。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–600)]]
 >
 > *While the high-stakes culture of Gaokao sets firm boundaries, the shift toward evaluating higher-order thinking enables schools to align learner-centred pedagogy with test-preparation demands.*
 
