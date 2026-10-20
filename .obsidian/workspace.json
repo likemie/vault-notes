@@ -290,6 +290,7 @@
   },
   "active": "bd88d0cdfde06150",
   "lastOpenFiles": [
+    "scripts/_pre.py",
     "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md",
@@ -325,7 +326,6 @@
     "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
     "sources/Segerholm_Lindgren_Novak_2022_SJER.md",
     "sources/Segerholm_Lindgren_Novak_2022_SJER.pdf",
-    "wiki/facts/sweden/Swedish Schools Inspectorate.md",
     "sources/Zhu_Yang_2025_HE/figures/Zhu_Yang_2025_HE_Fig1_Higher_Education_Nexus_Neo_Tributary_Framework.jpg",
     "sources/Liu_2025_IndHE/figures/Liu_2025_IndHE_Fig1_Map_of_BRI.jpg",
     "tmp/render_check/rr-020.png",

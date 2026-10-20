@@ -20432,3 +20432,370 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .theme-dark .callout[data-callout="theory-hierarchy"] {
   --callout-color: 125, 166, 224;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   NEXUS-MODEL · 核心纽带理论模型组件
+   设计风格参考 VoltAgent/awesome-design-md (Linear / Raycast / Stripe)
+   特质：暗色玻璃拟态微质感、四象限色彩映射、Pill 徽章胶囊、微交互光晕
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="nexus-model"] {
+  --callout-color: 120, 119, 198;
+  --callout-icon: lucide-orbit;
+  position: relative;
+  border-radius: 16px;
+  padding: 1.15rem 1.35rem 1.25rem;
+  background:
+    radial-gradient(ellipse at 50% -20%, rgba(120, 119, 198, 0.14) 0%, transparent 65%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02) 0%, rgba(0, 0, 0, 0.04) 100%),
+    var(--background-primary);
+  border: 1px solid rgba(120, 119, 198, 0.22);
+  border-left: 5px solid rgb(120, 119, 198);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.10),
+    0 10px 30px -5px rgba(0, 0, 0, 0.25);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  overflow: hidden;
+}
+
+.callout[data-callout="nexus-model"]:hover {
+  border-color: rgba(120, 119, 198, 0.38);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.15),
+    0 0 0 1px rgba(120, 119, 198, 0.25),
+    0 16px 36px -6px rgba(120, 119, 198, 0.16);
+}
+
+/* 顶部标题与专属芯片 */
+.callout[data-callout="nexus-model"] > .callout-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgb(139, 137, 226);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  font-size: var(--fs-lead);
+  margin-bottom: 0.85rem;
+}
+
+.callout[data-callout="nexus-model"] > .callout-title .callout-title-inner {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.callout[data-callout="nexus-model"] > .callout-title .callout-title-inner::before {
+  content: "● NEXUS MATRIX";
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15em 0.55em;
+  border-radius: 6px;
+  background: rgba(120, 119, 198, 0.15);
+  color: rgb(165, 163, 245);
+  border: 1px solid rgba(120, 119, 198, 0.28);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  font-family: var(--font-monospace);
+}
+
+/* 前导说明导语卡 */
+.callout[data-callout="nexus-model"] > .callout-content > p:first-child {
+  font-size: var(--fs-body);
+  line-height: 1.65;
+  margin: 0 0 1rem 0;
+  padding: 0.65rem 0.95rem;
+  border-radius: 9px;
+  background: rgba(120, 119, 198, 0.05);
+  border: 1px solid rgba(120, 119, 198, 0.12);
+  color: var(--text-muted);
+}
+
+/* 强力清除列表默认圆点与标记，杜绝孤立圆点浮空 */
+.callout[data-callout="nexus-model"] .callout-content ul,
+.callout[data-callout="nexus-model"] .callout-content ol,
+.callout[data-callout="nexus-model"] .callout-content li {
+  list-style: none !important;
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.callout[data-callout="nexus-model"] .callout-content li::marker,
+.callout[data-callout="nexus-model"] .callout-content li > p::marker,
+.callout[data-callout="nexus-model"] .callout-content li > p::before {
+  display: none !important;
+  content: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* 2×2 四象限网格布局容器 */
+.callout[data-callout="nexus-model"] > .callout-content > ul {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 0.95rem !important;
+  margin: 0.5rem 0 0.2rem !important;
+}
+
+/* 象限单卡设计：Linear/Raycast 质感卡片 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li {
+  position: relative !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  padding: 1.15rem 1.25rem 1.15rem !important;
+  border-radius: 12px !important;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
+    color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    0 4px 16px rgba(0, 0, 0, 0.15) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  overflow: hidden !important;
+}
+
+/* 卡片顶部流光边 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.25), transparent);
+  pointer-events: none;
+}
+
+/* 卡片第一行：战略维度 ＋ Pill 胶囊徽章（Flex 左右两端对齐） */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+  margin: 0 0 0.75rem 0 !important;
+  padding-bottom: 0.65rem !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+}
+
+/* 战略维度主标题 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type strong {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4rem !important;
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+  color: var(--text-normal) !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* 英文副标题 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type em {
+  font-style: normal !important;
+  font-size: 0.76rem !important;
+  color: var(--text-muted) !important;
+  opacity: 0.75 !important;
+  font-family: var(--font-monospace) !important;
+  font-weight: 500 !important;
+}
+
+/* Pill 胶囊徽章：高教核心纽带角色 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type code {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.38rem !important;
+  padding: 0.22rem 0.65rem !important;
+  border-radius: 9999px !important;
+  font-size: 0.75rem !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.02em !important;
+  font-family: inherit !important;
+  transition: all 0.2s ease !important;
+}
+
+/* Pill 内置微脉冲光点 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type code::before {
+  content: "" !important;
+  display: inline-block !important;
+  width: 6px !important;
+  height: 6px !important;
+  border-radius: 50% !important;
+  background: currentColor !important;
+  box-shadow: 0 0 8px currentColor !important;
+}
+
+/* 正文阐释段落 */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:last-of-type {
+  font-size: 0.86rem !important;
+  line-height: 1.68 !important;
+  color: var(--text-normal) !important;
+  opacity: 0.88 !important;
+  margin: 0 !important;
+}
+
+/* ─── 四象限专属色彩系统（微渐变背景、Pill 配色与 Hover 光晕） ─── */
+
+/* Q1：中国例外论 ➔ 创新引擎（Electric Violet） */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(1) {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(99, 102, 241, 0.12), transparent 60%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
+    color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(1) code {
+  background: rgba(99, 102, 241, 0.16) !important;
+  color: #a5b4fc !important;
+  border: 1px solid rgba(99, 102, 241, 0.35) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(1):hover {
+  transform: translateY(-3px) !important;
+  border-color: rgba(99, 102, 241, 0.45) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.20),
+    0 12px 30px -4px rgba(99, 102, 241, 0.26) !important;
+}
+
+/* Q2：经贸与外交 ➔ 战略开拓者（Cyan / Sky） */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(2) {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(6, 182, 212, 0.12), transparent 60%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
+    color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(2) code {
+  background: rgba(6, 182, 212, 0.16) !important;
+  color: #67e8f9 !important;
+  border: 1px solid rgba(6, 182, 212, 0.35) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(2):hover {
+  transform: translateY(-3px) !important;
+  border-color: rgba(6, 182, 212, 0.45) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.20),
+    0 12px 30px -4px rgba(6, 182, 212, 0.26) !important;
+}
+
+/* Q3：文化同化 ➔ 文化外交官（Emerald / Mint） */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(3) {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(16, 185, 129, 0.12), transparent 60%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
+    color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(3) code {
+  background: rgba(16, 185, 129, 0.16) !important;
+  color: #6ee7b7 !important;
+  border: 1px solid rgba(16, 185, 129, 0.35) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(3):hover {
+  transform: translateY(-3px) !important;
+  border-color: rgba(16, 185, 129, 0.45) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.20),
+    0 12px 30px -4px rgba(16, 185, 129, 0.26) !important;
+}
+
+/* Q4：形象塑造 ➔ 友谊结盟者（Amber / Coral） */
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(4) {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(245, 158, 11, 0.12), transparent 60%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
+    color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(4) code {
+  background: rgba(245, 158, 11, 0.16) !important;
+  color: #fcd34d !important;
+  border: 1px solid rgba(245, 158, 11, 0.35) !important;
+}
+.callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(4):hover {
+  transform: translateY(-3px) !important;
+  border-color: rgba(245, 158, 11, 0.45) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.20),
+    0 12px 30px -4px rgba(245, 158, 11, 0.26) !important;
+}
+
+/* 窄屏或移动端自动折叠为优雅单栏 */
+@media (max-width: 680px) {
+  .callout[data-callout="nexus-model"] > .callout-content > ul {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ─── 明亮模式精细调适（高清晰度 Porcelain 瓷白微光质感） ─── */
+.theme-light .callout[data-callout="nexus-model"] {
+  --callout-color: 99, 102, 241;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(99, 102, 241, 0.07) 0%, transparent 65%),
+    linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border-color: rgba(99, 102, 241, 0.20);
+  border-left-color: rgb(99, 102, 241);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-title {
+  color: rgb(79, 70, 229);
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-title .callout-title-inner::before {
+  background: rgba(99, 102, 241, 0.10);
+  color: rgb(79, 70, 229);
+  border-color: rgba(99, 102, 241, 0.22);
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > p:first-child {
+  background: rgba(99, 102, 241, 0.04);
+  border-color: rgba(99, 102, 241, 0.12);
+  color: #64748b;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li {
+  background: #ffffff !important;
+  border-color: rgba(226, 232, 240, 0.9) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04) !important;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type {
+  border-bottom-color: rgba(226, 232, 240, 0.8) !important;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type strong {
+  color: #0f172a !important;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type em {
+  color: #64748b !important;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:last-of-type {
+  color: #334155 !important;
+  opacity: 0.95 !important;
+}
+
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(1) code {
+  background: rgba(99, 102, 241, 0.10) !important;
+  color: #4f46e5 !important;
+  border-color: rgba(99, 102, 241, 0.25) !important;
+}
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(2) code {
+  background: rgba(6, 182, 212, 0.10) !important;
+  color: #0891b2 !important;
+  border-color: rgba(6, 182, 212, 0.25) !important;
+}
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(3) code {
+  background: rgba(16, 185, 129, 0.10) !important;
+  color: #059669 !important;
+  border-color: rgba(16, 185, 129, 0.25) !important;
+}
+.theme-light .callout[data-callout="nexus-model"] > .callout-content > ul > li:nth-child(4) code {
+  background: rgba(245, 158, 11, 0.10) !important;
+  color: #d97706 !important;
+  border-color: rgba(245, 158, 11, 0.25) !important;
+}
