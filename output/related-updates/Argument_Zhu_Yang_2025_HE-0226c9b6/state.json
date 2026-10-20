@@ -327,7 +327,7 @@
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -378,7 +378,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T10:37:06.002235+00:00"
     },
     {
       "number": 8,
