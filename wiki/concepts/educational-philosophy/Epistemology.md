@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 83
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"

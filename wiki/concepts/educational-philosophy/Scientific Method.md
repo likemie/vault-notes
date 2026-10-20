@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 86
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -252,7 +252,7 @@ updated: 2026-10-21
 > [!concept-lens] 政策决策的科学化修辞与治理合法性
 > 剖析超国家治理机构如何将跨国比较测评界定为政策决策的“科学方法”，以此建立客观中立声誉并推行去政治化协调。
 
-> [!claim] Martens (2007) / Grek (2009)
+> [!claim] Martens (2007) / [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **比较转向作为政策决策的科学方法** 克里斯汀·马滕斯（Kerstin Martens, 2007）与索蒂里亚·格雷克（Sotiria Grek）指出，在当代跨国教育治理中，“科学方法”被经合组织（OECD）转化为强有力的政治合法化资源。经合组织通过将跨国指标比较建构为政策制定的权威科学方法，为其教育报告树立了无可置疑的客观主义品牌声誉。这一科学决策修辞赋予超国家机构超然于民族国家内部党派纷争之上的中立仲裁地位，使复杂的政治价值权衡被置换为对客观科学数据的技术性遵从。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
 
 ---
