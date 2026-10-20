@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 115
+fact_related_count: 116
 fact_related_level: 11
 fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -146,7 +146,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # PISA
@@ -340,8 +340,8 @@ updated: 2026-10-20
 > | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
 > | **方法学争议与学界批评** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 引用 PISA/TIMSS 纵向成长基准（0.20–0.40 SD/年）反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的德国批判文献。 |
 > | **方法学争议与学界批评** | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 批判 PISA 全视凝视与测量体制剥夺学生生存性开放与教育自由的丹麦批判文献。 |
-> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 [[Australian Council for Educational Research|ACER]] 与升格官僚管理架构确立全球治理合法性。 |
-> | **跨国治理与政策理论** | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 剖析 PISA 作为欧洲数字治理技术、欧盟 80% 资金共生支持及各国策略性外在化借用的政治社会学机制。 |
+> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 [[Australian Council for Educational Research|ACER]] 与升格官僚管理架构确立全球治理合法性。 |
+> | **跨国治理与政策理论** | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 作为欧洲数字治理技术、欧盟 80% 资金共生支持及各国策略性外在化借用的政治社会学机制。 |
 > | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
 > | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
 > | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |
