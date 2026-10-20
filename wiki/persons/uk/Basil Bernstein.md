@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
