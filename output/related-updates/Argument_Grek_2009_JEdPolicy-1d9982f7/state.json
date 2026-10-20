@@ -721,7 +721,7 @@
     },
     {
       "number": 11,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -768,7 +768,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T22:19:57.381145+00:00"
     },
     {
       "number": 12,

@@ -120,7 +120,7 @@ Total entries: **837**
 ## Australia
 
 > [!index-list]- Organization (12)
-> - [[Australian Council for Educational Research]] — 澳大利亚教育研究与评估组织，独立于政府，负责开发和管理初始教师教育学生读写与算术统考（LANTITE）。在初始教师教育改革问责链条中充当核心中介，通过运营统考每年获得数百万澳元的巨大商业利益。
+> - [[Australian Council for Educational Research]] — 澳大利亚独立的非营利教育研究与测评中介机构。长期牵头跨国联合体承担OECD的PISA及IEA的TIMSS等大规模国际测评试题研发与数据分析，同时受澳大利亚联邦政府委托独家运营管理初始教师教育学生读写与算术测试（LANTITE）。
 > - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，2021年依据《公司法》注册为担保有限公司。表面宣称为部委所有、独立客观的证据经纪人，推动什么是有效（what works）循证实践与初始教师教育标准化；实则为麦肯锡背景风险慈善机构 SVA 联合跨国投行资本十年游说的装配产物，并获立法特许向私营咨询分包。
 > - [[Australian Institute for Teaching and School Leadership]] — 澳大利亚联邦政府设立的全国性公立专业机构，负责制定全国教师与校长专业标准及初始教师教育（ITE）认证规程；在循证教育治理中推行由中间领导的学区改进路径，并作为国家级专业标准与课程监视治理的关键枢纽。
 > - [[Australian Philanthropic Services]] — 澳大利亚社会创投（SVA）于 2012 年设立的全资子公司，全澳规模最大的独立私人辅助基金（PAFs）与结构化慈善信托专业管理平台；由戴维·冈斯基（David Gonski）亲自担任董事长，在澳洲教育政策网络中构成了连接企业免税慈善资本、SVA 风险创投网络与国家教育审查委员会的关键制度纽带。

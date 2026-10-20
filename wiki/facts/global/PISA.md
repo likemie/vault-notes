@@ -136,6 +136,7 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
@@ -162,9 +163,9 @@ updated: 2026-10-20
 
 > [!program-context] 宏观制度背景与核心诉求
 > - **立项时间 / 周期** 1995 年由 [[OECD]] 提出构想，1997 年正式启动开发，2000 年首轮实施；每三年为一个评估周期，已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
-> - **发起方与治理中枢** [[OECD]] 教育与技能司（Directorate for Education and Skills）统筹监管，联合成员国教育部、考试测量机构与跨国学术研究财团协同执行。
-> - **覆盖范围与对象** 全球 90 多个参与国家与经济体的 15 岁在校学生代表性样本（覆盖公立与私立学校，通常每国抽样 4000 至 10000 名学生），聚焦义务教育即将结束阶段的关键学力。
-> - **核心问题导向** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量人力资本质量、评估公共教育投入产出效能的共同指标语言；PISA 摆脱了传统学科课程记忆测验的局限，专注于测量 15 岁学生在完成义务教育阶段时面向未来社会生活应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **发起方与治理中枢** [[OECD]] 教育与技能司（Directorate for Education and Skills）统筹监管，联合成员国教育部、考试测量机构与跨国学术研究财团协同执行；项目直接占用经合组织教育局内部年度总预算的约 30%，欧盟委员会通过联盟预算直接为成员国承担 80% 的 PISA 调查国家参与成本。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 25, 32)]]
+> - **覆盖范围与对象** 全球 90 多个参与国家与经济体的 15 岁在校学生代表性样本（覆盖公立与私立学校，通常每国抽样 4000 至 10000 名学生），聚焦义务教育即将结束阶段的关键学力；众多非成员国积极加入以将自身置于领先经济体的坐标系中丈量追赶差距。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 26)]]
+> - **核心问题导向** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量人力资本质量、评估公共教育投入产出效能的共同指标语言；PISA 摆脱了传统学科课程记忆测验的局限，专注于测量 15 岁学生在完成义务教育阶段时面向未来成人社会生活与劳动力市场应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
 > - **学术网络演进特征** PISA 以及早期的 [[IEA]] 等跨国大规模测试体系，在其制度演进上整体脱胎并扩展于欧洲传统大学比较教育学社网络（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）之外，主要由心理测量学家、计量学者与超国家技术官僚主导推进。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 
 ---
@@ -213,7 +214,7 @@ updated: 2026-10-20
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD]] 教育与技能司（Directorate for Education and Skills）统筹监管，负责宏观政策议题设定、指标开发导向把控及跨国政策报告编制。
-> - **研发与数据中心** 委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）、荷兰国家教育测量研究所（CITO）、[[Educational Testing Service|美国教育考试服务中心]]（ETS）等跨国机构与心理测量学家、计量经济学家组成的国际专家财团协同研发。这一跨国[[Epistemic Community|认知共同体]]为 OECD 的软法治理提供了专业化的科学客观威权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 444)]]
+> - **研发与数据中心** 委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）、荷兰国家教育测量研究所（CITO）、[[Educational Testing Service|美国教育考试服务中心]]（ETS）等跨国机构与心理测量学家、计量经济学家组成的国际专家财团协同研发。这一跨国[[Epistemic Community|认知共同体]]为 OECD 的软法治理提供了专业化的科学客观威权；但也因以 ACER 为代表的大洋洲与北美机构长期包揽核心分析与试题开发合同，引发欧洲国家（如法国）与欧盟官员对技术垄断与资金外流的强烈抗议。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 444)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 > - **一线执行机构** 各参测国教育部或指定国家项目经理机构（National Project Managers, NPMs），负责本国[[Sampling Frame|抽样框架]]搭建、试卷多语种翻译[[Back Translation|回译]]质控、主试人员培训与标准化实地施测。
 > - **受试与受益对象** 各国抽样选取的 15 岁在校学生代表性样本；同时由学校校长与任课教师完成学校背景[[Questionnaire|问卷]]，由学生完成家庭背景与学习策略问卷。
 
@@ -282,6 +283,9 @@ updated: 2026-10-20
 >
 > > [!axis] 学科认识论矮化与教学因果误读
 > > 比较教育学者指出量化排名脱离历史文化语境，瓦解了战后比较教育倡导的超然[[Navigation Metaphor in Comparative Education|航海隐喻]]（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 95–99]]）；同时，背景问卷的方法学缺陷引发了所谓“[[Inquiry-Based Learning|探究式教学]]与成绩负相关”的假象，误导了课堂教学[[Causality|因果推断]]（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
+>
+> > [!axis] 国内政策借用中的策略性外在化与治理异质性
+> > 成员国面对 PISA 评估结果展现出极大的体制反应异质性，但普遍将其作为国内政策合法化的“外在化”资源。在德国，PISA 冲击引爆危机舆论（687 个版面报道），被政府策略性借用以冲破联邦分权僵局、推行国家能力标准与统测；在芬兰，优异排位被用于确证既有综合学校模式；在英国，工党政府借其确证既有改革成效，而苏格兰则据此坚持不搞国家统考、捍卫学校自评。跨国数据因而沦为各国平息本土争议、推进既定议程的策略性工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 跨国联赛排位极易引发狭隘的应试化倾向与国内政客的危机虚构，导致教学实践中动手实验与深层探究被纸笔刷题架空；过度依赖单一量化排名也会削弱对本土多元教育生态与教育正义的深层观照。
@@ -336,7 +340,8 @@ updated: 2026-10-20
 > | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
 > | **方法学争议与学界批评** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 引用 PISA/TIMSS 纵向成长基准（0.20–0.40 SD/年）反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的德国批判文献。 |
 > | **方法学争议与学界批评** | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 批判 PISA 全视凝视与测量体制剥夺学生生存性开放与教育自由的丹麦批判文献。 |
-> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 [[Australian Council for Educational Research\|ACER]] 与升格官僚管理架构确立全球治理合法性。 |
+> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 [[Australian Council for Educational Research|ACER]] 与升格官僚管理架构确立全球治理合法性。 |
+> | **跨国治理与政策理论** | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 剖析 PISA 作为欧洲数字治理技术、欧盟 80% 资金共生支持及各国策略性外在化借用的政治社会学机制。 |
 > | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
 > | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
 > | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |
