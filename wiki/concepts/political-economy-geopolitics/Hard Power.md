@@ -74,6 +74,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-10-07
