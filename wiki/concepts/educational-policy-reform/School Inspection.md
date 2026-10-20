@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "Argument_Zhu_Yang_2025_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
+    },
+    {
       "basename": "Argument_Segerholm_Lindgren_Novak_2022_SJER",
       "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
     },
     {
       "basename": "Embodied, Inscribed and Enacted Knowledge",
       "path": "wiki/theories/educational-policy-reform/Embodied, Inscribed and Enacted Knowledge.md"
-    },
-    {
-      "basename": "Argument_Zhu_Yang_2025_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
     },
     {
       "basename": "Educational Evidence Clearinghouses",
@@ -55,10 +67,6 @@
     {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "John King Fairbank",
@@ -191,14 +199,6 @@
     {
       "basename": "Grand Theory",
       "path": "wiki/concepts/sociology-of-education/Grand Theory.md"
-    },
-    {
-      "basename": "Cultural Political Economy",
-      "path": "wiki/theories/political-economy-geopolitics/Cultural Political Economy.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     }
   ],
   "omittedPaths": [],

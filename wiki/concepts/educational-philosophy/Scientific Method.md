@@ -275,7 +275,7 @@ updated: 2026-10-20
 
 ---
 
-## 发展脉络
+## 概念演变
 
 > [!dev-timeline] 概念演变
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出经验归纳法，主张通过系统观察与实验事实积累发现自然规律，奠定了实验科学的方法论先导。
@@ -333,22 +333,3 @@ updated: 2026-10-20
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级[[Fixed-Effect Model|固定效应]]数学公理推导出宏观[[Research Synthesis|证据综合]]的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
 
----
-
-## 领域应用
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Positivism]] | 概念 | 为科学方法提供[[Objectivism\|客观主义]][[Ontology\|本体论]]与实证[[Epistemology\|认识论]]支撑，确立经验检验与普遍法则导向。 |
-> | [[Hypothesis]] | 概念 | 作为科学方法的核心推理构件，将理论推测转化为可检验、可[[Falsification\|证伪]]的[[Variable\|变量]]关系陈述。 |
-> | [[Falsification]] | 概念 | 波普尔确立的科学方法划界判准，要求理论必须包含潜在反驳的经验检验条件。 |
-> | [[Scientism]] | 概念 | 科学方法过度膨胀演变而成的技术意识形态，将一切非实证知识贬低为无意义。 |
-> | [[Practical Epistemology]] | 概念 | 揭示真实探究情境中研究者实际运用的认识论决策，打破形式化科学方法的僵化迷思。 |
-> | [[Theory of Knowledge]] | 概念 | 澄清科学方法的认识论边界，培养学习者评估证据效力与方法适用性的反思能力。 |
-> | [[Metascience]] | 概念 | 将科学方法的实证[[Causality\|因果推断]]反身应用于检验与优化科研资助、评审与发表机制本身。 |
-> | [[Quantitative Research]] | 方法 | 贯彻实证科学方法的标准化程序，通过变量测量、统计推断与[[Causal Modeling\|因果建模]]呈现规律。 |
-> | [[Mixed Methods Research]] | 方法 | 融合科学方法的量化检验与质性情境诠释，实现对复杂教育现象的多视角[[Triangulation\|三角互证]]。 |
-> | [[Randomised Controlled Trials]] | 方法 | 实验科学方法的黄金标准在教育领域的应用，通过[[Random Assignment\|随机分配]]控制无关变量以确认因果效应。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 科学方法审查 | 从数学公理推导宏观[[Research Synthesis\|证据综合]]规范，确立三层次科学方法批判框架并提出中央证据数据库方案。 |
