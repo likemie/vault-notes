@@ -84,6 +84,7 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-06-01
@@ -220,3 +221,4 @@ updated: 2026-10-20
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与循证政策制定机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国随机分配评估技术的动力机制（pp. 333–336）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合批判话语分析、政策框架化、政策三维视角及解释性批判的四维分析框架，系统解构中国“一带一路”跨国高教政策的深层因果机制（pp. 680–687）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合天下启发式秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用潘苏燕与卢天佑构建的高等教育新朝贡分析框架（涵盖中国例外论、经贸外交联动、文化认同探索及形象塑造四大支柱），通过对中柬高教合作案例开展实证检验，修正了原框架中的文化同化预设，并揭示了地缘经贸主导下的制度张力（pp. 1045–1046, 1050–1054）。
