@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

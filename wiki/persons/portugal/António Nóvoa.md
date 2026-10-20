@@ -6,7 +6,7 @@ aliases:
   - Antonio Novoa
   - Nóvoa, A.
   - António Manuel Seixas Sampaio da Nóvoa
-summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前校长。开创欧洲教育空间建构批判分析范式，揭示欧盟话语如何将学生流动神圣化为公民美德；系统剖析欧盟在《马斯特里赫特条约》辅助性原则制约下，如何依托最佳实践修辞、量化指标基准线与博洛尼亚进程三大软性治理技术深度重塑成员国教育政策。"
+summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前校长。开创欧洲教育空间建构批判分析范式，揭示欧盟话语将学生流动塑造为公民美德的机制；系统剖析欧盟在《马斯特里赫特条约》辅助性原则制约下，如何依托最佳实践修辞、量化指标基准线与博洛尼亚进程三大软性治理技术深度重塑成员国教育政策。"
 type: person
 nationality: portugal
 person_region: "portugal"
@@ -48,7 +48,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
-  - "[[António Nóvoa]]"
   - "[[Jason Beech]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
@@ -63,6 +62,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-10-10
@@ -106,7 +106,7 @@ updated: 2026-10-21
 > [!work-line] 主要著作
 > - **2000 — *Governing Knowledge: A [[Social Cartography]] of Knowledge in Comparative Education*** 探讨[[Knowledge Production|知识生产]]在比较教育中的地图化表征，反思学科权力的空间分布与制度化机制。
 > - **2002a — *Fabricating Europe: The Formation of an Educational Space*（与 Martin Lawn 合著）** 系统解构[[EU|欧盟]]超国家机构如何通过指标比较、[[Open Method of Coordination|开放协调法]]（OMC）与[[Discourse|话语]]构建，虚构与“制作”出一个超越主权国家的[[European Education Space|欧洲教育空间]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
-> - **2002b — *Ways of thinking about [[Education in Europe]]*（收录于与 Martin Lawn 合编的 *Fabricating Europe*）** 深入分析[[EU|欧盟]]在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]（Subsidiarity）限制下，如何通过最佳实践交流、量化基准指标与[[Bologna Process|博洛尼亚进程]]三大软性治理杠杆，穿透主权国家边界建构欧洲教育空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
+> - **2002b — *Ways of thinking about [[Education in Europe]]*（收录于与 Martin Lawn 合编的 *Fabricating Europe*）** 深入分析[[EU|欧盟]]在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]（Subsidiarity）限制下，如何通过最佳实践交流、量化基准指标与[[Bologna Process|博洛尼亚进程]]三大软性治理机制，穿透主权国家边界建构欧洲教育空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2002c — *Ways of Saying, Ways of Seeing: Public Images of Teachers (19th-20th Centuries)*** 从文化史与视觉表征角度解析教师职业身份与公众形象的百年演变。
 > - **2019 — *The Future of Education: A Collective and Public Responsibility*** 呼吁将教育确立为不可剥夺的人类共同利益，批判新自由主义市场化对公共教育的侵蚀。
 
@@ -115,7 +115,7 @@ updated: 2026-10-21
 ## 核心思想
 
 > [!claim|lead] 核心主张
-> [[António Nóvoa|安东尼奥·诺沃亚]]的核心理论主张在于：现代教育空间的形成绝非自然的地理演进，而是一种深涉权力[[Governmentality|治理术]]的[[Discourse|话语]]“制作（Fabrication）”。一方面，欧洲一体化进程通过调动[[Enlightenment|启蒙运动]]与文艺复兴以来的古典人文游学修辞，成功将大学生的跨国流动塑造为超民族认同的培育温床与崇高的公民美德；另一方面，在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]的法律约束下，[[EU|欧盟]]依托“最佳实践”话语宣教、量化指标基准线监控以及[[Bologna Process|博洛尼亚进程]]的跨国学位标准化，构建出一套极具穿透力的软性治理网络，在不侵犯成员国法律主权的前提下深刻重塑了各国教育政策；而在教师教育领域，他主张超越技术官僚式的量化问责，重建教师作为公共知识分子的历史自主性。
+> [[António Nóvoa|安东尼奥·诺沃亚]]的核心理论主张在于：现代教育空间的形成深涉权力[[Governmentality|治理术]]的[[Discourse|话语]]“制作（Fabrication）”，区别于自然的地理演进。一方面，欧洲一体化进程通过调动[[Enlightenment|启蒙运动]]与文艺复兴以来的古典人文游学修辞，将大学生的跨国流动塑造为超民族认同的培育温床与崇高的公民美德；另一方面，在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]的法律约束下，[[EU|欧盟]]依托“最佳实践”话语宣教、量化指标基准线监控以及[[Bologna Process|博洛尼亚进程]]的跨国学位标准化，构建出一套极具穿透力的软性治理网络，在不侵犯成员国法律主权的前提下深刻重塑了各国教育政策；而在教师教育领域，他主张超越技术官僚式的量化问责，重建教师作为公共知识分子的历史自主性。
 
 > [!citation-card] 古典人文游学修辞与欧洲认同建构
 > 欧洲政策话语策略性地借用古典人文旅行与大旅行（Grand Tour）传统，将跨国流动塑造为自由开拓与面向未来的时代象征；借由跨国流动塑造超民族的欧洲认同与网络归属感，强化高等教育乃至欧洲人本身的欧洲维度，替代传统的同质化民族国家构建模式。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Nóvoa, 2002, cited in Sobe & Fischer, 2009, pp. 362–363)]]
@@ -136,15 +136,21 @@ updated: 2026-10-21
 > - **比较教育学科路径** 作为 [[Comparative Education Society in Europe|CESE]] 前主席，倡导超越机械的国家间制度借用（Borrowing），主张将历史[[Rich and Thick Description|深描]]与批判社会学引入比较教育，推动了学科的空间转向与自我反思。
 > - **全球政策与公共实践路径** 在[[UNESCO|联合国教科文组织]]平台主导全球未来教育愿景的构建，持续倡导教育公共属性、社会正义与教师专业共同体赋权。
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 在[[Student Mobility|学生流动]]研究中引用其[[European Education Space|欧洲教育空间]]理论，指出[[EU|欧盟]]政策[[Discourse|话语]]借用古典人文游学修辞，将跨国流动神圣化为欧洲公民美德，掩盖了全球资本对灵活劳动力的诉求。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 在[[Pluri-Scalar Governance|多标度教育治理]]研究中引用其理论，剖析欧盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 34–35)]] — 援引诺沃亚关于“比较已转变为一种治理政策”的理论洞见，揭示经合组织与欧盟委员会如何依托跨国指标与数据网络，在维持法律辅助性原则的同时制作欧洲教育空间并推动各国内部政策趋同。
+
 ---
 
 ## 关系网络
 
 > [!person-network|notitle] 关系网络
-> - **学术合作者** Martin Lawn（合著合编 *Fabricating Europe*，确立欧洲空间批判[[Paradigm|范式]]）；[[Jean Piaget|让·皮亚杰]]（早期日内瓦学术渊源）。
-> - **理论对话与引用者**
+> - **学术合作学者** Martin Lawn（合著合编 *Fabricating Europe*，确立欧洲空间批判[[Paradigm|范式]]）；[[Jean Piaget|让·皮亚杰]]（早期日内瓦学术渊源）。
+> - **理论对话与引用学者**
 >   - Noah W. Sobe 与 Roland Fischer (2009) 引用其空间与[[Discourse Analysis|话语分析]]，批判性解构现代教育史中的学生跨国流动修辞；
->   - [[Jason Beech]] (2009b) 引用其论述，系统阐明超国家联盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下依托软治理重塑成员国政策的三轨机制。
+>   - [[Jason Beech]] (2009b) 引用其论述，系统阐明超国家联盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下依托软治理重塑成员国政策的三轨机制；
+>   - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 引用其欧洲教育空间理论与比较治理概念，阐释经合组织与欧盟委员会的数据基础设施建构。
 > - **学术机构** 里斯本大学、日内瓦大学、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[UNESCO|联合国教科文组织]]。
 
 ---
@@ -164,23 +170,11 @@ updated: 2026-10-21
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
-> | [[European Education Space]] | 概念 | 核心理论奠基，揭示欧洲教育空间非天然存在而是由权力技术与[[Discourse\|话语]]制作而成的产物。 |
+> | [[European Education Space]] | 概念 | 核心理论奠基，揭示欧洲教育空间由权力技术与[[Discourse\|话语]]共同制作而成，区别于天然实体。 |
 > | [[Student Mobility]] | 概念 | 话语解构，指出跨国流动被神圣化为现代欧洲公民身份与美德的象征。 |
 > | [[Bologna Process]] | 事实 | 实证分析，指出博洛尼亚进程为超国家[[Disciplina and Doctrina\|规训]]与跨国学位标准化提供了制度载体。 |
 > | [[EU]] | 组织 | 制度批判，揭示欧盟在[[Subsidiarity Principle\|辅助性原则]]下发展出的三轨软治理规训技术。 |
 > | [[Pluri-Scalar Governance]] | 概念 | 理论支持，为超国家机构绕开民族国家主权开展多标度治理提供微观证据。 |
-> | [[Performance Indicators]] | 概念 | 治理工具分析，阐明指标基准线如何作为软法手段实现成员国政策收敛。 |
+> | [[Performance Indicators]] | 概念 | 治理工具分析，阐明指标基准线如何作为软法手段推动成员国政策趋同。 |
 > | [[Governmentality]] | 理论 | 理论框架，运用福柯治理术视角分析超国家教育政策的自我规训逻辑。 |
 > | [[Social Cartography]] | 方法 | 知识制图，探索比较教育学科权力的空间分布与再现逻辑。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid-a]
->
-> | 研究 | 视角 / 核心发现 |
-> |:---|:---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 在[[Student Mobility\|学生流动]]研究中引用其[[European Education Space\|欧洲教育空间]]理论，指出[[EU\|欧盟]]政策[[Discourse\|话语]]借用古典人文游学修辞，将跨国流动神圣化为欧洲公民美德，掩盖了全球资本对灵活劳动力的诉求。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其理论，剖析欧盟在《马斯特里赫特条约》[[Subsidiarity Principle\|辅助性原则]]制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process\|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。 |
-

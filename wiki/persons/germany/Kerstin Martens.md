@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

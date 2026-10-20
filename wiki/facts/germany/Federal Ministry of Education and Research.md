@@ -61,10 +61,13 @@ related_facts:
   - "[[Max Planck Society]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Vergleichsarbeiten]]"
+  - "[[Chemie im Kontext]]"
+  - "[[SINUS]]"
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-18
@@ -93,7 +96,7 @@ updated: 2026-10-20
 > [!dev-timeline] 组织发展历程
 > - **1955–1969 — 战后科技重建与早期设立** 1955 年设立联邦原子事务部，标志着联邦层面介入尖端科技研发资助；1962 年扩展为联邦科学研究部，重点恢复与壮大国家科研基础设施。
 > - **1969–1994 — 教育职能确立与部委分立** 1969 年德国修订《基本法》（Grundgesetz）赋予联邦在高等教育扩招与职业教育立法上的有限权力，分立设立联邦教育与科学部（BMBW）和联邦研究与技术部（BMFT）。
-> - **1994–2009 — 两德统一部委合并与 [[PISA]] 震荡响应** 1994 年两部正式合并为现行体制的 BMBF；2000 年首轮 [[PISA]] 震荡后，BMBF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）建设，联合资助国家教育报告（Bildungsbericht）编制。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
+> - **1994–2009 — 两德统一部委合并与 [[PISA]] 震荡响应** 1994 年两部正式合并为现行体制的 BMBF；2000 年首轮 [[PISA]] 震荡后，BMBF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）建设，联合资助国家教育报告（Bildungsbericht）编制，并重点立项资助直接对接测评模型的教学创新项目（如 [[Chemie im Kontext\|CHIK]]、PIKO 与 [[SINUS]]）（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 29–30]]）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、教师教育攻坚与循证中介孵化** 2010 年联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 在慕尼黑工业大学（TUM）正式创设[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）；依据 2013 年联邦-州行政协议（Bund-Länder-Vereinbarung, BLV）联合各州推出“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，总预算 5 亿欧元）；2017 年发布新一期《实证教育研究框架规划》（Rahmenprogramm empirische Bildungsforschung），首次将“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）确立为国家专项资助重点；同年专项立项并出资孵化慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），确立德语区教育证据转化国家级基础设施。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12–13)]]
 
 ---
@@ -151,6 +154,7 @@ updated: 2026-10-20
 > - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家[[Comprehensive Education|综合教育]]报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
 > - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与莱布尼茨学会等国家骨干科研联合会的长期财政资助。
+> - **应对 PISA 冲击的理科教学创新攻坚工程** 在首轮测评震荡后，立项资助直接对接国际评估框架的学科改进工程，包括情境中的化学（[[Chemie im Kontext|CHIK]]）、情境中的物理（PIKO）以及理科教学增效项目（[[SINUS]]），推动一线课堂从传统概念灌输转向情境化探究与产出监控。（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）
 
 ---
 

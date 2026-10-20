@@ -163,6 +163,7 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Grey_2018_CE]]"
@@ -309,7 +310,7 @@ updated: 2026-10-20
 > [!finding-cards] 关键成效与辐射影响
 > - **学术[[Paradigm\|范式]]迁移** 强力助推了“[[Evidence-Based Education\|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism\|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society\|参考社会]]”，引发广泛的[[Policy Borrowing\|政策借用]]。
-> - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
+> - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）；并通过与欧盟委员会建立深层跨机构共生（欧盟资助 80% 调查成本，50%–60% 里斯本战略数据直接依赖经合组织），将比较指标建构为赋权主权国家推行国内争议性改革的准外部合法化权威（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 24–26, 32–35]]）。
 > - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据

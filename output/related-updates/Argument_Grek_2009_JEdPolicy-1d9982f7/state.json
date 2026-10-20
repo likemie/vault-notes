@@ -536,7 +536,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -611,11 +611,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T22:00:18.164666+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -632,7 +633,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T22:01:40.293817+00:00"
     },
     {
       "number": 10,

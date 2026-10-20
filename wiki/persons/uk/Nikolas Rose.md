@@ -8,7 +8,7 @@ summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -54,6 +54,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-14
@@ -99,7 +100,7 @@ updated: 2026-10-21
 > - **1990 年代中后期 — 高级自由主义与量化治理奠基期** 聚焦后福利国家转型，系统建构高级自由主义治理框架；阐释审计文化、性能指标与契约化网络如何取代旧科层行政，实现无须直接发号施令的远处掌舵。
 >   - **代表著作** 《自由的权力：重构政治思想》（*Powers of Freedom: Reframing Political Thought*, 1999）。
 >   - **关键概念／方法** [[Governing at a Distance|远处治理]]、数字即政策、远处掌舵、审计文化。
->   - **阶段转向** 从微观心理控制跃升至宏观国家形态与跨国技术治理的政治哲学重构。
+>   - **阶段转向** 从微观心理控制拓展至宏观国家形态与跨国技术治理的政治哲学重构。
 > - **2000 年代至今 — 生命政治学与神经科学社会学生成期** 探索生物医学、基因组学与脑科学如何重塑人类对自身心智与命运的认知，揭示“分子化自我”在当代资本主义健康与教育治理中的崛起。
 >   - **代表著作** 《生命本身的政治》（*The Politics of Life Itself*, 2007）；《我们的大脑，我们的自我？》（*Neuro: The New Brain Sciences and the Management of the Mind*, 2013）。
 >   - **关键概念／方法** 躯体个体（Somatic Individual）、生物公民身份、神经分子认知。
@@ -110,7 +111,7 @@ updated: 2026-10-21
 ## 核心思想
 
 > [!claim|lead] 核心主张
-> 在高级自由主义时代，权力的运作不再主要依赖中央集权国家的强制命令与直接禁令，而是通过将受治主体形塑为“自由、理性且追求自我负责的企业家”来行使；治理的精髓在于“远处统治”（[[Governing at a Distance]]）。在此过程中，量化数据与性能指标构成了不可或缺的政治技术（Political Technology）：“数字即政策”（Policy as Numbers）将原本充满伦理冲突、意识形态分歧与阶级利益博弈的政治决断，彻底降解为看似中立、客观且无可辩驳的技术测量；通过设置排名、审计公约与[[Performance Indicators|绩效指标]]，治理者成功诱使地方自治机构与个体主动将自身行为对齐中央或跨国标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> 在高级自由主义时代，权力的运作核心在于将受治主体形塑为“自由、理性且追求自我负责的企业家”，实现“远处统治”（[[Governing at a Distance]]），区别于中央集权国家的直接强制命令。在此过程中，量化数据与性能指标构成了关键政治技术（Political Technology）：“数字即政策”（Policy as Numbers）将原本包含伦理冲突、意识形态分歧与阶级利益博弈的政治决断，转化为中立、客观的技术测量；通过设置排名、审计公约与[[Performance Indicators|绩效指标]]，治理者诱使地方自治机构与个体主动将自身行为对齐中央或跨国标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 罗斯论数字作为使政治决断隐形化的统治技术
 > 数字不仅是描述世界的工具，更是规训行动者的核心政治技术。数字之所以具有无与伦比的权威，恰恰是因为它们把构成一项测量、一个刻度、一个评级背后所必须进行的大量充满价值争议的主观决断，彻底变得不可见；而这种不可见性，赋予了量化结论以绝对的无可争辩性。跨国组织正是借助这一机制，将政治主张伪装为技术科学，剥夺了公众开展民主辩论的合法空间。
@@ -130,13 +131,14 @@ updated: 2026-10-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用罗斯的“数字即政策”理论，论证 [[PISA]] 如何通过隐匿政治决断确立免于质疑的治理权威。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与规训容器对人口流动实施精细监控。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–28)]] — 结合罗斯的“远处治理”与自我技术理论，阐明经合组织如何运用数字治理将终身学习前置至基础教育，将适应经济竞争的风险转嫁给受教育个体并驱动其自我调节。
 
 ---
 
 ## 关系网络
 
 > [!person-network|notitle] 关系网络
-> - **合作者／思想盟友** 彼得·米勒（Peter Miller） — 伦敦政治经济学院长期合作学者，共同发表多篇奠基性论文，开创经济生活治理与会计量化社会学研究。
+> - **合作同行与思想盟友** 彼得·米勒（Peter Miller） — 伦敦政治经济学院长期合作学者，共同开创经济生活治理与会计量化社会学研究。
 > - **思想对话者** 米歇尔·福柯（Michel Foucault） — 其[[Governmentality|治理术]]与生命政治思想构成了罗斯终生学术探讨的理论底色。
 > - **理论应用者** [[Bob Lingard]]、[[Fazal Rizvi]] — 将其[[Governing at a Distance|远处治理]]与数字即政策学说深度引入比较教育学与跨国政策社会学。
 > - **机构平台** 伦敦政治经济学院（LSE）、伦敦国王学院（KCL） — 长期执教与领导跨学科社会科学与生物医学社会研究中心的核心重镇。
