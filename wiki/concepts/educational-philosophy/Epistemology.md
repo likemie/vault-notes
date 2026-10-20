@@ -96,6 +96,8 @@ related_persons:
   - "[[Deanna Kuhn]]"
 related_facts:
   - "[[Swedish Schools Inspectorate]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kuhn_2000_CD]]"
@@ -106,6 +108,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_instruments: []
 confidence: high
 status: active
@@ -153,7 +156,7 @@ updated: 2026-10-21
 
 ## 核心要素
 
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **在研究层级中的承转位置** 认识论是研究设计五层推导框架（Hitchcock & Hughes, 1995）的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。研究者关于实在本质的本体论假设，必然先导决定其关于知识获取的认识论进路。
 > - **[[Objectivism|客观主义]]认识论极（Objectivism / [[Positivism]]）** 坚信知识是硬性的、客观的、可累积且外在于知觉者的，要求研究者扮演中立抽离的观察者角色，严密遵循自然科学的实验控制与测量规程（Burrell & Morgan, 1979）。
 > - **[[Subjectivism|主观主义]]认识论极（Subjectivism / [[Interpretive Paradigm|anti-positivism]]）** 坚信知识是个人化的、主观体验的与情境独特的，要求研究者深度介入生活世界，通过主客观共情分享行动者的内在参照框架（Beck, 1979）。
@@ -164,6 +167,7 @@ updated: 2026-10-21
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
 > - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
+> - **评价认识论的效用转向（Assessment Epistemology & Utilitarian Shift）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 26–27, 35)]] 揭示，国际大规模测评（如 [[OECD]] 的 [[PISA]]）在教育评价领域确立了新型评价认识论：摆脱具体国家课程知识再现的判准，转向以应对未来生活挑战的通用胜任力、[[Lifelong Learning|终身学习]]倾向及[[Self-Efficacy|自我效能感]]等非认知自我规制特质为有效知识核心，将教育产出重构为支撑[[Knowledge-Based Economy|知识经济]]的直接输入。
 > - **非西方关系性认识论与天下框架（Relational Epistemology & [[Tianxia Heuristic]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与[[Knowledge Diplomacy|知识外交]]中的不对称权力互动提供了超越二元对立的认识论透镜。
 > - **发生认识论与教育知识的动态可错性（Genetic Epistemology & Dynamic Fallibility）** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 结合让·[[Jean Piaget|皮亚杰]]（Jean Piaget）的发生认识论与[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）关于教育学弱语法知识结构的论述，揭示教育知识是一个随着主体情境互动而持续生成的动态演进形态；任何将特定学术流派固化为技术官僚督导标准与审计常模的企图，在认识论上都属于将流变知识虚构为静态客观真理的范畴错置。
 
@@ -261,6 +265,16 @@ updated: 2026-10-21
 
 ---
 
+### 命题六　大规模跨国测评推动教育评价认识论从课程知识再现转向生活情境胜任力与自主规制
+
+> [!concept-lens] 评价认识论的跨学科与效用转向
+> 探讨国际大规模评估如何重构有效教育知识的判准，将测量基准从掌握国家规定教材内容转向应对未来生活挑战的通用素养。
+
+> [!claim] Grek
+> **脱离国家课程的跨国评价认识论范式更替** 跨国量化评估确立了新型评价认识论。国际教育成就评价协会（IEA）依据各国课程大纲测评学科掌握程度；经济合作与发展组织（[[OECD]]）推行的[[PISA]]测评则打破了依附特定国家课程的评价传统，将有效知识基准界定为学生在未来真实情境中迁移与应用知识的通用能力（fitness for life）。这种评价认识论将教育直接界定为[[Knowledge-Based Economy|知识经济]]的投入要素，将测评范畴拓展至学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略等非认知倾向，把 15 岁学生预设为必须终身持续自我监测与学习的自主规制主体[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -271,12 +285,13 @@ updated: 2026-10-21
 > | **主客认知协调** | 个体心智中认识论演进的机制、反转序列与宽容陷阱。 | 学习科学、[[Epistemological Beliefs\|认识论信念]]发展与[[Critical Thinking\|批判性思维]]教学。 | Kuhn et al. |
 > | **批判抗争认识论** | 知识生产是对欺骗性认识论的前提反思，确立求真与追求正义社会的认识论同构。 | 宏观政治经济学、批判社会学、学术范式解构与[[Research Ethics\|研究伦理]]反思。 | Wallerstein; Arnove |
 > | **流变认识论与方法主义批判** | 跨学科探究为随时代流变的普罗透斯式体系，需抵御唯方法论主义并将技术锚定于历史情境。 | 跨学科[[Theory of Knowledge\|知识论]]、比较学科史、实证化批判与历史健忘症反思。 | Barber; [[Andreas Kazamias\|Kazamias]] |
+> | **评价认识论转向** | [[PISA\|PISA]]推动评价认识论从国家课程知识掌握转向生活情境通用胜任力与自主规制倾向。 | 跨国教育治理、政策指标建构与[[Lifelong Learning\|终身学习]]测评。 | Grek |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古希腊奠基时期 — 确证真信念与理性求索** [[Plato|柏拉图]]在《泰阿泰德篇》（Theaetetus）中提出知识的经典[[Construct|构念]]——“确证的真信念”（Justified True Belief, JTB），开启西方认识论探究[[Source of Knowledge|知识来源]]与真理标准的哲学传统。
 > - **近代哲学革命 — 理性主义与[[Empiricism|经验主义]]论战** 勒内·[[René Descartes|笛卡尔]]（René Descartes）以理性演绎为基石，[[John Locke|约翰·洛克]]（John Locke）与[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）以经验归纳与白板说立论，系统确立认识论在哲学探究中的枢纽地位。
 > - **19世纪末至20世纪中叶 — [[Positivism|实证主义]]确立与批判** 实证主义将自然科学的实证经验确立为唯一真理形态；法兰克福学派与[[Karl Popper|卡尔·波普尔]]（Karl Popper）相继批判[[Scientism|科学主义]]的独断论，奠定理论负载与可错论思想。
@@ -284,6 +299,7 @@ updated: 2026-10-21
 > - **2000年代 — 认知发展与教育心理学[[Operationalization|操作化]]** [[Deanna Kuhn|迪安娜·库恩]]（Deanna Kuhn）等学者将认识论操作化为个体可发展的“[[Epistemological Understanding|认识论理解]]”模型，开创个人认识论与[[Domain Specificity|领域特殊性]]测量传统。
 > - **2000年代 — 批判认识论反抗与解构19世纪社会科学前提** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）提出[[World-Systems Theory|世界体系分析]]是对欺骗性认识论的智识反抗，主张超越 19 世纪[[Disciplinary Institutionalization|学科建制]]的分裂与[[Value Neutrality|价值中立]]假象，将追求真理与追求正义社会统一于批判认识论方案。
 > - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合巴伯（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
+> - **2009年 — 跨国比较治理与评价认识论的效用转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）阐明，经济合作与发展组织（OECD）的[[PISA]]测评确立了脱离国家具体课程、以应对未来生活挑战为核心的新型评价认识论，将有效知识判准界定为跨学科通用胜任力与[[Self-Efficacy|自我效能感]]等非认知自我规制倾向，为欧洲教育空间的量化治理提供了认识论基础（pp. 26–27, 35）。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 > - **2024年 — 非西方关系认识论拓展与全球治理知识反思** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 依托“天下”本体与认识论框架（[[Tianxia Heuristic|Tianxia heuristic]]），提出突破主客二元对立与西方中心主义的非西方关系性认识论，论证全球知识体系中的等级制秩序与多中心网络化赋权能够在关系共生中并存，拓展了比较教育与全球[[Epistemic Governance|知识治理]]的认识论视域。
 > - **2020s — 循证治理中“当前知识状态”的认识论批判** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 结合发生认识论与知识社会学，解构了国家督导机构将学术研究冻结为静态审计标准的认识论假设，确立了教育知识流变性与一线践行智慧的情境价值（pp. 654–655）。
@@ -323,16 +339,17 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年（含五年级、八年级、十二年级学生、本科生、MBA高管组及哲学专业专家组） | 跨领域的认识论评估工具（15题标准化情境测试，覆盖审美、价值、社会事实、物理事实四大领域） | 评价论在不同群体的达成比例及[[Pure Evaluation\|纯粹评价]]论模式（EEEE）比例 | 专家组（教育哲学专业）在各项评价论指标上达到 80%–100% 的绝对高位；而非专家组成人（含高学历EMBA高管等）能全面进入纯粹评价论模式（EEEE）的仅占 13%。在价值观领域，高管达到评价论的比例低至 22%。 | 专家组与其他群体差异极其显著（$p < .001$） | 证实高阶认识论素养（评价论）高度依赖系统性哲学思辨与智识反思训练，而非随生理年龄或职业资历自然发育。 |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 654–655)]] | 瑞典国家学校督导规程与质量审计知识审议现场 | 政策制度个案研究与半结构化访谈（N=16）及文献分析 | 官方“当前知识状态”假设与实际动态演变认识论分歧 | 督察局宣称依据无可争议的客观知识状态，但实际运作高度依赖微观情境协商，显露静态真理假设与教育学弱语法演进之间的认识论脱节 | — | 揭示国家治理中静态认识论假设的技术官僚虚构本质 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育空间治理与 OECD PISA 测评机制（英国、德国、芬兰案例） | 政策社会学与比较案例研究（专家深度访谈与政策文献分析） | 评价认识论取向（课程知识再现 vs 生活情境通用能力）、学生非认知自我规制指标 | 揭示 OECD 确立脱离国家具体课程大纲的通用胜任力评价标准，将 15 岁学生的学习动机、自我效能感与学习策略等非认知维度制度化为衡量教育有效性的关键认识论指标 | — | 质性政策社会学分析，揭示国际组织指标建构背后的认识论范式更替机制 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 从认知发展与教育心理学视角，将认识论[[Operationalization|操作化]]为个体心智中的“[[Epistemological Understanding|认识论理解]]”，实证揭示了主客观协调的演进机制与[[Domain Specificity|领域特殊性]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于[[World-Systems Theory|世界体系分析]]作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。
@@ -341,4 +358,5 @@ updated: 2026-10-21
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 将认识论视角拓展至公共政策与比较治理领域，实证揭示国家决策层对“证据本位”的认识论追求如何构成偏向实证强国的政策学习机会结构，阐明认识论取向对跨国政策转移与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制（pp. 344–345）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（[[Tianxia Heuristic|Tianxia heuristic]]），以关系性思维解构全球[[Knowledge Power|知识权力]]结构，揭示等级制集中与多边平权网络并存的跨国高等教育治理图景（pp. 1703–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 结合让·皮亚杰发生认识论与伯恩斯坦知识社会学，解构国家学校督察局将学术研究固化为“当前知识状态”与静态审计标准的官僚认识论幻觉（pp. 654–655）。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 

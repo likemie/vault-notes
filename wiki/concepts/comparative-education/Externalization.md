@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_persons:
   - "[[Jeremy Rappleye]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Niklas Luhmann]]"
-  - "[[Sotiria Grek]]"
 related_facts:
   - "[[OECD]]"
   - "[[German Dual Education System]]"
@@ -152,8 +151,8 @@ updated: 2026-10-21
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
 > **按需定制的芬兰神话投射** 国际经验在政策借鉴中充当了只有在人们假定其“仿佛有效”时才成立的规制性投射，取代了直接的客观规律功能。在各国对“芬兰 [[PISA]] 奇迹”的长年追捧中，芬兰经验被不同政治阵营按需随意拆解：渴望强化教师地位者将其归功于大学化师资培养，追求教育公平者将其定性为不分流全纳体制，呼吁减负者则将其归因于无应试排名的宽松环境。这表明外部参照系是由本土政治利益在内部反向发明出来的合法性工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
-> [!claim] [[Sotiria Grek|Grek, S.]]
-> **跨国测验指标的策略性外在化借用机制** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 34–35]]）指出，跨国大规模学生评估（如 [[PISA]]）在民族国家层面的政策功能遵循外在化逻辑。当国内教育改革遭遇党派分歧、工会阻力或制度瓶颈时，政策制定者通过援引客观可比的国际评估数据，将国内价值争议转化为对外部科学证据的服从；即便各国数据结果各异（德国排名落后引爆危机恐慌，英格兰与芬兰名列前茅），各国均将数据作为策略性外在化资源，用于压制反对声音、制造危机以打破修法僵局，或向国际社会传递合作与竞争信号。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
+> [!claim] Grek, S.
+> **跨国测验指标的策略性外在化借用机制** 索蒂里亚·格雷克（Sotiria Grek）指出，跨国大规模学生评估（如 [[PISA]]）在民族国家层面的政策功能遵循外在化逻辑。当国内教育改革遭遇党派分歧、工会阻力或制度瓶颈时，政策制定者通过援引客观可比的国际评估数据，将国内价值争议转化为对外部科学证据的服从；即便各国数据结果各异（德国排名落后引爆危机恐慌，英格兰与芬兰名列前茅），各国均将数据作为策略性外在化资源，用于压制反对声音、制造危机以打破修法僵局，或向国际社会传递合作与竞争信号。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 ---
 
