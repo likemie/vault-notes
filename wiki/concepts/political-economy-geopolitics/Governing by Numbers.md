@@ -81,7 +81,7 @@ updated: 2026-10-21
 ## 定义
 
 > [!def] 核心定义
-> 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 Grek (2009) 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；Steiner-Khamsi 等（2024）进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
+> 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；Steiner-Khamsi 等（2024）进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜
 > - **含义** 教育治理的权力运作不再主要依赖强制或立法，而是通过数据生产、排名比较、指标标准化以及政策中介的证据包装来引导各国教育政策向特定方向靠拢。
@@ -158,8 +158,8 @@ updated: 2026-10-21
 > [!concept-lens] 软治理与排名问责
 > 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power\|软性权力]]。
 
-> [!claim] Grek (2009)
-> **信息生产与软性权力机制** [[PISA]] 代表的数字治理机制通过将教育系统表现量化为跨国可比的排名和数据，使 [[OECD]] 能够在不对各国施加法律强制的情况下引导全球教育改革方向。
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **信息生产与软性权力机制** [[PISA]] 代表的数字治理机制通过将教育系统表现量化为跨国可比的排名和数据，使 [[OECD]] 能够在不对各国施加法律强制的情况下引导全球教育改革方向。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–26, 34–35)]]
 
 > [!claim] Li et al.
 > **数字治理的双向互动机制** PISA 与国家教育改革之间存在双向互动：各国政策制定者利用 PISA 数据来验证和推动国内已有的改革议程，同时又因国际排名压力而调整政策方向以回应外部审视。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
@@ -194,7 +194,7 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨国软治理与数字即政策 (1.0)** | 揭示大型测评自产等价空间与“数字即政策”如何遮蔽深层价值判断与哲学辩论，引导主权国家改革并维系知识经济社会想象 | 国际大型评估与去情境化排名 | Rose (1999); Grek (2009); [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
+> | **跨国软治理与数字即政策 (1.0)** | 揭示大型测评自产等价空间与“数字即政策”如何遮蔽深层价值判断与哲学辩论，引导主权国家改革并维系知识经济社会想象 | 国际大型评估与去情境化排名 | Rose (1999); [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 > | **政策中介与周期博弈 (2.0)** | 阐明信息过载下国际组织的中介工具打包与国家政策周期的选择性过滤 | 数字化时代证据过剩与跨国政策转移 | [[Gita Steiner-Khamsi\|Steiner-Khamsi]] et al. |
 > | **知识武器化与利基割据** | 揭示量化工具在跨国治理复合体内部演变为机构防卫与地盘竞争的制度武器 | 国际组织间竞合与多边治理网络 | Steiner-Khamsi et al. |
 
@@ -204,7 +204,7 @@ updated: 2026-10-21
 
 > [!dev-timeline|notitle] 概念演变
 > - **1999 — “数字即政策”（Policy as Numbers）政治社会学奠基** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）阐明数字在现代治理中使复杂判断隐形化与不可置疑化的权力机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
-> - **2009 — 数字治理 1.0 与全球[[Space of Equivalence|等值空间]]确立** Grek (2009) 提出以数字治理概念；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **2009 — 数字治理 1.0 与全球[[Space of Equivalence|等值空间]]确立** [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 提出以数字治理概念；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]机制提炼** Niemann & Martens 提出 Soft governance by hard facts 命题，揭示量化事实作为非强制治理工具的有效性。
 > - **2024 — 数字治理 2.0 理论演进** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出数字治理 2.0 议程，将研究视域拓展至多学科、跨国[[Relational Space|关系性空间]]，聚焦[[Policy Brokerage|政策中介]]在信息过载时代的多阶段证据包装与组织竞合。
 
@@ -246,12 +246,14 @@ updated: 2026-10-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会文献 vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；[[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
+| [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；欧盟委员会与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与关键知情人访谈 | 媒体报道篇幅；PISA 预算在经合组织教育局占比；欧盟里斯本战略指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价空间生产与超国家机构间的数据资助共生发挥规制功能 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比芬兰、德国与英国对 PISA 的政策反响及欧盟委员会官员访谈，揭示经合组织如何以数字作为政治技术协调欧洲教育空间。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。

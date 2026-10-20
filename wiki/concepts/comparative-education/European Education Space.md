@@ -85,7 +85,7 @@ updated: 2026-10-21
 > **欧洲教育空间（European Education Space，EES）** 是指在超国家治理与欧洲一体化进程中，由[[EU|欧洲联盟]]（European Union，EU）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过跨国[[Data Infrastructure|数据基础设施]]、政策开放协调机制（[[Open Method of Coordination]]，OMC）、学分资格互认框架以及大规模跨国流动网络所共同构想、生产与维系的功能性治理空间与象征性社会空间。该空间不仅使欧洲各异质教育体系的跨国量化比较与政策趋同成为可能，更是塑造欧洲性（Europeanness）超国家公民认同与灵活[[Employability|就业能力]]的核心治理舞台；但在实践中，它也常被成员国作为化解内部改革合法性危机的修辞盾牌。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–322)]]
 
 > [!concept-lens] 概念透镜与理论内涵
-> - **实证量化治理空间（Empirical-Statistical Space）** 由 OECD 的[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）数据库与欧盟统计指标交叉编织而成，为欧洲基础教育政策的协调、基准比对与同行施压提供了可操作的共同技术语言（Grek, 2009; [[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> - **实证量化治理空间（Empirical-Statistical Space）** 由 OECD 的[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）数据库与欧盟统计指标交叉编织而成，为欧洲基础教育政策的协调、基准比对与同行施压提供了可操作的共同技术语言（[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 32–35)]]; [[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 > - **社会建构与文化认同空间（Social-Discursive Space）** 由[[António Nóvoa|安东尼奥·诺沃亚]]与马丁·劳恩（Nóvoa & Lawn, 2002; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）深入解构——欧洲教育空间并非天然存在的地理版图，而是通过调动古典旅行游学隐喻、推行跨国学术流动（如 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]）所生产的欧洲[[Social Imaginary|社会想象]]（European Social Imaginary）。
 > - **制度边界与主权防御现实** 欧洲教育空间不等于欧洲政治或法律上的中央集权一体化。欧盟条约明确规定教育权保留于成员国主权内部，布鲁塞尔主要依托软法治理（Soft Law Governance）和数据对齐实施[[Governing at a Distance|远距治理]]；但在后发国家实践中，它极易异化为国内立法借用的亲欧修辞，掩盖实质性制度落后（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 324–325]]）。
 
@@ -131,7 +131,7 @@ graph TD
 ```
 
 > [!feature] 核心支柱要素
-> - **[[Data Infrastructure|数据基础设施]]与基准化考核** [[OECD]] 与[[EU|欧盟]]委员会长期共享趋同的政策议程，两套数据体系的交叠为成员国教育绩效提供了连续可比的基准图表（Grek, 2009）。[[PISA]] 成为定义欧洲国家教育健康度的核心量度，使得 62.4% 的 PISA 政策影响实证研究高度集聚在欧洲地区（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> - **[[Data Infrastructure|数据基础设施]]与基准化考核** [[OECD]] 与[[EU|欧盟]]委员会长期共享趋同的政策议程，两套数据体系的交叠为成员国教育绩效提供了连续可比的基准图表（[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32–34)]]）。[[PISA]] 成为定义欧洲国家教育健康度的核心量度，使得 62.4% 的 PISA 政策影响实证研究高度集聚在欧洲地区（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 > - **跨国流动与象征性公民权** 自 1987 年设立的[[Erasmus Programme|伊拉斯谟计划]]（Erasmus Programme）及其后续框架，不仅资助了数以百万计的大学师生跨国交换，更重构了欧洲公民的心理边界，将跨界求学与多元文化适应力塑造成现代社会最宝贵的个人资产（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 362]]）。
 > - **地缘辐射与规范输出网络** 通过[[TEMPUS|天普计划]]，欧洲教育空间向东欧、西巴尔干、北非与中东等伙伴国延伸，输出[[Bologna Process|博洛尼亚进程]]模式与欧洲学分互认系统，在推进外围国家现代化的同时重塑欧洲文明的外部边界（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 363]]）。
 > - **主权保留与政策修辞解耦** 《马斯特里赫特条约》明确排除超国家机构对教学内容与学制的强制协调。这使成员国在实践中形成了双层策略：对外签署共同倡议以获取一体化合法性，对内则筑牢[[State Educational Sovereignty|国家教育主权]]防线，甚至利用对标欧洲的修辞掩盖国内结构性改革的滞后（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 321–325]]）。
@@ -177,7 +177,7 @@ graph TD
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **数据基础设施[[Disciplina and Doctrina\|规训]]命题** | 欧洲教育空间通过量化数据网格与比较指标建立跨国软性政策协调与研究吸附机制 | 国际大规模教育评估（PISA）、循证政策决策、指标治理 | Grek (2009); [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
+> | **数据基础设施[[Disciplina and Doctrina\|规训]]命题** | 欧洲教育空间通过量化数据网格与比较指标建立跨国软性政策协调与研究吸附机制 | 国际大规模教育评估（PISA）、循证政策决策、指标治理 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 > | **空间治理与认同建构命题** | 欧洲教育空间通过美德化人员流动与项目网络建构超国家身份，同时转移就业责任与构筑外围边界 | [[Internationalization of Higher Education\|高等教育国际化]]、伊拉斯谟计划、[[TEMPUS\|天普计划]]、欧盟公民认同 | Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **现实主义主权防御与修辞借用命题** | 欧洲教育空间受限于主权壁垒，易被后发成员国异化为立法修辞挡箭牌与形式对标，掩盖学术近亲繁殖与制度惰性 | 欧洲联盟教育治理限度、博洛尼亚进程落地异化、学术流动与大学近亲繁殖批判 | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 
@@ -220,12 +220,14 @@ graph TD
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 全球 101 篇关于 [[PISA]] 政策影响的经同行评审实证研究 | [[Systematic Review\|系统综述]] | 研究对象所属地理区域分布 | [[EU\|欧盟]]/欧洲经济区研究占 **62.4%**；其中西欧国家研究占 **45.9%** | — | 表明 PISA 政策研究呈现高度欧洲中心倾斜，验证了欧洲教育空间[[Data Infrastructure\|数据基础设施]]的结构性[[Path Dependence\|锁定效应]]。 |
+| [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 32)]] | 欧盟委员会教育文化总司对 OECD PISA 调查的数据利用与经费支持 | 跨国治理机构政策档案与深度关键知情人访谈 | 欧盟里斯本战略教育指标对 OECD 数据的依赖率；调查成本资助比例 | 欧盟里斯本战略教育指标报告中 50%–60% 的数据直接来自经合组织（UOE 数据占 60%）；欧盟委员会承担各成员国参与调查费用的 80% | — | 实证揭示欧洲教育空间的数据基础设施在很大程度上是由欧盟财政直接向经合组织采购与共同支撑的共生结构 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合对芬兰、德国与英国的案例比较及欧盟委员会官员访谈，揭示经合组织与欧盟委员会如何通过数据基础设施与财政资助共谋建构欧洲教育空间。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示全球 [[PISA]] 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出[[EU|欧盟]]教育事务本质是成员国总和，揭示西班牙在[[Bologna Process|博洛尼亚进程]]对标与伊拉斯谟生源吸引表象下的高等教育近亲繁殖与制度性脱节。
