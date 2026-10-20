@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-06-29
@@ -220,6 +221,7 @@ updated: 2026-10-19
 > - **2011–2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** 比较教育与国际关系学者（Bieber & Martens, 2011; Martens & Niemann, 2013; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）揭示国际组织施展权力的全新模式：[[OECD|经合组织]]与[[World Bank|世界银行]]将客观数据与跨国指标作为规制工具，以“硬数据”行使无形重塑国家政策的“软权力”，使软实力概念正式拓展至全球[[Governing by Numbers|数字治理]]领域。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 > - **2023 — 南南合作与高教出海的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将批判性话语分析引入“一带一路”教育行动，揭示非西方新兴大国在高等教育软实力投射中对经济硬实力诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 > - **2025 — 战略现实主义与算法时代的反思** 科技地缘政治研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在21世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
+> - **2025 — 软硬实力混合架构与文化认同探索** [[Argument_Zhu_Yang_2025_HE|Zhu & Yang (2025)]] 结合中柬跨境高等教育实证，批判将对外拓展割裂为软实力与硬实力二元对立的传统视角，指出大学在实用主义中国例外论中兼具展示科技卓越与提供礼遇关照的双重职能，跨国高教交流的实质在于探索当代国家治理经验的文化认同，而非传统软实力理论所预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1043–1044, 1050–1051)]]
 
 ---
 
@@ -258,3 +260,4 @@ updated: 2026-10-19
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于文化政治经济学与批判话语分析，实证解构中国“一带一路”高等教育出海的软实力投射机制，揭示其对经济硬实力诱因的依附性及其在地缘博弈中的结构脆弱性。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu & Yang (2025)]] — 实证检验东南亚跨境高教输出，指出传统软实力透镜难以解释经贸外交、科技展演与治理经验认同交织的微观机制，倡导将新朝贡视角与天下启发式及知识外交范式深度整合。
