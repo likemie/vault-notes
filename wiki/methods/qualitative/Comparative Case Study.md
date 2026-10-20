@@ -81,6 +81,7 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-05-19
@@ -147,8 +148,8 @@ updated: 2026-10-20
 > [!contrast-table]- 比较[[Case Study|案例研究]]（CCS）的三维分析轴体系
 > | 分析轴向 | 比较与考察重点 | 核心操作逻辑 | 典型研究示例 |
 > |---|---|---|---|
-> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；一带一路沿线丝路大学联盟与亚洲大学联盟比较（[[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1698–1702]]） |
-> | **垂直轴（Vertical Axis）** | 跨越微观、中观与宏观多个尺度考察[[Policy Mobility\|政策流动]]与权力博弈 | 同时关注自上而下的政策渗透与自下而上的协商抵抗，解构[[Pluri-Scalar Governance\|多标度治理]]下的权力损耗 | 追踪国际指标从世行/联合国，经国家教育部、地方学区到课堂教学的层层转译（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]]） |
+> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；一带一路沿线丝路大学联盟与亚洲大学联盟比较（[[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1698–1702]]）；德、英、芬对 PISA 测评反响的国别吸纳对比（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 28–32]]） |
+> | **垂直轴（Vertical Axis）** | 跨越微观、中观与宏观多个尺度考察[[Policy Mobility\|政策流动]]与权力博弈 | 同时关注自上而下的政策渗透与自下而上的协商抵抗，解构[[Pluri-Scalar Governance\|多标度治理]]下的权力损耗 | 追踪国际指标从世行/联合国，经国家教育部、地方学区到课堂教学的层层转译（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]]）；追踪经合组织与欧盟委员会指标生产向下穿透主权国家政策议程的策略性外在化（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 32–35]]） |
 > | **横贯轴（Transversal Axis）** | 历时性追溯现象的历史起源、宏观冲击与长期演化轨迹 | 将当前实践嵌入历史政治经济脉络，考察关键事件（冷战终结、金融危机）对体制的重塑 | 追溯 1990–2018 年间全球金融危机与地缘格局对教育枢纽政策变迁的影响（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 204]]） |
 
 > [!proc] 质性分析程序
@@ -203,3 +204,4 @@ updated: 2026-10-20
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]早期阶段，通过档案挖掘与多[[Scale in Higher Education|尺度分析]]揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局（pp. 1698–1699）。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪经合组织与欧盟委员会的数据动员，实证揭示全球指标与国内政治议程的策略性外在化机制（pp. 28–35）。
