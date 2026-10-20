@@ -193,7 +193,10 @@ updated: 2026-10-21
 ## 实证研究与应用案例
 
 > [!case] 新西兰奥克兰 [[Picking Up the Pace|PACE 项目]]：小[[Class Size|班额]]与密集个别化读写教学的协同实验
-> 新西兰奥克兰南部处境不利学校推行的“步调提速”读写干预项目（Picking Up the Pace, PACE）为个别化教学与组织[[Variable|变量]]的交互提供了经典实证。项目初期，学校面临严重的毛利与太平洋岛裔低年级学生读写落后危机。面对“个别化教学收效甚微”的流行偏见，试点校董事会果断将一年级班级规模从 28 人压降至 15 人，确保专任教师能将全班分解为 5 个 3 人微型小组。在每天固定的读写板块中，教师轮流与各小组展开 10 至 15 分钟的密集个别化拼读与阅读指导，给予即时形成性纠错，其余小组在明确常规下开展配套练习。该项目实现了[[Academic Achievement|学业成绩]]的大幅跃升，其实证核心结论表明：**个别化教学绝非可以脱离物理班额孤立存在的通用技巧，小班额与高强度教师专业发展是解锁密集个别化教学效能的关键组织杠杆。**[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
+> 新西兰奥克兰南部处境不利学校推行的“步调提速”读写干预项目（Picking Up the Pace, PACE）为个别化教学与组织[[Variable|变量]]的交互提供了经典实证。项目初期，学校面临严重的毛利与太平洋岛裔低年级学生读写落后危机。面对“个别化教学收效甚微”的流行偏见，试点校董事会果断将一年级班级规模从 28 人压降至 15 人，确保专任教师能将全班分解为 5 个 3 人微型小组。在每天固定的读写板块中，教师轮流与各小组展开 10 至 15 分钟的密集个别化拼读与阅读指导，给予即时形成性纠错，其余小组在明确常规下开展配套练习。该项目显著提高了[[Academic Achievement|学业成绩]]，其实证核心结论表明：**个别化教学高度依赖特定组织生态，小班额与高强度教师专业发展是释放密集个别化教学效能的关键组织条件。**[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
+
+> [!case] 芬兰综合学校早期个别化辅导：欧盟同伴学习活动（PLA）考察与跨国政策提炼
+> 芬兰在 PISA 测评中持续展现出极高的教育公平度（校际方差极低），引发了欧洲范围内的考察热潮。索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 33]]）指出，欧盟委员会依托“开放协调法”于 2006 年组织各成员国教育专家赴芬兰开展针对特殊需要教育的“同伴学习活动”（PLA）。实地调研表明，芬兰教育成效的关键在于综合学校对学业困难儿童实施的制度化早期个别化教学支持：学校通过兼职特教教师在常规课堂内为落后学生提供密集的个别化辅导方案，避免了过早的学业分流或留级标签，从而使个别化教学被欧盟提炼为实现“兼顾卓越与公平”的标志性跨国政策配方。
 
 > [!case] 瑞典公立学校“个人化工作”改革的反思与再平衡
 > 瑞典国家教育署在 1990 年代末至 2000 年代初大力推广以“学生自主工作时间”（eget arbete）为特征的个别化改革。[[Classroom Observation|课堂观察]]与大规模追踪评估发现，学生将高达三分之一的在校时间用于独立做练习单、自填进度表；教师则将精力耗费于繁复的表格管理与纪律巡视，针对学科概念的系统讲授与深度提问急剧减少。该项实证评估最终证实，这种假性个别化导致瑞典在 [[PISA]] 国际测评中成绩连续下滑，特别是基础薄弱学生因缺乏教师系统示范而遭受重创，迫使瑞典教育界在 2010 年代重新回归强调教师主导、全班结构与个别辅导相结合的专业轨道。（Håkansson, 2015, pp. 586–595）
@@ -207,8 +210,8 @@ updated: 2026-10-21
 >
 > *The success of the programme has also been attributed to the board of trustees' decision last year to reduce junior class size from 28 students to 15. This has had an amazing impact because the programme has to be done with groups of three children. When you're involved with each group for 10–15 minutes at a time you can't have large numbers in the classroom... Smaller numbers mean teachers are able to interact a lot easier with the groups and on a more regular basis.*
 
-> [!citation-card] 劳尔森论个别化教学的实质内核
-> 个别化教学或教学差异化的核心问题，绝不是让学生自顾自地孤立探索，而是教师如何在学生差异面前精心组织专业支持。如果差异化沦为教师支持的退场与学习责任的转嫁，它必将瓦解教学的公共性基础。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 38)]]
+> [!citation-card] 劳尔森论个别化教学的专业支持本质
+> 个别化教学或教学差异化的核心问题，在于教师如何在学生差异面前精心组织专业支持。如果差异化伴随着教师支持的退场与学习责任的转嫁，它将削弱教学的公共性基础。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 38)]]
 >
 > *The core question of individualised instruction is not whether to let students work on their own, but how teachers organize support in the face of diverse student prerequisites.*
 
@@ -216,18 +219,19 @@ updated: 2026-10-21
 
 ## 条目关联
 
-> [!entry-map|notitle]
+> [!entry-map] 个别化教学相关条目关联矩阵
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|
 > | [[Class Size]] | 概念 | 小班额是落地密集、高频个别化指导的物理与组织[[Necessary and Sufficient Conditions\|必要条件]]。 |
 > | [[Interaction Effect]] | 概念 | 个别化教学与班额、专业发展之间存在强交互效应，否定了单[[Variable\|变量]]孤立排名的有效性。 |
-> | [[Necessary and Sufficient Conditions]] | 概念 | 适切班额并非提升学业的充分条件，却是个别化教学取得实效的刚性必要条件。 |
+> | [[Necessary and Sufficient Conditions]] | 概念 | 适切班额虽不单独构成提升学业的充分条件，却是个别化教学取得实效的必要支撑。 |
 > | [[Picking Up the Pace]] | 事实 | 新西兰奥克兰通过压降班额成功落地微型小组个别化读写干预的标志性实证案例。 |
 > | [[Effective Teaching]] | 概念 | 个别化教学是高品质有效教学中适配学生认知起点的支架维度，需配合显性领导。 |
 > | [[Structured Teaching]] | 概念 | 结构化教学为个别化提供清晰目标框架与流程规范，防止个别化滑向无序放任。 |
 > | [[Direct Instruction]] | 概念 | 直接教学搭建学科基础概念支架，与后续的针对性个别化辅导构成有机链条。 |
 > | [[Feedback]] | 概念 | 形成性反馈是个别化教学的核心引擎，为不同进度的学生指明后续改进方向。 |
+> | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 剖析欧盟同伴学习活动如何将芬兰综合学校早期个别化教学经验转化为跨国政策范本。 |
 
 ---
 
@@ -240,3 +244,4 @@ updated: 2026-10-21
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与案例解构 | Snook, O'Neill et al. (2009); Stewart (2001) | 奥克兰 [[Picking Up the Pace\|PACE 项目]]证明小[[Class Size\|班额]]（15人）是个别化微型小组指导的[[Necessary and Sufficient Conditions\|必要条件]]，抨击单[[Variable\|变量]][[Meta-analysis\|元分析]]割裂[[Interaction Effect\|交互效应]]。 |
 > | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] | 跨文化教学实证综合 | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]; SFI Report (2015) | 个别化教学不等于教师甩包袱；弱势背景学生对显性结构高度依赖，过度开放的个别化反会拉大差距。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 循证干预[[Meta-meta-analysis\|元综合]]评价 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Hattie (1992, 2008) | 归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 政策社会学与跨国治理分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 剖析欧盟同伴学习活动如何将芬兰面向落后学生的早期个别化教学经验构造成兼顾卓越与公平的跨国通用政策处方。 |
