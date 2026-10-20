@@ -1,0 +1,743 @@
+=== PAGE 1 ===
+Journal of Education Policy
+ISSN: 0268-0939 (Print) 1464-5106 (Online) Journal homepage: www.tandfonline.com/journals/tedp20
+Governing by numbers: the PISA ‘eﬀect’ in Europe
+Sotiria Grek
+To cite this article: Sotiria Grek (2009) Governing by numbers: the PISA ‘eﬀect’ in Europe,
+Journal of Education Policy, 24:1, 23-37, DOI: 10.1080/02680930802412669
+To link to this article:  https://doi.org/10.1080/02680930802412669
+Published online: 22 Jan 2009.
+Submit your article to this journal 
+Article views: 22076
+View related articles 
+Citing articles: 147 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tedp20
+
+=== PAGE 2 ===
+Journal of Education Policy
+Vol. 24, No. 1, January 2009, 23–37
+ISSN 0268-0939 print/ISSN 1464-5106 online
+© 2009 Taylor & Francis
+DOI: 10.1080/02680930802412669
+http://www.informaworld.com
+Governing by numbers: the PISA ‘effect’ in Europe
+Sotiria Grek*
+Education and Society, Edinburgh University, Edinburgh, UK
+Taylor and FrancisTEDP_A_338434.sgm
+(Received 4 March 2008; final version received 6 August 2008 )
+10.1080/02680930802412669Journal of Education Policy0268-0939 (print)/1464-5106 (online)Original Article2009Taylor & Francis2410000002009Dr. SotiriaGrekSotiria.Grek@ed.ac.uk
+This paper examines the Programme for International Student Assessment (PISA),
+which has become a major and influential component of the Organisation for
+Economic Cooperation and Development’s (OECD) educational work. This
+measure of comparative performance of educational systems of member and other
+nations is based on tests commissioned by the OECD. The paper discusses the role
+of the OECD in establishing the ‘comparative’ turn and also describes PISA, its
+management and effects. It provides three examples of the impact of PISA in
+Finland, Germany and the UK before moving the focus to its impacts at the
+transnational level, through an examination of how key European policy actors see
+PISA and its effects. The paper concludes that PISA, through its direct impact on
+national education systems in Europe and beyond, has become an indirect, but
+nonetheless influential tool of the new political technology of governing the
+European education space by numbers.
+Keywords: comparative; critical analysis; OECD PISA; European education
+space
+Introduction
+This paper1 focuses on the Organisation for Economic Cooperation and Development
+(OECD) Programme for International Student Assessment (PISA) and suggests that,
+through its impact on national education systems in Europe, although apparently sepa-
+rate and distinct, it plays a rather indirect, but no less important role on the governance
+of the European education space. PISA is not limited to Europe and has indeed a far
+greater, almost global, reach. Nevertheless, on the one hand, Europe represents a
+substantial part of the OECD world; on the other, according to a key actor at the
+Education Directorate of the European Commission:
+We used to have great competition between the two institutions [OECD and the EC]
+which was that they were research-based, we were policy-based. And we needed that.
+They needed the policy aspect to mobilise the European consciousness … it was in their
+interest working with us… We had some differences but we are working closer and
+closer together, we are very very good friends now, there is no conflict. (EU3)
+The paper examines the role of the OECD in framing and steering education policy at
+a European and global level and moves on to briefly examine the first recently
+completed cycle of the PISA assessment (2000–06). It uses three examples, the cases
+of Finland, Germany and the UK, and their responses to the PISA 2000 and 2003
+*Email: Sotiria.Grek@ed.ac.uk
+
+=== PAGE 3 ===
+24  S. Grek
+assessments, in order to examine the ways in which PISA enters these national policy
+spaces and acts on them in ways that govern and shape education activity. The paper
+then draws on interview data from key policy actors in Brussels to make a case for the
+significance and impact of such governing tools not just at the national level, but on
+other international organisations and their agencies, such as the European Commis-
+sion. The paper concludes by suggesting that, as the policy officer above clearly
+argues, since the two international organisations have been sharing a broadly similar
+policy agenda for some time now, PISA and its effects may be seen as a useful tool in
+the project of building the new European education space of competitiveness and
+cohesion (Council of the European Union 2000).
+The paper builds on interview data from key policy actors in the countries
+examined, as well as from the Commission. It also uses documentary data, in the form
+of OECD policy text and press reports. All data are derived from collaborative
+research work in the project ‘Fabricating Quality in European Education’ (see http://
+www.ces.ed.ac.uk/research/FabQ/index.htm).
+OECD and the politics of comparison
+Alongside other international organisations (IOs), the OECD has become part and
+parcel of the internationalising, globalising and thus converging policy processes that
+have been commented on by many scholars in relation to education (Taylor et al.
+1997; Ozga and Lingard 2007). While it is primarily concerned with economic policy,
+education has taken on increasing importance within that mandate, as it has been
+reframed as central to national economic competitiveness within an economistic
+human capital framework and linked to an emerging ‘knowledge economy’. Founded
+in 1961, the OECD has taken on an enhanced role as a policy actor, as it seeks a niche
+in the post-Cold War globalising world in relation to other IOs and supranational
+agencies (Rinne, Kallo, and Hokka 2004; Henry et al. 2001). To this end, it has devel-
+oped alliances with other IOs such as UNESCO, the European Union (EU) and the
+World Bank to actively promote its policy preferences. The case of the OECD is
+particularly interesting because, unlike the EU, it does not have the legal instruments,
+nor the financial levers to actively promote policy-making at the national level within
+member nations. This also contrasts with the World Bank, for example, which has
+‘power’ over nations of the Global South through policy requirements or trade-offs
+(structural adjustment) linked to funding and loans. Nonetheless, through ranking
+exercises such as the ‘Education at a Glance’ annual reports, the International Adult
+Literacy Survey (IALS), its Indicators in Education project, including the World
+Education Indicators developed in conjunction with UNESCO and the World Bank,
+through PISA and through national and thematic policy reviews, its educational
+agenda has become significant in framing policy options not only at the national but
+also in the constitution of a global policy space in education (Lingard and Grek 2007;
+Lingard, Rawolle, and Taylor 2005).
+In theoretical terms, adopting a perspective that builds on sociological institution-
+alism, IOs are understood as not simply structure or ‘mere epiphenomena’ of imper-
+sonal policy machinery (Barnett and Finnemore 1999), but rather as purposive actors
+who, ‘armed with a notion of progress, an idea of how to create a better life, and some
+understanding of the conversion process’, have become the ‘missionaries of our time’
+(Barnett and Finnemore 1999, 712). This raises the question – What has transformed
+the OECD to one of the most powerful agents of transnational education governance?
+
+=== PAGE 4 ===
+Journal of Education Policy  25
+Martens (2007) has contributed substantially to this discussion suggesting that the
+‘comparative turn’ – ‘a scientific approach to political decision making’ (42) – has been
+the main driver of OECD success. Through its statistics, reports and studies, it has
+achieved a brand which most regard indisputable; OECD’s policy recommendations
+are accepted as valid by politicians and scholars alike, ‘without the author seeing any
+need beyond the label “OECD” to justify the authoritative character of the knowledge
+contained therein’ (Porter and Webb 2004, 7).
+Drawing on Marten’s (2007) ideas, we can see that there is a taken-for grantedness
+about education indicators, despite all the commentary asking for contextualisation in
+their interpretation (e.g. Nóvoa and Yariv-Mashal 2003), and this is indicative of the
+way in which they have become an accepted part of the contemporary educational
+policy lexicon across the globe, within and well beyond the OECD, and of their
+growing significance to the work of the OECD itself since the 1980s. PISA now
+accounts for approximately 30% of the Education Directorate’s budget inside the
+OECD and is funded directly by participating nations. One could suggest that the
+OECD’s greatest impact has been in relation to its Indicators agenda, including PISA,
+and its role in constructing a global educational policy field through governance by
+comparison (Martens 2007). Indeed, as Antonio Nóvoa argued, ‘comparing must not
+be seen as a method, but as a policy … the expert discourse builds its proposals
+through “comparative” strategies that tend to impose “naturally” similar answers in
+the different national settings’ (2002, 144).
+Therefore, in its role as policy actor, the OECD has created a niche as a techni-
+cally highly competent agency for the development of educational indicators and
+comparative educational performance measures. OECD-defined and -collected data
+on education systems in Europe are then intersected with EU data, contributing to the
+creation of a governable space of comparison and commensurability – the European
+education space (Nóvoa and Lawn 2002). Indeed, a number of histories of statistics
+demonstrate the intimate and interwoven relationships between the development of
+state administrative structures and processes of standardisation and comparison
+(Hacking 1975, 1990; Porter 1995; Desrosières 1998). The nation constituted as a
+‘space of equivalence’ is necessary to the construction of statistics (Desrosières
+1998), but statistics and numbers which elide the local are equally important to the
+construction, in this case, of a commensurable education policy field. These develop-
+ments reflect policy convergence around what Brown and his colleagues define as a
+new educational policy consensus: 
+The new consensus is based on the idea that as the ‘walled’ economies in mid-century
+have given way to an increasingly global economy, the power of national government
+to control the outcome of economic competition has been weakened … Indeed the
+competitive advantage of nations is frequently redefined in terms of the quality of
+national education and training systems judged according to international standards.
+(Brown et al. 1997, 7–8)
+Policy instruments such as indicators and the whole audit and performance-monitoring
+nexus have become a significant element of the shift from government to the gover-
+nance of national education systems through new institutional forms with the purpose: 
+of orienting relations between political society (via the administrative executive) and
+civil society (via its administered subjects) through intermediaries in the form of devices
+that mix technical components (measuring, calculating the rule of law, procedure) and
+social components (representation, symbol). (Lascoumes and Le Galès 2007, 6)
+
+=== PAGE 5 ===
+26  S. Grek
+The education work of the OECD has become a very important, node in this complex
+policy field, as education policy is seen as central to the competitive advantage of
+national economies in the face of globalisation. Evaluations of national education and
+training systems require international points of comparison. The OECD has filled this
+niche in relation to education policy in terms of its work on indicators generally and
+specifically through PISA. Taken together, these factors account for the increased
+significance of the education work of the OECD, its contribution to the emergent
+global education policy field, and its enhanced role as policy actor. In the next section,
+I look in more detail at the organisation and content of PISA.
+The Programme for International Student Assessment
+The PISA is conducted in three-yearly cycles and examines the knowledge and
+skills of 15-year olds in compulsory education. The OECD develops the assessment
+tasks used in PISA through commissioning agencies to produce the tests. Thus
+PISA works with tests that are developed and mandated by OECD. Although PISA
+began as a joint study of the OECD member countries, it has developed its scope to
+involve non-member countries as well. Indeed, since the year 2000, when the first
+PISA study was conducted, more and more countries have been taking part, with
+the latest PISA (2006) having assessed students in 57 countries all over the world,
+thus involving 27 non-member participant nations. This shows the significance
+given to the test globally, since even countries which are not OECD members want
+to be seen to be taking part in the international comparison. According to a policy
+actor in England asked about the participation of non-member states in PISA, these
+countries: 
+… might choose to see PISA as more relevant for them or certainly in terms of the
+comparisons you can make. They don’t necessarily want to be making comparisons with
+countries like them, they often want to be making comparisons with the member
+countries and the economic part, how far they have got to go in order to catch up … They
+come to PISA because they want to be compared with these leading countries…. (CP2E)
+This international dimension of the survey, which overrides the boundaries of
+Europe to compare student performance in countries as diverse as the USA, Greece
+and Indonesia, gives PISA a particularly significant weight as an indicator of the
+success or failure of education policy. PISA is the OECD’s platform for policy
+construction, mediation and diffusion at a national, international and possibly
+global level (Rizvi and Lingard 2006). Instead of evaluating knowledge on the
+basis of the curriculum or the cultural and life experiences that 15-year olds have,
+PISA: 
+… provides international comparisons of the performance of education systems, with
+strong, cross-culturally valid measures of competencies that are relevant to everyday,
+adult life. Assessments that test only mastery of the school curriculum can offer a
+measure of the internal efficiency of school systems. They do not reveal how effectively
+schools prepare students for life after they have completed their formal education.
+(OECD 2001, 27)
+The concepts of comparison and internationalisation give PISA its substance, since it
+is in the comparisons of school outcomes across the world that policy-makers can now
+find answers to their problems: 
+
+=== PAGE 6 ===
+Journal of Education Policy  27
+PISA offers a new approach to considering school outcomes, using as its evidence
+base the experiences of students across the world, rather than in the specific cultural
+context of a single country. The international context allows policy-makers to question
+assumptions about the quality of their own country’s educational outcomes. (OECD
+2001, 27)
+De-contextualisation, commensurability and policy orientation have been the key
+ingredients contributing to PISA’s success. However, the sheer scale of the enter-
+prise may distract attention from fundamental questions about its purposes and
+effects. For example, one should not lose sight of the importance of PISA as a ‘shop
+front’ for OECD. Through advertising the OECD’s capacity to do such work, it has
+become the evaluator of choice. The assessment of comparative system performance
+has direct effects on the shaping of future policy directions, and the reporting of
+PISA results adds to the sense of urgency in responses to PISA as Nóvoa and Yariv-
+Mashal point out: 
+Such researches produce a set of conclusions, definitions of ‘good’ or ‘bad’ educational
+systems, and required solutions. Moreover, the mass media are keen to diffuse the results
+of these studies, in such a manner that reinforces a need for urgent decisions, following
+lines of action that seem undisputed and uncontested, largely due to the fact that they
+have been internationally asserted. (2003, 425)
+PISA has been conducted three times to date: in 2000, 2003 and 2006. While always
+testing reading, mathematical and scientific literacy, its innovative dimension – and
+part of its interest as a governing device – lies in the fact that, as noted above, it does
+not examine students’ mastery of school curricula, rather the focus is on an assessment
+of young people’s ability to practically apply their skills in everyday life situations.
+The focus on ‘real-life’ circumstances and on students’ capacity to enter the labour
+market with core skills, such as literacy and numeracy, has taken PISA’s focus of
+interest away from less explicit educational aims that resist measurement (e.g. demo-
+cratic participation, artistic talents, understanding of politics, history etc.), towards a
+more pragmatic view of education’s worth: ‘its relevance to lifelong learning’ (OECD
+2003). Indeed, PISA is one of the first international student assessment surveys that
+applies concepts such as ‘literacy’, previously connected only with adult learners, to
+school pupils. According to OECD (2003), PISA has an: 
+… innovative approach to lifelong learning, which does not limit PISA to assessing
+students’ curricular and cross-curricular competencies but also asks them to report on
+their own motivation to learn, their beliefs about themselves and their learning strategies.
+(OECD 2003, no page numbers)
+This is significant, since lifelong learning is seen to expand and include compulsory
+education. This emphasis on lifelong learning is indicative of the concern to embed
+responsibility for continuous self-improvement and upskilling in the individual
+learner from a relatively early stage in their development. It connects the production
+of data to the growing self-governance of active subjects, and extends governance
+into a system of self-regulation (Rose 1992; Ball 1998). Finally, and perhaps most
+significantly, according to the same document, a key feature of PISA is: 
+its policy orientation, with design and reporting methods determined by the need of
+governments to draw policy lessons. (OECD 2003, n.p.)
+
+=== PAGE 7 ===
+28  S. Grek
+Hence, it is made clear that this is not simply a testing regime – it is constructed and
+operates under a clear and specific policy framework, which is to be adopted by the
+participant countries if they are to improve their future PISA assessments and thus
+improve their standing in attracting economic and human capital investment.
+PISA has come a long way in a short period of time and has consolidated the role
+of OECD and its Education Directorate as the pre-eminent global organisation for
+developing and analysing comparative international educational performance data.
+PISA results now receive a very high profile within national media and are present in
+the consciousness of senior policy-makers. Media coverage of PISA results is very
+substantial and perhaps represents another manifestation of the ‘mediatisation’ of
+education policy processes (Fairclough 2000; Lingard and Rawolle 2004). I will now
+move on to an examination of the PISA effect on the national context, by looking at
+the examples of Finland, Germany and the UK. Finland, having done exceptionally
+well in the full PISA cycle, is still basking in the glory of these positive results.
+Germany, in contrast, was encouraged to undertake urgent educational reforms.
+Finally, the UK case reveals some interesting differences between Scotland and
+England in relation to PISA.
+Finland
+The outstanding success of Finnish students in PISA has been a great joy but at the
+same time a somewhat puzzling experience to all those responsible for and making
+decisions about education in Finland. At a single stroke, PISA has transformed our
+conceptions of the quality of the work done at our comprehensive school and of the
+foundations it has laid for Finland’s future civilization and development of knowledge.
+Traditionally, we have been used to thinking that the models for educational reforms
+have to be taken from abroad. For a long time, we thus turned to Germany for these
+models … Today, thanks to PISA, the situation seems suddenly to have changed, with
+Finnish schooling and Finnish school practices in the focus of the international
+attention. (Välijärvi et al. 2002, 3)
+Indeed, ‘the Finnish miracle of PISA’ (Simola 2005) has been at the centre of interna-
+tional attention since the first PISA results were published in 2001. Even though the
+PISA success was initially received within the country with great surprise (‘from a
+country following the examples of others to one serving as a model for others’
+[Välijärvi et al. 2002, 3]), the Finnish ministry of education was soon to attribute the
+positive results to an education system that offers both high quality and equality to its
+students (online, Ministry of Education 2007).
+According to Välijärvi et al. (2002), non-differentiation is the secret of the success
+of the Finnish comprehensive school. Instead of tracking and streaming, Finnish
+teachers are in a position to cater for the needs of individual students. This is thanks
+to the ‘highly educated, a pedagogical expert’ (42) Finnish teacher, who is generally
+regarded very highly in Finnish society. In addition, due to the absence of any
+national tests or examinations upon completion of compulsory schooling, teachers’
+assessment of their pupils is all the more important. Finland does have national grad-
+ing guidelines for performance but, according to the Finnish PISA team, these are
+flexible and allow for a broad definition of student achievement (Välijärvi et al.
+2002). Teachers in Finland take decisions themselves in regard to the textbooks they
+are going to use; the early 1990s reform on the curriculum brought greater curricular
+flexibility and pedagogical freedom than ever before. Therefore, the official reporting
+
+=== PAGE 8 ===
+Journal of Education Policy  29
+of the country’s PISA results supports the conclusion that comprehensive schooling,
+in addition to teacher autonomy and motivation, was the decisive factor in the high
+performance of Finnish students.
+In terms of the ways that PISA results were received by the Finnish government
+and media, it is remarkable that the Finnish press was found to have mentioned the
+country’s success in only eight pages, whereas Germany, one of the lowest performers,
+received 687 pages of press attention (European Network 2004). Interestingly, the
+announcement of the results of an international assessment of this magnitude was
+received with neutrality by the media and perhaps with surprise from the Finnish
+government, which apparently decided to move into announcing further reforms,
+despite the almost global acclaim for their existing system. PISA seems to have been
+used here to mobilise policy action aimed at securing constant improvement against
+the country’s results: 
+Paradoxically, shortly after the international publication of the first PISA results, the
+Finnish government made a decision to harmonise the education system by adding to the
+share of compulsory studies in comprehensive schools and by giving more weight to core
+subjects … Assessment results and political decision making on education do not always
+go hand in hand. (Välijärvi et al. 2002, 44)
+Germany
+The results of PISA 2000 had a major effect on Germany’s education system. Rankings
+that placed it twentieth in reading, mathematical and scientific literacy among 32 coun-
+tries were a severe shock to policy-makers, school teachers and parents. The negative
+results dominated the German media, which presented them in almost all newspapers.
+Project leaders gave several interviews, experts offered their interpretations and round-
+table TV discussions were also held (European Network 2004). In response to the PISA
+findings, German education authorities organised a conference of ministers in 2002 and
+proposed reforms of an urgent nature, such as developing standards for measuring
+students’ competencies upon completion of secondary schooling and the introduction
+of large-scale assessment testing at the end of primary and secondary education.
+Teachers were under increasing pressure, especially with the delivery of new
+reform measures, and urgent measures were deemed necessary to focus the system
+more on outputs rather than inputs and to develop standards regarding skills upon
+completion of school and entry into the labour market. Despite criticisms of the PISA
+testing frame and statistical validity that came from within the country (see Wuttke
+2006), new projects were initiated. Some of them, in direct response to the PISA test-
+ing model, were Chemie im Kontext (CHIK), Physik im Kontext (PIKO) and SINUS
+(Steigerung der Effizienz des mathematisches-naturwissenschaftlichen Unterrichts)
+(Federal Ministry of Education and Research 2007). Further, the PISA-Konsortium
+Deutschland produced reports on the development of the competencies of German
+pupils (Prenzel et al. 2004). Finally, national tests of learning outcomes in core
+subjects were also introduced for the first time in the country. What we see here
+appears to be a common phenomenon in relation to PISA results and their reportage:
+an initial critique of the statistics themselves and a questioning of their validity, but
+then an apparent acceptance of the data and appropriate policy responses to the situa-
+tion as defined by these data.
+Pongratz (2006) maintains that no other empirical study managed to stir up the
+educational policy landscape in Germany in the way that PISA 2000 did. He compares
+
+=== PAGE 9 ===
+30  S. Grek
+the ‘flood’ of discussions and reform measures that PISA brought with the crisis
+scenarios that German education experienced in the 1960s, and particularly what was
+then called the Bildungskatastrophe (Pongratz 2006). According to him, the ‘PISA-
+shock’ has had major impact not only on policy-making, but most crucially on the
+public consciousness. However, according to him: 
+This result is clearly cause for critical self-reflection, but it is not in itself a sufficient
+basis for the frantic radicalism of the resultant reform measures. It seems that something
+is operating through reform strategies of diverse types that has the capacity to exercise
+enormous pressure. This pressure functions as a strategic element within a currently
+active global transformation process driven by a wide variety of organisations and actors.
+(Pongratz 2006, 472)
+The PISA results, apart from curricular reforms, brought a whole new conceptualisa-
+tion of the German school as a self-managing organisation, in need of new quality
+control measures, applied in different combinations by the federal states: school
+inspections, self-evaluations, assessment tests and teacher professionalisation have
+turned the German education system into a peculiar mixture of centralisation and
+decentralisation.
+United Kingdom (UK)
+PISA is administered separately in England, Scotland and Northern Ireland (Wales is
+included in the English sample), but the UK is regarded as a single national entity by
+the OECD for the PISA purposes. The then Department for Education and Skills
+(DfES – now the Department for Children, Schools and Families [DCSF]) commis-
+sioned the Social Survey Division of the Office for National Statistics (ONS) to
+carry out the study in England. The Social Survey Division also conducted the
+survey in Northern Ireland, in collaboration with the Central Survey Unit of the
+Northern Ireland Statistics and Research Agency. The Northern Ireland survey was
+commissioned by the Department of Education Northern Ireland (DENI). Finally, the
+Scottish Executive commissioned the Scottish Council for Research in Education
+(SCRE, University of Glasgow) to conduct the study in Scotland.
+In both in PISA 2000 and 2003, England had difficulty in reaching the required
+response rates, in order to be included in the survey, arguably due to the large
+amount of data collection already demanded of schools. However, media in the UK
+showed very high interest, reporting the results with headlines such as ‘School is far
+more fun in Scotland’, ‘Teenagers are world-beaters when it comes to maths and
+science’ etc. (European Network 2004). In contrast to the press in other countries, the
+UK media did not report the negative elements of the results extensively. In particu-
+lar, the significant gap between the performance of pupils from well-off and deprived
+backgrounds that was to be found in both the 2000 and 2003 surveys did not attract
+media attention at all. On the day of the publication of the 2000 results, PISA gener-
+ated nine prominent national newspaper lead stories and featured in the national news
+twice on that day and several times by the end of the week.
+Tony Blair, the then UK Prime Minister, commented on the PISA 2000 results
+on the day of the publication in the House of Commons: ‘The country should be
+very proud of the OECD survey, which is a tribute to the hard work of pupils, heads,
+teachers, governors and parents across the country’ (European Network 2004, 13).
+In PISA 2000, the UK took the seventh position in reading literacy, the eighth
+
+=== PAGE 10 ===
+Journal of Education Policy  31
+position in mathematical literacy and the fourth position in scientific literacy. DfES
+produced booklets summarising the findings for teachers and headteachers and
+distributed them electronically through ‘TeacherNet’, the Department’s website for
+teachers and heads of schools. Finally, teacher unions held a conference on the PISA
+2000 findings in 2003, which was very well-attended by teachers, policy-makers
+from the DfES, OECD representatives and politicians (including David Miliband,
+then Secretary of State) (TeacherNet 2007). A DfES/DCSF official, commenting on
+media interest in PISA, noted its significance as a ‘brand’: 
+I think PISA probably gets the most attention and that’s not because it is any more valid
+or reliable, it is simply because OECD has done such a brilliant marketing job with PISA.
+So it is a real brand name, ministers are familiar with it, politicians generally are familiar
+with it, the press, the education press and beyond are all familiar with PISA. (EU2)
+No concrete initiatives were undertaken in the UK – in either England or Scotland –
+in response to PISA results. The same DfES/DCSF official saw no impact on policy
+at national level, but wondered if practices in England were influencing international
+systems because of England’s success: 
+At the national level? I don’t think we’ve noticed that, we are not changing our systems
+in any particular way to accommodate … maybe the other way round is happening. I
+don’t know. No, I don’t think we got such thing going on…. At the policy level it was
+more of an affirmation that we were on the right track, except that we could do better in
+terms of equity. At the political level a great deal was made of it because you know it
+was looking pretty good stuff. (EU2)
+In Scotland, the Scottish Executive published a report for PISA 2000 through its
+Education and Young People Research Unit (Scottish Executive 2002). According to
+it, in PISA 2000: 
+Scotland was in the top third of countries in all subjects assessed. The results indicated
+that Scotland’s 15-year olds performed significantly better in terms of attainment in
+mathematics and science than our 9- and 13-year olds did in earlier international studies,
+and this is likely to be the case in reading too. (Scottish Executive 2002, 3)
+In the Scottish Executive report, the analysis of the results ranges from examining
+PISA results in general, to looking at the performance of the UK and sometimes
+offering Scotland-specific comments. These are mainly used to justify and reinforce
+the reasoning for measures and policies already under way. For instance, according to
+the report, the relationship between students’ views on the school climate and
+students’ performance was considered significant and thus supportive of ‘the empha-
+sis in Scotland in recent years through school self-evaluation and the Ethos Network’
+(Scottish Executive 2002, 12). Interviews with members of the Inspectorate and the
+Executive’s Analytical Services Division point to a strategic use of PISA to establish
+Scotland in the wider world: 
+But I think it’s partly about you know this is putting Scotland on the map. We do quite
+well in PISA so what more can we extract from that by way of evidence on our position
+in the world. (S1)
+In addition, PISA is a source of reassurance to policy-makers in Scotland, especially
+in relation to their adherence to a different model of quality assurance and evaluation
+
+=== PAGE 11 ===
+32  S. Grek
+from that in England, with no national testing, and an inspection regime that promotes
+self-evaluation: 
+… we have the reassurance of PISA for example, suggesting that overall our students
+are, on average reasonably pretty high performing anyway. The PISA data I don’t think
+could be seen as a huge driver in the inspection model, because it is favourable for
+Scotland. There wouldn’t be any particular basis for saying, oh because of PISA we must
+do this or that. (S2)
+Having had briefly examined three national ‘cases’ as examples of the ways PISA
+enters the domestic front and impacts on national education systems in Europe, it is
+interesting to move on to examine the views of European policy-makers operating at
+the level of Brussels. What are their views about the impact of PISA on European
+education systems? How has PISA contributed to the dominance of evidence-based
+policy-making in the European Commission? Building on findings from in-depth
+interviews with two key policy actors from the European Commission and its
+agencies, namely the Research, Indicators and Analysis Division in the DG Education
+and Culture and Eurydice, the next section examines the PISA impact on policy-
+making at the European level and especially in relation to the shaping and steering of
+education policy transnationally.
+PISA and Europe
+We support OECD in carrying out a number of surveys by supporting member states. We
+pay 80% of the national costs by the budget of the Union…We have meetings very
+regularly and we have even joined projects now. We work very closely with them on
+evidence-based policy making. (EU3)
+50–60% of the data for the EU’s indicators report for the Lisbon strategy are from the
+OECD, yes. And of course are the same. (EU4)
+IOs such as the OECD and the European Union should not be seen as monolithic
+institutions but as part of the ‘global architecture of education’, described as ‘a
+complex web of ideas, networks of influence, policy frameworks and practices,
+financial arrangements and organizational structures’ (Jones 2007, 326). According
+to the Eurydice actor, the Commission is highly dependent on PISA data, first,
+because it pays substantially for it, and secondly, because collaboration on data
+collection between the two IOs has increased significantly over the recent years: 
+And we also work with OECD because the OECD is the main coordinator for the
+UOE2 data which is 60% of the data that we use in such a report and that means that
+we participate in all the meetings of INES, the scientific committees of OECD. We go
+to all these meetings and we have a seat and agreement with the OECD, a formal,
+very formal, an official agreement that the Commission has a seat in all their commit-
+tees. (EU3)
+So those involved in the collection of data at European level or at the international level
+in OECD tend to be more and more closely related. Also because at EU level it would
+cost too much money to develop such instruments like PISA. So of course you have to
+cooperate and I think it is good because there is no extra money to spend – it is the
+philosophy that is different that we argued and I think this is still the case. The corpus of
+data is the same, OECD, Eurostat and Unesco, they share the data but then when you
+
+=== PAGE 12 ===
+Journal of Education Policy  33
+look at the products and what you do with the data, makes the difference. And where you
+use it. (EU4)
+PISA has been a major instrument in providing data for the European education
+systems and shaping the ways that European experts and networks operate and the
+policy areas they focus on. For example, in relation to the Commission’s relatively
+newly established ‘peer-learning activities’ (see http://ec.europa.eu/education/life-
+long-learning-policy/doc32_en.htm), PISA seems to be shaping interests and travel
+itineraries across Europe: 
+The agenda is to better understand what Finland is doing to succeed in PISA. What do
+they do? Specialised teaching or individualised teaching? So they go to Finland, these
+experts, not just to travel, they go to Finland in order to best understand what Finland is
+doing. Can the Finnish experience actually inspire something to be done in England –
+which will be an English decision and an English matter. So this transfer of experiences
+is very complex and very difficult because what is in the mind of people is if I transfer
+a system, will that work? To identify the elements of success that are relevant to your
+country and which can be used in your country and have roots in your system, that’s very
+very difficult and we don’t have the methodology for doing it. But we can at least go
+from this logic of identifying objectively one way or another good performance and then
+approach an understanding of why and how they do that. Then inspire other countries to
+at least reflect what they can learn from that. (EU3)
+What is not challenged here is the explicit policy orientation PISA has, on the basis of
+which its data are being collected. PISA data in Europe seem to be a given – the
+problem appears to be how to deal with them. It is seen as an objective assessment of
+‘good’ or ‘bad’ performance that currently lacks contextualisation and that more
+‘traditional’ European methods, such as European networks and policy experts, can
+work on. Interestingly, these policy-transfer mechanisms appear to lose ground (‘My
+critique is that I don’t believe intellectually they have the methodology for looking at
+anything. They look at things that shine’ [EU3]). OECD technical expertise and PISA
+in particular has become the impetus for a drive in the Commission towards establish-
+ing their own technical capacity – this is not just a question of producing better or
+more relevant data. It is a political decision, which relates to education markets and
+the development of statistical expertise at sites much closer to home: 
+We see the very big reports they publish and it is always Australians, Canadians,
+Americans that run away with the money. Always. It is ACER that is the Australian one,
+ACER that sits on the big contracts of analysis on PISA or TIMSS or whatever national
+survey, they sit on it. This has been a problem for Europe, for European countries for
+many years. Especially France that protests, they say this is Anglosaxon, American
+controlled organisation, we don’t want it. Therefore we should develop a European
+capability of doing these things. It was in view to do this with the language indicator
+which is very big contract, 6 million, that we are doing this year. We reflected on how
+can we develop a capability of European research institutes to compete in this field, so
+we are not giving money to Australians, Canadians, how do we develop the competence
+of doing such big competences at the European level. (EU3)
+Analysing the narratives of the two European policy-makers, one can clearly feel a
+tension; with the dominance (and quality) of PISA data taken-for-granted, the
+discussion focuses on its impact. There is an evident split between focusing on PISA
+data and its policy directions in order to look at specific issues where standards need
+to be raised and equity gaps closed; and the opinion of those who find PISA data
+
+=== PAGE 13 ===
+34  S. Grek
+useful, but feel that the ‘philosophy’ and principles of governing European educa-
+tion cannot be reduced to the results of one testing instrument. For example: 
+This report gives the information but it doesn’t focus (shows a Eurydice report), it
+doesn’t give policy directions. So if you cut down, personally I would go down to one
+indicator. That would change according to the agenda, but now it is school drop-outs. For
+me, drop-outs or low performance in literacy in PISA. (EU3)
+However, from a different view-point: 
+The ranking of countries is not a problem at the OECD level. It is in the EU. So I would
+say the corpus of data is the same [but]…. OECD has its own product, the EU has its
+own product because it has a different philosophy and a different approach. Not harmon-
+isation of the systems but diversity, working as I said with the convergences using the
+research results. (EU4)
+Finally, it seems important for the Commission to maintain a balanced approach to the
+emphasis and weight they give to surveys from other IOs, such as the IEA, as well: 
+We participate around all discussions around PISA and around TIMSS3 and we are very
+critical of seeing PISA as the ultimate answer of what counts in education. It is a tool
+amongst others, it measures with some instruments that can be improved, our people
+manage to use it to do something. We think that we need to have a much better under-
+standing of what we look for when we look at PISA data and we have argued that we
+should do that by looking at what TIMSS does. Not replace the one with the other but
+look at them together. (EU3)
+Conclusions
+Instruments at work are not neutral devices: they produce specific effects, independently
+of the objective pursued … which structure public policy according to their own logic.
+(Lascoumes and Le Galès 2007, 3)
+This paper has attempted to illustrate quite different PISA ‘results’ both at the national
+as well as the transnational level: from the PISA-surprise of Finland, to the PISA-
+shock of Germany, the PISA-promotion of the UK and the focus by the European
+Commission on the possibilities PISA data have created. What is constant is the
+acceptance of PISA – and the parameters and direction that it establishes – along with
+its incorporation into domestic and European policy-making.
+In particular, PISA data are used to justify change or provide support for existing
+policy direction in both the domestic and the European contexts. This tendency is less
+marked in England: I suggest that England’s relaxed response to PISA stems from its
+long-term investment in high stakes testing, and its highly sophisticated system of data
+production and use. As a consequence, PISA occupies a less central position there. It
+is significant as a measure of a ‘world-class system’ but is perhaps not much needed
+in a policy discourse that justifies its education reforms on the basis of competitive-
+ness and choice, where the process of ‘modernisation’ is already well-established, and
+where there is confidence that national data and policy directions for its use are at the
+leading edge in such developments. Europe, on the other hand, has found in PISA a
+valuable source of data about the systems it is meant to govern – however, political
+choices, such as who produces these data and their cost, how one uses these data to
+
+=== PAGE 14 ===
+Journal of Education Policy  35
+understand different education histories and political contexts, and finally how one
+strikes a balance between the levels of cooperation with other IOs such as the IEA,
+seem to be issues of great concern.
+Responsiveness to PISA across the different participating nations and by other IOs
+can be seen as an instance of what Luhmann has called ‘externalisation’ (Luhmann
+and Schorr 1979 quoted in Steiner-Khamsi 2004). That is, the reference to ‘world situ-
+ations’ enables policy-makers to make the case for education reforms at home that
+would otherwise be contested. Thus ‘local’ policy actors are using PISA as a form of
+domestic policy legitimation, or as a means of defusing discussion by presenting
+policy as based on robust evidence. The local policy actor also signals, to an interna-
+tional audience, through PISA, the adherence of their nation to reform agendas
+(Steiner-Khamsi 2004, 76), and thus joins the club of competitive nations. Moreover,
+the construction of PISA with its promotion of orientations to applied and lifelong
+learning has powerful effects on curricula and pedagogy in participating nations, and
+promotes the responsible individual and self-regulated subject.
+Finally, PISA is a major governing resource for Europe: it provides knowledge and
+information about systems, and implants constant comparison within the EU member
+states – without the need for new or explicit forms of regulation in education. With
+Europeanisation being understood as having the potential to be simultaneously a
+response to, as well as a conduit of, globalisation (Rosamond 2003), PISA clearly
+seems to constitute an important node in the complex task of governing European
+education. This reading of PISA supports this paper’s overarching argument about its
+use and meaning as a political technology: a governing resource for both the national
+agency and the transnational forces of EU and the OECD.
+Notes
+1. The paper derives from on-going work conducted in the Centre for Educational Sociology
+(CES) on the  European Science Foundation Eurocores project ‘Fabricating Quality in
+European Education’, which looks at processes of quality assurance and evaluation in
+education systems by means of data production and use, with a particular emphasis on the
+cases of Scotland, England, Denmark, Sweden and Finland. The UK element of that project
+‘Governing by Numbers’ is funded by ESRC (RES-000-23-1385).
+2. Initials for ‘Unesco-OECD-European Union’.
+3. The IEA Trends in International Mathematics and Science Study.
+Notes on contributor
+Dr Sotiria Grek is a research fellow at the Centre for Educational Sociology, University of
+Edinburgh. Her research focuses on knowledge and education governance, education and
+European integration and the role of international organisations in education policy-making.
+Her current research is conducted within the projects ‘Fabricating quality in European
+education’ (FabQ) (ESRC/ ESF ‘EUROCORES’) 2006–09; and ‘Knowledge and policy: The
+role of knowledge in the construction and regulation of health and education policy in
+Europe:  convergences and specificities among nations and sectors’ (Know+Pol) (European
+Commission Framework 6), 2006–11.
+References
+Ball, S.J. 1998. Big policies/small world: An introduction to international perspectives in
+education policy. Comparative Education 34, no. 20: 119–30.
+Barnett, M.N., and M. Finnemore. 1999. The politics, power and pathologies of international
+organisations. International Organization 53, no. 4: 699–732.
+
+=== PAGE 15 ===
+36  S. Grek
+Brown, P., A.H. Halsey, H. Lauder, and A. Stuart Wells. 1997. The transformation of education
+and society: An introduction. In  Education culture economy society,  ed. A. Halsey, H.
+Lauder, P. Brown, and A. Stuart Wells, 1–44. Oxford: Oxford University Press.
+Council of the European Union. 2000. Presidency conclusions, Lisbon European Council
+(23–24 March 2000). http://europa.eu/european-council/index_en.htm (accessed 17
+September 2006).
+Desrosières, A. 1998.  The politics of large numbers: A history of statistical reasoning.
+Cambridge, MA: Harvard University Press.
+European Network of Policy Makers for the Evaluation of Education Systems. 2004. Reporting
+evaluation findings to policy makers  (Network study). http://cisad.adc.education.fr/reva/
+english/index.htm (accessed 10 February 2007).
+Fairclough, N. 2000. New labour, new language? London: Routledge.
+Federal Ministry of Education and Research. 2007. SINUS, ChiK and PiKo – Improving
+teaching of maths and the sciences. http://www.bmbff.de/en/1254.php (accessed 10
+February 2007).
+Finnish Ministry of Education. 2007. OECD PISA 2006: Excellent results for Finnish
+students. http://www.minedu.fi/OPM/Tiedotteet/2007/12/pisa.html?lang=eng (accessed 25
+January 2007).
+Hacking, I. 1975. The emergence of probability. Cambridge: Cambridge University Press.
+———. 1990. The taming of chance. Cambridge: Cambridge University Press.
+Henry, M., B. Lingard, S. Taylor, and F. Rizvi. 2001. The OECD, globalisation and education
+policy. Oxford: Pergamon.
+Jones, P.W. 2007. Education and world order.  Comparative Education 43, no. 3: 325–37.
+Lascoumes, L., and P. Le Galès. 2007. Understanding public policy through its instruments –
+From the nature of instruments to the sociology of public policy instrumentation.
+Governance 20: 1–21.
+Lingard, B., and S. Grek. 2007. The OECD, indicators and PISA: An exploration of events
+and theoretical perspectives, Fabricating Quality in European Education, Working Paper
+2. http://www.ces.ed.ac.uk/research/FabQ/publications.htm (accessed 29 September
+2007).
+Lingard, B., and S. Rawolle. 2004. Mediatizing educational policy: The journalistic field,
+science policy, and cross-field effects. Journal of Education Policy 19, no. 3: 361–80.
+Lingard, B., S. Rawolle, and S. Taylor, eds. 2005. Globalising policy sociology in education:
+Working with Bordieu. Journal of Education Policy 20, no. 6: 759–77.
+Martens, K. 2007. How to become an influential actor – The ‘comparative turn’ in OECD
+education policy. In Transformations of the state and global governance,  ed. K. Martens,
+A. Rusconi, and K. Lutz, 40–56. London: Routledge.
+Nóvoa, A., and M. Lord, eds. 2002.  Fabricating Europe: The formation of an education
+space. Dordrecht/Boston/London: Kluwer Academic Publishers.
+Nóvoa, A., and T. Yariv-Mashal. 2003. Comparative research in education: A mode of
+governance or a historial journey. Comparative Education 39, no. 4: 423–38.
+OECD. 2001.  Knowledge and skills for life: First results of programme for international
+student assessment. Paris: OECD.
+———. 2003. What is PISA? http://www.pisa.oecd.org/dataoecd/51/27/37474503.pdf
+(accessed 15 October 2007).
+Ozga, J., and B. Lingard. 2007. Globalisation, education policy and politics. In  The
+Routledge-Falmer reader in education policy and politics,  ed. B. Lingard, and J. Ozga,
+65–82. London: Routledge.
+Pongratz, L. 2006. Voluntary self-control: Education reform as a governmental strategy.
+Education Philosophy and Theory 38, no. 4: 471–82.
+Porter, T. 1995. Trust in numbers. Princeton: Princeton University Press.
+Porter, T., and M. Webb. 2004. The role of the OECD in the orchestration of global
+knowledge networks. Paper presented at the International Studies Association Annual
+Meeting, 17 March, in Montreal.
+Prenzel, M., B. Drechsel, C.H. Carstensen, and G. Ramm. 2004. PISA 2003-Eine Einführung
+[PISA 2003: An introduction]. In PISA 2003. Der Bildungsstand der Jugendlichen in Deut-
+schland – Ergebnisse des zweiten internationalen Vergleichs [PISA 2003. Young people’s
+level of education in Germany – Outcomes of the second international comparison], ed. M.
+
+=== PAGE 16 ===
+Journal of Education Policy  37
+Prenzel, J. Baumert, W. Blum, R. Lehmann, D. Leutner, M. Neubrand, R. Pekrun, H.-G.
+Rolff, J. Rost, and U. Schiefele, 13–46. Münster: Waxmann.
+Rinne, R., J. Kallo, and S. Hokka. 2004. Too eager to comply? OECD education policies and
+the Finnish response. European Educational Research Journal 3, no. 2: 454–85.
+Rizvi, F., and B. Lingard. 2006. Globalisation and the changing nature of the OECD’s educational
+work. In Education, globalisation and social change, ed. H. Lauder, P. Brown, J. Dillabough,
+and A.H. Halsey, 247–60. Oxford: Oxford University Press.
+Rosamond, B. 2003. End of Award Report to ESRC on Globalisation, EU Economic Policy
+Communities and the Construction of European Identities (award no L213252024).
+Rose, N. 1992. Governing the enterprising self. In  The values of the enterprise culture,  ed.
+P. Heelas, and P. Morris, 141–64. London: Routledge.
+Scottish Executive Education Department. 2002.  PISA – Scottish report.  Edinburgh: Scottish
+Executive.
+Simola, H. 2005. The Finnish miracle of PISA: Historical and sociological remarks on
+teaching and teacher education. Comparative Education 41, no. 4: 455–70.
+Steiner-Khamsi, G. 2004. The global politics of educational borrowing and lending. Columbia,
+NY: Teachers College Press.
+Taylor, S., F. Rizvi, B. Lingard, and M. Henry. 1997.  Education policy and the politics of
+change. London: Routledge.
+TeacherNet. 2007. PISA 2000 survey. http://www.teachernet.gov.uk/educationoverview/
+international/pisa/pisa 2000/ (accessed 28 January 2007).
+Välijärvi, J., P. Linnakylä, P. Kupari, P. Reinikainen, and I. Arffman. 2002.  The Finnish
+success in PISA – And some reasons behind it.  Jyväskylä: Institute for Educational
+Research, University of Jyväskylä.
+Wuttke, J. 2006. Fehler, Verzerrungen, Unsicherheiten in der PISA Auswertung [Mistakes,
+biases, uncertainties in the PISA analysis]. In  PISA & Co: Kritik eines Programms  [PISA
+& Co: Critique of a programme], ed. T. Jahnke, and W. Meyerhöfer, 101–54. Hildesheim/
+Berlin: Franzbecker.
+
