@@ -616,6 +616,19 @@ def git_files_at_head(rel_paths: List[str]) -> Dict[str, str]:
     return files
 
 
+_REVIEW_ID_RE = re.compile(r"待审查 \[[0-9a-f]{16}\]")
+
+
+def writing_baseline_key(issue: "Issue") -> Tuple[str, str, str, str]:
+    """CI (--base) only: identify a writing hit by its visible context, not by
+    its review ID. The ID hashes the raw line, so link-only edits (relinking,
+    alias cleanup) change it although the sentence itself is unchanged."""
+    # Link rendering adds spaces around link text and the context is cut at
+    # 160 chars, so compare whitespace-free text over a stable prefix.
+    head, _, context = _REVIEW_ID_RE.sub("待审查", issue.message).partition(" 语境：")
+    return ("WRITING", issue.path, issue.code, head + "|" + re.sub(r"\s+", "", context)[:100])
+
+
 def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_citations) -> "Counter[Tuple[str, str, str]]":
     """WARN/INFO findings each file already had at the baseline, keyed by
     (path, code, message) - line numbers ignored so shifted text still matches."""
@@ -624,9 +637,12 @@ def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_c
     rels = {p: unicodedata.normalize("NFC", rel(p)) for p in files}
     head = git_files_at_head(sorted(set(rels.values())))
     jobs = [(p, head[rels[p]]) for p in files if rels[p] in head]
+    base_mode = bool(os.environ.get("VAULT_LINT_BASE"))
     for issue in lint_files(jobs, by_title, path_to_title, argument_citations, baseline=True):
         if issue.severity in ("WARN", "INFO") and issue.code not in WRITING_REMINDER_CODES:
             keys[(issue.path, issue.code, issue.message)] += 1
+        elif base_mode and issue.code in WRITING_REMINDER_CODES:
+            keys[writing_baseline_key(issue)] += 1
     entry_metadata.cache_clear()
     return keys
 
@@ -3731,6 +3747,8 @@ def lint_files(items, by_title, path_to_title, argument_citations, baseline: boo
 
 # Set by lint_vault(): how many pre-existing warnings were hidden.
 HIDDEN_PREEXISTING_WARNINGS = 0
+# --base only: writing hits already present at the base commit.
+HIDDEN_PREEXISTING_WRITING = 0
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, all_warnings: bool = False) -> List[Issue]:
@@ -3791,7 +3809,11 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
 
     file_issues = lint_files(unique_files, by_title, path_to_title, argument_citations)
     hidden = 0
+    hidden_writing = 0
     if baseline:
+        # CI (--base) gates only writing hits that are new relative to the
+        # base commit; local incremental lint still lists every unresolved one.
+        base_mode = bool(os.environ.get("VAULT_LINT_BASE"))
         kept: List[Issue] = []
         for issue in file_issues:
             key = (issue.path, issue.code, issue.message)
@@ -3799,9 +3821,17 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
                 baseline[key] -= 1
                 hidden += 1
                 continue
+            if base_mode and issue.code in WRITING_REMINDER_CODES:
+                wkey = writing_baseline_key(issue)
+                if baseline.get(wkey, 0) > 0:
+                    baseline[wkey] -= 1
+                    hidden_writing += 1
+                    continue
             kept.append(issue)
         file_issues = kept
     HIDDEN_PREEXISTING_WARNINGS = hidden
+    global HIDDEN_PREEXISTING_WRITING
+    HIDDEN_PREEXISTING_WRITING = hidden_writing
     issues.extend(file_issues)
 
     argument_check_files = list(unique_files)
@@ -3875,6 +3905,8 @@ def main() -> int:
             print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_exceptions.json 添加经审查批准的 ID 后再运行 lint。")
             for line in writing_review_legend(i.code for i in pending_writing):
                 print(line)
+        if HIDDEN_PREEXISTING_WRITING:
+            print(f"(--base: {HIDDEN_PREEXISTING_WRITING} writing review item(s) already present at the base commit are not gated; run lint locally to review them.)")
         if HIDDEN_PREEXISTING_WARNINGS:
             print(f"(Unresolved writing reviews are always listed; {HIDDEN_PREEXISTING_WARNINGS} other baseline warning/info item(s) hidden. Use --all-warnings to show them.)")
 

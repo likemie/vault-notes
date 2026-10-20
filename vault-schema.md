@@ -382,7 +382,7 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），本地与 CI 共用这一入口。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 隐藏基线已有的普通警告（按检查项与提示内容比对，行号变化不影响），未审查的写作用词与句式命中始终列出；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试。
 
 `vault_index.py` 在刷新引用索引后，对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
-2. 发布：GitHub Actions 运行 `scripts/vault_lint.py`（期刊注册表、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。
+2. 发布：GitHub Actions 运行 `scripts/vault_lint.py`（期刊注册表、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。CI 使用 `--base` 模式时，写作审查只拦截相对推送基准新增或改写的命中（按条目路径、检查项与去链接后的可见语境比对）；基准中已存在的未审查命中不阻断发布，仍由本地 lint 列出，按本地门禁要求处理。
 
 手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/vault_lint.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。
 
