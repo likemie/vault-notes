@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[Dialogue in Education]]"
-  - "[[Growth]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Ways of Knowing]]"
@@ -70,7 +69,7 @@ related_theories:
   - "[[Knowledge Building Theory]]"
 status: draft
 created: 2026-07-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Lakhani_2012_AKUIED
 
@@ -155,7 +154,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > | **Ariana** | 15 | 从 [[International Baccalaureate\|IB]] 中学项目（MYP）过渡至 DP；此前在肯尼亚接受 O-level 课程教育 | 积极参与：主动发言、回应他人观点、在作业中尝试超出课堂内容的例子 | **主动探索型自主** 最完整的 [[International Baccalaureate\|IB]] 教育轨迹与跨国教育经历（肯尼亚 $\rightarrow$ 巴基斯坦），赋予其极高的课程准备度与积极探索能力。三者中年龄最小（p.146）。 |
 > | **Ayaan** | 19 | 完成巴基斯坦 Matriculation 考试，在软件公司工作后加入 IBDP | 替代性参与：课堂发言较少，但在阅读中深度反思，课余与教师单独探讨问题 | **深度反思型自主** 中学毕业后工作的间隔期（gap）赋予其不同的学习动机与[[Metacognition\|元认知]]深度，展现出非正式互动的自主性。三者中年龄最大（p.147）。 |
 > | **Sabaina** | 16 | 完成传统英式 O-level 体系（中等教育）后直接转入 IBDP | 依赖型参与：参与度较低，对学习能力存在不确定性，依赖外部确认与指导 | **受阻依赖型自主（反例）** 从传统应试体系向探究体系的过渡期，虽有基本认知能力，但因缺乏自我信心（self-confidence）导致自主实践受阻，构成了解析机制的关键反例（p.148）。 |
-> | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与[[Creativity\|创造性]]思维 M.Ed.，五年教学经验 | 引导与[[Dialogue in Education\|对话]]：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知[[Growth\|成长]]的弹性边界（p.149）。 |
+> | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与[[Creativity\|创造性]]思维 M.Ed.，五年教学经验 | 引导与[[Dialogue in Education\|对话]]：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知成长的弹性边界（p.149）。 |
 
 > [!warrant]- 参与者[[Heterogeneity\|异质性]]的分析价值
 > 三位学生不同的参与模式——Ariana 的主动探索、Ayaan 的课后深度追问、Sabaina 的自信不足——是将自主性的条件机制（能力与信心）从背景[[Variable\|变量]]中分离出来的关键证据。如果三位学生背景相同且表现一致，就只能描述 TOK 中发生了什么，而无法解释什么条件下自主性能够或不能发展。

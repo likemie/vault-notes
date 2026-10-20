@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Champ]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Postmodernism]]"
 related_methods:
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # World Council of Comparative Education Societies
@@ -107,7 +106,7 @@ updated: 2026-10-16
 > [!citation-card] 爱泼斯坦与拉斯特论世界学会联合会与学科国际化扩展
 > 欧文·爱泼斯坦（Erwin Epstein, 1981）将比较教育学走出欧美核心圈的过程界定为“比较教育的国际化”（internationalization of comparative education）。这一领域的跨国扩展，最生动地体现在 1970 年成立的世界比较教育学会联合会（WCCES）的壮大历程中——从最初以欧美少数社团为主，稳步发展为囊括各大洲 33 个成员学会并在古巴哈瓦那等地召开多届世界大会的全球学术网络，标志着学科摆脱了单一的欧洲中心主义，走向真正的全球多中心时代。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]
 >
-> *"The expansion of the [[Champ|field]] is best illustrated by the [[Growth]] of the World Council of Comparative Education Societies (WCCES) that was organized in 1970 to advance the field globally... 33 different comparative education societies are listed as members of the World Council."* (Epstein, 1981; cited in Rust et al., 2009, pp. 129–130)
+> *"The expansion of the [[Champ|field]] is best illustrated by the growth of the World Council of Comparative Education Societies (WCCES) that was organized in 1970 to advance the field globally... 33 different comparative education societies are listed as members of the World Council."* (Epstein, 1981; cited in Rust et al., 2009, pp. 129–130)
 
 ---
 

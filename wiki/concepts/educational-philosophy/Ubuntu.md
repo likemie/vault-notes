@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ubuntu
@@ -195,6 +195,6 @@ updated: 2026-10-16
 
 乌班图概念在当代教育哲学、技术伦理学与社会理论中形成了持续扩展的跨学科研究脉络。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] 探讨[[Posthumanism|后人类主义]]时代的教育重构，将乌班图与 [[Buen Vivir]] 定位为具有家族相似性的非西方关系哲学传统，倡导超越[[Transhumanism|超人类主义]]的个体优化偏狭。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] 探讨[[Generative Artificial Intelligence|生成式人工智能]]时代的[[Formative Epistemic Injustice|成长性认识不正义]]，借鉴乌班图医疗算法治理三大原则，结合[[Critical Pedagogy|批判教育学]]重构人机协作中的防御性教学规程。

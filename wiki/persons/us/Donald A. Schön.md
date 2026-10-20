@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Donald A. Schön
@@ -157,7 +157,7 @@ updated: 2026-10-17
 > - **教育行政合法化与循证神话解构（政策社会学路径）**
 >   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将舍恩的[[Technical Rationality|技术理性]]批判延伸至当代[[Evidence-Based Education|循证教育]]合成体系；一方面结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论，揭示教育行政官僚系统采纳《[[Visible Learning|可见的学习]]》手段-目的因果承诺以平息治理危机的机制；另一方面细读其底层[[Meta-analysis|元分析]]数据，揭示其工程化[[Independent Variable|自变量]]还原在微观教学中诱发了[[Construct|构念]]混淆、阶级盲偏误与[[Neo-Taylorism|新泰勒主义]]劳动[[Disciplina and Doctrina|规训]]。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将舍恩的反思性实践模型与西蒙有限理性理论整合，构建教师专业判断的[[Analytic Framework|理论分析框架]]（p. 6）。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩的技术理性批判剖析[[John Hattie|哈蒂]]《可见的学习》，揭示其将工程医学因果模型硬套于教学并为国家教育合法化危机提供防御掩体的机制（pp. 81–82, 87–89）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩技术理性对工程与医学模型移植的批判，细读哈蒂反馈效应元分析底层数据，揭示其[[Positivism|实证主义]]非理论化修辞掩盖下的[[Behaviorism|行为主义]]预设、构念混淆与新泰勒主义规训本质（pp. 3–15）。

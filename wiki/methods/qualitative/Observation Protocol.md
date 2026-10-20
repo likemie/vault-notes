@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Observation Protocol
@@ -230,7 +230,7 @@ updated: 2026-10-16
 
 当前 vault 中关于观察协议的方法学规范与实证应用索引如下。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — [[Qualitative Research|质性研究]]方法经典教材，详述观察协议的双栏物理切分设计、田野速记策略与[[Reflexivity|反身性]]记录规范。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，全面确立包含时间快照扫描、事实笔记留痕、行为锚定量规与分段密封机制的现代化课堂观察协议体系。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 教育研究方法经典专著，系统辨析[[Structured Observation|结构化观察]]表、半结构化记录单与非结构化质性备忘录的适用情境与效度边界。

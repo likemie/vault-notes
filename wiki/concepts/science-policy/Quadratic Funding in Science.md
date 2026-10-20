@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Quadratic Funding in Science
@@ -136,5 +136,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将二次方资助纳入美国联邦 2028 财年研发预算优先事项与[[Metascience|元科学]]试点机制。

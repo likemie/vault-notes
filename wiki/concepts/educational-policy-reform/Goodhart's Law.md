@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Goodhart's Law
@@ -195,6 +195,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与文献计量的古德哈特定律异化，提出[[Dynamic Research Notebook|动态研究笔记本]]与去中心化交流核验体系。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示超国家机构量化指标帝国的自指性生产机制及其对比较教育学科[[Paradigm|范式]]的扭曲。

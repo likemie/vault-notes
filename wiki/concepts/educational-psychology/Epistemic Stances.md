@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 53
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Competitiveness]]"
   - "[[Epistemic Agency]]"
-  - "[[Growth]]"
   - "[[Epistemic Community]]"
   - "[[Champ]]"
   - "[[Falsification]]"
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Stances
@@ -114,7 +113,7 @@ updated: 2026-10-16
 > [!citation-card] 人机共生环境中的自适应认识立场
 > 人机共享[[Epistemic Agency|认识能动性]]为双向智力增长创造了机遇。要释放这一潜力，学习者必须采取自适应认识立场，主动跨越绝对论盲从与多元论虚无，确立基于证据的评价论立场。[[Argument_Wu_2025_ER|(Wu et al., 2025, p. 360)]]
 >
-> *This shared epistemic agency between humans and GenAI [[CREATES Project|CREATES]] opportunities for mutual intellectual [[Growth]]. To fully leverage this potential, learners must adopt an adaptive epistemic stance.*
+> *This shared epistemic agency between humans and GenAI [[CREATES Project|CREATES]] opportunities for mutual intellectual growth. To fully leverage this potential, learners must adopt an adaptive epistemic stance.*
 
 > [!boundary]- 概念边界
 > - **不等于认识论信念（Epistemological Beliefs）** 认识论信念指向对知识本质的抽象元信念（例如知识究竟是简单孤立的还是复杂网状的）；认识立场则指向面对具体特定命题或信源时的具象承诺态度。
@@ -263,7 +262,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在[[Man-Computer Symbiosis|人机协同]]解决问题中的表现与转化机制，并建立双轨支架干预模型。
 > - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将适应性认识立场引入人工智能中介学习审思，论证根据中介形态自适应调整立场是抵御[[Epistemic Dependence|认识依赖]]与维护主体性的关键机制。

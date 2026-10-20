@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Zone of Proximal Development
@@ -316,7 +316,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 本 vault 中关于最近发展区及其支架化拓展的核心文献索引如下。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 将 AI [[AI Agent in Education|智能体]][[Operationalization|操作化]]为基础教育学生的外部[[Scaffolding|认知脚手架]]，论证其在最近发展区内自适应微提示对[[Procedural Skill|程序技能]]与[[Higher-Order Thinking Skills|高阶思维]]的赋能机制（pp. 2, 9–10）。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，依托微观行为协议为在职教师绘制实践画像，通过配套 Coach 规程在教师最近发展区内实施一对一针对性辅导。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 阐述导师在[[Apprenticeship|学徒制]]与认知脚手架中如何在最近发展区内示范专家思维、提供反思线索以促进[[Critical Thinking|批判性思维]]（pp. 287–288）。

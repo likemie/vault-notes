@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
-  - "[[Growth]]"
   - "[[Hawthorne Effect]]"
   - "[[Socioeconomic Status]]"
   - "[[Effective Teaching]]"
@@ -74,7 +73,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
 created: 2026-08-26
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Learning Gain
@@ -110,7 +109,7 @@ updated: 2026-10-19
 > [!contrast-table] 学习增益在不同研究层面的[[Paradigm\|范式]]对比
 > | 维度 | 教学实验中的微观学习增益 | 高等教育纵向增值评价 | 教师效能增值模型（VAM） |
 > |---|---|---|---|
-> | **[[Unit of Analysis\|分析单位]]** | 教学单元、实验课时或项目周期 | 大学本科 3–4 年全周期[[Growth\|成长]] | 学区内班级学生年度统考成绩 |
+> | **[[Unit of Analysis\|分析单位]]** | 教学单元、实验课时或项目周期 | 大学本科 3–4 年全周期成长 | 学区内班级学生年度统考成绩 |
 > | **测量技术** | 概念测验、探究技能任务前后测（$d$ 或 $g$） | 标准化通用能力测验（[[Collegiate Learning Assessment\|CLA+]]）、表现性量规 | 多层线性回归（[[Hierarchical Linear Model\|HLM]]）残差增值统计 |
 > | **核心归因目标** | 识别特定教学策略（如支架式探究 vs [[Direct Instruction\|直接教学]]）的净效应 | 评估大学教学法与课程设计的整体赋能效能 | 评估任课教师个人对学生统考分数的独立边际贡献 |
 > | **典型风险** | [[Hawthorne Effect\|霍桑效应]]、测试工具敏感度局限 | 学生低利害作答动机涣散、配对[[Attrition\|样本流失]] | 惩戒性人事规制瓦解教师专业信任生态 |

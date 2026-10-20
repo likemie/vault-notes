@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Jacob Cohen
@@ -178,7 +178,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 详尽追溯科恩关于小/中/大[[Effect Size|效应量]]分类的语境条件，揭示 $d$ 与显著性检验依赖[[Sample Size Determination|样本量]]（$t = d\sqrt{n}$）的数理机制，批判面向政策实践的教条化误读（pp. 43–45）。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 记录科恩关于身高差异（160cm 对比 183cm）的直观隐喻，阐明 Cohen's $d$ 作为标准化差异语言而非价值排序的本质（p. 427）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-analysis|元分析]]中混用 Cohen's $d$、Glass's $\Delta$ 与 Hedges' $g$ 造成的除数混乱与测度偏差，批判忽略[[Confidence Interval|置信区间]]的点估计座次排序（pp. 26–27, 29–30）。

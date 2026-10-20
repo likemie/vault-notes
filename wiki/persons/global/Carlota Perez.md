@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Carlota Perez
@@ -113,7 +113,7 @@ updated: 2026-10-16
 > - **政策路径** 其制度滞后与绿色技术[[Paradigm|范式]]转型理论被 [[OECD]]、[[EU|欧盟]]委员会及联合国贸发会议（UNCTAD）广泛采纳为产业与科技政策制定的理论参考。
 > - **教育研究启示** 揭示了职业技能培训与[[Engineering Education|工程教育]]若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引佩雷斯关于制度框架滞后的论断，阐释为什么微电子革命必须伴随着国家层面的教育调适、组织变革与多样性公共政策保障。
 
 ---

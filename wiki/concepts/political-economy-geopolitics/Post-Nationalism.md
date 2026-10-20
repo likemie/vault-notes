@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Post-Nationalism
@@ -174,5 +174,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度批判当代西方后国家主义思潮，论证解构国家认同在经济分层、社会部落化与防卫意志瘫痪等维度的严重恶果，系统构建[[Technological Republic|技术共和国]]的[[Hard Power|硬实力]]、软信仰与国家叙事复兴方案。

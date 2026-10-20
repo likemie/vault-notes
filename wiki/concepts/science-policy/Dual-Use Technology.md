@@ -7,7 +7,7 @@ aliases:
 summary: "兼具军事国防与民用商业应用潜力的前沿技术范式；在产业生命周期早期表现为国防研发与采购对民用创新的单向衍生溢出，随着民用市场规模反超与技术规范分化，逐渐演进为民用前沿向国防系统回哺的逆向溢出。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Total Factor Productivity]]"
-  - "[[Growth]]"
   - "[[General Purpose Technology]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Learning by Doing]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dual-Use Technology
@@ -61,7 +60,7 @@ updated: 2026-10-16
 > [!citation-card] 军用技术向民用外溢的历史条件
 > 国防研发资金是战后美国信息技术产业发展最重要的创新驱动力之一。然而，国防相关研发与采购支持的影响力之大，恰恰得益于此类公共干预发生在这些产业的初创萌芽阶段。随着信息技术产业走向成熟，国防部对半导体、计算机硬件及软件产业的影响力显著衰减，技术流动的方向逐渐反转。（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, p. 41]]）
 >
-> *It is difficult to overstate the importance of defense-related support for R&D and, especially in industries such as computer hardware or semiconductors, procurement, which together accelerated the [[Growth]] of U.S. firms... But the influence of defense-related funding for R&D and procurement was enhanced by the fact that such public intervention occurred at the inception of these industries. As the IT sector developed, DoD R&D and procurement contracts exercised less influence over the semiconductor, computer hardware, and computer software industries.* [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 41)]]
+> *It is difficult to overstate the importance of defense-related support for R&D and, especially in industries such as computer hardware or semiconductors, procurement, which together accelerated the growth of U.S. firms... But the influence of defense-related funding for R&D and procurement was enhanced by the fact that such public intervention occurred at the inception of these industries. As the IT sector developed, DoD R&D and procurement contracts exercised less influence over the semiconductor, computer hardware, and computer software industries.* [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 41)]]
 
 > [!boundary]- 概念边界
 > - 不等于 [[General Purpose Technology|通用目的技术]] — 通用目的技术强调的是技术在国民经济多个民用生产部门间的广泛横向渗透与互补性创新（如电力、蒸汽机、互联网）；而军民两用技术特指跨越“国防安全—民用商业”两大体制域的技术双向转移与制度共演。

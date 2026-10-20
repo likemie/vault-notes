@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-18
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Deception in Research
@@ -223,7 +223,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5, pp. 109–114)]] — 系统梳理研究欺骗的概念分类、功利主义证成、Kelman 治理框架、事后说明（Debriefing）操作规范以及 [[American Educational Research Association|AERA]] 伦理标准。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 从科技组织微观机制视角深入反思阿施与[[Stanley Milgram|米尔格拉姆]]欺骗实验的认知遗产，揭示人类克服盲目从众与发展[[Constructive Disobedience|建设性不服从]]的科学路径。
 

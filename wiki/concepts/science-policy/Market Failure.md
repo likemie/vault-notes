@@ -81,7 +81,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Market Failure
@@ -317,7 +317,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐明跨部门中试基础设施漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与硬件根信任度量衡如何作为国家公共品矫正深科技创新链的转化与安全市场失灵。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统批判了新古典市场失灵理论在科技创新政策中的方向性缺失，论证了国家从“被动修补”转向“主动塑造与创造市场”的必要性。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 梳理了半导体产业中[[Agglomeration Externalities|集聚外部性]]与[[Learning by Doing|干中学]]等经典市场失灵依据，并揭示了 2020 年代[[Modern Industrial Policy|现代产业政策]]如何由经济效率修补[[Paradigm|范式]]演进为国家安全与供应链保险逻辑。

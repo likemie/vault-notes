@@ -116,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Quasi-Experimental Designs
@@ -280,7 +280,7 @@ updated: 2026-10-17
 > - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线[[Pre-test and Post-test\|前测]]分数完全平衡，来自优势社区学校的对照组学生其自然认知成长斜率可能显著快于薄弱校干预组，导致因果估计产生系统性正向或负向偏倚（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 318–320]]）。
 > - **不可测混杂与遗漏[[Variable\|变量]]偏倚（Omitted Variable Bias）** [[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归控制仅能平衡已观测到的协变量，无法控制教师教学热情、学生求知动机与家庭教养风格等不可测潜变量。
 > - **均值回归假象（Regression to the Mean）** 当依据前测极端低分筛选补救干预对象时，后测成绩的提高往往部分源于极端测验误差的统计回归，而非干预方案的纯因果实效。
-> - **设计参数[[Incommensurability|不可通约性]]与跨设计混杂（Design Parameter Incommensurability）** 比较独立两组的组间准实验与追踪同一受试群体的组内前后测设计估计的是完全不同的总体参数（Morris & DeShon, 2002）。二阶[[Metascience|元科学]]审计证实，《[[Visible Learning|可见的学习]]》等宏观证据库存在严重的方法学违规——全库多达 17% 的因素直接混合组间与组内前后测，21% 混合组间实验与[[Correlational Research|相关研究]]，彻底摧毁了[[Effect Size|效应量]]的可[[Commensuration|通约]]性与因果解释力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 15–16]]）。
+> - **设计参数[[Incommensurability|不可通约性]]与跨设计混杂（Design Parameter Incommensurability）** 比较独立两组的组间准实验与追踪同一受试群体的组内前后测设计估计的是完全不同的总体参数（Morris & DeShon, 2002）。二阶[[Metascience|元科学]]审计证实，《[[Visible Learning|可见的学习]]》等宏观证据库存在严重的方法学违规——全库多达 17% 的因素直接混合组间与组内前后测，21% 混合组间实验与[[Correlational Research|相关性研究]]，彻底摧毁了[[Effect Size|效应量]]的可[[Commensuration|通约]]性与因果解释力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 15–16]]）。
 > - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 177]]）。
 > - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials\|RCT]] 一样，若仅报告平均[[Effect Size\|效应量]]，会系统性遗漏学校采纳最急需的微观实施成本、师生满意度与本地适配指南（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]]）。
 

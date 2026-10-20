@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Konrad Lorenz
@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **人际心理学路径** 启发戏剧家[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）将动物等级争斗提炼为人类日常微观互动中的[[Status Transactions|地位交易]]模型。
 > - **组织社会学路径** 被卡普与扎米斯卡用于批判传统科层企业中固化的职位种姓制与对基层创新的压制。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]] — 卡普与扎米斯卡援引劳伦兹对寒鸦等级压迫的经典论述，对照剖析传统大企业多层[[Bureaucracy|科层制]]对基层野心与创意向上传导的扼杀。
 
 ---

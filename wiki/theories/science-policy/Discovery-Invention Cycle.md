@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Discovery-Invention Cycle
@@ -172,5 +172,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 首次系统提出发现-发明循环理论，以 1956–2009 年信息通信领域的六届诺贝尔物理学奖谱系为实证支撑，全面批判[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]。

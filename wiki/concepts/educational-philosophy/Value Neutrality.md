@@ -121,7 +121,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Value Neutrality
@@ -371,7 +371,7 @@ updated: 2026-10-17
 
 价值中立概念的演进在西方教育学术文献中积累了丰硕的论述。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism|实证主义]]预设及其遭受的批判，剖析[[Reflexivity|反身性]]与价值负荷对客观中立神话的解构。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统剖析早期比较教育文献，指出朱利安[[Questionnaire|问卷]]对道德宗教与全人教化的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。

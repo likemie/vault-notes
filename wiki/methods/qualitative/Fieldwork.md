@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fieldwork
@@ -181,7 +181,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.7)]] — 系统阐明田野调查的定义、基本特征、[[Phenomenology|现象学]][[Epistemology|认识论]]基石以及进入现场、搜集资料与[[Rich and Thick Description|深描]]呈现的完整规范。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 深入华北某区域 4 所案例学校开展实地[[Qualitative Observation|田野观察]]并记录同行评课研讨的[[Field Notes|田野笔记]]，交叉验证校长与教师的教学改进决策。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。

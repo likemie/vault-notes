@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Undirected Cooperation
@@ -171,5 +171,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, pp. 115, 120–121)]] — 专著第 10 章以[[Eck Swarm Experiment|埃克蜂群]]与罗马[[Flocking Behavior|椋鸟群飞]]为核心证据，系统阐释了无指挥协同作为动物超级有机体心智奇迹与现代高敏捷初创工程文化的理论基石。

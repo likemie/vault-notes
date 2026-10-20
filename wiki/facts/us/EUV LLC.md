@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # EUV LLC
@@ -155,5 +155,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 剖析 1997 年 EUV LLC 如何联合三个国家实验室攻克极紫外光刻，提炼前竞争联合体的适用条件，并指出缺乏本土制造承接使商业红利落入外国企业。

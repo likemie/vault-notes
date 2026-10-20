@@ -241,7 +241,7 @@ updated: 2026-10-20
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用跨国多边政策[[Discourse|话语]]比较分析解构[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]与[[OECD|经合组织]]政策文本中的深层预设同构，揭示信息时代通用模型对受援国政策话语空间的排他性收拢机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维批判性话语分析（文本框架、话语实践互文性、宏观社会实践）与巴斯卡解释性批判，系统解构中国“一带一路”跨国高等教育政策文本的深层地缘机制与国家复兴宏大叙事。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22–23, 31)]] — 系统介绍[[Discourse|话语]]分析定义及其批判维度，并通过课堂会话与自传示范完整文本的情境化多层解释（另见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Ch. 31]]）。

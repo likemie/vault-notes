@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Heilmeier Catechism
@@ -153,6 +153,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 考证[[George Heilmeier|乔治·海尔迈耶]]确立经典[[Questionnaire|问卷]]的历史背景，剖析其如何推动 [[DARPA]] 从分散式研究转向使命导向与里程碑严格问责。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）报告论述海尔迈耶问答（Heilmeier Catechism）在防范联邦科研资助平庸化与开展组合独立审计中的现代制度价值。

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Critical Discourse Analysis
@@ -166,5 +166,5 @@ updated: 2026-10-19
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、[[Policy Framing|政策框架]]理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与地缘政治逻辑。

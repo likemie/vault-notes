@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Critical Theory
@@ -253,7 +253,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。

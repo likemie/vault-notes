@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Recognition Theory
@@ -203,7 +203,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引入[[Axel Honneth|霍耐特]]承认理论与舍恩[[Technical Rationality|技术理性]]批判，系统解构[[John Hattie|哈蒂]]可见学习如何剥离师生[[Intentionality|意向性]]并造成教育关系的[[Dehumanization|物化异化]]（pp. 14–15）。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 结合[[Jürgen Habermas|哈贝马斯]]生活世界殖民论与霍耐特承认论，指出当代教育心理学正沦为官僚应对[[Legitimation Crisis|合法化危机]]的技术掩体。
 > - [[Critical Theory]] — 将承认理论作为法兰克福学派第三代推进批判理论[[Epistemology|认识论]]与主体间机制的核心组成部分。

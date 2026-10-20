@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Pillarization
@@ -270,5 +270,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 考证荷兰柱状化体制及其宪法教育自由对公共教育规制网络形成的决定性影响，深入论述 1980 年代 HBO 跨宗派大兼并与[[Steering at a Distance|远距离操纵]][[Paradigm|范式]]的解柱化突围历程。

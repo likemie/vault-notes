@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Network Society
@@ -217,7 +217,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 将网络社会理论应用于[[Geopolitics of Higher Education|高等教育地缘政治]]，分析跨国科研合作从封闭等级联盟向灵活项目网络的历史演变，以及学术、经济与外交多重理性的网络化交织。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与网络国家概念，分析[[Global Policy Space|全球政策空间]]中能力[[Discourse|话语]]的[[Floating Signifier|漂浮能指]]化及在阿根廷、巴西两国的层级转译。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合流动空间与[[Basil Bernstein|伯恩斯坦]][[Champ|场域]]理论，构建全球教育场域五位置网络模型，实证揭示国际组织过度简化与微观落地异化。

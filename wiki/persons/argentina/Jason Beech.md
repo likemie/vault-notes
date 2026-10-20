@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Jason Beech
@@ -238,7 +238,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 首创全球教育[[Champ|场域]]五位置模型，揭示跨国组织双重垄断与拉美[[Gatekeepers|守门人]]机制，并以阿根廷与巴西实证确证微观[[Recontextualization|再情境化]]脱节。
 > - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 引入[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]，解构比较教育中[[Policy Borrowing|政策借用]]与转移的容器隐喻，提倡多中心[[Discourse|话语]]流通视角。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]][[Paradigm|范式]]解构[[Global Policy Space|全球政策空间]]中“能力发展”与“尊重多样性”话语向[[Floating Signifier|漂浮能指]]的演进轨迹。

@@ -86,7 +86,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Critique of Meta-analysis
@@ -360,7 +360,7 @@ updated: 2026-10-17
 > 探讨二阶元分析与[[Umbrella Review|伞状综述]]中由于跨设计参数混淆与历史文献递归纳入所引发的致命统计假象。
 
 > [!claim] Morris, S. B. & DeShon, R. P. (2002) / [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **不同研究设计估计截然不同的总体参数而不可直接池化** 莫里斯与德尚（Morris & DeShon, 2002）指出，独立样本组间实验设计（Between-subject）与追踪同一群体的组内前[[Pre-test and Post-test|后测]]设计（Within-subject）估计的是截然不同的总体参数——组间效应量基于独立个体间的变异进行标准化，而组内设计则取决于前后测相关系数与变化分数的标准差。若未经严密的协方差矩阵参数转换而直接算术平均，在数学统计上根本无法成立。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对《[[Visible Learning|可见的学习]]》全量审计证实：全库仅有 30% 的影响因素纯粹基于组间实验，高达 27%（82 项）将组间实验与纯粹描述性[[Correlational Research|相关研究]]混为一谈，另有 10% 混入全部三类设计；这种违背总体参数[[Incommensurability|不可通约性]]的违规合并，彻底摧毁了二阶效应量的因果[[Interpretive Validity|解释效度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
+> **不同研究设计估计截然不同的总体参数而不可直接池化** 莫里斯与德尚（Morris & DeShon, 2002）指出，独立样本组间实验设计（Between-subject）与追踪同一群体的组内前[[Pre-test and Post-test|后测]]设计（Within-subject）估计的是截然不同的总体参数——组间效应量基于独立个体间的变异进行标准化，而组内设计则取决于前后测相关系数与变化分数的标准差。若未经严密的协方差矩阵参数转换而直接算术平均，在数学统计上根本无法成立。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对《[[Visible Learning|可见的学习]]》全量审计证实：全库仅有 30% 的影响因素纯粹基于组间实验，高达 27%（82 项）将组间实验与纯粹描述性[[Correlational Research|相关性研究]]混为一谈，另有 10% 混入全部三类设计；这种违背总体参数[[Incommensurability|不可通约性]]的违规合并，彻底摧毁了二阶效应量的因果[[Interpretive Validity|解释效度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **重复计数（Double-Counting Bias）导致早期陈旧研究权重畸高并固化历史偏倚** 在二阶综合中，若不加甄别地汇总跨越数十年的元分析，后期的元分析通常会重新纳入早期元分析收录过的经典实验。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）揭示：当二阶综合简单将各元分析平均相加时，1980 年代的早期实验被重复计算了数次甚至数十次，在无形中赋予了陈旧实验以不成比例的巨大数学权重。即使近年来[[Emergence|涌现]]出更具因果效力的大规模严谨实验，其结论也难以撼动被历史陈旧文献层层堆叠固化的平均效应量，阻碍了证据体系的动态自纠与更新。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 16–18, 21)]]
@@ -420,5 +420,5 @@ updated: 2026-10-17
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 从支持者立场提供元分析的方法论回顾，包含可比性案例和嵌套数据问题。
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] — 通过[[Whole Language\|全语言]]案例审查揭示元-元分析中的分类错误和选择性修正。
 > - [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] — 识别元-元分析中跨教育阶段混合综合导致的排名扭曲。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对 322 个影响因素开展全量[[Metascience|元科学]]审计，揭示组间与组内设计总体参数[[Incommensurability|不可通约性]]混淆（27% 混杂[[Correlational Research|相关研究]]）、双重计数固化陈旧文献偏倚，以及仅 0.66% 数据提取可复现的深层统计崩溃。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对 322 个影响因素开展全量[[Metascience|元科学]]审计，揭示组间与组内设计总体参数[[Incommensurability|不可通约性]]混淆（27% 混杂[[Correlational Research|相关性研究]]）、双重计数固化陈旧文献偏倚，以及仅 0.66% 数据提取可复现的深层统计崩溃。
 > - [[Meta-analysis]] — 方法定义、操作步骤和适用场景，其局限性章节已整合至本条目。

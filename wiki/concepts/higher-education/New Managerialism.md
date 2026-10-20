@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # New Managerialism
@@ -175,6 +175,6 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 论证新自由主义全球化如何在微观上通过新管理主义重构高等教育运行逻辑，并与宏观世界体系的资本积累需求形成联动。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯新西兰高教治理史，论述如何通过立法确立大学作为[[Critic and Conscience of Society|社会的批评者与良知]]，抵御新管理主义与财政依附对学术独立性的侵蚀。

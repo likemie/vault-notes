@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 79
+related_count: 78
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
-  - "[[Growth]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Theoretical Knowledge]]"
   - "[[Disciplina and Doctrina]]"
@@ -127,7 +126,7 @@ updated: 2026-10-20
 > [!citation-card]- 经典界定
 > 一种实际存在的经济，资本的首要方面是“一般智识”（General Intellect）在知识和设计密集型商品形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用。在一个真正的 KBE 中，知识被[[Reflexivity\|反身性]]地应用于知识的生产，大多数部门趋向于变得更加知识密集化。（Sum & Jessop, 2013, p. 284, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp. 23–24]]）
 >
-> *An economy in which the production, distribution, and use of knowledge is the main driver of [[Growth]], wealth creation and employment across all industries, requiring the continuous cultivation of non-routine cognitive skills.* [[Argument_Bouckaert_2023_OECD\|(OECD, 1996; Bouckaert, 2023, p. 4)]]
+> *An economy in which the production, distribution, and use of knowledge is the main driver of growth, wealth creation and employment across all industries, requiring the continuous cultivation of non-routine cognitive skills.* [[Argument_Bouckaert_2023_OECD\|(OECD, 1996; Bouckaert, 2023, p. 4)]]
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Knowledge-Based Economization\|知识经济化]]** —— KBE 指实际存在的经济形态本身；知识经济化则是通过话语想象与物质实践将教育、科研等非经济领域持续“重构为经济要素”的社会政治过程。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 25)]]

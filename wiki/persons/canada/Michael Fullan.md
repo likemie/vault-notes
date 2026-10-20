@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Michael Fullan
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > - **政策路径** 作为安大略省首席顾问主导全省教育改革，其政策理念被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。
 > - **跨国商业传播** 授权新西兰 [[CORE Education]] 等商业[[Educational Management Organisation|教育管理组织]]（EMO）推行 [[New Pedagogies for Deep Learning|NPDL]] 排他性特许加盟，通过百校集群协议收取经常性会费。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
 
 ---

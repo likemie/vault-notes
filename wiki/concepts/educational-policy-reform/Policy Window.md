@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Policy Window
@@ -186,7 +186,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — [[Process Tracing|过程追踪]]表明，奥巴马政府[[Race to the Top|力争上游]]拨款开启的极短政策之窗，迫使各州决策层将宏观学术论文替换为微观对标清单火速完成采纳。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育[[Exogenous Privatisation|外生私有化]]。
 

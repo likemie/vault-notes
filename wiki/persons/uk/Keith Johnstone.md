@@ -8,7 +8,7 @@ summary: "英国著名戏剧导演、剧作家与教育家，现代即兴剧（I
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - theme/engineering-mindset
 related_concepts:
   - "[[Status Transactions]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Engineering Mindset]]"
   - "[[Bureaucracy]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Keith Johnstone
@@ -62,7 +61,7 @@ updated: 2026-10-08
 > [!citation-card] 卡普与扎米斯卡论约翰斯通即兴剧理论与初创企业[[Organizational Culture|组织文化]]
 > 多年以来，[[Palantir Technologies|帕兰提尔]]（Palantir）的新员工都会收到一本由英国戏剧导演兼剧作家基思·约翰斯通在 1970 年代末出版的略显晦涩的即兴戏剧专著。约翰斯通被公认为阐明了构成即兴表演基础的大部分理论体系……在舞台上暴露自己并融入一个角色，需要拥抱机缘巧合以及高度的心理弹性，而这对于构建和驾驭一家旨在开拓全新市场而非仅仅迎合现有市场需求的企业而言至关重要。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–123)]]
 >
-> *For years, new employees at Palantir were given a copy of a somewhat obscure book on improvisational theater published in the late 1970s by Keith Johnstone, a British director and playwright. Johnstone is credited with articulating much of the theory underlying improv... To expose oneself on the stage, and to inhabit a character, require an embrace of serendipity and a level of psychological flexibility that are essential in building and navigating the [[Growth]] of a company that seeks to serve a new market, and indeed participate in the creation of that market, rather than merely accommodate the needs and demands of existing ones.*
+> *For years, new employees at Palantir were given a copy of a somewhat obscure book on improvisational theater published in the late 1970s by Keith Johnstone, a British director and playwright. Johnstone is credited with articulating much of the theory underlying improv... To expose oneself on the stage, and to inhabit a character, require an embrace of serendipity and a level of psychological flexibility that are essential in building and navigating the growth of a company that seeks to serve a new market, and indeed participate in the creation of that market, rather than merely accommodate the needs and demands of existing ones.*
 
 ---
 
@@ -110,7 +109,7 @@ updated: 2026-10-08
 > - **认知与心理学路径** 揭示了日常社交互动中无处不在的微观统治与服从信号，推动了人际沟通分析与社会互动心理学的发展。
 > - **科技与管理组织路径** 被硅谷先锋科技企业（如 [[Palantir Technologies|Palantir]]）引入作为工程师入职必读书目，成为培育反科层固化、注重实效、倡导心理弹性与即兴协作的[[Engineering Mindset|工程思维]][[Organizational Culture|组织文化]]基石。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]] — 卡普与扎米斯卡阐述帕兰提尔如何借助约翰斯通的[[Status Transactions|地位交易]]与即兴理论破除传统[[Bureaucracy|科层制]]固化，确立工具性地位观念与开放敏捷的初创工程文化。
 
 ---

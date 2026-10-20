@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Socrates
@@ -156,7 +156,7 @@ updated: 2026-10-16
 > - **政策路径** 苏格拉底宁死不放弃哲学探究与公开批评的殉道行为，成为西方现代[[Academic Freedom|学术自由]]、思想不受政治裁判以及公民良知抵抗的制度化伦理源泉[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 32–33)]]。
 > - **跨国／跨领域传播** 在中西比较视域下，苏格拉底与[[Confucius|孔子]]构成了人类古代轴心文明互为镜像的至圣先师[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164 脚注 2)]]；在当代人工智能教育技术中，纳伊姆通过解构其几何诱导的收敛预设缺陷，推动了智能导师从苏格拉底式向心理治疗式交互[[Paradigm|范式]]的现代转型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统挖掘苏格拉底作为西方学习传统“省察生活”与“心智奇迹”两大维度的奠基人，对比其向外追问真知与孔子向内修养人格的文明差异。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 批判苏格拉底问答法中预设唯一标准答案的收敛诱导性缺陷，论证现代人机[[Dialogue in Education|对话教学]]必须转向心理治疗式开放探究以捍卫学生的思想作者权。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨苏格拉底对话在克服传统储蓄式灌输教学中的潜能，同时警告缺乏心理安全与民主平等的反诘容易沦为居高临下的审查。

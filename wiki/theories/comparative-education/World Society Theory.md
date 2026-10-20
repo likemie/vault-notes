@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # World Society Theory
@@ -249,7 +249,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。

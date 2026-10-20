@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Design-Based Research
@@ -204,7 +204,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统阐述基于设计的研究起源（Brown, 1992）、核心特征、迭代循环、与传统实验的差异及方法论局限。
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 在小学五年级开展历时 7 个月的人体系统探究 DBR 研究，基于多轮迭代阐明了[[Reflective Structuration|反思性结构化]]如何支持学生行使[[Epistemic Agency|认识能动性]]与构建深层[[Scientific Explanation|科学解释]]。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用三阶段迭代 DBR 方法设计与评估高校半导体学者发展工作坊，依据前后数据反馈持续调整线上、线下与混合交付模式并提炼十项可迁移设计原则。

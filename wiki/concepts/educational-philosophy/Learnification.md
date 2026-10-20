@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Learnification
@@ -248,7 +248,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 经典奠基之作，系统提出“学习化”（learnification）概念，批判当代教育过度沉迷于测量与结果逻辑，倡导从资格化、社会化与主体化三重维度重建良好教育的哲学根基。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 以概念史与批判视角系统解构约翰·哈蒂的《[[Visible Learning|可见学习]]》，揭示其作为学习化范式之极端技术化显影的本质，并结合丹麦教育沿革分析资本主义对批判教育学概念的工具化吸纳。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 结合福柯与德勒兹理论，剖析学习分析与数字化测量如何将学生主体重构为可干预、可预测的数据流，呼应学习化批判对现代教育全景敞视机制的诊断。

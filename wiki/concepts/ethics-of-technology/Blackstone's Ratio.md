@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Blackstone's Ratio
@@ -116,5 +116,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 引述伏尔泰、[[William Blackstone|布莱克斯通]]与斯塔基的法律[[Epistemology|认识论]]传统，剖析前沿算法警务中的误判风险与公共安全平衡问题。

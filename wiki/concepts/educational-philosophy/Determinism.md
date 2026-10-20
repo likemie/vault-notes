@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Determinism
@@ -219,7 +219,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 

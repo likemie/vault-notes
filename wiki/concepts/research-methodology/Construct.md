@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Construct
@@ -149,7 +149,7 @@ updated: 2026-10-17
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 经典研究设计教材，系统界定构念、[[Variable|变量]]与理论演绎测试链条的[[Ontology|本体论]]与方法论定位（pp. 53, 130）。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 援引 Rindermann 因子分析实证数据，解构 [[PISA]] 与 [[TIMSS]] 在一般认知能力底层构念上的实质重叠，批判国际机构建构虚假独立构念以谋取政策影响力的现象。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 首个对教育二阶证据库开展的全量[[Metascience|元科学]]审计，实证揭示研究对象、干预措施、对照基线与学业测试等层面的构念错位危机，确立了宏观综合中构念一致性把关的基准地位。

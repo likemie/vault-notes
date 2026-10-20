@@ -8,7 +8,7 @@ aliases:
 summary: "一种强调在保留事后结果问责前提下，允许建造者先试先建、敏捷试错，而非在研发每一阶段申请前置行政许可的科技规制立场；核心主张在安全决策中同步权衡停滞与延宕的隐性代价，并通过监管沙盒、法定许可时限与开放公共试验场，打破防范假设性风险导致的原子世界规制瘫痪。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - theme/innovation-policy
 related_concepts:
   - "[[Regulatory Sandbox]]"
-  - "[[Growth]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Permissionless Innovation
@@ -63,7 +62,7 @@ updated: 2026-10-16
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论停滞的代价与行动的风险
 > 传统的规制思维存在根本性偏倚：它只极度放大行动可能带来的潜在风险，却对因规制延宕所导致的停滞代价完全视而不见——包括被放弃的经济增长、因等待新药审批而逝去的生命、以及因拒绝采用更先进清洁核能而持续承受的碳排放与电网脆弱性。无许可创新要求将停滞的代价与行动的风险置于同等天平上称量。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 >
-> *Regulations that measure only the risks of action while ignoring the costs of inaction systematically bias society toward stagnation... Permissionless innovation demands pricing the unseen toll of delay—the forgone [[Growth]], the lives lost waiting for treatments, and the accidents that happen because superior technologies were blocked.*
+> *Regulations that measure only the risks of action while ignoring the costs of inaction systematically bias society toward stagnation... Permissionless innovation demands pricing the unseen toll of delay—the forgone growth, the lives lost waiting for treatments, and the accidents that happen because superior technologies were blocked.*
 
 > [!boundary]- 概念边界
 > - 不等于 彻底废除法规与无政府自由放任 — 无许可创新高度依赖事后的严格法律责任与真实世界性能核验；沙盒试验的根本目的是为后续制定有效标准积累实证经验。
@@ -150,5 +149,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 论述无许可创新的定位：批评预防原则忽视停滞代价，以核能审批、莫哈韦试验场与州级沙盒为例，主张设定许可时限、开放试验台以释放物理建造能力。

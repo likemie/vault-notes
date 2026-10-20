@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Industrial Commons
@@ -201,7 +201,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第四章，系统阐明制造业外流切断[[Process Knowledge|过程知识]]反馈的危害，提出重振产业公地、工匠[[Apprenticeship|学徒制]]与[[Innovation Ecosystem|区域创新生态]]的战略路径。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 评述美国科技政策[[Paradigm|范式]]转移中强化本土先进制造与技能生态的新趋向。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 梳理美国产学研协同机制与工程技术创新生态演进。

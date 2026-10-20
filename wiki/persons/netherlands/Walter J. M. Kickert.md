@@ -56,7 +56,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-20
 ---
 
 # Walter J. M. Kickert
@@ -130,7 +130,7 @@ updated: 2026-10-12
 > - **政策路径** 直接参与起草并理论化荷兰 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书、1986 年《高等专业教育法》（WHBO）及 1992 年《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]），为英国“后续行动”（[[Early Steps|Next Steps]]）执行局改革及整个[[OECD|经合组织]]（OECD）成员国的高校放权与质量保障立法提供了标杆模板。
 > - **跨国／跨领域传播** [[Steering at a Distance|远距离操纵]]理论被广泛译介并应用于西欧与北欧各国的公共部门改革，深刻启发了卫生医疗、环境规制与社会福利等复杂专业领域的间接治理研究。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 基克特本人于 1995 年发表的里程碑式文本，系统回顾其在荷兰教育与科学部六年反思性实践中提炼的高教远距离操纵[[Paradigm|范式]]与政策网络协调理论。
 
 ---

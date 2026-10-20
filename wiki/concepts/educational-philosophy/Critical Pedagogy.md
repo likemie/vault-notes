@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Critical Pedagogy
@@ -272,7 +272,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育学作为[[Jürgen Habermas|哈贝马斯]]解放兴趣在课程论中的体现，系统梳理活经验、可能性的语言与文化政治[[Champ|场域]]。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将[[Paulo Freire|弗莱雷]][[Banking Model of Education|储蓄式教育]]模型拓展为[[Geopolitics of Knowledge|知识地缘政治]]分析工具，揭示殖民教育与[[Forced Knowledge Transfer|强制知识转移]]中不可化约的权力不对等。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统阐明弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。

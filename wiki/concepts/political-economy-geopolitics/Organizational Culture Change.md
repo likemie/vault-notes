@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Organizational Culture Change
@@ -169,5 +169,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9, p. 111)]] — 将[[Engineering Mindset|工程思维]]视为泡沫破灭后最持久的[[Organizational Culture|组织文化]]遗产；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]] 以[[Swarm Intelligence|群智能]]与[[Edge Autonomy|边缘自治]]说明公共部门文化变革路径。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Banality of Evil
@@ -209,6 +209,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著在第 12 章（pp. 132–136）结合[[Milgram Obedience Experiment|米尔格拉姆服从实验]]与挑战者号航天飞机灾难，系统探讨[[Hannah Arendt|阿伦特]]平庸之恶命题在现代[[Bureaucracy|科层制]]与科技创新治理中的关键启示。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 在教育哲学批判中以阿伦特和[[Immanuel Kant|康德]]的判断力传统为对照，批评当前以单一[[Effect Size|效应量]]与可见学习为中心的[[Positivism|实证主义]]测评对教育批判主体性的削弱。

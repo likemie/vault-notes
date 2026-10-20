@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Elite Overproduction
@@ -149,5 +149,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引[[Peter Turchin|图尔钦]]的精英生产过剩论与[[Talcott Parsons|帕森斯]]的怨恨心理学，深刻揭示硅谷年轻一代工程师为何沉溺于[[Lifestyle Technology|生活方式科技]]与消费软件研发，从而系统削弱了国家的宏大工程创新能力。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Counterpart Funds
@@ -131,6 +131,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从多边银行高阶圈内官员视角，首次系统性论证对等配套资金在抵御拉美政客换届中的保护网功能，并以全量贷款监控数据确证配套资金断供是导致执行期拖延至 15 年的最普遍成因（pp. 458, 468, 470）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 考察当代全球教育融资中发展中国家财政空间与外部信贷契约的匹配张力，揭示对等配套机制在当代全球[[Learning Data Compact|学习数据契约]]中的演化形态（pp. 541–544）。

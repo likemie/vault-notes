@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-20
 ---
 
 # Steven Brint
@@ -120,5 +120,5 @@ updated: 2026-10-06
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统剖析美国《[[CHIPS and Science Act|芯片与科学法案]]》打破四十年市场中立共识转向[[Modern Industrial Policy|现代产业政策]]的制度逻辑，阐释其对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响及面临的拨款落空风险。

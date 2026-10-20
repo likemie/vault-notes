@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # International Baccalaureate Nutritional Science Course
@@ -156,5 +156,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215–216)]] — 记录[[International Baccalaureate|国际文凭]]营养科学课程校本开发、[[UNESCO|联合国教科文组织]]专项资助与跨校推广受阻经验，并辨析国际规范与办学能力边界。

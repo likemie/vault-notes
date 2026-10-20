@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Globalization from Below
@@ -262,5 +262,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 确立教育改革自上而下与自下而上的双轴四象限框架，系统剖析信息以太流散空间赋能跨国草根反抗的理论机制与世界体系社会民主前景（pp. 113–115）。

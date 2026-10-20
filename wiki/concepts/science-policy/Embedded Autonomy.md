@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Embedded Autonomy
@@ -248,6 +248,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 结合彼得·埃文斯理论与[[Evolutionary Economics|演化经济学]]，剖析嵌入式自主性在国家克服方向性失灵、重塑[[Public Dynamic Capabilities|公共动态能力]]中的底层基石作用。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释 21 世纪美国现代产业战略中如何通过组建专业化执行团队（如芯片项目办公室 CPO）践行嵌入式自主性，提炼保障政策落地与防范寻租俘获的过程准则。

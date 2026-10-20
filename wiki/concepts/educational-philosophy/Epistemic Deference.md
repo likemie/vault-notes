@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Epistemic Deference
@@ -175,7 +175,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 将[[Epistemology|认识论]]顺从引入[[Automation Bias|强自动化偏差]]的规范[[Philosophical Analysis in Education|哲学分析]]，论证其对自主能动性与道德能动性的双重侵蚀，并提出基于反思机器与[[Defeater|击败者]]的干预机制。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 批判无摩擦委派中学习者将中间认识劳动全盘让渡给大语言模型（Large Language Models, LLMs）的[[Epistemic Dependence|认识依赖]]风险。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 论证在[[Research Synthesis|证据综合]]中防止对大模型输出的形式化顺从，确立人类专家对分歧数据的最终裁决权。

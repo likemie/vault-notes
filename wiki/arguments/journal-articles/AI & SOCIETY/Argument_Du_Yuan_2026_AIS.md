@@ -31,7 +31,6 @@ related_concepts:
   - "[[Educational Affordances]]"
   - "[[Knowledge Production]]"
   - "[[Cognitive Offloading]]"
-  - "[[Growth]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
   - "[[Discourse]]"
@@ -96,14 +95,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -147,7 +146,7 @@ issuing_organization: ""
 > | **社会认识论**<br>Social Epistemology | [[John Hardwig\|约翰·哈德威格]]（John Hardwig）与[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）奠定现代[[Knowledge Production\|知识生产]]依赖专家网络与证言分工的合法性，为打破孤立自足的认知主体神话提供[[Epistemology\|认识论]]前提。（pp.2–3） |
 > | **[[Extended Mind Theory\|延展心智假说]]**<br>Extended Mind Thesis | 安迪·克拉克（Andy Clark）与戴维·查默斯（David Chalmers）论证心智成就能够分布于个体与外部人造物之间，确立[[Cognitive Offloading\|认知卸载]]本身的中性地位，并为界定良性人机耦合提供功能标准。（pp.4–5） |
 > | **认识论认知发展理论**<br>Epistemic Cognition | 芭芭拉·霍弗（Barbara Hofer）、保罗·平特里奇（Paul Pintrich）与[[Clark A. Chinn\|克拉克·钦]]（Clark A. Chinn）关于知识确定性、证据证成与反思情绪的理论，用于阐释中间认识动作对长效心智成熟的决定性功能。（p.4） |
-> | **[[Epistemic Injustice\|认识不正义理论]]**<br>Epistemic Injustice | 米兰达·弗里克（Miranda Fricker）与伊丽莎白·安德森（Elizabeth Anderson）阐明知识评判中的权力不对等与制度排斥，结合[[Growth\|成长]]性[[Epistemic Injustice\|认识不正义]]分析算法对多元地方性知识与弱势群体发展机会的压制。（pp.7–8） |
+> | **[[Epistemic Injustice\|认识不正义理论]]**<br>Epistemic Injustice | 米兰达·弗里克（Miranda Fricker）与伊丽莎白·安德森（Elizabeth Anderson）阐明知识评判中的权力不对等与制度排斥，结合成长性[[Epistemic Injustice\|认识不正义]]分析算法对多元地方性知识与弱势群体发展机会的压制。（pp.7–8） |
 
 > [!warrant]- 理论如何支撑论证
 > 社会认识论确立了依赖是求知过程的[[Ontology\|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；[[Extended Mind Theory\|延展心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了清晰边界：唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition\|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的[[Discourse|话语]]特权。（pp.2–8）
@@ -177,7 +176,7 @@ issuing_organization: ""
 > | **能动性与协同主体性**<br>([[Argument_Wu_2025_ER\|Wu et al., 2025]]; Yan et al., 2025; Samuel, 2026) | 适应性[[Epistemic Stances\|认识立场]]、认识主体性的实证模式，以及[[Reflexivity\|反思性]]人机协同主体性或认识主权 | 明确提炼六维诊断标准与发展性检验指标，判定跨任务与跨制度情境下的关系性参与是否得以完整保留 |
 > | **过度依赖与系统脆弱性**<br>(Zhai et al., 2024; Rustambekov et al., 2025) | 对对话系统过度依赖带来的认知后果，以及整合人工智能教育系统中的认识脆弱性 | 严格区分使用频率与认识依赖，平衡审视潜在危害与生产性依赖，审慎检验跨领域迁移证据 |
 > | **规范性门槛理论**<br>(Pietarinen & Shi, 2026) | 可质疑性、发展完整性与价值保留作为防范人工智能操纵与欺骗的规范约束 | 将规范阈值紧密锚定至由机制到后果的社会技术路径、可恢复性、迁移能力与分布式机构责任 |
-> | **成长性认识不正义**<br>([[Argument_Smith_2026_SPE\|Smith, 2026]]) | 生成式人工智能限制知识、实践或学生准确自我评价时引发的独特教育侵害 | 将[[Growth\|成长]]性侵害与知识多样性、学习者身份建构以及供应商、高校与教师间的责任分配深度整合 |
+> | **成长性认识不正义**<br>([[Argument_Smith_2026_SPE\|Smith, 2026]]) | 生成式人工智能限制知识、实践或学生准确自我评价时引发的独特教育侵害 | 将成长性侵害与知识多样性、学习者身份建构以及供应商、高校与教师间的责任分配深度整合 |
 > | **本研究批判整合性综述**<br>（本研究综述） | 人工智能中介学习作为认识论关系的批判整合综述 | 系统贡献生产性依赖与有害依赖的划界标准、四条社会技术路径模型，以及涵盖正义与责任的关系性认识主体性框架 |
 
 ---

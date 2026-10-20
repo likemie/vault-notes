@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fazal Rizvi
@@ -156,7 +156,7 @@ updated: 2026-10-16
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
 > - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考文献。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统解构[[OECD|经合组织]]从 1960–1990 年社会民主多元协商到[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] 数字治理的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 论证亚洲崛起作为重塑全球高等教育格局的独立因果力量，建立批判地缘政治学与双重国际化理性[[Analytic Framework|分析框架]]。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引里兹维等关于跨国政策行动者与话语网络的论述，探讨国际组织对比较教育学科[[Knowledge Production|知识生产]]的深层塑造。

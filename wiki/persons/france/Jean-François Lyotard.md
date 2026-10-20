@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
-  - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[School Effectiveness]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Jean-François Lyotard
@@ -161,7 +160,7 @@ updated: 2026-10-17
 > [!citation-card] 权力的绩效合法化与数据存储
 > 权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1979/1984, p. 47)
 >
-> *Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the [[Growth]] of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.*
+> *Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the Growth of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.*
 
 > [!citation-card] 分歧：不可通约语言游戏中的受害者不义
 > 我愿意把“分歧”定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1983/1988, p. 9)

@@ -57,7 +57,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Educational Management Organisation
@@ -259,7 +259,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 [[CORE Education]] 为代表的 EMO [[Dual-Entity Legal Structure|双层法人架构]]、税收冲抵套利与民主问责真空。
 > - Bray (2007) — 全球比较研究，剖析影子教育与私营补习机构对教育公平的侵蚀机制。
 > - Papanastasiou (2013) — 剖析英格兰与威尔士公费学校体系中私营 EMO 与学院连锁机构的政策推进路径。

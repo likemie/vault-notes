@@ -8,7 +8,7 @@ aliases:
 summary: "源自安第斯原住民宇宙观的生态伦理与整体繁荣哲学，强调人与自然（Pachamama）、跨代际社群及精神传统的互依和谐共生；在教育哲学与批判发展学中，构成解构西方人类中心主义、新自由主义人力资本论与单纯经济增长神话的核心替代范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Paradigm]]"
   - "[[Productization of the Mind]]"
-  - "[[Growth]]"
   - "[[The Right and the Good]]"
   - "[[Technological Agnosticism]]"
 related_theories:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Buen Vivir
@@ -91,7 +90,7 @@ updated: 2026-10-15
 
 > [!feature] Buen Vivir 的四大支柱
 > - **自然作为法律与伦理权利主体（Rights of Nature / Pachamama）** 彻底颠覆“人类保护自然”的恩赐式人本视角，在宪政层面（如 2008 年厄瓜多尔宪法与 2009 年玻利维亚宪法）确立自然本身拥有存在、维持与再生的固有权利。
-> - **自足与平衡替代无限增长（Sufficiency over Infinite [[Growth]]）** 追求“足够”（Sufficiency）而非“更多”，批判以消耗资源与破坏生物圈为代价的线性 GDP 崇拜，强调生产活动必须服从生态承载力极限。
+> - **自足与平衡替代无限增长（Sufficiency over Infinite Growth）** 追求“足够”（Sufficiency）而非“更多”，批判以消耗资源与破坏生物圈为代价的线性 GDP 崇拜，强调生产活动必须服从生态承载力极限。
 > - **多元宇宙共生（Pluriverse & Interculturality）** 拒绝西方单一普遍主义的现代化模板，倡导阿图罗·埃斯科巴（[[Arturo Escobar]]）所界定的“多元宇宙”（A World Where Many Worlds Fit），承认不同文化与生态情境下美好生活的多样性。
 > - **跨代际与精神互惠责任（Intergenerational & Spiritual Reciprocity）** 强调活着的人对祖先记忆、未出生后代以及非人类生灵的道德承诺，在日常实践中维持生命之网的连续性。
 

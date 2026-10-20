@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Academic Inbreeding
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙 1983 年以来的大学立法演进，揭示大学自治与区域分权如何异化为地方保护与教职学术近亲繁殖，并批判了借博洛尼亚[[Discourse|话语]]掩盖实质质量赤字的虚假繁荣。
 
 ---

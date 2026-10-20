@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Developmental Network State
@@ -265,7 +265,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 提出“隐藏的发展型国家”命题，系统梳理美国战后联邦科研网络对高科技产业的结构性塑造与五大制度弊端。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以 [[DARPA]] 微系统技术办公室 16 年半导体研发为案例，系统奠定[[Embedded Network Governance|嵌入型网络治理]]作为发展型网络国家微观核心机制的理论基石。
 > - Ansell (2000) — 探讨网络化政体（Networked Polity）中公共部门从等级控制向网络催化与协同治理的[[Paradigm|范式]]转型。

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Meaningful Human Control
@@ -264,7 +264,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统论证强[[Automation Bias|自动化偏差]]引发的[[Epistemic Deference|认识论顺从]]如何架空有意义的人类控制，并提出利用反思机器与[[Defeater|反驳型击败者]]重建人类实质性道德能动性。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育[[Research Synthesis|证据综合]]与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。

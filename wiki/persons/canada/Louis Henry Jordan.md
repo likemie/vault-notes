@@ -9,7 +9,7 @@ summary: "加拿大宗教学家、近代比较宗教学的先驱。在 1905 年�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - history-of-science
 related_concepts:
   - "[[Scientism]]"
-  - "[[Growth]]"
   - "[[Scientific Method]]"
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Louis Henry Jordan
@@ -57,7 +56,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大十九世纪末至二十世纪初著名宗教学家、学术比较方法论学者，比较宗教学（Comparative Religion）奠基人之一；先后在加拿大、英国牛津与欧洲大陆从事跨学科比较研究。
 > - **核心角色** 近代[[Scientism|科学主义]]向人文社会科学全面扩张时期的跨学科方法论“总结者”；首次在宏观学科史层面上将比较教育学与比较解剖学、比较语言学、比较法学等并置为统一的“实证科学”家族。
-> - **代表贡献** 1905 年出版里程碑巨著《比较宗教：其起源与发展》（*Comparative Religion: Its Genesis and [[Growth]]*），系统总结了 26 个近代比较学科共享的[[Scientific Method|科学方法]]论本质，高度盛赞比较教育学的科学建制潜能。
+> - **代表贡献** 1905 年出版里程碑巨著《比较宗教：其起源与发展》（*Comparative Religion: Its Genesis and Growth*），系统总结了 26 个近代比较学科共享的[[Scientific Method|科学方法]]论本质，高度盛赞比较教育学的科学建制潜能。
 
 > [!citation-card] 二十六个比较学科与统一科学方法论
 > 1905 年，路易斯·亨利·乔丹撰写了题为《比较宗教》的鸿篇巨著，在书中盛赞了不下 26 个比较学科，宣称所有这些领域的共通特质在于其“独特的方法论”——即它们都采用科学方法，旨在“阐明那些关系的基本规律”。（pp.126–127）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]
@@ -72,7 +71,7 @@ updated: 2026-10-15
 > - **1855** 出生于加拿大新斯科舍省哈利法克斯（Halifax），先后求学于达尔豪斯大学与普林斯顿神学院。
 > - **1880–1890s** 在加拿大长老会任牧职并讲授宗教学，期间深感传统教条主义神学的局限，逐步转向实证历史与跨文化比较进路。
 > - **1890s–1900s** 移居英国并长期在牛津大学、爱丁堡大学及德国诸大学访学考察，系统调研自然科学与社会科学中比较方法的扩散机制。
-> - **1905** 在苏格兰爱丁堡出版经典代表作《比较宗教：其起源与发展》（*Comparative Religion: Its Genesis and [[Growth]]*），奠定其在英美比较学术史中的权威地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127, 135)]]
+> - **1905** 在苏格兰爱丁堡出版经典代表作《比较宗教：其起源与发展》（*Comparative Religion: Its Genesis and Growth*），奠定其在英美比较学术史中的权威地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127, 135)]]
 > - **1915** 出版《比较宗教：其调查与检视》（*Comparative Religion: Its Survey and Review*），进一步辨析[[Scientific Paradigm|科学范式]]在人文领域应用的[[Epistemology|认识论]]边界。
 > - **1923** 逝世于英国，享年 67 岁。
 
@@ -81,7 +80,7 @@ updated: 2026-10-15
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1905 — *Comparative Religion: Its Genesis and [[Growth]]*** 跨学科比较方法论的集大成之作；系统梳理 26 个近代比较学科的形成演进，为比较教育学跨入现代大学建制提供了极为关键的“科学合法性”背书。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]
+> - **1905 — *Comparative Religion: Its Genesis and Growth*** 跨学科比较方法论的集大成之作；系统梳理 26 个近代比较学科的形成演进，为比较教育学跨入现代大学建制提供了极为关键的“科学合法性”背书。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]
 > - **1908 — *Comparative Religion: A Survey of its Recent Literature*** 评述欧美比较方法论的最新研究动态与实证指标标准化争鸣。
 > - **1915 — *Comparative Religion: Its Adjuncts and Allies*** 探讨比较方法作为跨学科中介如何与历史学、人类学、教育学和法学形成交叉联盟。
 

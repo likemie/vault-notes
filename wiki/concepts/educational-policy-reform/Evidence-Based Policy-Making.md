@@ -254,6 +254,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 系统论证英国新工党如何通过“证据本位”理念驱动跨国政策转移，不仅引入美国积极福利政策方案，而且全盘采纳其[[Random Assignment|随机分配]]评估技术与专业机构（pp. 330–345）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，追踪教育研究如何被选择、铭写进督导标准与知识综述，并在报告定稿前被重写，揭示证据本位治理的论证与合法化功能（pp. 642–657）。

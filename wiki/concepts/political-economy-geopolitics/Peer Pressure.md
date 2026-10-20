@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peer Pressure
@@ -174,5 +174,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 440–442, 447)]] — 阐明[[OECD|经合组织]]如何利用联赛排名激化同行压力，将外部横向比较转化为民族国家内部深层的教育政策恐慌与改革动力。

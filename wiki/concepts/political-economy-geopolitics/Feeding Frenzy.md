@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Feeding Frenzy
@@ -124,5 +124,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 援引萨巴托的分析，揭示攻击性新闻业与[[Goldfish Bowl Politics|金鱼缸政治]]如何共同摧毁了西方公共领袖敢于冒险坚守[[Hard Belief|硬信念]]的制度土壤。

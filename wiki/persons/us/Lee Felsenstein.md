@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lee Felsenstein
@@ -146,5 +146,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统分析费尔森斯坦创建[[Homebrew Computer Club|家酿计算机俱乐部]]的反体制初衷，论证其如何将个人计算定义为摆脱政府束缚的解放工具并颠覆了战后[[Technological Republic|技术共和国]]传统（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

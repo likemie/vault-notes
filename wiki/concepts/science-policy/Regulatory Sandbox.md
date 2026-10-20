@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Regulatory Sandbox
@@ -199,6 +199,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第三章，系统论证在先进核能、生物医疗与自动驾驶领域建立国家级监管沙盒与[[Permissionless Innovation|无许可创新]]机制。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 评述美国科技政策[[Paradigm|范式]]转移，剖析行政许可改革与技术导向型契约的深层关联。

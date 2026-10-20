@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sedentarism
@@ -178,5 +178,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。

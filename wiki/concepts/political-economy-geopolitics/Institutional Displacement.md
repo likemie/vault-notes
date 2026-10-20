@@ -45,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Displacement
@@ -198,7 +198,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定置换机制，分析边缘新规则如何通过背叛与入侵累积挤出旧规则并实现质变。（pp. 19–24）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
 

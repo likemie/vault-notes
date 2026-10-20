@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Scientism
@@ -285,7 +285,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。

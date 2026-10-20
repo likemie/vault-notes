@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Baccalaureate
@@ -198,7 +198,7 @@ updated: 2026-10-16
 ### 命题一　IBDP 核心组件与大学准备和高阶认知表现相关
 
 > [!concept-lens] 教育效能
-> [[Correlational Research|相关研究]]把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
+> 相关研究把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 220–221)]]

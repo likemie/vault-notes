@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Knowledge Building Theory
@@ -205,6 +205,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 系统检验[[Reflective Structuration|反思性结构化]]作为知识建构理论的新型社会与时间机制，证实五年级学生在 7 个月人体系统探究中能自主重构意向领域与[[Opportunistic Collaboration|弹性协作]]小组。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将知识建构视阈下的协同研讨与社会建构理论应用于高校半导体学者工作坊，实证检验多轮迭代的结构化交流如何促进不同系所科研人员之间的观点碰撞、知识共享与跨学科战略团队孵化（pp. 3, 6）。

@@ -55,7 +55,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wicked Problem
@@ -213,7 +213,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 揭示棘手问题引发的[[Complexity Paradox|政策复杂性悖论]]与跨部门协调失灵，论证第三代儿童形态[[Agile Governance|敏捷试错]]与[[Public Dynamic Capabilities|公共动态能力]]的破解功能。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述如何将复杂的全球重大社会挑战与棘手问题通过[[Mission-Oriented Innovation Policy|使命导向创新政策]]转化为可执行的跨部门项目组合。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将棘手问题的争议性、复杂性与不确定性维度[[Operationalization|操作化]]为解构[[Mission-Oriented Innovation Policy|使命导向创新政策]]的分析透镜。

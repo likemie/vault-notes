@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Ray Pawson
@@ -185,7 +185,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用波森的[[Realist Evaluation|实在论综合]]思想作为替代路线，揭示[[Meta-analysis|元分析]]“净化过程”的危害，并以[[Teaching Assistant|教学助理]]项目为例论证脱离 CMO 背景的排行榜对政策的误导。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。

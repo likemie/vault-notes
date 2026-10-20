@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Methodological Nationalism
@@ -259,7 +259,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]重构教育政策[[Discourse|话语]]的三级转译。

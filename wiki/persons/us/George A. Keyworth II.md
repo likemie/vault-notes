@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # George A. Keyworth II
@@ -105,7 +105,7 @@ updated: 2026-10-15
 > - **制度路径** 与布洛赫、[[Nam Pyo Suh|徐南杓]]形成政治合力，化解国会分立“国家工程基金会”的政治危机，为 [[Engineering Research Centers|ERC]] 制度在 NSF 内部的诞生保驾护航。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 371–372)]]
 > - **组织路径** 推动了大学研发中心从单一 PI 模式向多资源、多学科（MMURC）产学联合实体的制度化扩散。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 详细记录了凯沃思在 1983 年 COSEPUP 研讨会后力挺 ERC 以及与布洛赫结盟推进科技资助改革的口述史料与制度背景。
 
 ---

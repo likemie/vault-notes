@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Robert E. Stake
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > - **比较教育学路径** Rust 等人（2009）在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论[[Pluralism|多元主义]]的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
 > - **教育评估路径** 回应性评估框架影响了第四代评估（Fourth Generation Evaluation）运动，推动评估从专家技术判断转向多元利益相关者参与的协商过程。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将 Stake 与 Yin 并列为[[Case Study|案例研究]]两大权威，频繁引用其方法论框架阐述质性研究取向与自然主义概括。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论综述中引用 Stake (1995) 对量化/质性研究取向根本差异的经典表述，作为该学科方法论多元议题的权威参照。
 

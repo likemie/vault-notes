@@ -85,7 +85,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Recontextualization
@@ -263,7 +263,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再情境化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 提出全球—国家—实践三层再情境化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术话语并在降落微观学校机构时引发严重的再情境化脱节与制度扰动。

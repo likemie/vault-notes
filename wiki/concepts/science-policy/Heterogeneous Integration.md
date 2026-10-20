@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Heterogeneous Integration
@@ -197,6 +197,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将三维异构集成（3DHI）确立为突破单片晶体管物理微缩极限的核心战略路径，系统规划模块化芯粒（Chiplets）与开放[[Process Design Kit|装配设计套件]]（[[Process Design Kit|ADK]]）标准体系。
 

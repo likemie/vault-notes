@@ -65,7 +65,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rational Action Theory
@@ -210,7 +210,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 以 Goldthorpe（2007）的七步逻辑链条展示理性行动理论如何通过严谨的经验[[Falsification|证伪]]与队列分析排除竞争假说。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深入检验 [[Remote Associates Test|RAT]] 机制在中国一流高校大学生阶层分流与文化适应中的解释效力及其批判性边界。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Demerath (1999) 佩雷村[[Ethnography|民族志研究]]，系统论证微观行动者的文化能动性如何颠覆自上而下输入的现代文凭主义与西方成本效益计算。

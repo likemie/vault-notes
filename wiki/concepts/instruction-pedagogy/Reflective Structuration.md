@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reflective Structuration
@@ -242,5 +242,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 里程碑实证论文，系统提出[[Reflexivity|反思性]]结构化理论，通过长周期[[Interactional Ethnography|互动民族志]]揭示五年级学生如何共同构建探究方向与弹性小组。

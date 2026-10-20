@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Effective Altruism
@@ -194,5 +194,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合彼得·辛格哲学渊源与罗杰·斯克鲁顿批判，系统解构有效利他主义作为科技精英非道德避险策略的实质及其引发的文化虚无危机。

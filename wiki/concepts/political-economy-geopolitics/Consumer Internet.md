@@ -8,7 +8,7 @@ aliases:
 summary: "指21世纪初在硅谷全面成熟的以满足个体消费者娱乐、社交、消费与便利性需求为核心驱动的技术产业范式；在卡普与扎米斯卡（2025）的科技政治批判中，消费互联网代表了硅谷从早期黑客解放理想与国家战略科技使命的双重撤退，技术精英放弃了对重大公共工程与国家安全基础设施的建设担当，转而在以广告算法、照片分享和外卖配送为代表的物质消费文化中寻求雇佣兵式的商业利益变现。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Elite Overproduction]]"
   - "[[Total Factor Productivity]]"
   - "[[Nature of Innovation]]"
-  - "[[Growth]]"
   - "[[Big Science]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Engineering Mindset]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Consumer Internet
@@ -236,9 +235,9 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **硅谷意识形态变迁与消费互联网异化** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 阐明硅谷从国家使命向消费主义异化，剖析泡沫与[[Lifestyle Technology|生活方式科技]]对关键防务软件的挤出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Ch. 8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
-> - **[[Total Factor Productivity|全要素生产率]]长期停滞实证** Gordon (2016) 在 *The [[Research in Schools Evaluation|RISE]] and Fall of American [[Growth]]* 中实证表明 1970 年代后的信息与消费互联网革命未能逆转美国 TFP 增速腰斩的趋势，揭示消费技术的宏观经济局限。
+> - **[[Total Factor Productivity|全要素生产率]]长期停滞实证** Gordon (2016) 在 *The [[Research in Schools Evaluation|RISE]] and Fall of American Growth* 中实证表明 1970 年代后的信息与消费互联网革命未能逆转美国 TFP 增速腰斩的趋势，揭示消费技术的宏观经济局限。
 > - **[[Technological Pastiche|技术拼贴]]与创新承诺落空批判** Graeber (2012) 批判当代资本主义将前沿技术退化为衍生性的“技术拼贴”，揭示消费主义科技对深层颠覆性发明的压制。
 
 ---

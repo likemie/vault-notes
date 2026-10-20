@@ -61,7 +61,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Informal Science Learning
@@ -238,7 +238,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，在第三目标中规划依托全美非正式科学网络（NISE Network）与科技馆开展公众半导体科普与 K-12 职业通路启蒙。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统评估国家非正式科学学习生态的公众诉求与面临的财政生存危机，倡导打破正规学校教育与校外社会场馆的制度藩篱，构建普惠、协同且具有长期队列追踪的多元筹资与支持体系。
 

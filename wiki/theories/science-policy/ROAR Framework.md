@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # ROAR Framework
@@ -214,6 +214,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论文提出并系统阐释了 ROAR [[Analytic Framework|分析框架]]，作为新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心理论基石。
 

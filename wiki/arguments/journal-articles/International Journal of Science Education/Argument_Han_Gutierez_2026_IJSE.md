@@ -35,7 +35,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Source Evaluation]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Dialogue in Education]]"
   - "[[Cooperative Learning]]"
   - "[[STEM Education]]"
@@ -63,14 +62,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Han_Gutierez_2026_IJSE"
 argument_key: "Argument_Han_Gutierez_2026_IJSE"
 argument_display_title: "‘How can we check the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-constructed scientific explanations with GenAI"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -125,7 +124,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **研究设计与情境**<br>Qualitative Research Design | 采用质性[[Case Study\|个案研究]]设计，在韩国京畿道一所初中开展课后科学探究拓展活动。探究包含两个主题：第 1 课（2 课时）利用 Canva 协同建构“植物为何[[Growth\|生长]]良好”的图文解释；第 2 课（1 课时）利用 ChatGPT 协同建构“蘑菇为何不是植物”的概念分类解释。（pp.6–8） |
+> | **研究设计与情境**<br>Qualitative Research Design | 采用质性[[Case Study\|个案研究]]设计，在韩国京畿道一所初中开展课后科学探究拓展活动。探究包含两个主题：第 1 课（2 课时）利用 Canva 协同建构“植物为何生长良好”的图文解释；第 2 课（1 课时）利用 ChatGPT 协同建构“蘑菇为何不是植物”的概念分类解释。（pp.6–8） |
 > | **质性材料收集**<br>Multi-source Qualitative Data | 同步录制 4 组配对学生与人工智能交互的全程屏幕操作与言语录像（[[Transcription in Qualitative Research\|转录]]为韩语文本并抽取典型片段英译）；收集学生迭代生成的数字化图文制品（Canva 画板与 ChatGPT [[Dialogue in Education\|对话]]记录）；实施半结构化回溯性学生访谈。（pp.8–9） |
 > | **多模态话语分析策略**<br>[[Multimodal Discourse Analysis]] | 采用多层归纳质性[[Analytic Framework\|分析框架]]（Yin & Zeng, 2025），整合学生的言语交流、提示词输入、人工智能文本输出、图像生成及界面修改操作，进行逐回合微观话语与多模态互动解析。（pp.8–10） |
 

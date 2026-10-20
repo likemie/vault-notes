@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Goh Keng Swee
@@ -99,7 +99,7 @@ updated: 2026-10-16
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
 > - **科技地缘政治论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 论证吴庆瑞主持的教育与语言政策对新加坡确立国家威慑意志与凝聚力的决定性贡献。
 
 ---

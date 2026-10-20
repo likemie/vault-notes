@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Michael Kratsios
@@ -184,6 +184,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 克拉齐奥斯向总统呈交的战略报告全文。确立了四大支柱、组合式资助、本土制造转化与生成核验协同体系，附 2028 财年预算指导备忘录。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统剖析克拉齐奥斯在 2025 年起推动美国科技政策走向[[Technology-Oriented Social Contract|技术型社会契约]]与再集中动员中的关键角色。

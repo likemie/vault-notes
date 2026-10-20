@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Vertical Disintegration
@@ -236,7 +236,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示纵向专业化分工与无晶圆厂模式如何重构美国半导体产业结构，赋能企业在 1990 年代重获全球竞争优势。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国光电子产业为例，系统论证了纵向离散产业环境下 [[DARPA]] 如何通过[[Embedded Network Governance|嵌入式网络治理]]弥合价值链断裂并引导[[Technological Trajectories|技术轨道]]跃迁。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 系统拆解了现代半导体全球纵向离散的六大细分工序与单点咽喉依赖，论证了多阶段离散分工对单一国家传统国家冠军政策的刚性瓦解。

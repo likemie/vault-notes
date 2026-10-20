@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Analytical Stance
@@ -232,7 +232,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 阐明分析立场与[[Research Literacy|研究素养]]在[[Evidence-Informed Practice|证据知情实践]]中的核心地位，揭示抵御[[Persuasive Communication in Education|说服性修辞]]的机制。
 > - Carrier (2017) — 提出分析立场以应对教育创新推广者的说服性沟通策略，强调因果追问与情境审议。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合非政府组织承接公共服务外包的研究，阐述批判性分析立场在抵御技术[[Disciplina and Doctrina|规训]]与防止异化为[[Shadow State|影子国家]]中的功能。

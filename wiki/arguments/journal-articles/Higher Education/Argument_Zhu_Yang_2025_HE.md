@@ -7,7 +7,7 @@ title: "Argument_Zhu_Yang_2025_HE"
 argument_key: "Argument_Zhu_Yang_2025_HE"
 argument_display_title: "Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Falsification]]"
   - "[[Telling China's Story Well]]"
-  - "[[Growth]]"
   - "[[Governing by Numbers]]"
   - "[[China Solution]]"
   - "[[Grandes Ecoles]]"
@@ -208,7 +207,7 @@ updated: 2026-10-20
 这种教学重心的调整直接重塑了留学生的学习体验与关注焦点：
 
 > [!voice] 东南亚留华学子的现实关切与认知反馈
-> 相比于剪纸、书法或京剧等传统民俗才艺，了解中国如何在数十年内消除绝对贫困、建立完备工业体系并铺设高铁网络，更能直接启发对母国现代化探索与治理难题的思考。语言学习如果脱离了当代发展实效，便难以产[[Growth|生长]]久的智识吸引力。（pp. 1049–1050）
+> 相比于剪纸、书法或京剧等传统民俗才艺，了解中国如何在数十年内消除绝对贫困、建立完备工业体系并铺设高铁网络，更能直接启发对母国现代化探索与治理难题的思考。语言学习如果脱离了当代发展实效，便难以产生长久的智识吸引力。（pp. 1049–1050）
 
 > [!contrast-table] 对外高教输出的叙事导向转变
 > | 维度 | 传统文化传播导向 | 当代治理认同导向 |

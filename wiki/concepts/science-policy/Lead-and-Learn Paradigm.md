@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lead-and-Learn Paradigm
@@ -192,7 +192,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统确立引领与学习创新政策新[[Paradigm|范式]]，论证其在应对第三代重大社会挑战中的必要性，并构建国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]分析矩阵。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐明使命导向政策作为跨部门[[Market Shaping and Creating|市场塑造]]工具的四层分解金字塔，为战略引领（Lead）与[[Reflexivity|反思性]]组合管理提供了[[Operationalization|操作化]]框架。
 

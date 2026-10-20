@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Seniority Barrier in Academia
@@ -151,5 +151,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论证学术资历壁垒对青年科学家[[Creativity|创造力]]的结构性压制，提出建立便携式青年资助机制以打破 PI 中心制垄断。

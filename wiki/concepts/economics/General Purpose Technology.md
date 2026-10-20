@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # General Purpose Technology
@@ -320,7 +320,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，论证通用目的技术（GPT）与共性工艺在跨部门扩散中面临严重的市场协调失灵，系统考察[[Advanced Technology Program|先进技术计划]]（ATP）如何通过 50% 对等资助和汽车车身冲压“2毫米工程”等供应链联合体成功推动通用工艺在传统制造业的落地普及。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过[[Application Engineering|应用工程]]、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。

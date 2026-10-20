@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Claudio de Moura Castro
@@ -158,5 +158,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高级官员制度分析视角，系统解构[[Multilateral Development Bank|多边开发银行]]的金融魔术、意识形态信条、借贷博弈、附加条件、[[Counterpart Funds|对等资金]]及执行端组织非学习困境（pp. 455–477）。

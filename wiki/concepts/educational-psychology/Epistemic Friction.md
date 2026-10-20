@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Friction
@@ -287,7 +287,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 将[[Epistemology|认识论]]摩擦作为核心设计工具引入高风险人机决策伦理分析，提出通过反思机器与[[Defeater|击败者机制]]打破[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将认识论摩擦确立为解释[[Man-Computer Symbiosis|人机协同]][[Higher-Order Thinking Skills|高阶思维]]发展与防范有害[[Cognitive Offloading|认知卸载]]的基石概念。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 在批判整合性综述中区分浪费性摩擦与生产性认识摩擦，论证无摩擦委派如何通过压缩中间认识动作剥夺学习者[[Evaluative Judgement|评价性判断]]的演练机会。

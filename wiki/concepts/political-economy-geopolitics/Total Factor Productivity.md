@@ -9,7 +9,7 @@ aliases:
 summary: "衡量产出增长中扣除资本与劳动等要素投入贡献后的剩余部分，反映技术进步、组织效率与知识积累的综合生产率指标；在增长核算中作为索洛残差度量技术差距，在现代产业与演化经济学中，先进制造业被视为全社会全要素生产率增长与技术外溢的核心引擎，现代产业战略旨在通过重振先进制造扭转长期生产率增长放缓。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ tags:
   - industrial-policy
 related_concepts:
   - "[[Learning by Doing]]"
-  - "[[Growth]]"
   - "[[Technological Catch-up]]"
   - "[[Variable]]"
   - "[[Technology Transfer]]"
@@ -60,7 +59,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Total Factor Productivity
@@ -74,7 +73,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** TFP 刻画了生产函数中无法由可观测有形要素投入直接解释的部分——经济学史中常被称为“对无知程度的度量”（Abramovitz, 1956），囊括了技术发明、组织效率、[[Human Capital Theory|人力资本]]质量提升与网络外溢红利。
-> - **用途** 在宏观经济学中用于增长核算（[[Growth]] Accounting）与跨国生产率收敛检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
+> - **用途** 在宏观经济学中用于增长核算（Growth Accounting）与跨国生产率收敛检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
 > - **边界** TFP 本身是核算剩余，无法直接分离内生自主创新与外部技术引进的各自比重；其测算结果高度依赖价格指数折算、资本存量折旧率设定与要素份额校准。
 
 > [!citation-card] 技术差距与全要素生产率测算
@@ -257,7 +256,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]] — 利用两德行业 TFP 差距变化评估工业间谍与[[Technology Transfer|技术转移]]的生产率效应，系统展示了非市场环境下校准 TFP 的方法论与实证发现。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述先进制造业在全社会研发创新与全要素生产率增长中的战略支柱地位，揭示美国[[Modern Industrial Policy|现代产业政策]]重塑供给侧生产率动能的核心逻辑。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Robert J. Gordon|罗伯特·J. 戈登]]的百年 TFP 增长实证序列，批判当代硅谷向浅层消费与广告算法退缩造成的[[Big Idea Famine|科技野心衰退]]与生产率长期停滞。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Martha Nussbaum
@@ -100,7 +100,7 @@ updated: 2026-10-15
 > - **发展经济学与政策评估** 与森共同推动联合国开发计划署（United Nations Development Programme, UNDP）采用人类发展指数（Human Development Index, HDI）与可行能力框架。
 > - **地缘政治反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 批判玛莎·努斯鲍姆等后国家世界主义学者解构爱国认同所导致的防御意志与公共凝聚力真空。
 
 ---

@@ -43,7 +43,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Drift
@@ -196,7 +196,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定漂移机制，分析刻意疏于维护如何导致正式规则与现实世界发生脱节并引发实质侵蚀。（pp. 24–26）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度漂移在强否决与高裁量权语境下的生成机制与[[Symbionts|共生者]]行动逻辑。
 

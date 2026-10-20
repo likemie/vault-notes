@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Punctuated Equilibrium Theory
@@ -206,7 +206,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性文献。

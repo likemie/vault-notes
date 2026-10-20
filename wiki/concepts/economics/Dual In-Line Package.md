@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-20
 ---
 
 # Dual In-Line Package
@@ -127,5 +127,5 @@ updated: 2026-10-05
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 系统考证了[[Fairchild Semiconductor|仙童半导体]]如何从计算机整机装配与印刷电路板布线经济学出发，打破军用扁平封装局限，发明并推广双列直插封装（DIP）成为商用半导体行业标准的过程。

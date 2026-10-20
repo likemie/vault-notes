@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Knowledge Mediation
@@ -246,7 +246,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。

@@ -35,7 +35,6 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Interaction Effect]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Face Validity]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Null Hypothesis]]"
@@ -86,7 +85,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -218,7 +217,7 @@ journal: "SAGE Open"
 > | | B46 | .595 | .507 | 解读研究出版物中的表格与统计图表 |
 > | | B45 | .569 | .570 | 准确理解并解释学术论文统计分析结果 |
 > | | B28 | .535 | .545 | 掌握开展课堂[[Action Research\|行动研究]]的方法论程序 |
-> | **研究态度**（7.20%） | B2 | .898 | .853 | 科学研究对教师职业与专业[[Growth\|成长]]至关重要 |
+> | **研究态度**（7.20%） | B2 | .898 | .853 | 科学研究对教师职业与专业成长至关重要 |
 > | | B1 | .786 | .703 | 教育工作者应当在专业实践中充分受益于研究 |
 > | | B15 | .478 | .445 | 关注并参与科研能有效促进教学改进 |
 > | **研究使用**（4.60%） | B19 | .766 | .732 | 运用科研成果规划与组织日常教学活动 |

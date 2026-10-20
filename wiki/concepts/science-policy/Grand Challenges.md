@@ -63,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Grand Challenges
@@ -195,6 +195,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述重大挑战在现代国家科技战略中的高杠杆问题表述功能，分析 [[Critical Assessment of Structure Prediction|CASP]]、[[Human Genome Project|HGP]] 与 [[DARPA]] 挑战赛的成功机理，提出基于组合搜索空间、结构化数据与盲测基准的重大挑战筛选三原则，并阐释[[Genesis Mission|创世纪计划]] 20 项国家科技挑战的组织推进逻辑。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 提出第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]理论框架，系统论述从宏观重大社会挑战向具体国家使命与政策组合的解构机制，论证公共部门[[Tilting the Playing Field|倾斜竞争场地]]与塑造市场的制度能力。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Popper's Three Worlds Theory
@@ -175,7 +175,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 考据[[John Hattie|哈蒂]]经由贝莱特对波普尔三个世界理论的联想式借用，系统解构其形式化认知架构如何彻底抽空[[Didaktik|欧陆教学论]]所关切的实质内容与教化维度。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从科学实在论出发，深入论证哈蒂将世界三消解为世界二心理过程的[[Epistemology|认识论]]扭曲，揭示[[Constructivist Paradigm|建构主义]]对波普尔哲学的颠覆。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 指出哈蒂同时杂糅波普尔/贝莱特、布卢姆认知领域与大头目（[[SOLO Taxonomy|SOLO]]）模型所造成的层次界定混乱，并提出动态学习模型予以修正。

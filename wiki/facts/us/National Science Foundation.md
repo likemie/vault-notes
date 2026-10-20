@@ -289,7 +289,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统梳理 NSF 设立 [[Industry-University Cooperative Research Centers|I/UCRC]] 与 [[Engineering Research Centers|ERC]] 的制度突破，揭示其物理学家罗兰·蒂贝茨首创 [[SBIR and STTR Programs|SBIR]] 的历史源流，并反思[[Market Fundamentalism|市场原教旨主义]]对基金会公共资助正当性的极端否定。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统诊断 NSF 1950 年代学科壁垒与行政合规负担（42%–44%），提出设立[[Metascience|元科学]]单元、金券制、[[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 直接资助 [[Focused Research Organization|FRO]] 与可携带奖学金的改革方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统阐述 2025 年起美国科技政策转向[[Technology-Oriented Social Contract|技术型社会契约]]后，NSF 传统大学自由探索资助模式面临的边缘化与受限自治危机。

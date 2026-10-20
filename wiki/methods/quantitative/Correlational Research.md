@@ -2,7 +2,6 @@
 title: Correlational Research
 aliases:
   - 相关性研究
-  - 相关研究
   - 相关设计
   - Correlational Design
   - Observational and Correlational Research

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Postmodernism
@@ -216,6 +216,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 解构詹姆逊后现代主义 11 项特征在教育探究中的[[Epistemology|认识论]]体现，及其与[[Post-structuralism|后结构主义]]的同盟；全书亦论及其对[[Reflexivity|反思性]][[Ethnography|民族志]]的启示。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学理论演进历程，揭示后现代主义作为 26 种核心[[Paradigm|范式]]之一，在打破战后西方现代化[[Grand Theory|宏大叙事]]垄断、推动多元理论共存中的关键地位。

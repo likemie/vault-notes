@@ -41,7 +41,6 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Citizen Science]]"
   - "[[Directionality of Innovation]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[ROAR Framework]]"
@@ -81,7 +80,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -344,7 +343,7 @@ argument_related_color: "#dbeafe"
 > [!citation-card] [[Directionality of Innovation|创新的方向性]]与重大社会挑战
 > 创新不仅有速率，更有其方向：21世纪正日益被应对重大社会、环境与经济挑战的需求所界定。这些有时被称为“[[Grand Challenges|重大挑战]]”，包括气候变化等环境威胁、人口健康福祉关切以及实现可持续与包容性增长的困境。这些问题属于“[[Wicked Problem|棘手问题]]”，因为它们具有复杂性、系统性、相互交织性与紧迫性，需要多元视角的共同洞察。（p. 803）
 >
-> *Innovation has not only a rate but also a direction: the 21st century is becoming increasingly defined by the need to respond to major social, environmental, and economic challenges. Sometimes referred to as “grand challenges,” these include environmental threats like climate change, demographic, health and well-being concerns, and the difficulties of generating sustainable and inclusive [[Growth]]. These problems are “wicked” in the sense that they are complex, systemic, interconnected, and urgent, requiring insights from many perspectives.*
+> *Innovation has not only a rate but also a direction: the 21st century is becoming increasingly defined by the need to respond to major social, environmental, and economic challenges. Sometimes referred to as “grand challenges,” these include environmental threats like climate change, demographic, health and well-being concerns, and the difficulties of generating sustainable and inclusive Growth. These problems are “wicked” in the sense that they are complex, systemic, interconnected, and urgent, requiring insights from many perspectives.*
 
 > [!citation-card] 从挑选赢家到[[Picking the Willing|挑选意愿者]]
 > 使命关乎设定具体的发展方向，这些方向当然必须由战略进行挑选。选择的关键不在于要不要挑选，而在于如何挑选：挑选方向并不等同于在挑选具体企业或行业的意义上“挑选赢家”。挑选方向关乎决定社会必须发生一场转型，并促成该转型的发生。这一方向需要不同的具体使命，为不同行动者与部门提供协同攻坚的聚焦载体。因此，使命政策需要的是“[[Picking the Willing|挑选意愿者]]”——即整个经济体中（涵盖不同行业，包括公共与私营部门）愿意为实现具有社会相关性的使命而投入的组织。（pp. 805–806）

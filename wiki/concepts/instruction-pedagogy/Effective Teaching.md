@@ -116,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Effective Teaching
@@ -436,7 +436,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 [[Science Foundation Ireland|SFI]] 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从德语教学论视角审视有效教学[[Meta-meta-analysis|二阶元分析]]，量化激活者（$d = 0.60$）与促进者（$d = 0.17$）实证分化，批判其抽空学科实质内容与[[Bildung|精神教化]]维度的形式化弊端（pp. 425–438）。

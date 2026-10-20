@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Manpower Requirements Approach
@@ -170,6 +170,6 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察 OECD 联合阿根廷 CONADE 推广人力规划法的实证过程，揭示技术官僚模型如何被包装为中立客观方案重塑受援国治理。

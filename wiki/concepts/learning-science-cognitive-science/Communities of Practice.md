@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Communities of Practice
@@ -168,6 +168,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 实证检验依托情境学习理论与 [[Design-Based Research|DBR]] 框架的系列工作坊如何在高水平大学中成功孵化半导体跨学科实践共同体，强调面对面深度交互与包容合法边缘参与者的关键价值。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将实践共同体作为[[Epistemic Cognition|认识论认知]]社会文化研究的[[Unit of Analysis|分析单位]]，探讨共同体[[Discourse|话语]]如何塑造[[Evidence Standards|证据标准]]与探究规范。

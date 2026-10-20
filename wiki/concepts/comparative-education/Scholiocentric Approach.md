@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Scholiocentric Approach
@@ -151,5 +151,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统界定以校为中心取向作为第一代启蒙准科学与行政改良代际的核心特征，阐述其如何为主权国家构建公共教育体系提供[[Policy Borrowing|政策借用]]与政治合法化依据。

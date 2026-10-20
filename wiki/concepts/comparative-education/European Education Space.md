@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # European Education Space
@@ -226,7 +226,7 @@ graph TD
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示全球 [[PISA]] 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出[[EU|欧盟]]教育事务本质是成员国总和，揭示西班牙在[[Bologna Process|博洛尼亚进程]]对标与伊拉斯谟生源吸引表象下的高等教育近亲繁殖与制度性脱节。

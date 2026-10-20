@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制；当代延伸至通过科学实践中的证据协商与理性说服培育民主公共审议素养。"
 type: concept
 domain: "educational-philosophy"
-related_count: 62
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Grand Theory]]"
-  - "[[Growth]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
@@ -92,7 +91,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Enlightenment
@@ -143,7 +142,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **理性的公共运用与公民批判自主（Public Reason and Critical Autonomy）** 确立现代教育的首要使命是破除教条盲从，保障受教育者在社会公共生活中享有公开运用理性的自由，使公众成长为心智成熟的现代公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 20)]]
-> - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered [[Growth]]）** 承袭[[Jean-Jacques Rousseau|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]的感官教化法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 24)]]
+> - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered Growth）** 承袭[[Jean-Jacques Rousseau|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]的感官教化法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 24)]]
 > - **教育、政治学与民族国家构建的三位一体（Triad of Education, Politics, and State-Building）** 启蒙运动将国民公共教育定位为国家公共工程与政治科学的核心维度，将学校确立为塑造具有爱国认同与法律敬畏的现代公民的根本熔炉（Talleyrand, Condorcet, Bentham, Jullien）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 19–20, 25)]]
 > - **公共领域的理性重构与现代性工程（Reconstruction of the Public Sphere）** 如[[Jürgen Habermas|哈贝马斯]]所论证，启蒙现代性工程的核心任务在于通过客观科学、普遍道德与法律理性重构公共领域，而各级公共学校的理性化组织正是实现这一现代性工程的必要前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 25)]]
 > - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将培根知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除民族偏狭，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–13, 21–24)]]
@@ -317,7 +316,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm|范式]]，由[[Jean-Jacques Rousseau|卢梭]]的自然自由、[[Immanuel Kant|康德]]的启蒙自主性、朱利安的准科学图表与[[Jürgen Habermas|哈贝马斯]]的公共领域重构共同熔铸。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统考察启蒙理性主义、培根[[Empiricism|经验主义]]、进步崇拜与道德[[Educational Meliorism|教育改良主义]]如何共同构成比较教育第一代（准科学与行政改良代际）的思想源泉，反思后世[[Positivism|实证主义]]对启蒙双重母题的去语境化简化与[[Historical Amnesia|历史失忆症]]（pp. 139–141, 151）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 追溯启蒙理性主义对新制度主义[[World Society Theory|世界文化理论]]的深刻塑形，并结合世界体系政治经济学批判启蒙趋同神话背后的中心-边缘剥削与依附固化。

@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 45
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
-  - "[[Growth]]"
   - "[[Direct Instruction]]"
   - "[[Class Size]]"
   - "[[Homework]]"
@@ -140,7 +139,7 @@ sources:
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **元分析综合分析**<br>Meta-Analysis Synthesis | 汇总教育领域 100 余项教学与结构创新的 300,000 余项原始实证研究，计算各干预措施的平均[[Effect Size\|效应量]]，绘制效应量整体分布直方图，确立均值关节点。（p. 16） |
-> | **大样本纵向常模分析**<br>Normative Longitudinal Analysis | 基于新西兰国家级测评工具 [[Assessment Tools for Teaching and Learning\|asTTle]] 的标定样本（约 25,000 名 5–12 年级中小学生，1,500 余道数学试题），拟合数运算策略与几何知识在不同学段的纵向[[Growth\|成长]]曲线。（pp. 15–16） |
+> | **大样本纵向常模分析**<br>Normative Longitudinal Analysis | 基于新西兰国家级测评工具 [[Assessment Tools for Teaching and Learning\|asTTle]] 的标定样本（约 25,000 名 5–12 年级中小学生，1,500 余道数学试题），拟合数运算策略与几何知识在不同学段的纵向成长曲线。（pp. 15–16） |
 > | **内容分析与文本审查**<br>Content Analysis | 对新西兰 156 所学校向家长发放的学生学业报告卡进行系统文本编码，统计官方课程标准使用率、常模参照率及评语修辞特征。（p. 12） |
 > | **准实验与时间序列评价**<br>Interrupted Time Series Design | 运用 [[Time Series Design\|间断时间序列分析]] 取代脆弱的两时点增值评价，通过多时点连续密集测量外推反事实基线，评估教学干预在班级和学校层面的净增值。（p. 15） |
 
@@ -413,7 +412,7 @@ sources:
 > [!citation-card] 相对有效性与 0.40 [[Effect Size\|效应量]]基准
 > 几乎我们所做的一切都能提高[[Academic Achievement\|学业成绩]]。关键问题在于我们能否实施那些能使成绩提升幅度超越平均水平（0.40 效应量）的干预措施。任何低于此标准的举措实质上都是在拖累学生，因为至少有一半的教育影响能够获得大于 0.40 的增长。（p. 16）
 >
-> *Virtually everything we do enhances achievement (note how few are below the zero effect-size). The critical question is whether we can implement those effects that enhance achievement by more than the average (.40 effect-sizes). Anything less is holding back a student, as at least half the effects can attain [[Growth]] greater than .40.*
+> *Virtually everything we do enhances achievement (note how few are below the zero effect-size). The critical question is whether we can implement those effects that enhance achievement by more than the average (.40 effect-sizes). Anything less is holding back a student, as at least half the effects can attain Growth greater than .40.*
 
 > [!citation-card] 将评价数据重塑为检验教师自身的镜子
 > 在以证据为本的教与学模式中，一个极具威力的观念是：教师必须从将学业成就数据视为反映‘学生资质’的陈旧思维中走出来，转而将成就数据视为对自己‘教学效能’的审视与反思。如果学生没有学会，这并不意味着学生存在缺陷，而是为教师指明了需要重新审视并调整自身教学策略的线索。（p. 17）

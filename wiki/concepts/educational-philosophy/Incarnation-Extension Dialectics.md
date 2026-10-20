@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Incarnation-Extension Dialectics
@@ -236,7 +236,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 首次系统提出具身-延展辩证法（Incarnation-Extension Dialectics）概念，以此作为反击约翰·哈蒂可见学习与新自由主义“学习化”思潮的哲学支柱，倡导从侧翼复兴全人教化（Bildung）传统。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出“学习化”（learnification）批判，剖析教育语言向去价值化的学习转译危机，为拉森在生存论层面上拓展具身-延展辩证法提供了坚实的哲学铺垫。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 深入反思可见学习元分析的教学法盲区，揭示其抽离学科实质内容、忽视德国教化（Bildung）传统的内在缺陷，与拉森的现象学批判形成深度共鸣。

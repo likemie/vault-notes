@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Alain Desrosières
@@ -133,7 +133,7 @@ updated: 2026-10-17
 > - **政策路径** 深刻影响了批判政策社会学与比较教育学；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）等学者将其概念用于解构[[OECD|经合组织]]与[[PISA]]等全球量化监控网络。
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[Alain Desrosières|德罗西埃]]的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
 

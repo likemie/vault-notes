@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[User-Producer Interaction]]"
   - "[[Paradigm]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Growth]]"
   - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
   - "[[Learning Economy]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Bengt-Åke Lundvall
@@ -87,7 +86,7 @@ updated: 2026-10-17
 > - **1988** 在杜西等主编的经典论文集中发表《创新作为互动过程：从用户—生产者互动到[[National Innovation System|国家创新系统]]》，正式将微观交互扩展至国家宏观架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 > - **1992** 主编出版里程碑专著《国家[[Systems of Innovation|创新系统]]：迈向创新与互动学习的理论》（*National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning*）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 8)]]
 > - **1992–1995** 借调担任 [[OECD]] 科技与产业政策部副部长，深度推动国家创新系统指标进入国际政策评价主流。
-> - **1996** 与[[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）共同主编经合组织（OECD）专著《[[Knowledge-Based Economy|知识经济]]中的教育与增长》（*Education and [[Growth]] in the Knowledge-Based Economy*），奠定 OECD“学习型经济”政策分析基石。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996** 与[[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）共同主编经合组织（OECD）专著《[[Knowledge-Based Economy|知识经济]]中的教育与增长》（*Education and Growth in the Knowledge-Based Economy*），奠定 OECD“学习型经济”政策分析基石。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 ---
 
@@ -99,7 +98,7 @@ updated: 2026-10-17
 >   - **关键概念／方法** [[User-Producer Interaction]]、互动学习（Interactive Learning）。
 >   - **阶段转向** 突破线性技术推动论，将关注点转向买卖双方的信息交换与信任关系。
 > - **1990s — [[National Innovation System|国家创新系统]]理论与[[Knowledge-Based Economy|知识经济]]学** 将微观互动学习扩展到国家制度、教育体制、研发网络与金融制度，反驳新自由主义全球化抹杀国家差异的观点；进而指出知识经济的核心是知识快速折旧的“学习型经济”。
->   - **代表著作** *National [[Systems of Innovation]]: Towards a Theory of Innovation and Interactive Learning* (1992); *Education and [[Growth]] in the Knowledge-Based Economy* (OECD, 1996, 与 Dominique Foray 共同主编)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 11, 17)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+>   - **代表著作** *National [[Systems of Innovation]]: Towards a Theory of Innovation and Interactive Learning* (1992); *Education and Growth in the Knowledge-Based Economy* (OECD, 1996, 与 Dominique Foray 共同主编)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 11, 17)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 >   - **关键概念／方法** [[National Innovation System]]、学习型经济、[[Tacit Knowledge|隐性知识]]积累与互动沟通能力（Interactive Communicative Competence）。
 >   - **阶段转向** 论证在不确定性与[[Bounded Rationality|有限理性]]下，制度化网络成为维系国家比较优势的决定性根基；强调一个国家在知识经济中的核心[[Competitiveness|竞争力]]取决于其向学习型经济转型的敏捷度。
 
@@ -134,7 +133,7 @@ updated: 2026-10-17
 > - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 征引[[Bengt-Åke Lundvall|伦德瓦尔]]的[[User-Producer Interaction|用户—生产者互动]]理论与[[Bounded Rationality|有限理性]]假说，反驳跨国公司无国界神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持组织多样性中的持久价值。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]] — 述及福瑞与伦德瓦尔（1996）对经合组织[[Knowledge-Based Economy|知识经济]]政策转向的奠基贡献，阐释 OECD 如何将终身学习与沟通适应力塑造为全球教育政策议程（pp. 445–446）。
 

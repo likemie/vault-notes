@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Learned Helplessness
@@ -247,7 +247,7 @@ updated: 2026-10-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统对比中西学习信念，深入剖析了西方文化背景下[[Growth Mindset|实体智力观]]如何直接诱发学业习得性无助，以及中国儒家传统将能力视为后天工夫的抗无助机制。
 > - [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]] — 在十年级科学教学中实证检验了固定快速能力信念（FQAL）对长期[[Academic Achievement|学业成就]]的强力负向预测，揭示了学困生群体的[[Epistemology|认识论]]无助特征与性别差异。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 从批判教学法与[[Formative Epistemic Injustice|成长性认识不正义]]视角，揭示生成式 AI 全流程代劳剥夺核心心智实践、诱发学生自加[[Reliability|信度]]赤字与技术性习得性无助的认识论致残机理。

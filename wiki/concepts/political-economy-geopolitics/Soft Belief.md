@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Soft Belief
@@ -176,5 +176,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 开启全书第二部，以高校国会听证会与[[Skokie Free Speech Case|斯科基案]]对比系统阐发[[Hard Belief|硬信念]]与软信念对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Ch. 5]]），深度剖析[[Technological Agnosticism|技术不可知论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Ch. 6]]），并反思形式中立与[[Effective Altruism|有效利他主义]]诱发的文化虚无（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。

@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Construct Validity
@@ -313,7 +313,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 运用构念效度理论剖析 IB ToK 课程评估文本，揭示内部对齐掩盖[[Critical Thinking|批判性思维]]构念不足呈现的方法学机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen, Manion, & Morrison (2011)]] — 系统阐释构念效度的理论表述、MTMM 验证矩阵、反驳性检查以及构念不足呈现与无关方差威胁。

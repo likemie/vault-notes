@@ -194,7 +194,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 深度引用并依赖 AAAS 年度联邦研发预算报告历史数据，系统考证战后五十年联邦国防与非国防研发支出结构变迁、冷战高校科研经费比重及 9/11 后反恐预算重组趋势。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理二战后 AAAS 在推动国家科技体制设立、捍卫同行评议拨款及冷战科技政策史学审议中的制度角色。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 基于自身作为教育政策研究员的亲历反思，深入剖析 AAAS 开创的科技政策研究员计划（STPF）如何通过全职沉浸跨越研究与立法两社区鸿沟。

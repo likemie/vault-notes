@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Franklin D. Roosevelt
@@ -150,6 +150,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证罗斯福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后[[Technological Republic|技术共和国]]基石。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 引用 Jacobs 案例剖析罗斯福社会保障缴费型融资设计如何衍生出超越初衷的反紧缩制度韧性。

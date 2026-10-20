@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Self-Efficacy]]"
   - "[[Epistemic Aims]]"
-  - "[[Growth]]"
   - "[[Informal Reasoning]]"
   - "[[Heterogeneity]]"
   - "[[Nature of Science]]"
@@ -92,7 +91,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Kelly_Licona_2018_EpistemicPractices
 
@@ -316,7 +315,7 @@ updated: 2026-10-16
 > [!tension-table] 转基因玉米在三种取向下的认识论实践对质（pp. 154–155）
 > | 维度 | 探究式科学（Inquiry Science） | 工程教育（Engineering Education） | 社会科学议题（SSI Approach） |
 > |---|---|---|---|
-> | **核心探究问题** | 转基因玉米在控制光照下是否比野生玉米[[Growth\|生长]]得更好？ | 如何改良玉米基因以满足特定抗旱与低成本加工的工业约束？ | 是否应该允许将实验室培育的转基因玉米大规模引入自然生态系统？ |
+> | **核心探究问题** | 转基因玉米在控制光照下是否比野生玉米生长得更好？ | 如何改良玉米基因以满足特定抗旱与低成本加工的工业约束？ | 是否应该允许将实验室培育的转基因玉米大规模引入自然生态系统？ |
 > | **证据考量范围** | 仅限于生物学受控实验测得的株高、生物量与抗虫数据。 | 关注基因转化效率、种子生产成本与农机收割兼容性。 | 综合考量生态多样性风险、跨国种业专利垄断、食品安全与伦理道德。 |
 > | **结论裁决准则** | 遵循单变量控制原则与[[Statistical Significance\|统计显著性]]检验。 | 寻求多约束条件下的最优设计平衡与可行性。 | 综合权衡不同价值诉求，在[[Informal Reasoning\|非形式推理]]与公共审议中寻求合理的民主共识。 |
 

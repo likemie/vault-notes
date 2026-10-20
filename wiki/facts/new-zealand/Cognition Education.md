@@ -226,7 +226,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 深度访谈哈蒂揭示 Cognition 在 23 个国家推行高度脚本化的特许加盟机制、五分之四淘汰率、禁止教师分享个人轶事以维系实施忠实度，以及拒绝外部学者实地观察奥克兰总部数据清洗流程的技术控制壁垒（pp. 254–255, 260）。
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。

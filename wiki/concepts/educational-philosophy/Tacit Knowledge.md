@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Procedural Knowledge]]"
   - "[[Rote Learning]]"
-  - "[[Growth]]"
   - "[[Learning Economy]]"
   - "[[Apprenticeship]]"
   - "[[Reflexivity]]"
@@ -79,7 +78,7 @@ updated: 2026-10-20
 > [!citation-card] 福雷与伦德瓦尔论默会技能与学习型经济
 > 正如福雷与伦德瓦尔（Foray & Lundvall, 1996）等学者所指出的，一个国家能否有效利用知识经济的红利，关键取决于它能在多大程度上迅速转变为一个“学习型经济”。学习绝不仅意味着掌握使用新技术获取信息的技能，更关键的是要培育个体在整个生命周期中持续学习与创造新知识的默会能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
-> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a '[[Learning Economy]]'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
+> *Against these assumptions, it is suggested by new growth theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a '[[Learning Economy]]'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
 
 > [!boundary]- 概念边界
 > - 不等于编码知识（Codified Knowledge） — 编码知识是以文字、数字、图表或代码形式客观记录的公共信息，能够以极低边际成本进行远程复制和传输；默会知识则依附于活生生的实践主体。
@@ -182,6 +181,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与知识外交分析中，揭示非正式网络规范与制度性隐性知识在全球知识权力配置与跨国政策动员中的关键中介作用。

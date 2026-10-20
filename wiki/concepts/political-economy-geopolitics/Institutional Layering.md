@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Venue Shopping]]"
-  - "[[Growth]]"
   - "[[Problem of Many Hands]]"
   - "[[Regulatory Ratchet]]"
   - "[[Variable]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Layering
@@ -104,7 +103,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 制度层叠的历史演进传统与构成维度
-> - **差异化增长（Differential [[Growth]]）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
+> - **差异化增长（Differential Growth）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
 > - **官僚与行动者增厚（Thickening: adding actors）** 在既有行政层级中不断增设新机构、职能部门、私营或非营利主体，导致权力层级重叠并引发责任稀释的多手问题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **[[Regulatory Ratchet|规制棘轮]]与工具叠加（Regulatory ratchet: adding instruments）** 在既有法律法规体系之上持续叠加密集的新细则、审查要求与合规规程，使制度体系如同单向棘轮般日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **行动者与工具双重叠加（Adding actors and instruments）** 面对公共治理困境，改革者同时引入新型组织载体与新型管理工具，在双重层叠中逐步推动整体制度生态的质性重构。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
@@ -237,7 +236,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。

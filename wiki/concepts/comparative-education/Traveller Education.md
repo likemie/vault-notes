@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Traveller Education
@@ -172,5 +172,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合英国旅行者儿童案例，论证学校微观空间区隔如何引发文化失调，并剖析[[Intercultural Education|跨文化教育]]政策在承认与隔离之间的困境。

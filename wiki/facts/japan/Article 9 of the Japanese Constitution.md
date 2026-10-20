@@ -162,6 +162,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻反思日本战后宪法第九条对印太力量平衡的长期侵蚀，论证在软件与人工智能世纪日本必须通过先进算法与自主系统重构防御威慑底座。
 

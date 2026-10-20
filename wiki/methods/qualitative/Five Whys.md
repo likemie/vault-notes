@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Five Whys
@@ -207,5 +207,5 @@ updated: 2026-10-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]] — 详述[[Taiichi Ohno|大野耐一]]丰田机械排查案例与[[Palantir Technologies|帕兰提尔]]二十年间开展数千次五问法复盘以穿透软件交付延期至高层人际博弈的实战案例。

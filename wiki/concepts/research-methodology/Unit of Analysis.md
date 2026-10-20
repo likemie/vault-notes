@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Unit of Analysis
@@ -490,7 +490,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-meta-analysis|二级元分析]]中的“分析单位错位错误（Unit-of-Analysis Error）”，论证文献重叠如何破坏独立性假定，确立宏观[[Research Synthesis|证据综合]]必须穿透至底层独立原始研究的技术基准（pp. 24–25, 29–30）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”，系统确立资本主义世界经济体作为基准分析单位，并运用[[Pluri-Scalar Governance|多标度治理]]与微观[[Comparative Case Study|比较案例研究]]重构空间与行动者分析单位（pp. 101, 104, 108–111）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判比较教育的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]，将分析单位重构为由五大结构位置构成的跨国网络流通模型（pp. 341–344, 349–351）。

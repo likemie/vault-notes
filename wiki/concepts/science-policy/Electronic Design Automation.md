@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Electronic Design Automation
@@ -198,6 +198,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明后摩尔时代[[Heterogeneous Integration|三维异构集成]]对多物理场 EDA 仿真工具的紧迫需求，并提出依托 [[DARPA]] Toolbox 模式与开源生态消除学术界和初创企业软件准入门槛的战略方案（pp. 15–16, 23–24）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从科技主权与不对称地缘博弈视角，深入论证 EDA 软件在现代微电子技术栈中的寡头垄断格局及其作为关键制衡卡点的决定性意义（pp. 102–106）。

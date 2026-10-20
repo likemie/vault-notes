@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # User-Producer Interaction
@@ -170,5 +170,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用用户—生产者互动机制深入剖析日本工业制造赶超以及战后各国[[Systems of Innovation|创新系统]]组织绩效分化的深层原因。

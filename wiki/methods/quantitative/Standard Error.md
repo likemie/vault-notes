@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Standard Error
@@ -268,6 +268,6 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统推导均值的标准误（[[Causal Modeling|SEM]]）与分类比例标准误的计算公式，确立[[Confidence Interval|置信区间]]构建与大样本边际收益递减准则。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从[[Fixed-Effect Model|固定效应]]数学公理推导联合标准误计算规范，实证揭示将标准误误作标准差导致[[Effect Size|效应量]]虚增十倍（Eisenstaedt 案例）、根据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重腰斩 53.5% 以及对标准误取算术平均等系统性计量灾难。

@@ -81,7 +81,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Empiricism
@@ -277,7 +277,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学四大基本假定之经验假定、Mouly [[Scientific Method|经验科学]]五步法与 Barratt 经验[[Evidence Standards|证据标准]]，并在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]与经验效度标准的[[Operationalization|操作化]]规范。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统批判战后实证派诺亚与埃克斯坦、萨查洛普洛斯等人构建的方法论经验主义与唯方法论主义，捍卫比较教育作为德语[[Geisteswissenschaften|精神科学]]的人文阐释传统。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 122–123)]] — 将经验主义延伸至现代软件与系统工程领域，提出技术构建是一门依赖实战观测、去先验教条并遵循即兴试错的经验观察性科学。

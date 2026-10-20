@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Richard Sennett
@@ -99,7 +99,7 @@ updated: 2026-10-09
 > - **多元文化主义与后国家协作** 为批判同质化民族主义、倡导多元异质群体的非暴力共存提供了社会学[[Analytic Framework|分析框架]]。
 > - **地缘政治反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，桑内特将国家认同等同于“恶”的后国家左翼立场，直接导致现代西方缺乏捍卫公共善与自由政体的精神动员纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 批判理查德·桑内特将国家认同视作原罪的后国家构想，论证共同体叙事对国家生存不可或缺。
 
 ---

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dual Appointment
@@ -174,7 +174,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 通过布洛赫口述访谈与多所 [[Engineering Research Centers|ERC]] 主任调研，系统分析了双重聘任制在多学科大学中心运作中的制度必要性与微观治理困境。
 
 ---

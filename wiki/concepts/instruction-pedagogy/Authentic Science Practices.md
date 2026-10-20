@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Authentic Science Practices
@@ -199,7 +199,7 @@ updated: 2026-10-19
 
 ## 论证索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 在小学五年级开展 7 个月人体系统探究，证实通过[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]能够有效落实学生的真实科学实践与[[Epistemic Agency|认识能动性]]。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 探讨学生在基于探究的软件环境中开展形式化[[Scientific Explanation|科学解释建构]]时所体现的[[Epistemological Understanding|认识论理解]]。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]科学探究教学的有效性，证实赋予学生指导性探究自主权对深层概念理解与科学思维的显著促进作用。

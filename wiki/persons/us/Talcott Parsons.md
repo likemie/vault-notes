@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Talcott Parsons
@@ -114,5 +114,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章援引帕森斯 1947 年关于不公正对待感与失败借口的经典论文，解释硅谷工程师在地位期望落空后所产生的技术逃避与政治冷漠。

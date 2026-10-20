@@ -73,7 +73,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Karl Popper
@@ -231,7 +231,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂自述波普尔求学渊源，将持续扩充元分析库至 1400 项解释为主动寻找反例的波普尔式科学试错，并将班级规模缩减确证为决定性因素设立为推翻可见学习模型的关键证伪判据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统考证波普尔[[Falsification|证伪主义]]、推测性知识与理论负荷概念对教育研究方法论[[Postpositivism|后实证主义]]转型的奠基贡献。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析波普尔[[Critical Dualism|批判二元论]]与反归纳主义[[Epistemology|认识论]]如何被霍姆斯直接吸纳，成为战后[[Scientific Paradigm|比较教育科学范式]]中对抗普遍必然因果律的理论基石。

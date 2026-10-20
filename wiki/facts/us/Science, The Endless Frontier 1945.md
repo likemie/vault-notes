@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Science, The Endless Frontier 1945
@@ -227,7 +227,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年罗斯福致信布什的历史脉络、科学家在民主防卫中的崇高地位及战后技术共和国契约的建立。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年布什报告，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出与结构性转型。

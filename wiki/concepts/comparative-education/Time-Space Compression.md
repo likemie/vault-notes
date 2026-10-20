@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Time-Space Compression
@@ -173,5 +173,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用时空压缩概念辨析全球化与[[World-Systems Theory|世界体系分析]]的理论边界，阐释跨国教育网络化与自下而上全球化抗争的生成机制。

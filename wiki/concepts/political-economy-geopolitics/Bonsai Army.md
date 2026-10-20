@@ -202,6 +202,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻诊断欧洲冷战后安全搭便车引发的盆景军队与盆景产业困境，系统论证通过新一代实战人工智能与软件系统非对称重构战力底座的破局路径。
 

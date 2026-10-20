@@ -343,7 +343,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[World Bank|世界银行]]脱离[[UNESCO|教科文组织]]后，如何依托普萨查罗普洛斯建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 揭示[[OECD|经合组织]]如何将教育经费从社会消费重塑为追求充分投资回报的[[Human Capital Theory|人力资本]]投资，并系统消解民主意义上的教育[[Public Value|公共价值]]。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 系统批判[[Venture Philanthropy|风险慈善]]网络如何将“[[Social Impact Investing|社会投资]]回报”（SROI）[[Discourse|话语]]演变为重塑澳大利亚资本主义国家实践、特许企业避税与颠覆公共教育再分配的意识形态工具。

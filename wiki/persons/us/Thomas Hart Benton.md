@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Thomas Hart Benton
@@ -108,7 +108,7 @@ updated: 2026-10-15
 > - **艺术教育与非从众[[Creativity|创造力]]** 作为导师培养了[[Jackson Pollock|波洛克]]等艺术巨匠，开创了通过严厉批判与包容特立独行激发潜在创造力的师生互动典范。
 > - **工程与创新[[Organizational Culture|组织文化]]** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其与波洛克的[[Student-Teacher Relationship|师生关系]]提炼为反思现代企业“讨好文化”（Culture of Agreeableness）的核心案例，论证了允许建设性人际摩擦与包容尖锐异见对实现突破性创新的关键价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 借助本顿与波洛克的师生交锋批判过度讨好的平庸文化，论证非从众性格与创造性摩擦对实现颠覆性创新的不可替代性。
 
 ---

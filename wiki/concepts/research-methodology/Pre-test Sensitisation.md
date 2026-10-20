@@ -10,7 +10,7 @@ aliases:
 summary: "纵向或重复测量研究中，前一轮数据收集本身改变参与者后续认知或行为的现象，导致记录的变化是调查制造而非自然发生的，威胁内部效度"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,11 +25,10 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 related_concepts:
-  - "[[Growth]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-10-20
 ---
 
 # Pre-test Sensitisation
@@ -68,7 +67,7 @@ updated: 2026-07-11
 > |---|---|---|
 > | **预试敏感化** | 前一轮测量本身改变了参与者 | 健康调查 → 吸烟意识 → 戒烟 |
 > | 历史效应 | 外部事件改变了对研究群体的观察 | 经济危机期间测量的就业态度 |
-> | 成熟效应 | 参与者以不同速度和方式自然[[Growth\|成长]] | 儿童随年龄增长认知能力提高 |
+> | 成熟效应 | 参与者以不同速度和方式自然成长 | 儿童随年龄增长认知能力提高 |
 > | 工具变化 | 测量工具的内容或标准在时间上改变 | 公共考试名称不变但难度逐年降低 |
 
 Ruspini (2002, p. 73)将这五项威胁（历史、成熟、测试、因果时间、因果方向）列为纵向数据的系统性威胁，其中"测试"即预试敏感化。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Economic Fundamentalism
@@ -207,5 +207,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化流失。

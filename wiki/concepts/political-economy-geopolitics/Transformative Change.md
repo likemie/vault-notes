@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[Innovation Policy Paradigms]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Wicked Problem]]"
   - "[[Market Failure]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Transformative Change
@@ -51,7 +50,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 变革转型（Transformative Change）是 Schot and Steinmueller（2018）识别的第三个[[Innovation Policy Paradigms\|创新政策范式]]——继"科学促增长"（Science for [[Growth]]）和"[[Systems of Innovation\|创新系统]]"（Systems of Innovation）之后的最新阶段。其核心主张是：创新系统[[Paradigm\|范式]]虽然擅长诊断各种系统失灵，但在面对气候变化、生物多样性丧失、人口老龄化、资源稀缺等"[[Wicked Problem|棘手问题]]"（wicked problems）时过于被动和反应性。变革转型范式要求政策从"修复系统"升级为"主动导向"——不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.32–34]])。
+> 变革转型（Transformative Change）是 Schot and Steinmueller（2018）识别的第三个[[Innovation Policy Paradigms\|创新政策范式]]——继"科学促增长"（Science for Growth）和"[[Systems of Innovation\|创新系统]]"（Systems of Innovation）之后的最新阶段。其核心主张是：创新系统[[Paradigm\|范式]]虽然擅长诊断各种系统失灵，但在面对气候变化、生物多样性丧失、人口老龄化、资源稀缺等"[[Wicked Problem|棘手问题]]"（wicked problems）时过于被动和反应性。变革转型范式要求政策从"修复系统"升级为"主动导向"——不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.32–34]])。
 
 > 这一范式目前仍处于早期阶段，少有大规模实施的实例（Lindner et al., 2024）（p.34）。
 

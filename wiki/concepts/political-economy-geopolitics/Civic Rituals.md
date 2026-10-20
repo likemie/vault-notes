@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Civic Rituals
@@ -195,5 +195,5 @@ updated: 2026-10-09
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 216–218)]] — 阐释制造国家的传统公民装置如何荒废、硅谷技术城邦如何填补认同真空，并提出重铸[[Technological Republic|技术共和国]]的公民仪式路径。

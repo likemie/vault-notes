@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Big Science]]"
   - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Growth]]"
   - "[[Public Value]]"
   - "[[General Purpose Technology]]"
   - "[[Return on Investment]]"
@@ -83,7 +82,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Patient Capital
@@ -108,7 +107,7 @@ updated: 2026-10-17
 > [!citation-card] 战略投资目的设定与动态能力基石
 > 设立具有战略目的的公共投资是使命导向政策的核心支柱。无论是历史上的后发追赶现代化、[[Big Science|大科学]]攻坚还是当代的复杂社会挑战，公共部门必须具备跨周期的耐心资本供给能力与战略研判能力，将公共资金注入具有广泛社会溢出的前沿探索中，以引领经济增长的长期方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 >
-> *Purpose-setting for public investments is one of the key pillars of [[Mission-Oriented Innovation Policy]]... This requires patient strategic capital aligned with dynamic organizational capabilities to guide economic [[Growth]] towards specific directions.*
+> *Purpose-setting for public investments is one of the key pillars of [[Mission-Oriented Innovation Policy]]... This requires patient strategic capital aligned with dynamic organizational capabilities to guide economic growth towards specific directions.*
 
 > [!boundary]- 概念边界
 > - **不等于 盲目低效的财政无底洞** 耐心资本强调采用“组合管理（Portfolio）”逻辑与明确的阶段性里程碑考核，对丧失前景的项目具备果断止损与退出机制。
@@ -314,7 +313,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明在硬科技与微电子战略攻坚中，如何通过[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权基金与国家债务信贷（[[Loan Programs Office|LPO]]）构建多层级混合耐心资本生态（Goal 4.5）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 结合三代使命演化理论，系统论证耐心资本与公共部门三层动态能力及引领学习[[Paradigm|范式]]的协同逻辑。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定当代[[Mission-Oriented Innovation Policy|使命导向创新政策]]中耐心资本供给机制、ROAR [[Analytic Framework|分析框架]]与风险收益共享理论的核心文献。

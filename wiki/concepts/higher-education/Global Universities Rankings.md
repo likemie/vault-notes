@@ -84,7 +84,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Global Universities Rankings
@@ -286,7 +286,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022, pp. 125–139)]] — 宏观综述全球大学排名的兴起动因、系统性方法学偏见及新制度主义体制不可避免性机制。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, pp. 219–226)]] — 揭示全球排名作为地缘政治装置的基础设施属性，以及高校开发在线自评工具开展预判性治理的微观实践。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 4–19)]] — 阐释全球排名作为高等教育空间制造的机制，分析澳大利亚高校利用留学生学费资助科研推高排名的循环效应。

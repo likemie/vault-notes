@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 64
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -42,7 +42,7 @@ tags:
   - school-reform
   - constructivism
 created: 2026-07-28
-updated: 2026-10-16
+updated: 2026-10-20
 sources:
   - "[[books/Darwish_2009_Queens/Darwish_2009_Queens|Darwish_2009_Queens]]"
 related_concepts:
@@ -77,7 +77,6 @@ related_concepts:
   - "[[Mis-educative Experience]]"
   - "[[Democratic Education]]"
   - "[[Dialogue in Education]]"
-  - "[[Growth]]"
   - "[[Scientific Method]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"
@@ -244,7 +243,7 @@ related_persons:
 > | **知识观** | 预存于书本与长者头脑中的静态事实；将历史看作脱节的过去 (p. 26, p. 43) | 动态重构的经验；过去被看作现在的过去（past of the present） (p. 27) |
 > | **学习者定位** | 被动顺从、等待填满的听讲容器与观察对象 (p. 26, p. 43) | 处于起点、中心与终点的[[Freedom of the Learner\|能动主体]] (p. 28, p. 44) |
 > | **教学机制** | 权威自上而下的直接灌输、听讲训导与身体压抑 (p. 27, p. 35) | 通过选择与调控客观环境进行的间接教育 |
-> | **教育哲学** | 基于拒绝与对立（rejection and opposition）的消极哲学 (p. 28) | 基于经验重组、协同[[Dialogue in Education\|对话]]与连续[[Growth\|生长]]的积极哲学 (p. 29) |
+> | **教育哲学** | 基于拒绝与对立（rejection and opposition）的消极哲学 (p. 28) | 基于经验重组、协同[[Dialogue in Education\|对话]]与连续[[Education as Growth\|生长]]的积极哲学 (p. 29) |
 
 ---
 
@@ -424,7 +423,7 @@ related_persons:
 > [!tension-table] 表3.2：杜威民主沟通改良与弗莱雷解放实践的深层分歧
 > | 维度 | 杜威进步教育 | 弗莱雷解放教育 |
 > |---|---|---|
-> | **教育终极目标** | 个体的[[Growth\|生长]]与自我实现 (p. 7) | [[Conscientization\|批判意识觉醒]]与解构压迫的解放 (pp. 7–8) |
+> | **教育终极目标** | 个体的[[Education as Growth\|生长]]与自我实现 (p. 7) | [[Conscientization\|批判意识觉醒]]与解构压迫的解放 (pp. 7–8) |
 > | **沟通与[[Dialogue in Education\|对话]]功能** | 社区内共享经验、重新组织经验的民主手段 (p. 41) | 揭露与谴责不公、对抗压迫结构的政治行动 (p. 10) |
 > | **对改变行动的承诺** | 未明确承诺采取对抗压迫结构的 **[[Praxis\|实践]]** 行动 (p. 43) | 将[[Praxis\|实践]]（感知的觉醒 + 改变现实的行动）作为成长的唯一衡量标准 (p. 10, p. 43) |
 > | **社会现实假设** | 预设社会具备平等沟通与协商改良的前提条件 | 指出压迫社会中存在[[Culture of Silence\|沉默文化]]，必须通过政治介入打破沉默 (p. 7, p. 43) |

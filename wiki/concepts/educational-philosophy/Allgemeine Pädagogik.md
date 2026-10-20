@@ -54,7 +54,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Allgemeine Pädagogik
@@ -200,5 +200,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 详尽剖析德意志及中东欧教育科学以哲学性[[Allgemeine Pädagogik|普通教育学]]为母体的历史谱系，阐明其与英美独立系所建制传统的根本[[Paradigm|范式]]差异。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Swarm Intelligence
@@ -192,5 +192,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章系统梳理了[[Martin Lindauer|林道尔]][[Eck Swarm Experiment|埃克蜂群实验]]与[[Giorgio Parisi|帕里西]][[Flocking Behavior|椋鸟群飞]]研究，将生物群体智能与[[Edge Autonomy|边缘自治]]确立为高敏捷初创企业及实战工程文化的核心组织原型。

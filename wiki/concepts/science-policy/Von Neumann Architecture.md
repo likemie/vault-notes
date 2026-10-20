@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Von Neumann Architecture
@@ -228,7 +228,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽考据二战后美国陆海空三军与民政科研机构资助普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程的历史，论证冯·诺依曼架构的非专有公开出版如何避免了[[Path Dependence|技术锁定]]并奠定现代计算机产业生态。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划新型稳健处理架构（1.3），推动存内计算、类脑神经形态与光子计算等“超越冯·诺依曼”[[Paradigm|范式]]与软硬件[[Co-Design|协同设计]]变革。
 

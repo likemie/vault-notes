@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Complementarity
@@ -173,5 +173,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。

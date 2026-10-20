@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Robin Dunbar
@@ -99,7 +99,7 @@ updated: 2026-10-09
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 结合邓巴数生物学认知上限，论述大规模现代国家维系共同体叙事的必要性。
 
 ---

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Genesis Mission
@@ -127,5 +127,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述 2025 年启动的创世纪计划：依托能源部 17 个国家实验室与 24 家企业构建科学与安全平台，目标十年内使科学工程生产率翻倍，并与[[Gold Standard Science|黄金标准科学]]协同。

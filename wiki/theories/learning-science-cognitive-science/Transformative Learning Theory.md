@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Transformative Learning Theory
@@ -171,6 +171,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将转化学习理论运用于高水平[[Research Universities|研究型大学]]《[[CHIPS and Science Act|芯片与科学法案]]》学者专业发展实证研究，证实三阶段工作坊不仅传授技术信息，更促使工程学者打破传统纯技术视界，体认科学工程事业背后的政治与政策维度，实现科研参照框架重塑与国家战略承接就绪度提升。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 从[[Epistemic Practices|认识论实践]]视角探讨学习者在特定共同体中如何反思[[Evidence Standards|证据标准]]与认识假设，与转化学习中的批判性假设反思形成[[Epistemology|认识论]]互补。

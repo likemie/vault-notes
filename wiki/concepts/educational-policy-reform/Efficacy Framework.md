@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Efficacy Framework
@@ -188,5 +188,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰私营部门参与公立教育格局，剖析培生集团如何依托实效性框架与 Open Ideas 智库丛书实现学术声誉包装与商业转化。

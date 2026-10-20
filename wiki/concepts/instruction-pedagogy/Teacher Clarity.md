@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Teacher Clarity
@@ -186,5 +186,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。

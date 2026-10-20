@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Homework]]"
   - "[[Causality]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Learning Economy]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Brookings Institution
@@ -116,7 +115,7 @@ updated: 2026-10-16
 > [!citation-card] 布鲁金斯学者揭示政府采购打破寡头垄断与重塑市场结构
 > 约翰·E·蒂尔顿（John E. Tilton, 1971）在布鲁金斯学会出版的专著中系统论证：在 1950 年代，以通用电气、美国无线电公司、雷神、西尔瓦尼亚和西屋电气为代表的老牌电子管制造商占据绝对垄断地位；然而，由于国防部采购官员坚持基于元器件技术参数与创新性能进行公开招标与履约评估，新创的非电子管企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron 等）得以获得关键托底订单并迅速跨越学习曲线。到 1966 年，老牌电子管巨头在半导体市场的总份额被新进入者大幅压缩至 31%–36%，彻底重塑了美国半导体产业高度竞争的市场结构。
 >
-> *Government procurement played a major role in the initial [[Growth]] of new firms... In 1957, the receiving tube firms accounted for 60% of the semiconductor market, with new non-tube firms holding 40%. By 1966, new firms had captured 69% of the market... Tilton (1971) concludes that the major contribution of defense procurement was aiding new non-tube firms.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
+> *Government procurement played a major role in the initial growth of new firms... In 1957, the receiving tube firms accounted for 60% of the semiconductor market, with new non-tube firms holding 40%. By 1966, new firms had captured 69% of the market... Tilton (1971) concludes that the major contribution of defense procurement was aiding new non-tube firms.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 > [!citation-card] 布鲁金斯学者对课程标准有效性的实证质疑
 > 在[[Common Core State Standards|共同核心标准]]正式出台之后，以布鲁金斯学会学者为代表的学术批评派开始指出，学术界根本拿不出任何严谨的实证研究能够证明课程标准与学生测评表现之间存在明确的因果关系。布鲁金斯学会学者汤姆·洛夫利斯（Tom Loveless, 2012）分析了长达数十年的实证数据，明确发现被外部权威机构评估为高质量的各州课程标准，其学生的 NAEP 统考成绩并不比那些标准质量被评为低劣的州更好——两者之间的相关系数实际上接近于零。

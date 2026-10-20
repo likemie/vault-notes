@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # PICO Framework
@@ -179,5 +179,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 运用 PICO 框架对 [[John Hattie]] 的 [[Visible Learning]] 数据库展开全量质量评估，证实仅 19% 的影响因素符合 PICO 规范，揭示了缺乏 PICO 门禁带来的系统性因果解释瓦解。

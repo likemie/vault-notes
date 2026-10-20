@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Flocking Behavior
@@ -175,5 +175,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, pp. 120–121)]] — 专著第 10 章系统梳理了[[Giorgio Parisi|帕里西]]团队对罗马椋鸟群飞的实验物理学发现，将其与生物蜂群并列为解释初创工程组织敏捷转向与消除中层指令阻滞的微观自组织物理学原型。

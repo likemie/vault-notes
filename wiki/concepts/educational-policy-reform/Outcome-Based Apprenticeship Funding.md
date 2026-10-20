@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Outcome-Based Apprenticeship Funding
@@ -136,5 +136,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 提出通过结果导向[[Apprenticeship|学徒制]]资助与[[Workforce Pell Grants 2025|劳动力佩尔助学金]]联动，构建支撑国家先进制造业的技能培训财政基底。

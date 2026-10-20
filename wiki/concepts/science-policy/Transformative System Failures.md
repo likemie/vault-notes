@@ -46,7 +46,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Transformative System Failures
@@ -191,5 +191,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将变革性系统失灵理论应用于使命政策分析，构建了解构社会挑战并在二维空间中实现路径收敛的治理模型。

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Long Peace
@@ -214,5 +214,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻剖析二战后大国长和平的威慑本质，揭示西方同盟和平自满引发的去武力化危机，确立以软件[[Hard Power|硬实力]]与 AI 威慑重构新时代长和平的战略路径。

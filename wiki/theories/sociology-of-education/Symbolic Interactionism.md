@@ -67,7 +67,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Symbolic Interactionism
@@ -215,6 +215,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 25–27)]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多处贯穿符号互动论在[[Qualitative Interview|质性访谈]]设计、角色定位管理与观察编码中的方法论映射。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考据比较教育学理论演进史，将符号互动论确立为 1970 年代起打破[[Structural Functionalism|结构功能主义]]单一霸权垄断的 26 种核心[[Theoretical Standpoint|理论立场]]之一。

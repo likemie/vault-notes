@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Space of Equivalence
@@ -190,5 +190,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 分析[[OECD|经合组织]][[PISA]]项目如何通过自建数据确立跨国等值空间，以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]实施远处掌舵。

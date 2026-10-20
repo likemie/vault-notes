@@ -7,9 +7,9 @@ title: "Argument_Chou_Demiryol_2024_HE"
 argument_key: "Argument_Chou_Demiryol_2024_HE"
 argument_display_title: "Knowledge power or diplomacy? University alliances and the Belt and Road Initiative"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Higher Education"
 authors:
@@ -29,6 +29,7 @@ tags:
   - region/china
   - source/journal-article
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Power]]"
   - "[[Knowledge Diplomacy]]"
@@ -85,7 +86,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 阅读透镜
 > - **对象** 一带一路框架下由中国高水平大学发起创建的跨国大学联盟，聚焦由西安交通大学发起的[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）与由清华大学发起的[[Asian Universities Alliance|亚洲大学联盟]]（Asian Universities Alliance, AUA）的组织制度与运行实践。（pp. 1694–1695, 1698–1702）
-> - **张力** 国际关系地缘政治叙事（追求纵向不对称影响力的知识权力）与[[Developmentalism|发展主义叙事]]（追求横向互利共赢的知识外交）之间的理论张力；排他性精英控制与开放包容连接之间的制度张力。（pp. 1695–1698, 1702–1703）
+> - **张力** 国际关系[[Geopolitics|地缘政治]]叙事（追求纵向不对称影响力的知识权力）与[[Developmentalism|发展主义叙事]]（追求横向互利共赢的知识外交）之间的理论张力；排他性精英控制与开放包容连接之间的制度张力。（pp. 1695–1698, 1702–1703）
 > - **贡献** 超越国际关系与高等教育研究中将国家动机二元对立的分析局限，提出通过多对多网络连接实现[[Normalization through Knowledge Cooperation|网络中心性常态化]]的理论命题，并引入[[Tianxia Heuristic|天下启发式框架]]（tianxia heuristic）作为解析后西方全球高等教育空间治理的非西方认识论工具。（pp. 1703–1705）
 
 ---

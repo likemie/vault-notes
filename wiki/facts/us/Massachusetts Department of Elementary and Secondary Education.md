@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Academic Achievement]]"
-  - "[[Growth]]"
 related_methods:
   - "[[Questionnaire]]"
 related_persons:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Massachusetts Department of Elementary and Secondary Education
@@ -81,4 +80,4 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **数据冻结与时效** | 设立学区法定认证截止日（Steel Door），冻结数据作为单一事实来源（Single Point of Truth） | 法定截止后发现的深层错误难以撤回修正，可能破坏已向社会公布的历史序列 | 宏观呈报保持刚性不追溯，仅对涉及学生高中毕业资格与奖学金的高利害个体数据启动司法鉴定式倒查回溯[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 7–8)]] |
 > | **透明度与隐私防线** | 秉持信息公开哲学，倡导全口径向公众公开以驱动公民监督与自主问责 | 细微统计波动易引发社区恐慌、学区房市波动及对弱势生源的标签化羞辱 | 严格限制家长端统一门户权限，采用分级数据库安全角色（Security Roles）与数据假名化隔离敏感信息[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 8)]] |
-> | **高利害问责建模** | 将学生[[Growth\|成长]]百分位数（SGP）与毕业率等指标嵌入年度分类评价模型 | 高利害问责引发学校策略性造假（Gaming）及对主观[[Questionnaire\|问卷调查]]（如学校氛围调查）的操纵担忧 | 审慎权衡技术模型与价值规范，限制易受人为操纵的指标进入最终高利害问责体系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 9)]] |
+> | **高利害问责建模** | 将学生成长百分位数（SGP）与毕业率等指标嵌入年度分类评价模型 | 高利害问责引发学校策略性造假（Gaming）及对主观[[Questionnaire\|问卷调查]]（如学校氛围调查）的操纵担忧 | 审慎权衡技术模型与价值规范，限制易受人为操纵的指标进入最终高利害问责体系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 9)]] |

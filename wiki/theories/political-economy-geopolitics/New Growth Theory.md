@@ -7,7 +7,7 @@ aliases:
 summary: "将知识积累、技术创新与人力资本投资从传统外生假定转变为经济系统内生核心引擎的经济学理论。论证创意与知识具有非竞争性与收益递增特征，打破资本边际报酬递减规律；驱动全球教育治理向学习型经济、实用操作技能与终身学习全面转向。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 35
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Lifelong Learning]]"
-  - "[[Growth]]"
   - "[[Creative Destruction]]"
   - "[[Variable]]"
   - "[[Learning by Doing]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # New Growth Theory
@@ -85,7 +84,7 @@ updated: 2026-10-16
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 保罗·罗默（Paul Romer, 1986）在《政治经济学杂志》发表《收益递增与长期增长》（*Increasing Returns and Long-Run [[Growth]]*），随后发表《内生技术变革》（*Endogenous Technological Change*, 1990），正式奠定内生增长理论基础；彼得·豪伊特（Peter Howitt, 2000）进一步结合[[Joseph Schumpeter|熊彼特]]主义[[Creative Destruction|创造性破坏]]机制扩展了该模型。
+> - **提出者与原始文本** 保罗·罗默（Paul Romer, 1986）在《政治经济学杂志》发表《收益递增与长期增长》（*Increasing Returns and Long-Run Growth*），随后发表《内生技术变革》（*Endogenous Technological Change*, 1990），正式奠定内生增长理论基础；彼得·豪伊特（Peter Howitt, 2000）进一步结合[[Joseph Schumpeter|熊彼特]]主义[[Creative Destruction|创造性破坏]]机制扩展了该模型。
 > - **原初问题** 罗伯特·索洛（Robert Solow）的新古典增长理论假定技术进步是外生[[Variable|变量]]，并预测资本边际产出递减将导致发展中国家向发达国家收入收敛；但二战后几十年的全球实际经验表明，发达国家与欠发达地区的财富鸿沟持续扩大，新古典框架无法解释为何技术能带来长期的持续增长。
 > - **理论资源与材料** 罗默汲取了肯尼斯·阿罗（Kenneth Arrow）的“[[Learning by Doing|干中学]]”假说、约瑟夫·熊彼特（Joseph Schumpeter）的创新理论以及对专利、研发（R&D）微观决策的分析，引入非完全竞争市场结构来对创意研发的垄断租金进行数学建模。
 > - **形成路径** 提出者通过将生产要素严格区分为“对象”（Objects，具有竞争性的物质资源）与“创意”（Ideas，具有非竞争性与部分排他性的知识代码），论证创意可以被无限次复制与共享，从而带来整体经济的规模收益递增。
@@ -182,5 +181,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 分析[[OECD|经合组织]]如何借用内生新增长理论重塑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，推动教育目的向操作技能全面转移。

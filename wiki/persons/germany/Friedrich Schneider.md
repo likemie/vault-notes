@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Friedrich Schneider
@@ -136,7 +136,7 @@ updated: 2026-10-17
 > - **建制化路径** 创办中欧第一份跨国比较教育学术期刊《[[International Education|国际教育]]学评论》，二战后先后复兴萨尔茨堡大学与慕尼黑大学比较教育教席，为西德大学比较教育实体建制培养了骨干梯队。
 > - **欧洲一体化意识** 其著作中对欧洲统一性的执着探寻，构成了早期欧洲一体化思潮在教育学术领域的先声，为 1960 年代 [[Comparative Education Society in Europe|CESE]] 的创立与后来的[[European Education Space|欧洲教育空间]]构想提供了深刻的思想资源。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统评析施奈德与汉斯共同开创的欧洲宏大历史文化全景范式，阐释其驱动力理论在发掘欧洲统一性与抗衡量化行为主义中的核心地位。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将施奈德 1931 年创刊的《国际教育学评论》与 1943 年德国教育海外影响考证置于[[Influences Across Cultures|跨文化影响]]研究传统中，确立其在[[Disciplinary Institutionalization|学科建制化]]与比较学术史中的里程碑地位（pp. 122–123, 126）。
 

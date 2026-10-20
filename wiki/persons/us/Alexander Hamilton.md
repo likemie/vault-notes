@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Alexander Hamilton
@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **政策路径** 奠定了 19 世纪美国长达百年的高关税保护工业体系与“美国制造体系”（American System of Manufactures），并为普鲁士关税同盟和 20 世纪东亚国家产业政策提供了历史范本。
 > - **跨国思想回流** 汉密尔顿思想由李斯特系统化为《政治经济学的国民体系》后，在 19 世纪中后期反向输入回美国、统一后的帝国德国以及明治维新时期的日本，成为全球非英国核心区实现技术超越的共同思想母体。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 明确考证了李斯特[[National Innovation System|国家创新系统]]理论对汉密尔顿《制造业报告》的历史继承关系，揭示美国工业追赶中主动国家政策的原初角色。
 
 ---

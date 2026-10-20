@@ -12,7 +12,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - theme/evidence-based
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Initial Teacher Training]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Gonski 2.0
@@ -77,7 +76,7 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《Gonski 2.0》审查报告将国家教育改革重心从“基于处境不利维度的财政资源再分配”根本性转移至“以学生个体每年至少取得一年成长增益（at least one year's [[Growth]] each year）为导向的个性化卓越教学”；其最具制度突破性的第 23 条建议，正式要求联邦政府设立独立的国家级教育证据机构，统筹全国教育科研因果实证的生产、转化与课堂普及（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
+> 《Gonski 2.0》审查报告将国家教育改革重心从“基于处境不利维度的财政资源再分配”根本性转移至“以学生个体每年至少取得一年成长增益（at least one year's growth each year）为导向的个性化卓越教学”；其最具制度突破性的第 23 条建议，正式要求联邦政府设立独立的国家级教育证据机构，统筹全国教育科研因果实证的生产、转化与课堂普及（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 > [!policy-design]- 政策设计与战略转向
 > - **政策目标** 扭转全澳中小学学业衰退趋势，确立以学生为中心的个性化学习成长[[Paradigm\|范式]]；促进学校教育科研证据的转化应用。

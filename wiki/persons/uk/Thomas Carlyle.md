@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Thomas Carlyle
@@ -100,7 +100,7 @@ updated: 2026-10-09
 > - **组织与领导力理论** 成为 20 世纪现代领导力理论（特质理论 Trait Theory of Leadership）的源头。
 > - **当代地缘战略与国家建构反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中结合[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）建国实践，重估卡莱尔思想对于反思现代平庸[[Bureaucracy|科层制]]与后现代解构主义的重要价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 从新加坡李光耀领导实证出发，重审卡莱尔伟人理论对理解卓越领袖打破历史平衡的理论效力。
 
 ---

@@ -89,7 +89,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Inter-Rater Reliability
@@ -307,7 +307,7 @@ updated: 2026-10-16
 
 以下代表性实证研究展示了评分者间[[Reliability|信度]]在理论建构、量表检验与跨国调查中的具体操作。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 系统阐释评分者信度作为等值性的理论内涵，并在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|第 23 章]]中详述观察者培训、一致性百分比公式与漂移防范。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 界定独立评判者评分一致性的操作要求，举例阐释儿童行为录像观察中的信度检验程序。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立大规模[[Classroom Observation|课堂观察]]的双轨信度判定指标、三段式视频盲测认证规程及六大认知偏误防御体系。

@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 64
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Working Hypothesis]]"
   - "[[Geisteswissenschaften]]"
-  - "[[Growth]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -93,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Falsification
@@ -142,7 +141,7 @@ updated: 2026-10-19
 > | 维度 | 逻辑[[Positivism\|实证主义]]经验证实（Verificationism） | 波普尔朴素证伪主义（Popperian Falsification） | 拉卡托斯科学研究纲领（Lakatosian Programmes） | [[Crane Brinton\|布林顿]]比较史学有限工作假设（Brinton / Kazamias） |
 > |---|---|---|---|---|
 > | **[[Epistemology\|认识论]]基础** | 归纳主义；经验感觉经验累积 | 演绎主义；推测与反驳批判理性 | 历史主义与方法论整体论；硬核与保护带 | 广义[[Geisteswissenschaften\|人文科学]]（*Wissenschaft*）；历史情境因果解释 |
-> | **科学划界标准** | 意义标准：可经验证实即有意义 | 划界标准：具备经验可反驳性即属科学 | 启发法与纲领[[Growth\|生长]]能力：是否具有预测进步性 | 理论阐释效能：是否能系统照亮制度演化根由 |
+> | **科学划界标准** | 意义标准：可经验证实即有意义 | 划界标准：具备经验可反驳性即属科学 | 启发法与纲领生长能力：是否具有预测进步性 | 理论阐释效能：是否能系统照亮制度演化根由 |
 > | **对待反常方式** | 将反常视作未纳入统计模型的残差 | 单个反常证据在逻辑上足以彻底证伪理论 | 调动辅助假设保护硬核，通过退化或进步判定替换 | 经验反哺与边界重构，反思理论假设的情境限定性 |
 > | **教育研究适用** | 跨国大规模指标统计与经验归纳建模 | 明确[[Operationalization\|操作化]]因果假说的演绎检验与反驳 | 理论流派的[[Paradigm\|范式]]竞争与综合评估 | 跨国教育制度转型与历史因果机制比较分析 |
 
@@ -336,7 +335,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后比较教育学中霍姆斯如何引入波普尔假说-演绎法与可反驳假说，探讨预测划界标准引发的学术大论战。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐述霍姆斯以 $L + I = P$ 公式[[Operationalization|操作化]]波普尔证伪原则，辨析条件预测与不可证伪的历史宿命论预言，并借由[[Crane Brinton|布林顿]]史学论证历史探索性工作假设的可检验性。

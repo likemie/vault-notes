@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Financial-Intellectual Complex
@@ -218,7 +218,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育结构调整与新自由主义[[Disciplina and Doctrina|规训]]。
 
 ---

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Precompetitive Research
@@ -216,7 +216,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为全行业共担风险的研发制度，以 1987 年 [[Sematech]] 和 1997 年 [[EUV LLC]] 为例，并承认后续政策让出了市场主导地位。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。

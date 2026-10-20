@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Lifestyle Technology
@@ -150,5 +150,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章系统剖析硅谷工程师如何将才智浪费于开发生活方式技术以逃避国家战略使命，揭示消费主义科技对西方[[Hard Power|硬实力]]的深刻瓦解。

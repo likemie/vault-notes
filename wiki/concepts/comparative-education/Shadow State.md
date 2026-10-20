@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Shadow State
@@ -206,6 +206,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Sutton and Arnove (2004) 与 Kamat (2004) 研究，将影子国家界定为全球化时代跨国援助机构侵蚀民族[[State Educational Sovereignty|国家教育主权]]与同化民间社会的关键机制（pp. 111–112）。
 

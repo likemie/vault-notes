@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-20
 ---
 
 # Dissimilar Units
@@ -165,5 +165,5 @@ updated: 2026-10-01
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 借由[[Neil Smelser|斯梅尔塞]]关于非同质单位的经典论述，论证比较教育学无法开展实验室控制干预的根本规定性，捍卫自然情境研究与质性脉络化进路的合法地位。

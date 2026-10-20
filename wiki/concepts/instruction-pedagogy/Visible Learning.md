@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 151
+related_count: 150
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -81,7 +81,6 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Falsification]]"
   - "[[Critical Thinking]]"
-  - "[[Growth]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
@@ -175,7 +174,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Visible Learning
@@ -430,7 +429,7 @@ updated: 2026-10-19
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 13)]] | 多国[[Academic Achievement\|学业成就]]方差多层实证模型 | 多层线性方差分解元模型 | 六大学业成就变异源方差贡献率 | 学生个人差异 50%；教师教学效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接影响 | — | 实证确立教师在学校系统内部可控变量中占据绝对主导地位（30%） |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段[[Growth\|成长]]曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段成长曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与编码统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 26–30)]] | 《可见的学习》关键案例（Eisenstaedt、Haas、Olson & Wisher） | 计量统计学规范重构与算法审计 | [[Standard Error\|标准误]]、加权权重、文献重叠与综合效应量 | Eisenstaedt 因混淆 SE 与 SD，效应量自真实 $d \approx -0.80$ 虚增至 $-8.291$；Haas 直接教学权重被削减 53.5%；网络学习存在 93.3% 重叠，去重加权后 $d$ 自 $0.59$ 降至 $0.23$（排名从第 26 跌至第 98） | 6 项分析环节全部存在系统性方法违背与计算失误 | 实证证实[[John Hattie\|哈蒂]]排名榜存在严重的数值放大与位次颠簸，因数据受损导致 0.40 关节点失去实体效度 |
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019, pp. 238–241)]] | 《可见的学习》138 个学校因素中的 133 项正值效应量 | 变差系数统计检验（Variation Coefficient, $V_\sigma$）与全俄教育实证监测 | 全样本及六大来源效应量变差系数；俄教师职业声望与报表负担 | 总体 $V_\sigma = 56.87\%$；学生 71.24%、学校 65.97%、教师 51.01%、教学 50.65%、课程 41.95%、家庭 38.57% 全部超过 33% 同质性门槛；俄教师声望仅 16%，79% 受困于报表 | 偏离同质性最优阈值 -23.87%；属于极度不均数据集 | 首个数学检验揭示 Hattie 效应量分布极度不均且缺乏质控，动摇 0.40 标尺的客观性；强行借用量化监控极易诱发教师大规模流失的制度陷阱 |

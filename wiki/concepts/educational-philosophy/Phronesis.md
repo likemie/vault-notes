@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Phronesis（实践明智 / 实践智慧）
@@ -195,7 +195,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统考证了[[Aristotle|亚里士多德]]实践明智（Phronesis）在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程对话审议中的[[Epistemology|认识论]]功能。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，将熟练技师与工程师在现场排障与实验装置建造中的实践智慧，确立为国家创新公地与[[Engineering Education|工程教育]]不可分割的基石。
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Spatial Governmentality
@@ -196,7 +196,7 @@ graph TD
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 运用空间[[Governmentality|治理术]]的三大轴线系统剖析全球教育中的[[Student Mobility|学生流动性]][[Discourse|话语]]差异，以及中国、美国、西班牙、英国和印度的[[Migrant Children|流动儿童]]边缘化机制。
 
 ---

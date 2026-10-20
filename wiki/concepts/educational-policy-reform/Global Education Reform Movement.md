@@ -79,7 +79,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Global Education Reform Movement
@@ -276,7 +276,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合新西兰公共教育市场化改制、企业财报与词频统计，系统解构了《[[Visible Learning|可见的学习]]》如何充当 GERM 的政治经济工具与财政紧缩挡箭牌（pp. 23–41）。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在宏观、中观与微观三层决策上推动 GERM 全球扩散的具体机制和国别案例。
 > - [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州教育部推行 10 项标准化教学策略并实施白板检查，展现了 GERM 在地方教育系统中的技术官僚控制。

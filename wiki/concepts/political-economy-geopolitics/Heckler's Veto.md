@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Heckler's Veto
@@ -127,5 +127,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 追溯 1963 年耶鲁大学邀请种族隔离主义者华莱士演说引发的风波，指出 [[Pauli Murray]] 对起哄者否决的警示深刻揭示了当代高校避险文化对实质思想交锋的侵蚀。

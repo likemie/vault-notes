@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Banking Model of Education
@@ -228,7 +228,7 @@ updated: 2026-10-16
 
 储蓄式教育在教育哲学、课程论、知识社会学与人工智能伦理学中形成了持续扩展的跨学科实证与理论谱系。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 结合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]哲学审查[[International Baccalaureate|国际文凭]]课程，系统解构储蓄式教育中“加仑事实”灌输与空容器假设对[[Active Learning|主动学习]]的侵害。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] 借鉴弗莱雷批判传统，深入剖析生成式 AI 时代大模型代劳造成的数字储蓄式教育异化，构建防范[[Formative Epistemic Injustice|成长性认识不正义]]的三重防御规程。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] 运用弗莱雷储蓄式模型探讨[[Geopolitics of Knowledge|知识地缘政治]]，揭示赫尔巴特五段教学法与殖民教育中的[[Forced Knowledge Transfer|强制知识转移]]机制。

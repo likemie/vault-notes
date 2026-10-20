@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ethnography
@@ -252,7 +252,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 经典教育研究方法教材，系统阐述民族志的[[Epistemology|认识论]]基础、12 阶段实施规程、实地进入角色演变及有效性判准。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — [[Qualitative Research|质性研究]]设计专著，详细介绍文化共享群体界定、民族志提问分类法（Spradley）及[[Critical Ethnography|批判民族志]]定位。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。

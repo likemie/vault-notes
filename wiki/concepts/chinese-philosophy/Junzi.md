@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Junzi
@@ -183,6 +183,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 阐析儒家君子作为典范人物的审美[[Self-Cultivation|修身]]维度、角色自如践行与去贵族化演变。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]] — 结合[[Lee Kuan Yew|李光耀]]新加坡治理实践，论证儒家君子美德作为实质道德锚点对超越形式中立与重铸[[Technological Republic|技术共和国]]的不可替代性。

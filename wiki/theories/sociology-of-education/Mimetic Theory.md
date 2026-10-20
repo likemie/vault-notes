@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Mimetic Theory
@@ -171,7 +171,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 157–158)]] — 援引[[René Girard|吉拉尔]]灵长类香蕉选择实验，系统阐明模仿欲望对科技初创企业与创投生态的同质化支配，论证过度模仿对突破性[[Creativity|创造力]]的致命毒性。
 
 ---

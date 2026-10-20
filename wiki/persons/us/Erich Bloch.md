@@ -47,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Erich Bloch
@@ -133,7 +133,7 @@ updated: 2026-10-19
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
 > - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录布洛赫政策口述史，全面剖析其主导 ERC 创设的立法博弈、日落条款治理哲学、淘汰机制威慑以及对传统大学系所壁垒的尖锐批判。
 
 ---

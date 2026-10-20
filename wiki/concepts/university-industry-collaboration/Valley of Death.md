@@ -84,7 +84,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Valley of Death
@@ -263,7 +263,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 系统论述大学与产业界合作中的死亡之谷成因、[[Research and Technology Organisation|RTO]] 平台与生态系统建设机制。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 援引早期技术开发资金定量核算数据，实证解构联邦公共资本在托底死亡之谷中的决定性作用，反思公共去风险与私人暴利分配失衡。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明通过 300mm 研发基线、云端 DEG 网关与 [[Natcast]] 非营利独立运营弥合半导体深科技死亡之谷的国家战略设计。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # George Tsebelis
@@ -124,7 +124,7 @@ updated: 2026-10-17
 > - **方法路径** 推动了空间投票模型与无差别曲线分析法在小样本比较政治与比较宪法学中的普及，使制度刚性测量走向形式化与量化。
 > - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及[[EU|欧盟]]机构条约改革谈判的战略预测。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的“[[Veto Possibilities|否决可能性]]”维度（p. 19）。
 
 ---

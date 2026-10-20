@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Rightness]]"
   - "[[Lifelong Learning]]"
   - "[[Postpositivism]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Torsten Husén
@@ -78,7 +77,7 @@ updated: 2026-10-17
 > [!citation-card] 马修论胡森揭示战后科学规划承诺的破灭
 > 在首要层面上，实证科学[[Paradigm\|范式]]所许诺的诸多远景——社会公正与代际流动、不间断的经济增长、消除不发达状态——均未能兑现：“科学”研究与规划未能实践其对政策方案正义性与有效性的保证（Husén, 1982）。残酷的现实生活让所有关于[[Scientific Method\|科学方法]]客观、无误与积极特性的浮夸言辞失去了[[Reliability\|可靠性]]，从而彻底撼动了其实证声誉的基石。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
 >
-> *In the first place, many promises – social justice and mobility, uninterrupted economic [[Growth]], elimination of underdevelopment – were not kept: ‘scientific’ research and planning had failed to live up to their reassurances as to the [[Rightness\|righteousness]] and the effectiveness of their policy proposals (Húsen, 1982). The hard facts of life had in practice rendered unreliable all the grandiloquent statements about the objective, infallible and positive character of the scientific approach, thus undermining the very foundations of its reputation.*
+> *In the first place, many promises – social justice and mobility, uninterrupted economic Growth, elimination of underdevelopment – were not kept: ‘scientific’ research and planning had failed to live up to their reassurances as to the [[Rightness\|righteousness]] and the effectiveness of their policy proposals (Húsen, 1982). The hard facts of life had in practice rendered unreliable all the grandiloquent statements about the objective, infallible and positive character of the scientific approach, thus undermining the very foundations of its reputation.*
 
 ---
 

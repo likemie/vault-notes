@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Congressional Earmarks
@@ -224,6 +224,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统阐释美国隐蔽[[Developmental Network State|发展型网络国家]]在面对保守派反大政府修辞时，如何将国会专项拨款作为输送研发资本、建立产学协同中心的隐蔽制度通道，并实证指出此类中心具有不可忽视的局部生产性成效。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 从战后[[Research Universities|研究型大学]]治理与同行评议制度演进视角，系统揭露国会专项拨款规避择优竞争程序对学术公信力的侵蚀，并论证单纯政治分肥硬件大楼无法使高校逾越学术资本积累规律。

@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Procedural Knowledge]]"
   - "[[Gamification]]"
-  - "[[Growth]]"
   - "[[Self-Efficacy]]"
   - "[[Student Attitude]]"
   - "[[Business as Usual]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Teams-Games-Tournament
@@ -75,7 +74,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | 考核形式 | 同质能力竞赛桌游戏（卡片竞答） | 个体独立闭卷小测验 | 全班统考/公开抢答 |
 > | 竞争规则 | 与先前表现相当的同质同伴公平竞赛 | 与个人历史基线表现比拼进步分 | 全员无差别同台竞技，强弱分明 |
-> | 动机机制 | [[Gamification\|游戏化]]竞技乐趣 + 团队荣誉联结 | 个人[[Growth\|成长]]进步 + 团队责任激励 | 胜者通吃，引发高焦虑与[[Learned Helplessness\|习得性无助]] |
+> | 动机机制 | [[Gamification\|游戏化]]竞技乐趣 + 团队荣誉联结 | 个人成长进步 + 团队责任激励 | 胜者通吃，引发高焦虑与[[Learned Helplessness\|习得性无助]] |
 > | 适用内容 | 事实、词汇、公式等良构知识复习 | 概念理解与学科综合测试 | 甄别选拔性考试 |
 
 ---

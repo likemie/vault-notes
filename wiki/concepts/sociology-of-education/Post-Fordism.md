@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Post-Fordism
@@ -229,6 +229,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Dependency Theory|依附理论]]与批判政治经济学视角，系统分析后福特制生产方式转型对国家教育供给目标与课程技术控制的重构。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯[[Panopticism|全景敞视]]理论与职场监视文献，剖析后福特制数字化信息收集如何通过 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与可见学习气压计渗透至日常教学，解构其新泰勒制[[Disciplina and Doctrina|规训]]实质。

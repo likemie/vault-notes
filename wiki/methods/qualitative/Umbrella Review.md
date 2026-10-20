@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Umbrella Review
@@ -160,7 +160,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 阐述英国 [[Education Endowment Foundation|EEF]] 工具包如何整合一系列伞状综述，以共同方法论为教育决策提供可及的相对有效性证据与挂锁安全分级。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 依据系统评价与伞状综述规范（Campbell MECCIR 与 [[PRISMA]] 声明），对《[[Visible Learning|可见的学习]]》全库开展[[Preregistration|预注册]][[Metascience|元科学]]质量审计，证实 [[PICO Framework|PICO]] 严重错配（仅 19% 全合规）与二阶数据提取危机（<1% 复现率），确立了伞状综述严格门禁的必要性。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 结合[[Realist Evaluation|实在论评估]]批判伞状综述脱离因果机制的局限，指出体育参与等条目仅依赖极其稀疏的底层[[Meta-analysis|元分析]]，难以支持坚实的宏观推论。

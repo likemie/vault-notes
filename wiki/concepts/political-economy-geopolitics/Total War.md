@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Total War
@@ -192,7 +192,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]
+> [!evidence-grid] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 38–41）：深入剖析[[Erich Ludendorff|鲁登道夫]]总体战逻辑、B-29 火攻及核均势对维系[[Long Peace|长和平]]的威慑机理。
 

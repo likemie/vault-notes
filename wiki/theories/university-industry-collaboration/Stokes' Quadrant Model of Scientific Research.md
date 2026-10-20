@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Stokes' Quadrant Model of Scientific Research
@@ -194,7 +194,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]] — 运用斯托克斯[[Pasteur's Quadrant|巴斯德象限]]模型为国际校企研发合作提供[[Epistemology|认识论]]定位，以玛氏公司与加州大学戴维斯分校四十年合作为实证案例，论证空间共置与互利机制对整合应用考量与基础机理创新的关键价值。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 将斯托克斯模型确立为美国[[Developmental Network State|发展型网络国家]]（DNS）打破传统线性创新观的核心认识论基石，阐释公共部门主动介入巴斯德象限早期中试转化的制度合法性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统反思斯托克斯模型静态二元语汇的局限性，提出整合科学发现与技术发明的动态双向循环演进分析[[Paradigm|范式]]。

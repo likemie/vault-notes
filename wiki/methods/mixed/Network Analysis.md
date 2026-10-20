@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Network Analysis
@@ -232,7 +232,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 运用社会网络分析（SNA）测算 22 名五年级学生在 15 个[[Theory of Knowledge|知识论]]坛视图中的发帖与回应互动，量化验证[[Reflective Structuration|反思性结构化]]消除了孤立节点并促成高密度分布式认知网络。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 系统梳理社会网络分析的方法论源流、五大分析维度、七大关系类型学及矩阵图形展示技术。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。

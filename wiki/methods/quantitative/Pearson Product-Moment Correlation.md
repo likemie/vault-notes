@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Pearson Product-Moment Correlation
@@ -208,7 +208,7 @@ updated: 2026-10-18
 > - **双列相关前置条件的系统性违背**Borenstein et al. (2009) 明确指出该换算仅适用于二分[[Variable|变量]]与连续变量的双列相关模型；若在实际文献合成中无视二分切割条件与连续正态假定，直接对常规 Pearson $r$ 进行代入，属于数理推导层面的操作越界。
 
 > [!critique-method] 相关关系伪装因果干预的[[Category Mistake|范畴错误]]
-> 将横截面[[Correlational Research|相关研究]]数据借助公式换算包装为实验干预[[Effect Size|效应量]]，构成了严重的范畴错误（[[Category Mistake|范畴错误]]）与因果混淆（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）：
+> 将横截面[[Correlational Research|相关性研究]]数据借助公式换算包装为实验干预[[Effect Size|效应量]]，构成了严重的范畴错误（[[Category Mistake|范畴错误]]）与因果混淆（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）：
 > - **[[Creativity|创造力]]实证错位** 在[[Meta-meta-analysis|二阶元分析]]中，金（Kim, 2005）的[[Meta-analysis|元分析]]被包装为[[Creativity|创造力]]对[[Academic Achievement|学业成就]]的强大因果干预；然而原始研究所汇集的证据实质上仅是智商测验（IQ）与创造力量表得分之间的横向静态相关，从未测量[[Creativity Training|创造力培养]]或教学训练带来的实验增量。
 > - **自我报告成绩榜首失范** 在教育排行榜中常年位列榜首的学生自我报告成绩（Self-reported grades），其原始数据仅为学生自我预估成绩与真实期末成绩之间的双变量自相关；该数据反映的是学生对自己能力的评估准确性，缺乏实施自我预估组与未实施预估组之间的因果对照，将其换算为干预效应量并列入排行榜首位，构成了将预测一致性偷换为教学效能的逻辑谬误。
 
@@ -285,7 +285,7 @@ updated: 2026-10-18
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 规范了量化设计中依据[[Variable|变量]]数目与分布形态选择 Pearson 相关的决策矩阵。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 揭示了将皮尔逊相关换算为均值差时的极值发散风险与方差解释度虚增问题。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Creativity|创造力]][[Meta-analysis|元分析]]中将各实证研究的一阶效应指标统一转换为皮尔逊 $r$ 并执行 Fisher's $z$ 变换。

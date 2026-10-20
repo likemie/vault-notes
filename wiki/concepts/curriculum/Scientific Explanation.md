@@ -7,7 +7,7 @@ aliases:
 summary: "科学教育与课程论核心概念，指学习者依据学科评价标准与经验证据为自然现象建构因果机制、概念网络与多模态理论模型的认识论实践。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Theory of Knowledge]]"
-  - "[[Growth]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Scientific Explanation
@@ -221,7 +220,7 @@ updated: 2026-10-19
 > | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作话语分析与典型案例研究 | 16 篇 BOOK 视图反思笔记的科学理解层级与认知复杂度编码 | 科学理解中 13 篇达完全科学水平（占比 81.25%），2 篇达基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇达详细因果解释（占比 43.75%），2 篇简要解释，6 篇详细事实；30 个核心问题中 23 个为解释寻求型问题（占比 76.7%） | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实[[Reflective Structuration\|反思性结构化]]教学有效驱动小学生从表层事实搜寻深化至高质量的因果机制科学解释 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的操作化认识论工具 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的操作化认识论工具 |
 
 ---
 

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Politicity of Education
@@ -228,5 +228,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 汲取[[Paulo Freire|弗莱雷]]批判传统，深度论证教育政治性在[[Epistemology|认识论]]、分析与伦理上的三重内涵，系统解构技术主义与[[Value Neutrality|价值中立]]的意识形态虚构。

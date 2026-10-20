@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Total Quality Management
@@ -232,7 +232,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 论述 [[Sematech]] 如何通过系统性推广 TQM 和 [[Statistical Process Control|SPC]]，提升半导体设备供应链的质量控制能力与组织韧性。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合伯克利 [[Competitive Semiconductor Manufacturing Program|CSM]] 标杆项目，论述美国半导体制造企业如何依托 TQM、TPM 与跨专业工程改进，在先进逻辑制程中消除美日良率差距。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从[[National Innovation System|国家创新系统]]与历史比较视角，论证 TQM 与质量控制圈如何作为微观组织[[Paradigm|范式]]打通日本企业内部研产横向协同，并与前苏联部属体制形成鲜明对照。

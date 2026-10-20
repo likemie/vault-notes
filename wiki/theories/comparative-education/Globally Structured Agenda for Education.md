@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Globally Structured Agenda for Education
@@ -162,5 +162,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统评析戴尔的全球结构化教育议程与八大外部机制，将其与[[Immanuel Wallerstein|沃勒斯坦]]世界体系论相融合，构筑批判全球化教育政治经济学[[Analytic Framework|分析框架]]。

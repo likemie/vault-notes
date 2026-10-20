@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cost of Ownership
@@ -174,6 +174,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 如何通过开发与推广 COO 标准模型，重塑半导体设备买卖双方长期信任并降低装备生命周期运行成本。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 论证 COO 标准化与技术路线图如何作为制度基础设施，支撑美国半导体装备产业实现制造能力重构与全球份额逆转。

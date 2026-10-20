@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Classroom Observation
@@ -218,5 +218,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制并验证开源标准化教学观察工具 Teach，确立双段独立观察与低推论时间快照加高推论行为评定的双轨技术架构。

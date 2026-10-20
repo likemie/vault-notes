@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Industrial District
@@ -144,5 +144,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合马歇尔、皮奥里与萨贝尔的洞见，论证次国家产业区在后工业全球化时代依然是维系[[National Competitive Advantage|国家竞争优势]]的核心空间单元。

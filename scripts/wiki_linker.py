@@ -1083,7 +1083,7 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
                 display_clean = display.strip()
                 entry = entries_by_title[target]
                 valid_displays = {entry.title, *entry.aliases}
-                if display_clean not in valid_displays:
+                if display_clean not in valid_displays and not is_case_variant_display(display_clean, valid_displays):
                     removed += 1
                     return display
             return m.group(0)
@@ -1165,6 +1165,18 @@ def match_term_at(text: str, start: int, term: str) -> bool:
         return candidate.casefold() == term.casefold()
 
     return False
+
+
+def term_is_case_insensitive(text: str) -> bool:
+    """Mirror TermMatcher: terms with ASCII letters match case-insensitively,
+    except short all-caps acronyms (<= 3 chars) and terms without ASCII letters."""
+    has_ascii_alpha = any(ch.isascii() and ch.isalpha() for ch in text)
+    return has_ascii_alpha and not (len(text) <= 3 and text.isupper())
+
+
+def is_case_variant_display(display: str, valid_displays: set[str]) -> bool:
+    folded = display.casefold()
+    return any(term_is_case_insensitive(v) and v.casefold() == folded for v in valid_displays)
 
 
 def link_text(display: str, target: str, table_safe: bool = False) -> str:
@@ -1439,7 +1451,10 @@ def link_plain_text(
             i += 1
             continue
 
-        new_chunk.append(link_text(matched.text, matched.target, table_safe=table_safe))
+        # Keep the source spelling: case-insensitive terms must not rewrite
+        # "growth" as "Growth". The trie consumes one source char per term char.
+        display = chunk[i:i + len(matched.text)]
+        new_chunk.append(link_text(display, matched.target, table_safe=table_safe))
         already_linked.add(matched.target)
         additions += 1
         i += len(matched.text)

@@ -85,7 +85,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # STEM Education
@@ -291,7 +291,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。

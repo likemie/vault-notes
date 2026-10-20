@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Roy Nash
@@ -112,7 +112,7 @@ updated: 2026-10-18
 > - **方法路径** 深刻澄清量化统计技术与因果机制解释的本质界限，警示学界防范多重共线性、[[Ecological Fallacy|生态学谬误]]以及将统计关联误当因果规律的技术主义短视。
 > - **公共智识路径** 成为新西兰大学学者履行“[[Critic and Conscience of Society|社会的批评者与良知]]”法定职能的标志性典范，其研究成为反击削减教育公共福利、抵制将结构性不平等转嫁给教师绩效问责的学术基石。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 将纳什 2003 年对教育成就差异非学校因素的透彻分析，作为当代大学学者践行“社会的批评者与良知”角色的卓越典范。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引纳什关于量化数据极易被政策官僚挪用为政治宣传工具的方法论警告，全面解构[[John Hattie|哈蒂]]的宏观二阶元分析综合模型。
 

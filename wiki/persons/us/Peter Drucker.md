@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peter Drucker
@@ -102,7 +102,7 @@ updated: 2026-10-16
 > - **现代管理理论路径** 开创了以知识管理、目标自治与员工潜能释放为核心的现代管理思想体系。
 > - **高科技组织与敏捷工程路径** 为硅谷高科技企业打破传统工业[[Bureaucracy|官僚制]]、将软件工程师视作独立艺术家并建立直连扁平架构提供了前瞻性的理论支柱。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]] — 卡普与扎米斯卡援引德鲁克的[[Symphony Orchestra Model|交响乐团组织模型]]，阐述科技初创企业应当构建为无多层副总裁中介、允许工程师艺术家与领导者直连互动的“艺术公社”。
 
 ---

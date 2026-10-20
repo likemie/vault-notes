@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
-  - "[[Growth]]"
   - "[[Soft Power]]"
   - "[[Grandes Ecoles]]"
   - "[[Liberal Education]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # 1960 Bellagio Conference
@@ -92,7 +91,7 @@ updated: 2026-10-16
 > [!citation-card] 贝拉吉奥会议推动[[Human Capital Theory\|人力资本]]与教育扩张以驱动增长的学术定性
 > 20 世纪 60 年代，许多以美国为主导的关于教育危机的国际会议相继召开，例如 1960 年的贝拉吉奥会议，该会议呼吁各国政府采纳人力资本方法并扩张其教育体系以促进经济增长；随后是 1961 年在华盛顿特区举行的[[OECD\|经合组织]]经济增长与教育投资政策会议；以及 1967 年在弗吉尼亚州威廉斯堡举行的世界教育危机国际会议。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> *Many US-spearheaded international conferences on education crises were held in the 1960s, such as the Bellagio meetings in 1960, which called on governments to adopt a human capital approach and expand their educational systems to boost [[Growth]]; the [[1961 Policy Conference on Economic Growth and Investment in Education\|1961 OECD Policy Conference on Economic Growth and Investment in Education]] held in Washington D.C.; and the International Conference on the World Crisis in Education at Williamsburg, Virginia, in 1967 (Elfert and Ydesen 2023; see also Brehm 2023).*
+> *Many US-spearheaded international conferences on education crises were held in the 1960s, such as the Bellagio meetings in 1960, which called on governments to adopt a human capital approach and expand their educational systems to boost Growth; the [[1961 Policy Conference on Economic Growth and Investment in Education\|1961 OECD Policy Conference on Economic Growth and Investment in Education]] held in Washington D.C.; and the International Conference on the World Crisis in Education at Williamsburg, Virginia, in 1967 (Elfert and Ydesen 2023; see also Brehm 2023).*
 
 ---
 

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Fixed-Effect Model
@@ -243,7 +243,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学公理严格推导两级[[Meta-analysis|元分析]]代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），实证审计了[[John Hattie|哈蒂]]因违反抽样独立性假定（93.3% 重叠）与滥用简单平均导致网络学习排名自第 26 位雪崩至第 98 位的严重失范。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 比较固定效应与[[Random-Effects Model|随机效应模型]]的哲学假设，指出固定效应模型假定存在唯一的单一真值，其推论严格封闭于纳入研究集合。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析[[Inverse-Variance Weighting|逆方差加权]]固定效应合成规程与[[Heterogeneity|异质性]]检验决策门槛。

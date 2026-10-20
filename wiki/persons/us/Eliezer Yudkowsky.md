@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Eliezer Yudkowsky
@@ -106,7 +106,7 @@ updated: 2026-10-16
 > - **政策与风险度量路径** 推动了末日概率（P(doom)）这一概念在硅谷与华盛顿政策界的流行，使政府决策层严肃审视[[Artificial General Intelligence|通用人工智能]]失控的极端尾部风险。
 > - **争议与地缘战略交锋** 其主张的极端技术叫停立场，成为当代科技战略家（如 Karp & Zamiska）批判科技精英道德恐慌与逃避地缘防卫责任的核心论敌。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 评述尤德考夫斯基在 2023 年《时代》杂志中关于制造强 AI 将导致人类灭绝的极端警示，将其作为西方社会面对技术突破时滋生文明崩溃焦虑的代表。
 
 ---

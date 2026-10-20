@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Scott Eacott
@@ -144,7 +144,7 @@ updated: 2026-10-17
 > - **实务批判路径** 激发了一线教育工作者对科层持续数据生产与机械问责的警觉与反思，其论文发表后持续收到世界多国中小学校长分享[[Cult of the Guru|大师崇拜]]如何异化日常教学的个人叙事。
 > - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义[[Disciplina and Doctrina|规训]]本质。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出哈蒂可见学习为当代教育行政中的“新泰勒主义”与“大师崇拜”。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩技术理性批判，细读哈蒂反馈元分析底层数据，实证支撑埃考特关于新泰勒主义规训与构念混淆的论断（pp. 14–15）。

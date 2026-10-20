@@ -125,7 +125,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Creativity
@@ -457,7 +457,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]确立创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应及教育干预效能。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]证实训练对大学生创造力产生中等显著促进（$g = 0.628$），揭示中短期干预窗口与言语认知优势。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 二阶[[Meta-analysis|元分析]]确立[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先赋能效应（$ES = 0.76$）。

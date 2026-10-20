@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Nicholas Negroponte
@@ -154,7 +154,7 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引尼葛洛庞帝关于[[Big Idea Famine|大构想饥荒]]的经典论断，批判硅谷风险投资将顶级工程智力耗费于浅层消费软件，提出重建重大国家任务导向的创新体制。
 
 

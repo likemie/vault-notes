@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Sampling Error
@@ -253,7 +253,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统阐明教育研究中抽样误差、均值[[Standard Error|标准误]]、分类比例标准误、[[Central Limit Theorem|中心极限定理]]及样本容量边际递减法则，提供比例标准误的递进计算数值实例。
 > - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统推导两级[[Meta-analysis|元分析]]成立的代数等价性定理；法医式揭露文献重叠导致抽样误差低估的假阳性膨胀机制，以及误将标准误当标准差计算导致[[Effect Size|效应量]]虚增近十倍的重大计量事故。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 阐明元分析中抽样误差（研究内方差）与研究间真实[[Heterogeneity|异质性]]的二元方差分解，辨析[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应模型]]在处理抽样波动时的根本分歧。

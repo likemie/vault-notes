@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Co-invention
@@ -194,5 +194,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件产业演化，阐明用户端共同发明（如企业内部软件开发与航空订票系统）如何与上游硬件创新形成双向正反馈，并深入分析了该机制向气候能源技术政策移植的适用边界。

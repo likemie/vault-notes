@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 以先进燃气轮机联合体（ATS）为例，系统论证能源部国家实验室依托 [[Cooperative Research and Development Agreement|CRADA]] 协议承担早期高风险中试、跨越[[Valley of Death|死亡之谷]]的网络经纪功能。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述能源部在 2025 年[[Genesis Mission|创世纪计划]]中的领导地位，论证 17 所国家实验室在科学 AI 基座模型训练、闭环自主实验室部署、[[EUV LLC]]/[[Human Genome Project|HGP]] 传统继承以及 2025 年核能监管改革中的战略支柱功能。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下能源部作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，统领 5 大纳米科学研究中心（NSRCs）、[[Megascience Installations|大科学装置]]与微电子[[Co-Design|协同设计]]（Co-Design）专项，在二维材料与能效极限攻坚中的战略机制。

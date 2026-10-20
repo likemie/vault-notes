@@ -9,7 +9,7 @@ summary: "希腊裔国际教育政策专家与历史学家，经合组织（OECD
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Governing by Numbers]]"
-  - "[[Growth]]"
   - "[[New Public Management]]"
   - "[[Public Value]]"
 related_theories:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # George Papadopoulos
@@ -124,7 +123,7 @@ updated: 2026-10-16
 > - **方法路径** 开创并奠定了以国别政策审查（National Reviews）和跨国专题研究（Thematic Reviews）为基础的自愿[[Peer Debriefing|同行审议]]（Peer Review）定性方法，开创了重在政策阐释与反思的组织学习模式。
 > - **政策路径** 主导创立[[Centre for Educational Research and Innovation|CERI]]，推动经合组织在残障儿童教育、多元文化教育、女性受教育权、师资培养及弱势群体补偿等广泛社会公平议题上开展长达二十余年的开拓性项目。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 437–442, 450–452)]] — 深度引用帕帕多普洛斯的历史档案，作为对比新自由主义[[Knowledge-Based Economy|知识经济]]转向与[[Governing by Numbers|数字治理]]崛起的历史基准。
 
 ---
@@ -134,7 +133,7 @@ updated: 2026-10-16
 > [!citation-card] 里兹维与林加德论帕帕多普洛斯时代的治理生态
 > [[OECD|经合组织]]内部始终存在着关于教育政策的两种相互竞争的视角之间的根本张力：第一种视角从多重目的审视教育，既将其视作经济发展的工具，又将其看作促进民主平等与社会流动的媒介。这种张力被帕帕多普洛斯极为准确且富有洞察力地描述了出来。……帕帕多普洛斯提供了一个令人信服的历史解释，说明了直到1990年代初，经合组织的教育工作都可以有效地被概括为在其促进经济效率与增长的关切同教育更广泛的社会目的之间的一场博弈斗争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 450–451)]]
 >
-> *In this chapter, we have argued that a fundamental tension has always existed within the OECD between two competing perspectives on educational policy. ... This tension is accurately and insightfully described by Papadopoulos. ... Papadopoulos provides a convincing historical [[Accounts|account]] of how, until the early 1990s, the OECD’s educational work can usefully be characterized as involving a struggle between its concerns for promoting economic efficiency and [[Growth]], on the one hand, and education’s broader social purposes, on the other.*
+> *In this chapter, we have argued that a fundamental tension has always existed within the OECD between two competing perspectives on educational policy. ... This tension is accurately and insightfully described by Papadopoulos. ... Papadopoulos provides a convincing historical [[Accounts|account]] of how, until the early 1990s, the OECD’s educational work can usefully be characterized as involving a struggle between its concerns for promoting economic efficiency and growth, on the one hand, and education’s broader social purposes, on the other.*
 
 ---
 

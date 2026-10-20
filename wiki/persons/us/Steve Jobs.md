@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Steve Jobs
@@ -153,5 +153,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入剖析乔布斯的反文化背景、亲密个人产品哲学及《1984》广告的抗争隐喻，论述其如何推动硅谷科技[[Paradigm|范式]]脱离国家战略使命并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

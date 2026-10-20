@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Path Dependence
@@ -221,7 +221,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 揭示[[Multilateral Development Bank|多边开发银行]]主权贷款协议中的双重路径依赖机制：法定[[Counterpart Funds|对等资金]]与契约惰性抵御内阁政客更迭的减震效应，以及报销审计铁笼导致的病态合规锁定与“白色大象”。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。

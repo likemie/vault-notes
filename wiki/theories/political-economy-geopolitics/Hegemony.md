@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Hegemony
@@ -238,7 +238,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 将葛兰西霸权理论系统引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，剖析美式大学、引文评价与大学排名如何制造全球知识等级的积极同意。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Pierre-Jérôme Bergeron
@@ -118,7 +118,7 @@ updated: 2026-10-18
 > - **方法路径** 为教育领域对[[Meta-meta-analysis|二阶元分析]]与宏观[[Effect Size|效应量]]排名的统计审计提供了受控数值反证[[Paradigm|范式]]，确立了不同计算公式维度丢失与基线敏感性的诊断检验规程。
 > - **政策与争论路径** 成为全球学界反思《[[Visible Learning|可见的学习]]》证据神话的核心统计学文献，促使多国[[Evidence-Based Education|循证教育]]智库重新审视效应量跨设计聚合的技术合法性。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从统计学视角解构 Visible Learning，证实三类效应量公式对同一数据产出不可调和的矛盾排名，判定其方法论为伪科学。
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron and Rogers (2015)]] — 实证评估[[International Baccalaureate|国际文凭]] [[Theory of Knowledge|TOK]] 课程对[[Critical Thinking|批判性思维]]与学业发展的实际影响。
 > - [[Argument_Bergeron_2019_JRIE|Bergeron and Rogers (2019)]] — 检验 TOK 课程参与对 IB 文凭总分与大学适应性的长效实证关系。

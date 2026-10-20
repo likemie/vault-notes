@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Examination-Oriented Education]]"
   - "[[Learner Autonomy]]"
-  - "[[Growth]]"
   - "[[Official Knowledge]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
@@ -77,7 +76,7 @@ related_arguments:
 > [!citation-card]- 关键条文
 > 这一改革“意味着从‘双基’（知识与技能）走向教育改革以及新型创新教学与学习方式的发展”[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
 >
-> *“has entailed a move from the 'two basics' — 'shuang ji' (knowledge and skill) — to educational reform and the [[Growth]] of new and innovative teaching and learning approaches.”*
+> *“has entailed a move from the 'two basics' — 'shuang ji' (knowledge and skill) — to educational reform and the growth of new and innovative teaching and learning approaches.”*
 
 ---
 
@@ -114,7 +113,7 @@ related_arguments:
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
 > | **教育部 (MOE)** | 国家行政权威 / 课程审查权 | 推行素质教育、提升国家人力资本与控制[[Official Knowledge\|官方知识]] | 支持 | 颁布纲要、审查教材、统筹试点 |
-> | **中小学教师** | 教学[[Praxis\|实践]]资源 / 专业知识 | 减轻应试压力、提升教学效能与专业[[Growth\|成长]] | 支持与适应 | 尝试学生中心教学、开展[[Action Research\|行动研究]]与反思 |
+> | **中小学教师** | 教学[[Praxis\|实践]]资源 / 专业知识 | 减轻应试压力、提升教学效能与专业成长 | 支持与适应 | 尝试学生中心教学、开展[[Action Research\|行动研究]]与反思 |
 > | **教科书出版社 (PEP等)** | 出版专营权 / 符号资本 | 占领教材市场、再生产国家正统意识形态 | 支持 | 按 2001 纲要编写并发行 217 册必修教材[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] |
 > | **学生及家长** | 学习时间与精力投入 | 获得优质教育资源与通过[[Gaokao\|高考]]获得社会流动 | 分化 | 欢迎[[Quality Education\|素质教育]]，但担忧应试评价未变 |
 

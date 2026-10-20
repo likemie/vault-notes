@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Multilateral Surveillance
@@ -183,5 +183,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 440, 442, 446)]] — 分析[[OECD|经合组织]]如何运用多边监督机制弥补硬性立法强制力的缺失，依托量化数据与[[Peer Pressure|同侪压力]]实施远处掌舵。

@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Brokerage]]"
-  - "[[Growth]]"
   - "[[Global Education Industry]]"
   - "[[International Education]]"
   - "[[Return on Investment]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Education-for-Mandates
@@ -77,7 +76,7 @@ updated: 2026-10-16
 > [!citation-card] 非专门国际组织的使命驱动型教育介入
 > 第三，我们的研究发现表明，在过去大约 60 年里，教育主题渗透到了非教育国际组织的业务组合中。从 20 世纪 60 年代末开始，许多原本并无教育政策直接法定授权的国际组织开始涉足与教育相关的事务。这一群体的数量持续增长，以至于到 2023 年，在全部或部分涉足教育领域的国际组织总体（N = 30）中，整整三分之一是由旨在协调国际经济合作的组织构成的，例如世界银行、经合组织或区域开发银行。‘使命性教育嵌入’（Education-for-mandates）——例如教育促进经济增长、促进和平、增进国际理解、促进可持续发展以及服务于全球知识经济——成为了非教育国际组织资助和推进教育活动的标准论证逻辑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
 >
-> *Third, our findings suggest that over the past 60 years or so, educational topics penetrated the portfolios of non-education IOs. Many IOs with no direct mandate for education policy started to engage in education-related matters from the late 1960s onwards. Their number increased to the extent that by the year 2023, a third of the entire population of IOs (n = 30) operating in part or entirely in the education sector consisted of IOs that were designed to coordinate international economic cooperation, such as the World Bank, the OECD, or the regional development banks. Education-for-mandates – such as education for economic [[Growth]], peace, international understanding, sustainable development, and a global knowledge economy – became the standard line of argumentation to fund and promote education activities in non-education IOs.*
+> *Third, our findings suggest that over the past 60 years or so, educational topics penetrated the portfolios of non-education IOs. Many IOs with no direct mandate for education policy started to engage in education-related matters from the late 1960s onwards. Their number increased to the extent that by the year 2023, a third of the entire population of IOs (n = 30) operating in part or entirely in the education sector consisted of IOs that were designed to coordinate international economic cooperation, such as the World Bank, the OECD, or the regional development banks. Education-for-mandates – such as education for economic growth, peace, international understanding, sustainable development, and a global knowledge economy – became the standard line of argumentation to fund and promote education activities in non-education IOs.*
 
 > [!boundary]- 概念边界
 > - 不等于 联合国教科文组织专门授权（UNESCO Mandate） — 后者依据《联合国宪章》拥有国际法明文赋予的教育专门法定职责；使命性教育嵌入特指经济、安全或地缘政治机构以“外延衍生方式”将教育工具化。
@@ -100,7 +99,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **五大外延性使命[[Discourse|话语]]类型（Thematic Line of Argumentation）** 跨界组织普遍将教育归口于五大[[Grand Theory\|元叙事]]：① 教育促进经济增长（Economic [[Growth]]）；② 教育维护地缘和平（Peace）；③ 教育增进国际理解（International Understanding）；④ 教育推动可持续发展（Sustainable Development）；⑤ 教育支撑全球[[Knowledge-Based Economy\|知识经济]]（Global Knowledge Economy）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **五大外延性使命[[Discourse|话语]]类型（Thematic Line of Argumentation）** 跨界组织普遍将教育归口于五大[[Grand Theory\|元叙事]]：① 教育促进经济增长（Economic Growth）；② 教育维护地缘和平（Peace）；③ 教育增进国际理解（International Understanding）；④ 教育推动可持续发展（Sustainable Development）；⑤ 教育支撑全球[[Knowledge-Based Economy\|知识经济]]（Global Knowledge Economy）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **经济金融机构的压倒性渗透（Dominance of Economic Coordination IOs）** 经济合作类机构凭借雄厚的主权出资网络与财政贷款权力，在所有涉教育国际组织中占比高达 33.3%，构成跨界嵌入的主导力量。
 > - **组织生存与利基开辟逻辑（Organisational Survival & Niche Carving）** 冷战时期斯普特尼克危机等外部地缘震荡，迫使 [[Organisation for European Economic Co-operation\|OEEC]]/[[OECD]] 等传统经济组织寻找新的增长点，将教育界定为高精尖技术人员供给母体，借此实现官僚机构的自我续命与权能扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **硬事实[[Policy Brokerage\|政策中介]]作为嵌入载体（Hard-Fact Brokerage as Vehicle）** 跨界组织因缺乏教育法理管辖权，必须借助高度标准化、去情境化的数字指标体系（如 [[PISA]] 或 [[International Indicators of Education Systems\|INES]]）施展软治理，以此弥补其民主授权与专业合法性赤字。

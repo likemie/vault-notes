@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Social Impact Investing
@@ -213,7 +213,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 系统剖析 [[Social Ventures Australia|SVA]] 掌控的 1.5 亿澳元社会影响力投资基金及其背后的多层控股与政商兼任网络，揭示影响力投资在公共教育异层治理中的运作机制。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证解构北部基金会 2,000 万新西兰元[[Venture Philanthropy|风险慈善]]与影响力投资案例，揭示商业量规对毛利本土文化的侵蚀与资本沉淀机制。
 > - Nicholls, A., Paton, R., & Emerson, J. (2015) — 社会金融与影响力投资领域的经典论著，系统分析社会影响力债券的运行原理与制度边界。

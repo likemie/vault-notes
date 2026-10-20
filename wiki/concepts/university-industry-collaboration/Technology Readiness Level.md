@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Technology Readiness Level
@@ -234,7 +234,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 深入剖析[[University Spin-Out|大学衍生企业]]在 TRL 3–5 面临的企业试点与 [[Corporate Venture Capital|CVC]] 融资壁垒，论证[[Proof of Concept Programs|概念验证项目]]与[[Non-dilutive Funding|非稀释性资助]]的填补作用。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐述以 [[National Science and Technology Council|NSTC]] 为核心的全要素中试基线、云端 DEG 网关与测试样片机制，实现 TRL 4–7 跨越周期缩短 50% 及 Fab-to-Lab 双向闭环。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第二支柱构建联邦化[[Pilot Scale Platform|中试平台]]网络，将 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 基础发现（TRL 1–3）与国防部微电子公地（TRL 3–4）、NSTC 300mm 基线及先进封装中试线（TRL 4–7）全链条咬合的顶层设计。

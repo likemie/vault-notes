@@ -11,7 +11,7 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Normal School]]"
   - "[[Determinism]]"
-  - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Daniel Bensaïd
@@ -105,7 +104,7 @@ updated: 2026-10-17
 > [!citation-card] 实践哲学作为冷面科学与炽热乌托邦的熔炉
 > 马克思主义作为与当代科学紧密相连的解放性社会与政治科学，作为转型认知过程与联合行动的不可分割的组成部分，是一种必须被重新收复的交织实践。在面对犬儒理性不断滋长的严峻现实中，重建这一批判理性至关重要。唯有通过构建局部综合与连续逼近，重建作为方法与认识方式的辩证法，将马克思主义的“冷面”（严密实证科学）与其“炽热”（道德解放乌托邦）辩证融合，知识与行动才能实现革命性的统一，使批判思想重新成为名副其实的实践哲学。[[Argument_Olmos_Torres_2009_StateTheories|(Bensaïd, 1999; Olmos & Torres, 2009, p. 85)]]
 >
-> *The Marxist tradition as a social and political science of emancipation tied with the sciences of current times, as part of a cognitive process of transformation and joint action, is an interwoven praxis which should be recuperated. To reconstruct this critical reason in the face of the [[Growth]] of cynical reason is essential. Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and praxis, will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis".*
+> *The Marxist tradition as a social and political science of emancipation tied with the sciences of current times, as part of a cognitive process of transformation and joint action, is an interwoven praxis which should be recuperated. To reconstruct this critical reason in the face of the Growth of cynical reason is essential. Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and praxis, will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis".*
 
 ---
 

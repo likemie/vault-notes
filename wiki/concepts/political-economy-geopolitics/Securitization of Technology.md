@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Securitization of Technology
@@ -297,7 +297,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述全政府统筹下将微电子底层物理探索、先进异构封装与硬件根信任/零信任架构内生嵌入国家安全体系的顶层设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析《[[CHIPS and Science Act|芯片与科学法案]]》背景下美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，阐明基础研究引领、人才多级培养、多圈层网络编织与技术安全化协同治理的深层张力。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统阐释 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。

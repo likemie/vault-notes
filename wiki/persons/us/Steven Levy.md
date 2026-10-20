@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Steven Levy
@@ -146,5 +146,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入引述利维 1984 年《黑客》对官僚机构为“缺陷系统”的界定及其对 IBM 顺从主义的审美批判，剖析黑客非军事化誓言对后世硅谷[[Technological Agnosticism|技术不可知论]]的塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

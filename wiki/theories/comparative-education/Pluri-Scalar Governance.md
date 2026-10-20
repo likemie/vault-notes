@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Pluri-Scalar Governance
@@ -213,7 +213,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权流失的非对称格局。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 343–344)]] — 论证全球教育空间向多标量网络的演进，剖析跨国教育集团与[[Public-Private Partnership|公私伙伴关系]]对传统双边借用的超越。
 

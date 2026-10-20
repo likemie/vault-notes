@@ -48,7 +48,6 @@ related_concepts:
   - "[[Nature of Innovation]]"
   - "[[Externalization]]"
   - "[[Market Shaping and Creating]]"
-  - "[[Growth]]"
   - "[[Feedback]]"
   - "[[Open-Mindedness]]"
   - "[[Social Engagement]]"
@@ -93,14 +92,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 62
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -331,7 +330,7 @@ issuing_organization: ""
 > [!citation-card] 经济增长的速率与方向
 > 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求特定增长类型的雄心本身即表明，经济增长不仅具有速率，更具有方向，因而存在多种替代性方向。然而，实现这一雄心勃勃的目标需要重新思考政府与公共政策在经济中的角色，以及与政策本身同样具备动态性与探索性的组织形态。在根本上，这需要一种超越单纯修补[[Market Failure|市场失灵]]的政府干预新正当性。（p. 787）
 >
-> *Countries around the world are seeking to [[Achieve]] economic [[Growth]] that is smart (innovation-led), inclusive, and sustainable. This ambition to achieve a particular type of economic growth... is a direct admission that economic growth has not only a rate but also a direction and, thus, can have multiple alternative directions. However, such ambitious goals require rethinking the role of government and public policy in the economy, and the associated organizational forms that can be as dynamic and explorative as the policies themselves.*
+> *Countries around the world are seeking to [[Achieve]] economic growth that is smart (innovation-led), inclusive, and sustainable. This ambition to achieve a particular type of economic growth... is a direct admission that economic growth has not only a rate but also a direction and, thus, can have multiple alternative directions. However, such ambitious goals require rethinking the role of government and public policy in the economy, and the associated organizational forms that can be as dynamic and explorative as the policies themselves.*
 
 > [!citation-card] 现代公共政策的[[Complexity Paradox|复杂性悖论]]
 > 特别是对当代政府而言，这意味着不同政策领域之间的协调已经成为政策制定中最棘手的问题。事实上，可以说创新政策作为独立政策领域的出现，在 1970 年代末和 1980 年代初正是作为一项协调性政策而提出的。然而，这一初衷未能实现，其原因可以在我们称之为现代公共政策的复杂性悖论中找到：政策问题越复杂，政策制定就变得越条块分割。（p. 790）

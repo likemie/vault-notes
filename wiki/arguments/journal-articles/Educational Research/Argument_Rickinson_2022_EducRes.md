@@ -52,7 +52,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
-  - "[[Growth]]"
   - "[[Professional Learning Community]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -89,14 +88,14 @@ part_of:
 status: stable
 confidence: high
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rickinson_2022_EducRes"
 argument_key: "Argument_Rickinson_2022_EducRes"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -299,7 +298,7 @@ issuing_organization: ""
 > | **适切研究证据（Appropriate Evidence）**<br>（双核心构件） | **用什么（What）**<br>证据质量与情境适配 | 强调证据质量的情境特异性。从使用视角出发，优质研究不仅需具备方法学严谨性，更须契合具体的教育问题、学校现场情境与预期实践用途，兼顾[[Internal Validity\|内部效度]]与实践适用。 | Nutley et al. (2013)<br>Nelson et al. (2017) |
 > | **审慎参与和实施（Thoughtful Engagement）**<br>（双核心构件） | **怎么用（How）**<br>认知诠释与实践融通 | 摒弃“证据自行发声”迷思，实践者能动地研读与批判研究证据、在教研共同体中深度审议，并将其有机融通于日常教学改进与专业决策实践中。 | Coburn et al. (2009)<br>Sharples (2013) |
 > | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research\|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation\|研究转化]]为具体行动方案的[[Phronesis\|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
-> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业[[Growth\|成长]]并实质改善教学。 | Earl and Timperley (2009)<br>Stoll et al. (2018) |
+> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业成长并实质改善教学。 | Earl and Timperley (2009)<br>Stoll et al. (2018) |
 > | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托[[Professional Learning Community\|专业学习共同体]]（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan and Daly (2014)<br>Bryk et al. (2011) |
 > | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] |
 > | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb and MacBeath (2003)<br>[[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] |

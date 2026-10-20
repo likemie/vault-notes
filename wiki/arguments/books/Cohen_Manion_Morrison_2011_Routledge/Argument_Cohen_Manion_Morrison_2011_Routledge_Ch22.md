@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Social Episodes]]"
   - "[[Tacit Knowledge]]"
   - "[[Falsification]]"
-  - "[[Growth]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Discourse]]"
@@ -87,7 +86,7 @@ related_facts:
   - "[[Achieve]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
@@ -236,7 +235,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > |---|---|---|---|
 > | **方法 1：选择的总模式** | 量化 | 频率计数 → 表面概括 | 各项目的选择频率允许对参与者群体做出概括。最有揭示性的分析可能来自最少和最受欢迎的项目。 |
 > | **方法 2：相似性与差异性** | 量化 | 分组比较 → 差异模式 | 按参与者特征（年龄、性别、教育程度等）调查总样本内的相似性和差异。 |
-> | **方法 3：项目合并** | 量化 | 类别归并 → 主题聚合 | 将涵盖相似主题的类别合并。例如项目 1、5 和 14 涉及冲突；项目 4、7 和 15 涉及个人[[Growth\|成长]]和变化。 |
+> | **方法 3：项目合并** | 量化 | 类别归并 → 主题聚合 | 将涵盖相似主题的类别合并。例如项目 1、5 和 14 涉及冲突；项目 4、7 和 15 涉及个人成长和变化。 |
 > | **方法 4：内容分类** | 量化/质性过渡 | 独立编码 → 协商共识 | 检查总样本某个项目的内容，发展能容纳所有材料的类别系统。最佳做法是两位以上研究者独立提出类别系统后协商最终系统。 |
 > | **方法 5：追踪主题** | 质性 | 跨边界搜索 → 主题网络 | 超越项目的人为边界，尽可能多地收集与特定主题相关的数据，不论它在访谈材料的何处出现。要求对内容极为详细的了解，可能需要多次听录音。 |
 > | **方法 6：研究遗漏** | 质性 | 预期与实际落差 → 显著发现 | 当研究者预期会出现的议题缺席时，这一缺席事实本身可能非常显著，应探究其正确解释。**沉默可以像言语一样有揭示性**。 |

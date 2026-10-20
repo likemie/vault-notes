@@ -8,7 +8,7 @@ aliases:
 summary: "由阿维里尔编制的30题自陈量表，从准备性、新颖性与有效性/真实性三个维度，系统测定个体在情绪体验、表达与调节中的独特非认知创造潜能。"
 type: instrument
 instrument_type: inventory
-instrument_related_count: 7
+instrument_related_count: 6
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Growth]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
 related_theories: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Emotional Creativity Inventory
@@ -67,7 +66,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **准备性（Preparedness）** | 7 题 | 个体对自身与他人情绪状态的敏锐觉察、情感好奇心以及主动反思情感根源的倾向。 | 5 点计分求均值或总分 |
 > | **新颖性（Novelty）** | 14 题 | 个体体验复杂、非传统、不寻常与独特情绪反应的能力，打破常规社会情感脚本。 | 5 点计分求均值或总分 |
-> | **有效性与真实性（Effectiveness & Authenticity）** | 9 题 | 独特情绪表达与个人内心价值的高度一致性（真实性），以及对个人[[Growth\|成长]]与人际互动的积极建设性价值（有效性）。 | 5 点计分求均值或总分 |
+> | **有效性与真实性（Effectiveness & Authenticity）** | 9 题 | 独特情绪表达与个人内心价值的高度一致性（真实性），以及对个人成长与人际互动的积极建设性价值（有效性）。 | 5 点计分求均值或总分 |
 
 ---
 

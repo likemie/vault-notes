@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bureaucracy
@@ -332,7 +332,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 基于汤普森组织治理分类学，揭示公立教育去科层化改革反致网络与部落治理架空法定代议制民主问责。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史考证[[OECD|经合组织]]常任秘书处从协商论坛演进为具有独立议程的国际官僚机构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、[[Meeting-Industrial Complex|会议工业复合体]]与采办定制垄断。

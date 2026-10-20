@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Governmentality
@@ -222,7 +222,7 @@ graph TD
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 结合治理术与[[Societies of Control|控制社会]]理论，剖析德国高校在线自测系统如何呼唤出“[[Promising Student|有前景的学生]]”。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 运用治理术视角重访英国教育社会学史，揭示[[Political Arithmetic|政治算术]]与[[School Effectiveness|学校效能]]研究如何成为现代国家治理的认知工具。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能[[Discourse|话语]]如何作为全球治理技术，通过远距机制重塑各国[[Pedagogical Subject|教育主体]]。

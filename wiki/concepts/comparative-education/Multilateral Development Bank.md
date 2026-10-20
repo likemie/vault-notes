@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Multilateral Development Bank
@@ -238,5 +238,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析多边开发银行的信用合作社金融本质、项目谈判机制、附加条件成败案例、追逐政策风潮的周期性摇摆以及重投入轻产出的执行困境（pp. 455–477）。

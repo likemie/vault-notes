@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Innovation Desert
@@ -288,5 +288,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **全美公共创新荒漠的形成、固化与突破** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 贯穿全书系统诊断国防采办、地方治安、医疗教育及公共人事中的创新荒漠成因，并论证以[[Engineering Mindset|工程思维]]与[[Founder Culture|创始人文化]]重塑国家治理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]

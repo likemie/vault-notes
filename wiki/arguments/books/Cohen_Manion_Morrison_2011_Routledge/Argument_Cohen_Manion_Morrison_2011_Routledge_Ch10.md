@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 138
+argument_related_count: 137
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -58,7 +58,6 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Consequential Validity]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Growth]]"
   - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
   - "[[Trust Calibration]]"
@@ -174,7 +173,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -413,7 +412,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln and Guba (1985) 等人的�
 > > | 分组 | 威胁 | 核心问题 |
 > > |---|---|---|
 > > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
-> > | | 成熟（Maturation） | 受试者自然[[Growth\|成长]]被误判为处理效果 |
+> > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
 > > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
 > > | | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |

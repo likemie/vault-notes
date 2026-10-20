@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Max Eckstein
@@ -186,7 +186,7 @@ updated: 2026-10-16
 > - **学会组织领导** 长期活跃于 [[Comparative and International Education Society|CIES]] 核心领导层并出任会长，推动学会与国际测量组织及各大学术研究机构的跨界协同；
 > - **史学反思的论辩起点** 考恩将 Noah & Eckstein 的经典起源叙事视为学科合法化历史的典范，但同时也指出必须超越这种单一功能性叙事，走向多中心与批判反思的[[Comparative History of Comparative Education|比较教育学比较史]]。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析埃克斯坦与诺亚的奠基性著作对学科合法性的支持，并探讨未来重写学科史的[[Paradigm|范式]]可能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析“以[[Variable|变量]]替代系统”的方法论教条与[[Multiple Regression|多元回归]]假设，并基于巴伯的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。

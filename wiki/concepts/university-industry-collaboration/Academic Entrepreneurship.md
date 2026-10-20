@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Academic Entrepreneurship
@@ -203,7 +203,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织与管理史视角系统界定了微电子学术制度创业（Academic Institutional Entrepreneurship）的理论构架，揭示学术中心与产业联合体的同源演进与多学科抗周期韧性。
 
 ---

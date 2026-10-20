@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Categorical Funding
@@ -241,7 +241,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学[[Disciplina and Doctrina|规训]]的制度杠杆。
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示国际机构委托研究如何通过极限压缩交付周期迫使学者放弃理论复杂性，与鲍尔（Ball, 2001）共同批判合同资助对大学[[Knowledge Production|知识生产]]逻辑的结构性侵蚀。
 

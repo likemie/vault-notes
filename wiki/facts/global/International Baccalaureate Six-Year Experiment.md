@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Further Education]]"
   - "[[Criterion-Referenced Test]]"
-  - "[[Growth]]"
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
   - "[[Going Native]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -101,7 +100,7 @@ updated: 2026-10-16
 > | 伊朗地[[International Schools\|国际学校]]，德黑兰 | 从美国社区学校分出，希望提供[[International Education\|国际教育]]并吸引伊朗学生 | 1968 年开始处理语言、历史与经济学适配；伊朗学生参加波斯语语言文学国家考试，成绩由 [[International Baccalaureate\|IBO]] 接受为第一语言成绩 | 本国学生进入本国大学仍受国家考试控制；政治敏感内容需要向主管机关说明是教学对象而非政治宣传 |
 > | 舒埃法特国立学院，黎巴嫩 | 马龙派背景学校服务多种阿拉伯、宗教和语言群体 | 1971 年起报考，校长通过与政府的长期信任争取批准 | 政府仍拒绝让在黎巴嫩受教育的本国学生以 [[International Baccalaureate\|IB]] 直接进入本国大学，担心形成可被其他特殊利益援引的先例 |
 > | 蒙得维的亚英国学校，乌拉圭 | 英国侨民学校逐渐以乌拉圭学生为主，并同时运行英语与国家课程 | 1970 年成为南半球最早实施 IB 的学校，以双语课程连接拉丁与盎格鲁传统 | 共同资格建立在学校已有的双语能力和国际生源之上，不能脱离本地课程基础直接复制 |
-> | 圣日耳曼昂莱国际中学，法国 | 法国公立学校内设多个由外国政府或家长组织支持的国家部 | 1970 年起报考，以法语共同课程和各部母语文化课程衔接 IB | 法国学[[Growth\|生长]]期仍须准备法国毕业会考；大学入学等值也不等于取得法国公共职位资格 |
+> | 圣日耳曼昂莱国际中学，法国 | 法国公立学校内设多个由外国政府或家长组织支持的国家部 | 1970 年起报考，以法语共同课程和各部母语文化课程衔接 IB | 法国学生长期仍须准备法国毕业会考；大学入学等值也不等于取得法国公共职位资格 |
 > | 哈默史密斯与西伦敦[[Further Education\|继续教育]]学院，英国 | 公立、免学费，学生年龄与经历差异大，许多学生为移民或曾中断学业者 | 1972 年引入有限选科，随后由西班牙和斯堪的纳维亚学校输送学生，规模扩大后增加选项 | 案例扩大了 IB 的学生与机构边界，但依赖校长、教师和地方教育主管者的个人倡议及低成本行政支持 |
 > | 莫希国际学校，坦桑尼亚 | 服务乞力马扎罗基督教医疗中心外籍人员子女，学生来自约三十国 | 1973 年采用 IB，并把早期“[[Creativity, Action, Service\|创意、行动、服务]]”（[[Creativity]], Action, Service，CASS）与坦桑尼亚自力更生原则结合 | 私立国际学校与当地非洲学生之间仍有政策距离；[[Going Native\|本土化]]主要通过社区服务而非改变共同考试标准实现 |
 > | 哥伦比亚—英国学校，卡利 | 哥伦比亚家庭创办的私立天主教双语学校，本地学生约占九成五 | 1974 年前后引入项目，首两名完整文凭考生于 1976 年完成考试；学生同时满足哥伦比亚课程要求 | IB 扩展国际比较和海外升学机会，却增加双轨工作量，且未自动成为本国大学的替代入学资格 |

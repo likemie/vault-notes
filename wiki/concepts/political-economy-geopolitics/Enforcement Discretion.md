@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Enforcement Discretion
@@ -203,5 +203,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 系统界定解释与执行裁量权，将其与政治[[Veto Possibilities|否决可能性]]并列为决定[[Institutional Displacement|制度置换]]、层叠、漂移与转换的核心因果维度。

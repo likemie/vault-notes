@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Plaintive Comparison
@@ -143,5 +143,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙民主转型后历次重大教育法案与 [[PISA]] 低迷表现，系统界定诉苦式比较的机制与治理异化后果。

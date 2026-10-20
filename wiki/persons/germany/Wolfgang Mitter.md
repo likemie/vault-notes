@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wolfgang Mitter
@@ -144,7 +144,7 @@ updated: 2026-10-16
 > - **跨国学会制度化运作** 在 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 长期维系跨国个人会员制与超政治中立原则，使专业学术学会免受冷战阵营对抗与国家行政权力的工具化操弄。
 > - **[[Intercultural Education|跨文化教育]]与比较教育融通** 推动德国教育学界在 1980 年代消解比较教育（宏观体制）与跨文化教育（微观族群互动）的人为割裂，开创了多元文化融合分析新取向。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特自身梳理欧洲比较教育两百年历史演进的集大成代表作，提供制度地理学、范式变迁、学会社会学与政策咨询光谱的权威阐释。
 
 ---

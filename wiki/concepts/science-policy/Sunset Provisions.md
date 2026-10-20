@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sunset Provisions
@@ -179,7 +179,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 通过对布洛赫的口述访谈与 [[Engineering Research Centers|ERC]] 历史数据，系统阐释了日落条款在防范机构膨胀与推动中心自给自足中的治理逻辑。
 
 ---

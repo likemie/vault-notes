@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Problem]]"
   - "[[Dialogue in Education]]"
-  - "[[Growth]]"
   - "[[Positivism]]"
 related_theories: []
 related_methods:
@@ -68,7 +67,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03
 
@@ -408,7 +407,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > |------|------|--------------------|----------|
 > | **研究与开发模型（Research and Development Model，R&D）** | 流水线 | 研究通过线性阶段——基础研究→应用研究→开发→推广——逐步转化为政策方案。假定知识可以像产品一样被"制造"和"交付"。 | 医学领域的[[Randomised Controlled Trials\|随机对照试验]]→临床指南→医保政策 |
 > | **问题解决模型（Problem-Solving Model）** | 工具箱 | 当政策制定者面临特定问题时，主动调用现有研究来寻找答案。研究是决策者可随时取用的知识库存。 | 教育部面临辍学率上升，调用已有研究来设计干预方案 |
-> | **互动模型（Interactive Model）** | [[Dialogue in Education\|对话]] | 研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题定义和实践约束，双方在互动中共同建构"可用知识"。 | 研究者与政策制定者组[[Growth\|成长]]期工作小组，反复讨论和调整研究设计 |
+> | **互动模型（Interactive Model）** | [[Dialogue in Education\|对话]] | 研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题定义和实践约束，双方在互动中共同建构"可用知识"。 | 研究者与政策制定者组成长期工作小组，反复讨论和调整研究设计 |
 > | **战术模型（Tactical Model）** | 武器 | 研究被策略性地引用，充当**支持既定立场的修辞资源**或**拖延决策的工具**（"还需要更多研究"），而非决策的信息基础。 | 政府部门引用选择性研究为已做出的政策决定提供"科学背书" |
 
 

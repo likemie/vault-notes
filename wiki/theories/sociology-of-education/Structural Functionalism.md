@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Structural Functionalism
@@ -179,5 +179,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 146–147)]] — 详细考证结构功能主义在二战后欧美比较教育中的[[Paradigm|范式]]确立，提炼其五大核心公理并剖析其与[[Human Capital Theory|人力资本理论]]的合流过程。

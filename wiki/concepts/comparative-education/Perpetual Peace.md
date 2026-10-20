@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Perpetual Peace
@@ -252,7 +252,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统考证朱利安如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的[[Cosmopolitanism|世界主义]]道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻解构西方社会对永久和平自然降临的自由主义幻觉，批判同盟体系单方面去武力化引发的地缘脆弱性，确立以软件[[Hard Power|硬实力]]与 AI 威慑捍卫[[Long Peace|长和平]]的现实主义秩序。

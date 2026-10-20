@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Strategic Autonomy]]"
   - "[[Commensuration]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # World Trade Organization
@@ -119,7 +118,7 @@ updated: 2026-10-16
 > [!citation-card] 代表性章程／使命宣言
 > 各成员确认，服务贸易在世界经济增长和发展中的重要性日益增强……期望建立一个关于服务贸易原则与规则的多边框架，以期在透明度和逐步[[Liberalization|自由化]]的条件下扩大这种贸易，并作为促进所有贸易伙伴经济增长手段。
 >
-> *Recognizing the growing importance of trade in services for the [[Growth]] and development of the world economy... Desiring to establish a multilateral framework of principles and rules for trade in services with a view to the expansion of such trade under conditions of transparency and progressive liberalization... (GATS Preamble, 1995)*
+> *Recognizing the growing importance of trade in services for the growth and development of the world economy... Desiring to establish a multilateral framework of principles and rules for trade in services with a view to the expansion of such trade under conditions of transparency and progressive liberalization... (GATS Preamble, 1995)*
 
 ---
 
@@ -192,7 +191,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合戴尔等人[[Pluri-Scalar Governance|多标度治理]]模型，深刻揭示 WTO/[[GATS and Trade in Education Services|GATS]] 规则对民族[[State Educational Sovereignty|国家教育主权]]的冲击以及中心大国与边缘小国之间的不对称自主权鸿沟（pp. 110–111）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 系统阐明 WTO 与 GATS 框架如何将高等教育重塑为可交易商品，分析其[[Discourse|话语]]效应如何将新自由主义教育议程制度化为全球[[Doxa|不言自明]]的共识（pp. 97–98）。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察美欧芯片产业政策与地缘政治转变，揭示 2019 年前[[EU|欧盟]]对 WTO 多边贸易解决方案的依赖如何被中美大国补贴竞赛击溃，最终倒逼欧洲突破多边框架转向产业政策干预（p. 8）。

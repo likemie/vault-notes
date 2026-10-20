@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Educational Decentralization
@@ -296,7 +296,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统解构新西兰 1989 年明日学校权力下放（Devolution）如何将公立教育局拆解为自负盈亏的商业服务中心，揭示分权作为私有化外包跳板的深层机制（pp. 30–31）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证调查新西兰明日学校改制后[[Cognition Education|认知教育]]公司的商业运作，揭示学者与跨国出版资本借分权改制牟利的制度网络。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较分析英、美、德、法、意、比与北欧的权力配置演进，系统揭示西班牙由极度集权激进跳向 17 个自治区所诱发的行政肥胖症与国家体系解体危机。

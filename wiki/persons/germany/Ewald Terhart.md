@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Ewald Terhart
@@ -117,6 +117,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 针对《[[Visible Learning|可见的学习]]》展开长篇学术书评，提出双重困境并解构[[Meta-meta-analysis|二阶元分析]]圣杯神话。
 > - [[Argument_Terhart_2014_Kallmeyer|Terhart (2014)]] — 系统阐明普通教学论框架下的课堂授课逻辑与实践专业智慧。

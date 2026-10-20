@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Learning Intentions
@@ -262,7 +262,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003）的教学实验，论述显性学习意图与[[Success Criteria|成功标准]]如何打破学生的形式化迷思、激活深层因果理解。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Critical Pedagogy|批判教育学]]视角剖析维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 政策落地过程中，学习意图如何被[[Neo-Taylorism|新泰勒主义]]行政[[Disciplina and Doctrina|规训]]异化为白板打卡与[[Performativity|表演性]]考核，摧毁[[Teacher Professional Agency|教师专业自主权]]。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 批判可见学习将教学目标封闭化与手段神圣化的[[Technical Rationality|技术理性]]逻辑，揭示其如何以心理学[[Variable|变量]]替换学生探索生活世界的[[Intentionality|主体意向性]]（pp. 86–89）。

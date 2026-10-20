@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # George Heilmeier
@@ -107,7 +107,7 @@ updated: 2026-10-07
 > - **政策与机构路径** 在任内确立了 DARPA 作为“国防技术突破孵化器”的定位，主导资助洛克希德“拥蓝”（Have Blue）隐形战机验证项目，直接孕育了世界上第一款隐形战斗轰炸机 F-117，彻底改变了现代空中战争的战术与地缘平衡。
 > - **产业技术传播** 发明的液晶显示原理孕育了万亿美元级的现代平板显示与数字屏幕产业生态。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 论述了海尔迈耶治下确立的项目立项准则与管理体制对 DARPA [[Embedded Network Governance|嵌入式网络治理]]机制的历史塑造作用。
 
 ---

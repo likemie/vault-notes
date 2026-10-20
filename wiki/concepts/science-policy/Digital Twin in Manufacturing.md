@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # Digital Twin in Manufacturing
@@ -182,5 +182,5 @@ updated: 2026-10-10
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将第一性原理材料计算、高通量原位计量与 AI/物理融合模型相结合，推进全厂级制造数字孪生（Fab Virtualization）以加速后摩尔制造工艺收敛与良率优化的国家战略路线（pp. 19–20, 26）。

@@ -15,7 +15,7 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 38
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Academic Engagement]]"
   - "[[Homework]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Epistemic Responsibility]]"
   - "[[Self-Efficacy]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Growth Mindset
@@ -203,7 +202,7 @@ updated: 2026-10-16
 > - **谨慎使用** 解释长周期、重度依赖物质资本与社会资本的跨代际学业流动；在极度资源匮乏或严重认知障碍群体中，思维干预的边际效益极低。
 > - **不适合解释** 制度层面的招生配额、学校财政拨款差距、以及由于生理神经退行性病变导致的认知功能衰减。
 > - **常见误用** 
->   - **假性成长型思维（False [[Growth]] Mindset）** 将成长型思维庸俗化为“只要盲目夸奖孩子努力即可”，忽视了指导孩子探索有效学习策略与深度理解错误实质的专业要求；
+>   - **假性成长型思维（False Growth Mindset）** 将成长型思维庸俗化为“只要盲目夸奖孩子努力即可”，忽视了指导孩子探索有效学习策略与深度理解错误实质的专业要求；
 >   - **心理学还原论与受害者有罪论** 将社会底层弱势儿童的学业失败归因于他们“缺乏成长型心态”，从而为公共教育财政缩减与结构性改革缺位提供借口。
 
 ---

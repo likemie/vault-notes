@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Legitimation Crisis
@@ -183,7 +183,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 以[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析硅谷退缩与[[Innovation Desert|创新荒漠]]，论证重建[[Technological Republic|技术共和国]]的紧迫性；全书结构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 总览页。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 将哈贝马斯合法化危机理论应用于教育治理，剖析丹麦 2014 年公立学校改革中行政系统如何利用[[Visible Learning|可见的学习]]与[[Technical Rationality|技术理性]]构建防御掩体以转移社会政治矛盾（pp. 84–87）。
 

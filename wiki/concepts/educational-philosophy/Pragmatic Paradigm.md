@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Pragmatic Paradigm
@@ -334,7 +334,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。

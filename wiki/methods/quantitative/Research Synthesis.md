@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Research Synthesis
@@ -159,7 +159,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（EVIPNet）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 将研究综合界定为整合多篇实证成果以为政策和实践提供高质量证据基础的方法家族。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 在梳理跨国阅读与数学教育干预中阐明研究综合的证据评级与最高方法学筛选标准。

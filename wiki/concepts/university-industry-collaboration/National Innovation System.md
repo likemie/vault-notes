@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Innovation System
@@ -343,7 +343,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角深入考证国家[[Systems of Innovation|创新系统]]的[[Friedrich List|李斯特]]渊源，通过多国长周期实证论证教育、企业研发与网络协调的决定性作用。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统提出[[Developmental Network State|发展型网络国家理论]]，运用 R&D 100 成果实证解构美国国家创新系统从寡头独立实验室走向去中心化公私协同网络的组织转型，并剖析[[Market Fundamentalism|市场原教旨主义]]造成的隐形体制病理。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理五十年来国家创新系统政策[[Paradigm|范式]]演进，界定制度、网络、锁定与能力失灵，阐释大学在国家创新系统中的全谱系职能。

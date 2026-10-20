@@ -42,7 +42,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Reliability]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Human Capital Theory]]"
@@ -78,7 +77,7 @@ title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -357,7 +356,7 @@ issuing_organization: ""
 > [!citation-card]- 萌芽期介入与历史衰减规律
 > 很难过分夸大国防研发支持（尤其是像计算机硬件或半导体这样由采购加速美国企业成长的行业）的重要性。这些公共计划的组织结构同样增强了 IT 部门的创新活力与竞争实力。然而，国防研发与采购支持的影响力之大，恰恰得益于此类公共干预发生在这些产业的初创萌芽阶段。随着 IT 部门走向成熟，国防部的研发与采购合同对半导体、计算机硬件及软件产业的影响力显著衰减。（p. 41）
 >
-> *It is difficult to overstate the importance of defense-related support for R&D and, especially in industries such as computer hardware or semiconductors, procurement, which together accelerated the [[Growth]] of U.S. firms... But the influence of defense-related funding for R&D and procurement was enhanced by the fact that such public intervention occurred at the inception of these industries. As the IT sector developed, DoD R&D and procurement contracts exercised less influence over the semiconductor, computer hardware, and computer software industries in the United States.*
+> *It is difficult to overstate the importance of defense-related support for R&D and, especially in industries such as computer hardware or semiconductors, procurement, which together accelerated the Growth of U.S. firms... But the influence of defense-related funding for R&D and procurement was enhanced by the fact that such public intervention occurred at the inception of these industries. As the IT sector developed, DoD R&D and procurement contracts exercised less influence over the semiconductor, computer hardware, and computer software industries in the United States.*
 
 ---
 

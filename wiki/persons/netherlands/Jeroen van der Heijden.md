@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Jeroen van der Heijden
@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 ## 关联研究与知识库索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]] — 范德海登在 *Politics* 发表的[[Institutional Layering|制度层叠]][[Critical Review|批判性综述]]，系统奠定制度层叠三大传统与实在论多维观察框架。
 > - [[Institutional Layering]] — 范德海登为该核心概念提供了迄今最完整的学术史谱系梳理与[[Operationalization|操作化]]定义。
 > - [[Realist Evaluation]] — 范德海登将科学实在论评估成功迁移至制度演化分析，为实在论提供了制度主义维度的经验注脚。

@@ -9,7 +9,7 @@ summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Lifelong Learning]]"
   - "[[Tacit Knowledge]]"
-  - "[[Growth]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Codification]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dominique Foray
@@ -83,7 +82,7 @@ updated: 2026-10-16
 > [!citation-card]- 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，多米尼克·福雷与伦德瓦尔（Foray & Lundvall, 1996）等新增长理论学者提出，一个国家利用知识经济红利的能力，关键取决于其转变为“学习型经济”的速度。学习不仅包含利用新技术获取信息的能力，更核心的是培育终身创造新知识的默会技能；经合组织正是以此为依据，推动教育全面倒向面向劳动力市场的实用操作能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
-> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
+> *Against these assumptions, it is suggested by new growth theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
 
 ---
 
@@ -94,7 +93,7 @@ updated: 2026-10-16
 > - **1985–1993 年** 担任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究员及里昂第二大学技术经济与生产组织研究所（LEST）研究主任，深入考察专利制度、知识产权与企业技术溢出。
 > - **1993–2000 年** 担任巴黎第九大学经济学教授并兼任 [[OECD]] 科学、技术与产业司资深顾问；1996 年与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）深度合作，主编 OECD 里程碑报告《[[Knowledge-Based Economy|知识经济]]中的就业与增长》，系统奠定“学习型经济”政策[[Discourse|话语]]。
 > - **2000–2004 年** 出任[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）高级顾问，推动发布《学习型社会的知识管理》（*Knowledge Management in the Learning Society*, 2000）；2004 年出版经典理论著作《知识经济学》（*The Economics of Knowledge*）。
-> - **2004–2021 年** 获聘瑞士洛桑联邦理工学院（EPFL）创新与知识经济学讲席教授；出任[[EU|欧盟]]委员会“知识促进增长”（Knowledge for [[Growth]]）专家组副主席，创立并推广“智能专门化”（Smart Specialisation）政策[[Paradigm|范式]]，深刻重塑欧洲区域发展与科技基金配置。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> - **2004–2021 年** 获聘瑞士洛桑联邦理工学院（EPFL）创新与知识经济学讲席教授；出任[[EU|欧盟]]委员会“知识促进增长”（Knowledge for Growth）专家组副主席，创立并推广“智能专门化”（Smart Specialisation）政策[[Paradigm|范式]]，深刻重塑欧洲区域发展与科技基金配置。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 ---
 
@@ -136,7 +135,7 @@ updated: 2026-10-16
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被[[EU|欧盟]]委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
 > - **跨国／跨领域传播** 思想跨越产业经济学、高等教育研究与区域地理学，成为连接经济增长理论与教育改革政策的跨学科桥梁。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析福雷与伦德瓦尔的“学习型经济”框架如何被经合组织吸收并转化为重塑全球教育目标的政策[[Social Imaginary|社会想象]]。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 援引福雷对知识驱动型经济转型的论述，分析大学与产业合作模式的历史演进。
 

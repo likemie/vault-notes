@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Inappropriate Baseline Comparisons
@@ -202,6 +202,6 @@ updated: 2026-10-18
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从数理统计学视角剖析《[[Visible Learning|可见的学习]]》中的不当基准比较，以[[Class Size|班级规模]]、社会阶层和性别为例证实基线颠倒彻底推翻政策结论，提出鱼子酱未加权物价指数隐喻（pp. 240–242）。
 > - Allison et al. (2016) — 在《自然》（*Nature*）系统归纳科学研究中的三大致命[[Type I and Type II Errors|统计错误]]，将不当基线比较确立为诱发[[Reproducibility Crisis|可重复性危机]]的核心偏误类型（pp. 27–29）。

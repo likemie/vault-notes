@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Multiple Institution Attendance
@@ -148,5 +148,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示美国高等教育将[[Student Mobility|学生流动]]问题化为“多机构就读”并作为系统效率损耗的政策建构，对比欧洲一体化对流动的制度褒扬。

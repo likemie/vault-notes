@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # SINUS
@@ -150,5 +150,5 @@ updated: 2026-10-16
 > | [[Recontextualization]] | 概念 | 外部教学发展模块在特定学校文化中被选择性同化与本土重构的理论机制。 |
 > | [[Complexity Theory]] | 理论 | 解释跨校协作网络自组织[[Emergence\|涌现]]与大规模自上而下推广中非线性衰减的系统理论。 |
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9–11)]] — 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的奠基性历史坐标，反思其规模化扩散过程中的理论与成效瓶颈。

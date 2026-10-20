@@ -9,7 +9,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
-  - "[[Growth]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
   - "[[Selectivity]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Innovation Union
@@ -68,7 +67,7 @@ updated: 2026-10-16
 >
 > **区域政策维度** 将区域定位为创新生态体系的承载空间——即"区域是经济活动和社会互动的场所，汇集了异质的利益相关方"(European Union, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 >
-> 两项维度共同服务于 [[Europe 2020 Strategy]] 的总目标：促进智能、可持续与包容性增长（[[Start Making a Reader Today]], sustainable and inclusive [[Growth]]）。
+> 两项维度共同服务于 [[Europe 2020 Strategy]] 的总目标：促进智能、可持续与包容性增长（[[Start Making a Reader Today]], sustainable and inclusive growth）。
 
 > [!quote]
 > "The Innovation Union introduced a more strategic and broad approach to innovation by including actions that aimed to tackle both the supply and demand side elements of the innovation eco-system: the public sector, businesses, academia and finance."（European Union, 2015，引用于 Rambla, 2022, p.172）

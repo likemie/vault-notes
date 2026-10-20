@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,7 +23,6 @@ tags:
   - transformative-change
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Transformative Change]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Public Value]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Innovation Policy Paradigms
@@ -85,7 +84,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for [[Growth]]）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
+> 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for Growth）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
 
 > [!concept-lens] 范式透镜
 > - **含义** 指主导特定历史时期科技创新战略设计、公共财政配置、中介机构建设与评估标准的深层理论假设与制度范式。
@@ -130,7 +129,7 @@ updated: 2026-10-16
 ## 三大范式深度解构
 
 > [!feature] 创新政策三大[[Paradigm|范式]]核心逻辑与治理特征
-> - **范式一：科学促增长（Frame 1: Science for [[Growth]]）**
+> - **范式一：科学促增长（Frame 1: Science for Growth）**
 >   - **理论根基** 建立在新古典福利经济学与[[Linear Model of Innovation|线性创新模型]]之上（Bush, 1945; Arrow, 1962; Solow, 1957）。知识具有非竞争性与非排他性的公共品属性，私人市场因无法完全占有创新收益而导致研发投资不足（[[Market Failure|市场失灵]]）。
 >   - **政策工具** 设立国家科学基金会（如美国 [[National Science Foundation|NSF]]）大规模资助大学基础研究；出台《[[Bayh-Dole Act of 1980|拜杜法案]]》（[[Bayh-Dole Act of 1980|Bayh-Dole Act]]）赋予大学专利所有权以促进[[Technology Transfer|技术转移]]；推行通用研发税收抵免与反垄断规制。
 >   - **大学角色** 充当纯粹的[[Knowledge Production|知识生产]]者与人才输送源泉，技术商业化被视为科研完成后的单向线性外溢。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–29)]]
@@ -242,7 +241,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统梳理英美等国创新政策三[[Paradigm|范式]]演进历程，深度阐发大学在[[Knowledge Production|知识生产]]、系统催化与方向贡献上的角色转型。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述从市场修复向[[Market Shaping and Creating|市场塑造]]与共创跃迁的理论逻辑，提出 ROAR 治理框架与五大实施准则。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出[[Transformative Change|变革转型范式]]下的问题–解决方案空间，系统解构重大社会挑战的双重棘手性与收敛治理路径。

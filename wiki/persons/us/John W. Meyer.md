@@ -8,10 +8,10 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 39
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1935"
 died: ""
 lifespan: 1935–至今
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Rationalized Myth]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Cognitive Decoupling]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # John W. Meyer
@@ -87,7 +86,7 @@ updated: 2026-10-16
 > [!citation-card] 迈耶论世界文化普遍规范对主权国家的制度塑形
 > 我们的孤岛社会显然将成为由民族国家和个人构成的世界共同体的完全成员候选者。人权、国家保护的公民权利和民主形式将成为其天然的权利要求。一个按照理性化术语界定与衡量、并在国家规约下以增长为导向的经济系统将会出现。一套正式的国家政体将是不可或缺的，包括宪法、公民身份、法律、教育结构以及开放的参与和沟通形式。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 >
-> *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to [[Growth]] under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication. (Meyer et al., 1997, pp. 173–174)*
+> *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to growth under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication. (Meyer et al., 1997, pp. 173–174)*
 
 > [!citation-card] 迈耶论为他者行动与世界社会的文化建构
 > 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种“为他者行动”（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
@@ -157,7 +156,7 @@ updated: 2026-10-16
 > - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）宏观跨国转向中，评述迈耶新制度主义将现代学校阐释为全球扩散的“理性化现代化与进步神话”，同时反思当代宏观实证研究对历史维度的挤压。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 全面汲取迈耶的[[Organizational Actorhood|组织能动者身份]]（Actorhood）与[[Otherhood|为他者行动]]（Otherhood）框架，实证解构现代超级研究型大学如何通过科学客观性与[[Knowledge Production|知识生产]]，在全球去中心化治理中占据独特的合法性中心地位。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Between-Study Variance
@@ -209,7 +209,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 32–33)]] — 系统剖析二级[[Meta-meta-analysis|元-元分析]]中研究间方差 $\tau^2$ 估计的数理困局，指出因纳入[[Meta-analysis|元分析]]数量过少（平均仅约 6 项）导致[[Random-Effects Model|随机效应]]建模无法可靠估计 $\tau^2$。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016, pp. 38–39)]] — 阐述元分析中研究间方差 $\tau^2$ 的统计定位与[[Heterogeneity|异质性]]量化演进，说明其如何通过[[Prediction Interval|预测区间]]反映真实世界干预效应的波动范围。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 教育研究方法经典教材，详析[[Fixed-Effect Model|固定效应]]与随机效应模型中 $\tau^2$ 的计算原理及其在解释教育干预情境依存于异质性中的统计学意义。

@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Competitiveness
@@ -419,7 +419,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，提出“教育即标准”、三级人才梯队与中试共置构成了国家深科技竞争力的微观与制度支撑。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析新型举国体制与战略科技力量建设，揭示[[National Innovation System|国家创新体系]]中跨部门协同攻关与战略科技竞争力塑造机制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构国家硬科技竞争力体系，论证必须打破规制阻滞并锚定本土实体制造能力。

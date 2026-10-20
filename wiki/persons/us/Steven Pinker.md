@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Steven Pinker
@@ -151,7 +151,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引平克关于二战后全球暴力大幅退潮的量化数据，同时批判西方社会因过度乐观而陷入和平自满、忽视底层[[Hard Power|硬实力]]威慑的战略短视。
 
 

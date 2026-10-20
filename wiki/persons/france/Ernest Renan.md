@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Ernest Renan
@@ -102,7 +102,7 @@ updated: 2026-10-09
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
 > - **当代地缘政治与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
 
 ---

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Market Shaping and Creating
@@ -274,7 +274,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越[[Market Failure|市场失灵]]的[[Public Value|公共价值]]与评估框架。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 将市场塑造确立为使命政策两大支柱之一，论证其依托需求侧战略采购拉动技术外溢的机制，并提出三层[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]作为制度保障。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的[[Learning Economy|学习经济]]效应并扶植新进入者重塑竞争性格局。

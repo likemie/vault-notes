@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Realist Evaluation
@@ -275,7 +275,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]与应用索引
+> [!evidence-grid-a] 相关研究与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] 早期[[Teaching Assistant|教学助理]]与拼读项目因去情境化聚合导致的政策误导。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 详细记录全球最大教育循证试验资助机构从[[Black Box RCTs|黑箱试验]]向多臂[[Factorial Design|析因设计]]、中介指标度量与现实主义试验转型的制度轨迹。
 > - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda|欧盟技能议程]]政策，分析特定政策干预在特定制度情境中激活的因果机制。

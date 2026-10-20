@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Effect Size Conversion
@@ -287,7 +287,7 @@ updated: 2026-10-18
 >
 > **实证误导与因果混淆**
 > - **微弱相关跨入[[Zone of Desired Effects|期望效应区]]** 仅仅需要 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$，跨入哈蒂所谓的[[Zone of Desired Effects|期望效应区]]。然而在一元线性回归模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 0.0385$，意味着仅能解释 3.85% 的变异，剩余 96.15% 属于完全未解释的随机噪声（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）。
-> - **横向相关混同干预增量** 将横向[[Correlational Research|相关研究]]（如智商与[[Creativity|创造力]]测验的得分相关，或学生自我预期成绩与期末实际成绩的自相关）套用此公式硬性转换为 $d$，直接抹除了实验对照与时间先后维度，将相关性错误包装为强效的因果教学干预。
+> - **横向相关混同干预增量** 将横向[[Correlational Research|相关性研究]]（如智商与[[Creativity|创造力]]测验的得分相关，或学生自我预期成绩与期末实际成绩的自相关）套用此公式硬性转换为 $d$，直接抹除了实验对照与时间先后维度，将相关性错误包装为强效的因果教学干预。
 
 ---
 

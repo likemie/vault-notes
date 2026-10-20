@@ -71,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Governing by Numbers
@@ -251,7 +251,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。

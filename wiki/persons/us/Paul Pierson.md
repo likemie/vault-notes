@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Paul Pierson
@@ -128,7 +128,7 @@ updated: 2026-10-16
 > - **方法路径** 奠定政治科学重视事件次序、因果时滞与慢[[Variable|变量]]追踪的[[Process Tracing|过程追踪]]规范，极大地丰富了比较历史分析的[[Causality|因果推断]]深度。
 > - **跨学科辐射** 其时间性理论被社会学、历史学、法学与组织理论广泛引用，成为反对“无历史的微观经济学帝国主义”的理论旗帜。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 明确以皮尔逊（1994）的福利国家不可削减论为经典靶子，批评[[Historical Institutionalism|历史制度主义]]将无显性法律废止等同于制度无变迁的连续性偏误（pp. 6–8）。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 明确吸收皮尔逊关于颠覆者作为地下室白蚁的经典机制定性，并对话其早期路径依赖稳态假定（pp. xiii, 7, 31）。
 

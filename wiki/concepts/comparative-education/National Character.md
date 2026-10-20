@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Character
@@ -224,6 +224,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统梳理历史-哲学学派在比较教育中建构国民性格[[Construct|构念]]的脉络，并清算其方法论缺陷与[[Whiggism|辉格主义]]偏误。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 从科技地缘政治与共同体凝聚力角度，重构超越狭隘族裔血统的开放国民性格与国家认同。

@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 149
+related_count: 148
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -110,7 +110,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Reflexivity]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Growth]]"
   - "[[Moral Dualism]]"
   - "[[Technological Republic]]"
   - "[[Modern Industrial Policy]]"
@@ -181,7 +180,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Generative Artificial Intelligence
@@ -570,7 +569,7 @@ updated: 2026-10-17
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证[[Research Synthesis\|证据综合]] | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
 > | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
 
 ---

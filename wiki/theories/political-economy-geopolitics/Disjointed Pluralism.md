@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Disjointed Pluralism
@@ -188,7 +188,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 考证脱节[[Pluralism|多元主义]]作为希伦[[Institutional Layering|制度层叠]]概念关键前史的理论谱系，确立其在[[Historical Institutionalism|历史制度主义]]因果解释中的核心枢纽地位。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 借鉴脱节多元主义的妥协拼接模型，将制度内生张力与模糊性升格为解释渐进演化的微观动力基石。
 > - [[Institutional Layering]] — 历史制度主义核心渐进变迁机制，直接汲取脱节多元主义关于新安排在既有结构之上张力层叠的核心洞见。

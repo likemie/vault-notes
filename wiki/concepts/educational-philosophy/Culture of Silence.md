@@ -5,7 +5,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的概念，指在压迫性社会与储蓄式教育中被压迫者被剥夺批判性话语权与表达自由、陷入被动服从的无声状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Conscientization]]"
   - "[[Problem-Posing Education]]"
-  - "[[Growth]]"
   - "[[Dialogue in Education]]"
   - "[[Democratic Education]]"
   - "[[Paradigm]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Culture of Silence
@@ -60,7 +59,7 @@ updated: 2026-10-16
 > [!citation-card]- 关键表述：打破沉默文化与成长的本质
 > 批判意识的觉醒与成长，意味着被压迫者不再作为他人决定的客体，而是打破‘沉默文化’，学会说出自己的词语、命名世界并改变世界。（Freire & Macedo, 1987, p. 159; 引自 Darwish, 2009, p. 7）
 >
-> *[[Growth]] can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
+> *Growth can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
 
 ---
 

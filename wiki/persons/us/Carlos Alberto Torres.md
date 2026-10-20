@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Carlos Alberto Torres
@@ -134,7 +134,7 @@ updated: 2026-10-17
 > - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Educational Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **学术建制与跨国传播** 依托 UCLA [[Paulo Freire|弗莱雷]]研究所与[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES），搭建全球[[Critical Pedagogy|批判教育学]]与[[Popular Education|民众教育]]学术网络，推动[[Global Citizenship|全球公民教育]]理念落地。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 系统阐明马克思主义国家理论、受限国家与新自由主义全球化对比较教育扩张研究的核心解释力。
 
 ---

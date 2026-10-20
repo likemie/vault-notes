@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -55,7 +55,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Falsification]]"
   - "[[Popular Education]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[World-Systems Theory]]"
@@ -99,7 +98,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Arnove_2009_WorldSystems
 
@@ -314,7 +313,7 @@ updated: 2026-10-16
 > [!citation-card] 迈耶论世界文化普遍规范对主权国家的制度塑形
 > 我们的孤岛社会显然将成为由民族国家和个人构成的世界共同体的完全成员候选者。人权、国家保护的公民权利和民主形式将成为其天然的权利要求。一个按照理性化术语界定与衡量、并在国家规约下以增长为导向的经济系统将会出现。一套正式的国家政体将是不可或缺的，包括宪法、公民身份、法律、教育结构以及开放的参与和沟通形式。（pp.103–104）
 >
-> *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to [[Growth]] under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication.*
+> *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to growth under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication.*
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论[[World-Systems Theory|世界体系分析]]恢复比较教育的国际政治经济维度
 > 世界体系分析不仅拓展了宏观分析，将真正国际体系中的教育机构行为纳入视野，而且深化了我们对学校和课堂微观系统中变革与冲突根源的理解……将教育政策倡议与国际经济秩序的运作联系起来，有助于解释为何在如此多的案例中，扩张与改革都未能实现教育或社会的结构性变革，以及外部引发的教育革新为何可能反而固化了国内外既有的分层系统。（pp.106）

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-21
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Sample Size Determination
@@ -176,6 +176,6 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 经典[[Quantitative Research|量化研究]]设计指南，系统论述样本量规划的多重制约、Krejcie-Morgan 公式及经验法则。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，穷尽核对 301 项宏观影响因素的一阶受试样本量与[[Effect Size|效应量]]，实证揭露 72% 的伴随样本量提取错误，确立了样本量透明度与可复现性审计标准。

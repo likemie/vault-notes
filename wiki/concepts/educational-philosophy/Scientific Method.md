@@ -114,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Scientific Method
@@ -323,7 +323,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述现代科学学（[[Metascience]]）如何将科学方法的因果实验与实证检验反身应用于评估和改革联邦科研资助机制本身（如抽签资助、非共识金券评审），并确立金标准科学评价原则。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观[[Discourse|话语]][[Practical Epistemology|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践[[Epistemology|认识论]]与[[Formal Epistemology|形式认识论]]的[[Analytic Framework|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。

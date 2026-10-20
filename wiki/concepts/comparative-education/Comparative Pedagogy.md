@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Comparative Pedagogy
@@ -89,7 +89,7 @@ updated: 2026-10-17
 
 ## 概念辨析
 
-> [!contrast-table] 比较教学论与[[Correlational Research|相关研究]]取向的维度辨析
+> [!contrast-table] 比较教学论与相关研究取向的维度辨析
 > | 比较维度 | 比较教学论（Comparative Pedagogy） | 宏观制度比较（Macro Comparative Education） | 传统微观课堂行为分析（Process-Product） |
 > |:-----|:-----|:-----|:-----|
 > | **[[Unit of Analysis\|分析单位]]** | 课堂互动过程、教学思维、文化[[Discourse\|话语]] | 民族国家体制、学制结构、财政政策 | 孤立的教师行为频次、学生注意力时长 |
@@ -146,5 +146,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 155)]] — 考证英国比较教育学界在 20 世纪末向“比较教学论”与“[[Learnology|学习学]]”的微观转向，阐明其区别于北美宏观经济[[Positivism|实证主义]]的深厚文化关怀。

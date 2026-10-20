@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Social Capital Theory
@@ -86,6 +86,6 @@ updated: 2026-10-16
 ---
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差异化功能。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。

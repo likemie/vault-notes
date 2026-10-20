@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Herbert Hoover
@@ -129,7 +129,7 @@ updated: 2026-10-16
 > - **政策与实践路径** 主导了20世纪美国现代物流调度、工业标准化规程（从螺栓尺寸到砖块规格）以及无线电频谱早期管制的制度框架。
 > - **现代工程哲学与治理复兴** 其关于工程师责任不可逃避的格言被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中重新激活，作为现代软件工程文化、无过错根因复盘（[[Five Whys|五问法]]）与跨越公共部门[[Innovation Desert|创新荒漠]]的[[Epistemology|认识论]]灯塔（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究胡佛工程责任伦理对现代[[Engineering Mindset|工程思维]]、反官僚推诿认识论及跨越公共创新荒漠的历史奠基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14, p. 160)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]
 
 ---

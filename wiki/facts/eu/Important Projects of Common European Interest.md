@@ -166,6 +166,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 深度解构[[EU|欧盟]]微电子与通信技术重大项目（IPCEI ME/CT）的治理架构、出资机制与利润回缴条款，剖析欧委会作为[[Orchestrator State|产业政策协调者]]的制度局限与单一市场分裂风险。
 

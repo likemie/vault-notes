@@ -50,7 +50,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # High-Stakes Testing
@@ -205,6 +205,6 @@ updated: 2026-10-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材第 24 章系统梳理高利害测验的伦理连续谱（Mehrens & Kaminski, 1989）、Gipps 评价标准以及排除低表现学生的系统性弊端。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 结合 Learned et al. (2020) 与 Davies (2022)，深入剖析高利害测验驱动公式化套路写作、促成[[Computerization of Education|教育计算机化]]，并与生成式 AI 协同诱发[[Formative Epistemic Injustice|成长性认识不正义]]的哲学机理。

@@ -85,7 +85,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Homework
@@ -309,7 +309,7 @@ updated: 2026-10-17
 
 本 vault 中针对家庭作业的[[Effect Size|效应量]]争议、学段机制、反馈路径与 AI 重构展开实证考察的核心文献如下。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业效应量计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统批判家庭作业在实证研究中的定义模糊性与“苹果和橙子”[[Construct|构念]]混淆，剖析干预效果与相关效果的本质区别（pp. 37–38, 44）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 解构家庭作业的学段断层（小学 $d = 0.15$ vs 中学 $d = 0.64$），警示单一合并效应量对教育决策与教学实践的严重误导（p. 97）。

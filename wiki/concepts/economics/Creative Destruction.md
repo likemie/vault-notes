@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Creative Destruction
@@ -153,5 +153,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引佩雷斯的制度滞后论，指出激进创新必然包含[[Creativity|创造性]]破坏元素，论证技术[[Paradigm|范式]]更替时期[[National Innovation System|国家创新系统]]提供制度试错与教育调适空间的不可替代性。

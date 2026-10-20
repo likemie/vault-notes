@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 161
+argument_related_count: 160
 argument_related_level: 16
 argument_related_stars: "💎💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -113,7 +113,6 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Doxa]]"
   - "[[Peer Pressure]]"
-  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Literature Review]]"
@@ -195,7 +194,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2012
 doi: ""
 citation_aliases:
@@ -2908,7 +2907,7 @@ Li 在这一部分引述 Fülöp 的完整发现（在第 3 步中已经引述�
 > 1. **终点不是排名，是成长**。"赢了"不等于"我比他强"——等于"我这次做得比上次好"。"输了"不等于"我比他差"——等于"我看到了努力的新方向"
 > 2. **同伴是实现成长的资源**。别人做得比你好，不是威胁——而是你学习的资源和动力
 >
-> **这两个前提在西方文化中都不成立**——因为在西方，"赢"的首要意义是自我价值的证明（not about [[Growth]], about proof），而在东亚，"赢"的首要意义是成长的里程碑（not about proof, about growth）。
+> **这两个前提在西方文化中都不成立**——因为在西方，"赢"的首要意义是自我价值的证明（not about growth, about proof），而在东亚，"赢"的首要意义是成长的里程碑（not about proof, about growth）。
 
 **根基 3：家庭模型的社会关系 — "学长"的责任，"学弟"的服从**
 

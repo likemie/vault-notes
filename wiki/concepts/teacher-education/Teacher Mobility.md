@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Teacher Mobility
@@ -185,5 +185,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 对比欧洲将教师流动视为政策理想与美国将其视为薄弱校流失危机的[[Discourse|话语]]张力，揭示围绕移动的正当性划分本质。

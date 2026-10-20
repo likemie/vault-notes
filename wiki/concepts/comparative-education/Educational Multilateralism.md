@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Educational Multilateralism
@@ -175,5 +175,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统梳理[[World-Systems Theory|世界体系分析]]视阈下教育多边主义的历史演进，揭示国际金融机构如何通过政策[[Disciplina and Doctrina|规训]]重塑边缘国家的教育主权。

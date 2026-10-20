@@ -206,7 +206,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 商务部与 NIST 发布的顶层愿景与战略白皮书，全面界定 [[National Science and Technology Council|NSTC]] 的三大战略目标、六大核心业务板块、[[Natcast]] 治理架构与长期财务可持续模型。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 NSTC 的三代半导体公私产学研协同机制演进，揭示国家法定[[Innovation Hub|创新中心]]对企业[[Academic Engagement|学术参与]]战略的制度重塑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从 21 世纪现代产业战略执行视角剖析《[[CHIPS and Science Act|芯片与科学法案]]》110 亿美元研发计划与 NSTC 的制度化设计，提炼跨越“实验室到量产代工厂”断层的过程准则。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-10-18'
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Common Language Effect Size
@@ -223,6 +223,6 @@ updated: 2026-10-18
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 通过对 CLES 理论值域的公理推导，实证揭露《[[Visible Learning|可见的学习]]》底层概率算法计算崩溃与伪科学特征。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 在[[Meta-meta-analysis|二级元分析]]技术审计中将 CLES 计算失误列为统计失范典型案例。

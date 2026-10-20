@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Incommensurability
@@ -210,7 +210,7 @@ updated: 2026-10-18
 > - **1980–1990 年代 — 教育研究[[Paradigm Wars\|范式战争]]白热化** 格奇（Gage, 1989）将不可通约性提炼为教育研究量化实证与质性诠释阵营激战的[[Epistemology\|认识论]]根源，双方各自坚守范式忠诚。
 > - **2000 年代初 — [[Mixed Methods Research\|混合方法]]运动与[[Pragmatic Paradigm\|实用主义]]转向** 塔沙克里（Tashakkori）、特德利（Teddlie）与克雷斯威尔（Creswell）等学者确立混合方法研究为“第三种研究范式”，以实用主义工具理性打破不可通约性铁律。
 > - **2002 年 — 统计方法论的参数不可通约性确立** 莫里斯与德尚（Morris & DeShon, 2002）在心理学方法期刊上严格证明组间与组内实验设计估计异质总体参数，确立了实证参数不可直接通约的数理边界。
-> - **2025 年 — [[Metascience|元科学]]对跨设计违规通约的系统审计** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示全球流行二阶综合（如《[[Visible Learning|可见的学习]]》）中 27% 混杂实验与[[Correlational Research|相关研究]]，将统计参数不可通约性确立为防范伪因果综合的核心质量准绳。
+> - **2025 年 — [[Metascience|元科学]]对跨设计违规通约的系统审计** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示全球流行二阶综合（如《[[Visible Learning|可见的学习]]》）中 27% 混杂实验与[[Correlational Research|相关性研究]]，将统计参数不可通约性确立为防范伪因果综合的核心质量准绳。
 
 ---
 

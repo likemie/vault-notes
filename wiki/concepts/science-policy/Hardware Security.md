@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Hardware Security
@@ -192,6 +192,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 将硬件完整性与安全性确立为国家安全基石，提出基于零信任硬件信任根与全生命周期安全[[Co-Design|协同设计]]的防御体系。
 

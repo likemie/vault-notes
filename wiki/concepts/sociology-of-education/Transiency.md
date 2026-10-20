@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Transiency
@@ -201,5 +201,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 比较分析欧洲高等教育对[[Student Mobility|学生流动]]的赞美与美国基础教育对中途转学漂泊（Transiency）的病理化贬抑，揭示空间流动背后的阶层化道德评价与[[Spatial Governmentality|空间治理术]]。

@@ -52,7 +52,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Reproducibility Crisis
@@ -212,7 +212,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把复制失败、迟来的撤稿和人工智能带来的投稿涌增收成一个核心判断：生成变便宜之后，必须将数据开源、方法透明与自动化核验作为国家科研资助的基石。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学政策与政治社会学视角切入，揭示可重复性危机如何从学术界内部的方法论讨论，被美国行政中枢借用为重塑科学合法性基础、将学术自治压制为受限自治的契约性工具。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学全球影响最大的[[Meta-meta-analysis|二阶元分析]]知识库开展全量复现检验，发现 301 项中仅 2 项可复现，实证展现了可重复性危机从初级实验向高阶[[Research Synthesis|证据综合]]基础设施的蔓延。

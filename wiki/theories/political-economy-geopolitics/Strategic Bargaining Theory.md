@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Strategic Bargaining Theory
@@ -233,7 +233,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3, p. 32)]]** 引入[[Thomas Schelling|谢林]]战略博弈论公理，论证施加伤害的能力是外交谈判的核心筹码，阐明 21 世纪[[Hard Power|硬实力]]建立在软件代码之上的现实主义逻辑。
 > - **[[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]** 运用战略博弈与双层博弈理论，深度剖析[[Multilateral Development Bank|多边开发银行]]在主权教育贷款中的谈判博弈机制，阐释借款国部长的“策略性借用/替罪羊”杠杆与终极主权实质否决权。
 > - **Putnam (1988)** 经典论文构建双层博弈（Two-Level Games）分析模型，奠定国际与国内多维谈判的理论[[Paradigm|范式]]。

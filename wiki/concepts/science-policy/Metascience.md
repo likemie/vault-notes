@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Metascience
@@ -197,6 +197,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元、开展资助机制对照实验（含[[Pull Mechanisms for Innovation|拉动机制]]）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学首个针对《[[Visible Learning|可见的学习]]》全库 322 个影响因素的[[Preregistration|预注册]]元科学质量审计，构建三阶审查规程并实证证实仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学审查宏观合成证据确立了实证[[Paradigm|范式]]。

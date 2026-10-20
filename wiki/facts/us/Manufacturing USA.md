@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Manufacturing USA
@@ -177,7 +177,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将 Manufacturing USA 各研究所纳入国家微电子全链条公私研发合作矩阵（Goal 4.1），与 [[National Science and Technology Council|NSTC]]、[[National Advanced Packaging Manufacturing Program|NAPMP]] 及 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 协同攻坚芯片数字孪生与先进制造工艺。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 比较分析 Manufacturing USA 制造创新研究所与英国 Catapult、德国 Fraunhofer 在公私产学伙伴关系中的治理架构与财务自生机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐明《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与 Manufacturing USA 半导体数字孪生研究所的跨部门研发中试衔接网络。

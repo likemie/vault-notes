@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Kotter's 8-Step Change Model
@@ -181,5 +181,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将科特变革模型作为高水平[[Research Universities|研究型大学]]应对《[[CHIPS and Science Act|芯片与科学法案]]》的组织[[Theory of Change|变革理论]]基石，实证揭示了 8 人跨领域专家专班如何依据营造紧迫感、三级迭代动员并最终制度化为半导体研究院的完整路径。

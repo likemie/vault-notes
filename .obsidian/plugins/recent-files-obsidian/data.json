@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Education as Growth",
+      "path": "wiki/concepts/educational-philosophy/Education as Growth.md"
+    },
+    {
       "basename": "Zhao Tingyang",
       "path": "wiki/persons/china/Zhao Tingyang.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
     },
     {
       "basename": "Tianxia Heuristic",
@@ -23,10 +31,6 @@
     {
       "basename": "Suyan Pan",
       "path": "wiki/persons/china/Suyan Pan.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
     },
     {
       "basename": "template-argument-edited-volume",
@@ -195,10 +199,6 @@
     {
       "basename": "Hard Power",
       "path": "wiki/concepts/political-economy-geopolitics/Hard Power.md"
-    },
-    {
-      "basename": "International Education",
-      "path": "wiki/concepts/higher-education/International Education.md"
     }
   ],
   "omittedPaths": [],

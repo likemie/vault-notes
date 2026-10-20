@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Anaconda in the Chandelier
@@ -129,5 +129,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借[[Perry Link|林培瑞]]的隐喻深刻剖析当代美国大学行政管理层因恐惧引发舆论非议而全面推行语言管控与自我审查的心理根源。

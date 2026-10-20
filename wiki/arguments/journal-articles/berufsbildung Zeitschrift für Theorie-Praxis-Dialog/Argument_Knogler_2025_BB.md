@@ -44,7 +44,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Student Attitude]]"
-  - "[[Growth]]"
   - "[[Effective Teaching]]"
   - "[[Further Education]]"
 related_theories: []
@@ -80,7 +79,7 @@ title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -248,7 +247,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > |---|---|---|
 > | **个体使用效用** | 平均评分高达 4 至 5 分（满分 6 分） | 确认专业加工材料具备确切个人智识价值 |
 > | **自身教学适用性** | 在大学研讨课与进修培训中高度易用 | 证实 Kurzreviews 可直接作为高校教学法脚手架 |
-> | **专业知识拓展** | 显著增强受访者对前沿因果证据的理解 | 推动教师教育者自身的持续专业化[[Growth\|成长]] |
+> | **专业知识拓展** | 显著增强受访者对前沿因果证据的理解 | 推动教师教育者自身的持续专业化成长 |
 > | **时间精力减负** | 极大减轻自行搜寻、筛选与解读文献的负担 | 突破实践人员最突出的时间资源瓶颈 |
 > | **跨基线普适价值** | 无论使用者原本的知识和资源储备高低，均给出高度一致的积极肯定 | 证明标准化中介平台对不同背景人群均具支撑效用 |
 

@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Protean Episteme
@@ -272,7 +272,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统摄比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考掘比较教育学在近代比较学科群中的演进轨迹，依托大规模文献计量证实单一实证[[Scientific Paradigm|科学范式]]垄断瓦解以及 26 种理论传统并存的“[[Pluralism|健康多元主义]]”。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析比较教育科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology|认识论]]分裂，揭示实证量化模式沦为国家机器[[Social Science as Legitimation Alibi|合法化借口]]的深层机制。

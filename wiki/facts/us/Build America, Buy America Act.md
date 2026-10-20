@@ -160,5 +160,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 详尽剖析《以美国制造为荣法案》（BABA）作为 [[Infrastructure Investment and Jobs Act|IIJA]] 核心需求侧附加条件的运行机制，并以电动汽车充电设施分阶段豁免为例论证产业政策执行的动态调适过程。

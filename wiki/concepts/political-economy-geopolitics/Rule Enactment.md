@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rule Enactment
@@ -167,6 +167,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 正式形式化界定规则践行概念，系统提出导致设计与践行脱节的四重动力机制（pp. 13–16）。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 继承规则践行中的缝隙假设，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。

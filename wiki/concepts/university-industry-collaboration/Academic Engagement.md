@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Academic Engagement
@@ -168,7 +168,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出扩大产业博士培养、推广伯克利 [[Activate Fellowship|Activate]] 创业科学家模式及打破学术晋升壁垒的产学学术参与重塑方案。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深度质性与[[Quantitative Research|量化研究]]，揭示中国顶尖大学学生学业投入与[[Social Engagement|社会性投入]]在不同家庭阶层背景下的模式分化。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]（AET）视角系统剖析产学学术参与的组织架构、预算配置与跨部门矩阵治理。

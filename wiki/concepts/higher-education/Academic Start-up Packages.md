@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Academic Start-up Packages
@@ -200,7 +200,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
 

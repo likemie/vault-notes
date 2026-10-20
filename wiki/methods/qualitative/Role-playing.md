@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Role-playing
@@ -216,7 +216,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 122–126)]] — 将即兴演剧的角色解耦与[[Status Transactions|地位交易]]拓展至前沿软件工程组织，论证地位作为工具性手段在激发自适应创新中的核心效能。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 将角色扮演拓展至生成式 AI 交互提示工程，实证验证 AI 认知角色设定在促发[[Epistemology|认识论]]扰动与推动评价主义进阶中的支架效能。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量确立角色扮演作为[[Authentic Instruction|真实性教学]]策略中促成[[Critical Thinking|批判性思维]]的最强增益路径（$k=5, g+=0.61$）。

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-12
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -105,7 +105,7 @@ updated: 2026-10-18
 > - **现代课程与制度化教育反思** 当代批判课程学者（如 Cole, 2005）认为，黑格尔式教化常被现代国际教育体制（如[[International Baccalaureate|国际文凭]]课程）内化为深层语法，批评其倾向于用客观理性框架修剪个体情感，把学生预设为等待填充的“空无认知者（[[Empty Knower]]）”。
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思实证主义评价时，重新激活包含黑格尔在内的德意志精神科学教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 将黑格尔列入德意志教化（[[Bildung]]）与存在本体论哲学谱系，以此阐明教育实践对实证主义量化可见范式的超越性意义。
 

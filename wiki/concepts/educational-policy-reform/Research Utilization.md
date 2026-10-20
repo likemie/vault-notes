@@ -486,7 +486,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 追踪美国[[Common Core State Standards|共同核心标准]]（CCSS）政策全生命周期，提出阶段依随型证据利用模型，系统论证研究证据在议程设置、方案研制与政策采纳中的功能分化，以及去政治化护盾与[[Professional Judgment|专业判断]]补位机制。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 基于英格兰 79 所小学 696 名教职员工基线数据，构建 [[Self-Improving School System|SISS]] 循证组织准备度四要素模型，实证揭示研究价值高认同与正式反思/评价结构匮乏的结构性割裂，并批判高利害问责导致教师陷入“[[Activity Traps|活动陷阱]]”。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 基于[[OECD|经合组织]] 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。

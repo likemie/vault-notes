@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Operation Paperclip
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 剖析回形针行动体现的不拘成见、放下虚荣与以[[Hard Power|硬实力]]为先的[[Engineering Pragmatism|工程实用主义]][[Epistemology|认识论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, p. 161]]）。
 
 > [!entry-map]

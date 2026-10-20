@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Conditionalities
@@ -337,7 +337,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 深度剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中附加条件与护栏条款的制度设计、执行挑战与[[Public Value|公共价值]]产出逻辑。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐释美国半导体研发资助中面向 [[National Science and Technology Council|NSTC]] 的开放准入、非排他知识产权许可与长期自负盈亏等研发附加条件治理机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧半导体产业政策中的附加条件设计，揭示美国集中式强力规制与[[EU|欧盟]]去中心化弱约束的机制分殊与效能差异。

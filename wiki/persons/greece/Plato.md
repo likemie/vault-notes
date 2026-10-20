@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Plato
@@ -181,7 +181,7 @@ updated: 2026-10-16
 > - **政策[[Epistemology|认识论]]批判扩展** 洞穴喻被现代批判政策社会学借用为解构实证技术主义的认识论透镜，警示教育者避免将自上而下政策塑造的指标阴影误认为终极教育目标。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 12)]]
 > - **政治治理哲学与公共行政反思** 《理想国》确立了西方关于执政者应为“无私哲学家王/被迫服务之善者”的古典道德传统，不仅深刻影响了美国建国时期[[James Madison|麦迪逊]]等联邦党人对公职薪酬的审慎态度，更成为卡普与扎米斯卡（2025）批判现代西方公共部门禁欲主义与低薪寡头化制度病理的古典理论溯源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统四大支柱（知识确定性、心智奇迹、省察生活、学习者差异）中的奠基性地位，系统对比西方智力天赋导向与东亚儒家[[Self-Cultivation|修身]]努力导向。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[John Dewey|杜威]]与弗雷尔[[Critical Pedagogy|批判教育学]]视角，解构柏拉图城邦等级固化目的论对平民[[Critical Thinking|批判性思维]]潜能的系统压制。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|德性认识论]]与人机对话交互视角批判柏拉图《美诺篇》问答法中预设唯一客观真理的收敛诱导缺陷，倡导向心理治疗式自主探究范式跃迁。

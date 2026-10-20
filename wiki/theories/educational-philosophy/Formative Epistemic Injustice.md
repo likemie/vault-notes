@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Formative Epistemic Injustice
@@ -231,7 +231,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - Martin (2018) — 首创成长性[[Epistemic Injustice|认识不正义]]概念，奠定未成年人参与公共审议[[Epistemic Practices|认知实践]]权利的哲学基础。
 > - Nikolaidis (2021) — 确立[[Epistemic Malformation|认知畸变]]（Malformation）[[Central Phenomenon|核心范畴]]，构建教育认识不正义理论谱系。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 系统提出私厨隐喻与成长性认识不正义三重检验标准，解构生成式 AI 对读写教育核心工序的侵害机制与[[Alien Intelligence|异己智能]]防御方案。

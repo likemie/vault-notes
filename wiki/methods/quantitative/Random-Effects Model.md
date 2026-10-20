@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Random-Effects Model
@@ -274,14 +274,14 @@ updated: 2026-10-17
 > | [[Robust Variance Estimation]] | 补救方法 | 在文献重叠与复杂相关依赖下提供渐近无偏的稳健[[Standard Error\|标准误]]推断。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述随机效应模型在面向广义超总体推论中的方法论优越性与历史演进。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 揭示二级随机效应模型因[[Meta-analysis\|元分析]]数量过少（平均约 5.8 项）导致的双重不可行性困境。 |
-> | [[Argument_Snook_2009_NZJES]] | 方法批评 | 揭示二阶综合中对随机效应模型虚增效应量警示的选择性援引，批判研究质量审查的随意性。 |
-> | [[Argument_Hattie_2010_NZJES]] | 方法辩护 | 回应 Snook et al. 批评，辩护元分析模型属性与质量控制的局部标注策略。 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 方法批评 | 揭示二阶综合中对随机效应模型虚增效应量警示的选择性援引，批判研究质量审查的随意性。 |
+> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 方法辩护 | 回应 Snook et al. 批评，辩护元分析模型属性与质量控制的局部标注策略。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述随机效应模型的超总体推论哲学，指出其通过纳入[[Between-Study Variance|研究间方差]]真实反映了证据[[Heterogeneity|异质性]]。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 论证一级研究因教育复杂性必须采用随机效应模型，但揭示二级综合因一阶文献[[Sample Size Determination|样本量]]过小导致随机效应建模陷入双重不可行性困境。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking|批判性思维]]教学研究中采用随机效应模型与混合效应[[Meta-regression|元回归]]，稳健合成干预效应（$g+ = 0.57$）。

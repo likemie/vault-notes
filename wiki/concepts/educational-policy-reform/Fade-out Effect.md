@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Response to Intervention]]"
   - "[[Academic Achievement]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Efficacy Trial]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fade-out Effect
@@ -232,7 +231,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美各大教育清算中心认证的数百项教育项目 | 跨国证据清算元综述 | 干预后随访期（0、6、12 个月）、认证推荐等级 | 缺乏 6–12 个月随访数据的项目在严格机构中淘汰率超 90%；[[Peer-Assisted Learning Strategies\|PALS]] 与 [[Community Innovation Survey\|CIS]] 因无随访数据在 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 中直接被判为证据不足 | 政策标准严格约束 | 确立了随访期长短是决定干预能否经受住真实世界检验的关键门槛 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Hanley et al. (2015); Kitmitto et al. (2018) | 英格兰小学五年级学生（[[Thinking, Doing, Talking Science\|TDTS]] 科学干预） | [[Efficacy Trial\|效力试验]]（42 校）与[[Effectiveness Trial\|实效试验]]（205 校）对比 | 科学学业统考成绩、FSM 弱势学生成绩 | 效力试验即时后测呈现显著成效（$d = +0.22$）；但在扩大规模实效试验中，由于级联中介递送稀释与对照组常态教学提升，主效应降为零 | 规模化阶段效应衰退 | 阐明除了时间衰退外，从效力到实效的规模化也是导致干预效应归零的重大路径 |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阶段 Title I 薄弱学校与干预响应体系（[[Response to Intervention\|RTI]]/RTPI） | 循证改革质量综述与长效干预模型分析 | 单年干预后效衰减 vs 累积剂量连年干预对[[Academic Achievement\|学业成就]]的维持效应 | 单年干预停止后效应逐步衰减；跨学段连年推行强证据方案能够实现效应持续留存与学业差距消除 | 理论推导与政策模型证实 | 确立“累积剂量原则”为抵御短期效应衰减、保障弱势学[[Growth\|生长]]效发展的根本制度解法 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阶段 Title I 薄弱学校与干预响应体系（[[Response to Intervention\|RTI]]/RTPI） | 循证改革质量综述与长效干预模型分析 | 单年干预后效衰减 vs 累积剂量连年干预对[[Academic Achievement\|学业成就]]的维持效应 | 单年干预停止后效应逐步衰减；跨学段连年推行强证据方案能够实现效应持续留存与学业差距消除 | 理论推导与政策模型证实 | 确立“累积剂量原则”为抵御短期效应衰减、保障弱势学生长效发展的根本制度解法 |
 
 ---
 

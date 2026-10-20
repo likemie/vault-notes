@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Clash of Civilizations
@@ -176,5 +176,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 结合[[Huntington-Wallace Line|亨廷顿-华莱士线]]剖析文明冲突论的学术影响，批判高校因反感其模型而封杀文化规范讨论的认知病理。

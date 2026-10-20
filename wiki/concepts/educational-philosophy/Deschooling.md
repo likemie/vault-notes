@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Deschooling
@@ -173,5 +173,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 溯源了从传统教学论五支柱到伊里奇与霍尔特去学校化思潮的思想脉络，批判性揭示了[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》将教师定性为非专业调节者所暗含的去学校化逻辑及其在俄罗斯[[Policy Borrowing|政策借用]]中引发的去专业化风险。

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Learning Styles
@@ -250,7 +250,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。

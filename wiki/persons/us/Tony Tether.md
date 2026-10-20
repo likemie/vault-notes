@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Tony Tether
@@ -177,6 +177,6 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以瑟瑟任期前后为纵向对比样本，实证破除“瑟瑟改革终结经典 [[DARPA]] 模式”的学术流行观点，确立项目经理在微观层面的[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，深入剖析泰瑟出任 DARPA 局长期间强行将计算资助由大学转向涉密军事部署的激进倒退，揭示国防隐蔽外衣下缺乏民主问责导致的科技生态脆弱性。

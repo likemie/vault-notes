@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-20
 ---
 
 # State Corporatism
@@ -178,7 +178,7 @@ updated: 2026-10-05
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 论述国家[[Neocorporatism|法团主义]]如何将教育作为[[Compensatory Legitimation|补偿性合法化]]手段维系后革命国家霸权。
 
 ---

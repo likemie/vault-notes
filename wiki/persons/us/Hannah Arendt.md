@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Hannah Arendt
@@ -139,7 +139,7 @@ updated: 2026-10-16
 > - **教育哲学路径** 经由托马斯·奥斯特鲁普·勒梅尔（[[Thomas Aastrup Rømer]]）与赫特·比斯塔（[[Gert Biesta]]）等欧洲教育学者，阿伦特的判断力理论被引入当代教育哲学与 [[Bildung]] 传统，成为抵抗新自由主义[[Positivism|实证主义]]测评（如 [[John Hattie]] 的 [[Visible Learning]]）与教育技术官僚化、捍卫学生批判性主体化（Subjectification）的关键思想资源。
 > - **组织与治理路径** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中，将阿伦特对平庸之恶的剖析延伸至科技企业与国家安全工程治理，强调现代科技创新组织必须坚决打破选拔唯命是从者的官僚文化，通过制度化包容[[Constructive Disobedience|建设性不服从]]来防范挑战者号式的系统性决策灾难。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著在第 12 章（pp. 132–136）结合[[Milgram Obedience Experiment|米尔格拉姆服从实验]]与挑战者号航天飞机灾难，深入探讨阿伦特平庸之恶命题在现代[[Bureaucracy|科层制]]与前沿科技创新团队中的治理警示。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 在教育哲学批判中借助[[Immanuel Kant|康德]]与阿伦特的判断力与思维传统，反思当代[[Evidence-Based Education|循证教育]]评价将复杂教育实践降格为单向度可见产出的理论缺陷。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 103
+related_count: 102
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -20,7 +20,6 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Technology Transfer Office]]"
-  - "[[Growth]]"
   - "[[Unit of Analysis]]"
   - "[[San Francisco Bay Area]]"
   - "[[National Innovation System]]"
@@ -131,7 +130,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Innovation Ecosystem
@@ -151,7 +150,7 @@ updated: 2026-10-16
 > [!citation-card] 广义创新政策组合与市场结构的协同塑造
 > 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160–161)]]
 >
-> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and [[Growth]] of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants, aiding the creation of new semiconductor and computer firms, as well as the independent software industry.*
+> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and growth of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants, aiding the creation of new semiconductor and computer firms, as well as the independent software industry.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Systems of Innovation|创新系统]]（Systems of Innovation）— 创新系统偏向国家或区域层面的制度宏观框架与政策制度结构（如法律、税制、研发总预算）；创新生态系统更强调微观主体间的有机共生、演化适应性、供应链垂直协同与多主体价值共创。
@@ -438,7 +437,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 追踪美国创新生态由大企业封闭实验室向去中心化公私协同网络的三十年演化，证实财富 500 强独立创新份额骤降至 7% 而产学研协同攀升至 87.5%，并实证论证公共财政在[[Valley of Death|死亡之谷]]早期技术开发（占近三分之一）托底对维持创新生态运转的支柱功能。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建自维持微电子创新生态系统的四大支柱，通过跨部门微电子领导小组委员会（[[Subcommittee on Microelectronics Leadership|SML]]）顶层统筹、300 毫米共享[[Pilot Scale Platform|中试平台]]与早期引导基金匹配（[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] / [[AFVentures]]）加速实验室向制造基底转化。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 规划[[National Semiconductor Technology Center|国家半导体技术中心]]战略愿景，提出依托非营利实体治理、共享中试线与数字设计网关、构建跨部门创新漏斗的第三代国家公私伙伴生态[[Paradigm|范式]]。

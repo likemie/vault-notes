@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Oskar Anweiler
@@ -128,7 +128,7 @@ updated: 2026-10-16
 > - **两德体制融合智库支撑** 1990 年出版的两德教育比较专著，在冷战结束与两德教育体制重组过程中发挥了至关重要的政策咨询与事实锚定功能。
 > - **后继学派[[Paradigm|范式]]转型承前启后** 安维勒的学术开拓为波鸿鲁尔大学后续学术演进提供了肥沃土壤，其继任者克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick）在此基础上顺利完成了向全球化[[World-Systems Theory|世界体系理论]]的范式跃迁。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统考察安维勒在波鸿鲁尔大学建立东欧比较教育重镇的史学意义，高度评价其关于比较教育依附于[[Allgemeine Pädagogik|普通教育学]]“交叉领域”定位的方法论贡献。
 
 ---

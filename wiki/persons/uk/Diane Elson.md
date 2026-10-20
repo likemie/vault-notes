@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Diane Elson
@@ -114,7 +114,7 @@ updated: 2026-10-16
 > - **政策路径** 促成联合国、英联邦以及全球 60 余个国家政府将性别平等审查机制制度化植入财政预算与教育立法审批流程。
 > - **跨国传播与争议化** 其关于“对女性投资能够提升[[Total Factor Productivity|全要素生产率]]”的研究结论，被[[OECD|经合组织]]与[[World Bank|世界银行]]等国际多边组织广泛采纳，进而引发了批判学者关于女性主义诉求被新自由主义工具化收编的长期学术交锋。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 深度剖析经合组织如何收割埃尔森的研究，将女性主义平权矮化为服务于GDP增长的经济工具论。
 
 ---

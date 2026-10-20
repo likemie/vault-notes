@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Engineering Mindset
@@ -389,5 +389,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **[[Technological Republic|技术共和国]]与工程思维体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 论证工程组织微观机制、[[Swarm Intelligence|群智能]]、[[Constructive Disobedience|建设性不服从]]、商用采购与[[Innovation Desert|创新荒漠]]突破。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Ch. 10)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Ch. 11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Ch. 12)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]

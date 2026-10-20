@@ -76,7 +76,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pilot Testing
@@ -270,7 +270,7 @@ Teach 历经两年的三阶段迭代式预测试规程如下：
 
 本 vault 中围绕预测试理论与实证应用的代表性研究索引如下。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在调查与实验设计中系统提炼预测试的标准化六步质控操作程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 经典教育研究方法著作；在第 20 章系统界定[[Questionnaire|问卷]]预测试的双重类型（格式/覆盖范围与统计缩减）；并在第 24 章论述测验自编过程中预测试对[[Item Analysis|题目分析]]的强制必要性。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，完整记录工具历时两年的三阶段跨国预测试历程，详述通过预测试发现观察员认知过载并完成双轨架构重构的方法学实践。

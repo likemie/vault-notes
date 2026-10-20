@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Intellectual Capital
@@ -218,7 +218,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 溯源[[Friedrich List|李斯特]]智力资本理论，结合德、美、日、韩等国追赶历程，论证国家教育与技术学习网络是不可替代的增长引擎。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 剖析硅谷技术生态从冷战国家战略合作向消费主义撤退的历史演变，警示顶尖工程智力资本脱离国家核心使命的系统性风险。
 

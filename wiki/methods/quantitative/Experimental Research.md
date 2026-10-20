@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Experimental Research
@@ -199,7 +199,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 8 章)]] — 系统阐述实验研究的[[Variable|变量]]操纵、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]模型、效度威胁与统计分析指南。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp. 99–104)]] — 结合田纳西 STAR 项目与 Smith and Glass (1980) 经典对照实验[[Meta-analysis|元分析]]，系统审查量化实验研究在教育政策转化中的[[Epistemology|认识论]]边界，揭示变量[[Interaction Effect|交互效应]]与底层实验质控对因果推论的决定性制约。

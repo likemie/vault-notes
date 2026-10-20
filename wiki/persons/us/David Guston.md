@@ -45,7 +45,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # David Guston
@@ -106,7 +106,7 @@ updated: 2026-10-16
 > - **政策路径** 其关于科研诚信与产出率两难困境的[[Analytic Framework|分析框架]]，被广泛应用于[[National Science Foundation|美国国家科学基金会]]（NSF）、国立卫生研究院（[[National Institutes of Health|NIH]]）等机构的伦理治理与项目绩效评估制度设计中。
 > - **跨国／跨领域传播** [[Responsible Innovation|负责任创新]]思想被[[EU|欧盟]]“地平线2020”（Horizon 2020）框架全面采纳并向全球辐射。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 溯源[[Social Contract of Science|科学社会契约]]的理论源流，将古斯顿（1994, 2000, 2011）作为界定国家与科学共同体制度化权利义务关系的核心代表学者予以系统引用。
 
 ---

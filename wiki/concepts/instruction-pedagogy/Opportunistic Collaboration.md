@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Opportunistic Collaboration
@@ -198,5 +198,5 @@ updated: 2026-10-16
 
 ## 论证索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 详尽记录五年级 22 名学生在 7 个月人体系统探究中组建弹性小组（如眼睛小组）的历时演变，证实弹性协作促成了 81.25% 的完全[[Scientific Explanation|科学解释]]与高密分布式社会认知网络。

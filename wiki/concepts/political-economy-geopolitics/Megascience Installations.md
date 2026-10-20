@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Megascience Installations
@@ -212,7 +212,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划联邦用户设施网络（2.1），统筹 [[National Science Foundation|NSF]] [[National Nanotechnology Coordinated Infrastructure|NNCI]]、[[Department of Energy|DOE]] 国家实验室[[Big Science|大科学]]装置与 [[National Science and Technology Council|NSTC]] 300mm 产线，向全美科研界开放尖端极端表征与微纳加工基座。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重构能源部 28 个用户设施与 NNCI 准入标准，向产业初创开放[[Big Science|大科学]]装置机时、微纳洁净室及共建 GMP 级[[Pilot Scale Platform|中试平台]]。
 > - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 剖析俄罗斯在追求大科学装置本土化独立建设过程中面临的财政预算约束、多边合作偏离与学术孤立风险。

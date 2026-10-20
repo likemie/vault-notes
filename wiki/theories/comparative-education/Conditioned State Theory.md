@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Conditioned State Theory
@@ -244,7 +244,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 系统阐发受限国家理论、[[State Corporatism|国家法团主义]]与新自由主义全球化下教育扩张的政治社会学。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 深入多边银行主权贷款实务，检验受限国家理论在社会政策维度的实证边界，揭示国内政治生存如何压倒外部信贷条件。
 

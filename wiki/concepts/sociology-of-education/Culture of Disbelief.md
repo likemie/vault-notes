@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Culture of Disbelief
@@ -93,5 +93,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，援引卡特《不信文化》论述战后世俗化过激对美国心智的削弱。

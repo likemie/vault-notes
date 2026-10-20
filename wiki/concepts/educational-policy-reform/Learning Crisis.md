@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Learning Crisis
@@ -221,5 +221,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 针对中低收入国家基础教育学习危机，研发开源标准化[[Classroom Observation|课堂观察]]工具 Teach，确立微观课堂实践作为破解危机的核心着力点。

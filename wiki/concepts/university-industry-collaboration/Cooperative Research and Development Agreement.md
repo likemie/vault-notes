@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Cooperative Research and Development Agreement
@@ -239,6 +239,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统梳理 1986 年《联邦[[Technology Transfer|技术转移]]法》确立 CRADA 的制度起源，揭示其作为[[Developmental Network State|发展型网络国家]]公私协同核心通道的功能，并深入剖析其缺乏利润分享与定价规制引发的公共收益赤字与财政脆弱性。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述国家实验室通过 CRADA 机制向民间初创企业开放[[Megascience Installations|大科学装置]]的战略价值，并提出推行 30 天标准化绿色通道改革以克服行政谈判壁垒与防范技术外溢。

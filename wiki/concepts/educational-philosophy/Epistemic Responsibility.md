@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Responsibility
@@ -234,7 +234,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 揭示[[Reflective Structuration|反思性结构化]]如何赋能小学生行使集体认知责任，通过跨组流动与 BOOK 视图综合推进全班公共知识前沿。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，实证验证[[Epistemology|认识论]]责任在促使学习者主动核验大模型输出、克服消极[[Cognitive Offloading|认知卸载]]并实现评价主义进阶中的关键机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位论文第 4 章中将认识论责任作为[[Problem-Posing Education|提问式教育]]超越技术性[[Active Learning|主动学习]]的核心理论标识。

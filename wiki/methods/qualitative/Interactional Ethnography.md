@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Interactional Ethnography
@@ -174,5 +174,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 运用互动[[Ethnography|民族志]]长周期追踪五年级科学课堂 7 个月的人体系统探究，通过事件地图与互文网络揭示学生如何协同构建意向领域与弹性小组。

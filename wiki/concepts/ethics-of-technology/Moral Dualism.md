@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Moral Dualism
@@ -210,6 +210,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻批判西方学术与科技界沉溺的压迫者与被压迫者道德二元论，通过人类学证据与现实地缘冲突揭示绝对和平主义的虚伪性，确立以[[Hard Power|硬实力]]技术威慑守护民主秩序的伦理合法性。
 

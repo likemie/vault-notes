@@ -9,7 +9,7 @@ summary: "美国著名演化经济学家、创新经济学哥伦比亚学派领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[National Innovation System]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Market Failure]]"
   - "[[Heterogeneity]]"
   - "[[Competitiveness]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Richard Nelson
@@ -66,7 +65,7 @@ updated: 2026-10-16
 > [!citation-card]- 人物定位的关键来源
 > 正如对十几个国家创新系统的主要比较研究所阐明的那样（Nelson (ed.), 1993），国家创新系统的差异在美、日、欧之间以及欧洲各国内部同样极其显著；形式增长理论与数学模型无法提供有效解释，因为最有趣的现象全部被局限在无法被令人满意地分解的‘余值’（residual）之中，并涉及深层的系统互依性（Nelson, 1973）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15, 20)]]
 >
-> *Differences in national systems are also very important between Japan, the United States and the EC and between European countries themselves, as the major comparative study between more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993)... Nor did formal [[Growth]] theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved (Nelson, 1973).*
+> *Differences in national systems are also very important between Japan, the United States and the EC and between European countries themselves, as the major comparative study between more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993)... Nor did formal growth theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved (Nelson, 1973).*
 
 ---
 
@@ -87,7 +86,7 @@ updated: 2026-10-16
 
 > [!thought-timeline] 思想发展
 > - **1950s–1970s — 基础科研公共品属性与批判新古典余值** 揭示科学研究的高度不确定性与外部性，批判将技术进步当作外生“索洛余值”的静态模型。
->   - **代表著作** *The Simple Economics of Basic Scientific Research* (1959); *Recent Exercises in [[Growth]] Accounting: New Understanding or Dead End?* (1973)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
+>   - **代表著作** *The Simple Economics of Basic Scientific Research* (1959); *Recent Exercises in Growth Accounting: New Understanding or Dead End?* (1973)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
 >   - **关键概念／方法** 基础研究外部性、索洛余值批判。
 >   - **阶段转向** 从新古典[[Market Failure|市场失灵]]框架逐步转向否定完全理性假定。
 > - **1980s — 现代[[Evolutionary Economics|演化经济学]]微观基础确立** 提出以“惯例—变异—选择”为核心的企业演化[[Analytic Framework|分析框架]]。
@@ -109,7 +108,7 @@ updated: 2026-10-16
 > [!citation-card] 纳尔逊论新古典增长模型中余值的解释贫困
 > 形式增长理论与模型并没有提供多少实质性帮助，因为最具解释价值的生动现象全都被圈禁在一个无法令人满意地分解的‘余值’（residual）之中，并且技术创新深深涉及各部门之间复杂的相互依赖机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
 >
-> *Nor did formal [[Growth]] theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved.*
+> *Nor did formal growth theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved.*
 
 ---
 
@@ -120,7 +119,7 @@ updated: 2026-10-16
 > - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与[[Competitiveness|国家竞争力]]评估标准。
 > - **跨国学术网络构建** 1993 年工程汇聚了全球数十位经济学家和历史学家，成为推动比较制度分析（Comparative Institutional Analysis）的主导力量。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 频繁征引纳尔逊（Nelson, 1973, 1993）关于索洛余值局限性的批判以及对十余国国家创新系统制度[[Heterogeneity|异质性]]的比较研究，作为捍卫国家[[Unit of Analysis|分析单位]]的有力证据。
 
 ---

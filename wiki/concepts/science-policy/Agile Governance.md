@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -218,7 +218,7 @@ aliases:
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 确立敏捷治理作为第三代使命导向政策与[[Public Dynamic Capabilities|公共动态能力]]的核心行政操作方法论。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 从[[Engineering Pragmatism|工程实用主义]]与反[[Determinism|决定论]]视角论证敏捷试错、免责[[Five Whys|五问法]]与快速止损对重构国家治理效能的关键价值。
 

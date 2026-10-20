@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-20
 ---
 
 # Lean Production
@@ -154,5 +154,5 @@ updated: 2026-10-14
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 将精益生产系统与多技能轮岗明确界定为微电子[[Techno-economic Paradigm|技术-经济范式]]转型中的核心组织管理创新，强调其与国家公共职业教育培训及产业赶超绩效的深度互依性。

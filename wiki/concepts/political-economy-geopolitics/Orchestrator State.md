@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Orchestrator State
@@ -130,5 +130,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 系统界定欧委会作为产业政策“协调者”（Orchestrator）的理论内涵，剖析其依赖成员国国家援助与 [[Important Projects of Common European Interest|IPCEI]] 导致的治理碎片化与市场扭曲（pp. 13–14）。

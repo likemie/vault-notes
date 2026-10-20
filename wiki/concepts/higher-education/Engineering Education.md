@@ -310,7 +310,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三支柱“全谱系劳动力培育（Goal 3）”，系统规划 [[Advanced Technological Education|ATE]] 社区学院技术员认证、REU/RET 动手洁净室实训、微电子[[Co-Design|协同设计]]课程与 [[Natcast]] 劳动力卓越中心（WCoE）的顶层路径。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录了 1980 年代 [[National Science Foundation|NSF]] 通过[[Engineering Research Centers|工程研究中心]]（ERC）重构高等工程教育动手实践与跨学科系统设计[[Paradigm|范式]]的历史进程。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]维度系统剖析了工程教育在多约束权衡、原型设计迭代与数据决策中的独特[[Epistemology|认识论]]规程。

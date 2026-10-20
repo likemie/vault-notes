@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Hard Belief
@@ -149,5 +149,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 开启全书第二部，以硬信念的历史典范对比当代西方高校、政界与科技界的[[Soft Belief|软信念]]异化，系统阐发硬信念对[[Technological Republic|技术共和国]]的存续价值。

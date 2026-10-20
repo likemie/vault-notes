@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Regional Innovation System
@@ -204,7 +204,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 基于 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统提炼新产业形成、产业移植、产业多元化与既有升级四类产业转型路径，打破单一专利许可神话，构建大学与本地产业结构匹配模型。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合[[Industrial District|马歇尔工业区]]思想史考证，系统论述次国家下层区域（nether regions）如何通过地理邻近、面对面隐性流动与社会信任为[[National Innovation System|国家创新体系]]奠定微观底座。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统阐明[[Innovation Ecosystem|区域创新生态]]中网络失灵与能力失灵的诊断工具，论述大学在区域技术吸收与跨界协作中的催化作用。

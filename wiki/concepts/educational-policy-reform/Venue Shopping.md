@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Venue Shopping
@@ -149,7 +149,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统记录了 [[Common Core State Standards|CCSS]] [[Policy Entrepreneur|政策企业家]]如何绕开易引发违宪争议的联邦立法场所，转换至各州行政联合会（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与慈善资本场所实现政策突围的[[Process Tracing|过程追踪分析]]。
 
 ---

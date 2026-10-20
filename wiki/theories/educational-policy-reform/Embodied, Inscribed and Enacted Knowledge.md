@@ -180,5 +180,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，用三种知识形态追踪教育研究如何被选择、转译并铭写进常规督导的评估领域与质量审计的知识综述及最终报告，揭示证据本位治理对具身与践行知识的依赖（pp. 642–657）。

@@ -36,7 +36,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge Exchange]]"
-  - "[[Growth]]"
   - "[[Creativity]]"
   - "[[Flow]]"
   - "[[Rich and Thick Description]]"
@@ -70,9 +69,9 @@ title: "Argument_Zhang_2022_SE"
 argument_key: "Argument_Zhang_2022_SE"
 argument_display_title: "Epistemic agency for costructuring expansive knowledge‐building practices"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 29
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Science Education"
 book_title: ""
@@ -266,7 +265,7 @@ issuing_organization: ""
 > | **骨骼（Bones）** | 12 | 34 | 25.5 | 2015.10.09 – 2016.04.08 |
 > | **左右利手与 DNA（Righty, lefty, and DNA）** | 10 | 40 | 39.5 | 2015.10.09 – 2016.03.29 |
 > | **头发与皮肤（Hair and skin）** | 11 | 29 | 23.4 | 2015.10.09 – 2016.03.29 |
-> | **生长发育（[[Growth]]）** | 7 | 22 | 33.5 | 2015.11.20 – 2016.03.29 |
+> | **生长发育（Growth）** | 7 | 22 | 33.5 | 2015.11.20 – 2016.03.29 |
 > | **梦境（Dreams）** | 9 | 16 | 28.0 | 2016.01.19 – 2016.03.18 |
 > | **神经反射（Reflexes）** | 10 | 34 | 30.4 | 2015.10.09 – 2016.03.29 |
 > | **耳朵（Ears）** | 7 | 28 | 29.9 | 2016.01.12 – 2016.04.14 |

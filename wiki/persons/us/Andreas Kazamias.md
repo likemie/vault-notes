@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Andreas Kazamias
@@ -178,7 +178,7 @@ updated: 2026-10-17
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge\|知识地缘政治]]的反省。
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm\|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen(Ed.)_2009_Springer|Cowen & Kazamias (Eds.) (2009)]] — 共同主编比较教育手册，收录考恩与拉斯特的评价以及卡扎米亚斯关于[[Historical-Philosophical-Cultural Motif|历史哲学母题]]与[[Protean Episteme|普罗透斯式认识体系]]的奠基性论述。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与[[Disciplinary Institutionalization|学科制度化]]成就。
 

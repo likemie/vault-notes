@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -67,7 +67,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
-  - "[[Growth]]"
   - "[[Presence]]"
 related_methods:
   - "[[Case Study]]"
@@ -102,7 +101,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 status: draft
 created: 2026-07-11
-updated: 2026-10-16
+updated: 2026-10-20
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -659,7 +658,7 @@ Macpherson et al.（2000, pp. 57–58）提出了指导个案研究实践的原�
 > [!conclusion] Macpherson et al.（2000, pp. 57–58）的个案研究指导原则
 > - **关于目的（purpose）** 建议采取参与者与研究者之间的合作方法以处理情境性（contextuality）
 > - **关于地点（place）** 建议对地点的敏感性（类似[[Ecological Validity\|生态效度]]）
-> - **关于目的和过程（purpose and process）** 建议：真实性（authenticity），即目的适切性；适用性（applicability），即思考大但从小开始（thinking large but starting small）；成长（[[Growth]]），即确保发展和社会转变
+> - **关于目的和过程（purpose and process）** 建议：真实性（authenticity），即目的适切性；适用性（applicability），即思考大但从小开始（thinking large but starting small）；成长（growth），即确保发展和社会转变
 > - **关于产品（product）** 建议通过建立网络实现发现的可沟通性（communicability）（这也适用于目的和过程）
 
 Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须是：

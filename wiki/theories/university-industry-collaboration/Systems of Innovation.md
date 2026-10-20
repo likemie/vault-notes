@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 85
+theory_related_count: 84
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
-  - "[[Growth]]"
   - "[[Tacit Knowledge]]"
   - "[[University-Based Research Infrastructure]]"
   - "[[Second-Sourcing]]"
@@ -113,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Systems of Innovation
@@ -146,7 +145,7 @@ updated: 2026-10-16
 > [!dev-timeline] 理论演进与多维扩展脉络
 > - **1841/1995 — 历史渊源与思想史考据** 弗里曼将国家创新系统思想追溯至李斯特（Friedrich List, 1841），指出后发国家必须通过公共教育、技术培训与产业政策构建国家内生能力，而非单纯依赖自由贸易购买外部制成品；普鲁士在 19 世纪上半叶通过工艺学校、设备拆解与工匠引进完成技术超越，奠定了国家创新系统的历史原型。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **1870s/1995 — 企业研发建制化演进** 德国合成染料工业首创内部专职研发实验室，使技术发明从工匠个体摸索转变为企业常设职能，打通前沿科学与商业量产，奠定了现代创新系统的微观组织支柱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
-> - **1980s–1990s — 宏观[[Paradigm|范式]]奠基** 弗里曼（1987）、伦德瓦尔（1992）与纳尔逊（1993）系统成型[[National Innovation System|国家创新系统]]（NIS），彻底打破二战后[[Vannevar Bush|万尼瓦尔·布什]]确立的“科学促增长”（Science for [[Growth]]）线性范式，确立“[[Market Failure|市场失灵]]转向系统失灵”的政策哲学。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–30)]]
+> - **1980s–1990s — 宏观[[Paradigm|范式]]奠基** 弗里曼（1987）、伦德瓦尔（1992）与纳尔逊（1993）系统成型[[National Innovation System|国家创新系统]]（NIS），彻底打破二战后[[Vannevar Bush|万尼瓦尔·布什]]确立的“科学促增长”（Science for Growth）线性范式，确立“[[Market Failure|市场失灵]]转向系统失灵”的政策哲学。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–30)]]
 > - **1995 — 全球化辨析与母国锚固论** 弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》系统反驳[[Kenichi Ohmae|大前研一]]等学者宣称跨国公司让民族国家过时的神话，证实美日跨国企业核心研发逾九成扎根母国，阐明上层跨国贸易区域与下层产业集聚区域均依赖国家创新系统作为制度核心。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 > - **1990s–2000s — 多层级与部门维度拓展** 
 >   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
@@ -339,7 +338,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，确立创新系统的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。

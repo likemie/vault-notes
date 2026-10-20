@@ -52,7 +52,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Wolfgang Klafki
@@ -124,7 +124,7 @@ updated: 2026-10-18
 > - **政策路径** 在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 > - **跨国／跨领域传播** 其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究，影响了北欧基础教育的课程论面貌。1970 年代丹麦学者重读克拉夫基以批判威权灌输式教学，推进以学生为中心的改革教育学实验校建设。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 追溯芬兰 PhBL 的哲学根源，分析了 Klafki 的[[Epochal Key Problems|时代关键问题]]框架如何帮助跨学科课程在保持学科深度的同时抵抗技能原子化倾向。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读克拉夫基以批判威权注入式教学、推进以学生为中心的改革教育学实验的本土化经验。
 

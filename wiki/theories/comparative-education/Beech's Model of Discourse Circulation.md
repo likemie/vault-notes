@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Beech's Model of Discourse Circulation
@@ -206,7 +206,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 理论首倡之作，构建五位置流通模型，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows|流动空间]]与场所空间二分法运用于教育政策分析，追踪能力[[Discourse|话语]]在拉美国家和学校实践中的[[Floating Signifier|漂浮能指]]化过程。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 从学科史维度批判比较教育传统中将“借贷”视为中立善举的朴素自信，为话语流通批判提供历史反思参照。

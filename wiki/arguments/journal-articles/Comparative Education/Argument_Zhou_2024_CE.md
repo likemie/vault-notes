@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Praxis]]"
   - "[[Normal School]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -198,7 +197,7 @@ citation_aliases:
 > |---------------------|------------------|------------------------------|
 > | **适应社会进化之需要** | 教育应立足社会实际发展条件 | 被用作**废除旧学制**的理由，而非渐进过渡的工具。 |
 > | **发挥平民教育精神** | 民主教育（Democratic Education） | **第一重折扣（去政治化）** 中文选用平民（pingmin），将政治与生活维度的民主简化为普及教育/人人有书读。 |
-> | **谋个性之发展** | 个性与[[Growth\|成长]]（Individuality & Growth） | 删除了1921年草案中的自由选择（free choice）维度，将个性重构为服务社会的工具（doing）而非自我实现（being）。 |
+> | **谋个性之发展** | 个性与成长（Individuality & Growth） | 删除了1921年草案中的自由选择（free choice）维度，将个性重构为服务社会的工具（doing）而非自我实现（being）。 |
 > | **注意国民经济力** | 关注地方资源与经济承载力 | 实际推行中因财政极度匮乏而沦为纸上空文。 |
 > | **注意生活教育** | 教育即生活、学校即社会 | 促进了科目整合（如社会科），但实施中出现脱节。 |
 > | **使教育易于普及** | 普及教育与平等机会 | 与平民教育叠加，进一步强化了数量扩张取向。 |

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bounded Rationality
@@ -178,7 +178,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]] — 将西蒙有限理性理论引入教育学，论证复杂教学任务必然存在理性赤字，由此确立了教师依据实证[[Hypothesis|研究假设]]并在反馈中动态修正的“[[Professional Judgment|专业判断]]”合法性。
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引[[Bengt-Åke Lundvall|伦德瓦尔]]（Lundvall, 1993）关于不确定性、本地化学习与有限理性的微观假说，[[Falsification|证伪]]跨国公司抹平国家差异的全球化神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持制度多样性与试错空间中的决定性功能。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19]] — 在基于主体建模（[[Agent-based Modelling|ABM]]）与复杂系统仿真中，以有限理性主体为基本行动单位，模拟微观互动如何自下而上生成宏观复杂网络模式。

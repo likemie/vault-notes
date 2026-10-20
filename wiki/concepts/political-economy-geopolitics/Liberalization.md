@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Liberalization
@@ -199,6 +199,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。

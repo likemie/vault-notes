@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-11
+updated: 2026-10-20
 ---
 
 # Funding Exit Mechanism
@@ -129,5 +129,5 @@ updated: 2026-10-11
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 详尽解构了断乳退出机制作为 [[DARPA]] 项目经理五大微观非正式治理制度之一的运行机理。

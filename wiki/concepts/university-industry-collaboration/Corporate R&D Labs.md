@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Corporate R&D Labs
@@ -259,7 +259,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 基于全美 45 年 R&D 100 顶尖商业化创新获奖数据与早期技术开发（ESTD）资金流向计量分析，实证论证财富 500 强独立中央实验室研发占比从 55% 骤降至 7%，揭示现代[[National Innovation System|国家创新体系]]向公共财政托底的[[Developmental Network State|发展型网络国家]]转型的历史规律。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证企业内部中央研发实验室作为一项重大组织创新的制度发生学起源（1870 年代德国化学染料工业率先确立），论证其在沟通大学基础科研与工业[[Research Translation|技术转化]]中的核心功能。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理从企业中央研发实验室向开放创新与现代[[University-Industry Collaboration|产学合作]]网络演变的百年历史脉络，指出系统集成能力赤字。

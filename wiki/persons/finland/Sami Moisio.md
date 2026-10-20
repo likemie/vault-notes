@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Growth]]"
   - "[[Flow]]"
   - "[[Spatial Sortings]]"
   - "[[Further Education]]"
@@ -55,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 ## 简介
 
@@ -79,7 +78,7 @@ updated: 2026-10-16
 - Moisio, S. (2018). *Geopolitics of the [[Knowledge-Based Economy]]*. Routledge. — 系统提出[[Knowledge-Based Economization|知识经济化]]的地缘政治[[Analytic Framework|分析框架]]，论证知识密集型资本主义是一种历史偶然的地缘政治星座
 - Moisio, S., & Rossi, U. (2020). The start-up state: Governing urbanised capitalism. *Environment and Planning A: Economy and Space, 52*(3), 532–552. — 分析创业型国家和城市化资本主义的治理逻辑
 - Moisio, S. (2019). Re-thinking geoeconomics: Towards a political geography of economic geographies. *Geography Compass, 13*(10), e12466. — 重新理论化地缘经济学与政治地理学的关系
-- Moisio, S. (2018). Urbanizing the nation-state: Notes on the geopolitical [[Growth]] of cities and city-regions. *Urban Geography, 39*(9), 1421–1425. — 分析民族国家的城市化过程作为知识经济化的地缘政治维度
+- Moisio, S. (2018). Urbanizing the nation-state: Notes on the geopolitical growth of cities and city-regions. *Urban Geography, 39*(9), 1421–1425. — 分析民族国家的城市化过程作为知识经济化的地缘政治维度
 - Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 21–33). Springer. — 对知识经济化的地缘政治维度进行系统阐述，提出 hub and [[Flow]] 想象、[[Spatial Sortings|空间分选]]等分析概念
 - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 在同论文集中将 Moisio 的地缘经济学框架应用于[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的跨国化分析，论证企业教育的全球扩张既非纯粹的市场行为（地缘经济），也非纯粹的国家权力投射（地缘政治），而是两者边界正在融合的灰色地带([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180–182, 193–196]])。详见 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 第六步
 

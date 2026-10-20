@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Assured Demand
@@ -208,7 +208,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统实证确立确定性需求在战后半导体与计算机产业中释放 20%–30% [[Learning Economy|学习经济]]效应并拉动商用市场自发扩散的核心机制。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国国防采购如何充当创新奖金与确定性先导用户，降低新创企业准入门槛并催生商用通用市场。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 将确定性公共采购确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]塑造与创造全新市场的核心支柱。

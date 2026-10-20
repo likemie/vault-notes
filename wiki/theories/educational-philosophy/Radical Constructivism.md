@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Radical Constructivism
@@ -193,7 +193,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展系统哲学审视，深入分析激进[[Constructivist Paradigm|建构主义]]在教学、知识与反馈维度上的理论局限。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 对可见学习的底层实证研究与理论预设开展批判性检视，就[[John Hattie|哈蒂]]是否属于激进建构主义与罗默展开理论论战。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 梳理国际学界对可见学习的多元批评脉络，记录关于激进建构主义[[Paradigm|范式]]与教学双重崩溃的争鸣。

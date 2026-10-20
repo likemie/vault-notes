@@ -1,8 +1,7 @@
 ---
-title: Growth
+title: Education as Growth
 aliases:
   - 生长
-  - 成长
   - 教育即生长
   - deweyan growth
   - self-realization

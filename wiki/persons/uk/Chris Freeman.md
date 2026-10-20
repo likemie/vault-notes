@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Chris Freeman
@@ -146,7 +146,7 @@ updated: 2026-10-16
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（OECD）、[[EU|欧盟]]委员会及多国工业与科技政策，推动政策界从被动弥补“[[Market Failure|市场失灵]]”转向设计系统性国家创新战略与教育配套。
 > - **跨国传播** 在东亚（日本、韩国）与拉美发展经济学界引发深远反响，成为解释东亚工业跃迁与拉美中等收入陷阱制度分化的核心理论工具。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从历史演进与思想史视角系统论证国家创新系统的不可替代性，跨国对比德、日、苏、东亚与拉美创新绩效。
 
 ---

@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Virtual University
@@ -168,5 +168,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 探讨[[Time-Space Compression|时空压缩]]背景下虚拟大学与跨国特许经营协议的兴起，反思其对民族国家文化认同与大学传统民主公共职能的深层侵蚀。

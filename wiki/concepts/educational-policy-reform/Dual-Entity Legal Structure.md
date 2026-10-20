@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Dual-Entity Legal Structure
@@ -182,5 +182,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰 6,059 家教育慈善实体与典型双层法人[[Educational Management Organisation|教育管理组织]]，揭示慈善信托全资控股商业子公司的避税与资本积累机制。

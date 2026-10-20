@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Technological Catch-up
@@ -153,5 +153,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合德、日、苏、韩、拉美等长周期历史案例，系统构建了以[[National Innovation System|国家创新系统]]为核心的技术赶超解释体系。

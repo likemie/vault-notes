@@ -160,5 +160,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中系统阐明如何依托材料基因组计划构建的材料创新基础设施（MII），加速突破宽禁带、超宽禁带与二维等后摩尔时代关键半导体材料（pp. 14, 21）。

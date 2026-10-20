@@ -155,7 +155,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research Translation
@@ -511,7 +511,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构，揭示中试共置（[[Albany NanoTech Complex|Albany NanoTech]]/MIT.nano）与“教育即标准”开源生态作为深科技研究转化的新型制度机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 溯源[[Technological Republic|技术共和国]]中“国家作为首要买家”的转化模式，批判公共部门防卫型采购阻滞与硅谷消费主义文化撤退，提出重塑国家安全前沿转化通道。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统构建美国硬科技研究转化新[[Paradigm|范式]]，揭示单纯论文卓越无法维系技术领导地位，提出打破规制阻滞、恢复[[Permissionless Innovation|无许可创新]]、开放联邦共享试验场与国家实验室[[Big Science|大科学]]设施、组建前竞争技术联合体，将科研突破锚定于本土先进制造能力。

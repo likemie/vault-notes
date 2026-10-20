@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Pull Mechanisms for Innovation
@@ -150,6 +150,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，系统阐发拉动机制的机制设计原理、资金杠杆效应、破译案例及[[Advance Market Commitments|高级市场承诺]]，主张将其作为 2028 财年联邦资助组合的重要支柱。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 论证在任务导向型科研机构中以公共效用为准绳重塑评价体系与资助工具。

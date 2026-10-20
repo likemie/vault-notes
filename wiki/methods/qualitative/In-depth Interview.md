@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 66
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Champ]]"
   - "[[Central Question]]"
-  - "[[Growth]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Reliability]]"
@@ -91,7 +90,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # In-depth Interview
@@ -164,7 +163,7 @@ updated: 2026-10-19
 >
 > | 阶段 | 聚焦范围 | 核心内容 |
 > |------|---------|---------|
-> | 开场 | 个人生活史（最宽） | [[Growth|成长]]经历、家庭背景、产生过重大影响的人和事 |
+> | 开场 | 个人生活史（最宽） | 成长经历、家庭背景、产生过重大影响的人和事 |
 > | 中段 | 与[[Research Topic|研究主题]]相关的过程（收窄） | 与[[Research Question|研究问题]]直接相关的经历、决策和意义感变化 |
 > | 收尾 | 核心问题（最聚焦） | 对关键选择的解释、矛盾与张力的深入探讨 |
 >

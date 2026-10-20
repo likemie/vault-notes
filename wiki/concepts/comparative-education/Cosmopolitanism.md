@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cosmopolitanism
@@ -179,5 +179,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章剖析努斯鲍姆与桑内特的世界主义观点，论证抽空国家认同对技术协作与国家防卫意志的深层破坏，阐述[[Technological Republic|技术共和国]]在[[Hard Power|硬实力]]、国家叙事与全球地缘博弈中的战略重构路径。

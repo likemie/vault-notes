@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Tilting the Playing Field]]"
   - "[[Market Failure]]"
-  - "[[Growth]]"
   - "[[Public Value]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Securitization of Technology]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Directionality of Innovation
@@ -91,7 +90,7 @@ updated: 2026-10-16
 > [!citation-card] 经济增长的速率与方向
 > 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求特定增长类型的雄心本身即表明，经济增长不仅具有速率，更具有方向，因而存在多种替代性方向。然而，实现这一雄心勃勃的目标需要重新思考政府与公共政策在经济中的角色，以及与政策本身同样具备动态性与探索性的组织形态。在根本上，这需要一种超越单纯修补[[Market Failure|市场失灵]]的政府干预新正当性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 787)]]
 >
-> *Countries around the world are seeking to [[Achieve]] economic [[Growth]] that is smart (innovation-led), inclusive, and sustainable. This ambition to achieve a particular type of economic growth... is a direct admission that economic growth has not only a rate but also a direction and, thus, can have multiple alternative directions. However, such ambitious goals require rethinking the role of government and public policy in the economy, and the associated organizational forms that can be as dynamic and explorative as the policies themselves.*
+> *Countries around the world are seeking to [[Achieve]] economic growth that is smart (innovation-led), inclusive, and sustainable. This ambition to achieve a particular type of economic growth... is a direct admission that economic growth has not only a rate but also a direction and, thus, can have multiple alternative directions. However, such ambitious goals require rethinking the role of government and public policy in the economy, and the associated organizational forms that can be as dynamic and explorative as the policies themselves.*
 
 > [!boundary]- 概念边界
 > - **不等于 静态技术预测或单一技术路线锁定** 方向性设定的是宏观社会使命与国家战略挑战边界（如碳中和、半导体供应链韧性），在具体实现路径上鼓励多元[[Technological Trajectories|技术轨道]]并行试错。
@@ -258,7 +257,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 奠定创新的方向性理论基石，系统论证经济增长的速率与方向之别，提出克服方向性失灵、[[Market Shaping and Creating|市场塑造]]与[[Public Dynamic Capabilities|公共部门动态能力]]框架。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析美国国家半导体体系中[[Research Universities|研究型大学]]的角色重构，阐明国家[[Securitization of Technology|技术安全化]]如何作为最高方向性使命重塑大学基础研究、人才培养与产学中试共置网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 论证美国科技政策从自由探索科学契约向技术导向型契约的转变，揭示国家战略方向性动员下科研体系向国家实验室、公私联合体与大学自由探索三轨分化的深层机制。

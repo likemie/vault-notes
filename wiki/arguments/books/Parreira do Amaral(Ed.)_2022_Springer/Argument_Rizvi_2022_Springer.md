@@ -9,9 +9,9 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 40
-argument_related_level: 4
-argument_related_stars: "💎⭐"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Cham: Springer."
@@ -33,7 +33,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
-  - "[[Growth]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[International Schools]]"
   - "[[Public Value]]"
@@ -74,7 +73,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -209,7 +208,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 
 **关键质疑(Pieterse, 2018)** 增长的数量不等于质量。“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
 > (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
-> ("Asia is rising but Asian wellbeing is not. The quality and quantity of [[Growth]] are out of synch."))——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上(p.93)。
+> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上(p.93)。
 
 > Rizvi 先摆出"亚洲崛起"的数据，然后用 Pieterse 的质疑来复杂化：增长数量不等于质量。这个质疑为后面的论证埋下伏笔——正是因为增长质量存疑，亚洲中产阶级才会把西方教育当作"保险"和"地位投资"。
 

@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Goldfish Bowl Politics
@@ -128,5 +128,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借金鱼缸政治批判当代公共领域对真实的微小信念与思想锋芒的残酷扼杀，揭示其如何造就了[[Grandes Ecoles|大学校]]长与科技巨头中普遍存在的平庸与虚无。

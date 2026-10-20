@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Confidence Interval
@@ -252,7 +252,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011)]] — 系统阐释置信区间与置信水平在[[Random Sampling|概率抽样]][[Sample Size Determination|样本量]]设计中的数理逻辑，剖析 384 例天花板与民调 1067 例样本容量的置信半宽推导（Ch. 8, pp. 146–148）。
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 借助置信区间分析批判点估计排名的虚假精确性，对比 [[PISA]] 误差区间论证无 CI 的干预排序在统计上不可区分（pp. 47–48）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 在[[Meta-meta-analysis|二级元分析]]规范中推导跨层[[Inverse-Variance Weighting|逆方差加权]]下的联合置信区间公式，系统批判 Hattie 隐匿置信区间与文献重叠导致虚假狭窄区间的致命统计缺陷（pp. 25, 29–30）。

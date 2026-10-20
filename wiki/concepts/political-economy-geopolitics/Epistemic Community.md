@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Epistemic Community
@@ -177,6 +177,6 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 PISA 与 AHELO 试题研发早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。

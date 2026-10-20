@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威在《经验与教育》中提出的阻碍性经验概念。反教育经验是指具有截断、停滞或扭曲未来经验生长品质效果的经验，如死记硬背或机械操练，导致学习者产生理智麻木、厌恶或求知敏感度丧失。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Educative Experience]]"
   - "[[Rote Learning]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Reflective Thinking]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Mis-educative Experience（反教育经验）
@@ -56,7 +55,7 @@ updated: 2026-10-16
 > [!citation-card]- 关键表述
 > 凡是具有阻碍或扭曲未来经验生长效果的经验，都是反教育经验。例如，某些操练可能使学生获得某种特定技能，但却损害了其理智敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 >
-> *Any experience is mis-educative that has the effect of arresting or distorting the [[Growth]] of further experience. (Dewey, 1963, p. 25)*
+> *Any experience is mis-educative that has the effect of arresting or distorting the growth of further experience. (Dewey, 1963, p. 25)*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Educative Experience\|教育性经验]] — 后者开启并促进未来的持续生长。
@@ -69,7 +68,7 @@ updated: 2026-10-16
 > [!contrast-table] 概念辨析
 > | 维度 | 反教育经验（Mis-educative） | [[Educative Experience\|教育性经验（Educative）]] |
 > |------|--------------------------------------|-----------------------------------|
-> | **分析对象** | 阻碍或截断[[Growth\|生长]]的经验品质 | 促进持续生长的经验品质 |
+> | **分析对象** | 阻碍或截断[[Education as Growth\|生长]]的经验品质 | 促进持续生长的经验品质 |
 > | **典型教学手段** | 强迫灌输、脱离语境的对象课、身体镇压 | 手脑并用、真实生态探究、面对面[[Dialogue in Education\|对话]] |
 > | **对心智的影响** | 造成理智麻木、依赖机械公式与标准答案 | 激发[[Reflective Thinking\|反思性思维]]与自主掌控 |
 
@@ -78,7 +77,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **生长的截断性（Arresting [[Growth]]）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
+> - **生长的截断性（Arresting Growth）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 > - **获取原则的恶性循环（Principle of Acquisition）** 自上而下的灌输无法引发内在难题，只能通过镇压身体活动维持秩序。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]
 > - **讲述病（[[Narration Sickness]]）** 符号与事实脱离现实语境，导致知识与生活的撕裂。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 44)]]
 

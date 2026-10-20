@@ -181,7 +181,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Randomised Controlled Trials
@@ -427,7 +427,7 @@ updated: 2026-10-19
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 结合课堂严格 RCT 证实探究教学的概念优势，并为复杂教育情境中涵盖多元组件的项目式 RCT 生态效度提供方法学辩护。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 考证美国联邦立法初期对 RCT 的强烈制度偏好，论述学术共同体如何依托 NRC 六大原则打破单一实验垄断，确立问题适配观。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关性研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判二阶元分析将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如班级规模缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在就业留任与晋升（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。

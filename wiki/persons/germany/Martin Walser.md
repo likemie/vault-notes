@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Martin Walser
@@ -101,7 +101,7 @@ updated: 2026-10-09
 > - **当代德国记忆文化与知识分子论战** 打破了战后德国知识界在赎罪问题上的禁忌语态，开启了关于德国历史记忆“正常化”（Normalisierung）的长期学术论辩。
 > - **地缘政治与欧洲防卫能力反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，战后德国对国家认同与爱国[[Pride in Learning|自豪]]感的彻底压抑，直接导致了当代欧洲在面对外部地缘扩张时缺乏可信的常规防务威慑意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 借由瓦尔泽演说分析战后德国国家认同重建困境及其对欧洲整体[[Hard Power|硬实力]]威慑的深远削弱。
 
 ---

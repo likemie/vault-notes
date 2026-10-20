@@ -115,7 +115,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Network Governance
@@ -373,7 +373,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合荷兰高等教育从中央微观规制向间接[[Steering at a Distance|远距离操纵]]的转型经验，深入阐述多重理性[[Policy Network|政策网络]]的自组织协调机制与制度边界。

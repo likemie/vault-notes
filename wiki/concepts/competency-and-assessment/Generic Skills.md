@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Generic Skills
@@ -183,6 +183,6 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 深度解构 [[OECD AHELO Project|AHELO]] 项目中通用技能模块的研制困境，揭示[[Hard Policy Transfer|硬政策转移]]导致的文化水土不服与超国家[[Space of Equivalence|等值空间]]建构。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评析[[OECD|经合组织]]国家高等教育中以[[Critical Thinking|批判性思维]]为核心的通用[[Higher-Order Thinking Skills|高阶思维]]评价工具谱系，揭示大规模通用统考的动机危机与校本嵌入转向。

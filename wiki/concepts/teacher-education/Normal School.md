@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Borrowing]]"
-  - "[[Growth]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Normal School
@@ -199,7 +198,7 @@ updated: 2026-10-19
 > |---|---|---|---|
 > | **国家主权与公学先决条件命题** | 师范学校是现代世俗国家行使教育主权、统一公学规程与保障师资合格率的不可替代之基础设施 | 19 世纪欧洲大陆现代民族国家初等公学法案设计与师资准入 | Cousin (Brewer, 1971); Guizot (1833); Jullien (Fraser, 1964); Knight (1930) |
 > | **跨国转译与政治合法化命题** | 师范学校在跨国转移中经历功能重构，被用作本土立法动员、抵抗保守阻力与构建新兴民主/后殖民国家认同的武器 | 19 世纪跨大西洋[[Policy Borrowing\|教育借用]]、北美[[Common School Movement\|公学运动]]以及拉美教育现代化建制 | Mann (Downs, 1974); Stowe (1837); [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]]; Sarmiento |
-> | **知识半衰期与二阶中介动员命题** | 职前师范知识存在时效边界与应用负荷，需借助二阶中介机构向教师教育者骨干辐射以贯通全生命周期专业[[Growth\|成长]] | 现代三阶段教师教育（大学阶段、见习期、在职进修）与循证[[Knowledge Mobilisation\|知识动员]]体系 | [[Argument_Besa_2024_UW\|Besa (2024)]]; [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]]; Rochnia and Trempler (2019) |
+> | **知识半衰期与二阶中介动员命题** | 职前师范知识存在时效边界与应用负荷，需借助二阶中介机构向教师教育者骨干辐射以贯通全生命周期专业成长 | 现代三阶段教师教育（大学阶段、见习期、在职进修）与循证[[Knowledge Mobilisation\|知识动员]]体系 | [[Argument_Besa_2024_UW\|Besa (2024)]]; [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]]; Rochnia and Trempler (2019) |
 
 ---
 

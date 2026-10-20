@@ -48,7 +48,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Academic Help-Seeking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Growth]]"
   - "[[Feedback]]"
   - "[[Presence]]"
   - "[[Self-Efficacy]]"
@@ -82,14 +81,14 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 50
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -314,7 +313,7 @@ issuing_organization: ""
 > [!citation-card] 人机共享[[Epistemic Agency\|认识能动性]]与智力共同生长
 > 人类与[[Generative Artificial Intelligence\|生成式人工智能]]之间的共享认识能动性为双方的智力共同生长创造了契机。为了充分发挥这一潜力，学习者必须采纳自适应[[Epistemic Stances\|认识立场]]——即能够根据情境脉络、新信息与即时反馈动态演进的思维与知识互动方式。（p. 366）
 >
-> *This shared epistemic agency between humans and GenAI [[CREATES Project\|CREATES]] opportunities for mutual intellectual [[Growth]]. To fully leverage this potential, learners must adopt an adaptive epistemic stance—ways of thinking about and engaging with knowledge that can evolve based on contextual scenarios, new information, and situational [[Feedback]]—for effective interaction with GenAI.*
+> *This shared epistemic agency between humans and GenAI [[CREATES Project\|CREATES]] opportunities for mutual intellectual growth. To fully leverage this potential, learners must adopt an adaptive epistemic stance—ways of thinking about and engaging with knowledge that can evolve based on contextual scenarios, new information, and situational [[Feedback]]—for effective interaction with GenAI.*
 
 > [!citation-card] [[Scaffolding\|教学支架]]对认识立场重塑的决定性作用
 > 单纯频繁使用生成式人工智能对学习者认识立场的影响，高度取决于是否存在适宜的教学支架与反思机制。尽管生成式人工智能本身不会直接改变学习者的认识立场，但频繁交互、教学支架与学习者反思的结合，能够推动其认识立场的逐步演进。（pp. 364–366）

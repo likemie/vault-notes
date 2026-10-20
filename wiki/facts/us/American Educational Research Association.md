@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # American Educational Research Association
@@ -142,6 +142,6 @@ updated: 2026-10-16
 
 ## 相关论证
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]与论证索引
+> [!evidence-grid-a] 相关研究与论证索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 详述 AERA 的组织制度沿革、国会政策研究员机制以及学术社团在联邦教育[[Policy Network|政策网络]]中的[[Educational Brokerage Agency|知识经纪]]角色（pp. 46–47）。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 系统阐明 AERA 会刊《教育研究者》（ER）如何成为[[Scientifically Based Research|科学本位研究]]大争鸣的核心阵地，论证学术社团依托专业声誉与民主审议成功抵御了联邦法案对教育科研方法的单一窄化（pp. 31–37）。

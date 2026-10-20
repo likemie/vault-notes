@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Teach Classroom Observation Tool
@@ -295,5 +295,5 @@ Teach 建立了标准化的实地观察规程与严格的观察员考核门槛�
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 针对中低收入国家研制开源标准化[[Classroom Observation|课堂观察]]工具 Teach，确立双轨观察与认证规程并证实学业[[Predictive Validity|预测效度]]。

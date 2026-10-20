@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Development Education
@@ -284,7 +284,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角系统反思多边银行发展教育实务，揭示贷款资金的杠杆本质、组织学习在设计与执行端的双重断裂，以及拨付考核导致的投入导向异化（pp. 455–476）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从[[UNESCO|教科文组织]]人文主义合作到[[World Bank|世界银行]]以[[Knowledge Bank|知识银行]]和资本技术统领发展教育的历史进程（pp. 541–545）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考察[[Comparative and International Education Society|比较与国际教育学会]]（CIES）中发展教育[[Paradigm|研究范式]]的演变，并实证检验全球化结构调整对第三世界基础[[Performance Indicators|教育指标]]的消极影响（pp. 125–127, 134）。

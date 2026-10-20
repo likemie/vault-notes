@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 62
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Grand Challenges]]"
   - "[[Open-Mindedness]]"
-  - "[[Growth]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[Competitiveness]]"
@@ -92,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Mission-Oriented Innovation Policy
@@ -117,7 +116,7 @@ updated: 2026-10-17
 > [!citation-card] 经济增长的方向性与“引领与学习”范式
 > 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求表明经济增长不仅具有速率，更具有方向。应对21世纪的[[Grand Challenges|重大挑战]]，创新政策必须从既有的“支持与衡量”方法（寻找市场失灵、用扶持工具修补并衡量其影响）转向“引领与学习”方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787, 797–798)]]
 >
-> *Economic [[Growth]] has not only a rate but also a direction... To tackle the grand challenges of the 21st century, innovation policy needs to shift from the existing support-and-measure approach to innovation policy to [[Lead-and-Learn Paradigm|lead-and-learn approach]].*
+> *Economic growth has not only a rate but also a direction... To tackle the grand challenges of the 21st century, innovation policy needs to shift from the existing support-and-measure approach to innovation policy to [[Lead-and-Learn Paradigm|lead-and-learn approach]].*
 
 > [!boundary]- 概念边界
 > - **不等于 传统研发与国家[[Systems of Innovation|创新系统]]政策** 传统政策侧重于支持科技供给与修正市场或网络失灵，缺乏对创新价值导向与社会优先级的明确规定。
@@ -309,7 +308,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统梳理使命导向政策的百年三代演进历程，提出融合[[Joseph Schumpeter|熊彼特]]动态能力与韦伯国家能力的三层动态能力构架，确立从“支持与衡量”向[[Lead-and-Learn Paradigm|引领与学习范式]]的转型路径。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论文献，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。

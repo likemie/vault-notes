@@ -8,7 +8,7 @@ summary: "美国著名宏观经济学家、西北大学讲席教授，以《美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - field/productivity
 related_concepts:
   - "[[Total Factor Productivity]]"
-  - "[[Growth]]"
   - "[[Consumer Internet]]"
   - "[[Paradigm]]"
   - "[[Big Idea Famine]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Robert J. Gordon
@@ -81,7 +80,7 @@ updated: 2026-10-15
 >   - **关键概念** 计算机生产率悖论、短期资本深化与周期性反弹。
 >   - **阶段转向** 指出 IT 繁荣仅为短暂反弹，未能改变实体经济深层减速趋势。
 > - **2010年代至今 — 百年增长全景重构与狭窄化假说** 系统提出“特殊世纪（1870–1970）不可复制”命题。
->   - **代表著作** *The [[Research in Schools Evaluation|RISE]] and Fall of American [[Growth]]* (2016)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]]
+>   - **代表著作** *The [[Research in Schools Evaluation|RISE]] and Fall of American Growth* (2016)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]]
 >   - **关键概念** 创新领域狭窄化、基础生活维度技术停滞、逆风因素（Headwinds）。
 
 ---
@@ -154,7 +153,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引戈登关于 1970 年后[[Total Factor Productivity|全要素生产率]]断崖式下滑与创新狭窄化的经典实证研究，论证克服[[Big Idea Famine|大构想饥荒]]与重振实体工程雄心的极端紧迫性。
 
 

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sage
@@ -265,7 +265,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **文化学习信念与圣人人格传统** [[Argument_Li_2012_Cambridge|Li (2012)]] 系统剖析儒家传统中圣人作为最高德性追求的[[Epistemology|认识论]]演进及其对东亚学习心理的深远影响。
 > - **五四现代性转型中的圣人重构** [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 探讨蔡元培等学者如何在跨文化交流中将[[John Dewey|杜威]]重塑为象征民主与科学的“现代圣人”。
 > - **公共治理中的圣人假设与制度激励反思** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] 批判西方与传统治理中将公职人员预设为圣人或神职人员的虚伪禁欲主义，论证以权责对称薪酬构建[[Technological Republic|技术共和国]]的制度必要性。

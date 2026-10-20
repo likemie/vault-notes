@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Statistical Process Control
@@ -208,6 +208,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 推动半导体制造全产业链采用 SPC 工具进行设备中试验证与[[Reliability|可靠性]]（MTBF）提升。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 借助加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目微观标杆数据，实证论证美企通过 SPC 与 [[Total Quality Management|TQM]] 将缺陷率压降至 100 PPM 以下并在先进逻辑制程中实现良率追赶。

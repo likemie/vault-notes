@@ -34,7 +34,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Von Neumann Architecture]]"
   - "[[Greenfield vs Brownfield Innovation]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
@@ -64,14 +63,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -378,7 +377,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!citation-card] 广义创新政策与反垄断规制对新兴企业进入的深远塑造
 > 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。（pp.160–161）
 >
-> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and [[Growth]] of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants...*
+> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and growth of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants...*
 
 > [!citation-card] 用户[[Co-invention|共同发明]]在[[General Purpose Technology|通用技术]]扩散中的中介与加速功能
 > 正如布雷斯纳汉与格林斯坦（1996）所指出的，信息技术领域的绝大部分创新过程都包含着技术用户与技术供应商共同参与的共同发明。这种共同发明的重要性意味着，某一新技术的规模化部署能够激发更多由用户驱动的试验，进而加速该技术的精细化、创新与改进。美国套装软件产业的历史清晰地表明了规模的优势，而在能源等其他部门的大型技术基础设施或小型分布式技术试验中，同样蕴藏着类似的优势。（p.185）

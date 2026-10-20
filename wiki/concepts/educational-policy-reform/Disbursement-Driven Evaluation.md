@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Disbursement-Driven Evaluation
@@ -137,6 +137,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 结合在两大多边银行的高阶任职与贷款组合追踪，首次系统概念化了多边教育信贷中“以拨付为唯一硬考核”与“以投入测量替代结果测量”的组织病理学机制（pp. 470–472, 475）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 考察当代全球教育多边治理中从“简单资金拨付”向“[[Learning Data Compact|学习数据契约]]”与量化指标问责转型的历史阵痛与指标博弈（pp. 541–545）。

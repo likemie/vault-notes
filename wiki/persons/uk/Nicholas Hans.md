@@ -76,7 +76,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Nicholas Hans
@@ -209,7 +209,7 @@ updated: 2026-10-17
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method\|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革[[Discourse|话语]]，推动民主公民教育理念的跨国传播。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐述汉斯作为比较教育第二代历史-哲学学派代表，把比较教育界定为广义教育科学与人文学科（*[[Geisteswissenschaften]]*），主张结合历史与社会科学推动教育改良。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。

@@ -9,7 +9,7 @@ summary: "台湾师范大学讲座教授、学习科学与教育技术领域国�
 type: person
 nationality: taiwan
 person_region: "taiwan"
-person_related_count: 32
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Growth]]"
   - "[[Metacognition]]"
   - "[[Learning Analytics]]"
   - "[[Inquiry-Based Learning]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Chin-Chung Tsai
@@ -79,7 +78,7 @@ updated: 2026-10-16
 > [!citation-card] [[Man-Computer Symbiosis|人机共生]]学习环境中的认识调适定位
 > 在人工智能中介的学习环境中，学习者并非单向接受机器输出，而是通过动态调适认识立场与交互策略，与智能系统建立共享的[[Epistemic Agency\|认识能动性]]，实现双向的智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 360)]]
 >
-> *This shared epistemic agency between humans and [[Generative Artificial Intelligence\|GenAI]] [[CREATES Project\|CREATES]] opportunities for mutual intellectual [[Growth]]. To fully leverage this potential, learners must adopt an adaptive epistemic stance.*
+> *This shared epistemic agency between humans and [[Generative Artificial Intelligence\|GenAI]] [[CREATES Project\|CREATES]] opportunities for mutual intellectual growth. To fully leverage this potential, learners must adopt an adaptive epistemic stance.*
 
 ---
 

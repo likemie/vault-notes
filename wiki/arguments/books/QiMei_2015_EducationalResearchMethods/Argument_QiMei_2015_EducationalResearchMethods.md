@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 129
+argument_related_count: 128
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
-  - "[[Growth]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Attrition]]"
   - "[[Interaction Effect]]"
@@ -167,7 +166,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # 教育研究方法
 
@@ -254,7 +253,7 @@ updated: 2026-10-16
 > | 人工检索 | 以人工方式从图书、期刊、摘要、杂志、学报等逐册检查，或从参考书目寻找初级文献。 |
 > | 网上检索 | 利用图书馆购买的光碟或数据库进行在线检索，可迅速找到相关文献。 |
 
-文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的[[Correlational Research|相关研究]]成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议。
+文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议。
 
 > [!seq-table] 文献综述的三项核心作用
 > | 作用 | 说明 |
@@ -480,7 +479,7 @@ updated: 2026-10-16
 > [!contrast-table] 描述观察的三种方法
 > | 维度 | 日记描述法 | 轶事记录法 | 连续记录法 |
 > |---|---|---|---|
-> | 记录方式 | 长期追踪，以日记形式记录个体[[Growth\|成长]]变化 | 着重记录某种有价值的行为，可随时记录 | 较长时间内持续不断地详细记录 |
+> | 记录方式 | 长期追踪，以日记形式记录个体成长变化 | 着重记录某种有价值的行为，可随时记录 | 较长时间内持续不断地详细记录 |
 > | 主题限制 | 有固定对象，长期跟踪 | 可有主题也可无主题，不受条件限制 | 针对特定活动或事件进行连续追踪 |
 > | 编码要求 | 不需事先编码分类 | 不需事先编码分类 | 涉及对象较多时配合符号或代码记录 |
 > | 示例 | [[Jean Piaget\|皮亚杰]]以自己三个孩子为观察对象，出版《儿童智力的起源》等三本著作 | 三岁幼儿推理：将"洪水"理解为"西瓜里流出来的汤"，展现归纳、演绎和类比推理 | 记录乡村教师一天工作；持续一周记录幼儿入园后半小时的行为和情绪状态 |

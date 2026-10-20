@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Feedback Intervention Theory
@@ -222,6 +222,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 深度审查哈蒂对克鲁格与德尼西（1996）[[Meta-analysis|元分析]]的剪裁与遮蔽，以 FIT [[Falsification|证伪]]反馈普适强效神话（pp. 10–12）。
 > - [[Feedback]] — 将 FIT 的三层级注意力控制模型作为界定教学反馈边界与防范负效应的核心理论支柱。

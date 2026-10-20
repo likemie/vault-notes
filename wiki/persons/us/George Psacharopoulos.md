@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Policy Brokerage]]"
-  - "[[Growth]]"
   - "[[Causality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Scientific Method]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # George Psacharopoulos
@@ -120,7 +119,7 @@ updated: 2026-10-16
 > [!citation-card] 施泰纳-哈姆西等论[[World Bank\|世界银行]]应用研究帝国的缔造
 > 针对教育对经济增长[[Return on Investment\|投资回报]]率的无数次实证分析，恰恰生动说明了世界银行在长时期内构建起来的应用政策研究帝国。在对 60 年教育投资回报率研究的综述中，萨卡罗普洛斯与帕特里诺斯（Psacharopoulos & Patrinos, 2018）依托了一个涵盖 139 个国家、包含 1,120 项回报率估算的世界银行数据库。……世界银行正是以此深耕自身专属的[[Policy Brokerage\|政策中介]]利基，并赞美其相较于其他国际组织所具备的比较优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 >
-> *The myriad of analyses of the rates of return of education to economic [[Growth]] is a case in point to illustrate the applied policy research empire that the World Bank built over a long period. In their overview of 60 years of research on returns on investment in education, Psacharopoulos and Patrinos (2018) drew on a World Bank database with 1,120 rate-of-return estimates in 139 countries. ... Thus, the IOs carved their niche for policy brokerage over time to demarcate their territory and extol their comparative advantage vis-à-vis other IOs.*
+> *The myriad of analyses of the rates of return of education to economic growth is a case in point to illustrate the applied policy research empire that the World Bank built over a long period. In their overview of 60 years of research on returns on investment in education, Psacharopoulos and Patrinos (2018) drew on a World Bank database with 1,120 rate-of-return estimates in 139 countries. ... Thus, the IOs carved their niche for policy brokerage over time to demarcate their territory and extol their comparative advantage vis-à-vis other IOs.*
 
 ---
 

@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Market Triumphalism
@@ -120,5 +120,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 借助[[Michael Sandel|桑德尔]]的市场必胜论理论，深刻剖析硅谷向[[Consumer Internet|消费互联网]]退缩与关键公共部门陷入[[Innovation Desert|创新荒漠]]的深层意识形态根源。

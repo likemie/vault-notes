@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Time Sampling
@@ -171,5 +171,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立基于 1–10 秒瞬时定格快照的时间抽样技术，用于量化发展中国家小学课堂[[Time on Task|任务在轨时间]]与教师教学供给。

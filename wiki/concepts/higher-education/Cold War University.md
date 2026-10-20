@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cold War University
@@ -202,6 +202,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 历史制度分析战后五十年美国国防研发投资与采购政策，实证揭示斯坦福与 MIT 等顶尖大学如何依托国防经费构建科研基础设施，在培育计算机学科与[[ARPANET|阿帕网]]节点的同时成为军民双向技术扩散的核心枢纽。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 考证战后美国大学计算机设备采购中联邦资金占比高达 66%，印证战后大学[[Disciplinary Institutionalization|学科建制化]]与信息产业人才供给深受国防与联邦科技政策的制度塑造。

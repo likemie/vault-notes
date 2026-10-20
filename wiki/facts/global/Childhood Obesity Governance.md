@@ -33,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Childhood Obesity Governance
@@ -117,5 +117,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将儿童肥胖治理作为社会问题共识高度明确但解决方案存在激烈博弈的典型经验案例进行理论解构。

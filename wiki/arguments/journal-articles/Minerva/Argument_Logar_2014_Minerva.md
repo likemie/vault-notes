@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Pilot Scale Platform]]"
   - "[[General Purpose Technology]]"
-  - "[[Growth]]"
   - "[[External Validity]]"
   - "[[Knowledge Transfer]]"
 related_theories:
@@ -306,7 +305,7 @@ tags:
 > [!citation-card] 2005 年国家技术奖章对 SRC 组织创新的历史定性
 > 表彰其建立了世界上规模最大、最成功的大学研究队伍以支持半导体产业的快速增长与演进；证明了作为首个高技术研究联合体的协作科研构想；并开创了后来演进为国际半导体技术路线图的理念与方法论。（p. 243）
 >
-> *"For building the world’s largest and most successful university research force to support the rapid [[Growth]] and advance of the semiconductor industry; for proving the concept of collaborative research as the first high-tech research consortium; and for creating the concept and methodology that evolved into the International Technology Roadmap for Semiconductors."*
+> *"For building the world’s largest and most successful university research force to support the rapid growth and advance of the semiconductor industry; for proving the concept of collaborative research as the first high-tech research consortium; and for creating the concept and methodology that evolved into the International Technology Roadmap for Semiconductors."*
 
 > [!citation-card] 强化公共科研机构用户问责机制的政策启示
 > 在联邦国家实验室中，建立对用户群体的问责机制与沟通渠道是一项必然要求……尽管正式决策权必须始终保留在联邦机构或实验室内部，但如果能建立类似于 SRC 年度成果评审这类吸纳行业用户的机制，正式将实验室所服务产业的成员纳入顾问流程，将极大增强实验室致力于产生实际产业效益的制度激励。（pp. 257–258）

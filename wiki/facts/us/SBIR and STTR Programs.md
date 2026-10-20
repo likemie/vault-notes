@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中系统协调多部门 SBIR/STTR 选题，推广空军 [[AFVentures]] 资本匹配机制并联动 [[Activate Fellowship]]、[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] 与 [[National Science and Technology Council|NSTC]] 投资基金（Goal 4.5）。
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详述 SBIR/STTR 作为[[Non-dilutive Funding|非稀释性资助]]与客户声音（Voice of the Customer）验证机制在全美[[University Spin-Out|大学衍生企业]]存活中的关键功能。
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 剖析 SBIR（3.2%）与 STTR（0.45%）法定预算提取比例与全美三位一体管理体制。

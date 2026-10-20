@@ -41,7 +41,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reflexive Governance
@@ -181,5 +181,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 阐释了[[Reflexivity|反思性]]治理作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]核心推进机制的实践路径，论证其在避免[[Path Dependence|技术锁定]]与实现系统收敛中的关键作用。

@@ -8,7 +8,7 @@ aliases:
 summary: "经济社会学与历史制度主义核心概念，指由具备合法暴力垄断权的第三方强制机构所背书的集体行为预期与规则体系；区分规则制定者与规则遵从者，将制度视为蕴含权力不对称的支配组织，构成理解制度设计与基层践行内生脱节的元理论基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Social Regime
@@ -204,13 +203,13 @@ updated: 2026-10-16
 > [!citation-card] 小松与拉普利论基于无效统计建立的全球政策规约
 > [[OECD|经合组织]]（OECD）的 [[PISA]] 排位与计量经济学家的模型结合，在全球范围内建立起一种强大的新型政策规约（Policy Regime）。这一规约声称建立在实证证据之上，但在统计学底层却充斥着因果倒置与有效性缺失的严重缺陷；然而凭借国家行政力量的强制背书，它深刻规制了各国的教育立法与资源分配。[[Argument_Johnson_2023_CritEduc|(Komatsu & Rappleye, 2017, pp. 166–168, cited in Johnson & Janzen, 2023, p. 17)]]
 >
-> *A new global policy regime founded on invalid statistics? Hanushek, Woessmann, PISA, and economic [[Growth]]... The institutional authority of international testing regimes exerts powerful compliance pressures regardless of underlying methodological validity.*
+> *A new global policy regime founded on invalid statistics? Hanushek, Woessmann, PISA, and economic growth... The institutional authority of international testing regimes exerts powerful compliance pressures regardless of underlying methodological validity.*
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规约，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规约命题，剖析跨国量化规约在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
 

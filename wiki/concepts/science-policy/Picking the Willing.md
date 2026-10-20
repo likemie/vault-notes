@@ -51,7 +51,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Picking the Willing
@@ -233,6 +233,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 论证公共部门如何依托国家、政策与行政三层动态能力及引领学习[[Paradigm|范式]]，实现对跨界意愿者的敏捷协同与共创管理。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定挑选意愿者概念内涵、四大治理支柱与防范传统产业政策寻租俘获的核心文献。

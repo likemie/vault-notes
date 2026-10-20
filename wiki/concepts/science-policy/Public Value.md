@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 69
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
   - "[[Innovation Desert]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
   - "[[Curiosity-Driven Research]]"
@@ -96,7 +95,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Public Value
@@ -126,7 +125,7 @@ updated: 2026-10-17
 > [!citation-card] 卡普与扎米斯卡论公共技术交付、普遍利益与国家合法性
 > 当新兴技术无法被有效引导去解决国家的实质挑战时，公众对民主体制有效运转的信念就会遭受侵蚀。正如[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）在《合法性危机》中所揭示的，即便国家机器成功提高了劳动生产率并消除了经济危机，但如果这种增长的优先顺序不是根据全人口的可普遍化利益形成，而是完全沦为私人目标的函数，政体就将陷入深刻的合法性赤字。当硅谷的全部工程算力用于开发照片分享与广告算法，而公共部门的技术基础设施沦为[[Innovation Desert|创新荒漠]]、无法交付最基本的国防与公共服务时，现代民主国家便面临无法兑现核心公共价值的系统性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–9)]]
 >
-> *Even if the state apparatus were to succeed in raising the productivity of labor and in distributing gains in productivity in such a way that an economic [[Growth]] free of crises... were guaranteed, growth would still be achieved in accord with priorities that take shape as a function, not of generalizable interests of the population, but of private goals. (Habermas, 1975, p. 73)*
+> *Even if the state apparatus were to succeed in raising the productivity of labor and in distributing gains in productivity in such a way that an economic growth free of crises... were guaranteed, growth would still be achieved in accord with priorities that take shape as a function, not of generalizable interests of the population, but of private goals. (Habermas, 1975, p. 73)*
 
 > [!boundary]- 概念边界
 > - 不等于 **新古典狭隘公共品（Public Good）** — 公共品基于非排他与非竞争的技术属性界定（如路灯或国防）；公共价值是由多元社会主体共同塑造、兼具经济生产力与社会正义取向的制度化集体福祉。
@@ -339,7 +338,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与[[Dynamic Assessment|动态评估]]工具。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。

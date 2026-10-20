@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-28
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # SOLO Taxonomy
@@ -195,6 +195,6 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 将 SOLO 的五层理解结构系统转化为课程设计动词，用于建立连接目标、教学活动与表现标准的建构性对齐模型。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂基于 SOLO 复杂性阶梯对基于问题的学习（PBL）偏低效应量的理论解释，论证了探究教学严格依循认知进阶规律的必要性。

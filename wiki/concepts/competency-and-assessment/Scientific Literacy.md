@@ -95,7 +95,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scientific Literacy
@@ -329,7 +329,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 [[STEM Education|STEM]] 研究和数据分析技能的国家行动建议。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 [[Office of Science and Technology Policy|OSTP]] 报告从国家科研治理维度确立“金标准科学”评价原则，剖析非学术性意识形态筛选对科研评价标准的侵蚀，倡导回归实证可复现性与学术卓越。

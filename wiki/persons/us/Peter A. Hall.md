@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peter A. Hall
@@ -132,7 +132,7 @@ updated: 2026-10-16
 > - **方法路径** 倡导[[Process Tracing|过程追踪]]（Process Tracing）与比较历史制度分析，强调时间性、次序与关键历史遗产对因果机制的制约。
 > - **跨学科辐射** 其政策[[Paradigm|范式]]理论被公共政策学与社会学广泛吸收，三大学派分类成为政治学研究生核心方法论必读规范。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 援引霍尔关于制度作为承载权力偏向的分配工具的界定作为立论基石，并由霍尔撰写总结章展开理论对话（pp. 8, 30, 32, 204–224）。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 以霍尔与索斯基斯的资本主义多样性模型为核心理论靶子，批判其将协调市场经济假定为具有自愈机能的超稳定闭环，促使学界将目光转向微观行动者驱动的内生渐进变迁（pp. 4–6）。
 

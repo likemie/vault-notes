@@ -2,7 +2,7 @@
 summary: "由 Mazzucato 与 Perez 提出、Kattel 与 Mazzucato 深化的现代科技政策核心概念，指国家超越单纯修补市场失灵与平整场地的被动角色，主动通过战略采购、规制设定与定向激励，将市场游戏规则与资本预期向符合长期公共价值的绿色与包容性技术轨道倾斜。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Picking the Willing]]"
   - "[[Grand Challenges]]"
   - "[[Public Value]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 title: Tilting the Playing Field
 aliases:
   - 倾斜竞争场地
@@ -61,7 +60,7 @@ aliases:
 > [!citation-card] 倾斜场地以驱动私人投资与绿色转型
 > 解决 21 世纪[[Grand Challenges|重大挑战]]需要公共与私人部门的深度协同。在此情境下，公共部门的核心职能绝非仅仅是承担兜底风险和维持中立的平整场地，而是主动向符合既定[[Public Value|公共价值]]目标的方向倾斜竞争场地——通过创造和塑造市场，显著提升企业对未来战略增长机遇的预期，进而强力带动私人资本的大规模跟进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 >
-> *Addressing grand challenges... requires investments by both private and public actors. The role of the public sector here is not just about de-risking, and leveling the playing field, but tilting the playing field in the direction of the desired goals—creating and shaping markets which increase the expectations of business around future [[Growth]] opportunities, thus driving private investment.*
+> *Addressing grand challenges... requires investments by both private and public actors. The role of the public sector here is not just about de-risking, and leveling the playing field, but tilting the playing field in the direction of the desired goals—creating and shaping markets which increase the expectations of business around future growth opportunities, thus driving private investment.*
 
 > [!boundary]- 概念边界
 > - **不等于 传统的计划经济价格管制或行政垄断** 计划经济直接取消市场机制与价格信号；倾斜场地是在保留市场竞争活力的前提下，通过税费、标准、准入与公共采购改变相对收益结构，让符合可持续发展方向的企业获得超额回报。

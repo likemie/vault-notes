@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Remi Adekoya
@@ -148,6 +148,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿德科亚关于[[Moral Dualism|道德二元论]]与道德屈尊的深刻批判，破除阻碍科技精英参与国家防务技术构建的道德洁癖。
 

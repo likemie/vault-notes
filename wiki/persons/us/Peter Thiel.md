@@ -43,7 +43,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peter Thiel
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > - **政治哲学与科技政策路径** 其大停滞批判与重振重大工程抱负深刻启发了卡普（[[Alexander Karp|Alex Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中关于破除[[Big Idea Famine|大构想饥荒]]、再造[[Technological Republic|技术共和国]]的核心立论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 49–50)]]
 > - **教育与人才流动路径** 蒂尔奖学金打破了美国精英大学对青年智力的体制垄断，倡导顶尖技术人才投身底层工程突破而非安逸的学术与大厂螺丝钉岗位。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引蒂尔关于阿波罗太空计划作为人类进步标尺的论断，批判硅谷软件工程师向消费级广告点击退缩引发的宏大科技野心丧失与大构想饥荒。
 
 ---

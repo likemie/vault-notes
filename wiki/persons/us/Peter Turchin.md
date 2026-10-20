@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Peter Turchin
@@ -114,5 +114,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章直接援引图尔钦《末日时代》关于[[Elite Overproduction|精英生产过剩]]的理论论述，剖析当代硅谷年轻工程师沉溺于开发[[Lifestyle Technology|生活方式科技]]的阶层动因。

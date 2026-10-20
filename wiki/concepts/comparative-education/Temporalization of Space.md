@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Temporalization of Space
@@ -182,5 +182,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 阐发空间的时间化概念，以此为突破口反思西方[[Enlightenment|启蒙哲学]]对地理空间的殖民，为比较教育学空间转向确立理论前提。

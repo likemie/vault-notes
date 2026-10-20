@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Space of Places
@@ -175,6 +175,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 经典田野应用，细致呈现布宜诺斯艾利斯郊区贫困学校这一典型地方空间中，全球“尊重多样性”口号如何被物质匮乏与教学行动压力扭曲为“尊重贫困”与学业标准的自我调低。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将地方空间实证化为阿根廷与巴西的基层学校与[[Normal School|师范教育]]机构，论证抽象的“课程自主权”如何在缺乏物质时间保障的地方学校异化为照抄商业教辅。

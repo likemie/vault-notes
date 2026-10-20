@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Basic-Applied Research Dichotomy
@@ -166,5 +166,5 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 全面梳理并宣告基础/应用研究二分法终结，论证其历史文化根源与现实危害，提出以[[Discovery-Invention Cycle|发现-发明循环]]与[[Long-Term Public Utility|长期公共效用]]重构科技政策。

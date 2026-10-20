@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 108
+argument_related_count: 107
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -69,7 +69,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Student Attitude]]"
   - "[[Heterogeneity]]"
-  - "[[Growth]]"
   - "[[Artefact]]"
   - "[[Objectivism]]"
   - "[[Internal Validity]]"
@@ -144,7 +143,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2023
 doi: ""
 citation_aliases:
@@ -599,7 +598,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 | 阶段 | 聚焦范围 | 核心内容 |
 |------|---------|---------|
-| 第一部分 | 个人生活史（最宽） | 大学前[[Growth\|成长]]经历、教育历程、产生过重大影响的人和事、父母的培养模式、家庭期待 |
+| 第一部分 | 个人生活史（最宽） | 大学前成长经历、教育历程、产生过重大影响的人和事、父母的培养模式、家庭期待 |
 | 第二部分 | 大学过程（收窄） | 入学心境、适应困难、四年学业、课外活动、投入经历、意义感与价值观变化 |
 | 第三部分 | 毕业选择（最聚焦） | 对眼下出路的看法、家人意见、自身打算、未来生活愿景与中长期目标、矛盾与张力 |
 

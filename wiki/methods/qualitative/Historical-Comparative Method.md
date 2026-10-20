@@ -122,7 +122,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Historical-Comparative Method
@@ -282,7 +282,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较考证英、德、美、日、苏及新兴工业体在教育体制、研发建制与[[Absorptive Capacity|吸收能力]]协同上的[[Heterogeneity|异质性]]路径，论证[[Systems of Innovation|创新系统]]的有效性。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 运用历史比较与制度演化分析考察三代使命导向政策轨迹，对比美、英、法、德、日与[[EU|欧盟]]制度差异，提炼[[Public Dynamic Capabilities|公共动态能力]]矩阵。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。

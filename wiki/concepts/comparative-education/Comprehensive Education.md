@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-20
 ---
 
 # Comprehensive Education
@@ -183,7 +183,7 @@ updated: 2026-10-11
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。
 
 ---

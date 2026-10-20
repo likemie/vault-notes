@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Six-Stage Model of Policymaking
@@ -213,7 +213,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 结合美国国会立法实务，将六阶段模型引入教育立法研究，构建面向教育研究者的前瞻[[Navigational Framework for Educational Researchers|政策导航框架]]。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 运用阶段启发式透镜[[Process Tracing|过程追踪]][[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
 > - Oakley et al. (2013) — 对公共政策全过程六阶段模型进行系统建构与实证检验，奠定标准六阶段框架的现代实证基础。

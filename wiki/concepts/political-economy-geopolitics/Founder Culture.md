@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Founder Culture
@@ -305,7 +305,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 阐述防务融合（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch01]]）、公职改革（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch15]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch16]]）与长程托管及全员股权（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。
 
 ---

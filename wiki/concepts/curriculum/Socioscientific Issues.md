@@ -2,7 +2,7 @@
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
 domain: "curriculum"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Engineering Education]]"
-  - "[[Growth]]"
   - "[[Scientific Uncertainty]]"
   - "[[Nature of Science]]"
   - "[[Critical Thinking]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 # Socioscientific Issues
 
@@ -84,7 +83,7 @@ updated: 2026-10-19
 > | **核心问题** | 自然界“是什么”与“为什么”（因果解释） | 面向特定需求“如何设计”（技术优化） | 面向社会现实“应该怎么做”（价值与政策决断） |
 > | **证据范畴** | 受控实验测得的经验数据与物理量 | 物理性能指标、材料成本与客户约束 | 兼涉科学实证数据、生态风险、经济成本与伦理道德 |
 > | **裁决准则** | 单变量控制、可重复性与[[Statistical Significance\|统计显著性]] | 多约束条件下的最优设计平衡与可行性 | 多元利益主体的[[Informal Reasoning\|非形式推理]]、抗辩反驳与民主审议共识 |
-> | **转基因案例** | 转基因玉米在受控光照下[[Growth\|生长]]是否显著更快？ | 如何改良玉米基因以契合特定抗旱与收割要求？ | 是否应该允许将实验室转基因玉米引入自然生态系统？ |
+> | **转基因案例** | 转基因玉米在受控光照下生长是否显著更快？ | 如何改良玉米基因以契合特定抗旱与收割要求？ | 是否应该允许将实验室转基因玉米引入自然生态系统？ |
 
 ---
 

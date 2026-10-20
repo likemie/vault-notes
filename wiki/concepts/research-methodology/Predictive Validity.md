@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Predictive Validity
@@ -299,7 +299,7 @@ updated: 2026-10-16
 
 当前 vault 中围绕预测效度展开的核心实证文献索引如下。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实高阶潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，系统总结微观教学行为对学生未来学业增益的跨期预测效度（0.08–0.12 SD），确立课堂实然行为优于静态文凭资质的预测源效能。

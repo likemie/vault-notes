@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Critical Thinking Disposition
@@ -222,7 +222,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 针对 25 项实证研究展开[[Meta-analysis|元分析]]检验，确立了教学干预对思维倾向的有效性（$g+ = 0.23$）及[[Mentorship|导师制]]的最优增益（$g+ = 0.38$）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 156–161)]] — 批判高校受害者心态与企业合群从众（Likability as a Jail），论证[[Critical Thinking|批判性思维]]倾向所必需的心理韧性与工程反教条实验精神。
 

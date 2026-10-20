@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Shopping Mall Model of Research Universities
@@ -170,5 +170,5 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 提出[[Research Universities|研究型大学]]商场模型隐喻，系统解析其在间接成本核算、软钱雇佣及基建过度扩张中的制度表现。

@@ -69,21 +69,6 @@ updated: 2026-10-20
 > *The influential philosopher Tingyang Zhao (2021) has proposed the Chinese concept of tianxia as a superior alternative to the United Nations system based on the Westphalian principle of nation-states. Tianxia, Zhao argues, offers all peoples the prospect of communion with an open, welcoming and warm-hearted China; this is what is meant by the Chinese Dream. If Xi's 'community of shared destiny for mankind' seems rather abstract, Zhao's theology of China presents the nation itself as a microcosmic model of a global, Sino-centric order of tianxia.*
 
 ---
-
-## 条目关联
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Tianxia Heuristic]] | 理论 | 其天下体系为当代比较教育学与跨国高教研究提供了超越民族国家二元对立的天下启发式分析框架。([[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1703–1705]]) |
-> | [[Zhonghua Minzu]] | 概念 | 其以世界为中心的天下哲学为中华民族伟大复兴与“人类命运共同体”话语构建提供了世界主义学理支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
-> | [[Sinicisation]] | 概念 | 借用“逐鹿中原”隐喻将历史上北方异族的入侵征服与被同化阐发为征服者主动融入华夏的自愿文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
-> | [[Necropolitics]] | 概念 | 其将少数民族文化消亡阐释为“自愿牺牲”的修辞被布拉格指认具有死亡政治性质，掩盖了同化过程中的强权暴力。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
-> | [[Orientalism]] | 概念 | 将征服者描绘为对中华文化的单向敬畏与仰慕，被批评洗白了古代朝贡与帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |
-
----
-
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
@@ -214,3 +199,16 @@ updated: 2026-10-20
 
 > [!warning] 未解问题与适用边界
 > 赵汀阳天下体系聚焦于高度抽象的世界制度哲学与文明认同阐发，但在实操性的制度建构层面仍面临诸多未解挑战：在缺乏全球主权实体的现实国际格局中，如何避免天下概念沦为大国单边追求区域话语权与影响力的道德修辞；如何在承认现实国家实力等级的同时，制度化地保障边缘群体与中小国家的实质平等权利，仍是该理论在国际政治与跨国治理领域持续面对的批判性课题。
+
+---
+## 条目关联
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Tianxia Heuristic]] | 理论 | 其天下体系为当代比较教育学与跨国高教研究提供了超越民族国家二元对立的天下启发式分析框架。([[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1703–1705]]) |
+> | [[Zhonghua Minzu]] | 概念 | 其以世界为中心的天下哲学为中华民族伟大复兴与“人类命运共同体”话语构建提供了世界主义学理支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
+> | [[Sinicisation]] | 概念 | 借用“逐鹿中原”隐喻将历史上北方异族的入侵征服与被同化阐发为征服者主动融入华夏的自愿文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Necropolitics]] | 概念 | 其将少数民族文化消亡阐释为“自愿牺牲”的修辞被布拉格指认具有死亡政治性质，掩盖了同化过程中的强权暴力。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Orientalism]] | 概念 | 将征服者描绘为对中华文化的单向敬畏与仰慕，被批评洗白了古代朝贡与帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |

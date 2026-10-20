@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Insider-Outsider Perspective in Comparative Education
@@ -248,6 +248,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从欧洲与跨大洲比较教育的[[Epistemology|认识论]]反思出发，系统论证本土局内人语境浸润与外部局外人陌生化疏离姿态之间的辩证互补原则（pp. 96–97）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 结合在[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]长达数十年的高阶实务履历，开创性地运用圈内人反思视角，解构[[Multilateral Development Bank|多边开发银行]]被外界误读的金融本质、官僚摩擦与执行困境（pp. 455–477）。

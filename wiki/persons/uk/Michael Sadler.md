@@ -89,7 +89,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Michael Sadler
@@ -206,7 +206,7 @@ updated: 2026-10-16
 > - **政策路径** 其主持的特别调查与报告办公室的系列成果直接影响了英国 1902 年《巴尔福教育法案》对地方中等教育体系的重构；曾作为布赖斯委员会核心成员起草报告，并拟定大英帝国教育部方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 44–45)]]
 > - **跨国传播** 其“盆栽移植”隐喻成为比较教育和[[Policy Borrowing\|政策借用]]领域引用频率最高的方法论格言，在发展援助与[[International Education\|国际教育]]流动中被用作反思技术援助失败的理论护盾。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 阐明萨德勒思想在维多利亚晚期新自由主义与牛津唯心主义中的哲学源流，评析其不可捉摸精神力量对学科奠基的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐明萨德勒创设 [[Office of Special Inquiries and Reports|OSIR]] 并以德国为参照系开创比较研究，推动比较教育在英国大学率先扎根并由伦敦教育学院继承的制度史贡献（pp. 88, 89–90）。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 批判比较教育学对萨德勒的肖像学崇拜与传统的发明，指出其 1900 年演讲造成的混乱远多于解答。

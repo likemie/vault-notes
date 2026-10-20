@@ -120,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Evidence Ecosystem
@@ -475,7 +475,7 @@ updated: 2026-10-17
 
 ---
 
-## [[Correlational Research|相关研究]]
+## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，系统界定宏观证据生态的系统级使能影响（战略优先、资源保障、过程监控），论证治理从下游结果问责转向决策过程透明度的制度转向。

@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # The Right and the Good
@@ -111,5 +111,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，援引[[Ágnes Heller|赫勒]]与[[John Rawls|罗尔斯]]论正当与善的失衡，批判当代西方公共与学术[[Discourse|话语]]的无菌化。

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Barometer of Achievement
@@ -211,5 +211,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 考证气压计图表源于 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件的制度史，系统批判其[[Neo-Taylorism|新泰勒主义]]控制逻辑及其对[[Teacher Professional Agency|教师专业自主权]]的侵蚀。

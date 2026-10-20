@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Whole Language
@@ -227,7 +227,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 结合 Hattie 自身论述，以全语言为例深入剖析教育干预操作定义的弹性与连续谱属性，揭示文献重合的[[Meta-analysis|元分析]]因编码规则差异导致结论截然相反，批判二阶综合掩盖[[Variable|变量]]模糊性的缺陷。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 系统解构全语言运动在美国遭遇政策清洗的政治经济学根源，揭示联邦行政官僚、国会保守派与商业教材寡头次政府铁三角的利益制造机制。
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 细读[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》中全语言的二阶综合过程，揭露其通过纳入垃圾研究、非对称审查与选择性修正强行将全语言[[Effect Size|效应量]]清零（$d = 0.06$）的方法论偏见。

@@ -55,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lee Kuan Yew
@@ -146,7 +146,7 @@ updated: 2026-10-16
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 
-> [!evidence-grid]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
 
 ---

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Paulo Freire
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > - **数智技术反思与认识正义路径** 进入 2020 年代[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被教育哲学家重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 > - **比较教育全球化反思与解放实践路径** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将弗莱雷“教育即政治”与反思实践（[[Praxis]] of liberation）引入比较教育学科史反思，批判将教育等同于资本主义西方工业现代性的狭隘倾向，推动比较教育学者超越跨国干涉与强制再生产，转向支持主权自决与人类福祉的人道主义解放实践。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治工具，剖析赫尔巴特五段教学法与日本殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷打破压迫性权威的对话精神，针对生成式 AI 时代的成长性[[Epistemic Injustice|认识不正义]]，提出[[Alien Intelligence|异己智能]]反向审问与思维全外显防御方案。

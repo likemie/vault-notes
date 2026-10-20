@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
-  - "[[Growth]]"
   - "[[Innovation Ecosystem]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Europe 2020 Strategy
@@ -68,7 +67,7 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!abstract]
-> Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（[[Start Making a Reader Today]], sustainable and inclusive [[Growth]]）。战略跨越五个相互关联的优先领域(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])：
+> Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（[[Start Making a Reader Today]], sustainable and inclusive growth）。战略跨越五个相互关联的优先领域(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])：
 >
 > - **就业** 提高劳动参与率
 > - **研发** 增加研发投入

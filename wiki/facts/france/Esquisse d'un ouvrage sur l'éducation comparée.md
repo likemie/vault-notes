@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Educational Meliorism]]"
   - "[[Leading Questions]]"
-  - "[[Growth]]"
   - "[[Proto-Scientific Motif]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Esquisse d'un ouvrage sur l'éducation comparée
@@ -174,7 +173,7 @@ updated: 2026-10-17
 > | [[Marc-Antoine Jullien]] | 人物 | 本文献作者，比较教育学奠基人与[[International Education\|国际教育]]思想先驱。 |
 > | [[Scientific Method]] | 概念 | 本文献试图将培根归纳法与解剖学类比作为教育研究的实证方法论基石。 |
 > | [[Positivism]] | 概念 | 本文献确立了比较教育作为“准实证科学”的早期经验分类取向。 |
-> | [[Faculty Psychology]] | 概念 | 本文献[[Questionnaire\|问卷]]设计所依托的心灵官能自主[[Growth\|生长]]心理学基础。 |
+> | [[Faculty Psychology]] | 概念 | 本文献[[Questionnaire\|问卷]]设计所依托的心灵官能自主生长心理学基础。 |
 > | [[Proto-Scientific Motif]] | 概念 | 本书是准科学母题的奠基文本，首创问卷表与比较观察表。 |
 | [[Educational Meliorism]] | 概念 | 本文献倡导通过系统收集客观事实与跨国比较来达成改良社会的终极宗旨。 |
 > | [[Questionnaire]] | 概念 | 本文献首创人类教育史上第一套标准化跨国调查问卷系统。 |

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # J. Robert Oppenheimer
@@ -227,5 +227,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析奥本海默的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），并对比国家大战略与硅谷[[Consumer Internet|消费互联网]]的历史对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

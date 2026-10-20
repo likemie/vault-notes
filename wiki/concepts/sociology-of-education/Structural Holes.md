@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-11
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Structural Holes
@@ -185,7 +185,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - Burt (2004) — 经典实证检验结构洞位置如何显著提高组织个体的创新构想质量与晋升机会。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国 [[DARPA]] 在半导体光刻与硅锗技术中的干预为例，揭示公共代理人如何超越结构洞消极套利、能动闭合网络断裂并重塑产业[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai, Gao, & Liu (2025)]] — 结合[[Lefebvre's Spatial Triad|空间三元辩证法]]，实证分析[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校骨干教师填补跨法域制度、认知与空间结构洞的实践机制。

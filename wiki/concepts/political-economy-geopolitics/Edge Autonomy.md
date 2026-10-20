@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Edge Autonomy
@@ -167,5 +167,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章通过蜜蜂侦察蜂与椋鸟外围个体的生物学实证，系统论述了边缘自治作为高敏捷初创工程文化制度基石的内在逻辑。

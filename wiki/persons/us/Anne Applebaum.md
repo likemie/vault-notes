@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Anne Applebaum
@@ -148,7 +148,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Michael W. Apple|阿普尔]]鲍姆关于“不存在自然的自由主义世界秩序”与“无执行力即无规则”的深刻警示，论证[[Technological Republic|技术共和国]]重筑[[Hard Power|硬实力]]防卫底座的不可替代性。
 
 

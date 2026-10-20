@@ -163,7 +163,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Knowledge Production
@@ -464,7 +464,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国高等教育国际化与地缘战略的交织，揭示大国科技竞争与地缘脱钩如何阻断跨国知识管道并削弱全球知识生产中心地位（pp. 693–694）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论证美国大学知识生产与传播并重的历史转型（洪堡理念与研究生院体制），阐明去中心化资助竞争的卓越生产力及其引发的学术避险问题。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科技政策演进视角，揭示大国地缘博弈下战后基础科学契约向技术导向型契约的让渡，阐明知识生产向国家技术能力组件的降维及三轨分化生态。

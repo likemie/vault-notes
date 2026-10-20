@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Alasdair MacIntyre
@@ -103,7 +103,7 @@ updated: 2026-10-15
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 借用麦金太尔对[[Pluralism|淹没性多元主义]]的批判，论证技术共和国必须拥有肯定性的共有道德叙事。
 
 ---

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Technological Pastiche
@@ -111,5 +111,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引[[David Graeber|格雷伯]]的技术拼贴概念，批判当代硅谷将巨量智力与资本浪费在衍生性生活应用与屏幕注意力竞争上，呼吁摆脱拼贴泥潭、重构国家硬核工程雄心。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Robert Marzano
@@ -125,7 +125,7 @@ updated: 2026-10-17
 > - **理论路径** 提出的理论驱动[[Meta-meta-analysis|元综合]]不仅深刻启发了后续学者（如 Higgins 等）反思元分析分类缺陷，其构建的马扎诺分类学也成为西方替代传统[[Bloom's Taxonomy|布鲁姆分类学]]的核心框架之一。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
 > - **承继与拓展** [[John Hattie|John Hattie]] 直接继承了马扎诺关于“学校效应”的提法和元分析综合传统，但 Hattie 将其进一步推向包含 800+ 元分析的“二阶元分析”（mega-analysis），在更宏观的全球政策层面掀起了可见学习浪潮。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 考证了马扎诺在2000年首次将元分析引入教育效能评估的历史地位，梳理其4,057项效应维度与五层级学校标准，并指出哈蒂的“学校效应”概念正源自马扎诺。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 高度评价马扎诺1998年元综合报告在解构“品牌名”聚合偏误与践行理论驱动分类上的开创性方法贡献。
 

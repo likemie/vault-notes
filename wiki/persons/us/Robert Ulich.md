@@ -79,7 +79,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Robert Ulich
@@ -179,7 +179,7 @@ updated: 2026-10-17
 > - **人才培养与师承网络** 在哈佛大学亲自培养了贝雷迪（哥伦比亚大学比较教育领袖）、卡扎米亚斯（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及[[Roy Nash|纳什]]等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制[[Behaviorism|行为主义]]技能训练对[[Normal School\|师范教育]]的侵蚀。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 卡扎米亚斯深情回顾乌利希的人文主义比较传统与其对自身史学思想的深远奠基。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立乌利希在第二论述代际（历史-哲学与自由人文主义）中的经典地位，并反思[[Positivism|实证主义]]对该传统的断裂性埋葬。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 拉斯特等学者将乌利希与[[Isaac Kandel|坎德尔]]、施奈德、汉斯并列为比较教育学奠基阶段具有深厚人文历史倾向的奠基先驱。

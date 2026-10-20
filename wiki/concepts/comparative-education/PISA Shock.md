@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-07-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # PISA Shock
@@ -370,7 +370,7 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 详细阐述德国 [[PISA]] 2000 震荡如何打破测试禁忌，并依托国家[[Center of Calculation|计算中心]]（[[Institute for Educational Quality Improvement|IQB]]）与跨尺度[[Data Infrastructure|数据基础设施]]实现政策[[Topological Spatialisation|拓扑重组]]。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证分析德国各州教育部在 PISA 震荡后的七大优先行动领域推进过程及微观接收机制。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 对比德国、瑞典的真实 PISA 震荡与英格兰媒介化“人为 PISA 危机”的运作机制。

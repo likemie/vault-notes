@@ -35,7 +35,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Josep Borrell
@@ -149,7 +149,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引博雷利关于欧洲军队缩减为[[Bonsai Army|盆景军队]]及其采办碎片化滋生盆景产业的深刻诊断，系统论证软件与实战 AI 对重构同盟战力的决定性意义。
 
 

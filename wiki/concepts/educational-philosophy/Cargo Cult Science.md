@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Cargo Cult Science
@@ -252,7 +252,7 @@ updated: 2026-10-18
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用理查德·费曼的货物崇拜科学理论，从隐藏计算公式的简单算术平均、新泰勒制全景监控、新自由主义政商利益旋转门以及回避[[Falsification|证伪]]等四个维度，对 [[John Hattie]] 及其 [[Visible Learning]] 商业体系展开系统的科学哲学与政治经济学批判。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从数理统计学视角审查《可见的学习》，确立了用真实数据构建伪科学纸牌屋的[[Analytic Framework|分析框架]]，并提出抵制学术指错后继续推销的蓄意盲目准则。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，实证揭示 Visible Learning 底层数据链存在 44% [[Effect Size|效应量]]无引证支持、复现率不足 1% 等崩溃性问题，从元科学实证层面验证了货物崇拜科学在教育[[Research Synthesis|证据综合]]中的现实形态。

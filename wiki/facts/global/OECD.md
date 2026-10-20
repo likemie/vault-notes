@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 138
+fact_related_count: 137
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Innovation Hub]]"
-  - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
@@ -173,7 +172,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # OECD
@@ -290,7 +289,7 @@ updated: 2026-10-19
 > 2. 在经济发展过程中，促进成员国以及非成员国的健康经济扩张；
 > 3. 根据国际义务，在多边、非歧视的基础上促进世界贸易的扩大。
 >
-> *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to [[Achieve]] the highest sustainable economic [[Growth]] and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
+> *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to [[Achieve]] the highest sustainable economic growth and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
 
 > [!citation-card] 《[[Mediterranean Regional Project\|地中海区域项目]]报告》（1962年）
 > 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期[[Human Capital Theory\|人力资本]]需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education\|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。

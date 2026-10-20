@@ -128,7 +128,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Effect Size
@@ -162,7 +162,7 @@ updated: 2026-10-18
 > - **不声称回答的问题** ① 效应量不等于因果关系，其因果推断效力完全受制于产生它的前置研究设计（实验、准实验或非实验；[[Argument_Allerup_2015_Paideia|Allerup, 2015]]）；② 效应量反映的是试验清晰度与信噪比，不直接等同于教育实质有效性（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]], [[Argument_Simpson_2019_ERE|Simpson, 2019]]）；③ 效应量无法衡量学生在存在性时间中的长周期质性教化（[[Bildung]]）与终身能力转变，脱离具体情境的即时效应量快照容易导致将认识论指标混淆为存在论实体的[[Category Mistake|范畴错误]]（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–3, 10]]）。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Pre-test and Post-test|前后测实验]]、[[Correlational Research|相关研究]]。
+> - **研究设计** [[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Pre-test and Post-test|前后测实验]]、[[Correlational Research|相关性研究]]。
 > - **数据收集** 标准化学生[[Academic Achievement|学业成绩]]测验、自适应测评软件后台记录、问卷调查、行政统考数据库。
 > - **分析方法** 标准化均值差估计、相关系数转换、胜算比对数变换、逆方差加权平均。
 > - **辅助技术** 小样本无偏校正（Hedges' $J$ 因子）、[[Baseline Standardized Mean Difference|基线等效性筛查]]、[[Covariate Adjustment|协变量校正]]、变差系数同质性诊断、[[EEF Padlock Security Rating|挂锁安全评级]]。
@@ -307,7 +307,7 @@ updated: 2026-10-18
 
 ## 使用此方法的研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数对 133 项效应量指标展开统计检验，证实二阶综合效应量极度离散（$V_\sigma = 56.87\%$），揭示未经同质性控制的宏观效应量排名无法作为普适性教育政策工具。

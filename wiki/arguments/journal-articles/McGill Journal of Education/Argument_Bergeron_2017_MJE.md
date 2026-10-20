@@ -60,7 +60,7 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-10-18
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2017_MJE"
@@ -276,7 +276,7 @@ journal: McGill Journal of Education
 
 ### 论证步骤四　相关向均值差换算混淆因果并引发极值爆炸
 
-借助公式将[[Correlational Research|相关研究]]硬性转化为 Cohen's $d$，构成了二阶元分析中最具欺骗性的因果混淆环节（pp. 242, 245）。
+借助公式将[[Correlational Research|相关性研究]]硬性转化为 Cohen's $d$，构成了二阶元分析中最具欺骗性的因果混淆环节（pp. 242, 245）。
 
 > [!claim] 步骤四核心主张
 > 相关系数向 Cohen's $d$ 的换算公式在 $r \to 1$ 时呈爆炸性发散，且微弱相关即可虚增至[[Zone of Desired Effects|期望效应区]]；将相关性研究包装为因果干预效应量的做法彻底混淆了相关与因果，使整个理论体系滑入伪科学。（pp. 242, 245）

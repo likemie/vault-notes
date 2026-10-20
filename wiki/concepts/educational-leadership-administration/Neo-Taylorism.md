@@ -90,7 +90,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Neo-Taylorism
@@ -272,7 +272,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出[[John Hattie|哈蒂]]可见学习为当代教育行政中的“新泰勒主义”与“[[Cult of the Guru|大师崇拜]]”。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩[[Technical Rationality|技术理性]]批判，逐项核查反馈[[Meta-analysis|元分析]]底层数据，揭示其新泰勒主义[[Disciplina and Doctrina|规训]]实质与[[Construct|构念]]混淆。

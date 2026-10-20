@@ -3762,6 +3762,17 @@
     ]
   },
   {
+    "title": "Education as Growth",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Education as Growth.md",
+    "aliases": [
+      "生长",
+      "教育即生长",
+      "deweyan growth",
+      "self-realization"
+    ]
+  },
+  {
     "title": "Education as Initiation",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Education as Initiation.md",
@@ -4027,18 +4038,6 @@
     "aliases": [
       "生成性主题",
       "核心生成主题"
-    ]
-  },
-  {
-    "title": "Growth",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Growth.md",
-    "aliases": [
-      "生长",
-      "成长",
-      "教育即生长",
-      "deweyan growth",
-      "self-realization"
     ]
   },
   {
@@ -9821,6 +9820,20 @@
     "aliases": [
       "地缘政治主体",
       "geopolitical subjects"
+    ]
+  },
+  {
+    "title": "Geopolitics",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Geopolitics.md",
+    "aliases": [
+      "地缘政治",
+      "地缘政治学",
+      "地缘政治视角",
+      "地缘政治分析",
+      "地缘政治理论",
+      "Geopolitical Theory",
+      "Geopolitical Perspective"
     ]
   },
   {
@@ -20461,7 +20474,6 @@
     "path": "wiki/methods/quantitative/Correlational Research.md",
     "aliases": [
       "相关性研究",
-      "相关研究",
       "相关设计",
       "Correlational Design",
       "Observational and Correlational Research"

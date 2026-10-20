@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Varieties of Capitalism
@@ -200,7 +200,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。

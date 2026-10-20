@@ -154,5 +154,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中详细评述 [[DARPA]] NGMM 计划作为本土开放式 3D [[Heterogeneous Integration|异构集成]]国家研发中心的定位及其对消除海外代工依赖的战略意义（pp. 27–28）。

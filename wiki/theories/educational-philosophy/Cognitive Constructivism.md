@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Cognitive Constructivism
@@ -155,6 +155,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理认知[[Constructivist Paradigm|建构主义]]在[[Epistemology|认识论]]研究中面临的[[Ontology|本体论]]与方法论危机，主张将其作为多层级[[Epistemic Practices|认知实践]]模型的底层组件与情境理论相整合。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将认知建构主义与情境学习、社会建构主义及[[Transformative Learning Theory|转化学习]]并列为四大支柱理论，运用于高校半导体学者发展工作坊，阐明促使学者批判性审视固有专业假设并重构战略图式是培育跨学科科研共同体的核心机制（pp. 2–3, 6）。

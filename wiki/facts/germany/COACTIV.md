@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 援引 COACTIV 项目作为前沿严密实证反例，确立[[Stability vs. Variability Dilemma|变异性假说]]并有力击破可见学习关于教师学科知识无用论的过时断言。

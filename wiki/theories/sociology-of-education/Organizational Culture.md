@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Organizational Culture
@@ -336,7 +336,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 运用组织文化框架剖析公共部门官僚自保假设对创新的阻绝机制，提出导入工程实效文化以破除[[Innovation Desert|创新荒漠]]；并在 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|第 18 章]] 结合实证金融与专利计量，论证创始人审美品味、奥德修斯自愿自我约束与全员股权所有权文化对长周期突破性创新的决定性作用。
 > - **[[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]** 援引 Naím (1994) 的视角剖析[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]的组织文化差异，揭示技术官僚智力傲慢如何导致教育贷款方案脱离受援国一线现实。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]** 阐释如何阅读教室、校长办公室等学校物理[[Artefact|器物]]，说明器物在解读隐性组织文化与权力结构中的方法论价值。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Multi-Project Wafer
@@ -219,6 +219,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]视角阐明公共出资设立 [[MOSIS]] 与推广多项目晶圆共享拼版，如何以微小公共支出打破重资产芯片物理流片瓶颈，释放高校与初创企业的激进创新活力。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐明由[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）统筹聚合全美高校与小微企业多项目晶圆（MPW）流片需求，打破重资产制造壁垒并支撑先进制程与异构封装研发转化的顶层设计（pp. 23–24, 27–28）。

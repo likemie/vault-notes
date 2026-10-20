@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Emergence
@@ -291,7 +291,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节系统论述涌现的多维意涵：在[[Epistemology|认识论]]上解构受控实验的[[Variable|变量]]恒常假定（Ch. 1），在方法论上确立自然主义[[Qualitative Research|质性研究]]中理论与设计的双重涌现公理（Ch. 11），并在计算模拟中阐明基于主体建模（[[Agent-based Modelling|ABM]]）微观规则生成宏观社会事实的动力学机制（Ch. 19）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在质性研究设计框架中规范阐述[[Emergent Design|涌现式设计]]与数据分析主题生发规程。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 详尽解构头部大模型在万亿参数高维隐空间中常识物理推理与概念具象化能力的自组织涌现，探讨[[Artificial General Intelligence|通用人工智能]]火花的哲学与战略意涵。

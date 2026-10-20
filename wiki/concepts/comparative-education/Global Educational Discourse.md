@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Global Educational Discourse
@@ -232,7 +232,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Discourse|话语]]概念与[[Champ|场域]]五位置模型，实证剖析国际组织在拉美推进五大支柱模型时的空间闭合与实践脱节。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法引入比较教育学，追踪[[Global Policy Space|全球政策空间]]生产的能力话语向拉美国家与学校逐层变形的机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 解构[[OECD|经合组织]]如何通过[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与 [[PISA]] [[Space of Equivalence|等值空间]]重构全球教育政策话语。

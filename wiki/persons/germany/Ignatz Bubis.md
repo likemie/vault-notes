@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ignatz Bubis
@@ -99,7 +99,7 @@ updated: 2026-10-16
 > - **少数族裔与公民权利保障** 强化了德国犹太人社群及其他少数群体在联邦共和国作为平等主体的政治发声权与尊严保障。
 > - **地缘战略与国家认同反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中分析布比斯与瓦尔泽的辩论，指出该论战揭示了战后欧洲在彻底否定历史罪责与重建有效国家认同与防务威慑意志之间的深刻张力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 以布比斯对瓦尔泽的批驳为切入点，探讨德国由于沉重历史记忆导致国家认同与防卫意志长期受抑的深层地缘困境。
 
 ---

@@ -200,6 +200,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐述美国政府整体微电子创新战略，解析国防部微电子共用体（Microelectronics Commons）与 [[National Science and Technology Council|NSTC]] 在技术创新流水线上的分工协同机制。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，将微电子共用体（Microelectronics Commons）确立为加速“实验室向制造基底转化”的关键中试基础设施，系统规划开放 [[Process Design Kit|PDK]] 与区域枢纽网络。

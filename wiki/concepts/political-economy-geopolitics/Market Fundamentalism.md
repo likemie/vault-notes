@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Market Fundamentalism
@@ -192,5 +192,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀[[Advanced Technology Program|先进技术计划]]（ATP）等显性产业政策，迫使国家发展型职能向隐秘网络退避。

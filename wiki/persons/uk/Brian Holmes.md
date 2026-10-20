@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Brian Holmes
@@ -215,7 +215,7 @@ updated: 2026-10-16
 > - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（[[Henry Barnard|Henry Barnard]]）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与[[Policy Science in Comparative Education|政策科学]]定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm|范式]]冲击。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统评析战后第三代际实证科学主义运动中霍姆斯伦敦学派的 $L + I = P$ 假说演绎模型、审慎条件预测与反宿命预言立场，并揭示实证政策科学作为冷战现代化援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能。

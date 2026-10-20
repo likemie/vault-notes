@@ -7,7 +7,7 @@ aliases:
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Academic Achievement]]"
   - "[[International Baccalaureate]]"
-  - "[[Growth]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Experiential Learning
@@ -202,7 +201,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[John Dewey]] | 人物 | 阐发经验教育体系与双重判定原则。 |
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
-> | [[Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
+> | [[Education as Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
 > [!evidence-grid]- 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]] — 讨论社会服务、学术课程与地方发展实践的整合，以及教师和制度支持。

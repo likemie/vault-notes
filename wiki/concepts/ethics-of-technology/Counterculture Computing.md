@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Counterculture Computing
@@ -158,5 +158,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析 1960–1970 年代反文化计算的哲学起源、个体解放宗旨及其如何颠覆战后[[Technological Republic|技术共和国]]的动员传统并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

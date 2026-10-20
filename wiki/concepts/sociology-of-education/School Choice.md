@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # School Choice
@@ -236,7 +236,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。

@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
-  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Attrition]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cohort Study
@@ -78,7 +77,7 @@ updated: 2026-10-16
 > [!citation-card] 队列研究的纵向因果解释力
 > 在代表性总体样本上进行的队列研究，能够独特地识别典型发展模式，并揭示作用于这些样本的、其他研究设计无法捕捉的动态因果机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 271)]]
 >
-> *In cohort studies of human [[Growth]] and development, conducted on representative samples, typical patterns of development can be uniquely identified, revealing causal factors acting upon samples that are beyond the [[Reach]] of other research designs.*
+> *In cohort studies of human growth and development, conducted on representative samples, typical patterns of development can be uniquely identified, revealing causal factors acting upon samples that are beyond the [[Reach]] of other research designs.*
 
 ---
 
@@ -167,6 +166,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统阐明队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、核心要素、相对于横截面设计的六大优势（Douglas, 1976）以及样本死亡和控制效应等方法挑战。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 112)]] — 评析克里斯蒂娜（Christina, 2001, 2006）在约旦河西岸的追踪研究（cohort study），展示如何通过对模范非政府组织进行跨越政治周期的多阶段追踪，解构民间幼教在西方捐助指标、自治政府控制与本土伊斯兰文化之间的策略协商。

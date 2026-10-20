@@ -71,7 +71,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Steering at a Distance
@@ -250,6 +250,6 @@ updated: 2026-10-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。

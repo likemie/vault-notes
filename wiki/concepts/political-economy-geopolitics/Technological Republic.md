@@ -145,7 +145,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Technological Republic
@@ -502,5 +502,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]

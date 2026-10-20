@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Domain Specificity]]"
   - "[[Epistemology]]"
-  - "[[Growth]]"
   - "[[Socioeconomic Status]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Gender Differences in Academic Achievement
@@ -126,7 +125,7 @@ updated: 2026-10-18
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
 > | **规范与动机中介** | 性别差异主要经由课堂规范适应与持续工作努力等过程变量间接传导。 | 课堂行为管理、评价偏差控制与动机辅导 | Lekhal et al. |
-> | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的[[Growth\|成长]]型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
+> | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的成长型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
 > | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与心理辅导 | Pintrich; Lodewyk |
 
 ---

@@ -10,7 +10,7 @@ summary: "美国著名产业经济学家，哥伦比亚大学与科罗拉多矿�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Competitiveness]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Growth]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
   - "[[Assured Demand]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # John E. Tilton
@@ -90,7 +89,7 @@ updated: 2026-10-15
 >
 > 政府采购在新创企业的早期成长中扮演了关键角色。在 1957 年，传统电子管制造商占据了半导体市场 60% 的份额，新创非电子管企业仅占 40%；而到 1966 年，新创企业已抢占了 69% 的市场……蒂尔顿得出结论：国防采购最主要的贡献在于扶植了新兴的非电子管企业，打破了原有巨头的市场垄断。
 >
-> *Government procurement played a major role in the initial [[Growth]] of new firms... In 1957, the receiving tube firms accounted for 60% of the semiconductor market, with new non-tube firms holding 40%. By 1966, new firms had captured 69% of the market... Tilton (1971) concludes that the major contribution of defense procurement was aiding new non-tube firms.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
+> *Government procurement played a major role in the initial growth of new firms... In 1957, the receiving tube firms accounted for 60% of the semiconductor market, with new non-tube firms holding 40%. By 1966, new firms had captured 69% of the market... Tilton (1971) concludes that the major contribution of defense procurement was aiding new non-tube firms.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 ---
 

@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Behaviorism
@@ -286,7 +286,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 追溯当代实证教学评价自 Skinner 到 Glaser 再到 Hattie 的理论传承链，以[[Technical Rationality|技术理性]]解构行为控制逻辑与反馈[[Meta-analysis|元分析]]的数据失真。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析行为主义心理学工程如何放逐师生[[Intentionality|主体意向性]]与生活世界价值，服务于官僚机构的技术治理。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 考察算法教育与数字化学习平台如何复活[[B. F. Skinner|斯金纳]]操作条件反射，指出其以行为控制消解深层理解的教学弊端。

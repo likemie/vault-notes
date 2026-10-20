@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cognitive Deskilling
@@ -209,7 +209,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统界定[[Generative Artificial Intelligence|生成式人工智能]]引发的认知去技能化与[[Creative Deskilling|创造力去技能化]]危机，提出基于 Q-Tutor 的提问训练教学法以实现对去技能化的有效防御。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 提出私厨隐喻，揭示将构思、提纲与反思修改外包给 AI 导致的认知去技能化本质上构成了对求知者的[[Formative Epistemic Injustice|成长性认识不正义]]，并提出思维外显与[[Alien Intelligence|异己智能]]防御方案。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 探讨公共行政与科技政策层面的组织去技能化现象，阐明[[Externalization|外部化]]外包对国家探索与评估能力的侵蚀。

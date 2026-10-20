@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Co-Design
@@ -192,6 +192,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出贯穿底层物理材料至终端应用的全栈双向协同设计（DTCO/STCO）[[Paradigm|范式]]，将[[Hardware Security|硬件安全]]与可持续性前置内生嵌入微电子系统架构。
 

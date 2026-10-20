@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Translational Research
@@ -295,7 +295,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建覆盖全美学术界与小微企业的联邦式中试与表征设施网络，通过开放EDA工具、[[Multi-Project Wafer|多项目晶圆流片]]、3D异构封装与全谱系劳动力培育，跨越从实验室到代工厂的转化鸿沟。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明半导体硬科技领域从实验室到代工厂（lab-to-fab）的转化研究战略，提出通过共享 300 毫米中试线、极紫外光刻机时、Fab-to-Lab 切片测试与云端设计网关，构建多部门协同的端到端转化流水线。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]] — 深入剖析传统学术激励与产业硬化技能之间的双重断层，以 IBM 研发队伍结构转型为案例，探讨 [[National Science Foundation|NSF TIP]] 理事会与融合加速器在弥合转化鸿沟中的机制。

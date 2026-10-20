@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Commercial Off-The-Shelf
@@ -178,5 +178,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Karp & Zamiska (2025, Ch. 13)]] — 系统阐述商用现货（COTS）优先原则的历史渊源、法律机制（FASA 1994）及其在打破防务采办科层垄断与提升战场实效中的决定性价值。

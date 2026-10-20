@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Entrepreneurial University
@@ -274,7 +274,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证文献。
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 记录 20 世纪 80 年代荷兰高教改革在面对财政紧缩时明确否决极端自由市场“企业家型大学”方案，转而探索维系公共任务与“间接[[Steering at a Distance|远距离操纵]]”体制的经典比较行政研究。

@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Stephen Ball
@@ -183,7 +183,7 @@ updated: 2026-10-19
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的[[Disciplina and Doctrina|规训]]。
 > - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；新西兰学者奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）将鲍尔的政策网络与内生与[[Exogenous Privatisation|外生私有化]]理论运用于大洋洲福利国家重组实证，全面验证了资本以异层治理形式渗透政策制定中枢的分析有效性；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，亦直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。在跨国高教与地缘政策分析中，吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）运用鲍尔的政策驱动力—推进工具—价值分析视角，深入解构跨国教育政策表层的互利共赢叙事，揭示其背后服务于国家复兴战略与替代性全球秩序投射的实质机制。
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 自行阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。

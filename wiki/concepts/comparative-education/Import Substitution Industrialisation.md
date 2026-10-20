@@ -9,7 +9,7 @@ aliases:
 summary: "战后发展中国家通过关税与外汇保护扶持本土工业体系的宏观发展模式；在教育领域诱发了拉美1960年代中高等教育超常规大扩张，但因其依附性与精英偏向，导致基础初等识字停滞与结构性倒金字塔断裂"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ tags:
   - industrialization
 related_concepts:
   - "[[Washington Consensus]]"
-  - "[[Growth]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Dual School System]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Import Substitution Industrialisation
@@ -71,7 +70,7 @@ updated: 2026-10-17
 > [!citation-card] 拉美工业化初期的超常规教育大扩张
 > 拉丁美洲在 20 世纪 60 年代工业化初期阶段的教育扩张，创下了当时全球最高的教育增长率。在 1960 至 1970 年间，高等教育与中等教育的增长指数分别高达 247.9% 和 258.3%；然而在此之后增速放缓至 167.6%，同时该地区绝大多数国家的成人文盲率却基本保持停滞不前。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 >
-> *The Latin American educational expansion during the early phase of industrialization in the 1960s [[Accounts]] for the highest rates of educational [[Growth]] in the world. Between 1960 and 1970, the indices of growth for higher education and secondary education were 247.9% and 258.3%, after which it grew by only 167.6%, while the illiteracy rate remained more or less constant in most countries of the area.*
+> *The Latin American educational expansion during the early phase of industrialization in the 1960s [[Accounts]] for the highest rates of educational growth in the world. Between 1960 and 1970, the indices of growth for higher education and secondary education were 247.9% and 258.3%, after which it grew by only 167.6%, while the illiteracy rate remained more or less constant in most countries of the area.*
 
 > [!boundary]- 概念边界
 > - 不等于 **出口导向型工业化（Export-Oriented Industrialisation, EOI）** — EOI 依托自由贸易与比较优势，深度参与全球分工，强调与跨国标准接轨的基础与职业技术教育；而 ISI 依赖高额关税壁垒保护本土幼稚工业，更依赖国家公立大学培养本土官僚与专业工程师。

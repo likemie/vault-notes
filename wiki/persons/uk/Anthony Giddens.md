@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Anthony Giddens
@@ -159,7 +159,7 @@ updated: 2026-10-17
 > - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与[[Competitiveness|国家竞争力]]的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
 > - **跨国／跨领域传播** 晚期现代性的脱域机制、[[Time-Space Compression|时空压缩]]与反思性现代化概念被广泛引入比较教育学，深刻影响了关于全球教育[[Policy Borrowing|政策借用]]、跨国评估体系与[[Knowledge-Based Economy|知识经济]]转型的分析[[Paradigm|范式]]。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022, pp. 893–894)]] — 将吉登斯结构化理论与结构二重性创造性迁移至小学科学探究课堂，系统建构[[Reflective Structuration|反思性结构化]]理论与四维共享探究架构。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯批判[[Positivism|实证主义]]的方法论统一假定；[[Jürgen Habermas|哈贝马斯]]与双重诠释见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Ch. 2]]，[[Qualitative Validity|质性效度]]悖论见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]，质性写作见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 

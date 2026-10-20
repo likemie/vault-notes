@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 56
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Creativity]]"
@@ -92,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Centre for Educational Research and Innovation
@@ -150,7 +149,7 @@ updated: 2026-10-19
 > [!citation-card] 里兹维与林加德论 CERI 创立与经合组织教育工作的定性转向
 > 1968 年经合组织设立教育研究与[[Innovation Hub|创新中心]]（CERI），标志着组织内部深刻意识到经济增长不仅关乎数量扩张，更有其定性维度，教育应当成为改善人类生存境况与生活质量的重要工具。到 1970 年，经合组织已然承认教育所肩负的广泛社会与文化使命，在促进经济发展的同时将教育机会平等与民主化置于核心位置，构建起尊重各成员国制度自主权与多元意识形态立场的宽容治理生态。（p. 439）
 >
-> *The establishment of CERI in 1968 reflected an awareness within the OECD that economic [[Growth]] was not only quantitative, but had qualitative aspects, with education seen as 'an instrument for creating better conditions of life'... By 1970, the OECD had acknowledged that education had a fuller range of objectives than the earlier economic view had allowed, with its focus on economic growth tempered by a concern for educational equality and democratisation.*
+> *The establishment of CERI in 1968 reflected an awareness within the OECD that economic growth was not only quantitative, but had qualitative aspects, with education seen as 'an instrument for creating better conditions of life'... By 1970, the OECD had acknowledged that education had a fuller range of objectives than the earlier economic view had allowed, with its focus on economic growth tempered by a concern for educational equality and democratisation.*
 
 > [!citation-card] CERI 论知识供给侧改革与多利益相关方证据治理
 > 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决知识需求的方式。真正的挑战集中在研究共同体自身反思与变革；唯有融汇多方行动者的智慧与受托责任，教育科研才能真正摆脱[[Epistemology\|认识论]]困境。（pp. 206, 229）

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Mathematical Quality of Instruction
@@ -143,5 +143,5 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 MQI 纳入核心对比工具池，分析学科特定性量规在发展中国家实地推广的适应边界。

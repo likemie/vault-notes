@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Lucian Freud
@@ -109,7 +109,7 @@ updated: 2026-10-15
 > - **现代艺术与具象美学** 确立了20世纪西方具象肖像绘画的高峰，有力驳斥了抽象浪潮席卷下“具象绘画已死”的虚无主义论调。
 > - **工程认知与[[Epistemology|认识论]]启示** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其“如实观察而不做评判”的凝视态度引入[[Engineering Mindset|工程思维]]的[[Epistemology|认识论]]讨论中，强调高水平工程师与治理者必须具备直面未加修饰之运行代码与物理现实的专注力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引入弗洛伊德具象凝视论证工程思维以客观观察和[[Epoché|悬置]]评判直面动态物理现实的认识论原则。
 
 ---

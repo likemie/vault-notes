@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nomadic Education
@@ -186,5 +186,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合印度拉巴里人及蒙古、尼日利亚和伊朗的案例，论证学校空间围栏如何与游牧流动性发生碰撞，并彰显流动群体的抗风险能动性。

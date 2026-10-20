@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nikolas Rose
@@ -128,7 +128,7 @@ updated: 2026-10-16
 > - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、珍妮·奥兹加（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
 > - **跨国／跨领域传播** 其论著被译为十余种语言，不仅在社会学与政治学领域产生震荡，更深刻渗透至法学、医学社会学、地理学与比较教育学。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用罗斯的“数字即政策”理论，论证 [[PISA]] 如何通过隐匿政治决断确立免于质疑的治理权威。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与[[Disciplina and Doctrina|规训]]容器对人口流动实施精细监控。
 

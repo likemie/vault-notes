@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Educational Privatisation
@@ -265,7 +265,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，系统解剖拉美[[Conditioned State Theory|受限国家]]在[[Structural Adjustment Programs|结构调整方案]]下推行使用者自费与[[Educational Decentralization|教育分权]]的政治经济学逻辑。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证审计新西兰公立教育体系在内生与[[Exogenous Privatisation|外生私有化]]双轨下的演变历程，揭示特许学校背后的双层企业法人架构与政策制定权私有化。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 阐释全球留学生跨国流动如何成为财政脱节的代偿工具，驱动公立高等教育走向不可逆的永久性内生企业化。

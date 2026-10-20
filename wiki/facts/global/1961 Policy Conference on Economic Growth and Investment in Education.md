@@ -12,7 +12,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Education-for-Mandates]]"
-  - "[[Growth]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Brokerage]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # 1961 Policy Conference on Economic Growth and Investment in Education
@@ -77,7 +76,7 @@ updated: 2026-10-16
 >   - 1961-09 OECD 成立条约正式生效，秘书长托基尔·克里斯滕森（Thorkil Kristensen）强调教育是经济增长的关键瓶颈。
 > - **1961-10 — 华盛顿会议召开与[[Paradigm\|范式]]决战** 大西洋两岸政要与经济学者汇聚华盛顿，丹尼森发布关于教育对美国经济增长贡献的测算报告，确立人力规划与教育财政倍增的战略共识。
 >   - 1961-10-18 美国国务卿迪恩·腊斯克（Dean Rusk）与肯尼迪助理国务卿[[Philip H. Coombs\|菲利普·H·库姆斯]]（Philip H. Coombs）发表主旨演讲，宣告教育规划是自由世界生存与现代化的关键武器。
-> - **1962–1965 — 成果制度化与地中海项目落地** 会议成果汇编为五卷本《政策会议报告》（*Policy Conference on Economic [[Growth]] and Investment in Education*），推动 OECD 正式启动[[Mediterranean Regional Project\|地中海区域项目]]（Mediterranean Regional Project，MRP），率先在希腊、意大利、西班牙、土耳其等国实施标准化人力预测与规划模型。
+> - **1962–1965 — 成果制度化与地中海项目落地** 会议成果汇编为五卷本《政策会议报告》（*Policy Conference on Economic Growth and Investment in Education*），推动 OECD 正式启动[[Mediterranean Regional Project\|地中海区域项目]]（Mediterranean Regional Project，MRP），率先在希腊、意大利、西班牙、土耳其等国实施标准化人力预测与规划模型。
 
 ---
 
@@ -86,7 +85,7 @@ updated: 2026-10-16
 > [!citation-card] 华盛顿会议宣言与教育作为生产性投资定性
 > 教育是一项对人的能力发展的至关重要的生产性投资，它在决定现代国家经济长期增长率方面发挥着不可替代的作用。公共政策必须打破将教育经费视作财政负担与纯粹消费性开支的传统偏见，将教育系统扩张与国民经济增长目标实施整体规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> *Education is an investment in human capability which is of fundamental importance for economic [[Growth]]. Expenditure on education should no longer be seen merely as a financial burden or consumption, but as a primary agent for economic progress.*
+> *Education is an investment in human capability which is of fundamental importance for economic growth. Expenditure on education should no longer be seen merely as a financial burden or consumption, but as a primary agent for economic progress.*
 
 ---
 
@@ -143,7 +142,7 @@ updated: 2026-10-16
 > [!citation-card] 史学界论华盛顿会议的治理范式转向
 > 1961 年 [[OECD]] 华盛顿政策会议标志着教育在全球治理中被正式加冕为经济增长的发动机。通过将教育紧紧绑缚在大西洋阵营经济扩张战车上，经合组织不仅为自身在教育领域的跨界干预确立了合法性，更为其数十年后发展成为以数字和指标统治全球教育政策的超级中介构筑了初始基因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> *The 1961 Washington Conference enshrined education as an engine of economic [[Growth]], establishing OECD's legitimate mandate to govern education through economic criteria.*
+> *The 1961 Washington Conference enshrined education as an engine of economic growth, establishing OECD's legitimate mandate to govern education through economic criteria.*
 
 ---
 

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Zone of Desired Effects
@@ -283,7 +283,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。

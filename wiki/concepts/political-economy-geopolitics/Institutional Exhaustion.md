@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的渐进制度变迁核心机制；指制度在未经历外生重大危机冲击的情境下，由于日常正常运转持续耗竭其赖以维系的外部前提条件、产生递减收益或超越增长极限，最终累积导致规制效能逐步枯竭瓦解与自我消亡的内生演变过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Institutional Drift]]"
-  - "[[Growth]]"
   - "[[Institutional Displacement]]"
   - "[[Institutional Conversion]]"
   - "[[Rule Ambiguity]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Exhaustion
@@ -66,7 +65,7 @@ updated: 2026-10-16
 > [!citation-card] 制度耗竭与衰亡的理论界定
 > 制度耗竭指制度随时间推移发生的渐进瓦解与消亡过程；其核心机制在于耗损。在这一过程中，制度正常的日常运转侵蚀了自身的外部先决条件，普适化改变了成本收益关系，最终遭遇增长极限。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 31)]]
 >
-> *Exhaustion represents the gradual breakdown (withering away) of institutions over time. Its core mechanism is depletion, driven by self-consumption where the normal working of an institution undermines its external preconditions, decreasing returns where generalization alters cost-benefit relations, and overextension confronting limits to [[Growth]].*
+> *Exhaustion represents the gradual breakdown (withering away) of institutions over time. Its core mechanism is depletion, driven by self-consumption where the normal working of an institution undermines its external preconditions, decreasing returns where generalization alters cost-benefit relations, and overextension confronting limits to growth.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Institutional Drift|制度漂移]] — 制度漂移是规则未变但外部环境变迁且行动者策略性不作为导致的效力滑脱；制度耗竭则是制度内部运作动能直接消耗了支撑资源。
@@ -93,7 +92,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **自我消耗（Self-Consumption）** 制度在常规履行过程中不断耗费其生存所必需的社会、财政或政治外部前提条件，例如德国提前退休制度在缓解青年失业的同时持续消耗养老基金收入并推高失业衍生支出。
 > - **边际收益递减（Decreasing Returns）** 制度安排在初创阶段具备正向激励与协调收益，但随着规制范围向全社会泛化普及，其维系成本呈指数级攀升，收益净值逐渐转负。
-> - **增长极限与过度扩张（Limits to [[Growth]] and Overextension）** 制度运作日趋复杂化，为维系运转不得不频繁引入例外条款与特殊裁决，导致规制体系丧失连贯性、公信力与实践可操作性。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
+> - **增长极限与过度扩张（Limits to Growth and Overextension）** 制度运作日趋复杂化，为维系运转不得不频繁引入例外条款与特殊裁决，导致规制体系丧失连贯性、公信力与实践可操作性。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 
 > [!logic-map]- 制度耗竭内生演变机理
 > ```mermaid
@@ -177,5 +176,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出制度耗竭概念，以德国提前退休制度自我侵蚀养老金税基为例，界定自毁、收益递减与增长极限三类衰竭机制。（pp. 29–31）

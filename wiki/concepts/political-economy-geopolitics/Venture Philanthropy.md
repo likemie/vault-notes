@@ -62,7 +62,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Venture Philanthropy
@@ -251,7 +251,7 @@ updated: 2026-10-17
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示新西兰 [[Foundation North]] 与 [[NEXT Foundation|NEXT 基金会]]如何通过风险慈善重塑公立教育与特许学校生态。
 > - [[Argument_Rowe_2022_IJER|Rowe, 2022]] — 剖析[[Social Ventures Australia|澳大利亚社会创投]]（SVA）如何借助免税庇护与政策游说推动国家证据中介 [[Australian Education Research Organisation|AERO]] 的制度化装配。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]] — 实证确证风险慈善构建[[Philanthrocapitalism|慈善资本主义]]异层再分配闭环，揭示税收庇护与公立学校附庸化机制。

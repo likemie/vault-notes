@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ideology Critique
@@ -190,6 +190,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 132–133)]] — 在比较教育学科发展史综述中，将意识形态批判定位为挑战战[[Postpositivism|后实证主义]][[Value Neutrality|价值中立]]神话、打破单一[[Structural Functionalism|结构功能主义]]霸权并确立[[Critical Pluralism|批判多元主义]][[Paradigm|范式]]的关键学术进路。

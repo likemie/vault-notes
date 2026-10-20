@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Academic Achievement]]"
   - "[[Independent Variable]]"
-  - "[[Growth]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
   - "[[Interaction Effect]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Educational Level
@@ -82,7 +81,7 @@ updated: 2026-10-17
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论受教育层级的结构扭曲
 > 拉丁美洲在工业化初期的教育扩张展现了极端的层级不平衡：高等与中等受教育层级入学增长率超过 240%，而初等教育增长迟缓，成人文盲绝对规模维持恒定。这表明国家优先利用高阶教育机会满足精英与城市中产阶级的文凭需求，而牺牲了面向劳工大众的基础受教育水平普惠。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 >
-> *The educational expansion in Latin America was remarkably uneven across educational levels: while higher and secondary education experienced unprecedented [[Growth]] rates, primary education lagged behind and adult illiteracy remained virtually unchanged, reflecting an inverted pyramid serving elite reproduction.*
+> *The educational expansion in Latin America was remarkably uneven across educational levels: while higher and secondary education experienced unprecedented growth rates, primary education lagged behind and adult illiteracy remained virtually unchanged, reflecting an inverted pyramid serving elite reproduction.*
 
 > [!boundary]- 概念边界
 > - **不等于受教育年限的简单算术叠加** 相同受教育年限在不同质量轨道（如优质私立文理中学 vs 贫困公立职业初中）所累积的实质技能与[[Cultural Capital|文化资本]]存在深刻鸿沟。
@@ -214,6 +213,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 验证受教育水平对个体[[Epistemology|认识论]]发展阶段的[[Predictive Validity|预测效度]]，确认教育年限越高，个体越倾向于表现出成熟的批判理性认知信念。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 揭示拉美等外围国家在各受教育层级扩张上的倒金字塔式畸变，批判高阶教育过度供给作为政治补偿而牺牲基础大众初等识字的制度实质。

@@ -153,7 +153,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Technical Rationality
@@ -395,7 +395,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与[[Jürgen Habermas|哈贝马斯]]的[[Critical Theory|批判理论]]，系统解构[[Visible Learning|可见的学习]]的技术理性结构及其[[Behaviorism|行为主义]]谱系，揭示其在丹麦 2014 年教改中充当[[Legitimation Crisis|合法化危机]]防御工具的机制（pp. 78–87）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩对技术理性的界定，细读[[John Hattie|哈蒂]]反馈效应[[Meta-analysis|元分析]]底层数据，揭示其非理论化修辞掩盖下的行为主义预设、阶级盲还原、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]监控机制（pp. 3–15）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]教育政策转向，揭示技术官僚理性如何以投入产出效率与数字测评遮蔽教育目的哲学辩论（pp. 441–448）。
@@ -427,10 +427,10 @@ updated: 2026-10-17
 > | [[Visible Learning]] | 概念 | 被批判为将复杂教学解构为单一变量因果孤岛与效应量技术排行的实证模型。 |
 > | [[Critical Theory]] | 理论 | 批判技术理性异化为合法化工具并侵蚀生活世界的宏观批判框架。 |
 > | [[Quality Use of Research Evidence Framework]] | 理论 | 破除“证据自身发声”迷误、确立适切证据与深思熟虑参与互构的分析框架。 |
-> | [[Argument_Nielsen_2021_NordPsych]] | 论证 | 批判可见学习非理论化修辞、阶级盲还原与新泰勒主义监控机制的实证分析。 |
-> | [[Argument_Nelson_2017_EducRes]] | 论证 | 批判自上而下技术-理性灌输模型并倡导全系统知识动员的文献。 |
-> | [[Argument_Rickinson_2022_EducRes]] | 论证 | 提出 QURE 框架并系统诊断“证据自身发声”技术理性致命伤的系统综述。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes]] | 论证 | 思想史批判指出战后实证转型以技术官僚理性消解人文教化传统的论文。 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 批判可见学习非理论化修辞、阶级盲还原与新泰勒主义监控机制的实证分析。 |
+> | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] | 论证 | 批判自上而下技术-理性灌输模型并倡导全系统知识动员的文献。 |
+> | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 论证 | 提出 QURE 框架并系统诊断“证据自身发声”技术理性致命伤的系统综述。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 思想史批判指出战后实证转型以技术官僚理性消解人文教化传统的论文。 |
 
 
 

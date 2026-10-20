@@ -31,7 +31,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Workforce Development]]"
   - "[[Competitiveness]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
@@ -64,7 +63,7 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -301,7 +300,7 @@ journal: "Journal of Industry, Competition and Trade"
 > [!citation-card]- 附加条件与重塑国家与企业契约
 > [[Modern Industrial Policy|现代产业政策]]的另一个核心特征涉及塑造市场以及附加条件的作用。政府政策应当超越仅仅弥补[[Market Failure|市场失灵]]的最低要求去塑造市场，使其更好地反映国家优先考虑的价值观与社会目标……附加条件要求获得政府补贴的企业承担相应义务，旨在支持高质量就业、可持续增长与更广泛的共同繁荣。（p. 5）
 >
-> *A final additional aspect of a "modern" approach to industrial policies involves shaping markets and the role of [[Policy Conditionalities|Conditionalities]]... In this case, government policy should go beyond the minimal requirements of addressing market failures to "shape markets," so they better reflect the values and societal goals that governments have prioritized... Conditionalities, where government places obligations on recipients of government subsidies... should be used, it is argued, to support goals such as quality jobs, sustainable [[Growth]], and more broadly shared prosperity.*
+> *A final additional aspect of a "modern" approach to industrial policies involves shaping markets and the role of [[Policy Conditionalities|Conditionalities]]... In this case, government policy should go beyond the minimal requirements of addressing market failures to "shape markets," so they better reflect the values and societal goals that governments have prioritized... Conditionalities, where government places obligations on recipients of government subsidies... should be used, it is argued, to support goals such as quality jobs, sustainable growth, and more broadly shared prosperity.*
 
 ---
 

@@ -10,9 +10,9 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 40
-argument_related_level: 4
-argument_related_stars: "💎⭐"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Growth]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Constructed Knowledge]]"
@@ -76,7 +75,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -155,7 +154,7 @@ LS 的设计恰好可以吸收这批教师。由于 LS 没有单一学科基础�
 > | 经济及公共事务 | 今日香港 |
 > | 政府与公共行政 | 今日香港 |
 > | 社会教育 | 今日香港、现代中国 |
-> | 综合人文 | 个人[[Growth\|成长]]与人际关系、全球化 |
+> | 综合人文 | 个人成长与人际关系、全球化 |
 > | 科学与技术 | 公共卫生、能源科技与环境 |
 >
 > 许多原本教授这些选修科的教师通过转教 LS 保留了职位(Yan, 2021, 引自 p. 485)。

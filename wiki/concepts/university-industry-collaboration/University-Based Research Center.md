@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # University-Based Research Center
@@ -233,7 +233,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将大学研究型中心系统定位于产学联盟四种形态之一，深入剖析其大学主导议程设置、政府双重资助及前景 IP [[Pre-negotiated IP Rights|优先谈判权]]机制。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任布洛赫口述史与全样本纵向数据，系统提炼多用途多学科大学研究中心（MMURC）[[Paradigm|范式]]，揭示[[Sunset Provisions|日落条款]]、双重聘任及中心主任微观协调困境。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 追踪康奈尔、斯坦福等微电子大学研究中心的兴起与演变，揭示其重资产开放共享、教学用芯片试验线创设及跨学科平台向纳米生物科技迁移的灵活性。

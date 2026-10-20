@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Social Cartography
@@ -154,6 +154,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨空间转向与[[Rolland Paulston|保尔斯顿]]社会制图学在破除[[Enlightenment|启蒙运动]]“空间时间化”线性偏见、追踪教育[[Policy Mobility|政策流动]]及揭示少数群体空间[[Governmentality|治理术]]中的应用与拓展。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 评述保尔斯顿如何通过后现代多极[[Paradigm|范式]]制图终结[[Structural Functionalism|结构功能主义]]学术正统，确立批判与冲突[[Discourse|话语]]在比较教育学中的合法空间。

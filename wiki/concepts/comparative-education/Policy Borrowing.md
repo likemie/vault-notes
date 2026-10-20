@@ -138,7 +138,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Borrowing
@@ -559,7 +559,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure\|数据基础设施]]与[[Center of Calculation\|计算中心]]如何实现教育政策的[[Topological Spatialisation\|拓扑学重组]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin\|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann\|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐发 19 世纪第一代学校中心主义借用如何作为政治意识形态合法化依据，以及[[Michael Sadler|萨德勒]]历史文化转向对素朴借用的超越。

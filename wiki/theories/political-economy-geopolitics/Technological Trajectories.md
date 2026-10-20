@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Technological Trajectories
@@ -316,7 +316,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统梳理三代使命政策引导技术轨迹的历史形态，提出依托[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]与协同跨部门轨迹的路径。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心因素（技术来源、用户需求与专有性机制），奠定产业创新分类学经典基石。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何将技术轨迹理论应用于新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，阐明由国家设定方向并打破高碳锁定以开辟全新技术轨道的理论逻辑。

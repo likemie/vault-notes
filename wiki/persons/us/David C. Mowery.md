@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 46
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -24,7 +24,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Innovation Ecosystem]]"
-  - "[[Growth]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Disciplinary Institutionalization]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # David C. Mowery
@@ -95,7 +94,7 @@ updated: 2026-10-16
 > [!citation-card] 广义创新政策组合与市场结构的协同塑造
 > 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160–161)]]
 >
-> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and [[Growth]] of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants, aiding the creation of new semiconductor and computer firms, as well as the independent software industry.*
+> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and growth of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants, aiding the creation of new semiconductor and computer firms, as well as the independent software industry.*
 
 ---
 
@@ -112,7 +111,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1989 — *Technology and the Pursuit of Economic [[Growth]]*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的兴起、联邦科技政策演变与国家经济长期增长的内在制度纽带。
+> - **1989 — *Technology and the Pursuit of Economic Growth*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的兴起、联邦科技政策演变与国家经济长期增长的内在制度纽带。
 > - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场[[In-depth Interview|深度访谈]]与 11 项技术档案，系统解构 Sematech 治理演进，提出以纵向用户—供应商协同为核心的高技术研发联盟设计原则，并与日本 [[VLSI Project|超大规模集成电路项目]]（VLSI Project）及欧洲 欧洲信息技术研究战略计划（[[ESPRIT]]）展开深入跨国比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1996 — *The International Computer Software Industry*** 主编跨国比较专著，系统剖析美、欧、日软件工业发展路径分化与政府采购、反垄断政策及市场结构的演进关系。
 > - **1998 — *Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry*** 与杰弗里·马赫（Jeffrey T. Macher）、大卫·霍奇斯（David A. Hodges）合著发表于 *California Management Review*，结合加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的产线标杆数据与宏观产业演进，实证阐明美国半导体产业在 20 世纪 90 年代的复兴源于产品线向微组件敏捷重组、制造质量差距弥合与纵向专业化分工，有力纠正了 80 年代学界关于产业碎片化必然衰败的悲观论断。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
@@ -154,7 +153,7 @@ updated: 2026-10-16
 > - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
 > - **跨领域创新治理启示** 其对 IT 产业公共政策成功前提的严格界定，为当下清洁能源技术攻关、半导体供应链韧性建设及人工智能公共研发基础设施布局提供了重要的边界警示。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher et al., 1998]] — 结合微观晶圆厂标杆数据与宏观产业重构，实证剖析美国半导体产业在 1990 年代重获竞争优势的多元驱动机制。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 系统评估 Sematech 研发联盟的治理架构、战略转型及其向日欧同类项目的比较启示。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 系统考察二战后国防研发与先导采购对微电子、软件及互联网产业复合体的催化机制与生命周期衰减规律。

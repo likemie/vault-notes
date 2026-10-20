@@ -45,7 +45,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Navigation Metaphor in Comparative Education
@@ -190,5 +190,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育在统一与多样性张力下的学科史，提出劳威斯航海隐喻与当代[[OECD|经合组织]]测评霸权之间的结构性冲突。

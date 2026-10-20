@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Norwegian Four-Phase Model
@@ -168,5 +168,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将挪威自 1840 年代以来的四阶段借用实践作为[[Influences Across Cultures|跨文化影响]]研究的经典典范，论证早期[[Policy Borrowing|政策借用]]兼具政治反思与制度理性。

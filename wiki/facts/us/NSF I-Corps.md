@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 系统解构[[University Spin-Out|大学衍生企业]]在 [[Technology Readiness Level|TRL]] 3–5 的融资错配，阐明 [[National Science Foundation|NSF]] I-Corps 引入精益客户发现与产业导师三元架构对提高[[Research Translation|技术转化]]存活率的制度贡献。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子战略白皮书，阐述在第四支柱（转化生态）中如何依托 I-Corps、国家设计网关与风险资本共担机制打通实验室到代工厂转化路径。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统梳理 2011 年 NSF 设立 I-Corps 以来，美国科学资助政策从[[Curiosity-Driven Research|纯基础研究]]向应用启发与[[Academic Entrepreneurship|学术创业]]转型的历史脉络。

@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将贝尔实验室定位为[[Pasteur's Quadrant|巴斯德象限]]的最高组织典范（晶体管发明与香农信息论），指出[[Corporate R&D Labs|企业中央实验室]]衰落导致大学单 PI 实验室与初创企业之间出现了中等规模工程公共品的结构性空白，论证设立[[Focused Research Organization|聚焦研究组织]]（FRO）与 [[National Science Foundation|NSF TIP]] X 实验室以填补这一历史断层的政策必要性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 基于对贝尔实验室微观探索历史的长期[[Participant Observation|参与观察]]，系统论证发现与发明之间相互滋养的非线性循环关系，批判基础与应用两分法的政策危害，并呼吁联邦公共研发资金应重点资助具有明确[[Long-Term Public Utility|长期公共效用]]的应用基础研究。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽考据贝尔实验室如何通过 1951 年晶体管研讨会、宽松的员工离职创业政策以及 15 家直接衍生企业，成为全美半导体产业技术扩散与[[Human Capital Theory|人力资本]]培育的最关键母体。

@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Externalization
@@ -189,7 +189,7 @@ updated: 2026-10-16
 
 ## 论证索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 93)]] — 阐述施里韦尔在柏林洪堡大学结合[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]理论与[[World-Systems Theory|世界体系理论]]创立“向世界参照外化”比较[[Paradigm|范式]]的学术史背景。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 将外化概念对称性地嵌入[[Cross-National Attraction|跨国吸引力]]情境地图，通过美苏与德国历史案例奠定双向外化[[Paradigm|范式]]。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合[[Niklas Luhmann|卢曼]]系统论阐发外部参照点的内部建构性，通过解构多国对芬兰 [[PISA]] 奇迹的随心投射，揭示外化化解本土改革僵局的机制。

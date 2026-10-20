@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Influences Across Cultures
@@ -240,6 +240,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合挪威改革委员会史料、美欧[[Common School Movement|公学运动]]考察文本及半个世纪期刊[[Meta-analysis|元分析]]，论述跨文化影响[[Paradigm|范式]]的学科遗产价值与[[Epistemology|认识论]]合法性。
 

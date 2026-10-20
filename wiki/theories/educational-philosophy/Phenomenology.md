@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Phenomenology
@@ -241,7 +241,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 阐释现象学作为[[Interpretive Paradigm|诠释范式]]基石的[[Epistemology|认识论]]与胡塞尔[[Epoché|悬置]]；Hycner 的 15 步访谈分析见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Ch. 21]]，现象学还原与主题聚类原则见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Ch. 29]]。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024, p. 4)]] — 深入解析现象学作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）哲学根基的实践转化与政策抗衡。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 借助身体现象学与教化哲学，全面反思可见学习对学习可见性的机械执念。

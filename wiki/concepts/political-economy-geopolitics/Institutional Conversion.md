@@ -47,7 +47,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Conversion
@@ -193,7 +193,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
 

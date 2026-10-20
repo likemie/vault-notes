@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Jianwei Zhang
@@ -125,7 +125,7 @@ updated: 2026-10-16
 > - **方法路径** 创立的探究线索分析法（Inquiry Threads Analysis）与整合[[Interactional Ethnography|互动民族志]]的长周期课堂事件追踪[[Paradigm|范式]]，成为国际 CSCL [[Domain Analysis|领域分析]]协作认知进展的标准工具之一。
 > - **教学实践路径** 其基于原则的[[Design-Based Research|基于设计的研究]]成果直接指导了美国、新加坡、中国香港及中国大陆多所创新实验学校的科学教育改革与[[Theory of Knowledge|知识论]]坛课堂实践。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 历时 7 个月实证追踪五年级人体系统探究课堂，系统阐明[[Reflective Structuration|反思性结构化]]如何赋能学生共建意向领域与弹性小组并产出深层[[Scientific Explanation|科学解释]]。
 
 ---

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Creativity, Action, Service
@@ -197,7 +197,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从最低制度要求（Ch. 3）到莫希[[International Schools|国际学校]]的社区服务（Ch. 4）与 Bellaire 高中路径（Ch. 6）；定义与评价争议见 [[Argument_Peterson_1987_OpenCourt_Ch07|Ch. 7]]。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 [[Chinese Academy of Sciences|CAS]] 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

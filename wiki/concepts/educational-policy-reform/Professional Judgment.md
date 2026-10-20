@@ -117,7 +117,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Professional Judgment
@@ -421,7 +421,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单[[Disciplina and Doctrina|规训]]如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。

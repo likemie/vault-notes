@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Total Institution
@@ -153,6 +153,6 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.3)]] — 运用[[Michael Gove|戈夫]]曼关于机构储物与二次调整的[[Narrative Analysis|叙事分析]]，示范如何将个体微观行为置回全控机构的制度情境中进行解释。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 引用戈夫曼关于全控机构的经典界定，批判当代西方顶尖大学在内部文化封闭与无摩擦[[Disciplina and Doctrina|规训]]下对学生与管理者智识勇气的系统性磨灭。

@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Community College Strategic Anchoring
@@ -143,5 +143,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统总结俄亥俄新奥尔巴尼与得克萨斯泰勒半导体集聚区依托社区学院联盟构筑区域技能枢纽的政策与实践经验。

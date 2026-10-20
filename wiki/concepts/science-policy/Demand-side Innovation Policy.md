@@ -2,7 +2,7 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Grand Challenges]]"
   - "[[Champ]]"
-  - "[[Growth]]"
   - "[[Directionality of Innovation]]"
   - "[[Learning Economy]]"
   - "[[Demonstration Effect]]"
@@ -57,7 +56,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -83,7 +82,7 @@ aliases:
 > [!citation-card] 需求拉动与战略采购对重大科技创新的塑造
 > 无论是第二代[[Big Science|大科学]]项目还是当代应对重大社会挑战，仅仅依靠供给端提升技能与资本是不够的。国家通过庞大的公共采购网络充当了新兴技术的第一大买家，为企业探索高风险创新提供了确定性的初始市场规模。在冷战时期，美国军方与太空项目对硅谷半导体的规模采购直接降低了芯片制造成本，催生了民用计算机工业；而在当代，绿色公共建筑与电动交通采购正发挥着同等的市场塑造力量。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 >
-> *Addressing [[Grand Challenges]]... requires tilting the playing [[Champ|field]] in the direction of the desired goals—creating and shaping markets which increase the expectations of business around future [[Growth]] opportunities... Public procurement has historically been the key instrument through which missions created demand for new technological solutions.*
+> *Addressing [[Grand Challenges]]... requires tilting the playing [[Champ|field]] in the direction of the desired goals—creating and shaping markets which increase the expectations of business around future growth opportunities... Public procurement has historically been the key instrument through which missions created demand for new technological solutions.*
 
 > [!boundary]- 概念边界
 > - **不等于 传统的行政后勤政府采购** 传统采购追求购买成熟定型的现成商品并追求绝对最低价格；需求侧创新政策购买的是尚不存在或需定制研发的功能解决方案，愿意承担早期探索溢价与试错风险。
@@ -222,7 +221,7 @@ aliases:
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国军方半导体、计算机与软件采购合同如何充当创新奖金与先导用户，降低新创企业进入壁垒并催生商用通用市场，同时揭示需求侧采购在技术成熟期的效力衰减边界与能源政策启示。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机产业发展的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何释放 20%–30% 的[[Learning Economy|学习经济]]效应并促使硬件价格暴跌十倍以上。

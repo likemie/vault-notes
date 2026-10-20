@@ -163,7 +163,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]微观靶向战略视角，系统阐述 1978 年设立的 I/UCRC 如何开创大学聚焦特定技术痛点的公私协作先河，并实证指出全美此类中心实现了 1:10 的企业[[Counterpart Funds|配套资金]]杠杆。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 详尽回顾阿特金森出任 [[National Science Foundation|NSF]] 主任期间打破战后单一自由探索教条、设立 I/UCRC 项目的制度背景与多方博弈历史。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合大学研究中心 20 年演进数据，系统剖析从 I/UCRC 狭窄课题向 [[Engineering Research Centers|ERC]] 大学科系统整合中心升级的组织机制与治理张力。

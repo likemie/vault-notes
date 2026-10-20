@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Practitioner-in-Residence
@@ -141,5 +141,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述驻校实践者项目与国家工匠学者计划在破除学术阶梯垄断、重建[[Engineering Education|工程教育]]车间实操中的政策设计与实施路径。

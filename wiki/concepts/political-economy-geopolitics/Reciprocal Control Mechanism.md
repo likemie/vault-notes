@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reciprocal Control Mechanism
@@ -156,5 +156,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 结合阿姆斯登理论与现代附加条件分类学，系统比较美欧半导体法案中对等控制机制的制度形态、约束强度与执行困境（pp. 14–17）。

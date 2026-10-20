@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Friedrich List
@@ -111,7 +111,7 @@ updated: 2026-10-15
 > - **政策路径** 直接塑造了普鲁士与 19 世纪中后期统一德国的技术教育网络、铁路统一规划及工业追赶政策，并成为 20 世纪东亚后发国家（如日本、韩国）产业政策的重要思想范本。
 > - **跨国传播** 李斯特思想在 19 世纪中叶传播至美国、日本（明治维新时期广泛译介）及俄国，成为非英美核心区抗衡自由放任贸易学说的关键理论武器。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 将李斯特追认为国家创新系统理论的真正思想源头，揭示其关于无形投资、技术教育与战略政策协调的洞见对反思全球化迷思的核心价值。
 
 ---

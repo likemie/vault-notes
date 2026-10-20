@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Matthew Arnold
@@ -130,7 +130,7 @@ updated: 2026-10-15
 > - **政策路径** 推动了英国维多利亚中晚期从中等学校调查委员会向 1902 年《巴尔福教育法》（Balfour Act）的演进，为英国告别纯粹私人与教会办学、建立地方教育当局（LEAs）统筹的公立中等学校体系提供了强有力的思想辩护。
 > - **跨国传播** 阿诺德的欧陆考察成为英美世界理解法国中央集权制公学与德国新人文主义文理中学的经典文献。
 
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统考察阿诺德通过图卢兹公学考察确立国家文化教化功能，推动比较教育走向历史-哲学文化母题的思想史贡献。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统评析阿诺德在 19 世纪欧洲比较教育大学建制缺失背景下，依托皇家督学公职身份开创实证考察与文化解释兼备的政策改良进路（pp. 88–89）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第一代与第二代论述代际演进，阐述阿诺德如何依托英法教育对比突破自由放任教条、推动国家介入公共教育体系建设。

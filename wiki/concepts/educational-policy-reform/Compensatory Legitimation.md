@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Compensatory Legitimation
@@ -176,7 +176,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细论证墨西哥后革命国家法团体制下成人教育与基础教育的补偿性合法化机制，并提供 1960–1970 年代拉美教育扩张与文盲率对峙的宏观历史数据。
 
 ---

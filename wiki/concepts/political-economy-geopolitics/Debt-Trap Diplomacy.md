@@ -178,5 +178,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用叙事[[Case Study|案例研究]]揭示中国行业特色大学在海外重点基建项目中开展定向人才培养的微观实证，以阿马蒂亚·森的[[Capability Approach|能力进路]]与大学非商业独立性系统解构了债务陷阱外交论调。

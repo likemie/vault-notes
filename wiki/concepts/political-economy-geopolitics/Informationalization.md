@@ -52,7 +52,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Informationalization
@@ -211,7 +211,7 @@ updated: 2026-10-17
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chan_2015_Intersect|Chan, 2015]] — 剖析苏联在工业化鼎盛期错失信息化革命的历史实证与制度机制。
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示教育信息化如何推动新西兰公立教育[[Exogenous Privatisation|外生私有化]]与成本向下转嫁的实证分析。
 

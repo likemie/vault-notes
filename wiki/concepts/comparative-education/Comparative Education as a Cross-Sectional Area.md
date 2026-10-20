@@ -50,7 +50,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Comparative Education as a Cross-Sectional Area
@@ -193,5 +193,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统梳理欧洲比较教育学科演进史，详尽分析安维勒将学科界定为交叉领域的制度意义及其与英国独立分支模式的历史性融合。

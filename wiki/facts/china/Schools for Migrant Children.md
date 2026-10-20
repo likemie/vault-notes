@@ -14,7 +14,7 @@ subtype: institution
 region: china
 fact_region: "china"
 fact_kind: "institution"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Migrant Children]]"
   - "[[Further Education]]"
   - "[[Migrant Education]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Spatial Governmentality]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Schools for Migrant Children
@@ -124,7 +123,7 @@ updated: 2026-10-16
 > [!citation-card] 2006 年北京关停打工子弟学校与空间人口调控
 > 索贝与菲舍尔援引法兰奇的调查指出，中国地方政府针对民办打工子弟学校的清理取缔，往往直接服务于大城市控制人口规模与空间重构的行政逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 >
-> *"In China, 2006 saw the forced closing of over 100 migrant-sponsored schools in Beijing... in an effort to control municipal population [[Growth]] as well as improve school safety standards. In the context of an estimated 20 million migrant children, educational access becomes a lever for spatial population management."*
+> *"In China, 2006 saw the forced closing of over 100 migrant-sponsored schools in Beijing... in an effort to control municipal population growth as well as improve school safety standards. In the context of an estimated 20 million migrant children, educational access becomes a lever for spatial population management."*
 
 ---
 

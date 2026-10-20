@@ -71,7 +71,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Policy Entrepreneur
@@ -245,7 +245,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育中政策企业家跨界无缝切换的机制，揭示[[Dual-Entity Legal Structure|双层法人架构]]与学术资本商业化变现路径。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用结合，揭示跨界行动者动员实证差距指标突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 采纳。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家引入理性主义比较教育发展框架，解释分散权威空间中基于基准数据的[[Governing at a Distance|远处治理]]协调机制。
