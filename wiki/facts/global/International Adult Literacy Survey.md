@@ -69,7 +69,7 @@ updated: 2026-10-21
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 项目假说确立：素养不应被视为简单的“识字或文盲”二元状态，而是一个面向日常真实生活情境的连续能力谱系；通过测量处理散文文本、文档图表与量化数据的综合能力，能够客观反映一国劳动力素质与经济潜能。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 27)]]
+> 项目假说确立：素养构成一个面向日常真实生活情境的连续能力谱系，超越传统的“识字或文盲”二元划分；通过测量处理散文文本、文档图表与量化数据的综合能力，能够客观反映一国劳动力素质与经济潜能。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 27)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立跨语言、跨文化的素养能力统一标尺，为各国内部终身学习政策与技能培训提供量化决策依据。
@@ -78,7 +78,7 @@ updated: 2026-10-21
 > - **背景关联分析** 同步采集受试者的正规受教育年限、在职培训经历、就业状况与收入水平，揭示素养与经济收益的实证关联。
 
 > [!citation-card] 经合组织论功能性素养评价的范式转向
-> 国际成人素养调查开创了一种面向现实生活的全新评估进路：它不再受限于特定学校大纲的完成情况，而是测度人们在成年日常生活中理解和运用信息的核心能力，从而确立了终身学习与人力资本监测的全球标尺。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 27)]]
+> 国际成人素养调查开创了一种面向现实生活的全新评估进路：系统测度人们在成年日常生活中理解和运用信息的核心能力，从而确立了终身学习与人力资本监测的全球标尺。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 27)]]
 >
 > *IALS established a critical precedent for assessing cross-culturally valid competencies relevant to everyday adult life, shifting the international policy gaze from school inputs to lifelong human capital.*
 
