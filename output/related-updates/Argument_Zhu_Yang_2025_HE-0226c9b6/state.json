@@ -7,7 +7,7 @@
   "batches": [
     {
       "number": 1,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -56,7 +56,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T05:34:19.030237+00:00"
     },
     {
       "number": 2,
