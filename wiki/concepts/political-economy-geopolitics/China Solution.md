@@ -29,10 +29,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # China Solution

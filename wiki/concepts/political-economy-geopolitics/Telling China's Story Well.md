@@ -9,7 +9,7 @@ aliases:
 summary: "中国官方新时代对外传播与意识形态话语建构的战略范式，旨在通过多元主体主动宣介中国发展成就、制度道路与文明价值，以抗衡西方话语霸权并争夺国际话语权"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
