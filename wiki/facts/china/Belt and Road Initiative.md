@@ -13,7 +13,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Liu_2025_IndHE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-10-19
@@ -139,6 +140,8 @@ updated: 2026-10-20
 > - **\$135K** AUA 设立的单项学者联合研究资助上限（美元）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 > - **100%** 重点定向工程教育项目国际留学生毕业后全员回流母国参与关键基建运营的履约率。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
 > - **80B m³** 中亚天然气管道 D 线全线贯通后预计向中国年输送天然气规模，占当时中国天然气进口总量的 40% 以上，依托定向培养的塔吉克斯坦本土技术梯队参与运维。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
+- **98,823 (20.08%)** （人） 2018 年在华东盟留学生总数达 98,823 人，占全华国际学生总数的 20.08%，较 2008 年增长近三倍，印证了倡议对周边区域生源流动的强大带动效应。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1042, 1050)]]
+- **2.36 倍** 2015 至 2019 年间中国对柬埔寨硬性基建直接援助（11.60 亿美元）相较于文教、社会与交叉领域援助总额（4.92 亿美元）的倍数差距，揭示出一带一路高教与人文合作滞后于工程投资的结构性特征。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1053–1054)]]
 
 ---
 
@@ -181,4 +184,5 @@ updated: 2026-10-20
 > | [[Comparative Case Study]] | Method | 学界用于实证比较一带一路框架下多元大学联盟治理异同的质性研究方法。 |
 > | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 采用叙事案例研究系统评估中国行业特色高校在“一带一路”重点能源与交通工程中开展知识外交与四方协同定向培养的实证文献。 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析中非合作论坛与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
+| [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与天下观视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
 

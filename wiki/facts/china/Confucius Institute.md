@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-10-19
@@ -120,6 +121,7 @@ updated: 2026-10-20
 > - **1000+** 全球开办的中小学孔子课堂总数（所）。
 > - **160+** 孔子学院与课堂覆盖的国家和地区数量（个）。
 > - **153** （所） 截至2019年在54个“一带一路”沿线国家建立并运营的孔子学院总数。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
+- **27** （个） 截至2017年柬埔寨皇家科学院孔子学院在全柬设立的教学班与下设课堂总数，展现出在东南亚周边国家的密集下沉办学网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1047)]]
 
 ---
 
@@ -156,3 +158,4 @@ updated: 2026-10-20
 > | [[Hard Power]] | Concept | 剖析文化软实力传播机制与国家硬实力支撑之间相互依存的理论透镜。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 孔子学院自 2016 年起深度嵌入一带一路沿线人文交流与语言互通布局。 |
 | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性文献。 |
+| [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视柬埔寨孔子学院下设课堂网络、本土化教材编撰及文化传播向当代科技生活转型的田野文献。 |

@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-10-20
@@ -82,6 +83,7 @@ updated: 2026-10-20
 
 > [!pathways]- 业务运行机制
 > - **案例研讨与理论讲授并重** 将新结构经济学等本土创新理论同国际公共管理前沿课程结合，围绕经济特区、招商引资与产业政策开展深度课堂剖析。
+> - **中国浸润实训与高强度全额资助** 设立为期一学期的“中国浸润项目（China Immersion Program）”，组织学员深入特区与改革开放一线实地研学，并由全额奖学金配套调研津贴、安家费与国际往返机票。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1052)]]
 > - **实地考察与政策复盘** 定期组织学员赴深圳、浙江、江苏等中国经济改革先行区与重点产业集群开展现场田野调研，直观复盘中国基层治理与工业化演进经验。
 > - **长效智库对话与校友联络** 建立南南合作年度发展论坛与全球校友网络，为毕业回国的各国高级官员提供持续的政策咨询与多边智库交流渠道。
 
@@ -113,6 +115,7 @@ updated: 2026-10-20
 > - **对非教育合作层次的历史性提升** 金（[[Kenneth King]]）指出，南南学院的创立打破了传统对外援助仅局限于普通本专科学历资助或基层工匠短训的刻板边界，将合作阵地直接推向发展中国家的核心决策大脑。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 > - **自主发展知识生产与国际传播** 依托北京大学深厚的学科积淀，学院成功构建了一套不同于华盛顿共识的发展政策话语，为全球南方探索独立自主的发展道路提供了系统的知识参照体系。
 > - **跨国战略互信与民心相通的深层纽带** 培育了一大批深刻理解中国改革开放逻辑、认同[[South-South Cooperation|南南合作]]平权理念的国际青年治理领袖，构成了跨国重大经贸与产能投资最坚实的社会精英桥梁。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
+> - **实用主义中国治理经验的文化认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，南南学院通过深度比较中国经济体制改革、对外开放及一带一路倡议实践，有效促进了东南亚及全球南方学员对中国当代发展模式与治理道路的实质性认同，成为展示实用主义中国例外论卓越与善意的代表性窗口（pp. 1051–1052）。
 
 ---
 
@@ -139,3 +142,4 @@ updated: 2026-10-20
 > | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 宣布设立南南学院并持续提供多边指标与高端生源依托的重要平台。 |
 > | [[Belt and Road Initiative]] | Fact (Policy) | 学院人才培养与智库成果深度服务的高质量跨国共建网络。 |
 > | [[Kenneth King]] | Person | 将南南学院作为对非合作向治理经验互学深化典型案例进行论证的比较教育学者。 |
+| [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视南南学院中国浸润项目在推动发展中国家精英认同中国治理经验与展示实用主义例外论中的功能。 |

@@ -552,7 +552,7 @@
     },
     {
       "number": 12,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -588,11 +588,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T12:08:38.719684+00:00"
     },
     {
       "number": 13,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -625,7 +626,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T12:11:07.141921+00:00"
     }
   ]
 }
