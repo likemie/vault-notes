@@ -3,7 +3,7 @@
   "root": "/Users/shaoyangwu/Documents/MyNotes",
   "created": "2026-10-20T04:52:23.092707+00:00",
   "argument": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md",
-  "argument_hash": "aab54772b086fe883531ceed09308f52da7f3323fd801ae1e6ec8e5f94869f1a",
+  "argument_hash": "a663a30e23ac420fd1fd43c195a1a64a390ed464fe599aef2fa8f1778eedd5f3",
   "batches": [
     {
       "number": 1,
@@ -61,7 +61,7 @@
     },
     {
       "number": 2,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -107,7 +107,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T06:37:06.824839+00:00"
     },
     {
       "number": 3,
