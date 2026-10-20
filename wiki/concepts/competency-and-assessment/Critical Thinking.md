@@ -6,9 +6,9 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 120
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 119
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking
@@ -100,7 +100,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Multimodal Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Content Analysis]]"
 related_persons:

@@ -10,7 +10,7 @@ aliases:
 summary: "指美国高等教育中本科生在攻读学士学位期间跨越两所或两所以上大学或社区学院修读学分、转学或联合注册的求学形态。与欧洲政策话语将跨国跨校流动赞颂为一体化资产形成鲜明对照，美国高等教育政策话语往往将多机构就读视作延长毕业年限、增加财政负担并拉低系统完备率的系统效率损耗。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,8 +32,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governmentality]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

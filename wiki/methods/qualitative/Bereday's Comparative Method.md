@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Constant Comparison]]"
   - "[[Problem Approach]]"
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[George Bereday]]"

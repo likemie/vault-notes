@@ -6,7 +6,7 @@ aliases:
 summary: "对支撑学科的基本概念、原理与理论的理解，是知识获取类学习结果；问题本位学习通过分析真实问题促进对理论概念的深层掌握。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Theoretical Knowledge
@@ -88,5 +87,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]显示 PBL 对理论性知识的效应较高（d = 0.59）；短期知识获取较低，但长期保持更优（p. 963）。

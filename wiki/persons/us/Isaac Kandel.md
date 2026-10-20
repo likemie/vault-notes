@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 57
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -56,7 +56,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Philosophical Analysis in Education]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

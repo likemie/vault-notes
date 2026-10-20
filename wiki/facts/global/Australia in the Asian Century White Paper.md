@@ -12,7 +12,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -25,11 +25,13 @@ tags:
 - region/asia
 - region/australia
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[International Education]]"
   - "[[Teacher Mobility]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Developmentalism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Australia in the Asian Century White Paper
@@ -47,7 +49,7 @@ updated: 2026-10-16
 ## 背景
 
 > [!info]
-> 2012 年，澳大利亚政府发布了一份重要报告——通常称为"Henry Report"——指出 21 世纪很可能是一个"亚洲世纪"，澳大利亚人民和机构必须认识到这一事实对其未来繁荣的影响([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])。该白皮书是在亚洲经济持续高速增长、全球经济和地缘政治重心向亚洲转移的背景下制定的。
+> 2012 年，澳大利亚政府发布了一份重要报告——通常称为"Henry Report"——指出 21 世纪很可能是一个"亚洲世纪"，澳大利亚人民和机构必须认识到这一事实对其未来繁荣的影响([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])。该白皮书是在亚洲经济持续高速增长、全球经济和[[Geopolitics|地缘政治]]重心向亚洲转移的背景下制定的。
 
 ## 政策文本摘要
 
@@ -80,11 +82,11 @@ updated: 2026-10-16
 
 > [!warning]
 > - Rizvi 暗示该白皮书将亚洲崛起主要框定为"澳大利亚的机遇"，其底层逻辑仍是[[Competitiveness|国家竞争力]]而非对称性合作——这与后疫情时代所需的"超越商业逻辑的国际化"形成张力([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–102]])
-> - 白皮书的乐观预期在 COVID-19 疫情和中美地缘政治紧张后受到严峻考验——过度依赖亚洲学生学费的澳大利亚大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
+> - 白皮书的乐观预期在 COVID-19 疫情和中美[[Geopolitics|地缘政治]]紧张后受到严峻考验——过度依赖亚洲学生学费的澳大利亚大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
 
 ## 相关概念／理论
 
 > [!tip]-
-> - [[Geopolitics of Knowledge]] — 白皮书体现了知识地缘政治在国家政策层面的运作：国家通过战略投资将自身定位为知识流动网络中的核心节点
-> - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从发展主义理性转向市场理性的政策标志
+> - [[Geopolitics of Knowledge]] — 白皮书体现了知识[[Geopolitics|地缘政治]]在国家政策层面的运作：国家通过战略投资将自身定位为知识流动网络中的核心节点
+> - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从[[Developmentalism|发展主义]]理性转向市场理性的政策标志
 

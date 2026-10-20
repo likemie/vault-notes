@@ -4,7 +4,7 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,13 +40,12 @@ related_arguments:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Correlational Research]]"
   - "[[Qualitative Interview]]"
   - "[[Ethnography]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Typification
@@ -191,7 +190,7 @@ updated: 2026-10-16
 
 ## 实证数据
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化、理想类型与传记情境；全书另述课堂标签建构、[[Qualitative Interview\|质性访谈]]编码与[[Ethnography\|民族志]]中的常识解释。
 
 ---

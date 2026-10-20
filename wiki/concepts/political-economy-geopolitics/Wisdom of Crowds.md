@@ -6,7 +6,7 @@ aliases:
 summary: "英国人类学家高尔顿通过 1906 年普利茅斯家畜市集估重实验开创的集体智能概念；指出在个体判断独立且信息分散的情境下，离散估计的统计中位数能精准逼近客观真理；当代反思则揭示将该逻辑盲目泛化至资本市场配置会诱发投机泡沫与公共治理创新荒漠。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Dance Language of Bees]]"
   - "[[Consumer Internet]]"
   - "[[Market Triumphalism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Innovation Desert]]"
   - "[[Public Value]]"
   - "[[Technological Republic]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Wisdom of Crowds
@@ -91,7 +90,7 @@ updated: 2026-10-08
 
 > [!factors] 群体智慧成立的三大支柱与资本泛化失灵点
 > - **认知多样性（Cognitive Diversity）** 参与估计的个体拥有不同的知识背景、视角与启发式线索，确保个体的估计误差呈现随机正态分布而非系统性偏向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
-> - **判断独立性（Independence of Judgments）** 个体的意见形成过程不受他人影响或舆论压力[[Disciplina and Doctrina|规训]]，有效阻断模仿欲望与羊群效应。
+> - **判断独立性（Independence of Judgments）** 个体的意见形成过程不受他人影响或舆论压力规训，有效阻断模仿欲望与羊群效应。
 > - **去中心化（Decentralization）** 信息分布于基层一线节点，个体依据局部掌握的事实做出自主判断。
 > - **统计汇聚机制（Statistical Aggregation）** 存在有效将离散个体判断转化为单一集体输出的机制（如中位数、均值或预测市场竞价）。
 > - **资本市场的传导失灵（Capital Allocation Failure）** 资本市场缺乏客观物理量裁判，投资者受同侪示范传染，所谓“市场智慧”沦为投机风口迎合与公共道德逃避。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]

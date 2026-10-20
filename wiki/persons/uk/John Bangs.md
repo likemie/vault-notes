@@ -7,7 +7,7 @@ summary: "英国资深教育政策学者与教师工会战略家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
   - "[[Self-Efficacy]]"
   - "[[Research Utilization]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Action Research]]"
   - "[[Questionnaire]]"
   - "[[Scale Development]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Francis Galton]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # John Bangs
@@ -103,7 +101,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1995–2010 年 — [[Teacher Professional Agency\|教师专业自主权]]与工作负荷实证批判期** 深刻反思撒切尔主义以来[[New Public Management\|新公共管理]]对英国教师队伍的[[Disciplina and Doctrina\|规训]]，依托剑桥大学跨界合作，从实证角度揭示过度行政干预对教师心理效能感与专业忠诚度的破坏。
+> - **1995–2010 年 — [[Teacher Professional Agency\|教师专业自主权]]与工作负荷实证批判期** 深刻反思撒切尔主义以来[[New Public Management\|新公共管理]]对英国教师队伍的规训，依托剑桥大学跨界合作，从实证角度揭示过度行政干预对教师心理效能感与专业忠诚度的破坏。
 >   - **代表著作** *Re-inventing Schools, Re-forming Teaching: John Bangs, John MacBeath and Maurice Galton* (Routledge, 2010)。
 >   - **关键概念／方法** [[Professional Judgment]]、[[Action Research]]、[[Questionnaire]]。
 >   - **阶段转向** 从传统的劳资集体谈判诉求，转向依托严肃学术实证研究反击行政官僚主义，奠定工会循证倡导的学科基础。
@@ -143,7 +141,7 @@ updated: 2026-10-16
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession\|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act\|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
 > - **跨国传播** 将英美工会参与[[Output-Oriented Governance\|循证治理]]的经验拓展至[[OECD\|经合组织]]全部成员国，为拉美、亚太等发展中地区的教师专业化发展提供了跨国行动蓝本。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 详细记录了班斯关于 EI 智库战略、TALIS 量表重塑与 ISTP 峰会十一年运作机制的系统论述。
 
 ---

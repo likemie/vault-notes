@@ -6,7 +6,7 @@ summary: "不同分析单位层次使用不同类型样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -26,7 +26,6 @@ related_methods:
   - "[[Purposeful Sampling]]"
   - "[[Convenience Sampling]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Multilevel Mixed Methods Sampling
 
@@ -79,5 +78,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie and Tashakkori（2009）的多层次[[Mixed Methods Research\|混合方法]]抽样设计及其[[School Effectiveness\|学校效能]]研究实例。

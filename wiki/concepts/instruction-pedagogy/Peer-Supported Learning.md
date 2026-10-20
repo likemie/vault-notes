@@ -30,7 +30,6 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility]]"
   - "[[Effective Teaching]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Performance Pay]]"
   - "[[Ontology]]"
@@ -46,6 +45,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Scaffolding]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Benevolence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Peer-Supported Learning
@@ -80,7 +80,7 @@ updated: 2026-10-17
 > [!def] 核心定义
 > **同伴互助学习（Peer-Supported Learning）** 是一种在教育[[Champ|场域]]中通过平权或准平权的人际互动、协作对话与经验共享来促进[[Knowledge Building Theory|知识建构]]与专业成长的系统性学习[[Paradigm|范式]]。该概念包含两个不可分割的核心实践维度：
 > 1. **微观学生维度（Student Peer Tutoring & [[Cooperative Learning]]）** 学生之间跨越能力阶差的结对辅导、小组协同解题与策略分享。在东亚文化脉络中，同伴关系根植于“同学”（一同学习的同道之人）的文化语义，优生帮扶后进生被视为践行慷慨与社会责任的[[Learning Virtues|学习美德]]，后进生则以[[Humility|谦逊]]求教，从而在集体互助中消解孤立竞争的焦虑（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 200–208]]）。在西方循证[[Meta-analysis|元分析]]中，互惠教学与同伴辅导同样展现出极高的学业促进效应（$d = 0.55 \sim 0.74$）。
-> 2. **中观教师维度（Teacher Peer Collaboration & Learning Culture）** 教师团队在教研室与学校组织中形成的关怀、支持、包容试错以及彼此观摩研讨的专业同伴文化（Peer culture among teachers）。[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）与新西兰学者[[Ivan Snook|斯努克]]等人指出，学校教育质量改进与[[Effective Teaching|有效教学]]的根本动力，依赖于教师之间基于互信与共同激情的同伴专业学习网络，而非自上而下的量化[[Disciplina and Doctrina|规训]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
+> 2. **中观教师维度（Teacher Peer Collaboration & Learning Culture）** 教师团队在教研室与学校组织中形成的关怀、支持、包容试错以及彼此观摩研讨的专业同伴文化（Peer culture among teachers）。[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）与新西兰学者[[Ivan Snook|斯努克]]等人指出，学校教育质量改进与[[Effective Teaching|有效教学]]的根本动力，依赖于教师之间基于互信与共同激情的同伴专业学习网络，而非自上而下的量化规训。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示学习过程具有本质的社会性与关系性，无论是儿童认知发展还是教师专业成长，均深度依赖于去阶层化、充满心理安全感的人际对话网络。
@@ -200,7 +200,7 @@ updated: 2026-10-17
 > *Such a co-operative, trusting and self-critical school atmosphere is the very kind of atmosphere which regimes of performance pay destroy.*
 
 > [!citation-card] [[Jin Li|李瑾]]论东亚“同学”与同伴互助的伦理底色
-> 在中国传统文化中，“同学”意味着一同向道、相互扶持的学习同伴，而非在赛道上争夺排名的对手。帮助后进同伴被视作践行慷慨、责任与仁爱的[[Learning Virtues|学习美德]]；求教者则以诚挚与[[Humility|谦逊]]的态度坦陈不足。正是在这种互相支撑的人际生态中，优生深化了知识，后进生获得了尊严与归属。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200, 203)]]
+> 在中国传统文化中，“同学”意味着一同向道、相互扶持的学习同伴，而非在赛道上争夺排名的对手。帮助后进同伴被视作践行慷慨、责任与[[Benevolence|仁爱]]的[[Learning Virtues|学习美德]]；求教者则以诚挚与[[Humility|谦逊]]的态度坦陈不足。正是在这种互相支撑的人际生态中，优生深化了知识，后进生获得了尊严与归属。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200, 203)]]
 >
 > *Learning peers are viewed as fellow travelers pursuing common moral and intellectual goals. Helping a peer is regarded as an expression of learning virtues rather than a competitive threat.*
 

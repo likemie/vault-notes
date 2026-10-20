@@ -8,7 +8,7 @@ summary: "美国著名历史学家、政论家、普利策奖得主，长期研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,8 +24,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
   - "[[Moral Dualism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Michael W. Apple]]"
 related_arguments:

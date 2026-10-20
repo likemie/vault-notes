@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 39
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -52,7 +52,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Review]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"

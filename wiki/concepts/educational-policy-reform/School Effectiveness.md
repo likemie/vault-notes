@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,8 +37,8 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Abstract]]"
   - "[[Category Mistake]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Global Educational Discourse]]"
   - "[[New Public Management]]"
   - "[[Determinism]]"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analysis of Variance]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Stephen Ball]]"
   - "[[Jason Beech]]"
@@ -211,7 +210,7 @@ updated: 2026-10-20
 ### 命题五：混淆校内相对效能与校际社会效能导致范畴谬误与责任转嫁
 
 > [!concept-lens] 效能[[Paradigm|范式]]的[[Category Mistake|范畴谬误]]与政治卸责
-> 揭示实证效能研究中混淆微观“校内教学改进（第一类研究）”与宏观“克服社会阶层不平等（第二类研究）”所引发的归因断裂，以及量化数据被政客异化为[[Disciplina and Doctrina|规训]]公立学校的机制。
+> 揭示实证效能研究中混淆微观“校内教学改进（第一类研究）”与宏观“克服社会阶层不平等（第二类研究）”所引发的归因断裂，以及量化数据被政客异化为规训公立学校的机制。
 
 > [!claim]
 > **两类效能研究的范畴谬误与结构性责任隐匿** [[Ivan Snook|斯努克]]等人指出，正统学校效能研究与[[John Hattie|约翰·哈蒂]]（John Hattie）在证据解读中犯下了严重的范畴谬误（Category Mistake）：它们将第一类效能研究（探讨在学生背景同质的前提下，校内教师如何改进教学）的发现，非法外推至第二类效能研究（探讨学校能否克服社会不平等）。大量实证研究（如英国 Gray et al., 1986；新西兰 Harker, 1995）表明，学生家庭背景（[[Socioeconomic Status|SES]]）解释了 70%–80% 的学业总方差，校际净效能差异仅占约 8%–10%。哈蒂与新自由主义政策制定者借“校内教师差异大于校际差异”为由，宣称学校和教师能够单凭教学效能克服贫困，本质上是在用微观教学参数掩盖宏观社会不平等的决定性影响，为政府削减教育经费、推卸社会再分配责任提供了实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
@@ -245,7 +244,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 概念演变与政策历程
 > - **1980 年代 — 实证取向奠基与社会学学科分化** 面对传统教育社会学阶级再生产理论的悲观论调，戴维·雷诺兹（David Reynolds）等学者转向实证组织研究，通过多[[Variable|变量]]回归试图证明“好学校”能克服生源不利条件，奠定学校效能实证量化[[Paradigm|范式]]。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 662–663)]]
-> - **1990 年代 — 英国[[New Public Management|新公共管理]]与 [[Ofsted]] [[Disciplina and Doctrina|规训]]建制** 随着新公共管理（NPM）渗透，英国保守党与工党政府系统吸纳学校效能语言，建立英国教育标准局（[[Ofsted]]）定期督导制与学校公立排行榜，使效能指标转化为国家行政监控工具。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
+> - **1990 年代 — 英国[[New Public Management|新公共管理]]与 [[Ofsted]] 规训建制** 随着新公共管理（NPM）渗透，英国保守党与工党政府系统吸纳学校效能语言，建立英国教育标准局（[[Ofsted]]）定期督导制与学校公立排行榜，使效能指标转化为国家行政监控工具。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
 > - **1996–1997 年 — 学术重商主义转型与国家标准效能司设立** 考恩（Cowen, 1996）揭示英国高校因公共财政缩水而出现“学术重商主义”，将效能知识商品化；1997 年[[Michael Barber|迈克尔·巴伯]]（[[Michael Barber]]）受命执掌英国教育与就业部“标准与效能司”（Standards and Effectiveness Unit, SEU），标志着学校效能研究全面进驻国家政策中枢。[[Argument_Ball_2008_SR|(Ball, 2008, p. 663)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **2000 年代 — 跨国教育集团与全球教育治理市场化扩张** [[Nord Anglia Education|诺德安达]]（Nord Anglia）与环球教育（[[GEMS Education|GEMS]]）等营利性跨国教育服务巨头兴起，与高校国际发展部联手将效能咨询向中东、拉美输出；[[World Bank|世界银行]]与[[OECD|经合组织]]将其编织进[[Global Educational Discourse|全球教育话语]]，确立为全球教育转移的主导范式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–348)]]
 > - **2009 年 — 两类学校效能范式辨析与[[Category Mistake|范畴谬误]]批判** [[Ivan Snook|斯努克]]等人系统梳理学校效能学术史，确立区分第一类（校内微观改进）与第二类（校际克服社会不平等）效能研究的[[Analytic Framework|分析框架]]，基于新西兰（Harker, 1995）与英国（Gray et al., 1986）实证数据，深刻批判新自由主义政策对两类效能研究的范畴混淆与责任转嫁（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
@@ -269,7 +268,7 @@ updated: 2026-10-20
 > > - **技术官僚与跨国咨询集团（[[Nord Anglia Education|Nord Anglia]], [[GEMS Education|GEMS]]）** 宣称其运营方案与效能指标是基于全球最佳实践的[[General Purpose Technology|通用技术]]，能高效赋能任何社区的学校提升[[Competitiveness|竞争力]]。
 > > - **跨国流动与学术重商主义批判视角（Cowen, 1996; Lyotard, 1984）** 揭示效能知识在后工业时代退化为售卖的商品，大学与跨国资本借助学术重商主义在第三世界开辟市场，将未经验证的异质方案强行输入受援国，造成政策买卖的虚假繁荣。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 >
-> > [!axis] 教师[[Professional Judgment|专业判断]]自主 vs 绩效量化[[Disciplina and Doctrina|规训]]与“归咎学校”政治
+> > [!axis] 教师[[Professional Judgment|专业判断]]自主 vs 绩效量化规训与“归咎学校”政治
 > > 争论评价体制应当信赖教师基于实践情境的专业判断，还是依赖量化指标实施外部刚性问责。
 > >
 > > - **政策绩效管理主义派** 主张唯有通过外部基准、[[Performance Pay|绩效工资]]与 [[Ofsted]] 视导，方能破除教师职业怠惰，保障纳税人资金的产出效率。

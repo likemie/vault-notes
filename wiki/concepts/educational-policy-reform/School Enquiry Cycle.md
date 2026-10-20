@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown等提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究闭环；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Chris Brown]]"
   - "[[Kim Schildkamp]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # School Enquiry Cycle
@@ -279,7 +278,7 @@ updated: 2026-10-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统评述 Brown 等的学校[[Inquiry Cycle\|探究循环模型]]，确立其在多源[[Evidence-Informed Practice\|证据知情实践]]中的核心操作地位。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰 79 所小学调查中实证诊断探究循环的四因素支撑生态，揭示末端评价环节（67%）的制度性断裂与诱发[[Activity Traps\|活动陷阱]]的内在机制。

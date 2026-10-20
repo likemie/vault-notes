@@ -25,13 +25,13 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Educational Meliorism]]"
   - "[[Knowledge Questions]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Migrant Children]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Capital]]"
   - "[[Operationalization]]"
   - "[[Unit of Analysis]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Language Skills]]"
   - "[[Boarding Schools]]"
   - "[[Sedentarism]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Two Problematics of Educational Inclusion and Exclusion
@@ -69,7 +69,7 @@ updated: 2026-10-16
 > - **知识位置** 由[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与斯韦克·林德布拉德（Sverker Lindblad）于 2000 年在《教育研究评论》（*Review of Educational Research*）中提出，由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入空间治理与跨国比较教育学研究中。
 
 > [!claim] 核心判断
-> 分析教育中的包容与排斥必须双轨并进：仅从“公平-参与问题式”出发，只能看到国家作为利益协调者在物质和机会层面的再分配，容易陷入制度[[Educational Meliorism|改良主义]]的盲区；而必须结合“[[Knowledge Questions|知识问题]]式”，解剖教育理性体系如何以“常态/异常”、“卓越/匮乏”的文化图式对学生进行无形归类与资格剥夺。现代学校的“空间实践”（Spatial Practices）正是连接宏观国家行政再分配与微观知识分类[[Disciplina and Doctrina|规训]]的关键物理与象征[[Champ|场域]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
+> 分析教育中的包容与排斥必须双轨并进：仅从“公平-参与问题式”出发，只能看到国家作为利益协调者在物质和机会层面的再分配，容易陷入制度[[Educational Meliorism|改良主义]]的盲区；而必须结合“[[Knowledge Questions|知识问题]]式”，解剖教育理性体系如何以“常态/异常”、“卓越/匮乏”的文化图式对学生进行无形归类与资格剥夺。现代学校的“空间实践”（Spatial Practices）正是连接宏观国家行政再分配与微观知识分类规训的关键物理与象征[[Champ|场域]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 ---
 

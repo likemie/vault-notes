@@ -11,10 +11,10 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理新范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式（Kickert, 1995）。在当代超国家教育治理中，经合组织借新公共管理将“远处掌舵”转化为以跨国比较绩效、国际基准与问责体制为核心的治理技术，引导国家政策服务于知识经济的效率需求（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "higher-education"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/governance
   - level/higher-education
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Block Grants]]"
   - "[[Data Infrastructure]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Return on Investment]]"
@@ -66,8 +65,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: completed
 created: 2026-10-12
@@ -99,7 +97,7 @@ updated: 2026-10-20
 > *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the [[Educational Governance Framework|Educational Governance]] from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
 
 > [!boundary]- 概念边界
-> - 与 [[Governing at a Distance|远处治理]]（Governing at a Distance） 的范式分工 — 尽管两者在当代政策与社会学文献中常被作为间接规制的同义词互换使用，但在思想渊源与研究取向上存在严格分工：远距离操纵是欧陆公共行政学、控制论与[[Policy Network|政策网络]]传统下的实证制度设计（聚焦院校自主、[[Block Grants|统包拨款]]与事后反馈机制）；远处治理则是源自福柯[[Governmentality|治理术]]与拉图尔科学知识社会学的批判政治社会学理论（侧重揭示新自由主义如何通过专业知识、标准化评估量规与[[Data Infrastructure|数据基础设施]]在微观实践中对主体进行隐性[[Disciplina and Doctrina|规训]]与拓扑塑形）。
+> - 与 [[Governing at a Distance|远处治理]]（Governing at a Distance） 的范式分工 — 尽管两者在当代政策与社会学文献中常被作为间接规制的同义词互换使用，但在思想渊源与研究取向上存在严格分工：远距离操纵是欧陆公共行政学、控制论与[[Policy Network|政策网络]]传统下的实证制度设计（聚焦院校自主、[[Block Grants|统包拨款]]与事后反馈机制）；远处治理则是源自福柯[[Governmentality|治理术]]与拉图尔科学知识社会学的批判政治社会学理论（侧重揭示新自由主义如何通过专业知识、标准化评估量规与[[Data Infrastructure|数据基础设施]]在微观实践中对主体进行隐性规训与拓扑塑形）。
 > - 不等于 放任型去管制化（Deregulation）与国家消极弃管 — 去管制化通常主张削减国家职能、削弱公共监管与自由放任；远距离操纵旨在重组国家调控工具、规划议程与信息反馈机制，以提升国家治理的实质有效性，属于国家能力的战略性重构。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 154)]]
 > - 不等于 英美[[New Public Management|新公共管理]]（New Public Management, NPM）执行机构化改革（[[Early Steps|Next Steps]] Agencies） — 英国执行机构化改革侧重政策制定与执行的机械分拆，将公共服务交付转交由商业合同与[[Performance Indicators|绩效指标]]天梯榜约束的执行机构；远距离操纵则针对大学等学术专业网络，保留宏观双向理性对话与统包资助，不推行纯粹市场买卖契约。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 
@@ -110,7 +108,7 @@ updated: 2026-10-20
 > [!genealogy] 学术谱系考证与文献同义混用辨析
 > - **双轨并行而非前后演变** 1985 年荷兰《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书创设荷兰语词汇 *sturen op afstand*，后由欧陆公共行政学者 Frans van Vught (1989) 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） (1995) 系统英译为 *Steering at a Distance*，旨在解决大学半自治专业网络中科层直接管制的失灵；几乎在同一时期，英国社会学家彼得·米勒与[[Nikolas Rose|尼古拉斯·罗斯]]（Miller & Rose, 1990, 1992）结合福柯[[Governmentality|治理术]]（[[Governmentality]]）与拉图尔科学技术学（[[Actor-Network Theory]]），独立铸造了批判空间理论 *[[Governing at a Distance|远处治理]]*（Governing at a Distance）。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继替代。
 > - **当代文献中的功能性同义混用** 在当代[[Policy Science in Comparative Education|政策科学]]、教育社会学与公共治理研究中，由于两者均指涉现代国家从直接科层指挥（“划桨”）后撤为设定框架与问责评估（“掌舵”）的整体治理转向，许多文献常将两者作为功能性近义词（Functional Synonyms）互换使用。
-> - **[[Critical Theory|批判理论]]对实证制度的权力透析** [[Critical Pedagogy|批判教育学]]者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用 Rose & Miller 的 [[Governing at a Distance|远处治理]] 理论，来透析现实中以 Kickert 所倡导的远距离操纵模式为代表的高校放权与质量问责改革，揭示隐藏在“自主与放权”背后的数字指标[[Disciplina and Doctrina|规训]]与主体性重塑机制。
+> - **[[Critical Theory|批判理论]]对实证制度的权力透析** [[Critical Pedagogy|批判教育学]]者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用 Rose & Miller 的 [[Governing at a Distance|远处治理]] 理论，来透析现实中以 Kickert 所倡导的远距离操纵模式为代表的高校放权与质量问责改革，揭示隐藏在“自主与放权”背后的数字指标规训与主体性重塑机制。
 
 > [!contrast-table] 治理调控[[Paradigm|范式]]多维对比
 > | 比较维度 | 古典科层直接控制（Direct Top-down Control） | 远距离操纵（Steering at a Distance） | 市场化[[New Public Management\|新公共管理]]（Market-based NPM） |
@@ -228,7 +226,7 @@ updated: 2026-10-20
 
 > [!debates] 学术争议与批判反思
 >
-> > [!axis] 专业自治自组织活力 vs 财政责任转嫁与微观[[Disciplina and Doctrina|规训]]风险
+> > [!axis] 专业自治自组织活力 vs 财政责任转嫁与微观规训风险
 > > 远距离操纵究竟是在赋权专业机构，还是在转嫁财政危机与加剧微观问责。
 > >
 > > - **实证公共管理学者（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 强调[[Block Grants|统包拨款]]与事后评估打破了传统科层繁琐管制的桎梏，提升了院校面对复杂环境的敏捷适应力。

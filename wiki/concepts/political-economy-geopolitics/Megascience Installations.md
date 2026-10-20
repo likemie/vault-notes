@@ -12,7 +12,7 @@ aliases:
 summary: "在粒子物理、同步辐射、中子源及微纳制造前沿领域建设的高成本大型综合科研基础设施。传统上依赖多边国际合作，当代科技战略推动其向产业开放共享洁净室与中试线，成为支撑微电子与先进制造竞争力的国家基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,15 +25,16 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Geopolitics]]"
   - "[[Valley of Death]]"
+  - "[[South-South Cooperation]]"
   - "[[Paradigm]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Return on Investment]]"
   - "[[Heterogeneous Integration]]"
   - "[[Technology Transfer]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Nikolas Rose]]"
 related_facts:
@@ -111,7 +112,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 提出学者 / 机构 | 实证情境 |
 > |---|---|---|---|
 > | **多边国际共建命题** | 极端高昂造价与技术风险促成跨国联合出资，以分摊财政负担并促进全球要素共享 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] | 美国取消 SSC 后转投 [[CERN]] LHC；多国共建 ITER |
-> | **地缘主权锁定命题** | 地缘政治博弈与制裁风险倒逼部分国家推行本土独资建设，但面临沉重预算挤压 | 同上，pp. 47–49 | 俄[[Nikolas Rose\|罗斯]]单边资助大科学设施，研发总预算仅为美国的 1/13 |
+> | **地缘主权锁定命题** | [[Geopolitics\|地缘政治]]博弈与制裁风险倒逼部分国家推行本土独资建设，但面临沉重预算挤压 | 同上，pp. 47–49 | 俄[[Nikolas Rose\|罗斯]]单边资助大科学设施，研发总预算仅为美国的 1/13 |
 > | **产业中试共享转型命题** | 大科学设施打破唯论文机时分配，向产业开放共享洁净室与中试线以跨越[[Valley of Death\|死亡之谷]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 能源部 28 个用户设施开放机时；[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 降低原型试制成本 |
 > | **后摩尔微纳设施网络命题** | 联邦大科学装置与国家纳米设施跨部门组网，向全美开放极端表征与 300mm 中试产线 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | [[National Science Foundation\|NSF]] NNCI（2000+ 机台）、[[Department of Energy\|DOE]] 国家实验室设施与 [[National Science and Technology Council\|NSTC]] 300mm 产线联动 |
 > | **重资产平台复用命题** | 国家开放设施通过工程咨询与多学科复用，形成超越单一技术周期的转化韧性 | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 亚微米设施与基因枪跨界诞生 |
@@ -151,8 +152,8 @@ updated: 2026-10-20
 > [!dev-timeline] [[Big Science|大科学]]装置演进脉络
 > - **1950s–1980s — 冷战多边科学外交与粒子物理黄金期** [[CERN]] 等国际组织成立，大科学装置作为缓和冷战地缘紧张、共享基础前沿成果的多边科学外交载体蓬勃发展。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
 > - **1970s–1990s — 大学微纳开放用户设施与多边平台探索** 康奈尔大学亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）等大学级大科学平台破冰，通过对外共享机台与工程咨询，服务全美 40 余家机构并向生命科学跨界。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–293)]]
-> - **1990s — 单边主义挫折与全球化深化** 美国国会因预算失控于 1993 年终止 SSC 项目，全面确立了全球物理学界共同资助、共建共享的大科学多边[[Paradigm|范式]]。
-> - **2010s — 地缘政治回潮与技术主权博弈** 大国博弈加剧，俄罗斯等国转向本土单边大科学装置建设，大科学装置重新成为大国彰显科技主权与战略威慑的核心抓手。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
+> - **1990s — 单边主义挫折与全球化深化** 美国国会因预算失控于 1993 年终止 [[South-South Cooperation|SSC]] 项目，全面确立了全球物理学界共同资助、共建共享的大科学多边[[Paradigm|范式]]。
+> - **2010s — [[Geopolitics|地缘政治]]回潮与技术主权博弈** 大国博弈加剧，俄罗斯等国转向本土单边大科学装置建设，大科学装置重新成为大国彰显科技主权与战略威慑的核心抓手。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
 > - **2024 年 — 联邦微电子与先进制造用户设施网络重构** 美国[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中系统统筹 [[National Science Foundation|NSF]] [[National Nanotechnology Coordinated Infrastructure|NNCI]]、[[Department of Energy|DOE]] 国家实验室大科学装置与 NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]] 300mm 工业级中试线，构建支撑芯片底层创新与先进封装的原位表征与原型中试网络。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 > - **2026 年 — 产业中试赋能与国家深科技基础设施体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动能源部 28 个用户设施与 NNCI 微纳洁净室向硬科技初创企业全面开放，共建 GMP 级[[Pilot Scale Platform|中试制造平台]]，实现从纯基础科学探索向国家产业先进制造基座的战略升级。
 

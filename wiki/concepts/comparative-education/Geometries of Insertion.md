@@ -6,7 +6,7 @@ aliases:
 summary: "Robert Cowen（2009）提出的理论关切，指将“情境”驯服为可操作变量后，用于分析将一处所造的思想与实践精确植入另一处的嵌入几何学，并对这种社会克隆技术提出政治、伦理与长时段后果的拷问"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Examination Hell]]"
   - "[[Normal School]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[National Rejuvenation Narrative]]"
   - "[[Recontextualization]]"
 related_theories: []
 related_methods: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Geometries of Insertion
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > 19世纪加拿大上加拿大的教育局长赖森（Egerton Ryerson）等人，为了在新土地上发明社会秩序，主动引入大英帝国的学校几何。他们依靠完全平移的母国教科书、考试体制和[[Normal School\|师范学校]]，企图以极高精度复制英格兰的阶级阶层理念与道德纪律。这种嵌入几何旨在通过教育的物理性同化，消除流民与异质人口的离心力，建立起服务于殖民统治与阶级控制的稳定秩序（p. 318）。
 
 > [!case] 案例三：反向免疫与思想灭绝（民国[[John Dewey\|杜威]]思想的转化）
-> 五四时期中国改革者引介[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]教育思想，试图嵌入美式民主课改几何。但在转译阶段，为了契合本土的抗战与民族复兴需求，移除了杜威思想中激进的民主政治主张，将其重编码为平民教育与个人发展。随着后期中国陷入军阀混战与政局动荡，本土庞大的政治威权与生存危机施加了毁灭性的重力压缩，使杜威的民主几何在实践转化中彻底灭绝，最终仅被退缩和驯化为一种去政治化的实用科学工具（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]）。
+> 五四时期中国改革者引介[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]教育思想，试图嵌入美式民主课改几何。但在转译阶段，为了契合本土的抗战与[[National Rejuvenation Narrative|民族复兴]]需求，移除了杜威思想中激进的民主政治主张，将其重编码为平民教育与个人发展。随着后期中国陷入军阀混战与政局动荡，本土庞大的政治威权与生存危机施加了毁灭性的重力压缩，使杜威的民主几何在实践转化中彻底灭绝，最终仅被退缩和驯化为一种去政治化的实用科学工具（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]）。
 
 ---
 

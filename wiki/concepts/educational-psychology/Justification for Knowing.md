@@ -3,7 +3,7 @@ title: Justification for Knowing
 summary: "衡量个体如何评估知识主张、运用证据，以及如何在不同观点之间进行概率性的评价与辩护。这是高阶认识论理论的核心机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,8 +29,7 @@ related_concepts:
 related_theories:
   - "[[Argumentative Reasoning]]"
   - "[[Reflective Judgment Model]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +38,7 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
 status: active
 created: 2026-08-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Justification for Knowing
@@ -104,6 +103,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — [[Epistemological Theories\|认识论理论]]四维度奠基性重构，系统确立认知的辩护维度。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 揭示生成式 AI 交互中知识辩护方式对[[Epistemic Stances\|认识立场]]与人机共享[[Epistemic Agency\|认识能动性]]的调节作用。

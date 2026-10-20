@@ -12,10 +12,10 @@ aliases:
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/epistemology
   - subject/comparative-education
@@ -29,12 +29,10 @@ related_concepts:
   - "[[Hidden Curriculum]]"
   - "[[Open-Mindedness]]"
   - "[[Normal School]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Influences Across Cultures]]"
 related_theories:
   - "[[Structural Functionalism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Calvin Stowe]]"
@@ -157,7 +155,7 @@ updated: 2026-10-20
 
 > [!tension] 技术可分论 vs. 总体意识形态不可分论
 > - **技术可分论（蓝方）** 斯托、曼等借用先驱主张微观教学法与宏观政治意识形态可以精准分离，技术工具具备中立可移植性。
-> - **总体意识形态不可分论（红方）** 批判学派学者（如阿图塞、[[Henry Giroux|吉鲁]]）主张学校是总体性国家意识形态机器，师资规程、课堂纪律与时间节奏本身就是微观权力[[Disciplina and Doctrina|规训]]的隐蔽载体，不可能实现纯粹去意识形态化的机械抽离。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–134)]]
+> - **总体意识形态不可分论（红方）** 批判学派学者（如阿图塞、[[Henry Giroux|吉鲁]]）主张学校是总体性国家意识形态机器，师资规程、课堂纪律与时间节奏本身就是微观权力规训的隐蔽载体，不可能实现纯粹去意识形态化的机械抽离。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–134)]]
 
 > [!warning] 适用局限
 > 该命题主要适用于识字、算术等基础工具性技能教学法与行政科层规程；对于历史、公民、道德与政治哲学等直接承载意识形态与国家叙事的学科内容，教学法与政治价值往往高度粘连，难以实施绝对分离。

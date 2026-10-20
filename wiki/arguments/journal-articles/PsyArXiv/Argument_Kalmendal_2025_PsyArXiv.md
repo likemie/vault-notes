@@ -46,6 +46,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Feedback]]"
   - "[[School Leadership]]"
+  - "[[Neuromyth]]"
   - "[[Evidence-Based Education]]"
   - "[[Literature Search]]"
 related_theories: []
@@ -83,7 +84,7 @@ title: "Argument_Kalmendal_2025_PsyArXiv"
 argument_key: "Argument_Kalmendal_2025_PsyArXiv"
 argument_display_title: "Visible flaws: A comprehensive quality assessment of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -237,7 +238,7 @@ issuing_organization: ""
 > [!ref-table] 表 2：来自不同研究设计的效应量汇聚情况（p. 16）
 > | 混杂效应量类型 | 影响因素数量 | 占总数比例（%） |
 > |---|---|---|
-> | 混杂组间设计、组内设计与相关性研究 | 30 | 10% |
+> | 混杂组间设计、组内设计与[[Correlational Research\|相关性研究]] | 30 | 10% |
 > | 混杂组间设计与组内前后测设计 | 51 | 17% |
 > | 混杂组间实验设计与相关性研究 | 64 | 21% |
 > | 混杂组内设计与相关性研究 | 7 | 2% |
@@ -407,7 +408,7 @@ issuing_organization: ""
 > | 对比维度 | 评审团高相关度核心因素（前 10 项） | 评审团极低相关度外围因素（后 5 项） |
 > |---|---|---|
 > | **代表性因素** | 教师成就预估（$M=5.00$）、教学反馈（$M=4.75$）、课堂管理（$M=4.75$）。（p. 19） | 母乳喂养（$M=1.00$）、低出生体重（$M=1.25$）、学习风格匹配（$M=1.25$）、国际象棋教学（$M=1.50$）。 |
-> | **学校干预可能** | 教师和校长可以在课堂与日常管理中直接践行和调整。 | 属于早期生理发育、医疗卫生或神经神话，学校与教师无法控制。（pp. 19–20） |
+> | **学校干预可能** | 教师和校长可以在课堂与日常管理中直接践行和调整。 | 属于早期生理发育、医疗卫生或[[Neuromyth\|神经神话]]，学校与教师无法控制。（pp. 19–20） |
 > | **引导改进方向** | 指引学校把有限的时间与精力投入到师生互动等真正有益的环节。（p. 22） | 分散学校注意力，甚至诱导学校购买昂贵而无用的边缘培训项目。 |
 
 #### 2. 从大一统超级排行转向严谨专注的系统评价

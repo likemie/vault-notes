@@ -12,7 +12,7 @@ aliases:
 summary: "约翰·冯·诺依曼于1945年提出的经典通用数字计算机体系结构范式。以存储程序控制与运算器、控制器、存储器及输入输出五大部件为核心，实现软硬件解耦。后摩尔时代正向类脑神经形态与存内计算等非冯架构演进。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_theories:
 related_methods:
   - "[[Perpetual Inventory Method]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"

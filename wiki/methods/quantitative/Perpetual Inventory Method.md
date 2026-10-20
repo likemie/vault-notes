@@ -8,7 +8,7 @@ summary: "通过投资流量数据和折旧率递推估算资本存量的标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Data Transformation]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Perpetual Inventory Method
@@ -113,5 +112,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] — 使用 PIM 对 16 个行业 1950–1989 年的两德资本存量进行递推估算（基线 $\delta = 0.06$），并检验了 $\delta = 0.04$ 到 0.08 范围内的敏感性。

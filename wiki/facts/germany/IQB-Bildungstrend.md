@@ -13,9 +13,9 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "Standing Conference of the Ministers of Education and Cultural Affairs"
@@ -46,6 +46,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[National Education]]"
+  - "[[New Zealand National Standards]]"
   - "[[Vergleichsarbeiten]]"
   - "[[National Educational Panel Study]]"
 related_arguments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # IQB-Bildungstrend
@@ -90,7 +91,7 @@ updated: 2026-10-17
 >
 > 2008年后，IQB 测试周期逐渐形成了自身的基础设施与自主动力，官方层面与 PISA 解耦，转而围绕国家教育标准的监测进行重组……然而，由于国家标准与跨州比较本身脱胎于 PISA，[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 始终致力于测评设计的高度对齐与最大化数据交换。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）
 >
-> *Hence, after 2008, the IQB-test circle gradually developed an own self-dynamic and infrastructure, which was officially decoupled from PISA and instead (re)assembled around the development and monitoring of the [[National Education]] standards... On the other hand, since the development of both the national standards and the national comparison study had gradually emerged (also) from PISA, the KMK... had already opted for a close alignment of the assessment designs.*
+> *Hence, after 2008, the IQB-test circle gradually developed an own self-dynamic and infrastructure, which was officially decoupled from PISA and instead (re)assembled around the development and monitoring of the [[National Education]] standards... On the other hand, since the development of both the [[New Zealand National Standards|national standards]] and the national comparison study had gradually emerged (also) from PISA, the KMK... had already opted for a close alignment of the assessment designs.*
 
 ---
 

@@ -9,9 +9,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 25
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 跨国学术合作组织"
 headquarters: "中国西安"
@@ -25,18 +25,26 @@ tags:
   - region/china
   - level/international
 related_concepts:
-  - "[[Knowledge Diplomacy]]"
-  - "[[Knowledge Power]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Geopolitics of Higher Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Educational Multilateralism]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[People-to-People Connectivity]]"
   - "[[Student Mobility]]"
+  - "[[Scale Enlargement]]"
+  - "[[Normalization through Knowledge Cooperation]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Paradigm]]"
+  - "[[South-South Cooperation]]"
+  - "[[Geopolitics]]"
+  - "[[Knowledge Power]]"
+  - "[[Geopolitics of Higher Education]]"
+  - "[[Construct]]"
   - "[[Soft Power]]"
   - "[[Research Universities]]"
-related_theories: []
-related_methods:
-  - "[[Comparative Case Study]]"
-  - "[[Critical Policy Analysis]]"
+related_theories:
+  - "[[Embodied, Inscribed and Enacted Knowledge]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -44,9 +52,10 @@ related_facts:
   - "[[Belt and Road Education Action Plan]]"
   - "[[Asian Universities Alliance]]"
 related_arguments:
-  - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Liu_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -60,10 +69,10 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 丝绸之路大学联盟（University Alliance of the Silk Road, UASR）是由西安交通大学于2015年倡议发起成立的非官方、开放性跨国高等[[Educational Multilateralism|教育多边合作]]组织，旨在弘扬和平合作、开放包容、互学互鉴、互利共赢的丝路精神，搭建跨区域校际学术交流与人才联合培养平台。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]] 在外向型[[Internationalization of Higher Education|高等教育国际化]]格局中，该联盟展现出低门槛与去中心化特征，成为践行[[Knowledge Diplomacy|知识外交]]的代表性制度载体。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
+> 丝绸之路大学联盟（University Alliance of the Silk Road, UASR）是由西安交通大学于2015年倡议发起成立的非官方、[[Open-Mindedness|开放性]]跨国高等[[Educational Multilateralism|教育多边合作]]组织，旨在弘扬和平合作、开放包容、互学互鉴、互利共赢的丝路精神，搭建跨区域校际学术交流与人才联合培养平台。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]] 在外向型[[Internationalization of Higher Education|高等教育国际化]]格局中，该联盟展现出低门槛与去中心化特征，成为践行[[Knowledge Diplomacy|知识外交]]的代表性制度载体。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2015年5月在古丝绸之路起点中国西安正式成立，响应[[Belt and Road Initiative|一带一路倡议]]关于促进教育互联互通与民心相通的战略构想。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+> - **成立时间 / 创设背景** 2015年5月在古丝绸之路起点中国西安正式成立，响应[[Belt and Road Initiative|一带一路倡议]]关于促进教育互联互通与[[People-to-People Connectivity|民心相通]]的战略构想。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **总部地点 / 业务辐射** 秘书处常设于中国西安交通大学，业务网络辐射亚洲、欧洲、非洲、美洲与大洋洲38个国家和地区的165所正式成员高校及19所观察员高校。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
 > - **法人属性与经费基础** 国际高校自主参与的非营利性学术联合体，运营经费由发起高校自筹配套、专项教育经费补贴与多边科研项目基金共同支持。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **核心宗旨与法定职责** 促进沿线国家高水平大学在[[Student Mobility|学生流动]]、学者互访、课程学分互认、科技联合攻关以及政策智库研究领域的深度合作。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 683)]]
@@ -84,12 +93,12 @@ updated: 2026-10-20
 >
 >   持续吸纳全球多元办学类型高校，建立多边联合实验室与技术协作平台。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 >
->   - **2018 年** 成员高校规模扩充至130余所，成为[[Belt and Road Initiative|一带一路]]倡议下涵盖地域最广的综合性大学多边网络。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+>   - **2018 年** 成员高校[[Scale Enlargement|规模扩充]]至130余所，成为[[Belt and Road Initiative|一带一路]]倡议下涵盖地域最广的综合性大学多边网络。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 >   - **2019 年** 协同落实《高等学校科技创新服务“一带一路”倡议行动计划》，在先进制造、新材料与能源化工等领域设立跨国联合实验室。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–686)]]
 >
 > - **2021–至今** **制度化深耕与网络中心性构建**
 >
->   深化常态化学科子联盟协同、跨国夏令营与双边多边学分互认，成为考察后西方全球高等教育治理与网络中心性常态化的核心实证案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+>   深化常态化学科子联盟协同、跨国夏令营与双边多边学分互认，成为考察后西方全球高等教育治理与[[Normalization through Knowledge Cooperation|网络中心性常态化]]的核心实证案例。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 
 ---
 
@@ -112,7 +121,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **专业学科子联盟矩阵** 建立覆盖工、理、医、管、法等领域的11个跨国学科协同网络，成为高水平学科对接的实体工作平台。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1701–1702)]]
-> - **丝绸之路大学校长论坛** 形成常态化的高端政策研讨平台，定期发布多边合作共识宣言，协调区域高等教育合作议程。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+> - **丝绸之路[[Grandes Ecoles|大学校]]长论坛** 形成常态化的高端政策研讨平台，定期发布多边合作共识宣言，协调区域高等教育合作议程。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 > - **暑期国际研习营与夏令营** 每年举办面向青年学生的暑期研修项目，单届营地规模达150至237人，覆盖14至18所成员高校。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 > - **跨国工程科研示范基地** 围绕交通运输、清洁能源与生态环境保护等沿线重大现实课题共建联合研发中心。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–686)]]
 
@@ -131,14 +140,14 @@ updated: 2026-10-20
 > - **多边网络交叠密度** 成员高校深度交叠于国际大学协会（IAU）与阿拉伯大学协会（AARU）等多边合作框架。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **知识外交范式的制度化实践** 践行双向互惠、开放包容与大众化共享理念，通过非官方多边网络提供国际高等教育公共产品。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698, 1702)]]
+> - **[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]的制度化实践** 践行双向互惠、开放包容与大众化共享理念，通过非官方多边网络提供国际高等教育公共产品。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698, 1702)]]
 > - **打破中心-外围知识依附** 为新兴经济体及全球南方高校搭建对等多边平台，促进跨区域知识共享与联合能力建设。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **支撑网络中心性常态化** 通过织密跨国多对多协作关系，使中国高校在全球高教多边交流中确立日常化中心节点地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+> - **支撑[[Normalization through Knowledge Cooperation|网络中心性常态化]]** 通过织密跨国多对多协作关系，使中国高校在全球高教多边交流中确立日常化中心节点地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
 > [!stat-cards]- 核心规模数据
 > - **165 / 19** 联盟正式成员与观察员高校总数（所），横跨全球 38 个国家和地区。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
 > - **11** 设立的专业学科子联盟数量（个），涵盖工程、法学、医药与管理等领域。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1701–1702)]]
-> - **150–237** 单届暑期国际研习营吸纳的成员高校青年学生流动规模（人次）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
+> - **150–237** 单届暑期国际研习营吸纳的成员高校青年[[Student Mobility|学生流动]]规模（人次）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 ---
 
@@ -149,8 +158,8 @@ updated: 2026-10-20
 > > [!axis] 多边公共产品供给与国家战略工具属性的张力
 > > 学术界就丝绸之路大学联盟究竟是纯粹多边互利的知识公共平台，还是服务于国家宏观地缘战略的制度载体存在不同阐释。
 > >
-> > - **知识外交与南南合作视角** 肯定联盟在打破西方中心化知识流动垄断、促进跨文明互信与非零和合作方面的建设性作用。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> > - **批判性地缘政治视角** 指出联盟在中方高校主导下高度契合国家[[Belt and Road Initiative|一带一路]]民心相通部署，具备服务整体涉外战略的政策工具属性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
+> > - **[[Knowledge Diplomacy|知识外交]]与[[South-South Cooperation|南南合作]]视角** 肯定联盟在打破西方中心化知识流动垄断、促进跨文明互信与非零和合作方面的建设性作用。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
+> > - **批判性[[Geopolitics|地缘政治视角]]** 指出联盟在中方高校主导下高度契合国家[[Belt and Road Initiative|一带一路]][[People-to-People Connectivity|民心相通]]部署，具备服务整体涉外战略的政策工具属性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 >
 > > [!axis] 开放大众化准入与深度科研协同效能的张力
 > > 针对联盟极宽泛的准入门槛是否可能导致组织协同松散、难以聚焦高阶尖端研发的审议。
@@ -173,11 +182,11 @@ updated: 2026-10-20
 > |:-----|:-----|:-----|
 > | [[Belt and Road Education Action Plan]] | Fact (Policy) | 联盟运作依托的顶层国家教育对外开放行动纲领。 |
 > | [[Asian Universities Alliance]] | Fact (Organization) | 同样由中国高校发起但秉持精英排他性治理逻辑的平行多边大学联盟。 |
-> | [[Knowledge Diplomacy]] | Concept | 丝绸之路大学联盟在学术研究中作为体现开放性多边合作的知识外交案例。 |
-> | [[Knowledge Power]] | Concept | 与知识外交相对照的高等教育地缘政治主导权理论构念。 |
-> | [[Soft Power]] | Concept | 联盟承担提升国家文化吸引力与深化民心相通的学术纽带职能。 |
+> | [[Knowledge Diplomacy]] | Concept | 丝绸之路大学联盟在学术研究中作为体现[[Open-Mindedness\|开放性]]多边合作的知识外交案例。 |
+> | [[Knowledge Power]] | Concept | 与知识外交相对照的[[Geopolitics of Higher Education\|高等教育地缘政治]]主导权[[Construct\|理论构念]]。 |
+> | [[Soft Power]] | Concept | 联盟承担提升国家文化吸引力与深化[[People-to-People Connectivity\|民心相通]]的学术纽带职能。 |
 > | [[Research Universities]] | Concept | 组成联盟核心骨干的高水平研究型大学主体。 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心文献。 |
 > | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。 |
 > | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | Argument | 深入对比分析丝绸之路大学联盟与亚洲大学联盟组织制度特征的核心文献。 |
-> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 选取联盟内三所行业特色高校为个案，实证检验其在“一带一路”重点工程中践行知识外交的微观机制。 |
+> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 选取联盟内三所行业特色高校为个案，实证检验其在“[[Belt and Road Initiative\|一带一路]]”重点工程中[[Embodied, Inscribed and Enacted Knowledge\|践行知识]]外交的微观机制。 |

@@ -5,7 +5,7 @@ aliases:
 summary: "一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Intercultural Education]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Knowledge Power]]"
 related_theories:
   - "[[Orientalism]]"
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Meta-Cultural Sensitivity
@@ -71,7 +72,7 @@ updated: 2026-10-16
 > [!tip]-
 > - 与[[Constructivist Paradigm\|建构主义]]学习理论一致：学习者的先前文化经验决定了他们如何理解和回应新的教育情境；教师因此需要意识到自身知识和行动的文化基础([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.55]])
 > - 与 [[Stereotype Threat]] 的因果链形成理论互补：元文化敏感度通过**打破刻板印象威胁循环的第一步（"刻板印象的存在与流通"）** 来阻断整个自我实现链条
-> - 与 [[Orientalism]]（Said, 1978）构成批判对话：元文化敏感度正是对"东方由西方建构"这一知识权力结构的**实践性反抗**——它要求西方教师不再将自身文化规范视为定义"正常"的尺度
+> - 与 [[Orientalism]]（Said, 1978）构成批判对话：元文化敏感度正是对"东方由西方建构"这一[[Knowledge Power|知识权力]]结构的**实践性反抗**——它要求西方教师不再将自身文化规范视为定义"正常"的尺度
 
 ## 实证发现
 

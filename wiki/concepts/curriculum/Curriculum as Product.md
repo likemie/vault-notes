@@ -6,7 +6,7 @@ aliases:
 summary: "课程理论的三大经典范式之一，源于泰勒（Tyler）与博比特（Bobbitt）的技术官僚取向。将课程视为预先设定行为目标、单向传输知识存货并以标准化测试测量结果的控制过程。"
 type: concept
 domain: "curriculum"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Curriculum as Product（作为产物的课程）
@@ -138,5 +137,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合课程理论对比分析产物模式与过程/实践模式的[[Epistemology\|认识论]]差异。

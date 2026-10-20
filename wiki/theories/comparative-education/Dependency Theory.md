@@ -8,10 +8,10 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 59
-theory_related_level: 5
-theory_related_stars: "💎⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 60
+theory_related_level: 6
+theory_related_stars: "💎💎"
+theory_related_color: "#fef3c7"
 tags:
   - theory/dependency
   - subject/comparative-education
@@ -19,7 +19,6 @@ tags:
   - theme/colonialism
   - region/global
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[Shadow State]]"
   - "[[Paradigm]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Dual School System]]"
   - "[[Historical Amnesia]]"
+  - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
   - "[[Value Neutrality]]"
   - "[[Global Universities Rankings]]"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Educational Privatisation]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Variable]]"
   - "[[Determinism]]"
   - "[[Epistemology]]"
@@ -87,7 +88,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Dependency Theory
@@ -97,7 +98,7 @@ updated: 2026-10-17
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边[[Disciplina and Doctrina|规训]]下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
+> - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边规训下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
 > - **理论问题** 坚决解构现代化理论与[[Human Capital Theory|人力资本理论]]将后发国家“欠发展”归咎于内部技术性“缺失”或管理不善的虚伪修辞；揭示全球教育不平等本质上是帝国主义剥削与资本主义积累矛盾的地缘产物。
 > - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架；构成战后比较教育第四代际“批判冲突与跨国宏观[[Paradigm|范式]]”（Discourse 4, 1970–1990）的核心支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 > - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy|Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove|Robert Arnove]]）、菲利普·阿尔特巴赫（[[Philip Altbach]]）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres|Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos|Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
@@ -116,7 +117,7 @@ updated: 2026-10-17
 > - **提出者与原始文本** 20 世纪 60 年代拉美社会科学家（Raúl Prebisch, Celso Furtado, Andre Gunder Frank, Theotônio dos Santos, Fernando Henrique Cardoso）反思[[Import Substitution Industrialisation|进口替代工业化]]受阻与外债危机提出依附论；卡诺伊（Carnoy, 1974）出版《作为文化帝国主义的教育》（*Education as Cultural Imperialism*），首次将依附论系统引入比较教育。
 > - **原初问题** 为什么第三世界国家在二战后获得政治独立且经历大规模教育扩张后，不仅未能实现欧美式普遍繁荣，反而深陷严重的社会阶级极化、外债危机与对西方宗主国的技术依附？
 > - **理论资源与材料** 马克思列宁主义帝国主义论、拉加经委会（CEPAL）不等价交换理论、葛兰西[[Hegemony|文化霸权]]学说，以及对亚非拉殖民教育遗产的实地历史考察。
-> - **形成路径** 从最初批判宗主国与殖民地的“文化帝国主义”与“心灵奴役”，逐步深化至剖析外围依附性国家机器的运作机制，揭示跨国资本如何通过国际金融组织（如[[World Bank|世界银行]]）对受援国实施结构性[[Disciplina and Doctrina|规训]]与政策渗透。
+> - **形成路径** 从最初批判宗主国与殖民地的“文化帝国主义”与“心灵奴役”，逐步深化至剖析外围依附性国家机器的运作机制，揭示跨国资本如何通过国际金融组织（如[[World Bank|世界银行]]）对受援国实施结构性规训与政策渗透。
 
 ### 后续修订与扩展
 
@@ -128,7 +129,7 @@ updated: 2026-10-17
 > - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
 > - **2009 — 学术史代际定性与[[Historical Amnesia|历史健忘症]]悖论** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）在总结学科史四重论述代际时，高度肯定依附论打破实证功能主义与[[Human Capital Theory|人力资本理论]]的神话，但同时也深刻诊断出其宏观政治经济学偏向在客观上伴随着对历史研究方法的放逐，使学科陷入“历史健忘症（Historical Amnesia）”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–156)]]
-> - **2020s — 高教地缘政治与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
+> - **2020s — 高教[[Geopolitics|地缘政治]]与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 
 ---
 
@@ -152,7 +153,7 @@ updated: 2026-10-17
 ## 核心命题
 
 > [!theory-proposition] 命题一｜拒绝现代化理论的内部“缺失”假定，教育欠发展是资本主义世界体系中心-边缘结构性支配的直接产物
-> **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项假设，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与地缘政治从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项假设，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与[[Geopolitics|地缘政治]]从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 >
 > **应用实例** 20 世纪中叶西方援助机构向非洲与拉美大规模输出西方正规学校模型与课程方案，不仅未能解决受援国失业危机，反而造成大量农村劳动力脱离本土生产实践、盲目涌入城市贫民窟，进一步加深了对外部粮食与工业品的依附。
 
@@ -173,7 +174,7 @@ updated: 2026-10-17
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Educational Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义规训与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Educational Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 >
 > **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进教育券制与私有化，严重摧毁了公立基础教育的公共性。
 
@@ -194,7 +195,7 @@ updated: 2026-10-17
 > | **中心-边缘结构支配（命题一）** | 该国教育改革是出于本土民主诉求，还是迎合中心资本与外部多边机构的政策转移？ | 国际援助协议文本、[[World Bank\|世界银行]]国家报告、外来专家主导的课程设计。 | 若政策优先考虑还贷能力与外资劳动力需求而非全民基础识字，支持依附性解释。 |
 > | **[[Conditioned State Theory\|受限国家]]阶级同盟（命题二）** | 国家公共教育投资在各层级与不同人群之间的分配是否呈现倒金字塔偏向？ | 初等、中等、高等教育阶段生均公用经费比值；公私立学校质量分流数据。 | 若高等教育获巨额财政倾斜而基础扫盲停滞，支持受限国家[[Compensatory Legitimation\|补偿性合法化]]假说。 |
 > | **金融-智识[[Disciplina and Doctrina\|规训]]与[[Shadow State\|影子国家]]（命题四）** | 教育市场化与私有化改革是否伴随外部贷款强制推行，公共服务是否外包给去政治化 NGO？ | 使用者付费政策记录、教育券推行档案、非政府组织承接公共教育合同。 | 若国家教育行政权威被绕过且 NGO 依附外部捐助指标，支持影子国家与规训依附判读。 |
-> | **学术依附与心灵奴役（命题三）** | 本土高等教育评价与课程设置是否完全仰赖西方母体规范与英语期刊索引？ | 大学科研评价指南、教材翻译引进比例、留学生外流与本土议程边缘化程度。 | 结合地缘政治与学术资本积累机制综合研判，防范泛化指责一切正常国际学术交流。 |
+> | **学术依附与心灵奴役（命题三）** | 本土高等教育评价与课程设置是否完全仰赖西方母体规范与英语期刊索引？ | 大学科研评价指南、教材翻译引进比例、留学生外流与本土议程边缘化程度。 | 结合[[Geopolitics\|地缘政治]]与学术资本积累机制综合研判，防范泛化指责一切正常国际学术交流。 |
 
 ---
 

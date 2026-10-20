@@ -13,9 +13,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 tags:
   - fact/china
@@ -31,6 +31,7 @@ related_concepts:
   - "[[AI Deterrence]]"
   - "[[Winner's Fallacy]]"
   - "[[Research Translation]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
 related_theories:
   - "[[Strategic Bargaining Theory]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Autonomous Drone Swarms
@@ -87,7 +88,7 @@ updated: 2026-10-16
 ## 影响与战略定性
 
 > [!claim] 战略启示与时代定性
-> 野外自主微型无人机集群的突破与快速军用化，从实证层面粉碎了西方后冷战时期以为和平可以脱离军事技术持续维持的[[Winner's Fallacy|胜者谬误]]。它表明威权地缘对手在不受繁琐公共伦理争议掣肘的情况下，能够以极高敏捷度实现尖端前沿科研成果向实战化[[Hard Power|硬实力]]的[[Research Translation|技术转化]]；若西方社会因文化犹豫而放弃在防务人工智能与算法武器领域的战略投入，必将在未来的地缘政治博弈中丧失关键议价筹码。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 30–32)]]
+> 野外自主微型无人机集群的突破与快速军用化，从实证层面粉碎了西方后冷战时期以为和平可以脱离军事技术持续维持的[[Winner's Fallacy|胜者谬误]]。它表明威权地缘对手在不受繁琐公共伦理争议掣肘的情况下，能够以极高敏捷度实现尖端前沿科研成果向实战化[[Hard Power|硬实力]]的[[Research Translation|技术转化]]；若西方社会因文化犹豫而放弃在防务人工智能与算法武器领域的战略投入，必将在未来的[[Geopolitics|地缘政治]]博弈中丧失关键议价筹码。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 30–32)]]
 
 ---
 

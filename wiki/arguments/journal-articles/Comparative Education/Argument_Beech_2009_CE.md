@@ -40,6 +40,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
   - "[[Washington Consensus]]"
+  - "[[Geopolitics]]"
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
@@ -75,14 +76,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -312,7 +313,7 @@ Castells 据此区分了两种空间逻辑：
 > 但一旦这个话语进入全球政策空间，这些具体的历史起源（职业培训、经济效率、企业劳动控制）就被模糊化了。OECD 的报告中不谈工厂车间，只将能力抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。这种去历史化的“空洞”特征，正是它能够被全球广泛接受的原因(p.354)。
 
 > [!exegesis] 尊重多样性如何成为漂浮能指
-> 尊重多样性话语的兴起与西方政治哲学中文化同质性追求的退场有关。[[Postmodernism\|后现代主义]]削弱了以民族国家地缘政治边界为基础的大叙事(Lyotard, 1984, 引自 p.354)。世界各地的社会运动积极挑战既有叙事在阶级、性别、族裔和文化方面的偏见，争取边缘身份的代表权。
+> 尊重多样性话语的兴起与西方政治哲学中文化同质性追求的退场有关。[[Postmodernism\|后现代主义]]削弱了以民族国家[[Geopolitics|地缘政治]]边界为基础的大叙事(Lyotard, 1984, 引自 p.354)。世界各地的社会运动积极挑战既有叙事在阶级、性别、族裔和文化方面的偏见，争取边缘身份的代表权。
 >
 > 但当尊重多样性在全球教育空间中被再生产时，它被剥离了这些具体的斗争语境，成为一个抽象口号。它可以指保护非裔美国人权利、妇女权利、宗教少数群体、原住民、移民、特殊需求儿童等一切边缘化概念。**同一个口号，可以被意识形态截然不同的政府在迥异的语境中转化为完全不同的政策与实践(pp.354–355)**。
 

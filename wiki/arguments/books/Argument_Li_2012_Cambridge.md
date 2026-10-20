@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 160
+argument_related_count: 161
 argument_related_level: 16
 argument_related_stars: "💎💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[Benevolence]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Learning Styles]]"
@@ -781,7 +782,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > Li 引用 Rosemont 的阐释来说明儒家的人格进阶(pp.43-44)：
 > - **士（scholar-apprentice）** 已获得一些美德、理解了道德原则，已超越家庭和亲属圈，致力于追求仁——但前方仍有漫长的学习和[[Self-Cultivation\|修身]]之路
 > - **君子（exemplary person）** 已在这条路上走了相当长的距离。他们的行为不是被迫的，而是"轻松的、自发的、创造性的"。他们不仅修身，还帮助他人达到这一高度——因此是"模范人物"
-> - **圣人（sage）** 孔子自称未能达到的高度。圣人是"将仁爱、关怀和善意扩展至所有人类"的人
+> - **圣人（sage）** 孔子自称未能达到的高度。圣人是"将[[Benevolence|仁爱]]、关怀和善意扩展至所有人类"的人
 
 > [!example] [[Neo-Confucianism\|宋明理学]]：将自我完善继续推进
 > Li 追溯到宋明时期儒家传统的延续与深化(pp.44-46)：

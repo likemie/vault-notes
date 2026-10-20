@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Report on the State of Public Instruction in Prussia
@@ -144,7 +143,7 @@ updated: 2026-10-15
 > > [!axis] 民主借用专制制度的意识形态张力
 > > 欧美批评者对自由主义立宪政体能否且应否借鉴霍亨索伦君主专制国家教育制度存在尖锐对立。
 > >
-> > - **波士顿文法学校校长联名抗辩派（1844）** 指责库森与曼盲目崇拜普鲁士专制独裁体制下的[[Disciplina and Doctrina\|规训]]技术，认为中央集权督学制将彻底扼杀自由民主共和国的地方公民自治。（pp. 32–34）
+> > - **波士顿文法学校校长联名抗辩派（1844）** 指责库森与曼盲目崇拜普鲁士专制独裁体制下的规训技术，认为中央集权督学制将彻底扼杀自由民主共和国的地方公民自治。（pp. 32–34）
 > > - **行政[[Educational Meliorism\|改良主义]]阵营（Cousin, Stowe, Mann）** 强调教育制度具有技术工具的普适性，应当将技术层面的科学管理与政治层面的君主政体严格剥离，用邻邦的优秀机制服务于自由人民的启蒙。（pp. 29, 33–34）
 
 ---

@@ -9,7 +9,7 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -45,10 +45,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Hattie på dansk
@@ -83,7 +84,7 @@ updated: 2026-10-17
 > - **[[Steen Nepper Larsen]] 论盲视与机械还原** 拉森撰写题为《了解你的影响——[[John Hattie|约翰·哈蒂]]证据信条的盲区》（*Know Thy Impact – blinde vinkler i John Hatties evidenscredo*）的章节，批评哈蒂的模型是以盲目性书写的，将复杂的师生互动退化为类似台球碰撞或机械清洁系统的[[Determinism|因果决定论]]，感叹[[Positivism|实证主义]]的侵蚀令阿多诺（Theodor W. Adorno）等[[Critical Theory|批判理论]]家在坟墓中悲泣。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 4)]]
 > - **[[Thomas Aastrup Rømer]] 论集权化与计算机化有机体** 勒默尔指出哈蒂的反馈规程具有强烈的自上而下集权效应，实质是将一个主权国家的学校教育改组为一个庞大的、层级化的、计算机化的管理有机体，剥夺了教育哲学的人文关怀。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 4)]]
 > - **[[Klaus Nielsen]] 论[[Technical Rationality|技术理性]]的合法化救济** 尼尔森等学者进一步指出，哈蒂在丹麦的广泛渗透，实质是由于其技术理性（[[Technical Rationality]]）迎合了政府面临的[[Legitimation Crisis|合法化危机]]（Legitimation Crisis）；官僚机构借用其看似无懈可击的技术承诺，掩盖了学校服务市场经济与维系公民教养之间的内在撕裂。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–88)]]
-> - **[[John Hattie]] 的对质回应与反驳** 哈蒂在接受访谈时对文集做出直接反击，称该书断言“可见的学习在丹麦行不通”十分荒唐可笑；他坚称从丹麦学校回收的数据显示出对学生的巨大成效，并将本土教师的抗拒归因于其三十年来固守传统而不愿真正倾听学生声音。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
+> - **[[John Hattie]] 的对质回应与反驳** 哈蒂在接受访谈时对文集做出直接反击，称该书断言“[[Visible Learning|可见的学习]]在丹麦行不通”十分荒唐可笑；他坚称从丹麦学校回收的数据显示出对学生的巨大成效，并将本土教师的抗拒归因于其三十年来固守传统而不愿真正倾听学生声音。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 
 ---
 

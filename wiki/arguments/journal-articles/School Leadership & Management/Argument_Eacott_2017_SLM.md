@@ -42,10 +42,10 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
   - "[[Reflexivity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Initial Teacher Training]]"
   - "[[Cognitive Deskilling]]"
@@ -79,7 +79,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Eacott_2017_SLM
 
@@ -173,7 +173,7 @@ updated: 2026-10-16
 罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《VL》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性幻觉（p.418）。
 
 哈蒂将效应量 d = 0.40 设定为“铰链点”（[[Zone of Desired Effects|Hinge Point]]），并宣称其等同于学生在一个学年内的正常成长。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
-- **循证决策的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。
+- **[[Evidence-Based Policy-Making|循证决策]]的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。
 - **科学管理的中介化** 这复刻了泰勒在工厂车间通过秒表和动作分解去除经验法则的做法。哈蒂将教学还原为孤立的、按效应量排序的干预[[Variable|变量]]，为管理者提供了实施科学管理的精密中介（p.419）。
 - **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL and [[Corwin Press|Corwin]] 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
 
@@ -184,7 +184,7 @@ updated: 2026-10-16
 
 ### 步骤三：管理机器——举证责任倒置与国家权力的霸权合谋
 
-在VL的逻辑[[Disciplina and Doctrina|规训]]下，原本深藏于师生认知内部的隐性教学过程被强制拉扯到外部可观察的数据层面上。这催生了行政监控上的绝对教条：“无数据即无学习，无学习即无教学”（p.420）。教学过程不再是复杂的互动，而被归入绩效赤字和需要行政干预的“管理问题”。举证责任被彻底倒置：教师必须向校长展示其教学对学生学习的数据影响，校长也必须向系统展示其资源配置的数据成效（pp.420–421）。
+在VL的逻辑规训下，原本深藏于师生认知内部的隐性教学过程被强制拉扯到外部可观察的数据层面上。这催生了行政监控上的绝对教条：“无数据即无学习，无学习即无教学”（p.420）。教学过程不再是复杂的互动，而被归入绩效赤字和需要行政干预的“管理问题”。举证责任被彻底倒置：教师必须向校长展示其教学对学生学习的数据影响，校长也必须向系统展示其资源配置的数据成效（pp.420–421）。
 
 早在 1950 和 60 年代，以库伯森（Jack Culbertson, 1981）为代表的“理论运动”曾试图引入[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的行政行为学说和逻辑[[Positivism|实证主义]]，建立一门预测性的教育行政科学，但以失败告终。哈蒂则通过创建一门看似可操作的教学科学，实现了这一夙愿（p.419）。哈蒂本人长期担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，使VL和绩效数据逻辑直接转译为国家教师与校长专业标准、以及学校年度绩效考核的铁律。墨尔本大学甚至开发了 TeacherSelector 软件，在入口端对[[Initial Teacher Training|初始教师教育]]（ITE）申请者进行“科学筛选”（p.421）。至此，从入职筛选、国家标准到日常考核，哈蒂品牌完成了与国家科层行政权力的合谋。
 
@@ -238,7 +238,7 @@ updated: 2026-10-16
 > 
 > Original: I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian school leadership.
 
-> [!citation-card]- 循证决策与行政控制的本质
+> [!citation-card]- [[Evidence-Based Policy-Making|循证决策]]与行政控制的本质
 > 相比于教学模型——即使是那些配有衡量实践质量工具的模型——[[John Hattie\|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
 > 
 > Original: Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.

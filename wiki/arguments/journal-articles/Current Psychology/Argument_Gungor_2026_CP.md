@@ -53,6 +53,7 @@ related_concepts:
   - "[[Think-Pair-Share]]"
   - "[[Publication Bias]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Task Structure]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
@@ -98,14 +99,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-19
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -258,7 +259,7 @@ issuing_organization: ""
 ### 论证步骤一：既有一阶元分析存在多重偏倚，亟需二阶证据综合
 
 > [!claim] 一阶[[Meta-analysis\|元分析]]的碎片化、学科或地域偏倚与二阶[[Sampling Error\|抽样误差]]必须通过[[Meta-meta-analysis\|二阶元分析]]进行系统纠偏
-> 传统被动灌输式教学无法有效培养21世纪所需的[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与团队协作素养；而既有一阶元分析多受限于单一国别、单一学科或单一产出，无法提供全局性的循证决策基准，必须运用二阶元分析降低抽样误差并全面评估干预效能。（pp. 1–3）
+> 传统被动灌输式教学无法有效培养21世纪所需的[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与团队协作素养；而既有一阶元分析多受限于单一国别、单一学科或单一产出，无法提供全局性的[[Evidence-Based Policy-Making|循证决策]]基准，必须运用二阶元分析降低抽样误差并全面评估干预效能。（pp. 1–3）
 
 > [!chain-link] 证据到判断
 > - 现代知识社会要求学生掌握[[Problem Solving\|问题解决]]、创造性思维与批判性思维等高阶认知能力，以及沟通、协作与领导等社会技能（Johnson & Johnson, 2009; Klang et al., 2020）。（p. 1）

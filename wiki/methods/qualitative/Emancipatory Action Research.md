@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Participatory Action Research]]"
   - "[[Participatory Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Stephen Kemmis]]"
@@ -54,7 +53,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Emancipatory Action Research
 
@@ -255,5 +254,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心文献。

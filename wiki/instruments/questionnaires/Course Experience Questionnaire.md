@@ -8,9 +8,9 @@ aliases:
 summary: "由保罗·拉姆斯登（Paul Ramsden）开创、澳大利亚教育研究委员会（ACER）与澳大利亚政府标准化的全国性大学毕业生调查工具，包含优良教学、通用技能及适度工作量等核心分量表。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 9
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 10
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -29,6 +29,7 @@ tags:
   - higher-education
 related_concepts:
   - "[[Problem Solving]]"
+  - "[[Generic Skills]]"
   - "[[Surface and Deep Learning]]"
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Course Experience Questionnaire
@@ -70,7 +71,7 @@ updated: 2026-10-16
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **通用技能（Generic Skills Scale）** | 6 题 | 评估课程在培养批判性分析、[[Problem Solving\|复杂问题解决]]、书面表达与团队合作等可迁移素养上的有效性。 | 5 点 Likert 均值计分（1–5 分） |
+> | **通用技能（[[Generic Skills]] Scale）** | 6 题 | 评估课程在培养批判性分析、[[Problem Solving\|复杂问题解决]]、书面表达与团队合作等可迁移素养上的有效性。 | 5 点 Likert 均值计分（1–5 分） |
 > | **优良教学（Good Teaching Scale）** | 6 题 | 教师讲授清晰度、激发学术兴趣、提供指导性反馈与支持理解的程度。 | 5 点 Likert 均值计分 |
 > | **清晰目标与标准（Clear Goals & Standards）** | 4 题 | 课程预期学习成果、考核要求与评分准则的公开透明度。 | 5 点 Likert 均值计分 |
 > | **适度工作负荷（Appropriate Workload）** | 4 题 | 课程大纲与考核要求是否合理，避免过度拥挤导致的应试[[Surface and Deep Learning\|表层学习]]。 | 5 点 Likert 均值计分 |

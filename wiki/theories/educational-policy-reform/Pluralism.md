@@ -15,7 +15,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 53
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Cultural Relativism]]"
@@ -59,7 +58,6 @@ related_theories:
   - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -100,7 +98,7 @@ updated: 2026-10-20
 
 > [!theory-position] 理论定位
 > - **解释对象** 公共政策决策中的权力分配博弈、全球化进程中教育制度与本土文化生态的互动关系、比较教育学科[[Knowledge Production|知识生产]]的[[Paradigm|范式]]共存形态，以及多元社会治理中价值宽容与实质道德共同体构建之间的政治哲学张力。
-> - **理论问题** 回应一元集权主义（Monism）对权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的[[Disciplina and Doctrina|规训]]；破解战[[Postpositivism|后实证主义]]对比较研究[[Epistemology|认识论]]的单边霸权；反思极端多元主义滑向[[Cultural Relativism|文化相对主义]]、“淹没性多元”与[[Value Neutrality|价值中立]]虚无所引发的共同体解体危机。
+> - **理论问题** 回应一元集权主义（Monism）对权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的规训；破解战[[Postpositivism|后实证主义]]对比较研究[[Epistemology|认识论]]的单边霸权；反思极端多元主义滑向[[Cultural Relativism|文化相对主义]]、“淹没性多元”与[[Value Neutrality|价值中立]]虚无所引发的共同体解体危机。
 > - **理论类型** 兼具规范理论（规范民主参与与文化承认）、解释理论（解释多元群体博弈及政策分歧）与学科认识论/方法论[[Analytic Framework|分析框架]]。
 > - **知识位置** 跨越经典政治学（Rousseau, Truman, Dahl）、欧洲比较教育文化历史学（Sadler, Kandel, Hans, Mitter）、多元社会政策研究（Gopinathan）、学科元研究（Rust, Paulston）以及道德与政治哲学批判（MacIntyre, Rawls, Kimball, Karp & Zamiska）。
 
@@ -115,7 +113,7 @@ updated: 2026-10-20
 > - **提出者与原始文本** 政治学经典多元主义由让-雅克·[[Jean-Jacques Rousseau|卢梭]]（Rousseau, 1968）启蒙，戴维·杜鲁门（David Truman, 1971）与罗伯特·达尔（Robert Dahl, 1967）奠定；文化多元主义由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）、艾萨克·[[Immanuel Kant|康德]]尔（Isaac Kandel, 1933）与[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）在欧洲比较教育学中系统化；学科层面的“健康多元主义”由[[Val D. Rust|瓦尔·拉斯特]]等学者（Rust et al., 1999, 2009）通过长程文献计量确立；多元社会的整合批判由萨拉瓦南·戈皮纳坦（Saravanan Gopinathan, 1979）与麦金太尔（MacIntyre, 2007）系统化。
 > - **原初问题** 政治学面对集权专制与单一阶级垄断统治；欧洲比较教育面对冷战后世界体系单一普遍主义对本土文化传统的压制；多元移民社会面对族群割裂与语言丛林化离心风险；比较教育元研究面对[[Positivism|实证主义]]单一霸权引发的学科分裂焦虑。
 > - **理论资源与材料** 民主契约论、西方工业社会工会与利益团体博弈实践、欧洲民族国家的语言宗教文化档案、新加坡多族群建国语言立法卷宗、比较教育学会（[[Comparative and International Education Society|CIES]]）半个世纪的期刊文献。
-> - **形成路径** 从政治学关于社会团体博弈达成动态均衡的假说，拓展为教育制度抵抗跨国普遍主义技术[[Disciplina and Doctrina|规训]]的文化防线；继而在多元社会中提炼出共同语言文化规约机制，最终在政治哲学上反思其滑向道德不可知论的边界。
+> - **形成路径** 从政治学关于社会团体博弈达成动态均衡的假说，拓展为教育制度抵抗跨国普遍主义技术规训的文化防线；继而在多元社会中提炼出共同语言文化规约机制，最终在政治哲学上反思其滑向道德不可知论的边界。
 
 ### 后续修订与扩展
 
@@ -159,7 +157,7 @@ updated: 2026-10-20
 >
 > **应用实例** 在美国联邦《[[Reading Excellence Act|卓越阅读法案]]》（REA）立法中，数百名一线阅读教师提交的亲笔请愿信被议员斥为“缺乏科研资质的感性抱怨”，而商业出版商与实证神经科学家却垄断了听证会发言席位。
 
-> [!theory-proposition] 命题三｜地方文化多元性构成抗衡全球同质化指标[[Disciplina and Doctrina|规训]]的[[Ontology|本体论]]防线
+> [!theory-proposition] 命题三｜地方文化多元性构成抗衡全球同质化指标规训的[[Ontology|本体论]]防线
 > **解释** 比较教育与全球治理视域下的文化多元主义主张，教育体系深植于不可化约的地方文化、语言、宗教、族群与社会历史环境之中。任何试图以单一跨国[[Performance Indicators|绩效指标]]（如[[PISA|国际学生评估项目]]（PISA））或同质化发展模型统合全球教育的努力，都会遭遇本土文化生态的抗阻；教育政策必须包容多元文化的内生价值。该命题由 [[Argument_Mitter_2009_Europe|Mitter (2009)]] 阐明。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 >
 > **应用实例** 欧洲各国在推进[[Bologna Process|博洛尼亚进程]]（Bologna Process）中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、[[Grandes Ecoles|大学校]]（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
@@ -179,7 +177,7 @@ updated: 2026-10-20
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 某项教育政策的制定过程是否实现了实质性多元民主参与？一国教育改革如何协调全球普遍主义[[Disciplina and Doctrina|规训]]与本土文化多元性？多元社会语言与文化政策如何平衡多元包容与国家凝聚力？多元包容政策是否滑向了价值相对主义与虚无主义？
+> - **[[Research Question|研究问题]]** 某项教育政策的制定过程是否实现了实质性多元民主参与？一国教育改革如何协调全球普遍主义规训与本土文化多元性？多元社会语言与文化政策如何平衡多元包容与国家凝聚力？多元包容政策是否滑向了价值相对主义与虚无主义？
 > - **分析对象与单位** 政策公众听证会卷宗、立法请愿信件、跨国政策移植文本、多民族语言教育法案、学科旗舰期刊长程发表文献、公民德育大纲。
 > - **需要的材料** 国会听证实录、法案修改文本、双语教育评估报告、文献计量学数据库、通识课程标准。
 > - **解释目标** 评估政策决策的民主开放程度，判读学术领域的[[Epistemology|认识论]]开放度，诊断多元社会在平衡族群多样性与国家共同道德实体上的制度成效。
@@ -229,6 +227,6 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 检验传统多元主义写信动员的失败，论证[[Cultural Capital|文化资本]]对多元博弈的阻隔，倡导[[Critical Pluralism|批判性多元主义]]。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义[[Disciplina and Doctrina|规训]]中的不可替代作用。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义规训中的不可替代作用。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 对半个世纪比较教育研究进行文献计量与学术调查，实证论证26种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”学科[[Paradigm|范式]]地位。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 结合新加坡多元社会语言政策与麦金太尔学说，批判“淹没性多元主义”与虚无宽容；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 批判[[Cultural Relativism|文化相对主义]]与[[John Rawls|罗尔斯]]形式中立，呼吁重塑实质伦理美德与审美品味。

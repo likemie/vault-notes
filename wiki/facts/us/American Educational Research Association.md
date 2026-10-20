@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

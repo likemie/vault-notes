@@ -7,7 +7,7 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,13 +47,12 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Cohort Study]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sleeper Effect
@@ -166,5 +165,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]因果干预[[Meta-analysis\|元分析]]，实证证实延时[[Pre-test and Post-test\|后测]]学业效应（$d = 0.966$）显著高于即时后测（$d = 0.451$），确立了教育情境下沉睡者效应的因果元分析证据。

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Academic Achievement]]"
   - "[[Learning Gain]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
   - "[[Barometer of Achievement]]"
   - "[[Learning Progression]]"
@@ -49,7 +48,6 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Time Series Design]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[Early Steps]]"
   - "[[Cognition Education]]"
@@ -62,6 +60,8 @@ related_arguments:
 related_persons:
   - "[[John Hattie]]"
   - "[[John O'Neill]]"
+  - "[[Ewald Terhart]]"
+  - "[[Ivan Snook]]"
 confidence: high
 status: active
 created: 2026-09-16
@@ -77,7 +77,7 @@ updated: 2026-10-20
 > [!instrument-profile] 教学与学习评估工具（asTTle）
 > - **工具类型** 标准化计算机辅助[[Formative Assessment|形成性评价]]与诊断测评系统。
 > - **开发者与年份** Hattie et al. (2002)。由新西兰教育部资助委托奥克兰大学研发。
-> - **测量目的** 官方宣称为中小学教师提供关于学生[[Academic Achievement|学业成就]]与认知进阶的诊断性证据，支持课堂目标设定、学情归因研判、校本教研以及多时点[[Learning Gain|增值评价]]；批判视角则揭示其同时具备支持管理层全网追踪教师软件使用与推行泰勒制监控的行政[[Disciplina and Doctrina|规训]]功能（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11]], 15; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
+> - **测量目的** 官方宣称为中小学教师提供关于学生[[Academic Achievement|学业成就]]与认知进阶的诊断性证据，支持课堂目标设定、学情归因研判、校本教研以及多时点[[Learning Gain|增值评价]]；批判视角则揭示其同时具备支持管理层全网追踪教师软件使用与推行泰勒制监控的行政规训功能（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11]], 15; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 > - **实施方式** 基于[[Item Response Theory|项目反应理论]]（Item Response Theory, IRT）的自适应或标准化测评软件，支持教师自定义测试时长与考察模块，测试完成后系统即时自动生成多层级表现剖面图与气压计仪表盘。
 
 > [!citation-card] 赋权教师的形成性评价系统
@@ -126,7 +126,7 @@ updated: 2026-10-20
 > 除了面向课堂教师的形成性反馈功能，[[Critical Pedagogy|批判教育学]]者揭示了 asTTle 系统在制度设计上的双重功能：
 > 1. **全网实时监控网络（Networked Managerial Monitoring）** [[John Hattie|哈蒂]]等人在系统技术文档中明确规划，asTTle 第 4 版具备完全网络化功能，使校级与学区管理者能够跨越 6 个学科全网实时追踪所有教师使用该软件的频次、进度与班级数据（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]], citing Hattie et al., 2003）。
 > 2. **[[Barometer of Achievement|气压计图表]]（Barometer Graphics）的视觉迁移** 后来风靡全球并在《[[Visible Learning|可见的学习]]》中作为标志性图腾出现的半圆形气压计图表（Barometer graphic），直接移植自 asTTle 系统的管理界面。该图表通过将教师效应划分为反转效应、发展效应、教师典型效应与[[Zone of Desired Effects|期望效应区]]（Zone of Desired Effects），将复杂的师生互动机械化还原为仪表盘读数（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
-> 3. **全景监视与新泰勒制控制** 这种将日常教学活动转化为即时数据流的架构，使基层教师处于时刻可被核查、比对与评估的[[Panopticism|全景敞视]]状态之中，为自上而下的技术官僚[[Disciplina and Doctrina|规训]]提供了基础设施（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
+> 3. **全景监视与新泰勒制控制** 这种将日常教学活动转化为即时数据流的架构，使基层教师处于时刻可被核查、比对与评估的[[Panopticism|全景敞视]]状态之中，为自上而下的技术官僚规训提供了基础设施（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 
 ---
 
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 > [!tension] 核心张力：形成性赋权工具 vs [[Panopticism|全景敞视]]行政监控
 > - **形成性赋权立场（蓝方）** 开发者与支持者认为 asTTle 彻底颠覆了基于测试的惩罚性外部问责；它将测评主权归还给教师，使教师能够即时获取精准的诊断证据，针对学生的认知台阶提供个性化反馈，并基于数据反思和调整自身的教学策略（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11–21]]）。
-> - **全景[[Disciplina and Doctrina|规训]]与劳动过程控制立场（红方）** [[Critical Pedagogy|批判教育学]]者指出 asTTle 实际上扮演了工业泰勒制监控装置的角色；系统后端赋予管理层跨学科监控教师使用情况的特权，将教师降格为听命于软件建议的流水线操作工，并通过仪表盘刻度营造虚假的科学客观性，加剧了教师的[[Performativity|表演性]]负担与专业自主权萎缩（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）。
+> - **全景规训与劳动过程控制立场（红方）** [[Critical Pedagogy|批判教育学]]者指出 asTTle 实际上扮演了工业泰勒制监控装置的角色；系统后端赋予管理层跨学科监控教师使用情况的特权，将教师降格为听命于软件建议的流水线操作工，并通过仪表盘刻度营造虚假的科学客观性，加剧了教师的[[Performativity|表演性]]负担与专业自主权萎缩（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）。
 
 > [!critique] 外部批评
 > - **视觉界面的机械降格** 将复杂的育人过程简化为类似汽车油表或气压仪的单一刻度读数，剥离了教育的人文属性与伦理关怀，诱发对数据指标的数字崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。

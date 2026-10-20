@@ -6,7 +6,7 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -18,6 +18,7 @@ tags:
   - political-geography
   - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Classical Geopolitics]]"
   - "[[Constructivist Paradigm]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Operationalization]]"
+  - "[[Knowledge Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Corporate Education]]"
   - "[[Causality]]"
@@ -55,7 +57,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
@@ -69,13 +70,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 地缘政治秩序如何通过政治想象、[[Discourse|话语]]实践和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
+> - **解释对象** [[Geopolitics|地缘政治]]秩序如何通过政治想象、[[Discourse|话语]]实践和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
 > - **理论问题** 回应[[Classical Geopolitics\|古典地缘政治]]将空间视为客观容器、将国家视为唯一行动者的双重预设：为什么看似客观的地缘政治事实实际上是话语和想象的产物？空间秩序如何通过命名、分类与治理等话语实践被不断生产与重组？
 > - **理论类型** [[Critical Theory\|批判理论]]／[[Constructivist Paradigm\|建构主义]][[Analytic Framework\|分析框架]]。[[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]指出，在围绕"地缘政治是物质性还是观念性"和"是科学性还是实践性"两个[[Ontology\|本体论]]问题的当代争论中，批判地缘政治处于观念—科学端，是[[New Geopolitics\|新地缘政治]][[Paradigm\|范式]]的代表（pp. 11–12）。
 > - **知识位置** 1990 年代以来在英语世界人文地理学和政治地理学中形成，深受英国人文地理学派（Massey, Harvey）影响。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 5–6)]]
@@ -99,7 +100,7 @@ updated: 2026-10-16
 > | [[Hub and Flow Imaginaries\|枢纽与流动想象]] | 概念 | 政治想象的履行性力量的当代表现：将全球空间划分为[[Intellectual Capital\|知识资本]]流动的枢纽中心与被动接受流动的边缘区域 |
 > | [[Geopolitical Subject\|地缘政治主体]] | 概念 | 高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性 |
 > | [[Spatial Sortings\|空间分选]] | 机制 | [[Knowledge-Based Economization\|知识经济化]]将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介 |
-> | [[Fixity-Motion Tension\|固着-流动张力]] | 机制 | 资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置——Harvey 揭示的核心地缘政治悖论 |
+> | [[Fixity-Motion Tension\|固着-流动张力]] | 机制 | 资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置——Harvey 揭示的核心[[Geopolitics\|地缘政治]]悖论 |
 > | [[Hegemony\|霸权理论]]（Gramsci, 1971） | 理论资源 | 分析文化领导权和意识形态如何通过日常制度和话语[[Praxis\|实践]]获得同意 |
 > | [[Cultural Political Economy\|文化政治经济学]]（Jessop, 2005） | 理论资源 | 揭示"想象"的履行性——[[Discourse\|话语]]和象征不仅反映经济过程，更主动构成经济过程 |
 > | [[Economic Patriotism\|经济爱国主义]] | 概念 | 国家在[[Knowledge-Based Economy\|知识经济]]化中作为空间分选中介和竞争力推手的角色 |
@@ -109,7 +110,7 @@ updated: 2026-10-16
 
 ## 核心命题与机制
 
-批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心假设。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
+批判[[Geopolitics|地缘政治学]]挑战[[Classical Geopolitics|古典地缘政治]]的一组核心假设。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
 
 > [!proposition-chain] 核心命题一｜地缘政治不是对世界的客观描述，而是通过[[Discourse|话语]]、想象和意义建构被持续生产和再生产的意识形态产物
 > - **前提一** 空间不是天然容器，而是通过社会空间关系被持续建构。Kuus (2017, p. 5) 提出"空间性不限于领土性"的核心命题；空间转向将空间从自然地理事实重新理解为社会建构过程（Thompson & Parreira do Amaral, 2022, p. 10）。
@@ -149,7 +150,7 @@ updated: 2026-10-16
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 将空间从"先验的自然容器"转向"流动的社会建构"，高等教育不再被视为发生于特定地点的教育活动，而被理解为持续参与空间生产与空间治理的制度性实践。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **作为分析工具** 通过解构命名、分类和叙事实践，将看似自然的空间秩序（如排名等级、中心—边缘格局）还原为话语建构的产物；多尺度分析视角和空间生产、想象地理等建构论工具可用于[[Operationalization\|操作化]]这一解构过程。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 5–6, 11–12)]]
-> - **作为批判视角** 知识不再被视为[[Value Neutrality\|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式。通过理论生产、学术规范与学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。高等教育从国家竞争的附属工具被重新纳入地缘政治分析的核心视野——大学被理解为重要的空间实践者，通过人的培养、[[Knowledge Production\|知识生产]]、学术流动与跨境合作主动参与空间意义的建构与权力关系的再生产。
+> - **作为批判视角** 知识不再被视为[[Value Neutrality\|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式。通过理论生产、学术规范与学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。高等教育从国家竞争的附属工具被重新纳入[[Geopolitics|地缘政治分析]]的核心视野——大学被理解为重要的空间实践者，通过人的培养、[[Knowledge Production\|知识生产]]、学术流动与跨境合作主动参与空间意义的建构与权力关系的再生产。
 > - **报告方式** 写作时应先阐明采用的理论透镜（[[Constructivist Paradigm\|建构主义]]空间观），再展示经验材料如何通过该透镜被重新解读，最后将发现链接回对既有空间秩序的批判。
 
 ---
@@ -157,16 +158,16 @@ updated: 2026-10-16
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 高等教育中涉及[[Discourse|话语]]建构、身份认同、知识权力、空间想象的议题；跨境合作中的叙事正当化过程；排名和评估体系如何自然化全球空间等级。
+> - **适合解释** 高等教育中涉及[[Discourse|话语]]建构、身份认同、[[Knowledge Power|知识权力]]、空间想象的议题；跨境合作中的叙事正当化过程；排名和评估体系如何自然化全球空间等级。
 > - **谨慎使用** 需要补充物质权力分析（大国竞争中的军事和经济维度）；需要额外证据支持话语后果的经验验证——[[Discourse Analysis\|话语分析]]不应替代对制度运作和资源分配的实际考察。
 > - **不适合解释** 军事冲突的直接因果机制；技术封锁和出口管制的具体操作逻辑；纯粹的经济利益计算——这些更适合[[Classical Geopolitics\|古典地缘政治]]或政治经济学框架。
-> - **常见误用** 将批判地缘政治简化为"一切都是话语"的极端[[Constructivist Paradigm\|建构主义]]立场。话语建构与物质权力并非二选一——政治想象的力量恰好在于它与物质资源配置和制度设计深度嵌合。
+> - **常见误用** 将批判[[Geopolitics|地缘政治]]简化为"一切都是话语"的极端[[Constructivist Paradigm\|建构主义]]立场。话语建构与物质权力并非二选一——政治想象的力量恰好在于它与物质资源配置和制度设计深度嵌合。
 
 ---
 
 ## 发展脉络
 
-批判地缘政治学作为对[[Classical Geopolitics|古典地缘政治]]的批判性回应而兴起。[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]指出，它发源于 20 世纪 90 年代，深受英国人文地理学派（Massey, Harvey）影响，随后被引入高等教育研究（pp. 5–6）。
+批判[[Geopolitics|地缘政治学]]作为对[[Classical Geopolitics|古典地缘政治]]的批判性回应而兴起。[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]指出，它发源于 20 世纪 90 年代，深受英国人文地理学派（Massey, Harvey）影响，随后被引入高等教育研究（pp. 5–6）。
 
 > [!dev-timeline] 发展脉络
 > - **1990s — 理论形成**
@@ -184,18 +185,18 @@ updated: 2026-10-16
 
 > [!critique] 批评索引
 > - **[[Discourse|话语]]中心主义与物质权力分析的张力** 分析焦点集中在话语和象征层面，对物质权力结构（军事力量、领土控制、技术封锁）的直接分析能力较弱。在大国竞争回归的背景下，仅靠[[Discourse Analysis\|话语分析]]难以充分解释高等教育面临的安全化和脱钩等现实。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
-> - **地缘政治与地缘经济边界的模糊性** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]]坦承在[[Corporate Education\|企业教育]]领域无法确定[[Causality\|因果关系]]——是美国政府利用跨国公司强化地缘政治地位（地缘政治利用地缘经济），还是美国公司利用美国政府扩大市场份额（地缘经济利用地缘政治）？这种"谁在利用谁"的模糊性本身印证了批判地缘政治的核心主张（边界是话语建构的），但也暴露了其[[Operationalization\|操作化]]困难（pp. 193–196）。
+> - **[[Geopolitics|地缘政治]]与地缘经济边界的模糊性** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]]坦承在[[Corporate Education\|企业教育]]领域无法确定[[Causality\|因果关系]]——是美国政府利用跨国公司强化地缘政治地位（地缘政治利用地缘经济），还是美国公司利用美国政府扩大市场份额（地缘经济利用地缘政治）？这种"谁在利用谁"的模糊性本身印证了批判地缘政治的核心主张（边界是话语建构的），但也暴露了其[[Operationalization\|操作化]]困难（pp. 193–196）。
 > - **对日常经验的过度解读风险** 将日常教育消费选择解读为地缘政治行为（如 Rizvi 对亚洲中产家庭的分析），虽有理论穿透力，但也可能过度政治化个体的私人决策。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进
-> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 将科技产业政策视作对抗地缘政治对手的核心杠杆，分析《[[CHIPS and Science Act|芯片与科学法案]]》如何打破新自由主义共识并重塑中美科技与高等教育博弈格局
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 将科技产业政策视作对抗[[Geopolitics|地缘政治]]对手的核心杠杆，分析《[[CHIPS and Science Act|芯片与科学法案]]》如何打破新自由主义共识并重塑中美科技与高等教育博弈格局
 
 > [!exegesis]- [[Argument_Moisio_2022_Springer\|Moisio (2022)]]：[[Knowledge-Based Economization\|知识经济化]]的地缘政治机制
 > [[Fixity-Motion Tension\|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings\|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性[[Policy Brokerage\|政策中介]]）；[[Geopolitical Subject\|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 26–31)]]

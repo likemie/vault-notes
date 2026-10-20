@@ -7,7 +7,7 @@ aliases:
 summary: "儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民"
 type: concept
 domain: "chinese-philosophy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
+  - "[[Benevolence]]"
   - "[[The Great Learning]]"
   - "[[Avatar]]"
   - "[[Sage]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-20
 ---
 
 # Take the World Upon Oneself
@@ -63,7 +64,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 > 孟子去见梁惠王。王说："叟，不远千里而来，亦将有以利吾国乎？"
 > 孟子回答："王何必曰利？亦有仁义而已矣。"
 >
-> 孟子接着推论：如果"利"成为治国的指导原则，大臣会寻求私利，下级亦然，整个王国"每个人都会只顾自己"。那么谁来照顾"病人、穷人和无法自理的困苦之人"？因此，国王不应以谋取私利为优先，而应为人民提供关怀与仁爱([[Argument_Li_2012_Cambridge\|Li, 2012, pp.45-46]])。
+> 孟子接着推论：如果"利"成为治国的指导原则，大臣会寻求私利，下级亦然，整个王国"每个人都会只顾自己"。那么谁来照顾"病人、穷人和无法自理的困苦之人"？因此，国王不应以谋取私利为优先，而应为人民提供关怀与[[Benevolence|仁爱]]([[Argument_Li_2012_Cambridge\|Li, 2012, pp.45-46]])。
 
 ---
 

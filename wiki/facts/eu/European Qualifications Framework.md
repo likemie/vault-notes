@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[EU]]"
+  - "[[ASEAN]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Bologna Process]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # European Qualifications Framework
@@ -79,7 +80,7 @@ updated: 2026-10-16
 > [!finding-cards] 影响与后果
 > - **政策影响** 彻底终结了欧洲教育中“以课时量和学制长短衡量文凭”的旧体制，奠定了全欧“以学习成果为本位”的现代资格体系。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
 > - **实践影响** 倒逼欧洲大学各专业必须依据 EQF 描述符重新撰写教学大纲，明确将批判与创新动词嵌入考核标准中。
-> - **知识影响** 成为全球区域资格框架（如东盟 AQRF、太平洋 PQF）争相效仿的国际黄金标准。
+> - **知识影响** 成为全球区域资格框架（如[[ASEAN|东盟]] AQRF、太平洋 PQF）争相效仿的国际黄金标准。
 
 > [!citation-card] 米特论欧洲资格框架与比较教育的“务实欧洲维度”
 > 米特指出，自 1990 年代[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）哥本哈根会议（1994）至格拉纳达会议（2006），欧洲比较教育学界经历了一场深刻转向：学者们逐渐告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思（如 Hans 或 Schneider 的经典论述），转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具。欧洲资格框架（EQF）与[[Bologna Process|博洛尼亚进程]]（Bologna Process）、欧洲委员会倡议一同，构成了这一“务实欧洲维度”（pragmatic European dimension）的核心分析载体。比较教育学者通过对 EQF 文本及其在各国落地引发的[[Policy Borrowing|政策借用]]与制度趋同进行实证比较，使该学科深度介入欧洲教育政策与治理秩序的重塑过程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]

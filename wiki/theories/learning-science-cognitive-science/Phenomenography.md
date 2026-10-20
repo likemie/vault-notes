@@ -6,7 +6,7 @@ aliases:
 summary: "以人们经验和理解现象的质性差异为对象的学习理论传统，通过分析特定任务中的学习方式与理解结果解释学生学习。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,11 +26,10 @@ related_arguments:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Phenomenography
@@ -116,5 +115,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 把现象图式学与[[Constructivist Paradigm\|建构主义]]并列为[[Student Learning Research\|学生学习范式]]的两种主要理论，并通过表层和[[Surface and Deep Learning\|深层学习]]方式说明其教学含义。

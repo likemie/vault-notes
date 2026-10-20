@@ -38,7 +38,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Red Tape]]"
   - "[[Creativity]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -65,14 +66,14 @@ part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-05-28
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -362,7 +363,7 @@ citation_aliases:
 
 23. 科学家和工程师，尤其是来自不同学科和行业的人，不太会主动社交(p.137)。他们需要"借口"来互动。这种借口应当是趣味的、低压力、非正式的活动，正式会议无法产生真正的跨学科交流。
 
-24. 在 Tech Square，[[TUFF]] 的 ToM Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
+24. 在 Tech Square，[[TUFF]] 的 [[Theory of Mind|ToM]] Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
 
 > [!example]
 > 乐高搭建比赛、知识问答之夜、桌游下午茶、Taco Tuesday。两个平时在各自实验室里埋头工作的人，可能因为拼乐高时聊到"你做什么的"而发现，一个人正在做的机器学习模型，恰好可以解决另一个人实验室里困扰了三年的数据标注问题(pp.136–137)。

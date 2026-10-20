@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 26
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,12 +31,10 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Network Governance]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Traill]]"
@@ -129,7 +127,7 @@ updated: 2026-10-20
 > > [!axis] 资源投入公平 vs 成果产出审计对[[Teacher Professional Agency\|教师专业自主权]]的侵蚀
 > > 争议 Gonski 2.0 将重点转向“因果证据”与“学习成长增益”对基层教学的冲击。
 > >
-> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，演变为以因果实验与指标排行榜[[Disciplina and Doctrina\|规训]]教师的[[Performativity|表演性]]问责工具。
+> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，演变为以因果实验与指标排行榜规训教师的[[Performativity|表演性]]问责工具。
 > > - **政策技术官僚** 认为单靠砸钱无法解决澳洲 [[PISA]] 成绩长期下滑的困境，必须借助循证证据指导财政使用方向，确保资金真正转化为学习效能。
 
 ---
@@ -156,7 +154,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 Gonski 1.0 报告如何直接催生[[Australian Schools Plus\|澳大利亚学校加计划]]（Schools Plus），以及冈斯基出任先锋慈善家委员会主席动员私人大额资本的制度运作。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 [[Gonski 2.0]] 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 的诞生脉络。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振 Karmel 需求本位公平原则，以及在各州自主化管理政策中遭遇的结构性阻力。

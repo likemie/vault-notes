@@ -9,9 +9,9 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39."
@@ -21,6 +21,7 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Ontology]]"
   - "[[Emergence]]"
   - "[[Multiplicity]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Epistemology]]"
   - "[[Soft Power]]"
+  - "[[International Branch Campus]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Cosmopolitanism]]"
@@ -69,7 +71,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -81,7 +83,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 核心问题：在全球范围内，高等教育和知识的 空间制造 如何与不断变化的世界秩序和 地缘政治 互动？
+> 核心问题：在全球范围内，高等教育和知识的 空间制造 如何与不断变化的世界秩序和 [[Geopolitics|地缘政治]] 互动？
 >
 > 这一问题拆分为两个层面：
 > 1. **理论层面** — 如何从空间理论和地缘政治角度理解高等教育？高等教育的空间是如何被制造的？多重尺度（全球、国家、地方）之间是什么关系？
@@ -97,7 +99,7 @@ citation_aliases:
 
 [[Doreen Massey]](2005)的 *For Space* 提供了三个关键理论工具：
 
-- **开放[[Ontology|本体论]]（open ontology）** 现实不是固定完成的，而是持续[[Emergence|涌现]]的（ever-emerging）。大学、国家、知识、世界都处于"永远在成为"（always becoming）的状态。这一定位意味着：任何地缘政治秩序都不是永久的，变化是常态而非例外
+- **开放[[Ontology|本体论]]（open ontology）** 现实不是固定完成的，而是持续[[Emergence|涌现]]的（ever-emerging）。大学、国家、知识、世界都处于"永远在成为"（always becoming）的状态。这一定位意味着：任何[[Geopolitics|地缘政治]]秩序都不是永久的，变化是常态而非例外
 - **空间作为[[Multiplicity|多重性]]（multiplicity）** 空间是"共存[[Heterogeneity|异质性]]"的领域——不同行动者的生命轨迹在空间中交汇。因为轨迹众多且各自有其因果链，交汇的结果是不可预测的。"多重性产生不确定性"(Massey, 2005, p. 113)
 - **[[Power-Geometries|权力几何学]]（power-geometries）** 空间中的开放与封闭不是抽象的空间形式问题，而是通过社会关系被建构的。关键在于"互联关系的权力地图"（the map of power of openness）(Massey, 2005, pp. 93, 166, 171)
 
@@ -136,7 +138,7 @@ citation_aliases:
 > [!info]
 > **方法类型** 理论化的历史综合（theorized historical synthesis）——这是一种非实证的理论研究方法，作者将自己的定位描述为"利用一系列学术和实证来源，发展出原创的理论化历史综合"(p. 1)。
 >
-> **分析策略** 论文采用"先建立理论框架，再用框架组织历史叙述"的两段式结构。前三分之一(pp. 2–14)建立空间[[Ontology\|本体论]]、[[Scale in Higher Education\|尺度分析]]和地缘政治理论；后三分之二(pp. 15–39)以该框架组织两个历史阶段的叙述分析。
+> **分析策略** 论文采用"先建立理论框架，再用框架组织历史叙述"的两段式结构。前三分之一(pp. 2–14)建立空间[[Ontology\|本体论]]、[[Scale in Higher Education\|尺度分析]]和[[Geopolitics|地缘政治理论]]；后三分之二(pp. 15–39)以该框架组织两个历史阶段的叙述分析。
 >
 > **资料来源** 广泛援引人文地理学（Massey, Lefebvre, Harvey）、高等教育研究（Cantwell, Hazelkorn, Knight, Rizvi）、政治经济学（Gramsci, Wallerstein, Crouch）、国际关系（Sakwa, Zhao）和历史学（Heather & Rapley）等多学科学术文献和统计数据。但论文未说明文献筛选标准、覆盖范围或系统检索策略，读者难以评估其叙述的选择性偏差。
 >
@@ -152,7 +154,7 @@ citation_aliases:
 
 **论证链：**
 
-**1a. 区分物理空间与社会空间** — Marginson 首先澄清：人文地理学中的"空间"不同于物理学或工程学中的空间。社会空间不像一座空体育场那样等待被填满——它在运动之中，由人类行动者持续建构。这一区分看似简单，却是整个论证的基石：如果空间是固定的容器，那么地缘政治权力格局就是永久的；如果空间是动态建构的，那么任何权力格局都有可能改变(p. 3)。
+**1a. 区分物理空间与社会空间** — Marginson 首先澄清：人文地理学中的"空间"不同于物理学或工程学中的空间。社会空间不像一座空体育场那样等待被填满——它在运动之中，由人类行动者持续建构。这一区分看似简单，却是整个论证的基石：如果空间是固定的容器，那么[[Geopolitics|地缘政治]]权力格局就是永久的；如果空间是动态建构的，那么任何权力格局都有可能改变(p. 3)。
 
 > 例：牛津大学所在的物理位置（英国牛津市）几百年来没有变过，但它制造的社会空间一直在变——从中世纪的经院学者共同体，到 19 世纪的帝国精英培养地，到 1990 年后吸引全球付费学生的商业化枢纽，再到今天在中美脱钩背景下重新定位其中国研究合作策略。物理位置没变，社会空间变了。
 
@@ -224,7 +226,7 @@ citation_aliases:
 | **美国** | 人才虹吸 | 博士生培养+开放移民 | 精英大学大规模资助外国博士生，利用宽松移民制度招募全球科研人才（尤其中国和印度），增强科研实力和[[Soft Power\|软实力]] |
 | **英国** | 收入替代 | 历史声望+国际学费 | 以国际学生收入替代下降的公共拨款，2019 年国际学生贡献超过大学收入的 27%，在节省财政支出的同时扩大新殖民软实力 |
 | **澳大利亚** | 费用循环 | 签证政策+地理位置 | 国际学生费用资助约 1/4 大学科研，2019 年 32.4% 学生付国际学费，7 所大学进入 ARWU 前 100。排名支撑招生→招生支撑排名，形成循环效应 |
-| **中国** | 国家投资 | 政府资金+系统规划 | 侧重国内能力建设而非全球扩张，以持续增长的政府投资驱动。中国大学较少设立海外分校，但通过大规模国内投资实现了全球最快的科研产出增长 |
+| **中国** | 国家投资 | 政府资金+系统规划 | 侧重国内能力建设而非全球扩张，以持续增长的政府投资驱动。中国大学较少设立[[International Branch Campus\|海外分校]]，但通过大规模国内投资实现了全球最快的科研产出增长 |
 
 > 例：同样是"国际化"，澳大利亚的模式像一个精明的商人——利用靠近亚洲的地理优势和英语优势，把[[International Education\|国际教育]]做成一门大生意，然后用赚来的钱提升科研排名，排名又吸引更多学生。中国的模式像一个战略规划者——不需要去海外开分校，而是把钱投在国内，建设世界一流的实验室和大学，让你自己来。两种模式都很成功，但逻辑完全不同。这就是 Massey 多重性的实证表现。
 
@@ -257,7 +259,7 @@ citation_aliases:
 ### 理论贡献
 
 - **[[Multiplicity|多重性]]在高等教育中具有强大的解释力** 从 Clark Kerr(1963)"[[Multi-University|多元大学]]"的内部分化，到全球化中各国大学系统的外部多样化，再到全球政治经济中从英美单极到多极化的结构性转变——Massey 的多重性概念在高等教育的三个层次上都被反复证实(pp. 6–7)
-- **地缘政治包含合作维度，而不仅是[[Zero-Sum Competition|零和竞争]]** 高等教育中的地缘政治关系（尤其在科学领域）比国家间的政治、经济和军事关系更具合作性——尽管高等教育在地缘政治上可能更等级化和不平等(p. 11)
+- **[[Geopolitics|地缘政治]]包含合作维度，而不仅是[[Zero-Sum Competition|零和竞争]]** 高等教育中的地缘政治关系（尤其在科学领域）比国家间的政治、经济和军事关系更具合作性——尽管高等教育在地缘政治上可能更等级化和不平等(p. 11)
 - **不存在全球政治主体** 除[[EU|欧盟]]部分政策领域外，国家主权之上没有具有约束力的全球政治主体。国家不承担承认全球互赖性或为全球整体负责的必要义务——世界只是被当作"共同资源"来利用和争夺(pp. 10–11)
 - **Wallerstein [[World-Systems Theory|世界体系理论]]的经验失败** 过去三十年多国（中国、新加坡、韩国、印度、伊朗、巴西等）在高等教育和科学领域的同时进步，直接[[Falsification|证伪]]了该理论的零和剩余假设和刚性空间性(pp. 12–13)
 
@@ -312,7 +314,7 @@ citation_aliases:
 对具体国家和地区的分析以宏观叙事为主。例如，对中国[[Internationalization of Higher Education|高等教育国际化]]的讨论主要停留在"国家投资驱动"这一宏观描述，缺乏对具体政策过程、制度矛盾或国内争议的深入分析。对个别机构如何在不同尺度之间策略性运作的微观机制也着墨甚少。
 
 ### 对南南合作关注不足
-分析聚焦于西方（尤其是美国）的去全球化和中美脱钩，对全球南方之间（South-South）的教育和研究合作持续增长的关注相对有限。例如，中国与非洲国家、印度与东南亚国家之间的高等教育合作在 2015 年之后显著增长，但分析主要从"西方视角"看待全球地缘政治变化。
+分析聚焦于西方（尤其是美国）的去全球化和中美脱钩，对全球南方之间（South-South）的教育和研究合作持续增长的关注相对有限。例如，中国与非洲国家、印度与东南亚国家之间的高等教育合作在 2015 年之后显著增长，但分析主要从"西方视角"看待全球[[Geopolitics|地缘政治]]变化。
 
 ### 能动性的不对称处理
 [[Analytic Framework|分析框架]]在理论层面强调"所有行动者都有比他们知道的更多的行动空间"(p. 12)，但经验部分对非英美行动者能动性的分析——如非洲国家的大学如何利用多极化的新机会空间——远不如对英美行动者的分析充分。

@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Iconography]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Geopolitics]]"
   - "[[Cultural Diplomacy]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Rationalism in International Relations]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Joseph Lauwerys
@@ -140,7 +141,7 @@ updated: 2026-10-16
 > > 学界长期熟知劳韦里斯的卓越演讲魅力与学术外交光环，将其奉为[[Disciplinary Institutionalization|学科建制]]的奠基性元老。然而，正如 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）所指出的，比较教育学界至今缺乏一部严肃历史学家式的、具有深层批判力的劳韦里斯传记。这种现象揭示出比较教育在建构自身历史传统时，容易沉溺于制造未经反思的学科肖像学（Iconographies），而回避了对其制度权力与历史局限的深层探究。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 >
 > > [!axis] 理性主义理想与地缘现实的张力
-> > 劳韦里斯所倡导的科学人道主义与国际理解假定教育合作能够超越地缘政治分裂，但在冷战加剧的背景下，这种理想主义设定常面临被两大阵营的[[Cultural Diplomacy\|文化外交]]与意识形态竞争所工具化的现实挑战。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
+> > 劳韦里斯所倡导的科学人道主义与国际理解假定教育合作能够超越[[Geopolitics|地缘政治]]分裂，但在冷战加剧的背景下，这种理想主义设定常面临被两大阵营的[[Cultural Diplomacy\|文化外交]]与意识形态竞争所工具化的现实挑战。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
 
 > [!warning] 未解问题与边界
 > 劳韦里斯的国际主义网络虽然覆盖广泛，但其核心权力结构仍高度锚定在西欧与英美大都市的精英学术圈层；其思想遗产在全球南方去殖民化背景下如何被批判性重审，仍是当代[[Comparative History of Comparative Education\|比较教育学比较史]]（[[Comparative History of Comparative Education]]）的重要未解课题。

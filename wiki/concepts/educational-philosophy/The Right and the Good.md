@@ -9,7 +9,7 @@ aliases:
 summary: "政治与道德哲学中的核心范畴区分，探讨基于权利与规则的程序正义（正当/Right）与关于美好生活、终极价值和共同体目标的实质构想（善/Good）之间的张力与平衡。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,8 +23,7 @@ related_concepts:
   - "[[Discourse]]"
 related_theories:
   - "[[Postmodernism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Ágnes Heller]]"

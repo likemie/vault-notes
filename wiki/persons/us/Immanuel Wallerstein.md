@@ -9,7 +9,7 @@ summary: "美国历史社会学家，世界体系分析创始人。提出资本�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Developmentalism]]"
   - "[[Unit of Analysis]]"
   - "[[Popular Education]]"
   - "[[Methodological Nationalism]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Value Neutrality]]"
   - "[[Determinism]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Dependency Theory]]"
@@ -42,7 +42,6 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -95,7 +94,7 @@ updated: 2026-10-20
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1960 年代 — 非洲实地考察与反思发展主义** 深入西非考察去殖民化运动，发现边缘国家不发达的根源绝非技术或资本的内部暂时匮乏，而是长期卷入欧美中心国家主导的不等价贸易交换的结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
+> - **1960 年代 — 非洲实地考察与反思[[Developmentalism|发展主义]]** 深入西非考察去殖民化运动，发现边缘国家不发达的根源绝非技术或资本的内部暂时匮乏，而是长期卷入欧美中心国家主导的不等价贸易交换的结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >   - **代表成果** 博士论文与非洲民族独立专著。
 >   - **理论思想渊源** 吸收马克思主义政治经济学、安德烈·贡德·弗兰克（Andre Gunder Frank）的[[Dependency Theory|依附理论]]，以及萨米尔·阿明（Samir Amin）与沃尔特·罗德尼（Walter Rodney）的不均衡发展理论。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
 > - **1970–1980 年代 — 现代世界体系与长时段历史动力学** 借鉴法国年鉴学派布罗代尔（Fernand Braudel）的“长时段”历史学，系统构筑以 1450–1600 年“漫长的 16 世纪”为起点的资本主义世界经济整体论。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 114)]]
@@ -167,7 +166,7 @@ updated: 2026-10-20
 > > - **比较教育实证学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 补充提出“全球与本土辩证法”，通过微观案例证明基层教师、乡村青年与草根社会运动始终保持着强大的反抗与重构能动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 >
 > > [!axis] 现实主义冲突剥削论 vs 新制度主义共识扩散论
-> > 围绕全球教育趋同的动因展开世纪争论：是普世文明信念的扩散，还是资本主义中心对边缘的[[Disciplina and Doctrina|规训]]与分层固化。
+> > 围绕全球教育趋同的动因展开世纪争论：是普世文明信念的扩散，还是资本主义中心对边缘的规训与分层固化。
 > >
 > > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]现实主义学派** 坚称教育扩张服务于国际资本积累，形式趋同掩盖了实质阶级再生产。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > > - **迈耶[[Stanford School|斯坦福学派]]** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]

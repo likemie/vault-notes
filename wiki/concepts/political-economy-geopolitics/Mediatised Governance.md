@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Problem Finding]]"
   - "[[Champ]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Determinism]]"
   - "[[Media Logic]]"
   - "[[Construct]]"
@@ -48,12 +47,11 @@ related_arguments:
 related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Convergence Theory in Comparative Education]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Mediatised Governance
@@ -66,7 +64,7 @@ updated: 2026-10-16
 > 媒介化治理（mediatised governance）指在当代民主社会中，教育政策的议程设置、[[Problem Finding\|问题界定]]与正当性辩护深受大众媒体运作逻辑与政治传播规律塑造的治理形态。由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）等全球性学业测评数据在进入主权国家公共[[Champ\|场域]]时，并不直接引发基于证据的理性政策趋同，而是被本土政治行动者与自主性新闻媒体按照各自的规则与偏好进行选择性重构；双方通过相互交织的危机叙事与耸动排列表，将复杂的跨国数据转化为证明国内教育全面衰退并推行既定激进改革的政治资本。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 110–112, 125–126)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向全球治理数据在主权国家落地过程中，政策制定与新闻生产高度融合、彼此[[Disciplina and Doctrina\|规训]]的互动机制。
+> - **含义** 指向全球治理数据在主权国家落地过程中，政策制定与新闻生产高度融合、彼此规训的互动机制。
 > - **用途** 纠正将全球教育治理简单设想为国际组织自上而下施加政策趋同的[[Determinism\|决定论]]偏颇，揭示[[Media Logic\|媒体逻辑]]如何作为一种能动性的政治制度深度介入教育政策过程。
 > - **性质** 这是一个批判性与实然描述性的分析概念（critical/empirical concept），旨在揭示政客与媒体协同制造危机、架空民主问责的制度异化现实，绝非规范性（normative）或倡导性的政策理想。
 > - **边界** 媒介化治理不等于中性的信息大众传播（mediation），亦不意味着全球机构的权威被完全消解，而是强调政策讨论的公共框架受到媒体规则与政治修辞的双重框定。
@@ -209,6 +207,6 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]与实证案例
+> [!evidence-grid-a] 相关研究与实证案例
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 在阿根廷与巴西课程改革研究中揭示国家[[Discourse|话语]]如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。

@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Problem Approach]]"
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Nicholas Hans]]"

@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -28,12 +28,14 @@ tags:
   - knowledge-brokerage
 related_concepts:
   - "[[Evidence Ecosystem]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Evaluation Research]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Policy Brokerage]]"
   - "[[Metacognition]]"
   - "[[Peer-Supported Learning]]"
   - "[[Learnology]]"
+  - "[[South-South Cooperation]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Critical Pedagogy]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # SUMMA
@@ -89,7 +91,7 @@ updated: 2026-10-17
 > - **成立时间 / 创设背景** 2015 年巴拿马美洲峰会期间，拉美 7 国教育部部长联合提出设立区域性证据与创新实体的倡议；美洲开发银行依托区域公共产品倡议（Iniciativa Bienes Públicos Regionales）于 2016 年正式出资孵化设立 SUMMA，并于同年在华盛顿特区与智利圣地亚哥举行官方发布。
 > - **总部地点 / 业务辐射** 法定总部与中央办公室设于智利圣地亚哥，在阿根廷、洪都拉斯与加拿大设有常设办事机构；实际常态业务协同网络覆盖拉美和加勒比地区 21 个国家的教育部与国家教育评价机构。
 > - **法人属性与经费基础** 2019 年 12 月完成法定独立注册，成立“SUMMA 基金会”（Fundación SUMMA）作为自主非营利组织。经费来源包含美洲开发银行专项资助、[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）战略资助、成员国政府项目委托以及国际多边机构（如[[Global Partnership for Education\|全球教育伙伴关系]] GPE、加拿大国际发展研究中心 IDRC）的竞争性联合基金。
-> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证[[Research Synthesis|证据综合]]与多语种转译、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化循证决策咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证[[Research Synthesis|证据综合]]与多语种转译、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化[[Evidence-Based Policy-Making|循证决策]]咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **官方门户** 官方网站为 [https://summaedu.org](https://summaedu.org)。
 
 ---
@@ -143,7 +145,7 @@ updated: 2026-10-17
 > - **政策议程塑造力** 深度参与智利国家教育质量局（Agencia de Calidad de la Educación）治理评估，为主管部门编制国家补偿性拨款与初任教师培养指南提供底层实证支撑。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **南南合作与去中心化证据流动** 颠覆了传统以英美为单一源头的单向知识输出模式，促成拉美内部跨国实证协作（如智利、厄瓜多尔、乌拉圭与巴拿马的联合试验），建立了具有全球南方自主性的多中心证据生态。
+> - **[[South-South Cooperation|南南合作]]与去中心化证据流动** 颠覆了传统以英美为单一源头的单向知识输出模式，促成拉美内部跨国实证协作（如智利、厄瓜多尔、乌拉圭与巴拿马的联合试验），建立了具有全球南方自主性的多中心证据生态。
 > - **循证理念与专业素养下沉** 通过 Impacta+ 平台与区域教师大调查，培育了拉美各国教育官僚与学校管理层运用因果证据审视教育方案的专业自觉。
 
 > [!stat-cards]- 核心规模数据

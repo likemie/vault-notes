@@ -7,7 +7,7 @@ aliases:
 summary: "科学教育与课程论核心概念，指学习者依据学科评价标准与经验证据为自然现象建构因果机制、概念网络与多模态理论模型的认识论实践。"
 type: concept
 domain: "curriculum"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,18 +20,18 @@ tags:
 related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Epistemic Practices]]"
-  - "[[Rote Learning]]"
   - "[[Authentic Science Practices]]"
   - "[[Epistemology]]"
   - "[[Epistemic Ideals]]"
   - "[[Variable]]"
   - "[[Cognitive Complexity Index]]"
+  - "[[Theory of Knowledge]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflective Structuration]]"
   - "[[Discourse]]"
+  - "[[Scaffolding]]"
   - "[[Operationalization]]"
-  - "[[Theory of Knowledge]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Interactional Ethnography]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
@@ -66,10 +65,10 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向连接可观察经验现象与不可见理论机制的因果建构与模型阐释过程。
-> - **用途** 帮助科学教育者超越[[Rote Learning|机械死记]]科学术语与事实清单，引导学生经历协调证据、阐明因果链条与评估模型严密性的[[Authentic Science Practices|真实科学探究]]。
+> - **用途** 帮助科学教育者超越机械死记科学术语与事实清单，引导学生经历协调证据、阐明因果链条与评估模型严密性的[[Authentic Science Practices|真实科学探究]]。
 > - **边界** 科学解释不同于纯粹的事实描述（回答是什么）或单纯的断言声明（回答是什么结论），其核心特质在于因果机制的阐明与学科概念的连贯表征。
 
-> [!citation-card] 科学解释评价标准的认识论功能
+> [!citation-card] 科学解释评价标准的[[Epistemology|认识论]]功能
 > 优质科学解释的评价标准能够作为显性[[Epistemic Ideals|认识论标准]]，帮助学生摆脱听起来像科学的直觉判断，转而运用科学共同体的规范准则系统检验与修正所建构的解释。[[Argument_Han_Gutierez_2026_IJSE|(de Andrade et al., 2019, 引自 Han & Gutierez, 2026, p. 5)]]
 >
 > *The criteria for good scientific explanations make explicit the disciplinary standards that scientists use to judge the quality of explanations, moving students beyond intuitive judgments toward rigorous evaluation.*
@@ -83,11 +82,11 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 科学解释与相近认识论实践的辨析
+> [!contrast-table] 科学解释与相近[[Epistemic Practices|认识论实践]]的辨析
 > | 维度 | 科学解释（Scientific Explanation） | 科学描述（Scientific Description） | 科学论证（Scientific Argumentation） | 科学预测（Scientific Prediction） |
 > |---|---|---|---|---|
 > | **核心问题指向** | 为什么发生？因果机制是什么？ | 是什么？观察到了什么特征？ | 为什么该主张比对立观点更可信？ | 在特定条件下未来将发生什么？ |
-> | **核心构成要素** | 因果叙事、概念框架、机制表征 | 观察事实、形态特征、测量数据 | 主张（Claim）、证据（Evidence）、论据辩护（Warrant） | 假设条件、模型外推、预期[[Variable|变量]]值 |
+> | **核心构成要素** | 因果叙事、概念框架、机制表征 | 观察事实、形态特征、测量数据 | 主张（Claim）、证据（Evidence）、论据辩护（Warrant） | 假设条件、模型外推、预期[[Variable\|变量]]值 |
 > | **理论深度** | 揭示不可见的中介因果链与深层原理 | 停留在可观察的宏观或微观表象 | 聚焦于知识主张的合理性辩护与反驳 | 依托既有规律对未知状态的前瞻判断 |
 > | **代表性规范** | de Andrade et al. (2019); [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | NGSS Lead States (2013) | Osborne and Pimentel (2023) | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] |
 
@@ -118,7 +117,7 @@ updated: 2026-10-20
 >   4. 详细因果解释（Elaborated Explanation）：呈现完整连续的因果链条与多系统相互作用机制。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, p. 907)]]
 
 > [!example] 典型教学探究案例
-> - **五年级眼睛-大脑视觉协同因果机制解释深化（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）** 学生从“光线直接射入瞳孔”的朴素直觉出发，通过知识论坛协作探究，跨组整合眼睛光学成像与大脑枕叶视觉中枢信号转导，构建起完整的视神经双向翻转解析模型，达到详细因果解释层级。
+> - **五年级眼睛-大脑视觉协同因果机制解释深化（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）** 学生从“光线直接射入瞳孔”的朴素直觉出发，通过[[Theory of Knowledge|知识论]]坛协作探究，跨组整合眼睛光学成像与大脑枕叶视觉中枢信号转导，构建起完整的视神经双向翻转解析模型，达到详细因果解释层级。
 > - **初中生物植物生长因果协同机制人机多模态建构（[[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）** 学生面对生成式 AI 罗列的孤立器官描述，依据四项标准重构交互提示，引导 AI 输出“根系吸水—茎秆输送—叶片光合转化—养分回流”的完整因果链条，并在多模态图解中补全水流渗透微观箭头。
 
 > [!logic-map]- 科学解释的评价标准与认知复杂度演进
@@ -181,7 +180,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **内在机制命题** | 科学解释依赖因果链条推导与学科概念框架整合，反对碎片化事实堆砌 | 科学探究教学、基于模型的探究、科学论证课堂 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; de Andrade et al. (2019) |
-> | **人机协同重构命题** | 显性解释标准作为认知支架，赋能学生识别并纠正 AI 生成内容中的机制遗漏与表征不足 | 生成式 AI 科学学习、人机协同多模态解释建构 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
+> | **人机协同重构命题** | 显性解释标准作为[[Scaffolding\|认知支架]]，赋能学生识别并纠正 AI 生成内容中的机制遗漏与表征不足 | 生成式 AI 科学学习、人机协同多模态解释建构 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 > | **历时演进与建构命题** | 反思性结构化与意向领域动态重构驱动科学解释从事实罗列向跨系统因果模型深化 | 长周期协作知识建构、复杂科学系统探究 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] |
 
 ---
@@ -190,10 +189,10 @@ updated: 2026-10-20
 
 > [!dev-timeline] 概念演变
 > - **1965 — 哲学演绎-法则模型** Hempel 提出科学解释的演绎-法则模型（D-N Model），将解释确立为由普遍规律与初始条件演绎推导出的命题结构。
-> - **2005–2013 — 科学教育中的认识论转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心认识论实践，强调因果机制与证据协调。
-> - **2019 — 四维评价标准系统化** de Andrade, Freire and Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的操作化工具。
-> - **2022 — 协作知识建构中的解释深化与层级编码** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实反思性结构化能有效驱动小学生从简单事实描述深化至高阶详细因果解释。
-> - **2026 — 人机协同多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
+> - **2005–2013 — 科学教育中的[[Epistemology|认识论]]转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心[[Epistemic Practices|认识论实践]]，强调因果机制与证据协调。
+> - **2019 — 四维评价标准系统化** de Andrade, Freire and Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
+> - **2022 — [[Knowledge Building Theory|协作知识建构]]中的解释深化与层级编码** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实[[Reflective Structuration|反思性结构化]]能有效驱动小学生从简单事实描述深化至高阶详细因果解释。
+> - **2026 — [[Man-Computer Symbiosis|人机协同]]多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
 
 ---
 
@@ -217,10 +216,10 @@ updated: 2026-10-20
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作话语分析与典型案例研究 | 16 篇 BOOK 视图反思笔记的科学理解层级与认知复杂度编码 | 科学理解中 13 篇达完全科学水平（占比 81.25%），2 篇达基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇达详细因果解释（占比 43.75%），2 篇简要解释，6 篇详细事实；30 个核心问题中 23 个为解释寻求型问题（占比 76.7%） | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实[[Reflective Structuration\|反思性结构化]]教学有效驱动小学生从表层事实搜寻深化至高质量的因果机制科学解释 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的操作化认识论工具 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节[[Man-Computer Symbiosis\|人机协同]]科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的[[Operationalization\|操作化]][[Epistemology\|认识论]]工具 |
 
 ---
 

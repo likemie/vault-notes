@@ -7,7 +7,7 @@ aliases:
 summary: "教育资格在另一机构或国家被接受为入学、选拔、分班、课程豁免或任职依据的制度过程，强调资格效力由使用者、主管机关和具体用途共同赋予。"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,8 +21,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[International Schools]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Qualification Recognition
@@ -168,5 +167,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 以 IB 六年试验比较大学、教育机关与指定学校等承认路径，展示国际资格如何发展为跨国网络；法、德等国的有限承认争议见 [[Argument_Peterson_1987_OpenCourt_Ch07|Ch. 7]]。

@@ -6,10 +6,10 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -51,7 +51,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Aims
@@ -218,7 +217,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证证实了[[Epistemology\|认识论]]干预对指向深层理解与高阶论证的认识目标具有显著促进效应，并量化揭示了测验目标对齐的调节机制。

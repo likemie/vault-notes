@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,14 +37,13 @@ related_methods:
   - "[[Qualitative Codebook]]"
   - "[[Intercoder Agreement]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Non-participant Observation
 
@@ -125,5 +124,5 @@ Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 将非[[Participant Observation\|参与观察]]与参与式观察并列，以 Boulton（1992）等研究为例（pp. 291–292）；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Ch. 23]] 介绍完全观察者角色、设计清单及单向镜与视频记录的应用。

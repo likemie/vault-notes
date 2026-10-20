@@ -22,6 +22,7 @@ tags:
   - theme/evidence-based-education
   - theme/what-works-movement
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Seed Funding]]"
   - "[[Academic Achievement]]"
   - "[[Evidence Ecosystem]]"
@@ -36,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peter Lampl
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育慈善家、风险投资家，[[Sutton Trust\|萨顿信托]]（Sutton Trust）创始人兼董事长，[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创办理事会主席（2011年至今）。
-> - **核心角色** 英国现代教育循证决策、社会流动性倡导与独立研究中介机构治理的制度设计者与领军人物，开创了国家财政[[Seed Funding|种子基金]]与民间独立信托相结合的“有效机构”（What Works Centre）公共治理模式。
+> - **核心角色** 英国现代教育[[Evidence-Based Policy-Making|循证决策]]、社会流动性倡导与独立研究中介机构治理的制度设计者与领军人物，开创了国家财政[[Seed Funding|种子基金]]与民间独立信托相结合的“有效机构”（What Works Centre）公共治理模式。
 > - **代表贡献** 创设致力于阻断家庭背景与[[Academic Achievement\|学业成就]]代际传递的萨顿信托；领导设立 EEF 并建立保障评估独立性与研究中立的独立理事会防火墙；资助并主导推广《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》。
 
 > [!citation-card] 独立信托治理与循证决策机制
@@ -97,7 +97,7 @@ updated: 2026-10-16
 >   - **代表举措** 创立[[Sutton Trust\|萨顿信托]]夏季大学项目，发表系列阶层流动与公学垄断调查报告。
 >   - **关键关切** 教育不平等与阶级流动阻滞。
 >   - **阶段转向** 逐步认识到仅在高等教育入口处干预为时已晚，必须将资源前置于基础教育早期和中小学校课堂教学质量改进。
-> - **2011–至今 — 循证决策与国家证据生态建设** 将关注重心全面转向中小学教学效能与科学因果证据生产。
+> - **2011–至今 — [[Evidence-Based Policy-Making|循证决策]]与国家证据生态建设** 将关注重心全面转向中小学教学效能与科学因果证据生产。
 >   - **代表举措** 创办 [[Education Endowment Foundation\|EEF]] 并推行《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，建立 15 年长周期独立捐赠信托机制。
 >   - **关键概念／方法** [[Evidence-Based Education\|循证教育]]、[[Randomised Controlled Trials\|随机对照试验]]、[[Evidence Ecosystem\|证据生态系统]]。
 >   - **阶段转向** 从依靠直觉与倡导的传统慈善模式，转向依靠严格[[Causality\|因果推断]]（RCT）与透明报告标准的系统化公共证据治理。
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > - **组织与治理路径** 奠定了英格兰教育[[Educational Brokerage Agency\|证据中介机构]]的独立治理[[Paradigm\|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
 > - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials\|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation\|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
 
 ---
@@ -170,7 +170,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Sutton Trust]] | 事实 | 1997 年创立并主持该慈善机构，致力于促进社会流动性与弱势学生教育公平。 |
 > | [[Education Endowment Foundation]] | 事实 | 2011 年代表萨顿信托竞标创立，并长期出任独立理事会主席，主导制度顶层设计。 |
-> | [[EEF Teaching and Learning Toolkit]] | 事实 | 推动并将杜伦大学学业差距干预工具升级为国家级循证决策指南。 |
+> | [[EEF Teaching and Learning Toolkit]] | 事实 | 推动并将杜伦大学学业差距干预工具升级为国家级[[Evidence-Based Policy-Making\|循证决策]]指南。 |
 > | [[Evidence Ecosystem]] | 概念 | 倡导并推动建立连接政府、研究者、学校与慈善基金的独立证据生态网络。 |
 > | [[Evaluator Independence]] | 概念 | 创设独立信托治理防火墙，切断政府行政干预与研发者利益捆绑。 |
 

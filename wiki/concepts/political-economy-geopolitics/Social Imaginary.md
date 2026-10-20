@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 62
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Space of Equivalence]]"
   - "[[Liberalization]]"
   - "[[Variable]]"
@@ -49,6 +48,8 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Paradigm]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Developmentalism]]"
+  - "[[National Rejuvenation Narrative]]"
   - "[[Democratic Education]]"
   - "[[Construct]]"
   - "[[New Public Management]]"
@@ -56,8 +57,12 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Banal Imperialism]]"
   - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Grand Theory]]"
   - "[[Normative Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Spatial Sortings]]"
+  - "[[Geopolitics]]"
+  - "[[Education Going Global]]"
 related_theories:
   - "[[New Growth Theory]]"
   - "[[Human Capital Theory]]"
@@ -70,7 +75,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
+  - "[[Critical Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -84,6 +89,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[PISA]]"
   - "[[Mediterranean Regional Project]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Rizvi_2022_Springer]]"
@@ -136,7 +142,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 现代社会想象的核心运作机制
-> - **描述性与规范性的滑动融合（Descriptive-Prescriptive Slippage）** [[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu, 2003）指出，全球化概念在跨国[[Discourse|话语]]中展现出致命的词义滑动：行动者在表面上声称仅仅客观“描述”世界经济的既成事实，实则在以隐蔽的“规范性”力量[[Disciplina and Doctrina|规训]]民族国家必须朝着解除市场管制与私有化方向重塑制度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
+> - **描述性与规范性的滑动融合（Descriptive-Prescriptive Slippage）** [[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu, 2003）指出，全球化概念在跨国[[Discourse|话语]]中展现出致命的词义滑动：行动者在表面上声称仅仅客观“描述”世界经济的既成事实，实则在以隐蔽的“规范性”力量规训民族国家必须朝着解除市场管制与私有化方向重塑制度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
 > - **经验事实与情感焦虑的非结构化交织（Mix of Empirical and Affective）** 查尔斯·泰勒（Charles Taylor, 2004）强调，社会想象深度动员了群体的生存情感，超越纯粹的智识计算。[[OECD|经合组织]]成功将真实的产业技术迭代与公众对“落后失业”、“国家掉队”的集体焦虑缝合在一起，将教育重塑为对冲全球化风险的避险工具。
 > - **跨国流动与多层网络扩散（Transnational Diffusion Networks）** 阿尔君·阿帕杜莱（Arjun Appadurai, 1996, 2000）阐明，电子媒介、资本流通与人口跨境流动打破了民族国家对集体想象的边界垄断；跨国组织与[[Policy Network|政策网络]]协同将特定社会想象打造为全球通行的“通用常识”。
 > - **对替代性发展方案的系统性排斥（Exclusion of Alternatives）** 简·肯韦（Jane Kenway et al., 2006）指出，主导性社会想象具有强烈的排他性，它将所有非市场化、非经济主义的教育与社会发展可能抹煞为“不切实际的幻想”，尽管其话语深处始终被“替代性经济的幽灵”所困扰。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -219,8 +225,8 @@ updated: 2026-10-20
 > - **第一阶段（1996–2004）：哲学与人类学奠基** 阿尔君·阿帕杜莱（Appadurai, 1996, 2000）提出全球文化流动中的“想象作为日常社会实践”，打破民族国家对集体认同的垄断；查尔斯·泰勒（Taylor, 2004）在《现代社会想象》中系统阐发社会想象如何作为深层共享背景赋予现代市场、公共领域与公民社会以正当性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–445)]]
 > - **第二阶段（2003–2006）：[[Cultural Political Economy|文化政治经济学]]与[[Knowledge-Based Economy|知识经济]]批判** [[Pierre Bourdieu|布迪厄]]（Bourdieu, 2003）揭示新自由主义[[Discourse|话语]]的展演性滑动；简·肯韦等学者（Kenway et al., 2006）在《困扰知识经济》中将社会想象引入全球知识经济批判，剖析主流知识经济叙事对替代性社会经济形态的遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **第三阶段（2009–2010）：全球教育政策社会学的经典定型** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（2009, 2010）系统将社会想象建构为批判性全球教育政策研究的核心分析[[Paradigm|范式]]，全面拆解[[OECD|经合组织]]如何从社会民主协商论坛演化为独立政策行动者，并揭示知识经济社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]合谋的技术机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
-> - **第四阶段（2010s–2020s）：[[Critical Geopolitics|批判地缘政治学]]与多标度网络扩展** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）等学者进一步将社会想象理论拓展至亚洲崛起与全球[[Geopolitics of Higher Education|高等教育地缘政治]]位移分析，揭示发展主义理性向市场理性的位移，以及跨国科研合作中多重诉求的话语缝合。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–92)]]
-> - **第五阶段（2023）：地缘政策话语想象** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）借鉴费尔克拉夫（Fairclough, 2003）的投射性想象概念，揭示宏大国家政策文本如何通过建构关于未来的“可能世界”，塑造连接民族复兴与全球治理替代方案的跨国高教地缘政策想象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]
+> - **第四阶段（2010s–2020s）：[[Critical Geopolitics|批判地缘政治学]]与多标度网络扩展** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）等学者进一步将社会想象理论拓展至亚洲崛起与全球[[Geopolitics of Higher Education|高等教育地缘政治]]位移分析，揭示[[Developmentalism|发展主义]]理性向市场理性的位移，以及跨国科研合作中多重诉求的话语缝合。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–92)]]
+> - **第五阶段（2023）：地缘政策话语想象** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）借鉴费尔克拉夫（Fairclough, 2003）的投射性想象概念，揭示宏大国家政策文本如何通过建构关于未来的“可能世界”，塑造连接[[National Rejuvenation Narrative|民族复兴]]与全球治理替代方案的跨国高教地缘政策想象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]
 
 ---
 
@@ -255,8 +261,8 @@ updated: 2026-10-20
 >
 > | 研究 | 样本与分析情境 | 研究设计与方法 | 核心分析[[Construct\|构念]]与指标 | 原始话语分析与政策文本证据（无效应量） | 理论机制与定性结论 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与批判话语分析 | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
-> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 过去三十年亚洲主要高等教育系统与跨国留学政策话语演变（中国、印度、新加坡及西方接收国） | [[Critical Geopolitics\|批判地缘政治学]]与多标度话语分析 | 国际化双重理性（发展主义 vs 市场理性）、跨国科研合作理性缝合 | 国际[[Student Mobility\|学生流动]]从战后援助性质的奖学金模式全面转向全额学费出口产业；跨国科研合作话语中学者兴趣、大学声誉、国家外贸与公共外交四重理性无缝融合 | 论证亚洲崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge\|知识地缘政治]]格局的独立因果力量 | 侧重宏观与中观地缘战略话语，微观留学生主体经验有待延伸 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与[[Critical Discourse Analysis\|批判话语分析]] | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
+> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 过去三十年亚洲主要高等教育系统与跨国留学政策话语演变（中国、印度、新加坡及西方接收国） | [[Critical Geopolitics\|批判地缘政治学]]与多标度话语分析 | 国际化双重理性（[[Developmentalism\|发展主义]] vs 市场理性）、跨国科研合作理性缝合 | 国际[[Student Mobility\|学生流动]]从战后援助性质的奖学金模式全面转向全额学费出口产业；跨国科研合作话语中学者兴趣、大学声誉、国家外贸与公共外交四重理性无缝融合 | 论证亚洲崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge\|知识地缘政治]]格局的独立因果力量 | 侧重宏观与中观地缘战略话语，微观留学生主体经验有待延伸 |
 > | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性文献与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
 
 ---
@@ -267,7 +273,7 @@ updated: 2026-10-20
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 经典建构：系统运用社会想象概念解构[[OECD|经合组织]]从社会民主妥协向[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 地缘拓展：运用[[Critical Geopolitics|批判地缘政治学]]与社会想象透镜，论证亚洲崛起作为重塑全球高等教育格局的独立因果力量。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 学科反思：援引社会想象与跨国知识帝国理论，分析国际组织对比较教育学科自主性的深层重塑。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 政策想象拓展：借鉴费尔克拉夫（Fairclough, 2003）的话语想象（Imaginaries）理论，解构一带一路跨国高教政策如何通过构建“可能世界”的宏大叙事塑造地缘政策想象。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 政策想象拓展：借鉴费尔克拉夫（Fairclough, 2003）的[[Discourse|话语]]想象（Imaginaries）理论，解构[[Belt and Road Initiative|一带一路]]跨国高教政策如何通过构建“可能世界”的[[Grand Theory|宏大叙事]]塑造地缘政策想象。
 
 ---
 
@@ -277,23 +283,23 @@ updated: 2026-10-20
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
-> | [[Knowledge-Based Economy]] | Concept | 全球社会想象在当代政策[[Discourse|话语]]中建构与扩散的核心客体与[[Normative Paradigm|规范范式]]。 |
+> | [[Knowledge-Based Economy]] | Concept | 全球社会想象在当代政策[[Discourse\|话语]]中建构与扩散的核心客体与[[Normative Paradigm\|规范范式]]。 |
 > | [[Governing by Numbers]] | Concept | 社会想象依托统计技术在民族国家落地的具象化与物质化装置。 |
-> | [[Commensuration]] | Concept | 制造跨国[[Space of Equivalence|等值空间]]、使不同文化情境下的教育体系在社会想象中可通约的核心技术。 |
+> | [[Commensuration]] | Concept | 制造跨国[[Space of Equivalence\|等值空间]]、使不同文化情境下的教育体系在社会想象中可通约的核心技术。 |
 > | [[Steering at a Distance]] | Concept | 国际组织凭借社会想象与量化指标在不具备行政强制力下远程调控各国的机制。 |
-> | [[Learning Economy]] | Concept | 知识经济社会想象在[[Epistemology|认识论]]层面推动全社会向持续学习与灵活技能转型的制度形态。 |
-> | [[Lifelong Learning]] | Concept | 社会想象将宏观市场风险转嫁给个体、要求终身投资自保的核心[[Disciplina and Doctrina|规训]]工具。 |
+> | [[Learning Economy]] | Concept | 知识经济社会想象在[[Epistemology\|认识论]]层面推动全社会向持续学习与灵活技能转型的制度形态。 |
+> | [[Lifelong Learning]] | Concept | 社会想象将宏观市场风险转嫁给个体、要求终身投资自保的核心[[Disciplina and Doctrina\|规训]]工具。 |
 > | [[Public Value]] | Concept | 批判知识经济社会想象侵蚀教育民主公物本质与实质公共价值的理论框架。 |
 > | [[Human Capital Theory]] | Theory | 为知识经济社会想象提供核心智识养分与经济学合法性基础的经典理论。 |
 > | [[Social Capital Theory]] | Theory | 被知识经济社会想象工具化收编为维护市场稳定与防范社会排斥的附属理论。 |
-> | [[Critical Geopolitics]] | Theory | 分析跨国社会想象如何塑造全球高等教育权力转移与地缘[[Spatial Sortings|空间分选]]的理论透镜。 |
+> | [[Critical Geopolitics]] | Theory | 分析跨国社会想象如何塑造全球高等教育权力转移与地缘[[Spatial Sortings\|空间分选]]的理论透镜。 |
 > | [[Fazal Rizvi]] | Person | 将社会想象理论开创性引入全球教育政策与高等教育批判研究的领军学者。 |
-> | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
+> | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD\|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
 > | [[Norman Fairclough]] | Person | 提出话语想象（Imaginaries）概念，阐明话语投射性建构未来可能世界的批判话语奠基学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm|范式]]的里程碑文献。 |
-> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国高教出海宏大叙事实践的代表文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
+> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判[[Geopolitics\|地缘政治学]]相结合解析亚洲高教转型的代表文献。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国[[Education Going Global\|高教出海]][[Grand Theory\|宏大叙事]]实践的代表文献。 |
 
 

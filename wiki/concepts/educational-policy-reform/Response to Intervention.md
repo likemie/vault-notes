@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Response to Intervention
@@ -245,7 +244,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，揭示一阶[[Meta-analysis|元分析]]收录非学业测量（智商与行为）及大学生样本直接违背 [[PICO Framework|PICO]] 准入标准的问题。

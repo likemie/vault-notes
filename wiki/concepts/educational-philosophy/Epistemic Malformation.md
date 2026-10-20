@@ -8,7 +8,7 @@ aliases:
 summary: "由 A. C. Nikolaidis (2021) 提出的教育哲学核心概念，指教育教学安排、评价偏见或技术代劳对个体作为求知者的认知机能、探究习惯与理智美德所造成的系统性扭曲与发育阻滞，构成了成长性认识不正义的微观病理学机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Academic Achievement]]"
   - "[[Homework]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Cognitive Deskilling]]"
   - "[[Ontology]]"
   - "[[Humility]]"
@@ -36,8 +35,7 @@ related_concepts:
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -61,7 +59,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 区别于知识储备的单纯匮乏，它特指求知者心智发育过程遭遇结构性偏离，形成了不健康的认知习惯（如理智傲慢、盲信算法、自贬退缩）。
 > - **用途** 帮助教育哲学与学习科学研究者穿透表层[[Academic Achievement|学业成绩]]或格式完美的[[Homework|作业]]成品，诊断微观教学干预与智能技术介入对学习者心智成长造成的深层致残风险。
-> - **边界** 正常的认知困惑、试错挫折与学科知识[[Disciplina and Doctrina|规训]]属于健康的认识塑造（Formation），不构成畸变；唯有当教育环境诱发不可自拔的虚假信度或剥夺核心探究演练时，才构成认知畸变。
+> - **边界** 正常的认知困惑、试错挫折与学科知识规训属于健康的认识塑造（Formation），不构成畸变；唯有当教育环境诱发不可自拔的虚假信度或剥夺核心探究演练时，才构成认知畸变。
 
 > [!citation-card] 认知畸变的规范定义与教育之恶
 > 尼古拉迪斯将[[Formative Epistemic Injustice|成长性认识不正义]]界定为由于认知畸变或导致认知畸变而对某人作为求知者能力的侵害。教师在课堂中因学生表现出自信等与认识无关的理由而予以特权偏袒，受优待的学生便会因为误以为自己完全正确而失去参与深入探索与教育过程的动力。因此，当学生对自身认识能力的感知与客观现实发生脱节时，便产生了认知畸变与成长性不正义。[[Argument_Smith_2026_SPE|Smith (2026, p. 5)]]
@@ -153,7 +151,7 @@ updated: 2026-10-20
 > [!debates] 学术论争焦点
 >
 > > [!axis] 学科规范要求与认知畸变的界限在哪里？
-> > 严格的学科训练与思维[[Disciplina and Doctrina|规训]]是否容易被误判为认知畸变。
+> > 严格的学科训练与思维规训是否容易被误判为认知畸变。
 > >
 > > - **严格规训支持论** 认为学科初学者必须经历严格的模仿、标准化程式与知识灌输，这种外在塑造是通向自主思考的前提，不能随意冠以“畸变”之名。
 > > - **发展正义辨正论（[[Argument_Smith_2026_SPE|Smith, 2026]]）** 强调健康的学科规范保留了学生的真实理解与反思空间；只有当教学制度或技术中介剥夺了学生的逻辑推导权利、制造了与现实脱节的[[Reliability|信度]]假象时，才确证为认知畸变。

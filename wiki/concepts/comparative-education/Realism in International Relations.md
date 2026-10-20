@@ -31,13 +31,13 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Geopolitics]]"
   - "[[Reference Society]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Realism in International Relations
@@ -143,7 +143,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 技术工具性价值 vs 学科道德独立性
-> > 争论比较教育是否应沦为纯粹为大国竞争、地缘政治与外交利益服务的技术性、[[Pragmatic Paradigm\|实用主义]]工具，还是应坚守独立的自我认识与反思路线。
+> > 争论比较教育是否应沦为纯粹为大国竞争、[[Geopolitics|地缘政治]]与外交利益服务的技术性、[[Pragmatic Paradigm\|实用主义]]工具，还是应坚守独立的自我认识与反思路线。
 > > - **实用工具论者** 主张比较教育的根本价值就在于为政策制定者提供可量化、可移植物理经验，维系国家在国际大考（如 [[PISA]]）和地缘博弈中的领先位置。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]])
 > > - **反思反霸权学者** 坚决反对将比较教育化约为“服务性科学”，倡导将比较视为“由对外界的清醒觉察而产生的自我审视与理解”，批判其在“文明化”大叙事中对非西方他者的宰割与抹杀。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]])
 
@@ -151,7 +151,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了现实主义如何在大国竞争、工业冲突、太空恐慌和帝国扩张下，将学科绑架于地缘利益之战中。
 > - [[Development Turn in Comparative Education]] (比较教育的发展转向) — 展现了冷战地缘博弈下，现实主义在大国向第三世界输出代理人时期的实证表现。
 > - [[Reference Society]] (参照社会) — 现实主义视角下为了确立自我相对实力定位而建立的研究与投影框架。

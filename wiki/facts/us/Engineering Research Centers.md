@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
   - "[[Counterpart Funds]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[University-Based Research Center]]"
 related_persons:
   - "[[Fred Block]]"
@@ -65,8 +64,7 @@ related_arguments:
 related_theories:
   - "[[Developmental Network State]]"
   - "[[Social Contract of Science]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
@@ -165,7 +163,7 @@ updated: 2026-10-20
 > > [!axis] 开放创新网络 vs 国家安全排他性审查
 > > 在《[[CHIPS and Science Act|芯片与科学法案]]》与[[Securitization of Technology|技术安全化]]统领下，现代工程研究中心面临严苛的出口管制与合规审查，导致大学传统的国际开放学术合作与多国师生流动受到制度性制约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 >
-> > [!axis] 微观靶向产学协同 vs [[Curiosity-Driven Research|纯基础研究]]使命偏离与政治分肥风险
+> > [!axis] 微观靶向产学协同 vs 纯基础研究使命偏离与政治分肥风险
 > > 探讨 ERC 等中心在面向产业痛点进行微观靶向研发时，是否会导致高校偏离探索未知的基础科学使命；以及[[Congressional Earmarks|国会专项拨款]]（Earmarks）介入产学中心建设的利弊。
 > >
 > > - **学术纯洁性与反分肥派** 担忧中心过度绑定企业现实需求会矮化工程学术标准，且通过国会专项拨款设立中心容易沦为议员选区政治分肥。

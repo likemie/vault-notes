@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家与批判性思维研究先驱，伊利诺�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Domain Specificity]]"
 related_theories:
   - "[[Ennis's Curricular Typology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments:
   - "[[Cornell Critical Thinking Test]]"
   - "[[Ennis-Weir Critical Thinking Essay Test]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Robert Ennis
@@ -93,7 +92,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 广泛采用 Ennis 的[[Critical Thinking\|批判性思维]]定义与四类课程分类模型，并在 341 项实证研究中验证其有效性。
 > - [[Ennis's Curricular Typology]] — Ennis 提出的批判性思维课程组织理论条目。
 > - [[Domain Specificity]] — 探讨 Ennis 通用论原则与 McPeck 学科特异论的历史交锋。

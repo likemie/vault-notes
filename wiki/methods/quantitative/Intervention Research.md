@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -61,7 +61,7 @@ updated: 2026-10-16
 ## 认识论立场
 
 > [!abstract] [[Epistemology\|认识论]]立场
-> 干预研究处于教育心理学"探索到干预"研究序列的后半段：早期描述性研究用于理解情境，[[Correlational Research\|相关研究]]识别可能的[[Causality\|因果关系]]，随后研究者设计可能改善学生学习的干预并与既有标准实践比较([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.2]])。
+> 干预研究处于教育心理学"探索到干预"研究序列的后半段：早期描述性研究用于理解情境，[[Correlational Research\|相关性研究]]识别可能的[[Causality\|因果关系]]，随后研究者设计可能改善学生学习的干预并与既有标准实践比较([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.2]])。
 
 ---
 

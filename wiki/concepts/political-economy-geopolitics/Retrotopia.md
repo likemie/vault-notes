@@ -19,9 +19,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Grand Theory]]"
 related_theories:
+  - "[[Tianxia Heuristic]]"
   - "[[Necropolitics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Retrotopia
@@ -77,7 +77,7 @@ updated: 2026-10-07
 > [!claim] [[Fei Xiaotong\|费孝通]]（Fei Xiaotong）：多元一体与鸦片战争觉醒
 > 费孝通（Fei Xiaotong, 1988）提出的“中华民族多元一体”格局，将中华民国的国家领土边界投射回古代，将所有 56 个民族限定在今日国界之内。他将中华民族从“自在”（自然的、无意识的整合）到“自觉”（被西方的冲击唤醒）的转变归因于鸦片战争的冲击，而非民族的内在发展，在叙事中赋予汉人以唯一的联合主体地位。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])
 
-> [!claim] [[Zhao Tingyang\|赵汀阳]]（Zhao Tingyang）：天下体系与神性中国
+> [!claim] [[Zhao Tingyang\|赵汀阳]]（Zhao Tingyang）：[[Tianxia Heuristic|天下体系]]与神性中国
 > 赵汀阳（Zhao Tingyang）将前现代的中国描绘为与天道对齐、具有神性（shenxing zhongguo）且向全球开放的“天下”文明秩序。他将北方征服者的入侵美化为“逐鹿中原”的猎鹿博弈（stag-hunting），认为少数民族的文化消亡是对中国文字和文化致命吸引力的臣服，从而将文化消亡（[[Necropolitics\|死亡政治]]）美化为少数民族自愿上升转化的选择。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 
 > [!claim] [[Pan Yue\|潘岳]]（Pan Yue）：[[Wuhu Ruhua\|五胡入华]]与融合叙事
@@ -98,5 +98,5 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 将怀旧乌托邦引入中国少数民族研究，剖析“[[Zhonghua Minzu\|中华民族]]伟大复兴”的文明主义时空重构及其对少数民族自我牺牲的道德诉求。

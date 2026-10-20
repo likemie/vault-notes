@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -64,7 +64,6 @@ related_methods:
   - "[[Data Display]]"
   - "[[Constant Comparison]]"
   - "[[Typological Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Observation Method]]"
   - "[[Winnowing]]"
   - "[[Expert Interview]]"
@@ -81,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Content Analysis
@@ -240,7 +239,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统构建内容分析的 11 步标准化操作规程与 Mayring 三类进路，并通过教师工作压力案例示范从质性提取、范畴包容归拢、频次计票到实质性理论生成的完整五阶段流程。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Observation Method\|观察研究]]中的结构化编码体系与访谈质性分析，示范如何在教育研究中通过范畴化提炼核心概念与建构理论逻辑。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research\|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing\|数据筛选]]（Winnowing）将繁复编码收敛为 5–7 个核心解释主题。

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Workforce Development]]"
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
@@ -63,7 +64,7 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -264,7 +265,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 #### 2. 产业政策无法单独解决地缘技术垄断与深层社会分配不平等等结构性矛盾
 
-学术界与政策制定者必须对产业政策的作用范围建立客观预期，避免将所有社会与地缘政治目标过度寄托于产业立法。（pp. 14–15）
+学术界与政策制定者必须对产业政策的作用范围建立客观预期，避免将所有社会与[[Geopolitics|地缘政治]]目标过度寄托于产业立法。（pp. 14–15）
 
 > [!chain-link] 产业战略实施的边界与深层体制依赖
 > - **前提：产业政策资金相对全球市场规模依然有限** 芯片法案 390 亿美元制造补贴难以根本改变台湾在先进制程晶圆制造上占 90% 以上的绝对主导地位。

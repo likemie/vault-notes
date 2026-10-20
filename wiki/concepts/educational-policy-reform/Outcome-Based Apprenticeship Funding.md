@@ -11,7 +11,7 @@ aliases:
 summary: "指将传统的联邦学徒制前置输入型经费补助改造为与学徒实际录用、薪酬增长与长期留任率等真实产出严格绑定的按绩效付费资助机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Block Grants]]"
   - "[[Goodhart's Law]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

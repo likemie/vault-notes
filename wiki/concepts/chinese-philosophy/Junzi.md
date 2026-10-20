@@ -24,18 +24,18 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[Geopolitics]]"
   - "[[Lifelong Learning]]"
   - "[[Value Neutrality]]"
   - "[[Creativity]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Benevolence]]"
   - "[[Hard Belief]]"
   - "[[Cultural Relativism]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
   - "[[Cosmopolitanism]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -62,7 +62,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **君子（Junzi）** 在儒家传统中是指仅次于[[Sage|圣人]]的理想人格，代表那些终身致力于追求仁并在[[Self-Cultivation|修身]]历程中取得显著成就的典范人物（exemplary person）。在文化心理学视阈下，君子能以优雅、尊严与美感自如履行多重社会角色，并自发关怀他人；在现代政治哲学与国家治理视阈下，君子被[[Lee Kuan Yew|李光耀]]与卡普等学者阐述为维系社会团结、抵御地缘政治脆弱性的实质性道德锚点（孝子、忠夫、慈父、益友、尽责公民），构成了超越[[John Rawls|约翰·罗尔斯]]（John Rawls）空洞形式程序中立的文化信念基石。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
+> **君子（Junzi）** 在儒家传统中是指仅次于[[Sage|圣人]]的理想人格，代表那些终身致力于追求仁并在[[Self-Cultivation|修身]]历程中取得显著成就的典范人物（exemplary person）。在文化心理学视阈下，君子能以优雅、尊严与美感自如履行多重社会角色，并自发关怀他人；在现代政治哲学与国家治理视阈下，君子被[[Lee Kuan Yew|李光耀]]与卡普等学者阐述为维系社会团结、抵御[[Geopolitics|地缘政治]]脆弱性的实质性道德锚点（孝子、忠夫、慈父、益友、尽责公民），构成了超越[[John Rawls|约翰·罗尔斯]]（John Rawls）空洞形式程序中立的文化信念基石。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向儒家传统中通过[[Lifelong Learning|终身学习]]将仁德内化于日常多重角色的典范人物，并在现代城邦治理中延伸为公民与治国者兼具家庭伦理与政治忠诚的实质性品德规范。
@@ -91,7 +91,7 @@ updated: 2026-10-20
 > [!contrast-table] 概念辨析
 > | 比较维度 | 君子（Junzi） | 士（Scholar-apprentice） | [[Sage\|圣人]]（Sage） | [[John Rawls\|罗尔斯]]程序中立公民 |
 > |---|---|---|---|---|
-> | **核心内涵** | 终身致力于仁的道德成熟者与典范人物 | 初步掌握道德原则并致力于求道的学习者 | 仁爱普及全人类的至高无上圣贤 | 遵守基本宪政程序与合作规则的理性个体 |
+> | **核心内涵** | 终身致力于仁的道德成熟者与典范人物 | 初步掌握道德原则并致力于求道的学习者 | [[Benevolence\|仁爱]]普及全人类的至高无上圣贤 | 遵守基本宪政程序与合作规则的理性个体 |
 > | **行为表现** | 优雅从容、自发履职、兼具审美与伦理 | 仍需大量刻苦[[Self-Cultivation\|修身]]，偶有勉强与未达 | 行事与天地同德，化育万物 | 追求个人生活计划，遵守消极公德 |
 > | **社会角色** | 孝子、忠夫、慈父、益友、尽责公民的统一 | 处于从家庭向更广阔社会扩展的学习阶段 | 历史开创者与万世师表（尧舜孔孟） | 享有权利并承担法定义务的独立个体 |
 > | **治理功能** | 为城邦提供抵御地缘脆弱性的实质伦理锚点 | 国家行政与士绅阶层的后备力量 | 提供文明正当性源头与根本宪制示范 | 维持多元价值社会运作的最低底线共识 |
@@ -103,9 +103,9 @@ updated: 2026-10-20
 > [!feature] 核心要素
 > - **道德品质的自致性与去贵族化** [[Confucius|孔子]]将君子从血缘出身彻底重塑为道德卓越标准，确立了人人皆可通过学习与[[Self-Cultivation|修身]]成为君子的普遍性路径。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
 > - **多重社会角色的自如履行与审美维度** 君子在家庭、社群与国家的多重角色中游刃有余，不仅以娴熟技巧、更以优雅、尊严与美感履行责任，使道德实践升华为一种充满愉悦的美学生活。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
-> - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事不是受制于外在[[Disciplina and Doctrina|规训]]的被动勉强，而是发自内省仁德的自发、从容与富有[[Creativity|创造性]]。
+> - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事不是受制于外在规训的被动勉强，而是发自内省仁德的自发、从容与富有[[Creativity|创造性]]。
 > - **家庭伦理与公民忠诚的链条贯通** 儒家君子将微观家庭孝悌（孝顺父母、忠于家庭、悉心抚幼）与宏观国家政治忠诚紧密连结，构建起从修身、齐家到治国、平天下的同心圆伦理链条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 215)]]
-> - **作为城邦抵御地缘脆弱性的实质道德锚点** 在现代地缘政治竞争中，君子品格为小国与面临动荡的社会提供了超越单一财富追逐的[[Hard Belief|硬信念]]，成为抵御外部危机与内部虚无的坚实支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
+> - **作为城邦抵御地缘脆弱性的实质道德锚点** 在现代[[Geopolitics|地缘政治]]竞争中，君子品格为小国与面临动荡的社会提供了超越单一财富追逐的[[Hard Belief|硬信念]]，成为抵御外部危机与内部虚无的坚实支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!logic-map]- 君子修身与治国理政的逻辑结构
 > ```mermaid
@@ -159,7 +159,7 @@ updated: 2026-10-20
 > - **公元前 5 世纪 — [[Confucius|孔子]]重塑君子内涵** [[Confucius|孔子]]打破西周以来君子专指血统贵族（君之子）的旧制，将其改造为任何人皆可通过[[Self-Cultivation|修身]]达到的道德典范。
 > - **宋明时期 — 理学心性修养深化** [[Zhu Xi|朱熹]]、[[Wang Yangming|王阳明]]等理学家将君子之道推向心性本体，强调存天理、灭人欲的内在工夫。
 > - **2012 年 — 文化心理学与角色伦理[[Paradigm|范式]]** [[Argument_Li_2012_Cambridge|Li (2012)]] 结合安乐哲与罗思文的角色伦理学，将君子界定为兼具审美优雅、从容创生与关爱他人的“典范人物”。
-> - **2025 年 — 现代政治哲学与国家治理拓展** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 结合[[Lee Kuan Yew|李光耀]]新加坡治理经验，将儒家君子阐发为超越[[John Rawls|罗尔斯]]形式[[Value Neutrality|价值中立]]、维系地缘政治生存与国家凝聚力的实质性公民美德。
+> - **2025 年 — 现代政治哲学与国家治理拓展** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 结合[[Lee Kuan Yew|李光耀]]新加坡治理经验，将儒家君子阐发为超越[[John Rawls|罗尔斯]]形式[[Value Neutrality|价值中立]]、维系[[Geopolitics|地缘政治]]生存与国家凝聚力的实质性公民美德。
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-10-20
 > > [!axis] 角色具体伦理 vs. 普遍包容主义批判
 > > 争论君子所强调的家庭孝悌与国家忠诚等具体责任是人类文明的宝贵根基，还是具有前现代宗法与民族偏狭性。
 > >
-> > - **传统伦理辩护派** 强调真正的普遍仁爱必须从家庭孝悌的切身体验中由近及远推展，抽象脱离具体角色的[[Cosmopolitanism|普世主义]]往往沦为空洞口号。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
+> > - **传统伦理辩护派** 强调真正的普遍[[Benevolence|仁爱]]必须从家庭孝悌的切身体验中由近及远推展，抽象脱离具体角色的[[Cosmopolitanism|普世主义]]往往沦为空洞口号。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 > > - **去中心化批评派** 指出过度强调家庭宗法与政治权威容易固化传统社会等级，压制个体自我实现与边缘群体权利。
 
 ---

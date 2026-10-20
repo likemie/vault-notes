@@ -6,10 +6,10 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theory/comparative-education
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Geopolitics]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Ontology]]"
   - "[[Educated Identity]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Four Forms of Understanding of Comparative Education
@@ -83,7 +84,7 @@ updated: 2026-10-07
 > - **现代性理论**。Alex Inkeles 的模式[[Variable\|变量]]（pattern variables）等理论。
 > - **新制度主义（当代）**。代码词是同构（isomorphisms），以及温和的动词（如出现、发生、成形），通常缺乏明确的行动主体。
 >
-> **政治解构与缺陷** 政治上看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的演化过程。然而，这种表述的语义策略故意选择无施动主体的温和动词，从而掩盖了同构现象背后的权力关系、地缘政治压力与制度性强制，制造了政治中性的伪装。
+> **政治解构与缺陷** 政治上看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的演化过程。然而，这种表述的语义策略故意选择无施动主体的温和动词，从而掩盖了同构现象背后的权力关系、[[Geopolitics|地缘政治]]压力与制度性强制，制造了政治中性的伪装。
 
 ---
 

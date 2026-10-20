@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 82
+related_count: 81
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Bureaucracy]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Cognitive Decoupling]]"
   - "[[Epistemic Community]]"
   - "[[Competitiveness]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Assemblage]]"
   - "[[Venture Philanthropy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Educational Management Organisation]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
@@ -75,7 +75,6 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Network Ethnography]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Ian Menter]]"
@@ -114,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Network
@@ -142,7 +141,7 @@ updated: 2026-10-16
 > *In reality, government and bureaucracy are not monoliths serving one common public interest... The point of departure is that a network does not allow much (coercive) steering. Instead of choosing "more of the same" when steering fails, it should be acknowledged that certain systems are virtually uncontrollable and unorthodox methods should be applied.*
 
 > [!citation-card] 部委政务网络中的非线性解耦
-> 部委定期征询政策输入的组织类别规模与日常互动的实际频率之间并未展现出简单的线性对应关系。广泛的征询名单并不等于深度的循证决策，警惕大网络陷阱要求我们将分析焦点从形式化的网络规模转向高频、实质性的人际与制度互动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 85]]）。
+> 部委定期征询政策输入的组织类别规模与日常互动的实际频率之间并未展现出简单的线性对应关系。广泛的征询名单并不等于深度的[[Evidence-Based Policy-Making|循证决策]]，警惕大网络陷阱要求我们将分析焦点从形式化的网络规模转向高频、实质性的人际与制度互动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 85]]）。
 >
 > *The size of a ministry's consultation network does not automatically correlate with the intensity or depth of interaction; formal breadth often masks substantive [[Cognitive Decoupling|decoupling]] in evidence exchange.*
 
@@ -173,7 +172,7 @@ updated: 2026-10-16
 > - **机构[[Co-affiliation\|共同从属]]与多重从属性（Co-affiliation & [[Multiplicity]]）** 政策网络决策层跨越政界、商界与慈善界，以共同捐赠人、多重董事兼职与子公司控股构成闭环网络（如 [[Social Ventures Australia\|SVA]] 董事、[[Education Endowment Foundation\|EEF]] 高管与商业银行家共同主导 [[Australian Education Research Organisation\|AERO]]）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 > - **耐用客体装配与立法锚定（Inanimate [[Assemblage]] & Legislative Anchoring）** 政策网络借助《公司法》注册资质、法案修改条款、公司章程以及因果实证量规等耐用客体，将特定的私营分包与公私合作模式制度化固化为国家行政常态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5]]）。
 > - **国家作为异层催化者与市场缔造者（State as Heterarchical Catalyst and Market-Maker）** 现代国家在政策网络中并未空心化退场，而是主动运用法案修正案、公司法特许和定向财政注资，充当资助者、经纪人与市场缔造者，为非民选商业中介提供合法特权与通道（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–523]]）。
-> - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接对话核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规[[Disciplina and Doctrina\|规训]]的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
+> - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接对话核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规规训的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
 > - **连锁董事治理同盟（Interlocking Directorates & Policy Coalitions）** 跨界精英通过同时出任非营利中介、商业公司、慈善基金会与咨询委员会董事形成密集连锁网络（如前教育部高官、对冲基金合伙人、跨国广告巨头高管与地方信托负责人共同进入理事会），绕过常规科层审批与公立大学认证壁垒，强推非传统政策方案（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 49–54]]）。
 > - **学术商标特许与跨国商业代理网络（Academic Franchise & Intermediary Marketing Networks）** 由权威学者、本土 [[Educational Management Organisation|EMO]]、跨国商业出版集团与科技分包商构成的跨界资本闭环，将公立科研成果包装为具有排他性法律壁垒的注册商标，并在数十国推行商业特许经营与咨询认证，实现跨国资本积累与个人版税分红（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 65–70]]）。
 > - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是对话的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
@@ -217,7 +216,7 @@ updated: 2026-10-16
 
 ### 命题二　表演性问责与制度性死锁深度剥离一线专业自主权
 
-> [!concept-lens] 网状话语结合行政规制时的硬性[[Disciplina and Doctrina\|规训]]效应
+> [!concept-lens] 网状话语结合行政规制时的硬性规训效应
 > 探讨理念编排一旦与课程认证、质量审计及财政拨款挂钩时，对微观实践者产生的制度[[Path Dependence|锁定效应]]。
 
 > [!claim] Skourdoumbis, A.; Rowe, E.
@@ -227,7 +226,7 @@ updated: 2026-10-16
 
 ### 命题三　政务网络规模扩张与实质互动深度存在非线性解耦
 
-> [!concept-lens] 征询名单的广度不等于循证决策的实质深化
+> [!concept-lens] 征询名单的广度不等于[[Evidence-Based Policy-Making|循证决策]]的实质深化
 > 审视中央行政机构在构建政策咨询网络时的形式主义陷阱，揭示名义联系与高频互动的张力。
 
 > [!claim] Hill, P.
@@ -436,7 +435,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与耐用客体装配视角，解构澳大利亚政策网络如何以麦肯锡系[[Venture Philanthropy\|风险慈善]]为枢纽创设国家[[Educational Brokerage Agency\|证据中介机构]]。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用网络[[Ethnography\|民族志]]绘制 [[Social Ventures Australia\|SVA]] 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]]），揭示异层治理实践与避税特许如何将公共税收逆向导流至私营中介。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 运用政策[[Network Analysis\|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。

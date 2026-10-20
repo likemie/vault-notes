@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再情境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Social Impact Investing]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
   - "[[Return on Investment]]"
@@ -51,6 +50,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Academic Achievement]]"
   - "[[Innovation Hub]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Hard Policy Transfer]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -62,7 +63,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
+  - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -77,15 +78,16 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[BHP Foundation]]"
   - "[[World Bank]]"
+  - "[[MDRC]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
-  - "[[Argument_Keddie_2020_IJLE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Keddie_2020_IJLE]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Policy Mobility
@@ -198,7 +200,7 @@ updated: 2026-10-19
 ### 命题二　政策跨国流动依赖耐用物质材料的锚定与法律技术装置的特许装配
 
 > [!concept-lens] 物质装配维度：无生命材料与远距离控制（Long-Distance Control）
-> 探讨抽象的流动[[Discourse|话语]]如何通过物理和法律材料的具身化获得超越时空的稳定性，并对目标生态实施长程[[Disciplina and Doctrina\|规训]]。
+> 探讨抽象的流动[[Discourse|话语]]如何通过物理和法律材料的具身化获得超越时空的稳定性，并对目标生态实施长程规训。
 
 > [!claim] Law, J. & Singleton, V.
 > **网络在耐用材料中的固化机制** 异质行动者网络如果仅依赖转瞬即逝的人际话语或行政倡议，将极易瓦解溃散；唯有将关系网络刻写、固化并具身于无生命客体与耐用材料之中（如建筑、围栏、法定表格与技术工具），网络才能维系跨越时空的恒常形状，实现远距离治理（Law, 1992；Law & Singleton, 2005）。
@@ -282,14 +284,14 @@ updated: 2026-10-19
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 风险慈善与国家催化网络：美国/英国 $\to$ 澳大利亚 | 跨国投行（美洲银行、高盛）、管理咨询寡头（麦肯锡、贝恩）、国家税收减免与政府保密招标资助（1500 万澳元） | [[Social Ventures Australia\|SVA]]、[[Australian Schools Plus\|Schools Plus]]、[[Australian Education Research Organisation\|AERO]]、[[David Gonski\|戴维·冈斯基]] | [[Deductible Gift Recipient\|DGR1]] 减税资格凭证、四层控股法人架构、企业 KPI 绩效量规、定向咨询合同 | 将英美商业风投和[[Social Impact Investing\|影响力投资]]转化为国家特许异层治理网络；公共财政倒流补贴咨询业务，学校沦为商业附庸 |
 > | Ball et al. (2017) | 低成本私立学校（Low-fee Private Schools）：印度/非洲 $\to$ 跨国扩散 | 培生集团（Pearson）、[[World Bank\|世界银行]]国际金融公司（IFC）、国际开发署（DFID）投资基金 | Bridge International Academies、阿育王基金会（Ashoka）、跨国教育科技咨询公司 | 标准化平板电脑脚本化教案、移动支付结算网关、特许加盟办学合同 | 将公共基础教育矮化为流水线商业特许经营，剥夺教师专业裁量权，以微利算法榨取贫困家庭储蓄 |
 > | Peck and Theodore (2015) | 条件现金转移支付（CCT）与商业化福利改革：拉美（Oportunidades） $\to$ 纽约（Opportunity NYC） | 世界银行、彭博慈善基金会（Bloomberg Philanthropies）、洛克菲勒基金会 | 纽约市[[Innovation Hub\|创新中心]]（Center for Economic Opportunity）、MDRC 评估咨询机构 | [[Randomised Controlled Trials\|随机对照试验]]评估量规、家庭生物识别打卡终端、现金给付绩效审计合同 | 将拉美用于缓解极端贫困的社会保护项目，转变为以新自由主义行为矫正和惩罚性问责为特征的城市治理技术 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 福利改革评估技术与实验规程：美国 $\to$ 英国 | 英国就业与养老金部（DWP）循证决策要求；新工党"何者有效"政治承诺 | 美国人力示范研究公司（Manpower Demonstration Research Corporation, MDRC）；英美两国就业与养老金官员 | 就业保留与晋升（Employment Retention and Advancement, ERA）示范项目合同；[[Randomised Controlled Trials\|随机对照试验]]实验分组规程；多轮区域试点评估协议 | 英国从美国引入的不仅是福利政策理念，更是整套量化实验评估技术与执行机构；MDRC 跨境承接英国实验的分组设计与现场审计，形成评估方法论的跨国硬转移（pp. 342–344） |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 福利改革评估技术与实验规程：美国 $\to$ 英国 | 英国就业与养老金部（DWP）[[Evidence-Based Policy-Making\|循证决策]]要求；新工党"何者有效"政治承诺 | 美国[[MDRC\|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）；英美两国就业与养老金官员 | 就业保留与晋升（Employment Retention and Advancement, ERA）示范项目合同；[[Randomised Controlled Trials\|随机对照试验]]实验分组规程；多轮区域试点评估协议 | 英国从美国引入的不仅是福利政策理念，更是整套量化实验评估技术与执行机构；MDRC 跨境承接英国实验的分组设计与现场审计，形成评估方法论的跨国[[Hard Policy Transfer\|硬转移]]（pp. 342–344） |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]，追踪循证中介模型从英国 [[Education Endowment Foundation\|EEF]] 流动至澳大利亚 [[Australian Education Research Organisation\|AERO]] 的十年跨国历程，揭示跨国资本与企业法耐用材料在快速政策流动中的装配功能。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统绘制澳大利亚公共教育中[[Venture Philanthropy\|风险慈善]]与国家催化网络的崛起图景，揭示 [[Social Ventures Australia\|SVA]] 作为政策流动中枢装配 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 的演进机制，以及税法特许与异层再分配对公共教育民主基石的侵蚀。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。
-> - [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] — 以英国新工党福利改革为案例，证明循证决策要求驱动英国系统性地优先借鉴拥有大量量化实验评估数据的美国，不仅引入政策理念，更将随机分配规程与美国评估机构（MDRC）整套带入英国，揭示评估技术本身作为跨国政策流动独立载体的机制（pp. 342–344）。
+> - [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] — 以英国新工党福利改革为案例，证明[[Evidence-Based Policy-Making|循证决策]]要求驱动英国系统性地优先借鉴拥有大量量化实验评估数据的美国，不仅引入政策理念，更将[[Random Assignment|随机分配]]规程与美国评估机构（[[MDRC]]）整套带入英国，揭示评估技术本身作为跨国政策流动独立载体的机制（pp. 342–344）。

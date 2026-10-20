@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Research Literacy]]"
   - "[[Intellectual Capital]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Boundary Spanner]]"
   - "[[Internal Validity]]"
   - "[[Ecological Validity]]"
@@ -32,13 +33,11 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Determinism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Bureaucracy]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Research Synthesis]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Embedded Researcher
@@ -68,7 +67,7 @@ updated: 2026-10-17
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 指涉具备系统实证[[Research Literacy\|研究素养]]、但组织身份或核心工作职责深嵌于一线行政或教学实体内的专业中介角色。
-> - **理论用途** 帮助透视公共部门与学校如何克服外部研究供给与内部实际需求之间的认知脱节，通过内部常驻[[Intellectual Capital|智力资本]]重塑组织的循证决策与反思文化。
+> - **理论用途** 帮助透视公共部门与学校如何克服外部研究供给与内部实际需求之间的认知脱节，通过内部常驻[[Intellectual Capital|智力资本]]重塑组织的[[Evidence-Based Policy-Making|循证决策]]与反思文化。
 > - **制度边界** 重点在于人员的情境嵌入性与双向中介功能；既不同于身处象牙塔、主要受学术期刊发表考评驱动的高校纯学术研究者，也不同于没有经过严谨科研方法训练的普通行政专员或常规教职人员。
 
 > [!citation-card] 技能特征与组织角色的脱钩
@@ -166,7 +165,7 @@ updated: 2026-10-17
 
 ### 命题四 长期嵌入科层体系诱发双重认同边缘化与批判反思能力同化风险
 
-> [!concept-lens] 跨界角色的身份认同困境与制度[[Disciplina and Doctrina\|规训]]张力
+> [!concept-lens] 跨界角色的身份认同困境与制度规训张力
 > 审视嵌入式研究者在科层行政权力与学术求真规范碰撞时面临的结构性挑战。
 
 > [!claim] 双重边缘化与批判性丧失的结构性风险
@@ -222,6 +221,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]** 跨国实证测度 37 个教育系统中嵌入式研究者等专业角色的设立分布与供求矛盾，奠定其在教育治理研究中的实证基石。
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 在 [[OECD]] 五维系统[[Analytic Framework\|分析框架]]中将技能、能力与中介角色界定为支撑证据生态可持续运转的关键支柱。

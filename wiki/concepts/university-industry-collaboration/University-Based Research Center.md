@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 45
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Master Agreement]]"
   - "[[Foreground IP]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Sunset Provisions]]"
   - "[[Engineering Education]]"
   - "[[Dual Appointment]]"
@@ -43,7 +42,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
@@ -147,7 +145,7 @@ updated: 2026-10-20
 > 探讨大学研究型中心作为跨学科矩阵组织，如何在缺乏终身教职评定权与硬性行政约束的情况下，协调拥有院系编制的教师参与高强度团队攻关。
 
 > [!claim] Bozeman, B. & Boardman, C.
-> **大胡萝卜与小棒子的治理权限制约** 大学研究中心为了防止演变为封闭的脱离教学孤岛，普遍要求科研人员必须在传统学科院系保留正式编制；然而这种双重聘任安排直接导致中心主任缺乏人事[[Hard Power|硬权力]]——中心主任无法掌控教师的薪资定级、学科归属与终身教职晋升，因而无法施加刚性行政约束。中心主任完全依赖可分配的研究经费这根“大胡萝卜”来诱导教师协作，而手头几乎没有任何行政[[Disciplina and Doctrina|规训]]的“小棒子”；当科研议程要求教师调整原有研究方向时，学者仅在符合自身学术利益时才会选择配合，使跨学科协同成效高度依附于主任个人的协调艺术与政治魅力。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
+> **大胡萝卜与小棒子的治理权限制约** 大学研究中心为了防止演变为封闭的脱离教学孤岛，普遍要求科研人员必须在传统学科院系保留正式编制；然而这种双重聘任安排直接导致中心主任缺乏人事[[Hard Power|硬权力]]——中心主任无法掌控教师的薪资定级、学科归属与终身教职晋升，因而无法施加刚性行政约束。中心主任完全依赖可分配的研究经费这根“大胡萝卜”来诱导教师协作，而手头几乎没有任何行政规训的“小棒子”；当科研议程要求教师调整原有研究方向时，学者仅在符合自身学术利益时才会选择配合，使跨学科协同成效高度依附于主任个人的协调艺术与政治魅力。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 
 ---
 

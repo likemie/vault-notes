@@ -33,6 +33,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Implementation Fidelity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
@@ -54,7 +55,6 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Multi-Arm Trial
@@ -227,7 +227,7 @@ updated: 2026-10-16
 > > [!axis] 多重比较校正的必要性 vs 科学发现的保守性
 > > 证据方法学界围绕多臂试验是否必须强制调整显著性阈值的争辩。
 > >
-> > - **严格计量派观点** 坚持多重比较必然诱发全试验假阳性概率膨胀。若不惩罚显著性门槛，所谓的“显著干预”很可能只是多轮抽样随机涨落的产物，严重损害循证决策的[[Reliability\|可靠性]]。
+> > - **严格计量派观点** 坚持多重比较必然诱发全试验假阳性概率膨胀。若不惩罚显著性门槛，所谓的“显著干预”很可能只是多轮抽样随机涨落的产物，严重损害[[Evidence-Based Policy-Making|循证决策]]的[[Reliability\|可靠性]]。
 > > - **实践实用派反驳** 认为在教育与社会政策评估中，各处理臂往往代表着完全不同的独立理论实体；强行采用过度保守的校正会大幅增加 II 型错误，将原本具有实践潜力的优秀教育方案判为无效。现代折中标准主张将主效应检验与探索性比较在[[Preregistration\|预注册]]阶段予以明确分流。
 
 ---
@@ -249,6 +249,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述了英国 [[Education Endowment Foundation\|EEF]] 通过多臂试验与[[Factorial Design\|析因设计]]打开复杂教育干预黑箱的演进历程，重点评述了“[[Literacy Octopus\|识字八爪鱼]]”多臂试验与 ABRA 在线阅读多臂试验的方法学价值。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 详析了“识字八爪鱼”大规模多臂 [[Randomised Controlled Trials\|RCT]] 的因果结论，证明单纯单向推送实证成果对改善学生终考成绩毫无[[Statistical Significance\|统计显著性]]。

@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -58,7 +58,6 @@ related_arguments:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Memos]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Dwight D. Eisenhower]]"
   - "[[Michael Kratsios]]"

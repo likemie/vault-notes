@@ -23,6 +23,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[State Educational Sovereignty]]"
   - "[[Governing by Numbers]]"
 related_facts:
@@ -41,7 +42,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Action Research]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-09-28
@@ -162,7 +162,7 @@ updated: 2026-10-20
 > > 比较教育向决策层交付的知识形态是定性历史经验还是标准化测评数据。
 > >
 > > - **历史文化语境视角** 强调比较教育的核心价值在于揭示教育制度与历史文化环境的深层共生关系，警惕指标崇拜削弱批判厚度。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
-> > - **跨国测评标杆视角（[[OECD]]）** 强调跨国量化数据与排行对标能为循证决策提供硬性实证杠杆，推动结构性绩效改革。
+> > - **跨国测评标杆视角（[[OECD]]）** 强调跨国量化数据与排行对标能为[[Evidence-Based Policy-Making|循证决策]]提供硬性实证杠杆，推动结构性绩效改革。
 
 > [!warning] 适用局限
 > 在国家面临系统性政治经济危机或要求立即拿出可操作改革技术处方时，航海隐喻所坚持的“备选方案与克制中立”容易被教育官僚视为缺乏执行力与脱离现实的学院清谈，从而导致决策层绕过比较教育学者，全盘倒向提供即时标准化数字问责的商业咨询公司或跨国评估机构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]

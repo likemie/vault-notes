@@ -13,7 +13,7 @@ summary: "一种在预先设定的时间间隔或离散时间点上对特定目�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Random Sampling]]"
   - "[[Observation Protocol]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

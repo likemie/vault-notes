@@ -28,7 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Problem Finding]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Champ]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Deborah Stone
@@ -86,14 +86,14 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980年代 — 福利规制与分类范畴的社会建构** 关注国家机器如何运用科学定义与法律分类对公民身体与困境进行[[Disciplina and Doctrina|规训]]，揭示概念分类背后的权力分配本质。
+> - **1980年代 — 福利规制与分类范畴的社会建构** 关注国家机器如何运用科学定义与法律分类对公民身体与困境进行规训，揭示概念分类背后的权力分配本质。
 >   - **代表著作** 《伤残国家》（*The Disabled State*, 1984）。
 >   - **关键概念／方法** 政策分类范畴、医学社会学、制度边界控制。
 >   - **阶段转向** 由具体的医疗福利政策分析，升华至对整个现代西方[[Policy Science in Comparative Education|政策科学]]理性主义传统的底层批判。
 > - **1988年–至今 — 政策悖论与城邦政治修辞学** 创立城邦（Polis）模型，将政策决策界定为共享价值观、隐喻修辞、数字象征与戏剧性叙事博弈的生动艺术。
 >   - **代表著作** 《政策悖论：政治决策的艺术》（*Policy Paradox*, 1988/2012）、《计数》（*Counting*, 2020）。
 >   - **关键概念／方法** 政治城邦模型、因果故事（Causal Stories）、数字的政治隐喻、[[Technical Rationality|技术理性]]批判。
->   - **阶段转向** 成为当代循证决策批判研究与政治[[Discourse Analysis|话语分析]]的核心旗帜。
+>   - **阶段转向** 成为当代[[Evidence-Based Policy-Making|循证决策]]批判研究与政治[[Discourse Analysis|话语分析]]的核心旗帜。
 
 ---
 

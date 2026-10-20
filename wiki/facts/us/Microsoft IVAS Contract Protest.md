@@ -13,7 +13,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - theme/military-technology
 related_concepts:
   - "[[Winner's Fallacy]]"
+  - "[[Geopolitics]]"
   - "[[Techno-Utopianism]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Microsoft IVAS Contract Protest
@@ -55,7 +56,7 @@ updated: 2026-10-16
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2018年11月至2019年2月；美国华盛顿州雷德蒙德微软全球总部。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
 > - **核心当事主体** 微软抗议员工群体、微软最高管理层（首席执行官萨提亚·纳德拉与总裁布拉德·史密斯）、美国陆军装备采办部门。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
-> - **深层制度与社会背景** 硅谷科技巨头长期沉浸于全球化消费级商业软件与广告推荐算法的超额利润，年轻工程师群体普遍将西方宪政秩序与和平环境视为无需付出的自然背景，对国家武装防务与地缘政治强制力缺乏战略认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–34)]]
+> - **深层制度与社会背景** 硅谷科技巨头长期沉浸于全球化消费级商业软件与广告推荐算法的超额利润，年轻工程师群体普遍将西方宪政秩序与和平环境视为无需付出的自然背景，对国家武装防务与[[Geopolitics|地缘政治]]强制力缺乏战略认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–34)]]
 > - **直接导火索 / 触发事件** 2018年11月，美国陆军授予微软一项高达4.8亿美元的防务合同，采购由其增强现实（Augmented Reality, AR）头显全息透镜（HoloLens）改装的作战辅助装备。
 
 ---

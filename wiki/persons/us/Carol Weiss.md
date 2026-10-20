@@ -7,7 +7,7 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_theories:
   - "[[Research Utilization Models]]"
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Framework Synthesis]]"
 related_instruments: []
 related_persons: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Carol Weiss
@@ -110,7 +109,7 @@ updated: 2026-10-16
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
 > - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–45)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的[[Research Utilization Models\|研究利用模型]]与知识渗透概念，作为[[Framework Synthesis\|框架综合]]先验框架中"研究使用的多重意义"的来源。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 援引 Weiss（1977, 1989, 1991）关于政策价值负荷性、国会委员会证据使用以及政策倡导时机的重要论述，为[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]提供基础理论依托。
 

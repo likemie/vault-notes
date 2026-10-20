@@ -8,7 +8,7 @@ summary: "巴西著名教育家、哲学家，批判教育学奠基人，以《�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -28,11 +28,11 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Alien Intelligence]]"
   - "[[Banking Model of Education]]"
   - "[[Problem-Posing Education]]"
+  - "[[Geopolitics]]"
   - "[[Moral Dualism]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
@@ -55,8 +55,7 @@ related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
   - "[[Conditioned State Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Henry Giroux]]"
@@ -85,18 +84,18 @@ updated: 2026-10-20
 
 > [!person-profile] 人物档案
 > - **身份位置** Paulo Freire（1921–1997），巴西著名教育家、哲学家，[[Critical Pedagogy|批判教育学]]（Critical Pedagogy）的奠基人，被公认为 20 世纪最具全球影响力的教育思想家之一。以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）确立其国际声誉，其思想融合了[[Phenomenology|现象学]]、生存主义、马克思主义辩证法与天主教解放神学，构筑了以[[Conscientization|批判意识觉醒]]（Conscientização）、反思实践（[[Praxis]]）与提问式对话为核心的解放教育哲学。
-> - **理论坐标** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引弗莱雷的银行概念（Banking Concept）作为剖析[[Forced Knowledge Transfer|强制知识转移]]与殖民教育[[Disciplina and Doctrina|规训]]的理论锚点；而在当代数智技术反思中，[[Argument_Smith_2026_SPE|Smith (2026)]] 汲取其消解权威压迫的批判对话精神，提出破除[[Generative Artificial Intelligence|生成式人工智能]]拟人化迷信的[[Alien Intelligence|异己智能]]（Alien Intelligence）防御方案。
+> - **理论坐标** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引弗莱雷的银行概念（Banking Concept）作为剖析[[Forced Knowledge Transfer|强制知识转移]]与殖民教育规训的理论锚点；而在当代数智技术反思中，[[Argument_Smith_2026_SPE|Smith (2026)]] 汲取其消解权威压迫的批判对话精神，提出破除[[Generative Artificial Intelligence|生成式人工智能]]拟人化迷信的[[Alien Intelligence|异己智能]]（Alien Intelligence）防御方案。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1972 — *Pedagogy of the Oppressed*** 奠定[[Critical Pedagogy|批判教育学]]的成熟代表作。基于 1960 年代巴西成人扫盲实践，系统提出[[Banking Model of Education|储蓄式教育]]批判与[[Problem-Posing Education|提问式教育]]模型，论证教育必须摆脱自上而下的驯化存取，成为受压迫者争取自身解放的文化行动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]] 著作在确立解放教育学的同时，其关于“暴力从未由被压迫者发起”的绝对化判断，在当代地缘政治与道德哲学中引发了关于[[Moral Dualism|道德二元论]]与弱者道德能动性的深入反思与论争。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; cited in Karp & Zamiska, 2025, pp. 53–54)]]
+> - **1972 — *Pedagogy of the Oppressed*** 奠定[[Critical Pedagogy|批判教育学]]的成熟代表作。基于 1960 年代巴西成人扫盲实践，系统提出[[Banking Model of Education|储蓄式教育]]批判与[[Problem-Posing Education|提问式教育]]模型，论证教育必须摆脱自上而下的驯化存取，成为受压迫者争取自身解放的文化行动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]] 著作在确立解放教育学的同时，其关于“暴力从未由被压迫者发起”的绝对化判断，在当代[[Geopolitics|地缘政治]]与道德哲学中引发了关于[[Moral Dualism|道德二元论]]与弱者道德能动性的深入反思与论争。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; cited in Karp & Zamiska, 2025, pp. 53–54)]]
 > - **1973 — *Education for [[Conscientization|critical consciousness]]*** 深入阐述批判意识觉醒（Conscientização）的发生机制，分析社会从半闭塞、被动顺从向批判开放社会的历史转变，确立反思实践（[[Praxis]]）的心理学与[[Epistemology|认识论]]根基。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–7)]]
 > - **1987 — *A Pedagogy for Liberation: Dialogues on Transforming Education*** 与伊拉·肖尔（Ira Shor）合著。将批判对话精神推向高等教育与日常课堂教学转型，深入阐明“教育即政治（Education is inherently political）”，论证不存在[[Value Neutrality|价值中立]]的教育，教育工作者必须在维稳适应与解放赋权之间做出自觉的伦理政治抉择。[[Argument_Rust_2009_Reflections|(Shor & Freire, 1987, cited in Rust et al., 2009, p. 134)]]
 > - **1994 — *Cartas a Cristina*** （《致克里斯蒂娜的信》）晚期自传性与政治反思论著。弗莱雷在书中深刻阐明国家与公共教育绝非中立领域，而是展开商品服务交换、竞争不同政治经济规划的争夺[[Champ|场域]]（contested arena），奠定了批判政治经济学分析[[Paradigm|范式]]。[[Argument_Olmos_Torres_2009_StateTheories|(Freire, 1994, cited in Olmos & Torres, 2009, pp. 77–78, 85)]]
-> - **1998 — *Pedagogy of Freedom: Ethics, Democracy, and Civic Courage*** 晚期重要论著。将教育实践定性为一种伦理与政治介入，强调批判性求知必须捍卫受教育者的认知主体性与尊严，对全球新自由主义教育[[Disciplina and Doctrina|规训]]提出深刻警示。
+> - **1998 — *Pedagogy of Freedom: Ethics, Democracy, and Civic Courage*** 晚期重要论著。将教育实践定性为一种伦理与政治介入，强调批判性求知必须捍卫受教育者的认知主体性与尊严，对全球新自由主义教育规训提出深刻警示。
 
 ---
 
@@ -135,7 +134,7 @@ updated: 2026-10-20
 > - **比较教育全球化反思与解放实践路径** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将弗莱雷“教育即政治”与反思实践（[[Praxis]] of liberation）引入比较教育学科史反思，批判将教育等同于资本主义西方工业现代性的狭隘倾向，推动比较教育学者超越跨国干涉与强制再生产，转向支持主权自决与人类福祉的人道主义解放实践。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治工具，剖析赫尔巴特五段教学法与日本殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识[[Geopolitics|地缘政治]]工具，剖析赫尔巴特五段教学法与日本殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷打破压迫性权威的对话精神，针对生成式 AI 时代的成长性[[Epistemic Injustice|认识不正义]]，提出[[Alien Intelligence|异己智能]]反向审问与思维全外显防御方案。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 继承弗莱雷关于教育政治性与争夺场域的洞见，系统剖析外围[[Conditioned State Theory|受限国家]]教育扩张的阶级矛盾。
@@ -161,7 +160,7 @@ updated: 2026-10-20
 > > - **实践解放派** 认为弗莱雷为打破边缘群体[[Culture of Silence|沉默文化]]提供了不可替代的批判意识杠杆与政治能动性。
 > > - **实证与制度批判派** 指出其概念体系带有强烈的神学救赎与乌托邦色彩，缺乏在国家法定课程与标准化升学考核下的微观操作细则，过度政治化可能导致普通学生陷入现实落差与[[Learned Helplessness|习得性无助]]。
 >
-> > [!axis] 技术工具平权论 vs 数字[[Banking Model of Education|储蓄式教育]][[Disciplina and Doctrina|规训]]论
+> > [!axis] 技术工具平权论 vs 数字[[Banking Model of Education|储蓄式教育]]规训论
 > > 当代学者围绕弗莱雷理论如何看待人工智能教育应用产生分歧。
 > >
 > > - **技术平权工具论** 主张若能普及大模型技术，人手一台智能导师便能打破教育阶层壁垒，实现技术赋权。

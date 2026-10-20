@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Educational Management Organisation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Professional Capital]]"
   - "[[Co-Design]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
@@ -33,8 +34,7 @@ related_concepts:
 related_theories:
   - "[[Theory of Change]]"
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -103,7 +103,7 @@ updated: 2026-10-20
 > 教育改革不是孤立的政策指令事件，而是一场由底层专业能力建设驱动的复杂系统演进；成功的全系统变革必须摒弃惩罚性问责、个体竞争与技术崇拜等“错误驱动力”，转向以教师协作专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
 
 > [!citation-card] 全系统变革的正确驱动力与动能推进
-> 变革真正的催化剂不是外部施加的自上而下问责制，也不是购买炫目的硬件设备，而是依靠共同体内教师与领导者之间的专业资本积累……通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
+> 变革真正的催化剂不是外部施加的自上而下问责制，也不是购买炫目的硬件设备，而是依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累……通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-10-20
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导专业资本（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
+> - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
 > - **代理机构与跨国实体** [[OECD|经合组织]] — 全球政策扩散支持；培生集团（Pearson plc） — 智库丛书资助出版；[[CORE Education|核心教育]]（CORE Education） — 新西兰独家特许代理商。

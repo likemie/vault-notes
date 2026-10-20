@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Abbreviated Torrance Test for Adults]]"
   - "[[Test for Creative Thinking-Drawing Production]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Creative Self-Efficacy
@@ -309,7 +308,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]系统检验[[Creativity\|创造力]]外认知[[Construct\|构念]]群，确立外认知动力因素的二阶效应基准（$r = 0.14$），量化论证了外认知与认知双轮驱动模型的必要性。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 高校[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]]显示总体效应 g = 0.628，认知训练优于情绪训练，独立练习优于小组协作。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]量化了主客观测量类型组合的[[Interaction Effect\|调节效应]]，证实自陈测量（含 CSE）因[[Common Method Variance\|共同方法变异]]（CMV）而产生虚高相关（双自陈 $r = 0.509$ vs 双表现 $r = 0.317$）。

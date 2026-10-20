@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Time-Space Compression]]"
   - "[[Sedentarism]]"
+  - "[[Developmentalism]]"
   - "[[Boarding Schools]]"
   - "[[Discourse]]"
   - "[[Migrant Children]]"
@@ -35,7 +36,6 @@ related_theories:
 related_methods:
   - "[[Social Cartography]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
@@ -80,7 +80,7 @@ updated: 2026-10-20
 > |------|------------------------------------------|-----------------------------------------|---------------------------------------------------------|
 > | 认知机制 | 用线性的时间进步阶梯吞并与抹平横向空间差异 | 在空间内部将静止扎根优位化、将物理流动病态化 | 在二维认知平面上平铺展示多维并存的[[Paradigm\|范式]]图谱 |
 > | 权力效应 | 确立西方文明作为世界演化的最高顶点与终点 | 赋予民族国家划界围堵、强制定居与学籍排斥的合法性 | 打破单一真理垄断，恢复边缘理论经验的拓扑正当性 |
-> | 教育制度表征 | 设立欠缺补偿、强制同化与发展主义赶超课程 | 建立封闭校园围墙、[[Boarding Schools\|寄宿学校]]与中途转学问责减分 | 用范式地图指导比较教育研究者跳出单线因果思维 |
+> | 教育制度表征 | 设立欠缺补偿、强制同化与[[Developmentalism\|发展主义]]赶超课程 | 建立封闭校园围墙、[[Boarding Schools\|寄宿学校]]与中途转学问责减分 | 用范式地图指导比较教育研究者跳出单线因果思维 |
 
 ---
 
@@ -141,7 +141,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **殖民时间投射命题** | 地理旅行被构想为文明演进的时间回溯，原住民被概念化为代表过去的原始人 | 近代早期欧洲航海扩张与帝国殖民人类学记述 | Leed (1991); Sayre (1997); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
-> | **教育文明欠缺命题** | 现代教育政策将边缘空间假定为文明落后阶段，通过同化方案推行[[Disciplina and Doctrina\|规训]]拯救 | 当代西方少数群体补偿教育与发展主义教育改革 | Popkewitz (1998); Paulston (2000) |
+> | **教育文明欠缺命题** | 现代教育政策将边缘空间假定为文明落后阶段，通过同化方案推行[[Disciplina and Doctrina\|规训]]拯救 | 当代西方少数群体补偿教育与[[Developmentalism\|发展主义]]教育改革 | Popkewitz (1998); Paulston (2000) |
 
 ---
 

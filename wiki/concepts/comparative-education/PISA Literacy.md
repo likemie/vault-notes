@@ -23,10 +23,10 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[Active Learning]]"
+  - "[[Soft Policy Transfer]]"
   - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # PISA Literacy
@@ -75,7 +75,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **高阶能力导向** [[PISA]]素养聚焦[[Problem Solving\|问题解决]]、知识应用、[[Creativity\|创造性]]工作和知识回忆——区别于传统日本教育中强调知识记忆和应试训练的学力概念（Ninomiya, 2019）。
 > - **国家课程政策的制度化** PISA素养于 2004 年被正式纳入日本国家教育政策的核心目标，直接影响了后续的课程修订。日本 2008 年新《国家学习课程》（学習指導要領）以三要素重新定义学力——扎实掌握基础知识和技能；培养思维、判断、表达及解决问题所需的能力；培养[[Active Learning\|主动学习]]态度和发展学生个性。
-> - **国际评估驱动的概念转移** PISA素养的形成路径展示了国际评估结果如何转化为国家政策概念——日本在 PISA 2003 排名下滑后，不是改革教育制度，而是引入新概念来重新定义教育目标（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
+> - **国际评估驱动的[[Soft Policy Transfer|概念转移]]** PISA素养的形成路径展示了国际评估结果如何转化为国家政策概念——日本在 PISA 2003 排名下滑后，不是改革教育制度，而是引入新概念来重新定义教育目标（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---
 
@@ -101,5 +101,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]中将 [[PISA]] 素养作为 PISA 在宏观决策层面影响教育改革的典型案例——日本接受能力和素养概念的标志性事件。

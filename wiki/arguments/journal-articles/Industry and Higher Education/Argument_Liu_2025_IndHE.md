@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Achievement]]"
   - "[[South-South Cooperation]]"
+  - "[[Geopolitics]]"
   - "[[Engineering Education]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -54,6 +55,7 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Study in China]]"
+  - "[[Asian Infrastructure Investment Bank]]"
   - "[[China Scholarship Council]]"
 related_arguments: []
 sources:
@@ -68,7 +70,7 @@ title: "Argument_Liu_2025_IndHE"
 argument_key: "Argument_Liu_2025_IndHE"
 argument_display_title: "International higher education as knowledge diplomacy: The role of Chinese universities in China’s belt and road initiative"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -194,7 +196,7 @@ issuing_organization: ""
 > - **战略发端与宗旨** 2013 年启动倡议，以实体基础设施互联互通为支柱，拓展南南经济互利协作网络。（pp.187–188）
 > - **来华留学战略基底** 2010 年教育部出台《[[Study in China|留学中国计划]]》，设定十年内吸引 50 万国际学生来华的战略目标；截至 2018 年约 12% 的在华留学生享有中国政府国家级全额奖学金，为高教服务大国外交提供了稳固的制度与生源基底。（p.188）
 > - **全球覆盖与规模** 截至 2023 年汇聚全球 150 多个国家，涵盖世界近 75% 的人口与超 50% 的经济总量。（p.187）
-> - **多边金融保障** 2015 年成立亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB），为重大跨国能源与交通基建提供资金支撑。（pp.187–188）
+> - **多边金融保障** 2015 年成立[[Asian Infrastructure Investment Bank|亚洲基础设施投资银行]]（Asian Infrastructure Investment Bank, AIIB），为重大跨国能源与交通基建提供资金支撑。（pp.187–188）
 > - **高教协同纽带** 2015 年成立[[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR），搭建沿线高校工程科技协同攻关与骨干人才定向培养网络。（pp.187, 190）
 
 实体工程的跨国落地与高校多边联盟的制度化，为中国行业高校深度参与海外重点建设提供了坚实依托。（pp.187–188, 190）
@@ -334,7 +336,7 @@ issuing_organization: ""
 
 #### 4. 建设基础设施与培育本土技术力量打破了单向依附的债务陷阱论调
 
-西方地缘政治论调常将一带一路指责为制造主权债务危机的[[Debt-Trap Diplomacy|债务陷阱外交]]工具，但深入一线的[[Engineering Education|工程教育]]实践展现了截然不同的发展事实。（pp.194–195）
+西方[[Geopolitics|地缘政治]]论调常将一带一路指责为制造主权债务危机的[[Debt-Trap Diplomacy|债务陷阱外交]]工具，但深入一线的[[Engineering Education|工程教育]]实践展现了截然不同的发展事实。（pp.194–195）
 
 > [!critique] 对地缘依附与债务陷阱指控的事实反驳
 > - **填补发展赤字的能力进路** 中国传统经验强调要想富先修路，与 Sen (2001) 倡导的可行能力理念形成理论共振；发展中国家长期落后源于基础设施匮乏与[[Human Capital Theory|人力资本]]断层，单纯提供货币援助无法形成内生动力，必须通过重大交通与能源工程夯实实体经济根基。（pp.194–195）

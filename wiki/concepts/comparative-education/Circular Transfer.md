@@ -5,7 +5,7 @@ aliases:
 summary: "Steiner-Khamsi 提出的概念，指教育思想或实践在出借者和借用者之间来回移动的过程，如殖民地在独立前被用作教育改革的实验室"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
   - "[[Normal School]]"
+  - "[[Geopolitics]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Circular Transfer
@@ -63,7 +64,7 @@ updated: 2026-10-15
 ## 局限
 
 > [!warning]
-> 循环转移概念仍然基于地缘政治和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space\|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
+> 循环转移概念仍然基于[[Geopolitics|地缘政治]]和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space\|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 
 ---
 

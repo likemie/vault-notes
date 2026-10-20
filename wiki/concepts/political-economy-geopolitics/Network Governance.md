@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 83
+related_count: 81
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Bureaucracy]]"
   - "[[Policy Network]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Co-affiliation]]"
   - "[[Market Failure]]"
   - "[[Public-Private Partnership]]"
@@ -73,7 +72,6 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Grounded Theory]]"
   - "[[Triangulation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Teach Classroom Observation Tool]]"
@@ -140,7 +138,7 @@ updated: 2026-10-20
 > *…traditional 'classical market' and 'bureaucracy' forms of state schooling governance being displaced by newer professional networks and philanthropic 'networks' and 'clans'… Network governance in practice reflects an asymmetrical, heterarchical state.*
 
 > [!boundary]- 概念边界
-> - 不等于 垂直官僚科层治理（Hierarchical Governance） — 科层治理依靠自上而下的行政命令、法律法规与职务等级进行统一[[Disciplina and Doctrina|规训]]；网络治理依靠横向协商、资源互赖、契约绑定与关系资本维系协调。
+> - 不等于 垂直官僚科层治理（Hierarchical Governance） — 科层治理依靠自上而下的行政命令、法律法规与职务等级进行统一规训；网络治理依靠横向协商、资源互赖、契约绑定与关系资本维系协调。
 > - 不等于 自由市场治理（Market Governance） — 市场治理依靠价格信号、顾客竞争与利润最大化驱动离散的买卖双方；网络治理强调持续稳定的公私伙伴结盟、长程合作信誉以及非纯金钱层面的政策理念共识。
 > - 不等于 宽泛的人际社会网络（Social Networks） — 网络治理具有正式的制度与法律底座，高度依赖特许立法、政府分包合同、有限责任担保公司章程与因果证据量规等硬性制度载体（Murdoch, 2006; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]）。
 
@@ -279,7 +277,7 @@ updated: 2026-10-20
 > - **1990s — 组织社会学起源与[[New Public Management|新公共管理]]（NPM）反思** 汤普森（Grahame Thompson, 1991）、鲍威尔（Walter W. Powell, 1990）与罗兹（R. A. W. Rhodes, 1996）提出将网络视作区别于市场与科层的第三种组织形态，界定其核心为信任、互赖与非层级协商；同时代学者断言跨国网络化导致了“国家空心化”（Hollowing out of the state）。
 > - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，而是国家借助商业资本与政策网络推行企业化运作的技术。
 > - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用[[Network Plasticity|网络可塑性]]重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
-> - **2010–2019 — 超国家指标化与国家制度杂合实证** [[EU|欧盟]]与[[OECD|经合组织]]将[[Performance Indicators|绩效指标]]转化为远程[[Disciplina and Doctrina|规训]]网络；奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）解构了新西兰九大公私混合治理工程，兰布拉（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）实证揭示了欧洲大陆官僚科层与网络化治理的制度杂合形态。
+> - **2010–2019 — 超国家指标化与国家制度杂合实证** [[EU|欧盟]]与[[OECD|经合组织]]将[[Performance Indicators|绩效指标]]转化为远程规训网络；奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）解构了新西兰九大公私混合治理工程，兰布拉（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）实证揭示了欧洲大陆官僚科层与网络化治理的制度杂合形态。
 > - **2018 — 演化创新政策与去中心化探索网络** [[Mariana Mazzucato|马祖卡托]]在《工业与企业变迁》中提出，网络治理在科技领域应体现为具备内部动态能力的“去中心化探索网络”（Decentralized Explorative Networks），既防止公共智识外包沦为新公共管理牺牲品，又通过战略方向引领激发自下而上的技术创新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2020s — [[Philanthrocapitalism|慈善资本主义]]与异层国家实践解构** 埃玛·罗威（Emma Rowe, 2022, 2023）通过[[Network Ethnography|网络民族志]]与社会-物质[[Assemblage|装配理论]]，深入解构澳大利亚[[Venture Philanthropy|风险慈善]]中介的长程演化，证实国家并未空心化，而是积极通过立法特许避税与财政补贴充当异层市场的缔造者与担保人。
 
@@ -312,7 +310,7 @@ updated: 2026-10-20
 - **[[Neocorporatism|新社团主义]]三方网络（德语区及北欧）** 网络治理深度嵌套于政府、雇主协会与工会的三方正式合作体系中。连贯的[[Apprenticeship|学徒制]]系统为地方专业人员提供了稳定的制度预期，多元主体的结构性制衡有效缓冲了市场选择性（[[Selectivity]]）对弱势青年的伤害。
 - **公私民合作与就业管道（芬兰与苏格兰）** 芬兰推行“公共—私营—民众合作”（Public-Private-People-Partnerships），将教育界定为涵盖所有人多元生命周期的发展性服务；苏格兰采用“就业管道”（Employment Pipeline）网络，将教育培训、社工支持与非营利服务整合成无缝链条。
 - **自下而上的雏形网络（南欧与东欧）** 在网络传统相对脆弱的西班牙加泰罗尼亚与意大利利古里亚，非营利组织自主创建“第二机会学校”（Second-chance schools），随后反向游说市政当局提供公共资金支持，开创了从基层微观创新生长为多方伙伴关系的自下而上网络通道。
-- **区域指标远程[[Disciplina and Doctrina|规训]]** 欧盟统计局通过细化的区域指标（[[Performance Indicators]]）界定“良好治理”的准绳，迫使不同法统的成员国围绕统一的数据基准开展政策竞赛，实现了跨越主权边界的指标化网络治理。
+- **区域指标远程规训** 欧盟统计局通过细化的区域指标（[[Performance Indicators]]）界定“良好治理”的准绳，迫使不同法统的成员国围绕统一的数据基准开展政策竞赛，实现了跨越主权边界的指标化网络治理。
 
 ---
 
@@ -379,5 +377,5 @@ updated: 2026-10-20
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合荷兰高等教育从中央微观规制向间接[[Steering at a Distance|远距离操纵]]的转型经验，深入阐述多重理性[[Policy Network|政策网络]]的自组织协调机制与制度边界。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析澳大利亚[[Venture Philanthropy|风险慈善]]网络如何依托异层国家实践改写公共教育再分配。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，[[Discourse|话语]]变迁与 9 大公私化改革实例。
-> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 基于[[EU|欧盟]] [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证解析欧洲大陆官僚科层与网络治理的复杂杂合形态与指标远程[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 基于[[EU|欧盟]] [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证解析欧洲大陆官僚科层与网络治理的复杂杂合形态与指标远程规训。
 > - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987)]] — 详尽记录[[United World Colleges|联合世界书院]]（UWC）如何依托多中心、分层网络治理协调跨国公私资源与学术自治。

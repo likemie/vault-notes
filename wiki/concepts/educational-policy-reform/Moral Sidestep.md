@@ -5,7 +5,7 @@ aliases:
 summary: "以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 - policy-making
 related_concepts:
   - "[[Discourse]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -27,14 +28,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
 
 Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避实证研究证据、从而维持既有权力结构和利益格局的[[Discourse|话语]]策略。该概念由 Alex Stevens（2019）在毒品政策研究中首次提出并命名。
 
-> "Stevens (2019), who observed politicians using moral concerns to avoid making evidence-based policy decisions and described this as a 'moral sidestep'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
+> "Stevens (2019), who observed politicians using moral concerns to avoid making [[Evidence-Based Policy-Making|evidence-based policy]] decisions and described this as a 'moral sidestep'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
 
 ---
 

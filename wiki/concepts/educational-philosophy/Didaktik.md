@@ -6,35 +6,50 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 related_concepts:
   - "[[Bildung]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
+  - "[[Academic Achievement]]"
+  - "[[Epoché]]"
+  - "[[Variable]]"
+  - "[[Professional Judgment]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Professional Judgment]]"
-related_theories: []
+  - "[[Positivism]]"
+  - "[[Pure Evaluation]]"
+  - "[[Central Phenomenon]]"
+related_theories:
+  - "[[Radical Constructivism]]"
+  - "[[Panopticism]]"
 related_methods:
-  - "[[Correlational Research]]"
+  - "[[Effect Size]]"
 related_persons:
+  - "[[Ewald Terhart]]"
   - "[[Wolfgang Klafki]]"
+  - "[[Thomas Aastrup Rømer]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Didaktik
@@ -88,7 +103,7 @@ updated: 2026-10-18
 ## 核心要素
 
 > [!feature] 核心要素
-> - **区分[[Disciplina and Doctrina|规训]]与生成** 传统教学区分了规训（disciplina）与生成（doctrina）。规训注重现成知识的训导与纠错，而生成关注知识的革新与重塑。现代教学论倾向于在二者之间建立张力，以防止教学沦为机械的控制工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **区分规训与生成** 传统教学区分了规训（[[Disciplina and Doctrina|disciplina]]）与生成（doctrina）。规训注重现成知识的训导与纠错，而生成关注知识的革新与重塑。现代教学论倾向于在二者之间建立张力，以防止教学沦为机械的控制工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **面向未知未来的非预设性** 根据克拉夫基（[[Wolfgang Klafki]]）的主张，政策制定者和教师无法预测未来学生究竟需要何种具体知识。教学论的核心任务是为应对未知的不确定未来奠定自我探索与判断的基础，超越对既有已知科学结论的机械复述。
 > - **[[Epochal Key Problems|时代关键问题]]作为课程主轴** 克拉夫基提出以时代关键问题（Epochal key problems）作为课程组织原则（如环境危机、社会不平等和战争危机），以此作为连接学科深度与跨学科合作的教学[[Champ|场域]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **学科[[Ontology|本体论]]深度的保护** 澳大利亚教育学家莉萨·维拉汉（Leesa Wheelahan）的课程论强调学科知识拥有自身的内在结构与逻辑脉络，反对能力本位课程将系统知识拆散为细碎、可测量的技能包。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
@@ -116,21 +131,21 @@ updated: 2026-10-18
 > [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
 > 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用认知策略与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
-> [!claim] [[Thomas Aastrup Rømer|罗默]]（Thomas Aastrup Rømer）
-> **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（纯粹评价）的理论异化。哈蒂体系系统性放逐了教学论与教化（[[Bildung]]）的核心范畴（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种激进建构主义反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
+> [!claim] 罗默（[[Thomas Aastrup Rømer]]）
+> **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论异化。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
 
 ---
 
 ### 命题二　教学行动依赖于协调规训与生成张力的情境化专业判断
 
-> [!concept-lens] [[Disciplina and Doctrina|规训]]与生成之间的教学判断
+> [!concept-lens] 规训与生成之间的教学判断
 > 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
 > [!claim] 安德烈亚斯·格鲁施卡
 > 教学设计是一个由教学论（Didaktik）、教化（[[Bildung]]）与规范教育（Erziehung）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]
 
 > [!claim] 比尔吉特·沙法尔（Birgit Schaffar）与莉莉-安·沃尔夫（Lili-Ann Wolff）
-> 教学论史中存在着关于知识控制与[[Knowledge Production|知识生成]]的关键区分。教学行动必须在规训（disciplina，侧重纠错、管理与绩效测量）与生成（doctrina，侧重知识的批判、更新与探究生产）之间建立良性张力，避免教学滑向单纯的机械控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> 教学论史中存在着关于知识控制与[[Knowledge Production|知识生成]]的关键区分。教学行动必须在规训（[[Disciplina and Doctrina|disciplina]]，侧重纠错、管理与绩效测量）与生成（doctrina，侧重知识的批判、更新与探究生产）之间建立良性张力，避免教学滑向单纯的机械控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 
 > [!claim] 埃瓦尔德·特哈特（Ewald Terhart）
 > 教学行动立足于教师、学生与学科内容构成的三元关系。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）运用[[Panopticism|全景敞视]]理论指出，当教学理论将师生互看与相互观察的双向可见性置于核心并抽离具体学科内容时，表面上的学生中心修辞便转化为隐性的微观控制，教学判断易退化为内化的全景自我监控机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 434–435)]]
@@ -150,7 +165,7 @@ updated: 2026-10-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **中世纪大学时期 — [[Disciplina and Doctrina|规训]]与生成的词义分化** 欧洲教学实践中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **中世纪大学时期 — 规训与生成的词义分化** 欧洲教学实践中形成规训（[[Disciplina and Doctrina|disciplina]]，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
@@ -175,10 +190,10 @@ updated: 2026-10-18
 ## 相关研究
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与现象本位学习的理论根基。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 考掘欧洲教学论与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 探讨算法化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从欧陆教学论与教化传统批判可见学习抽空学科实质内容与课程合法化反思的形式主义局限。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论核心范畴、以简陋评价图式瓦解三元教学三角形的理论危机。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教学论与教化传统批判可见学习放逐教学论[[Central Phenomenon|核心范畴]]、以简陋评价图式瓦解三元教学三角形的理论危机。
 
 ---
 
@@ -189,7 +204,7 @@ updated: 2026-10-18
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Bildung]] | 概念 | 德语教学论的终极价值追求，教学由具有教化价值的学科内容作为中介展开。 |
-> | [[Disciplina and Doctrina]] | 概念 | 构成教学论史中规训控制与探究生成良性张力的核心范畴对。 |
+> | [[Disciplina and Doctrina]] | 概念 | 构成教学论史中规训控制与探究生成良性张力的[[Central Phenomenon\|核心范畴]]对。 |
 > | [[Epochal Key Problems]] | 概念 | 克拉夫基批判建设性教学论组织跨学科课程与面对未知时代危机的核心组织主轴。 |
 > | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科核心课程将欧洲教学论传统转化为现代探究教学的实践形态。 |
 > | [[Professional Judgment]] | 概念 | 教学论视域下教师协调内容转化、教化目标与规范要求的核心专业品格。 |

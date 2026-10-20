@@ -19,13 +19,13 @@ related_concepts:
   - "[[Educative Experience]]"
   - "[[Rote Learning]]"
   - "[[Epistemology]]"
+  - "[[Education as Growth]]"
   - "[[Dialogue in Education]]"
   - "[[Reflective Thinking]]"
   - "[[Narration Sickness]]"
   - "[[Examination-Oriented Education]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -135,5 +135,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析传统课堂纪律难题、死标本观察课与反教育经验的因果链条。

@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ journal: "Big Data & Society"
 sources:
   - "[[sources/Hartong_Forschler_2019_BDS/Hartong_Forschler_2019_BDS|Hartong_Forschler_2019_BDS]]"
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Data Literacy]]"
   - "[[Data Infrastructure]]"
   - "[[Discourse]]"
@@ -87,7 +88,7 @@ updated: 2026-10-20
 ## 研究问题
 
 > [!question]
-> 在当代全球教育治理全面转向循证决策与数字化的浪潮中，州级教育行政机构如何具体建构、运行和维系基于数据的学校监测系统？这一过程内部究竟包含哪些鲜为人知的数据流转环节、算法决策机制与社会-技术暗箱？面对不同国家体制与[[Organizational Culture\|组织文化]]，数字数据实践又遭遇了哪些普遍性与情境化的结构张力？
+> 在当代全球教育治理全面转向[[Evidence-Based Policy-Making|循证决策]]与数字化的浪潮中，州级教育行政机构如何具体建构、运行和维系基于数据的学校监测系统？这一过程内部究竟包含哪些鲜为人知的数据流转环节、算法决策机制与社会-技术暗箱？面对不同国家体制与[[Organizational Culture\|组织文化]]，数字数据实践又遭遇了哪些普遍性与情境化的结构张力？
 
 > [!claim] 核心主张
 > 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术装配；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy\|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure\|数据基础设施]]素养。

@@ -8,7 +8,7 @@ aliases:
 summary: "指由信息通信技术和交通革命驱动的物理距离与沟通时滞的急剧缩减，它深刻改变了资本、劳动力与知识的流动方式，成为界定全球化时代教育变革与传统世界体系历史阶段质性差异的关键本体论基础。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,8 +37,7 @@ related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Varieties of Capitalism]]"
   - "[[Globalization from Below]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"

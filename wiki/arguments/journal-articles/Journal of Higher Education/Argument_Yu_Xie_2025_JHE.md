@@ -17,6 +17,7 @@ tags:
   - theme/internationalization
   - source/journal-article
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Developmentalism]]"
   - "[[Cosmopolitanism]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
@@ -48,13 +50,15 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Soft Power]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[STEM Education]]"
+  - "[[International Branch Campus]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Hard Power]]"
+  - "[[Knowledge Power]]"
   - "[[Policy Network]]"
+  - "[[Community of Shared Future for Mankind]]"
   - "[[Relational Space]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Zero-Sum Competition]]"
@@ -73,30 +77,33 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Philip Altbach]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Bologna Process]]"
+  - "[[ASEAN]]"
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[Fulbright Program]]"
   - "[[EU]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[Asian Universities Alliance]]"
+  - "[[University Alliance of the Silk Road]]"
 related_arguments: []
 sources:
   - "[[sources/Yu_Xie_2025_JHE|Yu_Xie_2025_JHE]]"
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -105,7 +112,7 @@ journal: "高等教育研究"
 ## 研究问题
 
 > [!question]
-> 全球地缘政治竞争加剧正在深刻重塑高等教育的合作发展格局，而中文文献中对[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm\|范式]]如何演化？
+> 全球[[Geopolitics|地缘政治]]竞争加剧正在深刻重塑高等教育的合作发展格局，而中文文献中对[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm\|范式]]如何演化？
 
 > [!claim] 核心主张
 > 高等教育始终具有地缘政治属性，对它的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。围绕地缘政治是物质性还是观念性、是科学性（知识）还是实践性（行动）这两个[[Ontology\|本体论]]问题，可分出[[Classical Geopolitics\|传统地缘政治]]与[[New Geopolitics\|新地缘政治]]两种范式，二者并非替代关系而是延续与互补。在当代多极化和碎片化的世界中，高等教育可以发挥能动性，通过积极参与世界空间秩序的建构与重构，为全球共同善作出贡献。
@@ -128,7 +135,7 @@ journal: "高等教育研究"
 > | **认识论殖民**<br>[[Epistemic Coloniality]] | 揭示全球知识体系以欧洲中心主义[[Epistemology\|认识论]]为基础，通过学术语言、量化评估标准和西方理论[[Paradigm\|范式]]构建排他性知识规则系统。用于分析排名、出版平台和科学语言如何维系[[Geopolitics of Knowledge\|知识地缘政治]]中的西方中心秩序。 |
 
 > [!warrant]- 理论如何支撑论证
-> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将地缘政治理论自身的范式演变作为分析对象，梳理[[Classical Geopolitics\|传统地缘政治]]与新地缘政治在[[Ontology\|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、学术流动、跨境合作）提供了统一的分析视角。
+> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将[[Geopolitics|地缘政治理论]]自身的范式演变作为分析对象，梳理[[Classical Geopolitics\|传统地缘政治]]与新地缘政治在[[Ontology\|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、学术流动、跨境合作）提供了统一的分析视角。
 
 ---
 
@@ -172,8 +179,8 @@ journal: "高等教育研究"
 
 ### 论证步骤一：高等教育地缘政治研究的兴起有其现实与理论双重动因
 
-> [!claim] 地缘政治的回归推动高等教育研究转向
-> 全球高等教育正经历深刻变局。传统学术合作受阻，俄罗斯退出[[Bologna Process\|博洛尼亚进程]]，中美合作论文比例显著下降，部分合作办学甚至终止；新的交流方向同时生成，中国学生大规模转向英新德法日韩等国，东盟与东南亚教育部长组织联合签署了《[[Southeast Asian Higher Education Common Space\|东南亚高等教育共同空间]]宣言》。一度隐退在高等教育交流和合作背后的政治主体重新浮现，各个国家和地区在推进高等教育交流合作时都带着明确的政治议程。[[Internationalization of Higher Education\|高等教育国际化]]日益成为由民族国家主导的策略性活动，不再以世纪之初由高校主导时所呈现的偶发性、碎片化和边缘化的面貌示人。地缘政治因素已成为全球高等教育发展与变革的显性逻辑（pp.2–3）。
+> [!claim] [[Geopolitics|地缘政治]]的回归推动高等教育研究转向
+> 全球高等教育正经历深刻变局。传统学术合作受阻，俄罗斯退出[[Bologna Process\|博洛尼亚进程]]，中美合作论文比例显著下降，部分合作办学甚至终止；新的交流方向同时生成，中国学生大规模转向英新德法日韩等国，[[ASEAN|东盟]]与东南亚教育部长组织联合签署了《[[Southeast Asian Higher Education Common Space\|东南亚高等教育共同空间]]宣言》。一度隐退在高等教育交流和合作背后的政治主体重新浮现，各个国家和地区在推进高等教育交流合作时都带着明确的政治议程。[[Internationalization of Higher Education\|高等教育国际化]]日益成为由民族国家主导的策略性活动，不再以世纪之初由高校主导时所呈现的偶发性、碎片化和边缘化的面貌示人。地缘政治因素已成为全球高等教育发展与变革的显性逻辑（pp.2–3）。
 
 > [!chain-link] 证据到判断：既有理论工具的解释力不足
 > - **起点** 马金森（S. Marginson）指出，高等教育领域的上述骤变并非完全基于自身的逻辑演化而来，它反映了长久以来一直存在的一个现实：地缘政治和高等教育之间存在很强的关联。在不少情况下，与高等教育有关的决策或行动其实有着鲜明的地缘政治逻辑，但很少被用"地缘政治"来描述，结果是它往往在实践中存在，却在语言中消失（p.3; Marginson, 2024）。
@@ -213,7 +220,7 @@ journal: "高等教育研究"
 >
 > - **冷战结束后至21世纪初（1990s–2010s）：非自觉的高等教育地缘政治研究**
 >
->   冷战结束后，苏联解体，二元阵营的意识形态对立逐渐让位于全球化。高等教育的外交和安全工具属性被中性色彩的发展主义和现代化话语所掩盖。在相当长一段时期，人们被乐观的国际主义和全球化话语所鼓舞，相信地球是平的，发展、区域一体化、国际化逐渐替代了意识形态话语。国际援助、学者流动以及政策借鉴广受关注（Altbach, 1971; Arnove, 1980）。当时普遍认为历史已然终结（Fukuyama, 1992），高等教育终将被纳入一个统一的国际化体系中，高等教育国际化甚至一度被视为高校的第四职能（pp.4–5）。
+>   冷战结束后，苏联解体，二元阵营的意识形态对立逐渐让位于全球化。高等教育的外交和安全工具属性被中性色彩的[[Developmentalism|发展主义]]和现代化话语所掩盖。在相当长一段时期，人们被乐观的国际主义和全球化话语所鼓舞，相信地球是平的，发展、区域一体化、国际化逐渐替代了意识形态话语。国际援助、学者流动以及政策借鉴广受关注（Altbach, 1971; Arnove, 1980）。当时普遍认为历史已然终结（Fukuyama, 1992），高等教育终将被纳入一个统一的国际化体系中，高等教育国际化甚至一度被视为高校的第四职能（pp.4–5）。
 >
 >   然而体系本身可能存在着深刻的不平等：
 >   - [[Philip Altbach|阿特巴赫]]（P. Altbach）借用中心-边缘理论描述了全球高等教育秩序中的结构性不平等（Altbach, 2004; Altbach & Knight, 2007）
@@ -341,7 +348,7 @@ journal: "高等教育研究"
 >     - 将大学置入一个可比的全球象征结构中，以可视形式显示国家的[[Soft Power\|软实力]]及其排序，使大学之间、国家之间由此认识自身的相对位置（Shahjahan & Morgan, 2016）
 >     - 通过等级划分确立知识的相对价值排序，将大学转化为国家争夺象征资本的竞技场（Cantwell, 2016）（pp.7–8）
 > - **科研资助网络与学术出版平台** 全球知识生产由一个相对较小的研究资助者群体和位于全球北方国家的大型学术出版商主导，编辑们通常来自数量相对较少的欧美研究密集型精英机构（Larivière et al., 2015）。主导的科学语言为英语进一步加剧了非西方国家知识的边缘化（Curry & Lillis, 2018）。虽然在大力推动下新兴学术出版机构和非英语期刊有所发展，来自全球南方国家的知识仍只能被商品化，并最终服务于全球北方国家的学术界（Collyer, 2018）（pp.8–9）。
-> - **学者自我[[Disciplina and Doctrina\|规训]]** 在英文期刊上发表论文长期被当作科研绩效的核心指标，决定着研究人员的晋升、资源获取和职业稳定性，使得研究方向、方法选择与语言表达都深受影响（Chou, 2021）。研究者越来越倾向于围绕更易获得英文学界认可的议题开展研究，而不关注本土社会问题或在[[Local Knowledge in Evidence-Based Policy\|地方知识]]。排名由此成为一种新的治理艺术（new arts of governing）（Shahjahan & Morgan, 2016），促使研究者主动或被动地进行自我规训，让学术实践与国际主流话语保持一致（p.9）。
+> - **学者自我规训** 在英文期刊上发表论文长期被当作科研绩效的核心指标，决定着研究人员的晋升、资源获取和职业稳定性，使得研究方向、方法选择与语言表达都深受影响（Chou, 2021）。研究者越来越倾向于围绕更易获得英文学界认可的议题开展研究，而不关注本土社会问题或在[[Local Knowledge in Evidence-Based Policy\|地方知识]]。排名由此成为一种新的治理艺术（new arts of governing）（Shahjahan & Morgan, 2016），促使研究者主动或被动地进行自我规训，让学术实践与国际主流话语保持一致（p.9）。
 
 > [!claim] 全球等级秩序的三层渗透路径
 > 全球知识等级秩序通过从宏观到中观再到微观的路径实现再生产。它首先渗入国家高等教育空间，引导各国调整学科布局和配置科研资源；然后影响高校之间的资源分配以及高校内部的治理结构，精英研究型大学被赋予更多国际功能与象征地位，本土导向与区域服务型院校被相对边缘化；最后形塑微观个体层面的认知和行为。坎特韦尔（B. Cantwell）指出，大学排名是一份关于资源分配不均和全球知识生产不平衡的成绩单，其效果是使这种不平等合法化（pp.8–9）。
@@ -374,7 +381,7 @@ journal: "高等教育研究"
 
 #### 流动基础设施概念：制度性空间的筛选机制
 
-> [!claim] 海外分校既是知识与人才流通的节点，也是流动限制与筛选的场所
+> [!claim] [[International Branch Campus|海外分校]]既是知识与人才流通的节点，也是流动限制与筛选的场所
 > [[Infrastructures of Immobility\|流动基础设施]]（infrastructures of (im)mobility）概念最初来源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），经济地理学家克莱伯特（J. Kleibert）在跨境高等教育研究中应用并发展了它（Kleibert, 2018, 2020）。制度性与空间性因素——签证机制、地理区位、话语规范等——可以协同运作，实现对跨境流动的引导、规训与筛选。流动基础设施有两种形态：
 > - **物质性** 奖学金分配系统等
 > - **制度性** 国际办学网络、签证制度等
@@ -421,7 +428,7 @@ journal: "高等教育研究"
 > [!chain-link] 软实力（Soft Power）→ 知识外交（Knowledge Diplomacy）→ 空间项目（Spatial Project）的概念演进
 > - **软实力的零和局限** 当跨境合作被概念化为软实力的投射工具时，国家利益与竞争就成为其支配逻辑，教育关系易被简化为零和的权力博弈，合作、互惠与信任等价值会消失不见（p.11; Knight, 2021）。
 > - **[[Knowledge Diplomacy\|知识外交]]** 奈特（J. Knight）提出，跨境高等教育合作可被视为一种知识外交，通过教育、研究与创新来建立和强化国家间关系，促进合作理解与双向互动，立足互信互惠，共同应对全球挑战（p.11; Knight, 2021）。
-> - **两种模式的实证对比** 一项比较研究显示，在中国一带一路倡议下的两类大学联盟中，亚洲大学联盟通过高度精英化和排他性规则，体现出知识权力的取向（很大程度上仍是软实力的延伸）；丝绸之路大学联盟则以开放和多边合作为特征，呈现出知识外交的价值理念（p.11; Pan, 2021）。
+> - **两种模式的实证对比** 一项比较研究显示，在中国[[Belt and Road Initiative|一带一路倡议]]下的两类大学联盟中，[[Asian Universities Alliance|亚洲大学联盟]]通过高度精英化和排他性规则，体现出[[Knowledge Power|知识权力]]的取向（很大程度上仍是软实力的延伸）；[[University Alliance of the Silk Road|丝绸之路大学联盟]]则以开放和多边合作为特征，呈现出知识外交的价值理念（p.11; Pan, 2021）。
 > - **共同局限** 无论是以软实力还是知识外交为理论支点的研究，其背后都隐含着国家中心主义的分析前提。跨境合作中高校的能动性、跨国组织的角色以及高校与国家与超国家行为体间的动态权力关系难以捕捉（p.11）。
 
 > [!case] 博洛尼亚进程（Bologna Process）与英国脱欧（Brexit）：高校能动性的两个例证
@@ -452,7 +459,7 @@ journal: "高等教育研究"
 >
 > 新加坡的策略有着典型的[[Constructivist Paradigm\|社会建构主义]]逻辑，即通过制度可信性、文化兼容性与发展愿景的叙事组合，在国际高教网络中塑造自身的空间地位（p.12; Sidhu et al., 2021）。
 
-> [!case] 中国：周边命运共同体的[[Relational Space\|关系性空间]]项目
+> [!case] 中国：周边[[Community of Shared Future for Mankind|命运共同体]]的[[Relational Space\|关系性空间]]项目
 > 中国围绕周边命运共同体的一系列跨境教育合作倡议同样可被理解为一种空间项目。与新加坡的差异在于：
 > - 新加坡侧重规则、制度与法律中立来生产可信节点的网络中心性
 > - 中国更常诉诸关系性的秩序叙事，将合作置于互惠承诺、道德责任与共同体想象之中加以正当化
@@ -562,8 +569,8 @@ journal: "高等教育研究"
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Geopolitics of Higher Education\|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics\|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到地缘政治理论；近年来的自觉研究主动引入[[Critical Geopolitics\|批判地缘政治]]和[[Space Production\|空间生产]]理论（pp.3–6）。
-> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从[[Human Capital Theory\|人力资本]]到[[Geopolitical Subject\|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production\|知识生产]]（[[Epistemology\|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina\|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility\|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power\|软实力]]到[[Knowledge Diplomacy\|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
+> 1. **[[Geopolitics of Higher Education\|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics\|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到[[Geopolitics|地缘政治理论]]；近年来的自觉研究主动引入[[Critical Geopolitics\|批判地缘政治]]和[[Space Production\|空间生产]]理论（pp.3–6）。
+> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从[[Human Capital Theory\|人力资本]]到[[Geopolitical Subject\|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production\|知识生产]]（[[Epistemology\|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我规训三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility\|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power\|软实力]]到[[Knowledge Diplomacy\|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
 > 3. **传统地缘政治与[[New Geopolitics\|新地缘政治]]在空间观、权力观和高等教育角色上存在根本性[[Ontology\|本体论]]差异，但当代呈现复合嵌套形态** 传统[[Paradigm\|范式]]将空间视为客观地理实体、权力体现为军事控制，新范式将空间视为社会建构、权力体现为知识与[[Discourse|话语]]的空间秩序塑造能力。当代研究在吸收批判地缘政治成果的基础上重新纳入物质性与安全议题的分析（pp.11–13）。
 > 4. **空间生产三元维度（物质性、表征性、关系性）为整合分析提供框架** 该框架能够同时容纳传统地缘政治对物质权力的关切和新地缘政治对空间建构的分析，将高等教育空间实践分解为制度装置的物质布局、象征等级的合法性生产和行动者网络的动态协商三个彼此嵌套的维度（pp.12–13）。
 
@@ -572,10 +579,10 @@ journal: "高等教育研究"
 ## 关键引用
 
 > [!citation-card]- [[Geopolitics of Higher Education\|高等教育地缘政治]]研究的演变
-> 高等教育并非最近才被地缘政治化，而是一直有着地缘政治属性，只是由于地缘政治历史的变化和理论工具的发展，针对高等教育的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。（p.5）
+> 高等教育并非最近才被[[Geopolitics|地缘政治]]化，而是一直有着地缘政治属性，只是由于地缘政治历史的变化和理论工具的发展，针对高等教育的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。（p.5）
 
 > [!citation-card]- 高等教育的能动角色
-> 将地缘政治视角引入高等教育研究，绝非简单地评估近期地缘政治事件对其的影响，也绝非将其窄化为国家间竞争的工具。相反，其可能的意义在于让我们意识到，既然高等教育始终嵌入多层的空间秩序之中，也不可避免地与其他地缘政治行动者进行互动，并不断重塑或生产着空间秩序，那么，与其思考能否和如何使其摆脱地缘政治，不如考虑在当前多极化和碎片化的世界中，高等教育可以和如何发挥自身的能动性，积极参与世界空间秩序的建构与重构，为全球共同善和构建人类命运共同体作出贡献。（p.13）
+> 将地缘政治视角引入高等教育研究，绝非简单地评估近期地缘政治事件对其的影响，也绝非将其窄化为国家间竞争的工具。相反，其可能的意义在于让我们意识到，既然高等教育始终嵌入多层的空间秩序之中，也不可避免地与其他地缘政治行动者进行互动，并不断重塑或生产着空间秩序，那么，与其思考能否和如何使其摆脱地缘政治，不如考虑在当前多极化和碎片化的世界中，高等教育可以和如何发挥自身的能动性，积极参与世界空间秩序的建构与重构，为全球共同善和[[Community of Shared Future for Mankind|构建人类命运共同体]]作出贡献。（p.13）
 
 > [!citation-card]- [[Space Production\|空间生产]]的视角转换
 > 在[[New Geopolitics\|新地缘政治]]视角下，对空间的理解从先验的自然容器转向流动的社会建构。空间并不是政治活动的客观背景，而是经由命名、叙述、分类及治理等[[Discourse|话语]]实践不断生产与重组的社会政治产物。地缘政治不仅是一种国家[[Governmentality\|治理术]]，更是一种理解、叙述与组织世界的方式。（p.12）
@@ -588,7 +595,7 @@ journal: "高等教育研究"
 ## 自述局限
 
 > [!warning]
-> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的[[Correlational Research\|相关研究]]涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。（p.13）
+> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。（p.13）
 
 ---
 

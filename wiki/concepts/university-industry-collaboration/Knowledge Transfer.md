@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -23,7 +23,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
@@ -60,7 +60,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Plato]]"
 related_facts:
@@ -98,7 +97,7 @@ updated: 2026-10-20
 > 三种脉络共享“知识在主体或[[Champ|场域]]间移动”的基本意象，但在理论传统（[[Critical Geopolitics|批判地缘政治]] vs. [[Systems of Innovation|创新系统理论]] vs. 循证知识治理）、分析层次（国家全球地缘 vs. 大学产业组织 vs. 政策实践转化）与价值预设上截然不同。
 
 > [!def] 核心定义
-> 知识转移（Knowledge Transfer, KT）指知识客体跨越个体、组织、部门或国家边界，进入传递、吸收、转化、[[Disciplina and Doctrina|规训]]或商业化应用的流动过程。在地缘政治视域下，它是知识在非对称权力结构中被强制灌输、监视、审查或窃取的运动机制（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 74–75]]）；在产学合作视域下，它是大学通过正式契约与非正式交往向工业界辐射学术成果的制度化通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 55]]）；在循证政策视域下，它是将综合研究证据依据目标受众进行标准化包装与定向交付的战略传播流程（[[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 37–38]]）。
+> 知识转移（Knowledge Transfer, KT）指知识客体跨越个体、组织、部门或国家边界，进入传递、吸收、转化、规训或商业化应用的流动过程。在[[Geopolitics|地缘政治]]视域下，它是知识在非对称权力结构中被强制灌输、监视、审查或窃取的运动机制（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 74–75]]）；在产学合作视域下，它是大学通过正式契约与非正式交往向工业界辐射学术成果的制度化通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 55]]）；在循证政策视域下，它是将综合研究证据依据目标受众进行标准化包装与定向交付的战略传播流程（[[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 37–38]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向知识在生产者与获取者之间位移的动态过程，关注知识载体、流动通道、制度中介与权力博弈。
@@ -174,7 +173,7 @@ updated: 2026-10-20
 > 批判后殖民研究长期将重心偏置于[[Knowledge Production\|知识生产]]的静态特征，确立知识运动与转移在权力宰制中的独立冲突源地位。
 
 > [!claim] [[Argument_Partaken_2022_Springer\|Partaken (2022)]]
-> **知识在运动中的地缘权力冲突** 知识一旦被生产即进入挪用与流通，成为生产者与获取者互动的客体。权力不仅是获取经济利益的工具，更是独立的冲突根源（Katz, 1965）。当代新自由全球化中的新殖民动力与地缘对抗，主要不是体现在知识是在何处被生产的，而是体现在知识在跨国流动中如何遭遇强制转移、国家支持的工业间谍、[[Panopticism|全景敞视]]式数据监视与审查阻断。知识转移本身构成了独立的地缘政治博弈[[Champ\|场域]]。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75, 84)]]
+> **知识在运动中的地缘权力冲突** 知识一旦被生产即进入挪用与流通，成为生产者与获取者互动的客体。权力不仅是获取经济利益的工具，更是独立的冲突根源（Katz, 1965）。当代新自由全球化中的新殖民动力与地缘对抗，主要不是体现在知识是在何处被生产的，而是体现在知识在跨国流动中如何遭遇强制转移、国家支持的工业间谍、[[Panopticism|全景敞视]]式数据监视与审查阻断。知识转移本身构成了独立的[[Geopolitics|地缘政治]]博弈[[Champ\|场域]]。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75, 84)]]
 
 ---
 
@@ -235,7 +234,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 知识转移的演变历程
 > - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（[[Plato|柏拉图]]智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
-> - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义地缘政治教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
+> - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义[[Geopolitics|地缘政治]]教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
 > - **1970–1980s — 产学隐性经验（Lore）与驻留机制确立** 加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 探索轮转科学家、驻留工程师与 FMA 联合[[Mentorship|导师制]]，确立高技术重资产环境下以人员流动为载体的隐性经验转移[[Paradigm|范式]]。[[Argument_Mody_2017_MOH\|(Mody, 2017, pp. 290–292, 297)]]
 > - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企[[Tacit Knowledge|隐性知识]]流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。

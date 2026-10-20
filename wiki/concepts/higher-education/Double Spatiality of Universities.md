@@ -5,7 +5,7 @@ aliases:
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Space-Making]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-23
+updated: 2026-10-20
 ---
 
 # Double Spatiality of Universities
@@ -81,7 +82,7 @@ updated: 2026-09-23
 ## 应用领域
 
 > [!success]
-> - [[Geopolitics of Knowledge]] — 双重空间性是理解大学如何在国家地缘政治竞争和全球知识合作之间运作的关键
+> - [[Geopolitics of Knowledge]] — 双重空间性是理解大学如何在国家[[Geopolitics|地缘政治]]竞争和全球知识合作之间运作的关键
 > - [[Internationalization of Higher Education]] — 国际化的深层基础正在于大学的双重空间性：大学的[[Ontology\|本体论]]特征使其天然倾向于跨境连接
 
 ---

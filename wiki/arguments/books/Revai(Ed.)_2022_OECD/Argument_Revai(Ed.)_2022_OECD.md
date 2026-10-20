@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Concept Mapping]]"
   - "[[Evidence-Informed Decision-Making]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Transfer]]"
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm]]"
@@ -104,7 +105,7 @@ sources:
 part_of: null
 status: draft
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Argument_Revai(Ed.)_2022_OECD
@@ -124,7 +125,7 @@ updated: 2026-10-17
 ## 编者问题与组织主张
 
 > [!question] 编者问题
-> 为什么在各国持续扩大教育研究投资并大范围提倡循证决策的背景下，教育研究依然难以在政策与课堂教学实践中得到系统化、规模化应用？究竟是何种机制、制度障碍与行动者互动模式决定了教育证据能否真正进入决策与实践？（pp.3, 11, 16）
+> 为什么在各国持续扩大教育研究投资并大范围提倡[[Evidence-Based Policy-Making|循证决策]]的背景下，教育研究依然难以在政策与课堂教学实践中得到系统化、规模化应用？究竟是何种机制、制度障碍与行动者互动模式决定了教育证据能否真正进入决策与实践？（pp.3, 11, 16）
 
 > [!volume-argument] 编者组织主张
 > - **共同问题** 将分散的知识传播孤岛、中介机构职能分化、教师与政策制定者参与不足，以及学术评价体制对跨界合作的阻碍，统摄于“[[Evidence Ecosystem\|证据生态系统]]的系统性激活与质量治理”这一统一问题框架之下。（pp.11–13）

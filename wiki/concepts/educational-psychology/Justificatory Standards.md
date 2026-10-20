@@ -7,10 +7,10 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Academic Achievement]]"
   - "[[Construct Validity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Scaffolding]]"
   - "[[Citizen Science]]"
   - "[[Dependent Variable]]"
@@ -49,7 +48,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
   - "[[William A. Sandoval]]"
@@ -64,7 +62,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Justificatory Standards
@@ -193,7 +191,7 @@ updated: 2026-10-16
 > > - **[[Discourse Analysis\|话语分析]]法** 通过课堂互动[[Discourse|话语]]流观察被执行的规范，但面临从外在行为推断隐性心智标准的推论危机（inference problem），呼唤质性话语与认知建模的混合测量。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!warning] 适用局限与迁移挑战
-> - **学科专业[[Disciplina and Doctrina\|规训]]与公民日常生活语境的脱节** 当前研究主要考察学生在高度[[Scaffolding\|脚手架]]化的学科环境（如实验室模拟）中表现出的专业确证标准。然而，当这些标准进入信息过载、虚假新闻与利益操纵并存的日常“公民生活（civic life）”时，学习者往往面临迁移断层。如何在[[Citizen Science\|公民科学]]教育中培养兼具专业审慎与日常可用性的校准确证标准，仍是重大未决课题。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> - **学科专业规训与公民日常生活语境的脱节** 当前研究主要考察学生在高度[[Scaffolding\|脚手架]]化的学科环境（如实验室模拟）中表现出的专业确证标准。然而，当这些标准进入信息过载、虚假新闻与利益操纵并存的日常“公民生活（civic life）”时，学习者往往面临迁移断层。如何在[[Citizen Science\|公民科学]]教育中培养兼具专业审慎与日常可用性的校准确证标准，仍是重大未决课题。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
 
@@ -219,7 +217,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将确证标准界定为多层系统中的分布式社会协商实践，揭示职业标准向公民生活迁移的断层危机。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，证实聚焦确证标准的显性教学对[[Academic Achievement\|学业成就]]有中等偏上的因果效应（$d = 0.509$），并揭示测验对齐是[[Effect Size\|效应量]]的核心调节[[Variable\|变量]]。

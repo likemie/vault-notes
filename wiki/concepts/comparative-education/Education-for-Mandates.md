@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Brokerage]]"
+  - "[[Geopolitics]]"
   - "[[Global Education Industry]]"
   - "[[International Education]]"
   - "[[Return on Investment]]"
@@ -36,7 +37,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Kerstin Martens]]"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Organisation for European Economic Co-operation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[International Labour Organization]]"
+  - "[[ASEAN]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -79,7 +80,7 @@ updated: 2026-10-20
 > *Third, our findings suggest that over the past 60 years or so, educational topics penetrated the portfolios of non-education IOs. Many IOs with no direct mandate for education policy started to engage in education-related matters from the late 1960s onwards. Their number increased to the extent that by the year 2023, a third of the entire population of IOs (n = 30) operating in part or entirely in the education sector consisted of IOs that were designed to coordinate international economic cooperation, such as the World Bank, the OECD, or the regional development banks. Education-for-mandates – such as education for economic growth, peace, international understanding, sustainable development, and a global knowledge economy – became the standard line of argumentation to fund and promote education activities in non-education IOs.*
 
 > [!boundary]- 概念边界
-> - 不等于 联合国教科文组织专门授权（UNESCO Mandate） — 后者依据《联合国宪章》拥有国际法明文赋予的教育专门法定职责；使命性教育嵌入特指经济、安全或地缘政治机构以“外延衍生方式”将教育工具化。
+> - 不等于 联合国教科文组织专门授权（UNESCO Mandate） — 后者依据《联合国宪章》拥有国际法明文赋予的教育专门法定职责；使命性教育嵌入特指经济、安全或[[Geopolitics|地缘政治]]机构以“外延衍生方式”将教育工具化。
 > - 不等于 跨国商业利益游说（Commercial Lobbying） — 商业游说以资本利润最大化为导向；使命性教育嵌入属于跨国公共官僚机构维系组织生存、扩展职能利基与合法化自身资源垄断的制度化策略。
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-10-20
 > [!dev-timeline] 概念演变
 > - **1945–1960 — 专门机构双寡头格局** 战后初期仅有[[International Labour Organization\|国际劳工组织]]（ILO）与[[UNESCO\|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
 > - **1961–1970s — 冷战地缘催化与跨界嵌入肇始** 经合组织（1961）借斯普特尼克危机将教育锚定为经济防务工具；世界银行（1964）借道教科文组织入场，开启以教育促进经济增长的使命嵌入。
-> - **1990s–2005 — 区域化跨界浪潮与总量饱和** 东南亚国家联盟（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
+> - **1990s–2005 — 区域化跨界浪潮与总量饱和** [[ASEAN|东南亚国家联盟]]（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与理论确立** Martens, Niemann, & Krogmann (2024) 与 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 正式确立“使命性教育嵌入”概念，系统剖析非专门机构在数字治理时代依靠硬事实[[Policy Brokerage\|政策中介]]维持治理特权的生态。
 
 ---
@@ -191,5 +192,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 正式应用使命性教育嵌入概念，揭示跨界国际组织如何将教育绑定于经济增长使命以推行[[Policy Brokerage\|政策中介]]工具。

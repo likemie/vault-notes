@@ -10,7 +10,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 18
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,15 +26,13 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Dual School System]]"
   - "[[Policy Borrowing]]"
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[François Guizot]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # François Guizot
@@ -90,7 +88,7 @@ updated: 2026-10-17
 > - **1820s — 欧洲文明史学与立宪自由主义建构** 创立现代文明史观，系统论述欧洲文明的演进取决于个人自由与社会秩序的平衡，主张有教养的中产阶级（中庸理性阶层）是维系立宪宪政与抵御社会混乱的中流砥柱。
 >   - **代表著作** *Histoire générale de la civilisation en Europe*（《欧洲文明史》, 1828）。
 >   - **关键概念** 文明进步、立宪君主制、中间道路理性。
-> - **1830s — [[State Educational Sovereignty\|国家教育权]]与初等公学法典化奠基** 将文明论与折衷自由主义哲学应用于国家公共教育建制，通过自上而下的行政动员推动国家对平民基础教育全面负起财政与[[Disciplina and Doctrina\|规训]]责任。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–30)]]
+> - **1830s — [[State Educational Sovereignty\|国家教育权]]与初等公学法典化奠基** 将文明论与折衷自由主义哲学应用于国家公共教育建制，通过自上而下的行政动员推动国家对平民基础教育全面负起财政与规训责任。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–30)]]
 >   - **代表成果** 《1833 年 6 月 28 日关于初等教育的法律》（*[[Guizot Law of 1833\|Loi Guizot]]*）及其致全国小学教师通谕（*Circulaire aux instituteurs*）。
 >   - **关键概念** [[State Educational Sovereignty\|国家教育权]]、[[Normal School\|师范学校]]、[[Dual School System\|双轨学制]]。
 >   - **阶段转向** 从历史理论批判转向国家世俗行政实定法架构的系统营造。
@@ -116,7 +114,7 @@ updated: 2026-10-17
 > - **欧陆比较[[Policy Borrowing\|政策借用]]典范** [[François Guizot|基佐]]借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 27–28)]]；引自 Knight (1930:116–119)
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统剖析基佐如何依托库森的普鲁士报告，将德国君主制法案条款本土化重构为法国七月王朝大资产阶级立宪秩序的法典基石。
 
 ---

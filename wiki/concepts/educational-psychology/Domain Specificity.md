@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 53
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Factor Mixture Modeling]]"
   - "[[Systematic Review]]"
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Domain Specificity
@@ -280,7 +279,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research\|实验研究]]，证实[[Critical Thinking\|批判性思维]]在 [[STEM Education\|STEM]] 与文社科均具稳健效果（$g+ \approx 0.30$），且通用原则与学科融入相结合的混合模式（$g+ = 0.38$）效果最强，实证化解了特异与通用之争。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 使用[[Factor Mixture Modeling\|因子混合模型]]对比历史与数学，从定量测量结构上终结了完全领域一般性假说。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将“判断领域”细分为品味、审美、价值、社会与物理事实，利用混合模式证明了认知发展的非同步性与反转规律。

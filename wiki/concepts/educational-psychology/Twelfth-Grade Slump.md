@@ -7,7 +7,7 @@ aliases:
 summary: "高中毕业学分提前完成且大学筛选考试缺少课程激励时，十二年级学生在等待升学期间出现的智识投入下降，揭示招生筛选与高年级课程挑战之间的制度断裂。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,8 +24,7 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Variable]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-10-20
 ---
 
 # Twelfth-Grade Slump
@@ -103,6 +102,6 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
 

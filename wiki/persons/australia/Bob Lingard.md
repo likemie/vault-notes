@@ -7,7 +7,7 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Economic Fundamentalism]]"
   - "[[Network Governance]]"
   - "[[Recontextualization]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
@@ -61,7 +60,7 @@ related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -121,7 +120,7 @@ updated: 2026-10-20
 > - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Rizvi, Taylor 合著）** 首次系统解构经合组织从二战后技术官僚协商平台演变为具有自主议程的跨国教育政策行动者的制度轨迹，奠定全球教育治理批判研究的基石。
 > - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]残余化的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
 > - **2010 — *Globalizing Education Policy*（与 [[Fazal Rizvi]] 合著）** 构建全球化教育政策分析的完整理论与方法论框架，系统梳理从民族国家科层统辖转向跨国[[Network Governance|网络治理]]的演进逻辑，解析新自由主义想象在学校、教师与课程中的[[Recontextualization|再脉络化]]。
-> - **2013 — *Globalizing Educational Accountabilities*（与 Sellar 等合著）** 剖析全球问责体制如何依托标准化测试数据向地方学区与一线教师施加高利害[[Disciplina and Doctrina|规训]]，解构“绩效问责”对教师专业自主性的侵蚀。
+> - **2013 — *Globalizing Educational Accountabilities*（与 Sellar 等合著）** 剖析全球问责体制如何依托标准化测试数据向地方学区与一线教师施加高利害规训，解构“绩效问责”对教师专业自主性的侵蚀。
 > - **2016 — *Global Education Policy and International Development*（参与合编）** 探讨全球教育政策[[Discourse|话语]]向全球南方国家扩散过程中的[[Policy Borrowing|政策借用]]、转译与本土抵制，批判新自由主义指标治理的[[Epistemology|认识论]]局限。
 
 ---
@@ -153,7 +152,7 @@ updated: 2026-10-20
 
 > [!influence-path] 影响路径
 > - **理论路径** 与 Rizvi 共同确立了教育政策社会学中的“[[Social Imaginary|社会想象]]”分析进路与“[[Governing by Numbers|数字治理]]”（governing by numbers）批判[[Paradigm|范式]]，深刻影响了批判政策社会学、比较教育学与量化社会学[[Comparative Education as a Cross-Sectional Area|交叉领域]]的理论议程。
-> - **方法路径** 倡导将批判政策[[Discourse Analysis|话语分析]]（CDA）与统计社会学（Desrosières, Rose）相结合，开创了解构跨国量化测评背后“[[Space of Equivalence|等值空间]]构建”与“[[Reliability|信度]]优先于效度”的方法论批判路径。
+> - **方法路径** 倡导将批判政策[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis|CDA]]）与统计社会学（Desrosières, Rose）相结合，开创了解构跨国量化测评背后“[[Space of Equivalence|等值空间]]构建”与“[[Reliability|信度]]优先于效度”的方法论批判路径。
 > - **政策路径** 其对 [[PISA]]、澳大利亚全国识字算术统考（NAPLAN）及绩效问责体制的严谨学术批判，广泛启发了一线教师工会、进步政策智库与[[Critical Pedagogy|批判教育学]]者抵制过度标准化应试的公共行动。
 > - **跨国／跨领域传播** 理论著述被翻译为多国语言并成为全球各大高校教育政策、国际发展与比较教育专业研究生的核心必读经典。
 

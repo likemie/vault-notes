@@ -7,10 +7,10 @@ aliases:
 summary: "指教育研究从问题界定、实地观察、数据分析直至政策转译与课堂应用的完整链条中，必须保持内在认识论逻辑的统一性与不间断性，用以抵御去语境化偏误与政策伪科学"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - epistemology
   - methodology-critique
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Doxa]]"
   - "[[Reliability]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Construct]]"
   - "[[Internal Validity]]"
   - "[[Independent Variable]]"
@@ -31,7 +32,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Network]]"
   - "[[Gatekeepers]]"
   - "[[Epistemological Break]]"
@@ -45,7 +45,6 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ian Menter]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemological Coherence
@@ -75,7 +74,7 @@ updated: 2026-10-16
 > [!citation-card] 全流程认识论连贯性与抵制伪科学
 > 从证据生产（从构思、观察到分析的连贯研究逻辑）到实际应用（循证政策延续同一逻辑），连贯的逻辑必须贯穿始终；否则无论单个环节效度如何，整个流程都无法被视为稳健。如果要将真知与意见区分开来，学者必须以严谨的认识论清晰度与政府合作，不仅要抵制荒谬言论，更要指明荒谬何在并加以避免。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 >
-> *Important in this regard, we believe coherent logic should extend from the start of evidence production to application (where evidence-based policy continues that same logic), and not be broken at any point along the way... if the goal is to separate episteme from doxa and to [[Construct]] valid evidence for informing any practice, academics need to engage government with epistemological clarity; not just to stand up to nonsense, but to identify what is nonsense, how is it nonsense, and how can we avoid it.*
+> *Important in this regard, we believe coherent logic should extend from the start of evidence production to application (where [[Evidence-Based Policy-Making|evidence-based policy]] continues that same logic), and not be broken at any point along the way... if the goal is to separate episteme from doxa and to [[Construct]] valid evidence for informing any practice, academics need to engage government with epistemological clarity; not just to stand up to nonsense, but to identify what is nonsense, how is it nonsense, and how can we avoid it.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Internal Validity\|内部效度]]（Internal Validity） — 内部效度仅检验实验设计内[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]的因果关联强度；认识论连贯性关照证据外推至政策[[Discourse|话语]]与实践操作时的全流程逻辑一致性。
@@ -132,7 +131,7 @@ updated: 2026-10-16
 ### 命题一　认识论连贯性的断裂直接诱发政策伪科学与专业教条化
 
 > [!concept-lens] 证据异化与伪科学机制
-> 探讨学术研究在进入政治[[Champ\|场域]]后为何会由科学结论异化为僵化的行政[[Disciplina and Doctrina\|规训]]。
+> 探讨学术研究在进入政治[[Champ\|场域]]后为何会由科学结论异化为僵化的行政规训。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Epistemology\|认识论]]链条断裂导致真知退化为 [[Doxa]]** 当[[Policy Network\|政策网络]]脱离原始研究的完整论证脉络，仅凭单一[[Effect Size\|效应量]]或口号式结论制定政策时，严谨科学所需的认识论连贯性即被切断；教育研究不再发挥启发专业思考的作用，反而被固化为不容置疑的操作教条，使教师被降格为执行标准化干预的被动受众，加剧了政策实践中的伪科学风险。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 95–96)]]
@@ -183,6 +182,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 首次在教师教育政策与[[Evidence Era\|证据时代]]语境中系统阐发全流程[[Epistemology\|认识论]]连贯性概念，揭示其在[[Policy Network\|政策网络]]中被割裂的制度机制。
 > - [[Critique of Evidence-Based Education]] — 循证教育批判总条目，包含认识论缺陷、民主缺陷与[[Institutional Isomorphism\|制度同构]]批判。

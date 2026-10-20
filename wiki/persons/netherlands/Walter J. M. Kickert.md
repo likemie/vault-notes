@@ -11,7 +11,7 @@ summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 23
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Block Grants]]"
   - "[[Public Value]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Educational Governance Framework]]"
@@ -50,7 +49,6 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Wim Deetman]]"
 confidence: high
@@ -159,7 +157,7 @@ updated: 2026-10-20
 > [!debates] 学术争议
 >
 > > [!axis] 自主权下放是实质去管制还是隐性控制重构
-> > 围绕[[Steering at a Distance|远距离操纵]]究竟真正扩大了高校自治，还是以事后评估之名建立起更隐蔽的新型国家[[Disciplina and Doctrina|规训]]。
+> > 围绕[[Steering at a Distance|远距离操纵]]究竟真正扩大了高校自治，还是以事后评估之名建立起更隐蔽的新型国家规训。
 > >
 > > - **[[OECD]] 国际审查专家组（OECD, 1989）** 在对荷兰高教政策审查中尖锐质疑，所谓“远距离操纵”与“扩大自主权”可能是具有误导性的修辞；国家通过[[Block Grants|总额预算]]约束与基于质量指标的事后纠偏，事实上在更高层面上增强了对大学的系统控制。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 154)]]
 > > - **基克特（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 辩护指出，该模式彻底终结了事前细密审批与微观教学干预，赋予高校在内部资金调配与学术战略上的完全自主；国家保留纠偏底线绝非剥夺自主，而是公共品治理不可推卸的信任保护责任。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]

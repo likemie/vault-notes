@@ -26,10 +26,10 @@ tags:
 related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Geopolitics]]"
   - "[[Informed Consent]]"
   - "[[Paradigm]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[EU]]"
   - "[[European Chips Act]]"
@@ -63,7 +63,7 @@ updated: 2026-10-20
 > 《关键原材料法案》（Critical Raw Materials Act, CRMA）通过立法确立战略原材料清单与多元化基准，设定至 2030 年本土开采至少 10%、精炼加工至少 40%、回收利用至少 25% 的硬性指标，并限制单一第三方国家供给占比不超过 65%，旨在扭转欧洲在数字与能源转型基础矿产上的结构性脆弱性。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 确保绿色和数字转型所需的战略原材料供应链安全与韧性；降低欧洲对单一地缘政治风险国家的供应依赖，建立原材料国家战略储备与联合采购机制。
+> - **政策目标** 确保绿色和数字转型所需的战略原材料供应链安全与韧性；降低欧洲对单一[[Geopolitics|地缘政治]]风险国家的供应依赖，建立原材料国家战略储备与联合采购机制。
 > - **适用对象** 成员国矿业管理部门、跨国工业联合体、上游提纯企业及使用稀土和关键微芯片的下游终端制造企业。
 > - **政策工具**
 >   - **战略项目快速许可（Fast-track Permitting）** 简化战略开采与精炼项目行政审批，将开采许可办理周期压缩至 27 个月以内，加工与回收项目压缩至 14 个月以内。

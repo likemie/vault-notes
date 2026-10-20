@@ -11,7 +11,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,8 +28,7 @@ related_concepts:
   - "[[Bonsai Army]]"
 related_theories:
   - "[[Strategic Bargaining Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[Autonomous Drone Swarms]]"
 related_arguments:

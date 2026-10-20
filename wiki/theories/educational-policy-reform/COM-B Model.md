@@ -9,7 +9,7 @@ aliases:
 summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为改变是能力（身体与心理）、机会（物理与社会）和动机（反思与自发）交互作用的产物；在教育政策与知识动员中，它被用于解释为何单纯信息推送无法改变实践，并为循证中介机构设计多维支持体系提供行为科学基石"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Translation]]"
   - "[[Peer-Supported Learning]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # COM-B Model
@@ -116,7 +117,7 @@ updated: 2026-10-17
 > [!proposition-chain] 核心命题二｜人际网络与伙伴关系仅构成中介转化的[[Necessary and Sufficient Conditions\|必要条件]]，唯有同步重构行为条件方能促成制度化利用
 > - **前提一** 许多[[Knowledge Mediation\|知识中介]]策略高度倚重建立学者与决策者之间的人际信任网络（如学者赴政府部门挂职借调 Secondment、举办学术沙龙研讨等）。
 > - **前提二** 实证元研究表明，单纯的人际熟络如果不伴随组织内部决策规程的制度化调整，一旦挂职人员离职，证据采纳便迅速人走茶凉（Langer et al., 2016）。
-> - **推导** 建立人际网络虽然能局部拓宽社会机会（O），但若未能根本提升机构内部人员自主分析证据的能力（C），且未在组织考核与晋升机制中注入长效激励动机（M），人际关系无法转化为持久的制度化循证决策（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 153]]）。
+> - **推导** 建立人际网络虽然能局部拓宽社会机会（O），但若未能根本提升机构内部人员自主分析证据的能力（C），且未在组织考核与晋升机制中注入长效激励动机（M），人际关系无法转化为持久的制度化[[Evidence-Based Policy-Making|循证决策]]（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 153]]）。
 
 > [!proposition-chain] 核心命题三｜[[Educational Brokerage Agency\|知识中介机构]]必须从“研究者影响力供给推力”转向“实践者行为需求拉力”
 > - **前提一** 大量中介活动往往由研究者渴望产生学术影响力的自利诉求驱动（Push），单向输出学术界认为重要的研究成果（Boswell & Smith, 2018）。

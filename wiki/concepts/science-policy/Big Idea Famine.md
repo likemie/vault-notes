@@ -7,7 +7,7 @@ aliases:
 summary: "由尼古拉斯·尼葛洛庞帝（2018）等提出的科技创新批判构念，指当代科技界在风投避险、反文化思潮与精英生产过剩规训下放弃重大物理工程与硬核科学，将顶尖智力锁定于外卖打车等浅层消费软件；卡普与扎米斯卡（2025）整合戈登的生产率停滞、格雷伯的技术拼贴与图尔钦的精英过剩论，论证其本质是科技精英放弃国家战略使命后的文明雄心萎缩，唯有重构技术共和国的实战工程思维方能破局。"
 type: concept
 domain: "science-policy"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Construct]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Counterculture Computing]]"
   - "[[Elite Overproduction]]"
   - "[[Lifestyle Technology]]"
@@ -41,8 +40,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Innovation Desert]]"
   - "[[Revoicing]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Nicholas Negroponte]]"
@@ -79,7 +77,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **大构想饥荒（Big Idea Famine / 科技野心衰退）** 是由麻省理工学院（Massachusetts Institute of Technology, MIT）媒体实验室联合创始人[[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]（Nicholas Negroponte, 2018）等学者提出的科技[[Innovation Ecosystem|创新生态]]诊断[[Construct|构念]]，指当代科技创业界与工程师群体在短期商业资本套利、避险文化[[Disciplina and Doctrina|规训]]以及反国家建制思潮的共同塑造下，集体放弃需要长期攻坚的硬核科学发现、基础物理工程制造与重大国家战略挑战，转而将全社会最顶尖的智力与财务资源高度集中于点餐外卖、日用品分销、网约叫车、修图社交与屏幕广告推荐算法等浅层消费类应用（App）的系统性异化趋势。
+> **大构想饥荒（Big Idea Famine / 科技野心衰退）** 是由麻省理工学院（Massachusetts Institute of Technology, MIT）媒体实验室联合创始人[[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]（Nicholas Negroponte, 2018）等学者提出的科技[[Innovation Ecosystem|创新生态]]诊断[[Construct|构念]]，指当代科技创业界与工程师群体在短期商业资本套利、避险文化规训以及反国家建制思潮的共同塑造下，集体放弃需要长期攻坚的硬核科学发现、基础物理工程制造与重大国家战略挑战，转而将全社会最顶尖的智力与财务资源高度集中于点餐外卖、日用品分销、网约叫车、修图社交与屏幕广告推荐算法等浅层消费类应用（App）的系统性异化趋势。
 > 
 > 在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的系统批判中，大构想饥荒并非单纯的商业偏好，而是经历了深刻的思想史与社会学演化：从 1970 年代[[Counterculture Computing|反文化计算]]将国家定性为“缺陷系统”并解构国家共同体认同，到 1990 年代末以 eToys 为代表的[[Dot-Com Bubble|互联网泡沫]]推行故意快速亏损以抢占微观消费品分销渠道的无差别狂热，再到 2010 年代高等教育择优体制引发的[[Elite Overproduction|精英生产过剩]]——拥有名校文化资质却缺乏实质财富的年轻工程师，将工程才智内卷于开发[[Lifestyle Technology|生活方式科技]]以在屏幕上为自身及同温层模拟贵族仆役特权。大卫·[[David Graeber|格雷伯]]（[[David Graeber]]）尖锐指出，这种以数字通信协议表面重组为特征的[[Technological Pastiche|技术拼贴]]（Technological Pastiche）背叛了 20 世纪中叶关于飞行汽车、清洁核聚变与星际基地的物理世界承诺，使全社会在信息通信局部繁荣的表象下陷入宏观[[Total Factor Productivity|全要素生产率]]停滞与文明雄心衰退。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–111)]]
 
@@ -199,7 +197,7 @@ updated: 2026-10-20
 ### 命题一　风险资本避险与商业孵化机制导致重大科学工程的琐碎化
 
 > [!concept-lens] 资本结构、创新激励与研发方向异化
-> 该命题探讨风投资本的商业周转逻辑如何反向[[Disciplina and Doctrina|规训]]研发行为，导致颠覆性科学构想在产业生态中被系统性边缘化。
+> 该命题探讨风投资本的商业周转逻辑如何反向规训研发行为，导致颠覆性科学构想在产业生态中被系统性边缘化。
 
 > [!claim] [[Nicholas Negroponte|Negroponte, N.]]; [[David Graeber|Graeber, D.]]
 > **商业孵化机制对硬核发明的琐碎化断言** 现代风险投资基金追求短期退出与高确定性回报，导致创新体系系统性惩罚周期漫长、涉及复杂实体制造或具有高失败率的基础科学与重大工程。无数顶尖科学家与软件工程师被迫将精力投入到外卖送餐、共享单车或新一轮社交算法的微调中。正如尼葛洛庞帝所言，商业孵化流程正在对真正科学发现进行“微缩与琐碎化”，使科技界丧失了探索物理世界未知疆界的雄心。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Negroponte, 2018; Graeber, 2012; cited in Karp & Zamiska, 2025, pp. 47–49)]]

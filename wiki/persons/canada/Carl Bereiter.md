@@ -8,7 +8,7 @@ summary: "加拿大教育理论家与认知科学家，知识建构理论联合�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,6 +48,7 @@ related_persons:
   - "[[James Madison]]"
   - "[[Marlene Scardamalia]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Carl Bereiter

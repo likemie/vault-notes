@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
   - "[[Further Education]]"
+  - "[[Geopolitics]]"
   - "[[Research Universities]]"
   - "[[Hard Power]]"
 related_theories: []
@@ -103,7 +104,7 @@ updated: 2026-10-20
 >   - **2018年** 教育部发布《高等学历[[Further Education|继续教育]]和普通高等教育来华留学高等教育质量规范（试行）》，确立严格的学术准入与淘汰标准。
 >   - **2020年** 中国面向非洲提供的高校奖学金配额超过1.2万个，正式超越西方主要国家政府成为非洲最大的国际学术流动资助方。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
 >
-> - **2020年–至今 — 提质增效与地缘政治常态适应期**
+> - **2020年–至今 — 提质增效与[[Geopolitics|地缘政治]]常态适应期**
 >
 >   经历疫情管控冲击后全面恢复线下学籍，推动从纯粹追求“生源数量”转向以高水平硕博与科研协同为核心的“提质增效”。
 

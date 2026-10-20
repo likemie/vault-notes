@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -33,7 +33,9 @@ related_persons:
   - "[[Kenneth King]]"
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
+  - "[[China Scholarship Council]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Sino-Africa Joint Research Center]]"
   - "[[Institute of South-South Cooperation and Development]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
@@ -54,7 +56,7 @@ updated: 2026-10-20
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009年11月在中非合作论坛第四届部长级会议（埃及沙姆沙伊赫）上作为对非合作新八项举措之一正式提出，2010年由教育部正式印发实施方案并在各高校实质推进。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
-> - **发起方与资助机制** 由中国教育部国际合作与交流司牵头组织，设立专项财政对口扶持资金，并由国家留学基金管理委员会（CSC）定向划拨中国政府全额奖学金名额，支持对口高校间开展师资研修与学生联合培养。
+> - **发起方与资助机制** 由中国教育部国际合作与交流司牵头组织，设立专项财政对口扶持资金，并由[[China Scholarship Council|国家留学基金管理委员会]]（CSC）定向划拨中国政府全额奖学金名额，支持对口高校间开展师资研修与学生联合培养。
 > - **覆盖范围与对象** 严格遴选20所中国高水平综合性大学与专业特色高校（如北京大学、清华大学、浙江大学、中国农业大学、北京交通大学、华东师范大学等），同20所非洲重点高校（如开罗大学、达累斯萨拉姆大学、内罗毕大学、雅温得第二大学等）建立一对一合作关系。
 > - **核心问题导向** 针对早期对非教育交流呈现的零散自发、层级偏低、留学生回国后与母校缺乏长效联系等弊端，通过高校对口结对建立制度化的跨国高教合作纽带。
 
@@ -75,7 +77,7 @@ updated: 2026-10-20
 > - **实施控制** 实施教育部年度工作汇报与评估机制，动态跟踪对口合作项目的交流频次、合作科研产出及人才培养落实进度。
 
 > [!citation-card] 高等教育对口合作模式的确立
-> 中非合作论坛第五届部长级会议（2012年北京）与后续历次行动计划明确提出，继续推进“中非高校20+20合作计划”，深化中非高等院校间一对一机构联系，为非洲发展培养高层次专业技术人才与高校师资力量。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
+> [[Forum on China-Africa Cooperation|中非合作论坛]]第五届部长级会议（2012年北京）与后续历次行动计划明确提出，继续推进“中非高校20+20合作计划”，深化中非高等院校间一对一机构联系，为非洲发展培养高层次专业技术人才与高校师资力量。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
 >
 > *The 5th FOCAC Ministerial Conference (Beijing 2012) and subsequent action plans explicitly proposed to advance the "20+20 Cooperation Plan for Chinese and African Institutions of Higher Education", deepening one-to-one institutional links between Chinese and African higher education institutions to cultivate high-level professionals and university faculty for African development.*
 
@@ -87,7 +89,7 @@ updated: 2026-10-20
 > - **2009–2010 — 倡议提出与试点启动期**
 >   2009年沙姆沙伊赫峰会宣布设立；2010年教育部正式遴选公布首批20对中非入选高校名单并下达专项奖学金指标。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
 > - **2011–2018 — 机制化推进与学科深耕期**
->   对口高校广泛签署校际实质性合作协议，在农业减贫、热带医学、轨道交通和非洲区域国别学等领域设立多个常设联合研究中心，连续写入2012年与2015年中非合作论坛行动计划。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
+>   对口高校广泛签署校际实质性合作协议，在农业减贫、热带医学、轨道交通和非洲区域国别学等领域设立多个常设联合研究中心，连续写入2012年与2015年[[Forum on China-Africa Cooperation|中非合作论坛]]行动计划。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
 > - **2019至今 — 升级扩展与百校合作演进期**
 >   在总结“20+20”一对一结对成功经验的基础上，中国教育部于2023年进一步扩展发起“中非高校百校合作计划”并建立中非大学联盟交流机制，推动校际结对走向多边化、学科集群化与数字化共享。
 
@@ -97,7 +99,7 @@ updated: 2026-10-20
 
 > [!actor-grid] 实施协同矩阵
 > - **政策统筹与资助方** 中华人民共和国教育部国际合作与交流司，负责制定顶层方案、组织年度评估并保障对口经费与奖学金配额。
-> - **奖学金执行与监管部门** 国家留学基金管理委员会，负责对接落实非洲对口高校青年骨干师资赴华深造的专项公派奖学金。
+> - **奖学金执行与监管部门** [[China Scholarship Council|国家留学基金管理委员会]]，负责对接落实非洲对口高校青年骨干师资赴华深造的专项公派奖学金。
 > - **中方对口高校** 承担具体帮扶与共建任务，为非洲对口学校定制培养方案，开放国家重点实验室资源并派遣中方专家赴非执教。
 > - **非方对口高校** 负责选拔推荐有发展潜力的本土青年教师，协助开展在地联合科研课题与田野试验。
 

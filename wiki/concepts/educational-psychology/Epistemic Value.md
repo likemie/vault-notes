@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,11 +31,10 @@ related_arguments:
   - "[[Argument_Chinn_2011_EducPsychol]]"
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Value
@@ -139,7 +138,7 @@ updated: 2026-10-16
 
 > [!tension] 核心张力：纯粹真理追求还是实用功利导向？
 > - **唯智论认识价值派（蓝方）** 强调[[Epistemology\|认识论]]价值必须保持对真理和宇宙奥秘解释的纯粹追求，反对将认知价值降格为世俗经济回报。
-> - **情境[[Pragmatic Paradigm\|实用主义]]派（红方）** 指出在教育现实中，认识成就的价值评判深受外部升学、就业及社会阶层流动等工具性利益的深刻[[Disciplina and Doctrina\|规训]]，二者难以截然两分。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
+> - **情境[[Pragmatic Paradigm\|实用主义]]派（红方）** 指出在教育现实中，认识成就的价值评判深受外部升学、就业及社会阶层流动等工具性利益的深刻规训，二者难以截然两分。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 
 > [!warning] 适用局限
 > - **主观自陈测量的掩饰效应** 在[[Questionnaire\|问卷]]或访谈中，学习者容易受到社会赞许性影响而高估自己对深层机制理解的认识论价值，使得外显报告的价值与实际面对高难度任务时的逃避行为存在测量脱节。
@@ -148,6 +147,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 将[[Epistemology\|认识论]]价值作为[[Epistemic Cognition\|认识论认知]]五构件之一，系统阐明其在成本收益权衡与学科文化差异中的理论功能。
 

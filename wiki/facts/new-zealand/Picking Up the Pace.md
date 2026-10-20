@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Microteaching]]"
   - "[[Formative Assessment]]"
   - "[[Zone of Proximal Development]]"
   - "[[Interaction Effect]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-16
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Picking Up the Pace
@@ -111,7 +112,7 @@ updated: 2026-10-17
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2000 年 — 项目启动与组织降班试验** 奥克兰南区多所 Decile 1 小学董事会启动改革，突破全国常规生师比编制限制，将低段一年级常态[[Class Size|班额]]从 28 人直接压缩至 15 人，建立 3 人微型教学群组。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 102)]]
+> - **2000 年 — 项目启动与组织降班试验** 奥克兰南区多所 Decile 1 小学董事会启动改革，突破全国常规生师比编制限制，将低段一年级常态[[Class Size|班额]]从 28 人直接压缩至 15 人，建立 3 人[[Microteaching|微型教学]]群组。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 102)]]
 > - **2001 年 — 教学规程落地与初步成效显现** 教师接受针对性早期读写干预培训，每组每次进行 10–15 分钟高密度师生语言互动，麦克诺顿等学者完成第一阶段评估报告（Phillips et al., 2001），一年级读写基线测验成绩录得翻倍增益。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 102)]]
 > - **2002 年及此后 — 官方总结与实证政策化** 新西兰教育部汇总发布研究报告，正式提议对低分学校初入学学段设立不超过 18 人的班额上限标准；然而该建议在后续新自由主义紧缩政策下未能在全体系立法推行，转而在 2009 年论战中成为学界抵御财政部削减师资编制的核心实证依据。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96, 102)]]
 

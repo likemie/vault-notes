@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -59,10 +59,12 @@ related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+related_instruments:
+  - "[[Visible Classroom]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -207,7 +209,7 @@ updated: 2026-10-16
 
 > [!example] 相关案例／政策
 > - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
-> - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 [[Performativity]] 在商业层面的制度化体现
+> - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、[[Visible Classroom|Visible Classroom App]]）是 [[Performativity]] 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 的核心案例，[[OECD]] 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑

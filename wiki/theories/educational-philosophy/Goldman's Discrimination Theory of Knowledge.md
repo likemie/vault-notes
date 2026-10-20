@@ -9,7 +9,7 @@ aliases:
 summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam 等人引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 27
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Propensity Score Matching]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Alvin Goldman]]"
   - "[[Dylan Wiliam]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Goldman's Discrimination Theory of Knowledge
@@ -179,6 +178,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — [[Creativity\|创造性]]运用 Goldman 的知识辨识理论与纸糊谷仓模型，系统论证教育研究证据的局部性与暂定性，对盲目推崇“什么有效”的[[Evidence-Based Education\|证据本位教育]]提出深刻的方法论辩难。
 > - Goldman, A. I. (1976) — *Discrimination and Perceptual Knowledge*（The Journal of Philosophy），提出知识的辨识条件与相关替代假说，奠定外部主义分析[[Epistemology\|认识论]]的经典之作。

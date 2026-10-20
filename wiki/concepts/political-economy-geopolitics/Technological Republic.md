@@ -50,6 +50,7 @@ related_concepts:
   - "[[Productization of the Mind]]"
   - "[[Civic Religion]]"
   - "[[Grand Theory]]"
+  - "[[Geopolitics]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Lifestyle Technology]]"
   - "[[Technological Pastiche]]"
@@ -86,7 +87,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Rawls]]"
@@ -286,7 +286,7 @@ updated: 2026-10-20
 > 探讨新一轮科技革命中大国博弈的紧迫性，呼唤二战[[Office of Scientific Research and Development|科学研究与开发办公室]]（OSRD）式的战略协同模式回归。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
-> **以政产学研紧密结盟应对先进 AI 时代的系统性挑战** 卡普与扎米斯卡强调，先进人工智能的兴起为地缘政治对手提供了自二战以来挑战西方地位最强有力的历史契机。面对这一历史性转折，仅靠碎片化的商业自由市场无法维持战略优势。国家必须恢复[[Vannevar Bush|万尼瓦尔·布什]]开创的 OSRD 动员传统与利克莱德主导的 [[DARPA|ARPA]] 模式，以高度互信的伙伴关系将最顶尖的工程师、前沿算法与国家重大安全目标紧密结合，构建能够迅速应对危机的现代技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–15)]]
+> **以政产学研紧密结盟应对先进 AI 时代的系统性挑战** 卡普与扎米斯卡强调，先进人工智能的兴起为[[Geopolitics|地缘政治]]对手提供了自二战以来挑战西方地位最强有力的历史契机。面对这一历史性转折，仅靠碎片化的商业自由市场无法维持战略优势。国家必须恢复[[Vannevar Bush|万尼瓦尔·布什]]开创的 OSRD 动员传统与利克莱德主导的 [[DARPA|ARPA]] 模式，以高度互信的伙伴关系将最顶尖的工程师、前沿算法与国家重大安全目标紧密结合，构建能够迅速应对危机的现代技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–15)]]
 
 ---
 

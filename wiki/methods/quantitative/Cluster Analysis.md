@@ -9,9 +9,9 @@ summary: "一种用于将异质性样本依据多维变量特征相似度划分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 19
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -37,13 +37,12 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Split-Half Reliability]]"
   - "[[Cluster Sampling]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-20
 ---
 
 # Cluster Analysis
@@ -159,5 +158,5 @@ updated: 2026-09-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用 $k$ 均值聚类分析对奥地利 362 名中小学校长对 22 项治理工具的态度进行分群，从 2 至 5 个聚类方案中选定具有最高方差分离度与理论解释力的 3 聚类解（[[Evidence-Based School Development\|循证学校发展]]型、资源驱动发展型与弱发展取向型）。

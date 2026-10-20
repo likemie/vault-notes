@@ -8,7 +8,7 @@ aliases:
 summary: "发展中国家之间基于平等互利、不附加政治条件与共同发展原则开展的跨国合作范式，在教育领域强调能力建设、双向人文交流与发展经验互鉴，构成对传统南北援助供求二元结构的制度替代。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:

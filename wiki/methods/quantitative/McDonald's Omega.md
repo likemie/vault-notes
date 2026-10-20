@@ -12,7 +12,7 @@ summary: "现代心理测量学中基于因子分析模型评估潜变量内部�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -37,7 +37,6 @@ related_methods:
   - "[[Average Variance Extracted]]"
   - "[[Cronbach's Alpha]]"
   - "[[Composite Reliability]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # McDonald's Omega
@@ -148,5 +147,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS）心理测量学检验中，同步报告了总量表 McDonald's $\omega = .95$（Cronbach's $\alpha = .94$），确立了优异的潜[[Variable\|变量]]合成[[Reliability\|信度]]。

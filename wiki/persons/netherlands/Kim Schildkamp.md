@@ -7,7 +7,7 @@ summary: "荷兰特温特大学教育学教授，国际数据驱动决策与数�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Enquiry Cycle]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Evidence-Based Education]]"
+  - "[[Professional Capital]]"
   - "[[Academic Achievement]]"
 related_persons:
   - "[[Chris Brown]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Kim Schildkamp
@@ -73,5 +74,5 @@ updated: 2026-10-16
 > [!work-line] 主要著作与代表成果
 > - **2013 — *[[Data-Based Decision Making]] in Education: Challenges and Opportunities*** 与 Mei Kuin Lai 共同主编，系统梳理国际视野下教育数据利用的概念框架、制度挑战与组织支持条件。
 > - **2015 — *Factor analysis of a data use survey*** 与 Cindy L. Poortman 合作，开发并验证了测量学校数据利用文化与组织支持维度的关键测评工具。
-> - **2016 — *Data teams for school improvement*** 与 Cindy L. Poortman 等合作，系统总结[[Data Team Intervention\|数据团队]]干预在促进教师专业资本、知识创造与学生[[Academic Achievement\|学业成绩]]方面的实证效能。
+> - **2016 — *Data teams for school improvement*** 与 Cindy L. Poortman 等合作，系统总结[[Data Team Intervention\|数据团队]]干预在促进[[Professional Capital|教师专业资本]]、知识创造与学生[[Academic Achievement\|学业成绩]]方面的实证效能。
 > - **2017 — *Combining the best of two worlds: a conceptual proposal for evidence-informed school improvement*** 与 [[Chris Brown]] 和 Mireille D. Hubers 合作，论证 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 的优势互补性，提出“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）八步整合闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–172)]]

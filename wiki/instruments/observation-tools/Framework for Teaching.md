@@ -9,9 +9,9 @@ aliases:
 summary: "由夏洛特·丹尼尔森研发的全面教学表现与教师评价量规体系，将专业教学解构为计划准备、课堂环境、教学指导和专业职责四大领域，包含22个构件与76个具体要素，通过4个表现等级划分专业教学水平，成为美国及国际基础教育阶段应用最广的教师准入、评价考核与专业发展标准之一。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 10
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 9
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

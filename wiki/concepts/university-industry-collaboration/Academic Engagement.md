@@ -8,7 +8,7 @@ aliases:
 summary: "在教育与创新政策研究中具有双重维度的构念：在学生发展视域下指学生向学术性教育活动投入的时间、精力和注意力（学业投入）；在产学合作视域下指学者个人或团队与企业展开的赞助研究、咨询、联合培养与人才双向流动的非排他知识性合作（产学学术参与），当代科技政策正通过资助产业博士、设立创业科学家计划与打破学术晋升壁垒深化这一机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -42,7 +42,6 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Yajun Zheng]]"

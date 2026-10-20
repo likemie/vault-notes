@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
@@ -71,7 +72,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -82,14 +83,14 @@ citation_aliases:
 
 > [!question]
 
-当代知识密集型资本主义在什么意义上是一种地缘政治经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。
+当代知识密集型资本主义在什么意义上是一种[[Geopolitics|地缘政治]]经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。
 
 
 ## 理论框架
 
 > [!abstract]
 
-Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
+Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]][[Geopolitics|地缘政治]]的复合框架：
 
 - David Harvey（1985/2001）的资本主义地缘政治理论 — 本章最核心的理论支柱。地缘政治源于资本主义生产方式内部的政治经济动力：资本流通中的固着与流动之间的张力（tension between fixity and motion）。资本主义需要地方锚定来促进流动，但流动又不断破坏既有地方配置。这一悖论成为 Moisio 解释[[Knowledge-Based Economization|知识经济化]]空间动态的核心机制(pp.27–28)
 - [[Knowledge-Based Economization]] — Moisio(2018)自有的核心分析概念，将注意力从 [[Knowledge-Based Economy|KBE]] 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁(pp.24–26)
@@ -113,7 +114,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 
 > [!example]
 
-Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，再到地缘政治维度的系统展开，最后落脚于当代影响。
+Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，再到[[Geopolitics|地缘政治]]维度的系统展开，最后落脚于当代影响。
 
 ### 第一步：确立 KBE 作为分析对象（2.2）
 
@@ -208,7 +209,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 > [!success]
 
-- [[Knowledge-Based Economization|知识经济化]]作为一种地缘政治过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力(pp.26–28)
+- [[Knowledge-Based Economization|知识经济化]]作为一种[[Geopolitics|地缘政治]]过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力(pp.26–28)
 - Harvey 的[[Fixity-Motion Tension|固着-流动张力]]（fixity-motion tension）构成[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论：国家和地方配置被创造出来以促进资本流动，但流动本身又不断动摇这些配置的稳定性(pp.27–28)
 - 知识经济化涉及系统性的[[Spatial Sortings|空间分选]]（spatial sortings）：将某些地点和人群置于发展和资本积累的中心，同时将其他地点和人群边缘化。公共和私人投资是这一结构过程的核心驱动因素(pp.30–31)
 - 国家在知识经济化过程中扮演关键角色——通过选择性空间政策（spatial [[Selectivity]]）、创业型城市化（entrepreneurial urbanisation）和[[Geopolitical Subject|地缘政治主体]]生产（crafting of geopolitical subjects）来中介空间分选过程(pp.28–32)
@@ -224,7 +225,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 Moisio 的核心论旨：
 
-> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术等一系列议题汇聚在一起。”
+> “在本章中，我试图将据称是地缘经济的现在[[Geopolitics|地缘政治]]化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术等一系列议题汇聚在一起。”
 > (“在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、人力资本、教育和技术等一系列议题汇聚在一起。”
 > ("In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."))(p.21)
 
@@ -246,7 +247,7 @@ Moisio 从中推导出的地缘政治悖论：
 > [!warning]
 
 - 该章为纯理论论证，未提供经验案例的详细分析，概念的经验适用性有待检验
-- [[Analytic Framework|分析框架]]主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的地缘政治运作讨论有限
+- [[Analytic Framework|分析框架]]主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的[[Geopolitics|地缘政治]]运作讨论有限
 
 
 ## 来源

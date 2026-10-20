@@ -11,7 +11,7 @@ aliases:
 summary: "将认识论的关注焦点从命题信念的孤立确证转移到认知主体本身及其理智品格与认知官能；涵盖德性可靠论、德性责任论及面向智能时代的人机分布式德性认识论，为理智品格教育与探究教学提供规范性哲学基础。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -59,7 +59,6 @@ related_theories:
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Virtue Epistemology
@@ -214,6 +213,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 将德性责任论框架系统引入[[Generative Artificial Intelligence|生成式人工智能]]教育哲学，论证 AI 应当通过双模态对话、直接答案拦截规则及个性化故事模式唤起[[Intellectual Emotions|理智情感]]，服务于培育[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]的根本教育目标。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 整合德性[[Epistemology|认识论]]的核心洞见，将理智美德与恶德作为第四大组件纳入扩展的[[Epistemic Cognition|认识论认知]][[Analytic Framework|分析框架]]，系统阐述其在科学教育与[[Inquiry-Based Learning|探究式学习]]中的应用。

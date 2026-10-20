@@ -12,9 +12,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2004–至今"
 initiator_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Topological Spatialisation]]"
   - "[[Total War]]"
+  - "[[Test Production]]"
   - "[[Data Infrastructure]]"
   - "[[Homework]]"
   - "[[Working Hypothesis]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Vergleichsarbeiten
@@ -118,7 +119,7 @@ VERA 经历了从地方联邦州探索到国家集中研发、再到数字化平
 > [!dev-timeline] 项目推进历程
 > - **2000 年代初 — 地方先导试验与题库初探** [[PISA]] 2000 震荡后，莱茵兰-普法尔茨、勃兰登堡等州在州级层面研发跨校比较试题，探索依托客观测试实施学校质量诊断的技术路径。
 > - **2004–2006 — [[Institute for Educational Quality Improvement\|IQB]] 创立与 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] [[Total War|总体战]]略法定确立** KMK 正式将 VERA 纳为《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》第三支柱，确立小学 3 年级与初中 8 年级为全国统一施测节点，并将题库研制权统一上收至新设立的 IQB。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 140)]]
-> - **2008–2012 — 全国 16 州全面并轨与纸笔测试常规化** IQB 正式承接全国统一试题研发与 [[Item Response Theory\|IRT]] 参数标定，VERA-3 与 VERA-8 在全德 16 个联邦州实现常规化施测，全面进入各州教育部的日常行政运行体系。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 492, 495)]]
+> - **2008–2012 — 全国 16 州全面并轨与纸笔测试常规化** IQB 正式承接全国统一[[Test Production|试题研发]]与 [[Item Response Theory\|IRT]] 参数标定，VERA-3 与 VERA-8 在全德 16 个联邦州实现常规化施测，全面进入各州教育部的日常行政运行体系。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 492, 495)]]
 > - **2012–至今 — 题库在线化、数字化平台转型与拓扑装配** VERA 逐步脱离单一纸笔统考形态，拓展为由国家题库支撑的数字化诊断平台（如教师自适应组卷与即时自动评分分析），实现跨尺度[[Data Infrastructure\|数据基础设施]]向基层学校的常态化渗透。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 144–146)]]
 
 ---
@@ -129,7 +130,7 @@ VERA 的顺利实施依赖于由国家元治理协调、[[Center of Calculation|
 
 > [!actor-grid] 实施协同矩阵
 > - **国家顶层协调** [[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）制定监测规程，保障测试周期、能力模型与国家教育标准的一致性。
-> - **试题研发与常模标定** [[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家计算中心，运用 [[Item Response Theory\|IRT]] 标定全国题库，运营数字化任务分发平台与研究数据中心（FDZ）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
+> - **[[Test Production|试题研发]]与常模标定** [[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家计算中心，运用 [[Item Response Theory\|IRT]] 标定全国题库，运营数字化任务分发平台与研究数据中心（FDZ）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
 > - **行政督导与资源调配** 各州教育部质量保障处室负责数据清洗、排查异常薄弱学校，并据此派出指导力量或配置专项促进资金。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 491–492)]]
 > - **一线组织实施** 中小学校长与任课教师负责现场施测、阅卷与校内教研反思，将诊断结果转化为班级补救教学方案。
 

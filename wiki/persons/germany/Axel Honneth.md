@@ -7,10 +7,10 @@ summary: "德国当代著名哲学家、社会理论家，法兰克福学派第�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -29,9 +29,10 @@ related_concepts:
   - "[[Infusion Approach]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Recognition Theory]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Axel Honneth
@@ -102,7 +103,7 @@ updated: 2026-10-17
 > 霍耐特主张将社会批判的规范基础重新锚定于主体间相互承认（Intersubjective Recognition）的道德体验之上：人类主体的完整性与自由能动性是在被他人认可的社会关系中逐渐生成的心理成就。人类的社会生存由三大承认维度构成——在情感亲密关系中获得“爱”以建立基本自信，在法律政治制度中获得“平等权利”以确立自尊，在社会劳动与文化共同体中获得“独特价值认可”以确立社会尊严。任何形式的蔑视（身体伤害、剥权、侮辱）都会破坏个体的自我关系，并成为引发社会抗争的心理动因。霍耐特坚持“承认先于认知”的存在论前提，强调任何只把人当作计算参数与调控客体的制度，都犯下了对原初承认的致命遗忘（物化）。
 
 > [!citation-card] 承认的[[Ontology|本体论]]先在性与自主能动性确立
-> 个体自主性的生成必须依赖于社会共同体对其[[Intentionality|意向性]]与能动身份的确认。当社会交往或教育[[Disciplina and Doctrina|规训]]剥夺了个体的意向性空间时，个体便失去了在主体间网络中确立自尊与自我价值的根基，从而引发社会疏离与异化体验。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
+> 个体自主性的生成必须依赖于社会共同体对其[[Intentionality|意向性]]与能动身份的确认。当社会交往或教育规训剥夺了个体的意向性空间时，个体便失去了在主体间网络中确立自尊与自我价值的根基，从而引发社会疏离与异化体验。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
 >
 > *Recognizing persons' agency and intentionality is crucial for their development as autonomous participants. Failing to acknowledge or recognize autonomy and intentionality causes social alienation.*
 
@@ -130,7 +131,7 @@ updated: 2026-10-17
 > > [!axis] 规范哲学的理想性 vs 真实教育制度的技术惯性
 > > 辨析[[Recognition Theory|承认理论]]在大众教育中的实践可行性。
 > >
-> > - **工程主义与循证政策制定者** 认为霍耐特的承认概念过于抽象，无法转化为学校日常管理中可衡量的考核指标。
+> > - **工程主义与[[Evidence-Based Policy-Making|循证政策制定]]者** 认为霍耐特的承认概念过于抽象，无法转化为学校日常管理中可衡量的考核指标。
 > > - **批判教育理论家（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 坚称正是由于官僚体制对承认指标的蔑视，才导致了现代学校陷入[[Neo-Taylorism|新泰勒主义]]的冷酷异化，承认理论构成了抵抗教育技术殖民的终极精神堤坝。
 
 ---

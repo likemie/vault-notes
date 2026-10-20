@@ -12,7 +12,7 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法、Mouly 经验演化五步进程以及现代软件工程即兴经验科学的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -74,7 +74,6 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Sample Size Determination]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_facts:
   - "[[IEA]]"

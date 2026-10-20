@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-16
+updated: 2026-10-20
 tags:
   - region/china
   - theme/national-identity
@@ -31,14 +31,15 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Reflexivity]]"
   - "[[One Country, Two Systems]]"
+  - "[[National Rejuvenation Narrative]]"
   - "[[Grand Theory]]"
   - "[[Retrotopia]]"
 related_theories:
+  - "[[Tianxia Heuristic]]"
   - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Qian Mu]]"
@@ -76,7 +77,7 @@ related_arguments:
 
 > [!boundary]- 概念边界
 > - **不等于 汉族（Han Ethnicity）** — 汉族是中华民族内部人口占绝大多数的族群，但在官方话语中，中华民族是涵盖 56 个民族的更高阶政治共同体[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]。
-> - **不等于 传统“天下”观念** — 传统天下观基于天命与儒家文明礼义，而中华民族是借用西方现代主权国家与民族主义概念重构的国族实体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 104)]]。
+> - **不等于 传统“天下”观念** — 传统[[Tianxia Heuristic|天下观]]基于天命与儒家文明礼义，而中华民族是借用西方现代主权国家与民族主义概念重构的国族实体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 104)]]。
 > - **不等于 宪制多民族联邦** — 中华民族话语在当代强化单一国族同一性，与苏联式的联邦制多民族国家模式产生[[Paradigm\|范式]]分野[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]。
 
 ---
@@ -167,7 +168,7 @@ related_arguments:
 > - **1949 年 — 多民族国家确立** — 中华人民共和国成立，拒绝国民党的宗族说（视其为大汉族主义），转而确立多民族国家模式并开展民族识别[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]。
 > - **1988 年 — 多元一体确立** — [[Fei Xiaotong\|费孝通]]提出“中华民族多元一体格局”，强调从“自在”到鸦片战争后“自觉”的转变[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 101, 105)]]。
 > - **2002 年 — 制度化政治转向** — 中共十六大修改党章，将党重新界定为“中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队”，标志着向单一国族政治模式转型[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]。
-> - **2012 年至今 — 铸牢共同体意识** — 提出了“中华民族伟大复兴的中国梦”（2012）与“铸牢中华民族共同体意识”（2014）。2018 年“中华民族”被正式写入宪法序言[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 97)]]。
+> - **2012 年至今 — 铸牢共同体意识** — 提出了“[[National Rejuvenation Narrative|中华民族伟大复兴]]的中国梦”（2012）与“铸牢中华民族共同体意识”（2014）。2018 年“中华民族”被正式写入宪法序言[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 97)]]。
 
 ---
 
@@ -195,8 +196,8 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia\|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 探究了中华[[National Rejuvenation Narrative|民族复兴]][[Retrotopia\|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证[[Discourse|话语]]对比分析。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity\|反思性]]回应。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广通用语言文字与铸牢中华民族共同体意识而实施的语言替代性改革实证案例。
@@ -214,6 +215,6 @@ related_arguments:
 > | [[Second-generation Ethnic Policy]] | 概念 | 试图废除民族自治、推动中华民族熔炉一体化的政策主张。 |
 > | [[Official Knowledge]] | 概念 | 217 册必修教材将中华民族叙事重构为国家正统官方知识。 |
 > | [[Cultural Disembedding]] | 概念 | 汉儒中心的中华民族教材叙事引发少数民族学生的文化脱嵌。 |
-> | [[Retrotopia]] | 概念 | 中华民族伟大复兴将理想国族定位投射于古代大一统的怀旧逻辑。 |
+> | [[Retrotopia]] | 概念 | [[National Rejuvenation Narrative\|中华民族伟大复兴]]将理想国族定位投射于古代大一统的怀旧逻辑。 |
 > | [[Fei Xiaotong]] | 人物 | 提出“中华民族多元一体格局”的核心学者。 |
 > | [[Zhao Tingyang]] | 人物 | 提供“天下”理论为中华民族构建文明论基础的学者。 |

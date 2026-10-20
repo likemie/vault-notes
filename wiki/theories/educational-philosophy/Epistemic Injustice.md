@@ -9,7 +9,7 @@ aliases:
 summary: "由 Miranda Fricker (2007) 开创的批判性社会认识论理论，指个体或群体在作为求知者（knowers）的身份上所遭受的系统性损害与特权剥夺，核心涵盖证词不正义、诠释不正义以及教育领域的成长性认识不正义。在智能求知时代，该理论揭示了大模型语料偏倚与平台垄断对边缘群体认识主体性与知识多样性的隐蔽侵害。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 34
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Smith_2026_SPE]]"
@@ -63,7 +62,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Injustice
@@ -190,7 +189,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - Fricker (2007) — 系统开创认识不正义理论，奠定证词不正义与诠释不正义的核心理论体系。
 > - Anderson (2012) — 从制度[[Epistemology\|认识论]]视角推进认识正义，论证社会机构在抵御结构性认识排斥中的关键责任。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 系统提出“私厨隐喻”与[[Formative Epistemic Injustice|成长性认识不正义]]（[[Formative Epistemic Injustice]]）的三重检验标准，将理论精准对接教育教学中对求知者发展权能与读写[[Epistemic Practices|认知实践]]的侵害。

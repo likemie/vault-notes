@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 54
+method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -72,14 +72,13 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Analysis of Variance]]"
-  - "[[Correlational Research]]"
   - "[[Three-Level Meta-Analysis]]"
 status: active
 related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Meta-regression
@@ -243,7 +242,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以[[Random-Effects Model|随机效应]]元回归检验国家人均 GDP、发表年份与样本性别比例对[[Graphic Organizer|图形组织器]]干预效应的调节作用。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 在[[Epistemic Cognition\|认识论认知]][[Meta-analysis\|元分析]]中运用元回归检验[[Questionnaire\|问卷]][[Reliability\|信度]]对[[Effect Size\|效应量]]的预测力，发现信度回归系数达 $b = .300$。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在[[Three-Level Meta-Analysis\|三水平元分析]]框架下运用元回归检验参与者年龄、学段、地理区域、发表年份及[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型对相关量的调节作用，并检验两类测量类型的交互项（$Q_M(1) = 6.524, p = .011$）。

@@ -99,7 +99,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08
 
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > > [!index-table] 研究类型与最低样本量
 > > | 研究类型 | 最低样本量 |
 > > |---|---|
-> > | [[Correlational Research\|相关研究]]（correlational） | ≥ 30 案例 |
+> > | [[Correlational Research\|相关性研究]]（correlational） | ≥ 30 案例 |
 > > | 因果比较与[[Experimental Research\|实验研究]] | ≥ 15 案例 |
 > > | [[Survey Research\|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
 >

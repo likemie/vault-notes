@@ -9,7 +9,7 @@ aliases:
 summary: "为促使学生开展目标认知行为而安排的教学与学习活动，可由教师、同伴或学生组织，是连接课程目标与学习结果的实施环节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,11 +35,10 @@ related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Teaching and Learning Activities
@@ -167,5 +166,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 按控制主体分类教学与学习活动，说明不同活动最可能引出的学习，并把活动选择纳入[[Constructive Alignment\|建构性对齐]]。

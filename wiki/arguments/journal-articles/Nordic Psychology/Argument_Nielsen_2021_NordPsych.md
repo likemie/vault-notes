@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Construct]]"
   - "[[Intentionality]]"
   - "[[Paradigm]]"
@@ -50,6 +49,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Discourse]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Heterogeneity]]"
   - "[[Rote Learning]]"
   - "[[Dynamic Assessment]]"
@@ -84,6 +84,7 @@ related_persons:
   - "[[Scott Eacott]]"
   - "[[Axel Honneth]]"
   - "[[Herbert Walberg]]"
+  - "[[Thomas Aastrup Rømer]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -116,7 +117,7 @@ citation_aliases:
 > 在当代以实证为导向的全球教育治理中，[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（*Visible Learning*）被广泛视作[[Evidence-Based Education|循证教育]]的权威指针，其本人自称纯粹依靠统计数据说话、超越理论争议（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259]]）。针对这一现象，需要解答两个根本性问题：第一，哈蒂是否如其宣称的那样只是一名客观中立的统计学家，还是实质上依凭一套未加言明的教育理论假设？第二，支撑其庞大综合体系的核心实证证据究竟质量如何？当对其声称最具变革力量的 反馈 效应所依赖的一级[[Meta-analysis|元分析]]进行细读质检时，这些实证大厦的基石是否真实稳固？（pp. 1–3）
 
 > [!claim] 核心主张
-> 哈蒂的教育研究植根于源自 19 世纪[[Positivism|实证主义]]的[[Technical Rationality|技术理性]]以及承袭[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]谱系的[[Behaviorism|行为主义]]心理学；在方法上，孤立因果归因割裂了复杂的教育生态，刻意剔除阶级背景并捏造叙事性截断值，更对异质现象机械拼贴，导致占据 92% 样本的五大核心反馈元分析中有四项未曾测量真正的反馈，最终沦为服务于[[Neo-Taylorism|新泰勒主义]]行政[[Disciplina and Doctrina|规训]]的工具。（pp. 2–15）
+> 哈蒂的教育研究植根于源自 19 世纪[[Positivism|实证主义]]的[[Technical Rationality|技术理性]]以及承袭[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]谱系的[[Behaviorism|行为主义]]心理学；在方法上，孤立因果归因割裂了复杂的教育生态，刻意剔除阶级背景并捏造叙事性截断值，更对异质现象机械拼贴，导致占据 92% 样本的五大核心反馈元分析中有四项未曾测量真正的反馈，最终沦为服务于[[Neo-Taylorism|新泰勒主义]]行政规训的工具。（pp. 2–15）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂（2009）《可见的学习》原著及其元分析综合体系，重点审查支撑反馈效应（$d = 0.73$）中样本占比达 92% 的五项最重一级元分析。（pp. 2–3, 9–13）
@@ -213,7 +214,7 @@ citation_aliases:
 > [!def] 技术理性的工程主义认识论定位
 > 技术理性（Technical Rationality）作为实证主义在社会科学中的形态，将工程师对物理材料的分析与医师对生理疾病的诊断树立为专业实践的唯一标杆（Schön, 1983, p. 31）。该范式将复杂的教育活动剥离出特定的历史、文化与制度背景，视为能够完全通过基础科学与工程技术手段予以排除的技术故障（Kvale, 1973; MacIntyre, 1984; pp. 3–4）。
 
-学界在辨析哈蒂的认识论谱系时曾产生分歧，如托马斯·罗默（Thomas Aastrup Rømer, 2019）曾将其误读为强调内在自组织的[[Radical Constructivism|激进建构主义]]。
+学界在辨析哈蒂的认识论谱系时曾产生分歧，如[[Thomas Aastrup Rømer|托马斯·罗默]]（Thomas Aastrup Rømer, 2019）曾将其误读为强调内在自组织的[[Radical Constructivism|激进建构主义]]。
 
 > [!contrast-table] 哈蒂认识论归宿的学术争鸣辨析
 > | 辨析维度 | 罗默（Rømer, 2019）的判断：激进[[Constructivist Paradigm\|建构主义]] | 尼尔森等（Nielsen & Klitmøller, 2021a）的澄清：技术理性与行为主义 |
@@ -263,7 +264,7 @@ citation_aliases:
 > |---|---|---|
 > | **报告效应量** | $d = 0.40$ | $d = 0.07$ |
 > | **实际价值与决策** | 高于 0.40 则提倡、低于 0.40 则忽视，将连续变量切割为二元绝对判定（pp. 7–8）。 | 每 1,000 名心脏病患者中稳定挽救 34 人生命，微小效应具有救命价值（p. 8）。 |
-> | **理论与政策意涵** | 哈蒂事后承认这只是创造故事的门槛，纯属叙事修辞工具（[[Argument_Hattie_2010_NZJES\|Hattie, 2010, p. 89]]）。 | 硬性设置 0.40 门槛脱离成本效益权衡，违背循证决策常识（p. 8）。 |
+> | **理论与政策意涵** | 哈蒂事后承认这只是创造故事的门槛，纯属叙事修辞工具（[[Argument_Hattie_2010_NZJES\|Hattie, 2010, p. 89]]）。 | 硬性设置 0.40 门槛脱离成本效益权衡，违背[[Evidence-Based Policy-Making\|循证决策]]常识（p. 8）。 |
 
 这种机械截断不仅脱离了成本—效益考量，更在单一均值的掩盖下，抹杀了关键的学段发展规律与教学质性维度。
 
@@ -358,7 +359,7 @@ citation_aliases:
 > [!policy-context] 新泰勒主义教育治理的制度定位
 > - **制度背景** 全球新自由主义教育改革浪潮，推崇绩效问责、结果驱动与量化考核（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; pp. 14–15）。
 > - **政策工具** 效应量排行榜、0.40 支点准则与可见学习认证学校的商业推广模式。
-> - **合法化机制** 埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）指出，哈蒂的工作实质上构成了一种**新泰勒主义（Neo-Taylorism）**，以看似中立、客观的循证科学话语，为教育行政主管和[[School Leadership|学校领导]]层重构对一线教师劳动的技术监控与标准化[[Disciplina and Doctrina|规训]]提供了[[Social Science as Legitimation Alibi|合法化借口]]（pp. 14–15）。
+> - **合法化机制** 埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）指出，哈蒂的工作实质上构成了一种**新泰勒主义（Neo-Taylorism）**，以看似中立、客观的循证科学话语，为教育行政主管和[[School Leadership|学校领导]]层重构对一线教师劳动的技术监控与标准化规训提供了[[Social Science as Legitimation Alibi|合法化借口]]（pp. 14–15）。
 > - **真实后果** 教师丧失教学自由裁量权，被迫迎合冰冷的效应量指标；常态学校生活充满悖论，教育实践与鲜活的生命世界渐行渐远（p. 15）。
 
 行政规训话语的盛行阻碍了对真实教学情境的理解，促使研究者提出替代性的实践取向。
@@ -379,7 +380,7 @@ citation_aliases:
 > 1. **隐匿理论假象的破除** [[John Hattie|哈蒂]]教育研究的核心理论根基是 19 世纪[[Positivism|实证主义]]的[[Technical Rationality|技术理性]]，且在学习论上直接承袭[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]的[[Behaviorism|行为主义]]传统，而非[[Constructivist Paradigm|建构主义]]。（pp. 3–5）
 > 2. **实证还原与阶级盲偏误** 强行割裂复杂开放的教育生态，故意排除[[Socioeconomic Status|社会经济地位]]（SES）作为调节[[Variable|变量]]，发明了纯属叙事修辞的 $d = 0.40$ 截断值，制造了阶级盲教学思维并遮蔽了关键的发展差异。（pp. 5–9）
 > 3. **核心[[Chain of Evidence|证据链]]的[[Construct|构念]]混淆** 支撑反馈超高效应（$d = 0.73$）中 92.4% 样本的五大核心[[Meta-analysis|元分析]]中，有四项测量的构念包括行为强化、教师身体亲和力与[[Dynamic Assessment|动态测验]]提示，将其汇总为反馈效应混合了不同的教育现象。（pp. 9–13）
-> 4. **[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]本质** 《[[Visible Learning|可见的学习]]》消解了师生的[[Intentionality|意向性]]与主体间对话，通过量化效能气压计为当代教育行政体系对教师劳动的自上而下标准化规训提供了合法化工具。（pp. 14–15）
+> 4. **[[Neo-Taylorism|新泰勒主义]]规训本质** 《[[Visible Learning|可见的学习]]》消解了师生的[[Intentionality|意向性]]与主体间对话，通过量化效能气压计为当代教育行政体系对教师劳动的自上而下标准化规训提供了合法化工具。（pp. 14–15）
 
 > [!stat-cards]- 核心数据
 > - **$92.4\%$** （样本占比） 详细审查的五项最重元分析涵盖 62,761 人，占哈蒂反馈综合总样本（67,931 人）的绝对主导比例。（p. 10）

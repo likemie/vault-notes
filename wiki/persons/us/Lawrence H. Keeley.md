@@ -26,6 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Moral Dualism]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics]]"
   - "[[Social Regime]]"
   - "[[Falsification]]"
   - "[[Determinism]]"
@@ -36,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
@@ -110,7 +110,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **人类学与考古学实证[[Paradigm|范式]]** 打破了二战后人类学界因反战心理而刻意回避部落暴力研究的“和平神话范式”，推动史前暴力与战争考古学成为主流独立学科领域。
 > - **进化心理学与宏观历史学** 为[[Steven Pinker|斯蒂芬·平克]]在《人性中的善良天使》（2011）中论证“国家与文明机制促成人类暴力长期退潮”提供了核心考古学实证支撑。
-> - **地缘政治与科技伦理批判** 提供了反驳[[Paulo Freire|保罗·弗莱雷]]《被压迫者教育学》中“暴力从未由被压迫者发起”这一绝对命题的实证铁证，成为卡普与扎米斯卡解构硅谷[[Moral Dualism|道德二元论]]与呼唤战略现实主义的关键思想武器。
+> - **[[Geopolitics|地缘政治]]与科技伦理批判** 提供了反驳[[Paulo Freire|保罗·弗莱雷]]《被压迫者教育学》中“暴力从未由被压迫者发起”这一绝对命题的实证铁证，成为卡普与扎米斯卡解构硅谷[[Moral Dualism|道德二元论]]与呼唤战略现实主义的关键思想武器。
 
 ---
 

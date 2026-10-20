@@ -8,7 +8,7 @@ aliases:
 summary: "由 Robert Slavin、Robert Stevens 等人（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cooperative Integrated Reading and Composition
@@ -207,7 +206,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning\|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size\|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw\|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All\|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act\|ESSA]] 循证改革中的实证轨迹与规模化成效。
 

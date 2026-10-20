@@ -11,7 +11,7 @@ summary: "将两组连续分布标准化均值差转化为二项超越概率的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Meta-analysis]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

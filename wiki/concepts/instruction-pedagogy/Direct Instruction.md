@@ -74,11 +74,11 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Critical Review]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Yong Zhao]]"
+  - "[[Ewald Terhart]]"
   - "[[Christof Wecker]]"
   - "[[John Sweller]]"
   - "[[Deanna Kuhn]]"
@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Direct Instruction
@@ -205,7 +205,7 @@ updated: 2026-10-17
 > [!claim] [[Yong Zhao\|Zhao, Y.]]
 > **短期测验获益与创造力、自主性被抑制的教育副作用** 任何强效教育干预都伴随着副作用。直接教学在拼写、计算等基础技能上得分极高，但在衡量高阶[[Problem Solving\|问题解决]]与自主探究倾向时往往落后。长期接受严格直接教学的学生容易形成依赖标准答案的被动服从习惯，削弱其创造力冒险精神、不确定性耐受力与好奇心。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–10)]]
 
-> [!claim] Terhart, E.
+> [!claim] [[Ewald Terhart|Terhart, E.]]
 > **[[Didaktik\|欧陆教学论]]视角对直接教学泛化倾向的批判** 批评英美[[Positivism\|实证主义]]将教学简化为单一的直接教学技术主义。教学不仅是行为技能的快速复制，更是学习者在文化与意义世界中的自主建构；若将直接教学视作万能良药，将抹杀课堂探究的复杂性与学生主体性。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, pp. 433–435)]]
 
 ---
@@ -340,7 +340,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
 > - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。

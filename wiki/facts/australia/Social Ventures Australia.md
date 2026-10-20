@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Co-affiliation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Assemblage]]"
@@ -59,7 +58,6 @@ related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Traill]]"
   - "[[Michael Barber]]"
@@ -166,7 +164,7 @@ updated: 2026-10-20
 >
 > > [!axis] 公共税收庇护与财政逆向倒流争议
 > > - **官方与机构立场** 主张自身秉持慈善宗旨，通过风投资本纪律与商业咨询提升了社会服务效率，以市场杠杆撬动更多私人资本造福弱势群体。
-> > - **学术批判** 埃玛·罗威（Emma Rowe）揭露 SVA 作为享受全额免税待遇的慈善组织，其收到的政府直接财政补贴总额（2021 年达 121.6 万澳元）长期超过其对外发放的竞争性资助净额（仅 62.5 万澳元，占比 51%）；其庞大的咨询业务和管理费支出，实质使其成为大型跨国企业与高净值人群享受税收减免的“避税庇护所”（tax shelter），导致公共财富逆向流向企业化咨询中介，迫使弱势公立学校为了生存而竞逐商业项目赠款并接受企业[[Disciplina and Doctrina\|规训]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
+> > - **学术批判** 埃玛·罗威（Emma Rowe）揭露 SVA 作为享受全额免税待遇的慈善组织，其收到的政府直接财政补贴总额（2021 年达 121.6 万澳元）长期超过其对外发放的竞争性资助净额（仅 62.5 万澳元，占比 51%）；其庞大的咨询业务和管理费支出，实质使其成为大型跨国企业与高净值人群享受税收减免的“避税庇护所”（tax shelter），导致公共财富逆向流向企业化咨询中介，迫使弱势公立学校为了生存而竞逐商业项目赠款并接受企业规训（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
 >
 > > [!axis] 影子[[Policy Network\|政策网络]]与公共教育民主问责的解体
 > > - **官方与机构立场** 宣称其游说促成的证据机构（如 [[Australian Education Research Organisation\|AERO]]）属于超党派独立公共机构，旨在以客观中立科学消除教育意识形态纷争。
@@ -198,7 +196,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 依托公司监管档案与政策追踪，系统揭示 SVA 如何借由[[Co-affiliation\|共同从属]]网络与四层控股架构，游说创设国家证据经纪机构 [[Australian Education Research Organisation\|AERO]] 并实现国家科研议程的私营分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析由 SVA 辐射衍生的[[Venture Philanthropy\|风险慈善]]网络如何跨越二十年重构澳大利亚资本主义国家实践，推动公共财富向免税中介逆向流动。
 

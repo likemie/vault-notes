@@ -9,9 +9,9 @@ summary: "通过识别行动者、关系、节点和连接来测量社会关系�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 50
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 49
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed
@@ -65,7 +65,6 @@ related_methods:
   - "[[Interactional Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Participant Observation]]"
 related_instruments: []
 related_persons: []

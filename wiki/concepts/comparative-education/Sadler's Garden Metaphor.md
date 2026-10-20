@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学经典认识论隐喻，源于英国学者迈克尔·萨德勒 1900 年关于‘不可如漫步花园般随心采撷别国制度花草’的情境依赖警训。当代学者杰森·比奇对此进行微观生态学重构，指出跨国方案采撷虽往往无法在异国长成活株，但残枝所携带的外来微生物（政策技术与评价逻辑）仍会永久改变本土教育微观生态。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Global Educational Discourse]]"
   - "[[Public-Private Partnership]]"
   - "[[Methodological Nationalism]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sadler's Garden Metaphor
@@ -117,7 +116,7 @@ updated: 2026-10-16
 
 ### 命题一　跨国政策借用的实质后果不在于外来方案整体能否扎根，而在于其携带的评价标准与规训技术对本土生态的不可逆侵蚀
 
-> [!concept-lens] 微观生态变异与隐性[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 微观生态变异与隐性规训
 > 探讨外来教育模型在遭遇本土抵制或事实失败后，其残余的技术官僚逻辑与评价工具如何持续重塑基层学校微观生态。
 
 > [!claim] [[Jason Beech|Beech, J.]]

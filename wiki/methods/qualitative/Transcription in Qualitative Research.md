@@ -10,9 +10,9 @@ summary: "将口头访谈、人机交互有声思维或对话记录转换为书�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - research-methodology
@@ -42,18 +42,21 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Questionnaire]]"
   - "[[Multimodal Discourse Analysis]]"
+  - "[[Expert Interview]]"
+  - "[[Classroom Observation]]"
   - "[[Qualitative Interview]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 related_theories:
   - "[[Phenomenology]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Transcription in Qualitative Research
@@ -170,8 +173,8 @@ updated: 2026-10-19
 >   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
 > - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
 >   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平编码奠定了高保真数据基础。
-> - **课堂语音即时转录与专家访谈文本删节重构（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）**
->   在质性研究中体现了转录技术的双重应用：一方面，在跨国远程专家访谈中，研究者对原始录音转录文稿进行保持主旨忠实与精确前提下的适度删节和可读性编辑，并将文本回传受访专家审阅，达成规范的主题对话呈现；另一方面，在课堂观察技术中，研发移动应用采集课堂师生音频，在 3 秒内实现实时语音转录与自动分类编码，在对 7000 至 8000 名教师的实测中以客观文字数据破除了教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区。
+> - **课堂语音即时转录与[[Expert Interview|专家访谈]]文本删节重构（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）**
+>   在[[Qualitative Research|质性研究]]中体现了转录技术的双重应用：一方面，在跨国远程专家访谈中，研究者对原始录音转录文稿进行保持主旨忠实与精确前提下的适度删节和可读性编辑，并将文本回传受访专家审阅，达成规范的主题对话呈现；另一方面，在[[Classroom Observation|课堂观察]]技术中，研发移动应用采集课堂师生音频，在 3 秒内实现实时语音转录与自动分类编码，在对 7000 至 8000 名教师的实测中以客观文字数据破除了教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区。
 
 ---
 

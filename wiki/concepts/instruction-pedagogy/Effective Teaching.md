@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 93
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Formative Assessment]]"
   - "[[Cooperative Integrated Reading and Composition]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Neo-Taylorism]]"
   - "[[Phronesis]]"
@@ -71,6 +70,7 @@ related_concepts:
   - "[[Central Question]]"
   - "[[Class Size]]"
 related_theories:
+  - "[[Stability vs. Variability Dilemma]]"
   - "[[Popper's Three Worlds Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -82,7 +82,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Hilbert Meyer]]"
@@ -90,6 +89,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Ivan Snook]]"
   - "[[John Dewey]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
@@ -97,6 +97,7 @@ related_facts:
   - "[[Success for All]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Thomas B. Fordham Institute]]"
+  - "[[COACTIV]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Best Evidence Synthesis]]"
   - "[[CREATES Project]]"
@@ -228,7 +229,7 @@ updated: 2026-10-20
 
 ### 命题四　将有效教学规约为清单化技术操作会解构教师专业主体性，其育人本质在于特定情境中的关系型学习共同体建构
 
-> [!concept-lens] 育人伦理本质与技术管理[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 育人伦理本质与技术管理规训
 > 围绕有效教学究系自上而下的标准化清单与外部监视操作，还是根植于特定社区与班级情境的人际伦理实践展开。
 
 > [!claim] Johnson & Janzen; Ball; Carnine
@@ -312,7 +313,7 @@ updated: 2026-10-20
 > > - **国家文化假设（Hofstede 视角）** 认为低权力距离与高个人主义文化（如北欧）天然更适配开放对话式教学。
 > > - **阶层实证否定（[[Science Foundation Ireland|SFI]] / Laursen）** 实证表明文化画像仅代表中产阶级偏好；在任何国家，弱势阶层学生均最需要高度结构化与明确目标的有效教学。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 40)]]
 >
-> > [!axis] 专业信任[[Peer-Supported Learning|同伴文化]] vs [[Performance Pay|绩效工资]]零和[[Disciplina and Doctrina|规训]]
+> > [!axis] 专业信任[[Peer-Supported Learning|同伴文化]] vs [[Performance Pay|绩效工资]]零和规训
 > > 探讨保障并激发有效教学质量究竟应当依靠培育关怀互信、包容试错的校本教研室同伴共同体，还是依靠自上而下的绩效工资与奖金考核机制进行外部经济施压。
 > >
 > > - **绩效规训派（Ruth Richardson, 1990; Murnane & Cohen, 1981 所引新公共管理主张）** 主张将教师薪酬与量化学生成绩指标深度挂钩，通过金钱奖惩打破教师平均主义怠惰，倒逼教师提升有效教学投入。
@@ -443,7 +444,7 @@ updated: 2026-10-20
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展[[Epistemology|认识论]]干预[[Meta-analysis|元分析]]，实证确立[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment|形成性评价]]反馈对[[Academic Achievement|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术[[Disciplina and Doctrina|规训]]弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术规训弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 从[[Pragmatic Paradigm|实用主义]]认识论与教师专业生态视角，反思有效教学原则与[[Performance Pay|绩效工资]]制度的尖锐冲突，论证证据作为探究假设而非行动规程的价值权衡本质。
 
 

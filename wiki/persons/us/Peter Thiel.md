@@ -8,7 +8,7 @@ summary: "德裔美国著名风险投资家、政治思想家、PayPal 联合创
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,8 +35,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"

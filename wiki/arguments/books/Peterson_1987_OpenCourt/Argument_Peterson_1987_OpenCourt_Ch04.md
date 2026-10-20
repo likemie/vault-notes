@@ -10,10 +10,10 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 50
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 49
+argument_related_level: 4
+argument_related_stars: "💎⭐"
+argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
 publisher: "Open Court Publishing Company"
@@ -66,7 +66,6 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -1023,7 +1022,7 @@ updated: 2026-10-20
 > [!warning] 作者叙述的边界
 > - **参与者视角** 资金危机、筹款、[[UNESCO]] 谈判和组织决策多由当事人回忆呈现，能够说明行动逻辑，不等于独立机构史核验。
 > - **样本辩护有限** 彼得森反对把早期学生称为不具代表性的精英样本，但没有提供与国家体系升学群体的系统人口比较（pp. 61–62）。
-> - **结果证据有限** 本章报告考生数、通过率和承认范围，未提供课程效果、[[Predictive Validity\|预测效度]]或 1979 年[[Correlational Research\|相关研究]]的完整统计结果（pp. 67–68）。
+> - **结果证据有限** 本章报告考生数、通过率和承认范围，未提供课程效果、[[Predictive Validity\|预测效度]]或 1979 年相关研究的完整统计结果（pp. 67–68）。
 > - **时间超出名义试验** 原定六年试验因对已入读学生的道德义务延至 1976 年；本章还追踪到 1978 年治理安排，时间边界应按制度转型而非简单六个考试年度理解（pp. 89–97）。
 
 ## 来源

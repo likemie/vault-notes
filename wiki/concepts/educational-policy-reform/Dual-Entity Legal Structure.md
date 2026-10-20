@@ -9,7 +9,7 @@ aliases:
 summary: "由非营利慈善信托全资控股营利性商业有限责任公司的组织与制度套利架构，教育管理组织（EMO）借此将公立学校政府采购预算转化为免税商业利润并大额留存，同时规避企业所得税与官方信息公开监管，形成对公共教育资源的实质性资本净汲取。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"

@@ -39,7 +39,7 @@ related_concepts:
   - "[[Pillarization]]"
   - "[[New Public Management]]"
 related_methods:
-  - "[[Correlational Research]]"
+  - "[[Critical Discourse Analysis]]"
 related_persons:
   - "[[Wim Deetman]]"
   - "[[Walter J. M. Kickert]]"
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 > [!policy-context] 政策背景
 > - **时间跨度与空间地理** 1985 年初由荷兰教育与科学部（Dutch Ministry of Education and Sciences；时任教育部长为基督教民主党学者威姆·迪特曼 [[Wim Deetman]]）正式呈递议会并向全国发布，覆盖荷兰全境全部 13 所公立学术型大学、全国 348 所高等专业教育学院（Hoger Beroepsonderwijs, HBO）以及高等教育政策制定与质量评估机构。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 137, 144–145)]]
-> - **核心当事主体** 荷兰教育与科学部及其战略规划专班；基督教民主党（CDA）与自由民主人民党（VVD）联合执政的鲁伯斯第一届内阁（Lubbers I）；大学校长联合常设会议（[[VSNU]]）与各校学术委员会；高等专业教育联合理事会（[[HBO-Raad]]）；雇主联合会与工会代表。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 141, 145–147)]]
+> - **核心当事主体** 荷兰教育与科学部及其战略规划专班；基督教民主党（[[Critical Discourse Analysis|CDA]]）与自由民主人民党（VVD）联合执政的鲁伯斯第一届内阁（Lubbers I）；大学校长联合常设会议（[[VSNU]]）与各校学术委员会；高等专业教育联合理事会（[[HBO-Raad]]）；雇主联合会与工会代表。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 141, 145–147)]]
 > - **深层制度与财政危机** 20 世纪 70 年代末爆发的全球经济危机导致荷兰公共财政赤字剧增，而高等教育在校生规模快速膨胀；教育部每年高达 300 亿荷盾的财政预算成为国家最大开支项，且高校实际支出常年大幅超支；传统源自中等教育法体系自上而下的细密行政规制与工时审批不仅未能有效控制开支，反而压抑了高校适应劳动力市场与学科重组的灵活性，陷入严重的[[Red Tape|繁文缛节]]困境。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140–141, 144–145)]]
 > - **组织先声与自组织突破** 1982 年鲁伯斯内阁确立去管制化施政纲领后，大学系统在面临财政通牒的背景下，依托荷兰大学任务分配与集中委员会（Committee for Division of Tasks and Concentration, TVC）开展自主协商，成功达成 2.57 亿荷盾的学科重组方案；这一突破证明去中心化[[Policy Network|政策网络]]具备超越科层官僚的自组织协调潜能，直接坚定了政府放弃单向指令管制的决心。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 

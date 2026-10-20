@@ -10,7 +10,7 @@ aliases:
 summary: "指在儒家与比较哲学传统中体现最高道德卓越、普世仁爱与知行合一的终极理想人格；在比较政治学与现代治理反思中，该概念亦被用于指称将公职人员预设为不计世俗回报之无私修道者或哲学王的“圣人治理假设”，构成透视道德教化、社会流动与公共激励机制的跨文化理论透镜。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,10 +22,10 @@ tags:
   - theme/moral-cultivation
   - theme/public-governance
 related_concepts:
+  - "[[Benevolence]]"
   - "[[Junzi]]"
   - "[[Red Tape]]"
   - "[[Paradigm]]"
-  - "[[Benevolence]]"
   - "[[Self-Cultivation]]"
   - "[[Technical Rationality]]"
   - "[[Take the World Upon Oneself]]"
@@ -38,8 +38,7 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jin Li]]"
@@ -73,7 +72,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **圣人（Sage / Shengxian / 圣贤）** 是[[Confucian Learning Tradition|儒家学习传统]]与比较哲学中的终极理想人格，代表了人类道德卓越、普世仁爱与知行合一的最高境界。在[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 41–44]]）的阐释中，圣人超越了“士”与“[[Junzi|君子]]”的阶梯，指那些将同理心、关怀与仁德无差别地扩展至全人类的完人；其可达性在历史上经历了从先秦[[Confucius|孔子]]的“遥不可及”到[[Neo-Confucianism|宋明理学]]“人人皆可成圣”的平民化演变。而在现代比较政治与制度诊断中，亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）进一步将“圣人/神职人员”作为一种制度假设进行反思——指出若在公共治理中不切实际地假定公职人员皆为不求物质回报的道德圣人，反而会扭曲制度激励，构筑隐性[[Red Tape|繁文缛节]]并加剧治理阶层的寡头化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–47)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
+> **圣人（Sage / Shengxian / 圣贤）** 是[[Confucian Learning Tradition|儒家学习传统]]与比较哲学中的终极理想人格，代表了人类道德卓越、普世[[Benevolence|仁爱]]与知行合一的最高境界。在[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 41–44]]）的阐释中，圣人超越了“士”与“[[Junzi|君子]]”的阶梯，指那些将同理心、关怀与仁德无差别地扩展至全人类的完人；其可达性在历史上经历了从先秦[[Confucius|孔子]]的“遥不可及”到[[Neo-Confucianism|宋明理学]]“人人皆可成圣”的平民化演变。而在现代比较政治与制度诊断中，亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）进一步将“圣人/神职人员”作为一种制度假设进行反思——指出若在公共治理中不切实际地假定公职人员皆为不求物质回报的道德圣人，反而会扭曲制度激励，构筑隐性[[Red Tape|繁文缛节]]并加剧治理阶层的寡头化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–47)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在哲学与学习传统中指向道德修养与天下关怀的终极[[Paradigm|范式]]；在公共治理与政治经济学中指向预设从政者无私奉献的“圣人治理假设”。
@@ -109,7 +108,7 @@ updated: 2026-10-20
 > |:---|:---|:---|:---|:---|
 > | **德性境界** | 仁德圆满、通达天理、视天下为一体 | 自觉[[Self-Cultivation\|修身]]、克己复礼、道德自律 | 洞悉理念世界、掌握绝对理性与正义 | 具备专业[[Technical Rationality\|技术理性]]、中立执行规章 |
 > | **实践路径** | 格物致知、诚意正心、修齐治平 | 遵从礼法、慎独修身、弘道立身 | 严苛辩证法训练与城邦哲学统治 | 现代科层分工、数据分析与量化治理 |
-> | **激励机制假设** | 超越私利、以普世仁爱与天下为己任 | 追求道德完善与社会美誉 | 鄙弃世俗金钱与虚名，被迫执政 | 依赖法官/公务员职业薪酬与晋升考核 |
+> | **激励机制假设** | 超越私利、以普世[[Benevolence\|仁爱]]与天下为己任 | 追求道德完善与社会美誉 | 鄙弃世俗金钱与虚名，被迫执政 | 依赖法官/公务员职业薪酬与晋升考核 |
 > | **可达性与门槛** | 宋明后主张人人皆可成圣（平民化） | 经由系统教化与修身均可达到 | 极少数具备哲学天赋之精英专属性 | 依赖现代大学专业教育与公务员考试 |
 
 ---
@@ -117,7 +116,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 圣人概念的核心要素
-> - **普世仁爱与天下关怀** 圣人的仁爱突破亲疏血缘的局限，无条件扩展至全人类与天下苍生（[[Take the World Upon Oneself|以天下为己任]]）。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
+> - **普世[[Benevolence|仁爱]]与天下关怀** 圣人的仁爱突破亲疏血缘的局限，无条件扩展至全人类与天下苍生（[[Take the World Upon Oneself|以天下为己任]]）。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
 > - **由[[Self-Cultivation|修身]]至治平的知行合一** 将内在的心性修养（[[Self-Cultivation|修身]]、致良知）与外部的社会行动（齐家、治国、平天下）彻底融为一体。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–47)]]
 > - **历史典范的具象存在** 儒家将尧、舜、禹、文王、武王、周公确立为历史中的实体圣人，证明圣人并非虚无缥缈的乌托邦，而是现实历史中曾实现的最高人格。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 > - **成圣通道的平民化开放** 从[[Confucius|孔子]]时期的敬畏与高不可攀，演变为[[Neo-Confucianism|宋明理学]]与心学中人人皆有成圣潜能（“满街都是圣人”）的平等主义[[Epistemology|认识论]]。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–46)]]
@@ -145,7 +144,7 @@ updated: 2026-10-20
 > 阐明圣人在儒家人格进阶（士 → [[Junzi|君子]] → 圣人）中的顶端位置，以及其超越血缘差序的普世关怀内核。
 
 > [!claim] [[Confucius|Confucius]], [[Mencius|Mencius]], & [[Jin Li|Li, J.]]
-> **德性最高阶梯与普世仁爱断言** 李瑾指出，在儒家传统的人格光谱中，“士”是初入德性之门的学徒，“[[Junzi|君子]]”是在日常生活中自发实践道德的模范，而“圣人”则是连孔子本人都自谦未能达到的终极境界；圣人的核心特质在于突破个体的家庭与宗族界限，将同理心与仁爱无差别地推及整个人类社会，成为历代学者矢志追求的精神灯塔。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–44)]]
+> **德性最高阶梯与普世[[Benevolence|仁爱]]断言** 李瑾指出，在儒家传统的人格光谱中，“士”是初入德性之门的学徒，“[[Junzi|君子]]”是在日常生活中自发实践道德的模范，而“圣人”则是连孔子本人都自谦未能达到的终极境界；圣人的核心特质在于突破个体的家庭与宗族界限，将同理心与仁爱无差别地推及整个人类社会，成为历代学者矢志追求的精神灯塔。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–44)]]
 
 ---
 
@@ -194,7 +193,7 @@ updated: 2026-10-20
 ## 概念演变
 
 > [!dev-timeline] 圣人概念的历史与跨文化演进
-> - **公元前 5 世纪 — 先秦德性奠基** [[Confucius|孔子]]确立尧、舜、禹、周公等历史圣人典范，以仁爱界定圣人境界，但自谦未达；[[Mencius|孟子]]提出“人皆可以为尧舜”，奠定普遍成圣的性善论潜能。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
+> - **公元前 5 世纪 — 先秦德性奠基** [[Confucius|孔子]]确立尧、舜、禹、周公等历史圣人典范，以[[Benevolence|仁爱]]界定圣人境界，但自谦未达；[[Mencius|孟子]]提出“人皆可以为尧舜”，奠定普遍成圣的性善论潜能。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
 > - **11 世纪 — 宋代理学“学以至圣”** [[Cheng Brothers|二程]]与[[Zhu Xi|朱熹]]将成圣从遥远图腾转化为系统[[Self-Cultivation|修身]]工夫，以《大学》[[The Great Learning|八条目]]规范格物、致知、诚意、正心、修齐治平的成圣通途。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–46)]]
 > - **16 世纪 — 明代心学平民化跃进** [[Wang Yangming|王阳明]]倡导演绎“心即理”与“致良知”，宣示“满街人都是圣人”，只要知行合一，贩夫走卒皆可成圣。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 46–47)]]
 > - **1919 年 — 五四时期现代圣人重构** 蔡元培在孔子诞辰与[[John Dewey|杜威]]六十寿辰演说中将[[John Dewey|杜威]]塑造为提倡民主与科学创造的“现代圣人”，完成传统圣人原型的现代性批判性重构。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 78
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -22,12 +22,12 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Geopolitics]]"
   - "[[Reflexivity]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Theoretical Knowledge]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -57,14 +57,11 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Innovation Hub]]"
+  - "[[Variable]]"
+  - "[[Academic Achievement]]"
+  - "[[Domain Specificity]]"
+  - "[[Heterogeneity]]"
   - "[[Theoretical Perspective]]"
-  - "[[Doxa]]"
-  - "[[Governing by Numbers]]"
-  - "[[Learning Economy]]"
-  - "[[Return on Investment]]"
-  - "[[Geopolitics of Higher Education]]"
-  - "[[Space of Equivalence]]"
-  - "[[Problem Solving]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -75,8 +72,9 @@ related_theories:
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Content Analysis]]"
   - "[[Cohort Study]]"
-  - "[[Longitudinal Study]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons:
@@ -91,8 +89,8 @@ related_facts:
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
   - "[[EU]]"
+  - "[[Bologna Process]]"
   - "[[UAE Education Hub Projects]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -116,7 +114,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的资本积累与社会生产形态，其中知识、创新、学习、高等教育、研发、技术以及[[Higher-Order Thinking Skills\|高阶思维技能]]（特别是[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]）是价值创造、财富提取以及国家、城市和区域间地缘政治与经济竞争的绝对核心要素。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 4–5)]]
+> 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的资本积累与社会生产形态，其中知识、创新、学习、高等教育、研发、技术以及[[Higher-Order Thinking Skills\|高阶思维技能]]（特别是[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]）是价值创造、财富提取以及国家、城市和区域间[[Geopolitics|地缘政治]]与经济竞争的绝对核心要素。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 经济财富的创造重心从自然资源与有形物质资产，系统性转移至无形知识资产、前沿研发与非程序化高阶认知能力的生产、管理、分配与[[Reflexivity\|反身性]]应用。
@@ -130,7 +128,7 @@ updated: 2026-10-20
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Knowledge-Based Economization\|知识经济化]]** —— KBE 指实际存在的经济形态本身；知识经济化则是通过话语想象与物质实践将教育、科研等非经济领域持续“重构为经济要素”的社会政治过程。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 25)]]
-> - 不等于 **后工业社会（POST-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge\|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力[[Disciplina and Doctrina\|规训]]的核心驱动机制。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
+> - 不等于 **后工业社会（POST-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge\|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力规训的核心驱动机制。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
 
 ---
 
@@ -193,7 +191,7 @@ updated: 2026-10-20
 
 ### 命题三　知识经济在个体主体性层面通过素养话语将宏观劳动力风险转化为个体的终身自我投资责任
 
-> [!concept-lens] 主体性生产与劳动[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 主体性生产与劳动规训
 > KBE 必须通过微观机制在劳动者心智中建立持续升级技能的自我问责机制，使个体主动承担适应市场动荡的全部代价。
 
 > [!claim] Zelinka; Hartmann
@@ -282,16 +280,16 @@ updated: 2026-10-20
 
 ## 实证数据
 
-> [!ref-table]- 知识经济与高等教育实证结果（无效应量）
+> [!ref-table]- 知识经济与高等教育实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Block_2008_PS\|Block (2008)]] | 1970–2006 年美国《R&D 100》大奖获奖技术（2006 年 $N = 88$ 项本土创新） | 历史档案追踪与跨期内容分析 | 突破性技术创新的研发组织属性（私营独立研发 vs 联邦资助/跨组织协同） | 2006 年仅 11 项由私营企业独立完成，77 项（87.5%）由联邦机构全额资助或涉及大学与公共机构协同 | — | 仅反映获得技术大奖的前沿突破性创新，未涵盖常规商业性渐进技术研发 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 全美本科生 CLA 增值追踪样本（Arum & Roksa, 2011）及全球四国高教纵向样本（Loyalka et al., 2021） | 多国高校学业表现增益纵向追踪研究 | 本科前两年批判性思维与高阶推理增益 | 逾 45% 的本科生在大学前两年批判性思维与复杂推理未见实质性增益 | — | 测度局限于特定标准化批判性思维测验，未覆盖专业领域特异性实践技能 |
-> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | 2016 年欧盟 25–64 岁劳动年龄人口 | 跨国劳动力调查截面统计分析 | 年度正式与非正式继续教育参与率 | 逾 40% 劳动人口每年参与正式或非正式继续教育培训 | — | 统计涵盖非正式工作场所短训，各类培训的时长与实际技能转化深度存在较大异质性 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 截至 2018 年欧洲高等教育区（EHEA）49 个成员国 | 区域教育政策法制文本普查 | 国家资格框架（NQF）法定颁布覆盖率 | 44 国（89.8%）正式颁布国家资格框架并纳入高阶认知能力指标 | — | 反映宏观政策法规文本确立情况，并不等同于各高校课程考核的实质性落实水平 |
-> | [[Argument_Moisio_2022_Springer\|Moisio (2022)]] | 1980 年代后期起发达市场经济体（OECD 国家） | 宏观国民经济核算与产业资本构成纵向分析 | 知识与技术等无形资产对 GDP 贡献率 | 知识、技术与信息等无形资产对 GDP 的贡献率全面超越自然资源与实体厂房设备资本 | — | 宏观资产核算指标依赖无形资产折旧估算假设 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | 1970–2006 年美国《R&D 100》大奖获奖技术（2006 年 $N = 88$ 项本土创新） | 历史档案追踪与跨期[[Content Analysis\|内容分析]] | 突破性技术创新的研发组织属性（私营独立研发 vs 联邦资助/跨组织协同） | 2006 年仅 11 项由私营企业独立完成，77 项（87.5%）由联邦机构全额资助或涉及大学与公共机构协同 | — | 仅反映获得技术大奖的前沿突破性创新，未涵盖常规商业性渐进技术研发 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 全美本科生 [[Collegiate Learning Assessment\|CLA]] 增值追踪样本（Arum & Roksa, 2011）及全球四国高教纵向样本（Loyalka et al., 2021） | 多国高校[[Academic Achievement\|学业表现]]增益纵向[[Cohort Study\|追踪研究]] | 本科前两年[[Critical Thinking\|批判性思维]]与高阶推理增益 | 逾 45% 的本科生在大学前两年批判性思维与复杂推理未见实质性增益 | — | 测度局限于特定标准化批判性思维测验，未覆盖专业[[Domain Specificity\|领域特异性]]实践技能 |
+> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | 2016 年[[EU\|欧盟]] 25–64 岁劳动年龄人口 | 跨国劳动力调查截面统计分析 | 年度正式与非正式[[Further Education\|继续教育]]参与率 | 逾 40% 劳动人口每年参与正式或非正式继续教育培训 | — | 统计涵盖非正式工作场所短训，各类培训的时长与实际技能转化深度存在较大[[Heterogeneity\|异质性]] |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 截至 2018 年欧洲高等教育区（[[Bologna Process\|EHEA]]）49 个成员国 | 区域教育政策法制文本普查 | 国家资格框架（NQF）法定颁布覆盖率 | 44 国（89.8%）正式颁布国家资格框架并纳入高阶认知能力指标 | — | 反映宏观政策法规文本确立情况，并不等同于各高校课程考核的实质性落实水平 |
+> | [[Argument_Moisio_2022_Springer\|Moisio (2022)]] | 1980 年代后期起发达市场经济体（[[OECD]] 国家） | 宏观国民经济核算与产业资本构成纵向分析 | 知识与技术等无形资产对 GDP 贡献率 | 知识、技术与信息等无形资产对 GDP 的贡献率全面超越自然资源与实体厂房设备资本 | — | 宏观资产核算指标依赖无形资产折旧估算假设 |
 
 ---
 
@@ -304,5 +302,5 @@ updated: 2026-10-20
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 剖析知识经济[[Discourse|话语]]如何重塑亚洲高等教育扩张与澳大利亚国家教育出口战略。
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education|继续教育]]与企业培训的结构性膨胀。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
-> - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]][[Disciplina and Doctrina|规训]]。
+> - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]]规训。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。

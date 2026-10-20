@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 56
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -21,6 +21,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Geopolitics]]"
   - "[[Space Production]]"
   - "[[Student Satisfaction]]"
   - "[[Zero-Sum Competition]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
@@ -50,8 +52,6 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
-  - "[[Critical Thinking]]"
-  - "[[Cross-cultural Validity]]"
 related_theories:
   - "[[Academic Capitalism]]"
   - "[[Path Dependence]]"
@@ -63,13 +63,11 @@ related_persons:
   - "[[Bob Lingard]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
-  - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
   - "[[Bologna Process]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[UN Sustainable Development Goals]]"
-  - "[[University of Kentucky Top-20 Plan]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
 related_arguments:
@@ -81,6 +79,7 @@ related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: medium
 status: stable
 created: '2026-05-11'
@@ -98,7 +97,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨越民族国家边界、运用统一度量衡对高等教育机构开展横向排序与价值估定的全球性竞争装置。
-> - **用途** 帮助研究者透视全球[[Knowledge-Based Economy|知识经济]]下高等教育的声望通货运作、地缘政治[[Space Production|空间生产]]以及[[Academic Capitalism|学术资本主义]]分层机制。
+> - **用途** 帮助研究者透视全球[[Knowledge-Based Economy|知识经济]]下高等教育的声望通货运作、[[Geopolitics|地缘政治]][[Space Production|空间生产]]以及[[Academic Capitalism|学术资本主义]]分层机制。
 > - **边界** 不等于单一主权国家内部运作的国内大学排名（national rankings），也不等同于基于底线合格标准的专业认证评估（accreditation）；不适合用于测量机构的多样化地方社会贡献与教学内涵增值。
 
 > [!citation-card] 机构转型驱动力
@@ -130,13 +129,13 @@ updated: 2026-10-20
 > - **1983 年 — 国家排名的兴起**
 >   - 1983 年《美国新闻与世界报道》（*U.S. News & World Report*）发布首个美国大学排名；随后加拿大《麦克林》（*Maclean's*）杂志与英国媒体相继推出本国高校排行榜，反映出国家内部公众求学选择与问责需求的上升（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp. 5–6]]）。
 > - **2003–2004 年 — 全球排名时代的开启与双雄并立**
->   - 上海交通大学高等教育研究所于 2003 年发布首个多国综合性的[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）；英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司推出[[Times Higher Education World University Rankings|世界大学排名]]（THE），将跨国竞争机制正式推向全球舞台（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 131]]）。
+>   - 上海交通大学高等教育研究所于 2003 年发布首个多国综合性的[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）；英国《泰晤士高等教育》（Times Higher Education）于 2004 年联合 QS 公司推出世界大学排名（THE），将跨国竞争机制正式推向全球舞台（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 131]]）。
 > - **2005–2010 年 — 排名体系的多元扩散与指标离散**
 >   - 荷兰莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名与独立后的 QS 世界大学排名相继[[Emergence|涌现]]。不同体系的指标分歧导致同一高校排位剧烈震荡（例如香港大学在 2007 年不同榜单中排位从第 8 名到 300 名开外），印证了排名作为价值建构而非客观镜子的社会学属性（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp. 10–11]]）。
 > - **2000 年代 — 跨国排行榜治理与排名焦虑的政治学批判**
 >   - 里兹维与林加德等政策社会学家揭示，跨国绩效排行榜（league tables）已成为超国家教育治理的远程操控机制，引发主权国家与大学普遍的排名焦虑，将关于教育根本目的的公共讨论异化为追求榜单排位的技术合规算计。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2010 年代至今 — 全球扩散与南欧等外围国家的制度性脱节**
->   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 [[Times Higher Education World University Rankings|THE 榜单]]前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
+>   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 THE 榜单前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 > - **2019 年至今 — [[UN Sustainable Development Goals|联合国可持续发展目标]]影响力排名的衍生**
 >   - THE 推出基于联合国[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）的大学影响力排名，试图将评价维度从传统科学卓越拓展至社会正义、气候行动与性别平等，反映出全球排名逻辑对公共责任议题的回应与再吸收（[[Argument_Zapp_2022_Springer|Zapp, 2022, p. 147]]）。
 
@@ -191,8 +190,8 @@ updated: 2026-10-20
 
 ### 命题一　全球大学排名是建构而非纯粹反映高等教育地缘政治秩序的基础设施
 
-> [!concept-lens] 地缘政治装置与[[Space Production|空间生产]]
-> 排名通过指标选择、空间想象与量化规制主动生产全球竞争关系，充当形塑高等教育地缘政治秩序的基础设施。
+> [!concept-lens] [[Geopolitics|地缘政治]]装置与[[Space Production|空间生产]]
+> 排名通过指标选择、空间想象与量化规制主动生产全球竞争关系，充当形塑[[Geopolitics of Higher Education|高等教育地缘政治]]秩序的基础设施。
 
 > [!claim] [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]
 > **[[Competitiveness|竞争性地缘政治装置]]的基础设施** 排名与指标化的运作不仅衡量竞争，更在根本上创造竞争。在排名诞生之前，全球高校之间并不天然处于可排序、同质化的零和博弈之中；排名通过裁定指标（成果引用、师生比、国际化率）并赋予权重的操作，将异质机构转化为同质可比单位。这一过程体现出排名的生产性：它在声称描述大学的同时规定了何为优质大学，进而驱使大学开发出以在线自评（[[Online Self-Assessment|OSA]]）为代表的[[Preemptive Governance|预判性治理]]工具，争夺[[Promising Student|有前景的学生]]以维系位次（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp. 219–226]]）。
@@ -224,7 +223,7 @@ updated: 2026-10-20
 > 全球学生跨境流动的实际体验受生活世界与文化地缘深度塑造，高流动规模并不直接映射高校学术排名的卓越度。
 
 > [!claim] [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（José Luis García Garrido, 2009, pp. 332–333）
-> **南欧流动繁荣与科研赤字的西班牙悖论** 加西亚·加里多在对西班牙高等教育的跨国考察中指出，西班牙大学在 [[Academic Ranking of World Universities|ARWU]] 和泰晤士高等教育等权威榜单中几乎全军覆没，暴露出其高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]（endogamy）与自治区封闭壁垒造成的严重科研赤字。然而在[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]中，西班牙却长期高居全欧洲最主要的留学生输入国榜首。加里多揭示，驱动学生流向西班牙的核心因素是西班牙语的语言吸引力、宜人气候、丰富旅游资源与低廉生活成本，呈现出留学生流动规模与大学科研声誉的显著脱节。这种流动繁荣与排名的鲜明反差证明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力；同时加里多严正警示大学决策者切不可将气候与文化红利误读为学术繁荣，必须正视大学深层的科研生产力瓶颈与制度危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
+> **南欧流动繁荣与科研赤字的西班牙悖论** 加西亚·加里多在对西班牙高等教育的跨国考察中指出，西班牙大学在 [[Academic Ranking of World Universities|ARWU]] 和泰晤士高等教育等权威榜单中几乎全军覆没，暴露出其高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]（endogamy）与自治区封闭壁垒造成的严重科研赤字。然而在[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]中，西班牙却长期高居全欧洲最主要的留学生输入国榜首。加里多揭示，驱动学生流向西班牙的核心因素是西班牙语的语言吸引力、宜人气候、丰富旅游资源与低廉生活成本，呈现出留[[Student Mobility|学生流动]]规模与大学科研声誉的显著脱节。这种流动繁荣与排名的鲜明反差证明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力；同时加里多严正警示大学决策者切不可将气候与文化红利误读为学术繁荣，必须正视大学深层的科研生产力瓶颈与制度危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 
 ---
 
@@ -288,9 +287,9 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022, pp. 125–139)]] — 宏观综述全球大学排名的兴起动因、系统性方法学偏见及新制度主义体制不可避免性机制。
-> - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, pp. 219–226)]] — 揭示全球排名作为地缘政治装置的基础设施属性，以及高校开发在线自评工具开展预判性治理的微观实践。
-> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 4–19)]] — 阐释全球排名作为高等教育空间制造的机制，分析澳大利亚高校利用留学生学费资助科研推高排名的循环效应。
-> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017, pp. 797–809)]] — 从新政治经济学与学术资本主义视阈，阐明排名在非货币竞争中充当价值通货与多价合法性装置的职能。
-> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009, pp. 332–333)]] — 剖析西班牙在 ARWU 权威榜单前列缺席与在欧盟留学生流入榜高居榜首的结构性背离，揭示流动动机与排名学术声誉的深刻脱节。
+> - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, pp. 219–226)]] — 揭示全球排名作为[[Geopolitics|地缘政治]]装置的基础设施属性，以及高校开发[[Online Self-Assessment|在线自评工具]]开展[[Preemptive Governance|预判性治理]]的微观实践。
+> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 4–19)]] — 阐释全球排名作为[[Space-Making|高等教育空间制造]]的机制，分析澳大利亚高校利用留学生学费资助科研推高排名的循环效应。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017, pp. 797–809)]] — 从新政治经济学与[[Academic Capitalism|学术资本主义]]视阈，阐明排名在[[Non-monetary Competition|非货币竞争]]中充当价值通货与多价合法性装置的职能。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009, pp. 332–333)]] — 剖析西班牙在 [[Academic Ranking of World Universities|ARWU]] 权威榜单前列缺席与在[[EU|欧盟]]留学生流入榜高居榜首的结构性背离，揭示流动动机与排名学术声誉的深刻脱节。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示跨国绩效排行榜如何制造排名焦虑，将教育政策辩论从目的辨析异化为名次算计并落实远程操控。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, p. 199)]] — 揭示经合组织在发起 AHELO 项目时批判商业世界大学排名过度偏向科研声誉与规模，借此建构高校教学信息缺口并确立自身提供中立学习成效评价的合法威权。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, p. 199)]] — 揭示[[OECD|经合组织]]在发起 [[OECD AHELO Project|AHELO]] 项目时批判商业世界大学排名过度偏向科研声誉与规模，借此建构高校教学信息缺口并确立自身提供中立学习成效评价的合法威权。

@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 26
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Questionnaire]]"
   - "[[Action Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
 related_theories:
@@ -51,7 +50,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Four Generations of Research Use
@@ -180,5 +179,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 基于 34 项文献的[[Critical Review\|批判性综述]]提出该四代模型，论证教育研究必须从第三代系统观推进至以[[Knowledge Integration\|知识整合]]与专业规范为支柱的第四代概念化。

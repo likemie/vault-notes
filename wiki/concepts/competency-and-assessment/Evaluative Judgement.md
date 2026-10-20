@@ -8,7 +8,7 @@ aliases:
 summary: "学习者理解何为良好工作质量，并能够对自己及他人的工作质量做出审慎、明智评价决策的核心能力。在高等教育与智能化求知情境中，评价性判断被确立为不可向算法外包的核心认识能力与终身学习基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Critical Review]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
 related_persons:
@@ -53,7 +52,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evaluative Judgement
@@ -216,7 +215,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - Tai et al. (2018) — 系统界定评价性判断的理论内涵、发展机制与高等教育课程转化原则，奠定该领域的奠基之作。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将评价性判断引入[[Generative Artificial Intelligence\|生成式人工智能]]时代的教育[[Epistemology\|认识论]]研究，论证其不可委托给算法的伦理属性，确立其为诊断有害[[Epistemic Dependence\|认识依赖]]的核心分水岭。
 > - Sadler (1989, 2014) — 探讨[[Formative Assessment\|形成性评价]]中质量内化概念与量规局限，为评价性判断提供深厚的评估哲学渊源。

@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -36,7 +36,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Problem Solving Inventory]]"
 related_persons: []
@@ -125,7 +124,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Pirate Math 列为初等数学 Tier 3 一对一助教辅导的标志性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何利用 Pirate Math 等强证据工具在 Tier 3 个别辅导中阻断学困生转介特殊教育。
 > - [[Fraction Face-Off!]] — 同属范德堡大学 Fuchs 团队研发的强证据初等数学方案，侧重四年级分数概念与数轴表征。

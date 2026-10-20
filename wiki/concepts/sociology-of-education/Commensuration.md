@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -35,22 +35,19 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Goodhart's Law]]"
   - "[[New Public Management]]"
-  - "[[Governing by Numbers]]"
-  - "[[Steering at a Distance]]"
-  - "[[Global Education Reform Movement]]"
-  - "[[Social Imaginary]]"
-  - "[[Network Governance]]"
+  - "[[Positivism]]"
   - "[[Bildung]]"
+  - "[[Student-Teacher Relationship]]"
 related_methods:
   - "[[Item Response Theory]]"
-  - "[[Correlational Research]]"
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -64,13 +61,13 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
-  - "[[Education at a Glance]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Phenomenology]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Commensuration
@@ -129,11 +126,11 @@ updated: 2026-10-18
 
 ### 命题一　跨国等值空间的虚构将统计信度置于本土构念效度之上
 
-> [!concept-lens] 等值空间虚构与跨国信度优先
-> 探讨跨国评估如何通过抽离本土历史情境，构建统一量表，以技术信度压制教育本体论多样性。
+> [!concept-lens] [[Space of Equivalence|等值空间]]虚构与跨国[[Reliability|信度]]优先
+> 探讨跨国评估如何通过抽离本土历史情境，构建统一量表，以技术信度压制教育[[Ontology|本体论]]多样性。
 
 > [!claim] Rizvi & Lingard; Desrosières
-> **跨国等值空间的虚构机制** 在跨国教育治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。阿兰·德罗西埃（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]进一步论证，[[OECD|经济合作与发展组织]]（OECD）通过[[PISA|国际学生评估项目]]（PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度压倒了教育[[Ontology|本体论]]的多样性，确立了跨国新自由主义治理的话语霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **跨国等值空间的虚构机制** 在跨国教育治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]进一步论证，[[OECD|经济合作与发展组织]]（OECD）通过[[PISA|国际学生评估项目]]（PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度压倒了教育[[Ontology|本体论]]的多样性，确立了跨国新自由主义治理的[[Discourse|话语]]霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 
@@ -143,13 +140,13 @@ updated: 2026-10-18
 > 探讨数据分析师如何通过权重赋值与指标过滤，将深层价值冲突封装于黑箱算法之中。
 
 > [!claim] Hartong & Förschler; Rose
-> **政治价值裁决的技术隐形机制** 通约不仅是将不同质态转化为可比量化指标的技术操作，更是一种权威性裁决价值权重、并将深层政治决策包装为中立算法的社会工程。[[Sigrid Hartong|西格丽德·哈通]]与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、[[Socioeconomic Status|社会经济地位]]）、权重赋值以及过滤规则的技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。尼古拉斯·罗斯（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
+> **政治价值裁决的技术隐形机制** 通约不仅是将不同质态转化为可比量化指标的技术操作，更是一种权威性裁决价值权重、并将深层政治决策包装为中立算法的社会工程。[[Sigrid Hartong|西格丽德·哈通]]与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、[[Socioeconomic Status|社会经济地位]]）、权重赋值以及过滤规则的技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
 
 ---
 
 ### 命题三　通约指标与高利害问责刚性绑定诱发策略性博弈与目标置换
 
-> [!concept-lens] 规训装配与反身性博弈异化
+> [!concept-lens] 规训装配与[[Reflexivity|反身性]]博弈异化
 > 探讨量化通约一旦与资源奖惩挂钩，如何促使被规训学校采取虚假合规与数据操纵策略。
 
 > [!claim] Hartong & Förschler; Espeland & Sauder
@@ -203,11 +200,11 @@ updated: 2026-10-18
 > > - **[[New Public Management|新公共管理]]与问责拥护者** 坚信没有量化通约就没有问责，透明的可比指标能有效倒逼落后学校查缺补漏、提高公共资金使用效率。
 > > - **[[Reflexivity|反身性]]批判社会学派** 指出“一旦指标成为目标，它就不再是好指标”；通约指标将专业教育人员的精力从育人工作异化为指标生产与数据公关，严重侵蚀教育专业自主权。
 >
-> > [!axis] 单一效应量通约 vs 具身教化的不可通约性
+> > [!axis] 单一[[Effect Size|效应量]]通约 vs 具身教化的[[Incommensurability|不可通约性]]
 > > 围绕将多元教育产出通约为单一效应量指标是否抹杀教育本真价值展开辩论。
 > >
-> > - **实证主义元分析立场** 认为效应量（$d$）提供了跨越教学法与课程内容的统一比较标尺，唯有通过数量通约才能识别“哪些措施最有效”。
-> > - **现象学与批判教育哲学立场** [[Argument_Larsen_2019_EducSci|Larsen (2019, pp. 2–3)]] 指出，将复杂的师生互动与漫长涵育（[[Bildung]]）过程通约为单一效应量，抹杀了教育活动与生俱来的质性不可通约性，将师生关系异化为可折算的投入产出链条。
+> > - **[[Positivism|实证主义]][[Meta-analysis|元分析]]立场** 认为效应量（$d$）提供了跨越教学法与课程内容的统一比较标尺，唯有通过数量通约才能识别“哪些措施最有效”。
+> > - **[[Phenomenology|现象学]]与批判教育哲学立场** [[Argument_Larsen_2019_EducSci|Larsen (2019, pp. 2–3)]] 指出，将复杂的师生互动与漫长涵育（[[Bildung]]）过程通约为单一效应量，抹杀了教育活动与生俱来的质性不可通约性，将[[Student-Teacher Relationship|师生关系]]异化为可折算的投入产出链条。
 
 > [!tension-table] 通约落地中的核心治理张力
 > | 张力维度 | 通约导向 | 实践诉求 | 治理两难 |
@@ -223,4 +220,4 @@ updated: 2026-10-18
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières 的“[[Space of Equivalence|等值空间]]”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以效应量（$d$）为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。（pp. 2–3）
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以[[Effect Size|效应量]]（$d$）为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。（pp. 2–3）

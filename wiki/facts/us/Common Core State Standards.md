@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Discourse]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
   - "[[Professional Judgment]]"
@@ -171,7 +172,7 @@ updated: 2026-10-20
 > 1. **打破百年分散标准的[[Punctuated Equilibrium Theory|政策垄断]]** 在极短时间内达成了全美绝大多数州在数学与语言学术期望上的历史性统一，重塑了美国基础教育的治理生态。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 18)]]
 > 2. **诉诸科学研究实现去政治化防护** 在意识形态高度敏感的课程领域，将标准锚定在实证研究之上，有效抵御了各类政治利益集团夹带私货的游说压力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 > 3. **专业审慎经验成为不可或缺的填补支柱** 面对高年级学科因果实证的客观匮乏，数学家的内在学科逻辑与一线教师的课堂可行性审查，构成了最终定稿的关键支撑。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–16)]]
-> 4. **揭示循证决策的多源阶段权变机制** 证实科学证据从未单独决定政策选择，客观数据必须与专业经验、地方对标工具以及政治价值叙事深度融合方能促成政策落地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 18–19)]]
+> 4. **揭示[[Evidence-Based Policy-Making|循证决策]]的多源阶段权变机制** 证实科学证据从未单独决定政策选择，客观数据必须与专业经验、地方对标工具以及政治价值叙事深度融合方能促成政策落地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 18–19)]]
 
 > [!stat-cards]- 核心数据
 > - **45** （州） 2010–2011 年间正式完成 CCSS 法定采纳的州及哥伦比亚特区数量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 16)]]
@@ -205,7 +206,7 @@ updated: 2026-10-20
 > > - **[[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）** 构建课程一致性模型反驳指出，原先标准越接近 CCSS 的州，其 NAEP 实际成绩越高，且提分速度显著更快。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 > [!citation-card] 证据利用在政策周期中的权变规律
-> 即便在最有利于循证决策的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
+> 即便在最有利于[[Evidence-Based Policy-Making|循证决策]]的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
 >
 > *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that Basic Research be combined with knowledge based on professional judgment about how best to Teach students in different educational and cultural contexts.*
 

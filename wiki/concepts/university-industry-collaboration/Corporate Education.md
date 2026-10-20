@@ -9,7 +9,7 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
   - "[[Apprenticeship]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Varieties of Capitalism]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Corporate Education
@@ -111,7 +112,7 @@ updated: 2026-10-16
 
 > [!warning]
 > - **公立偏见问题** 教育研究长期以公立教育为中心，忽视了企业教育这一庞大的非正规教育领域。Hartmann 呼吁教育研究"激进化"（radicalise）其研究议程，将企业教育纳入视野([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
-> - **地缘政治不平等** 多数企业教育提供商总部位于美国，反映出全球高科技行业的不平等分布（全球前十高科技上市公司中八家位于美国），这赋予了企业教育跨国空间以显著的地缘政治色彩([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.193]])
+> - **[[Geopolitics|地缘政治]]不平等** 多数企业教育提供商总部位于美国，反映出全球高科技行业的不平等分布（全球前十高科技上市公司中八家位于美国），这赋予了企业教育跨国空间以显著的地缘政治色彩([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.193]])
 > - **概念模糊** 企业教育的外包和商业化模糊了教育与商业、公立与私立之间的界限，使营利性教育提供商获得了近乎强制型的规范扩散力量([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.192–193]])
 
 ---

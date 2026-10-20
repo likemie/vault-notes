@@ -10,7 +10,7 @@ aliases:
 summary: "认知主体在面临知识状态、信息缺口、认知冲突及探究活动时所体验到的特定情感反应（如好奇、惊异、着迷、认识论困惑与敬畏），是连接智力技能与理智美德动机成分的心理纽带与动力引擎。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,9 +30,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Pride in Learning]]"
   - "[[Humility]]"
+  - "[[Benevolence]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Flow]]"
-  - "[[Mind Mapping]]"
   - "[[Epistemic Responsibility]]"
   - "[[Cognitive Deskilling]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -44,8 +44,7 @@ related_concepts:
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Knowledge Building Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Intellectual Emotions
@@ -92,7 +91,7 @@ updated: 2026-10-16
 > | **核心评价客体** | 知识状态、信息缺口、理论融贯性与真理 | 行为伦理规范、他人福祉与社会公平 | 艺术形式、对称和谐与感官意象 | 考试成绩、排名竞争与外在奖惩 |
 > | **典型情感表现** | 好奇心、惊奇、着迷、[[Epistemology\|认识论]]困惑、理智敬畏 | 愧疚、同情、愤慨、道德[[Pride in Learning\|自豪]] | 优美感、崇高感、感官陶醉 | 考试焦虑、得失恐惧、胜任感 |
 > | **核心促成功能** | 驱动自主探究，培育[[Epistemic Virtues and Vices\|理智美德]]与概念转变 | 维系道德责任与利他亲社会行为 | 丰富精神感知与艺术创造体验 | 调控短期学习努力程度与任务完成度 |
-> | **德性转化路径** | 转化为理智[[Humility\|谦逊]]、思想开放与探究[[Creativity\|创造力]] | 转化为同理心、正义与仁爱美德 | 转化为审美鉴赏力与艺术直觉 | 难以自发转化为内在品格，易诱发外在工具主义 |
+> | **德性转化路径** | 转化为理智[[Humility\|谦逊]]、思想开放与探究[[Creativity\|创造力]] | 转化为同理心、正义与[[Benevolence\|仁爱]]美德 | 转化为审美鉴赏力与艺术直觉 | 难以自发转化为内在品格，易诱发外在工具主义 |
 
 ---
 
@@ -102,7 +101,7 @@ updated: 2026-10-16
 > - **好奇心（Curiosity）** 指向认知缺口或未解谜题的主动求知渴望，引导注意力聚焦并驱动提出高质量探究问题。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, p. 280)]]
 > - **惊奇与惊异（Wonder & Surprise）** 面对世界深层秩序、反常证据或深邃理论解释时的崇高赞叹，打破理智傲慢与常规认知定势，激发超越[[Pragmatic Paradigm\|实用主义]]的求真热情。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 280–281)]]
 > - **着迷（Fascination）** 沉浸于特定领域规律、跨学科隐喻或科学故事中的深度[[Flow|心流]]与情感卷入，为克服耗费心力的认知困难提供内在韧性。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 281–282)]]
-> - **[[Epistemology|认识论]]困惑（Epistemic Confusion / Perplexity）** 察觉到既有[[Mind Mapping|心智图]]式与新证据之间的不一致所诱发的认知失衡，是促成反思与概念转变的核心前置触发器。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, p. 279)]]
+> - **[[Epistemology|认识论]]困惑（Epistemic Confusion / Perplexity）** 察觉到既有心智图式与新证据之间的不一致所诱发的认知失衡，是促成反思与概念转变的核心前置触发器。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, p. 279)]]
 > - **理智敬畏（Intellectual Awe）** 面对宇宙广袤、科学规律精妙或人类思想高度所产生的宏大感与谦卑感，直接滋养理智[[Humility|谦逊]]品质。
 
 > [!logic-map]- 理智情感在美德责任论中的动力转化与培育机制
@@ -213,5 +212,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Virtue Epistemology|德性认识论]]与理智情感教学法** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 系统论证理智情感（好奇、惊奇、着迷、困惑）作为连接智力技能与[[Epistemic Virtues and Vices|理智美德]]（[[Open-Mindedness|思想开放]]、[[Creativity|创造力]]、理智[[Humility|谦逊]]）的中枢催化作用，提出基于生成式 AI [[AI Agent in Education|智能体]]（Q-Tutor）的个性化叙事隐喻教学法。

@@ -10,10 +10,10 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 44
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1902"
 died: "1994"
 lifespan: "1902–1994"
@@ -40,20 +40,22 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
-  - "[[Bildung]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Variable]]"
+  - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Ontology]]"
   - "[[Operationalization]]"
   - "[[Scientism]]"
 related_theories:
   - "[[Popper's Three Worlds Theory]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Problem Approach]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
   - "[[Comparative Policy Analysis]]"
 related_persons:
   - "[[Brian Holmes]]"
@@ -61,6 +63,8 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Thomas Kuhn]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
+  - "[[Thomas Aastrup Rømer]]"
   - "[[W. V. O. Quine]]"
 related_facts: []
 related_arguments:
@@ -69,6 +73,7 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 related_instruments: []
 confidence: high
 status: completed
@@ -171,7 +176,7 @@ updated: 2026-10-20
 > - **比较教育学核心转化者** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）— 深受其批判理性主义与[[Critical Dualism|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach|问题法]]。
 > - **社会哲学批判对象** [[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]、卡尔·马克思 — 被其在《开放社会及其敌人》中定性为历史主义与极权乌托邦工程的思想源头。
 > - **当代循证引述者** [[John Hattie|约翰·哈蒂]]（John Hattie）— 在《[[Visible Learning|可见的学习]]》中直接引用波普尔的大胆猜想论述，以此为自身理论的科学性辩护，引发批判学者的系统质疑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
-> - **当代课程批判学者** [[Argument_Terhart_2011_JCS|埃瓦尔德·特哈特]]（Ewald Terhart）与[[Argument_Rømer_2018_EPT|托马斯·奥斯特加德·勒默尔]]（[[Thomas Aastrup Rømer]]）— 系统考据并批判[[Popper's Three Worlds Theory|波普尔三世界理论]]在循证教学论中的联想式挪用与实质内容抽空。
+> - **当代课程批判学者** [[Argument_Terhart_2011_JCS|埃瓦尔德·特哈特]]（[[Ewald Terhart]]）与[[Argument_Rømer_2018_EPT|托马斯·奥斯特加德·勒默尔]]（[[Thomas Aastrup Rømer]]）— 系统考据并批判[[Popper's Three Worlds Theory|波普尔三世界理论]]在循证教学论中的联想式挪用与实质内容抽空。
 
 ---
 
@@ -191,7 +196,7 @@ updated: 2026-10-20
 > > - **Karl Popper（1965）** 坚信真正的科学家应当具有不懈的[[Critical Thinking Disposition|批判精神]]，时刻准备放弃被经验证据反驳的假说。
 > > - **Thomas Kuhn（1970）** 批评波普尔描绘的是一种虚妄的乌托邦，科学史表明绝大多数时期的研究者皆在既定范式约束下开展日常解谜活动，只有在危机积累到无法遏制时才会发生范式革命。
 >
-> > [!axis] 证伪主义被新自由主义[[Disciplina and Doctrina|规训]]与商业循证包装所挪用之辩
+> > [!axis] 证伪主义被新自由主义规训与商业循证包装所挪用之辩
 > > 探讨波普尔的可错论与反建制[[Epistemology|认识论]]在冷战后如何被新自由主义智库及循证产业所工具化（Sleigh, 2021; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > >
 > > - **新自由主义批判学者（Sleigh, 2021）** 揭示波普尔的可错论（fallibilism）在冷战背景下与朝圣山学社（Mont Pèlerin Society）的自由放任经济学深度融合，将认识论怀疑主义武器化，用来瓦解国家对社会福利与公立教育的公共规划，为新自由主义去规制化与私有化提供了认识论合法性。
@@ -232,11 +237,11 @@ updated: 2026-10-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂自述波普尔求学渊源，将持续扩充元分析库至 1400 项解释为主动寻找反例的波普尔式科学试错，并将班级规模缩减确证为决定性因素设立为推翻可见学习模型的关键证伪判据。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录[[John Hattie|哈蒂]]自述波普尔求学渊源，将持续扩充[[Meta-analysis|元分析]]库至 1400 项解释为主动寻找反例的波普尔式科学试错，并将[[Class Size|班级规模]]缩减确证为决定性因素设立为推翻可见学习模型的关键[[Falsification|证伪]]判据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统考证波普尔[[Falsification|证伪主义]]、推测性知识与理论负荷概念对教育研究方法论[[Postpositivism|后实证主义]]转型的奠基贡献。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析波普尔[[Critical Dualism|批判二元论]]与反归纳主义[[Epistemology|认识论]]如何被霍姆斯直接吸纳，成为战后[[Scientific Paradigm|比较教育科学范式]]中对抗普遍必然因果律的理论基石。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析波普尔证伪主义与可错论在当代[[Evidence-Based Education|循证教育]]商业化中被[[John Hattie|哈蒂]]断章取义借用的现象，揭露其作为伪科学修辞的认识论本质。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 考据波普尔三个世界理论在《可见的学习》中遭受的形式化联想式挪用，解构其如何抽空欧陆教学论的学科实质内容。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 考据波普尔[[Popper's Three Worlds Theory|三个世界理论]]在《[[Visible Learning|可见的学习]]》中遭受的形式化联想式挪用，解构其如何抽空[[Didaktik|欧陆教学论]]的学科实质内容。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从科学实在论出发系统批判哈蒂对波普尔三个世界理论的误读，揭示其以[[Constructivist Paradigm|建构主义]]消解世界三客观性的认识论悖论。
 
 ---
@@ -257,4 +262,4 @@ updated: 2026-10-20
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述波普尔批判二元论如何作为[[Epistemology\|认识论]]基石被霍姆斯用于重构比较教育学。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判性分析波普尔在《[[Visible Learning\|可见的学习]]》中被断章取义引述以规避同行评议的现象。 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 批判性分析波普尔三世界理论在可见学习中的联想式借用及其造成的实质教化真空。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 系统考证波普尔客观世界三理论被建构主义心理学化挪用的认识论危机。 |
+> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 系统考证波普尔客观世界三理论被[[Constructivist Paradigm\|建构主义]]心理学化挪用的认识论危机。 |

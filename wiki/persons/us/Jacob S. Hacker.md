@@ -9,7 +9,7 @@ summary: "美国政治学家，耶鲁大学政治学讲席教授，美国文理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"

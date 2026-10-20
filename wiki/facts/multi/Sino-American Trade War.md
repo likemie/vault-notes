@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Technology Transfer]]"
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Vertical Disintegration]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sino-American Trade War
@@ -91,7 +92,7 @@ updated: 2026-10-16
 > [!finding-cards] 核心维度影响分析
 > - **半导体与高技术脱钩断链** 关税与出口管制重构了全球芯片流通链路，美国企业自华直接进口大幅萎缩并转向东南亚转口；先进制程制造设备与 AI 算力芯片被全面切断，促使中国半导体产业在成熟制程领域实现爆发式扩张，并诱发未来全球成熟芯片结构性产能过剩风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98–103)]]
 > - **多边经贸机制崩解与规则武器化** 美方实质性瘫痪了[[World Trade Organization|世界贸易组织]]（WTO）上诉机构，放弃通过多边仲裁框架解决对华经济分歧，全面倒向单边关税、长臂域外管辖与小多边同盟协调，动摇了战后国际经贸法律秩序基石。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 94–95)]]
-> - **[[Geopolitics of Knowledge|知识地缘政治]]与高等教育交流重构** [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]与 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 指出，地缘政治敌意恶化了中国留学生在海外的学术与心理安全，新自由主义的[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]被撕裂，[[Knowledge Production|知识生产]]的多极化格局与技术民族主义全面崛起。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 101–102)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 84)]]
+> - **[[Geopolitics of Knowledge|知识地缘政治]]与高等教育交流重构** [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]与 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 指出，[[Geopolitics|地缘政治]]敌意恶化了中国留学生在海外的学术与心理安全，新自由主义的[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]被撕裂，[[Knowledge Production|知识生产]]的多极化格局与技术民族主义全面崛起。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 101–102)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 84)]]
 > - **全球跨国供应链成本抬升与冗余建设** 在美欧中日各方竞相出台直接补贴与回流法案的背景下，原本高度优化集聚的跨国半导体网络被割裂，资本开支与营运成本系统性暴涨。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 101–103)]]
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy]] | Concept | 贸易战促成了从关税保护向巨额补贴、出口管制与国家安全主导的现代产业政策跃迁。 |
 > | [[Vertical Disintegration]] | Concept | 半导体产业链的全球纵向离散使得双方在关键卡点环节（EDA、设备、成熟产能）展开激烈博弈。 |
-> | [[Market Failure]] | Concept | 国家安全与地缘政治风险超越了传统市场失灵框架，成为贸易战中政府深度干预经济的依据。 |
+> | [[Market Failure]] | Concept | 国家安全与[[Geopolitics\|地缘政治]]风险超越了传统市场失灵框架，成为贸易战中政府深度干预经济的依据。 |
 > | [[October 2022 US Semiconductor Export Controls]] | Fact (Policy) | 贸易战向高科技先进制程技术封锁全面升级的里程碑式政策产物。 |
 > | [[China Integrated Circuit Industry Investment Fund]] | Fact (Program) | 中国在应对贸易战封锁与技术断链中充当资本托底与国产替代核心引擎的产业基金。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国为对冲中国芯片产业发展、保障本土供应链安全出台的 527 亿美元补贴法案。 |

@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Picking the Willing]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Horizon Europe Missions
@@ -140,7 +141,7 @@ updated: 2026-10-16
 > > [!axis] [[Geopolitics of Knowledge|知识地缘政治]]与工具化风险
 > > 批判学者质疑使命导向政策过分强调地缘经济竞争，导致学术研究被深度工具化。
 > >
-> > - **批判视角** 强调 [[Horizon Europe]] Missions 实质是将[[EU|欧盟]]的地缘政治野心（在全球[[Knowledge-Based Economy|知识经济]]中维系竞争优势）包装为社会挑战承诺，导致社会科学与人文学科（SSH）被边缘化为工程技术的从属包装工具，侵蚀了基础研究的[[Epistemology|认识论]]自主性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
+> > - **批判视角** 强调 [[Horizon Europe]] Missions 实质是将[[EU|欧盟]]的[[Geopolitics|地缘政治]]野心（在全球[[Knowledge-Based Economy|知识经济]]中维系竞争优势）包装为社会挑战承诺，导致社会科学与人文学科（SSH）被边缘化为工程技术的从属包装工具，侵蚀了基础研究的[[Epistemology|认识论]]自主性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
 > > - **使命倡导视角** 强调面对气候与公共卫生危机，科学必须打破象牙塔偏安状态，将[[Knowledge Production|知识生产]]与[[Public Value|公共价值]]创造直接挂钩，实现科学对人类生存危机的实质响应。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]
 >
 > > [!axis] 行政协调摩擦与自下而上探索不足

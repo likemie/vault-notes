@@ -9,7 +9,7 @@ subtype: event
 region: japan
 fact_region: "japan"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-20
 ---
 
 # Kokutai no Hongi
@@ -45,14 +46,14 @@ updated: '2026-05-18'
 
 > [!note]-
 > - 该文本在文部省思想局直接监督下，经过一稿又一稿的精雕细琢编写而成，作者和编辑身份模糊([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.76]])
-> - 文本将昭和天皇神化，合法化其在日本帝国地缘政治扩张中的领导地位（Beasley, 1950; Kublin, 1950; 引自 Partaken, 2022, p.76）
+> - 文本将昭和天皇神化，合法化其在日本帝国[[Geopolitics|地缘政治]]扩张中的领导地位（Beasley, 1950; Kublin, 1950; 引自 Partaken, 2022, p.76）
 > - 超大规模的《国体之本义》副本被印刷，分发给殖民地臣民和日本公民
 > - 在日本帝国遍布亚洲的殖民地中，阅读该文本被设为强制义务（Hyung & Im, 2017; 引自 Partaken, 2022, p.76）
 
 ## 影响与后果
 
 > [!success]
-> - Partaken 指出这种地缘政治教学法并非历史陈迹：由日本首相安倍晋三赞助的大阪某幼儿园被报道强迫幼儿每天早晨背诵 1890 年《教育敕语》（Imperial Rescript on Education）（Sposato, 2018; 引自 Partaken, 2022, p.76）
+> - Partaken 指出这种[[Geopolitics|地缘政治]]教学法并非历史陈迹：由日本首相安倍晋三赞助的大阪某幼儿园被报道强迫幼儿每天早晨背诵 1890 年《教育敕语》（Imperial Rescript on Education）（Sposato, 2018; 引自 Partaken, 2022, p.76）
 > - 《教育敕语》的核心段落要求臣民"一旦缓急，则义勇奉公，以扶翼天壤无穷之皇运"([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.76]])
 > - Partaken 以此案例说明[[Forced Knowledge Transfer\|强制知识转移]]如何作为殖民统治的工具——通过课程内容的精心设计和系统灌输，在殖民地臣民中制造特定的知识结构和主体性
 
@@ -65,5 +66,5 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Forced Knowledge Transfer]] — Kokutai no Hongi 是强制[[Knowledge Transfer\|知识转移]]的历史典范案例
-> - [[Knowledge Transfer]] — 该案例说明知识转移如何在地缘政治扩张中发挥核心作用
+> - [[Knowledge Transfer]] — 该案例说明知识转移如何在[[Geopolitics|地缘政治]]扩张中发挥核心作用
 

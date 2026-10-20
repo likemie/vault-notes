@@ -8,7 +8,7 @@ summary: "美国哲学家，田纳西大学诺克斯维尔分校荣休教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,8 +34,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Radical Constructivism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # John Hardwig
@@ -108,7 +107,7 @@ updated: 2026-10-16
 > - **学习科学与教育认识论路径** 纠正了[[Radical Constructivism\|激进建构主义]]盲目贬抑学术权威与显性教学的倾向，为理解学习者如何在专家支架与共同体证言引导下逐步走向成熟认识提供了认识论辩护。
 > - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将哈德威格的认识依赖理论确立为人机中介学习的哲学源流，论证现代人类知识生产历来深嵌于外部工具与专家网络之中，并以此破除脱离技术的虚假纯洁性幻想。
 
 ---

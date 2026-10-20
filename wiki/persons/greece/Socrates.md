@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维与省察生活的最高人�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,8 +44,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
 related_theories:
   - "[[Virtue Epistemology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Plato]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,8 +34,7 @@ related_theories:
   - "[[Path Dependence]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Anthony Giddens]]"
 confidence: medium

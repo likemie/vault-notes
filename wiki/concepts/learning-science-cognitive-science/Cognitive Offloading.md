@@ -10,10 +10,10 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 50
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/cognitive-load
   - theme/artificial-intelligence
@@ -67,7 +67,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
@@ -78,7 +77,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cognitive Offloading
@@ -296,7 +295,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义[[Epistemic Stances\|认识立场]]对认知卸载的调节分流机制，揭示表面顺从的发生机理并构建技术提示与教学法双轨干预支架。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，解构[[Generative Artificial Intelligence\|生成式人工智能]]介入下认知卸载的两种截然相反路径：在无支架任务中引发认知惰性与批判思维外包；在结构化支架下释放认知负荷赋能高阶探究。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从社会[[Epistemology\|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence\|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀[[Evaluative Judgement\|评价性判断]]与能力迁移。

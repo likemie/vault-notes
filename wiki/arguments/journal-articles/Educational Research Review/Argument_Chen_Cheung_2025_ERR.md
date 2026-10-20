@@ -112,20 +112,21 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[What Works Clearinghouse]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Liu_2025_IndHE]]"
 sources:
   - "[[sources/Chen_Cheung_2025_ERR/Chen_Cheung_2025_ERR|Chen_Cheung_2025_ERR]]"
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 88
+argument_related_count: 89
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -201,7 +202,7 @@ issuing_organization: ""
 > | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **结果变量：[[Academic Achievement\|学业成绩]]**<br>（Academic Achievement, AA） | 课程知识掌握、概念理解与客观学科测验成绩，反映学习者通过生成式 AI 辅助对课程内容的认知吸收与事实/[[Procedural Knowledge\|程序性知识]]掌握程度。 | 纳入 25 项研究；涵盖计算机编程测验（Kosar et al., 2024; Johnson et al., 2024）、医学骨科临床考试（Gan et al., 2024; Hui et al., 2025）及专业课期末成绩；测量工具以教师自编学科测试（$k=38$）为主，亦含标准化专业统考；AI 提供即时概念解释、步骤提示与错题解析。 |
-> | **结果变量：[[Language Skills\|语言技能]]**<br>（Language Skills, LS） | 二语/外语（English as a Second/Foreign Language, ESL/EFL）语境下的写作流利度、语法词汇掌握、体裁结构组织、口语交际流利度与阅读理解综合产出。 | 纳入 21 项研究；涵盖二语学术写作评分、托福/雅思口语即时对话流利度（Liu et al., 2025; Wang et al., 2024）；测量工具采用标准化写作量规、国际二语测评及教师作文评分量规；教学规程包括多轮提示词交互润色、语法改错、语篇重构与低焦虑[[Dialogue in Education\|对话]]演练。 |
+> | **结果变量：[[Language Skills\|语言技能]]**<br>（Language Skills, LS） | 二语/外语（English as a Second/Foreign Language, ESL/EFL）语境下的写作流利度、语法词汇掌握、体裁结构组织、口语交际流利度与阅读理解综合产出。 | 纳入 21 项研究；涵盖二语学术写作评分、托福/雅思口语即时对话流利度（[[Argument_Liu_2025_IndHE\|Liu et al., 2025]]; Wang et al., 2024）；测量工具采用标准化写作量规、国际二语测评及教师作文评分量规；教学规程包括多轮提示词交互润色、语法改错、语篇重构与低焦虑[[Dialogue in Education\|对话]]演练。 |
 > | **结果变量：[[Affective Outcomes\|情感动机状态]]**<br>（Affective-Motivational States, AMS） | 学习动机、学业[[Self-Efficacy\|自我效能感]]、学科学习兴趣、[[Student Attitude\|学习态度]]与心理投入度，以及课业求助焦虑降低程度等非认知情感维度。 | 纳入 25 项研究；采用标准化动机策略学习[[Questionnaire\|问卷]]（Motivated Strategies for Learning Questionnaire, [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]）、学业自我效能感量表与课程投入度问卷（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）；AI 提供随时响应、无评判威胁的个性化陪伴界面，有效满足[[Self-Determination Theory\|自我决定理论]]（SDT）所强调的自主性与胜任感心理需求，并契合[[Control-Value Theory\|控制-价值理论]]（CVT）关于高过程控制感诱发积极学业情绪的机制。 |
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]、复杂问题解决、[[Computational Thinking\|计算思维]]及[[Reflexivity\|反思性]]论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州[[Critical Thinking Disposition\|批判性思维倾向]]/技能测验（[[California Critical Thinking Disposition Inventory]] / Skills Test, CCTDI/[[California Critical Thinking Skills Test\|CCTST]]）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
 > | **结果变量：[[Metacognition\|元认知能力]]**<br>（Metacognition, MC） | 学习者对自己认知加工过程的主动监控、自主调节、学习计划制订、策略反思与评估能力，即[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）。 | 纳入 10 项研究；采用元认知意识量表（Metacognitive Awareness Inventory, MAI）与自主学习策略量表（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）；初级研究大多仅提供开放式工具交互而缺乏显性监控脚手架，导致干预效应微弱且未达统计显著（$g^+ = 0.078$），诱发[[Metacognitive Laziness\|元认知惰性]]。 |
@@ -302,7 +303,7 @@ issuing_organization: ""
 > - **[[Metacognition\|元认知]]（MC）** 促进缺失警示，常规交互缺乏显性反思支架，易诱发思维外包与“[[Metacognitive Laziness\|元认知惰性]]”
 
 > [!evidence-grid]- 支持步骤一主张的初级研究实证证据
-> - **[[Language Skills\|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时对话中提供极低焦虑的演练环境，产生超大促学效应（Liu et al., 2025; Wang et al., 2024）。（pp. 9–10）
+> - **[[Language Skills\|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时对话中提供极低焦虑的演练环境，产生超大促学效应（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]; Wang et al., 2024）。（pp. 9–10）
 > - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时助教角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
 > - **情感动机提升机制** AI 工具以无评判压力的对话界面响应学生提问，极大降低了求助焦虑并提升了学业[[Self-Efficacy\|自我效能感]]（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）。（pp. 10, 15）
 > - **高阶思维促进与张力** 在国际关系辩论与方案设计中，ChatGPT 作为思维[[Scaffolding\|脚手架]]促进了[[Reflexivity\|反思性]]论证（de la Puente et al., 2024; Lee et al., 2024），但部分研究也警示其可能降低深层逻辑推断质量（Stadler et al., 2024）。（pp. 15, 17）

@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在日常、真实复杂�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Effect Size]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Effectiveness Trial
@@ -173,5 +172,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度反思全英大规模实效试验中高频出现的效应归零现象，提出在规模化进程中统筹管理统计功效诉求与[[Implementation Fidelity\|实施保真度]]稀释的制度框架。

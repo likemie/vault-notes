@@ -11,7 +11,7 @@ summary: "通过系统测量与标准化跨企业或跨国生产制造绩效指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,7 +38,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Triangulation]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

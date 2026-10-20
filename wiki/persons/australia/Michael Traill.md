@@ -8,7 +8,7 @@ summary: "澳大利亚前麦格理银行银行家、社会创投（SVA）创会�
 type: person
 nationality: "australia"
 person_region: "australia"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,8 +35,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Policy Mobility]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[David Gonski]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Michael Traill
@@ -127,5 +126,5 @@ updated: 2026-10-16
 > - 核心理论与概念：[[Venture Philanthropy]]、[[Philanthrocapitalism]]、[[Policy Network]]、[[Policy Mobility]]
 > - 关键盟友与同行：[[David Gonski]]、[[Michael Barber]]
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统剖析特雷尔及其领衔的 SVA 政策网络如何在澳大利亚公共教育中装配中介实体，批判其对公共财政再分配与民主问责的侵蚀。

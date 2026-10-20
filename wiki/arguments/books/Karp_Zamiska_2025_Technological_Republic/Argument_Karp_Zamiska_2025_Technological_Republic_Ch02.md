@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02"
 argument_display_title: "Sparks of intelligence"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Big Science]]"
   - "[[General Purpose Technology]]"
@@ -158,7 +159,7 @@ updated: 2026-10-20
 
 基础科学的好奇心与国家战时动员深度交织，造就了重塑 20 世纪大国格局的核力量。
 
-> [!claim] 科学探索从来无法脱离地缘政治与国家战略使命
+> [!claim] 科学探索从来无法脱离[[Geopolitics|地缘政治]]与国家战略使命
 > 基础科学的学术好奇心与国家战时资源的集中投入相互催化，催生了重塑国际秩序的核心技术，揭示出科技研发与大国力量政治不可分割的共生关系（pp. 16–18）。
 
 > [!contrast-table] 奥本海默时期的核物理学 vs. 当代大语言模型与人工智能

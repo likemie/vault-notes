@@ -8,7 +8,7 @@ aliases:
 summary: "算法理性在持续优化评估环境中产生的理想学生参照形象，作为比较标准传递对学生表现的具体期望，并通过与数字自我的差异推动自我优化和算法治理。"
 type: concept
 domain: "educational-technology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Construct]]"
   - "[[Digital Self]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-09-22
+updated: 2026-10-20
 ---
 
 # Digital Optimum
@@ -77,7 +76,7 @@ updated: 2026-09-22
 
 > [!tip]-
 > - **Beer 的算法治理**Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.226]])
-> - **[[Societies of Control]]** Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的[[Disciplina and Doctrina\|规训]]塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222, 226]])
+> - **[[Societies of Control]]** Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的规训塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222, 226]])
 
 ## 争议与批评
 

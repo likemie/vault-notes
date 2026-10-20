@@ -8,7 +8,7 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,7 +37,6 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
   - "[[Case Study]]"
 related_instruments: []
 related_persons:

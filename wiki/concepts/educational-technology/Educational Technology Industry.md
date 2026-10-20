@@ -6,7 +6,7 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 - higher-ed
 - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[STEM Education]]"
   - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
@@ -39,13 +40,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
 
 > [!info] 定义
-> 教育科技产业（Educational Technology Industry, EdTech）指以数字技术为手段提供教育产品、服务和平台的营利性和非营利性商业生态系统。[[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 指出 EdTech 是"大生意"——股票市场份额持续增长——并将数字化定位为教育地缘政治转型的核心技术驱动力：它重新绘制了教育的边界，从教学法到行政管理到教师培训几乎无所不及。
+> 教育科技产业（Educational Technology Industry, EdTech）指以数字技术为手段提供教育产品、服务和平台的营利性和非营利性商业生态系统。[[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 指出 EdTech 是"大生意"——股票市场份额持续增长——并将数字化定位为教育[[Geopolitics|地缘政治]]转型的核心技术驱动力：它重新绘制了教育的边界，从教学法到行政管理到教师培训几乎无所不及。
 >
 > > 例：COVID-19 疫情期间全球教育被"弹射进数字轨道"——这不仅改变了教学方式，也暴露和加剧了数字不平等。但 Amos 强调，即使没有疫情，数字化也在深刻改造教育。由疫情加速的转型只是让已有的趋势更可见、更快([[Argument_Amos_2022_Springer\|Amos, 2022, p.60]])。
 >
@@ -80,7 +81,7 @@ updated: 2026-10-16
 
 ## 对教育地缘政治的影响
 
-> [!success] 对教育地缘政治的影响
+> [!success] 对教育[[Geopolitics|地缘政治]]的影响
 > 数字化正在重新绘制教育的制度地图([[Argument_Amos_2022_Springer\|Amos, 2022, pp.57–58]])：
 >
 > - **[[Regional University Alliances\|区域大学联盟]]** [[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、[[EU|欧盟]]委员会框架下的欧洲大学联盟——在科研合作、师生流动、联合学位项目中跨越国界甚至大洲边界

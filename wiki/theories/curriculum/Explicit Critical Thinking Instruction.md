@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Authentic Instruction]]"
   - "[[Mentorship]]"
+  - "[[Generic Skills]]"
   - "[[Scaffolding]]"
   - "[[Individualised Instruction]]"
   - "[[Creativity]]"
@@ -53,7 +54,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Random-Effects Model]]"
-  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts:
@@ -68,7 +68,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Explicit Critical Thinking Instruction
@@ -110,7 +110,7 @@ updated: 2026-10-17
 >   > [!evidence-grid]- 证据
 >   > - **[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 元分析** 341 项标准化实验与准实验[[Effect Size\|效应量]]。Ennis 课程模式检验显示，结合显性独立教学与学科融入的混合模式（Mixed approach）获得最高增益（$g+ = 0.38$）；同时，将[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]结合的三维复合干预产生最强效应（$g+ = 0.57$）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
 >   > - **Marin and Halpern (2011)** 两项[[Experimental Research\|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
-> - **推导** 如果批判性思维是一组可独立于学科内容教学的通用认知技能（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
+> - **推导** 如果批判性思维是一组可独立于学科内容教学的[[Generic Skills|通用认知技能]]（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
 
 > [!proposition-chain] 核心命题二｜教师培训是调节显性教学效果的关键[[Variable\|变量]]
 > - **前提一** 元分析与干预实证表明，当教师接受了批判性思维教学的专门培训（明确掌握提问句干、[[Scaffolding\|认知脚手架]]设计）、且教学过程融入[[Individualised Instruction|个别化指导]]时，学生批判性思维技能的获得最高（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
@@ -213,6 +213,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 [[IB Diploma Programme\|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research\|混合方法研究]]检验显性[[Critical Thinking\|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research\|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis\|元分析]]证据。

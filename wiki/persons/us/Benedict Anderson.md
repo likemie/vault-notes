@@ -28,6 +28,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Official Knowledge]]"
   - "[[Technological Republic]]"
+  - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm Wars]]"
   - "[[Cosmopolitanism]]"
@@ -35,7 +36,6 @@ related_concepts:
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -108,7 +108,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究。
 > - **认知人类学与宏观组织路径** 为解释人类如何跨越[[Dunbar's Number|邓巴数]]认知上限（约 150 人）开展超大规模跨地域协作提供了核心文化分析工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
-> - **[[Technological Republic|技术共和国]]地缘政治路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
+> - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。

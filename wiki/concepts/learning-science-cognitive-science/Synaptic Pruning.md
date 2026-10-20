@@ -5,7 +5,7 @@ aliases:
 summary: "通过清除低效或较少使用连接来精简神经回路的过程，用于解释大脑如何在发展中提高处理效率和功能专门化。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - learning-science
 - cognitive-science
 related_concepts:
+  - "[[Neuroplasticity]]"
   - "[[Prefrontal Cortex]]"
   - "[[Synaptogenesis]]"
 related_theories: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 > [!abstract] 核心机制
 > 突触修剪基于 **Hebb 原则** 经常使用的神经通路将被加强，而不经常需要的通路将被移除([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])。
 >
-> 这一过程被认为由谷氨酸受体介导的突触可塑性（即长时程增强，Long Term Potentiation）所支撑([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])。
+> 这一过程被认为由谷氨酸受体介导的[[Neuroplasticity|突触可塑性]]（即长时程增强，Long Term Potentiation）所支撑([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])。
 
 ## 发展时间线
 
@@ -58,6 +59,6 @@ updated: '2026-05-18'
 
 ## 与脑可塑性的关系
 
-> [!info] 与脑可塑性的关系
+> [!info] 与[[Neuroplasticity|脑可塑性]]的关系
 > 突触修剪与[[Synaptogenesis\|突触发生]]一起统称为突触可塑性（Synaptic Plasticity），是脑可塑性的两个主要细胞层面过程。它们共同影响细胞间通信的效能——涉及神经递质跨越突触的释放([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])。
 

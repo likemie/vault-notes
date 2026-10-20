@@ -12,7 +12,7 @@ aliases:
 summary: "托马斯·谢林奠基的战略博弈与强制议价理论，主张伤害能力即为谈判筹码、战争本质是流动的讨价还价过程，并在大国竞争中延伸为由算法与软件硬实力决定的新型威慑；经帕特南与卡斯特罗扩展至国际政治经济学与超国家治理领域，揭示跨国制度谈判是一场国际技术理性与国内政治可行性之间的双层博弈，主权借款国常将外部苛刻条件策略性转化为化解本土政治阻力的博弈杠杆。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 29
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,13 +37,13 @@ related_concepts:
   - "[[Scapegoat Mechanism]]"
   - "[[Multilateral Development Bank]]"
   - "[[Policy Conditionalities]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Other Transaction Authority]]"
   - "[[Reliability]]"
   - "[[Constructivist Paradigm]]"
   - "[[Determinism]]"
+  - "[[Geopolitics]]"
   - "[[Strategic Compliance]]"
   - "[[Paradigm]]"
 related_theories:
@@ -53,7 +53,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Participant Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Schelling]]"
@@ -148,7 +147,7 @@ updated: 2026-10-20
 > [!theory-proposition] 命题五｜主权借款国通过“策略性借用”将外部苛刻条件转化为压制国内阻力的博弈筹码
 > **解释** 在面临国内强大的既得利益集团（如具有全国罢工能力的教师工会或传统官僚）抵制时，本土改革派内阁成员并非被动接受外部信贷大棒，而是主动实行“策略性借用”：他们将多边银行设定的[[Policy Conditionalities|贷款附加条件]]作为博弈的“外部替罪羊”（Scapegoat）与挡箭牌，向国内工会宣称“若不推进人事改革则外部巨额贷款将被切断”，从而化解国内政治对抗、迫使反对派妥协。但一旦外部条件触及执政合法性底线，借款国即会断然行使主权实质否决权终止贷款。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–467)]]
 >
-> **应用实例** 玻利维亚政府在推行教育人事改革时，利用多边银行贷款附加条件强推教师能力测验并取消工会代扣税，试图以此压制工会特权；然而当工会反弹引发全国戒严与政治动荡时，内阁为了政治生存不得不向工会全面妥协，暂时搁置了多边银行的条件，清晰显现出国内政治生存压倒外部信贷[[Disciplina and Doctrina|规训]]的实质博弈边界。
+> **应用实例** 玻利维亚政府在推行教育人事改革时，利用多边银行贷款附加条件强推教师能力测验并取消工会代扣税，试图以此压制工会特权；然而当工会反弹引发全国戒严与政治动荡时，内阁为了政治生存不得不向工会全面妥协，暂时搁置了多边银行的条件，清晰显现出国内政治生存压倒外部信贷规训的实质博弈边界。
 
 ---
 
@@ -202,10 +201,10 @@ updated: 2026-10-20
 > > [!axis] 技术[[Determinism|决定论]] vs. 战略领导力与非物质力量
 > > 探讨前沿算法与精准武器是否单向决定了大国外交议价的底牌。
 > >
-> > - **算法[[Hard Power|硬实力]]派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025, pp. 31–32]]）** 主张智能化时代战略威慑完全依托于算力、代码与自主协同武器系统，技术代差直接划定地缘政治红线。
+> > - **算法[[Hard Power|硬实力]]派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025, pp. 31–32]]）** 主张智能化时代战略威慑完全依托于算力、代码与自主协同武器系统，技术代差直接划定[[Geopolitics|地缘政治]]红线。
 > > - **传统战略学者** 认为过分迷信软件算法可能陷入技术[[Determinism|决定论]]，忽视了政治合法性、民族意志与危机决策中的战略欺骗等复杂[[Variable|变量]]。
 >
-> > [!axis] 全能外源[[Disciplina and Doctrina|规训]] vs. 本土双层博弈的决定性边界
+> > [!axis] 全能外源规训 vs. 本土双层博弈的决定性边界
 > > 探讨第三世界国家在面对国际金融机构时，究竟是绝对受限的被支配者，还是具备独立博弈能动性的战略主体。
 > >
 > > - **[[Dependency Theory|依附论]]与世界体系批判派** 认为多边银行与跨国资本通过债务陷阱剥夺了受援国的政策自主权，主权国家沦为外源规训的代用工具。

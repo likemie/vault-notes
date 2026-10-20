@@ -9,7 +9,7 @@ aliases:
 summary: "指具备在广泛领域内理解、学习并执行人类所能完成的任何智力任务的合成计算智能系统。2023年微软研究团队通过常识物理堆叠与独角兽绘图等实验提出大语言模型已展现出通用人工智能火花，标志着人工智能从专用弱AI向具备跨学科抽象推理与通用表征能力的范式演进，并引发关于机器意识、人机协同与地缘软件战争的深远讨论。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Artificial General Intelligence
@@ -86,7 +87,7 @@ updated: 2026-10-17
 > 探讨大语言模型在海量语料与自注意力机制驱动下，是否自发演化出了超越单纯记忆的抽象世界模型与通用推理。
 
 > [!claim] Bubeck et al. (2023)
-> **通用推理火花的实证判定** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]等学者通过对原始 [[General Purpose Technology|GPT]]-4 模型展开涵盖物理常识、几何绘图、代码合成与心理理论的跨学科测试，论证该模型在无专门微调的情况下能够灵活解决多领域复杂挑战，证明模型已具备形式推理与常识理解能力，可被判定为 AGI 的早期火花。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 19)]]
+> **通用推理火花的实证判定** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]等学者通过对原始 [[General Purpose Technology|GPT]]-4 模型展开涵盖物理常识、几何绘图、代码合成与[[Theory of Mind|心理理论]]的跨学科测试，论证该模型在无专门微调的情况下能够灵活解决多领域复杂挑战，证明模型已具备形式推理与常识理解能力，可被判定为 AGI 的早期火花。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 19)]]
 
 ---
 

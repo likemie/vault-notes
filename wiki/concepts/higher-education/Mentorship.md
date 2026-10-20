@@ -7,10 +7,10 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知与职业发展的过程，在科学精英传承、高阶思维教学干预以及产学协同工程人才培育与技术情境化中发挥核心催化作用。"
 type: concept
 domain: "higher-education"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/higher-education
   - theme/medical-education
@@ -45,7 +45,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Mentorship
@@ -215,7 +214,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] — 基于 208 篇诺贝尔医学奖演讲与学术家族树[[Network Analysis\|网络分析]]，系统揭示导师制在科学精英培养中的决定性地位与致谢缺失现象。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research\|实验研究]]，定量确立导师指导在三维复合教学策略（A+D+M）中发挥关键认知催化功能（$g+ = 0.57$）。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入考察[[Semiconductor Research Corporation|半导体研究公司]]（SRC）产学导师制（Industrial Mentorship），揭示工业界导师如何通过将科研前沿情境化、消除信息不对称并依托技术大会（TECHCON）构建高阶工程人才直聘网络。

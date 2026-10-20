@@ -9,10 +9,10 @@ summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1943"
 died: ""
 lifespan: "1943–至今"
@@ -24,6 +24,7 @@ tags:
   - latin-america
   - region/argentina
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
   - "[[Scientism]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Atilio Borón
@@ -64,7 +65,7 @@ updated: 2026-10-17
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷著名马克思主义政治学家、社会学家、公共知识分子；布宜诺斯艾利斯大学社会科学系政治与社会理论讲席教授、阿根廷国家科学与技术研究委员会（CONICET）高级研究员；曾长期担任拉丁美洲社会科学理事会（CLACSO）执行秘书长（1997–2006）。
 > - **核心角色** 当代拉丁美洲与全球批判马克思主义与反帝国主义理论的领军旗手；荣获[[UNESCO|联合国教科文组织]]国际何塞·马蒂奖（UNESCO International José Martí Prize, 2009）；在苏联解体后坚决抵制[[Postmodernism|后现代主义]]放弃阶级斗争的虚无倾向，系统倡导“重返马克思主义”，论证马克思主义依然是当代人类认识并超越资本主义危机“不可逾越的思想地平线”。
-> - **代表贡献** 提出当代新自由主义全球化下帝国主义霸权的新形态机制；主编出版三卷本权威理论巨著《当今马克思主义理论：问题与前景》（2006）；出版《帝国与帝国主义》（2002）、《新自由主义时代的反思与批判》（2005）与《拉丁美洲地缘政治》（2012）。
+> - **代表贡献** 提出当代新自由主义全球化下帝国主义霸权的新形态机制；主编出版三卷本权威理论巨著《当今马克思主义理论：问题与前景》（2006）；出版《帝国与帝国主义》（2002）、《新自由主义时代的反思与批判》（2005）与《拉丁美洲[[Geopolitics|地缘政治]]》（2012）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论[[Atilio Borón|博隆]]倡导“必然且被延宕的马克思主义回归”
 > 首先，马克思主义作为一种[[Critical Theory|批判理论]]的命运——或者借用萨特被博隆所引述的论述，作为“我们时代不可逾越的批判地平线”——既未脱离社会主义革命带来的变迁，亦未脱离 20 世纪人民战争的起伏。这套作为历史理论并反过来提供理论之历史的传统得以延续，源于资本主义自身无法克服其制度所内生的剥削、贫困与生态毁灭，以及马克思主义能够随着被压迫者的解放斗争不断自我深化的非凡能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 76–77)]]

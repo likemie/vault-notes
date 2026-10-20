@@ -6,23 +6,21 @@ aliases:
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - subject/educational-philosophy
 related_concepts:
   - "[[Learner Autonomy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
   - "[[Ontology]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Baruch Spinoza]]"
@@ -33,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Conatus
@@ -43,7 +41,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 欲力（conatus，常译为自我保存的努力、生机）是[[Baruch Spinoza\|斯宾诺莎]]主义哲学的核心概念，指实体或个体倾向于持续存在并保存自我（persist in being）的内在力量与挣扎。在教育哲学语境中，它被转译为一种指向学生内在无意识情感（unconscious affects）与主体欲望的[[Learner Autonomy\|自主学习]]驱动力。它主张真正的学习发生在内在情感变动之中，而非受到外部理性或社会契约的强制[[Disciplina and Doctrina\|规训]]。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
+> 欲力（conatus，常译为自我保存的努力、生机）是[[Baruch Spinoza\|斯宾诺莎]]主义哲学的核心概念，指实体或个体倾向于持续存在并保存自我（persist in being）的内在力量与挣扎。在教育哲学语境中，它被转译为一种指向学生内在无意识情感（unconscious affects）与主体欲望的[[Learner Autonomy\|自主学习]]驱动力。它主张真正的学习发生在内在情感变动之中，而非受到外部理性或社会契约的强制规训。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向个体维持自我生命力并持续生长的内在欲望与本源力量。
@@ -57,7 +55,7 @@ updated: 2026-10-15
 > [!feature] 核心要素
 > - **自我保存与存在的坚持** 个体力图在不断变动的情感和外界相遇中维持其独特的生命力和个体性。
 > - **无意识情感的本源位置** 强调学习和智识发展植根于无意识的身体相遇和情感波动的内在层面。
-> - **对绝对理性的内在反抗** 反对由外部社会和公共机构施加的、旨在限制和[[Disciplina and Doctrina\|规训]]个体欲望的绝对工具性理性。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
+> - **对绝对理性的内在反抗** 反对由外部社会和公共机构施加的、旨在限制和规训个体欲望的绝对工具性理性。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 ---
 
@@ -67,7 +65,7 @@ updated: 2026-10-15
 
 ### 命题一　基于欲力的教育能够激发学生的内在自主学习并抵抗外部理性规训
 
-> [!concept-lens] 内在[[Learner Autonomy\|自主学习]]与外部[[Disciplina and Doctrina\|规训]]的冲突
+> [!concept-lens] 内在[[Learner Autonomy\|自主学习]]与外部规训的冲突
 > 探讨欲力在激发学生本源性学习兴趣和情感能量中的地位，并反思外部理性强制对个体生命力与学习效能的抑制。
 
 > [!claim] Cole, D. R.
@@ -102,5 +100,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 将[[Baruch Spinoza\|斯宾诺莎]]的欲力概念应用于教育批判，提倡构建以欲力与情感政治为基础的斯宾诺莎主义课程，以抗衡应试取向的理性训练。

@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,8 +28,7 @@ related_concepts:
   - "[[Floating Signifier]]"
 related_theories:
   - "[[Network Society]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Global Policy Space
@@ -121,6 +120,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条[[Discourse|话语]]线索，揭示其在拉丁美洲落地的多级转译与实践变形。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 探讨全球测量网络（如 [[PISA]]）作为主导节点对全球政策空间的[[Performativity\|操演性]]宰制，批判了由此导致的比较教育量化技术化。

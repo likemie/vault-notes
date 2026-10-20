@@ -5,9 +5,9 @@ summary: "质性研究中将研究者的假设和解释带回参与者征求意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 9
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, validation, data-quality]
 related_concepts:
@@ -20,13 +20,12 @@ related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Cross-checking]]"
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Member Tests
 
@@ -86,5 +85,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将成员核验作为陈述分析的安全措施之一；Blease and Cohen（1990）把访谈解释带回教师征求意见，并与学生讨论自我概念量表得分。

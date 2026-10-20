@@ -6,7 +6,7 @@ aliases:
 summary: "学生对特定学科、学习方法或教育环境的总体感受与想法，是学习的情感维度；问题本位学习通过主动参与问题解决培养积极态度与热情。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Student Attitude
@@ -85,5 +84,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]报告，PBL 对学生态度的效应（d = 0.57）为高水平，源于主动参与[[Problem Solving\|问题解决]]培养的积极态度与热情；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）

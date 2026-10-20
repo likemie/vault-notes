@@ -39,8 +39,8 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Big Ideas]]"
   - "[[Variable]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Hierarchy of Future Issues in Comparative Education]]"
   - "[[Posthumanism]]"
   - "[[Emergence]]"
@@ -97,7 +97,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2023
 doi: ""
 citation_aliases:
@@ -195,17 +195,17 @@ citation_aliases:
 > - **科学混乱 (Scientific confusion)** 科学一词定义极其不稳定，混淆了计量经济学模型（Harold Noah, 1973）、物理学式精确预测（Brian Holmes, 1984）、探寻事物原因与拥有海量硬数据四种含义。(p.328)
 
 > [!warrant]- 推理桥梁
-> 作者通过揭示学科表面的繁荣与深层的概念停滞之间的不协调，推论出比较教育的知识结构是由未丢弃的历史行李组成的。如果一个学科只能靠两百年前的弱合法性生存，且在面对重大地缘政治危机（全球疫情、乌克兰战争、太平洋竞争）时依然抱着旧假设，那么它必须进行彻底的重新思考。(pp.328–329)
+> 作者通过揭示学科表面的繁荣与深层的概念停滞之间的不协调，推论出比较教育的知识结构是由未丢弃的历史行李组成的。如果一个学科只能靠两百年前的弱合法性生存，且在面对重大[[Geopolitics|地缘政治]]危机（全球疫情、乌克兰战争、太平洋竞争）时依然抱着旧假设，那么它必须进行彻底的重新思考。(pp.328–329)
 
 ---
 
 ### 论证步骤二：学术史上的规训惩罚与当代去殖民化
 
 > [!claim] 步骤二主张
-> 重构学术议程总是充满政治阻力。历史上的[[Paradigm\|范式]]转型留下了严重的[[Disciplina and Doctrina\|规训]]惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
+> 重构学术议程总是充满政治阻力。历史上的[[Paradigm\|范式]]转型留下了严重的规训惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
-> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King\|埃德蒙·金]]（Edmund King）试图以权威姿态去[[Disciplina and Doctrina\|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
+> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King\|埃德蒙·金]]（Edmund King）试图以权威姿态去规训Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
 > - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示

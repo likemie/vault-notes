@@ -7,7 +7,7 @@ aliases:
 summary: "指主权国家之间或在国际组织框架下，通过制度化、常态化的信息披露、跨国数据收集、相互审议与横向监控机制，对各成员国的政策制定与执行进行全方位监督与评估的软法治理机制；它不依赖硬性法律制裁，而是通过建构透明度预期与政策解释义务，形成超越传统主权管辖的跨国政策协调与合规网络。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Peer Pressure]]"
   - "[[Institutional Displacement]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
@@ -33,7 +32,6 @@ related_theories:
   - "[[Governmentality]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -119,7 +117,7 @@ updated: 2026-10-20
 ### 命题一　多边监督通过建立信息披露与政策辩护的规范预期弥补国际组织硬法权威的缺失
 
 > [!concept-lens] [[Institutional Displacement|制度替代]]维度
-> 本类命题探讨软法多边治理如何通过程序透明度与对等审议，建构起替代传统主权科层命令的替代性[[Disciplina and Doctrina|规训]]秩序。
+> 本类命题探讨软法多边治理如何通过程序透明度与对等审议，建构起替代传统主权科层命令的替代性规训秩序。
 
 > [!claim] Martens, K. et al.
 > **软法机制对法定权威的制度替代** 马滕斯等学者（Martens et al., 2004）论证，在诸如[[OECD|经合组织]]这类既无立法权又无财政借贷杠杆的国际机构中，多边监督并非无力的象征，而是一种高度精密的软法替代策略；通过将政策审议置于多边舞台上，国家被纳入常态化的政策解释与互相检查程序中，使得偏离多边共同规范的单边政策必须承受高昂的解释成本与正当性赤字。

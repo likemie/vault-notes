@@ -7,10 +7,10 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过量化指标、跨国测评排名与最佳实践工具箱对主权国家实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/political-economy-geopolitics
   - theme/soft-power
@@ -24,44 +24,58 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Discourse]]"
   - "[[Student Mobility]]"
+  - "[[Geopolitics]]"
   - "[[Cultural Diplomacy]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
+  - "[[Community of Shared Future for Mankind]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Epistemic Community]]"
+  - "[[Epistemology]]"
   - "[[Open-Mindedness]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[Winner's Fallacy]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Policy Borrowing]]"
+  - "[[South-South Cooperation]]"
   - "[[Governing by Numbers]]"
+  - "[[Education Going Global]]"
   - "[[Technological Republic]]"
+  - "[[Cultural Recognition]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Chinese Exceptionalism]]"
   - "[[International Education]]"
   - "[[Performativity]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
 related_theories:
-  - "[[Strategic Bargaining Theory]]"
+  - "[[Cultural Political Economy]]"
+  - "[[Neo-Tributary Perspective]]"
+  - "[[Tianxia Heuristic]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
+  - "[[Critical Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Joseph S. Nye Jr.]]"
   - "[[Confucius]]"
+  - "[[Gita Steiner-Khamsi]]"
   - "[[Jane Knight]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Belt and Road Initiative]]"
   - "[[Start Making a Reader Today]]"
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
-  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
@@ -81,7 +95,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 区别于军事威慑与经济收买等[[Hard Power|硬实力]]形态，软实力聚焦意识形态、价值规范、文化制度与知识[[Discourse|话语]]的非强制性吸纳与同化功能。
 > - **用途** 帮助研究者透视国家为何在非高敏感领域（如跨境高等教育、学术交流、技术援助与留[[Student Mobility|学生流动]]）进行战略投资；解释国际多边组织如何通过设立自愿性测评（如 [[PISA]]）和发布指标实现超国家层面的政策协调与远处规制。
-> - **边界** 软实力不等于纯粹的学术中立合作（它始终服务于地缘政治与国家利益诉求），也不等于一般的[[Cultural Diplomacy|文化外交]]（文化外交是其具体政策载体，而软实力是底层权力[[Analytic Framework|分析框架]]）。
+> - **边界** 软实力不等于纯粹的学术中立合作（它始终服务于[[Geopolitics|地缘政治]]与国家利益诉求），也不等于一般的[[Cultural Diplomacy|文化外交]]（文化外交是其具体政策载体，而软实力是底层权力[[Analytic Framework|分析框架]]）。
 
 > [!citation-card] 软实力的核心定义与吸引力机制
 > 软实力是让别人想要你所想要的东西的能力。它依靠的是一个国家文化、政治价值观与外交政策的吸引力，而非依赖经济诱惑或军事威胁的强迫。当你的政策在他人眼中被视为合法且正当时，你的软实力就会成倍放大。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]
@@ -94,7 +108,7 @@ updated: 2026-10-20
 > *International organisations exercise 'soft power by hard facts' by utilizing quantified comparative data and [[Performance Indicators]] to steer national policy agendas in the absence of coercive legal authority.*
 
 > [!citation-card] 软实力投射对经济硬实力的依附脆弱性
-> 尽管公共外交叙事充满合作共赢与人类命运共同体的说辞，但“一带一路”实质上是一项经济硬实力推进工具。如果经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择施展国作为目的地的沿线学生，主要是被潜在的良好就业前景与政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
+> 尽管公共外交叙事充满合作共赢与[[Community of Shared Future for Mankind|人类命运共同体]]的说辞，但“[[Belt and Road Initiative|一带一路]]”实质上是一项经济硬实力推进工具。如果经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择施展国作为目的地的沿线学生，主要是被潜在的良好就业前景与政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 >
 > *Despite the public diplomacy narratives of 'win-win' and 'shared community,' the BRI is a de facto economic hard power instrument. Heavy reliance on economic power would make the application of higher education as soft power tool less potent and steadfast if Chinese economic prowess were to diminish... Students' utilitarian interests would fade if these pull factors changed for the worse.*
 
@@ -108,11 +122,11 @@ updated: 2026-10-20
 ## 概念辨析
 
 > [!contrast-table] 权力形态与治理工具多维对比
-> | 维度 | 传统[[Hard Power|硬实力]]（Hard Power） | 传统软实力（Soft Power） | 巧实力（[[Start Making a Reader Today]] Power） | [[Soft Power by Hard Facts|以硬事实施展软权力]]（Soft Power by Hard Facts） |
+> | 维度 | 传统[[Hard Power\|硬实力]]（Hard Power） | 传统软实力（Soft Power） | 巧实力（[[Start Making a Reader Today]] Power） | [[Soft Power by Hard Facts\|以硬事实施展软权力]]（Soft Power by Hard Facts） |
 > |:---|:---|:---|:---|:---|
-> | **核心资源** | 军事装备、金融储备、经济制裁壁垒 | 文化产品、政治哲学、对外援助声誉 | 物质惩罚工具与规范认同工具的战略组合 | 跨国可比统计量、标准化测评、[[Performance Indicators|绩效指标]]数据库 |
-> | **权力作用机制** | 指挥式权力：强制服从、威慑与金钱收买 | 同化式权力：规范吸引、制度示范与价值内化 | 上下文智力：依据情境灵活配置胡萝卜与大棒 | 认识论规制：通过“事实”定义问题、数字作为[[Façade of Rationality|理性表象]]的脚手架与命名羞辱 |
-> | **主导行为体** | 主权民族国家、地缘军事集团 | 主权国家、国家文化机构（[[Confucius|孔子]]学院/歌德学院） | 国家外交决策层、国防与外贸联合部门 | 国际政府间组织（[[OECD]]、世界银行）、跨国智库与非政府评估网络 |
+> | **核心资源** | 军事装备、金融储备、经济制裁壁垒 | 文化产品、政治哲学、对外援助声誉 | 物质惩罚工具与规范认同工具的战略组合 | 跨国可比统计量、标准化测评、[[Performance Indicators\|绩效指标]]数据库 |
+> | **权力作用机制** | 指挥式权力：强制服从、威慑与金钱收买 | 同化式权力：规范吸引、制度示范与价值内化 | 上下文智力：依据情境灵活配置胡萝卜与大棒 | 认识论规制：通过“事实”定义问题、数字作为[[Façade of Rationality\|理性表象]]的脚手架与命名羞辱 |
+> | **主导行为体** | 主权民族国家、地缘军事集团 | 主权国家、国家文化机构（[[Confucius\|孔子]]学院/歌德学院） | 国家外交决策层、国防与外贸联合部门 | 国际政府间组织（[[OECD]]、世界银行）、跨国智库与非政府评估网络 |
 > | **在教育中的表现** | 冻结留学签证、科研禁运、关闭涉外办学项目 | 设立政府奖学金、输出本国课程、推广国家语言 | 附带政治条件的教育贷款、定向人才培养协议 | [[PISA]] 跨国排名的软治理、SABER 政策工具箱、最佳实践模板推介 |
 
 ---
@@ -154,24 +168,24 @@ updated: 2026-10-20
 > [!concept-lens] 规范合法性与自愿认同机制
 > 探讨软实力的深层有效性为何取决于接受方对施展方政策与文化合法性的自愿认可与心理契合，而非外在强行灌输。
 
-> [!claim] [[Joseph S. Nye Jr.|Nye, J. S.]] & 余婧然和谢爱磊
+> [!claim] Nye, J. S. & 余婧然和谢爱磊
 > **自愿认可决定有效性** 软实力的有效性根本上取决于接受方对施展方政策与文化合法性的自愿认可。缺乏内部合法性的强行文化推销无法转化为真正的国际影响力，反而会激发接受方的文化抵制与对立情绪；唯有当政策与价值被视为公平与正当时，吸引力机制才能转化为深层软约束。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---
 
 ### 命题二　超国家组织通过将数字硬事实武器化实现隐蔽的软治理霸权
 
-> [!concept-lens] 认识论规制与无形政策趋同
+> [!concept-lens] [[Epistemology|认识论]]规制与无形政策趋同
 > 剖析缺乏主权强制力的国际组织如何借助指标、统计与跨国测评将“硬事实”转化为形塑全球政策的隐蔽软权力。
 
-> [!claim] Steiner-Khamsi, G. 等
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] 等
 > **硬事实包裹下的软治理霸权** 国际组织在缺乏主权强制力的约束下，通过垄断国际测评标准、编制[[Performance Indicators|绩效指标]]与推介最佳实践，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用最低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
 
 ### 命题三　跨境高等教育中的软实力投射面临零和博弈与去信任化异化
 
-> [!concept-lens] 地缘政治工具化与跨国学术信任侵蚀
+> [!concept-lens] [[Geopolitics|地缘政治]]工具化与跨国学术信任侵蚀
 > 审视当学术交流与留学生教育被单向绑定于国家软实力竞争时，如何将跨国合作拖入零和对抗并消解学术信任。
 
 > [!claim] [[Jane Knight|Knight, J.]] & 余婧然和谢爱磊
@@ -182,10 +196,10 @@ updated: 2026-10-20
 ### 命题四　软实力道义感召是施展国际权力的必要非充分条件
 
 > [!concept-lens] 战略现实主义与权力底盘辩证
-> 检视缺乏物质威慑与伤害筹码支撑的软实力在国际博弈中的脆弱性，破除脱离硬实力的道义自满。
+> 检视缺乏物质威慑与伤害筹码支撑的软实力在国际博弈中的脆弱性，破除脱离[[Hard Power|硬实力]]的道义自满。
 
 > [!claim] Karp, A. & Zamiska, N.
-> **缺乏硬底盘诱发胜者自满** 否定软实力即是不懂“诱惑的力量”（Power of Seduction）。然而从地缘政治现实主义审视，软实力仅构成国际权力的必要条件而非[[Necessary and Sufficient Conditions|充分条件]]；在缺乏以算法和先进武器为物质支撑的[[Hard Power|硬实力]]与可信伤害威慑作为后盾时，单方面依赖软实力空谈将诱发严重的[[Winner's Fallacy|胜者自满]]，导致国家在危机外交中丧失实质议价筹码。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]
+> **缺乏硬底盘诱发[[Winner's Fallacy|胜者自满]]** 否定软实力即是不懂“诱惑的力量”（Power of Seduction）。然而从地缘政治现实主义审视，软实力仅构成国际权力的[[Necessary and Sufficient Conditions|必要条件]]而非[[Necessary and Sufficient Conditions|充分条件]]；在缺乏以算法和先进武器为物质支撑的[[Hard Power|硬实力]]与可信伤害威慑作为后盾时，单方面依赖软实力空谈将诱发严重的[[Winner's Fallacy|胜者自满]]，导致国家在危机外交中丧失实质议价筹码。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]
 
 ---
 
@@ -195,7 +209,7 @@ updated: 2026-10-20
 > 揭示当高等教育软实力主要依托国家经济补贴与基建项目带动时，其国际认同具有工具性与寄生性特征，面临外部冲击与草根抵制风险。
 
 > [!claim] Woo, Y. Y.
-> **经济依附拉动难掩结构脆弱** 中国以“一带一路”推进的高等教育跨国扩张与软实力投射，实质上高度依附于经济硬实力的诱因与大型基建配套。沿线国家生源的流向主要受丰厚政府奖学金与潜在就业前景的外部功利因素拉动；一旦施展国经济增速放缓或资助减少，基于物质依附的软实力效能将迅速消退。此外，过度依赖自上而下的政府间经济推动极易在合作国引发民间草根社会的警惕与抵制，使软实力投射陷入地缘对抗与不可持续的困境。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> **经济依附拉动难掩结构脆弱** 中国以“[[Belt and Road Initiative|一带一路]]”推进的高等教育跨国扩张与软实力投射，实质上高度依附于经济硬实力的诱因与大型基建配套。沿线国家生源的流向主要受丰厚政府奖学金与潜在就业前景的外部功利因素拉动；一旦施展国经济增速放缓或资助减少，基于物质依附的软实力效能将迅速消退。此外，过度依赖自上而下的政府间经济推动极易在合作国引发民间草根社会的警惕与抵制，使软实力投射陷入地缘对抗与不可持续的困境。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 
@@ -205,10 +219,10 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：规范合法性自愿认可** | 吸引力机制依托受众对政策文化正当性的自发内化与认同 | 国家公共外交与文化价值输出 | [[Joseph S. Nye Jr.\|Nye]]; 余婧然和谢爱磊 |
-> | **命题二：数字硬事实软治理霸权** | 量化指标与国际测评通过“硬事实”行使隐蔽规范规制 | 超国家组织治理与全球教育政策借用 | Steiner-Khamsi 等 |
+> | **命题二：数字硬事实软治理霸权** | 量化指标与国际测评通过“硬事实”行使隐蔽规范规制 | 超国家组织治理与全球教育[[Policy Borrowing\|政策借用]] | Steiner-Khamsi 等 |
 > | **命题三：跨境高教地缘工具化异化** | 将国际学术合作降格为零和博弈武器将销蚀跨国互信 | 跨境高等教育与跨国科研合作 | [[Jane Knight\|Knight]]; 余婧然和谢爱磊 |
 > | **命题四：软实力为必要非充分条件** | 脱离技术与物质硬实力威慑的软实力空谈将诱发战略自满 | 地缘安全博弈与危机外交防御 | Karp & Zamiska |
-> | **命题五：高教软实力经济依附脆弱** | 依赖奖学金与基建外援的软实力投射面临功利退潮与民意抵制 | 南南合作高教跨国出海与援助外交 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
+> | **命题五：高教软实力经济依附脆弱** | 依赖奖学金与基建外援的软实力投射面临功利退潮与民意抵制 | [[South-South Cooperation\|南南合作]]高教跨国出海与援助外交 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
 
 ---
 
@@ -219,9 +233,9 @@ updated: 2026-10-20
 > - **2004–2005 — 概念体系的精细化与三要素确立** 奈出版专著《软实力：在世界政治中获得成功的途径》，确立了软实力的三大核心支柱：文化（在他者眼中具备吸引力）、政治价值观（在国内外得到坚守）与对外政策（被视作合法且具备道德权威）。
 > - **2010年代 — [[Geopolitics of Higher Education|高等教育地缘政治]]应用与[[Knowledge Diplomacy|知识外交]]的反思** 随着全球学生跨国流动激增与[[Confucius|孔子]]学院、富布赖特项目展开全球竞争，学者们将软实力框架全面引入国际高等教育。[[Jane Knight|简·奈特]]（Jane Knight, 2021）等学者随后批评软实力的零和民族国家中心主义倾向，倡导转向多维共赢的“知识外交”。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **2011–2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** 比较教育与国际关系学者（Bieber & Martens, 2011; Martens & Niemann, 2013; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）揭示国际组织施展权力的全新模式：[[OECD|经合组织]]与[[World Bank|世界银行]]将客观数据与跨国指标作为规制工具，以“硬数据”行使无形重塑国家政策的“软权力”，使软实力概念正式拓展至全球[[Governing by Numbers|数字治理]]领域。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
-> - **2023 — 南南合作与高教出海的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将批判性话语分析引入“一带一路”教育行动，揭示非西方新兴大国在高等教育软实力投射中对经济硬实力诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
-> - **2025 — 战略现实主义与算法时代的反思** 科技地缘政治研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在21世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
-> - **2025 — 软硬实力混合架构与文化认同探索** [[Argument_Zhu_Yang_2025_HE|Zhu & Yang (2025)]] 结合中柬跨境高等教育实证，批判将对外拓展割裂为软实力与硬实力二元对立的传统视角，指出大学在实用主义中国例外论中兼具展示科技卓越与提供礼遇关照的双重职能，跨国高教交流的实质在于探索当代国家治理经验的文化认同，而非传统软实力理论所预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1043–1044, 1050–1051)]]
+> - **2023 — [[South-South Cooperation|南南合作]]与[[Education Going Global|高教出海]]的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将[[Critical Discourse Analysis|批判性话语分析]]引入[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示非西方新兴大国在高等教育软实力投射中对经济[[Hard Power|硬实力]]诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> - **2025 — 战略现实主义与算法时代的反思** 科技[[Geopolitics|地缘政治]]研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在21世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
+> - **2025 — 软硬实力混合架构与[[Cultural Recognition|文化认同探索]]** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高等教育实证，批判将对外拓展割裂为软实力与硬实力二元对立的传统视角，指出大学在[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]中兼具展示科技卓越与提供礼遇关照的双重职能，跨国高教交流的实质在于探索当代国家治理经验的文化认同，而非传统软实力理论所预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1043–1044, 1050–1051)]]
 
 ---
 
@@ -235,7 +249,7 @@ updated: 2026-10-20
 > > - **自由主义道义论视角** 认为民主体制与人权价值的吸引力具有普适性，足以在历史演进中赢得长期认同。
 > > - **战略现实主义视角** 强调伤害能力即谈判筹码（Schelling, 1966），软实力必须依托硬实力威慑才能产生持久拘束力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 32)]]
 >
-> > [!axis] 互惠合作 vs 地缘政治零和博弈
+> > [!axis] 互惠合作 vs [[Geopolitics|地缘政治]]零和博弈
 > > 自由主义学者主张[[International Education|国际教育]]合作能够增进跨文化理解；批判学者则指出软实力框架天然将学术关系降格为争夺相对收益的帝国主义竞赛。
 > >
 > > - **自由主义与[[Knowledge Diplomacy|知识外交]]学派（Knight, 2021）** 强调学术交流的本质是互利共赢，软实力概念将大学降格为外交仆从，侵蚀了学术共同体的跨国互信。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
@@ -256,8 +270,8 @@ updated: 2026-10-20
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025)]] — 阐释软实力作为国际权力必要非[[Necessary and Sufficient Conditions|充分条件]]的现实主义命题，批判脱离软件[[Hard Power|硬实力]]的[[Winner's Fallacy|胜者自满]]。
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视地缘政治视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视[[Geopolitics|地缘政治]]视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于文化政治经济学与批判话语分析，实证解构中国“一带一路”高等教育出海的软实力投射机制，揭示其对经济硬实力诱因的依附性及其在地缘博弈中的结构脆弱性。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu & Yang (2025)]] — 实证检验东南亚跨境高教输出，指出传统软实力透镜难以解释经贸外交、科技展演与治理经验认同交织的微观机制，倡导将新朝贡视角与天下启发式及知识外交范式深度整合。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于[[Cultural Political Economy|文化政治经济学]]与[[Critical Discourse Analysis|批判话语分析]]，实证解构中国“[[Belt and Road Initiative|一带一路]]”高等[[Education Going Global|教育出海]]的软实力投射机制，揭示其对经济硬实力诱因的依附性及其在地缘博弈中的结构脆弱性。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证检验东南亚跨境高教输出，指出传统软实力透镜难以解释经贸外交、科技展演与治理经验认同交织的微观机制，倡导将[[Neo-Tributary Perspective|新朝贡视角]]与[[Tianxia Heuristic|天下启发式]]及知识外交范式深度整合。

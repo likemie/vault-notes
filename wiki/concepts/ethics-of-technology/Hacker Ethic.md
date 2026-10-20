@@ -23,12 +23,12 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Value Neutrality]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Consumer Internet]]"
   - "[[Technological Republic]]"
   - "[[Analytical Stance]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Steven Levy]]"
@@ -82,7 +82,7 @@ updated: 2026-10-20
 > | 维度 | 黑客伦理 | 战后国家科技动员传统 | [[Technological Agnosticism\|技术不可知论]] |
 > |---|---|---|---|
 > | **技术定位** | 个体抵抗集权统治与实现自由解放的工具 | 捍卫国家安全、公共繁荣与地缘主权的[[Hard Power\|硬实力]]载体 | 纯粹创造商业利润与满足个人消费的[[Value Neutrality\|价值中立]]代码 |
-> | **对国家机构的态度** | 视政府与军队为压制探索冲动的缺陷系统 | 视政府为战略资助者与公共使命的统筹者 | 漠视国家安全诉求，对地缘政治竞争保持道德脱嵌 |
+> | **对国家机构的态度** | 视政府与军队为压制探索冲动的缺陷系统 | 视政府为战略资助者与公共使命的统筹者 | 漠视国家安全诉求，对[[Geopolitics\|地缘政治]]竞争保持道德脱嵌 |
 > | **代表人物** | [[Steven Levy]]、[[Lee Felsenstein]]、早期黑客群体 | [[Vannevar Bush]]、[[J. Robert Oppenheimer]] | 当代硅谷消费科技巨头与跨国资本精英 |
 
 ---

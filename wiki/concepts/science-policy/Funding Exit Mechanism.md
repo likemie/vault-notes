@@ -13,7 +13,7 @@ aliases:
 summary: "科技政策与前沿研发治理中的适时退出规则。指公共资助机构在受资助的前沿技术于高校实验室完成概念验证并在产业界或常规科研基金会确立可信度后，主动终止专项政府补贴并撤出资助的制度安排；旨在防止受资助主体对国家财政产生路径依赖与利益套牢，促使成果走向自主造血，并腾出公共资源投入下一轮颠覆性探索。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,8 +33,7 @@ related_concepts:
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Erica Fuchs]]"

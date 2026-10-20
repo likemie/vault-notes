@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Co-production]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
   - "[[School Inspection]]"
@@ -120,7 +121,7 @@ updated: 2026-10-20
 > [!pathways]- 实施路径与运行机制
 > - **宏观需求统筹机制** 改变传统科研人员单向自由申报的学术孤岛格局，由政府搭建常态化磋商平台，系统界定全系统知识缺口，引导研究课题与公共政策及学校实践紧密对接。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 116, 119)]]
 > - **中观生态协同纽带** 依托区域教育联合体与高校教育学院，设立学校与科研机构的跨界合作共同体，推动研究人员直接沉入学校情境开展合作探究。
-> - **微观素养培育闭环** 克服“仅提供信息中介而缺乏能力建设”的机制错配，对公务官员开展循证决策专项研训，为中小学教师提供实证探究方法支持与时间保障。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 116)]]
+> - **微观素养培育闭环** 克服“仅提供信息中介而缺乏能力建设”的机制错配，对公务官员开展[[Evidence-Based Policy-Making|循证决策]]专项研训，为中小学教师提供实证探究方法支持与时间保障。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 116)]]
 
 ---
 
@@ -160,7 +161,7 @@ updated: 2026-10-20
 
 > [!critique] 外部治理反思与落地挑战
 > - **全系统战略成效缺乏长周期实证检验** Torres 在 [[OECD]] 报告中提出审慎反思：全系统统筹战略对促进教育科研利用与改善教育结果的实际因果成效尚未在学术界得到广泛的量化实证检验；宏观制度框架从出台到转化为课堂教学质量与学生发展，面临极长的时间滞后与因果归因难题。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–120)]]
-> - **一线资源挤压与符号化实施风险** 战略构想的“全员探究”与“循证决策”在落地过程中高度依赖配套支撑条件。如果缺乏充足的时间保障、专业方法支持与持续经费投入，一线教师与地方官员极易陷入工作负担过重的困境，使宏观战略面临沦为政策符号与形式主义填表的高位悬空风险。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 119)]]
+> - **一线资源挤压与符号化实施风险** 战略构想的“全员探究”与“[[Evidence-Based Policy-Making|循证决策]]”在落地过程中高度依赖配套支撑条件。如果缺乏充足的时间保障、专业方法支持与持续经费投入，一线教师与地方官员极易陷入工作负担过重的困境，使宏观战略面临沦为政策符号与形式主义填表的高位悬空风险。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 119)]]
 
 ---
 

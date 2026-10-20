@@ -35,11 +35,12 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Global Universities Rankings]]"
   - "[[Learning Gain]]"
-  - "[[Generic Skills]]"
   - "[[Operationalization]]"
+  - "[[Generic Skills]]"
   - "[[Cultural Validity]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
@@ -76,7 +77,7 @@ title: "Argument_Morgan_Shahjahan_2014_CE"
 argument_key: "Argument_Morgan_Shahjahan_2014_CE"
 argument_display_title: "The legitimation of OECD's global educational governance: examining PISA and AHELO test production"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -185,7 +186,7 @@ issuing_organization: ""
 ### 论证步骤二　组建专家认知共同体并借助硬政策转移固定评价微观规程
 
 > [!claim] 步骤二核心主张
-> 经合组织吸纳测量学家与学科专家组建专属[[Epistemic Community|认知共同体]]，将脱离具体课程的[[Generic Skills|通用素养]]确立为国际标杆，并通过直接复制试题规程的[[Hard Policy Transfer|硬政策转移]]，迫使参测国在测验成形期便全面接纳其评价标准。（pp.197–201）
+> 经合组织吸纳测量学家与学科专家组建专属[[Epistemic Community|认知共同体]]，将脱离具体课程的通用素养确立为国际标杆，并通过直接复制试题规程的[[Hard Policy Transfer|硬政策转移]]，迫使参测国在测验成形期便全面接纳其评价标准。（pp.197–201）
 
 #### 1. 掌控心理测量中枢并以素养框架重塑课程考核逻辑
 
@@ -279,7 +280,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **全球治理合法化权力在[[Test Production|测验生产]]早期确立** [[OECD|经合组织]]早在指标体系研发与测评工具编制阶段，便通过历史声誉、知识聚合与官僚重组锁定了教育质量与评价议程的全球[[Discourse|话语]]权，先于测评最终结果的发布生效。（pp.193, 202）
 > 2. **试题微观规程充当跨国[[Hard Policy Transfer|硬政策转移]]的核心载体** 标准化任务分解、评分指南与题型规程将传统以国别课程为基础的考试置换为统一的素养测试，迫使参测国评价技术官僚全盘接纳经合组织的方法论[[Paradigm|范式]]。（pp.197–198）
-> 3. **工具直接移植引发严重效度水土不服与技术返工** [[OECD AHELO Project|AHELO]] [[Generic Skills|通用技能]]测评直接机械复制美国 [[Council for Aid to Education|CAE]] 的 [[Collegiate Learning Assessment|CLA]] 表现性任务，遭遇跨文化适应不良与翻译危机，表明忽视本土情境的硬转移必然削弱跨国工具的科学合法性。（pp.200–201）
+> 3. **工具直接移植引发严重效度水土不服与技术返工** [[OECD AHELO Project|AHELO]] 通用技能测评直接机械复制美国 [[Council for Aid to Education|CAE]] 的 [[Collegiate Learning Assessment|CLA]] 表现性任务，遭遇跨文化适应不良与翻译危机，表明忽视本土情境的硬转移必然削弱跨国工具的科学合法性。（pp.200–201）
 > 4. **大规模测评研制具有高度的政治经济与地缘脆弱性** 测评生产深受宏观经济周期制约，且通用与学科模板主要来源于美欧日等核心成员国，折射出全球教育治理中深层的认知地缘依附关系。（pp.201–203）
 
 > [!stat-cards]- 测评研制动员网络规模快照
@@ -296,7 +297,7 @@ issuing_organization: ""
 >
 > *Through comparative analysis of two [[International Education]] assessment tools, we demonstrate that the OECD deploys various governance mechanisms during the production stages of [[PISA]] and [[OECD AHELO Project|AHELO]] to acquire the legitimate power to define what counts in education. These mechanisms include: (1) building on past OECD successes; (2) assembling knowledge capacity; and (3) deploying bureaucratic resources. By analysing the stages of assessment production, we illustrate the specific ways in which educational transfer takes place.*
 
-> [!citation-card] 全球教育治理的认知地缘政治与批判视野
+> [!citation-card] 全球教育治理的认知[[Geopolitics|地缘政治]]与批判视野
 > 国际组织测验研制的早期阶段构成了至关重要的‘全球教室’，用以在竞争性全球经济中构建、协商、传播并合法化何种知识与学习受到认可，其性质超越了单纯的[[Technical Rationality|技术理性]]流程。我们建议比较教育学者拓展超出文献中随处可见的方法论批评与后续影响研究，深入审视全球教育政策生产的认知地缘政治。（p.203）
 >
 > *The early stages of test production vis-à-vis IOs are not simply techno-rational processes, but important ‘global classrooms’ for constructing, negotiating, disseminating and legitimising what counts as knowledge and learning in a competitive global economy... In short, we recommend moving beyond the plentiful methodological critiques and impact studies of assessment tools in the existing literature to critically examine the geopolitics of producing global education policy.*

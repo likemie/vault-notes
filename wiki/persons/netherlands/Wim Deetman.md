@@ -10,10 +10,10 @@ summary: "荷兰著名政治家，基督教民主党（CDA）领袖，荷兰二�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
 lifespan: "1945–至今"
@@ -38,7 +38,8 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Policy Network]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Critical Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Walter J. M. Kickert]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wim Deetman
@@ -62,7 +63,7 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 荷兰政治家、公共管理者，基督教民主呼吁党（CDA）重要领袖，荷兰二战后任期最长的教育与科学大臣（1982–1989），后历任荷兰议会二院议长（1989–1996）、海牙市长（1996–2008）与国务委员会国务顾问。
+> - **身份位置** 荷兰政治家、公共管理者，基督教民主呼吁党（[[Critical Discourse Analysis|CDA]]）重要领袖，荷兰二战后任期最长的教育与科学大臣（1982–1989），后历任荷兰议会二院议长（1989–1996）、海牙市长（1996–2008）与国务委员会国务顾问。
 > - **核心角色** 荷兰高等教育[[Steering at a Distance|远距离操纵]]改革的政治教父与体制庇护者。在 1980 年代荷兰面临严峻财政赤字与政治脆弱平衡的历史关头，主政教育部推进了具有里程碑意义的去规制化改革；他以高超的法团协商妥协艺术，团结各派政治力量出台 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，并成功领导了高等专业教育 350 所院校的大兼并。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135, 144–146)]]
 > - **代表贡献** 政治促成并签署《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书；主导推行[[Scale Enlargement|规模扩充]]（Schaalvergroting）与整笔总额拨款制度；为基克特等学者开展[[Reflexivity|反思性]]实践提供了核心体制平台。
 

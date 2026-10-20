@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家、心理学家与高阶思维测评先驱�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_instruments:
   - "[[California Critical Thinking Skills Test]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Peter Facione
@@ -90,7 +89,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 广泛采用 Facione 主持制定的德尔菲共识框架作为[[Meta-analysis\|元分析]]编码基底与测试有效性判据。
 > - [[APA Delphi Consensus on Critical Thinking]] — Facione 领衔编制的共识框架条目。
 > - [[Critical Thinking Disposition]] — Facione 深入阐发的情意倾向[[Construct\|构念]]。

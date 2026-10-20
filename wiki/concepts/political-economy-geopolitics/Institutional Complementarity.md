@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学核心概念，指不同制度领域之间相互支持、相互强化的协同配置状态，即某一制度的存在能提升另一制度的运行效能；传统理论视其为资本主义多样性的超稳定均衡基石，渐进变迁学派则批判其功能主义偏误，揭示行动者如何在松弛与杂糅的互补性外壳下推进局部演化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Peter A. Hall]]"

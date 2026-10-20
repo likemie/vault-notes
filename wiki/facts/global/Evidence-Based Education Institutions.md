@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -57,13 +57,14 @@ related_facts:
   - "[[Institute for Effective Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_persons:
   - "[[David Gough]]"
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Evidence-Based Education Institutions
@@ -161,7 +162,7 @@ updated: 2026-10-17
 > [!ref-table] 从业者网络
 > | 机构 | 简介 |
 > |---|---|
-> | [研究证据教育运动](https://researched.org.uk/) [[ResearchED]] | ToM Bennett 于 2013 年在英国创立的教师草根运动，以年会和工作坊形式连接教师与研究者，后扩展至全球 |
+> | [研究证据教育运动](https://researched.org.uk/) [[ResearchED]] | [[Theory of Mind\|ToM]] Bennett 于 2013 年在英国创立的教师草根运动，以年会和工作坊形式连接教师与研究者，后扩展至全球 |
 > | [循证教师网络](https://ebtn.org.uk/) [[Evidence-Based Teachers Network]] | 英国循证教学实践的教师网络 |
 > | [有效教育研究所](https://the-eee.org.uk/) [[Institute for Effective Education]] | 英国约克大学旗下的教育[[Intervention Research\|干预研究]]与推广机构 |
 

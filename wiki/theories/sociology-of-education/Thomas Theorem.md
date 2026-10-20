@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,7 +39,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Accounts]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Woods]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Thomas Theorem
@@ -151,5 +150,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判，并贯穿全书的[[Qualitative Research\|质性研究]]设计。

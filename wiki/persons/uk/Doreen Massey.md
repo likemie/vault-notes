@@ -7,7 +7,7 @@ summary: "英国人文地理学家，关系性空间与权力几何理论代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ontology]]"
   - "[[Multiplicity]]"
+  - "[[Geopolitics]]"
   - "[[Space-Making]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
@@ -45,14 +46,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Doreen Massey
 
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放[[Ontology\|本体论]]和[[Multiplicity\|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making\|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
+> - **身份位置** Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放[[Ontology\|本体论]]和[[Multiplicity\|多重性]]概念对高等教育研究中的空间分析和[[Geopolitics|地缘政治理论]]产生了重要影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making\|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > - 2005 出版 *For Space*，系统阐述其[[Relational Space\|关系性空间]]理论，代表其最成熟的理论综合
 > - 2016 逝世，享年 72 岁
 >
-> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和[[Post-structuralism\|后结构主义]]的影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism\|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
+> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的[[Geopolitics|地缘政治]]重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和[[Post-structuralism\|后结构主义]]的影响。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism\|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–11]])。
 
 ---
 

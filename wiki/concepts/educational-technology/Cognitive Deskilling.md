@@ -28,6 +28,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Practices]]"
   - "[[Creative Deskilling]]"
+  - "[[Generic Skills]]"
   - "[[Creativity]]"
   - "[[Dialogue in Education]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -51,7 +52,6 @@ related_theories:
   - "[[Epistemic Injustice]]"
 related_methods:
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 > [!boundary]- 概念边界
 > - 不等于 [[Cognitive Offloading|认知卸载]] — 认知卸载是人类释放工作记忆负荷以聚焦高阶任务的中性适应策略，而去技能化是过度卸载关键智力步骤导致的不可逆能力退化。
-> - 不等于 [[Creative Deskilling|创造力去技能化]] — 认知去技能化涵盖广泛的分析、计算、写作与批判等通用认知技能，创造力去技能化专门聚焦于突破常规联想与生成新颖有效价值的[[Creativity|创造性]]维度。
+> - 不等于 [[Creative Deskilling|创造力去技能化]] — 认知去技能化涵盖广泛的分析、计算、写作与批判等[[Generic Skills|通用认知技能]]，创造力去技能化专门聚焦于突破常规联想与生成新颖有效价值的[[Creativity|创造性]]维度。
 
 ---
 

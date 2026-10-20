@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技与产业政策中为新兴颠覆性技术创设的受控豁免试验机制；在划定安全边界与限制时空范围内，免除特定前置行政审批与繁文缛节，允许创新主体在真实运行中快速测试原型并积累一手实证数据，实现从防范假设性风险向循证动态治理的转变。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"

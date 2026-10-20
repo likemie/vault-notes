@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Stallings Classroom Observation System]]"
 related_persons: []
@@ -195,7 +193,7 @@ updated: 2026-10-20
 
 > [!tension] 核心张力：低推论行为快照 vs 高推论思维深度
 > - **外显时间计量导向（蓝方）** 强调在轨时间具有高客观度与测量[[Reliability|信度]]，经过短期培训的本土观察员即可达成高度一致，能够低成本捕捉[[Classroom Management|课堂管理]]失序与时间贫困，是教育系统宏观诊断不可或缺的硬指标。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3–4)]]
-> - **深层认知建构导向（红方）** 质疑外在“坐姿端正、注视黑板”的伪在轨现象（[[Strategic Compliance|compliance]] without cognitive engagement），认为该指标可能误导教师追求表面顺从与[[Disciplina and Doctrina|规训]]秩序，掩盖了缺乏[[Higher-Order Thinking Skills|高阶思维]]挑战的虚假繁荣。
+> - **深层认知建构导向（红方）** 质疑外在“坐姿端正、注视黑板”的伪在轨现象（[[Strategic Compliance|compliance]] without cognitive engagement），认为该指标可能误导教师追求表面顺从与规训秩序，掩盖了缺乏[[Higher-Order Thinking Skills|高阶思维]]挑战的虚假繁荣。
 
 > [!critique] 外部批评
 > - **超大[[Class Size|班额]]情境下的测量偏倚** 在部分发展中国家每班 60–100 人的极度拥挤课堂中，观察员在数秒横向扫视中难以辨别后排边缘学生的微观状态，前排学生的遮挡极易导致系统性高估真实在轨率。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 5)]]

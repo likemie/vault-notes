@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭项目中的一套核心教学与学习方法，旨在通过培养思考、交流、研究等技能，支持核心组件的连贯性与跨学科学习。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,8 +22,7 @@ related_concepts:
   - "[[IB Learner Profile]]"
   - "[[IB Diploma Programme]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Approaches to Teaching and Learning
@@ -92,5 +91,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 将 ATL 视作促进 [[IB Diploma Programme\|IBDP]] 核心课程内连贯性和[[Concurrency of Learning\|并发学习]]的重要实施工具，指出其在跨组件融合中的纽带作用。

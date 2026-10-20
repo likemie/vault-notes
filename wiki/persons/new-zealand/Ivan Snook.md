@@ -8,7 +8,7 @@ summary: "新西兰当代著名教育哲学家、梅西大学荣休教授，国�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 29
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Public Value]]"
   - "[[Evidence-Based Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Gatekeepers]]"
@@ -42,7 +41,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Research Synthesis]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
 related_persons:
@@ -106,7 +104,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 伊万·斯努克坚信教育是一项富含伦理、政治与价值权衡的公共事业，绝非冰冷的技术计量工程。他严厉批评将教育简化为标准化考试成绩排名的[[Neo-Taylorism|新泰勒主义]]倾向，主张教育研究应当服务于民主社会的[[Public Value|公共价值]]。在[[Evidence-Based Education|循证教育]]论辩中，他坚定捍卫一线教师的专业自主与批判性反思，反对官僚机构将去情境化的宏观统计数字伪装成真理并挪用为削减教育投入与[[Disciplina and Doctrina|规训]]教师的政治借口。
+> 伊万·斯努克坚信教育是一项富含伦理、政治与价值权衡的公共事业，绝非冰冷的技术计量工程。他严厉批评将教育简化为标准化考试成绩排名的[[Neo-Taylorism|新泰勒主义]]倾向，主张教育研究应当服务于民主社会的[[Public Value|公共价值]]。在[[Evidence-Based Education|循证教育]]论辩中，他坚定捍卫一线教师的专业自主与批判性反思，反对官僚机构将去情境化的宏观统计数字伪装成真理并挪用为削减教育投入与规训教师的政治借口。
 
 > [!citation-card] 斯努克论教师[[Professional Judgment|专业判断]]不可被统计指标剥夺
 > 教学绝不能退化为按图索骥的算法执行；无论外部实证数据显得多么精确，每一项微观教学决断都必须根植于教师对具体学生生命情境的关怀、对课程价值的理解以及深思熟虑的专业反思。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]

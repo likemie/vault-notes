@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/higher-education
   - theme/research-governance
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Research Utilization]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Areas of Research Interest
@@ -51,7 +52,7 @@ updated: 2026-10-16
 > [!policy-context] 政策背景
 > - **发布主体** [[Government Office for Science\|英国政府科学办公室]]（GO-Science）监督指导、各中央行政部委独立编制
 > - **适用对象** 英国各大学高等教育机构（HEIs）、独立研究机构（IROs）、国家研究理事会及博士生科研人员
-> - **政策问题** 长期以来政府面临政策痛点难以系统化传达至科研界，而大学学者开展的研究又往往缺乏政策相关性，造成国家科研资金投入与循证决策需求的深刻脱节
+> - **政策问题** 长期以来政府面临政策痛点难以系统化传达至科研界，而大学学者开展的研究又往往缺乏政策相关性，造成国家科研资金投入与[[Evidence-Based Policy-Making|循证决策]]需求的深刻脱节
 > - **制度位置** 落实 1971 年《[[Rothschild Report 1971\|罗斯柴尔德报告]]》“智能客户”原则的核心制度化抓手，连接国家行政决策与学术科研议程的官方通道
 
 ---

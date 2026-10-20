@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中关注课程、教学与评估等核心系统，并直接参与教师专业学习与发展以提升学生学业成绩的学校领导模式"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
   - "[[Neo-Taylorism]]"
 related_theories: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Instructional Leadership
@@ -103,4 +102,4 @@ updated: 2026-10-15
 
 > [!warning]
 > - **日常时间的结构性冲突** 校长实际的日常工作时间极度碎片化，极易被非教育性的科层事务（如日常行政、人事冲突和财务预算）所占满。实证研究显示，校长真正用于在课堂现场进行教学监督和教师指导的时间极其微弱，导致教学领导力在实践中容易沦为“空中楼阁”。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 416]])
-> - **行政决策异化与数据[[Disciplina and Doctrina\|规训]]** 由于传统教学模型抽象且缺乏与行政语言对接的中介，教学领导力后来被转译为以[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）为核心的“[[Effect Size\|效应量]]账本”。这使其发生了[[Neo-Taylorism\|新泰勒主义]]异化：从支持教学的专业对话退行为通过数据监控教师微观劳动的科层控制手段。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 418–419]])
+> - **行政决策异化与数据规训** 由于传统教学模型抽象且缺乏与行政语言对接的中介，教学领导力后来被转译为以[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）为核心的“[[Effect Size\|效应量]]账本”。这使其发生了[[Neo-Taylorism\|新泰勒主义]]异化：从支持教学的专业对话退行为通过数据监控教师微观劳动的科层控制手段。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 418–419]])

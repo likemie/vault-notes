@@ -37,6 +37,7 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Creativity Training]]"
   - "[[Critical Thinking]]"
+  - "[[Blind Spot in Observation]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
@@ -67,7 +68,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -158,7 +159,7 @@ journal: McGill Journal of Education
 
 任何接受过基础统计训练的研究者均应知晓概率的严格数学边界，而哈蒂的二阶合成结果却汇报了负概率（p. 239）。
 
-> [!ref-table] Cohen's d 与普通语言效应量（[[Common Language Effect Size]], CLES）规范对照
+> [!ref-table] Cohen's d 与[[Common Language Effect Size|普通语言效应量]]（[[Common Language Effect Size]], CLES）规范对照
 > | Cohen's $d$ | 0.00 | 0.20 | 0.40 | 0.60 | 0.80 | 1.00 | 1.20 | 1.40 | 2.00 | 3.00 |
 > |---|---|---|---|---|---|---|---|---|---|---|
 > | **普通语言效应量（CLES）** | 50% | 56% | 61% | 66% | 71% | 76% | 80% | 84% | 92% | 98% |
@@ -344,7 +345,7 @@ journal: McGill Journal of Education
 > [!citation-card] 辩护伪科学构成蓄意盲目
 > 轻信[[John Hattie|哈蒂]]意味着在评估科学严谨性时存在[[Critical Thinking|批判性思维]]的盲点；推崇其工作不幸陷入了对伪科学的宣介；而在获知对其方法论的严肃批评后仍坚持为其辩护，则构成了蓄意的学术盲目。
 >
-> *To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.*（pp. 238–239）
+> *To believe Hattie is to have a [[Blind Spot in Observation|blind spot]] in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.*（pp. 238–239）
 
 > [!citation-card] [[Effect Size|效应量]]基线比较的武断性
 > 哈蒂所作的基线比较完全出于主观臆断，而其自身对此毫无察觉。

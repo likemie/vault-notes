@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 49
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Public Value]]"
   - "[[Global Universities Rankings]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Heterogeneity]]"
   - "[[Semi-Autonomy of Higher Education]]"
@@ -66,7 +65,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Discourse Analysis]]"
   - "[[Qualitative Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -119,7 +117,7 @@ updated: 2026-10-20
 > - **1970–1980 年代 — 英语学术圈拓展与[[Critical Pedagogy|批判教育学]]** 随着英译本出版，斯图亚特·霍尔（Stuart Hall）将其引入文化研究；[[Paulo Freire|保罗·弗莱雷]]与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）将其转化为[[Critical Pedagogy|批判教育学]]，剖析国家教科书作为“[[Official Knowledge|官方知识]]”的霸权筛选机制。
 > - **2000 年代 — 超国家政策话语与[[Knowledge-Based Economy|知识经济]]霸权[[Social Imaginary|社会想象]]** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）将霸权理论拓展至全球教育政策领域，揭示跨国组织（如[[OECD|经济合作与发展组织]]，OECD，简称经合组织）如何通过将“全球化”本体化为不可抗拒的自然规律，以及将“[[Knowledge-Based Economy|知识经济]]”建构为霸权性[[Social Imaginary|社会想象]]，垄断政策话语词汇并系统性排除公平、生态与[[Public Value|公共价值]]等替代性愿景（Schirato & Webb, 2003; Kenway et al., 2006）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
 > - **2024 — 课程话语与边缘群体反思抵抗** [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] 分析 217 册必修教材与少数民族学生访谈，实证展示课程如何通过“师生隐喻”自然化汉文化中心霸权，以及边缘主体利用自身文化资源实施的反霸权解构。
-> - **2025 — [[Geopolitics of Higher Education|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将霸权理论全面引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，论证英美大学全球扩张与[[Global Universities Rankings|全球大学排名]]如何制造全球学术共识与自我[[Disciplina and Doctrina|规训]]。
+> - **2025 — [[Geopolitics of Higher Education|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将霸权理论全面引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，论证英美大学全球扩张与[[Global Universities Rankings|全球大学排名]]如何制造全球学术共识与自我规训。
 > - **2026 — 算法文化霸权与制度化嵌入批判** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 揭示[[Generative Artificial Intelligence|生成式人工智能]]在训练数据中深度固化强势文化与精英规范，批判高校集中采购与平台捆绑将学术工作推向制度化依赖，指责其在抹平证据[[Heterogeneity|异质性]]的同时隐蔽再生产主导阶层文化霸权，侵害认识正义。
 
 ---
@@ -145,7 +143,7 @@ updated: 2026-10-20
 > [!theory-proposition] 命题一｜权力通过文化制度与教育装置制造积极同意而非纯粹依赖暴力强制
 > **解释** 葛兰西深刻指出，任何成熟的现代统治都不可能单凭军队、警察和法庭等暴力机器长期维系。稳定的统治必定是强制与霸权的有机结合，其中霸权通过学校教育、法律法理、大众媒体、科学共同体与大学体系，将统治阶级的特殊利益升华为“普遍理性”与“理所当然的常识”，使被统治阶层在无反思的认同中产生积极同意。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]
 >
-> **应用实例** 在高等教育全球化中，英美顶尖大学从未依靠军事命令迫使全球高校服从，而是通过创设学术出版评价体系、英语主导地位及[[Global Universities Rankings\|全球大学排名]]规则，让非西方高校“自发、积极”地以英美指标自我[[Disciplina and Doctrina\|规训]]并竞相争夺排名位次。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 14–16)]]
+> **应用实例** 在高等教育全球化中，英美顶尖大学从未依靠军事命令迫使全球高校服从，而是通过创设学术出版评价体系、英语主导地位及[[Global Universities Rankings\|全球大学排名]]规则，让非西方高校“自发、积极”地以英美指标自我规训并竞相争夺排名位次。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 14–16)]]
 
 > [!theory-proposition] 命题二｜文化部门具备半自主性且霸权始终面临不完整同意与反霸权抵抗
 > **解释** 霸权绝非机械的单向洗脑或全盘极权控制。文化部门（教育、学术、艺术）必须对政治与经济系统保持适度的“半自主性（[[Semi-Autonomy of Higher Education\|semi-autonomy]]）”；唯有当大学和学者展现出探求真理的专业自主假象时，其制造的共识才具备社会可[[Reliability\|信度]]。然而，正因为半自主性的存在，文化[[Champ\|场域]]永远无法实现百分之百的意识形态铁板一块，被支配者立足于边缘文化资源与日常经验，始终展开着反霸权抵抗与“不完整的同意（Incomplete Consent）”。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–70)]]
@@ -243,5 +241,5 @@ updated: 2026-10-20
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 441, 445)]] — 揭示[[OECD|经合组织]]如何将全球化与[[Knowledge-Based Economy|知识经济]]建构为霸权性[[Social Imaginary|社会想象]]，垄断政策词汇并排斥替代性愿景。
-> - [[Geopolitics of Knowledge]] — 应用霸权理论解释西方学术[[Paradigm|范式]]对发展中国家大学学术议程与认知图式的[[Disciplina and Doctrina|规训]]与支配。
+> - [[Geopolitics of Knowledge]] — 应用霸权理论解释西方学术[[Paradigm|范式]]对发展中国家大学学术议程与认知图式的规训与支配。
 > - [[Sinicisation]] — 探讨国家如何通过制度性教育与文化装置实现多民族国家的认同整合与文化领导权建构。

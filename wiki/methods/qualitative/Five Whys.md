@@ -11,9 +11,9 @@ summary: "由大野耐一在丰田生产方式中创立、后被帕兰提尔拓�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 19
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -40,7 +40,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Taiichi Ohno]]"

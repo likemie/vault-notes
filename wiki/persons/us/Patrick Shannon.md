@@ -7,7 +7,7 @@ summary: "美国著名批判教育学者、宾夕法尼亚州立大学读写教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[School Autonomy]]"
   - "[[Professional Judgment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Strategic Compliance]]"
   - "[[Democratic Education]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Patrick Shannon
@@ -98,7 +97,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 识字与阅读教育从来不是中立的神经认知技术，而是一种负载着阶级、权力和意识形态利益的社会文化实践；将阅读教学还原为孤立、机械的技能切片训练，其深层政治经济意图在于服务于商业出版寡头的垄断利润与国家技术官僚的[[Disciplina and Doctrina|规训]]控制。教育者必须运用[[Critical Policy Analysis|批判性政策分析]]透视政策的深层偏向，在真实社区语境与丰富文学情境中恢复[[Teacher Professional Agency|教师专业自主权]]与儿童的批判性民主素养。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
+> 识字与阅读教育从来不是中立的神经认知技术，而是一种负载着阶级、权力和意识形态利益的社会文化实践；将阅读教学还原为孤立、机械的技能切片训练，其深层政治经济意图在于服务于商业出版寡头的垄断利润与国家技术官僚的规训控制。教育者必须运用[[Critical Policy Analysis|批判性政策分析]]透视政策的深层偏向，在真实社区语境与丰富文学情境中恢复[[Teacher Professional Agency|教师专业自主权]]与儿童的批判性民主素养。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
 
 > [!citation-card] 抵制商业去专业化与维护教师能动性（Patrick Shannon, 1989）
 > 当教师被降格为只准机械念诵商业练习册脚本的流水线工人时，不仅教师的专业尊严荡然无存，学生也永久丧失了通过阅读理解真实世界、发展批判性思考的民主权利。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 14)]]
@@ -111,7 +110,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **方法路径** 奠定了教育政策学界开展[[Critical Policy Analysis|批判性政策分析]]（CPA）的概念工具箱与[[Paradigm|范式]]谱系。
-> - **理论路径** 与埃德蒙森等学者共同构建了融合[[Critical Theory|批判理论]]与草根参与的[[Critical Pluralism|批判性多元主义]]，为反抗新自由主义教育[[Disciplina and Doctrina|规训]]提供了理论框架。
+> - **理论路径** 与埃德蒙森等学者共同构建了融合[[Critical Theory|批判理论]]与草根参与的[[Critical Pluralism|批判性多元主义]]，为反抗新自由主义教育规训提供了理论框架。
 > - **实践路径** 深刻影响了[[National Council of Teachers of English|全美英语教师委员会]]（NCTE）与[[Whole Language|全语言]]运动一线教育者，激励基层学区合法拒领带有苛刻条件的联邦专项拨款。
 
 ---

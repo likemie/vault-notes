@@ -38,7 +38,6 @@ related_concepts:
   - "[[Test Specifications and Test Blueprint]]"
   - "[[Empiricism]]"
   - "[[Performance Indicators]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
@@ -72,6 +71,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[OECD]]"
+  - "[[International Indicators of Education Systems]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # IEA
@@ -135,7 +135,7 @@ updated: 2026-10-19
 > - **政策影响与[[Social Science as Legitimation Alibi|合法化借口]]** 为成员国政府提供了跨国对照的“硬数据”武器；既常被政客用作制造国内教育危机、推行问责改革的[[Social Science as Legitimation Alibi|合法化借口]]（如美国 1983 年依据早期 IEA 数据出台《国家在危机中》），又充当了国家教育系统现代化水平的官方合格证。卡扎米亚斯揭示，实证数据以“[[Value Neutrality|价值中立]]”为掩护，深度服务于冷战时期国家五年计划与国际技术援助的政治合法化。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]; [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 69)]]
 > - **实践影响** 开创了跨国课程调查、[[Test Specifications and Test Blueprint|测验蓝图]]编制、多层[[Sampling Frame|抽样框架]]与试题反应理论（[[Item Response Theory|IRT]]）技术规程，重塑了全球参与国国家课程评估体系与标准化测验的日常运作机制。
 > - **知识影响** 使量化[[Empiricism|经验主义]]牢固确立为比较教育学与教育评价学的主流正统；推动[[Multiple Regression|多元回归]]分析与跨国[[Variable|变量]]测算成为标准分析[[Paradigm|范式]]，但也导致学科视界发生窄化，将丰富的[[Educated Identity|受教育身份]]与历史文化语境剥离为单一的学业技能产出分数。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 333–334)]]
-> - **政策咨询范式重构与航行隐喻挑战** IEA 及其后继者 [[OECD]] [[PISA]] 的实证量化测验以高级统计和实证技术评估认知[[Academic Achievement|学业表现]]，打破了战后大学比较教育学者以航行隐喻为核心的超然咨询范式；直接以跨国可比[[Performance Indicators|绩效指标]][[Disciplina and Doctrina|规训]]国家教育改革，促成了政策咨询从“提供备选航线与暗礁警示的领航员”向“超国家实证绩效问责机制”的深刻位移。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
+> - **政策咨询范式重构与航行隐喻挑战** IEA 及其后继者 [[OECD]] [[PISA]] 的实证量化测验以高级统计和实证技术评估认知[[Academic Achievement|学业表现]]，打破了战后大学比较教育学者以航行隐喻为核心的超然咨询范式；直接以跨国可比[[Performance Indicators|绩效指标]]规训国家教育改革，促成了政策咨询从“提供备选航线与暗礁警示的领航员”向“超国家实证绩效问责机制”的深刻位移。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 
 ---
 
@@ -175,4 +175,4 @@ updated: 2026-10-19
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | Argument | 阐明 IEA 作为第三代际实证[[Scientism\|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录经合组织 INES A 网络专家因不满 IEA 数据周期漫长与国别覆盖有限而启动 PISA 自主研发的历史 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录经合组织 [[International Indicators of Education Systems\|INES]] A 网络专家因不满 IEA 数据周期漫长与国别覆盖有限而启动 PISA 自主研发的历史 |

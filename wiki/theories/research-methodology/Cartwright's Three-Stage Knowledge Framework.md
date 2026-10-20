@@ -18,6 +18,7 @@ tags:
 - paradigm/scientific-realism
 related_concepts:
   - "[[Class Size]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -32,7 +33,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 核心主张
@@ -81,7 +81,7 @@ updated: 2026-10-16
 
 > [!note-] 发展脉络
 > - 2010 年 Cartwright & Munro 在 *Journal of Evaluation in Clinical Practice* 首次提出三阶段框架
-> - 2012 年 Cartwright & Hardie 在 *Evidence-Based Policy: A Practical Guide* 中进一步扩展
+> - 2012 年 Cartwright & Hardie 在 *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide* 中进一步扩展
 > - 2014-2015 年 Cartwright & Cowen 将框架应用于教育领域，出版 CHESS 工作论文系列
 > - [[Argument_Cowen_2019_ERE\|Cowen (2019)]] 在 *Educational Research and Evaluation* 中将此框架与 Tullock [[Tullock's Bureaucracy Theory\|官僚制理论]]结合，解释 [[Evidence-Based Education\|EBE]] 的制度韧性
 
@@ -101,7 +101,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!example] [[Correlational Research\|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 以三阶段框架为核心理论框架，通过教师访谈验证外推问题的实践表现
 
 ## 应用领域

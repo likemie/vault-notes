@@ -13,7 +13,7 @@ aliases:
 summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政治经济学奠基框架；以企业为核心协调主体，将发达资本主义划分为自由市场经济体（LMEs）与协调型市场经济体（CMEs），强调金融、劳资、职业培训与公司治理间的跨领域制度互补性；施特雷克与希伦等学者后续批判其功能主义与超稳定假定，揭示出两类体制在制度互补性遮蔽下共同走向渐进自由化的演化轨迹。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 32
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -47,7 +47,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

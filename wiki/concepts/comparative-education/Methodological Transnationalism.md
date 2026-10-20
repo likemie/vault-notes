@@ -34,12 +34,12 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Variable]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Methodological Transnationalism
@@ -178,7 +178,7 @@ updated: 2026-10-16
 > > 争论过于强调关系性与相互依存是否会导致对国家[[Hard Power|硬实力]]和地缘对抗的低估。
 > >
 > > - **跨国学派** 坚持全球化网络已经重塑了治理本体，单纯依赖国家领土视角无法解释跨国规范流通。
-> > - **新现实主义/地缘学派** 批评方法论跨国主义在解释大国竞争、地缘政治封锁以及主权教育安全防御时可能脱离物质权力现实。
+> > - **新现实主义/地缘学派** 批评方法论跨国主义在解释大国竞争、[[Geopolitics|地缘政治]]封锁以及主权教育安全防御时可能脱离物质权力现实。
 >
 > > [!axis] 解构国家实体是否会导致政策执行归因碎片化
 > > 探讨在高度强调职能与尺度细分时，是否会稀释中央政权对重大教育战略方向的根本决定权。
@@ -207,6 +207,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space\|关系性空间]]中加以考察。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度转译分析。

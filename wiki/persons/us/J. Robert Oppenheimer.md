@@ -29,6 +29,7 @@ related_concepts:
   - "[[Engineering Pragmatism]]"
   - "[[Paradigm]]"
   - "[[Consumer Internet]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Counterculture Computing]]"
   - "[[AI Deterrence]]"
@@ -46,8 +47,7 @@ related_concepts:
 related_theories:
   - "[[Path Dependence]]"
   - "[[Strategic Bargaining Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -120,7 +120,7 @@ updated: 2026-10-20
 > - **1942–1945年** 接受美国陆军格罗夫斯将军与[[Vannevar Bush|万尼瓦尔·布什]]委任，出任[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室（Project Y）科学主任，统领数千名顶尖科学家与工程师攻坚核裂变武器，1945 年 7 月 16 日主导完成人类首次“三位一体”核试验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 37)]]
 > - **1947–1952年** 担任美国原子能委员会（AEC）总顾问委员会（GAC）主席，起草艾奇逊-利连索尔报告主张核能国际管制，并基于技术与伦理考量反对紧急研制百万吨级热核聚变武器（氢弹）。
 > - **1947–1966年** 担任新泽西州[[Institute for Advanced Study|普林斯顿高等研究院]]院长，吸纳爱因斯坦、哥德尔、杨振宁等顶尖学者，推动理论物理与数学交叉前沿探索。
-> - **1954年** 在冷战麦卡锡主义高潮期间遭遇政治安全审查听证会（奥本海默安全听证会），被撤销绝密安全许可，成为科学精英介入国家安全决策与地缘政治争议的悲剧性象征。
+> - **1954年** 在冷战麦卡锡主义高潮期间遭遇政治安全审查听证会（奥本海默安全听证会），被撤销绝密安全许可，成为科学精英介入国家安全决策与[[Geopolitics|地缘政治]]争议的悲剧性象征。
 > - **1963年** 获美国联邦政府颁发恩里科·费米奖（Enrico Fermi Award），标志着官方对其科学贡献与国家服务的正式平反。
 > - **1967年** 因喉癌逝世于新泽西州普林斯顿，享年 62 岁。
 

@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -31,10 +31,9 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Professional Judgment]]"
   - "[[Central Phenomenon]]"
-  - "[[Epistemological Break]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Policy-Based Evidence-Making]]"
+  - "[[Problem Finding]]"
   - "[[Champ]]"
+  - "[[Policy-Based Evidence-Making]]"
   - "[[Evidence Era]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -53,7 +52,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Open Coding]]"
-  - "[[Analytic Framework]]"
+  - "[[Axial Coding]]"
   - "[[Documentary Analysis]]"
   - "[[Process Tracing]]"
 related_instruments: []
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Elite Interview
@@ -131,9 +130,9 @@ updated: 2026-10-19
 
 > [!proc] 质性分析程序
 > 1. **逐字转录与匿名化清洗** 完整转录访谈录音，剔除可直接识别身份的专有地名与人名，分配匿名受访代号。
-> 2. **多阶段质性主题编码** 在质性分析软件中开展[[Open Coding\|开放编码]]与轴心编码，提炼决策动因、外部借用、守门机制与政治适宜性考量等[[Central Phenomenon\|核心范畴]]。
+> 2. **多阶段质性主题编码** 在质性分析软件中开展[[Open Coding\|开放编码]]与[[Axial Coding|轴心编码]]，提炼决策动因、外部借用、守门机制与政治适宜性考量等[[Central Phenomenon\|核心范畴]]。
 > 3. **与政策文献交叉对质** 将精英口述中的幕后互动与同期政策白皮书、咨询审查报告、议会记录进行一一映射与比对检验。
-> 4. **决策机制链条提炼** 综合多方证词与档案证据，构建出涵盖“问题界定 $\rightarrow$ 跨国搜寻 $\rightarrow$ 证据筛选 $\rightarrow$ 决策落地”的因果机制解释模型。
+> 4. **决策机制链条提炼** 综合多方证词与档案证据，构建出涵盖“[[Problem Finding|问题界定]] $\rightarrow$ 跨国搜寻 $\rightarrow$ 证据筛选 $\rightarrow$ 决策落地”的因果机制解释模型。
 
 ---
 
@@ -162,7 +161,7 @@ updated: 2026-10-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Realism]] | 理论基础 | 批判实在论强调社会系统的深层机制与能动者叙事，为分析精英口述提供认识论支撑。 |
+> | [[Critical Realism]] | 理论基础 | 批判实在论强调社会系统的深层机制与能动者叙事，为分析精英口述提供[[Epistemology\|认识论]]支撑。 |
 > | [[Policy-Based Evidence-Making]] | 批判视角 | 为解析精英访谈中展现的决策逆向证据生产提供批判性分析视角。 |
 > | [[Documentary Analysis]] | 补充方法 | 与官方白皮书及档案分析结合，构成政策研究的[[Triangulation\|三角互证]]支柱。 |
 > | [[Snowball Sampling]] | 前置方法 | 提供突破高层行政与学术网络准入壁垒的抽样路径。 |
@@ -175,6 +174,6 @@ updated: 2026-10-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 深度访谈英国财政部高级官员、教育与就业部（DfEE）高层主管、“新政”特别工作组成员及美国智库政策专家，揭示政策转移决策中官僚行动者采纳美国证据与评估技术的幕后考量（pp. 341–342）。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — [[In-depth Interview|深度访谈]]英国财政部高级官员、教育与就业部（DfEE）高层主管、“新政”特别工作组成员及美国智库政策专家，揭示政策转移决策中官僚行动者采纳美国证据与评估技术的幕后考量（pp. 341–342）。
 
 

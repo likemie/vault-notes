@@ -9,7 +9,7 @@ aliases:
 summary: "指国家或公共部门通过具有法律约束力的采购协议与前瞻性预算承诺，全额或大比例包揽新兴颠覆性技术初创阶段的产能，从而消除早期商业化买单不确定性并释放微观学习经济的创新政策机制。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,8 +35,7 @@ related_concepts:
 related_theories:
   - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jerome E. Schnee]]"

@@ -12,7 +12,7 @@ aliases:
 summary: "指由基思·约翰斯通提出、描述人际面对面互动中微观权力与主从关系动态协商的理论概念；主张区分本质地位（固化身份）与扮演地位（情境表演），将地位视作服务于组织实效的工具性手段而非不可逾越的僵化特权。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ tags:
   - theme/organizational-culture
 related_concepts:
   - "[[Pecking Order]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Technological Republic]]"
 related_theories: []
 related_methods: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Status Transactions
@@ -120,7 +119,7 @@ updated: 2026-10-08
 > 探讨如何通过重构地位观念破除官僚恐惧，鼓励基层人员主动填补组织空白。
 
 > [!claim] [[Keith Johnstone|Johnstone, K.]]
-> **地位作为可调度工具性属性推论** 约翰斯通论证指出，舞台与社会中的地位绝非天生固化，而是一种必须为更高艺术或实践目标服务的工具性善品；演员与实践者唯有掌握随境切换地位高低的能力，方能打破支配者的[[Disciplina and Doctrina|规训]]并获取完全的行动自由。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
+> **地位作为可调度工具性属性推论** 约翰斯通论证指出，舞台与社会中的地位绝非天生固化，而是一种必须为更高艺术或实践目标服务的工具性善品；演员与实践者唯有掌握随境切换地位高低的能力，方能打破支配者的规训并获取完全的行动自由。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **去地位化释放组织开放空间断言** 在以工程师为主体的高科技组织中，淡化内部地位符号能够创造巨大的开放空间；当某项前沿业务的领导权存在模糊真空时，不受传统地位地盘恐惧束缚的年轻人才便可主动挺身而出填补空白，从而带来远超科层合规的组织收益。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 125–126)]]

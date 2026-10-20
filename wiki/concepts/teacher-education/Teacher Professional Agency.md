@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在遭遇新泰勒制规训与政策博弈时具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 48
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Variable]]"
   - "[[Scientific Literacy]]"
   - "[[Learning Intentions]]"
@@ -68,7 +67,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Critical Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Henry Giroux]]"
@@ -247,7 +245,7 @@ updated: 2026-10-20
 > > - **循证处方倡导者（Hattie, 2009; Carnine, 2000）** 主张教学应向医学看齐，必须严格遵循[[Meta-analysis|元分析]]验证的标准化有效策略清单，排斥没有数据支持的教师个人经验。
 > > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出教学核心是在具体社区建设学习共同体，涉及深层伦理与[[Student-Teacher Relationship|师生关系]]互动；强搬医学清单不仅无法提高质量，反而将师生异化为数据工具。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 
-> [!critique] 外部批评：新泰勒制[[Disciplina and Doctrina|规训]]诱发的[[Performativity|表演性]]异化
+> [!critique] 外部批评：新泰勒制规训诱发的[[Performativity|表演性]]异化
 > 强推去情境化的高影响力教学策略清单（如维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]）将教学异化为白板打卡与形式主义展示，教师为了免责被迫压制专业直觉，陷入学者[[Stephen Ball|斯蒂芬·鲍尔]]所揭示的[[Performativity|表演性]]危机，严重伤害了基层教师的专业认同与教学热情（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
 ---

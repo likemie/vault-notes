@@ -8,7 +8,7 @@ summary: "源自治疗领域的访谈方法，受访者负责启动和引导访�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -30,13 +30,12 @@ related_methods:
   - "[[Focused Interview]]"
   - "[[Qualitative Interview]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-20
 ---
 
 # Non-directive Interview
@@ -115,5 +114,5 @@ updated: 2026-09-22
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 系统介绍了非引导性访谈的治疗起源、Rogers 的核心品质、作为研究工具的局限，以及向[[Focused Interview\|聚焦访谈]]的演变。

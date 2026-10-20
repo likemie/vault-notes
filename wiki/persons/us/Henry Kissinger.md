@@ -9,7 +9,7 @@ summary: "美国著名外交家、国际政治学者，现实主义地缘战略�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
+  - "[[Geopolitics]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Henry Kissinger
@@ -146,7 +147,7 @@ updated: 2026-10-15
 > [!debates] 学术争议
 >
 > > [!axis] 现实主义均势秩序 vs 道德理想主义与人权批判
-> > 围绕基辛格在冷战博弈中采取的地缘政治现实主义策略是否背离了普世人权伦理展开长达半个世纪的激烈论争。
+> > 围绕基辛格在冷战博弈中采取的[[Geopolitics|地缘政治]]现实主义策略是否背离了普世人权伦理展开长达半个世纪的激烈论争。
 > >
 > > - **[[Analytical Stance|批判立场]]（Chomsky 等）** 谴责其实利主义外交在柬埔寨、智利等地区的干涉决策带来了严重的平民苦难与道德污点。
 > > - **现实主义辩护立场（Kissinger; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 坚称在大国核威慑的险峻格局下，维持国际秩序均势是避免毁灭性第三次世界大战的唯一现实路径；缺乏[[Hard Power|硬实力]]维系的道德纯洁只是脆弱的自欺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 41–55)]]

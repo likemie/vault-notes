@@ -10,7 +10,7 @@ aliases:
 summary: "制度分析与政治经济学中衡量成文规则与实际执行之间开放空间的维度；规则不可消除的内生模糊性使日常遵从成为动态博弈过程，高低裁量空间与宏观否决阻力交互决定渐进制度变迁形态与主导行动者筛选"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,8 +41,7 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Rational Action Theory]]"
   - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"

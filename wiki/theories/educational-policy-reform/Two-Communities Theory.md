@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Discourse]]"
   - "[[Knowledge Mediation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Tacit Knowledge]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Champ]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
   - "[[Governing by Numbers]]"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Russell J. Skiba]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Two-Communities Theory
@@ -126,7 +125,7 @@ updated: 2026-10-17
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一与命题二）** 政策决策者在面临选举问责与施政合法性危机时，倾向于对两社区之间的外部证据进行象征性与选择性利用，优先吸纳能够背书既定方针的确定性结论，而主动清洗或过滤具有方法论审慎性与存疑特质的学术文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **推论二（源自核心命题三）** 当[[Boundary Spanner\|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向[[Disciplina and Doctrina\|规训]]国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **推论二（源自核心命题三）** 当[[Boundary Spanner\|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向规训国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **应用命题** 延伸至全球教育[[Policy Borrowing\|政策借用]]与转译研究中，该理论精准预测了在国家课程改革中，国际组织（如经合组织、世界银行）打包推介的“即插即用”式[[21st Century Skills and Competencies Discourse\|核心素养]]框架，比本土大学研究者基于复杂情境的审慎实证更容易在法定行政法令层面获得政策采纳。
 > - **推论三（两社区引证行为的对称性反思）** 学者常批评决策者断章取义、策略性挑选证据；然而塞佩尔（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）反思指出，学者在学术研讨会上呈现论文时，同样习惯于重点强调支持自身理论的文献，而轻描淡写不相符的研究。两社区并非“纯洁客观 vs 卑劣算计”的绝对对立，而是各自深嵌在自身的正当性维系体系之中；研究者若要让证据进入政策视野，必须主动识别立法者的价值系统并寻找契合点。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 > - **推论四（沉浸式跨界与法条化技术）** 突破两社区壁垒不能停留在单向的信息简报或外包中介，而需通过两项高阶跨界机制：其一为全职沉浸的国会政策研究员机制（[[American Association for the Advancement of Science\|AAAS]]/[[American Educational Research Association\|AERA]] Congressional Fellowships），使学者掌握立法[[Tacit Knowledge|隐性知识]]与语言密码；其二为[[Legislative Policy Brief\|立法政策简报]]，将实证结论转化为由专业律师起草的法定示范条文（Model Statutory Language），直接为法案起草提供可用文本。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
@@ -186,7 +185,7 @@ updated: 2026-10-17
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于解释[[Evidence-Based Education\|循证教育]]改革中大学研究成果为何常被冷落，而智库与国际组织的通俗报告为何深受欢迎。
 > - **作为分析工具** 分解学者与官员在访谈或文本中表达的认知冲突，分析中介机构（如教育[[Chinese Academy of Sciences|科学院]]、非营利组织）扮演的边界跨越策略。
-> - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取[[Discourse|话语]]垄断权。
+> - **作为批判视角** 揭示将[[Evidence-Based Policy-Making|循证决策]]简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取[[Discourse|话语]]垄断权。
 
 > [!logic-map]- 分析流程图
 > ```mermaid
@@ -243,7 +242,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation\|知识中介]]与[[Policy Brokerage\|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner\|边界跨越者]]的机制。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 基于国会山参与实务，反思两社区在证据定义、引证偏好与时间节律上的微观行为对照，阐释通过国会研究员、法定示范条文与中介智库跨越两界壁垒的深度实践路径。
 

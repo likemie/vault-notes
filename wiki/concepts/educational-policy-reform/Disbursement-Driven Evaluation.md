@@ -9,7 +9,7 @@ aliases:
 summary: "国际发展金融与超国家教育借贷中的组织评估异化机制；指多边开发银行内部将资金顺利拨付率与合同硬件投入（校舍修建、培训人数、教材分发）作为项目成功的核心乃至唯一考核指标，而系统性回避与淡化学生实际学业成果是否实质提升的制度惯性；该机制揭示了多边机构在方案设计端具备敏捷吸收前沿理念的学习能力，而在执行与评估端数十年来持续固化于合规账目核查与非学习状态的组织悖论。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,7 +34,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"

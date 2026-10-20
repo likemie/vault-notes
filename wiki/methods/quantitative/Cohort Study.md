@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Fixed-Effect Model]]"
   - "[[Survey Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Arnove]]"
 related_facts:

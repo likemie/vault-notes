@@ -9,7 +9,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估；在人机共生学习中表现为主动协调多源证据、批判性审视算法输出并保持共享认识主体性。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Triangulation]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Deanna Kuhn]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evaluativist
@@ -176,7 +175,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证验证评价主义认识立场在引导多源证据协调、抗拒消极[[Cognitive Offloading\|认知卸载]]与维持共享[[Epistemic Agency\|认识主体性]]中的关键价值。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 将 Kuhn（1991）[[Argumentative Reasoning\|论辩推理]]模型中的评价论者描述为超越绝对论盲从与多元论虚无、能基于相对优劣评估专家专长与知识主张的终极立场。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将评价论定位为最难达成的[[Epistemology\|认识论]]巅峰，实证揭示了其在不同[[Areas of Knowledge\|知识领域]]的达成顺序呈反转态势，并强力验证了专业教育介入的关键作用。

@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学实验室将博士生与博士后作为廉价劳动力支撑科研项目运转，导致博士毕业生供给规模长期超出学术研究岗位实际吸纳能力的结构性失衡"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Descriptive Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"

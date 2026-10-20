@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 > [!policy-design]- 方案设计
 > - **项目目标** 验证跨国家、跨语言与跨文化情境测量大学生通用与学科专业学习成果的技术可行性与国际可比性。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
-> - **四大测评支柱** 项目架构由四大模块构成：(1) 通用认知技能（[[Generic Skills]]）；(2) 学科特定能力（选择工程学与经济学两大试点学科）；(3) 院校与学生背景情境调查；(4) [[Learning Gain|学习增益]]（增值评价）维度探索。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
+> - **四大测评支柱** 项目架构由四大模块构成：(1) [[Generic Skills|通用认知技能]]（[[Generic Skills]]）；(2) 学科特定能力（选择工程学与经济学两大试点学科）；(3) 院校与学生背景情境调查；(4) [[Learning Gain|学习增益]]（增值评价）维度探索。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
 > - **双重转移路径** 针对经济学与工程学学科，联合欧洲 [[Tuning Project|Tuning]] 协会等学术网络界定专业实践胜任力；通用认知技能模块为压减成本与周期，直接采纳美国大学学习评估（[[Collegiate Learning Assessment|CLA]]）的表现性任务。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 > - **实施控制** 采取代表性高校抽样、多语种翻译与适应性[[Back Translation|回译]]质控、在线测评与双评评分质控规程。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 
@@ -108,7 +108,7 @@ updated: 2026-10-20
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2008–2010 — 方案设计、治理网络组建与工具选型期** [[OECD|经合组织]]确立四大支柱架构，委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）牵头组建技术联合体；设立国家专家组（GNE）与利益相关者咨询组（SCG），直接引进美国 [[Collegiate Learning Assessment|CLA]] 任务开发[[Generic Skills|通用技能]]工具。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
+> - **2008–2010 — 方案设计、治理网络组建与工具选型期** [[OECD|经合组织]]确立四大支柱架构，委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）牵头组建技术联合体；设立国家专家组（GNE）与利益相关者咨询组（SCG），直接引进美国 [[Collegiate Learning Assessment|CLA]] 任务开发通用技能工具。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
 > - **2011–2012 — 跨国试点实施与技术挫折显现期** 在 17 国 248 所高校实施可行性先导施测；通用技能任务因植根于美国文化情境而在多国翻译与适应中遭遇严重排异，研发团队不得不中途增补客观多选题并修改框架。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 > - **2013–2015 — 评估报告发布、学术界反弹与常态化推广搁浅** 2012 年底发布总结报告，虽宣称证实了测量可行性，但未能确立国际[[Commensuration|通约]]的可比基准；遭到欧美主流[[Research Universities|研究型大学]]联合抵制，经合组织最终放弃将其推进为常态化 [[PISA]] 式全球排名的计划。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 203)]]
 
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 > [!indicators]- 评估指标体系
 > - **技术可行性指标** 跨国双向翻译一致性、计算机化施测稳定性、评分员跨国[[Reliability|信度]]。
-> - **效度与可比性指标** [[Generic Skills|通用能力]]与学科知识跨国因子等价性（Invariance）、背景[[Variable|变量]]与[[Academic Achievement|学业表现]]相关度。
+> - **效度与可比性指标** 通用能力与学科知识跨国因子等价性（Invariance）、背景[[Variable|变量]]与[[Academic Achievement|学业表现]]相关度。
 
 > [!finding-cards] 核心实证结论
 > - **证实了跨国组织实施高教复杂测量的操作可行性** 试点证明通过跨国专家网络协同，能够在工程学和经济学等学科构建国际认可的能力标准，并动员全球数百所高校组织同步施测。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 200)]]
@@ -156,7 +156,7 @@ updated: 2026-10-20
 > > - **机构与支持者立场（Usher 与政策倡导者）** 认为缺乏客观的跨国教学产出指标导致现有大学排名完全被科研强度垄断，顶尖大学抵制 AHELO 实质上是在维护既有的声望特权，惧怕在教学与学习质量的客观镜鉴中显露短板。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
 >
 > > [!axis] [[Hard Policy Transfer|硬政策转移]]的文化排异危机
-> > 通用认知技能模块直接机械照搬美国 [[Collegiate Learning Assessment|CLA]] 任务引发的技术与效度危机。
+> > [[Generic Skills|通用认知技能]]模块直接机械照搬美国 [[Collegiate Learning Assessment|CLA]] 任务引发的技术与效度危机。
 > >
 > > - **[[Cultural Validity|文化适切性]]与[[Construct Validity|构念效度]]危机批判** [[OECD|经合组织]]为压缩成本与周期，将植根于美国特定文化情境的 CLA 工具硬移植至拉美、欧洲与亚洲等异质文化体系，不仅在跨语言转换中丧失[[Construct|构念]]等价性，也违背了高等教育复杂的本土化认知规律。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 

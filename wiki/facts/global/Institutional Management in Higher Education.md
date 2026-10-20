@@ -176,4 +176,4 @@ updated: 2026-10-20
 > | [[New Public Management]] | Concept | IMHE 在 20 世纪 80 年代后指导高校管理体制重塑的核心行政学理念源泉。 |
 > | [[Steering at a Distance]] | Concept | 经合组织借助 IMHE 评估与指南推动国家高教行政部门由微观控制转向宏观问责的治理模式。 |
 > | [[George Papadopoulos]] | Person | 经合组织教育事务前副司长，在其权威官方史中系统考证了 IMHE 创立与制度分工。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录 IMHE 理事会与教育政策委员会共同作为 AHELO 战略监管核心的历史档案。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录 IMHE 理事会与教育政策委员会共同作为 [[OECD AHELO Project\|AHELO]] 战略监管核心的历史档案。 |

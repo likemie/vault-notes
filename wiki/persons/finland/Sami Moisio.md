@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ tags:
 - level/higher-ed
 - discipline/political-geography
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
@@ -59,7 +60,7 @@ updated: 2026-10-20
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization\|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge\|知识地缘政治]]等概念，将[[Critical Geopolitics\|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
+> - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的[[Geopolitics|地缘政治分析]]著称，提出[[Knowledge-Based Economization\|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge\|知识地缘政治]]等概念，将[[Critical Geopolitics\|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
 
 ---
 
@@ -75,7 +76,7 @@ updated: 2026-10-20
 
 > [!abstract]
 
-- Moisio, S. (2018). *Geopolitics of the [[Knowledge-Based Economy]]*. Routledge. — 系统提出[[Knowledge-Based Economization|知识经济化]]的地缘政治[[Analytic Framework|分析框架]]，论证知识密集型资本主义是一种历史偶然的地缘政治星座
+- Moisio, S. (2018). *[[Geopolitics]] of the [[Knowledge-Based Economy]]*. Routledge. — 系统提出[[Knowledge-Based Economization|知识经济化]]的地缘政治[[Analytic Framework|分析框架]]，论证知识密集型资本主义是一种历史偶然的地缘政治星座
 - Moisio, S., & Rossi, U. (2020). The start-up state: Governing urbanised capitalism. *Environment and Planning A: Economy and Space, 52*(3), 532–552. — 分析创业型国家和城市化资本主义的治理逻辑
 - Moisio, S. (2019). Re-thinking geoeconomics: Towards a political geography of economic geographies. *Geography Compass, 13*(10), e12466. — 重新理论化地缘经济学与政治地理学的关系
 - Moisio, S. (2018). Urbanizing the nation-state: Notes on the geopolitical growth of cities and city-regions. *Urban Geography, 39*(9), 1421–1425. — 分析民族国家的城市化过程作为知识经济化的地缘政治维度
@@ -87,7 +88,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!tip]-
-> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术统合在一起([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
+> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的[[Geopolitics|地缘政治]]星座（historically contingent geopolitical constellation），将空间、城市、国家、[[Human Capital Theory\|人力资本]]、教育和技术统合在一起([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.21]])。
 
 Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
@@ -108,7 +109,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 
 - [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 [[OECD]]/[[World Bank]] 的政策化，并将 KBE 定位为"实际存在的经济形态"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.22–24]])
 - [[Knowledge-Based Economization]] — 提出这一核心概念，将注意力从知识经济的[[Discourse|话语]]层面转向经济化的物质过程和实践，以 Polanyi（1982）和 Çalişkan & Callon（2009）为分析资源([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.24–25]])
-- [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的地缘政治维度，将其定位为"历史偶然的地缘政治星座"。在 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
+- [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的[[Geopolitics|地缘政治]]维度，将其定位为"历史偶然的地缘政治星座"。在 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 
 ### 核心分析概念
 
@@ -129,7 +130,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 > Moisio 的研究对[[Critical Geopolitics\|批判地缘政治学]]、[[Cultural Political Economy\|文化政治经济学]]和高等教育研究产生了跨学科影响，其概念工具被多领域学者援引和扩展。
 
 - 延续并发展了 Jessop（2005）的[[Cultural Political Economy|文化政治经济学]]（CPE）框架和[[Knowledge-Based Economy|知识经济]]作为"想象"的分析([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
-- 将 Harvey（1985）的资本主义地缘政治理论应用于知识经济分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])
+- 将 Harvey（1985）的资本主义[[Geopolitics|地缘政治理论]]应用于知识经济分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])
 - 将 Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论重新定位为地缘政治想象的分析对象([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 - 将 Crouch & Le Galès（2012）的 [[Economic Patriotism]] 概念和 Fraser（2019）的 [[Progressive Neoliberalism]] 概念引入[[Knowledge-Based Economization|知识经济化]]的空间分析
 - 在高等教育研究中：其概念被 [[Argument_Parreira do Amaral_2022_Springer|Parreira do Amaral and Thompson（2022）]]引入教育治理分析。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引 Moisio (2018) 关于教育枢纽、知识村和智慧城市的论述，以及 Moisio and Kangas (2016) 关于"全球性知识空间掩盖领土主张"的批评，用以论证大学同时是"全球知识行动者"和"地缘政治棋子"的双重角色——大学知识越是全球化，大学空间越是被国家重新领土化为竞争的场所([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])

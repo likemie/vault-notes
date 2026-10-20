@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Richard E. Mayer]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Discovery Learning
@@ -269,5 +268,5 @@ updated: 2026-10-16
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri 等（2011）的[[Meta-analysis\|元分析]]与 Mayer（2004），区分无指导与有指导发现，确立有支架的发现学习在概念建构上的优势。

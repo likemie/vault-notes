@@ -8,10 +8,10 @@ aliases:
 summary: "20世纪末在欧洲兴起的教育研究与实践范式，以多元文化社会中异质文化族群间的交互对话、相互学习与包容共生为核心；打破传统比较教育以民族国家为单一分析单元的局限，转向文化配置、移民融入、教材去偏见与课堂反思性互动。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - subject/sociology-of-education
@@ -41,7 +41,6 @@ related_theories:
   - "[[Lefebvre's Spatial Triad]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"

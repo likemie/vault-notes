@@ -8,7 +8,7 @@ summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,7 +40,6 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Participatory Action Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Søren Kierkegaard
@@ -132,7 +131,7 @@ updated: 2026-10-16
 > - **政策与实践批判** 为反思当代教育治理中“数据主义”、“量化绩效问责”与[[Scientism\|科学主义]]霸权提供了存在论批判资源，警示教育不能将鲜活的学生还原为冰冷的测验分数与行为指标。
 > - **跨领域传播** 经历20世纪初德语区学者的转译与推广，迅速渗透进教育哲学、存在主义心理学与[[Critical Pedagogy\|批判教育学]]脉络。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 将克尔凯郭尔确立为破除实证主义客观性迷思、捍卫个体独特性与主观性能力的核心思想源头；系统呈现其对时代去人化倾向的诊断，作为全书由实证主义向自然主义与诠释[[Paradigm\|范式]]过渡的存在论支点。
 
 ---

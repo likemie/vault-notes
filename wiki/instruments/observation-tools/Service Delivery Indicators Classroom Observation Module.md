@@ -10,7 +10,7 @@ aliases:
 summary: "由世界银行与非洲经济研究联合会等联合研发的公共服务交付监测工具包核心模块，面向撒哈拉以南非洲基础教育情境，通过突击不打招呼的学校现场实地核查与课堂观察，系统测量教师到岗出勤率、实际在堂授课时长比例（Time to Teach）以及基础教学规范执行情况，为诊断基层教育资源沉淀与治理失灵提供客观实证微观数据。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 9
+instrument_related_count: 8
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#cffafe"
@@ -39,7 +39,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

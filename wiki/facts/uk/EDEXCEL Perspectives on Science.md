@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Epistemology]]"
   - "[[Areas of Knowledge]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # EDEXCEL Perspectives on Science
@@ -70,7 +69,7 @@ updated: 2026-10-16
 
 ## Zemplén 的对比分析
 
-Zemplén 将 EDEXCEL Perspectives on Science 作为 [[Theory of Knowledge|TOK]] 的对照案例。TOK 的课程开发者选择了超学科框架（extra-disciplinary framework），这导致了框架问题（framework-problem）——课程必须自创一套术语体系，而这套术语反过来[[Disciplina and Doctrina|规训]]了学生的思维。EDEXCEL 课程选择了相反的道路：留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心。这个选择避免了 TOK 的框架问题，但代价是课程更加科学主义、更不以学生为中心，80% 的评估权重压在一份规定格式的科学报告上，学生的叙事自由受到显著限制。
+Zemplén 将 EDEXCEL Perspectives on Science 作为 [[Theory of Knowledge|TOK]] 的对照案例。TOK 的课程开发者选择了超学科框架（extra-disciplinary framework），这导致了框架问题（framework-problem）——课程必须自创一套术语体系，而这套术语反过来规训了学生的思维。EDEXCEL 课程选择了相反的道路：留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心。这个选择避免了 TOK 的框架问题，但代价是课程更加科学主义、更不以学生为中心，80% 的评估权重压在一份规定格式的科学报告上，学生的叙事自由受到显著限制。
 
 [[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 191, note 9)]]
 

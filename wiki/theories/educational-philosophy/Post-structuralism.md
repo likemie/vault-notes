@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -49,11 +49,10 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Qualitative Observation]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Post-structuralism
@@ -186,7 +185,7 @@ updated: 2026-10-16
 > > [!axis] 解构批判性 vs 规范性道德基底的丧失
 > > 争论后结构主义对理性与本质的彻底解构是否会摧毁教育正义的规范性基础。
 > >
-> > - **后结构倡导阵营（Foucault; Derrida）** 主张消解单一真理与本质主义能粉碎霸权[[Discourse|话语]]的[[Disciplina and Doctrina\|规训]]特权，为被压抑的他者与边缘经验撕开解放空间。
+> > - **后结构倡导阵营（Foucault; Derrida）** 主张消解单一真理与本质主义能粉碎霸权[[Discourse|话语]]的规训特权，为被压抑的他者与边缘经验撕开解放空间。
 > > - **[[Critical Theory\|批判理论]]学派（Habermas, 1987）** 批评后结构主义陷入总体化怀疑论与[[Performativity|表演性]]矛盾；若否定普遍交往理性的有效性诉求，教育批判将丧失区分正义与压迫的规范性道德支点。
 >
 > > [!axis] 泛文本主义 vs 物质制度与现实不平等的唯物客观性
@@ -203,7 +202,7 @@ updated: 2026-10-16
 
 ## 实证数据
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 阐发后结构主义在教育探究中的特征：反思[[Structural Functionalism|结构功能主义]]、视数据为文本[[Discourse|话语]]、解构意义特权；第 31–32 章另述[[Discourse Analysis\|话语分析]]的操作路径。
 
 ---

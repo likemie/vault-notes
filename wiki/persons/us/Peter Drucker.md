@@ -10,7 +10,7 @@ summary: "奥地利裔美国著名管理思想家、管理学科奠基人，被�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Engineering Mindset]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []

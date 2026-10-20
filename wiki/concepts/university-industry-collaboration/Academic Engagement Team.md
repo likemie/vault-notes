@@ -10,7 +10,7 @@ aliases:
 summary: "企业内部以专职预算与统筹职责领导和管理大学合作的专业组织载体，通常以跨部门叠加层（overlay）形式嵌入既有科层结构；实践者作为组织通才，需对齐公司最高经营哲学、运用多轨资助与梯级协议化解产学时间与度量错位，并在重大技术转折点推动行业级协同。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,7 +41,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

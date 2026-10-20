@@ -8,7 +8,7 @@ summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
   - "[[Critical Review]]"
 related_persons:
   - "[[Ray Pawson]]"

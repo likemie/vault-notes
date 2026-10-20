@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 46
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -58,7 +58,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
   - "[[Douglas Walton]]"
@@ -73,7 +72,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # AIR Model of Epistemic Cognition
@@ -181,7 +180,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis\|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — AIR 模型的理论奠基性文献，提出扩展的[[Epistemic Cognition\|认识论认知]]五组件[[Analytic Framework\|分析框架]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，为 AIR 模型关于适切[[Epistemology\|认识论]]表现需依赖显性教学指导与[[Reliable Epistemic Processes\|可靠过程]]示范的理论推论提供了强有力的大[[Sample Size Determination\|样本量]]化实证支撑。

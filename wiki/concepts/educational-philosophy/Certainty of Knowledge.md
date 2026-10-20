@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Cohort Study]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
@@ -86,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Certainty of Knowledge
@@ -298,7 +297,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 跨文化对比研究，揭示西方学习传统将追求外部世界确定性知识作为第一核心主题，以数学和公理演绎为典范，与儒家追求自我道德[[Self-Cultivation\|修身]]的传统形成鲜明对照。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 整合与提纯个人[[Epistemological Theories\|认识论理论]]框架，将知识确定性确立为知识本质的核心维度，奠定了其作为连续谱系心理[[Construct\|构念]]的测量基础。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实科学知识确定性信念在控制智力与家庭背景后仍显著负向预测毕业成绩，并揭示大学专业选择中存在自我选择与[[Disciplinary Socialization\|学科社会化]]的双重机制。

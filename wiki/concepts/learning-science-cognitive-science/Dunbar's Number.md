@@ -9,7 +9,7 @@ aliases:
 summary: "英国人类学家罗宾·邓巴提出的人类群体规模认知上限（约150人）。揭示灵长类及人类大脑新皮质容量决定了个体维持稳定直接社会关系的最大极限；超出该规模的超大规模社群必须依赖语言、共享文化与制度化象征构筑想象链接。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - theme/national-identity
 related_concepts:
   - "[[Bureaucracy]]"
+  - "[[Geopolitics]]"
   - "[[Determinism]]"
 related_theories:
   - "[[Pluralism]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dunbar's Number
@@ -125,7 +126,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **生物神经上限论** | 揭示大脑新皮质容量对熟人直接社交圈施加的 150 人生理硬约束 | 演化心理学、小群体行为分析、人类学 | Dunbar (1993) |
-> | **宏观文化超越论** | 论证语言、历史叙事与国家认同是克服邓巴数、维系超大规模技术协作的前提 | 国家建构理论、科技地缘政治、政治哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **宏观文化超越论** | 论证语言、历史叙事与国家认同是克服邓巴数、维系超大规模技术协作的前提 | 国家建构理论、科技[[Geopolitics\|地缘政治]]、政治哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

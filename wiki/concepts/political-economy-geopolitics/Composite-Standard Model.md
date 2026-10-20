@@ -8,10 +8,10 @@ aliases:
 summary: "演化经济学与路径依赖理论中用以解释复杂技术与制度系统如何演化锁定的核心模型；由 Taylor Boas 提出，将系统解构为底层的核心复合标准与上层的外围简单标准，揭示外围图层越繁荣（高厚度商），底层核心标准的转换成本与报酬递增效应越高，从而将整个系统推向不可逆路径锁定的因果机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/political-economy-geopolitics
   - theme/path-dependence
@@ -26,7 +26,6 @@ related_theories:
   - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jeroen van der Heijden]]"

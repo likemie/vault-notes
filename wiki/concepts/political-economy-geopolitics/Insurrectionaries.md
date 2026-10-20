@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求彻底推翻旧制度，短期采取公开违规与正面对抗策略；在弱否决可能性与低解释执行裁量权下驱动制度置换，在联盟博弈中必须拉拢摇摆的机会主义者跨过临界阈值以实现突破"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,8 +38,7 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Rational Action Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"

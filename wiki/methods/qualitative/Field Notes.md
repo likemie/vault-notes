@@ -7,9 +7,9 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 9
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -22,7 +22,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
@@ -32,7 +31,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Field Notes
 
@@ -91,5 +90,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 在[[Case Study\|个案研究]]章讨论观察记录（Lofland、Wolcott、Walker 等的建议，pp. 295–296）；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Ch. 23]] 介绍田野笔记的描述与反思层面、日志类型与[[Unit of Analysis\|分析单位]]。

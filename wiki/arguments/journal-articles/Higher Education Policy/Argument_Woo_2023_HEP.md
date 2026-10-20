@@ -20,6 +20,8 @@ tags:
   - level/international
 related_concepts:
   - "[[Policy Network]]"
+  - "[[People-to-People Connectivity]]"
+  - "[[National Rejuvenation Narrative]]"
   - "[[China Solution]]"
   - "[[Soft Power]]"
   - "[[Explanatory Critique]]"
@@ -34,7 +36,6 @@ related_concepts:
   - "[[Telling China's Story Well]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Century of Humiliation]]"
-  - "[[National Rejuvenation Narrative]]"
   - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
   - "[[International Branch Campus]]"
@@ -42,6 +43,8 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Social Imaginary]]"
+  - "[[Geopolitics]]"
+  - "[[South-South Cooperation]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
@@ -49,6 +52,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Knowledge Production]]"
   - "[[Student Mobility]]"
+  - "[[Developmentalism]]"
   - "[[Grand Theory]]"
   - "[[Champ]]"
 related_theories:
@@ -67,6 +71,7 @@ related_persons:
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[ASEAN]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Luban Workshop]]"
   - "[[China Scholarship Council]]"
@@ -85,7 +90,7 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -103,7 +108,7 @@ sources:
 > 中国[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）教育政策在文本中如何建构自身意义？这些表述如何借助跨部门[[Policy Network|政策网络]]转化为具体的行动推进工具？又是何种深层社会历史机制促成了这一教育叙事的生成？
 
 > [!claim] 核心主张
-> 一带一路教育政策兼具双重面向：表层以多边协作、民心相通与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务民族复兴与输出[[China Solution|中国方案]]的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。（pp. 677–679, 693–694）
+> 一带一路教育政策兼具双重面向：表层以多边协作、[[People-to-People Connectivity|民心相通]]与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务[[National Rejuvenation Narrative|民族复兴]]与输出[[China Solution|中国方案]]的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。（pp. 677–679, 693–694）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中华人民共和国教育部（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
@@ -167,8 +172,8 @@ sources:
 > |---|---|---|---|---|
 > | [[Belt and Road Education Action Plan\|《推进共建“一带一路”教育行动》]] | 中华人民共和国教育部，2016年7月 | 沿线国家教育部、中国各高校与各省教育厅 | 提出教育互联互通、人才培养培训协同与丝路合作机制共建三大重点 | 奠定中国一带一路教育行动的制度规范与操作框架（pp. 682–684） |
 > | 《让“一带一路”愿景与行动在教育领域落地生根》 | 教育部新闻发布会，2016年8月 | 新闻媒体、教育界公众、沿线驻华使节 | 阐述政策出台背景、实施举措、重点支持学科与保障机制 | 官方权威政策解读，界定具体重点工程（pp. 682–684） |
-> | 纳扎尔巴耶夫大学演讲《弘扬人民友谊 共创美好未来》 | 国家主席，2013年9月 | 哈萨克斯坦政要、青年师生、国际社会 | 提出共建丝绸之路经济带，强调政策沟通、设施联通、贸易畅通、资金融通与民心相通 | 提出青年交流与学术流动构想，奠定教育人文合作源头（pp. 682, 684） |
-> | 印尼国会演讲《携手建设中国—东盟[[Community of Shared Future for Mankind\|命运共同体]]》 | 国家主席，2013年10月 | 印度尼西亚国会议员、东盟国家政要 | 倡议共建21世纪海上丝绸之路，深化多领域务实合作与人文纽带 | 确立区域[[Community of Shared Future for Mankind\|命运共同体]]蓝图，将教育交流纳入大国外交布局（pp. 682, 684） |
+> | 纳扎尔巴耶夫大学演讲《弘扬人民友谊 共创美好未来》 | 国家主席，2013年9月 | 哈萨克斯坦政要、青年师生、国际社会 | 提出共建丝绸之路经济带，强调政策沟通、设施联通、贸易畅通、资金融通与[[People-to-People Connectivity\|民心相通]] | 提出青年交流与学术流动构想，奠定教育人文合作源头（pp. 682, 684） |
+> | 印尼国会演讲《携手建设中国—东盟[[Community of Shared Future for Mankind\|命运共同体]]》 | 国家主席，2013年10月 | 印度尼西亚国会议员、[[ASEAN\|东盟]]国家政要 | 倡议共建21世纪海上丝绸之路，深化多领域务实合作与人文纽带 | 确立区域[[Community of Shared Future for Mankind\|命运共同体]]蓝图，将教育交流纳入大国外交布局（pp. 682, 684） |
 > | 《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》 | 国家发改委、外交部、商务部，2015年3月 | 各部委、省级政府、央企与民营企业 | 全球化与多极化背景下的全方位国家对外开放顶层规划与经济走廊设计 | 设立中国政府奖学金并提出教育合作作为民心相通纽带（pp. 684–685, 694） |
 > | 《高等职业教育创新发展行动计划（2015—2018年）》 | 中华人民共和国教育部，2015年10月 | 专科层次高等职业院校与应用技术大学 | 推动职业教育现代化与质量提升，促进专业设置与产业产能走出去紧密对接 | 规范职业院校[[International Branch Campus\|境外办学]]与实训基地建设，服务沿线重大工程（pp. 685–686, 695） |
 > | 《高等学校科技创新服务“一带一路”倡议行动计划》 | 中华人民共和国教育部，2018年11月 | 75所直属重点大学及地方研究型高校、科研院所 | 建立技术创新合作平台，推动科研商业化转移与科技人才跨国双向流动 | 强化中国顶尖大学在高端科技合作与重大工程研发中的引领地位（pp. 685–686, 696） |
@@ -204,7 +209,7 @@ sources:
 > - **处方性框架（Prognostic Framing）**
 >   开出整套行动清单，涵盖设立丝绸之路中国政府奖学金、建设境外合作办学机构、组建跨国高校联盟，并在语言、交通、基建、能源、水利与医药等急需专业开展定向联合培养。（pp. 683–684）
 > - **激励性框架（Motivational Framing）**
->   高度调动文明互鉴、民心相通与[[Community of Shared Future for Mankind|人类命运共同体]]等宏大理念，将教育交流升华为促进区域包容性增长与共同富裕的崇高事业。（p. 684）
+>   高度调动文明互鉴、[[People-to-People Connectivity|民心相通]]与[[Community of Shared Future for Mankind|人类命运共同体]]等宏大理念，将教育交流升华为促进区域包容性增长与共同富裕的崇高事业。（p. 684）
 
 这套框架将零散的国际交流项目整合为兼具紧迫性与道义感的国家行动，在语言层面确立了行动的合法地位。
 
@@ -283,16 +288,16 @@ sources:
 ### 论证步骤三　教育出海寄托着重塑国际秩序与大国复兴的雄心
 
 > [!claim] 步骤三核心主张
-> 在深层历史与政治结构中，教育出海承接了走出近代屈辱、实现[[National Rejuvenation Narrative|民族伟大复兴]]的历史叙事，投射出替代性的全球治理[[Social Imaginary|社会想象]]，并作为推广非西方发展经验的制度化载体，力图在全球南方构建抗衡西方霸权的替代性国际秩序。（pp. 687–692）
+> 在深层历史与政治结构中，教育出海承接了走出近代屈辱、实现民族伟大复兴的历史叙事，投射出替代性的全球治理[[Social Imaginary|社会想象]]，并作为推广非西方发展经验的制度化载体，力图在全球南方构建抗衡西方霸权的替代性国际秩序。（pp. 687–692）
 
 #### 1. 依托非西方发展经验向全球南方输出中国治理方案
 
 教育政策的正当性根植于当代中国的历史创伤叙事与大国崛起抱负，成为连接国内政治合法性与国际治理竞争的关键纽带。
 
-> [!chain-link] 宏观社会治理与地缘政治合法化因果推导链
+> [!chain-link] 宏观社会治理与[[Geopolitics|地缘政治]]合法化因果推导链
 > - **历史前提：[[Century of Humiliation|百年屈辱]]与救亡图存的集体记忆** 近代遭受列强侵略的历史记忆使国家繁荣被视为洗雪耻辱的必由之路，对外合作寄托着重现历史文明辉煌的心理期许。（pp. 687–688）
-> - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为民族复兴的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。（p. 688）
-> - **全球抱负：推广[[China Solution|中国方案]]并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打南南合作与[[Community of Shared Future for Mankind|命运共同体]]，积极输出发展型国家治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。（pp. 688–691）
+> - **制度支柱：两个一百年目标与大国复兴蓝图** 一带一路被界定为[[National Rejuvenation Narrative|民族复兴]]的核心物质与象征载体，对外教育交流全面服从并服务于这一最高国家利益。（p. 688）
+> - **全球抱负：推广[[China Solution|中国方案]]并重塑国际秩序** 在西方治理危机与[[Washington Consensus|华盛顿共识]]失灵的背景下，中国主打[[South-South Cooperation|南南合作]]与[[Community of Shared Future for Mankind|命运共同体]]，积极输出发展型国家治理经验与[[China Solution|中国方案]]，抗衡西方既有秩序。（pp. 688–691）
 > - **结论：教育作为新型治理话语与[[Knowledge Diplomacy|知识外交]]的制度化传输网络** 一带一路跨国高等教育布局不仅承载[[Soft Power|软实力]]投射，更借由[[Knowledge Diplomacy|知识外交]]的合作网络向发展中国家传播中国发展经验、培养知华友华技术与管理精英。（pp. 691–692）
 
 这一战略构想在治理哲学与运作方式上，展现出与西方战后主导的高等教育模式截然不同的逻辑取向。
@@ -343,10 +348,10 @@ sources:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **文本三维框架建构** 核心政策通过诊断技能短板、供给成套制度与激励[[Community of Shared Future for Mankind|命运共同体]]的三维框架化运作，赋予国家主导的高教跨国布局以良性发展主义合法性。（pp. 683–684）
+> 1. **文本三维框架建构** 核心政策通过诊断技能短板、供给成套制度与激励[[Community of Shared Future for Mankind|命运共同体]]的三维框架化运作，赋予国家主导的高教跨国布局以良性[[Developmentalism|发展主义]]合法性。（pp. 683–684）
 > 2. **[[Discourse|话语实践]]的工具从属性** 互文性解构表明，[[Belt and Road Initiative|一带一路]]教育行动由中央最高政治意志统辖，[[Research Universities|研究型大学]]攻坚高精尖科技、应用型高职支持海外产能建设，形成服务国家[[Hard Power|硬实力]]的工具化分工。（pp. 685–687）
-> 3. **宏观社会治理的全球治理雄心** 政策深植于近代民族复兴诉求与提供[[China Solution|中国方案]]的[[Grand Theory|宏大叙事]]，旨在通过教育网络输出非西方现代化路径以抗衡西方高等教育既有格局。（pp. 687–692）
-> 4. **教育[[Soft Power|软实力]]的硬实力附着脆弱性** 中国跨国高等教育吸引力高度寄生于经济补贴与基建带动，面对国际地缘政治剧变与合作国草根社会抵制时表现出明显的脆弱性。（pp. 692–694）
+> 3. **宏观社会治理的全球治理雄心** 政策深植于近代[[National Rejuvenation Narrative|民族复兴]]诉求与提供[[China Solution|中国方案]]的[[Grand Theory|宏大叙事]]，旨在通过教育网络输出非西方现代化路径以抗衡西方高等教育既有格局。（pp. 687–692）
+> 4. **教育[[Soft Power|软实力]]的硬实力附着脆弱性** 中国跨国高等教育吸引力高度寄生于经济补贴与基建带动，面对国际[[Geopolitics|地缘政治]]剧变与合作国草根社会抵制时表现出明显的脆弱性。（pp. 692–694）
 
 > [!stat-cards]- 政策实证关键数据
 > - **492,185** （人） 2018年中国来华留学生总人数，其中非洲与中亚沿线国家生源增长幅度居首。（p. 679）

@@ -9,7 +9,7 @@ aliases:
 summary: "指在开放或不良结构情境中主动识别、界定、重构与提出潜在创造性问题的认知加工过程，是创造过程的前端核心驱动力。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,16 +20,19 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
-  - "[[Divergent Thinking]]"
   - "[[Variable]]"
+  - "[[Divergent Thinking]]"
   - "[[Task Structure]]"
   - "[[Problem-Based Learning]]"
   - "[[Brainstorming]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
   - "[[Construct Validity]]"
+  - "[[Predictive Validity]]"
+  - "[[Creativity Assessment]]"
   - "[[Domain Specificity]]"
   - "[[Cognitive Flexibility]]"
+  - "[[Ecological Validity]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -40,7 +43,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Second-Order Meta-Regression]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Prediction Interval]]"
+  - "[[Meta-regression]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Problem Finding
@@ -66,7 +71,7 @@ updated: 2026-10-19
 > - **用途** 帮助研究者超越单纯的观念生成数量，揭示为何高水平创造者能够在常人忽视的日常情境中开辟新领域。
 > - **边界** 区别于良结构情境中的常规[[Problem Solving|问题解决]]（Problem Solving）；常规解题关注从已知条件推导预设答案，而问题发现关注问题本身的定义与重塑。
 
-> [!citation-card] 创造过程变量的综合测量优势
+> [!citation-card] 创造过程[[Variable|变量]]的综合测量优势
 > [[Divergent Thinking|发散思维]]仅是创造过程的一个组成部分；当把发散思维与其他创造过程[[Variable|变量]]（如问题发现与灵活性）整合在一起时，[[Effect Size|效应量]]显著上升至 0.27。因此，考察全部过程变量相较于只关注单一发散思维，能够提供更充沛的信息量。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 >
 > *Divergent thinking is only one component of the creative process... Thus, it makes sense that more information is provided when all process variables are examined rather than just one, even if it is divergent thinking.*
@@ -85,8 +90,8 @@ updated: 2026-10-19
 > | **认知阶段** | **创造过程最前端（问题界定）** | 创造过程中端（观念生成） | 创造过程后端或独立执行（方案执行） |
 > | **任务情境** | 开放、模糊、无预设标准的不良结构 | 给定明确题目下的多向联想 | 目标明确、路径既定的良构问题 |
 > | **核心加工机制** | 识别信息冲突、多视角重构、目标设定 | 流畅性联想、远距离语义激活、灵活性发散 | 逻辑推理、算法搜索、均值-目标分析 |
-> | **[[Meta-meta-analysis|二阶元分析]]关联** | 整合过程指标 **$r = 0.27$** | 单一测验指标 **$r = 0.14$** | 未单列（通常作为外部效标） |
-> | **教育教学指向** | 劣构探究驱动（[[Problem-Based Learning|PBL]]、探究性科学实验） | [[Brainstorming|头脑风暴]]、非常规用途训练 | 步骤化算法演练、标准习题巩固 |
+> | **[[Meta-meta-analysis\|二阶元分析]]关联** | 整合过程指标 **$r = 0.27$** | 单一测验指标 **$r = 0.14$** | 未单列（通常作为外部效标） |
+> | **教育教学指向** | 劣构探究驱动（[[Problem-Based Learning\|PBL]]、探究性科学实验） | [[Brainstorming\|头脑风暴]]、非常规用途训练 | 步骤化算法演练、标准习题巩固 |
 
 ---
 
@@ -146,10 +151,10 @@ updated: 2026-10-19
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1976 — 艺术创造中的问题发现开创** 盖泽尔斯与希克森特米哈伊（Getzels & Csikszentmihalyi, 1976）基于对美术专业学生的长期追踪研究，首次将问题发现确立为区别于常规问题解答的独立高阶认知过程。
-> - **1988–1993 — 认知测量与任务范式拓展** 伦科与奥库达（Runco & Okuda, 1988）开发出显性问题发现测验，证实问题发现与观念评价能够显著提升发散思维测验的预测效度。
-> - **2020 — 一阶元分析实证整合** 阿卜杜拉等（Abdulla et al., 2020）对 84 项效应量进行一阶元分析，证实问题发现任务与创造性表现存在中等偏强的显著正相关（$r = 0.35$）。
-> - **2026 — 创造过程多维二阶元分析确证** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 跨 52 项一阶元分析开展大规模二阶元分析，证实整合问题发现的综合创造过程效应量（$r = 0.27$）显著超越单一发散思维测验，确立其作为创造力测量核心构件的地位。
+> - **1976 — 艺术创造中的问题发现开创** 盖泽尔斯与希克森特米哈伊（Getzels & Csikszentmihalyi, 1976）基于对美术专业学生的长期[[Cohort Study|追踪研究]]，首次将问题发现确立为区别于常规问题解答的独立高阶认知过程。
+> - **1988–1993 — 认知测量与任务[[Paradigm|范式]]拓展** 伦科与奥库达（Runco & Okuda, 1988）开发出显性问题发现测验，证实问题发现与观念评价能够显著提升[[Divergent Thinking|发散思维]]测验的[[Predictive Validity|预测效度]]。
+> - **2020 — 一阶[[Meta-analysis|元分析]]实证整合** 阿卜杜拉等（Abdulla et al., 2020）对 84 项[[Effect Size|效应量]]进行一阶元分析，证实问题发现任务与[[Creativity|创造性]]表现存在中等偏强的显著正相关（$r = 0.35$）。
+> - **2026 — 创造过程多维[[Meta-meta-analysis|二阶元分析]]确证** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 跨 52 项一阶元分析开展大规模二阶元分析，证实整合问题发现的综合创造过程效应量（$r = 0.27$）显著超越单一发散思维测验，确立其作为[[Creativity Assessment|创造力测量]]核心构件的地位。
 
 ---
 
@@ -164,7 +169,7 @@ updated: 2026-10-19
 > > - **领域特殊性立场** 强调问题发现高度依赖于深厚的领域专门知识；若缺乏对特定领域基本规律的深刻洞察，个体无法准确识别出哪些问题具有真实的科学突破价值。
 
 > [!warning] 适用局限
-> 问题发现任务在生态效度与评分客观性上存在局限：人工主观评分存在评分者信度波动，且高度受限于被试的语言表达流畅性与特定领域的专业前备经验。
+> 问题发现任务在[[Ecological Validity|生态效度]]与评分客观性上存在局限：人工主观评分存在[[Inter-Rater Reliability|评分者信度]]波动，且高度受限于被试的语言表达流畅性与特定领域的专业前备经验。
 
 ---
 
@@ -173,9 +178,9 @@ updated: 2026-10-19
 > [!ma-table]- 问题发现与创造过程相关一阶与[[Meta-meta-analysis|二阶元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | [[Meta-analysis|元分析]] | 测量指标与[[Construct|构念]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 解释边界 |
+> | [[Meta-analysis\|元分析]] | 测量指标与[[Construct\|构念]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Abdulla et al. (2020) | 问题发现与[[Creativity|创造性]]表现的关联 | 84 项[[Effect Size|效应量]] | 皮尔逊 $r$ / 多水平随机效应 | **$r = 0.35$** $[0.29, 0.41]$ | 显著异质性 | 证实问题发现与创造力表现呈中等偏强正相关 |
+> | Abdulla et al. (2020) | 问题发现与[[Creativity\|创造性]]表现的关联 | 84 项[[Effect Size\|效应量]] | 皮尔逊 $r$ / 多水平随机效应 | **$r = 0.35$** $[0.29, 0.41]$ | 显著异质性 | 证实问题发现与创造力表现呈中等偏强正相关 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 涵盖问题发现的综合创造过程二阶效应 | 52 项元分析 (164 ES) / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.27$** $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 证实过程整合测量显著优于单一发散思维（$r = 0.14$） |
 
 ---
@@ -183,4 +188,4 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 跨 52 项一阶元分析实施大规模二阶元分析与元回归，确立涵盖问题发现的综合创造过程相较于单一发散思维测验具有显著更强的效标预测力（pp. 3–8）。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 跨 52 项一阶[[Meta-analysis|元分析]]实施大规模[[Meta-meta-analysis|二阶元分析]]与[[Meta-regression|元回归]]，确立涵盖问题发现的综合创造过程相较于单一[[Divergent Thinking|发散思维]]测验具有显著更强的效标预测力（pp. 3–8）。

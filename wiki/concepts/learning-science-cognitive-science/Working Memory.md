@@ -7,7 +7,7 @@ aliases:
 summary: "个体在执行复杂认知任务时，用于短暂保持、动态操纵与更新信息的容量有限的认知加工系统，构成人类新异信息加工的瓶颈与高级思维的核心基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Multiple Regression]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
   - "[[Analytic Framework]]"
 related_persons:
@@ -242,7 +241,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。

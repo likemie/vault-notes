@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
@@ -53,7 +52,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Critical Review
@@ -155,7 +154,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization\|研究使用]]的文献进行全文本解构，揭示 30 年来该领域[[Deficit Framing\|赤字框架]]与[[Methodological Individualism\|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]概念框架。
 > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 以批判整合性综述界定[[Epistemic Dependence\|认识依赖]][[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立关系性[[Epistemic Agency\|认识主体性]]的规范内核。
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 以批判性综述反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 关于[[Direct Instruction\|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning\|指导式探究]]的循证效能与两者协同模型。

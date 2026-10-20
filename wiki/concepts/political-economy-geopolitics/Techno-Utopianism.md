@@ -27,9 +27,9 @@ related_concepts:
   - "[[Innovation Desert]]"
   - "[[Intellectual Capital]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Stewart Brand]]"
@@ -147,7 +147,7 @@ updated: 2026-10-20
 > [!debates] 学术争议
 >
 > > [!axis] 技术能否保持道德中立
-> > 争论算法与软件是否能超脱于地缘政治与意识形态冲突之外。
+> > 争论算法与软件是否能超脱于[[Geopolitics|地缘政治]]与意识形态冲突之外。
 > >
 > > - **乌托邦中立派** 坚称技术只是一种赋权工具，代码不应带有国界与政治色彩。
 > > - **批判地缘派** 论证在 AI 软件战争时代，不存在道德中立的避风港；拒绝为自由民主国家服务实质上等同于纵容威权对手。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 10–11)]]

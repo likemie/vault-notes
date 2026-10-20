@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
   - "[[Educational Privatisation]]"
+  - "[[Geopolitics]]"
   - "[[Pride in Learning]]"
   - "[[International Education Hubs]]"
   - "[[Generative Artificial Intelligence]]"
@@ -75,7 +76,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -185,7 +186,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 
 > 例：COVID-19 疫情提供了科学-政治关系恶化的鲜活案例——Trump and Bolsonaro 反复拒绝接受气候变化和公共卫生的科学共识，同时提供"替代事实"和"替代发现"(Barrera et al., 2020; Hopf et al., 2019)。当总统说"我不相信科学家"时，[[Otherhood]] 的整个逻辑就崩溃了——大学替"他者"发声，但如果没有人听呢？
 
-**风险二：大学的地缘政治再领土化**。Zapp 揭示了第二个悖论：大学知识越是全球化，大学本身越是**被国家重新收回**作为地缘政治竞争的棋子(pp.155–157)。表现包括：
+**风险二：大学的[[Geopolitics|地缘政治]]再领土化**。Zapp 揭示了第二个悖论：大学知识越是全球化，大学本身越是**被国家重新收回**作为地缘政治竞争的棋子(pp.155–157)。表现包括：
 
 - 诺贝尔奖得主被当作"国家[[Pride in Learning|骄傲]]"来庆祝(Baram-Tsabari & Segev, 2018)
 - 总统国事访问的行程中，大学取代了军事基地成为重要的"打卡点"
@@ -239,7 +240,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 ### 知识治理的双重风险
 
 - 科学-政治关系中存在三级恶化：[[Epistemic Drift|认识漂移]](Elzinga, 1997)→ 证据制造与选择性引用(Steiner-Khamsi et al., 2020; Zapp, 2020a)→ 对学术机构的公开压制（以匈牙利性别研究禁令、中欧大学 CEU 被迫迁离、[[Chinese Academy of Sciences|科学院]]受政府控制为例），参见 [[Epistemic Governance#争议与批评]](pp.154–155)
-- 大学知识全球化与大学被国家重新领土化为地缘政治竞争单位构成悖论：各国通过"卓越计划"、教育枢纽、智慧城市和技术极争夺全球人才与资本，二十国集团（G20）实施研究计分卡，高等教育是《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）最频繁被纳入的行业(Moisio, 2018; Knight, 2018,pp.155–157)
+- 大学知识全球化与大学被国家重新领土化为[[Geopolitics|地缘政治]]竞争单位构成悖论：各国通过"卓越计划"、教育枢纽、智慧城市和技术极争夺全球人才与资本，二十国集团（G20）实施研究计分卡，高等教育是《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）最频繁被纳入的行业(Moisio, 2018; Knight, 2018,pp.155–157)
 
 > [!info]- 核心数据
 > - [[THE Impact Ranking]] 覆盖 **85 个国家近 800 所大学(THE, 2020, p.147)**
@@ -274,7 +275,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 > - **作者自述局限** 本章为概念性讨论而非系统性实证研究，四种机制的识别基于二次数据和[[Literature Review\|文献综述]]，需要更多一手实证研究验证大学在全球治理中的实际影响力(p.157)
 > - **方法论局限** 本章未提供系统的跨国比较或[[Causality\|因果推断]]；案例选择偏向欧洲和北美知名大学，可能高估大学参与全球治理的普遍程度——南半球和资源匮乏的大学是否也在经历同样的转型，存疑
 > - **过度推论风险** 将 CSR 报告、SDG 课程数量等组织表层变化直接等同于大学实质性参与全球治理，可能存在"口头采纳"（talk）与"实际行动"（action）之间的落差。正如批评者对新制度主义的常见质疑——组织可能在正式结构中采纳全球规范（"我们支持 [[UN Sustainable Development Goals\|SDGs]]"），但在核心运作中维持旧有逻辑
-> - **理论局限**[[World Society Theory\|世界社会理论]]倾向于强调全球[[Cultural Models\|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对大学行为的持续塑造作用。Zapp 自己在结论部分对这个立场有微妙调整——他承认大学"同时是许多主人的仆人"
+> - **理论局限**[[World Society Theory\|世界社会理论]]倾向于强调全球[[Cultural Models\|文化模型]]的扩散与同构，可能低估国家权力、[[Geopolitics|地缘政治]]冲突和市场逻辑对大学行为的持续塑造作用。Zapp 自己在结论部分对这个立场有微妙调整——他承认大学"同时是许多主人的仆人"
 
 ## 来源
 

@@ -8,7 +8,7 @@ aliases:
 summary: "将国家建国历史、宪政原则、共同伦理理想与公共仪式升华为维系共同体凝聚力的世俗公共信仰体系。既植根于深层历史传统，又提供超越个人私利与市场功利的公共善追求，是维系民主共和国政治信任与长期生存的道德基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Productization of the Mind]]"
   - "[[Canon Wars]]"
   - "[[Technological Republic]]"
+  - "[[Geopolitics]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Civic Religion
@@ -141,7 +142,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度化功能论** | 公民宗教是超越宗教宗派、维系自由多元共和国认同的核心世俗信仰 | 政治社会学、宪政理论、公民身份研究 | Bellah (1967); McNeill (1986) |
-> | **道德透支危机论** | 解构公民宗教导致社会失去精神防线，必须重塑共享德性以维系国家生存 | 科技地缘政治、文明史反思、高等教育改革 | Smith (2017); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **道德透支危机论** | 解构公民宗教导致社会失去精神防线，必须重塑共享德性以维系国家生存 | 科技[[Geopolitics\|地缘政治]]、文明史反思、高等教育改革 | Smith (2017); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

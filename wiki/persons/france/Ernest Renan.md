@@ -25,14 +25,14 @@ related_concepts:
   - "[[Everyday Plebiscite]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Cosmopolitanism]]"
   - "[[Civic Religion]]"
   - "[[National Character]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
@@ -100,7 +100,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了现代政治哲学中的“公民民族主义”[[Paradigm|范式]]，为[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）构想“[[Imagined Community|想象的共同体]]”以及现代国家认同理论提供了主观精神契约维度的先驱框架。
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
-> - **当代地缘政治与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
+> - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。

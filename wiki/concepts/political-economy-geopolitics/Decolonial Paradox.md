@@ -8,7 +8,7 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,15 +21,14 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Relativism]]"
+  - "[[Geopolitics]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Grand Theory]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Sinicisation]]"
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Hegemony]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Decolonial Paradox
@@ -69,7 +68,7 @@ updated: 2026-10-09
 > [!contrast-table] 去殖民悖论与传统反殖民及威权民族主义的区别
 > | 比较维度 | 去殖民悖论视角（Vickers / Táíwò） | 传统去殖民[[Discourse\|话语]]（如 Mignolo） | 威权去殖民修辞（如[[Jiang Shigong\|强世功]] / 官方） |
 > |---|---|---|---|
-> | **核心关注点** | 本地人（native agency）选择和保留有效制度的自主权。 | 解构西方“地缘政治知识霸权”，追求彻底的脱钩（de-linking）。 | 以“反帝”和“去殖民”为名，确立国家主权的绝对控制。 |
+> | **核心关注点** | 本地人（native agency）选择和保留有效制度的自主权。 | 解构西方“[[Geopolitics\|地缘政治]]知识霸权”，追求彻底的脱钩（de-linking）。 | 以“反帝”和“去殖民”为名，确立国家主权的绝对控制。 |
 > | **对自由与法治的看法** | 虽然起源于殖民历史，但作为限制权力和保护弱者的工具应当被保留。 | 视其为西方地缘政治霸权的制度附庸和文化隐性控制。 | 视其为“殖民遗毒”和对“一国”国家安全的潜在 subversion 隐患。 |
 > | **本地能动性的角色** | 处于核心，本地人是历史选择的主体，非西方威权的强加不是真正的解放。 | 往往被宏大的“反霸权”叙事所折叠，将地方抵抗误判为西方操纵。 | 视地方抵抗为受外部殖民势力洗脑的“ incomplete 主体性”，必须接受思想改造（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。 |
 
@@ -113,7 +112,7 @@ updated: 2026-10-09
 ### 命题二　去殖民悖论在课程重组中表现为以“清除殖民遗毒”为掩护推行彻底的思想控制，将政治参与转为忠诚表演
 
 > [!concept-lens] 实践机制
-> 剖析官方如何以反殖民的进步话语作为修辞包装，在学校课程中实施全方位的臣民化改造，将课程异化为[[Disciplina and Doctrina\|规训]]工具。
+> 剖析官方如何以反殖民的进步话语作为修辞包装，在学校课程中实施全方位的臣民化改造，将课程异化为规训工具。
 
 > [!claim] Vickers, 2024
 > **反殖民修辞下的臣民规训**
@@ -138,7 +137,7 @@ updated: 2026-10-09
 > > [!axis] 去殖民谱系审查优先 vs. 本土人政治能动性优先
 > > 争论焦点在于判定一项社会制度或教育方针的正当性，应当首先审查其历史起源是否纯洁（解殖），还是首先考察其在现实中是否有利于保障本土居民（native agency）的自由、福祉与能动性。
 > > - **[[Argument_Vickers_2024_CE\|Vickers（2024）]]** 坚决捍卫香港本地人选择保留法治和专业自主的能动性，不能用历史起源的殖民性来抹杀现实中这些制度对公民权力的保护作用（pp.154–155）。
-> > - **去殖民原教旨主义者（如 Mignolo）** 坚持只要制度带有西方地缘政治烙印，就必须被“解离”（de-linked），甚至将香港的本土抵抗污名化为对西方霸权的依附。
+> > - **去殖民原教旨主义者（如 Mignolo）** 坚持只要制度带有西方[[Geopolitics|地缘政治]]烙印，就必须被“解离”（de-linked），甚至将香港的本土抵抗污名化为对西方霸权的依附。
 > 
 > > [!axis] “去殖民化”是解放工具还是威权统治的修辞外衣
 > > 争论聚焦于威权政府推行的“去殖民化”教育改写是否具有促进民族尊严的内在正当性。
@@ -152,5 +151,5 @@ updated: 2026-10-09
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 首次在比较教育框架下使用“去殖民悖论”理论解构香港[[Citizenship and Social Development\|公民与社会发展科]]对通识科的替代。

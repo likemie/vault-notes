@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 46
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Business as Usual]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Structured Teaching]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -62,7 +61,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -75,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Self-control
@@ -243,7 +241,7 @@ updated: 2026-10-16
 > > - **特质派（Duckworth et al., 2007）** 强调坚毅（Grit）与自我控制是高度稳定的跨情境特质，能够持久预测学业与职业成就。
 > > - **自我损耗资源派（Baumeister et al., 1998）** 认为自我控制依赖有限的心智能量储备（Ego Depletion），连续高强度的自控会导致后续任务中的自律崩溃，需要休息与糖分补充。
 >
-> > [!axis] 自主能动性赋能 vs 新自由主义行为[[Disciplina and Doctrina\|规训]]
+> > [!axis] 自主能动性赋能 vs 新自由主义行为规训
 > > 探讨在公立教育中推行自我控制干预的价值导向。
 > >
 > > - **发展赋能立场（van Poortvliet et al., 2019）** 认为自我控制为弱势背景学生提供了克服逆境与自主掌控人生的关键心理工具，缩小了不平等差距。
@@ -281,7 +279,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 引用 Kennett 等（2008）的[[Mixed Methods Research\|混合方法研究]]，说明 Rosenbaum 自我控制理论与习得性资源感如何支持行为自我管理，并引述 Lekhal（2015）的性别差异证据。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 汇总 Hattie 教学策略[[Meta-analysis|元分析]]数据，指出孤立的课外干扰自我控制其学业[[Effect Size|效应量]]仅为 =0.04$，实证印证了自控力必须与教学情境及外部支持协同方能发挥效能。

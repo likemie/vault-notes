@@ -25,11 +25,11 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Social Deafness]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -181,7 +181,7 @@ updated: 2026-10-20
 > > 争论一线工程师的能动调整应局限于技术战术细节，还是可以延伸至商业模式与制度合规层面的战略重塑。
 > >
 > > - **技术自主派** 认为最懂技术边界与物理现实的一线技术人员应享有最大的行动自由，规则应为工程实效让路。
-> > - **合规与治理派** 警告技术人员若对外部法律、地缘政治与社会伦理缺乏认知，盲目的技术违抗可能诱发严重的合规与声誉危机。
+> > - **合规与治理派** 警告技术人员若对外部法律、[[Geopolitics|地缘政治]]与社会伦理缺乏认知，盲目的技术违抗可能诱发严重的合规与声誉危机。
 
 ---
 

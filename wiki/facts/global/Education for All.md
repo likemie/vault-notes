@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Learning Crisis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
   - "[[School Choice]]"
@@ -45,8 +44,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Typology of Educational Responses to Globalization]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -177,7 +175,7 @@ updated: 2026-10-20
 > > - **教育学者与实地教师** 批评这种指标狂热诱发了虚假的繁荣，由于师资和教材极端匮乏，“在校无学（[[Learning Crisis|Schooling Without Learning]]）”彻底背离了宗滴恩会议“满足基本学习需求”的初心。
 >
 > > [!axis] 多边人道受教育权 vs 借贷附加条件的政治支配
-> > 全球南方学者指责全民教育倡议沦为西方主导的治理[[Disciplina and Doctrina|规训]]工具。
+> > 全球南方学者指责全民教育倡议沦为西方主导的治理规训工具。
 > >
 > > - **[[World Bank|世界银行]]与捐助国** 认为国际指标基准是保障纳税人援助资金使用效率不可或缺的问责手段。
 > > - **后殖民批判学者** 指责西方大国将教育援助与新自由主义经济改革绑架，受援国为了达标不得不牺牲中高等教育与本土课程自主权。

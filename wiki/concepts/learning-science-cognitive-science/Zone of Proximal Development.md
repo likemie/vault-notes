@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 55
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Intellectual Capital]]"
   - "[[Test Validity]]"
   - "[[Reliability]]"
@@ -65,7 +64,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
@@ -248,7 +246,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > > 争论 ZPD 究竟是“更有能力的他人（MKO）”向新手单向传授规范化文化工具，还是师生在特定文化生态中平等的共同建构过程。
 > >
 > > - **传统结构派** 强调支架的定向性与权威示范，认为缺乏明确目标引领将导致学习效率低下。
-> > - **社会文化批判派** 警惕支架异化为[[Disciplina and Doctrina|规训]]权力的延伸，主张关注弱势群体自带的在地文化[[Intellectual Capital|知识资本]]。
+> > - **社会文化批判派** 警惕支架异化为规训权力的延伸，主张关注弱势群体自带的在地文化[[Intellectual Capital|知识资本]]。
 >
 > > [!axis] [[Dynamic Assessment|动态评估]]潜能 vs 静态标准化[[Test Validity|测验效度]]
 > > 争论教育选拔是否应全面转向测查 ZPD 的动态测试。

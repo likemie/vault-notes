@@ -24,7 +24,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemic Commitments]]"
   - "[[Bildung]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Performance Pay]]"
   - "[[Hypothesis]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Variable]]"
   - "[[Discourse]]"
 related_theories:
@@ -92,7 +92,7 @@ journal: "Journal of Curriculum Studies"
 > 德国教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）针对新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）中所声称的基于 800 多项[[Meta-analysis|元分析]]找到了教学研究的圣杯（Holy Grail）提出质询：这一宏大综合是否真正确立了教学研究的可靠知识？其背后的[[Meta-meta-analysis|元-元分析]]方法论、[[Didaktik|教学理论]]建构以及[[Evidence-Based Education|证据本位教育]]的[[Epistemic Commitments|认识论承诺]]存在何种深层局限与内在困境？（p. 426）
 
 > [!claim] 核心主张
-> 哈蒂未曾获得教学研究的终极圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔：二阶聚合在消除方法学细节的同时丢失了原始经验信息；形式化与心理学化的教学模型抽空了德国教学论（[[Didaktik]]）与教化（[[Bildung]]）传统所关注的学科实质内容正当性；视觉隐喻掩盖了微观权力[[Disciplina and Doctrina|规训]]与隐性教师中心主导；全书不可调和地同时受制于[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]。（pp. 426, 430–431, 434–437）
+> 哈蒂未曾获得教学研究的终极圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔：二阶聚合在消除方法学细节的同时丢失了原始经验信息；形式化与心理学化的教学模型抽空了德国教学论（[[Didaktik]]）与教化（[[Bildung]]）传统所关注的学科实质内容正当性；视觉隐喻掩盖了微观权力规训与隐性教师中心主导；全书不可调和地同时受制于[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]。（pp. 426, 430–431, 434–437）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 聚焦哈蒂（2009）专著《可见的学习》全书 816 项元分析、138 项影响因素及其建构的二阶元分析模型、教学理论体系与新西兰政策咨询实践。（pp. 425–427）
@@ -200,7 +200,7 @@ journal: "Journal of Curriculum Studies"
 ### 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
 
 > [!claim] 步骤二核心主张
-> 哈蒂的形式化[[Didaktik|教学理论]]完全抽空了德国教学论与教化传统所关注的学科实质内容与课程正当性；其倡导的双向可见性与教师激活角色，在福柯视角下展现为将传统公开外显统治转化为内化自我监控的现代全景[[Disciplina and Doctrina|规训]]技术。（pp. 430–435）
+> 哈蒂的形式化[[Didaktik|教学理论]]完全抽空了德国教学论与教化传统所关注的学科实质内容与课程正当性；其倡导的双向可见性与教师激活角色，在福柯视角下展现为将传统公开外显统治转化为内化自我监控的现代全景规训技术。（pp. 430–435）
 
 #### 1. 课程缺乏教化实质且双向可见性沦为微观监控
 
@@ -261,7 +261,7 @@ journal: "Journal of Curriculum Studies"
 > - **机制：统计层级转换引发认知断裂** 跨项目跨方法的盲目累积导致经验信息系统性流失，且二阶综合同时印证了常识固化的稳定性假说与关键发现过时的变异性假说。（pp. 436–437）
 > - **结论：金字塔替代圣杯** 未曾寻获终极圣杯，其实际成果是筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法移位；另一方面局部不断受损、整体无休止扩建修复，始终处于临时性与未完成状态。（p. 437）
 
-> [!implication]- 循证决策与教学研究的方法学启示
+> [!implication]- [[Evidence-Based Policy-Making|循证决策]]与教学研究的方法学启示
 > - **对实证教学研究的警示** 教学实践的复杂性与情境性无法被二阶统计聚合彻底吸收，二阶元分析绝不能取代针对特定课堂情境与微观互动的初级实证研究与质性探究。（pp. 436–438）
 > - **对教育政策制定的规诫** 政策制定者不能寄望于单一量化效应排行榜作为终极决策工具，必须警惕量化还原论，并在循证决策中重拾对教育实质价值与课程内容合法性的反思。（pp. 437–438）
 
@@ -272,8 +272,8 @@ journal: "Journal of Curriculum Studies"
 > [!finding-cards] 核心发现
 > 1. **二阶聚合致使经验信息损耗与时效滞后** 跨研究重复聚合消解了原始经验情境与控制[[Variable|变量]]，且缺乏纳入质控标准并过度依赖陈旧文献，导致底层数据库质量异质。（pp. 428–429, 436）
 > 2. **形式化[[Didaktik|教学理论]]面临教化实质真空** 联想式借用波普尔[[Popper's Three Worlds Theory|三个世界理论]]，抽空了德语教学论与教化传统所关注的学科知识正当性与价值反思。（pp. 430–431）
-> 3. **双向可见性隐喻潜藏全景[[Disciplina and Doctrina|规训]]治理** 互看与被观察构成了理论核心，以学生中心的修辞掩盖了教师支配与内化的微观自我监控机制。（pp. 434–435）
-> 4. **终结圣杯神话的金字塔双重困境** 二阶聚合同时受制于常识渐近逼近的[[Stability vs. Variability Dilemma|稳定性假说]]与旧结论被最新实证颠覆的变异性假说，证明循证决策无法消除教育复杂性。（pp. 436–437）
+> 3. **双向可见性隐喻潜藏全景规训治理** 互看与被观察构成了理论核心，以学生中心的修辞掩盖了教师支配与内化的微观自我监控机制。（pp. 434–435）
+> 4. **终结圣杯神话的金字塔双重困境** 二阶聚合同时受制于常识渐近逼近的[[Stability vs. Variability Dilemma|稳定性假说]]与旧结论被最新实证颠覆的变异性假说，证明[[Evidence-Based Policy-Making|循证决策]]无法消除教育复杂性。（pp. 436–437）
 
 > [!stat-cards]- 核心数据
 > - **816 / 52,649 / 83.03M** [[John Hattie|哈蒂]]综合的[[Meta-analysis|元分析]]数、初级研究数与涵盖学生样本规模。（p. 428）
@@ -296,7 +296,7 @@ journal: "Journal of Curriculum Studies"
 >
 > *That might have been the starting point of a [[Discourse]] about the substance of education and teaching, but Hattie does not follow this possible line of thought. So one wonders: Where is the beef? In the chapter on “curriculum” one would expect more information about the substance, the content of school learning. However, again nothing can be found there... The question of content, the question of the pedagogical significance of subjects, reflections about problems, and possibilities of legitimizing curricular decisions (Why include this—why exclude that?) are completely ignored.*
 
-> [!citation-card] 特哈特论双向可见性与福柯式全景[[Disciplina and Doctrina|规训]]治理
+> [!citation-card] 特哈特论双向可见性与福柯式全景规训治理
 > 他对关于成功教与学的广泛经验证据的解释，引向了一种现代化且精致的权威性、教师中心教学构想。教师处于支配地位——但他必须以学生中心的方式驯化或掩盖其支配。传统的、公开的外显治理和支配形式，已转变为一种精致的、不可见的现代形式。如果我们把它置于福柯思想的语境中，这是显而易见的。哈蒂本人也说得很清楚，他将教学与学习的相互注视、相互可见和相互被观察置于其教与学理论的中心。这一理论的象征正是眼睛。（p. 434）
 >
 > *His interpretation of the broad empirical evidence on successful teaching and learning leads Hattie to a modernized and refined conception of authoritative, teacher-centred teaching. The teacher is in a position of dominance—but he has to tame or to hide his dominance in a student-centred manner. The traditional, overt form of governance and domination has changed to a refined, invisible, and modern one. This is obvious if we place it in the context of Foucault’s thinking. Also, Hattie makes this very clear himself, as he places the mutual seeing, the mutual visibility, and the mutual being observed of the teacher’s teaching and the learners’ learning in the centre of his theory of teaching and learning. The symbol of this theory is the eye.*

@@ -10,7 +10,7 @@ aliases:
 summary: "通过融合多物理场第一性原理机理模型与高通量实时原位计量数据，构建半导体制造全流程与实体晶圆厂高保真虚拟镜像以实现工艺预测与良率优化的先进技术范式。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
 related_methods:
   - "[[Statistical Process Control]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"

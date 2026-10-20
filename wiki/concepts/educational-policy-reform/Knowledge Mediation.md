@@ -7,7 +7,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -48,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[David C. Mowery]]"
 related_facts:

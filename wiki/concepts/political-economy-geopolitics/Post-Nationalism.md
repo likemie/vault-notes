@@ -26,11 +26,11 @@ related_concepts:
   - "[[Civic Religion]]"
   - "[[Hard Power]]"
   - "[[Pride in Learning]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
 related_theories:
   - "[[Pluralism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
@@ -139,7 +139,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 决策者 |
 > |---|---|---|---|
 > | **公共意义真空与资本异化** | 论证解构国家认同必然导致社会退向消费主义与部落对抗 | 当代西方文化研究、资本主义批判与公民教育 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); Jégo (2017) |
-> | **历史自谴与防卫意志瘫痪** | 阐明过度压制国家认同彻底瓦解了民主阵营的军事硬实力威慑 | 欧洲安全格局、战后德国历史记忆与地缘政治 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Martin Walser\|Walser]] (1998) |
+> | **历史自谴与防卫意志瘫痪** | 阐明过度压制国家认同彻底瓦解了民主阵营的军事硬实力威慑 | 欧洲安全格局、战后德国历史记忆与[[Geopolitics\|地缘政治]] | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Martin Walser\|Walser]] (1998) |
 
 ---
 

@@ -28,11 +28,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Student Mobility]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Liberalization]]"
   - "[[Presence]]"
   - "[[International Education]]"
   - "[[Research Universities]]"
+  - "[[International Branch Campus]]"
   - "[[Strategic Autonomy]]"
   - "[[Educational Privatisation]]"
   - "[[Commensuration]]"
@@ -42,10 +42,10 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -79,7 +79,7 @@ updated: 2026-10-20
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> GATS 是当代国际经贸治理中首个将教育服务纳入多边法律约束的协定；它将教育重新定义为受商业供求规律驱动的跨境服务产品，通过四大供给模式推进跨国市场准入与国民待遇，为新自由主义教育改革确立了全球合法性框架，并对发展中国家的[[State Educational Sovereignty|国家教育主权]]形成了深层的多标度[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> GATS 是当代国际经贸治理中首个将教育服务纳入多边法律约束的协定；它将教育重新定义为受商业供求规律驱动的跨境服务产品，通过四大供给模式推进跨国市场准入与国民待遇，为新自由主义教育改革确立了全球合法性框架，并对发展中国家的[[State Educational Sovereignty|国家教育主权]]形成了深层的多标度规训。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 消除各国在跨境教育服务准入与运营方面的制度壁垒，推动文凭学历互认，促进教育资本跨国流动与国际服务贸易逐步[[Liberalization|自由化]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -120,8 +120,8 @@ updated: 2026-10-20
 
 > [!pathways]- 实施路径
 > - **自愿承诺与逐步[[Liberalization|自由化]]** 成员国通过双边或多边“出价—要价（Request-Offer）”磋商，确定在教育五个子类别中是否给予外国办学机构国民待遇与市场准入。
-> - **跨国办学与学位互认对接** 协定推动各国教育主管部门破除边境资质障碍，建立对等评估与联合办学备案制，促成国际分校在亚洲与中东大量设立。
-> - **多标度[[Disciplina and Doctrina|规训]]与国内法调适** 成员国若在承诺部门对外国教育机构设立歧视性补贴或不合理的办学资本门槛，可能面临 WTO 机制下的贸易反制威胁。
+> - **跨国办学与学位互认对接** 协定推动各国教育主管部门破除边境资质障碍，建立对等评估与联合办学备案制，促成[[International Branch Campus|国际分校]]在亚洲与中东大量设立。
+> - **多标度规训与国内法调适** 成员国若在承诺部门对外国教育机构设立歧视性补贴或不合理的办学资本门槛，可能面临 WTO 机制下的贸易反制威胁。
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 > [!indicators]- 评价指标
 > - **承诺覆盖率** 全球累计已有近 60 个成员在 GATS 框架下作出了不同程度的高等教育或成人教育开放减让承诺。
-> - **跨国办学实体增长** 全球海外独立分校（IBCs）与中外合作办学项目规模自 2000 年以来激增数倍。
+> - **跨国办学实体增长** 全球海外独立分校（[[International Branch Campus|IBCs]]）与中外合作办学项目规模自 2000 年以来激增数倍。
 > - **意识形态合法性渗透** GATS 的核心效应不仅在于强制合规，更在于它成功将新自由主义教育改革构筑为全球政策界[[Doxa|不言自明]]的常识。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!finding-cards] 效果与评价
@@ -195,7 +195,7 @@ updated: 2026-10-20
 > | [[State Educational Sovereignty]] | Concept | GATS 跨境市场规制直接穿透并重塑了传统的国家教育排他性主权。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, p. 111)]] |
 > | [[Pluri-Scalar Governance]] | Concept | 罗伯逊等人用于剖析 GATS 空间重组的核心分析框架，涵盖空间标度、治理实体与活动类型。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
 > | [[Internationalization of Higher Education]] | Concept | GATS 构成了推动高等教育国际化由学术文化理性转向市场商品化理性的关键制度推手。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 97–98)]] |
-> | [[Geopolitics of Knowledge]] | Concept | GATS 强化了全球知识地缘政治中西方中心国家对学术生产、文凭定价与国际知识流动的支配地位。 |
+> | [[Geopolitics of Knowledge]] | Concept | GATS 强化了全球知识[[Geopolitics\|地缘政治]]中西方中心国家对学术生产、文凭定价与国际知识流动的支配地位。 |
 > | [[Robert Arnove]] | Person | 系统剖析 GATS 造成南北国家教育调控权鸿沟并揭示其多标度规训特质的学者。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
 
 ---

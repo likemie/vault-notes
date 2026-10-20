@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 50
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,14 +44,18 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Epistemological Vigilance]]"
   - "[[Techno-Utopianism]]"
+  - "[[Learnification]]"
   - "[[Variable]]"
   - "[[International Schools]]"
   - "[[Emergence]]"
   - "[[Knowledge Questions]]"
+  - "[[Paradigm]]"
+  - "[[Working Memory]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Behaviorism]]"
   - "[[Radical Constructivism]]"
+  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Factorial Design]]"
   - "[[Randomised Controlled Trials]]"
@@ -61,7 +65,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Multi-Arm Trial]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_facts:
   - "[[PISA]]"
@@ -72,12 +75,13 @@ related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Learner Autonomy
@@ -227,7 +231,7 @@ updated: 2026-10-18
 > > [!axis] 主观唯我论自主 vs 向他者开放的教育相遇
 > > 批判教育哲学审视将自主性还原为个体内部自足调节的唯我论风险。
 > >
-> > - **学习化与自我监控立场** 将自主性界定为主体内部的自我调节、自我监控与自我评价技能，追求学习者个体自给自足的心智自洽系统。
+> > - **[[Learnification|学习化]]与自我监控立场** 将自主性界定为主体内部的自我调节、自我监控与自我评价技能，追求学习者个体自给自足的心智自洽系统。
 > > - **存在论教育学立场（Biesta; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）** 比斯塔与罗默指出，将教育还原为个体主观自足的“自主学习”抽离了教学的实质意涵；真正的教育成长包含面向外部世界、向不可预见的教导与文化他者开放的被动维度，教学作为一种召唤主体生成的相遇，超越了孤立心智的自主调节。
 
 ---
@@ -261,7 +265,7 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 质性剖析 IB [[Theory of Knowledge\|知识论]]课程如何通过[[Epistemology\|认识论]]批判反思与[[Metacognition\|元认知]]自信建设双轨路径培育实质性学习者自主。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 量化评估 IB 课程对学生[[Critical Thinking\|批判性思维]]与独立探究能力的长期因果促进效应。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
@@ -281,11 +285,11 @@ updated: 2026-10-18
 > | [[Metacognition]] | 概念 | 自主学习者监控与调节自身认知进程的关键心智能力。 |
 > | [[Scaffolding]] | 概念 | 培育自主性所必需的渐退式支架，防止去结构化掉队。 |
 > | [[Structured Teaching]] | 概念 | 与学习者自主性构成动态平衡的教学组织维度。 |
-> | [[Constructivist Paradigm]] | 理论 | 将学习者确立为能动意义建构主体的基础理论范式。 |
-> | [[Cognitive Load Theory]] | 理论 | 解释缺乏支架的极端自主导致工作记忆过载的认知机制。 |
-> | [[Argument_Lakhani_2012_AKUIED]] | 论证 | 质性揭示认识论反思与元认知自信双轨生成自主性的实证研究。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE]] | 论证 | 通过析因试验剥离软件自主与教师直接教学独立因果贡献的研究。 |
-> | [[Argument_Håkansson_2015_TT]] | 论证 | 综合实证反思去结构化放任自学导致学业滑坡的系统综述。 |
-> | [[Argument_Li_2026_CEAI]] | 论证 | 综述生成式 AI 时代学习者防范认知卸载与维持认识论警觉的文献。 |
-> | [[Argument_Rømer_2018_EPT]] | 论证 | 从存在论教育学批判将自主学习窄化为主观自我监控的哲学论述。 |
+> | [[Constructivist Paradigm]] | 理论 | 将学习者确立为能动意义建构主体的基础理论[[Paradigm\|范式]]。 |
+> | [[Cognitive Load Theory]] | 理论 | 解释缺乏支架的极端自主导致[[Working Memory\|工作记忆]]过载的认知机制。 |
+> | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] | 论证 | 质性揭示[[Epistemology\|认识论]]反思与元认知自信双轨生成自主性的实证研究。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 论证 | 通过析因试验剥离软件自主与教师[[Direct Instruction\|直接教学]]独立因果贡献的研究。 |
+> | [[Argument_Håkansson_2015_TT]] | 论证 | 综合实证反思去结构化放任自学导致学业滑坡的[[Systematic Review\|系统综述]]。 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 论证 | 综述生成式 AI 时代学习者防范[[Cognitive Offloading\|认知卸载]]与维持[[Epistemological Vigilance\|认识论警觉]]的文献。 |
+> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 从存在论教育学批判将自主学习窄化为主观自我监控的哲学论述。 |
 

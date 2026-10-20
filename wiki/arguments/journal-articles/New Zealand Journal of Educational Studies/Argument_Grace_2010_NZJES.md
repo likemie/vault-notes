@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
+  - "[[Educational Reductionism]]"
   - "[[Academic Freedom]]"
   - "[[New Managerialism]]"
   - "[[Value Neutrality]]"
@@ -29,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
-  - "[[Educational Reductionism]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -50,7 +50,7 @@ sources:
 part_of: ""
 status: completed
 created: '2026-05-07'
-updated: 2026-10-18
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
@@ -310,7 +310,7 @@ journal: New Zealand Journal of Educational Studies
 > 1. **法定角色源于防范政治殖民** [[Critic and Conscience of Society|社会的批评者与良知]]作为法定概念，诞生于 1980 年代抵御政治意识形态与国家财政干预对大学独立性侵蚀的制度反思，其核心使命是基于系统学术研究向执政权力讲真话。（pp. 89–90）
 > 2. **学科内部批评与社会良知存在质的区隔** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中对评估与教学假设的批评属于正常的学科内部技术性工作，并未达成面向社会结构与公共政策制衡的良知角色标准。（p. 90）
 > 3. **非学校因素具有不可替代的社会代表性** 非学校因素本质上代表了社会生活机会的结构性分布；排除非学校因素超越了纯粹的方法论取舍，抽空了社会这一分析实体。（pp. 90–91）
-> 4. **教育还原主义为维持不平等现状提供政治掩护** 宣称单凭教学改革即可解决学业差距的还原主义观点，精准契合了政客推卸深层社会经济不平等治理责任的政策诉求。（p. 91）
+> 4. **[[Educational Reductionism|教育还原主义]]为维持不平等现状提供政治掩护** 宣称单凭教学改革即可解决学业差距的还原主义观点，精准契合了政客推卸深层社会经济不平等治理责任的政策诉求。（p. 91）
 > 5. **典范学者确立了批判学术的规范基准** [[Basil Bernstein|伯恩斯坦]]与[[Roy Nash|纳什]]的研究证明，真正的社会良知学者必须直面阶级与贫困等非学校因素，坚决破除教育万能论的政策神话。（p. 91）
 
 ---
@@ -327,7 +327,7 @@ journal: New Zealand Journal of Educational Studies
 >
 > *"However, the role that Professor Hattie has performed in this work is not that of [[Critic and Conscience of Society]] but rather that of critic of the quality of research and assumptions in the academic [[Champ|field]], assessment, teaching and learning. It is in that sense, part of the normal technical and critical academic work expected of professors of education."*
 
-> [!citation-card] 排除非学校因素的教育还原主义与政治便利性
+> [!citation-card] 排除非学校因素的[[Educational Reductionism|教育还原主义]]与政治便利性
 > “承担社会良知使命的教育学者，有责任在一切学业差距的分析中充分纳入校外社会[[Variable|变量]]。若抽离这些因素，政客与公众都会产生错觉，误以为单凭学校内部的教学改革就能抹平既有的教育不平等。这种将[[Academic Achievement|学业成就]]全然归因于校内过程的浅陋观点极易受到政策制定者的青睐，因为它巧妙地回避了关于社会贫困与经济不平等的根源性改革议题。”（p. 91）
 >
 > *"The education academic in the role of critic and conscience of society has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements. This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society and their role in affecting educational outcomes."*

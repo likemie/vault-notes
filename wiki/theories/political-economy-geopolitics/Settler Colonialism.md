@@ -22,13 +22,13 @@ tags:
   - region/xinjiang
   - paradigm/critical
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Necropolitics]]"
   - "[[Hegemony]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Xinjiang Vocational Education and Training Centers]]"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Settler Colonialism
@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向以消除或替换土著人口为核心逻辑的持续主权占领，而非暂时的资源开发。
-> - **用途** 协助研究者理解地缘政治整合政策中，人口大迁移与文化/语言消解背后的深层主权控制逻辑。
+> - **用途** 协助研究者理解[[Geopolitics|地缘政治]]整合政策中，人口大迁移与文化/语言消解背后的深层主权控制逻辑。
 > - **边界** 不适用于仅以经济掠夺为目的、不涉及大规模人口定居与土著文化替代的短期或间接殖民（传统殖民主义）。
 
 > [!citation-card]- 关键表述
@@ -103,6 +103,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 对定居殖民主义[[Paradigm\|范式]]在新疆应用时的去政治化悖论与合谋效应进行了系统性学术批判。
 > - [[Xinjiang Vocational Education and Training Centers]] — 被西方定居殖民主义学者视为执行“消除的逻辑”、实施文化灭绝的核心实证案例。

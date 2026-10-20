@@ -21,6 +21,7 @@ tags:
   - method/qualitative
 related_concepts:
   - "[[Professional Judgment]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
   - "[[Scaffolding]]"
+  - "[[Test Production]]"
   - "[[Pride in Learning]]"
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
@@ -97,9 +99,9 @@ title: "Argument_McDonnell_2013_AmJE"
 argument_key: "Argument_McDonnell_2013_AmJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "American Journal of Education"
 book_title: ""
@@ -117,7 +119,7 @@ issuing_organization: ""
 > 在重大公共教育政策制定全流程中，学术实证研究证据的利用方式如何在不同决策阶段发生动态演变？面对复杂的政治制度环境与利益博弈，科学实证研究如何与决策者的[[Professional Judgment|专业判断]]、一线教育者的实践经验以及规范性政治价值产生互动与整合？（pp. 1–2）
 
 > [!claim] 核心主张
-> 即便在最有利于循证决策的理想案例情境中，科学实证研究也从未单独决定政策选择；证据的利用形态严格取决于决策阶段所面临的特定政治与政策目标，研究证据必须与专业判断、本土实践经验及两党规范性价值叙事发生策略性整合，才能实现重大制度垄断的破局与合法化采纳。（pp. 1–3, 19）
+> 即便在最有利于[[Evidence-Based Policy-Making|循证决策]]的理想案例情境中，科学实证研究也从未单独决定政策选择；证据的利用形态严格取决于决策阶段所面临的特定政治与政策目标，研究证据必须与专业判断、本土实践经验及两党规范性价值叙事发生策略性整合，才能实现重大制度垄断的破局与合法化采纳。（pp. 1–3, 19）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动从问题动议发起、标准文本研制到 45 个州及特区法定采纳的全过程。（pp. 1, 7）
@@ -317,7 +319,7 @@ issuing_organization: ""
 > [!pathways] 地方采纳过程中的政治动员与风险对冲策略
 > - **联邦财政奖励开启关键[[Policy Window|政策之窗]]** 奥巴马政府在《美国复苏与再投资法案》中设立 43.5 亿美元[[Race to the Top|力争上游]]（Race to the Top, RTTT）竞争性拨款，明确将是否采纳跨州通用学术标准设为直接影响数亿美元申请资格的核心加分项；各州官员为抢抓这一千载难逢的财政契机，在短短数月内火速排期表决。（pp. 16–17）
 > - **主动淡化国家标准以化解地方抵触** 为安抚地方保守势力对联邦干涉地方学区自主权的恐慌，推进团队和州教育首脑严格避免使用国家标准字眼，反复强调改革纯属各州完全自愿发起的横向州际联盟。
-> - **为不同地方利益群体定制说服理由** 对企业商界强调高标准能筑牢本土劳动力技能优势，改善地方招商引资环境；对州财政部门强调跨州共享试题研发库能直接省下数千万美元预算；对教师团体则承诺配套专业发展支持与课堂过渡缓冲期。（pp. 17–18）
+> - **为不同地方利益群体定制说服理由** 对企业商界强调高标准能筑牢本土劳动力技能优势，改善地方招商引资环境；对州财政部门强调跨州共享[[Test Production|试题研发]]库能直接省下数千万美元预算；对教师团体则承诺配套专业发展支持与课堂过渡缓冲期。（pp. 17–18）
 
 #### 2. 四州实证案例比较：高度工具化的逐条对标分析（Crosswalks）成为最终过关的决定性证据
 
@@ -349,7 +351,7 @@ issuing_organization: ""
 ### 论证步骤四　理论重构：科学研究从来无法单独决定政策，真实决策必须在不同阶段将学术论文、教师经验与政治价值按需组合
 
 > [!claim] 步骤四核心主张
-> [[Common Core State Standards|共同核心标准]]推进的全过程表明，即使在最标榜用科学证据说话的理想案例中，学术研究也从来无法脱离行动者的实践经验与政治价值而单独决定政策。传统的循证决策理论假定科学家生产出论文、官员按图索骥就能制定出政策，这种单向线性的工程模型在现实世界中根本无法成立。在从立项到表决的每一个环节，决策者所面对的制度任务截然不同，必须根据阶段特点灵活调用宏观警示指标、专业学术护栏、一线教师常识以及微观对标清单，将学术论文、教师经验与政治价值三者动态结合，政策才可能既具备专业水准又切实可行。（pp. 1–3, 18–19）
+> [[Common Core State Standards|共同核心标准]]推进的全过程表明，即使在最标榜用科学证据说话的理想案例中，学术研究也从来无法脱离行动者的实践经验与政治价值而单独决定政策。传统的[[Evidence-Based Policy-Making|循证决策]]理论假定科学家生产出论文、官员按图索骥就能制定出政策，这种单向线性的工程模型在现实世界中根本无法成立。在从立项到表决的每一个环节，决策者所面对的制度任务截然不同，必须根据阶段特点灵活调用宏观警示指标、专业学术护栏、一线教师常识以及微观对标清单，将学术论文、教师经验与政治价值三者动态结合，政策才可能既具备专业水准又切实可行。（pp. 1–3, 18–19）
 
 #### 1. 为什么学术研究不能直接主导决策？证据形态随决策环节发生现实演变
 
@@ -417,7 +419,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 证据利用在政策周期中的权变规律
-> 即便在最有利于循证决策的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。
+> 即便在最有利于[[Evidence-Based Policy-Making|循证决策]]的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。
 >
 > *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that Basic Research be combined with knowledge based on professional judgment about how best to Teach students in different educational and cultural contexts.*（p. 19）
 

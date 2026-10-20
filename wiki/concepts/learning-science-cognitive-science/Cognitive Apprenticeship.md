@@ -28,11 +28,11 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Authentic Instruction]]"
   - "[[Dialogue in Education]]"
+  - "[[Blind Spot in Observation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Cognitive Apprenticeship
@@ -110,12 +110,12 @@ updated: 2026-10-16
 ## 争议与批评
 
 > [!critique-method] 教学设计与规模化挑战
-> - **专家盲点（Expert Blind Spot）** 资深导师的许多[[Higher-Order Thinking Skills\|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。
+> - **专家盲点（Expert [[Blind Spot in Observation|Blind Spot]]）** 资深导师的许多[[Higher-Order Thinking Skills\|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。
 > - **高师生比与资源成本** 认知[[Apprenticeship|学徒制]]依赖精准的实时观察与个性化支架撤退，在大班化常规教学中面临规模化落地难度。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，证实真实任务、对话研讨与导师示范三维协同对[[Critical Thinking\|批判性思维]]技能的最强促进效应（$g+ = 0.57$）。

@@ -8,7 +8,7 @@ aliases:
 summary: "由社会学家巴尔策尔提出的精英循环病理学概念，指基于才干与功绩建立的开放统治阶层，在制度僵化与自我保护下退化为闭关自守、排斥新人并沉溺于特权自保的封闭种姓结构。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,8 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Refined Mastery]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[E. Digby Baltzell]]"

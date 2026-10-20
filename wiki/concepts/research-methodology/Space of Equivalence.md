@@ -7,7 +7,7 @@ aliases:
 summary: "指统计度量并非被动记录既有现实，而是通过人为创设统一的分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_theories:
   - "[[Governmentality]]"
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alain Desrosières]]"

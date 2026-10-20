@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -51,7 +51,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Item Response Theory]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Jason Beech]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Assemblage
@@ -255,7 +254,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation\|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 背后的企业法注册底座、跨国[[Venture Philanthropy\|风险慈善]]网络与特许商业分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将装配视角推进至国家与[[Philanthrocapitalism\|慈善资本主义]]的共生关系，揭示权力作为隐蔽装配效应如何依托税法修正案（[[Deductible Gift Recipient\|DGR1]]）、定向闭门采购与双重申报架构重塑公共教育交换规则。

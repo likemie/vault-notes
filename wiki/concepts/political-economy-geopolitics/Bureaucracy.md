@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态。在古典社会学中被视作现代性理性化效率的基石；在当代工程治理中被批判为滋生层级设卡、会议工业复合体与避险自保；而在批判公共治理研究（奥尼尔等人，2016）中，科层制所内置的法定理性与中立规章被证实是维护代议制民主问责与信息公开的关键屏障，其在现代化改革中被弹性网络与部落治理侵蚀反而引发了严重的公共透明度危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -53,7 +53,6 @@ related_methods:
   - "[[Audit Trail]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"

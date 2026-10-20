@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Big Science]]"
+  - "[[Geopolitics]]"
   - "[[Process Knowledge]]"
   - "[[Distributed Agency]]"
   - "[[Lead-and-Learn Paradigm]]"
@@ -48,7 +49,6 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -118,7 +118,7 @@ updated: 2026-10-20
 > - **规范性议程设定（Normative Agenda Setting）** 超越技术中立假说，由国家、学术界、产业界与公民社会共同协商确定紧迫的战略发展优先序与社会挑战清单。
 > - **公共投资与需求端牵引（Public Investment & Demand-Side Pull）** 通过战略性公共采购、前沿[[Big Science|大科学]]资助与规制标准，为特定[[Technological Trajectories|技术轨道]]创造高确定性市场预期。
 > - **克服方向性失灵的能力机制（Capabilities against Orientation Failure）** 建立跨部门政策协调与敏捷反思机制，防止[[Systems of Innovation|创新系统]]因[[Path Dependence|路径依赖]]而锁死在不可持续或存在外部断供风险的低效路径中。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
-> - **国家战略使命与安全化护栏（Strategic Mission & Security Guardrails）** 在地缘政治竞争下将方向性拓展至国家安全与主权供应链，通过专项立法（如《[[CHIPS and Science Act|芯片法案]]》）与安全审查引导科研攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
+> - **国家战略使命与安全化护栏（Strategic Mission & Security Guardrails）** 在[[Geopolitics|地缘政治]]竞争下将方向性拓展至国家安全与主权供应链，通过专项立法（如《[[CHIPS and Science Act|芯片法案]]》）与安全审查引导科研攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 > - **实体中试与制造[[Process Knowledge|过程知识]]闭环（Pilot Infrastructure & Manufacturing Closure）** 将创新方向从虚化的论文专利指标，实质性导向制造测试床与产线调试，确保默会过程知识在本土形成闭环。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 24–26)]]
 
 > [!logic-map]- 创新的方向性运行逻辑
@@ -175,7 +175,7 @@ updated: 2026-10-20
 > 探讨当代创新方向性如何从和平时期的绿色与社会包容转型，扩展至关乎国家技术主权与战略生存的核心产业攻关。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]; [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> **安全化重塑国家创新方向性逻辑** 卓泽林与樊春良的研究表明，在地缘政治竞争加剧与全球供应链脱钩背景下，创新的方向性超越了传统的新自由主义中立市场逻辑，甚至在传统绿色转型之外被赋予了更为紧迫的“国家技术安全与主权控制”属性。国家通过《[[CHIPS and Science Act|芯片法案]]》等重大战略立法明确锁定了先进制程制造回流、开源标准控制与工程人才储备等方向性目标，驱动[[Research Universities|研究型大学]]与工业界从自发分散探索转向高度组织化的战略使命攻关，重塑了科学与国家之间的底层社会契约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
+> **安全化重塑国家创新方向性逻辑** 卓泽林与樊春良的研究表明，在[[Geopolitics|地缘政治]]竞争加剧与全球供应链脱钩背景下，创新的方向性超越了传统的新自由主义中立市场逻辑，甚至在传统绿色转型之外被赋予了更为紧迫的“国家技术安全与主权控制”属性。国家通过《[[CHIPS and Science Act|芯片法案]]》等重大战略立法明确锁定了先进制程制造回流、开源标准控制与工程人才储备等方向性目标，驱动[[Research Universities|研究型大学]]与工业界从自发分散探索转向高度组织化的战略使命攻关，重塑了科学与国家之间的底层社会契约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 
 ---
 

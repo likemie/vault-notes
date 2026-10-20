@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统与认识论框架，关注意识如何主动赋予世界意义，揭示具身感知与日常生活世界的主体间性本质，是诠释范式与质性研究的三大核心支柱之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 53
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Typification]]"
   - "[[Bildung]]"
   - "[[Theoretical Standpoint]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Peer-Supported Learning]]"
   - "[[Operationalization]]"
@@ -57,7 +56,6 @@ related_methods:
   - "[[Member Checking]]"
   - "[[In-depth Interview]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Edmund Husserl]]"
   - "[[Alfred Schutz]]"
@@ -163,7 +161,7 @@ updated: 2026-10-20
 > [!theory-proposition] 命题一｜现实深植于意识主体的意向建构，一切知识均是意识通过[[Intentionality|意向性]]赋予意义的产物
 > **解释** 胡塞尔（1913）指出，人类心智展现出强烈的能动构造特征，意识的根本特质是“意向性”——它总是能动地朝向对象并赋予其特定含义。人类在日常状态下受“天然态度”支配，误将社会制度与常识视为外在不可变的客观刚性法则。通过[[Epoché|现象学悬置]]（[[Epoché]]），研究者将这些先验假定放入括号，在心理思维行为（Noesis）与意向对象（Noema）的动态交互中，揭示客观事实原本是主体在生活世界中建构出来的意义积淀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 23–25)]]
 >
-> **应用实例** 在学校教育研究中，学生对课程的冷漠或焦虑不能被简单归结为外部刺激缺乏；现象学揭示，同一门课程在不同学生的意识意向中被赋予了截然不同的生存意义（例如是实现自我价值的阶梯，还是遭受[[Disciplina and Doctrina|规训]]与羞辱的[[Champ|场域]]），唯有探究学生第一人称的意向建构方能把握教学互动的真实本质。
+> **应用实例** 在学校教育研究中，学生对课程的冷漠或焦虑不能被简单归结为外部刺激缺乏；现象学揭示，同一门课程在不同学生的意识意向中被赋予了截然不同的生存意义（例如是实现自我价值的阶梯，还是遭受规训与羞辱的[[Champ|场域]]），唯有探究学生第一人称的意向建构方能把握教学互动的真实本质。
 
 > [!theory-proposition] 命题二｜学习是具身性与主体间性的存在性对话，而非去身体化的符号机械灌输
 > **解释** 梅洛-庞蒂（1945）与舒茨（1967）打破了[[René Descartes|笛卡尔]]身心二元论。身体本身即是原初的存在主体，推翻了将身体视作思维附庸的机械论假定；日常生活世界是一个主体间共在的社会世界。个体通过具身知觉感知环境，通过语言与[[Typification|类型化]]与他人建立相互理解。学习本质上是一场充满身体知觉、情绪共振与伦理响应的存在性历险，超越了概念信息的机械存储（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 10]]）。

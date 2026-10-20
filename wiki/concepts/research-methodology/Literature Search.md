@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Cohort Study]]"
   - "[[Trend Study]]"
-  - "[[Correlational Research]]"
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
   - "[[Research Synthesis]]"
@@ -77,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Literature Search
 
@@ -381,7 +380,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > 2. **科学期刊中的研究文章** 尤其是报告实证研究的文章，从最新一期向前追溯
 > 3. **书籍** 从总结学术文献的研究专著开始，再到单一主题的专著或编著
 > 4. **近期会议论文** 通常报告最新的研究进展
-> 5. **联系[[Correlational Research\|相关研究]]的作者** 询问是否知道相关领域的研究
+> 5. **联系相关研究的作者** 询问是否知道相关领域的研究
 
 这个优先级顺序的设计意图是（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：从概括到具体（百科全书 → 期刊文章 → 专著）、从易获取到难获取（已发表文献 → 会议论文 → 直接联系作者）、从已沉淀到最新。
 
@@ -511,7 +510,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐述了文献检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。

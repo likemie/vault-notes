@@ -22,6 +22,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Empiricism]]"
   - "[[Commensuration]]"
+  - "[[Professional Capital]]"
   - "[[Bildung]]"
   - "[[Evaluation Research]]"
   - "[[Disciplina and Doctrina]]"
@@ -83,7 +84,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Network Ethnography]]"
   - "[[Framework Synthesis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Ivan Snook]]"
@@ -153,7 +153,7 @@ updated: 2026-10-20
 > | **决策检验标准** | 实践反思循环与定性定量证据的[[Triangulation\|三角验证]] | 外部考核指标达成度与方案依从度（Fidelity） | 自我感觉良好与无冲突维持 |
 
 > [!term] 核心辨析点
-> - **专业判断与技术官僚问责** 前者强调基于专业资本的自律审议，后者依赖基于量化排行的他律问责。
+> - **专业判断与技术官僚问责** 前者强调基于[[Professional Capital|专业资本]]的自律审议，后者依赖基于量化排行的他律问责。
 > - **专业判断在 [[Evidence-Informed Practice\|EIP]] 中的位置** EIP 将专业判断置于决策的核心枢纽位置，统筹研究证据、系统层面数据与课堂数据，拒绝单维主导。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
@@ -241,10 +241,10 @@ updated: 2026-10-20
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
-> **新泰勒制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术[[Disciplina and Doctrina|规训]]确立正当性。其标志性的[[Barometer of Achievement|气压计图表]]直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **新泰勒制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术规训确立正当性。其标志性的[[Barometer of Achievement|气压计图表]]直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]
-> **[[Venture Philanthropy|风险慈善]]商业量规对[[School Autonomy|学校自主权]]与专业判断的[[Disciplina and Doctrina|规训]]** 在以风险慈善与私营中介为纽带的异层治理下，国家将财政拨款转化为竞争性项目资助；弱势公立学校为了获取关键资源，被迫无条件迎合企业基金会制定的考核量规与商业[[Performance Indicators|绩效指标]]（KPIs）。这一异层再分配机制剥夺了学校基于本土学情与育人伦理自主决策的空间，导致教师与校长的专业判断沦为企业问责与外部量规的附庸，加速了公立教育一线人员的去专业化规训。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]
+> **[[Venture Philanthropy|风险慈善]]商业量规对[[School Autonomy|学校自主权]]与专业判断的规训** 在以风险慈善与私营中介为纽带的异层治理下，国家将财政拨款转化为竞争性项目资助；弱势公立学校为了获取关键资源，被迫无条件迎合企业基金会制定的考核量规与商业[[Performance Indicators|绩效指标]]（KPIs）。这一异层再分配机制剥夺了学校基于本土学情与育人伦理自主决策的空间，导致教师与校长的专业判断沦为企业问责与外部量规的附庸，加速了公立教育一线人员的去专业化规训。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]
 
 ---
 
@@ -309,7 +309,7 @@ updated: 2026-10-20
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
 > - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
-> - **2023 — [[Venture Philanthropy|风险慈善]]商业量规对专业判断的异层[[Disciplina and Doctrina|规训]]** [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] 基于对澳大利亚公共教育中风险慈善网络（[[Social Ventures Australia|SVA]]）的实证研究，指出弱势公立学校在竞逐企业项目赠款时，一线教师与校长的办学自主权与教育专业判断深度受制于外部商业问责与因果量规规训。
+> - **2023 — [[Venture Philanthropy|风险慈善]]商业量规对专业判断的异层规训** [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] 基于对澳大利亚公共教育中风险慈善网络（[[Social Ventures Australia|SVA]]）的实证研究，指出弱势公立学校在竞逐企业项目赠款时，一线教师与校长的办学自主权与教育专业判断深度受制于外部商业问责与因果量规规训。
 > - **2023 — 新泰勒制监控软件与工业清单拜物教批判** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 揭露《[[Visible Learning|可见的学习]]》借用行政监控软件（[[Assessment Tools for Teaching and Learning|asTTle]]）管理界面气压计推行新泰勒制规训，贬抑教师专业判断为轶事传闻，以医学手术清单比附教学，导致澳大利亚维多利亚州推行 [[Victorian HITS and Literacy Toolkit|HITS]] 时一线教师日常专业直觉被形式主义板书打卡彻底取代（pp. 28–30）。
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
@@ -423,14 +423,14 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单[[Disciplina and Doctrina|规训]]如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单规训如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考察美国[[Common Core State Standards|共同核心标准]]（CCSS）研制与采纳全过程，确立专业判断在学术实证供给不足时作为学科逻辑演绎、一线可行性论证与同行互信代理的宏观政策支柱地位。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚[[Discourse|话语]]，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 引入循证医学危机透镜，批判技术官僚算法化对教师专业判断的剥夺与[[Cognitive Deskilling|去技能化]]风险，捍卫教学作为知识型专业的核心地位。
-> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 揭示[[Venture Philanthropy|风险慈善]]异层治理下公立学校办学自主权遭到商业量规[[Disciplina and Doctrina|规训]]的实证图景，批判外部企业考核对教师教育专业判断的侵蚀。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 揭示[[Venture Philanthropy|风险慈善]]异层治理下公立学校办学自主权遭到商业量规规训的实证图景，批判外部企业考核对教师教育专业判断的侵蚀。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 结合[[Bounded Rationality|有限理性]]理论，论证专业判断是 [[Visible Learning]] 体系中的缺失环节，反馈是支持教师判断的核心工具。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制 Teach [[Classroom Observation|课堂观察]]工具，确立高推论教学质量评定中“以全局质性专业判断替代机械算术平均”的测量学规程，并构建基于视频考核的观察员认证与偏误防御体系。

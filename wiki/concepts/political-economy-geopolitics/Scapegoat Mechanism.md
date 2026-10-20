@@ -10,7 +10,7 @@ aliases:
 summary: "社会学、修辞学与人类学概念，指群体在面临结构性危机、道德焦虑或制度失能时，通过将自身的过错、挫折与内部矛盾仪式化转嫁给特定边缘个体或争议性实干家并予以排斥或牺牲，以暂时卸载集体罪咎感并维系表面秩序的社会心理与文化防御机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,8 +37,7 @@ related_concepts:
   - "[[Constructive Disobedience]]"
 related_theories:
   - "[[Mimetic Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Kenneth Burke]]"

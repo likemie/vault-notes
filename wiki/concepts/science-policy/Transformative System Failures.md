@@ -10,7 +10,7 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,6 @@ related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
 related_methods:
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-10-03

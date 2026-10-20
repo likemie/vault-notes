@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
   - "[[Determinism]]"
@@ -28,8 +29,7 @@ related_concepts:
   - "[[AI Deterrence]]"
 related_theories:
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Lawrence H. Keeley]]"
@@ -59,7 +59,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种通过简化二元身份归属来预设道德正义与过错的标签化伦理框架。
 > - **用途** 用于诊断学术界与科技精英在面对前沿军事技术、大国竞争与合法自卫权时表现出的道德洁癖与认知盲区。
-> - **边界** 批判道德二元论并非为实际存在的社会压迫与霸权行径辩护，而是强调必须承认人类普遍的伦理脆弱性与地缘政治中权衡抉择的复杂性。
+> - **边界** 批判道德二元论并非为实际存在的社会压迫与霸权行径辩护，而是强调必须承认人类普遍的伦理脆弱性与[[Geopolitics|地缘政治]]中权衡抉择的复杂性。
 
 > [!citation-card] 拒绝道德二元论与承认普遍道德能动性
 > 将世界简单划分为统治者与被统治者、压迫者与被压迫者的道德二元论令人深感不安。将无权者系统性地等同于虔诚与纯洁是一种道德屈尊；被统治者与统治者在人性层面上同样具有犯下严重罪恶的能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Adekoya & Morin, cited in Karp & Zamiska, 2025, pp. 53–54)]]
@@ -93,7 +93,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 道德二元论的核心特征与批判向度
-> - **身份[[Determinism|决定论]]与道德本质化（Moral Essentialism）** 将道德品质机械绑定于阶级、族群或地缘政治身份，预设压迫者必然邪恶、受压迫者天然纯洁，否定具体的行动后果评估。
+> - **身份[[Determinism|决定论]]与道德本质化（Moral Essentialism）** 将道德品质机械绑定于阶级、族群或[[Geopolitics|地缘政治]]身份，预设压迫者必然邪恶、受压迫者天然纯洁，否定具体的行动后果评估。
 > - **对弱者道德能动性的剥夺与道德屈尊（Moral Condescension）** 如[[Paulo Freire|保罗·弗莱雷]]在《被压迫者教育学》中宣称“历史上暴力从未由被压迫者发起”，这种全称命题实质上取消了受压迫者的能动选择权，将其客体化为纯粹的受害符号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; Karp & Zamiska, 2025, pp. 53–54)]]
 > - **和平过去神话的解构（Deconstruction of the Peaceful Past）** 人类学家[[Lawrence H. Keeley|劳伦斯·基利]]（Lawrence H. Keeley）在《文明前的战争》（1996）中证实，美洲大平原的苏族（割喉）、夏延人（削臂）、阿拉帕霍人（裂鼻）以及新几内亚达尼人（箭头涂抹污泥油脂加重感染）普遍存在极其残酷的部落暴力，彻底解构了前现代社会原初和平的虚构神话。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Keeley, 1996; Karp & Zamiska, 2025, pp. 53–54)]]
 > - **逃避地缘政治悲剧抉择（Avoidance of Tragic Choices）** 科技精英借由二元道德标签逃避参与国防与合法强制力建设，以“不作恶”为由逃避捍卫民主共同体的艰巨现实责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 52–54)]]
@@ -146,7 +146,7 @@ updated: 2026-10-20
 ### 命题三　道德二元论诱发的绝对和平主义掩盖了现实地缘威慑的不可替代性
 
 > [!concept-lens] 伦理简化与国家安全现实主义抉择
-> 探讨道德二元论如何使科技精英逃避面对残酷地缘政治时的防御性技术构建责任。
+> 探讨道德二元论如何使科技精英逃避面对残酷[[Geopolitics|地缘政治]]时的防御性技术构建责任。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]; [[Anne Applebaum|Applebaum, A.]]
 > **和平主义诱惑与威慑责任逃避** 和平主义与道德二元论之所以对科技精英极具诱惑力，在于它以廉价的共情免除了人们在现实世界中权衡两难、直面复杂代价的艰难抉择。然而，面对不遵循西方道德准则的威权对手，单方面放弃研发先进人工智能军事技术绝不会带来普遍和平，只会将自由社会置于任人宰割的险境。捍卫民主法治的真正伦理担当，要求科学家与工程师勇于走出道德洁癖，建立坚不可摧的技术[[Hard Power|硬实力]]威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Applebaum, 2022; Karp & Zamiska, 2025, pp. 53–54)]]

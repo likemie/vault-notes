@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Discourse]]"
   - "[[International Education]]"
+  - "[[Developmentalism]]"
   - "[[Performance Indicators]]"
   - "[[Competitiveness]]"
   - "[[Cosmopolitanism]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # 1967 Williamsburg Conference on the World Crisis in Education
@@ -104,7 +105,7 @@ updated: 2026-10-09
 > | **核心行动者** | [[Philip H. Coombs]]、美国政府、[[International Institute for Educational Planning\|IIEP]]、[[OECD]] | 苏联教育[[Chinese Academy of Sciences\|科学院]]学者、东欧马克思主义理论家 |
 > | **危机根源界定** | 技术落后、人口激增、供给滞后于经济现代化需求的系统性失调 | 资本主义阶级固化、劳动力商品化与国家垄断资本危机 |
 > | **核心解决处方** | 跨国指标监测、系统分析、优化人力资本投资与行政效率革新 | 推翻资本主义雇佣劳动制度、实行社会主义计划教育与全面平权 |
-> | **政治功能意图** | 将第三世界纳入西方技术官僚治理与发展主义轨道 | 揭露西方文化帝国主义与新殖民主义政策输出 |
+> | **政治功能意图** | 将第三世界纳入西方技术官僚治理与[[Developmentalism\|发展主义]]轨道 | 揭露西方文化帝国主义与新殖民主义政策输出 |
 
 ---
 

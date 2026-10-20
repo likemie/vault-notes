@@ -7,7 +7,7 @@ aliases:
 summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,7 +53,6 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Weight of Evidence Framework]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scientific Uncertainty
@@ -255,7 +254,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统论证科学不确定性与证据暂定性的[[Epistemology\|认识论]]本质，结合 [[Public Attitudes to Science\|PAS 2025]] 调查与[[Randomised Controlled Trials\|随机对照实验]]，提出以坦诚不确定性披露为基石的《科学传播实践守则》与国家公众信任治理蓝图。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al. (2011)]] — 深入剖析教育研究中从[[Positivism\|实证主义]]概率推论、[[Sampling Error\|抽样误差]]到[[Interpretivism|解释主义]]质性不确定性的认识论转向与方法论应对。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 实证阐明个体认知发展中从绝对确定性盲信向接纳科学不确定性并进行严谨证据权衡的“评价主义”发展机制。

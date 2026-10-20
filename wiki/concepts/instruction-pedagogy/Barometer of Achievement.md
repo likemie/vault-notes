@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中用于直观展示效应量区间的半圆形仪表盘图表，直接移植自其此前主导开发的 asTTle 行政全网监控软件，被批判为将工业泰勒制控制逻辑与全景监视物化为教学图腾的伪科学视觉修辞。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -161,7 +160,7 @@ updated: 2026-10-20
 > - **2003 年 — [[Assessment Tools for Teaching and Learning|asTTle]] 监控界面创立** [[John Hattie|哈蒂]]领导的研发团队为新西兰教育部推出 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统，首次在管理端界面引入半圆表盘，用于实时汇总和监控教师在各学科的测验运用数据。
 > - **2009 年 — 跨界移植至《可见学习》** 《可见学习》将 asTTle 的管理表盘全面应用于正文排版，为 138 项教育影响因素逐一配备气压计插图，确立了以绿区（$d \ge 0.40$）为顶点的视觉标准。
 > - **2010–2018 年 — 商业化视觉品牌垄断** 在 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]的商业化推广中，成就气压计被注册并印制在各类咨询手册、学校认证奖章及培训海报上，成为全球最具辨识度的[[Evidence-Based Education|循证教育]]商业符号之一。
-> - **2023 年 — 批判解构与全景监视溯源揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从技术哲学与政策批判视角，正式揭开气压计图表源于行政监控系统的真实历史，批判其为推行新泰勒制[[Disciplina and Doctrina|规训]]的伪科学装置。
+> - **2023 年 — 批判解构与全景监视溯源揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从技术哲学与政策批判视角，正式揭开气压计图表源于行政监控系统的真实历史，批判其为推行新泰勒制规训的伪科学装置。
 
 ---
 
@@ -202,7 +201,7 @@ updated: 2026-10-20
 >
 > *Taylor in 1911 conducted time-and-motion studies under the premise that workers were inherently lazy and needed standardized top-down control. The barometer graphics in [[Visible Learning]] were taken directly from the asTTle administrative interface, inheriting this exact managerial logic of compressing rich educational practices into dashboard dial readings.*
 
-> [!citation-card] 贬抑教师[[Professional Judgment|专业判断]]为技术[[Disciplina and Doctrina|规训]]确立正当性
+> [!citation-card] 贬抑教师[[Professional Judgment|专业判断]]为技术规训确立正当性
 > 将教师的经验交流斥为缺乏科学依据的轶事传闻，不仅是推销自上而下管理处方的手段，更在公众心目中削弱了对公立教师群体的信赖，为外部商业机构进驻公立学校创造了便利条件。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 >
 > *Disparaging teachers' professional conversations as mere war stories and anecdotes is not only a technique to sell top-down prescriptions, but also undermines public trust in public school teachers, paving the way for commercial entities to enter public schooling.*

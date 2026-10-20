@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Surplus of Evidence]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Methodological Transnationalism]]"
   - "[[Concept Mapping]]"
   - "[[Pre-Transfer Agency]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Gita Steiner-Khamsi
@@ -138,7 +139,7 @@ updated: 2026-10-16
 > *Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements (Steiner-Khamsi, 2000, p. 181).*
 
 > [!citation-card] [[Surplus of Evidence|证据过剩]]与政策中介兴起
-> 更多知识并未减少歧义性并促进循证政策制定，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 更多知识并未减少歧义性并促进[[Evidence-Based Policy-Making|循证政策制定]]，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 >
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
 

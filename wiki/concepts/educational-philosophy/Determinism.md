@@ -8,7 +8,7 @@ aliases:
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性；在现代科学与认识论演进中，经典钟表式因果决定论受到波普尔云状现实、刺猬与狐狸认知模型以及工程思维概率探索的深刻反思与超越。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Accounts]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Karl Popper]]"
   - "[[Keith Morrison]]"

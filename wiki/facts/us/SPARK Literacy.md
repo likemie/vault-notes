@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # SPARK Literacy
@@ -119,7 +118,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 SPARK Literacy 评定为初等阅读 Tier 3 志愿者辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过国家青年志愿服务网络为 Tier 3 个别辅导提供充沛且经济的师资供给。
 > - [[Start Making a Reader Today]] — 同属志愿者一对一读写辅导方案，SMART 采用社会无偿义工伴读，SPARK 采用 AmeriCorps 有偿青年全职辅导。

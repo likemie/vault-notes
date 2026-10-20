@@ -7,7 +7,7 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
   - "[[Average Variance Extracted]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Confirmatory Factor Analysis
@@ -157,6 +156,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 以 258 名教师数据比较单因子、一阶与二阶模型，确立四因子二阶结构，并以 [[Average Variance Extracted\|AVE]] 检验[[Convergent and Discriminant Validity\|区分效度]]、以多组 CFA 检验跨性别测量等值。

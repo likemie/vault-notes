@@ -22,7 +22,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Falsification]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Scientism]]"
@@ -79,14 +78,14 @@ sources:
   - "[[sources/Zemplen_2007_SciEduc/Zemplen_2007_SciEduc|Zemplen_2007_SciEduc]]"
 status: draft
 created: 2026-07-04
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -126,7 +125,7 @@ issuing_organization: ""
 
 > [!warrant]- 理论如何支撑论证
 > 分析以 [[Theory of Knowledge\|TOK]] 课程的三个内在问题作为分析透镜，依次审查评估标准、教科书内容和课堂实践：
-> - **核心推理桥梁** 如果一门课程声称培养批判性思维，却通过评估框架暗中[[Disciplina and Doctrina\|规训]]学生使用特定术语和思维模式，那么它在进行另一种形式的灌输，恰好违背了课程自身的宗旨
+> - **核心推理桥梁** 如果一门课程声称培养批判性思维，却通过评估框架暗中规训学生使用特定术语和思维模式，那么它在进行另一种形式的灌输，恰好违背了课程自身的宗旨
 > - **更根本的悖论** 批判性思维课程创造的[[Analytic Framework\|分析框架]]，如果本身不能被批判性思维所审查，就是一个自毁的体系
 
 ---
@@ -182,7 +181,7 @@ issuing_organization: ""
 > - **批判性思维课程变成自身不可批判的对象** 所有学科都通过提供框架来灌输，但 TOK 的框架特殊之处在于：它被创造出来恰恰是为了反对灌输。用这样一个框架来灌输，比用成熟的学术学科来灌输更不可接受。
 >
 > > [!exegesis]- 类比：一门课教媒体素养，教材本身却充满宣传
-> > 假设学校开设了一门媒体素养课，目标是教学生识别新闻报道中的偏见和操控。但教材本身按某种特定政治立场来选择案例，考试必须用教材的术语来回答。学生很快发现：真正的批判性分析如果触及教材自身的偏见，反而会被扣分。于是学生学会在[[Homework\|作业]]中复述教材的批判性术语（这个报道存在框架效应、该信源有利益冲突），而不去真正质疑任何东西。TOK 的问题与此同构：一门反对灌输的课程，用自己创造的术语框架来[[Disciplina and Doctrina\|规训]]学生如何使用这些术语。
+> > 假设学校开设了一门媒体素养课，目标是教学生识别新闻报道中的偏见和操控。但教材本身按某种特定政治立场来选择案例，考试必须用教材的术语来回答。学生很快发现：真正的批判性分析如果触及教材自身的偏见，反而会被扣分。于是学生学会在[[Homework\|作业]]中复述教材的批判性术语（这个报道存在框架效应、该信源有利益冲突），而不去真正质疑任何东西。TOK 的问题与此同构：一门反对灌输的课程，用自己创造的术语框架来规训学生如何使用这些术语。
 
 框架问题一旦形成，黑箱化就紧随其后。[[Operationalization|操作化]]带来了自身特有的危险：
 - **[[Reliability|信度]]改进掩盖效度追问** TOK 的评估程序一旦建立并且表面可靠，教师和管理者自然会将注意力转移到如何让评分更一致、更可预测上。这些是信度问题，可以技术性地改进
@@ -494,7 +493,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Theory of Knowledge\|TOK]] 课程的评估框架以培养[[Critical Thinking\|批判性思维]]为名，行术语[[Disciplina and Doctrina\|规训]]之实** 框架问题使特定术语成为评分捷径；黑箱化使评估有效性免于追问；批判性思维问题使课程对思维水平的期待缺乏认知发展依据。这三个问题相互强化，造成课程在需要约束的层面（价值观和 CT 适用范围）过于松散，在不需约束的层面（术语使用和思维模式）施加了隐性规训。（pp.171–174）
+> 1. **[[Theory of Knowledge\|TOK]] 课程的评估框架以培养[[Critical Thinking\|批判性思维]]为名，行术语规训之实** 框架问题使特定术语成为评分捷径；黑箱化使评估有效性免于追问；批判性思维问题使课程对思维水平的期待缺乏认知发展依据。这三个问题相互强化，造成课程在需要约束的层面（价值观和 CT 适用范围）过于松散，在不需约束的层面（术语使用和思维模式）施加了隐性规训。（pp.171–174）
 > 2. **Alchin 教科书的科学章节是两种议程不可调和的集中表现** 教科书内部的[[Falsification\|证伪主义]]呈现存在自我矛盾：既承认证伪不能描述科学实践，又在练习题中复用可检验性作为科学划界标准。[[Paradigm\|范式]]概念在文化讨论和科学讨论中被以两种互斥的方式使用。教科书层面的问题是课程结构矛盾的必然产物：课程结构迫使教科书作者回归简化版本。（pp.174–178）
 > 3. **批判性思维与科学教育的冲突是结构性的，当独立 CT 课程被创建后，CT 从属于科学教育就不再合理** 在科学教育内部引入批判性思维要素时偏向[[Scientism\|科学主义]]议程是可接受的，但一旦专门科目（如 TOK）被创建，继续将批判性思维从属于科学普及就失去了合法性。这一冲突在 Davson-Galle（2004）的调和尝试中清晰可见，也在 Donnelly（2002）& Good and Shymansky（2001）的坦承立场中得到了诚实但未充分反思的表达。（pp.178–181）
 > 4. **三种基于学术合法框架的解决路径各有适用尺度，但共同的缺失是一个顶层协调框架** HPS 路径用小规模课程模块取代过时的证伪主义叙事；语用辩证路径用统一的论证理论协调批判性思维教学和科学教学；学生利益路径重新定位学生为知识网络中的行动者而非被动接收者。三者都是基于课堂经验的初步探索，而非成熟的长期方案。真正的解决方案必须自上而下地设计一个协调的、明确的教育框架。（pp.182–190）

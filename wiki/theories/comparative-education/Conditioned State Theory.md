@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ tags:
   - region/latin-america
 related_concepts:
   - "[[Pact of Domination]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Compensatory Legitimation]]"
   - "[[Post-Fordism]]"
   - "[[Dual School System]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Cultural Capital]]"
   - "[[Multilateral Development Bank]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Washington Consensus]]"
 related_theories:
   - "[[Pluralism]]"
@@ -47,7 +47,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Martin Carnoy]]"
@@ -84,7 +83,7 @@ updated: 2026-10-20
 > - **知识位置** 植根于新马克思主义[[Critical Theory|批判理论]]与[[Dependency Theory|依附理论]]传统，是比较教育政治社会学分析外围国家教育扩张与改革的核心框架。
 
 > [!claim] 核心判断
-> 外围资本主义国家的国家机器既非全民意志的共同体，亦非具有完全自主权的现代治理枢纽，而是同时受到其在资本主义世界体系中所处边缘地位以及本土后封建专制结构双重制约的受限国家（Conditioned State）；面对脆弱的本土积累与跨国资本控制，本土统治集团将国家构筑为维护阶级特权的[[Pact of Domination|支配同盟]]（Pact of Domination）或代用国家（Surrogate State），导致公共教育系统演化出精英与底层割裂的双轨形态，并在新自由主义调整下沦为跨国[[Disciplina and Doctrina|规训]]与[[Compensatory Legitimation|补偿性合法化]]的工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> 外围资本主义国家的国家机器既非全民意志的共同体，亦非具有完全自主权的现代治理枢纽，而是同时受到其在资本主义世界体系中所处边缘地位以及本土后封建专制结构双重制约的受限国家（Conditioned State）；面对脆弱的本土积累与跨国资本控制，本土统治集团将国家构筑为维护阶级特权的[[Pact of Domination|支配同盟]]（Pact of Domination）或代用国家（Surrogate State），导致公共教育系统演化出精英与底层割裂的双轨形态，并在新自由主义调整下沦为跨国规训与[[Compensatory Legitimation|补偿性合法化]]的工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
@@ -102,7 +101,7 @@ updated: 2026-10-20
 > - **1990 — 依附国家机制深化** Carnoy 与 Torres 推进第三世界国家向受限国家概念的过渡，聚焦转型社会中教育与国家自主性的辩证张力。
 > - **1995 — 公共教育退潮与公民身份重构** Torres 与 [[Adriana Puiggrós]] 剖析新自由主义国家财政撤资对拉美受限国家公共教育职能的侵蚀，指出大众正被剥夺作为政治民主主体的公民身份。
 > - **2000/2009 — 社会政策领域的实证反思与否决边界** 亨特与布朗（Hunter & Browne, 2000）与[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）对“绝对受限论”提出重要实证修正，指出在教育与社会政策领域，借款国内部政治生存始终压倒外部信贷条件，受限国家保持着实质否决权。
-> - **2009 — 全球化条件下的跨国化[[Disciplina and Doctrina|规训]]** Olmos 与 Torres 将受限国家理论置于全球化与新自由主义结构调整视阈，揭示国际金融智识复合体对受限国家教育决策主权的外部架空。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **2009 — 全球化条件下的跨国化规训** Olmos 与 Torres 将受限国家理论置于全球化与新自由主义结构调整视阈，揭示国际金融智识复合体对受限国家教育决策主权的外部架空。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 
@@ -138,7 +137,7 @@ updated: 2026-10-20
 >
 > **应用实例** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）的历史统计显示，拉美在 1960 至 1970 年间的高等教育规模暴增 247.9%，中等教育增长 258.3%，但全区文盲率同期维持恒定未降，形成了精英高等教育跃升与底层文盲失学并存的阶级断层。
 
-> [!theory-proposition] 命题四｜在社会政策领域本土政治生存博弈构成对抗外部结构性[[Disciplina and Doctrina|规训]]的实质否决边界
+> [!theory-proposition] 命题四｜在社会政策领域本土政治生存博弈构成对抗外部结构性规训的实质否决边界
 > **解释** 经典受限国家理论常将第三世界国家视为被动接受跨国资本与国际金融机构剥削规训的客体；然而亨特与布朗（Hunter & Browne, 2000）以及[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）的经验研究表明，在教育与社会政策领域，“绝对受限”假说并不成立。主权借款国内部的政治可行性、选举周期与利益集团博弈始终压倒外部技术官僚的信贷条件。当外部结构调整条件严重触及本土政权政治生存或引发难以承受的社会动荡（如工会总罢工）时，借款国拥有实质性的一票否决权，能够迫使多边机构搁置条件或允许项目停摆；外部附加条件唯有被本土改革派主动用作对付国内阻力的“外部挡箭牌”时方能部分生效。这一机制确立了受限国家理论在社会政策维度的实证边界。[[Argument_Castro_2009_MultilateralBanks|(Hunter & Browne, 2000; Castro, 2009, pp. 462–466, 474)]]
 >
 > **应用实例** 玻利维亚政府在执行多边银行贷款时，试图强行取消教师工会代扣税并实施硬性能力考核，直接引发教师全国性大规模抗议与流血冲突，迫使国家宣布戒严；最终内阁出于政治生存考量断然向工会妥协，放弃了多边银行的附加条件。又如巴西联邦政府在面对世界银行将中等职业技术教育全盘分流的方案时，因国内教育界抗议而坚决行使否决权，拒绝在全国推行。
@@ -158,7 +157,7 @@ updated: 2026-10-20
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 该理论适合解释第三世界国家教育扩张与社会不平等固化并存的悖论、国际金融组织政策在发展中国家的落地机制、威权外围国家教育政策制定中的阶级偏向，以及本土政治生存对跨国信贷[[Disciplina and Doctrina|规训]]的抵御边界。
+> - **[[Research Question|研究问题]]** 该理论适合解释第三世界国家教育扩张与社会不平等固化并存的悖论、国际金融组织政策在发展中国家的落地机制、威权外围国家教育政策制定中的阶级偏向，以及本土政治生存对跨国信贷规训的抵御边界。
 > - **分析对象与单位** 民族国家政权机器、国家教育部与国际金融机构的博弈关系、国家与教师工会的制度纽带，以及跨国教育政策转移过程。
 > - **需要的材料** 国家教育财政拨款预算、外债与结构调整协议文本、教育法律与课程标准审定档案、城乡校际资源配置实证数据、教师工会历史档案。
 > - **解释目标** 揭示特定教育改革背后的阶级权力同盟实质，判明政策是在推进实质教育公平，还是在执行受限国家的[[Compensatory Legitimation|补偿性合法化]]，抑或通过本土政治生存否决权抵御了外部资本规训。
@@ -201,7 +200,7 @@ updated: 2026-10-20
 > [!debates] 理论争议
 >
 > > [!axis] 全球化趋同 vs. 依附依从
-> > [[World Society Theory|世界文化理论]]主张战后教育扩张是世界社会理性化模板的自愿模仿与均质扩散；受限国家理论则反驳指出，这种扩张绝非技术中立，而是外围国家被动卷入资本积累与帝国主义跨国[[Disciplina and Doctrina|规训]]的剥削过程。
+> > [[World Society Theory|世界文化理论]]主张战后教育扩张是世界社会理性化模板的自愿模仿与均质扩散；受限国家理论则反驳指出，这种扩张绝非技术中立，而是外围国家被动卷入资本积累与帝国主义跨国规训的剥削过程。
 > >
 > > - **[[John W. Meyer]]（1997）** 全球教育体系的扩张源于主权国家对普世世界文化的合法性追求与制度趋同。
 > > - **[[Carlos Alberto Torres]]（2009）** 外围国家的教育现实是依附受制下的双轨固化，世界文化理论掩盖了资本积累的历史不平等。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]

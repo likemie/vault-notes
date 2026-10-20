@@ -25,12 +25,12 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Technical Rationality]]"
   - "[[Performance Indicators]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Bildung]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Scientific Method]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Humanistic Episteme
@@ -79,7 +79,7 @@ updated: 2026-10-16
 > - **边界** 不等于脱离制度现实的主观抒情或无根文学叙述；它要求研究者将历史制度考掘、社会结构分析与深层哲学反思有机融为一体。
 
 > [!citation-card] 卡扎米亚斯论以人为中心的人本认识论与全人文化关怀
-> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从来不局限于狭隘的“学校[[Disciplina and Doctrina\|规训]]”（schooling），而是从广义的教化与文化（paideia/culture）出发；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从来不局限于狭隘的“学校规训”（schooling），而是从广义的教化与文化（paideia/culture）出发；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 >
 > *Sadler, Kandel, Hans, and Ulich, four of its most noted exponents, approached education not just from the narrow sense of 'schooling' but from the broader sense of paideia/culture, and comparative education as a 'humanistic episteme' whose major concern should be with the 'human being', the anthropos ('man'). As such, it should therefore be anthropocentric ('man-centred'); it should be pervaded by a 'humanistic' philosophy, and it should be concerned with the great problems—political, social but also ethical—which 'mankind' faces.*
 

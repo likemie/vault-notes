@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Determinism]]"
   - "[[Voluntarism]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Problem Solving]]"
@@ -59,7 +60,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Gorard]]"
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Paradigm Wars
@@ -100,7 +100,7 @@ updated: 2026-10-16
 
 > [!boundary] 概念边界
 > - 不等于单纯的数据收集技术争端 范式战争的核心在于背后的哲学世界观对立（客观实在与[[Determinism\|决定论]] vs 主体间性与[[Voluntarism\|唯意志论]]），而非简单的“收集数字还是收集文字”。
-> - 不等于范式和平的永恒确立 混合方法研究虽然宣告了战争的局部终结，但在政策治理领域（如循证决策狂热推崇 [[Randomised Controlled Trials\|RCT]] 黄金标准），新实证主义对质性方法的边陲化倾向依然潜伏，潜在的范式张力从未彻底消弭。
+> - 不等于范式和平的永恒确立 混合方法研究虽然宣告了战争的局部终结，但在政策治理领域（如[[Evidence-Based Policy-Making|循证决策]]狂热推崇 [[Randomised Controlled Trials\|RCT]] 黄金标准），新实证主义对质性方法的边陲化倾向依然潜伏，潜在的范式张力从未彻底消弭。
 
 ---
 
@@ -255,7 +255,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 全景呈现教育[[Paradigm\|研究范式]]战争的爆发根源、两大阵营对峙以及[[Mixed Methods Research\|混合方法]][[Pragmatic Paradigm\|实用主义]]整合路径。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

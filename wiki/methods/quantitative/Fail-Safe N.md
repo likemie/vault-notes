@@ -12,7 +12,7 @@ summary: "用于评估元分析中发表偏倚与抽屉文件效应的敏感性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Random-Effects Model]]"
   - "[[Multilevel Egger's Test]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
 related_persons: []
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fail-Safe N
@@ -225,6 +224,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，综合运用经典失安全数（$N_{\text{fs}} = 378$，大于 180 门槛）与 Orwin 失安全数（需 $2{,}876$ 篇未发表零效应研究稀释至 $0.01$），系统确立了证据体系的抗偏倚稳健度。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 在[[Meta-meta-analysis\|二阶元分析]]中综合运用经典失安全系数（$N_{\text{fs}} = 4954$）、Egger 回归截距检验与[[Trim and Fill Method\|剪补法]]，全面证实[[Cooperative Learning\|合作学习]]宏观干预效应的稳健性。

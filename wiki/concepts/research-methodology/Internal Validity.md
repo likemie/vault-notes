@@ -6,10 +6,10 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - method/research-methods
   - theme/validity
@@ -71,7 +71,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Observation Method]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -80,7 +79,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Internal Validity
 
@@ -272,7 +271,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 经典著作《教育研究方法》第 10 章系统奠定内部效度体系，全面梳理量化内部威胁、质性可信性替代方案（Lincoln & Guba 六策略）、勒孔特真实性维度与哈默斯利三层次。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 经典研究设计著作第 8 章与第 9 章，系统将[[Threats to Internal Validity\|内部效度威胁]]划分为受试者、处理与程序三维，并阐明[[Qualitative Research\|质性研究]]中建立可信性的研究者反思规程。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将内部效度重新定位于“适切研究证据”的严谨性维度，批判单一黄金标准等级制，确立适切证据与深思熟虑参与的双核互构模型。

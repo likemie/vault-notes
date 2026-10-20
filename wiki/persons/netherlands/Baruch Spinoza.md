@@ -6,10 +6,10 @@ summary: "17世纪荷兰哲学家。在后现代教育学与批判性课程理�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1632"
 died: "1677"
 lifespan: "1632–1677"
@@ -19,13 +19,11 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Conatus]]"
   - "[[Feeder Mechanism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[International Spinozian Curriculum]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -35,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-24
+updated: 2026-10-20
 ---
 
 # Baruch Spinoza
@@ -57,7 +55,7 @@ updated: 2026-09-24
 ## 核心思想
 
 > [!claim] 核心主张
-> 在后现代教育哲学语境下，斯宾诺莎的主张被提炼为**基于情感重组与群体力量的内在性解放**。有别于心物二元论和目的论，斯宾诺莎的“内在性平面”消除了预设的矛盾与负面性。他将主体视为充满欲望的具身存在（[[Conatus\|欲力]]主体，Subjects of Desire/Conatus）。在此框架下，教育不再是理智对情感的[[Disciplina and Doctrina\|规训]]，而是通过身体间的真实相遇和情感流动，运用“想象力”去表征和重构内在感受。其政治终点绝不是服从超越性的国家契约，而是彻底释放非辩证的群体力量，在充满不确定性的探索中获得真实的喜悦（Joy）。
+> 在后现代教育哲学语境下，斯宾诺莎的主张被提炼为**基于情感重组与群体力量的内在性解放**。有别于心物二元论和目的论，斯宾诺莎的“内在性平面”消除了预设的矛盾与负面性。他将主体视为充满欲望的具身存在（[[Conatus\|欲力]]主体，Subjects of Desire/Conatus）。在此框架下，教育不再是理智对情感的规训，而是通过身体间的真实相遇和情感流动，运用“想象力”去表征和重构内在感受。其政治终点绝不是服从超越性的国家契约，而是彻底释放非辩证的群体力量，在充满不确定性的探索中获得真实的喜悦（Joy）。
 
 ---
 
@@ -67,8 +65,8 @@ updated: 2026-09-24
 > - **理论路径** 经由德勒兹（Gilles Deleuze）、哈特（Michael Hardt）等后现代学者的重新阐释，斯宾诺莎的哲学进入了批判性教育学领域，催生了诸如“情感政治（Politics of Affection）”和“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”等前沿理论。
 > - **方法路径** 为突破僵化的知识传授（如 IB 体系中的[[Theory of Knowledge\|知识论]]教学壁垒）提供了新的行动指南：即将课堂中的焦虑、虚无主义等负面情绪合法化，并直接转化为探究的生产性材料。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出了“国际斯宾诺莎主义课程”，论证了斯宾诺莎的哲学如何能够打破[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的[[Disciplina and Doctrina\|规训]]，通过转化课堂上的负面情绪和释放想象力，促成深度的突破性学习。
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出了“国际斯宾诺莎主义课程”，论证了斯宾诺莎的哲学如何能够打破[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的规训，通过转化课堂上的负面情绪和释放想象力，促成深度的突破性学习。
 
 ---
 

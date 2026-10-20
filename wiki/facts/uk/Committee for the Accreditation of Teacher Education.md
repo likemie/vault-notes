@@ -26,13 +26,13 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Initial Teacher Training]]"
   - "[[New Public Management]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Classroom Management]]"
   - "[[Evidence Era]]"
   - "[[Paradigm]]"
   - "[[New Sociology of Education]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Cognitive Deskilling]]"
   - "[[School Effectiveness]]"
 related_theories: []
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Committee for the Accreditation of Teacher Education
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > [!citation-card] 教师教育认证制度的历史转向
 > 1984 年 CATE 的成立被广泛视为英格兰教师教育治理的重大转折点：决策者首次明确要求将官方督导证据作为办学资质许可的前提，开启了从大学学术自治向国家[[New Public Management\|新公共管理]]循证问责的历史性位移。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 >
-> *The establishment of CATE in 1984 marked the very first explicit evidence-based policy move in English teacher education, relying systematically on HMI inspection evidence.*
+> *The establishment of CATE in 1984 marked the very first explicit [[Evidence-Based Policy-Making|evidence-based policy]] move in English teacher education, relying systematically on HMI inspection evidence.*
 
 ---
 
@@ -127,7 +127,7 @@ updated: 2026-10-16
 > > - **大学与学者立场** 批评 CATE 实行中央集权技术官僚控制，剥夺了大学培养具有[[Reflexivity\|反思性]]与批判力专业教师的[[Academic Freedom\|学术自由]]。
 > > - **政府管制立场** 强调国家财政对教师教育负有质量保证与“物有所值”（Value for Money）的问责职责。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 >
-> > [!axis] 理论教化价值 vs 实用技能[[Disciplina and Doctrina\|规训]]
+> > [!axis] 理论教化价值 vs 实用技能规训
 > > 争论教师教育应以广义教育理论为根基，还是以中小学即插即用的课堂技能为重心。
 > >
 > > - **批判社会学立场** 指责 CATE 将社会不平等与正义议题从师训中抹除，使教师沦为[[Cognitive Deskilling|去技能化]]的国家规程执行工。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]

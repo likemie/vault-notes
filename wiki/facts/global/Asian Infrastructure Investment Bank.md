@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -25,18 +25,17 @@ tags:
   - geopolitics
   - level/international
 related_concepts:
-  - "[[Belt and Road Initiative]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[South-South Cooperation]]"
-  - "[[Hard Power]]"
-  - "[[Knowledge Diplomacy]]"
-related_theories:
-  - "[[Neo-Tributary Perspective]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[ASEAN]]"
   - "[[World Bank]]"
+  - "[[English Schools Foundation Hong Kong]]"
+  - "[[ASEAN]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
@@ -52,7 +51,7 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB）是由中国主导倡议成立、面向全球开放的政府间多边开发金融机构，重点向亚太及共建国家的基础设施互联互通、可持续交通与绿色能源项目提供投融资支持，构成对世界银行与亚洲开发银行等传统布雷顿森林体系的互补与创新。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050–1051)]]
+> 亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB）是由中国主导倡议成立、面向全球开放的政府间多边开发金融机构，重点向亚太及共建国家的基础设施互联互通、可持续交通与绿色能源项目提供投融资支持，构成对[[World Bank|世界银行]]与亚洲开发银行等传统布雷顿森林体系的互补与创新。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050–1051)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2013 年提出筹建倡议，2015 年 12 月正式宣告成立，2016 年 1 月开业运营；旨在填补亚太发展中国家面临的巨大基础设施建设融资缺口。
@@ -76,7 +75,7 @@ updated: 2026-10-20
 >
 >   获得国际三大评级机构最高 AAA 信用评级，启动首批跨国交通、能源及供水贷款项目。
 >
->   - **2016** 北京总部正式开业，发布首套跨国环境与社会保障框架（ESF）。
+>   - **2016** 北京总部正式开业，发布首套跨国环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）。
 >
 > - **2021–至今** **绿色金融与高质量基础设施引领期**
 >
@@ -97,8 +96,8 @@ updated: 2026-10-20
 ## 在区域经济与高等教育协同中的角色
 
 > [!finding-cards] 实体投资出海对人才培养的溢出拉动
-> - **资本与工程出海拉动高教定向育人** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu and Yang, 2025]]）实证指出，以亚投行 1000 亿美元资本金为支撑的多边融资机制带动了中国对东南亚重大物理基础设施（公路、电网、水利与港口）的直接投资；这些重大工程在落地过程中亟需通晓中文、掌握国际工程技术标准且熟悉属地社会的复合型技术人才，直接刺激了面向东盟各国的工科留学生扩招与定向奖学金设立。（pp. 1050–1051）
-> - **资源配置的不对称失衡** 实证调研同时发现，大国对外合作资源向以亚投行和工程承包为代表的硬性基础设施高度倾斜（对柬基建援助达 11.60 亿美元），而文教社会交叉领域仅为 4.92 亿美元，显示出物质资本投入与深层人文交流之间存在阶段性结构落差。（pp. 1053–1054）
+> - **资本与工程出海拉动高教定向育人** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，以亚投行 1000 亿美元资本金为支撑的多边融资机制带动了中国对东南亚重大物理基础设施（公路、电网、水利与港口）的直接投资；这些重大工程在落地过程中亟需通晓中文、掌握国际工程技术标准且熟悉属地社会的复合型技术人才，直接刺激了面向[[ASEAN|东盟]]各国的工科留学生扩招与定向奖学金设立。（pp. 1050–1051）
+> - **资源配置的不对称失衡** 实证调研同时发现，大国对外合作资源向以亚投行和工程承包为代表的硬性基础设施高度倾斜（对柬基建援助达 11.60 亿美元），而文教社会[[Comparative Education as a Cross-Sectional Area|交叉领域]]仅为 4.92 亿美元，显示出物质资本投入与深层人文交流之间存在阶段性结构落差。（pp. 1053–1054）
 
 ---
 

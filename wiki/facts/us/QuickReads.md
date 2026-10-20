@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -127,7 +126,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Quick Reads 评定为初等阅读 Tier 2 助教小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过 QuickReads 等微型高频工具充实 Tier 2 流畅度小组干预。
 > - [[Sound Partners]] — 同属助教实施的早期阅读强证据方案，二者形成“K–1 音素拼读”向“2–3 流畅度概念复读”的进阶衔接。

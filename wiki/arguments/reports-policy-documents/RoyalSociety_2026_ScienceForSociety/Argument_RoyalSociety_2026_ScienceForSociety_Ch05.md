@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
   - "[[Sage]]"
   - "[[Reliability]]"
+  - "[[Geopolitics]]"
   - "[[Soft Power]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Public Engagement with Science]]"
   - "[[STEM Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Social License to Operate]]"
   - "[[Outcomes-based Education]]"
 related_methods:
@@ -145,7 +147,7 @@ updated: 2026-10-20
 > - **皇家学会法官科学指引丛书（Science Primers for Judges）** 英国皇家学会联合司法界专门研制了通俗、中立的法官法庭科学指南，系统界定法医 DNA、隐形墨水法医鉴定与步态分析等前沿技术的科学[[Reliability\|可靠性]]边界，树立了科学界协助司法系统公正裁判的典范。（pp. 79–80）
 
 > [!case] 案例研究二：动荡时代的跨国科学外交（Science Diplomacy in an Era of Disruption，p. 80, note 155）
-> 科学与决策的互动在全球化地缘政治博弈中具备独特的战略通道价值：
+> 科学与决策的互动在全球化[[Geopolitics|地缘政治]]博弈中具备独特的战略通道价值：
 > - **皇家学会与 [[American Association for the Advancement of Science\|AAAS]] 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间对话。
 > - **超越政治僵局的科学理性** 无论在南极科考、气候跨国履约还是前沿人工智能安全标准制定中，跨国科学界所共享的求真原则与证据规范，成为各国政府打破外交冰冻期、构建全球风险治理的重要[[Soft Power\|软实力]]支柱。（p. 80）
 
@@ -396,7 +398,7 @@ updated: 2026-10-20
 > [!index-table] 表5-4：政策与科学治理三大国家建议落地实施矩阵（pp. 87–88）
 > | 建议维度与编号 | 核心政策诉求与改革靶标 | 主要牵头负责主体 | 配套实施抓手与约束工具 | 预期达成的治理成效 |
 > |---|---|---|---|---|
-> | **建议 14：法定发布《科学证据陈述》** | 政策全流程强制披露科学证据基础，明确标注科学不确定性 | 英国中央政府、内阁办公室、各部委政策司 | 财政部《绿皮书》政策指引更新、通俗英文撰写审查、法定随附程序 | 彻底终结政策循证黑箱与口号化“遵循科学”，重塑循证决策公信力 |
+> | **建议 14：法定发布《科学证据陈述》** | 政策全流程强制披露科学证据基础，明确标注科学不确定性 | 英国中央政府、内阁办公室、各部委政策司 | 财政部《绿皮书》政策指引更新、通俗英文撰写审查、法定随附程序 | 彻底终结政策循证黑箱与口号化“遵循科学”，重塑[[Evidence-Based Policy-Making\|循证决策]]公信力 |
 > | **建议 15：国家学术院独立审查监督** | 对政府与政党重大政策科学证据行使独立第三方公共质询与审计 | 国家各学术院（Royal Society 等）、IfG、[[Sense about Science]] | 联合独立证据审查报告、公开质询听证、跨党派透明度排行榜 | 阻断政治偏见与意识形态对科学证据的篡改，捍卫科学顾问制度独立性 |
 > | **建议 16：前瞻新兴技术公共对话** | 针对 AI、合成生物等前沿技术在早期建立平权前瞻审议对话 | 科学共同体、国家学术院、[[Sciencewise]]、科研资助机构（UKRI） | 科研总预算专项资助划拨、全政策层 STEM 技能提升、专业中介协商网络 | 扭转仅 12% 决策参与感，在颠覆性技术落地前建立稳固[[Social License to Operate\|社会许可]]与公众信任 |
 

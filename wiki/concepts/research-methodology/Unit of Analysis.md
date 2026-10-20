@@ -13,9 +13,9 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，量化证据综合中底层独立原始研究与高阶汇聚元分析层级的对齐，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
 type: concept
 domain: "research-methodology"
-related_count: 100
-related_level: 10
-related_stars: "💎💎💎⭐"
+related_count: 99
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - research-methodology
@@ -91,7 +91,6 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Domain Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons:

@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Clash of Civilizations]]"
 related_methods:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Great Firewall of China
@@ -57,7 +58,7 @@ updated: 2026-10-16
 
 > [!success]
 > - 信息多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
-> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主义最终毁灭了日本
+> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲[[Geopolitics|地缘政治]]与军国主义最终毁灭了日本
 > - Partaken 认为，中国近年从邓小平的开放低调路线（"韬光养晦"）倒退为自我孤立，伴随着强硬外交、内外审查和激进的领土争端([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
 
 ## 争议与评论

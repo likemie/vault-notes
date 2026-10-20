@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
+  - "[[Geopolitics]]"
   - "[[Global Education Industry]]"
   - "[[International Education Hubs]]"
   - "[[Knowledge-Based Economization]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 背景
@@ -129,7 +130,7 @@ Minerva University 被 Thompson and Parreira do Amaral（2022）选为论述[[Ge
 
 - **从民族国家框架中的"脱位"** 古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的[[Grandes Ecoles|大学校]]、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
 - **在全球政治经济[[Champ|场域]]中的"再定位"** 脱位之后，Minerva 被重新嵌入由教育科技乌托邦主义、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]])，以全球市场而非国家政策为运营参照系
-- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值** Minerva 是 Hub and [[Flow]] 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 IEHs 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识地缘政治中从"领土固着"到"完全场所无涉"的完整光谱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])
+- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值** Minerva 是 Hub and [[Flow]] 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 IEHs 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识[[Geopolitics|地缘政治]]中从"领土固着"到"完全场所无涉"的完整光谱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])
 - **地缘政治逻辑的制度化** Minerva 展示了宏观的地缘政治想象如何在单所机构的层面被物质化和制度化——从课程设计到教学法，从商业模式到全球扩张策略，从技术平台到学生生活安排，无一不贯穿着将高等教育从国家公共事业重构为全球私人服务的深层逻辑
 - **[[Discourse|话语]]实践的履行性力量** Minerva 对自身的叙述本身就构成一种地缘政治行动——它不只是在"描述"一所新大学，而是在"制造"一个关于高等教育未来的政治想象：在这个想象中，国家边界、学科边界和物理边界都不再构成限制，唯一有效的逻辑是市场逻辑和效率逻辑
 
@@ -137,7 +138,7 @@ Minerva University 被 Thompson and Parreira do Amaral（2022）选为论述[[Ge
 
 ## 相关概念
 
-- [[Geopolitics of Knowledge]] — Minerva 是知识地缘政治在机构层面物质化的典型案例
+- [[Geopolitics of Knowledge]] — Minerva 是知识[[Geopolitics|地缘政治]]在机构层面物质化的典型案例
 - [[Hub and Flow Imaginaries]] — Minerva 代表 Hub and [[Flow]] 光谱中"流动"维度的极值
 - [[Global Education Industry]] — Minerva 是 GEI 中营利性高等教育创业的典型代表
 - [[International Education Hubs]] — IEHs 代表的国家锚定式"枢纽"策略与 Minerva 的"场所无涉"策略形成对照

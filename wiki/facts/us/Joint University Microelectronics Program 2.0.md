@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 40
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -50,7 +50,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Perpetual Inventory Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

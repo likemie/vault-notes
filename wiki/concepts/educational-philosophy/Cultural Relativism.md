@@ -8,7 +8,7 @@ aliases:
 summary: "指发端于20世纪人类学、主张所有文化模式与生活形态同等有效且免受外部规范审查的理论范式；在当代被批评为一种不敢声称真理、美与美好生活的集体心理防御，泛化后不仅将审美品味贬低为单纯的地位争夺，更导致社会丧失辨别卓越与平庸的本能，构成战后通识正典瓦解与技术不可知论的哲学根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,6 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Fieldwork]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

@@ -10,9 +10,9 @@ summary: "通过交叉分类多个理论维度或显性属性，将复杂经验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 39
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -58,7 +58,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Content Analysis]]"
   - "[[Analytic Induction]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/educational-policy-reform
   - evidence-based-education
@@ -37,10 +37,10 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Research-Practice Gap]]"
   - "[[Publication Bias]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Output-Oriented Governance]]"
   - "[[Internal Validity]]"
   - "[[Formative Assessment]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Interaction Effect]]"
   - "[[Public Value]]"
   - "[[New Public Management]]"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Factorial Design]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_facts:
@@ -89,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # What Works Movement
@@ -199,7 +198,7 @@ updated: 2026-10-17
 > 批评者指出，将循证运动推向极致可能导致医学隐喻的过度简化，并为大型私人慈善资本与咨询公司提供控制学校的合法性遮羞布。
 
 > [!claim] [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]
-> **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation\|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度[[Disciplina and Doctrina\|规训]]的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment\|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
+> **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation\|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度规训的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment\|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
 
 ---
 
@@ -244,7 +243,7 @@ updated: 2026-10-17
 > [!tension] 理论争议与[[Epistemology\|认识论]]批判
 > - **医学隐喻破产与简化主义倾向** 哲学家[[Gert Biesta\|格特·比斯塔]]（Gert Biesta）等学者批判将教育等同于临床医学的浅层类比。教育本质上是关于价值判断、文化建构与主体间互动的复杂实践，简单的“输入-输出”[[Causality\|因果推断]]抹杀了教育目的的多样性（Biesta, 2007, 2015）。
 > - **私人慈善资本与商业机构的利益合谋** 批评者揭示，循证运动表面上崇尚客观中立，实际上常由大型跨国基金会、私人智库与教材出版商主导，演变为一种以“循证认证”为垄断工具的商业化寻租网络（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。
-> - **教师专业裁量权的剥夺与技术官僚化** 预先标准化的循证干预套餐容易演化为机械[[Disciplina and Doctrina\|规训]]，削弱教师根据班级动态与学生[[Heterogeneity\|异质性]]行使[[Professional Judgment\|专业判断]]的能动空间，造成教学实践的[[Cognitive Deskilling|去技能化]]（Deskilling）。
+> - **教师专业裁量权的剥夺与技术官僚化** 预先标准化的循证干预套餐容易演化为机械规训，削弱教师根据班级动态与学生[[Heterogeneity\|异质性]]行使[[Professional Judgment\|专业判断]]的能动空间，造成教学实践的[[Cognitive Deskilling|去技能化]]（Deskilling）。
 > - **[[Business as Usual\|常态教学]]高基线下的微弱收益悖论** 当学校常态教学（BAU）本身已高度成熟且高效时，斥巨资研发的大规模商业干预往往只能取得微乎其微的附加效应（$d \approx 0.06$），引发关于大规模试验边际效用的成本效益拷问（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 
 ---
@@ -266,7 +265,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation\|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation\|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation\|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency\|教师专业自主权]]受抑的困境。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。

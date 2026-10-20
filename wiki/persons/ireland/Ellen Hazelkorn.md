@@ -7,7 +7,7 @@ summary: "爱尔兰高等教育学者，全球大学排名研究代表人物，�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Ellen Hazelkorn
 
@@ -67,7 +68,7 @@ updated: 2026-10-16
 ### 2018 — *Reshaping the World Order of Higher Education*
 
 - APA：Hazelkorn, E. (2018). Reshaping the world order of higher education: The role and impact of rankings on national and global systems. *Policy Reviews in Higher Education*, 2(1), 4–31.
-- 核心内容：将排名置于地缘政治分析框架中——论证排名"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势"。高等教育已被"从以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]]）。
+- 核心内容：将排名置于[[Geopolitics|地缘政治分析]]框架中——论证排名"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势"。高等教育已被"从以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]]）。
 - 思想位置：理论深化——将排名分析从制度层面提升至全球地缘政治层面。
 - 相关概念：[[Geopolitics of Knowledge]]、[[Global Universities Rankings]]
 
@@ -87,7 +88,7 @@ updated: 2026-10-16
 
 > [!success]
 > - 排名研究的奠基性工作——其 2014 年国际调查数据和 2015 年专著被后续排名研究广泛引为基础参照
-> - 影响了 [[Geopolitics of Knowledge]] 概念中关于排名作为地缘政治机制的讨论
+> - 影响了 [[Geopolitics of Knowledge]] 概念中关于排名作为[[Geopolitics|地缘政治]]机制的讨论
 > - 与 [[Philip Altbach]] 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向
 
 ---

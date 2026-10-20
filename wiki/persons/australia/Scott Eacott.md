@@ -8,7 +8,7 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 36
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[School Leadership]]"
   - "[[Construct]]"
   - "[[Technical Rationality]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Internal Consistency]]"
-  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -90,7 +88,7 @@ updated: 2026-10-20
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **2011** 发表于 *Journal of Educational Administration and History*，以[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与习性框架剖析新南威尔士州校长培养计划，揭示管理主义对校长角色的工具化[[Disciplina and Doctrina|规训]]。[[Argument_Eacott_2011_JEAH|(Eacott, 2011)]]
+> - **2011** 发表于 *Journal of Educational Administration and History*，以[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与习性框架剖析新南威尔士州校长培养计划，揭示管理主义对校长角色的工具化规训。[[Argument_Eacott_2011_JEAH|(Eacott, 2011)]]
 > - **2015** 发表于 *Educational Philosophy and Theory*，论述教育行政学者自身的具身嵌入性塑造其智识凝视，奠定教育领导力社会[[Epistemology|认识论]]基础。[[Argument_Eacott_2015_EPT|(Eacott, 2015)]]
 > - **2017** 发表于 *[[School Leadership]] & Management*，发表里程碑论文《学校领导力与[[Cult of the Guru|大师崇拜]]：[[John Hattie|哈蒂]]的[[Neo-Taylorism|新泰勒主义]]》，引发跨国学术轰动，并引发同行向 UNSW 科研副校长正式投诉与哈蒂本人的公开反驳。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]
 > - **2018** 出版学术专著 *Beyond Leadership: A Relational Approach to Organizational Theory in Education*（Springer 出版社），系统阐述关系取向组织理论。
@@ -106,7 +104,7 @@ updated: 2026-10-20
 >   - **阶段核心** 借用布迪厄反思社会学工具，从对具体校长培训政策的管理主义批评，上升至对教育行政领域[[Knowledge Production|知识生产]]社会条件（Social Epistemology）的元理论审辨。
 >   - **代表著作** [[Argument_Eacott_2011_JEAH|Eacott (2011)]] *Preparing 'educational' leaders in managerialist times*；[[Argument_Eacott_2015_EPT|Eacott (2015)]] *The problem with the structures of knowledge production in educational administration*。
 >   - **关键概念** [[Champ|场域]]、习性、原道、[[Knowledge Production|知识生产]]。
->   - **阶段转向** 突破传统行政学就事论事的[[Positivism|实证主义]]套路，确立关注学者社会具身嵌入性与学术[[Disciplina and Doctrina|规训]]机制的元认识论视角。
+>   - **阶段转向** 突破传统行政学就事论事的[[Positivism|实证主义]]套路，确立关注学者社会具身嵌入性与学术规训机制的元认识论视角。
 > - **2016–2017 — [[Neo-Taylorism|新泰勒主义]]解构与[[Cult of the Guru|大师崇拜]]批判期**
 >   - **阶段核心** 针对全球教育治理中对量化指标与单一学术权威的盲从，将泰勒科学管理与卡拉汉历史视角相结合，系统诊断当代[[Evidence-Based Education|循证教育]]政策的技术控制本质。
 >   - **代表著作** Eacott (2017a) *[[School Leadership]] and the cult of the guru: The neo-Taylorism of Hattie*；Eacott (2017b) *A social epistemology for educational administration and leadership*。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]
@@ -142,7 +140,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统教育行政学将领导力视作心理特质或功能管理工具的实体论[[Paradigm|范式]]，确立了关系取向组织理论与学术[[Knowledge Production|知识生产]]的社会[[Epistemology|认识论]]传统。
 > - **实务批判路径** 激发了一线教育工作者对科层持续数据生产与机械问责的警觉与反思，其论文发表后持续收到世界多国中小学校长分享[[Cult of the Guru|大师崇拜]]如何异化日常教学的个人叙事。
-> - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义[[Disciplina and Doctrina|规训]]本质。
+> - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义规训本质。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出哈蒂可见学习为当代教育行政中的“新泰勒主义”与“大师崇拜”。

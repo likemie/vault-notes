@@ -10,10 +10,10 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 41
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - educational-sociology
   - inequality
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Grade Retention]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Determinism]]"
   - "[[Didaktik]]"
   - "[[Feedback]]"
@@ -54,7 +53,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Stratified Sampling]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -161,7 +159,7 @@ updated: 2026-10-20
 > 1. **拒绝纳入调节变量的技术主义逃避（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 哈蒂宣称现实教育中的调节变量远比人们通常想象的要少（Hattie, 2009, p. 10），并在实证建模中系统性拒绝将社会经济地位作为调节变量纳入对反馈、[[Homework|作业]]及[[Class Size|班级规模]]的分析中。哈蒂辩解称“教师在学校内无法改变学生的社会经济出身，因此教育研究应当只关注教师在课堂里能改变的因素”（Hattie, 2009, pp. x–xi）。
 > 2. **参照系反转揭示全书最大逆向有害因素（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）** 哈蒂将社会经济地位报告为取正值的[[Effect Size|效应量]] $d = 0.57$（部分章节与附录为 $0.59$）。伯杰龙与里瓦尔指出，该数值源自富裕家庭相对于贫困家庭的单向对比；在数学上，若将基准参照系对调为“贫困家庭相对于富裕家庭”，其效应量严格为 $d = -0.57$（或 $-0.59$）。在哈蒂自创的影响气压计分级中，负值属于破坏学业的“逆向有害效应”（Reverse Effects）。$-0.57$ 的负向冲击远超[[Grade Retention|留级]]（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$），是全书最具摧毁力的负面因素。将其单向表述为正值，掩盖了底层贫困对教育成就的实质压迫。
 > 3. **脱离阶级情境的均值汇总如同挑战者号事故与鱼子酱指数（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）** 伯杰龙与里瓦尔援引肯内特与蒂雷戈德（Kennet & Thyregod, 2006）对美国挑战者号航天飞机事故的统计分析：事故主因在于工程分析孤立统计 O 型环破损而抽离了环境温度这一关键情境变量；教育[[Meta-analysis|元分析]]在剥离 SES 与社会阶层背景的前提下强行汇总教学法平均值，重蹈了同样的覆辙。在未加权的情形下将异质阶层背景下的干预效应混为一谈，犹如计算居民消费物价指数时将一磅土豆与一磅鱼子酱的价格变动赋予完全相同的权重，得出脱离现实民生的通胀判断。
-> 4. **阶级盲教学思维的[[Disciplina and Doctrina|规训]]功能（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 将学生预设为均质平等的白板（tabula rasa），断言存在一套能超越社会阶级而普适有效的工程学教学处方，在客观上建构了**阶级盲教学思维（class-blind pedagogical thinking）**。这种思维将复杂的社会系统病理简化为个别教师的教学操作缺陷，为行政官僚削减公共福利开支、推行新泰勒主义问责提供了伪科学掩护（pp. 6–7, 14–15）。
+> 4. **阶级盲教学思维的规训功能（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 将学生预设为均质平等的白板（tabula rasa），断言存在一套能超越社会阶级而普适有效的工程学教学处方，在客观上建构了**阶级盲教学思维（class-blind pedagogical thinking）**。这种思维将复杂的社会系统病理简化为个别教师的教学操作缺陷，为行政官僚削减公共福利开支、推行新泰勒主义问责提供了伪科学掩护（pp. 6–7, 14–15）。
 
 ---
 

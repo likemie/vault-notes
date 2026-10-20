@@ -10,9 +10,9 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 29
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/propensity-score-matching
@@ -46,7 +46,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Observation Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Propensity Score Matching
@@ -234,5 +233,5 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用[[Difference-in-Differences\|双重差分法]]与倾向得分匹配评估学校宏观体制选择的因果成效。

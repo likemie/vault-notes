@@ -10,7 +10,7 @@ aliases:
 summary: "特哈特针对可见学习与二阶元分析提出的批判认识论模型，指出超级聚合面临常识渐近逼近的稳定性假说与关键发现过时颠覆的变异性假说双重夹击，终结了循证教育寻获客观终极圣杯的神话。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 43
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ewald Terhart]]"

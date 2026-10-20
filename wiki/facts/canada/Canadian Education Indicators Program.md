@@ -10,9 +10,9 @@ subtype: program
 region: canada
 fact_region: "canada"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1989至今"
 initiator_organization: "加拿大教育部长理事会（CMEC）与加拿大统计局（Statistics Canada）"
@@ -25,6 +25,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Scale of Measurement]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
@@ -68,7 +69,7 @@ updated: 2026-10-20
 > CEIP 通过吸纳与 [[OECD]] 报告同质的量化统计口径，建立统一的区域比较指标，特别是将基于 [[PISA]] 评估的“学生成就卓越度”（Student Achievement Excellence）作为衡量各省教育水平是否卓越以及政策是否奏效的核心证据。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 破除省际数据壁垒，为决策者提供可比的教育系统投入、过程与产出实证信息，推动循证决策与政策审慎调适。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **项目目标** 破除省际数据壁垒，为决策者提供可比的教育系统投入、过程与产出实证信息，推动[[Evidence-Based Policy-Making|循证决策]]与政策审慎调适。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **覆盖对象** 加拿大 10 个省和 3 个地区的公立与私立 K-12 基础教育体系、高等教育及职业培训项目。
 > - **干预措施** 设立“学生成就卓越度”指标，直接追踪各省 15 岁学生在 PISA 阅读、数学与科学测试中达到 5 级和 6 级高阶水平的比例；联动各省优化师资结构（如 2012 年延长教师职前培训时长）。
 > - **实施控制** 统一抽样标准与统计规范，采用 OECD/PISA 心理[[Scale of Measurement|测量尺度]]对齐，保障跨省与跨国纵向纵深可比性。

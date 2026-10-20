@@ -30,6 +30,7 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Paradigm]]"
   - "[[Recontextualization]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Soft Power]]"
   - "[[Surplus of Evidence]]"
@@ -58,7 +59,6 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -69,7 +69,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Brokerage
@@ -105,7 +105,7 @@ updated: 2026-10-16
 > | **行动主体** | 兼具[[Knowledge Production\|知识生产]]、倡导与资助能力的跨国组织、智库与官方扶植中介 | 相对中立的学术传播机构、第三方评估中心与知识翻译者 | 主权国家政府内部的政策制定者、行政官员与政治联盟 |
 > | **核心机制** | 选择性提取数据，以科学理性包装特定改革方案 | 双向沟通、证据传播与学术研究成果去术语化普及 | 依据本土政治冲突与合法性危机，策略性引入外部参考 |
 > | **运作特征** | 利益关联性强，呈现[[Soft Power by Hard Facts\|硬事实软权力]]与话语标准化 | 侧重研究发现的保真度与实践转化效率 | 侧重外部[[Paradigm\|范式]]的本土转译、意义重塑与[[Recontextualization\|再脉络化]] |
-> | **治理功能** | 塑造全球政策共识，问责国家绩效，服务政策落地与合法性辩护 | 弥合科研与实践裂隙，促进循证决策能力建设 | 转移国内政治冲突，为既定改革路线寻求外在化背书 |
+> | **治理功能** | 塑造全球政策共识，问责国家绩效，服务政策落地与合法性辩护 | 弥合科研与实践裂隙，促进[[Evidence-Based Policy-Making\|循证决策]]能力建设 | 转移国内政治冲突，为既定改革路线寻求外在化背书 |
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-10-16
 > 探讨数字化时代知识供给过剩如何颠覆传统理性决策假设，促成政策中介机构的制度性崛起。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **[[Surplus of Evidence\|证据过剩]]催生选择性转译需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进循证决策；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂生长的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+> **[[Surplus of Evidence\|证据过剩]]催生选择性转译需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进[[Evidence-Based Policy-Making|循证决策]]；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂生长的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
 
 ---
 
@@ -222,7 +222,7 @@ updated: 2026-10-16
 > > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!critique] 外部批评
-> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识进行闭环中介与项目资助，极易导致循证决策演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识进行闭环中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
 
 > [!warning] 适用局限
@@ -243,6 +243,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

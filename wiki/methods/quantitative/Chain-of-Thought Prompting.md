@@ -10,7 +10,7 @@ summary: "通过引导大语言模型显式生成逐步推理路径以解决复�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,7 +39,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Analysis of Variance]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Chain-of-Thought Prompting
@@ -152,6 +151,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 将思维链提示与[[Role-playing\|角色扮演]]、检索增强生成共同确立为促进自适应[[Epistemic Stances\|认识立场]]演进的技术干预支架，阐述其对低先验知识者推导统计原理的[[Scaffolding\|脚手架]]功能。（p. 366）
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 在高等教育中的应用，指出结构化分步追问是防范认知侵蚀与维持[[Critical Thinking\|批判性思维]]的关键教学干预规制。（pp. 10–12）

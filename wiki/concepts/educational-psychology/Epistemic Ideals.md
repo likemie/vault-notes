@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Qualitative Content Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Multimodal Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -69,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Ideals
@@ -255,7 +254,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 将 Sandoval 四项[[Scientific Explanation|科学解释]]标准[[Operationalization|操作化]]为显性[[Epistemology|认识论]]理想，实证揭示其在[[Man-Computer Symbiosis|人机协同]]科学探究中指导微观因果核验与图文重构的支架机制。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个认识论干预因果[[Meta-analysis\|元分析]]，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的[[Academic Achievement\|学业成就]]因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。

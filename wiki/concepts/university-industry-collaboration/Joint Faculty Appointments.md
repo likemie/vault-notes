@@ -11,7 +11,7 @@ aliases:
 summary: "产学合作中学者同时持有企业正式雇员与大学专任教授双重法律身份的高带宽协同构型。研究者以企业雇员身份解决短期专有工程难题，以大学教授身份主持长期开放科研并指导研究生；通过在个体层面并行运作化解校企时间尺度错配，但需依托成熟的学术参与团队（AET）与知识产权分割机制平衡商业保密与学术发表冲突。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

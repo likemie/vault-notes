@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知构念之一，指个体认识到知识是不断演化、可被修正的发展性产物，而非永恒不变的绝对真理集合。是预测学业成就效力最强的单一认识论构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,12 +39,11 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
-  - "[[Correlational Research]]"
 related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Development of Knowledge
@@ -150,6 +149,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中系统比较了 19 个[[Epistemology\|认识论]][[Construct\|构念]]，证实知识的发展是对[[Academic Achievement\|学业成绩]]预测力最强的单一构念（$r = .274$）。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理认识论结构，将关于知识演化的信念确立为知识性质维度的理论基石。

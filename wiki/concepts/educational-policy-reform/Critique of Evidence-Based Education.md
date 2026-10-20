@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 90
+related_count: 91
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Stability vs. Variability Dilemma]]"
   - "[[Critical Theory]]"
   - "[[Institutional Isomorphism]]"
 related_methods:
@@ -114,7 +115,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Critique of Evidence-Based Education
@@ -227,7 +228,7 @@ updated: 2026-10-16
 > **[[Critical Realism\|批判实在论]]解构与施为者悖论** 依据巴斯卡（[[Roy Bhaskar]]）的[[Critical Realism\|批判实在论]]解构 EBE：（1）实在分为深层机制、实际事件与经验现象三层，EBE 仅在经验表层计算效应量均值；（2）教育是开放系统，不可按封闭实验室还原；（3）施为者悖论：RCT 极力控制并视为“混淆干扰”的教师自由意志与学生主观意义建构，恰恰是产生真实教学效果不可或缺的核心因果动力。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–15)]]
 
 > [!claim] [[Argument_Terhart_2011_JCS\|Terhart (2011)]]
-> **[[Meta-meta-analysis\|元-元分析]]的稳定性与变异性双重困境** 元-元分析（mega-analysis）试图通过无限累积研究扩大参考范围，但伴随层层合并，原始经验细节与情境特征彻底消逝；这陷入双重困境：若累积结果趋向平庸收敛（稳定性），则继续研究失去增量价值；若新研究不断颠覆旧合成（变异性），则现有元分析结论永远是暂时的脆弱假设。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]
+> **[[Meta-meta-analysis\|元-元分析]]的[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]** 元-元分析（mega-analysis）试图通过无限累积研究扩大参考范围，但伴随层层合并，原始经验细节与情境特征彻底消逝；这陷入双重困境：若累积结果趋向平庸收敛（稳定性），则继续研究失去增量价值；若新研究不断颠覆旧合成（变异性），则现有元分析结论永远是暂时的脆弱假设。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]
 
 > [!claim] [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]]
 > **[[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 统计失真与民间[[Empiricism\|经验主义]]批判** 追踪[[Education Endowment Foundation\|EEF]] Toolkit 体育参与条目发现其经历三级统计失真：元分析层面合并不可比基线；元-元分析层面混淆干预时长、年龄效应与结果类型；政策转译层面虚构“增加 X 个月学习”的线性转换。其背后依赖过分简化的“民间经验主义”科学观，将科学等同于数据排名而抹杀了理论机制探索。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019, pp. 24–31)]]

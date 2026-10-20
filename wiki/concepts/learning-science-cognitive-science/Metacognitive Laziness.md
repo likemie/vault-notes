@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Metacognitive Laziness
@@ -214,5 +213,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 实施 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，证实生成式 AI 对大学生成果总体具有大[[Effect Size\|效应量]]但在[[Metacognition\|元认知]]上无显著促进（$g^+ = 0.078$），实证验证了开放式 AI 介入引发元认知惰性的风险，确立了植入结构化反思培训的教学必要性。

@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 65
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -89,7 +89,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Kratsios]]"
 confidence: high

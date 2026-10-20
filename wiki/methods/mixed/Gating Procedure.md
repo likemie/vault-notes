@@ -6,7 +6,7 @@ summary: "系统综述中的筛选程序，指只有内部效度达到门槛的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
   - "[[Single-Case Design]]"
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
@@ -42,13 +41,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 ## 定义
 
 > [!info] 定义
-> 门控程序（Gating Procedure）是[[Systematic Review\|系统综述]]中的一种方法论策略：**第一步**先识别某一主题的所有[[Correlational Research\|相关研究]]；**然后**仅纳入那些具有强[[Internal Validity\|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462, citing Maggin et al., 2013]])。
+> 门控程序（Gating Procedure）是[[Systematic Review\|系统综述]]中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强[[Internal Validity\|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462, citing Maggin et al., 2013]])。
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
 >

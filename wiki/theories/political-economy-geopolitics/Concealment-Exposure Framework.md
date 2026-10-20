@@ -7,7 +7,7 @@ aliases:
 summary: "用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 - epistemology
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Sabotage]]"
 related_theories: []
 related_methods:
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Concealment-Exposure Framework
@@ -38,7 +39,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 隐藏-暴露（concealment-exposure）框架源自 Nagel (1998) 对隐私和人性关系的[[Philosophical Analysis in Education\|哲学分析]]，[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将其提升为[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心分析工具：在个人层面，揭示与隐藏之间的边界及其控制是**我们人性最重要的属性之一**；在国家层面，隐藏（有意识地使某些知识不可获取）和暴露（在便利时刻披露特定知识以削弱对手）的组合运用构成 GPK 的核心地缘政治操作([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.80]])。
+> 隐藏-暴露（concealment-exposure）框架源自 Nagel (1998) 对隐私和人性关系的[[Philosophical Analysis in Education\|哲学分析]]，[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将其提升为[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心分析工具：在个人层面，揭示与隐藏之间的边界及其控制是**我们人性最重要的属性之一**；在国家层面，隐藏（有意识地使某些知识不可获取）和暴露（在便利时刻披露特定知识以削弱对手）的组合运用构成 GPK 的核心[[Geopolitics|地缘政治]]操作([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.80]])。
 
 > [!quote]
 > "What we reveal and what we don't reveal boundary, and some control over that boundary, is among the most important attributes of our humanity."（Nagel, 1998, p.4; cited in Partaken, 2022, p.80）

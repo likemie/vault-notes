@@ -6,7 +6,7 @@ aliases:
 summary: "以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,8 +16,10 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[New Geopolitics]]"
+  - "[[International Branch Campus]]"
   - "[[Infrastructures of Immobility]]"
   - "[[Discourse]]"
   - "[[Champ]]"
@@ -25,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 # Space Production
 
@@ -47,7 +48,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 这一概念将列斐伏尔（H. Lefebvre）的空间生产理论、哈维（D. Harvey）对资本空间化的分析和马西（D. Massey）对空间关系性的阐释整合应用于高等教育研究。
-> - **用途** 它为分析高等教育如何在地缘政治中发挥作用提供了三维分析透镜：物质维度（制度装置与资源配置如何塑造教育空间）、表征维度（排名和知识规则如何自然化空间等级）、关系维度（多重行动者的博弈如何重塑空间秩序）。
+> - **用途** 它为分析高等教育如何在[[Geopolitics|地缘政治]]中发挥作用提供了三维分析透镜：物质维度（制度装置与资源配置如何塑造教育空间）、表征维度（排名和知识规则如何自然化空间等级）、关系维度（多重行动者的博弈如何重塑空间秩序）。
 > - **边界** 这一分析框架尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待进一步研究验证。三个维度是分析透镜而非独立的因果机制，实践中三者彼此嵌套不可分割。
 
 > [!citation-card]- 关键表述
@@ -59,9 +60,9 @@ updated: 2026-10-15
 
 > [!dimension] 高等教育空间生产的三元维度
 > - **空间物质性（Spatial Materiality）**
->   参照索亚（E. Soja）对"第一空间"的界定，空间展现为可感知的、经验性的物质形式——特定的地理布局与空间构型。这种物质性并非预设的中性物理容器，而是权力通过制度安排、资源配置与基础设施建设持续干预的结果。高等教育领域的体现包括：校园空间的安全治理与功能分区、海外分校与合作实体的布局、科研资源的层级配置、"卓越大学"工程、以及签证、奖学金与跨境合作办学构成的[[Infrastructures of Immobility\|流动基础设施]]。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
+>   参照索亚（E. Soja）对"第一空间"的界定，空间展现为可感知的、经验性的物质形式——特定的地理布局与空间构型。这种物质性并非预设的中性物理容器，而是权力通过制度安排、资源配置与基础设施建设持续干预的结果。高等教育领域的体现包括：校园空间的安全治理与功能分区、[[International Branch Campus|海外分校]]与合作实体的布局、科研资源的层级配置、"卓越大学"工程、以及签证、奖学金与跨境合作办学构成的[[Infrastructures of Immobility\|流动基础设施]]。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **空间表征性（Spatial Representation）**
->   空间不仅是可见的实体，更是通过[[Discourse|话语]]、分类与评价体系被不断命名、比较与等级化的象征秩序。空间表征并非中性的认知过程，而是一种嵌入支配与治理逻辑的概念化实践。通过排名（QS, THE, [[Academic Ranking of World Universities\|ARWU]]等）、指标、语言体系与学术分类，特定的大学、城市与国家被持续定位于"中心"或"边缘"，将物理空间转化为具有不平等差异的地缘政治—经济资产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 13)]]
+>   空间不仅是可见的实体，更是通过[[Discourse|话语]]、分类与评价体系被不断命名、比较与等级化的象征秩序。空间表征并非中性的认知过程，而是一种嵌入支配与治理逻辑的概念化实践。通过排名（QS, THE, [[Academic Ranking of World Universities\|ARWU]]等）、指标、语言体系与学术分类，特定的大学、城市与国家被持续定位于"中心"或"边缘"，将物理空间转化为具有不平等差异的[[Geopolitics|地缘政治]]—经济资产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 13)]]
 > - **空间关系性（Spatial Relationality）**
 > 空间并非静态结构，而是多重社会关系在特定历史情境中的动态配置。地缘政治不再被视为外在于教育系统的宏观背景，而是由国家、高校、区域组织与中介机构等多重行动者在招生、科研、边境管理与跨境合作网络中的协商、博弈与再嵌入共同生成的产物。高等教育本身已成为空间关系重组的重要[[Champ\|场域]]。
 
@@ -87,5 +88,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 首次在中文文献中系统提出以空间生产三元维度整合[[Geopolitics of Higher Education\|高等教育地缘政治]]研究的[[Analytic Framework\|分析框架]]，区分物质性、表征性和关系性三个维度。

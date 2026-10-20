@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Liberalization]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Exchange]]"
+  - "[[Geopolitics]]"
 related_theories: []
 related_methods:
   - "[[Archival Correspondence Analysis]]"
@@ -51,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-08-20
+updated: 2026-10-20
 year: 2024
 doi: ""
 citation_aliases:
@@ -295,7 +296,7 @@ citation_aliases:
 > 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话(p.107)。
 > 4. Kalashnikov 写给 Dewey 的信同时包含了崇敬和异议——"您的著作极大地影响了俄国教育学"与"我不同意您的哲学-社会主义教育理论观念"并存。这种张力预示了 1930 年代苏联对 Dewey 的全面拒绝。(p.104;Mchitarjan 2000; Gorshkova 2015,引自 pp.103–104)
 > 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪(pp.107–108)。
-> 6. 美国国务院在公开层面承认此行为"非政治性质"，但在操作层面指示驻外外交官系统监控代表团的言行——揭示了教育交流在地缘政治对立时期无法真正脱离政治监视(pp.108–109)。
+> 6. 美国国务院在公开层面承认此行为"非政治性质"，但在操作层面指示驻外外交官系统监控代表团的言行——揭示了教育交流在[[Geopolitics|地缘政治]]对立时期无法真正脱离政治监视(pp.108–109)。
 > 7. 美国观察者（包括 Dewey、Coffman 和 [[Sherwood Eddy]]）倾向于将"苏联在教育"等同于"苏联在走向共和制"——这是一种将美国政治经验投射到苏联社会之上的乐观主义判断(p.109)。
 
 ## 关键引用

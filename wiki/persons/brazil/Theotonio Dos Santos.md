@@ -24,7 +24,7 @@ tags:
 related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[South-South Cooperation]]"
   - "[[Technology Transfer]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Theotonio Dos Santos
@@ -102,7 +102,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 依附不是发展过程中的暂态特征，而是一种决定性的结构性状态：某一国家的经济发展受到另一国经济发展与扩张的支配；在世界资本主义体系不平等分工下，中心国家凭借技术垄断与金融资本抽取外围国家的剩余价值，致使外围国家缺乏实现内生自主资本积累的物质基础，其国家机器必然在外部跨国[[Disciplina and Doctrina|规训]]与内部既得阶级利益的撕扯中沦为无力保障大众平等权利的受限实体。
+> 依附不是发展过程中的暂态特征，而是一种决定性的结构性状态：某一国家的经济发展受到另一国经济发展与扩张的支配；在世界资本主义体系不平等分工下，中心国家凭借技术垄断与金融资本抽取外围国家的剩余价值，致使外围国家缺乏实现内生自主资本积累的物质基础，其国家机器必然在外部跨国规训与内部既得阶级利益的撕扯中沦为无力保障大众平等权利的受限实体。
 
 > [!citation-card] 依附状态的经典政治经济学定义
 > 依附是指一些国家的经济受到另一国经济扩张和发展的限制而产生的一种情境。两个或多个国家的经济之间以及这些国家与世界贸易系统之间的相互依附关系，如果某些国家（主导国）能够通过扩张自我发展，而其他国家（依附国）只能作为这种扩张的反映而得到发展，那么这种关系就呈现为依附关系。
@@ -115,7 +115,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与[[World-Systems Theory|世界体系分析]]的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与托雷斯对外围资本主义国家教育政策的政治社会学建模。
-> - **政策路径** 深刻影响了战后拉美非结盟运动、南南合作倡议以及联合国拉美经委会（CEPAL）关于产业自主权与[[Technology Transfer|技术转移]]监管的政策抗辩。
+> - **政策路径** 深刻影响了战后拉美非结盟运动、[[South-South Cooperation|南南合作]]倡议以及联合国拉美经委会（CEPAL）关于产业自主权与[[Technology Transfer|技术转移]]监管的政策抗辩。
 > - **跨国／跨领域传播** 思想广泛跨越经济学、政治学与教育学界，成为全球[[Critical Pedagogy|批判教育学]]解构跨国金融机构援助神话的核心[[Epistemology|认识论]]武器。
 
 ---

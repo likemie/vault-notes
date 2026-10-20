@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -30,11 +30,11 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Falsification]]"
   - "[[Cognitive Shifting]]"
-  - "[[Determinism]]"
-  - "[[Interpretive Paradigm]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
   - "[[Nominalism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Determinism]]"
   - "[[Voluntarism]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
@@ -43,15 +43,13 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Preregistration]]"
-  - "[[Scientific Method]]"
-  - "[[Critique of Meta-analysis]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Effect Size]]"
   - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
   - "[[Statistical Significance]]"
+  - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
@@ -125,7 +123,7 @@ updated: 2026-10-20
 > - **科学史与方法学的三大经典体现**
 >   - *天文学革命*：托勒密地心说以本轮均轮解释视运动，哥白尼日心说以系统简洁性立论，争夺的是理论评价尺度本身。
 >   - *物理学革命*：牛顿力学建立在绝对时空观上，爱因斯坦相对论将时空重构为动态四维连续统，概念本体发生质的断裂。
->   - *教育方法学论辩*：量化实证以效应量与统计显著性评估干预，质性诠释以深描与主体间性理解情境，内生尺度无法直接跨范式度量（Gage, 1989）。
+>   - *教育方法学论辩*：量化实证以[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]评估干预，质性诠释以深描与主体间性理解情境，内生尺度无法直接跨范式度量（Gage, 1989）。
 
 ---
 
@@ -243,7 +241,7 @@ updated: 2026-10-20
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证论文 | 历时性方法学[[Content Analysis\|内容分析]]与编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]论文亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 项影响因素 | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计 | 跨设计效应量混杂比例 | 27% 混淆组间实验与[[Correlational Research\|相关研究]]，10% 混入组间、组内与相关全部三类设计 | 全量核验样本 ($N=301$) | 证实宏观二阶综合中存在广泛无视统计总体参数不可通约性的违规合并现象 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 项影响因素 | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计 | 跨设计效应量混杂比例 | 27% 混淆组间实验与[[Correlational Research\|相关性研究]]，10% 混入组间、组内与相关全部三类设计 | 全量核验样本 ($N=301$) | 证实宏观二阶综合中存在广泛无视统计总体参数不可通约性的违规合并现象 |
 
 ---
 

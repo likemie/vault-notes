@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Performance Pay]]"
   - "[[Policy Borrowing]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Axiology]]"
   - "[[Falling Standards Template]]"
   - "[[Chain of Evidence]]"
@@ -70,7 +71,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -104,7 +105,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Rashomon Effect\|罗生门效应]]**<br>[[Rashomon Effect]] | 源自黑泽明 1950 年电影，解释为何同一组客观实证数据发布后，不同动机的主体（国际组织、本土政客、新闻媒体）会建构出互不兼容的多重主观真实，颠覆了客观中立的循证决策神话。（pp. 111–112） |
+> | **[[Rashomon Effect\|罗生门效应]]**<br>[[Rashomon Effect]] | 源自黑泽明 1950 年电影，解释为何同一组客观实证数据发布后，不同动机的主体（国际组织、本土政客、新闻媒体）会建构出互不兼容的多重主观真实，颠覆了客观中立的[[Evidence-Based Policy-Making\|循证决策]]神话。（pp. 111–112） |
 > | **[[Mediatised Governance\|媒介化治理]]**<br>[[Mediatised Governance]] | 整合 Esser & Strömback (2014) 的媒介化元进程理论，阐明教育政策制定与传播被迫服从大众媒体的规则、目标与生产约束，使媒体成为界定政策问题边框的关键政治制度。（pp. 112–113, 125–126） |
 > | **[[Media Logic\|媒介逻辑]]与框架理论**<br>[[Media Logic]] | 基于 Altheide and Snow (1979) 与 Entman (1993) 的理论，结合新闻[[Axiology\|价值论]]（Galtung & Ruge, 1965），解释媒体为何系统性偏好归责、冲突、经济后果与耸动标题，从而惯常套用[[Falling Standards Template\|水平下降模板]]（Warmington & Murphy, 2004）。（pp. 112–113, 124） |
 > | **媒介资本（整合入 [[Media Logic\|媒介逻辑]]）** | 依托 Davis and Seymour (2010) 的概念，区分制度性媒介资本（内阁大臣职权）与个性化媒介资本（前记者的言辞魅力与人脉），解释政治人物如何精准利用媒体规律引导公众议程。（pp. 113, 125） |

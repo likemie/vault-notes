@@ -8,7 +8,7 @@ summary: "加拿大著名学习科学家与教育心理学家，多伦多大学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,7 +41,6 @@ related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Symbiotic Framework of Adaptive Epistemic Stances]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Marlene Scardamalia
@@ -113,7 +112,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] — 在[[Knowledge Building Theory|知识建构]]社群教学法与 Knowledge Forum 环境中开展 7 个月实证追踪，阐明[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]如何有效落实学生的[[Epistemic Agency|认识能动性]]与深层概念建构。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 依托 Scardamalia 的[[Epistemic Agency\|认识能动性]]理论，论证生成式 AI 环境下人类学习者保留最高[[Metacognition\|元认知]]调控与多源核验裁决权的不可替代性。（pp. 358–360）
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 评述科学探究实践中认识能动性的[[Operationalization\|操作化]]测量与课堂协商机制。（pp. 222–224）

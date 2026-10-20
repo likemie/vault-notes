@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动探究闭环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -60,7 +60,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Survey Research]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Kim Schildkamp]]"
 related_facts:
@@ -74,7 +73,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Data Literacy
@@ -231,7 +230,7 @@ updated: 2026-10-16
 > > - **组织支架取向** 强调依托[[Data Team Intervention\|数据团队]]（Data Team）与[[Professional Learning Community\|专业学习共同体]]（PLC）提供集体探究支架。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 158, 167)]]
 >
 > > [!axis] 操作现成数据集的技术技能还是审视生产机制的基础设施素养
-> > 传统政策[[Discourse|话语]]将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法[[Disciplina and Doctrina\|规训]]，必须升级为能够审视并介入基础设施全链条的批判素养。
+> > 传统政策[[Discourse|话语]]将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法规训，必须升级为能够审视并介入基础设施全链条的批判素养。
 > >
 > > - **数据集操作取向** 关注对既有数据的[[Descriptive Analysis\|描述统计]]分析、图表判读与合规教学应用。
 > > - **基础设施质询取向** 关注对算法逻辑、[[Commensuration\|通约]]规则、数据所有权及系统选择性的批判反思与制度介入。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 10–11)]]
@@ -263,7 +262,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 阐述[[Data Team Intervention\|数据团队]]（Data Team）在培育教师数据素养上的实证效能，揭示数据素养知病因缺良方的结构性短板，提出数据素养与[[Research Literacy\|研究素养]]在 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]中的双轮协同。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation\|三角验证]]、克服终结性评估单一支配及与研究素养整合驱动学校探究中的核心机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 强调超越孤立识读数据集的传统数据素养，提倡面向数据去情境化、算法[[Commensuration\|通约]]与问责建模全链条的[[Data Infrastructure\|数据基础设施]]素养。

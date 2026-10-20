@@ -9,10 +9,10 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1746"
 died: "1827"
 lifespan: "1746–1827"
@@ -25,7 +25,6 @@ tags:
   - region/switzerland
   - theme/nineteenth-century
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Normal School]]"
   - "[[Faculty Psychology]]"
   - "[[Rote Learning]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Johann Heinrich Pestalozzi
@@ -66,7 +65,7 @@ updated: 2026-10-15
 约翰·海因里希·裴斯泰洛齐（Johann Heinrich Pestalozzi, 1746–1827）是瑞士近代著名民主主义教育家、平民学校与孤儿院改革家，被后世尊称为“现代小学教学法之父”：
 
 > [!person-profile] 人物档案
-> - **身份位置** 瑞士教育思想家、初等学校实验家、近代平民教育运动先驱；西方现代教育学由思辨与残酷[[Disciplina and Doctrina\|规训]]走向心理学化与人道主义的奠基者。
+> - **身份位置** 瑞士教育思想家、初等学校实验家、近代平民教育运动先驱；西方现代教育学由思辨与残酷规训走向心理学化与人道主义的奠基者。
 > - **核心角色** 在 19 世纪欧美公共教育转型与比较借用网络中，裴斯泰洛齐是连接启蒙人性向善哲学与基层学校教学革新的核心枢纽；其首创的直观教学法不仅被普鲁士采纳为国家公学与[[Normal School\|师范学院]]的标准典范，更成为法美比较先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）打破本土机械背诵与体罚传统的共同思想武器。
 > - **代表贡献**
 > 1. **教育心理学化原则** 首倡顺应儿童身心发展规律，创立以感官直观（*Anschauung*）为基础的实物教学与要素教学法（数、形、词）；

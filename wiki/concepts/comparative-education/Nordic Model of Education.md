@@ -7,7 +7,7 @@ aliases:
 summary: "北欧福利国家制度的核心支柱，以民主、团结、社会公平和人人平等为原则，致力于通过公共均等化基础教育促进社会整合"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[New Public Management]]"
 related_theories: []
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_persons: []
 related_facts:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nordic Model of Education
@@ -110,6 +109,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry\|全球教育产业]]重塑。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]揭示了北欧模式如何作为各国回应 [[PISA]] 的文化-制度转译框架：挪威案例展示了北欧模式与 PISA 公平框架的天然契合，以及挪威语中 accountability 缺失对测试问责的文化免疫力。

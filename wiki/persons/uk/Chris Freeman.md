@@ -9,7 +9,7 @@ summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,7 +43,6 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

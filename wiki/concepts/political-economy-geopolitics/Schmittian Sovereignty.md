@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,8 +28,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Competitiveness]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Schmittian Sovereignty
@@ -123,7 +122,7 @@ updated: 2026-10-15
 > 剖析威权政权如何在使用强力主权决断悬置法治边界的同时，协同使用柔性的[[Psychologisation\|心理化]]学说抚慰社会不满，形成刚柔并济的双重统治技术。
 
 > [!claim] Vickers, 2024
-> **[[Jiang Shigong\|强世功]]宪政决断论与微观情感[[Disciplina and Doctrina\|规训]]的共谋**
+> **[[Jiang Shigong\|强世功]]宪政决断论与微观情感规训的共谋**
 > - **主权决断为课程接管开辟法律真空** 北京的宪法学者（如强世功）利用施米特式的决断理论，为中央政府在2020年后迅速中止[[General Education\|通识教育]]科、清除独立专题探究（[[Institute of Education Sciences\|IES]]）、改以公社科取代的超速强推机制提供了法理依据（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 155]]）。
 > - **福柯式微观治理对主权威慑的补充** 施米特式的强力决断只能建立行为的服从，而不能建立内心的顺从。因此，官方在课外协同推行[[Youth Development Blueprint\|青年发展蓝图]]与[[My Pledge to Act\|我的行动承诺]]，利用[[Social-Emotional Learning\|社会情感学习]]（SEL）话语将青年的政治异化翻译为微观的“情绪失调”和“感恩缺失”。
 > - **复合统治的刚柔并济** 通过将强力主权决断（施米特）与微观心理化治理（福柯）无缝结合，政权既实现了对制度性反抗的致命打击，又通过心理学话语消解了抗争在话语层面的正当性。
@@ -173,5 +172,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 深刻解构了北京宪法学者引入施米特主权观对香港基本法“高度自治”叙事的解构过程。

@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪末由罗宾·亚历山大等学者系统开创的比较教育学微观研究进路，主张突破宏观政策与国家制度指标的抽象局限，深入中小学具体课堂话语互动与教学过程，揭示教学法深嵌于民族国家历史、文化土壤与认知传统中的社会建构本质。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,7 +37,6 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Organizational Culture]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
 related_instruments: []

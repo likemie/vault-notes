@@ -10,7 +10,7 @@ aliases:
 summary: "国际文凭大学预科项目的核心要素，通过创意表达、身体活动、社区服务与反思，使学科学习与真实责任发生联系。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"

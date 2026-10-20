@@ -7,7 +7,7 @@ aliases:
 summary: "Giddens (1976) 提出的社会科学认识论概念：研究者诠释的正是参与者已经诠释过的世界，再以自身语言转述给受众，质性数据分析由此是双重诠释过程"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Double Hermeneutic
@@ -103,5 +102,5 @@ updated: 2026-10-07
 - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.2)]] 用课堂会话说明参与者、[[Transcription in Qualitative Research|转录]]、分析、报告与读者构成的五层诠释，以及[[Reflexivity|反身性]]披露的限度。
 
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011, Ch. 28)]] — 在质性数据分析的论述中引入 Giddens（1976）的双重诠释，说明报告与诠释为何应力求捕捉不同参与者对情境的不同定义，并综合[[Emic and Etic\|主位与客位]]分析。

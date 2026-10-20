@@ -12,7 +12,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Migrant Children]]"
   - "[[School Choice]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Peidu]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Hukou System
@@ -88,7 +87,7 @@ updated: 2026-10-16
 > *Since implementation in 1950s, the hukou system has restricted rural-urban migration and secured a rural-urban segregation in job opportunities and welfare service (education included) for decades.*
 
 > [!citation-card] 随迁儿童教育排斥与打工子弟学校整顿
-> 在中国，双轨制的户口（户籍登记）体系使大约 2000 万农村随迁儿童面临被城市公立学校排斥的困境。为了应对这一危机，农民工群体自发建立并资助了非正规的打工子弟学校。尽管 2003 年以来的国家政策要求公立学校逐步吸纳流动学童，但地方政府仍频繁以安全、消防与人口调控为由，对这类学校实施行政关停甚至推土机式强拆。教育准入不仅是一项社会福利，更是国家对人口流动实施空间规范与人口学调节的[[Disciplina and Doctrina|规训]]工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
+> 在中国，双轨制的户口（户籍登记）体系使大约 2000 万农村随迁儿童面临被城市公立学校排斥的困境。为了应对这一危机，农民工群体自发建立并资助了非正规的打工子弟学校。尽管 2003 年以来的国家政策要求公立学校逐步吸纳流动学童，但地方政府仍频繁以安全、消防与人口调控为由，对这类学校实施行政关停甚至推土机式强拆。教育准入不仅是一项社会福利，更是国家对人口流动实施空间规范与人口学调节的规训工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 >
 > *The dual-track hukou (household registration) system [...] created an administrative and territorial divide that excluded approximately 20 million migrant children from urban public schools... Schools function not merely as sites of learning, but as spatial enclosures through which mobile populations are monitored and contained.*
 

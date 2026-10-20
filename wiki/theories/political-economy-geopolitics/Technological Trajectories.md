@@ -45,6 +45,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Agile Governance]]"
+  - "[[Geopolitics]]"
   - "[[Determinism]]"
   - "[[Seed Funding]]"
   - "[[Lead-and-Learn Paradigm]]"
@@ -63,7 +64,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Statistical Process Control]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -249,7 +249,7 @@ updated: 2026-10-20
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 制造业、物理与生命科学等具有清晰硬件载体、工艺流程与长期知识积累的实体产业部门。
 > - **成立条件** 需要技术变迁具有相对稳定的认知边界与物理定律约束；需要行业存在可辨识的技术经济[[Paradigm|范式]]。
-> - **解释不足** 对数字化时代平台经济、开源软件以及基于零边际成本的商业模式创新的适配性有所减弱；对地缘政治打压下非市场因素强行割裂技术轨道的冲击缺乏充分内生解释。
+> - **解释不足** 对数字化时代平台经济、开源软件以及基于零边际成本的商业模式创新的适配性有所减弱；对[[Geopolitics|地缘政治]]打压下非市场因素强行割裂技术轨道的冲击缺乏充分内生解释。
 > - **转化困难** 技术轨迹在早期萌芽阶段往往呈现高度不确定性与多分支分叉，事前精准预测某条轨迹能否胜出极为困难，对公共政策制定者的动态研判能力构成严峻挑战。
 
 ---

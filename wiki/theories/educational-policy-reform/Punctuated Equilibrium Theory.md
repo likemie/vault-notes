@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 47
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -54,7 +54,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons:

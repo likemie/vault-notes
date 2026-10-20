@@ -7,7 +7,7 @@ aliases:
 summary: "尤尔根·哈贝马斯（Jürgen Habermas）提出的批判社会学与政治经济学理论，指出在晚期资本主义国家中，当行政系统的控制与干预逻辑从属于私人商业资本的狭隘目标，而未能将经济与科技增长转化为满足大众普遍利益的公共产品与社会安全时，国家面临系统性的大众忠诚流失与治理合法性危机。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 33
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -41,7 +41,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"

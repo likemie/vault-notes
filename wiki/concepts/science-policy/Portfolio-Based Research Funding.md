@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:

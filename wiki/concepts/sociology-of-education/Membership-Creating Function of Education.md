@@ -5,7 +5,7 @@ aliases:
 summary: "现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - citizenship
 - boundaries
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Self-Directed Learning]]"
 related_theories:
   - "[[Nation Building through Education]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -73,7 +74,7 @@ updated: 2026-10-16
 ## 实证发现
 
 > [!success] 实证发现
-> - 历史案例——18 世纪欧洲民族国家：Ramirez and Boli (1987) 重构了新兴民族国家如何基于地缘政治动态（连同经济与宗教系统变革）建构大众教育。"在他们的视角中，民族国家是欧洲特定地缘政治动态的结果，加上经济与宗教系统的变革"([[Argument_Amos_2022_Springer\|Amos, 2022, p.55]])
+> - 历史案例——18 世纪欧洲民族国家：Ramirez and Boli (1987) 重构了新兴民族国家如何基于[[Geopolitics|地缘政治]]动态（连同经济与宗教系统变革）建构大众教育。"在他们的视角中，民族国家是欧洲特定地缘政治动态的结果，加上经济与宗教系统的变革"([[Argument_Amos_2022_Springer\|Amos, 2022, p.55]])
 >
 
 ## 争议与批评

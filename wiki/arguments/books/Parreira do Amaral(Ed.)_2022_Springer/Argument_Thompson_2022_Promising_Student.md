@@ -28,10 +28,10 @@ tags:
   - theme/competitiveness
   - theory/governmentality
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Theoretical Perspective]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
@@ -63,7 +63,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -75,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 在竞争性地缘政治框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
+> 在竞争性[[Geopolitics|地缘政治]]框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
 
 ## 理论框架
 
@@ -84,7 +84,7 @@ citation_aliases:
 
 - **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
 
-- **Deleuze [[Societies of Control|控制社会]]（societies of control）** 借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。现代大学随之转型为[[Stakeholder University|利益相关者大学]]（stakeholder university），通过多方主体的网络连接性转化为地缘政治机会节点(Wæraas & Solbakk, 2009; pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
+- **Deleuze [[Societies of Control|控制社会]]（societies of control）** 借鉴 Deleuze(1992)关于从规训社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。现代大学随之转型为[[Stakeholder University|利益相关者大学]]（stakeholder university），通过多方主体的网络连接性转化为[[Geopolitics|地缘政治]]机会节点(Wæraas & Solbakk, 2009; pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
 
 二者的结合提供了一种分析高等教育的竞争性治理技术的综合视角。
 
@@ -110,7 +110,7 @@ citation_aliases:
 
 ### 第二步：竞争性大学的地缘政治装置
 
-将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio(2018)对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
+将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio(2018)对[[Knowledge-Based Economy|知识经济]][[Geopolitics|地缘政治]]的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
 - 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用(p.220)
 - 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[German Excellence Initiative|德国卓越计划]]和英国 REF 就是通过指标和排名构建市场环境的典型技术(p.220)
@@ -154,7 +154,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 > [!success]
 
-- [[Competitiveness|竞争力]]作为地缘政治装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
+- [[Competitiveness|竞争力]]作为[[Geopolitics|地缘政治]]装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
 - [[Online Self-Assessment|OSA]] 的三种战略功能：发现天赋、降低成本和风险、完善大学形象/教育品牌(pp.223–224)
 - 数据化使大学获得通过"成功相关性"分析来管理不确定性的能力，OSA 使"问题学生"在入学前就被识别(p.224)

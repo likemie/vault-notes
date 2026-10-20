@@ -2,7 +2,7 @@
 summary: "回溯推测（Retrodiction，亦称历史溯因）是指在地质学、古生物学、天体物理学等历史科学（Historical Sciences）中，基于当下留存的痕迹与多重独立收敛证据链，反向推断与重构过去发生的不可重复事件的认识论推理策略。与经典物理和化学以受控实验向前“预测”（Prediction）未来状态不同，回溯推测强调在宏大时空尺度上对外推系统施加歧义性约束，是破除单一实验科学方法神话的关键概念。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Big Ideas]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Retrodiction
 
@@ -135,5 +134,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合板块构造写作案例分析回溯推测在地学教育中的[[Epistemology\|认识论]]层级与[[Chain of Evidence\|证据链]]构建。

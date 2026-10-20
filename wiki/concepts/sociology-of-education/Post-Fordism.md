@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责、数字化全景监视与市场竞争性治理。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,7 +20,6 @@ tags:
   - surveillance
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Cognitive Deskilling]]"
   - "[[Educational Privatisation]]"
   - "[[Performance Indicators]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Informationalization]]"
   - "[[Epistemology]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Panopticism]]"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Ideology Critique]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -70,7 +69,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与凯恩斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我[[Disciplina and Doctrina|规训]]与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与凯恩斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我规训与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球资本积累弹性化转型与国家公共教育供给模式重组之间的结构性对应关系。
@@ -143,7 +142,7 @@ updated: 2026-10-20
 
 ### 命题二　后福特制的技术控制逻辑以客观绩效指标掩盖隐蔽的阶级支配
 
-> [!concept-lens] 课程[[Disciplina and Doctrina|规训]]与技术官僚治理
+> [!concept-lens] 课程规训与技术官僚治理
 > 探讨后福特制如何将原本外在于学校的生产管理控制技术内化为教育评价与课程设计规范。
 
 > [!claim] Apple
@@ -180,7 +179,7 @@ updated: 2026-10-20
 > - **1980 年代 — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程编码中的技术控制逻辑。
 > - **1990 年代 — 教育市场化与比较研究** 布朗与劳德（Brown & Lauder, 1992, 1996）系统辨析福特制与后福特制教育路线分歧；鲍尔（Ball, 1993）指出教育市场化实质是后福特资本主义下维系优势阶层特权的新阶级策略。
 > - **2000 年代 — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
-> - **2014–2023 年 — 数字化职场监视与微观教学劳动[[Disciplina and Doctrina|规训]]** Rosenblat et al. (2014) 系统考察现代职场数字化监控；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 将后福特制信息收集与福柯[[Panopticism|全景敞视]]理论结合，揭露网络化测评系统（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与[[Effect Size|效应量]]仪表盘对教师日常教学劳动的车间级技术控制。
+> - **2014–2023 年 — 数字化职场监视与微观教学劳动规训** Rosenblat et al. (2014) 系统考察现代职场数字化监控；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 将后福特制信息收集与福柯[[Panopticism|全景敞视]]理论结合，揭露网络化测评系统（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与[[Effect Size|效应量]]仪表盘对教师日常教学劳动的车间级技术控制。
 
 ---
 
@@ -231,4 +230,4 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Dependency Theory|依附理论]]与批判政治经济学视角，系统分析后福特制生产方式转型对国家教育供给目标与课程技术控制的重构。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯[[Panopticism|全景敞视]]理论与职场监视文献，剖析后福特制数字化信息收集如何通过 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与可见学习气压计渗透至日常教学，解构其新泰勒制[[Disciplina and Doctrina|规训]]实质。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯[[Panopticism|全景敞视]]理论与职场监视文献，剖析后福特制数字化信息收集如何通过 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与可见学习气压计渗透至日常教学，解构其新泰勒制规训实质。

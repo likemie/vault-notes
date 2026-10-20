@@ -28,6 +28,7 @@ related_concepts:
   - "[[Months of Progress]]"
   - "[[Model Dependency]]"
   - "[[Abstract]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Statistical Analysis Plan]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
   - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Steve Higgins
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > [!timeline] 生平与职涯
 > - **2000s** 任教于杜伦大学教育学院，深耕教育技术、[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]方法，主导开发多项关于信息技术与课堂互动成效的二阶综合研究。
 > - **2011** 受[[Sutton Trust\|萨顿信托]]（[[Sutton Trust]]）委托，领衔杜伦大学研究团队编制指导学校有效使用“[[Pupil Premium\|学生津贴]]”（[[Pupil Premium]]）的[[Abstract\|研究摘要]]，成为后续国家级工具包的雏形。
-> - **2011–2016** 伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size\|效应量]]转化为通俗“进展月数”的循证决策转译[[Paradigm\|范式]]。
+> - **2011–2016** 伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size\|效应量]]转化为通俗“进展月数”的[[Evidence-Based Policy-Making|循证决策]]转译[[Paradigm\|范式]]。
 > - **2016** 在 *Review of Education* 发表专题长文，系统阐述[[Meta-meta-analysis\|元综合]]与跨元分析比较的方法论风险与决策价值，为工具包的整合逻辑构建了辩护框架（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）。
 > - **2016** 与齐·肖（ZhiMin Xiao）及阿迪特·卡西姆（Adetayo Kasim）利用[[National Pupil Database\|国家学生数据库]]微观数据，全量复算 17 项 EEF 试验，揭示[[Model Dependency\|模型依赖性]]现象，成果直接转化为《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的制度约束（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。
 > - **2017** 其领衔的工具包受到杜伦大学同僚[[Adrian Simpson\|阿德里安·辛普森]]（Adrian Simpson）在 *Journal of Education Policy* 上的尖锐技术批判，引发关于效应量灵敏度操纵与干预联盟表有效性的广泛方法论大讨论（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）。
@@ -112,7 +112,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> Higgins 坚持[[Evidence-Based Education\|循证教育]]必须兼顾科学严密性与实践可操作性。他主张面对海量[[Heterogeneity\|异质性]]研究，[[Meta-meta-analysis\|二阶元分析]]与跨干预综合是打破信息孤岛、辅助循证决策的最佳工具；通过“进展月数”将抽象统计[[Effect Size\|效应量]]转译为教师与校长的通用日常语言，能够有效降低决策门槛。同时，他高度警惕统计推断中的“[[Model Dependency\|模型依赖性]]”，主张通过透明公开微观数据、执行独立二次审计和前置确立[[Statistical Analysis Plan\|统计分析计划]]（SAP），以方法学制度化来防范分析偏倚。
+> Higgins 坚持[[Evidence-Based Education\|循证教育]]必须兼顾科学严密性与实践可操作性。他主张面对海量[[Heterogeneity\|异质性]]研究，[[Meta-meta-analysis\|二阶元分析]]与跨干预综合是打破信息孤岛、辅助[[Evidence-Based Policy-Making|循证决策]]的最佳工具；通过“进展月数”将抽象统计[[Effect Size\|效应量]]转译为教师与校长的通用日常语言，能够有效降低决策门槛。同时，他高度警惕统计推断中的“[[Model Dependency\|模型依赖性]]”，主张通过透明公开微观数据、执行独立二次审计和前置确立[[Statistical Analysis Plan\|统计分析计划]]（SAP），以方法学制度化来防范分析偏倚。
 
 > [!citation-card] 跨[[Meta-analysis\|元分析]]比较在教育决策中的最佳可用性（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）
 > 追溯元分析从 1904 年到现代元综合的发展脉络，跨元分析比较虽然面临“将苹果和橙子混为一谈”的根本困境与异质性风险，但在现实政策制定中，如果完全放弃比较，决策者将被迫依赖主观臆断或商业游说。因此，在明确提示证据质量与边界的前提下，系统二阶综合仍是当前回答教育干预相对效果的最佳可用工具。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–33)]]
@@ -133,7 +133,7 @@ updated: 2026-10-16
 > - **政策与转译路径** 领衔研制的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium\|学生津贴]]的财政资源配置取向。
 > - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency\|证据中介机构]]（[[What Works Network]]）广泛本土化引介，成为[[International Education\|国际教育]]循证综合的标准模板。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins 等对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。

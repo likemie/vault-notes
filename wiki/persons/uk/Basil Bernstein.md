@@ -56,9 +56,9 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Action Research]]"
   - "[[Analytic Framework]]"
+  - "[[Critical Discourse Analysis]]"
 related_persons:
   - "[[Michael W. Apple]]"
   - "[[Henry Giroux]]"
@@ -77,7 +77,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Basil Bernstein
@@ -172,7 +172,7 @@ updated: 2026-10-18
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识流失的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Ball_2008_SR\|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure\|横向知识结构]]和教育[[Discourse|话语]]为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm\|范式]]争鸣。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse\|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology\|认识论]]危机。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein（1974）批判微观[[Interpretive Paradigm\|诠释范式]]与[[Symbolic Interactionism\|符号互动论]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Ch. 2]] 借其批判[[Technical Rationality\|技术理性]]课程与[[Action Research\|行动研究]]的赋权限度。
@@ -226,7 +226,7 @@ updated: 2026-10-18
 > | [[Totally Pedagogised Society]] | 概念 | 前瞻性预见教学与评估关系向全社会弥散、个体终身被纳入符号控制的现代社会趋势。 |
 > | [[Social Realism]] | 概念 | 为后继学者超越[[Radical Constructivism\|激进建构主义]]与后现代相对主义、恢复学科核心知识合法地位提供坚实概念基石。 |
 > | [[Critical Theory]] | 理论 | 为批判理论与课程社会学批判意识形态再生产提供了深度的符号与制度结构[[Analytic Framework\|分析框架]]。 |
-> | [[Discourse Analysis]] | 方法 | 奠定批判性话语分析在课程政策与教科书研究中的分类、框架与编码分析操作规程。 |
-> | [[NZ Curriculum Refresh 2021-2026]] | 政策 | 其理论被作为诊断该国新课程改革中科学概念知识流失与[[Regulative and Instructional Discourse|规约性话语]]过度扩张的核心分析框架。 |
+> | [[Discourse Analysis]] | 方法 | 奠定[[Critical Discourse Analysis\|批判性话语分析]]在课程政策与教科书研究中的分类、框架与编码分析操作规程。 |
+> | [[NZ Curriculum Refresh 2021-2026]] | 政策 | 其理论被作为诊断该国新课程改革中科学概念知识流失与[[Regulative and Instructional Discourse\|规约性话语]]过度扩张的核心分析框架。 |
 
 

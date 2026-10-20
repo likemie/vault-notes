@@ -8,10 +8,10 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
 lifespan: 1945–至今
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Determinism]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Hierarchical Linear Model]]"
 related_instruments: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # William H. Schmidt
@@ -132,7 +133,7 @@ updated: 2026-10-17
 
 > [!person-network] 关系网络
 > - **政策倡导盟友** [[Achieve|阿奇夫]]（Achieve）总裁迈克尔·科恩（Michael Cohen）、教育信托总裁卡蒂·海科克（Kati Haycock）与北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.） — 共同在全美巡回推动通用学术标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
-> - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（ToM Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 > - **关键项目依托** [[TIMSS]] — 施密特学术权威与国际比较实证数据的底层依托。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "通过数据分析和预测工具在问题发生前对潜在学生进行预判、标记和干预的治理逻辑，用于把不确定性转化为可管理风险。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[Geopolitics]]"
   - "[[Competitiveness]]"
   - "[[Stakeholder University]]"
   - "[[Promising Student]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-09-23
+updated: 2026-10-20
 ---
 
 # Preemptive Governance
@@ -90,7 +91,7 @@ updated: 2026-09-23
 ## 在整个治理体系中的位置
 
 > [!success]
-> 先发制人治理并非孤立的治理技术，而是嵌入竞争性大学更广泛的地缘政治治理架构之中：
+> 先发制人治理并非孤立的治理技术，而是嵌入竞争性大学更广泛的[[Geopolitics|地缘政治]]治理架构之中：
 
 1. **宏观层**[[Competitiveness|高等教育竞争力]] 作为地缘政治装置——通过排名和指标化将大学重塑为竞争者([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])
 2. **中观层** 大学作为 [[Stakeholder University|利益相关者大学]] 转型为多行动者连接平台——需要管理学生成功的可预测性以维持排名和声誉([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])

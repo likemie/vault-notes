@@ -7,10 +7,10 @@ aliases:
 summary: "国际文凭组织提出的一组核心育人目标（如探究者、反思者），将组织的全球公民使命操作化为10项具体特质，旨在通过各学科与核心组件的协同培养具有国际情怀和跨学科思维的终身学习者。"
 type: concept
 domain: "curriculum"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/curriculum
   - theme/student-development
@@ -35,7 +35,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # IB Learner Profile
@@ -159,6 +158,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨了 IB Learner Profile 中的具体特质（如探究、反思）在实现核心组件（Core）连贯性和[[Concurrency of Learning\|并发学习]]过程中的核心黏合剂作用。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 证实了[[Theory of Knowledge\|知识论]]（TOK）课程能够极大地激活学生的“反思”与“胸襟开阔”特质，并揭示了教师在示范这些特质时，其自身的教学哲学也会发生深层转变。

@@ -9,7 +9,7 @@ aliases:
 summary: "二战后盛行于英美社会学与比较教育学的核心宏观理论范式，将社会视为由相互依存的子系统构成的有机均衡系统，强调教育承担着社会化、人才选拔与劳动力分流的客观功能，以价值共识、社会整合与适应性演进维系现代功绩制民主社会。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Cultural Capital]]"
   - "[[Hidden Curriculum]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -38,7 +37,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"
@@ -164,7 +162,7 @@ updated: 2026-10-20
 > > 宏观社会学关于社会基本结构驱动机制的百年大论战。
 > >
 > > - **[[Talcott Parsons|帕森斯]]与芝加哥功能学派** 坚信人类社会具有天然的自我平衡与整合本能，共同核心价值共识是维系社会存在的基石，教育是推动代际流动与功绩制公平的文明引擎。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
-> > - **冲突理论派（鲍尔斯与金蒂斯、[[Rolland Paulston|保尔斯顿]]）** 痛斥功能主义是资产阶级维持统治现状的辩护词，指出学校教育并非促进流动的中立工具，而是按照社会分工单向[[Disciplina and Doctrina|规训]]劳工阶层、再生产资本主义生产关系的暴力机器。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]
+> > - **冲突理论派（鲍尔斯与金蒂斯、[[Rolland Paulston|保尔斯顿]]）** 痛斥功能主义是资产阶级维持统治现状的辩护词，指出学校教育并非促进流动的中立工具，而是按照社会分工单向规训劳工阶层、再生产资本主义生产关系的暴力机器。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]
 >
 > > [!axis] 跨国比较法则：普遍恒常规律 vs 具体历史文化情境
 > > 战后比较教育学关于[[Paradigm|研究范式]]与[[Scientism|科学主义]][[Epistemology|认识论]]的激烈辩论。

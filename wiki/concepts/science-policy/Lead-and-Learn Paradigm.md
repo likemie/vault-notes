@@ -9,7 +9,7 @@ aliases:
 summary: "由雷纳·卡特尔与玛丽安娜·马祖卡托提出的新型公共创新治理范式，主张摒弃新公共管理运动所主导的“支持并测量”模式（寻找市场失灵、单点补贴、静态考核与外部咨询依赖），转向以国家展现宏观战略领导力（Lead）并依托敏捷实验、跨界共创与全周期反思实现系统性组织学习（Learn）为核心的治理范式。"
 type: concept
 domain: "science-policy"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Internet-Based Experiments]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"

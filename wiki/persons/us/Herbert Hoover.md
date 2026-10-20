@@ -9,7 +9,7 @@ summary: "美国第31任总统、采矿工程师与人道主义救济专家，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Five Whys]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

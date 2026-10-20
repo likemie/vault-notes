@@ -8,7 +8,7 @@ summary: "美国政治学家，加州大学伯克利分校讲席教授，美国�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,6 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
 related_methods:
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jacob S. Hacker]]"

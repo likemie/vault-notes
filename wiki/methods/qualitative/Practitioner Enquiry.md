@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Practitioner Enquiry
@@ -161,5 +160,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 跨国比较英、苏、德三国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，实证指出苏格兰依托 [[General Teaching Council for Scotland\|GTCS]] 实践者探究机制，赋能一线校长和教师批判性校准外部证据、抵制助教裁员等官方教条，展现了弥合专长断裂的有效路径。（pp. 14–16, 20–24）

@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Network Ethnography]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Co-affiliation
@@ -261,7 +260,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用机构共同从属分析（co-affiliation analysis），深度绘制澳大利亚国家级证据中介 [[Australian Education Research Organisation\|AERO]] 与 [[Social Ventures Australia\|SVA]]、跨国投行及英国 [[Education Endowment Foundation\|EEF]] 的多重董事兼职网络。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用开源网络可视化分析（Gephi）与监管文件追踪，系统映射澳大利亚[[Venture Philanthropy\|风险慈善]]中介组织（SVA、APS、[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、AERO）长达二十年的共同从属拓扑与四层控股嵌套结构。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 展现政策行动者在需求本位拨款与[[School Autonomy|学校自主]]化改革之间的网络博弈与身份重合。

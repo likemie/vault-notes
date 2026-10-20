@@ -40,10 +40,10 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Discourse]]"
   - "[[Commensuration]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
   - "[[Total War]]"
   - "[[Public-Private Partnership]]"
+  - "[[Test Production]]"
   - "[[Champ]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -83,7 +83,7 @@ sources:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Hartong_2018_GSE
 
@@ -95,7 +95,7 @@ updated: 2026-10-16
 > 在全球化与数字化交织推进的背景下，教育政策的[[Rescaling\|尺度重组]]（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing\|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation\|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure\|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation\|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
 
 > [!claim] 核心主张
-> 教育治理的跨尺度重组不仅依赖宏观政策[[Discourse|话语]]与行政命令，更依托于将微观教育现象转译为可[[Commensuration\|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina\|规训]]与政策重组。（pp. 143–146）
+> 教育治理的跨尺度重组不仅依赖宏观政策[[Discourse|话语]]与行政命令，更依托于将微观教育现象转译为可[[Commensuration\|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑规训与政策重组。（pp. 143–146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]）及其研发的跨州数据基础设施。
@@ -186,7 +186,7 @@ updated: 2026-10-16
 >   将分散数据汇总至中心节点，通过心理测量学模型消除情境干扰，生成可比常模。（Latour, 1987, p. 232）
 > - **规范知识再生产（Production of Governing Knowledge）**
 >   将运算结果提炼为达标率报告、素养等级标准与差距分析。（p. 137）
-> - **远程拓扑投影与[[Disciplina and Doctrina\|规训]]（[[Governing at a Distance]]）**
+> - **远程拓扑投影与规训（[[Governing at a Distance]]）**
 >   通过基准对标与在线任务平台将规范投射回一线学校，实现远距离治理（Rose, 1999）。（pp. 137–138）
 
 > [!warrant]- 理论推理桥梁
@@ -257,7 +257,7 @@ updated: 2026-10-16
 IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延伸触角。
 
 > [!actor-grid] 跨尺度数据流动中的关键中介机构
-> - **研发与计算中枢（IQB）** 统筹国家标准命题、VERA 试题研发、FDZ 数据集成及教师在线练习任务平台运营。（pp. 140–144）
+> - **研发与计算中枢（IQB）** 统筹国家标准命题、VERA [[Test Production|试题研发]]、FDZ 数据集成及教师在线练习任务平台运营。（pp. 140–144）
 > - **国际评估接口（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]）** 设于慕尼黑工业大学，负责对接 OECD 统筹德国 PISA 施测，将国际数据导入国家数据库。（pp. 141, 144）
 > - **宏观报告智库（[[Leibniz Institute for Educational Research and Educational Information\|DIPF]]）** 编撰国家与州级教育报告，维护全国教育监测信息门户（DIPF-Kompass）。（p. 145）
 > - **地方与州立服务商（State IT Providers）** 研发与运维各州学籍与学校管理软件（如莱法州的 SVP 系统），实现微观数据的自动化抽取与向上汇聚。（pp. 145–146）
@@ -283,7 +283,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 > [!finding-cards] 核心发现
 > 1. **[[Data Infrastructure\|数据基础设施]]作为政策重组的核心媒介** 绩效数据基础设施不仅是纯粹的技术工具，更是重组国家治理拓扑、将分散微观教学与宏观标准实时连接的核心制度媒介。（p. 134, p. 145）
 > 2. **[[Institute for Educational Quality Improvement\|IQB]] 确立国家[[Center of Calculation\|计算中心]]的元治理地位** 柏林 IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten\|VERA]] 命题及运营 FDZ 数据库，成为全德最具认知权威的计算中枢。（pp. 140–144）
-> 3. **拓扑穿透与去排名共识下的新型[[Disciplina and Doctrina\|规训]]** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与远距离治理的能力。（pp. 144–145）
+> 3. **拓扑穿透与去排名共识下的新型规训** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与远距离治理的能力。（pp. 144–145）
 > 4. **分权与集权在装配体中的复合共生** 德国教育政策并未简单走向中央集权或维持旧有分权，而是在物质技术、法律条款与专家网络的动态博弈中形成了新型复合[[Assemblage|政策装配]]体。（pp. 145–146）
 
 > [!stat-cards]- 核心数据

@@ -8,7 +8,7 @@ summary: "美国著名人类学家、无政府主义理论家，曾任教于耶�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Consumer Internet]]"
 related_methods:
   - "[[Fieldwork]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Peter Thiel]]"
   - "[[Nicholas Negroponte]]"

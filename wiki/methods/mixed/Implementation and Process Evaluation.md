@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 54
+method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#fef3c7"
@@ -71,7 +71,6 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
 related_persons: []
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Implementation and Process Evaluation
@@ -200,6 +199,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 回顾 [[Education Endowment Foundation\|EEF]] 在 [[Randomised Controlled Trials\|RCT]] 中规范实施与过程评估（IPE）的历程，从早期缺乏机制解释到发布 IPE 指南（2019），确立 [[TIDieR]] 等规范。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 在提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]的同时，倡导将实施与过程评估拓展应用于学校组织[[Research Utilization\|证据使用]]的[[Formative Assessment\|形成性评价]]，主张超越静态产出指标，系统追踪专业审议、探究心智与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]等深层动态机制（p. 145）。

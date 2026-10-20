@@ -8,10 +8,10 @@ summary: "加拿大统计学者与咨询顾问，渥太华大学数学与统计�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1975"
 died: ""
 lifespan: "c. 1975–至今"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Common Language Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -81,7 +80,7 @@ updated: 2026-10-20
 > 实证数据与海量样本规模本身并不天然等同于科学严谨性。若在[[Problem Finding|问题界定]]、对照基线设定、[[Effect Size|效应量]]公式选取及指标转换环节缺乏严密的数学公理与统计规范约束，以真实数据为原料的宏观证据合成同样会沦为伪科学。教育研究必须在研究方案设计、数据采集到分析建模的全周期强制引入独立专业统计咨询。（pp. 238–246）
 
 > [!critique-method] [[Meta-meta-analysis|二阶元分析]]的四大数理缺陷审计
-> - **初等概率计算崩溃** 普通语言效应量计算出现初等算术失误，汇报了不可能出现的负概率与超过 100% 的概率数值，违背了二项[[Common Language Effect Size|超越概率]]严格落于 $(0\%, 100\%)$ 的数学公理边界。（p. 239）
+> - **初等概率计算崩溃** [[Common Language Effect Size|普通语言效应量]]计算出现初等算术失误，汇报了不可能出现的负概率与超过 100% 的概率数值，违背了二项[[Common Language Effect Size|超越概率]]严格落于 $(0\%, 100\%)$ 的数学公理边界。（p. 239）
 > - **比较基线主观任意性** 效应量正负与量级完全取决于比对方向；基线反转使[[Class Size|班级规模]]从微弱正向（$d=+0.20$）逆转为显著有害（$d=-0.20$），使贫困差距从被忽视的既定背景转变为全书最严重的负面损害（$d=-0.59$）。（pp. 240–242）
 > - **公式选择决定排名颠倒** 受控数值模拟证实跨研究设计缺乏普适度量标尺，组间净差异、组内时间序列增长与相关系数转换三类技术有效公式对同一数据得出完全矛盾的排名，排行榜反映的是公式选择而非教学干预效能。（pp. 243–245）
 > - **相关换算发散与因果混淆** $r \to d$ 换算公式在强相关下急剧发散，且仅需 $r=0.196$（仅解释 3.85% 方差）即可虚构出达到[[Zone of Desired Effects|期望效应区]]（$d=0.40$）的假象；将智商与[[Creativity|创造力]]相关、预期与真实成绩自相关硬性包装为干预效应量，构成了严重的因果混淆。（pp. 242, 245）

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rote Learning
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > **高阶论证敏感性与程序记忆脱节** 认识论认知干预的核心机制在于打破学生将知识视作死记硬背标准答案的朴素信念，引导其建立以经验证据检验理论的严谨[[Justificatory Standards\|确证标准]]。这种深层认知机制决定了干预效果对结果指标的加工深度高度敏感：干预能大幅提升需要权衡证据的高阶论证表现与深层概念理解，但在考查机械记忆、公式套用与常规运算的程序性测验上，干预效应微弱且完全不具[[Statistical Significance\|统计显著性]]，证实认识论干预绝非提高机械做题速度的万灵药。
 
 > [!claim] [[Argument_Greene_2018_JEP\|Greene et al. (2018)]]
-> **[[Epistemological Beliefs\|认识论信念]]的层级关联递减法则** 大规模[[Meta-analysis\|元分析]]证实，认识论信念对[[Academic Achievement\|学业成就]]的预测效力随成绩指标所要求的认知加工深度呈阶梯式跃升：认识论信念与高阶概念性知识和论证能力存在稳健正相关，对陈述性记忆知识的关联显著减弱，而对机械套用算法的[[Procedural Knowledge\|程序性知识]]则完全脱节，从[[Correlational Research\|相关研究]]层面印证了机械记忆与认识论发展的分离性。
+> **[[Epistemological Beliefs\|认识论信念]]的层级关联递减法则** 大规模[[Meta-analysis\|元分析]]证实，认识论信念对[[Academic Achievement\|学业成就]]的预测效力随成绩指标所要求的认知加工深度呈阶梯式跃升：认识论信念与高阶概念性知识和论证能力存在稳健正相关，对陈述性记忆知识的关联显著减弱，而对机械套用算法的[[Procedural Knowledge\|程序性知识]]则完全脱节，从[[Correlational Research\|相关性研究]]层面印证了机械记忆与认识论发展的分离性。
 
 ---
 
@@ -253,7 +253,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 系统剖析西方观察者对东亚学习者重复记忆行为的四大认知谬误，结合拉赫玛尼诺夫练琴案例文献，阐述东亚文化中“以记忆为手段达到理解”的深层认知机制。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — [[Epistemology\|认识论]]干预[[Meta-analysis\|元分析]]证实，认识论教学主要促进论证与概念理解，对考查死记硬背的[[Procedural Knowledge\|程序性知识]]无效；常规考卷聚焦机械记忆是导致测量不敏感的根源。
 > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** — 大规模元分析确立[[Epistemological Beliefs\|认识论信念]]对概念与论证的显著预测力，实证证实其与底层程序性记忆的解耦。

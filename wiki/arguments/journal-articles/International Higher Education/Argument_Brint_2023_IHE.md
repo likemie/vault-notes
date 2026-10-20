@@ -25,6 +25,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Geopolitics]]"
   - "[[Competitiveness]]"
   - "[[Big Science]]"
 related_theories:
@@ -56,7 +57,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +97,7 @@ issuing_organization: ""
 > | **[[Use-Inspired Basic Research\|应用启发的基础研究]]** | 解释[[National Science Foundation\|美国国家科学基金会]]（National Science Foundation, NSF）设立新部门的定位：促使大学的基础科研更加贴近现实工业需求，加速科研成果转化。 |
 
 > [!warrant]- 理论如何支撑论证
-> 这些理论工具将具体的法案条文置于更广阔的政策背景中。现代产业政策理论解释了美国为何放弃过去几十年不直接补贴具体行业的做法；批判地缘政治视角揭示了国会两党能够克服党派分歧、达成千页法案的核心动力；而应用启发的基础研究与使命导向理论，则把宏观的国家战略与大学实验室日常从事的科研项目连接在一起，解释了高校如何承接这些国家任务。（pp. 9–10）
+> 这些理论工具将具体的法案条文置于更广阔的政策背景中。现代产业政策理论解释了美国为何放弃过去几十年不直接补贴具体行业的做法；批判[[Geopolitics|地缘政治视角]]揭示了国会两党能够克服党派分歧、达成千页法案的核心动力；而应用启发的基础研究与使命导向理论，则把宏观的国家战略与大学实验室日常从事的科研项目连接在一起，解释了高校如何承接这些国家任务。（pp. 9–10）
 
 ---
 
@@ -196,7 +197,7 @@ issuing_organization: ""
 
 > [!voice] 提案立法者对法案目标的明确表态
 > 该法案的主要共和党发起人、印第安纳州联邦参议员托德·扬（Todd Young）明确指出了立法意图：
-> > 该法案将“使美国处于在增长、创新与竞争中全面战胜我们主要地缘政治对手的位置”。（p. 10）
+> > 该法案将“使美国处于在增长、创新与竞争中全面战胜我们主要[[Geopolitics|地缘政治]]对手的位置”。（p. 10）
 
 ---
 
@@ -318,7 +319,7 @@ issuing_organization: ""
 >
 > *The new law represents a repudiation of the market-oriented neoliberal consensus that held sway in Washington for four decades. Since the late 1970s, American politicians have been willing to encourage S&T partnerships between industry, government, and academe, but they have, with rare exceptions, been averse to “picking winners” through designated funding streams for frontier technologies. With the signing of the “CHIPS and Science Act,” that now changes.*
 
-> [!citation-card] 遏制地缘政治对手的立法意图
+> [!citation-card] 遏制[[Geopolitics|地缘政治]]对手的立法意图
 > 即便如此，对抗中国的意图十分明确。该法案的主要共和党发起人、印第安纳州参议员托德·扬表示，该法案将“使美国处于在增长、创新与竞争中全面战胜我们主要地缘政治对手的位置”。（p. 10）
 >
 > *Even so, the intent to counter China is clear. The leading Republican sponsor of the bill, Senator Todd Young of Indiana, said the bill would “put America in a position to outgrow, out-innovate, and out-compete our leading geopolitical foe.”*

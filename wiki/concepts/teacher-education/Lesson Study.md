@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lesson Study
@@ -240,6 +239,6 @@ updated: 2026-10-16
 
 ## 包含此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 十年评估中课例研究大规模 [[Randomised Controlled Trials\|RCT]] 显现的零效应反思，剖析了教师主观满意度与客观学生学业产出脱节的深层机制。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在[[Self-Improving School System\|自我改进学校系统]]中将课例研究确立为[[Joint Practice Development\|联合实践发展]]（JPD）的典范机制，阐明其融通内部实践探究与外部[[Research Utilization\|研究使用]]、为 [[Professional Learning Community\|PLC]] 提供课堂操作系统的关键制度价值。

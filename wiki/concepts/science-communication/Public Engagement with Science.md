@@ -9,7 +9,7 @@ aliases:
 summary: "指科研人员、科学机构与多元公众之间开展的双向、参与式、对话驱动的互动过程，旨在增进相互理解、赋权公民参与并确立科学研究的社会合法性"
 type: concept
 domain: "science-communication"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Public Engagement with Science
@@ -169,5 +168,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 梳理 1985–2026 年英国科学传播与公众参与的演进，分析产业与第三部门的角色、颠覆性技术对话，以及科研人员参与的时间瓶颈与评价脱节。

@@ -9,7 +9,7 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 31
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#fef3c7"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Non-probability Sampling
 
@@ -122,5 +121,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理非[[Random Sampling\|概率抽样]]的七种类型，提供 Teddlie and Yu（2007）[[Purposeful Sampling\|目的性抽样]]类型学和 Heckathorn（1997, 2002）[[Snowball Sampling\|受访者驱动抽样]]的详细讨论。

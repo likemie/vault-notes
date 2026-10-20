@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 90
+argument_related_count: 91
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Informed Consent]]"
   - "[[FAIR Principles]]"
+  - "[[Geopolitics]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Pre-negotiated IP Rights]]"
 related_theories:
@@ -127,7 +128,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -275,7 +276,7 @@ citation_aliases:
 > - [[Argument_Hall_2025_EthicalLegalFrameworks]]（第十四章 Ethical Relationships, Legal Frameworks, and Agreements）— 从法律、伦理和文化三维度构建产学合作协议的类型学与谈判框架：梳理[[Sponsored Research Agreement\|赞助研究协议]]、临床试验协议、联盟协议等主要协议类型的核心条款结构；分析[[Academic Freedom\|学术自由]]与出版审查权、利益冲突、[[Informed Consent\|知情同意]]等伦理议题如何在协议中转化为具体条款；并以[[Bayh-Dole Act of 1980\|Bayh-Dole Act]]、[[Nelson Memo of 2022]] 等政策节点说明法规环境如何塑造协议谈判空间。
 > - [[Argument_Susalka_Carbone_2025_IP_Web]]（第十五章 Untangling the IP Web: Ownership, Rights, and Strategies in University–Industry Collaboration）— 从产学双方组织使命差异出发，分析知识产权（IP）利益冲突的结构性根源——大学追求知识扩散，企业追求市场独占；提出通过明确界定前景IP与背景IP、区分所有权与使用权、设计合理权利转让与许可条款来化解冲突的策略框架，并梳理[[University Industry Demonstration Partnership\|UIDP]] Contract Accords 在 IP 条款标准化中的作用。
 > - [[Argument_Brock_2025_DataAccessGenerationUse]]（第十六章 Data: Access, Generation, Use）— 聚焦产学合作中数据的定义、所有权与使用权的法律区分、隐私安全治理框架；核心主张是数据应作为独立议题在合作协议中明确定义——包括数据访问权、生成权、使用权和数据安全义务——而非泛化为知识产权条款的附属项；[[FAIR Principles\|FAIR 原则]]和 [[ICMJE Data Sharing Requirements 2018]] 等外部规范也构成产学数据治理的约束条件。
-> - [[Argument_Wolf_2025_InternationalResearchCollab]]（第十七章 International Research Collaborations Between Universities and Industry）— 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系；通过 Mars 公司与 UC Davis 四十年合作的三个案例——可可基因组学与生产力研究、食品创新实验室的启动与规模化、以及创新研究所的全球知识分享机制——还原跨国研究伙伴关系从启动、运作到规模化的完整论证链，论证[[Use-Inspired Basic Research\|应用启发的基础研究]]和[[Pre-negotiated IP Rights\|预先协商IP权利]]在降低跨境合作摩擦中的作用。
+> - [[Argument_Wolf_2025_InternationalResearchCollab]]（第十七章 International Research Collaborations Between Universities and Industry）— 以目标对齐、知识产权、[[Geopolitics|地缘政治]]和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系；通过 Mars 公司与 UC Davis 四十年合作的三个案例——可可基因组学与生产力研究、食品创新实验室的启动与规模化、以及创新研究所的全球知识分享机制——还原跨国研究伙伴关系从启动、运作到规模化的完整论证链，论证[[Use-Inspired Basic Research\|应用启发的基础研究]]和[[Pre-negotiated IP Rights\|预先协商IP权利]]在降低跨境合作摩擦中的作用。
 
 ---
 

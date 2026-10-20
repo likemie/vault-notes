@@ -8,7 +8,7 @@ summary: "阿尔弗雷德·伯恩哈德·诺贝尔（Alfred Bernhard Nobel, 1833
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[AI Deterrence]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"

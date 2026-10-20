@@ -5,7 +5,7 @@ aliases:
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 30
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
+  - "[[Developmentalism]]"
   - "[[Chinese Learner]]"
   - "[[Intercultural Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Ways of Knowing]]"
+  - "[[Geopolitics]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -67,7 +69,7 @@ updated: 2026-10-16
 > [!info] 定义
 > 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和[[Discourse|话语]]实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明教化的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）。
 >
-> > 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的理论框架中，东方主义是[[Post-colonial Theory|后殖民理论]]的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
+> > 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的理论框架中，东方主义是[[Post-colonial Theory|后殖民理论]]的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的[[Developmentalism|发展主义]]批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
 
 
 > [!info] 在[[Chinese Learner|中国学习者]]刻板印象中的应用
@@ -77,8 +79,8 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的 **[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
-> - vs 发展主义批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"[[Discourse|话语]]如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
+> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的 **[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识[[Geopolitics|地缘政治]] > 两条理论脉络
+> - vs [[Developmentalism|发展主义]]批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"[[Discourse|话语]]如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >
 
 ## 在高等教育中的运作
@@ -88,7 +90,7 @@ updated: 2026-10-16
 
 
 > [!info] 殖民时期：[[Knowledge Production|知识生产]]作为帝国工具
-> 殖民势力不仅以军事和经济手段统治殖民地，更通过**塑造殖民地的高等教育体系**来生产服从于帝国利益的知识和臣民。"这些高等教育机构在殖民者的地缘政治想象框架内运作"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。
+> 殖民势力不仅以军事和经济手段统治殖民地，更通过**塑造殖民地的高等教育体系**来生产服从于帝国利益的知识和臣民。"这些高等教育机构在殖民者的[[Geopolitics|地缘政治]]想象框架内运作"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。
 >
 > > 例：英国在印度建立的大学，其课程设置和教育方法不是为印度社会的发展需求而设计，而是为**帝国服务**——生产的是熟悉英国法律、语言和文化、忠于帝国利益的本地精英。这体现了东方主义的核心机制：通过知识生产将被殖民者塑造为帝国的"合作者"而非"反抗者"。
 

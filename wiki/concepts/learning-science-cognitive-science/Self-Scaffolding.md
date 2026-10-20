@@ -23,12 +23,12 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Graphic Organizer]]"
+  - "[[Blind Spot in Observation]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Self-Scaffolding
@@ -64,7 +64,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 自我[[Scaffolding\|脚手架]] vs 外部教学脚手架 vs 专家盲点
-> | 比较维度 | 自我脚手架（Self-Scaffolding） | 外部教学脚手架（External Scaffolding） | 专家盲点（Expert Blind Spot） |
+> | 比较维度 | 自我脚手架（Self-Scaffolding） | 外部教学脚手架（External Scaffolding） | 专家盲点（Expert [[Blind Spot in Observation\|Blind Spot]]） |
 > |---|---|---|---|
 > | **支架主体** | 学习者自身内在激活的[[Metacognition\|元认知]]与空间表征系统 | 教师、同伴或外显物理/数字工具（如[[Graphic Organizer\|图形组织器]]） | 专家因知识高度自动化而忽视初学者的认知困难 |
 > | **依赖程度** | 完全内化，即时按需调配，不依赖实体图示 | 依赖外在物理呈现与显式指令指引 | 无法感知外在支架的必要性 |
@@ -116,5 +116,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用自我[[Scaffolding\|脚手架]]理论量化解释高等教育阶段学生在外在可视化教学干预下[[Effect Size\|效应量]]低于中学生的发展机制。

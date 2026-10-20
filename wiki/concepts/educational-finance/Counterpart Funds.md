@@ -9,7 +9,7 @@ aliases:
 summary: "多边开发金融与教育援助中的核心制度机制；指多边银行主权贷款硬性要求借款国财政部从国内税收预算中按特定比例自筹并锁定的配套资金；在治理功能上呈现双重效应：一方面通过主权契约惰性冻结国内财政预算，抵御借款国政客更迭引发的政策朝令夕改与经费挪用；另一方面，在后发国家面临财政紧缩时，配套资金断供成为触发多边贷款停摆、导致项目周期严重拖延至原定两倍以上的头号执行瓶颈。"
 type: concept
 domain: "educational-finance"
-related_count: 14
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,14 +22,12 @@ tags:
 related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[International Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Conditionalities]]"
   - "[[Washington Consensus]]"
   - "[[Development Education]]"
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
@@ -56,7 +54,7 @@ updated: 2026-10-20
 > **对等配套资金（Counterpart Funds）** 是指在[[Multilateral Development Bank|多边开发银行]]（如[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]）发放的主权开发贷款中，硬性要求借款国政府必须依照法权契约从本国国库预算中按确定比例（通常为 1:1，并根据借款国人均收入梯次浮动）自行筹集并同步锁定的财政资金。该机制旨在确保受援国对发展项目的财政承诺与责任分担。在[[International Education|国际教育]]治理与主权信贷运作中，对等配套资金呈现出显著的双重制度效应：在立项与政策维护阶段，它依托主权国际条约的刚性，将借款国相应规模的公共教育预算予以法定冻结，构筑起抵御借款国政界走马灯式更迭、防止新任部长随意砍掉前任规划的“契约保护网”；而在基层执行阶段，后发国家脆弱的财政能力常导致国内资金断供，进而触发多边银行的自动化冻结条款，使其异化为导致贷款放款严重滞后、执行周期拉长至 10 到 15 年的头号体制瓶颈。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 458, 468, 470)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向一种将外部超国家信贷流动性与主权国家内部法定财政预算深度绑定的资本[[Disciplina and Doctrina|规训]]与锁定机制。
+> - **含义** 指向一种将外部超国家信贷流动性与主权国家内部法定财政预算深度绑定的资本规训与锁定机制。
 > - **用途** 帮助比较教育学与公共财政学者透视国际教育援助从“蓝图规划”到“基层落地”的断裂，揭示主权借贷契约为何既能保障改革路径的延续性，又可能在执行端反噬受援国行政机能。
 > - **边界** 严格区别于商业信贷中的企业跟投资本或双边受援国的形式化实物匹配（In-kind Contribution）；对等配套资金是具有法权约束力、专款专用的货币性国库预算锁定。
 

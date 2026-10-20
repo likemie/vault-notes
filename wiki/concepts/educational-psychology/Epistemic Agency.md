@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 72
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -79,7 +79,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -320,7 +319,7 @@ updated: 2026-10-20
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 22 名五年级学生，7 个月（2015–2016）人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、[[Discourse Analysis\|话语分析]]、[[Network Analysis\|社会网络分析]]与典型[[Case Study\|案例研究]] | 意向领域演进数；16 篇我们知识之最（Best of Our Knowledge, BOOK）反思笔记的科学理解层级与复杂度；眼睛探究组历时线索 | 初始共建 8 个意向领域并动态扩展为 12 个；反思笔记中 23 个为解释寻求型问题（占比 76.7%），15 个为跨领域系统问题；13 篇达完全科学水平（81.25%），7 篇达详细因果解释（43.75%）；社会网络分析显示全班形成高密度知识互联 | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实学生通过[[Reflective Structuration\|反思性结构化]]重塑探究方向与弹性小组，能有效实现高水平因果机制解释与分布式社会联结 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–24)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Man-Computer Symbiosis\|人机协同]]中的认识能动性行使与提示词迭代修正 | 学生未将 AI 视作真理代理，而是主动通过 4 轮提示词重构、对照教科书核验与图像细节纠错行使认知控制权 | 质性微观互动分析 | 证实基础教育阶段学生在双轨显性[[Epistemic Scaffolding\|认识论支架]]下能完全保持核心认识主体性 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–24)]] | 韩国 8 名初中生（4 对配对），两节科学[[Man-Computer Symbiosis\|人机协同]]解释课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Man-Computer Symbiosis\|人机协同]]中的认识能动性行使与提示词迭代修正 | 学生未将 AI 视作真理代理，而是主动通过 4 轮提示词重构、对照教科书核验与图像细节纠错行使认知控制权 | 质性微观互动分析 | 证实基础教育阶段学生在双轨显性[[Epistemic Scaffolding\|认识论支架]]下能完全保持核心认识主体性 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] | [[Man-Computer Symbiosis\|人机共生]]学习环境（涵盖初等、中等与高等教育探究任务） | 理论建构与多案例对比分析 | [[Epistemic Stances\|认识立场]]分类（绝对/相对/评价主义）与人机交互质量 | 评价主义立场学习者展现高水平证据审问与主动验证，而绝对主义者产生[[Cognitive Offloading\|认知卸载]]与盲从；双轨支架干预显著促进立场转化与认识主体性维持 | 理论推论与案例验证支撑 | 确立人机共生中认识立场调节共享认识能动性的[[Theoretical Validity\|理论有效性]] |
 > | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025, pp. 222–224)]] | 8 个公立初中科学班级（涵盖多元族裔与学业弱势群体） | 课堂自然观察、论辩言语系统[[Transcription in Qualitative Research\|转录]]与质性因果编码 | 口头辩论中的[[Epistemology\|认识论]]规范建构表现 | 学生在教师促学引导下展现高度认识能动性，自主协同提炼出野外生态观察的 5 大专业[[Reliability\|可靠性]]规范，突破了形式主义句法套话 | 具有高度语境[[Ecological Validity\|生态效度]] | 证实赋予认识能动权能显著激活弱势学生的实质因果推理与深层认识反思 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级物理实验探索 | 受控实验（自主设计权衡 vs. 教师[[Direct Instruction\|直接讲授]]方案） | 因果机制理解与跨情境远迁移测验 | 享有认识能动权（自主设计与权衡实验变量）的学生在因果机制解释与远迁移得分上显著优于直接讲授组 | 组间差异显著（$p < .05$） | 证实学生行使认识能动性对概念深度重组具有显著的促进效能 |
@@ -330,7 +329,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]** — 提出[[Reflective Structuration|反思性结构化]]理论，通过长周期[[Interactional Ethnography|互动民族志]]揭示小学生如何通过共同构建意向领域与弹性组织构型行使实质性的认识能动性。
 > - **[[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]** — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]协同建构[[Scientific Explanation\|科学解释]]时如何行使认识能动性，揭示显性学科标准、反思提示语与课堂规范如何赋能学生对 AI 文本与多模态生成物进行自主检验与迭代修正。
 > - **[[Argument_Wu_2025_ER\|Wu et al. (2025)]]** — 提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论，论证人机共享认识能动性机制，系统剖析认识立场对主体性行使的[[Interaction Effect\|调节效应]]，并阐明双轨支架干预如何赋能学习者维系认知控制权。

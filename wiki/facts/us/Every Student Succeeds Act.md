@@ -233,7 +233,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 系统阐明 ESSA 从规制型向发展型政策进路的转型机理、重构多维综合评估体系的必要性，以及 2017 年国会种族分层数据博弈所折射的实证政治学本质。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 详述 ESSA 证据分级在推动全美循证改革落地与三条件框架中的制度基石作用。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 对大型城市学区开展 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金审计，揭示 ESSA 单项合格研究门槛导致的名义合规与全量证据实质有效性之间的结构性断层。

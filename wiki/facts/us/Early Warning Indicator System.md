@@ -10,7 +10,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
 related_theories: []
 related_methods:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Early Warning Indicator System
@@ -125,7 +124,7 @@ updated: 2026-10-15
 > > 州级行政部门过分迷信算法预测的自动化与科学性，误以为部署预测系统便等同于解决了辍学危机，却忽视了一线学校根本缺乏配套干预师资、心理支持网络与充裕预算的现实困境。
 
 > [!lessons] 经验教训与启示
-> - **[[Data Infrastructure\|数据基础设施]]素养不可或缺** 数据治理绝非单纯的算法部署；若不全面重构一线教育工作者对数据生成逻辑、算法偏误及其[[Epistemology\|认识论]]边界的理解（即提高数据基础设施素养），越是精密的预测模型越容易演变为[[Disciplina and Doctrina\|规训]]与推卸责任的行政利器。
+> - **[[Data Infrastructure\|数据基础设施]]素养不可或缺** 数据治理绝非单纯的算法部署；若不全面重构一线教育工作者对数据生成逻辑、算法偏误及其[[Epistemology\|认识论]]边界的理解（即提高数据基础设施素养），越是精密的预测模型越容易演变为规训与推卸责任的行政利器。
 > - **警惕从发展性评估向惩罚性分流的滑坡** 预警系统必须建立严格的伦理护栏，禁止将风险评分直接作为剥夺学生学习机会、关闭高阶升学通道的行政依据。
 
 ---

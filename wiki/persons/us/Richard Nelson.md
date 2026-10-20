@@ -9,7 +9,7 @@ summary: "美国著名演化经济学家、创新经济学哥伦比亚学派领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Chris Freeman]]"

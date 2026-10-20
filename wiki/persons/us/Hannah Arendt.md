@@ -7,7 +7,7 @@ summary: "德裔美籍著名政治哲学家、思想家，20世纪最具原创�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Banality of Evil]]"
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Thinking]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
@@ -33,7 +32,6 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
@@ -117,7 +115,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 现代社会的极端灾难往往并非由病态的狂热恶魔所驱使，而是源于普通人在高度专业化与层级化的[[Bureaucracy|科层制]]中丧失了独立思考与道德判断能力（无思状态）；面对群体从众与权威[[Disciplina and Doctrina|规训]]，唯有在公共空间中坚守由复多性滋养的[[Critical Thinking|批判性思维]]与扩大化判断力，培育敢于拒绝盲从的制度性抗体，才能阻止现代人沦为平庸作恶的体制齿轮。
+> 现代社会的极端灾难往往并非由病态的狂热恶魔所驱使，而是源于普通人在高度专业化与层级化的[[Bureaucracy|科层制]]中丧失了独立思考与道德判断能力（无思状态）；面对群体从众与权威规训，唯有在公共空间中坚守由复多性滋养的[[Critical Thinking|批判性思维]]与扩大化判断力，培育敢于拒绝盲从的制度性抗体，才能阻止现代人沦为平庸作恶的体制齿轮。
 
 > [!citation-card] 官僚科层体制下的无思状态与道德脱敏
 > 在政治和行政组织中，最令人恐惧的事实恰恰在于：制造浩劫的往往不是嗜血的狂徒，而是那些除了‘遵守规则’、‘服从上级’之外毫无恶意且不再思考的平庸官员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
@@ -180,7 +178,7 @@ updated: 2026-10-20
 > > - **David Cesarani（2004）** 基于阿根廷录音档案等新发掘历史文献，主张艾希曼在私下表现出极其狂热且深思熟虑的纳粹意识形态信仰，阿伦特低估了其主观恶意，但平庸之恶作为现代组织理论范畴依然具有超越个案的普遍分析价值。
 
 > [!warning] 未解问题与边界
-> 平庸之恶概念旨在揭示[[Bureaucracy|科层制]]与[[Disciplina and Doctrina|规训]]体制中思考能力被系统性剥夺的普遍心理危机，但绝不构成对具体行动者道德与法律罪责的赦免；在组织应用中，必须严格区分“对体制盲从的批判”与“借结构之名推卸个人责任的合规借口”。
+> 平庸之恶概念旨在揭示[[Bureaucracy|科层制]]与规训体制中思考能力被系统性剥夺的普遍心理危机，但绝不构成对具体行动者道德与法律罪责的赦免；在组织应用中，必须严格区分“对体制盲从的批判”与“借结构之名推卸个人责任的合规借口”。
 
 ---
 

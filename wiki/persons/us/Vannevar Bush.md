@@ -7,14 +7,14 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 69
+person_related_count: 68
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-19
+updated: 2026-10-20
 tags:
   - person/engineer
   - person/policy-architect
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Big Idea Famine]]"
   - "[[Total Factor Productivity]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Research Universities]]"
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
@@ -167,7 +166,7 @@ created: 2026-10-02
 ## 核心思想
 
 > [!claim] 核心主张
-> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校[[Curiosity-Driven Research|纯基础研究]]，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校纯基础研究，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >
 > [[Argument_Fan_2026_BCAS|樊春良 (2026)]]将[[Science, The Endless Frontier 1945|布什报告]]提炼为支撑战后美国科研体制运行的三大制度性承诺：
 > 1. **国家对基础研究长期战略价值的默认信任（Default Trust in Long-Term Strategic Value）**；
@@ -226,7 +225,7 @@ created: 2026-10-02
 > > [[Science, The Endless Frontier 1945|布什报告]]所奠定的基础研究至上主义是否扭曲了真实的技术演进规律？
 > >
 > > - **科学技术史与政策学者批评** 纳拉亚纳穆尔提等人指出，布什将科学与技术人为割裂为两条平行轨道，忽视了瓦特蒸汽机启发热力学、半导体异质结构发明催生量子物理发现等工程先于理论的历史事实；这种划分强化了轻视工艺制作的文化偏见，导致美国在长周期关键战略硬件制造与先进制造工艺上面临政府不愿投、市场投不起的系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
-> > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“[[Curiosity-Driven Research|纯基础研究]]免受实用干扰”假定，在当时具有紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
+> > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
 > > - **地缘技术动员辩护** 卡普与扎米斯卡强调，布什真正的历史遗产不在于后人僵化的线性理论教条，而在于其在战时与冷战初期成功构建了国家安全使命与顶尖科研探索高度互信的组织动员能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7)]]
 >
 > > [!axis] 布什所播之种 vs. 大学能动改造：当代学术危机的历史归因

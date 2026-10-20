@@ -10,7 +10,7 @@ aliases:
 summary: "教育实验研究与循证政策评估中对照组接受的常规教学与既有实践状态，作为检验干预净效应的反事实基准；在真实学校生态中常由经验丰富的教师实施熟练的传统直接讲授，具备动态高基线特征而非被动安慰剂"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
   - "[[Random Assignment]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Business as Usual
@@ -308,7 +307,7 @@ updated: 2026-10-16
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐发常态教学高水准基线假说，论证证明干预无法超越常态教学对保护公共财政与防止商业营销绑架的重要治理价值。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 深入剖析教育实验中未界定的常态教学黑箱对[[Counterfactual\|反事实]][[Causality\|因果推断]]可解释性与[[External Validity\|外部效度]]的严重损害。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统辩护真实学校宏观课程实验的对照效度，指出常态教学由资深教师熟练实施[[Direct Instruction\|直接讲授]]，超越或打平该基线具备极高[[Ecological Validity\|生态效度]]。

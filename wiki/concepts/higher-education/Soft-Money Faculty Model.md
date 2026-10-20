@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学将专任教师薪酬全部或部分转嫁给外部竞争性科研经费资助的聘任模式，大学免除基础薪酬兜底责任，导致学者深度依附项目资助并推高机构财务脆弱性"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paula Stephan]]"

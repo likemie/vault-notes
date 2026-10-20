@@ -9,9 +9,9 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 70
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 145
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - evidence-based-education
@@ -22,44 +22,118 @@ tags:
   - paradigm/positivist
   - region/global
 related_concepts:
-  - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Evidence-Informed Practice]]"
   - "[[Value-Based Education]]"
-  - "[[Didaktik]]"
-  - "[[Bildung]]"
+  - "[[Phronesis]]"
+  - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Praxis]]"
+  - "[[Clinical Trial]]"
+  - "[[Ontology]]"
+  - "[[External Validity]]"
   - "[[Side Effects]]"
-  - "[[Scientifically Based Research]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Scientifically Based Research]]"
+  - "[[Evidence Standards]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
+  - "[[Internal Validity]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Policy Window]]"
+  - "[[Discourse]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Metacognition]]"
+  - "[[Structured Teaching]]"
+  - "[[Creativity]]"
+  - "[[Knowledge Production]]"
+  - "[[Informed Consent]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Theory of Knowledge]]"
   - "[[Transfer Science]]"
-  - "[[Visible Learning]]"
-  - "[[Critique of Evidence-Based Education]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Metascience]]"
+  - "[[Effective Teaching]]"
+  - "[[Preregistration]]"
+  - "[[PICO Framework]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Deficit Framing]]"
+  - "[[Visible Learning]]"
+  - "[[Didaktik]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Positivism]]"
+  - "[[Replication in Education Research]]"
+  - "[[Allgemeine Pädagogik]]"
+  - "[[Business as Usual]]"
+  - "[[Data Infrastructure]]"
+  - "[[Publication Bias]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Teaching Assistant]]"
+  - "[[Class Size]]"
+  - "[[Technology Infusion]]"
+  - "[[Critique of Evidence-Based Education]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Bildung]]"
+  - "[[Technical Rationality]]"
 related_theories:
+  - "[[Stability vs. Variability Dilemma]]"
   - "[[Critical Realism]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Realist Evaluation]]"
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
-  - "[[Random Assignment]]"
   - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
+  - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
-related_persons: []
+  - "[[Experimental Research]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Statistical Significance]]"
+  - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
+  - "[[Single-Case Design]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Factorial Design]]"
+related_persons:
+  - "[[Robert Slavin]]"
+  - "[[Ewald Terhart]]"
+  - "[[John Hattie]]"
+  - "[[Gert Biesta]]"
+  - "[[Grover Whitehurst]]"
+  - "[[Nancy Cartwright]]"
+  - "[[Dylan Wiliam]]"
+  - "[[Christof Wecker]]"
 related_facts:
+  - "[[Research Schools Network]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Researching School Choices]]"
+  - "[[Teacher Choices]]"
   - "[[What Works Clearinghouse]]"
-  - "[[What Works Network]]"
-  - "[[Hargreaves 1996 TTA Lecture]]"
+  - "[[Vergleichsarbeiten]]"
+  - "[[OECD]]"
+  - "[[Teacher Training Agency]]"
+  - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[American Educational Research Association]]"
+  - "[[PISA]]"
+  - "[[EU]]"
+  - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[What Works Network]]"
   - "[[ResearchED]]"
+  - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Playing for Success]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Comprehensive School Reform Program]]"
-  - "[[No Child Left Behind Act 2001]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -70,6 +144,7 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Clearing House Unterricht]]"
   - "[[Forschungsmonitor Schule]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
@@ -166,7 +241,7 @@ updated: 2026-10-20
 > - **因果证据体系与实验分级门槛** 确立[[Randomised Controlled Trials|随机对照试验]]为因果证据黄金标准；要求干预方案本身经过独立实验检验，以此超越宽泛的科学原则修辞；通过分层拨款将证据等级与政策准入硬性绑定。
 > - **四重深层[[Epistemology|认识论假设]]与哲学解构** 隐含休谟因果恒常观、机械干预隐喻、线性科学应用假定以及单向知识供给假设，构成批判性教育哲学与实在论解构的核心靶标。
 > - **多维转译机制与中介基础设施** 涵盖线性、多流与混战三种政策交互轨迹，依赖研究资助升降螺旋驱动，并通过实践指南、[[Research Schools Network|研究学校网络]]与[[Educational Brokerage Agency|证据经纪人]]突破课堂转译瓶颈。
-> - **实践规范论争与强弱版本分野** 包含 Fitz-Gibbon 提出的循证三个必要性论证，展现了强版本（证据排他[[Disciplina and Doctrina|规训]]）与弱版本（证据知情整合）关于教师专业属性的技术化对立。
+> - **实践规范论争与强弱版本分野** 包含 Fitz-Gibbon 提出的循证三个必要性论证，展现了强版本（证据排他规训）与弱版本（证据知情整合）关于教师专业属性的技术化对立。
 
 ---
 
@@ -260,7 +335,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > **循证实践伦理与[[Effect Size|效应量]]质控标准** 依据医学伦理类比，在缺乏严谨实证依据的情境下向全体学生强制推行未经验证的教学程序，无异于在未获[[Informed Consent|知情同意]]下对患者施行未经测试的医疗手术。教育研究必须以效应量作为量化质控标准，通过持续积累实验证据以淘汰无效做法并稳定提升教学质量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, pp. 338–340)]]
 
 > [!claim] [[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover Whitehurst）
-> **国家级实验准入标准与清算基础设施建制** 循证决策需要强大的国家级实证审查基础设施支持。通过推动联邦资助的教育研究全面转向[[Random Assignment|随机分配]]实验，并由有效工作清算所（[[What Works Clearinghouse|WWC]]）执行严格的方法学筛查，能够从源头阻断缺乏因果依据的商业推销与政治游说。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 3)]]
+> **国家级实验准入标准与清算基础设施建制** [[Evidence-Based Policy-Making|循证决策]]需要强大的国家级实证审查基础设施支持。通过推动联邦资助的教育研究全面转向[[Random Assignment|随机分配]]实验，并由有效工作清算所（[[What Works Clearinghouse|WWC]]）执行严格的方法学筛查，能够从源头阻断缺乏因果依据的商业推销与政治游说。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 3)]]
 
 ---
 
@@ -289,7 +364,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > 该类命题聚焦宏观二阶[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]知识库，揭示以海量数据权威替代严格质控的方法论虚脱，论证科学实证研究无法收敛为终结教育争议的终极圣杯。
 
 > [!claim] [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）
-> **证据超级综合的双重困境与金字塔修补隐喻** 依赖[[Meta-meta-analysis|元-元分析]]建立通用效应量排行的 EBE 模式并未寻获教学圣杯，其实际成果为筑起了一座需无休止局部修补与维度扩建的庞大金字塔。二阶综合在认识论上同时受制于两难困境：绝大多数报告的[[Effective Teaching|有效教学]]因素仅是对教科书既有常识的渐近逼近（[[Stability vs. Variability Dilemma|稳定性假说]]）；而在特定关键领域，基于陈旧文献所得出的否定性推论已被最新严谨实证全面颠覆（变异性假说）。此外，形式化效能模型抽空了学科教学论与教化传统所关切的内容价值正当性，双向可见性隐喻潜藏着内化的全景[[Disciplina and Doctrina|规训]]机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430, 434–437)]]
+> **证据超级综合的双重困境与金字塔修补隐喻** 依赖[[Meta-meta-analysis|元-元分析]]建立通用效应量排行的 EBE 模式并未寻获教学圣杯，其实际成果为筑起了一座需无休止局部修补与维度扩建的庞大金字塔。二阶综合在认识论上同时受制于两难困境：绝大多数报告的[[Effective Teaching|有效教学]]因素仅是对教科书既有常识的渐近逼近（[[Stability vs. Variability Dilemma|稳定性假说]]）；而在特定关键领域，基于陈旧文献所得出的否定性推论已被最新严谨实证全面颠覆（变异性假说）。此外，形式化效能模型抽空了学科教学论与教化传统所关切的内容价值正当性，双向可见性隐喻潜藏着内化的全景规训机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430, 434–437)]]
 
 > [!claim] 安德烈亚斯·卡尔门达尔（Andreas Kalmendal）等
 > **宏观循证知识库的元科学审计与实证虚脱** [[Preregistration|预注册]]元科学全量复核证实，全球广泛采纳的宏观循证知识库存在严重的方法学失控：在 2,111 项元分析中，严格满足 [[PICO Framework|PICO]] 准入标准且数据可完全独立复现的比例不足 1%，超过四成数据查无实据，并混杂大量非因果相关与虚构文献。盲目迷信海量数据体量作为黄金标准，实质上掩盖了底层实证证据的系统性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3)]]
@@ -337,7 +412,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **2018年 — 统计窄化与教师专业自主剥夺批判** 里格利（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）揭示 EBE 在行政收编中的去情境化统计窄化，批判其压制教育价值讨论并消解[[Teacher Professional Agency|教师专业能动性]]。
 > - **2019年 — 认识论大论战与德语区[[Transfer Science|转移科学]]反思** ERE 特刊集中论战，威廉（[[Argument_Wiliam_2019_ERE|Wiliam, 2019]]）论证教育知识的局部性与临时性；德语区学者（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思清算中心因果作用假设的贫困，主张构建教育科学作为转移科学（Transferwissenschaft）。
 > - **2021年 — EEF 十年中介生态复盘与中美英跨国比较** EEF 确立实践指南、[[Research Schools Network|研究学校网络]]（RSN）与[[Realist Evaluation|现实主义试验]]的现代中介生态；斯拉文等发表中美英首个跨国循证教育改革比较。
-> - **2022年 — 官方证据话语与商业智库政治[[Disciplina and Doctrina|规训]]考掘** 贝恩布里奇等（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）揭示商业智库与官方核准清单对大学批判性研究的系统性边缘化机制。
+> - **2022年 — 官方证据话语与商业智库政治规训考掘** 贝恩布里奇等（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）揭示商业智库与官方核准清单对大学批判性研究的系统性边缘化机制。
 > - **2025年 — 宏观循证知识库[[Preregistration|预注册]][[Metascience|元科学]]全量审计** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对《可见的学习》底层证据库开展全量复核，揭示纯净可重复率仅 0.66% 且混杂大量虚构文献，引发对海量证实伪科学幻象的震荡反思。
 > - **2026年 — [[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]系统综述与专业能动性生态转向** 哈格沃德等（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）对 109 项学校研究开展系统综述，揭示标准化 EBE 的象征性使用困境，倡导通过跨层机制培育专业能动性。
 
@@ -371,7 +446,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > > - **绩效治理模型** 追求清晰可见的量化效应基准，便于宏观行政问责与资源分配。
 > > - **批判社会学派（Golovchin, Bainbridge, Hagevold）** 警告效应量排名容易异化为科层数字问责的治理工具，诱发管理官僚削减必要支持的[[Social Science as Legitimation Alibi|合法化借口]]，导致实践者陷入形式化的象征性应对并损害教师专业自决权。
 >
-> > [!axis] 教师教育实证主义[[Disciplina and Doctrina|规训]] vs. 大学学术自治与多元[[Paradigm|范式]]抗阻
+> > [!axis] 教师教育实证主义规训 vs. 大学学术自治与多元[[Paradigm|范式]]抗阻
 > > 围绕政府是否应强制将实证因果指标嵌入大学教师教育展开学术生态争鸣。
 > >
 > > - **行政效能规训导向** 倾向于将实证因果效能作为检验师资培养质量的法定基准，自上而下推动师范培养模式标准化。

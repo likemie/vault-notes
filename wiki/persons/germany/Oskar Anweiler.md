@@ -7,7 +7,7 @@ summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,6 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Thiel]]"

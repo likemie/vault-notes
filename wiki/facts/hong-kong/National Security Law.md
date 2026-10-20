@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Schmittian Sovereignty]]"
   - "[[General Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
   - "[[Knowledge Framework]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Security Law
@@ -62,7 +61,7 @@ updated: 2026-10-16
 > - **时间 / 地点** 2020年6月30日于中国香港特别行政区颁布并实施维护国家安全法（[[National Security Law]]）（简称香港国安法）（p.141）。
 > - **关键主体** 全国人民代表大会常务委员会（制定并颁布）、香港特别行政区政府与教育局（贯彻与执行）、香港教育专业人员协会（抵抗主体，后被迫解散）。
 > - **制度背景** 在2019年[[2019 Hong Kong Protests\|反修例运动]]引发的政治危机后，中央政权为重构治港模式，通过颁布该法确立了主权决定[[Schmittian Sovereignty\|例外状态]]的威权治理逻辑，将国家安全红线强加于香港的所有政治、司法与社会领域（pp.141, 155）。
-> - **触发条件** 港府与中央政权将[[General Education\|通识教育]]科（LS）视作引发青年政治反叛的温床与国家安全隐患，决定利用国安法强制推行爱国[[Disciplina and Doctrina\|规训]]以重构青年的身份认同。
+> - **触发条件** 港府与中央政权将[[General Education\|通识教育]]科（LS）视作引发青年政治反叛的温床与国家安全隐患，决定利用国安法强制推行爱国规训以重构青年的身份认同。
 
 ---
 
@@ -75,7 +74,7 @@ updated: 2026-10-16
 >   - 2020-09 教育局专责小组完成通识科课程检讨报告，仍建议在精简内容的前提下保留该学科。
 > - **2020–2021 — 核心科目的废除与新课程的强推**
 >   - 2020-11 教育局在未进行任何公众咨询的情况下，无预警宣布以[[Citizenship and Social Development\|公民与社会发展科]]（[[Citizenship and Social Development\|CSD]]）彻底取代通识科（p.148）。
->   - 2021-02 教育局发布国家安全教育课程指引，将安全要求和仪式性顺从[[Disciplina and Doctrina\|规训]]渗透至所有学科。
+>   - 2021-02 教育局发布国家安全教育课程指引，将安全要求和仪式性顺从规训渗透至所有学科。
 >   - 2021-08 代表全港六万余名教师的香港教育专业人员协会被迫解散，标志着教育界抵抗空间的彻底消亡。
 >   - 2021-09 公社科在全港高中一年级正式开始实施，教材咨询团队与评审进行了大换血（pp.147–148）。
 > - **2022 — [[Psychologisation\|心理化]]治理的延伸**
@@ -108,7 +107,7 @@ updated: 2026-10-16
 >   - **教师的结构性自我审查** 模糊且无所不包的国安红线引发了教学现场的恐惧，剥夺了教师的自主权，导致其在政治敏感议题上实施自我审查。
 >   - **教科书[[Knowledge Framework\|知识框架]]的系统重构** [[Citizenship and Social Development\|公社科]]教材完成了四个维度的改写：历史叙事本质化、宪制解释从属化、文化定位工具化以及权利与抗议叙事的全面抹除（pp.148–153）。
 > - **知识影响**
->   - **青年不满的[[Psychologisation\|心理化]]治理** 配合国安[[Disciplina and Doctrina\|规训]]，港府推行感恩与幸福教育，将青年对社会制度与权利的合理诉求矮化为个体的心理调试问题，从而解构政治能动性（p.153）。
+>   - **青年不满的[[Psychologisation\|心理化]]治理** 配合国安规训，港府推行感恩与幸福教育，将青年对社会制度与权利的合理诉求矮化为个体的心理调试问题，从而解构政治能动性（p.153）。
 >   - **[[Schmittian Sovereignty\|例外状态]]逻辑在香港落地** 施密特式主权例外逻辑在香港宪制体制中常态化，重塑了香港治理[[Discourse|话语]]，完成了从法治到以法而治的[[Paradigm|范式]]转换（p.155）。
 
 ---

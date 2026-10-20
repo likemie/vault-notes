@@ -6,7 +6,7 @@ aliases:
 summary: "学习者通过重新组织信息并借助信息思考而改变对现象的理解及行动方式，是超越信息积累的教育性学习结果。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,12 +20,11 @@ related_persons:
   - "[[John Biggs]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-22
+updated: 2026-10-20
 ---
 
 # Educative Conceptual Change
@@ -133,5 +132,5 @@ updated: 2026-09-22
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 区分信息积累与概念改变，提出目标清晰、形成需要、专注任务及协作对话四项发生条件，并把这些条件连接到教学设计。

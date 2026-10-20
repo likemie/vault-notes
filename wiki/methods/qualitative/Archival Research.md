@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Triangulation]]"
   - "[[Archival Correspondence Analysis]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Lecuyer_1999_HT]]"

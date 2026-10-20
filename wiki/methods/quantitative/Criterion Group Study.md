@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 # Criterion Group Study
 
@@ -47,7 +47,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 标准组研究的基本设计可表示为：实验组 E（暴露于 X → 产生 O₁）与对照组 C（未暴露于 X → 产生 O₂）的比较。虚线表示两组不是通过[[Random Assignment\|随机分配]]来等价的。
-> - **用途** 通过比较两组在[[Dependent Variable\|因变量]]上的差异，推断可能的因果差异。然而这最多是一项[[Correlational Research\|相关研究]]，因果不等于相关，第三变量可能同时解释分组差异与结果差异。
+> - **用途** 通过比较两组在[[Dependent Variable\|因变量]]上的差异，推断可能的因果差异。然而这最多是一项[[Correlational Research\|相关性研究]]，因果不等于相关，第三变量可能同时解释分组差异与结果差异。
 > - **边界** 标准组设计不同于历史设计：前者关注当前事件，后者追溯过去事件的历史（Lord, 1973, p. 4）。它被视为桥梁，连接描述性研究方法与真正[[Experimental Research\|实验研究]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch. 15, p. 308]]）。
 
 ---

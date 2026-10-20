@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题；易引发跨部门条块分割的复杂性悖论，需依托敏捷实验与公共动态能力进行系统治理"
 type: concept
 domain: "science-policy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,7 +41,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Richard Nelson]]"
   - "[[Rainer Kattel]]"

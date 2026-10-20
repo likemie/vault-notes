@@ -29,7 +29,6 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Counterfactual]]"
-  - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Praxis]]"
 related_theories: []
@@ -48,6 +47,7 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[What Works Clearinghouse]]"
+  - "[[MDRC]]"
   - "[[Social Programs That Work]]"
   - "[[Community Innovation Survey]]"
   - "[[Quantum Opportunity Program]]"
@@ -89,7 +89,7 @@ updated: 2026-10-20
 > |:---|:---|:---|:---|
 > | **[[National Dropout Prevention Center\|NDPC]]** | **Strong Evidence**<br>(强力推荐·最高级) | 声称依据多项学生级 [[Randomised Controlled Trials\|RCT]] 和 1 项学校级 [[Quasi-Experimental Designs\|QED]] | **未公开具体篇目**；宣称项目在出勤、[[Academic Achievement\|GPA]]、学分、初中读写及高中防辍上全面卓越。 |
 > | **PPN** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research\|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |
-> | **[[CNCS Evidence Exchange]]** | **Moderate Support（中度支持）**<br>(联邦志愿服务资助认证) | MDRC 系列评估报告 (Parise 2017; Somers 2017) | 采纳 2 年期 RCT（改善非学业参与）与间断时间序列（[[Time Series Design\|ITS]]），认可其系统推进成效。 |
+> | **[[CNCS Evidence Exchange]]** | **Moderate Support（中度支持）**<br>(联邦志愿服务资助认证) | [[MDRC]] 系列评估报告 (Parise 2017; Somers 2017) | 采纳 2 年期 RCT（改善非学业参与）与间断时间序列（[[Time Series Design\|ITS]]），认可其系统推进成效。 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **Inconclusive / Uncertified**<br>(证据不确定·不予认证) | 检索审查现有候选实证文献 | **方法学缺陷一票否决**，指出研究普遍存在严重[[Attrition\|差异流失]]、基线不平衡及缺乏独立复制。 |
 > | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **Insufficient Evidence**<br>(证据不足·不予推荐) | 检索截至 2018 年初公开文献 | **刚性排斥灰色文献**，因检索不到任何**同行评审学术期刊发表**的评估论文而直接拒绝背书。 |
 > | **[[What Works Clearinghouse\|WWC]]** | **No Discernible Effects**<br>(无明显效果·未证实) | 审查防辍学协议下达标因果研究 | 严格因果识别判定：在防辍学核心学业指标上未发现统计显著或实质重要的正向因果效应。 |
@@ -101,7 +101,7 @@ updated: 2026-10-20
 > [!critique] CIS 案型揭示的三大[[Research Synthesis|证据综合]]断裂根源
 > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 25)]] 指出，校内社区（CIS）案例生动呈现了宏观循证政策生态中最极端的制度撕裂：
 >
-> 1. **机构委托灰色报告 vs 同行评审学术期刊（MDRC Reports vs Peer-Reviewed Papers）**
+> 1. **机构委托灰色报告 vs 同行评审学术期刊（[[MDRC]] Reports vs Peer-Reviewed Papers）**
 >    - CIS 组织投入巨资委托全美顶尖政策智库 MDRC 开展了严密的多年期随机试验（Parise et al., 2017）与时间序列研究（Somers & Haider, 2017）。但由于这些成果以智库技术评估报告形式发布、未刊载于同行评审学术期刊，恪守期刊门槛的 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 将其视为“完全不存在”，而包容智库报告的 [[CNCS Evidence Exchange\|CNCS EE]] 则据此给予中度支持认证。
 > 2. **组内发展虚假繁荣 vs 对照组自然增长（[[Intelligent Tutoring Systems\|ITS]] Secular Trends）**
 >    - 在 Somers and Haider (2017) 间断时间序列评估中，CIS 实施校的高中毕业率在干预后确实逐年攀升；然而与未接受干预的平行对照校相比，两者的上升轨迹几乎完全平行（反映了宏观社会与学区政策的自然时间演变）。宽松机构仅关注“组内向好”即判定有效，而严谨机构识别出“未跑赢自然趋势”判定因果效应为零。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > [!stat-cards]- 核心实证研究数据快照
 
 
-> - **2.3%** （Somers and Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究） 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
+> - **2.3%** （Somers and Haider (2017) [[MDRC]] 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究） 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
 
 ---
 

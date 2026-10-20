@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -50,12 +50,10 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Multi-Project Wafer]]"
   - "[[University Spin-Out]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -196,7 +194,7 @@ updated: 2026-10-20
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 系统解构[[University Spin-Out|大学衍生企业]]在 [[Technology Readiness Level|TRL]] 3–5 的融资错配，阐明 [[National Science Foundation|NSF]] I-Corps 引入精益客户发现与产业导师三元架构对提高[[Research Translation|技术转化]]存活率的制度贡献。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子战略白皮书，阐述在第四支柱（转化生态）中如何依托 I-Corps、国家设计网关与风险资本共担机制打通实验室到代工厂转化路径。
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统梳理 2011 年 NSF 设立 I-Corps 以来，美国科学资助政策从[[Curiosity-Driven Research|纯基础研究]]向应用启发与[[Academic Entrepreneurship|学术创业]]转型的历史脉络。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统梳理 2011 年 NSF 设立 I-Corps 以来，美国科学资助政策从纯基础研究向应用启发与[[Academic Entrepreneurship|学术创业]]转型的历史脉络。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《[[CHIPS and Science Act|芯片与科学法案]]》增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会后对 NSF I-Corps 及大学技术转化生态的扩容效应。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，探讨高校硬科技创业生态在深科技中试、洁净室准入与[[Technology Transfer|技术转移]]制度上的深层改革方向。
 

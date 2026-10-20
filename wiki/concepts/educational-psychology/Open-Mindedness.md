@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体在求真与理解等认识论动机驱动下，能够敏锐产生并公允审视替代性视角、依据新事实反思并修正自身信念的稳定理智美德。"
 type: concept
 domain: "educational-psychology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,8 +37,7 @@ related_concepts:
   - "[[Ontology]]"
 related_theories:
   - "[[Virtue Epistemology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Socrates]]"

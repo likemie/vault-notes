@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义与政治社会学核心概念，指行动者在具体情境中解释、运用、回避或遵从制度规则的实践过程；与形式规则设计形成结构性张力，源于规则不完备性、认知局限、策略性漏洞试探及反常现象的弹性容忍，是渐进制度变迁的微观动力源泉。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,8 +29,7 @@ related_concepts:
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "国家或国际组织在具有重大公共利益但面临极高商业不确定性的前沿研发领域（如新型疫苗、先进储能与碳捕集），预先承诺在技术达标后按保障价格大规模承购的拉动型资助机制；通过事后创造确定性市场需求，消除私人资本早期研发投资不足的市场失灵。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:

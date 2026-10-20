@@ -7,7 +7,7 @@ title: "Argument_Mausethagen_2025_ERR"
 argument_key: "Argument_Mausethagen_2025_ERR"
 argument_display_title: "A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Phronesis]]"
   - "[[Unit of Analysis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[School Leadership]]"
   - "[[Heterogeneity]]"
   - "[[Teacher Professional Agency]]"
@@ -187,7 +186,7 @@ updated: 2026-10-20
 
 > [!chain-link] 证据到判断
 > - **理性行为假设的局限** Brown and Zhang (2016, p. 784) 探讨教师参与循证实践是否属于理性行为，其前提假定循证教学具有明晰效益，因而积极使用科研理所当然；这一范式在方法论上将非使用行为直接判定为不理性或能力缺失。
-> - **调查方法对测量结果的[[Disciplina and Doctrina\|规训]]** 24 项实证研究中有 13 项采用自陈[[Questionnaire\|问卷]]、4 项采用访谈，这类工具只能测量教师在孤立状态下阅读与消费论文的频次；当学者发现教师未机械套用科研结论时，所有统计指标均整齐划一地指向使用不足，实证方法反向固化了结论的单一性。（pp. 5–6）
+> - **调查方法对测量结果的规训** 24 项实证研究中有 13 项采用自陈[[Questionnaire\|问卷]]、4 项采用访谈，这类工具只能测量教师在孤立状态下阅读与消费论文的频次；当学者发现教师未机械套用科研结论时，所有统计指标均整齐划一地指向使用不足，实证方法反向固化了结论的单一性。（pp. 5–6）
 
 ---
 

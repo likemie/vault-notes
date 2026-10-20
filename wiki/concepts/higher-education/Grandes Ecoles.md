@@ -30,13 +30,13 @@ related_concepts:
   - "[[Multi-University]]"
   - "[[Application Engineering]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Policy Mobility]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
   - "[[State Educational Sovereignty]]"
@@ -61,7 +61,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Grandes Écoles
@@ -113,7 +113,7 @@ updated: 2026-10-19
 > 探讨法国将基础科学研究垄断于专职科研院所、而将拔尖青年人才集中于职业导向大学校的体制设计，如何阻断科研前沿向精英培养的自然溢出。
 
 > [!claim] Atkinson & Blanpied
-> **教学与研究在制度层面的物理隔绝** 在以美国[[Research Universities|研究型大学]]为代表的高教体系中，诺贝尔奖级顶级科学家直接承担本科与研究生教学，前沿实验室探究成果能够无缝反哺高层次人才培养；而在法国，由于国家基础科学研究力量长期高度集中于[[CNRS|法国国家科学研究中心]]（CNRS）专职研究所，研究员无常规高校教学考核，而大学校教员主要偏重应用职业[[Disciplina and Doctrina|规训]]，导致国家最优质的精英学术青年与最前沿的实验室产生了物理阻隔，严重削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力与[[Knowledge Production|知识生产]]协同效能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> **教学与研究在制度层面的物理隔绝** 在以美国[[Research Universities|研究型大学]]为代表的高教体系中，诺贝尔奖级顶级科学家直接承担本科与研究生教学，前沿实验室探究成果能够无缝反哺高层次人才培养；而在法国，由于国家基础科学研究力量长期高度集中于[[CNRS|法国国家科学研究中心]]（CNRS）专职研究所，研究员无常规高校教学考核，而大学校教员主要偏重应用职业规训，导致国家最优质的精英学术青年与最前沿的实验室产生了物理阻隔，严重削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力与[[Knowledge Production|知识生产]]协同效能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

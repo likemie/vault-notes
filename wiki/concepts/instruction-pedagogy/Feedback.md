@@ -5,7 +5,7 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 54
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Analytical Stance]]"
   - "[[Visible Learning]]"
+  - "[[Champ]]"
   - "[[Gamification]]"
   - "[[Data Behaviorism]]"
   - "[[Learning Analytics]]"
@@ -46,11 +47,13 @@ related_concepts:
   - "[[Critique of Meta-analysis]]"
   - "[[PICO Framework]]"
   - "[[Neo-Taylorism]]"
+  - "[[Governing by Numbers]]"
   - "[[Working Memory]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Feedback Intervention Theory]]"
   - "[[Recognition Theory]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -65,6 +68,7 @@ related_persons:
   - "[[B. F. Skinner]]"
   - "[[Robert Glaser]]"
   - "[[Axel Honneth]]"
+  - "[[Thomas Aastrup Rømer]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
@@ -72,12 +76,13 @@ related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Fredens_2015_Paideia]]"
+  - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Hattie_2005_ACER]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Feedback
@@ -198,8 +203,8 @@ updated: 2026-10-18
 > - **文献细读与[[Heterogeneity|异质性]]批判（红方）** 细读核查揭示支撑样本的 92% 存在严重[[Construct|构念]]错位，唯一契合的研究效应仅为 $0.38$ 且存在 38% 负效应，单一均值抹平了关键情境与实施质量差异（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]）。
 >
 > [!tension] 核心张力三：双向教学对话 vs 逆向数据捕获与集权监控
-> - **师生教学相遇立场** 传统教学论与对话教育学主张反馈发生在师生与客观文化相遇的公共场域中，教师作为文化中介引导学生反思与成长（Biesta, 2013; [[Argument_Rømer_2018_EPT|Rømer, 2018]]）。
-> - **控制论逆向数据捕获批判（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 9–10]]）** 罗默指出，哈蒂将反馈定义为“由学生流向教师”实质构建了逆向数据捕获机制：演绎维度依循操作化指标规约学生行为，归纳维度提取学生内部认知参数以调整干预技术；逐级数据上收最终构筑起贯穿课堂、学校至跨国组织的集权化全景敞视治理架构。
+> - **师生教学相遇立场** 传统教学论与对话教育学主张反馈发生在师生与客观文化相遇的公共[[Champ|场域]]中，教师作为文化中介引导学生反思与成长（Biesta, 2013; [[Argument_Rømer_2018_EPT|Rømer, 2018]]）。
+> - **控制论逆向数据捕获批判（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 9–10]]）** 罗默指出，[[John Hattie|哈蒂]]将反馈定义为“由学生流向教师”实质构建了逆向数据捕获机制：演绎维度依循[[Operationalization|操作化]]指标规约学生行为，归纳维度提取学生内部认知参数以调整干预技术；逐级数据上收最终构筑起贯穿课堂、学校至跨国组织的集权化[[Panopticism|全景敞视]]治理架构。
 
 > [!warning] 算法与数字化环境中的反馈异化风险（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022]]）
 > 当反馈被数字化平台与自适应测评系统接管后，其教育学价值面临深层异化：
@@ -264,4 +269,4 @@ updated: 2026-10-18
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 结合国际教学综合，阐明反馈与理解检查作为[[Classroom Management|课堂管理]]与[[Structured Teaching|结构化教学]]不可分割的核心机制。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判算法与数字化学习平台中的即时反馈、[[Gamification|游戏化]]代币对学生[[Metacognition|元认知]]反思间隙的压缩与[[Data Behaviorism|数据行为主义]]异化。
 > - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 将反馈从单纯技巧升华为追问“Where to next?”的学校文化，连接[[Working Memory|工作记忆]]与元认知自我调节。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与政治治理视角批判哈蒂反馈倒置学说，揭示逆向数据捕获与全景敞视集权控制机制（pp. 9–10）。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与政治治理视角批判哈蒂反馈倒置学说，揭示逆向数据捕获与[[Panopticism|全景敞视]]集权控制机制（pp. 9–10）。

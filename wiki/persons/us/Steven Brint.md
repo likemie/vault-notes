@@ -9,7 +9,7 @@ summary: "加利福尼亚大学河滨分校社会学与公共政策杰出教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
 related_theories:
   - "[[Structural Functionalism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

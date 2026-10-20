@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ tags:
   - theme/evidence-informed-policy
   - theme/social-dialogue
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Whole Person Education]]"
@@ -71,7 +70,7 @@ updated: 2026-10-20
 > - **立项时间与周期** 2011 年启动第一届峰会，此后每年由不同的 OECD 成员国轮流主办，常态化延续至今。
 > - **发起方与多边架构** 由美国时任教育部长阿恩·邓肯（Arne Duncan）联合两大美国全国性教师工会（NEA、AFT）、代表全球 3200 万教师的 EI 以及 OECD 共同搭建，开创了跨国组织、中央政府与工会联合发起的多边协商模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **覆盖范围与对象** 面向经合组织成员国及部分伙伴国的民选教育部长、副部长以及相应国家最大教师工会的总书记与主席。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
-> - **核心问题导向** 破解长期困扰各国公共教育治理的劳资对抗死结与自上而下行政[[Disciplina and Doctrina\|规训]]异化，防止重大教育改革因一线教师抵制而陷入执行泥潭，探索基于客观科研证据凝聚政策共识的治理新[[Paradigm\|范式]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
+> - **核心问题导向** 破解长期困扰各国公共教育治理的劳资对抗死结与自上而下行政规训异化，防止重大教育改革因一线教师抵制而陷入执行泥潭，探索基于客观科研证据凝聚政策共识的治理新[[Paradigm\|范式]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 ---
 

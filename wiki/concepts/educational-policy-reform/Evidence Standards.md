@@ -38,6 +38,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
   - "[[Implementation Fidelity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Champ]]"
   - "[[Developer-Made Measures]]"
   - "[[Floor and Ceiling Effects]]"
@@ -68,7 +69,6 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Robert Slavin]]"
@@ -113,7 +113,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Evidence Standards
@@ -255,7 +255,7 @@ updated: 2026-10-17
 > **单项研究定性有效性的认识论谬误** 国际证据门户调查揭示，大量针对固化干预项目（Programmes）的门户仅凭一至两项研究就宣称该项目有效，这种极其宽松的证据标准完全无视了相反结论的大量存在；同时，二级聚合清算数据库（如 Results First）直接并置不同来源、不同口径的研究清单，引发标准的多源交叉污染。中介机构若不建立以[[Systematic Review\|系统综述]]为基础的严谨标准，其品牌效应极易蜕变为传播伪证据与误导公共采购的放大器。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
 
 > [!claim] Pellegrini & Vivanet
-> **清算机构评级门槛不一致削弱政策互信** 欧美主流[[Educational Evidence Clearinghouses\|教育证据清算机构]]（如 [[What Works Clearinghouse\|WWC]]、[[Education Endowment Foundation\|EEF]]、BEP 等）在纳入标准、[[Effect Size\|效应量]]门槛与[[Publication Bias\|发表偏倚]]处理上存在显著[[Heterogeneity\|异质性]]；同一干预在不同清算机构可能获得完全相反的有效性评级，证实中介组织证据标准的模糊与分歧已成为制约循证决策国际互信的关键瓶颈。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 120–122)]]
+> **清算机构评级门槛不一致削弱政策互信** 欧美主流[[Educational Evidence Clearinghouses\|教育证据清算机构]]（如 [[What Works Clearinghouse\|WWC]]、[[Education Endowment Foundation\|EEF]]、BEP 等）在纳入标准、[[Effect Size\|效应量]]门槛与[[Publication Bias\|发表偏倚]]处理上存在显著[[Heterogeneity\|异质性]]；同一干预在不同清算机构可能获得完全相反的有效性评级，证实中介组织证据标准的模糊与分歧已成为制约[[Evidence-Based Policy-Making|循证决策]]国际互信的关键瓶颈。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 120–122)]]
 
 > [!claim] Ginsberg et al.
 > **法定单项门槛的形式合规繁荣与实质证据断裂** 对特大型城市学区三年间 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的细粒度实证审计表明，仅凭单项合格研究即可合规的宽松法定证据标准，赋予了地方学区极大的文牍抗辩空间，造成逾 95% 资金合规的假象；但置于跨库全量[[Research Synthesis|证据综合]]审视下，获稳定积极支持的资金比例断崖式跌破六成（49%–58%），且法案生效前后三年间资金配置高度固化。这一实证检验确凿证实：缺乏全量证据综合约束的单项研究标准无法有效打破学区的既有采购惯性，反而将数十亿美元公共财政固锁在缺乏充分证据支持的常规项目之中。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–178)]]
@@ -413,7 +413,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量[[Research Synthesis|证据综合]]标准（49%–58%）之间的巨大落差。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。

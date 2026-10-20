@@ -8,10 +8,10 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什（Dolowitz & Marsh）系统建构的政策科学与比较公共政策分析框架，通过‘谁转移、为何转移、转移什么、从何处转移、转移程度与转移约束/失败原因’六大核心问题维度，解构知识、信息、政策工具与制度安排跨时间、空间与治理管辖权的跨国流动机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 27
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/policy-transfer
   - subject/comparative-education
@@ -25,15 +25,21 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Welfare-to-Work]]"
   - "[[Policy Conditionalities]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Hard Policy Transfer]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
+  - "[[Soft Policy Transfer]]"
+  - "[[Knowledge Power]]"
   - "[[Positivism]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Random Assignment]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
   - "[[Richard Rose]]"
@@ -41,12 +47,14 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[MDRC]]"
+  - "[[Employment Retention and Advancement]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Policy Transfer Framework
@@ -104,7 +112,7 @@ updated: 2026-10-19
 > [!theory-proposition] 命题一｜政策转移动机沿行动者自主性与外部强制力构成连续谱系
 > **解释** 多洛维茨与马什指出，政策转移在经验上呈现为从自愿性政策学习（Rational Lesson-Drawing）延伸至超国家机构直接施加（Coercive Transfer）的连续谱（Continuum）。在自愿转移区间，对既有政策成效的审视、国际对标诉求、意识形态亲和性与语言制度的相近性共同构成核心动力；在此机制下，战略行动者展现出克服本土制度阻碍、积极吸纳外来经验的能动特征。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332–333)]]
 >
-> **应用实例** 英国新工党在 1997 年执政后，出于兑现破除福利依赖竞选承诺的治理需求，主动面向具有相同语言与相近自由主义福利传统的美国系统搜寻积极劳动力市场政策[[Paradigm|范式]]。
+> **应用实例** 英国新工党在 1997 年执政后，出于兑现破除福利依赖竞选承诺的治理需求，主动面向具有相同语言与相近自由主义福利传统的美国系统搜寻[[Welfare-to-Work|积极劳动力市场政策]][[Paradigm|范式]]。
 
 ---
 
@@ -113,14 +121,14 @@ updated: 2026-10-19
 > [!theory-proposition] 命题二｜转移载体涵盖从宏观价值理念到微观技术工具与评估规程的多层要素
 > **解释** 框架界定跨国转移的客体具有多元层次，不仅包括政策目标、具体方案设计与行政体制，更包括支持政策运行的技术工具、政策评价规程与理念哲学。行动者既可以全盘照搬（Copying）现成工具，也可以开展杂糅调适（Hybridization / Emulation）或吸收吸取负面教训（Negative Lessons）。后续研究进一步证实，评估技术与实验论证工具本身即可作为独立的转移载体被系统引入。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332, 343)]]
 >
-> **应用实例** 英国就业与养老金部不仅借鉴了美国福利到工作的方案理念，更直接将美国人力资源发展与研究社（Manpower Demonstration Research Corporation，MDRC）研发的[[Random Assignment|随机分配]]评估技术及专业团队全套移植至英国本土就业保留与晋升项目（Employment Retention and Advancement, ERA）示范试点中。
+> **应用实例** 英国就业与养老金部不仅借鉴了美国福利到工作的方案理念，更直接将美国人力资源发展与研究社（[[MDRC|Manpower Demonstration Research Corporation]]，MDRC）研发的[[Random Assignment|随机分配]]评估技术及专业团队全套移植至英国本土就业保留与晋升项目（[[Employment Retention and Advancement]], ERA）示范试点中。
 
 ---
 
 ### 命题三　转移主体在政策搜寻与借用网络中呈现多层级结构分工与功能互补
 
 > [!theory-proposition] 命题三｜转移主体在政策搜寻与借用网络中呈现多层级结构分工与功能互补
-> **解释** 多洛维茨与马什归纳的九类转移主体在政策过程中展现出差异化的资源依赖与功能分工：当选政客与政党负责确立意识形态方向并提供政治授权；科层官僚与专业公务员主导日常的跨国方案调查、筛选与技术论证；智库、顾问与政策专家提供具体的操作方案与评价工具；而超国家与跨国组织（如 [[OECD]]、[[World Bank]]、[[International Monetary Fund|IMF]]）则依托多边网络、[[Policy Conditionalities|贷款附加条件]]与指标对标，充当跨国转移的催化中枢或强制施加者。后续研究证实，在[[Evidence-Based Policy-Making|循证决策]]规程下，面临证据紧迫性的官僚行动者往往绕过宏观国际组织，直接与拥有成熟实验数据的外国专业智库结盟，推动政策与评估规程的跨国硬转移。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332, 342–343)]]
+> **解释** 多洛维茨与马什归纳的九类转移主体在政策过程中展现出差异化的资源依赖与功能分工：当选政客与政党负责确立意识形态方向并提供政治授权；科层官僚与专业公务员主导日常的跨国方案调查、筛选与技术论证；智库、顾问与政策专家提供具体的操作方案与评价工具；而超国家与跨国组织（如 [[OECD]]、[[World Bank]]、[[International Monetary Fund|IMF]]）则依托多边网络、[[Policy Conditionalities|贷款附加条件]]与指标对标，充当跨国转移的催化中枢或强制施加者。后续研究证实，在[[Evidence-Based Policy-Making|循证决策]]规程下，面临证据紧迫性的官僚行动者往往绕过宏观国际组织，直接与拥有成熟实验数据的外国专业智库结盟，推动政策与评估规程的跨国[[Hard Policy Transfer|硬转移]]。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332, 342–343)]]
 >
 > **应用实例** 英国新工党推行新政福利改革时，内阁大臣（当选官员）确立了“工作优先”的政治方向并要求拿出实证证据；财政部与就业与养老金部的高级公务员（官僚主体）主导了对美、瑞、新、澳四国的实证比较搜寻；最终跨国委托美国专业智库 MDRC（第三方专业机构）全权负责英国就业保留与晋升示范项目的实验分组与现场审计。
 
@@ -139,7 +147,7 @@ updated: 2026-10-19
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
 > | **转移主体分类与权力关系（Dolowitz & Marsh, 1996, 2000）** | 谁主导政策搜寻？当选政客、科层官僚还是外部智库/国际组织？ | 官方出访记录、内部备忘录、顾问聘书、跨国组织（[[OECD]]、[[World Bank]]）协议条款 | 当选官员主导偏重政治合法性；官僚与智库主导偏重技术可行性与证据稳健性；跨国组织主导常附带制度约束。 |
-> | **转移客体层次（Dolowitz & Marsh, 2000）** | 转移的是价值[[Discourse\|话语]]、方案框架还是评价工具？ | 政策白皮书引言、法案细则、技术操作手册与评估合同 | 话语同构属软转移；操作规范与量化模型属硬转移。 |
+> | **转移客体层次（Dolowitz & Marsh, 2000）** | 转移的是价值[[Discourse\|话语]]、方案框架还是评价工具？ | 政策白皮书引言、法案细则、技术操作手册与评估合同 | 话语同构属[[Soft Policy Transfer\|软转移]]；操作规范与量化模型属[[Hard Policy Transfer\|硬转移]]。 |
 > | **转移程度与本土改造（[[Argument_Legrand_2012_PolStud\|Legrand, 2012]]）** | 是机械照搬还是深度杂糅调适？ | 本土试点修改记录、立法辩论差异、豁免条款 | 变更目标人群与交付机制属混合调适；原样测试属直接复制。 |
 > | **移植失灵风险（Dolowitz & Marsh, 2000）** | 是否存在情境不匹配或伦理排异？ | 利益相关者抵制抗议、工会反对决议、伦理审查争议 | 忽视本土制度基底易导致不完全移植或执行瓦解。 |
 
@@ -149,12 +157,12 @@ updated: 2026-10-19
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合解释** 跨国/跨区域教育与公共政策借鉴、政策扩散与学习过程；揭示政策行动者在不同权力梯度（自愿到强制）下的搜寻动力与制度扩散网络。
-> - **谨慎使用** 解释高度非理性、突发性危机应急决策或极端民粹主义政策转向；在缺乏公开行政档案与决策官员深度访谈的封闭行政体系中，较难完整复原行动者的真实搜寻过程。
+> - **谨慎使用** 解释高度非理性、突发性危机应急决策或极端民粹主义政策转向；在缺乏公开行政档案与决策官员[[In-depth Interview|深度访谈]]的封闭行政体系中，较难完整复原行动者的真实搜寻过程。
 > - **转移失败的三大根源** 多洛维茨与马什（Dolowitz & Marsh, 2000）明确指出了政策跨国移植发生失灵的三种制度机制：
 >   1. **非知情转移（Uninformed Transfer）** 借入方对原产国政策的真实运行机理与必要支撑条件掌握不充分，盲目推行导致南辕北辙；
 >   2. **不完整转移（Incomplete Transfer）** 仅引进了外来政策的表层设计或关键环节，却遗漏了使其有效运转的核心配套制度或财政支持；
 >   3. **不恰当转移（Inappropriate Transfer）** 完全忽视了两国在经济基础、社会文化、行政传统与价值体系上的深刻[[Heterogeneity|异质性]]，导致移植方案在本土制度环境中发生排异反应。
-> - **常见误用** 将分析框架矮化为静态的概念分类清单（Checklist），忽视决策行动者跨国搜寻时面临的方法论证据门槛与知识权力结构（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）。
+> - **常见误用** 将[[Analytic Framework|分析框架]]矮化为静态的概念分类清单（Checklist），忽视决策行动者跨国搜寻时面临的方法论证据门槛与[[Knowledge Power|知识权力]]结构（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）。
 
 ---
 
@@ -163,10 +171,10 @@ updated: 2026-10-19
 > [!debates] 理论争议
 >
 > > [!axis] 描述性分类矩阵 vs. 因果解释力不足
-> > 围绕政策转移框架是仅提供了启发式的现象学分类清单，还是具备充分的微观因果解释力展开交锋。
+> > 围绕政策转移框架是仅提供了启发式的[[Phenomenology|现象学]]分类清单，还是具备充分的微观因果解释力展开交锋。
 > >
 > > - **[[Positivism|实证主义]]因果解释批判（Benson & Jordan, 2011）** 批评政策转移框架本质上是一套启发式的概念分类清单，在解释“为何特定行动者在特定历史时空选择特定国家而非其他国家”这一经验问题时缺乏微观因果发生机制。
-> > - **框架辩护与[[Epistemology|认识论]]拓展（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 辩护者指出该框架提供了跨体系比较的通用语言；结合循证决策机会结构，可有效揭示证据位阶与方法论范式如何充当跨国借用的微观因果驱动力，弥合宏观结构与微观动机之间的解释鸿沟。
+> > - **框架辩护与[[Epistemology|认识论]]拓展（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 辩护者指出该框架提供了跨体系比较的通用语言；结合[[Evidence-Based Policy-Making|循证决策]]机会结构，可有效揭示证据位阶与方法论[[Paradigm|范式]]如何充当跨国借用的微观因果驱动力，弥合宏观结构与微观动机之间的解释鸿沟。
 
 ---
 

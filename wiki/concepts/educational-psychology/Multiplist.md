@@ -8,7 +8,7 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效；在人机共生学习中表现为意识到大模型输出的多样性但缺乏客观评判标准，导致选择迷失与批判性比较匮乏。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,10 +40,9 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Chi-Squared Test]]"
   - "[[Pearson Product-Moment Correlation]]"
-  - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Multiplist
@@ -166,7 +165,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机自适应[[Epistemic Stances\|认识立场]]框架，系统解构[[Pluralism|多元主义]]立场在与生成式 AI 交互中的选择迷失与评价匮乏，并建立双轨支架干预机制。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将其作为对权威破灭后走向极端相对主义的结构性阶段。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将多元论定位为认识论演进的最庞大瓶颈期，实证揭示了向多元论过渡的极速性，以及成年人在价值观领域对多元论的迷恋。

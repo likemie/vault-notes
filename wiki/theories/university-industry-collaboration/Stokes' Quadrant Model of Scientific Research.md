@@ -9,7 +9,7 @@ aliases:
 summary: "斯托克斯（Stokes, 1997）提出的二维科研动机分类框架，以追求基础机理理解与考虑现实实际应用两个独立维度正交构建四象限，打破了线性科技发展观与基础/应用二分法，为产学研协作、国家发展型网络国家干预与国际科研合作提供了认识论基石。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -45,7 +45,6 @@ related_theories:
   - "[[Discovery-Invention Cycle]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -139,7 +138,7 @@ updated: 2026-10-20
 ---
 
 > [!theory-proposition] 命题三｜巴斯德象限为公共部门介入早期中试与技术网络协调提供了坚实的认识论依据
-> **解释** 自由放任学派主张国家只需资助[[Curiosity-Driven Research|纯基础研究]]（玻尔象限），后续应用开发应完全交由市场自发完成；然而[[Fred Block|布洛克]]（Fred Block, 2008）指出，当代前沿高科技突破（如生物医药、半导体集成电路、清洁能源）几乎全部深植于巴斯德象限。在这一象限中，科学原理验证与工程原型开发高度交织，单靠分散的私人资本无法承担巨大的早期技术试错风险与协调失灵。正是因为高科技处于巴斯德象限，以 [[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 与 [[Department of Energy|DOE]] 为代表的[[Developmental Network State|发展型网络国家]]（DNS）主动提供早期技术开发（ESTD）匹配资金、搭建芯片流片（[[MOSIS]]）与产学研联合体平台，才具有了颠扑不破的技术与政策正当性。[[Argument_Block_2008_PS|(Block, 2008, pp. 173–174)]]
+> **解释** 自由放任学派主张国家只需资助纯基础研究（玻尔象限），后续应用开发应完全交由市场自发完成；然而[[Fred Block|布洛克]]（Fred Block, 2008）指出，当代前沿高科技突破（如生物医药、半导体集成电路、清洁能源）几乎全部深植于巴斯德象限。在这一象限中，科学原理验证与工程原型开发高度交织，单靠分散的私人资本无法承担巨大的早期技术试错风险与协调失灵。正是因为高科技处于巴斯德象限，以 [[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 与 [[Department of Energy|DOE]] 为代表的[[Developmental Network State|发展型网络国家]]（DNS）主动提供早期技术开发（ESTD）匹配资金、搭建芯片流片（[[MOSIS]]）与产学研联合体平台，才具有了颠扑不破的技术与政策正当性。[[Argument_Block_2008_PS|(Block, 2008, pp. 173–174)]]
 >
 > **应用实例** 美国微电子工业面临日本竞争时的跨越路径：联邦政府并非单纯向大学追加纯理论经费，而是由 DARPA 和国家科学基金会直接资助 MOSIS [[Multi-Project Wafer|多项目晶圆]]平台，将大学计算机科学家的芯片架构设计直接置于晶圆工厂的真实制造环境中进行工程验证，在巴斯德象限内一举催生了超大规模集成电路（[[VLSI Project|VLSI]]）与无晶圆厂（Fabless）设计模式的繁荣。[[Argument_Block_2008_PS|(Block, 2008, pp. 179–180)]]
 

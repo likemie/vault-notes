@@ -43,6 +43,7 @@ related_concepts:
   - "[[Social Deafness]]"
   - "[[Determinism]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Critical Theory]]"
@@ -50,7 +51,6 @@ related_theories:
 related_methods:
   - "[[Five Whys]]"
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -165,7 +165,7 @@ updated: 2026-10-20
 ## 历史评价
 
 > [!citation-card] 战后防务科技史视角论卡普的战略定位
-> 亚历山大·卡普在硅谷普遍回避国家安全与地缘政治的时代，旗帜鲜明地主张科技公司与西方民主政体的战略结盟；他将欧陆[[Critical Theory|批判理论]]的宏观视野与硅谷最硬核的工程实践相结合，成为推动防务采办改革与[[Technological Republic|技术共和国]]构想的关键思想者与实践者。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, Overview)]]
+> 亚历山大·卡普在硅谷普遍回避国家安全与[[Geopolitics|地缘政治]]的时代，旗帜鲜明地主张科技公司与西方民主政体的战略结盟；他将欧陆[[Critical Theory|批判理论]]的宏观视野与硅谷最硬核的工程实践相结合，成为推动防务采办改革与[[Technological Republic|技术共和国]]构想的关键思想者与实践者。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, Overview)]]
 >
 > *Alex Karp represents a unique convergence of European critical theory and hardcore American software engineering, redefining the relationship between Silicon Valley and national defense.*
 

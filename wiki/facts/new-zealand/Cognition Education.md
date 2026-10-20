@@ -14,7 +14,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,13 +37,15 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Implementation Fidelity]]"
   - "[[Class Size]]"
   - "[[Neo-Taylorism]]"
 related_theories: []
 related_methods:
+  - "[[Pilot Testing]]"
   - "[[Meta-analysis]]"
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
+  - "[[In-depth Interview]]"
   - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons:
@@ -58,6 +60,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
 status: stable
 created: "2026-05-23"
@@ -120,7 +123,7 @@ updated: 2026-10-20
 > - **决策机构（Cognition Education Trust 理事会）** 慈善信托理事会作为最高控股方，拥有营利性运营公司的 100% 股权，负责任命董事、审定年度公益捐赠与战略方向。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 66)]]
 > - **执行机构（Cognition Education Limited 商业实体）** 独立注册的营利性有限责任公司，负责全球咨询合同招标、[[Visible Learning Branding and Global Influences|Visible Learningplus]] 知识产品开发与跨国特许经营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–67)]]
 > - **学术纽带与旋转门（学者兼任董事）** 知名学者[[John Hattie|约翰·哈蒂]]兼任 Cognition Education Trust 理事会董事，深度参与组织战略，每年为商业实体提供 30 天差旅宣讲，换取全球 23 国数万名一线师生实践数据的独家学术分析权，同时通过知识产权授权合同从商业实体获取巨额版税与服务酬金。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]
-> - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，在 23 个国家推行商业连锁特许专营（如与英国 Osiris、Challenging Learning、澳大利亚麦克米兰及美国[[Corwin Press|考文出版社]]合作）；依托奥克兰总部进行 5 轮实地测试定型逐字脚本化讲义，全球培训师录取淘汰率达五分之四并严厉禁止分享个人轶事，同时对外部独立学者进入奥克兰总部实地审计数据清洗与建模流程保持严密封闭。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
+> - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，在 23 个国家推行商业连锁特许专营（如与英国 Osiris、Challenging Learning、澳大利亚麦克米兰及美国[[Corwin Press|考文出版社]]合作）；依托奥克兰总部进行 5 轮[[Pilot Testing|实地测试]]定型逐字脚本化讲义，全球培训师录取淘汰率达五分之四并严厉禁止分享个人轶事，同时对外部独立学者进入奥克兰总部实地审计数据清洗与建模流程保持严密封闭。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
 
 > [!pathways]- 业务运行机制
 > - **双层资本流转与税负[[Screening Off|屏蔽]]** 营利子公司 Limited 将运营利润以大额捐赠形式回流给唯一的慈善股东 Trust，凭借新西兰慈善信托免税政策大幅冲抵企业所得税，甚至连续多年实现账面零税负。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
@@ -227,7 +230,7 @@ updated: 2026-10-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 深度访谈哈蒂揭示 Cognition 在 23 个国家推行高度脚本化的特许加盟机制、五分之四淘汰率、禁止教师分享个人轶事以维系实施忠实度，以及拒绝外部学者实地观察奥克兰总部数据清洗流程的技术控制壁垒（pp. 254–255, 260）。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — [[In-depth Interview|深度访谈]][[John Hattie|哈蒂]]揭示 Cognition 在 23 个国家推行高度脚本化的特许加盟机制、五分之四淘汰率、禁止教师分享个人轶事以维系[[Implementation Fidelity|实施忠实度]]，以及拒绝外部学者实地观察奥克兰总部数据清洗流程的技术控制壁垒（pp. 254–255, 260）。
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向[[Corwin Press|考文出版社]]（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。

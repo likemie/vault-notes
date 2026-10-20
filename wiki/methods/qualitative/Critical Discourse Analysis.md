@@ -33,6 +33,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
+  - "[[Geopolitics]]"
   - "[[Explanatory Critique]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
@@ -50,7 +51,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Conversation Analysis]]"
   - "[[Critical Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Norman Fairclough]]"
@@ -100,7 +100,7 @@ updated: 2026-10-20
 > [!method-stack] 方法层级
 > - **研究设计** 批判性政策[[Discourse Analysis|话语分析]]（Critical Policy Discourse Analysis, CPDA）、案例驱动的深度[[Qualitative Content Analysis|质性文本分析]]。
 > - **数据收集** 官方纲领性文件、政策解读新闻稿、部委联合专项计划、最高领导人外交演讲录。
-> - **分析方法** [[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）三维分析模型（文本—话语实践—社会实践）、[[Policy Framing|政策框架]]分析（[[Policy Framing]]）、互文性与[[Interdiscursivity|互话语性]]解构。
+> - **分析方法** [[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）三维分析模型（文本—话语实践—社会实践）、政策框架分析（[[Policy Framing]]）、互文性与[[Interdiscursivity|互话语性]]解构。
 > - **辅助技术** [[Coding in Qualitative Research|质性编码]]软件（如 NVivo、MAXQDA）、概念逻辑图绘制、主题归纳矩阵。
 
 ---
@@ -109,9 +109,9 @@ updated: 2026-10-20
 
 > [!proc] 通用程序
 > 1. 界定研究涉及的政策争议或社会议题，选定代表性文本群并划定时间跨度与分析边界。
-> 2. 开展初读与文本层细读，提取主导词汇、语法特征、隐喻策略与[[Policy Framing|政策框架]]类型。
+> 2. 开展初读与文本层细读，提取主导词汇、语法特征、隐喻策略与政策框架类型。
 > 3. 考察文本生成、传播与消费的[[Discourse|话语实践]]过程，追踪互文引用与不同话语体裁的交叉杂合。
-> 4. 将话语实践嵌入宏观社会结构、地缘政治竞争与意识形态博弈的生态中展开社会学解释。
+> 4. 将话语实践嵌入宏观社会结构、[[Geopolitics|地缘政治]]竞争与意识形态博弈的生态中展开社会学解释。
 > 5. 综合提炼理论洞见，形成针对政策修辞张力与深层战略意图的[[Explanatory Critique|解释性批判]]报告。
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-10-20
 > | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative\|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
 
 > [!proc] 费尔克拉夫三维批判[[Discourse Analysis|话语分析]]程序（[[Argument_Woo_2023_HEP|Woo, 2023]]）
-> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本的语言表层特征与框架化策略；系统划分诊断性框架（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
+> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本的语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
 > 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与[[Interdiscursivity|互话语性]]网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 > 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 
@@ -167,4 +167,4 @@ updated: 2026-10-20
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、[[Policy Framing|政策框架]]理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与地缘政治逻辑。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。

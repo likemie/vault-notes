@@ -11,9 +11,9 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 40
-fact_related_level: 4
-fact_related_stars: "💎⭐"
+fact_related_count: 39
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Likert Scale]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Roy Nash]]"
   - "[[Mark Rickinson]]"
@@ -72,7 +71,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Monash Q Project
@@ -203,7 +202,7 @@ updated: 2026-10-17
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立高质量使用六大特征并量化检验榜样领导与时间赤字的决定性影响。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨卫生、社工、教育与政策四领域 112 篇核心文献[[Systematic Review\|系统综述]]，正式确立适切证据与审慎实施双核互构的 [[Quality Use of Research Evidence Framework\|QURE]] [[Analytic Framework\|分析框架]]。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 运用专长社会学框架，对英格兰、苏格兰与德国汉堡基础教育[[Research Utilization\|研究使用]]展开跨国比较，批判 Q 项目等系统性模型所预设的理性乌托邦假定，揭示高利害市场化治理如何将证据异化为[[Performativity|表演性]]合规工具。

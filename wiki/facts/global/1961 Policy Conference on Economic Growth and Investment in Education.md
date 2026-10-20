@@ -26,8 +26,8 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Education-for-Mandates]]"
+  - "[[Geopolitics]]"
   - "[[Bildung]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Brokerage]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -64,7 +64,7 @@ updated: 2026-10-20
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1961 年 10 月 16–20 日，美国华盛顿特区。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **核心当事主体** 经济合作与发展组织（OECD）秘书处、美国肯尼迪政府（国务院与国际开发总署）、西方主要发达成员国教育与财政部长，以及以西奥多·舒尔茨（Theodore W. Schultz）、爱德华·丹尼森（Edward Denison）和扬·廷伯根（Jan Tinbergen）为代表的经济学家群体。
-> - **深层制度与社会背景** 冷战大西洋阵营地缘政治对峙；1957 年苏联[[Sputnik Shock 1957\|斯普特尼克冲击]]引发西方技术人才恐慌；[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）于 1960–1961 年正式改组为经合组织（OECD），急需开辟全新制度疆域以协调跨国资本积累与生产力规划。
+> - **深层制度与社会背景** 冷战大西洋阵营[[Geopolitics|地缘政治]]对峙；1957 年苏联[[Sputnik Shock 1957\|斯普特尼克冲击]]引发西方技术人才恐慌；[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）于 1960–1961 年正式改组为经合组织（OECD），急需开辟全新制度疆域以协调跨国资本积累与生产力规划。
 > - **直接导火索 / 触发事件** 1960 年意大利贝拉吉奥（Bellagio）跨国专家会议倡议各国将教育投资与国家发展规划挂钩；美国行政当局力促 OECD 确立十年经济增长 50% 的跨国宏伟目标，迫切需要对人力资源供给提供标准化模型测算。
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-10-20
 > [!debates] 史学评价与当代争议
 >
 > > [!axis] 历史定性分歧：科学进步的理性跃进 vs 帝国主义地缘技术控制
-> > 主流制度主义教育史家肯定其打破教育阶级壁垒、推动公共教育经费翻倍扩张的积极意义；批判史学派则批判其代表了西方冷战地缘战略对第三世界的智识[[Disciplina and Doctrina\|规训]]。
+> > 主流制度主义教育史家肯定其打破教育阶级壁垒、推动公共教育经费翻倍扩张的积极意义；批判史学派则批判其代表了西方冷战地缘战略对第三世界的智识规训。
 > >
 > > - **自由主义现代化史学视角** 认为会议将教育政策从陈旧的精英人文主义中解放出来，提供了基于科学实证与经济理性的现代公共管理工具。
 > > - **修正主义／批判史学视角（Elfert & Ydesen, 2023）** 揭示华盛顿会议本质是美国主导的大西洋霸权网络，通过将教育还原为资本生产要素，架空了[[UNESCO\|联合国教科文组织]]（UNESCO）所倡导的人权与文化解放议程。转引自 [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]

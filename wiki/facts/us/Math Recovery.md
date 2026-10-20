@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -123,7 +122,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Math Recovery 列为初等数学 Tier 3 专业教师个别辅导的代表性方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托专业教师在 Tier 3 阶段实施高精度的个别化临床补救。
 > - [[Numbers Count]] — 英国针对小学一、二年级重度学困儿童的专业教师 1:1 数学方案，形成英美双璧。

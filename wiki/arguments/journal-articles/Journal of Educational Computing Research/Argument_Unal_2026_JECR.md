@@ -27,6 +27,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Emergence]]"
   - "[[Research Scope]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Central Question]]"
   - "[[Publication Bias]]"
   - "[[Variable]]"
@@ -92,6 +93,7 @@ related_persons:
 related_facts:
   - "[[Education Resources Information Center]]"
 related_arguments:
+  - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
 sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
@@ -104,7 +106,7 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -121,7 +123,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的文献重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
+> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的文献重叠，使宏观[[Evidence-Based Policy-Making|循证决策]]陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
 > 1. 人工智能（Artificial Intelligence, AI）教育应用对学生的整体学习成果（包括学业成就与高阶思维技能）究竟产生多大程度的综合效应？
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias\|发表偏倚]]状态以及元分析方法学质量等调节[[Variable\|变量]]上呈现系统性差异？（p. 1363）
 

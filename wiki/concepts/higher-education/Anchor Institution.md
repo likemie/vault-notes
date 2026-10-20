@@ -9,10 +9,10 @@ aliases:
 summary: "在特定区域或城市创新生态中，凭借其空间不可移动性、高密度智力资本与长效社会网络，发挥引力中枢、产业集聚载体与抗风险稳定支柱作用的高等教育或大型科研医疗实体。"
 type: concept
 domain: "higher-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/higher-education
   - theme/innovation-ecosystem
@@ -33,8 +33,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Workforce Development]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

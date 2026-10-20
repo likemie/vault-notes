@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Practical Epistemology
@@ -232,6 +231,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 正式确立实践[[Epistemology\|认识论]][[Construct\|构念]]，深入剖析其与[[Formal Epistemology\|形式认识论]]的分离特征，并论证显性认识论反思在科学探究教学中的关键转化作用。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合微观[[Discourse Analysis\|话语分析]]，详细阐述[[Practical Epistemology Analysis\|实践认识论分析]]（PEA）的立足点与意义裂隙机理，并将实践认识论与教师元[[Discourse|话语]]引导及[[Citizen Science\|公民科学]]素养培育深度贯通。

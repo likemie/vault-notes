@@ -7,10 +7,10 @@ aliases:
 summary: "由英国公共政策学者桑德拉·纳特利等于 2002 年提出的中层分析框架，系统提炼了决定政策制定者是否关注、接纳与吸纳特定实证研究证据的四大核心维度：决策者个人特质、研究契合度、制度情境以及政策执行可行性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory
   - level/macro-policy
@@ -20,6 +20,7 @@ tags:
   - theme/evidence-based-policy
 related_concepts:
   - "[[Research-Policy Gap]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nutley's Four-Dimension Framework for Research Uptake
@@ -60,7 +61,7 @@ updated: 2026-10-16
 > - **解释对象** 解释在多元、动态且高度政治化的公共政策与立法决策环境中，实证研究证据为何以及在何种条件下能够被政策制定者（议员、委员会幕僚、行政官员）关注、采纳与嵌入政策条文中，抑或被忽视与边缘化。
 > - **理论问题** 破解传统“理性线性模型”（即认为只要产生高质量科学证据，政策制定者就必然理性采纳）的理论失效与经验破产，回应循证政策治理中的“研究—政策鸿沟（[[Research-Policy Gap]]）”与“证据工具化”难题。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]（Mesolevel Analytic Framework）与诊断性评估模型。
-> - **知识位置** 渊源于公共行政学中的循证政策与实践（Evidence-Based Policy and Practice, EBPP）与[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation）学派。由英国政策学者桑德拉·纳特利（Sandra Nutley）、休·戴维斯（Huw T. O. Davies）与伊莎贝尔·沃尔特（Isabel Walter）于 2002 年系统提出（Nutley et al., 2002; Nutley, 2003），在教育政策研究中被[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（Zewelanji N. Serpell）等学者作为指导科研人员精准参与宏观立法的核心分析工具。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
+> - **知识位置** 渊源于公共行政学中的循证政策与实践（[[Evidence-Based Policy-Making|Evidence-Based Policy]] and Practice, EBPP）与[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation）学派。由英国政策学者桑德拉·纳特利（Sandra Nutley）、休·戴维斯（Huw T. O. Davies）与伊莎贝尔·沃尔特（Isabel Walter）于 2002 年系统提出（Nutley et al., 2002; Nutley, 2003），在教育政策研究中被[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（Zewelanji N. Serpell）等学者作为指导科研人员精准参与宏观立法的核心分析工具。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 > [!claim] 核心主张
 > **纳特利证据吸纳四维框架（Nutley's Four-Dimension Framework for Research Uptake）** 认为：政策决策者对学术实证证据的吸纳与利用，绝非仅由研究本身的方法论严谨度或[[Effect Size\|效应量]]大小单向决定，而是由**决策者个人维度（Personal）**、**研究契合度维度（Research Fit）**、**制度情境维度（Contextual）** 以及**政策执行维度（Implementation）** 这四大[[Heterogeneity\|异质性]]力量相互交织、动态博弈的综合产物。研究者若要实现证据的实质性政策转化，必须在这四个维度上同时开展适配性重构与敏捷对齐。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]

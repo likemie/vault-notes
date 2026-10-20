@@ -8,10 +8,10 @@ aliases:
 summary: "当代学业情绪与学习动机的核心认知-评价理论，主张个体对学习活动及其结果的控制感评价与价值感评价是激发和调节成就情绪（如享受、希望、焦虑、无聊等）的决定性认知中介，进而深远影响认知策略、自我调节与学业产出。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 29
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/educational-psychology
   - achievement-emotions
@@ -49,7 +49,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Control-Value Theory
@@ -208,5 +207,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 结合控制-价值理论，实证剖析了生成式 AI 赋能高等教育学习产出的内在机制，证实[[AI Agent in Education\|智能体]]通过提升任务可控性与即时效用价值，显著改善了大学生的[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）并间接促进[[Academic Achievement\|学业成绩]]。

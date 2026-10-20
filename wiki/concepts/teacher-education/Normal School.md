@@ -43,11 +43,11 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Educational Science Communication]]"
   - "[[Learning Styles]]"
+  - "[[Neuromyth]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -231,7 +231,7 @@ updated: 2026-10-20
 > > [!axis] 一次性职前供给终结假设 vs 终身循证[[Knowledge Mobilisation\|知识动员]]
 > > 传统师资培养机制常默认大学职前师范阶段能够一次性赋予教师足以应付整个职业生涯的教学法则，忽视了教育实证证据的快速迭代与情境局限；现代科学传播研究指出，缺乏职后中介对接的职前教育极易导致教师在步入真实课堂后迅速倒退回个人经验直觉与未经检验的教育神话（[[Argument_Besa_2024_UW\|Besa, 2024, pp. 251–252]]）。
 
-> [!critique] 福柯式微观[[Disciplina and Doctrina\|规训]]权力批判
+> [!critique] 福柯式微观规训权力批判
 > 福柯主义教育史学者指出，“师范（Normal）”的本质是近代规训权力（Disciplinary Power）与规范化裁决（Normalising Judgement）的技术机器。师范学校通过时刻表、列队操练、标准化考核与模范行为规训，不仅规训了师范生自身的肉体与认知，更通过他们将这一套规训语法植入全体适龄儿童的心智中，成为现代国家监控与规制国民身体的微观装置。
 
 > [!warning] 制度移植与边界局限
@@ -251,7 +251,7 @@ updated: 2026-10-20
 > | [[Circular Transfer]] | 概念 | 解释师范学校在普鲁士、法国、北美与阿根廷等节点之间发生的非线性转移与本土转化。 |
 > | [[Educational Brokerage Agency]] | 概念 | 现代教师教育体系中连接大学职前培养与在职教师循证实践的核心中介机制。 |
 > | [[Educational Science Communication]] | 概念 | 师范教育由一次性封闭知识传授走向面向教师群体的多向度非线性科学传播。 |
-> | [[Learning Styles|Learning Style Myth]] | 概念 | 职前师范知识时效局限与在岗研究疏离环境下在中小学实践中广为弥散的典型教育神经神话。 |
+> | [[Learning Styles\|Learning Style Myth]] | 概念 | 职前师范知识时效局限与在岗研究疏离环境下在中小学实践中广为弥散的典型[[Neuromyth\|教育神经神话]]。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 强制全法各省设立初等师范学校并由国家设立法定最低薪资保障，奠定法国现代师资建制。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持起草的普鲁士教育法草案，确立省立师范学校专业网络，成为欧美借用的制度蓝本。 |
 > | [[Report on Elementary Public Instruction in Europe]] | 政策事实 | 斯托向俄亥俄州议会提交的[[Education in Europe\|欧洲教育考察报告]]，在全美多州掀起师范学校立法与建制浪潮。 |
@@ -268,7 +268,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统梳理 19 世纪大西洋两岸先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）如何将普鲁士公立师范学校经验转译为母国确立[[State Educational Sovereignty\|国家教育权]]与公学法案的合法化武器。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用[[Relational Space\|关系性空间]]与[[Circular Transfer\|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示大学师范教育职前知识供给的时效半衰期与在岗教师研究接触负荷，论证借助二阶清算中介与大学教师教育者乘数群体实现三阶段教师教育全流程循证[[Knowledge Mobilisation\|知识动员]]的必要性。

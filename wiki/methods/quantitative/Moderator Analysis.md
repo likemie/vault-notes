@@ -7,7 +7,7 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,7 +31,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-regression]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
   - "[[Cochran's Q Test]]"
 related_persons: []
 related_arguments:
@@ -43,7 +42,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -98,7 +97,7 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在三水平[[Meta-analysis\|元分析]]中通过[[Meta-regression\|元回归]]检验[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型（主观 vs 客观）、学段、年龄、地理区域与发表年份对两者相关的调节作用，并检验测量类型交互项（$Q_M(1) = 6.524, p = .011$）。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 以 [[Cochran's Q Test|Q 检验]]比较[[Framework for Teaching|教学框架]]、理论模型、对齐程度、成就测量、时长与学段对[[Epistemic Cognition\|认识论认知]]干预效应的调节作用。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "科技政策与演化经济学中用于区分技术进入环境特征的核心分析概念对；绿地创新指技术进入缺乏庞大存量资产与固定制度网络的全新空白领域（如二战后半导体与互联网），能依托军用性能溢价快速迭代；棕地创新指技术必须嵌入深嵌于强监管、长资产周期与规避风险的存量基础设施网络（如电力与能源大宗商品），无法索取自然性能溢价，高度依赖外部规制与系统级试验"
 type: concept
 domain: "economics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"

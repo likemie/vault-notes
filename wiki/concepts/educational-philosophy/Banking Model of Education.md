@@ -10,10 +10,10 @@ aliases:
 summary: "保罗·弗莱雷提出的经典批判概念，指将学生客体化为被动接受知识存款之空容器的驯化性教育模式；在当代进一步拓展为批判生成式人工智能全流程代劳导致的数字储蓄式教育异化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -53,20 +53,19 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[High-Stakes Testing]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Policy Borrowing]]"
   - "[[Direct Instruction]]"
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Powerful Knowledge]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Hegemony]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -199,7 +198,7 @@ updated: 2026-10-20
 > [!dev-timeline] 储蓄式教育概念的历史流变与当代数智转向
 > - **1968–1972 — 原创提出与解放奠基** [[Paulo Freire|保罗·弗莱雷]]在《被压迫者教育学》中正式界定储蓄式教育（Banking Education），确立[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]）作为对立[[Paradigm|范式]]，成为全球[[Critical Pedagogy|批判教育学]]的奠基性纲领。
 > - **2000s — 课程审查与[[Active Learning|主动学习]]融合** [[Bob Darwish|鲍勃·达维什]]（[[Argument_Darwish_2009_Queens|Darwish, 2009]]）等学者将储蓄式批判引入[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IB DP]]）与主流课程论研究，结合[[John Dewey|杜威]]哲学批判[[High-Stakes Testing|高利害测验]]与标准化应试诱发的储蓄式回潮。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 12–16)]]
-> - **2020s — [[Geopolitics of Knowledge|知识地缘政治]]与殖民性反思** 帕塔肯（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）等学者将储蓄式概念扩展至知识地缘政治分析，剖析跨国[[Forced Knowledge Transfer|强制知识转移]]与新殖民主义[[Policy Borrowing|政策借用]]中的制度化存取机制。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
+> - **2020s — [[Geopolitics of Knowledge|知识地缘政治]]与殖民性反思** 帕塔肯（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）等学者将储蓄式概念扩展至知识[[Geopolitics|地缘政治分析]]，剖析跨国[[Forced Knowledge Transfer|强制知识转移]]与新殖民主义[[Policy Borrowing|政策借用]]中的制度化存取机制。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **2026 — [[Generative Artificial Intelligence|生成式人工智能]]与数字储蓄式异化诊断** 史密斯（[[Argument_Smith_2026_SPE|Smith, 2026]]）将弗莱雷思想与社会[[Epistemology|认识论]]结合，揭示大语言模型全流程代写构成的“数字储蓄式教育”，为重构人机协作中的批判性教学防线确立规范标尺。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
 ---
@@ -216,7 +215,7 @@ updated: 2026-10-20
 > > - **Sweller（2006）** 强调新手认知架构对明确指导与直接教学的不可或缺性。
 > > - **Young（2008）** 提出“强有力的知识（[[Powerful Knowledge]]）”，强调学校的首要责任是传授学科基础系统知识，批判将所有知识传递均污名化为储蓄式灌输的倾向。
 >
-> > [!axis] 技术工具平权论 vs 数字储蓄式教育[[Disciplina and Doctrina|规训]]论
+> > [!axis] 技术工具平权论 vs 数字储蓄式教育规训论
 > > 技术倡导者主张人人享有大模型能抹平教育资源鸿沟；批判哲学家则坚持直接索取算法结论在本质上是剥夺学生求知者成长机会的数智驯化。
 > >
 > > - **Greenhalgh-Spencer（2025）** 认为大模型如同全天候私人家教，赋予边缘群体均等的知识获取机会。

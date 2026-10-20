@@ -26,13 +26,13 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
   - "[[Refined Mastery]]"
+  - "[[Geopolitics]]"
   - "[[Hard Power]]"
   - "[[Institutional Drift]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Leo Szilard]]"
@@ -78,7 +78,7 @@ updated: 2026-10-20
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1882** 出生于美国纽约州海德公园，幼年曾随父母赴德国黑森州巴特瑙海姆求学，熟练掌握德语与欧洲地缘政治动态。
+> - **1882** 出生于美国纽约州海德公园，幼年曾随父母赴德国黑森州巴特瑙海姆求学，熟练掌握德语与欧洲[[Geopolitics|地缘政治]]动态。
 > - **1933** 就任美国总统，全面推行“新政”（New Deal）应对大萧条危机；确立联邦政府对经济复苏、公共工程与劳工保护的主导干预职能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 35)]]
 > - **1935** 签署里程碑式的《社会保障法案》（Social Security Act），确立以缴费型养老与失业保险为骨架的现代美国福利国家制度基础。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 12)]]
 > - **1939-10** 在白宫接见总统顾问亚历山大·萨克斯（Alexander Sachs），亲自审阅爱因斯坦与[[Leo Szilard|西拉德]]联名起草的战略密信，当即决断成立铀顾问委员会（Advisory Committee on Uranium）。

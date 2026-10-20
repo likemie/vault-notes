@@ -8,7 +8,7 @@ summary: "美国著名科技记者、作家与《连线》（Wired）杂志资�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,8 +31,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Counterculture Computing]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Steve Jobs]]"

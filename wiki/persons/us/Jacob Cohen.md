@@ -43,9 +43,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Research Synthesis]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
   - "[[Christof Wecker]]"
   - "[[Gene Glass]]"
@@ -113,7 +113,7 @@ updated: 2026-10-20
 > *Small, medium, and large are relative to the research area and the specific content... they provide a common reference only in the absence of better estimates, not universal substantive criteria.*
 
 > [!citation-card] 效应量作为标准化语言而非价值排序（身高差异隐喻）
-> 特哈特（Ewald Terhart）记录科恩曾用身高差异解释 $d = 1.0$ 的直观含义：若两组平均身高分别约为 160cm 和 183cm，这种差异在视觉上“肉眼可见”。这一生动例子说明，科恩的 $d$ 本质上是一种描述总体分布重叠程度的标准化统计语言，而不是直接对应教育改进价值的优劣排序表。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 427)]]
+> [[Ewald Terhart|特哈特]]（Ewald Terhart）记录科恩曾用身高差异解释 $d = 1.0$ 的直观含义：若两组平均身高分别约为 160cm 和 183cm，这种差异在视觉上“肉眼可见”。这一生动例子说明，科恩的 $d$ 本质上是一种描述总体分布重叠程度的标准化统计语言，而不是直接对应教育改进价值的优劣排序表。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 427)]]
 >
 > *Cohen used height differences to explain the intuitive meaning of d=1.0: two groups with average heights of 160cm and 183cm show a difference visible to the naked eye. This demonstrates that Cohen's d was originally a standardized metric language, not a direct ranking of educational value.*
 
@@ -134,7 +134,7 @@ updated: 2026-10-20
 > - **指标对照者** [[Gene Glass|吉恩·格拉斯]]（Gene Glass） — 格拉斯于 1976 年提出 Glass's $\Delta$（以对照组标准差为除数，容许干预改变实验组方差）；科恩则提出 Cohen's $d$（假定方差齐性，采用合并标准差作除数），二者构成标准化[[Effect Size|效应量]]的两大经典流派。
 > - **修正继承者** 拉里·赫奇斯（Larry Hedges） — 赫奇斯指出 Cohen's $d$ 在小样本下存在轻度高估的系统偏倚，通过引入小样本校正因子 $J \approx 1 - \frac{3}{4(n_E+n_C)-9}$ 发展出无偏估计量 Hedges' $g$。
 > - **转译与误读代表** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将 Cohen's $d$ 推广为全球教育政策畅销书的核心符号，但将其脱离[[Sample Size Determination|样本量]]与具体情境教条化为 0.40 的单一划分线，走向了科恩所反对的机械排序。
-> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、埃瓦尔德·特哈特（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
+> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
 
 ---
 

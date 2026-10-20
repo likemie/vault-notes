@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Welfare-to-Work]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
   - "[[Discourse]]"
@@ -83,7 +84,7 @@ updated: 2026-10-20
 ### 两大旗舰倡议
 
 - [[Innovation Union]] — 构建全[[EU|欧盟]]的[[Innovation Ecosystem|创新生态]]体系，以区域为承载创新活动的基本空间单元
-- [[EU Skills Agenda]] — 结合积极劳动力市场政策（ALMPs）与教育培训，促进技能形成与就业匹配
+- [[EU Skills Agenda]] — 结合[[Welfare-to-Work|积极劳动力市场政策]]（ALMPs）与教育培训，促进技能形成与就业匹配
 
 此外还包括 [[Youth Guarantee Scheme]]，确保青年在离开学校或结束工作后 4 个月内获得就业、教育、培训或学徒机会([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])。
 
@@ -109,7 +110,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 > - **顶层设计** [[EU|欧盟]]委员会和欧盟理事会发布建议书和战略通讯，设定总体目标和基准
 > - **监测与排名** EUROSTAT 通过 NUTS2 区域指标体系监测各成员国和区域的进展，发布可比较的排名
 > - **多层协调** 成员国和区域政府被鼓励建立来自政府、企业、非营利和公民社会的多元利益相关方网络。详见 [[Network Governance]] 中欧盟部分
-> - **财政杠杆** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）为培训和积极劳动力市场政策提供资金支持
+> - **财政杠杆** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）为培训和[[Welfare-to-Work|积极劳动力市场政策]]提供资金支持
 
 ## 效果与评价
 

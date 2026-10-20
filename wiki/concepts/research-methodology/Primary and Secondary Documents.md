@@ -15,10 +15,10 @@ aliases:
 summary: "一手文献是由事件目击者直接记录或原始实证研究生成的文献，二手文献是通过对一手文献的分析、改写或综合形成的阐述。在循证教育中，一手与二手文献在理解门槛、信息保真度与实践转化效能上呈现出显著的方法学差异。"
 type: concept
 domain: "research-methodology"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/research-methodology
   - method/historical-research
@@ -60,7 +60,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Gorard]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Primary and Secondary Documents
@@ -206,7 +205,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 系统检验证据利用中一手原始文献与二手改写文本的实证成效，揭示直接研读一手文献的致命变异与二手改写的被动失效，提出[[Engineered Evidence\|证据工程化]]出路。
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 探讨[[Research Learning Communities\|研究学习共同体]]（RLC）中大学研究者为教师提供二手转译简报的运行机制与现实合理性。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 系统阐述教育研究中一手与二手文献的界定、分类及[[Literature Review\|文献综述]]检索方法。

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Stephen P. Heyneman
@@ -160,7 +160,7 @@ updated: 2026-10-17
 > > [!axis] 多边机构决策属性：单一新自由主义霸权 vs 内部多元撕裂与官僚博弈
 > > 围绕[[World Bank|世界银行]]教育政策决策机制究竟是由统一的新自由主义意识形态机械支配，还是充满内部[[Heterogeneity|异质性]]与官僚政治博弈。
 > >
-> > - **外部世界体系批判视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 将世界银行定性为推行跨国资本积累、制造[[Conditioned State Theory|受限国家]]依附地位的整齐划一的外部[[Disciplina and Doctrina|规训]]机器。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+> > - **外部世界体系批判视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 将世界银行定性为推行跨国资本积累、制造[[Conditioned State Theory|受限国家]]依附地位的整齐划一的外部规训机器。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 > > - **圈内制度分析视角（Heyneman, 2003; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 指出世行专业官员来自全球顶尖大学，热衷于理论辩论且绝非思维同质化的军队；1990 年代初教育一线专家与行方管理层曾爆发激烈教条冲突，政策扭曲更多源于高层管理教条与微观执行合规异化，而非抽象的外部资本阴谋。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 
 ---

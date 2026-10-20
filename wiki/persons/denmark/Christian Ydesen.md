@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "denmark"
 person_region: "denmark"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[High-Stakes Testing]]"
+  - "[[Geopolitics]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Education-for-Mandates]]"
@@ -37,7 +38,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Determinism]]"
   - "[[Network Governance]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Creativity]]"
   - "[[Strategic Compliance]]"
   - "[[Soft Power]]"
@@ -47,7 +47,6 @@ related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Christian Ydesen
@@ -115,7 +114,7 @@ updated: 2026-10-19
 > - **2019–2022 — [[Global Education Governing Complex\|全球教育治理复合体]]的历史制度化** 聚焦战后[[OECD\|经合组织]]（OECD）如何从冷战经济协调机构逐步转变为拥有无上规制权力的跨国[[Performance Indicators\|教育指标]]帝国。
 >   - **代表著作** *The OECD's Historical Rise In Education: The Formation of a Global Governing Complex* (Palgrave Macmillan, 2019)。
 >   - **关键概念／方法** [[Global Education Governing Complex]]、[[International Indicators of Education Systems]]、[[PISA]]。
->   - **阶段转向** 拓展至 [[UNESCO]]、OECD 与[[World Bank\|世界银行]]三大国际组织之间的三角竞合格局与地缘政治经济分析。
+>   - **阶段转向** 拓展至 [[UNESCO]]、OECD 与[[World Bank\|世界银行]]三大国际组织之间的三角竞合格局与[[Geopolitics|地缘政治]]经济分析。
 > - **2023年至今 — 多边治理体系的权力网络与[[Governing by Numbers\|数字治理]] 2.0** 深化对跨国[[Policy Brokerage\|政策中介]]、[[Educational Brokerage Agency\|知识经纪]]与[[Soft Power by Hard Facts\|以硬事实施展软权力]]机制的批判性研究。
 >   - **代表著作** *Global Governance of Education* (Springer, 2023); *Governance by numbers 2.0* (Comparative Education, 2024)。
 >   - **关键概念／方法** [[Policy Brokerage]]、[[Soft Power by Hard Facts]]、[[Education-for-Mandates]]、[[Façade of Rationality]]。
@@ -143,8 +142,8 @@ updated: 2026-10-19
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第三作者，主导历史制度演进与地缘政治脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 在[[Sociology of Measurement\|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems\|INES]] 指标历史档案形成紧密互证。
 
 ---
@@ -171,7 +170,7 @@ updated: 2026-10-19
 > > - **网络治理派学者** 认为跨国指标扩散更多是高度分权、去中心化的跨国专家网络自发协作的产物，而非少数多边机构处心积虑的帝国扩张。
 > > - **Ydesen and Grek（2019）** 依托详实解密档案证实，冷战对抗与财政自保需求始终是 [[OECD]] 领导层主动制定战略转型议程的根本驱动力。
 >
-> > [!axis] 全球南方的主体能动性：完全[[Disciplina and Doctrina\|规训]] vs [[Creativity\|创造性]]抵制
+> > [!axis] 全球南方的主体能动性：完全规训 vs [[Creativity\|创造性]]抵制
 > > 争论全球治理复合体是否低估了广大发展中国家对西方指标体系的本土转译与抵抗能力。
 > >
 > > - **后殖民批判学者** 指出许多受援国官员在实践中对[[World Bank\|世行]]与 OECD 指标采取了象征性合规（Mock [[Strategic Compliance|compliance]]）策略。

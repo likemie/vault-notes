@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,7 +17,6 @@ tags:
   - theme/educational-governance
   - paradigm/critical
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Falling Standards Template
@@ -59,7 +58,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 水平下降模板（Falling Standards Template）指大众新闻媒体在报道学校教育、考试成绩及大规模学生评估结果时，惯常套用的一种高度可预测、仪式化且严重简化的叙事框架（Warmington & Murphy, 2004, 2007）。在这一框架[[Disciplina and Doctrina\|规训]]下，无论客观实证数据表现为历时平稳还是细微波动，媒体均本能地将其重构为“国家教育水平全面滑坡”、“公立学校陷入制度性瘫痪”以及“年轻一代在国际竞争中被对手甩开”的失败者叙事，从而成为大众传媒建构教育危机、引导公众集体焦虑的常规[[Discourse|话语]]技术（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
+> 水平下降模板（Falling Standards Template）指大众新闻媒体在报道学校教育、考试成绩及大规模学生评估结果时，惯常套用的一种高度可预测、仪式化且严重简化的叙事框架（Warmington & Murphy, 2004, 2007）。在这一框架规训下，无论客观实证数据表现为历时平稳还是细微波动，媒体均本能地将其重构为“国家教育水平全面滑坡”、“公立学校陷入制度性瘫痪”以及“年轻一代在国际竞争中被对手甩开”的失败者叙事，从而成为大众传媒建构教育危机、引导公众集体焦虑的常规[[Discourse|话语]]技术（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向新闻生产中长期积淀、代代相传的负面叙事模具，用于将复杂的教育[[Causality\|因果关系]]还原为单一的“水准下降”。
@@ -110,7 +109,7 @@ updated: 2026-10-16
 > 探讨大众媒介如何依靠长期固化的文化叙事模板，完全脱离实证数据本身的历时表现，独立建构出虚假的公共危机。
 
 > [!claim] Warmington & Murphy; Baroutsis
-> **教育新闻的负面仪式化本能** 大众媒体对教育的公共叙述本质上是惩戒性、[[Disciplina and Doctrina\|规训]]性与还原论的；在媒介生态中，教育的“正常运作”或“稳步维持”不具备新闻价值，唯有“危机”、“退化”与“失范”方能构成卖点，水平下降模板正是维系媒体商业利益与公众注意力黏性的核心装置。
+> **教育新闻的负面仪式化本能** 大众媒体对教育的公共叙述本质上是惩戒性、规训性与还原论的；在媒介生态中，教育的“正常运作”或“稳步维持”不具备新闻价值，唯有“危机”、“退化”与“失范”方能构成卖点，水平下降模板正是维系媒体商业利益与公众注意力黏性的核心装置。
 
 > [!claim] Grey & Morris
 > **平稳数据在英格兰的模板化再造** 实证数据显示，英格兰在 2006 至 2012 年 [[PISA]] 中的数学与阅读历时极其平稳，科学成绩显著超越 [[OECD]] 平均，社会经济劣势生比例仅 6%（远优于经合组织均值 15%）；然而在结果公布当日，无论《每日邮报》、《泰晤士报》还是 BBC，几乎全部头条均一致套用水平下降模板，使用“停滞不前”、“被甩在身后”等戏剧性词汇，将平稳事实生硬锻造成惊天丑闻。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 120–122)]]

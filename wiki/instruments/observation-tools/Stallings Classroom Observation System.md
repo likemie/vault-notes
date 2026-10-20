@@ -9,9 +9,9 @@ aliases:
 summary: "由简·斯托林斯研发、后经世界银行在拉美和非洲广泛标准化推广的低推论课堂观察系统，通过在一堂课中均匀抽取十次瞬时定格快照，精确记录教师与学生的教学互动类型、材料使用以及任务在轨时间百分比，主要用于评估发展中国家课堂时间利用效率、师生缺勤离轨损耗及基础教学常规落实情况。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 10
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 9
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -37,7 +37,6 @@ related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Time Sampling]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

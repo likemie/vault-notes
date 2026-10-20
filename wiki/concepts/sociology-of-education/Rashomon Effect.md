@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Fieldwork]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Gove]]"
 related_facts:
@@ -60,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rashomon Effect
@@ -214,7 +213,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 将罗生门效应系统引入教育研究方法论，阐释复杂情境下[[Action Narratives\|行动叙事]]的多样性与因果路径的非线性特征。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 运用罗生门效应框架深度剖析英格兰对 [[PISA]] 2012 评估数据的传播与再阐释，揭示国际组织、执政政客与大众媒体如何凭借自身逻辑生产出三重相互抵触的“政策真实”。
 

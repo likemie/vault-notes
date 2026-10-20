@@ -7,10 +7,10 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - learning-science
   - instructional-design
@@ -46,7 +46,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Productive Failure
@@ -282,5 +281,5 @@ updated: 2026-10-16
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 援引 Kapur（2016）、Schwartz and Bransford（1998）等研究，将生产性失败与未来学习准备视为探究与[[Direct Instruction\|直接教学]]的时序协同，并以延迟测试说明其长效优势。

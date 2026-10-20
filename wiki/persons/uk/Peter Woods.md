@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Decodification]]"
   - "[[Reflexivity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Self-control]]"
   - "[[Construct]]"
   - "[[Interpretivism]]"
@@ -42,7 +41,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Participant Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peter Woods
@@ -104,7 +102,7 @@ updated: 2026-10-16
 > *Human beings act towards things on the basis of the meanings they have for them; meanings are handled in, and modified through, an interpretive process used by the person in dealing with the things he encounters; and individuals act within social situations where meanings are continuously defined and negotiated through role-taking. (Woods, 1979)*
 
 > [!citation-card] 伍兹论课堂师生的微观生存策略与意义协商
-> 在学校日常生活中，行动者并非被动承受规则[[Disciplina and Doctrina\|规训]]的木偶，而是策略性的行动者。教师与学生在制度性压力与互动空间中，持续生产出生存策略——无论是学生的无聊、打趣、胡闹还是结成同盟，都是在微观情境中争夺[[Self-control\|自我控制]]权与意义定义权的实践表达。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
+> 在学校日常生活中，行动者并非被动承受规则规训的木偶，而是策略性的行动者。教师与学生在制度性压力与互动空间中，持续生产出生存策略——无论是学生的无聊、打趣、胡闹还是结成同盟，都是在微观情境中争夺[[Self-control\|自我控制]]权与意义定义权的实践表达。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
 >
 > *Pupils and teachers in schools develop complex systems of survival strategies. Actions such as 'being bored', 'having a laugh' or 'mucking about' are not merely disruptive deviance, but creative adaptations through which participants protect their identities, negotiate the [[Thomas Theorem\|Definition of the Situation]], and [[Construct]] meaningful micro-social worlds within institutional constraints. (Woods, 1983)*
 
@@ -117,7 +115,7 @@ updated: 2026-10-16
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为编码系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用伍兹阐发的符号互动论三大公设、课堂微观生存策略与以互动为单位的方法论纲领。
 
 ---

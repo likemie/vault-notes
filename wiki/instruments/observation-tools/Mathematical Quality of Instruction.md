@@ -9,9 +9,9 @@ aliases:
 summary: "由希瑟·希尔等人研发的针对中小学数学教学的专门性外部课堂观察工具，系统解构课堂教学中的数学内容丰富性、学生与数学互动、概念错误与不严谨表述以及学生参与意义建构的深度，通过分段微格量规评估教师学科教学知识在课堂实践中的真实转化质量。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 10
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 9
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

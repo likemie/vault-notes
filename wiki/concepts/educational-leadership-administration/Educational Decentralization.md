@@ -30,6 +30,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
+  - "[[Discursive Field]]"
   - "[[Champ]]"
   - "[[Visible Learning]]"
   - "[[Bureaucracy]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
   - "[[Critical Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jason Beech]]"
@@ -165,7 +165,7 @@ updated: 2026-10-20
 > 探讨国际多边组织如何通过成套捆绑分权与质量监控模型垄断借款国政策空间，以及该抽象模型遭遇本土脆弱制度土壤时诱发的异化后果。
 
 > [!claim] Beech (2005); [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
-> **全球模型双重垄断与微观再情境化脱节** [[Jason Beech|杰森·比奇]]指出，[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]在 20 世纪 80–90 年代共同构建的面向信息时代普遍模型中，将行政分权与[[School Autonomy|学校自主权]]列为首要支柱，并将其与中央质量评估刚性捆绑。国际机构通过垄断危机定义权与改革方案权，严重收缩了发展中国家探索替代性道路的话语空间；然而在阿根廷与巴西落地时，这一去情境化模型遭遇严重微观脱节：在阿根廷，学校课程分权由于师资培训缺乏，一线教师陷入备课恐慌并集体翻抄商业教辅图书目录；而在巴西，分权化的教师实训政策引发了行政体系的深度瘫痪。抽象的分权与赋权模型无法取代具体的本土制度建设，必然在再情境化过程中发生异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
+> **全球模型双重垄断与微观再情境化脱节** [[Jason Beech|杰森·比奇]]指出，[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]在 20 世纪 80–90 年代共同构建的面向信息时代普遍模型中，将行政分权与[[School Autonomy|学校自主权]]列为首要支柱，并将其与中央质量评估刚性捆绑。国际机构通过垄断危机定义权与改革方案权，严重收缩了发展中国家探索替代性道路的[[Discursive Field|话语空间]]；然而在阿根廷与巴西落地时，这一去情境化模型遭遇严重微观脱节：在阿根廷，学校课程分权由于师资培训缺乏，一线教师陷入备课恐慌并集体翻抄商业教辅图书目录；而在巴西，分权化的教师实训政策引发了行政体系的深度瘫痪。抽象的分权与赋权模型无法取代具体的本土制度建设，必然在再情境化过程中发生异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
 
 ---
 

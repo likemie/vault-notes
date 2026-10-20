@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
+  - "[[South-South Cooperation]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
   - "[[Policy Brokerage]]"
@@ -35,7 +36,6 @@ related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -113,7 +113,7 @@ updated: 2026-10-20
 > [!finding-cards] 关键成效与制度反思
 > - **揭示去中心化知识承诺的脆弱性** GDN 的兴衰历程成为比较教育学与国际关系学中审视国际组织知识政治的经典教材，生动揭示了多边银行在修辞上宣扬“本土自主”与在实践中厉行“总部集权”的深刻结构性矛盾。
 > - **实证本土专家的工具化降格** Steiner-Khamsi 等（2024）深刻指出，GDN 的边缘化标志着世界银行最终放弃了真正扶植国别自主[[Knowledge Production\|知识生产]]的尝试；大型跨国指标体系牢牢掌控在华盛顿精英手中，发展中国家学者沦为仅仅负责采集基线数据和翻译本土政策语篇的廉价技术劳动力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
-> - **维系南南学术对话微弱网络** 尽管失去了世行核心业务的依托，GDN 依托其独立法人的韧性，在亚太、非洲与拉美青年学者之间依然搭建起跨区域的南南合作学术网络。
+> - **维系南南学术对话微弱网络** 尽管失去了世行核心业务的依托，GDN 依托其独立法人的韧性，在亚太、非洲与拉美青年学者之间依然搭建起跨区域的[[South-South Cooperation|南南合作]]学术网络。
 
 > [!stat-cards]- 核心规模数据
 > - **1999** 在世界银行主导下于德国波恩正式发起成立。（p.543）
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 详析[[World Bank\|世界银行]] GDN 从 1999 年去中心化承诺走向被总部集权项目（如 [[Systems Approach for Better Education Results\|SABER]]）边缘化的演变历程，揭示本土专家被降格为填报工具的实证事实。
 
 ---

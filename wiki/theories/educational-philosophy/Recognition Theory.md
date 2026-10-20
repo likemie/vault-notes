@@ -9,7 +9,7 @@ aliases:
 summary: "由法兰克福学派第三代核心学者阿克塞尔·霍耐特提出，主张人类健全人格与能动主体性深植于爱、权利与社会尊严三位一体的主体间相互承认之中，否定或剥夺承认将导致社会异化与物化，为批判当代量化教育规训对师生主体意向性的消解提供了规范哲学基础"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 38
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Ontology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Pride in Learning]]"
   - "[[Pedagogical Subject]]"
   - "[[Visible Learning]]"
@@ -52,7 +51,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Effect Size]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -103,7 +101,7 @@ updated: 2026-10-20
 > - **1996 — 三位一体承认框架确立** 霍耐特系统建构爱（初级关系中的情感接纳）、权利（法律体系中的平等人格）与社会尊严（共同体中的价值肯定）三维图谱，奠定承认理论总论。
 > - **2003 — 弗雷泽—霍耐特“再分配还是承认”世纪大辩论** 南希·弗雷泽（Nancy Fraser）主张将经济正义（再分配）与文化正义（承认）并列为二元透镜；霍耐特坚守“一元承认”立场，论证经济分配本质上由社会对特定劳动的文化评价与道德承认所决定。
 > - **2008 — 物化概念的承认理论重构** 霍耐特将卢卡奇的马克思主义“物化”概念重构为“对承认的遗忘（forgetfulness of recognition）”，指出当制度只把人当成技术参数与因果工具时，便发生了系统性的物化。
-> - **2016/2021 — 教育心理学与可见学习批判** 尼尔森（[[Klaus Nielsen]], 2016）与尼尔森、克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]], [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将霍耐特承认理论系统引入教育领域，揭示[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）实证综合抹杀师生[[Intentionality|主体意向性]]、消解主体间相互承认的[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]本质。
+> - **2016/2021 — 教育心理学与可见学习批判** 尼尔森（[[Klaus Nielsen]], 2016）与尼尔森、克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]], [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将霍耐特承认理论系统引入教育领域，揭示[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）实证综合抹杀师生[[Intentionality|主体意向性]]、消解主体间相互承认的[[Neo-Taylorism|新泰勒主义]]规训本质。
 
 ---
 
@@ -156,7 +154,7 @@ updated: 2026-10-20
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 某项教育政策、学校[[Disciplina and Doctrina|规训]]制度、课堂反馈模式或数字化监测系统在何种程度上保障或剥夺了师生的主体承认？技术化改革是否导致了学校生活世界中师生主体性的物化与异化？
+> - **[[Research Question|研究问题]]** 某项教育政策、学校规训制度、课堂反馈模式或数字化监测系统在何种程度上保障或剥夺了师生的主体承认？技术化改革是否导致了学校生活世界中师生主体性的物化与异化？
 > - **分析对象与单位** 包含学校师生互动言语[[Transcription in Qualitative Research|转录]]、学生在校生活反思日记、教师工会申诉档案、学校考核奖惩细则与督导评语。
 > - **需要的材料** 课堂[[In-depth Interview|深度访谈]]记录、制度规章文本、[[Classroom Observation|教学观察]]实录、学生心理认同感调查。
 > - **解释目标** 穿透技术效率中立说辞，辨识教育改革对主体自信、自尊与社会价值感的支持或损害，提出重构相互承认与民主对话的替代制度路径。
@@ -197,7 +195,7 @@ updated: 2026-10-20
 > > 争论大规模循证测量能否脱离承认哲学而独立存在。
 > >
 > > - **量化教学学者（Hattie, 2009）** 主张科学研究只应聚焦于可操作的[[Effect Size|效应量]]提升，价值规范探讨属于无关的哲学思辨。
-> > - **批判哲学学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 论断脱离主体承认与[[Intentionality|意向性]]的技术控制必然沦为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具，其虚假的客观性以牺牲人类尊严为代价。
+> > - **批判哲学学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 论断脱离主体承认与[[Intentionality|意向性]]的技术控制必然沦为[[Neo-Taylorism|新泰勒主义]]规训工具，其虚假的客观性以牺牲人类尊严为代价。
 
 ---
 

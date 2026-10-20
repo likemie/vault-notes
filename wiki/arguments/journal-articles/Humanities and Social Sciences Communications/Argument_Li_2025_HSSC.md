@@ -40,6 +40,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
   - "[[Academic Achievement]]"
@@ -91,14 +92,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -234,7 +235,7 @@ issuing_organization: ""
 > - **加强国际合作**
 >   南锥体国家（阿根廷、智利、乌拉圭）通过实施 PISA and OECD 建立联系，将国内教育事务纳入国家经济政策和国际事务议程，帮助国家成为可持续发展全球治理复合体的一部分（Acosta, 2020）。
 > - **推动[[Evidence-Based Education\|循证教育]]政策**
->   日本、德国和约旦在 PISA 影响下建立了循证政策制定的新治理模式：教育政策制定不再仅关注原则实现，而是融入了数据驱动的决策[[Paradigm\|范式]]（Yore et al., 2010）。
+>   日本、德国和约旦在 PISA 影响下建立了[[Evidence-Based Policy-Making|循证政策制定]]的新治理模式：教育政策制定不再仅关注原则实现，而是融入了数据驱动的决策[[Paradigm\|范式]]（Yore et al., 2010）。
 
 > [!case] 案例 1：德国 PISA 冲击
 > 德国是 PISA 直接政策影响最突出的案例（详见专门事实条目：[[PISA Shock in Germany]]）。Niemann et al.（2017）详细分析了 2000 年 PISA 结果公布后德国的政策回应和辩论：第一次 PISA 显示德国教育体系在有效性和效率上未达到要求的标准，暴露了与高表现国家之间的巨大差距，同时也暴露了教育改革停滞的状态。PISA 结果直接推动了三项产出导向（output-based）改革规范：

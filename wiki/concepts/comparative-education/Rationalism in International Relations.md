@@ -8,10 +8,10 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -24,12 +24,12 @@ tags:
   - theme/governance
   - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Avatar]]"
   - "[[Epistemology]]"
   - "[[Revolutionism]]"
   - "[[Realism in International Relations]]"
   - "[[International Mind]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
   - "[[Network Governance]]"
   - "[[Relational Space]]"
@@ -46,8 +46,7 @@ related_theories:
   - "[[Governing at a Distance]]"
   - "[[Actor-Network Theory]]"
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Saul B. Robinsohn]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rationalism in International Relations
@@ -72,7 +71,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 理性主义（Rationalism，亦称格劳秀斯传统 Grotian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的建制与合作维度。它承认地缘政治的无政府状态，本能地主张通过多边主义、法律与契约可以予以有效缓和。它将国际社会视为一个“真实的、但存在制度缺陷的社会”（a true society, but institutionally deficient），其运作依赖于国家间的交往规则与制度性合作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
+> 理性主义（Rationalism，亦称格劳秀斯传统 Grotian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的建制与合作维度。它承认[[Geopolitics|地缘政治]]的无政府状态，本能地主张通过多边主义、法律与契约可以予以有效缓和。它将国际社会视为一个“真实的、但存在制度缺陷的社会”（a true society, but institutionally deficient），其运作依赖于国家间的交往规则与制度性合作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 认为国家间关系是一场包含冲突与合作的复杂博弈，主张通过创立多边规范、契约约束和理性协调来缓和冲突并维持和平。
@@ -104,7 +103,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **和平政治与[[International Mind\|国际心智]]培育（Peace Politics & International Understanding）** 比较教育被构想为消解民族利己主义、消除历史教科书偏见、促进跨国合作与培育“国际心智”的和平工具，其早期实证表现为国际联盟智力合作组织（IIIC）的工作。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–424]])
-> - **[[Governing at a Distance\|远处治理]]与中立数据技术（Benchmarking & Governing at a Distance）** 在冷战后将比较教育塑造为一种“治理模式”。多边组织（如 [[OECD]]）借助大数据、评估框架与基准测试（benchmarking），在“科学客观性”的外衣下行使远处[[Disciplina and Doctrina\|规训]]，推动各国教育系统向效率指标渐进趋同。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> - **[[Governing at a Distance\|远处治理]]与中立数据技术（Benchmarking & Governing at a Distance）** 在冷战后将比较教育塑造为一种“治理模式”。多边组织（如 [[OECD]]）借助大数据、评估框架与基准测试（benchmarking），在“科学客观性”的外衣下行使远处规训，推动各国教育系统向效率指标渐进趋同。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **多元[[Policy Mobility\|政策流动]]的网格化分析（[[Network Governance]] & [[Relational Space]]）** 突破单一国家的物理边界，使用[[Actor-Network Theory\|行动者网络理论]]（ANT），透视[[Policy Entrepreneur\|政策企业家]]、NGO、跨国企业与主权国家在“政策景观”（policyscapes）和“流动[[Discourse|话语]]”中的多维共谋与标准化对齐。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 > [!logic-map]- 要素关系
@@ -131,7 +130,7 @@ updated: 2026-10-16
 
 ### 命题二　新自由主义全球化下，比较教育转化为由大数据基准驱动的“远处治理”中介
 
-> [!concept-lens] [[Disciplina and Doctrina|规训]]权力与科学客观性
+> [!concept-lens] 规训权力与科学客观性
 > 这一命题解析为何看似[[Value Neutrality|价值中立]]的数据测试会成为强效的跨国行政干预武器。
 
 > [!claim] [[António Nóvoa|Nóvoa, A.]] & Yariv-Mashal, A.
@@ -161,7 +160,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了理性主义如何将比较教育塑造成以权威与[[Disciplina and Doctrina\|规训]]为驱动力的国际理解与软性数据[[Governing at a Distance\|远处治理]]事业。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了理性主义如何将比较教育塑造成以权威与规训为驱动力的国际理解与软性数据[[Governing at a Distance\|远处治理]]事业。
 > - [[International Mind]] (国际心智) — 理性主义在两战期间通过教科书去刻板化修编而展开的跨国精神培育目标。
 > - Governing at a Distance (远处治理) — [[OECD\|经合组织]]（OECD/[[PISA]]）为代表的、理性主义在当代的最核心科学绩效治理机制。

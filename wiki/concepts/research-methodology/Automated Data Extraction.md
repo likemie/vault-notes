@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Research Synthesis]]"
   - "[[Random Sampling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Automated Data Extraction
@@ -197,6 +196,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 系统评估大语言模型在 156 项教育[[Meta-analysis\|元分析]]中提取统计数据的准确性，确立大模型达到人类专家水平，并提出基于有意义人类控制的混合验证工作流。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Creativity\|创造力]][[Meta-meta-analysis\|二阶元分析]]研究，采用人工双人背对背编码提取 52 项一阶元分析数据。

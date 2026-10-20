@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -44,8 +44,7 @@ related_facts:
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-05

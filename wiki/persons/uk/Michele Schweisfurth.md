@@ -6,10 +6,10 @@ summary: "格拉斯哥大学比较与国际教育学教授，以以学生为中�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1965"
 died: ""
 lifespan: "1965–至今"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Michele Schweisfurth
 
@@ -89,7 +88,7 @@ updated: 2026-10-16
 > - **理论路径** — 为全球 [[Learner-Centred Education\|LCE]] 比较研究确立了从“西方民主理想”到“语境最低标准”的[[Analytic Framework\|分析框架]]。
 > - **跨国／跨领域传播** — 其观点广泛应用于中低收入国家与东亚高压应试地区的教学法移植研究[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 对话 Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
 
 ---

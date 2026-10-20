@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -64,7 +63,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reliable Epistemic Processes
@@ -218,7 +217,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes\|因果过程]]及其在[[Epistemic Cognition\|认识论认知]]中的基础地位。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证检验了显性讲授可靠过程规程对突破非结构化探究瓶颈的因果促进作用，为可靠[[Epistemology\|认识论]]过程的可教性提供了大样本元分析证据。

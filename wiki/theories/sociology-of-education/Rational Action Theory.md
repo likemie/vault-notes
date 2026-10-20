@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 38
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"

@@ -10,7 +10,7 @@ aliases:
 summary: "指由私营市场基于商业竞争自主研发并公开发售的标准化成熟产品或软件服务；在现代防务创新与科技政策中，COTS 采购模式作为打破传统军工科层制定制采购垄断、解决软硬件开发迟滞并加速前沿民用技术向国家硬实力转化的关键制度工具。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Demand-side Innovation Policy]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

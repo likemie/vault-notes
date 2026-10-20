@@ -21,6 +21,7 @@ tags:
   - industrial-policy
   - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
   - "[[Innovation Hub]]"
@@ -47,7 +48,6 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Porter]]"
@@ -75,7 +75,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **国家竞争优势（National Competitive Advantage）** 是由[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）在《国家竞争优势》（*The Competitive Advantage of Nations*）中提出的战略管理与经济地理学核心概念。该理论主张：一国在特定高端产业中的全球竞争优势并非源于先天禀赋的宏观生产要素（如廉价劳动力或自然资源），而是通过高度本地化的生产、制度与创新过程被“创造与维持”的——国家独特的制度环境、产业集群、有效国内竞争与苛刻的本土需求深刻决定了产业生产率的持续提升能力。波特提出了著名的全球化悖论：“虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要”。在当代地缘政治与现代产业战略语境下，国家竞争优势不仅被批判性地理学家解析为推动[[Knowledge-Based Economization|知识经济化]]与区域[[Spatial Sortings|空间分化]]的“地缘政治想象”，更成为指导大国动用直接补贴、公共采购与护栏机制主动重构战略供应链与科技主权的政策基石。(Porter, 1990; 引自 [[Argument_Moisio_2022_Springer|Moisio, 2022, pp. 26–27]]); [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
+> **国家竞争优势（National Competitive Advantage）** 是由[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）在《国家竞争优势》（*The Competitive Advantage of Nations*）中提出的战略管理与经济地理学核心概念。该理论主张：一国在特定高端产业中的全球竞争优势并非源于先天禀赋的宏观生产要素（如廉价劳动力或自然资源），而是通过高度本地化的生产、制度与创新过程被“创造与维持”的——国家独特的制度环境、产业集群、有效国内竞争与苛刻的本土需求深刻决定了产业生产率的持续提升能力。波特提出了著名的全球化悖论：“虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要”。在当代[[Geopolitics|地缘政治]]与现代产业战略语境下，国家竞争优势不仅被批判性地理学家解析为推动[[Knowledge-Based Economization|知识经济化]]与区域[[Spatial Sortings|空间分化]]的“地缘政治想象”，更成为指导大国动用直接补贴、公共采购与护栏机制主动重构战略供应链与科技主权的政策基石。(Porter, 1990; 引自 [[Argument_Moisio_2022_Springer|Moisio, 2022, pp. 26–27]]); [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
 
 > [!concept-lens] 概念透镜
 > - **微观企业与集群视阈** 强调企业生产率的持续提升依赖于稠密的地理集聚网络、上游专业供应商配套以及高强度的本地对手良性竞争。
@@ -116,7 +116,7 @@ updated: 2026-10-20
 > - **本地化产业集群与相关支持产业（Related and Supporting Industries）** 具有国际竞争力的上游设备与材料供应商，与下游制造企业形成高频互动与信任网络，实现工艺排障与创新的快速外溢。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 27–28)]]
 > - **苛刻且前瞻的本土需求条件（Demand Conditions）** 国内消费者或公共采购对产品性能、绿色低碳与安全标准的极高要求，倒逼本土企业沿学习曲线快速演进并抢占全球技术制高点。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **有效的国内竞争与企业战略（Firm Strategy, Structure, and Rivalry）** 强劲的国内同业竞争迫使企业不断进行研发创新与成本优化，防止出现受国家庇护的低效垄断者；这正是 21 世纪[[Modern Industrial Policy|现代产业政策]]强调维持部门内竞争而非扶植单一冠军的理论根源。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 3–4)]]
-> - **作为地缘政治想象的构成性功能（Geopolitical Imaginary）** 国家竞争优势理论超越了管理学范畴，成为一种规范政策制定者认知、合法化国家资源向重点“[[Innovation Hub|创新枢纽]]与先进制程超级工厂”倾斜的顶层叙事。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–29)]]
+> - **作为[[Geopolitics|地缘政治]]想象的构成性功能（Geopolitical Imaginary）** 国家竞争优势理论超越了管理学范畴，成为一种规范政策制定者认知、合法化国家资源向重点“[[Innovation Hub|创新枢纽]]与先进制程超级工厂”倾斜的顶层叙事。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–29)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-20
 > 剖析竞争力[[Discourse|话语]]如何被国家权力工具化，用于重构领土政策与调动国家认同。
 
 > [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]
-> **地缘政治想象与空间极化机制** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）指出，波特的国家竞争优势理论在本质上扮演了具有“构成性与履行性角色”的地缘政治想象。政策制定者将国家竞争叙事与领土空间绑定，催生了[[Economic Patriotism|经济爱国主义]]（Economic Patriotism），并将巨额公共财政与科技资源优先注入特定的“国家冠军城市”、超级[[Innovation Park|创新园区]]与核心枢纽（[[Hub and Flow Imaginaries|Hub and Flow Imaginaries]]），从而引发了被选中的[[Innovation Hub|创新枢纽]]与边缘区域之间深刻的空间极化。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
+> **[[Geopolitics|地缘政治]]想象与空间极化机制** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）指出，波特的国家竞争优势理论在本质上扮演了具有“构成性与履行性角色”的地缘政治想象。政策制定者将国家竞争叙事与领土空间绑定，催生了[[Economic Patriotism|经济爱国主义]]（Economic Patriotism），并将巨额公共财政与科技资源优先注入特定的“国家冠军城市”、超级[[Innovation Park|创新园区]]与核心枢纽（[[Hub and Flow Imaginaries|Hub and Flow Imaginaries]]），从而引发了被选中的[[Innovation Hub|创新枢纽]]与边缘区域之间深刻的空间极化。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-20
 > [!dev-timeline] 国家竞争优势理论演进历程
 > - **1990 年 — 《国家竞争优势》出版与钻石模型确立** [[Michael Porter|迈克尔·波特]]出版奠基巨著，提出由要素条件、需求条件、相关支持产业与企业战略构成的“钻石模型”，开创战略管理与经济地理学新[[Paradigm|范式]]。
 > - **1990 年代中后期 — 经济地理学空间化与区域集群热潮** 斯托珀（Storper）与斯科特（Scott）等学者将波特理论应用于[[Post-Fordism|后福特主义]]区域[[Network Analysis|网络分析]]，推动了全球范围内以高科技集群、创业城市与“[[Innovation Hub|创新枢纽]]”为导向的城市空间政策。
-> - **2010 年代 — [[Critical Geopolitics|批判地缘政治学]]转向与[[Knowledge-Based Economization|知识经济化]]解析** 莫伊西奥等学者将波特理论解构为推动知识经济化与空间极化的核心地缘政治想象，批判其诱发的区域间发展断裂。
+> - **2010 年代 — [[Critical Geopolitics|批判地缘政治学]]转向与[[Knowledge-Based Economization|知识经济化]]解析** 莫伊西奥等学者将波特理论解构为推动知识经济化与空间极化的核心[[Geopolitics|地缘政治]]想象，批判其诱发的区域间发展断裂。
 > - **2020 年代至今 — 现代产业战略与大国地缘科技竞争重塑** 在全球大国科技竞争与供应链断链危机下，美欧等主要经济体通过直接立法干预（如《芯片与科学法》《[[Inflation Reduction Act|通胀削减法]]》），将国家竞争优势从自由市场集群自发培育推进为由国家战略资本主导、兼具供应链韧性与地缘安全防御的复合治理实践。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–6)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 101–103)]]
 
 ---
@@ -224,7 +224,7 @@ updated: 2026-10-20
 > | [[Public Value]] | 概念 | 现代国家竞争优势在追求硬科技主权的同时必须兼顾的社会包容与劳工利益基准。 |
 > | [[Learning by Doing]] | 概念 | 构成国家竞争优势微观制造生产率提升与良率爬坡的根本学习机制。 |
 > | [[Agglomeration Externalities]] | 概念 | 波特钻石模型中集群形成与竞争优势维持的核心微观经济学机制。 |
-> | [[Knowledge-Based Economization]] | 概念 | 国家竞争优势作为地缘政治想象所推动的核心空间与经济重塑过程。 |
+> | [[Knowledge-Based Economization]] | 概念 | 国家竞争优势作为[[Geopolitics\|地缘政治]]想象所推动的核心空间与经济重塑过程。 |
 > | [[Economic Patriotism]] | 概念 | 国家竞争优势[[Discourse\|话语]]在微观政策与政治动员层面的情感与利益载体。 |
 > | [[Hub and Flow Imaginaries]] | 概念 | 支撑国家竞争优势空间资源倾斜的核心空间治理图景。 |
 > | [[Spatial Sortings]] | 概念 | 国家竞争优势导向政策引发的核心与边缘区域空间极化后果。 |
@@ -238,6 +238,6 @@ updated: 2026-10-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特国家竞争优势理论，系统阐明其作为[[Knowledge-Based Economization|知识经济化]]地缘政治想象的构成性功能与空间极化效应。
+> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特国家竞争优势理论，系统阐明其作为[[Knowledge-Based Economization|知识经济化]][[Geopolitics|地缘政治]]想象的构成性功能与空间极化效应。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 结合美国现代产业战略实证阐述如何通过直接投资、过程治理与附加条件重构 21 世纪国家在先进制造与绿色技术领域的竞争优势。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 论证全球[[Vertical Disintegration|纵向离散]]网络下大国产业竞争中的[[Agglomeration Externalities|集聚经济]]效益与地缘安全韧性之间的结构性权衡。

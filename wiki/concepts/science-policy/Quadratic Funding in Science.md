@@ -10,7 +10,7 @@ aliases:
 summary: "指基于机制设计理论将公共配比资金池按赞助人数平方根之和的平方进行分配的算法资助模式，旨在通过放大基层小额支持广度以打破学术权威把关偏倚。"
 type: concept
 domain: "science-policy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

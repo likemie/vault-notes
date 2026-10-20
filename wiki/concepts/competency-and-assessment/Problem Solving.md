@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -55,7 +55,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"

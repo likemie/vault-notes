@@ -6,7 +6,7 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Network Governance]]"
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Externalization]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Audit Trail]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John W. Kingdon]]"
   - "[[John O'Neill]]"
@@ -68,6 +66,7 @@ related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -94,7 +93,7 @@ updated: 2026-10-20
 > *Policy entrepreneurs are willing to invest their resources—time, energy, reputation, and sometimes money—in the hope of a future return. They lie in wait for a window to open, ready to attach their solutions to problems or to hitch them to political momentum.*
 
 > [!citation-card] 奥尼尔等人论政策企业家的多重身份流动与私有化推进
-> 这些政策企业家通过在公共服务（提供学术测试工具）、非营利信托与营利性商业实体之间无缝穿梭，不仅推动了以证据为基础的教学[[Disciplina and Doctrina|规训]]，而且将受公共资金支持研发的成果转变为可供全球商业特许加盟的专有知识产权。在这一过程中，公共利益、利他慈善与个人私利之间的界限被彻底模糊。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix, 47–48)]]
+> 这些政策企业家通过在公共服务（提供学术测试工具）、非营利信托与营利性商业实体之间无缝穿梭，不仅推动了以证据为基础的教学规训，而且将受公共资金支持研发的成果转变为可供全球商业特许加盟的专有知识产权。在这一过程中，公共利益、利他慈善与个人私利之间的界限被彻底模糊。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix, 47–48)]]
 >
 > *These policy entrepreneurs operate across public service, philanthropic trust, and commercial corporate boundaries seamlessly. In doing so, they translate state-funded research into global proprietary commodities and franchise networks, systematically blurring the distinction between public benefit, altruism, and private gain.*
 
@@ -161,7 +160,7 @@ updated: 2026-10-20
 > 1. **体制内公共研发（1998–2003）** 受教育部科研合同全额资助，研发国家教学评估工具（[[Assessment Tools for Teaching and Learning|asTTle]]），积累了全国教师评价与[[Meta-analysis|元分析]]数据库，奠定权威学术声望。
 > 2. **参与非营利与商业治理（2006–2008）** 出任兼具慈善信托与商业性质的 [[Cognition Education|Multi Serve]]（后重组为科认知教育，[[Cognition Education]]）董事，将元分析成果系统提炼为专著《[[Visible Learning|可见的学习]]》（[[Visible Learning]]）。
 > 3. **品牌特许与跨国加盟（2009–2012）** 依托科认知教育注册跨国排他性商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与学校认证体系，在欧美及中东等 35 个国家建立商业加盟网络。
-> 4. **产业衍生与资本变现（2013–2015）** 联合科技企业开发按次收费的 Visible Classroom 课堂录音分析软件，同时通过科认知教育获取巨额第三方款项（2011–2015 年累计达 869,453 新西兰元）。
+> 4. **产业衍生与资本变现（2013–2015）** 联合科技企业开发按次收费的 [[Visible Classroom]] 课堂录音分析软件，同时通过科认知教育获取巨额第三方款项（2011–2015 年累计达 869,453 新西兰元）。
 > 
 > 奥尼尔等人进一步揭示，政策企业家的生存基石是[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）的“顶层慈善信托控股、底层全资有限责任公司”双层架构：顶层信托获取免税地位与社会公益声誉，底层商业公司面向公立学校销售标准化服务；商业利润以捐赠名义免税回流信托，用于支付高额顾问费与版税，而对外实际公益支出微乎其微。政策企业家通过这种制度套利，实质上将公共教育资金与学术公信力转化为受法律保护的私人资本积累。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix, 47–53, 65–75)]]
 
@@ -198,7 +197,7 @@ updated: 2026-10-20
 > [!dev-timeline] 概念演变
 > - **1984 — [[Multiple Streams Framework|多源流模型]]与概念首创** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作《议程、备选方案与公共政策》中首创政策企业家概念，描述其如何将问题、方案与政治三条溪流在机会窗口期耦合。
 > - **2000 — 教育系统内自下而上政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）将概念系统引入教育政策领域，探讨教育系统内部行动者如何打破[[Bureaucracy|科层制]]惯性，推动[[School Autonomy|学校自主]]（[[School Autonomy]]）与[[School Choice|择校]]（[[School Choice]]）创新。
-> - **2012 — 全网化治理与跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络治理]]视阈，揭示跨国政策企业家与智库如何穿透民族国家边界输出新自由主义商业[[Disciplina and Doctrina|规训]]。
+> - **2012 — 全网化治理与跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络治理]]视阈，揭示跨国政策企业家与智库如何穿透民族国家边界输出新自由主义商业规训。
 > - **2013 — 政策生命周期中的循证去政治化模型** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）构建了政策企业家在政策周期中动态整合实证证据、指标数据与价值叙事的模型，揭示其如何筑牢技术护栏并打破[[Punctuated Equilibrium Theory|政策垄断]]。
 > - **2016 — 公私混合创业与 [[Educational Management Organisation|EMO]] 制度套利诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立教育改革的深度实证考察，揭示政策企业家在公共服务、非营利慈善与商业营利间无缝切换的微观运作路径与财务沉淀机制。
 
@@ -208,11 +207,11 @@ updated: 2026-10-20
 
 > [!debates] 学术争议
 >
-> > [!axis] 自下而上的学校民主创新 vs 自上而下的新自由主义[[Disciplina and Doctrina|规训]]
+> > [!axis] 自下而上的学校民主创新 vs 自上而下的新自由主义规训
 > > 争论教育系统内部的政策创业究竟是解放学校办学自主权、促进多元创新的制度突破，还是以标准化和商业绩效侵蚀公立教育公平的载体。
 > >
 > > - **Mintrom (2000)** 强调政策创业在激活基层自主性、打破行政[[Bureaucracy|科层制]]僵化方面的积极民主创新潜力。
-> > - **Ball (2012) 与 [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]** 认为跨国政策企业家以数据和循证为名组建契约网络，实质上是自上而下输出商业[[Disciplina and Doctrina|规训]]并系统剥离学校民主自治权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
+> > - **Ball (2012) 与 [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]** 认为跨国政策企业家以数据和循证为名组建契约网络，实质上是自上而下输出商业规训并系统剥离学校民主自治权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
 >
 > > [!axis] 循证去政治化技术护栏 vs 宪法代议制民主问责
 > > 争论政策企业家运用中立科学研究与专业共识规避党派辩论的做法，究竟是保障政策理性的必要机制，还是对代议制民主的架空。

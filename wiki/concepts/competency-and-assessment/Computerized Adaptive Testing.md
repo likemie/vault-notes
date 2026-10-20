@@ -8,7 +8,7 @@ aliases:
 summary: "基于项目反应理论、由计算机根据受试者先前反应动态选择后续题目难度的测验方式，首题置于假设能力范围中位，答对则加大难度、答错则减轻难度，可减少约50%测验题目并即时计分"
 type: concept
 domain: "competency-and-assessment"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,14 +26,13 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Pilot Testing]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_instruments: []
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Computerized Adaptive Testing
@@ -88,5 +87,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.9 节介绍 CAT 的工作原理、七项优势、五项信效度挑战以及 Flaugher（1990）的技术前提

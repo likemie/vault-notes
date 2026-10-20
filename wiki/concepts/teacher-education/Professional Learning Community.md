@@ -10,7 +10,7 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 48
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Reflexivity]]"
   - "[[Learning Gain]]"
@@ -62,7 +61,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Likert Scale]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Mark Rickinson]]"
@@ -77,7 +75,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Professional Learning Community
@@ -107,7 +105,7 @@ updated: 2026-10-17
 > [!boundary] 概念边界
 > - **不等于 全校教职工行政例会（Staff Meeting）** 行政会议以科层信息通报、规章制度宣讲与事务性布置为核心，缺乏平等的专业反思与证据研判空间；PLC 则是以学生学习证据与教学调适为中心的专业审议。
 > - **不等于 传统的年级组/单科行政教研组** 传统教研组往往侧重统一备课进度与应试练习卷编制；PLC 聚焦于围绕学生真实认知难点开展循证探究、互评课堂教学并追踪持续改善。
-> - **不等于 伪合作或表面合群（Contrived Collegiality）** 安迪·哈格里夫斯（Andy Hargreaves）指出，若 PLC 沦为管理层自上而下强制[[Disciplina and Doctrina\|规训]]的流水线工具，剥夺[[Teacher Professional Agency\|教师专业能动性]]，便异化为行政问责的监控外衣。
+> - **不等于 伪合作或表面合群（Contrived Collegiality）** 安迪·哈格里夫斯（Andy Hargreaves）指出，若 PLC 沦为管理层自上而下强制规训的流水线工具，剥夺[[Teacher Professional Agency\|教师专业能动性]]，便异化为行政问责的监控外衣。
 
 ---
 
@@ -269,7 +267,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 阐发[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]），将 PLC 确立为“审慎参与与实施”的共同审议载体，以及个体使能与组织使能交汇碰撞的微观组织中枢（pp. 141–144）。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire\|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。

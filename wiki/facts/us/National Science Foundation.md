@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 86
+fact_related_count: 85
 fact_related_level: 8
 fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -66,7 +66,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[External Auditor]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -263,7 +262,7 @@ updated: 2026-10-20
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Curiosity-Driven Research|Blue Skies Research]] | Concept | NSF 传统资助的核心学术探索[[Paradigm\|范式]]。 |
+> | [[Curiosity-Driven Research\|Blue Skies Research]] | Concept | NSF 传统资助的核心学术探索[[Paradigm\|范式]]。 |
 > | [[Science, The Endless Frontier 1945]] | Fact | 催生 NSF 创立的基石性国家科技政策报告。 |
 > | [[Metascience]] | Concept | 2026 年新战略要求 NSF 设立专职单元、运用[[Scientific Method\|科学方法]]革新资助选拔机制的学科。 |
 > | [[Focused Research Organization]] | Concept | NSF [[Directorate for Technology, Innovation and Partnerships\|TIP]] [[NSF X-Labs\|X-Labs]] 突破大学界限、直接资助中等规模工程科学的新型组织实体。 |

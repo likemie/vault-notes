@@ -11,9 +11,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2001–2013"
 initiator_organization: "新西兰教育部（Ministry of Education, New Zealand）"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Presence]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -115,5 +114,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 在论证“评价必须转向关于教师自身教学的反思”与“倾听学生声音”时，将 Te Kotahitanga 项目作为破除[[Deficit Framing\|赤字理论]]、重塑[[Student-Teacher Relationship\|师生关系]]的典范实证证据进行深度剖析。

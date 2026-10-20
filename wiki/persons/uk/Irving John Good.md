@@ -9,7 +9,7 @@ summary: "英国数学家、统计学家与密码学家，二战期间图灵在�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Artificial General Intelligence]]"
   - "[[Emergence]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Herbert A. Simon]]"

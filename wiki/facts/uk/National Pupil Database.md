@@ -31,6 +31,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Model Dependency]]"
   - "[[Preregistration]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -39,7 +40,6 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Generalized Estimating Equations]]"
-  - "[[Correlational Research]]"
   - "[[Propensity Score Matching]]"
   - "[[Difference-in-Differences]]"
 related_instruments:
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Pupil Database
@@ -106,12 +106,12 @@ updated: 2026-10-16
 > | [[EEF Padlock Security Rating]] | 评价准则 | 试验主要结局指标是否挂钩 NPD 全国统考，是评定挂锁安全评级的重要指标。 |
 > | [[Randomised Controlled Trials]] | 方法应用 | NPD 为大规模学校聚类随机对照试验提供了全样本基线匹配与低流失结局追踪手段。 |
 > | [[Academic Achievement]] | 测量对象 | NPD 记录的国家关键阶段考试分数，构成了英国教育评价中最核心的学业成就指标。 |
-> | [[What Works Network]] | 宏观生态 | NPD 为跨部门循证决策支持提供了最权威的公立教育行政微观面板数据。 |
+> | [[What Works Network]] | 宏观生态 | NPD 为跨部门[[Evidence-Based Policy-Making\|循证决策]]支持提供了最权威的公立教育行政微观面板数据。 |
 
 ---
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述国家学生数据库在避免自编测验偏倚、对冲[[Attrition\|样本流失]]及支撑 [[Education Endowment Foundation\|EEF]] 试验数据开放归档中的核心支柱角色。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 记录英国财政研究所如何依托 NPD 微观数据开展大样本[[Propensity Score Matching\|倾向得分匹配]]与[[Difference-in-Differences\|双重差分]]因果评估。

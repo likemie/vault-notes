@@ -7,7 +7,7 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 30
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,10 +21,12 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Knowledge Production]]"
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Competitiveness]]"
   - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Developmentalism]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Public Value]]"
@@ -32,9 +34,11 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Liberalization]]"
+  - "[[Community of Shared Future for Mankind]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[International Branch Campus]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
@@ -57,7 +61,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Education Hubs
@@ -65,7 +69,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> [[International Education\|国际教育]]枢纽（international education Hubs, IEHs）指一个国家或地区将自身建设并定位为教育、培训、[[Knowledge Production\|知识生产]]和创新活动中心的地缘政治项目。IEHs 被视为跨境高等教育的最新发展，代表了"一种更广泛且更具战略性的行动者和活动配置，它建立在并包含了许多近期跨境高等教育的发展"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.43]]）。
+> [[International Education\|国际教育]]枢纽（international education Hubs, IEHs）指一个国家或地区将自身建设并定位为教育、培训、[[Knowledge Production\|知识生产]]和创新活动中心的[[Geopolitics|地缘政治]]项目。IEHs 被视为跨境高等教育的最新发展，代表了"一种更广泛且更具战略性的行动者和活动配置，它建立在并包含了许多近期跨境高等教育的发展"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.43]]）。
 
 > [!quote]
 > "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities." (Knight, 2014b, p.5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.43]])
@@ -83,7 +87,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!note]-
-> IEH 概念由 [[Jane Knight]] (2014a, 2014b, 2014c) 在跨境高等教育研究的基础上系统提出。Knight 注意到过去十年中多个东亚和中东国家已建立 IEHs，意图成为全球高等教育学习和研究的首选目的地([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.44]])。近年来 IEHs 被进一步分析为地缘政治项目，超越了简单的国际化策略(Erfurth, 2019; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]])。
+> IEH 概念由 [[Jane Knight]] (2014a, 2014b, 2014c) 在跨境高等教育研究的基础上系统提出。Knight 注意到过去十年中多个东亚和中东国家已建立 IEHs，意图成为全球高等教育学习和研究的首选目的地([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.44]])。近年来 IEHs 被进一步分析为[[Geopolitics|地缘政治]]项目，超越了简单的国际化策略(Erfurth, 2019; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]])。
 
 ### 概念的提出与三类模型
 
@@ -100,7 +104,7 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–100]])。
 
 > [!note]- 从被动接受到主动塑造
-> 在旧的发展主义[[Paradigm\|范式]]下，亚洲国家是西方[[Internationalization of Higher Education\|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education\|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy\|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"[[Discourse|话语]]——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–96]])。
+> 在旧的[[Developmentalism|发展主义]][[Paradigm\|范式]]下，亚洲国家是西方[[Internationalization of Higher Education\|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education\|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy\|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"[[Discourse|话语]]——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–96]])。
 
 Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。
 
@@ -125,7 +129,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 
 - **新加坡的"可信节点"策略** 新加坡不满足于区域教育枢纽的定位，致力于通过打造法律中立、文化兼容与制度可信的国家形象，把自身建构为一个"全球与亚洲"间要素流动的"可信节点"（trusted node）。高校及教育机构积极以跨境学研合作、官员培训与园区共建等方式输出新加坡"配方"，将跨境教育合作关系转化为议程设定、资格与课程标准的扩散。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 12)]]
 
-- **中国的"空间项目"路径** 中国围绕"周边命运共同体"的一系列跨境教育合作倡议可被理解为一种"空间项目"。但与新加坡侧重规则—制度—法律中立来生产"可信节点"的网络中心性不同，中国在周边合作中更常诉诸关系性的秩序叙事，将合作置于互惠承诺、道德责任与共同体想象之中加以正当化。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
+- **中国的"空间项目"路径** 中国围绕"周边[[Community of Shared Future for Mankind|命运共同体]]"的一系列跨境教育合作倡议可被理解为一种"空间项目"。但与新加坡侧重规则—制度—法律中立来生产"可信节点"的网络中心性不同，中国在周边合作中更常诉诸关系性的秩序叙事，将合作置于互惠承诺、道德责任与共同体想象之中加以正当化。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 
 不同国家的空间项目策略依托截然不同的规范资源与秩序想象，跨境高等教育合作不仅是国家影响力外溢的工具，也可被理解为一种维系区域格局的关系性实践——它通过人才培养、制度对接与知识互动不断生产和修复区域性的联结。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 
@@ -157,14 +161,14 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 - **国家角色转变** IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）
 - **治理理性的转换** 高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色** IEHs 是 Moisio (2018) 的 Hub and [[Flow]] 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
-- **与 Minerva 项目的对照** IEHs and Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
+- **与 Minerva 项目的对照** IEHs and Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识[[Geopolitics|地缘政治]]"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
 
 ---
 
 ## 理论基础
 
 > [!tip]-
-> - [[Critical Geopolitics\|批判地缘政治学]] — 为 IEHs 的地缘政治分析提供核心理论透镜，[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
+> - [[Critical Geopolitics\|批判地缘政治学]] — 为 IEHs 的[[Geopolitics|地缘政治分析]]提供核心理论透镜，[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
 > - [[Network Society\|网络社会]]理论 — 为理解 IEHs 作为全球知识流动网络中的"节点"提供基础，与 Moisio (2018) 的 Hub and [[Flow]] 想象相互补充
 > - [[Cultural Political Economy]]（文化政治经济学, Sum & Jessop, 2013） — [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] 采用此框架分析教育枢纽中文化符号与结构物质维度的同等重要性
 
@@ -177,8 +181,8 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 - 多个 IEHs 在过去十年间被创建，主要位于东亚和中东：香港（Mok & Bodycott, 2014）、阿拉伯联合酋长国（Halsey Fox & Al Shamisi, 2014; Erfurth, 2019）、新加坡（Sidhu et al., 2014; Erfurth, 2019）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]])
 - IEHs 体现了地方到全球层面之间的相互关联——它们构成了全球性的[[Discourse|话语]]空间，同时又将特定国家/行动者的经济目标空间化，关系到其在全球[[Knowledge-Based Economy|知识经济]]中的参与和定位([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - 新加坡通过"[[Singapore Education Hub Policy|东方波士顿]]"战略（1996–1997）按美国常春藤模式重塑国立大学，随后以"全球校园"项目（2002–）吸引世界一流大学商业化运营，但 2007 年遭遇市场失败后转向强化监管([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.207–210]])。详见 Erfurth 的案例比较
-- 阿联酋内部呈现显著分化：阿布扎比侧重[[Cultural Diplomacy|文化外交]]（资助 NYU Abu Dhabi、索邦、卢浮宫等高端文化机构），迪拜侧重政治经济（通过经济区打造国际分校产业集群，已拥有全球第二多国际分校 33 所）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]])
-- 两国共同的运作模式：国家主导的高等教育扩张被嵌入更大的地缘政治项目，高等教育成为追求地缘政治转型的**工具**而非目标本身([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.211–212]])
+- 阿联酋内部呈现显著分化：阿布扎比侧重[[Cultural Diplomacy|文化外交]]（资助 NYU Abu Dhabi、索邦、卢浮宫等高端文化机构），迪拜侧重政治经济（通过经济区打造[[International Branch Campus|国际分校]]产业集群，已拥有全球第二多国际分校 33 所）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]])
+- 两国共同的运作模式：国家主导的高等教育扩张被嵌入更大的[[Geopolitics|地缘政治]]项目，高等教育成为追求地缘政治转型的**工具**而非目标本身([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.211–212]])
 
 > [!info]- 核心数据
 > - Knight (2014) 识别的教育枢纽国家/地区：新加坡、阿联酋、卡塔尔、香港、马来西亚、博茨瓦纳、韩国、斯里兰卡、毛里求斯、巴林（p.202）

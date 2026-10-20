@@ -10,7 +10,7 @@ aliases:
 summary: "指美国国会赋予特定联邦机构以合法绕过《联邦采购条例》及常规合同法规，依据商业灵活条款与高科技初创企业及研发联合体直接签订研发和样机试制协议的特殊法律授权。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Red Tape]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

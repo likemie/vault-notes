@@ -7,7 +7,7 @@ aliases:
 summary: "指当代高等教育与文化体制从培育独立反思与道德信念的精神摇篮，异化为将人类智力批量规格化为符合商业资本、金融套利与纯代码工程需求的工具性人力资产的制度过程。"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,7 +25,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

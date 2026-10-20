@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Cosmopolitanism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Time-Space Compression]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # David Held
@@ -64,7 +63,7 @@ updated: 2026-10-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名政治学家、当代民主理论与全球化研究泰斗；曾任伦敦政治经济学院（LSE）格雷厄姆·沃拉斯政治学讲席教授、杜伦大学政府与国际事务学院院长兼大师讲席教授；著名学术出版机构政体出版社（Polity Press）联合创始人。
-> - **核心角色** 当代全球化研究中“变革论”（Transformationalism）学派的领头学者与[[Cosmopolitanism|世界主义]]民主（Cosmopolitan Democracy）模式的开创者；其关于全球化多维联结与民族国家主权渗透的经典界定，为批判比较教育学分析全球资本流动如何穿透国家边界、重塑教育治理与[[Disciplina and Doctrina|规训]]制度提供了奠基性[[Analytic Framework|分析框架]]。
+> - **核心角色** 当代全球化研究中“变革论”（Transformationalism）学派的领头学者与[[Cosmopolitanism|世界主义]]民主（Cosmopolitan Democracy）模式的开创者；其关于全球化多维联结与民族国家主权渗透的经典界定，为批判比较教育学分析全球资本流动如何穿透国家边界、重塑教育治理与规训制度提供了奠基性[[Analytic Framework|分析框架]]。
 > - **代表贡献** 提出全球化五重核心机制维度模型（1991）；出版《政治理论与现代国家》（1989）、《民主的模式》（1987/2006）、《全球大变革：全球化时代的政治、经济与文化》（与麦克格鲁等合著，1999）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论赫尔德对全球化及其多维机制的界定
@@ -110,7 +109,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球化本质上是一场由跨国经济流动、通信技术爆炸、准超国家治理机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）扩张共同驱动的深度社会结构变革，超越了单一维度的经济贸易[[Liberalization|自由化]]范畴；这一进程使得原本附着于民族国家疆域内的主权、公民身份与决策机制呈现高度的多孔性与穿透性，任何本土公共政策（包括公共教育在内）都已不可逆转地受到千里之外跨国制度规则与资本权力的直接[[Disciplina and Doctrina|规训]]。
+> 全球化本质上是一场由跨国经济流动、通信技术爆炸、准超国家治理机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）扩张共同驱动的深度社会结构变革，超越了单一维度的经济贸易[[Liberalization|自由化]]范畴；这一进程使得原本附着于民族国家疆域内的主权、公民身份与决策机制呈现高度的多孔性与穿透性，任何本土公共政策（包括公共教育在内）都已不可逆转地受到千里之外跨国制度规则与资本权力的直接规训。
 
 > [!citation-card] 全球化作为重塑地方时空关联的集约化机制
 > 全球化是世界范围内社会关系的强化，这种强化以一种使得地方性事件受到千里之外发生的事件所形塑、反之亦然的方式，将遥远的地方紧密联系在一起。
@@ -122,7 +121,7 @@ updated: 2026-10-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了当代政治学与社会学关于全球化的变革论[[Paradigm|范式]]，与极端全球化论和怀疑论分庭抗礼；其多维机制分析为比较教育学者（如[[Robert Arnove|阿诺夫]]、托雷斯、戴尔）分析全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了结构支柱。
+> - **理论路径** 开创了当代政治学与社会学关于全球化的变革论[[Paradigm|范式]]，与极端全球化论和怀疑论分庭抗礼；其多维机制分析为比较教育学者（如[[Robert Arnove|阿诺夫]]、托雷斯、戴尔）分析全球教育[[Policy Borrowing|政策借用]]与规训提供了结构支柱。
 > - **方法路径** 倡导结合全球时空伸延（extensity）、集约度（intensity）、流速（velocity）与冲击度（impact propensity）四个维度开展跨国比较分析。
 > - **跨国／跨领域传播** 思想广泛渗透至国际关系、发展社会学、教育政治经济学与国际人权法领域，成为反思后主权国家治理的必读书目。
 
@@ -133,7 +132,7 @@ updated: 2026-10-15
 > [!person-network] 关系网络
 > - **长期学术合作者** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）、安东尼·麦克格鲁（Anthony McGrew） — 共同创立 Polity Press 并合著多部全球化巨著。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 引用其全球化界定解构拉美外围国家的教育主权困境。
-> - **相关跨国实体** [[World Bank]]、[[OECD]] — 作为其分析的跨国[[Disciplina and Doctrina|规训]]与准超国家治理机构典型。
+> - **相关跨国实体** [[World Bank]]、[[OECD]] — 作为其分析的跨国规训与准超国家治理机构典型。
 
 ---
 

@@ -8,9 +8,9 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 69
-person_related_level: 6
-person_related_stars: "💎💎"
+person_related_count: 70
+person_related_level: 7
+person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1859"
 died: "1952"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Engineering Mindset]]"
   - "[[Epistemology]]"
+  - "[[Education as Growth]]"
   - "[[Paradigm]]"
   - "[[Active Learning]]"
   - "[[Recontextualization]]"
@@ -45,7 +46,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Creativity]]"
   - "[[Professional Judgment]]"
-  - "[[Rote Learning]]"
   - "[[Technical Rationality]]"
   - "[[Classroom Management]]"
   - "[[Pragmatism in China]]"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Reform Pedagogy]]"
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
   - "[[Technological Republic]]"
@@ -60,14 +61,12 @@ related_concepts:
   - "[[Habituation]]"
   - "[[Visible Learning]]"
   - "[[Performance Pay]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Praxis]]"
   - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Stanislav Shatskii]]"
@@ -83,6 +82,7 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
+  - "[[Thomas Aastrup Rømer]]"
 related_facts:
   - "[[New Education Movement]]"
   - "[[1922 Educational System Reform]]"
@@ -95,8 +95,9 @@ related_arguments:
   - "[[Argument_Ryabyy_2024_Maneto]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -140,7 +141,7 @@ updated: 2026-10-20
 > [!thought-timeline] 思想发展
 > - **1890s–1900s — [[Pragmatic Paradigm|实用主义]]心理学与芝加哥实验时期**
 >   - **代表著作** *The School and Society* (1899), *The Child and the Curriculum* (1902)。
->   - **关键概念／方法** [[Progressive Education|进步教育]]、[[Education as Growth|生长]]（Growth）、经验连续性、活动课程。
+>   - **关键概念／方法** [[Progressive Education|进步教育]]、生长（Growth）、经验连续性、活动课程。
 >   - **阶段转向** 克服传统教育中“科目本位”与“儿童本位”的二元割裂，断言“儿童是起点、中心与终点；唯有生长提供标准”（Dewey, 1902, p. 9），主张学校应成为有组织的社会环境。
 > - **1910s — [[Democratic Education|民主教育]]理论与哲学体系构建时期**
 >   - **代表著作** *How We Think* (1910), *Democracy and Education* (1916)。
@@ -239,8 +240,8 @@ updated: 2026-10-20
 > - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]家会面，成为美苏[[Cultural Diplomacy|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
 > - **1930年代（意识形态全面摒弃）** 苏联因其自下而上的民主成长观与阶级意识形态教育发生深刻冲突，全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
-> [!phase] 北欧与丹麦改革教育学（1970s–1980s）
-> - **抗击官僚威权与倡导主动探究** 1970 年代丹麦教育学界引入“学习（læring）”概念以打破传统自上而下的国家威权注入式教学（indlæring）；学者重读杜威与[[Wolfgang Klafki|克拉夫基]]，倡导以问题导向、跨学科小组合作与个性化探究为特征的“改革教育学”（Reform Pädagogik），在国家资助实验校中开展广泛的民主探究实践。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
+> [!phase] 北欧与丹麦[[Reform Pedagogy|改革教育学]]（1970s–1980s）
+> - **抗击官僚威权与倡导主动探究** 1970 年代丹麦教育学界引入“学习（læring）”概念以打破传统自上而下的国家威权注入式教学（indlæring）；学者重读杜威与克拉夫基，倡导以问题导向、跨学科小组合作与个性化探究为特征的“改革教育学”（Reform Pädagogik），在国家资助实验校中开展广泛的民主探究实践。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
@@ -279,14 +280,14 @@ updated: 2026-10-20
 > > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 >
 > > [!axis] [[Evidence-Based Education|循证教育]]的技术主义挪用与杜威探究假设论的抵抗
-> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了[[Disciplina and Doctrina|规训]]教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。托马斯·罗默进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
+> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了规训教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。[[Thomas Aastrup Rømer|托马斯·罗默]]进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
 >
 > [!critique]- 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判政策制定者断章取义截取[[Meta-analysis|元分析]]数据，指出违背杜威探究哲学的粗暴循证会导致一线教师去专业化。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从杜威经验（承受与想象力）与批判性判断力哲学出发，解构可见学习排斥被动性并将其矮化为机械评价的认识论缺陷。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从杜威经验（承受与想象力）与批判性判断力哲学出发，解构可见学习排斥被动性并将其矮化为机械评价的[[Epistemology|认识论]]缺陷。
 
 > [!warning] 未解问题与边界
 > 杜威关于“一步一个脚印”的渐进实验建言，在面对制度彻底腐朽或急迫存亡危机时，能否提供足够迅速的现实解决方案，仍是比较教育与政治哲学中持续争论的理论边界。

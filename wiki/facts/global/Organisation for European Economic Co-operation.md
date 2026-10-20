@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Developmentalism]]"
   - "[[Positivism]]"
   - "[[Policy Borrowing]]"
   - "[[Variable]]"
@@ -40,7 +40,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Manpower Requirements Approach]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -150,12 +149,12 @@ updated: 2026-10-20
 > > - **多边技术官僚辩护** 强调在战后物资极度匮乏与苏联地缘威胁的非常时期，优先通过教育保障关键工科人才供给，是保卫西方自由民主制度与恢复经济生机的唯一务实选择。
 >
 > > [!axis] 依附性欧洲重建 vs 跨大西洋资本霸权
-> > 争论 OEEC 是欧洲自主复兴的摇篮，还是美国借马歇尔计划[[Disciplina and Doctrina|规训]]欧洲主权经济的制度杠杆。
+> > 争论 OEEC 是欧洲自主复兴的摇篮，还是美国借马歇尔计划规训欧洲主权经济的制度杠杆。
 > >
 > > - **世界体系学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 强调 OEEC 作为“经济版 NATO”，其援助附加条件迫使西欧向美国跨国资本敞开市场，固化了跨大西洋等级支配秩序。
 > > - **主流经济史学家** 认为 OEEC 成功培育了欧洲内部的多边协作习惯，直接催生了欧洲煤钢共同体与后续欧洲一体化进程。
 >
-> > [!axis] 善意专业援助 vs 发展主义支配与文化去政治化
+> > [!axis] 善意专业援助 vs [[Developmentalism|发展主义]]支配与文化去政治化
 > > 围绕 OEEC 及其改组后的[[OECD|经合组织]]早期对非核心区与第三世界国家的“发展援助”究竟是无害的科学专业赋能，还是剥离本土政治语境的发展主义宰制展开交锋。
 > >
 > > - **学科史[[Positivism|实证主义]]辩护（Noah & Eckstein, 1969）** 坚信国际多边机构向战后欧洲及发展中国家输送资金与规划技术，标志着跨国[[Policy Borrowing|教育借用]]告别了 19 世纪业余慈善家的道德激情，进入由技术官僚与专业统计专家掌舵的“专业主义”理性时代。

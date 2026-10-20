@@ -7,7 +7,7 @@ summary: "英国著名教育社会学家与批判全球化理论家，剑桥大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Rescaling]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discipline-Based Theory]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Susan L. Robertson
@@ -99,7 +98,7 @@ updated: 2026-10-17
 > 全球化不是权力的简单消散，而是权力在地理与制度空间上的重新标度化（[[Rescaling]]）。伴随[[World Trade Organization|世贸组织]]及其《[[GATS and Trade in Education Services|服务贸易总协定]]》的推行，教育被制度化地重组为一种跨境资本可以合法套利的私人物品与贸易服务，民族国家不再垄断教育的筹资、提供与规制权，而是不得不与跨国资本、私立承包商和区域集团共享甚至让渡主权；这一过程深刻地加剧了全球教育获取的不平等与教师劳工的去专业化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 罗伯逊论世贸组织与国家主权让渡
-> 世贸组织并不单纯是全球资本的冷酷工具，许多民族国家甚至争相加入其中，以期在全球[[Knowledge-Based Economy|知识经济]]中争取本国的竞争优势。然而这一过程客观上迫使民族国家开放国内教育市场，接受跨国服务贸易规则的[[Disciplina and Doctrina|规训]]，使原本高度敏感的国家文化与教育主权陷入前所未有的制度危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> 世贸组织并不单纯是全球资本的冷酷工具，许多民族国家甚至争相加入其中，以期在全球[[Knowledge-Based Economy|知识经济]]中争取本国的竞争优势。然而这一过程客观上迫使民族国家开放国内教育市场，接受跨国服务贸易规则的规训，使原本高度敏感的国家文化与教育主权陷入前所未有的制度危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 >
 > *For many countries the WTO is not simply "an instrument of global capital," but something that a number of nation-states are eager to join "as they seek to advance their own national interests in the global knowledge economy"... To what extent is state control over the nationally important and culturally sensitive domain of education compromised by joining the organization?*
 

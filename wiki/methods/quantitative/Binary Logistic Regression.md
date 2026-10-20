@@ -5,7 +5,7 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Multiple Regression]]"
   - "[[Qualitative Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Binary Logistic Regression
@@ -188,7 +187,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 建立三个二元 Logistic 回归模型分析家庭资本（经济、文化、社会资本）对是否[[Peidu\|陪读]]、进城陪读以及进入重点小学的预测显著度与优势比 (p.310)。
 
 ---

@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,10 +22,11 @@ tags:
   - policy/evaluation
   - level/national-policy
 related_concepts:
-  - "[[Scientific Uncertainty]]"
-  - "[[Post-Normal Science]]"
-  - "[[Evaluation Research]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Scientific Uncertainty]]"
+  - "[[Technical Rationality]]"
+  - "[[Chain of Evidence]]"
+  - "[[Post-Normal Science]]"
 related_theories: []
 related_methods:
   - "[[Cost-Benefit Analysis]]"
@@ -37,12 +38,12 @@ related_facts:
   - "[[The Social Value Model]]"
   - "[[Rothschild Report 1971]]"
 related_arguments:
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # The Green Book
@@ -55,7 +56,7 @@ updated: 2026-10-19
 > - **发布时间 / 发布主体** 英国财政部（HM Treasury）于 1970 年代初创经济评估指南并历经多次重大修订，2003 年全面改版，最新法定现行文本为 2020 年修订并持续更新至 2026 年的《中央政府评估与评价：绿皮书》（*The Green Book: Central Government Guidance on Appraisal and Evaluation*）。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **适用地区 / 对象** 适用于英国中央政府全体公务员、各部委、非部委公共机构、地方政府以及动用公共财政资金的规划与政策制定者。
 > - **问题背景** 传统政府项目审批往往受政治偏好或部门利益驱动，缺乏客观透明的经济效益测算、社会价值核算与科学证据支撑；该规程旨在确立统一的政策前置评估（Appraisal）与事后评价（Evaluation）国家标准，防范公共资金低效配置。
-> - **制度位置** 英国国家公共财政支出与重大政策立项的法定准则，与财政部《品红皮书》（*The Magenta Book*，聚焦政策评估分析方法）共同构成英国循证决策（Evidence-Based Policy-Making, EBPM）的行政规程双翼。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - **制度位置** 英国国家公共财政支出与重大政策立项的法定准则，与财政部《品红皮书》（*The Magenta Book*，聚焦政策评估分析方法）共同构成英国[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）的行政规程双翼。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
 
@@ -67,7 +68,7 @@ updated: 2026-10-19
 > [!policy-design]- 政策设计
 > - **政策目标** 规范公共投资决策程序，确保财政支出实现最佳社会经济效益，消除主观臆断与单一部门利益偏倚。
 > - **适用对象** 英国中央部委政策制定者、公共机构管理层、项目评估经济学家与分析师团队。
-> - **政策工具** 五维商业论证框架（Strategic, Economic, Commercial, Financial, Management）、社会成本效益分析（Social CBA）、乐观偏差调整（Optimism Bias）以及敏感性情景分析工具。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
+> - **政策工具** 五维商业论证框架（Strategic, Economic, Commercial, Financial, Management）、社会[[Cost-Benefit Analysis|成本效益分析]]（Social CBA）、乐观偏差调整（Optimism Bias）以及敏感性情景分析工具。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
 > - **约束机制** 财政部预算拨款与立项批复的刚性前置合规审查。
 
 > [!citation-card] 财政部论干预措施的全面社会效益评估
@@ -81,7 +82,7 @@ updated: 2026-10-19
 
 > [!timeline] 政策时间线
 > - **1970s** 英国财政部建立最初的经济评估指南，服务于资本基础设施投资评估。
-> - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念，并作为新工党政府推行循证决策（EBPM）与试点评估的法定行政规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念，并作为新工党政府推行[[Evidence-Based Policy-Making|循证决策]]（EBPM）与试点评估的法定行政规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **2018–2020** 经历跨部门审查后重大修订，重点纠正长期存在的伦敦和东南部投资偏倚，强化对区域平衡发展、气候变化与证据稳健性的考量。
 > - **2025** 设立政府评估工作组（Government Evaluation Task Force, ETF），监督全政府对绿皮书循证原则的执行情况。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **2026** 英国皇家学会《科学为社会》报告明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
@@ -116,7 +117,7 @@ updated: 2026-10-19
 
 > [!debates] 政策争议
 >
-> > [!axis] 技术理性量化评估 vs 政治价值权衡
+> > [!axis] [[Technical Rationality|技术理性]]量化评估 vs 政治价值权衡
 > > 绿皮书要求将环境、健康及社会公平等复合价值折算为货币化成本收益，引发了关于量化评估是否过度窄化复杂公共政策议题的广泛争论。
 > >
 > > - **财政技术官僚立场** 坚持统一货币化折现率与净现值标准是防范公共资金浪费、实现客观可比的必要规程。
@@ -129,7 +130,7 @@ updated: 2026-10-19
 > > - **部门行政决策者** 倾向于保留论证过程的自由裁量权，避免将尚未完全达成共识的过程性科学争议过早推向公众舆论场。
 
 > [!citation-card] 皇家学会论政策评估中的科学证据独立性
-> 只有当政府决策所依赖的证据链条与不确定性被置于阳光之下，接受独立学术共同体的严格审视，绿皮书所承诺的循证理性才能避免沦为政策决定的事后辩护词。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
+> 只有当政府决策所依赖的[[Chain of Evidence|证据链]]条与不确定性被置于阳光之下，接受独立学术共同体的严格审视，绿皮书所承诺的循证理性才能避免沦为政策决定的事后辩护词。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
 >
 > *Only when the evidence base and uncertainties underpinning government decisions are brought into the open and subjected to rigorous independent scrutiny can the appraisal disciplines of the Green Book avoid being reduced to retrospective rationalisations for political choices.*
 

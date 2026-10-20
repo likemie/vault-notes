@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -18,11 +18,11 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Research Universities]]"
   - "[[Epistemology]]"
   - "[[Valley of Death]]"
   - "[[Technology Transfer]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Application Engineering]]"
   - "[[Empiricism]]"
   - "[[Corporate R&D Labs]]"
@@ -40,8 +40,7 @@ related_concepts:
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Social Contract of Science]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Donald Stokes]]"
   - "[[Vannevar Bush]]"
@@ -69,7 +68,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> 应用启发的基础研究（Use-Inspired Basic Research）指一种既追求对客观世界和自然规律的深层基础理解（Basic Understanding），又在研究设计伊始即由现实社会需求与实际用途（Considerations of Use）所驱动的科学[[Paradigm|研究范式]]。该概念由[[Donald Stokes|唐纳德·斯托克斯]]（Donald E. Stokes, 1997）在《[[Pasteur's Quadrant|巴斯德象限]]：基础科学与技术创新》中首次提出，以法国微生物学家路易·巴斯德（Louis Pasteur）为典范，打破了二战后[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）报告所确立的“[[Curiosity-Driven Research|纯基础研究]] vs. 纯应用研究”的线性一维对立，成为理解当代[[Research Universities|研究型大学]]科研转型、产学协同与现代国家产业政策的关键[[Epistemology|认识论]]基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 39)]]; [[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, p. 310)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> 应用启发的基础研究（Use-Inspired Basic Research）指一种既追求对客观世界和自然规律的深层基础理解（Basic Understanding），又在研究设计伊始即由现实社会需求与实际用途（Considerations of Use）所驱动的科学[[Paradigm|研究范式]]。该概念由[[Donald Stokes|唐纳德·斯托克斯]]（Donald E. Stokes, 1997）在《[[Pasteur's Quadrant|巴斯德象限]]：基础科学与技术创新》中首次提出，以法国微生物学家路易·巴斯德（Louis Pasteur）为典范，打破了二战后[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）报告所确立的“纯基础研究 vs. 纯应用研究”的线性一维对立，成为理解当代[[Research Universities|研究型大学]]科研转型、产学协同与现代国家产业政策的关键[[Epistemology|认识论]]基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 39)]]; [[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, p. 310)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 > [!concept-lens] 概念透镜
 > - **认识论重构** 以“基础理解追求”与“现实应用考量”构成的二维四象限模型，取代了传统将应用与基础对立的单维谱系，将科研从单纯的好奇心驱动拓展至双重驱动。
@@ -179,7 +178,7 @@ updated: 2026-10-20
 ## 历史演变与政策实践
 
 > [!dev-timeline] 应用启发基础研究的制度演进
-> - **1945 — 布什线性模型确立** 《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立战后科学契约，强调[[Curiosity-Driven Research|纯基础研究]]的自由探索与孤立性，奠定一维二分法观念。
+> - **1945 — 布什线性模型确立** 《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立战后科学契约，强调纯基础研究的自由探索与孤立性，奠定一维二分法观念。
 > - **1990s — 冷战终结与契约再协商下的合法性重塑** 冷战结束后国家安全统摄性减退，联邦赤字攀升倒逼科学界自证经济与社会价值；斯托克斯正式提出[[Pasteur's Quadrant|巴斯德象限]]，将基础机理探索与现实战略问题紧密嵌合，开启了[[Social Contract of Science|科学社会契约]]围绕经济[[Competitiveness|竞争力]]与社会相关性的系统再协商。
 > - **1997 — 斯托克斯提出[[Pasteur's Quadrant|巴斯德象限]]** 斯托克斯出版奠基性专著，从理论上正式创立“应用启发的基础研究”[[Paradigm|范式]]，为政策界重新认识科研动机提供理论武器。
 > - **1980s–2000s — 美国 [[National Science Foundation|NSF]] 产学协同中心网络** NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），在高校体制内培育巴斯德象限组织载体。
@@ -223,7 +222,7 @@ updated: 2026-10-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Pasteur's Quadrant]] | Theory | 本概念直接依循的核心理论模型与象限载体。 |
-> | [[Curiosity-Driven Research|Blue Skies Research]] | Concept | 纯基础探索[[Paradigm\|范式]]，与本概念形成经典二元象限对照。 |
+> | [[Curiosity-Driven Research\|Blue Skies Research]] | Concept | 纯基础探索[[Paradigm\|范式]]，与本概念形成经典二元象限对照。 |
 > | [[National Science Foundation]] | Fact | 设立 [[Directorate for Technology, Innovation and Partnerships\|TIP]] 理事会系统承载应用启发科研任务的联邦资助机构。 |
 > | [[CHIPS and Science Act]] | Fact | 依法设立 TIP 并要求加速应用启发基础研究的关键国家立法。 |
 > | [[Research Universities]] | Concept | 承担应用启发基础研究与高阶工程攻关的核心组织中枢。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 21
+instrument_related_count: 22
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Construct]]"
+  - "[[Microteaching]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Operationalization]]"
   - "[[Open-Mindedness]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # CALOHEE Assessment Reference Frameworks
@@ -91,7 +92,7 @@ updated: 2026-10-16
 > | 试点学科专业 | 核心评价[[Construct\|构念]] | 学科化预期学习成果与表现维度 | 典型考核载体与任务模式 |
 > |---|---|---|---|
 > | **土木工程 (Civil Engineering)** | [[Critical Thinking\|批判性思维]] | 复杂工程系统建模分析、失效假设验证、结构安全与环境伦理多准则权衡 | 复杂工程案例分析、劣构设计方案答辩 |
-> | **教师教育 (Teacher Education)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 教学法决策批判反思、学情诊断推理、跨学科差异化教学方案创新设计 | 微格教学实录反思、创新单元教案设计答辩 |
+> | **教师教育 (Teacher Education)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 教学法决策批判反思、学情诊断推理、跨学科差异化教学方案创新设计 | [[Microteaching\|微格教学]]实录反思、创新单元教案设计答辩 |
 > | **历史学 (History)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 多源原始史料互证与偏倚辨析、历史因果论证、创新性史学解释重构 | [[Primary and Secondary Documents\|原始文献]]考证小论文、历史叙事重构专题研讨 |
 > | **护理学 (Nursing)** | [[Critical Thinking\|批判性思维]] | 临床情境批判推理、动态病情风险辨识、多源医疗证据整合与护理决策 | 模拟临床情境推演（OSCE）、临床案例反思报告 |
 > | **物理学 (Physics)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 物理现象假说推演与反直觉数据审验、创新性实验方案设计与物理佯谬攻关 | 开放探究性实验设计、未知物理机制理论建模 |

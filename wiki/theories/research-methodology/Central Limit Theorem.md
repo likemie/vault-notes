@@ -5,7 +5,7 @@ aliases:
 summary: "概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Central Limit Theorem
@@ -117,5 +116,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] 将中心极限定理作为[[Sampling Error\|抽样误差]]的理论解释，引用 Hopkins 等（1996）的计算机模拟和 Rose and Sullivan（1993）的 95% 规则。

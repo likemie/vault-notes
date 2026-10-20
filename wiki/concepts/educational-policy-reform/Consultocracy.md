@@ -8,10 +8,10 @@ aliases:
 summary: "指跨国私营战略咨询公司（如麦肯锡、波士顿咨询、贝恩及四大核数所）深度嵌入并系统主导国家公共政策制定、机构重组与教育改革方案的政治治理现象，伴随公共行政能力外包与商业量规对民主审议的置换。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - consultocracy
   - governance
@@ -21,10 +21,10 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Return on Investment]]"
   - "[[Epoché]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Bureaucracy]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Co-affiliation]]"
   - "[[Confidentiality]]"
   - "[[Champ]]"
@@ -38,7 +38,6 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Consultocracy
@@ -71,7 +70,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向商业咨询寡头将企业战略工具、指标考核与合同化服务植入主权公共教育决策的核心机制。
-> - **用途** 揭示现代国家在倡导“循证决策”与“治理创新”表象下，公共政策分析职能被商业资本隐蔽捕获与异层化的权力再分配过程。
+> - **用途** 揭示现代国家在倡导“[[Evidence-Based Policy-Making|循证决策]]”与“治理创新”表象下，公共政策分析职能被商业资本隐蔽捕获与异层化的权力再分配过程。
 > - **边界** 区别于一般的外部专家听证咨询或特定工程外包；顾问统治专指私营咨询机构介入核心决策权力中枢并形成结构性政策依赖。
 
 > [!citation-card] 全球领先的外包咨询采购支出
@@ -101,7 +100,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **公共职能的系统性外包（Systemic Outsourcing of Policy Capacity）** 政策分析、战略审查与法案起草等核心主权职能被成批剥离给私营咨询公司，导致公务员科层失去内生研发与政策创新能力，形成不可逆的外部依赖。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 522)]]
-> - **管理主义[[Discourse|话语]]霸权（Managerialist Discourse [[Hegemony]]）** 将复杂的教育育人实践化约为“可交付成果”（Deliverables）、“关键[[Performance Indicators\|绩效指标]]”（KPIs）与“效率量规”，以商业逻辑[[Disciplina and Doctrina\|规训]]公立学校与基层教师。
+> - **管理主义[[Discourse|话语]]霸权（Managerialist Discourse [[Hegemony]]）** 将复杂的教育育人实践化约为“可交付成果”（Deliverables）、“关键[[Performance Indicators\|绩效指标]]”（KPIs）与“效率量规”，以商业逻辑规训公立学校与基层教师。
 > - **旋转门与[[Co-affiliation\|共同从属]]网络（Revolving Doors and Co-affiliation）** 咨询公司合伙人高频穿梭于政府内阁顾问、法定委员会主席、慈善基金会董事与跨国投行要职之间，构筑起排他性的非民选政策同盟。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 526–530)]]
 > - **商业保密与反公共性（Commercial [[Confidentiality]] and Anti-publicity）** 咨询交付物与采购协议常被赋予“商业机密”地位，阻断议会听证与公众查阅，严重侵蚀代议制民主的基石。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 526, 531)]]
 
@@ -199,7 +198,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统揭示澳大利亚人均咨询支出全球第一背景下，麦肯锡等咨询高管如何依托[[Policy Network\|政策网络]]装配教育中介实体并规避公共监督。
 > - Gunter, Hall, & Mills (2015) — 经典奠基论文，系统建构教育政策制定中的顾问统治（Consultocracy）[[Analytic Framework\|分析框架]]。
 > - [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] — 从创新政策与国家能力视角批判 [[New Public Management|NPM]] [[Externalization|外部化]]咨询依赖造成的行政[[Cognitive Deskilling|去技能化]]，阐明内生动态能力的重构机制。

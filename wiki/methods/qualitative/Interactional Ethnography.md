@@ -9,7 +9,7 @@ summary: "结合微观话语分析与历时民族志的质性研究范式，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Pre-test and Post-test]]"
   - "[[Intercoder Agreement]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

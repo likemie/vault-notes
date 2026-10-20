@@ -12,9 +12,9 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 39
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#fef3c7"
 tags:
   - method/design-based
@@ -61,7 +61,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Peer Debriefing]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

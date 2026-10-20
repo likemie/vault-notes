@@ -2,7 +2,7 @@
 summary: "肯尼斯·金运用政策话语分析系统比对中非合作论坛第六届与第七届行动计划及教育部《推进共建“一带一路”教育行动》，论证“一带一路”教育蓝图在继承中非合作论坛人力资源传统的基础上，通过构建以民心相通为核心的话语体系与全面能力合作网络，在跨大洲尺度上拓展并超越了中非合作论坛的承诺。"
 type: argument
 authors:
-  - King, K.
+  - "[[Kenneth King|King, K.]]"
 source_language: en
 citation: "King, K. (2020). China–Africa education cooperation: From FOCAC to Belt and Road. ECNU Review of Education, 3(2), 221–234. https://doi.org/10.1177/2096531119889874"
 year: 2020
@@ -29,9 +29,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Student Mobility]]"
   - "[[Classical Geopolitics]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Community of Shared Future for Mankind]]"
-  - "[[Regional Innovation System]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -43,9 +41,12 @@ related_facts:
   - "[[Belt and Road Education Action Plan]]"
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
+  - "[[Sino-Africa Joint Research Center]]"
   - "[[Asia-Africa Growth Corridor]]"
   - "[[Confucius Institute]]"
   - "[[Institute of South-South Cooperation and Development]]"
+  - "[[20+20 Cooperation Plan for Chinese and African Institutions of Higher Education]]"
+  - "[[ASEAN]]"
 related_arguments: []
 sources:
   - "[[sources/King_2020_ECNUROE|King_2020_ECNUROE]]"
@@ -59,9 +60,9 @@ title: "Argument_King_2020_ECNUROE"
 argument_key: "Argument_King_2020_ECNUROE"
 argument_display_title: "China–Africa education cooperation: From FOCAC to Belt and Road"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "ECNU Review of Education"
 book_title: ""
@@ -84,7 +85,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 中非合作论坛第六届（2015）与第七届（2018）峰会行动计划、中国教育部2016年《推进共建“一带一路”教育行动》以及2019年“一带一路”建设进展报告。
 > - **张力** 平等互惠的南南合作双向修辞与实际以单向奖学金培训为主的资源配置之间的张力；泛非层面的宏观指标承诺与务实双边磋商执行机制之间的分工张力；中非合作论坛区域机制与“一带一路”超大陆教育共同体愿景之间的嵌套关系。
-> - **贡献** [[Kenneth King|肯尼斯·金（Kenneth King）]]首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
+> - **贡献** [[Kenneth King|肯尼斯·金]]（Kenneth King）首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
 
 ---
 
@@ -107,7 +108,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **政策文本话语分析**<br>Discourse Analysis | 对[[Forum on China-Africa Cooperation\|中非合作论坛]]第六届峰会（2015年约翰内斯堡）、第七届峰会（2018年北京）行动计划文本及中国教育部2016年《[[Belt and Road Education Action Plan\|推进共建“一带一路”教育行动]]》进行逐段比对，统计合作、培训、相互、双方同意等关键术语的频次分布，提炼核心主题架构。（pp. 221, 227–229） |
-> | **机制比较与政策追踪**<br>Comparative Policy Analysis | 将中非合作论坛全非宏观承诺对接国别双边磋商的执行机制同印度—非洲论坛峰会（India-Africa Forum Summit, IAFS）及[[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]进行横向制度比对；同时跟踪2017至2019年官方进展报告中的实际落地数据（如奖学金投向、[[Luban Workshop\|鲁班工坊]]落地、[[Confucius Institute\|孔子学院]]布局）。（pp. 225, 231–232） |
+> | **机制比较与政策追踪**<br>Comparative Policy Analysis | 将中非合作论坛全非宏观承诺对接国别双边磋商的执行机制同印度—非洲论坛峰会（India-Africa Forum Summit, IAFS）及[[Asia-Africa Growth Corridor\|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]进行横向制度比对；同时跟踪2017至2019年官方进展报告中的实际落地数据（如奖学金投向、[[Luban Workshop\|鲁班工坊]]落地、[[Confucius Institute\|孔子学院]]布局）。（pp. 225, 231–232） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -167,8 +168,8 @@ issuing_organization: ""
 > | 政府奖学金配额 | 提供 18,000 个奖学金名额 | 提供 32,000 个奖学金名额 | 提供 50,000 个奖学金名额 | 学历深造资助规模实现每届近乎翻倍的增长。（pp. 224, 226） |
 > | 短期专业技术培训 | 提供 30,000 个赴华培训名额 | 提供 40,000 个赴华培训名额（2至3周业务研修） | 提供 50,000 个研修研讨名额 | 重点面向非洲政府技术官员与公共管理人员。（pp. 224, 226） |
 > | 本土技能人才培养 | 援建少量职业实训中心 | 为非洲本土就地培训 200,000 名职业技术人员 | 在非洲设立 10 所[[Luban Workshop\|鲁班工坊]] | 由宏观指标要求转向高水平技能实训基地常态化建设。（pp. 224, 227） |
-> | 高端管理人才专项 | 启动中非联合研究交流计划 | 提议设立[[Institute of South-South Cooperation and Development|南南合作与发展学院]] | 正式建立南南学院，另设 1,000 名高端精英培养专项 | 聚焦国家治理经验互鉴与战略决策人才培养。（pp. 224, 226） |
-> | 专项高校与联合科研 | 推进[[20+20 Cooperation Plan for Chinese and African Institutions of Higher Education|中非高校20+20合作计划]] | 援建 5 所交通大学与 1 所中非航空学校 | 支持[[Sino-Africa Joint Research Center|中非联合研究中心]]，资助 150 名硕博生联合攻关 | 对接跨国重大基础设施，拓展生态与新能源联合研究。（pp. 224, 226–227） |
+> | 高端管理人才专项 | 启动中非联合研究交流计划 | 提议设立[[Institute of South-South Cooperation and Development\|南南合作与发展学院]] | 正式建立南南学院，另设 1,000 名高端精英培养专项 | 聚焦国家治理经验互鉴与战略决策人才培养。（pp. 224, 226） |
+> | 专项高校与联合科研 | 推进[[20+20 Cooperation Plan for Chinese and African Institutions of Higher Education\|中非高校20+20合作计划]] | 援建 5 所交通大学与 1 所中非航空学校 | 支持[[Sino-Africa Joint Research Center\|中非联合研究中心]]，资助 150 名硕博生联合攻关 | 对接跨国重大基础设施，拓展生态与新能源联合研究。（pp. 224, 226–227） |
 > | 医疗卫生人才培养 | 派遣常规医疗队 | 援建非洲疾控中心，培训医护与公卫人员 | 实施对非卫生合作，强化疾控中心技术运维支持 | 融入跨国公共卫生应急与医疗协作网络。（pp. 224, 226） |
 > | 媒体与青年人文交流 | 支持中非媒体互访 | 每年培训 1,000 名非洲媒体人员，500 名青年访华 | 纳入丝绸之路国际剧院联盟、博物馆联盟及艺术节网络 | 地方与民间人文交流融入多边文化网络。（pp. 225, 227） |
 > | [[Belt and Road Initiative\|一带一路倡议]]引入 | 文本未曾提及 | 仅提及 1 次（欢迎非洲参与21世纪海上丝绸之路） | 文本数十次高频出现“一带一路”与丝路等专属概念 | 标志着中非论坛框架与“一带一路”倡议形成紧密衔接。（pp. 225–227） |
@@ -272,27 +273,27 @@ issuing_organization: ""
 > |---|---|---|
 > | 战略导向 | 依托经济与军事优势维护既有地缘战略利益（p. 233） | 倡导互利共赢、多边协商与利益交融共同体（p. 233） |
 > | 实施方式 | 偏好运用制裁、政治施压与单边法规等强制手段（p. 233） | 偏好运用贸易投资、高额奖学金与基建合作等正向激励（p. 233） |
-> | 话语基调 | 突出意识形态优越感与制度[[Disciplina and Doctrina\|规训]]（p. 232） | 突出包容共存、民心相通与[[Community of Shared Future for Mankind\|命运共同体]]理念（pp. 231–232） |
+> | 话语基调 | 突出意识形态优越感与制度规训（p. 232） | 突出包容共存、民心相通与[[Community of Shared Future for Mankind\|命运共同体]]理念（pp. 231–232） |
 > | 伙伴关系定位 | 传统的捐助国—受援国等级关系，往往附加政治治理条件（p. 222） | 强调平等协商、相互支持与不干涉内政的南南合作（p. 222） |
 
 #### 2. 全非宏观指标对接国别具体项目，常态化督查确保承诺如期兑现
 
 在具体实施机制上，中非合作论坛采取全非宏观承诺与国别双边磋商相结合的推进模式，由中方后续行动委员会同在京非洲使团保持常态对接与进度跟踪。
 
-> [!contrast-table] 中非合作论坛（FOCAC）、“一带一路”倡议（BRI）与[[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]制度设计对比
-> | 比较维度 | 中非合作论坛（FOCAC） | “一带一路”教育行动（BRI） | [[Asia-Africa Growth Corridor|亚非增长走廊（AAGC）]] |
+> [!contrast-table] 中非合作论坛（FOCAC）、“一带一路”倡议（BRI）与[[Asia-Africa Growth Corridor|亚非增长走廊]]（Asia-Africa Growth Corridor, AAGC）制度设计对比
+> | 比较维度 | 中非合作论坛（FOCAC） | “一带一路”教育行动（BRI） | [[Asia-Africa Growth Corridor\|亚非增长走廊（AAGC）]] |
 > |---|---|---|---|
 > | 发起主体 | 中国与非洲 53 个建交国政府共同发起（p. 222） | 中华人民共和国教育部印发国家战略文件（p. 223） | 印度与日本两国政府于 2017 年 5 月联合倡议（p. 223） |
 > | 地理覆盖 | 聚焦非洲大陆（覆盖 54 个非洲国家及非盟委员会）（p. 223） | 跨区域覆盖亚非欧数十个共建主权国家（p. 223） | 聚焦连接非洲大湖区、印度洋及东南亚的海上走廊（p. 223） |
 > | 文本起草机制 | 中非高官会与非洲驻华使节团深度参与磋商（p. 222） | 中国教育部官方战略规划，面向共建国家开放对接（p. 232） | 仅由印日三国智库闭门起草，非洲完全未参与编制（p. 232） |
 > | 执行与交付机制 | 全非宏观承诺对接国别双边磋商，后续委员会常态督查（p. 225） | 中央顶层统筹、部省共建、高校与企业海外共建实体（pp. 230–231） | 缺乏常态化的政府间执行秘书处与稳定财政落实渠道（p. 232） |
-> | 核心理念与话语 | 南南合作、互利共赢、文明互学互鉴（pp. 222, 231） | [[People-to-People Connectivity|民心相通]]、共同繁荣、构建教育共同体（pp. 228–229） | 高质量基础设施、自由开放的印度洋—太平洋战略 |
+> | 核心理念与话语 | 南南合作、互利共赢、文明互学互鉴（pp. 222, 231） | [[People-to-People Connectivity\|民心相通]]、共同繁荣、构建教育共同体（pp. 228–229） | 高质量基础设施、自由开放的印度洋—太平洋战略 |
 
 对比显示，外部合作倡议能否顺利推开，关键在于受援区域在议程设置中是否拥有充分的主动参与权。
 
-> [!case] [[Asia-Africa Growth Corridor|亚非增长走廊（Asia-Africa Growth Corridor, AAGC）]]的智库封闭性与非洲缺席
-> - **倡议发起与对冲意图** 2017 年 5 月，印度与日本提出[[Asia-Africa Growth Corridor|亚非增长走廊（AAGC）]]联合构想，意在非洲大陆提供对冲“一带一路”基础设施与人力开发的替代性方案。（pp. 223, 232）
-> - **闭门起草与主体缺位** 审视其起草机构结构发现，核心愿景文件完全由三家亚洲智库联合编制：印度发展中国家研究和信息系统中心（Research and Information System for Developing Countries, [[Regional Innovation System|RIS]]）、日本贸易振兴机构亚洲经济研究所（Institute of Developing Economies, Japan External Trade Organization, IDE-JETRO）及东亚东盟经济研究中心（Economic Research Institute for ASEAN and East Asia, ERIA），全流程无任何非洲学者、智库或政府机构实质参与。（pp. 232–233）
+> [!case] 亚非增长走廊（Asia-Africa Growth Corridor, AAGC）的智库封闭性与非洲缺席
+> - **倡议发起与对冲意图** 2017 年 5 月，印度与日本提出亚非增长走廊（AAGC）联合构想，意在非洲大陆提供对冲“一带一路”基础设施与人力开发的替代性方案。（pp. 223, 232）
+> - **闭门起草与主体缺位** 审视其起草机构结构发现，核心愿景文件完全由三家亚洲智库联合编制：印度发展中国家研究和信息系统中心（Research and Information System for Developing Countries, RIS）、日本贸易振兴机构亚洲经济研究所（Institute of Developing Economies, Japan External Trade Organization, IDE-JETRO）及东亚[[ASEAN|东盟]]经济研究中心（Economic Research Institute for ASEAN and East Asia, ERIA），全流程无任何非洲学者、智库或政府机构实质参与。（pp. 232–233）
 > - **制度反差与实效阻滞** 这种缺乏受援方主体参与的排他性起草模式，同中非合作论坛历经高官会与非洲驻华使团多轮磋商的开放机制形成鲜明反差，导致该倡议在非洲大陆难以取得实质进展。（pp. 223, 233）
 >
 > > [!lessons]- 案例启示：外部合作倡议的主体参与法则

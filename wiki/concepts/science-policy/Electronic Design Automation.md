@@ -9,7 +9,7 @@ aliases:
 summary: "利用计算机辅助软件算法与多层次抽象工具集，自动化实现超大规模集成电路及微系统的逻辑综合、物理版图、多物理场仿真与可制造性验证的核心技术生态。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"

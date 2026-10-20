@@ -11,7 +11,7 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情境化过程"
 type: concept
 domain: "comparative-education"
-related_count: 61
+related_count: 60
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Going Native]]"
   - "[[Normal School]]"
+  - "[[Order of Discourse]]"
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
   - "[[Learner-Centred Education]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Habitus]]"
   - "[[Shape-Shifting]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Mātauranga Māori]]"
@@ -58,7 +58,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Basil Bernstein]]"
   - "[[Jason Beech]]"
@@ -177,7 +176,7 @@ updated: 2026-10-20
 > **三层空间变形与[[Floating Signifier|漂浮能指]]的抽象化** 再情境化在不同空间层次上呈现出差异化机制：在全球层，话语被抽象化为漂浮能指以寻求最大跨国适用性；在国家层，官方将革新与保守话语并置以协商多元利益；在实践层，教师根据地缘物质条件（如将尊重多样性解读为“尊重贫困”）赋予其具体含义，甚至产生与原始意图相反的效果。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
 
 > [!claim] [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]
-> **官方再情境化[[Champ|场域]]与话语秩序重构** 在课程改革中，官方再情境化场域（ORF）通过主导性再情境化原则（如双文化主义、地方化与伦理原则）重新整合[[Heterogeneity|异质性]]话语，以构建国家课程的新秩序，但各原则间往往隐伏着[[Ontology|本体论]]与[[Epistemology|认识论]]张力。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 33–40)]]
+> **官方再情境化[[Champ|场域]]与[[Order of Discourse|话语秩序]]重构** 在课程改革中，官方再情境化场域（ORF）通过主导性再情境化原则（如双文化主义、地方化与伦理原则）重新整合[[Heterogeneity|异质性]]话语，以构建国家课程的新秩序，但各原则间往往隐伏着[[Ontology|本体论]]与[[Epistemology|认识论]]张力。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 33–40)]]
 
 ---
 
@@ -214,7 +213,7 @@ updated: 2026-10-20
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 — 语篇再情境化[[Champ|场域]]理论奠基** Bernstein 提出再情境化概念，系统划分[[Knowledge Production|知识生产]]语境、官方再情境化场域（ORF）与教学再情境化场域（PRF），分析阶级权力如何通过[[Discourse|话语]]重新定位来[[Disciplina and Doctrina|规训]]教育实践。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350; Bernstein, 1990)]]
+> - **1990 — 语篇再情境化[[Champ|场域]]理论奠基** Bernstein 提出再情境化概念，系统划分[[Knowledge Production|知识生产]]语境、官方再情境化场域（ORF）与教学再情境化场域（PRF），分析阶级权力如何通过[[Discourse|话语]]重新定位来规训教育实践。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350; Bernstein, 1990)]]
 > - **2009 — 跨国教育思想转移视角扩展** Schulte 将再情境化发展为跨国教育转移[[Analytic Framework|分析框架]]，通过[[John Dewey|杜威]]在中国的百年接受史展现本土行动者基于意识形态议程的选择性挪用与重写机制。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **2009 — 全球—国家—实践三层空间变异** [[Argument_Beech_2009_CE|Beech (2009a)]] 提出[[Global Educational Discourse|全球教育话语]]的三层空间再情境化，揭示能力话语如何被抽空为[[Floating Signifier|漂浮能指]]，并在国家政策并置与学校地缘物质条件制约下发生层级变形。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
 > - **2009 — 全球教育场域五位置模型与实践脱节** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 进一步构建五位置话语循环模型，揭示国际机构过度简化话语并在降落微观学校机构时引发严重的再情境化脱节与替代性依赖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–356)]]
@@ -267,6 +266,6 @@ updated: 2026-10-20
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再情境化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 提出全球—国家—实践三层再情境化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术话语并在降落微观学校机构时引发严重的再情境化脱节与制度扰动。
-> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中官方再情境化场域运用双文化主义、地方化与道德原则重构话语秩序的实践与张力。
+> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中官方再情境化场域运用双文化主义、地方化与道德原则重构[[Order of Discourse|话语秩序]]的实践与张力。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心教学法（[[Learner-Centred Education|LCE]]）被[[Pragmatic Paradigm|实用主义]]再情境化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019, pp. 9, 11)]] — 引入学校发展与[[Absorptive Capacity|组织吸收能力]]视角，论证外部实证研究与治理工具在单体学校发生真实转化的前提是经历本土重构（Re-Kontextualisierung）。

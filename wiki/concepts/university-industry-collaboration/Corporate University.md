@@ -8,7 +8,7 @@ aliases:
 summary: "企业集中组织教育培训、知识管理和领导力发展的制度形式，常用于把员工学习、组织战略和内部认证体系整合起来"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Champ]]"
   - "[[Corporate Education]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Institutional Isomorphism]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Corporate University
@@ -108,7 +109,7 @@ updated: 2026-10-16
 
 > [!warning]
 > - 部分学者认为"企业大学"仅仅是将现有培训部门重新包装的营销策略，并不代表培训质量的实质提升（Blass, 2001; Walton, 2005, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.189]]）
-> - 企业大学概念在美国的起源和最先采纳——以及在美国 LME 市场协调环境中的自然兼容——揭示了模仿型同构中隐藏的地缘政治维度：美国的管理实践最有可能成为全球模板([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.195]])
+> - 企业大学概念在美国的起源和最先采纳——以及在美国 LME 市场协调环境中的自然兼容——揭示了模仿型同构中隐藏的[[Geopolitics|地缘政治]]维度：美国的管理实践最有可能成为全球模板([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.195]])
 > - 企业大学的外包和高度市场化正在模糊教育与商业、公立与私立的界线。详见 [[Corporate Education]] 争议与批评部分([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.192–193]])
 
 ---

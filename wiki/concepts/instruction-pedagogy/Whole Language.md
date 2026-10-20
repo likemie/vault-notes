@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 44
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Open-Mindedness]]"
   - "[[Socioeconomic Status]]"
@@ -49,7 +48,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Intervention Research]]"
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Ken Goodman]]"
   - "[[Ivan Snook]]"
@@ -153,7 +151,7 @@ updated: 2026-10-20
 > **次政府铁三角与排他性科学修辞** 杰奎琳·埃德蒙森（Jacqueline Edmondson）等学者揭示，全语言运动在 1990 年代末至 2000 年代初遭遇的所谓“科学失败”，本质上是政治经济利益结盟主导的制度性清洗：
 > 1. **铁三角利益同盟** 由联邦科研官僚（美国[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]，[[National Institute of Child Health and Human Development|NICHD]]）、国会保守派议员与商业教科书寡头（如麦格劳-希尔/《[[Open Court Reading]]》）组成了稳固的“次政府铁三角（Subgovernment Iron Triangle）”。
 > 2. **排他性立法与科研[[Paradigm|范式]]封杀** 1997 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）与 2000 年[[National Reading Panel|国家阅读委员会]]（NRP）报告，将[[Causality|因果推断]]实验设计（[[Randomised Controlled Trials|RCT]]）与拼读切片定性为唯一合法的“科学本位阅读研究”（SBRR），系统性排除了全语言依赖的质性、叙事与[[Action Research|行动研究]]。
-> 3. **商业变现与教师去专业化** 全语言倡导儿童文学情境化阅读与教师教学裁量权，难以打包为标准化、高额溢价的消耗性练习册；而拼读切片模式能够为商业寡头带来数十亿美元的脚本化教材采购订单。通过宣称全语言“缺乏实证科学支持”，商业集团与新自由主义政客完成了公共教育预算的利益寻租与对[[Teacher Professional Agency|教师专业自主权]]的[[Disciplina and Doctrina|规训]]。
+> 3. **商业变现与教师去专业化** 全语言倡导儿童文学情境化阅读与教师教学裁量权，难以打包为标准化、高额溢价的消耗性练习册；而拼读切片模式能够为商业寡头带来数十亿美元的脚本化教材采购订单。通过宣称全语言“缺乏实证科学支持”，商业集团与新自由主义政客完成了公共教育预算的利益寻租与对[[Teacher Professional Agency|教师专业自主权]]的规训。
 
 ---
 
@@ -195,7 +193,7 @@ updated: 2026-10-20
 
 > [!critique] 次政府利益同盟与教科书商业寻租
 > - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 指出，全语言被贴上“伪科学”标签，本质上是一场次政府铁三角（联邦官员、保守派议员、出版集团）联手主导的商业清洗。
-> - **反抗商业[[Disciplina and Doctrina|规训]]与教师去专业化** 全语言强调文学[[Open-Mindedness|开放性]]与教师的专业裁量权，难以被批量打包为昂贵练习册；而拼读切片模式借由排他性法律门槛，成功将公共预算转化为出版寡头的垄断利润，致使全语言沦为政商旋转门寻租与技术官僚规训的牺牲品。
+> - **反抗商业规训与教师去专业化** 全语言强调文学[[Open-Mindedness|开放性]]与教师的专业裁量权，难以被批量打包为昂贵练习册；而拼读切片模式借由排他性法律门槛，成功将公共预算转化为出版寡头的垄断利润，致使全语言沦为政商旋转门寻租与技术官僚规训的牺牲品。
 
 ---
 

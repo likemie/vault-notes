@@ -47,11 +47,11 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Champ]]"
   - "[[Commensuration]]"
+  - "[[Geopolitics]]"
   - "[[Evidence-Based Education]]"
   - "[[Grand Theory]]"
   - "[[Heterogeneity]]"
   - "[[Incommensurability]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Legitimation Crisis]]"
@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Jürgen Habermas
@@ -195,7 +195,7 @@ updated: 2026-10-17
 > [!person-network] 思想网络与学术关联
 > - **思想前驱／哲学源流** [[Immanuel Kant|康德]] — [[Jürgen Habermas|哈贝马斯]]继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈。
 > - **法兰克福学派师承** 霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno） — 导师与思想策源地；哈贝马斯继承其[[Ideology Critique|意识形态批判]]，但克服了其绝望的文化悲观论。
-> - **地缘政治经济学应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 运用哈贝马斯[[Legitimation Crisis|合法化危机]]理论论证[[Technological Republic|技术共和国]]中公共部门消除[[Innovation Desert|创新荒漠]]与交付技术福利的紧迫性。
+> - **[[Geopolitics|地缘政治]]经济学应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 运用哈贝马斯[[Legitimation Crisis|合法化危机]]理论论证[[Technological Republic|技术共和国]]中公共部门消除[[Innovation Desert|创新荒漠]]与交付技术福利的紧迫性。
 > - **教育理论继承与应用者** [[Stephen Kemmis|斯蒂芬·凯米斯]] — 将哈贝马斯的交往行动理论与知识兴趣说发展为批判性教育[[Action Research|行动研究]]的全球先驱。
 > - **当代教育政策批判应用者** [[Klaus Nielsen|克劳斯·尼尔森]] — 运用哈贝马斯合法化危机理论深刻解构现代[[Evidence-Based Education|循证教育]]神话。
 > - **理论论敌与争鸣对象** [[Jean-François Lyotard|利奥塔]]、福柯与德里达 — 围绕后现代解构主义与现代性启蒙理性的世纪论战。
@@ -212,7 +212,7 @@ updated: 2026-10-17
 >
 > > [!axis] [[Ideal Speech Situation|理想言说情境]]：规范性北极星还是脱离实际的乌托邦？
 > > - **批判肯定派（Kemmis, 2014）** 认为理想言说情境并非描述现实状态，而是作为规制性理想（Regulative Ideal），为诊断现实沟通中的权力扭曲与意识形态压迫提供不可或缺的参照坐标。
-> > - **权力现实主义派（Foucault 学派）** 认为[[Discourse|话语]]与权力不可分割，任何被视为纯粹理性的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina|规训]]，不存在绝对无污染的语言绿洲。
+> > - **权力现实主义派（Foucault 学派）** 认为[[Discourse|话语]]与权力不可分割，任何被视为纯粹理性的公共审议背后均深嵌着知识-权力的微观规训，不存在绝对无污染的语言绿洲。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Liberal Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Encyclopaedism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
@@ -40,8 +39,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Citizen Science]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Culture Générale
@@ -88,7 +86,7 @@ updated: 2026-10-17
 > *...in an era when the humanities dominated the school curriculum in Europe, when Bildung in Germany, Culture Générale in France, Liberal Education in England or Klassiki Paedeia in Greece had basically the same ultimate aim; the preparation of intellectually, morally and aesthetically cultivated individuals, allegedly capable and willing to provide good service to their country and to mankind.*
 
 > [!boundary] 概念边界
-> - 不等于 **现代通识教育（[[General Education]]）** 现代通识教育多指向大学阶段跨学科思维工具的迁移与选修分布（如 Peterson 与 IB 课程）；而普通文化是特指 19 世纪至 20 世纪中期法国国立中学统一[[Disciplina and Doctrina\|规训]]、以古典语文学与笛卡尔理性为核心的必修精英课程传统。
+> - 不等于 **现代通识教育（[[General Education]]）** 现代通识教育多指向大学阶段跨学科思维工具的迁移与选修分布（如 Peterson 与 IB 课程）；而普通文化是特指 19 世纪至 20 世纪中期法国国立中学统一规训、以古典语文学与笛卡尔理性为核心的必修精英课程传统。
 > - 不等于 **泛化的个人自我形成（[[Bildung]]）** 德国教化强调个体精神内在、非目的论的自由展开与浪漫主义有机生成；法国普通文化则更具规范性、理性主义色彩，直接服务于国家官僚与法律行政体系的制度化选拔。
 > - 不等于 **百科全书式知识灌输（[[Encyclopaedism]]）** 普通文化不以穷尽具体知识信息为目标，强调少而精的典范文本研读与严谨论证写作训练（Dissertation）。
 
@@ -238,6 +236,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立[[Culture Générale|普通文化]]理想，并主导法国中等教育逾一个世纪。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 将普通文化定性为 19 世纪支配欧洲课程的[[Paideia\|古典教化]]四重奏之一，剖析其在战后的道德破产与向[[Scientific Paradigm\|科学范式]]的转换。

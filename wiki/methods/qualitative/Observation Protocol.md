@@ -10,7 +10,7 @@ summary: "质性与高推论实证观察中用于系统记录田野信息、微�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Structured Observation]]"
   - "[[Pilot Testing]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

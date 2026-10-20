@@ -49,6 +49,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
   - "[[Cosmopolitanism]]"
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Picking the Willing]]"
   - "[[Global Education Governing Complex]]"
@@ -61,7 +62,6 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -207,7 +207,7 @@ updated: 2026-10-20
 > > - **批判政治经济学派** 批判学者指出，国际协定建立的所谓“国际基准”，实质上是西方金融机构主导的针对全球南方的量化规制，严重侵蚀了发展中国家的主权与本土政策自主空间。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > > - **多边建制派倡导者** 坚持认为全球统一基准为揭示被掩盖的不平等提供了唯一透明的问责利器。
 >
-> > [!axis] 大学知识的[[Cosmopolitanism|世界主义]]承诺 vs. 主权国家地缘政治“再领土化”
+> > [!axis] 大学知识的[[Cosmopolitanism|世界主义]]承诺 vs. 主权国家[[Geopolitics|地缘政治]]“再领土化”
 > > 质询大学在追求全球治理影响力的同时如何面对民族国家的战略钳制。
 > >
 > > - **世界社会与地缘政治学者** 学界识别出一个根本悖论：大学在价值追求上越是拥抱世界主义与 SDGs 全球影响，民族国家政策制定者越是急切地将大学“再领土化”为保障国家经济引擎、科技主权与地缘战略声望的竞争性工具。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
@@ -243,6 +243,6 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论述如何将联合国可持续发展目标（SDGs）作为战略罗盘，通过四层分解金字塔转化为具备可量化指标与跨部门参与的[[Mission-Oriented Innovation Policy|使命导向创新政策]]组合。
-> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与地缘政治再领土化风险。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与[[Geopolitics|地缘政治]]再领土化风险。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明国际协定如何推动针对全球南方的量化规制转向，揭示 [[UNESCO]] 与[[World Bank|世界银行]]在基准统筹与合规执法上的分工，以及五大多边组织在资金与数据协定上的排他性博弈。
 

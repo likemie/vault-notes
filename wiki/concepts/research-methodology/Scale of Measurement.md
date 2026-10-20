@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究中将理论构念转化为可分析数据的赋值法则与度量层级，涵盖分类量表（名义、顺序）与连续量表（等距、比率），其心理计量属性与量程灵敏度直接决定了统计模型推断效度与因果评价公信力。"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Chi-Squared Test]]"
   - "[[Analysis of Variance]]"
   - "[[Ordinary Least Squares]]"
-  - "[[Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scale of Measurement
@@ -201,6 +200,6 @@ updated: 2026-10-16
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]] — 详述终结性测量尺度的心理计量属性对 [[Randomised Controlled Trials\|RCT]] 因果效度的决定性影响，系统批判自编测验虚高与商业测验量程截断，并介绍 [[SPECTRUM]] 等测量工具库准入实践。

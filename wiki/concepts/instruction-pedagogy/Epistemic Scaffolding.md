@@ -6,7 +6,7 @@ aliases:
 summary: "教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
 confidence: medium
@@ -180,11 +179,11 @@ updated: 2026-10-20
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 显性学科解释标准与反思提问双轨支架的作用机制 | 学科标准直接引导内容评估并间接辐射信源/自身监控；反思提示语显性驱动信源与自我评估并锚定于内容标准；协同驱动 4 轮提示词迭代与图像修改 | 质性深度案例分析 | 证实双轨显性[[Epistemology\|认识论]]支架是中学生在人机协同中维系三维[[Epistemological Vigilance\|认识论警觉]]的关键机制保障 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学[[Man-Computer Symbiosis\|人机协同]]解释课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 显性学科解释标准与反思提问双轨支架的作用机制 | 学科标准直接引导内容评估并间接辐射信源/自身监控；反思提示语显性驱动信源与自我评估并锚定于内容标准；协同驱动 4 轮提示词迭代与图像修改 | 质性深度案例分析 | 证实双轨显性[[Epistemology\|认识论]]支架是中学生在人机协同中维系三维[[Epistemological Vigilance\|认识论警觉]]的关键机制保障 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。

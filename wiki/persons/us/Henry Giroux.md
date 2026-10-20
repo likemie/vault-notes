@@ -3,7 +3,7 @@ title: Henry Giroux
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-20
 nationality: us
 person_region: "us"
 person_related_count: 13
@@ -27,12 +27,12 @@ aliases:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Hidden Curriculum]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Determinism]]"
   - "[[Conscientization]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
+  - "[[Geopolitics]]"
   - "[[Critical Thinking]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -60,7 +60,7 @@ related_persons:
 ### 1. 结构再生产批判与隐蔽课程（Hidden Curriculum）
 在 1983 年出版的经典专著《教育中的理论与抗争》（*Theory and Resistance in Education*）中，吉鲁对正规学校教育进行了激进的政治学解构：
 - **服务于支配社会** 吉鲁指出，“学校本质上是在支配社会的利益主导下运作的”（schools function in the interest of the dominant society）；
-- **[[Hidden Curriculum|隐蔽课程]]与霸权[[Disciplina and Doctrina|规训]]** 除了正式课程大纲，学校更通过无处不在的科层规程、仪式规范和权威关系（即隐蔽课程），在日常生活中潜移默化地再生产不平等的阶级关系与顺从意识形态。
+- **[[Hidden Curriculum|隐蔽课程]]与霸权规训** 除了正式课程大纲，学校更通过无处不在的科层规程、仪式规范和权威关系（即隐蔽课程），在日常生活中潜移默化地再生产不平等的阶级关系与顺从意识形态。
 
 ### 2. 抵制理论（Resistance Theory）与主体能动性
 与早期机械[[Determinism|决定论]]式的马克思主义再生产理论（如鲍尔斯与金蒂斯的对应原则）不同，吉鲁高度强调被压迫主体在制度内部的能动性与抗争空间：
@@ -73,7 +73,7 @@ related_persons:
 
 在比较与[[International Education|国际教育]]研究中，吉鲁的理论成为解构新自由主义全球化教育输出的关键[[Epistemology|认识论]]武器：
 - **解构自愿借用神话** 如[[Val D. Rust|瓦尔·拉斯特]]、布赖恩·约翰斯通与卡琳·阿拉夫（Rust, Johnstone, & Allaf, 2009）在拓展全球化教育响应模型时所论证，主流比较教育学长期将跨国制度流动假定为平等自愿的“[[Policy Borrowing|政策借用]]”（Policy Borrowing）或改良型“接受”；
-- **确立“强制再生产”维度** 援引吉鲁的理论，学者们指出核心发达国家与跨国金融机构往往凭借不平等的经济与地缘政治支配力，强行向发展中国家植入资本主义市场化体制，这种跨国教育输出本质上是**旨在维系中心—外围依附关系的强制再生产（Reproduction）**；
+- **确立“强制再生产”维度** 援引吉鲁的理论，学者们指出核心发达国家与跨国金融机构往往凭借不平等的经济与[[Geopolitics|地缘政治]]支配力，强行向发展中国家植入资本主义市场化体制，这种跨国教育输出本质上是**旨在维系中心—外围依附关系的强制再生产（Reproduction）**；
 - **激发本土抵制与文化恢复** 吉鲁关于霸权与反抗的辩证阐释，为比较教育学者理解全球南方师生与原住民社群抵制西方同质化、维护本土知识与文化自主性（Restoration）提供了坚实的理论支撑。
 
 ---

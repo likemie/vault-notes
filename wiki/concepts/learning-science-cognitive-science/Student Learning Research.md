@@ -7,7 +7,7 @@ aliases:
 summary: "以学生在正式教育情境中如何处理具体任务为研究对象的研究传统，连接现象图式学、建构主义与教学设计。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,12 +30,11 @@ related_persons:
   - "[[John Biggs]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Student Learning Research
@@ -154,5 +153,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 重建学生学习研究的跨国理论谱系，提炼[[Phenomenography\|现象图式学]]与[[Constructivist Paradigm\|建构主义]]的共同学习观，并将其转化为[[Constructive Alignment\|建构性对齐]]。

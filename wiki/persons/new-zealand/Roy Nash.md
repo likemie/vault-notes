@@ -8,7 +8,7 @@ summary: "新西兰批判教育社会学者、批判实在论方法论学者、�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 23
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,14 +22,17 @@ tags:
   - social-class
   - school-effectiveness
 related_concepts:
+  - "[[Critic and Conscience of Society]]"
   - "[[Determinism]]"
+  - "[[International Education]]"
   - "[[Cultural Capital]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[School Choice]]"
   - "[[Ecological Fallacy]]"
-  - "[[Critic and Conscience of Society]]"
+  - "[[Critical Pedagogy]]"
   - "[[School Effectiveness]]"
+  - "[[Operationalization]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -39,7 +42,8 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
+  - "[[Analytic Framework]]"
+  - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -83,7 +87,7 @@ updated: 2026-10-20
 > - **1970 年代后期** 移居新西兰加盟梅西大学教育系，开启长达近三十年针对新西兰公立教育体制、毛利教育与阶级不平等的宏微观结合实证研究。
 > - **1990 年代** 确立[[Critical Realism|批判实在论]]视角下的教育社会学整合框架，主编并出版多部关于新西兰公立教育与社会阶级的专著，与理查德·哈克（Richard Harker）等人开展大规模纵向追踪调查。
 > - **2003–2004** 出版总结性专著《新西兰的社会阶级与教育》（*Social Class and Education in New Zealand*）及方法论经典论文《社会学中的解释与量化》（*Explanation and Quantification in Sociology*）。
-> - **2006** 在新西兰北帕默斯顿因病逝世，国际教育学界对其卓越的批判洞见与方法论坚守致以崇高敬意。
+> - **2006** 在新西兰北帕默斯顿因病逝世，[[International Education|国际教育]]学界对其卓越的批判洞见与方法论坚守致以崇高敬意。
 
 ---
 
@@ -108,22 +112,22 @@ updated: 2026-10-20
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 将实在论因果机制与[[Pierre Bourdieu|布迪厄]]阶层分析结合，建立“社会阶层—家庭资源—认知发展—[[School Choice|学校选择]]”的四维解释架构，成为南半球教育社会学的代表性分析框架。
+> - **理论路径** 将实在论因果机制与[[Pierre Bourdieu|布迪厄]]阶层分析结合，建立“社会阶层—家庭资源—认知发展—[[School Choice|学校选择]]”的四维解释架构，成为南半球教育社会学的代表性[[Analytic Framework|分析框架]]。
 > - **方法路径** 深刻澄清量化统计技术与因果机制解释的本质界限，警示学界防范多重共线性、[[Ecological Fallacy|生态学谬误]]以及将统计关联误当因果规律的技术主义短视。
 > - **公共智识路径** 成为新西兰大学学者履行“[[Critic and Conscience of Society|社会的批评者与良知]]”法定职能的标志性典范，其研究成为反击削减教育公共福利、抵制将结构性不平等转嫁给教师绩效问责的学术基石。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 将纳什 2003 年对教育成就差异非学校因素的透彻分析，作为当代大学学者践行“社会的批评者与良知”角色的卓越典范。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引纳什关于量化数据极易被政策官僚挪用为政治宣传工具的方法论警告，全面解构[[John Hattie|哈蒂]]的宏观二阶元分析综合模型。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引纳什关于量化数据极易被政策官僚挪用为政治宣传工具的方法论警告，全面解构[[John Hattie|哈蒂]]的宏观[[Meta-meta-analysis|二阶元分析]]综合模型。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **梅西大学同行伙伴** [[Ivan Snook]]、Richard Harker（长期并肩作战的批判学者，共同构筑了享誉国际的梅西大学批判教育学与教育社会学研究阵地）。
-> - **批判学术知音** [[Gerald Grace]]（国际教育社会学者，在学术著述中高度推崇纳什直面社会阶级现实的学理勇气，将其奉为社会良知学者的典范）；[[Basil Bernstein]]（理论对话者，在社会结构制约与代码传递上形成深层学理共振）。
-> - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的新自由主义学校效能论提出根本性学理质询）。
+> - **梅西大学同行伙伴** [[Ivan Snook]]、Richard Harker（长期并肩作战的批判学者，共同构筑了享誉国际的梅西大学[[Critical Pedagogy|批判教育学]]与教育社会学研究阵地）。
+> - **批判学术知音** [[Gerald Grace]]（[[International Education|国际教育]]社会学者，在学术著述中高度推崇纳什直面社会阶级现实的学理勇气，将其奉为社会良知学者的典范）；[[Basil Bernstein]]（理论对话者，在社会结构制约与代码传递上形成深层学理共振）。
+> - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的新自由主义[[School Effectiveness|学校效能]]论提出根本性学理质询）。
 
 ---
 
@@ -131,14 +135,14 @@ updated: 2026-10-20
 
 > [!debates] 学术争议
 >
-> > [!axis] 社会阶级结构制约 vs 学校效能独立论
+> > [!axis] 社会阶级结构制约 vs [[School Effectiveness|学校效能]]独立论
 > > 围绕学校教育能否独立抹平阶级差距与学业不平等，纳什的阶级实在论与学校效能运动展开长期交锋。
 > >
-> > - **[[Roy Nash|Roy Nash (2003)]]** 坚持方差分解实证结果，指出 70% 至 80% 的学业差异深植于家庭阶级背景与校外资源，缺乏外部社会经济改革的学校干预无法消除结构性不平等。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
+> > - **Roy Nash (2003)** 坚持方差分解实证结果，指出 70% 至 80% 的学业差异深植于家庭阶级背景与校外资源，缺乏外部社会经济改革的学校干预无法消除结构性不平等。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
 > > - **学校效能论者与新自由主义改革者** 主张学校和教师能够克服家庭背景缺陷，将教育改革焦点集中于校内教学技术和教师绩效问责。
 
 > [!warning] 未解问题与边界
-> **实在论因果机制的量化操作化难题** 批判实在论强调深层结构、生成机制与情境偶然性的复杂互动，如何在常规量化建模中精确分离文化资本、认知发展与代际流动的具体因果权重，仍是后继学者持续探索的方法论课题。
+> **实在论因果机制的量化[[Operationalization|操作化]]难题** [[Critical Realism|批判实在论]]强调深层结构、生成机制与情境偶然性的复杂互动，如何在常规量化建模中精确分离[[Cultural Capital|文化资本]]、认知发展与代际流动的具体因果权重，仍是后继学者持续探索的方法论课题。
 
 ---
 

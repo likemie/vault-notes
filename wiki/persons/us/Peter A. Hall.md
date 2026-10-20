@@ -9,7 +9,7 @@ summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,7 +42,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[James Mahoney]]"

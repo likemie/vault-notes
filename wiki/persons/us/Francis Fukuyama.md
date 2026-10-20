@@ -8,10 +8,10 @@ summary: "美国著名政治学家、政治哲学家，斯坦福大学高级研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1952"
 died: ""
 lifespan: "1952–至今"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Culture of Disbelief]]"
   - "[[Falsification]]"
   - "[[Determinism]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Francis Fukuyama
@@ -117,7 +118,7 @@ updated: 2026-10-16
 ## 影响路径
 
 > [!influence-path] 理论影响与学术对话
-> - **地缘政治哲学** [[End of History Thesis|历史终结论]]定义了后冷战三十年的西方大国战略叙事，既成为达沃斯全球主义的哲学背书，也成为现实主义地缘学者批判战略盲目的核心靶子。
+> - **[[Geopolitics|地缘政治]]哲学** [[End of History Thesis|历史终结论]]定义了后冷战三十年的西方大国战略叙事，既成为达沃斯全球主义的哲学背书，也成为现实主义地缘学者批判战略盲目的核心靶子。
 > - **国家建构理论** 其“到达丹麦”（Getting to Denmark）的隐喻及国家能力、法治与问责三位一体模型，深刻影响了当代比较政治学与公共管理学对有效治理的理解。
 > - **[[Epistemology|认识论]]与文明危机诊断** 其对后现代解构主义认识论自毁的剖析，为理解当代西方受教育阶层陷入[[Culture of Disbelief|不信文化]]、回避价值决断提供了关键理论武器。
 

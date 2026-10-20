@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # 1970s Methodology Debates in Comparative Education
@@ -63,8 +63,8 @@ updated: 2026-10-15
 > [!dev-timeline]- 事件经过
 > - **1970年代初 — 学术[[Paradigm\|范式]]冲突爆发**
 >   随着结构社会学与[[Positivism\|实证主义]]方法在社会科学界的全面兴起，英格兰比较教育学界发生严重的方法论分裂（the fracturing），偏离传统历史[[Situative Perspective\|情境主义]]路径的探索者被保守的传统学者强行贴上“偏差者（deviants）”的标签。
-> - **1979–1980年 — 公开[[Disciplina and Doctrina\|规训]]与学术论战**
->   c 试图以学科统治者的权威姿态，在其撰写的文献及公开辩论中强制规训（discipline）阿彻，拒斥其社会学批判视角（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场学术交锋演变为公开的“规训与教义（Disciplina and Doctrina）”冲突。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
+> - **1979–1980年 — 公开规训与学术论战**
+>   c 试图以学科统治者的权威姿态，在其撰写的文献及公开辩论中强制规训（discipline）阿彻，拒斥其社会学批判视角（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场学术交锋演变为公开的“规训与教义（[[Disciplina and Doctrina]]）”冲突。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 
 ---
 
@@ -79,7 +79,7 @@ updated: 2026-10-15
 ## 争议与评论
 
 > [!tension] 争议焦点：描述性[[Situative Perspective\|情境主义]] vs 结构社会学
-> - **传统描述性情境主义（金的立场）** 强调比较教育的核心应是深入历史和具体文化情境的Verstehen（理解），排斥将教育系统简化为硬性的社会学因果结构，试图通过确立传统的学术规范来[[Disciplina and Doctrina\|规训]]“跨界”的社会学者。
+> - **传统描述性情境主义（金的立场）** 强调比较教育的核心应是深入历史和具体文化情境的Verstehen（理解），排斥将教育系统简化为硬性的社会学因果结构，试图通过确立传统的学术规范来规训“跨界”的社会学者。
 > - **历史与结构社会学（阿彻的立场）** 主张必须突破纯粹的情境描述，以宏观社会学理论（如国家政权力量、社会分工变迁）来解释教育系统的深层权力结构与阶级再生产机制，拒绝接受旧有学科权威的行政和学术规训。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 
 ---

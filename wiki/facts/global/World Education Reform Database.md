@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # World Education Reform Database
@@ -159,5 +158,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 援引基于该数据库的实证成果，揭示 [[OECD]]（外向参照他国）与[[World Bank\|世界银行]]（自指循环闭环）在[[Policy Brokerage\|政策中介]]与经验汲取模式上的深刻裂痕。

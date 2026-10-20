@@ -9,10 +9,10 @@ aliases:
 summary: "研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 10
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 9
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/research-ethics
 related_concepts:
@@ -24,8 +24,7 @@ related_concepts:
   - "[[Informed Consent]]"
 related_theories:
   - "[[Situated Ethics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Absolutist and Relativist Ethics in Research
@@ -99,5 +98,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch.5)]] — 将该理论对立作为[[Research Ethics\|研究伦理]]两大张力来源之一进行系统讨论

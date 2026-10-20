@@ -10,7 +10,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Peer-Supported Learning]]"
   - "[[Professional Judgment]]"
   - "[[Discourse]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # The Scott Report
@@ -160,7 +159,7 @@ updated: 2026-10-17
 
 > [!lessons]- 经验教训与启示
 > 1. **严禁在测量工具缺位时强行挂钩薪酬** 缺乏信效度检验的评价工具若直接与教师经济报酬绑定，必然诱发系统性投机、篡改数据与应试异化，严重破坏公立教育的育人初心。
-> 2. **警惕政策制定者的选择性历史失忆** 评估争议性政策方案时，必须回溯立法机关与专业学术界的历史调查文献，揭穿政客借“科学循证”之名行意识形态[[Disciplina and Doctrina|规训]]之实的修辞陷阱。
+> 2. **警惕政策制定者的选择性历史失忆** 评估争议性政策方案时，必须回溯立法机关与专业学术界的历史调查文献，揭穿政客借“科学循证”之名行意识形态规训之实的修辞陷阱。
 > 3. **保护教研室的信任与合作生态** 教师专业成长依赖于开放分享、容许犯错与[[Peer-Supported Learning|同伴互助]]；将同事重构为争夺有限奖金池的竞争对手，是摧毁优质学校文化的制度毒药。
 
 ---

@@ -31,7 +31,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Socioeconomic Status]]"
   - "[[Transiency]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Data-Based Decision Making]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
@@ -52,6 +51,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods:
@@ -102,7 +102,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # No Child Left Behind Act 2001
@@ -169,7 +169,7 @@ updated: 2026-10-17
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
 > - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE\|Downey and Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭[[Socioeconomic Status|社会经济地位]]差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上毫无道理。
 > - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者被迫承认了学校外部社会环境的基础性作用。([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p. 11]])
-> - **学校报告卡与[[Student Mobility|学生流动]]的病态化编码** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“[[Transiency|流动漂泊]]”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间[[Governmentality|治理术]]将不服从空间圈禁的学生界定为越轨群体的[[Disciplina and Doctrina|规训]]逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> - **学校报告卡与[[Student Mobility|学生流动]]的病态化编码** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“[[Transiency|流动漂泊]]”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间[[Governmentality|治理术]]将不服从空间圈禁的学生界定为越轨群体的规训逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 > - **各州标准碎片化与“竞相向下沉沦”（Race to the Bottom）** NCLB 授权各州自主界定“熟练”（proficient）标准并选择统考测验，导致全美形成 50 套互不可比的割裂标准。为规避未达 AYP 带来的严厉联邦制裁与重组处罚，大量州政府纷纷采取下调考试及格线、简化试题难度的“战略性妥协”。美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究确证，部分州报告的高达 80%–90% 的熟练率在国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）标准下仅对应 30% 左右的真实熟练水平。各州间的巨大差距与竞相向下沉沦的逆向激励，直接暴露了 NCLB 分权标准的制度失灵，为后续推动全美统一的[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）提供了最直接的危机动员依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 
 ---
@@ -221,7 +221,7 @@ updated: 2026-10-17
 > > [!axis] 争议三：国家科研议程的强制窄化与实证方法学垄断
 > > 联邦政府借助财政杠杆对教育研究范式进行行政规制，引发[[Knowledge Production\|知识生产]]生态的深层失衡。
 > >
-> > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] & Fazekas and Burns (2012)** NCLB 作为国家立法强行规定教育研究议程的典型案例，通过财政拨款限制（funding restrictions）将研究资助严苛绑定于特定实证方法（尤其是大规模量化 [[Randomised Controlled Trials\|RCT]]），对国家教育科研生产方式进行强力[[Disciplina and Doctrina\|规训]]。
+> > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] & Fazekas and Burns (2012)** NCLB 作为国家立法强行规定教育研究议程的典型案例，通过财政拨款限制（funding restrictions）将研究资助严苛绑定于特定实证方法（尤其是大规模量化 [[Randomised Controlled Trials\|RCT]]），对国家教育科研生产方式进行强力规训。
 > > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003, pp. 31–34)]] 的制度功能分野剖析** 指出学界早期对 NCLB 的抗议往往将其与整个联邦教育科研体系（如 ESRA 2002 与 IES）混为一谈；NCLB 的法定定义本质上是服务支出法案（Service Statute）下的财务合规门槛，用于规约受助学区证明联邦公帑采购方案的有效性，因此必然偏向控制论下的严格实验假设检验；但如果将这种服务支出[[Standard Error|标准误]]用为全域科学研究的唯一准则，则会严重扼杀探索性与理论性研究。后续 [[Education Sciences Reform Act 2002|ESRA 2002]] 在国会听证与专业质证下确立“方法契合[[Research Question|研究问题]]”，正是对 NCLB 单一实验垄断的制度纠偏。
 > > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, pp. 60–65)]]** 尽管这种以单一[[Causality\|因果推断]]为核心的标准保障了 [[What Works Clearinghouse\|WWC]] 的高[[Internal Validity\|内部效度]]并赢得了制度化预算，但其严苛门槛导致干预方案筛选通过率畸低，且在制度上排斥了复杂的本土[[Phronesis\|实践智慧]]与质性证据，甚至使“证据知情”标签容易沦为商业利益集团的营销工具。这种方法学垄断危机直接促使后续 ESSA (2015) 走向包容性更强的四级[[Operationalization\|操作化]]分级框架。
 > > - **知识生态扭曲效应** 这种方法学垄断压制了非[[Experimental Research|实验研究]]、质性探索与理论建构空间，忽视了复杂教育情境中不同类型知识的互补性，导致教育研究成果与一线复杂的实践生态脱节。

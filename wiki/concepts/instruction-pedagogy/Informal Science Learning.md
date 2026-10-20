@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Ethnography]]"
   - "[[Participatory Research]]"
-  - "[[Correlational Research]]"
 related_theories:
   - "[[Human Capital Theory]]"
 confidence: high

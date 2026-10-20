@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David Gonski]]"
@@ -169,5 +168,5 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 结合监管文件、税法修正案与访谈，系统揭示澳大利亚学校加计划作为 [[Social Ventures Australia\|SVA]] 衍生中介机构的创设过程、[[Deductible Gift Recipient\|DGR1]] 免税特许机制及其对公共教育民主问责的侵蚀。

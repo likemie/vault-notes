@@ -8,7 +8,7 @@ summary: "英国演化人类学家与进化心理学家，牛津大学教授。�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_theories:
   - "[[Imagined Community]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"

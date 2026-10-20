@@ -15,10 +15,10 @@ aliases:
 summary: "关于学习者感官偏好及教学匹配的假说，整合其证据基础、教师信念与媒体传播机制，以及概念转变干预的条件。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - learning-styles
   - neuromythed
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Habituation]]"
   - "[[Hypothesis]]"
+  - "[[Neuromyth]]"
   - "[[Individualised Instruction]]"
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
@@ -48,11 +49,11 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Content Analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -76,7 +77,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> 学习风格（Learning Styles）是指学习者在感知、加工、理解和记忆信息过程中所表现出的持续、[[Habituation|习惯化]]且特异的个体偏好或认知模式（如视觉型 Visual、听觉型 Auditory、动觉型 Kinesthetic，即 VAK 模型）。该假说主张教学设计应当依据学生的风格类型进行适配（[[Matching]] [[Hypothesis]] 或 Meshing Hypothesis），以此最大化学业收益。然而，大量严格的实证检验与[[Meta-analysis|元分析]]证实该匹配假设缺乏科学依据，被现代教育学、认知心理学与神经科学界判定为流传甚广的“教育神经神话（Neuromyth）”。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 111)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
+> 学习风格（Learning Styles）是指学习者在感知、加工、理解和记忆信息过程中所表现出的持续、[[Habituation|习惯化]]且特异的个体偏好或认知模式（如视觉型 Visual、听觉型 Auditory、动觉型 Kinesthetic，即 VAK 模型）。该假说主张教学设计应当依据学生的风格类型进行适配（[[Matching]] [[Hypothesis]] 或 Meshing Hypothesis），以此最大化学业收益。然而，大量严格的实证检验与[[Meta-analysis|元分析]]证实该匹配假设缺乏科学依据，被现代教育学、认知心理学与神经科学界判定为流传甚广的“[[Neuromyth|教育神经神话]]（Neuromyth）”。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 111)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
 
 > 在教师教育与科学传播讨论中，缺乏经验支持的感官通道匹配信念也被称为学习风格神话（Learning Style Myth，德语 Lerntypenmythos）。其传播可能影响教学资源配置、学生学习进度与教师对学业潜力的判断。[[Argument_Besa_2024_UW|(Besa, 2024, p. 252)]]
 
@@ -146,7 +147,7 @@ updated: 2026-10-20
 > 围绕[[John Hattie|哈蒂]]对学习风格[[Effect Size|效应量]]的处理，探讨无差别汇总底层文献带来的方法学破产。
 
 > [!claim] Snook, I.
-> **研究质量对综合判断的约束** 伊万·斯努克（Ivan Snook）等指出，哈蒂对学习风格的综合效应量持怀疑态度，并因相关研究的动机与质量问题判定其不可信。这一处理表明，效应量需要结合基础研究的质量解释，单独采用数值门槛不足以制定教学建议。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
+> **研究质量对综合判断的约束** [[Ivan Snook|伊万·斯努克]]（Ivan Snook）等指出，哈蒂对学习风格的综合效应量持怀疑态度，并因相关研究的动机与质量问题判定其不可信。这一处理表明，效应量需要结合基础研究的质量解释，单独采用数值门槛不足以制定教学建议。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-10-20
 ### 命题四　通俗化语言与概念转变导向的科学传播媒介能够显著促进职前教师对神经神话的认知重构
 
 > [!concept-lens] 科学传播干预与[[Teacher Beliefs\|教师信念]]重塑
-> 探讨如何通过针对性的科学传播格式打破教师对神经神话的心理防御与直觉依恋。
+> 探讨如何通过针对性的科学传播格式打破教师对[[Neuromyth|神经神话]]的心理防御与直觉依恋。
 
 > [!claim] Götzfried et al. (2022)
 > **通俗语言与概念转变设计的纠偏效能** 针对师范生的[[Experimental Research\|实验研究]]表明，相较于纯学术论文的单向批驳，采用贴近日常教学语境的通俗化表达、并明确针对学习风格神话开展概念转变（Conceptual Change）设计的音频播客干预，能更有效地促成师范生修正对学习风格的错误认知。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 256)]]
@@ -182,7 +183,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **假说检验** | 感官偏好不能直接用作认知能力或匹配成效的证据 | 教学设计与教师教育 | Bauer and Asberger; Looß |
-> | **研究综合** | 综合效应量须结合基础研究质量解释 | 元分析与循证建议 | Snook et al. |
+> | **[[Research Synthesis\|研究综合]]** | 综合效应量须结合基础研究质量解释 | 元分析与循证建议 | Snook et al. |
 > | **教学风险** | 固定类型标签可能影响资源分配和潜力判断 | 学校教学与家校互动 | Nancekivell et al.; Sun et al. |
 > | **传播纠偏** | 通俗表达与概念转变设计有助于修正错误信念 | 师范生培养与科学传播 | Götzfried et al.; Asberger et al. |
 
@@ -193,7 +194,7 @@ updated: 2026-10-20
 > [!dev-timeline] [[Learning Styles|学习风格]]概念演变与神话破除历程
 > - **1970–1980 年代 — 概念兴起与商业繁荣** 弗雷德里克·费斯特（Frederic Vester）等提出感官通道分类模型，学习风格测评在欧美基础教育与教师培训领域广泛流传。
 > - **2000 年代初 — 认知科学界的系统[[Falsification\|证伪]]** 认知心理学与神经科学界（如 Coffield 等、Looß 2001）开展严谨对照试验，系统否定了通道匹配假说的有效性。
-> - **2010 年代至今 — 神经神话反思与科学传播干预** 职前与在岗教师仍对学习类型持有较高认同；研究重心转向诊断神话弥散机制（如实践指南读物与通俗媒体的持续扩散）并探索基于播客和社交媒体的科学传播纠偏方案。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 255–256)]]
+> - **2010 年代至今 — [[Neuromyth|神经神话]]反思与科学传播干预** 职前与在岗教师仍对学习类型持有较高认同；研究重心转向诊断神话弥散机制（如实践指南读物与通俗媒体的持续扩散）并探索基于播客和社交媒体的科学传播纠偏方案。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 255–256)]]
 
 ---
 
@@ -243,7 +244,7 @@ updated: 2026-10-20
 > |---|---|---|---|---|---|---|
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 252)，引述 Krammer et al. (2019)]] | 奥地利职前师范生入学群体 | 横截面[[Questionnaire\|问卷调查]] | [[Learning Styles\|学习风格]]神经神话的认同率 | 高度认同学习风格神话，且该认同独立于个体对大脑神经生理学客观知识的掌握程度 | — | 证实神经神话在[[Normal School\|师范教育]]初期具有高度普遍性与认知顽固性 |
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 255)，引述 Krüger and Konrad (2022)]] | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
-> | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师神经神话的关键调节变量 |
+> | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师[[Neuromyth\|神经神话]]的关键调节变量 |
 
 
 ---

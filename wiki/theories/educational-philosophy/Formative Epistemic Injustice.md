@@ -10,7 +10,7 @@ aliases:
 summary: "由 Martin (2018) 初创、Nikolaidis (2021) 扩展并由 Smith (2026) 操作化推进的教育哲学与社会认识论理论，揭示教育制度安排或技术代劳对未成年人在求知者形成期的认知发展权造成的根本侵害，核心涵盖知识传递阻断、技能实践剥夺与信度认知失真三重检验维度。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 35
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Humility]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemic Practices]]"
   - "[[Central Phenomenon]]"
 related_theories:
@@ -54,7 +53,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Interview]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Miranda Fricker]]"
@@ -219,7 +217,7 @@ updated: 2026-10-20
 > > 课程选择与教学大纲的排他性是否意味着某种程度的成长性认识不公在体制教育中不可避免。
 > >
 > > - **普遍悲观论（Nikolaidis, 2021）** 认为任何课程编制与知识优先级的取舍，都不可避免地关照了某些认知路径而压制了另一些路径，因此集体教育本质上具有内在的成长性不公张力。
-> > - **教学边界辨正论** 强调合理的学科门槛与认知[[Disciplina and Doctrina|规训]]属于正常的形式塑造（Formation）；只有当教学安排主动剥夺了学生的实践探究权或故意制造能力失真时，才构成道德上应受谴责的畸变不正义（Malformation）。[[Argument_Smith_2026_SPE|Smith (2026, pp. 3–5)]]
+> > - **教学边界辨正论** 强调合理的学科门槛与认知规训属于正常的形式塑造（Formation）；只有当教学安排主动剥夺了学生的实践探究权或故意制造能力失真时，才构成道德上应受谴责的畸变不正义（Malformation）。[[Argument_Smith_2026_SPE|Smith (2026, pp. 3–5)]]
 >
 > > [!axis] [[Alien Intelligence|异己智能]]反思规约在现实应试压力下的有效性
 > > 批判反思防线能否抵挡现实学业竞争与效率主义的冲蚀。

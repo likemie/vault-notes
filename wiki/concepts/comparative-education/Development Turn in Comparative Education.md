@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Development Education]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Governing by Numbers]]"
@@ -29,7 +30,6 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Competitiveness]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Post-Fordism]]"
   - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
@@ -38,8 +38,7 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Wight's Three Traditions of International Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[World Bank]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Development Turn in Comparative Education
@@ -67,7 +66,7 @@ updated: 2026-10-07
 > **发展转向（Development Turn）** 指二战后去殖民化浪潮与冷战对立格局下，比较教育领域的资金来源、研究焦点和方法论[[Paradigm\|范式]]系统性地转向第三世界/[[Development Education|发展中国家教育]]系统的历史过程。这不仅是研究地理空间的位移，更是将比较教育改组为以“技术援助”和“现代化”为合法性[[Discourse|话语]]、服务于大国地缘博弈与资本积累的认识型重构。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 > [!concept-lens] 概念透镜
-> - **指向关系** 它指涉了地缘政治权力结构与学术[[Knowledge Production\|知识生产]]之间的共生关系，特别是冷战时期美苏两大阵营如何通过资助和学术网络将[[Human Capital Theory\|人力资本理论]]扩散为全球教育规划的客观真理。
+> - **指向关系** 它指涉了[[Geopolitics|地缘政治]]权力结构与学术[[Knowledge Production\|知识生产]]之间的共生关系，特别是冷战时期美苏两大阵营如何通过资助和学术网络将[[Human Capital Theory\|人力资本理论]]扩散为全球教育规划的客观真理。
 > - **学术用途** 帮助研究者揭开比较教育中“国际合作”与“技术援助”的去政治化科学面纱，审视其背后隐藏的权力等级、干预正当化逻辑以及方法论上的退步。
 > - **边界条件** 它不单纯是对发展中国家教育现状的描述，而是一个批判性解析[[Disciplinary Institutionalization|学科建制化]]历史的社会学范畴，通常与新殖民主义、[[Dependency Theory\|依附理论]]和全球[[Governing by Numbers\|数字治理]]话语交叉使用。
 
@@ -96,7 +95,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 发展转向的构成要素
-> - **地缘政治对抗驱动** 领土帝国的解体使美苏大国为争夺第三世界控制权展开博弈，教育因被视为赢得新独立国家忠诚与正当化西方干预的战略工具而被政治化。
+> - **[[Geopolitics|地缘政治]]对抗驱动** 领土帝国的解体使美苏大国为争夺第三世界控制权展开博弈，教育因被视为赢得新独立国家忠诚与正当化西方干预的战略工具而被政治化。
 > - **“技术顾问”身份确立** 比较教育学者从传统的“观察者”转变为新政府的“国别专家”和技术援助顾问，[[Disciplinary Institutionalization|学科建制]]全面融入国家对外援助与发展政策体系。
 > - **[[Methodological Statism\|方法论国家主义]]内化** 单一国家/区域研究取代了多国互惠比较，其底层逻辑在于默认发展中国家的教育属于“滞后”范畴，因而无法与发达国家进行平等的横向对比。
 > - **学术系所与学会重组** 传统的殖民教育研究部门纷纷更名为“[[Development Education|发展中国家教育]]”，美国学会等机构在名称中塞入“国际（International）”一词，反映学科对多边援助[[Discourse|话语]]的全面收编。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
@@ -134,7 +133,7 @@ updated: 2026-10-07
 ### 命题二　新自由主义全球化并未终结“发展范式”，而是通过数据化与标准化的远处治理对其进行了深化
 
 > [!concept-lens] 新自由主义的延续
-> 这一维度的命题关注冷战结束后，“发展话语”如何转化为以[[World Bank\|世界银行]]和[[OECD\|经合组织]]（OECD）为载体的新自由主义全球[[Disciplina and Doctrina\|规训]]，通过效率指标和“最佳实践”输出维系资本积累。
+> 这一维度的命题关注冷战结束后，“发展话语”如何转化为以[[World Bank\|世界银行]]和[[OECD\|经合组织]]（OECD）为载体的新自由主义全球规训，通过效率指标和“最佳实践”输出维系资本积累。
 
 > [!claim] Tikly (2004)
 > **发展话语演变为全球新自由主义霸权** 提出最初为遏制共产主义和推广美国发展模式而发明的话语，在冷战后转化为支配性的新自由主义“最佳实践”标准。这一过程继续将西方的教育现代化范本施加于全球，扮演着“知识新帝国”的角色。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 422–428]])
@@ -149,7 +148,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **地缘知识型合谋** | 探讨地缘政治利益如何催生科学主义的人力资本评估以实现合法干预。 | 冷战时期美苏对第三世界的教育援助与[[Disciplinary Institutionalization\|学科建制]]。 | Gita Steiner-Khamsi (2006); Anderson (1958) |
+> | **地缘知识型合谋** | 探讨[[Geopolitics\|地缘政治]]利益如何催生科学主义的人力资本评估以实现合法干预。 | 冷战时期美苏对第三世界的教育援助与[[Disciplinary Institutionalization\|学科建制]]。 | Gita Steiner-Khamsi (2006); Anderson (1958) |
 > | **新自由主义延续** | 探讨冷战后的发展话语如何演变为以数据和指标为基础的全球新自由主义[[Governing at a Distance\|远处治理]]。 | 后冷战时代超国家组织对全球教育系统的评估与重塑。 | Tikly (2004); Brehm (2023) |
 
 ---
@@ -166,7 +165,7 @@ updated: 2026-10-07
 
 > [!tension] [[Governing at a Distance\|远处治理]]的本质争议
 > - **去政治化的客观援助（蓝方）** 倡导者认为发展转向带来了规范化的计划管理和[[Evidence-Based Education\|循证教育]]政策，为缺乏资源的国家提供了基于客观数据和科学模型的“最佳实践”，有助于提升教育质量与经济发展水平。
-> - **知识殖民与资本[[Disciplina and Doctrina\|规训]]（红方）** 批判学者指出，发展[[Discourse|话语]]构建了“西方即标准”的落后[[Paradigm\|范式]]，通过把教育窄化为生产力工具剥夺了本土文化主权，实质上是以“技术中立”为掩护实施的知识殖民。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
+> - **知识殖民与资本规训（红方）** 批判学者指出，发展[[Discourse|话语]]构建了“西方即标准”的落后[[Paradigm\|范式]]，通过把教育窄化为生产力工具剥夺了本土文化主权，实质上是以“技术中立”为掩护实施的知识殖民。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 > [!critique] 学术与方法论视角的外部批评
 > - **方法论的局部退化** 发展转向导致比较教育退回到单一国家的区域描述（Area Studies），忽视了国际权力的关系性网络，在方法论上呈现出局部退化。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
@@ -179,5 +178,5 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 系统探讨了 Wight 的三大[[Wight's Three Traditions of International Theory\|国际关系理论]]如何折射于比较教育的学科历史中，将“发展转向”定位为冷战时期现实主义地缘竞争以及后冷战时期新自由主义全球化[[Discourse|话语]]统治的关键知识载体。

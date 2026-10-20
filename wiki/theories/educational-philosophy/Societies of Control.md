@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 提出的后规训权力理论，指以开放网络、算法持续调制和数据流动取代封闭机构模具规训的支配形态；在教育中表现为学习分析全程追踪、新管理主义全景监控与持续数据生产。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 21
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,12 +19,12 @@ tags:
   - theory/educational-philosophy
   - level/higher-ed
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Learning Analytics]]"
   - "[[New Managerialism]]"
   - "[[Variable]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Online Self-Assessment]]"
   - "[[Cooperative Learning]]"
   - "[[Competitiveness]]"
@@ -37,8 +37,7 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
   - "[[Panopticism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -59,7 +58,7 @@ updated: 2026-10-20
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 后[[Disciplina and Doctrina|规训]]时代权力支配技术的[[Paradigm|范式]]跃迁——从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
+> - **解释对象** 后规训时代权力支配技术的[[Paradigm|范式]]跃迁——从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
 > - **理论问题** 回应福柯（Michel Foucault）经典规训模型（以监狱、学校、工厂等封闭机构为核心）在面对去中心化信息技术、新自由主义企业化治理与算法社会时的解释力边界。
 > - **理论类型** [[Post-structuralism|后结构主义]]批判哲学、权力社会学与数字化治理[[Critical Theory|批判理论]]。
 > - **知识位置** 吉尔·德勒兹（Gilles Deleuze, 1992）基于威廉·巴勒斯（William S. Burroughs）的控制概念提出，既是对福柯规训理论的批判性继承与阶段性断代，也是当代[[Critical Pedagogy|批判教育学]]解构[[Learning Analytics|学习分析]]、数字绩效管理与[[New Managerialism|新管理主义]]的核心透镜。
@@ -96,7 +95,7 @@ updated: 2026-10-20
 ## 核心命题
 
 > [!theory-proposition] 命题一｜调制取代模具：持续流动干预终结了阶段性解放
-> **解释** 在[[Disciplina and Doctrina|规训]]社会中，权力通过封闭机构（学校→工厂→军营）依序交接，每一次进入都是一次成型，离开时则获得相对的释放，考试构成权力的间歇性节点；而在控制社会中，调制像一种永远在变形的流体铸模，参数持续动态调整，主体从未真正被“释放”，始终处于下一轮优化与监控指标的规制之下。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 222)]]
+> **解释** 在规训社会中，权力通过封闭机构（学校→工厂→军营）依序交接，每一次进入都是一次成型，离开时则获得相对的释放，考试构成权力的间歇性节点；而在控制社会中，调制像一种永远在变形的流体铸模，参数持续动态调整，主体从未真正被“释放”，始终处于下一轮优化与监控指标的规制之下。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 222)]]
 >
 > **应用实例** 在高等教育中，[[Learning Analytics\|学习分析]]系统在全程持续追踪学生的在线互动与答题轨迹，从入学前的在线自评（[[Online Self-Assessment\|OSA]]）到毕业后的校友职业生涯追踪，干预信号无休止流动，学生从未脱离系统的评估视线。
 
@@ -135,7 +134,7 @@ updated: 2026-10-20
 > > - **宏观资本逻辑立场** 坚持新自由主义全球治理已使公立学校与医院彻底企业化，必须坚持彻底的结构批判。
 
 > [!warning] 适用边界
-> 控制社会理论极具宏观解释力，但在缺乏数字基础设施或仍以刚性物理围墙、课表与体罚为主的低技术学校中，经典的福柯[[Disciplina and Doctrina|规训]]全景仍具压倒性解释力。
+> 控制社会理论极具宏观解释力，但在缺乏数字基础设施或仍以刚性物理围墙、课表与体罚为主的低技术学校中，经典的福柯规训全景仍具压倒性解释力。
 
 ---
 

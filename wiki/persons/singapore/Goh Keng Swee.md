@@ -23,11 +23,11 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Industrial District]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -97,7 +97,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **教育与语言政策路径** 奠定了新加坡数十年来实行的“英语作为工作语言 + 母语保留文化根基”的双语教育国策与能力分流体制。
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
-> - **科技地缘政治论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **科技[[Geopolitics|地缘政治]]论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 论证吴庆瑞主持的教育与语言政策对新加坡确立国家威慑意志与凝聚力的决定性贡献。

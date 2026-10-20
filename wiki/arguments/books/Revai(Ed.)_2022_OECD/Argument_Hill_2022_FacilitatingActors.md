@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
@@ -91,7 +92,7 @@ related_facts:
   - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Hill_2022_FacilitatingActors
 
@@ -290,7 +291,7 @@ updated: 2026-10-16
 >
 > - **图表测度与指标解析** 双轴复合图。横轴为各教育系统；左纵轴堆叠柱展示教育部委定期征询其政策输入的组织类别总数（网络规模，0–16 类，分中介、政策、实践、研究与其他 5 大类）；右纵轴折线表示部委与这些组织日常互动的平均频度与紧密程度（联结强度，基于 6 点量表：1 = 从不 至 6 = 极其频繁）。
 > - **核心数据特征与极值** 网络规模与互动强度呈现非线性解耦。芬兰兼具超大网络规模（定期征询 14+ 类组织）与全样本最高互动强度（均分 3.5+）；相反，智利与瑞士下瓦尔登州定期征询的组织类型高度集中（仅 4–5 类），但日常互动频度极高；多数系统处于“广覆盖、弱互动”（征询 10 类以上，但强度仅 1.5–2.5 之间）。
-> - **机制启示与实证结论** 警惕形式主义的“大网络陷阱”。部委联结名单的广泛性并不代表循证决策的实质深化，聚焦少数关键行动者的高频实质互动，比大而无当的仪式性联结更具知识转化价值。
+> - **机制启示与实证结论** 警惕形式主义的“大网络陷阱”。部委联结名单的广泛性并不代表[[Evidence-Based Policy-Making|循证决策]]的实质深化，聚焦少数关键行动者的高频实质互动，比大而无当的仪式性联结更具知识转化价值。
 
 综合图 4-1 与图 4-2 的实证测量，各系统在组织活跃度与政务网络构建上呈现出三重鲜明的结构性表征。（pp.82–85）
 

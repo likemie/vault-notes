@@ -50,7 +50,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Ex Post Facto Research
 
@@ -103,7 +103,7 @@ updated: 2026-10-16
 > | 逻辑 | 收集两组数据（一组回溯），确定自[[Variable\|变量]]与因变量的关系 | 比较[[Dependent Variable\|因变量]]存在与不存在的两组被试，逆向搜索可能原因 |
 > | 目的 | 识别当前条件的先行因素 | 发现导致组别差异的可能原因 |
 > | 示例 | Borkowsky（1970）：音乐教师本科培训质量（X）与后续教学效能（O）的关系 | Morrison（2009）：通过比较有无同事课程规划的教师，推断同事规划是否是[[Effective Teaching\|有效教学]]的原因 |
-> | 核心局限 | 无法确定[[Causality\|因果]]方向（X→O、O→X 或第三变量→二者） | 最多是[[Correlational Research\|相关研究]]，因果不等于相关；第三变量可能同时解释原因与结果 |
+> | 核心局限 | 无法确定[[Causality\|因果]]方向（X→O、O→X 或第三变量→二者） | 最多是[[Correlational Research\|相关性研究]]，因果不等于相关；第三变量可能同时解释原因与结果 |
 
 > [!contrast-table] 前瞻性与回溯性设计（Ary et al., 2009, p. 335）
 > | 维度 | 前瞻性设计（proactive） | 回溯性设计（retroactive） |
@@ -184,5 +184,5 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 论述事后回溯研究的定义、类型、适用时机与优劣，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]研究为例；其概率性因果与[[Counterfactual\|反事实]]基础见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Ch. 4]]。

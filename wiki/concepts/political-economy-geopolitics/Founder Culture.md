@@ -8,7 +8,7 @@ aliases:
 summary: "指源自高科技创业生态与国家战略工程实践的组织治理范式；其核心特征在于确立权责对称与切身利益担当（Skin in the Game），破除公职禁欲主义与程序合规迷思，倡导以物理世界实质战略产出（如建造潜艇、降低疾病、消除犯罪）为最高判准，被卡普与扎米斯卡视为重塑公共治理、打破创新荒漠与重建技术共和国的核心制度杠杆。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,8 +41,7 @@ related_concepts:
   - "[[Cultural Relativism]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

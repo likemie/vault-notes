@@ -8,7 +8,7 @@ summary: "美国著名反文化代表人物、作家、环境主义者与网络�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Counterculture Computing]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Steve Jobs]]"

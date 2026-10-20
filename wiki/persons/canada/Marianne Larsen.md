@@ -7,7 +7,7 @@ summary: "加拿大比较教育与教育史学家，西安大略大学荣休教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[International Education]]"
   - "[[Champ]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Student Mobility]]"
   - "[[Space Production]]"
   - "[[Discourse]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # Marianne Larsen
@@ -91,7 +90,7 @@ updated: 2026-10-10
 >   - **代表著作** *Reinventing the historical in comparative education: Bridging the gap through Foucault* (2001)。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
 >   - **关键概念／方法** [[Historical Amnesia\|历史健忘症]]、福柯谱系学、期刊内容分析。
 >   - **阶段转向** 奠定在比较教育方法论反思与史学编纂学领域的国际声誉。
-> - **2010s — 教师身份跨国比较史与[[Post-structuralism|后结构主义]]转向** 将历史微观档案、[[Disciplina and Doctrina|规训]]权力机制与跨国比较相结合，考据维多利亚时代英加两国教师职业身份的建构轨迹。
+> - **2010s — 教师身份跨国比较史与[[Post-structuralism|后结构主义]]转向** 将历史微观档案、规训权力机制与跨国比较相结合，考据维多利亚时代英加两国教师职业身份的建构轨迹。
 >   - **代表著作** *The Making and Shaping of the Victorian Teacher: A Comparative New Cultural History* (2010)。
 >   - **关键概念／方法** 新文化史、规训权力、主体化机制。
 >   - **阶段转向** 展现了后结构主义比较史学在具体微观教育主题上的强大解释力。

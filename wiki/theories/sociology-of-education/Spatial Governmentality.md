@@ -7,7 +7,7 @@ aliases:
 summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空间化拓展，指出治理不仅是对身体与时间的规训，更本质地依赖于空间的构想、划界与操控；该理论通过领地化划界、空间化统治之眸与空间质地建模三大轴线，揭示了现代学校如何作为封闭性空间容器与资格筛选装置，规制不同人口群体的物理与社会流动。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,7 +18,6 @@ tags:
   - theme/student-mobility
   - theme/migrant-education
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Space Production]]"
   - "[[Migrant Children]]"
   - "[[Industrial District]]"
@@ -35,8 +34,7 @@ related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Panopticism]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Nikolas Rose]]"
@@ -63,7 +61,7 @@ updated: 2026-10-20
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 权力如何通过界定地理边界、绘制统计图表、规划建筑环境以及构建空间质地，对人类群体的流动、聚集和交往实施远距离协调与微观[[Disciplina and Doctrina|规训]]。
+> - **解释对象** 权力如何通过界定地理边界、绘制统计图表、规划建筑环境以及构建空间质地，对人类群体的流动、聚集和交往实施远距离协调与微观规训。
 > - **理论问题** 传统政治学与早期[[Governmentality|治理术]]研究过度偏重历时性时间维度与机构权力的单向压制，忽视了“空间”本身即是治理思想与行政权力的生产性构件；学校教育研究长期将校园视为中立的物理背景，无法解释空间区隔对流动人口的差异化排斥。
 > - **理论类型** 批判社会学、教育政治学与空间社会学理论框架。
 > - **知识位置** 承袭米歇尔·福柯（Michel Foucault）的微观权力与治理术学说，由[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）在政治社会学领域系统化，并由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入比较教育学与空间转向研究。
@@ -131,7 +129,7 @@ graph TD
 >
 > **应用实例** 在 19 世纪曼彻斯特[[Industrial District|工业区]]，改革家 James Kay-Shuttleworth 运用卫生与道德空间统计调查，将贫民窟划定为特定高危区域，使工人的起居卫生和受教育状况在统计表格上一览无余，进而为后来的贫民学校建设与强制初等教育立法提供了正当性依据。
 
-> [!theory-proposition] 命题二｜平滑与纵深的空间质地建构催生了双重分异的[[Disciplina and Doctrina|规训]]策略
+> [!theory-proposition] 命题二｜平滑与纵深的空间质地建构催生了双重分异的规训策略
 > **解释** 治理思想对空间物理与社会质地的想象直接决定了权力的干预方式。当空间被构想为均质、等方且处处相同的“平滑平面（Smooth Plane / Isotropic Space）”时，权力便推行统一的标准化规程、重复性操作与通用问责指标；而当空间被构想为具有厚度、层级和质地不均的“纵深空间（Thick Space / Nonregular Depth）”时，差异化治理原则便随之确立。现代国家往往双管齐下：在核心社会阶层所处的主流空间推崇自由选择、民主协商与赋权参与；在边缘、流动或少数族裔集聚的次级空间，则调动官僚审查、行政限制、强制同化与身体隔离等威权规训技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 >
 > **应用实例** 在现代教育问责制中，中央教育部门假定全州学校处于同一个等方考核平面上，要求所有学校达标统考；但对于游牧民儿童、无证移民儿童或贫民区[[Migrant Children|流动儿童]]所在的边缘空间，政策系统又将其定义为带有文明欠缺或社会病态的特殊纵深区域，实施强制定居化安排或附加严格的学籍准入审查。
@@ -174,7 +172,7 @@ graph TD
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 民族国家利用初等与中等教育体系实施人口调控、阶层固化、学区隔离、少数族裔定居同化以及[[Migrant Children|流动儿童]]排斥的制度过程。
 > - **成立条件** 研究对象须处于具有一定[[Bureaucracy|官僚科层制]]水平与空间规划权力的现代治理体系之下，且存在明确的制度化学校教育形态。
-> - **解释不足** 容易过度强调权力技术的无所不在与结构性严密性，相对低估受[[Disciplina and Doctrina|规训]]群体（如移民家庭、游牧民族、流动学生）的日常生活反抗、非正式网络支持以及利用制度缝隙实现的能动超越。
+> - **解释不足** 容易过度强调权力技术的无所不在与结构性严密性，相对低估受规训群体（如移民家庭、游牧民族、流动学生）的日常生活反抗、非正式网络支持以及利用制度缝隙实现的能动超越。
 > - **不能直接推出** 不能仅凭学校存在围墙或制度化考试就断定其必然发挥专制压迫作用；物理空间管理是群体教育规模化实施的技术前提，不能等同于纯粹的阶级规训。
 
 ---

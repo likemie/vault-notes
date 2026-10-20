@@ -11,7 +11,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量多指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_methods:
   - "[[Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Correlational Research]]"
   - "[[Scale Development]]"
   - "[[Average Variance Extracted]]"
 related_instruments:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Composite Reliability
@@ -132,7 +131,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示量表四个维度的组合[[Reliability\|信度]]为 .75–.90，均超过 .70，[[Internal Consistency\|内部一致性]]良好。
 
 ---

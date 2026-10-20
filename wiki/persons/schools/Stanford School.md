@@ -38,8 +38,8 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
   - "[[Red Tape]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Recontextualization]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Stanford School
@@ -147,7 +147,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 共识取向世界文化 vs 冲突取向资本依附（斯坦福学派 vs [[Immanuel Wallerstein|沃勒斯坦]]政治现实主义）
-> > 争论全球教育与国家制度趋同究竟是普世文明与理性文化的进步扩散，还是西方资本主义中心对边缘的外交与经济[[Disciplina and Doctrina|规训]]。
+> > 争论全球教育与国家制度趋同究竟是普世文明与理性文化的进步扩散，还是西方资本主义中心对边缘的外交与经济规训。
 > >
 > > - **斯坦福学派立场（Meyer et al., 1997; Ramirez & Boli, 1987）** 坚信世界社会是去中心化、非强制的文化网络，普世理性模型在赋权弱势群体与扩展平等人权方面发挥了积极的启蒙功用。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 102–104)]]
 > > - **世界体系政治现实主义学派（Wallerstein, 1974; Arnove, 1980, 2009）** 尖锐批评斯坦福学派掩盖了帝国主义与资本主义世界经济的剥削本质；指出所谓普世[[Cultural Models|文化模型]]不过是跨国资本与大国强权强加给外围国家的意识形态面纱。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 1974; Arnove, 1980, cited in Arnove, 2009, pp. 104–106)]]
@@ -163,7 +163,7 @@ updated: 2026-10-16
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 指出斯坦福学派的世界体系普遍主义假说忽视了欧洲各民族国家深厚的历史文化多元性与制度阻抗（p. 94）。
 
 > [!warning] 解释局限与未解问题
-> 斯坦福学派具有强烈的“结构主义”与“共识论”偏向，对国家间不平等的权力支配、地缘政治冲突与本土文化抵制解释不足；此外，“去耦合”机制极易陷入不可[[Falsification|证伪]]的循环论证风险（趋同归因于同构，差异归因于去耦合）。
+> 斯坦福学派具有强烈的“结构主义”与“共识论”偏向，对国家间不平等的权力支配、[[Geopolitics|地缘政治]]冲突与本土文化抵制解释不足；此外，“去耦合”机制极易陷入不可[[Falsification|证伪]]的循环论证风险（趋同归因于同构，差异归因于去耦合）。
 
 ---
 

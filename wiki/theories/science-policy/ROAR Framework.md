@@ -30,13 +30,13 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Strategic Autonomy]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Cost-Benefit Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -195,7 +195,7 @@ updated: 2026-10-20
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 涉及高度复杂性、跨领域协同与长期高风险投入的重大社会转型（如碳中和、老龄化健康、数字基础设施）。
 > - **成立条件** 需要具备相对稳固的政治共识、较高素质且具[[Strategic Autonomy|战略自主]]性的专业化公共行政团队，以及发育成熟的科研与产业基础。
-> - **解释不足** 对地缘政治冲突、党派极化政治对长期战略使命的频繁阻断缺乏充分的制度应对方案；对发展中国家能力严重不足情境的适配性有待深化。
+> - **解释不足** 对[[Geopolitics|地缘政治]]冲突、党派极化政治对长期战略使命的频繁阻断缺乏充分的制度应对方案；对发展中国家能力严重不足情境的适配性有待深化。
 > - **转化困难** [[Public Value|公共价值]]的动态量化指标难以标准化；在公私谈判中确定合理的收益分享比例往往面临私人企业的激烈抵制。
 
 ---

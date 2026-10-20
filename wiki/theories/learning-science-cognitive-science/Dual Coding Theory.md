@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Richard E. Mayer]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dual Coding Theory
@@ -121,5 +120,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 将双重编码理论作为解释空间图示工具促进学生[[Higher-Order Thinking Skills\|高阶思维]]的底层认知理论支柱。

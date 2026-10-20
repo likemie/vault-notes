@@ -20,7 +20,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Bildung]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Empty Knower]]"
   - "[[Conatus]]"
   - "[[International Spinozian Curriculum]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -51,7 +51,7 @@ sources:
 part_of:
 status: draft
 created: 2026-07-13
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2005_JRIE"
@@ -78,7 +78,7 @@ issuing_organization: ""
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系下，如何平衡高强度的学术学习与发展学生想象力的需求？具体而言，目前的[[Theory of Knowledge\|知识论]]（TOK）课程中潜藏着哪些压抑性的哲学预设？应当如何利用[[Baruch Spinoza\|斯宾诺莎]]（Spinoza）的情感政治重构一种解放想象力的国际课程模式？
 
 > [!claim] 核心主张
-> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）逻辑，将学生视为在理性[[Disciplina and Doctrina\|规训]]下走向绝对精神与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
+> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）逻辑，将学生视为在理性规训下走向绝对精神与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
 
 > [!concept-lens] 阅读透镜
 > - **对象** IB 课程的核心必修科目 TOK，以及课堂中的师生权力互动与[[Knowledge Production\|知识生成]]机制。
@@ -136,7 +136,7 @@ issuing_organization: ""
 >   黑格尔的教化最终指向公民社会（Civil Society）。IB 课程隐含的理念（即“你就是你所认为自己知道的东西”）强化了个人作为拥有权利的公共人物在现代市场经济（需要系统）中的位置。教育机构变成了保护经济领域的工具，从而导致 TOK 的反思退化为应对考试和未来技术性就业的碎片化知识技能（snapshots）。（p.219）
 
 > [!warrant]- 推理桥梁
-> 黑格尔模型在[[Ontology\|本体论]]上将理性视为对感性经验的超越。然而，如果在制度上只把理智作为规范，切断了个体内在的生命情感，那么单纯诉诸高级理性的反思要求就会落空。师生最终只能走向形式化的[[Disciplina and Doctrina\|规训]]——用背诵哲学名言和逻辑模板，替代真实的批判。
+> 黑格尔模型在[[Ontology\|本体论]]上将理性视为对感性经验的超越。然而，如果在制度上只把理智作为规范，切断了个体内在的生命情感，那么单纯诉诸高级理性的反思要求就会落空。师生最终只能走向形式化的规训——用背诵哲学名言和逻辑模板，替代真实的批判。
 
 ---
 
@@ -216,7 +216,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **理性[[Disciplina and Doctrina\|规训]]阻碍了真实的批判反思** [[Theory of Knowledge\|TOK]] 课程如果延续[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的外在理性设定，必然在应试压力下退化为形式化的词汇表演和知识灌输，导致反思流于表面。（pp.212–213, 221）
+> 1. **理性规训阻碍了真实的批判反思** [[Theory of Knowledge\|TOK]] 课程如果延续[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的外在理性设定，必然在应试压力下退化为形式化的词汇表演和知识灌输，导致反思流于表面。（pp.212–213, 221）
 > 2. **情感与欲望是智识生成的本源** 课堂的负面情绪（反叛、虚无主义）不应被单纯纪律压制。只有通过想象力直面和转化这些[[Conatus\|欲力]]（Conatus），才能催生真正的知识论突破。（pp.214, 222）
 > 3. **后现代知识博弈的核心是想象力** 在技术垄断消解、数据彻底公开的后现代状况下，能够改变规则和实现跨学科融合的想象力，已成为超越单纯“信息获取”的教育核心引擎。（p.220）
 > 4. **国际课程应走向基于群体力量的解放** [[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]拒绝将教育终点窄化为培养市场工具与国家契约公民，主张通过激发群体的互动潜能，成为新知识的[[Feeder Mechanism\|动态滋养机制]]。（pp.218, 222）

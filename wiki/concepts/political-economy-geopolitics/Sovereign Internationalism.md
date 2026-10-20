@@ -5,7 +5,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Cosmopolitanism]]"
+  - "[[Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Sovereign Internationalism
@@ -69,7 +70,7 @@ updated: 2026-10-09
 ## 概念演变
 
 > [!note]-
-> 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元[[Cosmopolitanism|世界主义]]向单极霸权主义的地缘政治立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
+> 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元[[Cosmopolitanism|世界主义]]向单极霸权主义的[[Geopolitics|地缘政治]]立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "德国慕尼黑工业大学与希尔德斯海姆大学经验教育研�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Correlational Research]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size Conversion]]"

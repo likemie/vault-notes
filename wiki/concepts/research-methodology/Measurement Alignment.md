@@ -8,10 +8,10 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/methodology
   - educational-measurement
@@ -44,7 +44,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Cartiff_2021_JEP]]"
@@ -53,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Measurement Alignment
@@ -189,6 +188,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对[[Academic Achievement\|学业成绩]]预测力的调节作用，确立了测量对齐的方法论法则。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 发现实验干预中特异性未对齐效应反常反超对齐效应，揭示了[[Developer-Made Measures\|研究者自编测验]]的[[Construct\|构念]]敏感度在测量对齐评估中的关键调节机制。

@@ -6,7 +6,7 @@ aliases:
 summary: "哈贝马斯提出的规范性沟通模型，主张共识仅源于更好论证的力量而非参与者的权力；言语情境具有命题与施行双重结构，每个话语须满足五重有效性标准，是话语分析批判方法论和虚拟世界研究沟通伦理的理论基础"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Action Research]]"
   - "[[Participatory Research]]"
   - "[[Emancipatory Action Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ideal Speech Situation
@@ -170,5 +169,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在[[Critical Theory\|批判理论]]（Ch. 2）、[[Action Research\|行动研究]]（Ch. 18）、[[Virtual World\|虚拟世界]]研究（Ch. 19）与批判[[Discourse Analysis\|话语分析]]（Ch. 22）中运用理想言说情境。

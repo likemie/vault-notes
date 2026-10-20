@@ -9,7 +9,7 @@ aliases:
 summary: "约翰·科特提出的组织变革领导力经典理论，将成功的复杂组织变革提炼为营造变革氛围、动员全员参与、实施并固化变革三大阶段与八个递进步骤。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 19
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Kurt Lewin]]"
 related_facts:

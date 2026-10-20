@@ -8,7 +8,7 @@ summary: "民国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Jiang Menglin
@@ -122,7 +121,7 @@ updated: 2026-10-16
 > - **政策路径** 主导了1922年新学制七项标准的制定（如平民教育精神、个性发展、适应社会进化）。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617–618]]）
 > - **跨国传播** 作为哥大留美精英网络的核心，推动了[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华的选择性传播（强调民主目标，淡化渐进实验方法）。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 详细分析了蒋梦麟《新教育》时代的激进民主立场、学校隔离论及其对1922学制的深远影响。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 揭示了蒋梦麟与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]组成的哥大网络在杜威思想在华[[Recontextualization\|再脉络化]]中的行动者角色。
 

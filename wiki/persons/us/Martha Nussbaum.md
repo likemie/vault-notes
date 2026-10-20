@@ -24,12 +24,12 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Pride in Learning]]"
   - "[[Post-Nationalism]]"
+  - "[[Geopolitics]]"
   - "[[Technological Republic]]"
 related_theories:
   - "[[Capability Approach]]"
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Richard Sennett]]"
@@ -54,7 +54,7 @@ updated: 2026-10-20
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治哲学家、伦理学家、法学家，芝加哥大学法律与哲学杰出贡献教授（Ernst Freund Distinguished Service Professor of Law and Ethics），京都奖与霍尔堡奖得主。
 > - **核心角色** 当代[[Cosmopolitanism|世界主义]]（Cosmopolitanism）与自由主义全球正义理论的代表人物。
-> - **代表贡献** 与阿玛蒂亚·森（Amartya Sen）共同发展可行能力方法（[[Capability Approach]]）；在 1994 年发表《爱国主义与世界主义》（*Patriotism and Cosmopolitanism*），批判民族认同并倡导后国家世界公民理想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
+> - **代表贡献** 与阿玛蒂亚·森（Amartya Sen）共同发展[[Capability Approach|可行能力方法]]（[[Capability Approach]]）；在 1994 年发表《爱国主义与世界主义》（*Patriotism and Cosmopolitanism*），批判民族认同并倡导后国家世界公民理想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
 > [!citation-card]- 人物定位的关键来源
 > 政治哲学家玛莎·努斯鲍姆（Martha Nussbaum）同样将“爱国[[Pride in Learning|自豪]]感”斥责为“在道德上是危险的”，敦促我们的“首要效忠对象”应当是“全世界的人类共同体”。他们的纲领本质上是[[Post-Nationalism|后国家主义]]的。然而，那种彻底废除民族国家的举动既不可取也为时过早。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -98,7 +98,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **政治哲学与伦理学路径** 重塑了当代关于全球正义、[[Cosmopolitanism|世界主义]]与爱国主义的哲学论争，成为后国家世界公民学派的核心旗帜。
 > - **发展经济学与政策评估** 与森共同推动联合国开发计划署（United Nations Development Programme, UNDP）采用人类发展指数（Human Development Index, HDI）与可行能力框架。
-> - **地缘政治反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
+> - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 批判玛莎·努斯鲍姆等后国家世界主义学者解构爱国认同所导致的防御意志与公共凝聚力真空。
@@ -108,7 +108,7 @@ updated: 2026-10-20
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术合作者** 阿玛蒂亚·森（Amartya Sen）— 共同奠定可行能力方法。
+> - **学术合作者** 阿玛蒂亚·森（Amartya Sen）— 共同奠定[[Capability Approach|可行能力方法]]。
 > - **思想共鸣者** [[Richard Sennett|理查德·桑内特]] — 共同倡导超越民族国家认同的多元协作构想。
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判其[[Cosmopolitanism|世界主义]]导致国家认同虚空化。
 

@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -39,11 +39,13 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Research Utilization]]"
   - "[[Assemblage]]"
+  - "[[Developmentalism]]"
   - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
   - "[[Big Science]]"
   - "[[Counterpart Funds]]"
   - "[[Reciprocal Control Mechanism]]"
+  - "[[Geopolitics]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
@@ -198,7 +200,7 @@ tags:
 新冠疫情引发的汽车芯片断供与台海地缘风险，将供应链脆弱性迅速转化为国家安全危机，引爆了两岸国家干预主义的回归。（pp.7–8）
 
 > [!tension] 美欧产业立法出台背后的国内政治驱动力对照
-> - **美国两党战略共识（民主党发展主义与共和党保护主义合流）** 在美国两党政治极度极化的背景下，《[[CHIPS and Science Act|芯片与科学法案]]》在参议院获得了超过 60% 的罕见绝对多数支持。拜登政府希望借助公共投资振兴制造业的平台，与共和党捍卫本土产业的保护主义诉求高度契合，共同将防范中国半导体产业追赶确立为两党结盟的战略靶标。
+> - **美国两党战略共识（民主党[[Developmentalism|发展主义]]与共和党保护主义合流）** 在美国两党政治极度极化的背景下，《[[CHIPS and Science Act|芯片与科学法案]]》在参议院获得了超过 60% 的罕见绝对多数支持。拜登政府希望借助公共投资振兴制造业的平台，与共和党捍卫本土产业的保护主义诉求高度契合，共同将防范中国半导体产业追赶确立为两党结盟的战略靶标。
 > - **欧盟外部冲击倒逼（科技人才虹吸恐慌与法德路线博弈）** 欧盟在 2019 年前依然倾向于依赖[[World Trade Organization|世贸组织]]框架与多边自由贸易解决供应问题。只是在俄乌冲突爆发、台海局势变化以及美国密集出台《[[Inflation Reduction Act|通胀削减法案]]》与《芯片法案》企图将欧洲高端企业与顶尖科技人才、工程师跨大西洋“虹吸（Lure EU companies and talents to America）”至美国的重重压力下，欧盟才仓促转向产业干预；但法德之间存在根本分歧——法国主张强力扶持本土产业追求[[Strategic Autonomy|战略自主]]，而德国依然忌惮破坏全球贸易规则，导致全欧层面的统一财政动员迟迟无法成形。（p.8）
 
 两岸政治结盟基础的分野，直接塑造了后续法案在中央财力投入与制度工具设计上的分流。（pp.8–9）
@@ -267,7 +269,7 @@ tags:
 > [!tension-table] 美欧半导体法案附加条件规制强度对照
 > | 规制维度 | 美国集中式法定强约束模式 | 欧盟去中心化弱约束与危机激活模式 |
 > |---|---|---|
-> | **地缘安全护栏**<br>Geopolitical Guardrails | 设立长达 10 年的安全禁令：获得联邦资助的企业严禁在对美构成威胁的受关注国（针对中国）新建或扩建先进制程产能，违者全额退还补贴。 | 缺乏统一的地缘政治排他条款，未对受助企业的海外投资行为设立硬性禁令。 |
+> | **地缘安全护栏**<br>Geopolitical Guardrails | 设立长达 10 年的安全禁令：获得联邦资助的企业严禁在对美构成威胁的受关注国（针对中国）新建或扩建先进制程产能，违者全额退还补贴。 | 缺乏统一的[[Geopolitics\|地缘政治]]排他条款，未对受助企业的海外投资行为设立硬性禁令。 |
 > | **劳工与社会福利**<br>Labour & Social Standards | 强制要求受助企业必须支付当地法定的体面工资，且规模超过 1.5 亿美元的大型项目必须为产业工人提供价格可负担的优质托儿托育服务。 | 欧委会无权制定统一用工规范，完全交由各成员国依据本国劳动法自行处理，缺乏全欧统一的社会契约要求。 |
 > | **资本再分配纪律**<br>Redistributive Conditions | 严禁企业将获得的补贴款用于股票回购或向股东发放分红；如果项目的商业利润超过最初预期，必须同联邦政府分享超额利润。 | 仅在跨国项目（IPCEI）中设立了利润回缴机制（Claw-back），但具体收回程序和比例由出资国政府自行掌控。 |
 > | **日常监督与干预权限**<br>Monitoring & Intervention | 联邦商务部与国家标准与技术研究院拥有日常实地审查、分批发放资金、随时叫停拨付与强制追讨的法定权力。 | 欧委会日常缺乏微观规制手段；仅在官方正式认定进入严重供应链断裂危机时，才有权指令企业通报产能并优先满足欧洲本土订单，违者处以罚款。（pp.14–16） |
@@ -308,7 +310,7 @@ tags:
 ## 关键引用
 
 > [!citation-card] [[Modern Industrial Policy|现代产业政策]]的政治结盟动力
-> 美国[[CHIPS and Science Act|芯片法案]]是在民主党与共和党高度极化的政治生态中罕见获得两党广泛支持（包括参议院 60% 绝对多数）的法案之一。这种罕见的一致表明，产业政策已成为拜登领导下的民主党所倡导的发展主义平台与让美国再次伟大共和党人所捍卫的保护主义政策之间极少数的公分母之一。中国的崛起与随之而来的地缘政治紧张局势发挥了决定性的联盟磁铁作用。
+> 美国[[CHIPS and Science Act|芯片法案]]是在民主党与共和党高度极化的政治生态中罕见获得两党广泛支持（包括参议院 60% 绝对多数）的法案之一。这种罕见的一致表明，产业政策已成为拜登领导下的民主党所倡导的[[Developmentalism|发展主义]]平台与让美国再次伟大共和党人所捍卫的保护主义政策之间极少数的公分母之一。中国的崛起与随之而来的[[Geopolitics|地缘政治]]紧张局势发挥了决定性的联盟磁铁作用。
 >
 > *The US CHIPS Act stands out as one of the few bills that gathered bipartisan support, including a 60 per cent majority in the Senate, amid great polarisation between the Democratic and the Republican Party. This rare agreement shows how industrial policy is one of the few common denominators between the developmentalist platform promoted by the Democratic Party under Biden and the protectionist policy championed by 'Make America Great Again' Republicans. The [[Emergence]] of China as a new global rival, and the ensuing geopolitical tensions, have played a decisive role as a coalitional magnet.*（p.8）
 

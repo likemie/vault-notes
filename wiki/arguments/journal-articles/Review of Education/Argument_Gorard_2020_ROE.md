@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Engineered Evidence]]"
   - "[[Evidence-Based Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
@@ -94,7 +93,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -133,7 +132,7 @@ sources:
 
 > [!concept-lens] 阅读透镜
 > - **审查对象** 公共政策与教育领域关于证据转化应用的全部可获取文献，横跨 7 大学术数据库检索到的 3,353,213 条记录与 323 篇核心报告全文。（pp. 574–576）
-> - **制度张力** [[Evidence-Based Education\|循证教育]]运动对一线实践者采纳证据的高调[[Disciplina and Doctrina\|规训]]，与该运动自身关于如何促成证据利用的方法学证据赤字之间的尖锐脱节；学术评价体制对单项研究现实影响力的过度奖赏，与科学证据积累的贝叶斯综合属性之间的深刻冲突。（pp. 571–574）
+> - **制度张力** [[Evidence-Based Education\|循证教育]]运动对一线实践者采纳证据的高调规训，与该运动自身关于如何促成证据利用的方法学证据赤字之间的尖锐脱节；学术评价体制对单项研究现实影响力的过度奖赏，与科学证据积累的贝叶斯综合属性之间的深刻冲突。（pp. 571–574）
 > - **[[Paradigm\|范式]]贡献** 确立证据加工形态与传递互动强度的两维度九宫格模型；运用[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]系统清算证据转化领域的实证水分；提出从文本概念传递转向工件工程化与法定规制的实证转化新[[Paradigm\|范式]]。（pp. 576–578, 596–601）
 
 ---

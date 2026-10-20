@@ -9,7 +9,7 @@ aliases:
 summary: "指将属于特定逻辑或本体范畴的事物错误归入另一范畴并按后者的规则处理的哲学与方法学谬误；在教育研究与循证排名中，特指将制度条件、个体特征、长周期综合方案与短周期微观变体等异质且不可通约的因素在单一有效性排行榜上强行并列与比较的范畴通约失范"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Causality]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -49,7 +48,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gilbert Ryle]]"
@@ -62,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Category Mistake
@@ -169,10 +167,10 @@ updated: 2026-10-18
 
 > [!debates] 学术争议
 >
-> > [!axis] 激进通约实用罗盘与批判实在论范畴不可通约之争
-> > 争论跨范畴影响因素是否能统一换算为效应量排行榜以指导实践决策。
+> > [!axis] 激进[[Commensuration|通约]]实用罗盘与[[Critical Realism|批判实在论]]范畴不可通约之争
+> > 争论跨范畴影响因素是否能统一换算为[[Effect Size|效应量]]排行榜以指导实践决策。
 > >
-> > - **实用主义激进通约观** 辩护者认为，尽管影响因素在性质上存在差异，但统一换算为标准差[[Effect Size|效应量]]能够为政策制定者与一线学校提供一目了然的“干预有效性罗盘”，具有极高的实用政策传播与警示价值。
+> > - **[[Pragmatic Paradigm|实用主义]]激进通约观** 辩护者认为，尽管影响因素在性质上存在差异，但统一换算为标准差[[Effect Size|效应量]]能够为政策制定者与一线学校提供一目了然的“干预有效性罗盘”，具有极高的实用政策传播与警示价值。
 > > - **批判实在论立场** 批判者坚决主张，消除范畴边界的粗暴数值排序制造了“数字精确性霸凌”；剥离情境、抹杀调节[[Variable|变量]]并破坏教学决策的组合互补性，不仅在科学上站不住脚，更对一线教学改进构成了误导性伤害。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!warning] 适用局限
@@ -198,5 +196,5 @@ updated: 2026-10-18
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统构建德甲联赛隐喻与四大教育本体范畴，从范畴错误与[[Incommensurability|不可通约性]]高度批判《[[Visible Learning|可见的学习]]》单一有效性排行榜。
 > - Ryle (1949) — 奠基性哲学著作《心的概念》，首创范畴错误理论，解构[[René Descartes|笛卡尔]]身心二元论实体化谬误。
-> - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的系统批判谱系，涵盖范畴错误、统计失范与可见性[[Disciplina and Doctrina|规训]]等六大批评维度。
+> - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的系统批判谱系，涵盖范畴错误、统计失范与可见性规训等六大批评维度。
 

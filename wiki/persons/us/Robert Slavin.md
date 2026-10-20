@@ -8,7 +8,7 @@ summary: "美国著名教育心理学家、证据本位教育改革（EBR）奠�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Paradigm]]"
   - "[[Developer-Made Measures]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Phronesis]]"
   - "[[Cognitive Deskilling]]"
   - "[[Internal Validity]]"
@@ -50,7 +49,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Nancy Madden]]"
@@ -78,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Robert Slavin
@@ -160,7 +158,7 @@ updated: 2026-10-16
 > - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦学校改善拨款必须依据实证等级投放。
 > - **实践路径** 创办的 [[Success for All]] 惠及全美百万计的贫困与弱势学生；创建的 [[Best Evidence Encyclopedia\|BEE]] 与 [[Evidence for ESSA]] 成为全美学区学监与校长采购教学方案的首选指南。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm\|范式]]对克服教育研究声誉危机的根本意义。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 荣获桑代克奖后的总结性论著，系统梳理 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence-Based Reform\|证据本位改革]]的三条件机制。
 > - [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。
@@ -173,7 +171,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **学术与事业终身伴侣** [[Nancy Madden\|Nancy A. Madden]] — 共同创立 [[Success for All]] 基金会与约翰霍普金斯大学 CRRE。
 > - **核心学术合作者** [[Alan C. K. Cheung]]（张志强） — 长期在 JHU CRRE 合作，共同发表大规模实验总结、教育技术[[Meta-analysis\|元分析]]，并联合推进全球循证改革国际对话。
-> - **学术论敌／批评学者** [[Gert Biesta]]（格特·比斯塔） — 欧洲人文主义教育哲学家，批评 Slavin 的[[Positivism\|实证主义]]将教育技术化、[[Disciplina and Doctrina\|规训]]化，忽视了教育的目的与价值维度。
+> - **学术论敌／批评学者** [[Gert Biesta]]（格特·比斯塔） — 欧洲人文主义教育哲学家，批评 Slavin 的[[Positivism\|实证主义]]将教育技术化、规训化，忽视了教育的目的与价值维度。
 > - **学术论敌／批评学者** [[Robert Cowen]] — 比较教育学者，批评[[Evidence-Based Reform\|证据本位改革]]沦为官僚机构控制学校的技术外衣。
 > - **制度化机构** [[What Works Clearinghouse\|WWC]] / [[Best Evidence Encyclopedia\|BEE]] — Slavin 的理念是 WWC 建立的思想先导，其创办的 BEE 则成为与之竞争并互补的独立学术清算中心。
 

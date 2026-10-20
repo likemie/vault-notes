@@ -39,6 +39,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Geopolitics]]"
   - "[[Champ]]"
   - "[[Variable]]"
   - "[[Co-affiliation]]"
@@ -50,7 +51,6 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Relational Space
@@ -208,7 +208,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 关系性网络拓扑是否会消解国家领土主权的硬约束
-> > 争论过于关注流动网络与关系性空间是否会低估国家领土边界、主权法治与地缘政治壁垒的刚性制约。
+> > 争论过于关注流动网络与关系性空间是否会低估国家领土边界、主权法治与[[Geopolitics|地缘政治]]壁垒的刚性制约。
 > >
 > > - **网络空间派** 坚称全球化与数字化使信息和[[Policy Mobility\|政策流动]]实质性穿透了地理边界，若退回领土容器视角将彻底失去对跨国治理的解释力。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015)]]
 > > - **新现实主义/主权学派** 批评关系性空间视角容易滑向去中心化的流动浪漫主义，在面对国家安全管控、制裁封锁与教育本土主权防御等硬性领土权力时解释力受限。
@@ -238,7 +238,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 比较教育学中系统运用关系性空间[[Paradigm\|范式]]的奠基之作，论述空间如何由社会行动者网络[[Assemblage\|组装]]和沟通过程所构建。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，将国家与全球置于相互依存的关系性空间中，实证解构[[Transfer Space\|转移空间]]中的[[Policy Brokerage\|政策中介]]与行政两阶段过滤。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合社会-物质理论与关系空间视角，揭示澳大利亚国家教育科研组织如何借由耐用客体与公私董事网络构筑排他性证据空间。

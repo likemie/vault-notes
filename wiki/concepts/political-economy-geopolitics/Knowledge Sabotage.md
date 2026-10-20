@@ -7,7 +7,7 @@ aliases:
 summary: "通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Geopolitics]]"
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Knowledge Sabotage
@@ -45,7 +46,7 @@ updated: 2026-10-15
 ## 概念辨析
 
 > [!example]
-> - vs [[Economic and Industrial Espionage]] — 间谍活动旨在获取知识为己所用；破坏旨在摧毁对方的知识，动机可能是地缘政治、意识形态或纯粹的享乐主义([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
+> - vs [[Economic and Industrial Espionage]] — 间谍活动旨在获取知识为己所用；破坏旨在摧毁对方的知识，动机可能是[[Geopolitics|地缘政治]]、意识形态或纯粹的享乐主义([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
 > - vs 监视与审查 — 监视（如[[China Social Credit System]]）和审查（如[[Great Firewall of China]]）主要涉及对知识流动的监控和阻断；破坏是主动的摧毁性行为
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!note]-
-> 知识破坏作为 [[Geopolitics of Knowledge\|GPK]] 概念的分析范畴，经历了从物理破坏到网络破坏、从军事工具到地缘政治模态的演变：
+> 知识破坏作为 [[Geopolitics of Knowledge\|GPK]] 概念的分析范畴，经历了从物理破坏到网络破坏、从军事工具到[[Geopolitics|地缘政治]]模态的演变：
 > - **传统意义上的破坏** 破坏（sabotage）一词源于工业时代，原指工人对生产工具的蓄意损坏。OED 将其定义为任何被蓄意施加的致残性损害，尤其是秘密实施以破坏经济或军事资源的行为（OED, 2020; 引自 Partaken, 2022, p.83）
 > - **从物理到知识的位移** 在信息时代，破坏的对象从物理基础设施转向知识资产——数据、代码、算法、研究基础设施成为新的攻击目标。未来的军事对抗和战场将主要在线进行，伤亡以 Gigabytes 计([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
 > - **concealment-exposure 二元框架** Partaken 将知识破坏置于隐藏（concealment）与暴露（exposure）的二元操控中理解——隐藏是有意使某些知识不可获取；暴露是在便利时刻披露特定知识以削弱对手。借鉴 Nagel (1998) 的分析：

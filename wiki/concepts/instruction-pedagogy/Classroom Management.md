@@ -5,10 +5,10 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - classroom-management
   - subject/instruction
@@ -30,10 +30,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[International Education]]"
   - "[[Visible Learning]]"
+  - "[[Neuromyth]]"
   - "[[Learning Styles]]"
   - "[[Metascience]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Correlational Research]]"
   - "[[Comparative Meta-synthesis]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Classroom Management
@@ -175,7 +174,7 @@ updated: 2026-10-17
 > 探讨在宏观证据库被外围不可控[[Variable|变量]]（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被[[International Education|国际教育]]专家确立为一线学校改进的核心基石。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如[[Learning Styles|学习风格]]匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及[[Neuromyth|神经神话]]（如[[Learning Styles|学习风格]]匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 ---
 
@@ -199,7 +198,7 @@ updated: 2026-10-17
 > > 探讨提升教育质量究竟应当依赖全面的时空与活动组织，还是退化为单一的严厉执纪。
 > >
 > > - **组织机制派（Håkansson, Teach）** 强调课堂管理是时间使用、积极预期、即时反馈与支持性关系的有机整体，绝不可矮化为维持纪律。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 591–592)]]
-> > - **传统[[Disciplina and Doctrina|规训]]派** 倾向将课堂管理等同于“建立威信、严加管束”，片面追求静坐无声的表面秩序。
+> > - **传统规训派** 倾向将课堂管理等同于“建立威信、严加管束”，片面追求静坐无声的表面秩序。
 >
 > > [!axis] 教师权威主导 vs 学生自主参与空间
 > > 争论课堂管理是否必须以教师绝对掌控为前提，还是应当容纳学生自我调节与民主协商。
@@ -240,7 +239,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 基于[[Comparative Meta-synthesis|比较性元综合]]系统阐释宽课堂管理内涵，揭示其对弱势群体的补偿性功能及防范消极纪律惩戒[[Discourse|话语]]。
 > - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。

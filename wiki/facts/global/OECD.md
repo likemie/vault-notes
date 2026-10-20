@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 137
+fact_related_count: 136
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[New Managerialism]]"
@@ -43,13 +44,13 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
   - "[[Peer Pressure]]"
-  - "[[Generic Skills]]"
   - "[[Evidence Ecosystem]]"
   - "[[Space of Equivalence]]"
   - "[[Commensuration]]"
   - "[[Reliability]]"
   - "[[Steering at a Distance]]"
   - "[[Variable]]"
+  - "[[Policy Borrowing]]"
   - "[[Lifelong Learning]]"
   - "[[Scientific Literacy]]"
   - "[[School Leadership]]"
@@ -60,7 +61,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Reference Society]]"
-  - "[[Policy Borrowing]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Competitiveness]]"
@@ -78,7 +78,6 @@ related_concepts:
   - "[[Total Quality Management]]"
   - "[[Institutional Complementarity]]"
   - "[[Economic Fundamentalism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Construct Validity]]"
   - "[[Democratic Education]]"
   - "[[Educational Multilateralism]]"
@@ -165,10 +164,10 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -185,7 +184,7 @@ updated: 2026-10-20
 > 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿地缘政治对抗与美国[[Economics of Education Movement\|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
+> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement\|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
 > - **总部地点 / 业务辐射** 总部位于法国巴黎；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界经济、科技创新政策及教育议程具有全局性辐射力。
 > - **法人属性与经费基础** 超国家政府间国际组织（Intergovernmental Organization）；由各成员国按国民经济规模按比例分摊的核心法定预算、自愿性专项捐款及各国出资的测评与指标研发项目联合经费维持运作。
 > - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业、科学技术创新及民众生活水平提升；在科技与教育领域旨在提供客观且高度跨国可比的统计标准与循证证据，引导科技与公共教育投资的合理化配置。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
@@ -238,7 +237,7 @@ updated: 2026-10-20
 >   - **2000 / 2003** CERI 开展部门知识治理调查，开启长达二十余年的教育知识管理与知识治理探索。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 >   - **2002** 正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性[[Peer Pressure|同侪压力]]（peer pressure）取代早期的哲理辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]]
 >   - **2005** 将[[PISA Governing Board|参测国委员会]]（BPC）升格为直接直属于教育理事会的 PISA 管理委员会（PGB），使参测国高级教育官员深度卷入战略决策，进一步巩固测评生产的行政统领架构。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
->   - **2008–2015** 启动[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）可行性研究，试图将 PISA 模式从基础教育拓展至高等教育领域，以填补高校教学产出指标的空白并制衡商业大学排名，后因[[Generic Skills|通用技能]]硬移植挫折与高校自主权抵制而未能实现机制化推广。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198–203)]]
+>   - **2008–2015** 启动[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）可行性研究，试图将 PISA 模式从基础教育拓展至高等教育领域，以填补高校教学产出指标的空白并制衡商业大学排名，后因通用技能硬移植挫折与高校自主权抵制而未能实现机制化推广。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198–203)]]
 >   - **2000s** 通过非成员经济体合作处（Unit for Cooperation with Non-member Economies，NME）与全球关系项目（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并依托与世界银行、教科文组织合作的[[World Education Indicators|世界教育指标]]（WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
@@ -265,7 +264,7 @@ updated: 2026-10-20
 > - **远处掌舵与多层网络调控** 借鉴[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
-> - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国政策借用连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向同侪压力推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
+> - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向[[Peer Pressure|同侪压力]]推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
@@ -327,7 +326,7 @@ updated: 2026-10-20
 > > [!axis] 国际政治理论透镜下的[[Governmentality\|治理性]]质交锋
 > > 批判学者从不同[[Wight's Three Traditions of International Theory\|国际关系理论]]视角对 OECD 的角色性质与权力运作展开了深刻剖析。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > >
-> > - **现实主义透镜** 将 OECD 判定为主权国家地缘政治与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技[[Competitiveness|竞争力]]、缓解落后焦虑并开展防御性[[Human Capital Theory\|人力资本]]竞赛的竞技场。
+> > - **现实主义透镜** 将 OECD 判定为主权国家[[Geopolitics|地缘政治]]与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技[[Competitiveness|竞争力]]、缓解落后焦虑并开展防御性[[Human Capital Theory\|人力资本]]竞赛的竞技场。
 > > - **理性主义透镜** 将 OECD 视为多边理性协调与功能主义治理的典范。它构建起跨国“[[Epistemic Community|认知共同体]]”，在不侵犯国家主权的前提下通过技术标准磋商、数据互通与最佳实践扩散有效化解了集体行动困境。
 > > - **[[Revolutionism\|革命主义]]与去殖民透镜** 将 OECD 判定为“知识新帝国”与“[[Banal Imperialism\|平庸帝国主义]]”的当代[[Avatar\|化身]]。学者批评其通过输出单一同质化的新自由主义效率标准，将教育完全工具化为资本积累的附庸，并在无形中再生产了对非西方教育文明传统的边缘化与认知压制。
 >
@@ -369,7 +368,7 @@ updated: 2026-10-20
 > > - **社会民主主义与“新新人文主义”时期（1960–1990）** 帕帕多普洛斯（Papadopoulos, 1994）指出，OECD 早期虽源于人力资本考量，但在欧洲社会民主主义成员国影响下包容了多元社会与文化目的，形成恩斯特·哈斯所谓的“不连贯妥协”，将教育定性为培育批判性民主公民与维护社会凝聚力的纯粹公共物品，国别审查严格坚持自愿与因国制宜（*sui generis*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 450–451)]]
 > > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本遭到系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
 >
-> > [!axis] 跨国[[Space of Equivalence|等值空间]]的统计制造与“数字即政策”的去政治化[[Disciplina and Doctrina|规训]]
+> > [!axis] 跨国[[Space of Equivalence|等值空间]]的统计制造与“数字即政策”的去政治化规训
 > > 围绕经合组织 PISA 测验是否凭借统计技术虚构了脱离文化脉络的跨国等值空间，以“数字即政策”掩盖政治价值权衡。
 > >
 > > - **跨国[[Commensuration|通约]]客观论（机构立场）** 经合组织坚称，全球化时代需要超越狭隘本土课程大纲的统一素养标准；通过先进的心理计量学建模与[[Item Response Theory|项目反应理论]]，能够消除文化题项偏差，为各国客观诊断面向 21 世纪经济挑战的关键技能提供科学镜像。

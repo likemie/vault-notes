@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2026_CEAI]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # AI Literacy
@@ -269,7 +268,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading\|认知外包]]”的育人底线。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity\|反思性]]对话、维持[[Epistemological Vigilance\|认识论警觉]]的关键前置调节[[Variable\|变量]]。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。

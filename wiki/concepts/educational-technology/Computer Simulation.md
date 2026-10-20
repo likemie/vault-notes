@@ -9,7 +9,7 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -61,7 +61,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Computer Simulation
@@ -295,6 +294,6 @@ updated: 2026-10-16
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统梳理虚拟仿真文献，引用 Smetana and Bell (2012) 61 项综述与 d'Angelo et al. (2014) 59 项[[Meta-analysis\|元分析]]，确立配备[[Scaffolding\|认知支架]]与即时介入的计算机模拟探究在概念掌握与推理技能上的显著循证优势。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 详尽解构计算机模拟作为研究方法的理论逻辑，剖析其在[[Complexity Theory\|复杂性理论]]、系统[[Emergence\|涌现]]建模、实验控制与人性保持中的四项优势与十一项反思批判。

@@ -8,7 +8,7 @@ summary: "一战时期德国陆军高级将领、军事理论家，著有《总�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Hard Power]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[Manhattan Project]]"
 related_arguments:

@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，并在教学实验中解构干预构念子维度与学习者认知背景的异质效应；在批判视角下聚焦粗暴算术平均与非线性曲线截断对教育生态效度与实践异质性的隐匿。"
 type: concept
 domain: "research-methodology"
-related_count: 83
+related_count: 80
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
+  - "[[Research Question]]"
   - "[[Ontology]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -51,9 +52,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Positivism]]"
   - "[[Scientific Literacy]]"
-  - "[[Research Question]]"
-  - "[[Educational Brokerage Agency]]"
-  - "[[Unit of Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Pluralism]]"
@@ -65,6 +63,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Mixed Methods Research]]"
   - "[[Moderator Analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Random-Effects Model]]"
@@ -73,17 +72,15 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Fixed-Effect Model]]"
   - "[[Between-Study Variance]]"
   - "[[Survey Research]]"
   - "[[Meta-regression]]"
-  - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[Christof Wecker]]"
+  - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
@@ -91,11 +88,11 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -108,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Heterogeneity
@@ -126,11 +123,11 @@ updated: 2026-10-18
 > - **边界** 异质性超出单纯的数学统计噪声范畴，是深入探索因果机制、边界条件与行动者主观意义的核心线索。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 13)]]
 
 > [!citation-card] 统计均值遮蔽下的质性解释异质性与复杂系统异质性核心
-> 混合方法研究能够同时回应“是什么”与“如何发生或为什么”的研究问题。当研究者试图真正理解教育结果的不同解释机制时，这一点尤为关键。例如，假定研究发现有 100 名受访者一致认为学校就像监狱，其中 40 人认为是因为限制自由与纪律严酷，20 人认为是因为过度拥挤，15 人认为是因为伙食糟糕……这一简单统计量背后隐藏的质性理由截然不同，唯有质性数据能够照亮被单一统计量遮蔽的深层解释异质性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 23)]]
+> 混合方法研究能够同时回应“是什么”与“如何发生或为什么”的[[Research Question|研究问题]]。当研究者试图真正理解教育结果的不同解释机制时，这一点尤为关键。例如，假定研究发现有 100 名受访者一致认为学校就像监狱，其中 40 人认为是因为限制自由与纪律严酷，20 人认为是因为过度拥挤，15 人认为是因为伙食糟糕……这一简单统计量背后隐藏的质性理由截然不同，唯有质性数据能够照亮被单一统计量遮蔽的深层解释异质性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 23)]]
 >
 > 复杂性理论视异质性为根本立足点（Heterogeneity is the watchword）。正如复杂性理论表明实在存在多重图景，不仅契合了运用多种方法从多个视角审视情境的需求，也与批判研究主张倾听不同声音与观点的信条深相契合。复杂性理论倡导方法论、范式与理论的多元主义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 32)]]
 >
-> 元分析本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的“元-元分析”（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
+> 元分析本身是一种将众多研究结果予以压缩的有效工具。然而，如果将多个元分析再次组合成一个巨型的“[[Meta-meta-analysis|元-元分析]]”（mega-analysis），统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。原始研究详尽的经验信息与控制条件在反复累加中损失殆尽，正如人们无法在货币汇兑中实现完全无损一样。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 429)]]
 
 > [!boundary]- 概念边界
 > - **不等于 统计变异（Statistical Variance）** 统计变异是抽样造成的偶然随机波动，而异质性特指超出随机误差之外、由干预设计、人群特征或情境机制引起的系统性变异。
@@ -360,5 +357,5 @@ updated: 2026-10-18
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 实证揭示教育元分析中效应量异质性受制于测量工具有意/无意的人工设计偏差。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022, pp. 60–61, 66)]] — 纵向考察全球 15 个标杆中介案例，阐明研究者、政策层与一线实践者在认知范式与时间周期上的内外部异质性，并提出元中介整合多源异质数据的前沿机制。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从数学取证与科学哲学视角解构二阶元分析抹平异质性的伪科学机制（[[Homework|家庭作业]]无权简单平均与[[Class Size|班级规模]]曲线截尾），论证多[[Variable|变量]]课堂情境对捍卫[[Ecological Validity|生态效度]]的[[Ontology|本体论]]必要性。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以单一枢纽点（$d=0.40$）抹平教育异质性，揭示实证主义元分析对教学法质性差异与文化情境变异的系统性遮蔽。（pp. 2–3）
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以单一枢纽点（$d=0.40$）抹平教育异质性，揭示[[Positivism|实证主义]]元分析对教学法质性差异与文化情境变异的系统性遮蔽。（pp. 2–3）
 

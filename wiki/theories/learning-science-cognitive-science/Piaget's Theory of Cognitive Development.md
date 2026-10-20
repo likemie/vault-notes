@@ -9,7 +9,7 @@ aliases:
 summary: "皮亚杰开创的发生认识论与认知发展四阶段建构主义理论体系，揭示感觉运动、前运算、具体运算与形式运算的层级质变机制，现代脑科学研究进一步确立了前额叶皮层发育及执行功能成熟与其高度平行的生物-认知机制。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -53,7 +53,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[Jean Piaget]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Piaget's Theory of Cognitive Development
@@ -248,6 +247,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] [[Systematic Review\|系统综述]]并对齐了[[Jean Piaget\|皮亚杰]]认知发展四阶段与[[Prefrontal Cortex\|前额叶皮层]]（PFC）解剖发育及[[Executive Function\|执行功能]]（EF）成熟轨迹，确立了阶段跃迁的脑神经与认知控制基础。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，依托皮亚杰从具体运算向形式运算过渡的发展理论，解释了高小学段（4–6 年级）干预效应最为强劲（$g = 0.877, p < .001$）的情境调节机制。

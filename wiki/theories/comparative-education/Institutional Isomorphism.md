@@ -29,6 +29,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Era]]"
   - "[[Initial Teacher Training]]"
@@ -48,7 +49,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Elite Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stanford School]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institutional Isomorphism
@@ -135,7 +135,7 @@ updated: 2026-10-16
 > - **推导** 专业化教育与跨组织网络 $\rightarrow$ 确立排他性的行业正当性规范 $\rightarrow$ 组织自发吸纳行业准则以获得同行认可 $\rightarrow$ 实现场域内的规范同构。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（跨国权力不对称衍生）** 当模仿型与规范型同构在全球尺度上运作时，往往内嵌着深层的地缘政治与[[Knowledge Production\|知识生产]]权力不对称（如美欧管理规范借由跨国企业教育向全球南方单向输出）。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 194–195)]]
+> - **推论一（跨国权力不对称衍生）** 当模仿型与规范型同构在全球尺度上运作时，往往内嵌着深层的[[Geopolitics|地缘政治]]与[[Knowledge Production\|知识生产]]权力不对称（如美欧管理规范借由跨国企业教育向全球南方单向输出）。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 194–195)]]
 > - **推论二（[[Evidence Era\|证据时代]]治理同构）** 随着全球进入证据时代，诉诸科学引文、[[Randomised Controlled Trials\|随机对照试验]]（RCT）与循证规程已演进为全场域通行的规范型与模仿型同构脚本。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–93)]]
 
 > [!mechanism-map]- 机制图
@@ -198,7 +198,7 @@ updated: 2026-10-16
 > - **1977 — 新制度主义理论基石确立** [[John W. Meyer\|约翰·迈耶]]与布莱恩·罗文（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth\|合理化神话]]。
 > - **1983 — 三大同构机制系统提出** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ\|场域]]分析[[Paradigm\|范式]]。
 > - **1980 年代 — 高等教育科研组织同构机制验证** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，在微电子高技术重资产冲击下，美国各大学微电子中心通过标杆跟踪复制、模式主动推广以及**博士生与教员跨校流动（Personnel Mobility）**，在全美范围完成了组织形态与治理规范的经典制度同构收敛。
-> - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与地缘政治不对称；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
+> - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
 
 ---
 
@@ -212,7 +212,7 @@ updated: 2026-10-16
 > > - **结构同构立场** 强调[[Champ\|场域]]规范对组织的强大同化力量，偏离规范将遭受合法性惩罚。
 > > - **制度创业与能动性批判（DiMaggio, 1988）** 指出组织行动者（制度创业者）能够策略性操纵制度环境，利用脱耦维持内部自主性。
 >
-> > [!axis] 地缘政治与全球不平等维度的缺失
+> > [!axis] [[Geopolitics|地缘政治]]与全球不平等维度的缺失
 > > 争论跨国同构过程是否中立。
 > >
 > > - **批判全球政治经济学立场** 强调模仿与规范同构往往内嵌了西方中心主义知识霸权与跨国资本控制。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 194–195)]]
@@ -224,7 +224,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司[[Corporate Education\|企业教育]]的国际化扩散模式与权威调动策略。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth\|合理化神话]]如何驱动多方机构走向规范与强制同构。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织历史学角度实证检验大学微电子研究中心如何在不确定性环境下，依托同行对标复制、模型主动示范以及教员和博士毕业生跨机构流动（Personnel Mobility）实现经典模式的制度同构收敛。（p. 297）

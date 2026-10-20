@@ -22,15 +22,15 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics]]"
   - "[[Big Ideas]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-11
+updated: 2026-10-20
 ---
 
 # Sustainability Education
@@ -43,7 +43,7 @@ updated: 2026-10-11
 > 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的[[Comprehensive Education|综合教育]][[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 区别于单一学科内的片段化环保知识点灌输，强调将生态环境议题置于自然科学、经济社会、地缘政治与伦理价值的多维交汇点上。
+> - **含义** 区别于单一学科内的片段化环保知识点灌输，强调将生态环境议题置于自然科学、经济社会、[[Geopolitics|地缘政治]]与伦理价值的多维交汇点上。
 > - **用途** 赋能年轻一代在面对生态不确定性时具备科学理解力与应对行动力，支撑国家由高碳经济向绿色低碳经济转型的劳动力技能供给。
 > - **边界** 超越单纯的“拯救地球”道德口号宣传，侧重于基于实证科学数据、生态[[Big Ideas\|大概念]]与工程技术解决方案的理性探究与实践。
 
@@ -94,5 +94,5 @@ updated: 2026-10-11
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 系统阐述可持续[[Development Education|发展教育]]在基础科学教育中的战略地位，呼吁全校协同推进绿色技能与生态素养培养。

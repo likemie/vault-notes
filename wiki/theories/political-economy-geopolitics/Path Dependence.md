@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Geopolitics]]"
   - "[[Composite-Standard Model]]"
   - "[[Institutional Layering]]"
   - "[[Research Question]]"
@@ -47,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Audit Trail]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paul Pierson]]"
@@ -136,7 +136,7 @@ updated: 2026-10-20
 > **应用实例** 加州大学伯克利分校（UC Berkeley）电气工程与计算机科学系（EECS）师生基于开源指令集架构 RISC-V 编写教材并向全球大学公开，迅速在全球数十万计算机专业师生中形成不可逆的认知与设计惯性，使得该架构在工业界落地时跳过了高昂的生态推广阻力，成功重构全球微处理器设计的底层路径。
 
 > [!theory-proposition] 命题三｜制度自我强化与沉没成本阻滞国家创新[[Paradigm|范式]]的结构性转型
-> **解释** 政治与科研组织体系中的规则、职能配置与利益联盟同样受制于报酬递增机制。早期形成的资助路径与评价范式会催生庞大的依附性学术建制与[[Industry Affiliate Program|产业联盟]]；除非面临外部剧烈冲击（如地缘政治危机或关键节点），系统通常倾向于在原有轨道上做边际修补，维持次优但低协调成本的制度惯性。（Pierson, 2000）
+> **解释** 政治与科研组织体系中的规则、职能配置与利益联盟同样受制于报酬递增机制。早期形成的资助路径与评价范式会催生庞大的依附性学术建制与[[Industry Affiliate Program|产业联盟]]；除非面临外部剧烈冲击（如[[Geopolitics|地缘政治]]危机或关键节点），系统通常倾向于在原有轨道上做边际修补，维持次优但低协调成本的制度惯性。（Pierson, 2000）
 >
 > **应用实例** 美国长期依赖离岸代工与精益全球供应链的半导体产业政策模式，在面临供应链中断危机前具有强大的制度惯性；直至 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》出台，联邦政府才通过立法强行打破纯市场驱动的依赖路径，重构国家干预与有组织科研体系。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 

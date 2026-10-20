@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Hypothesis]]"
   - "[[Working Hypothesis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Independent Variable]]"
   - "[[Whole Person Education]]"
   - "[[Scientism]]"
@@ -48,6 +47,7 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Construct]]"
   - "[[Bildung]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Behaviorism]]"
 related_methods:
@@ -58,7 +58,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Effect Size]]"
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -205,7 +204,7 @@ updated: 2026-10-17
 ### 命题四　比较教育是以人为中心直面文明伦理危机的人文教化知识体系
 
 > [!concept-lens] 古典全人教化与人本主义关怀
-> 该维度揭示历史学派对抗狭隘技术官僚[[Disciplina and Doctrina\|规训]]、坚守以人为中心文明关切的崇高伦理旨趣。
+> 该维度揭示历史学派对抗狭隘技术官僚规训、坚守以人为中心文明关切的崇高伦理旨趣。
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
 > **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、理性主义与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人教化（*[[Paideia]]*）情怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52, 56–57)]]
@@ -284,6 +283,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 思想史考古系统梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]的思想谱系，反思[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]，并借由[[Crane Brinton\|布林顿]]比较史学确立[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "汉娜·阿伦特提出的政治哲学与伦理学核心概念，指代在现代科层制与极权体制下，极端罪恶往往并非源于个体的极端仇恨或病态恶毒，而是源于放弃独立思考、丧失道德判断力以及对规章与权威程序的盲目顺从（无思状态）；后在心理学实证、组织行为学与教育哲学中得到广泛发展与印证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
   - obedience
 related_concepts:
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Pillarization]]"
   - "[[Technological Republic]]"
   - "[[Constructive Disobedience]]"
@@ -33,7 +32,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Hannah Arendt]]"
@@ -63,7 +61,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与[[Disciplina and Doctrina|规训]]体制中，极端的系统性灾难与道德罪恶往往并非由病态的狂热狂徒或恶魔所发动，而是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
+> **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与规训体制中，极端的系统性灾难与道德罪恶往往并非由病态的狂热狂徒或恶魔所发动，而是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了恶行在现代制度中的结构性平庸化机制——罪恶在微观层面表现为对程序规则的一丝不苟、对专业分工的机械履行以及对上级指令的茶会式礼貌顺从。
@@ -151,7 +149,7 @@ updated: 2026-10-20
 > 探讨如何通过微观行动文化建设与深层教化传统重建对抗盲从与平庸的免疫系统。
 
 > [!claim] [[Gert Biesta|Biesta, G.]]
-> **教育的主体化维度与判断力守护** 赫特·比斯塔基于阿伦特的政治哲学指出，真正的教育绝不仅是资格获得与社会化融入（即训练合格的合规齿轮），其最高使命在于促进学生作为独立行动主体的“主体化”（Subjectification）——即培养个体在面对群体压力与权威[[Disciplina and Doctrina|规训]]时能够停下来反思、做出自主道德判断的能动性。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
+> **教育的主体化维度与判断力守护** 赫特·比斯塔基于阿伦特的政治哲学指出，真正的教育绝不仅是资格获得与社会化融入（即训练合格的合规齿轮），其最高使命在于促进学生作为独立行动主体的“主体化”（Subjectification）——即培养个体在面对群体压力与权威规训时能够停下来反思、做出自主道德判断的能动性。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
 
 > [!claim] Karp, A., & Zamiska, N.
 > **[[Constructive Disobedience|建设性不服从]]作为工程组织的微观抗体** 卡普与扎米斯卡强调，寄希望于个体的自发道德勇气不足以抵御平庸之恶，卓越的科技组织与民主政体必须在制度上包容并奖赏 **[[Constructive Disobedience|建设性不服从]]（Constructive Disobedience）** 与 **[[Social Deafness|社交失聪]]（Social Deafness）**——赋予一线技术实干家基于客观物理真实质疑并调整上级指令的权力，以此打破管理者对顺从者的自恋偏好。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]

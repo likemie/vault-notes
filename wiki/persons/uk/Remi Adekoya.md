@@ -8,7 +8,7 @@ summary: "英国约克大学政治学学者、政论作家，长期研究身份�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Determinism]]"
 related_theories:
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Lawrence H. Keeley]]"

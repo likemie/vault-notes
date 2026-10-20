@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Congressional Earmarks]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Construct]]"
   - "[[Counterpart Funds]]"
 related_theories:
@@ -56,8 +55,7 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Bozeman_2004_JTT]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
@@ -128,7 +126,7 @@ updated: 2026-10-20
 
 > [!debates] 核心争议与组织张力
 >
-> > [!axis] 微观靶向产业痛点 vs [[Curiosity-Driven Research|纯基础研究]]探索使命偏离
+> > [!axis] 微观靶向产业痛点 vs 纯基础研究探索使命偏离
 > > 争论由联邦科学基金资助的大学实验室应当聚焦于长周期自由理论探索，还是应当通过微观靶向解决产业界的现实工程挑战。
 > >
 > > - **传统自由探索派** 担忧企业会费注入与应用课题导向会削弱大学的基础科学底色，导致研究人员沦为跨国公司的低成本外部研发员。

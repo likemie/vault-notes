@@ -36,10 +36,10 @@ related_concepts:
   - "[[International Education]]"
   - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Test Production]]"
 related_theories:
   - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Education at a Glance
@@ -138,7 +138,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 运用科学知识社会学与 [[Science and Technology Studies\|STS]] 视角深度剖析《教育概览》的生产史，揭示其如何通过技术抽象与施为性机制将不可比的各国学校现实建构为跨国可计算的治理空间。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 论证 1992 年《教育概览》作为全球北方确立“[[Governing by Numbers\|数字治理]]”[[Paradigm\|范式]]的制度里程碑，系统阐述其如何充当[[Global Education Governing Complex\|全球教育治理复合体]]的核心[[Policy Brokerage\|政策经纪]]工具，并直接孕育了 [[PISA]] 评价帝国。
-> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 考证《教育概览》在 1990 年代初如何奠定成员国教育指标文化与对自主直接测评数据的诉求，构成催生 PISA 测验研发的关键制度温床。
+> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 考证《教育概览》在 1990 年代初如何奠定成员国[[Performance Indicators|教育指标]]文化与对自主直接测评数据的诉求，构成催生 PISA [[Test Production|测验研发]]的关键制度温床。

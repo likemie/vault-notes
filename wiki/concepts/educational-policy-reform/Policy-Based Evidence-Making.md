@@ -19,6 +19,7 @@ tags:
   - policy-analysis
 related_concepts:
   - "[[Chain of Evidence]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Gatekeepers]]"
   - "[[Knowledge Production]]"
   - "[[Screening Off]]"
@@ -35,7 +36,6 @@ related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
   - "[[Elite Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy-Based Evidence-Making
@@ -58,7 +58,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统循证政策制定规范性假设的根本逆转。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–94)]]
+> 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统[[Evidence-Based Policy-Making|循证政策制定]]规范性假设的根本逆转。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–94)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示政治权威如何将证据从探索真理与评估方案的认知工具，异化为服务于既定政策辩护的修辞防护盾。
@@ -79,7 +79,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 基于政策的证据制造（PBEM） | 循证政策制定（EBPM） | 政治宣传（Propaganda） |
+> | 维度 | 基于政策的证据制造（PBEM） | [[Evidence-Based Policy-Making\|循证政策制定]]（EBPM） | 政治宣传（Propaganda） |
 > |---|---|---|---|
 > | **分析对象与逻辑** | 适宜性逻辑（政治规范与立场契合导向） | 后果性逻辑（因果证据导向方案选择） | 意识形态动员与权力宣示逻辑 |
 > | **证据的核心机制** | 为既定政策提供科学化修辞包装与合法性盾牌 | 发现问题、评估方案可行性与因果归因 | 情感煽动、单向灌输与信息垄断 |
@@ -178,5 +178,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview\|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers\|守门人]]通过[[Carter Review of Initial Teacher Training\|卡特审查]]与[[Chartered College of Teaching\|特许教学学院]]运作基于政策的证据制造的机制。

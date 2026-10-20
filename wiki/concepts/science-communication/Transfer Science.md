@@ -9,7 +9,7 @@ aliases:
 summary: "指将知识与创新从研究向实践、行政及政策领域流动的机制、条件与转化过程作为独立经验与理论对象的科学形态，强调突破单向线性传输与医学转化类比，致力于阐明转移对象、行动者网络配置与复杂情境中的作用假设。"
 type: concept
 domain: "science-communication"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Absorptive Capacity]]"
   - "[[Heterogeneity]]"
+  - "[[Neuromyth]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
@@ -63,7 +64,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Transfer Science
@@ -230,5 +231,5 @@ updated: 2026-10-16
 ## 相关研究
 
 - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 检视德语区新治理工具的转移受挫现实，批判机械医学类比，倡导将教育科学确立为研究转移全过程的转移科学。
-- [[Argument_Besa_2024_UW|Besa (2024)]] 剖析德语区教师脱离实证研究的现实困境与神经神话传播，系统对比五类科学传播形态的中介利弊。
+- [[Argument_Besa_2024_UW|Besa (2024)]] 剖析德语区教师脱离实证研究的现实困境与[[Neuromyth|神经神话]]传播，系统对比五类科学传播形态的中介利弊。
 - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] 评估[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）以[[Meta-analysis|元分析]]为基底、面向教师教育骨干开展转译加工的实践效用。

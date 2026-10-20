@@ -11,7 +11,7 @@ summary: "假定真实效应量服从正态分布并同时分解抽样方差与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 56
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -65,7 +65,6 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Robust Variance Estimation]]"
   - "[[Standard Error]]"
-  - "[[Correlational Research]]"
   - "[[Intervention Research]]"
 related_instruments: []
 related_persons:

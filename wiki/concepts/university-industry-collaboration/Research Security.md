@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
+  - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[Research Topic]]"
   - "[[Knowledge Production]]"
@@ -42,7 +43,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
@@ -68,7 +68,7 @@ updated: 2026-10-20
 > 研究安全（Research Security）指大学、科研机构与资助部门为保护学术研究活动、敏感技术成果、知识产权以及科研人员，免受外国政府不当干预、经济间谍活动以及未授权[[Knowledge Transfer|知识转移]]威胁而建立的一整套制度性风险防范与合规治理框架。它不仅涵盖针对技术系统的安全防护，更聚焦跨国与跨机构科研伙伴关系中的人为与结构性风险，核心在于在开放科学、[[Academic Freedom|学术自由]]与国家安全防线之间寻求动态平衡。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向科研合作生态中保护国家与机构核心无形资产、关键技术与科研人员免受外部地缘政治风险侵害的制度防线。
+> - **含义** 指向科研合作生态中保护国家与机构核心无形资产、关键技术与科研人员免受外部[[Geopolitics|地缘政治]]风险侵害的制度防线。
 > - **用途** 帮助政策制定者与大学管理者在开放科学交流与国家利益防护之间建立[[Operationalization|操作化]]桥梁，将个人分散的合规焦虑转化为专业化的机构风险管理服务。
 > - **边界** 不等于单纯的技术网络安全，不等于传统涉密国防科研管理，也不应异化为全面切断正常国际学术交流的封闭主义壁垒。
 
@@ -98,7 +98,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 研究安全治理的四维构成要素 [[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
-> - **机构化专业服务与风险分担** 高校设立保障研究专业团队，将复杂的尽职调查与地缘政治风险评估转化为制度层面的专业支持，消除学者个体的合作恐慌。
+> - **机构化专业服务与风险分担** 高校设立保障研究专业团队，将复杂的尽职调查与[[Geopolitics|地缘政治]]风险评估转化为制度层面的专业支持，消除学者个体的合作恐慌。
 > - **利益冲突与外部资助透明度** 建立研究人员境外兼职、外国资金赞助与国际学术伙伴关系的强制性申报与穿透式审查机制。
 > - **[[Dual-Use Technology|军民两用技术]]与知识产权边界** 严格审核前沿敏感领域（如量子、人工智能、先进半导体）的合作边界，明确[[Foreground IP|前景知识产权]]归属与商业化限制。
 > - **国家安全立法与行政穿透审查** 国家通过法案与行政指令将科研安全法定化，将科研资助与安全合规指标刚性挂钩，重塑合作正当性。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 > 这类命题探讨高校如何通过组织内部的制度创新与专业服务团队建设，将外部强加的地缘安全压力从阻碍合作的官僚壁垒转化为促进深度互信的润滑机制。
 
 > [!claim] [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]
-> **制度后盾赋能合作信任** 在地缘政治紧张局势下，研究安全不应被简化为阻碍合作的被动壁垒，而应转化为大学面向教师的专业化风险管理服务。如滑铁卢大学建立隶属于研究办公室的保障研究（Safeguarding Research）团队，在透明性、可预测性与[[Academic Freedom|学术自由]]之间寻求平衡，通过承担尽职调查与安全审查的制度责任，消除学者对知识产权流失与外部制裁的恐慌，反而使产业伙伴与学术团队能够更加放心地建立长远深度合作。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
+> **制度后盾赋能合作信任** 在[[Geopolitics|地缘政治]]紧张局势下，研究安全不应被简化为阻碍合作的被动壁垒，而应转化为大学面向教师的专业化风险管理服务。如滑铁卢大学建立隶属于研究办公室的保障研究（Safeguarding Research）团队，在透明性、可预测性与[[Academic Freedom|学术自由]]之间寻求平衡，通过承担尽职调查与安全审查的制度责任，消除学者对知识产权流失与外部制裁的恐慌，反而使产业伙伴与学术团队能够更加放心地建立长远深度合作。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
 
 ---
 

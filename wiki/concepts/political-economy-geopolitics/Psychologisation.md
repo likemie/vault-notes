@@ -6,10 +6,10 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - psychologisation
   - youth-governance
@@ -18,14 +18,12 @@ tags:
   - region/hong-kong
   - region/china
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Social-Emotional Learning]]"
   - "[[Progressive Education]]"
   - "[[Patriotic Education]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
@@ -37,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Psychologisation
@@ -50,7 +48,7 @@ updated: 2026-10-15
 > 心理化（psychologisation）是一种威权治理策略。当社会性冲突或青年群体政治能动性诉求无法被吸纳到官方制度框架时，政权通过课内控制与课外引导，将结构性矛盾和政治不满重新定义、翻译和矮化为个体的心理调试不良与情绪健康问题，从而解构集体行动的正当性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
 
 > [!concept-lens] 概念透镜
-> - **指向对象** 威权政府在面临合法性挑战时所采用的去政治化[[Disciplina and Doctrina\|规训]]机制，特别关注教育与青年政策中的情感习惯重塑。
+> - **指向对象** 威权政府在面临合法性挑战时所采用的去政治化规训机制，特别关注教育与青年政策中的情感习惯重塑。
 > - **分析用途** 帮助研究者透视官方如何将政治归属转化为道德责任，以及如何利用幸福、感恩和积极心理学[[Discourse|话语]]消解公众问责与抗争。
 > - **概念边界** 心理化不仅是心理学知识的普及，更是将心理学词汇作为行政控制和去政治化稳压器的制度性实践。
 
@@ -69,7 +67,7 @@ updated: 2026-10-15
 
 > [!feature] 核心要素
 > - **课程议题的去政治化控制** 彻底清除教科书中关于社会运动、政治争议与集体行动的讨论，使制度性批评被排除在可思考的知识边界之外（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.152]]）。
-> - **课外情感习惯的感恩[[Disciplina and Doctrina\|规训]]** 强制推行以感恩和快乐为核心的政策项目，要求学生在面对不利环境时必须感恩所拥有的事物，并保持快乐状态。
+> - **课外情感习惯的感恩规训** 强制推行以感恩和快乐为核心的政策项目，要求学生在面对不利环境时必须感恩所拥有的事物，并保持快乐状态。
 > - **因果解释的个体化归因** 确立生活变好的路径在于改变自我的心理调适力，而非通过集体行动改革社会的官方逻辑（pp.153–154）。
 
 > [!logic-map]- 要素关系
@@ -127,7 +125,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **20 世纪末 — 心理病理化的治理反思** 国际社会学界开始关注新自由主义体制如何通过将社会问题个体化、心理病理化，来实现对越轨人群的柔性控制。
 > - **21 世纪初 — [[Social-Emotional Learning\|社会情感学习]]（SEL）的全球推广** 幸福和积极情绪被定义为可以通过学校课程干预的目标，社会情感学习成为全球[[Progressive Education\|进步教育]]的显性概念。
-> - **2019–2022 — [[National Education\|香港国民教育]]“心理化”转型** 香港教育局推行[[My Pledge to Act\|我的行动承诺]]项目，随后于2022年底发布[[Youth Development Blueprint\|青年发展蓝图]]，全面使用自强、希望、探索等心理学词汇来主导青年政策，完成了心理化[[Disciplina and Doctrina\|规训]]机制的制度化落地（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
+> - **2019–2022 — [[National Education\|香港国民教育]]“心理化”转型** 香港教育局推行[[My Pledge to Act\|我的行动承诺]]项目，随后于2022年底发布[[Youth Development Blueprint\|青年发展蓝图]]，全面使用自强、希望、探索等心理学词汇来主导青年政策，完成了心理化规训机制的制度化落地（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 
 ---
 
@@ -137,7 +135,7 @@ updated: 2026-10-15
 > 
 > > [!axis] 政治问题去政治化 vs. 个人心理健康促进
 > > 争论焦点在于心理化是将结构性矛盾转化为个人适应不良的控制手段，还是促进青年学生在逆境中建立心理韧性的必要举措。
-> > - **[[Argument_Vickers_2024_CE\|Vickers（2024）]]** 心理化治理通过强加快乐与感恩[[Disciplina and Doctrina\|规训]]，消解了青年对社会安排的问责与能动性，是对政治问题的去政治化行动（p.153）。
+> > - **[[Argument_Vickers_2024_CE\|Vickers（2024）]]** 心理化治理通过强加快乐与感恩规训，消解了青年对社会安排的问责与能动性，是对政治问题的去政治化行动（p.153）。
 > > - **香港特区政府局长（2022）** 坚信青年政策的目标是培养具备爱国情怀、抱负和积极思维的年轻人，使他们通过自强实现自我发展。
 > 
 > > [!axis] 结构性症结定位 vs. 心理调试优先定位
@@ -155,5 +153,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 实证反思了香港2020年后通过[[Citizenship and Social Development\|公民与社会发展科]]以及[[Youth Development Blueprint\|青年发展蓝图]]在高中及课外落实心理化治理的质变过程与政治后果。

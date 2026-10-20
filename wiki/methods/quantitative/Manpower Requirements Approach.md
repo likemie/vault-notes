@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,7 +36,6 @@ related_theories:
   - "[[Structural Functionalism]]"
 related_methods:
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"

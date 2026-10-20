@@ -30,10 +30,10 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Participatory Research]]"
   - "[[Statistical Significance]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[New Zealand National Standards]]"
   - "[[Association of Medical Research Charities]]"
   - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-10-20
 ---
 
 # Patient and Public Involvement
@@ -82,7 +82,7 @@ updated: 2026-09-22
 > - **全生命周期深度嵌入（R&D Lifecycle Embedding）** 彻底打破将公众参与局限于方案通过后或成果发布后的碎片化做法，将患者之声机制化内嵌于立项优先级设立、动物模型论证、临床方案编写、终点指标选择及药监上市对话等各个关键节点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]
 > - **真实生活体验的[[Epistemology\|认识论]]权威（[[Epistemic Value]] of Lived Experience）** 承认长期患病者与其家庭照护者对其生理机能变化、日常心理压力及用药不良反应拥有学者所不具备的第一手具身体验，将其视为与实验室生物学数据并重的互补性证据源泉。
 > - **平权共同创造（Co-creation and Shared Power）** 倡导科学家与患者群体之间透明对话，建立平等的审议沟通平台，如阿斯利康的以患者为中心（Patient Centricity）框架，让患者实质性优化试验给药频次与随访时间表。
-> - **制度化国家质量标准（National Standards Governance）** 遵循由英国国家健康与护理研究所（NIHR）联合各界研制的国家公共参与标准，涵盖包容性机会、良好沟通、公众支持与培训、对研究的影响评估等多维质控规程。
+> - **制度化国家质量标准（[[New Zealand National Standards|National Standards]] Governance）** 遵循由英国国家健康与护理研究所（NIHR）联合各界研制的国家公共参与标准，涵盖包容性机会、良好沟通、公众支持与培训、对研究的影响评估等多维质控规程。
 
 ---
 
@@ -109,5 +109,5 @@ updated: 2026-09-22
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|The Royal Society (2026)]] — 系统解构生命科学产业界与第三部门医学慈善机构推进以患者为中心的研发参与机制。

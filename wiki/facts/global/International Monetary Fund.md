@@ -27,12 +27,12 @@ tags:
   - region/global
 related_concepts:
   - "[[Multilateral Development Bank]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Liberalization]]"
   - "[[Policy Conditionalities]]"
   - "[[International Education]]"
+  - "[[Policy Borrowing]]"
   - "[[Class Size]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 组织发展历程
 > - **1944–1971 — 布雷顿森林体系黄金时代** 维持以美元挂钩黄金、其他货币挂钩美元的固定汇率体制；业务聚焦于监督发达成员国经常账户与汇率平价，基本不干预发展中国家国内社会教育开支。
-> - **1970s末–1990s — 结构调整计划与新自由主义[[Disciplina and Doctrina|规训]]转向** 伴随布雷顿森林汇率体系瓦解及拉美、非洲主权债务危机爆发，职能重心转向向后发借款国提供中期贷款；联合[[World Bank|世界银行]]强推[[Washington Consensus|华盛顿共识]]与[[Structural Adjustment Programs|结构调整方案]]，将削减公共赤字、私有化与贸易[[Liberalization|自由化]]嵌入[[Policy Conditionalities|贷款附加条件]]，深刻重创了全球南方公立教育供给。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
+> - **1970s末–1990s — 结构调整计划与新自由主义规训转向** 伴随布雷顿森林汇率体系瓦解及拉美、非洲主权债务危机爆发，职能重心转向向后发借款国提供中期贷款；联合[[World Bank|世界银行]]强推[[Washington Consensus|华盛顿共识]]与[[Structural Adjustment Programs|结构调整方案]]，将削减公共赤字、私有化与贸易[[Liberalization|自由化]]嵌入[[Policy Conditionalities|贷款附加条件]]，深刻重创了全球南方公立教育供给。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **1990s–2000s — 多边黑名单威慑与外债借款上限饱和** 在多边金融分工中，IMF 的违约黑名单机制确立为全球公私资本流动的终极阀门，确保了世行与泛美行教育贷款的刚性偿还（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 457]]）；与此同时，诸多赤贫国家在外债规模达到 IMF 规定的借款负债上限后陷入“饱和停滞”，丧失了继续从多边银行借款用于教育基建的法定资格（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 475]]）。
 > - **2008年至今 — 危机常态化与社会安全网调整** 历经全球金融危机与新兴市场动荡，IMF 增设减贫与增长信托（PRGT），声称在紧缩方案中设立“社会支出底线”（Social Spending Floors）；但在主权债务重组中对公共部门编制与财政预算的刚性控制，依然是引发[[International Education|国际教育]]发展界广泛批判的核心机制。
 
@@ -103,14 +103,14 @@ updated: 2026-10-20
 > [!pathways]- 业务运行机制与主权信贷保障链条
 > - **国际收支危机救助** 针对面临外汇枯竭、货币暴跌或主权债务违约的国家提供分批备用信贷安排（Stand-By Arrangements），按季度审查借款国是否满足宏观财政紧缩指标。
 > - **主权违约黑名单威慑机制（The Blacklist Mechanism）** 任何拖欠或拒绝偿还多边贷款（涵盖 IMF、[[World Bank|世行]]及区域开发银行）的国家，将立即被列入 IMF 的违约黑名单；该黑名单具有极强的排他性金融威慑力，瞬间切断借款国在国际金融市场的发债资格与商业银行信贷，迫使借款国将偿还多边贷款置于国内一切民生支出之上。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
-> - **受迫性政策转移与硬性制度规训（Direct Coercive Policy Transfer）** 在跨国政策借用多维连续谱中，国际货币基金组织是典型的受迫性转移推手（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：在受援国面临外汇耗尽或债务违约危机申请紧急救援时，IMF 将冻结公共部门编制、削减经常性财政赤字与推行私有化作为强制性附加条件，直接向主权国家政府强加硬性制度变迁。
+> - **受迫性政策转移与硬性制度规训（Direct Coercive Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，国际货币基金组织是典型的受迫性转移推手（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：在受援国面临外汇耗尽或债务违约危机申请紧急救援时，IMF 将冻结公共部门编制、削减经常性财政赤字与推行私有化作为强制性附加条件，直接向主权国家政府强加硬性制度变迁。
 > - **债务上限管制与部门借贷约束** 通过债务可持续性分析（DSA）为受援国设定硬性借债上限；一旦借款国负债触顶，IMF 便禁止其进一步向世界银行或区域开发银行申请新教育贷款，从而从宏观源头锁死了教育财政扩张空间。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
 
 ---
 
 ## 核心业务与旗舰产出（含教育治理冲击）
 
-> [!logic-map]- 国际货币基金组织宏观金融[[Disciplina and Doctrina|规训]]对教育财政的传导机制
+> [!logic-map]- 国际货币基金组织宏观金融规训对教育财政的传导机制
 > ```mermaid
 > flowchart LR
 >     A["国际收支危机救助<br>宏观监测与第四条款磋商"] --> B["双重主权信贷规训阀门<br>违约黑名单惩戒 + 外债硬性上限"]
@@ -224,7 +224,7 @@ updated: 2026-10-20
 > | [[Shadow State]] | 概念 | 财政紧缩倒逼教育公共职能外包所滋生的非政府组织去政治化替代状态。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 111–112)]] |
 > | [[Robert Arnove]] | 人物 | 率先从世界体系分析批判 IMF 与世行教育援助负面效应的代表学者。 |
 > | [[Carlos Alberto Torres]] | 人物 | 深刻批判 IMF 与世行紧缩方案系统性瓦解[[Development Education\|发展中国家教育]]行政机器的政治社会学学者。 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析国际货币基金组织在跨国政策借用连续谱中扮演的受迫性转移（Direct Coercive Transfer）与硬性制度强加功能。 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析国际货币基金组织在跨国[[Policy Borrowing\|政策借用]]连续谱中扮演的受迫性转移（Direct Coercive Transfer）与硬性制度强加功能。 |
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视 IMF 与世行教育援助政策，揭示其防卫性规训、固化国际分层以及扶植影子国家的政治经济学后果。 |
 > | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析 IMF 违约黑名单机制为多边银行提供的零信用风险保障，以及债务上限对极贫国教育借贷的阻断效应。 |
 

@@ -8,7 +8,7 @@ aliases:
 summary: "源自安第斯原住民宇宙观的生态伦理与整体繁荣哲学，强调人与自然（Pachamama）、跨代际社群及精神传统的互依和谐共生；在教育哲学与批判发展学中，构成解构西方人类中心主义、新自由主义人力资本论与单纯经济增长神话的核心替代范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/ethics-of-technology
 related_concepts:
   - "[[Construct]]"
+  - "[[Developmentalism]]"
   - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Ubuntu]]"
@@ -59,7 +60,7 @@ updated: 2026-10-20
 > **Buen Vivir**（西班牙语，直译为“好好生活”或“美好生活”；克丘亚语：*Sumak Kawsay*；艾马拉语：*Suma Qamaña*）是源自拉丁美洲安第斯原住民宇宙观的整体性生态哲学与政治伦理[[Construct|构念]]。它主张生命的真正繁荣在于人、社群与自然（大自然母亲，*Pachamama*）之间的互惠、互依与动态平衡，坚决反对将“生活得更好”（*Vivir Mejor*，即追求无限的物质财富积累、消费扩张与感官占有）视为人类发展的最高目标。
 >
 > 在当代教育哲学、批判发展学与比较社会学中，Buen Vivir 展现出双重核心意涵：
-> 1. **反思发展主义与经济至上论** 质疑以国内生产总值（GDP）增长、工业化与文凭商品化为尺度的西方现代化[[Discourse|话语]]，将生态系统的完整性与社群的日常再生产确立为衡量发展的根本坐标（Gudynas, 2011; Acosta, 2013）；
+> 1. **反思[[Developmentalism|发展主义]]与经济至上论** 质疑以国内生产总值（GDP）增长、工业化与文凭商品化为尺度的西方现代化[[Discourse|话语]]，将生态系统的完整性与社群的日常再生产确立为衡量发展的根本坐标（Gudynas, 2011; Acosta, 2013）；
 > 2. **重塑教育的[[Ontology|本体论]]根基** 与非洲 [[Ubuntu]] 哲学和西方生态[[Posthumanism|后人类主义]]（[[Posthumanism]]）形成深度对话，解构新自由主义将教育窄化为[[Human Capital Theory|人力资本]]投资的功利[[Paradigm|范式]]，倡导一种培养生态共生敏感性与跨代际伦理责任的关怀教育（[[Argument_Amos_2022_Springer|Amos, 2022, p. 64]]）。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]
 
 > [!concept-lens] 概念透镜

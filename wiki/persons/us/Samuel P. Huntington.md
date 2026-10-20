@@ -9,7 +9,7 @@ summary: "美国著名政治学家，哈佛大学教授，文明冲突论与现�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/international-relations
   - theme/political-order
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Determinism]]"
 related_theories:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Samuel P. Huntington
@@ -49,7 +50,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治学家、哈佛大学阿尔伯特·J·韦瑟黑德三世大学讲席教授，曾任哈佛国际与地区事务研究所所长、美国政治学会主席。
-> - **核心角色** 提出了冷战后全球地缘政治重构的“[[Clash of Civilizations|文明冲突论]]”，强调文化与宗教断层线对国际格局与现代国家发展的决定性影响。
+> - **核心角色** 提出了冷战后全球[[Geopolitics|地缘政治]]重构的“[[Clash of Civilizations|文明冲突论]]”，强调文化与宗教断层线对国际格局与现代国家发展的决定性影响。
 > - **代表贡献** 提出文明冲突框架与[[Huntington-Wallace Line|亨廷顿-华莱士线]]，著有《变化社会中的政治秩序》（1968）、《第三波》（1991）、《文明的冲突与世界秩序的重建》（1996）等经典著作。
 
 > [!citation-card] 塞缪尔·亨廷顿论文明断层线与世界格局
@@ -84,6 +85,6 @@ updated: 2026-10-16
 ## 学术评价与理论争议
 
 > [!critique] 学术影响与争议反思
-> - **文化地缘政治的开创性透视** 突破了单纯基于经济利益或意识形态的传统国际关系[[Paradigm|范式]]，敏锐捕捉到全球化进程中古老文化与宗教认同的强势复兴。
+> - **文化[[Geopolitics|地缘政治]]的开创性透视** 突破了单纯基于经济利益或意识形态的传统国际关系[[Paradigm|范式]]，敏锐捕捉到全球化进程中古老文化与宗教认同的强势复兴。
 > - **[[Determinism|决定论]]与还原论批判** 批评者指责其文明分类具有过度简化与还原主义色彩，抹平了各文明内部的复杂多样性。
 > - **学术讨论禁忌化的后效** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，学界对亨廷顿理论的集体排斥，客观上导致了关于文化在国际关系、经济发展与国家认同中规范性作用的严肃学术探讨被长期边缘化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]

@@ -21,9 +21,9 @@ tags:
   - state-theory
   - political-economy
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Post-Fordism]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Conditioned State Theory]]"
 related_methods: []
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-20
 ---
 
 # Permeable State
@@ -50,7 +50,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> 多孔国家（Permeable State）亦称“民族国家通透性”，是指随着生产跨国离散分布、金融资本即时流动以及超国家/多边机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）治理网络的深度扩张，现代民族国家原本作为公民政治忠诚、文化认同与法律管辖封闭象征的主权边界，发生了结构性的多孔化与通透化；这一状态使得民族国家在制定包括公共教育在内的国内公共政策时，极易受到千里之外跨国力量的直接干预与制度性[[Disciplina and Doctrina|规训]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
+> 多孔国家（Permeable State）亦称“民族国家通透性”，是指随着生产跨国离散分布、金融资本即时流动以及超国家/多边机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）治理网络的深度扩张，现代民族国家原本作为公民政治忠诚、文化认同与法律管辖封闭象征的主权边界，发生了结构性的多孔化与通透化；这一状态使得民族国家在制定包括公共教育在内的国内公共政策时，极易受到千里之外跨国力量的直接干预与制度性规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球化进程中国家主权边界防线的被动消解与多向渗透。
@@ -68,7 +68,7 @@ updated: 2026-09-29
 
 > [!feature] 多孔国家的三大驱动机制
 > - **跨国生产与弹性积累的离散化** 工业流水线被分散到全球多个低成本节点，企业随时可以撤资逃离，迫使国家撤除资本进出壁垒，削弱了国家征税与劳工保护权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80, 84–85)]]
-> - **准超国家治理机构的借贷[[Disciplina and Doctrina|规训]]** 跨国金融组织（如[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）通过结构调整贷款协议，将压缩公共教育财政、收取学杂费与推行私有化作为放贷条件，直接穿透国家议会与教育部的政策主权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **准超国家治理机构的借贷规训** 跨国金融组织（如[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）通过结构调整贷款协议，将压缩公共教育财政、收取学杂费与推行私有化作为放贷条件，直接穿透国家议会与教育部的政策主权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 > - **跨国信息流动与公民认同的撕裂** 全球即时通讯与跨国意识形态网络削弱了传统公立学校在塑造单一民族国家公民忠诚方面的独占地位，国家内部阶级与族群分化加剧。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 ---

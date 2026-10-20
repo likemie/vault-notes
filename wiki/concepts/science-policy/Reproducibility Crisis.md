@@ -8,7 +8,7 @@ aliases:
 summary: "2010年代以来在心理学、生物医学、实验经济学及社会科学中集中爆发的已发表经典研究无法被独立复现的方法论危机；在科学学与国家科技政策视阈下，危机根源于学术出版激励偏倚、统计自由度滥用与生成-核验成本脱节，不仅动摇了科学的内在认知权威，更推动了开放科学与‘金标准科学’评价制度的重塑。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Research Synthesis]]"
 confidence: high

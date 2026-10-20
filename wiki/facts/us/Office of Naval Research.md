@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,7 +41,6 @@ related_facts:
   - "[[DARPA]]"
   - "[[Institute for Advanced Study]]"
   - "[[Chinese Academy of Sciences]]"
-  - "[[European Research Area]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bell Labs]]"
 related_arguments:
@@ -97,7 +96,7 @@ updated: 2026-10-20
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 颠覆性技术策源矩阵
-> - **第一代通用电子计算机体系突破** 1945–1955 年间全额或联合资助研制了哈佛 Mark II（84 万美元）、Mark III（116 万美元）、麻省理工学院 Whirlwind（400–500 万美元）、普林斯顿 [[Institute for Advanced Study|IAS]] 计算机（65 万美元）、[[European Research Area|ERA]] 1101/1103 系列及 IBM NORC（250 万美元），直接确立了[[Von Neumann Architecture|存储程序计算机]]架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
+> - **第一代通用电子计算机体系突破** 1945–1955 年间全额或联合资助研制了哈佛 Mark II（84 万美元）、Mark III（116 万美元）、麻省理工学院 Whirlwind（400–500 万美元）、普林斯顿 [[Institute for Advanced Study|IAS]] 计算机（65 万美元）、ERA 1101/1103 系列及 IBM NORC（250 万美元），直接确立了[[Von Neumann Architecture|存储程序计算机]]架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
 > - **微波激射器与激光技术先驱** 对哥伦比亚大学查尔斯·汤斯（Charles Townes）微波激射器与激光理论提供关键早期资助，直接开辟了光纤通信与现代激光工业。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
 > - **现代深海海洋科学基础设施** 长期资助建造深海科研考察船、深潜器（如“阿尔文号”Alvin）及全球海洋声学水听网络，奠定了现代物理海洋学基石。
 

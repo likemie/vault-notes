@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 34
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Zero-Sum Competition]]"
   - "[[Academic Freedom]]"
   - "[[Public-Private Partnership]]"
@@ -43,7 +42,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -93,7 +91,7 @@ updated: 2026-10-20
 > [!boundary]- 概念边界
 > - 不等于 [[Product-Specific Research|产品专项研究]] — 产品专项研究针对特定企业的专有产品与定制化方案，其知识产权具有高商业价值与排他性；前竞争研究聚焦共性技术与通用标准，成果通常供所有成员免版税共享。
 > - 不等于 [[Translational Research|转化研究]] — 转化研究侧重于将实验室发现跨越[[Valley of Death|死亡之谷]]推进到原型与临床/工业应用的能力与过程；前竞争研究侧重于研发所处阶段与专有权属性的性质界定。
-> - 不等于 [[Curiosity-Driven Research|纯基础研究]] — 基础研究追求根本性的科学规律认知且通常无特定商业目标；前竞争研究多由明确的产业工程瓶颈驱动，具有明确的工业应用导向，只是尚未具体化为竞争性终极产品。
+> - 不等于 纯基础研究 — 基础研究追求根本性的科学规律认知且通常无特定商业目标；前竞争研究多由明确的产业工程瓶颈驱动，具有明确的工业应用导向，只是尚未具体化为竞争性终极产品。
 
 ---
 

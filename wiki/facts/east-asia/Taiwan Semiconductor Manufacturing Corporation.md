@@ -27,6 +27,7 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[Vertical Disintegration]]"
+  - "[[Geopolitics]]"
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Technological Catch-up]]"
@@ -43,7 +44,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -73,7 +73,7 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）** 是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国地缘政治博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
+> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）** 是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国[[Geopolitics|地缘政治]]博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1987 年由张忠谋在台湾工业技术研究院（ITRI，工研院）衍生项目与荷兰飞利浦（Philips）支持下创立，依托政策注资与产业基础设施扶植起步。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 88)]]
@@ -92,7 +92,7 @@ updated: 2026-10-20
 > - **1990 年代末–2010 年代 — 制程[[Technological Catch-up|技术赶超]]与先进制程垄断确立**
 >   - 凭借台湾高度密集的高素质工程师队伍、超长工时与精益良率控制，台积电在 28nm、16nm FinFET 等关键节点上全面超越联电与格芯，并在 7nm、5nm 节点上一举超越英特尔与三星。
 >   - 深度绑定苹果（iPhone A 系列与 Mac M 系列处理器）与英伟达（GPU 与 AI 加速计算），实现天量商业订单对极紫外（EUV）光刻研发投入的正向反哺。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–90)]]
-> - **2020 年代至今 — 地缘政治暴风眼与跨国现代产业战略重构**
+> - **2020 年代至今 — [[Geopolitics|地缘政治]]暴风眼与跨国现代产业战略重构**
 >   - 伴随中美科技博弈与全球芯片短缺，台积电先进制程高度集中于台海的地理格局被美欧视作重大供应链安全隐患。
 >   - 在美国《[[CHIPS and Science Act|芯片与科学法案]]》直接补贴激励下，台积电将亚利桑那州凤凰城投资由 400 亿美元大幅追加至 650 亿美元，规划建设 3 座晶圆厂（分别引入 4nm、3nm 及 2nm 工艺），获得联邦政府 66 亿美元直接资助与至多 50 亿美元贷款，成为全美吸纳产业资金规模最大的标志性外资项目。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10–11)]]
 >   - 在欧洲《[[European Chips Act|欧洲芯片法案]]》与德国国家援助框架下，台积电与博世、英飞凌、恩智浦联合投资 100 亿欧元设立欧洲半导体制造工厂（ESMC），获德国政府约 50 亿欧元国家补贴支持，重点供应欧洲汽车与工业微控制器芯片，全面深度卷入跨大西洋多极化建厂竞争。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
@@ -156,7 +156,7 @@ updated: 2026-10-20
 > > [!axis] “硅盾”（Silicon Shield）与极端地理集中断链风险
 > > 尖端产能高度集中于台海究竟是保障台湾地缘安全的护身符，还是全球经济的致命阿喀琉斯之踵？
 > >
-> > - **“硅盾”论立场** 认为全球经济对台积电芯片的极端依赖迫使欧美大国必须不惜一切代价维护台海和平稳定，强大的半导体产业充当了关键的地缘政治防卫屏障。
+> > - **“硅盾”论立场** 认为全球经济对台积电芯片的极端依赖迫使欧美大国必须不惜一切代价维护台海和平稳定，强大的半导体产业充当了关键的[[Geopolitics|地缘政治]]防卫屏障。
 > > - **供应链去风险与断链危机论** 全球超过九成尖端计算芯片系于一役，一旦因地缘冲突或自然灾害停摆，将引发全球万亿美元级经济灾难；这迫使美欧政府将台积电产能过度集中定性为不可承受的国家安全威胁，从而强势要求其跨国空间分散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 >
 > > [!axis] 跨国分散建厂的文化冲突、技工短缺与集聚稀释阵痛

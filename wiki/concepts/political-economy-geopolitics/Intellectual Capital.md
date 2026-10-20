@@ -8,7 +8,7 @@ aliases:
 summary: "由 19 世纪经济学家弗里德里希·李斯特率先提出、后被演化经济学与当代国家战略理论重新阐发的核心概念；指人类历代发现、发明、工艺改良与社会努力积累而成的无形知识与认知技能总和，构成全社会脑力与体力生产能力的核心载体；强调有形物质投资的生产效率完全依附于智力资本的积累与配置方向，后发国家的技术赶超取决于其自主增进智力资本的能力，而大国竞争与国家安全则取决于能否将顶尖工程师与科学家的智力资本从浅层消费主义诱惑中引导至国家重大战略使命。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -46,7 +46,6 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Friedrich List]]"
   - "[[Chris Freeman]]"

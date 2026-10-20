@@ -8,7 +8,7 @@ summary: "美国著名政治学者，密歇根大学政治学荣休教授，美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Scientific Explanation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # John W. Kingdon
@@ -96,7 +97,7 @@ updated: 2026-10-17
 > - **1980年代–至今 — 多源流动力学与政策议程设置** 吸收组织社会学垃圾桶模型，将政策过程解构为相对独立演进的问题流、政策流与政治流，阐释[[Policy Window|政策之窗]]与企业家耦合机制。
 >   - **代表著作** 《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*, 1984/1995/2011）。
 >   - **关键概念／方法** [[Multiple Streams Framework|多源流分析框架]]、[[Policy Window|政策之窗]]、[[Policy Entrepreneur|政策企业家]]、三流耦合。
->   - **阶段转向** 奠定了全球公共政策议程设置的非线性研究典范，深刻影响了当代危机政治与循证决策分析。
+>   - **阶段转向** 奠定了全球公共政策议程设置的非线性研究典范，深刻影响了当代危机政治与[[Evidence-Based Policy-Making|循证决策]]分析。
 
 ---
 

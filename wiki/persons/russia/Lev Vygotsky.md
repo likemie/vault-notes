@@ -9,14 +9,14 @@ summary: "苏联心理学家，社会文化心理学与文化-历史活动理论
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-20
 born: "1896"
 died: "1934"
 lifespan: "1896–1934"
@@ -46,7 +46,6 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Confucius]]"
@@ -128,7 +127,7 @@ related_arguments:
 > - **政策与教学路径** 广泛影响了全局以学生为中心教育（[[Learner-Centred Education\|LCE]]）、[[Dialogue in Education|对话教学]]（Dialogic Teaching）与学科课程设计的编制。
 > - **批判路径** 在[[Educational Neuroscience\|教育神经科学]]（[[Educational Neuroscience\|Educational Neuroscience]]）兴起时，维果茨基社会文化理论被学者用于抵制将学习简化为大脑神经元生理机制的还原论，保护学习的社会性与关系维度。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 121)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 借用 Vygotsky 的科学概念与自发概念区分，论证社会实在论课程设计模型（CDCM）中知识连贯性的必要性。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 阐述 Vygotsky 社会文化互动理论在华北案例学校中与[[Confucius\|孔子]]对话传统产生的[[Selective Affinity\|选择性亲和]]，以及第一代活动理论在研究框架中的定位。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 引用 Vygotsky 社会文化理论（结合 Rose & Rose 1976），批判脑科学与[[Cognitive Load Theory\|认知负荷理论]]对教育社会性与关系维度的遮蔽。

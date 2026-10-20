@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,9 +30,9 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Inbreeding]]"
+  - "[[Geopolitics]]"
   - "[[Employability]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[European Education Space]]"
   - "[[Student Mobility]]"
   - "[[Geopolitics of Higher Education]]"
@@ -49,6 +49,7 @@ related_facts:
   - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Times Higher Education World University Rankings]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
@@ -58,7 +59,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bologna Process
@@ -120,7 +121,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 历史成效与制度突破
 > - **重塑全欧高等教育空间秩序** 成功打破 49 个成员国彼此割裂的学制藩篱，实现了学士、硕士、博士分层三周期学制与 ECTS 学分的制度化通用，使全欧跨境求学与学分认定成为常态。
-> - **激发高校的地缘政治能动性** 实证研究确证，高校并非国家政策与地缘政治动荡的被动承受者，而是能在多层级权力网络中展现出卓越能动性，通过跨国联盟、共同学位及空间布局直接参与塑造高等教育地缘秩序。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
+> - **激发高校的[[Geopolitics|地缘政治]]能动性** 实证研究确证，高校并非国家政策与地缘政治动荡的被动承受者，而是能在多层级权力网络中展现出卓越能动性，通过跨国联盟、共同学位及空间布局直接参与塑造高等教育地缘秩序。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **倒逼欧洲大陆传统体制行政现代化** 促使德、法、意等传统中央集权或讲座制国家打破繁琐终身文凭体系，推动课程大纲向强调[[Employability|就业能力]]（[[Employability]]）与学习产出的模块化转型。
 
 > [!effect-table]- 实施规模与跨国对标指标
@@ -140,9 +141,9 @@ updated: 2026-10-16
 > [!debates] 政策争议与理论反思
 >
 > > [!axis] 争议一：[[State Educational Sovereignty|国家教育主权]]的隐性让渡与区域治理吸纳
-> > 博洛尼亚进程是平等的政府间自愿协调，还是[[EU|欧盟]]委员会推行超国家[[Disciplina and Doctrina|规训]]的特洛伊木马？
+> > 博洛尼亚进程是平等的政府间自愿协调，还是[[EU|欧盟]]委员会推行超国家规训的特洛伊木马？
 > > - **官方辩护** 强调进程严格遵循[[Subsidiarity Principle|辅助性原则]]，完全建立在自愿互认基础之上，尊重各国学术传统。
-> > - **地缘政治解构** 余婧然与谢爱磊援引周与拉维内（Chou & Ravinet, 2017）指出，协调协调机制逐渐被区域治理机构（如欧盟委员会）吸纳，实际上削弱了欧盟各国政府对高等教育的直接控制权，重构了高等教育的权力地理。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
+> > - **[[Geopolitics|地缘政治]]解构** 余婧然与谢爱磊援引周与拉维内（Chou & Ravinet, 2017）指出，协调协调机制逐渐被区域治理机构（如欧盟委员会）吸纳，实际上削弱了欧盟各国政府对高等教育的直接控制权，重构了高等教育的权力地理。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 >
 > > [!axis] 争议二：高校能动性的制度边界与英国脱欧对照
 > > 高校面对地缘政治变迁与区域治理规约是消极受体还是战略行动者？
@@ -152,7 +153,7 @@ updated: 2026-10-16
 > > [!axis] 争议三：表面趋同修辞掩盖深层[[Academic Inbreeding|学术近亲繁殖]]与质量赤字
 > > 博洛尼亚学位体系的机械套用能否自动催生世界一流大学？
 > > - **政界政绩修辞** 南欧等国政客与高校行政层频频将学制改革包装为对标欧洲空间、融入现代化的成功典范。
-> > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|ARWU]]）与泰晤士高等教育世界大学排名（THE）中表现极差，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
+> > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|ARWU]]）与[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（THE）中表现极差，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 > [!citation-card] 论欧盟软法治理的三重机制与博洛尼亚趋同
 > 诺瓦（Nóvoa, 2002）区分了欧洲联盟影响成员国教育政策的三种机制：第一是促进合作，这种方法建立在展示‘最佳实践’与营造对话氛围之上（这听起来与 19 世纪的比较教育惊人地相似！）；第二种机制是确立量化指标与基准指标（由于辅助性原则阻止欧盟向成员国强加共同教育政策，设置指标成为行使政治影响力的一种手段）；第三种机制则是通过博洛尼亚进程创建‘欧洲高等教育区’。在此路径下，欧盟通过课程结构的标准化、欧洲学分转换与累积系统（ECTS）的引入、学位的可比性以及质量保障体系的建立，在形式上尊重国家边界的同时强力推动着共同政策的落地。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
@@ -175,7 +176,7 @@ updated: 2026-10-16
 > | [[European Education Space]] | Concept | **上位治理空间** 博洛尼亚进程构成了[[EU\|欧盟]]与泛欧国家构建统一教育空间最核心的体制平台。 |
 > | [[Erasmus Programme]] | Fact (Program) | **协同流动引擎** 欧洲学分互认（ECTS）与学位对齐直接为伊拉斯谟[[Student Mobility\|跨国学生流动]]提供了制度底座。 |
 > | [[State Educational Sovereignty]] | Concept | **核心治理博弈** 民族国家高等教育主权在博洛尼亚进程中面临超国家治理机构的隐性吸纳。 |
-> | [[Geopolitics of Higher Education]] | Concept | **理论分析视阈** 余婧然与谢爱磊（2025）将博洛尼亚进程作为透视高校地缘政治能动性的关键案例。 |
+> | [[Geopolitics of Higher Education]] | Concept | **理论分析视阈** 余婧然与谢爱磊（2025）将博洛尼亚进程作为透视高校[[Geopolitics\|地缘政治]]能动性的关键案例。 |
 > | [[Academic Ranking of World Universities]] | Fact (Event) | **外部竞争标尺** ARWU 等全球排名持续暴露出博洛尼亚形式趋同背后南欧部分国家的实质质量赤字。 |
 > | [[Global Universities Rankings]] | Concept | **宏观评估生态** 衡量欧洲高等教育区全球学术[[Competitiveness\|竞争力]]与声誉的跨国量化工具系统。 |
 > | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | 论证 | 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。 |

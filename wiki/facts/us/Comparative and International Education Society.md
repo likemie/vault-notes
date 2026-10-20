@@ -37,6 +37,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
+  - "[[Developmentalism]]"
   - "[[Scientism]]"
   - "[[Comparative Educations]]"
   - "[[Development Turn in Comparative Education]]"
@@ -52,7 +53,6 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
@@ -176,7 +176,7 @@ updated: 2026-10-20
 > > 比较教育学者围绕学会的学术纯粹性与政治从属性展开反思。
 > >
 > > - **传统学术人文主义立场** 坚持比较教育应植根于人文学科（历史、哲学与语言学）的基础研究，致力于对异域文化与教育历史情境展开深层阐释，批评学会过度向对外援助与应用咨询倾斜导致学科沦为冷战政策工具。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
-> > - **应用发展主义立场** 坚称比较教育必须与多边国际组织紧密结合，借助[[Scientism|科学主义]]测量与循证政策模型帮助发展中国家诊断并消除贫困与教育落后。
+> > - **应用[[Developmentalism|发展主义]]立场** 坚称比较教育必须与多边国际组织紧密结合，借助[[Scientism|科学主义]]测量与循证政策模型帮助发展中国家诊断并消除贫困与教育落后。
 >
 > > [!axis] 西方功能主义现代化霸权 vs [[Dependency Theory|依附理论]]与去殖民反思
 > > 批判学者对学会历史上的[[Epistemology|认识论]]取向展开政治经济学检视。

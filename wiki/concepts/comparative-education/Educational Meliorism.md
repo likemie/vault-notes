@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 74
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[School Autonomy]]"
   - "[[Global Educational Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
   - "[[Proto-Scientific Motif]]"
@@ -59,7 +58,6 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
@@ -318,7 +316,7 @@ updated: 2026-10-20
 > 揭示跨国组织在将理论转化为政策处方的过程中，如何受到改良主义与紧迫[[Pragmatic Paradigm|实用主义]]的双重驱使，导致学术复杂性的过度流失与本土探索空间的闭合。
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
-> **紧迫实用主义与改良主义驱动下的知识过度简化** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）在话语流通五位置模型中，将国际组织（如[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）定位于第二位置——充当“应用专家”的[[Knowledge Production|知识生产]]者与再生产者。比奇揭示，这些跨国机构受到两股核心力量的深度驱使：一是对全球教育弊病进行积极救治的**教育改良主义（Educational Meliorism）**，二是源于项目资助周期与见效考核的**紧迫实用主义（Urgent Pragmatism）**。这两股力量迫使它们在极度压缩的时间线内交付即时解决方案。为了实现跨国标准化转移，它们运用二元地理区隔策略，将学术界（第一位置）充满争议、高度复杂的学术辩论，激进过滤和过度简化为去情境化、教条化的改革口号与标准化模板（如包含权力下放与[[School Autonomy|学校自主权]]、国家统一测试在内的[[Global Educational Discourse|全球教育话语]]五大支柱）。这种制度性改良主义实质上推行了技术官僚式的单向[[Disciplina and Doctrina|规训]]，剥夺了学术理论的原初批判深度，并严重闭合了受援国探索本土自主改良路径的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–352)]]
+> **紧迫实用主义与改良主义驱动下的知识过度简化** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）在话语流通五位置模型中，将国际组织（如[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）定位于第二位置——充当“应用专家”的[[Knowledge Production|知识生产]]者与再生产者。比奇揭示，这些跨国机构受到两股核心力量的深度驱使：一是对全球教育弊病进行积极救治的**教育改良主义（Educational Meliorism）**，二是源于项目资助周期与见效考核的**紧迫实用主义（Urgent Pragmatism）**。这两股力量迫使它们在极度压缩的时间线内交付即时解决方案。为了实现跨国标准化转移，它们运用二元地理区隔策略，将学术界（第一位置）充满争议、高度复杂的学术辩论，激进过滤和过度简化为去情境化、教条化的改革口号与标准化模板（如包含权力下放与[[School Autonomy|学校自主权]]、国家统一测试在内的[[Global Educational Discourse|全球教育话语]]五大支柱）。这种制度性改良主义实质上推行了技术官僚式的单向规训，剥夺了学术理论的原初批判深度，并严重闭合了受援国探索本土自主改良路径的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–352)]]
 
 > [!citation-card] 比奇论紧迫实用主义与改良主义驱动的知识过度简化
 > 国际组织必须将学术理论转化为实践应用。受改良主义意图（即改善世界教育的愿望）与紧迫实用主义的驱动，国际机构需要快速交付具体方案。因此，复杂的理论在这一流通位置被激进过滤，剥离其争辩性与情境依赖性，最终凝结为适用于一切受援国的标准化通用处方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 351–352)]]
@@ -409,7 +407,7 @@ updated: 2026-10-20
 
 > [!warning] 适用局限
 > - **警惕滑向技术官僚主义的“处方开具”** 改良主义若脱离了批判性反思与对本土权力结构的体察，极易退化为简单开具药方（prescription-mongering）的浅层[[Pragmatic Paradigm|实用主义]]。
-> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良[[Discourse|话语]]可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的[[Disciplina and Doctrina|规训]]工具。
+> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良[[Discourse|话语]]可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的规训工具。
 
 ---
 

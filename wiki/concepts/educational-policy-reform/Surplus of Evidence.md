@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
   - "[[Policy Ambiguity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Causality]]"
   - "[[Dialogue in Education]]"
   - "[[Emergence]]"
@@ -44,7 +45,6 @@ related_theories:
   - "[[Pluralism]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Surplus of Evidence
@@ -74,7 +74,7 @@ updated: 2026-10-15
 > - **边界** 不等于知识的真正普惠与真理澄明，而是一种夹杂着大量“信息孤岛（Information Silos）”与商业包装报告的注意力经济赤字状态。
 
 > [!citation-card] 证据过剩与思想市场下的政策中介崛起
-> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进循证决策，那完全是一种虚妄的假设；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮成长的肥沃土壤——它们选择性地汲取研究发现，将其转译为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进[[Evidence-Based Policy-Making|循证决策]]，那完全是一种虚妄的假设；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮成长的肥沃土壤——它们选择性地汲取研究发现，将其转译为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 >
 > *The ‘surplus of evidence’ and the ‘marketplace of ideas’ (Lubienski 2019, 70), as well as the proliferation of information silos (Malin and Lubienski 2022), have generated a renewed opportunity for intermediaries to bridge knowledge producers and knowledge users, or science and politics... It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today’s information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research.*
 
@@ -191,5 +191,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage\|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。

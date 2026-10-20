@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/research-integrity
   - theme/state-science-relations
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
@@ -51,7 +52,7 @@ updated: 2026-10-20
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 2017 年“为科学而游行”（March for Science）是现代科学史上规模最大、参与学者最广泛的全球性公众集会。它打破了战后科学家不直接参与街头政治抗议的行业默契，以公开政治动员的形式捍卫科学实证权威、同行评议与循证决策，标志着战后以国家安全为庇护的[[Social Contract of Science|科学社会契约]]彻底陷入政党极化与政治互信断裂危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
+> 2017 年“为科学而游行”（March for Science）是现代科学史上规模最大、参与学者最广泛的全球性公众集会。它打破了战后科学家不直接参与街头政治抗议的行业默契，以公开政治动员的形式捍卫科学实证权威、同行评议与[[Evidence-Based Policy-Making|循证决策]]，标志着战后以国家安全为庇护的[[Social Contract of Science|科学社会契约]]彻底陷入政党极化与政治互信断裂危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2017 年 4 月 22 日（国际地球日）；主会场设于美国首都华盛顿特区国家广场（National Mall），全美及全球 600 多个城市同步举行卫星游行。
@@ -93,7 +94,7 @@ updated: 2026-10-20
 > |:---|:---|:---|
 > | 核心行动者 | [[Research Universities\|研究型大学]]学者 / AAAS | 特朗普行政当局 / 保守智库 |
 > | 阶级／社会基础 | 科学专业技术人员 / 环保倡导者 / 公民公众 | 保守选民集团 / 传统产业与化石能源资本 |
-> | 核心价值[[Discourse\|话语]] | 循证决策 / 同行评议 / 学术自由 / 科学实证权威 | 质疑精英建制 / 抨击科研浪费 / 优先经济增长与主权利益 |
+> | 核心价值[[Discourse\|话语]] | [[Evidence-Based Policy-Making\|循证决策]] / 同行评议 / 学术自由 / 科学实证权威 | 质疑精英建制 / 抨击科研浪费 / 优先经济增长与主权利益 |
 > | 斗争策略 | 街头请愿 / 媒体倡导 / 国会游说 / 诉讼与数据归档 | 削减科研预算 / 限制联邦学者发声 / 人事清洗 |
 >
 > **关键分歧** 双方围绕科学是否享有超越党派政治的客观认知权威，以及联邦政府是否有权凭借政治意识形态削减科研资助并干预科学证据发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
@@ -127,7 +128,7 @@ updated: 2026-10-20
 > > 传统科学社会学担忧走上街头会削弱科学的非党派中立权威；而批判学者认为这是面临行政权力打压时的合法集体自卫。
 > >
 > > - **科学中立论视角** 担忧街头抗议将科学直接党派化，使公众误将同行评议视作特定党派的政治工具，损害长远的公共公信力。
-> > - **[[Citizen Science|公民科学]]家视角** 坚持当真理、实证数据与气候事实遭遇政治篡改时，科学共同体必须履行守护循证决策底线的道德义务。
+> > - **[[Citizen Science|公民科学]]家视角** 坚持当真理、实证数据与气候事实遭遇政治篡改时，科学共同体必须履行守护[[Evidence-Based Policy-Making|循证决策]]底线的道德义务。
 >
 > > [!axis] 长期历史遗产的评价
 > > 各方对大游行究竟强化了科学界的政治组织力，还是加剧了科学体制的合法性危机存在分歧。

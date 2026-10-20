@@ -8,7 +8,7 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,13 +35,12 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Boundary Object
@@ -175,5 +174,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 将边界对象理论应用于[[Generative Artificial Intelligence\|生成式人工智能]]研究，阐明 ChatGPT 如何作为灵活的[[Artefact\|人工制品]]连接跨学科知识与个性化批判创造探索。

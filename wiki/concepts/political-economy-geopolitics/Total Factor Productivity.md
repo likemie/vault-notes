@@ -9,7 +9,7 @@ aliases:
 summary: "衡量产出增长中扣除资本与劳动等要素投入贡献后的剩余部分，反映技术进步、组织效率与知识积累的综合生产率指标；在增长核算中作为索洛残差度量技术差距，在现代产业与演化经济学中，先进制造业被视为全社会全要素生产率增长与技术外溢的核心引擎，现代产业战略旨在通过重振先进制造扭转长期生产率增长放缓。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,6 @@ related_theories:
 related_methods:
   - "[[Perpetual Inventory Method]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jack Douglas]]"
   - "[[Robert J. Gordon]]"

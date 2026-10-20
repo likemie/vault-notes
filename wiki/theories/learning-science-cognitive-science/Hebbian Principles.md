@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 核心主张
@@ -44,7 +44,7 @@ updated: 2026-10-16
 >
 > - **强化机制** — 经常共同激活的神经元之间的突触连接被加强
 > - **消除机制** — 不持续需要的通路被移除，即[[Synaptic Pruning\|突触修剪]]的过程
-> - **分子基础** — 这一过程被认为由谷氨酸受体介导的突触可塑性（长时程增强，Long Term Potentiation）所支撑([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])
+> - **分子基础** — 这一过程被认为由谷氨酸受体介导的[[Neuroplasticity|突触可塑性]]（长时程增强，Long Term Potentiation）所支撑([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])
 
 ## 应用领域
 

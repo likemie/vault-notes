@@ -9,7 +9,7 @@ aliases:
 summary: "指由于科研资助评审机制固化与行政合规负担激增，导致青年学者独立建组年龄过度推迟、学术探索被迫依附于资深学者主流范式并趋于保守的结构性失灵现象。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

@@ -7,7 +7,7 @@ summary: "战后德国著名社会活动家、政治家、大屠杀幸存者，�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,8 +24,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Martin Walser]]"

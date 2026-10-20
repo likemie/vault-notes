@@ -8,7 +8,7 @@ summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Governing by Numbers]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Digital Self]]"
   - "[[Steering at a Distance]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Space of Equivalence]]"
 related_theories:
   - "[[Governmentality]]"
@@ -42,7 +42,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -73,7 +72,7 @@ updated: 2026-10-20
 > - **代表贡献** 发展了新自由主义“远处治理”（[[Governing at a Distance]]）理论，系统论证“数字即政策”（Policy as Numbers）与[[Governing by Numbers|数字治理]]技术，阐释心理学、精神医学与生命科学如何将社会控制内在化为行动者的“自我技术”（Technologies of the Self）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card]- 人物定位的关键来源
-> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，[[PISA|国际学生评估项目]]（PISA）之所以能够在全球范围内建立起无人能够辩驳的[[Disciplina and Doctrina|规训]]威权，根源正在于尼古拉斯·罗斯所揭示的数字治理机制——数字的真正力量在于将构成一次测量、一个刻度、一个指标背后所涉及的大量复杂政治裁决与价值决断完全变得不可见，因而也变得无可反驳。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，[[PISA|国际学生评估项目]]（PISA）之所以能够在全球范围内建立起无人能够辩驳的规训威权，根源正在于尼古拉斯·罗斯所揭示的数字治理机制——数字的真正力量在于将构成一次测量、一个刻度、一个指标背后所涉及的大量复杂政治裁决与价值决断完全变得不可见，因而也变得无可反驳。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208).*
 
@@ -84,7 +83,7 @@ updated: 2026-10-20
 > [!timeline] 生平与职涯
 > - **1947 年** 出生于英国伦敦，早年在萨塞克斯大学修习生物学，后转向伦敦大学学院（UCL）与伦敦政治经济学院攻读心理学与社会学，奠定了其贯通生命科学、临床医学与权力政治社会学的跨学科研究视野。
 > - **1970–1980 年代** 投身于批判心理学运动，创办著名理论期刊《意识形态与意识》（*Ideology & Consciousness*）；任教于布鲁内尔大学社会学系，运用米歇尔·福柯（Michel Foucault）晚期思想剖析现代心理学、精神病学与福利国家对公民日常行为的微观管辖。
-> - **1989 年** 出版奠基性著作《治理灵魂：塑造私人自我》（*Governing the Soul*），系统提出“[[Psychologisation|心理化]]治理”[[Paradigm|范式]]，揭示新自由主义如何通过普及“自主、自由与自我实现”的心理学术语实现对劳动者的深度柔性[[Disciplina and Doctrina|规训]]。
+> - **1989 年** 出版奠基性著作《治理灵魂：塑造私人自我》（*Governing the Soul*），系统提出“[[Psychologisation|心理化]]治理”[[Paradigm|范式]]，揭示新自由主义如何通过普及“自主、自由与自我实现”的心理学术语实现对劳动者的深度柔性规训。
 > - **1990 年代** 加盟伦敦政治经济学院（LSE）担任社会学教授并出任系主任；与彼得·米勒（Peter Miller）密切合作，开创高级自由主义[[Governmentality|治理术]]研究纲领；1999 年出版里程碑理论专著《自由的权力：重构政治思想》（*Powers of Freedom*）。
 > - **2000 年代至今** 2012 年转任伦敦国王学院社会学系创系主任；深入开拓生物政治学、神经科学社会学与全球心理健康政策研究；其关于[[Governing at a Distance|远处治理]]与量化规训的论断被全球比较教育学与批判政策分析奉为经典理论资源。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448, 453)]]
 
@@ -93,7 +92,7 @@ updated: 2026-10-20
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980–1990 年代初 — 心理复合体与微观[[Disciplina and Doctrina|规训]]期** 揭示现代心理学与精神医学如何成为国家行政的延伸技术，将劳动力与公民自我重塑为自我监测、自我调适的“企业化自我”（Enterprising Self）。
+> - **1980–1990 年代初 — 心理复合体与微观规训期** 揭示现代心理学与精神医学如何成为国家行政的延伸技术，将劳动力与公民自我重塑为自我监测、自我调适的“企业化自我”（Enterprising Self）。
 >   - **代表著作** 《治理灵魂：私人自我的塑造》（*Governing the Soul: The Shaping of the Private Self*, 1989）。
 >   - **关键概念／方法** 心理复合体（Psy-Complex）、企业化自我、微观规训技术。
 >   - **阶段转向** 结合福柯的生命权力与主体化概念，开拓微观社会心理学领域的[[Governmentality|治理术]]批判。
@@ -114,7 +113,7 @@ updated: 2026-10-20
 > 在高级自由主义时代，权力的运作不再主要依赖中央集权国家的强制命令与直接禁令，而是通过将受治主体形塑为“自由、理性且追求自我负责的企业家”来行使；治理的精髓在于“远处统治”（[[Governing at a Distance]]）。在此过程中，量化数据与性能指标构成了不可或缺的政治技术（Political Technology）：“数字即政策”（Policy as Numbers）将原本充满伦理冲突、意识形态分歧与阶级利益博弈的政治决断，彻底降解为看似中立、客观且无可辩驳的技术测量；通过设置排名、审计公约与[[Performance Indicators|绩效指标]]，治理者成功诱使地方自治机构与个体主动将自身行为对齐中央或跨国标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 罗斯论数字作为使政治决断隐形化的统治技术
-> 数字不仅是描述世界的工具，更是[[Disciplina and Doctrina|规训]]行动者的核心政治技术。数字之所以具有无与伦比的权威，恰恰是因为它们把构成一项测量、一个刻度、一个评级背后所必须进行的大量充满价值争议的主观决断，彻底变得不可见；而这种不可见性，赋予了量化结论以绝对的无可争辩性。跨国组织正是借助这一机制，将政治主张伪装为技术科学，剥夺了公众开展民主辩论的合法空间。
+> 数字不仅是描述世界的工具，更是规训行动者的核心政治技术。数字之所以具有无与伦比的权威，恰恰是因为它们把构成一项测量、一个刻度、一个评级背后所必须进行的大量充满价值争议的主观决断，彻底变得不可见；而这种不可见性，赋予了量化结论以绝对的无可争辩性。跨国组织正是借助这一机制，将政治主张伪装为技术科学，剥夺了公众开展民主辩论的合法空间。
 >
 > *... the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Numbers create an objective aura that transforms contested political priorities into technical administrative necessities.*
 
@@ -130,7 +129,7 @@ updated: 2026-10-20
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用罗斯的“数字即政策”理论，论证 [[PISA]] 如何通过隐匿政治决断确立免于质疑的治理权威。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与[[Disciplina and Doctrina|规训]]容器对人口流动实施精细监控。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与规训容器对人口流动实施精细监控。
 
 ---
 
@@ -148,7 +147,7 @@ updated: 2026-10-20
 
 > [!debates] 学术争议
 >
-> > [!axis] 新自由主义[[Governmentality|治理术]]的全能性神话：总体[[Disciplina and Doctrina|规训]]网络还是充满裂隙的脆弱拼凑？
+> > [!axis] 新自由主义[[Governmentality|治理术]]的全能性神话：总体规训网络还是充满裂隙的脆弱拼凑？
 > > 争论的核心在于高级自由主义的[[Governing at a Distance|远处治理]]网络是否真正如理论描述的那样滴水不漏地掌控了现代社会。
 > >
 > > - **结构性治理术批判视角（Rose et al.）** 强调量化监控、自我技术与审计文化的渗透力极其强大，能够将反抗意识反向收编为个体自我优化的新自由主义动力。

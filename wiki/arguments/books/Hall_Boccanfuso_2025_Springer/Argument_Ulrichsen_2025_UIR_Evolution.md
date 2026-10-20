@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Clinical Trial]]"
   - "[[Emergence]]"
+  - "[[Geopolitics]]"
   - "[[Wicked Problem]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
@@ -77,7 +78,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -141,7 +142,7 @@ citation_aliases:
 
 Kline and Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"既不顺畅，也不线性，更不总是规规矩矩的"(p.285, 引自 p.28)。而且这五种模型在现实中不是代际替代，而是共存，不同行业、不同技术、不同阶段适用不同模型([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])(p.29)。例如制药行业：药物"发现"阶段仍接近技术推动模式（基础生物学突破导向药物靶点识别），但[[Clinical Trial|临床试验]]阶段高度依赖与医院、监管机构、患者群体的网络化协作，同一家公司的同一药品，前期遵循线性逻辑、后期遵循系统逻辑。
 
-近年来又[[Emergence|涌现]]了新的创新驱动力——地缘政治紧张使技术合作带上安全色彩、气候变化等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题、数字化转型和人工智能正在重塑所有行业的创新速度(p.29)。这些驱动力不是替代了之前的模型，而是在原有模型的基础上叠加上新的约束和紧迫感。
+近年来又[[Emergence|涌现]]了新的创新驱动力——[[Geopolitics|地缘政治]]紧张使技术合作带上安全色彩、气候变化等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题、数字化转型和人工智能正在重塑所有行业的创新速度(p.29)。这些驱动力不是替代了之前的模型，而是在原有模型的基础上叠加上新的约束和紧迫感。
 
 ---
 

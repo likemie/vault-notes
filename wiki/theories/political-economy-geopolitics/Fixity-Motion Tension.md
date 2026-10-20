@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
 - capital-circulation
 - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Innovation Park]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
 
 > [!info] 定义
-> 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义地缘政治理论中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]])。
+> 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义[[Geopolitics|地缘政治理论]]中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]])。
 >
 > > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]]）
 >
@@ -146,7 +147,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## 理论基础
 
 
-- David Harvey（1985/2001）的资本主义地缘政治理论——该概念的原生理论框架：地缘政治源于资本主义生产方式内部的政治经济动力，特别是资本流通中的固着与流动之间的张力
+- David Harvey（1985/2001）的资本主义[[Geopolitics|地缘政治理论]]——该概念的原生理论框架：地缘政治源于资本主义生产方式内部的政治经济动力，特别是资本流通中的固着与流动之间的张力
 - Marx 的资本流通分析——Harvey 的理论根植于马克思主义政治经济学传统，固着-流动张力可以被理解为资本有机构成和利润率下降趋势的空间表达
 
 ---

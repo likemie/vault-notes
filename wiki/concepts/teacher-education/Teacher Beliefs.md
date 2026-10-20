@@ -4,7 +4,7 @@ aliases: [教师信念]
 summary: "教师在教育实践中所持有的关于教学、学习、学生和知识本质的认知和观念，它们对教师的教学行为、决策及课程实施具有强烈的指导作用。"
 type: concept
 domain: "teacher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,8 +16,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Self-Efficacy]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -26,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Teacher Beliefs
@@ -70,5 +69,5 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]] — 调查了 IB 课程中 [[Theory of Knowledge\|TOK]] 教师的信念，指出教授开放式反思课程显著增强了教师对于[[Critical Thinking\|批判性思维]]和跨学科教学的[[Self-Efficacy\|自我效能感]]。

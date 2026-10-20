@@ -7,7 +7,7 @@ aliases:
 summary: "所有权成本（Cost of Ownership, COO）是评估制造装备与研发设施全生命周期单位产出综合成本的标准模型。该模型综合纳入初始资本折旧、日常运维、停机损失及良率损失，确立了单位合格品成本测算标准，是产学研协同与技术验证的核心基准。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Statistical Process Control]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"

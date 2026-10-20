@@ -8,7 +8,7 @@ summary: "英国教育家、牛津大学教育学教授，国际文凭组织首�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Epistemology]]"
   - "[[Intercultural Education]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Alec Peterson
@@ -86,7 +87,7 @@ updated: 2026-10-16
 > - **1966–1967** 在[[International Schools Examination Syndicate\|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·哈波·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]]
 > - **1968–1977** 担任[[International Baccalaureate\|国际文凭]]组织首任总干事，以牛津、日内瓦和英国考试团队之间的兼职／巡回领导方式推进六年试验。他负责大学联络、筹资、学校访问与行政分权，并在 1973 年离开牛津后于哈默史密斯与西伦敦[[Further Education\|继续教育]]学院教授[[Theory of Knowledge\|知识论]]，直接接触开放入学的 IB 学生。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66–69, 78–80, 86–92)]]
 > - **1977–1978** 1977 年卸任总干事，由[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）接任；随后仍以 IBO 理事会副主席身份参与部分谈判，显示他从日常执行转向治理支持。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166, 178)]]
-> - **1978–1980** 七十岁时接任 [[United World Colleges|UWC]] 国际董事会主席，事先将任期限定为两年，并把寻找可持续的继任者作为主要任务。1980 年由汤姆·西蒙斯（ToM Symons）接任。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 172)]]
+> - **1978–1980** 七十岁时接任 [[United World Colleges|UWC]] 国际董事会主席，事先将任期限定为两年，并把寻找可持续的继任者作为主要任务。1980 年由汤姆·西蒙斯（[[Theory of Mind|ToM]] Symons）接任。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 172)]]
 > - **1984–1987** 在巴林主持 TOK 教师培训，讨论伊斯兰语境中如何处理不同知识传统；随后以 *Schools Across Frontiers* 总结 IB 与 UWC 第二个十年的课程、治理、财政和资格承认问题。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 180–191)]]
 
 ---

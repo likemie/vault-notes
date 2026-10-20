@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,13 +45,12 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
-  - "[[Gerald Grace]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[PISA]]"
@@ -61,12 +60,12 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Trautwein_2007_CEP]]"
   - "[[Argument_Teng_2025_CE]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Cultural Capital
@@ -215,7 +214,7 @@ updated: 2026-10-18
 > - **1979 — 《区隔》品味与生活方式拓展** 借助法国社会大规模经验调查，将文化资本概念拓展至审美品味、艺术消费与生活方式领域，确立其作为阶级区隔的工具性质。
 > - **1986 — 《资本的三种形态》独立理论建构** Bourdieu 独立发表理论文章，正式确立文化资本的三种存在形态（具身化、客体化、制度化），奠定了其在社会学中的[[Operationalization|操作化]]基础。
 > - **2000 年代 — 大规模量化操作化与认知中介拓展** 国际大型教育评估（[[PISA]]、[[TIMSS]]、[[TOSCA]]）普遍采用“家庭藏书量”操作化客体化文化资本，[[Argument_Trautwein_2007_CEP|Trautwein and Lüdtke (2007)]] 进一步证实文化资本能够通过塑造学生的[[Epistemological Beliefs|认识论信念]]间接促进[[Academic Achievement|学业成就]]。
-> - **2010 年 — 阶级结构制约与反校内还原批判** [[Gerald Grace|格雷斯]]（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）结合纳什（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析变量以破除校内技术主义还原本质。
+> - **2010 年 — 阶级结构制约与反校内还原批判** 格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质。
 > - **2020 年代 — 跨文化情境的转译与反思** [[Yajun Zheng|郑雅君]]将具身化文化资本本土化为精英大学[[Champ|场域]]中的出路直觉；[[Argument_Teng_2025_CE|Teng and Wang (2025)]] 则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。
 
 ---
@@ -261,9 +260,9 @@ updated: 2026-10-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将具身化文化资本[[Operationalization\|操作化]]为对大学[[Champ\|场域]]隐性出路规则的掌握，解释了寒门学子和中产家庭学生在升学与求职中的直觉分化。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 探讨了[[School Leadership\|学校领导力]]研究中，什么算作合法文化资本的定义权是如何在经济和政治场域中被争夺的。
-> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合纳什（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析变量以破除校内技术主义还原本质。（p. 91）
+> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质。（p. 91）

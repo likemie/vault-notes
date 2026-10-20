@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educational Science Communication]]"
   - "[[Champ]]"
   - "[[Dialogue in Education]]"
+  - "[[Neuromyth]]"
   - "[[Teacher Professional Agency]]"
   - "[[Empiricism]]"
   - "[[Pragmatic Paradigm]]"
@@ -43,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Network Ethnography]]"
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Virtual Teacher Staffroom
@@ -147,7 +147,7 @@ updated: 2026-10-19
 > 解构社交媒体的“去中心化神话”，揭示网络意见领袖如何在缺乏学术审查的环境下重塑大众教学观念。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]] & Fütterer et al.
-> **算法赋权下的意见领袖与话语层级再造** 社交媒体中的教育讨论并非绝对平等的无阶层空间。[[Network Ethnography\|网络民族志]]与社交[[Network Analysis\|网络分析]]证实，在以 Twitter-Lehrerzimmer 为代表的虚拟社群中，受平台算法推荐与社交资本累积的驱动，迅速分化出一批具有极高关注度与号召力的“意见领袖（*Meinungsführer*）”（Fütterer et al., 2021）。这些网络红人教师的个人偏好与教学经验被过度放大，一旦其推崇包含教育神经神话的教学法，将在短时间内引发大范围的跟风模仿，对循证实践构成严峻挑战。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]；Fütterer et al. (2021)
+> **算法赋权下的意见领袖与话语层级再造** 社交媒体中的教育讨论并非绝对平等的无阶层空间。[[Network Ethnography\|网络民族志]]与社交[[Network Analysis\|网络分析]]证实，在以 Twitter-Lehrerzimmer 为代表的虚拟社群中，受平台算法推荐与社交资本累积的驱动，迅速分化出一批具有极高关注度与号召力的“意见领袖（*Meinungsführer*）”（Fütterer et al., 2021）。这些网络红人教师的个人偏好与教学经验被过度放大，一旦其推崇包含[[Neuromyth|教育神经神话]]的教学法，将在短时间内引发大范围的跟风模仿，对循证实践构成严峻挑战。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]；Fütterer et al. (2021)
 
 ---
 
@@ -200,12 +200,12 @@ updated: 2026-10-19
 > | [[Educational Science Communication]] | 概念 | 社交媒体虚拟教研室是开展非线性、双向交互科学传播最具潜力的数字[[Champ\|场域]]。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 学者在社交媒体上的单向广播模式是赤字模型的典型残留。 |
 > | [[Educational Brokerage Agency]] | 概念 | 现代中介机构需借助社交媒体生态实现前沿成果的敏捷分发与双向沟通。 |
-> | [[Learning Styles|Learning Style Myth]] | 概念 | 虚拟教研室中意见领袖的推荐往往成为学习风格神话二次扩散的温床。 |
+> | [[Learning Styles\|Learning Style Myth]] | 概念 | 虚拟教研室中意见领袖的推荐往往成为学习风格神话二次扩散的温床。 |
 > | [[Ratgeberliteratur]] | 概念 | 社交媒体分享的碎片化教案与商业指南文献共同构成了经验主导的非正式知识网络。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统剖析 Twitter-Lehrerzimmer 等社交媒体虚拟教研室的互动机制，揭示科研学者单向广播与双向互动缺位的失衡现状，倡导构建多向度科学传播对话。

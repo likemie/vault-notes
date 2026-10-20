@@ -8,10 +8,10 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - research-use
   - knowledge-mobilisation
@@ -64,7 +64,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Expert Interview]]"
   - "[[Likert Scale]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Tine S. Prøitz]]"
@@ -89,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research-Practice Partnership
@@ -320,7 +319,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation\|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement\|测量量表]]。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 从[[Knowledge Production\|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme\|TLRP]]、[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production\|知识共创]]的深层张力。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。

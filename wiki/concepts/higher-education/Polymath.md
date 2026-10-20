@@ -8,7 +8,7 @@ aliases:
 summary: "指具备深厚跨学科认知广度与工程/实践创造力、能够自由穿透学科壁垒并参与国家战略治理的人格与知识形态。在近代科学专业化（1834 年科学家一词出现）之前，以富兰克林、杰斐逊等为代表的博学传统是早期技术共和国的政治与科学根基；现代学科过度区隔与代议技术人才匮乏使其成为跨学科治理反思的重要范畴。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Fullan]]"

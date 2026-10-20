@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,11 +21,11 @@ tags:
   - nation-state
   - ontology
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Epistemology]]"
   - "[[National Character]]"
   - "[[Competitiveness]]"
   - "[[Reference Society]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Unit of Analysis]]"
   - "[[Topological Spatialisation]]"
   - "[[Going Native]]"
@@ -40,8 +40,7 @@ related_concepts:
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Transitology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # The Nation-State as the Unit of Comparison
@@ -76,7 +75,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确地缘政治疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–48)]]
+> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确[[Geopolitics|地缘政治]]疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–48)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育研究在空间维度上的边界设定与认识论锚点，将世界结构化为离散、主权独立且内部具有[[Institutional Isomorphism\|制度同构]]性的民族国家集合体。
@@ -91,7 +90,7 @@ updated: 2026-10-16
 > [!boundary]- 概念边界
 > - 不等于 [[National Character]] — 后者关注的是特定族群在漫长历史中沉淀的心智倾向与精神特质（文化心理范畴）；而“民族国家作为比较单位”是指拥有法定领土主权、政府科层管辖权与公立学校体系的现代政治法律实体（制度组织范畴）。
 > - 不等于 [[Reference Society]] — 参考社会是行动者在制定政策时用于借用、投射焦虑或寻找合法性的镜像客体；而民族国家比较单位是研究者开展系统因果推论与结构分析的宏观认识论框架。
-> - 不适用于 考察跨越国界的游牧部落教育、宗派修会跨国办学，以及晚近超国家[[Disciplina and Doctrina\|规训]]网络主导的去国界化量化测验空间。
+> - 不适用于 考察跨越国界的游牧部落教育、宗派修会跨国办学，以及晚近超国家规训网络主导的去国界化量化测验空间。
 
 ---
 
@@ -210,5 +209,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统考掘民族国家作为历史-哲学母题核心[[Epistemology\|认识论]]单位的确立、[[Isaac Kandel\|坎德尔]]对国家解释[[Variable\|变量]]的开创性贡献，以及战后该[[Paradigm\|范式]]遭遇的历史局限与反思。

@@ -8,9 +8,9 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 70
-person_related_level: 7
-person_related_stars: "💎💎⭐"
+person_related_count: 69
+person_related_level: 6
+person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
 born: "1920"
 died: "1993"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
   - "[[Comparative Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Karl Popper]]"

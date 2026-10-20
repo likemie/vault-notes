@@ -8,7 +8,7 @@ summary: "当代著名苏格兰裔道德哲学与政治哲学家、美德伦理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Civic Religion]]"
 related_theories:
   - "[[Pluralism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"

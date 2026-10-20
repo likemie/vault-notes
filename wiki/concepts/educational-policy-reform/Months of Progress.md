@@ -23,6 +23,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -31,7 +32,6 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Effect Size Conversion]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Steve Higgins]]"
@@ -139,7 +139,7 @@ updated: 2026-10-20
 > > [!axis] 通俗化传播效率 vs 科学测量保真度
 > > [[Educational Brokerage Agency\|证据中介机构]]与因果方法学者之间围绕证据交付尺度的长期冲突。
 > >
-> > - **[[Education Endowment Foundation\|EEF]] 工具包研发团队（Higgins et al., 2014）** 坚持认为普通中小学校长面临严重的专业统计认知门槛，直接抛出 Cohen's $d$ 会导致循证决策彻底受阻；月度进步指标提供了极其高效的跨干预横向沟通锚点。
+> > - **[[Education Endowment Foundation\|EEF]] 工具包研发团队（Higgins et al., 2014）** 坚持认为普通中小学校长面临严重的专业统计认知门槛，直接抛出 Cohen's $d$ 会导致[[Evidence-Based Policy-Making|循证决策]]彻底受阻；月度进步指标提供了极其高效的跨干预横向沟通锚点。
 > > - **定量因果学者团队（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]; Baird & Pane, 2019）** 坚持认为通俗化不能以牺牲科学真实性为代价；简化的衍生隐喻掩盖了证据本身的脆弱性，诱发了对微弱效应项目的过度投资。
 
 > [!warning] 适用局限
@@ -149,5 +149,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 系统评述并批评了 [[Education Endowment Foundation\|EEF]] 工具包所采用的月度进步指标，主张回归透明的组别均值、标准差与未调整[[Effect Size\|效应量]]报告。

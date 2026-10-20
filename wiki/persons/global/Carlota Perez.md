@@ -7,10 +7,10 @@ summary: "委内瑞拉/英国著名演化经济学家、技术创新与长波理
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -33,7 +33,6 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Chris Freeman]]"

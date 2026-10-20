@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Multiplicity]]"
   - "[[Ontology]]"
+  - "[[Geopolitics]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Research Translation]]"
   - "[[Development Turn in Comparative Education]]"
@@ -88,7 +89,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -187,7 +188,7 @@ citation_aliases:
 ### 第二步：现实主义如何塑造比较教育
 
 > [!claim] 步骤二主张
-> 从现实主义视角出发，比较教育是一系列务实而行动导向的工具，旨在帮助国家最大限度地提升权力能力、获取或维持国际地位。这一形态被称为现代主义比较教育，它以领土和地缘政治的术语阅读社会空间(pp. 419–420)。
+> 从现实主义视角出发，比较教育是一系列务实而行动导向的工具，旨在帮助国家最大限度地提升权力能力、获取或维持国际地位。这一形态被称为现代主义比较教育，它以领土和[[Geopolitics|地缘政治]]的术语阅读社会空间(pp. 419–420)。
 
 > [!dev-timeline] 现实主义比较教育的演进脉络
 > - **1831 — 帝国竞争与教育走访的起源** 面对欧洲列强的激烈竞争，法国知识分子维克多·库赞系统走访了普鲁士学校（当时世界上首个“现代教育国家”）并向教育部提交报告，开启了国家出于地缘竞争与自保焦虑而借用别国教育制度的先河(p. 419)。这一时期奠定了学科的实用价值：在国内发现问题，到国外寻找方案，进行本土化“调适”以提升国家实力(Beech, 2006)。

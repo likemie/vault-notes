@@ -9,7 +9,7 @@ summary: "英国著名女性主义经济学家、社会学家，埃塞克斯大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:

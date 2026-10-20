@@ -9,7 +9,7 @@ title: "Argument_Delambre_2022_Springer"
 argument_key: "Argument_Delambre_2022_Springer"
 argument_display_title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics]]"
   - "[[Ganz-Methode]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
@@ -55,7 +56,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -69,7 +70,7 @@ citation_aliases:
 > [!question]
 > 在"新"[[Geopolitics of Knowledge\|知识地缘政治]]（new [[Geopolitics of Knowledge]]）的讨论中，[[Epistemology\|认识论]]（epistemology）应扮演什么角色？面对现代性"封闭理性"（closed rationality of modernity）在全球范围内引发的多重危机——环境崩溃、社会不平等、数字转型冲击——能否构建一种不急于消解矛盾、而是在张力中思考知识与实践关系的认识论？这种认识论如何为高等教育的转型提供具体路径？(p.105–107)
 
-Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
+Delambre 的核心关切是：现有的知识[[Geopolitics|地缘政治]]讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
 
 ## 理论框架
 

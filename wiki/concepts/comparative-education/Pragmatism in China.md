@@ -9,7 +9,7 @@ aliases:
 summary: "实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pragmatism in China
@@ -181,7 +180,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪[[Pragmatic Paradigm\|实用主义]]在中国从晚清经世致用到当代[[Quality Education\|素质教育]]的三重变形。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 运用 Cowen [[Transfer Translation Transformation\|3T 框架]]拆解[[John Dewey\|杜威]]实用主义在民国中国（1919–1928）的转移、转译与转化机制。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提供 3T 理论框架分析外来教育思想跨国移动中的变形规律。

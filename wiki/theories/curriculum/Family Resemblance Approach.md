@@ -2,7 +2,7 @@
 summary: "家族相似性进路（Family Resemblance Approach, FRA）是由哲学与科学教育学者居罗尔·伊尔齐克（Gürol Irzik）、罗伯特·诺拉（Robert Nola）及西贝尔·埃尔杜兰（Sibel Erduran）基于维特根斯坦家族相似性概念开创的科学本质理论范式。该理论旨在取代僵化单一的共识要素清单，将科学重构为由认知-认识论系统（活动、价值、方法论、知识产品）与社会-建制系统构成的多维动态网络，为解释不同科学分支的认识论异质性奠定了坚实基础。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 28
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Content Analysis]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []
@@ -56,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Family Resemblance Approach
 
@@ -165,6 +164,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
 > - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science\|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。

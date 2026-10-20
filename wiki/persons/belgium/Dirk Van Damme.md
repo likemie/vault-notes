@@ -8,10 +8,10 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 39
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Epistemic Governance]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_facts:
   - "[[OECD]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Dirk Van Damme
@@ -147,7 +146,7 @@ updated: 2026-10-19
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 范达默系统诊断教育科研供给侧的三大深层病理（理论依附、复现赤字与政治过度承诺），提出长期基础研究资助与学术自律建制。（pp. 202–206）
 
 ---
@@ -189,7 +188,7 @@ updated: 2026-10-19
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Epistemology]] | 概念 | 系统剖析教育研究面临的认识论不确定性，批判机械借用邻近[[Discipline-Based Theory\|学科理论]]而缺乏自主体系。 |
-> | [[Curiosity-Driven Research|Blue Skies Research]] | 概念 | 主张政府设立战略性增量资金，摆脱即时实用功利诉求，投向长周期探索性基础研究。 |
+> | [[Curiosity-Driven Research\|Blue Skies Research]] | 概念 | 主张政府设立战略性增量资金，摆脱即时实用功利诉求，投向长周期探索性基础研究。 |
 > | [[Evidence-Based Education]] | 概念 | 揭示顶级期刊仅 0.13% 复现率与内幕偏误，要求以严格同行评议重塑循证教育学术公信力。 |
 > | [[Research Utilization]] | 概念 | 主持 [[OECD]] [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，系统测绘成员国政策制定与学校实践中的研究利用机制。 |
 > | [[Constructivist Paradigm]] | 概念 | 批判将社会建构主义等规范性信念直接替代实证科学理论的流行倾向。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "与实证主义相对立的社会科学哲学与认识论立场，主张社会实在由具有意向性的人类行动者在主体间互动中建构，探究的目的不在于发现普适因果定律，而在于通过领会与深描理解行动者赋予行动的主观意义及其所处的生活世界。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -65,7 +65,6 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Emancipatory Action Research]]"
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Wilhelm Dilthey]]"
   - "[[Max Weber]]"

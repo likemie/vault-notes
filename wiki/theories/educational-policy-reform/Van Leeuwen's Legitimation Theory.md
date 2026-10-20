@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 19
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Carnivalesque Analysis]]"
   - "[[Case Study]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -46,7 +45,7 @@ related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 核心主张
@@ -114,7 +113,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!example] [[Correlational Research\|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 将合法化理论应用于英国议会选择性教育政策辩论分析，论证 [[Ofsted]] "good" 评级通过四个层次被合法化为"证据"，从而系统性回避了关于选择性教育负面影响的学术研究
 >
 

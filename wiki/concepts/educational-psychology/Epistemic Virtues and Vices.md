@@ -13,7 +13,7 @@ aliases:
 summary: "指认识主体在求知过程中促进或阻碍达到认识论目标的性格倾向与品格特质。在德性责任论视角下由追求认知善品的求真动机与成功导向的智力技能双重构件所组成。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,7 +52,6 @@ related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
   - "[[Reliabilism]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:

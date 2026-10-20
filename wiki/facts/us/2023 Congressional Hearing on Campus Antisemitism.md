@@ -22,12 +22,12 @@ tags:
   - theme/governance
   - political-philosophy
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Grandes Ecoles]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Total Institution]]"
   - "[[Goldfish Bowl Politics]]"
   - "[[Anaconda in the Chandelier]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # 2023 Congressional Hearing on Campus Antisemitism
@@ -49,7 +49,7 @@ updated: 2026-10-16
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 2023 年国会高校反犹主义听证会（2023 Congressional Hearing on Campus Antisemitism, 2023-12-05）是当代西方高等教育治理、精英机构领导力与言论自由伦理的标志性分水岭事件。该事件集中暴露了西方顶尖大学行政管理阶层在长期言论合规与道德[[Disciplina and Doctrina|规训]]机制下发生的深刻思想空洞化与信念撤退危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–61, 64–65)]]
+> 2023 年国会高校反犹主义听证会（2023 Congressional Hearing on Campus Antisemitism, 2023-12-05）是当代西方高等教育治理、精英机构领导力与言论自由伦理的标志性分水岭事件。该事件集中暴露了西方顶尖大学行政管理阶层在长期言论合规与道德规训机制下发生的深刻思想空洞化与信念撤退危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–61, 64–65)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2023 年 12 月 5 日；美国华盛顿特区国会山[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–60)]]

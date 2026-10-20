@@ -8,7 +8,7 @@ aliases:
 summary: "资本主义或法团主义国家在面对资本积累矛盾与深刻社会不平等引发的合法性赤字时，将教育扩张（特别是成人教育、扫盲与入学机会扩增）作为代偿性政治整合机制，以在不触动阶级支配结构的前提下换取大众顺从与政治霸权维护"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_theories:
   - "[[Legitimation Crisis]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Scientifically Based Research]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Confidentiality]]"
   - "[[Evidence Standards]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Foundations for Evidence-Based Policymaking Act of 2018
@@ -66,7 +67,7 @@ updated: 2026-10-16
 > - **发布时间 / 发布主体** 2018 年由美国第 115 届国会两院跨党派全票或压倒性多数通过，2019 年 1 月 14 日由总统签署成为联邦公法（公法编号：P.L. 115-435）。
 > - **适用地区 / 对象** 覆盖美国联邦政府所有首席财务官法案（CFO Act）内阁级与独立行政部委（包含美国联邦教育部 U.S. Department of Education, ED）、国家统计机构、公共数据用户与学术科研界。
 > - **宪政约束与财政杠杆机制** 美国宪法第十修正案确立了联邦制分权原则，将绝大部分教育事务的管辖权留给各州与地方学区，联邦政府既不直接决定课程教材，也不统一制定[[Academic Achievement\|学业成就]]基准。联邦介入教育治理的核心机制在于财政拨款的附带法定约束，这一传统奠定于 1965 年签署的[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act, ESEA）及其核心的第一条款（[[Title I of the Elementary and Secondary Education Act]], Title I）。Title I 作为美国规模最大的联邦中小学补偿性教育财政专项，通过向低收入家庭集中的学区提供公式拨款，同时附带强制性评估与证据要求。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
-> - **问题背景与治理转型** 2001 年不让一个孩子掉队法（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）将“[[Scientifically Based Research\|基于科学的研究]]”写入 ESEA 法条，但规制型政策将单一[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与高利害问责死板挂钩，诱发了教学窄化与集体舞弊危机；2017 年国会内部更爆发了关于是否废除强制收集按种族分层学业成绩数据（Race-Disaggregated Data）的激烈党派交锋。传统[[Output-Oriented Governance\|循证治理]]面临部委数据孤岛、格式封闭、科研调取壁垒以及过度将 RCT 奉为唯一金标准的方法论瓶颈。法案系统承接了联邦循证决策委员会（Commission on Evidence-Based Policymaking, CEP）的核心建议，标志着联邦循证治理从狭隘的实验门槛转向全政府数据开放与治理基座的重大[[Paradigm\|范式]]跃升。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–43)]]
+> - **问题背景与治理转型** 2001 年不让一个孩子掉队法（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）将“[[Scientifically Based Research\|基于科学的研究]]”写入 ESEA 法条，但规制型政策将单一[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与高利害问责死板挂钩，诱发了教学窄化与集体舞弊危机；2017 年国会内部更爆发了关于是否废除强制收集按种族分层学业成绩数据（Race-Disaggregated Data）的激烈党派交锋。传统[[Output-Oriented Governance\|循证治理]]面临部委数据孤岛、格式封闭、科研调取壁垒以及过度将 RCT 奉为唯一金标准的方法论瓶颈。法案系统承接了联邦[[Evidence-Based Policy-Making|循证决策]]委员会（Commission on Evidence-Based Policymaking, CEP）的核心建议，标志着联邦循证治理从狭隘的实验门槛转向全政府数据开放与治理基座的重大[[Paradigm\|范式]]跃升。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–43)]]
 
 ---
 
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > - **与 [[Elementary and Secondary Education Act of 1965\|ESEA]] 第一条款（Title I）的数据联动机制** 改变了以往仅靠自费抽取小样本或依赖单一商业化项目 [[Randomised Controlled Trials\|RCT]] 报告的局限，将庞大的 Title I 联邦补偿拨款流向、学校受资助状态、学生分层[[Academic Achievement\|学业成就]]与长期社会流动性数据纳入法定综合治理框架，为科研人员开展纵向准实验与因果[[Cohort Study\|追踪研究]]打通制度通道。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 
 > [!citation-card] 开放数据与联邦循证改革
-> 尽管在如何界定最佳证据上存在争议，但政策制定者越来越接受甚至主动要求实证证据，这充分表明研究正对政策发挥着不可忽视的作用。一个明确的标志是《2018年循证决策基础法案》的出台。该法案推动了全政府层面的重大改革，显著提高了政府数据的可访问性，为数据在政策决策中更具成效的应用铺平了道路。法案的核心重点是开放数据，即使公众能够通过电子途径获取非敏感政府数据，并确保其格式友好且严格保护隐私机密。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
+> 尽管在如何界定最佳证据上存在争议，但政策制定者越来越接受甚至主动要求实证证据，这充分表明研究正对政策发挥着不可忽视的作用。一个明确的标志是《2018年[[Evidence-Based Policy-Making|循证决策]]基础法案》的出台。该法案推动了全政府层面的重大改革，显著提高了政府数据的可访问性，为数据在政策决策中更具成效的应用铺平了道路。法案的核心重点是开放数据，即使公众能够通过电子途径获取非敏感政府数据，并确保其格式友好且严格保护隐私机密。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 >
 > *A clear index of this is the recent passing of the Foundations for Evidence-Based Policymaking Act of 2019, which prompts significant government-wide reforms to make data more accessible and sets the stage for data to be more useful in policy-related decision-making. Prioritized within this piece of legislation is open data—making non-sensitive government data electronically accessible to the public, and ensuring user-friendly formats and [[Confidentiality]].*
 
@@ -95,7 +96,7 @@ updated: 2026-10-16
 > [!timeline] 政策时间线
 > - **1965** 约翰逊总统签署[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（ESEA），创设第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]）补偿性财政拨款杠杆。
 > - **2001** 乔治·布什总统签署不让一个孩子掉队法（[[No Child Left Behind Act 2001\|NCLB]]），首次将“[[Scientifically Based Research\|基于科学的研究]]”刚性嵌入 ESEA 第一条款的拨款与问责门槛。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
-> - **2016** 国会跨党派通过《循证决策委员会法案》，由众议院议长保罗·瑞安与参议员帕蒂·默里联合推动成立跨党派联邦循证决策委员会（CEP）。
+> - **2016** 国会跨党派通过《[[Evidence-Based Policy-Making|循证决策]]委员会法案》，由众议院议长保罗·瑞安与参议员帕蒂·默里联合推动成立跨党派联邦循证决策委员会（CEP）。
 > - **2017** CEP 提交里程碑式最终报告《承诺循证决策》；同年国会就废除种族分层数据收集动议爆发激烈博弈。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–42)]]
 > - **2018** 国会两院跨党派全票或压倒性多数通过 FEBPA。
 > - **2019** 法案于 1 月 14 日由总统签署生效（P.L. 115-435），全面启动联邦部委学习议程编制与首席数据官任命。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 43)]]
@@ -174,4 +175,4 @@ updated: 2026-10-16
 > | [[Policymaking Chronosystem]] | 概念 | 政策制定时间系统揭示了科学发现与政策时效的断裂，该法案的开放数据治理为研究者快速响应突发政策需求提供了底层支撑。 |
 > | [[Confidentiality\|数据机密性]] | 概念 | 法案 Title III（CIPSEA 2018）的核心支柱，平衡数据开放与个体隐私保护的边界。 |
 > | [[Randomised Controlled Trials]] | 方法 | 传统循证政策的唯一金标准；该法案通过开放多元行政大数据打破了对单一受控实验的机械依赖。 |
-> | [[Technical Rationality]] | 概念 | 规制型进路依托单一实验指标推行高利害问责是技术理性的典型异化，该法案促使循证决策向综合发展型数据治理转向。 |
+> | [[Technical Rationality]] | 概念 | 规制型进路依托单一实验指标推行高利害问责是技术理性的典型异化，该法案促使[[Evidence-Based Policy-Making\|循证决策]]向综合发展型数据治理转向。 |

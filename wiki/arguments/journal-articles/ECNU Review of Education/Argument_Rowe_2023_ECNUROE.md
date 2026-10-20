@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Mobility]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
   - "[[Research Ethics]]"
 related_theories:
@@ -307,7 +306,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 ### 步骤三　异层治理实践加剧公共财政向免税中介逆向输送并以制度性保密深度侵蚀民主问责
 
 > [!claim] 步骤三核心主张
-> SVA 所展现的异层治理实践并非良性的公私合作创新，而是一种新型的资本剥削与财富逆向再分配机制：免税风险慈善机构吸收的政府财政补贴远超其对外资助净额，迫使弱势公立学校为了生存而竞逐商业性赠款并接受企业[[Disciplina and Doctrina\|规训]]；同时，隐蔽的保密招标、人事旋转门与免责条款彻底排除了公众的知情权与民主参与。（pp. 527–528, 531–532）
+> SVA 所展现的异层治理实践并非良性的公私合作创新，而是一种新型的资本剥削与财富逆向再分配机制：免税风险慈善机构吸收的政府财政补贴远超其对外资助净额，迫使弱势公立学校为了生存而竞逐商业性赠款并接受企业规训；同时，隐蔽的保密招标、人事旋转门与免责条款彻底排除了公众的知情权与民主参与。（pp. 527–528, 531–532）
 
 #### 1. 免税中介净吸收高额公共财政补贴并迫使弱势公立学校竞逐项目赠款而接受商业规训
 

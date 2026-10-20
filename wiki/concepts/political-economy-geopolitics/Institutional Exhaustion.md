@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的渐进制度变迁核心机制；指制度在未经历外生重大危机冲击的情境下，由于日常正常运转持续耗竭其赖以维系的外部前提条件、产生递减收益或超越增长极限，最终累积导致规制效能逐步枯竭瓦解与自我消亡的内生演变过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"

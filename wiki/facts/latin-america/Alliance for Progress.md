@@ -11,9 +11,9 @@ subtype: policy
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国政府 / 美洲国家组织（OAS / OEA）"
 tags:
@@ -24,9 +24,11 @@ tags:
   - theme/educational-planning
   - theme/technical-rationality
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Normal School]]"
   - "[[Technical Rationality]]"
+  - "[[Developmentalism]]"
   - "[[Construct]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Alliance for Progress
@@ -64,7 +66,7 @@ updated: 2026-10-16
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1961 年由美国总统约翰·肯尼迪正式倡议，1961 年 8 月在乌拉圭埃斯特角城（Punta del Este）泛美特别会议上由美国与除古巴外的 22 个美洲国家正式签署宪章确立。
 > - **适用地区 / 对象** 拉丁美洲与加勒比海各主权国家政府、教育部、宏观经济规划部门与各级公立学校体系。
-> - **问题背景** 1959 年古巴革命胜利引发全美洲地缘政治震荡，美国急于通过庞大经济援助与温和改革（土地改革、税收改革与教育普及）消除贫困与社会不公温床，防范社会主义思潮在西半球全面蔓延。
+> - **问题背景** 1959 年古巴革命胜利引发全美洲[[Geopolitics|地缘政治]]震荡，美国急于通过庞大经济援助与温和改革（土地改革、税收改革与教育普及）消除贫困与社会不公温床，防范社会主义思潮在西半球全面蔓延。
 > - **制度位置** 依托美洲国家组织（OAS / OEA）与[[UNESCO|联合国教科文组织]]（UNESCO）搭建专门合作多边架构；1962 年正式设立“争取进步同盟教育特别委员会”。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-10-16
 > - **约束机制** 援助资金与受援国实施结构性改革、编制标准化国家发展规划严格挂钩，接受泛美发展机构的周期性监督审核。
 
 > [!citation-card] 进步同盟与拉美[[Technical Rationality|技术官僚理性]]的兴起
-> 至少在拉丁美洲，国际机构推动了发展主义与技术官僚话语，其中‘规划’与‘发展’成为了统治性词汇。[[UNESCO]] 与美洲国家组织（OEA）在 1962 年成立了‘争取进步同盟特别委员会’；同年 UNESCO 在圣地亚哥组织了‘教育与经济社会发展泛美会议’……这种技术理性有助于构建一个独立于国家利益之外的‘客观、中立与科学’的外部专家地位。[[Argument_Beech_2009_GlobalGarden|(Southwell, 1997, cited in Beech, 2009b, p. 345)]]
+> 至少在拉丁美洲，国际机构推动了[[Developmentalism|发展主义]]与技术官僚话语，其中‘规划’与‘发展’成为了统治性词汇。[[UNESCO]] 与美洲国家组织（OEA）在 1962 年成立了‘争取进步同盟特别委员会’；同年 UNESCO 在圣地亚哥组织了‘教育与经济社会发展泛美会议’……这种技术理性有助于构建一个独立于国家利益之外的‘客观、中立与科学’的外部专家地位。[[Argument_Beech_2009_GlobalGarden|(Southwell, 1997, cited in Beech, 2009b, p. 345)]]
 >
 > *At least in Latin America, international agencies promoted developmental and technocratic discourses, in which 'planning' and 'development' were the governing words. UNESCO and OEA established in 1962 the 'Special Committee for [[Alliance for Southern California Innovation|the Alliance]] for Progress' ... this type of rationality contributed to [[Construct]] the status of the 'objective, neutral and scientific' expert ([[Argument_Beech_2009_GlobalGarden|Beech, 2009b: 345]]).*
 

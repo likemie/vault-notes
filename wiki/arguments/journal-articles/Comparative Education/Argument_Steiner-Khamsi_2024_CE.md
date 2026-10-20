@@ -51,6 +51,7 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Bank]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Policy Conditionalities]]"
   - "[[Learning Crisis]]"
   - "[[Education-for-Mandates]]"
@@ -60,6 +61,7 @@ related_concepts:
   - "[[Transfer Space]]"
   - "[[Knowledge Co-production]]"
   - "[[Datafication of Learning]]"
+  - "[[Geopolitics]]"
   - "[[Reference Society]]"
   - "[[Normal School]]"
   - "[[Soft Power]]"
@@ -144,7 +146,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 105
+argument_related_count: 107
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -294,7 +296,7 @@ issuing_organization: ""
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
 
 > [!case] 世界银行[[Global Development Network\|全球发展网络]]（GDN）从本土去中心化转向总部集权的演变案例
-> - **转型为“[[Knowledge Bank\|知识银行]]”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network\|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
+> - **转型为“[[Knowledge Bank\|知识银行]]”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network\|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与[[Evidence-Based Policy-Making|循证决策]]，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
 > - **去中心化构想的迅速流产** 这一旨在激活国别本土智库与学术机构的去中心化倡议很快丧失势头，被世界银行随后推行的大量总部集中管理项目（如[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER））彻底边缘化并取代。
 > - **本土专家的工具化降格** 跨国大型数据库的设计与维护权牢牢保留在华盛顿总部手中，借贷国的本土学者与国家专家并未获得实[[Qualitative Research\|质性研究]]主导权，沦为仅负责为总部数据库搜集、填报指标并提供语篇翻译的基层信息员。
 > - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（George Psacharopoulos）与帕特里诺斯（Harry Anthony Patrinos，2018）对 60 年教育投资回报率研究的[[Systematic Review\|系统综述]]显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以[[Policy Conditionalities|贷款附加条件]]深度干预借贷国教育体制提供了自给自足的数据霸权。（p.548）
@@ -394,7 +396,7 @@ issuing_organization: ""
 
 系统外部的重大变迁（如公共行政领域转向以结果为导向的新自由主义规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移（Fenwick et al., 2014），进而推动了[[Datafication of Learning|学习数据化]]（Datafication of Learning）（Thoutenhoofd, 2018; p. 546）。依据系统论的命题，系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
 
-依据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论洞见，外化或对这类拟似外部参照点的建构，在本质上充当了规制性理念。在转移空间中，旷日持久的国内政策僵局、政党轮替、摆脱不光彩历史的冲动、地缘政治重构以及对外援助依赖，构成了促使本土精英策略性动员外部[[Reference Society|参考社会]]与国际组织权威的关键契机。（p.546）
+依据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论洞见，外化或对这类拟似外部参照点的建构，在本质上充当了规制性理念。在转移空间中，旷日持久的国内政策僵局、政党轮替、摆脱不光彩历史的冲动、[[Geopolitics|地缘政治]]重构以及对外援助依赖，构成了促使本土精英策略性动员外部[[Reference Society|参考社会]]与国际组织权威的关键契机。（p.546）
 
 > [!case] 芬兰“PISA 奇迹”作为规制性投射的按需建构案例
 > - **案例背景与外在化动机** 各国面对旷日持久的国内改革僵局与合法性赤字，急需寻求超越本土纷争的外部参考系，芬兰在国际大规模学生评估中的优异表现被迅速推向全球神坛。（p.546）
@@ -458,7 +460,7 @@ issuing_organization: ""
 > *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert '[[Soft Power]] by hard facts' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
 
 > [!citation-card] 信息过载与理性决策假象的破灭
-> 认为更多知识能够消除歧义并促进循证决策是一种误解，事实恰恰相反。当今的信息过载，恰恰为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进行定向转译的机构与个人提供了滋生的土壤。在充满歧义的决策情境中，核心问题演变为：政策中介机构如何让决策者确信，自己已经穷尽了得出结论与政策建议的各种思考方式？（pp.539–540）
+> 认为更多知识能够消除歧义并促进[[Evidence-Based Policy-Making|循证决策]]是一种误解，事实恰恰相反。当今的信息过载，恰恰为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进行定向转译的机构与个人提供了滋生的土壤。在充满歧义的决策情境中，核心问题演变为：政策中介机构如何让决策者确信，自己已经穷尽了得出结论与政策建议的各种思考方式？（pp.539–540）
 >
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use. The [[Research Question]] for policymaking under ambiguity becomes: How do policy brokers convince their users (policymakers) that they know the universe of 'ways of thinking' from which they draw conclusions and make recommendations?*
 

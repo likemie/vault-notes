@@ -41,6 +41,7 @@ related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Externalization]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Geopolitics]]"
   - "[[International Education]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Hidden Curriculum]]"
@@ -56,7 +57,6 @@ related_theories:
   - "[[Formative Epistemic Injustice]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -203,7 +203,7 @@ updated: 2026-10-20
 ### 命题四　跨国教育干预往往异化为资本主义不平等结构的强制再生产，批判教育学必须以主权自决与人道主义解放实践为旨归
 
 > [!concept-lens] 跨国教育政治与全球再生产批判维度
-> 该命题将批判教育学从微观学校课堂延伸至全球宏观地缘政治与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
+> 该命题将批判教育学从微观学校课堂延伸至全球宏观[[Geopolitics|地缘政治]]与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
 
 > [!claim] Shor and Freire (1987); Rust, Johnstone, & Allaf (2009)
 > **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
@@ -253,7 +253,7 @@ updated: 2026-10-20
 > > - **解放拥护派（Freire, 1972; Giroux, 1988）** 主张教育不可能脱离政治，唯有指明意识形态压迫才能点燃变革希望。
 > > - **实证与方法论批判派（Miedama & Wardekker, 1999）** 尖锐批评批判教育学可能是个死胎（Stillborn Child），认为[[Critical Theory|批判理论]]本身容易沦为没有科学实证的空泛哲学，缺乏操作性的实证研究支持，且过度政治化可能反而导致学生面临现实无力感。引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 149)]]
 >
-> > [!axis] 技术工具中立论 vs 数字[[Banking Model of Education|储蓄式教育]][[Disciplina and Doctrina|规训]]论
+> > [!axis] 技术工具中立论 vs 数字[[Banking Model of Education|储蓄式教育]]规训论
 > > 在智能时代，技术乐观派主张大模型能民主化知识获取与因材施教；批判派则警告全盘代劳构成新型的数字储蓄式教育压迫。
 > >
 > > - **技术平权工具论** 坚信人手一台 AI 即实现了教育正义，技术仅为中性赋能工具。

@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -69,6 +69,7 @@ related_facts:
   - "[[300,000 Foreign Students Plan]]"
   - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
   - "[[Tsukuba Science City]]"
+  - "[[Belt and Road Initiative]]"
   - "[[EU]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Open Competition Mechanism]]"
@@ -77,7 +78,7 @@ related_methods:
 related_persons: []
 status: draft
 created: 2026-06-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Zhang_2023_PHEI
 
@@ -331,7 +332,7 @@ updated: 2026-10-16
 ### 第5章 粤港澳大湾区科技创新双循环生态系统的建设路径
 
 > [!chapter-question]
-> 在系统梳理粤港澳大湾区9+2城市创新资源现状的基础上，提出以"广深港"和"广珠澳"科技创新走廊为轴的国内循环系统建设路径，以及以"一带一路"为核心的国际循环系统建设路径。
+> 在系统梳理粤港澳大湾区9+2城市创新资源现状的基础上，提出以"广深港"和"广珠澳"科技创新走廊为轴的国内循环系统建设路径，以及以"[[Belt and Road Initiative|一带一路]]"为核心的国际循环系统建设路径。
 
 > [!line-a] 四核城市创新资源现状
 

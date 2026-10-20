@@ -8,7 +8,7 @@ summary: "20世纪美国结构功能主义社会学泰斗、哈佛大学社会�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Consumer Internet]]"
 related_theories:
   - "[[Structural Functionalism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"

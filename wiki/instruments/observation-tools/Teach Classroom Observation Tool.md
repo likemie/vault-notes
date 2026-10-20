@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行开发的标准化外部课堂观察工具，面向中低收入国家基础教育情境，整合时间抽样快照（测量教学时间与学生在轨状态）与多维行为评价量规（涵盖课堂文化、教学指导与社会情感技能3大领域、9大要素和28项具体行为），通过双段15分钟观察与5点等级评定系统捕捉课堂教学质量。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 34
+instrument_related_count: 33
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#cffafe"
@@ -64,7 +64,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

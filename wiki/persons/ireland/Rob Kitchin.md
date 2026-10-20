@@ -8,7 +8,7 @@ summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Data Literacy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Habitus]]"
@@ -38,8 +37,8 @@ related_concepts:
   - "[[Emergence]]"
 related_theories: []
 related_methods:
+  - "[[Critical Discourse Analysis]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rob Kitchin
@@ -63,7 +62,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（[[Engineering Research Centers|ERC]]）高级研究员。
-> - **核心角色** 批判性数据研究（Critical Data Studies, CDS）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的奠基者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
+> - **核心角色** 批判性数据研究（Critical Data Studies, [[Critical Discourse Analysis|CDS]]）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的奠基者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
 > - **代表贡献** 奠定批判性数据研究理论纲领，出版里程碑著作《数据革命》（*The Data Revolution*）；提出数据绝非纯净无瑕的客观存在，而是深深嵌入社会-技术装配的建构物；其概念分析[[Paradigm\|范式]]被广泛引入教育社会学、公共治理与算法监测批判研究。
 
 > [!citation-card] 基钦论数据的建构性与数据汇聚体
@@ -97,7 +96,7 @@ updated: 2026-10-16
 > - **2019–至今 — 数字断连、算法城市主义与公共中介批判** 探讨数据自动化治理的失效边界、平台资本主义以及国家行政机器对数据系统的策略性采纳与抵制。
 >   - **代表著作** *The Right to the [[Start Making a Reader Today]] City* (2019); *Data Lives: How Data Are Made and Shape Our World* (2021)。
 >   - **关键概念／方法** [[Data Literacy]]、数据正义。
->   - **阶段转向** 从宏观体系解剖深入微观实践维度的伦理、[[Disciplina and Doctrina\|规训]]与普通人数据经验。
+>   - **阶段转向** 从宏观体系解剖深入微观实践维度的伦理、规训与普通人数据经验。
 
 ---
 
@@ -120,7 +119,7 @@ updated: 2026-10-16
 > - **方法路径** 倡导结合技术堆栈分析、法律政策文本考察与深层[[Ethnography\|民族志]]访谈的综合质性质询方法，示范了如何穿透界面表象进入软件代码与后台业务逻辑。
 > - **政策与教育治理路径** 为[[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）等学者解剖教育行政机关数字化学校监测提供了直接理论工具，推动了教育治理研究由单纯关注测验分数向审视底层数字基础设施的根本转变。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] — 深度援引基钦的数据汇聚体理论，构建美德两州教育行政机关做数据微观张力的分析透镜。
 
 ---

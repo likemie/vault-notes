@@ -21,6 +21,7 @@ tags:
   - theme/educational-publishing
   - theme/evidence-informed-practice
 related_concepts:
+  - "[[Neuromyth]]"
   - "[[Learning Styles]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Source of Knowledge]]"
@@ -46,7 +47,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Ratgeberliteratur
@@ -69,7 +69,7 @@ updated: 2026-10-19
 教学指南文献（德文：Ratgeberliteratur；英文：Teacher Advice Literature）是指由商业教育出版社或专业机构面向基础教育在岗教师与职前师范生发行的教学实用指南、备课手册、班级管理策略读本以及实践导向的行业期刊。
 
 > [!def] 核心定义
-> 教学指南文献（Ratgeberliteratur）构成了一线教师日常职业实践中最频繁接触的非正式外部专业知识载体。该类文献通常由资深一线教师或培训讲师执笔，以解决明日课堂具体痛点为导向，语言通俗且排版高度视觉化；但由于绝大多数出版物未经过严格的学术同行评议与实证检验，其在提供实用备课灵感的同时，客观上构成了教育神经神话（如[[Learning Styles\|学习风格假说]]）与未经检验经验在学校体系中固化蔓延的核心渠道。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–255)]]
+> 教学指南文献（Ratgeberliteratur）构成了一线教师日常职业实践中最频繁接触的非正式外部专业知识载体。该类文献通常由资深一线教师或培训讲师执笔，以解决明日课堂具体痛点为导向，语言通俗且排版高度视觉化；但由于绝大多数出版物未经过严格的学术同行评议与实证检验，其在提供实用备课灵感的同时，客观上构成了[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）与未经检验经验在学校体系中固化蔓延的核心渠道。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–255)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称面向教学一线流通、以实用操作技巧与经验法门为核心内容的商业化教育指导读物与期刊丛书。
@@ -141,7 +141,7 @@ updated: 2026-10-19
 > 揭示商业出版渠道在缺乏方法学把关的情况下，如何成为[[Learning Styles|学习风格]]等被[[Falsification\|证伪]]假说的避风港与放大器。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
-> **指南文献对伪科学神经神话的规模化推波助澜** 对德语区在售的 410 部教师实践指南的实证[[Content Analysis\|内容分析]]显示，高达 32%（Krüger & Konrad, 2022）至 40%（Mohajerzad et al., 2022）的指南读物毫无批判性地大肆推介“[[Learning Styles\|学习风格神话]]”（如将学生划分为视觉型、听觉型、动觉型并要求分类施教）。甚至在广为流传的经典教学法手册中（如 Paradies & Linser, 2003），依然将已被心理学界彻底证伪的 Vester（1975）四分法作为正统因材施教方案；商业出版的质量审查缺失使伪科学在基础教育体系中获得了持久的制度化生命力。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
+> **指南文献对伪科学[[Neuromyth|神经神话]]的规模化推波助澜** 对德语区在售的 410 部教师实践指南的实证[[Content Analysis\|内容分析]]显示，高达 32%（Krüger & Konrad, 2022）至 40%（Mohajerzad et al., 2022）的指南读物毫无批判性地大肆推介“[[Learning Styles\|学习风格神话]]”（如将学生划分为视觉型、听觉型、动觉型并要求分类施教）。甚至在广为流传的经典教学法手册中（如 Paradies & Linser, 2003），依然将已被心理学界彻底证伪的 Vester（1975）四分法作为正统因材施教方案；商业出版的质量审查缺失使伪科学在基础教育体系中获得了持久的制度化生命力。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
 
 ---
 
@@ -201,7 +201,7 @@ updated: 2026-10-19
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Educational Science Communication]] | 概念 | 指南文献构成教育科学传播媒介矩阵中直面一线教师的核心样态。 |
-> | [[Learning Styles|Learning Style Myth]] | 概念 | 商业指南文献缺乏实证把关，是导致学习风格神话在实践中广泛泛滥的主要媒介。 |
+> | [[Learning Styles\|Learning Style Myth]] | 概念 | 商业指南文献缺乏实证把关，是导致学习风格神话在实践中广泛泛滥的主要媒介。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 指南文献的高使用率警示科研界不能孤立单向推送，而需提供受众适配的操作方案。 |
 > | [[Educational Brokerage Agency]] | 概念 | 证据中介机构承担着替代商业低质指南、提供高质量循证实践手册的核心职能。 |
 > | [[Evidence-Informed Practice]] | 概念 | 推动教师从盲从经验指南转向批判性审视与结合实证证据的专业实践。 |
@@ -212,5 +212,5 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 深度解构德国 410 部流通教师指南的实证[[Content Analysis\|内容分析]]数据，揭示其近四成宣扬[[Learning Styles\|学习风格神话]]的严峻现状，论证教育科研界主动占领通俗指南阵地的紧迫性。

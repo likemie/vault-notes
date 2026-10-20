@@ -7,7 +7,7 @@ summary: "由 Jennie Popay 等人（2006）系统化制定的系统综述证据�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Framework Synthesis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Narrative Synthesis
@@ -148,5 +147,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]]文献，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。

@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求消灭既有制度但短期伪装成模范守法者潜伏运作；在强否决可能性与低解释执行裁量权下运用地下室白蚁机制在边缘赞助新规则，主导驱动制度层叠并在时机成熟时架空旧核心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subversives
   - institutional-change
@@ -35,8 +35,7 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Disjointed Pluralism]]"
   - "[[Rational Action Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"

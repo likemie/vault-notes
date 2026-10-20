@@ -9,7 +9,7 @@ aliases:
 summary: "战后发展中国家通过关税与外汇保护扶持本土工业体系的宏观发展模式；在教育领域诱发了拉美1960年代中高等教育超常规大扩张，但因其依附性与精英偏向，导致基础初等识字停滞与结构性倒金字塔断裂"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Post-Fordism]]"
   - "[[Credential Inflation]]"
+  - "[[Developmentalism]]"
   - "[[Dependent Variable]]"
 related_theories:
   - "[[Neocorporatism]]"
@@ -162,7 +163,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!tension] 发展主义国家调控 vs 新自由主义比较优势
+> [!tension] [[Developmentalism|发展主义]]国家调控 vs 新自由主义比较优势
 > - **结构主义与依附学派立场（蓝方）** 坚信外围国家若不实施贸易保护与进口替代，将永远被锁定在出口初级农矿产品、进口工业品的殖民分工陷阱中；国家主导的教育扩张是积累本土工程与技术自主能力的必经之路。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75, 81)]]
 > - **新自由主义与新古典经济学立场（红方）** 批判进口替代工业化扭曲了市场价格信号，制造了低效垄断的国企和庇护寻租；指责国家在高等教育上的巨额补贴属于严重的累退税性质，是用全民税收补贴少数城市精英家庭。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 

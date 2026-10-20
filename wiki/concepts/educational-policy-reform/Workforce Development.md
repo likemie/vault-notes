@@ -9,7 +9,7 @@ aliases:
 summary: "指通过整合中高等职业教育、企业在职培训、学徒制通道、微凭证与公共就业服务，系统提升劳动者技能以匹配产业升级需求、促进高质量就业与区域经济转型的公共政策与制度体系；在现代战略产业中演进为与重大资本补贴前置绑定的法定附加条件，并依托“微凭证技术员—卓越本科—拔尖博士”三级梯队与高校组织专班构建国家战略人才蓄水池。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

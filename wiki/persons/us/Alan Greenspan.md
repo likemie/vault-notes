@@ -8,7 +8,7 @@ summary: "美国著名经济学家、第13任联邦储备委员会主席（1987�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

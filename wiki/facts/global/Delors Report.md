@@ -31,20 +31,20 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Rote Learning]]"
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Global Educational Discourse]]"
   - "[[Washington Consensus]]"
   - "[[Educational Privatisation]]"
   - "[[Technical Rationality]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jason Beech]]"
 related_facts:
@@ -69,7 +69,7 @@ updated: 2026-10-20
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1996 年由[[UNESCO|联合国教科文组织]]（UNESCO）国际 21 世纪教育委员会正式发布，委员会主席为法国前经济财政部长、[[EU|欧洲共同体]]委员会前主席雅克·德洛尔（Jacques Delors）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **适用地区 / 对象** 全球会员国各级教育决策者、国际发展机构、学校与教师，以及[[Lifelong Learning|终身教育]]实践者。
-> - **核心历史与地缘危机** 报告诞生于教科文组织深陷合法性与财务生存危机的冷战末期及后冷战初期。1984–1985 年美英两国相继退出 UNESCO，导致其预算大幅萎缩近三分之一；在[[International Education|国际教育]]议程设置上，UNESCO 的传统领导地位（Lead Agency Status）面临严重边缘化风险——北方发达成员国日益倒向[[OECD|经合组织]]的指标治理，南方外围国家则深受[[World Bank|世界银行]]巨额教育信贷与[[Human Capital Theory|人力资本理论]][[Disciplina and Doctrina|规训]]的牵引。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, p. 348)]]
+> - **核心历史与地缘危机** 报告诞生于教科文组织深陷合法性与财务生存危机的冷战末期及后冷战初期。1984–1985 年美英两国相继退出 UNESCO，导致其预算大幅萎缩近三分之一；在[[International Education|国际教育]]议程设置上，UNESCO 的传统领导地位（Lead Agency Status）面临严重边缘化风险——北方发达成员国日益倒向[[OECD|经合组织]]的指标治理，南方外围国家则深受[[World Bank|世界银行]]巨额教育信贷与[[Human Capital Theory|人力资本理论]]规训的牵引。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, p. 348)]]
 > - **制度定位** 承继 1972 年埃德加·富尔（Edgar Faure）主持编纂的《学会生存》（*Learning to Be*），构成 UNESCO 战后第二份关于全球教育未来发展的纲领性历史文献。
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-10-20
 >
 > *It is simply a matter of regarding human beings not as instruments, means to the attainment of economic objectives, but as ends in themselves, the economic objectives being subordinated to their self-fulfilment and well-being.*
 
-> [!citation-card] 琼斯与科尔曼论德洛尔报告的地缘政治合法性动因
+> [!citation-card] 琼斯与科尔曼论德洛尔报告的[[Geopolitics|地缘政治]]合法性动因
 > 1996 年德洛尔报告《学习：内在的财富》是[[UNESCO|教科文组织]]在经历 1980 年代中叶的崩溃之后，公开试图恢复其政治信誉与运势的举动。随着教科文组织在教育发展领域的‘主导机构’地位明显衰落——在北面受到[[OECD|经合组织]]的威胁，在南面受到世界银行的挤压——该委员会肩负着以全新形式推销教科文组织传统规范性关切的重任。(Jones & Coleman, 2005, p. 85; cited in Beech, 2009b, p. 348)
 >
 > *The famous 1996 report Learning: The Treasure Within... was an overt attempt to restore UNESCO’s political credibility and fortunes following the debacle of the mid-1980s. With UNESCO’s ‘lead agency’ status in educational development very evidently in decline, threatened by the OECD in the north and the World Bank in the south, the commission was charged with promoting in fresh guise UNESCO’s conventional normative concerns...*
@@ -106,7 +106,7 @@ updated: 2026-10-20
 > - **1993** [[UNESCO|联合国教科文组织]]总干事费德里科·马约尔（Federico Mayor）宣布成立国际 21 世纪教育委员会，委任雅克·德洛尔为主席，汇聚全球 15 位资深政治家、哲学家与教育学者展开全球巡回研讨。
 > - **1996** 委员会正式向 UNESCO 提交全本报告《教育——财富蕴藏其中》（*Learning: The Treasure Within*），确立[[Lifelong Learning|终身学习]]四大支柱架构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 > - **1997–2000** 报告被翻译为数十种语言在全球出版传播，被中国、欧洲、拉美等多国决策层广泛引用，成为世纪之交基础教育课程改革的哲学导引。
-> - **2005–2009** 批判比较教育学者（Jones & Coleman, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）从国际组织政治学与[[Discourse|话语]]流通视角深度解构该报告，揭示其背后 UNESCO 与[[World Bank|世界银行]]争夺[[Global Educational Discourse|全球教育话语]]主导权的地缘政治逻辑。
+> - **2005–2009** 批判比较教育学者（Jones & Coleman, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）从国际组织政治学与[[Discourse|话语]]流通视角深度解构该报告，揭示其背后 UNESCO 与[[World Bank|世界银行]]争夺[[Global Educational Discourse|全球教育话语]]主导权的[[Geopolitics|地缘政治]]逻辑。
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > [!actor-grid] 国际治理博弈与多方反应
 > - **[[UNESCO]]（发布方）** 成功依托德洛尔报告重建了其在国际思想界的道德权威（Moral and Normative Leadership），暂时遏制了机构声望跌落颓势。
 > - **[[World Bank|世界银行]]（竞争与修辞吸纳）** 表面上在多边会议中称赞四大支柱的人道情怀，但在实际借贷操作中依然由新古典投入产出分析与收益率测算支配，批评 UNESCO 不懂经济效率与财政纪律。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
-> - **[[OECD|经合组织]]（竞争与指标化）** 采取混合路线，一方面承认教育对人类福祉的贡献，另一方面继续依托定量指标与同伴[[Disciplina and Doctrina|规训]]锁定教育政策工具箱。(Papadopoulos, 1994)
+> - **[[OECD|经合组织]]（竞争与指标化）** 采取混合路线，一方面承认教育对人类福祉的贡献，另一方面继续依托定量指标与同伴规训锁定教育政策工具箱。(Papadopoulos, 1994)
 > - **民族国家决策层** 普遍在国家教育基本法与课程愿景中照搬四大支柱的华丽修辞，但在实际财政资源配置与升学选拔中依然服从[[Human Capital Theory|人力资本]]与量化绩效。
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-10-20
 > > - **人文主义教育学者 (Mayor et al., 1997)** 坚信在[[Technical Rationality|技术理性]]与市场力量泛滥的时代，教育必须坚守促进人格自由、社会正义与和平共处的核心灵魂。
 > > - **实证经济学者与政策[[Pragmatic Paradigm|实用主义]]者** 批评报告开出的药方缺乏具体成本核算与可行路线图，无法为贫困国家如何有效普及初等教育提供现实指导。
 >
-> > [!axis] 纯粹教育学术愿景 vs. 国际组织地缘政治声誉自救
+> > [!axis] 纯粹教育学术愿景 vs. 国际组织[[Geopolitics|地缘政治]]声誉自救
 > > 争论报告的生成是全球智者共同体的真诚探索，还是国际多边官僚体系的战术性自救工具。
 > >
 > > - **官方倡导者** 强调委员会成员跨越东西方与南北半球，代表了人类文明关于未来的崇高智识共识。
@@ -160,7 +160,7 @@ updated: 2026-10-20
 > | [[Epistemic Stances]] | 概念 | 刻画世行人道资本观、UNESCO 崇高人本主义与 OECD 混合视角之间深层[[Epistemology\|认识论]]对立的核心概念。 |
 > | [[Global Educational Discourse]] | 概念 | 比奇论证指出，三大组织表面哲学分歧实则被信息时代的单一普遍模型深层统摄。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，引用琼斯与科尔曼深入解构德洛尔报告背后的多边机构合法性博弈。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 系统剖析三大国际组织教育使命冲突与德洛尔报告地缘政治动因的核心文献。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 系统剖析三大国际组织教育使命冲突与德洛尔报告[[Geopolitics\|地缘政治]]动因的核心文献。 |
 
 ---
 

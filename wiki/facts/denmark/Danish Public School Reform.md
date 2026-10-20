@@ -12,7 +12,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Technical Rationality]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Whole Person Education]]"
   - "[[Learnification]]"
   - "[[Professional Judgment]]"
@@ -58,7 +57,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Danish Public School Reform
@@ -113,7 +112,7 @@ updated: 2026-10-17
 > - **适用对象** 一线教师（被要求转型为目标达成技术的执行者）与学生（被要求持续向学习目标靠拢）。
 > - **政策工具** 嵌入将近 3,000 个细分学习目标的课程框架、国家标准化测验数据库与 [[Visible Learning]] 工作坊。
 
-> [!pathways]- 实施路径与技术[[Disciplina and Doctrina|规训]]
+> [!pathways]- 实施路径与技术规训
 > - **国家课程目标彻底量化** 传统的自由讨论与教养（Dannelse）传统被全面边缘化，取而代之的是由上至下层层下达的可测量学习指标。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **课堂教学行为的技术控制** 教师被要求严格依照[[John Hattie|哈蒂]]式的反馈程式（向后、向上、向前反馈）监控课堂，将教学活动降格为刺激-强化-纠偏的控制流水线。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 88–89)]]
 > - **学术招牌作为政治盾牌** 当家长和教师对死板考核与课时延长提出强烈抗议时，教育部与市镇官员反复将哈蒂的[[Meta-analysis|元分析]]数据奉为不可抗拒的科学准则，用以压制民主商榷并削弱教师专业自主。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86)]]

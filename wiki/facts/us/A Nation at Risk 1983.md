@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - policy-brokerage
   - crisis-narrative
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
   - "[[Grandes Ecoles]]"
   - "[[New Public Management]]"
@@ -87,7 +88,7 @@ updated: 2026-10-20
 > 1983 年美国发布的《国家处于危险之中：教育改革势在必行》（*A Nation at Risk: The Imperative for Educational Reform*）标志着战后全球教育危机叙事与政策动员的第二次重大跃升；它通过激进的军事危机修辞将国内学校教育的平庸定性为威胁国家存亡的战争行为，打破了战后早期的渐进扩张叙事，将国际比较数据转化为推行国内改革的合法化工具，并直接驱动美国将跨国可比指标体系的开发委托给[[OECD\|经合组织]]，催生了全球教育“治数而治”的比较转向。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–10)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 1981 年 8 月立项组建委员会，1983 年 4 月正式向里根总统发布报告；发源并立足于美国联邦及各州公共教育系统，但迅速产生全球地缘政治与跨国[[Policy Borrowing\|政策借用]]震荡。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
+> - **时间跨度 / 空间地理** 1981 年 8 月立项组建委员会，1983 年 4 月正式向里根总统发布报告；发源并立足于美国联邦及各州公共教育系统，但迅速产生全球[[Geopolitics|地缘政治]]与跨国[[Policy Borrowing\|政策借用]]震荡。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
 > - **核心当事主体** 美国联邦教育部（United States Department of Education）部长[[Michael Traill\|特雷尔]]·贝尔（Terrel H. Bell）；国家教育卓越委员会（National Commission on Excellence in Education，[[National Center for Education Evaluation and Regional Assistance\|NCEE]]，由犹他[[Grandes Ecoles|大学校]]长戴维·加德纳担任主席的 18 人独立委员会）；里根（Ronald Reagan）政府；地方公立学区与教师联合会。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
 > - **深层制度与社会背景** 1970 年代滞胀危机重创美国经济，制造业岗位大量流向西德和日本；冷战科技竞赛与日德工业崛起引发“经济[[Sputnik Shock 1957\|斯普特尼克冲击]]”；1980 年里根当选标志着保守主义回潮，[[New Public Management\|新公共管理]]（New Public Management，NPM）主张将绩效问责与卓越标准引入公共领域；[[International Education\|国际教育]]成就评价协会（[[IEA\|International Association for the Evaluation of Educational Achievement]]，IEA）早期测评数据显示美国学生在跨国横向比较中表现平庸。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **直接导火索 / 触发事件** 传统[[Progressive Education\|进步主义教育]]在高中课程设置上的碎片化；学术能力评估测试（Scholastic Assessment Test，SAT）平均成绩自 1963 年至 1980 年遭遇长达近二十年的连续下滑；联邦教育部面临被里根政府裁撤的政治危机，教育部长 Bell 试图通过组建独立高级委员会凝聚全国改革共识以保全部门建制。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]

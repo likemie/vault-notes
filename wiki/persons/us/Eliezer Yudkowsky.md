@@ -8,10 +8,10 @@ summary: "美国决策论学者与人工智能对齐理论先驱，机器智能�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1979"
 died: ""
 lifespan: "1979–至今"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Emergence]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Quality Education]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Ideal Learner]]"
   - "[[Examination Hell]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Chinese Learner
@@ -257,7 +256,7 @@ updated: 2026-10-17
 
 > [!tip]-
 > - [[Confucian Learning Tradition]] — 中国学习者模型的知识根源。[[Confucius\|孔子]]的"好之者不如乐之者"将[[Heart and Mind for Wanting to Learn\|好學心]]置于"知之"之上，奠定了学习的情感/品德优先性
-> - [[Cultural Models]] — Li 将中国学习者模型归类为一种文化模型（cultural model）——文化成员共享的、通常隐性的关于"学习是什么"的[[Mind Mapping\|心智图]]式
+> - [[Cultural Models]] — Li 将中国学习者模型归类为一种文化模型（cultural model）——文化成员共享的、通常隐性的关于"学习是什么"的心智图式
 > - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会实践（齐家→平天下）
 > - [[Learning Virtues]] — 七种学习美德的完整文本传统、实证发现和文化认知差异
 > - [[Heart and Mind for Wanting to Learn]] — 好學心是中国学习[[Concept Mapping\|概念地图]]中最大的集群（占可取方式的 46%），是中国学习者模型的核心动力概念

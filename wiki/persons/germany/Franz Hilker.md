@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Scientific Method]]"
   - "[[Value Neutrality]]"
+  - "[[Soft Policy Transfer]]"
   - "[[Discourse]]"
   - "[[Bildung]]"
 related_theories:
@@ -43,7 +44,6 @@ related_theories:
 related_methods:
   - "[[Bereday's Comparative Method]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
@@ -191,7 +191,7 @@ updated: 2026-10-20
 > > [!axis] 四步阶梯分析法的线性简化倾向
 > > 战后批判[[Paradigm|范式]]与后现代学者对[[Bereday's Comparative Method|四步比较法]]的反思。
 > >
-> > - **后实证与批判学者** 批评“描述-解释-并置-比较”的线性步骤预设了客观中立的研究者立场和普遍可比性，在面对非西方语境与复杂权力网络时，容易忽视概念转移中的去脉络化与[[Discourse|话语]]霸权。
+> > - **后实证与批判学者** 批评“描述-解释-并置-比较”的线性步骤预设了客观中立的研究者立场和普遍可比性，在面对非西方语境与复杂权力网络时，容易忽视[[Soft Policy Transfer|概念转移]]中的去脉络化与[[Discourse|话语]]霸权。
 
 > [!warning] 未解问题与边界
 > 希尔克的四步法为比较教育确立了清晰的入门规程，但在微观因果机制推导与非线性政策变迁解释上，仍需结合更丰富的当代社会学与政治学解释工具。

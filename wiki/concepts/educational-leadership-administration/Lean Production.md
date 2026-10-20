@@ -26,11 +26,11 @@ related_concepts:
   - "[[Homework]]"
   - "[[Intellectual Capital]]"
   - "[[Peer Pressure]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Evolutionary Economics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Carlota Perez]]"
@@ -148,7 +148,7 @@ updated: 2026-10-20
 > > - **批判社会学派** 指出准时制消除了车间一切库存缓冲，导致生产节拍极度紧张，工人在“持续改进”的[[Peer Pressure|同侪压力]]下承受更高的心理压力与劳动消耗。
 
 > [!warning] 适用局限
-> 精益生产高度依赖准时稳定的外部物流交通网络与稳定的劳资信任契约；在面对重大不可抗力供应链断裂、地缘政治封锁或极端剧烈波动的非标定制需求时，极低库存可能降低整个产业系统的抗风险韧性。
+> 精益生产高度依赖准时稳定的外部物流交通网络与稳定的劳资信任契约；在面对重大不可抗力供应链断裂、[[Geopolitics|地缘政治]]封锁或极端剧烈波动的非标定制需求时，极低库存可能降低整个产业系统的抗风险韧性。
 
 ---
 

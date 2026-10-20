@@ -8,7 +8,7 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托软法规训与量化基准监控绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Educational Decentralization]]"
   - "[[School Autonomy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Peer Pressure]]"
   - "[[Open Method of Coordination]]"
   - "[[Discourse]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Subsidiarity Principle
@@ -95,7 +94,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **最低有效层级优先** 坚持凡能由基层、地方或成员国独立解决的事项，更高层级机构不得僭越行使权力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **从属性与补充性干预** 上级机构的介入行为必须具备严格的必要性与比例原则（Proportionality），仅在提供支持、协调与资源补充的限度内运作。
-> - **主权防御性盾牌** 在跨国治理中充当成员国抵御超国家机构统一化[[Disciplina and Doctrina|规训]]的法律安全阀，保护各民族文化的独特性与课程主权。
+> - **主权防御性盾牌** 在跨国治理中充当成员国抵御超国家机构统一化规训的法律安全阀，保护各民族文化的独特性与课程主权。
 > - **软法治理机制的倒逼催化** 宪制上对硬法干预的严格禁止，客观上逼迫超国家机构探索非约束性技术，催生出以指标比较与[[Peer Pressure|同侪压力]]为特征的[[Open Method of Coordination|开放协调法]]。
 
 ---
@@ -107,7 +106,7 @@ updated: 2026-10-16
 ### 命题一　宪制层面的辅助性原则未能阻断超国家治理向主权教育空间的深度渗透
 
 > [!concept-lens] 超国家渗透与主权防线张力
-> 探讨法律条约对硬法的严格约束如何反向催化了超国家软法[[Disciplina and Doctrina|规训]]技术的进化，使得民族国家的主权防线在隐蔽的技术治理中被层层瓦解。
+> 探讨法律条约对硬法的严格约束如何反向催化了超国家软法规训技术的进化，使得民族国家的主权防线在隐蔽的技术治理中被层层瓦解。
 
 > [!claim] [[António Nóvoa|Nóvoa, A.]]
 > **超国家软治理对辅助性原则的形式性规避** 诺沃亚（António Nóvoa）指出，尽管《马斯特里赫特条约》设立的辅助性原则从法律上剥夺了[[EU|欧盟]]颁布强制性教育法案的权力，但欧盟并未因此放弃对成员国教育的重塑意图；相反，它开辟了三大软性规训路径——推广最佳实践[[Discourse|话语]]、制定量化基准指标（Benchmarks）以及推进[[Bologna Process|博洛尼亚进程]]。这使得超国家机构能够在形式上完全恪守辅助性原则的前提下，通过数据化监测与文凭互认标准，对成员国教育制度实施无声却深远的战略导向与一体化制作。[[Argument_Beech_2009_GlobalGarden|(Nóvoa, 2002, cited in Beech, 2009b, p. 343)]]

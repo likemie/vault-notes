@@ -10,7 +10,7 @@ summary: "RCT 与组间比较中最直观的基础统计模型，直接以处理
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Effect Size Conversion]]"
   - "[[Experimental Research]]"
   - "[[Analysis of Covariance]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Simple Difference in Means Model
@@ -241,5 +240,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等用NPD对 17 项 [[Education Endowment Foundation\|EEF]] 试验做四模型复算，发现简单均值差异模型较[[Covariate Adjustment\|协变量调整]]模型功效损失明显。

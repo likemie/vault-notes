@@ -47,6 +47,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Knowledge Production]]"
   - "[[Recommendations for Practice]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Research Literacy]]"
   - "[[Knowledge Co-production]]"
   - "[[Epistemic Stances]]"
@@ -84,7 +85,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Likert Scale]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
 related_persons: []
@@ -269,7 +269,7 @@ updated: 2026-10-20
 > - **斯洛文尼亚与挪威教育部常设内部中介单元** 斯洛文尼亚教育部质量与分析处及挪威教育与研究部政策分析处设立于行政中枢内部，充当常驻专职[[Boundary Spanner\|知识经纪人]]。团队由高级公务员与科研人员混合组成，快速响应决策官员的实证需求，分发研究要报并开展定制化量化分析，有效突破外部中介响应滞后的制度壁垒。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81)]]
 > - **荷兰与匈牙利一线教师科研制度化支撑机制** 荷兰科学研究组织（NWO）教师博士资助计划常态化资助学前至高职一线教师开展课堂实证研究，全额承担代课聘用成本以保障最高 0.4 全职当量的法定带薪科研工时；匈牙利 pedagogical career 模式设立研究型教师（Researcher Teacher）终身职级，为通过博士考核的教师配备 5 年可续规划与法定专项津贴，打破大学对[[Knowledge Production\|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–92)]]
 > - **EEF 助教循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）** 针对英格兰每年巨额聘用 38 万名助教却因隔离看护导致学困生学业受损的顽疾，EEF 提炼出 7 项核心[[Recommendations for Practice\|实践建议]]，在南约克郡等地区联合地方教育局与示范校开展区域动员。中介团队重塑排课机制、保障主辅协同备课时间、推行支架式提问教学与结构化小班干预方案，并配套跨区域因果评估，使纸面证据落地为学校常态制度。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
-> - **[[Early Intervention Foundation\|早期干预基金会]]行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）** 针对地方当局在儿童服务采购中高度依赖商业宣传与人际熟络的弊端，早期干预基金会（EIF）打破传统文献汇总模式，深入地方政府诊断公职人员面临的信息超载、财政预算周期约束与问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为引导保障宏观循证决策落地。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
+> - **[[Early Intervention Foundation\|早期干预基金会]]行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）** 针对地方当局在儿童服务采购中高度依赖商业宣传与人际熟络的弊端，早期干预基金会（EIF）打破传统文献汇总模式，深入地方政府诊断公职人员面临的信息超载、财政预算周期约束与问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为引导保障宏观[[Evidence-Based Policy-Making|循证决策]]落地。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
 
 ---
 
@@ -388,7 +388,7 @@ updated: 2026-10-20
 > | **专业启发** | 研究证据旨在启发与丰富专业判断，而非提供自动化处方或替代价值裁决 | 课堂教学改进、[[Evidence-Informed Decision-Making\|证据知情决策]]审议 | Nutley et al. (2013); Sharples (2013) |
 > | **共创张力** | 知识共创能保障现实关涉度，但在方法严谨度与跨情境可迁移性上面临治理挑战 | [[Research-Practice Partnership\|研究-实践伙伴关系]]建设、协同创新项目评估 | Cooper et al. (2017); Enthoven & de Bruijn (2010) |
 > | **生产依附** | 部委咨询依附学术生产规模而非促成应用活性，纯转化中介遭体制性排斥 | 政府决策咨询网络重构、官方中介制度设计 | [[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 81, 86–87)]] |
-> | **交易型异化** | 决策互动退化为技术修补的信息原料采买，民主审议与长效信任缺失 | 公职人员循证素养建设、循证决策民主审议机制 | [[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 91–92)]] |
+> | **交易型异化** | 决策互动退化为技术修补的信息原料采买，民主审议与长效信任缺失 | 公职人员循证素养建设、[[Evidence-Based Policy-Making\|循证决策]]民主审议机制 | [[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 91–92)]] |
 > | **实践者客体化** | 实践端中介岗位与外在激励匮乏，导致一线教师沦为被动数据收集客体 | 教师科研工时保障、职级晋升改革与共创机制 | [[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 93–94)]] |
 > | **生态摸排与外层整合** | 证据生态介入需前置诊断既有供需网络并与外部问责拨款大系统深度咬合 | 中介机构战略规划、全系统证据治理政策设计 | [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 148–151)]] |
 > | **行为变革驱动** | 单向传播无法克服信息赤字，必须扎根能力、机会与动机驱动实践行为改变 | 证据中介干预方案设计、教师专业发展与行为干预评估 | [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 152–153)]]; Lord et al. (2017) |

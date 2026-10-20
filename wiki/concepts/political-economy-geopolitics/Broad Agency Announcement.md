@@ -8,7 +8,7 @@ aliases:
 summary: "美国联邦采办条例（FAR 35.016）确立并由DARPA广泛应用的颠覆性前沿科技竞争发包机制。区别于详述技术规格指标的传统征求建议书（RFP），BAA仅界定宏观科学挑战与战略使命愿景，允许申请人自由提出异质性突破方案；Fuchs（2010）指出BAA是公共代理人向产学研生态释放前沿信号、播撒创新主题而不钦定单一赢家的核心制度工具。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,6 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Audit Trail]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:

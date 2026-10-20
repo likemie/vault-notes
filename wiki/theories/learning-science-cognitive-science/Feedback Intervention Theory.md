@@ -8,7 +8,7 @@ aliases:
 summary: "由克鲁格与德尼西提出的反馈干预理论，主张反馈通过调节任务学习、任务动机与自我三个层级的注意力分配发挥作用，揭示了反馈具有高度情境脆弱性与超过三分之一的负向抑制效应，构成了现代教学反馈与绩效控制研究的关键理论基石"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Item Analysis]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[B. F. Skinner]]"

@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，著有 Visible Learning，是元分析�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 152
+person_related_count: 155
 person_related_level: 15
 person_related_stars: "💎💎💎💎💎"
 person_related_color: "#fef3c7"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Determinism]]"
+  - "[[Falsification]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Neo-Taylorism]]"
   - "[[Preregistration]]"
@@ -64,27 +66,26 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
+  - "[[Blind Spot in Observation]]"
   - "[[Automated Data Extraction]]"
-  - "[[Variable]]"
   - "[[Cult of the Guru]]"
+  - "[[Bildung]]"
+  - "[[Policy Network]]"
   - "[[Public Value]]"
-  - "[[Research Scope]]"
+  - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Category Mistake]]"
-  - "[[Creativity]]"
-  - "[[Whole Language]]"
-  - "[[Socioeconomic Status]]"
   - "[[PICO Framework]]"
-  - "[[Commensuration]]"
+  - "[[Whole Language]]"
   - "[[Educational Management Organisation]]"
   - "[[Dual-Entity Legal Structure]]"
-  - "[[Bildung]]"
   - "[[Screening Off]]"
+  - "[[Creativity]]"
   - "[[Didaktik]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Variable]]"
+  - "[[Socioeconomic Status]]"
   - "[[Dependent Variable]]"
   - "[[Cargo Cult Science]]"
-  - "[[Falsification]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Going Native]]"
   - "[[Critiques of Visible Learning]]"
@@ -95,8 +96,8 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Legitimation Crisis]]"
   - "[[Stability vs. Variability Dilemma]]"
-  - "[[Societies of Control]]"
   - "[[Phenomenology]]"
+  - "[[Societies of Control]]"
   - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -104,12 +105,11 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
   - "[[Comparative Meta-synthesis]]"
-  - "[[Correlational Research]]"
   - "[[In-depth Interview]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Common Language Effect Size]]"
   - "[[Standard Error]]"
   - "[[Random-Effects Model]]"
-  - "[[Common Language Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -125,7 +125,9 @@ related_persons:
   - "[[Ivan Snook]]"
   - "[[John O'Neill]]"
   - "[[Scott Eacott]]"
+  - "[[Steen Nepper Larsen]]"
   - "[[Klaus Nielsen]]"
+  - "[[Thomas Aastrup Rømer]]"
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
@@ -180,6 +182,7 @@ related_facts:
   - "[[OECD]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -194,7 +197,7 @@ updated: 2026-10-20
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席，兼任澳大利亚[[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席。
 > - **核心角色** 著有《[[Visible Learning\|可见的学习]]》（Visible Learning，VL），是教育领域[[Meta-meta-analysis\|元综合]]（元-[[Meta-analysis\|元分析]]）[[Paradigm\|范式]]的奠基者与集大成者；主持维护全球最大教育元分析汇聚数据库 [[Visible Learning Meta-X]]；全球[[Evidence-Based Education\|证据本位教育]]与[[What Works Movement\|循证改革运动]]中极具国际影响力的领军学者；开创以[[Effect Size\|效应量]]为通用标尺综合比较教学干预效果的[[Analytic Framework\|分析框架]]，推动将微观师生互动与学校组织变革转化为高度量化的指标体系，依托 跨国商业授权网络 构建了贯通实证研究、教师培训、商业认证与国家政策咨询的全球中介生态。
-> - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；可见课堂（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
+> - **代表贡献** [[Visible Learning\|可见的学习]]综合框架与 $d=0.40$ 关节点模型；全球最大元分析汇聚数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；通用连续体（Universal Continuum）与[[Comparative Meta-synthesis\|比较性元综合]]方法；反馈（[[Feedback]]）分类学与[[Formative Assessment\|形成性评价]]模型；[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning，asTTle）；[[Visible Classroom|可见课堂]]（Visible Classroom）与三阶段学习模型；领衔 E4L 学校专家咨询委员会指导澳大利亚循证工具包本土化转化。
 
 > [!citation-card] 人物定位的关键来源
 > 我的学术身份是测量人员与统计学家，专长在于实证测量而非理论构建。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
@@ -228,9 +231,9 @@ updated: 2026-10-20
 >
 > - **2013–2014** 出任 1600 万澳元澳大利亚科学学习研究中心副主任；获任命为澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）董事会主席，其工作全面嵌入国家教师与校长专业标准。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 50)]]
 >
-> - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；[[Danish Public School Reform|丹麦公立学校改革]]引发《可见的学习》本土化激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
+> - **2015** 推出 [[Visible Classroom]] 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；[[Danish Public School Reform|丹麦公立学校改革]]引发《可见的学习》本土化激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 >
-> - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；接受丹麦学者克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）跨国质询，坦承自居统计测量人员以规避理论审查的说辞，明确指出“理论主导并统治证据解释”，揭示其每年为特许运营商 Cognition Education 提供 30 天差旅以换取 23 国数万名一线师生实践数据独家分析权的商业反哺治理机制，并以班级规模决定论作为可见学习模型的波普尔式证伪判据；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；接受丹麦学者克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）跨国质询，坦承自居统计测量人员以规避理论审查的说辞，明确指出“理论主导并统治证据解释”，揭示其每年为特许运营商 Cognition Education 提供 30 天差旅以换取 23 国数万名一线师生实践数据独家分析权的商业反哺治理机制，并以班级规模[[Determinism|决定论]]作为可见学习模型的波普尔式[[Falsification|证伪]]判据；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的[[Preregistration|预注册]]全量[[Metascience|元科学]]审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足[[Research Question|研究问题]]纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 
@@ -289,7 +292,7 @@ updated: 2026-10-20
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
-> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托[[Cognition Education|认知教育]]注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 Visible Classroom 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托[[Cognition Education|认知教育]]注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 [[Visible Classroom]] 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
@@ -332,19 +335,19 @@ updated: 2026-10-20
 > [!citation-card] 贝热隆与里瓦尔论脆弱纸牌屋与伪科学定性
 > 当以专业专家的眼光对《[[Visible Learning|可见的学习]]》展开必要的深入审视时，所见全无坚固城堡的结构，唯有一座迅速崩塌的脆弱纸牌屋。轻信哈蒂意味着在评估科学严谨性时存在[[Critical Thinking|批判性思维]]的盲点；推崇其工作不幸陷入了对伪科学的宣介；而在获知对其方法论的严肃批评后仍坚持为其辩护，则构成了蓄意的学术盲目。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 238–239)]]
 >
-> *When taking the necessary in-depth look at Visible Learning with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart. To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.*
+> *When taking the necessary in-depth look at Visible Learning with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart. To believe Hattie is to have a [[Blind Spot in Observation|blind spot]] in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.*
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承与学术合作关系** [[Herbert Walberg]]（合作综合 226 项元分析检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
+> - **师承与学术合作关系** [[Herbert Walberg]]（合作综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
-> - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定二阶元分析不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal 等人（针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
-> - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚学校领导力的大师崇拜与[[Neo-Taylorism|新泰勒主义]]规训）。
-> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔[[Stability vs. Variability Dilemma|双重困境]]）；[[Steen Nepper Larsen]]（从现象学自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、Thomas Aastrup Rømer（从哈贝马斯批判理论揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
-> - **依托机构与跨国政策网络** [[Visible Learning]]（核心学术成果体系）；[[Visible Learning Meta-X]]（底层元分析汇聚数据库）；[[Cognition Education]]（全球教师培训商业化特许运营商）；[[Australian Institute for Teaching and School Leadership|AITSL]]（担任董事会主席并推动嵌入国家专业标准）；[[Evidence for Learning]]（E4L 学校专家咨询委员会主席）；新西兰教育部（[[Assessment Tools for Teaching and Learning|asTTle]] 委托开发）；[[Education Endowment Foundation|EEF]]（英澳循证证据工具箱）。
+> - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal 等人（针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
+> - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚[[School Leadership|学校领导力]]的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训）。
+> - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
+> - **依托机构与跨国[[Policy Network|政策网络]]** [[Visible Learning]]（核心学术成果体系）；[[Visible Learning Meta-X]]（底层元分析汇聚数据库）；[[Cognition Education]]（全球教师培训商业化特许运营商）；[[Australian Institute for Teaching and School Leadership|AITSL]]（担任董事会主席并推动嵌入国家专业标准）；[[Evidence for Learning]]（E4L 学校专家咨询委员会主席）；新西兰教育部（[[Assessment Tools for Teaching and Learning|asTTle]] 委托开发）；[[Education Endowment Foundation|EEF]]（英澳循证证据工具箱）。
 
 ---
 
@@ -353,14 +356,14 @@ updated: 2026-10-20
 > [!debates] 学术争议
 >
 > > [!axis] Snook-Hattie 论战：[[Meta-analysis|元分析]]质量、截断值与因果外推
-> > 围绕 2009–2010 年《新西兰教育研究杂志》（NZJES）三大回合交锋，学界展开了关于二阶元分析质量、效应量门槛及社会结构制约的系统论辩。
+> > 围绕 2009–2010 年《新西兰教育研究杂志》（NZJES）三大回合交锋，学界展开了关于[[Meta-meta-analysis|二阶元分析]]质量、[[Effect Size|效应量]]门槛及社会结构制约的系统论辩。
 > >
 > > - **[[Ivan Snook]] 等人** 从方法学与政策维度系统解构哈蒂框架：
 > >   - *底层质控缺位*：未对纳入研究进行方法学评估，陷入“垃圾进、垃圾出”；
-> >   - *$d=0.40$ 截断值武断*：援引医学阿司匹林反例（$d=0.07$ 每千人挽救 34 条生命），论证微小效应在大样本中同样具有重大公共价值；
-> >   - *掩盖微观异质性*：单一均值抹杀学段差异（如家庭作业小学 $d=0.15$ vs 高中 $d=0.64$）；
+> >   - *$d=0.40$ 截断值武断*：援引医学阿司匹林反例（$d=0.07$ 每千人挽救 34 条生命），论证微小效应在大样本中同样具有重大[[Public Value|公共价值]]；
+> >   - *掩盖微观[[Heterogeneity|异质性]]*：单一均值抹杀学段差异（如[[Homework|家庭作业]]小学 $d=0.15$ vs 高中 $d=0.64$）；
 > >   - *排除社会背景致归因失真*：70%–80% 校际方差取决于生源背景，混淆相对变异与绝对变异致将结构性不平等转嫁给教师；
-> >   - *低估班级规模被政策误用*：STAR 与 PACE 试验证实小班在低年级具有显著非线性门槛，低估班级规模沦为政府推行绩效工资与削减投入的借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]; [[Argument_Snook_2010_NZJES|(Snook et al., 2010)]]
+> >   - *低估[[Class Size|班级规模]]被政策误用*：STAR 与 PACE 试验证实小班在低年级具有显著非线性门槛，低估班级规模沦为政府推行[[Performance Pay|绩效工资]]与削减投入的借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]; [[Argument_Snook_2010_NZJES|(Snook et al., 2010)]]
 > > - **Hattie 本人辩护** 辩护称元分析旨在提供经验概览而非绝对处方，坚持将研究聚焦于学校可控因素，主张提升教师效能仍是学校系统最可行、最具操作性的专业责任。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–92)]]
 >
 > > [!axis]- 社会的良知与批评者：专业技术辩护 vs 结构性社会公正
@@ -370,42 +373,42 @@ updated: 2026-10-20
 > > - **Hattie 职能自辩** 坚持援引法定条款为公共参与辩护，主张学者应遵守仅在专业领域发言、展示谨慎提升专业的自我约束原则。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
 >
 > > [!axis]- 统计方法学审查：通用连续体与伪综合指控
-> > 围绕两级固定效应代数前提、概率公理、基线选择与全量数据复现率，统计学界与比较教育学界展开严格的方法论质询。
+> > 围绕两级[[Fixed-Effect Model|固定效应]]代数前提、概率公理、基线选择与全量数据复现率，统计学界与比较教育学界展开严格的方法论质询。
 > >
 > > - **[[Christof Wecker]] 等人** 依据两级[[Fixed-Effect Model|固定效应模型]]代数等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审查，判定跨本体范畴的超级元分析在科学上不可行：
 > >   - *数据提取与权重失真*：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%；
 > >   - *文献重叠导致效应量大幅缩减*：容忍 93.3% 文献重叠致网络学习[[Effect Size|效应量]]暴跌并跌破关节点（$0.59 \to 0.23$，排名由 26 跌至 98）；
-> >   - *模型错配与德甲联赛隐喻*：面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重错配，138 个跨本体范畴因素的比较犯了[[Category Mistake|范畴错误]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
-> > - **[[Pierre-Jérôme Bergeron|Bergeron]] 与 Rivard** 从数理统计学底层开展专业审计，确证二阶元分析存在多重不可克服的数理失范，定性其为伪科学纸牌屋：
-> >   - *初等概率计算崩溃*：普通语言效应量（[[Common Language Effect Size|CLES]]）汇报出负概率与超过 100% 的概率，公然违背数学公理；
+> >   - *模型错配与[[Category Mistake|德甲联赛隐喻]]*：面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重错配，138 个跨本体范畴因素的比较犯了[[Category Mistake|范畴错误]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
+> > - **Bergeron 与 Rivard** 从数理统计学底层开展专业审计，确证二阶元分析存在多重不可克服的数理失范，定性其为伪科学纸牌屋：
+> >   - *初等概率计算崩溃*：[[Common Language Effect Size|普通语言效应量]]（[[Common Language Effect Size|CLES]]）汇报出负概率与超过 100% 的概率，公然违背数学公理；
 > >   - *基线比较主观任意*：忽视相对测量本质，基线反转使[[Class Size|班级规模]]从微正（$d=+0.20$）变为有害（$d=-0.20$），混淆现实总体与已发表研究总体（“超市鱼子酱”隐喻）；
 > >   - *公式选择颠倒排名*：受控数值模拟证实组间净差异、组内增长与相关转化三类合法公式对相同数据产出截然相反的排名，排行榜仅反映公式选择而非干预优劣；
 > >   - *相关换算极值发散*：$r \to d$ 换算在 $r \to 1$ 时急剧发散，仅需 $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$ [[Zone of Desired Effects|期望效应区]]，将横向相关包装为因果干预。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]
 > > - **Golovchin** 对 133 项正向效应量开展变差系数（$V_\sigma$）检验，发现总体变差系数高达 56.87%（学生特征 71.24%、学校环境 65.97%），证实效应量呈极端不均匀分布，$d=0.40$ 无法充当普遍有效的因果基准线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
-> > - **Kalmendal 等人** 开展针对全库 322 个影响因素的预注册元科学审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可信度。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
-> > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且控制社会背景后边际效应骤降，全语言案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
-> > - **Terhart 提出双重困境模型** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：有效教学因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
+> > - **Kalmendal 等人** 开展针对全库 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
+> > - **Terhart 提出[[Stability vs. Variability Dilemma|双重困境模型]]** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：[[Effective Teaching|有效教学]]因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
 > > [!axis]- 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
 > > 质询其对教师专业主体的技术化规训、知识产权商业化转化机制以及在国家主权规制中的治理边界。
 > >
-> > - **[[Scott Eacott|Eacott]] 以及 McKnight and Whitburn** 定性其为[[Neo-Taylorism|新泰勒主义]]监控与“[[Cult of the Guru|大师崇拜]]”，将微观教学拆解为原子化可测量单元，以进步主义修辞包装[[Positivism|实证主义]]考核与新自由主义问责。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
-> > - **[[John O'Neill|O'Neill]] 等人以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+> > - **Eacott 以及 McKnight and Whitburn** 定性其为[[Neo-Taylorism|新泰勒主义]]监控与“[[Cult of the Guru|大师崇拜]]”，将微观教学拆解为原子化可测量单元，以进步主义修辞包装[[Positivism|实证主义]]考核与新自由主义问责。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
+> > - **O'Neill 等人以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis]- 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
-> > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性屏蔽。
+> > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。
 > >
-> > - **[[Klaus Nielsen|Nielsen]] 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《可见的学习》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、激进建构主义消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
-> > - **[[Steen Nepper Larsen|Larsen]] 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（DI）证据背后对创造力与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
-> > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景[[Disciplina and Doctrina|规训]]技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
+> > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《[[Visible Learning|可见的学习]]》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、[[Radical Constructivism|激进建构主义]]消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
+> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（DI）证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
+> > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景规训技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 
 
 > [!critique] 批评索引
 > - [[Argument_Snook_2009_NZJES|Snook et al., 2009]] — 新西兰首轮系统学术批判：二阶元分析底层质控缺位、0.40 截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及[[Class Size|班级规模]]与[[Performance Pay|绩效工资]]的政策误用。
 > - [[Argument_Grace_2010_NZJES|Grace, 2010]] — 新西兰论战法理与伦理批判：从大学法定“[[Critic and Conscience of Society|社会的批评者与良知]]”角色出发，指责其排除 70%–80% 结构性背景变量是学术还原论，混淆了学科技术批评与社会良知职能。
 > - [[Argument_Terhart_2011_JCS|Terhart, 2011]] — 首篇国际长篇书评：教学理论教化实质真空（[[Didaktik]] / [[Bildung]]）、波普尔三个世界形式化挪用、双向可见性的福柯式全景规训，以及稳定性与变异性假说下的修补金字塔双重困境。
-> - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与社会经济背景控制批评。
+> - [[Argument_Allerup_2015_Paideia|Allerup, 2015]] — 效应量排名[[Sample Size Determination|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与[[Socioeconomic Status|社会经济背景]]控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]] — 统计学视角审查：CLES 负概率初等计算错误、基线反转致效应量解释颠覆、受控数值模拟证实三类有效公式排名彻底相反、相关向均值差换算极值爆炸（$r=0.196 \to d=0.40$ 仅解释 3.85% 方差）及伪科学定性。
 > - [[Argument_Eacott_2017_SLM|Eacott, 2017]] — 澳大利亚[[School Leadership|学校领导力]]屈从于大师崇拜与新泰勒主义批判。

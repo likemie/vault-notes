@@ -9,7 +9,7 @@ summary: "美国企业家、工业设计师与苹果公司联合创始人，开�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Counterculture Computing]]"
   - "[[Consumer Internet]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Stewart Brand]]"

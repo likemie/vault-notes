@@ -8,7 +8,7 @@ summary: "匹兹堡大学比较教育学教授，1976年比较与国际教育学
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Protean Episteme]]"
   - "[[Unit of Analysis]]"
+  - "[[Developmentalism]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Hegemony]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rolland Paulston
@@ -141,7 +142,7 @@ updated: 2026-10-16
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第四代际批判冲突演进的领军学者，深刻展现了学科[[Epistemology\|认识论]]丝线的重组。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 推动比较分析单位从孤立的民族国家外貌深化拓展至跨国阶级权力与[[Hegemony\|文化霸权]]网络。 |
 > | [[Dependency Theory\|依附理论]] | 理论 | 将第三世界依附理论与中心-外围压迫机制深度整合进比较教育冲突[[Analytic Framework\|分析框架]]。 |
-> | [[World-Systems Theory\|世界体系理论]] | 理论 | 借用长时段世界体系结构解构战后全球资本主义教育发展主义的神话。 |
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 借用长时段世界体系结构解构战后全球资本主义教育[[Developmentalism\|发展主义]]的神话。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 同为第四代批判政治经济学领衔宗师，共同推动以国家和阶级矛盾为中心的教育研究。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 权威评述保尔斯顿 1977 年专论对第四代际冲突范式概念织锦的奠基贡献。 |
 > | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 第三代哥大学派领袖，构成保尔斯顿批评功能均衡论与实证唯方法论的核心学术论敌。 |

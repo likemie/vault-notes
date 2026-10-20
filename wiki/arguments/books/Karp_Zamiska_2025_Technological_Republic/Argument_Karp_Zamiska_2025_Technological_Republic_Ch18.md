@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_display_title: "“An Aesthetic Point of View”"
 argument_kind: "book-chapter"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -63,11 +63,12 @@ related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Confucius]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch18
 
@@ -182,7 +183,7 @@ updated: 2026-10-16
 当代西方科技精英的政治冷漠与道德退缩，深植于 20 世纪人类学与道德哲学的观念演进。
 
 > [!timeline] 道德相对主义与形式[[Value Neutrality|价值中立]]的观念演进
-> - **1934** 鲁斯·本尼迪克特（Ruth Benedict）出版《文化模式》（*Patterns of Culture*），论述所有文化形态一律同等有效（Benedict, 1934; King, 2020）。
+> - **1934** 鲁斯·本尼迪克特（Ruth Benedict）出版《文化模式》（*Patterns of Culture*），论述所有文化形态一律同等有效（Benedict, 1934; [[Argument_King_2020_ECNUROE|King, 2020]]）。
 > - **1959** 列奥·施特劳斯（Leo Strauss）出版《什么是政治哲学？》，警示以科学中立为名的道德迟钝终将演变为文化虚无主义（Strauss, 1959）。
 > - **1975** 彼得·辛格（Peter Singer）出版《动物解放》，奠定[[Effective Altruism|有效利他主义]]（Effective Altruism, EA）哲学基石，将人类与动物福利简化为单一功利指标（Singer, 1975; Scruton, 2000）。
 > - **1993/2005** [[John Rawls|约翰·罗尔斯]]（John Rawls）在《政治自由主义》中倡导政治目标中立，其列出的有限美德清单被指抽空了公共生活的文化特质（Rawls, 2005）。

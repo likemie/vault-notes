@@ -8,7 +8,7 @@ aliases:
 summary: "指使命导向创新政策中摒弃针对个别企业直接补贴的挑选赢家旧模式，转为以重大社会挑战为导向、依托公共动态能力在全经济范围内遴选激励具备转型意愿与协同攻关承诺跨界主体的引领与学习治理机制"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,7 +47,6 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-03

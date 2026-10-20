@@ -9,10 +9,10 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - international-relations
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Value Neutrality]]"
   - "[[Analytical Stance]]"
+  - "[[Geopolitics]]"
+  - "[[Test Production]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
@@ -43,7 +45,6 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Item Response Theory]]"
   - "[[Item Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -52,8 +53,10 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[World Bank]]"
+  - "[[OECD AHELO Project]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-10-14
@@ -171,7 +174,7 @@ updated: 2026-10-20
 > > - **全球公共利益辩护立场** 跨国组织辩护称，在高度互联的全球化时代，单一国家极易陷入目光短浅的地方保护主义，超国家认知共同体提供的国际基准是防范民粹主义决策偏差的有效防线。
 
 > [!warning] 适用局限
-> 认知共同体概念适用于解释技术复杂、专业门槛极高的跨国政策领域；但在高度意识形态极化、社会动员充分或涉及根本主权领土争端的政治议题中，专家网络的影响力极易被地缘政治对抗与主权国家的直接权力博弈所碾压。
+> 认知共同体概念适用于解释技术复杂、专业门槛极高的跨国政策领域；但在高度意识形态极化、社会动员充分或涉及根本主权领土争端的政治议题中，专家网络的影响力极易被[[Geopolitics|地缘政治]]对抗与主权国家的直接权力博弈所碾压。
 
 ---
 
@@ -179,4 +182,4 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 PISA 与 AHELO 试题研发早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。

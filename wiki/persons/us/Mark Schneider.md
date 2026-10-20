@@ -6,7 +6,7 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,7 +38,6 @@ related_concepts:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[National Assessment of Educational Progress]]"
@@ -53,7 +52,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Mark Schneider
@@ -132,7 +131,7 @@ updated: 2026-10-16
 > - **技术生态与敏捷复现** 引入数字实验平台与竞争性奖项机制，改变了传统实地田野试验耗资千万、耗时数年且极难复现的沉重周期，开创了[[Evidence-Based Education\|循证教育]]科学的敏捷迭代机制。
 > - **政策转化与产业化机制** 联合斯坦福国际研究院（Stanford Research Institute, SRI International）将市场化规模化推广条款明确植入资助指南，打破教育科研唯论文发表即结项的象牙塔闭环。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 施奈德系统总结执掌 IES 期间推行 SEER 卓越标准、成本分析服务台、EdInstruments 工具库与数字平台快速复现的实践战略。（pp. 206–209）
 
 ---

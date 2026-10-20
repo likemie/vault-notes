@@ -7,7 +7,7 @@ title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and Education in Spain"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -65,9 +65,10 @@ related_facts:
   - "[[CORE Education]]"
   - "[[Bologna Process]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Times Higher Education World University Rankings]]"
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Garcia_Garrido_2009_SpainEU
 
@@ -253,7 +254,7 @@ updated: 2026-10-16
 
 > [!critique-logic] 大学体制对标的两重假象（pp. 332–333）
 > - **[[Academic Inbreeding|学术近亲繁殖]]（academic inbreeding）的合法化** 历次高等教育立法打着扩大大学自主权的旗号，实则将大学交由自治区操控；加泰罗尼亚或安达卢西亚等大区的高校排斥跨省学者，教师多由本校嫡系内部消化，学术近亲繁殖变本加厉。
-> - **伊拉斯谟生源吸引力的虚假繁荣** 西班牙大学在国际学术排名中位次低迷，无论是软科[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU）还是泰晤士高等教育世界大学排名（Times Higher Education World [[Global Universities Rankings|university rankings]], THE）均表现不彰，却成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]吸引流动学生最多的国家；然而驱动学生前来的并非学术质量与师资声誉，而是语言、气候、低生活成本与休闲资源，将其视作教育质量的证明纯属自我麻痹。
+> - **伊拉斯谟生源吸引力的虚假繁荣** 西班牙大学在国际学术排名中位次低迷，无论是软科[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU）还是[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（Times Higher Education World [[Global Universities Rankings|university rankings]], THE）均表现不彰，却成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]吸引流动学生最多的国家；然而驱动学生前来的并非学术质量与师资声誉，而是语言、气候、低生活成本与休闲资源，将其视作教育质量的证明纯属自我麻痹。
 
 ---
 

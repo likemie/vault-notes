@@ -10,9 +10,9 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 63
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
 tags:
   - method/documentary-analysis
@@ -42,12 +42,16 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Research Utilization]]"
   - "[[Research Universities]]"
+  - "[[Test Production]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Hard Policy Transfer]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Analytic Framework]]"
   - "[[Qualitative Interview]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Internal Consistency]]"
@@ -63,6 +67,7 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 related_facts:
@@ -77,6 +82,7 @@ related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[CHIPS and Science Act]]"
   - "[[International Reading Association]]"
+  - "[[The Green Book]]"
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Developmental Network State]]"
@@ -182,7 +188,7 @@ updated: 2026-10-20
 > [!dimension] 文献分析的三种理论传统（Jupp & Norris, 1993）
 > - **实证主义传统（positivist approach）** 主张客观、系统、理性和量化的研究，寻求文本中的客观事实与频率证据（如 Halstead, 1988 对媒体文献的量化考察）。
 > - **解释性传统（[[Interpretive Paradigm|interpretive approach]]）** 认为包括文献在内的社会现象是社会建构的产物，强调文献的深层意义必须置于其生产与接受的社群语境中阐释。受解释学（hermeneutics）与[[Linguistic Turn|语言学转向]]（linguistic turn）影响，关注意义的文本生产与读者阐释。
-> - **批判传统（critical approach）** 以马克思主义、女性主义或批判话语分析为代表，关注文本中蕴含的权力、控制与意识形态运作。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了[[Market Fundamentalism|市场原教旨主义]]意识形态如何迫使国家研发干预走向隐性运作。
+> - **批判传统（critical approach）** 以马克思主义、女性主义或[[Critical Discourse Analysis|批判话语分析]]为代表，关注文本中蕴含的权力、控制与意识形态运作。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了[[Market Fundamentalism|市场原教旨主义]]意识形态如何迫使国家研发干预走向隐性运作。
 
 ---
 
@@ -233,6 +239,6 @@ updated: 2026-10-20
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] — 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[International Reading Association|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 17–28)]] — 运用政策文献分析（Documentary Analysis）与制度演化分析，系统梳理了《[[CHIPS and Science Act|芯片与科学法案]]》及相关联邦白皮书与产业报告，深入剖析了美国[[Research Universities|研究型大学]]在国家半导体体系中从基础研究引领、人才梯队培养到创新网络建构的角色重构及其制度张力。
 > - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在测验生产早期确立全球教育治理权力的多维机制。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党循证决策治理制度对跨国政策借鉴与评估技术硬转移的驱动机制。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在[[Test Production|测验生产]]早期确立全球教育治理权力的多维机制。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党[[Evidence-Based Policy-Making|循证决策]]治理制度对跨国政策借鉴与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理中国教育部与商务部奖学金政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。

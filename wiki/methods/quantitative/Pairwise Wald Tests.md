@@ -10,7 +10,7 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Cochran's Q Test]]"
   - "[[Fixed-Effect Model]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pairwise Wald Tests
@@ -186,5 +185,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以成对 Wald 检验比较[[Graphic Organizer\|图形组织器]]类型、学段与[[Higher-Order Thinking Skills\|高阶思维]][[Construct|构念]]层级的效应差异，[[Mind Mapping\|思维导图]]效应最大（g = 1.041）。

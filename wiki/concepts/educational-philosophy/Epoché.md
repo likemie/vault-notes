@@ -12,7 +12,7 @@ aliases:
 summary: "胡塞尔先验现象学的核心方法，主张中止对外部客观实在的自然态度并将世界放入括号，直面纯粹意识流与现象本身；在质性研究中延伸为排除偏见的反思态度，在现代工程认识论中延伸为悬置主观评判以直面复杂系统因果链条，在超国家量化治理中进一步体现为将各国历史与制度脉络放入括号以构建全球等值通约空间的权力运作。"
 type: concept
 domain: "educational-philosophy"
-related_count: 47
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Typification]]"
   - "[[Hypothesis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
@@ -56,7 +55,6 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Edmund Husserl]]"
@@ -223,7 +221,7 @@ updated: 2026-10-20
 ### 命题五　超国家量化治理通过系统性悬置本体论多样性构建全球等值通约空间
 
 > [!concept-lens] 超国家治理与权力认识论解构维度
-> 本命题揭示悬置如何从个体反思自律异化为跨国官僚机构的[[Disciplina and Doctrina|规训]]武器，论证依靠[[Governing by Numbers|数字治理]]本质上是对民族国家教育[[Ontology|本体论]]与历史特殊性的强行括弧化。
+> 本命题揭示悬置如何从个体反思自律异化为跨国官僚机构的规训武器，论证依靠[[Governing by Numbers|数字治理]]本质上是对民族国家教育[[Ontology|本体论]]与历史特殊性的强行括弧化。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **制度历史脉络的括弧化与全球[[Space of Equivalence|等值空间]]建构** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]在推行指标、基准与[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等量化测评工具时，在认识论上运作了一种强硬的“本体论悬置”（ontological epoché）。它系统性地将具体民族国家深嵌的历史沿革、制度惯例、文化特殊性与政治争议统统放入括号，制造出一个去语境化、均质化的“全球等值[[Commensuration|通约]]空间”（global space of equivalence）。通过这种悬置，不可比的各国教育实践被强行还原为抽象数字并置于统一标尺之下，使经合组织得以在规避直接主权冲突的前提下行使超国家治理权力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
@@ -275,7 +273,7 @@ updated: 2026-10-20
 > > 悬置究竟是解放认知、澄明现象本然的反思方法，还是强行同质化、消解多元[[Heterogeneity|异质性]]的权力宰制技术。
 > >
 > > - **现象学与批判反思派（Husserl, 1913; Moustakas, 1994）** 将悬置界定为主体为了破除未经审视的理论偏见与教条、保持对经验本真敬畏而采取的方法论自律。
-> > - **全球治理与[[Post-structuralism|后结构主义]]批判派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]; Rose, 1999）** 揭示超国家量化机构将悬置异化为权力技术：通过粗暴悬置本土历史脉络与哲学多元性，制造去语境化的[[Space of Equivalence|等值空间]]，对民族国家施加隐蔽的技术官僚[[Disciplina and Doctrina|规训]]。
+> > - **全球治理与[[Post-structuralism|后结构主义]]批判派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]; Rose, 1999）** 揭示超国家量化机构将悬置异化为权力技术：通过粗暴悬置本土历史脉络与哲学多元性，制造去语境化的[[Space of Equivalence|等值空间]]，对民族国家施加隐蔽的技术官僚规训。
 
 ---
 

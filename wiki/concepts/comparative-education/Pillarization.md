@@ -9,7 +9,7 @@ aliases:
 summary: "荷兰等欧洲低地国家在宗教与意识形态阵营上形成的纵向社会分割体制，天主教、新教、世俗中立等柱体各自拥有独立的学校、政党与社会机构，依靠柱体高层精英妥协维持系统稳定，并在宪法教育自由与财政均等原则下塑造出高度规制且对外部封闭的教育治理生态。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,8 +37,7 @@ related_theories:
   - "[[State Corporatism]]"
   - "[[Neocorporatism]]"
   - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Walter J. M. Kickert]]"
   - "[[Rainer Kattel]]"

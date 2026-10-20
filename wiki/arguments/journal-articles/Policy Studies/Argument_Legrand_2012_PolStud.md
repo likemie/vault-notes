@@ -29,8 +29,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hard Policy Transfer]]"
   - "[[Chain of Evidence]]"
+  - "[[Policy Borrowing]]"
   - "[[Demonstration Effect]]"
   - "[[New Public Management]]"
+  - "[[Heterogeneity]]"
 related_theories:
   - "[[Policy Transfer Framework]]"
   - "[[Human Capital Theory]]"
@@ -66,9 +68,9 @@ title: "Argument_Legrand_2012_PolStud"
 argument_key: "Argument_Legrand_2012_PolStud"
 argument_display_title: "Overseas and over here: policy transfer and evidence-based policy-making"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 31
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Policy Studies"
 book_title: ""
@@ -91,7 +93,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 英国新工党 1997 年执政后的新政（New Deal）劳动力市场与福利改革决策过程，重点考察[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目与内阁高层决策档案。
 > - **张力** 政治意识形态同构论（英美第三条道路共鸣） vs. [[Output-Oriented Governance|循证治理]]驱动论（对实证因果证据充沛性与评估工具的刚性偏好）。
-> - **贡献** 在理论上为[[Policy Transfer Framework|政策转移分析框架]]补充了[[Epistemology|认识论]]驱动维度，在经验上证实了量化评估技术及其实验规程可作为独立的制度载体进行跨国硬转移。
+> - **贡献** 在理论上为[[Policy Transfer Framework|政策转移分析框架]]补充了[[Epistemology|认识论]]驱动维度，在经验上证实了量化评估技术及其实验规程可作为独立的制度载体进行跨国[[Hard Policy Transfer|硬转移]]。
 
 ---
 
@@ -115,14 +117,14 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **精英访谈**<br>[[Elite Interview]] | 深度[[Semi-structured Interview\|半结构化访谈]]直接参与新政政策制定与评估的关键行动者，涵盖英国财政部高级官员、教育与就业部（Department for Education and Employment, DfEE）高层主管、新政特别工作组成员及美国智库政策专家。（pp. 330, 341–342, 348） |
-> | **文献与档案分析**<br>[[Documentary Analysis]] | 系统剖析 1997 至 2011 年间英国政府《[[Modernising Government|现代化政府]]》白皮书、内阁府政策规程（《[[The Green Book\|绿皮书]]》《紫红皮书》）、下议院特别委员会调研报告及就业与养老金部（Department for Work and Pensions, DWP）历年科研出版物。（pp. 330, 335, 342–343） |
+> | **文献与档案分析**<br>[[Documentary Analysis]] | 系统剖析 1997 至 2011 年间英国政府《[[Modernising Government\|现代化政府]]》白皮书、内阁府政策规程（《[[The Green Book\|绿皮书]]》《紫红皮书》）、下议院特别委员会调研报告及就业与养老金部（Department for Work and Pensions, DWP）历年科研出版物。（pp. 330, 335, 342–343） |
 > | **比较政策分析**<br>[[Comparative Policy Analysis]] | 横向比对英国政策官员在筛选外来方案时对美国、瑞典、新西兰及澳大利亚福利与评估模式的选择性采纳与实质性取舍。（pp. 338, 341–342） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **访谈样本** | 1999 年 7 月至 8 月期间对 6 位核心政策决策者进行的[[In-depth Interview\|深度访谈]]：新政特别工作组成员（1人）、高级就业政策顾问（1人）、教育与就业部（DfEE）高级官员（1人）、财政部高级官员（2人）、美国哈德逊研究所（Hudson Institute）政策专家（1人）。（p. 348） |
-> | **官方档案样本** | 1999 年英国《[[Modernising Government|现代化政府]]》白皮书（Cabinet Office, 1999a）、1999 年内阁府《21世纪专业化政策制定》（Cabinet Office, 1999b）、2001 年内阁府《优良政策制定》（Cabinet Office, 2001）、2003 年财政部《绿皮书》（Cabinet Office, 2003a）、2011 年《品红皮书》（Cabinet Office, 2011）及 1998 年下议院社会保障特别委员会报告（House of Commons Social Security Select Committee, 1998）。（pp. 335, 342, 345） |
+> | **官方档案样本** | 1999 年英国《[[Modernising Government\|现代化政府]]》白皮书（Cabinet Office, 1999a）、1999 年内阁府《21世纪专业化政策制定》（Cabinet Office, 1999b）、2001 年内阁府《优良政策制定》（Cabinet Office, 2001）、2003 年财政部《绿皮书》（Cabinet Office, 2003a）、2011 年《品红皮书》（Cabinet Office, 2011）及 1998 年下议院社会保障特别委员会报告（House of Commons Social Security Select Committee, 1998）。（pp. 335, 342, 345） |
 > | **科研数据语料** | 就业与养老金部（DWP）1996 至 2011 年全量公开的实证研究报告（由 1996 年年均 14 篇激增至 2010 年峰值 102 篇）。（p. 330） |
 
 ---
@@ -167,7 +169,7 @@ issuing_organization: ""
 > - **协商性转移（Negotiated Transfer）** 面对[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）或[[World Bank|世界银行]]等国际组织软法建议进行制度调整
 > - **受迫性转移（Direct Coercive）** [[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）等超国家机构通过援助附加条件直接强加法律与制度
 
-既有文献在解释跨国政策借用时，通常将注意力局限于政治同构性或外部结构环境，存在两重显著理论盲区。
+既有文献在解释跨国[[Policy Borrowing|政策借用]]时，通常将注意力局限于政治同构性或外部结构环境，存在两重显著理论盲区。
 
 > [!critique] 既有政策转移解释维度的理论局限
 > - **分类清单缺乏因果解释** 传统的转移模型更偏向描述性的分类框架，未能阐明特定类型转移为何仅在特定国家与时空触发 (Benson & Jordan, 2011; James & Lodge, 2003)。
@@ -185,7 +187,7 @@ issuing_organization: ""
 
 这一治理转型迅速传导至各部委，形成了对量化因果验证结果的刚性科层需求，直接反映在实证科研报告的井喷式增长中。
 
-> [!stat-cards] 英国就业与养老金部科研出版与循证治理深化
+> [!stat-cards] 英国就业与养老金部科研出版与[[Output-Oriented Governance|循证治理]]深化
 > - **14–31** （篇） 1996–2004年间 DWP 年均实证研究报告出版量，反映循证规程起步建立
 > - **102** （篇） 2010年 DWP 科研报告出版峰值，表明循证要求已全面嵌入日常行政运作
 > - **3** （轮） 英国就业保留与晋升示范项目[[Random Assignment|随机分配]]实验开展轮次，开创英国社会政策实验规模之最
@@ -211,7 +213,7 @@ issuing_organization: ""
 
 #### 2. 跨国方案横向比对展现英国决策官僚依据证据完备度进行的理性淘汰
 
-对参与新政设计的核心决策官员开展的深度访谈证实，面对大臣们对实证成效的严苛要求，政策制定者主动调动美国的现成评估数据来为本土改革辩护。
+对参与新政设计的核心决策官员开展的[[In-depth Interview|深度访谈]]证实，面对大臣们对实证成效的严苛要求，政策制定者主动调动美国的现成评估数据来为本土改革辩护。
 
 > [!row-contrast] 跨国备选福利方案的实证评估成熟度对比
 > | 备选国家 | 政策取向与核心机制 | 评估方法论特征 | 英国官方评估判断与取舍抉择 |
@@ -225,14 +227,14 @@ issuing_organization: ""
 
 > [!tension] 证据充沛性与政治辩护效能的双重考量
 > - **因果确证刚需** 面对新政实施后的财政审计与议会监督，政策制定者需要精确测算每项干预带来的净就业增长率，缺乏对照组跟踪的欧洲经验难以满足量化指标要求。（pp. 335, 341）
-> - **话语说服便利** 美国各州实验提供的高降幅数据与现成评估图表，成为官员游说内阁大臣与抵御政治质疑的有力工具。（p. 342）
+> - **[[Discourse|话语]]说服便利** 美国各州实验提供的高降幅数据与现成评估图表，成为官员游说内阁大臣与抵御政治质疑的有力工具。（p. 342）
 
 ---
 
 ### 论证步骤三　跨国借用从政策理念深化为实验评估技术与专业机构的硬转移
 
 > [!claim] 步骤三核心主张
-> 英国从美国吸收的不仅是福利到工作的治理概念与工作优先规范，而且将以随机分配为代表的实证评估规程及美方专业智库成套引入英国本土，实现了政策评估工具与操作规程的跨国硬转移。（pp. 342–344）
+> 英国从美国吸收的不仅是[[Welfare-to-Work|福利到工作]]的治理概念与工作优先规范，而且将以随机分配为代表的实证评估规程及美方专业智库成套引入英国本土，实现了政策评估工具与操作规程的跨国[[Hard Policy Transfer|硬转移]]。（pp. 342–344）
 
 #### 1. 循证导向推动随机分配实验规程突破本土政治伦理争议
 
@@ -249,7 +251,7 @@ issuing_organization: ""
 > [!policy-design] 英国[[Employment Retention and Advancement|就业留任与晋升示范项目]]的核心干预架构
 > - **三类重点目标群体** 涵盖单亲家庭新政（New Deal for Lone Parents, NDLP）参与者、25岁以上长期失业群体新政（New Deal 25 Plus, ND25+）参与者，以及每周工作 16–29 小时并领取工作税收抵免的低收入在职单亲家长。（p. 343）
 > - **双重综合干预手段** 将深入的职业发展咨询与辅导（advancement counselling）与留职现金奖励津贴（financial incentives）紧密结合，跟踪检验受助人员长期的劳动力市场表现。（p. 343）
-> - **跨境专业机构承接** 英国政府直接通过国际政府采购协议委托主持美国同名实验的专业智库——[[MDRC|美国人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC），全权负责英国实验的随机分组规程设计、技术培训与运行审计。（p. 343）
+> - **跨境专业机构承接** 英国政府直接通过国际政府采购协议委托主持美国同名实验的专业智库——美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC），全权负责英国实验的随机分组规程设计、技术培训与运行审计。（p. 343）
 
 实体政策维度的方案借鉴与技术方法维度的硬转移形成了双轨并行的跨国制度流动结构。
 
@@ -261,7 +263,7 @@ issuing_organization: ""
 > | **执行主体** | 英国本土就业服务中心（Jobcentre）官员 | 跨国委托美国专业评估机构（MDRC）全权实施 |
 > | **制度影响** | 推动英国福利向工作优先模式转变 | 将美国社会实验量化传统深度植入英国国家治理体系 |
 
-这一演进逻辑证明，国家治理范式的认识论转型构成了深层的因果纽带。
+这一演进逻辑证明，国家治理[[Paradigm|范式]]的[[Epistemology|认识论]]转型构成了深层的因果纽带。
 
 > [!chain-link] 循证驱动型政策转移的深层因果链条
 > - **前提：新工党确立何者有效循证治理刚性约束**
@@ -278,10 +280,10 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **循证治理重塑政策搜寻动力** 英国新工党将何者有效确立为施政合法性基石，使政策官员在面临紧迫时间表时，必然沿着证据链条主动搜寻具备完备实证评估的海外方案。（pp. 330, 335）
+> 1. **[[Output-Oriented Governance|循证治理]]重塑政策搜寻动力** 英国新工党将何者有效确立为施政合法性基石，使政策官员在面临紧迫时间表时，必然沿着[[Chain of Evidence|证据链]]条主动搜寻具备完备实证评估的海外方案。（pp. 330, 335）
 > 2. **实验数据霸权决定定向对标** 美国福利改革凭借自 1980 年代积累的州级豁免实验与随机对照因果数据，在实证严密性上显著压倒瑞典、新西兰和澳大利亚，成为英国官员决策的首选。（pp. 340–342）
-> 3. **评估技术与机构发生制度硬转移** 跨国借用超越了传统的政策理念与法律文本，美国以随机分配为代表的社会实验规程及美方专业智库 MDRC 被直接引进并植入英国本土。（pp. 342–344）
-> 4. **循证范式呈现跨国二次扩散** 英国在吸收美式经验后建立的高度量化实验治理体制，随后反向作为一种政策典范被荷兰、德国、丹麦和瑞士等欧洲大陆国家所借鉴 (Frey & Ledermann, 2010)。（pp. 344–345）
+> 3. **评估技术与机构发生制度[[Hard Policy Transfer|硬转移]]** 跨国借用超越了传统的政策理念与法律文本，美国以[[Random Assignment|随机分配]]为代表的社会实验规程及美方专业智库 [[MDRC]] 被直接引进并植入英国本土。（pp. 342–344）
+> 4. **循证[[Paradigm|范式]]呈现跨国二次扩散** 英国在吸收美式经验后建立的高度量化实验治理体制，随后反向作为一种政策典范被荷兰、德国、丹麦和瑞士等欧洲大陆国家所借鉴 (Frey & Ledermann, 2010)。（pp. 344–345）
 
 > [!stat-cards]- 核心数据与关键实证指标
 > - **53%** 美国 TANF 受助人数降幅（1996 年 8 月至 2000 年 6 月全美受助者由 1224.1 万人锐减至 578.1 万人，形成强大示范效应）
@@ -323,10 +325,10 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> - **访谈样本的时间与层级局限** 精英访谈集中在 1999 年 7 月至 8 月新政方案成型期的 6 位高层政策制定者与智库专家，虽深度揭示了内阁与中央部委的战略考量，但未能涵盖后续长期政策执行阶段地方就业服务中心（Jobcentre）一线经办官僚的微观实践。（p. 348）
-> - **政策领域实验传统的特殊性** 福利到工作领域在美国具备自 1970 年代中叶以来长达 20 余年的随机对照实验传统与海量数据积累，这种由成熟评估数据驱动跨国转移的机制，在缺乏大规模量化实验传统的政策领域（如外交决策、宪政改革或国家安全危机应对）可能不具有同等解释力。（pp. 331, 344–345）
+> - **访谈样本的时间与层级局限** [[Elite Interview|精英访谈]]集中在 1999 年 7 月至 8 月新政方案成型期的 6 位高层政策制定者与智库专家，虽深度揭示了内阁与中央部委的战略考量，但未能涵盖后续长期政策执行阶段地方就业服务中心（Jobcentre）一线经办官僚的微观实践。（p. 348）
+> - **政策领域实验传统的特殊性** [[Welfare-to-Work|福利到工作]]领域在美国具备自 1970 年代中叶以来长达 20 余年的[[Randomised Controlled Trials|随机对照实验]]传统与海量数据积累，这种由成熟评估数据驱动跨国转移的机制，在缺乏大规模量化实验传统的政策领域（如外交决策、宪政改革或国家安全危机应对）可能不具有同等解释力。（pp. 331, 344–345）
 > - **理性搜寻与事后合理化修辞的边界** 难以在经验上完全剥离战略行动者究竟是纯粹基于客观实证证据做出理性决策，还是主动将美国令人瞩目的降幅数据作为向内阁大臣与公众辩护既定政治议程的事后合法化修辞工具。（pp. 335, 342）
-> - **制度土壤差异对移植成效的制约** 英美两国的劳动力市场规制、医疗保障及社会安全网底线存在结构性异质性，成套引进的随机分配实验技术能否在不同福利体制中产生同等有效的政策改良，仍受制于本土制度情境。（pp. 341, 344）
+> - **制度土壤差异对移植成效的制约** 英美两国的劳动力市场规制、医疗保障及社会安全网底线存在结构性[[Heterogeneity|异质性]]，成套引进的[[Random Assignment|随机分配]]实验技术能否在不同福利体制中产生同等有效的政策改良，仍受制于本土制度情境。（pp. 341, 344）
 
 ---
 

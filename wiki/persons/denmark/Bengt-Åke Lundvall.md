@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,7 +39,6 @@ related_theories:
   - "[[Bounded Rationality]]"
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Bengt-Åke Lundvall]]"

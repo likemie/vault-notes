@@ -7,7 +7,7 @@ aliases:
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从信息来源转变为治理权威的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
   - "[[Constructivist Paradigm]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-24
+updated: 2026-10-20
 ---
 
 # Scientization of Politics
@@ -47,7 +48,7 @@ updated: 2026-09-24
 > [!info]
 > 政策的科学化（scientization of politics）指政策制定者接受"决策应依据科学证据"这一前提，从而使科学知识从决策的信息来源转变为治理合法性的构成性要素([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145–146]])。
 
-这一概念捕捉了全球治理中一个深层转变：当"基于证据的政策"（evidence-based policy）成为被广泛接受的规范时，谁拥有权威知识、谁能生产可靠证据，谁就进入了治理的核心舞台。大学和研究者因此不再是政治决策的外部顾问，而成为治理合法性的共同生产者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])。
+这一概念捕捉了全球治理中一个深层转变：当"基于证据的政策"（[[Evidence-Based Policy-Making|evidence-based policy]]）成为被广泛接受的规范时，谁拥有权威知识、谁能生产可靠证据，谁就进入了治理的核心舞台。大学和研究者因此不再是政治决策的外部顾问，而成为治理合法性的共同生产者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])。
 
 政策的科学化是"科学的政治化"（politicization of science）的反面——两者构成科学-政治关系的一体两面：科学化使科学进入政治，但也为政治操控科学创造了条件([[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]])。
 

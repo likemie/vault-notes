@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,7 +18,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Champ]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Construct]]"
   - "[[Governance by Spin]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Media Logic
@@ -64,7 +63,7 @@ updated: 2026-10-16
 > 媒介逻辑（Media Logic）指大众传媒机构在识别、加工、组织与传播信息时所固有的一整套组织惯例、技术规则、格式规范与符号语法（Altheide & Snow, 1979; Mazzoleni, 2008）。在教育治理与公共政策视阈下，媒介逻辑表现为新闻媒介对负面危机、跨国竞争、人身冲突、即时轰动与极简排列表的系统性偏好；它迫使教育决策者不断积累与动员“媒介资本”（Media Capital），将复杂的长周期教育改革重塑为符合新闻生产规程的耸动警句与危机神话，促成了媒体与政治精英之间的深层共谋（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向媒介[[Champ\|场域]]内部不可还原的生产规则、排版限制与新闻价值系统，以及这一系统对外部政治与教育场域的[[Disciplina and Doctrina\|规训]]力量。
+> - **含义** 指向媒介[[Champ\|场域]]内部不可还原的生产规则、排版限制与新闻价值系统，以及这一系统对外部政治与教育场域的规训力量。
 > - **用途** 帮助研究者透视为何客观、平稳的实证数据（如[[International Large-Scale Assessments\|国际大规模评估]]）进入公共传播后总是被扭曲为“国家危机”，揭示大众传媒如何从单纯的信息传递通道异化为能动性的政治治理力量。
 > - **边界** 媒介逻辑并非媒体记者的个人道德缺陷，而是由商业竞争、版面时间限制及受众注意机制共同决定的结构性制度法则；它不等于一般意义上的“舆论宣传”，而是指制度化运作的传播语法。
 

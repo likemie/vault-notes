@@ -23,9 +23,9 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Dialogue in Education]]"
   - "[[Problem-Posing Education]]"
-related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_theories:
+  - "[[Theory of Mind]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Codification（生存境遇编码）
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将编码作为[[Problem-Posing Education\|提问式教育]]的具象探究中介。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105, 引自 Darwish, 2009)]]
-> - **2005 — 批判识字推广** 希尼（ToM Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens\|(Heaney, 2005; Darwish, 2009, p. 53)]]
+> - **2005 — 批判识字推广** 希尼（[[Theory of Mind|ToM]] Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens\|(Heaney, 2005; Darwish, 2009, p. 53)]]
 
 ---
 
@@ -132,5 +132,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 记录[[Paulo Freire\|弗莱雷]]如何将泥砖照片制成编码诱导蔗农开展批判性解构。

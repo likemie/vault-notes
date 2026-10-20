@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_facts:
   - "[[Japan Innovation Policy System]]"
   - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
   - "[[Tsukuba Science City]]"
+  - "[[ASEAN]]"
   - "[[Korea Innovation Policy System]]"
   - "[[OECD]]"
   - "[[Morrill Land-Grant Act of 1862]]"
@@ -87,7 +88,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2026
 doi: ""
 citation_aliases:
@@ -393,7 +394,7 @@ citation_aliases:
 > [!info] 人才与国际合作
 > 人才培养方面，日本成为除欧美外获得诺贝尔奖最多的国家。1996—2000年推出"博士等1万人支援计划"，2020年实施"加强研究能力和支持青年研究人员综合一揽子计划"，第六期基本计划配套推出近40项研究人才支援制度。实施"国际卓越研究大学"计划和"顶尖全球化大学计划"提升师资国际化水平(pp.51–52)。
 >
-> 国际合作方面，日本积极开展与美国、欧盟的联合研究，依托APEC科技创新政策伙伴关系和东盟—日本科学技术合作委员会推动区域合作。2023年《综合创新战略2023》以"开放科学"和"AI广岛进程"为引领，通过G7等多边机制开展战略性科技外交(p.52)。
+> 国际合作方面，日本积极开展与美国、欧盟的联合研究，依托APEC科技创新政策伙伴关系和[[ASEAN|东盟]]—日本科学技术合作委员会推动区域合作。2023年《综合创新战略2023》以"开放科学"和"AI广岛进程"为引领，通过G7等多边机制开展战略性科技外交(p.52)。
 
 > [!example] 验证：新材料产业的精准突破
 > 日本在碳纤维、半导体材料、显示材料、精细陶瓷、有机EL材料等领域长期保持全球领先。国立材料研究所数据显示，飞机与汽车用碳纤维、海水淡化逆渗透薄膜、有机EL材料等产品全球市场份额均超过50%(pp.52–53)。

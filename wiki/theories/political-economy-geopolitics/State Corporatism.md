@@ -9,7 +9,7 @@ aliases:
 summary: "国家政权自上而下通过行政特许、强制规训与庇护网络将工人、教师、学生等社会群体编入单一垄断性代表机构的政治治理模式，在教育领域表现为执政同盟将教育政策作为补偿性合法化手段以维护国家霸权"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Research Question]]"
   - "[[Conatus]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Hegemony]]"
@@ -32,7 +31,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Carlos Alberto Torres]]"
@@ -172,7 +170,7 @@ updated: 2026-10-20
 > > - **[[Carlos Alberto Torres]]（1991）** 在拉美外围国家，国家法团主义是统治阶级建立代用国家、阻碍大众阶级意识觉醒的霸权武器。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 阐明国家法团主义在 20 世纪拉美的维稳功能，同时指出新自由主义市场化削弱了其物质基础，迫使国家转向更加裸露的市场[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 阐明国家法团主义在 20 世纪拉美的维稳功能，同时指出新自由主义市场化削弱了其物质基础，迫使国家转向更加裸露的市场规训。
 
 ---
 

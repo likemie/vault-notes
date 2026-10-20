@@ -9,10 +9,10 @@ aliases:
 summary: "指教育研究与学校实践之间的系统性脱节：研究者与实践者常被形容为在两个分离的世界里工作，既是系统层面的常见障碍，也是贯穿各层级的跨层关系机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/research-use
   - topic/educational-policy
@@ -44,7 +44,6 @@ related_methods:
   - "[[Framework Synthesis]]"
   - "[[Questionnaire]]"
   - "[[Action Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research-Practice Gap
@@ -187,6 +186,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 把研究-实践鸿沟作为系统层面障碍（$k = 13$）记录，并在关系治理机制中将其识别为贯穿各层级的核心表现。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] 深入剖析德语区教育研究与教师教育之间的转移困境（Transferproblem），系统论证了[[Clearing House Unterricht\|慕尼黑工业大学教学清算中心]]（CHU）以[[Meta-analysis\|元分析]]为证据基底、通过受众适配加工与乘数群体专业支持弥合鸿沟的运行架构与实证成效。

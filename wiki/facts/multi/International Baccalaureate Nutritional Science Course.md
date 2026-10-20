@@ -7,7 +7,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Experiential Learning]]"
 related_methods:
   - "[[Fieldwork]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[International Baccalaureate Applied Chemistry Course]]"

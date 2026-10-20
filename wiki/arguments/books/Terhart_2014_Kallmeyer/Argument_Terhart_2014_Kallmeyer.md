@@ -7,13 +7,13 @@ title: "Argument_Terhart_2014_Kallmeyer"
 argument_key: "Argument_Terhart_2014_Kallmeyer"
 argument_display_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 argument_kind: "edited-volume"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
-  - "Terhart, E."
+  - "[[Ewald Terhart|Terhart, E.]]"
 book_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 publication_place: "Seelze"
 publisher: "Kallmeyer in Verbindung mit Klett"
@@ -34,10 +34,11 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
   - "[[Hilbert Meyer]]"
 status: "draft"
 created: "2026-10-17"
-updated: "2026-10-17"
+updated: 2026-10-20
 ---
 
 # Argument_Terhart_2014_Kallmeyer
@@ -46,7 +47,7 @@ updated: "2026-10-17"
 
 > [!volume-profile] 阅读档案
 > - **书名** 《[[John Hattie|哈蒂]]研究讨论，让问题可见》（Die Hattie-Studie in der Diskussion: Probleme sichtbar machen，中文题名为暂译）。
-> - **编者** 埃瓦尔德·特哈特（Ewald Terhart）。
+> - **编者** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）。
 > - **出版信息** 2014 年第 1 版，Seelze，Kallmeyer in Verbindung mit Klett。
 > - **原文语言** 德语，TXT 保留德文原文。
 > - **材料边界** 当前依据版权页、目录、前言及各篇起止页建立阅读入口，尚未进行论证解读。
@@ -73,7 +74,7 @@ updated: "2026-10-17"
 ### 研究解读与教学论讨论
 
 > [!chapter-index] 德文原文入口
-> - **第 1 篇，学校与教学研究的圣杯找到了吗** Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit [[Visible Learning]]。Ewald Terhart，原书 pp. 10–23。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。待解读。
+> - **第 1 篇，学校与教学研究的圣杯找到了吗** Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit [[Visible Learning]]。[[Ewald Terhart]]，原书 pp. 10–23。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch01_Terhart_Holy_Grail_of_Educational_Research.txt)。待解读。
 > - **第 2 篇，学校中什么最有效** What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen。Olaf Köller，原书 pp. 24–37。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch02_Koller_What_Works_Best_in_School.txt)。待解读。
 > - **第 3 篇，依据[[John Hattie|哈蒂]]，越频繁就越好吗** Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort。Hans Brügelmann，原书 pp. 38–50。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch03_Brugelmann_Evidence_and_Local_Practice.txt)。待解读。
 > - **第 4 篇，哈蒂是否建立了一种一般教学论** Evidence-Based Teaching: Hat John Hattie eine Allgemeine [[Didaktik]] entwickelt?。Hans-Joachim von Olberg，原书 pp. 51–66。[TXT](../../../../raw/Terhart_2014_Kallmeyer_txt/Ch04_VonOlberg_Evidence_Based_Teaching.txt)。待解读。

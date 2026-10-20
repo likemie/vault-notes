@@ -63,10 +63,10 @@ related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Delphi Technique]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Observation Method]]"
   - "[[External Auditor]]"
   - "[[Case Study]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Kurt Lewin]]"
   - "[[Stephen Kemmis]]"
@@ -88,7 +88,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Action Research
 
@@ -201,7 +201,7 @@ updated: 2026-10-16
 > [!proc] 综合八阶段操作程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 279–280]]）
 > 1. **识别、评价和表述问题** 从日常教学情境中明确亟待改进的核心议题或创新需求。
 > 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导假设与合作伦理边界。
-> 3. **审查[[Correlational Research\|相关研究]]文献** 研读既有文献，借鉴类似干预的成熟程序与教训。
+> 3. **审查相关研究文献** 研读既有文献，借鉴类似干预的成熟程序与教训。
 > 4. **重新界定并聚焦问题** 将宽泛问题提炼为具体可检验的假设或行动目标。
 > 5. **选择研究设计与程序** 确定抽样、材料、教学方案与资源配置，灵活嵌入准实验、[[Questionnaire\|问卷]]或案例分析。
 > 6. **确立持续评价标准** 制定明确、可操作的形成性与总结性评价准则。
@@ -296,7 +296,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.9)]] — 系统阐释行动研究的历史渊源、核心特征、九步螺旋程序及三种本土群体研讨工具。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 全面梳理行动研究的定义谱系、21项特征、温特六原则与[[Stephen Kemmis\|凯米斯]]核心原则、三分类型学及[[Reflexivity\|反身性]]困境。
 > - [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–68)]] — [[International Schools Examination Syndicate\|国际学校考试辛迪加]]将[[International Baccalaureate\|国际文凭]]项目组织为六年行动研究，在真实教学与升学过程中检验课程可行性。

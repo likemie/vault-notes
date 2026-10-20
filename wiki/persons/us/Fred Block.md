@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Network Governance]]"
   - "[[Market Fundamentalism]]"
+  - "[[Geopolitics]]"
   - "[[Public-Private Partnership]]"
   - "[[Institutional Displacement]]"
   - "[[Embedded Network Governance]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fred Block
@@ -98,7 +99,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思布雷顿森林体系崩溃背后的地缘政治经济逻辑。
+> - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思布雷顿森林体系崩溃背后的[[Geopolitics|地缘政治]]经济逻辑。
 >   - **代表著作** *The [[ROOTS]] of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
 >   - **关键概念／方法** 国家自主性、后工业转型、制度结构分析。
 >   - **阶段转向** 从结构马克思主义国家争论转向经验历史制度分析与[[Post-Fordism|后福特制]]组织演变。

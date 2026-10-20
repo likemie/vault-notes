@@ -31,7 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Global Citizenship]]"
   - "[[Time-Space Compression]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Soft Policy Transfer]]"
   - "[[State Educational Sovereignty]]"
   - "[[Champ]]"
   - "[[Determinism]]"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Falsification]]"
   - "[[Permeable State]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Rich and Thick Description]]"
   - "[[Historical Amnesia]]"
 related_theories:
@@ -60,7 +61,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Comparative Case Study]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Cost-Benefit Analysis]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
@@ -138,7 +138,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球化绝非单向均质的技术与理念扩散，而是一场由自上而下的超国家资本[[Disciplina and Doctrina|规训]]与自下而上的本土民主抗争共同构成的辩证博弈过程。比较教育学者必须确立贯通宏观世界体系与微观学校课堂的“双重视野”，既要看清国际金融机构、世贸规约与非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱与依附固化，又要尊重基层教师、学生与草根社会运动在微观[[Champ|场域]]中的反抗、变通与跨国联合潜能，为开辟自下而上的全球社会民主提供理论支撑。
+> 全球化绝非单向均质的技术与[[Soft Policy Transfer|理念扩散]]，而是一场由自上而下的超国家资本规训与自下而上的本土民主抗争共同构成的辩证博弈过程。比较教育学者必须确立贯通宏观世界体系与微观学校课堂的“双重视野”，既要看清国际金融机构、世贸规约与非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱与依附固化，又要尊重基层教师、学生与草根社会运动在微观[[Champ|场域]]中的反抗、变通与跨国联合潜能，为开辟自下而上的全球社会民主提供理论支撑。
 
 > [!citation-card] 全球与本土辩证法的核心论断
 > 全球化不仅是一种自上而下施加给社会的外部力量，也是一种自下而上重构社会关系的本土实践过程。比较教育的核心任务，正是揭示全球性资本和制度逻辑如何与地方性的历史、文化和阶级斗争发生充满张力的辩证互动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–110)]]
@@ -201,7 +201,7 @@ updated: 2026-10-20
 > [!debates] 学术争议
 >
 > > [!axis] 宏观世界体系批判 vs 新自由主义全球治理倡导
-> > 争论焦点在于国际金融与经贸机构（[[World Bank|世界银行]]、[[World Trade Organization|世贸组织]]）推行的[[Educational Privatisation|教育私有化]]、绩效问责与服务贸易，究竟是提升教育质量的客观规律，还是服务于跨国资本积累的[[Disciplina and Doctrina|规训]]霸权。
+> > 争论焦点在于国际金融与经贸机构（[[World Bank|世界银行]]、[[World Trade Organization|世贸组织]]）推行的[[Educational Privatisation|教育私有化]]、绩效问责与服务贸易，究竟是提升教育质量的客观规律，还是服务于跨国资本积累的规训霸权。
 > >
 > > - **新自由主义与技术官僚支持者** 坚持主张市场竞争、教育券与[[Cost-Benefit Analysis|成本效益分析]]能够提高教育系统效率与[[Competitiveness|国家竞争力]]。
 > > - **阿诺夫批判学派 (Arnove, 1980, 2009)** 严厉指出，跨国经贸规则与金融借贷严重侵蚀民族国家的教育主权，在边缘国家不仅未能实现结构性变革，反而固化了国内外既有的阶层剥削与依附格局。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–111)]]

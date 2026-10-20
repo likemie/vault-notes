@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 76
+method_related_count: 75
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#fef3c7"
@@ -79,7 +79,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
   - "[[Website Content Analysis]]"
   - "[[Classroom Observation]]"
   - "[[Group Interview]]"
@@ -103,7 +102,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Mixed Methods Research
@@ -344,7 +343,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 论述混合方法的[[Pragmatic Paradigm\|实用主义范式]]与设计类型；数据收集时序见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7]]，[[Virtual World\|虚拟世界]]研究的应用见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Ch. 19]]。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 232]] — 奠定混合方法与多方法的核心区分，规范聚敛式、解释序列与探索序列三大核心设计及[[Joint Display\|联合展示]]规程。
 > - [[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 6]] — 追踪教育心理学期刊中混合方法的使用占比（6%）及其包含[[Recommendations for Practice\|实践建议]]的高比例特征（60%）。

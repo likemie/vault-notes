@@ -13,7 +13,7 @@ aliases:
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,8 +32,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Assemblage]]"
   - "[[PISA Shock]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Relational Space]]"
   - "[[European Education Space]]"
   - "[[Bureaucracy]]"
@@ -47,7 +47,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Bruno Latour]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Topological Spatialisation
@@ -148,7 +147,7 @@ updated: 2026-10-16
 > 剖析微观复杂的师生互动与学校教学如何被提炼为可移动数据，并在中心节点生成治理效力。
 
 > [!claim] [[Bruno Latour\|Latour, B.]]; [[Sigrid Hartong\|Hartong, S.]]
-> **标准化数据表征的流动性、稳定性与可组合性** 依据布鲁诺·拉图尔（Bruno Latour）的[[Actor-Network Theory\|行动者网络理论]]，拓扑空间的维系取决于中心能否生产出流动、稳定且可组合的标准化数据表征（inscriptions）。在德国教育监测重组中，IQB 扮演了典型的国家[[Center of Calculation\|计算中心]]角色。它将各州异质的学生表现转化为标准化的常模分数与素养层级，通过教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）对多源数据集（PISA、[[TIMSS]]、[[IQB-Bildungstrend]]、VERA）进行二次汇聚与交叉建模；这些在数学上高度[[Commensuration\|通约]]的数据不仅支持了跨州学业趋势对比，更通过数字平台向基层教师定向推送对齐标准的教学任务，使国家中心在不具备直接雇佣和人事处分权的情况下，完成了对一线学校的远程拓扑[[Disciplina and Doctrina\|规训]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 138, 144–145]]）。
+> **标准化数据表征的流动性、稳定性与可组合性** 依据布鲁诺·拉图尔（Bruno Latour）的[[Actor-Network Theory\|行动者网络理论]]，拓扑空间的维系取决于中心能否生产出流动、稳定且可组合的标准化数据表征（inscriptions）。在德国教育监测重组中，IQB 扮演了典型的国家[[Center of Calculation\|计算中心]]角色。它将各州异质的学生表现转化为标准化的常模分数与素养层级，通过教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）对多源数据集（PISA、[[TIMSS]]、[[IQB-Bildungstrend]]、VERA）进行二次汇聚与交叉建模；这些在数学上高度[[Commensuration\|通约]]的数据不仅支持了跨州学业趋势对比，更通过数字平台向基层教师定向推送对齐标准的教学任务，使国家中心在不具备直接雇佣和人事处分权的情况下，完成了对一线学校的远程拓扑规训（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 138, 144–145]]）。
 
 ---
 
@@ -158,7 +157,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **尺度穿透与制度重组命题** | 数据基础设施在保持名义分权结构的同时实现跨尺度的拓扑连通与软性协同 | 联邦制国家教育改革、跨国[[Policy Mobility\|政策流动]]与多级治理协调 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 143)]]; Savage (2016) |
-> | **数据表征转译与[[Governing at a Distance\|远程治理]]命题** | 计算中心通过标准化数据表征将微观教学折叠进宏观监测网络中行使[[Governing at a Distance\|远距离治理]] | 国家级测评中枢、大规模数据库建设与循证政策制定 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 138)]]; Latour (1987); Rose (1999) |
+> | **数据表征转译与[[Governing at a Distance\|远程治理]]命题** | 计算中心通过标准化数据表征将微观教学折叠进宏观监测网络中行使[[Governing at a Distance\|远距离治理]] | 国家级测评中枢、大规模数据库建设与[[Evidence-Based Policy-Making\|循证政策制定]] | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 138)]]; Latour (1987); Rose (1999) |
 
 ---
 
@@ -201,7 +200,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合拓扑空间化与[[Assemblage\|政策装配]]理论，深入考察德国 [[PISA]] 震荡后[[Institute for Educational Quality Improvement\|IQB]] 作为[[Center of Calculation\|计算中心]]与跨州[[Data Infrastructure\|数据基础设施]]如何重塑联邦教育治理格局。
 > - Allen (2011) — 奠定拓扑权力与空间性理论基石，系统阐释基于连接、触达与折叠的新型空间权力形式。
 > - Ruppert (2012) — 考察国家数据库设备的治理拓扑学，阐释数字数据如何重新划定治理客体与主体边界。

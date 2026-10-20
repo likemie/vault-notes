@@ -9,7 +9,7 @@ summary: "中国现代哲学家、文学家、外交官，新文化运动与五�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,8 +31,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Falsification]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Jiang Menglin]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Hu Shi
@@ -117,7 +116,7 @@ updated: 2026-10-16
 > - **方法路径** 普及“大胆假设，小心求证”，将[[Scientific Method\|科学方法]]引入中国人文与社会科学研究。
 > - **跨国转译与双刃剑效应** 作为[[John Dewey\|杜威]]在华首席翻译，其明星效应极大地放大了杜威思想的影响力，但其极端化转译也使[[Pragmatic Paradigm\|实用主义]]更容易遭到传统主义与马克思主义的双重攻击。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 详细分析了胡适对杜威实用主义的极端化转译、反迷信立场及在华翻译中介作用。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 分析了胡适等哥大精英网络在五四时期推动新教育改革的角色。
 

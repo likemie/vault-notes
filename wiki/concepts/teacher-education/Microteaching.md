@@ -9,7 +9,7 @@ aliases:
 summary: "在规模精简（5-10名学生、5-20分钟）的受控模拟情境中，依托单一技能分解、视听录像客观回放与‘备课-授课-评议-重教’迭代循环，支持教师开展高密度刻意练习与反思性诊断的临床师资培养模式。"
 type: concept
 domain: "teacher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Ewald Terhart]]"

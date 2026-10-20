@@ -24,6 +24,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Externalization]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Geopolitics]]"
   - "[[Policy Brokerage]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Window]]"
@@ -47,7 +48,6 @@ related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reference Society
@@ -77,7 +77,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受地缘政治关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
+> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受[[Geopolitics|地缘政治]]关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种被社会系统在内部主动“投射”和“建构”出的外部理想范本，用以为国内备受争议的改革方案提供不可抗拒的外部合法性与理性依据。
@@ -210,7 +210,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]] [[PISA]] 如何通过设立参考社会驱动全球教育[[Policy Borrowing\|政策借用]]，详细剖析芬兰、上海、韩国和南锥体国家的参照机制与文化偏见。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 运用[[Wight's Three Traditions of International Theory\|国际关系三大传统]]解构现实主义比较教育中的参考社会与反参考社会，剖析地缘霸权与制度榜样的共生关系。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合施赖弗[[Externalization\|外化]]假说与 [[World Education Reform Database\|WERD]] 数据库，对比[[OECD\|经合组织]]外向型同行参照社会与[[World Bank\|世界银行]]自指性中介机制的治理异同。

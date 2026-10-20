@@ -9,7 +9,7 @@ summary: "美国哲学家与组织学习学者，反思性实践理论奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -45,8 +45,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Construct]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Learning by Doing]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Legitimation Crisis]]"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Action Research]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -155,7 +154,7 @@ updated: 2026-10-20
 > - **[[Professional Judgment|专业判断]]与双环决策整合（[[Critique of Evidence-Based Education|循证教育批判]]路径）**
 >   安妮·克沃尔特鲁普（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）将舍恩的反思性实践与西蒙的[[Bounded Rationality|有限理性]]结合，指出教师面临海量且不可化约的情境不确定性，必须依靠反思性实践构筑真正的[[Professional Judgment|专业判断]]防线，抵御机械循证问责的去专业化侵蚀。
 > - **教育行政合法化与循证神话解构（政策社会学路径）**
->   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将舍恩的[[Technical Rationality|技术理性]]批判延伸至当代[[Evidence-Based Education|循证教育]]合成体系；一方面结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论，揭示教育行政官僚系统采纳《[[Visible Learning|可见的学习]]》手段-目的因果承诺以平息治理危机的机制；另一方面细读其底层[[Meta-analysis|元分析]]数据，揭示其工程化[[Independent Variable|自变量]]还原在微观教学中诱发了[[Construct|构念]]混淆、阶级盲偏误与[[Neo-Taylorism|新泰勒主义]]劳动[[Disciplina and Doctrina|规训]]。
+>   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]; [[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将舍恩的[[Technical Rationality|技术理性]]批判延伸至当代[[Evidence-Based Education|循证教育]]合成体系；一方面结合[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论，揭示教育行政官僚系统采纳《[[Visible Learning|可见的学习]]》手段-目的因果承诺以平息治理危机的机制；另一方面细读其底层[[Meta-analysis|元分析]]数据，揭示其工程化[[Independent Variable|自变量]]还原在微观教学中诱发了[[Construct|构念]]混淆、阶级盲偏误与[[Neo-Taylorism|新泰勒主义]]劳动规训。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将舍恩的反思性实践模型与西蒙有限理性理论整合，构建教师专业判断的[[Analytic Framework|理论分析框架]]（p. 6）。

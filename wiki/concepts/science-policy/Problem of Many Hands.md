@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络与层叠制度中，由于行动者增厚与权责边界重叠，导致无法将系统后果归咎于任何单一主体的责任困境与治理病理。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,8 +35,7 @@ related_theories:
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jeroen van der Heijden]]"
 confidence: high

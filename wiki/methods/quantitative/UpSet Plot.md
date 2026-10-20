@@ -8,7 +8,7 @@ summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # UpSet Plot
@@ -159,5 +158,5 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 在《[[Visible Learning\|可见的学习]]》156 项一阶[[Meta-analysis\|元分析]]的大模型提取评测中绘制图 3，以 UpSet Plot 揭示 7 组编码主体在 468 个数据点上的全维交集分布，精准证实完全一致高达 59.8%，而既有数据库独有单方失误达 12.2%。

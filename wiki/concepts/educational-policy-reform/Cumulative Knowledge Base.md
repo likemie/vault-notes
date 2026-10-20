@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Cumulative Knowledge Base
@@ -239,5 +238,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 提出建构准普遍公认的累积性知识基石命题，论证单体机构受制于政治与预算周期的生存悖论，阐明通过二阶[[Systematic Review\|系统综述]]与“中介的中介”元网络凝聚跨国证据共识的必由之路。

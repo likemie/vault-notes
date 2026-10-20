@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 39
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -44,7 +44,6 @@ related_theories:
 related_methods:
   - "[[Typological Analysis]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"

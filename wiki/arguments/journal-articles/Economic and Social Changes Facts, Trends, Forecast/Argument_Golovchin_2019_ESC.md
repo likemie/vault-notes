@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -30,10 +30,11 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Research Scope]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Microteaching]]"
+  - "[[Teacher Clarity]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Self-control]]"
   - "[[Formative Assessment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Ecological Validity]]"
@@ -73,7 +74,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2019
 doi: "10.15838/esc.2019.5.65.15"
 citation_aliases:
@@ -168,7 +169,7 @@ citation_aliases:
 > - **负面效应区（\(d < 0\)）** 指不仅无益反而导致学业倒退的因素，如暑期退步、留级、频繁转学、依赖救济和过多看电视。（p.234）
 > - **自然成长区（\(d = 0\)–\(0.15\)）** 指即便不进学校也能自然获得的微弱增长，如教师学历（0.11）和教师专业学科知识（0.09），被判定为对提升学业基本无用。（p.234）
 > - **中低效应区（\(d = 0.15\)–\(0.40\)）** 相当于学生在校常规学习一年达成的效果，如教师常规影响（0.32）、使用计算器（0.27）、小班教学（0.21）和家庭结构（0.17）。（p.234-235）
-> - **[[Zone of Desired Effects|期望效应区]]（\(d > 0.40\)）** 被视为最值得投入的高回报因素，如微格教学实操（0.88）、教学清晰度（0.75）、良好的[[Student-Teacher Relationship|师生关系]]（0.72）以及及时的形成性反馈（0.90）。（p.235）
+> - **[[Zone of Desired Effects|期望效应区]]（\(d > 0.40\)）** 被视为最值得投入的高回报因素，如[[Microteaching|微格教学]]实操（0.88）、[[Teacher Clarity|教学清晰度]]（0.75）、良好的[[Student-Teacher Relationship|师生关系]]（0.72）以及及时的形成性反馈（0.90）。（p.235）
 
 > [!index-table] 表 1：Hattie 元分析中各影响源的效应量两极分布（Table 1, p.233）
 > | 影响来源 | 平均效应量（\(d\)） | 最低效应因素 | 最低值 | 最高效应因素 | 最高值 |
@@ -187,7 +188,7 @@ citation_aliases:
 ### 论证步骤二　西方既有批评指出了方法缺陷但缺乏数理验证
 
 > [!claim] 步骤二核心主张
-> 西方同行已从元分析方法缺陷与文化政治[[Disciplina and Doctrina|规训]]两个维度系统指责了 Hattie 模式的脆弱性，但由于这些批评大多停留在理论阐述层面，未能直接使用数学方法检验其数据的稳定性。（p.235-238）
+> 西方同行已从元分析方法缺陷与文化政治规训两个维度系统指责了 Hattie 模式的脆弱性，但由于这些批评大多停留在理论阐述层面，未能直接使用数学方法检验其数据的稳定性。（p.235-238）
 
 #### 1. 方法层面的质疑：二阶汇总的典型通病
 
@@ -302,7 +303,7 @@ citation_aliases:
 
 > [!finding-cards] 核心发现
 > 1. **数理检验否定了 Hattie [[Effect Size|效应量]]分布的稳健性** Hattie 纳入的 133 项正值效应量总体变差系数达到 56.87%，所有六个分项（38.57%–71.24%）均超过 33% 的同质性安全标准，证实底层数据极度离散波动，缺乏有效的数据质量把控。(p.239)
-> 2. **填补了西方批评长于思辨而短于实测的空白** 西方学者虽然指出了多重方法问题（数据老化、强行平均、抽离因果）与管理[[Disciplina and Doctrina|规训]]风险（行政敞视、去专业化），但在本研究之前均未直接通过数学工具检验其效应量数据集的内在稳定性。(p.236-238)
+> 2. **填补了西方批评长于思辨而短于实测的空白** 西方学者虽然指出了多重方法问题（数据老化、强行平均、抽离因果）与管理规训风险（行政敞视、去专业化），但在本研究之前均未直接通过数学工具检验其效应量数据集的内在稳定性。(p.236-238)
 > 3. **去专业化导向违背了俄罗斯队伍建设的现实需要** Hattie 将专业学科知识与[[Normal School|师范教育]]贬低为次要因素（\(d=0.10\)），这与俄教育部降低准入门槛的改革形成负面共振，会进一步侵蚀俄罗斯教师本就微弱的职业认同。(p.239-240)
 > 4. **推行量化监控极易诱发教师大规模流失的制度风险** 俄罗斯近八成教师深陷文书报表困扰，超四分之一想离职者归咎于行政压力；若生搬硬套外来量化监控体系，将激化教师集体逃离岗位的严重后果。(p.240-241)
 

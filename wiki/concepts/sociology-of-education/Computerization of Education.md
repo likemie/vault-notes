@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cognitive Deskilling]]"
   - "[[Alien Intelligence]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Learned Helplessness]]"
   - "[[Epistemic Malformation]]"
   - "[[Reliability]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Computerization of Education
@@ -111,7 +110,7 @@ updated: 2026-10-15
 
 ### 命题一　应试标准化与高利害测验驱动了读写教育向计算机信息处理能力的异化对齐
 
-> [!concept-lens] 课程社会学与政策[[Disciplina and Doctrina|规训]]维度
+> [!concept-lens] 课程社会学与政策规训维度
 > 探讨标准化测验如何重塑课程形态，使人类读写教育向机器算力优势退化。
 
 > [!claim] Collin & Applebee

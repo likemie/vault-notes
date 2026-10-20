@@ -7,10 +7,10 @@ title: "Argument_Johnson_2023_CritEduc"
 argument_key: "Argument_Johnson_2023_CritEduc"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 50
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 49
+argument_related_level: 4
+argument_related_stars: "💎⭐"
+argument_related_color: "#dbeafe"
 journal: "Critical Education"
 authors:
   - "Johnson, G. R."
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Post-Fordism]]"
   - "[[Barometer of Achievement]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Learning Intentions]]"
   - "[[Sage]]"
   - "[[Academic Achievement]]"
@@ -216,7 +215,7 @@ updated: 2026-10-20
 > 2. **行政监控软件开发** 哈蒂出版该书前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，明确提出支持管理层对全校 6 个科目的软件使用情况进行全网实时追踪。（p. 28）
 > 3. **管理图表视觉迁移** VL 书中反复出现的[[Barometer of Achievement|气压计图表]]（气压计图表 / Barometer graphics）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的控制逻辑。（p. 28）
 
-管理工具确立后，正文通过贬抑一线教师的专业判断，为自上而下的技术[[Disciplina and Doctrina|规训]]确立正当性。（pp. 28–29）
+管理工具确立后，正文通过贬抑一线教师的专业判断，为自上而下的技术规训确立正当性。（pp. 28–29）
 
 > [!policy-context] 贬抑基层专业性的意识形态功能
 > 将教师的经验交流斥为缺乏科学依据的轶事传闻，不仅是推销自上而下管理处方的手段，更在公众心目中削弱了对公立教师群体的信赖，为外部商业机构进驻公立学校创造了便利条件。（pp. 28–29）

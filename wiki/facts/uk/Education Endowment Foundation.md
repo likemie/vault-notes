@@ -35,6 +35,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[School Inspection]]"
   - "[[Statistical Analysis Plan]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Metacognition]]"
   - "[[Social-Emotional Learning]]"
   - "[[Discourse]]"
@@ -87,7 +88,6 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Systematic Review]]"
   - "[[Multi-Arm Trial]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
@@ -281,14 +281,14 @@ updated: 2026-10-20
 > [!pathways]- 业务运行与生态化转化机制
 > - **因果证据生成机制** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test\|前测]]-后测大规模 [[Randomised Controlled Trials\|RCT]] $\to$ 在国际标准随机对照试验编码（[[ISRCTN\|International Standard Randomised Controlled Trial Number]]，ISRCTN）[[Preregistration\|预注册]]方案与[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP） $\to$ 统一归档至[[National Pupil Database\|国家学生数据库]]（NPD）并发布完全公开的独立评估报告。
 > - **多维证据合成** 组织顶尖学者对全球数千项[[Meta-analysis\|元分析]]与本土试验进行二次综合，定期迭代《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并推进编码上万项研究的教育数据库（Education Database）。
-> - **校本落地渗透** 通过研究学校网络开展系统培训，指导校领导根据[[Pupil Premium\|学生津贴]]账目开展循证决策。
+> - **校本落地渗透** 通过研究学校网络开展系统培训，指导校领导根据[[Pupil Premium\|学生津贴]]账目开展[[Evidence-Based Policy-Making|循证决策]]。
 
 ---
 
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **循证决策工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（[[Months of Progress]]）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_ROE\|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, pp. 110–111]])
+> - **[[Evidence-Based Policy-Making|循证决策]]工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（[[Months of Progress]]）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_ROE\|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, pp. 110–111]])
 > - **权威结局度量工具库与实证数据库（Databases）** 为从源头上提升干预评估的心理计量质量，构建由三大国家级度量数据库（[[SPECTRUM]] 非认知测量库、[[Academic Achievement\|学业成就]]测量库 [Attainment Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database) 与学前早期测量库 [Early Years Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）以及深度编码上万项研究的全球教育活数据库（EEF Education Database）构成的量化基础设施。
 > - **前沿实践指导报告体系（Guidance Reports）** 针对[[Metacognition\|元认知]]、中小学读写、数学、[[Social-Emotional Learning\|社会情感学习]]（SEL）与助教配置等高优先级教学领域发布操作细化的循证行动指南，成为指导全英逾 85% 校长分配[[Pupil Premium\|学生津贴]]的核心准则。
 > - **大规模现场 [[Randomised Controlled Trials\|RCT]] 知识库与国家数据归档（Trials & NPD Archive）** 累计资助开展逾 200 项大规模学校现场 [[Randomised Controlled Trials\|RCT]]（85% 达 3 把挂锁以上），并依托英格兰[[National Pupil Database\|国家学生数据库]]（NPD）建立全球首个试验微观数据开放归档库，实现全样本长期因果追踪。
@@ -431,7 +431,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪[[Venture Philanthropy\|风险慈善]]在公立教育中的兴起，揭示 EEF 创始背景与麦肯锡全球网络的渊源、联合澳大利亚联邦银行向 [[Evidence for Learning\|E4L]] 注资搭建私营试验原型的机制，以及 EEF 创始 CEO 凯文·柯林斯入驻 [[Australian Education Research Organisation\|AERO]] 专家委员会实现跨国[[Policy Network\|政策网络]]闭环的制度过程。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership\|学校领导]]者经验，揭示英格兰高利害督导与市场化问责体制如何异化 EEF 工具包为[[Performativity|表演性]]合规的防御工具与财政紧缩下的裁员借口。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 揭示 EEF 财政溯源悖论（源自削减免费校餐沉淀资金）、母体[[Sutton Trust\|萨顿信托]]与 [[Impetus]] 的跨国金融资本网络及向澳大利亚（[[Social Ventures Australia\|SVA]]/[[Evidence for Learning\|E4L]]/[[Australian Education Research Organisation\|AERO]]）的制度输出。

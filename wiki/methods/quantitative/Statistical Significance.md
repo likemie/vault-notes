@@ -49,7 +49,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -136,6 +136,6 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 
 > [!evidence-grid-a] 相关案例索引
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size\|效应量]]阈值组合成项目评级规则（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）
-> - [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials\|RCT]]、[[Quasi-Experimental Designs\|QED]] 和[[Correlational Research\|相关研究]]与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.109]]）
+> - [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials\|RCT]]、[[Quasi-Experimental Designs\|QED]] 和[[Correlational Research\|相关性研究]]与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.109]]）
 > - [[Visible Learning]] — Hattie 将 $d = 0.40$ 作为实践阈值，但该值与显著性的关系依赖[[Sample Size Determination\|样本量]]（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）
 

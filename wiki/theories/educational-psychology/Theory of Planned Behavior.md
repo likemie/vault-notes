@@ -7,7 +7,7 @@ aliases:
 summary: "由 Icek Ajzen 提出的社会心理学经典行为决策理论，主张个体的行为意向由行为态度、主观规范与知觉行为控制共同决定，且知觉行为控制与意向共同直接预测外显行为。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 24
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,7 +39,6 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Theory of Planned Behavior
@@ -159,5 +158,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将计划行为理论与[[Research Utilization\|研究利用]]模型整合，以意识为背景、态度为意向、技能为知觉行为控制、使用为目标行为，构建 20 题四维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]并实证检验其心理测量学特质。

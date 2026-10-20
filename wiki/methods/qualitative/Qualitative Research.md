@@ -53,7 +53,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Analytic Generalization]]"
   - "[[Heterogeneity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
   - "[[Causality]]"
   - "[[Big Science]]"
@@ -112,6 +111,7 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[Keith Morrison]]"
+  - "[[Ewald Terhart]]"
   - "[[Ivan Snook]]"
   - "[[Richard J. Shavelson]]"
 related_facts:
@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Qualitative Research
@@ -144,7 +144,7 @@ updated: 2026-10-17
 > [!def] 方法定义
 > 质性研究（Qualitative Research）是一种以[[Interpretive Paradigm\|诠释范式]]与[[Constructivist Paradigm\|社会建构主义]]为[[Epistemology\|认识论]]根基，旨在探索和理解个体或群体赋予社会与人类问题之主观意义的探究路径（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 17]]）。研究过程在参与者身处的自然情境中展开，依托[[Researcher as Key Instrument\|研究者作为关键工具]]收集多重质性材料，遵循自下而上的归纳式与迭代式分析程序生成范畴与主题，并通过[[Rich and Thick Description\|深描]]展现情境复杂性。书面报告结构灵活生动，强调展现多元主体视角与研究者的[[Reflexivity\|反身性]]立场。
 >
-> 在方法分类谱系中，质性研究属于不操纵自[[Variable\|变量]]的[[Non-intervention Research\|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/[[Correlational Research\|相关研究]]及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
+> 在方法分类谱系中，质性研究属于不操纵自[[Variable\|变量]]的[[Non-intervention Research\|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/[[Correlational Research\|相关性研究]]及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 行动者的主观生命体验、意义建构过程、微观交往互动、制度文化仪式、政策在地落实历程与[[Discourse|话语]]实践。
@@ -295,8 +295,8 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > [!method-limits] 方法局限与宏观批判
 > - **推广性受限与情境绑定** 质性研究追求[[Analytic Generalization\|分析性推广]]与可转移性，其结论深度依存于具体田野的时空语境，无法直接外推至[[Heterogeneity\|异质性]]总体。
 > - **研究者主观性与反应性偏差** 研究者进入现场必然对被研究者产生干扰与反应性（Reactivity），访谈言语容易受到受访者社会赞许性与防备心理的过滤。
-> - **忽视宏观权力与微观浪漫主义批判** [[John Rex\|约翰·雷克斯]]（John Rex, 1974）、[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（[[Basil Bernstein]], 1974）与[[Keith Morrison\|基思·莫里森]]（Keith Morrison, 2009）深刻指出：质性诠释进路容易陷入微观乌托邦与主观浪漫主义，将社会结构虚幻地描绘为个体完全自由协商的产物，却在[[Epistemology\|认识论]]上遮蔽了宏观阶级结构、制度性不平等以及权力对微观互动的深层[[Disciplina and Doctrina\|规训]]与宰制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 26]]）。
-> - **宏观量化综合中的经验偏倚与质性证据边缘化** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在评析《[[Visible Learning|可见的学习]]》国际论辩时引述埃瓦尔德·特哈特（Ewald Terhart）与[[Ivan Snook|伊万·斯努克]]（Ivan Snook）等学者的批判指出，以[[Meta-analysis|元分析]]为主导的宏观循证模式存在严重的“经验偏倚（empirical bias）”：研究往往将视野严格局限于可被量化编码的单向度指标，全盘排斥质性研究证据。然而，学校与课堂中关涉交往沟通、师生信任、伦理价值与主观理解的[[CORE Education|核心教育]]现象，根本无法通过标准化统考测验与统计[[Effect Size|效应量]]予以还原，唯有依靠质性研究进路才能达成深层理解；盲目排斥质性成果不仅导致量化排名的解释力严重空心化，更容易催生教学实践的去专业化危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236–237, 240)]]
+> - **忽视宏观权力与微观浪漫主义批判** [[John Rex\|约翰·雷克斯]]（John Rex, 1974）、[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（[[Basil Bernstein]], 1974）与[[Keith Morrison\|基思·莫里森]]（Keith Morrison, 2009）深刻指出：质性诠释进路容易陷入微观乌托邦与主观浪漫主义，将社会结构虚幻地描绘为个体完全自由协商的产物，却在[[Epistemology\|认识论]]上遮蔽了宏观阶级结构、制度性不平等以及权力对微观互动的深层规训与宰制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 26]]）。
+> - **宏观量化综合中的经验偏倚与质性证据边缘化** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在评析《[[Visible Learning|可见的学习]]》国际论辩时引述[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）与[[Ivan Snook|伊万·斯努克]]（Ivan Snook）等学者的批判指出，以[[Meta-analysis|元分析]]为主导的宏观循证模式存在严重的“经验偏倚（empirical bias）”：研究往往将视野严格局限于可被量化编码的单向度指标，全盘排斥质性研究证据。然而，学校与课堂中关涉交往沟通、师生信任、伦理价值与主观理解的[[CORE Education|核心教育]]现象，根本无法通过标准化统考测验与统计[[Effect Size|效应量]]予以还原，唯有依靠质性研究进路才能达成深层理解；盲目排斥质性成果不仅导致量化排名的解释力严重空心化，更容易催生教学实践的去专业化危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236–237, 240)]]
 > - **政策制定中的[[Paradigm|范式]]排他性遭遇与国家立法的等级规制** 在自上而下的循证政策规制浪潮中，质性研究曾遭遇严重的法定贬抑与排除：
 >   - 在 1998 年《[[Reading Excellence Act]]》与国家阅读专家组（[[National Reading Panel|NRP]]）报告中，官方将“科学”狭隘锚定为实验/[[Randomised Controlled Trials|RCT]]，系统性排斥质性探究；
 >   - 在 2000 年国会卡斯尔草案（H.R. 4875）中，立法者甚至试图在成文法中直接确立等级清单，将[[Narrative Analysis|叙事分析]]、[[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、[[Case Study|案例研究]]与[[Ethnography|民族志]]明文贬低为仅供在因素尚未明晰时开展的“初步形式”（Preliminary Form），强制要求事后必须通过量化假设检验予以确证；
@@ -307,7 +307,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 ## 与相近方法的辨析
 
 > [!method-stack] 质性研究与相近研究路径的界限
-> - **vs 观察/[[Correlational Research\|相关研究]]** 两者皆不操纵[[Variable\|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview\|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
+> - **vs 观察/[[Correlational Research\|相关性研究]]** 两者皆不操纵[[Variable\|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview\|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
 > - **vs [[Mixed Methods Research\|混合方法研究]]** 混合方法研究在同一研究中对量化与质性数据进行深层整合；纯质性研究则完全依托质性数据链条（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1]]）。
 > - **vs [[Intervention Research\|干预研究]]** 质性研究聚焦理解自然发生的情境与过程；干预研究则主动施加控制性处理以检验因果假设（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 2]]）。
 
@@ -333,7 +333,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 系统评析质性[[Interpretive Paradigm\|诠释范式]]的发展渊源，揭示教室互动[[Rich and Thick Description\|深描]]超越机械行为量化的方法学意义。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详尽规范质性研究九大特征、数据收集类型、七步分析规程与效度检验策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice\|实践建议]]中的[[Causality\|因果推断]]边界。

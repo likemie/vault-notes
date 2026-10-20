@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Mentorship]]"
   - "[[Scaffolding]]"
+  - "[[Generic Skills]]"
   - "[[Variable]]"
 related_theories:
   - "[[Ennis's Curricular Typology]]"
@@ -39,7 +40,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[California Critical Thinking Skills Test]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -147,7 +147,7 @@ updated: 2026-10-16
 > [!ma-table]- [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 基于德尔菲双元框架的[[Meta-analysis\|元分析]]实证成果
 > | 德尔菲[[Construct\|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% [[Confidence Interval\|CI]] | 核心实证结论 |
 > |---|---|---|---|---|
-> | **通用认知技能维度** | 标准化测试（$k = 341$） | **$g+ = 0.30$** | [0.25, 0.34] | 证实德尔菲六大技能可通过教学干预实现普遍提升。 |
+> | **[[Generic Skills\|通用认知技能]]维度** | 标准化测试（$k = 341$） | **$g+ = 0.30$** | [0.25, 0.34] | 证实德尔菲六大技能可通过教学干预实现普遍提升。 |
 > | **学科特异技能维度** | 学科自编与标准测验（$k = 97$） | **$g+ = 0.57$** | [0.47, 0.68] | 技能在具体学科情境中呈现更强的近迁移增益。 |
 > | **情意倾向维度** | CCTDI 等自陈量表（$k = 25$） | **$g+ = 0.23$** | [0.06, 0.40] | 证实七大情意倾向具有后天可塑性（导师制下达 $g+ = 0.38$）。 |
 
@@ -155,7 +155,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 全文以 APA 德尔菲专家共识为理论基底与[[Variable\|变量]]编码标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis\|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。

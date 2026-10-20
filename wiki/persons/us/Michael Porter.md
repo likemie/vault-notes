@@ -35,6 +35,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Discourse]]"
   - "[[Agglomeration Externalities]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Empiricism]]"
@@ -50,7 +51,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Fieldwork]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Bengt-Åke Lundvall]]"
@@ -80,7 +80,7 @@ updated: 2026-10-20
 > - **核心角色** 当代竞争战略与产业集群理论的开创者。在产业经济学与管理学界奠定了五力模型与价值链理论；在创新经济学中，其 1990 年《[[National Competitive Advantage|国家竞争优势]]》提出的“钻石模型”（Diamond Model）成为[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]文献的重要参照；在[[Critical Geopolitics|批判地缘政治学]]中，其理论被定性为塑造全球枢纽与[[Space of Flows|流动空间]]想象（Hub-and-[[Flow]] Imaginaries）的关键[[Discourse|话语]]来源。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 > - **代表贡献** 国家竞争优势理论与钻石模型；产业集群（Industrial Clusters）与[[Agglomeration Externalities|空间集聚外部性]]分析；企业竞争战略与五力[[Analytic Framework|分析框架]]。
 
-> [!citation-card] 莫伊西奥论波特理论的地缘政治构成性角色
+> [!citation-card] 莫伊西奥论波特理论的[[Geopolitics|地缘政治]]构成性角色
 > 迈克尔·波特关于国家竞争优势的论述超越了企业管理学范畴，成为一种强有力的地缘政治想象。波特的论述扮演了杰索普（Jessop, 2005）所界定的“构成性和履行性”角色——它不仅描摹了全球竞争的现实，更通过重塑政策制定者的空间认知，直接催生了国家冠军城市与区域创新集群的激进政策实践。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 >
 > *"Porter’s argument about the competitive advantage of nations went beyond business management to constitute a performative geopolitical imaginary, remaking territorial policies worldwide."*
@@ -111,7 +111,7 @@ updated: 2026-10-20
 >   - **代表著作** *The Competitive Advantage of Nations* (1990); *On Competition* (1998).
 >   - **关键概念／方法** [[National Competitive Advantage|国家竞争优势]]、钻石模型、产业集群（Industrial Clusters）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 >   - **阶段转向** 否定了传统古典经济学单纯依赖初级要素禀赋的静态比较优势假说，论证了国家和区域通过本土制度、教育投入与良性国内竞争动态“创造”高级要素的核心机制。
-> - **2000s 至今 — 创造共享价值与全球空间政策[[Discourse|话语]]** 拓展至企业社会责任、医疗健康战略与地缘政治空间经济学，其集群论断广泛演化为全球各国的城市与[[Innovation Ecosystem|创新生态]]政策。
+> - **2000s 至今 — 创造共享价值与全球空间政策[[Discourse|话语]]** 拓展至企业社会责任、医疗健康战略与[[Geopolitics|地缘政治]]空间经济学，其集群论断广泛演化为全球各国的城市与[[Innovation Ecosystem|创新生态]]政策。
 >   - **代表著作** *Redefining Health Care* (2006); *Creating Shared Value* (2011).
 >   - **关键概念／方法** 共享价值（Shared Value）、[[Hub and Flow Imaginaries|枢纽与流动想象]]、[[Innovation Ecosystem|创新生态系统]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 >   - **阶段转向** 理论外溢至公共政策与地缘政治领域，成为国家参与全球知识竞争的话语工具。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 > - **理论路径** [[National Competitive Advantage|钻石模型]]直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
 > - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象假设。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、[[EU|欧盟]]委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
-> - **批判性地缘政治学[[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的[[Discourse|话语]]被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
+> - **批判性[[Geopolitics|地缘政治学]][[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的[[Discourse|话语]]被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 援引波特的全球化悖论与钻石模型，论证跨国公司的核心技术根植于母国，肯定波特关于国家制度环境不可替代性的核心论断（pp. 20–21）。
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 > [!person-network] 关系网络
 > - **思想共振者与理论对话者** [[Chris Freeman]] — 弗里曼在[[National Innovation System|国家创新系统]]历史考察中直接援引波特理论，共同捍卫国家创新制度环境面对全球化冲击的不可替代性。
-> - **批评与理论解构者** [[Critical Geopolitics|批判地缘政治学]]派（如 [[Sami Moisio]], [[Bob Jessop]]）— 将波特从客观管理学者重新定性为新自由主义地缘政治想象的建构者。
+> - **批评与理论解构者** [[Critical Geopolitics|批判地缘政治学]]派（如 [[Sami Moisio]], [[Bob Jessop]]）— 将波特从客观管理学者重新定性为新自由主义[[Geopolitics|地缘政治]]想象的建构者。
 > - **政策承接机构** [[OECD|经济合作与发展组织]]（OECD）— 将波特的集群竞争框架转化为各成员国科技政策与区域创新政策的推荐标准。
 
 ---

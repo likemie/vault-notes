@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Traveller Education]]"
   - "[[Nomadic Education]]"
   - "[[Temporalization of Space]]"
+  - "[[Developmentalism]]"
   - "[[European Education Space]]"
   - "[[Study Population and Sample]]"
   - "[[Lifelong Learning]]"
@@ -109,7 +110,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** [[EU|欧洲联盟]]（European Union，EU）与美国教育政策关于学生流动的官方[[Discourse|话语]]，以及中国、美国、西班牙、英国与印度的移民、少数族裔与流动儿童就学案例。
-> - **核心张力** 精英自主跨国求学所获得的赞美，与底层被动转学所遭遇的污名化之间的阶层反差；国家推行[[Sedentarism|定居主义]][[Disciplina and Doctrina|规训]]与边缘群体维护生存自主权之间的持续博弈。
+> - **核心张力** 精英自主跨国求学所获得的赞美，与底层被动转学所遭遇的污名化之间的阶层反差；国家推行[[Sedentarism|定居主义]]规训与边缘群体维护生存自主权之间的持续博弈。
 > - **理论洞见** 打破将空间视为中立地理容器的传统假定，提出结合空间[[Governmentality|治理术]]与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]的分析路径。
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-20
 > | **社会制图学**<br>[[Social Cartography]] | 吸收[[Rolland Paulston\|罗兰·保尔斯顿]]（Rolland Paulston）的认知制图方法，用平铺的学术地图展示并列共存的多元理论范式，破除线性演进历史观对边缘经验的抹杀。 |
 
 > [!warrant]- 空间理论与教育制度分析的结合路径
-> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的[[Disciplina and Doctrina|规训]]技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
+> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的规训技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
 
 ---
 
@@ -167,7 +168,7 @@ updated: 2026-10-20
 
 ### 步骤一　现代学校通过划分领地与空间规训将流动人口转化为可治理的客体
 
-> [!claim] 核心判断：空间并非被动的地理舞台，而是现代国家[[Disciplina and Doctrina|规训]]流动人口、维护社会秩序的治理技术
+> [!claim] 核心判断：空间并非被动的地理舞台，而是现代国家规训流动人口、维护社会秩序的治理技术
 > [[Enlightenment|启蒙运动]]以来的西方思想习惯将空间从属于时间，将地理差异理解为文明的演化阶段，在观念上把非西方群体贬抑为原始落后；引入[[Spatial Governmentality|空间治理术]]理论可以发现，国家通过在地理上划定边界、将人流转化为统计数据，赋予了学校固定人群与筛选资格的双重职能。（pp. 359–361）
 
 #### 1. 启蒙思想将地理差异折算为文明演化时差，在观念上确立了西方对边缘群体的优越地位
@@ -204,7 +205,7 @@ updated: 2026-10-20
 
 > [!feature] 比较教育学空间转向的学术脉络演进
 > - **[[Social Cartography|社会制图学]]（[[Social Cartography]]）的确立** [[Rolland Paulston|罗兰·保尔斯顿]]（Paulston, 1997, 2000）将空间隐喻转化为制图分析方法，用二维平面图谱平铺展示相互竞争的学术思想（如功能主义、冲突论、解释学与[[Postmodernism|后现代主义]]），以不同思想流派之间的拓扑距离与对话取代单一真理垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
-> - **跨国教育空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持发展主义依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺沃亚与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
+> - **跨国教育空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持[[Developmentalism|发展主义]]依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺沃亚与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
 
 ---
 
@@ -375,7 +376,7 @@ updated: 2026-10-20
 > *Looking globally and comparatively across education research on 'student mobility' exposes a deep contradiction: in some settings this is a cherished objective and key desideratum of educational policy; in others it is woeful problem to be stemmed and urgently managed. In fact, it is quite rare to find any middle ground between the valorizing and excoriating perspectives.*
 
 > [!citation-card] [[Plyler v. Doe 1982|普莱勒诉多伊案]]与无证移民受教育权
-> 在美国，自 1982 年最高法院对普莱勒诉多伊案做出裁决以来，宪法平等保护条款被判定赋予非法移民儿童享有免费公立教育的权利。尽管并非美国所有流动学生都处于无证状态，但这一判决对于规范流动学生的教育供给具有决定性意义。尽管中美父母的务工场景完全相反，但文件登记与身份政治却是两者的共同特征，再次凸显学校是[[Disciplina and Doctrina|规训]]流动并制造可治理人口的核心场所。（pp. 365–366）
+> 在美国，自 1982 年最高法院对普莱勒诉多伊案做出裁决以来，宪法平等保护条款被判定赋予非法移民儿童享有免费公立教育的权利。尽管并非美国所有流动学生都处于无证状态，但这一判决对于规范流动学生的教育供给具有决定性意义。尽管中美父母的务工场景完全相反，但文件登记与身份政治却是两者的共同特征，再次凸显学校是规训流动并制造可治理人口的核心场所。（pp. 365–366）
 >
 > *In the United States, since the 1982 Plyler v. Doe Supreme Court decision, the equal protection clause of the constitution has been held to grant to the children of illegal aliens the right to a free, public education. Though not all migrant students in the US are of 'undocumented status,' this decision was pivotal in regularizing the provision of education to migrant students.*
 

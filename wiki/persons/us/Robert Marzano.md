@@ -8,7 +8,7 @@ summary: "美国教育学者，循证教育与教学改革先驱，首创将元�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

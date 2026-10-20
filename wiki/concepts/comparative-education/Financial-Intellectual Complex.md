@@ -8,10 +8,10 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - world-bank
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Policy Conditionalities]]"
   - "[[Research Scope]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Knowledge Bank]]"
@@ -52,7 +51,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Comparative Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Joel Samoff]]"
@@ -82,7 +80,7 @@ updated: 2026-10-20
 > 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的[[Policy Conditionalities|政策附加条件]]重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示多边金融机构不仅是资本贷方，更是具有强烈意识形态导向和[[Disciplina and Doctrina|规训]]效能的全球知识垄断生产者。
+> - **含义** 揭示多边金融机构不仅是资本贷方，更是具有强烈意识形态导向和规训效能的全球知识垄断生产者。
 > - **用途** 帮助研究者洞察[[International Education|国际教育]]援助与债务附加条件背后所谓客观中立证据的资本逻辑与权力不对称。
 > - **边界** 区别于单纯的学术思想流派或无信贷约束力的跨国智库；该复合体具备将知识成果直接转化为超国家主权贷款硬性约束的制度强制力。
 
@@ -141,7 +139,7 @@ updated: 2026-10-20
 > 探讨国际多边金融组织如何超越纯粹的资金中介角色，通过定向经费委托与[[Policy Conditionalities|政策附加条件]]的双重锁链，将发展中国家的主权教育规划纳入跨国新自由主义轨道。
 
 > [!claim] [[Joel Samoff|Samoff, J.]]
-> **智力垄断与信贷合流** [[World Bank|世界银行]]是追求知识与专业技能跨国化的金融-智识复合体核心枢纽，其利用庞大信贷预算招揽受雇专家共同体，使科研课题紧紧依附于贷款审批逻辑。这种合流剥夺了第三世界借贷国独立探索教育发展模式的自主空间，使[[International Education|国际教育]]援助沦为主权债务[[Disciplina and Doctrina|规训]]的延伸机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> **智力垄断与信贷合流** [[World Bank|世界银行]]是追求知识与专业技能跨国化的金融-智识复合体核心枢纽，其利用庞大信贷预算招揽受雇专家共同体，使科研课题紧紧依附于贷款审批逻辑。这种合流剥夺了第三世界借贷国独立探索教育发展模式的自主空间，使[[International Education|国际教育]]援助沦为主权债务规训的延伸机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 
@@ -182,7 +180,7 @@ updated: 2026-10-20
 > - **1980 — 独立研究帝国奠基** [[World Bank|世界银行]]发表《教育部门政策文件》，单方面终结对[[UNESCO|教科文组织]]的技术依附，开启由华盛顿总部集中统摄的教育政策与收益率计量帝国。
 > - **1992/1993 — 财智复合体批判确立** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的结构调整本质。
 > - **1994 — 高教领域与企业联盟亲和拓展** [[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky）深入阿根廷高教案例，揭示世行如同跨国[[Business Roundtable|商业圆桌会]]议般推动高等教育商业化与学费成本分摊。
-> - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将财智复合体纳入新自由主义国家规训分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 
@@ -191,7 +189,7 @@ updated: 2026-10-20
 > [!debates] 理论争议
 >
 > > [!axis] 技术中立的循证开发工具 vs. 资本驱动的知识新殖民体系
-> > 争论以[[World Bank|世界银行]]为核心的[[Categorical Funding|委托研究]]是帮助贫困国家优化资源配置的客观科学工具，还是推行[[Washington Consensus|华盛顿共识]]新自由主义[[Disciplina and Doctrina|规训]]的意识形态武器。
+> > 争论以[[World Bank|世界银行]]为核心的[[Categorical Funding|委托研究]]是帮助贫困国家优化资源配置的客观科学工具，还是推行[[Washington Consensus|华盛顿共识]]新自由主义规训的意识形态武器。
 > >
 > > - **新古典经济学派与世行官方团队** 认为成本效益与回报率估算提供了跨国可比的客观证据，有助于克服[[Development Education|发展中国家教育]]系统的寻租低效与腐败。
 > > - **批判政治经济学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 80–81]])** 指出复合体通过挑选特定模型排斥阶级公平与主权民主，实质是跨国资本积累在外围国家的制度性护航。
@@ -219,6 +217,6 @@ updated: 2026-10-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育结构调整与新自由主义[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育结构调整与新自由主义规训。
 
 ---

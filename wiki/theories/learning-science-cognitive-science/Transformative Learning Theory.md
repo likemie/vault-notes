@@ -9,10 +9,10 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 29
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/adult-learning
   - theme/higher-education
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Grandes Ecoles]]"
   - "[[Critical Pedagogy]]"
-  - "[[Mind Mapping]]"
   - "[[Research Universities]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
@@ -44,7 +43,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Paulo Freire]]"
@@ -89,7 +87,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 理论版本与贡献
 > - **1990s — 认知理性向全人视角的争论与扩展** Dirkx 等学者批评 Mezirow 过度偏重认知反思与理性对话，主张纳入情感、直觉、潜意识与灵性维度的多向度转化。
-> - **2000s — 社会批判与权力结构维度强化** [[Critical Pedagogy|批判教育学]]者将转化学习与[[Social Justice Theory|社会正义理论]]交融，强调不仅关注个人[[Mind Mapping|心智图]]式转化，更要反思阻碍社会公平的意识形态与制度性霸权。
+> - **2000s — 社会批判与权力结构维度强化** [[Critical Pedagogy|批判教育学]]者将转化学习与[[Social Justice Theory|社会正义理论]]交融，强调不仅关注个人心智图式转化，更要反思阻碍社会公平的意识形态与制度性霸权。
 > - **2010s–2020s — 高等教育学者专业发展与工程跨学科转型** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将转化学习理论引入高水平[[Research Universities|研究型大学]]应对《[[CHIPS and Science Act|芯片与科学法案]]》的学者专业发展中，证实结构化的国家战略工作坊能够促成传统工程与理科学者的参照框架转变，使其深刻体认到科学工程事业背后的政策与国家治理维度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---

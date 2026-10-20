@@ -7,7 +7,7 @@ aliases:
 summary: "一种整合个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并以三类维度的组合轮廓检验理论位置。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 16
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_methods:
   - "[[Factor Mixture Modeling]]"
   - "[[Cluster Analysis]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic and Ontological Cognition
@@ -111,5 +110,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al., 2010]] — 该研究通过[[Factor Mixture Modeling\|因子混合模型]]检验 EOCD 模型；12个领域轮廓中8个符合预设，因此结论是部分支持。

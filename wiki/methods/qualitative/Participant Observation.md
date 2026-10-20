@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 51
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -61,7 +61,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[In-depth Interview]]"
   - "[[Observation Method]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[National Research Council]]"
@@ -76,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Participant Observation
@@ -210,7 +209,7 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > - **Patrick（1973）** 在格拉斯哥帮派中保持隐蔽身份四个月，在目击谋杀时面临角色、伦理与人身安全之间的极端张力；
 > - **Willis（1977）** 作为“班级成员而非教师”长期沉浸，对工人阶级反叛男孩的亚文化与反学校行为展开深度观察。
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, pp. 290–293)]] — 将参与观察列为个案研究的核心方式；研究者角色光谱见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|pp. 425–430]]，观察者角色连续体、[[Field Notes\|田野笔记]]与饱和见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|pp. 456–472]]。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003, pp. 33–34)]] — 详尽考证 2000 年卡斯尔草案（H.R. 4875）将参与观察明文法定贬低为“初步形式”的历史事件，阐明学术界如何依据“方法契合[[Research Question|研究问题]]”原则为现场沉浸观察争取同等科学合法性。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–131)]] — 阐明比较教育学立足自然情境探索变异的本质特征，指出参与观察作为核心一手调查方法打破了早期对[[Primary and Secondary Documents|二手文献]]诠释的狭隘依赖。

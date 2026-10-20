@@ -32,6 +32,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
   - "[[Rich and Thick Description]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Implementation Fidelity]]"
   - "[[Professional Judgment]]"
 related_methods:
@@ -39,7 +40,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
 related_theories:
@@ -47,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Profession-Sensitive Conceptualisations of Research Use
@@ -170,12 +170,12 @@ updated: 2026-10-15
 >
 > > [!axis] 专业自主权 vs 循证标准化
 > >
-> > - **证据本位政策制定者** 担忧过度强调教师的情境裁决与价值筛选会导致循证干预的“[[Implementation Fidelity\|实施保真度]]”（Implementation Fidelity）下降，削弱改革效果。
+> > - **[[Evidence-Based Policy-Making|证据本位政策制定]]者** 担忧过度强调教师的情境裁决与价值筛选会导致循证干预的“[[Implementation Fidelity\|实施保真度]]”（Implementation Fidelity）下降，削弱改革效果。
 > > - **专业敏感型研究者** 强调缺乏教师主动整合与[[Professional Judgment\|专业判断]]的机械照搬必然在复杂的学校生态中失效，真正的有效性源自情境化适配。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 7–8)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 系统论证了构建专业敏感型概念化的紧迫性与核心维度，为第四代[[Research Utilization\|研究使用]]研究确立了理论框架。

@@ -7,7 +7,7 @@ aliases:
 summary: "指超越特定专业学科知识、可跨领域迁移的高阶认知与社会行为能力复合体，核心涵盖批判性思维、分析推理、劣构问题解决与书面沟通，已成为现代高等教育质量保障与跨国学习成效测量的关键构念与争议焦点。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Hard Policy Transfer]]"
   - "[[Habitus]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Space of Equivalence]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge-Based Economy]]"
@@ -44,7 +43,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons: []
@@ -129,7 +127,7 @@ updated: 2026-10-20
 ### 命题二　通用技能是超国家组织建构全球等值空间与推行新自由主义治理的核心技术通货
 
 > [!concept-lens] 治理技术与教育目的异化维度
-> 探讨跨国组织如何借由通用技能概念将高等教育质量转换为同质化可比的统计序列，服务于劳动力市场的[[Human Capital Theory|人力资本]][[Disciplina and Doctrina|规训]]。
+> 探讨跨国组织如何借由通用技能概念将高等教育质量转换为同质化可比的统计序列，服务于劳动力市场的[[Human Capital Theory|人力资本]]规训。
 
 > [!claim] Morgan & Shahjahan
 > **建构全球[[Space of Equivalence|等值空间]]与锁定评价[[Discourse|话语]]权的技术工具** 通用技能充当了经合组织将高等教育纳入跨国量化治理的关键载体。通过声称大学毕业生的核心价值在于可转移的职场通用胜任力，经合组织建构起一个独立于各国异质课程传统的“等值空间”（space of equivalence）。在这种[[Technical Rationality|技术理性]]规制下，复杂的大学育人使命被窄化为迎合全球经济竞争的通用人力资本生产，跨国组织借此在评价工具编制早期便锁定了界定何为有效教育的全球合法威权。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 199–200, 202–203)]]

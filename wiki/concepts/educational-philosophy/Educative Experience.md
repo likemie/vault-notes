@@ -19,6 +19,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Epistemology]]"
   - "[[Mis-educative Experience]]"
+  - "[[Education as Growth]]"
   - "[[Interaction Effect]]"
   - "[[Progressive Education]]"
   - "[[Theory of Knowledge]]"
@@ -26,7 +27,6 @@ related_concepts:
   - "[[Praxis]]"
 related_theories: []
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
 related_instruments: []
 related_persons:
@@ -109,7 +109,7 @@ updated: 2026-10-20
 > 探讨教育经验的[[Epistemology\|认识论]]标准，强调经验的价值在于其时间轴上的向外扩展性。
 
 > [!claim] [[John Dewey\|Dewey, J.]]
-> **生长的连续性判定** 杜威指出，衡量一项经验是否具备教育性，唯一的理想与标准是其能否促进个体的持续[[Education as Growth|生长]]（Growth）。经验若仅仅在当下令人满足却导致未来的求知敏感度退化，则不具备教育性价值。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–31)]]
+> **生长的连续性判定** 杜威指出，衡量一项经验是否具备教育性，唯一的理想与标准是其能否促进个体的持续生长（Growth）。经验若仅仅在当下令人满足却导致未来的求知敏感度退化，则不具备教育性价值。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–31)]]
 
 ---
 
@@ -139,5 +139,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[John Dewey\|杜威]][[Philosophical Analysis in Education\|哲学分析]][[Active Learning\|主动学习]]、投石机探究案例与活体农场照顾中的教育性经验。

@@ -12,7 +12,7 @@ summary: "在Angoff方法基础上增加项目相关性维度，构建难度（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -30,13 +30,12 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Angoff Method]]"
   - "[[Multiple-Choice Questions]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Ebel Method
@@ -130,5 +129,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 Ebel（1979）的难度×相关度矩阵方法，并指出 Ebel 主张等级应代表分数量尺上的等距区间，推荐使用中位数和标准差作为等级分配的单位。

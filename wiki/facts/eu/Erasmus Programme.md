@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Heterogeneity]]"
   - "[[Social Imaginary]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Transiency]]"
   - "[[Competitiveness]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Erasmus Programme
@@ -150,7 +149,7 @@ updated: 2026-10-17
 > [!debates] 政策争议与理论批判
 >
 > > [!axis] 争议一：新自由主义[[Governmentality|治理术]]与劳动力市场风险个体化
-> > 超国家机构对“流动性”的高调赞颂究竟是为了促进全人发展，还是为了[[Disciplina and Doctrina|规训]]劳动力自负盈亏？
+> > 超国家机构对“流动性”的高调赞颂究竟是为了促进全人发展，还是为了规训劳动力自负盈亏？
 > > - **官方政策修辞** 宣称跨国流动提升了青年的适应力、全球视野与终身[[Employability|就业能力]]，能够保障其在竞争激烈的全球经济中立足。
 > > - **批判学者解构** 瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）与索贝与菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 363]]）尖锐指出，伊拉斯谟计划将跨国流动从早期的文化交融工具，异化为将劳动力市场风险个人化的空间[[Governmentality|治理术]]。官方[[Discourse|话语]]将应对宏观经济动荡与结构性失业的责任转嫁给个体，要求劳动者必须具备无休止的“流动灵活性”，流动的缺席被责难为个人的能力缺陷。
 >

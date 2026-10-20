@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Research Utilization]]"
   - "[[Discourse]]"
   - "[[School Leadership]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Phronesis]]"
   - "[[Teaching Assistant]]"
+  - "[[Professional Capital]]"
   - "[[Contributory Expertise]]"
 related_theories: []
 related_methods:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pupil Equity Funding
@@ -66,7 +68,7 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 苏格兰政府依据学生的社会经济处境不利程度直接向具体学校核拨专项经费，赋予校长自主支配权，旨在专项用于缩小贫困相关的[[Academic Achievement\|学业成就]]差距，并配套引入《苏格兰学业达标挑战：[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，推动一线教育工作者向循证决策靠拢。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
+> 苏格兰政府依据学生的社会经济处境不利程度直接向具体学校核拨专项经费，赋予校长自主支配权，旨在专项用于缩小贫困相关的[[Academic Achievement\|学业成就]]差距，并配套引入《苏格兰学业达标挑战：[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，推动一线教育工作者向[[Evidence-Based Policy-Making|循证决策]]靠拢。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 阻断家庭贫困对学业表现的负面影响，靶向提升低成就群体的学术水平，缩小苏格兰中小学学业鸿沟。
@@ -129,7 +131,7 @@ updated: 2026-10-16
 > > PEF 配套方案强推自上而下的外来证据消化，引发了对苏格兰悠久“教师作为研究者”传统的侵蚀担忧。
 > >
 > > - **中央政策导向** 倾向于将教师定位为已被验证证据的忠实执行者（research-users）。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
-> > - **专业自治倡导者** 强调[[Practitioner Enquiry\|实践者探究]]与大学—中小学伙伴协作才是提升教师专业资本的根本路径。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 16)]]
+> > - **专业自治倡导者** 强调[[Practitioner Enquiry\|实践者探究]]与大学—中小学伙伴协作才是提升[[Professional Capital|教师专业资本]]的根本路径。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 16)]]
 
 ---
 

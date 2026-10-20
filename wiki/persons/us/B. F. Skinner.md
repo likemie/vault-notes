@@ -39,8 +39,8 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Creativity]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Critical Theory]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # B. F. Skinner
@@ -151,7 +151,7 @@ updated: 2026-10-17
 > > - **斯金纳（1957）** 试图将言语交流完全解释为环境强化刺激塑造的发音行为。
 > > - **[[Noam Chomsky|乔姆斯基]]（Chomsky, 1959）的著名反驳** 指出儿童在极度匮乏的输入刺激中自发创造出无穷语法句式，彻底击碎了[[Behaviorism|行为主义]]对语言的机械解释，直接引爆了 20 世纪下半叶的“认知革命”。
 >
-> > [!axis] 教学实践定位：生活世界的主体交往 vs [[Neo-Taylorism|新泰勒主义]]行政[[Disciplina and Doctrina|规训]]
+> > [!axis] 教学实践定位：生活世界的主体交往 vs [[Neo-Taylorism|新泰勒主义]]行政规训
 > > 辨析行为强化[[Paradigm|范式]]在当代教育治理中的政治社会学后果。
 > >
 > > - **工程[[Positivism|实证主义]]倡导者** 视即时反馈与目标分解为提高教育效率、保障弱势群体达标的科学手段。

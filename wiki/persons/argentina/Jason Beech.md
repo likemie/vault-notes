@@ -8,7 +8,7 @@ summary: "阿根廷与澳大利亚批判比较教育学者，蒙纳士大学副�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Shape-Shifting]]"
   - "[[Global Policy Space]]"
+  - "[[Discursive Field]]"
   - "[[Educated Identity]]"
   - "[[Space of Flows]]"
   - "[[Space of Places]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Categorical Funding]]"
   - "[[Epistemic Stances]]"
   - "[[Policy Borrowing]]"
@@ -61,7 +61,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Documentary Analysis]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Stephen Ball]]"
@@ -106,7 +105,7 @@ updated: 2026-10-20
 > - **2005 年** 完成博士学位论文 *The Meaning of Educational Transfer: The Transfer of Ideas in Argentina and Brazil*，奠定其关于教育转移并非线性搬运而是多层级[[Recontextualization|再情境化]][[Shape-Shifting|形变]]的理论基石；同年 11 月在布宜诺斯艾利斯主持[[Stephen Ball|斯蒂芬·鲍尔]]学术研讨会，深受其关于私营部门介入与政策简约性反思的启发。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 > - **2006–2010 年** 执教于阿根廷圣安德烈斯大学，担任阿根廷比较教育学会（SAECE）理事；2009 年先后在 *Comparative Education* 与考恩编著的《比较教育学国际手册》发表里程碑论文，系统构建[[Global Policy Space|全球政策空间]]概念与五位置[[Discourse|话语]]流通模型。
 > - **2011 年** 出版学术专著 *Global Panaceas, Local Realities: International Agencies and the Future of Education*（Peter Lang）；同年发表论文探析阿根廷教育治理市场化，提出拉美教育改革的“黑天鹅”悖论。
-> - **2015 年至今** 与阿托波洛斯发表合著论文，推进基于[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]）的话语空间流通研究；后加盟澳大利亚蒙纳士大学任副教授，持续引领全球教育治理与跨国政策流通研究。
+> - **2015 年至今** 与阿托波洛斯发表合著论文，推进基于[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]）的[[Discursive Field|话语空间]]流通研究；后加盟澳大利亚蒙纳士大学任副教授，持续引领全球教育治理与跨国政策流通研究。
 
 ---
 
@@ -141,7 +140,7 @@ updated: 2026-10-20
 > 比奇尖锐批判传统比较教育将国家视为互不相通的固定物理“容器”（Containers）的[[Methodological Nationalism|方法论民族主义]]。他指出，教育知识并非在某处封闭生产然后静态搬运到另一处，而是在不同行动者、文本与机构构成的关系网络沟通中持续建构的；[[Grammar of Schooling|学校的语法]]是在流通与互联的跨国网络中被重组的，必须以[[Relational Space|关系性空间]]视界取代领土实体偏见。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
 
 > [!claim] 命题三：国际组织的双重垄断与[[Global Educational Discourse|全球教育话语]]五大支柱（Double Monopoly & Global Discourse）
-> [[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|教科文组织]]表面上秉持不同的发展哲学，实质上共享了一套将未来预设为单一信息时代的深层共识。机构成套推销以分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位与中央质检系统为核心的“五大支柱模型”。国际机构首先通过界定危机垄断了“问题”，接着唯独提供该模型作为唯一正当“解方”，通过双重垄断机制彻底闭合了发展中国家探索本土替代性道路的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
+> [[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|教科文组织]]表面上秉持不同的发展哲学，实质上共享了一套将未来预设为单一信息时代的深层共识。机构成套推销以分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位与中央质检系统为核心的“五大支柱模型”。国际机构首先通过界定危机垄断了“问题”，接着唯独提供该模型作为唯一正当“解方”，通过双重垄断机制彻底闭合了发展中国家探索本土替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
 
 > [!claim] 命题四：拉美守门人网络与替代性政策空间的闭合（Gatekeepers & Discursive Enclosure）
 > 在阿根廷与巴西等拉美国家，本土学术精英在学术晋升过程中大批兼任教育部高官或跨国贷款评估顾问，形成多重位置身份的高度重叠。这一高度封闭的“守门人群体（[[Gatekeepers|Gatekeepers]]）”垄断了本土教育系统同全球学术空间的对接通道；他们借助对科研立项指南与定向资助（分类委托资助）的绝对控制，将外部通用教条包装为唯一科学真理，使本土学术界丧失了向国家输送独立反思方案的批判功能。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 352–353)]]
@@ -174,7 +173,7 @@ updated: 2026-10-20
 > [!influence-path] 影响路径
 > - **理论路径** 开创比较教育学的“空间转向”（Spatial Turn），[[Creativity|创造性]]融合[[Basil Bernstein|伯恩斯坦]]语篇控制权、卡斯特[[Space of Flows|流动空间]]理论与[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]），重构了超越地理毗连性的跨国政策流通[[Paradigm|范式]]。
 > - **方法路径** 发展出超越传统国家间静态对比的“跨层级[[Discourse|话语]]多维追踪法”，打通国际机构战略白皮书（[[Discourse Analysis|话语分析]]）、国家法规文献（[[Documentary Analysis|文献分析]]）与中小学田野一线访谈（[[In-depth Interview|深度访谈]]），确立了宏观政治经济批判与微观[[Recontextualization|再情境化]]相整合的实证典范。
-> - **政策批判路径** 深刻解构[[World Bank|世界银行]]与[[OECD|经合组织]]在拉美及南方国家推销的“新自由主义万灵药”神话，为全球南方抵制外来政策[[Disciplina and Doctrina|规训]]、探索内生性教育制度改革提供了扎实的理论支点。
+> - **政策批判路径** 深刻解构[[World Bank|世界银行]]与[[OECD|经合组织]]在拉美及南方国家推销的“新自由主义万灵药”神话，为全球南方抵制外来政策规训、探索内生性教育制度改革提供了扎实的理论支点。
 > - **学术共同体建设** 作为阿根廷及拉美比较教育学界连接国际顶尖学界的领军学者，积极推动拉美批判教育社会学的国际对话，有力提升了南方学者在全球[[Knowledge Production|知识生产]]中的能见度与话语权。
 
 ---
@@ -194,7 +193,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!tension] 结构[[Discourse|话语]][[Disciplina and Doctrina|规训]] vs. 地方基层抗争能动性
+> [!tension] 结构[[Discourse|话语]]规训 vs. 地方基层抗争能动性
 > - **结构主义话语批判视角** 比奇的五位置流通模型着重剖析国际机构与[[Gatekeepers|守门人]]网络自上而下的强大闭合效力，揭示发展中国家政策空间如何被成套通用模型牢牢锁死。
 > - **微观能动性与文化研究反思** 部分批评者指出，过分强调结构性话语封闭与守门人垄断，容易低估地方学校一线教师、校长与草根行动者在微观教学中自发展开的抵制、变通与批判性反思能动性。
 

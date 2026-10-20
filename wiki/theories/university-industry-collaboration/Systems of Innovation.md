@@ -28,6 +28,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
+  - "[[Geopolitics]]"
   - "[[Innovation Ecosystem]]"
   - "[[Third Mission]]"
   - "[[University-Industry Collaboration]]"
@@ -77,7 +78,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -125,7 +125,7 @@ updated: 2026-10-20
 > - **解释对象** 解释技术创新的产生、扩散与商业应用过程，重点揭示多类[[Heterogeneity|异质性]]行动者（大学、科研机构、企业、金融中介与政府部门）在特定制度环境中如何通过网络连接与非市场互动进行集体学习。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]
 > - **理论问题** 破解单向[[Linear Model of Innovation|线性创新模型]]（科学发现 → 技术开发 → 商业产品）的简单因果假设，纠正新古典经济学仅将创新视为对“[[Market Failure|市场失灵]]”（公共品投资不足）之被动弥补的狭隘视野，回应各国科技投入与经济增长脱节的现实政策困境。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **理论类型** 中观与宏观维度的[[Evolutionary Economics|演化经济学]]元理论[[Paradigm|范式]]与多标量[[Analytic Framework|分析框架]]（涵盖[[National Innovation System|国家创新系统]] NIS、[[Regional Innovation System|区域创新系统]] RIS 与部门创新系统 SIS）。
-> - **知识位置** 处于[[Evolutionary Economics|演化经济学]]、科学技术政策与高等教育学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接[[Knowledge-Based Economy|知识经济]]、[[National Competitive Advantage|国家竞争优势]]与地缘政治竞争理论，中观统摄[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]，平行对话[[Triple Helix|三重螺旋模型]]与[[Innovation Ecosystem|创新生态系统]]，向下对话大学[[Third Mission|第三使命]]与微观[[University-Industry Collaboration|产学合作]]。
+> - **知识位置** 处于[[Evolutionary Economics|演化经济学]]、科学技术政策与高等教育学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接[[Knowledge-Based Economy|知识经济]]、[[National Competitive Advantage|国家竞争优势]]与[[Geopolitics|地缘政治]]竞争理论，中观统摄[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]，平行对话[[Triple Helix|三重螺旋模型]]与[[Innovation Ecosystem|创新生态系统]]，向下对话大学[[Third Mission|第三使命]]与微观[[University-Industry Collaboration|产学合作]]。
 
 > [!claim] 核心判断
 > 创新不是孤立个体或单一实验室内部封闭发生的线性转化，而是在特定历史与制度环境中由多元行动者持续互动构成的集体学习过程。一个国家或区域的创新绩效，不仅取决于科学研究能力与资本投入规模，更关键取决于系统内部的网络链接密度、[[Absorptive Capacity|吸收能力]]、知识流动效率以及规约各方行为的制度规则适配度；公共政策的根本任务在于识别并修复多维度的“系统失灵”（System Failures）。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]
@@ -297,7 +297,7 @@ updated: 2026-10-20
 > - **解释不足** 
 >   1. **单一研发总额指标的误导性** 理论强调不可将高研发经费支出（GERD/GNP）直接等同于健康的创新系统；若研发主要沉淀在军工封闭院所且缺乏与民用生产的横向连接，高投入可能伴随经济长期停滞（如前苏联案例）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
 >   2. **方向性盲区与系统修补局限（[[Directionality of Innovation|directionality]] Blindness & System Fixing）** 传统创新系统学派重在提升系统的整体创新效率、促进知识流动与弥补系统失灵（系统修补思维），但对创新“应该朝何处去”（如气候中和、社会包容）缺乏内生价值判断与主动[[Market Shaping and Creating|市场塑造]]工具，难以自主应对迫切的重大全球挑战；[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
->   3. **地缘政治冲突与安全审查外溢** 理论原初假定跨国知识流动是开放且积极的全球化过程，低估了当前大国地缘博弈下技术主权壁垒、进出口管制以及以国家安全为由割裂全球创新链的现实风险；[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
+>   3. **[[Geopolitics|地缘政治]]冲突与安全审查外溢** 理论原初假定跨国知识流动是开放且积极的全球化过程，低估了当前大国地缘博弈下技术主权壁垒、进出口管制以及以国家安全为由割裂全球创新链的现实风险；[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 >   4. **大企业研发中心衰落的填补赤字** 理论往往假定大学与初创企业能完美填补跨国巨头[[Corporate R&D Labs|中央研发实验室]]衰落留下的技术空白，但经验实证表明，高度碎片化的产学网络在攻克大跨度、长周期的跨学科系统工程时，整体整合能力弱于昔日的[[Bell Labs|贝尔实验室]]等中心机构。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]
 > - **转化困难** 系统边界（国家边界 vs 区域集群 vs 跨国技术网络）在数字化时代日益交织，给量化测量与因果识别带来方法论挑战；“网络质量”与“制度厚度”高度依赖质性案例阐释，缺乏统一标准度量。
 > - **不能直接推出** 拥有强大的创新系统不等于每个参与主体都要走向商业化；不能依据系统理论强求大学成为纯粹的企业技术外包部门，忽视大学培养[[Critical Thinking|批判性思维]]与从事基础探索的核心自治底线。
@@ -332,7 +332,7 @@ updated: 2026-10-20
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 揭示了传统[[Innovation Policy Paradigms|创新系统范式]]在应对气候危机时方向性不足的局限，以及大[[Corporate R&D Labs|企业研发实验室]]衰落后高校与初创企业难以完全弥补跨学科系统研发赤字的现实张力。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 批评了政策界对大学专利[[Technology Transfer|技术转移]]的一刀切狂热，指出其忽视了大学作为本地公共空间、技术吸收催化剂及非专利服务提供者的系统价值。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 揭示了制度惯性阻尼效应，指出当宏观制度架构滞后于微观技术变革速率时，创新系统将陷入动荡与结构性阵痛。
-> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 批判了创新系统理论长期脱离地缘政治的非空间化假定，揭示出国家创新竞争背后的领土化与霸权博弈本质。
+> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 批判了创新系统理论长期脱离[[Geopolitics|地缘政治]]的非空间化假定，揭示出国家创新竞争背后的领土化与霸权博弈本质。
 
 ---
 
@@ -345,6 +345,6 @@ updated: 2026-10-20
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，整合部门、区域与国家创新系统，论证三类知识池互动及微观/宏观制度滞后造成的阻尼效应。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 依托 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统构建大学匹配四种本地产业转型路径的差异化支持模型。
-> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角追溯国家创新系统的[[Friedrich List|李斯特]]渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
+> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与[[Geopolitics|地缘政治学]]视角追溯国家创新系统的[[Friedrich List|李斯特]]渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
 > - [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]] — 运用修订版帕维特产业分类法，实证阐明科学基础型、专业供应商型、规模密集型等不同部门创新系统的[[Heterogeneity|异质性]]机制。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 梳理美国国家科技体制变迁，印证联邦竞争性拨款与《[[Bayh-Dole Act of 1980|拜杜法案]]》如何激活国家创新系统内部大学与产业的动态联结。

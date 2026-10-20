@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cultural Disembedding]]"
   - "[[Technological Agnosticism]]"
+  - "[[Geopolitics]]"
   - "[[Performativity]]"
   - "[[Research Question]]"
   - "[[Determinism]]"
@@ -58,7 +59,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Discourse Analysis]]"
   - "[[Semi-structured Interview]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Manuel Castells]]"
   - "[[Jason Beech]]"
@@ -73,6 +73,7 @@ related_facts:
   - "[[Education International]]"
   - "[[International Monetary Fund]]"
   - "[[Education for All]]"
+  - "[[ASEAN]]"
   - "[[European Research Area]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
@@ -139,7 +140,7 @@ updated: 2026-10-20
 > **应用实例** 开源软件开发协作模式及全球气候科学跨国数据库构建，数千名来自不同大洲、互不相识的科学家无须在同一栋科研大楼内肉身共在，便能协同攻克极端天气建模等前沿科研难题。
 
 > [!theory-proposition] 命题三｜空间的去领土化重构[[Cosmopolitanism|世界主义]]精英与本土大众的双重割裂
-> **解释** 网络社会的空间逻辑由[[Space of Flows|流动空间]]主导，其物质基础是跨国电子通信、国际会议航线、学术期刊与资本通道，由掌握战略代码的技术-管理-金融与学术精英所占据；这些精英具有鲜明的[[Cosmopolitanism|世界主义]]（Cosmopolitanism）特征，脱嵌于特定地方责任。相反，绝大多数普通民众仍生活在具体的场所空间之中，依赖本土社区、实体制度与实体就业。这种空间的二元分化引发了深刻的[[Cultural Disembedding|文化脱嵌]]、[[Technological Agnosticism|技术不可知论]]与地缘政治紧张。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
+> **解释** 网络社会的空间逻辑由[[Space of Flows|流动空间]]主导，其物质基础是跨国电子通信、国际会议航线、学术期刊与资本通道，由掌握战略代码的技术-管理-金融与学术精英所占据；这些精英具有鲜明的[[Cosmopolitanism|世界主义]]（Cosmopolitanism）特征，脱嵌于特定地方责任。相反，绝大多数普通民众仍生活在具体的场所空间之中，依赖本土社区、实体制度与实体就业。这种空间的二元分化引发了深刻的[[Cultural Disembedding|文化脱嵌]]、[[Technological Agnosticism|技术不可知论]]与[[Geopolitics|地缘政治]]紧张。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
 >
 > **应用实例** 穿梭于日内瓦、巴黎、华盛顿的跨国智库与多边机构顾问，熟练运用去情境化的全球评估语言（如 [[PISA]] 指标），其制定的能力课程方案完全脱离了拉美贫困乡村学校缺乏电力与合格师资的本土现实。
 
@@ -182,7 +183,7 @@ updated: 2026-10-20
 > > 批评者指出卡斯特早期的网络社会理论赋予了信息技术革命过强的决定论色彩，低估了主权国家在规制跨国流动方面的强硬控制力。
 > >
 > > - **网络去中心化论** 强调技术逻辑打破了国家垄断，使世界进入不可逆的无疆界流动时代。
-> > - **国家韧性与地缘政治学派** 指出当代民族国家通过防火墙、半导体出口管制、实体清单与[[Hard Power|硬实力]]动员，正在强势重构网络边界，使跨国科研网络面临地缘政治巴尔干化的严峻挑战。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 99–101)]]
+> > - **国家韧性与[[Geopolitics|地缘政治学]]派** 指出当代民族国家通过防火墙、半导体出口管制、实体清单与[[Hard Power|硬实力]]动员，正在强势重构网络边界，使跨国科研网络面临地缘政治巴尔干化的严峻挑战。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 99–101)]]
 >
 > > [!axis] 去中心化公地理想 vs 寡头平台与数字监视资本主义
 > > 本克勒设想的去中心化对等协作网络，在现实中日益被少数几家跨国科技巨头所垄断。
@@ -199,7 +200,7 @@ updated: 2026-10-20
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 澳大利亚、中国、东盟等跨国气候与前沿科研合作项目 | 质性地缘政治与政策社会学分析 | 合作模式（机构联盟 vs 项目网络）、治理理性（学术/经济/外交） | 揭示第一代封闭大学联盟（如 Universitas 21）衰落，取而代之的是灵活项目协作与超国家枢纽（如 [[European Research Area\|ERA]]）多层次治理 | 质性案例深度追踪 — | 聚焦高等教育[[Transnational Research Collaboration\|跨国研究合作]]领域 |
+> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 澳大利亚、中国、[[ASEAN\|东盟]]等跨国气候与前沿科研合作项目 | 质性[[Geopolitics\|地缘政治]]与政策社会学分析 | 合作模式（机构联盟 vs 项目网络）、治理理性（学术/经济/外交） | 揭示第一代封闭大学联盟（如 Universitas 21）衰落，取而代之的是灵活项目协作与超国家枢纽（如 [[European Research Area\|ERA]]）多层次治理 | 质性案例深度追踪 — | 聚焦高等教育[[Transnational Research Collaboration\|跨国研究合作]]领域 |
 > | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西 1990 年代国家中等教育改革方案 | 跨国比较[[Discourse Analysis\|话语分析]] | 流动空间议程设置、网络治理操演性、[[Floating Signifier\|漂浮能指]] | 国际机构在[[Space of Flows\|流动空间]]制造高度抽象的能力[[Discourse\|话语]]，国家层面革新与保守话语并置，实践层面引发结构性变异 | 跨国文本与访谈比较 — | 揭示了[[Global Policy Space\|全球政策空间]]与微观学校场所空间的脱节 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 国际机构战略文件与拉美两国[[Normal School\|师范教育]]课程大纲 | 跨国比较话语分析结合[[Semi-structured Interview\|半结构化访谈]] | [[Champ\|场域]]五位置模型、过度简化、[[Gatekeepers\|守门人]]垄断、微观实践异化 | 证实全球学术空间作为流动空间需具备双语能力，国际组织过度简化方案降落基层引发阿根廷转抄商业教辅等严重失真 | 跨国质性实证分析 — | 确立了教育场域五位置网络流动与[[Recontextualization\|再情境化]]断裂机制 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]] | 美国硅谷科技精英社群与国防工业创新项目 | 技术政治学考察与思想史梳理 | [[Cosmopolitanism\|世界主义]]取向 vs 国家忠诚、[[Technological Agnosticism\|技术不可知论]]、[[Cult of Optionality\|选择权崇拜]] | 证实掌握代码与资本的跨国技术精英在流动空间中高度脱嵌，与承担国家生存防卫的实体社会发生深刻政治断裂 | 批判政策专论 — | 揭示了科技精英脱嵌与网络社会的阶层撕裂 |

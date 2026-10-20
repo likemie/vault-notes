@@ -10,7 +10,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Narrative Knowledge]]"
   - "[[STEM Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Modern Industrial Policy]]"
 related_theories: []
@@ -44,8 +43,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Partaken_2022_Springer]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
@@ -121,7 +119,7 @@ updated: 2026-10-20
 > > [!axis] [[Geopolitics of Knowledge|知识地缘政治]]下的科研资源挤压
 > > 争论国家将高等教育与科研体系全面绑上硬核工程产业战车，是否会损害大学基础科学与人文社会科学的均衡生态。
 > >
-> > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]]** 警示硬科技专项资金的大规模集聚使得国家权力深度[[Disciplina and Doctrina|规训]]了[[Knowledge Production|知识生产]]的价值尺度。
+> > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]]** 警示硬科技专项资金的大规模集聚使得国家权力深度规训了[[Knowledge Production|知识生产]]的价值尺度。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "治理与评估社会学中的核心经验定律：当一个量化指标被选定作为决策和控制的目标时，该指标就会立即失去其作为有效衡量尺度的价值；在科研治理与教育评价中表现为学者或机构针对论文篇数、影响因子、升学率与排名等量化指标展开策略性博弈、指标刷量与功利化合规，导致指标数值虚高而实质学术卓越与教育质量倒退。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Reproducibility Crisis]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Academic Freedom]]"
   - "[[Dynamic Research Notebook]]"
@@ -42,7 +41,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
@@ -113,7 +111,7 @@ updated: 2026-10-20
 ### 命题二　跨国标准化测评与排名指标的异化促使国家教育政策向可测量技能窄化，侵蚀深层育人价值
 
 > [!concept-lens] 跨国量化治理与教育窄化
-> 揭示超国家机构量化指标帝国如何通过硬事实排他性[[Disciplina and Doctrina|规训]]国家教育价值。
+> 揭示超国家机构量化指标帝国如何通过硬事实排他性规训国家教育价值。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
 > **跨国指标霸权与教育价值窄化假说** [[OECD]] 与[[World Bank|世界银行]]依托 [[PISA]] 等自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]。当各国政府将国际排名位次作为衡量教育改革成败的绝对标靶时，古德哈特定律促使政策制定者将课程资源向易于被标准化测验测量的应试技能倾斜，从而边缘化了深层文化理解、哲学批判反思与公民民主审议等难以简单量化的根本教育目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]

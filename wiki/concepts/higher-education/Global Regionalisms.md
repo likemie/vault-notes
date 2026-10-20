@@ -6,7 +6,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Unit of Analysis]]"
   - "[[Competitiveness]]"
@@ -31,6 +32,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EU]]"
+  - "[[ASEAN]]"
   - "[[Lisbon Strategy]]"
   - "[[Horizon Europe]]"
 related_arguments:
@@ -38,13 +40,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
 
 > [!info] 定义
-> 全球高等教育区域主义指高等教育被整合进世界各地区大规模政治经济区域整合项目的现象。作为一种地缘政治协调形式，区域主义旨在通过正式的制度建设项目或政策（如 [[EU]]、ASEAN 等区域国际组织）来创建、维持或修改世界区域的秩序（Thompson & Parreira do Amaral, 2022, p.11）。
+> 全球高等教育区域主义指高等教育被整合进世界各地区大规模政治经济区域整合项目的现象。作为一种[[Geopolitics|地缘政治]]协调形式，区域主义旨在通过正式的制度建设项目或政策（如 [[EU]]、[[ASEAN]] 等区域国际组织）来创建、维持或修改世界区域的秩序（Thompson & Parreira do Amaral, 2022, p.11）。
 >
 
 ## 概念辨析
@@ -61,7 +63,7 @@ updated: 2026-10-16
 >
 > - 20 世纪末区域主义研究的兴起，以[[EU|欧盟]]一体化为主要推动力
 > - 2000 年[[Lisbon Strategy\|里斯本战略]]后，欧盟将教育和研究嵌入其作为"全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy\|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
-> - 随后扩展到对 ASEAN、非洲联盟、南方共同市场等其他区域框架的比较研究
+> - 随后扩展到对 [[ASEAN]]、非洲联盟、南方共同市场等其他区域框架的比较研究
 >
 > Robertson et al. (2016) 在后续研究中推进了一次关键的[[Epistemology\|认识论]]转向：从单纯分析国际/超国家组织对教育的影响，转向检视教育项目在想象和建构世界区域本身中的角色。他们论证：
 >
@@ -75,7 +77,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **区域整合项目** 通过各种超国家机构（[[EU]]、ASEAN 等）实施的大规模政治经济项目，高等教育被嵌入这些项目的竞争性想象之中（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - **区域整合项目** 通过各种超国家机构（[[EU]]、[[ASEAN]] 等）实施的大规模政治经济项目，高等教育被嵌入这些项目的竞争性想象之中（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - **监管机制** 区域框架通过指标、排名、质量保障机制等政策工具监管高等教育，如 [[Regulatory Regionalism]]（Jayasuriya, 2010; Robertson, 2010）
 > - **竞争性想象** 各区域以[[Knowledge-Based Economy\|知识经济]]竞争为框架想象自身，高等教育成为实现区域竞争优势的关键[[Champ\|场域]]
 > - **多层次治理** 区域主义在超国家、国家和地方层面同时运作，各层面之间形成复杂的互动和张力
@@ -84,7 +86,7 @@ updated: 2026-10-16
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Geopolitics of Knowledge]] — 区域主义是知识地缘政治在超国家层面的关键表现形式
+> - [[Geopolitics of Knowledge]] — 区域主义是知识[[Geopolitics|地缘政治]]在超国家层面的关键表现形式
 > - [[Regulatory Regionalism]] — Jayasuriya (2010) 和 Robertson (2010) 的概念解释了超国家组织在高等教育治理中的监管角色
 >
 

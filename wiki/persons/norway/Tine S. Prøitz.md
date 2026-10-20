@@ -10,7 +10,7 @@ summary: "挪威著名教育科学学者，东南挪威大学（USN）教育科�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 35
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
   - "[[Heterogeneity]]"
@@ -52,7 +51,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
@@ -70,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Tine S. Prøitz
@@ -108,7 +106,7 @@ updated: 2026-10-16
 >   - **代表著作** *Learning Outcomes as a Key Concept in Policy Reforms: A Comparative Perspective* (2014)。
 >   - **关键概念／方法** [[Evaluation Research]]、[[Policy Borrowing]]、[[Discourse Analysis]]。
 >   - **阶段转向** 认识到单纯依赖自上而下的政策文本与测评指标无法驱动深层课堂变革，必须深入探究教育知识在实践一线的转化机制。
-> - **2015–2018 年 — 教师专业性与政策实施微观动力学拓展期** 聚焦教师评价实践、地方行政协同与[[Research Utilization\|证据使用]]能力，探索如何保护教师情境性[[Professional Judgment\|专业判断]]免受机械[[Disciplina and Doctrina\|规训]]侵蚀。
+> - **2015–2018 年 — 教师专业性与政策实施微观动力学拓展期** 聚焦教师评价实践、地方行政协同与[[Research Utilization\|证据使用]]能力，探索如何保护教师情境性[[Professional Judgment\|专业判断]]免受机械规训侵蚀。
 >   - **代表著作** *Policy Enactment in School Evaluation: Balancing Accountability and Improvement* (2018)。
 >   - **关键概念／方法** [[Professional Judgment]]、[[Research Literacy]]、[[Boundary Spanner]]。
 >   - **阶段转向** 从单向的政策评价，转向关注跨越大学学术界与基础教育学校两界的制度化中介组织建设。
@@ -144,7 +142,7 @@ updated: 2026-10-16
 > - **政策路径** 评估直接影响了瑞典政府关于将 ULF 试点从过渡期正式转为国家永久性教育法制基础设施的重大决议。
 > - **跨国传播** 深刻影响了北欧及 [[OECD]] 国家在构建大学-中小学教师教育协同网络中的制度设计，成为反思实践科研异化的权威文献。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 详细记录了普勒茨基于瑞典 ULF 5 年实证追踪所提炼的六项结构性主张与第三空间理论模型。
 
 ---

@@ -8,7 +8,7 @@ summary: "对已有数据集或官方行政与跨国评估数据库进行的进�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

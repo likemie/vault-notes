@@ -9,7 +9,7 @@ summary: "美国当代著名社会学大师，国际社会学会（ISA）前主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - economic-sociology
   - region/us
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Permeable State]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Neil Smelser
@@ -55,7 +54,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名社会学大师、比较制度分析家；加州大学伯克利分校社会学荣休大学教授（University Professor），曾任国际社会学会（[[International Schools Association|ISA]]）主席（1994–1998）、美国社会学学会（ASA）会长（1997）及斯坦福大学行为科学高级研究中心（CASBS）主任。
-> - **核心角色** 20 世纪下半叶[[Structural Functionalism|结构功能主义]]修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国[[Disciplina and Doctrina|规训]]下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
+> - **核心角色** 20 世纪下半叶[[Structural Functionalism|结构功能主义]]修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国规训下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
 > - **代表贡献** 与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）合著奠基性名著《经济与社会》（1956）；出版《集体行为理论》（1962）、《社会分化与社会变革》（1976）以及权威教材《社会学》（1981）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论斯梅尔塞对全球化侵蚀民族国家主权边界的经典定性
@@ -120,7 +119,7 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **导师与合作者** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons） — 共同开创现代经济社会学。
-> - **理论对话者** [[David Held]]、[[Carlos Alberto Torres]] — 其全球化边界多孔论与赫尔德、托雷斯的跨国[[Disciplina and Doctrina|规训]]模型形成共振。
+> - **理论对话者** [[David Held]]、[[Carlos Alberto Torres]] — 其全球化边界多孔论与赫尔德、托雷斯的跨国规训模型形成共振。
 > - **国际学术机构** 国际社会学会（[[International Schools Association|ISA]]） — 曾任主席。
 
 ---

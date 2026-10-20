@@ -8,7 +8,7 @@ aliases:
 summary: "指认识主体因过度依赖生成式人工智能生成初始创意或替代灵感构思，导致自主发散思维、探索愉悦感及群体创意多样性遭到削弱和同质化的现象。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,8 +31,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scaffolding]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Socrates]]"

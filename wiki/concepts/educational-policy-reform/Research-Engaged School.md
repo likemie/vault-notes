@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Likert Scale]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Toby Greany]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research-Engaged School
@@ -271,6 +270,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 采用 Godfrey 的组织界定，构建四因素理论框架，通过对 79 所小学 696 名教师与领导者的基线实证调查，系统诊断研究参与学校在能力、文化、学习环境与结构上的准备状态，揭示出三大机制断裂并提出针对性干预路径。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中将研究参与学校确立为组织使能三大构件（领导力、文化、基础架构）的核心实践载体，系统阐释其作为[[Research Utilization\|证据使用]]微观土壤的功能，并提出推动研究参与学校从二元达标走向质量使用的三重反思透镜。

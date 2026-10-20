@@ -9,7 +9,7 @@ aliases:
 summary: "由测量方法本身（而非所测构念的真实差异）造成的系统方差，当多个构念使用同一方法施测时会放大观察相关，威胁构念间关系估计的效度"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,7 +34,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Common Method Variance
@@ -109,5 +108,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的[[Three-Level Meta-Analysis\|三水平元分析]]中发现双自陈测量相关（r = 0.509）高于双客观（r = 0.317），视为共同方法变异的证据。

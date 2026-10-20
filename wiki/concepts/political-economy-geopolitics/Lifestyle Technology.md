@@ -29,9 +29,9 @@ related_concepts:
   - "[[Technological Pastiche]]"
   - "[[Hard Power]]"
   - "[[Grand Challenges]]"
+  - "[[Geopolitics]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
@@ -113,7 +113,7 @@ updated: 2026-10-20
 > 该命题揭示了微观生活科技的无序扩张如何导致全社会陷入[[Big Idea Famine|大构想饥荒]]并削弱民主政体的[[Hard Power|硬实力]]基石。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **战略资源挤出与大构想饥荒断言** 卡普与扎米斯卡深刻指出，海量顶级工程智力与数千亿美元风投资金沉迷于生活方式科技的琐碎迭代，直接导致了企业级核心软件、军工情报分析系统与重大物理制造工程的人才匮乏。资本与人才只顾追逐即时消费流量，将国家政府与防务领域的[[Grand Challenges|重大挑战]]视为门槛过高、周期过长的麻烦，最终使西方世界在面临真实地缘政治冲突时陷入战略能力空洞。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 109–111)]]
+> **战略资源挤出与大构想饥荒断言** 卡普与扎米斯卡深刻指出，海量顶级工程智力与数千亿美元风投资金沉迷于生活方式科技的琐碎迭代，直接导致了企业级核心软件、军工情报分析系统与重大物理制造工程的人才匮乏。资本与人才只顾追逐即时消费流量，将国家政府与防务领域的[[Grand Challenges|重大挑战]]视为门槛过高、周期过长的麻烦，最终使西方世界在面临真实[[Geopolitics|地缘政治]]冲突时陷入战略能力空洞。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 109–111)]]
 
 ---
 

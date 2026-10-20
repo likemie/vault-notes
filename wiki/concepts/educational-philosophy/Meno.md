@@ -11,7 +11,7 @@ aliases:
 summary: "柏拉图探讨美德可教性与知识本质的经典过渡期对话录，提出了探究悖论（美诺悖论）、灵魂回忆说及童奴几何启发实验，既是西方先天论与启发式教学的奠基文本，也是现代教育技术批判收敛性诱导提问的核心靶标"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,8 +40,7 @@ related_theories:
   - "[[Theory of Mind]]"
   - "[[Virtue Epistemology]]"
   - "[[Knowledge Building Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Plato]]"

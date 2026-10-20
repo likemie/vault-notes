@@ -39,6 +39,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Policy Network]]"
   - "[[Academic Achievement]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Problem Finding]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Pragmatic Paradigm]]"
@@ -49,7 +50,6 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Knowledge-to-Action Models
@@ -175,7 +175,7 @@ updated: 2026-10-16
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 跨国组织[[Policy Brokerage\|政策中介]]演变、智库影响力评估、公共部门循证决策体制构建。
+> - **适合解释** 跨国组织[[Policy Brokerage\|政策中介]]演变、智库影响力评估、公共部门[[Evidence-Based Policy-Making|循证决策]]体制构建。
 > - **谨慎使用** 涉及极高度意识形态对立或处于战争冲突状态的教育决策，此时政治权力决断压倒一切知识转化生态。
 > - **常见误用** 将三代模型机械理解为后者对前者的绝对替代，忽视在具体实践中报告分发（第一代）与人员互动（第二代）依然是维系系统生态（第三代）的必要基石。
 
@@ -216,7 +216,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
 > - **[[Argument_Torres_2022_KMModels\|Torres (2022b)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer\|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
 > - **Best and Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Learning Economy]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Sample Size Determination]]"
@@ -85,7 +86,7 @@ updated: 2026-10-20
 > - **1916–1960年代 — 现代公共行政奠基与马歇尔计划参与** 早期参与起草《1921年预算与会计法案》建立现代联邦预算制度；二战后受国务院委托开展马歇尔计划执行评估，成为塑造战后美国内外政策的核心智囊。
 > - **1970年代 — 产业组织与高科技扩散实证研究先驱** 出版著名学者[[John E. Tilton|约翰·E·蒂尔顿]]（John E. Tilton, 1971）的权威专著《技术国际扩散：半导体案例》（*International Diffusion of Technology: The Case of Semiconductors*），详尽揭示联邦政府采购如何帮助新创非电子管企业打破传统巨头垄断并占领全美近七成市场，成为战后高科技产业经济学与科技政策研究的奠基文献。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 > - **1980年代–1990年代 — 国内治理深化与布朗教育政策中心创设** 设立布朗教育政策中心，创设《布朗教育政策年度报告》（*Brown Center Report on American Education*），专注于以大[[Sample Size Determination|样本量]]化数据追踪美国公立学校真实表现与政策干预效能。
-> - **2000年代–至今 — 领衔国家标准怀疑派论战与实证反思** 在[[Institute of Education Sciences|教育科学研究院]]（IES）首任院长[[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover J. Whitehurst）与资深研究员汤姆·洛夫利斯（ToM Loveless）主持下，针对 [[Common Core State Standards|CCSS]] 的理论假说与政策效能开展长达数年的实证检验，成为挑战主流教育改革共识的标志性学术基地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> - **2000年代–至今 — 领衔国家标准怀疑派论战与实证反思** 在[[Institute of Education Sciences|教育科学研究院]]（IES）首任院长[[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover J. Whitehurst）与资深研究员汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless）主持下，针对 [[Common Core State Standards|CCSS]] 的理论假说与政策效能开展长达数年的实证检验，成为挑战主流教育改革共识的标志性学术基地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 ---
 

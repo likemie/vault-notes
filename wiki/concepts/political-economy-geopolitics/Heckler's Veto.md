@@ -8,7 +8,7 @@ aliases:
 summary: "宪法学与言论自由法理概念，指行政当局或机构以防范听众、抗议者的敌意、冒犯感或潜在暴力反应为由，取消、压制或惩罚演讲者合法表达权利的行为机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,12 +18,10 @@ tags:
   - theme/higher-education
   - political-philosophy
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Academic Freedom]]"
   - "[[Grandes Ecoles]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pauli Murray]]"
@@ -90,7 +88,7 @@ updated: 2026-10-20
 > **宪法权利的不可剥夺性** 即使发声者的观点极具冒犯性且面临潜在暴力冲突，法律也必须保护其表达权，而不能允许第三方的抗议情绪演变为阻断公共表达的特权，否则言论自由将彻底沦为多数人或激进群体的附庸。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **现代高校避险机制对思想交锋的扼杀** 当代西方高等教育与公共文化过度将“不造成他人心理不适”置于实质性思想探索之上，使起哄者否决从偶发的治安妥协演变为日常的管理[[Disciplina and Doctrina|规训]]，直接导致学术精英与行政管理者丧失捍卫基本信念的道德勇气。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–61)]]
+> **现代高校避险机制对思想交锋的扼杀** 当代西方高等教育与公共文化过度将“不造成他人心理不适”置于实质性思想探索之上，使起哄者否决从偶发的治安妥协演变为日常的管理规训，直接导致学术精英与行政管理者丧失捍卫基本信念的道德勇气。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–61)]]
 
 ---
 

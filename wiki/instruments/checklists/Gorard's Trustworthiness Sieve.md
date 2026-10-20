@@ -10,7 +10,7 @@ aliases:
 summary: "英国杜伦大学学者斯蒂芬·戈拉德研发的因果研究质评核查表与可信度分级规程，依据研究设计、样本规模、数据缺失与测量质量四个维度进行非补偿性逐级筛查并划定0至4级评级"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 16
+instrument_related_count: 15
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons:
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Gorard's Trustworthiness Sieve
@@ -107,5 +106,5 @@ updated: 2026-10-16
 
 ## 使用该工具的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 以戈拉德可[[Reliability|信度]]筛子甄别 323 项文献，仅 33 项达到最低因果设计标准，高可信度研究寥寥无几，揭示证据利用领域的因果证据赤字。

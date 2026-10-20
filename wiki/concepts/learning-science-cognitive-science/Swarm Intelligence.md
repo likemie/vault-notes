@@ -8,7 +8,7 @@ aliases:
 summary: "指由大量结构简单的自主个体在缺乏中央控制或全局指令的条件下，依据局部感知与局部交互规则，自发涌现出高度有序、灵活且具备强大抗逆力的全局协同决策与复杂问题解决能力的自组织协同范式；在卡普与扎米斯卡（2025）的论证中，群智能构成了硅谷顶尖初创企业与实战工程文化最本质的组织原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

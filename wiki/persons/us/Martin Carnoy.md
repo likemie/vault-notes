@@ -7,7 +7,7 @@ summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Protean Episteme]]"
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
@@ -39,12 +38,12 @@ related_concepts:
   - "[[Champ]]"
   - "[[Performance Pay]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Joel Samoff]]"
   - "[[Liliana Esther Olmos]]"
@@ -116,7 +115,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 卡诺伊的核心思想在于**彻底打破教育政策与规划的“技术中立性神话”，将教育制度牢牢锚定在资本主义国家权力的结构性矛盾之中**。他断言，不存在超越历史与政治的纯粹客观教育方案：任何关于教育效率、质量评价与资源配置的诊断，在深层都必然折射出其所秉持的国家理论。资本主义国家必须同时兼顾“资本积累”与“政治合法化”两项互相对立的功能，这使得学校教育始终成为垄断资本的技能[[Disciplina and Doctrina|规训]]意志与劳动阶级民主平权诉求激烈搏杀的政治战场。
+> 卡诺伊的核心思想在于**彻底打破教育政策与规划的“技术中立性神话”，将教育制度牢牢锚定在资本主义国家权力的结构性矛盾之中**。他断言，不存在超越历史与政治的纯粹客观教育方案：任何关于教育效率、质量评价与资源配置的诊断，在深层都必然折射出其所秉持的国家理论。资本主义国家必须同时兼顾“资本积累”与“政治合法化”两项互相对立的功能，这使得学校教育始终成为垄断资本的技能规训意志与劳动阶级民主平权诉求激烈搏杀的政治战场。
 
 > [!citation-card] 教育政策诊断内生于国家理论的前提性支配
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]

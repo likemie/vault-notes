@@ -8,7 +8,7 @@ aliases:
 summary: "指当代精英青年与专业阶层过度追求保留退路与最大化未来可能性，从而系统性规避做出不可逆承诺、亮明明确立场或承担现实冒险后果的心智与行为模式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Longitudinal Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

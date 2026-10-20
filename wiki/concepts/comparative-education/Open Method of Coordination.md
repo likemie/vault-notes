@@ -18,7 +18,6 @@ tags:
   - region/eu
   - method/soft-governance
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Subsidiarity Principle]]"
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
@@ -27,6 +26,7 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Educational Discourse]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Open Method of Coordination
@@ -67,7 +67,7 @@ updated: 2026-10-16
 > **开放协调法（Open Method of Coordination，OMC / 开放式协调机制）** 是[[EU|欧洲联盟]]在后阿姆斯特丹条约与[[Lisbon Strategy|里斯本战略]]时期确立的一种新型超国家软法治理工具。该机制旨在各成员国保留排他性立法主权、欧盟缺乏直接指令权的政策领域（尤指教育、就业与社会保障），达成跨国政策的协同与趋同。其核心运作逻辑在于：超国家机构并不制定具法律拘束力的统一法令，而是通过拟定共同战略目标、建立量化评估指标体系与发展基准线（Benchmarks）、促进各国“最佳实践”辨识与经验对话，并辅以定期的国家行动计划汇报与同行评议（Peer Review），依靠声誉机制与同侪比较压力（Naming and Shaming），自下而上地引导成员国国内政策向超国家优先议程自主靠拢。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 > [!concept-lens] 概念透镜
-> - **指向** 一套不依赖主权让渡与法律制裁、纯粹依靠量化基准与同行监测实现的跨国软性[[Disciplina and Doctrina|规训]]机制。
+> - **指向** 一套不依赖主权让渡与法律制裁、纯粹依靠量化基准与同行监测实现的跨国软性规训机制。
 > - **用途** 帮助研究者透视超国家机构如何在[[Subsidiarity Principle|辅助性原则]]制约下，凭借数据治理与最佳实践修辞重塑成员国政策议程。
 > - **边界** 仅适用于非共同体专属立法管辖的协调性政策领域；无法直接对成员国未达标行为处以强制性行政罚款或法律诉讼。
 
@@ -137,7 +137,7 @@ updated: 2026-10-16
 > - **2000 — [[Lisbon Strategy|里斯本战略]]正式确立** 欧洲理事会里斯本峰会正式命名“开放协调法”，将其定位为欧洲在[[Knowledge-Based Economy|知识经济]]时代实现结构性改革的核心手段。
 > - **2002 — 教育领域全面展开** Nóvoa (2002) 系统解构[[EU|欧盟]]依托 OMC 三大机制跨越宪制主权边界、制作[[European Education Space|欧洲教育空间]]的微观过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2010 — 欧洲 2020 战略指标化** 欧盟确立包含[[Academic Attrition|早期离校]]率低于 10%、高等教育完成率达 40% 等五大约束性教育基准线，OMC 的量化刚度进一步攀升。
-> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字[[Disciplina and Doctrina|规训]]闭环。
+> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字规训闭环。
 
 ---
 

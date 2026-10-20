@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Construct]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Heterogeneity]]"
   - "[[Washington Consensus]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Technical Rationality]]"
 related_theories:
   - "[[Pluralism]]"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
@@ -76,7 +75,7 @@ updated: 2026-10-20
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、政治学学者与非洲发展研究权威，斯坦福大学非洲研究中心（Center for African Studies）兼任教授。
-> - **核心角色** 率先提出并系统阐述了比较教育学中的[[Financial-Intellectual Complex|金融-智识复合体]][[Construct|构念]]；深入解剖了以[[World Bank|世界银行]]为代表的跨国金融机构如何通过定向资助与实证垄断[[Disciplina and Doctrina|规训]]全球南方的教育政策议程。
+> - **核心角色** 率先提出并系统阐述了比较教育学中的[[Financial-Intellectual Complex|金融-智识复合体]][[Construct|构念]]；深入解剖了以[[World Bank|世界银行]]为代表的跨国金融机构如何通过定向资助与实证垄断规训全球南方的教育政策议程。
 > - **代表贡献** 提出并命名“金融-智识复合体”（1992）；揭示国际援助机构放贷逻辑中技术官僚工具理性的铁板一块特征（1993）；与[[Martin Carnoy|马丁·卡诺伊]]合著《第三世界的教育与社会转型》（1990）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论萨莫夫的金融-智识复合体分析
@@ -134,7 +133,7 @@ updated: 2026-10-20
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 提出的[[Financial-Intellectual Complex|金融-智识复合体]]成为国际比较教育与全球教育治理领域不可或缺的核心[[Analytic Framework|分析框架]]，为解构全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了强有力的概念武器。
+> - **理论路径** 提出的[[Financial-Intellectual Complex|金融-智识复合体]]成为国际比较教育与全球教育治理领域不可或缺的核心[[Analytic Framework|分析框架]]，为解构全球教育[[Policy Borrowing|政策借用]]与规训提供了强有力的概念武器。
 > - **方法路径** 倡导深度制度[[Ethnography|民族志]]与援助政治经济学批判，追踪资助资金流向与政策研究[[Discourse|话语]]生产之间的因果链条，开创了对国际多边机构开展“[[Researching Up and Researching Down|向上研究]]”（Studying Up）的方法先河。
 > - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]与非洲本土智库的政策反思，其学术成果直接推动了受援国对国际金融机构“附加条件”的合法性质疑与政策自主权争取。
 > - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]

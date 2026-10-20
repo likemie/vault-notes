@@ -9,7 +9,7 @@ summary: "Lincoln 与 Guba 确立的质性研究可信性效度策略：研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -60,7 +60,6 @@ related_methods:
   - "[[External Auditor]]"
   - "[[Field Notes]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Peer Debriefing
@@ -192,7 +191,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在 Lincoln & Guba [[Qualitative Validity\|质性效度]]框架中系统阐述同行汇报的四维质询功能（诚实性、假设检验、盲点排查与下一步确定）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch9)]] — 在[[Qualitative Research\|质性研究]]设计中界定同行审议作为恶魔代言人的批判角色及其与[[External Auditor\|外部审计]]的分工。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 143–144)]] — 在科学实践与课堂[[Discourse Analysis\|话语分析]]中引入同行审议与同行评审机制，阐释[[Knowledge Building Theory|知识建构]]由私人主张向公共知识合法化的社会[[Epistemology\|认识论]]转化过程。

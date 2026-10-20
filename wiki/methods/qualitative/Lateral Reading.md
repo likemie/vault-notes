@@ -10,7 +10,7 @@ summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,7 +45,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Cross-checking]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lateral Reading
@@ -152,7 +151,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - Wineburg and McGrew (2019) — 对比历史学家、大学生与职业事实核查员的网络考证行为，系统确立横向阅读相较于垂直阅读的压倒性鉴伪效能。
 > - McGrew (2020) — 将横向阅读策略转化为大学[[General Education\|通识教育]]课程，实证确证其对提升青年学生网络公民推理能力的显著干预成效。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将横向阅读确立为打破生成式 AI 单一对话窗口流畅假象、开展人机混合探究的标准教学法规程。

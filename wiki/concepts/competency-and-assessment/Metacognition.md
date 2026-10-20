@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 84
+related_count: 81
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -48,6 +48,8 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Practices]]"
+  - "[[Evaluativist]]"
+  - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking Disposition]]"
@@ -63,10 +65,10 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Creativity Training]]"
   - "[[Learning Gain]]"
-  - "[[Variable]]"
   - "[[Domain Specificity]]"
   - "[[Cooperative Learning]]"
   - "[[Common Method Variance]]"
+  - "[[Formative Assessment]]"
   - "[[Heterogeneity]]"
   - "[[Epistemic Cognition]]"
   - "[[Dependent Variable]]"
@@ -74,15 +76,15 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Independent Variable]]"
   - "[[Dialogue in Education]]"
-  - "[[Formative Assessment]]"
-  - "[[Evaluativist]]"
   - "[[Epistemic Dependence]]"
   - "[[Problem Finding]]"
-  - "[[Creativity Assessment]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Likert Scale]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Sample Size Determination]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
@@ -93,14 +95,9 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Chi-Squared Test]]"
-  - "[[Likert Scale]]"
-  - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Remote Associates Test]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
-  - "[[Problem Solving Inventory]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_arguments:
@@ -119,7 +116,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Metacognition
@@ -316,11 +313,11 @@ updated: 2026-10-18
 
 > [!warning] 适用边界与教学实践警示
 > 1. **警惕过度元认知监控引发认知瘫痪** 在需要高度发散自由联想的初期阶段，过度严苛的批判性元认知审查会过早扼杀非传统构想；必须区分发散探索期（低监控）与收敛评定期（高监控）。
-> 2. **元认知支架防范教条化与超载** 过于繁琐的反思填表任务易引发学生的合规性应付与认知超载，必须将支架动态渐退（Scaffold Fading）。
+> 2. **元[[Scaffolding|认知支架]]防范教条化与超载** 过于繁琐的反思填表任务易引发学生的合规性应付与认知超载，必须将支架动态渐退（Scaffold Fading）。
 > 3. **实施显性化元认知指导** 在学科教学中不仅讲授知识内容，更公开示范专家如何在面对难题时自我提问、规划路径、察觉走入死胡同并主动切换视角的内隐元认知思维流。
 > 4. **保障独立深思沉浸优先于松散讨论** 在课堂探究中推行先独立构想深思再小组碰撞的组织规程，确保每名学生经历完整的元认知调控过程，避免被动依赖同伴或产生责任分散。
-> 5. **嵌入认识论摩擦反思支架** 严禁无思考地直接复制 AI 生成结果，要求学生提交提示词修改链（Prompt Trail），强制回答提问动机、输出漏洞与修正标准，激活元认知防御。
-> 6. **推行以反思为导向的形成性评价** 采用档案袋评价（Portfolio）、多轮草图迭代展评与量规自评，引导学生从关注分数结果转向关注自身认知策略的有效性与优化空间。
+> 5. **嵌入[[Epistemic Friction|认识论摩擦]]反思支架** 严禁无思考地直接复制 AI 生成结果，要求学生提交提示词修改链（Prompt Trail），强制回答提问动机、输出漏洞与修正标准，激活元认知防御。
+> 6. **推行以反思为导向的[[Formative Assessment|形成性评价]]** 采用档案袋评价（Portfolio）、多轮草图迭代展评与量规自评，引导学生从关注分数结果转向关注自身认知策略的有效性与优化空间。
 
 ---
 

@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 61
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -32,11 +32,11 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Educational Privatisation]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Implementation Fidelity]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Pedagogy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Direct Instruction]]"
@@ -55,6 +55,8 @@ related_theories:
   - "[[Panopticism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Pilot Testing]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -93,10 +95,11 @@ related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Visible Learning Branding and Global Influences
@@ -125,7 +128,7 @@ updated: 2026-10-19
 
 > [!proc] 公共学术资产的商业化三步转化
 > 1. **数据与技术前身（[[Assessment Tools for Teaching and Learning|asTTle]]）** 1999–2000 年，Hattie 受新西兰教育部委托领导开发基于光盘的国家课程评估工具 asTTle，后升级为在线版 e-asTTle。其图形仪表盘展示与后来 2009 年著作中的图示高度同构；2015 年教育部发布招标文件（RFP），寻求出资 400–800 万美元投资伙伴，授权向新西兰学校收费并开发国际销售版，成为公共教育知识产权商业化的试验案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8–9, 47)]]
-> 2. **商标注册与实验室创建** 2006 年 4 月奥克兰大学全资公司 Auckland Uniservices 注册 Visible Learning 商标并创建实验室（后于 2008 年放弃）；2011–2012 年 [[Cognition Education|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标；2013 年在澳大利亚注册 Visible Classroom 商标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
+> 2. **商标注册与实验室创建** 2006 年 4 月奥克兰大学全资公司 Auckland Uniservices 注册 Visible Learning 商标并创建实验室（后于 2008 年放弃）；2011–2012 年 [[Cognition Education|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标；2013 年在澳大利亚注册 [[Visible Classroom]] 商标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
 > 3. **Cognition Education 作为商业承接载体** 2010 年奥克兰大学教育学院停止支持该平台后，Hattie 与 Cognition 达成合作，将其[[Meta-analysis|元分析]]原理转写为面向教师与校长的模块化专业培训课程。Hattie 担任董事并按协议获取所有 VL 业务版税，首年实现收入近 200 万美元，次年达 270 万美元。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 59–60)]]
 
 ### 2. 商业化运营体系与全球分销网络
@@ -134,11 +137,11 @@ Visible Learning 的跨国扩张依托轻资产区域特许授权和多层商业
 
 > [!feature] 商业化运营核心机制
 > - **培训产品与认证矩阵** 形成 Foundation（基础概念）、Inside（深入实践）与 Collaborative Impact（学校整体改进）三大系列共 16 个工作坊；建立“可见学习成效认证学校”（Visible Learning Impact Certified School）评价体系，向学校颁发权威认证。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
-> - **商业特许加盟与逐字脚本控制规程** 项目直接借鉴连锁商业加盟经验，构建严苛的解约与质量控制合同体系；培训内容历经 5 轮实地测试精确脚本化到一字一句，讲师认证通过率仅五分之一并严厉禁止分享个人课堂轶事与战斗故事，将实施保真度完全建立在流水线规训之上，在新西兰试点前 6 个月引发约 70% 学校退出，在丹麦斯坎讷堡自治市亦遭多校退盟抵制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
+> - **商业特许加盟与逐字脚本控制规程** 项目直接借鉴连锁商业加盟经验，构建严苛的解约与质量控制合同体系；培训内容历经 5 轮[[Pilot Testing|实地测试]]精确脚本化到一字一句，讲师认证通过率仅五分之一并严厉禁止分享个人课堂轶事与战斗故事，将[[Implementation Fidelity|实施保真度]]完全建立在流水线规训之上，在新西兰试点前 6 个月引发约 70% 学校退出，在丹麦斯坎讷堡自治市亦遭多校退盟抵制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
 > - **[[Corwin Press|Corwin]] 跨国收购与全方位变现（2018 年后）** 2018 年 Corwin（[[Sage]] 集团旗下，年收入约 5,000 万美元）全资收购 Visible Learningplus。产品线迅速扩展至在线培训、学校奖项评比、年度学院（369 美元/人）、高级认证（2,750 美元/席）以及海量衍生图书。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
-> - **轻资产区域授权网络与数据回流** 通过六大区域核心伙伴网络交付：Osiris Educational（英国）、JN Partnership 与 Challenging Learning（斯堪的纳维亚）、Corwin（澳大利亚与北美）、Bazalt（荷兰），以零自建实体成本迅速占领 23 国市场；哈蒂通过每年向运营商提供 30 天差旅宣讲，换取全球数万名一线师生实践数据的独家学术分析权。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255, 260)]]
+> - **轻资产区域授权网络与数据回流** 通过六大区域核心伙伴网络交付：Osiris Educational（英国）、JN Partnership 与 Challenging Learning（斯堪的纳维亚）、Corwin（澳大利亚与北美）、Bazalt（荷兰），以零自建实体成本迅速占领 23 国市场；[[John Hattie|哈蒂]]通过每年向运营商提供 30 天差旅宣讲，换取全球数万名一线师生实践数据的独家学术分析权。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255, 260)]]
 > - **衍生子品牌裂变** 从单本图书演化为庞大的品牌家族，涵盖读写（Visible Learning for Literacy）、数学（Visible Learning for Mathematics）、行动案例（Visible Learning into Action）及学生福祉（Visible Wellbeing）等领域，促使多国学校自我标识为“Hattie 学校”。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 419)]]
-> - **Visible Classroom 实时监控 App** Hattie 团队与 Ai-Media 联合研发，获英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑试点并在 140 所学校开展试验；研发移动应用在 3 秒内完成课堂录音转录与编码，以客观文字数据破除教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区，按次收费反馈将[[Technical Rationality|技术理性]]推进至微观课堂劳动的直接监控。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 49–50)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
+> - **Visible Classroom 实时监控 App** Hattie 团队与 Ai-Media 联合研发，获英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑试点并在 140 所学校开展试验；研发移动应用在 3 秒内完成课堂录音[[Transcription in Qualitative Research|转录]]与编码，以客观文字数据破除教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区，按次收费反馈将[[Technical Rationality|技术理性]]推进至微观课堂劳动的直接监控。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 49–50)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 > [!logic-map]- 可见学习知识商业化与跨国扩张引擎
 > ```mermaid
@@ -197,7 +200,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > - **制度伦理审查（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出 Hattie 在 Cognition 董事会任职同时通过商业化获取版税，外观上存在严重的利益冲突；且 Cognition 慈善信托的实际捐赠支出仅占集团总收入的 0.9%，实质沦为新自由主义市场化运作的壳机构。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 > > - **“饥饿-危机-私有化”治理循环** 论证 VL 刻意贬低[[Class Size|班级规模]]（词频出现 95 次）与硬件投资的重要性，实质契合了紧缩时期的公共财政削减议程，通过制造学校低效危机推动培训业务私有化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–35)]]
 >
-> > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]
+> > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训
 > > [[Critical Pedagogy|批判教育学]]者警示 VL 异化为规训教师日常劳动的行政监控工具。
 > >
 > > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
@@ -219,7 +222,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **2006–2008 — 商标布局与机构筹备期** 奥克兰大学申请 VL 商标并创建实验室；Hattie 出任 [[Cognition Education|Multi Serve]]（后更名 Cognition Education）董事会董事。
 > - **2009–2010 — 著作问世与媒体爆发期** *[[Visible Learning]]* 出版引发全球热潮；新西兰媒体风暴爆发；Cognition Education 启动 VLplus 商业运营，集团收入达 6,900 万美元高点。
 > - **2011–2014 — 跨国扩张与政策标准嵌入期** 注册 Visible Learningplus 国际商标；Hattie 赴墨尔本大学并出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，将指标嵌入澳大利亚国家标准；丹麦议会通过引用 VL 的公立学校改革。
-> - **2015–2017 — 衍生生态与制度化渗透期** e-asTTle 启动商业化招标；ACEL 与 [[Corwin Press|Corwin]] 建立深度合作推广联盟；推出 Visible Classroom 应用程序并在英国与北美推广；维多利亚州教育部官方背书；俄文版出版。
+> - **2015–2017 — 衍生生态与制度化渗透期** e-asTTle 启动商业化招标；ACEL 与 [[Corwin Press|Corwin]] 建立深度合作推广联盟；推出 [[Visible Classroom]] 应用程序并在英国与北美推广；维多利亚州教育部官方背书；俄文版出版。
 > - **2018–2023 — 跨国集团收购与学术批判深化期** Corwin（[[Sage]] 集团）正式收购 Visible Learningplus；原书续作出版；遭遇批判学者关于利益冲突、伪科学与[[Neo-Taylorism|新泰勒主义]]的系统清算。
 > - **2024 至今 — 二阶数据库基础设施化与质量反思期** 底层数据库拓展为收录 2,100 余项[[Meta-analysis|元分析]]的 [[Visible Learning Meta-X]]；[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 实证评测揭示早期历史录入偏离，推动向[[Man-Computer Symbiosis|人机协同]]验证[[Paradigm|范式]]演进。
 
@@ -256,7 +259,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Cognition Education]] | Fact (Organization) | 早期负责 VLplus 全球教师培训、商标持有与商业运营的核心[[Educational Management Organisation\|教育管理组织]]（EMO）。 |
 > | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 为新西兰教育服务外包与知识商业化提供制度温床的 1989 年宏观教育改革。 |
 > | [[Assessment Tools for Teaching and Learning]] | Instrument | Hattie 主持开发的新西兰国家[[Formative Assessment\|形成性评估]]工具，构成 VL 的技术原型与商业化试验案例。 |
-> | [[Education Endowment Foundation]] | Fact (Organization) | 资助 Visible Classroom 试点并将其实证研究纳入循证工具包的英国权威机构。 |
+> | [[Education Endowment Foundation]] | Fact (Organization) | 资助 [[Visible Classroom]] 试点并将其实证研究纳入循证工具包的英国权威机构。 |
 > | [[Australian Institute for Teaching and School Leadership]] | Fact (Organization) | Hattie 曾任主席并将可见学习指标全面嵌入国家教师与校长专业标准的国家机构。 |
 > | [[Victorian HITS and Literacy Toolkit]] | Fact (Policy) | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
 > | [[Learning Intentions]] | Concept | 可见学习商业培训包中被重点标准化的核心教学概念，后在维州沦为白板打卡指标。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,9 +19,9 @@ tags:
   - continuous-improvement
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Bureaucracy]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Homework]]"
   - "[[Performance Indicators]]"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Statistical Process Control]]"
   - "[[Effect Size]]"
   - "[[Industrial Benchmarking]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
@@ -72,7 +71,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **全面质量管理（Total Quality Management, TQM）** 是一种系统性的组织管理与质量提升[[Paradigm|范式]]，主张将质量视为贯穿组织所有部门与业务流程的整体属性。其核心特征包括：以客户与最终受益者（如学生与社会）的需求为导向、全体成员共同对质量负责、依托[[Statistical Process Control|统计过程控制]]与量化事实开展循证决策，并通过“计划-执行-检查-处理”（PDCA）循环推进持续改进（Continuous Improvement），从而消除组织流程变异与系统性缺陷。在高精技术制造中，TQM 结合全员生产维护（TPM）与跨专业工程诊断，将质量控制由传统的后端成品检验前移至制造全流程参数监控。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
+> **全面质量管理（Total Quality Management, TQM）** 是一种系统性的组织管理与质量提升[[Paradigm|范式]]，主张将质量视为贯穿组织所有部门与业务流程的整体属性。其核心特征包括：以客户与最终受益者（如学生与社会）的需求为导向、全体成员共同对质量负责、依托[[Statistical Process Control|统计过程控制]]与量化事实开展[[Evidence-Based Policy-Making|循证决策]]，并通过“计划-执行-检查-处理”（PDCA）循环推进持续改进（Continuous Improvement），从而消除组织流程变异与系统性缺陷。在高精技术制造中，TQM 结合全员生产维护（TPM）与跨专业工程诊断，将质量控制由传统的后端成品检验前移至制造全流程参数监控。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将质量控制从“末端产品质检与追责”前置为“全过程系统优化与全员能力赋能”的组织治理机制。
@@ -85,7 +84,7 @@ updated: 2026-10-20
 > *[[Sematech]] invested heavily in the Partnering for Total Quality program to train suppliers in TQM principles, transforming supply relationships into continuous improvement networks.*
 
 > [!boundary]- 概念边界
-> - 不等于 **[[Neo-Taylorism|新泰勒主义]]（Neo-Taylorism）** — 新泰勒主义依靠自上而下的严格工作定额、标准动作[[Disciplina and Doctrina|规训]]与外部监视，而 TQM 强调通过一线员工（教师/技术人员）的专业自治、自主团队与流程再造实现内生质量提升。
+> - 不等于 **[[Neo-Taylorism|新泰勒主义]]（Neo-Taylorism）** — 新泰勒主义依靠自上而下的严格工作定额、标准动作规训与外部监视，而 TQM 强调通过一线员工（教师/技术人员）的专业自治、自主团队与流程再造实现内生质量提升。
 > - 不等于 **终结性绩效问责（High-Stakes Accountability）** — 外部高利害问责往往在期末依据单一考试指标进行奖惩与归咎，TQM 则聚焦于运行过程中的微观变异监控、系统性障碍消除与预防性改进。
 
 ---

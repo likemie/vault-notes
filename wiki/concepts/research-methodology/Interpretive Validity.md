@@ -7,7 +7,7 @@ aliases:
 summary: "Maxwell 质性效度体系的核心类型之一，指研究忠实捕捉情境与事件对参与者本人的主观意义、术语体系与行动意图的能力；在量化实证与二阶综合中常被延伸指涉推论能否准确反映底层干预与测量真实内涵的解释恰切性。"
 type: concept
 domain: "research-methodology"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -59,7 +59,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
@@ -68,7 +67,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Interpretive Validity
@@ -195,6 +194,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽阐发 Maxwell (1992) 的解释效度定义，指出其以参与者术语捕捉主观意义的核心属性，并辨析了[[Qualitative Research|质性研究]]与量化实证[[Paradigm|范式]]在效度基石上的深层分野。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 运用[[Metascience|元科学]]全库审计剖析《[[Visible Learning|可见的学习]]》，实证揭示研究对象与对照基线的广泛混杂如何瓦解二阶综合[[Effect Size|效应量]]的因果解释效度。

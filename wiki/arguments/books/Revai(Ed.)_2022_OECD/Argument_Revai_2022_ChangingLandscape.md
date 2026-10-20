@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Formative Assessment]]"
   - "[[Research Impact]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Publication Bias]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
@@ -104,7 +105,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Revai_2022_ChangingLandscape
 
@@ -281,7 +282,7 @@ updated: 2026-10-17
 >   - 提出复杂性视阈下的教师专业知识动态治理框架（Révai & Guerriero, 2017），并实证揭示网络在规模化扩散教育创新与证据中的非线性特征（Révai, 2020）。
 > - **教育知识治理体系构建**
 >   - 系统解构复杂教育体系中的政策制定与多利益相关者互动（Burns & Köster, 2016; Burns et al., 2016），确立知识与治理的互动[[Analytic Framework\|分析框架]]；
->   - 运用治理框架支持多国建立循证决策体系，诊断国家系统有效生产与使用知识的能力瓶颈（Shewbridge & Köster, 2021; Köster et al., 2020）。（p.21）
+>   - 运用治理框架支持多国建立[[Evidence-Based Policy-Making|循证决策]]体系，诊断国家系统有效生产与使用知识的能力瓶颈（Shewbridge & Köster, 2021; Köster et al., 2020）。（p.21）
 
 ---
 

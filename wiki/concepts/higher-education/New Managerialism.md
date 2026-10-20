@@ -10,10 +10,10 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/higher-education
   - theme/educational-governance
@@ -21,13 +21,12 @@ tags:
   - level/higher-ed
   - region/global
 related_concepts:
-  - "[[Critic and Conscience of Society]]"
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[Creativity]]"
+  - "[[Critic and Conscience of Society]]"
   - "[[School Autonomy]]"
   - "[[Externalization]]"
   - "[[New Public Management]]"
@@ -36,8 +35,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Gerald Grace]]"
@@ -67,7 +65,7 @@ updated: 2026-10-20
 > - **用途** 帮助研究者透视高等教育市场化、学术劳工无产阶级化以及量化审计文化如何重塑大学的科研与教学实践。
 > - **边界** 不等于传统的韦伯式科层行政（[[Bureaucracy]]），也不等于一般意义上的学术质量评估；其核心特质在于以市场收益、外包竞争与目标产出替代传统的同行自主与专业声誉。
 
-> [!citation-card] 市场化[[Disciplina and Doctrina|规训]]与学术机构的新管理主义
+> [!citation-card] 市场化规训与学术机构的新管理主义
 > 在高等教育层面，新管理主义将市场的语言与逻辑全面应用于监督学术单位的日常运作与产出成果。政府在缩减公共开支的同时，强调选择、问责、标准与测试，国家的角色转变为设定目标与优先事项，并通过绩效评估来审查次级行政单元乃至单所学校是否达成了预期结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 >
 > *At the higher education level, there is the "new managerialism" that applies the language and logic of the market place to overseeing the operations and outcomes of academic units... Government policies based on these notions have led to a drastic reduction in the state's role in social spending... with the state's role to specify goals and priorities and evaluate whether or not the various subnational administrative units, and even individual schools, [[Achieve]] the desired results.*
@@ -124,8 +122,8 @@ updated: 2026-10-20
 > [!claim] Marginson, S.
 > **商业逻辑对大学公共职能的侵蚀** 新管理主义将大学定位于全球高等教育市场中的商业竞争者，为了争夺生源、捐赠与世界排名，大学优先发展高回报的应用性与盈利性项目，边缘化批判性人文社会科学，削弱了大学作为社会良知与民主批评阵地的传统角色。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
-> [!claim] Grace, G.
-> **法定良知职能作为抵御新管理主义殖民的制度反制** [[Gerald Grace|格雷斯]]指出，新管理主义与财政部原教旨主义试图将大学重塑为自负盈亏的技术培训机构与行政绩效附庸。为抵御新管理主义对高等教育的意识形态殖民，新西兰学界推动将[[Critic and Conscience of Society|社会的批评者与良知]]写入《1989 年教育法》，以法定形式赋予大学向权力讲真话的独立制衡职责，构成了学术系统抵制管理主义渗透的关键制度防御。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
+> [!claim] [[Gerald Grace|Grace, G.]]
+> **法定良知职能作为抵御新管理主义殖民的制度反制** 格雷斯指出，新管理主义与财政部原教旨主义试图将大学重塑为自负盈亏的技术培训机构与行政绩效附庸。为抵御新管理主义对高等教育的意识形态殖民，新西兰学界推动将[[Critic and Conscience of Society|社会的批评者与良知]]写入《1989 年教育法》，以法定形式赋予大学向权力讲真话的独立制衡职责，构成了学术系统抵制管理主义渗透的关键制度防御。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 
 ---
 
@@ -156,7 +154,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 概念演变
 > - **1980 年代 — [[New Public Management|新公共管理]]浪潮发轫** 英国撒切尔政府与美国里根政府推行新公共管理（New Public Management, NPM），主张引入私营企业管理手法削减公共赤字。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
-> - **1988–1989 — 新西兰将“社会的批评者与良知”立法定为反制机制** 面对财政部与新管理主义倡导者的市场化冲击，格雷斯提出大学必须承担面向公权力的批判良知使命；该原则被写入《1989 年教育法》，开创了以国家立法抗拒新管理主义意识形态殖民的先例。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
+> - **1988–1989 — 新西兰将“[[Critic and Conscience of Society|社会的批评者与良知]]”立法定为反制机制** 面对财政部与新管理主义倡导者的市场化冲击，格雷斯提出大学必须承担面向公权力的批判良知使命；该原则被写入《1989 年教育法》，开创了以国家立法抗拒新管理主义意识形态殖民的先例。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1990 年代 — 全面渗透高等教育领域** 英美、澳新等国学者（如 Deem, Marginson）系统记录并批判管理主义进驻大学，揭示其对大学文化与学术劳动的解构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 115)]]
 > - **2000 年代至今 — 全球扩散与跨国排名驱动** 伴随全球化浪潮、跨国大学排行榜与[[International Education|国际教育]]服务贸易的激增，新管理主义演变为全球高等教育机构竞争与治理的标准配置。
 

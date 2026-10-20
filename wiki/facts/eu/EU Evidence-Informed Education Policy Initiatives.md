@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Lifelong Learning]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Scientific Literacy]]"
   - "[[Evidence Ecosystem]]"
@@ -109,7 +110,7 @@ updated: 2026-10-20
 > [!citation-card] 2007 年欧洲委员会标志性政策宣言
 > 循证政策与实践应当成为欧洲教育与培训系统深化改革的核心驱动力。
 >
-> *"Evidence-based policy and practice should be the driver of reform in education and training systems."*（European Commission, 2007，引于 [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 29]]）
+> *"[[Evidence-Based Policy-Making|Evidence-based policy]] and practice should be the driver of reform in education and training systems."*（European Commission, 2007，引于 [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 29]]）
 
 ---
 

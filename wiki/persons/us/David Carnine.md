@@ -10,7 +10,7 @@ summary: "俄勒冈大学荣休教授、直接教学法先驱，2000 年在福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Empiricism]]"
   - "[[Decodification]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Learning Intentions]]"
   - "[[Scientism]]"
   - "[[Teacher Professional Agency]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # David Carnine
@@ -109,7 +108,7 @@ updated: 2026-10-17
 
 > [!influence-path] 影响路径
 > - **政策与立法路径** 其医学比附直接推动了美国小布什政府推行以科学为基础的研究（[[Scientifically Based Research]], SBR）政策，成为 [[Every Student Succeeds Act|ESSA]] 等[[Evidence-Based Education|循证教育]]法案的前驱思想资源。
-> - **教学策略技术化[[Disciplina and Doctrina|规训]]** 卡宁的论调为后续包括澳大利亚维多利亚州高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）在内的清单化改革确立了舆论借口，促成上课前必须板书[[Learning Intentions|学习意图]]等形式主义规程的落地。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
+> - **教学策略技术化规训** 卡宁的论调为后续包括澳大利亚维多利亚州高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）在内的清单化改革确立了舆论借口，促成上课前必须板书[[Learning Intentions|学习意图]]等形式主义规程的落地。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 > - **批判学术靶点** 成为当代批判政策学者（如 Johnson & Janzen, 2023）剖析教育新自由主义意识形态、[[Neo-Taylorism|新泰勒主义]]管理逻辑与[[Scientism|科学主义]]霸权的核心代表人物。
 
 ---

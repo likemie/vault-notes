@@ -12,9 +12,9 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 50
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 49
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -64,7 +64,6 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Statistical Significance]]"
-  - "[[Correlational Research]]"
   - "[[Cluster Analysis]]"
 related_instruments: []
 related_persons:
@@ -278,7 +277,7 @@ updated: 2026-10-20
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等对 17 项 [[Education Endowment Foundation\|EEF]] 试验做多层模型复算，证明 HLM 校正集群效应不可替代，推动《EEF 评估统计分析指南》（2018）出台。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 批评了[[International Education\|国际教育]]证据清算机构忽视[[Cluster Randomized Trials\|集群随机试验]]中的 HLM 与 [[Intraclass Correlation Coefficient\|ICC]] 校正，指出未做多层校正会导致[[Standard Error\|标准误]]严重低估与虚假显著性。
 > - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 运用三层多层线性模型架构将[[Meta-analysis\|元分析]]总变异分解为[[Sampling Error\|抽样误差]]、研究内[[Effect Size\|效应量]]变异与[[Heterogeneity\|研究间异质性]]三层方差。

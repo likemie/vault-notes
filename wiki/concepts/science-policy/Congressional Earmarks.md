@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_theories:
   - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fred Block]]"

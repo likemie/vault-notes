@@ -8,7 +8,7 @@ aliases:
 summary: "欧文·戈夫曼提出的社会学经典概念，指将同类群体的全部生活集中在单一场所和单一权威之下、与外部社会高度隔绝且管理者与被管理者截然对立的封闭组织形态；可用于审视寄宿学校及当代精英大学的制度规训与心智塑造。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,15 +20,14 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Boarding Schools]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Bureaucracy]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Observation]]"
   - "[[Narrative Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Erving Goffman]]"
@@ -59,7 +58,7 @@ updated: 2026-10-20
 > 全控机构（Total Institution）是社会学家[[Erving Goffman|欧文·戈夫曼]]（[[Erving Goffman]]）在《收容所》（*Asylums*, 1961）中提出的制度社会学经典概念，指大量处境相似的个体在相当长的时间内与外部广阔社会相隔绝，并在封闭、受到形式化管理的单一权威与场所中共同度过全部日常生活的一种组织形态。在全控机构中，睡眠、游憩与工作等通常在不同[[Champ|场域]]展开的活动被强行一体化，由统一的严格日程和管理者阶层集中支配。精神病院、监狱、军队、修道院与[[Boarding Schools|寄宿学校]]是其典型范例（Goffman, 1961, p. xxi; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], §31.3）。在当代政治社会学中，该概念进一步被引申为对精英大学及科技企业封闭行政文化、语言自我审查与道德钝化机制的批判透镜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 描述打破现代社会生活领域分立、将群体日常活动完全置于集中权威与封闭规范之下的全景式机构[[Disciplina and Doctrina|规训]]形态。
+> - **含义** 描述打破现代社会生活领域分立、将群体日常活动完全置于集中权威与封闭规范之下的全景式机构规训形态。
 > - **用途** 帮助研究者透视寄宿学校、收容机构以及当代高等学府如何通过微观空间隔离与日常规则控制，系统性重塑成员的身份认同与行动模式。
 > - **边界** 区别于一般的[[Bureaucracy|官僚制]]企业或松散社区，核心判定标准在于“生活多维度的集中一体化”与“与外部真实世界及其摩擦的结构性隔绝”。
 
@@ -96,7 +95,7 @@ updated: 2026-10-20
 
 ### 命题一　对私人空间的剥夺将激发行动者的二次调整与微观抵抗（储物行为与身份维护）
 
-> [!concept-lens] 机构[[Disciplina and Doctrina|规训]]与微观反抗机制
+> [!concept-lens] 机构规训与微观反抗机制
 > 探讨全控机构在剥夺成员物质与心理隐私时，行动者如何利用微观空间维持自主性与人格完整。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
@@ -137,7 +136,7 @@ updated: 2026-10-20
 
 > [!debates] 学术争议
 >
-> > [!axis] 绝对[[Disciplina and Doctrina|规训]]倾向 vs 庇护关怀与行动者能动性
+> > [!axis] 绝对规训倾向 vs 庇护关怀与行动者能动性
 > > 争论焦点在于[[Michael Gove|戈夫]]曼的分析是否过度强调了机构权力的压迫性与去人格化，而忽视了工作人员在治疗、保护与关怀层面的善意动机，以及行动者利用制度缝隙实现的能动重构。
 > >
 > > - **批判视角** 指出将所有制度限制统摄为压迫性规训容易掩盖合理的照料与安全考量，将[[Boarding Schools|寄宿学校]]等教育机构直接等同于精神病院存在类比过度的风险。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
@@ -155,4 +154,4 @@ updated: 2026-10-20
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.3)]] — 运用[[Michael Gove|戈夫]]曼关于机构储物与二次调整的[[Narrative Analysis|叙事分析]]，示范如何将个体微观行为置回全控机构的制度情境中进行解释。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 引用戈夫曼关于全控机构的经典界定，批判当代西方顶尖大学在内部文化封闭与无摩擦[[Disciplina and Doctrina|规训]]下对学生与管理者智识勇气的系统性磨灭。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 引用戈夫曼关于全控机构的经典界定，批判当代西方顶尖大学在内部文化封闭与无摩擦规训下对学生与管理者智识勇气的系统性磨灭。

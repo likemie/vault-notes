@@ -10,7 +10,7 @@ summary: "度量样本统计量抽样分布离散度与估计精度的核心统�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

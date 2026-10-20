@@ -9,7 +9,7 @@ aliases:
 summary: "指世俗民族国家用于维系大规模陌生人之间政治团结与“想象亲密感”的制度化国民装置，涵盖公立教育通识正典、普遍国民防卫服役、世俗公民宗教、标准化共同语言与公共新闻论坛；在当代因后现代解构与多元主义冲击而全面荒废，导致大众退守娱乐亚文化、科技精英构建封闭技术城邦，构成现代西方国家防卫意志涣散与地缘脆弱性的深层根源。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Western Civilization Course]]"
   - "[[Soft Belief]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"

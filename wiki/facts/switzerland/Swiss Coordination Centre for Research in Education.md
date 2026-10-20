@@ -12,7 +12,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Mediation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Swiss Coordination Centre for Research in Education
@@ -72,7 +73,7 @@ updated: 2026-10-16
 > [!dev-timeline]- 组织发展历程
 > - **1974 — 创设与奠基期** 依据联邦与各州联合协议正式创设于阿劳，初期聚焦于汇集全瑞士教育科研项目信息、编纂科研动态与协调跨州教育数据共享。
 > - **2000年代 — 瑞士教育报告（Bildungsbericht Schweiz）制度化** 随着国际大规模测评（[[PISA]]）的冲击，联邦与 EDK 委托 SKBF/CSRE 每四年编纂出版一次国家级《瑞士教育报告》（Swiss Education Report），系统整合基础教育、职业教育与高等教育全生命周期的实证研究与统计证据，成为国家教育监测的核心基石。
-> - **2010年代至今 — 数字化与跨国网络深度融入** 建立多语种教育研究数据库，深度参与 [[OECD]] [[Performance Indicators\|教育指标]]体系与欧洲[[Knowledge Mediation\|知识中介]]网络，持续为瑞士教育治理的循证决策提供兼具学术独立性与政策相关性的知识服务。
+> - **2010年代至今 — 数字化与跨国网络深度融入** 建立多语种教育研究数据库，深度参与 [[OECD]] [[Performance Indicators\|教育指标]]体系与欧洲[[Knowledge Mediation\|知识中介]]网络，持续为瑞士教育治理的[[Evidence-Based Policy-Making|循证决策]]提供兼具学术独立性与政策相关性的知识服务。
 
 ---
 

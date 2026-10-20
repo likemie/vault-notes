@@ -20,6 +20,7 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Falsification]]"
+  - "[[Neuromyth]]"
   - "[[Learning Styles]]"
   - "[[Causality]]"
   - "[[Self-Efficacy]]"
@@ -43,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 related_persons: []
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Refutational Evidence
@@ -62,7 +62,7 @@ updated: 2026-10-19
 
 ## 定义
 
-反驳性证据（德文：widerlegende Evidenz；英文：Refutational Evidence / Refuting Evidence）是指旨在通过严谨实证研究设计，明确否定、推翻或[[Falsification|证伪]]一线教师既有经验直觉、传统教学常规或流行教育神经神话（如[[Learning Styles|学习风格]]分类施教假说）的科研证据。
+反驳性证据（德文：widerlegende Evidenz；英文：Refutational Evidence / Refuting Evidence）是指旨在通过严谨实证研究设计，明确否定、推翻或[[Falsification|证伪]]一线教师既有经验直觉、传统教学常规或流行[[Neuromyth|教育神经神话]]（如[[Learning Styles|学习风格]]分类施教假说）的科研证据。
 
 > [!def] 核心定义
 > 反驳性证据（Refutational Evidence）构成教育科学研究向实践界传播过程中的关键证据形态。其核心功能在于通过[[Causality\|因果推断]]与统计检验，揭示某些被教师群体广泛信奉的教学策略并不具备预期的学业促进效果乃至具有潜在危害。然而，德国学者鲍尔与科拉尔（Bauer & Kollar, 2023）及贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）指出，若科学传播仅单向抛出反驳性结论而缺乏具有操作性的替代方案，将直接冲击教师的专业自尊，激发强烈的心理防御（*Abwehrhaltungen*），导致教师对科研成果产生整体性的情绪抵触与认知疏离。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]
@@ -170,7 +170,7 @@ updated: 2026-10-19
 > [!dev-timeline] 概念演变
 > - **1990s — 认知心理学异常数据响应理论** 钦与布鲁尔（Chinn & Brewer, 1993）提出学习者面对“异常与反驳性数据（Anomalous Data）”的七种心理响应模型，奠定了[[Falsification\|证伪]]性信息引发认知拒斥的微观认知基础。
 > - **2000s–2010s — 概念转变理论与反驳性文本应用** 沃斯尼亚杜（Vosniadou, 2013）等学者将概念转变框架引入科学教育，开发出“反驳性文本（Refutational Texts）”结构，证实直接对比错误观念与科学原理解释能显著提升教学效果。
-> - **2023 — 德语区教师教育反驳性证据概念化** 鲍尔与科拉尔（Bauer & Kollar, 2023）正式提出“反驳性证据（widerlegende Evidenz）”[[Construct\|构念]]，将其作为解释教师抵触[[Evidence-Based Education\|循证教育]]与坚持神经神话的关键心理[[Variable\|变量]]。
+> - **2023 — 德语区教师教育反驳性证据概念化** 鲍尔与科拉尔（Bauer & Kollar, 2023）正式提出“反驳性证据（widerlegende Evidenz）”[[Construct\|构念]]，将其作为解释教师抵触[[Evidence-Based Education\|循证教育]]与坚持[[Neuromyth|神经神话]]的关键心理[[Variable\|变量]]。
 > - **2024 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]整合** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）将反驳性证据深度融入教育科学传播理论，确立了“反驳性证据 + 建设性行动方案 + 双向递归对话”的现代中介转译范式。
 
 ---
@@ -201,7 +201,7 @@ updated: 2026-10-19
 > |:-----|:-----|:-----|
 > | [[Educational Science Communication]] | 概念 | 反驳性证据是教育科学传播中最具挑战性但也最关键的转译形态。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 孤立单向推送反驳性证据是赤字模型的典型表征，已被实证证明因果无效。 |
-> | [[Learning Styles|Learning Style Myth]] | 概念 | 反驳性证据在教育领域最典型的[[Falsification\|证伪]]对象与应用案例。 |
+> | [[Learning Styles\|Learning Style Myth]] | 概念 | 反驳性证据在教育领域最典型的[[Falsification\|证伪]]对象与应用案例。 |
 > | [[Teacher Beliefs]] | 概念 | 反驳性证据旨在重塑的微观认知中枢与阻抗源头。 |
 > | [[Self-Efficacy]] | 概念 | 科学传播需避免反驳性证据对教师教学自我效能感造成毁灭性打击。 |
 > | [[Ratgeberliteratur]] | 概念 | 商业指南文献大量充斥未经反驳性证据检验的伪科学假说。 |
@@ -211,5 +211,5 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统论证反驳性证据在缺乏建设性行动方案时引发教师心理防御与专业疏离的机制，倡导基于概念转变的双向递归科学传播。

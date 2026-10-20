@@ -9,7 +9,7 @@ aliases:
 summary: "以促进受助群体向就业过渡为核心目标的社会与教育政策范式，强调权利与义务对等原则，通过将失业救济与强制求职面试、技能培训、在职支持及税收激励绑定，旨在打破被动救济依赖并提升个体在劳动力市场中的经济自立能力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,8 @@ tags:
   - theme/welfare-reform
   - theme/educational-policy-reform
   - theme/labor-market
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Welfare-to-Work
@@ -39,7 +40,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> **福利到工作（Welfare-to-Work）** 指将传统的被动收入维持型救济转化为以促进就业为导向的积极劳动力市场干预政策范式。该范式依托新合约主义与权利—义务对等原则 (Blair, 1997; Giddens, 1998, 2000)，要求适龄失业者与受助人员接受强制求职指导、职业技能再培训或过渡性工作安排，以换取公共津贴；同时辅以托育支持、留任奖补与税收抵免等配套工具，推动受助群体融入正规就业市场。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 335–339)]]
+> **福利到工作（Welfare-to-Work）** 指将传统的被动收入维持型救济转化为以促进就业为导向的积极劳动力市场干预政策[[Paradigm|范式]]。该范式依托新合约主义与权利—义务对等原则 (Blair, 1997; Giddens, 1998, 2000)，要求适龄失业者与受助人员接受强制求职指导、职业技能再培训或过渡性工作安排，以换取公共津贴；同时辅以托育支持、留任奖补与税收抵免等配套工具，推动受助群体融入正规就业市场。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 335–339)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将社会保障给付与劳动力市场参与和职业技能提升绑定的治理模式。
@@ -95,7 +96,7 @@ updated: 2026-10-19
 
 ### 命题一　从被动救助向工作激活转变重塑了社会保障的治理伦理
 
-> [!concept-lens] 福利范式转型机制
+> [!concept-lens] 福利[[Paradigm|范式]]转型机制
 > 探讨战后福利国家如何通过重构权利与义务关系，将个体就业表现确立为公共救助合法性的关键基础。
 
 > [!claim] Legrand, T.
@@ -125,7 +126,7 @@ updated: 2026-10-19
 
 > [!debates] 学术争议
 >
-> > [!axis] 工作优先策略与人力资本发展策略的路径分歧
+> > [!axis] 工作优先策略与[[Human Capital Theory|人力资本]]发展策略的路径分歧
 > > 探讨政策应侧重推动受助者快速进入任何可用岗位，还是提供长期教育与深度技能培训。
 > >
 > > - **工作优先立场** 尽早进入职场有助于建立工作习惯并摆脱救济依赖，能以较低财政成本实现脱贫。
@@ -139,4 +140,4 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 分析英国新工党吸收美国福利到工作经验的决策过程，展示循证政策范式对跨国政策借鉴的双重塑造作用。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 分析英国新工党吸收美国福利到工作经验的决策过程，展示循证政策[[Paradigm|范式]]对跨国政策借鉴的双重塑造作用。

@@ -20,14 +20,14 @@ tags:
   - field/european-security
   - theme/strategic-autonomy
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Bonsai Army]]"
   - "[[Strategic Autonomy]]"
   - "[[Soft Power]]"
   - "[[Geopolitical Subject]]"
   - "[[Perpetual Peace]]"
   - "[[Hard Power]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 related_facts:
@@ -46,7 +46,7 @@ updated: 2026-10-20
 
 > [!person-profile] 人物档案
 > - **身份位置** Josep Borrell（1947– ），西班牙政治家、航空航天工程师与经济学家，曾任欧洲议会议长（2004–2007）、西班牙外交大臣（2018–2019）、[[EU|欧洲联盟]]外交与安全政策高级代表兼欧盟委员会副主席（2019–2024）。
-> - **核心角色** 推动欧洲地缘政治觉醒与防务一体化的关键领袖，多次直言不讳批评欧洲防务体系的脆弱性与过度依赖美国的问题。
+> - **核心角色** 推动欧洲[[Geopolitics|地缘政治]]觉醒与防务一体化的关键领袖，多次直言不讳批评欧洲防务体系的脆弱性与过度依赖美国的问题。
 > - **代表贡献** 提出冷战后欧洲武装力量缩减为[[Bonsai Army|盆景军队]]（Bonsai Armies）的战略定性，呼吁欧洲学会使用“权力语言”，重建本土国防工业与[[Strategic Autonomy|战略自主]]。
 
 > [!citation-card]- 欧洲地缘防务觉醒的旗帜定位
@@ -84,7 +84,7 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 欧洲在冷战后享受和平红利的同时忽视了国防基础建设，将武装力量缩减成了徒有其表的[[Bonsai Army|盆景军队]]；近三十个国家各自为政的采购分裂了本土军工市场，培育出脆弱的盆景产业；欧洲必须克服防务采购碎片化，大幅提高军费开支，构建真正的地缘政治防卫实体与自主工业产能。（Borrell, 2022）
+> 欧洲在冷战后享受和平红利的同时忽视了国防基础建设，将武装力量缩减成了徒有其表的[[Bonsai Army|盆景军队]]；近三十个国家各自为政的采购分裂了本土军工市场，培育出脆弱的盆景产业；欧洲必须克服防务采购碎片化，大幅提高军费开支，构建真正的[[Geopolitics|地缘政治]]防卫实体与自主工业产能。（Borrell, 2022）
 
 > [!citation-card] 博雷利论冷战后欧洲军队与产业盆景化
 > 冷战结束后，我们将自己的军队缩减成了盆景军队。欧洲各自为政的防务采办导致近三十个国家分别追求不同的供应商与采购路线，欧洲的盆景军队进而滋养出了同样微缩碎片化的盆景产业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Borrell & Mölling, cited in Karp & Zamiska, 2025, pp. 42–43)]]

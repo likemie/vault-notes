@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Champ]]"
   - "[[Doxa]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Reflexivity]]"
   - "[[Habitus]]"
 related_theories: []
@@ -44,7 +45,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2011
 doi: ""
 citation_aliases:
@@ -93,7 +94,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 
 Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'highly effective leaders', 'great leaders, great teams, great results'）——大部分在 Scott 的 *Learning Principals*(2003)报告后建立——体现了一种特定的领导力 [[Doxa]](p.49-50)：
 
-1. **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"。English(2003)论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"(p.50)
+1. **[[Evidence-Based Policy-Making|证据本位决策]]（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"。English(2003)论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"(p.50)
 2. **技术-理性主义（techno-rationalist approaches）** 改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"(p.50)。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"(p.57)
 3. **理论与实践的工具性二分** Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和[[Problem Solving|问题解决]]工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"(p.51)
 

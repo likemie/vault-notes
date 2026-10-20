@@ -39,6 +39,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Class Size]]"
   - "[[Operationalization]]"
+  - "[[Research Cage]]"
   - "[[Surface and Deep Learning]]"
   - "[[Metacognition]]"
   - "[[Theoretical Perspective]]"
@@ -48,12 +49,10 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learner Autonomy]]"
   - "[[Reflexivity]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Education as Initiation]]"
   - "[[Falsification]]"
   - "[[Central Phenomenon]]"
   - "[[Feedback]]"
-  - "[[Research Cage]]"
-  - "[[Education as Initiation]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
@@ -84,14 +83,14 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
 status: completed
 created: '2026-05-03'
-updated: 2026-10-18
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -137,7 +136,7 @@ journal: Educational Philosophy and Theory
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **哲学概念分析**<br>[[Philosophical Analysis in Education]] | 对哈蒂（2009）《[[Visible Learning\|可见的学习]]》核心理论章节（第三章论证）进行深度概念细读，追踪概念生成前提与逻辑推论链条。（p. 2） |
-> | **学术对话与思想史对勘**<br>思想史背景考察 | 将可见学习的概念预设置于与[[John Dewey\|杜威]]、比斯塔、波普尔、贝雷特、[[Ernst von Glasersfeld|冯·格拉泽斯费尔德]]以及丹麦循证接受者（克沃特鲁普、劳尔森、埃厄隆）的学术脉络中系统对比。（pp. 3–11） |
+> | **学术对话与思想史对勘**<br>思想史背景考察 | 将可见学习的概念预设置于与[[John Dewey\|杜威]]、比斯塔、波普尔、贝雷特、[[Ernst von Glasersfeld\|冯·格拉泽斯费尔德]]以及丹麦循证接受者（克沃特鲁普、劳尔森、埃厄隆）的学术脉络中系统对比。（pp. 3–11） |
 > | **反思性批判推演**<br>辩证批判分析 | 从五条相互独立又内在贯通的批判脉络出发，揭示可见学习在范畴界定、因果模型、教学关系、制度治理与[[Epistemology\|认识论]]基础上的结构性危机。（pp. 2–12） |
 
 > [!sample-panel]- 样本与材料快照
@@ -274,7 +273,7 @@ journal: Educational Philosophy and Theory
 哈蒂宣称当教师通过学生的眼睛看学习，且学生将自己视为自己的教师时，教学效果达到最大化。（p. 6）
 
 > [!tension-table] [[Constructivist Instruction|建构主义教学]]观的内在分裂
-> | 维度 | 经典激进[[Constructivist Paradigm\|建构主义]]（[[Ernst von Glasersfeld|Glasersfeld]] / Bjørgen） | 哈蒂的可见学习修正版（Hattie） |
+> | 维度 | 经典激进[[Constructivist Paradigm\|建构主义]]（[[Ernst von Glasersfeld\|Glasersfeld]] / Bjørgen） | 哈蒂的可见学习修正版（Hattie） |
 > |---|---|---|
 > | **知识与心智** | 知识是认知主体的自足建构，属于封闭的唯我论体系。（p. 7） | 照单全收，强调知识或思想本身并不居于中心，学习者对知识与观念的自主建构才是决定性的（p. 239，转引自 p. 6）。 |
 > | **文化中介** | 抨击传统学校，消解教师代表客观人类文化的权威中介角色。（p. 7） | 彻底排斥传统教学论，将文化与学科剥离于建构过程之外。（p. 6） |
@@ -317,13 +316,13 @@ journal: Educational Philosophy and Theory
 > | 维度 | 哲学对话范式（Buber / Bakhtin / Dewey / [[Socrates]]） | 可见学习的数据调控范式（Hattie） |
 > |---|---|---|
 > | **互动本质** | 主体间平等对话、意义生成的精神交往或苏格拉底式辨证。（p. 9） | 追求 $d > 0.40$ 的信息碎片单向回路传输。（p. 9） |
-> | **教育指向** | 理查德·斯坦利·彼得斯（Richard Stanley Peters）提出的[[Education as Initiation|教育即引介]]（education as initiation），引领学生走入社会的艺术、文化与公共价值领域。（p. 9） | 反向让学习对教师可见，为外科手术式的精准教学设计提供参数。（p. 9） |
+> | **教育指向** | 理查德·斯坦利·彼得斯（Richard Stanley Peters）提出的[[Education as Initiation\|教育即引介]]（education as initiation），引领学生走入社会的艺术、文化与公共价值领域。（p. 9） | 反向让学习对教师可见，为外科手术式的精准教学设计提供参数。（p. 9） |
 > | **教师定位** | 引导学生探究公共世界的成熟文化主体。（p. 9） | 彻底转变为自身教学效果的学徒与数据捕获者。（p. 9） |
 
 通过抽空主体间对话，反馈演变为双重控制机制，其核心在于逆向捕获学生认知数据。
 
 > [!proc] 哈蒂反馈概念的双重运作机制
-> 1. **演绎维度：目标行为的刚性[[Disciplina and Doctrina|规训]]** 依据操作化目标架构规约学生行为，剥夺任何教学性敞开的可能，强迫学生在自评与自省中固化为孤立的自调节单元（参见哈蒂 2009 年全页反馈流程图，p. 176）。（p. 9）
+> 1. **演绎维度：目标行为的刚性规训** 依据操作化目标架构规约学生行为，剥夺任何教学性敞开的可能，强迫学生在自评与自省中固化为孤立的自调节单元（参见哈蒂 2009 年全页反馈流程图，p. 176）。（p. 9）
 > 2. **归纳维度：教学效果的逆向数据捕获** 收集学生大脑内部的细微反应与指标数据，使教师据此更精细地调整技术干预，完成对教师角色的效果异化。（p. 9）
 
 #### 2. 逐级数据上收形成全景敞视治理架构

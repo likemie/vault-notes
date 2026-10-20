@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Discourse Analysis]]"
   - "[[Archival Research]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Accounts]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -74,7 +75,7 @@ related_facts:
   - "[[Schulen im Team]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12
 
@@ -385,7 +386,7 @@ Jupp and Norris（1993）将文献分析的多元理论路径归纳为三种一�
 > - **解释性传统（[[Interpretive Paradigm\|interpretive approach]]）**
 >   认为包括文献在内的社会现象并非客观给定，而是经由社会互动和意义赋予过程**建构**而成。在这一取向下，分析者的任务不是判断文献准确与否，而是理解其生产者和读者赋予了它什么样的意义，以及这些意义是如何在特定的社会情境中形成的。解释性传统特别适合于研究不同行动者对同一政策文本的差异化解读。为什么同一个课程改革文件在不同学校被理解成截然不同的东西。
 > - **批判传统（critical approach）**
->   以马克思主义、女性主义或批判性话语理论（Critical Discourse Analysis）为代表，将文献视为社会冲突、权力关系和控制机制的场域。这一传统的两个代表性案例展示了批判性文献分析的不同进路：
+>   以马克思主义、女性主义或批判性话语理论（[[Critical Discourse Analysis]]）为代表，将文献视为社会冲突、权力关系和控制机制的场域。这一传统的两个代表性案例展示了批判性文献分析的不同进路：
 >
 >   **Codd（1988）** 对教育政策文献的分析融合了解释性和批判性元素：他主张运用将语言使用与权力运作相关联的话语理论来解构政策文献，追问其概念选择如何将特定利益自然化、如何排除替代方案、如何建构常识以消弭异议，而非将其视为[[Doxa\|不言自明]]的行动指南。教育政策文献的官方话语中隐含着系统性的话语策略，研究者需要揭示这些策略如何服务于特定的治理目标和权力配置。
 >

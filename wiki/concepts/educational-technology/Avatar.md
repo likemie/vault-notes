@@ -8,10 +8,10 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-technology
   - virtual-world
@@ -47,7 +47,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Focus Group]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Avatar
@@ -241,6 +240,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐释 Yannier et al. (2020) 基于计算机视觉与实体振动台的交互式虚拟化身研究，证实教学化身通过启发预测与因果诊断，在无需前置显性讲授的前提下能高效赋能学生的深层概念内化。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 系统定义[[Virtual World\|虚拟世界]]中化身的角色，构建通过化身开展[[Projection Technique\|投射技术]]、身份实验与敏感议题理性审议的研究方法论体系。

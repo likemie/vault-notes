@@ -16,7 +16,7 @@ summary: "测验编制过程中对每道题目进行统计分析的方法，包�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -33,13 +33,12 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Item Response Theory]]"
   - "[[Multiple-Choice Questions]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Item Analysis
@@ -120,5 +119,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍了题目分析的三个核心维度（区分度、难度和干扰项分析），给出计算公式、判断标准，并说明这些指标在[[Norm-Referenced Test\|常模参照测验]]和[[Criterion-Referenced Test\|标准参照测验]]中的不同应用原则。

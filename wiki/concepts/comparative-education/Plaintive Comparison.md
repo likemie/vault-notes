@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策分析概念，指一国在面对国际教育比较差距时，将本国教育不发达简单归因于政治动荡与历史困境，借助承认落后作为推卸实质专业与制度问责的虔诚借口和合法化话语定式。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[José Luis García Garrido]]"

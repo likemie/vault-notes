@@ -6,7 +6,7 @@ summary: "中国宪法学者，北京大学法学院教授，曾任中联办研�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 13
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,13 +21,11 @@ tags:
 related_concepts:
   - "[[Schmittian Sovereignty]]"
   - "[[One Country, Two Systems]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Paul Morris]]"
 related_facts:
@@ -40,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-12'
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Jiang Shigong
@@ -52,7 +50,7 @@ updated: 2026-10-07
 > [!person-profile] 人物档案
 > - **身份位置** 中国宪法学者，北京大学法学院教授，曾借调至中央人民政府驻香港特别行政区联络办公室（中联办）担任研究人员（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
 > - **核心角色** 后《国安法》时代中央重塑香港政治及教育秩序法理依据的代表性建构者，将卡尔·施米特（Carl Schmitt）的决断论和国家安全[[Schmittian Sovereignty\|例外状态]]引入对“[[One Country, Two Systems\|一国两制]]”及基本法解释的核心学者（p.155）。
-> - **代表贡献** 提出一国两制是单一制国家主权单向授权而非宪政契约的法理叙事，为取消通识科、强推[[Citizenship and Social Development\|公社科]]以及课外情感[[Disciplina and Doctrina\|规训]]项目提供了“思想改造”（thought reform）逻辑（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 155]]）。
+> - **代表贡献** 提出一国两制是单一制国家主权单向授权而非宪政契约的法理叙事，为取消通识科、强推[[Citizenship and Social Development\|公社科]]以及课外情感规训项目提供了“思想改造”（thought reform）逻辑（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 155]]）。
 
 > [!citation-card]- 人物定位的关键来源
 > 强世功认为“一国两制”本质上只是中央为了实现主权平稳过渡而做出的临时或权宜安排，主权者拥有随时调整高度自治范围的决断权。
@@ -82,7 +80,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 强世功主张一种融合了卡尔·施米特决断论主权观与福柯权力[[Disciplina and Doctrina\|规训]]学的复合威权法治观。他认为宪政规范的成立必须依赖于主权者决断所维护的政治和平秩序；在主权与国家安全面临威胁的例外时刻，中央行使不受司法审查的决断权是捍卫宪法的终极法理基础。因此，教育和文化大纲不应是中立的专业领域，而必须作为国家意志单向传导的规训渠道，通过“思想改造”消除地方心性的政治抵抗（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 154, 155]]）。
+> 强世功主张一种融合了卡尔·施米特决断论主权观与福柯权力规训学的复合威权法治观。他认为宪政规范的成立必须依赖于主权者决断所维护的政治和平秩序；在主权与国家安全面临威胁的例外时刻，中央行使不受司法审查的决断权是捍卫宪法的终极法理基础。因此，教育和文化大纲不应是中立的专业领域，而必须作为国家意志单向传导的规训渠道，通过“思想改造”消除地方心性的政治抵抗（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 154, 155]]）。
 
 > [!citation-card]- 关键表述
 > 强世功关于[[One Country, Two Systems\|一国两制]]宪制地位的法理解构，直接从施米特关于“主权在于[[Schmittian Sovereignty\|例外状态]]的决断”以及福柯关于微观权力网络的关系论述中汲取灵感。
@@ -97,7 +95,7 @@ updated: 2026-10-07
 > - **政策路径** 其法理建构直接指导了香港特区2020年后《国安法》的司法与行政实践，特别是在教育领域全面取消通识科、强制教科书国安评审，以及将青少年教育重点转向[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]融合和“感恩”等[[Psychologisation\|心理化]]情感控制。
 > - **理论路径** 极大地改变了中国宪法学界对“[[One Country, Two Systems\|一国两制]]”及基本法的法学阐释主流，使得“契约论”和“双重宪制权”[[Discourse|话语]]被单一制的“全面管治权”与“单向授权”话语所取代。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 深刻解构了强世功的一国两制法理逻辑及其对香港法治与教育专业自主权产生的压制效果。
 
 ---

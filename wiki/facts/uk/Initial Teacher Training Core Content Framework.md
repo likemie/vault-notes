@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Domain Specificity]]"
   - "[[Rationalized Myth]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Analytical Stance]]"
   - "[[Epistemology]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Initial Teacher Training Core Content Framework
@@ -136,7 +135,7 @@ updated: 2026-10-17
 
 > [!debates] 政策争议
 >
-> > [!axis] 科学循证基石 vs 狭隘[[Behaviorism|行为主义]][[Disciplina and Doctrina\|规训]]
+> > [!axis] 科学循证基石 vs 狭隘[[Behaviorism|行为主义]]规训
 > > 争论该框架究竟是推动了教师专业的科学化，还是退化为新行为主义的操作控制。
 > >
 > > - **官方与提倡者立场** 认为 CCF 赋予新教师基于国际最佳实证的专业受教育权，终结了伪科学与未经检验的教学时尚。

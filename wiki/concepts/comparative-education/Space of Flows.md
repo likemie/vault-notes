@@ -21,6 +21,7 @@ related_concepts:
   - "[[Virtual World]]"
   - "[[Space of Places]]"
   - "[[Global Policy Space]]"
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Floating Signifier]]"
   - "[[Habitus]]"
@@ -43,8 +44,7 @@ related_concepts:
   - "[[Nominalism]]"
 related_theories:
   - "[[Network Society]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jason Beech]]"
   - "[[Manuel Castells]]"
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 流动空间 vs [[Space of Places|地方空间]] vs 地缘政治空间
+> [!contrast-table] 流动空间 vs [[Space of Places|地方空间]] vs [[Geopolitics|地缘政治]]空间
 > | 比较维度 | [[Space of Flows\|流动空间（Space of Flows）]] | [[Space of Places\|地方空间（Space of Places）]] | 地缘政治空间（Geopolitical Space） |
 > |---|---|---|---|
 > | **空间组织形式** | 拓扑连通的网络结构，无需领土毗连即可同时互动 | 物理领土连续附着，依赖身体共同在场 | 主权国家领土边界界定的刚性排他性地理版图 |

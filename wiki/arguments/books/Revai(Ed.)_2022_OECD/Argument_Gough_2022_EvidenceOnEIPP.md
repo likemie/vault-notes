@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Implementation Fidelity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
@@ -185,7 +186,7 @@ sources:
 > | | **犯罪解决方案网**<br>（CrimeSolutions.gov / CrimeSolutions） | 美国；美国司法部国家司法研究所（National Institute of Justice, NIJ） | 刑事司法、青少年司法矫正、社区治安防范、涉毒法庭与受害者支持打包项目 | **仅依据一至两项优良研究**<br>（由两名独立方法学专家对 1–2 项单项严谨评估报告进行打分，评定有效、有前景或无效应） | 直接作为美国联邦政府刑事司法经费采购准入依据；但评定仅反映入选单项评估的局部数据，无法甄别未发表的负面研究偏倚与跨司法区实施变异（p. 154） |
 > | | **结果第一清算数据库**<br>（Results First Clearinghouse Database） | 美国；皮尤慈善信托（Pew Charitable Trusts）与麦克阿瑟基金会 | 跨部门综合清算数据库，系统汇聚九大知名清算所在儿童福利、司法、心理健康等领域的数千项干预项目评级与[[Cost-Benefit Analysis\|成本效益分析]] | **仅依据一至两项优良研究**<br>（二级元清算库；因聚合的上游各专业清算所普遍依赖 1–2 项研究，故继承了该底层方法学脆弱性） | 为各州立法机构提供财政预算与因果成效对照；但直接并置各专业清算所迥异的评价准则，在政策端引发同名项目评级冲突与标准混乱（pp. 154–155） |
 > | | **加州儿童福利循证清算中心**<br>（CEBC, California Evidence-Based Clearinghouse for Child Welfare） | 美国；加利福尼亚州社会服务部与查德威克儿童与家庭发展中心 | 针对儿童虐待预防、寄养照护、创伤辅导与家庭心理支持的打包实务干预方案与操作手册 | **仅依据一至两项优良研究**<br>（采用 1 至 5 级科研证据评分量表 Scientific Rating Scale，最高级 Well-Supported 仅需 2 项严谨对照试验） | 高度重视基层实务者的操作落地指引；但项目准入评估严重依赖商业开发团队提交的研究，存在显著的开发人员赞助偏倚与证据选择性提交风险（p. 154） |
-> | | **有效社会项目网**<br>（Social Programs That Work） | 美国；循证政策联盟（Coalition for Evidence-Based Policy / Arnold Ventures） | 覆盖早期教育、基础教育、贫困救助、就业培训等领域达到最高因果证据标准的社会示范项目 | **仅依据一至两项优良研究**<br>（设立极严苛的顶级示范门槛，强制要求在真实政策情境中由独立机构完成 1–2 项高质量多点 RCT） | 因果推论严谨性极高，但由于拒绝采纳[[Systematic Review\|系统综述]]整合与质性证据，导致入选项目极少（仅数十项），难以支撑绝大多数日常复杂教育政策议程（p. 154） |
+> | | **有效社会项目网**<br>（Social Programs That Work） | 美国；循证政策联盟（Coalition for [[Evidence-Based Policy-Making\|Evidence-Based Policy]] / Arnold Ventures） | 覆盖早期教育、基础教育、贫困救助、就业培训等领域达到最高因果证据标准的社会示范项目 | **仅依据一至两项优良研究**<br>（设立极严苛的顶级示范门槛，强制要求在真实政策情境中由独立机构完成 1–2 项高质量多点 RCT） | 因果推论严谨性极高，但由于拒绝采纳[[Systematic Review\|系统综述]]整合与质性证据，导致入选项目极少（仅数十项），难以支撑绝大多数日常复杂教育政策议程（p. 154） |
 > | **通用干预策略类门户**<br>（10 个） | **英国教育捐赠基金会教学与学习工具包**<br>（[[Education Endowment Foundation\|EEF Teaching and Learning Toolkit]]） | 英国；英国教育捐赠基金会（EEF） | 评估中小学 30 余项通用教学策略（如反馈、[[Metacognition\|元认知]]、协作学习、同伴辅导、小班教学等）的增益成效 | **[[Systematic Review\|系统综述]]**<br>（对领域内全部因果实证文献开展二阶综合与[[Meta-analysis\|元分析]]，综合海量研究证据体量） | 创新性采用月度进展指标与挂锁评级（Padlocks）直观展示证据强度与实施成本；聚焦通用策略而非商业产品，有效规避了商业机构垄断公办采购的弊端（pp. 149–151, 154） |
 > | | **早期干预基金会指南手册**<br>（EIF Guidebook） | 英国；早期干预基金会（EIF） | 儿童早期语言习得、社交情感发展、亲职养育与心理创伤早期干预的通用路径与核心机制 | **[[Systematic Review\|系统综述]]**<br>（针对儿童发展特定维度的通用策略开展系统证据综合与横向比较） | 在打包方案评定之外提供全局性策略图景；揭示了干预机制在家庭与社区多重复杂系统中的非线性扩散效应（pp. 149, 154） |
 > | | **警务学院犯罪减少工具包**<br>（College of Policing Crime Reduction Toolkit） | 英国；警务学院（College of Policing） | 警务执法与治安防范策略（如闭路电视监控、热点地区巡逻、街头盘查拦截、青少年夜间禁足等） | **[[Systematic Review\|系统综述]]**<br>（系统提取并二阶整合全球警务与刑事司法领域的系统综述文献） | 严格贯彻[[EMMIE Framework\|EMMIE 评价架构]]；不仅评判干预效应大小，更系统解构有效干预的情境调节变量与实施障碍，打破了机械移植神话（pp. 150, 154） |
@@ -330,7 +331,7 @@ sources:
 >   - **干预机制** EEF 提炼出 7 项核心[[Recommendations for Practice\|实践建议]]，不再局限于被动发布指南报告，而是在南约克郡、西约克郡等地区启动大规模区域动员活动。中介团队联合地方教育局与示范学校，深入重塑学校排课机制、保障主辅教师课前协同备课时间、推行阶梯支架式提问教学（[[Scaffolding]]）及经过验证的结构化小班干预方案，并配套开展跨区域因果评估，推动助教资源实现结构性优化。
 > - **[[Early Intervention Foundation\|早期干预基金会]]（Early Intervention Foundation, EIF）行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）**
 >   - **背景与痛点** 地方当局在儿童发展与家庭服务决策中长期依赖人际熟络与商业供应商宣传，极少审查干预方案的因果实证依据。
->   - **干预机制** EIF 设立专项行为动员项目，打破传统文献汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观循证决策落地。
+>   - **干预机制** EIF 设立专项行为动员项目，打破传统文献汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观[[Evidence-Based Policy-Making|循证决策]]落地。
 
 > [!tension-table] 目标确立与需求分析的自省评估框架（Box 7.2, p. 150）
 > | 核心维度 | 关键追问 | 现实偏误与治理隐患 |

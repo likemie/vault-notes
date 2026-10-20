@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的批判性概念，指传统储蓄式教育中教师单向宣讲脱离学生切身现实的抽象词汇，导致教育退化为无意义词语灌输与记忆机械复制的教学生态病态现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Empty Knower]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Narration Sickness（叙事病）
@@ -133,5 +132,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]批判哲学解构[[Banking Model of Education\|储蓄式教育]]的叙事病表现。

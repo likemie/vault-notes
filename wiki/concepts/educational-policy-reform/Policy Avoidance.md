@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Performance Pay]]"
   - "[[Central Phenomenon]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Evidence-Based Education]]"
   - "[[Media Logic]]"
   - "[[Falling Standards Template]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Avoidance
@@ -134,7 +135,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **2018 — 概念提出与界定** [[Paul Morris]] 与 Sue Grey 在《Comparative Education》发表论文，首次以“政策规避”（Policy Avoidance）为[[Central Phenomenon\|核心范畴]]，精准刻画大众媒体在 [[PISA]] 报道中放弃政策审视的系统性失职。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
-> - **2020–至今 — 循证决策与政策审议研究扩展** 该概念被广泛引申至教育政治学中，用于分析执政精英如何与媒体合谋规避真实的研究证据（[[Evidence-Based Education]]），促成一种“无证据审议的危机治理”。
+> - **2020–至今 — [[Evidence-Based Policy-Making|循证决策]]与政策审议研究扩展** 该概念被广泛引申至教育政治学中，用于分析执政精英如何与媒体合谋规避真实的研究证据（[[Evidence-Based Education]]），促成一种“无证据审议的危机治理”。
 
 ---
 

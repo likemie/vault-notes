@@ -9,10 +9,10 @@ summary: "希腊裔国际教育政策专家与历史学家，经合组织（OECD
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1926"
 died: ""
 lifespan: "1926–至今"
@@ -35,7 +35,6 @@ related_theories:
   - "[[Pluralism]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
   - "[[Accounts]]"
 related_instruments: []
 related_persons:

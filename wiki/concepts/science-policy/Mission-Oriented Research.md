@@ -8,7 +8,7 @@ aliases:
 summary: "由国家或公共权力自上而下设定明确战略目标、聚焦国家安全与重大关键技术突破的研发组织范式，强调战略需求牵引、资源垂直集中动员与确定性交付，与自由探索型研究及应用启发型研究构成现代科研生态的三大分化轨道。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,8 +52,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: draft
 created: 2026-10-05

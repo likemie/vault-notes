@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Mis-educative Experience]]"
   - "[[Democratic Education]]"
   - "[[Dialogue in Education]]"
+  - "[[Education as Growth]]"
   - "[[Scientific Method]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"

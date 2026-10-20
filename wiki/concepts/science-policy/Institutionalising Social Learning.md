@@ -9,7 +9,7 @@ aliases:
 summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知收敛的制度化过程"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,14 +26,12 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Discourse]]"
   - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Social Learning Theory]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
 related_methods:
   - "[[Participatory Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Albert Bandura]]"
 confidence: medium
@@ -169,7 +167,7 @@ updated: 2026-10-20
 > > [!axis] 权力不对称与假性共识（Pseudo-Consensus）
 > > 批判学者指出，社会学习过程往往发生在不平等的社会权力结构中，强势产业利益集团或技术官僚可能利用审议平台操纵议程，制造出掩盖深层矛盾的表面假性共识。
 > >
-> > - **批判社会学派** 警示社会学习可能被体制吸纳并用于[[Disciplina and Doctrina|规训]]异议群体。
+> > - **批判社会学派** 警示社会学习可能被体制吸纳并用于规训异议群体。
 > > - **治理学者（Ison et al., 2015; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）** 强调必须在制度设计上建立透明的信息披露、赋权弱势群体与多源反思纠偏规则，确保社会学习的真实有效性。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 485)]]
 
 > [!warning] 适用局限

@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，对制度存续持模糊偏好且采取模糊遵从；在弱否决与高裁量权语境下利用规则缝隙重新部署资源以驱动制度转换，在常规政治中因规避风险充当维持现状的惰性盟友，在临界点上通过集体倒戈触发级联变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,8 +38,7 @@ related_concepts:
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Rational Action Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"

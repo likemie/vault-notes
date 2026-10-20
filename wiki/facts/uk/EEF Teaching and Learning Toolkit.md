@@ -27,6 +27,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[School Autonomy]]"
   - "[[Learning Styles]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[School Leadership]]"
   - "[[Metacognition]]"
   - "[[Tracking]]"
@@ -69,7 +70,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Difference-in-Differences]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -127,7 +127,7 @@ updated: 2026-10-17
 ## 政策设计与方案架构
 
 > [!claim] 政策核心
-> 教学与学习工具包（Teaching and Learning Toolkit）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研发与运维的标志性在线循证决策工具；该工具以[[Umbrella Review\|伞状综述]]和[[Meta-meta-analysis\|二阶元分析]]系统汇总全球实证研究，面向[[School Leadership\|学校领导]]者与教师，从额外学习月数、实施成本与证据挂锁等级三个维度系统比较 30 余类通用教学策略，总结了超过 5,500 项教育研究，作为学校专业审议与资源规划的直观标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
+> 教学与学习工具包（Teaching and Learning Toolkit）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研发与运维的标志性在线[[Evidence-Based Policy-Making|循证决策]]工具；该工具以[[Umbrella Review\|伞状综述]]和[[Meta-meta-analysis\|二阶元分析]]系统汇总全球实证研究，面向[[School Leadership\|学校领导]]者与教师，从额外学习月数、实施成本与证据挂锁等级三个维度系统比较 30 余类通用教学策略，总结了超过 5,500 项教育研究，作为学校专业审议与资源规划的直观标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 
 > [!policy-design]- 架构设计与三大策略范畴
 > - **三大干预范畴（[[OECD]] 系统分类）** Toolkit 的证据摘要被系统界定为一系列整合的伞状综述，将广泛的学校与课堂干预解构为三大范畴共 30 余类策略：
@@ -245,7 +245,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 对工具包所代表的文本改写被动分发模式进行系统因果检验，并严厉批评“[[Months of Progress\|月度进步指标]]”（Months of Progress）的常模线性成长假设与对原始数据质量的掩盖。
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 评估英国[[What Works Network\|有效性网络]]与 [[Education Endowment Foundation\|EEF]] Toolkit 的早期实施成效，系统剖析五类使用形态、本地情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review\|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus\|识字八爪鱼]] [[Randomised Controlled Trials\|RCT]]）及向 [[Research Schools Network\|RSN]] 深度护航的演进逻辑。

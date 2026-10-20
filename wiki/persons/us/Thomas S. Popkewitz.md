@@ -26,7 +26,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Cosmopolitanism]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Policy Borrowing]]"
   - "[[Determinism]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Post-structuralism]]"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Thomas S. Popkewitz
@@ -75,7 +75,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名比较教育学者、课程历史学家与社会[[Epistemology|认识论]]泰斗，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学系教授。
-> - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会[[Disciplina and Doctrina|规训]]网络。
+> - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会规训网络。
 > - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《[[Cosmopolitanism|世界主义]]与学校改革时代》（2008）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
@@ -92,7 +92,7 @@ updated: 2026-10-16
 > - **1970–至今** 长期任教于威斯康星大学[[James Madison|麦迪逊]]分校，与[[Michael W. Apple|迈克尔·阿普尔]]等学者共同铸就了麦迪逊作为全球批判教育研究与课程社会学重镇的学术声誉。
 > - **1984** 出版《教育研究中的[[Paradigm|范式]]与意识形态》（*Paradigm and Ideology in Educational Research*），系统反思[[Positivism|实证主义]]定量范式在教育研究中制造的“去政治化”科学幻觉。
 > - **1991** 出版《教育改革的政治社会学》（*A Political Sociology of Educational Reform*），将[[Discourse|话语]]即权力、权力即关系的[[Post-structuralism|后结构主义]]范式系统确立为教育改革的核心分析视角。
-> - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会[[Disciplina and Doctrina|规训]]与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化话语重构各国教师教育法规。
+> - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会规训与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化话语重构各国教师教育法规。
 > - **2000s–至今** 持续深耕“[[Cosmopolitanism|世界主义]]”、“理性系统”与“排除的炼金术”（Alchemy of Exclusion），荣获全美教育研究协会（[[American Educational Research Association|AERA]]）终身成就奖等多项国际顶尖学术荣誉。
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-10-16
 >   - **代表著作** *Paradigm and Ideology in Educational Research* (1984)。
 >   - **关键概念／理论** 范式冲突、经验实证神话、教育研究社会学。
 >   - **阶段转向** 批判实证主义将教育问题降格为中立技术工程，指出科学评价方法本身就是现代国家管理主义意志的[[Discourse|话语]]载体。
-> - **1990s — 教师教育跨国[[Disciplina and Doctrina|规训]]与后结构[[Governmentality|治理术]]** 此阶段深入剖析全球治理与跨国组织对民族国家教师专业化的规训。
+> - **1990s — 教师教育跨国规训与后结构[[Governmentality|治理术]]** 此阶段深入剖析全球治理与跨国组织对民族国家教师专业化的规训。
 >   - **代表著作** *A Political Sociology of Educational Reform* (1991); *Changing Patterns of Power: Social Regulation and Teacher Education Reform* (1993, with M. A. Pereyra)。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >   - **关键概念／理论** 社会规训（Social Regulation）、跨国教师教育治理、专业化话语。
 >   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与[[EU|欧盟]]等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
@@ -118,7 +118,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 波普科维茨的核心思想在于**开创了教育研究的“社会[[Epistemology|认识论]]”，揭示现代教育改革所标榜的科学进步与全纳理念，实质上是一套制造[[Disciplina and Doctrina|规训]]与分类排斥的权力理性系统**。他指出，权力不仅体现为国家法律的硬性强制，更体现为关于“什么是合格教师”、“什么是[[Lifelong Learning|终身学习]]者”的[[Discourse|话语]]分类标准。像[[OECD|经合组织]]这样的跨国机构，正是通过制定去情境化的教师能力指标与评价框架，行使着无形的跨国[[Governmentality|治理术]]；这种所谓的改革话语看似旨在包容所有人，却在分类体系底层系统性地把弱势群体打上“不合格”烙印。
+> 波普科维茨的核心思想在于**开创了教育研究的“社会[[Epistemology|认识论]]”，揭示现代教育改革所标榜的科学进步与全纳理念，实质上是一套制造规训与分类排斥的权力理性系统**。他指出，权力不仅体现为国家法律的硬性强制，更体现为关于“什么是合格教师”、“什么是[[Lifelong Learning|终身学习]]者”的[[Discourse|话语]]分类标准。像[[OECD|经合组织]]这样的跨国机构，正是通过制定去情境化的教师能力指标与评价框架，行使着无形的跨国[[Governmentality|治理术]]；这种所谓的改革话语看似旨在包容所有人，却在分类体系底层系统性地把弱势群体打上“不合格”烙印。
 
 > [!citation-card] 跨国组织在教师教育法规中的社会规训角色
 > 教师教育改革绝非单纯的师资培训技术改良，而是一种深刻的社会规训实践。经合组织（OECD）与[[EU|欧洲共同体]]等国际跨国组织，正在通过倡导能力本位与专业胜任力标准，强力重构民族国家关于教师选拔、认证与履职的法规网络，使跨国[[Technical Rationality|技术官僚理性]]格局深度嵌入民族国家教育肌理。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
@@ -131,7 +131,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **理论路径** 将福柯[[Post-structuralism|后结构主义]]权力/[[Knowledge Framework|知识框架]]与后现代历史学熔铸为教育社会[[Epistemology|认识论]]，成为当代批判比较教育学、课程史学与教师政策研究的不可或缺的思想支柱。
-> - **方法路径** 倡导“关于现存概念的历史谱系学”与微观[[Discourse|话语]]分类考古，展示了如何透过政策文本、教师评估表与教科书词汇，挖掘深层的社会[[Disciplina and Doctrina|规训]]隐秘逻辑。
+> - **方法路径** 倡导“关于现存概念的历史谱系学”与微观[[Discourse|话语]]分类考古，展示了如何透过政策文本、教师评估表与教科书词汇，挖掘深层的社会规训隐秘逻辑。
 > - **比较视野** 长期推动欧美与跨大西洋比较研究，为理解全球化时代跨国智识网络与本土抵抗提供了超越简单“结构调整”的认识论微观解剖视角。
 
 ---
@@ -153,7 +153,7 @@ updated: 2026-10-16
 > > 围绕后结构社会[[Epistemology|认识论]]是否过度强调“话语”而忽视了资本积累与阶级物质基础的争鸣。
 > >
 > > - **新马克思主义政治经济学者** 批评其分析过度聚焦于语言分类、理性系统与微观[[Governmentality|治理术]]，可能在一定程度上淡化了跨国资本、主权债务以及阶级剥削等硬性物质力量的决定性作用。
-> > - **Popkewitz（1991, 2008）** 辩护指出，话语绝非空洞的语言修辞，话语本身就是物质性的制度实践与社会[[Disciplina and Doctrina|规训]]的肉身具象；只有解构其认识论分类，才能触及权力运作的最深层机制。
+> > - **Popkewitz（1991, 2008）** 辩护指出，话语绝非空洞的语言修辞，话语本身就是物质性的制度实践与社会规训的肉身具象；只有解构其认识论分类，才能触及权力运作的最深层机制。
 
 ---
 

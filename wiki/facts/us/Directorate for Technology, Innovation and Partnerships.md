@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Research Translation]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Paradigm]]"
   - "[[Metascience]]"
   - "[[Focused Research Organization]]"
@@ -55,7 +54,6 @@ related_methods:
   - "[[Matching]]"
   - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
@@ -99,7 +97,7 @@ updated: 2026-10-20
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2021 — 《无尽前沿法案》立法博弈与战略设计** 国会两党议员提出《无尽前沿法案》（Endless Frontier Act），主张在 [[National Science Foundation|NSF]] 内部重构应用[[Research Translation|技术转化]]职能，引发了科学界关于“保持[[Curiosity-Driven Research|纯基础研究]]”与“强化国家关键技术转化”的历史性大辩论。
+> - **2021 — 《无尽前沿法案》立法博弈与战略设计** 国会两党议员提出《无尽前沿法案》（Endless Frontier Act），主张在 [[National Science Foundation|NSF]] 内部重构应用[[Research Translation|技术转化]]职能，引发了科学界关于“保持纯基础研究”与“强化国家关键技术转化”的历史性大辩论。
 > - **2022 — TIP 理事会正式创设与《[[CHIPS and Science Act|芯片法案]]》立法锁定** 2022 年 3 月 NSF 主任正式宣布成立 TIP 理事会；同年 8 月总统签署《芯片与科学法案》，正式确立 TIP 的法定地位，并授权其在未来数年内动用数百亿美元推进国家技术转化生态建设。
 > - **2023–2025 — 启动[[NSF Regional Innovation Engines|区域创新引擎]]与政产学研联合体网络** 遴选并资助首批“NSF 区域创新引擎”，在全美落子数十个十亿美元级区域产学研联合体，确立以[[Public-Private Partnership|公私伙伴关系]]为核心载体的现代国家转化[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
 > - **2026 — 组织形态创新与[[Metascience|元科学]]资助试验（Kratsios / [[Office of Science and Technology Policy|OSTP]]）** 白宫科技政策办公室（OSTP）《科学：新黄金时代》报告重点推介 TIP 的前沿制度探索：设立 X 实验室直接资助传统高校外的独立科研机构（借鉴[[Focused Research Organization|聚焦研究组织]] FRO 模式）；试点单一评委破格资助的“金券（Golden Tickets）”机制；并与[[Metascience|元科学]]研究者合作开展资助体制的对照实验，成为联邦科研管理创新的先锋试验田。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]

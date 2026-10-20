@@ -9,7 +9,7 @@ aliases:
 summary: "指公民对政治共同体怀有连贯的历史叙事、共享的伦理抱负及承担防卫与公共奉献义务的实质认同形态；与仅遵循市场规则和消费主义流行文化的薄弱归属感（Thin Belonging）相对立。在技术共和国理论中，通识正典的瓦解导致国家认同退化为薄弱归属，进而造成科技精英在道德真空中的政治脱嵌与技术不可知论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Academic Freedom]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

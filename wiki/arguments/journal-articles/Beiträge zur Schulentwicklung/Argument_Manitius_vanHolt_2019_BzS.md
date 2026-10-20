@@ -7,7 +7,7 @@ title: "Argument_Manitius_vanHolt_2019_BzS"
 argument_key: "Argument_Manitius_vanHolt_2019_BzS"
 argument_display_title: "Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -61,7 +61,6 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Scientific Paradigm]]"
   - "[[Research Translation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
   - "[[Boundary Spanner]]"
   - "[[Further Education]]"
@@ -103,7 +102,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 status: completed
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Manitius_vanHolt_2019_BzS
 
@@ -304,7 +303,7 @@ updated: 2026-10-17
 在所有制度化中介渠道中，贯穿大学理论修习（第一阶段）、入职见习（第二阶段）以及职后在岗进修（第三阶段）的全周期教师教育（Lehrerbildung），承担着将科学知识转化为实践专业素养的法定功能。
 
 > [!pathways] 教师教育实现双向转化的核心机制
-> 1. **摆脱单向[[Disciplina and Doctrina|规训]]宣讲** 进修教师带着具体日常教学智慧与切身痛点而来，职后培训应超越孤立工具操作与行政指令灌输。
+> 1. **摆脱单向规训宣讲** 进修教师带着具体日常教学智慧与切身痛点而来，职后培训应超越孤立工具操作与行政指令灌输。
 > 2. **赋能专业反思与判断** 将前沿学术议题（数字化、全纳教育、学校咨询）转化为提升教师[[Professional Judgment|专业判断力]]的养分。
 > 3. **培育双栖型[[Boundary Spanner|边界跨越者]]** 建立科研人员与一线教师的平等对话平台，制度化扶持兼具研究视野与教学经验的[[Boundary Spanner|边界跨越者]]。
 

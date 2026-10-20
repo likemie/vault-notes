@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Performance Indicators]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Avatar]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Plaintive Comparison]]"
   - "[[Academic Inbreeding]]"
   - "[[Competitiveness]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Pedagogy]]"
@@ -53,7 +53,6 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[António Nóvoa]]"
@@ -108,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心机制与理论架构
 
-欧洲教育空间在比较教育学中被解构为数据基建[[Disciplina and Doctrina|规训]]、流动性[[Governmentality|治理术]]与民族国家主权防御协同运作的复合体：
+欧洲教育空间在比较教育学中被解构为数据基建规训、流动性[[Governmentality|治理术]]与民族国家主权防御协同运作的复合体：
 
 ```mermaid
 graph TD
@@ -199,7 +198,7 @@ graph TD
 
 > [!debates] 学术争议
 >
-> > [!axis] 自愿一体化 vs 隐性新自由主义[[Disciplina and Doctrina|规训]]
+> > [!axis] 自愿一体化 vs 隐性新自由主义规训
 > > - **官方政策叙事** 欧洲教育空间是通过自愿合作、学分互认与文化交流实现多元一体的和平民主项目，尊重各自主权。
 > > - **[[Critical Pedagogy|批判教育学]]者（Nóvoa, Lawn, Ball）** 欧洲教育空间实则是新自由主义[[Governmentality|治理术]]的高级形态，通过非强制的指标排位与资助竞争，迫使各成员国将教育目标悄然对齐劳动力市场与[[Human Capital Theory|人力资本]]积累。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 >

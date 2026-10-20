@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Theory of Knowledge]]"
   - "[[Value-Based Education]]"
 related_theories: []
@@ -34,7 +35,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts: []
@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 核心主张
@@ -114,11 +114,11 @@ updated: 2026-10-16
 > [!warning] 实操意义不明
 > 交易认识论对教育研究的具体方法论指引不够清晰：是否仍应进行实验？如果是，应如何不同地设计和解读实验？Biesta 在本文中的回答停留在哲学层面（"继续做研究但改变你的解读"），未提供方法论层面的操作指南。
 >
-> **目前状态**Cartwright and Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
+> **目前状态**Cartwright and Hardie (2012) 在 *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
 
 ## 相关研究
 
-> [!example] [[Correlational Research\|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 将交易[[Epistemology\|认识论]]应用于批判[[Evidence-Based Education\|证据本位教育]]的[[Theory of Knowledge\|知识论]]前提
 > - Biesta and Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 

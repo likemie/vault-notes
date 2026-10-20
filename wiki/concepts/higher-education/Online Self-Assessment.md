@@ -9,7 +9,7 @@ aliases:
 summary: "用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-09-23
+updated: 2026-10-20
 ---
 
 # Online Self-Assessment
@@ -99,7 +98,7 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 
 从 [[Governmentality|治理术]]（governmentality）视角看，OSA 是一种典型的"自我技术"（technology of the self）——它不通过直接强制来运作，而是塑造主体的自我理解，让个体"自由地"做出符合治理目标的选择([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–221]])。
 
-在 Deleuze（1992）所描述的[[Societies of Control|控制社会]]逻辑中，OSA 体现了从一次性考试向持续调制的转变：权力不再只在考试节点上施加，而是在入学之前就开始运作，对"问题学生"进行预判和预管理——这是一种先发制人的治理策略。传统[[Disciplina and Doctrina|规训]]中的"毕业"意味着从机构中被释放，而在控制社会中，调制永不终止([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 224]])。
+在 Deleuze（1992）所描述的[[Societies of Control|控制社会]]逻辑中，OSA 体现了从一次性考试向持续调制的转变：权力不再只在考试节点上施加，而是在入学之前就开始运作，对"问题学生"进行预判和预管理——这是一种先发制人的治理策略。传统规训中的"毕业"意味着从机构中被释放，而在控制社会中，调制永不终止([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 224]])。
 
 ## 政策背景
 

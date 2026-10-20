@@ -9,7 +9,7 @@ aliases:
 summary: "加芬克尔常人方法学的核心概念，指言语陈述与社会行动的意义深嵌于产生它们的情境脉络与互动历史中，依赖参与者共享的默会理解而无法脱离语境独立存在。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Indexicality
@@ -209,7 +208,7 @@ updated: 2026-10-16
 
 ## 论证索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 19–21)]] — 详尽阐述加芬克尔常人方法学中的索引性原理，并以“草莓事件”（Walker & Adelman, 1975）作为经典实证案例，批判 [[Flanders Interaction Analysis Categories\|FIAC]] 机械行为编码对情境索引性的抹杀。
 
 ---

@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -60,7 +60,6 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Intraclass Correlation Coefficient
@@ -274,7 +273,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 说明 [[Education Endowment Foundation\|EEF]] 试验复算如何推动《EEF 评估统计分析指南》（2018）出台，确立 ICC 与聚类稳健[[Standard Error\|标准误]]的技术准则。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses\|证据清算中心]]在[[Cluster Randomized Trials\|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis\|分析单位]]错位导致虚假显著性的普遍现象。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向[[Random-Effects Model|随机效应]]绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。

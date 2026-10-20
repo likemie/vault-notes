@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 33
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -46,7 +46,6 @@ related_theories:
 related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Typological Analysis]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Naeem_2026_Episteme]]"
@@ -55,7 +54,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Extended Mind Theory
@@ -191,7 +190,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统引入延展[[Theory of Mind\|心智理论]]审视高等教育中的人工智能中介学习，指出延展心智为[[Cognitive Offloading\|认知卸载]]提供了功能主义辩护，并确立了以因果可恢复性、可质疑性与关系性主体性为核心的防范有害[[Epistemic Dependence\|认识依赖]]的规范框架。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从教育[[Epistemology|认识论]]角度反思认知延展的边界，指出若生成式 AI 沦为直接提供现成答案的黑箱，认知延展将蜕变为剥夺机体内生能力锻炼的[[Cognitive Deskilling\|认知去技能化]]；必须通过提问[[Scaffolding|脚手架]]实现机体自身理智技能与理智品格的内在提升。
 > - Clark, A. (2025) — *Extending minds with [[Generative Artificial Intelligence\|Generative AI]]*（Nature Communications），探讨生成式 AI 作为动态自适应对话伙伴如何推进第二波与第三波心智延展，分析预测加工与生成式工具的深度耦合。

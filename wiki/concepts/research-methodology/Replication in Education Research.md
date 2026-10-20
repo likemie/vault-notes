@@ -11,7 +11,7 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Replication in Education Research
@@ -163,7 +162,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述大样本独立复现研究（Multi-Site [[Cluster Randomized Trials|Cluster RCT]]）结合第三方评估与标准化测验，是破除教育干预[[External Validity|外部效度]]局限与开发者偏倚的唯一科学路径。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 穿透式审计大型城市学区教育采办流水，指出单纯直接复现无法解决实践情境衰减，倡导开展系统改变受试群体与学段参数的“改良型复现”。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 将复现规程创新性应用于宏观[[Meta-meta-analysis|二阶元分析]]数据库的数据提取检验，实证揭示《[[Visible Learning|可见的学习]]》仅 0.66% 的灾难性复现率，确立了二阶[[Metascience|元科学]]复现审计[[Paradigm|范式]]。

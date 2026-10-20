@@ -8,7 +8,7 @@ summary: "19 世纪德国著名历史学派经济学家、后发国家追赶与�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,8 +29,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
   - "[[Unbalanced Growth Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Bengt-Åke Lundvall]]"
   - "[[Alexander Hamilton]]"

@@ -11,7 +11,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Output-Oriented Governance]]"
   - "[[Academic Achievement]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Critical Pedagogy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Research Translation]]"
@@ -120,7 +121,7 @@ updated: 2026-10-20
 
 > [!pathways]- 实施路径
 > - **中央精准测算与直接下达** 依托教育部 NPD 普查系统的唯一学生编号（UPN），彻底剔除传统地方教育局（LEAs）的中间截留，实现从中央财政到学校账户的点对点下沉。
-> - **学校循证决策与三年规划** 学校被要求将津贴开支从早期的“碎片化购买”转变为结构化的“分层支持模型”：第一层优质日常教学改进、第二层针对性学业辅导（如 1 对 1 或小班阅读辅导）、第三层更广泛的非学业支持（出勤率与心理健康）。
+> - **学校[[Evidence-Based Policy-Making|循证决策]]与三年规划** 学校被要求将津贴开支从早期的“碎片化购买”转变为结构化的“分层支持模型”：第一层优质日常教学改进、第二层针对性学业辅导（如 1 对 1 或小班阅读辅导）、第三层更广泛的非学业支持（出勤率与心理健康）。
 > - **公开透明披露与督导核查** 学校必须在官网上发布标准化模板的《学生津贴战略陈述书》（Pupil Premium Strategy Statement），详述往年产出与后续预算论据。
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-10-20
 > > 批判学者（如 Grey & Morris, 2018）指出，政府一边高调宣传学生津贴的补偿性正义，另一边却放任乃至鼓励[[Grammar School\|文法学校]]（Grammar Schools）依靠测验选拔优势阶层学童，甚至在校内普遍推行分轨分流（[[Tracking]]），抵消了津贴带来的边际改善。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 237)]]
 > >
 > > - **[[Critical Pedagogy\|批判教育学]]者** 强调单纯依靠津贴转移支付而不触动文法学校体制是“治标不治本”的政治修辞。
-> > - **循证决策倡导者** 认为无论宏观制度如何，向最贫困学生精准追加资金并落实高效教学是当下最务实、最可操作的改良手段。
+> > - **[[Evidence-Based Policy-Making|循证决策]]倡导者** 认为无论宏观制度如何，向最贫困学生精准追加资金并落实高效教学是当下最务实、最可操作的改良手段。
 >
 > > [!axis] 循证问责下的认知过载与[[Performativity|表演性]]依从
 > > 政策将津贴开支与官方推荐证据强制挂钩并在督导评估中加以核查，但在实践中催生了校长的信息过载与策略性应对。
@@ -203,7 +204,7 @@ updated: 2026-10-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Education Endowment Foundation]] | 事实 (机构) | 英国政府为指导中小学校合理规划学生津贴而专门出资创设的独立循证中介机构。 |
-> | [[Pupil Equity Funding]] | 事实 (政策) | 苏格兰政府在 2017 年设立的对应政策，同样针对弱势学童实施人头直拨与循证决策。 |
+> | [[Pupil Equity Funding]] | 事实 (政策) | 苏格兰政府在 2017 年设立的对应政策，同样针对弱势学童实施人头直拨与[[Evidence-Based Policy-Making\|循证决策]]。 |
 > | [[Interactional Expertise]] | 概念 | EEF 与商业中介向校长推销 Pupil Premium 循证方案所展现的专门知识形态。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 (平台) | 全英超过 70% 的中学校长分配学生津贴所依赖的官方决策支持与[[Effect Size\|效应量]]查询工具。 |
 > | [[Sutton Trust]] | 事实 (机构) | 早期推动英国政府设立学生津贴的慈善智库，并出资编制了工具包初始原型。 |

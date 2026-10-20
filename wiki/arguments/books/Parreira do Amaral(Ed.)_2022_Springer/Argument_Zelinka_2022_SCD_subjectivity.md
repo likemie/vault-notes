@@ -9,6 +9,7 @@ publisher: "Springer"
 tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-century-skills", "theme/global-governance", "theory/governmentality", "level/higher-education"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discursive Opportunity Structures]]"
@@ -38,14 +39,14 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -61,7 +62,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) Geopolitics of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
+> 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
 
 ## 理论框架
 
@@ -91,7 +92,7 @@ citation_aliases:
 
 论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
 
-这一全球转型同时被理解为[[Theory of Knowledge|知识论]]转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现 **[[Governing at a Distance|远距治理]](governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
+这一全球转型同时被理解为[[Theory of Knowledge|知识论]]转变和[[Geopolitics|地缘政治]]博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现 **[[Governing at a Distance|远距治理]](governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
 
 注意这里的论证前提：因为新自由主义治理术运作于"远处"，所以它不能通过直接命令来塑造行为，而是必须**生产特定的主体性**——即个体将主动采纳的思维和行动模式。这就将分析焦点引向了主体性生产。
 
@@ -147,7 +148,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 > [!success]
 > - 21 世纪 [[Single-Case Design\|SCD]] 生产的（新）[[Geopolitics of Knowledge\|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability\|就业力]]和[[Self-Entrepreneur\|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合(p.263)。
 > - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的[[Paradigm\|范式]]转型(p.265)。
-> - 对（新）知识地缘政治的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）。
+> - 对（新）知识[[Geopolitics|地缘政治]]的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）。
 
 ## 局限性与批评
 

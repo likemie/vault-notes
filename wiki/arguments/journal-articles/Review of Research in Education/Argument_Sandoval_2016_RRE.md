@@ -38,7 +38,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Predictive Validity]]"
   - "[[Epistemic Aims]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Metacognition]]"
   - "[[Discourse]]"
   - "[[Epistemic Commitments]]"
@@ -81,14 +80,14 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -229,7 +228,7 @@ issuing_organization: ""
 ### 论证步骤四 断层线三 发展轨迹的合法性危机（Developmental Trajectories）
 
 > [!claim] 步骤四主张
-> 传统研究普遍假定个人的认识论会遵循一条“从低级盲信到高级批判”的单向线性发展轨迹。然而，实证证据的高度异质性对这种带有强烈[[Disciplina and Doctrina\|规训]]色彩的“发展阶梯”的合法性提出了致命挑战。
+> 传统研究普遍假定个人的认识论会遵循一条“从低级盲信到高级批判”的单向线性发展轨迹。然而，实证证据的高度异质性对这种带有强烈规训色彩的“发展阶梯”的合法性提出了致命挑战。
 
 > [!chain-link] 发展模型与实证数据的冲突
 > - **链节一 线性发展阶段模型的美好设想**

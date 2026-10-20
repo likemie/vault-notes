@@ -8,7 +8,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并闭合受援国的政策探索空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,11 +19,11 @@ tags:
   - level/k12
   - paradigm/neoliberal
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Global Educational Discourse]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Epistemology]]"
+  - "[[Discursive Field]]"
   - "[[Construct]]"
   - "[[New Public Management]]"
   - "[[Avatar]]"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
 related_facts:
@@ -74,7 +73,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **学校自主权（School Autonomy）**，是指将教育行政、财务预算、课程教学及人员配置等关键决策权，从中央或地方集权官僚机构向单一学校组织层级下放的制度重组安排。在政策修辞中，学校自主权常被标榜为赋予学校创新自由、灵活响应社区需求与提升学术标准的民主化工具（Keddie et al., 2020, p. 432）；但在当代全球治理与新自由主义改革语境中，它日益演变为一种双重[[Disciplina and Doctrina|规训]]技术：一方面通过将公共财政削减与办学绩效风险转嫁至基层学校，诱发不同阶层生源之间的分层与残余化；另一方面作为国际组织跨国推销的“[[Global Educational Discourse|全球教育话语]]五大支柱”之一，与中央质量评估系统紧密捆绑，成为推行“远处调控”与闭合外围国家政策空间的标准技术包裹。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]; (Keddie et al., 2020, pp. 436–437)
+> **学校自主权（School Autonomy）**，是指将教育行政、财务预算、课程教学及人员配置等关键决策权，从中央或地方集权官僚机构向单一学校组织层级下放的制度重组安排。在政策修辞中，学校自主权常被标榜为赋予学校创新自由、灵活响应社区需求与提升学术标准的民主化工具（Keddie et al., 2020, p. 432）；但在当代全球治理与新自由主义改革语境中，它日益演变为一种双重规训技术：一方面通过将公共财政削减与办学绩效风险转嫁至基层学校，诱发不同阶层生源之间的分层与残余化；另一方面作为国际组织跨国推销的“[[Global Educational Discourse|全球教育话语]]五大支柱”之一，与中央质量评估系统紧密捆绑，成为推行“远处调控”与闭合外围国家政策空间的标准技术包裹。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]; (Keddie et al., 2020, pp. 436–437)
 
 > [!concept-lens] 概念透镜
 > - **双重视野交汇** 涵盖微观-中观维度的“学校组织赋权与准市场竞争（澳大利亚与英美实践）”，以及宏观维度的“跨国组织全球教育[[Discourse|话语]]标准化包裹输出（[[World Bank|世界银行]]与[[OECD|经合组织]]实践）”。
@@ -87,7 +86,7 @@ updated: 2026-10-20
 > *Most stakeholders supported school autonomy in principle—for its potential 'political justice' and 'economic justice'—but when autonomy was driven by market logics of economic efficiency, competition, and public accountability, it generated systemic injustices.*
 
 > [!citation-card] 比奇论学校自主权作为全球教育话语支柱与[[Governing at a Distance|远处治理]]机制
-> 顺应信息时代的普世逻辑，国际机构成套推销标准化改革方案：包括行政治理上的分权化、学校自主权、教师队伍专业化、能力本位课程，以及中央质量评估系统……国际机构首先为借款国界定什么是合法的教育危机，接着唯独提供该模型作为唯一解决方案，从而在[[Epistemology|认识论]]层面直接封杀了发展中国家探索本土替代性道路的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
+> 顺应信息时代的普世逻辑，国际机构成套推销标准化改革方案：包括行政治理上的分权化、学校自主权、教师队伍专业化、能力本位课程，以及中央质量评估系统……国际机构首先为借款国界定什么是合法的教育危机，接着唯独提供该模型作为唯一解决方案，从而在[[Epistemology|认识论]]层面直接封杀了发展中国家探索本土替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >
 > *...administrative decentralisation and school autonomy, teacher professionalisation, competency-based and flexible curricula, and national assessment systems... International agencies define the problems of education and propose their model as the only solution, closing down the space for peripheral countries to conceptualise alternative policies.*
 
@@ -121,7 +120,7 @@ updated: 2026-10-20
 >   3. *权力下放与经济理性主义悖论*：官僚机构去中心化使深陷社会经济劣势的学校失去制度庇护；
 >   4. *需求本位拨款的执行赤字悖论*：缺乏透明度与精细支持的拨款模式，迫使校长沦为疲于填补经费窟窿的企业家。
 > - **公立学校残余化机制（Residualisation）** 市场驱动的[[School Choice|择校]]竞争导致优势学校通过隐性生源筛选吸引高阶层家庭，而将所谓“高成本、高需求”的学生（特殊需求、原住民、低 [[Socioeconomic Status|SES]] 家庭）推向弱势学校，使后者成为被社会抛弃与污名化的兜底残余机构。(Keddie et al., 2020, pp. 434, 437)
-> - **[[Global Educational Discourse|全球教育话语]]五大支柱的共生捆绑（Five Pillars Bundling）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 348]]）指出，跨国机构从不孤立推行自主权，而是将其与*行政分权、教师专业化、能力本位灵活课程、中央质量评估系统*成套捆绑，构成[[Disciplina and Doctrina|规训]]民族国家的主导模型。
+> - **[[Global Educational Discourse|全球教育话语]]五大支柱的共生捆绑（Five Pillars Bundling）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 348]]）指出，跨国机构从不孤立推行自主权，而是将其与*行政分权、教师专业化、能力本位灵活课程、中央质量评估系统*成套捆绑，构成规训民族国家的主导模型。
 > - **校长的目标置换与身心异化（Goal [[Institutional Displacement|displacement]] & Burnout）** 自主权改革强迫[[School Leadership|学校领导]]者从教育专家蜕变为“商业企业家与危机公关”，专注于争夺优质生源与应试指标以保全生计，引发普遍的工作过载、身心衰竭与职业倦怠。(Keddie et al., 2020, pp. 438–440)
 
 > [!logic-map]- 学校自主权在宏微观[[Champ|场域]]中的多重异化机制

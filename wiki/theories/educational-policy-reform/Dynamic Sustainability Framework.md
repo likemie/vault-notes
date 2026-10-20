@@ -6,7 +6,7 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 29
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Process Tracing]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Mark Rickinson]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dynamic Sustainability Framework
@@ -198,5 +197,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 采纳 DSF 构建 [[Quality Use of Research Evidence Framework\|QURE]] 框架中“深思熟虑参与及适切调适”构件的核心理论基础。

@@ -10,7 +10,7 @@ aliases:
 summary: "指将公共教育的供给、资金、管理及政策制定权向私营部门、市场机制或商业逻辑转移的结构性变革过程。在新自由主义全球化下，斯蒂芬·鲍尔与托雷斯等学者将其界定为国家重塑教育权力的阶级策略，通常分化为公立系统内部企业化改组的内生私有化与外部服务及立法议程承包的外生私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -49,7 +49,6 @@ related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -123,7 +122,7 @@ updated: 2026-10-20
 
 > [!feature] 现代教育私有化的四大支柱
 > - **公共财政撤资与成本转嫁机制** 国家大幅核减对公立教育的经常性拨款，通过推行使用者自费（User Fees）和生均拨款竞逐，迫使学校与家庭分担办学成本。
-> - **内部企业化与管理学[[Disciplina and Doctrina|规训]]** 依托[[New Public Management|新公共管理]]（NPM）理念，推行严格的目标管理、[[Performance Indicators|绩效指标]]与投入产出核算，将公立学校管理者塑造成自负盈亏的企业经理人。
+> - **内部企业化与管理学规训** 依托[[New Public Management|新公共管理]]（NPM）理念，推行严格的目标管理、[[Performance Indicators|绩效指标]]与投入产出核算，将公立学校管理者塑造成自负盈亏的企业经理人。
 > - **契约外包与公私资产合营** 借助[[Public-Private Partnership|公私伙伴关系]]（PPP）、特许办学与专业服务采购，将校舍产权建设、核心测评工具研发与教师在职培训转移给私营公司或商业化的[[Educational Management Organisation|教育管理组织]]（EMO）。
 > - **政策制定权的隐性商业俘获** 跨国商业咨询公司、营利性 EMO 与[[Venture Philanthropy|风险慈善]]信托深度渗入国家教育行政中枢，直接参与教育法案起草与核心课程大纲设置，造成教育政策主权的隐性私有化。
 

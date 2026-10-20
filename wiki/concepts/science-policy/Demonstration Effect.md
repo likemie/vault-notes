@@ -8,10 +8,10 @@ aliases:
 summary: "指公共部门或先导机构通过在前沿重大任务中公开部署、测试与运行新型复杂技术，或主权国家通过标杆性政策试验展示治理实效，向潜在商业用户、产业界及跨国决策者证实可行性与可靠性，从而消除信息不对称、化解认知疑虑并驱动采纳与政策借用的机制。"
 type: concept
 domain: "science-policy"
-related_count: 25
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/science-policy
   - theme/innovation-policy
@@ -21,16 +21,21 @@ tags:
   - theme/policy-transfer
 related_concepts:
   - "[[Reliability]]"
+  - "[[Policy Borrowing]]"
   - "[[Innovation Desert]]"
+  - "[[Performance Indicators]]"
   - "[[Technological Republic]]"
   - "[[Luxury Belief]]"
   - "[[Paradigm]]"
   - "[[Sage]]"
   - "[[Bureaucracy]]"
   - "[[Predictive Policing]]"
+  - "[[Policy Mobility]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Regulatory Sandbox]]"
   - "[[Return on Investment]]"
+  - "[[Heterogeneity]]"
   - "[[Engineering Mindset]]"
   - "[[Evidence-Based Policy-Making]]"
 related_methods:
@@ -53,7 +58,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Demonstration Effect
@@ -63,7 +68,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> **示范效应（Demonstration Effect / 技术示范效应）** 是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，或主权国家通过先导性政策试验展现显著量化实效，向外部潜在商业用户、产业决策者及跨国政策制定者直观展示系统可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳与政策借用的认知门槛，消除信息不对称与体制避险惰性，加速技术扩散与制度创新的机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]; [[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 340–341)]]
+> **示范效应（Demonstration Effect / 技术示范效应）** 是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，或主权国家通过先导性政策试验展现显著量化实效，向外部潜在商业用户、产业决策者及跨国政策制定者直观展示系统可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳与[[Policy Borrowing|政策借用]]的认知门槛，消除信息不对称与体制避险惰性，加速技术扩散与制度创新的机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]; [[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 340–341)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向重大先导工程或标志性政策试验对方案有效性与可靠性的公信力背书与操作范例展示。
@@ -88,7 +93,7 @@ updated: 2026-10-19
 > [!boundary]- 概念边界
 > - **不等于 需求拉动规模采购** 规模采购直接提供商业订单与制造现金流，而示范效应通过运行实例改变潜在第三方买家与公共管理者的主观预期与风险评估。
 > - **不等于 实验室技术原型展示** 示范效应要求技术在真实复杂甚至苛刻的实际系统与社会治理环境中完成工程化实战验证，而非单纯在象牙塔实验室中展示工作原理。
-> - **不等于 抽象的意识形态宣传** 政策示范效应依赖于清晰可测量的实证绩效指标（如显著降幅或关键工程交付），而非空洞的政治修辞。
+> - **不等于 抽象的意识形态宣传** 政策示范效应依赖于清晰可测量的实证[[Performance Indicators|绩效指标]]（如显著降幅或关键工程交付），而非空洞的政治修辞。
 
 ---
 
@@ -161,7 +166,7 @@ updated: 2026-10-19
 
 ### 命题四　跨国政策流动中海外标志性量化治理成效能够产生跨国示范效应并重构他国政策搜寻偏好
 
-> [!concept-lens] 跨国政策流动中的实证示范机制
+> [!concept-lens] 跨国[[Policy Mobility|政策流动]]中的实证示范机制
 > 探讨标志性量化实验成果如何在跨国空间形成示范标杆，诱导面临紧迫时间约束的外国决策层将搜寻视野定向锁定于示范国家。
 
 > [!claim] Legrand, T.
@@ -177,7 +182,7 @@ updated: 2026-10-19
 > | **认知破冰与信任注入** | 公共重大工程的成功运行能够消除商业高管的技术怀疑并激发民用市场接纳 | 具有高认知门槛与高试错成本的复杂系统技术扩散初期 | [[Argument_Schnee_1978_RP\|Schnee (1978, pp. 10–11)]] |
 > | **前沿路径指引与超前预示** | 空间国防前沿系统开发提前两至三年为民用产业探索可行的技术架构 | 技术演进迅速且处于前沿探索期的高技术产业 | [[Argument_Schnee_1978_RP\|Schnee (1978, p. 10)]] |
 > | **治理示范与跨越荒漠** | 公共安全与民生先导工程的物理实效打破官僚避险与奢侈信念，激活全域创新 | 公共部门数字化改革、警务与司法技术创新、创新荒漠突破 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025)]] |
-> | **跨国扩散与搜寻锁定** | 海外标志性量化指标突破形成示范标杆，定向重构他国政策官员搜寻偏好 | 跨国政策借用、循证治理制度扩散与大规模示范项目立项 | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] |
+> | **跨国扩散与搜寻锁定** | 海外标志性量化指标突破形成示范标杆，定向重构他国政策官员搜寻偏好 | 跨国[[Policy Borrowing\|政策借用]]、[[Output-Oriented Governance\|循证治理]]制度扩散与大规模示范项目立项 | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] |
 
 ---
 
@@ -187,7 +192,7 @@ updated: 2026-10-19
 > - **1949–1953 — 消费与国际发展经济学起源** 詹姆斯·杜森贝里（James Duesenberry, 1949）在相对收入假说中提出个体消费的示范效应；拉格纳·纳克斯（Ragnar Nurkse, 1953）将其扩展至国际经济学，揭示发展中国家居民对发达国家高消费模式的模仿倾向。
 > - **1978 — 科技政策与产业经济学中的技术示范效应** 施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）将示范效应引入科技创新与产业政策领域，系统阐明了政府空间与国防大项目如何通过公开运行计算机系统消除商界疑虑、推动民用工业技术采纳。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
 > - **2000s — 使命导向政策中的先导示范工程** 现代创新政策学者进一步将示范效应纳入[[Demand-side Innovation Policy|需求侧创新政策]]工具箱，在智慧城市、智能电网、氢能交通与近零碳示范工程中广泛设计国家级先导试验区与[[Regulatory Sandbox|监管沙盒]]。
-> - **2012 — 跨国政策转移与循证搜寻中的示范效应** 蒂莫西·勒格兰德（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）将示范效应引入跨国公共政策扩散研究，揭示美国福利改革的标志性量化降幅如何作为跨国示范效应重构英国决策层的搜寻偏好，驱动跨国政策借用与示范项目立项。
+> - **2012 — 跨国政策转移与循证搜寻中的示范效应** 蒂莫西·勒格兰德（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）将示范效应引入跨国公共政策扩散研究，揭示美国福利改革的标志性量化降幅如何作为跨国示范效应重构英国决策层的搜寻偏好，驱动跨国[[Policy Borrowing|政策借用]]与示范项目立项。
 > - **2025 — 公共部门治理与跨越[[Innovation Desert|创新荒漠]]的先导示范机制** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将示范效应深化为公共治理与反官僚避险的关键机制，强调以真实解决公共危机（如暴力干预、民生服务）的先导工程成果破除政治犬儒与奢侈信念，带动技术在公共体系中的全面扩散。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]
 
 ---
@@ -217,9 +222,9 @@ updated: 2026-10-19
 >
 > | 研究 | 应用场景与情境 | 研究设计 | 示范载体与关键指标 | 实证表现与结果 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国政策借用与福利改革 | 政策追踪与决策档案分析 | 美国 TANF 改革受助指标降幅与英国 ERA 示范项目立项 | 1996 年 8 月至 2000 年 6 月全美受助人数由 1224.1 万人锐减至 578.1 万人（降幅达 53%），形成跨国示范效应并驱动英国启动 3 轮 ERA 示范项目 | 震撼性降幅构成政策搜寻强吸铁石，但掩盖了两国在医疗与家庭津贴制度基底上的异质性 |
-> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 美国 1950–1960 年代计算机产业商业化 | 行业高管深度访谈与历史案例追踪 | NASA 阿波罗计划与 SAGE 系统计算机实时控制演示 | 彻底消除商业高管的技术怀疑，促成石油炼化等传统工业部门大规模采纳计算机过程控制系统 | 依托国家使命超常规预算支持，商业可复制性需结合具体民用成本收益考量 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025)]] | 新奥尔良警局（NOPD）公共安全治理改革 | 历史制度与技术采办案例分析 | 帕兰提尔预测性警务系统先导部署与谋杀率指标 | 针对帮派暴力前线部署，将谋杀率降至数十年最低点，以无可辩驳的生命拯救实效打破官僚避险 | 依赖高水准攻坚团队深度介入，全面铺开需要配套制度容错与采购规范变革 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国[[Policy Borrowing\|政策借用]]与福利改革 | 政策追踪与决策档案分析 | 美国 TANF 改革受助指标降幅与英国 ERA 示范项目立项 | 1996 年 8 月至 2000 年 6 月全美受助人数由 1224.1 万人锐减至 578.1 万人（降幅达 53%），形成跨国示范效应并驱动英国启动 3 轮 ERA 示范项目 | 震撼性降幅构成政策搜寻强吸铁石，但掩盖了两国在医疗与家庭津贴制度基底上的[[Heterogeneity\|异质性]] |
+> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 美国 1950–1960 年代计算机产业商业化 | 行业高管[[In-depth Interview\|深度访谈]]与历史案例追踪 | [[National Aeronautics and Space Administration\|NASA]] [[Apollo Program\|阿波罗计划]]与 [[Sage\|SAGE]] 系统计算机实时控制演示 | 彻底消除商业高管的技术怀疑，促成石油炼化等传统工业部门大规模采纳计算机过程控制系统 | 依托国家使命超常规预算支持，商业可复制性需结合具体民用成本收益考量 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025)]] | 新奥尔良警局（NOPD）公共安全治理改革 | 历史制度与技术采办案例分析 | [[Palantir Technologies\|帕兰提尔]][[Predictive Policing\|预测性警务]]系统先导部署与谋杀率指标 | 针对帮派暴力前线部署，将谋杀率降至数十年最低点，以无可辩驳的生命拯救实效打破官僚避险 | 依赖高水准攻坚团队深度介入，全面铺开需要配套制度容错与采购规范变革 |
 
 ---
 
@@ -235,7 +240,7 @@ updated: 2026-10-19
 > | [[Luxury Belief]] | 解构目标 | 先导工程的无可辩驳生命拯救数据打破文化精英的空头道德批判 |
 > | [[Evidence-Based Policy-Making]] | 跨国动力 | 海外标志性量化指标突破产生示范效应，驱动循证决策搜寻并锁定示范国家方案 |
 > | [[Palantir Technologies]] | 执行主体 | 深度参与阿富汗战地与新奥尔良公共安全示范项目的前沿软件企业 |
-> | [[Apollo Program]] | 历史典范 | 1960年代向全球商界证实计算机系统自动化控制可靠性的经典国家工程 |
+> | [[Apollo Program]] | 历史典范 | 1960年代向全球商界证实计算机系统自动化控制[[Reliability\|可靠性]]的经典国家工程 |
 > | [[Alexander Karp]] | 现代倡导者 | 在《技术共和国》中论述先导工程示范对激活公共部门创新的关键作用 |
 > | [[Jerome E. Schnee]] | 理论开创者 | 首次在科技政策与产业经济学中系统界定技术示范效应机制 |
 

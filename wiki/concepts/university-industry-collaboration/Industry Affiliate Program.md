@@ -13,7 +13,7 @@ aliases:
 summary: "大学为工业界设立的会员制产学合作组织机制，企业通过缴纳固定年会费获得对大学研究社区的优先接触权、技术简报、人才招聘通道与同行网络，采用资金池共议探索与非排他共享机制，是连接前沿学术探索与后续专项研发转化的关键战略接口。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

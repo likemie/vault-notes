@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Activity Traps]]"
   - "[[Reflexivity]]"
+  - "[[Microteaching]]"
   - "[[Technical Rationality]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Business as Usual]]"
@@ -46,7 +47,6 @@ related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Chris Brown]]"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Joint Practice Development
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > [!taxonomy] 联合实践发展的典型[[Operationalization\|操作化]]载体（Sebba et al., 2012; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 125]]）
 > - **[[Lesson Study\|课例研究]]（Lesson Study）** JPD 最核心、最成熟的操作机制。教师团队围绕特定学生理解难点共同研讨教学设计，由一人授课、其他人分组观察指定焦点学生的即时反应，课后结合客观证据复盘并重构课例。
 > - **随堂听课与专业对话（Learning Walks & Structured Dialogue）** 教师同侪以非评价性（Non-evaluative）的视角结伴观察特定教学策略的落地形态，并在课后展开基于证据的专业研讨。
-> - **微格联合探究（Micro-Teaching Triads）** 三名教师组成探究小组，轮流承担授课者、数据记录者与反思引导者角色，高频迭代优化微观教学技能。
+> - **微格联合探究（[[Microteaching|Micro-Teaching]] Triads）** 三名教师组成探究小组，轮流承担授课者、数据记录者与反思引导者角色，高频迭代优化微观教学技能。
 > - **校际同侪网络互助（Cross-School Peer Review）** 如[[Research Learning Communities\|研究学习共同体]]（RLCs）中的跨校教师团队，围绕共享的实证议题跨校开展课堂联合观摩与联合实践开发。
 
 ---
@@ -210,7 +210,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]]转译证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
 > - **Sebba et al. (2012)** 为英格兰国家[[School Leadership\|学校领导力]]学院撰写指南，系统界定 JPD 的领导力推进原则、组织流程与评估标准。
 > - **Fielding et al. (2005)** 奠定 JPD [[Construct\|构念]]的里程碑报告，通过多案例实证揭示“优秀实践转移”模型的内在缺陷与 JPD 的替代优势。

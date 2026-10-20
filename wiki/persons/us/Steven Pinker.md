@@ -8,7 +8,7 @@ summary: "加拿大裔美国认知心理学家、哈佛大学教授，以《人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Hard Power]]"
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Lewis Gaddis]]"
   - "[[Lawrence H. Keeley]]"

@@ -27,12 +27,12 @@ related_concepts:
   - "[[Exogenous Privatisation]]"
   - "[[Discourse]]"
   - "[[Venue Shopping]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons:
@@ -166,7 +166,7 @@ updated: 2026-10-20
 > [!dev-timeline] 概念演变
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
-> - **2013年 — 循证决策与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
+> - **2013年 — [[Evidence-Based Policy-Making|循证决策]]与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
 > - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育[[Exogenous Privatisation|外生私有化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
 
 ---

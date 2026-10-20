@@ -7,7 +7,7 @@ summary: "一种结合归纳开放编码与演提先验理论模板的质性文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Template Analysis
 
@@ -110,5 +109,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中运用模板分析将[[Third Generation Activity Theory\|第三代活动理论]]六构件[[Operationalization\|操作化]]为[[Coding in Qualitative Research\|质性编码]]节点，剖析中国 4 所案例学校的改革机制。

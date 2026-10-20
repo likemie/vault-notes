@@ -8,7 +8,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,8 @@ tags:
 related_concepts:
   - "[[Sinicisation]]"
   - "[[Zhonghua Minzu]]"
-related_theories: []
+related_theories:
+  - "[[Tianxia Heuristic]]"
 related_methods: []
 related_persons:
   - "[[Pan Yue]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wuhu Ruhua
@@ -59,7 +60,7 @@ updated: 2026-10-16
 > |------|--------|----------------|----------------|
 > | **修辞核心** | “入”（主动融入、文明重塑） | “乱”（秩序崩溃、野蛮入侵） | “逐鹿”（夺取中原文明合法性核心的博弈） |
 > | **少数民族角色** | 华夏身份的“共同原创者”与“守卫者” | 中原农耕文明的“破坏者” | 仰慕中华文化、自愿接受同化牺牲的追逐者 |
-> | **当代政治功能** | 论证[[Zhonghua Minzu\|中华民族]]“自古融合”的必然性 | 强调华夷之辨与边疆防范 | 论证中国天下体系“无外部”及和平吸纳的普世力量 |
+> | **当代政治功能** | 论证[[Zhonghua Minzu\|中华民族]]“自古融合”的必然性 | 强调华夷之辨与边疆防范 | 论证中国[[Tianxia Heuristic\|天下体系]]“无外部”及和平吸纳的普世力量 |
 
 ---
 

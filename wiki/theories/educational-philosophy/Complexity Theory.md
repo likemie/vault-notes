@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 59
+theory_related_count: 58
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -59,7 +59,6 @@ related_methods:
   - "[[Agent-based Modelling]]"
   - "[[Network Analysis]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Stuart Kauffman]]"
   - "[[Keith Morrison]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Complexity Theory
@@ -307,7 +306,7 @@ updated: 2026-10-16
 > | [[Vergleichsarbeiten]] | 评估事实 | 德语区全州学业统测，其在单体学校层面的成效缺失反证了忽视学校自组织重构的线性数据治理之限。 |
 > | [[Typology of Factors Influencing Research Use]] | [[Analytic Framework\|分析框架]] | Torres 基于复杂性思维整合的跨情境五维机制与障壁诊断框架。 |
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 确立复杂性理论为超越实证与诠释的新[[Paradigm\|范式]]；实验的因果局限见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Ch. 16]]，与行动研究的共鸣见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Ch. 18]]，主体建模与[[Virtual World\|虚拟世界]]检验见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Ch. 19]]。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 35–37)]] — 论证复杂自适应系统作为[[Knowledge Mobilisation\|知识动员]]第三代范式与教育系统生态治理的元理论价值。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, pp. 118–119)]] — 结合[[OECD\|经合组织]] 37 个教育系统实证调查，论证复杂系统思维在破除机制孤岛中的决定性作用，并提出系统战略的实证检验赤字与实施反思。

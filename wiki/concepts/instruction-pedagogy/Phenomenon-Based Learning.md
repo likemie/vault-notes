@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,8 +40,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Knowledge Building Theory]]"
   - "[[Pragmatic Constructivism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
   - "[[George Herbert Mead]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Phenomenon-Based Learning
@@ -195,5 +194,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 系统阐释现象本位学习（PhBL）的欧陆教育哲学根源与政策演变：剖析芬兰国家核心课程的跨学科整合机制、SveaSus 项目在世界遗产地的具身教师教育实验，以及 [[OECD]] 21 世纪技能绩效[[Discourse|话语]]对整体教化理想的工具化侵蚀。

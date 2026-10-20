@@ -32,7 +32,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Value Neutrality]]"
   - "[[Constructivist Instruction]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[School Leadership]]"
   - "[[Commensuration]]"
   - "[[Champ]]"
@@ -63,14 +62,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Huang_2020_APJE"
 argument_key: "Argument_Huang_2020_APJE"
 argument_display_title: "The impact of the OECD on education worldwide"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -188,7 +187,7 @@ issuing_organization: ""
 
 #### 1. 学校领导责任强化与公众舆论受控
 
-数据治理在基层行动者之间产生了不对称的[[Disciplina and Doctrina|规训]]机制。（pp. 422–423）
+数据治理在基层行动者之间产生了不对称的规训机制。（pp. 422–423）
 
 > [!quad-grid] 四类微观行动主体在治理网络中的遭遇
 > - **学校管理者（[[School Leadership|学校领导力]]）**

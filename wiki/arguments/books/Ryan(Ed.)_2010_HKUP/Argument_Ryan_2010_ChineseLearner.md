@@ -9,7 +9,7 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Confucius]]"
 related_facts:
+  - "[[Confucius Institute]]"
   - "[[China Basic Education Curriculum Reform]]"
 related_arguments: []
 sources:
@@ -62,7 +63,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2010
 doi: ""
 citation_aliases:
@@ -238,7 +239,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 #### 4c. 儒学被政治和商业议程征用
 
 - **历史上：** 当亚洲经济繁荣时，"亚洲价值"或"儒家教育"被歌颂为成功的关键；当经济低迷时，同样的传统可能被指责为"缺乏创新"(Louie, 2005, 转, p.46)
-- **当代：** 中国政府在全球推广孔子学院——官方说法是"通过个人在礼仪和品味上的自我修养来构建和谐社会"（中国驻澳大利亚大使馆, 2007），而批评者将其视为"中国共产党的宣传工具"(Lane, 2007, 转, p.47)
+- **当代：** 中国政府在全球推广[[Confucius Institute|孔子学院]]——官方说法是"通过个人在礼仪和品味上的自我修养来构建和谐社会"（中国驻澳大利亚大使馆, 2007），而批评者将其视为"中国共产党的宣传工具"(Lane, 2007, 转, p.47)
 - **学界内部：** 许多有影响力的学者正在将儒学教育重新解释为通往财富和民主的路径——但"这一观点在任何传统儒家看来都是异端邪说"(Louie, 2005, p.21, 转, p.47)
 
 #### 4d. 当代中国的现实与"儒家道德"叙事相矛盾

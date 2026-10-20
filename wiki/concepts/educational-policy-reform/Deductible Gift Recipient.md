@@ -10,7 +10,7 @@ aliases:
 summary: "澳大利亚税法中赋予特定非营利机构接受企业与个人捐款并向捐赠人提供全额个税扣除的法定特许资质（以 DGR1 为最高等级）；在教育政策中作为国家特许的法律与财政管道，引导免税资本绕过公共部门直达特定中介，构成异层治理的核心物质载体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,16 +20,15 @@ tags:
   - policy-tools
   - educational-governance
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Philanthrocapitalism]]"
   - "[[Venture Philanthropy]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[Social Impact Investing]]"
   - "[[Construct]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[David Gonski]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Deductible Gift Recipient
@@ -88,7 +87,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **法定特许壁垒突破（Statutory Concession Breakthrough）** 澳大利亚各州公立学校本身不具备 DGR1 资质，富裕群体向公立学校直接捐款无法抵税；国家通过设立中介机构并赋予其 DGR1，打破了公立学校无法直接吸纳全国免税资本的法定限制。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 528, 530)]]
 > - **税收支出（Tax Expenditure）的逆向再分配** 捐赠人每捐出 1 澳元，即可从应纳税额中全额扣减，实质上是以国家税基缩减为代价，将公共财权让渡给私人慈善家决定资金流向。
-> - **项目制竞争与商业量规[[Disciplina and Doctrina\|规训]]** 通过 DGR1 渠道流入学校的资金并非全额无偿保障，而是被包装为竞争性赠款项目，迫使弱势公立学校迎合企业制定的考评量规。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
+> - **项目制竞争与商业量规规训** 通过 DGR1 渠道流入学校的资金并非全额无偿保障，而是被包装为竞争性赠款项目，迫使弱势公立学校迎合企业制定的考评量规。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
 > - **耐用法律材料的制度锚定** DGR1 条款被明确固化在国家法定税法文本与公司登记档案中，赋予异层治理超越人际更迭的长期制度刚性。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 522–525)]]
 
 > [!logic-map]- DGR1 渠道下的财政倒流与再分配拓扑图
@@ -121,7 +120,7 @@ updated: 2026-10-16
 ### 命题二　DGR1 制度诱发公共财富向私营中介逆向流动并剥夺公立学校办学自主权
 
 > [!concept-lens] 财富再分配异化与去专业化
-> 揭示依托免税特权运作的慈善资本不仅未能缩减教育差距，反而使公共财政反向滋养私营中介并强化了对学校的商业[[Disciplina and Doctrina\|规训]]。
+> 揭示依托免税特权运作的慈善资本不仅未能缩减教育差距，反而使公共财政反向滋养私营中介并强化了对学校的商业规训。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > **免税中介再分配异化与学校商业附庸化** 实证档案显示，享有 DGR1 资质的 [[Social Ventures Australia\|SVA]] 从政府吸纳的财政资助（121.6 万澳元）远高于其对外发放的赠款（62.5 万澳元，仅占 51%），公共财政逆向流向了机构自身的咨询与行政开销。在此模式下，本应享受全额公共拨款的弱势公立学校沦落为竞逐企业微额赠款的乞讨者，办学自主权与教育[[Professional Judgment\|专业判断]]被迫屈从于商业问责量规。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
@@ -176,6 +175,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统追踪全澳公立学校首个 DGR1 资质的立法确立过程，揭示其作为税收特许管道重塑公共财政再分配的运作机理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体理论，分析 DGR1 与公司法注册等耐用材料在教育政策跨国流动中的装配效应。

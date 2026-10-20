@@ -11,7 +11,7 @@ summary: "在实验、元分析与证据综合中因缺乏明确、对称或对�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Meta-meta-analysis]]"
   - "[[Cross-sectional Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"

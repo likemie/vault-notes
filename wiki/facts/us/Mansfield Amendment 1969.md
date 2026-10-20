@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Mansfield Amendment 1969
@@ -112,6 +112,6 @@ updated: 2026-10-19
 > |:---|:---|:---|
 > | [[DARPA]] | Fact (Organization) | 修正案的直接约束对象；迫使其改名为 DARPA 并全面转向战术作战技术。 |
 > | [[National Science Foundation]] | Fact (Organization) | 修正案的承接方；接管原本由 ARPA 支撑的大学计算机科学与基础材料研究。 |
-> | [[Curiosity-Driven Research|Blue Skies Research]] | Concept | 修正案在军方科研中严加限制的纯好奇心驱动探索模式。 |
+> | [[Curiosity-Driven Research\|Blue Skies Research]] | Concept | 修正案在军方科研中严加限制的纯好奇心驱动探索模式。 |
 > | [[Developmental Network State]] | Theory | 修正案深刻塑造了发展型网络国家内部各机构的职能边界与分工网络。 |
 > | [[Erica Fuchs]] | Person | 深入剖析修正案对 DARPA 历史演变及治理机制深层影响的技术政策学者。 |

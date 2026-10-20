@@ -8,7 +8,7 @@ aliases:
 summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，以二维矩阵取代线性基础/应用二分法，以巴斯德象限代表同时追求机理理解与现实应用的用启发性基础研究；2026年被确立为重构联邦科研资助与新型组织形态的战略基石。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 44
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Evaluation Research]]"
   - "[[Epistemology]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Return on Investment]]"
   - "[[Decodification]]"
   - "[[Research Question]]"
@@ -41,8 +40,7 @@ related_concepts:
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Discovery-Invention Cycle]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Donald Stokes]]"
@@ -134,7 +132,7 @@ updated: 2026-10-20
 > **应用实例** [[Manhattan Project|曼哈顿工程]]中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
 
 > [!theory-proposition] 命题二｜巴斯德象限研究应成为国家创新政策与公共研发资助的战略重心
-> **解释** 斯托克斯主张，[[Curiosity-Driven Research|纯基础研究]]（玻尔象限）往往周期漫长且方向难以预测，纯应用研究（爱迪生象限）易于被私营部门资本化，而巴斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+> **解释** 斯托克斯主张，纯基础研究（玻尔象限）往往周期漫长且方向难以预测，纯应用研究（爱迪生象限）易于被私营部门资本化，而巴斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
 > **应用实例** [[DARPA|国防高级研究计划局]]（DARPA）通过设立极具挑战性的现实应用目标（如隐形飞机、分布式互联网络、全球定位系统），引导顶尖科学家在基础理论与前沿工程交汇处展开攻关，成为巴斯德象限模式在制度上的成功样板。
 

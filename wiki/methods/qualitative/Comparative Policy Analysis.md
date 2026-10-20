@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -19,9 +19,9 @@ tags:
   - comparative-political-economy
 related_concepts:
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
+  - "[[Geopolitics]]"
   - "[[Policy Conditionalities]]"
   - "[[Student Mobility]]"
   - "[[Knowledge-Based Economy]]"
@@ -29,10 +29,10 @@ related_concepts:
   - "[[Transiency]]"
   - "[[Educational Decentralization]]"
   - "[[Epistemology]]"
-  - "[[Value Neutrality]]"
   - "[[Heterogeneity]]"
   - "[[Counterfactual]]"
   - "[[Institutional Complementarity]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Modern Industrial Policy]]"
   - "[[Academic Achievement]]"
   - "[[Policy Borrowing]]"
@@ -42,10 +42,12 @@ related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
   - "[[Governmentality]]"
+  - "[[Policy Transfer Framework]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Effect Size]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Content Analysis]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Difference-in-Differences]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Comparative Policy Analysis
@@ -76,7 +78,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 方法定义
-> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与[[Disciplina and Doctrina|规训]]机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
+> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与规训机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规文本、中长期战略规划、直接与间接财政预算、监管审查准则、国家评估指标手册、学制结构设计与公私契约条款。
@@ -86,7 +88,7 @@ updated: 2026-10-19
 
 > [!citation-card]
 > **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] 五维比较政策分析架构**
-> 借鉴产业政策文献中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对地缘政治调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
+> 借鉴产业政策文献中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对[[Geopolitics|地缘政治]]调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
 >
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
@@ -115,7 +117,7 @@ updated: 2026-10-19
 > [!method-stack] 方法层级
 > - **研究设计** 跨国制度比较设计、纵向历史-跨国横向双轴设计、跨大西洋政策话语对质设计与多案例对比设计。
 > - **数据收集** 官方立法文本、行政指导细则、跨国统计数据库、政策问责指标量表、跨国条约协议与历史政策白皮书。
-> - **分析方法** 多维定性矩阵分析、批判性政策话语分析（Policy Discourse Analysis）、政策工具箱分类、制度功能等价性比对与治理网络制图。
+> - **分析方法** 多维定性矩阵分析、[[Critical Discourse Analysis|批判性政策话语分析]]（Policy Discourse Analysis）、政策工具箱分类、制度功能等价性比对与治理网络制图。
 > - **辅助技术** 概念矩阵映射、跨国政策条文平行比对表、话语编码节点网络图与历时演变因果链示意图。
 
 ---
@@ -181,7 +183,7 @@ updated: 2026-10-19
 > | [[Historical Institutionalism]] | 理论基础 | 历史制度主义为比较政策分析提供[[Path Dependence\|路径依赖]]、关键节点与[[Institutional Complementarity\|制度互补性]]的理论分析基础。 |
 > | [[Cultural Political Economy]] | 理论基础 | 文化政治经济学支撑政策[[Discourse\|话语]]解构，阐明意义建构如何与物质资本结构协同运作。 |
 > | [[Spatial Governmentality]] | 理论基础 | 空间[[Governmentality\|治理术]]理论指导对跨国人口流动[[Disciplina and Doctrina\|规训]]与空间包容/排斥策略的比较分析。 |
-> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的跨国政策借用分析框架，为比较政策分析提供核心维度。 |
+> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的跨国[[Policy Borrowing\|政策借用]][[Analytic Framework\|分析框架]]，为比较政策分析提供核心维度。 |
 > | [[Discourse Analysis]] | 互补方法 | 质性话语分析作为子模块，用于深剖法案文本前言与官方问责文本中的意识形态编码。 |
 > | [[Case Study]] | 基础设计 | 深入的单案例或多案例研究为跨国比较政策分析提供扎实的地方情境理解与历史脉络支撑。 |
 

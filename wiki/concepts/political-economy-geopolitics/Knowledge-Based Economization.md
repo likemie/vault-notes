@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
+  - "[[Geopolitics]]"
   - "[[Grandes Ecoles]]"
   - "[[Praxis]]"
   - "[[Innovation Ecosystem]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -129,7 +130,7 @@ Polanyi 论证，任何经济——包括资本主义市场经济——都不可
 
 这个论证对知识经济化分析至关重要：它意味着知识经济不可能纯粹通过市场交易运作——它**必须**依赖非经济制度（大学、法律体系、国家政策、文化规范）来支撑其运转。大学在 KBE [[Discourse|话语]]中被凸显，不是因为大学天然应该服务经济，而是因为知识经济化过程需要大学作为额外经济的锚定点——这就是为什么国家投入巨额资金改造大学，为什么大学的空间、课程和治理被重新设计。
 
-Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分析那些被标记为非经济的制度如何构成经济的可能性条件。** 正是这一点使 Moisio 的分析从纯经济学问题转变为地缘政治和教育治理问题。
+Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分析那些被标记为非经济的制度如何构成经济的可能性条件。** 正是这一点使 Moisio 的分析从纯经济学问题转变为[[Geopolitics|地缘政治]]和教育治理问题。
 
 ---
 
@@ -172,7 +173,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 > [!example] 概念辨析
 > - **vs [[Knowledge-Based Economy]]** KBE 问知识经济是什么（实际存在的经济形态、其要素和演变）；知识经济化问知识经济如何被制造（横跨物质和[[Discourse|话语]]的持续生产过程）。前者是分析的对象实体，后者是分析这一实体如何被生产出来的方法论透镜。
-> - **vs 经济化 (Economization, Ҫalişkan & Callon)** 经济化泛指任何社会领域被经济逻辑重新框定的过程；知识经济化特指这一过程在高等教育、科研和创新领域的运作方式，并将其与地缘政治竞争相链接。
+> - **vs 经济化 (Economization, Ҫalişkan & Callon)** 经济化泛指任何社会领域被经济逻辑重新框定的过程；知识经济化特指这一过程在高等教育、科研和创新领域的运作方式，并将其与[[Geopolitics|地缘政治]]竞争相链接。
 > - **vs 市场化／私有化** 市场化和私有化关注具体的经济制度变迁（引入市场机制、转移所有权）；知识经济化是一个更广义的概念，关注的是整个社会如何被重新想象和重新组织以服务于知识驱动增长的目标，市场化只是其中的工具之一。
 >
 
@@ -236,7 +237,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 ---
 
 > - **[[EU|欧盟]]的制度化** 自 2000 年[[Lisbon Strategy\|里斯本战略]]以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy\|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）。
-> - **[[Global Education Industry\|全球教育产业]]的兴起** 经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的地缘政治抱负提供了肥沃的土壤和生产性的推力（Thompson & Parreira do Amaral, 2022, p.12）。
+> - **[[Global Education Industry\|全球教育产业]]的兴起** 经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的[[Geopolitics|地缘政治]]抱负提供了肥沃的土壤和生产性的推力（Thompson & Parreira do Amaral, 2022, p.12）。
 > - **[[Minerva University]] 案例** 将高等教育彻底重塑为可扩展、可转让的商业和运营模型——无校园、全球城市沉浸、在线教学——体现了知识经济化在制度层面的极致运作（Thompson & Parreira do Amaral, 2022, pp.2–3）。
 > - **[[Spatial Sortings]]** 政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了民族国家的战略性城市化。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism\|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]])。
 >

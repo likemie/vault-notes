@@ -11,7 +11,7 @@ aliases:
 summary: "由弗里德里希·李斯特肇始、后经摩西·阿布拉莫维茨（Moses Abramovitz）与克里斯·弗里曼（Chris Freeman）等演化经济学家系统构建的核心概念；指在国际技术前沿与经济发展水平上处于落后地位的经济体，通过制度创新、国家协调技术教育、引进装备逆向工程以及企业内部专业研发积累，打破先发国家的技术垄断、缩短技术差距并最终实现生产率领先的历史演进过程；强调赶超的关键在于构建以工程技术人才为基石的内生国家创新系统，而非被动等待市场自发收敛。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Friedrich List]]"

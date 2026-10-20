@@ -9,7 +9,7 @@ summary: "美国核物理学家与科技政策专家，1981至1985年出任里�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,8 +28,7 @@ related_concepts:
   - "[[University-Based Research Center]]"
   - "[[Refined Mastery]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Science Foundation]]"

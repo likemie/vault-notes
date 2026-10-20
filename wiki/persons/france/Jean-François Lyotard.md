@@ -38,6 +38,7 @@ related_concepts:
   - "[[International Spinozian Curriculum]]"
   - "[[Policy Network]]"
   - "[[Floating Signifier]]"
+  - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
   - "[[Feeder Mechanism]]"
   - "[[Governance by Spin]]"
@@ -51,8 +52,7 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -182,10 +182,10 @@ updated: 2026-10-20
 > - **知识商品化与学术重商主义** 知识为了售卖而生产的论断被比较教育学者用于剖析大学学术重商主义与跨国咨询输出，揭示高等院校如何将[[School Effectiveness|学校效能]]与绩效方案包装为咨询商品输出至发展中国家。
 > - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心[[Competitiveness|竞争力]]不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]提供了时代合理性。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network\|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier\|漂浮能指]]”的生存博弈机制。
-> - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
+> - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识[[Geopolitics|地缘政治]]中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引[[Jean-François Lyotard|利奥塔]]知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Authentic Instruction
@@ -186,5 +185,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 采用[[Meta-analysis\|元分析]]综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了真实性教学（应用型解题、[[Role-playing\|角色扮演]]、情境模拟）在发展[[Critical Thinking\|批判性思维]]中的核心地位及与对话、[[Mentorship\|导师制]]结合的高阶协同效应。

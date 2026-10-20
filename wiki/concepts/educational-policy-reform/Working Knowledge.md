@@ -8,7 +8,7 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_methods:
   - "[[Winnowing]]"
   - "[[Expert Interview]]"
   - "[[Qualitative Content Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 related_facts:
   - "[[Vergleichsarbeiten]]"
@@ -44,7 +43,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Working Knowledge
@@ -185,7 +184,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 追踪德国教育部官员在两轮 [[PISA]] 测评及日常治理中的数据处理行为，论证了外部证据如何被重构并融入行政官员的实践运作知识，推动循证政策走向日常行政常规。
 
 ---

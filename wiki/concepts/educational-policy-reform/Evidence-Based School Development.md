@@ -9,7 +9,7 @@ aliases:
 summary: "指德语区（德国与奥地利）在经历 PISA 冲击后确立的国家教育监测战略下发展出的学校自主治理与持续改进范式；主张学校管理者与教职工基于标准化测试、外部督导与校内诊断等多源实证数据，系统开展现状诊断、目标协商与微观教学干预，推动教育质量管理由传统投入规制转向产出与循证数据驱动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Data Literacy]]"
   - "[[Reflexivity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
   - "[[Direct Instruction]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evidence-Based School Development
@@ -184,7 +183,7 @@ updated: 2026-10-16
 > [!debates] 学术争议与治理张力
 >
 > > [!axis] 自主赋能罗盘 vs 隐性远程规制
-> > 争论循证学校发展究竟是赋予单校自主诊断与发展的科学罗盘，还是国家在放权外衣下实施的精细化远程绩效[[Disciplina and Doctrina\|规训]]。
+> > 争论循证学校发展究竟是赋予单校自主诊断与发展的科学罗盘，还是国家在放权外衣下实施的精细化远程绩效规训。
 > >
 > > - **赋能支持论** 强调低利害测试严禁公开排位，数据仅供校内诊断，能够打破传统个人主义教学孤岛，培育科学理性的反思文化。
 > > - **批判制度论** 指出多源数据与目标协定在无形中收紧了国家标准的规训之网，诱发迎合外部指标的形式主义与教师专业自主性的流失。

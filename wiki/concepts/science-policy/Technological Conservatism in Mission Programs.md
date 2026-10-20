@@ -10,7 +10,7 @@ aliases:
 summary: "指大型使命导向公共项目管理层因承担灾难性系统失败与人员生命安全风险，在飞行元器件选型上表现出高度的风险规避与保守倾向，但项目的极端功能与环境约束又反向迫使工业界在前沿技术上急剧加速创新的组织与治理张力机制。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,8 +33,7 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jerome E. Schnee]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Return on Investment]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Social Engagement]]"
   - "[[Lifelong Learning]]"
@@ -45,7 +44,9 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Rich and Thick Description]]"
   - "[[Competitiveness]]"
+  - "[[Generic Skills]]"
   - "[[Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Human Capital Theory]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Employability
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > - **2004 年 [[Soft Power|软实力]]与印象管理转向** Brown & Hesketh 进一步论证雇主甄别逻辑从学历证书等“硬通货”全面扩展至个人品位、交往谈吐、实习经历等“软实力”，开启了求职者将自我作为商品进行品牌化管理的学术探讨。
 > - **2005–2009 年 超国家空间治理与流动性就业能力捆绑** [[EU|欧洲联盟]]（European Union, EU）通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（[[TEMPUS]]），在[[Bologna Process|博洛尼亚进程]]（Bologna Process）中将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）法定编码为获取现代就业能力的关键支柱；批判学者揭示这实质上是将结构性劳动力市场风险转化为个体空间适应责任的治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]; Papatsiba (2005)
 > - **2010–2013 年 概念维度[[Operationalization|操作化]]与因果证据反思** Brown (2013) 形式化界定绝对就业力与相对就业力；与此同时，计量经济学与认知科学学者指出，政策[[Discourse|话语]]宣称的通用就业力素养与实际成人收入结果之间存在显著的[[Causality|因果推断]]证据缺口，企业岗位设计不匹配将导致通用技能[[Return on Investment|投资回报]]归零。Finegold and Notabartolo (2010); Pellegrino and Hilton (2012)
-> - **2022 年 技能话语建构与福柯主义[[Governing at a Distance|远距治理]]批判** 泽林卡（Milos Zelinka, 2022）从 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）切入，解构就业能力作为[[Governing at a Distance|远距治理]]技术的运作机制，揭示外部期望如何将求职者[[Disciplina and Doctrina|规训]]为无止境追求市场认可的自律主体。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 258–265)]]
+> - **2022 年 技能话语建构与福柯主义[[Governing at a Distance|远距治理]]批判** 泽林卡（Milos Zelinka, 2022）从 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）切入，解构就业能力作为[[Governing at a Distance|远距治理]]技术的运作机制，揭示外部期望如何将求职者规训为无止境追求市场认可的自律主体。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 258–265)]]
 > - **2023 年 中国精英大学[[Champ|场域]]应用与履历分层揭示** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Brown 的相对就业力与[[Economy of Experience|履历经济学]]框架引入中国研究，揭示名校文凭贬值下大学生如何通过[[Social Engagement|社会性投入]]争取排位优势，并证实家庭阶层资本在这一软性竞争中的再生产效应。
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-10-16
 > 国际技能框架并非中立的教育改革方案，而是通过设定外在于个体的规范期望，将劳动者塑造成无须外部监督便能自发追逐资本效益的自我治理主体。
 
 > [!claim] [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] & Hampson and Junor (2009)
-> **[[Self-Entrepreneur|自我企业家]]的生产与外部标准的内化** 泽林卡（Milos Zelinka, 2022, pp. 258–261）解构 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）指出，就业能力被制度化呈现为[[Self-Entrepreneur|自我企业家]]必须源源不断采购并整合的通用资产。素养（Competency）概念本身遵循高度盎格鲁化的雇主导向逻辑：其[[Success Criteria|成功标准]]完全由外部劳动力市场决定，迫使个体在日常学习中不断开展自我审计，使教育成为服务于劳动力可雇佣性的工具性[[Disciplina and Doctrina|规训]]，构成了典型的福柯式[[Governing at a Distance|远距治理]]。
+> **[[Self-Entrepreneur|自我企业家]]的生产与外部标准的内化** 泽林卡（Milos Zelinka, 2022, pp. 258–261）解构 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）指出，就业能力被制度化呈现为[[Self-Entrepreneur|自我企业家]]必须源源不断采购并整合的通用资产。素养（Competency）概念本身遵循高度盎格鲁化的雇主导向逻辑：其[[Success Criteria|成功标准]]完全由外部劳动力市场决定，迫使个体在日常学习中不断开展自我审计，使教育成为服务于劳动力可雇佣性的工具性规训，构成了典型的福柯式[[Governing at a Distance|远距治理]]。
 
 ---
 
@@ -207,7 +208,7 @@ updated: 2026-10-16
 > | **[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]** | 中国两所顶尖大学（北方大学、南方大学）60 余位毕业生 | 深度[[Qualitative Interview\|质性访谈]]与纵向追踪 | [[Social Engagement\|社会性投入]]（实习、学生干部） vs [[Academic Engagement\|学业投入]]；家庭[[Cultural Capital\|文化资本]] | 发现[[Social Engagement\|社会性投入]]对求职排位的区分度显著超越学业成绩；优势家庭学生凭借信息与经济支持在实习包装中形成压倒性优势 | 证实就业力已由绝对学术能力退化为高度阶层化的相对[[Soft Power\|软实力]]竞争 |
 > | **钦凯案例（引自[[Yajun Zheng\|郑雅君]]研究）** | 南方大学化学系本科生，获多家顶级外企咨询录用 | 单例质性[[Rich and Thick Description\|深描]]与[[Case Study\|个案研究]] | “硬”条件（学历、成绩） vs “软”条件（演绎能力、印象管理） | 该生自觉将[[Competitiveness\|竞争力]]拆解为硬技能与软演绎，通过跨年级商界社交模拟高管谈吐，最终通过面试气场赢得高薪岗位 | 生动呈现出求职者将自我作为商品进行品牌化管理的自律主体性运作 |
 > | **Finegold and Notabartolo (2010)** | 全美多行业技能需求与岗位设计数据 | 劳动力经济学[[Meta-analysis\|元分析]]与岗位任务分解 | 通用技能供给 vs 雇主真实工作任务设计 | 发现大量中低阶白领岗位任务高度标准化，并不需要高阶批判与创新技能，过度投资通用素养无法转化为生产力 | 揭露政策[[Discourse\|话语]]鼓吹通用就业能力与微观劳动组织真实需求之间的脱节 |
-> | **Pellegrino and Hilton (2012)** | [[National Academy of Sciences\|美国国家科学院]]多学科评估委员会报告 | 跨学科实证文献系统综合分析 | 21 世纪通用技能与成人就业、收入之因果关联 | 仅有极少数实证研究能确立通用认知技能对成年期可度量职业成功的因果效应；框架宣称与测量证据存在巨大鸿沟 | 严正警告政策界对通用就业能力口号的盲目乐观，主张开展扎实的因果实证 |
+> | **Pellegrino and Hilton (2012)** | [[National Academy of Sciences\|美国国家科学院]]多学科评估委员会报告 | 跨学科实证文献系统综合分析 | 21 世纪通用技能与成人就业、收入之因果关联 | 仅有极少数实证研究能确立[[Generic Skills\|通用认知技能]]对成年期可度量职业成功的因果效应；框架宣称与测量证据存在巨大鸿沟 | 严正警告政策界对通用就业能力口号的盲目乐观，主张开展扎实的因果实证 |
 > | **Papatsiba (2005, 2006)** | 欧洲多国 [[Erasmus Programme\|ERASMUS]] 项目参与大学生与政策文本 | 批判性政策[[Discourse Analysis\|话语分析]]与半结构访谈 | 跨国流动性（Mobility）在简历中的转化与官方功能定位 | 官方文本将跨国移动等同于就业灵活性；学生将流动经历作为履历区隔符号，但宏观青年失业率并未因流动增加而下降 | 证实跨国流动性已被超国家空间治理技术工具化吸收为劳动者自负盈亏的排位资本 |
 
 ---

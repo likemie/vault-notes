@@ -20,6 +20,7 @@ tags:
   - higher-education
 related_concepts:
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Academic Freedom]]"
   - "[[Megascience Installations]]"
 related_arguments:
@@ -27,13 +28,12 @@ related_arguments:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scientific Autarky
@@ -47,7 +47,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家科研系统中的隔离程度以及在科研资源、[[Human Capital Theory\|人力资本]]、基础设施和资金筹措方面追求自足的战略选择。
-> - **用途** 帮助解析在全球化受阻、地缘政治紧张的背景下，后进国家或受限制国家在科研制度转型与政策管控中的张力。
+> - **用途** 帮助解析在全球化受阻、[[Geopolitics|地缘政治]]紧张的背景下，后进国家或受限制国家在科研制度转型与政策管控中的张力。
 > - **边界** 不等于纯粹的科研本土化，其更强调由地缘政治、国家规制和外部制裁等因素交织推动的主动或被动的系统性闭架倾向。
 
 > [!boundary]- 概念边界
@@ -91,7 +91,7 @@ updated: 2026-10-16
 > [!contrast-table] 科学自给自足相关命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **外部制约与政策反应** | 外部限制会触发主动的科技自给自足，但政策往往呈现出行政过度管控和不确定性 | 转型期与受地缘政治波及的科学系统 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] |
+> | **外部制约与政策反应** | 外部限制会触发主动的科技自给自足，但政策往往呈现出行政过度管控和不确定性 | 转型期与受[[Geopolitics\|地缘政治]]波及的科学系统 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] |
 > | **超额投资与科技追赶** | 科学自给自足需要以大规模的本国财政追加投资为代价来弥补外部交流的断裂 | 具有强大经济体量的追赶型国家 | Pencea (2021); Malakhov (2018) |
 
 ---
@@ -118,5 +118,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 分析了俄罗斯科学界在学者循环、资助集中化以及[[Megascience Installations\|大科学装置]]本土独立化过程中所显现的自给自足趋势及制度代价。

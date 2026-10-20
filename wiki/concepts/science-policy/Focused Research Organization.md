@@ -7,7 +7,7 @@ aliases:
 summary: "一种以攻克关键科学瓶颈、生产公共品为导向的中等规模新型非营利科研组织；通过固定 5 年周期与严格日落条款（做完即散）、全职专业科学家与工程团队以及 2000 万至 5000 万美元集中资助，填补传统大学小课题组、营利性企业研发与永久国家实验室之间的‘中等规模公共品缺口’。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Convergence Research]]"
 related_theories:
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"

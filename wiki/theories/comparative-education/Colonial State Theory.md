@@ -10,10 +10,10 @@ aliases:
 summary: "比较教育政治经济学视阈下的国家理论，批判自由主义民主国家假定，指出殖民国家因其天然非代表性与暴力胁迫本质而极少承担政治合法化职能，其教育供给完全服务于资本掠夺与最低限度治安行政能力，并提出后殖民教育扩张由全球积累嵌入时机、殖民制度遗产与本土社会结构三重历史条件共同决定"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 18
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/comparative-education
   - theory/state
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Credential Inflation]]"
   - "[[Popular Education]]"
+  - "[[Developmentalism]]"
+  - "[[Geopolitics]]"
   - "[[Theoretical Standpoint]]"
   - "[[Global Citizenship]]"
   - "[[Dual School System]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Colonial State Theory
@@ -137,7 +139,7 @@ updated: 2026-10-16
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有清晰殖民统治历史、在二战后通过民族解放或政权更迭获得独立的外围资本主义社会。
 > - **成立条件** 必须具备详实的殖民期制度档案与宏观经济嵌入历程数据，不能空洞套用[[Dependency Theory|依附论]]标签。
-> - **解释不足** 对部分东亚原殖民地在战后通过强有力土地改革与国家自主发展主义迅速实现初等教育普惠的特例，该理论需要结合地缘政治与外资援助的特殊性予以补充修正。
+> - **解释不足** 对部分东亚原殖民地在战后通过强有力土地改革与国家自主[[Developmentalism|发展主义]]迅速实现初等教育普惠的特例，该理论需要结合[[Geopolitics|地缘政治]]与外资援助的特殊性予以补充修正。
 > - **不能直接推出** 理论无法单凭殖民历史直接断定当代教育改革必然失败，忽视本土教育工作者的批判性解放能动性。
 
 ---

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Geisteswissenschaften]]"
   - "[[Big Science]]"
+  - "[[South-South Cooperation]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -53,9 +54,9 @@ title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "ECO"
 book_title: ""
@@ -230,7 +231,7 @@ issuing_organization: ""
 > [!tension] 大科学装置建设的路线冲突
 > - **多边国际共建模式（全球主流趋势）**
 >   - **成本分摊与资源共享** 鉴于大科学装置极高的建设与运行成本，世界各国普遍采用多国共同出资、共建共享的合作模式。（p.48）
-> - **大国策略的转向** 美国在超导超级对撞机（SSC）项目因超支停摆后，承认单边出资不可行，全面转向深度融入[[CERN|欧洲核子研究中心]]（CERN）等国际协作网，共享前沿物理成果。
+> - **大国策略的转向** 美国在超导超级对撞机（[[South-South Cooperation|SSC]]）项目因超支停摆后，承认单边出资不可行，全面转向深度融入[[CERN|欧洲核子研究中心]]（CERN）等国际协作网，共享前沿物理成果。
 > - **单边本土化建设模式（俄罗斯自足取向）**
 >   - **基建倾斜与独资倾向** 自2010年代起偏离多边共建轨道，将大量国家科研基建预算向本土独资、完全所有的“大科学”项目倾斜。（pp.47–48）
 > - **财政预算与能力的脱节** 在研发预算仅为美国十三分之一的背景下强推本土独资项目，试图锁定局部技术自立，带来了沉重的重复研发和财务压力。

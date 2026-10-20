@@ -8,7 +8,7 @@ summary: "美国著名国际关系理论家、新自由制度主义奠基人之�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Soft Power by Hard Facts]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Joseph S. Nye Jr.
@@ -93,7 +94,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 约瑟夫·奈指出，国际政治中的权力不仅体现为强迫他人做其不愿做之事的“指挥性权力”（如军事打击与经济制裁），更体现为让对方主动认同并渴望你所追求目标的“同化性权力”——即[[Soft Power|软实力]]。然而在科技与地缘政治竞争的复杂现实中，软实力构成了行使权力的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件；唯有将崇高的制度价值感召与扎实的物质技术[[Hard Power|硬实力]]相结合，才能构筑持久稳定的战略威慑与国际和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]
+> 约瑟夫·奈指出，国际政治中的权力不仅体现为强迫他人做其不愿做之事的“指挥性权力”（如军事打击与经济制裁），更体现为让对方主动认同并渴望你所追求目标的“同化性权力”——即[[Soft Power|软实力]]。然而在科技与[[Geopolitics|地缘政治]]竞争的复杂现实中，软实力构成了行使权力的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件；唯有将崇高的制度价值感召与扎实的物质技术[[Hard Power|硬实力]]相结合，才能构筑持久稳定的战略威慑与国际和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]
 
 ---
 

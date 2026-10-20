@@ -7,7 +7,7 @@ aliases:
 summary: "1960年代中期由仙童半导体从系统装配与印刷电路板布线视角研发的标准集成电路封装架构，通过双列平行引脚与100密耳间距设计，极大降低布线难度并适配自动插件机，成为商用集成电路大规模扩散的关键物理接口。"
 type: concept
 domain: "economics"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

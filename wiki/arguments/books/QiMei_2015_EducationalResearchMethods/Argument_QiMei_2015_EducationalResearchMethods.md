@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 128
+argument_related_count: 127
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -109,7 +109,6 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
   - "[[Memos]]"
   - "[[Questionnaire]]"

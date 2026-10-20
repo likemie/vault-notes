@@ -8,7 +8,7 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Effect Size]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Stephen Ball]]"
 related_facts:
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Network Ethnography
@@ -163,6 +162,6 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）背后跨越十年的[[Venture Philanthropy\|风险慈善]]游说与跨国[[Policy Network\|政策网络]]。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 综合网络[[Ethnography\|民族志]]、访谈、ACNC 与 ASIC 报告和网络可视化，以[[Social Ventures Australia\|SVA]]为中枢，解构连接 [[Evidence for Learning\|E4L]] 与 [[Australian Education Research Organisation\|AERO]] 的风险慈善中介网络。

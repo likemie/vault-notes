@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育学中考察本土研究者（局内人）与外来研究者（局外人）在认识论与方法论上互补与辩证张力的分析视角。既涵盖跨文化与跨大洲比较中本土语境深描与外部陌生化批判距离的视域融合（Mitter, 2009），亦延伸至超国家机构治理分析中圈内实务官员对官僚运作、繁琐程序与重投入轻产出异化的现实主义解构，打破外界基于文本推演构建的意识形态全能神话（Castro, 2009）。"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -50,15 +50,14 @@ related_concepts:
   - "[[Cultural Relativism]]"
   - "[[Falsification]]"
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Bank]]"
   - "[[Policy Conditionalities]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
   - "[[Analytic Framework]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
@@ -214,7 +213,7 @@ updated: 2026-10-20
 > > - **米特辩证综合观（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 指出两者绝非零和博弈，必须通过对等概念转化建立双向沟通机制，使外部指标获得本土深度阐释。
 >
 > > [!axis] 文本意识形态还原论 vs [[Bureaucracy|官僚制]]度现实主义：外部全能阴谋指控 vs 圈内失能现实解构
-> > 争论多边金融机构在借贷国的教育干预，究竟是跨国垄断资本精密推行新自由主义[[Disciplina and Doctrina|规训]]的意识形态阴谋，还是深陷官僚程序泥潭与执行失控的体制悲剧。
+> > 争论多边金融机构在借贷国的教育干预，究竟是跨国垄断资本精密推行新自由主义规训的意识形态阴谋，还是深陷官僚程序泥潭与执行失控的体制悲剧。
 > >
 > > - **激进批判学者（Frigotto, 1995; Torres, 1996）** 依据[[World Bank|世行]]公开白皮书与借贷附加条件，严厉批判其为跨国资本服务、拆解受援国公共教育主权的超国家政治霸权。
 > > - **圈内反思学者（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 指出外部批判往往犯了“将复杂现实化约为单一文本”的幼稚错误；多边银行充斥着良好意愿与多元理论争论，其真正顽疾在于繁琐报销审计对项目生机的扼杀，以及考核重投入轻产出的系统性异化。

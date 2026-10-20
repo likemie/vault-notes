@@ -6,7 +6,7 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在实验控制与真实世界适用性之间构成核心张力。"
 type: concept
 domain: "research-methodology"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critique of Meta-meta-analysis]]"
   - "[[Neo-Taylorism]]"
   - "[[Research Ethics]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Elliott Eisner]]"
@@ -180,7 +178,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 生态效度的概念脉络
 > - **1970 年代 — 心理学实验室反思** 针对传统实验心理学过度依赖人造实验室环境导致的推论缺陷，生态效度概念被正式引入，用于衡量发现与日常现实生活的契合度。
-> - **1983 年 — 教学的人际艺术与反行为[[Disciplina and Doctrina|规训]]** [[Elliott Eisner|埃利奥特·艾斯纳]]发表《教学的艺术与工艺》（Eisner, 1983），指出教育是极其复杂的动态人际过程，预设的行为目标无法概括育人全貌，奠定人文生态评价思想。
+> - **1983 年 — 教学的人际艺术与反行为规训** [[Elliott Eisner|埃利奥特·艾斯纳]]发表《教学的艺术与工艺》（Eisner, 1983），指出教育是极其复杂的动态人际过程，预设的行为目标无法概括育人全貌，奠定人文生态评价思想。
 > - **1990 年代 — 教育政策粉笔层面转向** Schofield (1990) 提出去情境化法则与情境[[Rich and Thick Description|厚描述]]之争；Brock-Utne (1996) 正式将生态效度运用于教育政策研究，倡导追踪政策在真实课堂中的变形。
 > - **2008 年 — 教室世界非实验室定性** Hammersley (2008) 论证控制[[Variable|变量]]的实验室试验在原则上歪曲了教室真实生态，在高度控制下发现的效应难以适用于现实情境。
 > - **2009–2010 年 — 跨国政策生态与[[Meta-meta-analysis|二阶元分析]]的生态效度论战** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 结合新西兰统一国家课程与学校董事会自治传统，深刻剖析了《可见学习》基于美英文献的二阶统计均值在跨国政策外推时的生态效度壁垒，指出其强行合并不同学段、学科和生源背景的研究抹杀了课堂微观生态与调节机制；[[Argument_Hattie_2010_NZJES|Hattie (2010)]] 则以本土研究供给不足为由，提出证据批判性转译优于凭空决策的方法论辩护。

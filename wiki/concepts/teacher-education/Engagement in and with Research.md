@@ -31,6 +31,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Dialogue in Education]]"
   - "[[Research Translation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Interaction Effect]]"
   - "[[Homework]]"
   - "[[Research Utilization]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Analysis of Variance]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Engagement in and with Research
@@ -106,7 +106,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **开展研究（Engagement in research）** 涵盖发现教学现场真实痛点、拟定探究方案、收集分析课堂数据并反思教学成效，直接塑造教师的方法论实操技能（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 3–5]]）。
-> - **使用研究（Engagement with research）** 涵盖追踪专业学术期刊、解读实证图表与统计分析结论、在备课中吸纳前沿教学法知识，构成日常循证决策的知识输入源泉（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 6–8]]）。
+> - **使用研究（Engagement with research）** 涵盖追踪专业学术期刊、解读实证图表与统计分析结论、在备课中吸纳前沿教学法知识，构成日常[[Evidence-Based Policy-Making|循证决策]]的知识输入源泉（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 6–8]]）。
 > - **双轨独立性与差异效应** 实证检验表明，开展科研与追踪期刊对教师素养各维度产生独立的主效应，两者之间无统计显著的[[Interaction Effect\|交互作用]]，表明两条路径各自独立发挥促成价值（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, p. 13]]）。
 > - **全周期参与度与主体地位** 教师在科研完整生命周期（提出问题、方案设计、组织协调、数据收集、数据分析、评估结果、成果传播）的介入深度，直接决定了参与究竟属于平等的“[[Knowledge Co-production\|知识共创]]”还是异化的“被动客体”（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 90]]）。
 > - **外在硬性与内在动力结构** 教师科研参与需要内在道德愿望（改善微观教学实践）与外在制度支撑（岗位职责界定、职务晋升通道、带薪科研工时保障、专项薪资津贴）的双轮驱动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 90–92]]）。
@@ -227,6 +227,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 实证检验期刊追踪（用研究）与亲身开展科研（做研究）对教师[[Research Literacy\|研究素养]] 4 个维度的独立主效应，证实微观双轨互补机制。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查（29 国 37 个系统），量化诊断一线教师在科研生产中的边缘化、生命周期数据收集客体化扭曲以及外在制度激励全面匮乏的宏观生态病理。

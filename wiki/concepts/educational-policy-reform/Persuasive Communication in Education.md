@@ -8,7 +8,7 @@ aliases:
 summary: "教育创新倡导者与商业机构利用修辞框架、情感共鸣与权威承诺等策略推销缺乏严谨实证支撑的教育产品与干预方案的传播现象；它容易误导学校盲目跟风教育时尚，亟需教师确立批判性分析立场与研究素养加以甄别。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Chain of Evidence]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Neuromyth]]"
   - "[[Heterogeneity]]"
   - "[[Refined Mastery]]"
   - "[[School Leadership]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
   - "[[Neuroplasticity]]"
@@ -37,7 +39,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Persuasive Communication in Education
@@ -90,7 +91,7 @@ updated: 2026-10-17
 
 > [!feature] 核心要素构成
 > - **危机感塑造与痛点放大（Problem Framing & Urgency Amplification）** 将普通教学挑战渲染为亟待解决的“时代危机”或“认知落后”，制造紧迫的焦虑感。
-> - **科学化修辞包装与神经神话（Scientistic Rhetoric & Neuromyths）** 借用前沿学科名词（如“脑科学突触开发”、“AI 驱动个性化学习”）赋予产品不容置疑的科学光环。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
+> - **科学化修辞包装与[[Neuromyth|神经神话]]（Scientistic Rhetoric & Neuromyths）** 借用前沿学科名词（如“脑科学突触开发”、“AI 驱动个性化学习”）赋予产品不容置疑的科学光环。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **简单明了的确定性承诺（Promise of Easy & Universal Success）** 抹杀教育情境的复杂性与[[Heterogeneity\|异质性]]，承诺“一套方案包治百病”或“立竿见影提升 30% 分数”。
 > - **情感共鸣与道德绑架（Emotional Appeal & Moral Imperative）** 将采纳该方案与“成为负责任的卓越教师”相绑定，使拒绝者承受道德压力。
 > - **名人与非同行权威背书（Celebrity & Authority Endorsement）** 借助非学术界名流、商业领袖或脱离课堂的意见领袖进行背书传播。
@@ -127,7 +128,7 @@ updated: 2026-10-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **传播机理命题** | 揭示教育时尚凭借说服性修辞压倒严谨实证的传播扩散机制 | 教育商业产品推销、流行教学法盲目跟风反思 | Nora Carrier (2017); [[Julie Nelson]] 等 |
-> | **批判素养命题** | 阐明教师分析立场与研究素养在抵御说服性修辞中的核心防御功能 | 教师专业发展培训、循证决策能力建设 | Carrier (2017); [[Carol Campbell]] 等 |
+> | **批判素养命题** | 阐明教师分析立场与研究素养在抵御说服性修辞中的核心防御功能 | 教师专业发展培训、[[Evidence-Based Policy-Making\|循证决策]]能力建设 | Carrier (2017); [[Carol Campbell]] 等 |
 
 ---
 
@@ -152,6 +153,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 特刊导言深入评述 Carrier 研究，论证发展教师[[Analytical Stance\|分析立场]]与批判性[[Research Literacy\|研究素养]]的紧迫性。
 > - Nora Carrier (2017) — 《How educational ideas catch on: the persuasive communication strategies of innovation promoters》，奠基性实证研究。

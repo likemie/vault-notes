@@ -8,7 +8,7 @@ aliases:
 summary: "产业政策与发展型国家理论的核心治理机制，最早由阿姆斯登（Alice Amsden）提出。指国家在向私营企业提供巨额公共资源转让（如专项补贴、税收减免或垄断特许）时，必须以企业履行明确且可问责的公共目标（如本土产能建设、劳工福利、技术溢出、超额利润返还及地缘安全合规）为法定契约前提，构建权利与义务对等的双向约束机制，以防止产业资本纯粹寻租。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Competitiveness]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:

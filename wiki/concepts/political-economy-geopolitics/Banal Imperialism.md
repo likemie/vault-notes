@@ -6,7 +6,7 @@ aliases:
 summary: "批判地缘政治与比较教育中指代超国家机构和西方国家通过日常、技术化且看似价值中立的跨国教育绩效数据（如 PISA 排名），建立普世效率指标，在无形中巩固西方中心规则并再生产对非西方社会认识论压制与他者化（Othering）的霸权机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Value Neutrality]]"
   - "[[Discourse]]"
   - "[[Rote Learning]]"
@@ -34,8 +33,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Orientalism]]"
   - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Banal Imperialism
@@ -55,7 +53,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 平庸的帝国主义（Banal Imperialism）是当代[[Critical Geopolitics\|批判地缘政治]]与去殖民比较教育学派的核心概念。它指的是超国家评估机构（如 [[OECD]]）借助日常化、技术化、且看似客观中立的跨国学生评估数据（如 [[PISA]] 排名），将西方的教育效率与社会发展指标树立为普世标准，从而在潜移默化中巩固西方中心的[[Epistemology\|认识论]]规则，再生产对非西方社会的“他者化”（Othering）与文化[[Disciplina and Doctrina\|规训]]的深层霸权机制。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
+> 平庸的帝国主义（Banal Imperialism）是当代[[Critical Geopolitics\|批判地缘政治]]与去殖民比较教育学派的核心概念。它指的是超国家评估机构（如 [[OECD]]）借助日常化、技术化、且看似客观中立的跨国学生评估数据（如 [[PISA]] 排名），将西方的教育效率与社会发展指标树立为普世标准，从而在潜移默化中巩固西方中心的[[Epistemology\|认识论]]规则，再生产对非西方社会的“他者化”（Othering）与文化规训的深层霸权机制。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
 
 > [!concept-lens] 概念透镜
 > - **隐蔽与日常性** 借鉴了 Michael Billig “平庸民族主义”的逻辑，强调该机制不再依赖传统的武力侵占或强硬的意识形态灌输，而是通过看似枯燥、技术性的日常排位数据，使全球国家在追求排名的焦虑中自愿臣服于西方秩序。 (Silova & Auld, 2019)
@@ -70,7 +68,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **数据作为[[Disciplina and Doctrina\|规训]]权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的 **[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
+> - **数据作为规训权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的 **[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **数字霸权对世界秩序的重构（Breaching the World Order by Numbers）** 全球教育体系的优劣不再由主权国家的历史和文化决定，而是被简化为单一维度的数据指标。西方的“认识新帝国”由此通过垄断“标准定义权”而立于不败之地。(Silova & Auld, 2019)
 > - **[[Orientalism\|东方主义]]的他者化再生产（Reproduction of Orientalist Othering）** 利用跨国媒体和学术界，将高分非西方系统描绘为机械而机械的、缺乏[[Creativity\|创造力]]与民主精神的“教育地狱”，再次确认西方启蒙理性对全球灵魂的天然教化特权。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
 
@@ -110,7 +108,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了平庸的帝国主义如何作为超国家数据网络对非西方实施他者化和认识[[Disciplina and Doctrina\|规训]]的当代手段。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了平庸的帝国主义如何作为超国家数据网络对非西方实施他者化和认识规训的当代手段。
 > - [[Re-Westernisation]] (再西方化) — 再西方化利用平庸帝国主义作为大数据[[Governing at a Distance\|远处治理]]的核心承载物。
 > - Governing at a Distance (远处治理) — 数据化平庸帝国主义最核心的制度与测评执行机制。

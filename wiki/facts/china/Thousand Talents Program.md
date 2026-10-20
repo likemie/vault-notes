@@ -9,7 +9,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Geopolitics]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Thousand Talents Program
@@ -61,7 +62,7 @@ updated: 2026-10-16
 
 > [!warning]
 > - Partaken 主要引述美方立场（[[US-China Economic and Security Review Commission\|USCC]]、FBI），对中方关于千人计划的官方表述（作为正常的国际人才流动机制）未给予对等呈现
-> - 该章将[[Knowledge Transfer\|知识转移]]中的地缘政治冲突归因于三种不可互相化约的冲突源：权力（中共与国家科技领导小组）、资源（"Made in China 2025"战略）和意识形态（"中国梦"）([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])
+> - 该章将[[Knowledge Transfer\|知识转移]]中的[[Geopolitics|地缘政治]]冲突归因于三种不可互相化约的冲突源：权力（中共与国家科技领导小组）、资源（"Made in China 2025"战略）和意识形态（"中国梦"）([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])
 
 ## 相关概念／政策
 

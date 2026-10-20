@@ -22,6 +22,7 @@ tags:
   - evidence-clearing-house
   - region/uk
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Falsification]]"
   - "[[Knowledge Mediation]]"
   - "[[School Leadership]]"
@@ -55,7 +56,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Difference-in-Differences]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[David Gough]]"
 related_facts:
@@ -81,7 +81,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # What Works Network
@@ -93,7 +93,7 @@ updated: 2026-10-17
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由英国中央政府内阁办公室（Cabinet Office）正式倡导并联合相关中央部委协调设立，其政策前驱探索可追溯至 2011 年创设的英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及更早期的循证医学与政策实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 3–4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
 > - **适用地区 / 对象** 覆盖全英格兰及联合王国公共服务治理体系；服务对象涵盖中央部委决策官员、地方政府行政主管，以及基础教育学校校长与教师、临床医生与护理人员、警务长官与一线巡警、社会工作者和流浪救助一线人员等专业从业者。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
-> - **问题背景** 回应公共政策制定与专业实践中长期存在的“循证决策赤字”与“学术研究碎片化”危机：大学与科研机构每年产出海量学术文献，但决策端与实践端难以低成本获取、筛选与消化；公共财政资金大量流向未经因果检验甚至已被[[Falsification\|证伪]]的无效干预方案；学术界缺乏将因果证据转化为实践行动处方的中介转译桥梁。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
+> - **问题背景** 回应公共政策制定与专业实践中长期存在的“[[Evidence-Based Policy-Making|循证决策]]赤字”与“学术研究碎片化”危机：大学与科研机构每年产出海量学术文献，但决策端与实践端难以低成本获取、筛选与消化；公共财政资金大量流向未经因果检验甚至已被[[Falsification\|证伪]]的无效干预方案；学术界缺乏将因果证据转化为实践行动处方的中介转译桥梁。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
 > - **制度位置** 标志着证据本位政策（Evidence-Based Policy, EBP）在英国公共治理体系中的国家级制度化复兴；作为独立或半独立的专门[[Knowledge Mediation\|知识中介]]网络（Specialist Knowledge Intermediary Network），处于中央部委政策制定与基层公共服务一线之间，承担供需双向转译、[[Research Synthesis|证据综合]]评级与干预因果试验的制度枢纽职能。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–148)]]
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-10-17
 > 通过中央政府顶层倡导与多元资助孵化，在教育、医疗、警务、福祉等关键公共领域设立专门的有效性中心（What Works Centres, WWCs），运用严格方法综合存量科研证据（特别是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Systematic Review\|系统综述]]），研制通俗直观的证据工具包与实践指南，并资助因果试验以弥合学术研究与一线决策之间的鸿沟。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–150)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 破除学术研究碎片化，确立分领域循证决策基准，淘汰缺乏实证支持的热门虚假干预，降低专业人员获取与研读证据的认知门槛，最终提升公共财政投资效益与公共服务受益人的实际福祉。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150, 156–157)]]
+> - **政策目标** 破除学术研究碎片化，确立分领域[[Evidence-Based Policy-Making|循证决策]]基准，淘汰缺乏实证支持的热门虚假干预，降低专业人员获取与研读证据的认知门槛，最终提升公共财政投资效益与公共服务受益人的实际福祉。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150, 156–157)]]
 > - **适用对象** 一方面规范中央部委与地方政府决策公职人员的政策采购与方案论证行为；另一方面为[[School Leadership\|学校领导]]者、教师、警官、社工等基层一线专业人员提供日常实践指南。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **政策工具** 设立专项国家留本基金与多元匹配资助、发布循证工具包（如 《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》、警务《犯罪减少工具包》）、研制分领域实践指南（Practice Guides）、资助开展大规模实地因果试验（RCT），以及构建区域中介扩散网络（如[[Research Schools Network\|研究学校网络]]）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 19–20)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 > - **约束机制** 整体属于“指导性与激励性规约”（Guidance and Incentive Governance）而非完全的法定义务强制；除国家卫生与临床优化研究所（[[National Institute for Health and Care Excellence\|NICE]]）发布的指南具有国家卫生体系法定采购准入效力外，绝大多数中心主要通过信息透明度、同行声誉、成本效益评级及示范网络进行柔性引导；但在实践中高度受制于各行业既有法定高利害问责体系（如教育领域的 [[Ofsted]] 督导）的支配性制约。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 37–38)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
@@ -119,7 +119,7 @@ updated: 2026-10-17
 ## 时间线
 
 > [!dev-timeline]- 政策发展历程
-> - **2000 年代早期 — 循证决策思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses\|证据清算中心]]起步运作，[[Systematic Review\|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 3)]]
+> - **2000 年代早期 — [[Evidence-Based Policy-Making|循证决策]]思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses\|证据清算中心]]起步运作，[[Systematic Review\|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 3)]]
 > - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust\|萨顿信托]]（Sutton Trust）联合英国教育部设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
 > - **2013 — 内阁办公室正式启动有效性网络（WWN）与指定教育中心** 英国政府内阁办公室正式倡导并发布有效性网络国家规划，正式指定[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Sutton Trust\|萨顿信托]]联合作为英格兰“教育领域有效性中心”（What Works Centre for Education），全面纳入覆盖全英逾 2,500 亿英镑公共支出的宏观网络；本·戈尔达克（Goldacre, 2013b）发表《将证据注入教育》政府独立咨询报告，强烈呼吁在学校系统普及[[Randomised Controlled Trials\|随机对照试验]]（RCT），推动网络化[[Output-Oriented Governance\|循证治理]]上升为国家战略。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 > - **2015 — 早期实施质询与反思开启** Cowen and Cartwright (2015) 发表剑桥-杜伦循证政策工作论文，对有效性网络的早期运行展开实证调查，揭示工具包去情境化、平均效应误读以及与教育标准局（[[Ofsted]]）问责指标脱节等深层结构性矛盾。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 15–22, 37–40)]]
@@ -257,7 +257,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 评估英国有效性网络与[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的早期实施成效，系统剖析工具包的呈现机制、平均[[Effect Size\|效应量]]变异、地方情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深入调研英国 9 大有效性中心与国际 15 个证据门户，提炼出中介自我循证五大支柱、需求拉动生态模型、外层大系统阻抗及三层递进评估架构，系统批判顶层官方治理模型的结构性盲区。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述英国教育有效性中心（EEF）作为国家有效性网络旗舰成员的运行机制，系统复盘其在 2500 亿英镑公共支出网络中推进学校因果试验、[[EEF Padlock Security Rating\|挂锁安全评级]]与工具包决策转化的实践经验。

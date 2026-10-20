@@ -22,6 +22,7 @@ tags:
   - region/east-asia
   - region/eu
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Modern Industrial Policy]]"
   - "[[Agglomeration Externalities]]"
@@ -72,7 +73,7 @@ title: "Argument_Bown_2024_JEconPersp"
 argument_key: "Argument_Bown_2024_JEconPersp"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -89,7 +90,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 半导体产业在全球化分工重组与地缘政治竞争加剧的双重背景下，各国政府的产业政策发生了何种[[Paradigm|范式]]转变？面对跨国高度细分的供应链网络与极端地理集中风险，2020 年代以美欧中日为代表的[[Modern Industrial Policy|现代产业政策]]在目标设定、工具组合（巨额补贴、出口管制、投资审查与友岸外包）与实施机制上有何本质特征，又将带来怎样的经济效率损失、[[Agglomeration Externalities|集聚外部性]]稀释与长期结构性风险？
+> 半导体产业在全球化分工重组与[[Geopolitics|地缘政治]]竞争加剧的双重背景下，各国政府的产业政策发生了何种[[Paradigm|范式]]转变？面对跨国高度细分的供应链网络与极端地理集中风险，2020 年代以美欧中日为代表的[[Modern Industrial Policy|现代产业政策]]在目标设定、工具组合（巨额补贴、出口管制、投资审查与友岸外包）与实施机制上有何本质特征，又将带来怎样的经济效率损失、[[Agglomeration Externalities|集聚外部性]]稀释与长期结构性风险？
 
 > [!claim] 核心主张
 > 当代半导体产业政策已发生根本性范式演进：由 20 世纪 80 年代以纠正[[Market Failure|市场失灵]]（集聚外部性与[[Learning by Doing|干中学]]）和追求经济效率为导向的传统贸易与补贴政策，全面转变为由国家安全、地缘政治博弈与供应链去风险主导的 [[Modern Industrial Policy|现代产业政策]]；然而，在高度 [[Vertical Disintegration|纵向离散]] 的跨国供应链网络中，试图通过补贴重建本土制造或遏制对手技术扩散的政策干预，不可避免地会削弱集聚经济红利、推高全球生产成本，并可能在成熟制程领域诱发严重的全球结构性产能过剩。（pp. 81–83, 101–103）

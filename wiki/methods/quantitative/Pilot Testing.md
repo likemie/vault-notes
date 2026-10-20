@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 43
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -60,7 +60,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Structured Observation]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_arguments:

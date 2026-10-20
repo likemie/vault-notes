@@ -19,6 +19,7 @@ tags:
   - theme/culture-and-education
   - theme/civilization-studies
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
   - "[[Total Factor Productivity]]"
@@ -39,7 +40,6 @@ related_theories:
   - "[[Pluralism]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Francis Fukuyama]]"
@@ -65,7 +65,7 @@ updated: 2026-10-20
 > [!theory-position] 理论定位
 > - **解释对象** 冷战后全球政治冲突的根源、国际地缘联盟的重组机制，以及文化与宗教认同对国家行为的深层塑造。
 > - **理论问题** 回应冷战终结后[[Francis Fukuyama|弗朗西斯·福山]]等人的自由主义“[[End of History Thesis|历史终结论]]”与新自由主义全球化乐观主义的盲区，揭示意识形态对抗消失后文化差异的凸显。
-> - **理论类型** 宏观地缘政治解释理论与文明比较[[Analytic Framework|分析框架]]。
+> - **理论类型** 宏观[[Geopolitics|地缘政治]]解释理论与文明比较[[Analytic Framework|分析框架]]。
 > - **知识位置** 现实主义[[Wight's Three Traditions of International Theory|国际关系理论]]与文明社会学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，与历史终结论构成直接论辩，同时遭遇后殖民主义与[[Orientalism|东方主义]]的激烈批评。
 
 > [!claim] 核心判断
@@ -99,7 +99,7 @@ updated: 2026-10-20
 > |:-----|:-----|:--------------|
 > | [[Huntington-Wallace Line]] | 事实 / 边界 | 标定公元 1500 年西方基督教与东正教/伊斯兰教历史断层线的地缘边界。 |
 > | 文明断层线（Fault Lines） | 机制 | 解释不同文明群体在地缘交界地带产生摩擦、冲突与暴力升级的动力学。 |
-> | 核心国家（Core States） | 构件 | 各文明板块内具备最高地缘政治动员力与领导权的主导政权（如西方的美国）。 |
+> | 核心国家（Core States） | 构件 | 各文明板块内具备最高[[Geopolitics\|地缘政治]]动员力与领导权的主导政权（如西方的美国）。 |
 > | 断裂国家（Torn Countries） | 构件 | 领导层试图将国家纳入另一文明但社会底层文化依然根植原文明的政治体。 |
 > | [[Cognitive Decoupling]] | 概念 | 评估文明地缘优势经验事实时必须具备的事实与价值解耦认知能力。 |
 
@@ -169,7 +169,7 @@ updated: 2026-10-20
 > > - **技术战略现实主义派（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 认为虽然反对其简单化划分，但绝不能因噎废食放弃对文化与国家制度力量的严肃求真探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 > [!critique]- 批评索引
-> - Said (2001) — 指责文明冲突论掩盖了地缘政治中的霸权利益，将复杂的政治经济矛盾转嫁为虚构的文化敌对。
+> - Said (2001) — 指责文明冲突论掩盖了[[Geopolitics|地缘政治]]中的霸权利益，将复杂的政治经济矛盾转嫁为虚构的文化敌对。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 批判学术界对亨廷顿的全盘反叛导致高校研究丧失了对文化在生产力与国家能力中关键作用的严肃认知。
 
 ---

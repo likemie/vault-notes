@@ -21,14 +21,14 @@ tags:
   - field/history-education
   - school/cultural-conservatism
 related_concepts:
+  - "[[National Rejuvenation Narrative]]"
   - "[[Paradigm]]"
   - "[[Sinicisation]]"
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
   - "[[Knowledge Co-production]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Hsu Cho-Yun]]"
   - "[[Fei Xiaotong]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Qian Mu
@@ -79,7 +79,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 钱穆主张中国认同并非由政治政权或地缘边界决定，而是由以汉族文化与儒家伦理为内核的传统文化决定。与 1980 年代前中国内地将传统文化视为现代化阻碍的立场相反，钱穆视儒家文化为中国性的本质与民族复兴的根基。在历史教育中，他强调文化同化的文明优越性，将历史叙述锚定于中原汉族文化演进[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–578)]]。
+> 钱穆主张中国认同并非由政治政权或地缘边界决定，而是由以汉族文化与儒家伦理为内核的传统文化决定。与 1980 年代前中国内地将传统文化视为现代化阻碍的立场相反，钱穆视儒家文化为中国性的本质与[[National Rejuvenation Narrative|民族复兴]]的根基。在历史教育中，他强调文化同化的文明优越性，将历史叙述锚定于中原汉族文化演进[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–578)]]。
 
 > [!citation-card]- 关键表述
 > 凡读本书者，必附随一种对本国已往历史之温情与敬意……认为我国已往历史尚有客观之是什么，尚有读任意涂抹。[[Argument_Xu_2024_CE\|(钱穆, 《国史大纲·引言》, 1940, 引自 Xu, 2024, p. 578)]]
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > - **政策与课程路径（殖民合作契约）** 港英政府为了防范左派政治意识形态渗透并维护殖民统治，利用钱穆等文化保守主义者提供的去政治化、重文化伦理史学框架，形成了事实上的“殖民合作契约”（Colonial Bargain）——港英当局鼓励以汉文化与古代史为核心的中史教育，换取政治稳定。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–578)]]
 > - **人才链与教材出版传播** 钱穆通过新亚书院培养的弟子及后续学术网络，长期占据香港课程委员会与出版社主笔位置，使得 1997 年回归后至 2010 年代末的香港中史教科书（如龄记版）仍深刻延续其华夏/汉族中心、强化族际战争与显性[[Sinicisation\|汉化]]的叙事结构。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 578, 580–585)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 揭示钱穆的文化保守主义如何通过殖民合作契约与门生人才链，塑造了香港初中中史教科书“构成性族群 + 表达性领土”的一国两叙形态。
 
 ---

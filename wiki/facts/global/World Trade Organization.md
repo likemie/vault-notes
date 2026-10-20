@@ -33,19 +33,19 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Modern Industrial Policy]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Developmentalism]]"
   - "[[Knowledge Production]]"
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Doxa]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -155,7 +155,7 @@ updated: 2026-10-20
 > > - **全球治理普惠论** 强调 WTO 的多边法律框架保护中小成员免受大国单边制裁，提供透明稳定的发展规则。
 > > - **批判政治经济学与[[World-Systems Theory|世界体系分析]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 实证表明世贸规则产生了极不对称的影响：美、英等核心出口国和中国等战略大国能够在世贸体系中维持自主权；但牙买加、尼加拉瓜等弱小边缘国家则在外国资本和多边规制冲击下，丧失了制定本国公共教育政策与文凭标准的实质主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 >
-> > [!axis] 超国家多边[[Disciplina and Doctrina|规训]] vs 民族国家文化主权
+> > [!axis] 超国家多边规训 vs 民族国家文化主权
 > > 批评 WTO 争端解决机制与规则审查可能对发展中国家维护本土文化传统、实施国家通用语言教学或保护本土教材出版构成潜在限制，形成新型“智识帝国主义”（Collins, 2007）。
 >
 > > [!axis] 多边贸易规约 vs 大国高科技单边补贴与地缘出口管制
@@ -182,7 +182,7 @@ updated: 2026-10-20
 > | [[Strategic Autonomy]] | Concept | 随着 WTO 多边机制无力遏制大国半导体补贴竞赛，欧洲被迫从多边贸易信条转向追求战略自主。 |
 > | [[Modern Industrial Policy]] | Concept | 美欧绕过 WTO 传统补贴规制重拾的大规模国家干预与供应链回流政策[[Paradigm\|范式]]。 |
 > | [[Pluri-Scalar Governance]] | Concept | 罗伯逊等人用于解构 WTO 规则下教育治理权力在不同空间标度重组的多标度理论框架。 |
-> | [[Internationalization of Higher Education]] | Concept | WTO/GATS 推动了高等教育国际化从发展主义与学术交流理性转向市场新自由主义理性。 |
+> | [[Internationalization of Higher Education]] | Concept | WTO/GATS 推动了高等教育国际化从[[Developmentalism\|发展主义]]与学术交流理性转向市场新自由主义理性。 |
 > | [[Knowledge Production]] | Concept | WTO 规约推动全球知识生产向迎合商业市场应用与跨国知识产权流通转型。 |
 > | [[World-Systems Theory]] | Theory | 为剖析 WTO 国际贸易规则中中心与边缘不对称权力结构提供宏观[[Theoretical Perspective\|理论视角]]。 |
 > | [[Robert Arnove]] | Person | 揭示 WTO/GATS 规制造成大国与小国自主权分化并侵蚀教育公共性的代表学者。 |
@@ -194,5 +194,5 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合戴尔等人[[Pluri-Scalar Governance|多标度治理]]模型，深刻揭示 WTO/[[GATS and Trade in Education Services|GATS]] 规则对民族[[State Educational Sovereignty|国家教育主权]]的冲击以及中心大国与边缘小国之间的不对称自主权鸿沟（pp. 110–111）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 系统阐明 WTO 与 GATS 框架如何将高等教育重塑为可交易商品，分析其[[Discourse|话语]]效应如何将新自由主义教育议程制度化为全球[[Doxa|不言自明]]的共识（pp. 97–98）。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察美欧芯片产业政策与地缘政治转变，揭示 2019 年前[[EU|欧盟]]对 WTO 多边贸易解决方案的依赖如何被中美大国补贴竞赛击溃，最终倒逼欧洲突破多边框架转向产业政策干预（p. 8）。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察美欧芯片产业政策与[[Geopolitics|地缘政治]]转变，揭示 2019 年前[[EU|欧盟]]对 WTO 多边贸易解决方案的依赖如何被中美大国补贴竞赛击溃，最终倒逼欧洲突破多边框架转向产业政策干预（p. 8）。
 

@@ -45,11 +45,11 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Social Contract of Science]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
   - "[[C. Arnold Anderson]]"
@@ -208,6 +208,6 @@ updated: 2026-10-20
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证 1957 年斯普特尼克危机如何促发冷战“竞争技术化”转向，开启 1957—1967 年科技政策“黄金十年”，并奠定“高自治—高嵌入”的国家科研治理结构。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 梳理 [[DARPA]] 的历史沿革，指出 1957 年斯普特尼克危机是推动美国设立 ARPA 并确立“防范技术突袭”颠覆性创新治理[[Paradigm|范式]]的根本历史起点。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 以晚期现代性教育愿景为框架，论证斯普特尼克冲击如何在福利国家扩张前夕将经济、国家安全与[[Knowledge Production|知识生产]]硬性挂钩，产生贯穿至今的制度回响（[[Vergegenkunft]]）。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理战后冷战地缘政治三大[[Paradigm|范式]]，拆解斯普特尼克危机如何促成美国《[[National Defense Education Act of 1958|国防教育法]]》、芝加哥比较教育中心成立以及比较教育学的[[Positivism|实证主义]]转型。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理战后冷战[[Geopolitics|地缘政治]]三大[[Paradigm|范式]]，拆解斯普特尼克危机如何促成美国《[[National Defense Education Act of 1958|国防教育法]]》、芝加哥比较教育中心成立以及比较教育学的[[Positivism|实证主义]]转型。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示斯普特尼克冲击如何成为[[Organisation for European Economic Co-operation|欧洲经济合作组织]]重组为[[OECD|经合组织]]（“经济北约”）的关键动力，开创了利用控制论规划与[[Human Capital Theory|人力资本理论]]进行跨国统计规制的全球治理范式。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示斯普特尼克危机如何被概念化为初等教育失败并触发美国借用英国幼儿学校的[[Open Classroom Movement|开放课堂运动]]，反衬当代多标度网络。

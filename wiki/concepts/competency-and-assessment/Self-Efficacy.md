@@ -43,6 +43,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Classroom Management]]"
   - "[[Educational Science Communication]]"
+  - "[[Neuromyth]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Refutational Evidence]]"
   - "[[Voluntarism]]"
@@ -56,7 +57,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Discourse Analysis]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Albert Bandura]]"
 related_facts: []
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Self-Efficacy
@@ -204,7 +204,7 @@ updated: 2026-10-19
 > - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生[[Academic Achievement\|学业成就]]、[[Metacognition\|元认知]]策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
 > - **2000s–2010s — 教师自我效能感与[[Epistemological Beliefs\|认识论信念]]研究深化** 研究重点拓展至教师群体（Teacher Self-Efficacy），揭示教师效能感与[[Classroom Management\|课堂管理]]、[[Inquiry-Based Learning\|探究式教学]]实施及自身认识论信念的双向重塑机制（Buehl & Beck, 2015；[[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015]]）。
 > - **2018 — 课堂[[Epistemic Practices\|认识论实践]]与科学身份建构整合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 基于微观交互[[Discourse Analysis\|话语分析]]，揭示教师显性元[[Discourse|话语]]与认识论实践参与对多元文化课堂中边缘群体学生学科自我效能感与科学知者身份认同的动态建构机制。
-> - **2020s — 认知迷思批判与科学传播视野拓展** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）等学者将自我效能感引入[[Educational Science Communication\|教育科学传播]]与神经神话批判语境，揭示本质主义标签对学生效能感的隐性侵蚀，强调通过循证[[Knowledge Mobilisation\|知识动员]]维护学习者与教师的专业效能。
+> - **2020s — 认知迷思批判与科学传播视野拓展** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）等学者将自我效能感引入[[Educational Science Communication\|教育科学传播]]与[[Neuromyth|神经神话]]批判语境，揭示本质主义标签对学生效能感的隐性侵蚀，强调通过循证[[Knowledge Mobilisation\|知识动员]]维护学习者与教师的专业效能。
 > - **2023 — 科学探究实践与学科非认知效能整合** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 明确确立了探究式学习在培育科学自我效能感、[[Nature of Science\|科学本质]]（NOS）认知与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的不可替代性，拓展了自我效能感在现代科学教育评价中的维度。
 
 ---
@@ -242,9 +242,9 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的教育神经神话（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。

@@ -28,12 +28,12 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Times Higher Education World University Rankings]]"
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -102,7 +102,7 @@ updated: 2026-10-20
 > > - **比较高等教育[[Analytical Stance|批判立场]]** 国际经验表明，高度近亲繁殖的高校在科研产出原创性、高被引学者比例以及国际学术排名中普遍表现逊色，极易陷入集体平庸。
 
 > [!critique] 外部批评
-> - **国际排名与科研质量赤字** 无论是在软科[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）还是泰晤士高等教育世界大学排名中，受严重近亲繁殖困扰的高校往往位次低迷，难以产出具有全球影响力的前沿科研突破。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
+> - **国际排名与科研质量赤字** 无论是在软科[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）还是[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]中，受严重近亲繁殖困扰的高校往往位次低迷，难以产出具有全球影响力的前沿科研突破。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
 
 ---
 

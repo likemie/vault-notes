@@ -10,7 +10,7 @@ aliases:
 summary: "学习科学与知识建构领域的核心机制，指探究共同体成员在教师支持下，随着集体探究推进，基于对突现进展与认知缺口的反思监控，历时性地协同建构与重塑共享探究方向、弹性组织架构与认识规范的动态过程"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Network Analysis]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Anthony Giddens]]"

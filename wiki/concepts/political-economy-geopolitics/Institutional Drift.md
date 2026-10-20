@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但在外部社会、经济或人口环境发生显著变迁时，由于关键行动者或否决玩家主动疏于维护、更新与修正规约参数，导致制度实际规制效力、保护覆盖面或利益分配后果发生实质性衰变与侵蚀的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,6 @@ related_theories:
   - "[[Theory of Gradual Institutional Change]]"
 related_methods:
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"

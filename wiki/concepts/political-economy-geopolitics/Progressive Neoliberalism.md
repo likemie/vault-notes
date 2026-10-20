@@ -5,7 +5,7 @@ aliases:
 summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[Spatial Sortings]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -71,7 +72,7 @@ updated: 2026-10-16
 > [!success] 实证发现
 > - **空间极化的政治后果**Davidson and Rees-Mogg（1999）近二十年前预测信息时代将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人群（输家）之间的深刻分化——[[Argument_Moisio_2022_Springer\|Moisio (2022, pp.31–32)]]论证这正是过去十年在欧洲和其他地区实际发生的现象
 > - **民粹主义反弹** "那些处于金字塔底部的人转向了高度报复性的民族主义政治"——Moisio 将近年民族主义的兴起解释为对进步新自由主义空间极化效应的政治反弹
-> - **意识形态衰退** Fraser 论断"进步新自由主义正在蒸发"，Moisio 赞同并暗示替代性的地缘政治世界观正在浮现，可能重新定义[[Knowledge-Based Economization\|知识经济化]]的空间逻辑
+> - **意识形态衰退** Fraser 论断"进步新自由主义正在蒸发"，Moisio 赞同并暗示替代性的[[Geopolitics|地缘政治]]世界观正在浮现，可能重新定义[[Knowledge-Based Economization\|知识经济化]]的空间逻辑
 >
 
 ## 争议与批评

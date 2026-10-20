@@ -8,7 +8,7 @@ summary: "美国20世纪著名壁画家与地方主义（Regionalism）绘画运
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jackson Pollock]]"

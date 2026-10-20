@@ -7,7 +7,7 @@ summary: "英国批判教育社会学家与比较教育学者，布里斯托尔�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Unit of Analysis]]"
   - "[[Lifelong Learning]]"
+  - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Roger Dale
@@ -124,7 +125,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **学术合作者** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）——长期紧密合作者，共同创立 GSE 期刊并合著[[Pluri-Scalar Governance|多标度治理]]模型。
-> - **批评者与论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）——[[Stanford School|斯坦福学派]]世界文化论代表人物；戴尔长期批评其忽略资本主义经济利益与地缘政治权力。
+> - **批评者与论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）——[[Stanford School|斯坦福学派]]世界文化论代表人物；戴尔长期批评其忽略资本主义经济利益与[[Geopolitics|地缘政治]]权力。
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同运用批判政治经济学与[[World-Systems Theory|世界体系分析]]研究跨国教育治理。
 
 ---

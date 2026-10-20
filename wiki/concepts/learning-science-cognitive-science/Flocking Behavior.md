@@ -9,7 +9,7 @@ aliases:
 summary: "指大量自主个体（如鸟群、鱼群、无人机集群）在缺乏中央指挥官或全局首领的条件下，依据邻近个体的局部拓扑交互规则与边缘感知，自发涌现出高度协调、极速转向与强抗逆力的大规模整体空间运动的复杂自组织现象；在卡普与扎米斯卡（2025）的论证中，椋鸟群飞展现了去中心化组织即兴应对突发危机的物理学原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

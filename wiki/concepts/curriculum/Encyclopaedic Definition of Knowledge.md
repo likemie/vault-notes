@@ -10,7 +10,7 @@ aliases:
 summary: "源于欧陆与拉美的教育知识传统，将知识界定为由学科分类、客观事实与经典概念构成的系统体系，核心在于知识讲授与理性记忆。1990年代跨国治理中，它被国际组织推行的‘全球教育话语’判定为落后僵化，并被能力本位课程强行替代；但在阿根廷等国，废除统编大纲、下放课程自主权因缺乏专业配套，诱发教师集体翻抄商业教辅目录备课的反常恶果，致使国家课程主权向出版资本让渡。"
 type: concept
 domain: "curriculum"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[School Autonomy]]"
   - "[[Recontextualization]]"
@@ -53,7 +52,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
 related_facts:
@@ -111,7 +109,7 @@ updated: 2026-10-20
 
 > [!feature] 百科全书式知识传统的四大核心要素
 > - **学科架构的系统性与客观事实本位（Systematic Disciplines & Factual Foundation）** 强调知识具有不可随意解构的严密内在逻辑，学生必须先扎实掌握客观事实与基础概念，方能形成[[Higher-Order Thinking Skills|高阶思维]]。Beech (2005)
-> - **指令性统编大纲与国家课程主权（Prescriptive National Syllabus）** 国家教育部统一编纂极其细致的教学大纲，明确规定各学段各学科必须讲授的核心知识点，构成[[State Educational Sovereignty|国家教育主权]]与公共[[Disciplina and Doctrina|规训]]的法定基石。（Gvirtz & Beech, 2004）
+> - **指令性统编大纲与国家课程主权（Prescriptive National Syllabus）** 国家教育部统一编纂极其细致的教学大纲，明确规定各学段各学科必须讲授的核心知识点，构成[[State Educational Sovereignty|国家教育主权]]与公共规训的法定基石。（Gvirtz & Beech, 2004）
 > - **通识博雅与文化记忆传承（Cultural Memory & Academic Breadth）** 拒斥将教育工具化为单纯的职业技术培训，注重通过历史、文学、哲学与自然科学的宽广覆盖培育完整现代公民。
 > - **转型期制度真空与资本俘获陷阱（Curricular Vacuum & Commercial Capture）** 当外来改革贸然废除统编大纲、强推教师自主开发课程时，在一线激发出失控恐慌，导致课程权威从国家向商业出版资本逆向转移。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 354)]]
 

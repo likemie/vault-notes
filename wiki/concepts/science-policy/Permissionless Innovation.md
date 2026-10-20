@@ -8,7 +8,7 @@ aliases:
 summary: "一种强调在保留事后结果问责前提下，允许建造者先试先建、敏捷试错，而非在研发每一阶段申请前置行政许可的科技规制立场；核心主张在安全决策中同步权衡停滞与延宕的隐性代价，并通过监管沙盒、法定许可时限与开放公共试验场，打破防范假设性风险导致的原子世界规制瘫痪。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,8 +28,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Creativity]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,15 +29,13 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[School Choice]]"
   - "[[Performance Pay]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Development Education]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
@@ -184,7 +182,7 @@ updated: 2026-10-20
 > - **1940s–1960s — 战后欧洲重建与物理基础设施偏好** [[World Bank|国际复兴开发银行]]（IBRD）成立，早期仅资助欧洲战后物理基建重建，随后延伸至全球南方重型基础设施开发；教育被视为消费性社会支出被排除在常规主权贷款之外。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 > - **1960s–1970s — 教育借贷破冰与“砖瓦工程”主导** 1962 年世行发放首笔中等教育贷款，1959 年成立的[[Inter-American Development Bank|泛美开发银行]]亦进军高教与职业教育领域；此阶段两大多边银行主要遵循“砖瓦与设备”工程模式，专注于校舍建造、工程实验室配置与教学物资采购，较少干预借款国内部行政体制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–465)]]
 > - **1970s–1980s — 制度改革介入与附加条件挫败** [[World Bank|世界银行]]开创性地在贷款中全面捆绑机构体制改革与[[Policy Conditionalities|政策附加条件]]（教师编制冻结、使用者自费、分权化管理）；但因激进强推引发大面积政治抵制，导致 1980 年代多达三分之一的教育贷款项目陷入停摆与绩效低下危机（“赶猫”困境）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–466)]]
-> - **1990s — 理念主导权夺取与“[[Knowledge Bank|知识银行]]”转向** 1990 年在世界银行强势主导下召开宗滴恩[[Education for All|全民教育]]大会，标志着全球教育思想领导权从[[UNESCO|联合国教科文组织]]全面易手至多边开发银行；世界银行凭借标准化教材、学生测评、[[School Choice|择校]]凭证制与教师[[Performance Pay|绩效工资]]等一揽子方案确立技术[[Disciplina and Doctrina|规训]]统治，并在世纪之交尝试向兼具智库咨询功能的“知识银行”转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472, 474)]]
+> - **1990s — 理念主导权夺取与“[[Knowledge Bank|知识银行]]”转向** 1990 年在世界银行强势主导下召开宗滴恩[[Education for All|全民教育]]大会，标志着全球教育思想领导权从[[UNESCO|联合国教科文组织]]全面易手至多边开发银行；世界银行凭借标准化教材、学生测评、[[School Choice|择校]]凭证制与教师[[Performance Pay|绩效工资]]等一揽子方案确立技术规训统治，并在世纪之交尝试向兼具智库咨询功能的“知识银行”转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472, 474)]]
 > - **2000s–至今 — 买方市场来临与结果导向型金融工具重塑** 随着拉美与亚洲中等收入国家信用评级攀升并涌向私人资本市场，多边开发银行垄断优势被打破；为应对“买方市场”的生存危机，银行加速推出结果导向型贷款（PforR）、递进式分步贷款，并将业务向借贷国民营私营部门延伸。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
 
 ---

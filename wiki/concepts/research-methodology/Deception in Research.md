@@ -8,7 +8,7 @@ aliases:
 summary: "指在科学研究中研究者有意对受试者隐瞒真实目的、实验条件、研究者身份或主动提供误导性信息的实验设计实践；虽然在社会心理学中被用于绕过被试的社会赞许性偏误并揭示人类从众与服从本能，但因直接冲突于知情同意与不伤害伦理原则，成为现代研究伦理学中最具争议的制度化焦点。"
 type: concept
 domain: "research-methodology"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"

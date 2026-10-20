@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -32,50 +32,56 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Rich and Thick Description]]"
   - "[[Externalization]]"
-  - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
+  - "[[Falsification]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[State Educational Sovereignty]]"
   - "[[Scientific Paradigm]]"
+  - "[[Value Neutrality]]"
   - "[[National Character]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intercultural Education]]"
+  - "[[Geopolitics]]"
+  - "[[Knowledge Power]]"
+  - "[[Knowledge Diplomacy]]"
   - "[[Research Question]]"
-  - "[[Falsification]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[State Educational Sovereignty]]"
+  - "[[Developmentalism]]"
 related_theories:
+  - "[[Critical Theory]]"
   - "[[Critical Realism]]"
   - "[[Theories of the Driving Forces]]"
-  - "[[Critical Theory]]"
   - "[[Postmodernism]]"
   - "[[Pluralism]]"
   - "[[Autopoiesis]]"
   - "[[Behaviorism]]"
   - "[[World-Systems Theory]]"
+  - "[[Tianxia Heuristic]]"
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Problem Approach]]"
-  - "[[Mixed Methods Research]]"
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Thomas Kuhn]]"
-  - "[[Louis Cohen]]"
-  - "[[Wolfgang Mitter]]"
-  - "[[Friedrich Schneider]]"
+  - "[[Mark Schneider]]"
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
   - "[[Brian Holmes]]"
+  - "[[Friedrich Schneider]]"
+  - "[[Wolfgang Mitter]]"
+  - "[[Louis Cohen]]"
   - "[[Niklas Luhmann]]"
   - "[[Jurgen Schriewer]]"
-  - "[[Mark Schneider]]"
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -223,7 +229,7 @@ updated: 2026-10-20
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
-> - **2020s 至今 — 地缘政治竞争中的范式对立与整合突破** 在跨国高等教育与地缘知识政治研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如天下启发式体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+> - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘知识政治研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 
 ---
 
@@ -244,7 +250,7 @@ updated: 2026-10-20
 > > [!axis] 二元范式对立 vs 关系性辩证整合
 > > 争论面对跨国制度实践时，应当坚持现实主义权力争夺与自由主义外交合作的互斥范式划分，还是寻求能够包容二者共生的超越性框架。
 > >
-> > - **二元互斥范式论** 将知识权力视作纵向控制与零和博弈，将知识外交视作横向互惠与非零和合作，主张两种范式具有根本冲突的前提假设。
+> > - **二元互斥范式论** 将[[Knowledge Power|知识权力]]视作纵向控制与零和博弈，将[[Knowledge Diplomacy|知识外交]]视作横向互惠与非零和合作，主张两种范式具有根本冲突的前提假设。
 > > - **辩证整合论** 周与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）指出，单一范式在解释复杂多边高等教育布局时均存在严重解释盲区；主张引入包容等级与对等辩证共生的关系性视角，超越二元范式割裂。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 
 > [!warning] 适用边界
@@ -257,5 +263,5 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体现象学，剖析可见学习范式在存在论与认识论层面的盲区，揭示不同教育观察主体间的不可通约性。
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析地缘政治知识权力范式与发展主义知识外交范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体[[Phenomenology|现象学]]，剖析可见学习范式在存在论与[[Epistemology|认识论]]层面的盲区，揭示不同教育观察主体间的不可[[Commensuration|通约]]性。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析[[Geopolitics|地缘政治]][[Knowledge Power|知识权力]]范式与[[Developmentalism|发展主义]][[Knowledge Diplomacy|知识外交]]范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。

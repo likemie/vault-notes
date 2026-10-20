@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -35,8 +35,8 @@ tags:
 related_concepts:
   - "[[Time-Space Compression]]"
   - "[[Unit of Analysis]]"
+  - "[[Soft Policy Transfer]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Enlightenment]]"
   - "[[Shadow State]]"
   - "[[Rich and Thick Description]]"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Educational Multilateralism]]"
   - "[[Lifelong Learning]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Competitiveness]]"
   - "[[Analytical Stance]]"
@@ -110,11 +111,11 @@ updated: 2026-10-20
 > 比较教育学在步入全球化时代后，如何运用[[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）解释跨国教育改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
 
 > [!claim] 核心主张
-> 全球化不仅没有削弱世界体系分析的解释力，反而因技术的[[Time-Space Compression|时空压缩]]进一步强化了世界体系作为宏观[[Unit of Analysis|分析单元]]的必要性；比较教育研究应当将新制度主义对普世教育理念扩散的观察，与政治现实主义对中心-边缘不平等依附的政治经济学批判结合起来，既看清超国家经贸规制（如[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）与《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS））及非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱，又通过微观案例认识到地方行动者的反抗与调适潜能，从而为基层社会运动推动的自下而上全球化提供坚实的理论支撑。（pp.101–102, 106–107, 113–114）
+> 全球化不仅没有削弱世界体系分析的解释力，反而因技术的[[Time-Space Compression|时空压缩]]进一步强化了世界体系作为宏观[[Unit of Analysis|分析单元]]的必要性；比较教育研究应当将新制度主义对普世教育[[Soft Policy Transfer|理念扩散]]的观察，与政治现实主义对中心-边缘不平等依附的政治经济学批判结合起来，既看清超国家经贸规制（如[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）与《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS））及非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱，又通过微观案例认识到地方行动者的反抗与调适潜能，从而为基层社会运动推动的自下而上全球化提供坚实的理论支撑。（pp.101–102, 106–107, 113–114）
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 20 世纪 70 年代以来的两大[[World-Systems Theory|世界体系理论]]流派（斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]政治现实主义）、当代全球化理论、跨国治理机构（[[World Bank|世界银行]]、世贸组织与大型基金会）以及涵盖美、法、以、印、巴新等国的多层次微观实证研究。
-> - **核心张力** 世界文化的全球趋同叙事（普及义务教育、公民权扩张）与世界体系的等级依附叙事（资本积累、不平等交换、阶层分化）之间的理论对质；自上而下的新自由主义市场[[Disciplina and Doctrina|规训]]与自下而上的民主抗争之间的张力。
+> - **核心张力** 世界文化的全球趋同叙事（普及义务教育、公民权扩张）与世界体系的等级依附叙事（资本积累、不平等交换、阶层分化）之间的理论对质；自上而下的新自由主义市场规训与自下而上的民主抗争之间的张力。
 > - **学术贡献** 系统梳理了世界体系分析在比较教育学中的发展历程，确立了兼顾宏观体系与微观课堂的双重视野（double vision），辨析了非政府组织在公共教育中的依附风险，并构建了教育改革方位与目标取向的二维分析矩阵。
 
 ---

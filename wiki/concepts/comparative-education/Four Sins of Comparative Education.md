@@ -16,14 +16,14 @@ tags:
 related_concepts:
   - "[[Big Ideas]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
   - "[[Screening Off]]"
   - "[[Variable]]"
   - "[[Causality]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Four Sins of Comparative Education
@@ -42,7 +42,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 比较教育的四种罪过（Four Sins of Comparative Education）是比较教育学科史与方法论诊断概念，由 [[Robert Cowen]] 于 2023 年提出。它指学科在两百年的自我合法化进程中，不断重复且常被学术界误视作“理论突破”的四种认知偏差与方法论盲区：进步假设（假设学科必然向科学迈进）、地方主义（将美英轴心视作全球中心）、借用成瘾（机械进口宏[[Big Ideas\|大概念]]以逃避情境分析）以及科学混乱（对科学定义的多重混淆）。这一概念工具旨在解构学科积累的历史陈词滥调，促使学者反思隐藏的[[Epistemology\|认识论]]偏见与地缘政治共谋。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 328]])
+> 比较教育的四种罪过（Four Sins of Comparative Education）是比较教育学科史与方法论诊断概念，由 [[Robert Cowen]] 于 2023 年提出。它指学科在两百年的自我合法化进程中，不断重复且常被学术界误视作“理论突破”的四种认知偏差与方法论盲区：进步假设（假设学科必然向科学迈进）、地方主义（将美英轴心视作全球中心）、借用成瘾（机械进口宏[[Big Ideas\|大概念]]以逃避情境分析）以及科学混乱（对科学定义的多重混淆）。这一概念工具旨在解构学科积累的历史陈词滥调，促使学者反思隐藏的[[Epistemology\|认识论]]偏见与[[Geopolitics|地缘政治]]共谋。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 328]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指比较教育研究中四种根深蒂固、阻碍理论原创性与地缘政治敏感度的思维定势与方法论偏差。
@@ -55,7 +55,7 @@ updated: 2026-10-15
 
 > [!theory-components] 四种罪过的核心内涵
 > - **进步假设（Assumption of Progress）**
->   默认学科的发展是目的论式的，即认为学科在经历早期的“天真错误”后，必然会渐进、累积式地成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。这忽视了[[Paradigm\|范式]]断裂以及随地缘政治起舞的断代特征。
+>   默认学科的发展是目的论式的，即认为学科在经历早期的“天真错误”后，必然会渐进、累积式地成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。这忽视了[[Paradigm\|范式]]断裂以及随[[Geopolitics|地缘政治]]起舞的断代特征。
 > - **地方主义（Parochialism）**
 >   默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和研究方向的唯一世界中心，将特定区域的学术地方主义强加为全球通用的学科准则，[[Screening Off\|屏蔽]]了非西方世界的地缘政治特异性。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 328–329)]]
 > - **借用成瘾（Addiction to Borrowing）**
@@ -69,11 +69,11 @@ updated: 2026-10-15
 
 > [!tension] 核心张力：进步目的论 vs 地缘共谋论
 > - **进步目的论（进步假设）** 认为学科自然走向更加精确、客观和成熟的科学化未来。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 328]])
-> - **地缘共谋论（Cowen 等的诊断）** 指出学科发展是由未丢弃的历史行李组成的，所谓的“科学化”在不同时期往往是与特定地缘政治霸权结盟的技术官僚规划。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 328, p. 331)]]
+> - **地缘共谋论（Cowen 等的诊断）** 指出学科发展是由未丢弃的历史行李组成的，所谓的“科学化”在不同时期往往是与特定[[Geopolitics|地缘政治]]霸权结盟的技术官僚规划。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 328, p. 331)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 系统提出“比较教育的四种罪过”，客观诊断其作为未丢弃历史行李的本质，督促学科放弃对旧假设的舒适依赖，以在前瞻视角中面对 21 世纪的政治危机。

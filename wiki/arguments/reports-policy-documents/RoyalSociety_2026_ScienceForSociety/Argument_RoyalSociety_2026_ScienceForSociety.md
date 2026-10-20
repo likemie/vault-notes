@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ tags:
   - theme/science-policy
   - region/uk
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
   - "[[Central Question]]"
@@ -102,7 +103,7 @@ updated: 2026-10-20
 ## 报告定位
 
 > [!monograph-profile] 报告档案
-> - **核心对象** 英国科学与社会互动的宏观生态体系，横跨中小学科学教育、校外非正式学习、大众传媒与算法虚假信息治理、产业研发与第三部门、政府循证决策咨询以及学术科研共同体的制度激励机制。
+> - **核心对象** 英国科学与社会互动的宏观生态体系，横跨中小学科学教育、校外非正式学习、大众传媒与算法虚假信息治理、产业研发与第三部门、政府[[Evidence-Based Policy-Making|循证决策]]咨询以及学术科研共同体的制度激励机制。
 > - **领导架构** 由[[Walter Bodmer\|瓦尔特·博德默尔]]爵士（Sir [[Walter Bodmer]]）撰写前言回顾自 1985 年《公众理解科学》（PUS）报告以来的 40 年[[Paradigm\|范式]]演进，由天体物理学家[[Carlos Frenk\|卡洛斯·弗伦克]]教授与物理学家[[Sheila Rowan\|希拉·罗文]]教授共同担任指导委员会联席主席，统领教育、非正式参与、大众传媒、产业、政策及学术界六大专家工作组开展全书研制。
 > - **论证类型** 宏观国家科技战略与公共政策[[Evaluation Research\|评估研究]]，综合全国代表性公众态度调查（PAS 2025）、科研人员二十年纵向追踪调查（2006 vs 2015 vs 2024）、中小学科学教育监测数据（SET 2016–2023）与跨部门前沿案例分析。
 > - **处理粒度** `chapter-arguments`。本篇为全报告总览页（Overview Argument），系统提炼全书核心主张、历史范式演进、六章逻辑架构、跨章理论综合与量化指标矩阵；第一至六章的细化论证步骤、实证数据表与案例分析由独立的章节 Argument 深度承载。
@@ -229,7 +230,7 @@ updated: 2026-10-20
 > 2. **科学参与是数字时代抵御虚假信息与算法极化的免疫屏障** 单向的知识普及无法阻断虚假信息，唯有在基础教育阶段培育公众对科学探索本质的理解，掌握证据评估、[[Data Literacy\|数据素养]]与算法批判思维，才能形成抵御意识形态攻击与算法操纵的社会免疫系统。（pp. 13, 30–32, 58–60）
 > 3. **全员参与伦理自觉与高校体制性支持赤字形成尖锐撕裂** 英国学者参与科学外展的比例达到 85% 历史峰值，83% 视为不可推卸的职业伦理责任；然而 75% 面临严重时间挤压，仅 25% 认为有助于职称晋升，高校日常管理与考评体系存在显著的体制性冷漠。（pp. 10, 94–98）
 > 4. **第三部门患者共创与[[Citizen Science\|公民科学]]树立平权协同国家典范** 英国医学研究慈善机构（[[Advanced Manufacturing Research Centre\|AMRC]]）依托每年 3.5 亿英镑经费，将全流程患者与公众参与（PPI）确立为资助先决条件；结合数百万公众参与的自然生态公民科学监测，为全社会前沿研发提供了极具公信力的平权共创样板。（pp. 69–75）
-> 5. **[[Post-Normal Science\|后常规科学]]语境要求政策决策坦诚披露科学不确定性** 面对气候变迁与公共卫生危机，闭门黑箱式循证决策彻底失效；政府必须发布法定《科学证据陈述》，全面透明公开科学证据的适用边界与不确定性，借助独立学术审计与前瞻公共对话重建社会信任。（pp. 84–88）
+> 5. **[[Post-Normal Science\|后常规科学]]语境要求政策决策坦诚披露科学不确定性** 面对气候变迁与公共卫生危机，闭门黑箱式[[Evidence-Based Policy-Making|循证决策]]彻底失效；政府必须发布法定《科学证据陈述》，全面透明公开科学证据的适用边界与不确定性，借助独立学术审计与前瞻公共对话重建社会信任。（pp. 84–88）
 > 6. **REF 2029 顶层重构驱动科学参与从编外边缘回归核心常态** 国家科研评估中设立独立的“参与与影响”考评剖面，并将专职公众参与专业支持团队编制首次纳入科研共同体核算，标志着科研全生命周期嵌入范式从理念倡导走向法定考核落地。（pp. 100–104）
 
 > [!stat-cards]- 全书核心量化指标矩阵（pp. 6–101）

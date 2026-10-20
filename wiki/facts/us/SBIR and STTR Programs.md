@@ -14,7 +14,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -41,8 +41,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Developmental Network State]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Fred Block]]"
 related_facts:

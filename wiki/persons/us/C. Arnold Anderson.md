@@ -9,10 +9,10 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 29
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1907"
 died: "1990"
 lifespan: "1907–1990"
@@ -41,7 +41,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

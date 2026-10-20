@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -71,7 +71,8 @@ related_facts:
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-29
 updated: 2026-10-20
@@ -214,7 +215,7 @@ updated: 2026-10-20
 > - **伦敦发展中心** 罗伯特·布莱克本（Robert Blackburn）自 1978 年任发展主任兼副总干事，与伦敦大学教育学院合作，承担全球扩展的重要部分。
 > - **南美共享岗位** 彼得·斯托伊尔（Peter Stoyle）在布宜诺斯艾利斯圣乔治学校办公，同时担任 IBO 区域官员与 UWC 南美国家委员会联络员，双方分担旅行成本。
 > - **东南亚共享岗位** 东南亚 UWC 的约翰·古德班（John Goodban）兼顾 IBO 利益，使两个组织借同一地区节点提供服务。
-> - **语言考试伙伴** 汤姆·卡特（ToM Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
+> - **语言考试伙伴** 汤姆·卡特（[[Theory of Mind|ToM]] Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
 
 > [!warrant]- 共享岗位直接减少了办公室和差旅成本
 > IBO 与 UWC 的关系不只体现在共同理念。共用地区人员、办公室、旅行和学校网络，直接降低了尚不足以支撑独立办公室地区的固定成本。协作也提高了对个人经验和伙伴机构稳定性的依赖，人员更替或机构危机可能迅速削弱服务。

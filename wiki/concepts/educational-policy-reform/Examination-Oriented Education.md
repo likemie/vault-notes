@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
   - "[[Rote Learning]]"
   - "[[Academic Achievement]]"
@@ -49,7 +48,6 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael W. Apple]]"
 related_facts:
@@ -78,7 +76,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **制度本质** 不仅是教学方法的偏狭，更是连接选拔制度、行政问责、文化心理与社会流动的复合体制。
 > - **[[Discourse|话语]]建构** 在中国政策与学术话语中常被建构为[[Quality Education|素质教育]]的对立极，形成“应试 vs 素质”的双轨张力（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
-> - **[[Epistemology|认识论]]代价** 应试教育将丰富的文本阐释、道德探究与探究体验置换为机械的提分技术与公式写作，使学习者在求知能力形成期遭遇长期的心智[[Disciplina and Doctrina|规训]]（Learned et al., 2020; Collin, 2024; [[Argument_Smith_2026_SPE|Smith, 2026]]）。
+> - **[[Epistemology|认识论]]代价** 应试教育将丰富的文本阐释、道德探究与探究体验置换为机械的提分技术与公式写作，使学习者在求知能力形成期遭遇长期的心智规训（Learned et al., 2020; Collin, 2024; [[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 > [!citation-card] 传统考试文化对当代学校实践的支撑
 > 考试驱动教育的传统，结合高考在大学录取中的主导重要性……强化了社会对当前学校教育实践的支持。
@@ -114,7 +112,7 @@ updated: 2026-10-20
 > - **课堂教学考点化** 教学内容严格局限于考试大纲与常考题型，讲授与做题强化占据绝对主导；区域统考成绩逐校、逐班、逐题拆解，驱动备课与教学反思全面紧扣分数提升。
 > - **多层行政问责链条** 教育行政部门向学校下达中[[Gaokao|高考]]指标，校长评价与学校生源直接绑定升学率；升学指标再向下分解至年级与任课教师，形成刚性绩效考核约束。
 > - **家校共谋与道德责任内化** 家长在激烈的阶层再生产焦虑下坚决支持应试提分；教师亦将帮助寒门学子考取优异成绩、改变人生前途视作无可推卸的专业道德义务。
-> - **模式识别与公式化思维[[Disciplina and Doctrina|规训]]** 教学将具有主观灵性的人文探究异化为寻找关键词、套用答题模板与标准化踩点得分，驱逐歧义与个性思考。
+> - **模式识别与公式化思维规训** 教学将具有主观灵性的人文探究异化为寻找关键词、套用答题模板与标准化踩点得分，驱逐歧义与个性思考。
 
 > [!logic-map]- 应试教育活动系统与多层阻力场
 > ```mermaid

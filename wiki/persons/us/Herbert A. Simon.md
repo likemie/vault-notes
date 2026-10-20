@@ -9,7 +9,7 @@ summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,8 +39,7 @@ related_theories:
   - "[[Bounded Rationality]]"
   - "[[Complexity Theory]]"
   - "[[Behaviorism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Douglas Hofstadter]]"

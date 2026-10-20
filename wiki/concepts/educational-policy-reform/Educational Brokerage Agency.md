@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 132
+related_count: 131
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -107,7 +107,6 @@ related_methods:
   - "[[Multi-Arm Trial]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
-  - "[[Correlational Research]]"
   - "[[Network Ethnography]]"
 related_instruments:
   - "[[EMMIE Framework]]"
@@ -169,7 +168,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Educational Brokerage Agency
@@ -459,7 +458,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 从[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络治理]]视阈，系统解剖以 [[Social Ventures Australia\|SVA]] 为核心的异层[[Policy Network\|政策网络]]如何相继装配 [[Australian Schools Plus\|Schools Plus]]（筹款中介）、[[Evidence for Learning\|E4L]]（工具包试验中介）与 [[Australian Education Research Organisation\|AERO]]（国家证据中介）三大教育中介实体，论证现代国家向培育与特许私营中介的催化平台与市场缔造者的根本演进。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 梳理德语区五大[[Educational Science Communication\|教育科学传播]]与中介媒介谱系（学术期刊、指南读物、音视频播客、清算中介 [[Clearing House Unterricht\|CHU]]/[[Forschungsmonitor Schule\|FMS]] 与社交媒体），剖析乘数模式与直接触达的渠道权衡，提出将研究综述（Forschungssynthesen）纳入学科学术认可的制度倡议。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 总结德语区 [[Clearing House Unterricht]] 十年的二阶[[Knowledge Mediation\|知识中介]]经验，论证以[[Meta-analysis\|元分析]]为证据源、以[[Normal School|师范教育]]者为支点的中介模式可缓解研究-实践[[Research-Practice Gap|转移困境]]。

@@ -8,7 +8,7 @@ aliases:
 summary: "教师流动是指教师在不同学校、学区、地域或跨国教育系统之间的专业岗位转移与空间位移；该概念折射出跨大西洋政策话语的深刻反差，在欧洲一体化语境中被建构为促进专业发展与打破边境壁垒的崇高政策诉求，而在美国基础教育中则被问题化为高资质教师逃离城市贫困与少数族裔薄弱学校的队伍流失与教育不公平危机。"
 type: concept
 domain: "teacher-education"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Attrition]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Student Mobility]]"
   - "[[School Choice]]"
   - "[[Socioeconomic Status]]"
@@ -33,7 +32,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -59,7 +57,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师专业劳动力的空间再配置过程及其制度性诱导与约束机制。
-> - **用途** 帮助研究者透视空间化[[Disciplina and Doctrina|规训]]权力如何将人员移动区分并编码为“合法的积极流动”与“破坏稳定的有害流失”，剖析师资配置不均背后的空间分异机制。
+> - **用途** 帮助研究者透视空间化规训权力如何将人员移动区分并编码为“合法的积极流动”与“破坏稳定的有害流失”，剖析师资配置不均背后的空间分异机制。
 > - **边界** 不等于单纯的教师退休或永久脱离教育行业的净退出（师资损耗）；教师流动主要指向系统内不同机构与区域之间的横向或垂直转轨。
 
 > [!citation-card] 欧美教师流动话语的对比镜像

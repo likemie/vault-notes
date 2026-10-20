@@ -7,7 +7,7 @@ summary: "新西兰梅西大学教育学院教授、批判教育政策学者，2
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Cognition Education]]"
+  - "[[New Zealand National Standards]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # John O'Neill
@@ -61,7 +62,7 @@ updated: 2026-10-16
 > [!citation-card] 约翰·奥尼尔对学术中立性与商业旋转门的定性
 > 当制定国家教育标准的权威学者同时担任营利性咨询机构的董事，并从相关商业品牌推广中持续抽取高额第三方劳务报酬时，学术客观性的制度根基便已荡然无存；实证研究由此异化为掩护公共财政紧缩与教育商业变现的合法化工具。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31, citing O'Neill et al., 2016)]]
 >
-> *When an authoritative academic establishing national standards simultaneously serves as a director of a commercial consultancy and draws substantial third-party royalties, the institutional basis of scholarly objectivity vanishes; empirical research is reduced to a legitimating tool for fiscal austerity and commercial monetization.*
+> *When an authoritative academic establishing [[New Zealand National Standards|national standards]] simultaneously serves as a director of a commercial consultancy and draws substantial third-party royalties, the institutional basis of scholarly objectivity vanishes; empirical research is reduced to a legitimating tool for fiscal austerity and commercial monetization.*
 
 ---
 

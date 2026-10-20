@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者与行动者在面对外部学术研究证据、商业教育产品、政策改革倡议及隐性私有化渗透时，所秉持的主动探询研究质量、审验因果逻辑、穿透利益修辞并评估情境适切性的专业认知与制度审议立场；既是教师行使审慎专业判断的核心基石，也是公立学校与民间组织抵御技术理性盲从、影子国家异化与商业资本渗透的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,14 +47,12 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Literature Search]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Arnove]]"
   - "[[John O'Neill]]"
@@ -235,5 +233,5 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 阐明分析立场与[[Research Literacy|研究素养]]在[[Evidence-Informed Practice|证据知情实践]]中的核心地位，揭示抵御[[Persuasive Communication in Education|说服性修辞]]的机制。
 > - Carrier (2017) — 提出分析立场以应对教育创新推广者的说服性沟通策略，强调因果追问与情境审议。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合非政府组织承接公共服务外包的研究，阐述批判性分析立场在抵御技术[[Disciplina and Doctrina|规训]]与防止异化为[[Shadow State|影子国家]]中的功能。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合非政府组织承接公共服务外包的研究，阐述批判性分析立场在抵御技术规训与防止异化为[[Shadow State|影子国家]]中的功能。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统拓展该概念，论证公立学校与公民社会依托批判性分析立场穿透[[Educational Management Organisation|教育管理组织]]（EMO）隐性私有化并维护民主问责的制度防线。

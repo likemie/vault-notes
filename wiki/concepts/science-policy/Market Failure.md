@@ -30,6 +30,7 @@ related_concepts:
   - "[[Transformative System Failures]]"
   - "[[Reflexivity]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Geopolitics]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
   - "[[Tacit Knowledge]]"
@@ -77,7 +78,6 @@ related_arguments:
   - "[[Argument_NIST_2023_NSTC]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-03
@@ -115,7 +115,7 @@ updated: 2026-10-20
 > [!contrast-table] 市场失灵修补[[Paradigm|范式]]、[[Market Shaping and Creating|市场塑造]]范式与现代安全产业政策范式对比
 > | 比较维度 | 传统市场失灵修补范式（Market Fixing） | [[Market Shaping and Creating\|市场塑造与创造范式（Market Shaping）]] | [[Modern Industrial Policy\|现代地缘安全产业政策（Geopolitical Security）]] |
 > |:---|:---|:---|:---|
-> | **理论来源** | 新古典福利经济学与公共选择理论。 | [[Evolutionary Economics\|演化经济学]]、熊彼特动态能力。 | 地缘政治经济学、国际安全与大国博弈理论。 |
+> | **理论来源** | 新古典福利经济学与公共选择理论。 | [[Evolutionary Economics\|演化经济学]]、熊彼特动态能力。 | [[Geopolitics\|地缘政治]]经济学、国际安全与大国博弈理论。 |
 > | **国家角色定位** | 市场守夜人、被动兜底者与要素补贴提供方。 | 战略引领者、第一大买家与新兴市场共创者。 | 经济安保卫士、供应链风险买保人、技术流向把关者。 |
 > | **对方向性理解** | 假设市场价格机制能自发实现最优技术演进。 | 强调技术演化具有非中性，必须明确战略方向。 | 强调地缘政治排他性与技术主导权代差。 |
 > | **竞争场地逻辑** | 维持中立规则以“平整竞争场地”。 | 主动向可持续目标[[Tilting the Playing Field\|倾斜竞争场地]]。 | 实行友岸外包，针对战略对手设立技术高墙与护栏。 |
@@ -240,7 +240,7 @@ updated: 2026-10-20
 > |---|---|---|---|
 > | **方向性缺失批判** | 市场失灵理论仅能修补供给不足，无法提供创新战略方向 | 使命导向科技政策、[[Grand Challenges\|社会大挑战]]转型治理 | [[Mariana Mazzucato\|Mazzucato]] & [[Rainer Kattel\|Kattel]] (2018) |
 > | **经典生产外部性依据** | 干中学效应与集聚外部性为高科技制造补贴提供效率合理性 | 半导体晶圆制造、高端装备与先导产业培育 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, p. 83)]] |
-> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | 地缘政治博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, p. 102)]] |
+> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | [[Geopolitics\|地缘政治]]博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, p. 102)]] |
 > | **系统转型与公共价值** | 现代产业战略突破狭隘微观失灵界限，由国家设定方向驱动全系统能力重构 | 绿色能源转型、先进制造复兴与区域包容性增长 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, p. 3)]] |
 > | **重资产与强周期失灵** | 200 亿欧元建厂门槛与剧烈周期性诱发私营资本避险与寡头咽喉垄断 | 尖端芯片制造回流、关键战略供应链去风险与产能冗余储备 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024, p. 7)]] |
 > | **中试验证与安全公共品供给** | 先进制程中试线与流片高壁垒导致实验室到代工厂断层，硬件安全信息不对称需国家提供中试与根信任公共品 | 前沿微电子创新转化、中试死亡之谷跨越、硬件根信任标准构建 | [[Argument_NIST_2023_NSTC\|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
@@ -275,7 +275,7 @@ updated: 2026-10-20
 > > - **[[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]** 指出当代产业政策本质上是为防范断链风险而支付的国家安全保险，政策考量已超越单一的狭义经济效率标准。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 > [!warning] 适用局限
-> 市场失灵理论对于解决资源静态配置中的局部缺陷（如环境污染、通用研发补贴）具有严密的微观分析力，但一旦进入高科技地缘政治冲突、系统级产业生态重组或颠覆性创新赛道，其单纯基于价格与供求均衡的分析工具便显现出严重的解释力边界。
+> 市场失灵理论对于解决资源静态配置中的局部缺陷（如环境污染、通用研发补贴）具有严密的微观分析力，但一旦进入高科技[[Geopolitics|地缘政治]]冲突、系统级产业生态重组或颠覆性创新赛道，其单纯基于价格与供求均衡的分析工具便显现出严重的解释力边界。
 
 ---
 

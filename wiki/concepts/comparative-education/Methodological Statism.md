@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,10 +24,10 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Methodological Educationism]]"
   - "[[Space of Flows]]"
+  - "[[Geopolitics]]"
   - "[[Realism in International Relations]]"
   - "[[Policy Mobility]]"
   - "[[Travelling Policy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Relational Space]]"
 related_theories:
@@ -35,7 +35,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Roger Dale]]"
 related_facts:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Methodological Statism
@@ -74,7 +73,7 @@ updated: 2026-10-15
 > |------|---------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 > | **还原对象** | 将教育治理还原为“主权国家政府的科层行政”。 | 将社会与文化边界还原为“民族国家领土边界”。 | 将宽泛的教育功能与形式还原为“正规学校教育”。 |
 > | **认识盲区** | 遮蔽了多边组织、跨国企业与 NGOs 的分散权威网络。 | 遮蔽了跨国界人口、资金与资本的[[Space of Flows\|流动空间]]。 | 遮蔽了校外学习、工作场所学习与社会非正式再生产。 |
-> | **地缘政治映射** | 契合[[Realism in International Relations\|现实主义]]“国家是唯一玩家”的国关预设。 | 强化了将国家视为利益均质化主体的本质主义认识。 | 掩盖了现代学校教育作为西方认识型殖民扩张的体制化痕迹。 |
+> | **[[Geopolitics\|地缘政治]]映射** | 契合[[Realism in International Relations\|现实主义]]“国家是唯一玩家”的国关预设。 | 强化了将国家视为利益均质化主体的本质主义认识。 | 掩盖了现代学校教育作为西方认识型殖民扩张的体制化痕迹。 |
 
 ---
 
@@ -83,7 +82,7 @@ updated: 2026-10-15
 > [!feature] 核心要素
 > - **国家中心主义假设（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
 > - **权威单一性幻觉（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如[[World Bank\|世界银行]]、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
-> - **跨国[[Policy Mobility\|政策流动]]的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国 **[[Travelling Policy\|旅途政策]]** 和多边基准评估对国内改革的无声[[Disciplina and Doctrina\|规训]]。
+> - **跨国[[Policy Mobility\|政策流动]]的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国 **[[Travelling Policy\|旅途政策]]** 和多边基准评估对国内改革的无声规训。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -106,7 +105,7 @@ updated: 2026-10-15
 > 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。
 
 > [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
-> **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义地缘政治将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
+> **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义[[Geopolitics|地缘政治]]将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 ---
 
@@ -121,7 +120,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国理性主义多边主义[[Governing at a Distance\|远处治理]]的理解。
 > - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，假设领土等于社会。
 > - [[Methodological Educationism]] (方法论教育主义) — 方法论国家主义的体制化同盟，假设教育等于学校。

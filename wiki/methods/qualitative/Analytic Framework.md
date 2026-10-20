@@ -9,9 +9,9 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 60
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 75
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - research-methodology
@@ -31,26 +31,37 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Research Question]]"
   - "[[Literature Search]]"
-  - "[[Central Question]]"
   - "[[Educational Privatisation]]"
   - "[[Network Governance]]"
   - "[[Exogenous Privatisation]]"
-  - "[[Causality]]"
-  - "[[Global Educational Discourse]]"
-  - "[[Policy Conditionalities]]"
-  - "[[Policy Network]]"
+  - "[[Policy Borrowing]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Policy Mobility]]"
+  - "[[Policy Framing]]"
+  - "[[Explanatory Critique]]"
+  - "[[Hard Power]]"
   - "[[Epistemic Governance]]"
+  - "[[Central Question]]"
+  - "[[Causality]]"
+  - "[[Policy Science in Comparative Education]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Knowledge Power]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Policy Network]]"
+  - "[[Chinese Exceptionalism]]"
+  - "[[Cultural Recognition]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
   - "[[State Corporatism]]"
   - "[[Conditioned State Theory]]"
+  - "[[Critical Realism]]"
+  - "[[Tianxia Heuristic]]"
+  - "[[Policy Transfer Framework]]"
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Dependency Theory]]"
   - "[[Social Contract of Science]]"
-  - "[[Policy Transfer Framework]]"
+  - "[[Neo-Tributary Perspective]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Descriptive Methods]]"
@@ -68,22 +79,26 @@ related_methods:
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
   - "[[Ethnography]]"
+  - "[[Critical Policy Analysis]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Negative Case Analysis]]"
+  - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
-  - "[[Jason Beech]]"
-related_facts: []
+  - "[[Suyan Pan]]"
+related_facts:
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Fan_2026_BCAS]]"
-  - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
@@ -163,9 +178,9 @@ updated: 2026-10-20
 > | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 74–76)]] |
 > | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再情境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 > | **[[Educational Privatisation\|教育私有化]]与[[Network Governance\|网络治理]]综合框架** | 整合内[[Exogenous Privatisation\|外生私有化]]双轨（Ball & Youdell）、治理四维形态（市场/科层/网络/部族）、政策话语转型与多源纵向财务审计，追踪私营资本渗透全链条 | 解构新自由主义福利国家转型中公共服务外包、政策制定权转移与双层法人避税机制 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 1–25)]] |
-> | **政策转移两阶段分析框架** | 将跨国政策借用拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合循证政策制定机会结构解构外来方案的筛选与落地机制 | 解释跨国政策流动如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
-> | **四维批判性政策分析框架** | 融合费尔克拉夫批判话语分析三维模型、政策框架化（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡批判实在论解释性批判 | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘硬实力配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
-> | **天下启发式双轨分析框架** | 融合天下秩序观（关系性互联与和而不同）与批判性[[Epistemic Governance\|知识治理]]，区分大众开放网络与精英排他联盟，解析知识权力与知识外交的互补机制 | 解构新兴大国如何通过多轨大学联盟超越西方“霸权对抗与务实合作”二元论 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024, pp. 1699–1704)]] |
+> | **政策转移两阶段分析框架** | 将跨国[[Policy Borrowing\|政策借用]]拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合[[Evidence-Based Policy-Making\|循证政策制定]]机会结构解构外来方案的筛选与落地机制 | 解释跨国[[Policy Mobility\|政策流动]]如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
+> | **四维[[Critical Policy Analysis\|批判性政策分析]]框架** | 融合费尔克拉夫[[Critical Discourse Analysis\|批判话语分析]]三维模型、[[Policy Framing\|政策框架化]]（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]] | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘[[Hard Power\|硬实力]]配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
+> | **[[Tianxia Heuristic\|天下启发式]]双轨分析框架** | 融合天下秩序观（关系性互联与和而不同）与批判性[[Epistemic Governance\|知识治理]]，区分大众开放网络与精英排他联盟，解析知识权力与知识外交的互补机制 | 解构新兴大国如何通过多轨大学联盟超越西方“霸权对抗与务实合作”二元论 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024, pp. 1699–1704)]] |
 
 > [!proc] 质性分析程序
 > 1. **初读与分段清洗** 熟悉一手材料，标注与[[Central Question|核心研究问题]]相关的关键事件与表述。
@@ -199,11 +214,11 @@ updated: 2026-10-20
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的六维跨国借用分析框架，为政策科学分析框架提供奠基范例。 |
+> | [[Policy Transfer Framework]] | 理论原型 | 戴维·多洛维茨与戴维·马什建构的六维跨国借用分析框架，为[[Policy Science in Comparative Education\|政策科学]]分析框架提供奠基范例。 |
 > | [[Beech's Model of Discourse Circulation]] | 理论原型 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特流动空间理论构建的五位置话语流通分析框架。 |
 > | [[Conditioned State Theory]] | 理论构件 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
 > | [[State Corporatism]] | 理论构件 | 为国家控制教育利益集团的制度分析提供框架构件。 |
-> | [[Epistemic Governance]] | 概念透镜 | 为分析框架提供解构知识外交与知识权力共生运作的治理机制。 |
+> | [[Epistemic Governance]] | 概念透镜 | 为分析框架提供解构[[Knowledge Diplomacy\|知识外交]]与[[Knowledge Power\|知识权力]]共生运作的治理机制。 |
 > | [[Descriptive Methods]] | 基础方法 | 分析框架叠加于描述性方法之上，前者提供理论进阶解释，后者提供事实基础。 |
 > | [[Coding in Qualitative Research]] | 操作技术 | 分析框架通过先验定向编码落实到具体文本分析中。 |
 
@@ -218,7 +233,7 @@ updated: 2026-10-20
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策文献中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的隐性私有化与[[Policy Network|政策网络]]拓扑。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与循证政策制定机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国随机分配评估技术的动力机制（pp. 333–336）。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合批判话语分析、政策框架化、政策三维视角及解释性批判的四维分析框架，系统解构中国“一带一路”跨国高教政策的深层因果机制（pp. 680–687）。
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合天下启发式秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用潘苏燕与卢天佑构建的高等教育新朝贡分析框架（涵盖中国例外论、经贸外交联动、文化认同探索及形象塑造四大支柱），通过对中柬高教合作案例开展实证检验，修正了原框架中的文化同化预设，并揭示了地缘经贸主导下的制度张力（pp. 1045–1046, 1050–1054）。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与[[Evidence-Based Policy-Making|循证政策制定]]机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国[[Random Assignment|随机分配]]评估技术的动力机制（pp. 333–336）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合[[Critical Discourse Analysis|批判话语分析]]、[[Policy Framing|政策框架化]]、政策三维视角及[[Explanatory Critique|解释性批判]]的四维分析框架，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高教政策的深层因果机制（pp. 680–687）。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合[[Tianxia Heuristic|天下启发式]]秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用[[Suyan Pan|潘苏燕]]与卢天佑构建的高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]（涵盖[[Chinese Exceptionalism|中国例外论]]、经贸外交联动、[[Cultural Recognition|文化认同探索]]及形象塑造四大支柱），通过对中柬高教合作案例开展实证检验，修正了原框架中的文化同化预设，并揭示了地缘经贸主导下的制度张力（pp. 1045–1046, 1050–1054）。

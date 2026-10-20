@@ -10,7 +10,7 @@ summary: "研究者或评价者深入真实或录制的课堂教学现场，依�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 54
+method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Structured Observation]]"
   - "[[Observation Protocol]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Classroom Assessment Scoring System]]"
   - "[[Framework for Teaching]]"

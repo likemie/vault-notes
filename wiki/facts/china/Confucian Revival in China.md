@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Beijing Consensus]]"
   - "[[Academic Freedom]]"
   - "[[Performance Indicators]]"
   - "[[Cultural Hierarchy]]"
@@ -41,7 +42,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Confucius]]"
-related_facts: []
+related_facts:
+  - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Yu_2024_CE]]"
 ---
@@ -68,7 +70,7 @@ related_arguments:
 > [!dev-timeline] 复兴阶段图谱
 > - **1980s末–2000s初 — 民间自发与半独立拓展** — 1989 年后复兴加速，民间儒家书院与“国学热”兴起，学者呼吁回归传统伦理[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **胡锦涛时期 — 主流化与去宗教化定性** — 儒家[[Discourse|话语]]进入和谐社会叙事；现代儒家信徒呼吁将儒学定为国教未获采纳，官方明确将其定位为“文化与伦理传统”而非宗教，避免与无神论冲突。
-> - **习近平时代（2012至今） — 民族主义绑定与国家推进** — 儒家复兴与“[[Zhonghua Minzu\|中华民族]]伟大复兴中国梦”高度绑定；设立[[Confucius\|孔子]]学院作为[[Soft Power\|软实力]]工具向海外输出中国模式[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
+> - **习近平时代（2012至今） — 民族主义绑定与国家推进** — 儒家复兴与“[[Zhonghua Minzu\|中华民族]]伟大复兴中国梦”高度绑定；设立[[Confucius\|孔子]]学院作为[[Soft Power\|软实力]]工具向海外输出[[Beijing Consensus|中国模式]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **2017至今 — 意识形态收紧与官控重塑** — 重新强调马克思主义正统，收紧[[Academic Freedom\|学术自由]]；压制自发民间书院，代之以国家主导的“优秀传统文化”运动[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
 
 > [!citation-card]- 关键表述
@@ -96,7 +98,7 @@ related_arguments:
 > - **主导与推进主体** 中共中央宣传部、教育部 — 统筹传统文化复兴政策、审定教材与控制[[Discourse|话语]]。
 > - **民间与学术响应者** 儒家学者、民间书院、国学机构 — 提供学术阐释与活态传播（后续受严控）。
 > - **受教与传导对象** 广大中小学师生、海外[[Confucius\|孔子]]学院学员、边疆少数民族群体。
-> - **政策工具** 217 册基础教育必修教材、孔子学院、国家文化工程。
+> - **政策工具** 217 册基础教育必修教材、[[Confucius Institute|孔子学院]]、国家文化工程。
 
 > [!pathways]- 关键策略与机制
 > - **去宗教化定位（De-religionisation）** — 将儒学严密剥离宗教色彩，定性为“文化与伦理传统”，从而避开与中共无神论意识形态的正面冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。

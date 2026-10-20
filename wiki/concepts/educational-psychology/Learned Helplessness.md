@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在经历挑战、挫折或过度依赖技术代劳时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式；在生成式人工智能时代延伸为将高阶思考推给算法引发的自加信度赤字与认识畸变。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

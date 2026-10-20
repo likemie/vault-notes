@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: "国家公立综合性大学 / 旗舰高等教育机构"
 headquarters: "柬埔寨金边（Phnom Penh, Cambodia）"
@@ -24,20 +24,19 @@ tags:
   - theme/institution
   - cambodia
 related_concepts:
+  - "[[Normal School]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[South-South Cooperation]]"
-  - "[[Knowledge Diplomacy]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Neo-Tributary Perspective]]"
 related_methods:
-  - "[[Case Study]]"
+  - "[[Analytic Framework]]"
   - "[[Semi-structured Interview]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Belt and Road Initiative]]"
-  - "[[Confucius Institute]]"
   - "[[ASEAN]]"
+  - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
@@ -53,7 +52,7 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 金边皇家大学（Royal University of Phnom Penh, RUPP）是柬埔寨规模最大、历史最悠久且学科门类最齐备的国家公立旗舰大学，承担着为国家经济重建与现代化培育高级专业技术与管理人才的核心使命，也是柬埔寨参与东盟区域教育一体化与跨国高教对外合作的首要学术枢纽。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1047)]]
+> 金边皇家大学（Royal University of Phnom Penh, RUPP）是柬埔寨规模最大、历史最悠久且学科门类最齐备的国家公立旗舰大学，承担着为国家经济重建与现代化培育高级专业技术与管理人才的核心使命，也是柬埔寨参与[[ASEAN|东盟]]区域教育一体化与跨国高教对外合作的首要学术枢纽。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1047)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 始建于 1960 年（前身为柬埔寨皇家高棉大学），旨在摆脱法国殖民统治后建立独立的国家现代高等教育体系。
@@ -80,12 +79,12 @@ updated: 2026-10-20
 >
 >   在国际社会与外国援助下重新复课，逐步整合为综合性大学建制。
 >
->   - **1980** 设立高级师范学院与外语学院，重建基础教育师资。
+>   - **1980** 设立高级[[Normal School|师范学院]]与外语学院，重建基础教育师资。
 >   - **1996** 正式更名为金边皇家大学（RUPP），恢复公立综合性大学地位。
 >
 > - **2000–至今** **国际化转型与对外合作拓展**
 >
->   全面融入东盟大学联盟（AUN），广泛拓展与日、欧、中等国高校的双边合作，成为大国高教公共外交与对外援助的核心承接实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1048)]]
+>   全面融入[[ASEAN|东盟]]大学联盟（AUN），广泛拓展与日、欧、中等国高校的双边合作，成为大国高教公共外交与对外援助的核心承接实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1048)]]
 >
 >   - **2011** 与大理大学合作成立 RUPP-大理大学汉语中心。
 >   - **2017** 与多所中国双一流大学签署全面合作备忘录（MOU），落地华为 ICT 认证实训体系。
@@ -105,9 +104,9 @@ updated: 2026-10-20
 ## 在对外高教合作中的角色与实证发现
 
 > [!finding-cards] 跨国高教互动的关键支点与机制张力
-> - **多边高教合作与援助承接旗舰** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu and Yang, 2025]]）实证指出，金边皇家大学是中柬高教交往的最核心支点。学校先后与 10 所中国高水平大学签署合作备忘录（其中 7 所位于中国西南省份），建立了实体化汉语中心并系统引入高科技企业工程师认证课程。（pp. 1046–1047, 1051）
+> - **多边高教合作与援助承接旗舰** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，金边皇家大学是中柬高教交往的最核心支点。学校先后与 10 所中国高水平大学签署合作备忘录（其中 7 所位于中国西南省份），建立了实体化汉语中心并系统引入高科技企业工程师认证课程。（pp. 1046–1047, 1051）
 > - **自上而下政策动员与微观学术落地脱节** 受访的该校国际事务副校长（I34）与科研协调官员（I35）直言，部分中国高校仅将签约视作响应国家对外倡议的行政考绩指标，在协议签署后从未派员实地跟进推进科研合作，导致大量校际谅解备忘录流于纸面形式，缺乏内生性学术深度。（p. 1051）
-> - **受援国自主理性与多方借力能动性** 该校在接受涉华工程技术与语言援助的同时，保持了与日本国际协力机构（JICA）及欧洲 Erasmus 项目的多元平衡合作，展现出发展中国家旗舰学府借助外部地缘博弈主动获取国家发展资源的策略性自主。（pp. 1047–1048, 1054）
+> - **受援国自主理性与多方借力能动性** 该校在接受涉华工程技术与语言援助的同时，保持了与日本国际协力机构（JICA）及欧洲 [[Erasmus Programme|Erasmus]] 项目的多元平衡合作，展现出发展中国家旗舰学府借助外部地缘博弈主动获取国家发展资源的策略性自主。（pp. 1047–1048, 1054）
 
 ---
 
@@ -130,6 +129,6 @@ updated: 2026-10-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Internationalization of Higher Education]] | Concept | 金边皇家大学是战后东南亚高等教育国际化与对外援助重构的代表性案例。 |
-> | [[Neo-Tributary Perspective]] | Theory | 作为实证检验新朝贡分析框架中经贸外交主导与高教协议虚置的核心案例场域。 |
+> | [[Neo-Tributary Perspective]] | Theory | 作为实证检验新朝贡[[Analytic Framework\|分析框架]]中经贸外交主导与高教协议虚置的核心案例[[Champ\|场域]]。 |
 > | [[ASEAN]] | Fact (Organization) | 柬埔寨国家旗舰大学作为东盟大学网络重要成员融入区域高教一体化。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 针对金边皇家大学数十位校领导、院系主管及青年学者开展半结构化访谈与实证剖析的代表性文献。 |
+> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 针对金边皇家大学数十位校领导、院系主管及青年学者开展[[Semi-structured Interview\|半结构化访谈]]与实证剖析的代表性文献。 |

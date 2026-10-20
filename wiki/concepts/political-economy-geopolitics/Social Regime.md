@@ -8,7 +8,7 @@ aliases:
 summary: "经济社会学与历史制度主义核心概念，指由具备合法暴力垄断权的第三方强制机构所背书的集体行为预期与规则体系；区分规则制定者与规则遵从者，将制度视为蕴含权力不对称的支配组织，构成理解制度设计与基层践行内生脱节的元理论基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"

@@ -9,7 +9,7 @@ aliases:
 summary: "主流西方政治学与正统教育政策分析的基石国家范式，假定国家是超越生产关系与社会阶级结构的自主政治实体与中立裁判者，将公立教育界定为国家提供给全体公民的均质公共品，遭到马克思主义与批判教育政治社会学关于阶级霸权与资本积累矛盾的根本性解构"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Technical Rationality]]"
   - "[[Return on Investment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Value Neutrality]]"
   - "[[Politicity of Education]]"
   - "[[Epistemology]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Liberal-Pluralist Theory of the State
@@ -95,7 +94,7 @@ updated: 2026-10-15
 > [!theory-proposition] 命题二｜教育政策与规划属于非政治性的[[Technical Rationality|技术理性]]工程
 > **解释** 既然国家是中立的，那么教育政策的制定就被降格为寻找“最具成本效益、最高[[Return on Investment|投资回报率]]”的技术寻优过程；教育社会学与哲学的阶级权力反思被技术官僚模型所边缘化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74, 78)]]
 >
-> **应用实例** [[OECD|经合组织]]（OECD）推行的 [[PISA]] 排名与能力指标，往往将教育改革包装为与意识形态无关的技术参数调整，遮蔽了跨国资本[[Disciplina and Doctrina|规训]]劳工技能的实质目的。
+> **应用实例** [[OECD|经合组织]]（OECD）推行的 [[PISA]] 排名与能力指标，往往将教育改革包装为与意识形态无关的技术参数调整，遮蔽了跨国资本规训劳工技能的实质目的。
 
 ---
 

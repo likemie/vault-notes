@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 148
+related_count: 147
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Emergence]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Working Memory]]"
@@ -103,6 +102,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Literature Search]]"
+  - "[[Geopolitics]]"
   - "[[Incommensurability]]"
   - "[[Fade-out Effect]]"
   - "[[Research Translation]]"
@@ -136,7 +136,6 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Research Synthesis]]"
   - "[[Multimodal Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments:
   - "[[Framework for Teaching]]"
@@ -238,7 +237,7 @@ updated: 2026-10-20
 > - **不等于 [[Intelligent Tutoring Systems\|智能导师系统]]（ITS）** 传统 ITS 依赖预设的专家产生式规则与结构化题库进行良构解题的单轮分步演练；GenAI 依托大语言模型与多模态架构的统计概率[[Emergence\|涌现]]，支持多轮开放式自然语言对话、[[Role-playing\|角色扮演]]与非结构化探究共创。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
 > - **不等于 数学课堂中的计算器（The Calculator Picture）** 计算器仅卸载机械性算术运算，同时完整保留了学生对数学题意理解、公式推导与逻辑论证的核心心智；生成式 AI 在读写教育中则全流程代劳了构思、提纲与修改，契合的是点餐即食的私厨隐喻（Personal Chef Picture），极易剥夺学生发展核心认知与探究能力的机会。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 2–8)]]
 > - **不等于 判别式/预测性人工智能（Predictive AI）** 判别式 AI 核心功能是分类、打分、过滤与标签化（如自动批改与流失率预警）；生成式 AI 核心功能是基于提示生成全新内容与交互式对话。
-> - **不等于 自动代写与学术欺诈工具** 将 GenAI 窄化为代写工具是工具主义与[[Disciplina and Doctrina\|规训]]视角的产物；在学习科学中，它被定位于支持思维外化与[[Epistemology\|认识论]]质询的认知脚手架。
+> - **不等于 自动代写与学术欺诈工具** 将 GenAI 窄化为代写工具是工具主义与规训视角的产物；在学习科学中，它被定位于支持思维外化与[[Epistemology\|认识论]]质询的认知脚手架。
 > - **不等于 彻底剥离技术的绝对独立（Radical Epistemic Autonomy）** 追求完全摆脱生成式技术支持的孤立自足是不切实际的纯洁性设想；GenAI 教育治理的核心在于相互依赖中维系关系性认识主体性。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 7)]]
 
 ---
@@ -525,7 +524,7 @@ updated: 2026-10-20
 > - **算法偏见与文化均质化风险** 大模型训练数据主要来自英语世界与主流互联网语料，可能系统性边缘化全球南方及非主流文化视角，并在语言润色中抹杀独特的个体学术声音。[[Argument_Li_2026_CEAI\|(Monib et al., 2025; Li et al., 2026, p. 8)]]
 > - **数字鸿沟与认知不平等加剧** 具备高水平 AI 素养与高级付费模型访问权的学生能够获得强大的认知杠杆，而缺乏指导的弱势群体更容易陷入低水平被动盲从，拉大教育差距。实证研究亦揭示出反直觉的补偿机制：在高等教育中，数字化薄弱与低收入地区反而表现出显著更强的边际促学收益（$g^+ = 1.764$ vs $0.501$），表明[[Technology Infusion\|技术整合]]若辅以普惠政策，能有效充当打破教育资源垄断的平衡杠杆。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **商业平台采购锁定与成长受限型[[Epistemic Injustice\|认识不公]]** 大学对主流商业闭源生成式平台的系统性采购，不仅造成对特定私营技术堆栈的制度化锁定，更在无形中将缺乏替代性数字资源的学生推向算法主导的[[Knowledge Production\|知识生成]]流水线，剥夺其经历独立挫折与认识突破的成长机会，构成结构性的认知发展限制。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–7)]]
-> - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]控制全球 90% 以上先进制程产能）；在地缘政治博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
+> - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]控制全球 90% 以上先进制程产能）；在[[Geopolitics|地缘政治]]博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
 
 > [!warning] 适用局限与实施边界
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等[[CORE Education|核心教育]]体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
@@ -569,7 +568,7 @@ updated: 2026-10-20
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证[[Research Synthesis\|证据综合]] | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节[[Man-Computer Symbiosis\|人机协同]]科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
 > | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
 
 ---
@@ -603,7 +602,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统论述万亿参数大模型的 [[Artificial General Intelligence|AGI]] 火花与[[AI Deterrence|算法威慑]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件世纪软硬件主从支配关系的根本逆转与破除[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及超越 1970 年代反文化运动与[[Consumer Internet|消费互联网]]消极自满以构筑国家战略[[Hard Power|硬实力]]中枢（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证生成式人工智能如何成为 2025 年起美国科技政策“再集中与再动员”的核心叙事，以及国家如何依托私营科技巨头与国家实验室绕开大学基础探索直接获取技术主导权。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义三大[[Epistemic Stances\|认识立场]]，构建技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解）与教学法支架协同矩阵，阐明维系人类[[Epistemic Agency\|认识主体性]]与防范[[Cognitive Offloading\|认知卸载]]的实践路径。

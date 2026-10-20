@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -62,6 +62,7 @@ related_facts:
   - "[[Race to the Top]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
+  - "[[MDRC]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[OECD]]"
@@ -117,7 +118,7 @@ updated: 2026-10-20
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
 > [!pathways]- 业务运行机制与独立性制度特征
-> - **法定独立评估采购** 依据 [[Education Sciences Reform Act 2002|ESRA]] 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、MDRC、SRI International、[[AIR Model of Epistemic Cognition\|AIR]]）。
+> - **法定独立评估采购** 依据 [[Education Sciences Reform Act 2002|ESRA]] 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、[[MDRC]]、SRI International、[[AIR Model of Epistemic Cognition\|AIR]]）。
 > - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation\|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence\|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs\|准实验设计]]（QED）并导致高流失率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。
 
 ---

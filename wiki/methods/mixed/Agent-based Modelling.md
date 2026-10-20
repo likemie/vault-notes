@@ -9,7 +9,7 @@ summary: "模拟或促进具有能动性的个体在行动者网络中互动的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Causal Processes]]"
 related_theories:
   - "[[Complexity Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Agent-based Modelling
@@ -142,5 +141,5 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 以 Reynolds 的 boids 模型和公民教育[[Virtual World\|虚拟世界]]研究为例，说明 ABM 如何从主体互动的简单规则中[[Emergence\|涌现]]复杂社会模式，以及如何在虚拟世界研究中实现。

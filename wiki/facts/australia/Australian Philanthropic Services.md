@@ -9,9 +9,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: non-profit
 headquarters: Sydney, Australia
@@ -34,7 +34,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David Gonski]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Australian Philanthropic Services
@@ -134,6 +133,6 @@ updated: 2026-10-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 依据 ACNC 与 ASIC 法定监管数据，追踪 [[Social Ventures Australia\|SVA]] 旗下 APS 等实体的四层控股与免税管理架构，揭示私人辅助基金（PAFs）作为[[Venture Philanthropy\|风险慈善]]网络渗透公立教育的资本运作通道。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 调取 17 份 ASIC 官方企业提取档案，解构 APS 作为 SVA [[Policy Network\|政策网络]]超级影子节点及其在 [[Gonski 2.0]] 审查背后的跨界旋转门机制。

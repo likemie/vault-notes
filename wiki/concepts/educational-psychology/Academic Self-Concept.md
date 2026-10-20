@@ -7,7 +7,7 @@ aliases:
 summary: "个体对自己学术能力的整体感知和评价，既受实际成绩影响也反向影响学习动机和投入，是学业成就的中介变量和代理指标"
 type: concept
 domain: "educational-psychology"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Convenience Sampling]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +33,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-09-17
+updated: 2026-10-20
 ---
 
 # Academic Self-Concept
@@ -75,5 +74,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。

@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
   - "[[Virtual University]]"
@@ -87,7 +88,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -157,7 +158,7 @@ citation_aliases:
 >
 > Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，[[OECD]] 立即将注意力转向 [[STEM Education\|STEM]] 教育——这时距"[[Knowledge-Based Economy]]"成为流行[[Discourse|话语]]还有几十年(p.56)。
 >
-> > 例：Sputnik Shock 是理解"教育和地缘政治如何始终纠缠"的经典案例。1957 年苏联先于美国把卫星送上太空，美国举国震惊。反应是什么？不是增加军费（那是后来的事），而是大规模改革科学教育和数学课程——因为决策者相信，苏联的"知识优势"来自更好的教育。这就是 Amos 所说的"早在市场话语流行之前，经济与知识的关联已被锻造"。
+> > 例：Sputnik Shock 是理解"教育和[[Geopolitics|地缘政治]]如何始终纠缠"的经典案例。1957 年苏联先于美国把卫星送上太空，美国举国震惊。反应是什么？不是增加军费（那是后来的事），而是大规模改革科学教育和数学课程——因为决策者相信，苏联的"知识优势"来自更好的教育。这就是 Amos 所说的"早在市场话语流行之前，经济与知识的关联已被锻造"。
 >
 > Amos 还借德国小说家 Günther Grass 的自创词 **[[Vergegenkunft]]**（Vergangenheit/Gegenwart/Zukunft = 过去/现在/未来的合成词）来说明：过去、现在和未来并非线性排列，而是彼此纠缠。你无法理解今天的 [[Educational Technology Industry]] 热潮，除非你看到 1950 年代的"知识=生产力"话语和 Sputnik 之后 OECD 对 STEM 的持续关注。
 >

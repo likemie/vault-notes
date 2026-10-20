@@ -8,7 +8,7 @@ summary: "一种无监督或半监督的多变量统计降维技术，用于在�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
   - "[[Measurement Invariance]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Exploratory Factor Analysis
@@ -180,7 +179,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用主轴因子分析结合 Promax 斜交旋转，在 $\text{KMO} = 0.81$ 支持下将奥地利校长对 22 项教育治理工具的态度降维提炼为 5 个核心政策维度（解释 42.1% 方差），并为后续[[Cluster Analysis\|聚类分析]]奠定了特征向量基础。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology\|认识论]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。

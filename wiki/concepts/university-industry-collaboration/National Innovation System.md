@@ -56,6 +56,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Total Factor Productivity]]"
   - "[[Variable]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Pilot Scale Platform]]"
   - "[[Membership-based Research Consortium]]"
@@ -70,7 +71,6 @@ related_theories:
   - "[[Triple Helix]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -350,7 +350,7 @@ updated: 2026-10-20
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判传统国家创新系统仅弥补系统失灵的被动修补思维，提出以解决重大社会挑战为导向的主动[[Market Shaping and Creating|市场塑造]]与创造框架。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重振实体制造公地、前竞争联合体与国家 AI 基础设施核验网络，为现代国家创新体系注入韧性内核。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 历史制度分析美国战后国防采购与联邦研发投资体系，揭示政府先导采购与第二货源机制如何孵化微电子国家创新系统。
-> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角审视国家创新系统，揭示[[Knowledge-Based Economization|知识经济化]]如何将国家创新系统重构为大国构筑技术主权的地缘竞争工具。
+> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Cultural Political Economy|文化政治经济学]]与[[Geopolitics|地缘政治学]]视角审视国家创新系统，揭示[[Knowledge-Based Economization|知识经济化]]如何将国家创新系统重构为大国构筑技术主权的地缘竞争工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析全球产业链重组下美国[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构、[[Pilot Scale Platform|中试平台]]共置及[[Securitization of Technology|技术安全化]]制度张力。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进视角，系统阐述国家战略科技力量建设如何推动国家创新体系转向关键技术能力掌控，剖析国家实验室与大学的分化生态。
 

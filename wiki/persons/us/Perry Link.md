@@ -8,7 +8,7 @@ summary: "美国著名汉学家、普林斯顿大学东亚研究荣休教授、�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - theme/free-speech
   - theme/higher-education
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Anaconda in the Chandelier]]"
   - "[[Technological Republic]]"
   - "[[Hard Belief]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Perry Link
@@ -48,7 +47,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名汉学家、中国现当代文学与文化研究学者，普林斯顿大学东亚研究系荣休教授，加州大学河滨分校校长特聘讲席教授。
-> - **核心角色** 20 世纪下半叶以来西方汉学界研究中国现当代思想史、通俗文学、语言[[Disciplina and Doctrina|规训]]与知识分子生存困境的代表学者之一，兼任《纽约书评》重要撰稿人。
+> - **核心角色** 20 世纪下半叶以来西方汉学界研究中国现当代思想史、通俗文学、语言规训与知识分子生存困境的代表学者之一，兼任《纽约书评》重要撰稿人。
 > - **代表贡献** 于 2002 年在《纽约书评》发表论文提出著名的“[[Anaconda in the Chandelier|吊灯里的巨蟒]]”（Anaconda in the Chandelier）隐喻，精准阐发了基于心理威慑与预期模糊性的非机械化语言审查控制机制，成为政治学、传播学与文化批判中分析隐性自我审查的经典理论工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!citation-card] 林培瑞论吊灯巨蟒式的心理审查控制
@@ -75,7 +74,7 @@ updated: 2026-10-16
 > [!thought-timeline] 思想发展
 > - **1980年代 — 现当代通俗文学与社会转型研究** 深入考察当代文学演变与市民文化心理。
 >   - **代表著作** *Mandarin Ducks and Butterflies: Popular Fiction in Early Twentieth-Century Chinese Cities* (1981)。
-> - **1990–2000年代 — 语言[[Disciplina and Doctrina|规训]]、心理威慑与政治审查机制** 转向分析权威体制如何通过官方语言塑造思维习惯，提炼[[Anaconda in the Chandelier|吊灯巨蟒]]的微观心理机制。
+> - **1990–2000年代 — 语言规训、心理威慑与政治审查机制** 转向分析权威体制如何通过官方语言塑造思维习惯，提炼[[Anaconda in the Chandelier|吊灯巨蟒]]的微观心理机制。
 >   - **代表论著** "China: The Anaconda in the Chandelier" (*New York Review of Books*, 2002); *The Uses of Literature: Life in the Socialist Chinese Literary System* (2000)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 > - **2010–2020年代 — 跨国比较与当代西方思想审查反思** 理论工具被跨界引入审视西方高校微侵犯规训、取消文化与科技企业内部的自我消音。
 

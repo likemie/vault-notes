@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式。主要表现为以社会影响力债券为代表的金融衍生合同，以及以高参与度管理介入为特征的风险慈善。在追求财务保值增值的同时，要求以经审计的因果量规考核社会回报；但在教育实践中，不仅驱动了公共财政向私营资本的逆向输送，而且容易与本土弱势社区的文化自治产生剧烈治理冲突。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,15 +25,14 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Venture Philanthropy]]"
   - "[[Return on Investment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Public Value]]"
   - "[[Professional Judgment]]"
   - "[[Public-Private Partnership]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Theory of Change]]"
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[John O'Neill]]"
@@ -62,7 +61,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向运用金融衍生工具、契约安排与风险投资治理纪律，将公共教育改良指标转化为商业[[Return on Investment|投资回报]]现金流或严密审计资本的治理技术。
-> - **用途** 既用于剖析国家如何通过撬动私营金融资本将公共支出转化为金融资产，也用于解构大型慈善基金会如何以“高风险、高回报”之名对本土弱势社区实施外部制度[[Disciplina and Doctrina|规训]]。
+> - **用途** 既用于剖析国家如何通过撬动私营金融资本将公共支出转化为金融资产，也用于解构大型慈善基金会如何以“高风险、高回报”之名对本土弱势社区实施外部制度规训。
 > - **边界** 区别于不追求任何财务返还或管理干预的传统单向慈善赠款，也区别于完全无视社会效益度量的纯粹商业资本投机。
 
 > [!citation-card] 罗威论全澳最大的社会影响力投资平台与国家战略契合
@@ -137,7 +136,7 @@ updated: 2026-10-20
 > 揭示当商业[[Return on Investment|投资回报]]与短期因果量规强绑定时，办学机构为确保投资收益达标而诱发的教学短期化与弱势群体歧视风险。
 
 > [!claim] Nicholls, A. et al. (2015); [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]
-> **因果量规[[Disciplina and Doctrina|规训]]与教育复杂性丧失论断** 为了确保影响力投资能够如期回收本金与利息，项目必须依赖高度确定、易于测度的标准化指标（如标准化考试分数）。这种机制迫使学校削减无法直接产生短期量化效益的艺术、人文学科与价值审议（[[Professional Judgment]]），甚至诱发“挑肥拣瘦”（Cream-skimming）现象——为了达成考核而系统性排斥最难以转化的极弱势学生，加剧了教育系统内在的不平等。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]
+> **因果量规规训与教育复杂性丧失论断** 为了确保影响力投资能够如期回收本金与利息，项目必须依赖高度确定、易于测度的标准化指标（如标准化考试分数）。这种机制迫使学校削减无法直接产生短期量化效益的艺术、人文学科与价值审议（[[Professional Judgment]]），甚至诱发“挑肥拣瘦”（Cream-skimming）现象——为了达成考核而系统性排斥最难以转化的极弱势学生，加剧了教育系统内在的不平等。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]
 
 ---
 

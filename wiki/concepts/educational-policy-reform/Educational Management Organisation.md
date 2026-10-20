@@ -8,7 +8,7 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,8 +38,7 @@ related_concepts:
   - "[[New Pedagogies for Deep Learning]]"
   - "[[Analytical Stance]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[John O'Neill]]"

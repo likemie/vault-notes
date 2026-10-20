@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高杠杆激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,6 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

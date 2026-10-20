@@ -9,10 +9,10 @@ aliases:
 summary: "质性研究与扎根理论中探索、理解与理论建构的核心支点概念，在研究设计中界定单一研究聚焦点，在主轴与选择性编码中作为具备最大解释力的核心范畴整合全部因果机制与故事线。"
 type: concept
 domain: "research-methodology"
-related_count: 52
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/research-methodology
   - paradigm/constructivist
@@ -28,24 +28,22 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Dependent Variable]]"
   - "[[Scale of Measurement]]"
-  - "[[Unit of Analysis]]"
   - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Unit of Analysis]]"
   - "[[Areas of Knowledge]]"
   - "[[Independent Variable]]"
-  - "[[Epistemology]]"
   - "[[External Validity]]"
   - "[[Dialogue in Education]]"
   - "[[Reliability]]"
-  - "[[Constructivist Paradigm]]"
+  - "[[Nondirectional Language]]"
   - "[[Champ]]"
   - "[[Saturation]]"
-  - "[[Rich and Thick Description]]"
-  - "[[Positivism]]"
-  - "[[Nondirectional Language]]"
   - "[[Emergence]]"
   - "[[Open-Mindedness]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Reflexivity]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Research Question]]"
   - "[[Construct]]"
 related_theories:
@@ -58,7 +56,6 @@ related_methods:
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
   - "[[Story Line]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Domain Analysis]]"
   - "[[Qualitative Computer Software]]"
@@ -67,8 +64,8 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Qualitative Content Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Qualitative Codebook]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Louis Cohen]]"
 related_facts: []
@@ -79,7 +76,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Central Phenomenon
@@ -115,7 +112,7 @@ updated: 2026-10-18
 
 ## 概念辨析
 
-核心现象在[[Qualitative Research|质性研究]]全流程中承载双重使命（设计端聚焦与分析端整合），与相邻方法学术语在本体论、结构构型与认识论追求上具有明确区别：
+核心现象在[[Qualitative Research|质性研究]]全流程中承载双重使命（设计端聚焦与分析端整合），与相邻方法学术语在[[Ontology|本体论]]、结构构型与[[Epistemology|认识论]]追求上具有明确区别：
 
 > [!contrast-table] 核心现象与相关方法学术语对比
 > | 维度 | 核心现象（Central Phenomenon / Core Category） | 量化[[Variable\|变量]]（Variable） | [[Research Topic\|研究主题]]（Research Topic） | [[Unit of Analysis\|分析单位]]（Unit of Analysis） | 普通分析范畴（Analytic Category） |
@@ -133,12 +130,12 @@ updated: 2026-10-18
 核心现象贯通质性探究的“设计—分析—建构”全链条，其内涵由研究设计端的聚焦规程与分析建构端的解释力构件共同构成：
 
 > [!feature] 核心要素
-> - **单一聚焦点（Single Focus）** 质性目的陈述与核心提问聚焦于单一现象，不预先关联多个变量或设定群组对照，保障经验探索的纵深展开。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
-> - **非方向性界定（Nondirectional Language）** 严格采用中立、开放的探索性词汇（如“经历”、“理解”、“探索”），严禁使用暗示积极或消极结果的价值倾向词。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 126)]]
-> - **情境与参与者锚定（Contextual & Participant Anchoring）** 必须紧密嵌入特定研究场所与行动者群体，通过具体情境的深度浸润界定现象的边界与生成场域。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
-> - **最大解释潜力（Greatest Explanatory Potential）** 扎根理论分析中对经验数据具备最强大的概念整合与解释力，其他次级范畴均反复紧密地与之产生实质关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
-> - **因果范式拓扑中枢（Causal Paradigm Hub）** 在主轴编码中充当因果条件、情境脉络、中介条件、行动/互动策略与结果六大要素的结构核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 562)]]
-> - **故事线整合纽带（Storyline Integration Hub）** 作为统领全篇叙事的主导故事线核心构件，将分散范畴在维度属性上系统对接并达致理论饱和。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
+> - **单一聚焦点（Single Focus）** 质性[[Purpose Statement|目的陈述]]与核心提问聚焦于单一现象，不预先关联多个[[Variable|变量]]或设定群组对照，保障经验探索的纵深展开。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
+> - **非方向性界定（[[Nondirectional Language]]）** 严格采用中立、开放的探索性词汇（如“经历”、“理解”、“探索”），严禁使用暗示积极或消极结果的价值倾向词。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 126)]]
+> - **情境与参与者锚定（Contextual & Participant Anchoring）** 必须紧密嵌入特定研究场所与行动者群体，通过具体情境的深度浸润界定现象的边界与生成[[Champ|场域]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
+> - **最大解释潜力（Greatest Explanatory Potential）** [[Grounded Theory|扎根理论]]分析中对经验数据具备最强大的概念整合与解释力，其他次级范畴均反复紧密地与之产生实质关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
+> - **因果[[Paradigm|范式]]拓扑中枢（Causal Paradigm Hub）** 在[[Axial Coding|主轴编码]]中充当因果条件、情境脉络、中介条件、行动/互动策略与结果六大要素的结构核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 562)]]
+> - **[[Story Line|故事线]]整合纽带（Storyline Integration Hub）** 作为统领全篇叙事的主导故事线核心构件，将分散范畴在维度属性上系统对接并达致[[Saturation|理论饱和]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
 
 > [!logic-map]- 核心现象在质性探究全流程中的要素关系
 > ```mermaid
@@ -169,20 +166,20 @@ updated: 2026-10-18
 ### 命题一　理论整合收敛于具有最大解释潜力的核心范畴以建构高概念密度
 
 > [!concept-lens] 理论整合与概念密度
-> 质性分析从离散编码提升为实质理论的关键，在于确立能够整合全部因果网络与叙事故事线的核心范畴，实现理论饱和与高概念密度。
+> 质性分析从离散编码提升为实质理论的关键，在于确立能够整合全部因果网络与叙事[[Story Line|故事线]]的核心范畴，实现[[Saturation|理论饱和]]与高概念密度。
 
 > [!claim] Strauss (1987)
-> **核心范畴具备最大解释潜力** 扎根理论分析必须在众多范畴中识别出具有最大解释潜力的核心范畴，所有其他次级范畴反复且紧密地与之产生实质关联。选择性编码正是将所有已建立的范畴围绕核心范畴进行系统整合与经验回测的过程，通过理论饱和达成高概念密度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）。核心范畴在整合中展现为三重结构功能：充当六要素范式模型的引力轴心（因果条件、中介脉络与行动策略均围绕其展开）、汇聚主导故事线（将分散范畴在维度属性上对接并检验关联），以及作为编码包容层级系统的顶层整合节点。
+> **核心范畴具备最大解释潜力** [[Grounded Theory|扎根理论]]分析必须在众多范畴中识别出具有最大解释潜力的核心范畴，所有其他次级范畴反复且紧密地与之产生实质关联。[[Selective Coding|选择性编码]]正是将所有已建立的范畴围绕核心范畴进行系统整合与经验回测的过程，通过理论饱和达成高概念密度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）。核心范畴在整合中展现为三重结构功能：充当六要素[[Paradigm|范式]]模型的引力轴心（因果条件、中介脉络与行动策略均围绕其展开）、汇聚主导故事线（将分散范畴在维度属性上对接并检验关联），以及作为编码包容层级系统的顶层整合节点。
 
 ---
 
 ### 命题二　探究设计坚持单一聚焦与非方向性语言以保障质性生成真实性
 
 > [!concept-lens] 探究设计与语言中立
-> 质性研究在设计前端必须严守单一探索聚焦点与中立描述语言，防止研究者先验价值判断预先固化变量关系或污染经验涌现过程。
+> [[Qualitative Research|质性研究]]在设计前端必须严守单一探索聚焦点与中立描述语言，防止研究者先验价值判断预先固化[[Variable|变量]]关系或污染经验[[Emergence|涌现]]过程。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
-> **单一聚焦与非方向性准则维护探究开放性** 质性目的陈述与核心提问推进单一核心现象，着重探明单一观念的深层内涵，避免在设计初期过早固化变量关联。同时，依据非方向性法则（Law of Nondirection），界定核心现象时严禁使用暗示积极或消极结果的价值预设词汇，确保经验材料的开放性生成（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 125–126]]）。
+> **单一聚焦与非方向性准则维护探究[[Open-Mindedness|开放性]]** 质性[[Purpose Statement|目的陈述]]与核心提问推进单一核心现象，着重探明单一观念的深层内涵，避免在设计初期过早固化变量关联。同时，依据[[Nondirectional Language|非方向性法则]]（Law of Nondirection），界定核心现象时严禁使用暗示积极或消极结果的价值预设词汇，确保经验材料的开放性生成（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 125–126]]）。
 
 ---
 
@@ -192,7 +189,7 @@ updated: 2026-10-18
 > 在微观经验拆解后，核心现象充当拓扑中心，将条件、情境、行动与后果编织为有机自洽的因果解释网络。
 
 > [!claim] Strauss and Corbin (1990)
-> **六要素范式模型围绕核心现象建立因果网络** 主轴编码通过因果条件、核心现象、情境脉络、中介条件、行动/互动策略与结果六大要素重构数据。核心现象在这一拓扑网络中处于中心位置，脱离核心现象的组织整合，各个因果要素将退化为互不连贯的碎片（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
+> **六要素范式模型围绕核心现象建立因果网络** [[Axial Coding|主轴编码]]通过因果条件、核心现象、情境脉络、中介条件、行动/互动策略与结果六大要素重构数据。核心现象在这一拓扑网络中处于中心位置，脱离核心现象的组织整合，各个因果要素将退化为互不连贯的碎片（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
 
 ---
 
@@ -210,11 +207,11 @@ updated: 2026-10-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1967 — 扎根理论核心范畴提出** 巴尼·格拉瑟与安塞尔姆·施特劳斯（Glaser & Strauss, 1967）在《扎根理论的发现》中提出“核心范畴（Core Category）”，作为持续比较分析中整合其他类属的理论基石。
-> - **1987–1990 — 范式模型与故事线规范化** 施特劳斯（Strauss, 1987）与施特劳斯与科宾（Strauss & Corbin, 1990）系统确立六要素范式模型，将核心现象正式确立为[[Axial Coding|主轴编码]]的结构枢纽与[[Selective Coding|选择性编码]]中故事线的核心承载者。
-> - **1994–2003 — 质性研究设计规范化** 约翰·克雷斯威尔（Creswell, 1994, 2003）将“核心现象”引入质性研究设计规范，确立了[[Purpose Statement|目的陈述]]脚本、核心提问公式与[[Nondirectional Language|非方向性语言]]准则。
+> - **1967 — [[Grounded Theory|扎根理论]]核心范畴提出** 巴尼·格拉瑟与安塞尔姆·施特劳斯（Glaser & Strauss, 1967）在《扎根理论的发现》中提出“核心范畴（Core Category）”，作为持续比较分析中整合其他类属的理论基石。
+> - **1987–1990 — [[Paradigm|范式]]模型与[[Story Line|故事线]]规范化** 施特劳斯（Strauss, 1987）与施特劳斯与科宾（Strauss & Corbin, 1990）系统确立六要素范式模型，将核心现象正式确立为[[Axial Coding|主轴编码]]的结构枢纽与[[Selective Coding|选择性编码]]中故事线的核心承载者。
+> - **1994–2003 — [[Qualitative Research|质性研究]]设计规范化** 约翰·克雷斯威尔（Creswell, 1994, 2003）将“核心现象”引入质性研究设计规范，确立了[[Purpose Statement|目的陈述]]脚本、核心提问公式与[[Nondirectional Language|非方向性语言]]准则。
 > - **2011 — 编码阶梯与教材方法论定型** [[Louis Cohen|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）在经典专著第 30 章中，将核心现象打通并嵌入[[Content Analysis|内容分析]]与编码包容层级架构（Ch. 30），阐释其与[[Domain Analysis|领域分析]]及理论生成的衔接规程。
-> - **2020s — 计算质性分析与人机协同演进** 在 CAQDAS 语义知识图谱与大语言模型（LLM）时代，文本主题建模（Topic Modeling）与无监督语义聚类能够快速生成候选核心节点，但最终对核心现象的理论命名、主轴关系对齐与认识论审校，仍依赖人类学者的反身性判断。
+> - **2020s — 计算质性分析与[[Man-Computer Symbiosis|人机协同]]演进** 在 [[Qualitative Computer Software|CAQDAS]] 语义知识图谱与大语言模型（LLM）时代，文本主题建模（Topic Modeling）与无监督语义聚类能够快速生成候选核心节点，但最终对核心现象的理论命名、主轴关系对齐与[[Epistemology|认识论]]审校，仍依赖人类学者的[[Reflexivity|反身性]]判断。
 
 ---
 
@@ -225,27 +222,27 @@ updated: 2026-10-18
 > > [!axis] 单一核心范畴 vs 多元网状范畴
 > > 争论理论建构是否必须强行收敛于单一核心范畴，抑或可以容纳多个并列或块茎式的分布式理论中心。
 > >
-> > - **Strauss and Corbin (1990)** 坚持一元整合原则，认为扎根理论必须具备一个主导性核心范畴，否则理论将失去概念聚集力与清晰的[[Story Line|故事线]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
-> > - **建构主义与后现代学者（Charmaz, 2006; Clarke, 2005）** 批评强求单一核心范畴是[[Structural Functionalism|结构功能主义]]的简化残余，主张社会生活充满多重矛盾与去中心化特征，应允许情境分析（Situational Analysis）展现多元弥散的理论构型。
+> > - **Strauss and Corbin (1990)** 坚持一元整合原则，认为[[Grounded Theory|扎根理论]]必须具备一个主导性核心范畴，否则理论将失去概念聚集力与清晰的[[Story Line|故事线]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
+> > - **[[Constructivist Paradigm|建构主义]]与后现代学者（Charmaz, 2006; Clarke, 2005）** 批评强求单一核心范畴是[[Structural Functionalism|结构功能主义]]的简化残余，主张社会生活充满多重矛盾与去中心化特征，应允许情境分析（Situational Analysis）展现多元弥散的理论构型。
 >
-> > [!axis] 预先设计锚定 vs 完全后生涌现
+> > [!axis] 预先设计锚定 vs 完全后生[[Emergence|涌现]]
 > > 争论研究者在进入田野前是否可以在[[Purpose Statement|目的陈述]]中预设尝试性核心现象。
 > >
 > > - **[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]** 主张在研究提议中设定明确的初步核心现象是获得学术论证合法性与对齐[[Research Question|研究问题]]的必要规范，只要保持开放演化即可。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
-> > - **Glaser (1992)** 强烈反对任何形式的前置预设，坚称真正的核心范畴必须完全在彻底沉浸于数据后自然浮现，任何前置写作脚本都会诱发对经验材料的形式主义强加。
+> > - **Glaser (1992)** 强烈反对任何形式的前置预设，坚称真正的核心范畴必须完全在彻底沉浸于数据后自然浮现，任何前置[[Research Writing Script|写作脚本]]都会诱发对经验材料的形式主义强加。
 
 ---
 
 ## 应用案例
 
-核心现象在质性探究中体现为两类关键应用形态：在研究设计前端转化为标准化的目的陈述与核心提问，在数据分析阶段转化为扎根理论故事线与核心范畴，并在跨质性流派实证研究中具有广泛的操作范式：
+核心现象在质性探究中体现为两类关键应用形态：在研究设计前端转化为标准化的[[Purpose Statement|目的陈述]]与核心提问，在数据分析阶段转化为[[Grounded Theory|扎根理论]][[Story Line|故事线]]与核心范畴，并在跨质性流派实证研究中具有广泛的操作[[Paradigm|范式]]：
 
-> [!proc] [[Purpose Statement\|目的陈述]]写作脚本与[[Central Question\|核心研究问题]]转化规程
+> [!proc] [[Purpose Statement\|目的陈述]][[Research Writing Script|写作脚本]]与[[Central Question\|核心研究问题]]转化规程
 > 1. **选定核心探索动词** 使用“理解”、“探索”、“发现”、“描述”等非方向性动词。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 125)]]
 > 2. **嵌入核心现象** 明确填写单一概念，坚决剔除任何暗示积极或消极结果的方向性修饰词。
-> 3. **锚定研究参与者与场所** 标明具体情境边界与文化场域。
+> 3. **锚定研究参与者与场所** 标明具体情境边界与文化[[Champ|场域]]。
 > 4. **提供尝试性操作界定** 依据已有文献或前期观察，给出核心现象在当前研究阶段的暂定工作定义。
-> 5. **转换为核心研究问题** 将核心现象直接映射为质性提问（*What is the [核心现象] for [参与者] at [研究场所]?*），子问题仅用于现象的维度展开，严禁节外生枝引入并列现象。
+> 5. **转换为核心[[Research Question|研究问题]]** 将核心现象直接映射为质性提问（*What is the [核心现象] for [参与者] at [研究场所]?*），子问题仅用于现象的维度展开，严禁节外生枝引入并列现象。
 
 > [!proc]- 扎根理论核心范畴提炼与[[Story Line\|故事线]]整合规程
 > 1. **撰写描述性故事线（Story Line）** 暂时抽离微观代码，用通俗语言写下一篇 1–2 页的整体叙事概览，描绘核心人物在特定情境中所遭遇的核心困境与主要行动过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 561)]]
@@ -254,7 +251,7 @@ updated: 2026-10-18
 > 4. **对照原始经验文本验证关联** 重新调取不同参与者的原始访谈与现场切片，检验各范畴在维度属性上的关联是否契合现实数据，防止产生脱离数据的空洞理论假设。
 > 5. **修补范畴漏洞并达致[[Saturation\|理论饱和]]** 审查核心范畴内部是否存在概念薄弱点或未饱和维度，开展针对性的[[Theoretical Sampling\|理论抽样]]与补充编码，直至理论体系达到完全的概念密度与逻辑自洽。
 
-> [!row-contrast] 跨质性研究流派经典文献中的核心现象操作范例
+> [!row-contrast] 跨[[Qualitative Research|质性研究]]流派经典文献中的核心现象操作范例
 > | [[Research Topic\|研究主题]]领域 | 核心现象规范表述（Central Phenomenon） | 质性探究进路 | 实证文献出处 |
 > |---|---|---|---|
 > | 教师边缘化处境 | 教师专业身份的边缘化历程与学校生存体验 | [[Narrative Research\|叙事研究]]（Narrative） | Huber and Whelan (1999); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 125)]] |
@@ -281,13 +278,13 @@ updated: 2026-10-18
 >
 > | 条目 | 类型 | 贡献与核心关联说明 |
 > |---|---|---|
-> | [[Axial Coding\|主轴编码]] | 方法 | 核心现象构成了主轴编码六要素范式模型不可或缺的拓扑引力中心。 |
+> | [[Axial Coding\|主轴编码]] | 方法 | 核心现象构成了主轴编码六要素[[Paradigm\|范式]]模型不可或缺的拓扑引力中心。 |
 > | [[Grounded Theory\|扎根理论]] | 方法 | 核心现象在扎根理论理论建构中最终深化为统领全局的“核心范畴”。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 分析单位为核心现象的经验观察与文本抽取提供了微观操作边界与语境支撑。 |
 > | [[Domain Analysis\|领域分析]] | 概念 | 领域分析发掘的宏观象征范畴与层级包容结构，为核心范畴的提炼提供了上位分类基础。 |
-> | [[Qualitative Codebook\|质性编码本]] | 概念 | 核心现象及其下辖主轴范畴直接决定了质性编码本的核心架构与层级树状展开。 |
-> | [[Purpose Statement\|目的陈述]] | 概念 | 核心现象是质性目的陈述写作脚本中最核心的必填构念，界定探究的实质灵魂。 |
-> | [[Central Question\|核心研究问题]] | 概念 | 核心研究问题是核心现象在问题层面的直接转化与句法对应。 |
+> | [[Qualitative Codebook\|质性编码本]] | 概念 | 核心现象及其下辖主轴范畴直接决定了[[Coding in Qualitative Research\|质性编码]]本的核心架构与层级树状展开。 |
+> | [[Purpose Statement\|目的陈述]] | 概念 | 核心现象是质性目的陈述[[Research Writing Script\|写作脚本]]中最核心的必填[[Construct\|构念]]，界定探究的实质灵魂。 |
+> | [[Central Question\|核心研究问题]] | 概念 | 核心[[Research Question\|研究问题]]是核心现象在问题层面的直接转化与句法对应。 |
 > | [[Nondirectional Language\|非方向性语言]] | 概念 | 非方向性法则是界定核心现象不可逾越的方法论纪律，严防价值预设污染探究。 |
 > | [[Story Line\|故事线]] | 概念 | 撰写主导故事线是研究者从复杂数据中锁定并提炼核心现象的关键跳板。 |
 > | [[Saturation\|理论饱和]] | 概念 | 当针对核心现象及其属性的补充抽样不再产生新的理论见解时，探究达到饱和状态。 |

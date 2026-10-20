@@ -9,7 +9,7 @@ aliases:
 summary: "由法国开发署、法语国家国际组织与非洲教育质量评估机构联合研发的面向法语区撒哈拉以南非洲小学的课堂观察多模态研究工具，通过结合全景课堂录像、定时互动编码网格、学生练习任务跟踪与课后反思访谈，深入剖析大班额多语言复杂生态下教师教学时间组织、互动话语形态与学生真实学业获得之间的关联机制。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 14
+instrument_related_count: 13
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Observation Method]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons: []

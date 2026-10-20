@@ -8,7 +8,7 @@ aliases:
 summary: "源自社会认识论、学习科学与人机交互核心构念，指个体在遭遇相左证据、异质观点或复杂决策任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与校准批判性信任的必要机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Causal Modeling]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"

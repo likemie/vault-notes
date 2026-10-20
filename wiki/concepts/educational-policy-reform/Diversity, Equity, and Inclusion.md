@@ -12,7 +12,7 @@ aliases:
 summary: "指强调在组织、教育与学术机构中促进人口学背景多样性、消除历史与结构性不平等、并构建包容性文化与制度环境的政策框架与价值理念。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

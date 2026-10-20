@@ -9,7 +9,7 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Realism]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nominalism
@@ -159,5 +158,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 阐释 Burrell and Morgan 四组哲学假设中的唯名论立场与 Greenfield 的组织唯名论；全书亦贯穿[[Ontology\|本体论]]与[[Qualitative Research\|质性研究]]的哲学讨论。

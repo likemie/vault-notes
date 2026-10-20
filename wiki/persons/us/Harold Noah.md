@@ -10,7 +10,7 @@ summary: "美籍英裔著名比较教育学家与教育经济学家，哥伦比�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
   - "[[Problem Approach]]"
   - "[[Vignettes in Research]]"
   - "[[Historical-Comparative Method]]"

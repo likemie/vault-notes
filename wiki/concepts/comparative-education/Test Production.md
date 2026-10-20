@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育与全球治理研究中考察国际大规模评估起源的分析概念，指跨国组织在测试工具正式施测前开展的范式设定、议题界定、技术招标与试题编制过程；测验生产早期是跨国组织确立专业威权、固定能力定义并向成员国转移评价技术的关键政治场域。"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

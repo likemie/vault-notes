@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 87
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Problem Finding]]"
   - "[[Epistemological Coherence]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
@@ -115,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Critique of Randomized Controlled Trials
@@ -224,7 +225,7 @@ updated: 2026-10-17
 > 该命题从批判政策学与教育政治经济学视角，剖析受控试验如何被权力网络吸纳为脱离教学实际、推卸系统责任与掩饰意识形态决断的治理借口。
 
 > [!claim] Helgetun, R., & Menter, I. (2022)
-> **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使循证决策异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]
+> **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使[[Evidence-Based Policy-Making|循证决策]]异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]
 
 > [!claim] Steiner-Khamsi, G. et al. (2024)
 > **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]

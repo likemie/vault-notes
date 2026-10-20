@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 68
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Communities of Practice]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Open-Mindedness]]"
   - "[[Operationalization]]"
   - "[[Paradigm Wars]]"
@@ -49,6 +48,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Global Educational Discourse]]"
   - "[[Educational Meliorism]]"
+  - "[[Discursive Field]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Problem Approach]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Ivan Snook]]"
@@ -209,7 +208,7 @@ updated: 2026-10-20
 > **关注研究动作的预期后果** 强调实用主义哲学将真理置于行动后果之中，研究始终嵌入在社会、历史与政治情境里。（Cherryholmes, 1992; Morgan, 2007）
 
 > [!claim] Dewey (1929); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
-> **实证证据是明智探究的假设而非行动规则** [[Ivan Snook|斯努克]]等人援引[[John Dewey|杜威]]（Dewey, 1929, *The Sources of a Science of Education*）指出，在实用主义[[Epistemology|认识论]]中，“没有任何经验发现可以直接转化为教育行动的规则；证据所能提供的，仅仅是供教育者进行明智问题求解、审视教育目的之假设”。当当代量化实证研究（如[[John Hattie|哈蒂]]的[[Meta-analysis|元分析]][[Effect Size|效应量]]排名与国家标准政策）试图跳过哲学反思、将实证数据直接转化为自上而下的政策铁律与技术治理[[Disciplina and Doctrina|规训]]时，恰恰背叛了古典实用主义对情境性反思与探究[[Open-Mindedness|开放性]]的根本承诺。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
+> **实证证据是明智探究的假设而非行动规则** [[Ivan Snook|斯努克]]等人援引[[John Dewey|杜威]]（Dewey, 1929, *The Sources of a Science of Education*）指出，在实用主义[[Epistemology|认识论]]中，“没有任何经验发现可以直接转化为教育行动的规则；证据所能提供的，仅仅是供教育者进行明智问题求解、审视教育目的之假设”。当当代量化实证研究（如[[John Hattie|哈蒂]]的[[Meta-analysis|元分析]][[Effect Size|效应量]]排名与国家标准政策）试图跳过哲学反思、将实证数据直接转化为自上而下的政策铁律与技术治理规训时，恰恰背叛了古典实用主义对情境性反思与探究[[Open-Mindedness|开放性]]的根本承诺。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
 
 ---
 
@@ -271,7 +270,7 @@ updated: 2026-10-20
 > **实用主义转向与宏观治理去政治化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在冷战后发生根本性政策转向，放弃了关于教育本质目的、社会学条件与民主伦理的广泛哲学辩论，将全部治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式（Pragmatic Paradigm）”。这种以解决问题为幌子的实用主义操作，不仅没有消除意识形态，反而将新自由主义对经济效率与[[Human Capital Theory|人力资本]]增值的偏好包装为不可置疑的技术常识，实现了全球教育治理深层的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **紧迫实用主义驱动的过度简化与话语盲区** 杰森·比奇（Jason Beech）深入剖析跨国多边机构在生成[[Global Educational Discourse|全球教育话语]]时的认知机制，指出以[[World Bank|世界银行]]、经合组织与[[UNESCO|联合国教科文组织]]为代表的国际组织，其政策干预受制于强烈的“紧迫实用主义（urgent pragmatism）”与[[Educational Meliorism|改良主义]]行动逻辑。面对在短周期内交付“见效且具实操性”政策处方的行政压力，国际机构将原本复杂的全球学术理论深度删剪与过度简化为标准化的五大支柱模型。更为关键的是，这种对紧迫实用主义的执着使国际机构陷入集体认知盲区，使其无法审视自身实践所依托的潜意识假设、熟悉概念与未经反思的思维方式，最终在自限话语空间的同时，将全球教育改革锁死在排他性的技术官僚脚本之内。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
+> **紧迫实用主义驱动的过度简化与话语盲区** 杰森·比奇（Jason Beech）深入剖析跨国多边机构在生成[[Global Educational Discourse|全球教育话语]]时的认知机制，指出以[[World Bank|世界银行]]、经合组织与[[UNESCO|联合国教科文组织]]为代表的国际组织，其政策干预受制于强烈的“紧迫实用主义（urgent pragmatism）”与[[Educational Meliorism|改良主义]]行动逻辑。面对在短周期内交付“见效且具实操性”政策处方的行政压力，国际机构将原本复杂的全球学术理论深度删剪与过度简化为标准化的五大支柱模型。更为关键的是，这种对紧迫实用主义的执着使国际机构陷入集体认知盲区，使其无法审视自身实践所依托的潜意识假设、熟悉概念与未经反思的思维方式，最终在自限[[Discursive Field|话语空间]]的同时，将全球教育改革锁死在排他性的技术官僚脚本之内。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
 
 > [!citation-card] 比奇论国际组织的紧迫实用主义与话语自限
 > 国际机构对紧迫实用主义问题的关注，使其无法看清自身的实践究竟建立在何种假设、熟悉观念以及确立已久且未经检视的思维方式之上。通过这种方式，国际机构限制了自身的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]

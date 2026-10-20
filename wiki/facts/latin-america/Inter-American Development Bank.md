@@ -11,7 +11,7 @@ subtype: organization
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,7 +43,6 @@ related_theories:
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Documentary Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"

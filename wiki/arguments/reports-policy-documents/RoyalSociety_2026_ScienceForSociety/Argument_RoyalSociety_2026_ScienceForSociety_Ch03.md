@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -73,7 +73,8 @@ related_facts:
   - "[[Public Attitudes to Science]]"
   - "[[National Academy of Sciences]]"
   - "[[Chinese Academy of Sciences]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-03
 updated: 2026-10-20
@@ -387,7 +388,7 @@ updated: 2026-10-20
 >   - 阿里·贝利（Ali Bailey）：弗朗西斯·克里克研究所（The Francis Crick Institute）传播与公共参与总监；
 >   - 莫希特·巴卡亚（Mohit Bakaya）：英国广播公司第四台（BBC Radio 4）主监兼话语节目总监；
 >   - 安德鲁·科恩（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
->   - 汤姆·克拉克（ToM Clarke）：天空新闻台（Sky News）科技主编；
+>   - 汤姆·克拉克（[[Theory of Mind|ToM]] Clarke）：天空新闻台（Sky News）科技主编；
 >   - 弗兰克·凯利教授（Professor Frank Kelly）：大英帝国司令勋章获得者（Commander of the Order of the British Empire, CBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学系统数学教授；
 >   - 阿比盖尔·莫布斯（Abigail Mobbs）：BBC 新闻部（BBC News）社交媒体主管；
 >   - 亨利·斯科夫罗夫特（Henry Scowcroft）：资深自由科学作家兼传播战略专家；

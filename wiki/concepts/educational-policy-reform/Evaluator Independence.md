@@ -10,7 +10,7 @@ aliases:
 summary: "要求实证干预评估由与项目开发者无经济利益或学术隶属关联的独立团队完成的方法学准则，用于消除研发者自研自评导致的效应量夸大并确立循证最高认证。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons:
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evaluator Independence
@@ -279,7 +278,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统比对全球 10 家循证清算中心对独立评估者的准入规约，实证分析开发者自评导致的[[Effect Size\|效应量]]夸大现象。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英国 [[Education Endowment Foundation\|EEF]] 评估者专家库、三方资助协议及 NPD 国家客观统考直接对接的制度化独立评估模式。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 探讨课程研发者在循证评级体系中的角色定位，以及大规模第三方独立评估与外部复制对破除[[Replication in Education Research\|复现危机]]的决定性意义。

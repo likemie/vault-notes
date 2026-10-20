@@ -6,10 +6,10 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 53
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-leadership-administration
   - theme/school-leadership
@@ -29,19 +29,16 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Output-Oriented Governance]]"
   - "[[Variable]]"
-  - "[[Feedback]]"
-  - "[[Classroom Management]]"
   - "[[Visible Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Educational Decentralization]]"
   - "[[Performance Indicators]]"
   - "[[Instructional Leadership]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Dependent Variable]]"
+  - "[[Neo-Taylorism]]"
   - "[[Doxa]]"
   - "[[Cult of Efficiency]]"
-  - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -64,7 +61,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
   - "[[Analysis of Variance]]"
 related_persons:
   - "[[Jorunn Møller]]"
@@ -77,7 +73,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # School Leadership
@@ -198,11 +194,11 @@ updated: 2026-10-17
 > [!concept-lens] 组织使能杠杆与实践价值分层
 > 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
-> [!claim] Kalmendal et al. (2025)
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
-> [!claim] Golovchin (2019); Eacott (2017)
-> **追逐领导力绩效诱发行政官僚异化与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效[[Disciplina and Doctrina|规训]]正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
+> [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM|Eacott (2017)]]
+> **追逐领导力绩效诱发行政官僚异化与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效规训正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
 
 ---
 
@@ -241,10 +237,10 @@ updated: 2026-10-17
 > >
 > > - **主流管理学研究** 倾向于将学校成败全部归功于个别卓越校长的魄力与决策。
 > > - **批判政策学者** 强调分布式领导与集体实践，批判英雄叙事对制度性不平等的掩盖。
-> >
-> > [!axis] 经合组织领导力话语的去政治化包装
+>
+> > [!axis] [[OECD|经合组织]]领导力[[Discourse|话语]]的去政治化包装
 > > OECD 报告将表面中立的最佳实践模型呈现为去政治化的技术操作，忽视了教育改革本质上深嵌于福利再分配与意识形态博弈之中。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 377)]]
-> >
+>
 > > [!axis] 市场竞争驱动与教育正义追求的深层冲突
 > > 在市场驱动的[[School Autonomy\|学校自主权]]体制下，校长面临成为自负盈亏企业家的巨大压力，往往导致办学目标向争夺优势生源倾斜，损害了面向边缘群体的教育公平。
 
@@ -286,15 +282,15 @@ updated: 2026-10-17
 > | 条目 | 类型 | 贡献与核心关联说明 |
 > |---|---|---|
 > | [[Evidence-Informed Practice]] | 实践形态 | 学校领导力作为组织使能支柱，推动外部科研证据在校本场景落地。 |
-> | [[Quality Use of Research Evidence Framework]] | 理论框架 | 将榜样示范与制度化排程确立为促进高质量证据使用的使能要素。 |
+> | [[Quality Use of Research Evidence Framework]] | 理论框架 | 将榜样示范与制度化排程确立为促进高质量[[Research Utilization\|证据使用]]的使能要素。 |
 > | [[Professional Learning Community]] | 组织载体 | 学校领导通过划拨专有教研工时所培育的专业协作共同体。 |
 > | [[School Autonomy]] | 制度背景 | 分权与学校自主权改革重构了校长的权责边界与企业家角色。 |
-> | [[New Public Management]] | 治理范式 | 绩效审计与市场化问责导致校长职业习性撕裂与目标置换。 |
+> | [[New Public Management]] | 治理[[Paradigm\|范式]] | 绩效审计与市场化问责导致校长职业习性撕裂与目标置换。 |
 > | [[Transformative Leadership]] | 关联概念 | 强调解构不平等权力结构、促进社会正义的批判性领导取向。 |
 > | [[Instructional Leadership]] | 关联概念 | 聚焦课堂教学质量诊断与教师教学行为指导的专业领导形态。 |
 > | [[Jorunn Møller]] | 代表学者 | 主持 ISSPP 跨国成功学校校长项目，阐明领导力的情境特异性。 |
-> | [[Scott Eacott]] | 代表学者 | 运用布迪厄场域理论深度批判学校领导力的管理主义与新泰勒主义异化。 |
-> | [[Herbert Altrichter]] | 代表学者 | 实证揭示产出导向治理下校长工时重置与向教育企业管理者转型。 |
+> | [[Scott Eacott]] | 代表学者 | 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]理论深度批判学校领导力的管理主义与[[Neo-Taylorism\|新泰勒主义]]异化。 |
+> | [[Herbert Altrichter]] | 代表学者 | 实证揭示[[Output-Oriented Governance\|产出导向治理]]下校长工时重置与向教育企业管理者转型。 |
 
 ---
 

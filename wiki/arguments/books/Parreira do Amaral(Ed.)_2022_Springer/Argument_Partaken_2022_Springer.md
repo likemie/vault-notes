@@ -9,10 +9,10 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#ede9fe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Cham: Springer."
 publication_place: "Cham"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
+  - "[[Geopolitics]]"
   - "[[Narrative Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Typification]]"
@@ -43,13 +44,14 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Chain of Evidence]]"
   - "[[Economic and Industrial Espionage]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Beijing Consensus]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"
   - "[[STEM Education]]"
   - "[[Epistemic Stances]]"
   - "[[Positivism]]"
+  - "[[Discursive Field]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -80,7 +82,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -98,7 +100,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
+> 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美[[Geopolitics|地缘政治]]紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
 > - Foucault 的[[Panopticism|全景敞视主义]] — 分析监视如何通过"永久可见性"自动运行权力
@@ -110,7 +112,7 @@ citation_aliases:
 
 > [!info]
 > 属于理论讨论与概念分析文章。方法包括：
-> - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge]]"等术语的历史使用频率
+> - 方法：Google Books Ngram Viewer 词频分析，追踪"[[Geopolitics|geopolitics]]""[[Geopolitics of Knowledge]]"等术语的历史使用频率
 > - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
 > - 分析逻辑：概念区分（[[Knowledge Production\|知识生产]] vs [[Knowledge Transfer\|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
@@ -122,7 +124,7 @@ citation_aliases:
 
 ### 第一步：确立 GPK 的重要性和历史深度（§5.1, pp.67–69）
 
-**观察 1** 知识已成为当代世界各种自我描述的核心——[[Knowledge-Based Economy|知识经济]]、信息社会、[[Network Society|网络社会]]、监视资本主义——这些标签都以"知识"为关键词。因此，围绕知识展开的地缘政治是真实且高度重要的，直接影响可持续发展、和平与安全(p.67)。
+**观察 1** 知识已成为当代世界各种自我描述的核心——[[Knowledge-Based Economy|知识经济]]、信息社会、[[Network Society|网络社会]]、监视资本主义——这些标签都以"知识"为关键词。因此，围绕知识展开的[[Geopolitics|地缘政治]]是真实且高度重要的，直接影响可持续发展、和平与安全(p.67)。
 
 **观察 2** 这一判断并非新见。Bacon 在 17 世纪即已指出"knowledge is power"（知识即权力）——但在 Bacon 的神学语境中，知识是神圣属性（potestas Dei），不带有地缘政治含义。到了 19 世纪德国，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）已明确演变为地缘政治教义——服务于威廉德国和纳粹时期的扩张主义与霸权政治(p.67–68)。
 
@@ -210,9 +212,9 @@ Partaken 将中美技术紧张作为整个论证的经验验证案例嵌入此�
 监视（§5.6.4）之所以不同于间谍，在于"被占用的知识类型，尤其是其合法持有者是谁"——被监视者被假定为实际或潜在的有害者。Partaken 对照了两类监视模式：
 
 - 美国模式(Snowden, 2019 揭露)：全球大规模监视在公众不知情、更不用说同意的情况下运作，违反联邦宪法，"对普通公民的侵害超过对真正罪犯"(p.81)。
-- 中国模式：[[China Social Credit System|社会信用体系]]——大数据被用于公民行为的永久性评估，"根据个人累积评分，公民被允许或禁止旅行，其子女被允许或拒绝获得优质教育"(p.81)。
+- [[Beijing Consensus|中国模式]]：[[China Social Credit System|社会信用体系]]——大数据被用于公民行为的永久性评估，"根据个人累积评分，公民被允许或禁止旅行，其子女被允许或拒绝获得优质教育"(p.81)。
 
-Partaken 在此援引 Foucault《[[Disciplina and Doctrina|规训]]与惩罚》(1995)中 Bentham [[Panopticism|全景敞视]]监狱的核心洞察来分析两种模式共享的运作逻辑："有意识和永久性可见的状态确保权力自动运行……监视在其效果上是永久性的，即使其行动是间断的"(p.201, 引自 p.81)。因此，国家支持的全民监视的"最严重损害"不是曝光了多少信息，而是"以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的[[Virtue-Oriented Learning Process|美德导向]]价值论的贬低"(p.81)。
+Partaken 在此援引 Foucault《规训与惩罚》(1995)中 Bentham [[Panopticism|全景敞视]]监狱的核心洞察来分析两种模式共享的运作逻辑："有意识和永久性可见的状态确保权力自动运行……监视在其效果上是永久性的，即使其行动是间断的"(p.201, 引自 p.81)。因此，国家支持的全民监视的"最严重损害"不是曝光了多少信息，而是"以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的[[Virtue-Oriented Learning Process|美德导向]]价值论的贬低"(p.81)。
 
 **模态四：审查（§5.6.5）**
 
@@ -243,7 +245,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 **综合三：回归 Bacon**
 
 开篇的 Bacon 引文在结论中获得了新的含义：“主权隐藏在知识之中”
-> ("The sovereignty lieth hid in knowledge")——主权隐藏于知识之中。Partaken 将这句话从 17 世纪的神学语境中移出，重新投射到当代：今天，正如 Bacon 的时代一样，"个体、群体和民族国家的主权在于生产和治理知识的能力和容量"。知识不仅是权力——它已经是"文明和时代的主要货币"，既是地缘政治中"持有和维持权力的目标，也是手段"。最终定义："知识地缘政治因此是在不同地理空间和话语空间中的人们之间，为知识并通过知识而进行的政治动态"(p.85)。
+> ("The sovereignty lieth hid in knowledge")——主权隐藏于知识之中。Partaken 将这句话从 17 世纪的神学语境中移出，重新投射到当代：今天，正如 Bacon 的时代一样，"个体、群体和民族国家的主权在于生产和治理知识的能力和容量"。知识不仅是权力——它已经是"文明和时代的主要货币"，既是地缘政治中"持有和维持权力的目标，也是手段"。最终定义："知识地缘政治因此是在不同地理空间和[[Discursive Field|话语空间]]中的人们之间，为知识并通过知识而进行的政治动态"(p.85)。
 
 > **全章的逻辑闭环** Partaken 从"knowledge is power"（Bacon, 17 世纪）起笔，以"the sovereignty lieth hid in knowledge"（同一句 Bacon）收束。中间的论证完成了从"知识的静态生产"到"知识的动态转移"的范式转换，以中美 GPK 紧张为经验试金石，以Lyotard 的[[Van Leeuwen's Legitimation Theory\|合法化理论]]和 Foucault 的全景敞视主义为理论锚点，以六模态类型学为分析工具。最终结论不是简单地断言"知识转移比知识生产更重要"，而是论证了一个方法论立场：要理解当代地缘政治，必须将注意力从"知识是什么"转向"知识在被做什么"。
 
@@ -251,7 +253,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 ## 主要发现
 
 > [!success]
-> - "[[Geopolitics of Knowledge\|知识地缘政治]]"（geopolitics of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK [[Discourse|话语]](p.68)
+> - "[[Geopolitics of Knowledge\|知识地缘政治]]"（[[Geopolitics|geopolitics]] of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK [[Discourse|话语]](p.68)
 > - [[Narrative Knowledge\|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory\|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
 > - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
 > - 美国 FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage\|知识产权盗窃]]的调查(p.79)

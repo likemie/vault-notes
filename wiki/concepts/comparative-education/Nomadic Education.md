@@ -7,7 +7,7 @@ aliases:
 summary: "游牧教育是指面向游牧及半游牧畜牧群体的教育政策与教学供给模式；它处于国家推行定居化同化规训与游牧社群维护生计自主权的双重张力之中，既被现代国家用作终结流动性并纳入行政管辖的中心工具，又被游牧家庭策略性地用作防范生计风险、积累社会资本并摆脱外部剥削依赖的家庭保障机制。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,12 +17,12 @@ tags:
   - theme/spatial-turn
   - theme/indigenous-education
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Cultural Capital]]"
   - "[[Sedentarism]]"
   - "[[Educational Level]]"
   - "[[Traveller Education]]"
   - "[[Boarding Schools]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Champ]]"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -57,7 +56,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> 游牧教育（Nomadic Education）是指针对依托天然草场进行季节性转场放牧的游牧与半游牧群体（Pastoral Nomads）所展开的专门化教育供给与制度安排。该概念处于现代民族国家推进定居化同化工程与传统游牧社群维系生计自主性的持续博弈之中，既是国家抹平流动性、实现空间治理与税收行政整合的[[Disciplina and Doctrina|规训]]载体，又是游牧民积累现代[[Cultural Capital|文化资本]]、化解生态风险与破除外部依附的能动策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> 游牧教育（Nomadic Education）是指针对依托天然草场进行季节性转场放牧的游牧与半游牧群体（Pastoral Nomads）所展开的专门化教育供给与制度安排。该概念处于现代民族国家推进定居化同化工程与传统游牧社群维系生计自主性的持续博弈之中，既是国家抹平流动性、实现空间治理与税收行政整合的规训载体，又是游牧民积累现代[[Cultural Capital|文化资本]]、化解生态风险与破除外部依附的能动策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向逐水草而居的非定居群体的正规与非正规教育实践，聚焦物理流动性与定居化制度之间的空间冲突。
@@ -118,7 +117,7 @@ updated: 2026-10-20
 
 ### 命题一　现代国家倾向于将正规学校教育作为消解游牧流动性与推进定居化改造的核心规训工具
 
-> [!concept-lens] 国家定居化[[Disciplina and Doctrina|规训]]维度
+> [!concept-lens] 国家定居化规训维度
 > 探析民族国家为何始终将游牧流动性视为不可治理的落后形态，并动用正规教育机构将流动人口固着在物理与制度网格之中。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] & Stolpe, I.

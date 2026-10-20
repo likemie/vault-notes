@@ -33,6 +33,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Industry Advisory Board]]"
   - "[[Research Security]]"
+  - "[[Geopolitics]]"
   - "[[Technology Infusion]]"
   - "[[Evaluation Research]]"
   - "[[Grand Challenges]]"
@@ -46,8 +47,7 @@ related_concepts:
   - "[[Research Universities]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[University of Waterloo Inventor-Owned IP Policy]]"
@@ -61,7 +61,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -175,7 +175,7 @@ citation_aliases:
 
 13. 大学在决定与哪些产业伙伴合作时，面临一个超越法律合规的价值判断问题。第一层当然是遵守法律和政府制裁规定。但法律底线之上还有道德和伦理考量：环境、社会和治理（[[European Standards and Guidelines|ESG]]）因素是否应该进入合作决策？近年大学投资策略中对气候变化撤资的推动表明，大学对其所建立的关系负有道德责任(p.249)。
 
-14. **[[Research Security|研究安全]]（research security）** 是地缘政治紧张背景下产学合作的新维度。滑铁卢大学采取了多层次策略(pp.249–250)：
+14. **[[Research Security|研究安全]]（research security）** 是[[Geopolitics|地缘政治]]紧张背景下产学合作的新维度。滑铁卢大学采取了多层次策略(pp.249–250)：
     - **第一阶段：教育与会诊**。研究办公室主办了**今日地缘政治时代的研究安全**会议，让利益相关方了解外国行为体对研究的威胁，并听取政府资助机构和官员的安全规划。
     - **第二阶段：制度化支持**。大学组建了**保障研究（Safeguarding Research）** 团队，隶属研究办公室，为研究者的国际研究关系、参与和合作提供持续支持，工作原则是在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学规范之间寻求平衡(p.250)。
 

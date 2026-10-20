@@ -7,7 +7,7 @@ aliases:
 summary: "教育戏剧中关于情感的两级区分：第一级为真实生活原始情感，第二级为艺术中过滤的情感，艺术允许放慢时间以凝思易逝的经验。"
 type: concept
 domain: "educational-philosophy"
-related_count: 3
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Role-playing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -28,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-04
-updated: 2026-09-17
+updated: 2026-10-20
 ---
 # First and Second Order Emotion
 
@@ -82,5 +81,5 @@ updated: 2026-09-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — 在保护入戏与保护入情感策略中运用这一区分，说明[[Role-playing\|角色扮演]]应保护参与者进入第二级情感以延伸学习机会。

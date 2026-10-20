@@ -11,7 +11,7 @@ aliases:
 summary: "知识建构理论与学习科学中的核心协作模式：学生打破固定分组与预设脚本，根据涌现的兴趣、认知需求与探究线索自发组队与流动重组，以通透边界促进全班知识共享与深度建构"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Network Analysis]]"
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jianwei Zhang]]"

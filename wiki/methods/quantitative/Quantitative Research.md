@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 85
+method_related_count: 84
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -96,7 +96,6 @@ related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
 related_instruments: []
@@ -114,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Quantitative Research
@@ -232,7 +231,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 评述[[Scientific Method\|科学方法]]与实证量化进路的发展历程，对其机械还原论与计算崇拜发起[[Epistemology\|认识论]]批判。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 确立量化研究在[[Postpositivism\|后实证主义]]世界观下的操作框架与调查/实验规范流程。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 追踪教育心理学顶级期刊中量化[[Intervention Research\|干预研究]]与[[Non-intervention Research\|非干预研究]]的方法学分布与演进轨迹。

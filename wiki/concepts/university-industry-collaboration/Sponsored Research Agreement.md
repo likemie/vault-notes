@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中最核心的定制化契约工具，企业向大学特定科研项目提供全额定向经费支持，标准条款包含前景知识产权的非排他免版税内部使用许可、限期商业独家谈判选择权及学术论文限期审查发表机制；在企业内部依赖学术参与团队实行两阶段监护机制以平衡学术长周期与季度交付节奏。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Thinking Skills Assessment]]"
 related_persons: []

@@ -7,7 +7,7 @@ aliases:
 summary: "社会学者罗伯·亨德森提出的社会分层与文化资本概念；指特权阶层为彰显自身道德优越感与社会地位而采纳、自身承担极低成本却将严重社会代价转嫁给底层弱势群体的意识形态信念（例如削减地方执法支持或抵制技术警务）。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Predictive Policing]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Rob Henderson]]"

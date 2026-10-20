@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Social-Emotional Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Preregistration]]"
   - "[[Developer-Made Measures]]"
   - "[[Statistical Analysis Plan]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evidence for ESSA
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > - **上线时间 / 运营周期** 2017 年初正式上线，持续高频动态更新，官方网址为 [evidenceforessa.org](https://www.evidenceforessa.org)。
 > - **发起方与经费基础** 由 JHU CRRE 团队自主创建与维护，获得多家慈善基金会资助，面向全球教育决策者与公众完全免费开放。
 > - **覆盖学段与学科领域** 覆盖学前（Pre-K）至 12 年级全部英语阅读、数学以及[[Social-Emotional Learning\|社会情感学习]]干预项目，月度独立访问用户超过 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
-> - **核心痛点破局** 针对官方[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）更新周期冗长（往往滞后数年）、技术条文繁复晦涩且未直接提供对齐 ESSA 拨款法条标签的痛点，提供敏捷、透明且面向一线采购的循证决策支持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
+> - **核心痛点破局** 针对官方[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）更新周期冗长（往往滞后数年）、技术条文繁复晦涩且未直接提供对齐 ESSA 拨款法条标签的痛点，提供敏捷、透明且面向一线采购的[[Evidence-Based Policy-Making|循证决策]]支持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 
 ---
 

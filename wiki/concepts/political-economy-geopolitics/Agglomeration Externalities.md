@@ -8,7 +8,7 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/innovation-ecosystem
   - theme/geopolitics
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Modern Industrial Policy]]"
   - "[[Market Failure]]"
   - "[[Learning by Doing]]"
@@ -57,7 +58,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **集聚外部性（Agglomeration Externalities）**，亦称集聚经济（Agglomeration Economies），指企业、研发机构与专业人才在特定地理空间内紧密相邻而自发产生的外部规模经济与正向生产率溢出效应。根据马歇尔（Marshall）经典理论，其微观机制由**专业化劳动力池共享（Labor Market Pooling）**、**本地化专业投入品与供应商配套（Input Sharing）** 以及**面对面非正式交互带来的技术与知识外溢（Knowledge Spillovers）** 三大要素构成；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]] 在产业政策与高科技地缘政治视角下，集聚外部性构成了战后美国硅谷以及东亚半导体制造基地形成极端地理集中的核心经济动因，同时也构成了评价[[Modern Industrial Policy|现代产业政策]]经济效率损失的核心理论基准。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
+> **集聚外部性（Agglomeration Externalities）**，亦称集聚经济（Agglomeration Economies），指企业、研发机构与专业人才在特定地理空间内紧密相邻而自发产生的外部规模经济与正向生产率溢出效应。根据马歇尔（Marshall）经典理论，其微观机制由**专业化劳动力池共享（Labor Market Pooling）**、**本地化专业投入品与供应商配套（Input Sharing）** 以及**面对面非正式交互带来的技术与知识外溢（Knowledge Spillovers）** 三大要素构成；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]] 在产业政策与高科技[[Geopolitics|地缘政治视角]]下，集聚外部性构成了战后美国硅谷以及东亚半导体制造基地形成极端地理集中的核心经济动因，同时也构成了评价[[Modern Industrial Policy|现代产业政策]]经济效率损失的核心理论基准。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向地理空间邻近性催生的非交易性生产率倍增机制，解释了为何高科技产业即便在全球化交通与通信极为便利的时代，依然高度聚集于少数特定微观区域。
@@ -155,7 +156,7 @@ updated: 2026-10-20
 > - **1890 年代 — 新古典马歇尔外部性奠基** 阿尔弗雷德·马歇尔（Alfred Marshall）在《经济学原理》中系统提炼出[[Industrial District|产业区]]（Industrial Districts）的三大外部经济来源：劳动力池共享、中间投入品共享与知识外溢。
 > - **1990 年代 — 新经济地理学（NEG）形式化建模** 保罗·克鲁格曼（Paul Krugman）等将收益递增与运输成本引入一般均衡模型，从理论上严密证明了初始微小偶发优势如何通过集聚外部性滚雪球式演化为空间极化与制造中心。
 > - **2000–2010 年代 — 硅谷与高技术集群实证爆发** 创新学者深入考察高科技产业中跨企业人员高频流动与非正式网络，证实隐性[[Knowledge Exchange|知识交流]]（[[Tacit Knowledge]] Exchange）对先进制程工艺与架构创新的决定性支撑。
-> - **2020 年代至今 — [[Modern Industrial Policy|现代产业政策]]与地缘政治审视** Bown 与 Wang（2024）等学者将集聚外部性纳入国家安全与大国博弈框架，揭示出于供应链韧性与地缘防务动机强制推行空间分散政策对集聚红利的不可逆稀释效应。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
+> - **2020 年代至今 — [[Modern Industrial Policy|现代产业政策]]与[[Geopolitics|地缘政治]]审视** Bown 与 Wang（2024）等学者将集聚外部性纳入国家安全与大国博弈框架，揭示出于供应链韧性与地缘防务动机强制推行空间分散政策对集聚红利的不可逆稀释效应。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
 

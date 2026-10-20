@@ -11,7 +11,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/knowledge-mobilisation
   - theme/embedded-researcher
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Champ]]"
   - "[[Intellectual Capital]]"
   - "[[Embedded Researcher]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Public Sector PhD Scheme
@@ -57,7 +58,7 @@ updated: 2026-10-16
 > - **立项时间 / 周期** 2014 年起常态化面向挪威各级公共行政机构全面推行，持续稳定运行。
 > - **发起方与资助机制** 由挪威研究理事会主导实施，国家科研专项基金承担主要培养成本与配套科研经费，公共雇主机构提供在岗工时保障与职务保留。
 > - **覆盖范围与对象** 严格限定于挪威中央政府部委、国家主管总署、郡县与市镇各级公共部门的正式常任在职雇员（Permanent employees）。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 89)]]
-> - **核心问题导向** 破解政府决策官员普遍缺乏系统科研素养、高度依赖外部咨询采买的“能力短板”，通过内生培养具备严谨学术方法学训练的公职人员队伍，重塑公共机构内部的循证决策文化。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 88–89, 93–94)]]
+> - **核心问题导向** 破解政府决策官员普遍缺乏系统科研素养、高度依赖外部咨询采买的“能力短板”，通过内生培养具备严谨学术方法学训练的公职人员队伍，重塑公共机构内部的[[Evidence-Based Policy-Making|循证决策]]文化。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 88–89, 93–94)]]
 
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-10-16
 > > - **制度反驳** 挪威体制通过将学位授予权与盲审答辩完全置于自主高校内部，以学术自治规范与伦理委员会构筑起坚固的防火墙。
 
 > [!lessons] 经验教训与启示
-> - **循证决策的根基在于决策者自身的专业素养** 若公职队伍自身不具备严谨实证思维，任何外部智库的报告都只能沦为技术性原料采买。
+> - **[[Evidence-Based Policy-Making|循证决策]]的根基在于决策者自身的专业素养** 若公职队伍自身不具备严谨实证思维，任何外部智库的报告都只能沦为技术性原料采买。
 > - **内生性人才储备是最稳固的中介机制** 培育具备博士水准的公职群体，是化解政学文化隔阂、建设赋权型[[Evidence Ecosystem\|证据生态系统]]的战略性制度基石。
 
 ---

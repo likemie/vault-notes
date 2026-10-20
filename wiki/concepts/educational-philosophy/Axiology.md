@@ -8,7 +8,7 @@ aliases:
 summary: "研究者在探究中所持有的价值、信念与意义目的系统，位于研究推导阶梯最顶层，界定何为有价值的知识并统摄本体论、认识论与方法论选择。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories:
 related_methods:
   - "[[Ideology Critique]]"
   - "[[Action Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Auguste Comte]]"
 related_facts: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Axiology
@@ -161,6 +160,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 将价值论作为元理论顶层纳入 Hitchcock & Hughes 研究五层推导阶梯，系统阐述教育研究与政策决策的价值共生性。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 从个体认知发展视角实证测评[[Epistemology\|认识论]]与价值观维度的评估水平，揭示成人深陷彻底相对主义的宽容陷阱。

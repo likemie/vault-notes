@@ -18,6 +18,7 @@ tags:
   - governance/security
   - level/higher-education
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Strategic Autonomy]]"
   - "[[Research Security]]"
@@ -44,7 +45,6 @@ related_theories:
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Audit Trail]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -88,7 +88,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **技术安全化（Securitization of Technology）** 指主权国家在地缘政治博弈加剧与全球供应链重组背景下，打破科技领域的自由市场与中立学术认知[[Paradigm|范式]]，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存、主权和地缘安全的最高战略议程。在此逻辑下，国家运用出口管制、跨国投资审查、定向产业立法与有组织动员，将传统上相对独立的大学实验室、科研机构与跨国产业网络深度嵌入国家安全战略体系之中。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
+> **技术安全化（Securitization of Technology）** 指主权国家在[[Geopolitics|地缘政治]]博弈加剧与全球供应链重组背景下，打破科技领域的自由市场与中立学术认知[[Paradigm|范式]]，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存、主权和地缘安全的最高战略议程。在此逻辑下，国家运用出口管制、跨国投资审查、定向产业立法与有组织动员，将传统上相对独立的大学实验室、科研机构与跨国产业网络深度嵌入国家安全战略体系之中。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **核心逻辑** 从新自由主义主导的全球垂直分工与效率最优逻辑，转向以地缘政治博弈与国家生存为核心的国家安全与[[Strategic Autonomy|战略自主]]逻辑。
@@ -117,7 +117,7 @@ updated: 2026-10-20
 > [!contrast-table] 概念辨析
 > | 维度 | 本概念（技术安全化） | [[Modern Industrial Policy\|现代产业政策]] | [[Academic Freedom\|学术自由]]范式 |
 > |---|---|---|---|
-> | **主导逻辑** | 地缘政治博弈、国家安全与技术主权 | 纠正[[Market Failure\|市场失灵]]、促进产业升级与经济增长 | 学术共同体自主探索与知识无界传播 |
+> | **主导逻辑** | [[Geopolitics\|地缘政治]]博弈、国家安全与技术主权 | 纠正[[Market Failure\|市场失灵]]、促进产业升级与经济增长 | 学术共同体自主探索与知识无界传播 |
 > | **对大学的要求** | 制度性嵌入国家战略、严守安全审查护栏 | 承担[[Technology Transfer\|技术转移]]、[[University-Industry Collaboration\|产学合作]]与工程人才供给 | 遵循学科逻辑与好奇心驱动、自由发表 |
 > | **国际交流态度** | 排他性防御、限制关键流动、构筑技术壁垒 | 视情况吸引全球资本与产业链要素 | 坚持开放科学、跨国无障碍学术交流 |
 > | **成果归属导向** | 优先满足本土供应链韧性与国防安全诉求 | 追求商业回报率与区域经济溢出效应 | 作为人类公共知识遗产无保留共享 |

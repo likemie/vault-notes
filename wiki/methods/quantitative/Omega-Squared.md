@@ -7,7 +7,7 @@ summary: "方差分析中用于估计自变量解释总体方差比例的无偏�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Confidence Interval]]"
   - "[[Cluster Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Omega-Squared
@@ -191,5 +190,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 在单因素[[Analysis of Variance\|方差分析]]中报告 $\omega^2$ 作为无偏[[Effect Size\|效应量]]，检验三类治理态度聚类校长在学校发展活动与日常工时分配上的组间差异。

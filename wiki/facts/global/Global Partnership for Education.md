@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,8 +35,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -162,7 +161,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、[[Knowledge and Innovation Exchange\|KIX]] 枢纽运作及其与[[OECD\|经合组织]]、[[World Bank\|世界银行]]围绕慈善资本的利基竞争。
 
 ---

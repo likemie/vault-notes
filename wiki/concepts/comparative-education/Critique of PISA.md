@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Analytical Stance]]"
   - "[[Lifelong Learning]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Heterogeneity]]"
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
@@ -75,7 +76,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alain Desrosières]]"
@@ -138,7 +138,7 @@ updated: 2026-10-20
 > | **知识与[[Construct\|构念]]定位** | 适应未来 21 世纪经济社会挑战的客观必需素养 | 缺乏前瞻纵向追踪实证支持的拟制构念，与传统认知能力高度重合 |
 > | **测量与方法取向** | 绝对客观中立的跨国统一测量尺规与科学基准 | 凭空制造[[Space of Equivalence\|等值空间]]，以统计[[Reliability\|信度]]压倒本土[[Construct Validity\|构念效度]] |
 > | **教育价值追求** | 促进[[Lifelong Learning\|终身学习]]、全球劳动力就业能力与系统效能 | 将教育贬低为劳动力市场排位竞争的[[Positional Good\|位置性商品]]与人力资本工具 |
-> | **治理与权力机制** | 为政府提供中立循证决策依据以促进公平与质量 | 运用数字即政策将政治决断隐形化，通过联赛排名实施远处掌舵 |
+> | **治理与权力机制** | 为政府提供中立[[Evidence-Based Policy-Making\|循证决策]]依据以促进公平与质量 | 运用数字即政策将政治决断隐形化，通过联赛排名实施远处掌舵 |
 > | **比较分析[[Paradigm\|范式]]** | 基于单一数值排列表的最佳实践对标与[[Policy Borrowing\|政策借用]] | 抽离历史政治制度容器的浅层比较，抹杀教育生态的[[Heterogeneity\|异质性]]与文化多样性 |
 
 ---
@@ -252,7 +252,7 @@ updated: 2026-10-20
 > > [!axis] [[Governing by Numbers|数字治理]]的民主后果：增进公共透明还是剥夺民主审议？
 > > 争论的核心在于数据驱动的治理模式究竟是赋权于公民社会，还是剥夺了公众对教育根本目的的哲学反思。
 > >
-> > - **循证决策与[[New Public Management|新公共管理]]倡导者** 认为跨国量化数据打破了传统科层黑箱与专业特权，为公众和决策者提供了清晰透明的监督依据。
+> > - **[[Evidence-Based Policy-Making|循证决策]]与[[New Public Management|新公共管理]]倡导者** 认为跨国量化数据打破了传统科层黑箱与专业特权，为公众和决策者提供了清晰透明的监督依据。
 > > - **批判治理学者（Rose, Mitter, Zhao）** 警示数字治理以技术合理性排斥政治哲学审议，诱导全社会陷入联赛排名的位置性焦虑，消解了实质[[Democratic Education|民主教育]]价值。
 
 ---

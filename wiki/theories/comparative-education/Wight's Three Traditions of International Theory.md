@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Mind]]"
   - "[[Readings of the Global]]"
   - "[[Policy Mobility]]"
+  - "[[Geopolitics]]"
   - "[[Ontology]]"
   - "[[Competitiveness]]"
   - "[[Learnology]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wight's Three Traditions of International Theory
@@ -111,7 +112,7 @@ updated: 2026-10-16
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜比较教育的学术形态由其对国际社会性质的底层政治哲学设定所决定
-> - **前提一** 比较教育并不是中立的技术性科学，其学术建制、期刊编委、学会名称和注意力选择高度受制于变迁的地缘政治秩序 (p. 416)。
+> - **前提一** 比较教育并不是中立的技术性科学，其学术建制、期刊编委、学会名称和注意力选择高度受制于变迁的[[Geopolitics|地缘政治]]秩序 (p. 416)。
 > - **前提二** 怀特的三大传统（现实主义、理性主义和[[Revolutionism\|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
 > - **推导** 比较教育学者的[[Ontology\|本体论]]和方法论偏好本质上是这三种底层国际关系预设在教育领域的折射，对国际社会性质的设想决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 416–417]])
 
@@ -182,7 +183,7 @@ updated: 2026-10-16
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 国际社会并非静止的地理空间，而是由权力斗争（现实主义）、法律规则（理性主义）和压迫与解放（[[Revolutionism\|革命主义]]）的多重本体建构而成的关系网络。
 > - **认识论** 否认存在中立的比较教育学术，任何比较实践都是地缘关系与政治哲学的投影；主张通过[[Discourse|话语]]的“在场”与“缺席”解构学科知识的权力本质。
-> - **方法含义** 要求研究者抛弃[[Methodological Statism\|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性[[Discourse Analysis\|话语分析]]和地缘政治分析开展研究。
+> - **方法含义** 要求研究者抛弃[[Methodological Statism\|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性[[Discourse Analysis\|话语分析]]和[[Geopolitics|地缘政治分析]]开展研究。
 > - **不能直接推出的东西** 本理论不提供关于“如何改良教育体系”的直接技术方案，也不提供某种具有普适性的最佳政策转移模式。
 
 > [!theory-use] 如何用于研究

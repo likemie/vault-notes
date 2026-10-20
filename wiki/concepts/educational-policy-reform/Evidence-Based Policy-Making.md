@@ -6,15 +6,14 @@ aliases:
   - 循证政策制定
   - 证据本位决策
   - EBPM
-  - EBP
   - Evidence-Based Policy
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - educational-policy-reform
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Knowledge Production]]"
   - "[[Counterfactual]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Output-Oriented Governance]]"
   - "[[Hard Policy Transfer]]"
   - "[[Policy Borrowing]]"
@@ -56,15 +54,14 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[The Green Book]]"
   - "[[MDRC]]"
-  - "[[European Research Area]]"
   - "[[Swedish Schools Inspectorate]]"
   - "[[Modernising Government]]"
+  - "[[European Research Area]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -122,7 +119,7 @@ updated: 2026-10-20
 > [!feature] 证据本位决策的核心构件
 > - **实证因果证据特权化（Privileging of Causal Evidence）** 将具备对照组与严格[[Counterfactual|反事实]]检验的实验数据置于证据金字塔顶端，强调政策干预必须具有可测量的净效果。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334, 341)]]
 > - **何者有效务实主义修辞（Pragmatic What Works Rhetoric）** 宣称超越传统左派或右派的意识形态教条，以实际成效与绩效产出作为检验公共治理的最高基准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 336–337)]]
-> - **标准化行政规程[[Disciplina and Doctrina|规训]]（Institutionalised Guideline Disciplining）** 通过中央政府颁布标准化政策检验手册（如英国《[[The Green Book|绿皮书]]》《紫红皮书》），将先行评估与因果审计确立为刚性行政审批标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - **标准化行政规程规训（Institutionalised Guideline Disciplining）** 通过中央政府颁布标准化政策检验手册（如英国《[[The Green Book|绿皮书]]》《紫红皮书》），将先行评估与因果审计确立为刚性行政审批标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **前置试点与实验性试验（Pilot Schemes and Experimental Trials）** 强制要求重大社会改革在全面铺开之前，必须在特定地理区域设立原型试点与对照测试，以提前识别执行风险。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 343)]]
 
 > [!logic-map]- [[Output-Oriented Governance|循证治理]]驱动跨国政策学习与技术[[Hard Policy Transfer|硬转移]]机制
@@ -160,7 +157,7 @@ updated: 2026-10-20
 > 揭示循证压力如何推动跨国[[Policy Mobility|政策流动]]的客体从软性的政策[[Discourse|话语]]与治理理念，实质性拓展到底层的量化实验技术与海外独立评估智库实体。
 
 > [!claim] [[Argument_Legrand_2012_PolStud|Legrand (2012)]]
-> **评估工具与专业智库机构的跨国[[Hard Policy Transfer|硬转移]]** 循证决策规范对严谨因果评估的追求，直接打通了评估方法论跨国流动的制度通道。英国新工党在推进新政福利改革时，不仅吸收了美国工作优先的治理理念，更将以[[Random Assignment|随机分配]]为代表的社会实验规程引入本土，并直接委托主持美国同类项目的专业评估机构——美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）跨境承担英国就业保留与晋升（[[European Research Area|ERA]]）示范项目的方案设计与审计。这证明量化评估技术与专业机构本身已成为跨国政策硬转移的重要载体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]
+> **评估工具与专业智库机构的跨国[[Hard Policy Transfer|硬转移]]** 循证决策规范对严谨因果评估的追求，直接打通了评估方法论跨国流动的制度通道。英国新工党在推进新政福利改革时，不仅吸收了美国工作优先的治理理念，更将以[[Random Assignment|随机分配]]为代表的社会实验规程引入本土，并直接委托主持美国同类项目的专业评估机构——美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）跨境承担英国就业保留与晋升（ERA）示范项目的方案设计与审计。这证明量化评估技术与专业机构本身已成为跨国政策硬转移的重要载体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]
 
 ---
 
@@ -208,7 +205,7 @@ updated: 2026-10-20
 > - **1980s–1990s 初 — 循证医学（EBM）发轫与方法奠基** 循证医学系统确立寻找、评价和利用同期最佳临床研究证据指导医疗决策的程序，为公共行政领域借鉴系统评价与对比实验奠定了[[Epistemology|认识论]]基石。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 336)]]
 > - **1997 — 新工党上台与管用才算数政治宪章确立** 托尼·布莱尔领导的新工党击败保守党执政，发表竞选宣言宣告告别陈旧意识形态，确立管用才算数的施政纲领，将实证数据提升为政策合法性的首要来源。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 336)]]
 > - **1999–2003 — 英国行政规程与中央指南制度化** 英国政府先后出台《[[Modernising Government|现代化政府]]》白皮书（1999）、内阁府《21世纪专业化政策制定》（1999）与财政部《[[The Green Book|绿皮书]]》（2003），正式将政策先行试点与定量评估规程内嵌为行政运行的法定门槛。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 337)]]
-> - **2003–2007 — 大规模[[Random Assignment|随机分配]]实验应用与技术[[Hard Policy Transfer|硬转移]]** 英国就业与养老金部（DWP）启动史上规模最大的就业保留与晋升（[[European Research Area|ERA]]）示范项目，全套采用美式[[Randomised Controlled Trials|随机对照实验]]设计，并由美国智库 [[MDRC]] 跨国承接实施，标志着循证技术硬转移落地。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
+> - **2003–2007 — 大规模[[Random Assignment|随机分配]]实验应用与技术[[Hard Policy Transfer|硬转移]]** 英国就业与养老金部（DWP）启动史上规模最大的就业保留与晋升（ERA）示范项目，全套采用美式[[Randomised Controlled Trials|随机对照实验]]设计，并由美国智库 [[MDRC]] 跨国承接实施，标志着循证技术硬转移落地。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
 > - **2008–2013 — 证据本位进入[[School Inspection|学校督导]]机构** 瑞典设立[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, [[Socioscientific Issues|SSI]]），以《教育法》的“科学依据与经验验证”要求为起点，把成功学校[[Research Translation|研究转译]]为常规督导的评估领域，并通过知识综述、参考研究者与报告流程组织质量审计。研究在此既被写入标准，也被用于论证既有政策与合法化督导，呈现“软性”与“后现代”证据本位政策的混合形态。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–654)]]
 > - **2010s 至今 — 跨国二次扩散与全球循证中介网络** 内阁府发布《紫红皮书》（2011）巩固评估规范；英美循证实验体制反向辐射欧洲大陆及英联邦国家，推动全球教育[[Educational Brokerage Agency|证据经纪人]]与政策评估中介网络建立。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 344–345)]]
 

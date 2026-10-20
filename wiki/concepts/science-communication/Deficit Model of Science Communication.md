@@ -10,7 +10,7 @@ aliases:
 summary: "科学传播与教育研究领域的早期核心范式，假定公众或教师对科学的疑虑源于知识匮乏（认知赤字），认为单向灌输事实即可消除分歧；因忽视价值认同、制度信任与教学现场情境逻辑而在公共领域与教育实践中普遍失效。"
 type: concept
 domain: "science-communication"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -57,11 +57,10 @@ related_methods:
   - "[[Multi-Arm Trial]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Deficit Model of Science Communication
@@ -236,7 +235,7 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统回顾 40 年科学传播史，论证从单向赤字模型彻底转向双向平权、全生命周期内嵌的[[Public Engagement with Science\|公众科学参与]]（PES）的国家战略共识。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 批判教育研究中单向线性的自上而下[[Knowledge Transfer\|知识转移]]假定，揭示其赤字模型本质及导致的教师心理防御，提出转向双向递归对话与概念转变沟通。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 依托英国 [[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼]]多臂因果试验等证据，证明孤立的单向信息推介[[Effect Size\|效应量]]为零，提出[[Educational Brokerage Agency\|知识中介机构]]自我循证的五大支柱。

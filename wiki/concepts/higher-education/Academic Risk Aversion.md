@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Academic Risk Aversion
@@ -83,7 +83,7 @@ updated: 2026-10-19
 ## 概念辨析
 
 > [!contrast-table] 学术避险主义与相关科研取向对照
-> | 维度 | 学术避险主义（Academic Risk Aversion） | 蓝天纯基础研究（[[Curiosity-Driven Research|Blue Skies Research]]） | 任务导向型攻关（Mission-Oriented R&D） |
+> | 维度 | 学术避险主义（Academic Risk Aversion） | 蓝天纯基础研究（[[Curiosity-Driven Research\|Blue Skies Research]]） | 任务导向型攻关（Mission-Oriented R&D） |
 > |---|---|---|---|
 > | **选题动机** | 迎合评审偏好，最大化项目中标与考核过关概率 | 好奇心驱动，探索未知的自然与社会基本法则 | 攻克国家安全、公共健康或产业卡脖子技术瓶颈 |
 > | **技术路径** | 采用成熟方法对既有理论与结论进行增量修补 | 探索不可预测、具有[[Paradigm\|范式]]突破潜力的未知路径 | 跨学科大兵团作战，聚焦关键工程与工艺指标 |

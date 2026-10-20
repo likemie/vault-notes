@@ -53,6 +53,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
   - "[[Professional Learning Community]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Boundary Spanner]]"
@@ -95,7 +96,7 @@ title: "Argument_Rickinson_2022_EducRes"
 argument_key: "Argument_Rickinson_2022_EducRes"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -302,7 +303,7 @@ issuing_organization: ""
 > | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托[[Professional Learning Community\|专业学习共同体]]（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan and Daly (2014)<br>Bryk et al. (2011) |
 > | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] |
 > | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb and MacBeath (2003)<br>[[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] |
-> | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化循证决策规程。 | Godfrey (2019)<br>Nelson and Campbell (2019) |
+> | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化[[Evidence-Based Policy-Making\|循证决策]]规程。 | Godfrey (2019)<br>Nelson and Campbell (2019) |
 > | **系统级影响（System Influences）**<br>（宏观生态环境） | **何种生态（Ecology）**<br>制度环境与跨层动态 | 超越单一学校的宏观教育生态，涵盖政府绩效问责规程、学区优先施政议程、跨部门中介支持与专项资助，以及基于过程自我监控的持续评估反馈机制。 | EEF (2019)<br>Farley-Ripple et al. (2018) |
 
 在这一架构中，核心双核构成了高质量使用的[[Ontology|本体论]]支柱，分别对“用什么”与“怎么用”作出了严格的专业界定。
@@ -461,7 +462,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 >
 > *[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]] in education as: the thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system. Appropriate research evidence is about the quality and the context-specific nature of research evidence. From a use perspective, quality research evidence needs to be not only methodologically rigorous but also appropriate for the educational issues, the context and the intended use... thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice.*
 
-> [!citation-card] 临床[[Professional Judgment\|专业判断]]在循证决策中的不可替代性
+> [!citation-card] 临床[[Professional Judgment\|专业判断]]在[[Evidence-Based Policy-Making|循证决策]]中的不可替代性
 > 外部临床证据能够提供参考，但绝不能替代个体临床专业判断；正是这种专业判断决定了外部证据是否适用于具体患者。（Sackett et al., 1996, p. 72; 引于 p. 138）
 >
 > *External clinical evidence can inform, but can never replace, individual clinical expertise, and it is this expertise that decides whether the external evidence applies to the individual patient at all.*

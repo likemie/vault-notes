@@ -27,7 +27,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Discursive Field]]"
   - "[[Unit of Analysis]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"
@@ -49,11 +49,11 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
+  - "[[Critical Discourse Analysis]]"
   - "[[Cluster Analysis]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Theoretical Sampling]]"
   - "[[Comparative Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Rolland Paulston]]"
 related_arguments:
@@ -75,8 +75,8 @@ updated: 2026-10-20
 > **社会制图学（Social Cartography）** 是由美国比较教育学家[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）在 1990 年代首创的质性与视觉认知分析方法。该方法深受后现代哲学空间转向（Spatial Turn）与保罗·吉尔罗伊（Paul Gilroy, 1993）“黑色大西洋”（Black Atlantic）等社会文化空间思想启发，主张将教育理论流派、政策[[Discourse|话语]]争鸣与跨国借用实践视作非线性的多维拓扑[[Champ|场域]]；通过绘制具有空间隐喻的“认知地图”（Cognitive Maps）与“差异社会制图”（Social Cartography of Difference），打破以欧洲[[Enlightenment|启蒙运动]]为代表的线性时间进步史观与[[Positivism|实证主义]]单一真理霸权，直观呈现不同学术阵营的立场位置、边界重叠与张力距离，进而为透视教育[[Policy Mobility|政策流动]]、空间区隔及被边缘化群体的空间[[Governmentality|治理术]]提供启发性工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 相互竞争的教育学术理论、研究[[Paradigm|范式]]、政策话语流派、跨国[[Policy Borrowing|教育借用]]网络，以及将学生划分为不同空间容器的[[Disciplina and Doctrina|规训]]技术。
-> - **问题类型** 适合回答话语场域的知识谱系分布、理论范式竞争、跨国政策流动定位、流动人口与边缘群体的空间区隔问题。
+> - **研究对象** 相互竞争的教育学术理论、研究[[Paradigm|范式]]、政策话语流派、跨国[[Policy Borrowing|教育借用]]网络，以及将学生划分为不同空间容器的规训技术。
+> - **问题类型** 适合回答[[Discursive Field|话语场域]]的知识谱系分布、理论范式竞争、跨国政策流动定位、流动人口与边缘群体的空间区隔问题。
 > - **[[Unit of Analysis|分析单位]]** 思想范式、学术流派、政策话语网络、教育制度空间容器或[[Knowledge Production|知识生产]]集群。
 > - **输出形式** 二维或多维拓扑隐喻地图、范式空间矩阵、话语重叠与盲区图谱、[[Spatial Governmentality|空间治理术]]批判叙事。
 
@@ -98,7 +98,7 @@ updated: 2026-10-20
 > [!method-stack] 方法层级
 > - **研究设计** 跨学科[[Discourse|话语]]制图设计、学术史谱系学图绘、跨国[[Policy Mobility|政策流动]]空间分析与批判政策解构设计。
 > - **数据收集** 学术专著、学会旗舰刊物、学术会议纪要、跨国政策白皮书及教育治理档案文本。
-> - **分析方法** 批判[[Discourse Analysis|话语分析]]（Critical Discourse Analysis, CDA）、范式多轴[[Cluster Analysis|聚类分析]]、多极拓扑映射与空间[[Governmentality|治理术]]解构。
+> - **分析方法** 批判[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis]], CDA）、范式多轴[[Cluster Analysis|聚类分析]]、多极拓扑映射与空间[[Governmentality|治理术]]解构。
 > - **辅助技术** 概念映射可视化（[[Concept Mapping]]）、拓扑图解绘制工具及[[Qualitative Content Analysis|质性文本分析]]软件。
 
 ---

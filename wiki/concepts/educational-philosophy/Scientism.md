@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Dissimilar Units]]"
   - "[[Commensuration]]"
   - "[[Visible Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
   - "[[Paradigm]]"
@@ -58,7 +57,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
@@ -166,7 +164,7 @@ updated: 2026-10-20
 
 ### 命题二　科学主义通过课程与评估框架将科学思维隐性规训为唯一权威的探究范式
 
-> [!concept-lens] 课程框架与[[Ways of Knowing|认知方式]]的隐性[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 课程框架与[[Ways of Knowing|认知方式]]的隐性规训
 > 科学主义不仅在政策测量与学术评估中显性运作，更深层地潜伏在[[Critical Thinking|批判性思维]]等课程体系的顶层框架设计之中。
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]
@@ -230,7 +228,7 @@ updated: 2026-10-20
 > - **1960s — 比较学科实证科学化狂热与早期传统贬抑** 诺亚与埃克斯坦（Noah & Eckstein, 1969）出版《迈向比较教育科学》，试图通过跨国假设检验建立实证科学主义垄断，掩盖了历史考据与比较文学传统的学术价值。
 > - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；费曼（Feynman, 1974）提出[[Cargo Cult Science|草包族科学]]以警示缺乏[[Epistemology|认识论]]诚实性的伪科学。
 > - **2000s — 实证单一垄断瓦解与[[Pluralism|健康多元主义]]的确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托文献计量实证揭示战后单一[[Positivism|实证主义]]垄断解体，学科演化出涵盖 26 种理论传统的健康多元主义格局。
-> - **2007 — 课程评估层面的隐性[[Disciplina and Doctrina|规训]]揭示** 赞普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）揭示科学主义已从粗放的量化指标下沉至[[Critical Thinking|批判性思维]]与认识论课程的细部评估规程中。
+> - **2007 — 课程评估层面的隐性规训揭示** 赞普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）揭示科学主义已从粗放的量化指标下沉至[[Critical Thinking|批判性思维]]与认识论课程的细部评估规程中。
 > - **2023 — 企业研发模式与草包族循证清算** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）追溯二战后企业 R&D 管理主义对教育的侵蚀，结合费曼草包族科学与菲利普斯物理实验局限，对《[[Visible Learning|可见的学习]]》等循证商业产品的科学主义伪装展开全面批判。
 
 ---
@@ -288,7 +286,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]]规训。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代追求科学化的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示单一科学主义向[[Pluralism|健康多元主义]]转型的知识轨迹。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
 

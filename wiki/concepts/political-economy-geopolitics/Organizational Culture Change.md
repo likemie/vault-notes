@@ -8,7 +8,7 @@ aliases:
 summary: "指组织内部根本性的核心假设、价值信念、行为规范与权力运作范式的系统性转变过程；在组织社会学中强调从表层人工制品向底层基本假设的深层重构，而在卡普与扎米斯卡（2025）的论证中，组织文化变革被确立为技术共和国能否重获国家竞争优势与硬实力的决定性前提，主张彻底打破传统防卫型官僚合规文化，转向以实战结果导向、边缘自治与去中心化群智能为核心的工程思维文化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,8 +33,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Theory of Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

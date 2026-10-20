@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 72
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Generic Skills]]"
   - "[[Graduate Attributes]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Process Knowledge]]"
   - "[[Socioscientific Issues]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Cooperative Learning]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Jigsaw]]"
@@ -80,7 +80,6 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
@@ -122,7 +121,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
 > - **用途** 揭示全球教育政策趋同的修辞动力，批判以经济生产力与[[Human Capital Theory|人力资本]]为单一维度的工具主义教育观，并诊断高阶通用素养在政策宏观倡导与微观学业评价之间的制度断裂。
-> - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / Generic Skills）；但若脱离具体学科知识脉络、实体制造公地与实证探究载体，极易沦为抽象口号与技能空心化。
+> - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / [[Generic Skills]]）；但若脱离具体学科知识脉络、实体制造公地与实证探究载体，极易沦为抽象口号与技能空心化。
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Graduate Attributes|毕业生特质]]** —— SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化转译与课程操作，兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
@@ -189,7 +188,7 @@ updated: 2026-10-20
 
 ### 命题三　技能话语通过自我企业家逻辑生产出愿意主体，将结构性失业隐蔽地转嫁为个体能力缺陷
 
-> [!concept-lens] 主体性[[Disciplina and Doctrina\|规训]]
+> [!concept-lens] 主体性规训
 > 话语将经济转型中的劳动风险完全个体化，创造出时刻准备自我更新的理想员工形象。
 
 > [!claim] Zelinka
@@ -312,7 +311,7 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
-> - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性[[Disciplina and Doctrina|规训]]与被边缘化的全人素养。
+> - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性规训与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的转译断裂与概念混乱。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，批判脱离实体制造的抽象技能空心化，提出将车间实训、排障手艺与自动化机器核验确立为智能时代高阶能力新支柱。

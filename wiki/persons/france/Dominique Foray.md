@@ -9,7 +9,7 @@ summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 32
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -47,8 +47,7 @@ related_concepts:
   - "[[Critical Thinking]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Bengt-Åke Lundvall]]"

@@ -11,7 +11,7 @@ aliases:
 summary: "由政府机构、研究理事会或多边金融机构预先限定研究主题、目标与方法学规程的资助模式，研究者通过竞标以合同工形式承接项目。在当代教育治理中，它推动了教育研究从学术自发探索（蓝天研究）向服务于赞助方政策目标与意识形态规训的系统性转变。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Joel Samoff]]"
@@ -119,7 +118,7 @@ updated: 2026-10-20
 > - **数据控制权让渡与选择性披露（Selective Publication）** 资助方往往在协议中保留审查与推迟发布的特权，以防不利实证破坏政策正当性。(Sanday, 1993)
 > - **跨国多边委托与受雇专家共同体（Transnational Experts for Hire）** 国际多边金融机构通过长期大额委托合同，培植遵循华盛顿政策处方的跨国专家网络，垄断全球教育[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
-> [!logic-map]- 分类资助的议程[[Disciplina and Doctrina|规训]]与政策闭环
+> [!logic-map]- 分类资助的议程规训与政策闭环
 > ```mermaid
 > flowchart LR
 >     A["资助方预设政策议程与指标边界"] --> B["发布招标指南与高额定向委托预算"]
@@ -175,7 +174,7 @@ updated: 2026-10-20
 > 探讨委托资助的时间紧迫性与任务契约如何重塑高校学者的日常探究行为，促使深层[[Reflexivity|反思性]]学术研究蜕化为格式化政策工具包。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J. & [[Jason Beech|Beech, J.]]
-> **周期极限压缩与学术逻辑变质** 斯蒂芬·鲍尔指出，在分类委托科研机制下，大学正面临被迫承接短期合同以换取生存资源的严峻现实，这一机制以实用性与政策相关性为名对学术界进行降维侵蚀（dumbing down the academy）。杰森·比奇进一步确证，同一位学者在大学研究室中通常需要花费 3 年时间深入探索理论复杂性、历史渊源与哲学分歧以出版专著；而一旦承接国际组织的短期定向委托，研究周期被极限压缩至 1 年之内，学者被迫抹杀情境差异与理论争议，产出削足适履、契合出资方偏好的实用政策简报。资助契约的时间[[Disciplina and Doctrina|规训]]从源头上颠覆了大学基础研究的知识生产规律。Ball (2001); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 355–356)]]
+> **周期极限压缩与学术逻辑变质** 斯蒂芬·鲍尔指出，在分类委托科研机制下，大学正面临被迫承接短期合同以换取生存资源的严峻现实，这一机制以实用性与政策相关性为名对学术界进行降维侵蚀（dumbing down the academy）。杰森·比奇进一步确证，同一位学者在大学研究室中通常需要花费 3 年时间深入探索理论复杂性、历史渊源与哲学分歧以出版专著；而一旦承接国际组织的短期定向委托，研究周期被极限压缩至 1 年之内，学者被迫抹杀情境差异与理论争议，产出削足适履、契合出资方偏好的实用政策简报。资助契约的时间规训从源头上颠覆了大学基础研究的知识生产规律。Ball (2001); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 355–356)]]
 
 ---
 
@@ -242,7 +241,7 @@ updated: 2026-10-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学[[Disciplina and Doctrina|规训]]的制度杠杆。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学规训的制度杠杆。
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示国际机构委托研究如何通过极限压缩交付周期迫使学者放弃理论复杂性，与鲍尔（Ball, 2001）共同批判合同资助对大学[[Knowledge Production|知识生产]]逻辑的结构性侵蚀。
 
 ---
@@ -254,7 +253,7 @@ updated: 2026-10-20
 > | 关联维度 | 条目 | 类型 | 核心关联说明 |
 > |:---|:---|:---|:---|
 > | **上位治理与资助体制** | [[New Public Management]] | 概念 | 新公共管理将契约化管理与结果导向考核引入公共部门，推动大学拨款从无条件向定向分类资助转变。 |
-> | **学术生产与反思对立** | [[Curiosity-Driven Research|Blue Skies Research]] | 概念 | 蓝天研究代表由学术好奇心驱动的自由探索，构成定向委托研究在制度与[[Epistemology\|认识论]]上的直接对立面。 |
+> | **学术生产与反思对立** | [[Curiosity-Driven Research\|Blue Skies Research]] | 概念 | 蓝天研究代表由学术好奇心驱动的自由探索，构成定向委托研究在制度与[[Epistemology\|认识论]]上的直接对立面。 |
 > | **学术生产与反思对立** | [[Knowledge Production]] | 概念 | 知识生产揭示了研究成果生成的制度环境与社会关系，分类资助深刻改变了其生产方式与产出形态。 |
 > | **跨国组织与[[Discourse\|话语]]霸权** | [[World Bank]] | 事实 | 世界银行作为全球最大的教育发展贷款方，通过巨额定向资助构建垄断性智库网络与方法论[[Disciplina and Doctrina\|规训]]。 |
 > | **跨国组织与话语霸权** | [[Global Educational Discourse]] | 概念 | 跨国机构通过定向委托研究，将去情境化的五大支柱模型包装为全球通用政策话语进行输出。 |

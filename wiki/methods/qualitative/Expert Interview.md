@@ -10,7 +10,7 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Working Knowledge]]"
   - "[[Commensuration]]"
+  - "[[Visible Learning]]"
+  - "[[Knowledge Production]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Focus Group]]"
@@ -51,11 +53,11 @@ related_methods:
   - "[[Purposeful Sampling]]"
   - "[[Content Analysis]]"
   - "[[Elite Interview]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -65,10 +67,11 @@ related_theories:
   - "[[Knowledge Integration]]"
 related_persons:
   - "[[Erich Bloch]]"
+  - "[[John Hattie]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Expert Interview
@@ -170,8 +173,8 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] — 通过对[[National Science Foundation|美国国家科学基金会]]前主任[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）展开深度口述史专家访谈，系统复盘了[[Engineering Research Centers|工程研究中心]]（ERC）计划在立项博弈、同行评审、淘汰退出与行政微观管理上的制度演化机制。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 访谈美国马萨诸塞州 [[Massachusetts Department of Elementary and Secondary Education|DESE]] 与德国汉堡 BSB、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的 20 位数据专家，揭示州级机构在数据清洗、[[Commensuration\|通约]]与问责建模中的暗箱实践。
-> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 对跨国教育倡导核心学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开展专家访谈，深挖其在《[[Visible Learning\|可见的学习]]》知识生产、全球专营授权、政府政策建言与海量数据回流等交错网络中的制度性职能与角色平衡。
+> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 对跨国教育倡导核心学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开展专家访谈，深挖其在《[[Visible Learning\|可见的学习]]》[[Knowledge Production|知识生产]]、全球专营授权、政府政策建言与海量数据回流等交错网络中的制度性职能与角色平衡。

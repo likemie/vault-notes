@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织影子国家外包的多标度侵蚀，并在多层网络治理中转型为由跨国软法测评与国内政治合法化共同维系的“权力共享行使”机制。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Intercultural Education]]"
   - "[[Competitiveness]]"
   - "[[New Public Management]]"
@@ -40,12 +39,12 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Academic Freedom]]"
   - "[[Educational Decentralization]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -197,7 +196,7 @@ updated: 2026-10-20
 > **民族国家教育主权垄断奠定了比较教育的基本经验单元** 自 19 世纪初朱利安构想以跨欧经验数据服务和平治理以来，法国大革命确立的民族国家浪潮迅速垄断了教育主权，使得以领土为刚性边界的国家教育体制成为整个 20 世纪比较教育学无可争议且几乎排他的分析容器；民族国家主权的制度个殊性构成了欧洲比较教育的多样性之极，与欧洲共享文化精神遗产的统一性之极形成了贯穿两个世纪的深层辩证张力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–95)]]
 
 > [!claim] Mitter, W.
-> **超国家测评[[Disciplina and Doctrina|规训]]与跨文化实践双向重塑国家教育主权** 世纪之交以来，国家教育主权面临前所未有的双重解构与重构：向上受到经合组织（OECD）[[PISA|国际学生评估项目]]（PISA）等大规模跨国测评的技术官僚规训，国家教育目标被迫对接全球[[Human Capital Theory|人力资本]]竞争指标与欧盟资格框架的制度渗透；向下及横向则受到大规模移民潮与多民族社会现实的冲击，迫使单一民族国家学制比较进路走向与包容微观文化互动的[[Intercultural Education|跨文化教育]]进路相合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–98)]]
+> **超国家测评规训与跨文化实践双向重塑国家教育主权** 世纪之交以来，国家教育主权面临前所未有的双重解构与重构：向上受到经合组织（OECD）[[PISA|国际学生评估项目]]（PISA）等大规模跨国测评的技术官僚规训，国家教育目标被迫对接全球[[Human Capital Theory|人力资本]]竞争指标与欧盟资格框架的制度渗透；向下及横向则受到大规模移民潮与多民族社会现实的冲击，迫使单一民族国家学制比较进路走向与包容微观文化互动的[[Intercultural Education|跨文化教育]]进路相合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–98)]]
 
 ---
 
@@ -278,7 +277,7 @@ updated: 2026-10-20
 >
 > > [!axis] 国家世俗最高视导权 vs 地方自治与家庭信仰自由
 > > - **国家集权派（Cousin; Mann）** 坚持唯有国家公共权力统一视察，才能打破地方宗派割据、保障最低教育质量底线并维系国家统一。
-> > - **地方自治与宗教自由派** 抨击国家教育权实质上是以世俗国家的官僚意志侵犯地方市镇自治传统与教会家庭的信仰自由，容易异化为自上而下的意识形态[[Disciplina and Doctrina|规训]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 28, 31)]]
+> > - **地方自治与宗教自由派** 抨击国家教育权实质上是以世俗国家的官僚意志侵犯地方市镇自治传统与教会家庭的信仰自由，容易异化为自上而下的意识形态规训。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 28, 31)]]
 >
 > > [!axis] 公共资源论 vs 阶级再生产工具论
 > > 批判社会学指出，19 世纪国家教育权的确立并未真正实现全体公民的实质平等，反而与[[Dual School System|双轨学制]]勾结，成为立宪大资产阶级利用国家法律工具巩固统治秩序、合法化阶级再生产的机器。
@@ -337,7 +336,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]理论，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 经贸规制与非政府组织[[Shadow State|影子国家]]外包对民族国家教育主权的削弱，剖析南北国家在自主权上的严重分化（pp. 110–112）。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用国家公共资源论与自由共和政治合法化依据，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评[[Disciplina and Doctrina|规训]]与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评规训与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从欧洲多层级治理视角阐释国家教育主权的现实边界，揭示[[EU|欧盟]]成员国对教育主权的严密固守，以及后发转型国家激进分权过程中次国家地方民族主义对独立教育系统的争夺与体系解体风险。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[David Held|赫尔德]]与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权并未消亡，而是转型为跨国多层[[Network Governance|网络治理]]中的“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化杠杆（pp. 443–444, 447）。
 

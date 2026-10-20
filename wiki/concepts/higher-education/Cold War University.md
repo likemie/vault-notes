@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Geopolitics]]"
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
   - "[[Entrepreneurial University]]"
@@ -38,8 +39,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Dependency Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向战后联邦国防经费与国家安全使命深度塑造美国顶尖研究型大学学术架构、科研取向与外部合作生态的特殊历史与制度形态。
-> - **用途** 帮助研究者透视国家科研资助的流向如何打破传统象牙塔边界，揭示学科建制化、知识网络演变与大学地位跃升背后的地缘政治与公共财政驱动力。
+> - **用途** 帮助研究者透视国家科研资助的流向如何打破传统象牙塔边界，揭示学科建制化、知识网络演变与大学地位跃升背后的[[Geopolitics|地缘政治]]与公共财政驱动力。
 > - **边界** 不等于普通的大学科研商业化或产学研合作；其核心驱动力在于国家安全导向的公共契约与国防科研基础设施构建，而非单纯的市场经济自发驱动。
 
 > [!citation-card] 学术精英地位的国防资助基础

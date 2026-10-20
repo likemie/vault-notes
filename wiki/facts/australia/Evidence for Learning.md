@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 39
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Network Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -207,7 +206,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 详尽解构 E4L 作为英国 [[Education Endowment Foundation\|EEF]] 与 [[Social Ventures Australia\|SVA]] 设立的试验原型、前商业律师领衔背景、公关中立性神话及其向 [[Australian Education Research Organisation\|AERO]] 演进的[[Policy Network\|政策网络]]轨迹。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将 E4L 置于澳大利亚[[Philanthrocapitalism\|慈善资本主义]]兴起的宏观图景中，阐释[[Venture Philanthropy\|风险慈善]]机构如何将试验性中介转化为影响国家公共教育拨款与知识标准的制度杠杆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录英国 EEF 携手[[BHP Foundation\|必和必拓基金会]]支持澳大利亚 E4L 等机构进行全球证据生态本土化的跨国进程。

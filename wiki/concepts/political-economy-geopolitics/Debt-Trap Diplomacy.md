@@ -21,6 +21,7 @@ tags:
   - discourse
   - higher-education
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Construct]]"
   - "[[South-South Cooperation]]"
@@ -36,7 +37,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -56,7 +56,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> 债务陷阱外交（Debt-Trap Diplomacy）是指一种批判性地缘政治[[Discourse|话语]]与分析[[Construct|构念]]，指控新兴大国通过跨国大型基础设施融资，故意向财政与治理脆弱的全球南方国家提供超出其承受极限的高额主权贷款；当借款国无力偿还而陷入主权违约危机时，贷款国便施加政治压力，强行要求其让渡深水港口、干线交通或矿产能源等关键战略资产的长期经营控制权，以此建立排他性地缘政治依附与不对称控制关系。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189, 194)]]
+> 债务陷阱外交（Debt-Trap Diplomacy）是指一种批判性[[Geopolitics|地缘政治]][[Discourse|话语]]与分析[[Construct|构念]]，指控新兴大国通过跨国大型基础设施融资，故意向财政与治理脆弱的全球南方国家提供超出其承受极限的高额主权贷款；当借款国无力偿还而陷入主权违约危机时，贷款国便施加政治压力，强行要求其让渡深水港口、干线交通或矿产能源等关键战略资产的长期经营控制权，以此建立排他性地缘政治依附与不对称控制关系。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189, 194)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向债权国将跨国基建融资异化为地缘政治工具、诱发受援国主权债务违约并扣押战略资产的话语指控机制。
@@ -79,7 +79,7 @@ updated: 2026-10-20
 > [!contrast-table] 债务陷阱外交 vs [[Knowledge Diplomacy|知识外交]] vs [[Soft Power|软实力]]
 > | 维度 | 债务陷阱外交（Debt-Trap Diplomacy） | [[Knowledge Diplomacy\|知识外交（Knowledge Diplomacy）]] | [[Soft Power\|软实力（Soft Power）]] |
 > |---|---|---|---|
-> | **分析对象** | 跨国基建借贷、债务危机与地缘政治施压手段 | 跨国高等教育、科研网络与全球危机协同应对 | 国家文化吸引力、制度价值观与对外说服力 |
+> | **分析对象** | 跨国基建借贷、债务危机与[[Geopolitics\|地缘政治]]施压手段 | 跨国高等教育、科研网络与全球危机协同应对 | 国家文化吸引力、制度价值观与对外说服力 |
 > | **核心机制** | 假定通过不可持续债务强行让渡主权战略资产 | 通过双边或多边对等协商与知识共享实现互利共赢 | 依托非强制性文化与制度认同诱导他国配合自身利益 |
 > | **适用范围** | 批判西方对新兴大国跨国基建投资的地缘政治叙事 | 解释超越零和博弈的跨国高等教育与联合研发合作 | 解释国家间[[Cultural Diplomacy\|文化外交]]、国际[[Student Mobility\|学生流动]]与公共外交展示 |
 

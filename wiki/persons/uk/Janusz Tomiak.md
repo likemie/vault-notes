@@ -9,7 +9,7 @@ summary: "波兰裔英国比较教育学家，伦敦大学教育研究院（IOE�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Positivism]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Janusz Tomiak
@@ -87,7 +86,7 @@ updated: 2026-10-15
 
 > [!work-line] 代表性学术著作
 > - **1972 — *The Soviet Union*（《苏联教育》，世界教育丛书）** 系统勾勒了自十月革命至勃列日涅夫时期苏联国民教育体系的组织结构、各级学校分流机制与马克思列宁主义教育学思想的落地形态。
-> - **1983 — *Soviet Education in the 1980s*（《1980年代的苏联教育》）** 深入分析停滞时期苏联教育在科技人才培养、普及十年制中等教育与意识形态[[Disciplina and Doctrina|规训]]之间面临的深层结构性矛盾。
+> - **1983 — *Soviet Education in the 1980s*（《1980年代的苏联教育》）** 深入分析停滞时期苏联教育在科技人才培养、普及十年制中等教育与意识形态规训之间面临的深层结构性矛盾。
 > - **1986 — *Western Perspectives on Soviet Education in the 1980s*（《西方视角下的1980年代苏联教育》）** 汇集英美法德一流专家的多学科研究成果，力图超越冷战宣传偏见，构建客观严密的苏联教育解释学框架。
 
 ---

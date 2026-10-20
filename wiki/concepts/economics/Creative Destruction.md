@@ -8,7 +8,7 @@ aliases:
 summary: "由约瑟夫·熊彼特（Joseph Schumpeter）提出的演化经济学与创新经济学核心概念，指创新从经济系统内部不断打破既有经济结构、摧毁陈旧产业与组织范式并建立全新产业范式与增长前沿的内生动态突变过程；克里斯·弗里曼（Chris Freeman）与卡洛塔·佩雷斯（Carlota Perez）将其置于技术-经济范式变革的中心，论证激进技术革命必然带来深层的创造性破坏，迫使国家调整教育技能、工种架构与制度体系以克服“制度滞后”。"
 type: concept
 domain: "economics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Systems of Innovation]]"
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Carlota Perez]]"

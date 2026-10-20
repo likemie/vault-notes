@@ -8,7 +8,7 @@ aliases:
 summary: "指大规模异质或同质个体在完全缺乏中央权威发号施令、预设层级指令或自顶向下监督机制的条件下，依托对等信息沟通、局部规则交互与动态共识构建，自发展开复杂问题解决并达成全局一致行动的高阶自组织协同形态；在卡普与扎米斯卡（2025）的论证中，无指挥协同构成了破解动物心智之谜与重构高敏捷工程团队文化的核心认知基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Hard Power]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

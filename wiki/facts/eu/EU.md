@@ -12,7 +12,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -44,8 +44,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[António Nóvoa]]"
   - "[[Jason Beech]]"

@@ -11,7 +11,7 @@ summary: "质性研究中系统记录研究全过程证据与决策链条的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Meaningful Human Control]]"
   - "[[AI Agent in Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Creativity]]"
   - "[[Discourse]]"
@@ -63,7 +62,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Audit Trail
@@ -206,7 +205,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 新[[Positivism\|实证主义]]伪客观性争议
-> > 争论审计追踪是否将[[Interpretive Paradigm\|自然主义探究]]异化为官僚化程序[[Disciplina and Doctrina\|规训]]，从而损害诠释学深度。
+> > 争论审计追踪是否将[[Interpretive Paradigm\|自然主义探究]]异化为官僚化程序规训，从而损害诠释学深度。
 > >
 > > - **[[Constructivist Paradigm\|建构主义]]与后现代批评者** 机械套用审计追踪容易诱发“新实证主义（neo-positivism）”倒退，研究者可能沉溺于形式主义的文档堆砌，反而抑制了研究者的直觉洞察力、情感共情与理论[[Creativity\|创造力]]。
 > > - **程序规范派学者（Lincoln & Guba, 1985; Morse et al., 2002）** 审计追踪追求的是探究过程对学术共同体的透明性与学理责任感，而非绝对真理；透明性是[[Qualitative Research\|质性研究]]在公共[[Discourse|话语]]中赢得公信力与解释合法性的必由之路。

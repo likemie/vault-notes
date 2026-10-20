@@ -9,7 +9,7 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Topological Spatialisation]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Homework]]"
   - "[[Science and Technology Studies]]"
   - "[[Data Infrastructure]]"
@@ -42,7 +41,6 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Effect Size]]"
   - "[[Expert Interview]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Sigrid Hartong]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Center of Calculation
@@ -144,7 +142,7 @@ updated: 2026-10-16
 > 剖析计算中心如何超越宏观统计报告，通过数字平台直接介入教师日常教学与备考环节。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]
-> **任务平台作为双向数据流动的[[Disciplina and Doctrina\|规训]]中介** 计算中心不仅是一个被动接收数据的黑箱，更是积极输出规约标准的发射台。在 VERA 项目中，IQB 不仅制定测试工具，更针对国家标准研发了配套的教学任务数字化平台。教师登录平台获取经过心理测量标定的备考练习题，而平台则同步收集并分发标准化数据。这种机制使得计算中心绕过了各州层级科层审核，直接将国家标准植入基层教师的教学设计之中，实现了对微观课堂教学法与技能培养的拓扑学重塑（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
+> **任务平台作为双向数据流动的规训中介** 计算中心不仅是一个被动接收数据的黑箱，更是积极输出规约标准的发射台。在 VERA 项目中，IQB 不仅制定测试工具，更针对国家标准研发了配套的教学任务数字化平台。教师登录平台获取经过心理测量标定的备考练习题，而平台则同步收集并分发标准化数据。这种机制使得计算中心绕过了各州层级科层审核，直接将国家标准植入基层教师的教学设计之中，实现了对微观课堂教学法与技能培养的拓扑学重塑（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
 
 ---
 
@@ -220,7 +218,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 将计算中心框架运用于德国[[Institute for Educational Quality Improvement\|IQB]] 案例，系统揭示跨尺度[[Data Infrastructure\|数据基础设施]]如何重塑国家与州级教育政策空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 探讨数据基础设施素养与数字化时代治理权力的分布式网络特征，反思传统单一计算中心模型的演进方向。
 > - Latour (1987) — 经典开创计算中心理论，阐述标准化数据表征转译、积累与远程控制的社会-物质机制。

@@ -7,7 +7,7 @@ summary: "一种结合箱线图与核密度估计的定量数据可视化方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[UpSet Plot]]"
   - "[[Intraclass Correlation Coefficient]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Violin Plot
@@ -163,5 +162,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 在《[[Visible Learning\|可见的学习]]》156 项一阶[[Meta-analysis\|元分析]]的大模型提取评测中绘制图 2，运用小提琴图系统比较人类专家、既有数据库与三大前沿大语言模型在综合[[Effect Size\|效应量]] $d$、研究数 $k$ 与学生[[Sample Size Determination\|样本量]] $N$ 上的概率密度轮廓，实证证实模型与金标准的统计分布完全对齐。

@@ -23,8 +23,8 @@ tags:
   - region/china
 related_concepts:
   - "[[Psychologisation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Youth Development Blueprint
@@ -54,7 +54,7 @@ updated: 2026-10-07
 > - **发布时间 / 发布主体** 2022年12月由香港特别行政区政府民政及青年事务局正式发布（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 > - **适用对象 / 范围** 香港特别行政区所有12至39岁的青年人群体。
 > - **问题背景** 2019年[[2019 Hong Kong Protests\|反修例运动]]后，特区政府急需扭转青年的离心倾向。2022年7月习近平访港将青年发展列为讲话核心；同日民青局成立并开始草拟首份系统的青年白皮书文件（p.153）。
-> - **制度位置** 作为国安法落地后课外[[Psychologisation\|心理化]][[Disciplina and Doctrina\|规训]]青年的顶层纲领，与课内的[[Citizenship and Social Development\|公民与社会发展科]]形成去政治化治理的协同体系（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
+> - **制度位置** 作为国安法落地后课外[[Psychologisation\|心理化]]规训青年的顶层纲领，与课内的[[Citizenship and Social Development\|公民与社会发展科]]形成去政治化治理的协同体系（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-10-07
 > > - **[[Argument_Vickers_2024_CE\|Vickers（2024, pp.153–154）]]** 指出蓝图的核心逻辑是心理化去政治化治理，把结构性政治不满翻译为个人心理适应不良，是对社会分配与政治权利缺失问责的系统性解构。
 > > - **民青局局长（2022）** 坚信蓝图旨在协助青年克服当前的社会流动性难关，通过正向思维培训和自强计划释放青年发展潜力。
 > 
-> > [!axis] 青年实质能动性 vs. 柔性臣民[[Disciplina and Doctrina\|规训]]
+> > [!axis] 青年实质能动性 vs. 柔性臣民规训
 > > 争论在于青年政策是否需要直面青年在社会和政治上的实质参与及能动性需求。
 > > - **吕大乐 & 张炳良（2023）** 指出如果不正面回应青年在社会和政治上的实质参与及能动性需求，单纯依赖感恩说教和情绪管理将难以见效。
 > > - **建制评论人（2022）** 认为蓝图为青年的[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]流动和经济自强指明了切实可行的路线，正向引导才是香港长期稳定的出路。

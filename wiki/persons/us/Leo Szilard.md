@@ -8,7 +8,7 @@ summary: "美籍匈牙利裔物理学家与发明家，核链式反应概念的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - nuclear-weapons
 related_concepts:
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Technological Republic]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Leo Szilard
@@ -92,7 +93,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 利奥·西拉德坚信顶尖前沿科学发现绝非与地缘政治隔绝的纯粹智力活动。当极端专制势力威胁自由世界生存时，科学家有不可推卸的道德责任主动将尖端科技转化为保卫文明底线的[[Hard Power|硬实力]]；而在获得压倒性技术威慑后，科学界又必须积极介入公共治理，构建跨国信任与风险约束机制，防止毁灭性力量被滥用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> 利奥·西拉德坚信顶尖前沿科学发现绝非与[[Geopolitics|地缘政治]]隔绝的纯粹智力活动。当极端专制势力威胁自由世界生存时，科学家有不可推卸的道德责任主动将尖端科技转化为保卫文明底线的[[Hard Power|硬实力]]；而在获得压倒性技术威慑后，科学界又必须积极介入公共治理，构建跨国信任与风险约束机制，防止毁灭性力量被滥用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 
 ---
 

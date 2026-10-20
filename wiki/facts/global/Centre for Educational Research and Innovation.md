@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 54
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,16 +43,15 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
   - "[[Construct]]"
   - "[[Commensuration]]"
   - "[[Critical Thinking]]"
+  - "[[Test Production]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments:
   - "[[OECD Rubrics for Creativity and Critical Thinking]]"
 related_persons:
@@ -185,7 +184,7 @@ updated: 2026-10-20
 > > - **工会与赋权学者立场（班斯 / [[Vivian Tseng\|曾薇薇安]] / 友利田）** 指出单纯从出资人角度拔高技术标准只会进一步剥夺一线教师所有权，造成高校对社区的榨取式科研与均值正态化排斥，必须推进[[Democratising Evidence\|证据民主化]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–227)]]
 >
 > > [!axis] 人文定性使命 vs 经济主义指标霸权的制度拉锯
-> > 围绕 CERI 究竟应作为抵御新自由主义的技术刹车片，还是沦为跨国量化[[Disciplina and Doctrina|规训]]的隐蔽孵化器，学界存在持续反思。
+> > 围绕 CERI 究竟应作为抵御新自由主义的技术刹车片，还是沦为跨国量化规训的隐蔽孵化器，学界存在持续反思。
 > >
 > > - **社会民主与人文反思视界（帕帕多普洛斯 / [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]）** 强调 CERI 创设之初确立了教育改善生活条件的定性维度与社会民主主义妥协，在 1970–1980 年代维系了多元包容的意识形态教会；其前瞻探索始终尝试对冲狭隘的[[Human Capital Theory|人力资本]]功利偏见。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]
 > > - **批判政治经济学视界（戈鲁尔）** 指出 CERI 在 1980 年代后期主导孵化的 [[International Indicators of Education Systems|INES]] 指标网络与《[[Education at a Glance|教育概览]]》，恰恰为 1990 年代经合组织彻底转向[[Governing by Numbers|数字治理]]与 [[PISA]] 霸权铺平了道路，客观上完成了将复杂的质性教育哲学降维为跨国等值测度指标的历史交割。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5–8)]]
@@ -216,7 +215,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 考证 CERI 创设的历史契机，阐述其如何确立教育增长的定性维度并作为四大支柱之一维系成员国多元自主权。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理 [[OECD]] 内部机构演变史，论证 CERI 及其主管 [[Jarl Bengtsson]] 如何启动 [[International Indicators of Education Systems\|INES]] 项目开启全球教育数据治理转向。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance\|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据[[Commensuration\|通约]]性的博弈。
@@ -225,5 +224,5 @@ updated: 2026-10-20
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem\|证据生态系统]]诊断框架。
 > - [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — CERI [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]综合成果专著，全面呈现 29 国 37 个教育系统证据治理调研结论。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — CERI 专著第 10 章，系统呈现 7 大利益相关者群体关于知识供给侧质量、工会赋权、[[Democratising Evidence\|证据民主化]]与受托伦理的全景论辩。
-> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 记录经合组织在 1990 年代整合 CERI 与教育委员会资源组建统计与指标处、为 PISA 测验生产奠定官僚行政支撑的历史。
+> - [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] — 记录经合组织在 1990 年代整合 CERI 与教育委员会资源组建统计与指标处、为 [[PISA]] [[Test Production|测验生产]]奠定官僚行政支撑的历史。
 

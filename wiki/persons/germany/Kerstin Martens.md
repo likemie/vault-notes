@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,7 +42,6 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Christian Ydesen]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Kerstin Martens
@@ -128,7 +127,7 @@ updated: 2026-10-19
 > - **政策路径** 促使欧洲议会与多国教育决策智库重新审视[[OECD\|经合组织]]等外部经济组织发布的指标建议，警惕其工具性使命对国家教育本体价值的扭曲。
 > - **跨国／跨领域传播** 成果跨越比较政治学、社会政策学、公共行政学与教育学，在全欧乃至全球社会科学界产生跨学科[[Demonstration Effect|示范效应]]。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
 

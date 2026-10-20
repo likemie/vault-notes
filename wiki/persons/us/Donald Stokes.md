@@ -9,14 +9,14 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
-updated: 2026-10-19
+updated: 2026-10-20
 tags:
   - person/political-scientist
   - person/policy-scholar
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Scientific Autarky]]"
   - "[[Epistemology]]"
   - "[[Focused Research Organization]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
@@ -128,7 +127,7 @@ created: 2026-10-02
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（[[Curiosity-Driven Research|纯基础研究]]）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
+> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（纯基础研究）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 
 > [!citation-card] 樊春良论斯托克斯与冷战后科学契约的再协商
 > 面对冷战终结与赤字攀升带来的合法性危机，斯托克斯于 1997 年提出巴斯德象限理论，确立了“应用启发的基础研究”概念。该[[Paradigm|范式]]打破了纯基础与纯应用的机械二分，为既追求根本性理解又受实际应用问题启发的科研活动提供了坚实的[[Epistemology|认识论]]合法性，成为克林顿政府《[[Science in the National Interest 1994|科学与国家利益]]》（1994）之后维系科学界与国家新契约的核心认知支柱。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]

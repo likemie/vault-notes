@@ -8,7 +8,7 @@ summary: "研究综合是系统检索、严格评估并整合针对特定研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -58,7 +58,6 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Trim and Fill Method]]"
   - "[[Weight of Evidence Framework]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
 related_persons:

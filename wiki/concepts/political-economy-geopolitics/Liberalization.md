@@ -25,13 +25,13 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Washington Consensus]]"
+  - "[[Developmentalism]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Varieties of Capitalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Convergence Theory in Comparative Education]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"
@@ -193,7 +193,7 @@ updated: 2026-10-20
 > > - **批判社会学与政策社会学派（Bourdieu, Rizvi & Lingard）** 论证全球化叙事是对经济自由化工程的意识形态遮掩，其本质是通过意义政治迫使公众屈从于激烈的市场支配并削夺替代性选择。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 
 > [!warning] 适用局限
-> 自由化概念聚焦市场力量对传统集体规制的侵蚀与替代；但在国家资本主义或威权发展主义体制中，市场化常常与国家控制力的再集中与新型监控技术同步发生，单纯的“去组织化”视角可能忽视国家权力的再造。
+> 自由化概念聚焦市场力量对传统集体规制的侵蚀与替代；但在国家资本主义或威权[[Developmentalism|发展主义]]体制中，市场化常常与国家控制力的再集中与新型监控技术同步发生，单纯的“去组织化”视角可能忽视国家权力的再造。
 
 ---
 

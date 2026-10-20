@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -21,8 +21,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Test-Based Accountability]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Pedagogy]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Technical Rationality]]"
   - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
@@ -98,7 +97,7 @@ updated: 2026-10-20
 
 > [!boundary]- 概念边界
 > - 不等于 [[New Public Management|新公共管理]]（NPM） — NPM 是整个公共行政领域的普遍管理学[[Paradigm|范式]]；GERM 则是 NPM 在教育特定[[Champ|场域]]中与标准化课程、读写算术偏狭化及测试问责深度结合的产物。
-> - 不等于 基于测试的问责 — [[Test-Based Accountability|考试问责]]仅是 GERM 运作的核心[[Disciplina and Doctrina|规训]]技术之一，未能涵盖 GERM 在财政紧缩、市场竞争与跨国资本牟利层面的宏观制度设计。
+> - 不等于 基于测试的问责 — [[Test-Based Accountability|考试问责]]仅是 GERM 运作的核心规训技术之一，未能涵盖 GERM 在财政紧缩、市场竞争与跨国资本牟利层面的宏观制度设计。
 > - 不适用于描述芬兰等坚持专业信任、全面发展、地方自主与平等均质发展的非新自由主义教育体系。
 
 ---
@@ -162,7 +161,7 @@ updated: 2026-10-20
 
 ### 命题二　GERM 依托标准化指标与循证话语建构多层级技术官僚治理机制
 
-> [!concept-lens] 循证科学与技术官僚[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 循证科学与技术官僚规训
 > 探讨[[Scientism|科学主义]][[Discourse|话语]]如何将育人实践转化为可测量、可审计与可问责的行政指标。
 
 > [!claim] Sahlberg (2012)

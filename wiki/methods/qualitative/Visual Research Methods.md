@@ -10,7 +10,7 @@ summary: "利用照片、影片录像与器物等视觉媒体收集教育研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Qualitative Research]]"
   - "[[Observation Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Visual Research Methods
@@ -166,5 +165,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]] — 教材系统阐述以照片、影片与[[Artefact\|器物]]收集数据的操作程序、选择标准与伦理要求，并介绍照片引谈与录像研究的典型案例。

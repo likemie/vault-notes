@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部依据法规在数据收集前审查涉及人类受试者研究方案的伦理治理机构；在规范受试者风险防范与知情同意的同时，也因规章形式主义、情境伦理钝感与抑制激进科学探索而面临深刻的制度批评。"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"

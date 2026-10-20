@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 51
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -52,8 +52,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[ROAR Framework]]"
   - "[[Discovery-Invention Cycle]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -75,7 +74,6 @@ related_facts:
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Transformational AI Models Consortium]]"
   - "[[National Institutes of Health]]"
-  - "[[National Science Foundation]]"
   - "[[Nuclear Regulatory Reform Executive Orders 2025]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[Bell Labs]]"

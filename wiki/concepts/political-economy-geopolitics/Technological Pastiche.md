@@ -6,7 +6,7 @@ aliases:
 summary: "由人类学家大卫·格雷伯（David Graeber, 2012）提出并被卡普与扎米斯卡（2025）引用的科技批判构念，指现代科技产业在物理世界重大工程与颠覆性基础科学创新陷入停滞后，退缩为对既有数字化成果、通信协议与底层突破进行反复包装、微调与派生重组的浅层创新形态；它以海量手机应用、游戏与屏幕注意力争夺掩盖了人类对深空探索、清洁能源与物理世界革命性发明的历史性野心萎缩。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,8 +26,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Consumer Internet]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[David Graeber]]"

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Knowledge Mediation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Implementation Fidelity]]"
   - "[[Effective Teaching]]"
   - "[[Active Learning]]"
@@ -66,7 +67,6 @@ related_methods:
   - "[[Cluster Analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Analysis of Variance]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Slavin]]"
   - "[[John Hattie]]"
@@ -110,7 +110,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evidence-Based Reform
@@ -159,7 +159,7 @@ updated: 2026-10-16
 > - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速转译平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–26)]]
 > - **全链条四项核心活动（Four Essential Activities）** 制度化贯通“评估有效干预 $\to$ 专家转译指南 $\to$ 提供采纳资源 $\to$ 政策持续累积”的良性循环活动。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 9, 21–22)]]
-> - **本地情境可用性（Local Usability）** 将经济成本、耗材要求、学生使用时间及与本地课程标准的匹配度纳入循证决策考量，确保外部因果证据能够在具体学校顺利落地。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
+> - **本地情境可用性（Local Usability）** 将经济成本、耗材要求、学生使用时间及与本地课程标准的匹配度纳入[[Evidence-Based Policy-Making|循证决策]]考量，确保外部因果证据能够在具体学校顺利落地。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
 > - **教师民主投票准入机制（Teacher Democratic Supermajority Vote）** 为确保一线教师的主人翁意识（Ownership）并化解自上而下行政强推的抵触，改革方案的引进通常设立全校教职工无记名投票门槛（如 [[Success for All]] 强制要求全校 80% 以上教师投赞成票），将基层民主授权与外部强保真度实施有机结合。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 7)]]
 
 > [!logic-map]- 循证改革要素关系与运行机制
@@ -304,7 +304,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 探究奥地利基础教育阶段证据本位与产出导向改革在学校微观层面的受纳现状，证实真正接纳循证监控工具的校长群体仅占少数，但该群体在教学领导与校本评估上表现出显著更高的实践积极性。
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm\|范式]]与反思教育研究声誉危机。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction\|RTPI]] 方案蓝图。

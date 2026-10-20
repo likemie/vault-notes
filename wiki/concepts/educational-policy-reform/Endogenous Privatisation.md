@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指公立教育体系在维持公有产权名义下内部运作的企业化与市场化转型。通过引入新公共管理技术、以考代评绩效问责、生均经费竞争、家长择校准市场以及使用者付费，将公立学校改组为自负盈亏的商业经营实体，并在高等教育中表现为依赖国际留学生学费维持生存的永久企业化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,11 +24,11 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Choice]]"
   - "[[Bureaucracy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Exogenous Privatisation]]"
   - "[[Performance Indicators]]"
   - "[[Educational Management Organisation]]"
   - "[[Public-Private Partnership]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[High-Stakes Testing]]"
@@ -46,7 +46,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
@@ -75,7 +74,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析公立教育“像企业一样运营”的内部制度变形，揭示市场化原则如何在公立机构的肌理内部侵蚀公共性。
-> - **用途** 帮助研究者透视公立学校内部由行政[[Bureaucracy|科层制]]向商业竞争主体的转化，剖析绩效问责、以考代评、家长选校与使用者自费对教师劳动的深刻[[Disciplina and Doctrina|规训]]。
+> - **用途** 帮助研究者透视公立学校内部由行政[[Bureaucracy|科层制]]向商业竞争主体的转化，剖析绩效问责、以考代评、家长选校与使用者自费对教师劳动的深刻规训。
 > - **边界** 区别于直接把学校产权、后勤或教学业务打包出售给校外承包商的[[Exogenous Privatisation|外生私有化]]；内生私有化并不必然改变学校的公立归属，而是改变其运行机制与价值规范。
 
 > [!citation-card] 鲍尔与尤德尔论内生私有化的内部殖民本质
@@ -153,7 +152,7 @@ updated: 2026-10-20
 
 ### 命题三　量化绩效指标与以考代评重塑教师专业主体性并诱发表演性焦虑
 
-> [!concept-lens] 劳动过程与微观权力[[Disciplina and Doctrina|规训]]维度
+> [!concept-lens] 劳动过程与微观权力规训维度
 > 探讨企业化管理技术对一线教育工作者劳动形态的重构。
 
 > [!claim] Ball, S. J.

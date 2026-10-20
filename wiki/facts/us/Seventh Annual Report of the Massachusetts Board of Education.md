@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
   - "[[Normal School]]"
+  - "[[Benevolence]]"
   - "[[Policy Borrowing]]"
   - "[[Discourse]]"
   - "[[Popular Education]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Seventh Annual Report of the Massachusetts Board of Education
@@ -88,7 +89,7 @@ updated: 2026-10-16
 > - **[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法与口头问答教学**
 >   盛赞普鲁士课堂彻底扬弃了[[Rote Learning\|死记硬背]]与机械听写，广泛采用实物教学（object teaching）、直观教具与启发式口头问答，遵循儿童心灵官能自然成长节奏，使课堂充满求知的欢愉。（pp. 31–32）
 > - **温和人道纪律与废除严酷体罚**
->   曼在报告中写下震动全美的著名论断：在其长达数月对普鲁士数十所学校的走访中，他“从未见过一名学生受到一次鞭打（never saw a blow struck）”，也未见过一名学生流泪；教师依靠仁爱、道德自律与内在激励维持秩序，使学校成为儿童向往的精神殿堂。（p. 31; Downs, 1974:88）
+>   曼在报告中写下震动全美的著名论断：在其长达数月对普鲁士数十所学校的走访中，他“从未见过一名学生受到一次鞭打（never saw a blow struck）”，也未见过一名学生流泪；教师依靠[[Benevolence|仁爱]]、道德自律与内在激励维持秩序，使学校成为儿童向往的精神殿堂。（p. 31; Downs, 1974:88）
 > - **超越狭隘教派偏见的道德品格教育**
 >   指出普鲁士在多元教派并存的环境下，成功将宗教道德教育立足于普遍的基督教精神与社会公德，而非强推教派教理问答，为马萨诸塞确立非宗派公学提供了实证支撑。（pp. 31–32）
 

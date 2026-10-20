@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Modern Industrial Policy]]"
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Policy Conditionalities]]"
   - "[[Vertical Disintegration]]"
@@ -82,7 +83,7 @@ updated: 2026-10-20
 >   - **支柱二：保障供应安全与放宽国家援助** 创立欧洲首创（First-of-a-kind）设施认证标准，允许成员国政府向综合制造设施（IPF）与开放式晶圆代工厂（OEF）提供高额直接资本补贴（如法国资助意法/格芯 29 亿欧元，德国资助台积电德累斯顿厂约 50 亿欧元与英特尔马格德堡厂），在豁免欧盟国家援助规则前提下吸引先进制程与成熟制程建厂；[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 12)]]
 >   - **支柱三：供应链监测与危机应急响应** 建立欧委会与成员国协同的供应链短缺监测预警网络；在官方认证进入严重断链危机时，欧委会有权指令受助企业报送产能信息、优先排产交付欧洲本土关键订单并实施联合采购，抗命企业将面临行政罚款。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12, 15)]]
 > - **约束机制** 
->   - 缺乏类似美国对第三国（中国）先进制程扩产的十年刚性地缘政治排他护栏；
+>   - 缺乏类似美国对第三国（中国）先进制程扩产的十年刚性[[Geopolitics|地缘政治]]排他护栏；
 >   - 劳工用工标准完全交由各成员国劳动法自行规范，无超国家统一强制要求；
 >   - 在第二支柱和配套的微电子 [[Important Projects of Common European Interest|IPCEI]] 中设立超额利润回缴机制（Claw-back），要求受助商业项目在产生超额净收益时将部分补贴资金按比例返还给出资国政府。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 

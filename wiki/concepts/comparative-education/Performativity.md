@@ -9,7 +9,7 @@ aliases:
 summary: "Lyotard 提出的输入输出效率原则与 Ball 发展的教育治理规训技术，要求社会系统与教育主体不断优化表现并以高度可见的方式生产合规证明，在微观上导致专业道德空心化与表演性危机，在宏观上驱动全球政策网络的话语空洞化与实用主义联盟"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,7 +20,6 @@ tags:
   - performativity
   - labor-process
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Commensuration]]"
   - "[[Ontology]]"
   - "[[Policy Network]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Learning Intentions]]"
   - "[[Performativity of Measurement]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Institutional Displacement]]"
   - "[[Learning Gain]]"
   - "[[Reliability]]"
@@ -53,8 +53,7 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Network Society]]"
   - "[[Panopticism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -86,7 +85,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观[[Disciplina and Doctrina|规训]]技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
+> **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观规训技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 双层分析透镜
 > - **宏观系统与全球网络层面** 操演性表现为后工业系统与[[Policy Network|全球政策网络]]的准入与存续法则：凡是不能用输入/输出指标与可见成果证明自身效能的机构都面临被网络边缘化排除的系统恐怖，促使国际组织（如 [[OECD]]、[[World Bank|世界银行]]）超越意识形态分歧结成[[Pragmatic Paradigm|实用主义]]同盟，竞相生产高度抽象、去情境化的政策报告（[[Argument_Beech_2009_CE|Beech, 2009a]]）。
@@ -139,7 +138,7 @@ updated: 2026-10-20
 ### 命题一：操演性逻辑下的系统恐怖与网络空间排除机制
 
 > [!claim] 系统恐怖与要么操作要么消失的生存困境（Lyotard, 1984；Castells, 2000）
-> [[Jean-François Lyotard|利奥塔]]确立了现代社会系统操演性的无情法则：系统为了最大化输入/输出比，对所有社会关系施加[[Commensuration|通约化]][[Disciplina and Doctrina|规训]]。凡是拒绝被标准化[[Operationalization|操作化]]的实践形态，都会被系统判定为无效冗余并予以剔除。卡斯特指出，在[[Network Society|网络社会]]的[[Space of Flows|流动空间]]中，这一逻辑演变为排他的二元编码——无法在可见性排名中提供优异指标的节点，将被网络算法自动绕过与物理切断，引发全景式的生存恐慌。
+> [[Jean-François Lyotard|利奥塔]]确立了现代社会系统操演性的无情法则：系统为了最大化输入/输出比，对所有社会关系施加[[Commensuration|通约化]]规训。凡是拒绝被标准化[[Operationalization|操作化]]的实践形态，都会被系统判定为无效冗余并予以剔除。卡斯特指出，在[[Network Society|网络社会]]的[[Space of Flows|流动空间]]中，这一逻辑演变为排他的二元编码——无法在可见性排名中提供优异指标的节点，将被网络算法自动绕过与物理切断，引发全景式的生存恐慌。
 
 ### 命题二：微观劳动过程的控制与教师专业灵魂的资产负债表
 
@@ -195,7 +194,7 @@ updated: 2026-10-20
 >
 > *“The principle of performativity implies a logic of input/output in which the final objective is to optimise the performance of a given social system. The pervasion of this principle through social relations implies a certain level of terror expressed in the phrase 'be operational (that is, commensurable) or disappear'.”*
 
-> [!citation-card] Ball 论表演性作为[[Disciplina and Doctrina|规训]]技术与专业灵魂的侵蚀
+> [!citation-card] Ball 论表演性作为规训技术与专业灵魂的侵蚀
 > 表演性是一种纪律、一种技术、一种压迫的形式……它要求教师和学校不断生产关于自身产出的证据与数据。结果是捏造的盛行——制造用于外部消费的专业外观，以掩盖真实的日常实践。在这个过程中，教育者的专业灵魂遭受了深重创伤。（Ball, 2003, pp. 215–216）
 >
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements, comparisons and displays as means of incentive, control, [[Attrition]] and change... The terrors of performativity produce fabrications—spectacles of [[Strategic Compliance|compliance]] produced for external consumption.”*

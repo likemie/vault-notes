@@ -36,11 +36,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
@@ -157,7 +157,7 @@ updated: 2026-10-20
 > | [[Education Endowment Foundation]] | Fact (Organization) | Impetus 与[[Sutton Trust\|萨顿信托]]联合创设的旗舰教育[[Educational Brokerage Agency\|证据中介机构]]。 |
 > | [[Sutton Trust]] | Fact (Organization) | 英国教育慈善领域的长期盟友，共同发起成立 EEF。 |
 > | [[Social Ventures Australia]] | Fact (Organization) | 澳大利亚[[Venture Philanthropy\|风险慈善]]镜像机构，共享美洲银行、普华永道等资助网络。 |
-> | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | Impetus 参与推动并监督的循证决策工具包。 |
+> | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | Impetus 参与推动并监督的[[Evidence-Based Policy-Making\|循证决策]]工具包。 |
 > | [[BHP Foundation]] | Fact (Organization) | 共同卷入跨国[[Evidence-Based Education\|循证教育]]生态资助网络的跨国资本方。 |
 > | [[Venture Philanthropy]] | Concept | Impetus 属于英国最典型、最资深的[[Social Impact Investing\|风险慈善]]与私募股权基金会组织形态。 |
 > | [[Policy Network]] | Concept | Impetus 充当了跨国投行资本连接英国政府与海外政策网络的关键枢纽。 |
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 绘制 Impetus 背后的贝恩资本、KKR、黑石集团等跨国私募网络（图 3），解构其与[[Sutton Trust\|萨顿信托]]联合创办 [[Education Endowment Foundation\|EEF]] 并输出至澳大利亚的资本路径。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Impetus 与萨顿信托联合参与英国教育部公开竞标并设立 1.25 亿英镑留本基金的历史经纬。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 剖析由[[Venture Philanthropy\|风险慈善]]母体孵化独立证据中介以平衡政府政治干预的制度机制。

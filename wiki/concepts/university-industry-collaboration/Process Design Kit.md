@@ -10,7 +10,7 @@ aliases:
 summary: "晶圆代工厂向芯片设计团队与电子设计自动化（EDA）工具提供的底层模型、物理规则与标准单元库集合，构成了电路设计转化为物理硅片的法定工程界面；随着先进封装发展进一步演进出装配设计套件（ADK）。在创新生态中，专有套件的高昂授权与保密协议构成了硬件创新的关键壁垒；依托国家设计网关集中托管并推动开源 PDK 与标准化接口，是打通从实验室到代工厂中试断层的核心举措。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,8 +35,7 @@ related_concepts:
   - "[[Co-Design]]"
   - "[[Market Failure]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

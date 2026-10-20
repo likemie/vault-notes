@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -99,6 +99,8 @@ related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[Computational Thinking Scale]]"
   - "[[PRISMA]]"
+related_arguments:
+  - "[[Argument_Liu_2025_IndHE]]"
 status: draft
 tags:
   - level/k-12
@@ -108,7 +110,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Liu_2026_CHBR
 
@@ -221,7 +223,7 @@ updated: 2026-10-17
 > | **Lin and Mubarok (2024)** | 中国 | 52 (29/23) | 高小学段 | 信息技术（计算思维积木编程） | 5周 (40分/次) | 技能类 (1) | 0.68 | 0.08 |
 > | **Mageira et al. (2022)** | 希腊 | 35 (10/25) | 低小学段 | EFL 英语（语言与学科内容融合学习） | 未报告 | 知识类 (2) | 0.05 | 0.11 |
 > | **Alneyadi and Wardat (2023)** | 阿联酋 | 122 (64/58) | 高中学段 | 物理（电磁学概念掌握） | 12周 (3课时/周) | 知识类 (1) | 0.51 | 0.05 |
-> | **Liu et al. (2025)** | 中国 | 104 (60/44) | 低小学段 | 数学（数学推理与四则运算技能） | 未报告 (40分/次) | 技能类 (1) | 0.09 | 0.03 |
+> | **[[Argument_Liu_2025_IndHE\|Liu et al. (2025)]]** | 中国 | 104 (60/44) | 低小学段 | 数学（数学推理与四则运算技能） | 未报告 (40分/次) | 技能类 (1) | 0.09 | 0.03 |
 > | **Rücker & Becker-Genschow (2025)** | 德国 | 195 (104/91) | 初中阶段 | 数学（平方根运算自适应练习） | 未报告 | 技能类 (1) | -0.27 | 0.02 |
 
 > [!example]- 图1：PRISMA [[Literature Search\|文献检索]]与筛选流程图

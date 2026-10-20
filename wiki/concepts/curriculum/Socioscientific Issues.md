@@ -2,7 +2,7 @@
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,7 +41,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Discourse Analysis]]"
   - "[[Multiple-Choice Questions]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -163,6 +162,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 系统对比科学探究、[[Engineering Education|工程教育]]与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 探讨论辩理论在社会科学议题与科学哲学教学中的应用框架。

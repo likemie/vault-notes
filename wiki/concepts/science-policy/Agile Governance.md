@@ -2,7 +2,7 @@
 summary: "将软件工程敏捷哲学、实验设计与工程实用主义跨界引入公共行政与科技政策制定的核心治理范式；通过短周期快速迭代、跨职能流动团队、以用户为中心的设计、免责根因复盘以及小步快跑的试错实验，打破新公共管理的僵化瀑布外包与去技能化困境，支持公共部门在不确定环境中实现自适应演化与持续反思性学习。"
 type: concept
 domain: "science-policy"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Five Whys]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"

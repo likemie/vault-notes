@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Geopolitics]]"
   - "[[Soft Power]]"
   - "[[Liberalization]]"
   - "[[International Education Hubs]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Singapore Education Hub Policy
@@ -108,7 +109,7 @@ updated: 2026-10-16
 
 > [!success]
 
-- **地缘政治转型的实现** 新加坡成功将 NUS and NTU 转型为全球声誉大学，"按美国常春藤模式"运作，吸引了大量国际科学家和学生，确立了自身作为亚洲大陆高等教育和研究的"首选地点"。这一定位正是其教育枢纽项目所追求的地缘政治转型([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.208]])
+- **[[Geopolitics|地缘政治]]转型的实现** 新加坡成功将 NUS and NTU 转型为全球声誉大学，"按美国常春藤模式"运作，吸引了大量国际科学家和学生，确立了自身作为亚洲大陆高等教育和研究的"首选地点"。这一定位正是其教育枢纽项目所追求的地缘政治转型([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.208]])
 - **[[Soft Power|软实力]]积累** 新加坡于 2020 年前后已成为重要的国际峰会举办地和区域冲突的调解者/中介者，"东方波士顿"项目在培育区域精英和塑造国家进步形象方面的长期投资，被认为是这一软实力积累的重要组成部分（pp.207–208）
 - **"东方波士顿"长期成功** 该项目被评价为"大概成功了"——其文化和外交回报"难以量化但无形回报可能很高"（p.208）
 

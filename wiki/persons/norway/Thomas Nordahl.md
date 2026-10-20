@@ -8,7 +8,7 @@ summary: "挪威教育学者与学校改进论者，Visible Learning 北欧支�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -45,7 +44,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-21'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 ## 简介
 
@@ -85,5 +84,5 @@ updated: 2026-10-15
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 在当前材料中，Nordahl 明显站在 [[Visible Learning]] 支持路径一侧，且立场较强。他在主题号导言中的位置也被概括为一种“完全拒绝使用 Hattie 及[[Correlational Research\|相关研究]]结果的人，需要为儿童未来承担道德责任”的强硬姿态；这种写法强化了改革紧迫感，但压缩了对[[Analytical Stance\|批判立场]]的对等呈现空间([[Argument_Hansen_2015_Paideia\|Hansen et al., 2015, pp.7–8]])。
+> - 在当前材料中，Nordahl 明显站在 [[Visible Learning]] 支持路径一侧，且立场较强。他在主题号导言中的位置也被概括为一种“完全拒绝使用 Hattie 及相关研究结果的人，需要为儿童未来承担道德责任”的强硬姿态；这种写法强化了改革紧迫感，但压缩了对[[Analytical Stance\|批判立场]]的对等呈现空间([[Argument_Hansen_2015_Paideia\|Hansen et al., 2015, pp.7–8]])。
 > - 其 2015 年文章属于立场鲜明的评论性综述，而非独立实证研究，因此更适合用来把握支持方的系统改进逻辑，不宜当作直接证明学校改进效果的经验研究([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, pp.61–69]])。

@@ -8,7 +8,7 @@ summary: "美国著名宏观经济学家、西北大学讲席教授，以《美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hard Power]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Nicholas Negroponte]]"
   - "[[David Graeber]]"

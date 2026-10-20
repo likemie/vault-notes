@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Geopolitics]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
 related_methods: []
@@ -130,7 +131,7 @@ updated: 2026-10-20
 > [!debates] 核心争议交锋
 >
 > > [!axis] 科学家独立同行自治 vs 政治行政干预与国家安全泛化
-> > 争论国家科学委员会是否应坚守纯学术自治原则，抵御日益增强的白宫行政意志与地缘政治安全干预。
+> > 争论国家科学委员会是否应坚守纯学术自治原则，抵御日益增强的白宫行政意志与[[Geopolitics|地缘政治]]安全干预。
 > >
 > > - **科学自由派观点** 坚信科学探索的突破依赖不受政治干预的学者自由选题与同行评审，反对将国家安全审查机制过度渗透至大学基础研究资助中。
 > > - **国家战略派主张** 认为在全球地缘博弈白热化时代，联邦资助必须服务于国家核心利益与关键供应链安全，NSB 必须主动承担统筹国家战略技术攻关的治理责任。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 237–238)]]

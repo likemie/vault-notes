@@ -21,6 +21,7 @@ tags:
   - theme/evidence-based-education
 related_concepts:
   - "[[Knowledge Transfer]]"
+  - "[[Neuromyth]]"
   - "[[Reliability]]"
   - "[[Praxis]]"
   - "[[Deficit Model of Science Communication]]"
@@ -40,7 +41,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Educational Science Communication
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教育研究成果向实践渗透的过程本质上是双向或多向的社会沟通与情境调适，而非科研产品的单向机械投放。
-> - **用途** 辅助教育研究者诊断教师证据疏离与教育神经神话信奉的传播学根源，指导多元数字媒介与转译格式的开发。
+> - **用途** 辅助教育研究者诊断教师证据疏离与[[Neuromyth|教育神经神话]]信奉的传播学根源，指导多元数字媒介与转译格式的开发。
 > - **边界** 教育科学传播不等于降低学术标准的过度简化；其传递的证据必须满足基本的科学严谨性与[[Reliability\|信度]]标准，且尊重复杂课堂教学的专业自主权。
 
 > [!citation-card] 教育科学传播的非线性与情境适配本质
@@ -184,7 +184,7 @@ updated: 2026-10-16
 > [!dev-timeline] 教育科学传播[[Paradigm\|范式]]演进
 > - **20 世纪末 — 早期自上而下政策驱动期** 侧重通过官方课程标准、白皮书与学术期刊向学校自上而下灌输科研发现，普遍遭遇一线教师的吸收抵抗。
 > - **2010 年代 — 循证清算中心与专业中介崛起** 随着[[Evidence-Based Education\|循证教育]]运动兴起，英美与德语区先后创设[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）、德国[[Forschungsmonitor Schule\|学校研究监测平台]]（FMS）等专业中介机构，系统提炼[[Meta-analysis\|元分析]]并向教师教育者分发简评。
-> - **2020 年代至今 — 数字去中心化与全媒体对话转向** 播客、短视频与社交媒体成为师范生和教师获取教学灵感的重要渠道；教育科学界开始系统反思线性[[Knowledge Transfer\|知识转移]]局限，全面转向受众适配、反神经神话、去中心化互动的教育科学传播新生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–258)]]
+> - **2020 年代至今 — 数字去中心化与全媒体对话转向** 播客、短视频与社交媒体成为师范生和教师获取教学灵感的重要渠道；教育科学界开始系统反思线性[[Knowledge Transfer\|知识转移]]局限，全面转向受众适配、反[[Neuromyth|神经神话]]、去中心化互动的教育科学传播新生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–258)]]
 
 ---
 
@@ -221,5 +221,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 奠定教育科学传播作为应对教师证据疏离与神经神话泛滥的系统性行动框架。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 奠定教育科学传播作为应对教师证据疏离与[[Neuromyth|神经神话]]泛滥的系统性行动框架。

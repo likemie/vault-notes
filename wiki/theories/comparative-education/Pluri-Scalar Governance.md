@@ -27,6 +27,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Rescaling]]"
   - "[[International Education]]"
+  - "[[International Branch Campus]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Structural Adjustment Programs]]"
@@ -45,7 +46,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Bob Jessop]]"
@@ -121,7 +121,7 @@ updated: 2026-10-20
 > [!theory-proposition] 命题一｜超国家经贸规制通过多标度空间重组穿透并解构传统[[State Educational Sovereignty|国家教育主权]]
 > **解释** 传统民族国家的现代性神话在于将教育的经费筹措、产权所有、学校供给与质量监管完全统合于单一国家主权空间之内。[[World Trade Organization|WTO]] 与 [[GATS and Trade in Education Services|GATS]] 等超国家多标度机制彻底打破了这一封闭状态：通过界定跨境交付、境外消费、商业存在与自然人流动四种服务贸易模式，致力于消除教育服务流通的边境壁垒、推行学位证书跨国互认与教育商品化。这导致教育公共领域在产权、提供和监管活动上面临四分五裂的解构，原本完全由国家垄断的教育主权被重新分配给超国家仲裁机制与跨国私人市场。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
-> **应用实例** 跨国私立高等教育机构（如欧美大学海外分校或营利性教育跨国集团）依据 GATS 商业存在条款进入发展中国家办学；当东道国教育部试图以教学质量或意识形态为由限制其营利汇出或专业设置时，跨国机构可诉诸 WTO 贸易争端解决机制，直接挑战了东道国教育部对高等教育准入与课程管辖的传统排他性主权。
+> **应用实例** 跨国私立高等教育机构（如欧美大学[[International Branch Campus|海外分校]]或营利性教育跨国集团）依据 GATS 商业存在条款进入发展中国家办学；当东道国教育部试图以教学质量或意识形态为由限制其营利汇出或专业设置时，跨国机构可诉诸 WTO 贸易争端解决机制，直接挑战了东道国教育部对高等教育准入与课程管辖的传统排他性主权。
 
 > [!theory-proposition] 命题二｜多标度治理并不意味着国家消亡而是国家策略性利用超国家规则的主动再领土化
 > **解释** 多标度治理框架明确拒绝简单的“国家退场”或“主权消亡论”。民族国家并非外部资本与超国家机构的被动承受者；相反，在新自由主义全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，许多国家为了提升本国经济与科技的跨国[[Competitiveness|竞争力]]，极其主动地申请加入 WTO 等超国家机构并主动签订多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的“再领土化”。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]

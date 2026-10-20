@@ -40,6 +40,7 @@ related_concepts:
   - "[[Datafication of Learning]]"
   - "[[Topological Spatialisation]]"
   - "[[Global Policy Space]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge Transfer]]"
   - "[[Revolutionism]]"
   - "[[Examination Hell]]"
@@ -68,7 +69,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Robert Cowen]]"
@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Transfer Translation Transformation
@@ -201,7 +201,7 @@ updated: 2026-10-16
 
 ### 命题二　外来教育理念在本土转译与转化中受制于地缘政治与国际关系范式
 
-> [!concept-lens] 探讨维度：地缘政治力量与强制性移植的差异化转化
+> [!concept-lens] 探讨维度：[[Geopolitics|地缘政治]]力量与强制性移植的差异化转化
 > 学者指出：跨国[[Knowledge Transfer\|知识转移]]的动力与结局深层受制于国际权力结构与地方文化抗力。
 
 > [!claim] [[Argument_Klerides_2023_CE\|Klerides (2023, pp.422–427)]]
@@ -303,7 +303,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合 [[Actor-Network Theory\|ANT]] 转译理论与[[Topological Spatialisation\|拓扑空间]]学，揭示绩效[[Data Infrastructure\|数据基础设施]]与 [[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]如何将国家监测标准转译为微观诊断实践并实现跨尺度的[[Governing at a Distance\|远处治理]]重组。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提出 3T 核心[[Analytic Framework\|分析框架]]，并使用战后德日改革与后殖民教育重组阐释。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪能力[[Discourse|话语]]在微观实践中的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（pp. 348–361）。

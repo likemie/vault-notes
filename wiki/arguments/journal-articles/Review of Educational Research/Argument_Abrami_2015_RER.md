@@ -27,6 +27,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Academic Achievement]]"
   - "[[Domain Specificity]]"
+  - "[[Generic Skills]]"
   - "[[Scaffolding]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Construct]]"
@@ -89,14 +90,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -120,7 +121,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 涵盖学前、初等、中等、高等教育及成人阶段的批判性思维教学干预实证研究（基于 341 个标准化测量的真实验与准实验[[Effect Size\|效应量]]，以及 97 个[[Domain Specificity\|学科特异性]]技能效应量、140 个学业成就效应量与 25 个思维倾向效应量）。
-> - **张力** 理论上关于批判性思维是可跨情境迁移的通用认知技能还是依附于特定学科的[[Domain Specificity\|领域特异性]]知识的长期争论；实践中关于“单一讲授”与“探究互动”、“独立设课”与“学科融入”之间的效果分歧。
+> - **张力** 理论上关于批判性思维是可跨情境迁移的[[Generic Skills|通用认知技能]]还是依附于特定学科的[[Domain Specificity\|领域特异性]]知识的长期争论；实践中关于“单一讲授”与“探究互动”、“独立设课”与“学科融入”之间的效果分歧。
 > - **贡献** 构建了对话、真实性教学、导师制三维微观教学策略编码体系；通过大规模高质量[[Meta-analysis\|元分析]]量化论证了单一策略、双重组合与三维协同的效应梯度，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的交互增强机制。
 
 ---
@@ -147,7 +148,7 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable\|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、假设识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
+> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的[[Generic Skills\|通用认知技能]]，包括论证分析、证据评价、假设识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
 > | **[[Domain Specificity\|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
 > | **[[Critical Thinking Disposition\|批判性思维倾向]]**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|CCTDI]]）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
 > | **学业成就**<br>（Achievement） | 课程学科知识与常规内容掌握度。 | 学科期末考试、标准化成就测验；纳入 $k = 140$ 个效应量。（p. 295） |

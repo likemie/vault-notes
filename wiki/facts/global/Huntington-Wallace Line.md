@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/european-history
 related_concepts:
   - "[[Enlightenment]]"
+  - "[[Geopolitics]]"
   - "[[Determinism]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Huntington-Wallace Line
@@ -60,7 +61,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念提出与论战演变
 > - **1990 — 华莱士考证提出** 威廉·华莱士在《西欧的转型》（*The Transformation of Western Europe*）中绘制该线，用以解释冷战结束初期东欧各国内部向欧洲一体化靠拢的文化阻力差异。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 96)]]
-> - **1993 — 亨廷顿全景传播** 亨廷顿在《外交事务》论文中将其作为界定西方文明东界的核心证据（图7），用以预测冷战后欧洲内部潜在的地缘政治震荡区。
+> - **1993 — 亨廷顿全景传播** 亨廷顿在《外交事务》论文中将其作为界定西方文明东界的核心证据（图7），用以预测冷战后欧洲内部潜在的[[Geopolitics|地缘政治]]震荡区。
 > - **1990年代末至今 — 学界批判与规范性讨论挤压** 主流人文社科学界普遍批判其还原主义地理[[Determinism|决定论]]倾向；然而卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，学界的这种全盘排斥也导致了关于文化在国际关系、经济发展与国家防卫中规范性作用的严肃讨论被长久禁锢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 ---

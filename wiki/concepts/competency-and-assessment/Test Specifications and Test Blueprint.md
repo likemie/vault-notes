@@ -12,7 +12,7 @@ aliases:
 summary: "在测验编制中将课程目标、内容领域和题目权重系统对应起来的矩阵规划方法，通过内容×目标交叉框架确保内容效度与覆盖率，是连接教学目标与测验题目的设计工具"
 type: concept
 domain: "competency-and-assessment"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,11 +27,10 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_methods:
   - "[[Item Analysis]]"
-  - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Test Specifications and Test Blueprint
@@ -96,5 +95,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 24.5 节介绍测验规格的矩阵框架（Tables 24.1–24.2）、Gronlund and Linn 的权重分配、Mager 的目标标准及 TGAT（1988）的三种模式。

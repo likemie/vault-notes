@@ -8,10 +8,10 @@ summary: "美国计算机科学家、麻省理工学院媒体实验室联合创�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1943
 lifespan: "1943–至今"
 tags:
@@ -26,8 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Innovation Desert]]"
   - "[[Total Factor Productivity]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Peter Thiel]]"
   - "[[Robert J. Gordon]]"

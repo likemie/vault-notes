@@ -7,7 +7,7 @@ aliases:
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Academic Achievement]]"
   - "[[International Baccalaureate]]"
+  - "[[Education as Growth]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods:

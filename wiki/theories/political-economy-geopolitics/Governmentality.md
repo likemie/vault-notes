@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Self-control]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
@@ -53,8 +52,7 @@ related_theories:
   - "[[Lefebvre's Spatial Triad]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
   - "[[Societies of Control]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Nikolas Rose]]"
@@ -87,7 +85,7 @@ updated: 2026-10-20
 > - **解释对象** 现代国家与非国家机制如何超越单纯的法律禁止与肉体强制，通过制度理性、专家知识与分类标准，将“人口”（Population）组织为可计算、可干预的对象，并引导个体实现自愿的“自我调节”（[[Self-control|self-regulation]]）。
 > - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与新自由主义体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
 > - **理论类型** 元理论（Meta-theory）、权力分析学批判视角、[[Post-structuralism|后结构主义]]政治社会学[[Paradigm|范式]]。
-> - **知识位置** 由米歇尔·福柯（Michel Foucault）在法兰西学院后期讲座中正式确立，构成了现代权力分析谱系中统摄[[Disciplina and Doctrina|规训]]权力（Discipline）与生命政治（Biopolitics）的**上位理论框架**；后经[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）等学者拓展至[[Spatial Governmentality|空间化治理]]与[[Governing at a Distance|远距治理]]，并广泛辐射至教育社会学、高等教育与比较教育学研究。
+> - **知识位置** 由米歇尔·福柯（Michel Foucault）在法兰西学院后期讲座中正式确立，构成了现代权力分析谱系中统摄规训权力（Discipline）与生命政治（Biopolitics）的**上位理论框架**；后经[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）等学者拓展至[[Spatial Governmentality|空间化治理]]与[[Governing at a Distance|远距治理]]，并广泛辐射至教育社会学、高等教育与比较教育学研究。
 
 > [!claim] 核心判断
 > 治理术的核心本质是“行为的引导”（Conduct of Conduct）。现代权力的运作并非致力于粗暴压制主体的意志，而是通过提供分类框架、竞争准则、评价标准与理想人格，塑造主体的自我理解与欲望结构；治理不以抹杀自由为代价，反而将个体的“自由选择”与“自我管理”作为权力高效运转的前提机制。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 226)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
@@ -108,7 +106,7 @@ updated: 2026-10-20
 > - **提出者与原始文本** 米歇尔·福柯（Michel Foucault）于 1978–1979 年在法兰西学院的两次关键课程《安全、领土与人口》（*Security, Territory, Population*）与《生命政治的诞生》（*The Birth of Biopolitics*）中系统提出。
 > - **原初问题** 18 世纪以来，现代欧洲国家的统治重心如何从“保卫君主领土”向“优化人口生命质量、繁荣国民财富”转变；自由主义政治经济学如何将自身确立为限制国家直接干预但同时最大化治理效能的统治艺术。
 > - **理论资源与材料** 基督教牧领权力（Pastoral Power）的照料与引导传统、重农学派政治经济学理论、德意志国家警政学（Polizeiwissenschaft）历史文献，以及现代人口统计学与公共卫生制度的形成史。
-> - **形成路径** 福柯通过解构主权、[[Disciplina and Doctrina|规训]]与安全配置的历史演进，创造出“治理术”（Gouvernementalité = Gouverner + Mentalité，即“治理之心理/理性”）一词，指出现代国家的力量并非源于统治机构的膨胀，而在于社会整体被“治理化”（Governmentalized）的深度。
+> - **形成路径** 福柯通过解构主权、规训与安全配置的历史演进，创造出“治理术”（Gouvernementalité = Gouverner + Mentalité，即“治理之心理/理性”）一词，指出现代国家的力量并非源于统治机构的膨胀，而在于社会整体被“治理化”（Governmentalized）的深度。
 
 ### 后续修订与扩展
 

@@ -42,6 +42,7 @@ related_concepts:
   - "[[Anchor Institution]]"
   - "[[Heterogeneous Integration]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Geopolitics]]"
   - "[[Research Security]]"
   - "[[Academic Freedom]]"
   - "[[Open-Mindedness]]"
@@ -83,7 +84,7 @@ title: "Argument_Zhuo_2026_ICE"
 argument_key: "Argument_Zhuo_2026_ICE"
 argument_display_title: "美国研究型大学在国家半导体体系中的角色重构"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -269,7 +270,7 @@ issuing_organization: ""
 ### 论证步骤四　技术安全化转向导致学术自主、开放合作与国家安全之间的制度性张力加剧
 
 > [!claim] 步骤四核心主张
-> 半导体竞争逻辑从商业逐利转向地缘博弈下的[[Securitization of Technology|技术安全化]]，将大学推向大国地缘政治前线；学术共同体的工具化倾向、[[Research Security|科研安全]]合规审查与国际学术封锁，引发了[[Academic Freedom|学术自由]]探索、开放[[Scientific Paradigm|科学范式]]与国家安全排他性目标之间的深刻制度冲突。（pp. 24–26）
+> 半导体竞争逻辑从商业逐利转向地缘博弈下的[[Securitization of Technology|技术安全化]]，将大学推向大国[[Geopolitics|地缘政治]]前线；学术共同体的工具化倾向、[[Research Security|科研安全]]合规审查与国际学术封锁，引发了[[Academic Freedom|学术自由]]探索、开放[[Scientific Paradigm|科学范式]]与国家安全排他性目标之间的深刻制度冲突。（pp. 24–26）
 
 #### 1. 逻辑演变：半导体产业竞争的安全化转向
 
@@ -330,7 +331,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 产业生态多维博弈与政策干预的长期不确定性
-> - **外部结构性壁垒制约** 半导体产业竞争是一场涉及前沿技术、巨额资本、能源供给及复杂地缘政治的多维博弈，[[Research Universities|研究型大学]]无法单凭自身力量消除基础设施建设滞后、能源成本剧烈波动以及全球供应链深度依赖等外部结构性壁垒。（p. 26）
+> - **外部结构性壁垒制约** 半导体产业竞争是一场涉及前沿技术、巨额资本、能源供给及复杂[[Geopolitics|地缘政治]]的多维博弈，[[Research Universities|研究型大学]]无法单凭自身力量消除基础设施建设滞后、能源成本剧烈波动以及全球供应链深度依赖等外部结构性壁垒。（p. 26）
 > - **短期动员转化为持久[[Competitiveness|竞争力]]的检验周期** 联邦产业政策对大学有组织科研的短期强力干预，能否如期转化为美国在全球半导体产业中的持久领导力，仍高度依赖于更加长期的实践检验与宏观国际政治经济环境的演变。（p. 26）
 
 ---

@@ -9,10 +9,10 @@ summary: "德裔美籍哲学家与认知心理学家，激进建构主义创始�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 25
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1917"
 died: "2010"
 lifespan: "1917–2010"
@@ -24,22 +24,32 @@ tags:
   - cybernetics
   - cognitive-psychology
 related_concepts:
-  - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Reflexivity]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Discourse]]"
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Empiricism]]"
+  - "[[Ontology]]"
+  - "[[Scientific Method]]"
   - "[[Research Cage]]"
-  - "[[Dependent Variable]]"
 related_theories:
   - "[[Radical Constructivism]]"
-  - "[[Popper's Three Worlds Theory]]"
+  - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[George Berkeley]]"
+  - "[[Robert Glaser]]"
   - "[[Jean Piaget]]"
-  - "[[John Hattie]]"
+  - "[[George Berkeley]]"
+  - "[[Immanuel Kant]]"
   - "[[Niklas Luhmann]]"
+  - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Karl Popper]]"
 related_facts: []
@@ -48,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-03'
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Ernst von Glasersfeld
@@ -58,11 +68,11 @@ updated: 2026-10-18
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 恩斯特·冯·格拉泽斯费尔德（Ernst von Glasersfeld, 1917–2010），德裔美籍哲学家、认知心理学家与二阶控制论学者，佐治亚大学名誉教授，科学推理研究所高级研究员。
-> - **核心角色** 在当代认识论、认知发展理论与科学教育哲学网络中，他是[[Radical Constructivism|激进建构主义]]（Radical Constructivism）范式的开创者与旗帜人物；将让·皮亚杰（[[Jean Piaget]]）的发生认识论推向哲学彻底化，确立反表征主义与经验自足的学习观。
+> - **身份位置** 恩斯特·冯·[[Robert Glaser|格拉泽]]斯费尔德（Ernst von Glasersfeld, 1917–2010），德裔美籍哲学家、认知心理学家与二阶控制论学者，佐治亚大学名誉教授，科学推理研究所高级研究员。
+> - **核心角色** 在当代[[Epistemology|认识论]]、认知发展理论与科学教育哲学网络中，他是[[Radical Constructivism|激进建构主义]]（Radical Constructivism）[[Paradigm|范式]]的开创者与旗帜人物；将[[Jean Piaget|让·皮亚杰]]（[[Jean Piaget]]）的发生认识论推向哲学彻底化，确立反表征主义与经验自足的学习观。
 > - **代表贡献** 创立[[Radical Constructivism|激进建构主义]]认识论框架；参与设计耶基斯灵长类人机交往的 Yerkish 人工语言系统；将经验可行性（Viability）原则引入数学与科学教育探究。
 
-> [!citation-card] Rømer 论冯·格拉泽斯费尔德在建构主义范式中的奠基地位
+> [!citation-card] Rømer 论冯·格拉泽斯费尔德在[[Constructivist Paradigm|建构主义范式]]中的奠基地位
 > 1990 年代学习理论内部的重要范式为主观建构主义，其主要代表正是恩斯特·冯·格拉泽斯费尔德的激进建构主义。……所有学习与知识皆为主观建构，外部环境、实质内容、政治与文化退隐乃至被消解。知识被视作与学习过程相对立的静态范畴。其后果是学习理论发生了唯我论转向，与独立文化教师以及学校、教学和政治理论的距离达到极致。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 >
 > *In the 1990s, an important paradigm within learning theory was subjective constructivism, mainly represented by Ernst von Glasersfeld’s Radical Constructivism (Glasersfeld, 1995). (...) Therefore, all learning and knowledge are subjective constructions. The external environment, content, politics, and culture fade away and are often reconstructed in or reduced to an authoritarian teacher filling empty vessels, or to individually constructed learning targets. Knowledge is perceived as a static category, usually opposed to processes of learning. The consequence is a solipsistic turn in learning theory...*
@@ -75,8 +85,8 @@ updated: 2026-10-18
 > - **1917** 出生于德国慕尼黑，成长于奥地利与瑞士，在多语环境中培养起对概念界定与符号表达的敏锐感知。
 > - **1947–1961** 在意大利米兰与哲学家西尔维奥·切卡托（Silvio Ceccato）合作开展操作语言学与机器翻译研究，奠定操作性心智模型基础。
 > - **1962–1970** 移居美国，在佐治亚大学耶基斯区域灵长类研究中心参与非人灵长类符号交际研究，主导开发 Yerkish 计算机符号语言系统。
-> - **1971–1987** 任佐治亚大学认知心理学系教授，立足皮亚杰发生认识论与二阶控制论，系统创立并阐发激进建构主义哲学体系。
-> - **1987–1995** 退休后移居马萨诸塞州阿默斯特，受聘为麻省大学科学推理研究所研究员，出版集大成之作《激进建构主义：一种认知与学习的方式》（*Radical Constructivism: A Way of Knowing and Learning*）。[[Argument_Rømer_2018_EPT|(Glasersfeld, 1995; Rømer, 2018, p. 7)]]
+> - **1971–1987** 任佐治亚大学认知心理学系教授，立足[[Piaget's Theory of Cognitive Development|皮亚杰发生认识论]]与二阶控制论，系统创立并阐发[[Radical Constructivism|激进建构主义]]哲学体系。
+> - **1987–1995** 退休后移居马萨诸塞州阿默斯特，受聘为麻省大学科学推理研究所研究员，出版集大成之作《激进[[Constructivist Paradigm|建构主义]]：一种认知与学习的方式》（*Radical Constructivism: A Way of Knowing and Learning*）。[[Argument_Rømer_2018_EPT|(Glasersfeld, 1995; Rømer, 2018, p. 7)]]
 > - **2010** 逝世于美国马萨诸塞州，其思想持续在科学教育、认知科学与系统理论领域引发深度研讨与争鸣。
 
 ---
@@ -88,28 +98,28 @@ updated: 2026-10-18
 >   - **代表著作** *The Yerkish Language and Its System* (1977)。
 >   - **关键概念／方法** 操作语言学、符号交流、二阶控制论、人机界面。
 >   - **阶段转向** 由早期的语言翻译实践拓展至认知主体对外界输入的主动编码机制，确立了主体通过符号操作组织经验世界的初始假定。
-> - **1971–1986 — 皮亚杰发生认识论重构与激进建构主义奠基** 此阶段直面实证主义表征论，试图解决知识如何从经验中发生的问题。
+> - **1971–1986 — [[Piaget's Theory of Cognitive Development|皮亚杰发生认识论]]重构与[[Radical Constructivism|激进建构主义]]奠基** 此阶段直面[[Positivism|实证主义]]表征论，试图解决知识如何从经验中发生的问题。
 >   - **代表著作** *Cybernetics, Experience, and the Concept of Self* (1979); *An Introduction to Radical Constructivism* (1984)。
 >   - **关键概念／方法** [[Radical Constructivism]]、同化与顺应、认知自足性、概念适应度（Viability）。
->   - **阶段转向** 系统重读让·皮亚杰（[[Jean Piaget]]），将皮亚杰发生认识论推向哲学极端；融合乔治·贝克莱（[[George Berkeley]]）经验哲学与伊曼努尔·康德（[[Immanuel Kant]]）反思理性，坚决摒弃客观真理的“符合论”，提出知识在于个体主观经验结构的“可行性与适应性”。
+>   - **阶段转向** 系统重读[[Jean Piaget|让·皮亚杰]]（[[Jean Piaget]]），将皮亚杰发生[[Epistemology|认识论]]推向哲学极端；融合乔治·[[George Berkeley|贝克莱]]（[[George Berkeley]]）经验哲学与[[Immanuel Kant|伊曼努尔·康德]]（[[Immanuel Kant]]）反思理性，坚决摒弃客观真理的“符合论”，提出知识在于个体主观经验结构的“可行性与适应性”。
 > - **1987–1995 — 经验认知系统化与哲学大成** 此阶段构建连贯的激进认识论体系，全面介入数学与科学教育改革。
 >   - **代表著作** *Radical Constructivism: A Way of Knowing and Learning* (1995)。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 >   - **关键概念／方法** 反表征主义、主体间自洽、反思抽象、经验实在。
->   - **阶段转向** 建立起激进建构主义作为完整认识论框架的学术大厦，明确界定知识属于认知主体在主观经验流中自我建构与维系的操作工具，放弃了对独立客观实在的镜像再现诉求。
+>   - **阶段转向** 建立起激进[[Constructivist Paradigm|建构主义]]作为完整认识论框架的学术大厦，明确界定知识属于认知主体在主观经验流中自我建构与维系的操作工具，放弃了对独立客观实在的镜像再现诉求。
 > - **1996–2010 — 控制论对话与规范性反思回应** 此阶段回应学界对其主观唯我论及缺乏社会规范基础的批评。
 >   - **代表著作** *Key Works in Radical Constructivism* (2007)。
->   - **关键概念／方法** 操作封闭性、社会系统自组织、反思性主体。
->   - **阶段转向** 深化与尼克拉斯·卢曼（[[Niklas Luhmann]]）自组织社会系统理论及二阶控制论的对话，尝试在操作封闭性前提下解释语言互动与主体间协商的生成条件。
+>   - **关键概念／方法** 操作封闭性、社会系统自组织、[[Reflexivity|反思性]]主体。
+>   - **阶段转向** 深化与[[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]）自组织[[Luhmann's Systems Theory|社会系统理论]]及二阶控制论的对话，尝试在操作封闭性前提下解释语言互动与主体间协商的生成条件。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 知识作为认知主体在连续经验流中主动构建、检验并维系的操作性图式，摒弃了对本体实在的镜像追求。学习本质上是个体心智为了适应经验环境而展开的内生自我调节，其评判标准立足于概念结构在经验世界中的“可行性”（viability），区别于传统认识论要求的本体“符合性”。
+> 知识作为认知主体在连续经验流中主动构建、检验并维系的操作性图式，摒弃了对本体实在的镜像追求。学习本质上是个体心智为了适应经验环境而展开的内生自我调节，其评判标准立足于概念结构在经验世界中的“可行性”（viability），区别于传统[[Epistemology|认识论]]要求的本体“符合性”。
 
-> [!citation-card] 冯·格拉泽斯费尔德论经验可行性替代客观符合论
-> 激进建构主义深刻重塑了知识与现实的关系假定。知识的有效性建立在经验行动领域的可行性与适应度基础之上，有别于对独立客观世界的复制描摹。认识论探索聚焦于阐释心智如何积极组织自身经验，替代了获取外部真理摹本的传统范式。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
+> [!citation-card] 冯·[[Robert Glaser|格拉泽]]斯费尔德论经验可行性替代客观符合论
+> [[Radical Constructivism|激进建构主义]]深刻重塑了知识与现实的关系假定。知识的有效性建立在经验行动领域的可行性与适应度基础之上，有别于对独立客观世界的复制描摹。认识论探索聚焦于阐释心智如何积极组织自身经验，替代了获取外部真理摹本的传统[[Paradigm|范式]]。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 >
 > *Radical constructivism is an unconventional approach to the problem of knowledge and knowing. (...) Knowledge is not a picture of the world, but a way of managing our experiences. (...) The crucial distinction is that viability replaces the traditional concept of truth as correspondence with an objective reality.*
 
@@ -118,25 +128,25 @@ updated: 2026-10-18
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立当代反表征认识论范式，奠定欧美数学教育学与科学教育学中建构主义流派的哲学基石，并深刻影响了二阶控制论与卢曼自组织社会学理论。
-> - **方法路径** 倡导探究学习者概念形成的“临床访谈法”（Clinical Interview）与微观发生分析，推动教育研究聚焦概念冲突与概念转变的操作机制。
-> - **政策路径** 深度融入 1980–1990 年代英美科学与数学课程标准革新话语，推动课堂教学由传统机械灌输转向强调学生自主建构与问题探究。
-> - **跨国／跨领域传播** 其学习理论被约翰·哈蒂（[[John Hattie]]）在《可见的学习》中作为核心认知基石全面吸纳，进而通过全球循证教育运动广泛传播，引发了围绕教学论消解与评价霸权的广泛哲学争议。
+> - **理论路径** 确立当代反表征[[Epistemology|认识论]][[Paradigm|范式]]，奠定欧美数学教育学与科学教育学中[[Constructivist Paradigm|建构主义]]流派的哲学基石，并深刻影响了二阶控制论与[[Niklas Luhmann|卢曼]]自组织社会学理论。
+> - **方法路径** 倡导[[Inquiry-Based Learning|探究学习]]者概念形成的“临床访谈法”（Clinical Interview）与微观发生分析，推动教育研究聚焦概念冲突与概念转变的操作机制。
+> - **政策路径** 深度融入 1980–1990 年代英美科学与数学课程标准革新[[Discourse|话语]]，推动课堂教学由传统机械灌输转向强调学生自主建构与问题探究。
+> - **跨国／跨领域传播** 其学习理论被[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中作为核心认知基石全面吸纳，进而通过全球[[Evidence-Based Education|循证教育]]运动广泛传播，引发了围绕教学论消解与评价霸权的广泛哲学争议。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 深入剖析哈蒂《可见的学习》第三章如何照单全收格拉泽斯费尔德的激进建构主义唯我论，揭示其在取消教师文化权威后强行嫁接教师中心所导致的教学论双重瓦解。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 深入剖析哈蒂《可见的学习》第三章如何照单全收[[Robert Glaser|格拉泽]]斯费尔德的[[Radical Constructivism|激进建构主义]]唯我论，揭示其在取消教师文化权威后强行嫁接教师中心所导致的教学论双重瓦解。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想渊源** 让·皮亚杰（[[Jean Piaget]]） — 汲取认知发生论中的同化与顺应概念，并将其推至反表征主义极端。
-> - **哲学参照** 乔治·贝克莱（[[George Berkeley]]） — 承袭其经验主义唯我论出发点，探讨存在即被感知的认知蕴涵。
-> - **理论对话者** 尼克拉斯·卢曼（[[Niklas Luhmann]]） — 卢曼在社会系统论中高度赞赏并引证格拉泽斯费尔德的激进建构主义认识论与认知操作封闭性观点。
-> - **理论借用者** 约翰·哈蒂（[[John Hattie]]） — 哈蒂在底层全面接纳其建构主义学习观，却因试图在学生建构废墟上重构教师中心而引发理论自相矛盾。
+> - **思想渊源** [[Jean Piaget|让·皮亚杰]]（[[Jean Piaget]]） — 汲取认知发生论中的同化与顺应概念，并将其推至反表征主义极端。
+> - **哲学参照** 乔治·[[George Berkeley|贝克莱]]（[[George Berkeley]]） — 承袭其[[Empiricism|经验主义]]唯我论出发点，探讨存在即被感知的认知蕴涵。
+> - **理论对话者** [[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]） — 卢曼在社会系统论中高度赞赏并引证[[Robert Glaser|格拉泽]]斯费尔德的[[Radical Constructivism|激进建构主义]][[Epistemology|认识论]]与认知操作封闭性观点。
+> - **理论借用者** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]） — 哈蒂在底层全面接纳其[[Constructivist Paradigm|建构主义]]学习观，却因试图在学生建构废墟上重构教师中心而引发理论自相矛盾。
 > - **批判论敌** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]） — 严厉批评其唯我论前提将社会、文化、政治与公共真理排除在教育之外，使教学论退化为心智监控。
-> - **认识论对立面** 卡尔·波普尔（[[Karl Popper]]） — 波普尔的科学实在论与客观世界三构成了格拉泽斯费尔德主观经验论的精准对立面。
+> - **认识论对立面** [[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]） — 波普尔的科学实在论与客观世界三构成了格拉泽斯费尔德主观经验论的精准对立面。
 
 ---
 
@@ -147,11 +157,11 @@ updated: 2026-10-18
 > > [!axis] 主观唯我论与客观现实的消解
 > > 围绕将知识定义为主观经验自足组织是否会导致激进唯我论，以及是否彻底放逐了客观真理与人类共同文化。
 > >
-> > - **Thomas Aastrup [[Argument_Rømer_2018_EPT|Rømer (2018)]]** 指出激进建构主义将学习简化为孤立心智的自组织运转，斩断了与客观学科传统及外部世界的实质联系，使教育无法区分真理与谬误。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]
-> > - **Ernst von Glasersfeld（1995）** 强调激进建构主义未曾否定本体世界的实在性，着重阐明认知在本体论上无法直接检验表征的真确性，可行性概念足以支撑经验科学与主体间共识的建立。
+> > - **Thomas Aastrup [[Argument_Rømer_2018_EPT|Rømer (2018)]]** 指出[[Radical Constructivism|激进建构主义]]将学习简化为孤立心智的自组织运转，斩断了与客观学科传统及外部世界的实质联系，使教育无法区分真理与谬误。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–8)]]
+> > - **Ernst von Glasersfeld（1995）** 强调激进[[Constructivist Paradigm|建构主义]]未曾否定本体世界的实在性，着重阐明认知在[[Ontology|本体论]]上无法直接检验表征的真确性，可行性概念足以支撑[[Scientific Method|经验科学]]与主体间共识的建立。
 
 > [!critique]- 批评索引
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批评格拉泽斯费尔德的激进建构主义消解了教师作为文化传承者的权威角色，诱发教学概念的双重瓦解。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批评[[Robert Glaser|格拉泽]]斯费尔德的激进建构主义消解了教师作为文化传承者的权威角色，诱发教学概念的双重瓦解。
 
 > [!warning] 未解问题与边界
 > 激进建构主义始终面临规范性维度的合法性追问：一旦知识的客体符合性被经验自足性完全取代，教育学便难以在规范层面解释为何某些知识、道德与审美经验比另一些更具社会与文化价值。
@@ -164,8 +174,8 @@ updated: 2026-10-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Radical Constructivism]] | 理论 | 作为主要创始人系统构建了反表征主义与经验可行性认识论框架。 |
+> | [[Radical Constructivism]] | 理论 | 作为主要创始人系统构建了反表征主义与经验可行性[[Epistemology\|认识论]]框架。 |
 > | [[Constructivist Paradigm]] | 概念 | 将建构主义推向激进主观论分支，成为学习科学与认知哲学重要参照。 |
-> | [[Visible Learning]] | 概念 | 其唯我论学习观被哈蒂全面接纳为可见学习底层学习机制的核心依据。 |
+> | [[Visible Learning]] | 概念 | 其唯我论学习观被[[John Hattie\|哈蒂]]全面接纳为可见学习底层学习机制的核心依据。 |
 > | [[Research Cage]] | 概念 | 唯我论认知自足性为封闭研究牢笼的生成提供了认识论自洽支撑。 |
-> | [[Epistemology]] | 概念 | 以反思性经验适应替代传统客观表征符合论，引发认识论长期论辩。 |
+> | [[Epistemology]] | 概念 | 以[[Reflexivity\|反思性]]经验适应替代传统客观表征符合论，引发认识论长期论辩。 |

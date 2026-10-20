@@ -7,7 +7,7 @@ summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_persons:
   - "[[Donald Stokes]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05

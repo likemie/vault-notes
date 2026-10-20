@@ -7,7 +7,7 @@ title: "Argument_Zhu_Yang_2025_HE"
 argument_key: "Argument_Zhu_Yang_2025_HE"
 argument_display_title: "Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -33,28 +33,23 @@ sources:
   - "[[sources/Zhu_Yang_2025_HE/Zhu_Yang_2025_HE|Zhu_Yang_2025_HE]]"
 related_concepts:
   - "[[Constructivist Paradigm]]"
-  - "[[Cultural Recognition]]"
   - "[[Soft Power]]"
+  - "[[Cultural Recognition]]"
   - "[[Hard Power]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Student Mobility]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Chinese Exceptionalism]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Falsification]]"
   - "[[Telling China's Story Well]]"
   - "[[Governing by Numbers]]"
   - "[[China Solution]]"
-  - "[[Grandes Ecoles]]"
-  - "[[Civic Rituals]]"
-  - "[[Big Science]]"
   - "[[STEM Education]]"
   - "[[South-South Cooperation]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Benevolence]]"
-  - "[[Heterogeneity]]"
 related_theories:
   - "[[Neo-Tributary Perspective]]"
   - "[[Tianxia Heuristic]]"
@@ -67,11 +62,13 @@ related_methods:
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
-  - "[[Mixed Methods Research]]"
 related_facts:
   - "[[Confucius Institute]]"
   - "[[Belt and Road Initiative]]"
   - "[[Chinese Academy of Sciences]]"
+  - "[[Royal University of Phnom Penh]]"
+  - "[[ASEAN]]"
+  - "[[Asian Infrastructure Investment Bank]]"
   - "[[Institute of South-South Cooperation and Development]]"
 status: draft
 created: 2026-10-20
@@ -87,11 +84,11 @@ updated: 2026-10-20
 > 伴随中国经济体量增长，国际学术界对其对外权力战略存在激烈争议。传统现实主义视角倾向将这一崛起视为零和地缘博弈，自由主义与[[Constructivist Paradigm|建构主义]]研究则习惯套用西方[[Soft Power|软实力]]与中心—外围框架。然而，既有讨论多局限于[[Confucius Institute|孔子学院]]和留学生规模等浅层指标，难以解释中国在东南亚及[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）沿线密集推进的高校援建、师资培训与校际合作。核心问题在于：基于中国历史经验的[[Neo-Tributary Perspective|新朝贡分析框架]]能否准确解释当代高等教育输出背后的战略行为模式，其在真实教育实践中面临哪些解释局限与现实张力？（pp. 1041–1043）
 
 > [!claim] 核心主张
-> 高等教育输出主要通过传播当代国家发展治理经验来寻求[[Cultural Recognition|文化认同]]，大学则成为向外界展示科技[[Hard Power|硬实力]]与大国宽仁形象的展演窗口；但对外教育合作过度依赖经贸外交刺激与超国民待遇供给，导致大量校际协议沦为纸面形式。新朝贡视角长于剖析现实地缘中的功利互动，但必须摒弃单一华夏中心主义的文化同化预设，通过融入[[Tianxia Heuristic|天下启发式]]与[[Knowledge Diplomacy|知识外交]]等多重视角，方能完整理解大国跨国高教战略的复杂全貌。（pp. 1041, 1050, 1053–1054）
+> 高等教育输出主要通过传播当代国家发展治理经验来[[Cultural Recognition|寻求文化认同]]，大学则成为向外界展示科技[[Hard Power|硬实力]]与大国宽仁形象的展演窗口；但对外教育合作过度依赖经贸外交刺激与超国民待遇供给，导致大量校际协议沦为纸面形式。新朝贡视角长于剖析现实地缘中的功利互动，但必须摒弃单一华夏中心主义的文化同化预设，通过融入[[Tianxia Heuristic|天下启发式]]与[[Knowledge Diplomacy|知识外交]]等多重视角，方能完整理解大国跨国高教战略的复杂全貌。（pp. 1041, 1050, 1053–1054）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2016 至 2021 年间中国面向东南亚（以柬埔寨为典型案例）推进的高等教育拓展实践，涵盖语言教学、教育发展援助、留[[Student Mobility|学生流动]]及校际合作项目四种路径。
-> - **张力** 经典朝贡模型假定的文化同化与受援国自主理性之间的张力；宏大外交签约声势与基层高校合作协议虚置之间的张力；展示大国宽仁善意与留学生超国民待遇引发学术声誉受损之间的张力。
+> - **张力** 经典[[Tributary System|朝贡模型]]假定的文化同化与受援国自主理性之间的张力；宏大外交签约声势与基层高校合作协议虚置之间的张力；展示大国宽仁善意与留学生超国民待遇引发学术声誉受损之间的张力。
 > - **贡献** 实证检验并修正了[[Suyan Pan|潘苏燕]]（Suyan Pan）与卢天佑（Joe Tin-yau Lo）建立的高等教育新朝贡[[Analytic Framework|分析框架]]（Pan & Lo, 2017, 2018），确立了[[Cultural Recognition|文化认同探索]]与[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]命题，揭示了受援小国的策略性自主，推动了本土理论[[Paradigm|范式]]的自我更新。
 
 ---
@@ -101,11 +98,11 @@ updated: 2026-10-20
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Neo-Tributary Perspective\|新朝贡视角]]**<br>[[Neo-Tributary Perspective]] | 将中国古代[[Tributary System|朝贡体系]]的非强制差序结构与互惠贸易逻辑映射至当代大国战略，从例外论、经贸外交联动、教育输出与形象塑造四个维度解构权力投射，确立高等教育为连接四维机制的核心纽带。（pp. 1044–1046） |
+> | **[[Neo-Tributary Perspective\|新朝贡视角]]**<br>[[Neo-Tributary Perspective]] | 将中国古代[[Tributary System\|朝贡体系]]的非强制差序结构与互惠贸易逻辑映射至当代大国战略，从例外论、经贸外交联动、教育输出与形象塑造四个维度解构权力投射，确立高等教育为连接四维机制的核心纽带。（pp. 1044–1046） |
 > | **[[Chinese Exceptionalism\|中国例外论]]**<br>[[Chinese Exceptionalism]] | 揭示国家将自身认知为兼具卓越与善意的复合心智，驱使高校成为展演现代科技成就与宽仁道德形象的展演窗口。（pp. 1051–1052） |
 > | **[[Tianxia Heuristic\|天下启发式]]**<br>[[Tianxia Heuristic]] | 提供无边界、包容共生与相互依存的世界秩序构想，作为反思朝贡体系等级性与华夏中心主义的理论参照。（pp. 1046, 1054） |
 > | **[[Soft Power\|软实力]]**<br>[[Soft Power]] | 既有文献最常采用的分析透镜，用于审视[[Confucius Institute\|孔子学院]]与留学生教育的吸引力，但难以解释软[[Hard Power\|硬权力]]资源的混合调配机制。（pp. 1043–1044） |
-> | **[[Knowledge Diplomacy\|知识外交]]**<br>[[Knowledge Diplomacy]] | 强调基于互惠学术网络与跨国知识共享的柔性交往，用于弥补地缘政治支配视角的不足。（pp. 1052, 1054） |
+> | **[[Knowledge Diplomacy\|知识外交]]**<br>[[Knowledge Diplomacy]] | 强调基于互惠学术网络与跨国知识共享的柔性交往，用于弥补[[Geopolitics\|地缘政治]]支配视角的不足。（pp. 1052, 1054） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架通过构建历史文化心智—现代国家治理—跨国高教实践的推导桥梁展开。新朝贡视角提供了解读中国崛起行为模式的结构性支架，将大学定位为知识创新与国际辐射的核心纽带；中国例外论进一步深化了行为主体的深层心理动机，解释为何对外援助在物质层面上呈现厚往薄来的礼遇特征。引入天下启发式与知识外交则为实证检验后修正原框架的单向霸权假定提供了[[Epistemology|认识论]]纠偏工具。（pp. 1044–1046, 1054）
@@ -154,7 +151,7 @@ updated: 2026-10-20
 > | **I 21** | 亚欧大学中文系 | 金边 | 2013–2017 | 中文专业本科毕业生 | 孔院合作教学点校友 |
 > | **I 22** | 柬埔寨皇家科学院孔子学院 | 金边 | 2018–2020 | 国际汉语教学 | 国家汉办中方公派志愿者教师 |
 > | **I 23** | 亚欧大学中文系 | 金边 | 2017–2020 | 中文系主任／孔院课堂负责人 | 合作教学点中方项目主管 |
-> | **I 24** | 金边皇家大学（Royal University of Phnom Penh, RUPP） | 金边 | 2016 | 工程技术系主任 | 高教援助项目参与者 |
+> | **I 24** | [[Royal University of Phnom Penh\|金边皇家大学]]（Royal University of Phnom Penh, RUPP） | 金边 | 2016 | 工程技术系主任 | 高教援助项目参与者 |
 > | **I 25** | 金边皇家大学（RUPP） | 金边 | 2017 | 计算机工程讲师 | 高教创新研修班参训学者 |
 > | **I 26** | 金边皇家大学（RUPP） | 金边 | 2017&2018 | 电气工程讲师（兼具日欧项目经验） | 高教创新研修班参训学者 |
 > | **I 27** | 金边皇家大学（RUPP） | 金边 | 2017 | 信息技术讲师 | 高教创新研修班参训学者 |
@@ -192,7 +189,7 @@ updated: 2026-10-20
 ### 论证步骤一　对外教育输出聚焦当代发展治理经验，重在争取认同而非文化同化
 
 > [!claim] 步骤一核心主张
-> 对外高教传播已从展示传统民俗文化符号转向系统传授当代经济建设与国家治理经验，其实质在于探索当代发展模式的文化认同，[[Falsification|证伪]]了传统朝贡模型所假定的文化同化。（pp. 1048–1050）
+> 对外高教传播已从展示传统民俗文化符号转向系统传授当代经济建设与国家治理经验，其实质在于探索当代发展模式的文化认同，[[Falsification|证伪]]了传统[[Tributary System|朝贡模型]]所假定的文化同化。（pp. 1048–1050）
 
 #### 1. 课程与教材从展示传统民俗转向讲授当代中国经济发展与数字化治理
 
@@ -238,7 +235,7 @@ updated: 2026-10-20
 
 #### 1. 留学生奖学金配额与援外培训项目直接服务于周边外交峰会
 
-睦邻外交战略始终将高等教育资源配置作为构建周边稳定环境的有效政策工具。中国针对东盟（ASEAN）设立的留学生奖学金配额与专业培训研讨班，直接与重大双边会晤、多边首脑峰会紧密绑定，呈现出高度的政策周期性。（p. 1050）
+睦邻外交战略始终将高等教育资源配置作为构建周边稳定环境的有效政策工具。中国针对[[ASEAN|东盟]]（ASEAN）设立的留学生奖学金配额与专业培训研讨班，直接与重大双边会晤、多边首脑峰会紧密绑定，呈现出高度的政策周期性。（p. 1050）
 
 > [!ref-table]- 表2：中国与东盟重大外交节点及配套高教奖学金项目
 > | 外交节点与领导人讲话 | 面向东盟留学生与培训人员的配套方案 |
@@ -253,7 +250,7 @@ updated: 2026-10-20
 高教资源向周边倾斜的同时，人才培育与实体经贸投资形成了紧密联动的利益共同体：
 
 > [!interdependence] 高教合作与实体经贸投资的协同联动机制
-> - **金融资本与基建出海带动** 以亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB，资本金 1000 亿美元）为代表的区域投融资机制带动了大量中资基建项目入驻东南亚，催生了大量兼具技术与跨文化沟通能力的本土专业人才需求。（pp. 1050–1051）
+> - **金融资本与基建出海带动** 以[[Asian Infrastructure Investment Bank|亚洲基础设施投资银行]]（Asian Infrastructure Investment Bank, AIIB，资本金 1000 亿美元）为代表的区域投融资机制带动了大量中资基建项目入驻东南亚，催生了大量兼具技术与跨文化沟通能力的本土专业人才需求。（pp. 1050–1051）
 > - **定向语言培训降低交易成本** 孔子学院直接与中国免税品集团等跨国中企对接，为属地雇员提供定制化商务汉语与跨文化管理集训，有效克服跨国经营中的沟通壁垒。（pp. 1051–1052）
 > - **部委研修班拓展高新产业出海** 各类涉外研学项目系统组织发展中国家学员参访华为等领先科技企业，在展示数字化解决方案的同时为中企开拓区域市场储备人脉与商业契机。（p. 1052）
 
@@ -262,11 +259,11 @@ updated: 2026-10-20
 然而，过于浓厚的行政动员机制导致高校在执行过程中追求表面签约数字，忽视了长效学术机制的建设。（p. 1051）
 
 > [!tension] 外交倡议驱动与校际自主合作之间的结构性张力
-> - **自上而下的政策性签约（宏观倡议）** 在外交战略与云南等省份桥头堡战略动员下，国内高校积极与金边皇家大学（RUPP）等名校签署合作备忘录（MOU），将合作成果纳入行政绩效考核。（pp. 1050–1051）
-> - **自下而上的实质性缺位（微观落地）** 金边皇家[[Grandes Ecoles|大学校]]领导直言，多所中国高校在签署协议后从未派员深入实地推进联合课题或互派研究人员，合作项目沦为缺乏实质学术内涵的名义伙伴。（p. 1051）
+> - **自上而下的政策性签约（宏观倡议）** 在外交战略与云南等省份桥头堡战略动员下，国内高校积极与[[Royal University of Phnom Penh|金边皇家大学]]（RUPP）等名校签署合作备忘录（MOU），将合作成果纳入行政绩效考核。（pp. 1050–1051）
+> - **自下而上的实质性缺位（微观落地）** 金边皇家大学校领导直言，多所中国高校在签署协议后从未派员深入实地推进联合课题或互派研究人员，合作项目沦为缺乏实质学术内涵的名义伙伴。（p. 1051）
 
 > [!implication]- 经贸外交主导对高教合作可持续性的深层制约
-> 这种重签约轻落实的现象印证了新朝贡框架中经贸外交主导的特质。高教项目若过度依附于外在[[Civic Rituals|政治仪式]]与短期经济公关，便难以在受援国本土深扎根基；缺乏学术内生动力的名义合作不仅无法积累长效学术资本，也难以转化为持久稳固的民间人文纽带。（pp. 1051, 1053）
+> 这种重签约轻落实的现象印证了新朝贡框架中经贸外交主导的特质。高教项目若过度依附于外在政治仪式与短期经济公关，便难以在受援国本土深扎根基；缺乏学术内生动力的名义合作不仅无法积累长效学术资本，也难以转化为持久稳固的民间人文纽带。（pp. 1051, 1053）
 
 ---
 
@@ -285,7 +282,7 @@ updated: 2026-10-20
 Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰界定了大学作为连接知识创新、经贸外交、文化输出与形象塑造四大机制的核心枢纽。实证调查进一步展现了高校如何在具体办学中分头落实这两大诉求。（pp. 1045–1046, 1051）
 
 > [!quad-grid] 实用主义中国例外论在高等教育中的表征
-> - **科技硬实力展演** 国家有针对性地扩[[Big Science|大科学]]、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）领域的留学生全额资助规模，2018 年该群体占比攀升至 33.00%（20,813 人），位列各学科之首；同济大学设立专属预科部筑牢数理基础。（pp. 1051–1052）
+> - **科技硬实力展演** 国家有针对性地扩大科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）领域的留学生全额资助规模，2018 年该群体占比攀升至 33.00%（20,813 人），位列各学科之首；同济大学设立专属预科部筑牢数理基础。（pp. 1051–1052）
 > - **发展经验知识分享** 北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（Institute of [[South-South Cooperation]] and Development, ISSCAD）设立中国浸润项目，组织高级官员学员深度研讨改革开放、特区建设与基础设施投资经验。（p. 1052）
 > - **高额资助与生活优待** 全额奖学金覆盖学费、住宿补贴、生活津贴及医疗保险，提供配备 24 小时热水与空调的单双人间，硬件条件远优于本土学生的住宿标准。（p. 1052）
 > - **专属人文关照活动** [[International Education|国际教育]]学院常态化组织免费文化考察（如广州宗祠研学）、柬埔寨传统节庆联欢以及母国文化展示日，展示厚待远人的宽仁风范。（p. 1052）
@@ -312,10 +309,10 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 
 经验证据表明，将中国对外战略简单二元化为霸权扩张或利他天下均脱离了复杂的现实土壤。新朝贡视角因其能够穿透表象直击经贸、外交与文化交织的微观机制而展现出强大的解释力，但其理论底层必须接受重构。（pp. 1053–1054）
 
-> [!contrast-table] 经典朝贡模型、新朝贡分析框架与实证修正框架对比
-> | 维度 | [[John King Fairbank|Fairbank]] 经典朝贡模型（1942） | [[Suyan Pan|Pan]] & Lo 新朝贡分析框架（2017, 2018） | 实证修正框架（Zhu & Yang, 2025） |
+> [!contrast-table] 经典朝贡模型、新朝贡[[Analytic Framework|分析框架]]与实证修正框架对比
+> | 维度 | [[John King Fairbank\|Fairbank]] 经典朝贡模型（1942） | [[Suyan Pan\|Pan]] & Lo 新朝贡分析框架（2017, 2018） | 实证修正框架（Zhu & Yang, 2025） |
 > |------|-------------------|----------------------------------|----------------------------|
-> | **文化传播假设** | 儒家伦理道德感召，周边番邦自愿接受文化同化（p. 1044） | 当代语言文化输出作为同化机制（p. 1044） | 证伪文化同化，确立当代国情治理的**文化认同探索**（p. 1050） |
+> | **文化传播假设** | 儒家伦理道德感召，周边番邦自愿接受文化同化（p. 1044） | 当代语言文化输出作为同化机制（p. 1044） | 证伪文化同化，确立当代国情治理的**[[Cultural Recognition\|文化认同探索]]**（p. 1050） |
 > | **例外论形态** | 古代华夏中心主义文明自负（p. 1044） | 大国崛起中追求卓越承认的心态（p. 1045） | 融合现代科学理性与厚德善意的**实用主义例外论**（p. 1051） |
 > | **高教实践特征** | 古代国子监与太学招收番邦学子（历史背景） | 大学作为连接创新、外交、流动与形象的纽带（p. 1045） | 识别出**经贸外交主导**与**合作协议虚置**的深层张力（pp. 1051–1053） |
 > | **周边国家角色** | 被动朝觐者，承认宗主地位（p. 1044） | 接受对外援助与文化辐射的受体（p. 1045） | 具备高度自主能动性的**策略性功利参与者**（p. 1050） |
@@ -324,7 +321,7 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 
 > [!tension] 援助资源配置的结构性失衡：硬性基础设施建设 vs 软性文教人文交流
 > - **硬性基础设施投资（物质导向）** 2015 至 2019 年间中国对柬埔寨基建领域直接援助总额高达 11.60 亿美元，在公路、港口与电网等物理连接上形成了绝对支配性的资金流向。（p. 1053）
-> - **社会与文教援助投入（人文导向）** 同期涵盖高等教育、师资培训与社会[[Comparative Education as a Cross-Sectional Area|交叉领域]]的援助总额仅为 4.92 亿美元，基建援助规模约为文教社会的 2.36 倍，凸显出人文互联滞后于工程建设的结构短板。（pp. 1053–1054）
+> - **社会与文教援助投入（人文导向）** 同期涵盖高等教育、师资培训与社会交叉领域的援助总额仅为 4.92 亿美元，基建援助规模约为文教社会的 2.36 倍，凸显出人文互联滞后于工程建设的结构短板。（pp. 1053–1054）
 
 #### 2. 结合天下观的共生愿景与知识外交的学术自主，方能完整理解大国跨国高教战略
 
@@ -348,8 +345,8 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 > [!stat-cards]- 核心数据
 > - **\$1.160B / \$492M** 2015 至 2019 年间中国对柬埔寨基础设施援助总额达 11.60 亿美元，显著超出社会、交叉及教育领域援助总额 4.92 亿美元，显示出物质硬投资占绝对主导的资源配置格局。（p. 1053）
 > - **33.00% (20,813)** （人） 2018 年中国政府全额奖学金生中 STEM 专业占比达到 33.00%，总人数达 20,813 人，高居各专业大类首位，反映出集中展示前沿科技创新成就的战略意图。（p. 1051）
-> - **98,823 (20.08%)** （人） 2018 年在华东盟留学生总数达 98,823 人，占全华留学生总数的 20.08%，较 2008 年规模增长近三倍，印证了[[Belt and Road Initiative|一带一路]]与周边外交峰会对生源流动的强大刺激效应。（pp. 1042, 1050）
-> - **27 / 2,000+** （教学点 / 留学生） 截至 2017 年，柬埔寨皇家[[Chinese Academy of Sciences|科学院]][[Confucius Institute|孔子学院]]已在全柬设立 27 个教学班与课堂；截至 2016 年已有超过 2,000 名柬埔寨学子获得中国政府奖学金资助来华深造，位列东盟前列。（p. 1047）
+> - **98,823 (20.08%)** （人） 2018 年在华[[ASEAN|东盟]]留学生总数达 98,823 人，占全华留学生总数的 20.08%，较 2008 年规模增长近三倍，印证了[[Belt and Road Initiative|一带一路]]与周边外交峰会对生源流动的强大刺激效应。（pp. 1042, 1050）
+> - **27 / 2,000+** （教学点 / 留学生） 截至 2017 年，柬埔寨皇家科学院[[Confucius Institute|孔子学院]]已在全柬设立 27 个教学班与课堂；截至 2016 年已有超过 2,000 名柬埔寨学子获得中国政府奖学金资助来华深造，位列东盟前列。（p. 1047）
 
 ---
 
@@ -358,10 +355,10 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 > [!citation-card] [[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]与大学展演窗口
 > 实用主义中国例外论的核心在于将自身确立为兼具卓越与善意的存在，大学则成为展示这一卓越与善意的窗口，其中传统天下世界观与面向西方的现代科学理想交织融合。高校展示中国领先的技术与繁荣的市场，讲述生动的发展故事，并以仁善与包容赢得海外精英的心智认同。（p. 1051）
 >
-> *Universities serve as a showcase for greatness and goodness of a more pragmatic Chinese exceptionalism, in which traditional Chinese worldview has been incorporated with scientific outward-looking Western ideals. They demonstrate China’s leading technology and prosperous market, tell vivid stories of China’s development pathway, and harvest hearts and minds of overseas elites with [[Benevolence]] and inclusionism.*
+> *Universities serve as a showcase for greatness and goodness of a more pragmatic Chinese exceptionalism, in which traditional Chinese worldview has been incorporated with scientific outward-looking Western ideals. They demonstrate China’s leading technology and prosperous market, tell vivid stories of China’s development pathway, and harvest hearts and minds of overseas elites with Benevolence and inclusionism.*
 
 > [!citation-card] 探索文化认同替代传统文化同化假说
-> 这一探索揭示出北京所试验的文化认同策略。这一路径寻求国际社会对当代中国的价值观念与文化体系给予更为广泛的承认，将其作为对威斯特伐利亚体系的补充与替代选择。新朝贡模型所提出的文化同化假设，则被实证调查结果所推翻。（p. 1050）
+> 这一探索揭示出北京所试验的[[Cultural Recognition|文化认同策略]]。这一路径寻求国际社会对当代中国的价值观念与文化体系给予更为广泛的承认，将其作为对威斯特伐利亚体系的补充与替代选择。新[[Tributary System|朝贡模型]]所提出的文化同化假设，则被实证调查结果所推翻。（p. 1050）
 >
 > *This study suggests a ‘cultural recognition’ tactic experimented by Beijing. This approach seeks a wider acknowledgment of contemporary China’s beliefs and cultures as alternatives and supplements to Westphalian ones. ‘Cultural assimilation’ proposed in the neo-tributary formula, however, is disproven by empirical results.*
 
@@ -376,8 +373,8 @@ Pan and Lo (2018) 构建的高等教育新朝贡模型如图 1 所示，清晰�
 
 > [!warning]
 > - **受访者立场偏差风险** 部分受访者为中国奖学金、合作办学或援助项目的直接受益人，其叙述可能存在主观倾向；尽管调研中吸纳了离职转岗官员及同时参与日欧援助项目的多重视角进行交叉比对，仍需对主观认同表述保持谨慎判读。（p. 1048）
-> - **单一案例推广局限** 由于调研聚焦柬埔寨单一国别个案，因东南亚各国内部政治制度、对华历史渊源、宗教文化及经济发展水平[[Heterogeneity|异质性]]显著，案例推论无法直接普适于东盟所有成员国。（p. 1054）
-> - **微观质性实证缺口** 聚焦中柬两国的定性材料未能涵盖更大尺度的区域跨国高教流动追踪，未来仍需结合更广泛的[[Mixed Methods Research|混合方法]]实证研究检验多元[[Paradigm|范式]]整合模型的解释力。（p. 1054）
+> - **单一案例推广局限** 由于调研聚焦柬埔寨单一国别个案，因东南亚各国内部政治制度、对华历史渊源、宗教文化及经济发展水平异质性显著，案例推论无法直接普适于[[ASEAN|东盟]]所有成员国。（p. 1054）
+> - **微观质性实证缺口** 聚焦中柬两国的定性材料未能涵盖更大尺度的区域跨国高教流动追踪，未来仍需结合更广泛的混合方法实证研究检验多元[[Paradigm|范式]]整合模型的解释力。（p. 1054）
 
 ---
 

@@ -28,12 +28,12 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Technology Deficit of Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Philip H. Coombs
@@ -130,7 +130,7 @@ updated: 2026-10-16
 > > - **苏联与东欧社会主义学者** 强烈抨击其著作掩盖了阶级压迫与资本主义制度危机，指责其所谓“普世危机”是将资本主义教育失调强加给社会主义国家的意识形态修辞工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 指出库姆斯所具象化的人格化普遍危机叙事在冷战中具有鲜明的西方地缘政治烙印，将特定资本主义工业社会的问题外推为全球普世问题。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 指出库姆斯所具象化的人格化普遍危机叙事在冷战中具有鲜明的西方[[Geopolitics|地缘政治]]烙印，将特定资本主义工业社会的问题外推为全球普世问题。
 
 > [!warning] 未解问题与边界
 > 库姆斯的系统[[Analytic Framework\|分析框架]]高度依赖国家层面的宏观投入-产出可量化指标，难以深入捕捉微观教室层面的教学情境复杂性与文化差异。
@@ -152,5 +152,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。

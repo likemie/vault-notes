@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育历史主义学派的核心本体论范畴，由迈克尔·萨德勒在 1900 年吉尔福德演讲中首倡，主张支撑国家教育系统有效运转并决定其实践效能的核心动因深植于校外不可捉摸的民族精神与历史土壤之中。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Problem Approach]]"
   - "[[Pilot Testing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Intangible Spiritual Forces
@@ -214,6 +213,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理[[Michael Sadler\|萨德勒]]无形精神力量概念的提出、[[Isaac Kandel\|坎德尔]]的理论继承，以及 1970 年代埃普斯坦发起的[[Positivism\|实证主义]]清算与方法论论辩。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考掘坎德尔对无形文化精神力量的捍卫、二战后极权危机导致的教化防线坍塌、战后规划理性对观念支配论的边缘化，以及霍姆斯基于[[Critical Dualism\|批判二元论]]对活的精神的规范模式重构。

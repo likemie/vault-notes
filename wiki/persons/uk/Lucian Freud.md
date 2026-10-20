@@ -7,7 +7,7 @@ summary: "德裔英国具象派画家，心理学大师西格蒙德·弗洛伊�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Sigmund Freud]]"

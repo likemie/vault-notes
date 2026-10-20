@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 39
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Archival Research]]"
   - "[[Industrial Benchmarking]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Fred Block]]"

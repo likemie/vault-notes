@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -65,7 +65,6 @@ related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Network Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Keith Morrison]]"
   - "[[Mark Rickinson]]"
@@ -78,7 +77,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Absorptive Capacity
@@ -254,7 +253,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。

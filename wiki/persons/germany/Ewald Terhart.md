@@ -9,7 +9,7 @@ summary: "德国当代著名教育学家、明斯特大学荣休教授，欧陆�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 22
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Critique of Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Praxis]]"
   - "[[Phronesis]]"
   - "[[Bildung]]"
@@ -42,7 +41,6 @@ related_theories:
   - "[[Stability vs. Variability Dilemma]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -90,7 +88,7 @@ updated: 2026-10-20
 
 > [!work-line] 主要著作
 > - **2003 — *Constructivism and teaching: a new [[Paradigm]] in general didactics?*** 探讨[[Constructivist Paradigm|建构主义]]作为心理学学习理论与具体课堂教学指导形式之间的范式张力。
-> - **2011 — *Has [[John Hattie]] really found the holy grail of research on teaching? An extended review of [[Visible Learning]]*** 提出[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]，全面解构[[Meta-meta-analysis|二阶元分析]]的经验信息损失与全景[[Disciplina and Doctrina|规训]]机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
+> - **2011 — *Has [[John Hattie]] really found the holy grail of research on teaching? An extended review of [[Visible Learning]]*** 提出[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]，全面解构[[Meta-meta-analysis|二阶元分析]]的经验信息损失与全景规训机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **2014 — *Unterrichten: Ein Ratgeber für die [[Praxis]]*** 系统阐发科学证据与临床[[Phronesis|实践智慧]]深度融合的教师专业教学实践论。[[Argument_Terhart_2014_Kallmeyer|(Terhart, 2014)]]
 
 ---

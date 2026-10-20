@@ -25,15 +25,15 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Screening Off]]"
   - "[[Discourse]]"
+  - "[[Knowledge Power]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 related_methods:
   - "[[Semi-structured Interview]]"
-  - "[[Correlational Research]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Researching Up and Researching Down
 
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题一：研究倾向的结构性不对称复制了知识权力不平等
+> [!claim] 命题一：研究倾向的结构性不对称复制了[[Knowledge Power|知识权力]]不平等
 > Lee (1993, p. 8) 的观察——社会科学倾向于研究下而非研究上——不仅是一个方法论事实，更是一个知识政治学问题：当学术注意力系统性地避开权力中心时，研究就默许了权力的不透明运作。
 
 > [!claim] 命题二：研究上需要不同的方法论准备
@@ -78,5 +78,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 以研究有权者（9.5）和研究无权与脆弱群体（9.6）两节作为[[Sensitive Research\|敏感研究]]的对比案例，系统展示两类研究的方法论差异与共享的伦理底层逻辑。

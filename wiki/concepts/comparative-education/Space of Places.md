@@ -5,7 +5,7 @@ aliases:
 summary: "Castells 空间理论中附着于特定地理领土的生活与实践场所；在教育研究中特指由具体学校、教室、师生身体在场及本土历史制度构成的物理实践空间，在此处自上而下输入的抽象全球教育话语必然遭遇物质资源匮乏与教学行动一致性要求的刚性中介而发生本土化形变与实践脱节。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Constructivist Paradigm]]"
   - "[[Shape-Shifting]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[Governance by Spin]]"
   - "[[Discourse]]"
@@ -40,7 +39,6 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
 related_facts: []
@@ -65,7 +63,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 物理领土毗连、人身在场与历史经验粘性为核心的社会场所，与[[Space of Flows|流动空间]]的去领土化、电子网络化相对立。
 > - **用途** 解释为何在跨国流动空间中看似完满、在国家政策文本中被精妙并置的全球教育改革方案（如[[Constructivist Paradigm|建构主义]]能力培养、校本课程自主），一旦进入学校地方空间便往往发生不可预期的[[Shape-Shifting|形变]]、扭曲乃至制度性失效。
-> - **边界** 地方空间并非静态封闭的孤岛，它持续受到外部流动空间中信息的穿透与国家法令的[[Disciplina and Doctrina|规训]]，但始终保有不可完全被抹平的本土物质与文化阻抗。
+> - **边界** 地方空间并非静态封闭的孤岛，它持续受到外部流动空间中信息的穿透与国家法令的规训，但始终保有不可完全被抹平的本土物质与文化阻抗。
 
 > [!citation-card] 附着于领土的生活与实践空间
 > 在地方空间中，时间共享的社会实践要求人与人之间的身体共同在场；尽管全球化驱动着流动，但大多数人的生活、工作与教学实践仍然根植于特定地方。（[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；Castells, 2000a）

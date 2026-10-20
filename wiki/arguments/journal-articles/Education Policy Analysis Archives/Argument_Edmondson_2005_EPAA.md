@@ -24,7 +24,6 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Evidence Standards]]"
   - "[[Technical Rationality]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
@@ -69,14 +68,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -100,7 +99,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国 1998 年《卓越阅读法案》（众议院 H.R. 2614 草案与参议院 P.L. 105-277 成文法案）的立法文本演进、国会听证会辩论记录、专业协会游说档案以及围绕[[Scientifically Based Research|科学本位研究]]（Scientifically Based Research, SBR）的规制机制。
-> - **张力** 联邦成文法对阅读定义与科研[[Evidence Standards|证据标准]]的排他性[[Technical Rationality|技术理性]][[Disciplina and Doctrina|规训]]，与多元读写理论、基层[[Teacher Professional Agency|教师专业自主权]]及实质性民主参与诉求之间的尖锐冲突。
+> - **张力** 联邦成文法对阅读定义与科研[[Evidence Standards|证据标准]]的排他性[[Technical Rationality|技术理性]]规训，与多元读写理论、基层[[Teacher Professional Agency|教师专业自主权]]及实质性民主参与诉求之间的尖锐冲突。
 > - **贡献** 系统检验了政治学政策类型学在基础教育立法中的解释边界，深度揭示了国家官僚、国会专委会与商业出版集团结成的排他性次政府铁三角，并建构出赋权教育实践者的批判性多元主义理论框架与多层级反制策略。
 
 ---
@@ -220,7 +219,7 @@ issuing_organization: ""
 > - **商业出版巨头与保守派智库**
 >   麦格劳-希尔（McGraw-Hill）旗下《开放法院阅读》（[[Open Court Reading]]）商业教材集团，以及保守派全美阅读权利基金会（National Right to Read Foundation）骨干，与委员会幕僚保持直接利益纽带，意图通过法律强制学校购买拼读教材。
 
-> [!mechanism]- 《卓越阅读法案》次政府利益铁三角与[[Disciplina and Doctrina|规训]]反制网络（pp. 8–10, 13–14）
+> [!mechanism]- 《卓越阅读法案》次政府利益铁三角与规训反制网络（pp. 8–10, 13–14）
 > ```mermaid
 > flowchart LR
 >     %% 核心利益主体：次政府铁三角与旋转门

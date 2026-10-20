@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
   - "[[Grandes Ecoles]]"
@@ -39,8 +40,7 @@ related_concepts:
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **成立时间与创设背景** 创立于 1848 年（美国宾夕法尼亚州费城），旨在建立一个跨越地理阻隔、涵盖所有自然与应用学科的全国性科学联合会，推动科学研究的国家建制化。
 > - **总部地点与辐射网络** 总部设于美国首都华盛顿特区纽约大道，深植于美国国家科学与公共政策的心脏地带；下设 24 个专门学科学部（Sections，包括教育学部 Section Q），学术网络覆盖全球。
 > - **法人属性与经费基础** 独立学术法人团体；经费主要来自于个人与机构会员会费、《科学》杂志全球订阅与出版收益、联邦竞争性项目资助（如 [[National Science Foundation|NSF]]）及独立慈善捐赠。
-> - **核心宗旨与法定职责** 促进各学科科学家之间的深度交流与合作；提升全社会公共[[Scientific Literacy|科学素养]]与 [[STEM Education|STEM]] 教育质量；捍卫科学诚信与循证决策；通过科学外交促进全球可持续发展。
+> - **核心宗旨与法定职责** 促进各学科科学家之间的深度交流与合作；提升全社会公共[[Scientific Literacy|科学素养]]与 [[STEM Education|STEM]] 教育质量；捍卫科学诚信与[[Evidence-Based Policy-Making|循证决策]]；通过科学外交促进全球可持续发展。
 
 ---
 

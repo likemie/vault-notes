@@ -13,7 +13,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ tags:
   - theme/curriculum-instruction
 related_concepts:
   - "[[Policy Borrowing]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Classroom Management]]"
   - "[[Epistemology]]"
   - "[[Sadler's Garden Metaphor]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Open Classroom Movement
@@ -97,7 +96,7 @@ updated: 2026-10-16
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **改革倡导者 / 运动先锋** 费瑟斯通、韦伯与大学进步派教育学者 — 借助英国经验作为外在客观权威，批判公立学校流水线式工业化[[Disciplina and Doctrina|规训]]，倡导儿童中心与民主探究。
+> - **改革倡导者 / 运动先锋** 费瑟斯通、韦伯与大学进步派教育学者 — 借助英国经验作为外在客观权威，批判公立学校流水线式工业化规训，倡导儿童中心与民主探究。
 > - **地方学区管理者** 20 大城市教育局局长与督学 — 在政治舆论重压下急于寻找立竿见影的创新政绩，通过改建建筑与组团考察推行形式化移植。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 342)]]
 > - **保守抵制者 / 传统派** 传统学科中心学者、教工联盟与中产保守家长 — 抨击开放课堂牺牲了学业严谨性，导致儿童丧失读写算基础技能与课堂秩序。
 > - **受冲击的一线教师** 多数教师未曾接受自主探究教学培训，在失去教参大纲约束后陷入严重教学焦虑与[[Classroom Management|课堂管理]]混乱。

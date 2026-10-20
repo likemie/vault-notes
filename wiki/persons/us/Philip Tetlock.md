@@ -10,7 +10,7 @@ summary: "加拿大裔美国政治心理学家，宾夕法尼亚大学心理学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Determinism]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Geopolitics]]"
   - "[[Grand Theory]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Philip Tetlock
@@ -72,7 +73,7 @@ updated: 2026-10-08
 
 > [!timeline] 生平与职涯
 > - **1954** 出生于加拿大，后赴美深造，在耶鲁大学获得心理学博士学位。
-> - **1980年代起** 启动对政治专家长期预测的大规模[[Cohort Study|追踪研究]]，系统收集专家对全球地缘政治演变的量化预测数据（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 162–163]]）。
+> - **1980年代起** 启动对政治专家长期预测的大规模[[Cohort Study|追踪研究]]，系统收集专家对全球[[Geopolitics|地缘政治]]演变的量化预测数据（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 162–163]]）。
 > - **1990年代–2000年代** 先后任教于加州大学伯克利分校、俄亥俄州立大学及宾夕法尼亚大学。
 > - **2005** 出版代表作《专家政治判断：有多好？我们如何知道？》（*Expert Political Judgment: How Good Is It? How Can We Know?*），公布 284 位专家共计 27451 项预测的实证结果（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 162–164]]）。
 > - **2011年起** 联合发起“良好判断项目”（Good Judgment Project），参与美国高级情报研究计划署（IARPA）预测锦标赛，深入研究“超级预测者”的认知特质。

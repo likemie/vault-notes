@@ -10,7 +10,7 @@ aliases:
 summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在国家微电子战略中，TRL 4–7 构成大学实验室与规模化量产之间的核心中试断层；通过全要素中试平台、共享设计赋能网关（DEG）与洁净室跨界共置，能够有效桥接早期科学突破向工业级成熟度的演进并实现双向闭环反馈。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -45,7 +45,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[National Aeronautics and Space Administration]]"

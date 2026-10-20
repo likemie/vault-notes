@@ -8,7 +8,7 @@ summary: "质性研究中系统记录编码标签、操作化定义、纳入排�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Qualitative Content Analysis]]"
   - "[[Qualitative Computer Software]]"
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[Louis Cohen]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Qualitative Codebook
@@ -211,6 +210,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐明[[Coding in Qualitative Research\|质性编码]]手册的六大结构要素（标签、简略定义、完整定义、纳入排除准则与引语范例），指出其在团队研究中保障[[Qualitative Reliability\|质性信度]]与演化迭代的核心功能。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 结合[[Content Analysis\|内容分析]] 11 步操作规程与教师工作压力实操案例，阐明显性编码规则对规避编码员变异的关键意义，并拓展了编码手册在 LLM 演绎规程赋码中的前沿应用。

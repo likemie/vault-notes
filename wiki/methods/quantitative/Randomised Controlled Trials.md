@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 153
+method_related_count: 155
 method_related_level: 15
 method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Direct Instruction]]"
   - "[[Ecological Validity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Interaction Effect]]"
   - "[[Validity as Inferences]]"
@@ -150,6 +151,7 @@ related_facts:
   - "[[Teacher Choices]]"
   - "[[Researching School Choices]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Employment Retention and Advancement]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -379,7 +381,7 @@ updated: 2026-10-20
 > - **复合干预的[[Ecological Validity\|生态效度]]辩护** 真实教育情境中的常规教学或直接讲授本身同样由示范、练习与即时反馈等复合组件构成，要求探究干预剔除技术支架与协同组件是方法学上的“双重标准”；全课程项目式研究在保持真实课堂情境的同时，提供了更高的生态效度与实践迁移力。
 
 > [!debates] 黄金标准大规模 RCT 证据 vs [[Meta-meta-analysis|二阶元分析]]均值稀释的认识论冲突
-> 循证决策领域存在一个深刻的方法论争端：当少数具备最高方法学纯度的大规模受控试验（如田纳西 STAR 项目）与汇总了成百上千项异质研究的宏观元分析结论相冲突时，政策制定者究竟应当依循哪一类证据？
+> [[Evidence-Based Policy-Making|循证决策]]领域存在一个深刻的方法论争端：当少数具备最高方法学纯度的大规模受控试验（如田纳西 STAR 项目）与汇总了成百上千项异质研究的宏观元分析结论相冲突时，政策制定者究竟应当依循哪一类证据？
 > - **元分析平均主义取向（Hattie, 2009, 2010）** 主张通过二阶元分析汇总所有可用研究的总体效应量（如[[Class Size|班级规模]]效应量 $d \approx 0.20$），并以此作为公共教育资源配置的统一基准。[[John Hattie|哈蒂]]坚持认为，虽然个别小班化 RCT 显示出局部增益，但就整体而言其平均成效远低于 0.40 的“铰链点”门槛；且教师在小班中极少自发改变教学方法，因而全口径大规模缩小班级规模在成本效益上显著劣于投资教师专业发展。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
 > - **严格 RCT 情境因果取向（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出田纳西 STAR 项目（Finn & Achilles, 1990）作为涵盖 76 所小学、6,750 名师生双重真随机分配的“黄金标准”RCT，无可辩驳地确立了在关键起步学段（K–3）将班额压缩至 13–17 人具有 $d = 0.62 \sim 0.66$ 的强因果收益。二阶元分析将此类高质量初级 RCT 与缺乏随机化、微小降额（如 25 人降至 23 人）以及不敏感的高中研究无差别合并，人为“洗平”了因果信号。盲目推崇去情境化的元分析平均数，不仅在方法论上架空了严格 RCT 确立的高等级因果证据，更在实践中为削减弱势儿童关键早期教育投入提供了错误的[[Social Science as Legitimation Alibi|科学借口]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]
 
@@ -391,21 +393,21 @@ updated: 2026-10-20
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 将试验与敏捷原型定位为第三代使命导向政策应对重大社会挑战的核心治理工具。 |
-> | [[Lead-and-Learn Paradigm]] | 概念 | 指导公共部门将实验评估从[[New Public Management|新公共管理]]的静态合规转向动态赋能与反思学习的管理[[Paradigm|范式]]。 |
-> | [[Critical Realism]] | 理论 | 提供对 RCT 经验主义假设的最系统哲学批判：强调开放系统、[[Emergence|涌现]]性与深层因果机制。 |
-> | [[Complexity Theory]] | 理论 | 从非线性、涌现、整体协同和自组织角度根本性质疑 RCT 封闭系统与控制[[Variable|变量]]假设。 |
-> | [[Critique of Randomized Controlled Trials]] | 概念 | 系统批判 RCT 黄金标准的神话，涵盖[[Ontology|本体论]]解构、效度困境与政策异化。 |
+> | [[Lead-and-Learn Paradigm]] | 概念 | 指导公共部门将实验评估从[[New Public Management\|新公共管理]]的静态合规转向动态赋能与反思学习的管理[[Paradigm\|范式]]。 |
+> | [[Critical Realism]] | 理论 | 提供对 RCT 经验主义假设的最系统哲学批判：强调开放系统、[[Emergence\|涌现]]性与深层因果机制。 |
+> | [[Complexity Theory]] | 理论 | 从非线性、涌现、整体协同和自组织角度根本性质疑 RCT 封闭系统与控制[[Variable\|变量]]假设。 |
+> | [[Critique of Randomized Controlled Trials]] | 概念 | 系统批判 RCT 黄金标准的神话，涵盖[[Ontology\|本体论]]解构、效度困境与政策异化。 |
 > | [[Interaction Effect]] | 概念 | 大样本多臂 RCT 是精确检验干预措施与学习者特征交互效应的核心设计。 |
 > | [[Validity as Inferences]] | 理论 | 继承 Cronbach 与 Messick 的效度理论，论证 RCT 推论的效度永远是情境依赖且局部的属性。 |
 > | [[Evidence Standards]] | 政策规程 | 规定 RCT 为最高等级证据（Tier I / Strong Evidence），诱发法定单项合格门槛与科研供给赤字矛盾。 |
-> | [[Educational Evidence Clearinghouses]] | 评估机构 | 制定形式化因果审查规程（如 [[What Works Clearinghouse|WWC]] 3 级标准）对单项 RCT 进行[[Internal Validity|内部效度]]质检与评级。 |
-> | [[Intervention Research]] | 父类方法 | RCT 是其带有[[Random Assignment|随机分配]]的高控制子类，区分变量操纵与随机分配两种证据要求。 |
+> | [[Educational Evidence Clearinghouses]] | 评估机构 | 制定形式化因果审查规程（如 [[What Works Clearinghouse\|WWC]] 3 级标准）对单项 RCT 进行[[Internal Validity\|内部效度]]质检与评级。 |
+> | [[Intervention Research]] | 父类方法 | RCT 是其带有[[Random Assignment\|随机分配]]的高控制子类，区分变量操纵与随机分配两种证据要求。 |
 > | [[Experimental Research]] | 父类方法 | 真实验是检验因果主张的最强设计，RCT 是真实验在当代教育研究中的核心实现形式。 |
 > | [[Cluster Randomized Trials]] | 方法变体 | 教育 RCT 的标准实践，用于妥善处理班级或学校层面的层级嵌套结构。 |
 > | [[Intent-to-Treat Analysis]] | 配套方法 | 应对教育实地试验中受试者非合规与流失问题的核心计量分析策略。 |
 > | [[Mechanism Experiments]] | 替代与拓展 | 通过鼓励设计测试可迁移的特定因果机制，克服黑箱 RCT 缺乏过程解释力的弊端。 |
-> | [[Quasi-Experimental Designs]] | 替代方法 | 在随机分配不可行或遭遇伦理/组织阻力时，提供[[External Validity|外部效度]]与现实可行性更强的替代因果识别方案。 |
-> | [[Non-intervention Research]] | 对照方法 | 不操纵[[Independent Variable|自变量]]的[[Observation Method|观察研究]]，以此对照批评无因果干预基础的过度强[[Recommendations for Practice|实践建议]]。 |
+> | [[Quasi-Experimental Designs]] | 替代方法 | 在随机分配不可行或遭遇伦理/组织阻力时，提供[[External Validity\|外部效度]]与现实可行性更强的替代因果识别方案。 |
+> | [[Non-intervention Research]] | 对照方法 | 不操纵[[Independent Variable\|自变量]]的[[Observation Method\|观察研究]]，以此对照批评无因果干预基础的过度强[[Recommendations for Practice\|实践建议]]。 |
 > | [[Correlational Research]] | 前置方法 | 能够在大规模自然情境中探测变量关联并生成干预假设，但缺乏随机分配与因果隔离效力。 |
 
 ---
@@ -422,12 +424,12 @@ updated: 2026-10-20
 > - [[Tennessee STAR Project 1985-1989]] — 师生双重随机分配 RCT 标杆（$N = 6,750$），证实 K–3 小班化具有显著因果收益，同时反映出家长施压转组对随机化完整性的现实挑战。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理、[[Unit of Analysis|分析单位]]转向以及概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]等[[Causality|因果推断]]全景。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 复盘英国 EEF 资助超 200 项教育 RCT 的制度演进，剖析预注册统计计划、过程评估整合与敏捷设计创新。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 复盘英国 EEF 资助超 200 项教育 RCT 的制度演进，剖析[[Preregistration|预注册]]统计计划、[[Implementation and Process Evaluation|过程评估]]整合与敏捷设计创新。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策[[Discourse|话语]]建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 结合课堂严格 RCT 证实探究教学的概念优势，并为复杂教育情境中涵盖多元组件的项目式 RCT 生态效度提供方法学辩护。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 结合课堂严格 RCT 证实探究教学的概念优势，并为复杂教育情境中涵盖多元组件的项目式 RCT [[Ecological Validity|生态效度]]提供方法学辩护。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 考证美国联邦立法初期对 RCT 的强烈制度偏好，论述学术共同体如何依托 NRC 六大原则打破单一实验垄断，确立问题适配观。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关性研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判二阶元分析将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
-> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如班级规模缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在就业留任与晋升（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关性研究]]），剖析了活跃对照与常规教学对照混淆对干预[[Effect Size|效应量]]的稀释效应。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判[[Meta-meta-analysis|二阶元分析]]将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如[[Class Size|班级规模]]缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。

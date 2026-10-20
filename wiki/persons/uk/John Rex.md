@@ -9,7 +9,7 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,7 +36,6 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[Classroom Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # John Rex
@@ -107,7 +106,7 @@ updated: 2026-10-16
 > - **教育批判社会学** 深刻启迪了教育研究者：在[[Classroom Observation|课堂观察]]中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观[[Discourse|话语]]，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
 > - **种族与移民理论** 开拓了英国族群关系社会学，奠定了住房阶级、制度性歧视与后殖民移民研究的理论传统。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用雷克斯关于行动者虚假意识与客观视角探寻的经典批判（p. 26），作为[[Interpretive Paradigm\|诠释范式]]四大批判支柱之首。
 
 ---

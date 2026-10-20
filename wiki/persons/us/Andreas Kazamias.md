@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 56
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -53,7 +53,6 @@ related_theories:
   - "[[Postmodernism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
   - "[[Problem Approach]]"
 related_persons:
   - "[[James Madison]]"

@@ -9,7 +9,7 @@ aliases:
 summary: "源自母学科（社会科学、人文学科或自然科学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以界定构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒；在全球教育治理与知识经济中指以客观事实与理论命题为核心的“knowing that”，在追求程序性与商业化技能（knowing how）的新自由主义转向下面临工具化边缘。"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -48,7 +48,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
-  - "[[Competitiveness]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Social Justice Theory]]"
   - "[[Critical Theory]]"
@@ -80,10 +80,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Discipline-Based Theory
@@ -178,8 +179,8 @@ updated: 2026-10-18
 > ```
 
 > [!example]- 经典应用案例
-> - **慢性疼痛管理中的自我控制理论应用** Kennett et al. (2008) 在一项关于慢性疼痛管理的混合方法研究中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论作为学科理论。研究收集了量表数据并同步开展质性访谈，理论直接引导了量化工具选择与质性访谈架构，系统梳理了促进自我管理的显著要素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–70)]]
-> - **积极心理学作为多理论学科透镜** Clark and Plano Clark (2019) 使用积极心理学（Positive Psychology）作为核心学科理论，整合社会认知理论、[[Self-Determination Theory|自我决定理论]]与职业理论，指导抽样、访谈协议与编码框架，充当界定研究设计与解释发现的核心透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 72)]]
+> - **慢性疼痛管理中的[[Self-control|自我控制]]理论应用** Kennett et al. (2008) 在一项关于慢性疼痛管理的混合方法研究中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论作为学科理论。研究收集了量表数据并同步开展[[Qualitative Interview|质性访谈]]，理论直接引导了量化工具选择与质性访谈架构，系统梳理了促进自我管理的显著要素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–70)]]
+> - **积极心理学作为多理论学科透镜** Clark and Plano Clark (2019) 使用积极心理学（Positive Psychology）作为核心学科理论，整合社会认知理论、[[Self-Determination Theory|自我决定理论]]与职业理论，指导抽样、[[Interview Protocol|访谈协议]]与编码框架，充当界定研究设计与解释发现的核心透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 72)]]
 > - **护理研究中的生命历程视角模型** Evans et al. (2011) 运用生命历程视角作为学科理论：通过视觉模型明确概念逻辑，从理论提炼关键构念纳入研究目标，指导质性开放问题与量化测量工具，提供起始编码并为假设检验提供预测模型。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 71–72)]]
 
 ---
@@ -284,4 +285,4 @@ updated: 2026-10-18
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 93–94)]] — 阐析欧洲比较教育学依托大学讲座教授制建立的学科本位理论传统，及其对早期无理论依托量化测验的警惕与抵制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 调动系统论、具身认知、政治经济学与教化哲学等多学科理论，抵抗可见学习去理论化的评价实证主义（pp. 3–10）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 调动系统论、具身认知、政治经济学与教化哲学等多学科理论，抵抗可见学习去理论化的评价[[Positivism|实证主义]]（pp. 3–10）。

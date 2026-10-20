@@ -20,6 +20,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Data-Based Decision Making]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Technical Rationality]]"
   - "[[Determinism]]"
   - "[[Professional Judgment]]"
@@ -39,7 +40,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evidence-Informed Decision-Making
@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 > [!boundary]- 概念边界
 > - 不等于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM） — DBDM 依赖学校或行政系统内部生成的评估成绩、考勤与[[Questionnaire\|问卷]]等实务数据，侧重本地学情诊断；EIDM 核心依据是外部学术界发表的高质量实证研究证据与系统评价。
-> - 不等于机械的证据本位决策（Evidence-Based Policy） — 传统证据本位常预设“研究即处方”的[[Technical Rationality\|技术理性]][[Determinism\|决定论]]；EIDM 强调研究证据必须与决策者的[[Professional Judgment\|专业判断]]、利益相关者偏好以及资源约束展开审议权衡。
+> - 不等于机械的[[Evidence-Based Policy-Making|证据本位决策]]（Evidence-Based Policy） — 传统证据本位常预设“研究即处方”的[[Technical Rationality\|技术理性]][[Determinism\|决定论]]；EIDM 强调研究证据必须与决策者的[[Professional Judgment\|专业判断]]、利益相关者偏好以及资源约束展开审议权衡。
 > - 不等于单一的[[Literature Search\|文献检索]]或信息披露 — 仅有信息的公开无法构成 EIDM；唯有当证据通过特定干预机制实质重构了决策者的能力、动机与决策行为时，EIDM 方告成立。
 
 ---
@@ -195,6 +195,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation\|知识动员]]供给侧偏误的理论突破。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

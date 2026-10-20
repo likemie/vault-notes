@@ -41,6 +41,7 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Layering]]"
+  - "[[Geopolitics]]"
   - "[[State Educational Sovereignty]]"
   - "[[Paradigm]]"
   - "[[National Character]]"
@@ -84,7 +85,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Content Analysis]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Crane Brinton]]"
@@ -217,7 +217,7 @@ updated: 2026-10-20
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的[[Path Dependence|路径依赖]]与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
 >   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（[[Institutional Conversion|conversion]]）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
 >   - 建立跨国教育与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
->   - 剖析冷战或地缘政治分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
+>   - 剖析冷战或[[Geopolitics|地缘政治]]分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
 > - **谨慎使用**
 >   - 评估短期具体教学干预或政策实施的微观即时成效（需结合量化或[[Mixed Methods Research|混合方法]]）；

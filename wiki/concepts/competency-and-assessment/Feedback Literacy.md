@@ -9,10 +9,10 @@ aliases:
 summary: "学习者在多源反馈生态中理解反馈价值、调控情绪抗拒、协同做出评价性判断并将其转化为后续实质性改进决策的核心胜任力与行动倾向。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/curriculum-instruction
   - theme/formative-assessment
@@ -39,8 +39,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Feedback Literacy
@@ -183,7 +182,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统阐明如何将反馈素养与[[Evaluative Judgement\|评价性判断]]相融合，通过高年级科研方法课中的对抗性质询与多源对比矩阵规程，迫使学生为每次修改独立辩护，成功防御自动化反馈导致的[[Cognitive Offloading\|认知外包]]与能力退化。
 
 ---

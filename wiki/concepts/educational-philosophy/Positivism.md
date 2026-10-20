@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 138
+related_count: 133
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -75,9 +75,7 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Engineering Mindset]]"
-  - "[[Hard Power]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
@@ -86,6 +84,7 @@ related_theories:
   - "[[Behaviorism]]"
   - "[[Legitimation Crisis]]"
   - "[[Complexity Theory]]"
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Randomised Controlled Trials]]"
@@ -107,9 +106,6 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Correlational Research]]"
   - "[[Composite Reliability]]"
-  - "[[Quantitative Research]]"
-  - "[[Random Assignment]]"
-  - "[[Five Whys]]"
 related_instruments: []
 related_persons:
   - "[[Auguste Comte]]"
@@ -134,9 +130,7 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Crane Brinton]]"
-  - "[[Herbert Hoover]]"
-  - "[[Alexander Karp]]"
-  - "[[Wolfgang Mitter]]"
+  - "[[Niklas Luhmann]]"
 related_facts:
   - "[[PISA]]"
   - "[[ESPRIT]]"
@@ -163,10 +157,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Positivism
@@ -468,7 +463,7 @@ updated: 2026-10-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表文献 | 历时性方法学内容计量编码 | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与[[Correlational Research\|相关研究]]仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表文献 | 历时性方法学内容计量编码 | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与[[Correlational Research\|相关性研究]]仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | [[Discourse\|话语]]与方法学批判分析 | [[Meta-analysis\|元分析]]效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂[[Ontology\|本体论]]抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | [[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》反馈综合文献（覆盖总样本 67,931 人中 92.4% 权重的五大核心元分析） | 概念批判与元分析底层[[Construct\|构念]]计量核查 | 实证量化[[Composite Reliability\|构念信度]]与去理论化效应量汇总稳健性 | 证实五大核心元分析中有四项测量的属于行为强化、身体亲和力与动态测验提示等异质现象，唯一契合定义的研究实际效应仅为 $d=0.38$ 且包含 38% 负效应 | 质性深度核查确证 | 实证揭示缺乏显性理论审视的实证主义指标汇总在证据合成中导致的构念混淆与虚假因果 |
 
@@ -487,7 +482,7 @@ updated: 2026-10-17
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与[[Jürgen Habermas|哈贝马斯]]的[[Critical Theory|批判理论]]，解构[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》背后的实证主义与“无意识理论”预设，揭示其实证手段-目的控制回路如何将教学异化为流水线，并充当现代国家规避教育[[Legitimation Crisis|合法化危机]]的技术工具（pp. 79–83, 86–89）。
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩[[Technical Rationality|技术理性]]批判，细读哈蒂《可见的学习》反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]本质（pp. 3–15）。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩[[Technical Rationality|技术理性]]批判，细读哈蒂《可见的学习》反馈效应元分析底层数据，揭示其实证主义非理论化修辞掩盖下的行为主义预设、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]规训本质（pp. 3–15）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从卢曼二阶观察与现象学批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化绩效指标的认识论盲点与规范遮蔽（pp. 3–10）。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从[[Niklas Luhmann|卢曼]]二阶观察与[[Phenomenology|现象学]]批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化[[Performance Indicators|绩效指标]]的认识论盲点与规范遮蔽（pp. 3–10）。

@@ -7,7 +7,7 @@ aliases:
 summary: "指发端于功利主义道德哲学、在硅谷科技界广泛流行的意识形态运动，主张以单一量化指标计算福利最大化；被批评为一种空洞功利主义与非道德避险策略，使科技精英得以披上廉价理想主义外衣以逃避对政治共同体、国家防卫与人生意义的实质承诺。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Cost-Benefit Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Rawls]]"

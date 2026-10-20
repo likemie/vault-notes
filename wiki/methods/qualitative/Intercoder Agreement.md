@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Yvonna S. Lincoln]]"
@@ -202,7 +201,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 结合第 30 章[[Content Analysis\|内容分析]] 14 项[[Reliability\|信度]]威胁体系（pp. 573–574）与第 17 章[[Meta-analysis\|元分析]]规程（pp. 359–363），系统阐明编码者信度的[[Operationalization\|操作化]]检验与门槛基准。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐释[[Coding in Qualitative Research|质性编码]]者间一致性的四步检验规程与 Miles & Huberman 80% 一致性门槛（p. 215）。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 比较大语言模型与人类专家在 156 项教育元分析数据提取中的编码者间一致性（百分比一致率达 77%–86%），并通过多方仲裁确立金标准基准。

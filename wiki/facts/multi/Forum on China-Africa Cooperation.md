@@ -9,9 +9,9 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "官方多边对话与合作平台"
 headquarters: "中国北京（中非合作论坛中方后续行动委员会秘书处）"
@@ -26,14 +26,24 @@ tags:
   - level/international
 related_concepts:
   - "[[South-South Cooperation]]"
+  - "[[International Education]]"
+  - "[[Counterpart Funds]]"
+  - "[[Paradigm]]"
+  - "[[Student Mobility]]"
+  - "[[Tracking]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Belt and Road Education Action Plan]]"
+  - "[[UNESCO]]"
+  - "[[Institute of South-South Cooperation and Development]]"
+  - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
+  - "[[Sino-Africa Joint Research Center]]"
+  - "[[Confucius Institute]]"
+  - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
@@ -49,12 +59,12 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 中非合作论坛（Forum on China–Africa Cooperation, FOCAC）是中国与非洲友好国家在平等互利基础上共同创设的集体对话与多边合作机制，旨在应对经济全球化挑战、促进共同发展与深化南南合作，在国际教育与人力资源开发领域承担统领性政策制定与旗舰项目出资平台职能。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
+> 中非合作论坛（Forum on China–Africa Cooperation, FOCAC）是中国与非洲友好国家在平等互利基础上共同创设的集体对话与多边合作机制，旨在应对经济全球化挑战、促进共同发展与深化[[South-South Cooperation|南南合作]]，在[[International Education|国际教育]]与人力资源开发领域承担统领性政策制定与旗舰项目出资平台职能。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2000年10月首届部长级会议在北京召开，标志着中非传统友好关系在冷战后国际格局重塑期实现了多边制度化建制。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
 > - **总部地点 / 业务辐射** 论坛中方后续行动委员会秘书处常设于中国北京，业务覆盖中国及53个与华建交的非洲国家以及非洲联盟委员会。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223)]]
-> - **法人属性与经费基础** 属于政府间官方多边合作平台；项目经费依托中方对外援助专项资金、优惠性质贷款、中非发展基金及有关部门与地方政府配套资金。
+> - **法人属性与经费基础** 属于政府间官方多边合作平台；项目经费依托中方对外援助专项资金、优惠性质贷款、中非发展基金及有关部门与地方政府[[Counterpart Funds|配套资金]]。
 > - **核心宗旨与法定职责** 坚持平等磋商、增进了解、扩大共识、加强友谊与促进合作，重点在减贫、卫生、农业、基础设施互联互通、教育与人力资源开发等领域提供系统性发展合作支撑。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–224)]]
 
 ---
@@ -73,14 +83,14 @@ updated: 2026-10-20
 >
 >   合作重心全面转向高等教育能力建设、职业技术培训与全方位人文交流，奖学金与短期培训名额出现大规模跃增。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223–225)]]
 >
->   - **2012** 第五届部长级会议在北京举行，确立提供18,000个政府奖学金名额与设立联合国教科文组织信托基金专项资助。
->   - **2015** 第六届约翰内斯堡峰会举行，提出中非“十大合作计划”，包括提供32,000个政府奖学金名额、40,000个在华培训名额、培训20万名本土职业技术人才及创设南南合作与发展学院。
+>   - **2012** 第五届部长级会议在北京举行，确立提供18,000个政府奖学金名额与设立[[UNESCO|联合国教科文组织]]信托基金专项资助。
+>   - **2015** 第六届约翰内斯堡峰会举行，提出中非“十大合作计划”，包括提供32,000个政府奖学金名额、40,000个在华培训名额、培训20万名本土职业技术人才及创设[[Institute of South-South Cooperation and Development|南南合作与发展学院]]。
 >
-> - **2018–至今** **“一带一路”对接与高质量合作期**
+> - **2018–至今** **“[[Belt and Road Initiative|一带一路]]”对接与高质量合作期**
 >
->   全面对接“一带一路”建设与非盟《2063年议程》，合作范式向深度产教协同、联合研究实验室与高层次领军人才培养拓展。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–228)]]
+>   全面对接“一带一路”建设与非盟《2063年议程》，合作[[Paradigm|范式]]向深度产教协同、联合研究实验室与高层次领军人才培养拓展。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–228)]]
 >
->   - **2018** 第七届北京峰会通过《北京行动计划（2019–2021年）》，推出“八大行动”，承诺提供50,000个政府奖学金名额、50,000个研修研讨名额、1,000名高端领军人才专项及设立10所鲁班工坊。
+>   - **2018** 第七届北京峰会通过《北京行动计划（2019–2021年）》，推出“八大行动”，承诺提供50,000个政府奖学金名额、50,000个研修研讨名额、1,000名高端领军人才专项及设立10所[[Luban Workshop|鲁班工坊]]。
 >   - **2019** 非洲首所鲁班工坊在吉布提落成启用，服务亚吉铁路运营人才本地化培养。
 
 ---
@@ -104,23 +114,23 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **中国政府专项奖学金与短期研修** 提供面向非洲各国的全额学位奖学金与为期2至3周的短期技术培训，构成了论坛历届行动计划的硬性支柱指标。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222, 224, 226)]]
-> - **南南合作与发展学院（ISSCAD）** 设立于北京大学国家发展研究院，专门面向非洲及全球南方国家高级官员与政策精英，提供发展道路与公共政策硕士/博士学位项目。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
-> - **鲁班工坊（Luban Workshop）** 依托中国高职院校协同涉外基建央企在非洲设立的实训中心，定向培养工程施工、铁路运维及现代农业等现场技术工人。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
-> - **中非联合研究中心** 围绕生态环境、公共卫生与可再生能源共建联合科研实体，专项资助非洲青年学者攻读硕博学位并开展联合学术攻关。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
-> - **多边信托基金与孔子学院** 持续向联合国教科文组织提供中国信托基金用于非洲教师专业发展，并在非洲高校广泛建立孔子学院与中文课堂。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–225)]]
+> - **[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（ISSCAD）** 设立于北京大学国家发展研究院，专门面向非洲及全球南方国家高级官员与政策精英，提供发展道路与公共政策硕士/博士学位项目。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **[[Luban Workshop|鲁班工坊]]（Luban Workshop）** 依托中国高职院校协同涉外基建央企在非洲设立的实训中心，定向培养工程施工、铁路运维及现代农业等现场技术工人。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
+> - **[[Sino-Africa Joint Research Center|中非联合研究中心]]** 围绕生态环境、公共卫生与可再生能源共建联合科研实体，专项资助非洲青年学者攻读硕博学位并开展联合学术攻关。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
+> - **多边信托基金与[[Confucius Institute|孔子学院]]** 持续向[[UNESCO|联合国教科文组织]]提供中国信托基金用于非洲教师专业发展，并在非洲高校广泛建立孔子学院与中文课堂。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–225)]]
 
 > [!citation-card] 约翰内斯堡峰会行动计划关于教育与人力资源开发的表述（FOCAC, 2015）
 > 为支持非洲加强自主发展能力，中方决定实施中非减贫惠民计划与中非人文合作计划，提供32,000个政府奖学金名额，提供40,000个赴华培训名额，为非洲培训20万名职业技术人才，设立南南合作与发展学院，支持非洲国家加强教育和专业能力建设。[[Argument_King_2020_ECNUROE|(FOCAC, 2015, 引自 King, 2020, p. 224)]]
 >
-> *China will provide 32,000 government scholarships to Africa, 40,000 training opportunities in China, train 200,000 local technical and vocational personnel, and establish an Institute of South-South Cooperation and Development...*
+> *China will provide 32,000 government scholarships to Africa, 40,000 training opportunities in China, train 200,000 local technical and vocational personnel, and establish an Institute of [[South-South Cooperation]] and Development...*
 
 ---
 
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **高教与技能人员流动** 累计全额奖学金配额、短期专业研修人次与双向留学生流动规模。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
-> - **实体化机构合作网络** “20+20”高校伙伴结对网络、中非联合研究中心及海外鲁班工坊布局覆盖面。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
+> - **高教与技能人员流动** 累计全额奖学金配额、短期专业研修人次与双向留[[Student Mobility|学生流动]]规模。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **实体化机构合作网络** “20+20”高校伙伴结对网络、[[Sino-Africa Joint Research Center|中非联合研究中心]]及海外[[Luban Workshop|鲁班工坊]]布局覆盖面。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
 > - **产业协同与技术属地化** 跨国重大基建、经贸合作园区与工业走廊本土技术人员的用工吸纳率与培训转化率。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
 
 > [!finding-cards] 关键成效与辐射影响
@@ -154,7 +164,7 @@ updated: 2026-10-20
 > [!citation-card] 代表性批评与反思文献
 > 中非合作论坛的运行机制展现出极强的公关与象征特征；但长时段追踪其实际承诺与落地机制可以发现，制度化的双边磋商与部际协调使其成为具备切实交付能力的多边合作载体。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223, 225)]]
 >
-> *While some critics argue that FOCAC operates with significant symbolism and spin, empirical tracking of bilateral delivery mechanisms reveals substantive implementation.*
+> *While some critics argue that FOCAC operates with significant symbolism and spin, empirical [[Tracking|tracking]] of bilateral delivery mechanisms reveals substantive implementation.*
 
 ---
 
@@ -164,8 +174,8 @@ updated: 2026-10-20
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[South-South Cooperation]] | Concept | 中非合作论坛运行遵循的根本国际合作理念与南南合作机制范式。 |
+> | [[South-South Cooperation]] | Concept | 中非合作论坛运行遵循的根本国际合作理念与南南合作机制[[Paradigm\|范式]]。 |
 > | [[Belt and Road Education Action Plan]] | Fact (Policy) | 与中非合作论坛人力资源传统深度交织、共同支撑跨洲能力合作的行动纲领。 |
 > | [[Luban Workshop]] | Fact (Program) | 论坛第七届北京峰会明确承诺并在非洲重点落地的跨国职业教育实训旗舰工程。 |
 > | [[Discourse Analysis]] | Method | 解构中非合作论坛政策文本互惠修辞与制度性承诺演进的核心分析方法。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 深入解构中非合作论坛第六届与第七届峰会教育承诺并对比“一带一路”倡议的代表性文献。 |
+> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 深入解构中非合作论坛第六届与第七届峰会教育承诺并对比“[[Belt and Road Initiative\|一带一路]]”倡议的代表性文献。 |

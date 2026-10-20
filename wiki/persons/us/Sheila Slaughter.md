@@ -7,7 +7,7 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[James Madison]]"
 confidence: high

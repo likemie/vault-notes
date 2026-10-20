@@ -17,6 +17,7 @@ tags:
   - theme/evidence-ecosystem
   - theme/governance
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[What Works Movement]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -45,7 +46,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Research Synthesis]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Justin Parkhurst]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Good Governance of Evidence
@@ -66,7 +66,7 @@ updated: 2026-10-17
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 公共政策与教育治理中证据利用的政治属性与制度机制，解释为何宣称追求“科学理性”的循证决策常常异化为技术官僚垄断或象征性装点。
+> - **解释对象** 公共政策与教育治理中证据利用的政治属性与制度机制，解释为何宣称追求“科学理性”的[[Evidence-Based Policy-Making|循证决策]]常常异化为技术官僚垄断或象征性装点。
 > - **理论问题** 回应[[What Works Movement\|循证政策运动]]将政策议题窄化为“何者有效”（What Works）的[[Positivism\|实证主义]]弊端，探究如何在承认政治竞争与多元价值合法性的前提下，建立规范化的证据治理体制。
 > - **理论类型** 规范性制度治理理论与中层政策[[Analytic Framework\|分析框架]]。
 > - **知识位置** 根植于公共行政学、政策政治学与科学知识社会学；由英国政策学者[[Justin Parkhurst\|贾斯汀·帕克赫斯特]]（Justin Parkhurst）于 2017 年在其专著《The Politics of Evidence》中系统阐发，并被跨领域证据生态与教育[[Research Utilization Models\|研究使用模型]]深度吸纳。
@@ -100,7 +100,7 @@ updated: 2026-10-17
 > [!proposition-chain] 核心命题一｜证据在公共政策与教育决策中的利用本质上属于政治与规范过程，无法通过纯粹的[[Technical Rationality\|技术官僚理性]]去政治化
 > - **前提一** 科学研究证据能够揭示某种干预或政策在特定条件下的经验效应，但无法直接裁决哪种社会目标、价值取向或资源分配更具正当性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 公共教育决策必然牵涉教师、学生、家长及纳税人等多方主体的利益博弈与价值竞争，不存在[[Value Neutrality\|价值中立]]的技术最优解。
-> - **推导** 试图将循证决策还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业[[Discourse|话语]]之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
+> - **推导** 试图将[[Evidence-Based Policy-Making|循证决策]]还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业[[Discourse|话语]]之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
 
 > [!proposition-chain] 核心命题二｜评价[[Research Utilization\|证据使用]]质量的核心基准在于决策过程的程序正当性、透明度与可争辩性，而非单一的下游既定成效
 > - **前提一** 下游成效指标易受宏观经济、社会阶层变迁与偶发环境因素的扰动，单一以结果问责极易诱发被考核者的指标合谋与象征性应对。
@@ -158,7 +158,7 @@ updated: 2026-10-17
 > - **不能直接推出的东西** 不能直接断定某一特定政策方案或教学干预是否在实质成效上绝对优于替代方案，亦不能替代具体的因果识别。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 用于构建宏观证据生态、国家科研智库体系及教育循证决策体制的评价框架。
+> - **作为理论框架** 用于构建宏观证据生态、国家科研智库体系及教育[[Evidence-Based Policy-Making|循证决策]]体制的评价框架。
 > - **作为分析工具** 转化为具体的[[Operationalization\|操作化]]分析维度：证据获取范围审查、利益冲突回避机制、审议程序记录公开度及异议申诉渠道有效性。
 > - **作为批判视角** 深度解构政府机构借助“科学证据”包装行政意志的去政治化[[Discourse|话语]]，揭示[[Positivism\|实证主义]]对一线[[Teacher Professional Agency\|教师专业自主权]]的侵蚀。
 > - **报告方式** 综合呈现科学数据、制度环境约束与多元利益主体的论辩过程，呈现证据利用的动态博弈生态。
@@ -187,7 +187,7 @@ updated: 2026-10-17
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2017 — 专著奠基** [[Justin Parkhurst]] 出版专著《The Politics of Evidence: From Evidence-based Policy to the Good Governance of Evidence》，系统批判技术主义弊端并确立良好治理架构。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
+> - **2017 — 专著奠基** [[Justin Parkhurst]] 出版专著《The Politics of Evidence: From [[Evidence-Based Policy-Making|Evidence-based Policy]] to the Good Governance of Evidence》，系统批判技术主义弊端并确立良好治理架构。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 > - **2018–2021 — 跨领域扩展** 理论广泛渗透至卫生政策、发展经济学及环境治理领域，引发政策界对证据政治学与审议问责的广泛研讨。
 > - **2022 — 教育证据生态吸纳** [[Mark Rickinson]] 等人在探讨教育证据高质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]）时，将证据良好治理引入宏观系统影响维度，确立其在教育科研转化治理中的理论地位。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
@@ -216,5 +216,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 将良好治理理论引申为 [[Quality Use of Research Evidence Framework\|QURE]] 框架宏观系统支持构件的[[Epistemology\|认识论]]基石。

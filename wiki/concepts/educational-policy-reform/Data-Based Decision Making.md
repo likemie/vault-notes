@@ -22,6 +22,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Professional Judgment]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Data Literacy]]"
   - "[[Epistemology]]"
@@ -48,7 +49,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Qualitative Observation]]"
   - "[[Survey Research]]"
-  - "[[Correlational Research]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Inquiry Cycle]]"
@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Data-Based Decision Making
@@ -75,7 +75,7 @@ updated: 2026-10-17
 > 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（[[Classroom Observation|课堂观察]]、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
 
 > [!concept-lens] 概念透镜
-> - **含义** 聚焦以学校自身内部信息系统与课堂评估为基础的循证决策形态，区分于依赖外部学术研究文献的实践路径。
+> - **含义** 聚焦以学校自身内部信息系统与课堂评估为基础的[[Evidence-Based Policy-Making|循证决策]]形态，区分于依赖外部学术研究文献的实践路径。
 > - **用途** 帮助学校与教师系统诊断学情短板、分析学业问题深层根因、开展差异化教学调整与校本持续改进。
 > - **边界** DBDM 擅长揭示问题病因所在，但数据自身不包含现成的教学解决方案；它属于[[Evidence-Informed Practice\|证据知情实践]]（EIP）的关键拼图之一，必须与[[Professional Judgment\|专业判断]]及外部学术研究深度融合，才能避免退化为机械的数据合规与指标审计。
 
@@ -229,7 +229,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 系统阐释 DBDM 演进、五阶段行动循环与特温特[[Data Team Intervention\|数据团队]]（Data Team）实证干预，揭示其知病因却缺良方的固有盲区，并构建整合 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 的 [[School Enquiry Cycle\|ESTI]] 八步探究模型。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统论述 DBDM 作为与 RITP 相对的数据使用形态，揭示课堂数据层级感知偏误，倡导定性定量[[Triangulation\|三角验证]]与学校[[Inquiry Cycle\|探究循环]]。
 > - Schildkamp and Kuiper (2010) — 提出基于数据的决策核心概念界定，系统梳理输入、过程、情境与结果四类校本数据形态及实践功能。

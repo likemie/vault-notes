@@ -8,7 +8,7 @@ summary: "美国著名冷战史学家、耶鲁大学讲席教授，被誉为“�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Total War]]"
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Steven Pinker]]"
 related_facts:

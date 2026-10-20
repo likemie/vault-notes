@@ -24,13 +24,13 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Soviet Statism]]"
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Citizenship]]"
   - "[[Relational Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Roger Dale]]"
   - "[[Eleftherios Klerides]]"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Methodological Educationism
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **正式制度依赖（Formal Institutional Bias）** 将教育资源、教育评价与成效等同于学校大楼、标准化测试和学历证书等可被行政测量的可见制度属性。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
-> - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏[[Competitiveness|竞争力]]）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与地缘政治结构性压迫。(Dale & Robertson, 2009)
+> - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏[[Competitiveness|竞争力]]）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与[[Geopolitics|地缘政治]]结构性压迫。(Dale & Robertson, 2009)
 > - **边界排他性（Exclusionary Boundaries）** 在方法论设计上，将正式课堂之外的非正式关系、网络流转及多行动者互动视为研究的“杂音”而予以排除。
 
 > [!logic-map]- 要素关系
@@ -134,5 +134,5 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了方法论教育主义、[[Methodological Statism\|方法论国家主义]]与 statism 在比较教育历史演进中的叠加运作，并论证了[[Global Citizenship\|全球公民身份]]如何对其构成挑战。

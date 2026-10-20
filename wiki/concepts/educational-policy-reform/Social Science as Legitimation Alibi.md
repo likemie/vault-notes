@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,12 +29,14 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Utilization]]"
   - "[[Theoretical Perspective]]"
   - "[[Reflexivity]]"
+  - "[[Geopolitics]]"
   - "[[Empiricism]]"
   - "[[Postpositivism]]"
   - "[[Doxa]]"
@@ -53,7 +55,6 @@ related_methods:
   - "[[Problem Approach]]"
   - "[[Multiple Regression]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Horace Mann]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Social Science as Legitimation Alibi
@@ -89,7 +90,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向实证社会科学研究与现代行政治理权力之间的非对称共谋关系，特别是量化硬事实如何异化为官僚免责的工具。
-> - **用途** 帮助研究者穿透“循证决策”与“科学中立”的表象，透视政策制定者为何系统性偏爱特定简化量化模型而排斥揭示深层矛盾的批判性[[Qualitative Research\|质性研究]]。
+> - **用途** 帮助研究者穿透“[[Evidence-Based Policy-Making|循证决策]]”与“科学中立”的表象，透视政策制定者为何系统性偏爱特定简化量化模型而排斥揭示深层矛盾的批判性[[Qualitative Research\|质性研究]]。
 > - **边界** 不等于对社会科学经验研究本身的虚无主义否定，而是聚焦于科研成果在官方资助市场和决策转化中被选择性利用（Symbolic/Legitimising Use）的政治社会学过程。
 
 > [!citation-card] 马修论实证社会科学沦为现存教育政治正统的合法化借口
@@ -129,7 +130,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **官方资助市场的逆向淘汰机制** 科研资助机构与政客对无法得出明确处方、不支持预设方针且无法在官员任期内提供速效保证的研究（如霍姆斯揭示深层矛盾的[[Problem Approach\|问题法]]）抱有天然疑虑，促使资金向能提供直观回归系数的实证派高度集中。
-> - **机构赞助与地缘政治利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与[[Empiricism|唯方法论主义]]在战后的迅速扩张绝非纯粹的[[Epistemology|认识论]]演进，而是得到了国家政府、私人慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> - **机构赞助与[[Geopolitics|地缘政治]]利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与[[Empiricism|唯方法论主义]]在战后的迅速扩张绝非纯粹的[[Epistemology|认识论]]演进，而是得到了国家政府、私人慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 > - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战[[Postpositivism|后实证主义]]则将这一机制升级为以[[Multiple Regression|多元回归]]与[[Human Capital Theory|人力资本]]模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
 > - **量化硬事实的去政治化包装** 实证学派借助大样本测量、[[Variable\|变量]]共变与数学方程，将高度涉及阶级利益再分配与价值偏好的政治裁决，精巧包装为中立、[[Doxa\|不言自明]]且无可争辩的自然规律。
 > - **推卸行政问责的道德避雷针** 一旦政策在现实中遭遇阻力或失败，官员可借口政策完全是“依据客观科学专家模型制定”，从而规避个人或执政党应当承担的政治问责与道德罪责。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
@@ -160,7 +161,7 @@ updated: 2026-10-16
 > **作为国家五年计划与政策投资的合法化借口** 马修指出，美国实证功能主义与[[Quantitative Research\|量化研究]]之所以压倒霍姆斯折衷复杂的问题法，其根源不在于[[Epistemology\|认识论]]上的优越，而在于现代国家规划体制（如中央五年计划、综合中学改革、发展中国家技术援助）急需确定性的科学依据为既定预算与路线背书；[[Positivism\|实证主义]]产出的直观回归系数与硬事实，完美充当了技术官僚推卸行政责任与逃避道德反思的科学借口（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–68)]]
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **制度赞助与政策利益驱动下的范式强化** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）进一步揭示，战后实证功能主义与现代化发展理论在比较教育学中的支配地位，根本上是冷战地缘政治与福利国家规划相互交织的产物。这类研究之所以迅速获得官方独宠，在于其“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化”；客观科学的修辞有效掩盖了援助项目背后的地缘政治目的与西方中心主义霸权。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> **制度赞助与政策利益驱动下的范式强化** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）进一步揭示，战后实证功能主义与现代化发展理论在比较教育学中的支配地位，根本上是冷战[[Geopolitics|地缘政治]]与福利国家规划相互交织的产物。这类研究之所以迅速获得官方独宠，在于其“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化”；客观科学的修辞有效掩盖了援助项目背后的地缘政治目的与西方中心主义霸权。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 
 ---
 
@@ -225,7 +226,7 @@ updated: 2026-10-16
 > - **服务于权力的[[Policy Science in Comparative Education\|政策科学]]结盟（红方）** 主张社会科学应直面决策者的现实需求，通过生产具有预测力和确定性的因果共变数据，充当治理工程的合法化智库与行动依据。[[Argument_Mattheou_2009_ScientificParadigm\|(Noah & Eckstein, 1969; Mattheou, 2009, p. 64)]]
 
 > [!critique] 外部批评
-> - **证据支持政策 vs 政策倒逼证据的道德异化** 批评者指出，当社会科学蜕变为政客的免责借口时，决策机制从“基于证据制定政策（Evidence-based policy）”彻底异化为“为了预定政策寻找借口（Policy-based evidence）”，使科学研究成为剥夺民主审议的隐秘意识形态工具。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
+> - **证据支持政策 vs 政策倒逼证据的道德异化** 批评者指出，当社会科学蜕变为政客的免责借口时，决策机制从“基于证据制定政策（[[Evidence-Based Policy-Making|Evidence-based policy]]）”彻底异化为“为了预定政策寻找借口（Policy-based evidence）”，使科学研究成为剥夺民主审议的隐秘意识形态工具。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
 
 > [!warning] 适用局限
 > 该概念专用于揭示研究成果被行政治理权力工具化、象征化动用的权力机制，不得将其泛化为一切量化统计与实证研究必然具备政治恶意；实证方法本身的严谨性与其被官僚机构如何利用属于两个不同的分析范畴。
@@ -234,7 +235,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史：19 世纪改革者以跨国数据作为立法的合法化理由，战后国际组织赞助[[Positivism|实证主义]]，并借 Carnoy（1983）揭示其意识形态借口性质。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从学术性的文化理解异化为新自由主义国家机器追求治理效率与正当性的附庸工具。

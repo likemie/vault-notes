@@ -25,12 +25,12 @@ related_concepts:
   - "[[Technology Deficit of Education]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
-  - "[[Structural Coupling]]"
   - "[[Paradigm]]"
   - "[[Blind Spot in Observation]]"
   - "[[Epistemology]]"
   - "[[Objectivism]]"
   - "[[Commensuration]]"
+  - "[[Structural Coupling]]"
   - "[[Visible Learning]]"
   - "[[Policy Brokerage]]"
   - "[[Causality]]"
@@ -50,7 +50,6 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -60,6 +59,7 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Jurgen Schriewer]]"
   - "[[John Hattie]]"
+  - "[[Steen Nepper Larsen]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Niklas Luhmann
@@ -79,7 +79,7 @@ updated: 2026-10-18
 > [!person-profile] 人物档案
 > - **身份位置** 德国社会学家，比勒费尔德大学社会学终身教授，[[Luhmann's Systems Theory\|社会系统理论]]与[[Radical Constructivism\|激进建构主义]]理论家，20 世纪后半叶最具原创性与体系性的宏大社会理论大师之一。
 > - **核心角色** 在现代社会学、教育哲学、比较教育学与政策社会学中，为解构社会功能系统的自指性运作（Self-referential operations）、教学与学习的根本[[Incommensurability|不可通约性]]、[[Technology Deficit of Education|教育的技术赤字]]以及跨国[[Policy Borrowing|政策借用]]中的[[Externalization|外化]]合法化机制提供了深厚而严密的理论基础。
-> - **代表贡献** 创立卢曼社会系统理论、提出 [[Autopoiesis|自创生]] 沟通系统与 [[Structural Coupling|结构互动]]、阐发 观察的盲点、提出“教育的技术赤字”（Technologiedefizit）与“外化命题与准外部参照点”（Externalisation thesis）。
+> - **代表贡献** 创立卢曼社会系统理论、提出 [[Autopoiesis|自创生]] 沟通系统与 结构互动、阐发 观察的盲点、提出“教育的技术赤字”（Technologiedefizit）与“外化命题与准外部参照点”（Externalisation thesis）。
 
 > [!citation-card]- 人物定位的关键来源
 > 教育系统天然容易陷入高度的不确定性，因为它宣称是在为未来培养受教育者。如果我们将技术界定为能够将确定输入转化为预期产出的装置，那么教育的技术赤字便显露无疑：‘接受教育能够增强应对未来的能力’这一核心因果链条唯有在遥远的未来才能得到评估，从而在当下逃逸了实证检验。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -120,12 +120,12 @@ updated: 2026-10-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 现代社会是由多个在操作上封闭（Operatively closed）、认知上开放的 **[[Autopoiesis|自创生]]（Autopoietic）功能子系统**构成的分化网络。系统运作完全由持续再生产的**沟通事件（Communications）** 所维系，区别于将社会视作个体行动者总和的传统实体观。个体心理系统与社会沟通系统互为外部环境，二者不共享代码，无法透明观察或直接因果决定，仅能通过 **[[Structural Coupling|结构互动]]（Structural coupling）** 相互激发。教育系统由于承担着为不可预测的未来塑造主体的虚幻使命，其技术因果链条必然面临固有的**技术赤字**；为了缓解当下行动的不确定性并维持自指性再生产，系统必然通过 **[[Externalization|外化]]机制**在内部投射出“准外部参照点”作为行动的合法化调节观念。
+> 现代社会是由多个在操作上封闭（Operatively closed）、认知上开放的 **[[Autopoiesis|自创生]]（Autopoietic）功能子系统**构成的分化网络。系统运作完全由持续再生产的**沟通事件（Communications）** 所维系，区别于将社会视作个体行动者总和的传统实体观。个体心理系统与社会沟通系统互为外部环境，二者不共享代码，无法透明观察或直接因果决定，仅能通过 **结构互动（[[Structural Coupling|Structural coupling]]）** 相互激发。教育系统由于承担着为不可预测的未来塑造主体的虚幻使命，其技术因果链条必然面临固有的**技术赤字**；为了缓解当下行动的不确定性并维持自指性再生产，系统必然通过 **[[Externalization|外化]]机制**在内部投射出“准外部参照点”作为行动的合法化调节观念。
 
 > [!citation-card] 观察的盲点与二阶观察
 > 观察者在观察时无法看见自身的盲点（Der Beobachter kann sich selbst beim Beobachten nicht sehen）。任何观察的成立，都必须依赖于一套事先确立的“区分”（Distinction）；看到某物的条件，正是建立在将其他事物划入看不见的背景之中。科学研究与评价体系若缺乏对自身区分工具的反思，便会陷入无批判的[[Objectivism\|客观主义]]幻象。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 10)]]
 >
-> *“Der Beobachter kann sich selbst beim Beobachten nicht sehen” (Luhmann, 1997, p. 69). Every observation is based on a blind spot: the condition of seeing something is that you establish a distinction between what is seen and what is not seen.*
+> *“Der Beobachter kann sich selbst beim Beobachten nicht sehen” (Luhmann, 1997, p. 69). Every observation is based on a [[Blind Spot in Observation|blind spot]]: the condition of seeing something is that you establish a distinction between what is seen and what is not seen.*
 
 > [!citation-card] [[Technology Deficit of Education\|教育的技术赤字]]与不确定性管理
 > 教育系统天然容易陷入高度的不确定性，因为它宣称在为未来做准备。如果将技术理解为将输入可靠转化为预期产出的装置，那么教育的技术赤字便显露无疑。教育因果链条逃逸了当下的实证检验，迫使[[Policy Brokerage\|政策中介]]必须把未来描绘为当下不稳定状态的逻辑延伸，从而兜售‘切实可行’的实证研究证据与行动处方，以抚平社会系统的决策焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -151,7 +151,7 @@ updated: 2026-10-18
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数纯属社会沟通系统的代码产物，与学生内心深处的主观心理体验属于不同操作范畴，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
 > - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可[[Commensuration\|通约]]论，系统解构[[John Hattie\|约翰·哈蒂]]（John Hattie）的[[Visible Learning\|可见的学习]][[Paradigm\|范式]]，揭示实证主义[[Evidence-Based Education\|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education\|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
 
@@ -164,7 +164,7 @@ updated: 2026-10-18
 > - **世纪论敌** [[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas） — [[Critical Theory|批判理论]]法兰克福学派第二代领袖；哈贝马斯坚持规范性的主体间沟通理性与生活世界拯救，卢曼则坚持反规范、功能分化与操作封闭的纯系统观察，二者展开了战后社会学界最宏大的[[Paradigm|范式]]论战。
 > - **教育学范式继承者** [[Jurgen Schriewer|Jürgen Schriewer]]（于尔根·施瑞尔） — 国际比较教育学系统论学派奠基人，将卢曼的[[Externalization|外化]]命题与自指性系统论[[Creativity|创造性]]运用于全球教育[[Policy Borrowing|政策借用]]研究。
 > - **理论对话与批评对象** [[John Hattie|约翰·哈蒂]]（John Hattie） — [[Evidence-Based Education|循证教育]]与[[Meta-analysis|元分析]]可见学习倡导者；哈蒂追求[[Technical Rationality|技术理性]]的可见性范式与因果控制论，成为卢曼理论后继学者（如 Larsen, 2019）深度批判与反思的关键典型。
-> - **同时代与后继应用学者** [[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen） — 动用卢曼盲点理论与系统不可通约论批判实证主义可见学习范式。
+> - **同时代与后继应用学者** [[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen） — 动用卢曼盲点理论与系统不可[[Commensuration|通约]]论批判[[Positivism|实证主义]]可见学习范式。
 
 ---
 

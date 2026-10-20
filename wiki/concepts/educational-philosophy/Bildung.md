@@ -7,7 +7,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 71
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -24,13 +24,13 @@ related_concepts:
   - "[[Humanistic Episteme]]"
   - "[[Critical Thinking]]"
   - "[[Performance Indicators]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Learnification]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Culture Générale]]"
   - "[[Liberal Education]]"
   - "[[Faculty Psychology]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Academic Freedom]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
   - "[[Critical Pedagogy]]"
@@ -70,6 +71,7 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[Ewald Terhart]]"
   - "[[Dietrich Benner]]"
+  - "[[John Hattie]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Matthew Arnold]]"
@@ -80,7 +82,8 @@ related_persons:
   - "[[David Held]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Niklas Luhmann]]"
-related_facts: []
+related_facts:
+  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -90,15 +93,15 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cowen_2023_CE]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Bildung
@@ -127,7 +130,7 @@ updated: 2026-10-19
 > [!citation-card] 斯蒂恩·内佩尔·拉森论上帝形象的神学渊源与陶冶之镜的去中心化
 > 《圣经》称人是依照上帝的形象（德语：Bild）受造的（《创世记》1:26），因此教化（[[Bildung]]）概念拥有悠久且充满争议的神学根源。但在当今的世俗世界中，至关重要的是要学会在陶冶之镜（mirror of formation）中将自己视为战略行动者之外的存在。如果你在镜子中只能看到自己的倒影，而看不到任何外部事物，你反而会在停滞不前中阻碍自身的自我生成过程。短视与工具主义的自我中心可能扼杀学生通向未知世界的通道。因此，作为教师，必须尽最大努力在周一至周五、周复一周、年复一年地培育这种去中心化的艺术。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 9)]]
 >
-> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological roots, but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
+> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological [[ROOTS|roots]], but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
 
 > [!citation-card] [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与[[Robert Ulich|罗伯特·乌利希]]论广义文化教化与以人为本的人文底线
 > 历史比较学派的大师们不仅从狭隘的学校教育（schooling）视域审视教育，更从广义的文化教化（paideia/culture）层面理解教育；他们将比较教育视为一门人文主义知识体系（humanistic episteme），其根本关切应当始终锁定在人（anthropos）身上。它必须充盈着人文主义哲学情怀，深切关照人类所面临的宏大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
@@ -136,7 +139,7 @@ updated: 2026-10-19
 
 > [!boundary]- 概念边界
 > - 不等于 **狭隘技术性技能习得与职业训练** 职业培训追求特定岗位技能的达标与生产力输出，而教化关注人性的全面展开与独立自主判断力。
-> - 不等于 **外在社会化[[Disciplina and Doctrina\|规训]]（*Erziehung*）** 普通社会化侧重使个体顺从既有社会规范与秩序再生产，而教化包含对既有规范的主体反思与合法抗阻。
+> - 不等于 **外在社会化规训（*Erziehung*）** 普通社会化侧重使个体顺从既有社会规范与秩序再生产，而教化包含对既有规范的主体反思与合法抗阻。
 > - 不等于 **微观学校教学与文凭加工（*Schooling*）** 学校教育多受制于制度考核与人力资本流水线，而教化与 *Paideia* 涵盖人一生的精神成熟与文明参与。
 
 ---
@@ -221,7 +224,7 @@ updated: 2026-10-19
 ### 命题二　教化实践通过维护相对独立性以抵抗外部社会规训与数字化算法预测
 
 > [!concept-lens] 制度环境与技术抗阻维度
-> 该命题探讨教化在外部社会权力、政治[[Disciplina and Doctrina\|规训]]与新兴数字化算法预测环境中的生存机制，强调维护教育的相对独立性。
+> 该命题探讨教化在外部社会权力、政治规训与新兴数字化算法预测环境中的生存机制，强调维护教育的相对独立性。
 
 > [!claim] Thompson, M. et al.
 > **抵御[[Learning Analytics\|学习分析]]与算法对开放未来的系统性压缩** 在高等教育数字化治理试图通过学习分析、在线自我评估（[[Online Self-Assessment\|OSA]]）与大数据相关性预先优化学生未来的背景下，教化要求维护不受数据算法预测限制的自我探索空间。将学生界定为受数据预测控制的受体，实质上压缩了未知的可能性，而教化恰恰要求对未知开放。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 227)]]
@@ -233,7 +236,7 @@ updated: 2026-10-19
 > **三维关系结构对数字化算法治理的批判** 高等教育数字化转型往往将知识降维为模块化技能包，割裂了个体与自身、他者及世界的有机连接；教化的三维关系框架为揭示数字化技术如何侵蚀师生深度对话与公共精神提供了核心批判依据。[[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, p. 246)]]
 
 > [!claim] Knudsen, H.
-> **北欧民主教养传统对英美证据主义特许规训的本土抵抗** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）指出，当《[[Visible Learning|可见的学习]]》商业项目试图通过标准化脚本与逐字技术控制向北欧扩散时，在丹麦斯坎讷堡自治市（Skanderborg）等地方学校遭遇广泛抵制与退出风波。丹麦教育根植于格隆维（Grundtvig）倡导的民主全人教化传统，坚信师生主体间的平等对话、全人自我生成与专业自治；北欧语言中缺乏区分“教学”与“学习”的独立词汇，对单向灌输式的技术规程产生天然排斥。面对外部特许机构排斥教师个人叙事与课堂经验的流水线规训，丹麦学界与实践者依托教化传统筑牢文化防线，促使哈蒂承认将专著包装为“圣杯”与“最大循证研究”纯属出版商商业营销，并在话语层面放弃“循证”标签、退守至强调实质成效的“知晓你的影响”，暴露出英美证据主义效率模型与欧陆教化传统的深层制度冲突。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–256)]]
+> **北欧民主教养传统对英美证据主义特许规训的本土抵抗** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）指出，当《[[Visible Learning|可见的学习]]》商业项目试图通过标准化脚本与逐字技术控制向北欧扩散时，在丹麦斯坎讷堡自治市（Skanderborg）等地方学校遭遇广泛抵制与退出风波。丹麦教育根植于格隆维（Grundtvig）倡导的民主全人教化传统，坚信师生主体间的平等对话、全人自我生成与专业自治；北欧语言中缺乏区分“教学”与“学习”的独立词汇，对单向灌输式的技术规程产生天然排斥。面对外部特许机构排斥教师个人叙事与课堂经验的流水线规训，丹麦学界与实践者依托教化传统筑牢文化防线，促使[[John Hattie|哈蒂]]承认将专著包装为“圣杯”与“最大循证研究”纯属出版商商业营销，并在[[Discourse|话语]]层面放弃“循证”标签、退守至强调实质成效的“知晓你的影响”，暴露出英美证据主义效率模型与欧陆教化传统的深层制度冲突。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–256)]]
 
 ---
 
@@ -336,7 +339,7 @@ updated: 2026-10-19
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 探讨[[Georg Wilhelm Friedrich Hegel|黑格尔]]教化哲学在 [[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]（TOK）课程中的主体性辩证应用与局限。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 运用三维关系结构批判高等教育数字化治理中的算法控制与技能碎片化。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化规训。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从[[Didaktik|欧陆教学论]]与教化传统批判《[[Visible Learning|可见的学习]]》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 考察《可见的学习》商业项目在北欧的落地冲突，揭示丹麦格隆维全人教化与民主自治传统对特许专营与逐字脚本规训的本土抵抗。
 

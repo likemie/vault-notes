@@ -6,7 +6,7 @@ summary: "美籍韩裔机械工程学家与高教管理领袖，麻省理工学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,8 +32,7 @@ related_facts:
   - "[[Engineering Research Centers]]"
 related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-06

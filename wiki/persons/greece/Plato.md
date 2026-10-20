@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 45
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -52,8 +52,7 @@ related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Theory of Mind]]"
   - "[[Critical Pluralism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Socrates]]"

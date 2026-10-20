@@ -67,6 +67,7 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[School Autonomy]]"
   - "[[Discursive Closure]]"
+  - "[[Discursive Field]]"
   - "[[Washington Consensus]]"
   - "[[Normal School]]"
   - "[[Evidence-Informed Practice]]"
@@ -84,7 +85,6 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -448,7 +448,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > - **边界** 区别于微观田野中行使具体物理场所准入裁量权的个人守门人，亦区别于遵循客观法律规章的科层办事员；这是一个跨越机构界限、具有结构性话语封闭与议程垄断效应的复合精英阶层。
 
 > [!citation-card] 身份重叠、把关人阶层与[[Discursive Closure|话语空间闭合]]
-> 同一批个体同时占据这三个不同位置（国际组织、国家与本土学术空间），其结果是催生了一个把关人阶层（Class of Gatekeepers），并在三个位置中同时封闭了话语空间。这个把关人阶层控制着教育系统与全球学术空间的关系。由于他们同时控制着本土学术空间，他们便控制了知识生产，并进而控制了教育系统与“可思/不可思”之物的关系。如果国际组织通过全球教育话语封闭了国家和本土学术空间的话语空间，替代性的教育思考方式便极难孕育发育。（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 353–354]]）
+> 同一批个体同时占据这三个不同位置（国际组织、国家与本土学术空间），其结果是催生了一个把关人阶层（Class of Gatekeepers），并在三个位置中同时封闭了[[Discursive Field|话语空间]]。这个把关人阶层控制着教育系统与全球学术空间的关系。由于他们同时控制着本土学术空间，他们便控制了知识生产，并进而控制了教育系统与“可思/不可思”之物的关系。如果国际组织通过全球教育话语封闭了国家和本土学术空间的话语空间，替代性的教育思考方式便极难孕育发育。（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 353–354]]）
 >
 > *"The result of having the same individuals occupying these three different positions is that a class of gatekeepers is developed and discursive space is closed in these three positions. This class of gatekeepers controls the relation of the educational system to global academic space. Since these gatekeepers also control local academic space they control the production of knowledge and, consequently the relation of the educational system with the ‘thinkable/unthinkable’. If international agencies through global educational discourse close discursive space in the state and in local academic space it is very difficult for alternative ways of thinking about education to develop."*
 

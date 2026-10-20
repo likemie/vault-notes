@@ -6,7 +6,7 @@ aliases:
 summary: "以国家地缘竞争、产业全面复兴与绝对安全优势为导向，强调快速获取、工程部署与行政审计关键技术能力的新型科技治理形态，标志着国家与科学共同体关系由认知中心向能力中心的结构性转移。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,6 @@ related_methods:
   - "[[External Auditor]]"
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-05

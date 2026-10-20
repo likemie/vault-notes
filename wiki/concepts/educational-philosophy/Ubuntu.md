@@ -33,13 +33,13 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Epistemic Agency]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Epistemic Injustice]]"
   - "[[Human Capital Theory]]"
   - "[[Formative Epistemic Injustice]]"
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
@@ -185,7 +185,7 @@ updated: 2026-10-20
 > > - **Metz（2007）** 构建当代乌班图道德理论，论证和谐关系以尊重个体尊严为不可突破的前提。
 >
 > > [!axis] 跨领域移植的去脉络化风险
-> > 当技术伦理学者将源自非洲乡土社会的哲学原则直接套用于硅谷大模型治理时，易被批评为脱离具体地缘政治与数字资本主义现实的浪漫化想象。
+> > 当技术伦理学者将源自非洲乡土社会的哲学原则直接套用于硅谷大模型治理时，易被批评为脱离具体[[Geopolitics|地缘政治]]与数字资本主义现实的浪漫化想象。
 > >
 > > - **Ferlito and De Proost（2023）** 强调乌班图必须与具体的算法偏见、数据正义及制度问责机制深度缝合，才能避免沦为空洞的伦理修辞。[[Argument_Smith_2026_SPE|(Smith, 2026, p. 10)]]
 

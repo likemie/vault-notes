@@ -9,7 +9,7 @@ aliases:
 summary: "公共规制与历史制度主义中解释奇特跨阵营政治同盟的经典机制；指出于崇高道德信念的规范性支持者与出于自私利益进行违规套利的投机者不可思议地联合捍卫同一项规约，共同抵御系统性制度改革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Insurrectionaries]]"
   - "[[Opportunists]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Institutional Drift]]"
   - "[[Market Failure]]"
   - "[[Theoretical Perspective]]"
@@ -34,7 +33,6 @@ related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
@@ -90,7 +88,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 核心维度与机制特征
-> - **动机相悖而目标偶合（Divergent Motives, Convergent Goals）** 双方的终极追求完全不同：一方追求道德圣洁与社会[[Disciplina and Doctrina|规训]]，另一方追求黑市垄断与逃税溢价；但在“反对解除政府管制、维护既有排他性禁令”这一具体政策目标上达成不可思议的高度一致（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
+> - **动机相悖而目标偶合（Divergent Motives, Convergent Goals）** 双方的终极追求完全不同：一方追求道德圣洁与社会规训，另一方追求黑市垄断与逃税溢价；但在“反对解除政府管制、维护既有排他性禁令”这一具体政策目标上达成不可思议的高度一致（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
 > - **声誉掩护与资源注入的互补共生（Reputational Cover and Resource Injection）** “浸礼会”为充满争议的管制提供了高尚的公共利益外衣，使质疑该政策的人在道义上面临巨大指责；“私酒贩”则通过政治献金与利益交换，为政策的维系提供了至关重要的实操政治动能。
 > - **改革温和派的边缘化困境** 试图通过理性微调、引入合法执照税收或放宽管制的制度改革温和派，会同时遭受浸礼会的“道德腐败”指责与私酒贩暗中策动的政治阻挠，陷入两面受敌的政治死锁。
 > - **长周期[[Institutional Drift|制度漂移]]的温床** 这一同盟天然倾向于“文本一字不改、执行睁一只眼闭一只眼”的妥协状态，为[[Symbionts|共生者]]持续放任制度效能空心化、主导驱动[[Institutional Drift|制度漂移]]创造了绝佳政治掩护。

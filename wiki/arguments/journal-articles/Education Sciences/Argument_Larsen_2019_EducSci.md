@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -36,20 +36,21 @@ related_concepts:
   - "[[Neuroplasticity]]"
   - "[[Incommensurability]]"
   - "[[Bildung]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Ontology]]"
   - "[[Discourse]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Lifelong Learning]]"
   - "[[Mind Mapping]]"
   - "[[Metacognition]]"
   - "[[Operationalization]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Neuromyth]]"
   - "[[Pedagogical Subject]]"
   - "[[Reform Pedagogy]]"
   - "[[Competitiveness]]"
-  - "[[Lifelong Learning]]"
+  - "[[Developmentalism]]"
   - "[[Learnification]]"
   - "[[Participatory Sense-Making]]"
   - "[[Incarnation-Extension Dialectics]]"
@@ -84,6 +85,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Danish Public School Reform]]"
   - "[[OECD]]"
+  - "[[ROOTS]]"
 related_arguments: []
 sources:
   - "[[sources/Larsen_2019_EducSci|Larsen_2019_EducSci]]"
@@ -105,7 +107,7 @@ updated: 2026-10-20
 > 可见学习范式将动态复杂的生命成长降维为指标化、分数化与[[Effect Size|效应量]]化的可见快照，在方法论上建立在将[[Epistemology|认识论]]与存在论相混淆的[[Category Mistake|范畴错误]]之上；脑[[Neuroplasticity|神经可塑性]]的天文级复杂性、师生主体间视角的[[Incommensurability|不可通约性]]以及资本主义对学习概念的工具化吸纳，共同决定了学习具有不可还原的存在性与隐匿性；盲视构成了任何观察系统内在固有的盲点，超越了测量技术暂时缺陷的范畴，教育的根本意旨在于超越狭隘的可见指标，在德意志教化传统（[[Bildung]]）与具身化-延展辩证法中培育自主反思的文化主体。（pp. 1–3, pp. 9–10）
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）确立的可见学习范式、丹麦哥本哈根中小学现场的标语化实践、2014 年丹麦基础教育改革近三千项学习目标[[Disciplina and Doctrina|规训]]，以及国际组织所主导的循证绩效评估体制。（pp. 1–3）
+> - **对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）确立的可见学习范式、丹麦哥本哈根中小学现场的标语化实践、2014 年丹麦基础教育改革近三千项学习目标规训，以及国际组织所主导的循证绩效评估体制。（pp. 1–3）
 > - **张力** 狭隘评价[[Positivism|实证主义]]追求即时、透明、数字化的视觉中心主义，与[[Phenomenology|现象学]]存在性时间、脑神经具身复杂性、主体精神自由及规范性教化传统之间的深层冲突。（pp. 3–9）
 > - **贡献** 构建起融合[[Niklas Luhmann|卢曼]]社会系统论盲点概念、[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）生态身体现象学、马克思商品二重性分析及德意志[[Geisteswissenschaften|精神科学]]教化传统的系统批判框架，确立了盲视作为教育观看必然构成的认识论反思公理。（pp. 4–10）
 
@@ -118,12 +120,12 @@ updated: 2026-10-20
 > |---|---|
 > | **卢曼二阶观察与盲点学说**<br>[[Luhmann's Systems Theory]] | 引入观察者在观察时无法看见自身的盲点（blinder Fleck）公理，揭示可见学习[[Paradigm\|范式]]在自诩客观全视时陷入先验的[[Epistemology\|认识论]]盲视。（pp. 4–5, p. 10） |
 > | **德意志教化与精神科学传统**<br>[[Bildung]] / [[Geisteswissenschaften]] | 承继洪堡、赫尔德、[[Immanuel Kant\|康德]]、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]、施莱格尔、[[Friedrich Nietzsche\|尼采]]、伽达默尔效果历史与[[Critical Theory\|批判理论]]脉络，确立教化作为自足、自主且抵抗被工具化的终极目的。（pp. 8–10） |
-> | **生态身体现象学与具身认知**<br>[[Phenomenology]] / [[Ecology of the Brain]] | 汲取[[Thomas Fuchs|托马斯·福克斯]]（Thomas Fuchs）将[[Ecology of the Brain\|大脑视为关系器官]]（Beziehungsorgan）与无中心指挥管弦乐队的生态学生物学构想，瓦解神经还原论公分母迷思。（pp. 4–6, p. 10） |
+> | **生态身体现象学与具身认知**<br>[[Phenomenology]] / [[Ecology of the Brain]] | 汲取[[Thomas Fuchs\|托马斯·福克斯]]（Thomas Fuchs）将[[Ecology of the Brain\|大脑视为关系器官]]（Beziehungsorgan）与无中心指挥管弦乐队的生态学生物学构想，瓦解神经还原论公分母迷思。（pp. 4–6, p. 10） |
 > | **政治经济学与认知资本主义**<br>[[Critical Theory]] / [[Cognitive Capitalism]] | 调动卡尔·马克思（Karl Marx）商品二重性分析与扬·穆利耶·布唐（Yann Moulier Boutang）[[Cognitive Capitalism\|认知资本主义理论]]，剖析学习从反抗性词汇异化为劳动力交换价值润滑剂的历程。（pp. 7–9） |
-> | **文化诠释学与全视凝视谱系**<br>文化批判哲学 | 借助[[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）对奥古斯丁全知全视上帝的世俗化剖析，揭示现代测评、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）与算法治理作为视觉监控技术的深层神学渊源。（p. 7） |
+> | **文化诠释学与全视凝视谱系**<br>文化批判哲学 | 借助[[Peter Sloterdijk\|彼得·斯洛特戴克]]（Peter Sloterdijk）对奥古斯丁全知全视上帝的世俗化剖析，揭示现代测评、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）与算法治理作为视觉监控技术的深层神学渊源。（p. 7） |
 
 > [!warrant] 理论如何支撑论证
-> 科学哲学与欧陆现象学充当解构实证评价神话的核心支点。通过区分经验探究的[[Epistemology|认识论]]条件与人类存在的[[Ontology|本体论]]根基，指认可见学习范式误将研究者所构造的有限外在指标等同于学习者丰富的生活世界；进一步调动[[Niklas Luhmann|卢曼]]的系统分化理论，阐明心理系统与社会沟通系统因各自遵循独立理性而无法实现透明透视；最终依托身体现象学中的具身化-延展辩证法，将学习重新锚定在肉身化存在与向生活世界意义敞开的双向运动之中，完成了对技术官僚化学习[[Disciplina and Doctrina|规训]]的超越。（pp. 3–10）
+> 科学哲学与欧陆现象学充当解构实证评价神话的核心支点。通过区分经验探究的[[Epistemology|认识论]]条件与人类存在的[[Ontology|本体论]]根基，指认可见学习范式误将研究者所构造的有限外在指标等同于学习者丰富的生活世界；进一步调动[[Niklas Luhmann|卢曼]]的系统分化理论，阐明心理系统与社会沟通系统因各自遵循独立理性而无法实现透明透视；最终依托身体现象学中的具身化-延展辩证法，将学习重新锚定在肉身化存在与向生活世界意义敞开的双向运动之中，完成了对技术官僚化学习规训的超越。（pp. 3–10）
 
 ---
 
@@ -140,9 +142,9 @@ updated: 2026-10-20
 > [!sample-panel] 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **实地田野与政策样本** | 丹麦哥本哈根北部 Gentofte 的公立基础学校 Maglegård 学校外墙巨大标语；[[Danish Public School Reform|2014 年丹麦基础教育改革方案]]（包含近 3,000 项国家法定细化学习目标）。（pp. 1–2） |
+> | **实地田野与政策样本** | 丹麦哥本哈根北部 Gentofte 的公立基础学校 Maglegård 学校外墙巨大标语；[[Danish Public School Reform\|2014 年丹麦基础教育改革方案]]（包含近 3,000 项国家法定细化学习目标）。（pp. 1–2） |
 > | **可见学习经典文本** | 约翰·哈蒂 2009 年奠基著作《[[Visible Learning\|可见的学习]]》、哈蒂与耶茨 2014 年《可见的学习与学习科学》、哈蒂与齐勒 2017 年《可见学习的十个心智框架》、哈蒂 2012 年《教师版可见学习》、拉森与哈蒂 2019 年未发表直接学术对话录。（pp. 2–7） |
-> | **跨[[Discipline-Based Theory\|学科理论]]语料** | [[Niklas Luhmann\|尼克拉斯·卢曼]]《社会的社会》与《社会的教育系统》；[[Thomas Fuchs|托马斯·福克斯]]《[[Ecology of the Brain\|大脑生态学]]：具身心智的现象学与生物学》；奥古斯丁《忏悔录》第三卷与[[Peter Sloterdijk|斯洛特戴克]]《后上帝时代》；马克思《资本论》第一卷；2018 年 10 月哥本哈根[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国际会议[[Andreas Schleicher\|施莱歇尔]]主旨报告。（pp. 3–10） |
+> | **跨[[Discipline-Based Theory\|学科理论]]语料** | [[Niklas Luhmann\|尼克拉斯·卢曼]]《社会的社会》与《社会的教育系统》；[[Thomas Fuchs\|托马斯·福克斯]]《[[Ecology of the Brain\|大脑生态学]]：具身心智的现象学与生物学》；奥古斯丁《忏悔录》第三卷与[[Peter Sloterdijk\|斯洛特戴克]]《后上帝时代》；马克思《资本论》第一卷；2018 年 10 月哥本哈根[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国际会议[[Andreas Schleicher\|施莱歇尔]]主旨报告。（pp. 3–10） |
 
 ---
 
@@ -171,12 +173,12 @@ updated: 2026-10-20
 
 > [!policy-context] 丹麦实地田野与政策景观：可见性意识形态的制度化
 > - **Maglegård 学校的视觉标语** 位于哥本哈根北部 Gentofte 的公立基础学校 Maglegård 学校，黄色外墙上悬挂着醒目的白底黑字横幅：“我们的学习是可见的”（Vores læring er synlig）。该校全面推行可见学习项目，管理层将向家长与政客展示量化成果视作首要任务，折射出学习已演变为学校宣传与公关的标签。（pp. 1–2）
-> - **[[Danish Public School Reform|2014 年丹麦基础教育改革法案]]** 2014 年丹麦全国教改方案在各学科课程标准中生硬塞入了近 3,000 项细碎的“学习目标”（læringsmål）。在十年义务教育中，学生被要求逐一攻克这些预设指标并接受高频考核，使行政权力对儿童学习过程的干预达到前所未有的程度。（p. 2）
+> - **2014 年丹麦基础教育改革法案** 2014 年丹麦全国教改方案在各学科课程标准中生硬塞入了近 3,000 项细碎的“学习目标”（læringsmål）。在十年义务教育中，学生被要求逐一攻克这些预设指标并接受高频考核，使行政权力对儿童学习过程的干预达到前所未有的程度。（p. 2）
 > - **[[John Hattie|哈蒂]]理论的可见性悖论** 哈蒂致力于将不可见之物视觉化，却遮蔽了显而易见的事实：学校深嵌于国家政治制度之中；课堂互动远比单一的学习流程复杂；学生具有独立的思考与体验，包括白日梦、嬉戏、倦怠乃至对既定教学的消极抵触等日常表现。（p. 2）
 
 这种政策预设了学习能够被即时、透明地观察，然而从生命历程来看，课堂当下的测验切片根本无法反映真正的学习成果。
 
-> [!tension-table] 短期即时测验与终身学习体验的对比
+> [!tension-table] 短期即时测验与[[Lifelong Learning|终身学习]]体验的对比
 > | 维度 | 评价[[Positivism\|实证主义]]的即时测度观（Hattie） | [[Phenomenology\|现象学]]存在论的生命时间观（Illeris / Larsen） |
 > |---|---|---|
 > | **时间结构** | 机械时钟时间，追求教学活动结束时的即时达标与效应量记录。（pp. 2–3） | 质性生命时间，真正的理解与顿悟往往在数年甚至数十年后才显现。（p. 3） |
@@ -198,7 +200,7 @@ updated: 2026-10-20
 深层的理解是一个面向未来的持续发展历程，若将未来的可能性封闭在眼前的量化测验中，会严重扭曲学习的真实本质。
 
 > [!implication] 理解的时间延迟性对即时指标的挑战
-> - **时间延迟与终身潜伏** 深刻的理解很少能立刻兑现；课堂上看似枯燥的理论知识，其真正的深远价值往往在多年后结合人生阅历才被真正领会。（p. 3）
+> - **时间延迟与终身潜伏** 深刻的理解很少能立刻兑现；课堂上看似枯燥的[[Theoretical Knowledge|理论知识]]，其真正的深远价值往往在多年后结合人生阅历才被真正领会。（p. 3）
 > - **持久改变超越即时分数** 按照伊利里斯关于“学习是能力的持久改变”的界定，即时测验与效应量只捕捉了短暂的表层切片，不足以证明个体真正获得了心智成长。（pp. 2–3）
 
 ---
@@ -302,12 +304,12 @@ updated: 2026-10-20
 >   学习（læring）作为外来词进入丹麦教育话语，最初用于抨击官僚威权主义、自上而下的决策与强制社会化模式。学者们重读[[John Dewey|约翰·杜威]]（[[John Dewey]]）与[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]（[[Wolfgang Klafki]]），倡导问题导向、跨学科小组合作与个性化动机的[[Reform Pedagogy|改革教育学]]（Reform Pädagogik），在国家资助实验校中开展民主探索。（p. 8）
 > - **1990 年代：新自由主义与[[Competitiveness|国家竞争力]]的制度化吸纳**
 >   伴随全球化浪潮，学习[[Paradigm|范式]]被写入国家课程大纲与官方自我理解；资本主义逻辑全面吸纳了解放诉求，国际经济学家与政客合流，以[[Lifelong Learning|终身学习]]取代知识传承，将大众教育改造为培养高弹性自反公民的生产线。（pp. 8–9）
-> - **当代现状：难以摆脱的发展主义强制与考核工具**
+> - **当代现状：难以摆脱的[[Developmentalism|发展主义]]强制与考核工具**
 >   学习已不再蕴含任何反叛与批判锋芒，演变为全社会争夺最创新劳动力、最丰厚利润与最理想职位的强制性条件。持续自我发展的强制要求剥夺了个体止步思考的权利，使学习彻底沦为顺应市场竞争的考核工具。（p. 9）
 
 面对教育被[[Learnification|学习化]]（[[Learnification]]）的危机，马克思政治经济学范式有助于剖析学习成果的二重属性。
 
-> [!tension-table] 学习的双重属性：人力资本交换价值 vs 生命成长使用价值
+> [!tension-table] 学习的双重属性：[[Human Capital Theory|人力资本]]交换价值 vs 生命成长使用价值
 > | 维度 | 交换价值 | 使用价值 |
 > |---|---|---|
 > | **社会逻辑** | [[Cognitive Capitalism\|认知资本主义]]与[[Human Capital Theory\|人力资本理论]]，劳动力商品化。（pp. 7–8） | 生命个体的丰富成长、精神解放与人类共同体福祉。（pp. 7–8） |
@@ -324,7 +326,7 @@ updated: 2026-10-20
 > - **抵制平庸的自觉反思** 教化是拒绝被平庸制度化系统愚弄（renunciation to be made stupid）的自觉实践，通过持续的探究演练拉开与粗鄙武断言行的距离。（pp. 8–9）
 > - **陶冶之镜与去中心化艺术** 破除镜中自恋的封闭停滞，如果个体在陶冶之镜（mirror of formation）中只能看到自己作为功利战略行动者的倒影，自我生成就会陷入僵死；教师的核心天职在于周复一周、年复一年引导学生走向镜外广阔的未知世界。（p. 9）
 
-作为替代可见学习的崭新本体论框架，具身化-延展辩证法确立了主体的生成结构。拉森汲取托马斯·福克斯（[[Thomas Fuchs]]）与德耶格尔的[[Participatory Sense-Making|参与式意义建构]]（Participatory Sense-Making）理论，论证课堂教学本质上是师生主体间不可割裂的相互具身交互，超越了外部单向监控的测量范式。（p. 10）
+作为替代可见学习的崭新[[Ontology|本体论]]框架，具身化-延展辩证法确立了主体的生成结构。拉森汲取[[Thomas Fuchs|托马斯·福克斯]]（[[Thomas Fuchs]]）与德耶格尔的[[Participatory Sense-Making|参与式意义建构]]（Participatory Sense-Making）理论，论证课堂教学本质上是师生主体间不可割裂的相互具身交互，超越了外部单向监控的测量范式。（p. 10）
 
 > [!dimension] 具身化与向外延展（[[Incarnation-Extension Dialectics]]）
 > - **身心肉身化维度**
@@ -381,7 +383,7 @@ updated: 2026-10-20
 > - **13T** （突触连接） 人脑内约 860 亿神经元与 13 万亿突触构成的数学方程拥有天文级未知数，彻底粉碎了将学习直接还原为脑扫描指标的幻象。（p. 5）
 > - **20%** （可观察性承认） [[John Hattie|哈蒂]]与齐勒亲口承认课堂仅 20% 可被观察，80% 属于隐秘深层，暴露出可见学习以偏概全的方法论危机。（p. 3）
 > - **≈3000** （学习目标） 2014 年丹麦基础教育改革法案生硬嵌入课程近 3,000 项刚性指标，成为绩效技术治理吞噬教育的代表性经验案例。（p. 2）
-> - **50 yr** （语义演变历程） 丹麦学习概念在半个世纪内完成从反专制改革教育学向新自由主义[[Disciplina and Doctrina|规训]]润滑剂的历史演变。（pp. 8–9）
+> - **50 yr** （语义演变历程） 丹麦学习概念在半个世纪内完成从反专制[[Reform Pedagogy|改革教育学]]向新自由主义规训润滑剂的历史演变。（pp. 8–9）
 
 ---
 
@@ -410,7 +412,7 @@ updated: 2026-10-20
 > [!citation-card] 上帝形象的神学渊源与陶冶之镜的去中心化艺术
 > 《圣经》称人是依照上帝的形象（德语：Bild）受造的（《创世记》1:26），因此教化（[[Bildung]]）概念拥有悠久且充满争议的神学根源。但在当今的世俗世界中，至关重要的是要学会在陶冶之镜（mirror of formation）中将自己视为战略行动者之外的存在。如果你在镜子中只能看到自己的倒影，而看不到任何外部事物，你反而会在停滞不前中阻碍自身的自我生成过程。短视与工具主义的自我中心可能扼杀学生通向未知世界的通道。因此，作为教师，必须尽最大努力在周一至周五、周复一周、年复一年地培育这种去中心化的艺术。（p. 9）
 >
-> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological roots, but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
+> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological [[ROOTS|roots]], but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
 
 > [!citation-card] [[Niklas Luhmann|卢曼]]论[[Blind Spot in Observation|观察盲点]]与可见性意识形态的界限
 > 卢曼在其巨著《社会的社会》中指出，观察者在观察时无法看见自身。因此，一切观察活动无不以盲点为前提。观看的条件，正是建立在看与不看的界分之上。一切自我观察同样受制于盲点，它之所以可能，仅仅因为它无法看见自身的观看。如果可见学习范式的拥护者遗忘了这些审慎而深刻的警醒，他们就是在盲目助推一种无边界超积极可见性意识形态，用极其有限的数据拼凑出一场庞大的眼球中心主义模拟幻象。（p. 10）

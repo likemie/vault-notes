@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Application Engineering]]"
   - "[[Counterpart Funds]]"
   - "[[Research Translation]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Engineering Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
@@ -164,7 +163,7 @@ updated: 2026-10-20
 > > [!axis] 区域平衡政策与学术卓越导向的潜在张力
 > > 传统科学界担忧过度强调地理分布均衡与包容性联盟可能削弱科研竞争的纯粹学术卓越标准。
 > >
-> > - **传统科学共同体** 主张 [[National Science Foundation|NSF]] 应保持好奇心驱动的[[Curiosity-Driven Research|纯基础研究]]独立性。
+> > - **传统科学共同体** 主张 [[National Science Foundation|NSF]] 应保持好奇心驱动的纯基础研究独立性。
 > > - **现代产业战略倡导者（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）** 强调国家安全与经济韧性要求科技创新必须走出少数沿海精英大学，在更广泛的区域实现[[Research Translation|技术转化]]与劳动力技能提升。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 >
 > > [!axis] 国会后续拨款可持续性风险

@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪下半叶兴起的激进教育批判思潮，主张废除制度化学校的垄断地位，倡导以学习网络与生活化非正式社群替代强制性学校规训"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
 - critical-pedagogy
 - curriculum
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Bureaucracy]]"
   - "[[Conscientization]]"
   - "[[Paradigm]]"
@@ -39,8 +38,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Bloom's Taxonomy]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
@@ -61,7 +59,7 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 核心定义
-> **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制异化了学习天性、制造了等级依附并沦为资本主义工厂式生产的[[Disciplina and Doctrina|规训]]工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
+> **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制异化了学习天性、制造了等级依附并沦为资本主义工厂式生产的规训工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对“学校（Schooling）”与“教育/学习（Education / Learning）”的本质解绑，反对将人的心智成长窄化为[[Bureaucracy|科层制]]机构内的文凭追逐。
@@ -93,7 +91,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 核心要素
-> - **反垄断与去机构化（Anti-Institutionalization）** 坚信现代学校是强制[[Disciplina and Doctrina|规训]]与文凭拜物教的生产车间，唯有将教育资源从官僚机构手中解放出来归还社会社群，才能恢复真实的学习自主权。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
+> - **反垄断与去机构化（Anti-Institutionalization）** 坚信现代学校是强制规训与文凭拜物教的生产车间，唯有将教育资源从官僚机构手中解放出来归还社会社群，才能恢复真实的学习自主权。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **自然境脉化学习（Contextual & Natural Learning）** 强调知识最好的发生[[Champ|场域]]是“生活的深处（the thick of life）”，主张从实际生活问题、劳动与社区交往中自然习得技能，而非在封闭教室中被动接受抽象灌输。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 > - **去专业化伙伴关系（Deprofessionalization of Teaching）** 弱化教师专职门槛与学科垄断地位，将教育者重塑为儿童自由发展的陪伴者、环境协调员或顾问，这一逻辑深刻渗透到当代反本质主义教学论中。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
 
@@ -122,7 +120,7 @@ updated: 2026-10-20
 > **学校垄断论** 现代学校构成了现代社会中最具压迫性的制度垄断之一。学校将学习强制定义为“购买学校服务”的消费过程，将文凭转化为社会排斥的合法凭证，导致未受正规学校教育的人被打上劣等标签，彻底扼杀了社会自发的互助学习机能。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
 
 > [!claim] Holt, J.
-> **体制制造失败论** 现代学校教育之所以大规模出现学生厌学与学业挫败，根源不在于学生智识不足，而在于学校的制度设计。现代学校服务于流水线工业需求，致力于培养顺从的“生产者而非思考者”，其人为制造的竞争焦虑与[[Disciplina and Doctrina|规训]]空间彻底破坏了儿童在自然生活情境中的敏锐好奇心。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
+> **体制制造失败论** 现代学校教育之所以大规模出现学生厌学与学业挫败，根源不在于学生智识不足，而在于学校的制度设计。现代学校服务于流水线工业需求，致力于培养顺从的“生产者而非思考者”，其人为制造的竞争焦虑与规训空间彻底破坏了儿童在自然生活情境中的敏锐好奇心。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 
 ---
 

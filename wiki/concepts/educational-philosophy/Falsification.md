@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 63
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Reproducibility Crisis]]"
-  - "[[Social Regime]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Primary and Secondary Documents]]"
   - "[[PICO Framework]]"
+  - "[[Class Size]]"
   - "[[Problem Solving]]"
   - "[[Causality]]"
   - "[[Big Science]]"
@@ -60,8 +60,10 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
+  - "[[In-depth Interview]]"
   - "[[Content Analysis]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Qualitative Interview]]"
 related_instruments:
   - "[[PRISMA]]"
 related_persons:
@@ -240,7 +242,7 @@ updated: 2026-10-20
 > **二阶综合宏观论断的元科学证伪与复现塌陷** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）针对[[John Hattie|约翰·哈蒂]]（John Hattie）全球畅销且深刻影响多国政策的《[[Visible Learning|可见的学习]]》（涵盖 2,111 项[[Meta-analysis|元分析]]）展开了教育学史上首次完全公开、[[Preregistration|预注册]]且针对全量底层文献的穷尽复核与严苛证伪检验。研究发现：哈蒂所宣称的“奠基于全球实证、客观呈现何种教学有效”的宏观实证论断，在经受严格检验时全面崩溃——其底层[[Effect Size|效应量]]仅有 0.66%（14/2,111）在未引入计算或[[Transcription in Qualitative Research|转录]]错误的前提下完全可重复，高达 44%（928 项）的所谓元分析在[[Primary and Secondary Documents|原始文献]]中根本不存在效应量或统计数据，且存在 63 项虚构出版物；更为严重的是，其综合过程完全放弃了[[Systematic Review|系统综述]]与[[PRISMA]]检索的[[PICO Framework|PICO]] 准则（仅 19% 满足干预针对性），将大量与课堂教学无关的非干预[[Correlational Research|相关性研究]]（如抽烟、体重指数、自杀倾向等）混杂池化。这项研究表明，波普尔的证伪精神不仅适用于微观理论假说检验，更是元科学时代清算“假借海量数据证实表象、实则免疫于经验纠错”的宏观伪证据体系的不可或缺的方法学武器。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3, 8–12)]]
 
 > [!claim] Knudsen, H.
-> **哈蒂援引波普尔证伪原则辩护与班级规模反例判准** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）对哈蒂展开的深度访谈揭示，哈蒂明确援引师从波普尔的求学经历，主张其可见学习体系作为依循波普尔可证伪性原则构建的经验科学假说，具有明确的理论导向。哈蒂声称将元分析数据库从 800 余项扩充至 1400 余项旨在主动搜寻能够推翻自身模型的经验反例；同时确立了明确的经验反驳标准：倘若实证证据确证缩减班级规模（Class Size）具有决定性的高效应，其可见学习理论模型便宣告被整体证伪。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
+> **哈蒂援引波普尔证伪原则辩护与[[Class Size|班级规模]]反例判准** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）对哈蒂展开的[[In-depth Interview|深度访谈]]揭示，哈蒂明确援引师从波普尔的求学经历，主张其可见学习体系作为依循波普尔可证伪性原则构建的[[Scientific Method|经验科学]]假说，具有明确的理论导向。哈蒂声称将元分析数据库从 800 余项扩充至 1400 余项旨在主动搜寻能够推翻自身模型的经验反例；同时确立了明确的经验反驳标准：倘若实证证据确证缩减班级规模（Class Size）具有决定性的高效应，其可见学习理论模型便宣告被整体证伪。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
 
 ---
 
@@ -343,4 +345,4 @@ updated: 2026-10-20
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出在[[Metascience|元科学]]时代强制实施[[Gold Standard Science|黄金标准科学]]、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》开展[[Preregistration|预注册]]全样本复核审计，通过严苛经验证伪揭示宏观循证知识库底层仅 0.66% 纯净可重复且 44% 查无实据，展示二阶元科学证伪对教育决策的纠偏力量。
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 质性访谈揭示哈蒂援引波普尔可证伪性原则为其可见学习模型辩护，将持续搜集反例与将缩减班级规模高效益作为理论整体证伪的经验判准。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — [[Qualitative Interview|质性访谈]]揭示[[John Hattie|哈蒂]]援引波普尔可证伪性原则为其可见学习模型辩护，将持续搜集反例与将缩减[[Class Size|班级规模]]高效益作为理论整体证伪的经验判准。

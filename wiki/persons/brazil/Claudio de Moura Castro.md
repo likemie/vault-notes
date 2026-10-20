@@ -9,7 +9,7 @@ summary: "巴西著名教育经济学家、国际比较教育学者与多边发�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 22
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Policy Borrowing]]"
   - "[[Apprenticeship]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Bank]]"
   - "[[Development Education]]"
 related_theories:
@@ -41,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Ideology Critique]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stephen P. Heyneman]]"
@@ -133,7 +131,7 @@ updated: 2026-10-20
 ## 论争与学术对话
 
 > [!tension] 核心论争：外源性依附施加 vs. 本土内生改革的借力
-> - **拉美左翼批判学者的指控** 巴西知名教育学者阿卡西亚·昆泽尔（Acácia Kuenzer, 2000）等激烈抨击联邦教育部针对技术教育实行的普职分流改革，将其定性为[[World Bank|世界银行]]等外源帝国主义金融资本剥夺拉美国家教育自主权、推行新自由主义[[Disciplina and Doctrina|规训]]的阴谋产物。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 462)]]
+> - **拉美左翼批判学者的指控** 巴西知名教育学者阿卡西亚·昆泽尔（Acácia Kuenzer, 2000）等激烈抨击联邦教育部针对技术教育实行的普职分流改革，将其定性为[[World Bank|世界银行]]等外源帝国主义金融资本剥夺拉美国家教育自主权、推行新自由主义规训的阴谋产物。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 462)]]
 > - **卡斯特罗的实证反驳与反讽** 卡斯特罗指出，该指控暴露出批判学者对基本制度事实的惊人无知：首先，该笔贷款来自[[Inter-American Development Bank|泛美开发银行]]而非世界银行（世行从未资助过巴西技术教育）；其次，该项“普职分流”政策构想，恰恰是卡斯特罗本人在入职国际金融机构十年前在巴西本土研究中率先提出的改革建议；在借贷谈判中，这项条件获得了巴西教育部长的全力拥护，因为部长正急需外部信贷契约作为战略筹码，以打破国内优势阶层将公立优质技校作为免费升学跳板的特权垄断。该案例成为反思“跨国规训神话”与“本土政治借力”的经典范本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 462, 467)]]
 
 ---

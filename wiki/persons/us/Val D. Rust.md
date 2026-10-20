@@ -9,7 +9,7 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -45,7 +45,6 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Claude A. Eggertsen]]"
   - "[[Horace Mann]]"

@@ -10,9 +10,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: UK Parliament
 tags:
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Scientific Literacy]]"
   - "[[Reliability]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Scientific Uncertainty]]"
 related_theories: []
 related_methods:
@@ -98,7 +99,7 @@ updated: 2026-10-20
 > - **12%** （仅国家学术院报告） 仅 12% 的议员主动阅读英国皇家学会、英国国家学术院等顶级国家学术机构的科学综合报告。
 > - **5%** （人工智能工具） 仅 5% 议员明确自述在立法中借助 AI 检索科学信息，但鉴于搜索引擎算法已深度整合生成式 AI，实际受 AI 影响的比例被严重低估。
 
-> [!warning] 议会循证决策的结构性风险
+> [!warning] 议会[[Evidence-Based Policy-Making|循证决策]]的结构性风险
 > 调查数据表明，英国议员虽然高度认同科学信息对立法工作的重要性，但在日常决策中严重依赖“具有潜在立场偏见的第三方中介”（如代表特定利益诉求的倡导智库），而极少例行化查阅真正客观、经严格同行评议的独立信源（如 POST 与国家学术院），给公共政策带来了潜在的偏见误导与证据扭曲风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]
 
 ---

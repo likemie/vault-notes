@@ -8,7 +8,7 @@ summary: "美国建国先驱、首任美国财政部长，国家干预主义与�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,8 +23,7 @@ tags:
 related_concepts:
   - "[[National Innovation System]]"
   - "[[Technological Catch-up]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Friedrich List]]"
 related_arguments:

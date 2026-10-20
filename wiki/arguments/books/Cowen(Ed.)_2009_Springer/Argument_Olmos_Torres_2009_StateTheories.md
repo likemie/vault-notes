@@ -21,7 +21,6 @@ tags:
   - paradigm/critical-theory
   - region/latin-america
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
@@ -107,14 +106,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -131,7 +130,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化[[Disciplina and Doctrina|规训]]与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
+> 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化规训与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
 
 > [!claim] 核心主张
 > 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Educational Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
@@ -155,7 +154,7 @@ issuing_organization: ""
 > | **[[Financial-Intellectual Complex\|金融-智识复合体]]** | 剖析[[World Bank\|世界银行]]将巨额贷款与定向[[Categorical Funding\|委托研究]]深度绑定，推行新古典教育经济学霸权与结构调整政策的机制。（pp. 80–81） |
 
 > [!warrant]- 理论如何支撑论证
-> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融[[Disciplina and Doctrina|规训]] ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
+> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融规训 ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
 
 ---
 
@@ -248,7 +247,7 @@ issuing_organization: ""
 > - **政策分析层面：决定何种现象属于制度危机**
 >   技术官僚将财政补贴缩水解释为优化资源配置，将考试通过率界定为办学质量，这种分析视角本身就是国家管理意志的直接投射。
 > - **道德伦理层面：决定培养何种公民**
->   教育是塑造顺从资本[[Disciplina and Doctrina|规训]]的廉价雇工，还是培养具备批判思维、敢于捍卫权利的民主公民，直接展现了制度的阶级偏向。在不平等现实面前保持所谓中立，客观上就是在支持支配秩序。
+>   教育是塑造顺从资本规训的廉价雇工，还是培养具备批判思维、敢于捍卫权利的民主公民，直接展现了制度的阶级偏向。在不平等现实面前保持所谓中立，客观上就是在支持支配秩序。
 
 ---
 

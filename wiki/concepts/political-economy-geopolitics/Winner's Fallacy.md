@@ -8,7 +8,7 @@ aliases:
 summary: "指冷战结束后西方自由民主社会及其科技精英普遍滋生的战略自满与认知盲区；将暂时的地缘胜利误判为历史的终结，将国家安全与繁荣视作无需持续代价与硬实力威慑的默认背景常态，从而在文化与道德层面解构了维持前沿军事与防务技术优势的紧迫性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/ethics-of-technology
 related_concepts:
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
   - "[[Grand Theory]]"
   - "[[Demonstration Effect]]"
   - "[[Technological Republic]]"
@@ -40,7 +41,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Winner's Fallacy
@@ -50,7 +51,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 胜者谬误（Winner's Fallacy，亦称赢家谬误）指冷战结束以来，西方自由民主社会及其科技精英普遍滋生的一种集体战略自满与认知盲区。该思维将20世纪大国博弈的阶段性胜利错误地外推为人类意识形态演进的永久终结（Francis Fukuyama, 1989），将长期的和平红利、社会秩序与物质繁荣视作自然存在的背景常态，而遗忘了安全与繁荣根本上依托于国家持续构建的[[Hard Power|硬实力]]（Hard Power）与技术威慑。这种自满导致社会在文化与伦理层面解构了参与严肃地缘政治博弈的意愿，甚至诱发科技界单方面拒绝为国家防务开发关键软件与军事技术的道德洁癖。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–35)]]
+> 胜者谬误（Winner's Fallacy，亦称赢家谬误）指冷战结束以来，西方自由民主社会及其科技精英普遍滋生的一种集体战略自满与认知盲区。该思维将20世纪大国博弈的阶段性胜利错误地外推为人类意识形态演进的永久终结（Francis Fukuyama, 1989），将长期的和平红利、社会秩序与物质繁荣视作自然存在的背景常态，而遗忘了安全与繁荣根本上依托于国家持续构建的[[Hard Power|硬实力]]（Hard Power）与技术威慑。这种自满导致社会在文化与伦理层面解构了参与严肃[[Geopolitics|地缘政治]]博弈的意愿，甚至诱发科技界单方面拒绝为国家防务开发关键软件与军事技术的道德洁癖。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–35)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示大国在长期未经历高强度军事冲突后，精英阶层如何陷入将和平视作理所当然、从而主动削弱自身战略杠杆的心理与制度惯性。

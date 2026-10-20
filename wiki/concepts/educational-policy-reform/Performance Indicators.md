@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024）；并在经合组织“数字政策进路”与投入产出系统中以等价空间信度悬置教育目的哲学辩论（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 73
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Ambiguity]]"
   - "[[Façade of Rationality]]"
   - "[[Scaffolding]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Social Imaginary]]"
   - "[[Epoché]]"
   - "[[Policy Brokerage]]"
@@ -37,7 +38,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Ontology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[Space of Equivalence]]"
   - "[[Epistemology]]"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[New Public Management]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Technological Convergence]]"
   - "[[Critical Thinking]]"
   - "[[Soft Power]]"
   - "[[Paradigm]]"
@@ -66,7 +65,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -129,7 +127,7 @@ updated: 2026-10-20
 > *Statistical indicators are derived measures, often combining multiple data sources and several 'statistics' that are uniformly developed across nations, repeated over time, and accepted as summarizing the condition of an underlying complex process.*
 
 > [!citation-card] 数字指标作为理性表象脚手架与叙事激发器
-> 面对教育领域固有的歧义性与价值冲突，数字指标比质性叙事更能为循证决策提供‘理性、精确与普适的表象’。政策制定者热衷于指标，是因为数字‘激发了叙事’，使决策者得以在看似客观精确的数字脚手架保护下，从自身的政治利益出发讲述指标意味着什么的故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> 面对教育领域固有的歧义性与价值冲突，数字指标比质性叙事更能为[[Evidence-Based Policy-Making|循证决策]]提供‘理性、精确与普适的表象’。政策制定者热衷于指标，是因为数字‘激发了叙事’，使决策者得以在看似客观精确的数字脚手架保护下，从自身的政治利益出发讲述指标意味着什么的故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 >
 > *Numbers rather than narratives are better positioned to scaffold evidence-informed policymaking with the 'façade of rationality, precision, and universality'. Numbers 'evoke narratives', enabling politicians to tell stories about what indicators mean from their own political perspective.*
 
@@ -204,7 +202,7 @@ updated: 2026-10-20
 > 探讨派生指标如何在数理客观合法性掩护下运转权力规制，重塑组织竞争秩序与资源分配。
 
 > [!claim] [[Argument_Rambla_2022_Springer|Rambla (2022)]]
-> **技术—权力双重属性与结构性选择** 绩效指标是将多元异质数据折算为单一尺度的社会建构工程，具有鲜明的权力规制特征。借鉴勒加莱斯（Patrick Le Galès, 2016）与杰索普（[[Bob Jessop]]）的国家理论，兰布拉指出任何指标的选择、赋权与发布，本质上都是行动者网络中权力博弈的结果；指标通过决定“度量什么和忽视什么”执行结构性选择（[[Selectivity]]），在提供技术参考的同时反向[[Disciplina and Doctrina|规训]]着系统内部的资源流动与竞争格局。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]
+> **技术—权力双重属性与结构性选择** 绩效指标是将多元异质数据折算为单一尺度的社会建构工程，具有鲜明的权力规制特征。借鉴勒加莱斯（Patrick Le Galès, 2016）与杰索普（[[Bob Jessop]]）的国家理论，兰布拉指出任何指标的选择、赋权与发布，本质上都是行动者网络中权力博弈的结果；指标通过决定“度量什么和忽视什么”执行结构性选择（[[Selectivity]]），在提供技术参考的同时反向规训着系统内部的资源流动与竞争格局。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]
 
 ---
 
@@ -245,7 +243,7 @@ updated: 2026-10-20
 > |---|---|---|---|
 > | **命题一：技术—权力双重性** | 指标承载权力博弈并执行结构性选择，反向规训资源流动与组织竞争 | 政策工具社会学、制度分析 | [[Argument_Rambla_2022_Springer\|Rambla (2022)]]；Le Galès (2016) |
 > | **命题二：测量的反身履行性** | 指标从评估工具异化为追求目标，引发系统性应试表演与防御性合规 | 组织行为学、教育问责制批判 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] |
-> | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、循证决策批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、[[Evidence-Based Policy-Making\|循证决策]]批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]；Desrosières (1998) |
 
 ---
@@ -269,7 +267,7 @@ updated: 2026-10-20
 - **指标删除的体制黏性** 一旦某项指标被编制发布，即便 OECD 技术团队因方法论瑕疵希望下架，政策制定者与媒体因形成[[Path Dependence|路径依赖]]也会强烈抵制其删除（[[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 17]]）。
 - **指标体系对区域[[Heterogeneity|异质性]]的抹平与固化** 欧盟区域创新记分牌将所有成员国区域划分为“创新领导者”与“温和创新者”，年复一年的排榜不仅未能缩小差距，反而在[[Discourse|话语]]和资本流动层面自我实现了马太效应（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 174]]）。
 - **地方执行中的差异化转译（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证）** 对 16 个欧盟地区、168 位[[Lifelong Learning|终身学习]]政策专家的实证调研显示：制度基础深厚的德语区与北欧能动地将指标“本土化”为[[Apprenticeship|学徒制]]方案；而在南欧和东欧边缘区，指标因缺乏政策承接能力沦为歧视受助青年的标签工具（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–173]]）。
-- **跨国指标[[Disciplina and Doctrina|规训]]与自主公共动员的绩效反差（[[Education for All|全民教育]] EFA 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、[[Grade Retention|留级]]率、辍学率与识字率）的跨国评估中，绝大多数接受外部结构调整与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成[[UNESCO|教科文组织]]全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
+- **跨国指标规训与自主公共动员的绩效反差（[[Education for All|全民教育]] EFA 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、[[Grade Retention|留级]]率、辍学率与识字率）的跨国评估中，绝大多数接受外部结构调整与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成[[UNESCO|教科文组织]]全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
 
 ---
 
@@ -306,7 +304,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构[[OECD|经合组织]] [[International Indicators of Education Systems|INES]] 项目与《[[Education at a Glance|教育概览]]》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以[[EU|欧盟]]区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
-> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化[[Disciplina and Doctrina|规训]]在提升教育绩效上的实质困境。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化规训在提升教育绩效上的实质困境。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证揭示[[New Zealand National Standards|新西兰国家标准]]与可见学习[[Effect Size|效应量]]指标如何被教育官僚降格为微观考核硬指标，引发基层学校应试表演与数据自证异化。

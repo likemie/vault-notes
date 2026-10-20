@@ -28,7 +28,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Performativity of Measurement]]"
   - "[[Digital Optimum]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Data Behaviorism]]"
   - "[[Construct]]"
@@ -49,6 +48,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Open-Mindedness]]"
   - "[[Determinism]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Educational Technology Industry]]"
   - "[[Transhumanism]]"
 related_theories: []
@@ -86,7 +86,7 @@ updated: 2026-10-20
 > [!concept-lens] 概念透镜
 > - **含义** 包含微观层面的“学习者认知与行为建模（Learner Modeling）”、中观层面的“课程自适应与实时反馈（Adaptive [[Feedback]]）”、以及宏观层面的“机构学业预警与[[Learning Gain\|学习增益]]分析”。
 > - **用途** 帮助教育者突破传统期末单次考试的黑箱，获得动态、持续的过程性评价证据；在教育治理中为学业预警、自适应推荐及国家级教育干预效果评估提供数据基座。
-> - **生产性反思** 学习分析不仅“反映”学习，更通过[[Performativity of Measurement\|测量的生产性]]塑造新的等级秩序与主体性认同；算法设定的“[[Digital Optimum\|数字最优]]”直接[[Disciplina and Doctrina\|规训]]着学生的自我认知与学习策略。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
+> - **生产性反思** 学习分析不仅“反映”学习，更通过[[Performativity of Measurement\|测量的生产性]]塑造新的等级秩序与主体性认同；算法设定的“[[Digital Optimum\|数字最优]]”直接规训着学生的自我认知与学习策略。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
 > - **边界** 区别于纯粹的后台数据统计，学习分析的核心在于服务教学干预与意义理解；若脱离教育学[[Epistemology\|认识论]]指导，单纯的算法关联极易退化为[[Data Behaviorism\|数据行为主义]]与[[Construct\|构念]]代表性不足。
 
 > [!boundary]- 概念边界
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ### 命题三　基于算法预判的先发制人治理将学生主体性重构为对标“数字最优”的自我调节机器
 
-> [!concept-lens] 主体性生产与先发制人[[Disciplina and Doctrina\|规训]]
+> [!concept-lens] 主体性生产与先发制人规训
 > 算法在学生发生实际学业危机前便提前介入，将求助的自主权转化为被动接受算法调制的依附性。
 
 > [!claim] Thompson et al.
@@ -213,6 +213,6 @@ updated: 2026-10-20
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统评述 [[Higher Education Funding Council for England\|HEFCE]]、[[KoKoHs Program\|KoKoHs]]、[[TECO Project\|TECO]] 等大规模[[Learning Gain\|学习增益]]分析项目，指出机考分析技术在测查高阶素养时的[[Construct\|构念]]有效性挑战与政策杠杆。
-> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 批判性考察在线自我评估（[[Online Self-Assessment\|OSA]]）中的学习分析技术，揭示[[Preemptive Governance\|先发制人治理]]、[[Digital Self\|数字自我]]与“有前景学生”的主体性[[Disciplina and Doctrina\|规训]]机制。
+> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 批判性考察在线自我评估（[[Online Self-Assessment\|OSA]]）中的学习分析技术，揭示[[Preemptive Governance\|先发制人治理]]、[[Digital Self\|数字自我]]与“有前景学生”的主体性规训机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Educational Technology Industry\|教育技术产业]]如何将学习分析包装为教师专业发展工具，指出其实证效益不足与[[Transhumanism\|超人类主义]]效率导向。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨算法时代的教化（[[Bildung]]）危机，分析仪表盘色彩象征与[[Gamification\|游戏化]]代币对学生认知的[[Data Behaviorism\|数据行为主义]]驯化。

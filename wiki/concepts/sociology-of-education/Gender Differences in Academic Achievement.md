@@ -41,12 +41,12 @@ related_theories:
   - "[[Growth Mindset]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Inappropriate Baseline Comparisons]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -144,7 +144,7 @@ updated: 2026-10-20
 > [!critique] 方法论反思与评价张力
 > - **评分来源带来的测量偏差** 教师评定成绩中的性别差异普遍显著大于客观标准化测验，提示教师主观评价可能受到女生较高行为顺从度的[[Halo Effect\|光环效应]]影响。
 > - **粗放生理分类对个体[[Heterogeneity\|异质性]]的遮蔽** 将男女学生作为同质群体对比，会掩盖群体内部在动机、心理性别特质与学科兴趣上的巨大异质性。
-> - **二阶汇总对经验现实的反常遮蔽** [[John Hattie\|约翰·哈蒂]]（John Hattie）在《[[Visible Learning\|可见的学习]]》中通过[[Meta-meta-analysis\|二阶元分析]]简单平均得出男孩[[Academic Achievement|学业表现]]优于女孩（$d=0.12$）的判定；皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]）与利桑·里瓦尔（Lysanne Rivard）指出该计算构成了典型的不当基线比较与总体混淆：当代欧美及绝大多数工业化国家的大规模经验数据（如 Legewie & DiPrete, 2012 以及加拿大魁北克官方统计）均证实女孩在阅读能力与各阶段综合学业成绩上普遍稳定领先男孩，男孩仅在部分数学测验子集保有微弱优势；将发表文献总数与现实影响因素总体混为一谈的无加权平均，制造了与社会学现实直接背离的人为假象。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017, p. 242)]]
+> - **二阶汇总对经验现实的反常遮蔽** [[John Hattie\|约翰·哈蒂]]（John Hattie）在《[[Visible Learning\|可见的学习]]》中通过[[Meta-meta-analysis\|二阶元分析]]简单平均得出男孩[[Academic Achievement|学业表现]]优于女孩（$d=0.12$）的判定；皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]）与利桑·里瓦尔（Lysanne Rivard）指出该计算构成了典型的[[Inappropriate Baseline Comparisons|不当基线比较]]与总体混淆：当代欧美及绝大多数工业化国家的大规模经验数据（如 Legewie & DiPrete, 2012 以及加拿大魁北克官方统计）均证实女孩在阅读能力与各阶段综合学业成绩上普遍稳定领先男孩，男孩仅在部分数学测验子集保有微弱优势；将发表文献总数与现实影响因素总体混为一谈的无加权平均，制造了与社会学现实直接背离的人为假象。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017, p. 242)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 提供了十年级科学课堂中女生在长周期成绩、微观任务表现及[[Epistemological Beliefs\|认识论信念]]成熟度（能力可塑性与确定知识）上系统性领先的量化实证，并提出了心理性别角色取向的理论解释。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 基于大规模挪威中小学样本，论证了[[School Norm Adaptation\|学校规范适应]]与动机努力是解释教师评定[[Academic Achievement\|学业成绩]]性别差异的核心中介机制。
 > - [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] — 从数理统计学视角审查《[[Visible Learning|可见的学习]]》，指出将研究文献数量混同于现实影响因素导致男孩学业优势假象，揭示[[Meta-meta-analysis|二阶元分析]]脱离经验事实的方法论缺陷。

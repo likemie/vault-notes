@@ -6,13 +6,14 @@ aliases:
 summary: "Dell Delambre 对当代社会的诊断，指新与旧之间的意义张力在不同领域中加速扩散并高度互联，用于理解现代生活中的持续不稳定与重组。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/global
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
   - "[[Reliability]]"
   - "[[Ganz-Methode]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Tense Society
@@ -38,7 +39,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> Tense Society（张力社会）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中使用的概念，描述当代社会的一个核心特征：所有社会领域都在经历"新"与"旧"之间的指数级加速张力，这些张力彼此高度互联。在张力社会中，"正常"就是张力——张力不再是例外或危机，而是存在的常态。Delambre 警示："如果张力教育不成为一个全球地缘政治项目，我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–112, 121]])。
+> Tense Society（张力社会）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中使用的概念，描述当代社会的一个核心特征：所有社会领域都在经历"新"与"旧"之间的指数级加速张力，这些张力彼此高度互联。在张力社会中，"正常"就是张力——张力不再是例外或危机，而是存在的常态。Delambre 警示："如果张力教育不成为一个全球[[Geopolitics|地缘政治]]项目，我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–112, 121]])。
 >
 > 张力社会的根源在于 "新世界在旧世界内部的诞生"：旧有意义模式尚未消亡，新的意义模式尚未完全形成，两者在所有领域中同时存在并相互拉扯([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.111]])。COVID-19 疫情进一步暴露了这一状态——它"深刻揭示了世界各地社会设计的根本弱点"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.106–107]])。
 >
@@ -51,7 +52,7 @@ updated: 2026-10-16
 > - **全领域覆盖** 张力涵盖经济模式（化石燃料 vs 可再生能源）、劳动力市场（有工人的公司 vs AI 自动化后无工人的公司——这是"资本主义内部的巨大张力"）、信息权威（传统[[Knowledge Production\|知识生产]]权威 vs 社交媒体 influencer——"没有正式可[[Reliability\|信度]]的人可以通过粉丝数成为各领域权威"）、人际关系（面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、陪伴、真实、谎言等基本概念）、发展模式（增长 vs 去增长）等所有社会领域。详见 [[Ganz-Methode#方法所回应的张力域]]([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.115–117]])
 > - **meta 与 verse 的张力** 数字时代特有的张力——在真实世界中生活与在另一种现实（[[Virtual World\|虚拟世界]]）中生活之间的紧张。Delambre 将其表述为"'meta'（现实之上）与'verse'（宇宙／领域）之间的意义张力"，直指 metaverse 时代人类存在的分裂状态([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.119]])
 > - **张力的互联性** 一个领域的张力可以波及整个社区甚至更远。局部决策影响全球语境，全球力量冲击局部社区——张力在局部与全球之间来回传导，有时其后果无法预测([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112, 117]])
-> - **张力承载作为核心能力** 在张力社会中，[[21st Century Skills and Competencies Discourse\|关键能力]]不是解决问题或消解张力，而是 承载张力——学会在张力中生活、决策和创造意义。Delambre 因此呼吁将"张力教育"（tension education）作为全球地缘政治项目，并警告如果没有这种教育，"我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112, 121]])
+> - **张力承载作为核心能力** 在张力社会中，[[21st Century Skills and Competencies Discourse\|关键能力]]不是解决问题或消解张力，而是 承载张力——学会在张力中生活、决策和创造意义。Delambre 因此呼吁将"张力教育"（tension education）作为全球[[Geopolitics|地缘政治]]项目，并警告如果没有这种教育，"我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112, 121]])
 
 ## 理论基础
 

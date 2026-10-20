@@ -7,7 +7,7 @@ summary: "德国教育学者和高等教育研究者，主体化与数字化治�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods:
@@ -42,7 +43,7 @@ related_facts: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-09-11
+updated: 2026-10-20
 ---
 ## 简介
 
@@ -73,6 +74,6 @@ Thompson 的研究关注高等教育治理技术如何通过数字化和数据�
 
 ## 主要贡献
 
-- [[Geopolitics of Knowledge]] — 与 Parreira do Amaral 共同发展了高等教育研究的地缘政治视角
+- [[Geopolitics of Knowledge]] — 与 Parreira do Amaral 共同发展了高等教育研究的[[Geopolitics|地缘政治视角]]
 - 高等教育的数字化主体化 — 揭示了数字技术如何重构学术主体性和学习文化
 - [[Global Education Industry]] — 与 Parreira do Amaral and Steiner-Khamsi 共同编辑该领域的核心著作

@@ -37,21 +37,21 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Cosmopolitanism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Critical Thinking]]"
+  - "[[Bildung]]"
+  - "[[Ontology]]"
+  - "[[Positivism]]"
   - "[[Self-Cultivation]]"
   - "[[Moral Dualism]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Bildung]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Cognitive Constructivism]]"
   - "[[Dependency Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Immanuel Kant
@@ -129,7 +129,7 @@ updated: 2026-10-18
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。
 > - **1784–1803 — 历史哲学、政治[[Cosmopolitanism|世界主义]]与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《世界公民观点下的普遍历史观念》（1784）、《论[[Perpetual Peace\|永久和平]]》（1795）、《论教育学》（1803）。
->   - **关键概念／方法** 启蒙（*[[Enlightenment\|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace\|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina\|规训]]、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
+>   - **关键概念／方法** 启蒙（*[[Enlightenment\|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace\|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、规训、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 >   - **阶段转向** 明确提出历史的发展指向全人类由野蛮冲突走向世界主义法权与永久和平，而教育构成了实现这一历史目的的唯一本体通道。
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-10-18
 康德哲学由[[Epistemology|认识论]]上的心智立法、伦理学上的理性自律以及历史教育学上的全人启蒙三大基石共同奠定：
 
 > [!claim] 核心主张
-> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国[[Cosmopolitanism|世界主义]]法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina\|规训]]进阶至内在道德化自律——方能实现真正的人性展开。
+> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国[[Cosmopolitanism|世界主义]]法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在规训进阶至内在道德化自律——方能实现真正的人性展开。
 
 > [!citation-card] 头顶星空与内心道德法则
 > 有两样东西，人们越是经常、越是持久地对它们进行思考，它们在心中唤起的赞叹与敬畏就越是充溢、与日俱增：这就是我头顶上星空璀璨的穹苍，和我内心深处庄严的道德法则。引自《实践理性批判》（1788）
@@ -163,11 +163,11 @@ updated: 2026-10-18
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
-> - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 将康德置于德意志教化（[[Bildung]]）与存在本体论哲学传统，以此对抗当代实证主义将教育降维为即时可见学习的狭隘化倾向。
+> - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 将康德置于德意志教化（[[Bildung]]）与存在[[Ontology|本体论]]哲学传统，以此对抗当代[[Positivism|实证主义]]将教育降维为即时可见学习的狭隘化倾向。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 84
+argument_related_count: 85
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Research Scope]]"
   - "[[Internal Validity]]"
+  - "[[Reform Pedagogy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Constructivist Paradigm]]"
@@ -255,7 +256,7 @@ updated: 2026-10-20
 
 > [!critique-method] 教育科研知识供给侧的三大病理根源
 > - **理论根基脆弱且充斥外部时髦思潮的机械套用**
->   教育研究的实证转向使其远离了传统的教育哲学与规范教育学基础，却始终未能确立属于本学科的理论大厦。学术界大量借用外部邻近学科（如教育社会学、教育经济学、认知心理学与神经科学）的理论，或者以特定的教学信念与价值系统（如 20 世纪初以儿童为中心的革新教育学 Reformpädagogik、[[John Dewey\|约翰·杜威]]的[[Pragmatic Paradigm\|实用主义]]、[[Paulo Freire\|保罗·弗莱雷]]的[[Critical Pedagogy\|批判教育学]]、乃至[[Constructivist Paradigm\|社会建构主义]]）直接替代实证科学理论。（pp. 204–205）
+>   教育研究的实证转向使其远离了传统的教育哲学与规范教育学基础，却始终未能确立属于本学科的理论大厦。学术界大量借用外部邻近学科（如教育社会学、教育经济学、认知心理学与神经科学）的理论，或者以特定的教学信念与价值系统（如 20 世纪初以儿童为中心的革新教育学 [[Reform Pedagogy|Reformpädagogik]]、[[John Dewey\|约翰·杜威]]的[[Pragmatic Paradigm\|实用主义]]、[[Paulo Freire\|保罗·弗莱雷]]的[[Critical Pedagogy\|批判教育学]]、乃至[[Constructivist Paradigm\|社会建构主义]]）直接替代实证科学理论。（pp. 204–205）
 > - **方法论意识形态缠斗与严峻的复现及内幕偏误**
 >   学术界围绕随机对照试验等研究方法爆发了旷日持久、毫无成效的意识形态对质（Connolly et al., 2018; [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）。复现研究极度匮乏（0.13%），导致大量未经推敲的偶然结论占据主导；与此同时，研究领域充斥着严重的内幕偏误（insider bias），即干预项目的开发者与实施者亲自担任效果评估者（Barshay, 2019），极度缺乏严格独立的第三方评估。（pp. 204–205）
 > - **政治行动主义泛滥与向政策界过度许诺**

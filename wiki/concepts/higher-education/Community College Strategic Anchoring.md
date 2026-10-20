@@ -10,7 +10,7 @@ aliases:
 summary: "指将覆盖大众的高等教育与社区学院网络深度嵌入区域重大先进制造产业集聚区，通过设备共建、定制实训与学分互认构筑国家战略技能基底的发展模式。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:

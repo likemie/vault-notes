@@ -7,29 +7,34 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 81
-method_related_level: 8
-method_related_stars: "💎💎⭐⭐"
+method_related_count: 96
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
 tags:
   - case-study
   - qualitative-research
   - methodology
 related_concepts:
+  - "[[Champ]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Analytic Generalization]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Construct Validity]]"
+  - "[[Chain of Evidence]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Analytic Generalization]]"
   - "[[Reliability]]"
-  - "[[Chain of Evidence]]"
-  - "[[Falsification]]"
-  - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Research Question]]"
+  - "[[Research Purpose]]"
+  - "[[Falsification]]"
   - "[[Causality]]"
+  - "[[Grand Theory]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
   - "[[Megascience Installations]]"
@@ -38,12 +43,12 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
-  - "[[Rich and Thick Description]]"
   - "[[Embedded Network Governance]]"
   - "[[Research Universities]]"
   - "[[Precompetitive Research]]"
   - "[[Steering at a Distance]]"
   - "[[Educational Management Organisation]]"
+  - "[[Knowledge Diplomacy]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
@@ -52,26 +57,31 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Process Tracing]]"
   - "[[Effect Size]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
+  - "[[Non-participant Observation]]"
   - "[[Questionnaire]]"
   - "[[Audit Trail]]"
   - "[[Triangulation]]"
-  - "[[Member Checking]]"
+  - "[[External Auditor]]"
   - "[[Semi-structured Interview]]"
   - "[[Theoretical Sampling]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Participant Observation]]"
-  - "[[Non-participant Observation]]"
+  - "[[Qualitative Interview]]"
   - "[[Documentary Analysis]]"
   - "[[Field Notes]]"
+  - "[[Member Checking]]"
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Expert Interview]]"
   - "[[Comparative Case Study]]"
+  - "[[Purposeful Sampling]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
@@ -94,6 +104,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -101,6 +112,10 @@ related_facts:
   - "[[DARPA]]"
   - "[[CHIPS and Science Act]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[University Alliance of the Silk Road]]"
+  - "[[Asian Universities Alliance]]"
+  - "[[Swedish Schools Inspectorate]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -114,10 +129,10 @@ updated: 2026-10-20
 ## 定义
 
 > [!def] 方法定义
-> 个案研究（Case Study）是一种在真实自然情境中对受时空限定的系统（bounded system）展开全面、深入考察的[[Qualitative Research|质性研究]]设计（Stake, 1995; Yin, 2009, 2014）。案例可以是个体、群体、组织、项目、事件或决策过程。研究者依托多元资料来源，通过过程追踪与机制分析揭示现象本身的复杂性或检验宏观理论问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1, Ch. 9)]]; [[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 6)]]
+> 个案研究（Case Study）是一种在真实自然情境中对受时空限定的系统（bounded system）展开全面、深入考察的[[Qualitative Research|质性研究]]设计（Stake, 1995; Yin, 2009, 2014）。案例可以是个体、群体、组织、项目、事件或决策过程。研究者依托多元资料来源，通过[[Process Tracing|过程追踪]]与机制分析揭示现象本身的复杂性或检验宏观理论问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1, Ch. 9)]]; [[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 6)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 受时空限定的具体案例：个体经历、教育项目、学校场域、制度创新、政策执行事件或跨国组织网络。
+> - **研究对象** 受时空限定的具体案例：个体经历、教育项目、学校[[Champ|场域]]、制度创新、政策执行事件或跨国组织网络。
 > - **问题类型** 适合回答“如何发生”（how）与“为何发生”（why）等机制解释与动态过程问题，探究复杂社会系统中结构与能动性的互动。
 > - **[[Unit of Analysis|分析单位]]** 案例本身或案例内嵌的子分析单位（如组织、部门、群体），而非大样本统计中的离散个体。
 > - **输出形式** 情境叙事、主题分类矩阵、跨案例模式匹配图、因果机制解释链与理论命题深化。
@@ -132,27 +147,27 @@ updated: 2026-10-20
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 追求地方性知识的深入洞察与以小见大。推广逻辑区分为两种取向：殷（Yin, 2009）主张遵循实验复制原则实现“[[Analytic Generalization|分析性概括]]”（将发现提升为理论命题）；斯塔克（Stake, 1995）则提出“[[Naturalistic Generalization|自然主义概括]]”，强调通过提供详实经验深描，由读者依据自身经验完成情境迁移。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
-> - **研究者角色** 深度卷入的实地探究者与对话者，在自然未受控情境下长期驻留，依靠主观专业判断理解行动者体验，并保持[[Reflexivity|反思性]]以校正潜在偏见。
-> - **有效性标准** [[Construct Validity|建构效度]]（多元证据互证与证据链构建）、[[Internal Validity|内部效度]]（建立因果逻辑并排除竞争性解释）、[[External Validity|外部效度]]（分析性推广至理论体系）与[[Reliability|信度]]（研究草案与案例数据库规范化）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch. 14)]]
-> - **不声称回答的问题** 不能直接用于大样本统计总体的概率推论，亦不能替代控制实验进行精确变量因果[[Effect Size|效应量]]测算。
+> - **知识观** 追求地方性知识的深入洞察与以小见大。推广逻辑区分为两种取向：殷（Yin, 2009）主张遵循实验复制原则实现“分析性概括”（将发现提升为理论命题）；斯塔克（Stake, 1995）则提出“[[Naturalistic Generalization|自然主义概括]]”，强调通过提供详实经验[[Rich and Thick Description|深描]]，由读者依据自身经验完成情境迁移。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
+> - **研究者角色** 深度卷入的实地探究者与对话者，在自然未受控情境下长期驻留，依靠主观[[Professional Judgment|专业判断]]理解行动者体验，并保持[[Reflexivity|反思性]]以校正潜在偏见。
+> - **有效性标准** [[Construct Validity|建构效度]]（多元证据互证与[[Chain of Evidence|证据链]]构建）、[[Internal Validity|内部效度]]（建立因果逻辑并排除竞争性解释）、[[External Validity|外部效度]]（[[Analytic Generalization|分析性推广]]至理论体系）与[[Reliability|信度]]（研究草案与案例数据库规范化）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch. 14)]]
+> - **不声称回答的问题** 不能直接用于大样本统计总体的概率推论，亦不能替代控制实验进行精确[[Variable|变量]]因果[[Effect Size|效应量]]测算。
 
 > [!method-stack] 方法层级
 > - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）。
-> - **数据收集** [[Qualitative Interview|深度访谈]]、参与与非参与观察、政策法规与机构档案（包括财务报表、章程公文）、实物与开放式[[Questionnaire|问卷]]。
+> - **数据收集** [[In-depth Interview|深度访谈]]、参与与[[Non-participant Observation|非参与观察]]、政策法规与机构档案（包括财务报表、章程公文）、实物与开放式[[Questionnaire|问卷]]。
 > - **分析方法** 个案内深描、跨案例主题编码、模式匹配、制度与财务[[Audit Trail|审计追踪]]、事件时间序列分析。
-> - **辅助技术** 案例研究数据库、[[Chain of Evidence|证据链]]、多源[[Triangulation|三角验证]]、[[Member Checking|成员检查]]与反思性备忘录。
+> - **辅助技术** 案例研究数据库、[[Chain of Evidence|证据链]]、多源[[Triangulation|三角验证]]、成员检查与反思性备忘录。
 
 ---
 
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **明确研究问题与理论命题** 界定探究“如何”（how）与“为何”（why）的核心问题，形成初步理论假设或解释框架（Yin, 2009, p. 27）。
+> 1. **明确[[Research Question|研究问题]]与理论命题** 界定探究“如何”（how）与“为何”（why）的核心问题，形成初步理论假设或解释框架（Yin, 2009, p. 27）。
 > 2. **划定案例边界与设计类型** 明确案例的时空范围，选定单案例或多案例、整体性或嵌入性分析架构。
-> 3. **编制研究方案并收集多源资料** 制订案例研究草案，运用访谈、观察、文件与档案多渠道收集数据，维护证据链完整性。
+> 3. **编制研究方案并收集多源资料** 制订案例研究草案，运用访谈、观察、文件与档案多渠道收集数据，维护[[Chain of Evidence|证据链]]完整性。
 > 4. **展开个案内与跨案例分析** 形成翔实案例叙事，对比理论预期与经验模式，系统排查竞争性解释。
-> 5. **撰写报告并实施质量检验** 呈现厚描述与理论机制分析，通过成员检查与外部审计增强解释可信度。
+> 5. **撰写报告并实施质量检验** 呈现[[Rich and Thick Description|厚描述]]与理论机制分析，通过成员检查与[[External Auditor|外部审计]]增强解释可[[Reliability|信度]]。
 
 ### 质性方法模块
 
@@ -176,16 +191,16 @@ updated: 2026-10-20
 > | 分类标准 | 学者 | 类型划分 |
 > |---|---|---|
 > | 哲学基础 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 规范性案例研究（探究应该是什么）；实证性案例研究（通过经验材料检验理论） |
-> | 研究目的 | Yin (1984) | 探索性（作为试点生成假设）；描述性（提供详实叙事）；解释性（检验理论，回答因果机制） |
+> | [[Research Purpose\|研究目的]] | Yin (1984) | 探索性（作为试点生成假设）；描述性（提供详实叙事）；解释性（检验理论，回答因果机制） |
 > | 研究动机 | Stake (1994) | 本质性（关注特定案例本身）；工具性（通过案例洞察普遍议题或理论）；集合性（成组研究获得完整图景） |
 > | 案例层级 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 整体性案例研究（关注组织整体层面）；嵌入性案例研究（穿透组织内部多个子单位） |
 > | 理论贡献 | Lijphart (1971) | 非理论型、解释性、产生假设型、理论证实型、理论[[Falsification\|证伪]]型、偏离常规型 |
 
 > [!proc] 质性分析程序
-> 1. **资料转录与数据库构建** 整理录音、手记与文件，统一建立包含时间、来源与情境元数据的案例研究数据库。
+> 1. **资料[[Transcription in Qualitative Research|转录]]与数据库构建** 整理录音、手记与文件，统一建立包含时间、来源与情境元数据的案例研究数据库。
 > 2. **个案内部深度分析** 梳理时间线索与因果链条，提炼案例关键事件与本土行动者范畴。
 > 3. **跨案例模式匹配** （多案例设计）比对不同案例在核心制度维度上的异同，结合先验命题展开模式检验。
-> 4. **三角互证与竞争解释检验** 交叉验证不同来源证据，主动寻找相悖案例，排除替代性竞争假说。
+> 4. **[[Triangulation|三角互证]]与竞争解释检验** 交叉验证不同来源证据，主动寻找相悖案例，排除替代性竞争假说。
 
 ---
 
@@ -202,8 +217,8 @@ updated: 2026-10-20
 
 > [!method-limits] 方法局限
 > - **偏误来源与主观性** 依赖个体自述与回忆易产生回忆偏误；研究者深度卷入与分析式归纳易受先验偏见影响，选择过程与经验推断不易完全分离。
-> - **适用边界与推广约束** 缺乏统计代表性，分析性推广依赖理论逻辑自洽与读者经验共鸣；难以控制外部混杂变量，[[Causality|因果推断]]必须依赖严密的竞争性假说排除。
-> - **误用风险与操作偏差** 警惕五大常见操作偏差（Nisbet & Watt, 1984）：新闻主义（挑选轰动特征扭曲全貌）、选择性报告（仅展示支持先验命题的证据）、轶事风格（以零散插图取代机制分析）、浮夸推论（从低层次琐碎数据得出宏大理论结论）、平淡叙述（回避受访者冲突而丧失批判性）。
+> - **适用边界与推广约束** 缺乏统计代表性，[[Analytic Generalization|分析性推广]]依赖理论逻辑自洽与读者经验共鸣；难以控制外部混杂[[Variable|变量]]，[[Causality|因果推断]]必须依赖严密的竞争性假说排除。
+> - **误用风险与操作偏差** 警惕五大常见操作偏差（Nisbet & Watt, 1984）：新闻主义（挑选轰动特征扭曲全貌）、选择性报告（仅展示支持先验命题的证据）、轶事风格（以零散插图取代机制分析）、浮夸推论（从低层次琐碎数据得出[[Grand Theory|宏大理论]]结论）、平淡叙述（回避受访者冲突而丧失批判性）。
 > - **补救方式** 建立规范的案例研究规程与数据库；引入多源[[Triangulation|三角互证]]与受访者核验；主动寻找反向证据（negative cases）并系统排查替代性竞争解释。
 
 ---
@@ -224,7 +239,7 @@ updated: 2026-10-20
 > | [[Documentary Analysis]] | 方法 | 个案研究中六类证据来源之一。 |
 > | [[Field Notes]] | 方法 | 个案研究中观察记录的基础载体。 |
 > | [[Member Checking]] | 方法 | 个案研究中验证草稿解释准确性的策略。 |
-> | [[Triangulation]] | 方法 | 个案研究质量保障与证据链建构的核心手段之一。 |
+> | [[Triangulation]] | 方法 | 个案研究质量保障与[[Chain of Evidence\|证据链]]建构的核心手段之一。 |
 > | [[Analytic Generalization]] | 概念 | 个案研究的推广逻辑：从具体案例推升至普遍理论命题。 |
 > | [[Chain of Evidence]] | 概念 | 个案研究中连接数据、分析与结论的可追踪路径。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 剖析 20 世纪比较教育中深度国别个案研究（in-depth country case studies）的比较视野浸润与跨国容器突破。 |
@@ -249,7 +264,7 @@ updated: 2026-10-20
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 采用单机构嵌入式定性案例研究（Case Study）设计，结合[[Semi-structured Interview|半结构化访谈]]与机构历史档案分析，深入解构美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为会员制[[Precompetitive Research|前竞争研发]]联合体在连接产业需求、高校基础科研与联邦资助中的治理机制、人才管道建设与跨领域经验迁移边界。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用[[Reflexivity|反思性]]实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向[[Steering at a Distance|远距离操纵]]演进的制度历程。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“一带一路”框架下丝绸之路大学联盟与亚洲大学联盟在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
-> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 采用叙事案例研究设计，通过目的性抽样选取三所丝绸之路大学联盟高校，运用跨案例分析评估高校在“一带一路”重点能源与基建合作中的知识外交实践。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“[[Belt and Road Initiative|一带一路]]”框架下[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 采用叙事案例研究设计，通过[[Purposeful Sampling|目的性抽样]]选取三所丝绸之路大学联盟高校，运用跨案例分析评估高校在“一带一路”重点能源与基建合作中的[[Knowledge Diplomacy|知识外交]]实践。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用定性案例研究设计，结合文档分析、机构数据与针对中柬高教项目 40 位受访者的半结构化访谈，评估新朝贡分析视角的解释效力。
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 采用斯塔克式工具性个案研究，以瑞典学校督察局为总体个案，内嵌常规督导与质量审计两个迷你个案，结合 12 次半结构化访谈、两次内部会议观察与机构文件，追踪教育研究如何进入督导标准与报告。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 采用斯塔克式工具性个案研究，以[[Swedish Schools Inspectorate|瑞典学校督察局]]为总体个案，内嵌常规督导与质量审计两个迷你个案，结合 12 次半结构化访谈、两次内部会议观察与机构文件，追踪教育研究如何进入督导标准与报告。

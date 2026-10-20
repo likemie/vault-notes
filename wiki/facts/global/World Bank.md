@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 97
+fact_related_count: 96
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -28,7 +28,6 @@ tags:
   - theme/science-policy
   - theme/multilateral-development-banks
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Policy Brokerage]]"
   - "[[Shadow State]]"
@@ -52,6 +51,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Going Native]]"
   - "[[Refined Mastery]]"
+  - "[[Policy Borrowing]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Structural Adjustment Programs]]"
@@ -88,7 +88,6 @@ related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Comparative Case Study]]"
   - "[[Analytic Framework]]"
-  - "[[Discourse Analysis]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
@@ -144,7 +143,7 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与[[Disciplina and Doctrina|规训]]性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。在组织运作机制上，世界银行兼具提供硬通货贷款的“资金银行”（Bank of Funds）与重塑政策议程的“理念银行”（Bank of Ideas）双重性；其依托发达出资国高信用评级在国际资本市场低息发债筹资、以保本微利向发展中国家转贷，本质上属于特定主权国家间构筑的“主权信用合作社”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457, 472–473)]]
+> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与规训性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。在组织运作机制上，世界银行兼具提供硬通货贷款的“资金银行”（Bank of Funds）与重塑政策议程的“理念银行”（Bank of Ideas）双重性；其依托发达出资国高信用评级在国际资本市场低息发债筹资、以保本微利向发展中国家转贷，本质上属于特定主权国家间构筑的“主权信用合作社”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457, 472–473)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -172,7 +171,7 @@ updated: 2026-10-20
 >   - **1968** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱。
 >   - **1980** 4 月发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
-> - **1981–1999** **结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后**
+> - **1981–1999** **结构调整贷款、规训性多边主义与[[National Innovation System|国家创新系统]]滞后**
 >
 >   战后教科文组织倡导的有限再分配多边主义衰落，世界银行主导的防卫性与规训性多边主义确立。[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980, 2009）指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, cited in Arnove, 2009, pp. 105–106, 110)]]
 >
@@ -225,7 +224,7 @@ updated: 2026-10-20
 > [!pathways]- 业务运行机制
 > - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
-> - **政策中介与跨国政策转移（Policy Brokerage and Transfer）** 在跨国政策借用多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 SABER 诊断基准引导借款国协商采纳外部经验；另一方面在结构调整与紧急援助时将制度改革捆绑为放贷附加条件，促成受迫性政策转移。
+> - **[[Policy Brokerage|政策中介]]与跨国政策转移（Policy Brokerage and Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 [[Systems Approach for Better Education Results|SABER]] 诊断基准引导借款国协商采纳外部经验；另一方面在结构调整与紧急援助时将制度改革捆绑为放贷附加条件，促成受迫性政策转移。
 > - **质量控制与透明度** 实行严格的项目周期监管（识别、准备、评估、谈判、执行监督、后评价），所有借贷协议与实证工作报告公开归档，但评估标准具有鲜明的华盛顿经济学主导色彩。
 
 在实际借贷生命周期中，世界银行在组织学习能力与评估链条上面临深刻的结构性失调：
@@ -256,7 +255,7 @@ updated: 2026-10-20
 > *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
 
 > [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论世界银行的主权信用合作社金融机制
-> 从技术机制观察，多边开发银行在性质上高度接近仅供成员借款的主权信用合作社。当世界银行或[[Inter-American Development Bank|泛美开发银行]]在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想在于搭建精巧的信用传导机制，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借贷资金直接来源于国际金融市场融通资本，只要在利息中额外增加一个百分点以支付运营人员薪水，就能实现收支平衡。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
+> 从技术机制观察，[[Multilateral Development Bank|多边开发银行]]在性质上高度接近仅供成员借款的主权信用合作社。当世界银行或[[Inter-American Development Bank|泛美开发银行]]在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想在于搭建精巧的信用传导机制，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借贷资金直接来源于国际金融市场融通资本，只要在利息中额外增加一个百分点以支付运营人员薪水，就能实现收支平衡。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 >
 > *Technically, they are not banks. They are more like credit cooperatives – where only members can borrow. Or, more precisely, credit cooperatives of participating countries... the whole idea of a "development bank" is little more than a market trick to allow poor countries to borrow money at rates that can be as low as half of what they could obtain on their own and with much shorter time to pay back... The credit worthiness of the big countries – the United States, Germany, Japan, the UK, and so on – permit the bank to have a "triple A" rating. This rating allows the bank to borrow at the lowest possible interest rate found anywhere in the world.*
 
@@ -301,7 +300,7 @@ updated: 2026-10-20
 > > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 > > - **世行辩护** 强调结构性改革旨在破除[[Development Education|发展中国家教育]]系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
-> > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本[[Disciplina and Doctrina|规训]]同盟
+> > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本规训同盟
 > > 争论世界银行的[[Knowledge Production|知识生产]]是具有学术反思能力的多元智库，还是受贷款部门单一体支配、与跨国资本利益高度亲和的规训工具。
 > >
 > > - **组织反思论者** 强调世行内部研究人员具备多元理论视野，其内部实证研究成果频繁探讨教育紧缩的负面社会后果。
@@ -394,10 +393,10 @@ updated: 2026-10-20
 > | [[Global Educational Discourse]] | 概念 | 世界银行与经合组织、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示世界银行受紧迫实用主义驱动过度简化知识并依托拉美守门人垄断话语。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析世行“知识银行”制度愿景借贷、成本效益修辞与拉美[[Gatekeepers\|守门人]]网络的代表学者。 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析世界银行在跨国政策借用连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 运用世界教育改革数据库实证检验世行自指性政策中介机制与知识银行演变全过程。 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 建立受限国家理论分析框架，解构世行金融-智识复合体对第三世界国家教育主权的深度规训。 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析世界银行在跨国[[Policy Borrowing\|政策借用]]连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 运用[[World Education Reform Database\|世界教育改革数据库]]实证检验世行自指性政策中介机制与知识银行演变全过程。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 建立受限国家[[Analytic Framework\|理论分析框架]]，解构世行金融-智识复合体对第三世界[[State Educational Sovereignty\|国家教育主权]]的深度规训。 |
 > | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析世行贷款机制的审计繁杂、执行拖延与重投入轻产出困境。 |
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断话语与制度愿景借贷的微观知识流动悖论。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断[[Discourse\|话语]]与制度愿景借贷的微观知识流动悖论。 |

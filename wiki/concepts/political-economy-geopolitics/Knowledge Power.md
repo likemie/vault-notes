@@ -5,10 +5,10 @@ aliases:
 summary: "Young 与 Ravinet 提出并经高等教育地缘政治研究深化的分析概念，指行动者通过动员科技与隐性知识、建立知识领导力并重塑全球治理关系与制度语境的行动能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/geopolitics
   - higher-education
@@ -23,14 +23,17 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Geopolitics]]"
   - "[[Open-Mindedness]]"
   - "[[Seed Funding]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Research Universities]]"
   - "[[Epistemic Governance]]"
-related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+  - "[[Research Universities]]"
+  - "[[Outward-Oriented Internationalization]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Tianxia Heuristic]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -40,6 +43,7 @@ related_facts:
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Liu_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -77,7 +81,7 @@ updated: 2026-10-20
 > | 比较维度 | 知识权力（Knowledge Power） | [[Knowledge Diplomacy\|知识外交]]（Knowledge Diplomacy） |
 > |---|---|---|
 > | **核心驱动目标** | 确立知识领导地位，扩大国际治理影响力与制度[[Discourse\|话语]]权 | 促进双向对等互惠，协同应对全球重大危机与共同挑战 |
-> | **地缘政治叙事** | 契合纵向依附与地缘政治竞争逻辑，推动国际秩序重塑 | 契合横向平等与互联互通发展叙事，实现多边共同繁荣 |
+> | **[[Geopolitics\|地缘政治]]叙事** | 契合纵向依附与地缘政治竞争逻辑，推动国际秩序重塑 | 契合横向平等与互联互通发展叙事，实现多边共同繁荣 |
 > | **网络组织形态** | 排他性、高门槛的精英旗舰大学网络，准入机制严格 | [[Open-Mindedness\|开放性]]、宽口径的大众化高校合作网络，准入程序便捷 |
 > | **典型合作机制** | 定向[[Seed Funding\|种子基金]]支持的前沿科研、高端学者奖金与学术峰会 | 大规模学生夏令营、宽领域学科子联盟与通识文化交流 |
 > | **产出成效取向** | 产生不对称权力关系与中心-外围制度依附（[[Argument_Liu_2025_IndHE\|Liu et al., 2025]]） | 促成多边共赢与伙伴国技术自主能力建设（[[Argument_Liu_2025_IndHE\|Liu et al., 2025]]） |
@@ -102,7 +106,7 @@ updated: 2026-10-20
 > 该命题探讨国家如何依托高门槛的跨国学术联盟，将优质高等教育与前沿科研资源转化为制度性主导权。
 
 > [!claim] Chou, M.-H. and Demiryol, T.
-> **排他性精英网络辐射知识治理模式** 设立严苛准入门槛并吸纳少数旗舰[[Research Universities|研究型大学]]的跨国联盟，赋予主导高校高效设定学术议程的制度特权，推动其[[Epistemic Governance|知识治理]]模式辐射至关键区域节点。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
+> **排他性精英网络辐射[[Epistemic Governance|知识治理]]模式** 设立严苛准入门槛并吸纳少数旗舰[[Research Universities|研究型大学]]的跨国联盟，赋予主导高校高效设定学术议程的制度特权，推动其[[Epistemic Governance|知识治理]]模式辐射至关键区域节点。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 ---
 
@@ -122,7 +126,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度载体论** | 依托排他性旗舰联盟设定议程，实现区域性知识治理模式辐射 | 区域高水平研究型大学闭门多边合作 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
-> | **功能互补论** | 开放型外交与精英型权力协同，加速全球知识网络中心化 | 新兴大国外向型高等教育国际化战略推进 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
+> | **功能互补论** | 开放型外交与精英型权力协同，加速全球知识网络中心化 | 新兴大国[[Outward-Oriented Internationalization\|外向型高等教育国际化]]战略推进 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
 
 ---
 
@@ -133,7 +137,7 @@ updated: 2026-10-20
 >   米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）反思[[EU|欧盟]]科技政策与全球治理实践，提出知识权力概念，用以刻画行动者动员知识资源重塑全球治理规则体系的行动能力。
 > - **2024 年 — [[Geopolitics of Higher Education|高等教育地缘政治]]与跨国大学联盟分析**
 >   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）将该概念引入[[Belt and Road Initiative|一带一路]]跨国大学联盟实证研究，对比[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，揭示中国外向型[[Internationalization of Higher Education|高等教育国际化]]战略中知识权力与[[Knowledge Diplomacy|知识外交]]的复合运用。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1695–1697)]]
-> - **2025 年 — 权力范式与外交范式的结构化辨析**
+> - **2025 年 — 权力[[Paradigm|范式]]与外交范式的结构化辨析**
 >   刘伟（Wei Liu）等学者提炼出知识权力与知识外交在定义、进路与成效三维度的结构对照，指出知识权力将专业优势转化为超越对手的竞争工具，并以微观案例实证论证了从单向知识权力向互惠知识外交范式转变的必要性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
@@ -142,7 +146,7 @@ updated: 2026-10-20
 
 > [!critique] 理论局限与概念反思
 > - **二元分类的解释限度** 将跨国学术合作截然划分为地缘博弈取向的知识权力或利他互惠取向的[[Knowledge Diplomacy|知识外交]]，易割裂复杂的现实政策实践，遮蔽行动者在具体项目中的多元诉求与灵活调试。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
-> - **西方中心主义价值预设** 传统权力与外交概念深植于战后北美自由国际主义传统；引入包容等级与平等的天下启发式视角（Tianxia heuristic），有助于更加契合非西方大国在网络互联中的空间治理逻辑。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+> - **西方中心主义价值预设** 传统权力与外交概念深植于战后北美自由国际主义传统；引入包容等级与平等的[[Tianxia Heuristic|天下启发式]]视角（Tianxia heuristic），有助于更加契合非西方大国在网络互联中的空间治理逻辑。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
 ---
 
@@ -150,4 +154,4 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较[[Belt and Road Initiative|一带一路]]框架下的[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，论证中国在跨国学术网络构建中兼具知识权力与[[Knowledge Diplomacy|知识外交]]的双重逻辑，并通过增加网络连接密度使其网络中心地位常态化。
-> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 明确对比知识权力与知识外交的范式差异，并在三所高校参与一带一路的微观实证中论证超越单向权力竞争的必要性。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 明确对比知识权力与知识外交的[[Paradigm|范式]]差异，并在三所高校参与一带一路的微观实证中论证超越单向权力竞争的必要性。

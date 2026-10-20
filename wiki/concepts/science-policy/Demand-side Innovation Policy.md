@@ -2,7 +2,7 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,7 +52,6 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-03

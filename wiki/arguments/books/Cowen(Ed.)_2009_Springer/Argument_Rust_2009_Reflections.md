@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 118
+argument_related_count: 119
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -86,6 +86,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Performance Indicators]]"
   - "[[Praxis]]"
+  - "[[Developmentalism]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -163,7 +164,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Rust_2009_Reflections
 
@@ -528,7 +529,7 @@ updated: 2026-10-16
 > 2. **确立解放实践本位** 教育是主权社会凝聚文化认同、培育公民素养的核心[[Champ|场域]]；比较教育学应当成为推动全球教育公平、维护弱势群体尊严与实现人类福祉的解放性实践（[[Praxis]] of liberation）。（pp.134–135）
 
 > [!implication]- 学科范式转向的多维意涵
-> - **理论意涵** 打破现代化理论将西方模式视为唯一标准的“发展主义神话”，为建构多元现代性与全球南方教育理论拓展认识论空间。
+> - **理论意涵** 打破现代化理论将西方模式视为唯一标准的“[[Developmentalism|发展主义]]神话”，为建构多元现代性与全球南方教育理论拓展认识论空间。
 > - **政策意涵** 发展中国家在跨国援助与政策引进中应牢牢掌握教育主权，防范结构依附与隐蔽课程侵蚀。
 > - **伦理意涵** 确立研究者面向边缘弱势群体的道德责任，将比较探究与促进全球人道福祉有机结合。（pp.134–135）
 

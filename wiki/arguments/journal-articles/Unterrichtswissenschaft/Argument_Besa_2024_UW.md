@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Educational Science Communication]]"
   - "[[Discourse]]"
+  - "[[Neuromyth]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
@@ -85,7 +86,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德语区职前师范生、在岗教师、大学与进修机构教师教育者（Lehrkräftebildende）、教育行政管理者与教育科学研究共同体。
-> - **张力** 严谨实证研究的高度专业性、付费封闭性与方法学晦涩性，与一线教师对易用、直观备课指导的强烈需求以及低质经验指南、教育神经神话广泛流传之间的结构性矛盾。
+> - **张力** 严谨实证研究的高度专业性、付费封闭性与方法学晦涩性，与一线教师对易用、直观备课指导的强烈需求以及低质经验指南、[[Neuromyth|教育神经神话]]广泛流传之间的结构性矛盾。
 > - **贡献** 系统解构了五种主要科学传播媒介的实践效能、受众边界与质量风险，确立了以受众适配语言、非线性对话与制度激励为核心的教育科学传播行动框架。
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-10-20
 
 ### 论证步骤一　职前知识供给的时效局限与高感知负荷共同驱使教师依赖未经检验的经验直觉并滋生神经神话
 
-> [!claim] 核心判断：知识时效局限与神经神话弥散
+> [!claim] 核心判断：知识时效局限与[[Neuromyth|神经神话]]弥散
 > 大学[[Normal School\|师范教育]]所能提供的实证知识具有时效性与局限性，而在职教师普遍表现出较低的研究接触意愿与较高的感知负荷，导致缺乏科学依据的经验直觉与伪科学教育神话在学校实践中根深蒂固。（pp. 251–252）
 
 #### 1. 职前教育的知识时效局限与在岗教师的研究负荷感知
@@ -245,7 +246,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心发现
 > 1. **单向线性转移的系统性失效** 传统依托专业学术期刊向实践单向灌输实证知识的模式，因认知负荷过大、实践关联度低及[[Falsification\|证伪]]心理防御，无法有效穿透一线学校课堂。（pp. 251–254）
-> 2. **实践指南与通俗媒体中实证证据的缺失** 410 部流通教师指南中实证成果极度匮乏，未经检验的经验信念成为[[Learning Styles|学习风格]]等神经神话持续流传的主要载体。（pp. 252, 255）
+> 2. **实践指南与通俗媒体中实证证据的缺失** 410 部流通教师指南中实证成果极度匮乏，未经检验的经验信念成为[[Learning Styles|学习风格]]等[[Neuromyth|神经神话]]持续流传的主要载体。（pp. 252, 255）
 > 3. **通俗播客与概念转变设计的有效纠偏** 实验试验证实，采用日常通俗语言并结合概念转变策略的播客能够显著促进师范生修正对教育神话的错误信念。（p. 256）
 > 4. **教育研究共同体的角色与制度重构** 研究者应打破同行声誉顾虑，拓展非线性全媒体传播，并在制度层面确立研究合成与科学中介的独立学术价值。（p. 258）
 

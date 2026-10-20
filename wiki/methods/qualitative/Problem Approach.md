@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学假说-演绎方法论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Brian Holmes]]"

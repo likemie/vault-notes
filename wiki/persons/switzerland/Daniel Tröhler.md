@@ -8,7 +8,7 @@ summary: "瑞士教育历史与课程学学者，以课程历史的宗教与政�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/epistemological-politics
   - region/switzerland
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[International Education]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Daniel Tröhler
@@ -54,7 +55,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞士教育历史与课程理论学者。曾任卢森堡大学教授，现为维也纳大学（University of Vienna）教育学教授。
-> - **核心角色** 课程历史与地缘教育政治批判的代表人物。他解构了新自由主义数据治理与国际测试（如 [[PISA]]）背后的技术官僚神话，并挑战了新制度主义[[World Society Theory\|世界文化理论]]的去政治化倾向，强调课程与比较教育的本质是国家利益竞争与地缘政治权力游戏。
+> - **核心角色** 课程历史与地缘教育政治批判的代表人物。他解构了新自由主义数据治理与国际测试（如 [[PISA]]）背后的技术官僚神话，并挑战了新制度主义[[World Society Theory\|世界文化理论]]的去政治化倾向，强调课程与比较教育的本质是国家利益竞争与[[Geopolitics|地缘政治]]权力游戏。
 > - **代表贡献** 提出课程变革的“国家利益驱动论”；解构比较教育作为地缘[[Epistemology\|认识论]]权力游戏的历史本质。
 
 ---
@@ -92,4 +93,4 @@ updated: 2026-10-16
 
 > [!critique]- 批评与应用索引
 > - [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] — 应用 Tröhler 的“国家利益驱动论”，解释了[[Liberal Studies\|香港通识教育科]]（Liberal Studies）的废除并非遵循全球课程科学，而是直接服从于国家安全和国族建构的政治竞争逻辑。(p. 483)
-> - [[World Society Theory]] — Tröhler 批评该理论将课程变迁归因于中性的全球文化扩散，指出其抹去了地缘政治冲突、大国支配和本国政治控制的权力维度。
+> - [[World Society Theory]] — Tröhler 批评该理论将课程变迁归因于中性的全球文化扩散，指出其抹去了[[Geopolitics|地缘政治]]冲突、大国支配和本国政治控制的权力维度。

@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Project-Based Learning
@@ -200,5 +199,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。

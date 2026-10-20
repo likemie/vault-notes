@@ -12,7 +12,7 @@ aliases:
 summary: "公共部门（政府机构）与私营部门（营利性企业、非营利组织或高校）之间建立的长期、制度化协作与契约化治理机制。在公共教育治理中，表现为政府将校舍基建（PFI）、地方教育局运营、学校督导、师资培训与教学服务向私营部门与跨国教育集团外包，引发教育外生私有化与商业顾问对公共政策主权的渗透；在战略科技创新中，表现为政府、产业界与研究型大学联合资助前竞争共性技术与战略攻关的多边研发联合体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,7 +52,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Audit Trail]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jason Beech]]"

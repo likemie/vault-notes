@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 53
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -72,7 +72,6 @@ related_methods:
   - "[[Effectiveness Trial]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Carol Weiss]]"
   - "[[Socrates]]"
@@ -81,7 +80,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Theory of Change
@@ -282,7 +281,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]必须确立变革理论作为自我循证支柱，论证单纯信息推送的无效性，并构建结合 [[COM-B Model\|COM-B]] 模型的因果机制架构。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 梳理教育中介机构的历史演进与治理挑战，探讨中介在不同政策情境下构建因果服务链条的制度困境。
 > - [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 比较跨领域主流[[Knowledge Mobilisation\|知识动员]]模型，解构微观行为因果转化机制（Langer et al., 2016）与多层系统架构。

@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Conversation Analysis]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Intent-to-Treat Analysis]]"
 related_persons:
   - "[[Edmund Husserl]]"
@@ -55,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Alfred Schutz
@@ -134,7 +133,7 @@ updated: 2026-10-16
 > - **方法路径** 为[[Qualitative Research\|质性研究]]中的[[Interpretive Paradigm\|诠释范式]]确立了第一序[[Construct\|构念]]（参与者常识理解）与第二序构念（研究者科学概念）的[[Operationalization\|操作化]]桥梁，深刻启蒙了加芬克尔（[[Harold Garfinkel]]）的常人方法学，将日常[[Conversation Analysis|会话分析]]与破坏性实验推上微观探究前沿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **教育研究应用** 为微观教育[[Ethnography\|民族志]]、课堂互动[[Discourse Analysis\|话语分析]]、教师实践知识（Practitioner Knowledge）与学生亚文化分类图式研究提供了直接的理论透镜。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 系统阐释了舒茨的意识流、[[Reflexivity\|反思性]]、[[Typification\|类型化]]与多重实在理论，如何确立了诠释范式在教育研究中考察社会行动与生活世界的合法性。
 
 ---

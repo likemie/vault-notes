@@ -6,7 +6,7 @@ aliases:
 summary: "大学与产业、政府及广泛社会之间通过多元双向机制进行知识流动的交互过程。涵盖合同研究、人员流动、联合研发、设施共享及隐性知识外溢，超越了传统单向线性的技术转移范式；在产业政策与创新地理视角下，知识交流高度依赖高密度专业劳动力池与实体集聚外部性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Patient Capital]]"
   - "[[Professors of Practice]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Innovation Park]]"
   - "[[Academic Freedom]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Knowledge Exchange
@@ -161,7 +162,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度资助演进命题** | 公式化长期稳定拨款取代短期项目竞争，系统赋能大学全谱系知识交流生态 | 大学科研管理体制改革、国家[[Third Mission\|第三使命]]拨款设计 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] |
-> | **空间集聚稀释命题** | 隐性知识交流高度依赖地理集聚，地缘政治驱动的空间分散政策造成外部性损失与成本溢价 | 先进半导体制造、高技术产业集群、现代产业政策评估 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] |
+> | **空间集聚稀释命题** | 隐性知识交流高度依赖地理集聚，[[Geopolitics\|地缘政治]]驱动的空间分散政策造成外部性损失与成本溢价 | 先进半导体制造、高技术产业集群、现代产业政策评估 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] |
 
 ---
 
@@ -171,7 +172,7 @@ updated: 2026-10-16
 > - **1980 年代以前 — 线性[[Technology Transfer|技术转移]]主导阶段** 以《[[Bayh-Dole Act of 1980|拜杜法案]]》（Bayh-Dole Act）为代表，学界与政策界将大学-产业互动窄化为专利申请、技术许可与版权出售。
 > - **1990–2000 年代 — 英国与欧洲的[[Third Mission|第三使命]]与 KE [[Paradigm|范式]]确立** 英国与欧洲高等教育界逐步认识到专利仅占产学互动的一小部分，正式确立“知识交流”（Knowledge Exchange）概念，覆盖合同研究、人员流动与咨询培训等广谱机制。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–44)]]
 > - **2010 年代 — 体系化能力建设与跨界生态融入** 知识交流框架拓展至[[Innovation Park|科技园区]]建设、创客空间与[[Professors of Practice|实践教授]]制度，被纳入国家[[Systems of Innovation|创新系统]]（Systems of Innovation）的核心支柱。
-> - **2020 年代至今 — 地缘政治竞争与供应链安全审视** Bown 与 Wang（2024）等产业经济学者将知识交流纳入[[Modern Industrial Policy|现代产业政策]][[Analytic Framework|分析框架]]，反思地缘博弈和供应链去风险对传统知识外溢与[[Agglomeration Externalities|集聚经济]]的阻断效应。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
+> - **2020 年代至今 — [[Geopolitics|地缘政治]]竞争与供应链安全审视** Bown 与 Wang（2024）等产业经济学者将知识交流纳入[[Modern Industrial Policy|现代产业政策]][[Analytic Framework|分析框架]]，反思地缘博弈和供应链去风险对传统知识外溢与[[Agglomeration Externalities|集聚经济]]的阻断效应。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "英格兰与苏格兰基础教育中由学校雇用的准专业人员，常规配置下因角色错位易导致学困生学业逆转；EEF 提炼七项循证建议并通过区域战役证实结构性优化能带来显著学业增益；跨国实证进一步揭示官方助教证据在英格兰被工具化挪用为财政裁员借口，而在苏格兰则遭到一线实践者凭借贡献型专长的坚决抵制。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[In-depth Interview]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Teaching Assistant
@@ -203,7 +202,7 @@ updated: 2026-10-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 将 [[Education Endowment Foundation\|EEF]] 助教循证配置指南的区域规模化推广作为核心实证案例，系统阐述了[[Educational Brokerage Agency\|知识中介机构]]如何由单纯发布指南向区域动员转型，以及 IFS [[Difference-in-Differences\|双重差分]]评估所证实的全链条因果效果。（pp. 149–150, 157）
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰与苏格兰[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]经验，揭示官方助教循证结论在英格兰高利害问责下被异化为财政裁员的防御性辩护工具，而在苏格兰则遭到一线校长依据[[Contributory Expertise\|贡献型专长]]的坚决抵制，展现了专长合法性博弈与证据政治学。（pp. 19–21）
 

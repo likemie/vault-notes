@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
-  - "[[Generic Skills]]"
   - "[[Cross-cultural Validity]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -49,6 +48,7 @@ related_persons:
   - "[[José Luis García Garrido]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
   - "[[Bologna Process]]"
   - "[[National Science Foundation]]"
@@ -58,7 +58,6 @@ related_facts:
   - "[[OECD AHELO Project]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
-  - "[[Times Higher Education World University Rankings]]"
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -167,7 +166,7 @@ updated: 2026-10-20
 > > 排名界关于是否能够以及如何测量高等教育本质质量的长久论战。
 > >
 > > - **极端精英替代论** ARWU 是全球仅有的将校友获奖作为直接考察指标的体系，虽试图直接反映人才培养终端成效，但诺贝尔奖和菲尔兹奖仅能折射极端精英群体的历史成就，与大学日常教育教学质量毫无统计关联。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
-> > - **跨国评估替代方案** [[OECD|经济合作与发展组织]]（OECD）试图通过[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）开发直接测验学生[[Critical Thinking|批判性思维]]与[[Generic Skills|通用能力]]的工具以修正 ARWU 的缺陷，但因[[Cross-cultural Validity|跨文化效度]]与巨大成本同样陷入制度停滞。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
+> > - **跨国评估替代方案** [[OECD|经济合作与发展组织]]（OECD）试图通过[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）开发直接测验学生[[Critical Thinking|批判性思维]]与通用能力的工具以修正 ARWU 的缺陷，但因[[Cross-cultural Validity|跨文化效度]]与巨大成本同样陷入制度停滞。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
 >
 > > [!axis] 科研声誉排序与跨境流动的动机脱节
 > > 跨国流动实践与排名位次之间的结构性背离。

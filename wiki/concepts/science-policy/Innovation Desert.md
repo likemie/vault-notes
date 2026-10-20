@@ -7,7 +7,7 @@ aliases:
 summary: "指由于政治争议、官僚体制僵化、风险厌恶、市场必胜论逃避、薪酬反激励规制与特权阶层炫耀性信念，长期拒绝或严重滞后吸纳前沿技术与现代工程组织模式，从而导致技术应用与治理效能严重滞后的关键公共治理与社会民生领域。"
 type: concept
 domain: "science-policy"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,7 +44,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

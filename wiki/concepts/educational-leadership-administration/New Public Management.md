@@ -7,9 +7,9 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 67
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - new-public-management
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Consultocracy]]"
   - "[[Polymath]]"
   - "[[Externalization]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Rationalized Myth]]"
@@ -55,6 +54,8 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Critical Pedagogy]]"
   - "[[Evidence Era]]"
+  - "[[Policy Borrowing]]"
+  - "[[Normal School]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[Educational Governance Framework]]"
@@ -64,6 +65,8 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
+  - "[[In-depth Interview]]"
+  - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -94,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # New Public Management
@@ -181,14 +184,14 @@ updated: 2026-10-19
 
 ### 命题一　量化绩效与管理问责消解专业自主并将领导者重塑为政策交付者
 
-> [!concept-lens] 基础教育治理与身份[[Disciplina and Doctrina|规训]]
+> [!concept-lens] 基础教育治理与身份规训
 > 探讨 NPM 如何通过外包、督导评级与标准化领导力框架重构基础教育[[Champ|场域]]中的专业生态。
 
 > [!claim] [[Argument_Møller_2017_EERJ|Møller (2017)]]
 > **量化问责的技术化窄化** 在基础教育中，合同外包、基准测试与督导评级（如英国皇家教育标准局（[[Ofsted|Office for Standards in Education, Children's Services and Skills]], Ofsted））居于核心地位；这一机制导致复杂的教育不平等被简化为孤立的技术性干预问题，遮蔽了权力与社会资源分配的深层结构。[[Argument_Møller_2017_EERJ|(Møller, 2017, p. 382)]]
 
 > [!claim] [[Argument_Eacott_2011_JEAH|Eacott (2011)]]
-> **校长角色的交付者规训** 标准化校长培训项目将校长身份[[Disciplina and Doctrina|规训]]为国家管理主义项目的交付者，通过能力框架与竞争性评估消除对教育深层价值前提的追问，以管理主义问责彻底替代了关系性的专业领导力。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 45–52)]]
+> **校长角色的交付者规训** 标准化校长培训项目将校长身份规训为国家管理主义项目的交付者，通过能力框架与竞争性评估消除对教育深层价值前提的追问，以管理主义问责彻底替代了关系性的专业领导力。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 45–52)]]
 
 ---
 
@@ -332,10 +335,10 @@ updated: 2026-10-19
 >
 > | 研究 | 治理领域与情境 | 研究设计 | 核心机制与测量指标 | 关键实证发现与表现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国政策借用与福利改革筛选 | 政策文本分析与决策官员深度访谈 | 新西兰 NPM 模式（市场化契约与经办分离）vs 美国循证实验模式 | 新西兰推行经办分离与财务审计，但因缺乏个体层面的失业转化因果实证数据，在英国官方筛选中仅被列为“有限参考”，最终全面让位于美国基于随机分配实验的循证模式 | 揭示 NPM 传统的运营效率与财务审计指标在因果干预评估刚需下的解释局限 |
-> | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | 英国与德国高等教育科研卓越框架（REF） | 跨国高等教育制度比较与拨款数据追踪 | 科研绩效指标（KPIs）与公共科研经费分配比例 | 绩效指标导向的拨款导致资源高度集中化，全英前 20% 的精英研究型大学捕获了超过 75% 的公共研究拨款，强化了机构间马太效应 | 针对英德高教体制，揭示量化绩效拨款对学术层级分化的制度固化效应 |
-> | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰教师教育改革 35 年制度变迁 | 政策历程追踪与供给机构份额统计 | 教师准入从大学主导向校本（SCITT / School Direct）市场化转移 | 大学传统师范教育供给份额遭系统性压缩，市场化准入与国家核心内容框架远程监控并行，循证实践呈现政策辩护工具化倾向 | 确立 NPM 分权外包表象下国家通过资质规程实施远程集权控制的微观机制 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | 经合组织国家公共部门咨询外包演进 | 科技政策与公共行政实证文献综合批判 | 私营咨询外包支出占比与公共机构能力指标 | 伴随管理咨询外包支出增长，公共机构核心规划与数字化评估能力呈现显著去技能化，形成只关注短期显性指标的“青蛙视角” | 阐明过度依赖外部采购与成本收益合规对公共动态能力的结构性侵蚀 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国[[Policy Borrowing\|政策借用]]与福利改革筛选 | 政策文本分析与决策官员[[In-depth Interview\|深度访谈]] | 新西兰 NPM 模式（市场化契约与经办分离）vs 美国循证实验模式 | 新西兰推行经办分离与财务审计，但因缺乏个体层面的失业转化因果实证数据，在英国官方筛选中仅被列为“有限参考”，最终全面让位于美国基于[[Random Assignment\|随机分配]]实验的循证模式 | 揭示 NPM 传统的运营效率与财务审计指标在因果干预评估刚需下的解释局限 |
+> | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | 英国与德国高等教育科研卓越框架（REF） | 跨国高等教育制度比较与拨款数据追踪 | 科研[[Performance Indicators\|绩效指标]]（KPIs）与公共科研经费分配比例 | 绩效指标导向的拨款导致资源高度集中化，全英前 20% 的精英[[Research Universities\|研究型大学]]捕获了超过 75% 的公共研究拨款，强化了机构间马太效应 | 针对英德高教体制，揭示量化绩效拨款对学术层级分化的制度固化效应 |
+> | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰教师教育改革 35 年制度变迁 | 政策历程追踪与供给机构份额统计 | 教师准入从大学主导向校本（SCITT / School Direct）市场化转移 | 大学传统[[Normal School\|师范教育]]供给份额遭系统性压缩，市场化准入与国家核心内容框架远程监控并行，循证实践呈现政策辩护工具化倾向 | 确立 NPM 分权外包表象下国家通过资质规程实施远程集权控制的微观机制 |
+> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | [[OECD\|经合组织]]国家公共部门咨询外包演进 | 科技政策与公共行政实证文献综合批判 | 私营咨询外包支出占比与公共机构能力指标 | 伴随管理咨询外包支出增长，公共机构核心规划与数字化评估能力呈现显著[[Cognitive Deskilling\|去技能化]]，形成只关注短期显性指标的“青蛙视角” | 阐明过度依赖外部采购与成本收益合规对[[Public Dynamic Capabilities\|公共动态能力]]的结构性侵蚀 |
 
 ---
 
@@ -345,12 +348,12 @@ updated: 2026-10-19
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 批判 NPM 改革导致的公共部门[[Cognitive Deskilling|去技能化]]、青蛙视角与对失败的零容忍，提出以[[Public Dynamic Capabilities|公共动态能力]]和[[Lead-and-Learn Paradigm|引领与学习范式]]重塑国家治理。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判 NPM 将政府局限于被动市场修补与外包监管的弊端，论证企业型国家的主动[[Market Shaping and Creating|市场塑造]]与共创能力。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 从比较公共行政视角深入辨析英美新公共管理（[[Early Steps|Next Steps]] 执行代理机构与市场化意识形态）与欧洲大陆“间接[[Steering at a Distance|远距离操纵]]”的制度边界，揭示多理性[[Policy Network|政策网络]]的自组织特性，并指出事后质量评估可能反向加剧国家隐性集权的评估国家悖论。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 揭示新西兰以经办分离和行政运营效率监测为特征的新公共管理模式，在面对英国循证治理严格的个体因果干预数据检验时所面临的局限与跨国借用取舍（p. 342）。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 揭示新西兰以经办分离和行政运营效率监测为特征的新公共管理模式，在面对英国[[Output-Oriented Governance|循证治理]]严格的个体因果干预数据检验时所面临的局限与跨国借用取舍（p. 342）。
 > - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 分析挪威等北欧国家基础教育中 NPM 问责制与督导评级对教师专业自主与教育公平的侵蚀。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 揭示英格兰 35 年教师教育改革中 NPM 如何将循证实践异化为性价比核算与[[Policy-Based Evidence-Making|逆向证据生产]]。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理[[Discourse|话语]]在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
-> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的规训。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合[[OECD|经合组织]]1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较[[Performance Indicators|绩效指标]]与远处掌舵。
 

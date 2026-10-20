@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Reflexivity]]"
+  - "[[Policy Framing]]"
   - "[[Apprenticeship]]"
   - "[[Tacit Knowledge]]"
   - "[[Discipline-Based Theory]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Technical Rationality]]"
 related_theories: []
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Elite Interview]]"
 related_instruments: []
 related_persons:
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Initial Teacher Training
@@ -69,7 +69,7 @@ updated: 2026-10-16
 > [!citation-card] 教师教育政策的演进与概念分野
 > 政策[[Discourse|话语]]从早期强调[[Reflexivity\|反思性]]与学科探究的初始教师教育（ITE）转向突出实用技能与操作合规的初始教师培训（ITT），折射出英格兰治理体系对教师专业性内涵的重塑。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–91)]]
 >
-> *The shift in nomenclature and policy framing around ITT in England reflects a broader institutional reconstitution of teacher professionalism from university-led education to school-led practical training.*
+> *The shift in nomenclature and [[Policy Framing|policy framing]] around ITT in England reflects a broader institutional reconstitution of teacher professionalism from university-led education to school-led practical training.*
 
 > [!boundary]- 概念边界
 > - 不等于 初始教师教育（Initial Teacher Education, ITE） — ITE 强调大学本位的理论滋养、批判反思与教育哲学探究，视教师为自主专业学者；ITT 倾向于政府官方语话中的技能掌握、国家标准合规与行为达标。
@@ -173,5 +173,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。

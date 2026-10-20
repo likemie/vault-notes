@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 68
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Return on Investment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Intellectual Capital]]"
@@ -90,7 +89,6 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Effect Size]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 confidence: high
 status: active
@@ -242,7 +240,7 @@ updated: 2026-10-20
 > 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
-> **[[Economic Fundamentalism|经济基要主义]]对教育公共价值的异化与残余化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）在解构[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）全球教育政策转向时指出，在战后社会民主主义妥协时期，教育被视为促进人人平等、保障公民民主参与和建设包容社会的典型“纯粹公共物品”（Pure Public Good），具有不可剥夺的民主公物本真公共价值。然而自 1990 年代中期起，经合组织等超国家机构推行“经济基要主义”（Economic Fundamentalism），将新自由主义全球化本体化为[[Doxa|不言自明]]的客观铁律，建构起一套狭隘排他的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”。在这一话语转型中，教育的公共价值被系统性空心化与工具化：教育被降格为追求国家全球竞争优势与个体劳动力市场超额溢价的“公私混合投资商品”（Mixed Good）。教育公平、性别平权与公民素养等实质正义维度并未被彻底废除，而是被“残余化”（Residualized）与工具化收编——公平被窄化为形式上的准入平等以确保人力资本储备最大化，社会资本被降格为防范社会排斥干扰经济增长的维稳工具。这一转型标志着国家教育治理从创造普惠平等的民主公共价值，彻底倒向了服务于私人市场[[Return on Investment|投资回报率]]的技术官僚[[Disciplina and Doctrina|规训]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
+> **[[Economic Fundamentalism|经济基要主义]]对教育公共价值的异化与残余化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）在解构[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）全球教育政策转向时指出，在战后社会民主主义妥协时期，教育被视为促进人人平等、保障公民民主参与和建设包容社会的典型“纯粹公共物品”（Pure Public Good），具有不可剥夺的民主公物本真公共价值。然而自 1990 年代中期起，经合组织等超国家机构推行“经济基要主义”（Economic Fundamentalism），将新自由主义全球化本体化为[[Doxa|不言自明]]的客观铁律，建构起一套狭隘排他的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”。在这一话语转型中，教育的公共价值被系统性空心化与工具化：教育被降格为追求国家全球竞争优势与个体劳动力市场超额溢价的“公私混合投资商品”（Mixed Good）。教育公平、性别平权与公民素养等实质正义维度并未被彻底废除，而是被“残余化”（Residualized）与工具化收编——公平被窄化为形式上的准入平等以确保人力资本储备最大化，社会资本被降格为防范社会排斥干扰经济增长的维稳工具。这一转型标志着国家教育治理从创造普惠平等的民主公共价值，彻底倒向了服务于私人市场[[Return on Investment|投资回报率]]的技术官僚规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
 
 ---
 

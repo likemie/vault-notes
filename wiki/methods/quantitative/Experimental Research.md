@@ -9,7 +9,7 @@ summary: "通过主动操纵自变量并随机分配处理组与对照组以严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 64
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -76,7 +76,6 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Stanley Milgram]]"

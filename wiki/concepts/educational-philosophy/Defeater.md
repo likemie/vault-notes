@@ -14,7 +14,7 @@ aliases:
 summary: "在认识论中指能够削弱或推翻某一信念、主张或推理确证效力的反向证据或反驳理由；在智能决策与人机协同中被转化为主动呈现冲突证据的认知支架，为人类行使独立审议提供可抗辩性支持。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,8 +37,7 @@ related_concepts:
   - "[[Trust Calibration]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jackson Pollock]]"

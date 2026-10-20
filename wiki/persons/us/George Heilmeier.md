@@ -7,7 +7,7 @@ summary: "美国工程师、发明家与科技政策管理者，液晶显示（L
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons: []

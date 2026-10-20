@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的跨期预测能力。在教育测评中涵盖从入学考选拔、高阶创造潜能到微观课堂教学行为对学业增益的实证预测，依赖无偏效标与行为锚定规程进行验证。"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Fixed-Effect Model]]"
   - "[[Multiple Regression]]"
-  - "[[Correlational Research]]"
   - "[[Meta-regression]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"

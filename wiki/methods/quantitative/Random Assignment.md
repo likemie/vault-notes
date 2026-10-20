@@ -11,7 +11,7 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 64
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Class Size]]"
   - "[[Open-Mindedness]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -72,13 +71,12 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Ivan Snook]]"
-  - "[[Michael Kratsios]]"
-  - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[United Kingdom Metascience Unit]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Education Endowment Foundation]]"
+  - "[[MDRC]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -189,7 +187,7 @@ updated: 2026-10-20
 ## 局限性
 
 > [!method-limits] 方法局限与治理警惕
-> - **小样本失衡与“糟糕随机化”** 当样本量较小时，随机分配可能偶然导致严重的基线不平衡；若直接计算均值差将产生严重的数据包装偏误。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
+> - **小样本失衡与“糟糕随机化”** 当[[Sample Size Determination|样本量]]较小时，随机分配可能偶然导致严重的基线不平衡；若直接计算均值差将产生严重的数据包装偏误。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
 > - **颠覆偏差（Subversion Bias）** 执行人员可能因偏好而人为操纵受试者入组，必须通过中心化分配与[[Blinding|盲法]]防范。
 > - **黑箱化与因果机制遮蔽** 仅能输出平均[[Effect Size|效应量]]，无法解释干预为何在特定情境下生效，过滤了微观实践主体的推理与情境脉络。
 
@@ -217,7 +215,7 @@ updated: 2026-10-20
 > [!case] 公共福利政策中随机分配的伦理张力与制度突破：英国残障新政与 ERA 示范项目
 > 随机分配要求设立不享受补贴或服务的对照组，在公共社会政策领域极易引发深层的[[Research Ethics|研究伦理]]争议与公众政治反弹：
 > 1. **弱势群体对照组设置受阻** 2002 年英国就业与养老金部（DWP）尝试在残障人士新政中实施美式随机对照实验，但因将部分弱势受助群体随机划入无法获得额外支持的对照组，遭到社会倡导团体与公众的强烈抗议，被指责违背社会正义并剥夺困难群体基本权益，导致实验一度搁浅。
-> 2. **循证刚性需求驱动更大规模制度实验** 面对伦理争议，决策层对严格因果检验的认识论诉求推动了制度设计创新。英国政府随后在英国就业保留与晋升示范项目中，成套引入美国成熟的双重激励设计，由美国专业智库 MDRC 跨境承接分组规程设计与现场运行审计，使随机分配规程在包含留职现金奖励的复合设计中突破了单一剥夺性对照的伦理困局，成为英国社会政策史上最大规模的随机对照实验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
+> 2. **循证刚性需求驱动更大规模制度实验** 面对伦理争议，决策层对严格因果检验的认识论诉求推动了制度设计创新。英国政府随后在英国就业保留与晋升示范项目中，成套引入美国成熟的双重激励设计，由美国专业智库 [[MDRC]] 跨境承接分组规程设计与现场运行审计，使随机分配规程在包含留职现金奖励的复合设计中突破了单一剥夺性对照的伦理困局，成为英国社会政策史上最大规模的随机对照实验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
 ---
 
@@ -229,8 +227,8 @@ updated: 2026-10-20
 > |:-----|:-----|:-----|
 > | [[Critical Realism]] | 理论 | 批判实在论强调社会系统的分层[[Open-Mindedness\|开放性]]与深层机制，对随机分配的封闭系统假定提出哲学解构。 |
 > | [[Randomised Controlled Trials]] | 进阶设计 | 随机分配是构建真实验与随机对照试验的最核心技术操作。 |
-> | [[Random Sampling]] | 互补方法 | 随机抽样服务于样本代表性与外部效度，与服务于组间等价和内部效度的随机分配构成互补。 |
-> | [[Propensity Score Matching]] | 替代方法 | 观测研究中在可测协变量上平衡组间特征的准实验替代手段，但无法平衡未测遗漏变量。 |
+> | [[Random Sampling]] | 互补方法 | 随机抽样服务于样本代表性与[[External Validity\|外部效度]]，与服务于组间等价和[[Internal Validity\|内部效度]]的随机分配构成互补。 |
+> | [[Propensity Score Matching]] | 替代方法 | 观测研究中在可测协[[Variable\|变量]]上平衡组间特征的准实验替代手段，但无法平衡未测遗漏变量。 |
 
 ---
 
@@ -243,5 +241,5 @@ updated: 2026-10-20
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）将部分随机分配（Partial Randomization / Lotteries）应用于政府科研基金资助的[[Mechanism Experiments|机制实验]]，推动因果实验向科学治理自身的延伸。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西州 STAR 实验中师生双重真随机分配确立的强因果效应（$d = 0.62 \sim 0.66$），批评[[Meta-meta-analysis|二阶元分析]]将高质量随机实验与低质量研究无差别平均从而掩盖因果真相的方法论缺陷。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应[[Class Size|班级规模]]随机分配实验的政策争议，论证仅靠随机化调整物理班额而不变革教学方法无法带来理想的教育产出比。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 详尽剖析英国就业与养老金部（DWP）如何跨国引入美国 MDRC 研发的随机分配技术，并开展英国社会政策史上最大规模的就业保留与晋升（ERA）随机对照评估（pp. 342–343）。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 详尽剖析英国就业与养老金部（DWP）如何跨国引入美国 [[MDRC]] 研发的随机分配技术，并开展英国社会政策史上最大规模的就业保留与晋升（ERA）随机对照评估（pp. 342–343）。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "法国思想家欧内斯特·勒南提出的民族存在论核心概念。主张民族并非由种族、语言或地理等客观血缘界定的实体，而是基于历史共同牺牲的深厚记忆以及全体成员当下每日自愿联合的动态精神契约。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Everyday Plebiscite
@@ -129,7 +130,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **精神契约论** | 民族是基于历史共同牺牲与当下持续同意的宏大道德团结 | 政治哲学、民族主义理论、国家起源分析 | Renan (1882) |
-> | **共和国存续论** | 持续的公民认同确认是自由政体抵抗虚无主义与维持[[Hard Power\|硬实力]]的生命线 | 科技地缘政治、国家能力建构、现代性反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **共和国存续论** | 持续的公民认同确认是自由政体抵抗虚无主义与维持[[Hard Power\|硬实力]]的生命线 | 科技[[Geopolitics\|地缘政治]]、国家能力建构、现代性反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 
@@ -138,7 +139,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1882 — 概念诞生** [[Ernest Renan|欧内斯特·勒南]]在法德普法战争后发表演讲，提出每日公投概念以驳斥德意志基于语言与种族吞并阿尔萨斯-洛林的合法性诉求。
 > - **20世纪中后期 — 公民民族主义奠基** 成为西方自由主义政治理论对抗种族法西斯主义的核心理论武器。
-> - **2025 — 科技地缘政治与西方复兴** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重提每日公投，作为克服西方去国家化倦怠与重建科技[[Hard Power|硬实力]]的核心思想基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]
+> - **2025 — 科技[[Geopolitics|地缘政治]]与西方复兴** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重提每日公投，作为克服西方去国家化倦怠与重建科技[[Hard Power|硬实力]]的核心思想基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]
 
 ---
 

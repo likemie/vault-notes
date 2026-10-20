@@ -4,10 +4,10 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Ontology]]"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Subjectivism]]"
   - "[[Habitus]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Interpretive Paradigm]]"
   - "[[Decodification]]"
 related_methods:
@@ -35,7 +34,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Action Research]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Ethogenic Approach]]"
   - "[[Case Study]]"
 related_persons:
@@ -57,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Voluntarism
@@ -183,7 +181,7 @@ updated: 2026-10-17
 > > [!axis] 纯粹自由意志 vs 隐蔽的结构性权力支配
 > > 争论唯意志论是否过分夸大了行动者的自由度，从而掩盖了系统性的不平等。
 > >
-> > - **唯意志论与[[Phenomenology\|现象学]]倡导者** 坚信行动者始终具备赋予意义的自由，即便在最严酷的[[Disciplina and Doctrina\|规训]]机构中也能通过微观互动撕开自主空间。
+> > - **唯意志论与[[Phenomenology\|现象学]]倡导者** 坚信行动者始终具备赋予意义的自由，即便在最严酷的规训机构中也能通过微观互动撕开自主空间。
 > > - **[[Critical Theory\|批判理论]]与冲突社会学阵营（Rex, 1974; Bernstein, 1974）** 尖锐指出纯粹唯意志论是一种“自由主义幻觉”，许多所谓的自主选择实质上受到意识形态霸权与阶级权力结构的深层操纵。
 >
 > > [!axis] 微观行动赋权 vs 宏观物质资源约束
@@ -200,7 +198,7 @@ updated: 2026-10-17
 
 ## 实证数据
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8, 16–17)]] — 界定唯意志论的人性[[Ontology\|本体论]]及其与[[Determinism\|决定论]]的对立；全书在[[Ethogenic Approach\|人因取向]]、[[Case Study\|个案研究]]与[[Action Research\|行动研究]]中展开其主体性逻辑。
 
 ---

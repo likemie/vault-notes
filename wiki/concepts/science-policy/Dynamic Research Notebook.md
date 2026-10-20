@@ -9,7 +9,7 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊论文，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,14 +38,13 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Protein Data Bank]]"
-  - "[[European Research Area]]"
   - "[[Transformational AI Models Consortium]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Dynamic Research Notebook
@@ -143,7 +142,7 @@ updated: 2026-10-15
 > [!dev-timeline] 科学交流载体演变脉络
 > - **1665 — 英国皇家学会《哲学汇刊》（*Philosophical Transactions*）创刊** 奠定人类延续 360 年的静态印刷期刊论文发表与同行评审[[Paradigm|范式]]。
 > - **2014–2015 — Project Jupyter 与可计算笔记本兴起** Jupyter Notebook 等交互式计算工具在数据科学界普及，开启代码与文字混排实验。
-> - **2020s — 开放科学（Open Science）与可执行论文探索** 顶尖预印本平台（arXiv, bioRxiv）及 *eLife* 尝试“可执行研究文章（[[European Research Area|ERA]]）”试点。
+> - **2020s — 开放科学（Open Science）与可执行论文探索** 顶尖预印本平台（arXiv, bioRxiv）及 *eLife* 尝试“可执行研究文章（ERA）”试点。
 > - **2025–2026 — 白宫国家科技战略确立动态研究笔记本为下一代法定发布基准** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第六章系统解构传统学术出版，要求联邦资助项目率先推行包含数据、代码与容器沙盒的动态研究笔记本标准。
 
 ---

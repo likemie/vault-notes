@@ -6,10 +6,10 @@ summary: "芬兰著名教育学者、教育政策顾问，全球教育改革运�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1959"
 died: ""
 lifespan: "1959–至今"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Choice]]"
   - "[[Knowledge Production]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
   - "[[Performance Pay]]"
   - "[[New Managerialism]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pasi Sahlberg
@@ -95,7 +94,7 @@ updated: 2026-10-16
 > 萨尔伯格论证，真正的教育卓越绝不可能通过强化外部监视、将教师异化为打卡技工或引入跨国资本贩卖速效处方来实现。卓越源自对公立教师群体的长期信任与严格的硕士级专业培养，源自倡导校际合作而非优胜劣汰的市场淘汰，源自对处境不利群体给予倾斜性全额财政保障。新自由主义主导的[[Global Education Reform Movement|全球教育改革运动]]（GERM）所推崇的指标竞赛，实质上是将公共教育重组为可供跨国咨询巨头（如世哲、考文）进行资本变现的特许服务市场。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 
 > [!citation-card] GERM 与新自由主义[[Knowledge Production|知识生产]]的合流
-> 批判学者指出，可见学习体系正是在全球教育改革运动（GERM）的肥沃土壤中迅速滋长的。当政府盲目追求能够量化排队的数据驱动决策时，以[[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]为包装的商业咨询体系便乘虚而入，为推行标准化[[Disciplina and Doctrina|规训]]与削减公共教育开支提供了看似具备中立科学性的理论外衣。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25, citing Sahlberg, 2012)]]
+> 批判学者指出，可见学习体系正是在全球教育改革运动（GERM）的肥沃土壤中迅速滋长的。当政府盲目追求能够量化排队的数据驱动决策时，以[[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]为包装的商业咨询体系便乘虚而入，为推行标准化规训与削减公共教育开支提供了看似具备中立科学性的理论外衣。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25, citing Sahlberg, 2012)]]
 >
 > *Critical scholars demonstrate that [[Visible Learning]] flourishes precisely within the fertile soil of the Global Education Reform Movement (GERM), providing seemingly objective scientific camouflage for standardization, managerial accountability, and public austerity.*
 

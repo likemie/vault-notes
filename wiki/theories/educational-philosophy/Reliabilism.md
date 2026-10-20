@@ -6,10 +6,10 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 20
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 19
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -31,7 +31,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reliabilism
@@ -151,6 +150,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将以 Goldman 为代表的可靠主义与[[Epistemological Naturalism\|自然化认识论]]视为推动当前“[[Epistemic Cognition\|认识论认知]]”实证研究合法化的最初哲学源流。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 将关于“认知过程、合作探究和机构制度是否可靠”的评估，吸纳为个体认识论认知的重要维度。

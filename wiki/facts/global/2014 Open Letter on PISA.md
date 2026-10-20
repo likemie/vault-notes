@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Baby PISA]]"
+  - "[[Times Higher Education World University Rankings]]"
   - "[[Educational Testing Service]]"
   - "[[PISA for Development]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -97,7 +98,7 @@ updated: 2026-10-20
 > 
 > 作为未经选举产生的经济机构，经合组织在决定全球学校教育的目标与原则上缺乏民主授权……三年一次的测验循环不可避免地导致了对短期修补措施的狂热追求，这些措施旨在帮助一个国家在排名中攀升，却偏离了需要数十年才能见效的真正持久的教育改革。它将注意力集中在狭窄可测的学术能力上，牺牲了不可量化的批判思考、公民素养、艺术与体育，严重损害了学生与教师的身心福祉。（Andrews, 2014; 引自 [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 123]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 22]]）
 > 
-> *As an unelected economic agency, the OECD has no democratic mandate to determine the goals and principles of public education worldwide... The three-year assessment cycle inevitably leads to an obsession with short-term fixes designed to help a country climb the rankings, diverting attention from enduring improvements. It focuses attention on a narrow range of measurable outcomes, crowding out arts, humanities, citizenship, and deeply harming the well-being of students and teachers.*
+> *As an unelected economic agency, the OECD has no democratic mandate to determine the goals and principles of public education worldwide... The three-year assessment cycle inevitably leads to an obsession with short-term fixes designed to help a country climb [[Times Higher Education World University Rankings|the rankings]], diverting attention from enduring improvements. It focuses attention on a narrow range of measurable outcomes, crowding out arts, humanities, citizenship, and deeply harming the well-being of students and teachers.*
 
 ---
 

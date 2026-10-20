@@ -26,6 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Interaction Effect]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Empiricism]]"
   - "[[Meta-Representational Competence]]"
   - "[[Teaching Assistant]]"
@@ -61,7 +62,6 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Sample Size Determination]]"
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
   - "[[Black Box RCTs]]"
 related_persons:
   - "[[Ray Pawson]]"
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 > [!dev-timeline] 理论版本与扩展
 > - **1997 年 — Pawson & Tilley 创立理论奠基** 出版 *Realistic Evaluation*，正式提出生成性因果观与 C-M-O 核心[[Analytic Framework|分析框架]]。
-> - **2006 年 — Pawson 提出实在论综合** 出版 *Evidence-based Policy: A Realist Guide*，将实在论[[Paradigm|范式]]引入[[Systematic Review|系统综述]]领域，系统批判[[Empiricism|经验主义]]去情境化统计合并。
+> - **2006 年 — Pawson 提出实在论综合** 出版 *[[Evidence-Based Policy-Making|Evidence-based Policy]]: A Realist Guide*，将实在论[[Paradigm|范式]]引入[[Systematic Review|系统综述]]领域，系统批判[[Empiricism|经验主义]]去情境化统计合并。
 > - **2007–2011 年 — 扩展至制度变迁与政策演进领域** [[Argument_VanDerHeijden_2011_Politics|Van der Heijden 等人（2007; 2011, p. 10）]]将实在论核心命题拓展为“对谁而言、在何种情境下构成了何种变迁”（what is change, for whom, and in what context?），指出变迁定性取决于观察者的制度位置与考察时间尺度，为化解[[Historical Institutionalism|历史制度主义]]中激进断裂与渐进演进的理论对立提供了实在论方法学解法。
 > - **2008 年 — 英国医学研究理事会（[[Meta-Representational Competence|MRC]]）复杂干预指南** 英国医学研究理事会（Craig et al., 2008）明确复杂干预必须深入因果机制，提出区分实施失败与理论无效的核心原则。
 > - **2012 年 — Bonell 等人倡导现实主义试验（Realist Trials）** 在 *Social Science & Medicine* 提出将[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）与现实主义评估融合，倡导多臂[[Factorial Design|析因设计]]、中介路径分析与跨情境多次试验。

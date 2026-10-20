@@ -9,7 +9,7 @@ aliases:
 summary: "指慈善捐助者不以直接提供社会救济或维持日常运营为目的，而是将私营资本作为政策杠杆与催化剂，以撬动公共财政配资、重塑国家法定教育议程、推销因果循证量规并孵化新型中介实体为核心诉求的策略性慈善范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Policy Network]]"
   - "[[Deductible Gift Recipient]]"
@@ -39,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Matching]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Catalytic Philanthropy
@@ -141,7 +139,7 @@ updated: 2026-10-16
 > 探讨催化慈善如何将因果实证指标作为技术工具，把教育育人简化为投入产出测算，从而侵蚀一线教师的[[Professional Judgment\|专业判断]]。
 
 > [!claim] Tompkins-Stange, M. (2016); [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
-> **量规[[Disciplina and Doctrina\|规训]]与[[Teacher Professional Agency\|教师专业自主权]]的剥夺** 催化慈善极其强调“以证据为基础”（Evidence-based），但其所界定的证据严格受限于量化产出、测试分数与[[Return on Investment\|投资回报率]]。通过资助建立证据经纪中介，催化慈善向学校系统倾销标准化的干预工具包，迫使公立学校教师放弃立足本土复杂情境的专业判断，沦为执行外部商业证据指标的技术工人。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
+> **量规规训与[[Teacher Professional Agency\|教师专业自主权]]的剥夺** 催化慈善极其强调“以证据为基础”（Evidence-based），但其所界定的证据严格受限于量化产出、测试分数与[[Return on Investment\|投资回报率]]。通过资助建立证据经纪中介，催化慈善向学校系统倾销标准化的干预工具包，迫使公立学校教师放弃立足本土复杂情境的专业判断，沦为执行外部商业证据指标的技术工人。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
 
 ---
 
@@ -192,7 +190,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 深入解构 [[Social Ventures Australia\|SVA]] 如何践行[[Bill & Melinda Gates Foundation|盖茨基金会]]的“以证据为基础的催化慈善”模型，在澳大利亚公共教育中撬动国家设立三大中介。
 > - Kramer, M. R. (2009) — 奠基之作，系统提出并阐释“催化慈善”的概念[[Paradigm\|范式]]与实践原则。
 > - Reckhow, S. (2013) — 实证考察催化慈善在纽约与洛杉矶学校改革中的资金流动与权力网络。

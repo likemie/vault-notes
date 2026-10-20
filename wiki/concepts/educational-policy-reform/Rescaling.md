@@ -9,7 +9,7 @@ aliases:
 summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规约权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度并非天然给定的物理容器，而是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Assemblage]]"
 related_theories:
   - "[[Path Dependence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Susan L. Robertson]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Rescaling
@@ -169,7 +168,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage\|装配理论]]，系统考察德国教育监测中[[Data Infrastructure\|数据基础设施]]驱动的跨尺度政策重组。
 > - Brenner (2004) — 开创国家空间尺度重组理论，系统论证资本主义全球化下的国家空间再造。
 > - Robertson and Dale (2015) — 运用尺度重组视角分析全球教育政策空间的层级结构与生成机制。

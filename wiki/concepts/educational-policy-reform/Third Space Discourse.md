@@ -8,7 +8,7 @@ aliases:
 summary: "在教育研究-实践伙伴关系（RPP）与证据治理中，指大学研究者与学校一线实践者在跨界交往中形成的一种超越传统象牙塔学术话语与日常教学经验话语二元对立的杂合型公共沟通体系；该机制明确承认并包容两类群体的专业异质性与价值差异，拒绝单向强行同化，通过平等研讨场域实现协同问题界定、概念情境化重构与循证教学改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Dirk Van Damme]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Third Space Discourse
@@ -220,5 +219,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 普勒茨在第十章第五节系统阐述了第三空间[[Discourse|话语]]的六项结构性主张与瑞典 ULF 试点的实证评估发现。

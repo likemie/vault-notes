@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学源流中考证教育思想、制度与实践跨国界、跨时空流动与相互塑形的实证探究传统，借鉴比较文学方法，为前建制期功利性描述与现代政策借用确立认识论合法性。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Val D. Rust]]"

@@ -8,7 +8,7 @@ summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,8 +36,7 @@ related_theories:
   - "[[Behaviorism]]"
   - "[[Structural Functionalism]]"
   - "[[Rational Action Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[James Mahoney]]"

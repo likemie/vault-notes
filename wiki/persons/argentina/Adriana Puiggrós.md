@@ -30,8 +30,8 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[Popular Education]]"
   - "[[Whiggism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Educational Privatisation]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
   - "[[Critical Pedagogy]]"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Adriana Puiggrós
@@ -101,9 +101,9 @@ updated: 2026-10-17
 > - **1970–1980 年代 — 流亡时期的教育反帝国主义与历史唯物主义** 剖析美帝国主义与跨国基金会对拉美教育政策的意识形态控制。
 >   - **代表著作** *Imperialismo y educación en América Latina*（1980）；*La [[Popular Education|educación popular]] en América Latina*（1984）。
 >   - **关键概念／方法** [[Popular Education|民众教育]]、霸权机制、历史-比较方法。
->   - **阶段转向** 突破传统[[Whiggism|辉格史观]]与自由主义建国神话，系统揭示拉美正规学校在[[Disciplina and Doctrina|规训]]底层、服务寡头依附经济中的实质功能。
+>   - **阶段转向** 突破传统[[Whiggism|辉格史观]]与自由主义建国神话，系统揭示拉美正规学校在规训底层、服务寡头依附经济中的实质功能。
 > - **1990 年代至今 — 新自由主义批判与[[Pedagogical Subject|教育主体]]的保卫** 聚焦新自由主义结构调整、[[Educational Privatisation|教育私有化]]对民主公民身份的侵蚀。
->   - **代表著作** *Sujetos, disciplina y curriculum en los orígenes del sistema educativo argentino*（1990）；*The State and Public Education in Latin America*（with C. A. Torres, 1995/2007）。
+>   - **代表著作** *Sujetos, [[Disciplina and Doctrina|disciplina]] y curriculum en los orígenes del sistema educativo argentino*（1990）；*The State and Public Education in Latin America*（with C. A. Torres, 1995/2007）。
 >   - **关键概念／方法** 教育主体（Pedagogical Subjects）、[[Educational Privatisation|教育私有化]]、国家撤资。
 >   - **阶段转向** 从纯粹的历史制度批判转向国家政治哲学批判，深入剖析市场逻辑如何将[[Reflexivity|反思性]]公民退化为教育消费个体。
 

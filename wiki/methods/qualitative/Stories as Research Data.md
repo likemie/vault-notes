@@ -5,7 +5,7 @@ summary: "将故事和叙事作为教育研究证据来源的方法，故事是�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -23,13 +23,12 @@ related_methods:
   - "[[Ex Post Facto Research]]"
   - "[[Action Research]]"
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-23
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 # Stories as Research Data
 
@@ -120,5 +119,5 @@ updated: 2026-10-15
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将故事与访谈并列为研究证据来源，介绍 Bauman（1986）的定义、Bruner（1986）的理论基础、Thody（1997）的方法论定位，以及分类编码、主题化和概念建构三种分析方法。

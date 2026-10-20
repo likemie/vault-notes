@@ -10,7 +10,7 @@ aliases:
 summary: "比较社会科学与比较教育学中的核心认识论与方法论困境，指出跨国比较的分析单位深嵌于异质的历史脉络与制度文化中，表面相同的教育指标具有截然不同的社会功能与价值意涵，决定了比较研究无法套用实验室控制干预，必须以自然情境观察与质性情境化为依托。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_theories:
 related_methods:
   - "[[Measurement Invariance]]"
   - "[[Item Response Theory]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Neil Smelser]]"

@@ -5,7 +5,7 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Culturalisation of Politics
@@ -163,5 +162,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 详细剖析了香港通过[[Citizenship and Social Development\|公社科]]实施“政治的文化化”治理的经验表现，并揭示了双轨文化博展机构的政治协同作用。

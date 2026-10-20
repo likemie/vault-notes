@@ -23,12 +23,12 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[International Education]]"
+  - "[[Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Geopolitical Subject]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fulbright Program
@@ -56,13 +56,13 @@ updated: 2026-10-16
 
 富布莱特计划（Fulbright Program）是全球规模最大、影响力最广的[[International Education|国际教育]]交流项目之一。其核心机制是通过资助美国公民赴海外和外国公民赴美进行学习、研究和教学，促进跨文化理解。该计划由美国国务院教育和文化事务局资助和管理，至今已覆盖超过 160 个国家和地区。
 
-从地缘政治视角来看，富布莱特计划代表了冷战时期高等教育国际合作的一种典型模式：在促进学术交流和文化理解的外交辞令之下，实质上是将高等教育打造为推广特定意识形态和培养亲美政治主体的关键渠道。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6)]]
+从[[Geopolitics|地缘政治视角]]来看，富布莱特计划代表了冷战时期高等教育国际合作的一种典型模式：在促进学术交流和文化理解的外交辞令之下，实质上是将高等教育打造为推广特定意识形态和培养亲美政治主体的关键渠道。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6)]]
 
 ---
 
 ## 地缘政治分析
 
-> [!claim] 作为地缘政治工具的富布莱特计划
+> [!claim] 作为[[Geopolitics|地缘政治]]工具的富布莱特计划
 > 在冷战时期，美国将富布莱特计划当作一项重要的地缘政治工具，力图通过跨文化的国际学生培养项目传播美国的文化价值观，培养亲美政治主体，以消除苏联的威胁，从而服务国家安全战略（Brooks, 2015）。在此意义上，人的身体成了用于政府和地缘政治目的的资源，而教育成了国防政策中的工具性和物质力量。[[Internationalization of Higher Education\|高等教育国际化]]——包括在外的国际化（国际学生交流等）和在地区国际化（跨文化项目等）——实质上体现了一种"地缘政治化的国际主义"（Brooks, 2015）。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 5–6)]]
 
 > [!claim] 人的培养与[[Geopolitical Subject\|地缘政治主体]]性的生产
@@ -72,5 +72,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 在"人的培养"论证步骤（论证步骤三）中将富布莱特计划作为政府层面[[Geopolitical Subject\|地缘政治主体]]生产的典型案例，分析其如何通过国际学生培养传播美国价值观和培养亲美政治主体。

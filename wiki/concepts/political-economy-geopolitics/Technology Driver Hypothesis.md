@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪80年代半导体产业界与政策界的主导信条，主张大宗标准化存储芯片（DRAM）的大规模制造是掌握先进微细加工工艺与设备良率学习不可或缺的技术驱动载体；90年代被微观晶圆厂实证标杆数据证伪。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories:
 related_methods:
   - "[[Statistical Process Control]]"
   - "[[Industrial Benchmarking]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"

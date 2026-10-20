@@ -27,21 +27,21 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Brokerage]]"
   - "[[Scaffolding]]"
   - "[[Reflexivity]]"
   - "[[Sociology of Valuation and Evaluation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Digital Self]]"
   - "[[Construct]]"
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Wendy Espeland
@@ -94,7 +94,7 @@ updated: 2026-10-16
 >   - **代表著作** *The Struggle for Water: Politics, Rationality, and Identity in the American Southwest* (1998); *Commensuration as a Social Process* (1998, with M. L. Stevens)。转引自 [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
 >   - **关键概念／方法** 通约化（Commensuration）、制度理性、质性[[Case Study\|案例研究]]。
 >   - **阶段转向** 突破传统经济学将度量视作中立信息收集工具的[[Positivism\|实证主义]]假定，开辟将度量本身视为社会互动与权力建构过程的社会学视阈。
-> - **2000–2010年代 — 排名、问责制与反应性动力学** 转向高等教育与专业领域的定量问责制，追踪法学院 rankings 对院系招生、预算分配、教学实践与学生心理的深度[[Disciplina and Doctrina\|规训]]。
+> - **2000–2010年代 — 排名、问责制与反应性动力学** 转向高等教育与专业领域的定量问责制，追踪法学院 rankings 对院系招生、预算分配、教学实践与学生心理的深度规训。
 >   - **代表著作** *Rankings and Reactivity: How Public Measures Recreate Social Worlds* (2007, with M. Sauder); *Engines of Anxiety: Academic Rankings, Reputation, and Accountability* (2016)。转引自 [[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 797)]]
 >   - **关键概念／方法** 反应性（Reactivity）、自证预言（Self-Fulfilling Prophecy）、硬指标焦虑。
 >   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为异化的闭环反馈机制解剖。
@@ -127,10 +127,10 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论路径** 极大地拓展了评价与[[Sociology of Valuation and Evaluation\|评估社会学]]（Sociology of Valuation and Evaluation）和科学知识社会学（SSK），与西奥多·波特（Theodore M. Porter）并列为当代量化社会学（Sociology of Quantification）的奠基学派。
 > - **方法路径** 倡导将定量度量指标本身作为质性社会学与制度[[Ethnography\|民族志]]的研究对象，开创了剖析排名算法、指标编制逻辑与行政填表行为的[[Reflexivity\|反身性]]研究方法。
-> - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织循证决策中的数字修辞。
+> - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织[[Evidence-Based Policy-Making|循证决策]]中的数字修辞。
 > - **跨国／跨领域传播** 思想跨越高等教育、医疗政策、环境治理与法律经济学，成为全球批判数据主义（Critical Data Studies）与算法问责研究的核心理论资源。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。

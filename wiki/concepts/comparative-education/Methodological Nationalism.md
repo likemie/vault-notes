@@ -21,6 +21,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Classical Geopolitics]]"
+  - "[[Geopolitics]]"
   - "[[Unit of Analysis]]"
   - "[[International Education]]"
   - "[[Open Method of Coordination]]"
@@ -48,7 +49,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
   - "[[Doreen Massey]]"
@@ -94,7 +94,7 @@ updated: 2026-10-20
 > *“the belief that the nation/state/society is the natural social and political form of the modern world”*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治是方法论民族主义在地缘政治分析中的具体体现：以民族国家为唯一行动者，以领土边界划定“内部/外部”。但二者不完全等同——方法论民族主义是更一般的认识框架，古典地缘政治是其在国际关系领域的特定应用。
+> - 不等于 [[Classical Geopolitics\|古典地缘政治]] — 古典[[Geopolitics|地缘政治]]是方法论民族主义在地缘政治分析中的具体体现：以民族国家为唯一行动者，以领土边界划定“内部/外部”。但二者不完全等同——方法论民族主义是更一般的认识框架，古典地缘政治是其在国际关系领域的特定应用。
 > - 不等于 规范性民族主义（Normative Nationalism） — 方法论民族主义是一种关于“如何看待世界”的认识框架与分析预设，而规范性民族主义是关于“偏好某一国家”的价值立场与意识形态。二者不等同，但倾向于相互强化（Beck, 2007），被合称为“方法论与规范性民族主义的共谋”。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]]
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-10-20
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
-> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于[[Geopolitics|地缘政治]]和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -241,7 +241,7 @@ updated: 2026-10-20
 > - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 
 > [!warning] 适用局限
-> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
+> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对[[Geopolitics|地缘政治]]权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 
 ---
 

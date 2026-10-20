@@ -7,7 +7,7 @@ aliases:
 summary: "指将教学职业从技术性执行者重塑为以学术探究、循证审议与反思性实践为核心特征的高阶专业形态；主张教师必须具备对学术研究的批判性解读与情境化运用能力（Research Literacy），并通过职前教育、系统性持续专业发展（CPD）以及大学-学校伙伴关系的生态支持，将高质量研究证据内嵌于日常教学决策与专业身份认同之中。"
 type: concept
 domain: "teacher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Research-Engaged School]]"
   - "[[Unit of Analysis]]"
+  - "[[Professional Capital]]"
   - "[[Evidence Ecosystem]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research-Rich Teaching Profession
@@ -89,7 +90,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 研究充实型教学专业的三大支柱
-> - **探究性专业资本（Inquiry-Oriented Professional Capital）** 教师不仅掌握学科教学法，更具备识别、评估、批判性审读学术研究报告的[[Research Literacy\|研究素养]]，能将外部证据与特定学情有效整合。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 134)]]
+> - **探究性[[Professional Capital|专业资本]]（Inquiry-Oriented Professional Capital）** 教师不仅掌握学科教学法，更具备识别、评估、批判性审读学术研究报告的[[Research Literacy\|研究素养]]，能将外部证据与特定学情有效整合。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 134)]]
 > - **贯通式专业发展阶梯（Continuum of Teacher Professional Learning）** 将研究参与贯穿职前培养、入职职初指导（Induction）及整个在职发展周期，克服孤立分散、缺乏连贯性的短期碎片化培训。
 > - **协同性共生生态系统（Collaborative [[Evidence Ecosystem]]）** 建立大学科研人员、教研员与中小学骨干教师之间的常态化伙伴关系，打破象牙塔学术生产与课堂实践经验的壁垒。
 

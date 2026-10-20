@@ -7,7 +7,7 @@ summary: "法国著名哲学家、人类学家与科学社会学家，科学技�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Network Ethnography]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Jason Beech]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bruno Latour
@@ -138,7 +137,7 @@ updated: 2026-10-16
 > - **教育政策与比较教育路径** 深刻启发了批判政策社会学：学者借用其“[[Center of Calculation\|计算中心]]”与“不变移动物”解构国际组织测评（[[PISA]]）与国家数据监测（[[Vergleichsarbeiten\|VERA]]）的[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Klerides_2023_CE\|Klerides, 2023]]）；借用其“互客体性”与耐用材料装配解构国家[[Educational Brokerage Agency\|证据中介机构]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）与数字课堂硬件规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 > - **跨国／跨领域传播** 思想广泛辐射至建筑学、生态学、法学、人类学与管理学，并在全球学术界引发对非人类能动性的广泛探讨。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合拉图尔的计算中心与[[Topological Spatialisation\|拓扑空间]]理论，分析德国教育质量监测[[Data Infrastructure\|数据基础设施]]如何实现跨尺度的远处治理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 借用拉图尔互客体性与耐用材料装配理论，解构澳大利亚国家证据中介（[[Australian Education Research Organisation\|AERO]]）背后的非公立权力渗透。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用拉图尔 [[Actor-Network Theory\|ANT]] 与非人类能动性概念，剖析阿根廷国家数字化项目中微观硬件对课堂教学秩序的直接建构。

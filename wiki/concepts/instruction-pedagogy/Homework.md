@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Cultural Capital]]"
   - "[[Teaching Assistant]]"
@@ -58,7 +57,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Process Tracing]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -77,6 +75,7 @@ related_arguments:
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
   - "[[Adrian Simpson]]"
   - "[[Herbert Walberg]]"
   - "[[Ivan Snook]]"
@@ -216,7 +215,7 @@ updated: 2026-10-20
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **20 世纪初至中叶 — [[Disciplina and Doctrina|规训]]心智操练论与惩罚工具** 家庭作业长期被视作训练儿童意志力、服从权威与惩治违纪的道德惩戒手段，缺乏明确的认知建构设计。
+> - **20 世纪初至中叶 — 规训心智操练论与惩罚工具** 家庭作业长期被视作训练儿童意志力、服从权威与惩治违纪的道德惩戒手段，缺乏明确的认知建构设计。
 > - **冷战与 1960 年代 — [[Competitiveness|国家竞争力]]与学科知识强化** 随着人造卫星危机（[[Sputnik Shock 1957|Sputnik]] Crisis）爆发，家庭作业被迅速政治化，演变为提升数学与科学国家学术竞争力的硬性教学指标。
 > - **1980–2000 年代初 — 早期量化[[Meta-analysis|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与[[Herbert Walberg|沃尔伯格]]（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
 > - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis|元综合]]反思与[[Construct|构念]][[Heterogeneity|异质性]]批判** [[John Hattie|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size|效应量]]的方法学大反思：[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；[[Ivan Snook|斯努克]]等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。

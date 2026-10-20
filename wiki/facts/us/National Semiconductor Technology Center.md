@@ -42,14 +42,14 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Return on Investment]]"
   - "[[Market Failure]]"
+  - "[[Geopolitics]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public-Private Partnership]]"
   - "[[Construct]]"
   - "[[Innovation Hub]]"
   - "[[Academic Engagement]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -173,7 +173,7 @@ updated: 2026-10-20
 > > - **公私共治辩护** 指出 [[National Science and Technology Council|NSTC]] 设立 [[Natcast]] 独立实体并设立工业界顾问委员会，正是为了实现“国家战略指引 ＋ 产业真实需求驱动”的动态平衡。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
 >
 > > [!axis] 国际学术开放交流 vs 国家安全技术封锁壁垒
-> > 在地缘政治紧张加剧背景下，讨论 NSTC 资助的前沿研究是否应限制外国留学生与国际企业参与。
+> > 在[[Geopolitics|地缘政治]]紧张加剧背景下，讨论 NSTC 资助的前沿研究是否应限制外国留学生与国际企业参与。
 > >
 > > - **开放科学阵营** 强调美国半导体基础科研领导力高度依赖全球顶尖国际人才，过度严苛的安全审查与国籍壁垒将严重扼杀大学科研生态的活力。
 > > - **国家安全阵营** 坚持先进制程与封装技术直接关涉现代防务与人工智能底座，必须实施严格的知识产权隔离与受控技术访问管制。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21, 27)]]

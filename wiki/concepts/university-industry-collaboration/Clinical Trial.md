@@ -10,7 +10,7 @@ aliases:
 summary: "以人为研究对象、按预设试验方案分阶段评估新药、医疗器械或前沿疗法安全性、有效性与风险收益比的前瞻性干预研究。在产学合作中构成生物医药领域资金体量最大、规制约束最严苛的转化载体；当代规制科学正通过接受真实世界证据、推行单项高统计效力确证性研究、设立受控监管沙盒以及搭建公私伙伴加速平台重塑临床试验范式。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"

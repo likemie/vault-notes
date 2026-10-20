@@ -26,6 +26,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Technological Catch-up]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Emergence]]"
 related_theories:
@@ -33,7 +34,6 @@ related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
@@ -156,7 +156,7 @@ updated: 2026-10-20
 > - **1950s — 军械制造时代的起源** 最早应用于战时常规武器弹药生产，确保弹药标准统一与兵工厂多点备份。
 > - **1960s — 硅谷微电子革命的关键催化** 美国空军在民兵导弹计划中全面推行第二货源条款，迫使德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron 等企业互相交叉许可集成电路工艺，奠定了硅谷早期的技术流动网络。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 > - **1970s–1980s — 微处理器时代的商业化衍生** 从军品采购规制演变为半导体商业竞争策略（例如 IBM 在采购个人电脑 CPU 时强制要求英特尔将 x86 架构授权给 AMD 作为第二货源，从而直接扶植起长达数十年的 x86 双寡头竞争格局）。
-> - **1990s–至今 — 现代供应链韧性与科技政策反思** 在地缘政治博弈与全球芯片断链风险下，第二货源理念重新被美欧政府纳入战略供应链法案（如《[[CHIPS and Science Act|芯片法案]]》关于关键先进制程备份生产的要求）。
+> - **1990s–至今 — 现代供应链韧性与科技政策反思** 在[[Geopolitics|地缘政治]]博弈与全球芯片断链风险下，第二货源理念重新被美欧政府纳入战略供应链法案（如《[[CHIPS and Science Act|芯片法案]]》关于关键先进制程备份生产的要求）。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "competency-and-assessment"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 related_arguments:
@@ -60,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Self-Regulated Learning
@@ -227,6 +226,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis\|元分析]]显示自我调节学习能力显著调节生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的效应：高自律学生 g = 0.863，低自律学生仅 g = 0.284。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。

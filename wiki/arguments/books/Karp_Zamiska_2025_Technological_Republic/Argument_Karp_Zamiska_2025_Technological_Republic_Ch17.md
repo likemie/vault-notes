@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_display_title: "“The Next Thousand Years”"
 argument_kind: "book-chapter"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Determinism]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Great Man Theory]]"
@@ -299,7 +300,7 @@ updated: 2026-10-20
 > > 面对纳粹罪行的严重历史教训，公开反思历史是防范极端主义复苏的宪政基石；任何弱化大屠杀记忆或将其视作道德负担的倾向，都必须予以严厉警惕。
 
 > [!implication]- 压制国家认同对欧洲防卫意志与威慑能力的负面影响
-> 瓦尔泽-布比斯之争展示了历史记忆与现实生存之间的深刻张力：二战后彻底铲除军国主义是完全必要的，但欧洲在战后如果彻底压制任何形式的国家认同与集体自尊，将带来严重的地缘政治后果——它会削弱欧洲保护自身文明秩序的意志，使其难以建立起应对外部安全威胁的有效军事威慑力与[[Hard Power|硬实力]]（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, p. 204]]）。
+> 瓦尔泽-布比斯之争展示了历史记忆与现实生存之间的深刻张力：二战后彻底铲除军国主义是完全必要的，但欧洲在战后如果彻底压制任何形式的国家认同与集体自尊，将带来严重的[[Geopolitics|地缘政治]]后果——它会削弱欧洲保护自身文明秩序的意志，使其难以建立起应对外部安全威胁的有效军事威慑力与[[Hard Power|硬实力]]（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, p. 204]]）。
 > 放弃共同体团结与国家使命，将损害文明在长期历史中的生存能力；未来的发展属于那些敢于确立崇高共同体理想并为之坚毅奋斗的实干共和国（p. 204）。
 
 ---

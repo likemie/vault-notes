@@ -19,11 +19,11 @@ tags:
   - "region/global"
 related_concepts:
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Nikolas Rose]]"
 related_facts:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Asymmetric Brain Circulation
@@ -94,7 +94,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1960s–1980s — 单向人才流失（Brain Drain）** 学术界主要关注发展中国家单向流往发达国家的智力流失危机，视人才流动为零和博弈。
 > - **1990s–2000s — 开放式人才循环（Brain Circulation）** 经济全球化下，学界提出人才循环模型，认为学者在多国间的双向流动能促进技术扩散，形成多赢局面。
-> - **2010s 至今 — 地缘限制与非对称失衡** 随着地缘政治逆全球化和部分国家学术环境收紧，学者发现人才循环并非天然对等，非对称人才循环成为解释后发国家在面临外部限制与内部规制时，引智质量下滑和指标注水的核心分析透镜。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 40–42]])
+> - **2010s 至今 — 地缘限制与非对称失衡** 随着[[Geopolitics|地缘政治]]逆全球化和部分国家学术环境收紧，学者发现人才循环并非天然对等，非对称人才循环成为解释后发国家在面临外部限制与内部规制时，引智质量下滑和指标注水的核心分析透镜。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 40–42]])
 
 ---
 
@@ -124,5 +124,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。

@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
-  - "[[Mind Mapping]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -117,7 +116,7 @@ sources:
 > | **[[Professional Learning Community\|专业学习共同体五要素]]**<br>PLC Five-Element Model | 强调以学生实际学习成效为成功条件的专业发展，倡导去私密化教学、[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]与深度协作。（pp. 18–19） |
 
 > [!warrant]- 理论如何支撑论证
-> 论证将社会组织理论、心理测量学与课堂教学论紧密咬合：首先以方差分解从统计学层面确立教师是教育系统可控的最大杠杆，进而指出唯有将评价数据转化为教师能够理解且认同的形成性进阶坐标，数据才能穿透教室大门；最后以专业学习共同体作为微观组织载体，确保证据能够挑战教师既有[[Mind Mapping\|心智图]]式并带来持续的教学重构。（pp. 13–19）
+> 论证将社会组织理论、心理测量学与课堂教学论紧密咬合：首先以方差分解从统计学层面确立教师是教育系统可控的最大杠杆，进而指出唯有将评价数据转化为教师能够理解且认同的形成性进阶坐标，数据才能穿透教室大门；最后以专业学习共同体作为微观组织载体，确保证据能够挑战教师既有心智图式并带来持续的教学重构。（pp. 13–19）
 
 ---
 

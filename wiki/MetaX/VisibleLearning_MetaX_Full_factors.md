@@ -1,4 +1,4 @@
-﻿# Visible Learning MetaX — Influences and Meta-Analyses
+﻿# [[Visible Learning Meta-X|Visible Learning MetaX]] — Influences and Meta-Analyses
 
 ## Meta-analyses by influence
 
@@ -6,14 +6,14 @@
 
 - Detail page: https://www.visiblelearningmetax.com/influences/view/emotions
 - Domain: Student / Emotions
-- Weighted mean effect size: 0.5
-- Meta-analysis rows: 4
+- Weighted mean [[Effect Size|effect size]]: 0.5
+- [[Meta-analysis]] rows: 4
 
-| Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
+| Journal Title | Author | Article Name | Year Published | [[Variable]] | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Social Behavior and Personality | Lei & Cui | Effects of Academic Emotions on Achievement among Mainland Chinese Students: A Meta-Analysis | 2016 | Positive academic emotions | 35 | 17,548 | 35 | 0.66 |
 | Journal of Adolescence | Riglin, Petrides, Frederickson, & Rice | The Relationship between Emotional Problems and Subsequent School Attainment: A Meta-Analysis | 2014 | (No) emotional problems | 26 | 24,353 | 35 | 0.12 |
-| Korean Journal of Educational Psychology | Kim & Cho | A Meta-Analysis of the Relationship between Achievement Emotions and Academic Achievement | 2015 | Positive emotions | 26 | NA | 26 | 0.54 |
+| Korean Journal of Educational Psychology | Kim & Cho | A Meta-Analysis of the Relationship between Achievement Emotions and [[Academic Achievement]] | 2015 | Positive emotions | 26 | NA | 26 | 0.54 |
 | Journal of Mathematics Education | Wang & Wu | A meta-analysis of the relationship between academic emotions and mathematics achievement. | 2023 | Emotions on math | 28 | 61,538 | 69 | 0.63 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 115 | 103,439 | 165 | 0.49
@@ -30,7 +30,7 @@
 | Learning and Individual Differences | Perera & DiGiacomo | The relationship of trait emotional intelligence with academic performance: A meta-analytic review | 2013 | Emotional intelligence | 48 | 10,292 | 74 | 0.41 |
 | Learning and Individual Differences | Voltmer & von Salisch | Three meta-analyses of children's emotion knowledge and their school success | 2017 | Emotional knowledge | 49 | 6,903 | 84 | 0.68 |
 | Psychological Bulletin | MacCann, Jiang, Brown, Double, Bucich, & Minbashian | Emotional Intelligence predicts academic performance: A meta-analysis. Psychological Bulletin. | 2019 | Emotional intelligence | 162 | 42,529 | 188 | 0.41 |
-| Annals of Psychology | Puertas-Molero, Zurita-Ortega, Chacón-Cuberos, Castro-Sánchez, Ramírez-Granizo, & Gonzalex-Valero | Emotional intelligence in the field of education: a meta-analysis | 2020 | Emotional intelligence | 4 | NA | 20 | 0.18 |
+| Annals of Psychology | Puertas-Molero, Zurita-Ortega, Chacón-Cuberos, Castro-Sánchez, Ramírez-Granizo, & Gonzalex-Valero | Emotional intelligence in the [[Champ\|field]] of education: a meta-analysis | 2020 | Emotional intelligence | 4 | NA | 20 | 0.18 |
 | American Journal of Education | Manimozhi & Srinivasan | Emotional Intelligence and academic achievement | 2018 | Emotional intelligence | 25 | 6,683 | 20 | 0.85 |
 | Journal Pendidikan Progresif | Martaputri, Muhtadi, Hukom, & Samal | The Correlation between Emotional Intelligence and Academic Achievement: A Meta Analysis Study | 2021 | Emotional intelligence | 20 | 5,737 | 20 | 0.61 |
 | Developmental Neuropsychology | Somaa, Asghar & Hamid | Academic Performance and Emotional Intelligence with Age and Gender as Moderators: A Meta-analysis | 2021 | Emotional intelligence | 161 | 43,630 | 1,357 | 0.30 |
@@ -38,7 +38,7 @@
 | International Journal of Instruction | Kalan, Mohammad, Avarsin, & Najafi | A meta-analysis of the relationship between emotional intelligence and academic achievement in Persian speakers databases. | 2018 | Emotional intelligence | 18 | NA | 18 | 0.95 |
 | International Journal of Research and Innovation in Social Science | Emaikwu | Meta-analysis of effect size statistic on the relationship between emotional intelligence and academic achievement in North Central Nigeria | 2021 | Emotional intelligence | 29 | 9,613 | 29 | 1.35 |
 | Education Sciences | Quílez-Robres, Moyano, & Cortés-Pascual | Motivational, Emotional, and Social Factors Explain Academic Achievement in Children Aged 6–12 Years: A Meta-Analysis. | 2021 | Emotional | 12 | 3,931 | 12 | 0.35 |
-| BMC Medical Education | Zhou, Tavan, Kavarizadeh, Sarokhani, & Sayehmori | The relationship between emotional intelligence, spiritual intelligence, and student achievement: A systematic review and meta-analysis. | 2024 | Emotional intelligence | 27 | 5,504 | 27 | 1.15 |
+| BMC Medical Education | Zhou, Tavan, Kavarizadeh, Sarokhani, & Sayehmori | The relationship between emotional intelligence, spiritual intelligence, and student achievement: A [[Systematic Review\|systematic review]] and meta-analysis. | 2024 | Emotional intelligence | 27 | 5,504 | 27 | 1.15 |
 | International Journal of Instruction | Muhtadi, Pujiriyanto, Syafruddin, Hukom, & Samal | A meta analysis: Emotional intelligence and its effect on mathematics achievement. | 2022 | Emotional intelligence | 36 | 2,376 | 36 | 0.65 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 614 | 141,841 | 1,908 | 0.63
@@ -97,7 +97,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| The Journal of Creative Behavior | Schutte & Malouff | A meta-analysis of the relationship between curiosity and creativity | 2020 | Curiosity on creativity outcomes | 10 | 2,692 | 10 | 0.90 |
+| The Journal of Creative Behavior | Schutte & Malouff | A meta-analysis of the relationship between curiosity and [[Creativity\|creativity]] | 2020 | Curiosity on creativity outcomes | 10 | 2,692 | 10 | 0.90 |
 | Learning and Instruction | Loderer, Pekrun, & Lester | Beyond cold technology: A systematic review and meta-analysis on emotions in technology-based learning environments. | 2020 | Curiosity | 5 | 638 | 8 | 0.41 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 15 | 3,330 | 18 | 0.66
@@ -146,9 +146,9 @@
 | Studies in Second Language Acquisition | Teimouri, Goetze, & Plonsky | Second language anxiety and achievement: A meta-analysis. | 2019 | Anxiety on L2 learning | 97 | 1,933 | 105 | -0.77 |
 | Journal of School Psychology | Fishstrom, Wang, Bhat, Daniel, Dille, Capin, & Vaughn | A meta-analysis of the effects of academic interventions on academic achievement and academic anxiety outcomes in elementary school children. | 2022 | Anxiety reduction | 13 | 1,545 | 13 | 0.63 |
 | Educational Research Review | Fong, Krou, Johnston-Ashton, Hoff, Lin, & Gonzales | LASSI's great adventure: A meta-analysis of the Learning and Study Strategies Inventory and academic outcomes | 2021 | Anxiety | 179 | 71,852 | 268 | 0.32 |
-| Conference paper | Dong & Chiu | Foreign language anxiety and foreign language self-efficacy: A meta-analysis | 2023 | Foreign language anxiety | 48 | 29,273 | 54 | -1.06 |
+| Conference paper | Dong & Chiu | Foreign language anxiety and foreign language [[Self-Efficacy\|self-efficacy]]: A meta-analysis | 2023 | Foreign language anxiety | 48 | 29,273 | 54 | -1.06 |
 | Reading and Writing | Li | Foreign language reading anxiety and its correlates: A meta-analysis. | 2021 | Foreign language anxiety | 18 | 2,792 | 18 | -1.48 |
-| Development and Psychopathology | Brumariu, Waslin, Gastelle, Kochendorfer, & Kerns | Anxiety, academic achievement, and academic self-concept: Meta-analytic syntheses of their relations across developmental periods. | 2022 | Anxiety on achievement | 156 | 37,203 | 156 | -0.12 |
+| Development and Psychopathology | Brumariu, Waslin, Gastelle, Kochendorfer, & Kerns | Anxiety, academic achievement, and [[Academic Self-Concept\|academic self-concept]]: Meta-analytic syntheses of their relations across developmental periods. | 2022 | Anxiety on achievement | 156 | 37,203 | 156 | -0.12 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 811 | 300,359 | 1,770 | -0.41
 
@@ -172,7 +172,7 @@
 | Pamukkale Üniversitesi Egitim Fakültesi Dergisi | Bayirli, Gecici, & Erdem | Matematik Kaygisi ile Matematik Basarisi Arasindaki Iliski: Bir Meta-Analiz Çalismasi. | 2021 | Math anxiety and math achievement | 29 | 25,704 | 29 | -0.78 |
 | Frontiers in Psychology | Zhang, Zhao, & Kong | The relationship between math anxiety and math performance: A meta-analytic investigation. Frontiers in psychology, 10, 1613. | 2019 | Anxiety | 49 | NA | 49 | -0.63 |
 | AIP Conference Proceedings | Tawaldi, Nurlaelah, Juandi, & Suparman | Is mathematics anxiety related to mathematics learning outcome? A meta-analysis. | 2023 | Math anxiety and math achievement | 12 | NA | 12 | -0.28 |
-| Report | Brunner, Preckel, Gotz, Ludtke, & Keller | The Relationship Between Math Anxiety and Math Achievement: New Perspectives From Combining Individual Participant Data and Aggregated Data in a Meta-Analysis. | 2023 | Math anxiety (PISA, TiMMS) | 309 | 1,884,248 | 309 | -0.58 |
+| Report | Brunner, Preckel, Gotz, Ludtke, & Keller | The Relationship Between Math Anxiety and Math Achievement: New Perspectives From Combining Individual Participant Data and Aggregated Data in a Meta-Analysis. | 2023 | Math anxiety ([[PISA]], TiMMS) | 309 | 1,884,248 | 309 | -0.58 |
 | Journal of Numerical Cognition | Sammallahti, Finell, Jonsson, & Korhonen | A meta-analysis of math anxiety interventions. | 2023 | Math Anxiety Interventions | 50 | NA | 75 | 0.50 |
 | Frontiers in Psychology | Tang & He | Meta-analysis of the relationship between university students' anxiety and academic achievement during the coronavirus disease 2019 pandemic. | 2023 | Math anxiety during COVID | 5 | 1,205 | 5 | -0.43 |
 | Research on Education and Psychology | Ulum & Küçükdanaci | he relationship between mathematics anxiety and mathematics achievement: Meta analysis study. | 2022 | Math anxiety and math achievement | 21 | 9,163 | 21 | -0.93 |
@@ -208,7 +208,7 @@
 | Conference paper | Chan, Zadeh, Jahng & Mak | Depression and academic achievement: A meta-analysis. | 2008 | Depression on achievement | 27 | NA | 32 | -0.42 |
 | Dissertation | Buehner | A meta-analysis of the longitudinal relationship between adolescent depression and academic achievement. | 2017 | Depression on achievement | 26 | 31,966 | 31 | -0.16 |
 | Journal of Child and Family Studies | Huang | Academic achievement and subsequent depression: A meta-analysis of longitudinal studies. | 2015 | Depression on achievement | 43 | 24,557 | 50 | -0.30 |
-| Proceedings of the National Academy of Sciences | Stanek & Ones | Meta-analytic relations between personality and cognitive ability. | 2023 | Depression on achievement | 3,543 | NA | 3,542 | -0.37 |
+| Proceedings of the [[National Academy of Sciences]] | Stanek & Ones | Meta-analytic relations between personality and cognitive ability. | 2023 | Depression on achievement | 3,543 | NA | 3,542 | -0.37 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 3,639 | 56,523 | 3,655 | -0.31
 
@@ -266,7 +266,7 @@
 | Conference paper | Trimble, Patall, & Steingut | Exploring the Boundary Conditions of the Harmful Associations Between Academic Boredom, Performance, and Effort: A Meta-Analysis and a Primary Study. | 2007 | Boredom on achievement | 27 | NA | 30 | -0.45 |
 | Educational Psychology Review | Camacho-Morles, Slemp, Pekrun, Loderer, Hou, & Oades | Activity achievement emotions and academic performance: A meta-analysis. | 2021 | Boredom on achievement | 25 | 28,410 | 66 | -0.45 |
 | Learning and Instruction | Loderer, Pekrun, & Lester | Beyond cold technology: A systematic review and meta-analysis on emotions in technology-based learning environments. | 2020 | Boredom on achievement | 8 | 1,181 | 14 | -0.43 |
-| Conference paper | Stempfer, Goetz, Voracek, van Tilburg, Tran, & Pekrun | Boredom and performance in education: A multilevel meta-analysis. | 2023 | Boredom on achievement | 149 | 71,912 | 1,085 | -0.47 |
+| Conference paper | Stempfer, Goetz, Voracek, van Tilburg, Tran, & Pekrun | Boredom and performance in education: A [[Three-Level Meta-Analysis\|multilevel meta-analysis]]. | 2023 | Boredom on achievement | 149 | 71,912 | 1,085 | -0.47 |
 | Thinking: The Journal of Philosophy for Children | Trickey & Topping | Collaborative philosophical enquiry for school children: participant evaluation at 11-12 years. | 2007 | Boredom on achievement | 27 | NA | 30 | -0.45 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 257 | 116,038 | 1,254 | -0.43
@@ -311,8 +311,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | American Educational Research Journal | Uguroglu & Walberg | Motivation and Achievement: A Quantitative Synthesis | 1979 | Motivation | 40 | 36,946 | 232 | 0.34 |
 | Zeitschrift Fur Entwicklungspsychologie Und Padagogische Psychologie | Schiefele, Krapp, & Schreyer | Metaanalyse des Zusammenhangs von Interesse und schulischer Leistung. (Meta-analysis of the relation between interest and academic achievement) | 1993 | Interest and achievement | 21 | NA | 121 | 0.65 |
-| Learning and Individual Differences | Crede & Phillips | A meta-analytic review of the Motivated Strategies for Learning Questionnaire | 2011 | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |
-| Psychological Bulletin | Cerasoli, Nicklin, & Ford | Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis | 2014 | Intrinsic motivation | 125 | 196,778 | 125 | 0.43 |
+| Learning and Individual Differences | Crede & Phillips | A meta-analytic review of the Motivated Strategies for Learning [[Questionnaire]] | 2011 | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |
+| Psychological Bulletin | Cerasoli, Nicklin, & Ford | [[Intrinsic vs Extrinsic Motivation\|Intrinsic motivation]] and extrinsic incentives jointly predict performance: A 40-year meta-analysis | 2014 | Intrinsic motivation | 125 | 196,778 | 125 | 0.43 |
 | Book | Ozen | The Effect of Motivation on Student Achievement | 2017 | Motivation | 205 | 772,903 | 205 | 0.56 |
 | Journal of Business Psychology | Bauer, Orvis, Ely, & Surface | Re-Examination of Motivation in Learning Contexts: Meta-Analytically Investigating the Role Type of Motivation Plays in the Prediction of Key Training Outcomes | 2016 | Motivation | 19 | 2,314 | 19 | 0.14 |
 | Research Quarterly for Exercise and Sport | Chen, Chen & Zhu | Are K–12 Learners Motivated in Physical Education? A Meta-Analysis | 2012 | Motivation on physical education outcomes | 29 | NA | 283 | 0.43 |
@@ -342,7 +342,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Australian Journal of Education | Purdie & Hattie | The Relationship Between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Surface approach | 101 | NA | 101 | 0.10 |
-| Psychological bulletin | Hulleman, Schrager, Bodmann & Harackiewicz | A Meta-Analytic Review of Achievement Goal Measures: Different Labels for the Same Constructs or Different Constructs with Similar Labels? | 2010 | Approach goals on achievement | 243 | 91,087 | 243 | 0.12 |
+| Psychological bulletin | Hulleman, Schrager, Bodmann & Harackiewicz | A Meta-Analytic Review of Achievement Goal Measures: Different Labels for the Same [[Construct\|Constructs]] or Different Constructs with Similar Labels? | 2010 | Approach goals on achievement | 243 | 91,087 | 243 | 0.12 |
 | Perspectives on Thinking, Learning and Cognitive Styles | Watkins | Correlates of Approaches to Learning: A Cross-Cultural Meta-Analysis | 2001 | Surface motivation | 55 | 28,053 | 60 | -0.22 |
 | Australian Journal of Education | Purdie & Hattie | The Relationship between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Surface motivation | 48 | NA | 48 | -0.54 |
 
@@ -376,7 +376,7 @@
 | Australian Journal of Education | Purdie & Hattie | The Relationship between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Achieving approach | 95 | NA | 95 | 0.70 |
 | Australian Journal of Education | Purdie & Hattie | The Relationship between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Achieving motivation | 18 | NA | 18 | 0.18 |
 | Perspectives on Thinking, Learning and Cognitive Styles | Watkins | Correlates of Approaches to Learning: A Cross-Cultural Meta-Analysis | 2001 | Achieving motivation | 55 | NA | 60 | 0.37 |
-| Journal of Educational Psychology | Huang | Discriminant and criterion-related validity of achievement goals in predicting academic achievement: A meta-analysis. | 2012 | Achieving motivation | 84 | NA | 84 | 0.26 |
+| Journal of Educational Psychology | Huang | Discriminant and [[Criterion-related Validity\|criterion-related validity]] of achievement goals in predicting academic achievement: A meta-analysis. | 2012 | Achieving motivation | 84 | NA | 84 | 0.26 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 252 | NA | 257 | 0.38
 
@@ -408,7 +408,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Human Performance | van Yperen, Blaga, & Postmes | A meta-analysis of the impact of situationally induced achievement goals on task performance | 2014 | Mastery avoidance | 98 | NA | 65 | -0.13 |
-| Human performance | Baranik, Stanley, Bynum, & Lance | Examining the construct validity of mastery-avoidance achievement goals: A meta-analysis | 2010 | Mastery avoidance | 25 | 9,014 | 26 | -0.18 |
+| Human performance | Baranik, Stanley, Bynum, & Lance | Examining the [[Construct Validity\|construct validity]] of mastery-avoidance achievement goals: A meta-analysis | 2010 | Mastery avoidance | 25 | 9,014 | 26 | -0.18 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 123 | 9,014 | 91 | -0.15
 
@@ -475,7 +475,7 @@
 | Dissertation | Bradford | A Meta-Analysis of Selected Research on Student Attitudes Towards Mathematics | 1991 | Attitude to mathematics | 102 | NA | 241 | 0.29 |
 | Journal for Research in Mathematics Education | Ma & Kishor | Assessing the relationship between attitude toward mathematics and achievement in mathematics: A meta-analysis | 1997 | Attitude to mathematics | 143 | 59,925 | 107 | 0.24 |
 | Al-Jabar: Jurnal Pendidikan Matematika, 12(2), 437-446. | Ili, Rumasoreng, Prabowo, & Setiana | Relationship between student learning interest and mathematics learning achievement: A meta-analysis. | 2021 | Interest in mathematics | 30 | 2,736 | 30 | 1.28 |
-| International Journal of Instruction | Harun & Manaf | Student Attitude and Mathematics Learning Success: A Meta-Analysis. | 2021 | Attitude to mathematics | 22 | 2,333 | 22 | 0.94 |
+| International Journal of Instruction | Harun & Manaf | [[Student Attitude]] and Mathematics Learning Success: A Meta-Analysis. | 2021 | Attitude to mathematics | 22 | 2,333 | 22 | 0.94 |
 | Statistics education research Journal | Emmioglu & Capa-Aydin | Attitudes and achievement in statistics: A meta-analysis study. | 2012 | Attitude to statistics | 17 | 5,271 | 17 | 0.63 |
 | Frontiers in psychology | Mao, Cai, He, Chen, & Fan | The Relationship Between Attitude Toward Science and Academic Achievement in Science: A Three-Level Meta-Analysis. | 2021 | Attitude to science | 37 | 1,042,537 | 132 | 0.51 |
 | Dicle Üniversitesi Ziya Gökalp Egitim Fakültesi Dergisi | Alkan, Alkan, & Bayr | Dicle Üniversitesi Ziya Gökalp Egitim Fakültesi Dergisi | 2017 | Attitude to science | 6 | 5,903 | 6 | 0.68 |
@@ -492,10 +492,10 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Psychological Bulletin | Burnette, O'Boyle, van Epps, Pollack & Finkel | Mind-sets matter: A meta-analytic review of implicit theories and self-regulation | 2013 | Incremental vs. entity thinking | 32 | 51,676 | 110 | 0.09 |
+| Psychological Bulletin | Burnette, O'Boyle, van Epps, Pollack & Finkel | Mind-sets matter: A meta-analytic review of implicit theories and [[Self-control\|self-regulation]] | 2013 | Incremental vs. entity thinking | 32 | 51,676 | 110 | 0.09 |
 | Psychological Science | Sisk, Burgoyne, Sun, Butler, & Macnamara | To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses | 2018 | Growth mindsets | 123 | 365,915 | 273 | 0.20 |
 | Psychological Science | Sisk, Burgoyne, Sun, Butler, & Macnamara | To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses | 2018 | Growth mindsets interventions | 29 | 57,155 | 43 | 0.08 |
-| Frontiers in Psychology | Costa & Faria | Implicit theories of intelligence and academic achievement: A meta-analysis | 2018 | Incremental vs. entity thinking | 46 | 412,022 | 94 | 0.14 |
+| Frontiers in Psychology | Costa & Faria | [[Growth Mindset\|Implicit theories of intelligence]] and academic achievement: A meta-analysis | 2018 | Incremental vs. entity thinking | 46 | 412,022 | 94 | 0.14 |
 | Pedagogical Research | Seo | A meta-analysis of the relationship between grit and related variables. | 2019 | Growth mindsets | 42 | NA | 42 | 0.28 |
 | Psychological Bulletin | Burnette, Billingsley, Banks, Knouse, Hoyt, Pollack, & Simon | A systematic review and meta-analysis of growth mindset interventions: For whom, how, and why might such interventions work? | 2022 | Growth mindsets | 53 | NA | 110 | 0.09 |
 | Psychological Bulletin | Macnamara & Burgoyne | Do Growth Mindset Interventions Impact Students' Academic Achievement? A Systematic Review and Meta-Analysis With Recommendations for Best Practices. | 2022 | Growth mindsets | 63 | 97,672 | 63 | 0.05 |
@@ -553,7 +553,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Educational Review | Kumar | A Meta-analysis of the Relationship between Science Instruction and Student Engagement. | 1991 | Engagement in science | 16 | 4,518 | 102 | 1.09 |
+| Educational Review | Kumar | A Meta-analysis of the Relationship between Science Instruction and [[Student Engagement]]. | 1991 | Engagement in science | 16 | 4,518 | 102 | 1.09 |
 | Dissertation | Aker | A Meta-Analysis of Middle School Science Engagement | 2016 | Engagement in science | 79 | 53,971 | 79 | 0.37 |
 | Social Behavior and Personality | Lei, Cui, & Zhou | Effects of academic emotions on achievement among mainland Chinese students: A meta-analysis | 2016 | Engagement | 69 | 196,473 | 163 | 0.56 |
 | Review of Educational Research | Quin | Longitudinal and contextual associations between teacher–student relationships and student engagement: A systematic review | 2017 | Engagement | 14 | NA | 14 | 0.67 |
@@ -577,7 +577,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Interdisciplinary Research and Perspectives | Xing, Lee, & Heo | Flow in relation to academic achievement in online-learning: A meta-analysis study. | 2024 | Flow | 32 | 6,686 | 32 | 1.09 |
+| Interdisciplinary Research and Perspectives | Xing, Lee, & Heo | [[Flow]] in relation to academic achievement in online-learning: A meta-analysis study. | 2024 | Flow | 32 | 6,686 | 32 | 1.09 |
 | Frontiers in Psychology | Jinmin & Qi | Relationship between learning flow and academic performance among students: a systematic evaluation and meta-analysis. | 2023 | Flow | 13 | 3,253 | 13 | 0.95 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 45 | 9,939 | 45 | 1.02
@@ -610,7 +610,7 @@
 | Developmental Medicine and Child Neurology | Kovachy, Adams, Tamaresis, & Feldman | Reading Abilities in School-Aged Preterm Children: A Review and Meta-Analysis | 2015 | Full vs. pre-term birth weight | 9 | NA | 9 | -0.42 |
 | Pediatrics | der Spek, Franken & Weisglas-Kuperus | Language functions in preterm children: A systematic review and meta-analysis | 2011 | Full vs. pre-term birth weight on language | 17 | NA | 17 | -0.54 |
 | Developmental Medicine and Child Neurology | Brydges, Landes, Reid, Campbell, French, & Anderson | Cognitive outcomes in children and adolescents born very preterm: a meta-analysis | 2018 | Full vs. pre-term on Intelligence, executive functioning & processing speed | 44 | 10,734 | 44 | -0.61 |
-| JAMA Pediatrics | Twilhaar, de Kieviet, Aarnoudse-Moens, van Elburg, & Oosterlaan | Cognitive Outcome of Children Born Extremely or Very Preterm Since 1990s and Associated Risk Factors: A Meta-analysis and Meta-regression | 2018 | Full vs. pre-term birth weight | 17 | 3,939 | 17 | -0.56 |
+| JAMA Pediatrics | Twilhaar, de Kieviet, Aarnoudse-Moens, van Elburg, & Oosterlaan | Cognitive Outcome of Children Born Extremely or Very Preterm Since 1990s and Associated Risk Factors: A Meta-analysis and [[Meta-regression]] | 2018 | Full vs. pre-term birth weight | 17 | 3,939 | 17 | -0.56 |
 | Pediatrics | Aarnoudse-Moens, Weisglas-Kuperus, van Goudoever & Oosterlaan | Meta-Analysis of Neurobehavioral Outcomes in Very Preterm and/or Very Low Birth Weight Children | 2009 | Full vs. pre-term birth weight | 14 | 4,125 | 14 | -0.59 |
 | Journal of Pediatrics | Barre, Morgan, Doyle & Anderson | Language abilities in children who were very preterm and/or very low birth weight: a meta-analysis | 2011 | Full vs. pre-term birth weight | 12 | NA | 36 | -0.53 |
 | Journal of Public Health | Kerr-Wilson, Mackay, Smith & Pell | Meta-Analysis of the Association Between Preterm Delivery and Intelligence | 2011 | Full vs. pre-term birth weight | 27 | 7,044 | 37 | -0.75 |
@@ -664,7 +664,7 @@
 | Report | Schatz | Academic achievement in children with sickle cell disease: a meta-analysis | 2003 | Sickle cell disease on achievement | 6 | NA | 6 | -0.25 |
 | Journal of Pediatric Psychology | Roberts, Mathias, & Wheaton | Cognitive Functioning in Children and Adults With Nonsyndromal Cleft Lip and/or Palate: A Meta-analysis | 2012 | Cleft lip/ palate | 29 | 281,351 | 57 | -0.41 |
 | Journal of Deaf Studies and Deaf Education | Lund | Vocabulary knowledge of children with cochlear implants: A meta-analysis | 2016 | Cochlear ear implants | 12 | 1,170 | 12 | -0.61 |
-| Journal of Learning Disabilities | Kavale & Forness | Hyperactivity and Diet Treatment: A Meta-Analysis of the Feingold Hypothesis | 1983 | Reduction of artificial food colors | 23 | 3,087 | 125 | 0.12 |
+| Journal of Learning Disabilities | Kavale & Forness | Hyperactivity and Diet Treatment: A Meta-Analysis of the Feingold [[Hypothesis]] | 1983 | Reduction of artificial food colors | 23 | 3,087 | 125 | 0.12 |
 | medRxiv | Wang, Sibaii, Lee, Gill, & Hatch | Meta-analytic findings on lower reading skills in children with cochlear implants | 2021 | Cochlear ear implants | 41 | 3,349 | 47 | -1.14 |
 | Neuropsychology review | Cermak, Scratch, Kakonge, & Beal | The effect of childhood traumatic brain injury on verbal fluency performance: a systematic review and meta-analysis | 2021 | Traumatic brain injury | 12 | NA | 12 | -0.38 |
 | Archives of disease in childhood | Saatci, Thomas, Botting, & Sutcliffe | Cancer survivors: a meta-analysis | 2020 | Cancer survivors | 26 | 52,830 | 12 | -0.17 |
@@ -672,7 +672,7 @@
 | PLoS neglected tropical diseases | Ezeamama, Bustinduy, Nkwata, Martinez, Pabalan, Boivin, & King | Cognitive deficits and educational loss in children with schistosome infection—a systematic review and meta-analysis. | 2018 | Schistosoma infection | 16 | 6,508 | 16 | -0.58 |
 | Birth Defects Research | Glinianaia, McLean, Moffat, Shenfine, Armaroli, & Rankin | Glinianaia, S. V., McLean, A., Moffat, M., Shenfine, R., Armaroli, A., & Rankin, J. (2021). Academic achievement and needs of school-aged children born with selected congenital anomalies: A systematic review and meta-analysis | 2021 | Congenital anomalies | 16 | 21,066 | 16 | -0.49 |
 | Frontiers in Neurology | Heitzer, Hamilton, Stafford, Gossett, Ouellette, Trpchevska, King, Kang, & Hankins | Academic Performance of Children With Sickle Cell Disease in the United States: A Meta-Analysis. | 2021 | Sickle cell disease on achievement | 44 | 508 | 44 | -0.40 |
-| Critical reviews in oncology/hematology | Gummersall, Skaczkowki, & Wilson | Childhood cancer, age at diagnosis and educational attainment: A meta-analysis. | 2020 | Cancer on high school completion | 11 | 1,664,052 | 11 | -0.17 |
+| Critical reviews in oncology/hematology | Gummersall, Skaczkowki, & Wilson | Childhood cancer, age at diagnosis and [[Educational Level\|educational attainment]]: A meta-analysis. | 2020 | Cancer on high school completion | 11 | 1,664,052 | 11 | -0.17 |
 | International journal of pediatric dentistry | Rebelo, Vieira, Pereira, Quadros, & Vettore | Does oral health influence school performance and school attendance? A systematic review and meta-analysis | 2018 | Poor oral health | 15 | 3,205 | 15 | -0.20 |
 | Journal of the American Dental Association | Ruff, Senthi, Susser, & Tsutsui | Oral health, academic performance, and school absenteeism in children and adolescents: A systematic review and meta-analysis | 2019 | Oral health | 15 | NA | 15 | -0.20 |
 | Addictive Behaviors | Duko, Bedaso, Dachew, Newham, Gebremedhin, Tessema, Einarsdottir, Alati, & Pereira | The effect of maternal prenatal tobacco smoking on offspring academic achievement: A systematic review and meta-analysis. | 2024 | Maternal prenatal smoking and achievement | 8 | 723,877 | 8 | 0.22 |
@@ -703,7 +703,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Review Journal of Autism and Developmental Disorders | Brown, Oram-Cardy, & Johnson | A meta-analysis of the reading comprehension skills of individuals on the autism spectrum | 2013 | Autism on reading comprehension | 36 | 1,487 | 47 | -0.74 |
+| Review Journal of Autism and Developmental Disorders | Brown, Oram-Cardy, & Johnson | A meta-analysis of the reading comprehension skills of individuals on the autism [[SPECTRUM\|spectrum]] | 2013 | Autism on reading comprehension | 36 | 1,487 | 47 | -0.74 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 36 | 1,487 | 47 | -0.74
 
@@ -776,8 +776,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Conference paper | Hansford & Hattie | Designing and implementing a meta-analysis | 1980 | Gender and achievement | 72 | NA | 503 | -0.02 |
 | Child Development | Meehan | A meta-analysis of sex differences in formal operational thought | 1984 | Formal operations and gender | 53 | NA | 160 | 0.14 |
-| Journal of Educational Psychology | Johnson | Sex differences in problem solving | 1984 | Gender in problem solving | 9 | NA | 9 | 0.45 |
-| Child Development | Linn & Peterson | Emergence and characterization of sex differences in spatial ability: A meta-analysis | 1985 | Spatial achievement and gender | 172 | NA | 263 | 0.40 |
+| Journal of Educational Psychology | Johnson | Sex differences in [[Problem Solving\|problem solving]] | 1984 | Gender in problem solving | 9 | NA | 9 | 0.45 |
+| Child Development | Linn & Peterson | [[Emergence]] and characterization of sex differences in spatial ability: A meta-analysis | 1985 | Spatial achievement and gender | 172 | NA | 263 | 0.40 |
 | Report | Tohidi, Steinkamp & Maehr | Gender differences in performance on tests of cognitive functioning: a meta-analysis of research findings | 1986 | Cognitive functioning and gender | 70 | NA | 70 | 0.32 |
 | Journal of Cross-Cultural Psychology | Born, Bleichrodt & Van der Flier | Cross-cultural comparison of sex-related differences on intelligence tests: A meta-analysis | 1987 | Gender in intelligence | 17 | NA | 772 | 0.08 |
 | Perceptual and Motor Skills | Stumpf & Klieme | Sex-related differences in spatial ability: more evidence for convergence | 1989 | Spatial achievement and gender | 18 | 171,824 | 18 | 0.48 |
@@ -787,7 +787,7 @@
 | Journal of Educational Psychology | Fischer, Schult, & Hell | Sex-specific differential prediction of college admission tests: A meta-analysis | 2013 | Sex on college admission performance | 130 | 493,048 | 130 | -0.24 |
 | Psychological Bulletin | Voyer & Voyer | Gender Differences in Scholastic Achievement: A Meta-Analysis | 2014 | Gender on achievement | 369 | 1,134,042 | 502 | -0.23 |
 | Psychological Bulletin | Else-Quest, Hyde, & Linn | Cross-national patterns of gender differences in mathematics: a meta-analysis | 2010 | Gender in PISA and TiMMS | 69 | 493,495 | 86 | -0.01 |
-| Journal of Educational Psychology | Keller, Preckel, Eccles, & Brunner | Top-Performing Math Students in 82 Countries: A Meta-Analysis of Gender Differences in Achievement, Achievement Profiles, and Achievement Motivation. | 2020 | PISA math, reading, science | 82 | 2,280,502 | 343 | -0.06 |
+| Journal of Educational Psychology | Keller, Preckel, Eccles, & Brunner | Top-Performing Math Students in 82 Countries: A Meta-Analysis of [[Gender Differences in Academic Achievement\|Gender Differences in Achievement]], Achievement Profiles, and Achievement Motivation. | 2020 | PISA math, reading, science | 82 | 2,280,502 | 343 | -0.06 |
 | Educational Psychology Review | Petersen | Gender difference in verbal performance: A meta-analysis of United States state performance assessments. | 2018 | Sex in verbal achievement | 16 | 10,000,000 | 16 | -0.29 |
 | International Review of Public Administration | Ouma & Nam | A meta-analysis of gender gap in student achievement in African countries. | 2015 | Gender across Africa | 35 | 105,121 | 35 | 0.00 |
 | Education Sciences | Nunes, Oliveira, Santini, Castelli, & Cruz-Jesus | A weight and meta-analysis on the academic achievement of high school students. | 2022 | Gender | 20 | 571,462 | 20 | 0.04 |
@@ -832,13 +832,13 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Educational Psychology | Reilly, Neumann, & Andrews | Sex Differences in Mathematics and Science Achievement: A Meta-Analysis of National Assessment of Educational Progress Assessments | 2015 | Sex on NAEP math & science | 24 | 2,804,016 | 24 | 0.09 |
+| Journal of Educational Psychology | Reilly, Neumann, & Andrews | Sex Differences in Mathematics and Science Achievement: A Meta-Analysis of [[National Assessment of Educational Progress]] Assessments | 2015 | Sex on NAEP math & science | 24 | 2,804,016 | 24 | 0.09 |
 | Conference paper | Yang | Validity issues in cross-national relational analyses: a meta-analytic approach to perceived gender differences on mathematics learning | 1997 | Math and gender | 25 | NA | 25 | -0.34 |
 | Journal of Educational and Behavioral Statistics | Schram | A meta-analysis of gender differences in applied statistics achievement | 1996 | Applied statistics and gender | 13 | 4,134 | 18 | -0.08 |
 | International Journal of Educational Research | Frost, Hyde & Fennema | Gender, mathematics performance, and mathematics-related attitudes and affect: A meta-analytic synthesis | 1994 | Math and gender | 100 | NA | 254 | 0.15 |
 | Dissertation | Freeman | A meta-analysis of gender differences in mathematics achievement | 1984 | Gender differences in mathematics | 35 | NA | 35 | 0.09 |
-| American Educational Research Journal | Lysakowski & Walberg | Instructional Effects of Cues, Participation, and Corrective Feedback: A Quantitative Synthesis | 1989 | Math and gender | 34 | 88,253 | 160 | 0.23 |
-| Intelligence | Lynn & Irwing | Sex differences in mental arithmetic, digit span, and g defined as working memory capacity | 2008 | Sex in math | 28 | NA | 28 | 0.28 |
+| American Educational Research Journal | Lysakowski & Walberg | Instructional Effects of Cues, Participation, and Corrective [[Feedback]]: A Quantitative Synthesis | 1989 | Math and gender | 34 | 88,253 | 160 | 0.23 |
+| Intelligence | Lynn & Irwing | Sex differences in mental arithmetic, digit span, and g defined as [[Working Memory\|working memory]] capacity | 2008 | Sex in math | 28 | NA | 28 | 0.28 |
 | Review of Educational Research | Friedman | Mathematics and the Gender Gap: A Met-Analysis of Recent Studies on Sex Differences in Mathematical Tasks | 1989 | Math and gender | 98 | 227,879 | 98 | 0.02 |
 | Dissertation | Hines | Gender-related differences in mathematics participation and achievement: a meta-analysis | 1989 | Math and gender | 30 | NA | 260 | 0.01 |
 
@@ -856,7 +856,7 @@
 | Journal of Research in Science Teaching | Becker | Gender and science achievement: A reanalysis of studies from two meta-analyses | 1989 | Gender differences in science | 29 | 17,603 | 67 | 0.16 |
 | Psychological Bulletin | Lindberg, Hyde, Petersen & Linn | New trends in gender and mathematics performance: a meta-analysis | 2010 | Math and gender | 242 | 1,286,350 | 242 | 0.05 |
 | Conference paper | Kahl, Fleming & Malone | Sex-related differences in pre-college science: findings of the science meta-analysis project | 1982 | Pre-college science and achievement | 169 | NA | 31 | 0.12 |
-| Review of Educational Research | Steinkamp & Maehr | Affect, ability, and science achievement: A quantitative synthesis of correlational research | 1983 | Gender differences in science | 83 | NA | 107 | 0.19 |
+| Review of Educational Research | Steinkamp & Maehr | Affect, ability, and science achievement: A quantitative synthesis of [[Correlational Research\|correlational research]] | 1983 | Gender differences in science | 83 | NA | 107 | 0.19 |
 | Conference paper | Becker & Chang | Measurement of Science Achievement and Its Role in Gender Differences | 1986 | Science and gender | 42 | NA | 42 | 0.16 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 565 | 1,303,953 | 489 | 0.14
@@ -914,7 +914,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dissertation | Mitchell | An examination of stereotype threat on women's math performance: A meta-analysis | 2014 | Stereotype threat on girl's math | 9 | 2,251 | 29 | -0.64 |
+| Dissertation | Mitchell | An examination of [[Stereotype Threat\|stereotype threat]] on women's math performance: A meta-analysis | 2014 | Stereotype threat on girl's math | 9 | 2,251 | 29 | -0.64 |
 | Learning and Individual Differences | Doyle & Voyer | Stereotype manipulation effects on math and spatial test performance: A meta-analysis | 2016 | Threat and lift for males and females | 86 | NA | 224 | 0.14 |
 | Journal of Applied Psychology | Nguyen & Ryan | Does stereotype threat affect test performance of minorities and women? A meta-analysis of experimental evidence | 2008 | Stereotype threat | 116 | 7,964 | 116 | -0.26 |
 | Journal of School Psychology | Flore & Wicherts | Does stereotype threat influence performance of girls in stereotyped domains? A meta-analysis | 2015 | Stereotype threat on girl's performance | 26 | 3,760 | 47 | -0.22 |
@@ -957,10 +957,10 @@
 | Journal of Research in Science Teaching | Boulanger | Ability and science learning: A quantitative synthesis | 1981 | Ability related to science learning | 34 | NA | 62 | 1.09 |
 | Conference paper | Piburn | Evidence from Meta-Analysis for an Expertise Model of Achievement in Science. | 1993 | Prior ability on science achievement | 44 | NA | 186 | 0.80 |
 | Book | Murphy & Alexander | Understanding how students learn: A guide for instructional leaders | 2006 | Knowledge, beliefs and interests on conceptual change | 20 | NA | 50 | 0.80 |
-| Journal of Learning Disabilities | Lapadat | Pragmatic Language Skills of Students with Language and/or Learning Disabilities: A Quantitative Synthesis | 1991 | Language ability of special ed students on achievement | 33 | 825 | 275 | 0.52 |
+| Journal of Learning Disabilities | Lapadat | Pragmatic [[Language Skills]] of Students with Language and/or Learning Disabilities: A Quantitative Synthesis | 1991 | Language ability of special ed students on achievement | 33 | 825 | 275 | 0.52 |
 | Journal of Educational Psychology | Koponen, Georgiou, Salmi, & Aro | A meta-analysis of the relation between RAN and mathematics | 2017 | Rapid Automatic naming as prior to math | 38 | 7,135 | 151 | 0.80 |
 | Dissertation | Rush | Functional components of a local and a national profile of elementary school at-risk students ass determined through meta-analysis and factor analysis | 1992 | Differences in at-risk students | 100 | 236,772 | 404 | 0.48 |
-| Metacognition Learning | Ohtani & Hisasaka | Beyond intelligence: A meta-analytic review of the relationship among metacognition intelligence and academic performance. | 2018 | Self-regulation and achievement | 247 | 368,376 | 137 | 0.58 |
+| [[Metacognition]] Learning | Ohtani & Hisasaka | Beyond intelligence: A meta-analytic review of the relationship among metacognition intelligence and academic performance. | 2018 | Self-regulation and achievement | 247 | 368,376 | 137 | 0.58 |
 | Applied Linguistics | Li | The associations between language aptitude and second language grammar acquisition: A meta-analytic review of five decades of research. | 2014 | Language aptitude and L2 acquisition | 17 | NA | 17 | 0.65 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 1,850 | 675,237 | 5,877 | 0.76
@@ -992,7 +992,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Psychological Bulletin | Kuncel, Hezlett & Ones | A Comprehensive Meta-Analysis of the Predictive Validity of the Graduate Record Examinations: Implications for Graduate Student Selection and Performance | 2001 | High school grades to university grades | 1,753 | 82,659 | 6,589 | 0.52 |
+| Psychological Bulletin | Kuncel, Hezlett & Ones | A Comprehensive Meta-Analysis of the [[Predictive Validity]] of the Graduate Record Examinations: Implications for Graduate Student Selection and Performance | 2001 | High school grades to university grades | 1,753 | 82,659 | 6,589 | 0.52 |
 | Educational and Psychological Measurement | Goldberg & Allinger | Assessing the validity of the GRE For Students in Psychology: A Validity Generalization Approach | 1992 | High school grades to university grades | 27 | 4,423 | 97 | 0.21 |
 | Applied Psychology | Schuler, Funke, & Baron-Boldt | Predictive validity of school grades: A meta-analysis. | 1990 | High school grades to university grades | 63 | 29,422 | 63 | 1.02 |
 | Zeitschrift Fur Padagogische Psychologie | Trapmann, Hell, Weigand, & Schuler | Die Validität von Schulnoten zur Vorhersage des Studienerfolgs-eine Metaanalyse (The validity of school-grades for academic achievement: a meta-analysis) | 2007 | High school grades to university grades | 83 | NA | 83 | 0.90 |
@@ -1011,7 +1011,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Research in Higher Education | Cohen | College Grades and Adult Achievement: A Research Synthesis | 1984 | College grades and adult achievement | 108 | NA | 108 | 0.37 |
+| Research in Higher Education | Cohen | College Grades and Adult Achievement: A [[Research Synthesis]] | 1984 | College grades and adult achievement | 108 | NA | 108 | 0.37 |
 | Public Personnel Management | Bretz | College Grade Point Average as a Predictor of Adult Success: A Meta-Analytic Review and Some Additional Evidence | 1989 | College to adult success | 39 | 26,816 | 39 | 0.39 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 147 | 26,816 | 147 | 0.38
@@ -1025,7 +1025,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ERIC | Jordan & Brownlee | Meta-Analysis of the Relationship between Piagetian and School Achievement Tests | 1981 | Piagetian tasks and reading and math | 51 | 6,000 | 65 | 1.28 |
+| [[Education Resources Information Center\|ERIC]] | Jordan & Brownlee | Meta-Analysis of the Relationship between Piagetian and School Achievement Tests | 1981 | Piagetian tasks and reading and math | 51 | 6,000 | 65 | 1.28 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 51 | 6,000 | 65 | 1.28
 
@@ -1134,7 +1134,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thinking Skills and Creativity | Fong, Kim, Davis, Hoang, & Kim | A meta-analysis on critical thinking and community college student achievement | 2017 | Critical thinking | 23 | 8,233 | 23 | 0.49 |
+| Thinking Skills and Creativity | Fong, Kim, Davis, Hoang, & Kim | A meta-analysis on [[Critical Thinking\|critical thinking]] and community college student achievement | 2017 | Critical thinking | 23 | 8,233 | 23 | 0.49 |
 | Psycho-Educational Research Reviews | Orhan | The Relationship between Critical Thinking and Academic Achievement: A Meta-Analysis Study. | 2022 | Critical thinking | 47 | NA | 67 | 0.93 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 70 | 8,233 | 90 | 0.71
@@ -1153,15 +1153,15 @@
 | Conference paper | Silva, Ryan, Kalkbrenner, Featherston, Busk, & Turner | Meta-Analysis of Self-Efficacy Interventions in Higher Education | 2016 | Self-efficacy on achievement in Higher education | 20 | NA | 20 | 0.25 |
 | Book | Çikrikci | The Effect of Self-efficacy on Student Achievement | 2017 | Self-efficacy | 231 | 242,023 | 231 | 0.72 |
 | Review of Educational Research | Unrau, Rueda, Son, Polanin, Lundeen & Muraszewski | Can Reading Self-Efficacy Be Modified? A Meta-Analysis of the Impact of Interventions on Reading Self-Efficacy | 2018 | Reading self-efficacy | 30 | NA | 33 | 0.33 |
-| British Journal of Educational Technology | Gegenfurtner, Quesada-Pallares, & Knogler | Digital simulation-based training: A meta-analysis | 2014 | Self-efficacy in simulation based learning | 15 | 2,274 | 15 | 0.72 |
+| British Journal of Educational Technology | Gegenfurtner, Quesada-Pallares, & Knogler | Digital [[Computer Simulation\|simulation]]-based training: A meta-analysis | 2014 | Self-efficacy in simulation based learning | 15 | 2,274 | 15 | 0.72 |
 | Psychological Bulletin | Robbins, Lauver, Le, Davis, Langley & Carlstrom | Do Psychosocial and Study Skill Factors Predict College Outcomes? A Meta-Analysis | 2004 | Self-efficacy | 13 | NA | 13 | 1.84 |
 | Dissertation | Carpenter | A comparison of the relationships of students' self-efficacy, goal orientation, and achievement across grade levels: a meta-analysis | 2007 | Self-efficacy | 48 | 12,466 | 48 | 0.70 |
-| International Journal of Instruction | Ciftci & Yildiz | The effects of self-confidence on mathematics achievement: The meta-analysis of trends in international mathematics and science study (TIMSS). | 2019 | Self-confidence | 76 | 1,028,567 | 76 | 0.59 |
+| International Journal of Instruction | Ciftci & Yildiz | The effects of self-confidence on mathematics achievement: The meta-analysis of [[TIMSS\|trends in international mathematics and science study]] (TIMSS). | 2019 | Self-confidence | 76 | 1,028,567 | 76 | 0.59 |
 | Journal of Second Language Writing | Sun, Wang, Lambert, & Liu | Relationship between second language English writing self-efficacy and achievement: A meta-regression analysis. | 2021 | Writing self-efficacy on L2 students | 76 | NA | 76 | 0.56 |
 | Personality and Individual Differences | Braithwaite & Corr | Hans Eysenck, education and the experimental approach: A meta-analysis of academic capabilities in university students. | 2016 | Self-efficacy on achievement in Higher education | 14 | NA | 14 | 0.26 |
 | Psikologika: Journal Pemikiran dan Penelitian Psikologi | Rachmahana | Peran efikasi diri terhadap prestasi dan performansi: meta analisis. | 2008 | Self-efficacy | 23 | NA | 23 | 0.95 |
 | International Journal of Instruction | Muhtadi, Assagaf, & Hukom | Self-efficacy and students' mathematics learning ability in Indonesia: A meta-analysis study. | 2022 | Self-efficacy | 40 | 4,503 | 40 | 1.71 |
-| Journal on Efficiency and Responsibility in Education and Science | Haidai, Koçoglu, & Kanadli | Contribution of Locus of Control, Self-Efficacy, and Motivation to Student Achievement: A Meta-Analytic Structural Equation Modelling. | 2023 | Self-efficacy | 37 | 16,946 | 40 | 0.08 |
+| Journal on Efficiency and Responsibility in Education and Science | Haidai, Koçoglu, & Kanadli | Contribution of [[Locus of Control]], Self-Efficacy, and Motivation to Student Achievement: A Meta-Analytic Structural Equation Modelling. | 2023 | Self-efficacy | 37 | 16,946 | 40 | 0.08 |
 | Dissertation | Sun | Relationship between writing self-efficacy and writing achievement: Evidence from an empirical study and a meta-analysis | 2021 | Self-efficacy | 76 | 18,620 | 575 | 0.50 |
 | Education Sciences | Nunes, Oliveira, Santini, Castelli, & Cruz-Jesus | A weight and meta-analysis on the academic achievement of high school students. | 2022 | Academic self-efficacy | 11 | 27,705 | 11 | 0.74 |
 | Studies in Second Language Learning and Teaching | Goetze & Driver | Is learning really just believing? A meta-analysis of self-efficacy and achievement in SLA. | 2022 | Self-efficacy in 2nd language | 37 | 23,050 | 40 | 1.04 |
@@ -1219,7 +1219,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Personality and Social Psychology | Findley & Cooper | Locus of Control and Academic Achievement: A Literature Review | 1983 | Internal locus of control | 98 | 15,285 | 275 | 0.36 |
+| Journal of Personality and Social Psychology | Findley & Cooper | Locus of Control and Academic Achievement: A [[Literature Review]] | 1983 | Internal locus of control | 98 | 15,285 | 275 | 0.36 |
 | Genetic, Social, and General Psychology Monographs | Kalechstein & Nowicki | A meta-analytic examination of the relationship between control expectancies and academic achievement: An 11-year follow-up to Findley and Cooper | 1997 | Internal locus of control | 78 | 58,142 | 261 | 0.23 |
 | Book | Çogaltay | The Effect of Locus of Control on Student Achievement | 2017 | Locus of control | 23 | 18,918 | 23 | 0.04 |
 | Journal on Efficiency and Responsibility in Education and Science | Haidai, Koçoglu, & Kanadli | Contribution of Locus of Control, Self-Efficacy, and Motivation to Student Achievement: A Meta-Analytic Structural Equation Modelling. | 2023 | Locus of control | 37 | 16,946 | 40 | 0.45 |
@@ -1358,16 +1358,16 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Psychological Bulletin | White | The relation between socioeconomic status and academic achievement. | 2001 | Socioeconomic status and achievement | 101 | NA | 620 | 0.66 |
+| Psychological Bulletin | White | The relation between [[Socioeconomic Status\|socioeconomic status]] and academic achievement. | 2001 | Socioeconomic status and achievement | 101 | NA | 620 | 0.66 |
 | Journal of Research in Science Teaching | Fleming & Malone | The relationship of student characteristics and student performance in science as viewed by meta-analysis research | 1983 | Student characteristics and science achievement | 273 | NA | 21 | 0.54 |
 | Review of Educational Research | Sirin | Socioeconomic Status and Academic Achievement: A Meta-Analytic Review of Research | 2005 | Relation between SES and achievement | 58 | 101,157 | 307 | 0.56 |
 | Journal of Emotional and Behavioral Disorders | Letourneau, Duffet-Leger, Levac, Watson, & Young-Morris | Socio-economic status and child development: A meta-analysis | 2013 | Socioeconomic status and achievement | 7 | 665 | 7 | 0.35 |
-| Alberta Journal of Educational Research | Tan | Examining cultural capital and student achievement: Results of a meta-analytic review | 2017 | Cultural capital | 41 | 685,393 | 155 | 0.32 |
+| Alberta Journal of Educational Research | Tan | Examining [[Cultural Capital\|cultural capital]] and student achievement: Results of a meta-analytic review | 2017 | Cultural capital | 41 | 685,393 | 155 | 0.32 |
 | The Factors Effecting Student Achievement | Çiftçi & Cin | The Effect of Socioeconomic Status on Students' Achievement | 2017 | Socioeconomic status | 66 | 159,315 | 66 | 0.90 |
 | Journal of Experimental Education | Harwell, Maeda, Bishop, & Xie | The surprisingly modest relationship between SES and educational achievement | 2017 | Socioeconomic status and achievement | 45 | NA | 2,610 | 0.37 |
-| Intelligence | Strenze | Intelligence and socioeconomic success: A meta-analytic review of longitudinal research | 2007 | Socioeconomic status and achievement | 86 | 145,632 | 58 | 0.65 |
+| Intelligence | Strenze | Intelligence and socioeconomic success: A meta-analytic review of [[Longitudinal Study\|longitudinal research]] | 2007 | Socioeconomic status and achievement | 86 | 145,632 | 58 | 0.65 |
 | Psychological Bulletin | Sackett, Kuncel, Arneson, Cooper & Waters | Does socioeconomic status explain the relationship between admissions tests and post-secondary academic performance? | 2009 | SES on Univ entrance and GPAs | 41 | 155,191 | 41 | 0.93 |
-| Developmental science | Lawson, Hook, & Farah | A meta-analysis of he relationship between socioeconomic status and executive function performance among children | 2018 | Socioeconomic status on executive functioning | 25 | 8,760 | 25 | 0.32 |
+| Developmental science | Lawson, Hook, & Farah | A meta-analysis of he relationship between socioeconomic status and [[Executive Function\|executive function]] performance among children | 2018 | Socioeconomic status on executive functioning | 25 | 8,760 | 25 | 0.32 |
 | Review of Educational Research | Kim, Cho & Kim | Socioeconomic status and academic outcomes in developing countries: A meta-analysis. | 2019 | Socioeconomic status in developing countries | 49 | 2,828,216 | 49 | 0.06 |
 | Educational Psychology Review | Liu, Peng, & Luo | The relation between family socioeconomic status and academic achievement in China: A meta-analysis. | 2019 | Socioeconomic status in China | 78 | 215,649 | 78 | 0.50 |
 | Journal of Housing and the Built environment | Nieuwenhuis & Hooimeijer | The association between neighborhoods and educational achievement,: A systematic review and meta-analysis. | 2016 | Neighborhood SES | 88 | NA | 88 | 1.01 |
@@ -1406,7 +1406,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| School Effectiveness and School Improvement | van Ewijk & Sleegers | Peer Ethnicity and Achievement: A Meta-Analysis into the Compositional Effect | 2010 | Peer ethnicity and achievement | 30 | NA | 30 | 0.32 |
+| [[School Effectiveness]] and School Improvement | van Ewijk & Sleegers | Peer Ethnicity and Achievement: A Meta-Analysis into the Compositional Effect | 2010 | Peer ethnicity and achievement | 30 | NA | 30 | 0.32 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 30 | NA | 30 | 0.32
 
@@ -1553,7 +1553,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Conference paper | Salzman | Meta-analysis of studies investigating the effects of father absence on children's cognitive performance | 1987 | Father present vs. father absent | 137 | 9,955,118 | 273 | 0.26 |
-| Journal of Marriage and Family | Amato & Gilbreth | Nonresident Fathers and Children's Well-Being: A Meta-Analysis | 1999 | Fathers presence in family | 52 | 14,471 | 52 | 0.07 |
+| Journal of Marriage and Family | Amato & Gilbreth | Nonresident Fathers and Children's Well-Being: A Meta-Analysis | 1999 | Fathers [[Presence\|presence]] in family | 52 | 14,471 | 52 | 0.07 |
 | Early Education and Development | McWayne, Downer, Campos, & Harris | Father involvement during early childhood and its association with children's early learning: A meta-analysis | 2013 | Father involvement | 21 | NA | 22 | 0.43 |
 | Journal of Educational Psychology | Kim & Hill | Including Fathers in the Picture: A Meta-Analysis of Parental Involvement and Students' Academic Achievement | 2015 | Father involvement | 29 | NA | 29 | 0.28 |
 | Journal of Family Psychology | Adamsons & Johnson | An updated and expanded meta-analysis of nonresident fathering and child well-being | 2013 | Nonresident fathers on achievement | 17 | NA | 17 | 0.04 |
@@ -1647,7 +1647,7 @@
 | Journal of Schooling Studies | Tong | The influence of parental participation on the academic achievement of primary and middle school students: A meta-analysis based on 29 quantitative studies in China. | 2022 | Parental involvement | 29 | NA | 34 | 0.32 |
 | Current Psychology | Kaya & Selvitopu | The roles of family contextual factors on immigrant students' academic achievement: A meta-analysis. | 2023 | School-based parental involvement with immigrants | 31 | 38,057 | 36 | 0.24 |
 | International Journal of Instruction | Sujarwo & Herwin | Parental involvement and student achievement: A meta. analysis of publications in the Scopus database. | 2023 | Parental involvement in East Asia | 27 | 167,953 | 27 | 0.45 |
-| Educational Research Review | Kim | Fifty years of parental involvement and achievement research: A second-order meta-analysis. | 2022 | Parental involvement (2nd order meta) | 889 | 2,241,516 | 889 | 0.37 |
+| Educational Research Review | Kim | Fifty years of parental involvement and achievement research: A [[Meta-meta-analysis\|second-order meta-analysis]]. | 2022 | Parental involvement (2nd order meta) | 889 | 2,241,516 | 889 | 0.37 |
 | International Review of Education | He & Thompson | Family involvement and English learners' outcomes: A synthetic analysis. | 2022 | Family involvement | 21 | 6,105 | 26 | 0.30 |
 | Educational Psychology Review | Smith, Sheridan, Kim, Park, & Beretvas | The effects of family-school partnership interventions on academic and social emotional functioning. | 2020 | Parental involvement | 39 | 10,749 | 137 | 0.25 |
 | Journal of Black Studies | Jeynes | A meta-analysis: The relationship between parental involvement and African American school outcomes. | 2016 | Parental involvement with African American students | 42 | 35,826 | 42 | 0.36 |
@@ -1677,7 +1677,7 @@
 | Psychological Development and Education | Xie, Shi, Yin, & Lan | A meta-analysis of the relationships between Chinese parenting styles and children's academic achievement. | 2022 | Parental warmth and understanding | 54 | 24,630 | 793 | 0.37 |
 | Early Childhood Research Quarterly | Heidlage, Cunningham, Kaiser, Trivette, Barton, Frey, & Roberts | The effects of parent-implemented language interventions on child linguistic outcomes: A meta-analysis. | 2020 | Parent language interventions | 25 | 1,734 | 25 | 0.52 |
 | Pediatrics | Madigan, Prime, Graham, Rodrigues, Anderson, Khoury, & Jenkins | Parenting behavior and child language: A meta-analysis. | 2019 | Sensitive responsive parenting and child language | 37 | NA | 36 | 0.56 |
-| Clinical Child and Family Psychology Review | Prime, Andrews, Markwell, Gonzalez, Janus, Tricco, Bennett, & Atkinson | Positive parenting and early childhood cognition: A systematic review and meta-analysis of randomized controlled trials. | 2023 | Positive parenting on academics | 61 | 9,687 | 79 | 0.46 |
+| Clinical Child and Family Psychology Review | Prime, Andrews, Markwell, Gonzalez, Janus, Tricco, Bennett, & Atkinson | Positive parenting and early childhood cognition: A systematic review and meta-analysis of [[Randomised Controlled Trials\|randomized controlled trials]]. | 2023 | Positive parenting on academics | 61 | 9,687 | 79 | 0.46 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 722 | 62,609 | 1,819 | 0.40
 
@@ -1799,11 +1799,11 @@
 | Educational Administration Quarterly | Witziers, Bosker, & Kruger | Educational Leadership and Student Achievement: The Elusive Search for an Association | 2003 | Principals on student achievement | 61 | NA | 377 | 0.02 |
 | Report | Waters, Marzano, & McNulty | School District Leadership That Works: The Effect of Superintendent Leadership on Student Achievement | 2003 | District superintendents on student achievement | 70 | 1,100,000 | 70 | 0.52 |
 | Conference paper | Waters & Marzano | School District Leadership that Works: The Effect of Superintendent Leadership on Student Achievement | 2006 | District superintendents on achievement | 27 | NA | 27 | 0.49 |
-| Asia Pacific Education Review | Chin | Meta-analysis of transformational school leadership effects on school outcomes in Taiwan and the USA | 2007 | Transformational leadership | 21 | 6,558 | 11 | 1.12 |
+| Asia Pacific Education Review | Chin | Meta-analysis of transformational [[School Leadership\|school leadership]] effects on school outcomes in Taiwan and the USA | 2007 | Transformational leadership | 21 | 6,558 | 11 | 1.12 |
 | Educational Administration Quarterly | Robinson, Lloyd, & Rowe | The Impact of Leadership on Student Outcomes: An Analysis of the Differential Effects of Leadership Types | 2008 | Principals on student achievement | 22 | NA | 199 | 0.41 |
 | Book | Creemers & Kyriakides | The Dynamics of Educational Effectiveness | 2008 | School leadership | 29 | NA | 29 | 0.07 |
 | Book | Hendriks & Steen | Results from School Leadership Effectiveness Studies (2005–2010) | 2012 | Leadership on outcomes | 15 | NA | 15 | 0.03 |
-| Book | Scheerens & Steen | Earlier meta-analyses. In School Leadership Effects Revisited | 2012 | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |
+| Book | Scheerens & Steen | Earlier meta-analyses. In School Leadership Effects Revisited | 2012 | [[Instructional Leadership\|Instructional leadership]] on achievement | 53 | NA | 170 | 0.05 |
 | Journal of Education and Literature | Tsai | A preliminary meta-analysis of teacher leadership | 2015 | Teacher leadership on achievement | 12 | 3,233 | 3 | 0.31 |
 | Book | Karadag, Bektas, Cogaltay, & Yalcin | The effect of educational leadership on students' achievement | 2015 | Instructional leadership on achievement | 57 | 28,964 | 57 | 0.72 |
 | Educational Administration Quarterly | Leithwood & Sun | The nature and effects of transformational school leadership a meta-analytic review of unpublished research | 2012 | Transformational leadership | 24 | 2,185 | 20 | 0.18 |
@@ -1817,7 +1817,7 @@
 | Conference paper | Wu & Shen | A multivariate meta-analysis of the relationship between principal leadership and student achievement. | 2022 | School leaders on student achievement | 42 | NA | 42 | 0.21 |
 | International Journal of Education and Practice | Almarshad | The Effects of Instructional, Transformation and Distributed Leadership on Students' Academic Outcomes: A Meta -Analysis | 2017 | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |
 | Asia Pacific Education Review | Karadag | The effect of educational leadership on students' achievement: A cross-cultural meta-analysis research on studies between 2008 and 2018 | 2020 | School leadership | 151 | 131,498 | 151 | 0.68 |
-| International Education Studies | Ertem | Relationship of School Leadership with School Outcomes: A Meta-Analysis Study. | 2021 | School leadership | 7 | 8,180 | 7 | 0.93 |
+| [[International Education]] Studies | Ertem | Relationship of School Leadership with School Outcomes: A Meta-Analysis Study. | 2021 | School leadership | 7 | 8,180 | 7 | 0.93 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 1,093 | 1,328,243 | 2,757 | 0.36
 
@@ -1894,7 +1894,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Report | Exceptional Child Center | Early intervention research institute: Final report, 1982-1983 | 1983 | Handicapped and disadvantaged students | 156 | NA | 1,436 | 0.43 |
+| Report | Exceptional Child Center | Early [[Intervention Research\|intervention research]] institute: Final report, 1982-1983 | 1983 | Handicapped and disadvantaged students | 156 | NA | 1,436 | 0.43 |
 | Journal of Educational Psychology | Horn & Packard | Early identification of learning problems: A meta-analysis. | 1985 | Early prediction of learning problems | 58 | 59,998 | 138 | 0.90 |
 | Journal of Children in Contemporary Society | Casto & White | The efficacy of early intervention programs with environmentally at-risk infants | 1985 | At risk children | 126 | NA | 663 | 0.43 |
 | Evaluation and Program Planning | Ottenbacher & Petersen | The efficacy of early intervention programs for children with organic impairment: A quantitative review | 1985 | Early intervention for disabled students | 38 | 1,544 | 118 | 0.97 |
@@ -1929,7 +1929,7 @@
 | Educational Research Review | Chambers, Cheung, & Slavin | Literacy and Language Outcomes of Comprehensive and Developmental-Constructivist Approaches to Early Childhood Education: A Systematic Review | 2016 | Pre-school programs | 32 | NA | 32 | 0.12 |
 | Society for Research on Educational Effectiveness | Kelchen, Magnuson, Duncan, Schindler, Shager, & Yoshikawa | Do the Effects of Early Childhood Programs on Academic Outcomes Vary by Gender? A Meta-Analysis | 2011 | Early childhood programs | 20 | 2,360 | 582 | 0.19 |
 | Quality Measurement in Early Childhood Settings | Burchinal, Kainz & Cai | How well do our measures of quality predict child outcomes? A meta-analysis and coordinated analysis of data from large-scale studies of early childhood settings | 2011 | Early childhood programs | 20 | NA | 97 | 0.24 |
-| Plos One | Brunsek, Perlman, Falenchuk, McMullen, Fletcher, & Shah | The relationship between the Early Childhood Environment Rating Scale and its revised form and child outcomes: A systematic review and meta-analysis | 2017 | Early Childhood environment rating and achievement | 16 | NA | 16 | 0.02 |
+| Plos One | Brunsek, Perlman, Falenchuk, McMullen, Fletcher, & Shah | The relationship between the Early Childhood Environment [[Rating Scale]] and its revised form and child outcomes: A systematic review and meta-analysis | 2017 | Early Childhood environment rating and achievement | 16 | NA | 16 | 0.02 |
 | Educational Researcher | McCoy, Yoshikawa, Ziol-Guest, Duncan, Schindler, Magnuson, Yang, Koepp, & Shonkoff | Impacts of Early Childhood Education on Medium- and Long-Term Educational Outcomes | 2017 | Early childhood on medium to long achievement | 22 | NA | 34 | 0.49 |
 | Conference paper | Leak, Duncan, Li, Magnuson, Schindler & Yoshikawa | Is timing everything? How early childhood education program impacts vary by starting age, program duration and time since the end of the program. | 2010 | Early childhood programs | 117 | NA | 1,978 | 0.27 |
 | Dissertation | Hill | Do our children add up? A meta-analysis of the longitudinal effects of kindergarten schedule and mathematic achievement. | 2011 | Kindergarten on math | 24 | 24,892 | 62 | -0.04 |
@@ -2068,7 +2068,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Conference paper | Jabbar, Fong, Germain, Li, Sanchez, Sun, & Devall | The competitive effects of school choice on student outcomes: A systematic review and meta-analysis | 2017 | School choice | 22 | NA | 28 | 0.02 |
+| Conference paper | Jabbar, Fong, Germain, Li, Sanchez, Sun, & Devall | The competitive effects of [[School Choice\|school choice]] on student outcomes: A systematic review and meta-analysis | 2017 | School choice | 22 | NA | 28 | 0.02 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 22 | NA | 28 | 0.02
 
@@ -2166,7 +2166,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| American Educational Research Journal | Pham, Nguyen & Springer | Teacher merit pay: A meta-analysis. | 2021 | Merit pay on student performance | 37 | NA | 244 | 0.05 |
+| American Educational Research Journal | Pham, Nguyen & Springer | Teacher [[Performance Pay\|merit pay]]: A meta-analysis. | 2021 | Merit pay on student performance | 37 | NA | 244 | 0.05 |
 | Report | Fitzpatrick, Brehm, Burns, & Renbarger | Design Characteristics of Effective US Teacher Pay-for-Performance: Implications from Meta-Analysis | 2024 | Merit pay bonus amount | 25 | NA | 25 | -0.12 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 62 | NA | 269 | -0.03
@@ -2196,7 +2196,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Conference paper | Miron & Nelson | Student Academic Achievement in Charter Schools: What We Know and Why We Know So Little | 2001 | Charter schools | 18 | NA | 18 | 0.20 |
 | Report | Betts & Tang | Value-added and experimental studies of the effect of charter schools on student achievement | 2008 | Charter schools | 191 | NA | 191 | 0.01 |
-| Campbell Collaboration | Krowka, Hadd, & Marx | "No Excuses" Charter Schools for Increasing Math and Literacy Achievement in Primary and Secondary Education | 2017 | Charter schools | 73 | NA | 146 | 0.14 |
+| [[Campbell Collaboration]] | Krowka, Hadd, & Marx | "No Excuses" Charter Schools for Increasing Math and Literacy Achievement in Primary and Secondary Education | 2017 | Charter schools | 73 | NA | 146 | 0.14 |
 | Dissertation | Erickson | Examining a decade of reading and mathematics student achievement among primary and secondary traditional public school and charter school students: A meta-analytic investigation | 2013 | Charter schools | 11 | NA | 122 | -0.27 |
 | Journal of School Choice | Cheng, Hitt, Kisida, & Mills | "No excuses" charter schools: A meta-analysis of the experimental evidence on student achievement | 2017 | No excuse charter schools | 17 | NA | 266 | 0.14 |
 | Peabody Journal of Education | Jeynes | A Meta-Analysis on the Effects and Contributions of Public, Public Charter, and Religious Schools on Student Outcomes | 2012 | Charter schools | 37 | NA | 37 | 0.01 |
@@ -2254,7 +2254,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Monographs of the Society for Research in Child Development | Cooper, Charlton, Valentine, Muhlenbruck, & Borman | Making the Most of Summer School: A Meta-Analytic and Narrative Review | 2000 | Remedial summer programs | 41 | 26,500 | 385 | 0.28 |
+| Monographs of the [[Society for Research in Child Development]] | Cooper, Charlton, Valentine, Muhlenbruck, & Borman | Making the Most of Summer School: A Meta-Analytic and Narrative Review | 2000 | Remedial summer programs | 41 | 26,500 | 385 | 0.28 |
 | Monographs of the Society for Research in Child Development | Cooper, Charlton, Valentine, Muhlenbruck, & Borman | Making the Most of Summer School: A Meta-Analytic and Narrative Review | 2000 | Acceleration summer programs | 7 | 2,200 | 60 | 0.23 |
 | Dissertation | Kim | A meta-analysis of academic summer programs | 2002 | Academic summer programs | 57 | NA | 155 | 0.17 |
 | Mid-Continent Research for Education and Learning | Lauer, Akiba, Wilkerson, Apthorp, Snow, & Martin-Glenn | The effectiveness of out-of-school-time strategies in assisting low-achieving students in reading and mathematics: A research synthesis. | 2004 | Summer school programs on reading and math | 22 | 15,277 | 26 | 0.07 |
@@ -2272,7 +2272,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Review of Educational Research | Cooper, Nye, Charlton, Lindsay, & Greathouse | The Effects of Summer Vacation on Achievement Test Scores: A Narrative and Meta-Analytic Review | 1996 | Summer vacation on achievement | 39 | NA | 62 | -0.09 |
+| Review of Educational Research | Cooper, Nye, Charlton, Lindsay, & Greathouse | The Effects of Summer Vacation on [[Achievement and Aptitude Tests\|Achievement Test]] Scores: A Narrative and Meta-Analytic Review | 1996 | Summer vacation on achievement | 39 | NA | 62 | -0.09 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 39 | NA | 62 | -0.09
 
@@ -2319,7 +2319,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Educational Evaluation and Policy Analysis | Glass & Smith | Meta-analysis of research on class size and achievement | 1979 | Class size | 77 | 520,899 | 725 | 0.09 |
+| Educational Evaluation and Policy Analysis | Glass & Smith | Meta-analysis of research on [[Class Size\|class size]] and achievement | 1979 | Class size | 77 | 520,899 | 725 | 0.09 |
 | Elementary School Journal | McGiverin, Gilman, & Tillitski | A meta-analysis of the relation between class size and achievement. | 1989 | Class size | 10 | NA | 24 | 0.34 |
 | Journal of the Royal Statistical Society. Series C: Applied Statistics | Goldstein, Yang, Omar, Turner, & Thompson | Meta-analysis using multilevel models with an application to the study of class size effects | 2000 | Class size | 9 | 29,440 | 36 | 0.20 |
 | Educational Evaluation and Policy Analysis | Bowne, Magnuson, Schindler, Duncan, & Yoshikawa | A Meta-Analysis of Class Sizes and Ratios in Early Childhood Education Programs: Are Thresholds of Quality Associated With Greater Impacts on Cognitive, Achievement, and Socioemotional Outcomes? | 2017 | Class size in early childhood | 38 | NA | 328 | 0.31 |
@@ -2356,13 +2356,13 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| American Educational Research Journal | Kulik & Kulik | Effects of Ability Grouping on Secondary School Students: A Meta-analysis of Evaluation Findings | 1982 | Ability grouping on high school students | 52 | NA | 51 | 0.10 |
+| American Educational Research Journal | Kulik & Kulik | Effects of [[Tracking\|Ability Grouping]] on Secondary School Students: A Meta-analysis of Evaluation Findings | 1982 | Ability grouping on high school students | 52 | NA | 51 | 0.10 |
 | Conference paper | Kulik & Kulik | Effects of Ability Grouping on Elementary School Pupils: A Meta-Analysis. | 1984 | Ability grouping in elementary grades | 23 | NA | 23 | 0.19 |
 | ERIC | Kulik & Kulik | Effects of Inter-Class Ability Grouping on Achievement and Self-Esteem. | 1985 | Inter-class ability grouping | 85 | NA | 85 | 0.15 |
 | ERIC | Noland & Taylor | The Effects of Ability Grouping: A Meta-Analysis of Research Finding | 1986 | Ability grouping | 50 | NA | 720 | -0.08 |
 | Review of Educational Research | Slavin | Ability grouping and student achievement in elementary schools: A best-evidence synthesis. | 1987 | Ability grouping in elementary grades | 14 | NA | 17 | 0.00 |
 | Review of Educational Research | Slavin | Achievement Effects of Ability Grouping in Secondary Schools: A Best-Evidence Synthesis | 1990 | Ability grouping on high school students | 29 | NA | 29 | -0.02 |
-| Review of Educational Research | Gutierrez & Slavin | Achievement Effects of the Nongraded Elementary School: A Best Evidence Synthesis | 1992 | Nongraded elementary schools | 14 | NA | 14 | 0.34 |
+| Review of Educational Research | Gutierrez & Slavin | Achievement Effects of the Nongraded Elementary School: A [[Best Evidence Synthesis]] | 1992 | Nongraded elementary schools | 14 | NA | 14 | 0.34 |
 | Conference paper | Kulik | Effects of inter-class ability grouping on achievement and self-esteem | 1985 | Inter-class ability grouping | 78 | NA | 78 | 0.15 |
 | Gifted Child Quarterly | Kulik & Kulik | Meta-analytic findings on grouping programs | 1992 | Ability grouping | 56 | NA | 51 | 0.03 |
 | Dissertation | Kim | The impact of the nongraded program on students' affective domains and cognitive domains | 1996 | Nongraded schools in Kentucky | 96 | NA | 96 | 0.17 |
@@ -2457,7 +2457,7 @@
 | Conference paper | Goldring | A meta-analysis of classroom organization strategies for gifted education programs | 1987 | Ability grouping for gifted | 23 | NA | 146 | 0.35 |
 | The National Research Center on the Gifted and Talented | Rogers | The relationship of grouping practices to the education of the gifted and talented learner. Executive summary | 1991 | Grouping on gifted | 13 | NA | 13 | 0.43 |
 | Gifted Child Quarterly | Vaughn, Feldhusen, & Asher | Meta-Analyses and Review of Research on Pull-Out Programs in Gifted Education | 1991 | Pull out programs for gifted | 8 | NA | 8 | 0.47 |
-| High Ability Studies | Neber, Finsterwald & Urban | Cooperative Learning with Gifted and High-achieving Students: A review and meta-analyses of 12 studies | 2001 | Homogeneous vs. Heterogeneous on Gifted | 6 | NA | 314 | 0.13 |
+| High Ability Studies | Neber, Finsterwald & Urban | [[Cooperative Learning]] with Gifted and High-achieving Students: A review and meta-analyses of 12 studies | 2001 | Homogeneous vs. Heterogeneous on Gifted | 6 | NA | 314 | 0.13 |
 | Book | Kulik & Kulik | Ability grouping and gifted students. | 1991 | Classroom organization on gifted | 56 | NA | 10 | 0.02 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 131 | NA | 516 | 0.27
@@ -2504,7 +2504,7 @@
 | Review of Educational Research | Roorda, Koomen, Spilt & Oort | The Influence of Affective Teacher-Student Relationships on Students' School Engagement and Achievement: A Meta-Analytic Approach | 2011 | Teacher-student relations on achievement | 99 | 165,926 | 168 | 0.53 |
 | Review of Educational Research | Vandenbroucke, Spilt, Verschueren, Piccinin, & Baeyens | The classroom as a developmental context for cognitive development: A meta-analysis on the importance of teacher–student interactions for children's executive functions | 2018 | Teacher-student interactions on Executive functioning | 23 | 19,906 | 23 | 0.18 |
 | Review of Educational Research | Kincade, Cook, & Goerdt | Meta-analysis and common practice elements of universal approaches to improving student-teacher relationships | 2020 | Teacher-student programs on achievement | 21 | NA | 21 | 0.26 |
-| Global Studies | Wang & Dong | Meta-analysis of the impact of teacher-student relationship pattern on students' academic achievement. | 2017 | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 |
+| Global Studies | Wang & Dong | Meta-analysis of the impact of [[Student-Teacher Relationship\|teacher-student relationship]] pattern on students' academic achievement. | 2017 | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 |
 | Report | Emslander, Holzberger, Ofstad, Fischbach, Scherer | Teacher-Student Relationships and Student Outcomes: A Systematic Review of Meta-Analyses and Second-Order Meta-Analysis. | 2023 | Teacher-student relations on achievement | 231 | 6,237,000 | 116 | 0.50 |
 | School Psychology International | Lei, Wang, Chiu, Du, & Xie | Teacher-student relationship and academic achievement in China. | 2022 | Teacher-student relations on achievement | 74 | 233,961 | 90 | 0.54 |
 | Global Studies | Mo | Meta-analysis of the impact of teacher-student relationship pattern on students' academic achievement. | 2017 | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 |
@@ -2604,7 +2604,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Journal of Research and Development in Education | Holmes | The Fourth R: Retention. | 1983 | Retained vs. non-retained | 7 | NA | 527 | -0.42 |
-| Review of Educational Research | Holmes & Matthews | The Effects of Nonpromotion on Elementary and Junior High School Pupils: A Meta-Analysis | 1984 | Retention on all students on elementary students | 44 | 11,132 | 575 | -0.37 |
+| Review of Educational Research | Holmes & Matthews | The Effects of [[Grade Retention\|Nonpromotion]] on Elementary and Junior High School Pupils: A Meta-Analysis | 1984 | Retention on all students on elementary students | 44 | 11,132 | 575 | -0.37 |
 | Conference paper | Holmes | A synthesis of recent research on nonpromotion: A five year follow-up. | 1986 | Retained vs. non-retained | 17 | NA | 217 | -0.06 |
 | Research and policies on retention | Holmes | Grade Level Retention Effects: A Meta-Analysis of Research Studies | 1989 | Retention on all students | 63 | NA | 861 | -0.15 |
 | Dissertation | Yoshida | A meta-analysis of the effects of grade retention on the achievement of elementary school children. | 1989 | Retention on elementary students | 34 | NA | 242 | -0.38 |
@@ -2619,7 +2619,7 @@
 ### Classroom management
 
 - Detail page: https://www.visiblelearningmetax.com/influences/view/classroom_management
-- Domain: Classroom / Classroom management
+- Domain: Classroom / [[Classroom Management|Classroom management]]
 - Weighted mean effect size: 0.43
 - Meta-analysis rows: 6
 
@@ -2657,7 +2657,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Social Development | Nakamoto & Schwartz | Is Peer Victimization Associated with Academic Achievement? A Meta-analytic Review | 2010 | Peer victimization on achievement | 33 | 29,552 | 33 | -0.24 |
-| Psychological Bulletin | Kowalski, Giumetti, Schroader, & Lattanner | Bullying in the digital age: A critical review and meta-analysis of cyberbullying research among youth | 2014 | Cyberbullying | 6 | NA | 6 | -0.09 |
+| Psychological Bulletin | Kowalski, Giumetti, Schroader, & Lattanner | Bullying in the digital age: A [[Critical Review\|critical review]] and meta-analysis of cyberbullying research among youth | 2014 | Cyberbullying | 6 | NA | 6 | -0.09 |
 | Review of Educational Research | Gardella, Fisher, & Teurbe-Tolon | A Systematic Review of Meta-Analysis of Cyber-Victimization and Educational Outcomes for Adolescents | 2017 | Cyber-bullying | 25 | NA | 14 | -0.28 |
 | World Journal of Psychiatry | Moore, Norman, Suetani, Thomas, Sly, & Scott | Consequences of bullying victimization in childhood and adolescence: A systematic review and meta-analysis | 2017 | Bullying on achievement | 6 | NA | 6 | -0.73 |
 | International journal of environmental research and public health | Samara, Nascimento, El-Asam, Hammuda, & Khattab | How can bullying victimisation lead to lower academic achievement? A systematic review and meta-analysis of the mediating role of cognitive-motivational factors. | 2021 | Bullying victimization | 11 | 257,247 | 14 | -0.26 |
@@ -2887,7 +2887,7 @@
 | Journal of Educational Psychology | Südkamp, Kaiser & Moller | Accuracy of teachers' judgments of students' academic achievement: A meta-analysis | 2012 | Teacher judgement of students' achievement | 75 | 38,878 | 75 | 1.62 |
 | Review of Educational Research | Hoge & Coladarci | Teacher-based judgments of academic achievement: A review of literature | 1989 | Teacher judgement of students' achievement | 16 | NA | 16 | 1.76 |
 | Educational Research Review | Machts, Kaiser, Schmidt, & Moller | Accuracy of teachers' judgments of students' cognitive abilities: A meta-analysis | 2016 | Teacher judgements of cognitive abilities | 33 | NA | 106 | 1.00 |
-| Thinking Skills and Creativity | Gralewski & Karwowski | Are teachers' ratings of students' creativity related to students' divergent thinking? A meta-analysis. | 2019 | Teacher judgement of creativity | 27 | 6,309 | 27 | 0.47 |
+| Thinking Skills and Creativity | Gralewski & Karwowski | Are teachers' ratings of students' creativity related to students' [[Divergent Thinking\|divergent thinking]]? A meta-analysis. | 2019 | Teacher judgement of creativity | 27 | 6,309 | 27 | 0.47 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 151 | 45,187 | 224 | 1.21
 
@@ -2926,7 +2926,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dissertation | Fendick | The Correlation Between Teacher Clarity of Communication and Student Achievement Gain: A Meta-Analysis | 1990 | Teacher clarity on outcomes | 39 | NA | 100 | 0.75 |
+| Dissertation | Fendick | The Correlation Between [[Teacher Clarity]] of Communication and Student Achievement Gain: A Meta-Analysis | 1990 | Teacher clarity on outcomes | 39 | NA | 100 | 0.75 |
 | Communication Education | Titsworth, Mazer, Goodboy, Bolkan & Myers | Two meta-analyses exploring the relationship between teacher clarity and student learning. | 2015 | Teacher clarity on outcomes | 25 | 8,241 | 25 | 0.72 |
 | Communication Education | Titsworth, Mazer, Goodboy, Bolkan & Myers | Two meta-analyses exploring the relationship between teacher clarity and student learning. | 2015 | Teacher clarity on outcomes | 37 | 6,612 | 114 | 1.04 |
 
@@ -2957,7 +2957,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Eells | Meta-Analysis of the Relationship Between Collective Teacher Efficacy and Student Achievement | 2011 | Collective teacher efficacy | 26 | 1,402 | 26 | 1.57 |
 | Book | Çogaltay & Karadag | The Effect of Collective Teacher Efficacy on Student Achievement | 2017 | Teacher collective efficacy | 35 | 2,087 | 35 | 1.22 |
-| Dissertation | Norris | The relationship between collective teacher efficacy and school-level reading and mathematics achievement: A meta-regression using robust variance estimation | 2018 | Collective teacher efficacy | 24 | NA | 24 | 1.28 |
+| Dissertation | Norris | The relationship between collective teacher efficacy and school-level reading and mathematics achievement: A meta-regression using [[Robust Variance Estimation\|robust variance estimation]] | 2018 | Collective teacher efficacy | 24 | NA | 24 | 1.28 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 85 | 3,489 | 85 | 1.36
 
@@ -3033,7 +3033,7 @@
 | Educational Leadership | Wade | What Makes a Difference in Inservice Teacher Education? A Meta-Analysis of Research | 1985 | In-service teacher education on achievement | 91 | NA | 715 | 0.37 |
 | Dissertation | Hacke | Meta-analysis comparing student outcomes for National Board certified teachers and non-National Board certified teachers. | 2010 | NBC vs. Non NBC teachers | 21 | 1,989,761 | 21 | 0.09 |
 | Dissertation | Adkins | The impact of K-12 professional development programs on student learning: A meta-analysis approach | 2006 | PD on student outcomes | 25 | 111,151 | 25 | 0.34 |
-| Book | Curlette, Hendrick, Ogletree. Benson, & Granville | Student achievement from anchor action research studies in high-needs, urban professional development schools: A meta- analysis | 2014 | Professional development schools | 14 | NA | 14 | 0.46 |
+| Book | Curlette, Hendrick, Ogletree. Benson, & Granville | Student achievement from anchor [[Action Research\|action research]] studies in high-needs, urban professional development schools: A meta- analysis | 2014 | Professional development schools | 14 | NA | 14 | 0.46 |
 | Report | Timperley, Wilson, Barrar, & Fung | Teacher professional learning and development: Best evidence synthesis iteration | 2007 | PD on student outcomes | 227 | NA | 183 | 0.65 |
 | Conference paper | Yoon, Duncan, Lee & Shapley | The effects of teachers' professional development on student achievement: Findings from a systematic review of evidence. | 2008 | PD on student outcomes | 9 | NA | 9 | 0.54 |
 | Report | Haystead | Meta-analytic synthesis of studies conducted at Marzano Research Laboratory on instructional strategies | 2009 | Teacher action research studies | 329 | 7,872 | 329 | 0.36 |
@@ -3041,7 +3041,7 @@
 | Book | Lomos, Hofman, & Bosker | Professional communities and student achievement–a meta-analysis | 2011 | Professional communities on student outcomes | 5 | NA | 5 | 0.25 |
 | Dissertation | Davis | A Meta-Analysis of School-Based Problem-Solving Consultation Outcomes: A Review form 1986-2009 | 2012 | Expert works with teacher in problem solving | 19 | NA | 205 | 0.42 |
 | Dissertation | Rains | The impact of school-wide professional development on student achievement: a meta-analysis from an effective schools perspective. | 2015 | PD on student outcomes | 10 | 157,000 | 10 | 0.21 |
-| Dissertation | Patrick | Meta-analysis of dissertation research on the relationship between professional learning community implementation and student achievement | 2013 | Professional communities on student outcomes | 21 | NA | 47 | 0.10 |
+| Dissertation | Patrick | Meta-analysis of dissertation research on the relationship between [[Professional Learning Community\|professional learning community]] implementation and student achievement | 2013 | Professional communities on student outcomes | 21 | NA | 47 | 0.10 |
 | Journal of Research on Educational Effectiveness | Villares, Frain, Brigman, Webb, & Peluso | Teacher professional development and student reading achievement: A meta-analytic review of the effects. | 2012 | PL on reading | 28 | 16,677 | 79 | 0.18 |
 | Report | Morina, Fütterer, Hübner, Zitzmann, & Fischer | Effects of Online Teacher Professional Development on the Teacher, Classroom, and Student Level: A Meta-Analysis | 2024 | Online PD on student outcomes | 85 | NA | 85 | 0.21 |
 | Report | Sims, Fletcher-Wood, O'Mara-Eves, Cottingham, Stansfield, van Herwegen, & Anders | What are the characteristics of effective teacher professional development? A systematic review and meta-analysis | 2021 | PD | 28 | NA | 32 | 0.05 |
@@ -3077,7 +3077,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Episteme | Tinoca | Focusing Professional Development for Science Teachers on Student Learning | 2004 | PD in science | 35 | NA | 37 | 0.45 |
 | Dissertation | Salinas | Investing in our Teachers: What Focus of Professional Development Leads to the Highest Student Gains in Mathematics Achievement? | 2010 | PD in mathematics | 15 | NA | 42 | 0.57 |
-| Educational Evaluation and Policy Analysis | Lynch, Hill, Gonzalez, & Pollard | Strengthening the research base that informs STEM instructional improvement efforts: A meta-analysis | 2019 | Professional Development in STEM subjects | 95 | NA | 258 | 0.21 |
+| Educational Evaluation and Policy Analysis | Lynch, Hill, Gonzalez, & Pollard | Strengthening the research base that informs [[STEM Education\|STEM]] instructional improvement efforts: A meta-analysis | 2019 | Professional Development in STEM subjects | 95 | NA | 258 | 0.21 |
 | Conference paper | You, Park, & Hong | Effectiveness of professional development for STEM teachers on teachers and students: Meta-analysis | 2023 | PD in STEM | 119 | NA | 941 | 0.74 |
 | Dissertation | Franklin | A Meta-Analysis on The Impact of Professional Development Programs for K-12 Mathematics Teachers on Students' Achievement | 2015 | PD on math outcomes | 16 | 7,276,447 | 76 | 0.16 |
 
@@ -3124,7 +3124,7 @@
 | Dissertation | Butcher | An Experimental Investigation of the Effectiveness of a Value Claim Strategy Unit for use in Teacher Education | 1981 | Micro teaching on teacher skills | 47 | NA | 47 | 0.55 |
 | Dissertation | Bennett | The search for the effective primary school teachers | 1987 | Micro teaching on teacher skills | 112 | NA | 126 | 1.10 |
 | Conference paper | Metcalf | Laboratory experiences in teacher education: A meta-analytic review of research | 1995 | Lab experiences in teacher education on teacher skills | 60 | NA | 83 | 0.70 |
-| Journal of Special Education Technology | Morin, Nagro, Artis, Haas, Ganz, & Vannest | Differential effects of video analysis for special educators related to intervention characteristics, dependent variables, and student outcomes: A meta-analysis of single-case research | 2019 | Video of special ed classes on student outcomes | 24 | NA | 24 | 0.96 |
+| Journal of Special Education Technology | Morin, Nagro, Artis, Haas, Ganz, & Vannest | Differential effects of video analysis for special educators related to intervention characteristics, [[Dependent Variable\|dependent variables]], and student outcomes: A meta-analysis of single-case research | 2019 | Video of special ed classes on student outcomes | 24 | NA | 24 | 0.96 |
 | Conference paper | Aina | Videocase-based learning and analysis in teacher education: A meta-analysis. | 2020 | Micro teaching on teaching skills | 27 | NA | 27 | 0.65 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 270 | NA | 307 | 0.79
@@ -3174,9 +3174,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Review of Educational Leadership | Kulik & Kulik | Effects of Accelerated Instruction on Students | 1984 | Acceleration on gifted | 26 | NA | 13 | 0.88 |
 | Book | Kulik | Meta-Analytic Studies of Acceleration | 2004 | Acceleration with same age controls on gifted | 11 | 4,340 | 11 | 0.87 |
-| Journal of Educational Psychology | Steenbergen-Hu | A meta-analysis of the effectiveness of intelligent tutoring systems on college students' academic learning | 2014 | Acceleration on gifted | 38 | NA | 141 | 0.29 |
+| Journal of Educational Psychology | Steenbergen-Hu | A meta-analysis of the effectiveness of [[Intelligent Tutoring Systems\|intelligent tutoring systems]] on college students' academic learning | 2014 | Acceleration on gifted | 38 | NA | 141 | 0.29 |
 | Book | Rogers | Meta-analysis of 26 forms of academic acceleration: Options for elementary (primary) and secondary learners with gifts and talents | 2019 | Different methods of accelerated on gifted | 42 | NA | 297 | 0.45 |
-| The Asia-Pacific Education Researcher | Yan, Wei, Bu, & Zhang | The Effects of Gifted College Students' Research Engagement on Their Academic Achievement: A Meta-analysis. | 2024 | More challenging accelerated classes | 15 | 7,460 | 15 | 0.65 |
+| The Asia-Pacific Education Researcher | Yan, Wei, Bu, & Zhang | The Effects of Gifted College Students' [[Engagement in and with Research\|Research Engagement]] on Their Academic Achievement: A Meta-analysis. | 2024 | More challenging accelerated classes | 15 | 7,460 | 15 | 0.65 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 132 | 11,800 | 477 | 0.63
 
@@ -3210,7 +3210,7 @@
 | Dissertation | Lloyd | Effects of Math Interventions on Elementary Students' Math Skills: A Meta-Analysis | 2013 | Math interventions on math skills | 18 | 3,724 | 82 | 1.05 |
 | European Psychologist | Fischer, Moeller, Cress, & Nuerk | Interventions Supporting Children's Mathematics School Success | 2013 | Interventions to support math | 37 | NA | 39 | 0.58 |
 | Egitim Fakultesi Dergisi-Hacettepe University Journal Of Education | Sad, Kis, & Demir | A Meta-Analysis of the Effect of Contemporary Learning Approaches on Students' Mathematics Achievement. | 2017 | Contemporary learning methods | 47 | 2,627 | 47 | 0.93 |
-| Journal of Research on Educational Effectiveness | Williams, Citkowicz, Miller, Lindsay, & Walters | Heterogeneity in Mathematics Intervention Effects: Evidence from a Meta-Analysis of 191 Randomized Experiments. | 2022 | Maths intervention programs | 191 | NA | 1,109 | 0.31 |
+| Journal of Research on Educational Effectiveness | Williams, Citkowicz, Miller, Lindsay, & Walters | [[Heterogeneity]] in Mathematics Intervention Effects: Evidence from a Meta-Analysis of 191 Randomized Experiments. | 2022 | Maths intervention programs | 191 | NA | 1,109 | 0.31 |
 | International Journal of Educational Research | Çetin & Aydin | The Effect of Multiple Representation Based Instruction on Mathematical Achievement: A Meta-Analysis | 2019 | Representational methods | 33 | 1,678 | 33 | 0.72 |
 | International Journal of Research in Education and Science (discontinued) | San & Kis | Effect of Traditional Methods in Geometry and Numbers Learning Domains on Academic Achievement: A Meta-Analysis Study. | 2018 | Traditional vs experimental groups in number | 31 | NA | 31 | 0.83 |
 | Learning Disabilities Research and Practice | Myers, Brownell, Griffin, Hughes, Witzel, Gage, Peyton, Acosta, & Wang | Mathematics interventions for adolescents with mathematics difficulties: A meta-analysis. | 2021 | Interventions for adolescences with difficulties | 45 | NA | 49 | 0.52 |
@@ -3236,7 +3236,7 @@
 | Dissertation | Malofeeva | A meta-analysis of mathematics instruction with young children | 2005 | Math programs for K-2 | 29 | 1,845 | 29 | 0.47 |
 | Report | Jacobse & Harskamp | A Meta-Analysis of the Effects of Instructional Interventions on Students' Mathematics Achievement | 2011 | Methods to teach Mathematics | 40 | 6,817 | 40 | 0.58 |
 | Remedial and Special Education | Burns | Empirical Analysis of Drill Ratio Research: Refining the Instructional Level for Drill Tasks | 2004 | Drilling at acquisition stage | 13 | NA | 45 | 0.82 |
-| Frontiers in Psychology | Xie, Wang, & Hu | Effects of constructivist and transmission instructional models on mathematics achievement in mainland China: A meta-analysis | 2018 | Constructivist teaching of math | 114 | NA | 114 | 0.59 |
+| Frontiers in Psychology | Xie, Wang, & Hu | Effects of constructivist and transmission instructional models on mathematics achievement in mainland China: A meta-analysis | 2018 | [[Constructivist Instruction\|Constructivist teaching]] of math | 114 | NA | 114 | 0.59 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 196 | 8,662 | 228 | 0.61
 
@@ -3254,7 +3254,7 @@
 | Conference paper | Curbello, Gallagher, & Dawson | The effects of teaching problem-solving on students' achievement in science and mathematics. | 1986 | Problem solving on science and math | 68 | 10,629 | 343 | 0.54 |
 | Learning Disability Quarterly | Zheng, Flynn, & Swanson | Experimental Intervention Studies on Word Problem Solving and Math Disabilities A Selective Analysis of the Literature. | 2013 | Problem solving with math disabilities | 8 | NA | 8 | 0.78 |
 | Journal of Educational Research | Zhang & Xin | A follow-up meta-analysis for word-problem-solving interventions for students with mathematics difficulties. | 2012 | Word problem solving interventions in math | 39 | NA | 39 | 1.85 |
-| International Journal of Human Sciences | Kaplan, Duran, Doruk, & Ozturk | Effects of instruction based on realistic mathematics education on mathematics achievement: A meta-analysis study. | 2015 | Realistic mathematics | 12 | 711 | 12 | 0.61 |
+| International Journal of [[Geisteswissenschaften\|Human Sciences]] | Kaplan, Duran, Doruk, & Ozturk | Effects of instruction based on realistic mathematics education on mathematics achievement: A meta-analysis study. | 2015 | Realistic mathematics | 12 | 711 | 12 | 0.61 |
 | Investigations in Mathematics Learning | Wang, Walkington, & Rouse | A meta-analysis on the effects of problem-posing in mathematics education on performance and dispositions. | 2022 | Problem solving in math | 21 | NA | 21 | 0.64 |
 | Journal of Educational Psychology | Lein, Jitendra, & Harwell | Effectiveness of mathematical word problem solving interventions for students with learning disabilities and/or mathematics difficulties: A meta-analysis. | 2020 | Word problem solving interventions in math | 31 | NA | 34 | 0.56 |
 
@@ -3279,7 +3279,7 @@
 | Journal for Research in Mathematics Education | Hembree | Effects of noncontent variables on mathematics test performance. | 1987 | Noncontingent variables | 75 | NA | 452 | 0.16 |
 | Journal of the International Association of Special Education | Hughes, Witzel, Riccomini, Fries, & Kanyongo | A Meta-Analysis of Algebra Interventions for Learners with Disabilities and Struggling Learners | 2014 | Teaching methods on algebra | 12 | NA | 711 | 0.62 |
 | Exceptional Children | Ennis & Losinski | Interventions to improve fraction skills for students with disabilities: A meta-analysis. | 2019 | Interventions to improve fractions | 21 | 1,804 | 21 | 1.17 |
-| Revista Romaneasca pentru Educatie Multidimensional | Ümit & Çelik | A Meta-analysis of the impact of problem posing strategies on students' learning of mathematics. | 2020 | Problem posing in math | 20 | NA | 31 | 1.33 |
+| Revista Romaneasca pentru Educatie Multidimensional | Ümit & Çelik | A Meta-analysis of the impact of [[Problem-Posing Education\|problem posing]] strategies on students' learning of mathematics. | 2020 | Problem posing in math | 20 | NA | 31 | 1.33 |
 | Psychological Bulletin | Peng, Lin, Ünal, Lee, Namkung, Chow, & Sales | Examining the mutual relations between language and mathematics: A meta-analysis | 2020 | Language skills to complete math | 344 | 360,000 | 393 | 0.93 |
 | Dissertation | Chen | The efficacy of mathematics interventions for students with learning disabilities: A meta-analysis. | 2004 | Math interventions with severely disabled | 110 | 3,516 | 110 | 0.94 |
 | International Education Studies | Lee, Capraro, Capraro, & Bicer | A Meta-Analysis: Improvement of Students' Algebraic Reasoning through Metacognitive Training. | 2018 | Metacognition in algebra | 22 | NA | 22 | 0.97 |
@@ -3301,7 +3301,7 @@
 | Dissertation | Lee | A meta-analysis of mathematics interventions reported for 1971-1998 on the mathematics achievement of students identified with learning disabilities and students identified as low achieving | 2000 | Math programs on LD students | 61 | 5,172 | 97 | 0.60 |
 | Remedial and Special Education | Kroesbergen & Van Luit | Mathematics Interventions for Children with Special Educational Needs: A Meta-Analysis | 2003 | ICT and Math with special education | 58 | 2,509 | 58 | 0.75 |
 | Review of Educational Research | Gersten, Chard, Jayanthi, Baker, Morph & Flojo | Mathematics Instruction for Students with Learning Disabilities or Difficulty Learning Mathematics: A Synthesis of the Intervention Research | 2009 | Math programs with LD students | 44 | 4,772 | 108 | 0.55 |
-| Elementary School Journal | Baker, Gersten, & Lee | A synthesis of empirical research on teaching mathematics to low-achieving students. | 2002 | Feedback and peer tutoring with low achieving students | 15 | 1,271 | 39 | 0.51 |
+| Elementary School Journal | Baker, Gersten, & Lee | A synthesis of empirical research on teaching mathematics to low-achieving students. | 2002 | Feedback and [[Peer-Supported Learning\|peer tutoring]] with low achieving students | 15 | 1,271 | 39 | 0.51 |
 | Learning Disabilities Research and Practice | Dennis, Sharp, Chovanes, Thomas, Burns, Custer, & Park | A Meta-Analysis of Empirical Research on Teaching Students with Mathematics Learning Difficulties | 2016 | Interventions for those with math difficulties | 25 | NA | 25 | 0.53 |
 | Remedial and Special Education | Stevens, Rodgers, & Powell | Mathematics interventions for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education | 2018 | Math programs on LD students | 25 | NA | 25 | 0.49 |
 
@@ -3330,7 +3330,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Effective School Practices | Fischer & Tarver | Meta-analysis of studies of mathematics curricula designed around big ideas | 1997 | Videodisc math | 7 | 277 | 22 | 1.01 |
+| Effective School Practices | Fischer & Tarver | Meta-analysis of studies of mathematics curricula designed around [[Big Ideas\|big ideas]] | 1997 | Videodisc math | 7 | 277 | 22 | 1.01 |
 | Dissertation | Domino | The Effects of Physical Manipulatives on Achievement in Mathematics in Grades K-6: A Meta-Analysis | 2010 | Manipulative materials | 31 | 5,288 | 35 | 0.50 |
 | Journal of Educational Psychology | Carbonneau, Marley & Selig | A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives | 2013 | Manipulative materials | 55 | 7,237 | 55 | 0.37 |
 | Dissertation | LeNoir | The effects of manipulatives in mathematics instruction in grades K-college: a meta-analysis of thirty years of research | 1989 | Manipulative materials | 45 | NA | 135 | 0.19 |
@@ -3355,7 +3355,7 @@
 | Dissertation | Ellington | Effects of hand-held calculators on precollege students in mathematics classes: A meta-analysis. | 2000 | Use of calculators in pre-college students | 53 | NA | 305 | 0.28 |
 | Journal of Special Education Technology | Fuchs & Fuchs | The relation between methods of graphing student performance data and achievement: A meta-analysis. | 1986 | Use of graphing paper | 16 | NA | 17 | 0.46 |
 | Dissertation | Nikolaou | Hand-held calculator use and achievement in mathematics: a meta-analysis | 2001 | Use of calculators on problem solving | 24 | NA | 103 | 0.49 |
-| School Science and Mathematics | Ellington | The Effects of Non-CAS Graphing Calculators on Student Achievement and Attitude Levels in Mathematics: A Meta-Analysis | 2006 | Use of Non-CAS Graphing calculators | 42 | NA | 97 | 0.19 |
+| School Science and Mathematics | Ellington | The Effects of Non-[[Chinese Academy of Sciences\|CAS]] Graphing Calculators on Student Achievement and Attitude Levels in Mathematics: A Meta-Analysis | 2006 | Use of Non-CAS Graphing calculators | 42 | NA | 97 | 0.19 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 238 | NA | 1,100 | 0.30
 
@@ -3401,7 +3401,7 @@
 | Journal of Research in Science Teaching | Schroeder, Scott, Tolson, Huang & Lee | A Meta-Analysis of National Research: Effects of Teaching strategies on Student Achievement in Science in the United States | 2007 | Teaching strategies in science | 61 | 159,695 | 61 | 0.67 |
 | Conference paper | Pellegrini & Heroux | Secondary Science Classrooms Gained From Technological Design: A Meta-Analysis | 2011 | Technological design curricula | 118 | 2,297 | 118 | 0.51 |
 | Learning Disabilities Research and Practice | Therrien, Taylor, Hosp Kaldenberg & Gorsh | Science instruction for students with learning disabilities: A meta-analysis | 2011 | Science programs for LD students | 12 | NA | 17 | 0.77 |
-| Journal of Technology and Science Education | Badeo & Duque | The effect of Socio-Scientific Issues (SSI) in teaching science: A meta-analysis study. | 2022 | Teaching socio-scientific issues | 12 | NA | 12 | 1.08 |
+| Journal of Technology and Science Education | Badeo & Duque | The effect of [[Socioscientific Issues\|Socio-Scientific Issues]] (SSI) in teaching science: A meta-analysis study. | 2022 | Teaching socio-scientific issues | 12 | NA | 12 | 1.08 |
 | Conference paper | Sahin & Bae | A Meta-Analysis of the Relationship Between the Science Writing Heuristic and Academic Achievement. | 2020 | Science argumentative inquiry | 12 | NA | 12 | 1.08 |
 | Educational Research and Evaluation | Engelmann, Neuhaus & Fischer | Fostering scientific reasoning in education – meta-analytic evidence from intervention studies | 2016 | Scientific reasoning | 30 | 4,443 | 30 | 0.71 |
 | Journal of Science Education Technology | Hummel & Randler | Living animals in the classroom: A meta-analysis on learning outcome and a treatment-control study focusing on knowledge and motivation. | 2012 | Living animals vs alternative (e.g., films) in science | 28 | NA | 28 | 0.23 |
@@ -3534,7 +3534,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Der Pedagogist Blick | Zierer & Sanders | Wie workcamp send dilemma-discussion (A Meta-Analysis on the Effectivity of Dilemma Discussions) | 2015 | Dilemma discussions on argumentation | 30 | 5,027 | 30 | 0.34 |
-| Educational Research Review | Corcoran, O'Flaherty, Xie, & Cheung | Conceptualizing and measuring social and emotional learning: A systematic review and meta-analysis of moral reasoning and academic achievement, religiosity, political orientation, personality. | 2020 | Moral reasoning | 19 | 6,992 | 19 | 0.49 |
+| Educational Research Review | Corcoran, O'Flaherty, Xie, & Cheung | Conceptualizing and measuring [[Social-Emotional Learning\|social and emotional learning]]: A systematic review and meta-analysis of moral reasoning and academic achievement, religiosity, political orientation, personality. | 2020 | Moral reasoning | 19 | 6,992 | 19 | 0.49 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 49 | 12,019 | 49 | 0.42
 
@@ -3660,7 +3660,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Creative Behavior | Rose & Lin | A meta-analysis of long-term creativity training programs | 1984 | Long term creativity programs | 46 | NA | 46 | 0.47 |
+| Journal of Creative Behavior | Rose & Lin | A meta-analysis of long-term [[Creativity Training\|creativity training]] programs | 1984 | Long term creativity programs | 46 | NA | 46 | 0.47 |
 | Conference paper | Cohn | A research synthesis of creativity training effectiveness: Methodological issues. | 1984 | Creativity training effectiveness | 106 | NA | 177 | 0.55 |
 | Conference paper | Bangert-Drowns & Bankert | Meta-Analysis of Effects of Explicit Instruction for Critical Thinking | 1990 | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |
 | Dissertation | Hollingsworth | A meta-analysis of existing creativity training research: An evaluation of program effectiveness and possible confounding variables | 1991 | Creativity programs | 39 | NA | 39 | 0.82 |
@@ -3705,7 +3705,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Experiential Education | Cason & Gillis | A Meta-Analysis of Outdoor Adventure Programming with Adolescents | 1994 | Outdoor education on high school achievement | 43 | 11,238 | 10 | 0.61 |
+| Journal of [[Experiential Learning\|Experiential Education]] | Cason & Gillis | A Meta-Analysis of Outdoor Adventure Programming with Adolescents | 1994 | Outdoor education on high school achievement | 43 | 11,238 | 10 | 0.61 |
 | Review of Educational Research | Hattie, Marsh, Neill, & Richards | Adventure education and Outward Bound: Out-of-class experiences that make a lasting difference. | 1996 | Outward Bound | 96 | 12,057 | 30 | 0.46 |
 | Dissertation | Laidlaw | A meta-analysis of outdoor education programs. | 2000 | Outdoor education on achievement | 48 | 3,550 | 389 | 0.49 |
 | Journal of Experiential Education | Gillis & Speelman | Are Challenge (Ropes) Courses an Effective Tool? A Meta-Analysis | 2008 | Ropes courses on achievement | 3 | NA | 8 | 0.26 |
@@ -3826,7 +3826,7 @@
 | Review of Educational Research | Slavin, Lake, Chambers, Cheung, & Davis | Effective reading programs for the elementary grades: A best-evidence synthesis | 2009 | Effective Reading programs | 63 | 22,000 | 63 | 0.22 |
 | Report | Slavin, Lake, Cheung, & Davis | Effective Beginning Reading Programs: A Best-Evidence Synthesis | 2009 | Beginning reading curricula | 8 | 1,599 | 8 | 0.16 |
 | Language learning | Shintani, Li, & Ellis | Comprehension-based versus production-based grammar instruction: A meta-analysis of comparative studies | 2013 | Comprehension vs. production based grammar instruction | 35 | NA | 276 | 1.09 |
-| Review of Educational Research | Roberts, Dumas, McNeish, & Coté | Understanding the Dynamics of Dosage Response: A Nonlinear Meta-Analysis of Recent Reading Interventions. | 2021 | Maximal dosage of reading instruction | 26 | NA | 186 | 0.77 |
+| Review of Educational Research | Roberts, Dumas, McNeish, & [[Chain-of-Thought Prompting\|Cot]]é | Understanding the Dynamics of Dosage Response: A Nonlinear Meta-Analysis of Recent Reading Interventions. | 2021 | Maximal dosage of reading instruction | 26 | NA | 186 | 0.77 |
 | Children | Amado-Rodríguez, Casañas, Mas-Expósito, Castellví, Roldan-Merino, Casas, Lalucat-Jo, & Fernández-San Martín | Effectiveness of Mental Health Literacy Programs in Primary and Secondary Schools: A Systematic Review with Meta-Analysis. X | 2022 | Mental health literacy program on mental health knowledge | 15 | NA | 15 | 0.61 |
 | Journal of School Psychology | Shin & McMaster | Relations between CBM (oral reading and maze) and reading comprehension on state achievement tests: A meta-analysis. | 2019 | Curriculum based measurement | 61 | NA | 132 | 1.62 |
 | Child development | Kim, Lee, & Zuilkowski | Impact of literacy interventions on reading skills in low-and middle-income countries: A meta-analysis | 2020 | Literacy interventions | 67 | 213,464 | 661 | 0.30 |
@@ -3875,7 +3875,7 @@
 | Learning Disability Quarterly | O'Shaughnessy & Swanson | Do immediate memory deficits in students with learning disabilities in reading reflect a developmental lag or deficit?: A selective meta-analysis of the literature | 1998 | Normal vs. LD on memory processing of information | 41 | 1,783 | 161 | 0.61 |
 | Journal of Learning Disabilities | Ludwig, Guo, & Georgiou | Are reading interventions for English Language Learners Effective? A meta-analysis. | 2019 | Reading programs on ELL students | 26 | NA | 26 | 0.90 |
 | Journal of Research in Reading | Melby-Lervåg & Lervåg | Cross-linguistic transfer of oral language, decoding, phonological awareness and reading comprehension: A meta-analysis of the correlational evidence | 2011 | Cross-linguistic transfer on reading skills | 26 | 2,755 | 26 | 0.32 |
-| Reading Research Quarterly | Neitzel, Lake, Pellegrini, & Slavin | NA synthesis of quantitative research on programs for struggling readers in elementary schools. | 2021 | Programs for struggling readers | 51 | NA | 65 | 0.23 |
+| Reading Research Quarterly | Neitzel, Lake, Pellegrini, & Slavin | NA synthesis of [[Quantitative Research\|quantitative research]] on programs for struggling readers in elementary schools. | 2021 | Programs for struggling readers | 51 | NA | 65 | 0.23 |
 | Reading and Writing | Swanson | The impact of tier 1 reading instruction on reading outcomes for students in grades 4–12: A meta-analysis. | 2017 | Tier 1 Reading instruction | 25 | NA | 70 | 0.09 |
 | Reading Research Quarterly | Hall, Dahl-Leonard, Cho, Solari, Capin, Conner, Henry, Cook, Hayes, Vargas, Richmond, & Kehoe | Forty Years of Reading Intervention Research for Elementary Students with or at Risk for Dyslexia: A Systematic Review and Meta-Analysis. | 2022 | Programs for dyslexic students | 52 | 6,053 | 53 | 0.33 |
 | Journal of Child Psychology and Psychiatry | Strong, Torgerson, Torgerson, & Hulme | A systematic meta-analytic review of evidence for the effectiveness of the ‘Fast ForWord' language intervention program. | 2011 | Fast ForWard language intervention | 6 | NA | 6 | 0.05 |
@@ -3937,7 +3937,7 @@
 | Report | Taylor, Stevens, & Asher | The effects of explicit reading strategy training on L2 reading comprehension. | 2006 | Explicit reading strategies in L2 | 23 | NA | 23 | 0.54 |
 | Review of Educational Research | Swanborn & de Glopper | Incidental Word Learning while Reading: A Meta-Analysis | 1999 | Incidental word learning | 20 | 2,130 | 20 | 0.15 |
 | Journal of Educational Psychology | Hebert, Bohaty, Nelson, & Brown | The effects of text structure instruction on expository reading comprehension: A meta-analysis. | 2016 | Text structure on reading | 40 | NA | 170 | 0.57 |
-| Journal of Special Education | Filderman, Toste, Didion, Peng, & Clemens | Data-based decision making in reading interventions: A synthesis and meta-analysis of the effects for struggling readers. | 2018 | Data based decision making | 15 | NA | 46 | 0.24 |
+| Journal of Special Education | Filderman, Toste, Didion, Peng, & Clemens | [[Data-Based Decision Making\|Data-based decision making]] in reading interventions: A synthesis and meta-analysis of the effects for struggling readers. | 2018 | Data based decision making | 15 | NA | 46 | 0.24 |
 | Reading Research Quarterly | Bogaerds-Hazenberg, Evers-Vermeul, & van den Bergh | A meta-analysis on the effects of text structure instruction on reading comprehension in the upper elementary grades | 2020 | Text structure on reading | 44 | NA | 44 | 0.30 |
 | Educational Psychology Review | Okkinga, van Steensel, van Gelderen, van Schooten, Sleegers, & Arends | Effectiveness of reading-strategy interventions in whole classrooms: A meta-analysis. | 2018 | Reading strategy interventions | 52 | NA | 125 | 0.36 |
 | Journal of Learning Disabilities | Tighe & Schatschneider | Examining the relationships of component reading skills to reading comprehension in struggling adult readers: A meta-analysis. | 2016 | Reading skills | 16 | 2,707 | 74 | 1.04 |
@@ -3956,7 +3956,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Gassler | A meta-analysis of classroom studies that have compared code-emphasis to non-code-emphasis first grade reading methods. | 1992 | Word vs. non-word interventions | 52 | NA | 63 | 0.35 |
-| Review of Educational Research | Ehri, Nunes, Stahl, & Willows | Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. | 2001 | Systematic phonics instruction | 34 | NA | 66 | 0.41 |
+| Review of Educational Research | Ehri, Nunes, Stahl, & Willows | Systematic phonics instruction helps students learn to read: Evidence from the [[National Reading Panel]]'s meta-analysis. | 2001 | Systematic phonics instruction | 34 | NA | 66 | 0.41 |
 | Education Policy Analysis Archives | Camilli, Vargas, & Yurecko | "Teaching children to read': The fragile link between science and federal education policy | 2003 | Phonics instruction | 40 | NA | 40 | 0.24 |
 | Report | Torgerson, Brooks, Hall & Britain | A systematic review of the research literature on the use of phonics in the teaching of reading and spelling | 2006 | Phonics instruction | 19 | NA | 20 | 0.27 |
 | Education and Urban Society | Jeynes | A meta-analysis of the relationship between phonics instruction and minority elementary school student academic achievement | 2007 | Phonics for minority students | 22 | 5,000 | 22 | 0.30 |
@@ -4007,7 +4007,7 @@
 | Frontiers in Psychology | Chen & Zhao | Reading-related skills associated with acquisition of Chinese as a second/foreign language: A meta-analysis. | 2022 | Phonological skills in Chinese reading | 42 | 1,103 | 79 | 0.90 |
 | Language Learning | Míguez-Álvarez, Cuevas-Alonso & Saavedra | Relationships between phonological awareness and reading in Spanish: A meta-analysis. | 2022 | Phonological skills in Spanish | 47 | 7,956 | 47 | 0.80 |
 | Journal of Behavioral Education | Cooper, Hebert, Goodrich, Leiva, Lin, Peng, & Nelson | Effects of Automaticity Training on Reading Performance: A Meta-Analysis | 2022 | Automaticity training | 11 | NA | 83 | 0.28 |
-| Scientific Studies of Reading | Erbeli, Rice, Xu, Bishop, & Goodrich | A Meta-Analysis on the Optimal Cumulative Dosage of Early Phonemic Awareness Instruction. | 2024 | Phonological instruction at maximum dosage (10 hours) | 16 | 1,155 | 35 | 0.74 |
+| Scientific Studies of Reading | Erbeli, Rice, Xu, Bishop, & Goodrich | A Meta-Analysis on the Optimal [[Cumulative Dosage Principle\|Cumulative Dosage]] of Early Phonemic Awareness Instruction. | 2024 | Phonological instruction at maximum dosage (10 hours) | 16 | 1,155 | 35 | 0.74 |
 | Journal of Educational Psychology | Zhang, Ke, & Mo | Morphology in reading comprehension among school-aged readers of English: A synthesis and meta-analytic structural equation modeling study. | 2023 | Morphological teaching | 107 | 21,818 | 107 | 1.27 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 768 | 88,254 | 6,401 | 0.72
@@ -4022,7 +4022,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Review of Educational Research | Fuchs, Fuchs, Mathes, Lipsey, & Roberts | Is "Learning Disabilities" Just a Fancy Term for Low Achievement? A Meta-Analysis of Reading Differences between Low Achievers with and without the Label. Executive Summary. | 2001 | Deriving word meaning from context | 12 | NA | 21 | 0.43 |
-| Journal of Educational Psychology | Metsala, Stanovich, & Brown | Regularity Effects and the Phonological Deficit Model of Reading Disabilities: A Meta-Analytic Review | 1998 | Spelling to sound regularities and reading | 17 | 1,116 | 38 | 0.58 |
+| Journal of Educational Psychology | Metsala, Stanovich, & Brown | Regularity Effects and the Phonological [[Deficit Model of Science Communication\|Deficit Model]] of Reading Disabilities: A Meta-Analytic Review | 1998 | Spelling to sound regularities and reading | 17 | 1,116 | 38 | 0.58 |
 | Review of Educational Research | Bowers, Kirby & Deacon | The effects of morphological instruction on literacy skills: A systematic review of the literature | 2010 | Morphological teaching | 22 | 2,652 | 285 | 0.32 |
 | Annals of Dyslexia | Goodwin & Ahn | A meta-analysis of morphological interventions: Effects on literacy achievement of children with literacy difficulties | 2010 | Morphological teaching | 17 | NA | 79 | 0.33 |
 | Journal of Educational Psychology | Elleman | Examining the impact of inference instruction on the literal and inferential comprehension of skilled and less skilled readers: A meta-analytic review | 2017 | Inference instruction on comprehension | 13 | NA | 13 | 0.58 |
@@ -4187,11 +4187,11 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Review of Educational Research | Stahl & Miller | Whole language and language experience approaches for beginning reading: A quantitative research synthesis | 1989 | Effects of whole language instruction | 15 | NA | 117 | 0.09 |
+| Review of Educational Research | Stahl & Miller | [[Whole Language\|Whole language]] and language experience approaches for beginning reading: A quantitative research synthesis | 1989 | Effects of whole language instruction | 15 | NA | 117 | 0.09 |
 | Conference paper | Gee | The Effects of a Whole Language Approach to Reading Instruction on Reading Comprehension: A Meta-Analysis | 1993 | Effects of whole language instruction | 21 | NA | 52 | 0.65 |
 | Educational Psychologist | Stahl, McKenna, & Pagnucco | The effects of whole-language instruction: An update and a reappraisal | 1994 | Effects of whole language instruction | 14 | NA | 14 | 0.15 |
 | Elementary School Journal | Jeynes & Littell | A meta-analysis of studies examining the effect of whole language instruction on the literacy of low-SES students. | 2000 | Effects of whole language instruction | 14 | 630 | 14 | -0.65 |
-| Journal of Computer Assisted Learning | Abrami, Lysenko, & Borokhovski | The effects of ABRACADABRA on reading outcomes: An updated meta-analysis and landscape review of applied field research | 2020 | Effects of Balanced Literacy interventions | 17 | 7,388 | 91 | 0.20 |
+| Journal of Computer Assisted Learning | Abrami, Lysenko, & Borokhovski | The effects of ABRACADABRA on reading outcomes: An updated meta-analysis and landscape review of applied [[Fieldwork\|field research]] | 2020 | Effects of Balanced Literacy interventions | 17 | 7,388 | 91 | 0.20 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 81 | 8,018 | 288 | 0.09
 
@@ -4204,7 +4204,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Educational Psychology | Elbaum, Vaughn, Hughes & Moody | How effective are one-to-one tutoring programs in reading for elementary students at risk for reading failure? A meta-analysis of the intervention research | 2000 | Reading recovery programs | 16 | NA | 16 | 0.66 |
+| Journal of Educational Psychology | Elbaum, Vaughn, Hughes & Moody | How effective are one-to-one tutoring programs in reading for elementary students at risk for reading failure? A meta-analysis of the intervention research | 2000 | [[Reading Recovery\|Reading recovery]] programs | 16 | NA | 16 | 0.66 |
 | Educational Evaluation and Policy Analysis | D'Agostino & Murphy | A meta-analysis of Reading Recovery in United States schools | 2004 | Reading recovery programs | 36 | 5,685 | 1,379 | 0.34 |
 | Journal of Education for Students Placed at Risk | D'Agostino & Harmey | An international meta-analysis of Reading Recovery | 2016 | Reading recovery programs | 16 | 4,497 | 101 | 0.59 |
 
@@ -4327,12 +4327,12 @@
 | Asia Pacific Education Review | Kim, Kim, Lee, Park, Hong, & Kim | Effects of cognitive learning strategies for Korean learners: A meta-analysis | 2008 | Teaching learning strategies | 50 | NA | 97 | 0.96 |
 | Book | Dinsmore, Hattan, & List | A meta-analysis of strategy use and performance in the model of domain learning. | 2018 | Strategic processing | 8 | NA | 8 | 0.35 |
 | Human Resource Management Review | Mesmer-Magnus & Viswesvaran | The role of pre-training interventions in learning: A meta-analysis and integrative review. | 2010 | Teaching learning strategies | 128 | 13,684 | 159 | 0.62 |
-| Intervention in School and Clinic | Scruggs, Mastropieri, Berkeley & Graetz | Mnemonic strategies: Evidence-based practice and practice-based evidence. | 2010 | Teaching learning strategies to Secondary LD students | 70 | 2,403 | 94 | 1.00 |
+| Intervention in School and Clinic | Scruggs, Mastropieri, Berkeley & Graetz | Mnemonic strategies: Evidence-based practice and [[Practice-Based Evidence\|practice-based evidence]]. | 2010 | Teaching learning strategies to Secondary LD students | 70 | 2,403 | 94 | 1.00 |
 | Dissertation | Rongtao | Metacognitive strategy training and Chinese EFL learners' writing: Meta-analysis | 2011 | Learning strategies on writing | 11 | 768 | 11 | 0.77 |
 | Eurasian Journal of Educational Research | Yildirim, Cirak-Kurt, & Sen | The effect of teaching "learning strategies" on academic achievement: A meta-analysis study | 2019 | Learning strategies | 28 | 1,641 | 31 | 0.93 |
 | Report | Chaury | The effects of strategy instruction on reading comprehension in English as a foreign language | 2015 | Strategy instruction on reading comprehension | 10 | 865 | 19 | 0.60 |
 | Asia Pacific Education Review | Kim, Kim, Lee, Park, Hong, & Kim | Effects of cognitive learning strategies for Korean learners: A meta-analysis | 2008 | Learning strategies | 71 | NA | 71 | 0.53 |
-| Dissertation | Zhang | Three Research Topics in Education:(1) Associations between Approaches to Learning and Academic Achievement;(2) a Meta-Analytic Review on Approaches to Learning and Academic Achievement;(3) Power Analysis in Meta-Analysis: A Three-Level Model | 2021 | Learning approaches | 21 | 69,904 | 21 | 0.35 |
+| Dissertation | Zhang | Three Research Topics in Education:(1) Associations between Approaches to Learning and Academic Achievement;(2) a Meta-Analytic Review on Approaches to Learning and Academic Achievement;(3) [[Power Analysis]] in Meta-Analysis: A Three-Level Model | 2021 | Learning approaches | 21 | 69,904 | 21 | 0.35 |
 | English Language Teaching | Alsowat | Evidence-Based Practices of English Language Teaching: A Meta-Analysis of Meta-Analyses | 2020 | Learning strategies | 277 | 22,017 | 58 | 0.66 |
 | Education and Culture | Kim, Ahn, Oh, Yoon, Park, & Choi | The Effect of Learning Strategies on Academic Achievement : A Meta-Analysis based on Learner's Characteristics and Intervention Conditions | 2018 | Learning strategies | 71 | NA | 71 | 0.53 |
 | Journal of Baltic Science Education | Yaman & Karasah | Effects of learning cycle models on science success: a meta-analysis. | 2018 | 5E Learning cycle program | 75 | NA | 75 | 1.22 |
@@ -4390,7 +4390,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dissertation | Lavery | Self-regulated learning for academic success: An evaluation of instructional techniques | 2008 | Environmental structuring | 4 | NA | 4 | 0.22 |
+| Dissertation | Lavery | [[Self-Regulated Learning\|Self-regulated learning]] for academic success: An evaluation of instructional techniques | 2008 | Environmental structuring | 4 | NA | 4 | 0.22 |
 | Educational Research Review | Donker, de Boer, Dignath, Kostons, Werf | Effectiveness of learning strategy instruction on academic performance: A meta-analysis | 2014 | Environmental structuring | 6 | NA | 6 | 0.59 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 10 | NA | 10 | 0.41
@@ -4436,7 +4436,7 @@
 | Educational Research Review | Donker, de Boer, Kostons, van Ewijk, & Van der Werf | Effectiveness of learning strategy instruction on academic performance: A meta-analysis | 2014 | Organization Graphics Organizers | 32 | NA | 32 | 0.81 |
 | Educational Research Review | Dignath, Buettner, & Langfeldt | How can primary school students learn self-regulated learning strategies most effectively?: A meta-analysis on self-regulation training programmes | 2008 | Organization | 50 | NA | 50 | 0.75 |
 | Australian Journal of Education | Purdie & Hattie | The Relationship between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Organization | 22 | NA | 22 | 0.23 |
-| Education and Science | Kansizoglu | The Effect of Graphic Organizers on Language Teaching and Learning Areas: A Meta-Analysis Study | 2017 | Graphic organizers | 70 | NA | 70 | 0.90 |
+| Education and Science | Kansizoglu | The Effect of [[Graphic Organizer\|Graphic Organizers]] on Language Teaching and Learning Areas: A Meta-Analysis Study | 2017 | Graphic organizers | 70 | NA | 70 | 0.90 |
 | Conference paper | Joo | Meta-analysis of research using graphic organizer | 2019 | Graphic organizers | 35 | NA | 70 | 0.66 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 298 | NA | 333 | 0.70
@@ -4626,7 +4626,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Research quarterly for exercise and sport | Lee & Genovese | Distribution of practice in motor skill acquisition: Learning and performance effects reconsidered | 1988 | Spaced vs. massed practice | 52 | NA | 52 | 0.96 |
-| Journal of Applied Psychology | Donovan & Radosevich | A meta-analytic review of the distribution of practice effect: Now you see it, now you don't | 1999 | Spaced vs. massed practice | 63 | NA | 112 | 0.46 |
+| Journal of Applied Psychology | Donovan & Radosevich | A meta-analytic review of the distribution of [[Order Effects\|practice effect]]: Now you see it, now you don't | 1999 | Spaced vs. massed practice | 63 | NA | 112 | 0.46 |
 | Journal of Consumer Research | Janiszewski, Noel & Sawyer | A meta-analysis of the spacing effect in verbal learning: Implications for research on advertising repetition and consumer memory | 2003 | Spaced vs. massed practice | 61 | NA | 484 | 0.72 |
 | Nature: Science of Learning | Hattie & Donoghue | Learning strategies: A synthesis and conceptual model. | 2016 | Distributed practice | 150 | 152,952 | 150 | 0.85 |
 | Psychological bulletin | Cepeda, Pashler, Vul, Wixted & Rohrer | Distributed practice in verbal recall tasks: A review and quantitative synthesis. | 2009 | Spaced vs. massed practice | 184 | 14,811 | 317 | 0.27 |
@@ -4725,7 +4725,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Book | Bloom | Human Characteristics and School Learning | 1976 | Time on task | 11 | NA | 28 | 0.75 |
+| Book | Bloom | Human Characteristics and School Learning | 1976 | [[Time on Task\|Time on task]] | 11 | NA | 28 | 0.75 |
 | Journal of Educational Research | Fredrick & Walberg | Learning as a function of time | 1980 | Time on task | 35 | NA | 35 | 0.34 |
 | Dissertation | Catts | The integration of research findings: a review of meta-analysis methodology and an application to research on the effects of knowledge objectives | 1992 | Time on task | 18 | NA | 37 | 0.19 |
 | Report | Shulruf, Keuskamp & Timperley | Course taking or subject choice? | 2006 | Taking more coursework | 36 | NA | 36 | 0.24 |
@@ -4733,7 +4733,7 @@
 | Australian Journal of Education | Purdie & Hattie | The Relationship between Study Skills and Learning Outcomes: A Meta-Analysis | 1999 | Time on task | 36 | NA | 36 | 0.24 |
 | Report | Kidron & Lindsay | The Effects of Increased Learning Time on Student Academic and Nonacademic Outcomes: Findings from a Meta-Analytic Review | 2014 | Increased learning time | 18 | NA | 18 | 0.05 |
 | Book | Scheerens & Hendriks | State of the art of time effectiveness. | 2014 | Time on task | 30 | NA | 111 | 0.34 |
-| Book | Scheerens, Hendriks, Luyten, Sleegers, & Cees | Productive time in education. A Review of the Effectiveness of Teaching Time at School, Homework and Extended Time Outside School Hours | 2013 | Learning time in school | 12 | NA | 16 | 0.09 |
+| Book | Scheerens, Hendriks, Luyten, Sleegers, & Cees | Productive time in education. A Review of the Effectiveness of Teaching Time at School, [[Homework]] and Extended Time Outside School Hours | 2013 | Learning time in school | 12 | NA | 16 | 0.09 |
 | Book | Cook, Levinson & Garside | Time and Learning Efficiency in Internet-Based Learning: A Systematic Review and Meta-Analysis | 2010 | Time on task | 13 | NA | 14 | 1.25 |
 | Review of Educational Research | Crede, Roch & Kieszczynka | Class Attendance in College: A Meta-Analytic Review of the Relationship of Class Attendance with Grades and Student Characteristics | 2010 | Class attendance | 90 | 28,034 | 99 | 0.95 |
 | Conference paper | Huang | The European Conference on Education 2015 | 2015 | Study time | 49 | 19,219 | 77 | 0.24 |
@@ -4770,13 +4770,13 @@
 | Review of Educational Research | Jacob & Parkinson | The Potential for School-Based Interventions That Target Executive Function to Improve Academic Achievement: A Review | 2015 | Executive functioning | 67 | 15,879 | 67 | 0.63 |
 | Southeast Linguistic Journal | Baek | The effects of meta-cognitive strategies instruction in Korean education: Systematic review through meta-analysis. | 2018 | Metacognitive strategies | 19 | NA | 19 | 0.79 |
 | Dissertation | Fauzan | The effects of metacognitive strategies on reading comprehension: A quantitative synthesis an the empirical investigation. | 2003 | Metacognitive strategies on comprehension | 27 | NA | 82 | 0.50 |
-| Journal of Educational Psychology | Greene, Cartiff, & Duke | A meta-analytic review of the relationship between epistemic cognition and academic achievement | 2018 | Epistemic knowing | 132 | 55,418 | 752 | 0.33 |
+| Journal of Educational Psychology | Greene, Cartiff, & Duke | A meta-analytic review of the relationship between [[Epistemic Cognition\|epistemic cognition]] and academic achievement | 2018 | Epistemic knowing | 132 | 55,418 | 752 | 0.33 |
 | Learning and Individual Differences | Yeniad, Malda, Mesman, van IJzendoorn, & Pieper | Shifting ability predicts math and reading performance in children: A meta-analytical study | 2013 | Shifting in Math achievement | 20 | 4,596 | 34 | 0.47 |
-| Developmental Psychology | Allan, Hume, Allan, Farrington, & Lonigan | Relations Between Inhibitory Control and the Development of Academic Skills in Preschool and Kindergarten: A Meta-Analysis | 2014 | Inhibitory control in early years | 75 | 14,424 | 85 | 0.56 |
+| Developmental Psychology | Allan, Hume, Allan, Farrington, & Lonigan | Relations Between [[Inhibitory Control]] and the Development of Academic Skills in Preschool and Kindergarten: A Meta-Analysis | 2014 | Inhibitory control in early years | 75 | 14,424 | 85 | 0.56 |
 | Conference paper | Liu, Wang, & Yang | Research on the influence of metacognitive strategies on primary and middle school students' academic performance from the perspective of technical support | 2021 | Meta-cognitive strategies | 54 | NA | 106 | 0.02 |
 | Educational Psychology Review | Muncer, Higham, Gosling, Cortese, Wood-Downie, & Hadwin | A meta-analysis investigating the association between metacognition and math performance in adolescence. | 2021 | Metacognition and math | 31 | NA | 31 | 0.80 |
 | International Journal on Studies in Education | Antonio & Prudente | Effectiveness of metacognitive instruction on students' science learning achievement: A meta-analysis | 2022 | Metacognition in science | 10 | NA | 10 | 0.81 |
-| Children and Youth Services Review | Lei, Chiu, Li, Wang, & Geng | Computational thinking and academic achievement: A meta-analysis among students | 2020 | Computational thinking | 34 | 8,946 | 34 | 0.60 |
+| Children and Youth Services Review | Lei, Chiu, Li, Wang, & Geng | [[Computational Thinking\|Computational thinking]] and academic achievement: A meta-analysis among students | 2020 | Computational thinking | 34 | 8,946 | 34 | 0.60 |
 | Frontiers in psychology | Scionti, Cavallero, Zogmaister, & Marzocchi | Is cognitive training effective for improving executive functions in preschoolers? A systematic review and meta-analysis | 2020 | Cognitive training in executive functioning | 27 | NA | 123 | 0.34 |
 | Innovation in Language Learning and Teaching | Wongdaeng & Higgins | Effectiveness of metacognitive interventions in tertiary EFL contexts: evidence from a systematic review and meta-analysis. | 2023 | Metacognitive training in EFF | 29 | NA | 29 | 1.33 |
 | US-China Foreign Language | Shirvan, Ghonsooly, & Fatemi | The effectiveness of Strategy-Based Instruction in teaching English as a second or foreign language: A meta-analysis of experimental studies. | 2016 | Strategy instruction | 26 | NA | 26 | 0.99 |
@@ -4840,7 +4840,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Ragosta | The effectiveness of intervention programs to help college students acquire self-regulated learning strategies: A meta-analysis | 2010 | Self regulation with college students | 55 | 6,669 | 93 | 0.34 |
-| Dissertation | Benz | Improving the Quality of E-Learning by Enhancing Self-Regulated Learning: A Synthesis of Research on Self-Regulated Learning and an Implementation of a Scaffolding Concept | 2010 | Self regulated interventions | 44 | 4,047 | 44 | 0.45 |
+| Dissertation | Benz | Improving the Quality of E-Learning by Enhancing Self-Regulated Learning: A Synthesis of Research on Self-Regulated Learning and an Implementation of a [[Scaffolding]] Concept | 2010 | Self regulated interventions | 44 | 4,047 | 44 | 0.45 |
 | Asia Pacific Education Review | Zheng | The effectiveness of self-regulated learning scaffolds on academic performance in computer-based learning environments: A meta-analysis. | 2016 | Self-regulated learning strategies | 29 | 2,648 | 29 | 0.44 |
 | Book | Danisman | The Effect of Self-regulation on Student Achievement | 2017 | Self-regulation | 346 | 215,452 | 346 | 0.54 |
 | Internet and Higher Education | Broadbent & Poon | Self-regulated learning strategies & academic achievement in online higher education learning environments: A systematic review | 2015 | Self-regulated learning strategies | 12 | NA | 12 | 0.26 |
@@ -4881,7 +4881,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Educational Research Review | Donker, de Boer, Kostons, van Ewijk, & Van der Werf | Effectiveness of learning strategy instruction on academic performance: A meta-analysis | 2014 | Evaluation & reflection | 54 | NA | 54 | 0.75 |
 | Reflective Practice | Guo | How should reflection be supported in higher education?—A meta-analysis of reflection interventions | 2022 | Critical reflection | 23 | 2,010 | 23 | 0.56 |
-| Journal on Efficiency and Responsibility in Education and Science | Chamdani, Yusuf, Salimi, & Fajari | Meta-analysis study: The relationship between reflective thinking and learning achievement. | 2022 | Reflective thinking | 22 | 5,251 | 22 | 1.24 |
+| Journal on Efficiency and Responsibility in Education and Science | Chamdani, Yusuf, Salimi, & Fajari | Meta-analysis study: The relationship between [[Reflective Thinking\|reflective thinking]] and learning achievement. | 2022 | Reflective thinking | 22 | 5,251 | 22 | 1.24 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 99 | 7,261 | 99 | 0.85
 
@@ -5005,7 +5005,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Lavery | Self-regulated learning for academic success: An evaluation of instructional techniques | 2008 | Help seeking | 62 | NA | 62 | 0.60 |
 | Educational Research Review | Dignath, Buettner, & Langfeldt | How can primary school students learn self-regulated learning strategies most effectively?: A meta-analysis on self-regulation training programmes | 2008 | Seeking help from peers | 21 | NA | 21 | 0.83 |
-| Japanese Psychological Review | Nakaya & Okada | An integrative review of the relationship of academic and social goals with academic help-seeking: Is seeking help always the best strategy for a student's learning | 2020 | Help seeking for near goals | 16 | 6,497 | 16 | 1.12 |
+| Japanese Psychological Review | Nakaya & Okada | An integrative review of the relationship of academic and social goals with [[Academic Help-Seeking\|academic help-seeking]]: Is seeking help always the best strategy for a student's learning | 2020 | Help seeking for near goals | 16 | 6,497 | 16 | 1.12 |
 | Journal of Educational Psychology | Fong, Gonzales, Cox, & Shinn | Academic Help-Seeking and Achievement of Postsecondary Students: A Meta-Analytic Investigation | 2021 | Help seeking | 108 | 37,941 | 134 | 0.12 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 207 | 44,438 | 233 | 0.67
@@ -5084,9 +5084,9 @@
 | Journal of Educational Psychology | Ginsburg-Block, Rohrbeck & Fantuzzo | A meta-analytic review of social, self-concept, and behavioral outcomes of peer-assisted learning | 2006 | Peer-assisted learning | 28 | NA | 26 | 0.35 |
 | International Journal of Educational Research | Shenderovich, Thurston, & Miller | Cross-age tutoring in kindergarten and elementary school settings: A systematic review and meta-analysis. | 2016 | Cross age tutoring | 15 | NA | 15 | 0.19 |
 | Eurasia Journal of Mathematics, Science and Technology Education | Alegre-Ansuategui, Moliner, Lorenzo, & Maroto | Peer tutoring and academic achievement in mathematics: a meta-analysis. | 2018 | Peer tutoring | 50 | 7,043 | 50 | 0.33 |
-| International Journal of Educational Research | Zeneli, Thurston, & Roseth | The influence of experimental design on the magnitude of the effect size-peer tutoring for elementary, middle and high school settings: A meta-analysis | 2016 | Peer tutoring | 49 | NA | 182 | 0.72 |
+| International Journal of Educational Research | Zeneli, Thurston, & Roseth | The influence of [[Experimental Research\|experimental design]] on the magnitude of the effect size-peer tutoring for elementary, middle and high school settings: A meta-analysis | 2016 | Peer tutoring | 49 | NA | 182 | 0.72 |
 | Journal of Educational Psychology | Leung | Preliminary empirical model of crucial determinants of best practice for peer tutoring on academic achievement. | 2015 | Peer tutoring | 72 | 6,611 | 72 | 0.39 |
-| Dissertation | Burton | Cross-Age Peer Mentoring: A Meta-Analysis | 2020 | Cross-age peer mentors | 6 | 685 | 6 | 0.45 |
+| Dissertation | Burton | Cross-Age [[Peer Mentoring]]: A Meta-Analysis | 2020 | Cross-age peer mentors | 6 | 685 | 6 | 0.45 |
 | Journal of Peer Learning | Zha, Estes, & Xu | A Meta-Analysis on the Effect of Duration, Task, and Training in Peer-Led Learning. | 2019 | Peer led learning | 28 | NA | 28 | 0.36 |
 | Journal of Korean Mathematics Education | Jo, Choi, & Kim | Peer teaching through meta-analysis: Effect on academic achievement in mathematics and the area of definition. | 2021 | Peer teaching | 61 | NA | 61 | 0.52 |
 | Medical teacher | Rees, Quinn, Davies, & Fotheringham | How does peer teaching compare to faculty teaching? A systematic review and meta-analysis. | 2016 | Peer vs faculty teaching | 10 | NA | 10 | 0.07 |
@@ -5229,7 +5229,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Agricultural Education and Human Resource Development | Ku, Yang, & Choi | A meta-analysis on the effects of academic achievement in self-directed learning; Focused on theses and journal paper in Korea since 2000 | 2012 | Self-directed learning | 61 | NA | 70 | 0.67 |
+| Journal of Agricultural Education and Human Resource Development | Ku, Yang, & Choi | A meta-analysis on the effects of academic achievement in [[Self-Directed Learning\|self-directed learning]]; Focused on theses and journal paper in Korea since 2000 | 2012 | Self-directed learning | 61 | NA | 70 | 0.67 |
 | Journal of Computer Assisted Learning | Doo & Zhu | A meta-analysis of effects of self-directed learning in online learning environments. | 2022 | Self-directed learning in online environments | 43 | 34,601 | 153 | 0.51 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 104 | 34,601 | 223 | 0.59
@@ -5308,9 +5308,9 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Journal of Research in Science Teaching | Tamir | Meta-Analysis of Cognitive Preferences and Learning | 1985 | Cognitive preference | 54 | NA | 13 | 0.02 |
-| Dissertation | Sullivan | A meta-analysis of experimental research studies based on the Dunn and Dunn Learning Style Model and its relationship to academic achievement and performance | 1993 | Dunn and Dunn Learning styles matched to achievement | 42 | 3,434 | 42 | 0.75 |
+| Dissertation | Sullivan | A meta-analysis of experimental research studies based on the Dunn and Dunn [[Learning Styles\|Learning Style]] Model and its relationship to academic achievement and performance | 1993 | Dunn and Dunn Learning styles matched to achievement | 42 | 3,434 | 42 | 0.75 |
 | Dissertation | Iliff | Kolb Learning Style Inventory: A meta-analysis | 1994 | Kolb Learning Style matched to achievement | 101 | NA | 486 | 0.33 |
-| Journal of Educational Research | Dunn, Griggs, Olson, Beasley & Gorman | A meta-analytic validation of the Dunn and Dunn model of learning-style preferences | 1995 | Interventions to enhance matching learning style on achievement | 36 | 3,181 | 65 | 0.76 |
+| Journal of Educational Research | Dunn, Griggs, Olson, Beasley & Gorman | A meta-analytic validation of the Dunn and Dunn model of learning-style preferences | 1995 | Interventions to enhance [[Matching\|matching]] learning style on achievement | 36 | 3,181 | 65 | 0.76 |
 | Dissertation | Slemmer | The effect of learning styles on student achievement in various hypertext, hypermedia, and technology-enhanced learning environments: a meta-analysis | 2002 | Learning styles in hyper/technology environments | 48 | 5,908 | 51 | 0.13 |
 | Dissertation | Mangino | A meta-analysis of Dunn and Dunn model correlational research with adult populations | 2004 | Dunn and Dunn Learning styles for adults | 47 | 8,661 | 386 | 0.54 |
 | Journal of Educational Research | Lovelace | Meta-Analysis of Experimental Research Based on the Dunn and Dunn Model | 2005 | Dunn and Dunn Learning styles matched to achievement | 76 | 7,196 | 168 | 0.67 |
@@ -5334,7 +5334,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Hartley | Meta-analysis of the effects of individually paced instruction in mathematics | 1977 | Individualization in math | 51 | NA | 139 | 0.16 |
 | Evaluation in Education | Kulik & Kulik | Individualised college teaching | 1980 | Individualized college teaching | 213 | NA | 213 | 0.33 |
-| Journal of Educational Research | Horak | A meta-analysis of research findings on individualized instruction in mathematics | 1981 | Individualization in math | 60 | NA | 129 | -0.07 |
+| Journal of Educational Research | Horak | A meta-analysis of research findings on [[Individualised Instruction\|individualized instruction]] in mathematics | 1981 | Individualization in math | 60 | NA | 129 | -0.07 |
 | Journal of Research in Science Teaching | Willett, Yamashita & Anderson | A meta-analysis of instructional systems applied in science teaching | 1983 | Individualized science curriculum | 130 | NA | 131 | 0.17 |
 | Review of Educational Research | Bangert, Kulik, & Kulik | Individualized Systems of Instruction in Secondary Schools | 1983 | Individualized in high schools | 49 | NA | 49 | 0.10 |
 | Conference paper | Aiello & Wolfle | A Meta-Analysis of Individualized Instruction in Science | 1980 | Individualized in high school science | 115 | NA | 182 | 0.35 |
@@ -5342,7 +5342,7 @@
 | Journal of Research in Science Teaching | Atash & Dawson | Some effects of the ISCS program: A meta analysis | 1986 | Individualized science curriculum | 12 | 2,180 | 12 | -0.02 |
 | Dissertation | Mitchell | A comparison of the effectiveness of innovative instructional methods utilized in lower division mathematics as measured by student achievement: a meta-analysis of findings | 1987 | Individualized instruction in mathematics | 38 | NA | 39 | 0.19 |
 | Evaluation and the Health Professions | Cohen & Dacanay | Computer-based instruction and health professions education: A meta-analysis of outcomes. | 1992 | Individual instruction in medical education | 30 | NA | 30 | 0.37 |
-| Dissertation | Blumschein | Eine Metaanalyse zur Effektivität multimedialen Lernens am Beispiel der anchored instruction | 2003 | Adaptive methods | 144 | NA | 144 | 0.33 |
+| Dissertation | Blumschein | Eine Metaanalyse zur Effektivität multimedialen Lernens am Beispiel der [[Anchored Instruction\|anchored instruction]] | 2003 | Adaptive methods | 144 | NA | 144 | 0.33 |
 | Learning Disabilities Research and Practice | Jung, McMaster, Kunkel, Shin, & Stecker | Effects of data-based individualization for students with intensive learning needs: A meta-analysis. | 2018 | Data based individualized instruction | 14 | NA | 57 | 0.30 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 894 | 9,380 | 1,434 | 0.22
@@ -5443,7 +5443,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | International Journal of Educational Telecommunications | Cavanaugh | The effectiveness of interactive distance education technologies in K-12 learning: A meta-analysis. | 2001 | Interactive distance learning on achievement | 19 | NA | 19 | 0.13 |
-| Teachers College Record | Means, Toyama, Murphy, & Baki | The effectiveness of online and blended learning: A meta-analysis of the empirical literature | 2013 | Distance education | 27 | NA | 27 | 0.05 |
+| Teachers College Record | Means, Toyama, Murphy, & Baki | The effectiveness of online and [[Blended Learning\|blended learning]]: A meta-analysis of the empirical literature | 2013 | Distance education | 27 | NA | 27 | 0.05 |
 | Classroom communication and instructional processes: Advances through meta-analysis | Allen, Bourhis, Mabry, Burrell, & Timmerman | Comparing distance education to face-to-face methods of education | 2002 | Distance vs. traditional teaching | 54 | 74,275 | 54 | 0.09 |
 | Educational Technology Research and Development | Lou, Bernard, & Abrami | Media and Pedagogy in Undergraduate Distance Education: A Theory-Based Meta-Analysis of Empirical Literature | 2006 | Distance education in undergraduates | 103 | 25,320 | 218 | 0.02 |
 | Teachers College Record | Zhao, Lei, Yan, Lai, & Tan | What Makes the Difference? A Practical Analysis of Research on the Effectiveness of Distance Education | 2005 | Distance vs. traditional classes | 51 | 11,477 | 98 | 0.10 |
@@ -5500,11 +5500,11 @@
 | Journal Pendidikan Progresif | Lusa, Adnan, & Yurniwati | Effect of Blended Learning on Students' Learning Outcomes: A Meta-Analysis. | 2021 | Blended learning | 27 | NA | 27 | 1.01 |
 | Conference paper | Sales, Prudente, & Errabo | Meta-Analysis of Blended Learning in High School Physics from 2014-2020. | 2022 | Blended learning | 24 | NA | 24 | 1.14 |
 | Edumaspul: Jurnal Pendidikan | Suryono, Haryanto, Santosa, Rahman, Suharyat, Sappaile, & Ilwandri | The effect of the blended learning model on student critical thinking skill: Meta-analysis. | 2023 | Blended learning on critical thinking | 10 | NA | 10 | 0.79 |
-| LITERACY: International Scientific Journals of Social, Education, Humanities | Rahman, Santosa, Ilwandri, Suharyat, Aprilisia, & Suhaimi | The Effectiveness of AI Based Blended Learning on Student Scientific Literacy: Meta-analysis. | 2023 | Blended learning | 14 | NA | 14 | 0.93 |
+| LITERACY: International Scientific Journals of Social, Education, Humanities | Rahman, Santosa, Ilwandri, Suharyat, Aprilisia, & Suhaimi | The Effectiveness of AI Based Blended Learning on Student [[Scientific Literacy]]: Meta-analysis. | 2023 | Blended learning | 14 | NA | 14 | 0.93 |
 | Jurnal Elem | Samritin, Susanto, Manaf, & Hukom | A meta-analysis study of the effect of the blended learning model on students' mathematics learning achievement. | 2023 | Blended learning | 18 | NA | 20 | 0.73 |
 | Frontiers in Psychology | Cao & Hsu | A meta-analysis of effects of blended learning on performance, attitude, achievement, and engagement across different countries. | 2023 | Blended learning across countries | 11 | NA | 11 | 0.50 |
 | Journal of Higher Education Theory and Practice | Antonio | Effectiveness of Blended Instructional Approach in Improving Students' Scientific Learning Outcomes: A Meta-Analysis | 2022 | Blended learning | 49 | 4,537 | 53 | 1.35 |
-| International Journal of Progressive Education | Kazu, Kurtoglu & Yalçin | Investigation of the effectiveness of hybrid learning on academic achievement: A meta-analysis study. | 2022 | Hybrid learning | 44 | NA | 45 | 1.03 |
+| International Journal of [[Progressive Education]] | Kazu, Kurtoglu & Yalçin | Investigation of the effectiveness of hybrid learning on academic achievement: A meta-analysis study. | 2022 | Hybrid learning | 44 | NA | 45 | 1.03 |
 | Quarterly Journal of Iranian Distance Education | Najafi & Heidari | Blended learning and academic achievement: A meta-analysis. | 2018 | Blended learning | 20 | 2,064 | 20 | 0.59 |
 | International Journal of Education and Curriculum Application | Oktarina, Suhaimi, Santosa, Razak, Irdawati, Ahda, Lufri, & Putri | Meta-Analysis: The Effectiveness of Using Blended Learning on Multiple Intelligences and Student Character Education during the Covid-19 Period. | 2021 | Blended learning | 22 | NA | 22 | 0.44 |
 
@@ -5554,9 +5554,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Child Education | Jeong-Hwa & Byung-gee | A meta-analysis of feedback effects on academic achievement. | 2019 | Feedback | 180 | NA | 1,393 | 0.59 |
 | Journal of Research in Science Teaching | Yeany & Miller | Effects of diagnostic/remedial instruction on science learning: A meta analysis | 1983 | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |
-| Psychological Bulletin | Kluger & DeNisi | The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory | 1996 | Feedback | 470 | 12,652 | 470 | 0.38 |
+| Psychological Bulletin | Kluger & DeNisi | The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary [[Feedback Intervention Theory\|feedback intervention theory]] | 1996 | Feedback | 470 | 12,652 | 470 | 0.38 |
 | Human Performance | Neubert | The value of feedback and goal setting over goal setting alone and potential moderators of this effect: A meta-analysis | 1998 | Goals plus feedback | 16 | 744 | 16 | 0.63 |
-| Advances in Health Sciences Education | Hatala, Cook, Zendejas, Hamstra, & Brydges | Feedback for simulation-based procedural skills training: a meta-analysis and critical narrative synthesis. | 2014 | Feedback for simulation skills | 31 | 653 | 31 | 0.74 |
+| Advances in Health Sciences Education | Hatala, Cook, Zendejas, Hamstra, & Brydges | Feedback for simulation-based procedural skills training: a meta-analysis and critical [[Narrative Synthesis\|narrative synthesis]]. | 2014 | Feedback for simulation skills | 31 | 653 | 31 | 0.74 |
 | Report | Biber, Nekrasova, & Horn | The effectiveness of feedback for L1-English and L2 writing development: A meta-analysis. | 2011 | Feedback in ESL Writing and Reading | 25 | NA | 88 | 0.87 |
 | Asian EFL Journal | Thirakunkovit & Chamcharatsri | A meta-analysis of effectiveness of teacher and peer feedback: Implications for writing instructions and research. | 2019 | Teacher feedback | 27 | NA | 52 | 0.90 |
 | Korean Association for Children's Education | Lee & Bak | A Meta-Analysis of Feedback Effects on Academic Achievement | 2018 | Feedback | 180 | NA | 991 | 0.59 |
@@ -5616,7 +5616,7 @@
 | Evaluation in Education | Lysakowski & Walberg | Classroom reinforcement | 1980 | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |
 | Asian-Pacific Journal of Second and Foreign Language Education | Schenck | Using meta-analysis of technique and timing to optimize corrective feedback for specific grammatical features. A | 2022 | Corrective feedback on learning | 15 | NA | 15 | 1.28 |
 | Tesl-Ej | Lim & Renandya | Efficacy of written corrective feedback in writing instruction: A meta-analysis. | 2020 | Corrective feedback on writing | 35 | NA | 35 | 0.59 |
-| Conference paper | Gramling | The effects of corrective feedback during STEM learning experiences with elementary students: A meta-analysis. | 2016 | Corrective feedback on learning | 6 | 494 | 6 | 0.47 |
+| Conference paper | Gramling | The effects of corrective feedback during [[Science Learning Centres Network\|STEM learning]] experiences with elementary students: A meta-analysis. | 2016 | Corrective feedback on learning | 6 | 494 | 6 | 0.47 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 164 | 21,547 | 267 | 0.87
 
@@ -5710,7 +5710,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Applied Psychology | Keith & Frese | Effectiveness of error management training: a meta-analysis. | 2008 | Productive failure | 24 | 2,183 | 24 | 0.44 |
+| Journal of Applied Psychology | Keith & Frese | Effectiveness of error management training: a meta-analysis. | 2008 | [[Productive Failure\|Productive failure]] | 24 | 2,183 | 24 | 0.44 |
 | Review of Educational Research | Sinha & Kapur | When Problem Solving Followed by Instruction Works: Evidence for Productive Failure. | 2021 | Problem solving then instruction | 53 | NA | 166 | 0.36 |
 | Educational Technology Research and Development | Darabi, Arrington, & Sayilir | Learning from failure: A meta-analysis of the empirical studies | 2018 | Productive failure | 12 | NA | 23 | 0.43 |
 
@@ -5777,8 +5777,8 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Exceptional Children | Fuchs & Fuchs | Effects of Systematic Formative Evaluation: A Meta-Analysis | 1986 | Formative evaluation | 21 | 3,835 | 21 | 0.70 |
-| Dissertation | Kim | Effects of implementing performance assessments on student learning: Meta-analysis using HLM. | 2005 | Formative assessment | 148 | NA | 644 | 0.39 |
+| Exceptional Children | Fuchs & Fuchs | Effects of Systematic [[Formative Assessment\|Formative Evaluation]]: A Meta-Analysis | 1986 | Formative evaluation | 21 | 3,835 | 21 | 0.70 |
+| Dissertation | Kim | Effects of implementing performance assessments on student learning: Meta-analysis using [[Hierarchical Linear Model\|HLM]]. | 2005 | Formative assessment | 148 | NA | 644 | 0.39 |
 | Internet site | Faber and Visscher | Digitale leerlingvolgsystemen: een review van de effecten op leerprestaties | 2014 | Formative assessment | 15 | NA | 40 | 0.40 |
 | Elementary School Journal | Graham, Hebert, & Harris | Formative assessment and writing: A meta-analysis | 2015 | Feedback on writing | 27 | NA | 27 | 0.61 |
 | Conference paper | Lee, Chung, Abedi, & Rashedi | Systematic review of formative assessment: Efficacy and characteristics. | 2018 | Formative assessment | 32 | NA | 125 | 0.28 |
@@ -5833,7 +5833,7 @@
 | Psychological Bulletin | Rowland | The effect of testing versus restudy on retention: A meta-analytic review of the testing effect | 2014 | Effects of testing | 61 | NA | 159 | 0.50 |
 | Journal of Technology Education | Haynie | Effects of test taking on retention learning in technology education: a meta-analysis | 2007 | Test taking on retention learning | 8 | NA | 8 | 0.76 |
 | WERA Educational Journal | Adesope, Trevisan, & Trevisan | The Neglected Benefits of Testing: Implications for Classroom and Self-Directed Learning | 2013 | Effects of pre-testing | 89 | 11,700 | 226 | 0.63 |
-| Review of Educational Research | Fuchs & Fuchs | Test Procedure Bias: A Meta-Analysis of Examiner Familiarity Effects | 1986 | Examiner familiarity effects | 22 | 1,489 | 34 | 0.28 |
+| Review of Educational Research | Fuchs & Fuchs | Test Procedure Bias: A Meta-Analysis of Examiner [[Familiarization\|Familiarity]] Effects | 1986 | Examiner familiarity effects | 22 | 1,489 | 34 | 0.28 |
 | Evaluation Review | Phelps | Test frequency, stakes, and feedback in student achievement: A meta-analysis. | 2019 | Effects of testing | 149 | NA | 509 | 0.84 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 506 | 7,013,189 | 1,576 | 0.59
@@ -5885,7 +5885,7 @@
 | Medication Education in Review | Cheng, Eppich, Grant, Sherbino, Zendejas, & Cook | Debriefing for technology-enhanced simulation: a systematic review and meta-analysis | 2014 | Debriefing after simulations | 177 | 11,511 | 177 | -0.01 |
 | Computers & Education | Wouter & van Oostendorp | A meta-analytic review of the role of instructional support in game-based learning. | 2013 | Instructional support in game learning | 29 | 3,675 | 107 | 0.34 |
 | Journal of Educational Psychology | Wouters, van Nimwegen, van der Spek, & van Oostendorp | A Meta-Analysis of the Cognitive and Motivational Effects of Serious Games | 2013 | Serious games on learning | 77 | 5,547 | 77 | 0.29 |
-| Educational Research Review | Bai, Hew, & Huang | Does gamification improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts | 2020 | Gamification | 24 | 3,202 | 30 | 0.50 |
+| Educational Research Review | Bai, Hew, & Huang | Does [[Gamification\|gamification]] improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts | 2020 | Gamification | 24 | 3,202 | 30 | 0.50 |
 | International Journal of Instruction | Fadhli, Brick, Setyosari, Ulfa, & Kuswandi | A Meta-Analysis of Selected Studies on the Effectiveness of Gamification Method for Children. | 2020 | Gamification | 6 | NA | 6 | 1.01 |
 | Computers in Human Behavior | Lamb, Annetta, Firestone, & Etopio | A meta-analysis with examination of moderators of student cognition, affect, and learning outcomes while using serious educational games, serious games, and simulations. | 2018 | Games and simulations | 46 | NA | 46 | 0.67 |
 | Open Education Journal | Duan | Effect of educational games on students' academic achievement: A meta-analysis of 48 Experimental and Quasi-experimental Studies. | 2017 | Gamification | 48 | NA | 48 | 0.56 |
@@ -5903,7 +5903,7 @@
 | Open Education Research | Chunyu | Research on the impact of educational games on students' academic achievement. | 2017 | Gaming | 48 | 5,275 | 48 | 0.56 |
 | Conference paper | Rahimi & Becker | The Effectiveness of Digital Games on Problem-Solving Skills in Elementary and Secondary Education: A Meta-Analysis | 2018 | Gaming on problem solving skills | 11 | NA | 11 | 0.54 |
 | Report | Hu | Does playful learning work? Evidence from Chinese meta-analysis | 2022 | Gaming | 19 | 2,000 | 48 | 1.16 |
-| Educational Technology Research and Development | Chen, Shih, & Law | The effects of competition in digital game-based learning (DGBL): A meta-analysis | 2020 | Games on competitiveness on achievement | 25 | 2,710 | 25 | 0.39 |
+| Educational Technology Research and Development | Chen, Shih, & Law | The effects of competition in digital game-based learning (DGBL): A meta-analysis | 2020 | Games on [[Competitiveness\|competitiveness]] on achievement | 25 | 2,710 | 25 | 0.39 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 1,201 | 63,057 | 1,341 | 0.60
 
@@ -5921,7 +5921,7 @@
 | Dissertation | Osenbach | Video Games in Education: A Meta-analysis | 2010 | Video games | 23 | 6,139 | 31 | 0.48 |
 | Psychological Bulletin | Sala, Tatlidil, & Gobet | Video game training does not enhance cognitive ability: A comprehensive meta-analytic investigation | 2018 | Video game and non video game players | 63 | 3,286 | 359 | 0.33 |
 | Psychological Bulletin | Bediou, Adams, Mayer, Tipton, Green, & Bavelier | Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. | 2018 | Action video games | 116 | NA | 309 | 0.55 |
-| Dissertation | Ortiz-Ortiz | The Effect of Video Games on Cognition and Behavior: A Meta-analysis and Pilot Study | 2018 | Video games | 9 | NA | 9 | 0.41 |
+| Dissertation | Ortiz-Ortiz | The Effect of Video Games on Cognition and Behavior: A Meta-analysis and [[Pilot Testing\|Pilot Study]] | 2018 | Video games | 9 | NA | 9 | 0.41 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 378 | 36,851 | 1,035 | 0.32
 
@@ -5935,7 +5935,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | School Science and Mathematics | Byun & Joung | Digital game-based learning for K–12 mathematics education: A meta-analysis | 2018 | Digital games in math | 17 | NA | 17 | 0.37 |
-| Conference paper | Alvarez-Montero, Rocha-Ruiz, Leyva-Cruz, Moreno-Alcaraz, & Alvarez-Arredondo | The Instrumental Approach and Academic Achievement in Mathematics: A Systematic Review, Reliability Evaluation and Meta-analysis. | 2018 | Instrumental approach | 21 | NA | 21 | 0.26 |
+| Conference paper | Alvarez-Montero, Rocha-Ruiz, Leyva-Cruz, Moreno-Alcaraz, & Alvarez-Arredondo | The Instrumental Approach and Academic Achievement in Mathematics: A Systematic Review, [[Reliability]] Evaluation and Meta-analysis. | 2018 | Instrumental approach | 21 | NA | 21 | 0.26 |
 | Journal of Computer Assisted Learning | Tokac, Novak, & Thompson | Effects of game-based learning on students' mathematics achievement: A meta-analysis | 2019 | Video games on math | 13 | NA | 13 | 0.26 |
 | Dissertation | Okeke | The impact of digital games on high school students' academic achievement in mathematics education: A meta-analytic investigation | 2018 | Games in math | 6 | NA | 6 | 0.43 |
 | International Journal of Engineering, Science, and Mathematics | Madu, Okwundu, Eze | Meta-analysis of research findings of research findings on effect of games on secondary school students' mathematics achievement in Nigeria. | 2016 | Games in math | 26 | NA | 26 | 0.48 |
@@ -6073,7 +6073,7 @@
 | Learning Point Associates | Waxman, Lin, Michko | A meta-analysis of the effectiveness of teaching and learning with technology on student outcomes | 2003 | ICT in Taiwan | 29 | 7,728 | 167 | 0.54 |
 | Computers and Education | Liao | Computer simulation and students' achievement in Taiwan: A meta-analysis | 2005 | ICT on achievement | 52 | 4,981 | 134 | 0.55 |
 | Technology Literacy Applications in Learning Environments | Chang & Lim | The role of information technology in learning: A meta-analysis. | 2005 | ICT on achievement | 58 | NA | 58 | 0.51 |
-| Dissertation | Sandy-Hanson | A meta-analysis o the impact of computer technology versus traditional instruction on students in kindergarten through twelfth grade in the United States: A comparison of academic achievement, higher-order thinking skills, motivation, physical outcomes and social skills | 2006 | e-learning in Canada | 23 | 9,897 | 23 | 0.28 |
+| Dissertation | Sandy-Hanson | A meta-analysis o the impact of computer technology versus traditional instruction on students in kindergarten through twelfth grade in the United States: A comparison of academic achievement, [[Higher-Order Thinking Skills\|higher-order thinking skills]], motivation, physical outcomes and social skills | 2006 | e-learning in Canada | 23 | 9,897 | 23 | 0.28 |
 | Journal of Educational Computing Research | Rosen & Salomon | The differential learning achievements of constructivist technology-intensive learning environments as compared with traditional ones: a meta-analysis | 2007 | ICT in Turkey | 32 | NA | 32 | 0.46 |
 | Educational Sciences: Theory and Practice | Camnalbur & Erdogan | A Meta Analysis on the Effectiveness of Computer-Assisted Instruction: Turkey Sample | 2008 | ICT in Turkey | 78 | 5,096 | 78 | 0.95 |
 | Asia-Pacific Forum on Science Learning and Teaching | Tekbiyik & Akdeniz | A meta-analytical investigation of the influence of computer assisted instruction on achievement in science, | 2010 | ICT in Turkey | 52 | NA | 65 | 1.12 |
@@ -6090,7 +6090,7 @@
 | Journal of Research on computing in Education | Ahmad & Lily | The effectiveness of computer applications: A meta-analysis. Journal of Research on computing in Education | 1994 | ICT | 36 | NA | 151 | 0.38 |
 | Participatory Educational Research | Çavus & Deniz | The Effect of Technology Assisted Teaching on Success in Mathematics and Geometry: A Meta-Analysis Study. | 2022 | Technology assisted teaching | 98 | NA | 98 | 0.94 |
 | Journal of Pedagogical Research | Elaldi & Çifçi | The effectiveness of using infographics on academic achievement: A meta-analysis and a meta-thematic analysis. | 2021 | Inforgraphics on achievement | 12 | NA | 12 | 1.60 |
-| Conference paper | Wang, Huang, Sommer, Shidfar, Rehman, Ritzhaupt, & Martin | The efficacy of artificial intelligence-enabled adaptive learning from 2010-2020 on learner cognitive outcomes: A meta-analysis. | 2023 | Adaptive learning with AI | 18 | NA | 18 | 0.70 |
+| Conference paper | Wang, Huang, Sommer, Shidfar, Rehman, Ritzhaupt, & Martin | The efficacy of [[Generative Artificial Intelligence\|artificial intelligence]]-enabled adaptive learning from 2010-2020 on learner cognitive outcomes: A meta-analysis. | 2023 | Adaptive learning with AI | 18 | NA | 18 | 0.70 |
 | Dissertation | Gao | The Potential of Adaptive Learning Systems to Enhance Learning Outcomes: A Meta-Analysis | 2023 | Adaptive learning compared to large group instruction | 46 | NA | 46 | 1.03 |
 | Distance Education in China | Ocean & Dongwei | The impact of educational software on learning outcomes. | 2020 | Software on learning | 38 | NA | 38 | 0.83 |
 | Language Testing in Asia | Rahmati, Izadpanah, & Shahnavaz | A meta-analysis on educational technology in English language teaching. | 2021 | Ed Technology in English language teaching | 60 | NA | 60 | 0.91 |
@@ -6155,7 +6155,7 @@
 | Journal of Educational Computing Research | Kulik, Kulik, & Schwalb | The Effectiveness of Computer-Based Adult Education: A Meta-Analysis | 1986 | ICT with adults | 23 | NA | 23 | 0.42 |
 | Report | Kulik | Effects of Using Instructional Technology in Colleges and Universities: What Controlled Evaluation Studies Say | 2003 | ICT on college | 12 | NA | 12 | 0.88 |
 | Communication Education | Timmerman & Kruepke | Computer-Assisted Instruction, Media Richness, and College Student Performance | 2006 | ICT with college students | 118 | 12,398 | 118 | 0.24 |
-| Dissertation | Michko | A meta-analysis of the effects of teaching and learning with technology on student outcomes in undergraduate engineering education | 2007 | Teaching engineering UGs with technology | 45 | 11,700 | 123 | 0.43 |
+| Dissertation | Michko | A meta-analysis of the effects of teaching and learning with technology on student outcomes in undergraduate [[Engineering Education\|engineering education]] | 2007 | Teaching engineering UGs with technology | 45 | 11,700 | 123 | 0.43 |
 | Journal of Research on Technology in Education | Larwin & Larwin | A Meta-Analysis Examining the Impact of Computer-Assisted Instruction on Postsecondary Statistics Education: 40 Years of Research | 2011 | ICT in postsecondary stats courses | 70 | 40,125 | 70 | 0.57 |
 | Dissertation | Hamilton | A Meta-Analysis of the Comparative Research on Computer-Assisted Instruction and its Effects on Elementary and Secondary Mathematics Achievement | 1995 | ICT in higher education | 41 | NA | 253 | 0.66 |
 | Journal of Educational Psychology | Steenbergen-Hu & Cooper | A meta-analysis of the effectiveness of intelligent tutoring systems on college students' academic learning. | 1991 | Computer assisted learning environments | 26 | NA | 26 | 0.37 |
@@ -6235,7 +6235,7 @@
 | Journal of Research in Science Teaching | Willett, Yamashita & Anderson | A meta-analysis of instructional systems applied in science teaching | 1983 | ICT in science | 130 | NA | 130 | 0.13 |
 | Book | Wise | The effects of using computing technologies in science instruction: a synthesis of classroom research | 1988 | ICT in science | 26 | NA | 26 | 0.30 |
 | Journal of Research on Computing in Education | Bayraktar | A Meta-Analysis of the Effectiveness of Computer-Assisted Instruction in Science Education | 2002 | ICT in science ed | 42 | NA | 108 | 0.27 |
-| Dissertation | Onuoha | Teachers' perceptions of the eConnect and Learn programme for enhancing teaching and learning at a secondary school: A case study. | 2014 | Computer based laboratories in science | 38 | 3,824 | 67 | 0.26 |
+| Dissertation | Onuoha | Teachers' perceptions of the eConnect and Learn programme for enhancing teaching and learning at a secondary school: A [[Case Study\|case study]]. | 2014 | Computer based laboratories in science | 38 | 3,824 | 67 | 0.26 |
 | Dissertation | LeJeune | A meta-analysis of outcomes from the use of computer-simulated experiments in science education | 2002 | Computer simulated experiments in science | 40 | 6,416 | 54 | 0.34 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 276 | 10,240 | 385 | 0.26
@@ -6259,7 +6259,7 @@
 | Reading Research Quarterly | Slavin, Cheung, Groff, & Lake | Effective reading programs for middle and high schools: A best-evidence synthesis | 2007 | ICT in reading | 12 | NA | 12 | 0.23 |
 | Center for Data-Driven Reform in Education | Slavin, Lake, Cheung, & Davis | Beyond the Basics: Effective Reading Programs for the Upper Elementary Grades. | 2009 | Instructional Tech in beginning reader | 14 | 4,973 | 14 | 0.21 |
 | Dissertation | Kunkel | The Effects of Computer-Assisted Instruction in Reading: A Meta-Analysis | 2015 | ICT in reading | 61 | 38,940 | 532 | 0.16 |
-| Report | Streke & Chan | Reviewing Systematic Reviews: Meta-Analysis of What Works Clearinghouse Computer-Assisted Interventions: | 2011 | ICT in reading | 73 | 30,000 | 73 | 0.21 |
+| Report | Streke & Chan | Reviewing Systematic Reviews: Meta-Analysis of [[What Works Clearinghouse]] Computer-Assisted Interventions: | 2011 | ICT in reading | 73 | 30,000 | 73 | 0.21 |
 | Dissertation | Sisson | A meta-analytic investigation into the efficacy of Fast ForWord intervention on improving academic performance | 2008 | Fast forward computer program on language | 31 | NA | 163 | 0.35 |
 | School Leadership and Management | Keany | The effectiveness of education technology for enhancing reading achievement: A meta-analysis | 2011 | Technology on reading achievement | 85 | 60,000 | 85 | 0.16 |
 | Educational Research Review | Verhoeven, Voeten, van Setten, & Segers | Computer-supported early literacy intervention effects in preschool and kindergarten: A meta-analysis. | 2020 | Technology on early literacy | 59 | 6,786 | 339 | 0.28 |
@@ -6378,7 +6378,7 @@
 | Review of Educational Research | Lou, Abrami & d'Apollonia | Small Group and Individual Learning with Technology: A Meta-Analysis | 2001 | ICT in small groups | 100 | 11,317 | 178 | 0.16 |
 | Review of Educational Research | Lou, Abrami & d'Apollonia | Small Group and Individual Learning with Technology: A Meta-Analysis | 2001 | ICT in small groups | 22 | NA | 39 | 0.31 |
 | Journal of Educational Computing Research | Lou | Understanding Process and Affective Factors in Small Group versus Individual Learning with Technology | 2004 | Small group cs. Individual learning with ICT on tasks attempted | 71 | NA | 399 | 0.15 |
-| ACM Transactions on Computing Education | Umapathy & Ritzhaupt | A meta-analysis of pair-programming in computer programming courses: Implications for educational practice. | 2017 | Pair vs solo working | 18 | 3,308 | 28 | 0.64 |
+| ACM Transactions on Computing Education | Umapathy & Ritzhaupt | A meta-analysis of pair-programming in computer programming courses: Implications for educational practice. | 2017 | Pair vs [[SOLO Taxonomy\|solo]] working | 18 | 3,308 | 28 | 0.64 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 211 | 14,625 | 644 | 0.32
 
@@ -6477,9 +6477,9 @@
 | Journal of Curriculum and Evaluation | Jang | Meta-Analysis of Effects of Flipped Learning on Elementary School Students. | 2020 | Flipped classrooms | 29 | NA | 292 | 0.56 |
 | Education Technology and Society | Zheng, Bhagat, Zhen, & Zhang | The Effectiveness of the Flipped Classroom on Students' Learning Achievement and Learning Motivation: A Meta-Analysis. | 2020 | Flipped classrooms | 95 | 15,386 | 95 | 0.44 |
 | Educational Research Review | van Alten, Phielix, Janssen, & Kester | Effects of flipped the classroom on learning outcomes and satisfaction: A meta-analysis | 2019 | Flipped classrooms | 114 | NA | 115 | 0.36 |
-| AERA Open | Lag & Saele | Does the flipped classroom improve student learning and satisfaction? A systematic review and meta-analysis | 2019 | Flipped classrooms | 271 | NA | 272 | 0.35 |
+| [[American Educational Research Association\|AERA]] Open | Lag & Saele | Does the flipped classroom improve student learning and satisfaction? A systematic review and meta-analysis | 2019 | Flipped classrooms | 271 | NA | 272 | 0.35 |
 | Journal of Education and Culture | Yoon | A meta-analysis for effects of flipped learning on secondary school students | 2018 | Flipped classrooms | 26 | NA | 26 | 0.83 |
-| Journal of Aba Teachers University | Deshen & Yu | The influence of flipping classroom on the academic achievements of students at higher vocational colleges: Meta-analysis evidence based on the random effect model. | 2021 | Flipped classrooms | 28 | NA | 28 | 0.49 |
+| Journal of Aba Teachers University | Deshen & Yu | The influence of flipping classroom on the academic achievements of students at higher vocational colleges: Meta-analysis evidence based on the [[Random-Effects Model\|random effect model]]. | 2021 | Flipped classrooms | 28 | NA | 28 | 0.49 |
 | Review of Educational Research | Bredow, Roehling, Knorp, & Sweet | To Flip or Not to Flip? A Meta-Analysis of the Efficacy of Flipped Learning in Higher Education. | 2021 | Flipped classrooms | 282 | 51,437 | 282 | 0.39 |
 | Nastava i vaspitanje | Ralevic & Tomaševic | Poredenje efektivnosti modela obrnute ucionice i modela tradicionalne nastave-metaanaliza. | 2021 | Flipped classrooms | 22 | NA | 22 | 0.97 |
 | Dissertation | Sparkes | Flipped Classrooms versus Traditional Classrooms: A systematic review and meta-analysis of student achievement in higher education | 2019 | Flipped classrooms | 114 | NA | 125 | 0.30 |
@@ -6539,7 +6539,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Rosenbaum | A meta-analysis of the effectiveness of educational treatment programs for emotionally disturbed students | 1983 | Treatment programs for emotionally disturbed students | 235 | NA | 99 | 1.02 |
 | Conference paper | O'Neal | Cerebral palsy: the meta-analysis of selected interventions | 1985 | With cerebral palsy students | 31 | NA | 96 | 0.81 |
-| Teaching and Teacher Education | Kyriakides, Christoforou & Charalambous | What matters for student learning outcomes: A meta-analysis of studies exploring factors of effective teaching | 2013 | Learning strategies on achievement | 167 | 1,182,117 | 291 | 0.36 |
+| Teaching and Teacher Education | Kyriakides, Christoforou & Charalambous | What matters for student learning outcomes: A meta-analysis of studies exploring factors of [[Effective Teaching\|effective teaching]] | 2013 | Learning strategies on achievement | 167 | 1,182,117 | 291 | 0.36 |
 | Sex Roles | Baenninger & Newcombe | The role of experience in spatial test performance: A meta-analysis | 1989 | Spatial strategies on spatial outcomes | 26 | NA | 26 | 0.51 |
 | Book | Scheerens & Bosker | The foundations of educational effectiveness | 1997 | Various strategies on achievement | 228 | NA | 545 | 0.20 |
 | Book | Marzano | A theory-based meta-analysis of research on instruction | 1998 | Classroom instructional techniques | 4,000 | 1,237,000 | 4,000 | 0.65 |
@@ -6623,9 +6623,9 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Educational Technology and Society | Belland, Walker, Olsen, & Leary | A pilot meta-analysis of computer-based scaffolding in STEM education | 2015 | Scaffolding on achievement | 7 | NA | 17 | 0.53 |
-| Book | Belland, Walker, Olsen, & Leary | Habitus, scaffolding, and problem-based learning: Why teachers' experiences as students matter | 2012 | Scaffolding on STEM outcomes | 144 | NA | 333 | 0.46 |
+| Book | Belland, Walker, Olsen, & Leary | [[Habitus]], scaffolding, and [[Problem-Based Learning\|problem-based learning]]: Why teachers' experiences as students matter | 2012 | Scaffolding on STEM outcomes | 144 | NA | 333 | 0.46 |
 | Education Psychological Review | Vogel, Wecker, Kollar, & Fischer | Socio-cognitive scaffolding with computer-supported collaboration scripts: A meta-analysis | 2017 | Scaffolding with Computer supported collaboration scripts | 22 | 2,825 | 45 | 0.20 |
-| Dissertation | Kim | The Effect of Situated Learning on Knowledge Transfer of Students with and without Disabilities in Inclusive Classrooms: A Meta-Analysis | 2012 | Situated learning | 19 | 2,501 | 36 | 1.12 |
+| Dissertation | Kim | The Effect of Situated Learning on [[Knowledge Transfer]] of Students with and without Disabilities in Inclusive Classrooms: A Meta-Analysis | 2012 | Situated learning | 19 | 2,501 | 36 | 1.12 |
 | Educational Psychology Review | Cai, Mao, Wang, He, Chen, & Fan | Effects of Scaffolding in Digital Game-Based Learning on Student's Achievement: a Three-Level Meta-analysis. | 2022 | Scaffolding in digital games | 49 | 5,906 | 154 | 0.43 |
 | International Review of Research in Open and Distributed Learning | Doo, Bonk, & Heo | A meta-analysis of scaffolding effects in online learning in higher education. | 2020 | Scaffolding in elearning | 18 | 1,184 | 41 | 0.65 |
 | Early Education and Development | Pesco & Gagne | Early Education and Development | 2017 | Scaffolding | 15 | NA | 28 | 0.61 |
@@ -6641,7 +6641,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Communication Monographs | Witt, Wheeless, & Allen | A meta-analytical review of the relationship between teacher immediacy and student learning. | 2004 | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |
+| Communication Monographs | Witt, Wheeless, & Allen | A meta-analytical review of the relationship between [[Teacher Immediacy\|teacher immediacy]] and student learning. | 2004 | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |
 | Communication Education | Allen, Witt, Wheeless | The role of teacher immediacy as a motivational factor in student learning: using meta-analysis to test a causal model | 2006 | Immediacy on cognitive outcomes | 8 | 2,718 | 8 | 0.16 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 89 | 27,192 | 89 | 0.65
@@ -6657,7 +6657,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Thinking: The Journal of Philosophy for Children | Trickey & Topping | Collaborative philosophical enquiry for school children: participant evaluation at 11-12 years. | 2007 | Philosophy in schools | 10 | NA | 10 | 0.43 |
 | Thinking: The journal of philosophy for children | Garcia-Moriyon, Rebollo, & Colom | Evaluating Philosophy for Children: A meta-analysis. | 2005 | Philosophy in schools | 18 | 2,431 | 18 | 0.58 |
-| Analytic teaching and Philosophical Praxis | Yan, Walters, Wang, & Wang | Meta-analysis of the effectiveness of philosophy for children programs on students' cognitive outcomes | 2018 | Philosophy in schools | 10 | 1,509 | 10 | 0.58 |
+| Analytic teaching and Philosophical [[Praxis]] | Yan, Walters, Wang, & Wang | Meta-analysis of the effectiveness of philosophy for children programs on students' cognitive outcomes | 2018 | Philosophy in schools | 10 | 1,509 | 10 | 0.58 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 38 | 3,940 | 38 | 0.53
 
@@ -6699,7 +6699,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dissertation | Cohn | A meta-analysis of the effects of teaching innovations on achievement in college economics | 1985 | Innovative teaching vs. traditional lectures in economics | 48 | NA | 48 | -0.20 |
 | Conference paper | Flaig, Heltemes, Lendermann, & Schneider | What's the use of lectures? A meta-analysis | 2019 | Lectures compared to other formats | 67 | 8,336 | 408 | -0.18 |
-| Higher Education | Kozanitis & Nenciovici | Effect of active learning versus traditional lecturing on the learning achievement of college students in humanities and social sciences: a meta-analysis. | 2023 | Lectures vs. active learning | 104 | 15,896 | 104 | -0.49 |
+| Higher Education | Kozanitis & Nenciovici | Effect of [[Active Learning\|active learning]] versus traditional lecturing on the learning achievement of college students in humanities and social sciences: a meta-analysis. | 2023 | Lectures vs. active learning | 104 | 15,896 | 104 | -0.49 |
 | Conference paper | Freeman, Eddy, McDonough, Smith, Okoroafor, Jordt, & Wenderoth | Active learning increases student performance in science, engineering, and mathematics | 2013 | Lectures vs. active learning | 255 | NA | 255 | -0.47 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 474 | 24,232 | 815 | -0.33
@@ -6752,10 +6752,10 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Learning Disabilities | Tran, Sanchez, Arellano & Swanson | A Meta-Analysis of the RTI Literature for Children at Risk for Reading Disabilities | 2011 | Response to Intervention programs | 13 | NA | 107 | 0.76 |
+| Journal of Learning Disabilities | Tran, Sanchez, Arellano & Swanson | A Meta-Analysis of the [[Response to Intervention\|RTI]] Literature for Children at Risk for Reading Disabilities | 2011 | Response to Intervention programs | 13 | NA | 107 | 0.76 |
 | Journal of School Psychology | Burns & Symington | A meta-analysis of prereferral intervention teams: Student and systemic outcomes | 2002 | Use of prereferral intervention teams | 11 | NA | 57 | 0.96 |
 | Dissertation | Torres | A Meta-Analysis of Research-Based Reading Interventions with English Language Learners. | 2016 | Response to Intervention programs | 20 | NA | 11 | 0.32 |
-| Review of Educational Research | Swanson & Lussier | A selective synthesis of the experimental literature on dynamic assessment | 2001 | Dynamic assessment (feedback) | 30 | 5,104 | 170 | 1.12 |
+| Review of Educational Research | Swanson & Lussier | A selective synthesis of the experimental literature on [[Dynamic Assessment\|dynamic assessment]] | 2001 | Dynamic assessment (feedback) | 30 | 5,104 | 170 | 1.12 |
 | Dissertation | Bagasi | Meta analysis of the effectiveness of response to intervention models in special education and implications for international implementations. | 2014 | Response to Intervention programs | 19 | NA | 19 | 0.47 |
 | Journal of Psychoeducational Assessment | Burns, Appleton, & Stehouwer | Meta-Analytic Review of Responsiveness-to-Intervention Research: Examining Field-Based and Research-Implemented Models | 2005 | Response to Intervention programs | 25 | NA | 25 | 1.49 |
 | Psychological Development and Education | Wang, Xu, & Sha | Effectiveness of the intervention-response model in identifying learning disabilities and its moderators: a meta-analysis of 20 years of research. | 2016 | Response to Intervention programs | 34 | 6,127 | 261 | 0.50 |
@@ -6785,7 +6785,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Education and Treatment of children | White | A meta-analysis of the effects of direct instruction in special education. | 1988 | DI in special education | 25 | NA | 24 | 0.83 |
+| Education and Treatment of children | White | A meta-analysis of the effects of [[Direct Instruction\|direct instruction]] in special education. | 1988 | DI in special education | 25 | NA | 24 | 0.83 |
 | Educational Achievement Systems | Adams & Engelmann | Research on Direct Instruction: 20 Years Beyond DISTAR | 1996 | DI on reading | 37 | NA | 372 | 0.75 |
 | Review of Educational Research | Borman, Hewes, Overman, & Brown | Comprehensive School Reform and Student Achievement: A Meta-Analysis | 2003 | DI from Comprehensive schools reforms | 232 | 42,618 | 182 | 0.21 |
 | NASSP Bulletin | Haas | Teaching methods for secondary algebra: a meta-analysis of findings | 2005 | DI in algebra | 10 | NA | 19 | 0.55 |
@@ -6892,7 +6892,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Journal of Research in Science Teaching | Sweitzer & Anderson | A meta-analysis of research on science teacher education practices associated with inquiry strategy | 1983 | Inquiry teaching in science | 68 | NA | 19 | 0.44 |
 | Journal of Research in Science Teaching | Shymansky, Hedges & Woodworth | A reassessment of the effects of inquiry-based science curricula of the 60's on student performance | 1990 | Inquiry methods in science | 81 | NA | 320 | 0.27 |
-| Conference paper | Bangert-Drowns | Meta-Analysis of the Effects of Inquiry-Based Instruction on Critical Thinking | 1992 | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |
+| Conference paper | Bangert-Drowns | Meta-Analysis of the Effects of [[Inquiry-Based Learning\|Inquiry-Based Instruction]] on Critical Thinking | 1992 | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |
 | Dissertation | Smith | A meta-analysis of student outcomes attributable to the teaching of science as inquiry as compared to traditional methodology | 1997 | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |
 | Review of Educational Research | Lazonder & Harmsen | Meta-Analysis of Inquiry-Based Learning: Effects of Guidance | 2016 | Inquiry learning | 72 | NA | 72 | 0.62 |
 | AERA Open | Estrella, Au, Jaeggi, & Collins | Is Inquiry Science Instruction Effective for English Language Learners? A Meta-Analytic Review | 2018 | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |
@@ -6916,7 +6916,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Conference paper | Almeida & Denham | Interpersonal Cognitive Problem-Solving: A Meta-Analysis | 1984 | Interpersonal problem solving | 18 | 2,398 | 18 | 0.72 |
 | Journal of Research in Education Sciences | Liao & Chang | Effects of the Problem Posing Strategies of Students on Affective Learning Outcomes and Academic Achievement: A Meta-Analysis . | 2016 | Problem posing on achievement | 21 | NA | 34 | 0.57 |
-| Dissertation | Mellinger | The development of cognitive flexibility in problem-solving: Theory and application | 1991 | Increasing cognitive flexibility | 25 | NA | 35 | 1.13 |
+| Dissertation | Mellinger | The development of [[Cognitive Flexibility\|cognitive flexibility]] in problem-solving: Theory and application | 1991 | Increasing cognitive flexibility | 25 | NA | 35 | 1.13 |
 | Journal of Special Education | Xin & Jitendra | Effects of mathematical word Problem—Solving instruction on middle school students with learning problems. | 1999 | Word problem solving in reading | 14 | NA | 653 | 0.89 |
 | Journal for Research in Mathematics Education | Hembree | Experiments and relational studies in problem solving: a meta-analysis | 1992 | Problem solving instructional methods | 55 | NA | 55 | 0.33 |
 | Journal of Research in Science Teaching | Tocanis, Ferguson-Hessler, & Broekkamp | Teaching science problem solving: An overview of experimental work. | 2001 | Problem solving in science | 22 | 2,208 | 31 | 0.59 |
@@ -6939,7 +6939,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Academic Medicine | Albanese & Mitchell | Problem-based learning: A review of literature on its outcomes and implementation issues | 1993 | PBL in medicine | 11 | 2,208 | 66 | 0.27 |
-| Academic Medicine | Vernon & Blake | Does problem-based learning work? A meta-analysis of evaluative research | 1993 | PBL in college level | 8 | NA | 28 | -0.18 |
+| Academic Medicine | Vernon & Blake | Does problem-based learning work? A meta-analysis of [[Evaluation Research\|evaluative research]] | 1993 | PBL in college level | 8 | NA | 28 | -0.18 |
 | Learning and Instruction | Dochy, Segers, Van den Bossche & Gijbels | Effects of problem-based learning: A meta-analysis | 2003 | PBL on knowledge and skills | 43 | 21,365 | 35 | 0.12 |
 | Dissertation | Smith | Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes | 2003 | PBL in medicine | 82 | 12,979 | 121 | 0.31 |
 | Report | Newman | Problem-based learning: an exploration of the method and evaluation of its effectiveness in a continuing nursing education programme | 2004 | PBL in medicine | 12 | NA | 12 | -0.30 |
@@ -6948,7 +6948,7 @@
 | The Interdisciplinary Journal of Problem-based Learning | Walker & Leary | A problem based learning meta analysis: Differences across problem types, implementation types, disciplines, and assessment levels. | 2009 | PBL across disciplines | 82 | NA | 201 | 0.13 |
 | Egitim ve Bilim | Dagyar & Demirel | Effects of problem-based learning on academic achievement: A meta-analysis study | 2015 | PBL | 98 | NA | 98 | 0.76 |
 | Conference paper | Jiang, Monteau, & Zhao | A Meta-analysis of the Effectiveness of the Problem-based Learning in College STEM Education Compared to Lecture based Learning. | 2013 | PBL | 38 | NA | 87 | 0.32 |
-| Review of Educational Research | Chen & Yang | Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. | 2019 | PBL | 30 | 12,585 | 30 | 0.71 |
+| Review of Educational Research | Chen & Yang | Revisiting the effects of [[Project-Based Learning\|project-based learning]] on students' academic achievement: A meta-analysis investigating moderators. | 2019 | PBL | 30 | 12,585 | 30 | 0.71 |
 | Dissertation | Jensen | A Meta-Analysis of the Effects of Problem- and Project-based Learning on Academic Achievement in Grades 6-12 Populations . | 2015 | PBL | 34 | 9,998 | 34 | 0.59 |
 | Journal of Statistics Education | Kalaian & Kasim | Effectiveness of Various Innovative Learning Methods in Health Science Classrooms: A Meta-Analysis | 2014 | PBL | 14 | NA | 16 | 0.29 |
 | Advances in medical education and practice | Sayyah, Shirbandi & Rahim | Use of a problem-based learning teaching model for undergraduate medical and nursing education: a systematic review and meta-analysis. | 2017 | PBL | 21 | NA | 21 | 0.80 |
@@ -6965,9 +6965,9 @@
 | Journal of Physics: Conference Series | Juandi & Tamur | Review of problem-based learning trends in 2010-2020: A meta-analysis study of the effect of problem-based learning in enhancing mathematical problem-solving skills of Indonesian students. | 2021 | PBL | 50 | NA | 50 | 0.82 |
 | International Journal of Economy, Education and Entrepreneuship | Novitasri, Restuningdiah, & Utami | A meta-analysis on the effects of problem-based learning in accounting learning. | 2022 | PBL | 24 | NA | 24 | 0.70 |
 | Dissertation | Brice | An Examination of Problem-Based Learning and Its Impact on Medical Students' Attitudes and Academic Outcomes: A Meta-Analysis | 2017 | PBL | 9 | 3,485 | 9 | -0.39 |
-| Journal on Education | Waterboro, Nierman, Jasiah, Surur, & Astuti | Meta-analysis study for the use of project based learning models in teaching and learning activities. | 2023 | PBL | 73 | NA | 73 | 1.05 |
+| Journal on Education | Waterboro, Nierman, Jasiah, Surur, & Astuti | Meta-analysis study for the use of project based learning models in [[Teaching and Learning Activities\|teaching and learning activities]]. | 2023 | PBL | 73 | NA | 73 | 1.05 |
 | Conference paper | Klager | Project-Based Learning in Science: A Meta-Analysis of Science Achievement Effects. | 2018 | PBL | 17 | NA | 17 | 0.46 |
-| Science Education International | Uluçinar | The effect of problem-based learning in science education on academic achievement: A meta-analytical study. | 2023 | PBL | 55 | NA | 55 | 1.01 |
+| Science [[Education International]] | Uluçinar | The effect of problem-based learning in science education on academic achievement: A meta-analytical study. | 2023 | PBL | 55 | NA | 55 | 1.01 |
 | Journal of Statistics Education | Erdem | A Meta-analytic Review of Studies of the Effectiveness of Small-Group Learning Methods on Statistics Achievement. | 2022 | PBL | 13 | NA | 15 | 0.82 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 1,059 | 103,700 | 1,520 | 0.47
@@ -6999,7 +6999,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EKEV Akademi Dergisi | Batdi | Jigsaw tekniginin ogrensilerin akademik basarilarina etkisinin meta-analiz yontemiyle incelenmesi | 2014 | Jigsaw on achievement | 37 | NA | 37 | 1.20 |
+| EKEV Akademi Dergisi | Batdi | [[Jigsaw]] tekniginin ogrensilerin akademik basarilarina etkisinin meta-analiz yontemiyle incelenmesi | 2014 | Jigsaw on achievement | 37 | NA | 37 | 1.20 |
 | Frontiers in Psychology | Drouet, Lentillon-Kaestner, & Marhas | Effects of the Jigsaw method on student educational outcomes: systematic review and meta-analyses. | 2023 | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |
 | Nurse Education in Practice | Ozkan & Uslusoy | Outcomes of jigsaw technique in nurse education: A systematic review and meta-analysis. | 2024 | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |
 
@@ -7016,7 +7016,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anthropologist | Erisen & Gunay | A meta-analysis into the effectiveness of doctoral dissertations on constructivist learning. | 2015 | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |
 | Journal of Education and Training Studies | Semerci & Batdi | A Meta-Analysis of Constructivist Learning Approach on Learners' Academic Achievements, Retention and Attitudes. | 2015 | Constructivist teaching | 28 | NA | 28 | 1.08 |
-| Educational Studies | Li, Din, & Zhang | Effects of learner-centred education on academic achievement: a meta-analysis. | 2021 | Learner centered education | 42 | NA | 72 | 0.54 |
+| Educational Studies | Li, Din, & Zhang | Effects of [[Learner-Centred Education\|learner-centred education]] on academic achievement: a meta-analysis. | 2021 | Learner centered education | 42 | NA | 72 | 0.54 |
 | International Electronic Journal of Environmental Education | Selçuk & Yilmaz | The effect of constructivist learning approach and active learning on environmental education: A meta-analysis study | 2020 | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |
 | Malikussaleh Journal of Mathematics Learning | Ulum & Tümkaya | The Effect of Student-Centred Methods and Techniques on Primary School Students' Mathematics Achievement: A Meta-Analysis Study. | 2022 | Student centered teaching | 63 | NA | 66 | 0.79 |
 | Journal of Practical Studies in Education | Tutal | Does context-based learning increase academic achievement and learning retention?: A review based on meta-analysis. | 2023 | Context based learning | 42 | 3,938 | 54 | 0.97 |
@@ -7174,7 +7174,7 @@
 ### Clear goal intentions
 
 - Detail page: https://www.visiblelearningmetax.com/influences/view/clear_goal_intentions
-- Domain: Teaching Strategies / Learning intentions
+- Domain: Teaching Strategies / [[Learning Intentions|Learning intentions]]
 - Weighted mean effect size: 0.52
 - Meta-analysis rows: 5
 
@@ -7216,7 +7216,7 @@
 | Journal of Applied Psychology | Tubbs | Goal setting: A meta-analytic examination of the empirical evidence | 1986 | Goal difficulty, specificity and feedback | 87 | NA | 147 | 0.58 |
 | Organizational Behavior and Human Decision Processes | Mento, Steel, & Karren | A meta-analytic study of the effects of goal setting on task performance: 1966–1984 | 1987 | Goal difficulty | 39 | 7,763 | 77 | 0.64 |
 | Remedial and Special Education | Burns | Empirical analysis of drill ratio research: Refining the instructional level for drill tasks | 2004 | Degree of challenge | 55 | NA | 45 | 0.82 |
-| Journal of Applied Psychology | Wright | Operationalization of goal difficulty as a moderator of the goal difficulty-performance relationship | 1990 | Goal difficulty | 70 | 7,161 | 70 | 0.55 |
+| Journal of Applied Psychology | Wright | [[Operationalization]] of goal difficulty as a moderator of the goal difficulty-performance relationship | 1990 | Goal difficulty | 70 | 7,161 | 70 | 0.55 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 272 | 16,694 | 360 | 0.61
 
@@ -7281,10 +7281,10 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Journal of Educational Research | Moore & Readence | A quantitative and qualitative review of graphic organizer research | 1984 | Graphics organizers in mathematics | 161 | NA | 161 | 0.22 |
-| Conference paper | Vazquez & Carballo | Meta-analysis of the effectiveness of concept mapping as a learning strategy in science education | 1993 | Concept mapping in science | 17 | NA | 19 | 0.57 |
+| Conference paper | Vazquez & Carballo | Meta-analysis of the effectiveness of [[Concept Mapping\|concept mapping]] as a learning strategy in science education | 1993 | Concept mapping in science | 17 | NA | 19 | 0.57 |
 | Educational Psychology Review | Schroeder, Anguiano, & Nesbit | Studying and constructing concept maps: A meta-analysis. | 2018 | Concept mapping | 143 | 11,882 | 143 | 0.59 |
 | Book | Marzano, Pickering, & Pollock | Classroom instruction that works: Research-based strategies for increasing student achievement | 2001 | Idea representation | 708 | NA | 708 | 0.69 |
-| Standard Journal of Education and Essay | Liu, Zhao, Ma, & Bo | The effect of mind mapping on teaching and learning: A meta-analysis. | 2014 | Mind mapping | 40 | 5,213 | 40 | 0.63 |
+| Standard Journal of Education and Essay | Liu, Zhao, Ma, & Bo | The effect of [[Mind Mapping\|mind mapping]] on teaching and learning: A meta-analysis. | 2014 | Mind mapping | 40 | 5,213 | 40 | 0.63 |
 | Science Education | Horton, McConney, Gallo, Woods, Senn, & Hamelin | An investigation of the effectiveness of concept mapping as an instructional tool | 1993 | Concept mapping in science | 19 | 1,805 | 19 | 0.45 |
 | Dissertation | Kang | A meta-analysis of graphic organizer interventions for students with learning disabilities | 2002 | Graphics organizers in reading with learning disabled | 14 | NA | 14 | 0.79 |
 | Journal of Learning Disabilities | Kim, Vaughn, Wanzek, & Wei | Graphic organizers and their effects on the reading comprehension of students with LD: A synthesis of research | 2004 | Graphics organizers in reading | 21 | 848 | 52 | 0.81 |
@@ -7322,7 +7322,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Language Learning | Jackson & Suethanapornkul | The cognition hypotheses: A synthesis and meta-analysis of research on second language task complexity. | 2013 | Increasing task complexity | 17 | NA | 99 | 0.09 |
-| Human Performance | Woznyj, Banks, Dunn, Berka, & Woehr | Re-introducing cognitive complexity: A meta-analysis and agenda for future research. | 2020 | Complexity of achievement and work outcomes | 74 | 2,845 | 13 | 0.39 |
+| Human Performance | Woznyj, Banks, Dunn, Berka, & Woehr | Re-introducing [[Cognitive Complexity Index\|cognitive complexity]]: A meta-analysis and agenda for future research. | 2020 | Complexity of achievement and work outcomes | 74 | 2,845 | 13 | 0.39 |
 | Conference paper | Norris, Sasayama, & Malicka | Meta-analysis of task complexity effects on L2 performance: Implications for assessment. Germany. European Association for Language Testing | 2018 | Increasing complexity, reducing extraneous load | 240 | NA | 240 | 0.73 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 331 | 2,845 | 352 | 0.40
@@ -7336,7 +7336,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Journal of Cognitive Engineering and Decision Making | Tofel-Grehl & Feldon | Cognitive task analysis–based training: A meta-analysis of studies | 2013 | Cognitive task analysis | 20 | NA | 56 | 0.87 |
+| Journal of Cognitive Engineering and Decision Making | Tofel-Grehl & Feldon | [[Cognitive Task Analysis\|Cognitive task analysis]]–based training: A meta-analysis of studies | 2013 | Cognitive task analysis | 20 | NA | 56 | 0.87 |
 | Dissertation | Lee | The impact of cognitive task analysis on performance: A meta-analysis of comparative studies. | 2008 | Cognitive task analysis | 7 | NA | 39 | 1.70 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 27 | NA | 95 | 1.29
@@ -7360,7 +7360,7 @@
 | JAMA - Journal of the American Medical Association | Cook, Hatala, Brydges, Zendejas, Szostek, Wang, Erwin, & Hamstra | Technology-enhanced simulation for health professions education: a systematic review and meta-analysis | 2013 | Mastery learning using technology enhanced simulations | 59 | 2,060 | 59 | 1.17 |
 | Dissertation | Hood | Using meta-analysis for input evaluation | 1990 | Mastery learning | 23 | NA | 23 | 0.56 |
 | Review of Educational Research | Kulik, Kulik, & Bangert-Drowns | Effectiveness of mastery learning programs: a meta-analysis | 1990 | Mastery learning | 34 | NA | 34 | 0.52 |
-| Teaching of Psychology | Kulik, Kulik, & Cohen | Instructional technology and college teaching. | 1980 | PSI and achievement | 61 | NA | 75 | 0.49 |
+| Teaching of Psychology | Kulik, Kulik, & Cohen | Instructional technology and college teaching. | 1980 | [[Problem Solving Inventory\|PSI]] and achievement | 61 | NA | 75 | 0.49 |
 | Journal of Research in Science Teaching | Willett, Yamashita & Anderson | A meta-analysis of instructional systems applied in science teaching | 1983 | PSI in science | 130 | NA | 15 | 0.60 |
 | Computers in Human Behavior | Kulik, Kulik, & Bangert-Drowns | Effectiveness of computer-based education in elementary schools. | 1985 | PSI in college students | 72 | NA | 72 | 0.49 |
 | Journal of Applied Research in Higher Education | Ede & Igbokwe | Meta-analysis of the effects of mastery learning on students' academic achievements in Nigeria | 2018 | Mastery testing | 42 | NA | 42 | 0.54 |
@@ -7407,7 +7407,7 @@
 | Advances in language and literary studies | Hassan, Sulan, Spria, & Ahmad | Impact of mobile assisted language learning (MALL) on EFL: A meta-analysis. | 2016 | Mobile in language learning | 13 | NA | 13 | 0.43 |
 | Journal of Social Sciences/Sosyal Bilimler Dergisi | Güzeller & Ustünel | Effects of mobile learning on academic achievement: a meta analysis. | 2016 | Mobile learning | 10 | NA | 10 | 0.85 |
 | British Journal of Educational Technology | Shi & Kopcha | A Meta-Analysis of Mobile Learning in Science: A Pedagogical Role Perspective | 2022 | Mobile learning | 34 | NA | 34 | 1.04 |
-| Reports | Mihaylova, Gorin, Reber & Rothen | A meta-analysis on mobile assisted language learning applications reveals moderate learning benefit and significant publication bias | 2020 | Mobile learning on L2 | 23 | NA | 23 | 0.88 |
+| Reports | Mihaylova, Gorin, Reber & Rothen | A meta-analysis on mobile assisted language learning applications reveals moderate learning benefit and significant [[Publication Bias\|publication bias]] | 2020 | Mobile learning on L2 | 23 | NA | 23 | 0.88 |
 | International Journal of Mobile Learning and Organization | Zheng, Tian & Cui | The effectiveness of integrating mobile devices with inquiry-based learning on students' learning achievements: a meta-analysis. | 2018 | Mobile phone and inquiry learning | 34 | 2,316 | 34 | 0.91 |
 | Review of Educational Research | Sung, Yang, & Lee | The effects of mobile-computer-supported collaborative learning | 2017 | Mobile-computer-supported collaborative learning | 48 | 5,294 | 163 | 0.52 |
 | Educational Sciences: Theory and Practice | Talan | The Effect of Mobile Learning on Learning Performance: A Meta-Analysis Study. | 2020 | Mobile Learning on Learning Performance | 104 | 7,568 | 104 | 0.85 |
@@ -7415,7 +7415,7 @@
 | International Online Journal of Educational Studies | Odabas & Kahramanoglu | Analyzing the Effects of Mobile Devices on Student Achievement: A Wide-ranging Meta-analysis. | 2023 | Mobile technologies | 50 | 4,233 | 50 | 0.28 |
 | Education and Information Technologies | Dong, Chiu, Zhou, Zhang | The effect of mobile learning on school-aged students' science achievement: A Meta-analysis. | 2023 | Mobile learning in science | 44 | 4,145 | 47 | 0.86 |
 | ReCALL | Burston & Giannakou | MALL language learning outcomes: A comprehensive meta-analysis 1994–2019. | 2022 | Mobile learning language outcomes | 84 | 6,658 | 140 | 0.72 |
-| Dissertation | Wang | Technology integration in education: Policy, plans, teacher practices, and student outcomes | 2021 | Mobile technologies | 85 | 9,157 | 85 | 0.55 |
+| Dissertation | Wang | [[Technology Infusion\|Technology integration]] in education: Policy, plans, teacher practices, and student outcomes | 2021 | Mobile technologies | 85 | 9,157 | 85 | 0.55 |
 | Book | Lee, Sung, Chang, Liu, & Chen | A meta-analysis of the effects of learning languages with mobile devices | 2014 | Mobile and Languages | 44 | NA | 200 | 0.54 |
 | Dissertation | Kasi | Meta-Analysis of the Effects of Mobile Apps' Interventions on Second Language Learners | 2023 | Mobile apps | 45 | 3,279 | 45 | 1.12 |
 | International Journal of Engineering Pedagogy | Bazhenova, Shuzhebayeva, Kuntuganova, Bazhenova, & Murygina | The Impact of Mobile Learning on Undergraduate Students' Cognitive Learning Outcomes: A Meta-Analytic Review. | 2022 | Mobile learning | 12 | NA | 12 | 0.52 |
@@ -7714,7 +7714,7 @@
 | Dissertation | Lewis & Samuels | Read more–read better? A meta-analysis of the literature on the relationship between exposure to reading and reading achievement | 2003 | Sports | 5 | NA | 5 | 0.10 |
 | International Review of Education | Shulruf | Do extra-curricular activities in schools improve educational outcomes? A critical review and meta-analysis of the literature. | 2010 | Extra curricula activities | 29 | NA | 148 | 0.19 |
 | Report | Chappell, Nunnery, Pribesh & Hager | Supplemental educational services provision of no child left behind: A synthesis of provider effects. | 2010 | Supplemental education services out of school | 28 | 140,345 | 801 | 0.03 |
-| Journal of College Student Development | Gellin | The Effect of Undergraduate Student Involvement on Critical Thinking: A Meta-Analysis of the Literature 1991-2000 | 2003 | UG student involvement in clubs etc. | 18 | NA | 18 | 0.08 |
+| Journal of College Student Development | Gellin | The Effect of Undergraduate [[Student Involvement]] on Critical Thinking: A Meta-Analysis of the Literature 1991-2000 | 2003 | UG student involvement in clubs etc. | 18 | NA | 18 | 0.08 |
 | Review of Educational Research | Lauer, Akiba, Wilkerson, Apthorp, Snow, & Martin-Glenn | Out-of-school-time programs: A meta-analysis of effects for at-risk students | 2006 | After school programs on reading and math | 30 | 15,277 | 24 | 0.10 |
 | Report | Kidron & Lindsay | The Effects of Increased Learning Time on Student Academic and Nonacademic Outcomes: Findings from a Meta-Analytic Review | 2014 | Increasing time outside school | 30 | 35,347 | 39 | 0.04 |
 | Education Development Research | Shanshan & Xiangdong | Meta-analysis of the effect of extracurricula tutoring on student's academic performance. | 2015 | Out of school tutoring | 25 | NA | 25 | 0.27 |
@@ -7814,7 +7814,7 @@
 
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Educational Evaluation and Policy Analysis | Borman & D'Agostino | Title I and Student Achievement: A Meta-Analysis of Federal Evaluation Results | 1996 | Evaluation of Federal Title I programs | 17 | 41,706,196 | 657 | 0.12 |
+| Educational Evaluation and Policy Analysis | Borman & D'Agostino | [[Title I of the Elementary and Secondary Education Act\|Title I]] and Student Achievement: A Meta-Analysis of Federal Evaluation Results | 1996 | Evaluation of Federal Title I programs | 17 | 41,706,196 | 657 | 0.12 |
 | Dissertation | Friedrich | Alternative education for at-risk youth: an analytical review of evaluation findings | 1997 | Alternative programs for at-risk youth | 33 | NA | 50 | 0.38 |
 | American Educational Research Journal | Schueler, Asher, Larned, Mehrotra, & Pollard | Improving low-performing schools: A meta-analysis of impact evaluation studies. | 2022 | Improving low performance schools | 67 | NA | 141 | 0.06 |
 
@@ -7936,7 +7936,7 @@
 | Journal Title | Author | Article Name | Year Published | Variable | Number of Studies | Number of Students | Number of Effects | Effect Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Journal of Computer Assisted Learning | Cai, Pan, & Liu | Augmented reality technology in language learning: A meta-analysis. | 2022 | Virtual language on language | 21 | NA | 21 | 0.93 |
-| Computer Assisted Language Learning | Wang, Lan, Tseng, Lin, & Gupta | On the effects of 3D virtual worlds in language learning–a meta-analysis. | 2020 | 3D virtual worlds | 13 | 287 | 31 | 0.82 |
+| Computer Assisted Language Learning | Wang, Lan, Tseng, Lin, & Gupta | On the effects of 3D [[Virtual World\|virtual worlds]] in language learning–a meta-analysis. | 2020 | 3D virtual worlds | 13 | 287 | 31 | 0.82 |
 
 - Source TOTAL/AVERAGE row: TOTAL/AVERAGE | 34 | 287 | 52 | 0.88
 

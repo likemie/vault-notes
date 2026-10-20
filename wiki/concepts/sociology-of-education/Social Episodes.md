@@ -4,7 +4,7 @@ aliases: [社会片段, social episode]
 summary: "社会生活的任何连贯片段，有可识别的起点和终点，其行动序列对参与者具有某种意义，是人因研究的基本分析单位。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,14 +15,13 @@ related_concepts:
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Cluster Analysis]]"
-  - "[[Correlational Research]]"
   - "[[Account Gathering]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-18
+updated: 2026-10-20
 ---
 # Social Episodes
 
@@ -79,5 +78,5 @@ updated: 2026-09-18
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本[[Unit of Analysis\|分析单位]]，系统阐述[[Account Gathering\|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。

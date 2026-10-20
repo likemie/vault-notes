@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学理事会建立的高中大学水平单科课程与考试体系，以外部评价支持大学分班或学分，并构成国际文凭进入北美高中的重要制度先例与比较对象。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,12 +27,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Advanced Placement Program
@@ -97,6 +96,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 以 AP 解释北美公立高中接受外部课程与考试的制度先例，并比较其单科选择与 IB 完整课程的不同。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 在对大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费的实证审计中，记录了高中利用联邦补偿性资金采购针对性 AP 备考辅导以促进大学准备度的现实采办形态。

@@ -6,7 +6,7 @@ aliases:
 summary: "个体在认知实践中表现出的隐性或无法言传的认识论倾向，常通过行为而非口头报告体现。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -29,7 +28,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Commitments
@@ -58,5 +57,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 主张使用“[[Epistemology\|认识论]]承诺”代替“隐性信念”，并呼吁研究者通过观察学生如何论证、如何评估来源等实际表现来推断这些承诺。

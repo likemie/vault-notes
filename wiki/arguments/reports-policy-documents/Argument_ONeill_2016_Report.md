@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,6 +83,7 @@ sources:
 part_of: ''
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 status: active
 created: '2026-05-04'
 updated: 2026-10-20
@@ -261,7 +262,7 @@ citation_aliases:
 > | **体制内学术研发（1998–2003）** | 奥克兰大学教育学院院长；主持教育部委托项目 | 主持研发国家教学评估工具（[[Assessment Tools for Teaching and Learning]], asTTle） | 确立教育评价领军学者地位，积累全国教学实证数据。（p.65） |
 > | **参与商业治理（2006–2008）** | 出任 Multi Serve 董事；2008 年成为重组后的科认知教育（[[Cognition Education]]）董事 | 将元分析学术成果汇编为专著《可见的学习》（[[Visible Learning]]） | 依托商业机构平台设计培训课程，开启品牌化运作。（p.66） |
 > | **推行商标特许（2009–2012）** | 科认知教育核心董事与知识产权源头 | 注册 [[Visible Learning Branding and Global Influences\|Visible Learningplus]] 跨国商标；推出 16 个标准化教师工作坊与认证体系 | 在澳洲、欧美及中东 35 个国家建立排他性商业加盟网络。（pp.66, 78） |
-> | **整合软件与资本（2013–2015）** | 墨尔本大学教授；与商业机构 Ai-Media 达成合作 | 推出 Visible Classroom 软件，对教师课堂录音收费提供反馈；入驻商业出版社 | 联合培生智库发布报告，完成学术、出版、咨询与软件服务的全方位商业转化。（pp.67–69） |
+> | **整合软件与资本（2013–2015）** | 墨尔本大学教授；与商业机构 Ai-Media 达成合作 | 推出 [[Visible Classroom]] 软件，对教师课堂录音收费提供反馈；入驻商业出版社 | 联合培生智库发布报告，完成学术、出版、咨询与软件服务的全方位商业转化。（pp.67–69） |
 
 哈蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业中学术、政策与商业相互强化的循环机制：
 

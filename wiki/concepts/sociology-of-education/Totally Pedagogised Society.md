@@ -7,7 +7,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Critical Pedagogy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
   - "[[Champ]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Totally Pedagogised Society
@@ -52,7 +51,7 @@ updated: 2026-10-15
 > 全盘教育化社会（Totally Pedagogised Society，TPS）是教育社会学与[[Critical Pedagogy\|批判教育学]]核心概念，由 [[Basil Bernstein]] 于 2001 年提出。它指教育与教学关系（pedagogic relations）超越 19、20 世纪传统的学校与大学围墙边界，弥散并系统性嵌入至整个社会生活、家庭日常以及工作空间中的社会形态。[[Robert Cowen]] 将其引入比较教育前瞻分析中，用以批判性审视 21 世纪后期由先进技术与新社会监控模式主导的无缝控制网络。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 指教学评价、行为塑造与知识[[Disciplina and Doctrina\|规训]]的逻辑从传统的固定学校建制中解构，并弥散为全社会范围内的微观规训网络。(p. 336)
+> - **含义** 指教学评价、行为塑造与知识规训的逻辑从传统的固定学校建制中解构，并弥散为全社会范围内的微观规训网络。(p. 336)
 > - **用途** 提供了一个超越“学校系统”狭隘视线的社会学概念工具，帮助研究者透视和解构打着教育、培训、评估旗号的深层社会控制逻辑。(p. 336)
 > - **边界** 区别于[[Lifelong Learning\|终身学习]]等鼓励性的政策修辞——全盘教育化社会是批判性的社会形态学诊断，揭示的是无孔不入的指标束缚与行为监控，而非个体的自由成长。(p. 336)
 

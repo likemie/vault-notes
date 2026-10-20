@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Value Neutrality]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Epistemology]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # World-Systems Theory
@@ -133,7 +132,7 @@ updated: 2026-10-17
 
 > [!application] 比较教育学的理论突破与分析路径
 > - **打破技术功能主义与[[Value Neutrality|价值中立]]迷思** 实证功能主义将教育视作国家实现现代化的中立发动机；世界体系理论则揭示，教育扩张主要受跨国资本积累需求规约，边缘国家扩招往往伴随着严重的文凭贬值、过度教育与劳动力失业，固化了国际依附格局。
-> - **解构跨国援助与金融机构的[[Disciplina and Doctrina|规训]]网络** 理论为批判[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]（IMF）等国际金融机构推行的结构调整计划（[[Structural Adjustment Programs]], SAPs）提供了尖锐透镜，证明削减公共教育开支、推进[[Educational Privatisation|教育私有化]]与用户付费是中心国家向边缘国家转移危机、重构依附关系的政治手段。
+> - **解构跨国援助与金融机构的规训网络** 理论为批判[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]（IMF）等国际金融机构推行的结构调整计划（[[Structural Adjustment Programs]], SAPs）提供了尖锐透镜，证明削减公共教育开支、推进[[Educational Privatisation|教育私有化]]与用户付费是中心国家向边缘国家转移危机、重构依附关系的政治手段。
 > - **揭示双层传递的教育依附链条** [[Robert Arnove|阿诺夫]]（Arnove, 1982; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）将世界体系具体化为教育依附传递链：发达中心国家通过学术出版垄断、课程输入与人才流动对第三世界施加[[Hegemony|文化霸权]]；而边缘国家的政治经济精英则在本土社会中维持对底层劳工与边缘群体的内部教育垄断与阶级支配。
 > - **促进微观课堂抗争与草根联合** 结合“双重视野”，世界体系视角指引学者深入微观课堂（如几内亚教师教学、巴布亚新几内亚青年反抗），考察底层行动者在面对全球资本规训时开展的文化抵抗与自下而上的社会民主抗争。
 

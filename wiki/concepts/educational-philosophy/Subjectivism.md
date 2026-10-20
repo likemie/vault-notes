@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -60,7 +60,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Problem Approach]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Subjectivism
@@ -254,6 +253,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述伯勒尔与摩根的主观—客观四组假设构架，以及格林菲尔德组织主观主义十维度分析矩阵。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考掘战后比较教育学中[[Positivism\|实证主义]]对主观主义的清洗运动、霍姆斯[[Critical Dualism\|批判二元论]]对主观规范的情境整合，以及后现代思潮对多元真理体制与主观阐释进路的重新合法化。

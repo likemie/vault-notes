@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Common Language Effect Size]]"
   - "[[Audit Trail]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Research Synthesis]]"
 related_persons:

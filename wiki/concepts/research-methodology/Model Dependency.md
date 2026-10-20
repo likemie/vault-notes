@@ -8,7 +8,7 @@ aliases:
 summary: "同一经验数据集因统计分析者选用的建模假定不同而导致效应量估计与统计推断发生大幅漂移的现象，揭示了实证证据高度脆弱的主观模型设定根源，催生了强制性预注册与统计分析计划"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Imputation Methods]]"
   - "[[Quantitative Research]]"
   - "[[Analysis of Covariance]]"
-  - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Steve Higgins]]"
@@ -66,7 +65,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Model Dependency
@@ -213,6 +212,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录杜伦大学用 NPD 数据复算 17 项试验、揭示模型依赖性的过程，及其如何催生《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（2018）。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 从二阶[[Meta-meta-analysis\|元综合]]的方法学高度，反思原始研究在模型假定上的[[Heterogeneity\|异质性]]如何加剧跨干预比较的偏差风险。

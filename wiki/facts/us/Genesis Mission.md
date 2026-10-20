@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2025年11月启动，设定十年生产率翻倍目标"
 initiator_organization: "美国能源部（DOE）"
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Gold Standard Science]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"

@@ -10,7 +10,7 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -74,7 +74,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Intercoder Agreement]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Cognitive Ability Test KFT]]"
   - "[[Teach Classroom Observation Tool]]"

@@ -9,7 +9,7 @@ aliases:
 summary: "以学生全天候在校寄宿与全域生活管理为组织特征的学校形态；既是现代国家通过物理隔离推行定居主义与文化同化的空间圈禁工具，又是维系精英阶层社会资本再生产与当代跨国文凭跳板的特权机构。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
   - theme/indigenous-education
   - theme/social-reproduction
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Total Institution]]"
   - "[[Sedentarism]]"
   - "[[International Education]]"
@@ -29,10 +28,12 @@ related_concepts:
   - "[[Migrant Children]]"
   - "[[Champ]]"
   - "[[Intercultural Education]]"
+  - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Nomadic Education]]"
   - "[[Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Social Capital Theory]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Boarding Schools
@@ -60,7 +61,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 寄宿学校（Boarding Schools，在原住民与殖民地政策语境中亦称 Residential Schools）指以学生全天候在校居住、集体生活管理与沉浸式社会化为核心组织特征的学校形态。它突破了传统走读学校仅[[Disciplina and Doctrina|规训]]日间课堂教学的时空界限，通过将学龄人口从原生家庭、地理聚落与部族社区中彻底物理剥离（Physical Dislocation），在高度受控的围墙封闭空间内，系统实施涵盖学术训练、行为仪式、日常作息乃至价值观重塑的全域教育干预。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 366–367)]]
+> 寄宿学校（Boarding Schools，在原住民与殖民地政策语境中亦称 Residential Schools）指以学生全天候在校居住、集体生活管理与沉浸式社会化为核心组织特征的学校形态。它突破了传统走读学校仅规训日间课堂教学的时空界限，通过将学龄人口从原生家庭、地理聚落与部族社区中彻底物理剥离（Physical Dislocation），在高度受控的围墙封闭空间内，系统实施涵盖学术训练、行为仪式、日常作息乃至价值观重塑的全域教育干预。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 366–367)]]
 
 > [!concept-lens] 概念透镜
 > - **空间封闭与全封闭机构透镜** 从空间[[Governmentality|治理术]]视角审视，寄宿学校是学校空间封闭技术（Spatial Enclosure）的极端形态。它兼具[[Erving Goffman|欧文·戈夫曼]]（Erving Goffman）意义上的“全封闭机构”（[[Total Institution]]）特征：通过消除睡眠、游乐与劳作的物理分界，将所有生活环节置于单一行政权威的监视与规训之下。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
@@ -76,7 +77,7 @@ updated: 2026-10-16
 ## 概念演变与范式演进
 
 > [!dev-timeline] 寄宿教育的历史演进脉络
-> - **中世纪起源：修道院与贵族寄养训育** 男孩被送往修道院和贵族府邸接受宗教典籍与骑士礼仪训育，奠定了脱离家庭、置身全封闭修会场所进行精神与肉体[[Disciplina and Doctrina|规训]]的原型。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 19)]]
+> - **中世纪起源：修道院与贵族寄养训育** 男孩被送往修道院和贵族府邸接受宗教典籍与骑士礼仪训育，奠定了脱离家庭、置身全封闭修会场所进行精神与肉体规训的原型。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 19)]]
 > - **殖民帝国扩张：母国文化灌输与殖民官员子弟培养** 殖民时期，英国高级政务官员、军官与富商普遍将子女送回本土寄宿学校，以纯正的欧洲礼仪、古典学识和大英帝国习惯塑造未来殖民统治精英；学校秉持高度同质化的帝国文化优越感。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 19–20)]]
 > - **19–20 世纪原住民同化：美加寄宿学校的强制定居与文化灭绝** 在北美与澳洲边疆治理中，国家与教会联合设立强制性印第安寄宿学校（Indian Boarding Schools / Residential Schools），以暴力切断母语、禁绝部族服饰与习俗为手段，推行激进的定居化与文化同化政策。
 > - **后冷战至 20 世纪末发展中国家：国家定居化工程与游牧部族博弈** 印度等新兴民族国家在西部边疆设立公立寄宿学校，将其作为强制拉巴里（Rabari）等传统游牧民定居化（Sedentarization）的核心政策工具，引发学校同化规训与部族家庭避险策略的持久博弈。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]; Dyer (2001)
@@ -87,8 +88,8 @@ updated: 2026-10-16
 ## 核心理论维度与实践支柱
 
 > [!dimension] 寄宿学校的三重分析维度
-> - **1. 物理隔离与全天候空间[[Disciplina and Doctrina|规训]]维度（Spatial Enclosure & Total Discipline）**
->   学校通过围墙、门禁、统一制服与定时作息表，彻底垄断学生的日常时空。将课堂学习、课外体育、就餐寝居与宗教仪式统一编织在严密的时间序列中，实现对个体肉体与精神状态的深度[[Disciplina and Doctrina|规训]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+> - **1. 物理隔离与全天候空间规训维度（Spatial Enclosure & Total Discipline）**
+>   学校通过围墙、门禁、统一制服与定时作息表，彻底垄断学生的日常时空。将课堂学习、课外体育、就餐寝居与宗教仪式统一编织在严密的时间序列中，实现对个体肉体与精神状态的深度规训。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 > - **2. 国家[[Sedentarism|定居主义]]与文化同化维度（Sedentarism & Cultural Assimilation）**
 >   服务于现代领土国家的整合意志。国家借助集中寄宿手段，强力拆解流动的游牧生产方式与边缘部族文化，将主流语言、定居生活习惯与国家公民效忠灌输给下一代。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 > - **3. 阶层网络结识与精英资本转化维度（[[Social Capital Theory|social capital]] & Elite Reproduction）**
@@ -115,7 +116,7 @@ updated: 2026-10-16
 > 现代民族国家的合法性建立在清晰划界的领土与可统计的人口之上；任何拒绝定居在固定空间的游动群体，都被国家[[Governmentality|治理术]]视为对社会秩序的潜在威胁。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Dyer (2001)
-> **国家推行定居化的教育空间装置** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 366–367）援引卡罗琳·戴尔（Caroline Dyer, 2001）针对印度古吉拉特邦拉巴里（Rabari）游牧部族的实证考证指出，公立寄宿学校被国家明确用作推进定居化（Sedentarization）的核心工具。学校通过将游牧儿童全封闭固定在特定建筑与地理空间内，企图自幼消除部族的放牧习俗与流动性；正规寄宿学校不仅在空间上切断了儿童跟随父辈游牧学艺的物质条件，其课程体系更单向传播定居社会的文化价值观，构成国家空间[[Governmentality|治理术]]对流动人口的[[Disciplina and Doctrina|规训]]重塑。
+> **国家推行定居化的教育空间装置** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 366–367）援引卡罗琳·戴尔（Caroline Dyer, 2001）针对印度古吉拉特邦拉巴里（Rabari）游牧部族的实证考证指出，公立寄宿学校被国家明确用作推进定居化（Sedentarization）的核心工具。学校通过将游牧儿童全封闭固定在特定建筑与地理空间内，企图自幼消除部族的放牧习俗与流动性；正规寄宿学校不仅在空间上切断了儿童跟随父辈游牧学艺的物质条件，其课程体系更单向传播定居社会的文化价值观，构成国家空间[[Governmentality|治理术]]对流动人口的规训重塑。
 
 ---
 
@@ -162,12 +163,12 @@ updated: 2026-10-16
 > > [!axis] 争议二：多元文化表象 vs 单一主流文化同化本质
 > > 当代西方寄宿学校宣称吸纳全球多元学生，是否真正实现了[[Intercultural Education|跨文化教育]]？
 > > - **官方市场宣传** 强调校园国际生源高度多元化，致力于培育具有全球视野的国际公民。
-> > - **批判学者评估** [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 针锋相对地指出，尽管国际学生比例激增，寄宿学校的根本运作轴心仍然是用学校母国的规范、英语发音、社交礼仪与宗教传统去[[Disciplina and Doctrina|规训]]学生，多元文化不过是掩盖单一欧洲中心主义同化与商业创收的修辞包装。
+> > - **批判学者评估** [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 针锋相对地指出，尽管国际学生比例激增，寄宿学校的根本运作轴心仍然是用学校母国的规范、英语发音、社交礼仪与宗教传统去规训学生，多元文化不过是掩盖单一欧洲中心主义同化与商业创收的修辞包装。
 >
 > > [!axis] 争议三：财政预算安全 vs 对单一新兴生源国的脆弱依赖
 > > 澳、加等国私立寄宿学校将中国学生作为主要生源支柱，是否构成了长远办学隐患？
 > > - **学校财务管理者** 认为高额国际学费弥补了国内生源萎缩，有效支撑了优质师资与校舍设施的维护。
-> > - **教育社会学者** 警惕过度依赖单一国别生源将使学校极度易受国际地缘政治、汇率波动与跨境政策收紧的冲击，危及机构财务的可持续性。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 21)]]
+> > - **教育社会学者** 警惕过度依赖单一国别生源将使学校极度易受国际[[Geopolitics|地缘政治]]、汇率波动与跨境政策收紧的冲击，危及机构财务的可持续性。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 21)]]
 
 ---
 

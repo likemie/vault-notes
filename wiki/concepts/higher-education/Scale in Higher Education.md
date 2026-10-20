@@ -7,7 +7,7 @@ aliases:
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts:
   - "[[EU]]"
+  - "[[ASEAN]]"
   - "[[National Science Foundation]]"
   - "[[National Natural Science Foundation of China]]"
   - "[[Bologna Process]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scale in Higher Education
@@ -46,7 +47,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 在高等教育研究中，尺度（scale）是"一种被生产出来的社会度量，用于区分空间"（Marston & Smith, 2001, p. 615, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]]）。尺度不是自然给定的，而是通过社会关系和实践被建构的。高等教育的活跃尺度包括：世界尺度（含自然环境）、全球尺度（人类社会世界层面）、泛国家区域尺度（如[[EU|欧盟]]、东盟）、国家尺度（法律、政策、拨款）、次国家区域尺度（城市、省份）、地方尺度（院校、研究中心、院系）和个体尺度（学者、学生）([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 7–8]])。
+> 在高等教育研究中，尺度（scale）是"一种被生产出来的社会度量，用于区分空间"（Marston & Smith, 2001, p. 615, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]]）。尺度不是自然给定的，而是通过社会关系和实践被建构的。高等教育的活跃尺度包括：世界尺度（含自然环境）、全球尺度（人类社会世界层面）、泛国家区域尺度（如[[EU|欧盟]]、[[ASEAN|东盟]]）、国家尺度（法律、政策、拨款）、次国家区域尺度（城市、省份）、地方尺度（院校、研究中心、院系）和个体尺度（学者、学生）([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 7–8]])。
 
 > [!quote]
 > "Scale is a produced social metric used to differentiate space"（Marston & Smith, 2001, p. 615）
@@ -71,7 +72,7 @@ updated: 2026-10-16
 > - **高等教育的七层活跃尺度**
 >   1. **世界尺度（world scale）**— 含自然环境、气候、生态系统
 >   2. **全球尺度（global scale）**— 人类社会世界层面：全球科学、全球排名市场、跨境[[Student Mobility|学生流动]]
->   3. **泛国家区域尺度（pan-national regional scale）**— [[EU|欧盟]]（[[Bologna Process|EHEA]]）、东盟（ASEAN）等区域教育治理
+>   3. **泛国家区域尺度（pan-national regional scale）**— [[EU|欧盟]]（[[Bologna Process|EHEA]]）、[[ASEAN|东盟]]（ASEAN）等区域教育治理
 >   4. **国家尺度（national scale）**— 法律、国家政策、拨款机制、国家高教系统
 >   5. **次国家区域尺度（sub-national regional scale）**— 城市、省份的教育集群
 >   6. **地方尺度（local scale）**— 院校、研究中心、院系

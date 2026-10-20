@@ -11,7 +11,7 @@ aliases:
 summary: "社会认识论、认知伦理学与人机协同核心概念，指认知主体将外部行动者或技术系统的判断视为比自身判断更具权威性与可信度，单凭来源属性而放弃自主审思与反常证据权衡的认识论让渡状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
 related_theories: []
 related_methods:
-  - "[[Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Research Synthesis]]"
 related_instruments: []

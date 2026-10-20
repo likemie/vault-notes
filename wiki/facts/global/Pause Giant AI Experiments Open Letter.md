@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Competitiveness]]"
   - "[[AI Deterrence]]"
+  - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
@@ -103,7 +104,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 关键历史后果
 > - **公众安全意识剧烈觉醒** 将此前局限于小众理性主义社区的 AI 存在性风险与 [[Artificial General Intelligence|AGI]] 伦理大辩论彻底推向全球公共政治中心。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
-> - **大国地缘博弈现实检验** 揭示出全球技术竞赛中“囚徒困境”的严峻现实——在缺乏跨国实质互信与核查机制的前提下，单边政策叫停在现实地缘政治中完全无法操作。
+> - **大国地缘博弈现实检验** 揭示出全球技术竞赛中“囚徒困境”的严峻现实——在缺乏跨国实质互信与核查机制的前提下，单边政策叫停在现实[[Geopolitics|地缘政治]]中完全无法操作。
 > - **催生国家级硬性安全护栏** 促使政策制定者将监管重心从抽象的道德呼吁转向对电网、情报网络与防务系统的软硬件隔离。
 
 > [!stat-cards]- 核心历史数据

@@ -5,7 +5,6 @@ aliases:
   - 知识的规训与更新
   - disciplina
   - doctrina
-  - 规训
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Barometer of Achievement]]"
   - "[[Didaktik]]"
+  - "[[Bildung]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[New Public Management]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -51,16 +51,15 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Global Universities Rankings]]"
   - "[[Democratic Education]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Homework]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Panopticism]]"
 related_methods:
-  - "[[Comparative Policy Analysis]]"
   - "[[Effect Size]]"
+  - "[[Comparative Policy Analysis]]"
 related_persons:
+  - "[[Ewald Terhart]]"
   - "[[Martin Carnoy]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -135,7 +134,7 @@ updated: 2026-10-20
 > - **科研体制中的规训压力** 超国家机构与国家科研资助体系对学术研究施加规训压力（disciplining pressure），迫使具有探索性与批判性的[[Knowledge Production|知识生产]]（doctrina）屈从于[[Performance Indicators|绩效指标]]与[[Human Capital Theory|人力资本]]政策需求（disciplina）（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 96]]）。
 > - **跨国数字排位赛对主权国家学制的远处规训** 跨国标准化测评通过建构全球等价空间与发布绩效联赛榜，使教育质量被收窄为受测技能常模，迫使本土课程从开放探索转向应试对齐（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）。
 > - **[[Neo-Taylorism|新泰勒主义]]数字监控对教师主体性的剥夺** 管理软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计仪表盘将教学拆解为技术性动作，把教师贬抑为缺乏[[Scientific Literacy|科学素养]]的劳动力，通过外在清单实施全景式规训，消解了教师在真实课堂情境中的[[Reflexivity|反思性]][[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）。
-> - **双向可见性隐喻对全景微观规训的内化** 在《[[Visible Learning|可见的学习]]》等循证教学模型中，以“教师通过学生的眼睛看教学、学生成为自身的教师”为核心的视觉隐喻，被特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 434]]）基于福柯权力理论解构为一种新型的微观全景规训（disciplina）。这种双向可见性将传统外显的行政强制统治内化为去中心化的自我监控机制；教师看似扮演激活者，实则借由学生中心修辞掩盖了微观权力支配，同时抽空了具有批判反思性的知识更新与师生伦理交往（doctrina）。
+> - **双向可见性隐喻对全景微观规训的内化** 在《[[Visible Learning|可见的学习]]》等循证教学模型中，以“教师通过学生的眼睛看教学、学生成为自身的教师”为核心的视觉隐喻，被[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 434]]）基于福柯权力理论解构为一种新型的微观全景规训（disciplina）。这种双向可见性将传统外显的行政强制统治内化为去中心化的自我监控机制；教师看似扮演激活者，实则借由学生中心修辞掩盖了微观权力支配，同时抽空了具有批判反思性的知识更新与师生伦理交往（doctrina）。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -233,7 +232,7 @@ updated: 2026-10-20
 > 探讨可见学习的视觉修辞如何以学生自我反思为面具，建立起内化的全景监控网络，压制实质教化与知识批判。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> **双向可见性对行政强制的内化与微观规训建构** 埃瓦尔德·特哈特（Ewald Terhart）基于福柯权力理论指出，《可见的学习》将“互看、互见与互相被观察”确立为教与学模型的核心。这种双向可见性将传统公开外显的统治体制转变为内化、微妙且去中心化的全景监控规训（disciplina）。教师凭借“激活者”权威在暗中支配课堂，借由学生成为自身教师的修辞掩盖了微观支配关系；同时，该模式将所有教学维度均质化为[[Effect Size|效应量]]操作，彻底排除了[[Didaktik|欧陆教学论]]对学科实质内容正当性与[[Bildung|精神教化]]（doctrina）的审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–435)]]
+> **双向可见性对行政强制的内化与微观规训建构** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）基于福柯权力理论指出，《可见的学习》将“互看、互见与互相被观察”确立为教与学模型的核心。这种双向可见性将传统公开外显的统治体制转变为内化、微妙且去中心化的全景监控规训（disciplina）。教师凭借“激活者”权威在暗中支配课堂，借由学生成为自身教师的修辞掩盖了微观支配关系；同时，该模式将所有教学维度均质化为[[Effect Size|效应量]]操作，彻底排除了[[Didaktik|欧陆教学论]]对学科实质内容正当性与[[Bildung|精神教化]]（doctrina）的审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–435)]]
 
 ---
 
@@ -261,7 +260,7 @@ updated: 2026-10-20
 > - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
 > - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对[[OECD|经合组织]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 > - **2009 — [[Governing by Numbers|数字治理]]与跨国规训装置：Rizvi & Lingard 论 PISA 联赛排位的[[Governing at a Distance|远处治理]]** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）揭示 PISA 通过建构全球等价空间与发布绩效联赛榜，使“数字政策”成为超国家机构远处规训主权国家课程的主导工具，压制了本土教育共同体对教育目的的批判性审议（doctrina）。
-> - **2011 — 视觉隐喻与全景微观规训：Terhart 论双向可见性对自我监控的内化** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）基于福柯权力理论解构《[[Visible Learning|可见的学习]]》，指出“通过学生眼睛看教学”的双向可见性隐喻是现代全景规训（disciplina）的精致变体，将传统外在统治内化为微观自我监控，进一步挤压了实质教化与主体批判（doctrina）的生存空间。
+> - **2011 — 视觉隐喻与全景微观规训：Terhart 论双向可见性对自我监控的内化** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）基于福柯权力理论解构《[[Visible Learning|可见的学习]]》，指出“通过学生眼睛看教学”的双向可见性隐喻是现代全景规训（disciplina）的精致变体，将传统外在统治内化为微观自我监控，进一步挤压了实质教化与主体批判（doctrina）的生存空间。
 > - **2023 — [[Neo-Taylorism|新泰勒主义]]管理与清单规训：Johnson & Janzen 论技术清单对人文关系的瓦解** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）剖析[[Evidence-Based Education|循证教育]]如何通过开发监控软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、绘制气压计仪表盘以及推行强制教学清单，在微观课堂层面建立起新泰勒主义全景规训（disciplina），彻底剥夺了教师的[[Professional Judgment|专业判断]]与教育的人文关系属性（doctrina）。
 
 ---

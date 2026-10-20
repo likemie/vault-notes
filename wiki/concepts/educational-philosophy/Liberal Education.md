@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,7 +20,6 @@ tags:
   - country/uk
 related_concepts:
   - "[[Junzi]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Culture Générale]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Rote Learning]]"
   - "[[Mentorship]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Attitude]]"
   - "[[Faculty Psychology]]"
@@ -45,8 +45,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[National Character]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Matthew Arnold]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Liberal Education
@@ -80,7 +79,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **超功利智识透镜** 强调知识探究摆脱奴役性与实用性工具束缚，通过文雅心智的自由展开获得理智自治与审美充实。
-> - **品格与领导力透镜** 揭示英式自由教育绝非单纯书斋思辨，而是依托公学自治组织、体育竞技与寄宿[[Disciplina and Doctrina\|规训]]，将道德责任内化为阶层本能，为大英帝国政治与海外殖民治理输送领导人才。
+> - **品格与领导力透镜** 揭示英式自由教育绝非单纯书斋思辨，而是依托公学自治组织、体育竞技与寄宿规训，将道德责任内化为阶层本能，为大英帝国政治与海外殖民治理输送领导人才。
 > - **文化批评与防御透镜** 透视古典人文知识分子如何以自由教育作为精神武器，抗击工业资本主义带来的机械异化、庸俗市侩主义与社会无政府危机。
 > - **民主政体防御透镜** 透视 20 世纪比较教育第二论述代际（Kandel, Ulich, Hans）如何将博雅教育作为抵御法西斯暴政与极权主义意识形态、维系自由民主政体与培育全人公民资格的核心道德堡垒。
 
@@ -127,7 +126,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **知识即目的的超功利理念** 坚信探索人类最优秀的思想与言论（the best that has been thought and said）具有内在的终极价值，教育的成效不在于制造特定工具，而在于让心智摆脱偏见与蒙昧，获得完全的智识自由。
 > - **古典人文学科垄断地位** 将古希腊文、拉丁文、古典修辞与古代文明史置于中学课程无可争议的中心，坚信古典学蕴含着不朽的永恒真理（eternal verities）与完美的价值系统。
-> - **绅士品格与隐性全人[[Disciplina and Doctrina\|规训]]** 突破课堂边界，将公学宿舍生活、基督教信仰仪式、学生自治仲裁以及板球/橄榄球等团队竞技，作为锻造自制、担当、忠诚与公义品格的核心载体。
+> - **绅士品格与隐性全人规训** 突破课堂边界，将公学宿舍生活、基督教信仰仪式、学生自治仲裁以及板球/橄榄球等团队竞技，作为锻造自制、担当、忠诚与公义品格的核心载体。
 > - **帝国与国家公共服务导向** 将培养出来的文雅心智与崇高品格，直接引向大英帝国议会辩论、文官考试、司法判决与海外殖民治理等公共领导岗位。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
 > [!logic-map]- 英国自由教育的社会哲学与精英再生产结构
@@ -232,7 +231,7 @@ updated: 2026-10-16
 > > - **赫胥黎（Huxley）传统** 强调现代科学提供了理解实在世界最严密的实证与批判思维训练。
 
 > [!warning] 适用局限
-> 英国传统自由教育极度依赖长期的寄宿制全人[[Disciplina and Doctrina\|规训]]、极其昂贵的导师面对面传授与优渥的家庭闲暇资本；在大规模大众化高等教育与追求高[[Return on Investment\|投资回报]]率的现代教育体系中，这种小众古典精英模式在财政与制度上缺乏广泛的可复制性。
+> 英国传统自由教育极度依赖长期的寄宿制全人规训、极其昂贵的导师面对面传授与优渥的家庭闲暇资本；在大规模大众化高等教育与追求高[[Return on Investment\|投资回报]]率的现代教育体系中，这种小众古典精英模式在财政与制度上缺乏广泛的可复制性。
 
 ---
 
@@ -258,7 +257,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考证自由教育作为 19 世纪欧洲四大[[Paideia\|古典教化]]传统之一的终极目标，以及二战浩劫导致的道德破产与战后[[Scientific Paradigm\|科学范式]]转型。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 阐述阿诺德如何将古典教化作为抵御自由放任资本主义庸俗化的核心思想武器。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 阐发比较教育第二论述代际（历史-哲学与自由人文代际）的知识谱系，论证博雅教育作为抵御 20 世纪极权主义、维系民主政体与启蒙公民资格的人文主义核心（pp. 143–144）。

@@ -35,7 +35,6 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[General Purpose Technology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Gold Standard Science]]"
@@ -79,14 +78,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -322,7 +321,7 @@ journal: "中国科学院院刊"
 > [!chain-link] 技术型社会契约的确立逻辑及其内在脆弱性（pp. 1062–1063）
 > - **前提：大国地缘博弈焦虑与大模型技术军备竞赛** 国际地缘竞争加剧与新兴[[General Purpose Technology|通用技术]]爆发，使国家对即时战略技术能力的渴求达到冷战以来最高点。
 > - **机制：行政审计与直接采购置换大学基础探索中枢** 政府通过《恢复黄金标准的科学》行政令与企业采购合同，绕过传统同行评议和大学探索，直接动员国家实验室与私营科技资本攻坚。
-> - **结论：互惠信任契约向单向[[Disciplina and Doctrina|规训]]契约异化** 科学从受到默认尊重的自治知识体系，退化为服务于国家竞争目标的工具性生产部门；由于丧失了学术探索的自我纠错机制，该体制具有显著的长期内在脆弱性。
+> - **结论：互惠信任契约向单向规训契约异化** 科学从受到默认尊重的自治知识体系，退化为服务于国家竞争目标的工具性生产部门；由于丧失了学术探索的自我纠错机制，该体制具有显著的长期内在脆弱性。
 
 ---
 

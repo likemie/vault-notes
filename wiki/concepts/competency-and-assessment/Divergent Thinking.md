@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -65,7 +65,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
   - "[[Random-Effects Model]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Divergent Thinking
@@ -316,7 +315,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]检验[[Graphic Organizer\|图形组织器]]对发散思维的促进作用，证实空间可视化工具对发散性[[Higher-Order Thinking Skills\|高阶思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking\|聚合思维]]（$g = 0.680$）。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 在[[Meta-meta-analysis\|二阶元分析]]中将发散思维与综合创造过程分别建模比较，揭示发散思维作为关键认知构件与[[Creativity\|创造力]]指标存在稳定的正向关联（$r = 0.14$）。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]（29 项研究）显示发散思维增益在各[[Construct\|构念]]中最高（g = 0.671），言语训练与独立练习优势明显，2 个月内干预最佳。

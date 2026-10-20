@@ -15,7 +15,7 @@ summary: "在多组验证性因子分析（MG-CFA）中检验测量工具在不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Multivariate Analysis of Variance]]"
   - "[[Causal Modeling]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
   - "[[Scale Development]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Measurement Invariance
@@ -204,7 +203,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 跨性别多组 [[Confirmatory Factor Analysis\|CFA]] 显示形态、弱、强与严格等值均满足 |Δ[[Model Fit Indices in SEM and CFA|CFI]]| ≤ .010，男女教师[[Research Literacy\|研究素养]]均值可以无偏比较。
 
 ---

@@ -19,12 +19,12 @@ tags:
   - theme/deterrence
   - paradigm/realism
 related_concepts:
+  - "[[Geopolitics]]"
   - "[[Strategic Autonomy]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
   - "[[AI Deterrence]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Josep Borrell]]"
   - "[[Alexander Karp]]"
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示福利国家体制下安全防务投入长期不足导致的军队微缩化与防御能力虚置。
-> - **用途** 用于解释欧洲在面对地缘政治冲突时的被动局面、对美国军事后勤与情报资产的深度路径依附，以及重构[[Strategic Autonomy|战略自主]]时面临的工业产能瓶颈。
+> - **用途** 用于解释欧洲在面对[[Geopolitics|地缘政治]]冲突时的被动局面、对美国军事后勤与情报资产的深度路径依附，以及重构[[Strategic Autonomy|战略自主]]时面临的工业产能瓶颈。
 > - **边界** 盆景军队侧重于常规武装力量在规模与持续作战能力上的萎缩，不同于完全废除军队的绝对非军事化国家，其保留了完整的军种建制名目。
 
 > [!citation-card] 冷战后欧洲防务收缩与盆景军队困境

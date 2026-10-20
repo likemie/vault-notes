@@ -6,7 +6,7 @@ aliases:
 summary: "大学医学院及其合作教学医院组成的高教与医疗研究实体，以学术-临床二元结构为核心特征；在产学合作与临床试验中既是前沿转化研究与专有生物模型验证的不可替代基石，也因多重串行审查、高管理费率与漫长启动周期面临系统性效率挑战。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[National Institutes of Health]]"

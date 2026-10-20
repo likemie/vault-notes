@@ -8,7 +8,7 @@ aliases:
 summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论底座。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Central Phenomenon]]"
   - "[[Reflexivity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
@@ -47,8 +46,7 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
 related_theories:
   - "[[Knowledge Integration]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
 confidence: high
@@ -126,7 +124,7 @@ updated: 2026-10-20
 > 探讨[[Allgemeine Pädagogik|普通教育学]]如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **母体归属对学科独立性的庇护** 米特指出，德国及中东欧教育学科发展的一大核心特质，就是该学科从哲学与神学底色的普通教育学中衍生而来。这种源自普通教育学母体的血缘纽带，使得欧洲大陆的教育学者在面对政治动员、意识形态[[Disciplina and Doctrina|规训]]或外部经济功利指标冲击时，始终能够退守至对人的教化（[[Bildung]]）这一根本规范承诺之中，防止教育研究沦为纯粹服务于国家竞争的技术工程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **母体归属对学科独立性的庇护** 米特指出，德国及中东欧教育学科发展的一大核心特质，就是该学科从哲学与神学底色的普通教育学中衍生而来。这种源自普通教育学母体的血缘纽带，使得欧洲大陆的教育学者在面对政治动员、意识形态规训或外部经济功利指标冲击时，始终能够退守至对人的教化（[[Bildung]]）这一根本规范承诺之中，防止教育研究沦为纯粹服务于国家竞争的技术工程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 ---
 

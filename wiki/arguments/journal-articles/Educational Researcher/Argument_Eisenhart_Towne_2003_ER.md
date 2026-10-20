@@ -30,7 +30,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
   - "[[Empiricism]]"
@@ -84,7 +83,7 @@ title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -123,7 +122,7 @@ issuing_organization: ""
 > | **公共审议杠杆假说** | 解释学术共同体如何依托专业声誉、国会质证与公开咨询机制，将外部专业主张转化为立法修正与规程放宽的政策变迁力量。（pp. 32, 35–37） |
 
 > [!warrant]- 理论如何支撑论证
-> 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne）依托后实证主义[[Epistemology|认识论]]，拆解了将科学研究窄化为单一实验方法的方法学谬误；进而引入制度功能二元区隔，解释了面向不同行政目标的法律文本为何会呈现松紧不一的表述；最后借助公共审议的政策流变视角，阐明了学术共同体从被动受[[Disciplina and Doctrina|规训]]者转变为主动规则参与者的机制。（pp. 31–37）
+> 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne）依托后实证主义[[Epistemology|认识论]]，拆解了将科学研究窄化为单一实验方法的方法学谬误；进而引入制度功能二元区隔，解释了面向不同行政目标的法律文本为何会呈现松紧不一的表述；最后借助公共审议的政策流变视角，阐明了学术共同体从被动受规训者转变为主动规则参与者的机制。（pp. 31–37）
 
 ---
 

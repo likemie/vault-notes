@@ -6,7 +6,7 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
   - "[[Elite Interview]]"
 related_instruments: []
 related_persons:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Evidence Era
@@ -177,6 +176,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 系统提出证据时代假说，结合英格兰 1983–2019 年教师教育改革政策演变与 20 位[[Elite Interview\|精英访谈]]，揭示了证据作为[[Rationalized Myth\|合理化神话]]的运作机制。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,7 +28,6 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Bureaucracy]]"
   - "[[Socioeconomic Status]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
   - "[[Evidence-Based Education]]"
@@ -114,7 +112,7 @@ updated: 2026-10-20
 > - **全域数据吸纳与标准化采集（Input & Ingestion）** 依托互操作标准与统一接口，定期自基层学校与学区学生信息系统抽取学生学籍与教职员微观记录，学区在此扮演核心数据中介。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 4)]]
 > - **双轨质量核验与法定时间冻结（Validation & Warehousing）** 人机结合实施多重质检，运用自动化逻辑规则过滤异常值，并在法定截止节点强行闭锁数据库，确立作为公文权威依据的单一事实来源（Single Point of Truth）。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 7)]]
 > - **算法模型加工与二次[[Commensuration\|通约]]加权（Analysis & Modelling）** 业务处室协同外部统计专家，运用特定检索程序运行指标加权、早警预测建模、[[Socioeconomic Status|社会经济背景]]测算及统计同类校匹配。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–5)]]
-> - **分权定向呈报与界面化[[Disciplina and Doctrina\|规训]]（Reporting & Interface）** 形成差异化知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–6)]]
+> - **分权定向呈报与界面化规训（Reporting & Interface）** 形成差异化知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–6)]]
 
 > [!logic-map]- 要素关系与数据流转网络
 > ```mermaid
@@ -201,7 +199,7 @@ updated: 2026-10-20
 > [!debates] 学术争议
 >
 > > [!axis] 全景监控霸权还是松散修补的分布式实验
-> > 一派学者倾向于将数据基础设施视作国家与资本联合搭建的[[Disciplina and Doctrina\|规训]]机器；经验研究者则发现系统内部充斥着跨部门扯皮、代码接口断裂与即兴手工打补丁，展现出高度脆弱与实验性的特征。
+> > 一派学者倾向于将数据基础设施视作国家与资本联合搭建的规训机器；经验研究者则发现系统内部充斥着跨部门扯皮、代码接口断裂与即兴手工打补丁，展现出高度脆弱与实验性的特征。
 > >
 > > - **规训霸权论** 强调算法[[Commensuration\|通约]]对学校日常自主权的剥夺与量化监控的全景凝视。
 > > - **社会-技术实验论** 强调基础设施是由行动者在多重冲突诉求中即兴烹饪与调配出的脆弱妥协体。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 4)]]

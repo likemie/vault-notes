@@ -8,7 +8,7 @@ aliases:
 summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）提出的人机协同学习理论框架，通过修订蔡今中网络学习认识论假说，揭示生成式人工智能环境下学习者的认识立场、先验知识与知识辩护方式如何决定人机共享认识能动性的实现样态，并提出促进立场向评价论演进的教学支架与技术干预机制。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 38
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Chi-Squared Test]]"
   - "[[Chain-of-Thought Prompting]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Chin-Chung Tsai]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -159,6 +158,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 框架奠基专论，系统建构自适应[[Epistemic Stances\|认识立场]]与[[Man-Computer Symbiosis|人机共生]]学习理论，提出两大核心修订命题。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从关系性[[Epistemology\|认识论]]视角探讨人机相互依赖下的主体性自持，与本框架形成互补呼应。

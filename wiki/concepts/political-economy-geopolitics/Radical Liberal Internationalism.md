@@ -6,7 +6,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
+  - "[[Geopolitics]]"
   - "[[Hard Power]]"
   - "[[Interventionist Strategy]]"
   - "[[Discourse]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Radical Liberal Internationalism
@@ -50,7 +51,7 @@ updated: 2026-10-16
 
 > [!example]
 > - vs [[Sovereign Internationalism]] — 主权国际主义容忍文明差异和多元政治制度，以不干涉为核心原则；激进自由国际主义则以西方规范评估所有社会并否定非自由政权的合法性。Sakwa（2023）将二者的关系描述为：后者是前者在冷战后的替代形态([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
-> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治以[[Hard Power|硬实力]]和领土控制为中心；激进自由国际主义则以普世价值和意识形态扩张为中心。但二者共享"西方优越"的基本预设
+> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典[[Geopolitics|地缘政治]]以[[Hard Power|硬实力]]和领土控制为中心；激进自由国际主义则以普世价值和意识形态扩张为中心。但二者共享"西方优越"的基本预设
 
 ---
 

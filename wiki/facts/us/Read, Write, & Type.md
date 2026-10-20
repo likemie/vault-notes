@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Efficacy Trial]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -123,7 +122,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Read, Write, & Type 列为初等阅读 Tier 2 教师辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释技术工具如何在 Tier 2 小组干预中辅助教师突破认知卡点。
 > - [[Lightning Squad]] — 霍普金斯大学同源的[[Man-Computer Symbiosis|人机协同]]读写干预方案，与本方案共同代表了教育技术赋能干预的演进脉络。

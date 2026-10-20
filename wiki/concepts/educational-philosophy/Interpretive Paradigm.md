@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -70,7 +70,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
@@ -89,7 +88,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Interpretive Paradigm
@@ -250,5 +249,5 @@ updated: 2026-10-17
 > | [[Emic and Etic]] | 概念 | 确立主位进路（Emic）作为捕捉内部行动者真实视角的关键方法论准则。 |
 > | [[Indexicality]] | 概念 | 揭示社会[[Discourse\|话语]]与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 对照诠释与[[Normative Paradigm|规范范式]]，介绍 Burrell and Morgan 框架与草莓事件（Box 1.5）；自然主义探究的 11 项公理与 emic/etic 区分见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Ch. 11]]。

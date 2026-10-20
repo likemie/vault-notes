@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Competitiveness]]"
+  - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Cluster Analysis]]"
@@ -76,7 +77,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Output-Oriented Governance
@@ -311,11 +312,11 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 针对奥地利中小学校长开展聚类分析与实证调查，揭示产出导向治理下校长在循证型、资源型与弱发展型之间的经验分化，以及对微观听课与授课工时的重组效应。
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 针对奥地利中小学校长开展[[Cluster Analysis|聚类分析]]与实证调查，揭示产出导向治理下校长在循证型、资源型与弱发展型之间的经验分化，以及对微观听课与授课工时的重组效应。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 综合德语区外部督导与全域学业统考的监测文献，指出产出导向数据回传在单体学校层面的成效缺失与理论-实践张力，主张强化中层研训机构的转译支持。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025)]] — 将产出导向治理拓展至国家战略与技术采办领域，批判官僚体制内以形式合规替代实质战略产出的程序虔敬，提倡以物理世界交付战功为最高裁判尺度。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025)]] — 将产出导向治理拓展至国家战略与技术采办领域，批判官僚体制内以形式合规替代实质战略产出的[[Procedural Piety|程序虔敬]]，提倡以物理世界交付战功为最高裁判尺度。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 从公共管理与控制论视角阐明事后产出调控原理，剖析政府如何通过统包预算与产出考核赋予公共机构自适应运行空间。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 揭示新工党政府以实用主义和“何者有效”为导向推行循证治理，通过引进海外量化评估技术打破传统科层流程规制，将政策合法性锚定于可测量的实质政策产出。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 揭示新工党政府以[[Pragmatic Paradigm|实用主义]]和“何者有效”为导向推行循证治理，通过引进海外量化评估技术打破传统科层流程规制，将政策合法性锚定于可测量的实质政策产出。
 
 ---
 

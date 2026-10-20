@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Reliability]]"
   - "[[Heterogeneity]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -37,7 +36,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
   - "[[Network Analysis]]"
   - "[[Cohort Study]]"
   - "[[Meta-analysis]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Research Knowledge Mobilisation Model
@@ -98,7 +96,7 @@ updated: 2026-10-16
 > - **前提一（拒绝机械实体论）** 传统观念将研究者与实践者固定于割裂的物理组织，预设单向传递逻辑（Levin, 2004）。
 > - **前提二（功能大于组织）** 真实教育世界中，中介与使用情境在规模与参与主体上远大于狭义的大学学术生产情境；同一行动者（如大学教师参与校本教研、中小学名师主持实证课题）兼具多重身份。
 > - **前提三（[[Research Utilization\|研究利用]]的五阶段递进阶梯）** Levin (2011) 强调，研究利用并非二元分立的“利用/搁置”，而是呈现为由浅入深的五阶段度量阶梯：
->   1. **获取（Access）** 潜在使用者接触、检索或拥有[[Correlational Research\|相关研究]]证据；
+>   1. **获取（Access）** 潜在使用者接触、检索或拥有相关研究证据；
 >   2. **知识与理解（Knowledge and Understanding）** 使用者阅读并准确把握证据实质与因果逻辑；
 >   3. **态度与信念（Attitudes and Beliefs）** 使用者对研究结论的可[[Reliability\|信度]]与实践价值产生正面认同；
 >   4. **行为改变（Behaviour）** 在具体教学策略、学校治理或政策制定中实质性改变既有实践；
@@ -107,7 +105,7 @@ updated: 2026-10-16
 
 > [!proposition-chain] 核心命题二｜关系的强度与频次决定证据流动的深浅且深嵌于宏观制度环境
 > - **前提一（联结强度的[[Heterogeneity\|异质性]]）** 各情境之间的联结并非均质通道，而是依赖个人社会资本、组织正式协议与沟通密度。
-> - **前提二（宏观制度[[Disciplina and Doctrina\|规训]]）** 整个教育研究系统并非悬浮于真空，而是被制度架构、法律约束、治理体制与社会大环境深度规训（Levin, 2013）。
+> - **前提二（宏观制度规训）** 整个教育研究系统并非悬浮于真空，而是被制度架构、法律约束、治理体制与社会大环境深度规训（Levin, 2013）。
 > - **推导** ① 模型以不同粗细的双向箭头表征关系强度；② 缺乏制度支持与信任的双向渠道极为脆弱（细箭头）；③ 唯有通过宏观政策倡导与中介机制维系高频互动（粗箭头），研究证据才能持续渗透进政策与教学决断。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 40–41)]]
 
 > [!proposition-chain] 核心命题三｜促成机制与阻碍障壁的相对比例构成全系统知识动员运作优先级的敏感诊断器
@@ -182,7 +180,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，征引 Levin 理论将动员机制与障壁比率[[Operationalization\|操作化]]为评估系统优先级的实证诊断工具，并基于跨国数据深化五阶段利用阶梯的评估分析。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在全系统[[Knowledge Mobilisation\|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。

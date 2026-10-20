@@ -6,10 +6,10 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - "theme/epistemological-beliefs"
   - "level/dimension"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 related_persons: []
@@ -63,7 +62,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Source of Knowledge
@@ -201,6 +200,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述 Perry、Belenky、Baxter Magolda 和 King & Kitchener 等发展学派，提炼并确立了“知识来源”作为[[Epistemological Theories\|认识论理论]]四大核心维度之一的基础地位。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]干预因果[[Meta-analysis\|元分析]]，证实显性讲授[[Source Evaluation\|信源评估]]规则是促进[[Academic Achievement\|学业成就]]成效最突出的教学[[Paradigm\|范式]]之一（$d = 0.800$），为将知识来源信念转化为课堂教学规程提供了强有力的因果实证支持。

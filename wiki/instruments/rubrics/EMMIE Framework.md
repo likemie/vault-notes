@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # EMMIE Framework
@@ -129,7 +129,7 @@ updated: 2026-10-16
 >
 > | 评级 | 等级名称 | 表现描述符与证据判定标准 | 对应因果设计要求 |
 > |---|---|---|---|
-> | **0 级** | 无有效证据 | 研究设计存在严重混杂，无法支持[[Causality\|因果推断]]，或未报告可核实的效果数据 | 缺乏对照组的单组前[[Pre-test and Post-test\|后测]]或横截面[[Correlational Research\|相关研究]]（SMS 1） |
+> | **0 级** | 无有效证据 | 研究设计存在严重混杂，无法支持[[Causality\|因果推断]]，或未报告可核实的效果数据 | 缺乏对照组的单组前[[Pre-test and Post-test\|后测]]或横截面[[Correlational Research\|相关性研究]]（SMS 1） |
 > | **1 级** | 统计不确定 | 具有对照组但缺乏基线匹配，混杂偏倚极高，统计推断不可靠 | 弱非对等对照组设计，未做[[Covariate Adjustment\|协变量调整]]（SMS 2） |
 > | **2 级** | 中等因果证据 | 采用基线均衡匹配或统计调整的[[Quasi-Experimental Designs\|准实验设计]]，具有一定的因果可[[Reliability\|信度]] | 良好匹配的准[[Experimental Research\|实验研究]]（SMS 3） |
 > | **3 级** | 高度严密证据 | 采用严密的[[Regression Discontinuity Design\|断点回归]]、工具[[Variable\|变量]]法或中等规模随机试验，基线可比且流失控制良好 | 严格准实验或低偏倚风险[[Randomised Controlled Trials\|随机对照试验]]（SMS 4） |

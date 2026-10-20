@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家科研资助机制实验与评估机构（Governmental Metascience Research & Evaluation Unit）"
 headquarters: "英国伦敦（London, UK）"
@@ -36,7 +36,6 @@ related_methods:
   - "[[Mechanism Experiments]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"

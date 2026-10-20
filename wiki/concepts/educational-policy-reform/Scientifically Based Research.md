@@ -9,10 +9,10 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept
   - policy/us-federal
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
@@ -89,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scientifically Based Research
@@ -103,7 +102,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家通过法定立法手段将以实验[[Causality\|因果推断]]为核心的[[Positivism\|实证主义]]科学规范转化为教育行政准入与财政资助的规制门槛。
-> - **用途** 帮助研究者透视国家如何运用财政杠杆[[Disciplina and Doctrina\|规训]]教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策异化。
+> - **用途** 帮助研究者透视国家如何运用财政杠杆规训教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策异化。
 > - **边界** 它不等于特定干预方案本身经过了严格实证检验，亦不等于后续兼具包容性与可操作性的 [[Every Student Succeeds Act\|ESSA]] 四级[[Operationalization\|操作化]]证据分级。
 
 > [!citation-card] 联邦法典关于科学本位研究的法定界定
@@ -261,7 +260,7 @@ updated: 2026-10-16
 
 > [!debates] 学术争议与批判反思
 >
-> > [!axis] 方法学因果实证辩护与知识生态行政[[Disciplina and Doctrina|规训]]
+> > [!axis] 方法学因果实证辩护与知识生态行政规训
 > > 争论国家是否有权通过行政立法强制确立单一实证方法学规范。
 > >
 > > - **严谨实证因果辩护（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 从政治与学科合法性角度有力辩护指出，长期以来教育研究充斥着未经检验的教学时尚与主观意识形态钟摆，缺乏公信力；正是因为缺乏无可挑剔的实验因果证据，教育才迟迟未能步入类似现代医学与农业的累积性进步轨道，设立高门槛 SBR 标准旨在集中公共资源修复教育研究的糟糕声誉。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 18–19)]]

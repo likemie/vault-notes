@@ -10,7 +10,7 @@ aliases:
 summary: "科技政策与公共治理中对研发中心或资助项目预先设定的法定存续时限机制；要求受资助机构在限定培育期内证明学术与产业价值并建立多元造血能力，以遏制机构惰性与无限扩张，实现公共研发资金的动态代谢。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Erich Bloch]]"

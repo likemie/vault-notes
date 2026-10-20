@@ -10,7 +10,7 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Cochran's Q Test]]"
   - "[[I-squared Statistic]]"
   - "[[Robust Variance Estimation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Christof Wecker]]"

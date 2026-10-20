@@ -5,7 +5,7 @@ aliases:
 summary: "中枢神经系统中新突触形成和扩增的过程，用于解释大脑如何在发展和经验作用下建立新的神经连接。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Synaptic Pruning]]"
+  - "[[Neuroplasticity]]"
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-08-27'
+updated: 2026-10-20
 ---
 
 ## 定义
@@ -40,7 +41,7 @@ updated: '2026-08-27'
 > [!abstract] 核心特征
 > - 涉及中枢神经系统中神经元和连接的**过度生产([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])**
 > - 这些连接随后通过[[Synaptic Pruning\|突触修剪]]过程被磨炼和精炼([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])
-> - 突触发生与突触修剪一起统称为**突触可塑性（Synaptic Plasticity）**，是脑可塑性的两个主要过程
+> - 突触发生与突触修剪一起统称为 **[[Neuroplasticity|突触可塑性]]（Synaptic Plasticity）**，是脑可塑性的两个主要过程
 
 ## 发展时间线
 
@@ -51,7 +52,7 @@ updated: '2026-08-27'
 
 ## 与脑可塑性的关系
 
-> [!info] 与脑可塑性的关系
+> [!info] 与[[Neuroplasticity|脑可塑性]]的关系
 > 突触发生是脑可塑性的两个主要细胞层面过程之一。脑可塑性涉及三种类型([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])：
 >
 > - **经验独立可塑性（Experience-independent plasticity）** — 由遗传决定，发生在产前发育阶段

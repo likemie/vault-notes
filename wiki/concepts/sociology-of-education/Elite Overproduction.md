@@ -8,7 +8,7 @@ aliases:
 summary: "由彼得·图尔钦（Peter Turchin, 2023）提出并在历史动态学与政治社会学中系统阐述的核心构念，描述高等教育扩张与择优选拔机制导致受过高等教育、具备精英抱负与特权期望的人口供给远超社会现有精英职位容量的结构性失衡状态；在卡普与扎米斯卡（2025）对硅谷技术演进的批判中，精英生产过剩导致拥有贵族式文凭资质却缺乏相应财富基础的新一代高学历工程师，将才智转向开发打车、外卖与社交等生活方式科技，试图在数字空间为自身及同温层模拟贵族阶层的便利生活与虚幻优越感。"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Consumer Internet]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Peter Turchin]]"

@@ -9,7 +9,7 @@ subtype: organization
 region: sweden
 fact_region: "sweden"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Swedish Institute for Educational Research
@@ -49,7 +48,7 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!abstract]
-> 该机构开展教育研究[[Systematic Review\|系统综述]]，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要[[Correlational Research\|相关研究]]的领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
+> 该机构开展教育研究[[Systematic Review\|系统综述]]，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要相关研究的领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 

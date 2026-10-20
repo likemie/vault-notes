@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Procedural Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[Test Production]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Ontology]]"
@@ -117,7 +118,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Rizvi_Lingard_2009_OECDEducationPolicy
 
@@ -375,7 +376,7 @@ updated: 2026-10-17
 
 > [!feature] PISA测评工具的设计机制与方法论特征
 > - **三年一周期的15岁义务教育终期监测** 针对即将完成义务教育的15岁学童，每三年施测一次，主要考查阅读、数学、科学（2003年首次增加问题解决能力），评估其应用知识应对现实挑战的实际技能。（p. 447）
-> - **独立于国家课程的独立试题研发** 测试内容完全不以任何参与国的具体教学大纲或课程标准为依据，而是委托跨国商业与专业学术机构组成的专家财团直接针对现实情境进行专门开发。（p. 448）
+> - **独立于国家课程的独立[[Test Production|试题研发]]** 测试内容完全不以任何参与国的具体教学大纲或课程标准为依据，而是委托跨国商业与专业学术机构组成的专家财团直接针对现实情境进行专门开发。（p. 448）
 > - **跨文化无偏见与翻译标准化的技术追求** 投入大量成本进行文化公平性测试与严格的双向翻译，以确保测试跨越不同语言与国别的绝对统计可比性。
 > - **自行生产数据以构筑等值空间（[[Space of Equivalence]]）** 引入法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）的概念，PISA并不是被动收集各国的既有成绩，而是凭空打造了一个标准化的度量尺度，强行建立起可[[Commensuration|通约]]的比较空间。
 

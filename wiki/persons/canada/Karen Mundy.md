@@ -25,8 +25,8 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Research Topic]]"
   - "[[Lifelong Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Shadow State]]"
+  - "[[Geopolitics]]"
   - "[[Educational Meliorism]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Karen Mundy
@@ -88,7 +88,7 @@ updated: 2026-10-15
 > [!thought-timeline] 思想发展
 > - **1990s — 战后[[Educational Multilateralism|教育多边主义]]演化与机构霸权转移** 结合国际政治经济学体制理论，考察战后跨国教育合作形态的意识形态更替。
 >   - **代表著作** "Educational Multilateralism and World (Dis)order" (1998); "Educational Multilateralism in a Changing World Order: [[UNESCO]] and the limits of the possible" (1999)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
->   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]、有限再分配模式、防御性与[[Disciplina and Doctrina|规训]]性合作。
+>   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]、有限再分配模式、防御性与规训性合作。
 >   - **阶段转向** 揭示出从战后教科文组织的福利人权取向，到[[World Bank|世界银行]]结构调整主导的规训取向的质的倒退。
 > - **2000s–至今 — 跨国公民社会网络与[[Global Partnership for Education|全球教育伙伴关系]]** 考察国际非政府组织与跨国倡导网络如何参与全球教育议程设置。
 >   - **代表著作** "Transnational advocacy networks and the world NGO movement" (2001, with L. Murphy); *Educating All Children: A Global Objective* (2008)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111, 118)]]
@@ -100,7 +100,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> [[International Education|国际教育]]多边机制并非超然于地缘政治的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在新自由主义和债务危机冲击下被[[World Bank|世界银行]]的[[Disciplina and Doctrina|规训]]性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> [[International Education|国际教育]]多边机制并非超然于[[Geopolitics|地缘政治]]的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在新自由主义和债务危机冲击下被[[World Bank|世界银行]]的规训性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 
 > [!citation-card] 曼迪论多边主义意识形态的三阶段演化
 > 多边主义在教育领域的意识形态经历了三大发展阶段：1945 至 1965 年以有限再分配价值为核心；1960 年代末至 1970 年代末进入由南部发展中国家强烈诉求社会福利国家发展模式的抗争期；1980 年代后则演进为新自由主义防卫性与规训性教育合作模式，导致原有再分配承诺的全面侵蚀。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]

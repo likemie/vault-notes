@@ -9,7 +9,7 @@ summary: "问卷中用于捕捉回应程度和敏感性的测量工具，通过�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,14 +31,13 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Structured Observation]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Rating Scale
 
@@ -184,5 +183,5 @@ Simpson and Tuson（2003, pp. 42–44）对观察评定量表提出三项建议�
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch. 20)]] — 讨论评定量表的类型、格式与十七项使用警示；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Ch. 23]] 将其列为[[Structured Observation\|结构化观察]]的记录方式之一。

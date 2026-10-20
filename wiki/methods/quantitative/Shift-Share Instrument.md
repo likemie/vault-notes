@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,7 +29,6 @@ related_theories: []
 related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Ordinary Least Squares]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Advanced Technological Education]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Shift-Share Instrument
@@ -116,5 +115,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] — 使用 1970 年已在活动的斯塔西"老线人"的初始行业分布和相对生产率构造 shift-share 工具[[Variable\|变量]]，处理工业间谍情报分配的内生性问题。

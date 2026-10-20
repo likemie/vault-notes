@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 52
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -69,7 +69,6 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Multimethod Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Campbellian Validity Framework
@@ -266,6 +265,6 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse\|WWC]] 组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）的[[Internal Validity\|内部效度]]门控逻辑与[[External Validity\|外部效度]]信息捕获机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。

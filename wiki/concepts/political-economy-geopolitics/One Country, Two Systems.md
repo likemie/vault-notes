@@ -7,7 +7,7 @@ aliases:
 summary: "中国对香港和澳门特别行政区的宪制框架，在主张中央不可争议主权的同时承诺高度自治，国安法后官方解释向一国是前提两制从属的方向转变"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,8 +20,7 @@ tags:
 related_concepts:
   - "[[Schmittian Sovereignty]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-28
+updated: 2026-10-20
 ---
 
 # One Country, Two Systems
@@ -157,6 +156,6 @@ updated: 2026-09-28
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 详细分析了一国两制解释在2020年后通识科与[[Citizenship and Social Development\|公社科]]教科书中的系统重构过程。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 运用中心-边缘治理模式，系统梳理了一国两制下香港中国历史课程自主权在实质与形式自治间的缩水史。

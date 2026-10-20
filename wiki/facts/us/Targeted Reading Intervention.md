@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Decodification]]"
   - "[[Individualised Instruction]]"
+  - "[[Professional Capital]]"
   - "[[External Validity]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
@@ -35,7 +36,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心实证结论
 > - **超大因果学业[[Effect Size\|效应量]]** 在两项独立大样本[[Randomised Controlled Trials\|随机对照试验]]中，接受 TRI 辅导的学生在 Woodcock-Johnson 词汇识别、假词攻克与全篇阅读理解测验上取得了平均 $+0.52$ 的极高因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
-> - **独特的“教师专业资本永久增值”溢出效应** [[Cohort Study\|追踪研究]]揭示，接受过 TRI 远程督导的教师在后续年份中，即使不再接受远程辅导，其执教的后续各届班级学生的整体阅读成绩依然显著优于普通教师，实现了“助生”与“育师”的双重成效。
+> - **独特的“[[Professional Capital|教师专业资本]]永久增值”溢出效应** [[Cohort Study\|追踪研究]]揭示，接受过 TRI 远程督导的教师在后续年份中，即使不再接受远程辅导，其执教的后续各届班级学生的整体阅读成绩依然显著优于普通教师，实现了“助生”与“育师”的双重成效。
 > - **彻底攻克地理隔离成本瓶颈** 相比传统项目必须支付高昂差旅费派专家下乡的做法，网络远程教练将单校教研支持成本降低了 70% 以上，展现出极强的政策[[External Validity\|可推广性]]。
 
 > [!stat-cards]- 关键实证数据
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TRI 评定为初等阅读 Tier 3 专业教师一对一辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托 TRI 架构在普通班级内部以极低时间成本构建动态轮换个别救济防线。
 > - [[Reading Recovery]] — 传统专业教师 1:1 辅导代表方案，与 TRI 在实施场景（脱产独立辅导室 vs 班内角落）、技术媒介（纯面授 vs 远程摄像头教练）上形成鲜明对比。

@@ -11,7 +11,7 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Triangulation]]"
   - "[[Blinding]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -63,7 +62,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Artefact
@@ -186,7 +185,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]] — 阐述[[Discourse Analysis\|话语分析]]把人工制品视为文本实践；器物作为[[Visual Data\|视觉数据]]见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Ch. 27]]，方法伪效应与[[Triangulation\|三角验证]]见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Ch. 10]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 32]] — 批驳实证派将早期比较教育先驱贬为“幼稚前科学与粗劣器物借用期”的[[Whiggism\|辉格史学]]偏见。
 > - [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 161]] — 运用[[Boundary Object\|边界对象]]理论将 ChatGPT 界定为连接学术规范与个性化表达的数字人工制品。

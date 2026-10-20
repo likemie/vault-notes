@@ -8,7 +8,7 @@ aliases:
 summary: "以知识和信息为基础优化生产要素组合与使用的发展模式（Castells, 1996）。在宏观政治经济学中与依赖物质投入的工业化形成鲜明对照，要求信息自由流动与水平网络协同；在教育治理中表现为国家将数字基础设施、数据测评与教学服务向科技企业与商业中介外包，重塑公共教育的物质与权力基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,8 +35,7 @@ related_concepts:
 related_theories:
   - "[[Informationalism]]"
   - "[[Network Society]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Manuel Castells]]"
   - "[[John O'Neill]]"

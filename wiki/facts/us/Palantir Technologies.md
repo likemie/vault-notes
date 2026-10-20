@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 56
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Five Whys]]"
-  - "[[Correlational Research]]"
   - "[[Audit Trail]]"
   - "[[Role-playing]]"
 related_instruments: []

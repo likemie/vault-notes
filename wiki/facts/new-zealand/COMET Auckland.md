@@ -11,7 +11,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Boundary Spanner]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[STEM Education]]"
   - "[[Paradigm]]"
@@ -89,7 +90,7 @@ updated: 2026-10-20
 > [!pathways]- 战略运作路径与业务机制
 > - **资金协同与带动功能** 机构坚守不追求长期资本积累的财务方针，将市议会提供的基础拨款作为信托运转的种子支点，向下游向中央部委和外部基金会争取配套合同，形成资金放大机制。
 > - **跨界合作网络构建** 针对南区教育现实困境设计先导示范项目（如青年过渡誓约与创客联盟），待模式成熟后推动由政府正式部门或行业组织全面承接。
-> - **循证决策与政策倡导** 定期采集并发布奥克兰各学区生源流失、读写素养与青年就业的客观统计分析报告，作为地方向中央政府争取教育资源的[[Discourse|话语]]工具。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 98–104)]]
+> - **[[Evidence-Based Policy-Making|循证决策]]与政策倡导** 定期采集并发布奥克兰各学区生源流失、读写素养与青年就业的客观统计分析报告，作为地方向中央政府争取教育资源的[[Discourse|话语]]工具。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 98–104)]]
 
 ---
 
@@ -113,7 +114,7 @@ updated: 2026-10-20
 > *(数据来源：O'Neill et al., 2016, p. 102, Table 14)*
 
 > [!citation-card] COMET Auckland 作为跨界协调与倡导枢纽的组织使命
-> 奥克兰社区教育信托的存在是为了创造人们相互连接的空间，以推动奥克兰的教育与技能进步。我们通过倾听、分享经验、协调合作以及分析构成循证决策过程的数据来实现这一目标。作为一项历史遗产，奥克兰社区教育信托还在市议会、教育部门以及奥克兰众多不同的教育、技能与培训提供者之间，扮演着不可或缺的中介者、倡导者与连接者角色。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
+> 奥克兰社区教育信托的存在是为了创造人们相互连接的空间，以推动奥克兰的教育与技能进步。我们通过倾听、分享经验、协调合作以及分析构成[[Evidence-Based Policy-Making|循证决策]]过程的数据来实现这一目标。作为一项历史遗产，奥克兰社区教育信托还在市议会、教育部门以及奥克兰众多不同的教育、技能与培训提供者之间，扮演着不可或缺的中介者、倡导者与连接者角色。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
 >
 > *COMET Auckland is here to create spaces for people to connect in order to advance education and skills for Auckland. We do this by listening, sharing learning, coordinating, collaborating and analysing data that forms an evidence-based decision making process. As a legacy, COMET Auckland also plays an important role as intermediary, advocate, and connector between the Council, the education sector, and the many different education, skills and training providers in Auckland.*
 

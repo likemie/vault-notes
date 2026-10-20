@@ -6,7 +6,7 @@ aliases:
 summary: "Gerald F. Davis（2009）与 Erica Fuchs（2010）提出的组织社会学与科技政策概念，指社会与组织网络的拓扑结构并非固化给定的外部约束，而是能够被具备资源与权威的能动行动者策略性修剪、重织与主动重构的动态属性。在前沿创新治理中，公共代理人依托网络可塑性打破学科与产业壁垒，引导国家战略技术轨道。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,7 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Bounded Rationality]]"
   - "[[Technological Trajectories]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Erica Fuchs]]"

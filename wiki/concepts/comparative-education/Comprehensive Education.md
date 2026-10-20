@@ -10,7 +10,7 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Variable]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[José Luis García Garrido]]"
 related_facts:

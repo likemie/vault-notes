@@ -13,7 +13,7 @@ aliases:
 summary: "人机交互、认知心理学与人工智能伦理核心构念，指人类操作者过度依赖自动化或人工智能决策支持系统的提示（或沉默），甚至在面对相左证据时仍放弃自主判断或忽视矛盾线索的系统性决策偏差。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,7 +44,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []

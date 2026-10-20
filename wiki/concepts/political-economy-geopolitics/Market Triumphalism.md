@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学家迈克尔·桑德尔提出的批判性概念；指冷战后新自由主义将道德与精神信念逐出公共广场后，由不受约束的市场逻辑全面填补公共价值真空的思潮，导致社会以商业估值替代关于何种企业与事业应当存在的实质性公共善探讨。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,7 @@ related_concepts:
   - "[[Consumer Internet]]"
 related_theories:
   - "[[Pluralism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Sandel]]"

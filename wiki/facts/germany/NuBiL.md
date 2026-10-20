@@ -12,7 +12,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Transfer Science]]"
   - "[[Homework]]"
   - "[[Normal School]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods:
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # NuBiL
@@ -100,7 +99,7 @@ updated: 2026-10-15
 > - **中介平台必须从“结论推送”转向“诊断性问题切口”**
 >   NuBiL 的调查结论对德国慕尼黑工大教学清算中心（[[Clearing House Unterricht|CHU]]）和各州立研训机构联合设立的[[Forschungsmonitor Schule|学校研究监测平台]]（[[Forschungsmonitor Schule|FMS]]）产生了重要纠偏效应：中介平台不能仅按学术学科目录被动陈列论文摘要，而必须以一线教师在真实课堂中频繁遭遇的核心实践痛点（如“课堂干扰行为如何干预”、“如何设计差异化[[Homework|作业]]”）作为首要检索入口与架构骨架。
 > - **赋能教师作为“[[Reflexivity|反思性]]实践者”而非“技术操作工”**
->   研究结论强调，职前[[Normal School|师范教育]]与在职研修必须打破将学术知识等同于硬性教条的[[Disciplina and Doctrina|规训]]思维，引导教师理解科研结论的适用边界与情境特异性，培养教师在多元知识秩序间审慎权衡的[[Professional Judgment|专业判断力]]（Otto et al., 2019; Franzmann & Berkemeyer, 2019）。
+>   研究结论强调，职前[[Normal School|师范教育]]与在职研修必须打破将学术知识等同于硬性教条的规训思维，引导教师理解科研结论的适用边界与情境特异性，培养教师在多元知识秩序间审慎权衡的[[Professional Judgment|专业判断力]]（Otto et al., 2019; Franzmann & Berkemeyer, 2019）。
 
 ---
 

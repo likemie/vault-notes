@@ -3,9 +3,9 @@ summary: "实践认识论分析（Practical Epistemological Analysis, PEA）由�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 29
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 title: "Practical Epistemology Analysis"
 aliases:
@@ -47,7 +47,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Triangulation]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Practical Epistemology Analysis
 
@@ -180,6 +179,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 综述并运用 PEA 框架分析中小学物理、工程与科学课堂中的[[Epistemic Practices\|认识论实践]]与意义建构。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 借鉴[[Practical Epistemology\|实践认识论]]视角分析学生在计算机探究环境中的[[Scientific Explanation\|科学解释]]与证据运用。

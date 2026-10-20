@@ -9,7 +9,7 @@ aliases:
 summary: "由教育干预方案的开发者或研究者自行编制且未经独立标准化的结局测验工具；因其题目往往过度对齐干预课程内容而导致学业效应量被人为虚夸 50% 至 100%，在现代循证审查标准（如 WWC 与 Evidence for ESSA）中被强制排除作为确证性因果证据。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Developer-Made Measures
@@ -184,7 +183,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖论著，深刻剖析开发者自编测验导致[[Effect Size\|效应量]]虚高与[[Replication in Education Research\|复现危机]]的内在机制，阐述 [[Evidence for ESSA]]、[[What Works Clearinghouse\|WWC]] 及 [[Education Endowment Foundation\|EEF]] 强制排除自编测验的政策质控意义。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]干预[[Meta-analysis\|元分析]]，检验测量工具类型的[[Interaction Effect\|调节效应]]（研究者自编测验 $d = 0.651$ vs 教师常规测验 $d = 0.012, Q_b = 6.446$），从深层[[Construct\|构念]]敏感度与常规测验钝化角度提供了超越纯偏倚论的解释视角。
 > - [[Evidence Standards]] — 法定因果证据分级标准主条目，阐述结局测量独立性在判定 [[Every Student Succeeds Act\|ESSA]] 强/中证据中的红线地位。

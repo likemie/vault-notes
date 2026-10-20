@@ -8,7 +8,7 @@ aliases:
 summary: "规制治理与公共行政学中用以解释规则与审查细则单向累加、只增不减的制度病理；指在危机、丑闻或市场失灵驱动下，监管系统持续叠加新标准与合规程序而罕有清理旧规则，导致制度体系如同机械棘轮般单向加码，最终引发合规负担过重与规制不合理性困境。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_theories:
 related_methods:
   - "[[External Auditor]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jeroen van der Heijden]]"

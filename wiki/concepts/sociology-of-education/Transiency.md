@@ -10,7 +10,7 @@ aliases:
 summary: "指学生在学年中途频繁跨校转学的非正常流动形态。在政策问责话语中常被病理化为家庭贫困、失范与学业落后的表征，甚至被学校作为未达成问责目标的免责借口；实证研究则揭示其主要受住房居住变迁驱动，并构成底层家庭逃离校园暴力与劣质教学的主动避险策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Ideology Critique]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -98,7 +97,7 @@ updated: 2026-10-20
 > - **学年中途跨校转学（Mid-School Year Movement）** 发生于完整学年授课周期的中途，直接中断教学进度、学生社交网络与教师评估连贯性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
 > - **赤字[[Discourse\|话语]]病理化（Pathologized Deficit Discourse）** 政策文本与管理话语将频繁转学归咎为家庭“无法安稳度日”的心理或行为缺陷，掩盖宏观住房市场剥削。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **学校绩效免责杠杆（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
-> - **空间[[Disciplina and Doctrina|规训]]越轨定性（Spatial Deviance Marking）** 被学校科层系统定性为顽固拒绝停留在既定封闭空间内接受规训的越轨偏离群体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
+> - **空间规训越轨定性（Spatial Deviance Marking）** 被学校科层系统定性为顽固拒绝停留在既定封闭空间内接受规训的越轨偏离群体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!logic-map] 要素结构逻辑
 > ```mermaid
@@ -133,7 +132,7 @@ updated: 2026-10-20
 > **绩效问责下的免责替罪羊** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）强制推行“学校报告卡（School Report Card）”制度，中途转入或转出学校的[[Student Mobility|学生流动]]率被确立为反映生源特征的核心参数。奥芬伯格（Offenberg, 2004）等研究表明，薄弱学校管理者普遍利用高转学流动率作为未达成年度[[Adequate Yearly Progress|充分学业进展]]（AYP）的免责说辞，声称学业退步是由生源“频繁漂泊”造成的不可抗力，从而将系统性资源匮乏与学校教学失职巧妙转嫁给底层学生家庭。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
-> **[[Sedentarism|定居主义]][[Disciplina and Doctrina|规训]]下的越轨标记** 在[[Spatial Governmentality|空间治理术]]视阈下，现代正规学校被设计为固定人口、实施身体规训与学业筛选的封闭空间容器（Enclosure）。学年中途频繁转校的学生被科层系统标记为越轨异类——因为他们顽固地拒绝固定在学校所指定的物理空间内部接受连续的规训、考核与选拔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
+> **[[Sedentarism|定居主义]]规训下的越轨标记** 在[[Spatial Governmentality|空间治理术]]视阈下，现代正规学校被设计为固定人口、实施身体规训与学业筛选的封闭空间容器（Enclosure）。学年中途频繁转校的学生被科层系统标记为越轨异类——因为他们顽固地拒绝固定在学校所指定的物理空间内部接受连续的规训、考核与选拔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 ---
 

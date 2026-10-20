@@ -10,7 +10,7 @@ summary: "研究设计中确定样本大小的决策过程，权衡统计功效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -56,7 +56,6 @@ related_methods:
   - "[[Cluster Randomized Trials]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Louis Cohen]]"

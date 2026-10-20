@@ -45,17 +45,17 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[California Critical Thinking Skills Test]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Liu_2025_IndHE]]"
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Language Skills
@@ -157,7 +157,7 @@ updated: 2026-10-17
 ## 应用案例
 
 > [!example] 生成式 AI 赋能语言技能的典型教学实验案例
-> - **学术写作多轮提示词润色与体裁重构（Liu et al., 2025）** 在二语大学生英语学术写作中设计多轮提示词交互任务，要求学生借助大模型开展段落重构、句式降重与高级学术词汇替换，有效提升了书面语篇的规范性与流利度。
+> - **学术写作多轮提示词润色与体裁重构（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）** 在二语大学生英语学术写作中设计多轮提示词交互任务，要求学生借助大模型开展段落重构、句式降重与高级学术词汇替换，有效提升了书面语篇的规范性与流利度。
 > - **低焦虑口语即时交际对话演练（Wang et al., 2024）** 运用生成式对话[[AI Agent in Education\|智能体]]构建 24/7 全天候外语模拟交际环境，学生在无真人评判威慑的情境中大幅降低了二语交际焦虑，显著改善了口语即时对话流利度。
 
 ---
@@ -175,5 +175,5 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]]系统考察生成式 AI 对大学生多维学习产出的影响，实证确立语言技能是获益最剧烈的产出维度（$g^+ = 2.331$，剪补后 $1.009$），并揭示表层语言符号组织与深层心智调控的效应级差。

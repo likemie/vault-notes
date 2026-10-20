@@ -11,7 +11,7 @@ aliases:
 summary: "19世纪末由德国哲学家威廉·狄尔泰系统奠基的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -50,10 +50,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Falsification]]"
-  - "[[Educational Meliorism]]"
-  - "[[Avatar]]"
-  - "[[Construct]]"
-  - "[[Factorial Interpretive Framework]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Situative Perspective]]"
@@ -65,7 +61,6 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Questionnaire]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Wilhelm Dilthey]]"
   - "[[Michael Sadler]]"
@@ -85,10 +80,11 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Geisteswissenschaften

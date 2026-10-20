@@ -10,7 +10,7 @@ summary: "围绕点估计给出的区间估计形式，由置信水平和标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Rasch Measurement]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []

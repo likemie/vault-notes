@@ -14,6 +14,7 @@ tags:
   - region/global
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Geopolitics]]"
   - "[[Chain of Evidence]]"
   - "[[University-Industry Co-location]]"
   - "[[Epistemology]]"
@@ -51,14 +52,14 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-19
+updated: 2026-10-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -76,7 +77,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration\|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的地缘政治风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
+> 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration\|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的[[Geopolitics|地缘政治]]风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
 >
 > 国际 UI 合作的五重挑战具有内在递进结构，两个[[Analytic Framework\|分析框架]]分别从横向维度和纵向层次提供了解释资源。Mars and UC Davis 四十年合作中的三个案例构成一条[[Chain of Evidence\|证据链]]，共同指向一个结论：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制。共同选址（[[University-Industry Co-location\|co-location]]）是该机制关键的落地策略。
 
@@ -120,7 +121,7 @@ citation_aliases:
 > [!warning] 第一层：目标与激励对齐（Strategy/Alignment）
 > 大学与产业对合作价值的理解存在系统性偏差。美国公立与赠地大学协会(Association of Public and Land-Grant Universities, APLU, 2022)的访谈发现，大学寻求"在产生产业价值的领域进行科学发现"的伙伴，而产业则以[[Return on Investment\|投资回报]]率（Return on Investment, ROI）评估合作。这种偏差"更多来自感知而非现实"(p.311–312)，但感知差异足以阻碍合作的启动。
 >
-> 目标对齐是所有后续问题的前提。没有对齐的目标，就不存在进一步讨论 IP、地缘政治或沟通策略的基础。反过来看，一个能成功对齐目标的合作，已经跨过了最根本的门槛，后续挑战更多是执行层面的。
+> 目标对齐是所有后续问题的前提。没有对齐的目标，就不存在进一步讨论 IP、[[Geopolitics|地缘政治]]或沟通策略的基础。反过来看，一个能成功对齐目标的合作，已经跨过了最根本的门槛，后续挑战更多是执行层面的。
 
 ---
 
@@ -262,7 +263,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、地缘政治、文化沟通）呈现出从"要不要合作"到"能不能持续"的层层嵌套结构(pp.311–316)
+> - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、[[Geopolitics|地缘政治]]、文化沟通）呈现出从"要不要合作"到"能不能持续"的层层嵌套结构(pp.311–316)
 > - 共同选址作为空间策略，通过缩短物理距离同时降低沟通成本、增进文化理解和简化 IP 操作摩擦，系统性回应了五重挑战(pp.317–318)
 > - Mars and UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium\|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health\|IIFH]]）的三阶段演化，每一阶段以前一阶段的信任积累为前提(pp.319–323)
 > - 合作的长期成功取决于互利机制的建立，而非单一项目中的利益对等。互利机制使共同选址从空间安排升级为制度安排(p.320, p.323)

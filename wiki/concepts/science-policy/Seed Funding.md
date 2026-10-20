@@ -10,10 +10,10 @@ aliases:
 summary: "科技政策与高等教育科研资助中的敏捷启动与制度培育机制。在微观上指公共机构在探索早期基于初步概念验证给予的小额启动资金；在宏观上指以国家重大产学中心（如 ERC）为载体、依托杠杆配比与十年日落条款倒逼机构自建多元造血功能的制度型种子引导工具。"
 type: concept
 domain: "science-policy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - science-policy
@@ -30,12 +30,10 @@ related_concepts:
   - "[[Funding Exit Mechanism]]"
   - "[[Institutional Complementarity]]"
   - "[[Star Scientists]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[University-Based Research Center]]"
   - "[[Network Governance]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Erich Bloch]]"
@@ -134,7 +132,7 @@ updated: 2026-10-20
 > 探讨公共财政在支持重大跨学科[[University-Industry Collaboration|产学合作]]中心时，如何通过“种子引导 + 刚性日落”机制防范高校对公帑产生永久依赖。
 
 > [!claim] [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]]
-> **[[Sunset Provisions|日落条款]][[Disciplina and Doctrina|规训]]下的种子资助与自我造血** 在国家产学协同中心政策中，种子资助不仅体现为个案项目的小额启动，更体现为制度层面的培育期杠杆。[[National Science Foundation|美国国家科学基金会]]（NSF）向[[Engineering Research Centers|工程研究中心]]（ERC）提供的资助本质上是种子经费（约占中心年均预算的 30%），其余 70% 必须依托产业界会员、州政府及其他渠道进行杠杆配比。为防止实体机构陷入大兴土木与无限依赖公帑的惰性，NSF 引入了严格的十年日落条款（Sunset Provisions）与期中淘汰机制——明确规定联邦资助仅为阶段性种子培育，中心必须在规定年限内证明技术价值并对接多元市场资金实现财务自给，否则坚决关停。实证数据显示，在 1984 至 2004 年 NSF 资助的 56 所 ERC 中，历史存活率达 79%，其中 13 所中心在资助期满后完全实现独立自主造血，成功验证了制度型种子资助倒逼产学协同自我维持的政策有效性。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369, 373–374)]]
+> **[[Sunset Provisions|日落条款]]规训下的种子资助与自我造血** 在国家产学协同中心政策中，种子资助不仅体现为个案项目的小额启动，更体现为制度层面的培育期杠杆。[[National Science Foundation|美国国家科学基金会]]（NSF）向[[Engineering Research Centers|工程研究中心]]（ERC）提供的资助本质上是种子经费（约占中心年均预算的 30%），其余 70% 必须依托产业界会员、州政府及其他渠道进行杠杆配比。为防止实体机构陷入大兴土木与无限依赖公帑的惰性，NSF 引入了严格的十年日落条款（Sunset Provisions）与期中淘汰机制——明确规定联邦资助仅为阶段性种子培育，中心必须在规定年限内证明技术价值并对接多元市场资金实现财务自给，否则坚决关停。实证数据显示，在 1984 至 2004 年 NSF 资助的 56 所 ERC 中，历史存活率达 79%，其中 13 所中心在资助期满后完全实现独立自主造血，成功验证了制度型种子资助倒逼产学协同自我维持的政策有效性。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369, 373–374)]]
 
 ---
 
@@ -171,4 +169,4 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以加州大学洛杉矶分校（UCLA）与 MIT 的半导体材料案例，系统论证了敏捷种子资助在颠覆性突破中的催化与网络重构机制。
-> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任口述史与 56 所中心纵向追踪，系统论证了政府种子经费在大学跨学科研究中心设立中的杠杆撬动与日落造血[[Disciplina and Doctrina|规训]]功能。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任口述史与 56 所中心纵向追踪，系统论证了政府种子经费在大学跨学科研究中心设立中的杠杆撬动与日落造血规训功能。

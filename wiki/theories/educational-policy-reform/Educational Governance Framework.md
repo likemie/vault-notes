@@ -9,10 +9,10 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 28
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/educational-governance
   - theme/educational-policy-reform
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
 related_theories: []
@@ -44,7 +43,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Rating Scale]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Herbert Altrichter]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Educational Governance Framework
@@ -163,7 +161,7 @@ updated: 2026-10-16
 
 > [!debates] 理论争议
 >
-> > [!axis] 理性决策循环与新自由主义[[Disciplina and Doctrina\|规训]]的理论论争
+> > [!axis] 理性决策循环与新自由主义规训的理论论争
 > > 批判学者质疑治理框架隐含的“目标设定 $\rightarrow$ 数据监控 $\rightarrow$ 诊断改进”理性循环假定，认为其美化了绩效问责与[[New Public Management\|新公共管理]]（NPM）的技术治理逻辑。
 > >
 > > - **批判学者立场** 强调[[Governing by Numbers\|数字治理]]与监控技术加剧了对教师劳动过程的审计规训，导致教育价值的窄化与文牍主义异化。
@@ -173,5 +171,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。

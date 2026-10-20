@@ -7,7 +7,7 @@ aliases:
 summary: "指受过高等教育的统治精英与世俗化制度将宗教与超验信仰贬低为前工业时代的狂热与非理性冲动，从而系统性压制严肃信念在公共生活中表达的文化机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,8 +19,7 @@ tags:
 related_concepts:
   - "[[Hard Belief]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Stephen L. Carter]]"

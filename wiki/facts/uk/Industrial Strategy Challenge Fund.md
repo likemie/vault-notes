@@ -18,7 +18,7 @@ tags:
   - theme/innovation-policy
   - theme/challenge-driven-research
   - level/higher-education
-related_concepts:
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []

@@ -18,7 +18,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Positivism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Evidence-Based Education]]"
   - "[[Champ]]"
   - "[[Intentionality]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Performativity]]"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Stratified Sampling]]"
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Scott Eacott]]"
@@ -87,6 +86,7 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Visible Classroom]]"
 confidence: high
 status: draft
 created: 2026-05-03
@@ -100,7 +100,7 @@ updated: 2026-10-20
 ## 核心定义
 
 > [!def] 核心定义
-> **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与[[Disciplina and Doctrina|规训]]控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
+> **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 在概念演进中，新泰勒主义构成了批判教育管理学解构当代[[Evidence-Based Education|循证教育]]狂热与量化问责霸权的关键分析范畴。
 
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ### 命题二　效应量排行榜与数据仪表盘充当了教育官僚推行全景规训与应对治理危机的技术掩体
 
-> [!concept-lens] 官僚技术[[Disciplina and Doctrina|规训]]与危机规避
+> [!concept-lens] 官僚技术规训与危机规避
 > 该维度关注新泰勒主义如何与国家科层体制达成共谋，通过量化管理工具转移体制矛盾并确立全景式控制。
 
 > [!claim] Callahan, R. E. / Eacott, S.
@@ -240,9 +240,9 @@ updated: 2026-10-20
 
 > [!area-map] 领域应用
 > - **[[School Leadership|学校领导力]]与校长角色重塑** 校长从关注课程哲学与师生福祉的教育引领者，退化为监督标准化操作清单落实、跟进全校测试数据仪表盘的“厂长式”行政执行官（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Eacott_2017_SLM|Eacott, 2017]]）。
-> - **教师资格准入与国家专业标准嵌入** 澳大利亚教学与学校领导力研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）将[[Effect Size|效应量]]逻辑嵌入国家教师与校长专业标准；墨尔本大学开发 TeacherSelector 软件，试图以算法测算申请人潜质，将新泰勒主义推向师资入口审查（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]]）。
-> - **高影响力教学策略与课堂微观[[Disciplina and Doctrina|规训]]** 如澳大利亚维多利亚州教育部推行的 [[Victorian HITS and Literacy Toolkit|HITS]]，强制规定教师必须以格式化动作展开课堂，抹杀根据学生即时困惑调整教学的灵活性（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
-> - **商业化认证学校与软件监控生态** 诸如 [[Visible Learning]]+ 认证学校项目、[[Assessment Tools for Teaching and Learning|asTTle]] 在线测评系统与 Visible Classroom 录音分析应用（教师上传录音由专家按既定指标评分），构建起收费昂贵的规训软硬件生态（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> - **教师资格准入与国家专业标准嵌入** [[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力研究院]]（[[Australian Institute for Teaching and School Leadership|AITSL]]）将[[Effect Size|效应量]]逻辑嵌入国家教师与校长专业标准；墨尔本大学开发 TeacherSelector 软件，试图以算法测算申请人潜质，将新泰勒主义推向师资入口审查（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]]）。
+> - **高影响力教学策略与课堂微观规训** 如澳大利亚维多利亚州教育部推行的 [[Victorian HITS and Literacy Toolkit|HITS]]，强制规定教师必须以格式化动作展开课堂，抹杀根据学生即时困惑调整教学的灵活性（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+> - **商业化认证学校与软件监控生态** 诸如 [[Visible Learning]]+ 认证学校项目、[[Assessment Tools for Teaching and Learning|asTTle]] 在线测评系统与 [[Visible Classroom]] 录音分析应用（教师上传录音由专家按既定指标评分），构建起收费昂贵的规训软硬件生态（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-10-20
 > > - **批判学者与一线教育者（Biesta, 2015; [[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 论证高压数据生产逼迫教师“为测验而教”并疲于造表应检，引发严重的职业倦怠，彻底颠倒了教育手段与目的的关系。
 
 > [!critique]- 批评索引
-> - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 反驳新泰勒主义指责，声称可见学习旨在帮助教师了解教学影响而非强制标准化[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 反驳新泰勒主义指责，声称可见学习旨在帮助教师了解教学影响而非强制标准化规训。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 批评哈蒂的回应未能实质性直面新泰勒主义的核心指控，揭示学术界在管理主义问题上存在的“[[Parallel Monologues|平行独白]]”困境。
 
 ---
@@ -275,8 +275,8 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出[[John Hattie|哈蒂]]可见学习为当代教育行政中的“新泰勒主义”与“[[Cult of the Guru|大师崇拜]]”。
 > - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩[[Technical Rationality|技术理性]]批判，逐项核查反馈[[Meta-analysis|元分析]]底层数据，揭示其新泰勒主义[[Disciplina and Doctrina|规训]]实质与[[Construct|构念]]混淆。
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩[[Technical Rationality|技术理性]]批判，逐项核查反馈[[Meta-analysis|元分析]]底层数据，揭示其新泰勒主义规训实质与[[Construct|构念]]混淆。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 援引埃考特新泰勒主义概念，实证测查 1,120 名俄罗斯教师在持续数据生产政策下的行政负荷与专业流失危机。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析澳大利亚维州 [[Victorian HITS and Literacy Toolkit|HITS]] 教学策略背后的新泰勒主义全景监控逻辑与去专业化风险。
 > - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 对埃考特论文的正式回应，否认新泰勒主义定性并为可见学习科学性辩护。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 调查报告，记录可见学习商业化衍生产品（如 Visible Classroom 录音监控）的收费与运作模式。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 调查报告，记录可见学习商业化衍生产品（如 [[Visible Classroom]] 录音监控）的收费与运作模式。

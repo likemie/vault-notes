@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-20
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -219,7 +219,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 核心逻辑 | 收集两组数据（一组回溯），确定自变量与因变量的关联 | 比较因变量存在与不存在的两组被试，逆向搜索可能原因 |
 > | 分析目的 | 识别当前条件的先行因素 | 发现导致组别差异的可能原因 |
 > | 典型示例 | Borkowsky（1970）：音乐教师培训质量 → 教学效能 | Morrison（2009）：有无同事课程规划 → 教学效能差异 |
-> | 核心局限 | 无法确定因果方向；三种竞争性解释（X→O、O→X、第三变量→二者） | 最多是[[Correlational Research\|相关研究]]；第三变量可能同时解释分组差异与结果差异 |
+> | 核心局限 | 无法确定因果方向；三种竞争性解释（X→O、O→X、第三变量→二者） | 最多是[[Correlational Research\|相关性研究]]；第三变量可能同时解释分组差异与结果差异 |
 > | 价值定位 | 探索性工具：产出关联度量，作为因果探索的有用第一步 | 桥梁：连接描述性研究方法与真正实验研究 |
 
 ---

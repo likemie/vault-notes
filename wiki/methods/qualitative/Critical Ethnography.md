@@ -7,7 +7,7 @@ summary: "批判理论在行动中的民族志：将权力、不平等和解放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Ideology Critique]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Critical Ethnography
@@ -137,5 +136,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]] — 教材系统介绍批判[[Ethnography\|民族志]]的定义、五阶段模型和与[[Ideology Critique\|意识形态批判]]的关系（pp. 446–451）。

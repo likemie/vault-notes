@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Epistemological Coherence]]"
   - "[[Policy Brokerage]]"
@@ -77,9 +78,9 @@ title: "Argument_Helgetun_2022_JEdPolicy"
 argument_key: "Argument_Helgetun_2022_JEdPolicy"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Education Policy
 book_title: ""
@@ -250,7 +251,7 @@ issuing_organization: ""
 > | **与官方偏好相悖的结果** | 坚持独立证据并要求政客修正政策方向 | 面临感谢提交但永不出版的冰冻搁置命运 |
 
 > [!warrant]- 逆向证据生产的推理机制
-> [[In-depth Interview\|深度访谈]]经验资料揭示，在撰写咨询报告与评估意见时，行动者的首要考量并非干预措施的客观因果机制或方法学严谨性，而是文本能否顺利契合部长的政治预期。适宜性逻辑的支配地位使证据的功能发生了根本异化：研究证据不再作为探索政策方案的经验前提，而是沦为给既定政治决断提供合法性注脚的工具。决策体系通过定向剪裁数据、隐匿相悖结论与定制评估指标，完成了从“循证政策制定”向[[Policy-Based Evidence-Making\|基于政策的证据制造]]的逆向演变，印证了[[Critique of Evidence-Based Education\|循证教育批判]]对治理技术工具化的核心判断。（pp. 92–94）
+> [[In-depth Interview\|深度访谈]]经验资料揭示，在撰写咨询报告与评估意见时，行动者的首要考量并非干预措施的客观因果机制或方法学严谨性，而是文本能否顺利契合部长的政治预期。适宜性逻辑的支配地位使证据的功能发生了根本异化：研究证据不再作为探索政策方案的经验前提，而是沦为给既定政治决断提供合法性注脚的工具。决策体系通过定向剪裁数据、隐匿相悖结论与定制评估指标，完成了从“[[Evidence-Based Policy-Making|循证政策制定]]”向[[Policy-Based Evidence-Making\|基于政策的证据制造]]的逆向演变，印证了[[Critique of Evidence-Based Education\|循证教育批判]]对治理技术工具化的核心判断。（pp. 92–94）
 
 ---
 

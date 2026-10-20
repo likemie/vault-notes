@@ -28,6 +28,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Developmentalism]]"
   - "[[Securitization of Technology]]"
   - "[[Technology Readiness Level]]"
   - "[[Innovation Ecosystem]]"
@@ -99,8 +100,7 @@ related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Fan_2026_BCAS]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-05-28
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 > [!factors] 立法动因与深层危机背景
 > - **制造产能流失与先进制程断链危机** 美国在全球半导体制造产能中的份额从 1990 年的 37% 骤降至 2020 年的 12%（2022 年约为 10%），在 10nm 以下尖端先进制程制造上完全依赖东亚（台湾占 90%+、韩国占其余），2020–2022 年新冠疫情引发的芯片大短缺重创美国汽车与工业制造。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92, 95)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
-> - **两党政治结盟与地缘大国博弈靶标** 在国会两党高度极化的政治生态中，法案成为罕见获得参议院 60% 绝对多数支持的里程碑；拜登政府的发展主义平台与共和党捍卫本土产业的保护主义诉求形成公分母，将遏制技术外流与维护[[Securitization of Technology|技术安全化]]确立为具有强动员力的地缘战略靶标。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
+> - **两党政治结盟与地缘大国博弈靶标** 在国会两党高度极化的政治生态中，法案成为罕见获得参议院 60% 绝对多数支持的里程碑；拜登政府的[[Developmentalism|发展主义]]平台与共和党捍卫本土产业的保护主义诉求形成公分母，将遏制技术外流与维护[[Securitization of Technology|技术安全化]]确立为具有强动员力的地缘战略靶标。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 > - **价值链晶圆制造软肋与终端贸易逆差** 美国虽掌控全球 65% 芯片设计份额与 46% 贸易额，但在未加工晶圆制造上高度依赖外部进口，且在下游计算机与通信设备上的贸易逆差持续扩大，面临“微笑曲线”两端强而中间制造中空的结构性脆弱。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 5–6)]]
 > - **区域创新极化与大学产学断层** 传统联邦研发资源高度集中于东西两岸，中西部与内陆地区产业基础薄弱，面临 6.7 万名专业岗位缺口与基础研究向 [[Technology Readiness Level|TRL]] 4–6 中试转化断层，迫切需要通过国家级立法重塑[[Innovation Ecosystem|区域创新生态]]并重构[[Research Universities|研究型大学]]在国家半导体体系中的功能。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–22)]]
 

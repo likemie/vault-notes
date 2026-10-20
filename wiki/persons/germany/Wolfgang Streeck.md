@@ -8,10 +8,10 @@ summary: "德国经济社会学家，马克斯·普朗克社会研究所荣休�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 29
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1946
 lifespan: "1946–至今"
 tags:
@@ -42,7 +42,6 @@ related_theories:
 related_methods:
   - "[[Process Tracing]]"
   - "[[Implementation and Process Evaluation]]"
-  - "[[Correlational Research]]"
   - "[[Causal Modeling]]"
 related_instruments: []
 related_persons:

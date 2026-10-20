@@ -8,10 +8,10 @@ summary: "俄裔美籍复杂系统科学家、历史动态学（Cliodynamics）�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1957
 lifespan: "1957–至今"
 tags:
@@ -28,8 +28,7 @@ related_concepts:
   - "[[Consumer Internet]]"
   - "[[Construct]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"

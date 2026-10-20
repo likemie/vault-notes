@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-13
+updated: 2026-10-20
 ---
 
 # Cross-sectional Study
@@ -133,5 +133,5 @@ updated: 2026-07-13
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011)]] — 该章系统讨论了横截面研究作为[[Survey Research\|调查研究]]设计的定义、特征、优势与局限，及其与[[Longitudinal Study\|纵向研究]]的对比。

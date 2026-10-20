@@ -10,7 +10,7 @@ aliases:
 summary: "重复测量设计中因干预呈现顺序而非干预本身导致结果差异的混淆效应，主要包括延续效应和早期优势效应，可通过拉丁方排列或随机化顺序来均衡"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,13 +31,12 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Telephone Interview]]"
   - "[[Contingency Questions]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Order Effects
 
@@ -227,5 +226,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — Ch. 16 讨论[[Repeated Measures Design\|重复测量设计]]中的延续效应与拉丁方均衡；Ch. 20 讨论[[Questionnaire\|问卷]]中的首因效应、回答定势与题目排序原则。

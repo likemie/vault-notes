@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,7 +53,6 @@ related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Process Tracing]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Walter J. M. Kickert]]"
 related_facts:

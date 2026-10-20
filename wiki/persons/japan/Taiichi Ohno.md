@@ -7,7 +7,7 @@ summary: "日本工业工程师与丰田汽车高管，丰田生产方式（TPS�
 type: person
 nationality: japan
 person_region: "japan"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Five Whys]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"

@@ -9,10 +9,10 @@ aliases:
 summary: "19 世纪早期欧美官方教育考察者所采取的一种描述性比较取向，将外国具体学校机构与教学管理规程孤立于社会历史脉络之外进行白描记录与政策借用，后被萨德勒等学者批判并推动学科发生文化转向"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/comparative-education
   - theme/methodology
@@ -32,8 +32,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Epistemology]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"

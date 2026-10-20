@@ -10,7 +10,7 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Arnove]]"
 related_facts: []

@@ -29,12 +29,12 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Heterogeneity]]"
   - "[[Technical Rationality]]"
+  - "[[Evidence-Based Policy-Making]]"
 related_theories:
   - "[[Ecological Systems Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Urie Bronfenbrenner]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policymaking Chronosystem
@@ -191,7 +191,7 @@ updated: 2026-10-16
 > > [!axis] 证据作为理性决策先导 vs 证据作为既定立场燃料
 > > 实证研究究竟是启发和改变政策制定者立场的客观力量，还是仅仅被决策者用来文饰既定政见的策略性工具。
 > >
-> > - **启蒙与[[Technical Rationality\|技术理性]]派** 坚信严谨因果证据能够校准政策偏差，推动循证决策。
+> > - **启蒙与[[Technical Rationality\|技术理性]]派** 坚信严谨因果证据能够校准政策偏差，推动[[Evidence-Based Policy-Making|循证决策]]。
 > > - **政治时间系统与政治符号派（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]; Weiss, 1977）** 论证政治本质上关乎价值选择，实证研究主要作为维系政治信仰与政见口号的合法化燃料。
 
 > [!critique] 外部批评
@@ -205,7 +205,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 奠基性文献：提出政策制定时间系统概念，系统剖析科学发现周期与政策时效的断层，构建整合突发事件与重大法案周期的四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]。
 > - Bronfenbrenner and Ceci (1994) — 理论源头：提出人类发展的[[Ecological Systems Theory\|生物生态学模型]]与历时系统（Chronosystem）构想。
 > - Weiss (1977) — 阐明公共政策本质关乎价值选择，奠定证据作为政治正当化工具的理论先驱。

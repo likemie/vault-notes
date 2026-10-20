@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Geopolitics]]"
   - "[[Methodological Globalism]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
   - "[[Determinism]]"
+  - "[[International Branch Campus]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
@@ -41,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Semi-Autonomy of Higher Education
@@ -49,7 +51,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info]
-> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony\|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology\|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释"为什么高等教育的地缘政治关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
+> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony\|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology\|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释"为什么高等教育的[[Geopolitics|地缘政治]]关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
 
 > [!quote]
 > "Higher education and science have a partial autonomy — or 'semi-autonomy' — in the Gramscian sense. They are shaped by political economy, yet also evolve in their own right."([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
@@ -78,7 +80,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!note]-
-> 半自主性概念源自 Gramsci（1971）对[[Hegemony\|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology\|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom\|学术自由]]才能培养有[[Creativity\|创造力]]的精英。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受地缘政治影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
+> 半自主性概念源自 Gramsci（1971）对[[Hegemony\|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology\|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom\|学术自由]]才能培养有[[Creativity\|创造力]]的精英。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受[[Geopolitics|地缘政治]]影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
 
 ---
 
@@ -97,7 +99,7 @@ updated: 2026-10-15
 > [!success]
 > - 2018–2024 年中美政治紧张期间，两国科学家联合发表数量依然巨大——科学合作不完全随政治关系波动，验证了科学领域的半自主性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 11]])
 > - 中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与其政治经济的相关性各异。如果科学产出完全由政治经济决定（如[[World-Systems Theory\|世界体系理论]]所假设），这些国家的增长曲线应该是相似的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
-> - 中国大学较少设立海外分校（与美国、英国、澳大利亚形成对比），但其国内科学产出增长速度全球最快——这说明国家-全球协同的模式是多样的，国家可以自主选择全球参与方式([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 17–20]])
+> - 中国大学较少设立[[International Branch Campus|海外分校]]（与美国、英国、澳大利亚形成对比），但其国内科学产出增长速度全球最快——这说明国家-全球协同的模式是多样的，国家可以自主选择全球参与方式([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 17–20]])
 
 ---
 
@@ -105,7 +107,7 @@ updated: 2026-10-15
 
 > [!warning]
 > - 半自主性的边界是模糊的——"半"到什么程度？在什么条件下半自主性会被压缩？例如，在冷战的特定时期（麦卡锡主义）或[[Sino-American Trade War\|中美贸易战]]的特定领域（芯片技术、AI），科学的半自主性明显受到严重侵蚀([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
-> - 半自主性可能被滥用为"[[Academic Freedom\|学术自由]]"的修辞掩护——大学在声称半自主的同时可能深度参与服务于国家利益的地缘政治竞争（如国防研究），这使"半自主"本身成为需要经验检验而非理论预设的问题([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 13–14]])
+> - 半自主性可能被滥用为"[[Academic Freedom\|学术自由]]"的修辞掩护——大学在声称半自主的同时可能深度参与服务于国家利益的[[Geopolitics|地缘政治]]竞争（如国防研究），这使"半自主"本身成为需要经验检验而非理论预设的问题([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 13–14]])
 
 ---
 

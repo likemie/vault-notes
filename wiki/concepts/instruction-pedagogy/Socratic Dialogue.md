@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -53,7 +53,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Socratic Dialogue
@@ -243,7 +242,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析[[Inquiry-Based Learning\|指导式探究]]的教学法构成，引用 McDermott (1996) 将[[Socrates\|苏格拉底]]对话界定为理科探究中促进深层概念建构的典型指导形态。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估苏格拉底对话（$k=8, g+=0.27$）对学生[[Critical Thinking\|批判性思维]]的干预效果。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。

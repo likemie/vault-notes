@@ -10,7 +10,7 @@ aliases:
 summary: "总揽学科全貌、历史进程或文明演进的思辨性元叙述体系。在社会学中因脱离经验事实而遭遇中层理论与后现代解构；在技术政治、地缘竞争与国家建构中，它既表现为福山历史终结论的胜者谬误与新兴大国非西方现代化治理叙事，又表现为国家重大工程攻关愿景，以及凝聚多元移民社会、克服邓巴数限制并以千年为尺度的共有历史文明叙事。"
 type: concept
 domain: "sociology-of-education"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -28,10 +28,12 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Falsification]]"
   - "[[Winner's Fallacy]]"
+  - "[[National Rejuvenation Narrative]]"
   - "[[Big Idea Famine]]"
   - "[[Civic Religion]]"
   - "[[Dunbar's Number]]"
   - "[[Technological Republic]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
@@ -42,17 +44,15 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Interpretivism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Rich and Thick Description]]"
   - "[[Total Factor Productivity]]"
   - "[[Technological Agnosticism]]"
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
-  - "[[Positivism]]"
-  - "[[Determinism]]"
-  - "[[General Education]]"
-  - "[[Cognitive Decoupling]]"
-  - "[[Soft Power]]"
+  - "[[China Solution]]"
+  - "[[Geopolitics]]"
+  - "[[Paradigm]]"
+  - "[[Scientific Method]]"
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Structural Functionalism]]"
@@ -79,17 +79,18 @@ related_persons:
 related_facts:
   - "[[Apollo Program]]"
   - "[[Research in Schools Evaluation]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Grand Theory
@@ -103,14 +104,14 @@ updated: 2026-10-19
 > 
 > 在[[Epistemology|认识论]]与方法论层面，它依托最根本的[[Ontology|本体论]]与认识论先验公设构建宏大的理性体系，致力于阐明人类行为、社会结构或历史演进的总体秩序；经验事实在此往往仅作为论证观点的修辞佐证，未能充当检验[[Falsification|证伪]]理论假说的裁决者。在技术政治、地缘竞争与文明史层面，宏大叙事展现出多重交织的深层张力：
 > 1. **目的论意识形态迷思** 如[[Francis Fukuyama|弗朗西斯·福山]]的“[[End of History Thesis|历史终结论]]”将阶段性历史胜利误读为先验必然归宿，诱发西方大国的战略麻痹与[[Winner's Fallacy|胜者谬误]]；
-> 2. **非西方现代化治理方案输出** 如新兴大国将高等教育与对外合作深植于民族复兴与非西方现代化路径的宏大叙事中，抗衡西方中心主义的制度霸权；
+> 2. **非西方现代化治理方案输出** 如新兴大国将高等教育与对外合作深植于[[National Rejuvenation Narrative|民族复兴]]与非西方现代化路径的宏大叙事中，抗衡西方中心主义的制度霸权；
 > 3. **国家重大工程雄心** 如[[Apollo Program|阿波罗计划]]式的深科技宏大叙事，与当代科技界沉溺于微观消费软件的[[Big Idea Famine|大构想饥荒]]形成鲜明对照；
 > 4. **文明认同与世俗[[Civic Religion|公民宗教]]** 如历史学家[[William H. McNeill|威廉·麦克尼尔]]所指出的西方文明宏大叙事，其作为凝聚多族裔移民社会的世俗公民宗教在一战后确立；然而后现代批判对其后验虚构性的全盘解构，又反向切断了国家历史深度的文化锚桩；
 > 5. **千年视野下的国家生存意志** 如[[Lee Kuan Yew|李光耀]]与[[Thomas Carlyle|托马斯·卡莱尔]]所揭示，在超大规模人类社会中，具备百年与千年时间尺度的宏大历史叙事与英雄正典，能够克服[[Dunbar's Number|邓巴数]]生物学限制，凝聚起维系[[Technological Republic|技术共和国]]地缘生存所必需的集体奋斗意志。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–90)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194, 197–201)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会学、历史哲学、文明史与战略理论中那些试图提供全包容解释框架、国家工程愿景、地缘现代化方案或文明认同锚桩的知识体系（如[[Talcott Parsons|帕森斯]][[Structural Functionalism|结构功能主义]]、福山历史终结论、阿波罗工程愿景、西方文明正典叙事、非西方发展道路元叙述）。
-> - **用途** 帮助研究者与战略家识别先验体系推演的认知自负，辨析目的论意识形态迷思、非西方治理话语建构、深科技工程抱负与国家共同体文明叙事之间的本质分野。
+> - **用途** 帮助研究者与战略家识别先验体系推演的认知自负，辨析目的论意识形态迷思、非西方治理[[Discourse|话语]]建构、深科技工程抱负与国家共同体文明叙事之间的本质分野。
 > - **边界** 宏大理论不提供可直接[[Operationalization|操作化]]检验的微观经验假说，不能替代微观扎根探究；但健康的文明历史叙事、制度愿景与宏大工程规划对维系政治凝聚力与举国体制攻关具有重要引领功能。
 
 > [!citation-card] [[Keith Morrison|莫里森]]与莱德论宏大理论的思辨本质与拜占庭式建筑辉煌
@@ -150,7 +151,7 @@ updated: 2026-10-19
 > - **先验公设推演性（A Priori Axiomatic Derivation）** 其核心概念主要源于高度抽象的[[Ontology|本体论]]与[[Epistemology|认识论]]公设推导，而非直接来自具体经验测量。
 > - **经验材料插图化（Illustrative Subordination of Data）** 在宏大理论建构中，论述倾向于选择性汲取符合理论推演的片段作为修辞佐证，回避严苛的经验[[Falsification|证伪]]检验。
 > - **体系封闭性与[[Winner's Fallacy|胜者自满]]（Systemic Closure & Complacency）** 追求逻辑体系的自足，面对外部现实演化极易显现出认知刚性，诱发将阶段性优势误判为历史终局的[[Winner's Fallacy|胜者谬误]]。
-> - **非西方话语抗衡性（Counter-Hegemonic Framing）** 在地缘与全球治理中，宏大叙事被作为提供替代性现代化路径与打破西方中心论知识霸权的战略叙事框架。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+> - **非西方[[Discourse|话语]]抗衡性（Counter-Hegemonic Framing）** 在地缘与全球治理中，宏大叙事被作为提供替代性现代化路径与打破西方中心论知识霸权的战略叙事框架。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 > - **文明锚定与[[Civic Religion|公民宗教]]功能（Civilizational Anchoring & Civic Function）** 共享的宏大叙事作为移民社会维系共同政治方案与民主认同的世俗公民宗教，其过度解构会导致社会凝聚力瓦解与国家认同悬空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–90)]]
 > - **跨期千年历史视界（Thousand-Year Time Horizon）** 宏大叙事为国家防卫与重大科技攻关提供跨世代的精神向心力，克服个体短视与消费主义原子化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194, 197–198)]]
 
@@ -210,7 +211,7 @@ updated: 2026-10-19
 > 探讨[[Postmodernism|后现代主义]]对单一普遍法则的解构，以及向流动性、不确定性与多元微观主体的转向。
 
 > [!claim] Lyotard, J.-F.; Jameson, F.
-> **元叙述解构与差异性确立** [[Jean-François Lyotard|利奥塔]]将后现代精神界定为“对元叙述的怀疑”；后现代转向动摇了宏大理论的独尊地位，促使学校与课堂被重新理解为由多元主体自组织编织的生活网络。宏大理论试图以单一普遍法则抹平多元现实的努力在理论上面临根本困境，在实践中亦容易沦为[[Disciplina and Doctrina|规训]]工具，推动研究重心转向微观[[Rich and Thick Description|深描]]与[[Heterogeneity|异质性]]探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Lyotard, 1984; Jameson, 1991; cited in Cohen et al., 2011, Ch. 1, pp. 10–11)]]
+> **元叙述解构与差异性确立** [[Jean-François Lyotard|利奥塔]]将后现代精神界定为“对元叙述的怀疑”；后现代转向动摇了宏大理论的独尊地位，促使学校与课堂被重新理解为由多元主体自组织编织的生活网络。宏大理论试图以单一普遍法则抹平多元现实的努力在理论上面临根本困境，在实践中亦容易沦为规训工具，推动研究重心转向微观[[Rich and Thick Description|深描]]与[[Heterogeneity|异质性]]探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Lyotard, 1984; Jameson, 1991; cited in Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 
 ---
 
@@ -247,10 +248,10 @@ updated: 2026-10-19
 ### 命题七　新兴大国构建非西方现代化宏大叙事以抗衡西方中心主义发展治理范式
 
 > [!concept-lens] 地缘认知博弈与非西方现代化元叙述
-> 探讨新兴大国如何将民族复兴与自主发展道路升华为宏大叙事，通过高等教育网络与国际发展合作重构全球南方的发展认知。
+> 探讨新兴大国如何将[[National Rejuvenation Narrative|民族复兴]]与自主发展道路升华为宏大叙事，通过高等教育网络与国际发展合作重构全球南方的发展认知。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo, J. J. (2023)]]
-> **非西方现代化宏大叙事与全球治理模式重塑** 禹钟晸（Jung Ji Woo）指出，中国的高等教育跨国政策深植于近代民族复兴诉求与提供“中国方案”的宏大叙事中。面对西方以自由民主制和自由市场为核心的普适性元叙述，中国通过构建涵盖政治稳定、高速经济增长、脱贫实践与主权发展的现代化叙事体系，赋予自身治理模式以跨国合法性，并通过“一带一路”教育交流网络向发展中国家宣介这一非西方发展道路，从而在深层认知与话语层面挑战西方中心主义的传统知识体系。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+> **非西方现代化宏大叙事与全球治理模式重塑** 禹钟晸（Jung Ji Woo）指出，中国的高等教育跨国政策深植于近代民族复兴诉求与提供“[[China Solution|中国方案]]”的宏大叙事中。面对西方以自由民主制和自由市场为核心的普适性元叙述，中国通过构建涵盖政治稳定、高速经济增长、脱贫实践与主权发展的现代化叙事体系，赋予自身治理模式以跨国合法性，并通过“[[Belt and Road Initiative|一带一路]]”教育交流网络向发展中国家宣介这一非西方发展道路，从而在深层认知与[[Discourse|话语]]层面挑战西方中心主义的传统知识体系。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 
 ---
 
@@ -264,7 +265,7 @@ updated: 2026-10-19
 > | **后现代元叙述解构** | 否定单一普遍法则的统领合法性，转向异质性与地方性知识 | 后现代教育哲学、微观质性深描与复杂性研究 | Lyotard (1984); Jameson (1991) |
 > | **技术政治双重张力** | 政治目的论诱发胜者谬误，而工程宏大叙事丧失导致大构想饥荒 | 国家大战略评估、科技创新政策与技术共和国构建 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03\|Karp & Zamiska (2025, pp. 31–32)]]; Bloom (1989) |
 > | **文明叙事与断线气球** | 西方文明叙事兼具公民宗教功能，全盘解构切断历史锚桩诱发不可知论 | 文明史观、通识正典论战与国家认同危机 | McNeill (1986); Appiah (2018); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|Karp & Zamiska (2025, pp. 83–90)]] |
-> | **千年视界与文明生存** | 千年宏大历史叙事与英雄正典是克服邓巴数限制、维持文明生存的生命线 | 科技地缘政治、国家能力建构、历史哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194, 197–201)]]; Lee (1965); Carlyle (1841) |
+> | **千年视界与文明生存** | 千年宏大历史叙事与英雄正典是克服邓巴数限制、维持文明生存的生命线 | 科技[[Geopolitics\|地缘政治]]、国家能力建构、历史哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194, 197–201)]]; Lee (1965); Carlyle (1841) |
 > | **非西方现代化叙事抗衡** | 构建涵盖主权发展与实证成效的宏大叙事，抗衡西方中心论知识霸权 | 地缘政治经济学、全球治理模式比较与高教对外政策 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 687–692)]] |
 
 ---
@@ -273,11 +274,11 @@ updated: 2026-10-19
 
 > [!dev-timeline] 宏大理论与宏大叙事的演进脉络
 > - **19 世纪中叶 — 历史哲学与古典社会学体系** [[Georg Wilhelm Friedrich Hegel|黑格尔]]历史哲学确立了理性精神单向演进的元叙述；孔德与斯宾塞等早期社会学者运用进化论思想构建解释人类社会全貌的宏大理论大厦。
-> - **1937–1951 — 结构功能主义的拜占庭式巅峰** [[Talcott Parsons|帕森斯]]发表《社会行动的结构》与《社会系统》，构建高度抽象、逻辑严密的四功能行动范式（AGIL），成为社会学领域宏大理论的代表形态。
-> - **1949–1959 — 经验社会学清算与中层理论转向** 罗伯特·默顿（Robert K. Merton）提出中层理论，痛陈宏大理论脱离可证伪假说；赖特·米尔斯在《社会学的想象力》中严厉批判宏大理论概念自闭与经验贫瘠。
+> - **1937–1951 — [[Structural Functionalism|结构功能主义]]的拜占庭式巅峰** [[Talcott Parsons|帕森斯]]发表《社会行动的结构》与《社会系统》，构建高度抽象、逻辑严密的四功能行动[[Paradigm|范式]]（AGIL），成为社会学领域宏大理论的代表形态。
+> - **1949–1959 — 经验社会学清算与中层理论转向** 罗伯特·默顿（Robert K. Merton）提出中层理论，痛陈宏大理论脱离可[[Falsification|证伪]]假说；赖特·米尔斯在《社会学的想象力》中严厉批判宏大理论概念自闭与经验贫瘠。
 > - **1979–1984 — 后现代转向与对元叙述的彻底怀疑** [[Jean-François Lyotard|利奥塔]]发表《后现代状态》，宣布后现代状况的核心即是“对元叙述的怀疑”，后现代思潮全面解构普遍性文明与历史进步神话。
-> - **1989–1992 — 历史终结论的确立与胜者谬误** [[Francis Fukuyama|福山]]发表《历史的终结？》，将西方自由民主制与市场经济塑造为人类制度演进终极形态的意识形态宏大叙事。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
-> - **2010s 至今 — 地缘认知竞争与文明工程叙事重塑** 新兴大国将非西方现代化经验提炼为兼具主权发展与制度有效性的治理宏大叙事，并在跨国教育与对外合作中抗衡西方话语垄断。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]；同时在技术政治与文明史领域，学术界反思后现代解构造成的历史虚无，主张重构以千年为尺度的共有历史文明叙事与重大工程愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
+> - **1989–1992 — [[End of History Thesis|历史终结论]]的确立与[[Winner's Fallacy|胜者谬误]]** [[Francis Fukuyama|福山]]发表《历史的终结？》，将西方自由民主制与市场经济塑造为人类制度演进终极形态的意识形态宏大叙事。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
+> - **2010s 至今 — 地缘认知竞争与文明工程叙事重塑** 新兴大国将非西方现代化经验提炼为兼具主权发展与制度有效性的治理宏大叙事，并在跨国教育与对外合作中抗衡西方[[Discourse|话语]]垄断。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]；同时在技术政治与文明史领域，学术界反思后现代解构造成的历史虚无，主张重构以千年为尺度的共有历史文明叙事与重大工程愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 
 ---
 
@@ -292,7 +293,7 @@ updated: 2026-10-19
 > > - **经验扎根派（Merton, 1949; Glaser & Strauss）** 坚持认为缺乏可[[Falsification|证伪]]接口的宏大理论在科学上是贫瘠的，唯有从中层理论或实地数据[[Emergence|涌现]]的假说才具备解释效力。
 >
 > > [!axis] 普适性西方自由民主元叙述 vs 非西方现代化自主发展宏大叙事
-> > 围绕全球发展治理模式是否遵循单一西方范式展开深刻论辩。
+> > 围绕全球发展治理模式是否遵循单一西方[[Paradigm|范式]]展开深刻论辩。
 > >
 > > - **自由民主普适派（Fukuyama, 1989）** 断言自由民主制与市场经济构成了人类历史不可逆转的终极制度归宿。
 > > - **非西方自主发展派（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 687–692]]）** 指出发展中国家在主权发展、减贫与基础设施推进中展现出对国家引导型现代化模式的强烈偏好，非西方宏大叙事有效打破了西方制度方案的普适神话。
@@ -314,8 +315,8 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid] 宏大理论与宏大叙事核心文献索引
-> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]]** 评述宏大理论作为思辨性元叙述在认识论建构与学科边界界定中的功能，及其在经验科学检验中的贫瘠性与后现代转向下的合法性危机。
-> - **[[Argument_Woo_2023_HEP|Woo (2023)]]** 阐发高等教育对外政策如何深植于民族复兴与非西方现代化路径的宏大叙事中，揭示其在抗衡西方中心论与拓展全球南方治理认同中的关键功能。
-> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]]** 剖析福山历史终结论作为意识形态宏大叙事诱发的胜者谬误，以及当代文化抛弃阿波罗式工程宏大叙事导致的大构想饥荒。
-> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, Ch. 7)]]** 探讨西方文明正典宏大叙事作为多族裔社会世俗公民宗教的历史生成与解构后果。
-> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]]** 论证千年尺度的宏大历史叙事与英雄正典在克服邓巴数限制、维持文明长期生存中的核心精神纽带功能。
+> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]]** 评述宏大理论作为思辨性元叙述在[[Epistemology|认识论]]建构与学科边界界定中的功能，及其在[[Scientific Method|经验科学]]检验中的贫瘠性与后现代转向下的合法性危机。
+> - **[[Argument_Woo_2023_HEP|Woo (2023)]]** 阐发高等教育对外政策如何深植于[[National Rejuvenation Narrative|民族复兴]]与非西方现代化路径的宏大叙事中，揭示其在抗衡西方中心论与拓展全球南方治理认同中的关键功能。
+> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]]** 剖析[[Francis Fukuyama|福山]][[End of History Thesis|历史终结论]]作为意识形态宏大叙事诱发的[[Winner's Fallacy|胜者谬误]]，以及当代文化抛弃阿波罗式工程宏大叙事导致的[[Big Idea Famine|大构想饥荒]]。
+> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, Ch. 7)]]** 探讨西方文明正典宏大叙事作为多族裔社会[[Civic Religion|世俗公民宗教]]的历史生成与解构后果。
+> - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]]** 论证千年尺度的宏大历史叙事与英雄正典在克服[[Dunbar's Number|邓巴数]]限制、维持文明长期生存中的核心精神纽带功能。

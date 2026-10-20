@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -18,7 +18,9 @@ tags:
 related_concepts:
   - "[[Revolutionism]]"
   - "[[Knowledge Production]]"
+  - "[[Geopolitics]]"
   - "[[Screening Off]]"
+  - "[[Knowledge Power]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Readings of the Global]]"
@@ -38,8 +40,7 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Michael Sadler]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Agendas of Attention
@@ -72,8 +73,8 @@ updated: 2026-10-16
 > **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（现实主义、理性主义、[[Revolutionism\|革命主义]]）的影响，而在[[Knowledge Production\|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 416]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念指向比较教育知识生产中由于底层地缘政治和国际关系设想的不同，导致研究重点呈现系统性偏倚、[[Screening Off\|屏蔽]]和选择性呈现的规律。
-> - **用途** 它帮助研究者批判性地识别特定学术研究“照亮了什么，又遮蔽了什么”，进而解构看似客观的比较研究背后的地缘利益与知识权力分配。
+> - **含义** 该概念指向比较教育知识生产中由于底层[[Geopolitics|地缘政治]]和国际关系设想的不同，导致研究重点呈现系统性偏倚、[[Screening Off\|屏蔽]]和选择性呈现的规律。
+> - **用途** 它帮助研究者批判性地识别特定学术研究“照亮了什么，又遮蔽了什么”，进而解构看似客观的比较研究背后的地缘利益与[[Knowledge Power|知识权力]]分配。
 > - **边界** 它侧重于宏观地缘和[[Epistemology\|认识论]]层次上的[[Discourse|话语]]屏蔽分析，不适合用来解释学者个人微观主观学术兴趣的偶然转变。
 
 > [!citation-card]- 关键表述
@@ -132,7 +133,7 @@ updated: 2026-10-16
 ### 命题类型二　现实主义注意力议程在关注国家竞争借用的同时屏蔽了权力不对称与殖民扩张历史
 
 > [!concept-lens] 实力竞争与殖民盲区
-> 探讨现实主义假设下学科对国家能力的过度聚焦与对政治压迫的视而不见。学者们倾向于揭示现代主义比较工具的地缘政治暗面。
+> 探讨现实主义假设下学科对国家能力的过度聚焦与对政治压迫的视而不见。学者们倾向于揭示现代主义比较工具的[[Geopolitics|地缘政治]]暗面。
 
 > [!claim] Klerides, E.
 > **现代主义工具性** 现实主义注意力议程将“民族国家单位”、“[[Policy Borrowing\|政策借用]]与吸引”及“[[Reference Society\|参考社会]]”设立为在场核心，通过官方教育考察和工业[[Competitiveness|竞争力]]焦虑驱动对外国模式的工具性借用；但同时也使非国家行动者、政策借用背后的强制性权力支配以及比较教育学科自身参与帝国殖民同化和文明化工程的黑暗面沦为彻底的缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])
@@ -174,7 +175,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 注意力议程概念的学理演变
 > - **2000 — 奠定全球阅读基础** [[Robert Cowen\|罗伯特·考恩]]提出“[[Readings of the Global\|阅读全球]]”理念，倡导将全球化教育视作多重文本，奠定了分析学术[[Discourse|话语]]选择性与多样性的前置理论基础。
-> - **2023 — 概念系统引入比较教育** [[Eleftherios Klerides\|克莱里德斯]]引入[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，系统阐述了“注意力议程”的在场与缺席机制，完成了对学科[[Knowledge Production\|知识生产]]底层地缘政治预设的系统解构。
+> - **2023 — 概念系统引入比较教育** [[Eleftherios Klerides\|克莱里德斯]]引入[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，系统阐述了“注意力议程”的在场与缺席机制，完成了对学科[[Knowledge Production\|知识生产]]底层[[Geopolitics|地缘政治]]预设的系统解构。
 > - **2023 至今 — 混合形态与新冷战反思** 学界开始运用该概念反思美乌对抗、美俄对抗下的新地缘危机，探索注意力议程在主权领土回归与核威胁背景下的重新分配。
 
 ---
@@ -202,6 +203,6 @@ updated: 2026-10-16
 > - **[[Dependency Theory\|依附理论]]与去殖民比较教育的议程开辟** 1970 年代新马克思主义学者（如卡诺伊等）采用依附理论，将西方的教育援助和评估体系解构为对边缘国家心智的奴役。去殖民路径进一步致力于打破学科自身的殖民认识型（包括朱利安 1817 年学科奠基方案的帝国扩张烙印），将南南[[Knowledge Exchange\|知识交流]]和原住民认知确立为在场，实现了对传统注意力边界的突破。
 > - **两次世界大战之间的教科书去民族偏见运动** 两次大战之间，国际联盟的国际知识合作组织与北欧协会等致力于通过教科书比较审查，消除历史叙事中的遗漏、歪曲和刻板印象。这一实践服务于塑造适应多边合作的“[[International Mind\|国际心智]]”，标志着理性主义和平政治对学术界注意力在场的首次大规模制度化构建。
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统引入马丁·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 奠定了“[[Readings of the Global\|阅读全球]]”[[Discourse|话语]]变迁与教育转移形态变形的理论脉络。

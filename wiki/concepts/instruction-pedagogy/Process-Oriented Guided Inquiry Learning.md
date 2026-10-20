@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Fullan]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Process-Oriented Guided Inquiry Learning
@@ -284,5 +283,5 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 
 ## 使用此概念的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 评述[[Inquiry-Based Learning\|指导式探究]]，引用 Moog and Spencer（2008）等[[Meta-analysis\|元分析]]，将 POGIL 视为科学教育中高度结构化、能显著降低挂科率的指导式探究典范。

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[School Leadership]]"
   - "[[Tacit Knowledge]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[International Education]]"
@@ -79,14 +80,14 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -121,7 +122,7 @@ journal: Educational Research
 > | **[[Data-Based Decision Making\|基于数据的决策]]**<br>Data-Based Decision-Making (DBDM) | 提供以校内多源数据（输入、过程、背景、结果）为依据，经历目标设定、数据收集、质检分析、改进落实与成效评价的循证反馈机制（Lai and Schildkamp, 2013; Schildkamp and Kuiper, 2010）。（pp. 156–157） |
 > | **[[Research-Informed Teaching Practice\|研究知情教学实践]]**<br>Research-Informed Teaching Practice (RITP) | 提供将外部学术研究与综合实证工具包转译为课堂教学策略的行动框架，阐明研究证据如何提升教师教学应对能力与[[School Leadership\|学校领导力]]（DfE, 2014; Goldacre, 2013）。（pp. 159–161） |
 > | **实践默会智慧与专业特长**<br>Tacit Expertise and Phronesis | 引入 Flyvbjerg (2001) 的专业特长理论，强调数据和外部研究均不能自动替代人类判断，高质量教育决策必然建立在实证信息与教师本土[[Tacit Knowledge\|默会知识]]的深度交融之上。（pp. 158, 160） |
-> | **循证管理与多源证据决策理论**<br>Evidence-Based Management (EBMgt) | 借鉴管理学与医学的跨学科循证决策模型（Barends, Rousseau, and Briner, 2014; Dawes et al., 2005），确立高阶专业决策由实践者经验、外部科学证据与本土组织数据三大支柱共同支撑的准则。（pp. 156, 167） |
+> | **循证管理与多源证据决策理论**<br>Evidence-Based Management (EBMgt) | 借鉴管理学与医学的跨学科[[Evidence-Based Policy-Making\|循证决策]]模型（Barends, Rousseau, and Briner, 2014; Dawes et al., 2005），确立高阶专业决策由实践者经验、外部科学证据与本土组织数据三大支柱共同支撑的准则。（pp. 156, 167） |
 > | **[[School Enquiry Cycle\|证据知情学校与教师改进模型]]**<br>Evidence-informed School and Teacher Improvement (ESTI) | 综合 DBDM 与 RITP 两大[[Paradigm\|范式]]，构建贯穿愿景确立、假设成因、数据收集、质量分析、结论推导、方案搜寻、行动计划与循环评价的八步校本探究闭环。（pp. 165–167） |
 
 这些理论工具相互衔接，共同构成了支撑跨界整合的推理桥梁。（p. 167）

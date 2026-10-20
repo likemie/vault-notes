@@ -9,7 +9,7 @@ aliases:
 summary: "主张心理学与学习科学应聚焦于可观察、可测量的外显行为及其与环境刺激的函数关系，通过强化排程、程序化教学与矫正性反馈控制行为习得，构成了当代实证主义技术理性教学工程与输入—输出评价体系的深层心理学源流"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 48
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -32,13 +32,13 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Intentionality]]"
   - "[[Neo-Taylorism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Gamification]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Research Question]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Socioeconomic Status]]"
@@ -60,7 +60,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Prediction Interval]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[B. F. Skinner]]"
@@ -116,7 +115,7 @@ updated: 2026-10-20
 > - **1963 — 格拉泽创立[[Criterion-Referenced Test|标准参照测验]]** 提出以行为表现是否达到绝对胜任标准为判准的标准参照测验（CRM），取代依据常模群体排名的相对评价，奠定现代课程标准胜任力评价基础。
 > - **1980/1982 — [[Herbert Walberg|沃尔伯格]]学派对强化技术的[[Meta-analysis|元分析]]综合** 莱萨科夫斯基与沃尔伯格（Lysakowski & Walberg, 1980, 1982）针对课堂强化与矫正性线索展开大规模一阶元分析，分别录得 $d = 1.17$ 与 $d = 0.97$ 的超高[[Effect Size|效应量]]，为行为控制技术提供了大[[Sample Size Determination|样本量]]化证据支撑。
 > - **1987/2009 — [[John Hattie|哈蒂]]将行为控制模型植入可见学习** 约翰·哈蒂（[[John Hattie]]）在 1987 年学生学习模型中明确依凭格拉泽理论，在《[[Visible Learning|可见的学习]]》中将[[Feedback|教学反馈]]狭义界定为修正偏差的后置刺激（$d = 0.73$），使行为主义控制逻辑成为循证教学评价的核心理论基石。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
-> - **2021 — [[Critical Theory|批判理论]]对行为主义[[Technical Rationality|技术理性]]的系统解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）确凿证实哈蒂实证综合的思想底色属于斯金纳—格拉泽行为主义谱系与[[Technical Rationality|技术理性]]，揭示其抽离师生[[Intentionality|主体意向性]]并演化为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具的机制。
+> - **2021 — [[Critical Theory|批判理论]]对行为主义[[Technical Rationality|技术理性]]的系统解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）确凿证实哈蒂实证综合的思想底色属于斯金纳—格拉泽行为主义谱系与[[Technical Rationality|技术理性]]，揭示其抽离师生[[Intentionality|主体意向性]]并演化为[[Neo-Taylorism|新泰勒主义]]规训工具的机制。
 
 ---
 
@@ -280,7 +279,7 @@ updated: 2026-10-20
 > [!critique]- 批评索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统解构可见学习底层的斯金纳—[[Robert Glaser|格拉泽]]行为主义谱系，揭示其如何通过[[Construct|构念]]混淆拼凑虚高反馈效应，并将复杂育人实践异化为新泰勒主义控制工具。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用[[Jürgen Habermas|哈贝马斯]]生活世界理论与舍恩技术理性批判，指出行为主义教育心理学将充满意向性的鲜活师生客体化为因果[[Variable|变量]]，充当官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判当代算法教学与[[Gamification|游戏化]]教育平台对斯金纳操作反射排程的机械复活，揭示其以行为[[Disciplina and Doctrina|规训]]替代内在教养（[[Bildung]]）的异化风险。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判当代算法教学与[[Gamification|游戏化]]教育平台对斯金纳操作反射排程的机械复活，揭示其以行为规训替代内在教养（[[Bildung]]）的异化风险。
 
 ---
 

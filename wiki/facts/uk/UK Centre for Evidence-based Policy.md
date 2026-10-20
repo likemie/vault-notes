@@ -8,7 +8,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
   - theme/evidence-based-policy
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[What Works Movement]]"
   - "[[Evidence-Based Education]]"
 related_facts:
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # UK Centre for Evidence-based Policy
@@ -41,7 +42,7 @@ updated: 2026-10-16
 > - **隶属** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）
 > - **定位** 推动政策制定中的研究[[Research Utilization\|证据使用]]
 
-英国循证政策中心（UK Centre for Evidence-based Policy）是 ESRC 在[[What Works Movement|循证政策运动]]中的制度布局之一，与 [[EPPI-Centre]] 和 CEM 中心并列为 2000 年前后英国[[Evidence-Based Education|循证教育]]研究的核心机构（pp.330–335）。
+英国循证政策中心（UK Centre for [[Evidence-Based Policy-Making|Evidence-based Policy]]）是 ESRC 在[[What Works Movement|循证政策运动]]中的制度布局之一，与 [[EPPI-Centre]] 和 CEM 中心并列为 2000 年前后英国[[Evidence-Based Education|循证教育]]研究的核心机构（pp.330–335）。
 
 ---
 

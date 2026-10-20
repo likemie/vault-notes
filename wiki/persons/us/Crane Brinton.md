@@ -29,12 +29,12 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
+  - "[[Geopolitics]]"
   - "[[Postpositivism]]"
   - "[[Empiricism]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"
@@ -124,7 +124,7 @@ updated: 2026-10-20
 > [!debates] 史学方法论争议
 >
 > > [!axis] 革命统一病理模型 vs 历史事件绝对偶然性
-> > - **传统实证史学家** 批评布林顿将医学病理学的“发烧-危机-痊愈”比喻移植于革命史过于机械，抹杀了各国内部阶级结构、文化传统与地缘政治的巨大殊异性。
+> > - **传统实证史学家** 批评布林顿将医学病理学的“发烧-危机-痊愈”比喻移植于革命史过于机械，抹杀了各国内部阶级结构、文化传统与[[Geopolitics|地缘政治]]的巨大殊异性。
 > > - **比较历史社会学家** 高度评价布林顿开创了结构历史比较的先河，直接启发了后来的巴林顿·摩尔（Barrington Moore）、[[Theda Skocpol|西达·斯考切波]]（Theda Skocpol）以及卡扎米亚斯的比较教育学方法论重建。
 
 > [!influence-path] 影响路径

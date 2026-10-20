@@ -7,7 +7,7 @@ title: "Argument_Popkewitz_2005_Palgrave"
 argument_key: "Argument_Popkewitz_2005_Palgrave"
 argument_display_title: "Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education"
 argument_kind: "edited-volume"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Presence]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Thomas S. Popkewitz]]"
@@ -39,7 +40,7 @@ sources:
   - "[[books/Popkewitz_2005_Palgrave/Popkewitz_2005_Palgrave|Popkewitz_2005_Palgrave]]"
 status: "draft"
 created: "2026-10-11"
-updated: "2026-10-11"
+updated: 2026-10-20
 ---
 
 # Argument_Popkewitz_2005_Palgrave
@@ -81,7 +82,7 @@ updated: "2026-10-11"
 > [!chapter-index] 原文入口
 > - **第 2 章，瑞典自我治理[[Discourse|话语]]中作为[[Epistemology|认识论]]人物的杜威** Dewey as an Epistemic Figure in the Swedish Discourse on Governing the Self。Ulf Olsson; Kenneth Petersson，原书 pp. 39–60。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch02_Olsson_Petersson_Dewey_in_Sweden.txt)。待解读。
 > - **第 3 章，语言作为家园，日内瓦对[[Pragmatic Paradigm|实用主义]]的接受** Langue as Homeland: The Genevan Reception of Pragmatism。[[Daniel Tröhler]]，原书 pp. 61–83。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch03_Trohler_Langue_as_Homeland.txt)。待解读。
-> - **第 4 章，比利时的杜威，现代性的奠酒** Dewey in Belgium: A Libation for Modernity? Coping with His [[Presence]] and Possible Influence。ToM De Coster; Marc Depaepe; Frank Simon; Angelo Van Gorp，原书 pp. 85–109。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch04_DeCoster_et_al_Dewey_in_Belgium.txt)。待解读。
+> - **第 4 章，比利时的杜威，现代性的奠酒** Dewey in Belgium: A Libation for Modernity? Coping with His [[Presence]] and Possible Influence。[[Theory of Mind|ToM]] De Coster; Marc Depaepe; Frank Simon; Angelo Van Gorp，原书 pp. 85–109。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch04_DeCoster_et_al_Dewey_in_Belgium.txt)。待解读。
 > - **第 5 章，葡萄牙新教育话语建构中的杜威与社会义肢** Dewey on Lima or the Social Prosthesis in the Construction of [[New Education Movement|The New Education]] Discourse in Portugal (1925–1936)。Jorge Ramos do Ó，原书 pp. 111–132。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch05_RamosDoO_New_Education_in_Portugal.txt)。待解读。
 
 ### 第三部分，欧洲东南部空间

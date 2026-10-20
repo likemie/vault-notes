@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
   - "[[Bureaucracy]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
@@ -79,7 +80,7 @@ title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -178,7 +179,7 @@ issuing_organization: ""
 > | 考察维度 | 官方公共表象（官网与媒体宣传） | 监管法律事实（ASIC 档案与立法文本） |
 > |---|---|---|
 > | **机构法人性质** | 宣称为各州与联邦教育部部长所有、董事会治理的部委公共机构（ministerial-owned company）。 | 依据联邦《2001年公司法》（Corporations Act 2001）注册成立的担保有限公司（company limited by guarantee）。 |
-> | **法定核心职责** | 聚焦于提炼课堂教学实证证据、支持教师与政策制定者开展循证决策。 | 依据《2020年公共治理、绩效与问责规则》修订案，其法定职责被明确规定为通过与政府、学校、早期教育部门、高教科研部门及慈善组织开展合作来制定国家研究议程。 |
+> | **法定核心职责** | 聚焦于提炼课堂教学实证证据、支持教师与政策制定者开展[[Evidence-Based Policy-Making\|循证决策]]。 | 依据《2020年公共治理、绩效与问责规则》修订案，其法定职责被明确规定为通过与政府、学校、早期教育部门、高教科研部门及慈善组织开展合作来制定国家研究议程。 |
 > | **董事任命标准** | 宣称依靠教育科研与教学实践领域的专家董事会独立选聘。 | 公司章程（Constitution）第 6 条与第 8 条明文规定，董事选任必须具备与慈善界合作（engagement with the philanthropic community）的专业技能与资历。 |
 
 尽管 AERO 获得了联邦与各州政府高达 5000 万澳元的公共财政资助（联邦出资 2500 万，各州与领地联合出资 2500 万），但其特许与慈善界合作及董事选任标准的法条修正，从未在主流媒体上公开披露；这一立法装配将非公立的慈善资本深层锚定在国家教育科研的法定肌理之中（pp. 3, 5）。

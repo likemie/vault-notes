@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 132
+argument_related_count: 133
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[School Leadership]]"
   - "[[Heterogeneity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Tracking]]"
   - "[[Homework]]"
   - "[[Central Question]]"
@@ -408,7 +409,7 @@ updated: 2026-10-20
 > | **政策辐射** | 成为全英格兰超 70% 中学校长分配[[Pupil Premium\|学生津贴]]的法定参考指南 | 消除底层元分析中由于混合不同质量、学段与国别研究而引发的证据[[Heterogeneity\|异质性]]偏误 |
 
 > [!warrant]- 步骤二论证逻辑收束：从黑箱因果效应向机制深耕与通俗决策的跨越
-> 评估设计的演进证明：单纯追求表观效应量的[[Positivism\|实证主义]]黑箱无法服务于复杂的教育实践。唯有以实施与过程评估（IPE）澄清因果链条并排除实施失败假象、以国家学生数据库（NPD）客观统考筑牢测量效度底线，并依托[[Meta-meta-analysis\|二阶元分析]]与通俗转化工具包直接辅助基层，量化试验才能真正从单纯的学术证明工具演进为具有现实指导价值的循证决策支持体系。（pp. 53–55）
+> 评估设计的演进证明：单纯追求表观效应量的[[Positivism\|实证主义]]黑箱无法服务于复杂的教育实践。唯有以实施与过程评估（IPE）澄清因果链条并排除实施失败假象、以国家学生数据库（NPD）客观统考筑牢测量效度底线，并依托[[Meta-meta-analysis\|二阶元分析]]与通俗转化工具包直接辅助基层，量化试验才能真正从单纯的学术证明工具演进为具有现实指导价值的[[Evidence-Based Policy-Making|循证决策]]支持体系。（pp. 53–55）
 
 ---
 

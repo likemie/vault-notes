@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 67
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -89,7 +89,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Systematic Review]]"
   - "[[Case Study]]"
 related_persons:
@@ -99,7 +98,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Scaffolding
@@ -331,7 +330,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]双轨干预支架矩阵（技术提示支架 + 教学法支架），系统阐明支架在促进学习者[[Epistemic Stances\|认识立场]]从绝对主义向评价主义演进、防范算法幻觉与维系人类[[Epistemic Agency\|认识主体性]]中的决定性机制。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]][[Inquiry-Based Learning\|指导式探究]]的实证全景，引用 Lazonder and Harmsen (2016) 确证支架干预提升半个标准差及六类指导形式等价性，并辨析先验知识调节与多重支架过载边界。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 赋能学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，证实技术作为外部认知脚手架具备中等显著效益（$g = 0.609$），并实证揭示 8–16 周倒 U 型周期所蕴含的支架渐隐必要性。

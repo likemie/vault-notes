@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 95
+related_count: 93
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Falsification]]"
   - "[[Epistemic Virtues and Vices]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Social Deafness]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
@@ -84,7 +83,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -186,7 +184,7 @@ updated: 2026-10-20
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、科学定律或技术原型在特定领域的颠覆性与实用价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、同行评议机制、科研资助生态对高风险探索的包容或压制。
 > - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**与**技能成分**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
-> - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义[[Disciplina and Doctrina|规训]]下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+> - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义规训下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **反从众与[[Social Deafness|社交失聪]]（Counter-Conformity & Social Deafness）** 颠覆性创造力在微观心理上要求个体具备抵抗群体一致性从众压力的认知绝缘性，如莫奈因白内障促成抽象表现主义、贝多芬因耳聋开创新声响世界一般，保持对世俗舆论与同侪非难的钝感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 137–138)]]
 > - **从无到有的创造傲慢与抵抗性张力（Hubris of Creation & Creative Friction）** 突破性创造要求从认知幼年的模仿中决裂，具备坚信既有方案不足的创造傲慢，并依赖抵抗性师生碰撞与组织创造性摩擦冲破平庸合群的牢笼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–159)]]
 > - **自愿自我约束与长周期托管（The Odysseus Constraint & Long-term Stewardship）** 真正的长周期创造力并非随波逐流的随意调头灵活性，而是如奥德修斯自缚船桅以抗拒塞壬诱惑一般，通过对单一愿景的执着承诺与自愿限制选择空间，抵御外界与资本市场的短期噪音；同时结合面向数十年乃至数百年的长程资产托管哲学，为前沿突破提供持久支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–209, 212)]]

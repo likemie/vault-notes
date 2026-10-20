@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Case Study]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Progressive Education
@@ -230,7 +229,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] — 通过 Dewey 1928 年访问苏联及与 Shatskii 的接触，对比美式民主进步教育与苏俄社会主义进步教育实验的共鸣与裂隙。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 以[[John Dewey\|杜威]]在中国 100 年的四次[[Recontextualization\|再脉络化]]为例，阐述进步教育思想在跨国转移中被本土意识形态议程选择性挪用与重写的机制。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心/进步教育探究法被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。

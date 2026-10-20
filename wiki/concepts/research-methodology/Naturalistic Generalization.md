@@ -6,7 +6,7 @@ aliases:
 summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Random Sampling]]"
   - "[[Quantitative Research]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Naturalistic Generalization
@@ -99,5 +98,5 @@ LeCompte and Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性�
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 阐述[[Qualitative Research\|质性研究]]的概括性问题：Larsson 的三种推理形式、可比较性与可翻译性标准、可转移性概念及 Wolcott 的观点。

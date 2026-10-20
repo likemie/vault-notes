@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的“认知脱钩”求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 91
+related_count: 90
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
   - "[[Educational Privatisation]]"
+  - "[[Discursive Field]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Cognitive Decoupling]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Research Question]]"
   - "[[Buen Vivir]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Analytical Stance]]"
   - "[[Subjectivism]]"
@@ -70,7 +70,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Ideology Critique]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
@@ -254,7 +253,7 @@ updated: 2026-10-20
 > **政治中立呼吁的意识形态饱和性** 在充满阶级压迫与不平等的社会中，呼吁“价值中立”的研究由于拒绝反思制度性压迫，本质上就是意识形态饱和的；这种研究通过假装天真与无偏见，起到了阻遏激进变革、维系现状（Status Quo）的保守政治功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 29)]]
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Educational Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的话语空间。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 73, 77–78)]]
+> **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Educational Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的[[Discursive Field|话语空间]]。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] & Kazamias, A. M.
 > **实证“价值中立”作为资本主义阶级再生产的意识形态借口** 马丁·卡诺伊（Carnoy, 1983）从新马克思主义批判视角指出，战后主流实证学者标榜的“价值中立”是一种极具欺骗性的政治拟态；实证派将教育研究窄化为个体理性选择、技术效率与社会均衡，自诩不偏不倚，却在根本上默认了资本主义生产关系与国家阶级统治的合理性；这种所谓中立的模型实质上充当了一种“意识形态借口”（ideological alibi），掩盖了教育体系在资本积累与劳动力阶级再生产中的内在制度性压迫。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
@@ -345,7 +344,7 @@ updated: 2026-10-20
 > > 争论焦点在于：[[Evidence-Based Education|循证教育]]中的干预效果能否脱离价值判断单独存在？
 > > 
 > > - **循证教育推动者** 坚称 [[Randomised Controlled Trials|RCT]] [[Effect Size|效应量]]是纯粹客观的中立证据，能够科学指引最优教学实践。
-> > - **[[Critical Pedagogy|批判教育学]]者** 指出“有效性”纯属关系性概念；抽空了“何为[[Buen Vivir|美好生活]]与公平教育”的前提，所谓中立证据便沦为[[Disciplina and Doctrina|规训]]师生的技术暴力。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
+> > - **[[Critical Pedagogy|批判教育学]]者** 指出“有效性”纯属关系性概念；抽空了“何为[[Buen Vivir|美好生活]]与公平教育”的前提，所谓中立证据便沦为规训师生的技术暴力。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
 > 
 > > [!axis] 价值中立客观神话 vs 政治[[Social Science as Legitimation Alibi|合法化借口]]（Alibi）与意识形态遮蔽
 > > 争论焦点在于：价值中立是否仅是纯粹的学术规范，还是充当了统治权力和资本再生产的技术官僚免责屏障？

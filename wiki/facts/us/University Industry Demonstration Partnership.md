@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -49,7 +49,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"

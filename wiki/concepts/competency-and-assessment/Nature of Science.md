@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Critical Review]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons:
@@ -72,7 +71,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nature of Science
@@ -233,6 +232,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 在系统反驳[[Direct Instruction\|直接教学]]绝对优越论的综述中，确立科学本质理解与[[Epistemic Practices\|认识论实践]]作为衡量[[Inquiry-Based Learning\|探究式学习]]独特循证价值的核心支柱。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 在[[Epistemic Cognition\|认识论认知]]干预[[Meta-analysis\|元分析]]中明确界定科学本质（宏观哲学与陈述性观念）与认识论认知（动态认知过程）的理论分野，系统排除单纯 NOS 研究以维护[[Construct\|构念]]纯度。

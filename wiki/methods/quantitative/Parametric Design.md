@@ -7,7 +7,7 @@ summary: "真实验设计的变体，将参与者随机分配到自变量水平�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -30,12 +30,11 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Pilot Testing]]"
   - "[[Sample Size Determination]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-10-20
 ---
 # Parametric Design
 
@@ -100,5 +99,5 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 以阅读干预按阅读能力分四组+控制组的示例，系统介绍参数设计的逻辑和适用场景。

@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_EducRes"
 argument_key: "Argument_Nelson_2017_EducRes"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Boundary Spanner]]"
   - "[[School Leadership]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Problem Finding]]"
   - "[[Knowledge Production]]"
   - "[[Big Ideas]]"
@@ -323,7 +324,7 @@ updated: 2026-10-20
 
 > [!case] 案例七：研究-实践伙伴关系（RPP）感知影响的测量探索与类型学（Wentworth et al., 2017）
 > 美国加州教育伙伴、西北教育与巴尔的摩教育研究联盟团队针对 RPP 影响测量展开深度攻关：
-> 1. **RPP 影响问卷开发** 针对美国教育情境开发专用调查工具，量化[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的感知影响。
+> 1. **RPP 影响问卷开发** 针对美国教育情境开发专用调查工具，量化[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者[[Evidence-Based Policy-Making|证据本位决策]]的感知影响。
 > 2. **解构影响构成** 借鉴 Cynthia Coburn 与 [[National Center for Research in Policy and Practice\|NCRPP]] 的理论框架，主张不能将影响视为黑箱，必须将其细致拆解为促成最终改变的阶段性成果链条。
 > 3. **情境解释的决定性** 强调成果的测量与解读高度依赖特定制度与文化情境，不能脱离具体背景做生硬的跨校比较。（p.132）
 

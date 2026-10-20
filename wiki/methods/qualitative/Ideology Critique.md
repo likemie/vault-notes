@@ -6,9 +6,9 @@ summary: "批判理论的核心质性方法论，通过反思实践揭示社会�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 39
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - method/critical
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Hidden Curriculum]]"
   - "[[Reliability]]"
   - "[[Problem-Posing Education]]"
@@ -50,7 +49,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -124,7 +122,7 @@ updated: 2026-10-20
 > [!proc] Smyth 的四阶段平行反思框架（Smyth, 1989）
 > 1. **描述（Describe）** 我在做什么？（What am I doing?）记录教育实践中的真实行为。
 > 2. **释义（Inform）** 这意味着什么？（What does it mean?）揭示教学行为背后的隐性理念。
-> 3. **对抗（Confront）** 我如何变成这样的？（How did I come to be like this?）探究历史、权力与体制性因素如何[[Disciplina and Doctrina|规训]]了自身习惯。
+> 3. **对抗（Confront）** 我如何变成这样的？（How did I come to be like this?）探究历史、权力与体制性因素如何规训了自身习惯。
 > 4. **重构（Reconstruct）** 我如何以不同方式做事？（How might I do things differently?）构想摆脱异化与支配的替代性实践方案。
 
 ### 质性方法模块

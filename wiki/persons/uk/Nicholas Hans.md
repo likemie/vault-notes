@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 46
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Educational Meliorism]]"
   - "[[Empiricism]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Scientific Paradigm]]"
   - "[[Construct]]"
   - "[[Protean Episteme]]"
@@ -48,7 +47,6 @@ related_concepts:
   - "[[Democratic Education]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
 related_instruments: []
@@ -237,7 +235,7 @@ updated: 2026-10-20
 卡扎米亚斯进一步将汉斯置于比较教育[[Knowledge Production|知识生产]]代际演进与“普罗透斯式认识型”的宏大谱系中，阐明其广义教育科学定位与历史-哲学学派特质。
 
 > [!citation-card] Kazamias论汉斯的广义教育科学与第二代历史-哲学传统
-> 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的[[Empiricism|唯方法论主义]]（methodologism）与去情境化实证量化[[Disciplina and Doctrina|规训]]提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
+> 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的[[Empiricism|唯方法论主义]]（methodologism）与去情境化实证量化规训提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
 >
 > *...comparative education as Vergleichende Erziehungswissenschaft, part of a wider science of education rooted in the German Geisteswissenschaften tradition, combining historical and social-scientific rationales for educational meliorism... [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a)]]*
 

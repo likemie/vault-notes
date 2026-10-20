@@ -34,6 +34,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Global Education Reform Movement]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Competitiveness]]"
   - "[[Creativity]]"
   - "[[Theoretical Perspective]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Ewald Terhart]]"
   - "[[John Hattie]]"
@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Performance Pay
@@ -234,7 +234,7 @@ updated: 2026-10-17
 > > - **[[Argument_Hattie_2010_NZJES\|Hattie (2010)]]** 认为质疑根据专业水平差异付酬是不合理的，教师已然按工龄差异付酬，探索公正的专业表现评估是提高职业尊严的正当尝试。
 > > - **[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]** 认为任何形式的绩效工资都会在教师群体内部制造零和博弈，剥夺弱势班级教师的获得感，从而不可避免地摧毁基于关爱、支持与容错的专业学习社群。
 >
-> > [!axis] 科学循证决策 vs 意识形态驱动的[[Policy Borrowing\|政策借用]]
+> > [!axis] 科学[[Evidence-Based Policy-Making|循证决策]] vs 意识形态驱动的[[Policy Borrowing\|政策借用]]
 > > 争论焦点在于推行绩效工资究竟是依据跨国最佳实践，还是政客推行私有化与削弱教师工会的政治手段。
 > >
 > > - **政策官方视角（如 [[Michael Gove]]）** 声称以国际 [[PISA]] 优秀系统（如上海）和[[OECD\|经合组织]]分析为依据，证明重奖卓越教师是提高[[Competitiveness|国家竞争力]]的客观规律。
@@ -279,7 +279,7 @@ updated: 2026-10-17
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从 [[Visible Learning\|可见的学习]] [[Theoretical Perspective\|理论视角]]出发，系统批判绩效工资对学校休息室[[Peer-Supported Learning|同伴文化]]、容错反思与教学协作生态的破坏。
 > - [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。

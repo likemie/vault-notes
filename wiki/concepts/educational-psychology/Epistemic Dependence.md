@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_theories:
 related_methods:
   - "[[Lateral Reading]]"
   - "[[Triangulation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hardwig]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Epistemic Dependence
@@ -238,5 +237,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** — 运用批判整合性综述系统界定人工智能中介学习中的认识依赖[[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立以关系性[[Epistemic Agency\|认识主体性]]为导向的教育设计与制度治理体系。

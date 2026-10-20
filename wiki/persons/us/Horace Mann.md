@@ -7,7 +7,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,8 +43,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
 related_theories:
   - "[[Situative Perspective]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"

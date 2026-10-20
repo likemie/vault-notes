@@ -10,9 +10,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2000–至今"
 initiator_organization: "National Science and Technology Council"
@@ -24,8 +24,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Refined Mastery]]"
   - "[[Megascience Installations]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[National Science and Technology Council]]"
   - "[[National Science Foundation]]"

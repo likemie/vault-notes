@@ -8,7 +8,7 @@ summary: "通过媒介（如虚拟世界中的化身）让个体外化自我、�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -50,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Projection Technique
@@ -180,5 +179,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 以 Martin（2010）为例展示在[[Virtual World\|虚拟世界]]中用投射技术收集青少年价值观；儿童访谈中的经典投射技术见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Ch. 21]]。

@@ -49,6 +49,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
@@ -85,7 +86,7 @@ title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -310,7 +311,7 @@ issuing_organization: ""
 
 #### 2. 教育科研供给侧制约：学段空白、构件混杂与情境迁移衰减
 
-循证决策无法落实的关键堵点不仅在需求端，更在科研供给端。
+[[Evidence-Based Policy-Making|循证决策]]无法落实的关键堵点不仅在需求端，更在科研供给端。
 
 > [!challenges] 教育实证科研供给侧的三重结构性不足
 > - **目标学段实证研究全面断档** 样本学校采购的教育实践中，有多达 26 项实践在相关学段（小学、初中或高中）根本检索不到任何实证研究；学区中心办公室项目中有 7 项实践在部分学段无证据，5 项实践在全学段毫无证据。（p. 177）

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Agile Governance]]"
   - "[[Distributed Agency]]"
   - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Directionality of Innovation]]"
   - "[[Advance Market Commitments]]"
   - "[[Market Shaping and Creating]]"
@@ -58,8 +59,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
@@ -102,7 +102,7 @@ updated: 2026-10-20
 >
 > | 比较维度 | 传统技术工程使命（Cold War Moonshots） | 21 世纪重大社会挑战（Societal Grand Challenges） | AI 与前沿科学重大挑战（AI-Era Grand Challenges） |
 > |:---|:---|:---|:---|
-> | **核心驱动力** | 地缘政治竞争、军事安全防御、国家威望展示。 | 生态可持续性、公共健康福祉、包容性社会转型。 | 突破复杂科学未知边界、重构国家核心生产力与产业主权。 |
+> | **核心驱动力** | [[Geopolitics\|地缘政治]]竞争、军事安全防御、国家威望展示。 | 生态可持续性、公共健康福祉、包容性社会转型。 | 突破复杂科学未知边界、重构国家核心生产力与产业主权。 |
 > | **问题性质** | 结构清晰、边界封闭的物理与机械极限工程。 | 涉及价值冲突、利益博弈与生活方式的[[Wicked Problem\|棘手问题]]。 | 具有海量组合搜索空间的复杂高维科学与工程难题。 |
 > | **主体结构** | 高度集中；依赖单一国家机构与权威总指挥。 | [[Distributed Agency\|分布式主体]]；公私部门、社会组织与公众社群协同。 | 跨部门国家实验室平台（ASSP）、工业联合体与全球开源社区。 |
 > | **探索机制** | 垂直线性指令分解与自上而下科层推进。 | 多技术路线并行试点与底层政策自适应调整。 | 盲测基准竞技（CASP）、闭环自主实验与[[Pull Mechanisms for Innovation\|拉动式奖金竞赛]]。 |

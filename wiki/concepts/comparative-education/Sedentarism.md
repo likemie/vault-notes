@@ -7,7 +7,7 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Transiency]]"
   - "[[Discourse]]"
   - "[[Temporalization of Space]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Boarding Schools]]"
   - "[[Migrant Children]]"
   - "[[Variable]]"
@@ -32,7 +31,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -89,7 +87,7 @@ updated: 2026-10-20
 > - **定居基准的规范化（Normalization of Settlement）** 将稳定的地理扎根预设为主体健全发育、公民资格确认与道德责任承担的必要前置条件。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 > - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（[[Transiency]]）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 > - **精英与底层流动的阶层双标（Class-Bifurcated Mobility Coding）** 文化精英跨越国界的自决漫游被加冕为面向未来的国际化美德，而弱势群体的迁徙则被判定为亟待管制的社会风险。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
-> - **同化式空间[[Disciplina and Doctrina|规训]]技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断[[Migrant Children|流动儿童]]原有的身体移动习性，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> - **同化式空间规训技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断[[Migrant Children|流动儿童]]原有的身体移动习性，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!logic-map]- 定居主义意识形态在教育系统中的运作逻辑
 > ```mermaid
@@ -123,7 +121,7 @@ updated: 2026-10-20
 
 ### 命题二　定居主义是国家推动强制定居化教育与同化非定居族群的意识形态支柱
 
-> [!concept-lens] 国家定居化工程与族群[[Disciplina and Doctrina|规训]]维度
+> [!concept-lens] 国家定居化工程与族群规训维度
 > 揭示民族国家为何将传统游牧与大篷车漫游社群视为必须消灭的异质空间力量，以及正规学校在此过程中充当的同化工具角色。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] & Stolpe, I.

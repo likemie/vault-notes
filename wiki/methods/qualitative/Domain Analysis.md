@@ -8,7 +8,7 @@ summary: "质性数据与内容分析中将离散分析单元与微观编码归�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Qualitative Codebook]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Domain Analysis
@@ -279,7 +278,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在质性数据分析七步框架中将领域分析确立为跨越孤立编码与理论推论的组织枢纽（Ch. 11），并在[[Content Analysis\|内容分析]]中系统整合 Spradley 的符号语义关系与多层归并规程（Ch. 30）。
 
 ---

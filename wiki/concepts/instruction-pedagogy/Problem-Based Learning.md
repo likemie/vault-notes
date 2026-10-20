@@ -19,6 +19,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Project-Based Learning]]"
+  - "[[Epistemology]]"
   - "[[Wicked Problem]]"
   - "[[Literature Search]]"
   - "[[Constructive Alignment]]"
@@ -29,12 +30,12 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Open-Mindedness]]"
-  - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Source Evaluation]]"
   - "[[Metacognition]]"
+  - "[[SOLO Taxonomy]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
@@ -66,7 +67,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -85,7 +85,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Problem-Based Learning
@@ -106,7 +106,7 @@ updated: 2026-10-19
 > - 不排斥知识教学 — 精心设计的问题应当使学生覆盖课程所需内容，并把知识用于工作情境。知识覆盖与应用方式都属于设计目标。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, p. 71)]]
 > - 不等于无结构发现 — 问题过度开放会使新手缺少推理支点，过度规定步骤又会取消搜索概念工具和选择应用路径的机会。[[Argument_Hattie_2015_SOTLP\|(Perkins, 2014, as cited in Hattie, 2015b, p. 86)]]
 > - 不等于 **[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning）** — 两者都可能采用[[Constructivist Paradigm\|建构主义]]学习观。PBL 以待解决的问题组织活动；芬兰现象本位学习还包含生活世界、具身经验、跨学科教化和教学论传统。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 2–8)]]
-> - 不等于 **[[Project-Based Learning\|项目式学习]]（Project-Based Learning）** — 两者常共享“PBL”缩写与建构主义认识论基础。问题本位学习以“[[Wicked Problem|劣构问题]]解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
+> - 不等于 **[[Project-Based Learning\|项目式学习]]（Project-Based Learning）** — 两者常共享“PBL”缩写与建构主义[[Epistemology|认识论]]基础。问题本位学习以“[[Wicked Problem|劣构问题]]解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
 
 > [!citation-card]- PBL 的定义
 > PBL 是一种基于经验的方法，通过学习对有意义问题的调查、解释与解决来促进学习。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 952)]]
@@ -249,7 +249,7 @@ updated: 2026-10-19
 > **缺乏程序支架的 PBL 在复杂[[Epistemology\|认识论]]任务中成效受限** 在针对[[Epistemic Cognition\|认识论认知]]与高阶[[Academic Achievement\|学业成就]]的一阶[[Meta-analysis\|元分析]]中，基于问题的学习作为干预框架所取得的促进效应较为微弱且未达统计显著，显著落后于明确讲授探究规程的[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]。元分析证实，面对多文本冲突与劣构争议情境，单纯呈现真实问题而不提供显性认知与[[Metacognition\|元认知]]支架，容易导致学生在过载的认知负荷中无所适从，印证了 PBL 必须高度依赖结构化支架与过程示范才能发挥实效的理论判断。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
 
 > [!claim] Knudsen, H.
-> **认知进阶错位与盲目提前介入导致 PBL 效能滑坡** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）引述哈蒂对基于问题的学习实证效应量低下的理论解释：依据 [[SOLO Taxonomy|可观察学习结果结构]]（SOLO）认知进阶模型，PBL 是专门用于促进[[Surface and Deep Learning|深层学习]]与知识迁移的高阶工具，无法直接承担表层知识的初始建构功能；然而全球约 90% 推行 PBL 的学校违背认知进阶，在学生尚未具备事实与词汇等表层概念储备时便盲目提前引入自主探究，迫使学生在认知真空中摸索，这一教学程序的严重错位直接导致其在二阶实证综合中测得较低的平均效应量。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
+> **认知进阶错位与盲目提前介入导致 PBL 效能滑坡** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）引述哈蒂对基于问题的学习实证效应量低下的理论解释：依据 可观察学习结果结构（[[SOLO Taxonomy|SOLO]]）认知进阶模型，PBL 是专门用于促进[[Surface and Deep Learning|深层学习]]与知识迁移的高阶工具，无法直接承担表层知识的初始建构功能；然而全球约 90% 推行 PBL 的学校违背认知进阶，在学生尚未具备事实与词汇等表层概念储备时便盲目提前引入自主探究，迫使学生在认知真空中摸索，这一教学程序的严重错位直接导致其在二阶实证综合中测得较低的平均效应量。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 ---
 
@@ -392,13 +392,13 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment\|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis\|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP\|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning\|现象本位学习]]的近缘[[Constructivist Paradigm\|建构主义]]传统，并划定两者的哲学与课程边界。
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 以[[Meta-meta-analysis\|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他[[Framework for Teaching|教学框架]]的[[Effect Size\|效应量]]，实证揭示了缺乏显性[[Scaffolding\|认知支架]]时 PBL 的成效局限。
-> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] 访谈记录哈蒂对 PBL 效应量偏低的认知解释，指出 90% 推行 PBL 的学校因缺乏表层知识铺垫过早引入探究，打乱认知进阶导致效能滑坡。
+> - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] 访谈记录[[John Hattie|哈蒂]]对 PBL 效应量偏低的认知解释，指出 90% 推行 PBL 的学校因缺乏表层知识铺垫过早引入探究，打乱认知进阶导致效能滑坡。
 
 ---

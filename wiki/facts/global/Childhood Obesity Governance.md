@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,8 +28,7 @@ related_concepts:
 related_theories: []
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: medium
 status: draft
 created: 2026-10-03

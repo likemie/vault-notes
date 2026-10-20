@@ -20,6 +20,7 @@ tags:
   - region/uk
   - region/us
 related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Recontextualization]]"
   - "[[Epistemology]]"
   - "[[External Validity]]"
@@ -51,7 +52,6 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Nick Cowen]]"
   - "[[Aristotle]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Nancy Cartwright
@@ -79,7 +79,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** Nancy Cartwright，科学哲学家、英国国家学术院院士（FBA）、欧洲[[Chinese Academy of Sciences|科学院]]院士，杜伦大学（Durham University）哲学系荣休教授、加州大学圣迭戈分校（UC San Diego）特聘教授。她是人文参与科学与社会研究中心（CHESS）的核心领袖。
-> - **核心角色** 当代科学实在论与因果哲学泰斗；将科学[[Philosophical Analysis in Education\|哲学分析]]工具深度介入公共政策与教育循证决策，系统批判纯粹以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为金标准的证据等级制，奠定了证据情境迁移（Evidence Travel）的[[Analytic Framework\|分析框架]]。
+> - **核心角色** 当代科学实在论与因果哲学泰斗；将科学[[Philosophical Analysis in Education\|哲学分析]]工具深度介入公共政策与教育[[Evidence-Based Policy-Making|循证决策]]，系统批判纯粹以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为金标准的证据等级制，奠定了证据情境迁移（Evidence Travel）的[[Analytic Framework\|分析框架]]。
 > - **代表贡献** 提出 RCT 证据外推三阶段模型、因果机制支持性因素理论（Support Factors / INUS 条件），为教育循证实践中抵御“机械剪贴”并确立“情境[[Recontextualization\|再脉络化]]”提供了底层[[Epistemology\|认识论]]。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
 
 > [!citation-card]- 人物定位的关键来源
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 > [!work-line] 主要著作
 > - **2010 — *The limitations of [[Randomised Controlled Trials\|randomized controlled trials]] in predicting effectiveness*** 揭示 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段跃迁困境（it-works-somewhere $\to$ capacity claims $\to$ it-will-work-for-us），阐明未明机制下的外推盲目性。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 10)]]
-> - **2012 — *Evidence-Based Policy: A Practical Guide to Doing It Better*（与 Jeremy Hardie 合著）** 系统建构证据知情政策的实用操作框架，提出支持因素饼图（Support Factor Cakes）与因果作用通路。
+> - **2012 — *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better*（与 Jeremy Hardie 合著）** 系统建构证据知情政策的实用操作框架，提出支持因素饼图（Support Factor Cakes）与因果作用通路。
 > - **2013 — *Knowing what we are talking about: Why evidence doesn't always travel*** 深入论证证据跨情境迁移的边界约束，指出忽视原生地行动理论与依附条件的移植注定失败，成为教育循证研究倡导情境[[Recontextualization\|再脉络化]]的核心参考文献。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 > - **2014 — *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now*（与 [[Nick Cowen]] 合著）** 专为一线教育实践者编写的循证指南，批判教条化的方案忠实度，倡导基于校本特征的[[Creativity\|创造性]]适配。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
 
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle\|学校探究循环]]（[[School Enquiry Cycle]]）中的证据转译协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization\|证据使用]]建构为深度的“因果行动理论调试”。
 > - **跨国政策辩论** 成为跨国批判单一“什么有效”（What Works）治理教条的权威哲学旗帜，与比斯塔（[[Gert Biesta]]）的[[Democratic Education\|民主教育]]学批判形成跨学科共振。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 系统评述卡特赖特哲学在教育中的应用，提出因果角色理论并批判英格兰[[School Inspection\|教育督导]]（[[Ofsted]]）推崇伪科学的历史。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰[[Self-Improving School System\|自我改进学校系统]]研究中，明确征引卡特赖特（Cartwright, 2013）的证据迁移理论，确立教师识别行动理论与支持性因素是防止陷入[[Activity Traps\|活动陷阱]]的必备专业能力。
 

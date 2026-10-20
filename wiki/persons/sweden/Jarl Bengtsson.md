@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "sweden"
 person_region: "sweden"
-person_related_count: 34
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,12 +36,10 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Façade of Rationality]]"
   - "[[Policy Brokerage]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -65,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Jarl Bengtsson
@@ -140,7 +138,7 @@ updated: 2026-10-19
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观[[Competitiveness|竞争力]]的战略核心。
 > - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm\|范式]]被[[World Bank\|世界银行]]、[[EU|欧盟]]委员会（欧委会教育与培训监测框架）以及 [[UNESCO]] 统计研究所（[[UNESCO Institute for Statistics\|UIS]]）全面仿效。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 详尽记录本特森在 1980 年代末如何突破各国外交疑虑，开创 [[International Indicators of Education Systems\|INES]] 指标项目并确立 OECD 生产“可计算世界”的技术神话。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将本特森领导下的 [[Centre for Educational Research and Innovation\|CERI]] 转型确立为 OECD 从技术官僚劳动力预测迈向现代量化[[Policy Brokerage\|政策中介]]的关键枢纽。
 
@@ -162,7 +160,7 @@ updated: 2026-10-19
 > [!debates] 学术争议
 >
 > > [!axis] 人文[[Lifelong Learning\|终身学习]]的背叛：从循环教育沦陷为[[Performance Indicators\|绩效指标]]
-> > 批判学者指责本特森的职业生涯轨迹象征着西方教育界的一场悲剧性妥协：从赋权工人的民主循环教育，退化为[[Disciplina and Doctrina\|规训]]学校的跨国竞争性排名。
+> > 批判学者指责本特森的职业生涯轨迹象征着西方教育界的一场悲剧性妥协：从赋权工人的民主循环教育，退化为规训学校的跨国竞争性排名。
 > >
 > > - **人文主义教育学者** 痛惜 1970 年代富有解放色彩的循环教育构想被 [[OECD]] 彻底埋葬，让位于冷酷冰冷的经济指标。
 > > - **Bengtsson（2008）** 在晚年回忆录中辩护称，在 1980 年代新自由主义全面紧缩的恶劣政治气候下，若无量化指标证明教育的经济价值与质量成果，公立教育预算将在财政部刀刃下遭遇毁灭性削减。

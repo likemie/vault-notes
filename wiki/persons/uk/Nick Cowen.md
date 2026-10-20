@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Causality]]"
   - "[[External Validity]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -54,7 +55,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 ## 简介
 
@@ -99,7 +100,7 @@ updated: 2026-10-15
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Cowen, N., [[Nancy Cartwright\|Cartwright, N.]], Virk, B., & Mascarenhas-Keyes, S. (2015). *Making the Most of the Evidence: Evidence-based policy in the classroom.* CHESS Working Paper No. 2015-03, Durham University. — 通过 22 位教师访谈和[[Literature Review\|文献综述]]，识别 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
+> - Cowen, N., [[Nancy Cartwright\|Cartwright, N.]], Virk, B., & Mascarenhas-Keyes, S. (2015). *Making the Most of the Evidence: [[Evidence-Based Policy-Making|Evidence-based policy]] in the classroom.* CHESS Working Paper No. 2015-03, Durham University. — 通过 22 位教师访谈和[[Literature Review\|文献综述]]，识别 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
 > - Cowen, N. (2019). For whom does 'what works' work? The political economy of [[Evidence-Based Education]]. *Educational Research and Evaluation*, 25(1–2), 81–98. — 以 Tullock [[Tullock's Bureaucracy Theory\|官僚制理论]]解释 EBE 的制度韧性
 > - Cowen, N., Virk, B., Mascarenhas-Keyes, S., & Cartwright, N. (2017). [[Randomised Controlled Trials\|randomized controlled trials]]: How can we know "what works"? *[[Critical Review]]*, 29(3), 265–292.
 > - Cartwright, N., & Cowen, N. (2014). *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now.* CHESS Working Paper.

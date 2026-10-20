@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Policy Mobility]]"
+  - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
@@ -34,7 +35,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stanford School]]"
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 > [!theory-position] 理论定位
 > - **解释对象** 全球化时代民族国家教育政策趋同的动力源泉、超国家组织对主权[[State Educational Sovereignty|国家教育权]]力的渗透机制，以及教育在维系全球资本积累中的结构性功能。
-> - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解跨国教育[[Policy Mobility|政策流动]]背后被遮蔽的资本积累与地缘政治权力关系。
+> - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解跨国教育[[Policy Mobility|政策流动]]背后被遮蔽的资本积累与[[Geopolitics|地缘政治]]权力关系。
 > - **理论类型** 批判政治经济学解释理论与宏观多标度[[Analytic Framework|分析框架]]。
 > - **知识位置** 植根于西方马克思主义批判教育社会学、批判地理学与[[World-Systems Theory|世界体系分析]]传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
 

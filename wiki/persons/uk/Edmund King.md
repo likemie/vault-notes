@@ -9,7 +9,7 @@ summary: "伦敦大学国王学院比较教育学讲座教授，欧洲比较教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Epistemology]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Critical Dualism]]"
   - "[[Typification]]"
@@ -33,11 +32,11 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Knowledge Production]]"
   - "[[Gatekeepers]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Edmund King
@@ -70,7 +69,7 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名比较教育学家，伦敦大学国王学院（King's College London, KCL）比较教育学讲座教授与比较教育研究中心主任，[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）奠基人之一。
 > - **核心角色** 战后英国比较教育[[Policy Science in Comparative Education\|政策科学]]（Policy Science）理解形式的领航人物。米特（[[Wolfgang Mitter]]）指出，金在伦敦大学国王学院开辟了与伦敦教育学院（IOE）并肩的英国学术双子中枢，坚守文化语境主义与历史传统，在 1960–1980 年代与 IOE 的[[Brian Holmes|布赖恩·霍姆斯]]（[[Brian Holmes]]）就假说演绎预测展开长达十余年的[[Epistemology|认识论]]大论辩，构筑了抵御量化实证侵蚀的英格兰理论阵地。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 92–93)]]
-> - **代表贡献** 提出关键决策时刻（critical points of decision）理论；代表作《其他学校与我们》（*Other Schools and Ours*, 1958）风行英语世界数十年；在 1967 年论战中对物理学式实证预测发起[[Epistemology\|认识论]]批判；在 1970 年代英格兰方法论大分裂中以学科元老姿态[[Disciplina and Doctrina\|规训]]新兴社会学视角。
+> - **代表贡献** 提出关键决策时刻（critical points of decision）理论；代表作《其他学校与我们》（*Other Schools and Ours*, 1958）风行英语世界数十年；在 1967 年论战中对物理学式实证预测发起[[Epistemology\|认识论]]批判；在 1970 年代英格兰方法论大分裂中以学科元老姿态规训新兴社会学视角。
 
 > [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论金的政策科学立场与民主权力结盟
 > 金主张比较教育的核心形式是作为政策科学，为决策提供建议。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的民主权力结盟。它假定决策者是理性的，且应当在关键决策时刻寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 333)]]
@@ -89,7 +88,7 @@ updated: 2026-10-16
 > - **1967** **发表反预测长文挑起英格兰实证论辩** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。米特指出，这场交锋深嵌于席卷全欧的[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）之中，折射出金坚守的文化语境传统与霍姆斯[[Critical Dualism|批判二元论]]之间的深刻张力。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
 > - **1968** 出版方法论代表作《比较研究与教育决策》（*Comparative Studies and Educational Decision*），系统确立[[Policy Science in Comparative Education\|政策科学]]与“关键决策时刻”操作框架。
 > - **1970年代初** 领衔大规模跨国后义务教育研究项目（Post-Compulsory Education），为西欧多国政府与国际组织提供宏观政策咨询。
-> - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图[[Disciplina and Doctrina\|规训]]玛格丽特·斯科特福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
+> - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图规训玛格丽特·斯科特福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 > - **2002** 逝世于英国，享年 88 岁。
 
 ---
@@ -105,7 +104,7 @@ updated: 2026-10-16
 >   - **核心关注** 阐明人类行动者的自由意志与社会情境复杂性，否定实证预测作为划界标准的合法性；确立“关键决策时刻”理论。
 > - **1970年代至1980年代 — 跨国后义务教育实证咨询与学科边界守门** 投身大规模跨国政策咨询项目，同时面对社会学与激进学术思潮的冲击，坚决固守传统比较教育学科边界。
 >   - **代表著作** *Post-Compulsory Education* (1974–1975, 两卷本); "The Sociology of Education: A New Approach" (1979); King and Archer (1980). [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
->   - **核心关注** 青年群体学校向工作过渡与技能培训政策；以正统学科权威姿态[[Disciplina and Doctrina\|规训]]跨学科社会学偏离。
+>   - **核心关注** 青年群体学校向工作过渡与技能培训政策；以正统学科权威姿态规训跨学科社会学偏离。
 
 ---
 
@@ -130,9 +129,9 @@ updated: 2026-10-16
 > - **[[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 推动英格兰比较教育从纯人文学科考据走向服务于现代公共治理的决策科学，为战后跨国教育咨询确立了操作框架。
 > - **反唯[[Scientism\|科学主义]][[Epistemology\|认识论]]屏障** 在战后英美[[Scientific Paradigm\|科学范式]]高歌猛进之际，他对物理学[[Determinism\|因果决定论]]与机械预测的清醒反驳，为后续质性、生态与情境化比较研究维系了宝贵的理论空间。
 > - **跨国学会建制化推动** 主持伦敦大学国王学院教研中心，作为[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）与英国学会（BCIES）的核心奠基人，推动了西欧比较教育学术网络的制度化形成。
-> - **学科守门与方法论断裂的历史负资产** 在 1970 年代方法论分裂中对结构社会学的排斥与对阿彻的权威[[Disciplina and Doctrina\|规训]]，被后代批判学者定性为英格兰老一代学人排他固步的历史教训。
+> - **学科守门与方法论断裂的历史负资产** 在 1970 年代方法论分裂中对结构社会学的排斥与对阿彻的权威规训，被后代批判学者定性为英格兰老一代学人排他固步的历史教训。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考证金与霍姆斯围绕科学划界标准与社会预测可行性展开的长年激烈方法论争鸣。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特考察金在伦敦国王学院开辟的学术中枢地位，评析其代表的文化主义传统在 1960–1980 年代与霍姆斯[[Positivism|实证主义]][[Problem Approach|问题法]]之间的认识论博弈。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 批判金在 1970 年代方法论大分裂中试图规训阿彻的学术霸权，并反思其政策科学立场与国家权力的危险结盟。
@@ -141,8 +140,8 @@ updated: 2026-10-16
 
 ## 历史评价
 
-> [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论 1970 年代方法论断裂与[[Disciplina and Doctrina\|规训]]惩罚的历史
-> 考恩指出，1970 年代初的方法论论战是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者的标签。一个标志性事件是金试图以权威姿态去[[Disciplina and Doctrina\|规训]]玛格丽特·斯科特福德·阿彻（King, 1979; King & Archer, 1980）。这场公开的学术规训冲突，暴露了当时以金为代表的英格兰比较教育学界对结构社会学的完全排斥与共鸣缺乏。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
+> [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论 1970 年代方法论断裂与规训惩罚的历史
+> 考恩指出，1970 年代初的方法论论战是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者的标签。一个标志性事件是金试图以权威姿态去规训玛格丽特·斯科特福德·阿彻（King, 1979; King & Archer, 1980）。这场公开的学术规训冲突，暴露了当时以金为代表的英格兰比较教育学界对结构社会学的完全排斥与共鸣缺乏。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 >
 > *The [[1970s Methodology Debates in Comparative Education\|1970s methodology debates]] was a fractured tragedy... A classic event was Edmund King's attempt to discipline Margaret Scotford Archer... confirming the lack of sympathy in that generation of English comparativists for structural sociology.*
 
@@ -162,7 +161,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **英格兰学派双子星与最大论敌** [[Brian Holmes\|布赖恩·霍姆斯]] — 分据伦敦大学国王学院与教育学院，围绕假说-演绎法、社会预测与科学划界展开长达数年的跨学派大论战。
-> - **跨学科论争与[[Disciplina and Doctrina\|规训]]对象** 玛格丽特·斯科特福德·阿彻（Margaret Scotford Archer） — 1979–1980 年金公开试图以传统学科正统权威规训阿彻的教育系统形态社会学，成为 1970 年代方法论断裂的标志性事件。
+> - **跨学科论争与规训对象** 玛格丽特·斯科特福德·阿彻（Margaret Scotford Archer） — 1979–1980 年金公开试图以传统学科正统权威规训阿彻的教育系统形态社会学，成为 1970 年代方法论断裂的标志性事件。
 > - **批判审视者与后辈学者** [[Robert Cowen\|罗伯特·考恩]] — 深入解剖金在[[Policy Science in Comparative Education\|政策科学]]中与权力的结盟，以及规训阿彻对英国比较教育跨学科生态造成的严重创伤。
 > - **历史人文同盟与学术先驱** [[Michael Sadler\|迈克尔·萨德勒]]、[[Nicholas Hans\|尼古拉斯·汉斯]] — 继承萨德勒对文化情境与活的精神的敏感性；汉斯曾长期执教于伦敦大学国王学院，金承继了该机构的深厚人文学统。
 > - **史学评价者与学会同行** [[Wolfgang Mitter]] — 评析金在伦敦大学国王学院的建制贡献及其在欧洲[[Positivism|实证主义]]论争中的文化主义定位。
@@ -186,7 +185,7 @@ updated: 2026-10-16
 > > - **Edmund King（1968 决策理论）** 主张在关键决策时刻为自由民主国家提供政策咨询，确立比较教育的应用价值。（King, 1968）
 > > - **[[Robert Cowen]]（2023 权力批判）** 批评其政策科学立场放弃了知识分子的批判声音，沦为权力的附属品。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 333)]]
 >
-> > [!axis] 传统学科正统[[Disciplina and Doctrina\|规训]] vs 历史社会学跨学科突破
+> > [!axis] 传统学科正统规训 vs 历史社会学跨学科突破
 > > 1970 年代英格兰方法论大分裂的标志性冲突。面对阿彻等青年学者引入结构社会学和形态生成论开创比较教育新格局，金以正统[[Gatekeepers\|守门人]]姿态撰文公开实施学术规训，斥其为偏离传统的越轨之举；这一规训企图最终宣告破产，成为英格兰老一代比较学者对社会学缺乏同情与包容的历史例证。
 > >
 > > - **Edmund King（1979–1980 学科守门）** 试图维护比较教育的人文综合边界，规训阿彻的社会学理论偏离。（King, 1979; King & Archer, 1980）

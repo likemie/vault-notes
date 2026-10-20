@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -72,7 +72,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Intervention Research]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Creativity Training
@@ -432,7 +431,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 开展[[Creativity\|创造力]]领域[[Meta-meta-analysis\|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis\|元分析]]与 124 万人样本，实证确立教育教学干预在所有外部影响因素中具备最高[[Effect Size\|效应量]]（$r = 0.20$）。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 对 29 项研究做[[Three-Level Meta-Analysis\|多层元分析]]：创造力训练效应中等（g = 0.628），2 个月内最佳，言语训练与独立练习效果最显著。
 > - Scott et al. (2004) — 对 70 项创造力训练实验进行系统元分析，确立了基于认知策略的结构化训练具备大效应量促进效能（$d = 0.74$）。

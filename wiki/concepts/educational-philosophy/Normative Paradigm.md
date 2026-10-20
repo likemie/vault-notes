@@ -4,7 +4,7 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,12 +50,11 @@ related_methods:
   - "[[Case Study]]"
   - "[[Causal Modeling]]"
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Normative Paradigm
@@ -202,7 +201,7 @@ updated: 2026-10-17
 
 ## 实证数据
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 界定规范[[Paradigm\|范式]]的两大假定、行为与行动的[[Ontology\|本体论]]分野，并与[[Interpretive Paradigm\|诠释范式]]对照；全书展示其在调查与[[Experimental Research\|实验研究]]中的运用。
 
 ---

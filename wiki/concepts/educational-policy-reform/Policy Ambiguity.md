@@ -17,6 +17,7 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Surplus of Evidence]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
@@ -49,7 +50,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John W. Kingdon]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Policy Ambiguity
@@ -73,7 +73,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **政策歧义性（Policy Ambiguity）** 是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的循证决策，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑[[Discourse|话语]][[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **政策歧义性（Policy Ambiguity）** 是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的[[Evidence-Based Policy-Making|循证决策]]，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑[[Discourse|话语]][[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向决策者所处的情境具有多重、流动且相互竞争的意义解释，不存在唯一的客观问题定义。
@@ -214,5 +214,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在教育治理 2.0 框架下系统阐述政策歧义性，揭示信息过载时代国际组织如何将数字作为[[Façade of Rationality\|理性表象]]的[[Scaffolding\|脚手架]]，为决策者提供政治叙事空间。

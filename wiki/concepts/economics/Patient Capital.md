@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 54
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -77,7 +77,6 @@ related_arguments:
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 confidence: high
 status: active

@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Descriptive Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Claude Lévi-Strauss]]"
   - "[[Fazal Rizvi]]"
@@ -82,7 +81,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pierre Bourdieu
@@ -204,7 +203,7 @@ updated: 2026-10-16
 > - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构。
 > - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构[[OECD|经合组织]]将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将习性与[[Cultural Capital\|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。

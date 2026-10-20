@@ -32,14 +32,15 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Time-Space Compression]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Shadow State]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Popular Education]]"
   - "[[Research Question]]"
   - "[[Return on Investment]]"
   - "[[Educational Decentralization]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
+  - "[[Geopolitics]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
 related_theories:
@@ -51,7 +52,6 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -95,7 +95,7 @@ updated: 2026-10-20
 > - **提出者与原始文本** 杰里米·布雷彻（Jeremy Brecher）、蒂姆·科斯特洛（Tim Costello）与布伦丹·史密斯（Brendan Smith）在其经典著作 *Globalization from Below: The Power of Solidarity*（2000）中系统确立了草根跨国抗争理论；[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2005, 2009）将其系统引入比较教育研究，建构了教育改革发起方位与目标取向的双轴四象限[[Analytic Framework|分析框架]]。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Arnove, 2005, 2009, pp. 113–114, 引自 Arnove, 2009)]]
 > - **原初问题** 20 世纪 90 年代以来，[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）、[[World Bank|世界银行]]（World Bank, WB）与跨国资本推动教育全面商品化与外包，各国外围劳工、乡村青年与原住民群体面临空前的阶层分化与公共教育权利剥夺，亟需解释分散的反全球化浪潮与教育抗争的理论[[Paradigm|范式]]。
 > - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的[[Time-Space Compression|时空压缩]]概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴[[Stanford School|斯坦福学派]][[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化[[Discourse|话语]]资源的论断。
-> - **形成路径** 从 1999 年西雅图抗议与跨国劳工维权等经验现象出发，阿诺夫等学者打破了将教育改革局限于“主权国家官方政策转移”的传统视野，将民间跨国网络提炼为与官方资本[[Disciplina and Doctrina|规训]]抗衡的替代极，构筑了自下而上全球化教育分析模型。
+> - **形成路径** 从 1999 年西雅图抗议与跨国劳工维权等经验现象出发，阿诺夫等学者打破了将教育改革局限于“主权国家官方政策转移”的传统视野，将民间跨国网络提炼为与官方资本规训抗衡的替代极，构筑了自下而上全球化教育分析模型。
 
 ### 后续修订与扩展
 
@@ -149,7 +149,7 @@ updated: 2026-10-20
 > - **[[Research Question|研究问题]]** 适合探究各阶层教育改革倡议的发起动力、价值取向冲突、跨国草根反抗的组织模式以及边缘群体抗衡新自由主义的微观能动性机制。
 > - **分析对象与单位** 跨国社会运动网络、教师工会倡议联盟、原住民社区自治教育项目、跨国抗争文本以及地方教育政策博弈事件。
 > - **需要的材料** 改革政策制定文本、工会与 NGO 抗议声明、跨国联合倡议书、数字通信动员记录、参与式观察田野日志与行动者访谈。
-> - **解释目标** 判别具体教育变革属于自上而下的市场[[Disciplina and Doctrina|规训]]还是自下而上的正义赋权，揭示改革背后所服务的基础利益阶层与替代潜力。
+> - **解释目标** 判别具体教育变革属于自上而下的市场规训还是自下而上的正义赋权，揭示改革背后所服务的基础利益阶层与替代潜力。
 
 > [!theory-framework] [[Robert Arnove|阿诺夫]]教育改革双轴分析矩阵
 >
@@ -233,7 +233,7 @@ updated: 2026-10-20
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国基层社会运动、教师工会维权、原住民自治教育保护以及由非国家行动者发起的批判性跨国网络研究。
 > - **成立条件** 基层行动者必须具备最低限度的信息通信渠道接入能力（跨越数字鸿沟），且能够维持起码的结社与跨国通信自由。
-> - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见地缘政治回归与民粹民族主义对跨国草根团结的严重撕裂。
+> - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见[[Geopolitics|地缘政治]]回归与民粹民族主义对跨国草根团结的严重撕裂。
 > - **转化困难** 流散空间中的网络声援与点赞动员难以直接折算为现实中的制度化立法成果；在缺乏超国家主权执法机制的前提下，草根抗争成果容易被既得利益阶层反扑逆转。
 > - **不能直接推出** 不能单凭出现了自下而上的草根网络，就直接推论资本主义世界体系的终结或全球教育平等的必然实现。
 

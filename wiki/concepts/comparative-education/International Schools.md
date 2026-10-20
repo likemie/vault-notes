@@ -6,15 +6,16 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
 - region/global
 - level/k12
 related_concepts:
   - "[[Boarding Schools]]"
+  - "[[International Branch Campus]]"
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
   - "[[Policy Brokerage]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Schools
@@ -77,7 +78,7 @@ updated: 2026-10-16
 > [!boundary] 学校类型、课程类型与办学关系
 > - **与[[Boarding Schools|寄宿学校]]的区别** 寄宿学校通常位于学校所属国家，海外学生跨境前往就读；国际学校设在学生家庭居住国，为当地的跨国或多国共同体提供教育。
 > - **与本地公立学校的区别** 国际学校通常收取学费，采用国际课程或外国国家课程，并常以英语或多种语言教学；本地公立学校主要由政府资助并遵循本国课程。
-> - **与海外分校的区别** 海外分校通常指大学在另一国家设立的高等教育机构，例如[[Education City Doha|多哈教育城]]内的大学分校；国际学校主要覆盖中小学阶段。
+> - **与[[International Branch Campus|海外分校]]的区别** 海外分校通常指大学在另一国家设立的高等教育机构，例如[[Education City Doha|多哈教育城]]内的大学分校；国际学校主要覆盖中小学阶段。
 > - **国际学校与国际课程并不等同** 一所国际学校可以并行开设法国、英国、美国或其他国家课程；本地学校也可以采用[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）等国际课程。学校类型与资格类型需要分别判断。
 
 ---

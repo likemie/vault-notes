@@ -9,7 +9,7 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 38
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,8 +43,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Michael Barber
@@ -208,7 +207,7 @@ updated: 2026-10-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation\|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy\|风险慈善]]渗透公立教育治理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove\|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network\|政策网络]]源头。

@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Graduate Attributes]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
   - "[[Language Skills]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Revolutionism]]"
   - "[[Competitiveness]]"
+  - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -48,7 +48,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
   - "[[Content Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts: []
@@ -60,7 +59,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Global Citizenship
@@ -74,7 +73,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种超越主权国家边界的、跨文化的、生态关怀的受教育者身份（[[Educated Identity]]）重构。
-> - **用途** 用于评估高等教育及博士生特质（[[Graduate Attributes]]）在应对多元就业与国际化环境时的综合能力框架；在比较教育研究中，用于透视全球[[Discourse|话语]]政策流转中跨国非政府组织与超国家[[Disciplina and Doctrina\|规训]]的合法化修辞。
+> - **用途** 用于评估高等教育及博士生特质（[[Graduate Attributes]]）在应对多元就业与国际化环境时的综合能力框架；在比较教育研究中，用于透视全球[[Discourse|话语]]政策流转中跨国非政府组织与超国家规训的合法化修辞。
 > - **边界** 不能与单纯用于跨国商业竞争的“全球胜任力”或局限于特定国家内部参与的“积极公民身份”等同，它更带有伦理关怀与去中心化认同。
 
 > [!citation-card]- 关键表述
@@ -128,7 +127,7 @@ updated: 2026-10-15
 > 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世[[Discourse|话语]]，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
-> **模糊性与[[Re-Westernisation\|再西方化]]载体** 从国际关系视角的[[Revolutionism\|革命主义]]传统指出，全球公民在理性主义话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球[[Competitiveness|竞争力]]、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）地缘政治战略的隐性载体。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 425–429]])
+> **模糊性与[[Re-Westernisation\|再西方化]]载体** 从国际关系视角的[[Revolutionism\|革命主义]]传统指出，全球公民在理性主义话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球[[Competitiveness|竞争力]]、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）[[Geopolitics|地缘政治]]战略的隐性载体。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 425–429]])
 
 ---
 
@@ -211,8 +210,8 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes\|毕业生特质]]分类中重铸了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
 > - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质[[Discourse|话语]]，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism\|革命主义]]中的地缘政治[[Re-Westernisation\|再西方化]]实质。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism\|革命主义]]中的[[Geopolitics|地缘政治]][[Re-Westernisation\|再西方化]]实质。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 提到了多边组织将跨国非政府组织（NGO）视为新兴“全球公民社会”的代表以谋求合法性的宏观政策逻辑。

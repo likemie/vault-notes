@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[College and Career Readiness]]"
   - "[[Student Mobility]]"
   - "[[Transiency]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Adequate Yearly Progress
@@ -142,7 +141,7 @@ updated: 2026-10-17
 > [!finding-cards] 历史影响与制度评价
 > - **揭开弱势亚群教育差距的制度面纱** AYP 最具历史进步意义的贡献在于破除了“以全校平均分掩盖少数群体失败”的伪善机制，强制学校正视非裔、西裔、低收入家庭及残障学生的学习困境，确立了教育公平的数据基准。
 > - **诱发“竞相向下沉沦”并反向催化国家标准** 各州自设标准的虚假高通过率与国家统一的 [[National Assessment of Educational Progress|NAEP]] 真实测试拉开巨大鸿沟，彻底暴露了分权标准体制的破产，成为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的最重要政策火种。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
-> - **空间排斥效应：将结构性不平等归咎于流动家庭与次生排异** 高利害 AYP 问责强化了学校对固定空间定居的[[Disciplina and Doctrina|规训]]假设，使流动性本身被赤字化编码。尽管实证表明 60% 的转学源于家庭搬迁等经济住房约束（Rumberger, 2003），且低收入家庭频繁转校往往是主动逃离暴力和劣质学校的自救策略（Kerbow et al., 2003），但 AYP 的绝对达标红线诱发学校将流动学生视作拉低达标率的制度包袱，加剧了对弱势流动学童的隐性劝退与空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> - **空间排斥效应：将结构性不平等归咎于流动家庭与次生排异** 高利害 AYP 问责强化了学校对固定空间定居的规训假设，使流动性本身被赤字化编码。尽管实证表明 60% 的转学源于家庭搬迁等经济住房约束（Rumberger, 2003），且低收入家庭频繁转校往往是主动逃离暴力和劣质学校的自救策略（Kerbow et al., 2003），但 AYP 的绝对达标红线诱发学校将流动学生视作拉低达标率的制度包袱，加剧了对弱势流动学童的隐性劝退与空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **课程生态的毁灭性收缩** 面对阅读与数学统考的生存压力，学校普遍陷入“为考而教”（Teaching to the test），科学、社会研究、艺术、音乐及体育等非统考学科课时被大幅缩减甚至取缔，导致中小学育人功能的严重单向窄化。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 15)]]
 
 > [!effect-table]- 政策评估与实证数据

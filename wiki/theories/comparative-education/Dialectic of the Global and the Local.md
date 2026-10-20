@@ -8,7 +8,7 @@ aliases:
 summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架，强调全球经济、政治与文化力量并非单向决定本土教育，而是与民族国家和基层社区的能动力量发生持续的相互渗透、中介过滤与冲突重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 47
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Class Size]]"
   - "[[Falsification]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Credential Inflation]]"
   - "[[School Autonomy]]"
   - "[[Research Question]]"
@@ -57,7 +56,6 @@ related_methods:
   - "[[Interactional Ethnography]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
@@ -141,7 +139,7 @@ updated: 2026-10-20
 > **应用实例** [[Aaron Benavot|贝纳沃特]]与雷什（Benavot & Resh, 2001）考察以色列初中课程发现，在[[Cultural Models|世界文化模型]]推动数理课时全球趋同的背景下，国家推行权力下放反而加剧了阶层断裂：优势阶层学校动员校外资源加码高阶数理科目，而弱势社区学校因疲于应付补救教学而大幅削减数理课时，宏观形式趋同掩盖了微观教学供给的严重阶层分化。
 
 > [!theory-proposition] 命题三｜微观行动者的本土文化抵制[[Falsification|证伪]]了抽象理性选择模型并构筑自下而上全球化的反抗基石
-> **解释** 处于边缘地位的微观行动者绝非外部政策的消极受体，其文化反抗与能动博弈能够有效打破自上而下的新自由主义[[Disciplina and Doctrina|规训]]；这种抵抗不仅证伪了将个体假定为功利计算工具的[[Rational Action Theory|理性选择理论]]，而且在信息网络支持下能够汇聚为跨越国界的自下而上全球化运动，开辟争取教育正义的替代道路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 109, 113–114)]]
+> **解释** 处于边缘地位的微观行动者绝非外部政策的消极受体，其文化反抗与能动博弈能够有效打破自上而下的新自由主义规训；这种抵抗不仅证伪了将个体假定为功利计算工具的[[Rational Action Theory|理性选择理论]]，而且在信息网络支持下能够汇聚为跨越国界的自下而上全球化运动，开辟争取教育正义的替代道路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 109, 113–114)]]
 >
 > **应用实例** 德梅拉斯（Demerath, 1999）对巴布亚新几内亚佩雷村的研究表明，面对现代[[Credential Inflation|文凭通胀]]与城镇就业幻灭，乡村青年主动拒绝升学并集体颂扬传统捕鱼与互助生活；斯塔基（Stacki, 1999）对印度北方邦小学女教师的研究表明，微观教师巧妙利用外部培训知识权威与本土父权官僚博弈，开辟了专业能动空间。
 
@@ -159,7 +157,7 @@ updated: 2026-10-20
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 适合解释跨国教育改革政策在具体国家与学校落地为何产生非预期结果，以及地方行动者如何应对外部[[Disciplina and Doctrina|规训]]压力。
+> - **[[Research Question|研究问题]]** 适合解释跨国教育改革政策在具体国家与学校落地为何产生非预期结果，以及地方行动者如何应对外部规训压力。
 > - **分析对象与单位** 贯通宏观超国家治理机构、中观民族国家政策以及微观学校课堂与基层社区的多标度空间网络。
 > - **需要的材料** 国际机构贷款协定、国家课程法律大纲、学区财政支出明细、课堂教学[[Ethnography|民族志]]观察记录、行动者[[In-depth Interview|深度访谈]]。
 > - **解释目标** 揭示自上而下的新自由主义规训、中观国家[[Policy Brokerage|政策中介]]与微观文化抵制之间的张力，界定改革的真实动力结构。
@@ -204,7 +202,7 @@ updated: 2026-10-20
 > > - **辩证法倡导者 (Arnove; Anderson-Levitt, 2003)** 坚称微观[[Ethnography|民族志]]能够[[Falsification|证伪]]机械决定论，行动者的主观认同与文化再创造本身就是不可抹杀的历史力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 >
 > > [!axis] 世界文化普世同构叙事 vs 批判政治经济学依附冲突叙事
-> > 争论全球教育体系的演进究竟是由普遍理性的[[Cultural Models|文化模型]]驱动，还是由不平等的资本积累与霸权[[Disciplina and Doctrina|规训]]所主导。
+> > 争论全球教育体系的演进究竟是由普遍理性的[[Cultural Models|文化模型]]驱动，还是由不平等的资本积累与霸权规训所主导。
 > >
 > > - **[[Stanford School|斯坦福学派]] (Meyer et al., 1997)** 强调源自[[Enlightenment|启蒙运动]]的世界文化模型促成了战后大众教育体系的形式高度同构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > > - **批判政治经济学流派 (Wallerstein, 1974; Arnove, 1980)** 指出形式同构掩盖了实质剥削与阶层再生产，辩证法正是揭示这种同构表象下激烈阶级斗争的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]

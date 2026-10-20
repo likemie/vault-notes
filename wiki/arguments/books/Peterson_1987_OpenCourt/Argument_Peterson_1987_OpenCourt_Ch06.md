@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -69,10 +69,11 @@ related_facts:
   - "[[Education International]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Peterson_1987_OpenCourt_Ch06
 
@@ -379,7 +380,7 @@ updated: 2026-10-16
 > - **查尔斯·罗斯（Charles Rose）** 本为艺术史学者，在独立办公室形成前暂时担任执行官，维持从社区学院办事点向专职组织过渡。
 > - **[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）** 1977 年 8 月接替罗斯。其经历包括军事情报工作、1947 年获阿默斯特学院学士、1950 年获哥伦比亚大学法学学士、在普林斯顿负责三年发展工作，以及 1971—1976 年领导大学规划协会；这些经验直接对应教育规划、筹资和机构谈判。
 > - **斯蒂芬妮·伊斯勒（Stephanie Isler）** 后来在狭小的纽约办公室协助尼科尔，支撑学校数量快速增长时的日常行政工作。
-> - **汤姆·哈戈特（ToM Hagoort）** 参与过华盛顿国际学校创办和 UNIS 搬迁，1980 年接替卡鲁斯领导 IBNA；他把北美学校快速增长视为 IBO 摆脱不可持续基金会资助、走向财务自立的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 142–147）。
+> - **汤姆·哈戈特（[[Theory of Mind|ToM]] Hagoort）** 参与过华盛顿国际学校创办和 UNIS 搬迁，1980 年接替卡鲁斯领导 IBNA；他把北美学校快速增长视为 IBO 摆脱不可持续基金会资助、走向财务自立的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 142–147）。
 
 > [!evidence-grid] 董事会构成如何为新法人赋予本地权威
 > - **公共教育经验：** 前纽约州教育专员进入董事会或学校—大学关系委员会，使 IBNA 能以熟悉州级教育治理的声音接触学区。

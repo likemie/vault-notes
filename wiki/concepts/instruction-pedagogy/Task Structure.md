@@ -9,7 +9,7 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,12 +28,11 @@ related_concepts:
   - "[[Variable]]"
 related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Task Structure
@@ -134,5 +133,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 通过平衡顺序的组内实验设计，对比高中生在良构任务（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）中的[[Academic Achievement\|学业表现]]与[[Reflexivity\|反思性]]判断，证实任务结构对[[Epistemological Beliefs\|认识论信念]]预测效应的调节作用。

@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -72,7 +72,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
@@ -95,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Postpositivism
@@ -300,7 +299,7 @@ updated: 2026-10-16
 
 后[[Positivism|实证主义]]构成了解构实证霸权、连接质性与量化路径以及重塑学科历史哲学的核心[[Epistemology|认识论]]枢纽。
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统复原从经典实证主义危机走向后实证主义、[[Postmodernism\|后现代主义]]与[[Complexity Theory\|复杂性理论]]的完整[[Paradigm\|范式]]谱系，深刻剖析后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵（Ch. 1）。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 剖析 1960 年代实证主义对历史学派的围剿，恢复 *Wissenschaft* 与 *Episteme* 的广义科学传统，借[[Crane Brinton\|布林顿]]为[[Historical-Comparative Method\|历史比较法]]确立科学合法性。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research\|量化研究]]与部分[[Mixed Methods Research\|混合方法研究]]的主导世界观，系统阐述其[[Determinism\|决定论]]与还原论取向、推测性知识检验以及对严密测量[[Reliability\|信度]]效度和系统误差审查的方法论规范。

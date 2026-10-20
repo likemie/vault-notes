@@ -10,7 +10,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[International Education]]"
   - "[[Knowledge Mediation]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Institute for Educational Policy Research
@@ -75,7 +76,7 @@ updated: 2026-10-16
 > - **1949 — 战后重建与独立法人化** 在美国占领时期教育改革背景下，日本重组战前文部省调查机构，设立独立研究机构，确立学术研究自主性与教育行政服务职能的双轨定位。
 > - **1980–1990年代 — 国际化与比较研究拓展** 随着 [[OECD]] [[Performance Indicators\|教育指标]]体系（[[International Indicators of Education Systems\|INES]]）与国际学生能力评估（[[PISA]]）等大规模教育测评项目的兴起，NIER 承担起日本参与[[International Education\|国际教育]]测评的技术协调与数据分析职责，成为日本教育政策国际比较研究的核心枢纽。
 > - **2001 — 独立行政法人化改革** 依据日本行政改革框架，NIER 正式转型为独立行政法人，在维持与文部科学省同楼办公的物理紧密性的同时，获得更清晰的法定自治授权与独立财务运营空间。
-> - **2010年代至今 — [[Knowledge Mediation\|知识中介功能]]强化** 在日本政府推动"证据导向教育政策"（EBPM，Evidence-based Policy Making）国家战略背景下，NIER 强化[[Systematic Review\|系统综述]]产出、教育统计数据库建设与政策[[Evaluation Research\|评估研究]]能力，成为连接学术研究共同体与文部科学省政策决策的核心中介节点。
+> - **2010年代至今 — [[Knowledge Mediation\|知识中介功能]]强化** 在日本政府推动"证据导向教育政策"（[[Evidence-Based Policy-Making|EBPM]]，Evidence-based Policy Making）国家战略背景下，NIER 强化[[Systematic Review\|系统综述]]产出、教育统计数据库建设与政策[[Evaluation Research\|评估研究]]能力，成为连接学术研究共同体与文部科学省政策决策的核心中介节点。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "女性认知方式模型中的认识论阶段，个体将知识视为绝对的确切事实，只能从外部权威处被动接收。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,11 +18,10 @@ related_theories:
   - "[[Women's Ways of Knowing]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 status: active
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Received Knowledge
@@ -43,5 +42,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将其作为反映[[Certainty of Knowledge\|知识的确定性]]、简单性及[[Cognitive Source\|认知来源]]与辩护的结构性成分。

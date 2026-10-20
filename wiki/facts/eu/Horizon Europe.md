@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 37
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -67,8 +67,7 @@ related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-03

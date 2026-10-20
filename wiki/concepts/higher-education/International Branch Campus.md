@@ -15,7 +15,7 @@ aliases:
 summary: "高等教育机构在母国境外部署全资或联合拥有的实体校园，提供全日制学位教育并冠以母校名称的跨境教育办学形态"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,8 @@ tags:
   - policy/belt-and-road
   - theme/geopolitics
 related_concepts:
+  - "[[Geopolitics]]"
+  - "[[Soft Power]]"
   - "[[Education Going Global]]"
   - "[[International Education Hubs]]"
   - "[[Academic Freedom]]"
@@ -41,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # International Branch Campus
@@ -51,7 +53,7 @@ updated: 2026-10-19
 ## 定义
 
 > [!def] 核心定义
-> 国际分校（International Branch Campus, IBC，亦称海外分校、高等教育海外办学实体）是指由母国高等教育机构在本土之外建立并运营、拥有独立的实体校园与教学设施、冠以母校名称并向东道国学生授予母校正式学位或双学位的离岸办学实体。国际分校代表了跨境高等教育中投资规模最大、制度嵌入度最高且地缘政治敏感性最强的办学模式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
+> 国际分校（International Branch Campus, IBC，亦称海外分校、高等教育海外办学实体）是指由母国高等教育机构在本土之外建立并运营、拥有独立的实体校园与教学设施、冠以母校名称并向东道国学生授予母校正式学位或双学位的离岸办学实体。国际分校代表了跨境高等教育中投资规模最大、制度嵌入度最高且[[Geopolitics|地缘政治]]敏感性最强的办学模式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育机构跨越国家主权边界所设立的具有独立实体校园、全日制教学体系与学位授予资质的境外分支机构。
@@ -59,7 +61,7 @@ updated: 2026-10-19
 > - **边界** 区别于无实体校区的联合培养项目、远程函授教学点或纯属短期学分互认的海外交流基地。
 
 > [!citation-card] 中国高校设立国际分校的实践探索（[[Argument_Woo_2023_HEP|Woo, 2023]]）
-> 为了提升教育软实力，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。然而，缺乏基层社会互信的高层顶层海外分校项目，极易在东道国地方政治选举与市民社会的抗议中遭遇严重挫折。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
+> 为了提升教育[[Soft Power|软实力]]，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。然而，缺乏基层社会互信的高层顶层海外分校项目，极易在东道国地方政治选举与市民社会的抗议中遭遇严重挫折。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
 >
 > *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as Xiamen University Malaysia... in contrast to top-level ideological agreements, plans to build a campus faced massive protests.*
 
@@ -72,7 +74,7 @@ updated: 2026-10-19
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 本概念（国际分校） | 境外教学中心（Study Center） | [[International Education Hubs|国际教育枢纽]] |
+> | 维度 | 本概念（国际分校） | 境外教学中心（Study Center） | [[International Education Hubs\|国际教育枢纽]] |
 > |---|---|---|---|
 > | **实体资产规模** | 拥有独立土地、图书馆、实验室与学生宿舍 | 租用写字楼或东道国合作高校部分教室 | 由东道国政府统一规划建设的大型多高校聚集区 |
 > | **学术自治与管理** | 派驻母校管理团队与教师，执行母校质量保障标准 | 主要由第三方合作机构或当地外包团队维持日常运作 | 由东道国自贸区或开发区管委会提供统一公共服务 |
@@ -113,7 +115,7 @@ updated: 2026-10-19
 > 探究跨国高等教育分校如何超越纯粹的学术教育属性，成为大国外交与区域合作的象征符号。
 
 > [!claim] Woo, E.
-> **大国软实力与战略落地的实体支点** Woo 指出，厦门大学马来西亚分校等代表性案例表明，中国高水平大学设立海外分校不仅是为了拓展学术影响力，更是国家将教育作为软实力工具与外交互信纽带的制度化部署；海外分校承担着服务中资企业出海、培养知华友华当地技术精英以及提升国家国际声誉的战略功能。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 686–687)]]
+> **大国[[Soft Power|软实力]]与战略落地的实体支点** Woo 指出，厦门大学马来西亚分校等代表性案例表明，中国高水平大学设立海外分校不仅是为了拓展学术影响力，更是国家将教育作为软实力工具与外交互信纽带的制度化部署；海外分校承担着服务中资企业出海、培养知华友华当地技术精英以及提升国家国际声誉的战略功能。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 686–687)]]
 
 ---
 
@@ -141,9 +143,9 @@ updated: 2026-10-19
 
 > [!dev-timeline] 概念演变
 > - **1990年代 — 西方高校首轮扩张** 美英澳等传统高教强国高校开始在中东海湾国家（如卡塔尔教育城、阿联酋迪拜知识园）及东南亚建立分校，以学费创收与品牌输出为主导。
-> - **2000年代 — 亚洲枢纽模式兴起** 新加坡、马来西亚与中国香港通过政策优惠积极引入欧美名校建立分校，打造区域性国际教育枢纽。
-> - **2010年代 — 中国高教自主出海** 伴随[[Belt and Road Initiative|“一带一路”]]倡议提出，厦门大学马来西亚分校（2016年开学）、云南财经大学曼谷商学院相继设立，开启中国大学海外办学实体化探索。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
-> - **2020年代至今 — 地缘政治化与风险重估** 伴随国际大国博弈升温，海外分校受到更为严格的国家安全、学术自由与外资负债审查，以[[Fudan University Budapest Campus|复旦大学布达佩斯分校事件]]为标志，全球分校扩张进入审慎规范与风险防范期。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
+> - **2000年代 — 亚洲枢纽模式兴起** 新加坡、马来西亚与中国香港通过政策优惠积极引入欧美名校建立分校，打造区域性[[International Education Hubs|国际教育枢纽]]。
+> - **2010年代 — 中国高教自主出海** 伴随“[[Belt and Road Initiative|一带一路]]”倡议提出，厦门大学马来西亚分校（2016年开学）、云南财经大学曼谷商学院相继设立，开启中国大学海外办学实体化探索。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+> - **2020年代至今 — [[Geopolitics|地缘政治]]化与风险重估** 伴随国际大国博弈升温，海外分校受到更为严格的国家安全、[[Academic Freedom|学术自由]]与外资负债审查，以[[Fudan University Budapest Campus|复旦大学布达佩斯分校事件]]为标志，全球分校扩张进入审慎规范与风险防范期。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 
 ---
 
@@ -169,4 +171,4 @@ updated: 2026-10-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合厦门大学马来西亚分校与复旦大学布达佩斯分校建设案例，系统论证海外独立校区在承担大国软实力投射与面对在地政治草根抵制时的复杂张力。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合厦门大学马来西亚分校与[[Fudan University Budapest Campus|复旦大学布达佩斯分校]]建设案例，系统论证海外独立校区在承担大国[[Soft Power|软实力]]投射与面对在地政治草根抵制时的复杂张力。

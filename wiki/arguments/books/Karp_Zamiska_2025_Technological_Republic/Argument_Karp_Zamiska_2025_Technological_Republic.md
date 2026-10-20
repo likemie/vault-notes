@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 217
+argument_related_count: 218
 argument_related_level: 21
 argument_related_stars: "💎💎💎💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -112,6 +112,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Screening Off]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics]]"
   - "[[Betrayal in Research]]"
   - "[[Strategic Compliance]]"
 related_persons:
@@ -258,7 +259,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic
 
@@ -370,7 +371,7 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card]- 卡普与扎米斯卡论[[Technological Republic|技术共和国]]的本质与软件[[Hard Power|硬实力]]
-> 技术共和国的命运取决于我们能否重新认识到，自由社会的生存从根本上依赖于前沿工程技术与国家战略意志的深度结合。软件已经成为现代战场的神经中枢，放弃对硬实力的追求不仅是地缘政治的自杀，更是对启蒙自由传统的背叛。（p. 15）
+> 技术共和国的命运取决于我们能否重新认识到，自由社会的生存从根本上依赖于前沿工程技术与国家战略意志的深度结合。软件已经成为现代战场的神经中枢，放弃对硬实力的追求不仅是[[Geopolitics|地缘政治]]的自杀，更是对启蒙自由传统的背叛。（p. 15）
 >
 > *The fate of the technological republic depends on our ability to rediscover that the survival of a free society rests fundamentally on the deep integration of cutting-edge engineering with national strategic will. Software has become the central nervous system of modern warfare; abandoning the pursuit of hard power is not only geopolitical suicide, but a [[Betrayal in Research|betrayal]] of the [[Enlightenment]] tradition of liberty.*
 

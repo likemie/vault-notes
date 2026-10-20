@@ -28,6 +28,7 @@ tags:
   - theme/policy-network
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Venture Philanthropy]]"
   - "[[Paradigm]]"
   - "[[Abstract]]"
@@ -44,7 +45,6 @@ related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Peter Lampl]]"
@@ -80,7 +80,7 @@ updated: 2026-10-20
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 萨顿信托（The Sutton Trust）是英国顶尖的独立教育慈善基金会与实证政策智库，由[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）于 1997 年出资创立。机构以“打破低收入家庭学童出身背景与[[Academic Achievement\|学业成就]]之间的铁律绑定、提升全英社会流动性”为法定宗旨，开创了集社会学实证调查、处境不利学童拔尖干预、循证决策工具研发以及母体孵化为一体的现代[[Venture Philanthropy\|风险慈善]]与政策智库[[Paradigm\|范式]]（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
+> 萨顿信托（The Sutton Trust）是英国顶尖的独立教育慈善基金会与实证政策智库，由[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）于 1997 年出资创立。机构以“打破低收入家庭学童出身背景与[[Academic Achievement\|学业成就]]之间的铁律绑定、提升全英社会流动性”为法定宗旨，开创了集社会学实证调查、处境不利学童拔尖干预、[[Evidence-Based Policy-Making|循证决策]]工具研发以及母体孵化为一体的现代[[Venture Philanthropy\|风险慈善]]与政策智库[[Paradigm\|范式]]（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1997 年创立于英国伦敦。当时英国正经历关于社会阶层固化、[[Grammar School\|文法学校]]存废与大学精英化招生的激烈社会大论战；私人企业家彼得·兰普尔设立专项信托基金，旨在通过非公立慈善机制拓宽工薪子弟升学渠道。
@@ -120,7 +120,7 @@ updated: 2026-10-20
 > [!finding-cards] 核心产品与业务矩阵
 > - **萨顿信托暑期学校（Sutton Trust Summer Schools）** 运行超过二十年的旗舰项目，每年资助数千名来自公立薄弱学校的优异高中生免学费入读牛津、剑桥等顶尖大学开展为期一周的高强度沉浸式学术集训，显著提升其申请顶级学府的成功率。
 > - **高端行业通路拓展项目（Pathways Programs）** 运作法律通路（Pathways to Law）、医学通路（Pathways to Medicine）、银行与金融通路（Pathways to Banking and Financial Services）以及工程与咨询通路等专项计划，为弱势背景学生提供跨国投行和律所的高阶带薪实习与一对一业界导师配对。
-> - **循证决策工具包（Sutton Trust-[[EEF Teaching and Learning Toolkit\|EEF Toolkit]]）** 作为《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》的联合知识产权所有者与共同冠名方，系统呈现 30 余类教学干预的投入产出比与证据安全等级。
+> - **[[Evidence-Based Policy-Making|循证决策]]工具包（Sutton Trust-[[EEF Teaching and Learning Toolkit\|EEF Toolkit]]）** 作为《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》的联合知识产权所有者与共同冠名方，系统呈现 30 余类教学干预的投入产出比与证据安全等级。
 > - **精英阶层与社会流动系列重磅调查（Elitist Britain Reports）** 长期跟踪全英 5,000 余名核心领导岗位（包括内阁大臣、高级法官、报纸主编、央行高管）的教育背景，持续揭露私立学校与牛津剑桥毕业生对国家权力的不成比例垄断。
 > - **教师之声综合调查民调平台（Teacher Voice Omnibus Survey）** 定期对全英数千名中小学校长和教师开展代表性民意测验，精准监测基层学校对[[Pupil Premium\|学生津贴]]的分配流向及对各类政策干预的态度反馈。
 
@@ -197,7 +197,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 映射萨顿信托背后的跨国金融与法律资本网络（高盛、美洲银行、摩根大通、普华永道），剖析其向 [[Education Endowment Foundation\|EEF]] 及澳大利亚（[[Social Ventures Australia\|SVA]]/[[Australian Education Research Organisation\|AERO]]）流动的[[Policy Network\|异质治理]]机制。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录萨顿信托发起创设 [[Education Endowment Foundation\|EEF]] 的历史经纬、法定留本基金运营及清算中心联合治理架构。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 梳理萨顿信托资助杜伦大学编制早期[[Meta-analysis\|元分析]][[Abstract\|研究摘要]]、推动工具包诞生的学术脉络。

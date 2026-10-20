@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Multi-Project Wafer]]"
   - "[[Process Design Kit]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_facts:
   - "[[DARPA]]"
   - "[[National Science and Technology Council]]"

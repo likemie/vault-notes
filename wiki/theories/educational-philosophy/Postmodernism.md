@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Friedrich Nietzsche]]"
@@ -206,7 +205,7 @@ updated: 2026-10-20
 > > [!axis] 后现代相对主义 vs [[Jürgen Habermas|哈贝马斯]]现代性未竟工程
 > > 争论启蒙理性项目应当被彻底埋葬，还是通过交往理性予以修复和完成。
 > >
-> > - **后现代激进阵营** 认为启蒙理性本质上已沦为极权统治与技术[[Disciplina and Doctrina|规训]]工具，必须彻底解构。
+> > - **后现代激进阵营** 认为启蒙理性本质上已沦为极权统治与技术规训工具，必须彻底解构。
 > > - **[[Jürgen Habermas|尤尔根·哈贝马斯]]（1987）** 坚称后现代主义在哲学上是“自我挫败的”，指斥其为一种新的保守主义（neo-conservatism），主张通过主体间交往行为与理性辩论完成现代性启蒙工程。
 
 > [!critique]- 批评索引

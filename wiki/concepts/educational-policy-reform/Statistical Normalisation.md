@@ -8,7 +8,7 @@ aliases:
 summary: "在循证教育改革与量化政策评估中，指依据高斯正态分布假说，将平均效应量与集中趋势作为衡量干预有效性最高标尺的认识论与治理机制；该机制在方法学上将正态分布两端的异质性个体与极端弱势群体视为可忽略的离群值（Outliers），在治理上迎合追求高性价比（Value for Money）的政治多数派修辞，从而在制度层面造成对边缘学童的系统性忽视并剥夺教师的情境化专业判断权。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Effective Teaching]]"
   - "[[Epoché]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -44,7 +43,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Dirk Van Damme]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Statistical Normalisation
@@ -176,7 +174,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **19 世纪中叶 — 社会物理学起源** 阿道夫·凯特勒（Adolphe Quetelet）将源自天文学的高斯误差曲线引入社会学，提出“平均人”（l’homme moyen）假说，开启了用钟形曲线衡量社会现象的标准。
-> - **1970–1980 年代 — [[Disciplina and Doctrina\|规训]]权力与生物政治批判** 米歇尔·福柯（Michel Foucault）在《规训与惩罚》中批判“正态化规训”（Normalising Judgment），揭示标准化曲线如何成为现代权力区分健康与异常、合规与越轨的治理技术；斯蒂芬·杰·古尔德（Stephen Jay Gould）在《错误度量人类》中系统批判智力测验正态化对弱势族裔的伪科学歧视。
+> - **1970–1980 年代 — 规训权力与生物政治批判** 米歇尔·福柯（Michel Foucault）在《规训与惩罚》中批判“正态化规训”（Normalising Judgment），揭示标准化曲线如何成为现代权力区分健康与异常、合规与越轨的治理技术；斯蒂芬·杰·古尔德（Stephen Jay Gould）在《错误度量人类》中系统批判智力测验正态化对弱势族裔的伪科学歧视。
 > - **2000 年代至今 — [[Evidence-Based Education\|循证教育]]改革中的均值霸权成型** 随着证据清除所（[[What Works Clearinghouse\|WWC]]）、可见学习（[[Visible Learning]]）等以 $d \ge 0.40$ 为标尺的实证运动兴起，平均[[Effect Size\|效应量]]被奉为政策圭臬。
 > - **2022 年 — 批判性教育证据治理反思** 日本学者牧人友利田在 [[OECD]] 专题对话中，系统提炼并批判了教育证据治理中的统计正态化陷阱，呼吁在追求科学严谨的同时必须坚守捍卫弱势离群群体的专业受托伦理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
@@ -216,5 +214,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 牧人友利田在第十章第七节系统展开了针对功利主义可用性修辞与统计正态化抹杀离群弱势群体的深刻批判。

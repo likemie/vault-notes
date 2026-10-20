@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Dan Sperber
@@ -90,7 +90,7 @@ updated: 2026-10-16
 >   - **核心问题** 人类如何通过不完全的语言符号精准推导说话者的真实意图。
 >   - **代表著作** *Relevance: Communication and Cognition* (1986/1995, with Deirdre Wilson)。
 >   - **关键概念** 关联性、明示-推理沟通（Ostensive-Inferential Communication）、语境效果与认知努力。
->   - **思想贡献** 批判了将沟通视为机械信号编码-[[Decodification|解码]]的传统模式，确立沟通本质上是基于心理理论（[[Theory of Mind]]）的意图推理过程。
+>   - **思想贡献** 批判了将沟通视为机械信号编码-[[Decodification|解码]]的传统模式，确立沟通本质上是基于[[Theory of Mind|心理理论]]（[[Theory of Mind]]）的意图推理过程。
 > - **1990s–2000s — 文化演化与表征流行病学**
 >   - **核心问题** 思想、信念与文化习俗如何在人群中传播、变异与稳定留存。
 >   - **代表著作** *Explaining Culture: A Naturalistic Approach* (1996)。

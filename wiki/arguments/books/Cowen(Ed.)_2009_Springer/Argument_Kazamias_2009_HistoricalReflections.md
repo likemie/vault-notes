@@ -7,9 +7,9 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 80
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 79
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -67,7 +67,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Falsification]]"
   - "[[Working Hypothesis]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Comparative Pedagogy]]"
   - "[[Learnology]]"
   - "[[Intangible Spiritual Forces]]"
@@ -124,7 +123,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Kazamias_2009_HistoricalReflections
 
@@ -363,7 +362,7 @@ updated: 2026-10-16
 
 > [!theory-components] 卡诺伊国家理论的核心分析构件
 > - **再生产与民主化诉求的双重并存**
->   学校绝不仅是资本家单向[[Disciplina and Doctrina|规训]]学生的工具，而是一个充满拉锯的复杂场所：一方面承担维持既有经济秩序和社会分工的任务（生产关系的再生产）；另一方面普通民众和学生也在学校中争取个人表达权利与平等机会（民主化诉求）。（pp.153–154）
+>   学校绝不仅是资本家单向规训学生的工具，而是一个充满拉锯的复杂场所：一方面承担维持既有经济秩序和社会分工的任务（生产关系的再生产）；另一方面普通民众和学生也在学校中争取个人表达权利与平等机会（民主化诉求）。（pp.153–154）
 > - **转型期国家政治权力的主导推动**
 >   在对中国、古巴、坦桑尼亚等社会主义转型国家的实证比较中，卡诺伊与[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff, 1990）进一步提出：在深刻的社会变革时期，真正推动教育制度发生根本转变的决定力量不是市场经济规律，而是国家政权与政治决策。（pp.154–155）
 

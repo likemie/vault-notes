@@ -6,7 +6,7 @@ summary: "美国电气工程师与科技管理领袖，首位产业界出身的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,8 +42,7 @@ related_facts:
   - "[[Science Foundation Ireland]]"
 related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-06

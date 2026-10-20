@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Revolutionism]]"
   - "[[Ontology]]"
+  - "[[Geopolitics]]"
   - "[[Enlightenment]]"
   - "[[Normal School]]"
   - "[[Cosmopolitanism]]"
@@ -46,8 +47,7 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Dependency Theory]]"
   - "[[Hegemony]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -114,7 +114,7 @@ updated: 2026-10-20
 > | **[[Ontology\|本体论假设]]** | 终极实体是**普遍的人类共同体（Universal Human Community）** | 终极实体是处于无政府利己竞争中的**主权国家** | 终极实体是受国际法与习俗约束的**国家社会** |
 > | **对待战争态度** | 战争是旧时代的野蛮病理残留，必须予以制度性彻底消除 | 战争是主权权力博弈与自保的不可避免之工具 | 战争是国际争端解决的最后手段，需受正义交战规则约束 |
 > | **维系和平手段** | **普遍理性启蒙、共和立宪联盟与跨国教育协作** | **绝对军事优势、力量均衡与战略威慑（[[Hard Power]]）** | **多边条约谈判、国际法庭仲裁与集体安全机制** |
-> | **教育的核心功能** | **和平治理基础设施**，消除偏见、启迪理性与全人教化 | **国家实力竞争工具**，服务于地缘政治安全与科技自立 | **制度规范培育载体**，培训合格的国际社会法治成员 |
+> | **教育的核心功能** | **和平治理基础设施**，消除偏见、启迪理性与全人教化 | **国家实力竞争工具**，服务于[[Geopolitics\|地缘政治]]安全与科技自立 | **制度规范培育载体**，培训合格的国际社会法治成员 |
 > | **代表思想家** | [[Immanuel Kant\|康德]]、朱利安、马丁·怀特 | 马基雅维利、霍布斯、摩根索、[[Alexander Karp\|卡普]]与[[Nicholas Zamiska\|扎米斯卡]] | 格老秀斯、洛克、赫德利·布尔 |
 
 ---
@@ -227,7 +227,7 @@ updated: 2026-10-20
 > > - **[[Technological Republic|技术共和国]]现实主义派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04\|Karp & Zamiska, 2025]]）** 指出单方面的去武力化非但不能换取永久和平，反而会制造安全真空、诱发威权对手的侵略野心；唯有依靠压倒性的软件硬实力与AI 威慑，才是维系自由世界[[Long Peace|长和平]]的唯一可靠基石。
 
 > [!warning] 适用边界与制度限度
-> 永久和平属于宏观规范性伦理哲学与超国家治理远景；在分析具体的民族国家主权博弈、地缘政治摩擦与微观政策冲突时，不能以抽象的道德和平抒情替代对国家权力结构、硬实力对比与战略博弈机制的具象实证剖析。
+> 永久和平属于宏观规范性伦理哲学与超国家治理远景；在分析具体的民族国家主权博弈、[[Geopolitics|地缘政治]]摩擦与微观政策冲突时，不能以抽象的道德和平抒情替代对国家权力结构、硬实力对比与战略博弈机制的具象实证剖析。
 
 ---
 

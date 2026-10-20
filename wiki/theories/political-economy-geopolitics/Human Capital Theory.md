@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 82
+theory_related_count: 87
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -21,34 +21,35 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Empiricism]]"
+  - "[[Developmentalism]]"
+  - "[[Educational Level]]"
+  - "[[Credential Inflation]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Social Imaginary]]"
+  - "[[School Effectiveness]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Lifelong Learning]]"
   - "[[Return on Investment]]"
+  - "[[Competitiveness]]"
+  - "[[Learning Crisis]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Conditionalities]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Learning Crisis]]"
   - "[[Total Factor Productivity]]"
   - "[[Comprehensive Education]]"
   - "[[Independent Variable]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Social Imaginary]]"
-  - "[[Lifelong Learning]]"
   - "[[Counterfactual]]"
-  - "[[School Effectiveness]]"
   - "[[Learning by Doing]]"
   - "[[Cold War University]]"
   - "[[Technology Transfer]]"
   - "[[National Innovation System]]"
   - "[[Refined Mastery]]"
-  - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Causality]]"
-  - "[[Educational Level]]"
-  - "[[Credential Inflation]]"
-  - "[[Procedural Knowledge]]"
   - "[[Technical Rationality]]"
   - "[[Bildung]]"
   - "[[Navigation Metaphor in Comparative Education]]"
@@ -60,18 +61,21 @@ related_concepts:
   - "[[Workforce Development]]"
   - "[[Tacit Knowledge]]"
   - "[[Public Value]]"
+  - "[[Policy Borrowing]]"
+  - "[[Nordic Model of Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Scientific Paradigm]]"
   - "[[Discourse]]"
   - "[[Effective Teaching]]"
 related_theories:
-  - "[[Hegemony]]"
   - "[[New Growth Theory]]"
+  - "[[Hegemony]]"
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Manpower Requirements Approach]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
@@ -80,32 +84,33 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
 related_facts:
-  - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Organisation for European Economic Co-operation]]"
+  - "[[OECD]]"
+  - "[[1960 Bellagio Conference]]"
+  - "[[Mediterranean Regional Project]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
-  - "[[Bell Labs]]"
-  - "[[Mediterranean Regional Project]]"
-  - "[[PISA]]"
-  - "[[1960 Bellagio Conference]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[PISA]]"
+  - "[[Bell Labs]]"
   - "[[CHIPS and Science Act]]"
+  - "[[MDRC]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Schnee_1978_RP]]"
-  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
 status: completed
 created: 2026-09-08
@@ -122,7 +127,7 @@ updated: 2026-10-20
 > - **解释对象** 教育与技能投资转化为个人终身收益、劳动生产率提升与国家宏观经济增长的内生因果机制。
 > - **理论问题** 破解新古典生产函数中物质资本与非技能劳动力无法完全解释的“余值增长”（索洛余值），将人类后天习得的知识与能力资本化；在战后政策中为国家追加教育公共预算、推行中央教育规划与实施跨国技术援助提供理论正当性。
 > - **理论类型** 宏观与中层经济学理论、机制模型、教育规划[[Paradigm|范式]]。
-> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育学学术史中，该理论构成战后第三代“新[[Scientism|科学主义]]运动”（neo-scientific comparative education）的核心支柱，与“方法论[[Empiricism|经验主义]]”（methodological empiricism）深度结合，构筑了“教育-发展-现代化”工具性发展主义范式（instrumental-developmental paradigm）（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）、[[George Psacharopoulos]]（1981, 1987）。
+> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育学学术史中，该理论构成战后第三代“新[[Scientism|科学主义]]运动”（neo-scientific comparative education）的核心支柱，与“方法论[[Empiricism|经验主义]]”（methodological empiricism）深度结合，构筑了“教育-发展-现代化”[[Developmentalism|工具性发展主义范式]]（instrumental-developmental paradigm）（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）、[[George Psacharopoulos]]（1981, 1987）。
 
 > [!claim] 核心主张
 > 人力资本理论主张，教育与技能培训是对蕴含于劳动者体内生产性知识与能力的资本投资，而非单纯的消费性福利开支；这种投资通过提升劳动者的边际生产率内生驱动宏观经济持续增长，并为国家通过科学的人力需求预测发掘社会潜在人才库、推动社会流动与经济起飞提供了必然性与合法性背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
@@ -139,7 +144,7 @@ updated: 2026-10-20
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 西奥多·舒尔茨（Theodore W. Schultz, 1961, 1963）与加里·贝克尔（Gary S. Becker, 1964）在新古典经济学生产函数与索洛余值核算中，系统将人类后天习得的知识与技能概念化为生产性资本投资。
 > - **原初问题** 战后新古典经济增长经验核算中，土地、物质资本与简单劳动时间投入无法解释产出增长的绝大部分（“索洛余值”），需要确立新的生产力增长内生解释。
-> - **理论资源与材料** 借用资本理论与微观效用理论，将个人受教育年限与未来收益折现方程化（明瑟收益率方程），并引入劳动力市场供求关系模型。
+> - **理论资源与材料** 借用资本理论与微观效用理论，将个人[[Educational Level|受教育年限]]与未来收益折现方程化（明瑟收益率方程），并引入劳动力市场供求关系模型。
 > - **形成路径** 从宏观国民收入核算与微观教育回报率测算出发，将教育支出从传统消费性福利开支重新定义为能够内生提升边际生产率的人力资本投资。
 
 ### 后续修订与扩展
@@ -147,7 +152,7 @@ updated: 2026-10-20
 > [!dev-timeline] 发展脉络
 > - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
-> - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的发展主义信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
+> - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的[[Developmentalism|发展主义]]信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
 > - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国、[[New Growth Theory|内生新增长理论]]与[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；世行在《教育重点与战略》（World Bank, 1995）中进一步宣称人力资本理论无可替代，将宏观经济差距与微观[[School Effectiveness|学校效能]]全盘还原为教育投资与成本效益硬件干预，引发[[UNESCO|联合国教科文组织]]（Mayor et al., 1997）提出针锋相对的人文主义批判，抗议将人类发展降格为人力资源开发（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）；与此同时，罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵从 1960 年代科学和工程技术人员办公室（Office for Scientific and Technical Personnel）关注的狭隘科技专才，扩展为涵盖适应力、组织忠诚度、跨文化高压独立工作、团队沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力，并将教育从社会民主主义时期的公共物品重塑为兼具公共与私人[[Return on Investment|投资回报]]属性的混合商品。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
@@ -257,7 +262,7 @@ updated: 2026-10-20
 > 
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
-> [!citation-card] 米特论经合组织与国际评测对比较教育的人力资本[[Disciplina and Doctrina|规训]]
+> [!citation-card] 米特论经合组织与国际评测对比较教育的人力资本规训
 > 随着经合组织（OECD）主导的 [[PISA]] 测试在全球确立了经济导向型教育政策，政府机构不仅日益加强对比较研究经费与研究内容的直接干预，更直接规定项目目标与问责指标，促使比较教育面临以人力资本与经济[[Competitiveness|竞争力]]为指标的规训压力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]]
 >
 > *...promoted by the OECD... Governmental agencies not only directly or indirectly intervene in research funding, but also prescribe projects, their targets and indicators of accountability, thus subjecting comparative education to disciplining pressure oriented towards human capital and economic [[Competitiveness]].*
@@ -305,7 +310,7 @@ updated: 2026-10-20
 > > - **技术官僚学派** 认为依托人力预测模型（Parnes, 1962）能精准测算国家人才结构，实现社会资源的最优宏观配置。
 > > - **批判政治学派与马修** 指出人力资本的实证外衣在实质上充当了“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi），政客借此推卸政策失误责任，掩饰阶级不平等与意识形态决断（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 67–68]]）。
 >
-> > [!axis] 人文教化与批判反思 vs 人力资本与经济[[Competitiveness|竞争力]][[Disciplina and Doctrina|规训]]
+> > [!axis] 人文教化与批判反思 vs 人力资本与经济[[Competitiveness|竞争力]]规训
 > > 围绕比较教育究竟应当维系植根于哲学与历史传统的教化（[[Bildung]]）反思与审慎导航，还是彻底沦为服务于国家人力资本积累与经济对标的实用工具展开交锋。
 > >
 > > - **欧陆传统与米特立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与批判启蒙价值，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。
@@ -348,10 +353,10 @@ updated: 2026-10-20
 > > - **教科文组织人文主义批判（Mayor et al., 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 强烈抗议将“人类发展”等同于“人力资源开发”，主张人本身即是发展的终极目的，经济目标必须全面从属于人的自我完善与福祉，坚决抵制将人工具化为经济生产要素。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 >
 > > [!axis] 长周期人力资本技能培训 vs 工作优先快速就业（循证规程下的因果评估赤字）
-> > 围绕在积极劳动力市场与福利改革中，应当优先投资于长周期的教育培训以积累长效人力资本，还是推行“工作优先”策略以快速脱离救济，以及两类模式在跨国政策借用中遭遇的实证评价门槛展开交锋。
+> > 围绕在积极劳动力市场与福利改革中，应当优先投资于长周期的教育培训以积累长效人力资本，还是推行“工作优先”策略以快速脱离救济，以及两类模式在跨国[[Policy Borrowing|政策借用]]中遭遇的实证评价门槛展开交锋。
 > >
-> > - **人力资本技能培训学派与北欧模式** 瑞典等北欧福利国家主张通过长周期的人力资本投资、深度技能培训与公共教育支持，从根本上重塑失业者的职业技能与长效生产力。
-> > - **工作优先模式与循证因果评估壁垒（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 英国新工党跨国搜寻福利与就业改革范式时，瑞典的人力资本深度培训模式因缺乏严密的[[Random Assignment|随机对照试验]]（RCT）或匹配比较组等衡量因果净影响（impact）的实证数据，被英国决策官员直接否决（ruled out）；英国政府转而全面借用拥有 MDRC 严密随机实验数据的美国“工作优先”（work-first）快速就业模式。这揭示出在[[Evidence-Based Policy-Making|循证决策]]机会结构下，长周期人力资本培训方案面临因果实证测度壁垒与即时证据赤字，易在追求立竿见影政绩的跨国政策竞争中被短期干预模式挤压淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 341)]]
+> > - **人力资本技能培训学派与[[Nordic Model of Education|北欧模式]]** 瑞典等北欧福利国家主张通过长周期的人力资本投资、深度技能培训与公共教育支持，从根本上重塑失业者的职业技能与长效生产力。
+> > - **工作优先模式与循证因果评估壁垒（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 英国新工党跨国搜寻福利与就业改革范式时，瑞典的人力资本深度培训模式因缺乏严密的[[Randomised Controlled Trials|随机对照试验]]（RCT）或匹配比较组等衡量因果净影响（impact）的实证数据，被英国决策官员直接否决（ruled out）；英国政府转而全面借用拥有 [[MDRC]] 严密随机实验数据的美国“工作优先”（work-first）快速就业模式。这揭示出在[[Evidence-Based Policy-Making|循证决策]]机会结构下，长周期人力资本培训方案面临因果实证测度壁垒与即时证据赤字，易在追求立竿见影政绩的跨国政策竞争中被短期干预模式挤压淘汰。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 341)]]
 
 > [!citation-card] 教科文组织论人本身即是发展的终极目的
 > 必须避免将人类发展等同于人力资源开发……关键在于将人视为发展的终极目的本身，而非实现经济目标的工具或手段；经济目标必须从属于人的自我完善与福祉。（Mayor et al., 1997, p. 89；引自 [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）
@@ -368,7 +373,7 @@ updated: 2026-10-20
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化规训压力。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 梳理OECD从1960年代狭隘科技人力规划向1990年代中期后基于[[New Growth Theory|内生新增长理论]]的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]转型，揭示人力资本理论如何将教育重塑为兼具公私属性的投资工具。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
@@ -377,7 +382,7 @@ updated: 2026-10-20
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — [[Learning Crisis|全球学习危机]]与教师教学质量观察工具手册，揭示初等教育入学率扩张与实质人力资本积累脱节的“学习贫困”机制，确立微观课堂[[Effective Teaching|有效教学]]行为对打破发展中国家学业鸿沟的核心决定作用。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察世行等国际组织如何以人力资本理论及社会收益率测算为无可替代的理论正统，将教学有效性窄化为成本效益，引发[[UNESCO|教科文组织]]人本主义反弹。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合奥古斯丁神学目光的世俗化演进与全景视差分析，批判将教育异化为新自由主义人力资本积累与终身学习经济规训的眼球中心主义范式。
-> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党福利改革跨国借用实践，揭示瑞典基于人力资本理论的深度技能培训方案因缺乏随机对照试验因果评估数据而被决策官员直接否决，输给美国“工作优先”随机实验项目的循证筛选机制。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合奥古斯丁神学目光的世俗化演进与全景视差分析，批判将教育异化为新自由主义人力资本积累与[[Lifelong Learning|终身学习]]经济规训的眼球中心主义范式。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党福利改革跨国借用实践，揭示瑞典基于人力资本理论的深度技能培训方案因缺乏[[Randomised Controlled Trials|随机对照试验]]因果评估数据而被决策官员直接否决，输给美国“工作优先”随机实验项目的循证筛选机制。
 
 ---

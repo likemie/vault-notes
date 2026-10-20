@@ -11,7 +11,7 @@ aliases:
 summary: "资助方或放贷方在提供公共资金、优惠贷款或产业补贴时，依法或依契约向受助方施加的前置准入门槛、合规义务与制度重构约束。在超国家开发治理中，表现为主权借贷捆绑的宏观紧缩与体制改革条款（如世行与IMF的结构调整条件），其实际成效取决于借款国本土政治意愿而非外源性强制（Castro, 2009）；在现代国家产业战略中，表现为主权政府向受补贴私营企业绑定的公共价值护栏（劳工技能、托儿保障、禁止股票回购、超额利润分享与国家安全限制），旨在防范资本寻租并重塑公私社会契约（Reynolds, 2024）。"
 type: concept
 domain: "science-policy"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,13 +32,13 @@ related_concepts:
   - "[[Strategic Compliance]]"
   - "[[Washington Consensus]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Geopolitics]]"
   - "[[Assemblage]]"
   - "[[Precompetitive Research]]"
   - "[[Public-Private Partnership]]"
   - "[[Orchestrator State]]"
   - "[[Innovation Hub]]"
   - "[[Strategic Autonomy]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Multilateral Development Bank]]"
   - "[[Pilot Scale Platform]]"
   - "[[Liberalization]]"
@@ -49,7 +49,6 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
@@ -142,7 +141,7 @@ updated: 2026-10-20
 > [!tension-table] 美欧半导体法案附加条件规制强度与执行机制对照
 > | 规制维度 | 美国集中式法定强约束模式（[[CHIPS and Science Act\|CHIPS Act]]） | 欧盟去中心化弱约束与危机激活模式（[[European Chips Act\|EU Chips Act]] / [[Important Projects of Common European Interest\|IPCEI]]） |
 > |:---|:---|:---|
-> | **地缘安全护栏** | 设立长达 10 年的安全禁令：获得联邦资助的企业严禁在受关注国（针对中国）新建或扩建先进制程产能（>5%），违者全额追索收回补贴。 | 缺乏统一的地缘政治排他条款，未对受助企业的海外在华投资与先进制程扩产设立硬性禁令。 |
+> | **地缘安全护栏** | 设立长达 10 年的安全禁令：获得联邦资助的企业严禁在受关注国（针对中国）新建或扩建先进制程产能（>5%），违者全额追索收回补贴。 | 缺乏统一的[[Geopolitics\|地缘政治]]排他条款，未对受助企业的海外在华投资与先进制程扩产设立硬性禁令。 |
 > | **劳工与社会福利** | 强制要求受助企业必须支付当地法定的现行工资，且规模超过 1.5 亿美元的大型项目必须为一线与建筑工人提供价格可负担的高质量托儿服务。 | [[EU\|欧盟]]委员会无权制定统一用工规范与托儿福利，完全交由各成员国依据本国劳动法自行处理，缺乏全欧统一的社会契约绑定。 |
 > | **资本再分配纪律** | 严禁企业将获得的补贴款用于股票回购或向股东发放分红；如果项目的商业利润超过最初预期，必须同联邦政府分享超额利润。 | 仅在跨国项目（[[Important Projects of Common European Interest\|IPCEI]]）中设立了利润回缴机制（Claw-back），但具体收回程序和比例由出资国政府自行掌控，缺乏中央统筹。 |
 > | **日常监督与干预权限** | 联邦商务部与国家标准与技术研究院拥有日常实地审查、分批发放资金、随时叫停拨付与强制追讨的法定权力。 | 欧委会日常缺乏微观规制手段；仅在官方正式认定进入严重供应链断裂危机时，才有权指令企业通报产能并优先满足欧洲本土订单，违者处以罚款。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–16)]] |
@@ -242,7 +241,7 @@ updated: 2026-10-20
 
 ### 命题六　超国家主权信贷附加条件的落地成效取决于借款国本土政治意愿而非外源性强制指令
 
-> [!concept-lens] 外部指令[[Disciplina and Doctrina|规训]]与本土政治所有权
+> [!concept-lens] 外部指令规训与本土政治所有权
 > 探讨[[Multilateral Development Bank|多边开发银行]]的借贷附加条件为何在缺乏借款国自主改革意愿时极易陷入停摆与执行失败。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
@@ -289,7 +288,7 @@ updated: 2026-10-20
 > > - **跨国企业诉求** 担忧过于严厉的地缘护栏切断了巨大的市场营收，削弱自身长期研发自我造血能力。
 > > - **国家安全战略** 坚持重大先进制程产能直接关系国防与前沿算力安全，必须优先保障地缘安全不可退让。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 >
-> > [!axis] 外源性强制借贷[[Disciplina and Doctrina|规训]] vs. 本土政治所有权
+> > [!axis] 外源性强制借贷规训 vs. 本土政治所有权
 > > 探讨超国家金融机构施加的借贷附加条件是否构成对主权国家政策自主权的外部剥夺，以及缺乏内生所有权时的实效悖论。
 > >
 > > - **外部规训与信贷纪律派** 认为借款国往往存在严重的政治寻租、效率低下与财政纪律涣散，多边金融机构设立严格的附加条件是保障贷款资金安全与倒逼其推进现代化结构性改革的必要手段。

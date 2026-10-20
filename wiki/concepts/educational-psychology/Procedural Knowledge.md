@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Cartiff_2021_JEP]]"
@@ -49,7 +48,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 confidence: high
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Procedural Knowledge
@@ -185,6 +184,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理 Belenky 等人（1986）的[[Women's Ways of Knowing\|女性认知方式]]模型，解析程序性[[Epistemology\|认识论]]阶段中分离型与连结型认知在证据评估中的机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]因果干预[[Meta-analysis\|元分析]]，在[[Academic Achievement\|学业成就]]类型调节分析中实证揭示认识论干预对高阶论证和概念知识的显著促进，以及对程序性知识任务的效能脱节，确立了[[Construct\|构念]]的作用边界。

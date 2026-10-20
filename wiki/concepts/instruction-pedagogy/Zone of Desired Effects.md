@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中设定的 d>=0.40 期望效应区阈值，将所有影响因素的简单算术均值假托为一年自然学业成长基准，被批判为缺乏物理实体基准与比率尺度属性的伪科学假象及政策规训工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Homework]]"
   - "[[Class Size]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Clinical Trial]]"
   - "[[Public Value]]"
   - "[[Dependent Variable]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Learner Autonomy]]"
   - "[[Independent Variable]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -55,7 +55,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Cost-Benefit Analysis]]"
   - "[[Effect Size Conversion]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -164,7 +163,7 @@ updated: 2026-10-20
 
 ### 命题三　叙事性截断门槛脱离成本效益权衡，背离医学临床证据规律并诱发实证证据扭曲
 
-> [!concept-lens] 叙事修辞工具与循证决策逻辑冲突
+> [!concept-lens] 叙事修辞工具与[[Evidence-Based Policy-Making|循证决策]]逻辑冲突
 > 探讨将 $d=0.40$ 作为绝对取舍门槛对低成本、高价值教学实践的机械排斥，以及对实证证据库造成的扭曲压力。
 
 > [!claim] Nielsen & Klitmøller; Snook et al.
@@ -285,7 +284,7 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具与财政紧缩借口的治理功能。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]]规训工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引用[[John Hattie|哈蒂]]自白（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）与医学阿司匹林临床实证（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判 0.40 门槛的叙事修辞本质与证据扭曲后果。
 

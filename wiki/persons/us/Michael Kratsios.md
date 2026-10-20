@@ -21,6 +21,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Success Criteria]]"
+  - "[[Geopolitics]]"
   - "[[Research Translation]]"
   - "[[Innovation Ecosystem]]"
   - "[[Generative Artificial Intelligence]]"
@@ -58,7 +59,6 @@ related_arguments:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Peter Thiel]]"
@@ -90,7 +90,7 @@ updated: 2026-10-20
 ## 生平与职涯
 
 > [!timeline] 生平与职涯发展
-> - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与地缘政治博弈。
+> - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与[[Geopolitics|地缘政治]]博弈。
 > - **2010s 前期** 长期担任硅谷风险投资机构（Thiel Capital）幕僚长与投资总监，深入参与尖端人工智能与数字科技早期资本孵化。
 > - **2017–2021年** 担任白宫总统副助理兼美国首席技术官（CTO），2019 年主导发布白宫首个国家级 AI 战略纲领，并兼任五角大楼代理研发副部长，统筹国防关键[[Research Translation|技术转化]]与军民融合。
 > - **2021–2024年** 投身产业前沿，担任领先大模型数据架构企业 Scale AI 董事总经理，倡导公私融合的国家级人工智能基础设施建设。

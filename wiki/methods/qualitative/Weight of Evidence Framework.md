@@ -8,7 +8,7 @@ summary: "由 Gough（2007）提出的系统综述证据评价方法，通过方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -52,7 +52,6 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[Research Synthesis]]"
   - "[[Critical Review]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[AMSTAR]]"
   - "[[Mixed Methods Appraisal Tool]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Weight of Evidence Framework
@@ -165,5 +164,5 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]** 在讨论国际网络证据门户的六大[[Operationalization\|操作化]][[Evidence Standards\|证据标准]]维度时，WoE 框架作为 [[EPPI-Centre]] [[Systematic Review\|系统综述]]规程的核心质量评价工具被援引，体现了研究质量与问题适切性双维权衡的方法学理念。（pp. 153–156）

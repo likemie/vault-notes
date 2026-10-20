@@ -7,10 +7,10 @@ aliases:
 summary: "指个体或组织在面对外部群体压力、世俗共识与社会评价时所保持的一种选择性钝感与反从众免疫力。在卡普与扎米斯卡（2025）的科技治理与工程思维体系中，社交失聪并非病理性感知缺陷，而是一种极具生产性的自适应心理机制——通过屏蔽世俗人际算计与从众噪音，专注于底层软件架构与前沿实战系统的颠覆性探索。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Screening Off]]"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Constructive Disobedience]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"

@@ -9,10 +9,10 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - epistemology
@@ -30,11 +30,17 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Apprenticeship]]"
   - "[[Reflexivity]]"
+  - "[[Epistemic Governance]]"
+  - "[[Geopolitics]]"
+  - "[[Knowledge Power]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Intellectual Capital]]"
   - "[[Lifelong Learning]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Problem Solving]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Determinism]]"
   - "[[Epistemic Stances]]"
@@ -42,8 +48,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Social Realism]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Dominique Foray]]"
@@ -106,7 +111,7 @@ updated: 2026-10-20
 > - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
-> - **全球知识治理与地缘政治动员中的隐性知识（Tacit Knowledge in Global Governance & Knowledge Power）** 在跨国高等教育与知识外交中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性知识资本以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 
@@ -154,7 +159,7 @@ updated: 2026-10-20
 > - **1990 年代初 — 管理学与组织学习扩展** 野中郁次郎（Ikujiro Nonaka）等学者提出著名的 SECI 模型，将默会知识与显性知识的相互转化确立为企业知识创造与创新的核心机制。
 > - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
-> - **2020年代 — 向全球知识治理与地缘战略动员的扩展** 知识外交与高等教育地缘政治学者将隐性知识引入跨国知识权力分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **2020年代 — 向全球[[Epistemic Governance|知识治理]]与地缘战略动员的扩展** [[Knowledge Diplomacy|知识外交]]与[[Geopolitics of Higher Education|高等教育地缘政治]]学者将隐性知识引入跨国[[Knowledge Power|知识权力]]分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 
@@ -183,4 +188,4 @@ updated: 2026-10-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与知识外交分析中，揭示非正式网络规范与制度性隐性知识在全球知识权力配置与跨国政策动员中的关键中介作用。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]分析中，揭示非正式网络规范与制度性隐性知识在全球[[Knowledge Power|知识权力]]配置与跨国政策动员中的关键中介作用。

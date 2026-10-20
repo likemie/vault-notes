@@ -9,7 +9,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量对观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Scale Development]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
   - "[[Composite Reliability]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Average Variance Extracted
@@ -162,7 +161,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示四个维度 AVE 为 .50–.56，均达标且高于因子间决定系数，收敛与[[Convergent and Discriminant Validity|区分效度]]良好。
 
 ---

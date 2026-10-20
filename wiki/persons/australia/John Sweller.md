@@ -6,7 +6,7 @@ summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 33
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Presence]]"
   - "[[Evidence-Based Education]]"
   - "[[Progressive Education]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Control of Variables Strategy]]"
   - "[[Productive Failure]]"
   - "[[Source of Knowledge]]"
@@ -43,7 +42,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Design-Based Research]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Richard E. Mayer]]"
   - "[[Ton de Jong]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # John Sweller
@@ -138,7 +136,7 @@ updated: 2026-10-17
 > - **政策路径** 其学术观点被英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）采纳并写入指导指南；被澳大利亚保守智库独立研究中心（CIS）包装为政策分析文本；并在澳大利亚《强劲开端》（[[Strong Beginnings Report]]）报告中被确立为[[Initial Teacher Training\|初始教师教育]]全国必修标准。
 > - **跨国／跨领域传播** 理论从澳大利亚与荷兰发源，广泛传播至欧美主流[[Evidence-Based Education\|循证教育]]界，被政策制定者作为反对[[Progressive Education\|进步主义教育]]、推行标准化显性教学的实证科学依据。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 从批判政策社会学视角剖析 Sweller 的认知负荷理论著作如何被澳大利亚保守派智库 CIS 动员，并通过《强劲开端》报告强制嵌入全国初始教师教育。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 针对 Zhang, Kirschner, Cobern, & Sweller (2022) 倡导的[[Direct Instruction\|直接教学]]绝对优越论展开全面批判，系统反驳其对[[Working Memory\|工作记忆]]瓶颈的片面阐释，证实辅以支架的[[Inquiry-Based Learning\|指导式探究]]在深层概念理解与长效保持上的实证优越性。
 
@@ -157,7 +155,7 @@ updated: 2026-10-17
 
 > [!person-network] 关系网络
 > - **学术合作者** Paul A. Kirschner — 长期核心学术盟友，共同发表 2006 年极简指导批判及 2022 年科学教育政策危机论；Richard E. Clark — 共同合著 2006 年论文；Jeroen J. G. van Merriënboer 与 Fred Paas — 1990 年代共同奠定现代三维[[Cognitive Load Theory\|认知负荷理论]]模型；张莉（Li Zhang）— 合作撰写 2022 年反探究政策论文。
-> - **论敌与批评者** [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] — 学习科学阵营学者，于 2007 年与 2023 年两度对 Sweller 阵营发起系统反击，证明[[Inquiry-Based Learning\|指导式探究]]具有更优的概念建构与迁移成效；Anthony Skourdoumbis — 批判其理论沦为保守派智库[[Disciplina and Doctrina\|规训]]教师教育的工具；[[Deanna Kuhn]] — 通过[[Control of Variables Strategy\|变量控制策略]]长期实验反驳其关于[[Direct Instruction\|直接教学]]具有持久优势的主张。
+> - **论敌与批评者** [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] — 学习科学阵营学者，于 2007 年与 2023 年两度对 Sweller 阵营发起系统反击，证明[[Inquiry-Based Learning\|指导式探究]]具有更优的概念建构与迁移成效；Anthony Skourdoumbis — 批判其理论沦为保守派智库规训教师教育的工具；[[Deanna Kuhn]] — 通过[[Control of Variables Strategy\|变量控制策略]]长期实验反驳其关于[[Direct Instruction\|直接教学]]具有持久优势的主张。
 > - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修文献。
 
 ---
@@ -180,7 +178,7 @@ updated: 2026-10-17
 
 > [!critique]- 批评索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 批评其 2022 年论文存在严重的文献选择性引证偏误，曲解了[[Control of Variables Strategy\|变量控制策略]]实验与元分析结论，并指出单一直接教学在长期记忆保持上的严重衰减。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的[[Disciplina and Doctrina\|规训]]工具。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的规训工具。
 
 > [!warning] 未解问题与边界
 > 随着学习科学对探究时序性（如[[Productive Failure\|生产性失败]]中探究前置以激活认知图式、随后直接讲授）的深入探索，Sweller 关于“初学者任何时候都必须先接受显性直接示范”的绝对化断言正面临越来越多的实验边界修正。学界共识逐渐倾向于探讨直接教学与探究实践在认知发展不同阶段的动态时序互补，而非固守二元对立。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]

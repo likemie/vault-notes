@@ -8,7 +8,7 @@ summary: "系统综述的一种质性证据综合方法，以先验框架组织�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -43,7 +43,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Thematic Synthesis]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Framework Synthesis
@@ -149,5 +148,5 @@ updated: 2026-10-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 以整合多层级[[Research Utilization\|研究使用]]框架为先验框架，综合 109 项实证研究并识别出信任、技能发展、可持续结构与关系四类跨层治理机制。

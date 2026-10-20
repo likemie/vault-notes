@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
+  - "[[Geopolitics]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"
   - "[[Soft Power]]"
@@ -46,7 +47,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -59,7 +60,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> Hartmann 提出的核心问题是：**跨国公司（MNCs）在多大程度上能够跨越国界，统一其分布在全球各分支的[[Corporate Education\|企业教育]]？** 这个问题背后藏着更深层的追问——如果说高等教育已经在全球化研究中占据一席之地，那么企业教育（一种非正规、但规模庞大的教育形式）是否也有自己的地缘政治和地缘经济维度？
+> Hartmann 提出的核心问题是：**跨国公司（MNCs）在多大程度上能够跨越国界，统一其分布在全球各分支的[[Corporate Education\|企业教育]]？** 这个问题背后藏着更深层的追问——如果说高等教育已经在全球化研究中占据一席之地，那么企业教育（一种非正规、但规模庞大的教育形式）是否也有自己的[[Geopolitics|地缘政治]]和地缘经济维度？
 
 简单来说：如果一家德国制药公司在巴西、印度、中国都有分支，它能让所有员工接受同样的培训吗？如果能，这意味着什么？
 
@@ -117,7 +118,7 @@ Berger and Luckmann(1966)补充了一个关键洞察：合法性不仅告诉你"
 
 > [!example]
 
-Hartmann 的论证分为六个递进步骤，从确立研究价值开始，到揭示地缘政治维度的复杂悖论结束。每一步都先讲概念、再举例子，确保抽象理论落地。
+Hartmann 的论证分为六个递进步骤，从确立研究价值开始，到揭示[[Geopolitics|地缘政治]]维度的复杂悖论结束。每一步都先讲概念、再举例子，确保抽象理论落地。
 
 ### 第一步：为什么要研究企业教育？
 
@@ -254,7 +255,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 - 营利性教育提供商面临市场波动性与权威稳定性之间的结构性矛盾。五种应对策略——专业认证、规模/网络效应、协同效应、IPR 排他性、市场集中——正在推动形成寡头市场(pp.191–193)
 - 少数 IT 巨头（如 Microsoft）通过 IPR 和操作系统垄断，其规范扩散力量已近乎强制型同构(p.193)
 
-**关于地缘政治维度：**
+**关于[[Geopolitics|地缘政治]]维度：**
 - 多数企业教育提供商总部位于美国，这反映了全球高科技行业的美国集中度。美国因 LME 制度背景而拥有全球教育市场化的"先发优势"(pp.193–194)
 - 无法确定是"国家利用公司"还是"公司利用国家"，地缘政治与地缘经济的边界正在融合(pp.194–196)
 
@@ -288,7 +289,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 > [!warning]
 > - **试点[[Research Scope\|研究范围]]有限** 作者自述研究聚焦制药行业，结论的推广性需要更多行业的验证(p.180)
 > - **多处依赖管理学研究文献** 论文在分析 MNC 类型和[[Corporate University\|企业大学]]类型时，大量引用管理学和产业社会学文献来补充试点研究的数据不足，经验证据的独立性有限
-> - **专业协会的地缘政治分析不足** 作者承认关于专业协会的国际化程度和地缘政治角色"需要更多研究才能得出结论"(pp.189, 190)
+> - **专业协会的[[Geopolitics|地缘政治分析]]不足** 作者承认关于专业协会的国际化程度和地缘政治角色"需要更多研究才能得出结论"(pp.189, 190)
 > - **对教育内容本身的忽视** 论文专注于[[Corporate Education\|企业教育]]的规范扩散和权威建构机制，但未讨论企业教育的内容（课程设计、教学法、评估方式）如何再现或挑战全球不平等
 > - **[[Varieties of Capitalism]] 框架使用较表面** 论文使用 CME vs LME 的二分法来解释美国和德国 MNCs 的差异，但未探讨中国、印度等不属于这两种类别的经济体中 MNCs 的企业教育策略
 > - **"[[Lifelong Learning]]"作为独立概念**在论文中有出现但未被独立条目化——未来可从其他论文补充建立

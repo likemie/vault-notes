@@ -8,7 +8,7 @@ summary: "奥地利教育社会学家、苏黎世大学荣休讲席教授，欧�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Cohort Study]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Helmut Fend
@@ -110,5 +109,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与[[Recontextualization|再情境化]]理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观转译机制。

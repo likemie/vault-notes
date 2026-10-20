@@ -11,7 +11,7 @@ subtype: event
 region: "germany"
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - theme/holocaust-remembrance
   - region/germany
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
   - "[[Hard Power]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Walser-Bubis Debate
@@ -79,7 +78,7 @@ updated: 2026-10-16
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **认同正常化倡导方** [[Martin Walser]]、部分知识分子及普通公众 — 呼吁走出无休止的公开道德[[Disciplina and Doctrina|规训]]，将历史反思还给个体良知。
+> - **认同正常化倡导方** [[Martin Walser]]、部分知识分子及普通公众 — 呼吁走出无休止的公开道德规训，将历史反思还给个体良知。
 > - **道德底线捍卫方** [[Ignatz Bubis]]、犹太社群领袖及左翼批判学者 — 坚持公开制度化纪念是德国民主防范极右翼复活的绝对红线。
 > - **官方建制调停方** 联邦总统罗曼·赫尔佐格等政要 — 试图在维护大屠杀神圣记忆与呼应普通公民正常民族情感之间寻求平衡。
 

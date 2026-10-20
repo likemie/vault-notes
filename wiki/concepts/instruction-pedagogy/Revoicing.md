@@ -8,7 +8,7 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点作者权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,7 +37,6 @@ related_arguments:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Gove]]"
   - "[[Erving Goffman]]"

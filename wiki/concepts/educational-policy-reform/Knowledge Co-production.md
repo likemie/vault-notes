@@ -10,7 +10,7 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境；苏格兰与德国的治理经验证实制度化实践者探究与同侪会商是弥合专长断裂、实现知识共创的关键路径。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Practitioner Enquiry]]"
   - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[CORE Education]]"
   - "[[OECD]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Knowledge Co-production
@@ -223,7 +222,7 @@ updated: 2026-10-16
 
 ## 相关研究索引
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，系统揭示知识共创作为证据生态基础设施的现实落差，实证指出实践者在研究生产全周期中被严重局限于“数据收集”客体环节，并论证外在制度化激励机制缺位是阻碍共创的核心瓶颈。（pp. 89–96）
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较三地[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]，指出苏格兰把[[Practitioner Enquiry\|实践者探究]]嵌入 [[General Teaching Council for Scotland\|GTCS]] 标准，使教师成为知识共创者（pp. 14–16, 23–24）。
 

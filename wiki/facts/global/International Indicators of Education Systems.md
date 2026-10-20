@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Heterogeneity]]"
   - "[[New Public Management]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[School Autonomy]]"
   - "[[Science and Technology Studies]]"
   - "[[Commensuration]]"
@@ -49,8 +48,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Global Education Governing Complex]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Jarl Bengtsson]]"
@@ -62,6 +60,7 @@ related_facts:
   - "[[PISA]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Teaching and Learning International Survey]]"
+  - "[[IEA]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -137,7 +136,7 @@ updated: 2026-10-20
 > | **对成绩的态度** | 坚决要求将学生考试成绩纳入指标以评估绩效（Lugano 决策） | 强烈反对将脱敏成绩简化为国别指标，警惕伪因果与不当问责 |
 > | **治理哲学** | [[New Public Management\|新公共管理]]（New Public Management，NPM）、结果导向与跨国竞争压力 | 基础科学描述、系统生态理解与谨慎推论 |
 >
-> **关键裁决** 卢加诺会议确立了政治意志对学术科学的全面[[Disciplina and Doctrina\|规训]]：为了向公众与议会提供“可计算的世界”，科学家的技术迟疑被定性为改革阻力并遭到边缘化。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 12–13)]]
+> **关键裁决** 卢加诺会议确立了政治意志对学术科学的全面规训：为了向公众与议会提供“可计算的世界”，科学家的技术迟疑被定性为改革阻力并遭到边缘化。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 12–13)]]
 
 ---
 
@@ -178,4 +177,4 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学与技术研究（[[Science and Technology Studies|STS]]）分析 INES 与《[[Education at a Glance|教育概览]]》的诞生档案，详尽解构指标研发中科学家与政策制定者在塞默灵、卢加诺会议上的权力博弈与[[Knowledge Production|知识生产]]机制。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 从[[Global Education Governing Complex|全球教育治理复合体]]历时演变切入，论证 1980 年代美国《国家处在危险之中》如何促成[[OECD|经合组织]]启动 INES，进而完成从粗放人力预测向跨国数据治理的历史跨越。
-> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 INES Network A 在汇总《[[Education at a Glance|教育概览]]》学习成果数据时对 IEA 的技术不满，如何倒逼经合组织从指标收集者转向自主数据生产者并催生 PISA。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 INES Network A 在汇总《[[Education at a Glance|教育概览]]》学习成果数据时对 [[IEA]] 的技术不满，如何倒逼经合组织从指标收集者转向自主数据生产者并催生 [[PISA]]。

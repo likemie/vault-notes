@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 102
+method_related_count: 107
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -58,6 +58,9 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Incommensurability]]"
   - "[[Category Mistake]]"
+  - "[[Epistemology]]"
+  - "[[Commensuration]]"
+  - "[[Effective Teaching]]"
   - "[[Predictive Validity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -68,12 +71,12 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Automated Data Extraction]]"
   - "[[General Purpose Technology]]"
-  - "[[Epistemology]]"
   - "[[Critique of Meta-meta-analysis]]"
   - "[[Replication in Education Research]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Stability vs. Variability Dilemma]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -111,6 +114,7 @@ related_instruments:
   - "[[PRISMA]]"
   - "[[GROOVE]]"
 related_facts:
+  - "[[COACTIV]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -133,10 +137,12 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+related_persons:
+  - "[[Ewald Terhart]]"
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Meta-meta-analysis

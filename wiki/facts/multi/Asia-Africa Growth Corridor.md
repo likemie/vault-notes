@@ -9,9 +9,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2017–至今"
 initiator_organization: "印度政府、日本政府"
@@ -24,7 +24,11 @@ tags:
   - theme/infrastructure
   - theme/south-south-cooperation
 related_concepts:
+  - "[[Regional Innovation System]]"
+  - "[[Document]]"
+  - "[[Geopolitics]]"
   - "[[South-South Cooperation]]"
+  - "[[Paradigm]]"
   - "[[People-to-People Connectivity]]"
 related_theories: []
 related_methods: []
@@ -32,6 +36,8 @@ related_instruments: []
 related_persons:
   - "[[Kenneth King]]"
 related_facts:
+  - "[[ASEAN]]"
+  - "[[OECD]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
@@ -54,7 +60,7 @@ updated: 2026-10-20
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2017年5月在印度甘地讷格尔召开的第52届非洲开发银行（African Development Bank, AfDB）年会上正式发布联合愿景文件，目前处于构想停滞状态。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **发起方与资助机制** 由印度外交部与日本外务省共同发起，依托日本国际协力机构（JICA）及印度海外援助资金构想开展配比资助，同时引导私营资本参与。
-> - **覆盖范围与对象** 辐射非洲东部与大湖区、印度次大陆以及东盟相关沿海经济体，重点聚焦港口物流、绿色能源与数字化合作。
+> - **覆盖范围与对象** 辐射非洲东部与大湖区、印度次大陆以及[[ASEAN|东盟]]相关沿海经济体，重点聚焦港口物流、绿色能源与数字化合作。
 > - **核心问题导向** 旨在回应非洲基础设施滞后与产业技术瓶颈，通过强调环境社会标准、透明度与财政可持续性，提供差异化的多边合作构想。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
 
 ---
@@ -71,12 +77,12 @@ updated: 2026-10-20
 >   2. 高质量基础设施与制度联通：开发深水海港、跨国物流园区及通关便利化制度。
 >   3. 能力建设与技能提升：由印日两国机构协助非洲开展公共管理、工程技术与师资联合培训。
 >   4. 人文合作伙伴关系：推动大学智库联盟、青年学者互访与文化艺术交流。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
-> - **实施控制** 强调严格遵循经济合作与发展组织（OECD）债务透明度与环境评估准则，通过多边联合研究报告论证可行性。
+> - **实施控制** 强调严格遵循[[OECD|经济合作与发展组织]]（OECD）债务透明度与环境评估准则，通过多边联合研究报告论证可行性。
 
 > [!citation-card] 愿景文件的智库起草主导性
-> 审视其起草机构结构发现，核心愿景文件完全由三家亚洲智库联合编制：印度发展中国家研究和信息系统中心（RIS）、日本贸易振兴机构亚洲经济研究所（IDE-JETRO）及东亚东盟经济研究中心（ERIA），全流程缺少非洲学者、智库或政府机构的实质参与。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
+> 审视其起草机构结构发现，核心愿景文件完全由三家亚洲智库联合编制：印度发展中国家研究和信息系统中心（[[Regional Innovation System|RIS]]）、日本贸易振兴机构亚洲经济研究所（IDE-JETRO）及东亚[[ASEAN|东盟]]经济研究中心（ERIA），全流程缺少非洲学者、智库或政府机构的实质参与。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
 >
-> *Looking at the structure of drafting bodies, the core vision document was produced solely by three Asian think tanks: RIS in India, IDE-JETRO in Japan, and ERIA in Jakarta, with an absence of substantive participation from African scholars, think tanks, or government institutions.*
+> *Looking at the structure of drafting bodies, the core vision [[Document|document]] was produced solely by three Asian think tanks: RIS in India, IDE-JETRO in Japan, and ERIA in Jakarta, with an absence of substantive participation from African scholars, think tanks, or government institutions.*
 
 ---
 
@@ -88,7 +94,7 @@ updated: 2026-10-20
 > - **2017–2019 — 智库研讨活跃与官方机制停滞期**
 >   印日智库组织了多轮学术研讨会并起草多份国别研究报告，但官方层面始终未能组建常设政府间协调委员会，亦未建立面向非洲国家的双边磋商机制。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
 > - **2020至今 — 倡议淡化与多边替代演变**
->   随着全球地缘政治格局演变与印太经济框架调整，该倡议逐渐淡出两国外交日程核心，其部分基础设施构想被整合进四方安全对话（Quad）及日美印等其他小多边机制之中。
+>   随着全球[[Geopolitics|地缘政治]]格局演变与印太经济框架调整，该倡议逐渐淡出两国外交日程核心，其部分基础设施构想被整合进四方安全对话（Quad）及日美印等其他小多边机制之中。
 
 ---
 
@@ -96,7 +102,7 @@ updated: 2026-10-20
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 印度外交部、日本外务省及日本国际协力机构，负责政治互访与潜在项目的官方开发援助资金筹措。
-> - **研发与规划智库** 印度发展中国家研究和信息系统中心（Research and Information System for Developing Countries, RIS）、日本贸易振兴机构亚洲经济研究所（Institute of Developing Economies, Japan External Trade Organization, IDE-JETRO）及东亚东盟经济研究中心（Economic Research Institute for ASEAN and East Asia, ERIA）。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
+> - **研发与规划智库** 印度发展中国家研究和信息系统中心（Research and Information System for Developing Countries, [[Regional Innovation System|RIS]]）、日本贸易振兴机构亚洲经济研究所（Institute of Developing Economies, Japan External Trade Organization, IDE-JETRO）及东亚[[ASEAN|东盟]]经济研究中心（Economic Research Institute for ASEAN and East Asia, ERIA）。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **区域对接组织** 非洲开发银行（AfDB），作为倡议文本初次发布的展示平台。
 > - **目标受益群体** 设想中的非洲沿海国家政府部门、物流企业与技术劳动力。
 
@@ -149,6 +155,6 @@ updated: 2026-10-20
 > |:-----|:-----|:-----|
 > | [[Belt and Road Initiative]] | Fact (Policy) | 亚非增长走廊在地缘战略与跨洲基础设施领域直接对冲的国际倡议。 |
 > | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 展现常态化双边多边磋商与高效履约能力的对照机制。 |
-> | [[South-South Cooperation]] | Concept | 走廊倡议试图借助却因主体性缺失而未能充分践行的合作范式。 |
+> | [[South-South Cooperation]] | Concept | 走廊倡议试图借助却因主体性缺失而未能充分践行的合作[[Paradigm\|范式]]。 |
 > | [[People-to-People Connectivity]] | Concept | 走廊第四支柱所倡导但在实际推进中严重匮乏的社会交往维度。 |
 > | [[Kenneth King]] | Person | 系统剖析该走廊智库封闭性与非洲缺席问题的主要学者。 |

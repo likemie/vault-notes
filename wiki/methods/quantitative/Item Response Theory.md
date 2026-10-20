@@ -11,9 +11,9 @@ summary: "基于潜在特质与概率函数的现代心理测量与测验理论�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 29
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - theme/measurement
@@ -46,7 +46,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Rasch Measurement]]"
-  - "[[Correlational Research]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -59,7 +58,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Item Response Theory
@@ -225,6 +224,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 系统阐释 IRT 基本原理、潜在特质假设、题目属性与样本独立性、Rasch 模型及 CAT 算法。
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 追踪德国 [[Institute for Educational Quality Improvement\|IQB]] 如何运用 IRT 算法将 16 州异质考试转化为统一 5 级能力模型，并运营全国 [[Vergleichsarbeiten\|VERA]] 题库平台实现政策[[Topological Spatialisation\|拓扑重组]]。

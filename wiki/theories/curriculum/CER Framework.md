@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 21
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[William H. McNeill]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # CER Framework
@@ -140,5 +139,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model\|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型统合[[Epistemic Ideals\|认识论理想]]与可靠认识过程的实质论证评价框架。

@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,12 +23,10 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Democratic Education]]"
   - "[[Lifelong Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Epistemology]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
@@ -40,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # International Mind
@@ -150,7 +148,7 @@ updated: 2026-10-16
 
 > [!tension] 和平主义改良的本质争议
 > - **客观理性的和平技术（蓝方）** 倡导者认为，“国际心智”通过中立的比较和多边沟通消除意识形态蒙昧，是促进多元政体国家在非暴力框架下寻求共识、建立国际法秩序的科学路径。
-> - **自由主义的文化[[Disciplina and Doctrina\|规训]]（红方）** 批判学者指出，该心态背后的“客观知识”标准由西方自由主义国家定义，其实质是利用国际组织对非西方或落后国家进行隐性的文化规训，确立西方启蒙理性的知识垄断。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]], p. 428)
+> - **自由主义的文化规训（红方）** 批判学者指出，该心态背后的“客观知识”标准由西方自由主义国家定义，其实质是利用国际组织对非西方或落后国家进行隐性的文化规训，确立西方启蒙理性的知识垄断。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]], p. 428)
 
 > [!critique] 外部学术批判
 > - **权力真空假说** 现实主义学派（Realism）批评“国际心智”过度依赖道德说教与教科书审查，完全无视了国家间硬性的地缘权力竞争、领土争端以及根本性的国家安全焦虑。
@@ -163,5 +161,5 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入解析了 Wight 的理性主义传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现[[Disciplinary Institutionalization|学科建制化]]的核心[[Epistemology\|认识论]]武器。

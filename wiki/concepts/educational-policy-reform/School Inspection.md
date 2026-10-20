@@ -24,7 +24,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Official Knowledge]]"
   - "[[Discourse]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
   - "[[Self-control]]"
   - "[[Performativity]]"
@@ -57,6 +56,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Policy Avoidance]]"
   - "[[Mediatised Governance]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Path Dependence]]"
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向外部国家公权力对具有相对自主权的学校组织开展的常规或突击现场质量审查与行政裁决机制。
-> - **用途** 审视国家如何通过设置督导框架确立“何为合格学校”的[[Official Knowledge\|官方知识]][[Discourse|话语]]，揭示高利害外部审查如何[[Disciplina and Doctrina\|规训]]校长与教师的微观教学实践与合规策略。
+> - **用途** 审视国家如何通过设置督导框架确立“何为合格学校”的[[Official Knowledge\|官方知识]][[Discourse|话语]]，揭示高利害外部审查如何规训校长与教师的微观教学实践与合规策略。
 > - **边界** 学校督导是“自上而下、由外而内”的法定行政监控，不同于学校以内部自我诊断为目的的“校本自我评估（School Self-Evaluation, SSE）”，亦不同于完全依赖纯量化测验分数的“基于测试的问责（[[Test-Based Accountability]]）”。
 
 > [!citation-card] 惩罚性督导与专业共同体的制度对立
@@ -163,7 +163,7 @@ updated: 2026-10-20
 ## 核心要素
 
 > [!feature] 核心要素
-> - **标准主义[[Disciplina and Doctrina\|规训]]框架（Standardised Normative Framework）** 督导机构通过制定严密的评估标准细则，将国家的意识形态、课程大纲与治理诉求法典化，确立何为“卓越教学”与“有效领导”的官方裁判基准。
+> - **标准主义规训框架（Standardised Normative Framework）** 督导机构通过制定严密的评估标准细则，将国家的意识形态、课程大纲与治理诉求法典化，确立何为“卓越教学”与“有效领导”的官方裁判基准。
 > - **实地核验与多源[[Triangulation\|三角互证]]（Triangulated [[Fieldwork]]）** 督导过程强调对“纸面制度”与“真实日常”的现场穿透，依托未预先通知的推门听课（Drop-in Observations）、学生个别抽测、家校访谈与安全记录审查进行交叉印证。
 > - **输入-过程-产出全链条多维评估（Input-Process-Output Tripartite Continuum）** 与单纯截取认知学业产出的纸笔测验不同，现代学校督导系统（如德国 Schulinspektion）将评估触角延伸至校舍设施与生源构成（输入）、课堂教学互动与[[School Leadership\|学校领导]]效能（过程）以及学业达标与学生发展（产出），通过多维全景数据穿透学校运转生态，为解释办学绩效短板提供因果链条支撑。
 > - **校准式单体验收与定向行政干预（Calibrated Single-School Diagnosis & Targeted Intervention）** 督导采取全样本普查式覆盖（All-school Coverage），直接面向具体单所学校出具细粒度诊断反馈，使教育行政官员能够依据真实校情精准调配专项促进资金、指派指导专家或启动跟进视导，实现区别于宏观抽样评估的微观定向治理。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 494–495)]]
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ### 命题一　外部惩罚性督导体系通过行政威慑与标签化惩戒压制专业自主并侵蚀组织信任
 
-> [!concept-lens] 外部强力[[Disciplina and Doctrina\|规训]]对教师专业生态的异化机制
+> [!concept-lens] 外部强力规训对教师专业生态的异化机制
 > 探讨执政精英如何将督导转化为自上而下的惩罚性利器，导致学校组织陷入防御性应检并瓦解同行专业协作。
 
 > [!claim] Grey & Morris

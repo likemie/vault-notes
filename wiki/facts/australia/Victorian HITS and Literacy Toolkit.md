@@ -33,7 +33,6 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Cooperative Learning]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Chain of Evidence]]"
   - "[[Neo-Taylorism]]"
   - "[[Teacher Professional Agency]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Professional Judgment]]"
   - "[[Empiricism]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Didaktik]]"
 related_theories: []
@@ -65,7 +65,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-20
 year: 2017
 doi: ""
 citation_aliases: []
@@ -98,7 +98,7 @@ citation_aliases: []
 >   - **读写教学工具包（Literacy Teaching Toolkit）** 覆盖学前准备至 6 年级，深度引入由商业出版巨头 [[Corwin Press|Corwin]] 出版的《可见的学习读写教学》（Fisher et al., 2016），规范日常阅读与拼读实操流程。
 > - **约束机制** 借助[[School Leadership|学校领导]]层的日常课堂巡视（Learning Walks）、教案合规性审查以及教师年度绩效考核，将 10 项策略落实为刚性合规义务。
 
-> [!logic-map]- 政策[[Disciplina and Doctrina|规训]]与实施链条
+> [!logic-map]- 政策规训与实施链条
 > ```mermaid
 > flowchart LR
 >     subgraph Evidence["证据源头与商业研发"]
@@ -161,7 +161,7 @@ citation_aliases: []
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 维州教育部技术官僚** 将 HITS 视作展现政绩与回应公共问责的核心治理工具，强调政策的标准化与可控性。
 > - **高权力 · 高利益 — 商业出版与咨询网络（[[Corwin Press|Corwin]] / Cognition）** 借助官方政策背书，将《[[Visible Learning|可见的学习]]》系列图书与教师培训服务大举导入公立教育体系，获取巨额品牌特许与版税收益（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
-> - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理[[Disciplina and Doctrina|规训]]压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+> - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理规训压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **低权力 · 低利益 — 批判性教育研究学者** 独立发表同行评议论文指出其数据算错与政策偏误，但长期被官方行政决策机制边缘化（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）。
 
 > [!prop-table]- 关键行动者属性
@@ -205,7 +205,7 @@ citation_aliases: []
 > > - **维州官方技术官僚（DET Victoria, 2017）** 宣称 HITS 是建立在涵盖数千万学生的元分析实证综合基础之上的最佳实践指南。
 > > - **奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）** 批评政策采纳了未经验证且存在严重数学算错与概念混淆的伪科学数据，制造了垃圾进、垃圾出的政策灾难。
 >
-> > [!axis] [[Neo-Taylorism|新泰勒主义]]清单[[Disciplina and Doctrina|规训]] vs 教师专业自主性
+> > [!axis] [[Neo-Taylorism|新泰勒主义]]清单规训 vs 教师专业自主性
 > > 聚焦微观日常实践，技术监控与教师情境化裁量权的剧烈碰撞。
 > >
 > > - **循证管理倡导者（Hattie, 2009; Fisher et al., 2016）** 认为统一的核查清单与[[Learning Intentions|学习意图]]显性化是确保教学质量底线、克服教师个人[[Empiricism|经验主义]]的必要手段。
@@ -226,7 +226,7 @@ citation_aliases: []
 >
 > *The Victorian Department of Education and Training has published a Literacy Teaching Toolkit and High Impact Teaching Strategies (HITS), referencing Visible Learning as the highest level of evidence... However, close scrutiny reveals category errors, asymmetrical scrutiny, and selective exclusion of evidence in Hattie's meta-analyses. Policy makers have uncritically translated flawed statistical claims into rigid pedagogical prescriptions.*
 
-> [!citation-card] 约翰逊与詹岑论维州 HITS 的清单[[Disciplina and Doctrina|规训]]与教师去专业化
+> [!citation-card] 约翰逊与詹岑论维州 HITS 的清单规训与教师去专业化
 > 在澳大利亚部分推行了基于《可见的学习》的高影响教学策略（HITS）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与[[Learning Intentions|学习意图]]。随着‘证据本位最佳实践’取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 >
 > *In Australian districts where High Impact Teaching Strategies (HITS) based on Visible Learning have been implemented, teachers are forced into simplistic performative technical actions such as writing the topic of a class on the board before beginning a lesson. Teacher autonomy, enjoyment of the profession, and collegial professional development decrease (Lilley, 2022) as "evidence based best practices" replace the trust that once existed in their professional decision making. Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies.*

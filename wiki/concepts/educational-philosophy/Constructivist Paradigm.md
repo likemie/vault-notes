@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -66,6 +66,7 @@ related_theories:
   - "[[Pragmatic Constructivism]]"
   - "[[Social Realism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -79,10 +80,10 @@ related_methods:
   - "[[Case Study]]"
   - "[[Design-Based Research]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Confucius]]"
   - "[[John Hattie]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[Teacher Choices]]"
   - "[[Gaokao]]"
@@ -101,7 +102,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 # Constructivist Paradigm
 
@@ -309,7 +310,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
@@ -330,15 +331,15 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Constructivist Instruction]] | 概念 | 将建构主义认识论与学习理论转化为课堂教学实践的具体形态。 |
+> | [[Constructivist Instruction]] | 概念 | 将建构主义[[Epistemology\|认识论]]与学习理论转化为课堂教学实践的具体形态。 |
 > | [[Constructive Alignment]] | 概念 | 将建构主义应用于大学课程设计的目标、活动与评估对齐模型。 |
 > | [[Didaktik]] | 概念 | 从教学三角形审视建构主义能否直接推导教学操作的理论体系。 |
-> | [[Visible Learning]] | 概念 | 质疑激进建构主义教学效能并强调教师主动激活角色的实证模型。 |
+> | [[Visible Learning]] | 概念 | 质疑[[Radical Constructivism\|激进建构主义]]教学效能并强调教师主动激活角色的实证模型。 |
 > | [[Critical Theory]] | 理论 | 批判建构主义在政策演化中可能沦为去情境化技术工具的理论资源。 |
-> | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与有力知识的教育社会学理论。 |
+> | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与[[Powerful Knowledge\|有力知识]]的教育社会学理论。 |
 > | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] | 论证 | 奠定建构主义学习理论向建构性对齐课程设计转化的奠基文献。 |
-> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 论证 | 阐明建构主义世界观在质性研究设计中方法论指导作用的教材文献。 |
+> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 论证 | 阐明建构主义世界观在[[Qualitative Research\|质性研究]]设计中方法论指导作用的教材文献。 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 厘清建构主义知识形式与教学模型范畴界限的旗舰评述论文。 |
-> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 论证 | 质性考察建构主义教学在东亚应试制度下选择性亲和与再脉络化的实证。 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 论证 | 质性考察建构主义教学在东亚应试制度下[[Selective Affinity\|选择性亲和]]与[[Recontextualization\|再脉络化]]的实证。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 哲学批判激进建构主义导致文化客体消解与教学论双重瓦解的论证。 |
 

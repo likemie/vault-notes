@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Academic Achievement]]"
   - "[[Feedback]]"
   - "[[Epistemology]]"
@@ -46,6 +45,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Effective Teaching]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Primary and Secondary Documents]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -196,7 +195,7 @@ updated: 2026-10-20
 
 班级规模属于嵌入微观生态的系统变量，其最终教育效果取决于教师是否因班额变化而调适教学策略。
 
-在发达国家，缩减班额的效果与课程保真度（[[Programme Fidelity vs Adaptation]]）及在地智慧紧密相关。而在全球南方与外围国家，班级规模直接作为刚性的“物质约束基础设施”存在：当教室面临 60–100 人的极端大班额且教材极度匮乏时，外部倡导的探究式或儿童中心教学法根本无从落地，迫使教师依赖全班齐读与高密度纪律[[Disciplina and Doctrina|规训]]（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）。
+在发达国家，缩减班额的效果与课程保真度（[[Programme Fidelity vs Adaptation]]）及在地智慧紧密相关。而在全球南方与外围国家，班级规模直接作为刚性的“物质约束基础设施”存在：当教室面临 60–100 人的极端大班额且教材极度匮乏时，外部倡导的探究式或儿童中心教学法根本无从落地，迫使教师依赖全班齐读与高密度纪律规训（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）。
 
 ---
 
@@ -397,7 +396,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 欧美代表性政策案例
 > - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
 > - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州。[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, p. 33)]] 考证指出，该改革实质是加州州长为了与教师工会政治斗争而仓促立法的产物，导致全州紧急招募数万名未获充分认证的代课教师，大量学生被安置在临时板房上课，师资与设施配套断裂导致预期效果彻底归零，成为政策外推忽视系统支持条件的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 33)]]
-> - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲循证决策中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
+> - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲[[Evidence-Based Policy-Making|循证决策]]中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
 ### 新西兰与西班牙
 

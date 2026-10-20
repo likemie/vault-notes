@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Hard Power]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Cosmopolitanism]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
@@ -49,7 +49,6 @@ related_theories:
   - "[[Convergence Theory in Comparative Education]]"
 related_methods:
   - "[[Accounts]]"
-  - "[[Correlational Research]]"
   - "[[Ethnography]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -142,7 +141,7 @@ updated: 2026-10-20
 > *Prevailing social theories [[Accounts|account]] poorly for these changes. Given a dynamic sociocultural system, realist models can account for a world of economic and political absorption, inequality, and domination. They do not well explain a world of formally equal, autonomous, and expansive nation-state actors. (Meyer et al., 1997, p. 174)*
 
 > [!citation-card] 迈耶论为他者行动的理智化权威
-> 各种社会发展模型并非依靠[[Hard Power|硬权力]]的直接强制，而是由理性化的他者所承载，他们的科学与专业权威往往远超其拥有的实际资源与强制权力；现代世界文化正是通过这种理智化方式，赞美、扩展并标准化了在文化上受到[[Disciplina and Doctrina|规训]]但形式上强大的国家行动者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
+> 各种社会发展模型并非依靠[[Hard Power|硬权力]]的直接强制，而是由理性化的他者所承载，他们的科学与专业权威往往远超其拥有的实际资源与强制权力；现代世界文化正是通过这种理智化方式，赞美、扩展并标准化了在文化上受到规训但形式上强大的国家行动者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 >
 > *Carried by rationalized others whose scientific and professional authority often exceeds their power and resources... world culture celebrates, expands, and standardizes strong but culturally somewhat tamed national actors. (Meyer et al., 1997, p. 173)*
 
@@ -200,7 +199,7 @@ updated: 2026-10-20
 > > 围绕全球教育大扩张的根本动力，形成了[[Stanford School|斯坦福学派]]世界文化论与[[Immanuel Wallerstein|沃勒斯坦]][[Dependency Theory|依附论]]学术传统的根本范式分野。
 > >
 > > - **迈耶等（1997）** 主张源自[[Enlightenment|启蒙运动]]的普遍理性[[Cultural Models|文化模型]]在全球自发扩散，使民族国家在宪法、公民权与普及义务教育上形成高度同构，国际体系是由形式上平等自主的国家构成的世界共同体。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
-> > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]（1980, 2009）** 批评新制度主义以形式趋同掩盖了实质的不平等与剥削；跨国资本积累、核心国家霸权与跨国金融援助机构（如[[World Bank|世界银行]]）的[[Disciplina and Doctrina|规训]]，导致边缘国家深陷于持久的辍学、失业、阶层固化与不平等依附之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+> > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]（1980, 2009）** 批评新制度主义以形式趋同掩盖了实质的不平等与剥削；跨国资本积累、核心国家霸权与跨国金融援助机构（如[[World Bank|世界银行]]）的规训，导致边缘国家深陷于持久的辍学、失业、阶层固化与不平等依附之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 >
 > > [!axis] 全球同质同构与地方微观抗争的经验张力
 > > 围绕跨国模型落地时是必然导致同质化还是引发地方多元变通，[[World Society Theory|世界社会理论]]遭遇了大量人类学[[Ethnography|民族志]]学者的实证挑战。
@@ -212,7 +211,7 @@ updated: 2026-10-20
 > > 围绕世界文化的核心价值预设，后殖民与去殖民批判学者对迈耶理论的普世理性前提提出了深刻质询。
 > >
 > > - **迈耶等（1997）** 将人权、科学客观性与法治民主视为超越地理疆界的普世现代性价值。
-> > - **扎普（2022）与去殖民学者** 提示世界社会模型可能暗含西方中心的制度霸权与认识论偏见，低估了地缘政治权力冲突对[[Knowledge Production|知识生产]]的扭曲，以及非西方本土知识体系在被纳入全球规范时所遭受的压制与遮蔽。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
+> > - **扎普（2022）与去殖民学者** 提示世界社会模型可能暗含西方中心的制度霸权与认识论偏见，低估了[[Geopolitics|地缘政治]]权力冲突对[[Knowledge Production|知识生产]]的扭曲，以及非西方本土知识体系在被纳入全球规范时所遭受的压制与遮蔽。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判迈耶新制度主义世界文化流派过度依赖国家层面的入学率与法律文本等宏观统计指标，完全忽略了边缘国家内部触目惊心的阶级再生产机制与跨国资本掠夺。

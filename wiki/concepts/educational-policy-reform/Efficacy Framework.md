@@ -8,7 +8,7 @@ aliases:
 summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语门槛的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Fixed-Effect Model]]"
   - "[[Meta-analysis]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Barber]]"

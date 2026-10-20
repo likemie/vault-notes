@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指通过合同承包、公私伙伴关系（PPP）、特许学校以及购买教育管理组织（EMO）服务，将公共教育的基础设施、教学交付、评价研发乃至政策制定权全面向私营资本和非民选精英网络开放。当代外生私有化呈现出以免税信托控股营利实体的双层法人避税架构，并进一步演变为国家教育立法议程本身的隐性私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,8 +35,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Normal School]]"
 related_theories: []
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:

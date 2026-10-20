@@ -12,7 +12,7 @@ summary: "检验类别变量间关联性或单变量观测分布与理论分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -58,7 +58,6 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Pearson Product-Moment Correlation]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Chi-Squared Test
@@ -282,6 +281,6 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐明卡方检验在量化调查与实验设计中作为两类别[[Variable\|变量]]关联检验的标准统计程序。（Ch8）
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 记录研究生在解决孟德尔表型拟合优度检验与[[Likert Scale\|李克特量表]]一致性任务中，与 ChatGPT 对话时对卡方检验适用前提的[[Epistemology\|认识论]]审问与批判决策。（pp. 362–365）

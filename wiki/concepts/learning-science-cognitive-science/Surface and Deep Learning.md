@@ -7,10 +7,10 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 36
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - surface-learning
   - deep-learning
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Unit of Analysis]]"
   - "[[Direct Instruction]]"
+  - "[[SOLO Taxonomy]]"
   - "[[Educative Conceptual Change]]"
   - "[[Constructive Alignment]]"
   - "[[Assessment Backwash]]"
@@ -33,19 +34,23 @@ related_concepts:
   - "[[Student Learning Research]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Chinese Learner]]"
+  - "[[Dynamic Assessment]]"
+  - "[[Academic Achievement]]"
   - "[[Epistemology]]"
   - "[[Student Engagement]]"
-  - "[[Chinese Learner]]"
+  - "[[Structured Teaching]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
   - "[[Phenomenography]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Popper's Three Worlds Theory]]"
 related_methods:
-  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
+  - "[[Research Synthesis]]"
+  - "[[Confidence Interval]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -56,13 +61,14 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Hattie_2015_Paideia]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Rømer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Surface and Deep Learning
@@ -168,7 +174,7 @@ updated: 2026-10-19
 > **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model\|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to\|知其然]]与[[Knowledge-that and Know-how-to\|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与实践之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
 
 > [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
-> **认知复杂性进阶与高阶探究前置失效** 依据可观察学习结果结构（SOLO）认知模型，从表层事实掌握到深层整合与跨情境迁移具有不可颠倒的上升阶梯；全球约 90% 宣称推行基于问题的学习（PBL）的学校在学生尚未夯实表层概念基础时即盲目引入自主探究，正是导致高阶探究在元分析中效应量低下的根源。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
+> **认知复杂性进阶与高阶探究前置失效** 依据可观察学习结果结构（[[SOLO Taxonomy|SOLO]]）认知模型，从表层事实掌握到深层整合与跨情境迁移具有不可颠倒的上升阶梯；全球约 90% 宣称推行基于问题的学习（PBL）的学校在学生尚未夯实表层概念基础时即盲目引入自主探究，正是导致高阶探究在[[Meta-analysis|元分析]]中[[Effect Size|效应量]]低下的根源。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 ---
 
@@ -245,18 +251,18 @@ updated: 2026-10-19
 > > 围绕背诵与重复究竟是低阶表层应付，还是通向深层概念理解与迁移的必要准备展开争论。
 > >
 > > - **应试应付与终点论立场** 当学生只为应付考试而孤立记忆知识碎片，且评估仅奖励机械复述时，记忆成为终点，属于典型表层学习（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp. 80, 84–85]]）。
-> > - **跨文化与过程阶梯立场** 中国学习者研究表明，重复与记忆往往是内化材料、建立概念网络以及后续批判反思的先决阶段（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 82–89]]）。
+> > - **跨文化与过程阶梯立场** [[Chinese Learner|中国学习者]]研究表明，重复与记忆往往是内化材料、建立概念网络以及后续批判反思的先决阶段（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 82–89]]）。
 >
 > > [!axis] 测量有效性：复合概念理解 vs 表层指标化简
 > > 围绕实证测验能否有效反映深层学习展开方法论交锋。
 > >
 > > - **实证简化测量倾向** 多数标准化评价工具倾向于测量易于量化的表层记忆与程序熟练度，缺乏对概念表征的深度刻画（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp. 27–29]]）。
-> > - **多层知识协同立场** 强调需建立包含事实、操作、意义与边界的动态评估模型，避免将异质学习结果混同为单一学业成就。
+> > - **多层知识协同立场** 强调需建立包含事实、操作、意义与边界的[[Dynamic Assessment|动态评估]]模型，避免将异质学习结果混同为单一[[Academic Achievement|学业成就]]。
 >
-> > [!axis] 认识论映射：客观知识世界 vs 学习者主观建构
+> > [!axis] [[Epistemology|认识论]]映射：客观知识世界 vs 学习者主观建构
 > > 围绕将学习层次强行投射至科学哲学理论的认识论合法性展开批评。
 > >
-> > - **三层映射推论** 尝试将表层、深层与建构性理解对应于波普尔三个世界理论。
+> > - **三层映射推论** 尝试将表层、深层与建构性理解对应于波普尔[[Popper's Three Worlds Theory|三个世界理论]]。
 > > - **批判哲学审视** [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–11)]] 尖锐指出，该映射将波普尔独立的客观文化与科学真理世界主观化为个体的学习建构，犯了严重的认识论范畴错置。
 
 ---
@@ -291,10 +297,10 @@ updated: 2026-10-19
 > | [[Assessment Backwash]] | 影响机制 | 考试评价的实际形式对学生活动取向产生决定性的回冲效应。 |
 > | [[Curriculum Design Coherence Model]] | 课程框架 | 将深层学习具体化为命题知识与应用知识之间的显性连贯连接。 |
 > | [[Problem-Based Learning]] | 教学方法 | 通过高阶认知任务推动学生开展问题提出、联系与假设检验。 |
-> | [[Direct Instruction]] | 教学方法 | 提供掌握表层事实性知识的结构化教学支持，为深层加工奠定基础。 |
+> | [[Direct Instruction]] | 教学方法 | 提供掌握表层事实性知识的[[Structured Teaching\|结构化教学]]支持，为深层加工奠定基础。 |
 > | [[Paradox of the Chinese Learner]] | 文化研究 | 修正对东方学习者记忆与重复行为的刻板印象，阐明记忆通向理解的阶梯。 |
-> | [[Dynamic Knowledge and Learning Model]] | 理论模型 | 区分事实、操作、意义与边界多层知识，反思单一学业成就指标化简。 |
-> | [[John Biggs]] | 代表学者 | 提出建构性对齐理论与表层/深层学习取向的教学分析框架。 |
+> | [[Dynamic Knowledge and Learning Model]] | 理论模型 | 区分事实、操作、意义与边界多层知识，反思单一[[Academic Achievement\|学业成就]]指标化简。 |
+> | [[John Biggs]] | 代表学者 | 提出建构性对齐理论与表层/深层学习取向的教学[[Analytic Framework\|分析框架]]。 |
 > | [[John Hattie]] | 代表学者 | 探讨表层与深层知识在教学干预中的分期与进阶衔接机制。 |
 
 ---
@@ -308,6 +314,6 @@ updated: 2026-10-19
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出抽象的学习结果会掩盖表层、深层与概念理解的测量差异，并提出动态知识层次作为修正。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 从教育哲学角度批评 Hattie 对学习层次和波普尔三个世界的映射，揭示概念扩展中的理论风险。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 把深层学习转化为[[Knowledge-that and Know-how-to\|知其然]]与知其所用之间可展示、可阐述的连接，并用于诊断课程知识组织的连贯性。
-> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 依据 SOLO 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] 依据 [[SOLO Taxonomy|SOLO]] 认知模型阐释表层知识向深层探究的进阶机制，指出全球约 90% 的学校因错位提前应用基于问题的学习导致效能滑坡。
 
 ---

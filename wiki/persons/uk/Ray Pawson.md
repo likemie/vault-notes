@@ -25,6 +25,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Central Question]]"
   - "[[Operationalization]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -51,7 +52,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Factorial Design]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Jeroen van der Heijden]]"
   - "[[Roy Bhaskar]]"
@@ -95,7 +95,7 @@ updated: 2026-10-20
 > - **1970s–1980s** 接受英国社会学与科学哲学严格训练，早期聚焦于社会测量理论与概念[[Operationalization|操作化]]反思，出版《测量的度量》（*A Measure for Measures: A Manifesto for Empirical Sociology*, 1989）。
 > - **1990s** 任教于英国利兹大学；反思[[Positivism|实证主义]]评估将社会项目简化为黑箱输入输出的弊端，与犯罪学学者尼克·蒂利（Nick Tilley）展开跨学科合作。
 > - **1997** 与蒂利合著出版里程碑著作《[[Realist Evaluation|实在论评估]]》（*Realistic Evaluation*），正式确立科学实在论评估理论框架与 CMO 核心模型。
-> - **2006** 出版专著《循证政策：实在论视角》（*Evidence-based Policy: A Realist Perspective*），系统批判医学模式向社会科学的机械移植，开创实在论综合（Realist Synthesis）方法。
+> - **2006** 出版专著《循证政策：实在论视角》（*[[Evidence-Based Policy-Making|Evidence-based Policy]]: A Realist Perspective*），系统批判医学模式向社会科学的机械移植，开创实在论综合（Realist Synthesis）方法。
 > - **2013** 出版专著《评估的科学：实在论宣言》（*The Science of Evaluation: A Realist Manifesto*），系统总结复杂开放系统中政策评估的[[Ontology|本体论]]与[[Epistemology|认识论]]基石。
 > - **2010s 至今** 其评估思想跨学科溢出至公共卫生、教育政策研究、公共行政学与制度变迁定性分析领域。
 
@@ -113,7 +113,7 @@ updated: 2026-10-20
 >   - **关键概念／方法** [[Realist Evaluation|实在论评估]]、生成性因果（Generative [[Causality]]）、CMO 因果配置模型。
 >   - **阶段转向** 明确提出干预并非机械注射，而是通过向受试者提供外部资源并激活其能动推理（Reasoning）而发挥效用。
 > - **2000年代 — 循证政策批判与实在论综合开拓期** 直面新工党[[What Works Movement|循证政策运动]]与[[Systematic Review|系统综述]]潮流，解构[[Meta-analysis|元分析]]将复杂社会研究扁平化的数据清洗机制。
->   - **代表著作** *Evidence-based Policy: A Realist Perspective* (2006)。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
+>   - **代表著作** *[[Evidence-Based Policy-Making|Evidence-based Policy]]: A Realist Perspective* (2006)。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
 >   - **关键概念／方法** 实在论综合（Realist Synthesis）、元分析净化过程（The Purgative Process）、开放系统。
 >   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建。
 > - **2010年代及以后 — 复杂系统评估宣言与跨学科扩展期** 将实在论评估提升为应对政策复杂性、制度[[Heterogeneity|异质性]]与多元行动者博弈的通用社会科学哲学。

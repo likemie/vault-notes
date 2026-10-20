@@ -8,7 +8,7 @@ summary: "新加坡建国总理（1959–1990年在任）。以千年期战略�
 type: person
 nationality: singapore
 person_region: "singapore"
-person_related_count: 22
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
 related_theories:
-  - "[[Capability Approach]]"
   - "[[Great Man Theory]]"
 related_facts:
   - "[[Singapore Civil Service Salary Benchmarking Policy]]"
@@ -50,8 +49,7 @@ related_persons:
   - "[[Henry Kissinger]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 confidence: high
 status: active
 created: 2026-10-08
@@ -142,7 +140,7 @@ updated: 2026-10-20
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **公共管理与国家治理[[Capability Approach|能力路径]]** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为理所当然的道德教条，证明市场化激励与精英治理可以高效融合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> - **公共管理与国家治理能力路径** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为理所当然的道德教条，证明市场化激励与精英治理可以高效融合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 

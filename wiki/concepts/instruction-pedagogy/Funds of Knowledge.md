@@ -2,7 +2,7 @@
 summary: "知识资金（Funds of Knowledge, FoK）是指深植于家庭、社区与日常文化实践中，历史上积累、代际传递且对个体生存与福祉至关重要的战略性知识、技能与文化资源网络。该取向彻底批判并将教育实践从“文化亏空”假设中解放出来，主张教师深入社区挖掘学生的家庭文化资本与地方性知晓方式，将其转化为课堂学科探究的合法认识论资产与认知支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,7 +39,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Questionnaire]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 # Funds of Knowledge
 
@@ -157,5 +156,5 @@ updated: 2026-10-19
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 指出将多元文化背景学生的日常经验与知识资金引入课堂[[Epistemic Practices\|认识论实践]]，是未来科学教育研究的重要开拓方向。

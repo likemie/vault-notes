@@ -94,7 +94,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Survey Research
@@ -322,7 +322,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 结合 [[Public Attitudes to Science|PAS 2025]]（N = 5,281）与科研人员调查评估公众科学信息渠道与信任；对 108 名议员的调查显示其多依赖智库，较少依赖议会科技办公室。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 与 2006、2015 年调查比较：科研人员公众参与率（85%）与认同（83%）上升，但时间压力（75%）与晋升激励不足是主要瓶颈。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] — 介绍[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]对 29 国 37 个教育系统的政策调查与 6 国访谈，诊断研究进入决策的结构性障碍。

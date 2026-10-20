@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Multinomial Logistic Regression]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"

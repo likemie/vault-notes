@@ -28,6 +28,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Progressive Education]]"
   - "[[Big Science]]"
+  - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
@@ -37,7 +38,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"
@@ -139,7 +139,7 @@ updated: 2026-10-20
 > 剖析工程师若缺乏对技术终极用途与地缘后果的反思，将滑向道德虚无与资本附庸。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]]
-> **警惕工程偏好退化为[[Percy Williams Bridgman|布里奇曼]]式科学非道德论** 诺贝尔物理学奖得主[[Percy Williams Bridgman|布里奇曼]]曾主张科学家只负责寻找自然事实而无需承担道德责任。若将工程实用主义极端化为这种非道德论，会导致当代硅谷工程师沉溺于满足资本消费文化致富，却拒绝追问应当建造什么以及为何而造。在面临颠覆性 AI 技术时，工程共同体必须正视技术的毁灭性潜力与地缘政治责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 17–18)]]
+> **警惕工程偏好退化为[[Percy Williams Bridgman|布里奇曼]]式科学非道德论** 诺贝尔物理学奖得主[[Percy Williams Bridgman|布里奇曼]]曾主张科学家只负责寻找自然事实而无需承担道德责任。若将工程实用主义极端化为这种非道德论，会导致当代硅谷工程师沉溺于满足资本消费文化致富，却拒绝追问应当建造什么以及为何而造。在面临颠覆性 AI 技术时，工程共同体必须正视技术的毁灭性潜力与[[Geopolitics|地缘政治]]责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 17–18)]]
 
 ---
 

@@ -10,10 +10,10 @@ aliases:
 summary: "实验或量化研究中被有意识操纵、控制或选择以观察其对因变量效应的变量，是因果推断中的输入条件"
 type: concept
 domain: "research-methodology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - paradigm/positivist
@@ -27,23 +27,30 @@ related_concepts:
   - "[[Construct]]"
   - "[[Definition of Terms]]"
   - "[[Interaction Effect]]"
+  - "[[Academic Achievement]]"
+  - "[[Research Cage]]"
+  - "[[Class Size]]"
   - "[[School Effectiveness]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Ex Post Facto Research]]"
   - "[[Analytic Framework]]"
-  - "[[Factorial Design]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Correlational Research]]"
+  - "[[Factorial Design]]"
+  - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
+  - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 # Independent Variable
 
@@ -98,11 +105,11 @@ updated: 2026-10-18
 
 ### 命题一　自变量与因变量的因果单向性要求自变量具备独立的理论实体地位
 
-> [!concept-lens] 因果推断与构念独立性
-> 探讨自变量在因果实验与元分析综合中的本体独立性，防范因变量反向规训自变量导致的循环自指危机。
+> [!concept-lens] [[Causality|因果推断]]与[[Construct|构念]]独立性
+> 探讨自[[Variable|变量]]在因果实验与[[Meta-analysis|元分析]]综合中的本体独立性，防范[[Dependent Variable|因变量]]反向规训自变量导致的循环自指危机。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]]
-> **可操纵性与因果输入的实体地位** 自变量作为因果推断的前因输入，必须通过操作性定义明确其操作水平与隔离控制边界。实验研究的内在有效性建立在对自变量的主动操纵与对混杂变量的有效隔离之上，唯有保持自变量作为前因条件的独立可识别性，才能确证观察到的输出变化确系由自变量所引起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch16, pp. 312–313, 330)]]
+> **可操纵性与因果输入的实体地位** 自变量作为因果推断的前因输入，必须通过[[Definition of Terms|操作性定义]]明确其操作水平与隔离控制边界。[[Experimental Research|实验研究]]的内在有效性建立在对自变量的主动操纵与对混杂变量的有效隔离之上，唯有保持自变量作为前因条件的独立可识别性，才能确证观察到的输出变化确系由自变量所引起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch16, pp. 312–313, 330)]]
 
 > [!claim] [[Argument_Rømer_2018_EPT|Rømer (2018)]]
 > **自变量与因变量循环界定的封闭牢笼** 罗默（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）批判指出，在实证评价综合中，自变量极易丧失其独立实体地位：当研究者未能对终端因变量（学习）做出明确理论界定时，自变量（教学）被狭隘地定义为“任何能够产生显著效应的干预”，而因变量又被定义为“自变量干预所测得的指标提升”。这种自变量与因变量互为前提的循环论证，彻底摧毁了自变量作为独立原因的本体属性，使实证模型退化为脱离教育实践的封闭自指体系。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 5–7)]]
@@ -122,23 +129,23 @@ updated: 2026-10-18
 
 > [!debates] 学术争议
 >
-> > [!axis] 自变量与因变量的单向因果界定 vs 评价驱动下的反向定义
-> > 争论教学（自变量）与学习结果（因变量）之间的主从因果关系。
+> > [!axis] 自[[Variable|变量]]与[[Dependent Variable|因变量]]的单向因果界定 vs 评价驱动下的反向定义
+> > 争论教学（自变量）与学习结果（因变量）之间的主从[[Causality|因果关系]]。
 > >
-> > - **规范因果建模** 坚持自变量在因果链条中具备独立本体地位，因变量仅是被测量的结果。
+> > - **规范[[Causal Modeling|因果建模]]** 坚持自变量在因果链条中具备独立本体地位，因变量仅是被测量的结果。
 > > - **因果反转批判** 罗默揭示在效能锦标赛中，追求因变量最大化反向规训了教学自变量的内涵，导致自变量丧失独立性并滑入循环论证。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 
 > [!critique] 方法论反思与批判
-> - **自变量与因变量的循环界定与封闭牢笼** [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–6)]] 指出，在宏观评价综合与实证建模中，自变量面临严重的循环定义危机：当核心因变量（学业成就/学习结果）缺乏独立的操作化界定时，评价体系通过自变量（教学干预）的效果反向界定因变量，又以因变量的指标反馈来确认自变量的有效性；这种自变量与因变量的循环互证割裂了研究与外部真实教育实践的联系，在方法论上构筑起封闭的研究牢笼（research cage）。
-> - **自变量的原子化与去脉络化风险** [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 4–5)]] 批评将整体性教育实践生硬切碎为上百个孤立自变量（如将学校拆解为班级规模、经费、管理层编制等零散参数）的还原主义做法；这种处理忽视了各变量深嵌其中的历史文化与教学论脉络，导致统计上的自变量操纵脱离真实的制度生态。
+> - **自变量与因变量的循环界定与封闭牢笼** [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–6)]] 指出，在宏观评价综合与实证建模中，自变量面临严重的循环定义危机：当核心因变量（[[Academic Achievement|学业成就]]/学习结果）缺乏独立的[[Operationalization|操作化]]界定时，评价体系通过自变量（教学干预）的效果反向界定因变量，又以因变量的指标反馈来确认自变量的有效性；这种自变量与因变量的循环互证割裂了研究与外部真实教育实践的联系，在方法论上构筑起封闭的[[Research Cage|研究牢笼]]（research cage）。
+> - **自变量的原子化与去脉络化风险** [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 4–5)]] 批评将整体性教育实践生硬切碎为上百个孤立自变量（如将学校拆解为[[Class Size|班级规模]]、经费、管理层编制等零散参数）的还原主义做法；这种处理忽视了各变量深嵌其中的历史文化与教学论脉络，导致统计上的自变量操纵脱离真实的制度生态。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile and Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。
-> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 批判可见学习中自变量的原子化还原以及自变量与因变量循环互证所构建的封闭研究牢笼。（pp. 4–6）
+> - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 批判可见学习中自变量的原子化还原以及自变量与[[Dependent Variable|因变量]]循环互证所构建的[[Research Cage|封闭研究牢笼]]。（pp. 4–6）
 
 ---
 
@@ -148,11 +155,11 @@ updated: 2026-10-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Dependent Variable]] | 概念 | 与自变量构成因果推断配对的输出后果指标。 |
+> | [[Dependent Variable]] | 概念 | 与自[[Variable\|变量]]构成[[Causality\|因果推断]]配对的输出后果指标。 |
 > | [[Operationalization]] | 概念 | 将理论原因转化为具体可操纵自变量水平的操作化方法。 |
 > | [[Construct]] | 概念 | 自变量操作化所代表的底层理论构念。 |
 > | [[Causality]] | 概念 | 自变量与因变量之间所假定与检验的核心关系本质。 |
 > | [[Visible Learning]] | 概念 | 因将整体教学实践切碎为数百个孤立自变量而遭遇批判的实证模型。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]] | 论证 | 奠定实验设计中自变量定义、操纵水平与交互效应的教科书论述。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]] | 论证 | 奠定实验设计中自变量定义、操纵水平与[[Interaction Effect\|交互效应]]的教科书论述。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判可见学习中自变量与因变量循环互证及原子化还原的哲学论文。 |
 

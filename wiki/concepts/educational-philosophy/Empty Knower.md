@@ -7,7 +7,7 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Big Ideas]]"
   - "[[Knowledge Questions]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
@@ -28,8 +27,7 @@ related_concepts:
   - "[[Conatus]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -41,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Empty Knower
@@ -82,7 +80,7 @@ updated: 2026-10-15
 > 探讨空无的认知者这一理性主义预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对[[Knowledge Questions\|知识问题]]。
 
 > [!claim] Cole, D. R.
-> **理性的学科性[[Disciplina and Doctrina\|规训]]与考试化异化** 空无的认知者预设在[[Theory of Knowledge\|知识论]]课堂中会导致理性的异化。当教师被迫将哲学和逻辑碎片作为客观内容填充给学生时，学生由于缺乏情感和想象力的具身支撑，往往倾向于将这些[[Reflexivity\|反思性]]规则和术语当作备考的[[Rote Learning\|死记硬背]]材料，使[[Critical Thinking\|批判性思维]]流于表面的学术表演和词汇堆砌，无法达成真正的自我解放。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213, 221)]]
+> **理性的学科性规训与考试化异化** 空无的认知者预设在[[Theory of Knowledge\|知识论]]课堂中会导致理性的异化。当教师被迫将哲学和逻辑碎片作为客观内容填充给学生时，学生由于缺乏情感和想象力的具身支撑，往往倾向于将这些[[Reflexivity\|反思性]]规则和术语当作备考的[[Rote Learning\|死记硬背]]材料，使[[Critical Thinking\|批判性思维]]流于表面的学术表演和词汇堆砌，无法达成真正的自我解放。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213, 221)]]
 
 ---
 
@@ -114,5 +112,5 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了[[Theory of Knowledge\|知识论]]课程中将学生设定为空无的认知者的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式教化框架，指出其容易导致理性异化和应试倾向，并提出[[Baruch Spinoza\|斯宾诺莎]]主义的替代方案。
