@@ -106,7 +106,7 @@ updated: 2026-10-21
 
 ## 概念辨析
 
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 数字治理 1.0（指标与排名驱动） | 数字治理 2.0（[[Policy Brokerage\|政策中介]]与工具打包） | 传统国家科层治理 |
 > |------|-------------------------------|----------------------------------|----------------|
 > | **治理媒介** | 跨国大型测验（如 [[PISA]]）去情境化排名与发榜冲击 | 复合工具打包（评测+同行审查+外向借鉴+自指方案库） | 法律法规、自上而下行政命令与财政拨款调控 |
@@ -118,7 +118,7 @@ updated: 2026-10-21
 
 ## 核心要素
 
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
 > - **跨国“等价空间”（[[Space of Equivalence]]）的自产机制** PISA 并不依赖各国上报的国内统计数据，而是委托跨国专家咨询财团专门独立研发文化公平测验与精密翻译流程，自行生产全球专属数据流；在此过程中，跨国统一度量与[[Reliability|信度]]（reliability）比较被置于本土[[Construct Validity|构念效度]]与[[Ontology|本体论]]（ontology）考量之上。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]; Desrosières (1998)
 > - **“数字即政策”（Policy as Numbers）的去政治化效应** 数字将测评[[Construct|构念]]背后极其复杂的价值权衡、哲学预设与政策判断彻底“隐形化与不可争辩化”（Rose, 1999: 208）；全球媒体与政治系统将注意力高度聚焦于绩效联赛排行榜与相对排位，使技术评估凌驾于政治讨论之上，压制了关于教育公共本质与社会正义的哲学辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
@@ -126,7 +126,7 @@ updated: 2026-10-21
 > - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的[[Surplus of Evidence|研究证据过剩]]与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其转译为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，[[World Bank|世界银行]]的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
-> [!logic-map]- 数字治理 1.0 向 2.0 演进逻辑图
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     subgraph V1["数字治理 1.0 (2000s)"]
@@ -246,14 +246,14 @@ updated: 2026-10-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会文献 vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；[[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
-| [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；欧盟委员会与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与关键知情人访谈 | 媒体报道篇幅；PISA 预算在经合组织教育局占比；欧盟里斯本战略指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价空间生产与超国家机构间的数据资助共生发挥规制功能 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；欧盟委员会与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与关键知情人访谈 | 媒体报道篇幅；PISA 预算在经合组织教育局占比；欧盟里斯本战略指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价空间生产与超国家机构间的数据资助共生发挥规制功能 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比芬兰、德国与英国对 PISA 的政策反响及欧盟委员会官员访谈，揭示经合组织如何以数字作为政治技术协调欧洲教育空间。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比芬德英三国对 PISA 的反响及欧盟官员访谈，揭示经合组织如何以数字技术协调欧洲教育空间。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 框架，探讨经合组织与世界银行的政策中介机制及其在国家政策周期的多阶段效应。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统综述 PISA 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合罗斯“数字即政策”与等价空间理论，揭示经合组织如何自产跨国数据以技术排位压制教育目的辩论。
