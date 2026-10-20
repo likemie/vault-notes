@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md",
+                "file": "wiki/persons/china/Zhao Tingyang.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Zhu_Yang_2025_HE"
+              "title": "Zhao Tingyang"
             }
           },
           {
@@ -290,11 +290,19 @@
   },
   "active": "bd88d0cdfde06150",
   "lastOpenFiles": [
+    "wiki/theories/comparative-education/Tianxia Heuristic.md",
+    "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
+    "wiki/facts/global/ASEAN.md",
+    "wiki/persons/china/Zhao Tingyang.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
+    "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md",
+    "wiki/persons/china/Suyan Pan.md",
+    "wiki/templates/template-person.md",
+    "wiki/templates/template-argument-edited-volume.md",
+    "wiki/templates/template-argument.md",
     "wiki/persons/us/John King Fairbank.md",
     "wiki/facts/global/Asian Infrastructure Investment Bank.md",
     "wiki/facts/global/Royal University of Phnom Penh.md",
-    "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md",
-    "wiki/persons/china/Suyan Pan.md",
     "wiki/theories/political-economy-geopolitics/Tributary System.md",
     "wiki/concepts/comparative-education/Cultural Recognition.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
@@ -318,14 +326,6 @@
     "wiki/facts/us/Evidence for ESSA.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md",
-    "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
-    "sources/Zhu_Yang_2025_HE/Zhu_Yang_2025_HE.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md",
-    "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
-    "wiki/MetaX/VisibleLearning_MetaX_Full.md",
-    "wiki/MetaX/VisibleLearning_MetaX_Full_factors.md",
-    "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md",
-    "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Liu_2025_IndHE.md",
     "sources/Zhu_Yang_2025_HE/figures/Zhu_Yang_2025_HE_Fig1_Higher_Education_Nexus_Neo_Tributary_Framework.jpg",
     "sources/Liu_2025_IndHE/figures/Liu_2025_IndHE_Fig1_Map_of_BRI.jpg",
     "tmp/render_check/rr-020.png",

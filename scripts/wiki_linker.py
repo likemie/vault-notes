@@ -8,6 +8,8 @@ import contextlib
 import fcntl
 import io
 import json
+import os
+import sys
 import re
 import subprocess
 import unicodedata
@@ -2223,6 +2225,65 @@ def run_citation_sync(files: Iterable[Path], *, dry_run: bool = False, fix_displ
     return changed, stats['linked_parenthetical'] + stats['linked_narrative']
 
 
+# Files are linked independently, so large runs (--full) use forked workers.
+# Per-file results, stats and printed lines keep the serial order exactly.
+PARALLEL_MIN_FILES = 200
+_SYNC_SHARED: tuple = ()
+
+
+def _sync_one(path: Path, shared: tuple, citation_stats: dict[str, int], missing: list[str]):
+    (terms, term_matcher, source_pattern, source_links, entries_by_title, path_to_title,
+     author_map, person_prefix_registry, dry_run, tables_only, citation_lookup,
+     citation_targets, exclusions) = shared
+    return sync_file(
+        path, terms, term_matcher, source_pattern, source_links, entries_by_title,
+        path_to_title, author_map, person_prefix_registry, dry_run,
+        tables_only=tables_only, citation_lookup=citation_lookup,
+        citation_targets=citation_targets, citation_stats=citation_stats,
+        missing_citations=missing,
+        exclusions=exclusions.get(path.relative_to(ROOT).as_posix(), []),
+    )
+
+
+def _sync_chunk(chunk: list[Path]):
+    citation_stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+    missing: list[str] = []
+    results = [(path, _sync_one(path, _SYNC_SHARED, citation_stats, missing)) for path in chunk]
+    return results, citation_stats, missing
+
+
+def sync_files(files: list[Path], shared: tuple, citation_stats: dict[str, int], missing: list[str]):
+    global _SYNC_SHARED
+    files = list(files)
+    workers = min(os.cpu_count() or 1, 8)
+    if len(files) >= PARALLEL_MIN_FILES and workers > 1 and not os.environ.get("VAULT_LINT_SERIAL"):
+        import multiprocessing
+        try:
+            ctx = multiprocessing.get_context("fork")
+        except ValueError:
+            ctx = None
+        if ctx is not None:
+            _SYNC_SHARED = shared
+            size = max(10, len(files) // (workers * 6))
+            chunks = [files[i:i + size] for i in range(0, len(files), size)]
+            try:
+                with ctx.Pool(workers) as pool:
+                    parts = pool.map(_sync_chunk, chunks)
+            except Exception as exc:  # pragma: no cover - fall back to serial
+                print(f"(parallel linking unavailable: {exc}; running serially)", file=sys.stderr)
+            else:
+                out = []
+                for results, part_stats, part_missing in parts:
+                    out.extend(results)
+                    for key, value in part_stats.items():
+                        citation_stats[key] = citation_stats.get(key, 0) + value
+                    missing.extend(part_missing)
+                return out
+            finally:
+                _SYNC_SHARED = ()
+    return [(path, _sync_one(path, shared, citation_stats, missing)) for path in files]
+
+
 def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool,
              *, citations_only: bool = False, wiki_only: bool = False, fix_display: bool = False) -> None:
     files = select_link_files(paths, git_only, full, citations_only=citations_only)
@@ -2263,25 +2324,11 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     source_links = make_source_links(source_entries)
 
     stats = LinkStats()
-    for path in files:
-        changed, added, removed, table_pipes_escaped, heading_styles_normalized = sync_file(
-            path,
-            terms,
-            term_matcher,
-            source_pattern,
-            source_links,
-            entries_by_title,
-            path_to_title,
-            author_map,
-            person_prefix_registry,
-            dry_run,
-            tables_only=tables_only,
-            citation_lookup=citation_lookup,
-            citation_targets=citation_targets,
-            citation_stats=citation_stats,
-            missing_citations=missing_citations,
-            exclusions=exclusions.get(path.relative_to(ROOT).as_posix(), []),
-        )
+    shared = (terms, term_matcher, source_pattern, source_links, entries_by_title, path_to_title,
+              author_map, person_prefix_registry, dry_run, tables_only, citation_lookup,
+              citation_targets, exclusions)
+    for path, result in sync_files(files, shared, citation_stats, missing_citations):
+        changed, added, removed, table_pipes_escaped, heading_styles_normalized = result
         if changed:
             stats.files_changed += 1
             stats.links_added += added

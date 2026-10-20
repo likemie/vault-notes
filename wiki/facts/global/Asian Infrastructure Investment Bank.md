@@ -10,6 +10,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: "多边开发金融机构 / 跨国政府间银行"
 headquarters: "中国北京（Beijing, China）"
 established: "2015"

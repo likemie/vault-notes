@@ -70,6 +70,20 @@ updated: 2026-10-20
 
 ---
 
+## 条目关联
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Tianxia Heuristic]] | 理论 | 其天下体系为当代比较教育学与跨国高教研究提供了超越民族国家二元对立的天下启发式分析框架。([[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1703–1705]]) |
+> | [[Zhonghua Minzu]] | 概念 | 其以世界为中心的天下哲学为中华民族伟大复兴与“人类命运共同体”话语构建提供了世界主义学理支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
+> | [[Sinicisation]] | 概念 | 借用“逐鹿中原”隐喻将历史上北方异族的入侵征服与被同化阐发为征服者主动融入华夏的自愿文化“成为”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Necropolitics]] | 概念 | 其将少数民族文化消亡阐释为“自愿牺牲”的修辞被布拉格指认具有死亡政治性质，掩盖了同化过程中的强权暴力。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Orientalism]] | 概念 | 将征服者描绘为对中华文化的单向敬畏与仰慕，被批评洗白了古代朝贡与帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |
+
+---
+
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
@@ -107,39 +121,38 @@ updated: 2026-10-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 赵汀阳主张以超越西方威斯特伐利亚民族国家主权的“天下体系”作为替代性世界秩序。该体系确立“以世界为尺度”的全局视阈，将“世界”本身定义为最高政治单位，致力于消除政治与制度上的“外部性”，构想以道德感召力和多层制度嵌套实现全人类和谐的世界制度。在历史与文明发生学层面，他将中国建构为与天道对齐、具备神性向心力的“文明旋风”，将历史上内陆亚洲游牧族群对中原的入侵重新诠释为参与争夺天命主导权的“逐鹿中原”认同博弈，并提出少数民族文化的消亡源于对华夏文明优越性的仰慕，属于一种向更高形态转化的自愿“自我牺牲”与文化“成为”（becoming）。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
+> 赵汀阳的思想以建构超越西方威斯特伐利亚民族国家主权的“天下体系”为轴心，融通全球制度哲学、文明发生学与政治神学，形成了一套解释世界秩序与中华文明连续性的理论体系：
+> 
+> - **无外部的世界政治** 主张突破以民族国家主权为核心、将世界割裂为“我们”与“他们”排他性二元的传统秩序，将“世界”本身确立为最高的政治与[[Unit of Analysis|分析单位]]，致力于构建一个消解制度“外部性”的天下世界制度，先确立全人类的共同利益，再界定主权国家权益。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]]；[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024, pp. 1703–1704]])
+> - **“配天”神学与文明旋风模型** 将古代中国表述为与天道唯一对齐相配（“配天”）的开放文明。这个“神性中国”没有固定物理边界，呈现为具备巨大向心力的“文明旋风”，依靠文化与制度的道德感召力不断吸引并卷入周边族群，使其汇入华夏文明母体。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106–107]])
+> - **“逐鹿中原”与征服的竞技化** 借用“逐鹿中原”的历史意象重新框定内陆亚洲族群对中原的入侵征服，主张族群入侵旨在争夺象征天命之“鹿”，属于争夺文明主导权的竞技游戏；征服的归宿在于征服者自愿接受文明感召并实现“[[Sinicisation|中国化]]”，历史上的征服者皆未能脱离并最终融入华夏文明之中。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+> - **文化死亡作为自愿牺牲与“成为”** 在天下话语建构下，少数民族文化和族群特性的消亡脱离了强制同化或国家暴力的范畴，而被阐释为少数民族出于对华夏文明优越性的仰慕而做出的自愿“自我牺牲”，属于一种追求向更高文明形态转化的文化“成为”（becoming）。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+> - **汉字的神性符号整合力** 强调汉字（Hanzi）跨方言、跨地域的表意属性，认为汉字为神性中国奠定了超验感召力与多族群整合的物质符号基石。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
 
-### 无外部的世界制度哲学（No-Outside World Politics）
-
-- **以世界思考世界** 相对于以民族国家主权为核心、将世界割裂为“我们”与“他们”排他性二元的西方威斯特伐利亚体系，天下体系致力于构建一个“无外部”（no-outside）的世界制度。它将全球整体作为基本的政治与[[Unit of Analysis|分析单位]]，主张先定义全球公意，再定义国家权益，以消解帝国主义扩张与主权纷争的制度根源。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
-
-> [!citation-card] 无外部的世界政治与天下构想
+> [!citation-card] 以世界为尺度的“无外部”天下制度
 > 天下概念将世界构想为一个没有外部界限的有机整体。作为一种世界制度哲学，天下的核心要求是将世界本身作为政治思考的出发点和分析单位，打破民族国家相互割裂的主权壁垒，创造出一种包容所有民族与文化的普世共在秩序。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 >
 > *The concept of tianxia envisions the world as an organic whole without external boundaries. As a philosophy of world institution, tianxia fundamentally requires taking the world itself as the point of departure and unit of analysis in political thinking, transcending the divisive sovereign barriers of nation-states.*
 
-### “配天”神学与神性中国旋风模型（Numinous China & Whirlwind Model）
-
-- **神性中国（Numinous China）** 赵汀阳将古代中国表述为一个具有神性、与天道（Tian）唯一对齐相配（“配天”）的开放文明。这个文明没有固定疆界，呈现为一个具有巨大向心力的“文明旋风”：核心区产生的强大文化引力能够不断吸引卷入周边各族群，使其在互动中汇入华夏文明母体。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
-
-> [!citation-card] 神性中国的配天属性与旋风引力
+> [!citation-card] 神性中国的配天属性与旋风向心模型
 > 作为唯一与天道相合相配的国家，中国是“神性的”，具有令征服者敬畏与倾慕的不可言喻的力量。在赵汀阳的论述中，这样的中国是一个没有外部的开放无界之域，产生了一种能够将四方豪杰吸引汇聚的“旋风”。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 >
 > *As the nation that uniquely aligns with the dictates of Heaven or Tian (peitian), China is 'numinous' (shenxing zhongguo), possessing an ineffable power to awe and attract conquerors. Such a China is, for Zhao, an open and unbounded realm with 'no outside.' This numinous China produces what he calls a 'whirlwind' that attracts ambitious men from near and far.*
 
-### “逐鹿中原”与征服的竞技化（Hunting the Deer on the Central Plains）
-
-- **“逐鹿”博弈** 赵汀阳借用“逐鹿中原”的成语重新框定内陆亚洲族群对中原的入侵与征服。他主张族群入侵旨在争夺象征天命之“鹿”，属于参与争夺文明主导权的竞技游戏；征服的归宿在于征服者自愿接受文明感召并实现“[[Sinicisation|中国化]]”。入侵者未曾脱离华夏文明框架，反而全部融入华夏文明之中。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
-
-> [!citation-card] 逐鹿中原作为争夺天命的博弈
-> 为描述内亚族群对中原的入侵，赵汀阳借用了中原“逐鹿”这一家喻户晓的意象。对中原逐鹿的隐喻象征着异族进入中原争夺统治权，唤起了一种让人联想到古代周朝的怀旧理想秩序。在这套叙事中，入侵行动演变为争夺天命主导权的大型竞技，其结果是征服者被华夏文明完全同化。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+> [!citation-card] 逐鹿中原作为争夺天命主导权的认同竞技
+> 为描述内亚族群对中原的入侵，赵汀阳借用了中原“逐鹿”这一家喻户晓的意象。对中原逐鹿的隐喻象征着异族进入中原争夺统治权，唤起了一种让人联想到古代周朝的怀旧理想秩序。在这套叙事中，入侵行动演变为争夺天命主导权的大型竞技，其结果是征服者自愿接受文明感召并实现中国化。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
 >
 > *To describe the Inner Asian invasions of China, he invokes the proverbial image of 'stag hunting in the Central Plains' (zhulu zhongyuan) [...] The enigmatic allusion to stag-hunting on the Central Plains, symbolising 'barbarian' incursions into China for plunder, evokes a retrotopia reminiscent of the ancient Zhou dynasty.*
 
-### 文化死亡作为自愿牺牲与“成为”（Self-Sacrifice & Becoming）
+> [!citation-card] 少数民族文化消亡作为自愿“成为”
+> 赵汀阳的国家神学将少数民族文化的消亡归因于受中国文化优越性吸引而进行的自我牺牲。在这一视角下，文化的消逝被界定为向更高文明形态转化的自愿“自我牺牲”与“成为”（becoming），属于对非华夏存在方式的超越与升华；历史上的异族征服者均受文明感召，最终全部融入华夏文化体系之中。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+>
+> *Zhao's nationalist theology is thus thoroughly necropolitical, but he attributes the death of minority cultures to self-sacrifice by minorities themselves, fatally attracted by China's cultural superiority. For him, it is 'becoming,' a positive transformation involving triumph over non-Chinese ways of being. None of China's invaders were ever able to leave, and were all assimilated into Chinese culture.*
 
-- **文化死亡作为“成为”（Becoming）** 在天下话语建构下，少数民族文化和族群特性的消亡脱离了强制同化或国家暴力的属性，而被阐释为少数民族出于对华夏文明优越性的由衷仰慕而主动做出的自愿“自我牺牲”。这种文化死亡被界定为一种追求向更高文明形态转化的“成为”（becoming）。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
-- **汉字的神性符号整合力** 赵汀阳高度赞美汉字（Hanzi）跨方言、跨族群与表意的超地域属性，认为汉字赋予了“神性中国”无可比拟的普遍吸引力与文明整合力，是周边族群自愿融入华夏文明的物质与符号基石。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+> [!citation-card] 汉字跨地域神性符号整合力
+> 汉字在赋予神性中国如此深沉的感召力与普世吸引力方面发挥着关键作用。汉字作为表意文字跨越了方言与地域界限，为神性中国奠定了超验吸引与多族群融合的符号与物质基石。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 107)]]
+>
+> *He identifies Chinese characters (Hanzi) as crucial in bestowing upon numinous China 'such evocative power and universal appeal.'*
 
 ---
 

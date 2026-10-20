@@ -10,6 +10,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: "国家公立综合性大学 / 旗舰高等教育机构"
 headquarters: "柬埔寨金边（Phnom Penh, Cambodia）"
 established: "1960"

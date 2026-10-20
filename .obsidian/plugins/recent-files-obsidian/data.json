@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Zhao Tingyang",
+      "path": "wiki/persons/china/Zhao Tingyang.md"
+    },
+    {
+      "basename": "Tianxia Heuristic",
+      "path": "wiki/theories/comparative-education/Tianxia Heuristic.md"
+    },
+    {
+      "basename": "Argument_Chou_Demiryol_2024_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
+    },
+    {
+      "basename": "Argument_Bulag_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
+    },
+    {
       "basename": "Argument_Zhu_Yang_2025_HE",
       "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
+    },
+    {
+      "basename": "Suyan Pan",
+      "path": "wiki/persons/china/Suyan Pan.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "John King Fairbank",
@@ -97,18 +129,6 @@
       "path": "wiki/facts/china/Belt and Road Initiative.md"
     },
     {
-      "basename": "Argument_Chou_Demiryol_2024_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
-    },
-    {
-      "basename": "Tianxia Heuristic",
-      "path": "wiki/theories/comparative-education/Tianxia Heuristic.md"
-    },
-    {
-      "basename": "Zhao Tingyang",
-      "path": "wiki/persons/china/Zhao Tingyang.md"
-    },
-    {
       "basename": "Normalization through Knowledge Cooperation",
       "path": "wiki/concepts/political-economy-geopolitics/Normalization through Knowledge Cooperation.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "International Education",
       "path": "wiki/concepts/higher-education/International Education.md"
-    },
-    {
-      "basename": "Washington Consensus",
-      "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
-    },
-    {
-      "basename": "Belt and Road Education Action Plan",
-      "path": "wiki/facts/china/Belt and Road Education Action Plan.md"
-    },
-    {
-      "basename": "Argument_Biggs_1999_HERD",
-      "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md"
-    },
-    {
-      "basename": "Argument_Wong_2022_HERD",
-      "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md"
-    },
-    {
-      "basename": "Argument_Legrand_2012_PolStud",
-      "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
     }
   ],
   "omittedPaths": [],
