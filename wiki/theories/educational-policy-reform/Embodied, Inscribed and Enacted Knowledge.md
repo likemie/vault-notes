@@ -10,12 +10,12 @@ aliases:
   - inscribed knowledge
   - enacted knowledge
   - embodied inscribed and enacted knowledge
-summary: "弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的铭写知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化"
+summary: 弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的铭写知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化
 type: theory
-theory_field: "educational-policy-reform"
+theory_field: educational-policy-reform
 theory_related_count: 13
 theory_related_level: 1
-theory_related_stars: "⭐"
+theory_related_stars: ⭐
 theory_related_color: "#dbeafe"
 tags:
   - theory/knowledge

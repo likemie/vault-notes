@@ -20523,6 +20523,10 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   padding: 0 !important;
 }
 
+.callout[data-callout="nexus-model"] .list-bullet,
+.callout[data-callout="nexus-model"] .callout-content .list-bullet,
+.callout[data-callout="nexus-model"] .callout-content li > .list-bullet,
+.callout[data-callout="nexus-model"] .callout-content li::before,
 .callout[data-callout="nexus-model"] .callout-content li::marker,
 .callout[data-callout="nexus-model"] .callout-content li > p::marker,
 .callout[data-callout="nexus-model"] .callout-content li > p::before {
@@ -20582,7 +20586,7 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   display: flex !important;
   flex-direction: column !important;
   justify-content: flex-start !important;
-  padding: 0.78rem 0.95rem 0.72rem !important;
+  padding: 0.85rem 1rem 0.85rem !important;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.005) 100%),
     color-mix(in srgb, var(--background-primary) 92%, #141624 8%) !important;
@@ -20608,50 +20612,43 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   pointer-events: none;
 }
 
-/* 卡片第一行：战略维度 ＋ Pill 胶囊徽章（两端对齐） */
+/* 卡片第一行：单行两端紧凑对齐（严禁换行占多行） */
 .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type {
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
-  flex-wrap: wrap !important;
-  gap: 0.4rem !important;
-  margin: 0 0 0.48rem 0 !important;
-  padding-bottom: 0.38rem !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+  flex-wrap: nowrap !important;
+  gap: 0.45rem !important;
+  margin: 0 0 0.55rem 0 !important;
+  padding-bottom: 0.45rem !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07) !important;
 }
 
-/* 战略维度主标题 */
+/* 战略维度主标题：单行纯文字，加粗突出 */
 .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type strong {
   display: inline-flex !important;
   align-items: center !important;
-  gap: 0.35rem !important;
-  font-size: 0.88rem !important;
-  font-weight: 700 !important;
+  font-size: 0.92rem !important;
+  font-weight: 750 !important;
   color: var(--text-normal) !important;
   letter-spacing: -0.01em !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
 }
 
-/* 英文副标题 */
-.callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type em {
-  font-style: normal !important;
-  font-size: 0.72rem !important;
-  color: var(--text-muted) !important;
-  opacity: 0.72 !important;
-  font-family: var(--font-monospace) !important;
-  font-weight: 500 !important;
-}
-
-/* Pill 胶囊徽章：高教核心纽带角色（紧凑型） */
+/* Pill 胶囊徽章：高教核心纽带角色（紧凑单行徽章） */
 .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:first-of-type code {
   display: inline-flex !important;
   align-items: center !important;
   gap: 0.32rem !important;
   padding: 0.16rem 0.52rem !important;
   border-radius: 9999px !important;
-  font-size: 0.71rem !important;
+  font-size: 0.72rem !important;
   font-weight: 650 !important;
   letter-spacing: 0.02em !important;
   font-family: inherit !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
   transition: all 0.2s ease !important;
 }
 
@@ -20666,12 +20663,12 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   box-shadow: 0 0 6px currentColor !important;
 }
 
-/* 正文阐释段落（紧凑型） */
+/* 正文阐释段落：充实内容、高密度排版 */
 .callout[data-callout="nexus-model"] > .callout-content > ul > li > p:last-of-type {
-  font-size: 0.82rem !important;
-  line-height: 1.56 !important;
+  font-size: 0.83rem !important;
+  line-height: 1.62 !important;
   color: var(--text-normal) !important;
-  opacity: 0.88 !important;
+  opacity: 0.90 !important;
   margin: 0 !important;
 }
 
