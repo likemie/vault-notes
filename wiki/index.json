@@ -9458,6 +9458,15 @@
     ]
   },
   {
+    "title": "Chinese Exceptionalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Chinese Exceptionalism.md",
+    "aliases": [
+      "中国例外论",
+      "儒家例外论"
+    ]
+  },
+  {
     "title": "Civic Rituals",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Civic Rituals.md",
@@ -15998,6 +16007,17 @@
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Neo-Tributary Perspective",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Neo-Tributary Perspective.md",
+    "aliases": [
+      "新朝贡视角",
+      "新朝贡分析框架",
+      "新朝贡秩序",
+      "neo-tributary framework"
     ]
   },
   {
@@ -38102,6 +38122,11 @@
     "title": "Argument_Schulze-Cleven_2017_HE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
+  },
+  {
+    "title": "Argument_Zhu_Yang_2025_HE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
   },
   {
     "title": "Argument_Woo_2023_HEP",

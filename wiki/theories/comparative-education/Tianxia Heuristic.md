@@ -11,7 +11,7 @@ aliases:
 summary: "源自中国古典天下观并由马金森、杨锐等学者转译至比较与高等教育领域的理论启发式框架，构想无边界、关系性互联的全球知识空间，旨在容纳和而不同以及等级与平等的辩证共生，为超越西方民族国家中心主义二元对立提供非西方认识论与空间治理本体论。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 19
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,29 +24,20 @@ tags:
 related_concepts:
   - "[[Knowledge Power]]"
   - "[[Knowledge Diplomacy]]"
-  - "[[Epistemic Governance]]"
-  - "[[Geopolitics of Higher Education]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Discourse]]"
-  - "[[Epistemology]]"
-  - "[[Ontology]]"
-  - "[[Normalization through Knowledge Cooperation]]"
 related_theories:
-  - "[[World-Systems Theory]]"
-  - "[[World Society Theory]]"
-  - "[[Dependency Theory]]"
-related_methods:
-  - "[[Comparative Case Study]]"
+  - "[[Neo-Tributary Perspective]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Zhao Tingyang]]"
 related_facts:
+  - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Asian Universities Alliance]]"
-  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Bulag_2024_CE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: medium
 status: draft
 created: 2026-10-20
@@ -84,6 +75,7 @@ updated: 2026-10-20
 > - **2006–2016 赵汀阳《天下体系》奠定哲学范式** 提出天下作为世界公共制度的本体构想，主张以世界性思考超越民族国家私利，但也因带有将传统朝贡体制与中心同化理想化的倾向而引发学术争论。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 > - **2022 年 Marginson 与 Yang 等人完成高等教育学转译** 正式确立高等教育研究中的“天下启发式”，归纳出以天下观天下、天下一家、和而不同、等级与平等平衡，以及自愿认同与生态思维等五大核心分析支柱。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 > - **2024 年 Chou 与 Demiryol 提炼“世界中心天下观”** 剔除历史上以中国为中心的等级霸权叙事，提炼出“以世界为中心的天下观”（world-centric tianxia），将其作为解释多边大学联盟网络中心性常态化与多对多连接的开放性空间治理本体论。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1704–1705)]]
+> - **2025 年 Zhu 与 Yang 提出天下启发式与新朝贡视角的互补整合** 指出将天下与朝贡体系理想化为包容性文化优越论容易陷入乌托邦想象；实证表明中国高教外向拓展在实践中高度依赖经贸与外交工具；主张将聚焦现实地缘互动的[[Neo-Tributary Perspective|新朝贡分析框架]]与提供宏观整体秩序构想的天下启发式相结合，并引入知识外交范式以揭示中国与全球南北方的多维互动。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046, 1054)]]
 
 ---
 
@@ -176,3 +168,4 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 将天下启发式框架应用于分析一带一路大学联盟实践，提炼以世界为中心的天下观与网络中心性常态化理论。
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 深度解构赵汀阳天下体系理论在当代民族认同话语建构中的哲学功能与政治局限。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合中柬高教合作案例审视新朝贡分析框架与天下启发式，主张将二者整合以解释中国高教外向拓展在经贸外交驱动与文化认同探索中的张力。
