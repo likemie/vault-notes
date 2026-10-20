@@ -6,12 +6,29 @@ type: template
 tags: []
 status: active
 created: 2026-06-20
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # Callouts
 
 本文件是组件速查表，按**想表达的内容类型**分组。具体视觉样式见 `argument-callouts.css`。
+
+## 视觉系统 v4 · Editorial Hairline（2026-10-20）
+
+参考 VoltAgent/awesome-design-md 中 Notion、Linear、Stripe、Claude 四份 DESIGN.md，在 v3 之上加一层统一材质。只改颜色、边框、圆角、阴影和字重，组件名称、Markdown 写法、网格、计数器与时间轴不变。
+
+| 规则 | 设定 |
+| --- | --- |
+| 容器 | 1px 发丝线 + 极淡色调底；去掉斜纹、网格、径向光晕与常驻阴影 |
+| 强调色 | 只出现在标题墨色、4px 方角徽章、提示类左侧 3px 色轨 |
+| 层级 | 表面阶梯（底色 → 白卡 → 下沉表头）代替阴影；阴影只在卡片悬停时出现一级 |
+| 字重 | 正文 400，标题与强调 600，徽章 650；字距只用于徽章（0.06em） |
+| 圆角 | 4 标签 · 6 小件 · 8 卡片 · 12 容器 |
+| 表格 | 仅横向分隔线，表头灰阶小字，数字统一 tabular-nums |
+| 动效 | 去掉徽章脉冲与水印动画；保留 160ms 边框过渡，尊重“减少动态效果” |
+
+- CSS 位置：`argument-callouts.css` 末尾 `v4 · Editorial Hairline` 段，共 10 节。删除该段即回到 v3；v3 原文件备份在 `tmp/callout-design-backup-v4/`。
+- 新增组件时无需单独写材质：设定 `--callout-color` 即自动获得 `--ac-ink / --ac-tint / --ac-line` 等派生色。卡片型组件需要白卡效果时，把组件名加入第 06 节列表。
 
 ## 视觉系统 v3 · Prismatic study
 

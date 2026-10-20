@@ -20850,3 +20850,367 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   color: #d97706 !important;
   border-color: rgba(245, 158, 11, 0.25) !important;
 }
+
+/* =====================================================================
+   v4 · Editorial Hairline — 2026-10-20
+   视觉系统重构层。参考 VoltAgent/awesome-design-md 中四份 DESIGN.md：
+     Notion  — 暖中性纸面、1px 发丝线、12px 卡片圆角、4px 小标签
+     Linear  — 表面阶梯代替阴影、单一强调色克制使用、深色模式只用明度分层
+     Stripe  — 表格只留横向发丝线、表头小字灰阶、数字一律 tabular-nums
+     Claude  — 编辑式阅读节奏：色块优先、阴影罕用、正文 400 / 标签 500–600
+   原则
+     1. 材质统一：容器 = 1px 发丝线 + 极淡色调底；去掉斜纹、网格、径向光晕。
+     2. 强调色只出现在三处：标题墨色、标签徽章、左侧 3px 色轨（仅提示类）。
+     3. 层级靠表面阶梯（canvas → raised → sunken），阴影只在悬停时出现一级。
+     4. 字重三档：400 正文 / 600 标题与强调 / 650 徽章；字距仅徽章使用 0.06em。
+     5. 圆角四档：4 标签 · 6 小件 · 8 卡片 · 12 容器。
+   只改“材质”（颜色、边框、圆角、阴影、字重），不改原有布局、计数器、网格与时间轴。
+   停用本段即可回到 v3。
+   ===================================================================== */
+
+/* ── 01 Tokens ─────────────────────────────────────────────────────── */
+body {
+  --ac-r-tag: 4px;
+  --ac-r-sm: 6px;
+  --ac-r-md: 8px;
+  --ac-r-lg: 12px;
+  --ac-hair: color-mix(in srgb, var(--text-normal) 11%, var(--background-primary));
+  --ac-hair-soft: color-mix(in srgb, var(--text-normal) 7%, var(--background-primary));
+  --ac-sunken: color-mix(in srgb, var(--text-normal) 3%, var(--background-primary));
+  --ac-raised: var(--background-primary);
+  --ac-muted: color-mix(in srgb, var(--text-normal) 62%, var(--background-primary));
+  --ac-shadow-hover: 0 1px 2px rgb(15 15 15 / 0.04), 0 6px 16px -8px rgb(15 15 15 / 0.12);
+  --ac-ease: 160ms cubic-bezier(.2, .7, .3, 1);
+  --ac-ink-mix: 74%;
+  --ac-tint-mix: 4%;
+  --ac-tint-strong-mix: 9%;
+  --ac-edge-mix: 22%;
+}
+body.theme-dark {
+  --ac-hair: color-mix(in srgb, var(--text-normal) 14%, var(--background-primary));
+  --ac-hair-soft: color-mix(in srgb, var(--text-normal) 9%, var(--background-primary));
+  --ac-sunken: color-mix(in srgb, #000 18%, var(--background-primary));
+  --ac-raised: color-mix(in srgb, var(--text-normal) 4%, var(--background-primary));
+  --ac-shadow-hover: inset 0 1px 0 rgb(255 255 255 / 0.05);
+  --ac-ink-mix: 52%;
+  --ac-tint-mix: 6%;
+  --ac-tint-strong-mix: 12%;
+  --ac-edge-mix: 30%;
+}
+
+/* Per-callout derived tokens */
+.callout.callout[data-callout] {
+  --ac-accent: rgb(var(--callout-color));
+  --ac-ink: color-mix(in srgb, rgb(var(--callout-color)) var(--ac-ink-mix), var(--text-normal));
+  --ac-tint: color-mix(in srgb, rgb(var(--callout-color)) var(--ac-tint-mix), var(--background-primary));
+  --ac-tint-strong: color-mix(in srgb, rgb(var(--callout-color)) var(--ac-tint-strong-mix), var(--background-primary));
+  --ac-edge: color-mix(in srgb, rgb(var(--callout-color)) var(--ac-edge-mix), var(--ac-hair));
+  --ac-line: color-mix(in srgb, rgb(var(--callout-color)) 12%, var(--ac-hair));
+  /* 兼容 v3 变量，令旧规则自动跟随新材质 */
+  --rc-ink: var(--ac-ink);
+  --rc-glow: transparent;
+  --rc-edge: var(--ac-line);
+  --rc-panel: var(--ac-tint);
+  --rc-raised: var(--ac-raised);
+  --rc-shine: transparent;
+  --rc-shadow: transparent;
+}
+
+/* Calmer built-in admonition hues (Notion / Linear semantic set) */
+.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"]) { --callout-color: 35, 131, 226; }
+.callout.callout:is([data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) { --callout-color: 42, 157, 153; }
+.callout.callout:is([data-callout="tip"], [data-callout="hint"], [data-callout="important"]) { --callout-color: 15, 143, 128; }
+.callout.callout:is([data-callout="success"], [data-callout="check"], [data-callout="done"]) { --callout-color: 38, 151, 72; }
+.callout.callout:is([data-callout="warning"], [data-callout="caution"], [data-callout="attention"]) { --callout-color: 214, 120, 18; }
+.callout.callout:is([data-callout="failure"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"]) { --callout-color: 220, 56, 56; }
+.callout.callout:is([data-callout="example"]) { --callout-color: 112, 84, 220; }
+.callout.callout:is([data-callout="quote"], [data-callout="cite"]) { --callout-color: 120, 118, 113; }
+
+/* ── 02 Container material ─────────────────────────────────────────── */
+/* 排除依赖拼合/无边框的结构件：并列栏、线索、SWOT 字母卡、debates 子卡 */
+body .callout.callout[data-callout]:not(
+  [data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"],
+  [data-callout="chapter-question"]) {
+  mix-blend-mode: normal;
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--ac-line);
+  border-radius: var(--ac-r-lg);
+  background: var(--ac-tint);
+  box-shadow: none;
+  transition: border-color var(--ac-ease), box-shadow var(--ac-ease);
+}
+body .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"]):hover {
+  border-color: var(--ac-edge);
+  box-shadow: none;
+  transform: none;
+}
+/* 装饰性伪元素水印：保留，但退到几乎不可见 */
+body .callout.callout[data-callout]::after { opacity: .45; animation: none; }
+body .callout.callout[data-callout]:hover::after { transform: none; }
+
+/* 提示类：左侧 3px 色轨（Notion callout / Linear issue rail） */
+body .callout.callout.callout.callout:is(
+  [data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"],
+  [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"],
+  [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"],
+  [data-callout="failure"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"],
+  [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"],
+  [data-callout="question"], [data-callout="def"], [data-callout="claim"], [data-callout="warrant"],
+  [data-callout="implication"], [data-callout="critique"], [data-callout="boundary"],
+  [data-callout="citation-card"], [data-callout="case"], [data-callout="conclusion"]) {
+  border-left: 3px solid var(--ac-accent);
+  border-radius: var(--ac-r-md);
+}
+/* 引用：去色块，纯排版（Claude editorial） */
+body .callout.callout.callout.callout:is([data-callout="quote"], [data-callout="cite"]) {
+  background: transparent;
+  border-color: transparent;
+  border-left: 2px solid var(--ac-hair);
+  border-radius: 0;
+}
+body .callout.callout:is([data-callout="quote"], [data-callout="cite"]) > .callout-content {
+  color: var(--ac-muted);
+  font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif;
+  font-size: 1.02em;
+}
+
+/* ── 03 Title ──────────────────────────────────────────────────────── */
+body .callout.callout[data-callout] > .callout-title {
+  background: transparent;
+  background-image: none;
+  border-bottom-color: var(--ac-line);
+  box-shadow: none;
+  color: var(--ac-ink);
+  font-weight: 600;
+  letter-spacing: 0;
+  align-items: center;
+}
+body .callout.callout[data-callout] > .callout-title .callout-title-inner {
+  font-weight: 600;
+  color: var(--ac-ink);
+  letter-spacing: -0.005em;
+}
+body .callout.callout[data-callout] > .callout-title .callout-icon { color: var(--ac-accent); opacity: .9; }
+body .callout.callout[data-callout] > .callout-title .callout-icon .svg-icon { width: 16px; height: 16px; stroke-width: 2; }
+
+/* 徽章 → 4px 方角小标签（Notion tag / Linear label） */
+body .callout.callout[data-callout]:not([data-callout^="line-"], [data-callout^="col-"],
+  [data-callout="strength"], [data-callout="weakness"], [data-callout="opportunity"], [data-callout="threat"])
+  > .callout-title .callout-title-inner::before {
+  border: 0;
+  border-radius: var(--ac-r-tag);
+  background: var(--ac-tint-strong);
+  background-image: none;
+  box-shadow: none;
+  color: var(--ac-ink);
+  font-size: 0.66em;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  padding: 0.22em 0.55em;
+  margin-right: 0.6rem;
+  vertical-align: 0.12em;
+  text-shadow: none;
+  font-variant-numeric: tabular-nums;
+  animation: none;
+  transform: none;
+}
+
+/* ── 04 Body typography ────────────────────────────────────────────── */
+body .callout.callout[data-callout] > .callout-content {
+  background-image: none;
+  line-height: 1.72;
+}
+body .callout.callout[data-callout] .callout-content strong {
+  font-weight: 600;
+}
+body .callout.callout[data-callout] .callout-content :is(td, th, li, p) {
+  font-variant-numeric: tabular-nums;
+}
+body .callout.callout[data-callout] .callout-content blockquote {
+  border-left: 2px solid var(--ac-hair);
+  background: transparent;
+  color: var(--ac-muted);
+}
+
+/* ── 05 Tables (Stripe) ────────────────────────────────────────────── */
+body .callout.callout[data-callout] .callout-content table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--ac-hair);
+  border-radius: var(--ac-r-md);
+  overflow: hidden;
+  background: var(--ac-raised);
+  box-shadow: none;
+}
+body .callout.callout[data-callout] .callout-content :is(th, td) {
+  border: 0;
+  border-bottom: 1px solid var(--ac-hair-soft);
+  background-image: none;
+}
+body .callout.callout[data-callout] .callout-content tr:last-child > td { border-bottom: 0; }
+body .callout.callout[data-callout] .callout-content th {
+  background: var(--ac-sunken);
+  border-bottom: 1px solid var(--ac-hair);
+  color: var(--ac-muted);
+  font-size: 0.82em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+body .callout.callout[data-callout] .callout-content td:first-child { color: var(--text-normal); }
+body .callout.callout[data-callout] .callout-content tbody tr { transition: background-color var(--ac-ease); }
+body .callout.callout[data-callout] .callout-content tbody tr:hover > td { background-color: var(--ac-tint); }
+
+/* ── 06 Card items (li cards inside grid-like callouts) ────────────── */
+body .callout.callout:is(
+  [data-callout="concept-lens"], [data-callout="feature"], [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"],
+  [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="dimension"],
+  [data-callout="theory-components"], [data-callout="factors"], [data-callout="chain-link"],
+  [data-callout="stat-cards"], [data-callout="dev-timeline"], [data-callout="timeline"],
+  [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"],
+  [data-callout="pathways"], [data-callout="policy-design"], [data-callout="theory-proposition"],
+  [data-callout="org-evolution"], [data-callout="method-panel"], [data-callout="sample-panel"],
+  [data-callout="influence-path"], [data-callout="spectrum"], [data-callout="nexus-model"])
+  > .callout-content > :is(ul, ol) > li {
+  background: var(--ac-raised);
+  background-image: none;
+  border-color: var(--ac-hair);
+  border-radius: var(--ac-r-md);
+  box-shadow: none;
+  transition: border-color var(--ac-ease), box-shadow var(--ac-ease);
+}
+body .callout.callout:is(
+  [data-callout="concept-lens"], [data-callout="feature"], [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"],
+  [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="dimension"],
+  [data-callout="theory-components"], [data-callout="factors"], [data-callout="chain-link"],
+  [data-callout="stat-cards"], [data-callout="dev-timeline"], [data-callout="timeline"],
+  [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"],
+  [data-callout="pathways"], [data-callout="policy-design"], [data-callout="theory-proposition"],
+  [data-callout="org-evolution"], [data-callout="method-panel"], [data-callout="sample-panel"],
+  [data-callout="influence-path"], [data-callout="spectrum"], [data-callout="nexus-model"])
+  > .callout-content > :is(ul, ol) > li:hover {
+  border-color: var(--ac-edge);
+  box-shadow: var(--ac-shadow-hover);
+  transform: none;
+}
+
+/* ── 07 Inline pills / key labels inside items ─────────────────────── */
+/* 原先的实心深色标签条 → 文字墨色，无底（feature / case / proc / note 的 strong 标签） */
+body .callout.callout[data-callout="feature"] > .callout-content > ul > li > strong:first-of-type {
+  display: block;
+  background: none;
+  box-shadow: none;
+  color: var(--ac-ink);
+  padding: 0 0 .35rem;
+  margin-bottom: .45rem;
+  border-radius: 0;
+  border-bottom: 1px solid var(--ac-hair-soft);
+  font-size: .95em;
+  font-weight: 600;
+}
+body .callout.callout:is([data-callout="case"], [data-callout="proc"], [data-callout="note"], [data-callout="dev-timeline"])
+  > .callout-content li > strong:first-child,
+body .callout.callout:is([data-callout="case"], [data-callout="proc"], [data-callout="note"], [data-callout="dev-timeline"])
+  > .callout-content li > p:first-child > strong:first-child {
+  background: var(--ac-tint-strong);
+  background-image: none;
+  border: 0;
+  border-radius: var(--ac-r-tag);
+  box-shadow: none;
+  color: var(--ac-ink);
+  font-weight: 600;
+  padding: .08em .45em;
+}
+
+
+/* 所有列表首个加粗标签：去描边、去浮雕阴影、去渐变，统一 4px 方角 */
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > strong:first-child,
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child,
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-child {
+  border-color: transparent !important;
+  box-shadow: none !important;
+  background-image: none !important;
+  text-shadow: none !important;
+  border-radius: var(--ac-r-tag);
+}
+
+/* ── 08 Specific families ──────────────────────────────────────────── */
+/* concept-lens：无斜纹，子卡为白卡 */
+body .callout.callout[data-callout="concept-lens"] > .callout-content > :is(ul, ol) > li > strong:first-child {
+  color: var(--ac-ink);
+}
+/* entry-map / ref-table：容器内表格贴边，容器只做框 */
+body .callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"],
+  [data-callout="ma-table"], [data-callout="row-contrast"], [data-callout="framework-table"]) {
+  background: var(--ac-raised);
+}
+/* stat-cards：Stripe 式大数字，去刻度纹 */
+body .callout.callout[data-callout="stat-cards"] > .callout-content > ul > li {
+  border-bottom: 1px solid var(--ac-hair);
+  box-shadow: inset 0 2px 0 var(--ac-accent);
+}
+body .callout.callout[data-callout="stat-cards"] > .callout-content > ul > li strong:first-of-type {
+  font-weight: 600 !important;
+  letter-spacing: -0.03em !important;
+  color: var(--text-normal) !important;
+}
+/* evidence-grid：顶部 2px 细帽代替 3px 墨条 */
+body .callout.callout:is([data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"])
+  > .callout-content > ul > li {
+  border-top: 2px solid var(--ac-edge);
+}
+/* timelines：节点去光晕 */
+body .callout.callout:is([data-callout="dev-timeline"], [data-callout="timeline"], [data-callout="thought-timeline"],
+  [data-callout="proc"], [data-callout="finding-cards"]) > .callout-content > :is(ul, ol) > li::before {
+  box-shadow: 0 0 0 3px var(--background-primary);
+  background-image: none;
+}
+/* tension：保留蓝/红语义，去渐变 */
+body .callout.callout[data-callout="tension"] > .callout-title { background: transparent; }
+body .callout.callout[data-callout="tension"] > .callout-content > ul > li { box-shadow: none; background-image: none; }
+
+/* debates：外框白底，子卡（axis）用细帽 */
+body .callout.callout[data-callout="debates"] { background: var(--ac-raised); }
+body .callout.callout[data-callout="debates"] .callout[data-callout="axis"] {
+  background: var(--ac-sunken);
+  background-image: none;
+  border: 1px solid var(--ac-hair);
+  border-radius: var(--ac-r-md);
+  box-shadow: none;
+}
+body .callout.callout[data-callout="debates"] .callout[data-callout="axis"] > .callout-title {
+  background: transparent;
+  border-bottom: 1px solid var(--ac-hair-soft);
+}
+
+
+/* line-a…e / col-l / col-r：保留拼合与圆角逻辑，只换材质 */
+body .callout.callout:is([data-callout^="line-"], [data-callout^="col-"]) {
+  mix-blend-mode: normal;
+  background: var(--ac-tint);
+  border-color: var(--ac-line);
+  box-shadow: none;
+}
+body .callout.callout[data-callout^="line-"] { border-left-width: 3px; border-left-color: var(--ac-accent); }
+body .callout.callout[data-callout^="line-"]::after { opacity: .35; }
+body .callout.callout[data-callout^="line-"] > .callout-title .callout-title-inner::before {
+  box-shadow: none; background-image: none; animation: none;
+}
+
+/* ── 09 Dark mode ──────────────────────────────────────────────────── */
+body.theme-dark .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"]) {
+  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.03);
+}
+body.theme-dark .callout.callout[data-callout] .callout-content table { background: var(--ac-sunken); }
+
+/* ── 10 Narrow panes & motion ──────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  body .callout.callout[data-callout],
+  body .callout.callout[data-callout] * { transition: none !important; animation: none !important; }
+}
+@media print {
+  body .callout.callout[data-callout] { background: none !important; box-shadow: none !important; break-inside: avoid; }
+}

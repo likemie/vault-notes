@@ -186,6 +186,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-08-15
@@ -319,7 +320,7 @@ updated: 2026-10-20
 > 探讨[[Generative Artificial Intelligence|生成式人工智能]]普及背景下，以最终文本为单一评价尺度的学业成就构念如何面临效度瓦解，以及转向过程性自适应专业特长的评价重构。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **终稿表象与深层[[Cognitive Offloading|认知卸载]]的效度危机** 传统教育研究常将[[Higher-Order Thinking Skills|高阶思维]]粗放等同于一般的学业表现。生成式人工智能普及后，学生极易借助算法生成文面极其光滑、结构看似完备的表面学业成果，这种表面流畅性掩盖了深层认知卸载与批判性反思的退化。单纯依赖终稿成果（如课程论文或期末作品得分）已无法表征学生真实的认知建构水平，迫使学业成就评价系统从静态结果交付转向以提示词溯源链、查错反思日志与方案迭代辩护为核心的过程性评价生态。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3, 11–13)]]
+> **终稿表象与深层[[Cognitive Offloading|认知卸载]]的效度危机** 传统教育研究常将[[Higher-Order Thinking Skills|高阶思维]]粗放等同于一般的学业表现。生成式人工智能普及后，学生极易借助算法生成文面极其光滑、结构看似完备的表面学业成果，这种表面流畅性掩盖了深层认知卸载与批判性反思的退化。单纯依赖终稿成果（如课程长文写作或期末作品得分）已无法表征学生真实的认知建构水平，迫使学业成就评价系统从静态结果交付转向以提示词溯源链、查错反思日志与方案迭代辩护为核心的过程性评价生态。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3, 11–13)]]
 
 > [!claim] [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]]; Ünal et al. (2026)
 > **测验紧密性膨胀与即时工具助答缩减** 大规模元分析与实验证据揭示，技术干预对学业成就的表观提分效应高度受制于测验工具与评估情境。采用教师或开发者自编学科测验的研究，因试题高度贴合练习界面而产生显著的效应膨胀；而在校正[[Publication Bias|发表偏倚]]与排除即时工具代答后，真实的学业增益呈现大幅缩减。这表明常规纸笔测验中的表观成绩极易把技术即时辅助效果误读为学生内在[[Concept Mapping|概念图]]式的稳固内化。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–14)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
@@ -336,6 +337,9 @@ updated: 2026-10-20
 
 > [!claim] [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]]
 > **国家审计制度下的成就标准化与经济工具化** 从世界体系与批判政治经济学视角审视，统一的学业成就标准与基于标准化测验的问责制度构成了新自由主义教育改革的核心管理机制。在此治理逻辑下，民族国家从公共教育的直接供给者退缩为远程审计者，其首要职能被窄化为制定考核指标、设定学业达标门槛与评估量化结果。这种将学业成就单一锚定在标准化统考上的治理取向，将教育多元的育人追求与民主价值削足适履为服务于全球资本积累与劳动力排位竞争的狭隘经济指标。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 113)]]
+
+> [!claim] Segerholm, C., Lindgren, J. & Novak, J.
+> **提高学业成就的政治指令与督导标准的循证编码** 在国家教育治理中，提高学生学业成绩的强硬政治指令构成了推动官僚机构重构规程的核心动力。瑞典学校督察局在法定框架无法界定“良好教学”的起草僵局下，将提高学业成绩的政治目标与有效学校研究（effective schools research）强行绑定，从中提炼出被认为对学业成绩重要的维度，并将其编码入规固化为十项全国统一的刚性督导领域。这表明学业成就不仅是微观测量指标，更充当了国家督导机器将复杂教育实践转化为可控规制客体、实现行政简化与问责合法化的政治驱动力。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 646–648, 652)]]
 
 ---
 
@@ -406,7 +410,7 @@ updated: 2026-10-20
 > | **成就阶梯与性别优势认识论根源** | 长期平时成绩优劣分化与固定能力观、简单知识观紧密挂钩；女生在多维学业表现上的相对优势受成长型能力观与关系性反思认知方式支撑。 | 学业成就分层干预、学困生归因辅导、性别与学业差异研究 | Lodewyk; Greene et al. |
 > | **测量效标锚定与因果测验准则** | 学业成就测量需通过标准化独立测验或与行政数据库（NPD）/实际总评（OAA）深度锚定；警惕自编测验效应膨胀与学段替代赤字。 | 量化实证研究设计、大规模因果评估、测量误差与证据对齐控制 | Greene et al.; Lodewyk; Slavin; Edovald & Nevill; Ginsberg et al. |
 > | **生成式 AI 时代成果脱节与过程性评价转向** | 终稿文本的表面流畅性掩盖深层认知卸载与工具代答假象；学业成就评价需转向包含提示词追踪、事实核查与反思辩护的过程性生态。 | 高等教育生成式技术应用、课程与评价改革、生成式 AI 促学效应元分析 | Li et al.; Chen & Cheung; Ünal et al. |
-> | **全球治理中的成就话语建构与审计管理** | 跨国学业成就指标的高度可塑性使客观平稳数据易被再造为衰退危机，统一成就标准与标准化测验沦为国家远程审计与新自由主义考核工具。 | [[International Large-Scale Assessments\|国际大规模评估]]（PISA）、比较教育学、政策[[Discourse Analysis\|话语分析]]、[[World-Systems Theory\|世界体系分析]] | Grey & Morris; Arnove |
+> | **全球治理中的成就话语建构与审计管理** | 跨国与国家治理中学业成就指标具备政治驱动力与话语可塑性，客观平稳数据易被再造为危机修辞，提高成绩的政治指令迫使督导规程绑定有效学校研究以推行行政简化。 | [[International Large-Scale Assessments\|国际大规模评估]]（PISA）、[[School Inspection\|学校督导]]、政策[[Discourse Analysis\|话语分析]]、[[World-Systems Theory\|世界体系分析]] | Grey & Morris; Arnove; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al.]] |
 > | **多层因果链条中的远端脱节悖论** | 学业成就是检验教育干预的终极客观标尺；中介行为改变、宏观财政注资与行政数据回传常因五级治理链条阻滞与校长把关过滤而与终端学业增益严重脱节。 | [[Evidence-Based Education\|循证教育]]因果评估、多级治理链条审计、教育经济学、公共财政投入评估 | Gorard et al.; Altrichter et al.; Manitius & van Holt; Hattie; Ginsberg et al. |
 > | **多层方差分解与教师核心枢纽** | 学业成就变异呈现结构性层级：教师教学互动是系统内最大可控因果源泉；批判学者揭示生源阶层主导大部分方差，警惕将结构性不平等简化为微观个人归因。 | 教育政策设计、学校效能研究、资源分配优先级排序、社会阶层与教育公平 | Hattie; [[World Bank\|World Bank Group]]; Snook et al.; Terhart; Grace; Kalmendal et al. |
 > | **分层循证教学与学业差距消除** | 全班教学升级与助教分层辅导结合，以及学科针对性资源配置与密集辅导，能以可承受成本系统性消除薄弱学校学业差距。 | CSI 薄弱学校改进、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿资助、[[Response to Intervention\|干预反应模型]]（RTI）分层预防 | Slavin; Ginsberg et al. |
@@ -429,11 +433,12 @@ updated: 2026-10-20
 > - **2011 年：二阶聚合时效滞后与学业成就测量窄化审视** [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）在《课程研究杂志》（*Journal of Curriculum Studies*）发表长篇学术述评，系统审查《[[Visible Learning|可见的学习]]》所宣称的学业成就综合结论。特哈特指出，该巨型综合仅采用可量化测验成绩作为成功教学指标，系统性排除了更广泛的育人目标；其二阶模型抽空了学科知识实质与教化（[[Bildung]]）反思；同时援引方差分解实证，揭示了教师效能对弱势阶层学生的特异性补偿价值与宏观方差边界。
 > - **2018 年：全球数据治理与学业成就的政治化再造** [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] 突破微观心理测量视角，揭示在以 [[PISA]] 为代表的跨国评估中，宏观学业成就指标因指标交错与去脉络化而具备极高可塑性，客观平稳的成绩在国家政治[[Champ\|场域]]中易被剪裁为停滞衰退的危机修辞以推行新自由主义政策。
 > - **2018 年：[[Dependent Variable|因变量]][[Operationalization|操作化]]脱节与[[Research Cage|封闭研究牢笼]]批评** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 深入剖析《[[Visible Learning|可见的学习]]》核心因变量学业成就的概念效度危机。罗默指出，哈蒂在理论上区分了[[Surface and Deep Learning|表层学习]]、深层学习与建构性理解等不同认知层级，但在经验[[Meta-analysis|元分析]]中，学业成就仅被操作化为表层标准化测验分数，建构性理解从未得到实质测量；同时[[Independent Variable|自变量]]与因变量混杂循环论证，构筑起与真实教育世界脱节的封闭自循环体系。
-> - **2019 年：独立测验质控刚性化与分层循证消除学业差距** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 在《教育心理学家》发表里程碑论文，确立独立标准化测验为衡量真实学业成就的法定质控标尺（坚决剔除自编测验），并系统阐述以经过验证的教学方案与助教分层辅导消除薄弱学校学业差距的因果机制。
+> - **2019 年：独立测验质控刚性化与分层循证消除学业差距** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 在《教育心理学家》系统阐发独立标准化测验为衡量真实学业成就的法定质控标尺（坚决剔除自编测验），并系统阐述以经过验证的教学方案与助教分层辅导消除薄弱学校学业差距的因果机制。
 > - **2019 年：多级治理因果链条与远端学业脱节机理** [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] 结合欧陆[[Output-Oriented Governance|产出导向治理]]理论，揭示从宏观治理工具到微观学业成就需跨越五级多层因果链条；基层校长的认知把关过滤导致政策因果动力在第二级发生严重衰减，从多层治理与微观阻滞视角解释了大规模监控与督导改革对终端学生学业成就难以产生直接净效应的结构性规律。
 > - **2020 年：因果产出分层与终端学业脱节规律确立** [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] 确立了低阶认知、中阶行为与高阶终端学业的三阶因果检验阶梯，实证揭示改写分发、中介人与[[Action Research\|行动研究]]虽能改变教师中阶行为，但终端学业成就多表现为零增益；提出唯有将因果规律工程化封装为操作工件，方能打破中介断裂并稳定保障学业成效。
 > - **2021 年：因果评估准则确立与学业测验[[Reliability\|信度]]反思** [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 总结英格兰近十年因果循证经验，系统规范了学业成就作为首要结果（primary outcomes）的测验准入标准。研究确立了独立标准化测验与[[National Pupil Database\|国家学生数据库]]（NPD）行政微观档案的首选地位，警惕[[Developer-Made Measures\|开发者自编测验]]的效应虚高，并揭示了商业化测验在因果评估中暴露的地板与[[Floor and Ceiling Effects\|天花板效应]]信度危机。同时，指明了学业成就与[[Self-control\|自我控制]]、社会情感素养协同评估的必要性。
 > - **2021 年：[[Epistemology\|认识论]]因果干预与高阶成就敏感性确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 开展首个认识论干预因果[[Meta-analysis\|元分析]]，证实认识论认知干预对高阶论证表现与概念理解具有极强提分效能，但对程序套用与一般考试完全脱节，并在因果层面揭示了短周期高强度干预优于学期泛化干预的时长规律。
+> - **2022 年：督导规程编码与学业成就的行政目标绑定** [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] 追踪瑞典学校督察局的建立与运作，揭示提高学生学业成绩的政治指令如何迫使官僚机构借用有效学校研究打破法定起草僵局，将研究维度编码为十项全国统一的刚性督导常模，揭示了学业成就作为国家规制与行政简化驱动力的机制。
 > - **2024 年：微观财政流水审计与学业成就[[Chain of Evidence\|证据链]]断裂** [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 首创将大型城市学区微观财务支出细项与四大权威证据库进行逐笔穿透式匹配，实证检验资源投入与学业产出脱节假说；量化揭示法定单项门槛掩盖了大量资金投向未获全量证据支持的实践，从制度合规与资源分配维度揭示了为何数十年巨额补偿性财政难以稳定撬动弱势学生的学业成就。
 > - **2025 年：基线控制[[Meta-analysis\|元分析]]解构学业成绩虚高机制** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 引入严格[[Pre-test and Post-test|前测]]基线等效门槛检验生成式 AI 对大学生学业成绩的促进效应，通过自编测验分化与[[Trim and Fill Method|剪补法]]校正，实证揭示了工具代答与[[Publication Bias|发表偏倚]]导致的学业提分泡沫。
 > - **生成式 AI 时代：终稿成果与真实心智脱钩及过程性转向** 随着生成式 AI 普及，单纯基于文本终稿的学业成绩面临空前的效度危机。学者系统批判将高阶心智与粗放学业成就混为一谈的传统做法，推动学业成就概念从静态文本产出向包含提示词设计、事实核查、反思日志与批判辩护的自适应专业特长过程性转向。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026)]]
@@ -502,7 +507,7 @@ updated: 2026-10-20
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.52, 0.90]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $ES = 0.59$ $[0.37, 0.81]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量：AI 教育应用对学业成就的促进效应（8 项一阶元分析（First-Order Meta-analysis, FOM）亚组结果） | $M = 19$（总体）；$E = 8$（学业成就亚组）；$k = —$；$N = 58,702$（总体） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.68$ $[0.48, 0.87]$ | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | 检索 2020–2025 年 AIEd 元分析，仅限英语文献；AI 类型与成果类型亚组间无显著差异；教育阶段和学科领域存在显著调节效应 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]]（审查 Hattie, 2009） | 结果变量：影响学生学业成就（Academic Achievement）的全球二阶元分析巨型综合 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶简单算术加权 | $d = 0.40$ $[—, —]$ | 原文未报告 $Q$ 与 $I^2$；将 $d = 0.40$ 设为期望效应门槛 | 涵盖 138 个影响因素；缺乏初级研究纳入质控标准；未对原始研究异质性进行模型加权调整；底层文献发表年份多集中于 1980–1990 年代 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]]（审查 Hattie, 2009） | 结果变量：影响学生学业成就（Academic Achievement）的全球二阶元分析巨型综合 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶简单算术加权 | $d = 0.40$ $[—, —]$ | 未报告 $Q$ 与 $I^2$；将 $d = 0.40$ 设为期望效应门槛 | 涵盖 138 个影响因素；缺乏初级研究纳入质控标准；未对原始研究异质性进行模型加权调整；底层文献发表年份多集中于 1980–1990 年代 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -511,7 +516,7 @@ updated: 2026-10-20
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs 学业成就 vs [[Affective Outcomes\|情感行为]] | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；学业成就效应稳健居中，与高阶思维无显著差异 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量 | 教育阶段互补比较：K12 vs K12 与高等教育混合 | $k = 4$（K12）/ $k = 15$（混合） | K12 $ES = 0.40$ $[0.19, 0.62]$；混合 $ES = 0.73$ $[0.62, 0.84]$ | $Q_b(2) = 6.95, p < .05$ | 预设分析；K12 效应显著弱于混合阶段，可能与课程冲突、认知负荷及 AI 工具适配不足有关 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]] | 结果变量 | 影响因素来源六大领域：教师 vs 课程 vs 教学方式 vs 学生 vs 家庭 vs 学校 | 教师 $M = 31, k = 2,225$ / 课程 $M = 144, k = 7,102$ / 教学 $M = 365, k = 25,860$ / 学生 $M = 139, k = 11,101$ / 家庭 $M = 36, k = 2,211$ / 学校 $M = 101, k = 4,150$ | 教师 $d = 0.49$；课程 $d = 0.45$；教学 $d = 0.42$；学生 $d = 0.40$；家庭 $d = 0.31$；学校 $d = 0.23$ | 原文未报告正式组间 $Q_b$ 检验 | 仅依据点估计值排列，缺乏正式调节检验；教师维度包含实践与条件多重异质变量 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]] | 结果变量 | 影响因素来源六大领域：教师 vs 课程 vs 教学方式 vs 学生 vs 家庭 vs 学校 | 教师 $M = 31, k = 2,225$ / 课程 $M = 144, k = 7,102$ / 教学 $M = 365, k = 25,860$ / 学生 $M = 139, k = 11,101$ / 家庭 $M = 36, k = 2,211$ / 学校 $M = 101, k = 4,150$ | 教师 $d = 0.49$；课程 $d = 0.45$；教学 $d = 0.42$；学生 $d = 0.40$；家庭 $d = 0.31$；学校 $d = 0.23$ | 未报告正式组间 $Q_b$ 检验 | 仅依据点估计值排列，缺乏正式调节检验；教师维度包含实践与条件多重异质变量 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -542,7 +547,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占系统内最大可控核心），揭示宏观资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning|asTTle]] 系统推动基于[[Learning Progression|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology|认识论]]预测源，实证确立了[[Task Structure|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement|学业成就性别差异]]与效标锚定的关键证据。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模[[Meta-analysis|元分析]]系统考察了[[Epistemic Cognition|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment|对齐法则]]。
@@ -551,6 +556,7 @@ updated: 2026-10-20
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，批判了将[[Higher-Order Thinking Skills|高阶思维]]混同为泛化学业表现（Academic Achievement）的传统取向，揭示了表面文本流畅性掩盖深层[[Cognitive Offloading|认知卸载]]的危机，确立了从终稿产出向反思过程与自适应专业特长转型的评价规制。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — [[Meta-analysis|元分析]]在严格控制[[Pre-test and Post-test|前测]]基线等效前提下，评估生成式 AI 对大学生学业成绩的促进效应，并经[[Trim and Fill Method|剪补法]]校正[[Publication Bias|发表偏倚]]至稳健水平。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 剖析英格兰在 [[PISA]] 2012 中学业成就指标的社会建构过程，揭示客观平稳的学业成绩如何被官方修辞转译为停滞危机，以此合法化教师[[Performance Pay|绩效工资]]与严苛问责体系。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督察局的建立与运作，揭示提高学生学业成绩的政治指令如何迫使官僚机构借用有效学校研究打破法定起草僵局，将研究结论编码为十项全国统一的刚性督导常模，呈现学业成就在国家教育规制与行政简化中的政治功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 深度总结[[Education Endowment Foundation|教育捐赠基金会]]（EEF）近十年来在英格兰主导的大规模因果评估实践，系统建构了学业成就在因果研究中的测验准入标准、[[Reliability|信度]]效度审查框架、商业测验地板与[[Floor and Ceiling Effects|天花板效应]]诊断，以及依托[[National Pupil Database|国家学生数据库]]（NPD）微观考分进行长期学业追踪的方法论[[Paradigm|范式]]。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 大规模[[Systematic Review|系统综述]]确立学业成就是检验循证干预的终极试金石，实证揭示了教师中阶实践行为改变与学生终端学业成绩之间的系统性因果脱节，确立了以[[Engineered Evidence|工程化证据]]为核心跨越中介断裂的因果实现路径。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 系统阐述循证改革如何以独立标准化测验为刚性质量标尺（坚决剔除自编测验），通过经验证的 Tier 1 全班教学方案与助教主导的 Tier 2/Tier 3 分层针对性辅导，以可负担的财政成本系统性消除 [[Title I of the Elementary and Secondary Education Act|Title I]] CSI 薄弱学校的学业成就差距。
