@@ -623,21 +623,10 @@ def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_c
     keys: "Counter[Tuple[str, str, str]]" = _Counter()
     rels = {p: unicodedata.normalize("NFC", rel(p)) for p in files}
     head = git_files_at_head(sorted(set(rels.values())))
-    for p in files:
-        text = head.get(rels[p])
-        if text is None:
-            continue
-        found: List[Issue] = []
-        _TEXT_OVERRIDES[p] = text
-        try:
-            lint_file(p, by_title, path_to_title, argument_citations, found)
-        except Exception:
-            pass
-        finally:
-            _TEXT_OVERRIDES.pop(p, None)
-        for issue in found:
-            if issue.severity in ("WARN", "INFO") and issue.code not in WRITING_REMINDER_CODES:
-                keys[(issue.path, issue.code, issue.message)] += 1
+    jobs = [(p, head[rels[p]]) for p in files if rels[p] in head]
+    for issue in lint_files(jobs, by_title, path_to_title, argument_citations, baseline=True):
+        if issue.severity in ("WARN", "INFO") and issue.code not in WRITING_REMINDER_CODES:
+            keys[(issue.path, issue.code, issue.message)] += 1
     entry_metadata.cache_clear()
     return keys
 
@@ -2994,6 +2983,23 @@ NEGATIVE_CONTRAST_REMINDER = (
     "若存在虚构论争对象、制造虚假对立或缺乏实质性论证的情况，应改用直接的肯定式表述。"
 )
 
+# Each pending writing item prints only its ID, hits and context; the rule
+# text is printed once per code after the summary (writing_review_legend).
+WRITING_REMINDERS = {
+    "ACADEMIC_BUZZWORD": BUZZWORD_REMINDER,
+    "ACADEMIC_NEGATIVE_CONTRAST": NEGATIVE_CONTRAST_REMINDER,
+    "ACADEMIC_SELF_REFERENCE": SELF_REFERENCE_REMINDER,
+}
+WRITING_REVIEW_ACTION = "必须修改表达，或在 scripts/writing_exceptions.json 的本条目路径下添加经审查批准的 ID；未处理会阻断检查。"
+
+
+def writing_review_legend(codes: Iterable[str]) -> List[str]:
+    present = set(codes)
+    lines = [f"  [{code}] {WRITING_REMINDERS[code]}" for code in WRITING_REMINDERS if code in present]
+    if lines:
+        lines.append(f"  每个待审查项：{WRITING_REVIEW_ACTION}")
+    return lines
+
 
 def academic_prose_scan(text: str) -> str:
     """Keep visible prose and source offsets; ignore code, comments and link targets."""
@@ -3186,10 +3192,10 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
             if not context:
                 continue
             context = re.sub(r"\s+", " ", context)[:160]
-            for words, code, reminder in (
-                (ACADEMIC_BUZZWORDS, "ACADEMIC_BUZZWORD", BUZZWORD_REMINDER),
-                (NEGATIVE_CONTRAST_MARKERS, "ACADEMIC_NEGATIVE_CONTRAST", NEGATIVE_CONTRAST_REMINDER),
-                (SELF_REFERENCE_MARKERS, "ACADEMIC_SELF_REFERENCE", SELF_REFERENCE_REMINDER),
+            for words, code in (
+                (ACADEMIC_BUZZWORDS, "ACADEMIC_BUZZWORD"),
+                (NEGATIVE_CONTRAST_MARKERS, "ACADEMIC_NEGATIVE_CONTRAST"),
+                (SELF_REFERENCE_MARKERS, "ACADEMIC_SELF_REFERENCE"),
             ):
                 hits = [word for word in words if word in line]
                 if not hits:
@@ -3203,7 +3209,7 @@ def check_academic_language(path: Path, text: str, data: Optional[Dict[str, Any]
                 else:
                     issues.append(Issue(
                         "WARN", rel(path),
-                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}）：{reminder} 语境：{context} 必须修改表达，或在 scripts/writing_exceptions.json 的本条目路径下添加经审查批准的 ID；未处理会阻断检查。",
+                        f"{location}待审查 [{review_id}]（命中：{'、'.join(hits)}） 语境：{context}",
                         line=offset + index, code=code,
                     ))
     for review_id in valid_reviews - active_ids:
@@ -3666,6 +3672,63 @@ def finish_gate_checks(started, issues: List[Issue]) -> None:
         issues.append(Issue("ERROR", issue_path, f"commit gate check failed ({hint}); output: {tail}", code=code))
 
 
+# Per-file checks are independent, so large batches (--full, --base, big diffs)
+# are split across forked workers. Results keep the serial order exactly.
+PARALLEL_MIN_FILES = 200
+_LINT_SHARED: Tuple[Any, ...] = ()
+
+
+def _lint_one(item, by_title, path_to_title, argument_citations, out: List[Issue], baseline: bool) -> None:
+    if not baseline:
+        lint_file(item, by_title, path_to_title, argument_citations, out)
+        return
+    # Baseline: lint the comparison-ref text of this path; failures are ignored.
+    path, text = item
+    _TEXT_OVERRIDES[path] = text
+    try:
+        lint_file(path, by_title, path_to_title, argument_citations, out)
+    except Exception:
+        pass
+    finally:
+        _TEXT_OVERRIDES.pop(path, None)
+
+
+def _lint_chunk(chunk) -> List[Issue]:
+    by_title, path_to_title, argument_citations, baseline = _LINT_SHARED
+    out: List[Issue] = []
+    for item in chunk:
+        _lint_one(item, by_title, path_to_title, argument_citations, out, baseline)
+    return out
+
+
+def lint_files(items, by_title, path_to_title, argument_citations, baseline: bool = False) -> List[Issue]:
+    global _LINT_SHARED
+    items = list(items)
+    workers = min(os.cpu_count() or 1, 8)
+    if len(items) >= PARALLEL_MIN_FILES and workers > 1 and not os.environ.get("VAULT_LINT_SERIAL"):
+        import multiprocessing
+        try:
+            ctx = multiprocessing.get_context("fork")
+        except ValueError:  # no fork (Windows): stay serial
+            ctx = None
+        if ctx is not None:
+            # Workers inherit the loaded index maps through fork (no pickling).
+            _LINT_SHARED = (by_title, path_to_title, argument_citations, baseline)
+            size = max(10, len(items) // (workers * 6))
+            chunks = [items[i:i + size] for i in range(0, len(items), size)]
+            try:
+                with ctx.Pool(workers) as pool:
+                    return [issue for part in pool.map(_lint_chunk, chunks) for issue in part]
+            except Exception as exc:  # pragma: no cover - fall back to serial
+                print(f"(parallel lint unavailable: {exc}; running serially)", file=sys.stderr)
+            finally:
+                _LINT_SHARED = ()
+    issues: List[Issue] = []
+    for item in items:
+        _lint_one(item, by_title, path_to_title, argument_citations, issues, baseline)
+    return issues
+
+
 # Set by lint_vault(): how many pre-existing warnings were hidden.
 HIDDEN_PREEXISTING_WARNINGS = 0
 
@@ -3726,9 +3789,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
     if not full and not all_warnings:
         baseline = baseline_warning_keys(unique_files, by_title, path_to_title, argument_citations)
 
-    file_issues: List[Issue] = []
-    for p in unique_files:
-        lint_file(p, by_title, path_to_title, argument_citations, file_issues)
+    file_issues = lint_files(unique_files, by_title, path_to_title, argument_citations)
     hidden = 0
     if baseline:
         kept: List[Issue] = []
@@ -3812,6 +3873,8 @@ def main() -> int:
         print(f"Summary: {len(errors)} error(s), {len(warns)} warning(s), {len(infos)} info item(s).")
         if pending_writing:
             print(f"Writing review required: {len(pending_writing)} item(s). 修改表达或在 scripts/writing_exceptions.json 添加经审查批准的 ID 后再运行 lint。")
+            for line in writing_review_legend(i.code for i in pending_writing):
+                print(line)
         if HIDDEN_PREEXISTING_WARNINGS:
             print(f"(Unresolved writing reviews are always listed; {HIDDEN_PREEXISTING_WARNINGS} other baseline warning/info item(s) hidden. Use --all-warnings to show them.)")
 

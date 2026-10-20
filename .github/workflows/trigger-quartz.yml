@@ -14,10 +14,43 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-22.04
+    env:
+      BASE_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
     steps:
+      # Lean checkout: no history, blobs on demand, and the binary-only raw/ and
+      # output/ folders left out. Lint never reads them; it only needs their
+      # file names (embed checks), which the stub step recreates as empty files.
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            /*
+            !/raw/
+            !/output/
+          sparse-checkout-cone-mode: false
+      - name: Fetch comparison base
+        run: |
+          if [ -n "${BASE_SHA//0/}" ]; then
+            git fetch --quiet --no-tags --depth=1 --filter=blob:none origin "$BASE_SHA"
+            # One batched fetch of the base-side blobs lint compares against,
+            # instead of one lazy round-trip per file.
+            git diff --raw --no-abbrev --no-renames -z "$BASE_SHA" HEAD \
+              | tr '\0' '\n' | awk '/^:/ && $3 !~ /^0+$/ {print $3}' | sort -u > "$RUNNER_TEMP/base-blobs"
+            if [ -s "$RUNNER_TEMP/base-blobs" ]; then
+              git fetch --quiet --no-tags --no-write-fetch-head --filter=blob:none origin --stdin < "$RUNNER_TEMP/base-blobs" || true
+            fi
+          fi
+      - name: Stub raw/ and output/ file names
+        run: |
+          python3 - <<'PY'
+          import os, subprocess
+          out = subprocess.run(["git", "ls-tree", "-r", "-z", "--name-only", "HEAD", "--", "raw", "output"],
+                               check=True, capture_output=True).stdout.decode("utf-8")
+          for path in filter(None, out.split("\0")):
+              os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+              open(path, "a").close()
+          PY
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -25,8 +58,6 @@ jobs:
       - name: Install validation dependencies
         run: python -m pip install -r requirements.txt
       - name: Validate vault before publishing
-        env:
-          BASE_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
         run: python -B scripts/vault_lint.py --base "$BASE_SHA"
 
   trigger:
