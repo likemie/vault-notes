@@ -58,6 +58,7 @@ related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 related_persons:
   - "[[Nikolas Rose]]"
 confidence: high

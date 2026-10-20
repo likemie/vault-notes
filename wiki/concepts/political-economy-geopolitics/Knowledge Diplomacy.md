@@ -38,6 +38,7 @@ related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: medium
 status: draft
 created: 2026-06-29
@@ -169,6 +170,8 @@ updated: 2026-10-20
 >   周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）深入对比丝绸之路大学联盟与[[Asian Universities Alliance|亚洲大学联盟]]，提出超越二元割裂，在天下秩序观下阐释知识外交与知识权力的共生与网络中心性机制。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2025 — 微观工程案例实证与政产学四方协同机制**
 >   刘伟（Wei Liu）等学者将简·奈特（Jane Knight）的知识外交五要素框架拓展至高校微观实证，系统呈现中亚油气、东南亚水电与非洲交通基建中校企协同的定向培养模式，确立了知识外交与国家长期经济利益的共生机制。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–195)]]
+> - **2025 — 知识外交与新朝贡视角的范式整合**
+>   朱柯锦与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）结合中柬跨境高等教育实证，主张将强调平等学术自主与跨国知识共享的知识外交，与揭示地缘现实中微观功利互动的新朝贡分析框架以及构想宏观共生秩序的天下启发式深度融合，以破除自上而下行政主导导致的协议虚置困境，全面透视大国跨国高教战略的演进图景。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052, 1054)]]
 
 ---
 
@@ -191,3 +194,4 @@ updated: 2026-10-20
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 批判性解构一带一路跨国高教政策，揭示知识外交的互利共赢修辞与国家硬实力工具化之间的内在张力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 深入比较丝路大学联盟与亚洲大学联盟的制度架构，提炼知识外交与知识权力的共存机制，并引入天下启发式框架。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用知识外交五要素框架实证检验三所中国高校参与一带一路的产学研合作项目，揭示长期经济诉求与多边互惠共赢的微观共生机制。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证检验中柬跨境高等教育拓展，主张将知识外交的学术自主与双向互惠理念引入新朝贡修正模型，弥补国家经贸外交主导下基层校际学术合作虚置的缺陷。
