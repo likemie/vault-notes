@@ -9,6 +9,18 @@
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_King_2020_ECNUROE.md"
     },
     {
+      "basename": "Gaokao",
+      "path": "wiki/facts/china/Gaokao.md"
+    },
+    {
+      "basename": "Purposeful Sampling",
+      "path": "wiki/methods/qualitative/Purposeful Sampling.md"
+    },
+    {
+      "basename": "Argument_Cai_Gao_Liu_2025_HE",
+      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Cai_Gao_Liu_2025_HE.md"
+    },
+    {
       "basename": "Asia-Africa Growth Corridor",
       "path": "wiki/facts/multi/Asia-Africa Growth Corridor.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Effect Size",
       "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Argument_Cai_Gao_Liu_2025_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Cai_Gao_Liu_2025_HE.md"
     },
     {
       "basename": "Argument_Schulze-Cleven_2017_HE",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Huang_2020_APJE",
       "path": "wiki/arguments/journal-articles/Asia Pacific Journal of Education/Argument_Huang_2020_APJE.md"
-    },
-    {
-      "basename": "Gaokao",
-      "path": "wiki/facts/china/Gaokao.md"
-    },
-    {
-      "basename": "Argument_McDonnell_2013_AmJE",
-      "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AmJE.md"
     }
   ],
   "omittedPaths": [],

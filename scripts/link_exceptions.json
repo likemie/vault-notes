@@ -51,6 +51,10 @@
     {
       "sentence": "It is a long-term economic goal, as it is not direct tuition income, but investing in talent development to serve both the Chinese and local economic Growth.*",
       "target": "wiki/concepts/educational-philosophy/Growth.md"
+    },
+    {
+      "sentence": "*Knowledge diplomacy does not mean zero pursuit of self-interest, but requires wisdom to find a common ground of mutual interests and to Achieve a win-win situation for all.*",
+      "target": "wiki/facts/us/Achieve.md"
     }
   ]
 }
