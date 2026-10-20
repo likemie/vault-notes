@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 57
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -85,7 +86,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Documentary Analysis
@@ -234,3 +235,4 @@ updated: 2026-10-19
 > - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在测验生产早期确立全球教育治理权力的多维机制。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党循证决策治理制度对跨国政策借鉴与评估技术硬转移的驱动机制。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理中国教育部与商务部奖学金政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。

@@ -89,6 +89,10 @@
     {
       "sentence": "**单一案例推广局限** 由于调研聚焦柬埔寨单一国别个案，因东南亚各国内部政治制度、对华历史渊源、宗教文化及经济发展水平异质性显著，案例推论无法直接普适于东盟所有成员国。",
       "target": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "sentence": "**微观质性实证缺口** 聚焦中柬两国的定性材料未能涵盖更大尺度的区域跨国高教流动追踪，未来仍需结合更广泛的混合方法实证研究检验多元范式整合模型的解释力。",
+      "target": "wiki/methods/mixed/Mixed Methods Research.md"
     }
   ]
 }

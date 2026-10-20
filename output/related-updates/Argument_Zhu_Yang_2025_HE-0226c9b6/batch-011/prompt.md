@@ -5,7 +5,7 @@
 重构必须充分整合新旧内容，保留已有的有效信息、重要细节和论证深度，避免因结构调整造成信息损失或过度概括。对新旧材料中的差异与矛盾，应先核实其来源、证据及适用条件。确有学术分歧的，保留不同观点并纳入“争议”部分；已经证实的事实性错误则直接纠正。
 无论重构还是补充，都应检查新旧内容的衔接，消除重复论述，保留页码与引用；完成后逐节对照模板检查结构、内容归位及 Callout。
 确认误链时运行 .venv/bin/python3 scripts/wiki_linker.py exclude <所在条目路径> --sentence '<完整可见句子>' --target '<目标路径>' --record-only 登记，普通补链时去除，保留本任务 Argument 快照；仅提及不记例外。只改本批非 Argument 条目正文及必要例外记录。
-按目标顺序只存 {"items":["不变","重构","补充"]} 到指定 result.json。运行下方 accept，由其执行正常增量 vault_index→vault_lint 并登记本批完成，无须重复手动检查；随后停止，失败也停止。无需计划、进度或逐条报告，受阻说明原因。
+按目标顺序将等量状态写入指定 result.json 的 items 数组，每项只能为“不变／重构／补充”之一，不写其他字段。运行下方 accept，由其执行正常增量 vault_index→vault_lint 并登记本批完成，无须重复手动检查；随后停止，失败也停止。无需计划、进度或逐条报告，受阻说明原因。
 
 Argument：wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md
 本批类型：method；统一模板：wiki/templates/template-method.md
