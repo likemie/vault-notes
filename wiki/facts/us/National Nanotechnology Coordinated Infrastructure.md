@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # National Nanotechnology Coordinated Infrastructure
@@ -121,10 +121,13 @@ updated: 2026-10-10
 > - **无缝对接跨部门[[Research Translation|技术转化]]漏斗** 承接 [[National Science Foundation|NSF]] 基础科学探索成果，向国防部[[Microelectronics Commons|微电子共用体]]（DOD Microelectronics Commons）与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）输送高可行性原型。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 48)]]
 
 > [!stat-cards]- 关键规模数据
-> - **16 个** 分布于全美核心科技走廊的国家级微纳制造与表征学术枢纽节点。
-> - **2000+ 台/套** 纳入跨校统一预约与开放共享的尖端微电子与纳米级加工测试工具。
-> - **数千名** 每年通过现场或远程方式使用 NNCI 设施的学术界、初创企业与工业界研究人员。
-> - **100% 开放准入** 基于同行评议与透明分时计费机制面向全美所有合规研究机构平等开放。
+> - **16** （个） 分布于全美核心科技走廊的国家级微纳制造与表征学术枢纽节点。
+> - **2000+** （台 / 套） 纳入跨校统一预约与开放共享的尖端微电子与纳米级加工测试工具。
+>
+> > [!feature] 数千名
+> > 每年通过现场或远程方式使用 NNCI 设施的学术界、初创企业与工业界研究人员。
+>
+> - **100%** （开放准入） 基于同行评议与透明分时计费机制面向全美所有合规研究机构平等开放。
 
 ---
 

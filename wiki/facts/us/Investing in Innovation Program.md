@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Investing in Innovation Program
@@ -148,9 +148,9 @@ updated: 2026-10-16
 > - **评估独立性受挫与准实验妥协** 实证调查表明，由于受资助者掌握评估经费支付权，许多评估团队在面对复杂现场时往往向研发者妥协，放弃难度高的 RCT 而退守 QED。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 > [!stat-cards]- 关键实证数据
-> - **171 项** 累计资助项目总量（包含 11 项规模化、45 项验证、115 项开发项目）。
-> - **97% 名义独立性** 在 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 支持的 65 项 i3 评估中，97% 的项目符合“至少有一项结局指标由外部评估者采集与分析”的名义标准（Boulay et al., 2018）。
-> - **仅 68% 达标率** 在 19 项由 NCEE 重点支持的影响评估中，仅有 13 项（68%）达到 [[What Works Clearinghouse\|WWC]] 最高无保留证据标准，且 WWC 允许的流失率门槛高达 55%。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> - **171** （项） 累计资助项目总量（包含 11 项规模化、45 项验证、115 项开发项目）。
+> - **97%** （义独立性） 在 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 支持的 65 项 i3 评估中，97% 的项目符合“至少有一项结局指标由外部评估者采集与分析”的名义标准（Boulay et al., 2018）。
+> - **68%** （仅 68% 达标率） 在 19 项由 NCEE 重点支持的影响评估中，仅有 13 项（68%）达到 [[What Works Clearinghouse\|WWC]] 最高无保留证据标准，且 WWC 允许的流失率门槛高达 55%。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 
 ---
 

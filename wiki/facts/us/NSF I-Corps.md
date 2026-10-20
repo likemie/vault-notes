@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # NSF I-Corps
@@ -143,10 +143,10 @@ updated: 2026-10-16
 > - **深科技全链条孵化基石** 在国家半导体与量子计算攻关中，I-Corps 与中试流片网关、[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] 创业计划紧密衔接，为前沿材料与芯片架构突破输送源源不断的高质量初创企业。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
 
 > [!stat-cards]- 核心规模与投资成效数据
-> - **14,000+ 名** I-Corps 累计培训的全美高校教授、博士后与青年科研人员总数。
-> - **1,400+ 家** 依托该计划技术直接孵化并成功注册运营的高科技大学衍生初创企业。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
+> - **14,000+** （名） I-Corps 累计培训的全美高校教授、博士后与青年科研人员总数。
+> - **1,400+** （家） 依托该计划技术直接孵化并成功注册运营的高科技大学衍生初创企业。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **$3.16 Billion** I-Corps 毕业初创企业累计撬动的后续外部公共资助与私营风险投资总额。
-> - **100+ 场** 每支入选团队在 7 周高强度训练中必须完成的有效客户访谈最低硬性门槛。
+> - **100+** （场） 每支入选团队在 7 周高强度训练中必须完成的有效客户访谈最低硬性门槛。
 > - **$50,000** [[National Science Foundation|NSF]] 向每支入选团队下拨的专用非稀释性客户发现与差旅实训资助金。
 
 ---

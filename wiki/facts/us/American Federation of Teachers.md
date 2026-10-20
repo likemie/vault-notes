@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # American Federation of Teachers
@@ -117,10 +117,10 @@ updated: 2026-10-16
 > - **赋予改革基层合法性并对冲意识形态攻击** AFT 与全国教育协会（[[National Education Association|NEA]]）两大工会的公开支持，彻底粉碎了部分极右翼势力指责国家标准“严重脱离一线实际”的指控，为标准在 45 个州顺利过关筑牢了教师群体同盟基础。
 
 > [!stat-cards]- 核心规模数据
-> - **170 余万** AFT 全美正式注册会员总数。
-> - **4 轮** AFT 针对 CCSS 数学标准草案开展的闭门专项教师审读总轮次。
-> - **3 轮** 针对 CCSS 英语语言艺术草案开展的教师同行审读轮次。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **2 整日** 数学教师评审小组将标准物理贴墙、密集推敲[[Learning Progression|学习进阶]]可行性的专项工作坊时长。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
+> - **1.7M+** AFT 全美正式注册会员总数。
+> - **4** （轮） AFT 针对 CCSS 数学标准草案开展的闭门专项教师审读总轮次。
+> - **3** （轮） 针对 CCSS 英语语言艺术草案开展的教师同行审读轮次。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **2** （整日） 数学教师评审小组将标准物理贴墙、密集推敲[[Learning Progression|学习进阶]]可行性的专项工作坊时长。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 
 ---
 

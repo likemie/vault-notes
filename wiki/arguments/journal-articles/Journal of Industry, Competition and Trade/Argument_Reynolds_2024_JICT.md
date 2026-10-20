@@ -57,7 +57,7 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"
@@ -282,9 +282,9 @@ journal: "Journal of Industry, Competition and Trade"
 > 3. **产业政策效力受制于国家能力与结构边界** 现代产业战略的落地面临技术工人短缺、行政许可迟缓与国家行政能力赤字的现实制约；且产业政策无法单独解决深层的地缘绝对垄断、碳排放缺口与社会贫富分化问题，必须与系统性制度改革相协同。（pp. 13–15）
 
 > [!stat-cards]- 核心数据
-> - **5000 亿美元** 法案颁布后全美宣布的新增制造业投资总额。（p. 6）
-> - **1.2 万亿美元** 《[[Inflation Reduction Act|通胀削减法案]]》预估实际可拉动的联邦税收激励与投资总规模。（p. 10）
-> - **5 倍** 清洁能源项目满足盛行工资与[[Apprenticeship|学徒制]]要求时的税收抵免增幅倍数。
+> - **\$500B** 法案颁布后全美宣布的新增制造业投资总额。（p. 6）
+> - **\$1.2T** 《[[Inflation Reduction Act|通胀削减法案]]》预估实际可拉动的联邦税收激励与投资总规模。（p. 10）
+> - **5×** 清洁能源项目满足盛行工资与[[Apprenticeship|学徒制]]要求时的税收抵免增幅倍数。
 > - **40%** 正义40倡议设定的流向弱势社区的最低效益占比目标。（p. 11）
 > - **55%** [[Build America, Buy America Act|BABA]] 法案规定的制成品中本土零部件成本占总成本的法定最低比例。（p. 13）
 > - **6%–11%** 《通胀削减法案》预计在既有趋势基础上进一步拉动的美国温室气体减排幅度。（p. 14）

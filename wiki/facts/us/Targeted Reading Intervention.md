@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Targeted Reading Intervention
@@ -117,7 +117,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键实证数据
 > - **+0.52** 两项独立因果试验测得的综合平均阅读效应量（$ES$），获 ESSA Strong 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
-> - **15 分钟** 每日个别辅导用时，充分适应常规班级运转。
+> - **15 min** 每日个别辅导用时，充分适应常规班级运转。
 > - **70%+** 相比传统专家下乡面授节省的师资专业支持差旅与管理成本比例。
 
 ---

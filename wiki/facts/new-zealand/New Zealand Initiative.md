@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # New Zealand Initiative
@@ -133,8 +133,8 @@ updated: 2026-10-17
 > - **公共福利削弱** 协同跨国咨询财团构建合法性修辞，促成国家财政将基础教育重新界定为“部分补贴”的购买方角色。
 
 > [!stat-cards]- 核心规模数据
-> - **50+ 家** 全额资助会员企业数量，涵盖新西兰商业总产值半壁江山。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
-> - **10 所** 国家党执政期间依据其政策理念首批批准试点的特许学校数量。
+> - **50+** （家） 全额资助会员企业数量，涵盖新西兰商业总产值半壁江山。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+> - **10** （所） 国家党执政期间依据其政策理念首批批准试点的特许学校数量。
 
 ---
 

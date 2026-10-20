@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Enhanced Core Reading Instruction
@@ -119,7 +119,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.22** 大规模多校整群试验测得的综合平均阅读效应量（$ES$），获 ESSA Strong 强证据最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **Tier 1 + Tier 2** 双层无缝对齐的多层全校架构。
-> - **5 大** 标准化显性教学日常规程模块。
+> - **5** 标准化显性教学日常规程模块。
 
 ---
 

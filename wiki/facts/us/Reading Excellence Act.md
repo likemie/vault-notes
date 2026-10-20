@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reading Excellence Act
@@ -166,8 +166,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据与法案规模
 > - **105-277** 第 105 届国会公法编号（P.L. 105-277）。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 5)]]
-> - **10 万+** 联合发起抗议并向国会寄送抗议信的教育工作者人数。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
-> - **4 项** 法案确立的核心法定发展目标（K-3 阅读、科研规制、家庭扫盲、防误诊）。
+> - **100K+** 联合发起抗议并向国会寄送抗议信的教育工作者人数。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
+> - **4** （项） 法案确立的核心法定发展目标（K-3 阅读、科研规制、家庭扫盲、防误诊）。
 
 ---
 

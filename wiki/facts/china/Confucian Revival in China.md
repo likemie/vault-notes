@@ -18,7 +18,7 @@ issuing_organization: ''
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-16
+updated: 2026-10-20
 tags:
   - region/china
   - theme/confucianism
@@ -118,8 +118,8 @@ related_arguments:
 > - **对外输出与地缘争端** — [[Confucius\|孔子]]学院在全球拓展的同时，也在部分西方国家引发了关于意识形态渗透与[[Academic Freedom\|学术自由]]的争议[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。
 
 > [!stat-cards]- 核心数据
-> - **1980 年代末** 儒家复兴萌芽。
-> - **217 册** 写入儒家正统叙事的基础教育必修教材[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]]。
+> - **1980s** （1980 年代末） 儒家复兴萌芽。
+> - **217** （册） 写入儒家正统叙事的基础教育必修教材[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]]。
 > - **86%** 的受访少数民族学生将儒家视为多元文化之一而非唯一核心[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]]。
 
 ---

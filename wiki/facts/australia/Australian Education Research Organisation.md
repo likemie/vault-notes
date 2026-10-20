@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Australian Education Research Organisation
@@ -244,9 +244,9 @@ updated: 2026-10-17
 > - **跨国证据垄断生态的本土化固化** 完成了英国 EEF 与美国有效性运动模式在澳大利亚公共教育决策肌理中的结构性装配。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 
 > [!stat-cards]- 核心规模数据
-> - **5000 万澳元** 联邦与各州/领地联合拨付的公共初始启动财政资金。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]])
-> - **18 个月** 企业法人地位赋予的初创期免向公众公布经审计财务报表的法定豁免期。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]])
-> - **17 份档案** ASIC 官方出具的企业注册、董事变更与章程提取报告总数。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]])
+> - **A\$50M** 联邦与各州/领地联合拨付的公共初始启动财政资金。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]])
+> - **18 mo** 企业法人地位赋予的初创期免向公众公布经审计财务报表的法定豁免期。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]])
+> - **17** （档案） ASIC 官方出具的企业注册、董事变更与章程提取报告总数。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]])
 
 ---
 

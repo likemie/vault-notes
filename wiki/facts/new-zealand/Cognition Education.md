@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Cognition Education
@@ -180,10 +180,10 @@ updated: 2026-10-19
 > - **知识标准化推手** 推动 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 覆盖欧美数千所学校，成为[[Global Education Reform Movement|全球教育改革运动]]（GERM）中教师效能标准化评定的重要推手。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 
 > [!stat-cards] 核心规模与财务审计数据
-> - **6,900 万新西兰元** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
-> - **869,453 新西兰元** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
-> - **0.9% 慈善支出占比** 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
-> - **5,000 万美元企业体量** 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
+> - **NZ\$69M** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
+> - **NZ\$869,453** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+> - **0.9%** （慈善支出占比） 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
+> - **\$50M** （企业体量） 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 ---
 

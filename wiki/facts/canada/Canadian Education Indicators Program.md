@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Canadian Education Indicators Program
@@ -118,8 +118,8 @@ updated: 2026-10-16
 > - **省际高均衡性得以确立** CEIP 证实了加拿大在维持高均分的同时，各省间学业差距和校际阶层落差均显著小于其他西方联邦制国家。
 
 > [!stat-cards]- 关键实证数据
-> - **覆盖行政区** 加拿大全部 10 省与 3 地区。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> - **卓越度追踪** 周期性监测 PISA 5–6 级顶尖水平学生比例。
+> - **10 / 3** （覆盖行政区） 加拿大全部 10 省与 3 地区。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **5–6** （卓越度追踪） 周期性监测 PISA 5–6 级顶尖水平学生比例。
 
 ---
 

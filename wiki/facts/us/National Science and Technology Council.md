@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Science and Technology Council
@@ -138,8 +138,8 @@ updated: 2026-10-16
 > - **推动科学契约由分散走向集中** 构成了战后[[Social Contract of Science|科学社会契约]]由部门自主资助向国家目标驱动转型的重要组织依托。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 > [!stat-cards]- 核心规模数据
-> - **1993 年 11 月 23 日** 由比尔·克林顿总统签署第 12881 号行政令正式设立的时间。
-> - **20 余个** NSTC 统辖的全美拥有主要研发预算的联邦部委与独立执行机构数量。
+> - **1993-11-23** 由比尔·克林顿总统签署第 12881 号行政令正式设立的时间。
+> - **20+** （个） NSTC 统辖的全美拥有主要研发预算的联邦部委与独立执行机构数量。
 
 ---
 

@@ -46,7 +46,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # CORE Education
@@ -135,7 +135,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心规模数据
 > - **$22,748,538 NZD** 2015 财务年度核心教育有限公司实现的商业营运总收入。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
-> - **180 人** 2015 年公司全职雇员总数，相比 2010 年的 55 人实现成倍扩张。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
+> - **180** （人） 2015 年公司全职雇员总数，相比 2010 年的 55 人实现成倍扩张。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
 > - **1.3%** 2015 年该集团向基层教育实际发放的慈善资助占其营业总额的微弱比例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
 > - **$222,091 NZD** 2015 年高管团队人均年薪，明显超出新西兰最高等级公立重点高中校长基准薪资（$185,541 NZD）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
 

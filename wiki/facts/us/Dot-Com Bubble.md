@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Dot-Com Bubble
@@ -106,8 +106,8 @@ updated: 2026-10-08
 > - **[[Organizational Culture|组织文化]]遗产的锻造（[[Engineering Mindset|工程思维]]）** 商业投机虽然崩溃，但工程师在对抗海量代码与复杂网络过程中锻造的敏捷[[Engineering Mindset|工程思维]]与组织文化在废墟中留存下来，成为最深远的制度遗产。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 
 > [!stat-cards]- 核心历史数据
-> - **企业数量与融资金额** 泡沫巅峰期[[Emergence|涌现]]约 50,000 家初创公司，吸纳风险资本高达 2560 亿美元。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(McCullough, 2018; Karp & Zamiska, 2025, p. 104)]]
-> - **eToys 兴衰极值** 1999 年 IPO 市值冲上 100 亿美元，2001 年 2 月股价跌至 9 美分后破产清算，跌幅超 99.9%。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103, 108–109)]]
+> - **≈50,000 / \$256B** （企业数量与融资金额） 泡沫巅峰期[[Emergence|涌现]]约 50,000 家初创公司，吸纳风险资本高达 2560 亿美元。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(McCullough, 2018; Karp & Zamiska, 2025, p. 104)]]
+> - **\$10B / 9¢ / >99.9%** （eToys 兴衰极值） 1999 年 IPO 市值冲上 100 亿美元，2001 年 2 月股价跌至 9 美分后破产清算，跌幅超 99.9%。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103, 108–109)]]
 
 ---
 

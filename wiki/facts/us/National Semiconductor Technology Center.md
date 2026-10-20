@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Semiconductor Technology Center
@@ -148,11 +148,11 @@ updated: 2026-10-16
 > 3. **建立多维绩效评价标准** 引入管理和预算办公室（OMB）标准的形成性、过程性与结果影响独立第三方评估，确保公共纳税人[[Return on Investment|投资回报]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 23)]]
 
 > [!stat-cards]- 核心规模数据
-> - **110 亿美元** 《[[CHIPS and Science Act|芯片法案]]》配置的先进半导体直接研发资金总额（含 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]与计量项目）。
-> - **50% 以上** NSTC 规划将创新设计从概念向商业化放大的时间与成本缩减幅度。
-> - **3–5 年** 预期将前沿半导体技术从实验室导入商业晶圆代工厂量产的时间压缩周期。
-> - **300 毫米** NSTC 共享中试设施所采用的先进晶圆与[[Heterogeneous Integration|异构集成]]工业级基线标准。
-> - **6 大** 核心业务板块（中试与先进封装线、NAPMP 协同、技术中心、设计网关 DEG、劳动力卓越中心 WCoE、创业投资基金）。
+> - **\$11B** 《[[CHIPS and Science Act|芯片法案]]》配置的先进半导体直接研发资金总额（含 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]与计量项目）。
+> - **≥50%** NSTC 规划将创新设计从概念向商业化放大的时间与成本缩减幅度。
+> - **3–5 yr** 预期将前沿半导体技术从实验室导入商业晶圆代工厂量产的时间压缩周期。
+> - **300 mm** NSTC 共享中试设施所采用的先进晶圆与[[Heterogeneous Integration|异构集成]]工业级基线标准。
+> - **6** 核心业务板块（中试与先进封装线、NAPMP 协同、技术中心、设计网关 DEG、劳动力卓越中心 WCoE、创业投资基金）。
 
 ---
 

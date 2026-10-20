@@ -104,7 +104,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # CHIPS and Science Act
@@ -234,16 +234,16 @@ updated: 2026-10-16
 > - **重塑大学基础研究引领与三级人才梯队** 法案强力驱动[[Research Universities|研究型大学]]将教育工具转化为 RISC-V 等开源工业标准，建立微证书、工程本科与跨学科拔尖博士三级培养梯队，并依托 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校协同网络与 [[Albany NanoTech Complex|Albany NanoTech]] 300 毫米晶圆中试线攻克 [[Technology Readiness Level|TRL]] 4–6 转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
 
 > [!stat-cards]- 核心数据
-> - **2800 亿美元** 《芯片与科学法案》授权的新增科技支出总额（含 [[National Science Foundation|NSF]] 五年 810 亿及能源部科学办公室 305 亿）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
-> - **527 亿美元** 联邦直接预算总额（390 亿制造补贴 + 110 亿研发中枢与设施 + 20 亿国防 + 5 亿 ITSI）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
-> - **30 亿美元** 《芯片法案》专门拨付用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 26)]]
-> - **20 亿美元** 国防部[[Microelectronics Commons|微电子共用体]]建立 8 个区域中试枢纽的专项拨款。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
-> - **6.7 万名与 140 万** 预计至 2030 年美国半导体产业面临的专业技术岗位缺口，以及全美面临的高技能技术工人宏观短缺总数。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
-> - **28 项与 650 亿美元** 2022 年 8 月至 2024 年 2 月全美因法案激励宣布的制造投资项目数；台积电在亚利桑那州凤凰城晶圆厂扩建后的总投资承诺（获美联邦 66 亿美元补助与至多 50 亿美元贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
-> - **14 所顶尖大学** [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 在 JUMP 2.0 框架下由宾夕法尼亚州立大学牵头共建[[Heterogeneous Integration|异构集成]]中心的高校网络规模。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+> - **\$280B** 《芯片与科学法案》授权的新增科技支出总额（含 [[National Science Foundation|NSF]] 五年 810 亿及能源部科学办公室 305 亿）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> - **\$52.7B** 联邦直接预算总额（390 亿制造补贴 + 110 亿研发中枢与设施 + 20 亿国防 + 5 亿 ITSI）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
+> - **\$3B** 《芯片法案》专门拨付用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 26)]]
+> - **\$2B** 国防部[[Microelectronics Commons|微电子共用体]]建立 8 个区域中试枢纽的专项拨款。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
+> - **67K / 1.4M** （名） 预计至 2030 年美国半导体产业面临的专业技术岗位缺口，以及全美面临的高技能技术工人宏观短缺总数。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
+> - **28 / \$65B** （项） 2022 年 8 月至 2024 年 2 月全美因法案激励宣布的制造投资项目数；台积电在亚利桑那州凤凰城晶圆厂扩建后的总投资承诺（获美联邦 66 亿美元补助与至多 50 亿美元贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
+> - **14** （顶尖大学） [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 在 JUMP 2.0 框架下由宾夕法尼亚州立大学牵头共建[[Heterogeneous Integration|异构集成]]中心的高校网络规模。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **25%** 先进半导体制造设施投资税收抵免（ITC）比例。
-> - **5% 上限** 受资助企业 10 年内在中国扩产先进制程（$\le 28\text{nm}$）的严格上限。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
-> - **亚利桑那与纽约州** 吸收法案宣布制造投资额与创造就业岗位最多的前两大受益州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
+> - **5%** （上限） 受资助企业 10 年内在中国扩产先进制程（$\le 28\text{nm}$）的严格上限。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
+> - **2** （亚利桑那与纽约州） 吸收法案宣布制造投资额与创造就业岗位最多的前两大受益州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
 > - **1 / 28** 历史同类立法中最终拿到全额拨款并落实的新项目比例。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 > - **30%–50%** 美国本土建设和运营晶圆厂相比东亚（台湾/韩国）高出的额外成本溢价。
 

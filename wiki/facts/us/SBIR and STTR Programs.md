@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # SBIR and STTR Programs
@@ -150,7 +150,7 @@ updated: 2026-10-16
 > - **3.2%** 11 个联邦主要研发部门依法必须从外包研发总预算中划拨给 SBIR 的法定提取比例（初始法案为 1.25%）。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 37)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 177)]]
 > - **0.45%** 5 个大型联邦研发机构依法必须从外包研发总预算中划拨给 STTR 的法定提取比例。
 > - **20%–25% vs 2.3%–8%** 联邦各部门计划在全美早期技术开发（ESTD）总支出中所占的真实资金份额（20%–25%），远超私人风险投资的实际出资占比（2.3%–8%）。[[Argument_Block_2008_PS|(Block, 2008, p. 187)]]
-> - **> 40 亿美元** 联邦政府每年通过 SBIR/STTR 体系向中小科技企业拨付的非稀释性研发资金规模。
+> - **>\$4B** 联邦政府每年通过 SBIR/STTR 体系向中小科技企业拨付的非稀释性研发资金规模。
 > - **10% $\to$ 29%** 美国空军 AFVentures 依托 SBIR/STTR 私人资本匹配机制后，项目获奖企业后续获得风险投资比例的显著跃升。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
 > - **11** 参与 SBIR 计划的联邦部门总数（涵盖国防部、HHS/[[National Institutes of Health|NIH]]、能源部、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]]、农业部等）。
 

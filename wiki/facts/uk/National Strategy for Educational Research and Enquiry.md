@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Strategy for Educational Research and Enquiry
@@ -150,9 +150,9 @@ updated: 2026-10-16
 > - **重塑教师专业主体身份** 明确将教师定位为“循证专业人员”与“探究生产者”，改变了单纯把教师视作学术研究单向被动消费者的[[Technical Rationality\|技术理性]]偏差，激发了一线教师的内生研究动力。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
 > [!stat-cards]- 跨国调查核心参照数据
-> - **22% 全系统战略覆盖率** 在 OECD 调查中，仅有 22% 的教育系统拥有促进公共政策利用研究的宏观系统战略，实践端同样仅有 22%；NSERE 属于极少数制度化统筹[[Paradigm\|范式]]。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
-> - **28% 零统筹空白状态** 高达 28% 的教育系统报告在科研生产与利用之间完全没有任何系统统筹安排，依赖完全分散的学术自主探索。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
-> - **3 至 18 岁全学段贯通** 战略明确涵盖 3 至 18 岁早期儿童、小学与中学基础教育全过程，并向下衔接早期照护、向上衔接高等教育科学研究。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
+> - **22%** （全系统战略覆盖率） 在 OECD 调查中，仅有 22% 的教育系统拥有促进公共政策利用研究的宏观系统战略，实践端同样仅有 22%；NSERE 属于极少数制度化统筹[[Paradigm\|范式]]。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
+> - **28%** （零统筹空白状态） 高达 28% 的教育系统报告在科研生产与利用之间完全没有任何系统统筹安排，依赖完全分散的学术自主探索。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
+> - **3–18** （3 至 18 岁全学段贯通） 战略明确涵盖 3 至 18 岁早期儿童、小学与中学基础教育全过程，并向下衔接早期照护、向上衔接高等教育科学研究。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
 ---
 

@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Sematech
@@ -182,7 +182,7 @@ updated: 2026-10-16
 > 8. **为国家级半导体技术中枢提供制度原型与演进参照** 2022 年美国《[[CHIPS and Science Act|芯片法案]]》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），在架构设计与[[Pilot Scale Platform|中试平台]]建设上直接继承了 Sematech 的公私协同与共享测试线机制。对比 [[Argument_NIST_2023_NSTC|NIST（2023）]]的比较制度分析，Sematech 本质上是由 14 家芯片龙头企业主导的[[Membership-based Research Consortium|会员制研发联合体]]，侧重于现有制造装备的工艺参数改良；而 21 世纪的 NSTC 则演进为全域覆盖的法定国家产业公共品，依托中立非营利实体（[[Natcast]]）受托运营，将高校、初创企业与全谱系劳动力纳入开放准入体系，并强制推行非独占知识产权许可，超越了传统企业联盟的排他性治理。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–23)]]
 
 > [!stat-cards]- 核心规模数据
-> - **\$200m/年** 联盟初期年度研发预算（[[DARPA]] 与企业各对等出资 1 亿美元）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 729)]]
+> - **\$200M/yr** 联盟初期年度研发预算（[[DARPA]] 与企业各对等出资 1 亿美元）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 729)]]
 > - **50%** 研发预算投向半导体制造装备与材料（SME）供应商的比例。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 733)]]
 > - **130+** 纳入 SEMI/SEMATECH 合作机制的中小设备与材料供应商数量（家）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 734)]]
 > - **51% vs 41%** 1992 年美日两国半导体制造设备供应商在全球市场的最终份额对比。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 741)]]

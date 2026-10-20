@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Australian Schools Plus
@@ -128,9 +128,9 @@ updated: 2026-10-17
 > - **公立学校治理行为重构** 推动公立学校管理层采纳商业赞助提案与项目制绩效考核，使市场化筹款技能演变为弱势学校校长维系办学资源的核心非正式能力。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527, 532]])
 
 > [!stat-cards]- 核心规模数据
-> - **500 万澳元** 联邦政府无偿拨付的公共初始启动财政资金。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]])
+> - **A\$5M** 联邦政府无偿拨付的公共初始启动财政资金。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]])
 > - **DGR1** 联邦议会专门修法赋予的全国第一类可抵税捐赠受赠人法定豁免资质代码。
-> - **1000+ 所** 纳入其竞争性赠款与众筹网络覆盖的澳大利亚公立中小学校总数。
+> - **1000+** （所） 纳入其竞争性赠款与众筹网络覆盖的澳大利亚公立中小学校总数。
 > - **2013–2016** 与 [[Social Ventures Australia\|SVA]] 共享注册办公地址与企业管理系统的无缝共生期。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]])
 
 ---

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # A Nation at Risk 1983
@@ -160,11 +160,11 @@ updated: 2026-10-16
 > - **危机治理范式常规化** 开创了“国际测评发布 → 危机叙事动员 → [[Policy Borrowing\|政策借用]]合法化”的治数而治循环机制，使危机情境从偶然例外演变为主权国家与国际组织的常规治理技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!stat-cards]- 核心历史数据
-> - **45 个州** 报告发布后五年内，全美有 45 个州立法提高了公立高中核心学术课程毕业门槛。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, p. 138)]]
-> - **17 年下滑** 报告披露 SAT 口语与数学平均分自 1963 年至 1980 年遭遇连续 17 年净下滑，被用作指控公立教育平庸的关键数据铁证。
-> - **18 位委员** [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 委员会由 18 位跨界代表组成，历时 18 个月全美调研并出具 36 页极具修辞威慑力的微型报告。
-> - **1987 专设发布** 美国教育部基于该报告对日本模式的强烈参照，于 1987 年正式出版专著《今日日本教育》（*Japanese Education Today*）。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 235)]]
-> - **30+ 成员国** INES 项目自 1988 年在 OECD 成立后迅速覆盖全部 30 余个发达经济体，演变为《[[Education at a Glance\|教育概览]]》与 PISA 帝国。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 10)]]
+> - **45** （州） 报告发布后五年内，全美有 45 个州立法提高了公立高中核心学术课程毕业门槛。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, p. 138)]]
+> - **17 yr** （下滑） 报告披露 SAT 口语与数学平均分自 1963 年至 1980 年遭遇连续 17 年净下滑，被用作指控公立教育平庸的关键数据铁证。
+> - **18** （委员） [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 委员会由 18 位跨界代表组成，历时 18 个月全美调研并出具 36 页极具修辞威慑力的微型报告。
+> - **1987** （专设发布） 美国教育部基于该报告对日本模式的强烈参照，于 1987 年正式出版专著《今日日本教育》（*Japanese Education Today*）。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 235)]]
+> - **30+** （成员国） INES 项目自 1988 年在 OECD 成立后迅速覆盖全部 30 余个发达经济体，演变为《[[Education at a Glance\|教育概览]]》与 PISA 帝国。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 10)]]
 
 ---
 

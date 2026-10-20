@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Teaching Schools
@@ -116,9 +116,9 @@ updated: 2026-10-16
 > - **[[Policy Network\|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview\|精英访谈]]揭示，教学[[School Leadership\|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 93–94]]）。
 
 > [!stat-cards]- 核心数据
-> - **692 所** 至 2015 年 10 月已指定的教学学校数量（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
-> - **7,144 所 / 32%** 至 2014 年 10 月至少与其建立联系的学校数量与占英格兰全部学校的比例。
-> - **87 所** 2021 年全国重组后设立的区域教学学校枢纽（TSH）总数。
+> - **692** （所） 至 2015 年 10 月已指定的教学学校数量（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
+> - **7,144 / 32%** （所） 至 2014 年 10 月至少与其建立联系的学校数量与占英格兰全部学校的比例。
+> - **87** （所） 2021 年全国重组后设立的区域教学学校枢纽（TSH）总数。
 
 ---
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # COACTIV
@@ -132,7 +132,7 @@ updated: 2026-10-17
 
 > [!stat-cards]- 关键实证数据
 > - **180+ / 4,000+** 深度参与纵向配对追踪的德国中学数学教师与施教学生全样本规模。
-> - **显著正向解释力** 教师 PCK 独立解释了班级间数学学业成长变异的显著份额，远超传统学历与教龄指标。
+
 
 ---
 

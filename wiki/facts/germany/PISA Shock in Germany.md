@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # PISA Shock in Germany
@@ -133,8 +133,8 @@ updated: 2026-10-16
 > - **基层评估过载挑战** 密集的多层级测试（[[Vergleichsarbeiten|VERA]]、[[Institute for Educational Quality Improvement|IQB]] 趋势测验）引发学校基层的评估疲劳与形式主义应对。
 
 > [!stat-cards]- 核心历史数据
-> - **联邦投资规模** 联邦政府注入 40 亿欧元专项资金用于全日制学校建设。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]
-> - **行动领域** [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 确立 7 大国家优先改革领域。
+> - **€4B** （联邦投资规模） 联邦政府注入 40 亿欧元专项资金用于全日制学校建设。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]
+> - **7** （行动领域） [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 确立 7 大国家优先改革领域。
 
 ---
 

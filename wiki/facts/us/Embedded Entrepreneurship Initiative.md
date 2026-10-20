@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # Embedded Entrepreneurship Initiative
@@ -115,9 +115,12 @@ updated: 2026-10-10
 > - **加速国防关键芯片技术的商业自造血能力** 成功推动多款原本仅局限于军工特种雷达的原型芯片，快速开辟了商用自动驾驶车载激光雷达与数据中心光互连等百亿级民用市场。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
 
 > [!stat-cards]- 关键实证数据
-> - **> 100 个** 累计获得 DARPA 嵌入式商业化深度加速资助的前沿高科技研发课题团队总数。
-> - **数亿美元** 获得 EEI 资助的硬科技初创企业累计撬动的后续私营风险投资与产业合同总额。
-> - **In-Q-Tel 联动** 情报界核心风险投资机构为计划常态化提供全美顶级导师网络与资本渠道支持。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
+> - **>100** （个） 累计获得 DARPA 嵌入式商业化深度加速资助的前沿高科技研发课题团队总数。
+>
+> > [!feature] 数亿美元
+> > 获得 EEI 资助的硬科技初创企业累计撬动的后续私营风险投资与产业合同总额。
+>
+
 
 ---
 

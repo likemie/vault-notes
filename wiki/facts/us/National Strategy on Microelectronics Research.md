@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Strategy on Microelectronics Research
@@ -173,9 +173,9 @@ updated: 2026-10-16
 > [!stat-cards]- 核心数据指标
 > - **37% $\to$ 12%** 1990 年至 2020 年间美国本土芯片制造份额下滑幅度。（p. 1）
 > - **< 2%–3%** 美国本土在全球先进封装与组装测试中所占份额。（p. 2）
-> - **40 余年** 极紫外光刻（EUV）从基础探索走向商业量产历经的中试研发周期。（p. 38）
+> - **40+ yr** 极紫外光刻（EUV）从基础探索走向商业量产历经的中试研发周期。（p. 38）
 > - **10% $\to$ 29%** 空军 [[AFVentures]] 风险匹配使初创企业后续获得风险投资的比例跃升幅度。（pp. 46–47）
-> - **600 余家** NISE Network 覆盖的全美科技馆与科普教育基地数量。（p. 35）
+> - **600+** （家） NISE Network 覆盖的全美科技馆与科普教育基地数量。（p. 35）
 
 ---
 

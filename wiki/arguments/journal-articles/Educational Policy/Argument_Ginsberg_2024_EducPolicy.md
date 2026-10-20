@@ -78,7 +78,7 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
@@ -335,7 +335,7 @@ issuing_organization: ""
 > 4. **教育科研供给存在严重的学段与实践断层** 样本学校采购的实践中有多达 26 项在适用学段毫无实证研究，大量细分教学形态（如特定形式的在岗辅导与外购软件）处于实证研究空白区。（p. 177）
 
 > [!stat-cards]- 核心数据
-> - **2.88 亿** 美元，SUD 学区三年间纳入分析的 Title I 支出总额。（p. 168）
+> - **288M** 美元，SUD 学区三年间纳入分析的 Title I 支出总额。（p. 168）
 > - **95%–99%** 符合 ESSA Tier I–III 单项合格研究标准的资金比例范围。（p. 174）
 > - **49%–58%** 获得全量证据综合评价下积极或多半积极支持的资金比例范围。（p. 175）
 > - **20%** 采用学区全校项目统一划定且以最低证据等级进行敏感度测试时的保守积极资金比例。（p. 176）

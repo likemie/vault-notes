@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Institutional Management in Higher Education
@@ -136,9 +136,9 @@ updated: 2026-10-19
 > - **成为跨国高等教育治理[[Discourse|话语]]的重要策源地** IMHE 的长期运作成功将战略管理、服务社会、表现责任与质量保障等概念深度植入全球高校管理层的日常话语体系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 447)]]
 
 > [!stat-cards]- 关键规模数据
-> - **40 余年** IMHE 作为[[OECD|经合组织]]专门高等教育计划跨越半个世纪的持续运作跨度。
-> - **40+ 个** 深度参与该计划调研与会员网络的经合组织成员国与伙伴经济体总数。
-> - **4 大支柱** 与教育委员会、[[Centre for Educational Research and Innovation|CERI]] 以及 [[Programme on Educational Building|PEB]] 共同构成战后经合组织教育体系的四大组织基石。
+> - **40+ yr** IMHE 作为[[OECD|经合组织]]专门高等教育计划跨越半个世纪的持续运作跨度。
+> - **40+** （个） 深度参与该计划调研与会员网络的经合组织成员国与伙伴经济体总数。
+> - **4** （支柱） 与教育委员会、[[Centre for Educational Research and Innovation|CERI]] 以及 [[Programme on Educational Building|PEB]] 共同构成战后经合组织教育体系的四大组织基石。
 
 ---
 

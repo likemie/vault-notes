@@ -137,7 +137,7 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
@@ -439,9 +439,9 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **33.3%** 截至 2023 年，在参与全球教育事务的 30 个政府间组织中，原本旨在协调国际经济合作的经济组织占比达到三分之一。（p.544）
-> - **1,600 项** 世界银行[[Performance Indicators\|教育指标]]库规模从 1989 年 4 月的 116 项激增至 2018 年 10 月的 1,600 项。（p.542）
-> - **1,120 项** Psacharopoulos 与 Patrinos（2018）在 60 年教育回报率回顾中调用的世界银行数据库涵盖了 139 个国家的 1,120 项回报率估算。（p.548）
-> - **464 篇 vs 22 篇** 挪威教育部 5 个能力改革专家委员会报告列出 464 篇参考文献，而官方行政法令最终仅引用 22 篇，且其中 20 篇全部来自审查经合组织 [[Definition and Selection of Competencies\|DeSeCo]] 项目的同一委员会。（pp.547–548）
+> - **1,600** （项） 世界银行[[Performance Indicators\|教育指标]]库规模从 1989 年 4 月的 116 项激增至 2018 年 10 月的 1,600 项。（p.542）
+> - **1,120** （项） Psacharopoulos 与 Patrinos（2018）在 60 年教育回报率回顾中调用的世界银行数据库涵盖了 139 个国家的 1,120 项回报率估算。（p.548）
+> - **464 / 22** （篇 / 篇） 挪威教育部 5 个能力改革专家委员会报告列出 464 篇参考文献，而官方行政法令最终仅引用 22 篇，且其中 20 篇全部来自审查经合组织 [[Definition and Selection of Competencies\|DeSeCo]] 项目的同一委员会。（pp.547–548）
 
 ---
 

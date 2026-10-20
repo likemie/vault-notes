@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Advanced Packaging Manufacturing Program
@@ -141,9 +141,9 @@ updated: 2026-10-16
 > - **形成跨部门[[Research Translation|技术转化]]接力** 承接国防部 [[Microelectronics Commons]] 与 [[National Science Foundation|NSF]] 用户设施的军事与商用原型，并导入本土 300 毫米规模化制造。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 > [!stat-cards]- 关键规模数据
-> - **30 亿美元** 《[[CHIPS and Science Act|芯片与科学法案]]》专属于先进微电子封装研发与设施建设的法定直接拨款。
-> - **50% 以上** 规划将先进封装原型设计向工业级验证转化的周期与研发成本削减幅度。
-> - **TRL 3–4 到 TRL 7–8** NAPMP 重点弥合的先进封装技术就绪度跃升区间。
+> - **\$3B** 《[[CHIPS and Science Act|芯片与科学法案]]》专属于先进微电子封装研发与设施建设的法定直接拨款。
+> - **≥50%** （50% 以上） 规划将先进封装原型设计向工业级验证转化的周期与研发成本削减幅度。
+> - **TRL 3–4 → TRL 7–8** （TRL 3–4 到 TRL 7–8） NAPMP 重点弥合的先进封装技术就绪度跃升区间。
 > - **3%** 法案出台前美国本土在全球先进封装制造市场中的极低占比基线。
 
 ---

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Swedish ULF Project
@@ -132,9 +132,9 @@ updated: 2026-10-15
 > - **识别发展性漂移风险** 评估警示，随着项目推进，若缺乏严格的学术方法把关，实践伙伴关系极易出现偏重表面组织活动而忽视科学证据效力的发展性漂移（Developmental [[Institutional Drift|drift]]）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
 
 > [!stat-cards]- 关键规模数据
-> - **25 所** 瑞典参与 ULF 合作协议的教师教育高等院校总数。
-> - **150+ 个** 签约参与伙伴关系的地方市镇自治体学区数量。
-> - **5 年** 瑞典政府首期国家级委托试点的系统运行周期。
+> - **25** （所） 瑞典参与 ULF 合作协议的教师教育高等院校总数。
+> - **150+** （个） 签约参与伙伴关系的地方市镇自治体学区数量。
+> - **5 yr** 瑞典政府首期国家级委托试点的系统运行周期。
 
 ---
 

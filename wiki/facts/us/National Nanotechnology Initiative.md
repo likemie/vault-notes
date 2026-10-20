@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # National Nanotechnology Initiative
@@ -119,9 +119,9 @@ updated: 2026-10-10
 > - **超高科研产出与小微创新溢出** 仅 [[National Nanotechnology Coordinated Infrastructure|NNCI]] 单一网络每年即稳定服务超过 **13,000 名** 学术与企业独立用户，直接催化了数百家深科技初创企业的概念验证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 > [!stat-cards]- 关键实证数据
-> - **16 个** [[National Science Foundation|NSF]] NNCI 在全美重点布局的区域级微纳加工与表征大学枢纽总数。
-> - **2,000+ 台** NNCI 设施网络中面向全美科研人员常态化开放的先进微纳加工与计量检测机台总数。
-> - **13,000+ 名** 每年直接进入 NNCI 用户网络洁净室开展微纳技术与芯片实验的独立研究人员规模。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
+> - **16** （个） [[National Science Foundation|NSF]] NNCI 在全美重点布局的区域级微纳加工与表征大学枢纽总数。
+> - **2,000+** （台） NNCI 设施网络中面向全美科研人员常态化开放的先进微纳加工与计量检测机台总数。
+> - **13,000+** （名） 每年直接进入 NNCI 用户网络洁净室开展微纳技术与芯片实验的独立研究人员规模。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
 

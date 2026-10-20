@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bell Labs
@@ -176,11 +176,11 @@ updated: 2026-10-16
 > - **催生新型科研组织（[[Focused Research Organization|FRO]]）与公共资助机制创新** 贝尔实验室衰落后留下的中等规模工程科学缺口，直接启发了[[Focused Research Organization|聚焦研究组织]]（FRO）的创立以及[[National Science Foundation|美国国家科学基金会]]技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会对 X 实验室的探索，旨在以全职工程师团队与明确技术里程碑再现跨学科大攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 
 > [!stat-cards]- 核心规模数据
-> - **9 项** 贝尔实验室科学家累计斩获的诺贝尔物理学奖总数（涵盖 16 位获奖学者）。
+> - **9** （项） 贝尔实验室科学家累计斩获的诺贝尔物理学奖总数（涵盖 16 位获奖学者）。
 > - **25%** 1950 年代末美国国防部与原子能委员会资助全美半导体产业研发经费的占比，西电/贝尔实验室是主要受资助方之一。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
-> - **15 家** 1952–1967 年间由贝尔实验室离职科学家直接创办的独立半导体先锋企业总数。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 18)]]
+> - **15** （家） 1952–1967 年间由贝尔实验室离职科学家直接创办的独立半导体先锋企业总数。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 18)]]
 > - **33,000+** 实验室累计注册有效专利总量。
-> - **301 位** 1951 年晶体管研讨会参会代表总数（139 名产业界代表、121 名军方人员及 41 名大学科学家）。
+> - **301** （位） 1951 年晶体管研讨会参会代表总数（139 名产业界代表、121 名军方人员及 41 名大学科学家）。
 > - **$25,000** 1951 年晶体管制造诀窍转让费（可抵扣未来专利许可版税）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 162)]]
 
 ---

@@ -81,7 +81,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch04
 
@@ -438,9 +438,9 @@ updated: 2026-10-16
 > - **53%** 超过半数英国公众对以盈利为目的的私人资助研发持中立态度（CaSE, 2025, p. 70）。
 > - **33%** 仅三分之一公众认同前沿人工智能带来的社会利益大于潜在弊端（PAS 2025, p. 73）。
 > - **10%** 英国中央政府采购重大商业合同评审中《社会价值模型》强制最低权重（PPN 002/2025, p. 69）。
-> - **16 亿英镑** [[Association of Medical Research Charities\|英国医学研究慈善联合会]]（[[Advanced Manufacturing Research Centre\|AMRC]]）148 家成员机构年均非商业医学研发总投资（AMRC, 2025, p. 74）。
-> - **2.5 万名** 英国医学研究慈善联合会稳定资助的大学与医院临床科研学者队伍规模。
-> - **500 万** 英国国民信托支撑大规模公民科学（[[Big Butterfly Count\|大蝴蝶计数]]等）的付费大众会员基数（p. 75）。
+> - **£1.6B** [[Association of Medical Research Charities\|英国医学研究慈善联合会]]（[[Advanced Manufacturing Research Centre\|AMRC]]）148 家成员机构年均非商业医学研发总投资（AMRC, 2025, p. 74）。
+> - **25K** （名） 英国医学研究慈善联合会稳定资助的大学与医院临床科研学者队伍规模。
+> - **5M** 英国国民信托支撑大规模公民科学（[[Big Butterfly Count\|大蝴蝶计数]]等）的付费大众会员基数（p. 75）。
 
 ---
 

@@ -96,7 +96,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cartiff_2021_JEP"
@@ -514,7 +514,7 @@ journal: "Journal of Educational Psychology"
 > [!stat-cards]- 核心数据
 > - **$d = 0.509$** 认识论认知干预对学业成就的随机效应模型总体加权[[Effect Size\|效应量]]（$p < .001$）。（p. 485）
 > - **$d = 0.342$** [[Trim and Fill Method\|剪补法]]虚拟填补 6 项缺失研究后的保守校正效应量（$p < .001$）。
-> - **$d = 0.808 \text{ 与 } 0.800$** 指导式探究与信源评估教学模式录得的高效应量。（p. 486）
+> - **$d = 0.808 / 0.800$** 指导式探究与信源评估教学模式录得的高效应量。（p. 486）
 > - **$d = 1.047$** [[Epistemology\|认识论]]干预对高阶论证表现测试带来的因果提升幅度。（p. 488）
 > - **$d = 0.966$** 延时测试所捕捉到的后劲反弹效应量（即时测试为 $d = 0.451$）。（p. 490）
 > - **$d = 0.606 \text{ vs } 0.309$** K-12 中小学生与大学本科群体之间两倍的因果效应差距。（p. 491）

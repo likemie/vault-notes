@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # ARPANET
@@ -127,9 +127,9 @@ updated: 2026-10-16
 > - **印证[[Technological Republic|技术共和国]]的使命驱动[[Paradigm|范式]]** ARPANET 的诞生无可辩驳地证明，颠覆性[[General Purpose Technology|通用目的技术]]（GPT）的底层源头往往扎根于国家重大安全使命与公共先导投资，而非短期商业消费市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 2, 7)]]
 
 > [!stat-cards]- 关键实证数据
-> - **1968 年 12 月** DARPA 向初创工程企业 BBN 正式签发接口信息处理机研制合同。
-> - **> 100 个节点** 截至 1975 年已接入阿帕网的全美顶尖大学与科研机构节点总数。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 39)]]
-> - **3,416 倍** 依托阿帕网奠定的全美开放互联网基础设施，1993 年 Mosaic 浏览器问世后首年超文本传输协议（HTTP）流量激增倍数。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 41)]]
+> - **1968-12** DARPA 向初创工程企业 BBN 正式签发接口信息处理机研制合同。
+> - **>100** （节点） 截至 1975 年已接入阿帕网的全美顶尖大学与科研机构节点总数。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 39)]]
+> - **3,416×** 依托阿帕网奠定的全美开放互联网基础设施，1993 年 Mosaic 浏览器问世后首年超文本传输协议（HTTP）流量激增倍数。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 41)]]
 
 ---
 

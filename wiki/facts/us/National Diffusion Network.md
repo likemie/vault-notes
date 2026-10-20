@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Diffusion Network
@@ -110,7 +110,10 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键规模数据
 > - **500+** NDN 累计审核并纳入国家有效性扩散目录的具体教育教学方案与课程模型总数。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 6)]]
-> - **数万所（Tens of thousands）** 全美 50 州累计通过 NDN 州促进员机制采纳并实施外部创新方案的公立中小学校总规模。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 7)]]
+>
+> > [!feature] 数万所（Tens of thousands）
+> > 全美 50 州累计通过 NDN 州促进员机制采纳并实施外部创新方案的公立中小学校总规模。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 7)]]
+>
 
 ---
 

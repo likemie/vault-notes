@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Taiwan Semiconductor Manufacturing Corporation
@@ -141,11 +141,11 @@ updated: 2026-10-16
 > 4. **与上游设备垄断巨头构建跨国共生依附** 台积电虽然垄断了全球 92% 的先进代工制造，但其尖端产线完全依赖荷兰阿斯麦尔（ASML）极紫外光刻设备的独家供应，构成了“上游设备单向垄断 vs. 中游制造单向代工”的深层相互依赖网络。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 
 > [!stat-cards]- 核心规模数据
-> - **1987 年** 台积电成立年份。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 88)]]
+> - **1987** 台积电成立年份。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 88)]]
 > - **50%+** 台积电在全球晶圆代工总收入中的市场占有率。
 > - **92%** 台积电在全球先进半导体制造产能中所占垄断比例，但尖端生产高度依赖荷兰 ASML 的设备。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
-> - **650 亿美元** 台积电在亚利桑那州凤凰城规划建设 3 座晶圆厂的计划投资总额（获得美联邦政府 66 亿美元直接资助与至多 50 亿美元低息贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
-> - **100 亿欧元** 台积电在德国德累斯顿牵头组建合资晶圆厂 ESMC 的投资规模（获德国政府约 50 亿欧元国家援助支持）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
+> - **\$65B** 台积电在亚利桑那州凤凰城规划建设 3 座晶圆厂的计划投资总额（获得美联邦政府 66 亿美元直接资助与至多 50 亿美元低息贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
+> - **€10B** 台积电在德国德累斯顿牵头组建合资晶圆厂 ESMC 的投资规模（获德国政府约 50 亿欧元国家援助支持）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
 
 ---
 

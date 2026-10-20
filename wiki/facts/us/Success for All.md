@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Success for All
@@ -174,7 +174,7 @@ updated: 2026-10-17
 > - **80%** 引进项目所必需的全校教师无记名投票赞成率门槛
 > - **+0.41** 5 项独立大规模试验加权平均效应量（ESSA 强证据）[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **+0.29** BEE 元分析合成 23 项研究所得的基础方案加权平均效应量（$p < .001$）
-> - **+0.25 至 +0.33** Borman et al. (2007) 全国 35 校多中心集群 RCT 获得的效应量区间
+> - **+0.25–+0.33** Borman et al. (2007) 全国 35 校多中心集群 RCT 获得的效应量区间
 
 ---
 

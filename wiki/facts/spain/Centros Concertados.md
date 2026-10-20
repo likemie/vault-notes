@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Centros Concertados
@@ -137,8 +137,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据
 > - **> 30%** 西班牙接受基础教育的在校学生就读于非公立协约学校。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
-> - **第 27 条** 1978 年西班牙宪法确立受教育权与办学自由平衡的核心条款。
-> - **4 年一审** 自治区教育当局对协约学校资质与资助协议的常规复审周期。
+> - **27** （第27条） 1978 年西班牙宪法确立受教育权与办学自由平衡的核心条款。
+> - **4 yr** （一审） 自治区教育当局对协约学校资质与资助协议的常规复审周期。
 
 ---
 

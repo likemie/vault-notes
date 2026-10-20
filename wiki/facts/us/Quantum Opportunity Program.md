@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Quantum Opportunity Program
@@ -107,9 +107,9 @@ updated: 2026-10-15
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **Hahn et al. (1994) 早期小规模试点 [[Randomised Controlled Trials\|RCT]]** 费城单点 100 名高危学生试验，报告干预组高中毕业率达到 63%（显著高于对照组的 42%），为 QOP 赢得了最初的政策声誉。
-> - **Schirm et al. (2006) 全国 7 城市大规模集群 RCT** 涵盖 1,069 名高危青少年的全国示范试验，随访发现干预组与对照组在高中毕业率（62% vs 61%）与大学入学率上均无统计显著差异，[[Effect Size\|效应量]]接近零。
-> - **Curtis & Bandy (2015, 2016) 改良版 EQOP 随机实验** 显示 EQOP 干预组在高三 [[Academic Achievement\|GPA]]（提升约 0.3 个绩点）与四年制大学录取率上呈现统计显著优势，但存在未报告基线等值性与未校正集群的局限。
+> - **63% / 42%** （Hahn et al. (1994) 早期小规模试点 [[Randomised Controlled Trials\|RCT]]） 费城单点 100 名高危学生试验，报告干预组高中毕业率达到 63%（显著高于对照组的 42%），为 QOP 赢得了最初的政策声誉。
+> - **62% / 61%** （Schirm et al. (2006) 全国 7 城市大规模集群 RCT） 涵盖 1,069 名高危青少年的全国示范试验，随访发现干预组与对照组在高中毕业率（62% vs 61%）与大学入学率上均无统计显著差异，[[Effect Size\|效应量]]接近零。
+> - **≈0.3** （Curtis & Bandy (2015, 2016) 改良版 EQOP 随机实验） 显示 EQOP 干预组在高三 [[Academic Achievement\|GPA]]（提升约 0.3 个绩点）与四年制大学录取率上呈现统计显著优势，但存在未报告基线等值性与未校正集群的局限。
 
 ---
 

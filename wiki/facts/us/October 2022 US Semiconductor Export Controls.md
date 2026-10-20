@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # October 2022 US Semiconductor Export Controls
@@ -147,9 +147,9 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据（pp. 90, 98–101）
 > - **16/14nm** 受控逻辑芯片非平面晶体管工艺阈值。
-> - **128 层** 受控 3D NAND 闪存层数性能阈值。
+> - **128** （层） 受控 3D NAND 闪存层数性能阈值。
 > - **34%** 2020 年中国在全球半导体最终消费市场中的份额比例。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 90)]]
-> - **镓与锗** 中国于 2023 年 7 月宣布实施出口管制反制的两类关键半导体矿产材料。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 101)]]
+> - **2** （镓与锗） 中国于 2023 年 7 月宣布实施出口管制反制的两类关键半导体矿产材料。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 101)]]
 
 ---
 

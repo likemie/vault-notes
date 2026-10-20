@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Teaching and Learning Research Programme
@@ -122,9 +122,9 @@ updated: 2026-10-17
 > - **学校外源研究运用能力提升有限** 后续长效评估（Greany, 2015; Saunders, 2015; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）表明，TLRP 等巨额投资对学校常态化实践的综合影响好坏参半。虽然在督导推动下学校使用内部学情数据的能力大幅增强，但学校常态化检索、理解与转化“外部学术研究”或“评价实证”的专业能力并未发生根本性跃升。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
 
 > [!stat-cards]- 关键实证数据
-> - **逾 4000 万英镑** 英国 ESRC 在 TLRP 上的总研发投入规模。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
-> - **近 100 项课题** 历时 11 年资助的大型跨部门实证研究项目总数。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 20)]]
-> - **10 项国家原则** 终期综合凝练出的全英教与学循证实践指导原则。
+> - **>£40M** 英国 ESRC 在 TLRP 上的总研发投入规模。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
+> - **≈100** （课题） 历时 11 年资助的大型跨部门实证研究项目总数。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 20)]]
+> - **10** （国家原则） 终期综合凝练出的全英教与学循证实践指导原则。
 
 ---
 

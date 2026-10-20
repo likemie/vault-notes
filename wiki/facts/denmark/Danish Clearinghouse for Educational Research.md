@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Danish Clearinghouse for Educational Research
@@ -126,8 +126,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- 机构演进与存续关键指标
 > - **2006–2017** 存续历经 **11 年**，成为非英语国家[[Educational Evidence Clearinghouses\|证据清算中心]]从创生到夭折的完整标本
-> - **2–3 年** 极短的政府合同采购周期，构成了其无法规划中长期科研战略的结构性枷锁
-> - **0 次** 关停前正式开展的长效成效与[[Return on Investment\|投资回报]]评估，证实了政治淘汰的非理性特征([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
+> - **2–3 yr** 极短的政府合同采购周期，构成了其无法规划中长期科研战略的结构性枷锁
+> - **0** （次） 关停前正式开展的长效成效与[[Return on Investment\|投资回报]]评估，证实了政治淘汰的非理性特征([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
 
 ---
 

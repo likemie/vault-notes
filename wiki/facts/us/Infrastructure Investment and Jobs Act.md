@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-20
 ---
 
 # Infrastructure Investment and Jobs Act
@@ -151,7 +151,7 @@ updated: 2026-10-07
 > - **面临行政许可与跨层级协调迟滞挑战** 基础设施项目面临冗长的跨部门环境影响评估（NEPA）与繁复的州级地方土地使用审批，导致部分资金向实体工程的转化速度受到制约。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 14)]]
 
 > [!stat-cards]- 核心数据
-> - **1.2 万亿美元** 法案授权的总资金规模（含 5500 亿美元净新增联邦直接投资）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
+> - **\$1.2T** 法案授权的总资金规模（含 5500 亿美元净新增联邦直接投资）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
 > - **55%** BABA 规定的制造产品中本土零部件成本占总产品成本的最低法定比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---

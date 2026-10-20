@@ -64,7 +64,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # School Autonomy
@@ -238,10 +238,10 @@ updated: 2026-10-17
 ## 实证数据
 
 > [!stat-cards]- 澳大利亚学校自主权核心实证数据
-> - **575 所学校** 西澳大利亚州自 2010 年起转为独立公立学校（[[Independent Public Schools Western Australia|IPS]]）的学校总规模，构成该州近代最激进的公立系统改组。
-> - **7000 万澳元** 澳大利亚联邦政府在 2015 年承诺用于协助公立学校提升自主权与独立性的专项预算总额。
-> - **4 倍筹资差距** 罗威与佩里（Rowe & Perry, 2020）发现高 [[Socioeconomic Status|SES]] 社区公立学校依托自主权筹集的家长捐赠与校庆收入，高达低 SES 社区学校的 4 倍（东郊学校单次校庆可募资 3 万澳元，西郊学校不足 2000 澳元）。
-> - **0.5% 资金份额** 跨国金融机构向发展中国家提供的教育贷款占受援国总开支的比重不足 0.5%，却凭借学校自主权等捆绑方案撬动了整套制度转轨。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 346)]]
+> - **575** （学校） 西澳大利亚州自 2010 年起转为独立公立学校（[[Independent Public Schools Western Australia|IPS]]）的学校总规模，构成该州近代最激进的公立系统改组。
+> - **A\$70M** 澳大利亚联邦政府在 2015 年承诺用于协助公立学校提升自主权与独立性的专项预算总额。
+> - **4×** （筹资差距） 罗威与佩里（Rowe & Perry, 2020）发现高 [[Socioeconomic Status|SES]] 社区公立学校依托自主权筹集的家长捐赠与校庆收入，高达低 SES 社区学校的 4 倍（东郊学校单次校庆可募资 3 万澳元，西郊学校不足 2000 澳元）。
+> - **0.5%** （资金份额） 跨国金融机构向发展中国家提供的教育贷款占受援国总开支的比重不足 0.5%，却凭借学校自主权等捆绑方案撬动了整套制度转轨。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 346)]]
 
 > [!ref-table]- 跨情境学校自主权实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # University Industry Demonstration Partnership
@@ -155,7 +155,7 @@ updated: 2026-10-16
 > - **60+** 截至 2025 年累计研制发布的实务操作指南出版物总数。
 > - **100+** 供校企评估合作多维价值的综合度量指标（Collaboration Metrics）总数。
 > - **12%** UIDP 全球会员网络中国际（非美国）大学与企业会员所占比例。
-> - **149 位** 2019 年出席首届牛津 UIDP 国际峰会的大学、企业与政府高级代表人数。
+> - **149** （位） 2019 年出席首届牛津 UIDP 国际峰会的大学、企业与政府高级代表人数。
 
 ---
 

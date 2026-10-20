@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Transformation of Singapore International School into United World College of South East Asia
@@ -81,7 +81,7 @@ updated: 2026-10-15
 
 > [!stat-cards]- 资源与学生结构
 > - **1000 / 320** 圣约翰原有的学额与寄宿位容量（个）。
-> - **≈ 8.3 万 / ≈ 27.5 万** 樟宜改建开办前的估算金额与最终可能达到的金额（英镑）。
+> - **≈83K / ≈275K** 樟宜改建开办前的估算金额与最终可能达到的金额（英镑）。
 > - **≈ 1200** 1972 年全校规模（人），高中部由 50 人增至 120 人。
 > - **9** 1972 年的奖学金生人数（人），其中没有东南亚学生。
 > - **≈ 12** 后续五年平均每年的 UWC 奖学金生人数（名），仍未在高中寄宿生中占据主导。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 112–117, 122)]]

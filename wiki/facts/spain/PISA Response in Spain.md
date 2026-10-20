@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # PISA Response in Spain
@@ -121,8 +121,8 @@ updated: 2026-10-16
 > - **跨国评估异化为政治武器** [[PISA]] 数据未被转化为教学改进处方，而是沦为政党互攻与中央-地方甩锅的弹药。
 
 > [!stat-cards]- 核心历史数据
-> - **学业失败率** 14 岁初中生达 25%，16 岁达 33%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
-> - **拔尖卓越率** 达到 PISA 5–6 级高阶水平学生不足 4%。
+> - **25% / 33%** （学业失败率） 14 岁初中生达 25%，16 岁达 33%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+> - **<4%** （拔尖卓越率） 达到 PISA 5–6 级高阶水平学生不足 4%。
 
 ---
 

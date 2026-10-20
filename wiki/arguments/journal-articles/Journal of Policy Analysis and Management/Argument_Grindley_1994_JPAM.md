@@ -67,7 +67,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grindley_1994_JPAM"
@@ -358,7 +358,7 @@ issuing_organization: ""
 > 6. **人员跨界流动与[[Further Education|继续教育]]是隐性技术扩散的核心载体** 联盟实践证明，尖端制造工艺与[[Reliability|可靠性]]管理无法仅凭专利文献与操作指南实现有效转移，依靠 200 余名骨干工程师全职借调（Assignees）以及面向 130 余家供应商的[[Total Quality Management|全面质量管理]]（PFTQ）培训，构成了美国半导体产业链技术[[Absorptive Capacity|吸收能力]]与工程素质升级的最关键支撑。（pp.726, 734–735, 752–753）
 
 > [!stat-cards]- 关键实证数据
-> - **\$200m/年** [[Sematech]] 初期年度研发预算（[[DARPA]] 与 14 家企业各出资 1 亿美元）。（p.729）
+> - **\$200M/yr** [[Sematech]] 初期年度研发预算（[[DARPA]] 与 14 家企业各出资 1 亿美元）。（p.729）
 > - **-29%** 1991–1992 年日本半导体厂商资本支出的降幅（由 56 亿美元降至 40 亿美元）。（p.742）
 > - **-25%** 1991–1992 年日本半导体设备采购总额的降幅（由 41 亿美元降至 30 亿美元）。
 > - **51% vs 41%** 1992 年美日两国半导体制造设备供应商在全球市场的最终份额对比。（p.741）

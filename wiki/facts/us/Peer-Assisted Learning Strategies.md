@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Peer-Assisted Learning Strategies
@@ -147,9 +147,9 @@ updated: 2026-10-17
 > - **极高的实施性价比** 相比每年每校需耗资数万美元的全校性综合改革（CSR）方案，PALS 仅需少量耗材手册与短期教师培训，是全美投入产出比最高的循证教学策略之一。
 
 > [!stat-cards]- 关键实证数据
-> - **$+0.58$ 一年级阅读效应量** 经独立标准化测试验证的一年级阅读干预效应量（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 23]]）。
-> - **$+0.20 \sim +0.35$ 跨学科平均增益** Fuchs 团队多中心试验中阅读流畅度与数学运算技能的稳定正向效应量区间。
-> - **5 家权威清算中心审查** 涵盖 [[National Dropout Prevention Center\|NDPC]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Best Evidence Encyclopedia\|BEE]]、[[What Works Clearinghouse\|WWC]] 与 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 的全方位循证审查（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]）。
+> - **$+0.58$** （$+0.58$ 一年级阅读效应量） 经独立标准化测试验证的一年级阅读干预效应量（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 23]]）。
+> - **$+0.20 \sim +0.35$** （跨学科平均增益） Fuchs 团队多中心试验中阅读流畅度与数学运算技能的稳定正向效应量区间。
+> - **5** （权威清算中心审查） 涵盖 [[National Dropout Prevention Center\|NDPC]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Best Evidence Encyclopedia\|BEE]]、[[What Works Clearinghouse\|WWC]] 与 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 的全方位循证审查（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]）。
 
 ---
 

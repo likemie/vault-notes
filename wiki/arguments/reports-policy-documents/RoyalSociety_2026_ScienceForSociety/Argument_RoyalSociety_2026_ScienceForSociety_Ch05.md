@@ -72,7 +72,7 @@ related_facts:
 related_persons: []
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch05
 
@@ -432,7 +432,7 @@ updated: 2026-10-16
 > - **75%** 英国公众压倒性认同应由专家而非普通公众就科技发展的长远影响向政府提供专业建言（PAS 2025, p. 85）。
 > - **62% vs 12%** 62% 公众要求政府决策顺应公众对科技的关切，但仅 12% 感觉公众在科技决策中得到了充分参与（PAS 2025, p. 85）。
 > - **76%** 超过四分之三受访公众严厉批评政府在重大科技决策中几乎没有付出努力去咨询民意（PAS 2025, p. 86）。
-> - **30 分钟** 英国国家紧急状态宣布后，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（[[Sage]]）可完成动态跨学科专家组建的响应时间（p. 81）。
+> - **30 min** 英国国家紧急状态宣布后，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（[[Sage]]）可完成动态跨学科专家组建的响应时间（p. 81）。
 
 ---
 

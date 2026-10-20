@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # MOSIS
@@ -143,8 +143,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心规模数据
 > - **60,000+** MOSIS 成立以来累计流片交付的芯片设计总数。
-> - **100+ 倍** 相比传统独占晶圆流片，[[Multi-Project Wafer|MPW]] 拼版机制为高校科研人员降低的资金门槛倍数。
-> - **150+ 所** 在 MOSIS 与 [[DARPA]] 资助下开设计算机体系结构与 VLSI 芯片实训课程的美国大学数量。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 176, 183–184)]]
+> - **100+ ×** 相比传统独占晶圆流片，[[Multi-Project Wafer|MPW]] 拼版机制为高校科研人员降低的资金门槛倍数。
+> - **150+** （所） 在 MOSIS 与 [[DARPA]] 资助下开设计算机体系结构与 VLSI 芯片实训课程的美国大学数量。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 176, 183–184)]]
 
 ---
 

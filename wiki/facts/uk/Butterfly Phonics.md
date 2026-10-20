@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Butterfly Phonics
@@ -111,7 +111,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.30** EEF 独立随机试验测得的六年级平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:6–8** 小组师生比。
-> - **4 个月** EEF 测算的学生相比[[Business as Usual\|常规对照组]]获得的额外净学业进步月数。
+> - **4 mo** EEF 测算的学生相比[[Business as Usual\|常规对照组]]获得的额外净学业进步月数。
 
 ---
 

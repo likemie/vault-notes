@@ -76,7 +76,7 @@ related_facts:
 related_theories: []
 status: draft
 created: 2026-09-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch03
 
@@ -410,7 +410,7 @@ updated: 2026-10-16
 > - **87% / ≈ 33%** 87% 的公众高度信任大学科学家，而对传统大众媒体的信任度仅约 33%，对社交媒体信任度更低。（pp. 59–60）
 > - **40% / 48%** 仅 40% 的公众认同日常接触的科学信息通常真实，48% 困惑于相互冲突的信息过多。
 > - **92%** 当提示具体前沿科技领域时，92% 的英国受访成年人对至少一个领域表达出浓厚求知兴趣。
-> - **220 万 / 500 万** 每周访问 BBC News Online [[Science Journalism\|科学新闻]]内容的英国独立浏览器数量稳定在 220 万，峰值接近 500 万。
+> - **2.2M / 5M** 每周访问 BBC News Online [[Science Journalism\|科学新闻]]内容的英国独立浏览器数量稳定在 220 万，峰值接近 500 万。
 
 ---
 

@@ -72,7 +72,7 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
@@ -253,10 +253,10 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > 4. **[[Co-affiliation\|共同从属]]主导的异质层级治理** AERO 董事会成员在 SVA、商业银行、跨国基金会与政府高级顾问委员会之间频繁流动，以多重兼职构筑了超越民主监督的[[Policy Network\|政策网络]]。（pp. 8–10）
 
 > [!stat-cards]- 核心数据
-> - **5000 万澳元** 联邦政府与各州/领地政府依据《全国学校改革协议》承诺向 AERO 提供的公共初始启动经费。（pp. 3, 8）
-> - **1.5 亿澳元** SVA 旗下管理的[[Social Impact Investing\|社会影响力投资]]基金总资产规模。（p. 5）
-> - **1000 万澳元** SVA 旗下营利性商业咨询部门（SVA Consulting）每年的营业额。（p. 6）
-> - **17 份官方档案** 研究为穿透公关宣传而调取的 ASIC 官方企业登记、历史变更与章程报告总数。（Appendix 1, p. 11）
+> - **A\$50M** 联邦政府与各州/领地政府依据《全国学校改革协议》承诺向 AERO 提供的公共初始启动经费。（pp. 3, 8）
+> - **A\$150M** SVA 旗下管理的[[Social Impact Investing\|社会影响力投资]]基金总资产规模。（p. 5）
+> - **A\$10M** SVA 旗下营利性商业咨询部门（SVA Consulting）每年的营业额。（p. 6）
+> - **17** （官方档案） 研究为穿透公关宣传而调取的 ASIC 官方企业登记、历史变更与章程报告总数。（Appendix 1, p. 11）
 
 ---
 

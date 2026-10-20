@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Institute of Education Sciences
@@ -212,7 +212,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心规模数据
 > - **≈ $150 million** 年科研投资额（约 1.5 亿美元）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **9** SEER 核心原则所涵盖的系统性科学与实践准则数量（大）。
-> - **10 万+** 资助支持的数字学习平台所覆盖的用户规模，用于推进快速实验。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
+> - **100K+** 资助支持的数字学习平台所覆盖的用户规模，用于推进快速实验。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
 
 ---
 

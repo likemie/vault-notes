@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Organic Law on Education 2006
@@ -149,7 +149,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据
 > - **45%–55%** 自治区自由支配的区域特色课程比例
-> - **17 个** 事实上的区域独立教育系统
+> - **17** （个） 事实上的区域独立教育系统
 > - **~30%** 义务中等教育阶段学生学业失败率
 
 ---

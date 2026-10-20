@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Article 9 of the Japanese Constitution
@@ -72,9 +72,9 @@ updated: 2026-10-16
 > *Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation... land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.*
 
 > [!stat-cards]- 宪法第九条与日本防务核心参数
-> - **75 年+** 战后和平宪法第九条未经实质文字修改而持续实施的漫长跨度。（p. 43）
-> - **1% 潜规则** 战后日本长期维持的防卫预算占国民生产总值（GNP）与国内生产总值（GDP）不超过 1% 的不成文限制。
-> - **第 1 位** 日本作为亚洲最富裕民主政体却在遭遇外敌实质入侵时需完全依赖外部武力援助的安全依赖度。（p. 43）
+> - **75+ yr** （年） 战后和平宪法第九条未经实质文字修改而持续实施的漫长跨度。（p. 43）
+> - **1%** （潜规则） 战后日本长期维持的防卫预算占国民生产总值（GNP）与国内生产总值（GDP）不超过 1% 的不成文限制。
+> - **1** （第1位） 日本作为亚洲最富裕民主政体却在遭遇外敌实质入侵时需完全依赖外部武力援助的安全依赖度。（p. 43）
 
 ---
 

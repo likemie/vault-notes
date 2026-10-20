@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Math Recovery
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.24** 随机对照试验测得的综合平均数学效应量（$），获 ESSA 中等证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 专业教师与学困儿童个别化辅导。
-> - **1 年级** 黄金干预关键期。
+> - **1** （年级） 黄金干预关键期。
 
 ---
 

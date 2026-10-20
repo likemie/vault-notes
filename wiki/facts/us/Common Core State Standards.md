@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Common Core State Standards
@@ -174,11 +174,11 @@ updated: 2026-10-19
 > 4. **揭示循证决策的多源阶段权变机制** 证实科学证据从未单独决定政策选择，客观数据必须与专业经验、地方对标工具以及政治价值叙事深度融合方能促成政策落地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 18–19)]]
 
 > [!stat-cards]- 核心数据
-> - **45 个州** 2010–2011 年间正式完成 CCSS 法定采纳的州及哥伦比亚特区数量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 16)]]
-> - **29 位** CCSS 独立验证委员会跨领域专家总人数（最终 25 人签字，4 人拒签）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
-> - **10,000 份** 2010 年标准公开草案征集到的全美公众与教师书面反馈数量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 23)]]
-> - **8,900 万美元** 盖茨基金会在 2009–2010 年间向 18 个国家机构、10 家服务商及 20 个州教育局注资的总金额。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **43.5 亿美元** 联邦教育部力争上游（RTTT）竞争性拨款规模，构成促使各州急速采纳外部标准的最强外生激励。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
+> - **45** （州） 2010–2011 年间正式完成 CCSS 法定采纳的州及哥伦比亚特区数量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 16)]]
+> - **29** （位） CCSS 独立验证委员会跨领域专家总人数（最终 25 人签字，4 人拒签）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
+> - **10,000** （份） 2010 年标准公开草案征集到的全美公众与教师书面反馈数量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 23)]]
+> - **\$89M** 盖茨基金会在 2009–2010 年间向 18 个国家机构、10 家服务商及 20 个州教育局注资的总金额。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **\$4.35B** 联邦教育部力争上游（RTTT）竞争性拨款规模，构成促使各州急速采纳外部标准的最强外生激励。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
 
 ---
 

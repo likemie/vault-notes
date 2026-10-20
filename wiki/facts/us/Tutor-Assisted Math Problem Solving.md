@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Tutor-Assisted Math Problem Solving
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.42** 随机对照试验测得的综合平均数学应用题效应量（$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 助教与学生个别化辅导。
-> - **3 年级** 重点干预学段。
+> - **3** （年级） 重点干预学段。
 
 ---
 

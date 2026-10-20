@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # American Association for the Advancement of Science
@@ -142,12 +142,12 @@ updated: 2026-10-16
 > - **搭建科学界与白宫/国会的制度性对话桥梁** 作为全美非官方科学共同体的联合代言人，AAAS 在历次冷战危机、科研伦理辩论与联邦预算紧缩关头，为捍卫大学基础研究独立性与反击政治干预提供了坚实的制度屏障。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 
 > [!stat-cards]- 核心组织与项目数据
-> - **1848 年** 学会正式创设年份。
+> - **1848** 学会正式创设年份。
 > - **120,000+** 全球注册科学家与专业会员总数。
-> - **24 个** 学会下设常设专门学科学部（Sections）。
+> - **24** （个） 学会下设常设专门学科学部（Sections）。
 > - **4,000+** 科技政策研究员计划（STPF）累计输送的博士级学者人数。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 46)]]
-> - **50+ 年** STPF 政策研究员计划常态化持续运行年代跨度（1973 至今）。
-> - **44 亿美元** AAAS 测算的 2006 财年联邦国土安全研发预算规模（较 2002 财年增长近两倍）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 42)]]
+> - **50+ yr** STPF 政策研究员计划常态化持续运行年代跨度（1973 至今）。
+> - **\$4.4B** AAAS 测算的 2006 财年联邦国土安全研发预算规模（较 2002 财年增长近两倍）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 42)]]
 
 ---
 

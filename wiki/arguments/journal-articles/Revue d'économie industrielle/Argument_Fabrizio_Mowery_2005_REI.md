@@ -71,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
@@ -322,8 +322,8 @@ issuing_organization: ""
 9/11 袭击促使美国开启了长达数十年反恐战争的技术与经济动员，逆转了冷战后国防科研占比下滑的历史趋势。
 
 > [!stat-cards]- 9/11 后联邦与国土安全研发支出核心指标
-> - **44 亿美元** 2006 财年总统预算申请的联邦国土安全研发总规模（从 2002 财年的 15 亿美元激增近两倍）。（p. 42）
-> - **18 亿美元** 2006 财年国土安全研发中拨付给卫生与公众服务部（Department of Health and Human Services, HHS，管辖[[National Institutes of Health|美国国家卫生研究院]] [NIH] 与疾病控制与预防中心 [CDC]）的预算，远超国土安全部自身获得的 13 亿美元。（p. 42）
+> - **\$4.4B** 2006 财年总统预算申请的联邦国土安全研发总规模（从 2002 财年的 15 亿美元激增近两倍）。（p. 42）
+> - **\$1.8B** 2006 财年国土安全研发中拨付给卫生与公众服务部（Department of Health and Human Services, HHS，管辖[[National Institutes of Health|美国国家卫生研究院]] [NIH] 与疾病控制与预防中心 [CDC]）的预算，远超国土安全部自身获得的 13 亿美元。（p. 42）
 > - **> 20%** 2006 财年白宫预算案中对国防部基础与应用科研经费的削减幅度，研发预算进一步向工程试验开发倾斜。（p. 42）
 
 #### 2. 短期战术化与学科经费分流将挤压大学物理工程基础研究并削弱长期外溢潜力

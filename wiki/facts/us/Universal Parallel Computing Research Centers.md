@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Universal Parallel Computing Research Centers
@@ -132,8 +132,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键实证与产业规模数据
 > - **$20M+** 英特尔与微软为 UPCRC 首期联合注入的专项大学基础研发经费规模。(Green, 2008，转引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 234]])
-> - **2 所名校 / 5 年攻坚** 战略性布局于 UC Berkeley 与 UIUC 两大系统软件策源地，集中执行 5 年跨学科探索。
-> - **2 个独角兽 / 万亿级 AI 底座** 衍生孵化出 Databricks 与 Anyscale 知名科技公司，Ray 系统成为支撑全球顶级大语言模型运行的分布式基础底座。(Databricks, 2013; McManus, 2023; [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 232]])
+> - **2 / 5 yr** （名校 / 攻坚） 战略性布局于 UC Berkeley 与 UIUC 两大系统软件策源地，集中执行 5 年跨学科探索。
+> - **2** （独角兽 / 万亿级 AI 底座） 衍生孵化出 Databricks 与 Anyscale 知名科技公司，Ray 系统成为支撑全球顶级大语言模型运行的分布式基础底座。(Databricks, 2013; McManus, 2023; [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 232]])
 
 ---
 

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Office of Educational Research and Improvement
@@ -112,9 +112,9 @@ updated: 2026-10-16
 > - **为独立循证时代的到来奠定组织与经验基础** OERI 晚期对 [[What Works Clearinghouse|WWC]] 的出资设立与方法学探索，为后续 [[Institute of Education Sciences|IES]] 时代的[[Evidence-Based Education|循证教育]]立法与实证证据阶梯奠定了不可或缺的制度雏形。
 
 > [!stat-cards]- 核心规模数据
-> - **23 年** OERI 作为美国联邦最高教育科研管理机构的存续历史（1979–2002）。
-> - **1850 万美元** OERI 于 2002 年 8 月资助设立有效干预清算中心（WWC）的初始五年期合同金额。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
-> - **10 所** OERI 在全美建立并维持的区域教育实验室（RELs）网络规模。
+> - **23 yr** OERI 作为美国联邦最高教育科研管理机构的存续历史（1979–2002）。
+> - **\$18.5M** OERI 于 2002 年 8 月资助设立有效干预清算中心（WWC）的初始五年期合同金额。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
+> - **10** （所） OERI 在全美建立并维持的区域教育实验室（RELs）网络规模。
 
 ---
 

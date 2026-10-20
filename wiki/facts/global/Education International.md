@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Education International
@@ -130,7 +130,7 @@ updated: 2026-10-17
 > [!stat-cards]- 核心规模数据
 > - **172** 覆盖的国家与地区数量（个）。
 > - **401** 成员工会组织数量（个）。
-> - **3200 万** 代表会员体量的下限（逾此数），即教师与教育从业人员（名，原文作 32 million）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
+> - **32M** 代表会员体量的下限（逾此数），即教师与教育从业人员（名，原文作 32 million）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
 
 ---
 

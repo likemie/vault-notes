@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pause Giant AI Experiments Open Letter
@@ -108,7 +108,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心历史数据
 > - **33,000+** 公开信公开发布后所获得的全球学者、技术领袖与公众联署签名数量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
-> - **6 个月** 公开信所倡议的全球暂停训练更强大 AI 系统的最低时间窗口。
+> - **6 mo** 公开信所倡议的全球暂停训练更强大 AI 系统的最低时间窗口。
 
 ---
 

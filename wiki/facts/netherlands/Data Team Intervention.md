@@ -57,7 +57,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Data Team Intervention
@@ -136,7 +136,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心数据
 > - **≈ 80** 覆盖的荷兰与瑞典初中与小学数量（所，原文作 80 余所）。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 > - **1** 每校团队数量（个），固定由 6 至 8 名教师与校领导组成。
-> - **1 至 2** 单校通常持续的系统辅导周期（年）。
+> - **1–2** 单校通常持续的系统辅导周期（年）。
 > - **8** 探究闭环涵盖的标准化步骤数量（个），从[[Problem Finding\|问题界定]]至成效评估。
 
 ---

@@ -148,7 +148,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Education Endowment Foundation
@@ -321,16 +321,16 @@ updated: 2026-10-17
 > - **严密的独立评估防火墙** 实行干预开发者与评估者彻底剥离的制度设计，显著遏制了商业课程机构自卖自夸所带来的[[Publication Bias\|发表偏倚]]与[[Effect Size\|效应量]]虚高。
 
 > [!stat-cards]- 核心规模数据
-> - **1.25 亿英镑** 初始财政种子捐赠基金，开创准独立公共中介资助范式
-> - **400+ 项** 截至最新官方评估报告累计资助执行的教育研究、现场试验与创新试点项目总数（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)）
+> - **£125M** 初始财政种子捐赠基金，开创准独立公共中介资助范式
+> - **400+** （项） 截至最新官方评估报告累计资助执行的教育研究、现场试验与创新试点项目总数（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)）
 > - **80% (4/5)** 全英格兰公立中小学校实际参与过 EEF 资助项目的累计比例
 > - **85%** 英格兰中小学校长依据 EEF 指导报告制定针对弱势学生教育策略的比例
-> - **158 万名** 早期卷入 EEF 资助研究项目的学生累计规模
-> - **200+ 项** 资助执行的大规模教育[[Randomised Controlled Trials\|随机对照试验]]（占全球近十年教育 RCT 的近两成）
-> - **2 倍** 2014 年后试验[[Effective Sample Size\|有效样本量]]提升幅度，大幅提高检验统计功效（Sanders, 2019）
-> - **10,000+ 项** 全球教育活数据库（EEF Education Database）深度编码的全球实证研究规模
+> - **1.58M** （名） 早期卷入 EEF 资助研究项目的学生累计规模
+> - **200+** （项） 资助执行的大规模教育[[Randomised Controlled Trials\|随机对照试验]]（占全球近十年教育 RCT 的近两成）
+> - **2×** 2014 年后试验[[Effective Sample Size\|有效样本量]]提升幅度，大幅提高检验统计功效（Sanders, 2019）
+> - **10,000+** （项） 全球教育活数据库（EEF Education Database）深度编码的全球实证研究规模
 > - **70% vs 25%** EEF 试验中[[Sample Size Determination\|样本量]]超过 1,000 人的比例，远超全球同类平均水平（25%）
-> - **105 项** 关联[[National Pupil Database\|国家学生数据库]]（NPD）的完整试验微观数据归档
+> - **105** （项） 关联[[National Pupil Database\|国家学生数据库]]（NPD）的完整试验微观数据归档
 > - **70%** 英格兰中学领导者常规参考决策比例[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 
 ---

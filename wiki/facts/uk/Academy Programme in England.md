@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Academy Programme in England
@@ -111,7 +111,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心数据
 > - **≈ 5500** 至 2016 年初英格兰的学院数量（所），接近全部学校的四分之一。
 > - **58%** 至 2015 年 3 月处于正式学院链中的学院与自由学校比例。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
-> - **四分之三** 未采用学院身份的学校比例（约），存在形成两级体系的风险。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
+> - **3/4** 未采用学院身份的学校比例（约），存在形成两级体系的风险。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
 
 ---
 

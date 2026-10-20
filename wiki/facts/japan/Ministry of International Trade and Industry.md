@@ -67,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -128,11 +128,11 @@ aliases:
 > - **发展型国家的当代转型启示** 随着日本从[[Technological Catch-up|技术追赶]]走向全球技术前沿，MITI 展现了从追赶型外汇管制向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 > [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据
-> - **1976–1979 年** 超大规模集成电路（Very Large Scale Integration，VLSI）国家攻坚计划实施期间，MITI 主导下五大企业联合运营共享研发设施。
-> - **五家** 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–84)]]
-> - **2.33 亿美元** MITI 在四年内对 VLSI 联合攻关计划投入的研发预算总额，成为引发美国朝野震动并推动大学与产业界重构多边研发平台的关键外生冲击。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
+> - **1976–1979** 超大规模集成电路（Very Large Scale Integration，VLSI）国家攻坚计划实施期间，MITI 主导下五大企业联合运营共享研发设施。
+> - **5** （五家） 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–84)]]
+> - **\$233M** MITI 在四年内对 VLSI 联合攻关计划投入的研发预算总额，成为引发美国朝野震动并推动大学与产业界重构多边研发平台的关键外生冲击。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
 > - **70%+** 1980 年代初日本企业在全球动态随机存取存储器（Dynamic Random Access Memory，DRAM）市场的份额峰值，标志着第一代使命政策追赶成效。
-> - **1986 年** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 84–86)]]
+> - **1986** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 84–86)]]
 
 ---
 

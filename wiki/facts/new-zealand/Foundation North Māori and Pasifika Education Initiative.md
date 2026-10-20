@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Foundation North Māori and Pasifika Education Initiative
@@ -126,10 +126,10 @@ updated: 2026-10-17
 > - **巨额公益资本的金融化沉淀失衡** 财务审计揭示，拥有超 10 亿新西兰元资产的北部基金会在 2010 至 2015 年间获取了高达 3,860 万新西兰元的净投资收益，但同期对外捐赠仅 900 万新西兰元（占比仅 23.3%），大部分盈余沉淀于资本市场运作，形成了打着[[Venture Philanthropy|风险慈善]]旗号却抑制实际公益输出的悖论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–62)]]
 
 > [!stat-cards]- 关键实证数据
-> - **2,000 万新西兰元** [[Foundation North Māori and Pasifika Education Initiative|MPEI]] 专项基金承诺投入的总经费规模。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
-> - **10 亿新西兰元** 倡议发起方北部基金会的净资产总规模。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xii)]]
-> - **23.3% 慈善支出比** 基金会 2010–2015 年间对外捐赠（900 万新西兰元）占其同期净投资收益（3,860 万新西兰元）的比例，展现出明显的资本内蓄特征。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 61)]]
-> - **82 份社区提案** 第一阶段公开招募所吸引的基层提案总数，最终仅筛选资助 7 个项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
+> - **NZ\$20M** [[Foundation North Māori and Pasifika Education Initiative|MPEI]] 专项基金承诺投入的总经费规模。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
+> - **NZ\$1B** 倡议发起方北部基金会的净资产总规模。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xii)]]
+> - **23.3%** （慈善支出比） 基金会 2010–2015 年间对外捐赠（900 万新西兰元）占其同期净投资收益（3,860 万新西兰元）的比例，展现出明显的资本内蓄特征。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 61)]]
+> - **82** （社区提案） 第一阶段公开招募所吸引的基层提案总数，最终仅筛选资助 7 个项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
 ---
 

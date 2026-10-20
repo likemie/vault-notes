@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # SMART
@@ -118,7 +118,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.42** 纵向随机对照评估测得的平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 志愿伴导师生比。
-> - **14 本** 每位受试儿童每学年获得的免费优质正版赠书数量。
+> - **14** （本） 每位受试儿童每学年获得的免费优质正版赠书数量。
 
 ---
 

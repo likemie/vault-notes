@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Number Rockets
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.34** 随机对照试验测得的一年级数学综合标准化平均效应量（$ES$），获 ESSA Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:2–3** 小组辅导师生比。
-> - **17 周** 干预持续周期，每周 3 次、每次 40 分钟。
+> - **17** （周） 干预持续周期，每周 3 次、每次 40 分钟。
 
 ---
 

@@ -97,7 +97,7 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
@@ -167,7 +167,7 @@ issuing_organization: ""
 > | **生成式 AI 编程助手与[[Computational Thinking\|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |
 > | **教育阶段（Education Level）** | 学习者所处学段划分：包含 K12 基础教育（小学至高中）与涵盖本科、研究生及跨学段综合样本的 K12 与高等教育混合学段。 | K12 专属样本（4 项 FOM：Yi et al., 2025; Hwang, 2022; Chen et al., 2025; Zhang et al., 2024，加权平均 $ES = .40$）；K12 与高等教育混合样本（15 项 FOM，如 Tlili, 2024; Dong et al., 2025; Wu, 2024，加权平均 $ES = .73$）；组间差异显著（$Q_{bg}(1) = 6.95, p = .01$）。 |
-> | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; Liu et al., 2025; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
+> | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; [[Argument_Liu_2025_IndHE\|Liu et al., 2025]]; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
 > | **发表偏倚状态（Publication Bias Status）** | 一阶元分析自身经统计检验（[[Funnel Plot\|漏斗图]]、Begg 秩相关、Egger 回归、[[Trim and Fill Method\|剪补法]]）判定的偏倚程度：无偏倚（No）、低偏倚（Low）、中等偏倚（Medium）、高偏倚（Large）。 | 无偏倚（12 项 FOM，加权平均 $ES = .58$）；低偏倚（3 项 FOM，加权平均 $ES = .86$）；中等偏倚（1 项 FOM，加权平均 $ES = 1.10$）；高偏倚（3 项 FOM，加权平均 $ES = .63$）；组间差异显著（$Q_{bg}(3) = 8.90, p = .03$）。 |
 > | **方法学质量等级（Quality Level）** | 基于 R-AMSTAR 12 项评分量表（排除临床项后总分 44 分）的分级标准：不充分（0–11 分）、低质量（12–22 分）、中等质量（23–33 分）、高质量（34–44 分）。 | 高质量（13 项 FOM，得分 34–36 分，加权平均 $ES = .70$）；中等质量（6 项 FOM，得分 29–33 分，加权平均 $ES = .60$）；全样本平均得分 33.84（标准差（Standard Deviation, SD）为 2.97）；组间差异不显著（$Q_{bg}(1) = .62, p = .43$）。 |
 >
@@ -302,7 +302,7 @@ issuing_organization: ""
 > | **Tlili (2024)** | 28 | 1.36 | 0.95 | 1.78 | 计算机科学（Com. Sci） | 学业成就（A. Ach） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 2011–2024 | 2,765 | 高质量（High） |
 > | **García-Martínez et al. (2023)** | 25 | .72 | 0.43 | 1.01 | 计算机科学（Com. Sci） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 高偏倚（Large） | 2010–2020 | 未报告（Not） | 高质量（High） |
 > | **Wu (2024)** | 49 | .98 | 0.75 | 1.21 | 语言（Language） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 低偏倚（Low） | 2013–2024 | 6,434 | 高质量（High） |
-> | **Liu et al. (2025)** | 25 | .97 | 0.76 | 1.18 | 语言（Language） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2022–2024 | 4,179 | 高质量（High） |
+> | **[[Argument_Liu_2025_IndHE\|Liu et al. (2025)]]** | 25 | .97 | 0.76 | 1.18 | 语言（Language） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2022–2024 | 4,179 | 高质量（High） |
 > | **Chen et al. (2025)** | 25 | .39 | 0.01 | 0.77 | 语言（Language） | 学业成就（A. Ach） | 评估工具（AI assessment） | K12 | 无偏倚（No） | 2012–2024 | 2,523 | 高质量（High） |
 > | **Wu and Li (2024)** | 21 | .65 | 0.41 | 0.89 | 语言（Language） | 学业成就（A. Ach） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2008–2023 | 1,232 | 高质量（High） |
 > | **Wang et al. (2024)** | 45 | .70 | 0.49 | 0.90 | 多学科（Multi-field） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 2010–2022 | 3,750 | 高质量（High） |
@@ -480,7 +480,7 @@ issuing_organization: ""
 > - **$ES = .99$ vs $.34$** 计算机科学与数学学科效应量对比（$p = .04$）
 > - **$\text{Coef.} = .01$** 初级研究数量 $n$ 对效应量的[[Meta-regression\|元回归]]正向预测系数（$p = .01$）（p. 1378）
 > - **$\kappa = .87$** R-[[AMSTAR]] [[Intercoder Agreement|编码一致性]] Kappa 系数（p. 1370）
-> - **19 项 FOM / 58,702 名学生** 纳入证据总规模（p. 1371）
+> - **19 FOM / 58,702** （ / 名学生） 纳入证据总规模（p. 1371）
 
 ---
 

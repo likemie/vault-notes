@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # National Science Foundation
@@ -249,11 +249,11 @@ updated: 2026-10-19
 > [!stat-cards]- 核心规模与改革数据
 > - **~$9–10 Billion** NSF 年度联邦科研预算总额。
 > - **$81 Billion** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 NSF 授权的五年期预算总额（拟新增 360 亿美元，首年增长 8%）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
-> - **3,000 名** 芯片法案拟将 NSF 研究生研究奖学金（GRFP）年度名额从 2000 名扩大后的规模。
+> - **3,000** （名） 芯片法案拟将 NSF 研究生研究奖学金（GRFP）年度名额从 2000 名扩大后的规模。
 > - **42%–44%** 联邦资助高校教师平均用于处理基金申请、财务审计与行政合规文书的工作时间比例。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
 > - **<1% $\to$ >25%** 2021 至 2024 年间 NSF 重点涉及 [[Diversity, Equity, and Inclusion|DEI]] 倡议的项目在总资助中的份额变化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 > - **1,000+** [[NSF I-Corps]] 累计孵化的高校科技初创企业总数（撬动后续融资超 7.6 亿美元）。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **$1.6 亿美元** [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
+> - **\$160M** [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
 
 ---
 

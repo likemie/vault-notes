@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # OECD AHELO Project
@@ -139,9 +139,9 @@ updated: 2026-10-19
 > - **暴露了跨国标准化通用技能测评的技术脆弱性** 试点暴露出试图脱离本土文化脉络与具体课程大纲直接测量通用能力的严重局限，无法在国家间建立具有高[[Cultural Validity|文化效度]]的统一评价标尺。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 
 > [!stat-cards]- 关键实证数据
-> - **17 个** 参与 AHELO 可行性研究的国家和地区总数。
-> - **248 所** 参与基线测试与试点施测的高等院校总数。
-> - **23,000+ 名** 参与可行性测试的本科毕业生样本总人数。
+> - **17** （个） 参与 AHELO 可行性研究的国家和地区总数。
+> - **248** （所） 参与基线测试与试点施测的高等院校总数。
+> - **23,000+** （名） 参与可行性测试的本科毕业生样本总人数。
 
 ---
 

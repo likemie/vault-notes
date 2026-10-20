@@ -5,7 +5,7 @@ aliases:
 summary: "Knight 界定的分析概念，指通过高等教育、科学研究与创新合作建立国家间互信互惠关系，超越零和博弈以协同应对全球共同危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # The Education Trust
@@ -133,10 +133,10 @@ updated: 2026-10-16
 > 4. **推动教育资助公式公平化改革** 凭借详实的跨学区资金差距计量研究，迫使全美数十个州法院与州议会承认现行基于房产税的学校资助体制存在系统性倾斜，推动了针对高需求学区的加权资助公式落地。
 
 > [!stat-cards]- 核心规模数据
-> - **18 家** 获得盖茨基金会核心资助推动全国统一学术标准的全国性骨干机构数量（EdTrust 位列其中）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **50 州** EdTrust 长期开展学术标准质量评估与 [[National Assessment of Educational Progress|NAEP]] 成绩映射比对所覆盖的美国州级系统总数。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
-> - **5 个** EdTrust 在加利福尼亚、纽约、得克萨斯、田纳西、路易斯安那等教育大州设立的常设州级办公室数量。
-> - **1996 年** EdTrust 在卡蒂·海科克领导下正式独立注册为全国非营利法人的年份。
+> - **18** （家） 获得盖茨基金会核心资助推动全国统一学术标准的全国性骨干机构数量（EdTrust 位列其中）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **50** （州） EdTrust 长期开展学术标准质量评估与 [[National Assessment of Educational Progress|NAEP]] 成绩映射比对所覆盖的美国州级系统总数。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **5** （个） EdTrust 在加利福尼亚、纽约、得克萨斯、田纳西、路易斯安那等教育大州设立的常设州级办公室数量。
+> - **1996** EdTrust 在卡蒂·海科克领导下正式独立注册为全国非营利法人的年份。
 
 ---
 

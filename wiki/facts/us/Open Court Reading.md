@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Open Court Reading
@@ -141,8 +141,8 @@ updated: 2026-10-16
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **$+0.10$ 至 $+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials\|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size\|效应量]]区间，被 [[Best Evidence Encyclopedia\|BEE]] 定性为“适度效应”。
-> - **$+0.25\text{ SD}$ 门槛越界** Skindrud and Gersten (2006) 准[[Experimental Research|实验研究]]（[[Quasi-Experimental Designs\|QED]]）样本集中于加州薄弱学区，[[What Works Clearinghouse|WWC]] 自行实施集群偏倚校正后判定其越过实质重要性门槛，但 [[Blueprints for Healthy Youth Development|Blueprints]] 因未校正脱落与地域局限直接予以全盘剔除。
+> - **$+0.10$–$+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials\|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size\|效应量]]区间，被 [[Best Evidence Encyclopedia\|BEE]] 定性为“适度效应”。
+> - **$+0.25\text{ SD}$** （门槛越界） Skindrud and Gersten (2006) 准[[Experimental Research|实验研究]]（[[Quasi-Experimental Designs\|QED]]）样本集中于加州薄弱学区，[[What Works Clearinghouse|WWC]] 自行实施集群偏倚校正后判定其越过实质重要性门槛，但 [[Blueprints for Healthy Youth Development|Blueprints]] 因未校正脱落与地域局限直接予以全盘剔除。
 > - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis\|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards\|证据标准]]。
 
 ---

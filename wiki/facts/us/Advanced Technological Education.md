@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Advanced Technological Education
@@ -116,9 +116,9 @@ updated: 2026-10-15
 > - **形成模块化可推广的课程资源共享库** 建立了涵盖光刻工艺、真空刻蚀、薄膜沉积与化学机械研磨的标准教学课件库，被全美各州职业院校无偿采纳复用。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 32–33)]]
 
 > [!stat-cards]- 关键实证数据
-> - **30+ 年** NSF 先进技术教育计划在全美持续资助两制两年制职业教育的深厚积淀跨度。
-> - **8000 万美元** 联邦国库每年专门划拨用于技术工人与社区学院教育创新的基准经费规模。
-> - **单学期** 宾州州立等标杆中心将零基础学员培养为合格微纳制造设备操作员的最快集训周期。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 33)]]
+> - **30+ yr** NSF 先进技术教育计划在全美持续资助两制两年制职业教育的深厚积淀跨度。
+> - **\$80M** 联邦国库每年专门划拨用于技术工人与社区学院教育创新的基准经费规模。
+> - **1** （单学期） 宾州州立等标杆中心将零基础学员培养为合格微纳制造设备操作员的最快集训周期。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 33)]]
 
 ---
 

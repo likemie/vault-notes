@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # China Integrated Circuit Industry Investment Fund
@@ -127,8 +127,8 @@ updated: 2026-10-16
 > 4. **催生全球成熟制程结构性产能过剩风险** Bown 与 Wang（2024）指出，在外部先进制程封锁与国内补贴双重驱动下，中国半导体投资高度向成熟制程扎堆，可能在未来数年引发全球成熟芯片市场的产能严重过剩与剧烈价格下行压力。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 101–103)]]
 
 > [!stat-cards]- 关键实证数据
-> - **1387 亿元** 国家大基金一期募集资金总额（2014 年）。
-> - **2041 亿元** 国家大基金二期注册资本总额（2019 年）。
+> - **138.7B** （元） 国家大基金一期募集资金总额（2014 年）。
+> - **204.1B** （元） 国家大基金二期注册资本总额（2019 年）。
 > - **40% / 70%** 《[[Made in China 2025|中国制造2025]]》设立的 2020 年与 2025 年半导体自给率规划目标。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 93)]]
 > - **34%** 2020 年中国占全球终端芯片最终需求的市场份额比例。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 90)]]
 

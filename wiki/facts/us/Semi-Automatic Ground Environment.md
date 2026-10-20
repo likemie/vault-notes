@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Semi-Automatic Ground Environment
@@ -134,9 +134,9 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键实证数据
 > - **\$8–10 Billion** SAGE 工程在整个生命周期内的联邦防空总投资规模。
-> - **56 台套** IBM 生产并交付部署的 AN/FSQ-7 巨型双计算机总数。
-> - **55,000 支** 每台 AN/FSQ-7 计算机内置的电子管数量（整机功耗约 3000 千瓦）。
-> - **500,000+ 行** SAGE 运行的实时防空汇编语言代码总规模。
+> - **56** （台套） IBM 生产并交付部署的 AN/FSQ-7 巨型双计算机总数。
+> - **55,000** （支） 每台 AN/FSQ-7 计算机内置的电子管数量（整机功耗约 3000 千瓦）。
+> - **500,000+** （行） SAGE 运行的实时防空汇编语言代码总规模。
 > - **\$40 Million** 美洲航空公司与 IBM 借鉴 SAGE 架构联合研发 SABRE 民航订票系统的初期投资总额。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 174–179)]]
 
 ---

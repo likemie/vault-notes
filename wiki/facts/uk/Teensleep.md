@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Teensleep
@@ -128,10 +128,10 @@ updated: 2026-10-15
 > - **催生[[Evidence-Based Education\|循证教育]]方法学多元化转向** 该试验的夭折成为英格兰教育研究方法论的分水岭，促使资助者从迷信单一 RCT 转向包容并重用自然实验与准实验方法。
 
 > [!stat-cards]- 关键实证数据
-> - **100+ 所** 原计划招募建档的英格兰完全中学数量规模
-> - **10,000+ 名** 原定卷入长期学业追踪的初中及高中受试学生总数
-> - **0 样本成型** 终期因招募崩溃未采集到任何有效的因果干预评估数据
-> - **2019 年** 驱动 [[Education Endowment Foundation\|EEF]] 正式确立[[Researching School Choices]]专属准实验资助流的标志性年份
+> - **100+** （所） 原计划招募建档的英格兰完全中学数量规模
+> - **10,000+** （名） 原定卷入长期学业追踪的初中及高中受试学生总数
+> - **0** （样本成型） 终期因招募崩溃未采集到任何有效的因果干预评估数据
+> - **2019** 驱动 [[Education Endowment Foundation\|EEF]] 正式确立[[Researching School Choices]]专属准实验资助流的标志性年份
 
 ---
 

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # EPPI-Centre
@@ -145,7 +145,10 @@ updated: 2026-10-17
 > [!stat-cards]- 标志性数据与存续指标
 > - **1995** 创立年份，至今平稳运行超过 30 年，是全球连续活跃时间最悠久的专业[[Research Synthesis|证据综合]]中介机构之一
 > - **1/3** 在 [[OECD]] 2007 年确立的 6 大国际标杆样本中保持全功能运行的机构存活比例，为唯二幸存机构之一([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
-> - **数千** 依托其研发的 EPPI-Reviewer 平台完成的全球教育与社会科学系统综述数量（项）
+>
+> > [!feature] 数千
+> > 依托其研发的 EPPI-Reviewer 平台完成的全球教育与社会科学系统综述数量（项）
+>
 
 ---
 

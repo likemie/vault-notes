@@ -69,7 +69,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 # Argument_Besa_2024_UW
 
@@ -250,11 +250,11 @@ updated: 2026-10-19
 > 4. **教育研究共同体的角色与制度重构** 研究者应打破同行声誉顾虑，拓展非线性全媒体传播，并在制度层面确立研究合成与科学中介的独立学术价值。（p. 258）
 
 > [!stat-cards]- 核心数据
-> - **410 部** 2019–2020 年德国图书市场流通在售的教师实践指南总数，绝大部分由一线教师单方撰写且缺乏实证把关（Krüger & Konrad, 2022）。（p. 255）
-> - **16,000 次 / 6,500 次** 2017 年 7 月至 2021 年 7 月间，[[Clearing House Unterricht\|CHU]] 平台简评下载总量与学术播客收听总量（Hetmanek et al., 2023）。（pp. 256–257）
-> - **> 10,000 次** 独立播客《课堂心理学》（Psychologie fürs Klassenzimmer）上线一年内的累计播放量（Wisniewski, o.J.）。
-> - **> 100,000 订阅** Christian Spannagel 教学法与高等教育 YouTube 频道订阅人数（Spannagel, o.J.）。
-> - **> 1,400,000 订阅** Mai Thi Nguyen-Kim 科学传播频道 maiLab 订阅总人数（Nguyen-Kim, o.J.）。（p. 256）
+> - **410** （部） 2019–2020 年德国图书市场流通在售的教师实践指南总数，绝大部分由一线教师单方撰写且缺乏实证把关（Krüger & Konrad, 2022）。（p. 255）
+> - **16,000 / 6,500** （次 / 次） 2017 年 7 月至 2021 年 7 月间，[[Clearing House Unterricht\|CHU]] 平台简评下载总量与学术播客收听总量（Hetmanek et al., 2023）。（pp. 256–257）
+> - **>10,000** （次） 独立播客《课堂心理学》（Psychologie fürs Klassenzimmer）上线一年内的累计播放量（Wisniewski, o.J.）。
+> - **>100,000** （订阅） Christian Spannagel 教学法与高等教育 YouTube 频道订阅人数（Spannagel, o.J.）。
+> - **>1,400,000** （订阅） Mai Thi Nguyen-Kim 科学传播频道 maiLab 订阅总人数（Nguyen-Kim, o.J.）。（p. 256）
 
 ---
 

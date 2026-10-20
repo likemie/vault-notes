@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Manhattan Project
@@ -145,8 +145,8 @@ updated: 2026-10-16
 > - **从原子威慑向[[AI Deterrence|人工智能威慑]]的历史交接与新曼哈顿工程倡议** 卡普与扎米斯卡指出，二战确立的原子威慑时代正在走向终结；21 世纪以先进算法、[[Autonomous Drone Swarms|自主无人机蜂群]]和智能决策网络为核心的[[AI Deterrence|人工智能威慑]]全面开启，西方世界必须复兴曼哈顿工程时期的公私结盟精神，启动面向战场人工智能的“新曼哈顿工程”，以软件硬实力重建[[Technological Republic|技术共和国]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 
 > [!stat-cards]- 关键历史数据
-> - **20 亿美元** 二战期间工程总耗资（约占当时美国 GDP 的 1%）。
-> - **13 万人** 鼎盛时期直接雇佣的科研、工程与建设人员规模。
+> - **\$2B** 二战期间工程总耗资（约占当时美国 GDP 的 1%）。
+> - **130K** （人） 鼎盛时期直接雇佣的科研、工程与建设人员规模。
 > - **2/3** 受曼哈顿工程带动，1960 年代联邦政府在全美所有研发总支出中所占的历史峰值比例。（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, p. 4]]）
 
 ---

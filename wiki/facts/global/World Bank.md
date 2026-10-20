@@ -134,7 +134,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # World Bank
@@ -276,12 +276,12 @@ updated: 2026-10-19
 > - **援助与行政承载能力逆向倒挂悖论** 世行复杂的教育借贷项目要求借款国具备高度健全的账目审计、统计核算与多部门协调能力，这使行政体系相对健全的中等收入国家更容易成功履约（但它们正加速逃向无附加条件的私人金融市场）；而最亟需教育脱贫的极度赤贫低收入国家，却因基层官僚体系极端孱弱而完全无法承载复杂的多边改革，导致项目屡屡以烂尾告终，形成了“最亟需援助者最难从世行受益”的深层结构性悲剧。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–469)]]
 
 > [!stat-cards]- 核心规模数据
-> - **189 个** 截至目前的正式成员国总数。
-> - **15–30 年** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
-> - **1 个百分点** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
+> - **189** （个） 截至目前的正式成员国总数。
+> - **15–30 yr** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
+> - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
 > - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
-> - **1,120 项** 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **1,600 项** [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
+> - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
+> - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 
 ---
 

@@ -61,7 +61,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Industry-University Cooperative Research Centers
@@ -118,9 +118,9 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键规模与杠杆指标
 > - **1:10** 产学中心的企业资金配套杠杆比（NSF 每投入 1 美元，私营企业配比跟投 10 美元）。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
-> - **50 所** 截至 2007 年由 NSF 资助支持的产学中心（包含 I/UCRC 与 [[Engineering Research Centers|ERC]]）总数。
-> - **500+ 家** 截至 2007 年深度参与 NSF 产学中心网络合作的私营企业总数。
-> - **11 年** I/UCRC 设立的最长阶段性资助周期，期满后中心逐步过渡至完全由企业会员自发维持。
+> - **50** （所） 截至 2007 年由 NSF 资助支持的产学中心（包含 I/UCRC 与 [[Engineering Research Centers|ERC]]）总数。
+> - **500+** （家） 截至 2007 年深度参与 NSF 产学中心网络合作的私营企业总数。
+> - **11 yr** I/UCRC 设立的最长阶段性资助周期，期满后中心逐步过渡至完全由企业会员自发维持。
 
 ---
 

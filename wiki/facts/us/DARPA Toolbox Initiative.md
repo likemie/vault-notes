@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # DARPA Toolbox Initiative
@@ -112,9 +112,15 @@ updated: 2026-10-10
 > - **重塑学术界芯片研发能力[[Paradigm|范式]]** 使得资源有限的高校课题组也能够直接基于工业界成熟的 64 位应用处理器核与接口 IP 开展前沿试验，彻底告别了依靠落后低速模型做玩具设计的历史。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 > [!stat-cards]- 关键实证数据
-> - **数天内** 科研团队从申请到正式获得商业工业级 EDA 与 IP 授权的标准流转周期（传统模式需 3–6 个月）。
-> - **100% 覆盖** 全美受 DARPA 资助且有先进制程芯片设计需求的前沿微电子科研课题团队覆盖率。
-> - **数以百万计美元** 单个中等规模科研课题通过工具箱机制免除的商业软件采购与 IP 授权开销。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
+>
+> > [!feature] 数天内
+> > 科研团队从申请到正式获得商业工业级 EDA 与 IP 授权的标准流转周期（传统模式需 3–6 个月）。
+>
+> - **100%** （覆盖） 全美受 DARPA 资助且有先进制程芯片设计需求的前沿微电子科研课题团队覆盖率。
+>
+> > [!feature] 数以百万计美元
+> > 单个中等规模科研课题通过工具箱机制免除的商业软件采购与 IP 授权开销。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
+>
 
 ---
 

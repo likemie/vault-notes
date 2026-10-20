@@ -79,7 +79,7 @@ related_theories:
 related_persons: []
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
@@ -393,7 +393,7 @@ journal: "SAGE Open"
 > - **$\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 [[Cronbach's Alpha\|Cronbach's α]] 与 [[McDonald's Omega\|McDonald's ω]] 复合[[Reliability\|信度]]。（p.11）
 > - **$\chi^2/df = 1.94, \text{[[Model Fit Indices in SEM and CFA\|CFI]]} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis\|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）
-> - **$\eta^2 = .056$ 与 $\eta^2 = .046$** 开展科研对技能、追踪期刊对使用的最大[[Analysis of Variance\|方差分析]]主效应。（p.13）
+> - **$\eta^2 = .056$ / $\eta^2 = .046$** 开展科研对技能、追踪期刊对使用的最大[[Analysis of Variance\|方差分析]]主效应。（p.13）
 
 ---
 

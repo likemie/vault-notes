@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Clearing House Unterricht
@@ -158,10 +158,10 @@ updated: 2026-10-16
 > 3. **奠定德语区循证中介[[Paradigm\|范式]]** 作为德语区首个看齐美国[[What Works Clearinghouse\|有效干预清算中心]]（WWC）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的专业机构，成功探索了面向欧陆学科教学论（[[Didaktik]]）语境的证据转化范式。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 > [!stat-cards]- 核心效用评估数据
-> - **4–5 分（满分 6 分）** 教师教育者对 CHU 平台在个体效用、自身教学适用性、知识拓展与时间减负等维度的平均积极评分，且无论使用者原本的知识或资源储备高低均给出稳定积极评价。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]
-> - **16,000 次 / 6,500 次** 2017 年 7 月至 2021 年 7 月四年间，平台 Kurzreviews 材料累计下载量超 1.6 万次，配套 14 部学术播客累计播放超 6,500 次。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
-> - **2017 年** 机构正式创设并在慕尼黑工业大学上线开放服务。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
-> - **2029 年** 威廉·施特默基金会（Wilhelm Stemmer Stiftung）当前确立的战略资助保障期截止年份。
+> - **4–5 / 6** （评分 / 满分） 教师教育者对 CHU 平台在个体效用、自身教学适用性、知识拓展与时间减负等维度的平均积极评分，且无论使用者原本的知识或资源储备高低均给出稳定积极评价。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]
+> - **16,000 / 6,500** （次 / 次） 2017 年 7 月至 2021 年 7 月四年间，平台 Kurzreviews 材料累计下载量超 1.6 万次，配套 14 部学术播客累计播放超 6,500 次。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
+> - **2017** 机构正式创设并在慕尼黑工业大学上线开放服务。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> - **2029** 威廉·施特默基金会（Wilhelm Stemmer Stiftung）当前确立的战略资助保障期截止年份。
 
 ---
 

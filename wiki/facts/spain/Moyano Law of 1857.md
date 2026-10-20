@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Moyano Law of 1857
@@ -119,9 +119,9 @@ updated: 2026-10-16
 > - **制度停滞与延宕[[Path Dependence|路径依赖]]** 该法缺乏根据工业化进程动态调整的自我更新机制，保守维系逾一个世纪，使西班牙教育深陷落后于西欧现代化的被动局面。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
 
 > [!stat-cards]- 核心数据
-> - **3 年法定年限** 名义义务教育仅限定于 6 至 9 岁儿童。
-> - **113 年法律寿命** 1857 年颁布至 1970 年废止，超长维系逾一个世纪。
-> - **14 岁大面积失学** 迟至 1970 年改革前，全国仍有大批 14 岁青少年流离于中等教育大门之外。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
+> - **3 yr** （法定年限） 名义义务教育仅限定于 6 至 9 岁儿童。
+> - **113 yr** （法律寿命） 1857 年颁布至 1970 年废止，超长维系逾一个世纪。
+> - **14** （岁大面积失学） 迟至 1970 年改革前，全国仍有大批 14 岁青少年流离于中等教育大门之外。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 
 ---
 

@@ -36,7 +36,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Association for Science and Discovery Centres
@@ -52,8 +52,8 @@ updated: 2026-10-16
 
 > [!stat-cards]- ASDC 行业关键运营指标
 > - **60+** 成员机构数量（所），覆盖英格兰、苏格兰、威尔士与北爱尔兰的科学探索场馆。
-> - **2500+ 万** 年度总客流量（人次，其中中小学学生组织参访与家庭亲子占绝大多数）。
-> - **1000+ 万** 青少年触达量（儿童与青少年人数）。
+> - **25M+** 年度总客流量（人次，其中中小学学生组织参访与家庭亲子占绝大多数）。
+> - **10M+** 青少年触达量（儿童与青少年人数）。
 
 这些成员机构绝大多数属于非营利注册慈善机构（Registered Charities），高度依赖自创营收与门票销售。
 

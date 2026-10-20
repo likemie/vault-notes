@@ -59,7 +59,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"
@@ -281,9 +281,9 @@ issuing_organization: ""
 > 4. **时间紧迫与混合参与构成普遍制约** 63%–75% 的参与者明确反馈研讨时间不足，混合模态下线上参会者存在参与体验边缘化的问题。（pp.5–7）
 
 > [!stat-cards]- 核心数据
-> - **500 亿美元** 《[[CHIPS and Science Act|芯片与科学法案]]》联邦直接拨款规模。（p.1）
+> - **\$50B** 《[[CHIPS and Science Act|芯片与科学法案]]》联邦直接拨款规模。（p.1）
 > - **12%** 美国半导体芯片本土制造产能占比（较 1990 年的 37% 严重下滑）。（p.2）
-> - **140 万** 预测至 2030 年全美半导体与 [[STEM Education|STEM]] 领域的劳动力缺口岗位数。
+> - **1.4M** 预测至 2030 年全美半导体与 [[STEM Education|STEM]] 领域的劳动力缺口岗位数。
 > - **81 ➔ 142 ➔ 242** 三期工作坊参会规模从校内、大学系统到全州逐级递增的参会人数。（pp.4–5）
 > - **100%** 第二期线下工作坊中参与者对促学设计与有效性给予正面评价的比例。（p.5）
 

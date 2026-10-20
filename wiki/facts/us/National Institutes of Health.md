@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Institutes of Health
@@ -157,8 +157,8 @@ updated: 2026-10-16
 > [!stat-cards]- 核心规模与体制数据
 > - **~$45+ Billion** NIH 当前年度联邦科研财政预算总额。
 > - **≈ 75%** FDA 批准的高创新度新分子实体（NMEs）中直接追溯至 NIH 前期高风险公共资助的比例。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]
-> - **2 倍** 获得 NIH 主任先锋奖的长周期资助学者产出顶级高影响力成果的相对概率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
-> - **44 岁+** 首次获得 NIH 独立项目资助（R01）学者的平均年龄（相较 1980 年代显著推迟）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
+> - **2×** 获得 NIH 主任先锋奖的长周期资助学者产出顶级高影响力成果的相对概率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> - **44+** （岁） 首次获得 NIH 独立项目资助（R01）学者的平均年龄（相较 1980 年代显著推迟）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
 > - **44%** 联邦科研人员在资助申请、合规报销等行政文书事务所消耗的时间占比。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 9)]]
 > - **≈ 50% $\to$ 100%** 1960 年代末至当代全美医学院全职专任教师薪资中依赖科研软钱覆盖的比例。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 

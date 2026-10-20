@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # National Assessment of Educational Progress
@@ -118,7 +118,7 @@ updated: 2026-10-17
 
 > [!stat-cards]- 标志性指标反差（NCES 2007 映射数据）
 > - **90% vs. 28%** 田纳西州原考卷自称阅读及格率（90%）与 NAEP 实际熟练率（28%）的极端悬殊反差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
-> - **全美绝大多数州** 自设合格切分点全面跌破 NAEP “熟练级”标准，部分甚至低于“基础级”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
+
 
 ---
 

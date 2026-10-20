@@ -81,7 +81,7 @@ related_theories:
   - "[[Path Dependence]]"
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch04
 
@@ -131,11 +131,11 @@ updated: 2026-10-16
 ## 核心数据与指标概览
 
 > [!stat-cards] 关键量化数据与战略指标
-> - **2 万亿美元** 洛克希德·马丁 F-35 隐形战机全生命周期总研发与采购成本，设计服役期长达 63 年至 2088 年。（p. 44）
+> - **\$2T** 洛克希德·马丁 F-35 隐形战机全生命周期总研发与采购成本，设计服役期长达 63 年至 2088 年。（p. 44）
 > - **0.2%** 2024 财年美国国防部在 8860 亿美元总预算中仅为人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）申请 18 亿美元（五分之一个百分点）。（p. 45）
 > - **3%–5% vs 1.5%** 美国每年约 9000 亿美元国防支出占国内生产总值（Gross Domestic Product, GDP）比例（3%–5%）与[[EU|欧盟]]各国平均防务支出占 GDP 比例（约 1.5%）的长期巨大落差。（p. 41）
 > - **0.5% vs 2.0%** 1970 年后美国[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）年均复合增速与 1920–1970 黄金期年均增速对比。（p. 49）
-> - **17.6 亿美元** 2022 年 YouTube（9.59 亿美元）与 Instagram（8.01 亿美元）通过定向投放算法仅从 12 岁以下儿童身上榨取的广告收入总额。（p. 50）
+> - **\$1.76B** 2022 年 YouTube（9.59 亿美元）与 Instagram（8.01 亿美元）通过定向投放算法仅从 12 岁以下儿童身上榨取的广告收入总额。（p. 50）
 
 ---
 

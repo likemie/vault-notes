@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Office of Naval Research
@@ -120,9 +120,9 @@ updated: 2026-10-15
 > - **为高风险前沿资助提供永恒的制度对照** 在当代学术界深受资助率走低与[[Academic Risk Aversion|学术避险主义]]困扰的背景下，ONR 早期对颠覆性假说的宽容庇护，成为科技政策研究反思同行评议局限性的经典历史案例。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38, 44–45)]]
 
 > [!stat-cards]- 核心规模数据
-> - **19 项** 1945–1955 年间联邦政府资助的战后第一代计算机开发工程总数（其中海军 ONR 参与资助逾半数）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
+> - **19** （项） 1945–1955 年间联邦政府资助的战后第一代计算机开发工程总数（其中海军 ONR 参与资助逾半数）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
 > - **$4–5 Million** ONR 与空军联合资助麻省理工学院研制 Whirlwind（旋风计算机）的总投入规模。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 172)]]
-> - **60+ 位** 获得 ONR 资助的诺贝尔奖得主累计总数。
+> - **60+** （位） 获得 ONR 资助的诺贝尔奖得主累计总数。
 
 ---
 

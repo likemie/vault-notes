@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # International Monetary Fund
@@ -157,10 +157,10 @@ updated: 2026-10-19
 > - **多边借贷饱和悖论** 导致最亟需资金支持极度贫困国家因“外债超过 IMF 规定上限”而过早失去继续借款的资格，形成了多边发展金融体系内部的结构性阻断。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
 
 > [!stat-cards]- 核心规模数据
-> - **190 个** 正式成员国总数。
-> - **1 万亿美元** 整体借贷能力总规模。
-> - **0 信用坏账风险** 依托违约黑名单惩罚机制，为世行与[[Inter-American Development Bank|泛美开发银行]]等主权贷款提供的实际信用违约保障率。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
-> - **100% 融资冻结** 一旦被列入 IMF 违约黑名单，借款国在全球官方双边与私人金融市场遭遇的外部流动性全面断绝惩罚。
+> - **190** （个） 正式成员国总数。
+> - **\$1T** 整体借贷能力总规模。
+> - **0** （信用坏账风险） 依托违约黑名单惩罚机制，为世行与[[Inter-American Development Bank|泛美开发银行]]等主权贷款提供的实际信用违约保障率。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
+> - **100%** （融资冻结） 一旦被列入 IMF 违约黑名单，借款国在全球官方双边与私人金融市场遭遇的外部流动性全面断绝惩罚。
 
 ---
 

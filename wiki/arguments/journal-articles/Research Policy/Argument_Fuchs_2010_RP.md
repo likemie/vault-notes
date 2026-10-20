@@ -74,7 +74,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fuchs_2010_RP"
@@ -291,10 +291,10 @@ issuing_organization: ""
 > 3. **确立[[Embedded Network Governance|嵌入型网络治理]]作为国家科技政策全新[[Paradigm|范式]]** 嵌入型[[Network Governance|网络治理]]突破了自由市场放任与自上而下指定赢家的传统二元对立，为国家在面对[[Vertical Disintegration|纵向碎片化高科技产业]]、协调长周期战略共性技术平台提供了不可替代的治理工具。（pp. 1133, 1146）
 
 > [!stat-cards]- 核心数据
-> - **50 场** 历时两年（2006–2008）完成的针对 DARPA 历任主任、项目经理、顶尖高校学者及五大微处理器巨头高管的半结构化[[In-depth Interview|深度访谈]]。（p. 1138）
-> - **16 年** 案例纵向时间跨度（1992–2008），完整跨越托尼·瑟瑟出任局长前后的两大历史阶段。（p. 1134）
-> - **4 项** 推进摩尔定律极限的关键半导体材料技术（SiGe、应变硅、3D封装、集成光子学）。
-> - **$4400 万美元** UNIC 计划第三阶段授予 Sun Microsystems 开展单芯片纳米光子系统集成的五年半长期合同金额。（p. 1142）
+> - **50** （场） 历时两年（2006–2008）完成的针对 DARPA 历任主任、项目经理、顶尖高校学者及五大微处理器巨头高管的半结构化[[In-depth Interview|深度访谈]]。（p. 1138）
+> - **16 yr** 案例纵向时间跨度（1992–2008），完整跨越托尼·瑟瑟出任局长前后的两大历史阶段。（p. 1134）
+> - **4** （项） 推进摩尔定律极限的关键半导体材料技术（SiGe、应变硅、3D封装、集成光子学）。
+> - **\$44M** UNIC 计划第三阶段授予 Sun Microsystems 开展单芯片纳米光子系统集成的五年半长期合同金额。（p. 1142）
 
 ---
 

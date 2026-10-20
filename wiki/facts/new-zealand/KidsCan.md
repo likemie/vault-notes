@@ -41,7 +41,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # KidsCan
@@ -128,8 +128,8 @@ updated: 2026-10-17
 > [!stat-cards]- 核心规模数据
 > - **$12,484,901 NZD** 2015 财务年度儿童之友实现的总收入，八年间增长超 12 倍。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 112)]]
 > - **$4,551,786 NZD** 该机构在 2015 年末积累的账面净留存资产，从最初的负债状态发展为拥有充裕资本储备的大型实体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 112)]]
-> - **2,058,812 份** 机构在单一年度内向全国薄弱中小学发放的应急食物补给总数量。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 110)]]
-> - **49,072 件** 机构向公立学校学生累计发放的加厚防水雨衣总件数。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 110)]]
+> - **2,058,812** （份） 机构在单一年度内向全国薄弱中小学发放的应急食物补给总数量。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 110)]]
+> - **49,072** （件） 机构向公立学校学生累计发放的加厚防水雨衣总件数。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 110)]]
 
 ---
 

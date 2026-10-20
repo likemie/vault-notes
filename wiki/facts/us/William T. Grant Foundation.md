@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # William T. Grant Foundation
@@ -133,7 +133,10 @@ updated: 2026-10-19
 > [!stat-cards]- 核心规模数据
 > - **≈ 90** 基金会深耕青少年发展与社会科学研究资助的历史（年）。
 > - **5** 基金会资助制定的全美《RPP 有效性评估指南》核心准则维度（大）。
-> - **数千万** 设立机构挑战资助与 URE 专项持续撬动的高等教育与学区协作资金（美元）。
+>
+> > [!feature] 数千万
+> > 设立机构挑战资助与 URE 专项持续撬动的高等教育与学区协作资金（美元）。
+>
 
 ---
 

@@ -137,7 +137,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Burns_Schuller_2022_BrokerageAgencies
 
@@ -495,10 +495,10 @@ updated: 2026-10-17
 > 4. **必须推进“中介的中介”建构累积知识库** 单个机构无法独自确立具有普适权威的知识体系，必须依托跨机构、跨国别的元中介网络推进二阶[[Systematic Review\|系统综述]]，方能攻克方法学鸿沟并建构坚实的教育科学知识大厦。（pp. 66–68）
 
 > [!stat-cards]- 关键实证数据
-> - **1/3 存活率** 2007 年[[OECD\|经合组织]]报告收录的 6 家标杆中介机构中，历经 15 年仅有 2 家（[[What Works Clearinghouse\|WWC]] 与 [[EPPI-Centre]]）保持完全活跃，3 家关停或休眠。（p. 64）
-> - **1.25 亿英镑** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）于 2011 年获得的政府巨额启动资金规模，开创了独立慈善信托中介模式的先河。（p. 58）
-> - **2–3 年拨款周期** 政府常规预算协议的考核周期，与教育深度改革通常所需的显效[[Incubation\|潜伏期]]形成尖锐的制度错配（OECD, 2009; Borman et al., 2003）。
-> - **23 国 36 机构** 欧洲 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国中介协作网络涵盖的成员规模，见证了早期跨国元中介协作的制度化探索。（p. 67）
+> - **1 / 3** （存活率） 2007 年[[OECD\|经合组织]]报告收录的 6 家标杆中介机构中，历经 15 年仅有 2 家（[[What Works Clearinghouse\|WWC]] 与 [[EPPI-Centre]]）保持完全活跃，3 家关停或休眠。（p. 64）
+> - **£125M** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）于 2011 年获得的政府巨额启动资金规模，开创了独立慈善信托中介模式的先河。（p. 58）
+> - **2–3 yr** （拨款周期） 政府常规预算协议的考核周期，与教育深度改革通常所需的显效[[Incubation\|潜伏期]]形成尖锐的制度错配（OECD, 2009; Borman et al., 2003）。
+> - **23 / 36** （23 国 36 机构） 欧洲 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国中介协作网络涵盖的成员规模，见证了早期跨国元中介协作的制度化探索。（p. 67）
 
 ---
 

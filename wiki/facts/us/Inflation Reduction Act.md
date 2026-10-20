@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Inflation Reduction Act
@@ -155,8 +155,8 @@ updated: 2026-10-16
 > - **面临劳动力短缺与电网审批瓶颈** 全美面临熟练电工、焊工及工程技术人员短缺，且跨州高压输电线路审批与地方环境许可繁复，制约了绿色电力的迅速并网释放。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 13–14)]]
 
 > [!stat-cards]- 核心数据
-> - **3690 亿美元至 1.2 万亿美元** 法案原始预估及高盛等机构测算的实际动员联邦清洁能源税收激励与投资总规模。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 10)]]
-> - **5 倍** 满足现行工资与学徒制要求时的税收抵免增幅倍数。
+> - **\$369B–\$1.2T** 法案原始预估及高盛等机构测算的实际动员联邦清洁能源税收激励与投资总规模。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 10)]]
+> - **5×** 满足现行工资与学徒制要求时的税收抵免增幅倍数。
 > - **40%** 环境正义40倡议规定的流向弱势社区的最低效益占比目标。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
 > - **6%–11%** 法案预计在既有趋势基础上进一步拉动的美国温室气体减排幅度。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 14)]]
 

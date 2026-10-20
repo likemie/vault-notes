@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Communities in Schools
@@ -113,9 +113,9 @@ updated: 2026-10-17
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **Rossman and Morley (1995) Urban Institute 早期多地点准实验** 早期探索性研究，样本缺乏基线匹配，显示出勤率提升但[[Causality\|因果推断]]效力极其薄弱。
-> - **Parise et al. (2017) MDRC 2 年期多中心集群 [[Randomised Controlled Trials\|RCT]]** 发现 CIS 对个案管理学生的**学校参与度（School Engagement）** 与社会情感支持具有统计显著改善，但对当期标准化测验成绩未见显著跃升。
-> - **Somers and Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究** 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
+
+
+> - **2.3%** （Somers and Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究） 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
 
 ---
 

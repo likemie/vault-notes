@@ -59,7 +59,7 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"
@@ -347,7 +347,7 @@ journal: "Research Policy"
 > - **$50 → $2 → $0.63** 集成电路单片均价从 1962 年的 50 美元降至 1968 年的 2 美元，并在 1973 年进一步降至 0.63 美元。（pp.7–8）
 > - **20%–30%** 半导体企业累计历史产量每翻一番器件平均生产成本的下降幅度（学习经济）。
 > - **64% / 69%** 1957 年新创中小型半导体企业在全美半导体总市场与政府采购市场中所占的份额。（pp.10–11）
-> - **15 家** 1952 至 1967 年间直接追溯至[[Bell Labs|贝尔实验室]]离职人员创立的新半导体企业数量。（p.18）
+> - **15** （家） 1952 至 1967 年间直接追溯至[[Bell Labs|贝尔实验室]]离职人员创立的新半导体企业数量。（p.18）
 
 ---
 

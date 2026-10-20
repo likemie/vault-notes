@@ -73,7 +73,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knogler_2025_BB"
@@ -279,8 +279,8 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > 4. **循证知识转移的双向反馈与动态迭代** 知识转移并非简单的数据单向分发，必须建立常态化用户反馈回路、需求评估机制与跨机构平台协同网络。（p. 16）
 
 > [!stat-cards]- 核心数据
-> - **4–5 分（满分 6 分）** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。（p. 16）
-> - **2017 年** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
+> - **4–5 / 6** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。（p. 16）
+> - **2017** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
 > - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement\|学业成就]]（Hedges' g）与学科态度的综合因果[[Effect Size\|效应量]]。
 > - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。（p. 15）
 

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Materials Genome Initiative
@@ -118,8 +118,11 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键实证数据
 > - **> 50%** 材料基因组计划为战略材料从实验室到商业部署设定的研发周期压缩目标。
-> - **百万级** 公共材料数据库中收录的高保真晶体结构、电学与热学多物理场机理模型总数。
-> - **16 个** 2024年深度整合材料基因组基础设施的微电子联邦部门与协同研究机构总数。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
+>
+> > [!feature] 百万级
+> > 公共材料数据库中收录的高保真晶体结构、电学与热学多物理场机理模型总数。
+>
+> - **16** （个） 2024年深度整合材料基因组基础设施的微电子联邦部门与协同研究机构总数。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
 
 ---
 

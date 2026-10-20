@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # World Education Indicators
@@ -143,9 +143,9 @@ updated: 2026-10-16
 > - **建立新自由主义治理[[Discourse|话语]]的跨国传导通道** 实证分析显示，WEI 项目成功将[[OECD|经合组织]]以劳动力市场需求为导向、强调投入产出效率与表现责任的政策分析视角植入转型国家政策议程，推动了国家教育理念向[[Human Capital Theory|人力资本]]积累逻辑的收敛。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
 
 > [!stat-cards]- 关键规模数据
-> - **19 个** 深度参与世界[[Performance Indicators|教育指标]]项目并持续提交国家统计数据的转型经济体与中等收入国家数量。
-> - **3 大** 发起、资助与组织该项目的全球核心国际组织（OECD、[[UNESCO Institute for Statistics|UNESCO UIS]]、[[World Bank]]）。
-> - **10 余年** 项目作为独立跨国教育统计合作工程系统运行与发布专题报告的持续周期。
+> - **19** （个） 深度参与世界[[Performance Indicators|教育指标]]项目并持续提交国家统计数据的转型经济体与中等收入国家数量。
+> - **3** 发起、资助与组织该项目的全球核心国际组织（OECD、[[UNESCO Institute for Statistics|UNESCO UIS]]、[[World Bank]]）。
+> - **10+ yr** 项目作为独立跨国教育统计合作工程系统运行与发布专题报告的持续周期。
 
 ---
 

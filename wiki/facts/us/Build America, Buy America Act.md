@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Build America, Buy America Act
@@ -117,9 +117,9 @@ updated: 2026-10-16
 > 3. **确立可追溯的绿色与本土制造标准** 促使联邦政府与行业协会建立起覆盖原材料冶炼、初加工到最终[[Assemblage|组装]]的全流程可追溯认证体系。
 
 > [!stat-cards]- 核心规模数据
-> - **1.2 万亿美元** IIJA 基础设施投资总体规模，构成 BABA 条款实施的资金需求底座。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
-> - **100% 本土化** BABA 对联邦资助基建中所用铁、钢制造过程的法定本土化比例要求。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
-> - **55% 成本门槛** 电动汽车充电桩等制造品在过渡期后必须达到的本土零部件成本最低比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
+> - **\$1.2T** IIJA 基础设施投资总体规模，构成 BABA 条款实施的资金需求底座。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
+> - **100%** （土化） BABA 对联邦资助基建中所用铁、钢制造过程的法定本土化比例要求。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
+> - **55%** （成本门槛） 电动汽车充电桩等制造品在过渡期后必须达到的本土零部件成本最低比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
 

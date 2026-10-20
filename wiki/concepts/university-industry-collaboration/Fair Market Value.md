@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Fair Market Value
@@ -198,7 +198,7 @@ updated: 2026-10-16
 > | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] | 1980–2020 年全球半导体前十大厂商演变 | 产业组织实证与供应链分解 | [[1986 U.S.-Japan Semiconductor Trade Agreement\|美日半导体协议]]及 FMV 保护伞效应 | 韩国三星与现代在价格保护伞下加速崛起，2000 年三星跃升至全球半导体第 2 位 | — | 证明双边价格底线管制未能挽救美国 DRAM 制造，反而意外扶持了第三方竞争者 |
 
 > [!stat-cards]- 关键实证指标
-> - **1987–1988 年** 美日贸易协定设立 FMV 价格底线后引发全球 DRAM 供给短缺与日本厂商暴利的周期。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 126–127)]]
+> - **1987–1988** 美日贸易协定设立 FMV 价格底线后引发全球 DRAM 供给短缺与日本厂商暴利的周期。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 126–127)]]
 > - **\$300m** 1987 年美国因日本违反第三方市场 FMV 价格防线而对日本电子产品征收的 100% 报复性关税金额。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 126)]]
 > - **20%–35%** [[Academic Medical Center|学术医学中心]]对直接研发成本普遍加收的间接管理费率区间，构成突破 FMV 限额的核心制度因素。
 > - **\$20k–\$150k+** 学术机构在[[Clinical Trial|临床试验]]立项时收取的不可退还启动费用区间。

@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # UNESCO
@@ -231,7 +231,10 @@ updated: 2026-10-17
 > - **194** 个成员国。
 > - **12** 个准会员。
 > - **200** 个以上国家和地区的年度官方教育普查数据由 [[UNESCO Institute for Statistics|UIS]] 汇聚。
-> - **数十亿** 人口涉及原条目所述 2030 年 SDG 4 监测目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+>
+> > [!feature] 数十亿
+> > 人口涉及原条目所述 2030 年 SDG 4 监测目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+>
 
 ---
 

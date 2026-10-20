@@ -71,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Macher_1998_CMR"
@@ -354,8 +354,8 @@ issuing_organization: ""
 > - **62% / 37% / 50%+** 1980年、1989年与1997年美国半导体在全球销售额中的市场份额演变。（pp. 111–112）
 > - **780 / <100** 1980年至1992年美国芯片出厂缺陷率（PPM）的压降幅度。（pp. 113–114）
 > - **25% / <7%** 1980年至1992年联邦国防资助占美国半导体研发总投入的比例骤降。（p. 122）
-> - **10–15 年** [[Focus Center Research Program|FCRP]] 焦点研究中心设定的超前长周期前竞争技术探索时间视野。（p. 121 note 48）
-> - **30+ 座** 加州大学伯克利分校 CSM 项目跨学科团队实地驻厂标杆调研的全球晶圆厂总数。（p. 115）
+> - **10–15 yr** [[Focus Center Research Program|FCRP]] 焦点研究中心设定的超前长周期前竞争技术探索时间视野。（p. 121 note 48）
+> - **30+** （座） 加州大学伯克利分校 CSM 项目跨学科团队实地驻厂标杆调研的全球晶圆厂总数。（p. 115）
 
 ---
 

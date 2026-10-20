@@ -134,7 +134,7 @@ updated: 2026-10-20
 > [!stat-cards]- 核心规模数据
 > - **15 / 13** 正式成员高校总数（所）与覆盖的国家和地区数量（个），均为亚洲旗舰研究型大学。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
 > - **≤ 2** 单个国家或地区允许入选的成员高校最高法定限额（所）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
-> - **$13.5 万 / $6.8 万** 联合研究计划单项实验类与非实验类合作课题最高资助额度。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
+> - **\$135K / \$68K** 联合研究计划单项实验类与非实验类合作课题最高资助额度。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 > - **29–60** 学者奖励计划年均选派资助驻校交流学者规模（人）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 
 ---

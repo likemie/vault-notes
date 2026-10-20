@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reading Rescue
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.81** 实证评估测得的一年级平均阅读综合效应量（$ES$），获 ESSA Moderate 评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 个别辅导，每日 30 分钟。
-> - **4–6 倍** 相比纯专业教师模式，在相同预算下能够服务的学困生人数翻倍倍数。
+> - **4–6×** 相比纯专业教师模式，在相同预算下能够服务的学困生人数翻倍倍数。
 
 ---
 

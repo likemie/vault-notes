@@ -80,7 +80,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Every Student Succeeds Act
 
@@ -180,7 +180,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据
 > - **7%** 各州必须设立的 Title I 基础教育学校改进专项基金法定最低比例（Section 1003）。
-> - **倒数 5%** 各州综合支持与改进学校（CSI）的划定比例门槛，必须强制采纳 Tier 1–3 证据方案。
+> - **5%** （倒数5%） 各州综合支持与改进学校（CSI）的划定比例门槛，必须强制采纳 Tier 1–3 证据方案。
 > - **100+** 全美目前达到 ESSA 强与中等证据标准的 K-12 阅读与数学独立合规项目总数。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > - **95%–99%** 大型学区符合 ESSA Tier 1–3 单项合格研究标准的资金比例范围。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 174)]]
 > - **49%–58%** 全量证据体综合评价下学区获稳定积极支持的资金比例。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 175)]]

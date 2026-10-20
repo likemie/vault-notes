@@ -79,7 +79,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 # Argument_Wecker_2016_ZfE
 
@@ -393,11 +393,11 @@ updated: 2026-10-17
 
 > [!stat-cards]- 核心数据
 > - **-8.291 vs. -0.80** Eisenstaedt 数据因混淆 SE 与 SD，效应量被虚假放大逾 10 倍。（p. 27）
-> - **53% 权重低估** Haas [[Direct Instruction|直接教学]]元分析因错误伪造标准误，权重从 118.1 骤降至 54.9。（pp. 29–30）
-> - **93.3% 重叠率** Olson and Wisher (2002) 15 项主要研究中有 14 项与 Sitzmann et al. (2006) 重复。（pp. 29–30）
+> - **53%** （权重低估） Haas [[Direct Instruction|直接教学]]元分析因错误伪造标准误，权重从 118.1 骤降至 54.9。（pp. 29–30）
+> - **93.3%** （重叠率） Olson and Wisher (2002) 15 项主要研究中有 14 项与 Sitzmann et al. (2006) 重复。（pp. 29–30）
 > - **0.59 vs. 0.23** 网络学习效应量经正确加权与去重后暴跌，排名从第 26 位雪崩至第 98 位。（p. 30）
-> - **0.092 伪标准误** [[Inquiry-Based Learning|探究式学习]]标准误由两个元分析的 0.154 与 0.030 简单算术平均得出，比高精度单项误差大 3 倍。（p. 30）
-> - **约 5.8 项元分析** 800 余项元分析分配至 138 个因素，[[Sample Size Determination|样本量]]过小导致二级[[Random-Effects Model|随机效应模型]]完全无法估计。（p. 32）
+> - **0.092** （伪标准误） [[Inquiry-Based Learning|探究式学习]]标准误由两个元分析的 0.154 与 0.030 简单算术平均得出，比高精度单项误差大 3 倍。（p. 30）
+> - **≈5.8** （元分析） 800 余项元分析分配至 138 个因素，[[Sample Size Determination|样本量]]过小导致二级[[Random-Effects Model|随机效应模型]]完全无法估计。（p. 32）
 
 ---
 

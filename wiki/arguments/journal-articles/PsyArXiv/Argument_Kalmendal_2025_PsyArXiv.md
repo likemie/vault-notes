@@ -76,7 +76,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-16
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kalmendal_2025_PsyArXiv"
@@ -430,8 +430,8 @@ issuing_organization: ""
 > 4. **文献年代严重滞后且多未审灰文献** 关键技术与媒体类影响因素充斥 1980 年代与 1990 年代的陈旧研究，且有 24 项因素完全依赖未发表学位论文等灰色文献，缺乏学术公信力。（pp. 16–18）
 
 > [!stat-cards]- 核心数据
-> - **322 项** 审计的《[[Visible Learning|可见的学习]]》影响因素总量。（p. 1）
-> - **1,369 篇** 研究团队检索并精读的底层一阶[[Meta-analysis|元分析]]全文。（p. 14）
+> - **322** （项） 审计的《[[Visible Learning|可见的学习]]》影响因素总量。（p. 1）
+> - **1,369** （篇） 研究团队检索并精读的底层一阶[[Meta-analysis|元分析]]全文。（p. 14）
 > - **2 / 301** 成功通过数据提取复现检验的影响因素数量（0.66%）。（p. 18）
 > - **44%** 在底层元分析中完全找不到报告数值的效应量比例。
 

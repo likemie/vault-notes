@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Science Board
@@ -121,7 +121,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心宏观数据
 > - **65% ➔ 40%** 2011 年至 2024 年间联邦资金在全美基础研究总投入中的占比变化，呈现显著结构性收缩。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 237)]]
-> - **约 50%** 全美科学与工程领域在读硕博研究生与博士后研究员中外国公民的占比。
+> - **≈50%** 全美科学与工程领域在读硕博研究生与博士后研究员中外国公民的占比。
 
 ---
 

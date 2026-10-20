@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Made in China 2025
@@ -102,9 +102,9 @@ updated: 2026-10-16
 > - **[[Geopolitics of Knowledge|知识地缘政治]]中的学科资源极化** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 指出，战略对硬核工程科技的数千亿美元强力赞助直接重塑了高校科研的优先级，引发了人文学科与自由探索式[[Narrative Knowledge|叙事知识]]在全球范围内的资源边缘化危机。
 
 > [!stat-cards]- 核心数据
-> - **4 倍** 依托全国性考试与国家重点政策引导，中国高校理工科（[[STEM Education|STEM]]）毕业生年产出规模达到美国的 4 倍。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
-> - **4 倍增长** 过去二十年间中国国内研发总支出增长四倍，总规模正在快速逼近美国。
-> - **10 大重点领域** 战略明确定位的新一代高精尖制造业突破方向。
+> - **4×** 依托全国性考试与国家重点政策引导，中国高校理工科（[[STEM Education|STEM]]）毕业生年产出规模达到美国的 4 倍。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> - **4×** （增长） 过去二十年间中国国内研发总支出增长四倍，总规模正在快速逼近美国。
+> - **10** （重点领域） 战略明确定位的新一代高精尖制造业突破方向。
 
 ---
 

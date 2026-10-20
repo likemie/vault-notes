@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-20
 ---
 
 # Next-Generation Microsystems Manufacturing
@@ -115,9 +115,9 @@ updated: 2026-10-10
 > - **奠定国家级[[Process Design Kit|装配设计套件]]（ADK）技术规范** 联合产业界推动了三维堆叠互连公差、热耗散模拟与物理安全验证标准的标准化制定。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 27)]]
 
 > [!stat-cards]- 关键实证数据
-> - **第 1 个** 美国本土设立的完全开放式国家级三维异构集成（3DHI）中试制造中心。
-> - **微米至亚微米级** NGMM 攻关的先进制程晶圆直接键合与微凸点垂直互连间距精度指标。
-> - **3 个部门协同** 与 DOC（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）及 DOD（Commons）形成全美先进封装中试铁三角。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
+> - **1** （第 1 个） 美国本土设立的完全开放式国家级三维异构集成（3DHI）中试制造中心。
+
+> - **3** （部门协同） 与 DOC（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）及 DOD（Commons）形成全美先进封装中试铁三角。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
 
 ---
 

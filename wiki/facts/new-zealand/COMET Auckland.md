@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # COMET Auckland
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心规模数据
 > - **$890,467 NZD** 2015 财务年度 COMET Auckland 的总营运收入规模。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
 > - **$343,966 NZD** 该机构在历经十余年扩张后于 2015 年末维持的极微额账面净资产，反映其纯项目支出特征。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
-> - **7 人** 2015 年机构受薪员工总数，保持低管理经常性支出与精干专业结构。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
+> - **7** （人） 2015 年机构受薪员工总数，保持低管理经常性支出与精干专业结构。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 102)]]
 
 ---
 

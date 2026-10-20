@@ -123,7 +123,7 @@ related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
 status: active
 created: 2026-09-20
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_DeJong_2023_ERR
 
@@ -363,7 +363,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 > [!stat-cards]- 核心实证统计数据汇总
 > - **55%** Minner et al. (2010) 分析的 42 项受控比较研究中，高探究饱和度显著优于低探究的比例（仅 2% 劣于对照）。（p. 4）
-> - **0.50 个标准差（Standard Deviation, SD）** Lazonder and Harmsen (2016) 针对 72 项实验与准[[Experimental Research\|实验研究]]元分析确证的指导支架对探究学习成效的提升幅度。
+> - **0.50 SD** （0.50 个标准差（Standard Deviation, SD）） Lazonder and Harmsen (2016) 针对 72 项实验与准[[Experimental Research\|实验研究]]元分析确证的指导支架对探究学习成效的提升幅度。
 > - **0.58 vs 0.65** Schwichow et al. (2016) 72 项[[Control of Variables Strategy\|变量控制策略]][[Intervention Research\|干预研究]]元分析中，显性讲授规则组与非显性探究组[[Effect Size\|效应量]]无统计差异。
 > - **80%** Smetana and Bell (2012) 梳理的 61 项[[Computer Simulation\|计算机模拟]]探究研究中，模拟探究组具有学业优势的比例。
 > - **0.34** Gerard et al. (2015) 元分析（41 项研究，57 个效应量）证实的自动化自适应指导对比常规课堂指导的效应量增益。（p. 9）

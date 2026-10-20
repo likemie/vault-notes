@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Te Kotahitanga
@@ -107,9 +107,9 @@ updated: 2026-10-15
 > - **国家统一测评[[Academic Achievement\|学业表现]]加速** 在新西兰国家教育成绩证书（NCEA）各级测评中，参与 Te Kotahitanga 项目学校的毛利学生在读写、数学及核心学科达标率上的增幅显著高于全国同类非试点学校平均水平。
 
 > [!stat-cards]- 关键实证数据
-> - **4 所** 先导阶段试点深度干预中学数。（Bishop et al., 2003; [[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 18]]）
-> - **11 名** 先导阶段接受系统关系性教学培训与追踪的骨干教师人数。（Bishop et al., 2003）
-> - **9–10 年级** 项目核心聚焦的中学关键转折学段。（Bishop et al., 2003）
+> - **4** （所） 先导阶段试点深度干预中学数。（Bishop et al., 2003; [[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 18]]）
+> - **11** （名） 先导阶段接受系统关系性教学培训与追踪的骨干教师人数。（Bishop et al., 2003）
+> - **9–10** （年级） 项目核心聚焦的中学关键转折学段。（Bishop et al., 2003）
 
 ---
 

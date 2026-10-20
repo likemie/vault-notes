@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Definition and Selection of Competencies
@@ -137,9 +137,9 @@ updated: 2026-10-16
 > - **主权国家法定行政法令中的垄断性引文霸权** Steiner-Khamsi 等（2024）实证追踪北欧五国政策咨询网络发现，在主权国家行政决策出台阶段，DeSeCo 展现出碾压性的制度穿透力；主权政府极度偏向于吸纳 DeSeCo 这一特定超国家蓝图以压制本土学术争议。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 关键实证数据
-> - **3 大能力范畴与 9 项具体素养** 构成全球核心素养分类体系的核心标准。
-> - **30+ 个国家与跨国组织采纳** 成为[[EU|欧盟]]、[[World Bank\|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
-> - **90.9% 的法令引文垄断率** 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）
+> - **3 / 9** （能力范畴 / 项具体素养） 构成全球核心素养分类体系的核心标准。
+> - **30+** （国家与跨国组织采纳） 成为[[EU|欧盟]]、[[World Bank\|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
+> - **90.9%** （90.9% 的法令引文垄断率） 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）
 
 ---
 

@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Best Evidence Encyclopedia
@@ -146,8 +146,8 @@ updated: 2026-10-17
 > - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]
 
 > [!stat-cards]- 核心规模数据
-> - **124 个** BEE 纳入的去重教育干预项目总量（居全美清算中心第 2 位）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
-> - **10+ 部** 在国际顶级期刊发表的奠基性学科全量元分析综述。
+> - **124** （个） BEE 纳入的去重教育干预项目总量（居全美清算中心第 2 位）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
+> - **10+** （部） 在国际顶级期刊发表的奠基性学科全量元分析综述。
 > - **+0.20 SD** 强证据判定的加权平均[[Effect Size\|效应量]]刚性门槛。
 
 ---

@@ -64,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 year: 2020
 doi: ""
 citation_aliases:
@@ -249,7 +249,7 @@ citation_aliases:
 > - **d = 0.60** 哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
 > - **d = -0.65** [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
 > - **d = 0.83** [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
-> - **d = 0.65 修正为 0** Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
+> - **d =0.65 → 0** Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
 
 ---
 

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Reach
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.42** 独立[[Cluster Randomized Trials\|整群随机试验]]测得的阅读综合效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 师生个别辅导比。
-> - **5 个月** [[Education Endowment Foundation\|EEF]] 测算的学生相比[[Business as Usual\|常规对照组]]获得的额外净进步月数。
+> - **5 mo** [[Education Endowment Foundation\|EEF]] 测算的学生相比[[Business as Usual\|常规对照组]]获得的额外净进步月数。
 
 ---
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Loan Programs Office
@@ -137,9 +137,12 @@ updated: 2026-10-16
 > 3. **拓展国家战略硬科技中试转化金融通道** 在跨部门科技战略中与 SBA、[[SBIR and STTR Programs|SBIR]] 及战略风投（如 In-Q-Tel、BARDA Ventures）形成梯度资金支持链条，协同跨越重资产制造的资本[[Valley of Death|死亡之谷]]。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 46–47)]]
 
 > [!stat-cards]- 核心规模数据
-> - **4000 亿美元+** 《[[Inflation Reduction Act|通胀削减法案]]》与 [[Infrastructure Investment and Jobs Act|IIJA]] 赋予 LPO 的总放贷与贷款担保法定授权总额。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
+> - **\$400B+** 《[[Inflation Reduction Act|通胀削减法案]]》与 [[Infrastructure Investment and Jobs Act|IIJA]] 赋予 LPO 的总放贷与贷款担保法定授权总额。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **<3%** LPO 历史累计信贷资产组合的实际发生损失率。
-> - **数十个** 涵盖先进核能、锂精炼、电网级长时储能与氢能冶金的在保首创工程项目。
+>
+> > [!feature] 数十个
+> > 涵盖先进核能、锂精炼、电网级长时储能与氢能冶金的在保首创工程项目。
+>
 
 ---
 

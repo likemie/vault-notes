@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Pirate Math
@@ -119,7 +119,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.37** 随机对照试验测得的三年级数学[[Problem Solving\|问题解决]]标准化平均效应量（$ES$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 个别辅导形式，由经短期培训的教学助教实施。
-> - **16 周** 干预实施周期，每周 3 次、每次 30 分钟。
+> - **16** （周） 干预实施周期，每周 3 次、每次 30 分钟。
 
 ---
 

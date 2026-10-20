@@ -69,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Terhart_2011_JCS"
@@ -276,7 +276,7 @@ journal: "Journal of Curriculum Studies"
 > 4. **终结圣杯神话的金字塔双重困境** 二阶聚合同时受制于常识渐近逼近的[[Stability vs. Variability Dilemma|稳定性假说]]与旧结论被最新实证颠覆的变异性假说，证明循证决策无法消除教育复杂性。（pp. 436–437）
 
 > [!stat-cards]- 核心数据
-> - **816 / 52,649 / 8303万** [[John Hattie|哈蒂]]综合的[[Meta-analysis|元分析]]数、初级研究数与涵盖学生样本规模。（p. 428）
+> - **816 / 52,649 / 83.03M** [[John Hattie|哈蒂]]综合的[[Meta-analysis|元分析]]数、初级研究数与涵盖学生样本规模。（p. 428）
 > - **0.40** 全书 138 个影响因素的总体平均[[Effect Size|效应量]] $d$ 与关节点门槛。（p. 428）
 > - **0.49 / 0.23** 六大贡献领域中教师效应与学校效应的均值对比。（p. 428）
 > - **0.60 / 0.17** 教师作为激活者与作为促进者的平均效应量对比。（p. 433）

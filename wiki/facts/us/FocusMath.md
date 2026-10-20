@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # FocusMath
@@ -118,7 +118,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.24** 标准化数学平均学业效应量（$），获 ESSA 强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:6–8** 助教微组辅导师生比。
-> - **3, 5 年级** 重点验证学段。
+> - **3 / 5** （年级） 重点验证学段。
 
 ---
 

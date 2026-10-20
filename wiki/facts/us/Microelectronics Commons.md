@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Microelectronics Commons
@@ -151,11 +151,11 @@ updated: 2026-10-16
 > - **培育本土微电子工程人才** 依托区域枢纽的高校洁净室与工程实训基地，为半导体行业源源不断输送具备实操经验的高素质研发人才。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 11, 18–19)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–36)]]
 
 > [!stat-cards]- 关键规模数据
-> - **20 亿美元** 《[[CHIPS and Science Act|芯片与科学法案]]》专属于微电子共用体计划的法定直接研发拨款。
-> - **8 大** 辐射全美主要科技走廊的微电子[[Innovation Hub|区域创新枢纽]]（Regional Innovation Hubs）。
-> - **360+ 家** 纳入共用体生态网络的大学、国家实验室、国防承包商及半导体企业。
-> - **6 大** 重点攻关的战略技术赛道（电磁射频、量子、5G/6G、安全边缘、AI 硬件与光子学）。
-> - **2.38 亿美元** 2023 年 9 月首期下达给 8 个区域枢纽的启动资助资金。
+> - **\$2B** 《[[CHIPS and Science Act|芯片与科学法案]]》专属于微电子共用体计划的法定直接研发拨款。
+> - **8** 辐射全美主要科技走廊的微电子[[Innovation Hub|区域创新枢纽]]（Regional Innovation Hubs）。
+> - **360+** （家） 纳入共用体生态网络的大学、国家实验室、国防承包商及半导体企业。
+> - **6** 重点攻关的战略技术赛道（电磁射频、量子、5G/6G、安全边缘、AI 硬件与光子学）。
+> - **\$238M** 2023 年 9 月首期下达给 8 个区域枢纽的启动资助资金。
 
 ---
 

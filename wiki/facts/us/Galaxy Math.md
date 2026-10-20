@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Galaxy Math
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.25** 随机对照试验测得的综合标准化数学平均效应量（$），获 ESSA 强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 助教个别化辅导结合自适应软件。
-> - **1 年级** 黄金干预起始学段。
+> - **1** （年级） 黄金干预起始学段。
 
 ---
 

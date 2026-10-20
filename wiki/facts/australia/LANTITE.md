@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # LANTITE
@@ -77,7 +77,7 @@ updated: 2026-10-16
 ## 效果与评价
 
 > [!stat-cards] 核心数据
-> - **370万澳元** LANTITE 统考每年为 [[Australian Council for Educational Research\|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **A\$3.7M** LANTITE 统考每年为 [[Australian Council for Educational Research\|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 

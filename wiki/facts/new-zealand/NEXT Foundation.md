@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # NEXT Foundation
@@ -128,7 +128,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心规模数据
 > - **$100,000,000 NZD** 基金会成立时注资的专属项目资金总额。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
-> - **10 年** 基金会确立的将全部资本散尽并发放完毕的激进存续周期。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
+> - **10 yr** 基金会确立的将全部资本散尽并发放完毕的激进存续周期。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 
 ---
 

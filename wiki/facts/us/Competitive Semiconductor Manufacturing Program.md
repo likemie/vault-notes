@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Competitive Semiconductor Manufacturing Program
@@ -128,7 +128,7 @@ updated: 2026-10-16
 > - **重塑[[Engineering Education|工程教育]]与制造运营学科** CSM 打破了传统微电子教育重器件设计、轻制造工程的偏向，推动了加州大学伯克利分校等顶尖高校微电子制造工程与供应链管理交叉课程体系的建立。
 
 > [!stat-cards]- 关键实证数据
-> - **30+ 座** 深入实地驻厂调研的全球先进晶圆厂总数。
+> - **30+** （座） 深入实地驻厂调研的全球先进晶圆厂总数。
 > - **0.7–0.9 $\mu m$ / <0.5 $\mu m$** 重点对标测算的 CMOS 逻辑与存储先进技术代际。
 > - **60% vs 60% / 84% vs 87%** 0.7–0.9 微米与亚 0.5 微米逻辑制程中美日领先晶圆厂探针良率的收敛对齐。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 117)]]
 

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -176,10 +176,10 @@ updated: 2026-10-17
 > - **[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）的制度挑战** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 深刻论证指出，欧洲高度异质的制度与文化环境导致证据无法作为通用“固定脚本”跨国复用；即便某一干预在英国取得显著正向效应，直接移植到南欧或东欧也极易遭遇严重的制度排异反应。
 
 > [!stat-cards]- 核心欧洲治理规模数据
-> - **38 个** [[Erasmus Programme|Erasmus+]] 参与国家纳入 Eurydice 监测体系
-> - **43 个** [[Heterogeneity\|异质性]]教育系统共同构成了欧洲极其复杂的制度拼图([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 36]])
-> - **24 种** [[EU|欧盟]]官方工作语言，构成了跨国证据快速流通与转译的天然语言壁垒
-> - **23 国 36 家机构** 构成了 EIPPEE 跨国中介协作网络的最鼎盛规模([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])
+> - **38** （个） [[Erasmus Programme|Erasmus+]] 参与国家纳入 Eurydice 监测体系
+> - **43** （个） [[Heterogeneity\|异质性]]教育系统共同构成了欧洲极其复杂的制度拼图([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 36]])
+> - **24** （种） [[EU|欧盟]]官方工作语言，构成了跨国证据快速流通与转译的天然语言壁垒
+> - **23 / 36** （23 国 36 家机构） 构成了 EIPPEE 跨国中介协作网络的最鼎盛规模([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])
 
 ---
 

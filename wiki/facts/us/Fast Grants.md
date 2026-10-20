@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 # Fast Grants
@@ -110,9 +110,9 @@ updated: 2026-10-08
 > - **[[Metascience|元科学]]政策外溢效应** 促使英国研究与创新署（UKRI）、美国 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 开始试点设立联邦层面的快速资助机制与微型先导基金。
 
 > [!stat-cards]- 核心规模数据
-> - **累计筹资规模** 超 5,000 万美元。
-> - **累计资助项目数** 逾 260 项高风险突破研究。
-> - **立项决策中位时间** 48 小时以内（部分项目在 24 小时内完成打款）。
+> - **>\$50M** （累计筹资规模） 超 5,000 万美元。
+> - **>260** （累计资助项目数） 逾 260 项高风险突破研究。
+> - **≤48 h** （立项决策中位时间） 48 小时以内（部分项目在 24 小时内完成打款）。
 
 ---
 

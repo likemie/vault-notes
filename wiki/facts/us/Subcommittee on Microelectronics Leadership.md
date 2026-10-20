@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Subcommittee on Microelectronics Leadership
@@ -129,9 +129,9 @@ updated: 2026-10-16
 > - **强化国家安全韧性** 将全生命周期[[Hardware Security|硬件信任根]]与零信任架构标准嵌入联邦研发全流程。（pp. 18–19）
 
 > [!stat-cards]- 核心规模数据
-> - **4 大战略支柱** 统筹前沿技术突破、中试基础设施、劳动力管网与转化[[Innovation Ecosystem|创新生态]]。（p. 2）
-> - **10 余个** SML 正式统筹协调的核心联邦部门与独立执行机构数量。（p. ii）
-> - **8 大枢纽** 国防部在 SML 框架下推进的[[Microelectronics Commons|微电子共用体]]跨区域中试枢纽。（p. 2）
+> - **4** （战略支柱） 统筹前沿技术突破、中试基础设施、劳动力管网与转化[[Innovation Ecosystem|创新生态]]。（p. 2）
+> - **10+** （个） SML 正式统筹协调的核心联邦部门与独立执行机构数量。（p. ii）
+> - **8** （枢纽） 国防部在 SML 框架下推进的[[Microelectronics Commons|微电子共用体]]跨区域中试枢纽。（p. 2）
 
 ---
 

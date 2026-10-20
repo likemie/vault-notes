@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Focus Center Research Program
@@ -148,10 +148,10 @@ updated: 2026-10-16
 > - **树立产学官公私研发合作（[[Public-Private Partnership|PPP]]）制度标杆** 成功验证了在竞争性高技术领域，政府（[[DARPA]]）、[[Industry Affiliate Program|产业联盟]]（SIA/[[Sematech]]）与大学科研深度融合的长效治理模式。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 
 > [!stat-cards]- 关键实证数据
-> - **8–12 年** FCRP 在 [[Semiconductor Research Corporation|SRC]] 计划矩阵中负责的中远期技术时间视野（GRC 负责 3–8 年，NRI 负责 10–15 年）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]
-> - **520 名与 1,963 名** 截至 2011 年 FCRP 在读博士生 520 名，历史累计培养高层次工程毕业生 1,963 名。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 246)]]
+> - **8–12 yr** FCRP 在 [[Semiconductor Research Corporation|SRC]] 计划矩阵中负责的中远期技术时间视野（GRC 负责 3–8 年，NRI 负责 10–15 年）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]
+> - **520 / 1,963** （ / 名） 截至 2011 年 FCRP 在读博士生 520 名，历史累计培养高层次工程毕业生 1,963 名。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 246)]]
 > - **50:50** DARPA 与产业界对等配资比例，FCRP 是 SRC 体系中联邦参与度最高的计划。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 249)]]
-> - **30+ 所** 深度协同参与的全美顶尖[[Research Universities|研究型大学]]网络。
+> - **30+** （所） 深度协同参与的全美顶尖[[Research Universities|研究型大学]]网络。
 
 ---
 

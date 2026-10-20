@@ -49,7 +49,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AmEconRev"
@@ -284,7 +284,7 @@ issuing_organization: ""
 > - **2,968** 识别出的线人数量。（p.1062）
 > - **13.3%** 无间谍情景下 TFP 比率的降幅。（p.1097）
 > - **39.2%** 电子行业无间谍时的 TFP 比率降幅。（p.1098）
-> - **101 亿欧元 vs 1,100 万欧元** 年度收益与成本。（pp.1098–1099）
+> - **€10.1B / €11M** 年度收益与成本。（pp.1098–1099）
 
 ---
 

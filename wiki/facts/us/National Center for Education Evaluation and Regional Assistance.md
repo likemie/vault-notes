@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -150,8 +150,8 @@ updated: 2026-10-16
 > - **揭示传统架构干预的成效瓶颈** NCEE 针对全美 [[Response to Intervention\|RTI]] 实施的里程碑式评估（Balu et al., 2015）证实，缺乏经验证教学方案的组织性分层往往难以改善后进生成绩，从而强力推动了全美[[Evidence-Based Education\|循证教育]]从“空泛框架”向“成熟实证方案”的[[Paradigm\|范式]]转型。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 
 > [!stat-cards]- 核心规模数据
-> - **141 项现场 RCT 联合源头** 与英国 EEF 共同构成了全球 141 项超大规模教育因果现场试验的资助与产出母体（覆盖 122 万学童）。
-> - **65 项 i3 大型评估产出** 主持审阅并发布投资创新计划 65 项独立评估报告（Boulay et al., 2018）。
+> - **141** （现场 RCT 联合源头） 与英国 EEF 共同构成了全球 141 项超大规模教育因果现场试验的资助与产出母体（覆盖 122 万学童）。
+> - **65** （i3 大型评估产出） 主持审阅并发布投资创新计划 65 项独立评估报告（Boulay et al., 2018）。
 
 ---
 

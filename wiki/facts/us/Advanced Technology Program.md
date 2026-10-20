@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Advanced Technology Program
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > [!stat-cards]- 核心数据快照
 > - **$19m** 1996 财年共和党国会试图彻底扼杀 ATP 时将其削减至的历史最低预算额度。[[Argument_Block_2008_PS|(Block, 2008, p. 185)]]
 > - **$150m–$160m** ATP 在 1990 年代末至 2000 年代初两党拉锯中实际维持的年常态预算规模。[[Argument_Block_2008_PS|(Block, 2008, p. 184)]]
-> - **2 毫米** ATP 支持汽车制造联合体达成的标志性车身装配公差技术突破。[[Argument_Block_2008_PS|(Block, 2008, p. 188)]]
+> - **2 mm** ATP 支持汽车制造联合体达成的标志性车身装配公差技术突破。[[Argument_Block_2008_PS|(Block, 2008, p. 188)]]
 
 ---
 

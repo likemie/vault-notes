@@ -19,7 +19,7 @@ issuing_organization: 教育部
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-20
 tags:
   - region/china
   - level/k12
@@ -133,9 +133,9 @@ related_arguments:
 > - **再生产[[Official Knowledge\|官方知识]]** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 发现基于该纲要出版的 217 册教材在推广[[Quality Education\|素质教育]]的同时，将汉儒传统构建为中华性象征，强化了[[Cultural Hierarchy\|文化等级]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–67)]]。
 
 > [!stat-cards]- 核心数据
-> - **2001 年** 改革纲要正式颁布。
-> - **217 册** 抽样分析的六门必修科目教材（人教版 123 册，东南版 94 册）[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]]。
-> - **8 省 600 名** 参与 2007 内蒙古东胜学习与发展共同体年会的教师与学者[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010)]]。
+> - **2001** 改革纲要正式颁布。
+> - **217** （册） 抽样分析的六门必修科目教材（人教版 123 册，东南版 94 册）[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]]。
+> - **8 / 600** （省 / 名） 参与 2007 内蒙古东胜学习与发展共同体年会的教师与学者[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010)]]。
 
 ---
 

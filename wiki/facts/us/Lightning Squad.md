@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Lightning Squad
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > [!stat-cards]- 关键实证数据
 > - **+0.34** 三项严格随机对照试验测得的阅读综合平均效应量（$ES$），获 ESSA 强证据（Strong）最高等级认证。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:4–6** 辅导师生比，由 1 名受训助教主持微型小组辅导。
-> - **3 项** 达到 ESSA 强[[Evidence Standards\|证据标准]]的高质量独立因果[[Experimental Research\|实验研究]]总数。
+> - **3** （项） 达到 ESSA 强[[Evidence Standards\|证据标准]]的高质量独立因果[[Experimental Research\|实验研究]]总数。
 
 ---
 

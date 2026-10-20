@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Inter-American Development Bank
@@ -161,11 +161,11 @@ updated: 2026-10-16
 > - **微观人事领导力的决定性分流** 实证表明，在多边借贷制度设计与宏观环境完全相同的情况下，项目经理的微观个人领导力与政治穿透力往往构成决定项目最终成败的核心分水岭。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 465)]]
 
 > [!stat-cards]- 核心规模数据
-> - **48 个** 正式主权成员国总数（含 26 个拉美与加勒比借款国及 22 个非借款出资国）。
+> - **48** （个） 正式主权成员国总数（含 26 个拉美与加勒比借款国及 22 个非借款出资国）。
 > - **10%** 泛美开发银行历史上未顺利全额拨付的贷款失败率上限，表明绝大部分贷款资金最终能够成功拨出。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 470)]]
-> - **15–30 年** 主权开发贷款的典型偿还周期，期限远超商业银行贷款。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
-> - **1 个百分点** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系人员薪酬以实现收支保本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
-> - **10 年** 巴西东北部某大型教育贷款项目从签约筹备到真正走入正轨所耗费的漫长实际周期。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 469–470)]]
+> - **15–30 yr** 主权开发贷款的典型偿还周期，期限远超商业银行贷款。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
+> - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系人员薪酬以实现收支保本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
+> - **10 yr** 巴西东北部某大型教育贷款项目从签约筹备到真正走入正轨所耗费的漫长实际周期。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 469–470)]]
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Important Projects of Common European Interest
@@ -121,10 +121,10 @@ updated: 2026-10-16
 > - **资本规制杠杆弱于美国联邦直投** 相比美国直接附加严苛的 10 年地缘安全护栏、托儿服务与禁止回购要求，IPCEI 仅依靠利润回缴等财务性条款，无法对跨国企业的全球地缘布局施加强力约束。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–16)]]
 
 > [!stat-cards]- 关键实证数据
-> - **81 亿欧元** 14 个成员国承诺提供的公共补贴总额。
-> - **137 亿欧元** IPCEI ME/CT 预期撬动的私营部门配套投资规模。
-> - **56 家企业与 68 个项目** 深度参与该项目的核心微电子企业及获批立项的关键技术方案。
-> - **180 项** 项目所建立的跨国界产学研研发协作网络数量。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> - **€8.1B** 14 个成员国承诺提供的公共补贴总额。
+> - **€13.7B** IPCEI ME/CT 预期撬动的私营部门配套投资规模。
+> - **56 / 68** （企业 / 个项目） 深度参与该项目的核心微电子企业及获批立项的关键技术方案。
+> - **180** （项） 项目所建立的跨国界产学研研发协作网络数量。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
 

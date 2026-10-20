@@ -77,7 +77,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-27
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Eisenhart_Towne_2003_ER"
@@ -299,11 +299,11 @@ issuing_organization: ""
 > 4. **共同体公共参与是维系探究多元的关键保障** 科学标准的界定绝非封闭定论，若学界因抵触而放弃参与，政治力量必将迅速收拢并垄断科研标准；持续且富有建设性的公共审议是守护学术多元的决定性纽带。（pp. 36–37）
 
 > [!stat-cards]- 核心数据
-> - **20–25 人** 国会资深幕僚罗伯特·斯威特（Robert Sweet）在起草 REA 科学定义时咨询并传阅草案的高校学者人数（主要是认知心理学背景）。（p. 32）
-> - **75 人** NRC 组建教育科学原则委员会时从全美各界征集候选专家名单的规模。（p. 31）
-> - **75% 与 100%** 联邦教育部规划设定的因果研究[[Random Assignment|随机分配]]资助目标比例，以及 [[Institute of Education Sciences|IES]] 在 2002 财年资助因果主张项目中的实际达标比例。
-> - **1850 万美元** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）资助有效干预清算中心（WWC）的初始合同金额。（p. 34）
-> - **47 条** WWC 在 2002 年 11–12 月就 Study DIAD 规程草案公开征求意见期间收到的公众反馈条数。（p. 35）
+> - **20–25** （人） 国会资深幕僚罗伯特·斯威特（Robert Sweet）在起草 REA 科学定义时咨询并传阅草案的高校学者人数（主要是认知心理学背景）。（p. 32）
+> - **75** （人） NRC 组建教育科学原则委员会时从全美各界征集候选专家名单的规模。（p. 31）
+> - **75% / 100%** 联邦教育部规划设定的因果研究[[Random Assignment|随机分配]]资助目标比例，以及 [[Institute of Education Sciences|IES]] 在 2002 财年资助因果主张项目中的实际达标比例。
+> - **\$18.5M** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）资助有效干预清算中心（WWC）的初始合同金额。（p. 34）
+> - **47** （条） WWC 在 2002 年 11–12 月就 Study DIAD 规程草案公开征求意见期间收到的公众反馈条数。（p. 35）
 
 ---
 

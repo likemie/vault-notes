@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Founding of Lester B. Pearson College
@@ -99,7 +99,7 @@ updated: 2026-10-16
 
 > [!stat-cards]- 关键资源规模
 > - **≈ 14** 佩德湾到维多利亚的距离（英里）。
-> - **≈ 9 万** 威尔斯（Wells）为购地提供的资金（英镑）。
+> - **≈90K** 威尔斯（Wells）为购地提供的资金（英镑）。
 > - **100** 1975 年开幕时的首批学生数量（名）。
 > - **40** 联邦奖学金每年资助的外国学生数量（名），接近每届入学人数的一半。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 119–121)]]
 

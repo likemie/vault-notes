@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Bayh-Dole Act of 1980
@@ -176,9 +176,9 @@ updated: 2026-10-16
 > - **边界条件与收益高度集中性** 仅有极少数大学能够通过[[Technology Transfer|技术转让]]获取巨额暴利。绝大多数高校的 [[Technology Transfer Office|TTO]] 仅能勉强收支平衡甚至微幅亏损；专利许可收益呈现极端“幂律分布”，高度依赖个别重磅生物医药或通信硬件专利。
 
 > [!stat-cards]- 核心数据指标
-> - **400% 专利激增** 1988–2003 年间全美大学教师年专利授权量由 800 项上升至 3200 项。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
-> - **71 亿美元规模** 2023 年美国大学获得的产业界合作研发资助总额突破 71 亿美元。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
-> - **联邦资助占比下降** 联邦研发拨款占高校研究总支出的比重由 1991 年的 ~70% 持续滑落至 2021 年的 <60%。
+> - **400%** （专利激增） 1988–2003 年间全美大学教师年专利授权量由 800 项上升至 3200 项。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
+> - **\$7.1B** （规模） 2023 年美国大学获得的产业界合作研发资助总额突破 71 亿美元。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
+> - **~70% → <60%** （联邦资助占比下降） 联邦研发拨款占高校研究总支出的比重由 1991 年的 ~70% 持续滑落至 2021 年的 <60%。
 > - **\$35m vs \$500m+** 紫杉醇案例中 NIH 收回的全部版税总额（3500 万美元）对比仅联邦医保 Medicare 购买该药支出的总额（超 5 亿美元），量化揭示了公共去风险与私人暴利的悬殊反差。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–196)]]
 
 ---

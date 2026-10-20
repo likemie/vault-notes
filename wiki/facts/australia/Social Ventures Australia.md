@@ -68,7 +68,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Social Ventures Australia
@@ -149,14 +149,14 @@ updated: 2026-10-17
 > - **跨界精英网络统摄** 构筑了涵盖麦肯锡前高管、跨国投行理事、力拓前高管及最高教育行政长官的人事[[Co-affiliation\|共同从属]]闭环（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 > [!stat-cards]- 核心规模数据（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）
-> - **1.5 亿澳元** 旗下管理的[[Social Impact Investing\|社会影响力投资]]基金总资产规模（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
-> - **1000 万澳元** 旗下营利性商业咨询部门（SVA Consulting）的年营业额（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
-> - **5000 万澳元** 游说促成联邦与各州向 AERO 拨付的公共财政启动资金（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
-> - **1,216,000 澳元 vs 625,000 澳元** 2021 年度从政府获得直接财政补贴与对外发放赠款总额，对外资助仅占政府拨款的 51%（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
-> - **1500 万澳元** 获得的联邦保密投标资助，官员明令竞标期间不得公开政府支持（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]]）。
-> - **50 所学校** 发起的亮点学校连接项目重塑试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
-> - **4 家子公司** 依据《公司法》建立的四层控股子公司架构总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
-> - **17 份官方档案** ASIC 付费提取的企业注册执照、章程与董事变更档案总数（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]]）。
+> - **A\$150M** 旗下管理的[[Social Impact Investing\|社会影响力投资]]基金总资产规模（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
+> - **A\$10M** 旗下营利性商业咨询部门（SVA Consulting）的年营业额（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
+> - **A\$50M** 游说促成联邦与各州向 AERO 拨付的公共财政启动资金（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
+> - **A\$1,216,000 / A\$625,000** 2021 年度从政府获得直接财政补贴与对外发放赠款总额，对外资助仅占政府拨款的 51%（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
+> - **A\$15M** 获得的联邦保密投标资助，官员明令竞标期间不得公开政府支持（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]]）。
+> - **50** （学校） 发起的亮点学校连接项目重塑试点的低[[Socioeconomic Status|社会经济地位]]公立学校总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
+> - **4** （子公司） 依据《公司法》建立的四层控股子公司架构总数（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
+> - **17** （官方档案） ASIC 付费提取的企业注册执照、章程与董事变更档案总数（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]]）。
 
 ---
 

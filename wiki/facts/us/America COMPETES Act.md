@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-20
 ---
 
 # America COMPETES Act
@@ -103,9 +103,9 @@ updated: 2026-10-09
 > - **象征性立法与实质性预算落差** 揭示了美国科技政策治理中的深层体制悖论：两党极易就宏大的[[Competitiveness|国家竞争力]]战略愿景（授权法案）达成共识，但在具体的常规年度拨款分配中却受制于财政赤字与党派博弈，导致高校与科研机构的账面红利严重缩水。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 > [!stat-cards]- 核心数据
-> - **28 个新项目** 《美国竞争法案》及其再授权法案所创设的政策与资助项目总数。
+> - **28** （新项目） 《美国竞争法案》及其再授权法案所创设的政策与资助项目总数。
 > - **1 / 28** 政府问责局（GAO）审计确证最终拿到全额拨款并落实的新项目比例。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
-> - **10 年** 法案最初规划实现 [[National Science Foundation|NSF]] 与 [[Department of Energy|DOE]] 科学办公室基础科研预算翻倍的时间跨度。
+> - **10 yr** 法案最初规划实现 [[National Science Foundation|NSF]] 与 [[Department of Energy|DOE]] 科学办公室基础科研预算翻倍的时间跨度。
 
 ---
 

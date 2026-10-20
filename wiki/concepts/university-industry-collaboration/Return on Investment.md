@@ -108,7 +108,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Return on Investment
@@ -319,12 +319,12 @@ updated: 2026-10-16
 ## 实证数据
 
 > [!stat-cards]- 核心规模数据
-> - **139 个国家** 普萨查罗普洛斯等人构建的[[World Bank\|世界银行]]教育回报率大样本库覆盖的全球主权国家总数。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
-> - **1,120 项估算** 跨越 60 年教育投资回报文献收录的独立收益率测算指标条目数。
-> - **约 9%–10%** 全球劳动力市场平均[[Educational Level\|受教育年限]]的私人收益率基准值（每增加一年教育预期增收约 9%）。
-> - **121.6 万澳元 vs 62.5 万澳元** [[Social Ventures Australia\|SVA]] 依据 SROI [[Discourse|话语]]在 2021 年吸纳的直接政府财政补贴与对外发放赠款净额对比，资助仅占政府拨款的 51%。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 527)]]
+> - **139** （国家） 普萨查罗普洛斯等人构建的[[World Bank\|世界银行]]教育回报率大样本库覆盖的全球主权国家总数。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **1,120** （估算） 跨越 60 年教育投资回报文献收录的独立收益率测算指标条目数。
+> - **≈9%–10%** 全球劳动力市场平均[[Educational Level\|受教育年限]]的私人收益率基准值（每增加一年教育预期增收约 9%）。
+> - **A\$1.216M / A\$625K** [[Social Ventures Australia\|SVA]] 依据 SROI [[Discourse|话语]]在 2021 年吸纳的直接政府财政补贴与对外发放赠款净额对比，资助仅占政府拨款的 51%。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 527)]]
 > - **23.3% vs 76.7%** 新西兰最大永久留本慈善信托 [[Foundation North]]（净资产 12.15 亿纽币）在 2010–2015 年间年均对外资助总额仅占其年投资收益的 23.3%，其余 76.7% 均留存滚动再投资。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. xiii)]]
-> - **2000 万纽币** Foundation North 设立毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项并开展 EROI 与 SROI 评估的战略总投入。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. 106–107)]]
+> - **NZ\$20M** Foundation North 设立毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项并开展 EROI 与 SROI 评估的战略总投入。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. 106–107)]]
 
 > [!ref-table]- 跨尺度投资回报实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

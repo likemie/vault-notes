@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # NSF Broader Impacts Criterion
@@ -135,9 +135,9 @@ updated: 2026-10-16
 > - **选拔扭曲的政策指控** 2026 年 [[Office of Science and Technology Policy|OSTP]] 报告称，该准则起初是要让纳税人的钱有社会收益，后来扭曲了选拔。2021 年到 2024 年，新的 [[National Science Foundation|NSF]] 资助里聚焦多样性、公平和包容倡议的份额，从不到一个百分点升到四分之一以上。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]] 这一指控与樊春良将该准则读成问责硬核化的评价并列保留。
 
 > [!stat-cards]- 核心数据
-> - **双核心准则** 与“学术价值”并列为 [[National Science Foundation|NSF]] 资助决策不可替代的两大法定基石。
-> - **实施节点** 2010 年正式实施形式审查一票否决制。
-> - **<1% → 1/4 以上** 2021–2024 年新的 NSF 资助中，聚焦多样性、公平和包容倡议的份额。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> - **2** （双核心准则） 与“学术价值”并列为 [[National Science Foundation|NSF]] 资助决策不可替代的两大法定基石。
+> - **2010** （实施节点） 2010 年正式实施形式审查一票否决制。
+> - **<1% → ≥1/4** 2021–2024 年新的 NSF 资助中，聚焦多样性、公平和包容倡议的份额。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 ---
 

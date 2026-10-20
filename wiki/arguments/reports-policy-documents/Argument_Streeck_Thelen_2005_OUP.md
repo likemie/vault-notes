@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-20
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"
@@ -356,8 +356,8 @@ issuing_organization: ""
 > 5. **[[Liberalization|自由化]]演进与渐变机制的高度亲和性** 自由化改革依赖个体的退出冲动而非大规模集体动员，使得五大渐变形态成为当代西方资本主义国家推行市场化重组的主导路径。（pp. 31–34）
 
 > [!stat-cards]- 经验比较跨度
-> - **5 大核心工业国** 覆盖德国、法国、美国、英国、日本等[[Varieties of Capitalism|资本主义多样性]]核心国家。（pp. 3–5, 17–33）
-> - **9 篇专题经验研究** 综合全书 9 个章节在劳资共决、养老医疗、双元培训、金融体系、竞争法与地方治理等关键领域的深度案例。（pp. 16–30）
+> - **5** （核心工业国） 覆盖德国、法国、美国、英国、日本等[[Varieties of Capitalism|资本主义多样性]]核心国家。（pp. 3–5, 17–33）
+> - **9** （篇专题经验研究） 综合全书 9 个章节在劳资共决、养老医疗、双元培训、金融体系、竞争法与地方治理等关键领域的深度案例。（pp. 16–30）
 
 ---
 

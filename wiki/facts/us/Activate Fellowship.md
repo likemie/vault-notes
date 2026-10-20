@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Activate Fellowship
@@ -129,10 +129,10 @@ updated: 2026-10-16
 > 3. **塑造“双栖”科学家与工程领军人才** 成功开辟了区别于“纯学术教职”与“大企业研发职员”的第三条职业发展道路，培育了一批既深刻通晓微观物理机理、又熟稔制造良率与市场商业逻辑的复合型领军者。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 > [!stat-cards]- 关键规模与运行数据
-> - **180+ 位** 累计入选并支持的硬科技创业学者（Activate Fellows）总数。
-> - **> 20 亿美元** 孵化企业累计撬动的后续外部私营风险投资与商业融资规模。
+> - **180+** （位） 累计入选并支持的硬科技创业学者（Activate Fellows）总数。
+> - **>\$2B** 孵化企业累计撬动的后续外部私营风险投资与商业融资规模。
 > - **> 90%** 资助期满后初创企业的长期商业存活率指标。
-> - **2 年** 创业学者进驻国家实验室并获得全额[[Non-dilutive Funding|非稀释性资助]]的核心培养周期。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
+> - **2 yr** 创业学者进驻国家实验室并获得全额[[Non-dilutive Funding|非稀释性资助]]的核心培养周期。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 
 ---
 

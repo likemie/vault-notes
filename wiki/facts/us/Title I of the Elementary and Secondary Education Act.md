@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Title I of the Elementary and Secondary Education Act
@@ -127,8 +127,8 @@ updated: 2026-10-17
 > 4. **政策生效前后支出结构高度固化** 2016–2017 至 2018–2019 三年追踪表明，投向循证实践的资金比例在 ESSA 正式生效前后仅波动 1 至 4 个百分点，立法未促发学区资源分配的实质重组。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 175–176)]]
 
 > [!stat-cards]- 核心数据
-> - **140–165 亿** 美元，美国联邦 Title I 全美年度财政拨款规模。（p. 162）
-> - **$2.88 亿** SUD 学区三年间纳入微观财务审计的 Title I 支出总额。（p. 168）
+> - **14–16.5B** 美元，美国联邦 Title I 全美年度财政拨款规模。（p. 162）
+> - **\$288M** SUD 学区三年间纳入微观财务审计的 Title I 支出总额。（p. 168）
 > - **95%–99%** 符合 ESSA Tier I–III 单项合格研究标准的资金比例范围。（p. 174）
 > - **49%–58%** 获得全量证据综合评价下积极或多半积极支持的资金比例范围。（p. 175）
 > - **20%** 采用学区全校项目统一划定且以最低证据等级进行敏感度测试时的保守积极资金比例。（p. 176）

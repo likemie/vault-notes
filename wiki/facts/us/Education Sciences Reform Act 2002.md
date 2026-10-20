@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 
 # Education Sciences Reform Act 2002
@@ -158,7 +158,7 @@ updated: 2026-10-16
 > - **行政执行层面的因果偏好惯性** 尽管法定标准相对包容，但美国教育部 2002–2007 年战略规划仍明确要求到 2004 年 75% 的因果资助项目必须采用[[Random Assignment|随机分配]]；在 2002 财年，[[Institute of Education Sciences|IES]] 资助的全部因果主张项目均采用了随机设计，显示出行政执行规程对立法意图的偏向性收紧。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
 > [!stat-cards]- 核心数据
-> - **75% 与 100%** 联邦教育部规划设定的因果研究随机分配资助目标比例，以及 IES 在 2002 财年针对[[Causality|因果推断]]主张实际资助项目中采用随机分配设计的比例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
+> - **75% / 100%** 联邦教育部规划设定的因果研究随机分配资助目标比例，以及 IES 在 2002 财年针对[[Causality|因果推断]]主张实际资助项目中采用随机分配设计的比例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
 
 ---
 

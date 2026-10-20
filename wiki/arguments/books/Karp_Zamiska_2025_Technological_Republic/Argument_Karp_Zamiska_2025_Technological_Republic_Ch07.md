@@ -83,7 +83,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-20
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch07
 
@@ -200,8 +200,8 @@ updated: 2026-10-16
 
 > [!stat-cards] 西方帝国全球份额与经济主导历史实证
 > - **74%** 英国历史学家[[Niall Ferguson|尼尔·弗格森]]（[[Niall Ferguson]]）考证16世纪崛起的西方主要帝国在1910年代控制的全球经济总产出份额。（pp. 93–94）
-> - **500 年** 西方制度与科技驱动全球经济现代化的长期优势演进跨度。
-> - **8 种** 亨廷顿文明分类所涵盖的主要文明板块与文化断层线。
+> - **500 yr** 西方制度与科技驱动全球经济现代化的长期优势演进跨度。
+> - **8** （种） 亨廷顿文明分类所涵盖的主要文明板块与文化断层线。
 
 > [!example]- 图7-2：西方帝国：领土与全球经济产出份额（16世纪至20世纪初）
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_7-2_Western_Empires_Territory_Economic_Output.jpg)

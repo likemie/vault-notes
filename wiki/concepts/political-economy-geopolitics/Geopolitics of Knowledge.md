@@ -113,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # Geopolitics of Knowledge
@@ -302,7 +302,7 @@ updated: 2026-10-17
 >   全球产出占比（购买力平价；1990年为29%）
 > - **38%**
 >   全球GDP占比（2014；2008年为21%）（Pieterse, 2018）
-> - **32亿**
+> - **3.2B**
 >   全球中产阶级人口（2016底），新增中产主要在亚洲（Kharas, 2017）
 
 关于"亚洲崛起意味着什么"，存在四种竞争性解读（中国中心论、中美对决论、多文明系统论、西方延续论），但无论接受哪种解读，亚洲崛起对全球高等教育的结构性影响都是不可否认的（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.92–96]]）。

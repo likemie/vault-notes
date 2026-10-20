@@ -71,7 +71,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-17
+updated: 2026-10-20
 subtype: report
 publication_type: report
 title: "Argument_NIST_2023_NSTC"
@@ -327,10 +327,10 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 > 4. **独立非营利运营是维持联合体公信力与活力的制度基石** 依托独立实体（[[Natcast]]）运营并引入长期多渠道财务机制，是确保中心超越行政任期、持久运行的制度保障。（pp. 21–25）
 
 > [!stat-cards]- 核心规划与预算数据
-> - **110 亿美元** 《[[CHIPS and Science Act|芯片法案]]》直接拨付用于 NSTC 及微电子先进研发项目的国家级研发总预算。（pp. 2–3）
-> - **30 亿美元** 划拨用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。（p. 26）
-> - **20 亿美元** 国防部微电子共用体建立 8 个区域中试枢纽的专项拨款。（pp. 8, 11）
-> - **3–5 年** 依据白宫 OMB 指南开展独立第三方专家评估的法定周期。（p. 23）
+> - **\$11B** 《[[CHIPS and Science Act|芯片法案]]》直接拨付用于 NSTC 及微电子先进研发项目的国家级研发总预算。（pp. 2–3）
+> - **\$3B** 划拨用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。（p. 26）
+> - **\$2B** 国防部微电子共用体建立 8 个区域中试枢纽的专项拨款。（pp. 8, 11）
+> - **3–5 yr** 依据白宫 OMB 指南开展独立第三方专家评估的法定周期。（p. 23）
 
 ---
 

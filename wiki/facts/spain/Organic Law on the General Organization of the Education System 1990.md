@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-20
 ---
 
 # Organic Law on the General Organization of the Education System 1990
@@ -153,7 +153,7 @@ updated: 2026-10-11
 > - **25%** 14 岁阶段初中学业失败率
 > - **33%（1/3）** 16 岁义务教育终点未能顺利毕业的失败率
 > - **<4%** 达到国际测评学术卓越水平的优等生比例
-> - **17 个** 事实上的区域独立教育系统
+> - **17** （个） 事实上的区域独立教育系统
 
 ---
 
