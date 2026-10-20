@@ -174,6 +174,7 @@ updated: 2026-10-21
 > - **跨国治理层面的技术化与等价空间机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）**
 >   - **投入产出系统对教育目的的技术化置换（Input/Output System Sidelining Purpose）** [[OECD|经合组织]]将绩效指标锚定于投入产出系统，将教育治理的重心从关于教育本质与目的的哲学辩论，全面置换为跨国基准对标、质量保证与资源利用效率等技术程序，使教育的有效性被窄化为对全球劳动力市场需求的适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >   - **等价空间中[[Reliability|信度]]优先于[[Construct Validity|构念效度]]与[[Ontology|本体论]]（Equivalence Space Privileging Reliability over Ontology）** 跨国绩效指标的建构极度依赖跨国[[Commensuration|通约化]]所创造的“等价空间”（Desrosières, 1998），在这一空间中，跨国横向比较的信度（Reliability）被置于高于本土情境效度与本体论（Ontology）的首要地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
+> - **跨机构数据依附与指标商品化（Inter-organizational Data Symbiosis & Commodification）** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）指出，超国家绩效指标体系的运转高度依赖现成的统计基础设施与数据交易；欧盟在里斯本战略“开放协调法”框架下监测教育基准时，其所依赖的指标数据有 50% 至 60% 直接采购自[[OECD|经合组织]]（如 UOE 联合数据采集与 PISA），揭示出超国家机构之间因研发成本与技术门槛而形成的深层数据依附与共生网络。
 
 > [!logic-map]- 绩效指标的双重属性与治理运作机制流程图
 > ```mermaid
@@ -237,6 +238,16 @@ updated: 2026-10-21
 
 ---
 
+### 命题五　超国家指标体系的建构受制于既有数据基础设施并形成跨机构资源依附
+
+> [!concept-lens] 政治社会学与跨机构网络维度：超国家指标的采购与数据基础设施依附
+> 探讨国际组织在推进基于指标的软治理时，如何受制于数据生产成本而产生跨机构采购与共生关系。
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **指标数据基础设施的垄断与跨机构采购依附** 格雷克对欧洲教育空间治理工具的解构表明，绩效指标体系的运转受制于庞大的数据基础设施与资金壁垒，体现为复杂的跨机构资源配置与采购交易。欧盟在 2000 年确立里斯本战略并运用“开放协调法”（OMC）设定教育绩效基准时，由于自身缺乏独立的大规模测评与统计采集系统，被迫向拥有先发数据优势的[[OECD|经合组织]]直接采购数据；欧盟监测指标体系中约 50%–60% 的原始与加工数据均直接购自经合组织（尤其是 UOE 联合采集数据库与 PISA）。这种跨机构数据流动表明，绩效指标在跨国治理中已演变为一种可买卖的专业数据商品，既强化了经合组织作为全球教育数据供应商与规则制定者的主导地位，亦促成了经合组织与欧盟之间“技术专业性与政治软实力”的深度制度共生。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -246,6 +257,7 @@ updated: 2026-10-21
 > | **命题二：测量的反身履行性** | 指标从评估工具异化为追求目标，引发系统性应试表演与防御性合规 | 组织行为学、教育问责制批判 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] |
 > | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、[[Evidence-Based Policy-Making\|循证决策]]批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]；Desrosières (1998) |
+> | **命题五：数据基建与跨机构依附** | 跨国指标体系受制于高额基建成本，形成数据采购依附与多边制度共生 | 超国家教育治理（欧盟与经合组织网络）、指标政治经济学 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 32)]] |
 
 ---
 
@@ -258,6 +270,7 @@ updated: 2026-10-21
 > - **1988 — [[International Indicators of Education Systems\|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education\|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）推动确立了“不完美的数据好过没有数据”的务实政策工具主义原则。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
 > - **1990s — [[World Education Indicators|世界教育指标]]（WEI）项目与多边技术同盟** OECD 联手[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（World Education Indicators, WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术经验；鲁特科夫斯基（Rutkowski, 2007）指出该技术援助背后深嵌着服务全球经济的新自由主义规范预设（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance\|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《教育概览》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 11)]]
+> - **2000s — 欧盟里斯本战略与经合组织数据采购共生** 欧盟启动里斯本战略并以开放协调法（OMC）确立教育绩效指标体系，但因数据基础设施匮乏，其监测框架中 50%–60% 的指标数据直接采购自 OECD，形成跨机构数据依附与共生网络（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
 > - **2000年代 — [[PISA]] 与心理测量跨国排名的绝对统治** 博塔尼称之为“绩效指标痴迷与心理测量比较的全面胜利”，指标体系演变为以标准分数排序决定国家教育优劣的全球问责机制，超越了单纯提供系统概况的功能。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
 > - **2010年代 — 区域记分牌与多边排他性同盟分化** [[EU|欧盟]]通过 EUROSTAT 推广区域创新记分牌（[[Regional Innovation System\|RIS]]）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
@@ -269,6 +282,7 @@ updated: 2026-10-21
 - **指标体系对区域[[Heterogeneity|异质性]]的抹平与固化** 欧盟区域创新记分牌将所有成员国区域划分为“创新领导者”与“温和创新者”，年复一年的排榜不仅未能缩小差距，反而在[[Discourse|话语]]和资本流动层面自我实现了马太效应（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 174]]）。
 - **地方执行中的差异化转译（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证）** 对 16 个欧盟地区、168 位[[Lifelong Learning|终身学习]]政策专家的实证调研显示：制度基础深厚的德语区与北欧能动地将指标“本土化”为[[Apprenticeship|学徒制]]方案；而在南欧和东欧边缘区，指标因缺乏政策承接能力沦为歧视受助青年的标签工具（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–173]]）。
 - **跨国指标规训与自主公共动员的绩效反差（[[Education for All|全民教育]] EFA 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、[[Grade Retention|留级]]率、辍学率与识字率）的跨国评估中，绝大多数接受外部结构调整与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成[[UNESCO|教科文组织]]全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
+- **超国家指标采购与数据基建依附（欧盟—经合组织共生实证）** 格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）对欧洲教育空间（EES）指标生产链条的调查显示，超国家机构内部的指标监测体系呈现出显著的资本密集度与基建壁垒。欧盟委员会在监测里斯本战略教育指标时，多达 50% 至 60% 的数据系直接向经合组织采购。这种数据采购机制不仅大幅降低了欧盟自建统计体系的政治与财政阻力，更在客观上将经合组织的数理技术范式内嵌为欧洲一体化教育治理的技术基础。
 
 ---
 
