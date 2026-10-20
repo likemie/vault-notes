@@ -131,7 +131,7 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | MQI 所归属的[[Domain Specificity\|学科特异性]]教学观察方法体系。 |

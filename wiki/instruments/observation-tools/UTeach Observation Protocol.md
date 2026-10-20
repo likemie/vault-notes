@@ -134,7 +134,7 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | UTOP 所归属的探究式课堂教学观察体系。 |

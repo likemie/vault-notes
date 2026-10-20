@@ -72,7 +72,7 @@ updated: 2026-09-29
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 项目测试了 UWC 能否以区域职业教育回应世界饥饿和南北差距。 |

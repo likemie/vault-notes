@@ -80,7 +80,7 @@ updated: 2026-10-17
 
 ## 相关条目
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[The Big Bang Fair]] | 事实 | 由 EngineeringUK 创办并主办的全国旗舰青少年 [[STEM Education\|STEM]] 博览会与竞赛。 |

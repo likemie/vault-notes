@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | Concept | 共同课程的扩展、治理与评分机制构成平衡政策的制度基础。 |

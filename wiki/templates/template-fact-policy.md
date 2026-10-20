@@ -159,7 +159,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 相关概念／理论
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

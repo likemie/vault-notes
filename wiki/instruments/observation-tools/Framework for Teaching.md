@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | FFT 所依托的微观教学观察方法系统。 |

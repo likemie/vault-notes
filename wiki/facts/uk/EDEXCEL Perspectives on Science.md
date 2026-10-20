@@ -77,7 +77,7 @@ Zemplén 将 EDEXCEL Perspectives on Science 作为 [[Theory of Knowledge|TOK]] 
 
 ## 相关条目
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

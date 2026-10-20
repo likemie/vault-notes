@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Constructivist Paradigm\|建构主义转向]] | [[Paradigm\|范式]]背景 | 强调学习者的主动自我调节（Self-regulation）与认知图式建构，取代外部控制的行为主义范式（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]）。 |

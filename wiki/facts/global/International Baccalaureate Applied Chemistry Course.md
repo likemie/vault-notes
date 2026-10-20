@@ -110,7 +110,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International School of Geneva]] | Fact / organization | 课程的校本开发机构 |

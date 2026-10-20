@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
 > | [[General Purpose Technology]] | Concept | 冯·诺依曼架构通过解耦软硬件奠定了信息技术作为通用目的技术的硬件标准。 |

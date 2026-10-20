@@ -167,7 +167,7 @@ related_arguments:
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

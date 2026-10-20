@@ -134,7 +134,7 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | OPERA 所归属的跨文化课堂教学[[Observation Method\|观察研究]]体系。 |

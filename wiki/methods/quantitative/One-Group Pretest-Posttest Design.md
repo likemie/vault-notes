@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前[[Pre-test and Post-test\|后测]]是前实验设计的典型形式 |

@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 相关概念／政策
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法[[Praxis\|实践]]。 |

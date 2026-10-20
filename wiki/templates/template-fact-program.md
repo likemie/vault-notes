@@ -122,7 +122,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

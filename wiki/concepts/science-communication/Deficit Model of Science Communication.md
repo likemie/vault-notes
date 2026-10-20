@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 赤字模型及其反思广泛应用于科学社会学、[[Public Engagement with Science|公众科学参与]]政策、教育[[Knowledge Mobilisation|知识动员]]及二阶[[Knowledge Mediation|知识中介]]建设。
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

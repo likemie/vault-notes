@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Qualification Recognition]] | Concept | OIB 借国家资格同时取得大学和专业效力。 |

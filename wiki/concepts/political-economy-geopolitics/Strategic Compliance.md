@@ -154,7 +154,7 @@ updated: 2026-10-17
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为行动者类型学（Table 1.3）与联盟博弈提供核心微观机制支柱。 |

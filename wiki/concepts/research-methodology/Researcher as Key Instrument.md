@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 研究者作为工具是诠释/自然主义[[Paradigm|范式]]的核心公理之一（Boas, 1943; Blumer, 1969; Lincoln & Guba, 1985; Woods, 1992; LeCompte & Preissle, 1993）。该公理派生出几个相互关联的[[Epistemology|认识论]]承诺：
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|

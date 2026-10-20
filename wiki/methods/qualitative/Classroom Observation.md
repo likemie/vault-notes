@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Structured Observation]] | 上位方法 | 教学观察是结构化观察在学校课堂情境中的典型具象化发展。 |

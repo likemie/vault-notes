@@ -21551,7 +21551,9 @@ body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-
 body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content th { white-space: normal; text-align: left; }
 body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content td:first-child { font-weight: 550; }
 body .callout.callout.callout:is([data-callout="entry-map"]) > .callout-content table { min-width: 0 !important; }
-body .callout.callout.callout:is([data-callout="entry-map"]) > .callout-content td:nth-child(2) { color: var(--ac-muted); font-size: .92em; white-space: nowrap; }
+body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content table { table-layout: auto; min-width: 0 !important; }
+body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content :is(th, td) { white-space: normal !important; overflow-wrap: anywhere; word-break: normal; }
+body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content :is(th, td):first-child { min-width: 7em; }
 body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content > :not(table, .table-wrapper) + :is(table, .table-wrapper),
 body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content > :is(table, .table-wrapper) + :not(table, .table-wrapper) { margin-top: .8rem; }
 
@@ -21911,7 +21913,7 @@ body .callout.callout.callout:is([data-callout="tension"]) > .callout-content ta
 body .callout.callout.callout:is([data-callout="tension"]) > .callout-content table tr:last-child > td { border-bottom: 0 !important; }
 body .callout.callout.callout:is([data-callout="tension"]) > .callout-content table :is(th, td):first-child {
   width: 7.5em; padding-left: 0 !important; color: var(--ac-muted) !important;
-  font-size: .9em; font-weight: 600 !important; white-space: nowrap;
+  font-size: .9em; font-weight: 600 !important; white-space: normal;
 }
 body .callout.callout.callout:is([data-callout="tension"]) > .callout-content table :is(th, td):first-child a { color: inherit; }
 /* 表头：阵营名 + 顶部 2px 阵营色 */
@@ -22054,17 +22056,17 @@ body .callout.callout.callout[data-callout="interdependence"]:not(:has(> .callou
 }
 
 
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) { position: relative; padding: .2rem 0 0 !important; margin: 0 !important; list-style: none !important; }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul)::before { display: none !important; }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li {
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) { position: relative; padding: .2rem 0 0 !important; margin: 0 !important; list-style: none !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul)::before { display: none !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li {
   position: relative !important; list-style: none !important;
   margin: 0 !important; padding: 0 0 1.35rem 2.75rem !important; min-height: 2.2rem;
 }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li:last-child { padding-bottom: .1rem !important; }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li::marker { content: none; }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li > .list-bullet { display: none !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li:last-child { padding-bottom: .1rem !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li::marker { content: none; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li > .list-bullet { display: none !important; }
 /* 节点：实心强调色圆 + 白色序号 */
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li::before {
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li::before {
   position: absolute !important; left: 0 !important; top: .05rem !important; transform: none !important;
   width: 1.7rem !important; height: 1.7rem !important; border-radius: 50% !important;
   display: flex !important; align-items: center; justify-content: center;
@@ -22074,7 +22076,7 @@ body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-lin
   z-index: 2;
 }
 /* 连接线 + 向下箭头（最后一步没有） */
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li::after {
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li::after {
   content: "" !important; display: block !important; position: absolute !important;
   left: calc(.85rem - 5px) !important; top: 2.05rem !important; bottom: .3rem !important; width: 10px !important; height: auto !important;
   border: 0 !important; border-radius: 0 !important; box-shadow: none !important; opacity: 1 !important;
@@ -22082,11 +22084,34 @@ body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-lin
     linear-gradient(var(--ac-edge), var(--ac-edge)) center top / 1.5px calc(100% - 6px) no-repeat,
     conic-gradient(from 315deg at 50% 100%, var(--ac-edge) 0 90deg, transparent 90deg) center bottom / 10px 7px no-repeat !important;
 }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li:last-child::after { display: none !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li:last-child::after { display: none !important; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li > strong:first-of-type + br { display: none; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li > p { margin: 0 !important; }
 /* 步骤名独占一行，正文在下 */
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li > strong:first-of-type,
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li > p:first-child > strong:first-of-type {
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li > p:first-child > strong:first-of-type {
   display: block !important; margin: .12rem 0 .25rem !important; padding: 0 !important;
   color: var(--text-normal) !important; font-size: 1em !important; font-weight: 650 !important; line-height: 1.5;
 }
-body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"]) > .callout-content > :is(ol, ul) > li { color: color-mix(in srgb, var(--text-normal) 82%, var(--background-primary)); line-height: 1.75; font-size: .95em; }
+body .callout.callout.callout:is([data-callout="proc"], [data-callout="chain-link"], [data-callout="phase"]) > .callout-content > :is(ol, ul) > li { color: color-mix(in srgb, var(--text-normal) 82%, var(--background-primary)); line-height: 1.75; font-size: .95em; }
+
+
+/* phase：节点显示 01 / 02 两位序号（阶段），节点为圆角方形以区别于操作步骤 */
+body .callout.callout.callout:is([data-callout="phase"]) > .callout-content > :is(ol, ul) > li::before {
+  content: counter(phase-item, decimal-leading-zero) !important; border-radius: 6px !important;
+  width: 1.9rem !important; min-width: 0 !important; max-width: 1.9rem !important; height: 1.7rem !important;
+  left: -.1rem !important; padding: 0 !important; margin: 0 !important; letter-spacing: 0 !important; text-transform: none !important;
+}
+body .callout.callout.callout:is([data-callout="phase"]) > .callout-content > :is(ol, ul) > li > strong:first-of-type {
+  font-size: 1.02em !important; background: none !important; border: 0 !important; box-shadow: none !important;
+}
+
+
+/* |notitle：未写标题的组件只显示眉标，不重复显示 Obsidian 自动补的类型名 */
+body .callout.callout.callout[data-callout-metadata~="notitle"] > .callout-title {
+  margin: 0 0 .6rem !important; padding: 0 !important; border-bottom: 0 !important;
+}
+body .callout.callout.callout[data-callout-metadata~="notitle"] > .callout-title .callout-title-inner { font-size: 0 !important; line-height: 0 !important; }
+body .callout.callout.callout[data-callout-metadata~="notitle"] > .callout-title .callout-title-inner::before {
+  font-size: 10.5px !important; line-height: 1.5 !important; margin: 0 !important;
+}

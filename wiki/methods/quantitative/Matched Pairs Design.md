@@ -117,7 +117,7 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——配对设计是真实验的一种变体 |

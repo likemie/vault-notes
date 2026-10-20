@@ -89,7 +89,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | Concept | 危机揭示共同课程扩张必须配套中央和区域财政制度。 |

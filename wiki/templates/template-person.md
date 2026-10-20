@@ -160,7 +160,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

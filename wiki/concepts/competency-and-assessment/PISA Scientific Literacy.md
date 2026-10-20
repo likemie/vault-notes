@@ -181,7 +181,7 @@ updated: 2026-10-17
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[PISA]] | Fact | 宏观发起与常设运营主体；PISA [[Scientific Literacy\|科学素养]]为该评估三大核心轮换主测领域之一。 |

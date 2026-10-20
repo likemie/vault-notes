@@ -327,7 +327,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

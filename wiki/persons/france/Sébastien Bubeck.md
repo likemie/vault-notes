@@ -87,7 +87,7 @@ updated: 2026-10-17
 > - **学术合作团队** 微软研究院跨学科团队（Ronan Eldan, John Krumm, Yin Tat Lee, Yuanzhi Li 等）。
 > - **时代对话者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述其独角兽绘图与常识测试，论证人工智能对人类[[Creativity|创造力]]与语言垄断地位的根本性冲击。
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -103,7 +103,7 @@ Klahr 的实证研究构成了[[International Education|国际教育]]学界探�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

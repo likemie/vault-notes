@@ -3,7 +3,7 @@
   "root": "/Users/shaoyangwu/Documents/MyNotes",
   "created": "2026-10-20T15:25:43.422318+00:00",
   "argument": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
-  "argument_hash": "3046293a3010f8665d4ace8677dc4a9de536dfc96d2e36b4bcde83ffc8a7cfbe",
+  "argument_hash": "4ced9e35bd981eea763236a992d17d4cff92454784d5b165f11f7f505597a543",
   "batches": [
     {
       "number": 1,
@@ -264,7 +264,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -300,7 +300,8 @@
             "related_concepts"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-20T16:57:55.679092+00:00"
     },
     {
       "number": 5,

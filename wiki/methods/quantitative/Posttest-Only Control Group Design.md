@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Pretest-Posttest Control Group Design]] | 方法 | 互补设计——有[[Pre-test and Post-test\|前测]]时使用，担心前测时使用本设计 |

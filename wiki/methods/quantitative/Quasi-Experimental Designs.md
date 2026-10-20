@@ -288,7 +288,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Campbellian Validity Framework]] | 理论 | 为准实验设计提供四大效度体系（[[Internal Validity\|内部效度]]、[[External Validity\|外部效度]]、[[Construct Validity\|构念效度]]、统计结论效度）及效度威胁排除逻辑。 |

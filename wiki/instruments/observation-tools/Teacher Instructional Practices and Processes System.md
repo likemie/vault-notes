@@ -127,7 +127,7 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | TIPPS 所归属的脆弱低资源情境教学观察方法分支。 |

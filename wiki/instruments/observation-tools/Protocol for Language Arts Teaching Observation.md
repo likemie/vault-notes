@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | [[Plato]] 所归属的[[Domain Specificity\|学科特异性]]教学观察方法体系。 |

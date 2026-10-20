@@ -129,7 +129,7 @@ updated: 2026-10-16
 
 ## 相关概念／政策
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[The Importance of Teaching]] | 政策事实 | 2010 年白皮书开启了向校本 [[Initial Teacher Training\|ITT]] 转移的大方向，卡特审查为其后续落地提供了系统评估与标准建构。 |

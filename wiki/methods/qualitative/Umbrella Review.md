@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
 > | [[Meta-meta-analysis]] | 兄弟方法 | 伞状综述侧重横向比较与质量分级，二阶[[Meta-analysis\|元分析]]侧重统计加权与多水平方差分解。 |

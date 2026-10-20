@@ -120,7 +120,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 剖析回形针行动体现的不拘成见、放下虚荣与以[[Hard Power|硬实力]]为先的[[Engineering Pragmatism|工程实用主义]][[Epistemology|认识论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, p. 161]]）。
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

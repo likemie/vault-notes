@@ -152,7 +152,7 @@ updated: 2026-10-16
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 双维解释矩阵（Table 1.2）的宏观结构维度。 |

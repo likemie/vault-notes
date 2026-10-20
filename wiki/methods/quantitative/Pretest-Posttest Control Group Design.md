@@ -99,7 +99,7 @@ $$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——前后测控制组设计是最经典的[[True Experimental Design\|真实验设计]]形式 |

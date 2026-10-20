@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为[[Subversives\|颠覆者]]角色提供地下室白蚁微观机制表述，其早期理论直接触发了渐进变迁对连续性偏误的突破。 |

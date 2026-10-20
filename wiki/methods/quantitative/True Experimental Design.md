@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——真实验是实验研究中[[Internal Validity\|内部效度]]最高的形式 |

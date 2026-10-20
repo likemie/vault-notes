@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 会议集中评估 UWC 的网络规模、共同使命和财政问题。 |

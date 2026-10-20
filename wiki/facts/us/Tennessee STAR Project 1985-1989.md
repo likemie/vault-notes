@@ -193,7 +193,7 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

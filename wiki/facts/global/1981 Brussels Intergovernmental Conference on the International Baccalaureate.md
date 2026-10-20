@@ -98,7 +98,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[1976 Hague Intergovernmental Conference on the International Baccalaureate]] | Fact | 海牙会议先把 IB 的存续与政府共同责任联系起来。 |

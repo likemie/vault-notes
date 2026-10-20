@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | 组织 | 该校是 UWC 在美国的快速创校案例。 |

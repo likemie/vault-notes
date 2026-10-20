@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——参数设计是真实验的一种变体 |

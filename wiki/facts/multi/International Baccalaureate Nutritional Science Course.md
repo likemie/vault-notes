@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | 事实 (机构) | 东南亚书院提供课程开发场景 |

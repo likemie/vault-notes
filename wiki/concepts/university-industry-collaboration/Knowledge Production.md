@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 111
+related_count: 116
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"

@@ -132,7 +132,7 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | SCOPE 所依托的基于标准的教学观察方法系统。 |

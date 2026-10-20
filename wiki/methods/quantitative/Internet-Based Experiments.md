@@ -129,7 +129,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——网络实验是传统实验在远程环境中的延伸，共享操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]、[[Random Assignment\|随机分配]]等核心逻辑 |

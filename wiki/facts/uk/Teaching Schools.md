@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 相关概念／政策
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Self-Improving School System]] | 概念 | 教学学校是该治理取向中承担专业发展与研究发展的核心组织形式。 |

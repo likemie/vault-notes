@@ -110,7 +110,7 @@ updated: 2026-10-20
 >     end
 > ```
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 构件名称 | 构件类型 | 在德尔菲共识框架中的功能 |
 > |---|---|---|
 > | **六大认知技能（Cognitive Skills）** | 技能维度 | 提供了[[Critical Thinking\|批判性思维]]的严密[[Operationalization\|操作化]]定义与测量判据，成为 CCTST、WGCTA 等标准化量表编制的理论母体。 |

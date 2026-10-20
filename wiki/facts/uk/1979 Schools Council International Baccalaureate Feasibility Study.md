@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[N and F Proposals]] | Fact | 两套课程结构的接近促使 IB 被视为可试验的改革工具。 |

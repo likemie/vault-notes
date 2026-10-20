@@ -249,7 +249,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
 > | [[Central Limit Theorem]] | 理论 | 为均值[[Sampling Error\|抽样分布]]呈正态性及标准误公式推导提供数理极限支撑。 |

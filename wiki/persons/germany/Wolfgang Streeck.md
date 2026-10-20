@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 条目关联
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为渐进变迁理论提供五分形态学（置换/层叠/漂移/转换/耗竭）与“规则设计与践行脱节”的元理论基石。 |

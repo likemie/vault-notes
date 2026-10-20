@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 核心构件（4P） | 构件类型 | 心理测量与[[Operationalization\|操作化]]指向 | 在理论中的核心功能与实证机制（[[Meta-meta-analysis\|二阶元分析]]基准） |
 > |:---|:---|:---|:---|

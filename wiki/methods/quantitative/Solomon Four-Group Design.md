@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Factorial Design]] | 方法 | 母设计——所罗门四组是 2 × 2 因子设计的特例，其中"是否有[[Pre-test and Post-test\|前测]]"作为一个因子 |

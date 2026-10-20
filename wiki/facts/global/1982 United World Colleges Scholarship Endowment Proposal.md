@@ -57,7 +57,7 @@ updated: 2026-10-07
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 共同基金拟为书院网络提供长期奖学金保障。 |

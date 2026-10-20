@@ -315,7 +315,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

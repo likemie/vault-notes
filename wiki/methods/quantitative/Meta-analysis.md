@@ -433,7 +433,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
 > | [[Baseline Standardized Mean Difference]] | 前置质控方法 | 检验初级研究处理组与对照组[[Pre-test and Post-test\|前测]]可比性、确立 0.25 SD 准入门槛的核心指标 |

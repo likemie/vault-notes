@@ -133,7 +133,7 @@ CLASS 将复杂的课堂师生互动解构为三大支柱领域与十个核心�
 
 ## 相关条目网络
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | CLASS 所属的外部教学观察方法体系枢纽。 |

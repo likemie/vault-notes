@@ -183,7 +183,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Structured Observation]] | 上位方法 | 时间抽样法是结构化[[Classroom Observation\|课堂观察]]的核心数据采集技术之一。 |

@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ---
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Sinicisation]] | 概念 | 其史学叙事将非汉政权接受汉文化塑造成文明进步的显性[[Sinicisation\|汉化]]范式。 |

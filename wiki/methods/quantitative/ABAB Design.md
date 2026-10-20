@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Single-Case Design]] | 方法 | 母方法——ABAB 是单一案研究中最经典的实验格式 |

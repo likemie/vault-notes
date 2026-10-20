@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 相关理论与方法
 
-> [!entry-map]
+> [!entry-map|notitle]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Potential Outcomes Framework]] | 理论 | 匹配的[[Causality\|因果推断]]逻辑直接建立在潜在结果框架之上 |
