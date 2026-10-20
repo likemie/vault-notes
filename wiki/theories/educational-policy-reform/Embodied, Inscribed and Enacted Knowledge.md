@@ -1,21 +1,25 @@
 ---
 title: Embodied, Inscribed and Enacted Knowledge
 aliases:
+  - 具身、文本化与践行知识
   - 具身、铭写与践行知识
+  - 具身、铭刻与践行知识
   - 知识的三相形态
   - 具身知识
+  - 文本化知识
   - 铭写知识
+  - 铭刻知识
   - 践行知识
   - embodied knowledge
   - inscribed knowledge
   - enacted knowledge
   - embodied inscribed and enacted knowledge
-summary: 弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的铭写知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化
+summary: "弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的文本化知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化"
 type: theory
-theory_field: educational-policy-reform
+theory_field: "educational-policy-reform"
 theory_related_count: 13
 theory_related_level: 1
-theory_related_stars: ⭐
+theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
 tags:
   - theory/knowledge
@@ -62,10 +66,10 @@ updated: 2026-10-20
 > - **知识位置** 位于政策社会学、组织知识与实践理论之间。它承接[[Tacit Knowledge|默会知识]]对“知道如何”（[[Procedural Knowledge|knowing how]]）的关注，也接近[[Communities of Practice|实践共同体]]与政策转译研究，但更强调知识形态之间的相互转化，而非单一类型的知识。
 
 > [!claim] 核心判断
-> 知识以多种形态存在。政策工作中的知识至少可以区分出三种形态：具身知识（embodied knowledge）依附于人体，包括默会与口头知识，只有随人移动才能流动；铭写知识（inscribed knowledge）写入文本、图像、图表、工具与规程，可移动、易复制；践行知识（enacted knowledge）是前两者被投入行动时生成的知识，高度可变、不可预测，且只在实际执行中持续。三者在政策过程中会相互转化：会议中的口头协商可以变成文本，文本又可以成为新一轮行动的依据。因此，理解政策工作中的知识，不能只问“用了什么证据”，还要问知识以什么形态存在、由谁携带、在何处被固化、又在何时被重新践行。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
+> 知识以多种形态存在。政策工作中的知识至少可以区分出三种形态：具身知识（embodied knowledge）依附于人体，包括默会与口头知识，只有随人移动才能流动；文本化知识（inscribed knowledge，亦译铭刻知识）写入文本、图像、图表、工具与规程，可移动、易复制；践行知识（enacted knowledge）是前两者被投入行动时生成的知识，高度可变、不可预测，且只在实际执行中持续。三者在政策过程中会相互转化：会议中的口头协商可以变成文本，文本又可以成为新一轮行动的依据。因此，理解政策工作中的知识，不能只问“用了什么证据”，还要问知识以什么形态存在、由谁携带、在何处被固化、又在何时被重新践行。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
 
-> [!citation-card]- 三种知识形态的原始界定
-> 具身知识局限于人体，包括默会与口头知识，只有人体移动时才能移动。铭写知识写在文本中，表现在图像与图表中，或嵌入代表世界、中介并告知我们与世界互动的工具与仪器中；这类知识可移动且易于复制。践行知识则指对前两个阶段知识所做的行动。弗里曼与斯特迪认为，知识在被投入工作或付诸行动之前没有意义。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
+> [!citation-card] 三种知识形态的原始界定
+> 具身知识局限于人体，包括默会与口头知识，只有人体移动时才能移动。铭刻/文本化知识写在文本中，表现在图像与图表中，或嵌入代表世界、中介并告知我们与世界互动的工具与仪器中；这类知识可移动且易于复制。践行知识则指对前两个阶段知识所做的行动。弗里曼与斯特迪认为，知识在被投入工作或付诸行动之前没有意义。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
 >
 > *Embodied knowledge is confined to human bodies, including tacit and verbal knowledge, and is only mobile when human bodies move. Inscribed knowledge is written in texts, represented in pictures and diagrams, or incorporated in instruments and tools that represent the world and mediate and inform our interactions with the world. This type of knowledge is mobile and easy to reproduce. Finally, enacted knowledge denotes what is done with the two former phases of knowledge. Freeman and Sturdy (2014) argue that knowledge is meaningless until it is put to work or acted on.*
 
@@ -90,8 +94,8 @@ updated: 2026-10-20
 > | 构件 | 定义 | 在政策工作中的表现 |
 > |:-----|:-----|:-----|
 > | **具身知识（Embodied Knowledge）** | 依附于人体、包括默会与口头知识的知识；只能随人移动。 | 督导者从旧机构带来的经验、管理者对“什么重要”的判断、研究者对教师处境的了解。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 644, 648, 650)]]
-> | **铭写知识（Inscribed Knowledge）** | 写入文本、图像、图表、工具与规程，可移动、易复制的知识。 | 教育法、督导指令、评估领域、流程说明、术语表、知识综述、最终报告。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 646–648, 651–652)]]
-> | **践行知识（Enacted Knowledge）** | 把具身与铭写知识投入行动时生成的知识；高度可变、不可预测、具集体性。 | 工作组会议中的提议与反驳、参考组对“良好范例”的争论、项目负责人对规则与建议的斡旋。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 644, 650–651, 654)]]
+> | **文本化知识（Inscribed Knowledge，亦译铭刻知识）** | 写入文本、图像、图表、工具与规程，可移动、易复制的知识。 | 教育法、督导指令、评估领域、流程说明、术语表、知识综述、最终报告。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 646–648, 651–652)]]
+> | **践行知识（Enacted Knowledge）** | 把具身与文本化知识投入行动时生成的知识；高度可变、不可预测、具集体性。 | 工作组会议中的提议与反驳、参考组对“良好范例”的争论、项目负责人对规则与建议的斡旋。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 644, 650–651, 654)]]
 > | **知识转化（Knowledge Transformation）** | 三种形态之间的移动：会议中的说法被写成文本，文本又成为下一轮行动的依据。 | 评估领域的协商结果被写入督导指令；参考组意见在最终报告中被删除或保留。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 644, 648, 651–652)]]
 > | **知识拼接（Stitching Together Knowledge）** | 行动者在具体情境中把不同形态、不同来源的知识连接起来的能力。 | 督导者与项目负责人把机构规则、管理层意图、研究者建议与自身经验连接成可执行的判断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, p. 654)]]
 
@@ -99,20 +103,20 @@ updated: 2026-10-20
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜知识以具身、铭写与践行三种形态存在，三者可以相互转化
+> [!theory-proposition] 命题一｜知识以具身、文本化与践行三种形态存在，三者可以相互转化
 > **解释** 三种形态对应同一知识过程的不同阶段，不宜视为三个独立的知识仓库。人的经验可以被说出来、写下来，成为文本；文本也可以被重新阅读、解释和修改，成为行动的依据。形态转换本身就是政策工作的一部分。
 >
-> **应用实例** 常规督导工作组先在会议中提出“考察成功学校”，再把这一提议转成评估领域，写入督导指令与学校指南。会议中的说法是践行知识，评估领域是铭写知识，而推动提议的既有研究训练与督导经验则是具身知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–648)]]
+> **应用实例** 常规督导工作组先在会议中提出“考察成功学校”，再把这一提议转成评估领域，写入督导指令与学校指南。会议中的说法是践行知识，评估领域是文本化知识，而推动提议的既有研究训练与督导经验则是具身知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–648)]]
 
 > [!theory-proposition] 命题二｜不同形态的可移动性与稳定性不同，因而适用于不同的政策用途
-> **解释** 铭写知识可复制、可远距离传播，适合形成统一标准与跨情境治理；具身知识只能随人移动，适合传递难以文本化的判断与技艺；践行知识只在行动中存在，适合协商、转译与应对不确定性。政策行动者若只依赖一种形态，就会在覆盖范围、灵活性和合法性之间失衡。
+> **解释** 文本化知识可复制、可远距离传播，适合形成统一标准与跨情境治理；具身知识只能随人移动，适合传递难以文本化的判断与技艺；践行知识只在行动中存在，适合协商、转译与应对不确定性。政策行动者若只依赖一种形态，就会在覆盖范围、灵活性和合法性之间失衡。
 >
-> **应用实例** [[Socioscientific Issues|SSI]] 以评估领域、流程说明、术语表和知识综述建立统一的督导标准，这是铭写知识的治理优势；但评估领域需要督导者解释，参考组需要研究者临场判断，最终报告需要传播秘书处编辑，这些都依赖具身与践行知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648, 650–652)]]
+> **应用实例** [[Swedish Schools Inspectorate|瑞典学校督察局]]（SSI）以评估领域、流程说明、术语表和知识综述建立统一的督导标准，这是文本化知识的治理优势；但评估领域需要督导者解释，参考组需要研究者临场判断，最终报告需要传播秘书处编辑，这些都依赖具身与践行知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648, 650–652)]]
 
-> [!theory-proposition] 命题三｜铭写知识在定稿前可被操纵，稳定文本背后是权力关系
-> **解释** 铭写知识一旦定稿就显得客观、稳定、可复制，但它在成为最终文本之前，会经过起草、协商、删改和编辑。哪些说法被写入、哪些被删除，取决于机构内部的权力关系与编辑流程。因此，文本的稳定性不等于内容的共识性。
+> [!theory-proposition] 命题三｜文本化知识在定稿前可被操纵，稳定文本背后是权力关系
+> **解释** 文本化知识一旦定稿就显得客观、稳定、可复制，但它在成为最终文本之前，会经过起草、协商、删改和编辑。哪些说法被写入、哪些被删除，取决于机构内部的权力关系与编辑流程。因此，文本的稳定性不等于内容的共识性。
 >
-> **应用实例** 质量审计的参考组讨论过课程难以理解、教师处境受忽视等解释，但传播秘书处在定稿前“清理”报告，最终只保留教师不自信的结论。铭写知识在永久化之前始终可被操纵。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–652)]]
+> **应用实例** 质量审计的参考组讨论过课程难以理解、教师处境受忽视等解释，但传播秘书处在定稿前“清理”报告，最终只保留教师不自信的结论。文本化知识在永久化之前始终可被操纵。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–652)]]
 
 ---
 
@@ -125,7 +129,7 @@ updated: 2026-10-20
 > | 分析维度 | 识别标志 | 需要追问的问题 |
 > |---|---|---|
 > | **具身知识** | 经验、判断、默会技巧、人员履历、机构记忆 | 谁携带了哪些难以文本化的知识？这些知识如何进入决策？人员流动带走了什么？ |
-> | **铭写知识** | 法律文本、指令、指南、流程说明、术语表、综述、报告 | 哪些知识被写入文本？文本由谁起草、谁审定？定稿前删改了哪些内容？ |
+> | **文本化知识** | 法律文本、指令、指南、流程说明、术语表、综述、报告 | 哪些知识被写入文本？文本由谁起草、谁审定？定稿前删改了哪些内容？ |
 > | **践行知识** | 会议、协商、争论、转译、临场调整 | 行动者如何在具体情境中连接规则与判断？哪些知识只在现场出现、事后消失？ |
 > | **形态转化** | 从说到写、从写到做、从做再回到写 | 哪些说法被固化为文本？哪些文本被重新解释？转化过程中谁获得或失去发言权？ |
 > | **治理效果** | 分类、标准、共同理解、合法性 | 知识形态的组合如何使实践变得可见、可比较、可控？谁因此获得治理权力？ |
@@ -133,7 +137,7 @@ updated: 2026-10-20
 ### 整体分析示例
 
 > [!exegesis]- 从理论到材料的一次完整分析
-> 以质量审计为例。[[Socioscientific Issues|SSI]] 先以项目计划与流程说明界定研究者的角色，这是铭写知识；两名研究者带着各自的研究训练与对教师处境的理解进入参考组，这是具身知识；在参考组会议中，他们质疑“良好范例”的可行性，主张把课程文本的缺陷纳入解释，这是践行知识。会议中的说法一度接近写入报告，但传播秘书处在定稿时删除课程解释，只保留教师不自信的结论，于是铭写知识再次压过了会议中的践行知识。用三种形态追踪这一链条，“研究被使用”呈现为一连串选择、转译与重写；最终报告之所以显得客观，恰恰因为此前的协商痕迹被抹去。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–652)]]
+> 以质量审计为例。[[Swedish Schools Inspectorate|瑞典学校督察局]]（SSI）先以项目计划与流程说明界定研究者的角色，这是文本化知识；两名研究者带着各自的研究训练与对教师处境的理解进入参考组，这是具身知识；在参考组会议中，他们质疑“良好范例”的可行性，主张把课程文本的缺陷纳入解释，这是践行知识。会议中的说法一度接近写入报告，但传播秘书处在定稿时删除课程解释，只保留教师不自信的结论，于是文本化知识再次压过了会议中的践行知识。用三种形态追踪这一链条，“研究被使用”呈现为一连串选择、转译与重写；最终报告之所以显得客观，恰恰因为此前的协商痕迹被抹去。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–652)]]
 
 ---
 
