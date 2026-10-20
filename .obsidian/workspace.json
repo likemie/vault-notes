@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,13 +273,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "013944e50abdeb09",
+  "active": "bd88d0cdfde06150",
   "lastOpenFiles": [
+    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "output/related-updates/Argument_Zhu_Yang_2025_HE-0226c9b6/batch-005/result.json",
     "output/related-updates/Argument_Zhu_Yang_2025_HE-0226c9b6/batch-004/result.json",
     "output/related-updates/Argument_Zhu_Yang_2025_HE-0226c9b6/batch-003/result.json",
     "wiki/facts/us/Evidence for ESSA.md",
-    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md",
     "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
@@ -294,7 +294,6 @@
     "scratch/prepare_stat_cards.py",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md",
     "wiki/theories/comparative-education/Neo-Tributary Perspective.md",
-    "scratch/stat-card-audit.json",
     "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
     "wiki/MetaX/VisibleLearning_MetaX_Full.md",
     "wiki/MetaX/VisibleLearning_MetaX_Full_factors.md",
