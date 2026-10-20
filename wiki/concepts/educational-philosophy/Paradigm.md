@@ -82,10 +82,11 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Paradigm
@@ -148,22 +149,6 @@ updated: 2026-10-20
 >     F -.->|"新异常涌现"| B
 > ```
 
-> [!entry-map]- 范式理论关键关联网络
-> | 条目 | 类型 | 关联维度 |
-> |:-----|:-----|:-----|
-> | [[Incommensurability]] | 概念 | 范式理论的核心衍生命题，断定不同范式间不存在中立折中尺度。 |
-> | [[Positivism]] | 概念 | 统治 20 世纪自然与社会科学的经典实证范式，主张客观因果法则发现。 |
-> | [[Postpositivism]] | 概念 | 库恩范式危机后发展起来的温和科学观，承认观察渗透理论与[[Falsification\|证伪]]局限。 |
-> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 欧陆比较教育学在教育科学体系中的交叉领域范式定位。 |
-> | [[State Educational Sovereignty]] | 概念 | 民族国家主权作为比较教育经典时期的基础经验容器范式。 |
-> | [[Problem Approach]] | 方法 | 霍姆斯以波普尔批判理性主义范式为基石开创的比较教育实证问题法。 |
-> | [[Historical-Comparative Method]] | 方法 | 汉斯与[[Mark Schneider\|施奈德]]所依附的历史文化主义与精神[[Scientific Paradigm\|科学范式]]核心方法。 |
-> | [[Karl Popper]] | 人物 | 批判理性主义奠基人，实证主义大争论的核心旗手之一。 |
-> | [[Jürgen Habermas]] | 人物 | 法兰克福[[Critical Theory\|批判理论]]领袖，与波普尔展开实证主义方法论大论战。 |
-> | [[Brian Holmes]] | 人物 | 在欧洲比较教育学界力推[[Critical Dualism\|批判二元论]]与实证主义范式转向的关键学者。 |
-> | [[Friedrich Schneider]] | 人物 | 德国天主教历史文化比较全景范式的开创者。 |
-> | [[Wolfgang Mitter]] | 人物 | 系统划分欧洲比较教育百年理论范式更迭并主张多中心演变史的代表学者。 |
-
 ---
 
 ## 围绕概念形成的命题
@@ -196,6 +181,9 @@ updated: 2026-10-20
 > [!claim] Cohen, L. et al.
 > **范式的正统地位依赖学术建制的权威认可** 一个范式的确立不仅取决于经验证据的充沛性，更深刻受制于其在学术共同体权威与政治权力网络中的被认可程度；知识生产不仅是一项认知探索，更是一项镶嵌于大学教席、学术期刊与资助体制中的社会与政治行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
+> **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家教育督导与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, pp. 649–650]]）。
+
 ---
 
 ### 命题三　比较教育百年演进呈现从宏大历史文化全景、实证主义论战到当代多元自创生的多范式重构
@@ -217,7 +205,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜并引发范式转换 | 自然科学与基础理论发展历史考察 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]] |
-> | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力 | 跨范式论战、研究方法争鸣与学术体制分析 | [[Thomas Kuhn\|Kuhn]]; Feyerabend |
+> | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
 
 ---
@@ -230,6 +218,7 @@ updated: 2026-10-20
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘知识政治研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+> - **2020s — 循证治理与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在文献综述中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
 
 ---
 
@@ -252,6 +241,9 @@ updated: 2026-10-20
 > >
 > > - **二元互斥范式论** 将[[Knowledge Power|知识权力]]视作纵向控制与零和博弈，将[[Knowledge Diplomacy|知识外交]]视作横向互惠与非零和合作，主张两种范式具有根本冲突的前提假设。
 > > - **辩证整合论** 周与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）指出，单一范式在解释复杂多边高等教育布局时均存在严重解释盲区；主张引入包容等级与对等辩证共生的关系性视角，超越二元范式割裂。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+>
+> > [!axis] 单一范式官僚垄断 vs 多范式情境批判
+> > [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 649–651)]] 揭示，审计官僚机构倾向于锁定单一实证范式以消除争议并树立所谓“良好范例”；学者与一线代表反驳指出，单一范式无法涵盖复杂的教育现实，强推单一标准示范易将平庸做法制度化。
 
 > [!warning] 适用边界
 > 范式概念若被滥用，极易退化为一种“学术部落主义”的标签化工具，阻碍跨阵营的理性学术对话与互证；在教育实务探究中，过分执念于范式纯粹性往往会牺牲对复杂教育实态的解释力与行动改进效能。
@@ -265,3 +257,4 @@ updated: 2026-10-20
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体[[Phenomenology|现象学]]，剖析可见学习范式在存在论与[[Epistemology|认识论]]层面的盲区，揭示不同教育观察主体间的不可[[Commensuration|通约]]性。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析[[Geopolitics|地缘政治]][[Knowledge Power|知识权力]]范式与[[Developmentalism|发展主义]][[Knowledge Diplomacy|知识外交]]范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家学校督导为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。

@@ -20930,7 +20930,7 @@ body.theme-dark {
 /* 排除依赖拼合/无边框的结构件：并列栏、线索、SWOT 字母卡、debates 子卡 */
 body .callout.callout[data-callout]:not(
   [data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"],
-  [data-callout="chapter-question"]) {
+  [data-callout="chapter-question"], [data-callout="spectrum"], [data-callout="nexus-model"], [data-callout="logic-map"], [data-callout="interdependence"]) {
   mix-blend-mode: normal;
   border-style: solid;
   border-width: 1px;
@@ -20940,7 +20940,7 @@ body .callout.callout[data-callout]:not(
   box-shadow: none;
   transition: border-color var(--ac-ease), box-shadow var(--ac-ease);
 }
-body .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"]):hover {
+body .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"], [data-callout="spectrum"], [data-callout="nexus-model"], [data-callout="logic-map"], [data-callout="interdependence"]):hover {
   border-color: var(--ac-edge);
   box-shadow: none;
   transform: none;
@@ -21072,7 +21072,7 @@ body .callout.callout:is(
   [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"],
   [data-callout="pathways"], [data-callout="policy-design"], [data-callout="theory-proposition"],
   [data-callout="org-evolution"], [data-callout="method-panel"], [data-callout="sample-panel"],
-  [data-callout="influence-path"], [data-callout="spectrum"], [data-callout="nexus-model"])
+  [data-callout="influence-path"])
   > .callout-content > :is(ul, ol) > li {
   background: var(--ac-raised);
   background-image: none;
@@ -21090,7 +21090,7 @@ body .callout.callout:is(
   [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"],
   [data-callout="pathways"], [data-callout="policy-design"], [data-callout="theory-proposition"],
   [data-callout="org-evolution"], [data-callout="method-panel"], [data-callout="sample-panel"],
-  [data-callout="influence-path"], [data-callout="spectrum"], [data-callout="nexus-model"])
+  [data-callout="influence-path"])
   > .callout-content > :is(ul, ol) > li:hover {
   border-color: var(--ac-edge);
   box-shadow: var(--ac-shadow-hover);
@@ -21112,9 +21112,9 @@ body .callout.callout[data-callout="feature"] > .callout-content > ul > li > str
   font-weight: 600;
 }
 body .callout.callout:is([data-callout="case"], [data-callout="proc"], [data-callout="note"], [data-callout="dev-timeline"])
-  > .callout-content li > strong:first-child,
+  > .callout-content li > strong:first-of-type,
 body .callout.callout:is([data-callout="case"], [data-callout="proc"], [data-callout="note"], [data-callout="dev-timeline"])
-  > .callout-content li > p:first-child > strong:first-child {
+  > .callout-content li > p:first-child > strong:first-of-type {
   background: var(--ac-tint-strong);
   background-image: none;
   border: 0;
@@ -21127,9 +21127,9 @@ body .callout.callout:is([data-callout="case"], [data-callout="proc"], [data-cal
 
 
 /* 所有列表首个加粗标签：去描边、去浮雕阴影、去渐变，统一 4px 方角 */
-body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > strong:first-child,
-body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child,
-body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-child {
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type,
+body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-of-type {
   border-color: transparent !important;
   box-shadow: none !important;
   background-image: none !important;
@@ -21139,7 +21139,7 @@ body .callout.callout[data-callout] > .callout-content > :is(ul, ol) > li > :is(
 
 /* ── 08 Specific families ──────────────────────────────────────────── */
 /* concept-lens：无斜纹，子卡为白卡 */
-body .callout.callout[data-callout="concept-lens"] > .callout-content > :is(ul, ol) > li > strong:first-child {
+body .callout.callout[data-callout="concept-lens"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
   color: var(--ac-ink);
 }
 /* entry-map / ref-table：容器内表格贴边，容器只做框 */
@@ -21201,7 +21201,7 @@ body .callout.callout[data-callout^="line-"] > .callout-title .callout-title-inn
 }
 
 /* ── 09 Dark mode ──────────────────────────────────────────────────── */
-body.theme-dark .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"]) {
+body.theme-dark .callout.callout[data-callout]:not([data-callout^="col-"], [data-callout^="line-"], [data-callout="axis"], [data-callout="chapter-question"], [data-callout="spectrum"], [data-callout="nexus-model"], [data-callout="logic-map"], [data-callout="interdependence"]) {
   box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.03);
 }
 body.theme-dark .callout.callout[data-callout] .callout-content table { background: var(--ac-sunken); }
@@ -21214,6 +21214,11 @@ body.theme-dark .callout.callout[data-callout] .callout-content table { backgrou
 @media print {
   body .callout.callout[data-callout] { background: none !important; box-shadow: none !important; break-inside: avoid; }
 }
+
+/* 专用可视化（spectrum / nexus-model / logic-map / interdependence）保留 v3 原样；
+   spectrum 修正：条目改为块级排版，避免内链把正文拆成多行 */
+body .callout.callout[data-callout="spectrum"] > .callout-content > :is(ul, ol) > li { display: block; }
+body .callout.callout[data-callout="spectrum"] > .callout-content > :is(ul, ol) > li > strong:first-of-type { display: block; margin-bottom: .2rem; }
 
 /* ── 11 Component designs · 逐个组件（v4.1） ─────────────────────────
    设计词汇：眉标（短横 + 全大写小字）→ 衬线标题 → 正文；
@@ -21271,7 +21276,7 @@ body .callout.callout.callout:is([data-callout="theory-proposition"]) > .callout
 body .callout.callout.callout:is([data-callout="question"]) > .callout-title .callout-title-inner::before { content: "RESEARCH QUESTION" !important; }
 
 /* claim · 段首实体名只加重，不再框色块 */
-body .callout.callout.callout:is([data-callout="claim"]) > .callout-content > p > strong:first-child {
+body .callout.callout.callout:is([data-callout="claim"]) > .callout-content > p > strong:first-of-type {
   display: inline !important; padding: 0 !important; border: 0 !important; background: none !important;
   box-shadow: none !important; color: var(--text-normal) !important; font-weight: 650;
 }
@@ -21286,7 +21291,7 @@ body .callout.callout.callout:is([data-callout="warrant"]) > .callout-content > 
 }
 
 /* def · 词条：首个加粗词改为衬线 */
-body .callout.callout.callout:is([data-callout="def"]) > .callout-content > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="def"]) > .callout-content > p:first-child > strong:first-of-type {
   font-family: var(--ac-serif); font-weight: 600; color: var(--text-normal);
 }
 
@@ -21300,7 +21305,7 @@ body .callout.callout.callout:is([data-callout="citation-card"]) > .callout-cont
 body .callout.callout.callout:is([data-callout="citation-card"]) > .callout-content blockquote p { margin: 0; }
 
 /* theory-proposition · 段首“解释 / 应用实例”为强调色小标签，段间细线 */
-body .callout.callout.callout:is([data-callout="theory-proposition"]) > .callout-content > p > strong:first-child {
+body .callout.callout.callout:is([data-callout="theory-proposition"]) > .callout-content > p > strong:first-of-type {
   display: inline !important; margin-right: .45em; padding: 0 !important; background: none !important;
   border: 0 !important; box-shadow: none !important;
   color: var(--ac-ink) !important; font-size: .84em; font-weight: 650; letter-spacing: .04em;
@@ -21347,8 +21352,8 @@ body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [
 body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content > :last-child { margin-bottom: 0; }
 body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content :is(ul, ol) { padding-left: 1.3em; }
 body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content li::marker { color: var(--ac-accent); }
-body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content > :is(ul, ol) > li > strong:first-child,
-body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   display: inline !important; padding: 0 !important; margin-right: .35em !important;
   background: none !important; border: 0 !important; box-shadow: none !important;
   color: var(--ac-ink) !important; font-weight: 650 !important;
@@ -21455,20 +21460,20 @@ body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="f
 body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li:hover {
   border-color: var(--ac-edge) !important; box-shadow: var(--ac-shadow-hover) !important; transform: none !important;
 }
-body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-child,
-body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   display: block !important; margin: 0 0 .3rem !important; padding: 0 !important;
   background: none !important; border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
   color: var(--ac-ink) !important; font-size: .98em !important; font-weight: 650 !important;
   letter-spacing: 0 !important; text-transform: none !important; line-height: 1.45;
 }
-body.theme-dark body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-child { color: var(--ac-ink) !important; }
-body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-child a { color: inherit; }
+body.theme-dark body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type { color: var(--ac-ink) !important; }
+body .callout.callout.callout:is([data-callout="concept-lens"], [data-callout="feature"], [data-callout="actor-grid"], [data-callout="person-profile"], [data-callout="policy-design"], [data-callout="influence-path"], [data-callout="policy-context"], [data-callout="org-context"], [data-callout="program-context"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="theory-position"], [data-callout="person-network"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="finding-cards"], [data-callout="critique"], [data-callout="stat-cards"], [data-callout="indicators"], [data-callout="dimension"], [data-callout="theory-components"], [data-callout="factors"], [data-callout="goal"], [data-callout="quad-grid"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type a { color: inherit; }
 
 
 /* stat-cards · Stripe 式数字：大号等宽数字 + 灰色说明 */
-body .callout.callout.callout:is([data-callout="stat-cards"]) > .callout-content > :is(ul, ol) > li > strong:first-child,
-body .callout.callout.callout:is([data-callout="stat-cards"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="stat-cards"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="stat-cards"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   color: var(--text-normal) !important; font-size: 1.55em !important; font-weight: 600 !important;
   letter-spacing: -.02em !important; line-height: 1.2 !important; margin-bottom: .35rem !important;
   font-variant-numeric: tabular-nums lining-nums;
@@ -21617,17 +21622,17 @@ body .callout.callout.callout:is([data-callout="timeline"], [data-callout="thoug
   box-shadow: 0 0 0 3px var(--ac-paper) !important; animation: none !important;
 }
 /* 条目标签：年份用等宽强调色；阶段名用正文墨色粗体 */
-body .callout.callout.callout:is([data-callout="timeline"], [data-callout="dev-timeline"], [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"], [data-callout="chain-link"], [data-callout="pathways"], [data-callout="work-line"], [data-callout="proposition-chain"], [data-callout="formula-step"], [data-callout="org-evolution"], [data-callout="timeline-compact"]) > .callout-content > :is(ul, ol) > li > strong:first-child,
-body .callout.callout.callout:is([data-callout="timeline"], [data-callout="dev-timeline"], [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"], [data-callout="chain-link"], [data-callout="pathways"], [data-callout="work-line"], [data-callout="proposition-chain"], [data-callout="formula-step"], [data-callout="org-evolution"], [data-callout="timeline-compact"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="timeline"], [data-callout="dev-timeline"], [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"], [data-callout="chain-link"], [data-callout="pathways"], [data-callout="work-line"], [data-callout="proposition-chain"], [data-callout="formula-step"], [data-callout="org-evolution"], [data-callout="timeline-compact"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="timeline"], [data-callout="dev-timeline"], [data-callout="thought-timeline"], [data-callout="phase"], [data-callout="proc"], [data-callout="chain-link"], [data-callout="pathways"], [data-callout="work-line"], [data-callout="proposition-chain"], [data-callout="formula-step"], [data-callout="org-evolution"], [data-callout="timeline-compact"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   padding: 0 !important; margin-right: .5em !important; background: none !important; border: 0 !important;
   border-radius: 0 !important; box-shadow: none !important; text-transform: none !important; letter-spacing: 0 !important;
   color: var(--text-normal) !important; font-weight: 650 !important;
 }
-body .callout.callout.callout:is([data-callout="timeline"], [data-callout="thought-timeline"], [data-callout="timeline-compact"], [data-callout="work-line"]) > .callout-content > :is(ul, ol) > li > strong:first-child {
+body .callout.callout.callout:is([data-callout="timeline"], [data-callout="thought-timeline"], [data-callout="timeline-compact"], [data-callout="work-line"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type {
   color: var(--ac-ink) !important; font-family: var(--ac-mono); font-size: .86em !important; font-weight: 600 !important;
   font-variant-numeric: tabular-nums;
 }
-body .callout.callout.callout:is([data-callout="dev-timeline"], [data-callout="org-evolution"], [data-callout="phase"]) > .callout-content > :is(ul, ol) > li > strong:first-child {
+body .callout.callout.callout:is([data-callout="dev-timeline"], [data-callout="org-evolution"], [data-callout="phase"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type {
   display: block !important; margin: 0 0 .15rem !important;
 }
 
@@ -21669,7 +21674,7 @@ body .callout.callout.callout:is([data-callout="boundary"]) > .callout-content >
   content: "" !important; position: absolute !important; left: -1.05em !important; top: .85em !important;
   width: .55em !important; height: 1px !important; background: var(--ac-accent) !important; border: 0 !important; box-shadow: none !important;
 }
-body .callout.callout.callout:is([data-callout="boundary"]) > .callout-content > ul > li > strong:first-child {
+body .callout.callout.callout:is([data-callout="boundary"]) > .callout-content > ul > li > strong:first-of-type {
   background: none !important; border: 0 !important; padding: 0 !important; box-shadow: none !important;
   color: var(--ac-ink) !important; font-weight: 650 !important; margin-right: .35em;
 }
@@ -21711,8 +21716,8 @@ body .callout.callout.callout:is([data-callout="case"]) > .callout-content > ul 
 }
 body .callout.callout.callout:is([data-callout="case"]) > .callout-content > ul > li:first-child { border-top: 0 !important; padding-top: 0 !important; }
 body .callout.callout.callout:is([data-callout="case"]) > .callout-content > ul > li::marker { content: none; }
-body .callout.callout.callout:is([data-callout="case"]) > .callout-content li > strong:first-child,
-body .callout.callout.callout:is([data-callout="case"]) > .callout-content li > p:first-child > strong:first-child {
+body .callout.callout.callout:is([data-callout="case"]) > .callout-content li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="case"]) > .callout-content li > p:first-child > strong:first-of-type {
   display: inline !important; padding: 0 !important; margin-right: .55em !important; background: none !important;
   border: 0 !important; box-shadow: none !important; color: var(--ac-ink) !important; font-weight: 650 !important;
 }
@@ -21766,7 +21771,7 @@ body .callout.callout.callout:is([data-callout="debates"]) > .callout-content > 
   border-left: 0 !important; background: none !important;
 }
 body .callout.callout.callout:is([data-callout="debates"]) > .callout-content > .callout > .callout-content > ul > li { font-size: .93em; color: var(--ac-muted); margin: .2rem 0; }
-body .callout.callout.callout:is([data-callout="debates"]) > .callout-content > .callout > .callout-content > ul > li > strong:first-child { color: var(--text-normal); font-weight: 650; }
+body .callout.callout.callout:is([data-callout="debates"]) > .callout-content > .callout > .callout-content > ul > li > strong:first-of-type { color: var(--text-normal); font-weight: 650; }
 
 
 /* dimension 系列 · D1 徽章改为等宽强调色小字 */
@@ -21818,6 +21823,16 @@ body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > 
 body.theme-dark body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li:nth-child(odd) { border-top-color: rgb(110, 150, 230) !important; }
 body.theme-dark body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li:nth-child(even) { border-top-color: rgb(225, 105, 120) !important; }
 body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul::before { display: none !important; }
+/* 双栏贴满内容区：去掉列表缩进与圆点，栏距只留给 VS */
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul {
+  padding: 0 !important; padding-inline-start: 0 !important; margin: 0 !important;
+  column-gap: 2.25rem !important; row-gap: .75rem !important; list-style: none !important;
+}
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li { margin: 0 !important; list-style: none !important; }
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li::marker { content: none; }
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li > .list-bullet,
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li > .list-collapse-indicator { display: none !important; }
+body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul > li > strong:first-of-type { display: block; margin-bottom: .3rem; }
 body .callout.callout.callout:is([data-callout="tension"]) > .callout-content > ul::after {
   background: var(--ac-paper) !important; color: var(--ac-muted) !important; border: 1px solid var(--ac-hair) !important;
   box-shadow: 0 0 0 3px var(--ac-paper) !important; font-family: var(--ac-mono); font-weight: 600 !important;
@@ -21857,4 +21872,25 @@ body .callout.callout.callout:is([data-callout="line-c"]) > .callout-title .call
 body .callout.callout.callout:is([data-callout="line-d"]) > .callout-title .callout-title-inner::before { content: "LINE D" !important; }
 body .callout.callout.callout:is([data-callout="line-e"]) > .callout-title .callout-title-inner::before { content: "LINE E" !important; }
 body .callout.callout.callout:is([data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"]) > .callout-content { line-height: 1.8; }
-body .callout.callout.callout:is([data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"]) > .callout-content > p > strong:first-child { color: var(--ac-ink); }
+body .callout.callout.callout:is([data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"]) > .callout-content > p > strong:first-of-type { color: var(--ac-ink); }
+
+
+/* 层级：大标题更大更重，下方发丝线分隔；条目小标签降为正文墨色、无框 */
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]) > .callout-title {
+  margin: 0 0 .85rem !important; padding: 0 0 .7rem !important;
+  border-bottom: 1px solid var(--ac-hair-soft) !important;
+}
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]).is-collapsed > .callout-title { margin: 0 !important; padding-bottom: 0 !important; border-bottom: 0 !important; }
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]) > .callout-title .callout-title-inner {
+  font-size: 1.26em !important; font-weight: 600 !important; line-height: 1.4 !important;
+  letter-spacing: -.005em !important; color: var(--text-normal) !important;
+}
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]) > .callout-title .callout-title-inner a { color: inherit; text-decoration-color: var(--ac-edge); }
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]) > .callout-content { font-size: .95em; }
+body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="citation-card"], [data-callout="claim"], [data-callout="compact-table"], [data-callout="compare-table"], [data-callout="concept-lens"], [data-callout="conclusion"], [data-callout="contrast-table"], [data-callout="critique"], [data-callout="debates"], [data-callout="def"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="effect-table"], [data-callout="entry-map"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="formula-step"], [data-callout="framework-table"], [data-callout="goal"], [data-callout="implication"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="ma-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-panel"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="question"], [data-callout="ref-table"], [data-callout="row-contrast"], [data-callout="sample-panel"], [data-callout="seq-table"], [data-callout="stat-cards"], [data-callout="survey-table"], [data-callout="tension"], [data-callout="tension-table"], [data-callout="theory-components"], [data-callout="theory-position"], [data-callout="theory-proposition"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="warrant"], [data-callout="work-line"]) > .callout-content :is(li, p) > strong:first-of-type {
+  border: 0 !important; background: none !important; box-shadow: none !important; padding: 0 !important;
+  border-radius: 0 !important; text-shadow: none !important;
+}
+body .callout.callout.callout:is([data-callout="case"], [data-callout="boundary"], [data-callout="line-a"], [data-callout="line-b"], [data-callout="line-c"], [data-callout="line-d"], [data-callout="line-e"], [data-callout="claim"], [data-callout="theory-proposition"]) > .callout-content :is(li, p) > strong:first-of-type {
+  color: var(--text-normal) !important; font-weight: 600 !important; margin-right: .5em !important;
+}

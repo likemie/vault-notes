@@ -94,7 +94,8 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Deanna Kuhn]]"
-related_facts: []
+related_facts:
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kuhn_2000_CD]]"
@@ -104,11 +105,12 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemology
@@ -163,6 +165,7 @@ updated: 2026-10-20
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
 > - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
 > - **非西方关系性认识论与天下框架（Relational Epistemology & [[Tianxia Heuristic]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与[[Knowledge Diplomacy|知识外交]]中的不对称权力互动提供了超越二元对立的认识论透镜。
+> - **发生认识论与教育知识的动态可错性（Genetic Epistemology & Dynamic Fallibility）** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 结合让·[[Jean Piaget|皮亚杰]]（Jean Piaget）的发生认识论与[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）关于教育学弱语法知识结构的论述，揭示教育知识是一个随着主体情境互动而持续生成的动态演进形态；任何将特定学术流派固化为技术官僚督导标准与审计常模的企图，在认识论上都属于将流变知识虚构为静态客观真理的范畴错置。
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -215,6 +218,9 @@ updated: 2026-10-20
 > [!claim] Cohen et al.
 > **事实的理论负载与可错论原则** 后实证主义与法兰克福学派[[Critical Theory\|批判理论]]彻底颠覆了传统实证主义的认识论自负。[[Jürgen Habermas\|尤尔根·哈贝马斯]]（Jürgen Habermas）指出，[[Scientism\|科学主义]]将经验实证方法神化为西方唯一的合法认识论，将所有知识狭隘等同于科学知识，彻底抹杀了诠释、审美、批判与伦理等核心知识形态，将人类丰富的生活实践贬低为[[Technical Rationality\|技术理性]]（Habermas, 1972）。后实证主义在此基础上确立了“可错论”（fallibilism）：所有科学事实与观察都是理论负载（theory-laden）与价值负载（value-laden）的；世界上不存在免受先验概念框架污染的纯粹客观经验事实，研究者自身的价值预设与理论参照系从源头决定了其探究焦点与解释边界，使得事实与价值的机械二分在认识论上彻底破产[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 437)]]。
 
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
+> **行政审计中“静态知识状态”的技术官僚认识论幻觉** 针对[[Swedish Schools Inspectorate|瑞典学校督察局]]的实证研究表明，官僚机构宣称其督导标准建立在客观中立的“当前知识状态”（the current state of knowledge）之上，这一假设在科学哲学上无法成立。教育学兼具弱语法结构与动态演进特征，缺乏自然科学的强层级公理；将特定流派（如成功学校研究）的暂定性实证结论固化为法定的质量常模，本质上是技术官僚权力对动态认识论过程的政治截断与静态虚构（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, pp. 654–655]]）。
+
 ---
 
 ### 命题三　个体认识论的发展是一个领域特殊的、主客观协调的过程
@@ -261,7 +267,7 @@ updated: 2026-10-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **范式知识映射** | [[Epistemic Stances\|认识论立场]]决定不同研究范式的知识有效性标准与方法论路径。 | 研究设计、方法论选择与范式反思。 | Burrell & Morgan; Cohen et al.; Onwuegbuzie & Leech |
-> | **实证传统解构** | 观察具有理论负载与价值负载，打破客观主义事实神话。 | 科学哲学批判、后实证反思与实证主义局限剖析。 | Habermas; Popper; Cohen et al. |
+> | **实证传统解构** | 观察具有理论负载与价值负载，打破客观主义事实神话；行政审计将教育知识固化为静态常模属于技术官僚认识论幻觉。 | 科学哲学批判、后实证反思、实证主义局限剖析与国家督导审计。 | Habermas; Popper; Cohen et al.; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **主客认知协调** | 个体心智中认识论演进的机制、反转序列与宽容陷阱。 | 学习科学、[[Epistemological Beliefs\|认识论信念]]发展与[[Critical Thinking\|批判性思维]]教学。 | Kuhn et al. |
 > | **批判抗争认识论** | 知识生产是对欺骗性认识论的前提反思，确立求真与追求正义社会的认识论同构。 | 宏观政治经济学、批判社会学、学术范式解构与[[Research Ethics\|研究伦理]]反思。 | Wallerstein; Arnove |
 > | **流变认识论与方法主义批判** | 跨学科探究为随时代流变的普罗透斯式体系，需抵御唯方法论主义并将技术锚定于历史情境。 | 跨学科[[Theory of Knowledge\|知识论]]、比较学科史、实证化批判与历史健忘症反思。 | Barber; [[Andreas Kazamias\|Kazamias]] |
@@ -280,6 +286,7 @@ updated: 2026-10-20
 > - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合巴伯（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 > - **2024年 — 非西方关系认识论拓展与全球治理知识反思** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 依托“天下”本体与认识论框架（[[Tianxia Heuristic|Tianxia heuristic]]），提出突破主客二元对立与西方中心主义的非西方关系性认识论，论证全球知识体系中的等级制秩序与多中心网络化赋权能够在关系共生中并存，拓展了比较教育与全球[[Epistemic Governance|知识治理]]的认识论视域。
+> - **2020s — 循证治理中“当前知识状态”的认识论批判** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 结合发生认识论与知识社会学，解构了国家督导机构将学术研究冻结为静态审计标准的认识论假设，确立了教育知识流变性与一线践行智慧的情境价值（pp. 654–655）。
 
 ---
 
@@ -298,6 +305,9 @@ updated: 2026-10-20
 > >
 > > - **实证主义一元论者（Noah & Eckstein, 1969; Anderson & Foster, 1961）** 坚信科学的本质在于普遍定律与预测，主张用跨国标准化变量与数理建模统一所有探究。
 > > - **普罗透斯[[Humanistic Episteme|人文认识论]]者（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]; Dilthey, 1883）** 强调人文社会探究的复杂性与历史性，主张认识论必须兼容生命体验理解、批判反思与[[Working Hypothesis|工作假说]]，严正批判将技术工具冒充为真理的[[Empiricism|唯方法论主义]]。
+>
+> > [!axis] 技术官僚“静态知识状态” vs 发生认识论动态演变
+> > [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 揭示，督导治理预设存在客观完备的“当前知识状态”作为审计标尺；而发生认识论与知识社会学反驳指出，教育学具有弱语法性与持续发生性，任何静态化的真理宣称本质上都是行政权力对学术流变的规训。
 
 > [!critique] 外部批评
 > - **批判认识论对[[Value Neutrality|价值中立]]假象的解构** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）批判主流[[Positivism|实证主义]]与技术功能主义将“价值中立”作为唯一的合法[[Scientific Attitude|科学态度]]，指出这种认识论掩盖了资本主义世界体系的剥削机制与不平等现状，沦为服务于统治阶级的“欺骗性认识论”。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]

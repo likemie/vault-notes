@@ -42,7 +42,6 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Professional Judgment]]"
   - "[[School Inspection]]"
-  - "[[Socioscientific Issues]]"
   - "[[Research Translation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Positivism]]"
@@ -61,14 +60,13 @@ related_facts:
   - "[[MDRC]]"
   - "[[Swedish Schools Inspectorate]]"
   - "[[Modernising Government]]"
-  - "[[European Research Area]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence-Based Policy-Making
@@ -206,7 +204,7 @@ updated: 2026-10-20
 > - **1997 — 新工党上台与管用才算数政治宪章确立** 托尼·布莱尔领导的新工党击败保守党执政，发表竞选宣言宣告告别陈旧意识形态，确立管用才算数的施政纲领，将实证数据提升为政策合法性的首要来源。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 336)]]
 > - **1999–2003 — 英国行政规程与中央指南制度化** 英国政府先后出台《[[Modernising Government|现代化政府]]》白皮书（1999）、内阁府《21世纪专业化政策制定》（1999）与财政部《[[The Green Book|绿皮书]]》（2003），正式将政策先行试点与定量评估规程内嵌为行政运行的法定门槛。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 337)]]
 > - **2003–2007 — 大规模[[Random Assignment|随机分配]]实验应用与技术[[Hard Policy Transfer|硬转移]]** 英国就业与养老金部（DWP）启动史上规模最大的就业保留与晋升（ERA）示范项目，全套采用美式[[Randomised Controlled Trials|随机对照实验]]设计，并由美国智库 [[MDRC]] 跨国承接实施，标志着循证技术硬转移落地。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
-> - **2008–2013 — 证据本位进入[[School Inspection|学校督导]]机构** 瑞典设立[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, [[Socioscientific Issues|SSI]]），以《教育法》的“科学依据与经验验证”要求为起点，把成功学校[[Research Translation|研究转译]]为常规督导的评估领域，并通过知识综述、参考研究者与报告流程组织质量审计。研究在此既被写入标准，也被用于论证既有政策与合法化督导，呈现“软性”与“后现代”证据本位政策的混合形态。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–654)]]
+> - **2008–2013 — 证据本位进入[[School Inspection|学校督导]]机构** 瑞典设立[[Swedish Schools Inspectorate|瑞典学校督察局]]（Swedish Schools Inspectorate, SSI），以《教育法》的“科学依据与经验验证”要求为起点，把成功学校[[Research Translation|研究转译]]为常规督导的评估领域，并通过知识综述、参考研究者与报告流程组织质量审计。研究在此既被写入标准，也被用于论证既有政策与合法化督导，呈现“软性”与“后现代”证据本位政策的混合形态。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–654)]]
 > - **2010s 至今 — 跨国二次扩散与全球循证中介网络** 内阁府发布《紫红皮书》（2011）巩固评估规范；英美循证实验体制反向辐射欧洲大陆及英联邦国家，推动全球教育[[Educational Brokerage Agency|证据经纪人]]与政策评估中介网络建立。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 344–345)]]
 
 ---
@@ -244,8 +242,8 @@ updated: 2026-10-20
 > |---|---|---|---|---|---|
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英国中央行政体系（DWP）科研出版演进 | 中央白皮书强制要求政策立项须经量化实证检验 | 1996 至 2011 年全量公开科研出版物追踪 | 年均实证科研报告由 1996 年的 14 篇攀升至 2010 年峰值 102 篇 | 反映循证规程深度嵌入科层行政运作，但难以完全区分纯粹决策使用与事后辩护使用 |
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 美国福利改革对标方案（PRWORA / TANF） | 联邦第 1115 条豁免强制要求州级试点开展[[Randomised Controlled Trials\|随机对照实验]] | 1996 年 8 月至 2000 年 6 月全美受助群体数据 | 全美受助总人数从 1224.1 万人锐减至 578.1 万人（降幅达 53%） | 震撼性的降幅构成强[[Demonstration Effect\|示范效应]]，但两国家庭与医疗福利基底存在显著制度[[Heterogeneity\|异质性]] |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英国就业保留与晋升（[[European Research Area\|ERA]]）示范项目 | 跨国引进美方[[Random Assignment\|随机分配]]实验模型并委托智库 [[MDRC]] 执行 | 2003 至 2007 年开展 3 轮多中心随机分配测试 | 覆盖单亲家庭新政、长期失业者与在职低收入群体 3 大类别 | 证实量化评估技术与外国专业智库可作为独立载体实现跨国[[Hard Policy Transfer\|硬转移]] |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]（[[Socioscientific Issues\|SSI]]）常规督导与质量审计 | 《教育法》要求学校建立在科学依据与经验验证之上；评估领域、知识综述、参考研究者与报告审定 | 质性工具性个案；常规督导访谈 7 名高层管理与 3 名督导/法律专家，质量审计访谈 2 名研究者并观察 2 次参考组会议 | 常规督导从成功学校研究提炼约 10 个评估领域；质量审计知识综述声称呈现“当前知识状态”，最终报告经传播秘书处重写 | 显示证据本位治理可同时包含研究选择、文本铭写与合法化，难以用“研究直接指导决策”的线性模型解释 |
+> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英国就业保留与晋升（ERA）示范项目 | 跨国引进美方[[Random Assignment\|随机分配]]实验模型并委托智库 [[MDRC]] 执行 | 2003 至 2007 年开展 3 轮多中心随机分配测试 | 覆盖单亲家庭新政、长期失业者与在职低收入群体 3 大类别 | 证实量化评估技术与外国专业智库可作为独立载体实现跨国[[Hard Policy Transfer\|硬转移]] |
+> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]（SSI）常规督导与质量审计 | 《教育法》要求学校建立在科学依据与经验验证之上；评估领域、知识综述、参考研究者与报告审定 | 质性工具性个案；常规督导访谈 7 名高层管理与 3 名督导/法律专家，质量审计访谈 2 名研究者并观察 2 次参考组会议 | 常规督导从成功学校研究提炼约 10 个评估领域；质量审计知识综述声称呈现“当前知识状态”，最终报告经传播秘书处重写 | 显示证据本位治理可同时包含研究选择、文本铭写与合法化，难以用“研究直接指导决策”的线性模型解释 |
 
 ---
 

@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 历史后果与深远影响
 
-> [!indicators]- 历史影响维度
+> [!indicators] 历史影响维度
 > - **制度创生与立法** 直接催生了[[OECD\|经合组织]]（OECD）成立初期的教育工作序列，奠定了 1961 年华盛顿会议、[[Mediterranean Regional Project\|地中海区域项目]]（MRP）以及[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP）的创设基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底终结了“教育无关于经济”的传统教条，将[[Human Capital Theory\|人力资本理论]]从边陲异端推向全球主流，开创了现代教育经济学建制化研究的新纪元。
 > - **跨国地缘格局重塑** 开启了战后西方国际组织重塑全球南方教育政策的“[[Development Turn in Comparative Education\|发展转向]]”，促使教育成为多边资本调配与意识形态拉拢的战略前沿。
