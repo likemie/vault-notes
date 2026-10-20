@@ -2371,6 +2371,66 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
         )
 
 
+def check_stat_card_titles(path: Path, text: str, issues: List[Issue]) -> None:
+    """Check only the display-number heading of each direct stat-cards item."""
+    if not is_wiki_entry_path(path) or is_schema_or_workflow_doc(path):
+        return
+    _, body, body_start_line = split_frontmatter(text)
+    body = re.sub(r"<!--[\s\S]*?-->|%%[\s\S]*?%%",
+                  lambda m: re.sub(r"[^\n]", " ", m[0]), body)
+    quoted_re = re.compile(r"^[ \t]*(?P<quotes>(?:>[ \t]?)+)(?P<content>.*)$")
+    header_re = re.compile(r"^\[!(?P<kind>[^\]\n]+)\][+-]?(?:[ \t]|$)", re.I)
+    item_re = re.compile(r"^(?P<indent>[ \t]*)[-*+]\s+\*\*(?P<title>.+?)\*\*(?:\s|$)")
+    # Each callout owns only items at its quote depth and list indentation.
+    stack = []
+    fence = None
+    for number, line in enumerate(body.splitlines(), body_start_line):
+        quoted = quoted_re.match(line)
+        content = quoted['content'] if quoted else line
+        marker = re.match(r"^[ \t]*(`{3,}|~{3,})", content)
+        if marker:
+            token = marker[1]
+            if fence is None:
+                fence = (token[0], len(token))
+            elif token[0] == fence[0] and len(token) >= fence[1]:
+                fence = None
+            continue
+        if fence is not None:
+            continue
+        if not quoted:
+            stack.clear()
+            continue
+        depth = quoted['quotes'].count('>')
+        while stack and stack[-1]['depth'] > depth:
+            stack.pop()
+        header = header_re.match(content.lstrip())
+        if header:
+            while stack and stack[-1]['depth'] >= depth:
+                stack.pop()
+            stack.append({'depth': depth, 'kind': header['kind'].lower(), 'indent': None})
+            continue
+        if not stack or stack[-1]['kind'] != 'stat-cards' or stack[-1]['depth'] != depth:
+            continue
+        item = item_re.match(content)
+        if not item:
+            continue
+        current = stack[-1]
+        indent = len(item['indent'].expandtabs(4))
+        if current['indent'] is None:
+            current['indent'] = indent
+        if indent != current['indent']:
+            continue
+        title = markdown_visible_text(item['title'])
+        if re.search(r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U000323af]", title):
+            issues.append(Issue(
+                'WARN', rel(path),
+                f'stat-cards 数值子标题含汉字：{title!r}。尽量使用数字与符号，'
+                '币种可用 $、¥、€、£；数量级可用科学记数法或 K/M/B。'
+                '量词和说明移入释义，保留原数值、币种与近似/范围条件；不自动换算。',
+                line=number, code='STAT_CARDS_TITLE_TEXT',
+            ))
+
+
 def check_axis_callouts(path: Path, text: str, issues: List[Issue]) -> None:
     """Validate the two-level `[!debates]` / `[!axis]` Markdown contract."""
     scan = mask_markdown_code(text)
@@ -3177,6 +3237,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_old_references(path, text, issues)
     check_quartz_safety(path, text, issues)
     check_axis_callouts(path, text, issues)
+    check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)
     check_templater_placeholders(path, text, issues)
 
