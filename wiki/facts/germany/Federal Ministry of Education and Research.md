@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Federal Ministry of Education and Research
@@ -180,7 +180,7 @@ updated: 2026-10-20
 > > [!axis] 项目制资助周期与中介平台可持续性风险
 > > BMBF 的立项资助通常以 3–5 年为期，期满后需依赖地方州政府或民间资本接续；丹麦 DPU 清算所因政府合同未续签而关停的先例表明，完全依附于国家部委阶段性课题的项目制资助在长线中介建设上存在天然的脆弱性，这也正是 [[Clearing House Unterricht\|CHU]] 后期主动引入施泰默基金会长期注资的重要体制背景。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 >
-> > [!axis] 国家专项资助的行政规约 vs 大学学术生态的多元[[Paradigm|范式]]张力
+> > [!axis] 国家专项资助的行政引导 vs 大学学术生态的多元[[Paradigm|范式]]张力
 > > BMBF 通过 [[Qualitätsoffensive Lehrerbildung|QLB]] 等重大攻坚计划以巨额专项经费引导全国高校师资培养与循证转化，但在大学学术[[Champ|场域]]内部遭遇了多范式治理冲突与自主性抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >
 > > - **自上而下政策导向（BMBF 与[[Positivism|实证主义]]取向）** 试图将实证证据、因果效能与清算转化确立为高校师资培养的法定基准，强调以国家项目指标考核倒逼大学内部组织变革。
@@ -201,9 +201,12 @@ updated: 2026-10-20
 > | [[Qualitätsoffensive Lehrerbildung]] | Fact (Program) | BMBF 发起设立并主导注资 5 亿欧元的全国性教师教育重大攻坚工程。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 莱布尼茨学会成员，BMBF 与各州共同资助并委托编撰国家[[Comprehensive Education\|综合教育]]报告。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 兄弟国家计算中枢，IQB 统筹国家标准与 [[Vergleichsarbeiten\|VERA]]，与 BMBF 项目形成数据互补。 |
+> | [[Chemie im Kontext]] | Fact (Program) | 应对首轮 PISA 冲击由 BMBF 资助研发推广的情境化化学教学改进重大工程。 |
+> | [[SINUS]] | Fact (Program) | BMBF 联合各州重点注资推广的数学与理科教学增效国家攻坚项目。 |
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证文献。 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al., 2025]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure\|数据基础设施]]中的联邦治理定位。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm\|范式]]治理张力。 |

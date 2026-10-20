@@ -3369,7 +3369,7 @@ Total entries: **3854**
 > - [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 
 > [!index-list]- Organization (1)
-> - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
+> - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，1967 年依据香港法例成立，从早期服务英国驻港侨民与公务员的国民学校，演进为 40%–50% 本地华人学生就读的非营利国际化教育机构，展现出普通话课程转向与独特的第四文化认同特征。
 
 > [!index-list]- Policy (6)
 > - [[2009 Hong Kong NSS Curriculum Reform]] — 2009 年实施的香港高中课程改革，从英式 3+2+2+3 学制转为 3+3+4 学制，引入通识教育科为必修科，统一考试为 HKDSE

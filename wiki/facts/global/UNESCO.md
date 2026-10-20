@@ -111,6 +111,7 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -152,7 +153,7 @@ updated: 2026-10-20
 >   发展中国家掀起不结盟运动并要求建立国际经济新秩序（New International Economic Order，NIEO），主导了争辩性多边主义（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
 >   - **1964** 与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 541)]]
->   - **1974** 在第三世界开展大规模区域教育普查，其区域统计揭示拉美外围国家中高等教育膨胀与初等扫盲停滞并存的畸形结构；此类普查后续延伸至拉丁美洲经济委员会（Economic Commission for Latin America，原文缩写 CEPAL）、联合国开发计划署（United Nations Development Programme，原文缩写 PNUD）与 UNESCO 的 1981 年拉美项目，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
+>   - **1974** 在第三世界开展大规模区域教育普查，其区域统计揭示拉美外围国家中高等教育膨胀与初等扫盲停滞并存的畸形结构；此类普查后续延伸至拉丁美洲经济委员会（Economic Commission for Latin America，缩写 CEPAL）、联合国开发计划署（United Nations Development Programme，缩写 PNUD）与 UNESCO 的 1981 年拉美项目，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
 >   - **1980** 世界银行正式发表教育部门政策文件，终结对教科文组织的业务依赖。双方理念由此深刻断裂：教科文组织坚持人文主义与普遍受教育权，拒绝世行把学校视作单一经济产出投入要素的功利算计。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
 > - **1980–2000** **规训性多边主义冲击、财政边缘化与[[Education for All|全民教育]]（Education for All，EFA）**
@@ -165,6 +166,7 @@ updated: 2026-10-20
 >   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1996 起** 在 OECD 发布《以知识为基础的经济》后，相继采纳并重申[[Knowledge-Based Economy|知识经济]]政策话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合经合组织与世界银行发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将[[International Indicators of Education Systems|INES]]指标方法学推广至转型期非成员国。
+>   - **1990s 末** 与[[OECD|经合组织]]及欧盟统计局共建联合国教科文组织-经合组织-欧盟统计局联合数据收集机制（UNESCO-OECD-Eurostat, UOE），实现底层数据同源共享，为欧盟[[Lisbon Strategy|里斯本战略]]的[[Performance Indicators|教育指标]]报告提供高达 50% 至 60% 的基础数据支撑。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
 >   - **1999** 在蒙特利尔成立[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UNESCO Institute for Statistics，UIS），奠定联合国统一教育统计基石。
 >
 > - **2000–2022** **[[UN Sustainable Development Goals|SDG 4]] 全球协调中枢、[[Learning Crisis|学习危机]]界定与数字时代再平衡**
@@ -205,7 +207,7 @@ updated: 2026-10-20
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
-> - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
+> - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）；与[[OECD|经合组织]]、欧盟统计局共建的 UNESCO-OECD-Eurostat（UOE）联合数据集（构成跨国教育统计与欧盟教育指标报告 50% 至 60% 的基础数据源；[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 
@@ -228,7 +230,7 @@ updated: 2026-10-20
 > - **政策塑造** 推动全球形成对弱势群体教育机会均等、难民受教育权保护以及教育公共属性的国际法和政治承诺。
 > - **学校与实践改变** 在发展中国家基层推动扫盲课程、和平教育、母语教学与环境[[Sustainability Education|可持续发展教育]]实验。
 
-> [!stat-cards]- 原条目保留的规模数据
+> [!stat-cards]- 核心规模数据
 > - **194** 个成员国。
 > - **12** 个准会员。
 > - **200** 个以上国家和地区的年度官方教育普查数据由 [[UNESCO Institute for Statistics|UIS]] 汇聚。
@@ -246,7 +248,7 @@ updated: 2026-10-20
 > > [!axis] 放贷权力缺失下的多边边缘化与[[Discourse|话语]]权转移：规范倡导 vs 资本牙齿
 > > 比较教育政治经济学深刻剖析教科文组织主导权让渡给金融机构的演变历程。
 > >
-> > - **批判制度学者（蒙迪与[[Robert Arnove|罗伯特·阿诺夫]]）** 蒙迪指出，教科文组织凭借人道主义与[[Lifelong Learning|终身学习]]理念曾引领战后有限再分配多边主义；但自 1980 年代[[World Bank|世界银行]]自立门户以来，教科文组织缺乏直接的金融借贷杠杆与结构调整硬约束，其全球教育政策领跑地位不可逆转地让渡给以经济生产率为核心的世界银行（Heyneman, 2003 也重申了这一点）。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
+> > - **批判制度学者（蒙迪与[[Robert Arnove|罗伯特·阿诺夫]]）** 蒙迪指出，教科文组织凭借人道主义与[[Lifelong Learning|终身学习]]理念曾引领战后有限再分配多边主义；但自 1980 年代[[World Bank|世界银行]]自立门户以来，教科文组织缺乏直接的金融借贷手段与结构调整强制约束，其全球教育政策领跑地位不可逆转地让渡给以经济生产率为核心的世界银行（Heyneman, 2003 也重申了这一点）。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 > > - **教科文组织立场** 强调教育的本质是人格养成与文化传承，不能屈从于短期[[Return on Investment|投资回报]]率；道德权威、多边民主协商与普遍合法性正是防范教育全面商品化与外包的最后防线。
 >
 > > [!axis] 财政依附、官僚迟钝与[[Geopolitics|地缘政治]]瘫痪
@@ -256,7 +258,7 @@ updated: 2026-10-20
 > > - **多边主义捍卫者** 反驳称这恰恰反映了教科文组织不畏强权、坚守国际公平正义的一国一票民主底色，是抵抗单边霸权干涉多边治理的必要代价。
 >
 > > [!axis] 人文主义倡导与依附性结构调整的脱节
-> > 批判政治社会学指出，教科文组织的宏观历史统计（如 1974 年拉美教育统计）如实揭示了[[Development Education|发展中国家教育]]扩张呈现“高等中等暴增与初等扫盲停滞”的阶级双轨畸变；然而在 1980 年代债务危机与新自由主义重组中，缺乏金融制约杠杆的教科文组织被[[Human Capital Theory|人力资本]]与结构调整议程边缘化，无力遏制世界银行以贷款条件强制受援国推行使用者付费与[[Educational Privatisation|教育私有化]]，显露出联合国人文主义道德号召在跨国资本支配逻辑面前的制度无力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
+> > 批判政治社会学指出，教科文组织的宏观历史统计（如 1974 年拉美教育统计）如实揭示了[[Development Education|发展中国家教育]]扩张呈现“高等中等暴增与初等扫盲停滞”的阶级双轨畸变；然而在 1980 年代债务危机与新自由主义重组中，缺乏金融强制手段的教科文组织被[[Human Capital Theory|人力资本]]与结构调整议程边缘化，无力遏制世界银行以贷款条件强制受援国推行使用者付费与[[Educational Privatisation|教育私有化]]，显露出联合国人文主义道德号召在跨国资本支配逻辑面前的制度无力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
 >
 > > [!axis] 国际规范模板与本土国情适切性的结构张力：普适学制与教学法 vs 本土情境制约
 > > 比较教育学者揭示教科文组织标准模式在发展中国家本土遭遇的脱节与变通。
@@ -276,10 +278,10 @@ updated: 2026-10-20
 > > - **批判政策社会学派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出，在经合组织 1996 年提出《以知识为基础的经济》之后，教科文组织与世界银行均紧随其后采纳并重申了知识经济话语，将教育绑定于经济生产力；同时在 1997 年加入由经合组织主导的“[[World Education Indicators|世界教育指标]]”（WEI）同盟，将深植于新自由主义预设的比较指标技术推广至转型国家，暴露出其规范理念在跨国经济竞争话语冲击下的妥协与同化（pp. 443–445）。
 > > - **教科文组织捍卫者** 辩称采纳知识经济等术语属于顺应全球现实的策略性对话，机构在《德洛尔报告》及后续文件中始终将四大支柱、人格尊严与社会公平置于经济工具性之上。
 >
-> > [!axis] 全球教育理念领导权易手与免费建议的制度无效性：道德号召 vs. 信贷物质杠杆
+> > [!axis] 全球教育理念领导权易手与免费建议的制度无效性：道德号召 vs. 信贷资金约束
 > > 争论教科文组织以纯粹无偿咨询与人道主义宣言为基础的治理模式，在面临政治阻力时是否具备实质效能。
 > >
-> > - **圈内制度批判（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** [[Claudio de Moura Castro|卡斯特罗]]直言，教科文组织引领全球教育新理念的时代早已远去；宗迪恩大会完全由世行主导。更重要的是，教科文组织极其慷慨地向成员国免费提供源源不断的政策建议，但因为教育改革充满政治痛苦，各国教育部根本不怎么理会这些免费理念；缺乏贷款资金物质杠杆的构想极易沦为“听起来悦耳动听、签署批准时庄严华丽，但全然无足轻重”的纸面仪式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472–473)]]
+> > - **圈内制度批判（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** [[Claudio de Moura Castro|卡斯特罗]]直言，教科文组织引领全球教育新理念的时代早已远去；宗迪恩大会完全由世行主导。更重要的是，教科文组织极其慷慨地向成员国免费提供源源不断的政策建议，但因为教育改革充满政治痛苦，各国教育部根本不怎么理会这些免费理念；脱离信贷资金物质支持的构想极易沦为“听起来悦耳动听、签署批准时庄严华丽，但全然无足轻重”的纸面仪式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472–473)]]
 > > - **教科文组织人文主义捍卫者** 辩称道德权威与普遍人权基准具有超越短期财政借贷的跨时代规范效力，正是这种不依附于商业还本付息的独立性，捍卫了教育不被异化为单纯经济生产投入要素的公共属性底线。
 >
 > > [!axis] 人文主义道德高地 vs 地缘合法性反击与全球话语垄断共谋
@@ -328,33 +330,28 @@ updated: 2026-10-20
 > | [[Conditioned State Theory]] | 理论 | [[Critical Pedagogy\|批判教育学]]者结合教科文组织历史统计，建构外围受限国家教育扩张与合法化矛盾的宏观理论。 |
 > | [[Pluri-Scalar Governance]] | 理论 | 教科文组织在超国家标度上扮演规范制定与政策倡导中枢。 |
 > | [[State Educational Sovereignty]] | 概念 | 教科文组织多边公约与主权国家教育自主权构成的法理张力。 |
-> | [[Knowledge Bank]] | 概念 | 凭借贷款资金杠杆取代教科文组织智识领跑地位的世界银行知识生产模式。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 472–473)]] |
-> | [[Multilateral Development Bank]] | 概念 | 凭借主权借贷契约与资金杠杆迫使受援国采纳教育改革的超国家金融机构原型。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 455–457)]] |
+> | [[Knowledge Bank]] | 概念 | 凭借信贷资金实力取代教科文组织智识领跑地位的世界银行知识生产模式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]] |
+> | [[Multilateral Development Bank]] | 概念 | 凭借主权借贷契约与信贷附带约束迫使受援国采纳教育改革的超国家金融机构原型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457)]] |
 > | [[Development Education]] | 概念 | 教科文组织与多边银行长期参与其中的全球南方教育发展实务领域。 |
-> | [[Robert Arnove]] | 人物 | 梳理教育多边主义三阶段演变并辨析教科文组织与世行主导权交替的历史脉络。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, p. 110)]] |
-> | [[Carlos Alberto Torres]] | 人物 | 曾任联合国教科文组织[[Global Citizenship\|全球公民教育]]教席，长期关注教科文组织人文主义愿景与批判教育学的交汇。 |
+> | [[Robert Arnove]] | 人物 | 梳理教育多边主义三阶段演变并辨析教科文组织与世行主导权交替的历史脉络。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]] |
+> | [[Carlos Alberto Torres]] | 人物 | 曾任联合国教科文组织[[Global Citizenship|全球公民教育]]教席，长期关注教科文组织人文主义愿景与批判教育学的交汇。 |
 > | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作系统运用教科文组织宏观历史数据，剖析拉美教育扩张与国家危机。 |
-> | [[Val D. Rust]] | 人物 | 援引教科文组织 2006 年 EFA 监测报告，剖析全球化外援依附与古巴自主动员对教育普及的决定性影响。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 134)]] |
-> | [[Fazal Rizvi]] | 人物 | 与林加德合作解构教科文组织参与的多边指标合作与知识经济话语扩散。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 443–445)]] |
-> | [[Bob Lingard]] | 人物 | 批判政策社会学家；实证考察全球多边教育治理[[Discourse\|话语]]滑移与新自由主义[[Social Imaginary\|社会想象]]的代表学者。 |
-> | [[Knowledge-Based Economy]] | 概念 | 经合组织倡导并辐射至教科文组织的全球主导话语，将教育重构为经济竞争力杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 444–445)]] |
-> | [[International Baccalaureate Nutritional Science Course\|国际文凭营养科学课程]] | 事实 (项目) | 教科文组织曾提供小额专家交流资助以探讨其在远东国际学校常规扩散可行性的校本实验课程。[[Argument_Peterson_1987_OpenCourt_Ch08\|(Peterson, 1987, pp. 204–205)]] |
-> | [[Global Educational Discourse]] | 概念 | 教科文组织与世行、经合组织共同参与建构的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
-> | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，将教科文组织等国际机构定位于话语过度简化与中介的第二位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–352)]] |
-> | [[Jason Beech]] | 人物 | 比较教育学者；系统剖析教科文组织《德洛尔报告》的[[Geopolitics\|地缘政治]]合法性反击及其与经济主义话语深层共谋的学者。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid] 文献与论证索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215–216)]] — 记录教科文组织对营养科学课程推广的小额专项资助，并辨析国际规范倡导与具体办学供给责任。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合蒙迪（Mundy, 1998, 1999）与[[Stephen P. Heyneman|海尼曼]]（Heyneman, 2003）研究，梳理多边主义从有限再分配向规训性阶段演进中教科文组织主导权的流失，并辨析其 6-3-3 学制模板与儿童中心教学规范在本土落地时的适切性张力（pp. 106, 108, 110）。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，剖析宗迪恩大会后教科文组织教育理念领导权的易手，以及缺乏贷款资金杠杆导致的“免费建议廉价性悖论”（pp. 466, 472–473）。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析教科文组织与[[World Bank|世界银行]]从 1964 年合作协定到[[Paradigm|范式]]分道扬镳的组织演进历程，揭示其在当代全球[[Learning Data Compact|学习数据契约]]中的再平衡定位（pp. 541–545）。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引教科文组织历史宏观教育普查数据，揭示第三世界外围[[Conditioned State Theory|受限国家]]中高等教育膨胀与基础教育停滞的结构性矛盾（pp. 81–83）。
-> - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 评析教科文组织在人工智能时代推出的[[Generative Artificial Intelligence|生成式人工智能]]应用指南与师生能力框架，强调捍卫[[Epistemic Agency|认识主体性]]与伦理底线（pp. 358–360）。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引教科文组织 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》数据，实证检验全球化结构调整对受援国基础[[Performance Indicators|教育指标]]达标的消极影响，并以古巴自主国家动员为对照阐明主权自决对实现[[Education for All|全民教育]]的关键意义（p. 134）。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 考察教科文组织与[[OECD|经合组织]]、世界银行合作开展“[[World Education Indicators|世界教育指标]]”（WEI）项目的历史，揭示其在经合组织示范下跟进采纳[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的制度妥协（pp. 443–445）。
-> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 援引联合国教科文组织 2013/2014 年全球监测报告关于[[Learning Crisis|全球学习危机]]的经典界定，将基础教育普及但基本技能缺失的宏观矛盾确立为 Teach [[Classroom Observation|课堂观察]]手册研发的核心动因。（p. 2）
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验解构[[International Education|国际教育]]多边治理，揭示《[[Delors Report|德洛尔报告]]》的人文主义修辞背后教科文组织与世行、经合组织共同建构“信息时代”五大支柱全球话语的深层共谋，以及面对两强夹击时的[[Geopolitics|地缘政治]]合法性反击（pp. 344–349）。
+> | [[Val D. Rust]] | 人物 | 援引教科文组织 2006 年 EFA 监测报告，剖析全球化外援依附与古巴自主动员对教育普及的决定性影响。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]] |
+> | [[Fazal Rizvi]] | 人物 | 与林加德合作解构教科文组织参与的多边指标合作与知识经济话语扩散。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]] |
+> | [[Bob Lingard]] | 人物 | 批判政策社会学家；实证考察全球多边教育治理[[Discourse|话语]]滑移与新自由主义[[Social Imaginary|社会想象]]的代表学者。 |
+> | [[Knowledge-Based Economy]] | 概念 | 经合组织倡导并辐射至教科文组织的全球主导话语，将教育重构为提升经济竞争力的核心机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]] |
+> | [[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]] | 事实 (项目) | 教科文组织曾提供小额专家交流资助以探讨其在远东国际学校常规扩散可行性的校本实验课程。[[Argument_Peterson_1987_OpenCourt_Ch08|(Peterson, 1987, pp. 204–205)]] |
+> | [[Global Educational Discourse]] | 概念 | 教科文组织与世行、经合组织共同参与建构的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]] |
+> | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，将教科文组织等国际机构定位于话语过度简化与中介的第二位置。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]] |
+> | [[Jason Beech]] | 人物 | 比较教育学者；系统剖析教科文组织《德洛尔报告》的地缘政治合法性反击及其与经济主义话语深层共谋的学者。 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987)]] | Argument | 记录教科文组织对营养科学课程推广的小额专项资助，辨析国际规范倡导与具体办学供给责任。 |
+> | [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] | Argument | 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。 |
+> | [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] | Argument | 剖析宗迪恩大会后教科文组织教育理念主导权易手，以及脱离信贷资金支持导致的免费建议廉价性困境。 |
+> | [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] | Argument | 剖析教科文组织与世界银行从 1964 年合作协定到范式分道扬镳的历程及学习数据契约再平衡。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] | Argument | 援引教科文组织历史宏观教育普查数据，揭示拉美受限国家中高等教育膨胀与基础教育停滞的矛盾。 |
+> | [[Argument_Wu_2025_ER|Wu et al. (2025)]] | Argument | 评析教科文组织推出的生成式人工智能应用指南与师生能力框架，强调捍卫认识主体性。 |
+> | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | Argument | 援引教科文组织 2006 年全民教育监测数据，实证检验全球化外援依附与古巴自主动员的对比。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] | Argument | 考察教科文组织与经合组织合作开展世界教育指标（WEI）项目的历史及其对知识经济话语的跟进。 |
+> | [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] | Argument | 援引联合国教科文组织 2013/2014 年全球监测报告对全球学习危机的界定作为课堂观察手册动因。 |
+> | [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] | Argument | 揭示《德洛尔报告》背后教科文组织与世行、经合组织共建全球话语的深层共谋及地缘反击。 |
+> | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | Argument | 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。 |
