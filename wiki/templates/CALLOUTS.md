@@ -6,7 +6,7 @@ type: template
 tags: []
 status: active
 created: 2026-06-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Callouts
@@ -29,6 +29,22 @@ updated: 2026-10-20
 
 - CSS 位置：`argument-callouts.css` 末尾 `v4 · Editorial Hairline` 段，共 10 节。删除该段即回到 v3；v3 原文件备份在 `tmp/callout-design-backup-v4/`。
 - 新增组件时无需单独写材质：设定 `--callout-color` 即自动获得 `--ac-ink / --ac-tint / --ac-line` 等派生色。卡片型组件需要白卡效果时，把组件名加入第 06 节列表。
+
+### v4.1 · 逐个组件设计（2026-10-21）
+
+按库内真实用法逐个调整，组件分六种形态。共同的标题结构：**眉标**（短横 + 全大写小字，强调色）→ **衬线标题**（正文墨色）→ 正文。
+
+| 形态 | 组件 | 设计 |
+| --- | --- | --- |
+| 文档型 | claim、warrant、def、citation-card、theory-proposition、question、implication、conclusion、case | 纸面底 + 左侧 3px 色轨；warrant 段首为衬线斜体 *because*；citation-card 原文用衬线斜体缩进；question 正文改衬线；case 条目以发丝线分隔、标签为强调色引导词 |
+| 提示型 | note、info、tip、success、warning、example、abstract、danger 等 | Notion 式色调底 + 同色细框；图标 + 标题一行，不再重复英文徽章 |
+| 引文/目录 | quote、index-list | quote 无底色、细竖线、衬线斜体；index-list 中性细框、紧凑列表 |
+| 卡片网格 | concept-lens、feature、actor-grid、person-profile、stat-cards、finding-cards、evidence-grid、critique、dimension、policy-* / method-* / *-context 等 | 纸面容器 + 白卡 + 发丝线；卡片小标题用强调墨色；stat-cards 为大号等宽数字；finding-cards 衬线编号；critique / evidence 编号移到右上角 |
+| 表格面板 | entry-map、ref-table、contrast-table、row-contrast、ma-table、framework-table、method-panel、sample-panel 等 | 纸面容器 + 白底细框表格，表头灰阶小字，只留横向分隔线 |
+| 轨道序列 | timeline、dev-timeline、thought-timeline、phase、proc、chain-link、pathways、org-evolution 等 | 去掉条目卡片，细竖线 + 空心编号节点 / 实心圆点；年份用等宽强调色 |
+| 专用 | boundary、debates、tension、line-a…e | boundary 虚线框（界线语义）+ 短横列表；debates 子卡白底、顶边按序着色；tension 白卡顶边蓝/红 + 中性 VS；line 系列眉标显示 LINE A/B/C |
+
+- CSS 位置：`argument-callouts.css` 末尾 `11 Component designs` 段，由 `tmp/callout-design-backup-v4/gen.py` 生成。新增组件时把名字加进对应形态的列表即可获得整套样式。
 
 ## 视觉系统 v3 · Prismatic study
 
