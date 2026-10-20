@@ -8,7 +8,7 @@ aliases:
 summary: "当代中国外交大战略与全球治理哲学的核心规范性概念。指中国依托自身发展型国家实践、制度治理效能与现代化经验，向国际社会提供的一套区别于西方新自由主义模式的跨国公共产品与治理方案；在高等教育与知识外交实践中，通过输出中国工程技术标准、建立联合攻关网络与推动非西方治理经验互鉴，充当重塑国际权力与知识格局的关键话语透镜。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
