@@ -81,6 +81,14 @@
     {
       "sentence": "**社会与文教援助投入（人文导向）** 同期涵盖高等教育、师资培训与社会交叉领域的援助总额仅为 4.92 亿美元，基建援助规模约为文教社会的 2.36 倍，凸显出人文互联滞后于工程建设的结构短板。",
       "target": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md"
+    },
+    {
+      "sentence": "They demonstrate China’s leading technology and prosperous market, tell vivid stories of China’s development pathway, and harvest hearts and minds of overseas elites with Benevolence and inclusionism.*",
+      "target": "wiki/concepts/chinese-philosophy/Benevolence.md"
+    },
+    {
+      "sentence": "**单一案例推广局限** 由于调研聚焦柬埔寨单一国别个案，因东南亚各国内部政治制度、对华历史渊源、宗教文化及经济发展水平异质性显著，案例推论无法直接普适于东盟所有成员国。",
+      "target": "wiki/concepts/research-methodology/Heterogeneity.md"
     }
   ]
 }
