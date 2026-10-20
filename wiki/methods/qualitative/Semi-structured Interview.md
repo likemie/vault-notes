@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,13 +44,14 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 related_facts:
   - "[[OECD]]"
   - "[[Semiconductor Research Corporation]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Semi-structured Interview
@@ -154,3 +155,4 @@ updated: 2026-10-19
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 253–254)]] — 围绕“可见的学习”在丹麦等地的本土化翻译、专营培训脚本化、理论与实证张力及多重学术-商业角色，通过跨国远程半结构化访谈对[[John Hattie|约翰·哈蒂]]（John Hattie）展开同行深度质询与反思性考察。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在[[Semiconductor Research Corporation|SRC]]单机构[[Case Study|案例研究]]中访谈 19 名总裁、主管、成员企业代表与受资助学者，考察[[University-Industry Collaboration|产学合作]]联合体的决策与治理特征。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012, pp. 336, 341–342)]] — 运用半结构化访谈针对英国财政部、教育与就业部（DfEE）高级公务员、“新政”特别工作组成员及美国 MDRC 智库专家展开调研，解构官僚行动者在跨国政策搜寻中采纳美国证据与评估技术的幕后决策逻辑。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 在金边及在华针对 40 位关键知情人（涵盖中柬高教项目管理者、孔子学院教职员、留学生及第三方外援项目协调人）开展半结构化深度访谈，通过平衡利益相关者与转岗/对比官员视角，解构对外高教合作的落地成效与深层张力。
