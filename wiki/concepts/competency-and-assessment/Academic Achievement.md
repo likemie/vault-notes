@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 161
+related_count: 162
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -410,7 +410,7 @@ updated: 2026-10-20
 > | **成就阶梯与性别优势认识论根源** | 长期平时成绩优劣分化与固定能力观、简单知识观紧密挂钩；女生在多维学业表现上的相对优势受成长型能力观与关系性反思认知方式支撑。 | 学业成就分层干预、学困生归因辅导、性别与学业差异研究 | Lodewyk; Greene et al. |
 > | **测量效标锚定与因果测验准则** | 学业成就测量需通过标准化独立测验或与行政数据库（NPD）/实际总评（OAA）深度锚定；警惕自编测验效应膨胀与学段替代赤字。 | 量化实证研究设计、大规模因果评估、测量误差与证据对齐控制 | Greene et al.; Lodewyk; Slavin; Edovald & Nevill; Ginsberg et al. |
 > | **生成式 AI 时代成果脱节与过程性评价转向** | 终稿文本的表面流畅性掩盖深层认知卸载与工具代答假象；学业成就评价需转向包含提示词追踪、事实核查与反思辩护的过程性生态。 | 高等教育生成式技术应用、课程与评价改革、生成式 AI 促学效应元分析 | Li et al.; Chen & Cheung; Ünal et al. |
-> | **全球治理中的成就话语建构与审计管理** | 跨国与国家治理中学业成就指标具备政治驱动力与话语可塑性，客观平稳数据易被再造为危机修辞，提高成绩的政治指令迫使督导规程绑定有效学校研究以推行行政简化。 | [[International Large-Scale Assessments\|国际大规模评估]]（PISA）、[[School Inspection\|学校督导]]、政策[[Discourse Analysis\|话语分析]]、[[World-Systems Theory\|世界体系分析]] | Grey & Morris; Arnove; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al.]] |
+> | **全球治理中的成就话语建构与审计管理** | 跨国与国家治理中学业成就指标具备政治驱动力与话语可塑性，客观平稳数据易被再造为危机修辞，提高成绩的政治指令迫使督导规程绑定有效学校研究以推行行政简化。 | [[International Large-Scale Assessments\|国际大规模评估]]（PISA）、[[School Inspection\|学校督导]]、政策[[Discourse Analysis\|话语分析]]、[[World-Systems Theory\|世界体系分析]] | Grey & Morris; Arnove; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022]] |
 > | **多层因果链条中的远端脱节悖论** | 学业成就是检验教育干预的终极客观标尺；中介行为改变、宏观财政注资与行政数据回传常因五级治理链条阻滞与校长把关过滤而与终端学业增益严重脱节。 | [[Evidence-Based Education\|循证教育]]因果评估、多级治理链条审计、教育经济学、公共财政投入评估 | Gorard et al.; Altrichter et al.; Manitius & van Holt; Hattie; Ginsberg et al. |
 > | **多层方差分解与教师核心枢纽** | 学业成就变异呈现结构性层级：教师教学互动是系统内最大可控因果源泉；批判学者揭示生源阶层主导大部分方差，警惕将结构性不平等简化为微观个人归因。 | 教育政策设计、学校效能研究、资源分配优先级排序、社会阶层与教育公平 | Hattie; [[World Bank\|World Bank Group]]; Snook et al.; Terhart; Grace; Kalmendal et al. |
 > | **分层循证教学与学业差距消除** | 全班教学升级与助教分层辅导结合，以及学科针对性资源配置与密集辅导，能以可承受成本系统性消除薄弱学校学业差距。 | CSI 薄弱学校改进、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿资助、[[Response to Intervention\|干预反应模型]]（RTI）分层预防 | Slavin; Ginsberg et al. |
