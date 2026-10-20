@@ -4,7 +4,7 @@ aliases:
   - 绩效指标
   - education indicators
   - 教育指标
-summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024）；在经合组织“数字政策进路”与投入产出系统中以等价空间信度悬置教育目的哲学辩论（Rizvi & Lingard, 2009）；并在超国家治理网络中成为高度流通的专业数据资产与跨机构依附纽带（Grek, 2009）。"
+summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 71
@@ -316,7 +316,7 @@ updated: 2026-10-21
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构[[OECD|经合组织]] [[International Indicators of Education Systems|INES]] 项目与《[[Education at a Glance|教育概览]]》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以[[EU|欧盟]]区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化规训在提升教育绩效上的实质困境。
@@ -324,12 +324,13 @@ updated: 2026-10-21
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证揭示[[New Zealand National Standards|新西兰国家标准]]与可见学习[[Effect Size|效应量]]指标如何被教育官僚降格为微观考核硬指标，引发基层学校应试表演与数据自证异化。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 195–196)]] — 追踪经合组织如何依托 INES 项目与《教育概览》将绩效指标文化植入成员国教育部，并将学习产出指标缺失界定为治理危机，为自主研制大规模测评工具确立合法威权。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧洲教育空间中指标治理的生产网络，实证揭示欧盟里斯本战略指标体系有 50%–60% 的数据直接采购自经合组织，呈现跨机构数据基础设施依附。
 
 ---
 
 ## 条目关联
 
-> [!entry-map|notitle]
+> [!entry-map] 绩效指标相关条目关联矩阵
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -337,6 +338,7 @@ updated: 2026-10-21
 > | [[Façade of Rationality]] | 概念 | 理论深化，绩效指标作为核心构件为充满争议的公共决策搭建理性客观外表。 |
 > | [[Soft Power by Hard Facts]] | 概念 | 权力机制，超国家组织以绩效指标作为硬事实施展非强制性跨国规制。 |
 > | [[Performativity of Measurement]] | 概念 | 反身后果，揭示指标反客为主重构教育行为并诱发投机表演的社会学本质。 |
+> | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 实证揭示欧盟里斯本战略指标体系对经合组织的数据采购与跨机构基础设施依附。 |
 
 ---
 
