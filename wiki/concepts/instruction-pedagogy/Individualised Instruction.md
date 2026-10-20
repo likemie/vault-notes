@@ -8,7 +8,7 @@ aliases:
 summary: "围绕学生差异动态调整教学进度、内容难度与支架强度的微观教学组织形式。元分析显示其孤立效应微弱，其实质成效高度依赖教师认知结构的持续在场与小班额等组织条件的交互支撑；在跨国教育治理中亦被提炼为兼顾卓越与公平的可移植政策处方（Grek, 2009）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

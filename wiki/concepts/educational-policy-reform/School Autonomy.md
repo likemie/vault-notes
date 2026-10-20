@@ -8,7 +8,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并挤压受援国的政策探索空间；而在分权管辖中亦可与学校自我评估相结合，被地方教育当局作为抵御外来集权审计与市场化移植的专业防御机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

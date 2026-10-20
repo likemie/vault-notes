@@ -136,6 +136,7 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: stable
 created: '2026-05-01'
@@ -375,6 +376,9 @@ updated: 2026-10-21
 > [!claim] Grey and Morris
 > **[[Mediatised Governance|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
 
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **策略性外在化与差异化本土借用模式** 索蒂里亚·格雷克（Sotiria Grek）在实证比较英格兰、苏格兰、德国与芬兰对 PISA 测评的政策反响时指出，跨国政策借用是决策者操纵外部世界情境以平息国内争议的“策略性外在化”（strategic externalization）机制（pp. 34–35）。各国借用模式深受本土权力结构制约：德国借助低排位制造“丑闻化（scandalisation）”以冲破各州长期僵局并确立联邦国家标准；英格兰借助高排位为其准市场择校与高利害问责模式确立合法性依据并压制阶级不平等质疑；苏格兰则将良好排位作为确证教师专业自决的制度护盾以主动抵御来自英格兰的政策移植；而欧盟委员会则将芬兰经验提炼为“同伴学习”的可移植处方。跨国测评数据因而成为政策行动者依循各自政治逻辑按需裁量、用于平息辩论与确立国内合法性的多功能工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
+
 ---
 
 ### 命题三　教育政策在跨国转移中必然因微观政治介入而发生形态变异与本土转译
@@ -457,7 +461,7 @@ updated: 2026-10-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **工具性借用与情境冲突** | 地缘竞争焦虑驱动工具性借鉴，常因本土历史文化防护引发体制排异 | 地缘危机恐慌期或赶超式改革语境 | Sadler; Klerides |
-> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行外化论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias; Grey & Morris; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
+> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行外化论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias; Grey & Morris; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]; [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 > | **流动转译与形态变异** | 政策元素在转移中必然经历本地转译，在微观权力作用下产生实践变形 | 跨国政策移植的落地与实施阶段 | Cowen; Schriewer; Klerides |
 > | **合法化功能与行政强力边界** | 借用话语作为合法化策略，在政府拥有绝对命令权力的语境下面临失效 | 政治环境剧变、强制性行政权力接管时期 | Yan & Morris |
 > | **数据基础设施与拓扑装配** | 跨尺度数据流动与算法[[Commensuration\|通约]]取代单一文本借用，将外部基准折叠进微观教学 | 大规模数据监测普及、数字化治理与联邦多级体制 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
