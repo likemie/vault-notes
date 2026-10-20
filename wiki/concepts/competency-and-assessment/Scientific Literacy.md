@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 64
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -74,6 +74,9 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[UK Science Education Tracker]]"
   - "[[Public Attitudes to Science]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Chemie im Kontext]]"
+  - "[[SINUS]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
@@ -82,6 +85,7 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
@@ -114,11 +118,11 @@ updated: 2026-10-21
 > [!citation-card] 英国皇家学会官方五大支柱界定
 > 科学素养意味着对科学具有充分的理解，从而能够领会：
 > 1. 什么是科学、科学如何运作、科学能够揭示什么以及不能揭示什么、其优势与局限性所在；
-> 2. 科学并非突然发现既定事实，而是逐步降低不确定性的演进过程；
+> 2. 科学是逐步降低不确定性的演进过程，不同于对既定事实的突发性发现；
 > 3. 抱有怀疑绝不等于一无所知；
 > 4. 通过同行评议进行的公开审视是科学实现自我纠错的关键；
 > 5. 学术分歧不可或缺，且必须通过生成进一步的实证证据来化解。
-> 基础科学知识的核心依然重要，但对于不大可能从事科技专业职业的普通公众而言，它绝非科学教育中最关键的维度。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
+> 基础科学知识的核心依然重要，但对不大可能从事科技专业职业的普通公众而言，证据评估与探究理解比单纯记忆学科知识更为关键。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 >
 > *Scientific literacy means having sufficient understanding of science to be able to appreciate: what science is, how it operates, what it can and cannot reveal, its strengths and limitations; that science is not the sudden discovery of facts but a gradual reduction in uncertainty; that doubt does not mean knowing nothing; that openness and scrutiny through peer review are key to self-correction; that disagreement is essential and resolved by generating additional evidence. A foundational core of scientific knowledge is still important, but is not the most critical aspect of a science education for those who are unlikely to pursue a scientific or technical career.*
 
@@ -138,11 +142,11 @@ updated: 2026-10-21
 ## 概念辨析
 
 > [!contrast-table] 科学素养与相近核心[[Construct|构念]]辨析表
-> | 比较维度 | [[Scientific Literacy\|科学素养（Scientific Literacy）]] | [[Science Capital\|科学资本（Science Capital）]] | [[Data Literacy\|数据素养（Data Literacy）]] | [[AI Literacy\|人工智能素养（AI Literacy）]] |
+> | 比较维度 | [[Scientific Literacy|科学素养（Scientific Literacy）]] | [[Science Capital|科学资本（Science Capital）]] | [[Data Literacy|数据素养（Data Literacy）]] | [[AI Literacy|人工智能素养（AI Literacy）]] |
 > |---|---|---|---|---|
-> | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与坚守实证客观性 | 解释个体为何认为科学是否适合我的综合社会[[Cultural Capital\|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination\|大模型幻觉]]与人机协作伦理 |
-> | **构念构成** | [[Nature of Science\|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
-> | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse\|核心素养]]底座与国家循证治理基石 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
+> | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与坚守实证客观性 | 解释个体为何认为科学是否适合我的综合社会[[Cultural Capital|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination|大模型幻觉]]与人机协作伦理 |
+> | **构念构成** | [[Nature of Science|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
+> | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse|核心素养]]基础与国家循证治理基石 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
 > | **主要政策场景** | 基础教育科学课程改革、公民素养监测、联邦科研评审去意识形态化 | 促进教育公平、打破边缘群体与女性科学参与壁垒 | 应对数字媒体统计误导、公共卫生与气候危机风险沟通 | 防范算法虚假信息扩散、规范智能检索与科研辅助使用 |
 
 ---
@@ -152,7 +156,7 @@ updated: 2026-10-21
 > [!feature] 现代科学素养五大核心能力支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018]]; [[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）
 > - **理解科学运作机制与[[Nature of Science|科学本质]]（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & [[Source Evaluation]]）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
-> - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认证据有限与未知并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认证据有限与未知体现了严谨探索的必然常态，不能等同于科学无能；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **实证可复现性与金标准科学鉴别力（Replication & [[Gold Standard Science]]）** 具备识别实验[[Reproducibility Crisis|可重复性危机]]（Replication Crisis）、原始数据透明度、[[Preregistration|预注册]]方案（Pre-registration）以及统计功效的能力；坚守基于学术卓越的客观评价，警惕非科学意识形态标准对科研质量的扭曲。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 > - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候、公共卫生与前沿技术治理，并审视生成式 AI 工具带来的模型幻觉与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 161)]]
 
@@ -183,7 +187,7 @@ updated: 2026-10-21
 > **公民导向范式转型** 科学教育必须从服务于大学专业学科输送少数预备科研人员的狭隘管网（[[STEM Education|STEM]] Pipeline）思维中解脱出来，首要使命在于为所有未来的公民提供理解科技争议、评估媒体报告、参与现代社会生活所需的科学素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
-> **全员科学教育的社会民主价值** 科学教育的双重目标并非零和博弈；为全体年轻人提供扎实的科学探究体验与证据评估能力，不仅是维系民主社会理性协商的基石，也是扩大[[Science Capital|科学资本]]、吸引多元背景人才进入科技领域的根本途径。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–32)]]
+> **全员科学教育的社会民主价值** 科学教育的双重目标构成相互促进的协同关系；为全体年轻人提供扎实的科学探究体验与证据评估能力，既能维系民主社会理性协商，也能扩大[[Science Capital|科学资本]]并吸引多元背景人才进入科技领域。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–32)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]]
 > **参与[[Epistemic Practices|认识论实践]]培育民主审议理性** 稳健科学教育的基石在于引导学生深度参与学科认识论实践。这种参与不仅让学生掌握证据评估的微观规程，更能使他们领会[[Knowledge Production|知识生产]]共同体的核心民主价值（说服优于强制、[[Open-Mindedness|思想开放]]优于教条盲从、审慎考量备选方案），为在公共领域中作为有教养的现代公民理性审议科技争议奠定[[Epistemology|认识论]]能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]
@@ -202,7 +206,7 @@ updated: 2026-10-21
 > **破除确定性神话与抵御极端怀疑论** 缺乏对[[Scientific Uncertainty|科学不确定性]]的理性认知，是公众走向反智主义与阴谋论的重要诱因；当公众误以为科学是绝对真理时，一旦科学界因新证据而修正早期共识（如防疫指导动态更新），便会产生严重的被背叛感；理解暂定性与自我纠错是科学素养的核心防御武器。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]]
-> **破除单一[[Scientific Method|科学方法]]神话与体会公共审查价值** 真正的科学素养绝非去教条地掌握八项固定实践或所谓科学方法五个步骤，而是去识别各学科多元的知晓方式，并体会以系统化方式理解世界以使证据向公共审查与评价开放的崇高价值。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]
+> **破除单一[[Scientific Method|科学方法]]神话与体会公共审查价值** 真正的科学素养重在识别各学科多元的知晓方式，体会以系统化方式使证据向公共审查与评价开放的崇高价值，超越对八项固定实践或五个步骤等教条套路的机械记忆。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]
 
 ---
 
@@ -222,7 +226,7 @@ updated: 2026-10-21
 ### 命题四　立法与政策制定群体的证据素养短板构成现代循证治理的制度瓶颈
 
 > [!concept-lens] 政策决策者的证据素养与信息中介依赖
-> 科学素养并非仅仅是中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现[[Output-Oriented Governance|循证治理]]的前提条件。
+> 科学素养不仅涵盖中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现[[Output-Oriented Governance|循证治理]]的前提条件。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026, Ch. 5)]]
 > **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；皇家学会建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
@@ -232,7 +236,7 @@ updated: 2026-10-21
 ### 命题五　科学素养的有效培育依赖于支架式探究与直接教学的协同而非孤立放任探索
 
 > [!concept-lens] 教学交互与证据探究协同机制
-> 科学素养的养成并非源于非此即彼的孤立探究或灌输，而在于教师精心设计的支架式探究与结构化[[Direct Instruction|直接教学]]的紧密互补。
+> 科学素养的养成依赖于教师精心设计的支架式探究与结构化[[Direct Instruction|直接教学]]的紧密互补，超越了单一孤立探究或灌输的教学局限。
 
 > [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
 > **探究指导[[Interaction Effect|调节效应]]与教学最佳平衡点** [[International Large-Scale Assessments|国际大规模学生评估]]（PISA 2015）跨国实证数据揭示，科学素养与课堂探究教学频率呈非线性倒 U 型曲线（Chen et al., 2017），当支架式探究与直接教学紧密结合时达到科学表现的最佳平衡点（Sweet Spot）；教师指导是核心调节[[Variable|变量]]（Aditomo & Klieme, 2020），缺乏教师指导的孤立探究与科学素养显著负相关，而在全部 16 个高成效教育系统中，教师主导的支架式探究均呈稳健正相关；同时探究活动类型存在极高维度[[Heterogeneity|异质性]]（Cairns, 2019），基于实验设计与数据推论的动手探究显著促进科学素养，而缺乏先验知识支撑的泛化课堂争论则表现为负向关联。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 5–6)]]
@@ -249,6 +253,19 @@ updated: 2026-10-21
 
 ---
 
+### 命题七　大规模跨国测评驱动科学素养从“学校学科知识大纲”向“面向成人生活的功能性情境应用”范式重塑
+
+> [!concept-lens] 跨国测评导向与课程知识重构
+> 探讨国际大规模评估（如 PISA）如何通过解绑特定国家课程大纲，将科学素养重新界定为应对成人现实生活与未来劳动力市场挑战的功能性核心能力，并反向驱动国家科学课程的情境化重塑。
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **脱离课程大纲的成人生活功能性科学素养** 索蒂里亚·格雷克（Sotiria Grek）指出，经合组织在 PISA 中对科学素养的技术界定彻底打破了传统国家教学大纲的束缚：评估跳过各受测国具体的物理、化学或生物学科知识要点，转而测量 15 岁学生在真实成人生活情境中理解科学概念、识别科学证据并做出合理解释的功能性生活能力。这种去情境化的大规模测评确立了全球可比标尺，将科学素养重塑为面向未来知识经济与劳动力市场适应力的通用能力指标。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **国际排名震荡与国家理科课程的情境化重组** 格雷克以英德两国的排位分化实证揭示了跨国测评对国家科学教育体制的重构力量：PISA 2000 中英国科学素养高居全球第 4 位，而传统工业强国德国仅列第 20 位，引爆了空前的社会危机恐慌（媒体报道多达 687 个版面）。德国各州教育与文化部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）随即启动紧急干预，打破孤立讲授系统概念的传统教法，出台直接对接 PISA 测评模型的重大工程——包括[[Chemie im Kontext|情境中的化学]]（CHIK）、情境中的物理（PIKO）与理科教学增效项目（[[SINUS]]），推动德国科学教学全面转向情境化应用与解决现实生活问题的科学能力标准。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -260,27 +277,19 @@ updated: 2026-10-21
 > | **政策决策证据素养** | 揭示立法者信源偏误短板并推进全政策社群 STEM 与数据分析技能建设 | 议会立法审议、政府科研采购与公共政策循证评估 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026, Ch. 5, pp. 82–83)]] |
 > | **教学协同与支架调节** | 揭示探究教学与直接教学协同的最佳平衡点，确立教师指导对科学素养发展的决定性作用 | 跨国大规模测评分析、K-12 科学探究课程设计、课堂探究活动类型筛选 | Chen et al. (2017); Aditomo and Klieme (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]] |
 > | **金标准科学与去意识形态** | 确立基于实证可复现性与学术卓越的评价基准，清除科研资助中的非科学意识形态筛选 | 联邦基金资助评审改革、科研诚信建设、学术评价制度设计 | [[Michael Kratsios\|Kratsios (2026, pp. 24–25)]] |
+> | **跨国测评与情境重塑** | 测评脱离特定学科大纲考查成人生活应用，排名震荡反向驱动国家科学课程情境化改革 | 国际大规模测评反思、国家科学课程改革、能力导向教学项目设计 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
 ## 概念演变
 
-> [!phase] 科学素养[[Construct|构念]]演进五大浪潮
->
-> - **第一阶段（1985 年）：Bodmer 报告确立普及基调与公众理解科学（PUS）传统**
->   英国皇家学会发布《公众理解科学》（Bodmer 报告），痛陈科学教育过度偏重事实识记的弊端，倡导 16 岁前义务教育全员普及科学素养，拉开了现代国家推动全民科学参与的序幕。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 4–5)]]
->
-> - **第二阶段（1998–2000 年）：《[[Beyond 2000 Report|Beyond 2000]]》报告确立[[Citizen Science|公民科学]]素养新构念**
->   米勒与奥斯本（Millar & Osborne, 1998）发表里程碑报告，明确提出面向公民的科学素养（Science Literacy for Citizenship），强调理解证据性质、[[Scientific Explanation|科学解释]]模式与社会科技争议评估，彻底颠覆了以大学升学为唯一导向的学科中心主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
->
-> - **第三阶段（2006–2018 年）：[[PISA]] 测评标准化与[[Epistemic Practices|认识论实践]]转向**
->   [[OECD|经济合作与发展组织]]（OECD）将科学素养确立为 PISA 核心领域，实现了跨国标准化测量；同时 [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 等学者推动认识论实践转向，破除教条的[[Scientific Method|科学方法]]神话，确立微观[[Discourse|话语]]协商与跨学科[[Heterogeneity|异质性]]视角。
->
-> - **第四阶段（2026 年）：数字智能时代不确定性驾驭与[[Science Capital|科学资本]]深度整合**
->   英国皇家学会《科学为了社会》报告正式出台五大支柱定义，将科学素养深度嵌入科学资本（Science Capital）第一支柱；同时融入[[Data Literacy|数据素养]]、AI 素养与抵御虚假信息的批判防线，并明确要求将证据分析技能拓展至立法与行政决策层。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
->
-> - **第五阶段（2026 年至今）：金标准科学转向与科研评价去意识形态化**
->   白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告与《恢复金标准科学行政令》（[[Restoring Gold Standard Science Executive Order]]）将科学素养拓展至国家宏观科研治理，强调实证可复现性（Replication）、数据开放与方法透明，坚决清除科研资助评审中的非科学意识形态筛选条件，重塑以学术卓越为核心的科学评价生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
+> [!dev-timeline] 科学素养构念演进脉络
+> - **1985 年 — Bodmer 报告确立普及基调与公众理解科学（PUS）传统** 英国皇家学会发布《公众理解科学》（Bodmer 报告），痛陈科学教育过度偏重事实识记的弊端，倡导 16 岁前义务教育全员普及科学素养，拉开了现代国家推动全民科学参与的序幕。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 4–5)]]
+> - **1998–2000 年 — 《[[Beyond 2000 Report|Beyond 2000]]》报告确立[[Citizen Science|公民科学]]素养新构念** 米勒与奥斯本（Millar & Osborne, 1998）发表里程碑报告，明确提出面向公民的科学素养（Science Literacy for Citizenship），强调理解证据性质、[[Scientific Explanation|科学解释]]模式与社会科技争议评估，彻底颠覆了以大学升学为唯一导向的学科中心主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **2006–2018 年 — [[PISA]] 测评标准化与[[Epistemic Practices|认识论实践]]转向** [[OECD|经济合作与发展组织]]（OECD）将科学素养确立为 PISA 核心领域，实现了跨国标准化测量；同时 [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 等学者推动认识论实践转向，破除教条的[[Scientific Method|科学方法]]神话，确立微观[[Discourse|话语]]协商与跨学科[[Heterogeneity|异质性]]视角。
+> - **2009 年 — 脱离课程大纲的成人生活科学素养与国际排名震荡** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 29–30]]）揭示经合组织 PISA 将科学素养脱离国家具体课程大纲、锚定于成人生活功能性能力的认识论转型；并实证呈现德国在科学素养第 20 位震荡后，KMK 紧急启动“情境中的化学（CHIK）”与 SINUS 工程将理科教学转向情境化生活能力导向。
+> - **2026 年 — 数字智能时代不确定性驾驭与[[Science Capital|科学资本]]深度整合** 英国皇家学会《科学为了社会》报告正式出台五大支柱定义，将科学素养深度嵌入科学资本（Science Capital）第一支柱；同时融入[[Data Literacy|数据素养]]、AI 素养与抵御虚假信息的批判防线，并明确要求将证据分析技能拓展至立法与行政决策层。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> - **2026 年至今 — 金标准科学转向与科研评价去意识形态化** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告与《恢复金标准科学行政令》（[[Restoring Gold Standard Science Executive Order]]）将科学素养拓展至国家宏观科研治理，强调实证可复现性（Replication）、数据开放与方法透明，坚决清除科研资助评审中的非科学意识形态筛选条件，重塑以学术卓越为核心的科学评价生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 ---
 
@@ -295,7 +304,7 @@ updated: 2026-10-21
 >
 > > [!axis] 事实性核心知识积累 vs [[Nature of Science|科学本质]]探究过程（Nature of Science）
 > > 掌握足够的学科事实概念是前提，还是探究过程能力更为核心？
-> > - **知识本位立场** 认为没有充足的事实与原理解释储备，所谓批判性评估就会沦为无根浮萍与盲目怀疑。
+> > - **知识本位立场** 认为没有充足的事实与原理解释储备，批判性评估就会沦为无根浮萍与盲目怀疑。
 > > - **探究本质立场** 指出互联网与 AI 使得事实检索成本趋近于零，理解知识如何被实证检验、同行评议与修正纠错才是终身受用的[[21st Century Skills and Competencies Discourse|核心素养]]。
 >
 > > [!axis] 客观学术卓越本位 vs 社会/意识形态附加标准
@@ -304,7 +313,7 @@ updated: 2026-10-21
 > > - **社会正义派** 认为科学体制长期存在结构性排斥，资助标准必须显性纳入多元化与包容性（[[Diversity, Equity, and Inclusion|DEI]]）要求以弥合历史不平等。
 
 > [!critique] 高利害应试测评与刻板化[[Scientific Method|科学方法]]对探究素养的双重挤压
-> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂两周至少一次动手实验的比例从 44% 跌至 26%（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026, p. 33]]）；同时，将探究异化为刻板的“科学方法五步法”实验套路，严重阻碍了学生体会证据向公共审查开放的本质价值（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 144–145]]）。
+> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂两周至少一次动手实验的比例从 44% 跌至 26%（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026, p. 33]]）；同时，将探究异化为刻板的“科学方法五步法”实验套路，阻碍了学生体会证据向公共审查开放的本质价值（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 144–145]]）。
 
 > [!warning] 适用局限与警惕
 > 警惕将科学素养窄化为个人的孤立逻辑思维技巧。如果抽离了对科学建制运作（如科研资金利益冲突、学术出版商业化、过度营销与科研诚信规范）的系统认知，单纯具备一般逻辑能力的个体依然极易落入经过专业包装的利益集团虚假信息陷阱。
@@ -313,7 +322,9 @@ updated: 2026-10-21
 
 ## 实证数据
 
-> [!index-table] 科学素养实证测量与教育教学现状监测表
+> [!ref-table]- 科学素养实证测量与教育教学现状监测表（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
 > | 研究 / 调查项目 | 样本与情境特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
 > |---|---|---|---|---|
 > | **[[OECD]] [[PISA]] 2015 科学素养跨国测评** | 全球 54 万名 15 岁学生的大规模跨国测评数据（72 个国家/经济体） | 探究式科学教学频率（IBST）、教师指导水平、科学素养表现分 | • 倒 U 型关系：低到中度探究伴随最高素养表现，过度孤立探究表现骤降（Chen et al., 2017）<br>• 教师指导调节：无指导探究与素养负相关，支架式探究在全部 16 个高成效体系中均为正相关（Aditomo & Klieme, 2020）<br>• 维度差异：实验操作与数据结论正向预测素养，无准备辩论负向预测（Cairns, 2019） | 实证打破了纯粹探究优于直接教学或直接教学排斥探究的二元对立，证明探究与直接教学协同、高教师指导介入是科学素养养成的关键制度设计。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 5–6)]] |
@@ -322,14 +333,16 @@ updated: 2026-10-21
 > | **[[Public Attitudes to Science\|PAS 2025]] 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
 > | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
 > | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学[[Scientific Uncertainty\|证据不确定性]]披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了承认不确定性会削弱科学权威的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
-> | **Sumner et al. (2014) BMJ** | 英国 20 所大学 462 篇健康新闻通稿及 668 篇媒体报道 | 通稿与媒体报道的夸大发生率及因果推论错位 | • **40%** 通稿给出确定生活建议（论文仅为相关性）<br>• **33%** 通稿将相关偷换为因果<br>• 通稿夸大时媒体夸大发生比（OR）暴增 **6.5–56 倍** | 实证证明源头机构过度营销是虚假信息主因，凸显证据素养与科学批判力的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]] |
+> | **Sumner et al. (2014) BMJ** | 英国 20 所大学 462 篇健康新闻通稿及 668 篇媒体报道 | 通稿与媒体报道的夸大发生率及因果推论错位 | • **40%** 通稿给出确定生活建议（原始研究仅发现相关性）<br>• **33%** 通稿将相关偷换为因果<br>• 通稿夸大时媒体夸大发生比（OR）暴增 **6.5–56 倍** | 实证证明源头机构过度营销是虚假信息主因，凸显证据素养与科学批判力的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]] |
+> | **[[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]** | PISA 2000 首次跨国测评（32 国）及德、英两国政策文献与媒体档案 | 跨国比较个案与政策社会学分析 | 科学素养国际排位、教育媒体报道版面量、理科课程改革工程 | 德国科学素养列第 20 位，引发 687 个版面危机报道并促成 CHIK 与 SINUS 理科改革；英国科学素养高居第 4 位 | 实证揭示跨国测评对国家科学教育体制的重构力量，促成科学教学从系统学科识记转向情境化应用能力导向。[[Argument_Grek_2009_JEdPolicy\|(Grek, 2009, pp. 29–30)]] |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 [[STEM Education|STEM]] 研究和数据分析技能的国家行动建议。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 [[Office of Science and Technology Policy|OSTP]] 报告从国家科研治理维度确立“金标准科学”评价原则，剖析非学术性意识形态筛选对科研评价标准的侵蚀，倡导回归实证可复现性与学术卓越。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视阈论证科学素养的民主价值，批判单一线性的[[Scientific Method|科学方法]]教条，提出依托探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]的多维规程及显性元[[Discourse|话语]]反思培育公共理性审议能力。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织通过 PISA 将科学素养重塑为脱离具体学科大纲、面向成人生活情境的功能性素养，并实证揭示德国在首届科学素养排名落后（第 20 位）震荡后如何启动 CHIK 与 SINUS 等国家项目重塑理科教学。

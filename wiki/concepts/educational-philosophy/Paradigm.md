@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,8 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Research Question]]"
   - "[[Developmentalism]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Critical Realism]]"
@@ -77,12 +79,16 @@ related_persons:
   - "[[Jurgen Schriewer]]"
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
+  - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -153,7 +159,7 @@ updated: 2026-10-21
 
 ## 围绕概念形成的命题
 
-围绕科学发展动力、社会科学与教育研究中的范式多元性，学界形成了三大核心理论命题：
+围绕科学发展动力、社会科学与教育研究中的范式多元性，学界形成了四类核心理论命题：
 
 ---
 
@@ -182,7 +188,7 @@ updated: 2026-10-21
 > **范式的正统地位依赖学术建制的权威认可** 一个范式的确立不仅取决于经验证据的充沛性，更深刻受制于其在学术共同体权威与政治权力网络中的被认可程度；知识生产不仅是一项认知探索，更是一项镶嵌于大学教席、学术期刊与资助体制中的社会与政治行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
-> **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家教育督导与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, pp. 649–650]]）。
+> **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家教育督导与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–650)]]
 
 ---
 
@@ -199,6 +205,19 @@ updated: 2026-10-21
 
 ---
 
+### 命题四　全球教育治理演进展现出从大纲课程考查向成人生活技能、从硬性法律规制向软性数字治理的双重范式转换
+
+> [!concept-lens] 评价与治理维度的双重范式转换
+> 探讨在大规模跨国测评与区域一体化进程中，教育评价认识论如何从学校大纲知识考查转向功能性生活技能，以及超国家治理如何从硬法强制转向软性量化数据治理。
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **评价认识论范式从课程内聚转向成人功能性生活技能** 索蒂里亚·格雷克（Sotiria Grek）指出，经合组织通过 PISA 确立了教育评价领域的重大范式转换：传统评价范式以国家具体教学大纲为基准，检验学科知识体系的内部达成度；PISA 则彻底脱离各国课程大纲，转而建立面向成人生活现实情境的功能性素养范式。该范式将评估锚定于未来劳动力市场所需的应用能力与终身学习自我调节，把应对经济竞争风险的责任深植于个体，确立了全球通用的评价新范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受欧盟条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向开放协调法（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了欧洲教育空间的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -207,16 +226,18 @@ updated: 2026-10-21
 > | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜并引发范式转换 | 自然科学与基础理论发展历史考察 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]] |
 > | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
+> | **评价与治理双重范式转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
+> - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式彻底脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘知识政治研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — 循证治理与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在文献综述中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
 
@@ -252,9 +273,10 @@ updated: 2026-10-21
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释 PISA 驱动下教育评价从课程内聚向成人生活功能性素养的范式转换，以及欧盟在辅助性原则下从硬性条约法律向依托跨国数据指标的软治理范式转型。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体[[Phenomenology|现象学]]，剖析可见学习范式在存在论与[[Epistemology|认识论]]层面的盲区，揭示不同教育观察主体间的不可[[Commensuration|通约]]性。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析[[Geopolitics|地缘政治]][[Knowledge Power|知识权力]]范式与[[Developmentalism|发展主义]][[Knowledge Diplomacy|知识外交]]范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家学校督导为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。
