@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -87,7 +88,7 @@ updated: 2026-10-21
 
 ## 概念辨析
 
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 择校 (School Choice) | [[Peidu\|陪读 (Peidu)]] | 就近入学 (Proximity) |
 > | :--- | :--- | :--- | :--- |
 > | **分析对象** | 主动更换学校偏好 | 家庭地理迁移与脱产照料 | 被动接受学区行政划片 |
@@ -98,13 +99,14 @@ updated: 2026-10-21
 
 ## 核心要素
 
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **经济资本** 决定择校的可行性门槛，在城市表现为购买高价学区房，在县域表现为支付随迁[[Peidu|陪读]]的生活租房费用及脱产损失。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 308)]]
 > - **社会资本** 在非正式机制下作为拦截学位的核心工具，家庭通过强弱关系网络和裙带转介干预学校招生结果。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 309)]]
 > - **[[Cultural Capital|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ|场域]]中面临局部折旧。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 310)]]
 > - **校际与校内变异比率** 实证研究中衡量择校政策有效性的关键结构参数，即学校间方差（5–10%）与校内教师间方差（30%）的相对比值。[[Argument_Hattie_2005_ACER|Hattie (2005, pp. 13–14)]]
 > - **政策推进方位与目标取向** 在宏观政策矩阵中，择校属于典型的“自上而下发起”且以“经济效率为导向”的改革组合（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 113]]），其根本目标是将市场竞争逻辑引入公共教育部门。
 > - **[[OECD|经合组织]]准市场监测维度（OECD Quasi-Market Performance Monitoring）** 经合组织教育理事会（Directorate for Education）在 2005–2006 年工作规划中，将“择校”（choice）与质量、公平及成本分担并列为四大优先议程，通过量化[[Performance Indicators|绩效指标]]将择校[[Operationalization|操作化]]为激发准市场竞争、打破公立体系官僚垄断的核心治理工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
+> - **跨国测评对本土择校体制的合法化确证（Legitimation Alibi via Cross-National Testing）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 30–31)]] 揭示，跨国大规模测评不仅被用作识别教育差距的工具，更常被执政精英挪用为维系既有择校制度的政治合法化借口（Legitimation alibi）：英格兰在 PISA 2000 中表现名列前茅，决策层与大众媒体将测试结果解读为对本土新自由主义择校竞争、高利害评估与标准化绩效控制模式的有力确证，强化了体制路径依赖，并掩盖了教育系统内部严重的社会阶层表现鸿沟。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -141,7 +143,7 @@ updated: 2026-10-21
 > 探讨择校如何受国家制度环境的塑造，区分西方新自由主义市场竞争逻辑与转型国家的行政导流逻辑。
 
 > [!claim] [[Argument_Teng_2025_CE\|Teng and Wang (2025)]]
-> **教育城镇化导流变体** 中国乡村家庭的择校实践并非由特许学校或教育券等新自由主义市场工具驱动，而是由地方政府通过[[Rural School Consolidation\|农村学校撤并]]和县城资源超常集聚所引导的教育城镇化过程，呈现出自下而上家庭能动性与自上而下城镇化政策的合流。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 313–314)]]
+> **教育城镇化导流变体** 中国乡村家庭的择校实践表现为由地方政府通过[[Rural School Consolidation\|农村学校撤并]]和县城资源超常集聚所引导的教育城镇化过程，不同于欧美由特许学校或教育券驱动的市场竞争模式，呈现出自下而上家庭能动性与自上而下城镇化政策的合流。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 313–314)]]
 
 ---
 
@@ -161,7 +163,7 @@ updated: 2026-10-21
 ### 命题四　学校间方差极小而校内教师方差巨大，基于择校的结构性改革难以撬动系统性学业增益
 
 > [!concept-lens] 效能变异分解与择校政策的因果限度
-> 探讨择校政策背后的核心假设（“学校选择是提升学业质量的核心杠杆”）是否成立，通过多层方差分解揭示校际差异与校内教师差异的悬殊对比。
+> 探讨择校政策背后的核心假设（“学校选择是提升学业质量的核心驱动机制”）是否成立，通过多层方差分解揭示校际差异与校内教师差异的悬殊对比。
 
 > [!claim] [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 13–14)]]
 > **校际变异微弱与校内教师主导规律** 基于大规模[[Meta-analysis\|元分析]]的多层方差分解，学校层面差异仅解释学生[[Academic Achievement\|学业成就]]总变异的 **5%–10%**，而教师教学效能解释了 **30%**。同一所学校内部不同教师之间的效能变异，远远大于不同学校之间的平均效能变异。家长与政策制定者过度焦虑于“去哪所学校（Which school you go to）”，实际上脱离了“遇到哪位教师（Which teacher you get）”这一核心因果震源；寄望于通过学区重划、特许学校或教育券等择校改革来全面提升学业成就，本质上是把政策重心放错了层级。
@@ -170,7 +172,7 @@ updated: 2026-10-21
 
 ### 命题五　自上而下的择校机制推动国家退缩为审计者并加剧全球教育商品化分层
 
-> [!concept-lens] 新自由主义规约与国家角色异化
+> [!concept-lens] 新自由主义政策范式与国家角色异化
 > 探讨在全球化与新自由主义意识形态扩散下，择校政策如何被国际金融组织与国家官僚机构自上而下制度化推行，使国家教育责任外包，并将公共教育重构为市场私人物品。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
@@ -178,6 +180,16 @@ updated: 2026-10-21
 >
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **[[OECD|经合组织]]技术官僚监测下的择校工具化** 里兹维与林加德指出，在经合组织的经济主义政策[[Discourse|话语]]中，择校与成本分担、私有化相互捆绑，被构造成以量化[[Performance Indicators|绩效指标]]为导向的技术官僚治理工具。家长被塑造成在教育准市场中追求个人效用最大化的理性消费者；国家的职责从直接提供普遍均等的公共教育，转化为设定绩效标准、审计产出并监测择校市场运行，将教育公共善置换为公私混合的效率机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
+
+---
+
+### 命题六　优异的跨国测评表现常被政策精英挪用为确证市场化择校模式合法性的政治借口
+
+> [!concept-lens] 跨国测评与择校制度的合法化惯性
+> 探讨国际比较数据如何被国家决策精英策略性吸纳，用于确证既有择校与准市场竞争政策的正确性，进而巩固制度惯性并掩盖阶层不平等。
+
+> [!claim] Grek
+> **跨国测评排名对本土择校竞争机制的政治确证** 索蒂里亚·格雷克（Sotiria Grek）指出，跨国大规模评估数据在进入具体国家政策场域时，往往被执政者重塑为证明本土政策正确的合法化依据。在 2000 年首届 PISA 测评中，英格兰学生在阅读、数学和科学测试中均名列前茅，全国主要媒体与政府官方迅速将该结果宣示为重大政策胜利，视作对既有以家长择校自由、学校准市场竞争和标准化绩效问责为特征的新自由主义改革模式的强有力经验确证。这种政策解读不仅直接巩固了新工党政府的教育体制路径依赖，更有效压制了批判声音，掩盖了择校竞争背后日益扩大的社会阶层差距与教育不平等现实[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 30–31)]]。
 
 ---
 
@@ -189,18 +201,20 @@ updated: 2026-10-21
 > | **家庭资本筛选命题** | 择校成功率由经济、社会和文化资本的累积量决定，再生产阶层不平等 | 普适于各国义务教育择校行为 | Teng & Wang; Reay |
 > | **体制驱动分化命题** | 区分西方新自由主义市场模式与中国行政教育城镇化模式 | 比较教育学与转型国家政策分析 | Teng & Wang |
 > | **学校流失恶化命题** | 自由择校从薄弱学校抽干资源与生源导致恶性衰落循环 | 农村学校撤并及城市落后学区 | Teng & Wang; Ball |
-> | **效能方差限度命题** | 学校间方差仅占 5–10%，远低于校内教师方差 30%，择校难以成为提升成就的核心杠杆 | [[School Effectiveness\|学校效能]]研究、[[Evidence-Based Education\|循证教育]]政策与宏观问责评价 | Hattie |
+> | **效能方差限度命题** | 学校间方差仅占 5–10%，远低于校内教师方差 30%，择校难以成为提升成就的关键手段 | [[School Effectiveness\|学校效能]]研究、[[Evidence-Based Education\|循证教育]]政策与宏观问责评价 | Hattie |
 > | **国家审计与商品化命题** | 自上而下的择校将教育降格为消费品，国家从公共提供者退化为考核审计者与准市场监测者 | 新自由主义全球化、教育政治经济学与[[World-Systems Theory\|世界体系分析]] | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
+> | **跨国数据确证命题** | 跨国评估优异表现被政策精英挪用为确证市场化择校政策的政治依据，强化体制路径依赖并遮蔽阶层鸿沟 | 比较教育政策借用、跨国评估政治社会学与教育准市场问责 | Grek |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
 > - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（John Hattie）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
 > - **2005–2006 — [[OECD|经合组织]]择校[[Performance Indicators|绩效指标]]与准市场治理确立** 经合组织教育理事会在工作规划中确立“质量、公平、择校与成本分担”四大优先议程，依托量化绩效指标将择校机制制度化为跨国教育政策的关键审计构件。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
+> - **2009 — 跨国测评与择校体制的合法化借口** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）剖析英格兰对 PISA 2000 优异成绩的政策吸纳，揭示执政精英如何借助跨国排位为本土市场化择校竞争与高利害问责模式确立合法性，以此掩盖深层的阶层不平等（pp. 30–31）。
 > - **2009 — 全球新自由主义规约下的择校审计化批判** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，指出择校、教育券与私有化是超国家机构推行的自上而下新自由主义组合拳，批判其将国家退缩为审计者并加剧全球教育商品化分层。
 > - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE|Teng & Wang, 2025, pp. 303–304]]）。
 
@@ -222,23 +236,25 @@ updated: 2026-10-21
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果
+> [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > 
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项[[Meta-analysis\|元分析]]综合及多国中小学数据 | 多层方差分解模型 | [[School Effectiveness\|学校效能]] vs 教师效能对[[Academic Achievement\|学业成就]]的方差贡献率 | 学校层面仅解释 5%–10% 方差，教师层面解释 30% 方差；校内变异显著大于校间变异 | — | 宏观元分析概括；证实单纯选择学校对提升学业成就的因果杠杆极为有限 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项[[Meta-analysis\|元分析]]综合及多国中小学数据 | 多层方差分解模型 | [[School Effectiveness\|学校效能]] vs 教师效能对[[Academic Achievement\|学业成就]]的方差贡献率 | 学校层面仅解释 5%–10% 方差，教师层面解释 30% 方差；校内变异显著大于校间变异 | — | 宏观元分析概括；证实单纯选择学校对提升学业成就的因果作用极为有限 |
 > | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] | 密尔沃基 Rufus King 高中采用 IB 五年后的 907 名学生；学校同时是承担种族融合目标的磁石学校 | 选定学校的描述性案例，比较校内参与构成及学区纪律指标 | 学生构成、IB 参与、升学、停学与开除 | 全校白人约 55%；IB 学生中黑人接近 24%；98% 的 IB 学生升入大学；上一年仅 28 名学生遭停学、无人被开除，而密尔沃基另有 12 所学校各自记录超过 1,000 次停学 | 未报告[[Counterfactual\|反事实]]、显著性或同类学校匹配 | 数据与磁石学校选择性招生、种族融合政策和学校治理同时发生，不能把结果单独归因于 IB；但显示以严格课程为吸引物的择校载体可以同时承担学术卓越与多元入学目标。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 30–31)]] | 英格兰应对首届 OECD PISA 2000 测评结果的政策与媒体场域 | 政策社会学话语分析与案例研究（9 篇全国主要媒体头版及官方政策文件） | 测评排名对本土择校政策（School Choice）的政治确证与阶层差距讨论缺失 | 英格兰利用阅读第 7、数学第 8、科学第 4 的优异排位确证择校竞争与问责体制的正确性，强化既有政策惯性并回避严重阶层差距 | — | 质性政策社会学分析，揭示跨国排位如何成为维护国内择校体制的政治合法化工具 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
 > - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 154–156)]] — 以 Rufus King 的磁石学校案例说明，特色课程可成为跨学区吸引学生的制度载体；同时提醒将课程、选择性入学和种族融合政策的效果分开解释。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 107, 113)]] — 从世界体系与批判政治经济学视角解析择校政策，揭示自上而下的新自由主义择校与问责制如何促成国家向审计者退缩，并将公共教育降格为加剧全球与地方不平等的消费商品。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 442)]] — 揭示[[OECD|经合组织]]教育理事会如何将择校与质量、公平、成本分担并列为核心议程，将择校[[Operationalization|操作化]]为以[[Performance Indicators|绩效指标]]衡量的准市场效率杠杆。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 442)]] — 揭示[[OECD|经合组织]]教育理事会如何将择校与质量、公平、成本分担并列为核心议程，将择校[[Operationalization|操作化]]为以[[Performance Indicators|绩效指标]]衡量的准市场效率机制。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释英格兰政策精英如何利用 PISA 2000 的优异排位为本土市场化择校竞争与高利害问责模式确立合法性，并借此掩盖严重的教育阶层差距（pp. 30–31）。
