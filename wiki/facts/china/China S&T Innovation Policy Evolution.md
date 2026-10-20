@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # China S&T Innovation Policy Evolution
@@ -160,5 +160,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统评估中国科技创新体系的动员优势（研发投入激增、顶尖论文产出及 4 倍 [[STEM Education|STEM]] 毕业生储备）与潜在制度制约，揭示中美科技政策在机制上的历史性互鉴。

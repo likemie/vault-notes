@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Rating Scale
 
@@ -183,5 +183,5 @@ Simpson and Tuson（2003, pp. 42–44）对观察评定量表提出三项建议�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch. 20)]] — 讨论评定量表的类型、格式与十七项使用警示；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Ch. 23]] 将其列为[[Structured Observation\|结构化观察]]的记录方式之一。

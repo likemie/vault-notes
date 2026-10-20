@@ -63,7 +63,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # School Autonomy
@@ -255,7 +255,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - Keddie et al. (2020) — 深入调研澳大利亚四州公立教育体系，系统解构新自由主义市场逻辑如何腐蚀学校自主权并诱发严重的校际分层与残余化。
 > - Keddie et al. (2020, IJLE) — 运用多兰悖论[[Analytic Framework|分析框架]]提炼出学校自主权改革的四大结构性悖论，探讨公共教育中“公共性”的重构危机。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示[[World Bank|世行]]等跨国组织如何将学校自主权作为[[Global Educational Discourse|全球教育话语]]五大支柱之一进行标准化捆绑输出，并实施[[Governing at a Distance|远处治理]]与政策空间闭合。

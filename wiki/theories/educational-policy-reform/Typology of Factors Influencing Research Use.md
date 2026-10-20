@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Typology of Factors Influencing Research Use
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍[[Research Translation\|研究转化]]的结构性障壁。
 > - **理论问题** 回应[[Evidence-Based Education\|循证教育]]与[[Knowledge Mobilisation\|知识动员]]领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
 > - **理论类型** 跨领域中层机制分类学与多维度系统[[Analytic Framework\|分析框架]]。
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 宏观国家和区域[[Evidence Ecosystem\|教育证据生态系统]]的制度健全度诊断、中观学校与学区[[Knowledge Mobilisation\|知识动员]][[Network Analysis\|网络分析]]、跨国循证政策机制比较。
 > - **谨慎使用** 纯微观个体在孤立情境下的即时认知心理反应（此时需补充双系统认知理论或[[Professional Judgment\|专业判断]]模型）。
 > - **不适合解释** 纯技术维度的教育统计模型精度优化或纯书斋式的纯理论概念推演。
@@ -213,7 +213,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2000s — 循证医学与公共政策跨领域综述** Nutley et al. (2003, 2009) 梳理跨行业证据利用干预，提出个体、组织与系统三层作用机制，并指出单向传递的局限。
 > - **2010 — 三代模型透镜确立** Best and Holmes (2010) 归纳[[Knowledge Mobilisation\|知识动员]]的线性、关系与系统三大理论[[Paradigm\|范式]]，奠定机制分类的方法论基础。
 > - **2014 — 跨行业[[Systematic Review\|系统综述]]与类型学雏形** Humphries et al. (2014) 与 Oliver et al. (2014) 通过对公共卫生及公共管理领域海量文献的系统综述，提炼出阻碍与促成[[Research Utilization\|证据使用]]的核心维度，成为教育领域直接移植的母本。
@@ -247,7 +247,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统对比跨领域[[Knowledge Mobilisation\|知识动员]]模型，为理解机制运作提供理论基础。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 实证描绘 17 类行动者活跃度网络，为类型学中的互动维度提供微观主体结构证据。

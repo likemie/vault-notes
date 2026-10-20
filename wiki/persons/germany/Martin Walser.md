@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Martin Walser
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于德国巴伐利亚州博登湖畔的瓦瑟堡。
 > - **1944** 二战末期入伍服役；战后就读于蒂宾根大学并获得哲学博士学位。
 > - **1957** 凭借首部长篇小说《蓄水池中的婚姻》（*Ehen in Philippsburg*）成名。
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **当代德国记忆文化与知识分子论战** 打破了战后德国知识界在赎罪问题上的禁忌语态，开启了关于德国历史记忆“正常化”（Normalisierung）的长期学术论辩。
 > - **[[Geopolitics|地缘政治]]与欧洲防卫能力反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，战后德国对国家认同与爱国[[Pride in Learning|自豪]]感的彻底压抑，直接导致了当代欧洲在面对外部地缘扩张时缺乏可信的常规防务威慑意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **论辩对手** [[Ignatz Bubis|伊格纳茨·布比斯]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性交锋。
 > - **同时代见证者** 罗曼·赫尔佐克（Roman Herzog）— 时任德国总统，在保罗教堂现场聆听演说。
 > - **当代评述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中剖析其演讲对德国防卫意志的深层折射。

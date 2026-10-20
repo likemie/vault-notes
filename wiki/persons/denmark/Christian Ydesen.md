@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Christian Ydesen
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1977** 出生于丹麦。
 > - **2007–2011** 获丹麦哥本哈根大学博士学位，博士论文深入考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD\|经合组织]]教育治理历史的多项重大科研项目。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了国际组织社会学与比较教育[[Historical Institutionalism|历史制度主义]]的融合，确立了“治理复合体”与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”在当代跨国政策分析中的核心分析地位。
 > - **方法路径** 倡导结合跨国多边机构内部未公开机密档案、口述历史访谈以及统计分类目录演化的跨国历史社会学方法。
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术合作伙伴，共同推进[[Policy Borrowing\|政策借用]]与借用理论在[[Governing by Numbers\|数字治理]] 2.0 时代的深化。
 > - **师承／合作关系** [[Kerstin Martens]] — 国际关系与全球社会政策研究合作伙伴，共同探索多边组织涉足教育的法定授权机制。
 > - **师承／合作关系** Maren Elfert — 合作撰写《全球教育治理》（2023），系统重构 [[UNESCO]] 与[[World Bank\|世界银行]]/[[OECD]] 的六十年博弈史。

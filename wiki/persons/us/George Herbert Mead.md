@@ -60,7 +60,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # George Herbert Mead
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1863年** 出生于美国马萨诸塞州南哈德利一个公理会牧师与学者家庭，父亲为神学教授，母亲曾任曼荷莲学院（Mount Holyoke College）院长。
 > - **1879–1883年** 就读于俄亥俄州奥伯林学院（Oberlin College），毕业后曾从事乡村学校教师、家庭教师与威斯康星中央铁路勘测测绘员等职业。
 > - **1887–1888年** 进入哈佛大学深造，研读哲学与心理学，受教于乔赛亚·罗伊斯（Josiah Royce）与威廉·詹姆斯（William James），确立了对反思意识与经验心理学的浓厚兴趣。
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism\|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove\|戈夫]]曼（[[Erving Goffman]]）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm\|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **方法路径** 为学校微观[[Ethnography\|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory\|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm\|范式]]提供了微观[[Epistemology\|认识论]]辩护。
 > - **跨领域与课程传播** 1990年代被芬兰教育学者转译为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／思想渊源**
 >   - **[[John Dewey\|约翰·杜威]]（John Dewey）** 密歇根与芝加哥时期的挚友与[[Pragmatic Paradigm\|实用主义]]盟友，共同奠定芝加哥实用主义学派与[[Progressive Education\|进步主义教育运动]]。
 >   - **查尔斯·霍顿·库利（Charles Horton Cooley）** 密歇根时期的学术合作者，其“镜中我”（Looking-glass Self）概念启发了米德对自我的社会发生机制思考。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # TOSCA
@@ -71,7 +71,7 @@ updated: 2026-10-17
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **知识与学术影响** 奠定了德国教育实证研究的大样本纵向因果分析典范；首次在大规模代表性队列中证实确定性信念对[[Academic Achievement\|学业成就]]的净负向预测力（$\beta = -0.15$），并在因果面板上分离了大学专业选择中的“自我选择”与“[[Disciplinary Socialization\|学科社会化]]”机制。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 358, p. 361)]]
 > - **方法学影响** 树立了在教育追踪中结合复杂抽样校正（Type=Complex）、[[Item Response Theory\|项目反应理论]]（IRT 题包化）与潜[[Variable\|变量]][[Causal Modeling\|结构方程建模]]（SEM）的标准分析流程。
 

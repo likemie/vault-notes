@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bob Lingard
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1949** 出生于澳大利亚，青年时期投身教育学与社会学研究，在昆士兰大学获得教育学博士学位。
 > - **1980s–1990s** 长期任教于昆士兰大学，关注澳大利亚联邦教育政策、社会公平改革、性别平等与新工党教育治理转向；与 Miriam Henry、Sandra Taylor 以及 [[Fazal Rizvi]] 结成紧密的研究团队。
 > - **2001** 与团队出版里程碑著作《[[OECD|经合组织]]、全球化与教育政策》（*The OECD, Globalisation and Education Policy*），开创将国际组织作为独立政策行动者进行社会学[[Rich and Thick Description|深描]]的[[Paradigm|范式]]。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与 Rizvi 共同确立了教育政策社会学中的“[[Social Imaginary|社会想象]]”分析进路与“[[Governing by Numbers|数字治理]]”（governing by numbers）批判[[Paradigm|范式]]，深刻影响了批判政策社会学、比较教育学与量化社会学[[Comparative Education as a Cross-Sectional Area|交叉领域]]的理论议程。
 > - **方法路径** 倡导将批判政策[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis|CDA]]）与统计社会学（Desrosières, Rose）相结合，开创了解构跨国量化测评背后“[[Space of Equivalence|等值空间]]构建”与“[[Reliability|信度]]优先于效度”的方法论批判路径。
 > - **政策路径** 其对 [[PISA]]、澳大利亚全国识字算术统考（NAPLAN）及绩效问责体制的严谨学术批判，广泛启发了一线教师工会、进步政策智库与[[Critical Pedagogy|批判教育学]]者抵制过度标准化应试的公共行动。
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Fazal Rizvi]] — 核心长期合著者，共同奠定全球教育政策批判[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者；Shaun Rawolle、Sam Sellar — 长期推进教育[[Governing by Numbers|数字治理]]与数据问责研究的合作学者。
 > - **理论思想资源** Charles Taylor、Arjun Appadurai — [[Social Imaginary|社会想象]]理论资源；[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières） — [[Space of Equivalence|统计等值空间]]理论；[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose） — 数字即政策与远处统治思想；[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu） — [[Champ|场域]]与全球化物化批判；罗伯特·帕特南（Robert Putnam） — [[Social Capital Theory|社会资本理论]]（批判分析对象）。
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[Centre for Educational Research and Innovation|CERI]] — 其长期解构与追踪的核心超国家行动者。

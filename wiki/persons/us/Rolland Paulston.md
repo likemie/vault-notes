@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Rolland Paulston
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1929** 出生于美国明尼苏达州。
 > - **1966** 在哥伦比亚大学获得教育学博士学位。
 > - **1969** 加盟匹兹堡大学国际与[[Development Education|发展教育]]系（IDEP），建立长达三十余年的比较教育教学生涯，指导大批来自拉美与亚洲的国际学者。

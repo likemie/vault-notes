@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Decentralization
@@ -196,7 +196,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1940–1970 年代 — 战后民主化与分权潮流萌兴** 西方国家普遍提倡权力下放，认为贴近社区与民众是教育民主化的天然保障；英国强化地方教育当局职能，美国各州巩固学区自治。
 > - **1978–1990 年代 — 民主转型国家的激进分权试验** 西班牙在 1978 年宪法后告别佛朗哥极度集权，教育管理权在短时间内全面移交给 17 个自治区，形成 17 个平行的独立教育系统。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–326)]]
 > - **1980–1990 年代 — [[Global Educational Discourse|全球教育话语]]确立分权化普遍支柱** [[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]将分权化和[[School Autonomy|学校自主权]]确立为信息时代普遍模型的首要支柱，并在拉丁美洲等全球南方借款国普遍推销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
@@ -296,7 +296,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统解构新西兰 1989 年明日学校权力下放（Devolution）如何将公立教育局拆解为自负盈亏的商业服务中心，揭示分权作为私有化外包跳板的深层机制（pp. 30–31）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证调查新西兰明日学校改制后[[Cognition Education|认知教育]]公司的商业运作，揭示学者与跨国出版资本借分权改制牟利的制度网络。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较分析英、美、德、法、意、比与北欧的权力配置演进，系统揭示西班牙由极度集权激进跳向 17 个自治区所诱发的行政肥胖症与国家体系解体危机。

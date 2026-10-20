@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Analytic Generalization
 
@@ -90,5 +90,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 教材系统阐述了分析性推广与统计推广的区分，引述Yin（2009）的核心论断和Verschuren（2003）的低变异性论证，并梳理了推广的四种形式（pp. 288–289）

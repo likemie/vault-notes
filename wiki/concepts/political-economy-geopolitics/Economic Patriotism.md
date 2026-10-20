@@ -35,12 +35,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 经济爱国主义（Economic Patriotism）是 Crouch & Le Galès（2012）提出的概念，指国家将资源和投资大规模集中于特定领土部分（尤其是首都城市和大都市区）以提升其在全球[[Knowledge-Based Economy\|知识经济]]中的竞争地位，并将爱国情感与这些特定领土利益的推进绑定在一起的政策实践([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])。
 >
 > Crouch & Le Galès（2012, p.406）的经典描述：
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example] 概念辨析
+> [!example|notitle] 概念辨析
 > - vs 传统爱国主义（Political Patriotism）：传统爱国主义以民族国家整体为情感对象，强调全体国民的统一利益；经济爱国主义则将爱国[[Discourse|话语]]绑定到特定领土部分的经济发展上——"冠军城市"的利益被等同于国家利益([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])
 > - vs [[National Competitive Advantage]]：Porter 理论为经济爱国主义提供了理论合法性——如果国家是"竞争优势的根本创造场所"，那么集中资源打造"冠军"场所就是合理的政策选择
 > - vs [[Spatial Sortings]]：经济爱国主义是驱动空间分选的机制之一——"国家在空间中越来越具有选择性"，选择性地投资某些地方而忽略其他([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28, 30–31]])
@@ -60,7 +60,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > - **空间选择性（Spatial [[Selectivity]]）** 国家越来越有选择性地对待其领土——"城市创新空间被视为'空间例外'，国家和地方当局希望它们成为实现经济和政治成功的领土平台"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])
 > - **基础设施投资集中化** 信息技术、研究机构、金融平台、交通网络等战略性基础设施被集中在少数大城市（Crouch & Le Galès, 2012, p.406, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
 > - **爱国[[Discourse|话语]]的挪用** 爱国情感被动员来为空间极化政策提供合法性——将特定城市的繁荣呈现为"国家荣誉"和"民族利益"
@@ -78,14 +78,14 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - 经济爱国主义以"国家利益"之名将公共资源集中于少数枢纽城市，实际上加剧了国家内部的空间不平等——Davidson and Rees-Mogg（1999）预见的"跨国认知精英"与无法适应新跨国世界的人群之间的分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
 > - "经济爱国主义"[[Discourse|话语]]可能掩盖了跨国资本——而非国家——作为空间发展方向的实质决定力量
 >
 
 ## 相关概念
 
-> [!example] 相关概念
+> [!example|notitle] 相关概念
 > - [[Hub and Flow Imaginaries]] — 经济爱国主义是 Hub and [[Flow]] 想象的政策表现：国家集中资源打造枢纽以锚定全球资本流动
 > - [[Spatial Sortings]] — 经济爱国主义的空间后果：被选中的枢纽成为赢家，被忽视的区域成为输家
 > - [[National Competitive Advantage]] — Porter 理论为经济爱国主义提供的理论合法性基础

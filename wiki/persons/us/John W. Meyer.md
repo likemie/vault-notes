@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # John W. Meyer
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1935** 出生于美国。
 > - **1965** 获得哥伦比亚大学（Columbia University）社会学博士学位，受到实证量化分析与制度社会学的深厚学术熏陶。
 > - **1966–2000s** 任教于斯坦福大学社会学系，并长期在斯坦福教育学院开展交叉研究，开创享誉国际的[[Stanford School|斯坦福新制度主义学派]]（Stanford School of Neo-Institutionalism）。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
 > - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者／学派奠基学者** 布赖恩·罗文（Brian Rowan）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）、罗纳德·杰珀森（Ronald L. Jepperson）— 共同创立新制度主义组织理论、[[World Society Theory|世界社会理论]]与能动者文化建构理论。
 > - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
 > - **批评者／学术论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Wallerstein）、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与[[World-Systems Theory|世界体系分析]]现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。

@@ -47,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teacher Knowledge Base
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1986–1987 — 李·舒尔曼提出学科教学知识（PCK）与七大知识库分类** Shulman（1986, 1987）系统奠定了教师知识库理论，确立教师职业独特的专业[[Epistemology\|认识论]]地位。
 > - **2000s — 专业社会学视角下的异质知识库理论** Grimen（2008）从专业研究视角指出，专业人员的知识基础具有先天的多源[[Heterogeneity\|异质性]]，[[Knowledge Integration\|知识整合]]是解决实践难题的关键。
 > - **2022 — 循证实践、[[Phronesis\|实践智慧]]与[[Research Literacy\|研究素养]]的融合** Eriksen（2022）提出专业人员的研究素养是一种守护知识库完整性与调和价值冲突的专业德性。
@@ -181,5 +181,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 在[[Critical Review\|批判性综述]]中系统引入教师知识库理论，主张将研究重心从测量教师个体能力转向探索微观教学中多源[[Knowledge Integration\|知识整合]]的机制与要求。

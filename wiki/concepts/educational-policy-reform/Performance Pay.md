@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Performance Pay
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **外在经济激励导向（Extrinsic Financial Incentive）** 将奖金或薪级晋升与特定指标挂钩，假定金钱报酬能直接调节教师的工作投入度与行为取向。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 103)]]
 > - **量化产出绑定（Metric-Linked Output）** 高度依赖学生标准化考试成绩、增值评估模型（VAM）或标准化[[Classroom Observation|课堂观察]]量表作为判定教学优劣的客观凭据。
 > - **管理层裁量权扩张（Managerial Discretion）** 打破国家或地方统一集资协商的薪酬阶梯，赋予校长与行政管理者依据考评结果自主奖惩的权力。
@@ -279,7 +279,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从 [[Visible Learning\|可见的学习]] [[Theoretical Perspective\|理论视角]]出发，系统批判绩效工资对学校休息室[[Peer-Supported Learning|同伴文化]]、容错反思与教学协作生态的破坏。
 > - [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。

@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Generative Themes（生成性主题）
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 生成性主题（Generative Themes） | 标准化预设大纲（Standardized Syllabus） |
 > |------|-----------------------------------|--------------------------------------|
 > | **内容来源** | 社区生活调查与切身生存矛盾提取 (p. 47) | 教育官僚或专家自上而下统一预设 |
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **生存根植性（Lived Groundedness）** 主题源自受教者切身社会与经济现实。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 > - **情感理智共鸣（Resonance）** 包含引发切身关切的矛盾（如“为什么烧砖者住不起砖房”）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **结构生成力（Generative Capacity）** 从单一词汇向社会学与政治学分析动态扩展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1963 — 昂吉科斯识字实验** [[Paulo Freire\|弗莱雷]]在巴西东北部识字运动中提取 17 个生成性词汇（如 Tijolo/泥砖, Salário/工资）。[[Argument_Darwish_2009_Queens\|(Freire, 1973; Darwish, 2009, p. 48)]]
 > - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy\|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 96, 引自 Darwish, 2009)]]
 > - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning\|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
@@ -132,5 +132,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合巴西昂吉科斯识字课例，详细拆解生成性主题的提取与[[Decodification\|解码]]过程。

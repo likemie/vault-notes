@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -72,25 +72,25 @@ updated: 2026-10-17
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Whole Language]] — Goodman 是全语言运动公认的创始人和主要理论家
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Goodman, K.S. (1967). Reading: A psycholinguistic guessing game. *Journal of the Reading Specialist*, 6(4), 126–135. — 为[[Whole Language\|全语言]]运动奠定基础的里程碑文章
 > - Goodman, K.S. (1989). Whole-language research: Foundations and development. *The Elementary School Journal*, 90(2), 207–221. — 系统阐述全语言的研究基础
 > - Goodman, K. (2005). *What's whole in Whole Language: 20th anniversary edition*. Berkeley, California: RDR Books. — 被视为全语言定义的广泛引用的著作
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 在社会文化层面，[[Whole Language\|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.150]])
 > - Goodman 的心理语言学阅读模型挑战了当时主导的[[Behaviorism|行为主义]]阅读教学[[Paradigm\|范式]]，将焦点从可观察的技能表现转向读者的认知过程
 > - 全语言运动深刻影响了英语国家的读写教学，同时也引发了激烈的"阅读战争"——与系统合成语音（synthetic phonics）支持者之间的长期公开辩论
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - Goodman 的"心理语言学猜测游戏"模型被合成语音支持者批评为忽视了字母-声音对应关系在阅读发展中的关键作用
 > - [[Whole Language\|全语言]]在 Hattie（2009）的 *[[Visible Learning]]* 中被评为[[Effect Size\|效应量]] d=0.06（接近零效果），但 [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]论证这一评估基于方法论上存在缺陷的[[Meta-analysis\|元分析]]聚合

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nuclear Regulatory Reform Executive Orders 2025
@@ -119,5 +119,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 评述 2025 年四项核能监管改革行政令：针对 NRC 审批瘫痪设定修规与许可时限、加快已测试堆型审批，并提出 2030 年开工 10 座新堆，以[[Permissionless Innovation|无许可创新]]支撑能源需求。

@@ -35,16 +35,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH\|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [!abstract|notitle] 政策文本摘要
 > My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校（Keddie et al., 2020, p.434）**。
 >
 > > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice\|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
@@ -53,14 +53,14 @@ updated: 2026-10-17
 
 ## 时间线
 
-> [!note] 时间线
+> [!note|notitle] 时间线
 > - **2008** — My School 网站正式建立并上线
 > - **2010 年代** — 比较方式从"邻近学校"改为"全国数据比较"
 > - **2010 年代持续** — 成为澳大利亚教育政策中市场问责的支柱基础设施，被研究者和利益相关者持续批评为制造学校等级和残余化的关键机制
 
 ## 实施情况
 
-> [!example] 实施情况
+> [!example|notitle] 实施情况
 > 网站整合了全澳大利亚学校的以下信息：
 > - 人口统计数据（学生构成、[[Socioeconomic Status|社会经济背景]]）
 > - NAPLAN 标准化测试成绩，允许学校间直接比较
@@ -72,7 +72,7 @@ updated: 2026-10-17
 
 ## 效果与评价
 
-> [!success] 效果与评价
+> [!success|notitle] 效果与评价
 > **市场问责模型驱动的分层效应（Keddie et al., 2020, p.434）**
 >
 > My School 体现了"该市场问责模型假设：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
@@ -85,7 +85,7 @@ updated: 2026-10-17
 
 ## 争议与评论
 
-> [!warning] 争议与评论
+> [!warning|notitle] 争议与评论
 > - **制造社会分裂** Edward 的评论捕捉了核心批评——My School 通过将学校公开排名，系统性地制造"赢家"和"输家"的身份，将教育简化为竞争性市场交易（Keddie et al., 2020, p.437）
 > - **透明度 vs 羞辱** 网站声称的"透明度"功能在实践中转化为"公开羞辱"——"低表现"标签对弱势学校社区产生污名化效应（Keddie et al., 2020, p.434）
 > - **与残余化加剧的关联** My School 的排名机制直接推动家长"用脚投票"，将资源（学生、有能力的家长、优质教师）从低排名学校抽离，进一步集中到高排名学校（Keddie et al., 2020, p.437）
@@ -93,7 +93,7 @@ updated: 2026-10-17
 
 ## 相关概念／理论
 
-> [!example] 相关概念／理论
+> [!example|notitle] 相关概念／理论
 > - [[School Autonomy]] — My School 是市场驱动的学校自主权改革的核心问责工具
 > - [[New Public Management]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
 > - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定义者

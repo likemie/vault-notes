@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Avatar
@@ -240,6 +240,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐释 Yannier et al. (2020) 基于计算机视觉与实体振动台的交互式虚拟化身研究，证实教学化身通过启发预测与因果诊断，在无需前置显性讲授的前提下能高效赋能学生的深层概念内化。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 系统定义[[Virtual World\|虚拟世界]]中化身的角色，构建通过化身开展[[Projection Technique\|投射技术]]、身份实验与敏感议题理性审议的研究方法论体系。

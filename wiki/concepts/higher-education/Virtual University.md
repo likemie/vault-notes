@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Virtual University
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 虚拟大学（Virtual University） | 传统实体[[Research Universities\|研究型大学]]（Campus University） | 国家开放大学（Open University） |
 > |---|---|---|---|
 > | **空间与载体** | 纯数字化网络空间、跨国特许经营服务器 | 实体校园、物理实验室、教室与图书馆 | 区域学习中心网络配合广播电视与网络媒介 |
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **去地域化的课程交付** 借助高速数字通信网络，消解地理阻隔，使中心国家的标准化教学课件能够以边际成本几乎为零的方式即时流向全球受众。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 > - **跨国特许经营协议（Franchising Agreements）** 欧美大都市知名高校将其品牌、教学大纲与考试系统租赁或授权给边缘国家的本土营利性机构，由后者负责招生并收取高额学费分成。
 > - **教学语言与[[Hegemony|文化霸权]]** 课程绝大多数采用全球通用语言（特别是英语），课程内容直接移植西方工业化国家知识[[Paradigm|范式]]，存在漠视甚至压抑本土知识传统与本土发展需求的风险。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 年代中后期 — 萌芽与概念初兴** 伴随万维网（World Wide Web）的普及，欧美部分高校和私立商业财团试水“虚拟大学”，主打跨时空学习与打破物理校园壁垒。
 > - **2000 年代初 — 跨国扩张与特许争议** 伴随 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 将教育纳入服务贸易，虚拟大学成为跨国教育倾销的主力形态，引发关于语言霸权、文凭工厂与国家主权侵蚀的广泛理论批评。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 > - **2010 年代至今 — 平台资本主义与数字化全面重构** 跨国虚拟办学与大型在线教育平台（Coursera, edX 等）及[[Generative Artificial Intelligence|生成式人工智能]]深度融合，演变为平台资本主义重塑全球高等教育劳工与认证体系的主导形态。
@@ -167,5 +167,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 探讨[[Time-Space Compression|时空压缩]]背景下虚拟大学与跨国特许经营协议的兴起，反思其对民族国家文化认同与大学传统民主公共职能的深层侵蚀。

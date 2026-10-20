@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Virtual Teacher Staffroom
@@ -164,7 +164,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2010s 初 — Twitter 教师标签与草根社群萌芽** 随着移动互联网普及，美德等国教师自发创建 `#EdChat` 与 `#twlz`（Twitter-Lehrerzimmer）主题标签，开创了利用社交平台分享教案与日常解压的去中心化模式。
 > - **2015–2019 — 教师专业学习网络（PLN）学术化研究** 学界开始将此类现象界定为“个人学习网络（Personal Learning Networks, PLN）”，实证揭示其对[[Teacher Professional Agency\|教师专业能动性]]（Teacher Agency）与非正式学习的促进作用（Krutka & Carpenter, 2016）。
 > - **2020–2022 — 疫情停课期间爆发式增长与全平台蔓延** 新冠疫情期间的远程教学需求促使数以万计的中小学教师涌入 Instagram、Twitter 与 TikTok 虚拟教研室，社群讨论重心由日常闲聊全面转向数字化工具深度应用（Richter et al., 2022; Déchène et al., 2024）。
@@ -207,5 +207,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统剖析 Twitter-Lehrerzimmer 等社交媒体虚拟教研室的互动机制，揭示科研学者单向广播与双向互动缺位的失衡现状，倡导构建多向度科学传播对话。

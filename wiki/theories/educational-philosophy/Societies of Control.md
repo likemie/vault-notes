@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Societies of Control
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 后规训时代权力支配技术的[[Paradigm|范式]]跃迁——从封闭机构内部的空间化肉体成型，转向基于开放网络、数字追踪与流动参数的无休止控制。
 > - **理论问题** 回应福柯（Michel Foucault）经典规训模型（以监狱、学校、工厂等封闭机构为核心）在面对去中心化信息技术、新自由主义企业化治理与算法社会时的解释力边界。
 > - **理论类型** [[Post-structuralism|后结构主义]]批判哲学、权力社会学与数字化治理[[Critical Theory|批判理论]]。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用控制社会理论剖析当代高等教育中在线自评（[[Online Self-Assessment|OSA]]）与“[[Promising Student|有前景的学生]]”如何成为持续调制的数字产物。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯与澳大利亚教育实证，剖析指标问责与可见学习如何推动“持续数据生产”，揭示控制社会中报表膨胀对教师队伍造成的深层组织病理与流失危机。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 批判澳大利亚[[School Leadership|学校领导力]]对数据持续生产的病态屈从，揭示[[New Managerialism|新管理主义]]如何将学校异化为控制社会的指标生产车间。

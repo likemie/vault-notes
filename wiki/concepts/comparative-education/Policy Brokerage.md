@@ -69,7 +69,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Brokerage
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 政策中介（Policy Brokerage） | [[Knowledge Mediation\|知识中介]]（Knowledge Brokerage） | [[Policy Borrowing\|政策借用（Policy Borrowing）]] |
 > |------|--------|----------------|----------------|
 > | **行动主体** | 兼具[[Knowledge Production\|知识生产]]、倡导与资助能力的跨国组织、智库与官方扶植中介 | 相对中立的学术传播机构、第三方评估中心与知识翻译者 | 主权国家政府内部的政策制定者、行政官员与政治联盟 |
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与治理杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
@@ -202,7 +202,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — [[Two-Communities Theory\|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018–2021 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** Niemann & Martens 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系扮演[[Boundary Spanner\|知识经纪人]]，通过 hard facts 行使 soft governance。
@@ -243,6 +243,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

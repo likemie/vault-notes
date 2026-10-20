@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Marc-Antoine Jullien
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1775** 出生于巴黎受过良好古典人文学科教养的知识阶层家庭，与美洲独立战争爆发同年。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 19)]]
 > - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire\|问卷]]与横向比较观察表，为跨国[[Performance Indicators\|教育指标]]体系与大规模统计调查奠定了方法原型。
 > - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School\|师范学院]]以及多语种[[International Education\|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和[[UNESCO\|联合国教科文组织]]（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
@@ -233,7 +233,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **先驱／思想渊源** 让-雅克·[[Jean-Jacques Rousseau\|卢梭]]（Jean-Jacques Rousseau） 启迪其尊重儿童天性与自由发展的自然主义教育学立场。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18–20)]]
 > - **先驱／思想渊源** [[Johann Heinrich Pestalozzi\|约翰·海因里希·裴斯泰洛齐]]（Johann Heinrich Pestalozzi） 1810 年伊弗东实地考察确立其体智德协调发展与儿童自我展开的教学哲学。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **先驱／跨学科源头** 乔治·居维叶（Georges Cuvier） 提供比较解剖学与地质学经验分类模型，启发其将解剖分类方法引入跨国教育事实比较。（p. 22）

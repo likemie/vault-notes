@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Funnel Plot
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 绘制包含 59 个[[Effect Size\|效应量]]与 8 个离群点的漏斗图，配合 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]证据池开展[[Publication Bias\|发表偏倚]]诊断。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]中漏斗图的可视化原理、不对称性检验及[[Sample Size Determination\|样本量]]与[[Effect Size\|效应量]]负相关现象（$r = -0.28$）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍元分析偏倚控制方法与漏斗图的判读规程。

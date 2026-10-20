@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Innovation Hub
@@ -227,7 +227,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述如何通过开放国家实验室用户设施、建立共享[[Pilot Scale Platform|中试平台]]，将创新中心打造成维系国家制造韧性的战略枢纽。
 > - [[Argument_Byrne_2025_InnovationCenters|Byrne and Clements (2025)]] — 结合 [[TUFF]] 实践阐明创新中心核心信条，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”[[Paradigm|范式]]。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深度剖析基于地点的创新中心治理架构，分析大企业、高校与政府在创新中心中的差异化价值主张与契约设计。

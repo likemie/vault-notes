@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thomas Fuchs
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1958** 出生于德国巴伐利亚州慕尼黑。
 > - **1980–1986** 在慕尼黑大学与柏林自由大学先后研读医学、哲学与历史学，获医学博士与哲学博士学位。
 > - **1990 年代** 在海德堡大学精神病学诊所接受临床训练并任职，师从现代精神病学[[Phenomenology|现象学]]传统。
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了 4E 认知科学（Embodied, Embedded, Enacted, Extended）与欧陆胡塞尔—梅洛-庞蒂身体[[Phenomenology|现象学]]的融合，为批判当代神经狂热（Neuro-hype）提供了严密的学理框架。
 > - **教育哲学路径** 成为斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等[[Critical Pedagogy|批判教育学]]家重构教学[[Ontology|本体论]]的基石，启发了“具身化—延展辩证法”，抵御将教学降维为脑测验指标的绩效主义改革。
 > - **主体间性研究** 与德耶格尔提出的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]），深远改变了发展心理学、教育交往论与自闭症交互机制的解释[[Paradigm|范式]]。
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术继承** [[Edmund Husserl]] — 继承胡塞尔开创的[[Phenomenology|现象学]]原初生活世界与身体性（Leiblichkeit）反思传统。
 > - **理论合作者** Hanne De Jaegher — 共同创立[[Participatory Sense-Making|生成主体间性]]与参与式意义建构理论。
 > - **思想对话与应用** [[Steen Nepper Larsen]] — 拉森在其[[Danish Public School Reform|丹麦公立学校改革]]批判中全面引入福克斯的脑生态学与身体现象学框架。

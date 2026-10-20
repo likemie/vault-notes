@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Methodological Educationism
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Methodological Educationism (本概念) | [[Methodological Nationalism]] | [[Soviet Statism\|Methodological Statism]] |
 > |------|--------|----------------|----------------|
 > | **核心还原对象** | 将“教育”等同于正式的“学校教育（Schooling）”。 | 将“社会”等同于“领土化民族国家（Nation-State）”。 | 将“国家政府”视为唯一的社会行动者与政策提供者。 |
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **正式制度依赖（Formal Institutional Bias）** 将教育资源、教育评价与成效等同于学校大楼、标准化测试和学历证书等可被行政测量的可见制度属性。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏[[Competitiveness|竞争力]]）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与[[Geopolitics|地缘政治]]结构性压迫。(Dale & Robertson, 2009)
 > - **边界排他性（Exclusionary Boundaries）** 在方法论设计上，将正式课堂之外的非正式关系、网络流转及多行动者互动视为研究的“杂音”而予以排除。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2005 — 提出三位一体还原论** [[Roger Dale]] 系统梳理了支配全球化教育研究的三重方法论陷阱，明确界定了“方法论教育主义”将教育等同于学校教育的性质。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **2009 — [[Knowledge-Based Economy\|知识经济]]批判拓展** Dale & Robertson 进一步分析在知识经济浪潮中，方法论教育主义如何配合新自由主义国家，将学生的“全球[[Competitiveness|竞争力]]”转化为可以通过学校课程直接生产的商品特质。(Dale & Robertson, 2009)
 > - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入[[Relational Space\|关系空间]]以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -134,5 +134,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了方法论教育主义、[[Methodological Statism\|方法论国家主义]]与 statism 在比较教育历史演进中的叠加运作，并论证了[[Global Citizenship\|全球公民身份]]如何对其构成挑战。

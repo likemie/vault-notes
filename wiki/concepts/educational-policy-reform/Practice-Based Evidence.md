@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Practice-Based Evidence
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 实践本位证据（PBE） | 实验证据本位（[[Evidence-Based Education\|EBE]] / [[Randomised Controlled Trials\|RCT]]） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | 研究知情教学（[[Research-Informed Teaching Practice\|RITP]]） |
 > |---|---|---|---|---|
 > | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊作者、二次研究合成专家 |
@@ -238,7 +238,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1983 — 反思实践与[[Action Research\|行动研究]]源起** [[Donald A. Schön\|Donald Schön]] 提出反思实践者理论，奠定实践者通过现场反思生产专业知识的[[Epistemology\|认识论]]基础。
 > - **2000s — What Works 运动与教师知识赤字化** 随着英美强化因果循证标准，学术界与政策界将证据窄化为 [[Randomised Controlled Trials\|RCT]] 黄金标准，教师生成的研究常被贬低为轶事性材料。
 > - **2015 — [[Improvement Science\|改进科学]]与 Practice-Based Evidence 正式提出** [[Anthony Bryk]] 及其团队出版《Learning to Improve》，正式提出实践本位证据概念，倡导网络化改进共同体（NICs）从情境变异中持续学习。
@@ -286,7 +286,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在“谁的证据算数”讨论中确立 PBE 的合法地位，实证揭示教师获取信息对实践证据与同行网络的压倒性信赖。
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 探讨[[Mechanism Experiments\|机制实验]]与 Bryk [[Improvement Science\|改进科学]]的系统整合，构建连接实验室因果机制与现场 PBE 的双向反馈模型。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批判 [[Education Endowment Foundation\|EEF]] 工具包去情境化[[Effect Size\|效应量]]排行，倡导依托网络化共同体沉淀实践本位证据。

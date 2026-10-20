@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Junzi
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 君子（Junzi） | 士（Scholar-apprentice） | [[Sage\|圣人]]（Sage） | [[John Rawls\|罗尔斯]]程序中立公民 |
 > |---|---|---|---|---|
 > | **核心内涵** | 终身致力于仁的道德成熟者与典范人物 | 初步掌握道德原则并致力于求道的学习者 | [[Benevolence\|仁爱]]普及全人类的至高无上圣贤 | 遵守基本宪政程序与合作规则的理性个体 |
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **道德品质的自致性与去贵族化** [[Confucius|孔子]]将君子从血缘出身彻底重塑为道德卓越标准，确立了人人皆可通过学习与[[Self-Cultivation|修身]]成为君子的普遍性路径。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
 > - **多重社会角色的自如履行与审美维度** 君子在家庭、社群与国家的多重角色中游刃有余，不仅以娴熟技巧、更以优雅、尊严与美感履行责任，使道德实践升华为一种充满愉悦的美学生活。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
 > - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事不是受制于外在规训的被动勉强，而是发自内省仁德的自发、从容与富有[[Creativity|创造性]]。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **公元前 5 世纪 — [[Confucius|孔子]]重塑君子内涵** [[Confucius|孔子]]打破西周以来君子专指血统贵族（君之子）的旧制，将其改造为任何人皆可通过[[Self-Cultivation|修身]]达到的道德典范。
 > - **宋明时期 — 理学心性修养深化** [[Zhu Xi|朱熹]]、[[Wang Yangming|王阳明]]等理学家将君子之道推向心性本体，强调存天理、灭人欲的内在工夫。
 > - **2012 年 — 文化心理学与角色伦理[[Paradigm|范式]]** [[Argument_Li_2012_Cambridge|Li (2012)]] 结合安乐哲与罗思文的角色伦理学，将君子界定为兼具审美优雅、从容创生与关爱他人的“典范人物”。
@@ -183,6 +183,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 阐析儒家君子作为典范人物的审美[[Self-Cultivation|修身]]维度、角色自如践行与去贵族化演变。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]] — 结合[[Lee Kuan Yew|李光耀]]新加坡治理实践，论证儒家君子美德作为实质道德锚点对超越形式中立与重铸[[Technological Republic|技术共和国]]的不可替代性。

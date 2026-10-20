@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Typology of Educational Responses to Globalization
@@ -75,7 +75,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 全球化纵深推进与跨国资本渗透背景下，民族国家、地方社区与被边缘化群体在面对外部政策[[Paradigm|范式]]、发展援助和文化干预时所采取的复杂动力学应对形态。
 > - **理论问题** 传统比较教育学、现代化理论与新制度主义普遍预设跨国教育流动是一个[[Technical Rationality|技术理性]]主导的自发趋同或自愿对等借用过程，遮蔽了跨国不平等权力格局中的暴力强加、阶级剥削、文化灭绝与草根抗争。
 > - **理论类型** 结合历史唯物主义、[[Dependency Theory|依附理论]]与[[Critical Pedagogy|批判教育学]]的宏观政治社会学[[Analytic Framework|分析框架]]。
@@ -225,7 +225,7 @@ updated: 2026-10-16
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 跨国教育发展援助、后殖民国家课程重构、原住民双语教育运动、全球化新自由主义[[Policy Borrowing|政策借用]]与本土抵制。
 > - **成立条件** 需要研究者具备获取深层政策协议文本与扎根草根社群[[Fieldwork|田野调查]]的双重视野，能够辨别官方修辞与深层利益支配。
 > - **解释不足** 理论对四种类型之间的动态转化阈值缺乏精细的形式化建模；对于处于中间状态的妥协、策略性依从（lip-service [[Strategic Compliance|compliance]]）与混杂杂糅（hybridity）机制未作充分展开。

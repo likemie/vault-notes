@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research-Informed Teaching Practice
@@ -267,7 +267,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 提出证据知情学校与教师改进（[[School Enquiry Cycle\|ESTI]]）模型，详述 RITP 的双轨行动理论与英格兰 43 所小学 [[Research Learning Communities\|RLC]] 实证干预，通过学校[[Inquiry Cycle\|探究循环]]实现 RITP 与 [[Data-Based Decision Making\|DBDM]] 的深度融合。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统阐明 RITP 在证据知情拼图中的定位，揭示 RITP 与 DBDM 两个世界的割裂，并提出全系统[[Knowledge Mobilisation\|知识动员]]与探究整合模型。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述 Cain 的三种声音理论与 Rickinson 的 [[Quality Use of Research Evidence Framework\|QURE]] 框架，确立从[[Teacher Professional Agency\|教师能动性]]与质量使用理解知识动员的实践路径。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Carol Weiss
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970s–1980s** 在公共政策研究领域发展[[Research Utilization\|研究利用]]的理论，发表"研究利用的多重意义"（1979）与"知识渗透与决策累积"（1980）等关键作品（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
 > - **1990s** 进一步归纳研究利用的四种过程模型（研发、[[Problem Solving\|问题解决]]、互动、战术），为[[Research Utilization\|研究利用]]研究提供系统框架（见 [[Research Utilization\|研究利用]]条目）。
 
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 为[[Research Utilization\|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被后续研究使用综述（如 Hagevold et al., 2026）反复援引。
 > - **方法路径** 推动研究者从"研究是否被使用"转向"研究以什么方式被使用"，并影响概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]类型学。
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **同一研究传统** Knorr — 与 Weiss 的框架互补，Knorr（1977）区分[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]与工具性使用，共同构成类型学来源。
 > - **概念传统** [[Research Utilization\|研究利用]]、概念性、工具性与象征性使用 — Weiss 是这两个概念条目的思想源头。
 > - **后继整合** Nutley 等（2007）在公共部门证据使用研究中系统化三分类，直接承继 Weiss 的框架。

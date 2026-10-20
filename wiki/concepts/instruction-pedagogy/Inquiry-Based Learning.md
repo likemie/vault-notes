@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Inquiry-Based Learning
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **自主生成新知（Generating New Knowledge）** 学习者通过调查生成对其自身而言全新的概念理解，而非单纯验证教师事先讲授的定论。
 > - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、自我解释与[[Metacognition\|元认知监控]]），而非机械应答。
 > - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、[[Computer Simulation\|虚拟仿真]]数据或信息文本等实证线索。
@@ -220,7 +220,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960–1970 年代 — [[Discovery Learning\|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]转型与[[Inquiry Cycle\|探究循环]]规范化** 随着[[Cognitive Constructivism\|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、假设设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding\|教学支架]]（Scaffolding）理论被全面引入探究设计。
 > - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory\|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis\|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
@@ -296,7 +296,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
 > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。

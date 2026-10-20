@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Champ
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将中国一流大学系统概念化为[[Pierre Bourdieu|布迪厄]]式的竞技场域，深度追踪优势阶层与弱势阶层学生在隐性规则博弈与出路分化中的文化机制。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用布迪厄场域与习性框架，系统分析澳大利亚教育管理场域中外部政治-经济逻辑对[[School Leadership|学校领导]]专业自主性的侵蚀机制。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习[[Paradigm|范式]]，揭示制度化问责场域如何将教师规训为追逐达标测验数据的参赛者，造成对具身教育过程的盲视。（pp. 4–7）

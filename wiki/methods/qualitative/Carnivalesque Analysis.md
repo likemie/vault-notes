@@ -33,12 +33,12 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > Carnivalesque analysis（嘉年华式分析）是 Aydarova（2020）基于 Bakhtin 的嘉年华（carnival）概念发展的[[Qualitative Research\|质性研究]]方法：研究者以"嘉年华小丑"（joker）的角色介入数据，通过打乱官方叙事、追踪矛盾和并置不同来源的数据，揭露被主导[[Discourse|话语]]掩盖的"非官方真相"。
 >
 > > "The researcher as a Bakhtinian carnivalesque joker whose role was to: 'disrupt "the official truths" and to challenge the narrative reformers curated for public consumption'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17, citing Aydarova, 2020, p.7]])
@@ -46,13 +46,13 @@ updated: 2026-10-16
 
 ## 认识论立场
 
-> [!abstract] [[Epistemology\|认识论]]立场
+> [!abstract|notitle] [[Epistemology\|认识论]]立场
 > 该方法属于批判[[Paradigm\|范式]]（critical paradigm），旨在揭露和挑战主导[[Discourse|话语]]的权力运作。其认识论假设是：数据不仅应被严肃对待，也应被"玩味地"（playfully）处理，以暴露政策论证中的荒谬性和矛盾。正如 Allen（2000）所指出的，Bakhtin 的嘉年华概念在解放被作者权威控制的声音方面具有独特作用([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17]])。
 >
 
 ## 研究程序
 
-> [!example] 研究程序
+> [!example|notitle] 研究程序
 > Aydarova（2020）描述的研究程序包括([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17]])：
 >
 > 1. **不被"饱和主题"（saturated themes）所诱惑**——不简单接受反复出现的主导叙事
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 适用场景
 
-> [!success] 适用场景
+> [!success|notitle] 适用场景
 > 适合研究以下问题：
 > - 政策制定中主导[[Discourse|话语]]如何排斥替代叙事
 > - 证据在政策论证中被如何选择性使用或扭曲
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 局限性
 
-> [!warning] 局限性
+> [!warning|notitle] 局限性
 > - 方法本身具有高度解释性，结论依赖于研究者的判断和视角
 > - "玩味"态度可能被误解为缺乏学术严肃性，尽管其目的在于揭示而非消解
 > - 该方法通常需要与其他方法（如[[Descriptive Analysis\|描述统计]]、论证分析）配合使用，单独使用可能不够充分([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.13–19]])
@@ -84,13 +84,13 @@ updated: 2026-10-16
 
 ## 相关理论
 
-> [!info] 相关理论
+> [!info|notitle] 相关理论
 > - Bakhtin 的嘉年华理论——Aydarova 方法论的直接来源，强调嘉年华在解放被权威控制的声音方面的作用([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17]])
 >
 
 ## 使用此方法的研究
 
-> [!example] 使用此方法的研究
+> [!example|notitle] 使用此方法的研究
 > - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 以嘉年华式分析揭露英国[[Grammar School\|文法学校]]政策论证中"好学校"[[Discourse|话语]]的荒谬性
 >
 

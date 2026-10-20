@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Persuasive Communication in Education
@@ -153,6 +153,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 特刊导言深入评述 Carrier 研究，论证发展教师[[Analytical Stance\|分析立场]]与批判性[[Research Literacy\|研究素养]]的紧迫性。
 > - Nora Carrier (2017) — 《How educational ideas catch on: the persuasive communication strategies of innovation promoters》，奠基性实证研究。

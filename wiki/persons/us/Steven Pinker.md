@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Steven Pinker
@@ -55,7 +55,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1954** 出生于加拿大蒙特利尔一个犹太家庭。
 > - **1979** 获得哈佛大学实验心理学博士学位，后在麻省理工学院脑与认知科学系任教二十余年。
 > - **1994** 出版《语言本能》（*The Language Instinct*），奠定演化语言学声誉。
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **实证统计路径** 将量化历史数据引入战争与暴力研究，确立了以战阵死亡率衡量和平水平的经验标准。
 > - **公共哲学路径** 成为当代捍卫科学启蒙与人类进步叙事的核心旗手，有效对抗了文化悲观主义。
 > - **战略反思路径** 卡普与扎米斯卡（2025）指出，平克所揭示的暴力退潮实证事实虽极其珍贵，但若西方社会误以为和平已成天然背景而忽视[[Hard Power|硬实力]]威慑，[[Long Peace|长和平]]的成果将面临被威权侵略逆转的严峻风险。
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论对话者** [[John Lewis Gaddis|约翰·刘易斯·加迪斯]] — 加迪斯的[[Long Peace|长和平]]史学概念为平克提供了核心理论参照框架。
 > - **人类学思想参照** [[Lawrence H. Keeley|劳伦斯·基利]]（Lawrence H. Keeley） — 平克大量采纳基利关于前现代部落高暴力率的研究数据。
 > - **学术论敌** 纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb） — 批评平克的统计方法忽视了战争爆发的肥尾风险（Fat-tailed Risk）。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引平克关于二战后全球暴力大幅退潮的量化数据，同时批判西方社会因过度乐观而陷入和平自满、忽视底层[[Hard Power|硬实力]]威慑的战略短视。
 
 

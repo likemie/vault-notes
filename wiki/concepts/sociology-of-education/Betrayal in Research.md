@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Betrayal in Research
@@ -75,6 +75,6 @@ updated: 2026-10-15
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - Finch (1985) 的工人阶级女性研究——研究者在报告中发现自己的表述可能在强化社会偏见，面临背信焦虑
 > - Kelly (1989a) 的[[Action Research\|行动研究]]——教师在合作中被记录负面证据后感到被出卖

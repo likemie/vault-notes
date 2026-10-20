@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Luxury Belief
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 炫耀性信念（Luxury Belief） | 炫耀性消费（Conspicuous Consumption） | 务实工程思维（[[Engineering Mindset]]） |
 > |:---|:---|:---|:---|
 > | **核心追求** | 彰显道德优越感与前卫文化地位 | 彰显经济财富与阶层优越 | 追求解决物理世界具体问题与提升现实福祉 |
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **地位象征功能（Status-Signaling Function）** 精英通过倡导脱离现实的激进观念在同行中建立文化声望，形成道德垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 > - **代价[[Externalization|外部化]]（Cost Externalization）** 倡导者自身居住于高安全富裕社区，享有私人安保或良好治安，免受政策恶果的直接冲击。
 > - **[[Performativity|表演性]]道德[[Discourse|话语]]（[[Procedural Piety|Performative Moralism]]）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
@@ -121,5 +121,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 运用[[Rob Henderson|罗伯·亨德森]]的炫耀性信念框架，剖析欧美科技界与建制派在地方治安科技化议题上的道德表演与阶级脱节。

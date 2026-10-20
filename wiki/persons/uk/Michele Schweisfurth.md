@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Michele Schweisfurth
 
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2013 年** — 出版著作 *[[Learner-Centred Education]] in International Perspective: Whose Pedagogy for Whose Development?*（Routledge），系统构建 LCE 的国际比较与最低实施标准框架。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 605)]]
 > - **2015 年** — 在 *International Journal of Educational Development* 发表论文，提出 POST-2015 教学法议程，警惕高利害[[Test-Based Accountability\|考试问责]]对民主教学的压制。
 
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** — 为全球 [[Learner-Centred Education\|LCE]] 比较研究确立了从“西方民主理想”到“语境最低标准”的[[Analytic Framework\|分析框架]]。
 > - **跨国／跨领域传播** — 其观点广泛应用于中低收入国家与东亚高压应试地区的教学法移植研究[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]。
 

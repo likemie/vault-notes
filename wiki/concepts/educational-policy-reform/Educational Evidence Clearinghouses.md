@@ -183,7 +183,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Evidence Clearinghouses
@@ -480,7 +480,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 纵向追踪[[OECD\|经合组织]] 2007 至 2022 年全球中介机构的十五年演进脉络，揭示中介机构受制于 2–3 年短期政治预算周期的存续悖论，构建三维制度分析谱系，并倡导推进“中介的中介”以建构跨国累积性知识基石。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 全景比较美英 12 个教育清算中心的制度[[Heterogeneity\|异质性]]、[[Causality\|因果推断]]标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与[[Construct Validity\|构念效度]]局限，归因于[[Research Synthesis|证据综合]]门槛与文献库差异。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001\|NCLB]] 至 [[Every Student Succeeds Act\|ESSA]] 政策背景下清算中心（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]]）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。

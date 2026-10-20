@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Stokes' Quadrant Model of Scientific Research
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 科学研究与技术开发活动的动机结构、[[Knowledge Production|知识生产]]属性分类，以及产学研跨界协同中大学与产业界的价值交汇点。
 > - **理论问题** 打破[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《[[Science, The Endless Frontier 1945|无尽的前沿]]》以来确立的基础/应用研究一维二分法与单向[[Linear Model of Innovation|线性创新模型]]（基础研究 $\to$ 应用研究 $\to$ 试验开发 $\to$ 商业产品），解释为何前沿高科技突破往往既追求深刻的机理认知，又直接受重大现实瓶颈所激发。
 > - **理论类型** 科研分类矩阵、[[Epistemology|认识论]][[Analytic Framework|分析框架]]与创新政策规范理论。
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 产学研合作立项定位；国家公共科技资助战略取向；研发机构使命分类与评估准则重构。
 > - **成立条件** 要求研究者与资助者能够诚实区分立项动机；能够识别真实攻克现实瓶颈与单纯包装应用辞藻（“蹭热点”）之间的实质区别。
 > - **解释不足** 斯托克斯模型本质上是立项动机阶段的**静态快照**；在实际长周期科研中，同一课题往往在数十年的演进中于不同象限之间动态穿梭流动；该模型未将工程仪器研发与实验工具创造对科学发现的物质使能机制充分概念化。
@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]] — 运用斯托克斯[[Pasteur's Quadrant|巴斯德象限]]模型为国际校企研发合作提供[[Epistemology|认识论]]定位，以玛氏公司与加州大学戴维斯分校四十年合作为实证案例，论证空间共置与互利机制对整合应用考量与基础机理创新的关键价值。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 将斯托克斯模型确立为美国[[Developmental Network State|发展型网络国家]]（DNS）打破传统线性创新观的核心认识论基石，阐释公共部门主动介入巴斯德象限早期中试转化的制度合法性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统反思斯托克斯模型静态二元语汇的局限性，提出整合科学发现与技术发明的动态双向循环演进分析[[Paradigm|范式]]。

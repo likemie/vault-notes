@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Khanmigo
@@ -90,5 +90,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 将 Khanmigo 作为融合[[Socratic Dialogue\|苏格拉底对话]]与 RAG 算法的代表性教育专用 [[Generative Artificial Intelligence\|GenAI]] 范例，剖析其在人机共享[[Epistemic Agency\|认识能动性]]网络中的过程与知识双重调控功能。（pp. 358–359）

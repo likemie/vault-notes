@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Likert Scale
 
@@ -262,6 +262,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]题项类型一节中详细讨论了李克特量表的操作方式、常见格式、单维性假设、十七项使用警示（按四个分析维度组织）以及六点量表聚合风险的案例。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 全部 14 道题统一采用五级李克特量表（强烈同意至强烈不同意），并以逐题应答比例而非量表总分呈现结果，其中第 4 题为反向表述题。

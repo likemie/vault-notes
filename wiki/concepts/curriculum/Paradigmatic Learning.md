@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Paradigmatic Learning
 
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960 — “学会学习”的课程草图** 牛津大学教育系报告提出跨文理的专业学习和统一反思课程，并主张[[General Education\|通识教育]]不应再等同于一般知识，为范例学习所需的“深度＋方法反思”提供前提。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 41–43)]]
 > - **1968 — 六门多样学科的深度学习** 让·卡佩勒主张，与其浏览十余个[[Areas of Knowledge\|知识领域]]，不如深入学习约六门性质不同的学科，让学生形成自己的头脑。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 43)]]
 > - **1960 年代后期 — 进入[[International Baccalaureate\|国际文凭]]课程设计** Becker 的建议被转化为国际文凭（International Baccalaureate，IB）学科大纲中的概略共同核心和多个深度选项。六学科负责通识分布，单科范例负责学习深度。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
@@ -186,5 +186,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3)]] 追溯范例学习如何连接牛津[[General Education\|通识教育]]改革、卡佩勒对百科全书课程的批评、Becker 的德国教育改革思想和 IB 的共同核心与深度选项结构。

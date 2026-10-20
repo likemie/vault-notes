@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Interactional Expertise
@@ -85,7 +85,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **专业语言精熟度** 能够无障碍掌握并运用特定学科或政策领域的概念术语、分析[[Paradigm\|范式]]与论证修辞。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 > - **技术客观性取向** 倾向于将复杂社会现象还原为可独立测量的[[Variable\|变量]]与抽象原则，追求跨越情境的普适性结论。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 > - **转译与中介功能** 在[[Knowledge Production\|知识生产]]方（学术研究）与知识消费方（政策制定与一线实践）之间搭建沟通桥梁。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11–12)]]

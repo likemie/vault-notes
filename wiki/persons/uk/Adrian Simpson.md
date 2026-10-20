@@ -54,7 +54,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]])
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size\|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（[[Category Mistake|Category Error]]）（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）**
@@ -72,14 +72,14 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]]。
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a [[Category Mistake|Category Error]] in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）** 而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Simpson 的[[Effect Size\|效应量]]批判在 2017–2019 年间经历了从技术论证到[[Epistemology\|认识论]]论证的演进，以下按时序呈现。
 
 
@@ -132,7 +132,7 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Effect Size]] — 提供了[[Critique of Effect Size\|效应量批判]]的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2019）
 > - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis\|元分析]]）提供最详细的技术批判
 > - [[Meta-analysis]] — 论证元分析的两项核心假设（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.4–5]])
@@ -142,7 +142,7 @@ updated: 2026-10-16
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > **思想的内部演进（2017→2018→2019）** Simpson 的[[Effect Size\|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education\|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018, 2019）。
 >
 > **对[[Critique of Effect Size\|效应量批判]]文献的影响** Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
@@ -155,7 +155,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > Simpson 的工作本身构成对[[Evidence-Based Education\|证据本位教育]]方法论的**系统性批判**，而非被批评的对象。相关的方法论争议围绕其核心主张展开：
 >
 > - **EBE 支持者的"有什么危害"回应**[[Argument_Simpson_2019_ERE\|Simpson (2019, pp.107–108)]]记录了 EBE 支持者的典型回应——即使[[Effect Size\|效应量]]不完美，使用它来指导政策"有什么危害？"Simpson 的回答是：干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域——这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变

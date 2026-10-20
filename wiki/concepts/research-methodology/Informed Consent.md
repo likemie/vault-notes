@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Informed Consent
 
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 知情同意（Informed Consent） | 机构伦理审查（[[Institutional Review Board|IRB]] 审批） | 过程知情同意（Process Consent） | 参与赞同（Assent） |
 > |---|---|---|---|---|
 > | **主体关系** | 研究者与个体受试者之间的直接协议 | 伦理审查委员会对研究方案的制度监管 | 研究者与受试者在研究全周期的持续对话 | 研究者与未成年人或弱势个体的意愿确认 |
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **能力（Competence）** 参与者具备成熟的心智能力，能够在充分权衡信息后自主作出明智抉择；对心智尚未成熟或存在认知障碍的群体须启动特殊保护。（Diener & Crandall, 1978）
 > - **自愿（[[Voluntarism]]）** 参与者在免于任何外部强迫、经济诱惑或权力施压的情境下自由决定参与或拒绝，享有无条件且免受惩戒的退出权利。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 213)]]
 > - **充分信息（Full Information）** 研究者完整披露研究目的、程序安排、潜在不适、可能收益与联系渠道；在无法穷尽所有技术细节时，必须满足合理知情同意标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 79)]]
@@ -230,7 +230,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 专著第 5 章系统阐述知情同意四要素、合理告知标准与儿童赞同双阶段程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Ch. 05]]）；第 27 章探讨视觉研究方法在获取知情同意与图像复制授权方面的特殊伦理挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Ch. 27]]）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 93–94, 213)]] — 归纳知情同意书的九项标准构成要素，强调知情同意对质性研究效度与自愿参与权保障的核心功能。
 > - [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025, pp. 265–268)]] — 分析《共同规则》在大学与企业赞助研究间的制度不对称性，确立知情同意在产学合作谈判中的法理定位。

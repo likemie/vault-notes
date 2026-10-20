@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Disciplinary Institutionalization
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **院系建制与学位序列（Departmental & Degree Structure）** 在大学内部建立独立的计算机系或交叉实验室，设立学士、硕士与博士学位培养方案，摆脱对传统数学系或电气工程系的依附。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 > - **外部公共科研资助网络（External Public Funding Network）** 联邦科技部门（如国防部高级研究计划局与国家科学基金会）设立专项基金，为大学基础与应用探索提供稳定经费，克服短期商业收益视角的狭隘性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 38)]]
 > - **跨部门知识杂交与人才枢纽（Cross-Fertilization & Talent Pipeline）** 高校在新兴学科建制化中充当连接政府、产业界与学界的[[Knowledge Mediation|知识中介]]，持续为工业界供给具备跨界视野的先驱科学家与工程骨干。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]

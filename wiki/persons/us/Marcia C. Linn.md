@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Marcia C. Linn
@@ -76,7 +76,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1960 年代** 于斯坦福大学（Stanford University）获得教育心理学与统计学博士学位，师从著名心理测量学泰斗李·克隆巴赫（Lee Cronbach）。
 > - **1970–1980 年代** 加入加州大学伯克利分校劳伦斯科学馆（Lawrence Hall of Science），开创关于青少年科学推理能力性别差异与[[Control of Variables Strategy\|变量控制策略]]的开创性实证研究。
 > - **1990 年代** 主导“计算机作为学习伙伴”（CLP）项目，荣获全美教育研究协会（[[American Educational Research Association\|AERA]]）多项杰出研究奖，并正式确立“[[Knowledge Integration\|知识整合]]”理论框架。
@@ -113,7 +113,7 @@ updated: 2026-10-15
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论体系建构** 创立的“[[Knowledge Integration\|知识整合]]”（Knowledge Integration）理论成为当代国际学习科学中最具影响力的科学教学设计[[Paradigm\|范式]]之一。
 > - **规模化实践创新** 历时二十余年研发的开源 WISE 平台直接服务于全球数十万师生，成为 [[National Science Foundation\|NSF]] 资助教育科研向常态课堂转化的国家级标杆。
 > - **技术前沿开拓** 率先将自然语言处理与机器学习算法应用于课堂开放式科学论述的自动化[[Formative Assessment\|形成性评价]]，奠定了教育人工智能（AIED）在科学教育领域的奠基性实践。

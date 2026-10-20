@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Automated Data Extraction
@@ -196,6 +196,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 系统评估大语言模型在 156 项教育[[Meta-analysis\|元分析]]中提取统计数据的准确性，确立大模型达到人类专家水平，并提出基于有意义人类控制的混合验证工作流。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Creativity\|创造力]][[Meta-meta-analysis\|二阶元分析]]研究，采用人工双人背对背编码提取 52 项一阶元分析数据。

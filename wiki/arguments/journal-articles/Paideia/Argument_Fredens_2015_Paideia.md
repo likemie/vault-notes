@@ -43,7 +43,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -52,17 +52,17 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*(Dafolo, 2014,即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本)，评估该书对丹麦教育实践的贡献与局限。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Visible Learning]] — 书评以 VL 框架本身为评述对象，以欣赏但补充批评的立场呈现
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 书评以横跨书中章节的方式组织，提炼并评论九个贯穿全书的学习原则，同时补充来自脑科学和教育哲学的批评性视角。
 >
 > ### 九条学习原则
@@ -93,7 +93,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势(p.74–75)
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己(p.71)
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略
@@ -108,7 +108,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “简言之，我们需要澄清如何最好地学习。那么什么是学习？[[John Hattie\|约翰·哈蒂]]（John Hattie）和 Gregory Yates 对此有一个科学的答案。”
 > ("Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på.")(p.70)
 >
@@ -123,7 +123,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 书评未对 Hattie & Yates 的[[Meta-analysis\|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
 > - 作为丹麦语出版物中的书评，其读者群主要限于北欧教育界
 > - 书评的补充性批评（默认网络功能、教师人格重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍

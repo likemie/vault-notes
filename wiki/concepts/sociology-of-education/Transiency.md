@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Transiency
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **学年中途跨校转学（Mid-School Year Movement）** 发生于完整学年授课周期的中途，直接中断教学进度、学生社交网络与教师评估连贯性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
 > - **赤字[[Discourse\|话语]]病理化（Pathologized Deficit Discourse）** 政策文本与管理话语将频繁转学归咎为家庭“无法安稳度日”的心理或行为缺陷，掩盖宏观住房市场剥削。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **学校绩效免责杠杆（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
@@ -200,5 +200,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 比较分析欧洲高等教育对[[Student Mobility|学生流动]]的赞美与美国基础教育对中途转学漂泊（Transiency）的病理化贬抑，揭示空间流动背后的阶层化道德评价与[[Spatial Governmentality|空间治理术]]。

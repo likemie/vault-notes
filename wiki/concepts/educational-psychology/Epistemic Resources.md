@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Resources
@@ -77,6 +77,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **Hammer and Elby (2002)** — 首次提出“[[Epistemology\|认识论]]资源”与“认识论框架”概念，通过物理教学的实证案例展示了学生在不同课堂互动中如何调配不同的微观资源。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将认识论资源作为[[Integrative Pluralism\|整合多元主义]]框架中“个体层级”的基石，并指出其对传统[[Domain Specificity\|领域特异性]]（[[Domain Specificity]]）研究在“颗粒度”上的降维打击。

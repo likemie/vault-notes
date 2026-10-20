@@ -55,7 +55,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** [[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）在应对复杂社会挑战时，如何识别社会问题与创新解决方案两端的特征错位，并通过差异化的政策路径推动两者走向合法化收敛。
 > - **理论问题** 回应既有使命政策文献过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
 > - **理论类型** 属于中观制度[[Analytic Framework|分析框架]]与政策过程理论（Policy Process Theory）。
@@ -267,7 +267,7 @@ updated: 2026-10-16
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 国家与区域层面的重大科技创新专项、绿色低碳转型政策、智慧城市与新兴数字技术治理、跨部门公共卫生政策等具有高度系统复杂性与社会外部性的战略议题。
 > - **成立条件** 政策环境具备一定程度的民主审议空间、多元利益表达渠道以及政府具备跨部门协同与政策工具调配能力。
 > - **解释不足** 对微观层面的政党选举周期、突发性地缘危机对政策收敛过程的破坏性中断缺乏内生微观机制解释；对非民主体制下的政策收敛逻辑解释力有待检验。

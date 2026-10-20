@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Confucius
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **551 BCE** — 出生于鲁国陬邑（今山东曲阜）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 36)]]。
 > - **前 6 世纪中后期** — 编订六经（诗、书、礼、乐、易、春秋），整理前代哲学、政府、人伦、道德、历史与诗乐文本。
 > - **前 6 世纪末** — 打破贵族官学垄断，创办私学，招收弟子约 3,000 人（贤人七十二），宣告“有教无类”——无论社会背景与经济阶层，人人享有受教育的权力。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** — 奠定[[Confucian Learning Tradition\|儒家学习传统]]与东亚学习模型，塑造了集“[[Self-Cultivation\|修身]]-好学-好德”于一体的人性论与学习哲学[[Argument_Li_2012_Cambridge\|(Li, 2012)]]。
 > - **方法路径** — 倡导“不愤不启，不悱不发”的启发式[[Dialogue in Education|对话教学]]（dialogic teaching），强调高阶思考与社会互动的契合[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。
 > - **政策与课程路径** — [[Civil Service Examination\|科举]]制与现代[[Gaokao\|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu\|中华民族]]传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge\|官方知识]]与对外[[Soft Power\|软实力]]符号[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 63, 67)]]。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **继承者／理论阐发者** — [[Mencius\|孟子]]、[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]] — 继承并深化仁学与性善论/理学/心学体系。
 > - **跨文化对话与异质镜像** — [[John Dewey\|John Dewey]] — 1919 年蔡元培将其塑造为“替代性现代[[Sage\|圣人]]”与孔子对比[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 75)]]。
 > - **理论共振视角** — [[Lev Vygotsky\|Lev Vygotsky]] — 社会文化理论与孔子启发式对话在当代 [[Learner-Centred Education\|LCE]] 改革中产生[[Selective Affinity\|选择性亲和]][[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。

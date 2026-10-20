@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bengt-Åke Lundvall
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1941** 出生。
 > - **1973–** 任职于丹麦奥尔堡大学（Aalborg University），组建产业与创新演化学术群体（IKE）。
 > - **1985** 出版《产品创新与[[User-Producer Interaction|用户—生产者互动]]》（*Product Innovation and User-Producer Interaction*），奠定互动学习微观理论基石。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与 [[Chris Freeman]]、[[Richard Nelson]] 共同构成了现代[[National Innovation System|国家创新系统]]研究的三大支柱；将分析焦点深度下沉至微观“学习与互动”维度。
 > - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者／思想盟友** [[Chris Freeman]] — 共同开创与推广[[National Innovation System|国家创新系统]]理论，在 SPRU 与奥尔堡学派之间长期保持深度协作。
 > - **合作者／思想盟友** [[Richard Nelson]] — 共同从[[Evolutionary Economics|演化经济学]]视角推进国家[[Systems of Innovation|创新系统]]跨国比较研究。
 > - **合作者／思想盟友** [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。

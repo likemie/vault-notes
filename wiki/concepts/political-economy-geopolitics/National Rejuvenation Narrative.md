@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Rejuvenation Narrative
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Century of Humiliation|百年屈辱]]创伤回溯** 以近代受制于外强的历史创伤为情感锚点，赋予国家富强与安全建设以迫切的救亡图存道义正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 > - **两个一百年目标具象化** 将抽象的文明复兴愿景转化为阶段性经济繁荣、科技跨越与现代化强国建设的具体指标。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **朝贡朝向与文明荣光重置** 借由古丝绸之路等历史符号的现代重构，投射古代区域秩序中心与文明枢纽的历史想象。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
@@ -151,7 +151,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1840–1949 — 创伤萌生阶段** 近代鸦片战争以降的列强侵略与主权丧失，构成了“[[Century of Humiliation|百年屈辱]]”与救亡图存的集体记忆，奠定了近代[[Zhonghua Minzu|中华民族]]觉醒与复兴诉求的情感底色。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 > - **1949–2012 — 制度建构与经济强国阶段** 新中国成立确立主权独立，改革开放后经济腾飞与“两个一百年”目标的设立，逐步将民族复兴具象化为综合国力与人民生活水平的跨越式增长。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **2012至今 — 新时代对外战略投射与教育全球化应用** 中华民族伟大复兴成为总体外交布局的顶层理念；在教育领域，《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》等文件明确将对外教育协同作为服务两个一百年目标的重要推进工具，复兴叙事全面渗透至国际化高等教育与[[Knowledge Diplomacy|知识外交]]实践中。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–689)]]
@@ -190,5 +190,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 通过对《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》及关联政策开展[[Critical Discourse Analysis|批判性话语分析]]，揭示[[Education Going Global|教育出海]]深层承载的洗雪近代[[Century of Humiliation|百年屈辱]]、实现民族伟大复兴以及争夺全球[[Discourse|话语]]主导权的宏观社会学成因。

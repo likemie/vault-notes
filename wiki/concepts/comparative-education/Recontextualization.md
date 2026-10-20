@@ -84,7 +84,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Recontextualization
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 再情境化（Recontextualization） | [[Policy Borrowing\|政策借用]]（Policy Borrowing） | [[Transfer Translation Transformation\|3T 框架]]（3T Framework） | 认知误解（Misunderstanding） |
 > |---|---|---|---|---|
 > | **分析重点** | [[Discourse\|话语]]脱离原情境后的选择性过滤与意义变异机制 | 国家层面上对外来政策的决策采纳、修辞与合法化 | 教育思想跨国流动的三个宏观阶段（转移—转译—转化） | 将接受者的吸收偏差归咎于被动的认知失误 |
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **生产、再情境化与再生产场所的[[Champ|场域]]分立** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）指出，[[Knowledge Production|知识生产]]语境（主要由学术界掌控）负责划定“不可思”（Unthinkable）的[[Epistemology|认识论]]界限；官方再情境化场域（Official Recontextualising Field, ORF，如教育部）依据政治合法性重组[[Discourse|话语]]；教学再情境化场域（Pedagogic Recontextualising Field, PRF，如大学教育院系、专业出版物）提供批判与调试；再生产语境则发生在基层学校日常实践中。
 > - **跨国五位置循环流动与层级变形** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）将再情境化拓展为全球教育场域五大结构位置模型：全球学术[[Space Production|空间生产]]专业知识；国际组织出于紧迫[[Pragmatic Paradigm|实用主义]]将其过度简化为去情境化的普遍处方（[[Global Educational Discourse|全球教育话语]]）；国家层面将其与既有规范折衷并置为政策大纲；本土学术界因[[Gatekeepers|守门人]]群体垄断而陷入依附与失声；基层教育机构在落地时则遭遇剧烈实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
 > - **选择性挪用与重构** 行动者绝非被动接收，而是从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 — 语篇再情境化[[Champ|场域]]理论奠基** Bernstein 提出再情境化概念，系统划分[[Knowledge Production|知识生产]]语境、官方再情境化场域（ORF）与教学再情境化场域（PRF），分析阶级权力如何通过[[Discourse|话语]]重新定位来规训教育实践。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350; Bernstein, 1990)]]
 > - **2009 — 跨国教育思想转移视角扩展** Schulte 将再情境化发展为跨国教育转移[[Analytic Framework|分析框架]]，通过[[John Dewey|杜威]]在中国的百年接受史展现本土行动者基于意识形态议程的选择性挪用与重写机制。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **2009 — 全球—国家—实践三层空间变异** [[Argument_Beech_2009_CE|Beech (2009a)]] 提出[[Global Educational Discourse|全球教育话语]]的三层空间再情境化，揭示能力话语如何被抽空为[[Floating Signifier|漂浮能指]]，并在国家政策并置与学校地缘物质条件制约下发生层级变形。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
@@ -262,7 +262,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再情境化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 提出全球—国家—实践三层再情境化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术话语并在降落微观学校机构时引发严重的再情境化脱节与制度扰动。

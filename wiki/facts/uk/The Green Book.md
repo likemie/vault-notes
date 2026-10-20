@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # The Green Book
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **确立国家循证评估的通用语法** 统一了跨部门政策分析的方法论标准，使基础设施投资、环境规制与健康干预能够在同一[[Analytic Framework|分析框架]]下比较优先级。
 > - **证据与决策真实逻辑的脱节** 皇家学会指出，现实中部长往往依据政治、社会或经济等多维考量决策，却常常打着遵循科学的旗号，导致科学证据被政治工具化，损害了科学顾问与评估体系的公信力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
 > - **证据公开的制度性阻滞与选择性利用** 尽管规程要求详尽，但政府极少在最终政策文本旁同步公开支撑决策的完整科学依据，存在选择性采纳有利证据（cherry-picking）掩盖学术分歧的风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]

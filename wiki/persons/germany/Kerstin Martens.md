@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Kerstin Martens
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1974** 出生于德国。
 > - **2003** 获英国牛津大学与德国柏林自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 极大地推动了国际关系学“[[Constructivist Paradigm\|建构主义]]/制度主义”与比较教育学“[[Policy Borrowing\|政策借用]]与借用”的[[Paradigm\|范式]]融合，为剖析国际组织非强制性权威提供了最清晰的分析工具。
 > - **方法路径** 开创性地将国际组织章程文献的量化[[Content Analysis\|内容分析]]与全球数据库建设（IO-ED）引入全球治理研究。
 > - **政策路径** 促使欧洲议会与多国教育决策智库重新审视[[OECD\|经合组织]]等外部经济组织发布的指标建议，警惕其工具性使命对国家教育本体价值的扭曲。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术伙伴，共同推进[[Governing by Numbers\|数字治理]] 2.0 与[[Policy Brokerage\|政策中介]]批判分析。
 > - **师承／合作关系** [[Christian Ydesen]] — 长期跨学科同道，共同探索战后国际组织史与当代指标政治的对接。
 > - **师承／合作关系** Dennis Niemann — 长期合作伙伴，共同开创“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”概念模型。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cooperative Integrated Reading and Composition
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **教师显性策略示范（Teacher-Led Explicit Instruction）** 教师精讲预测、主旨提炼、故事语法结构分析与写作修辞策略，进行认知建模。
 > - **异质配对朗读与即时纠音（Partner Reading & Decoding）** 组内异质结对轮流朗读课文段落，同伴即时纠正发音并进行段落要点口头复述。
 > - **词汇协商与故事语法图解（Vocabulary & Story Structure）** 共同研讨目标词汇语境含义，绘制故事背景、人物动机、冲突与结局的结构图表。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1987 年 — 原型创立与实证验证** Robert Stevens、[[Robert Slavin]] 与 [[Nancy Madden]] 在约翰霍普金斯大学完成 CIRC 的原型开发与首批对照实验，发表里程碑研究。
 > - **1990 年代 — 全校性综合改革整合** CIRC 被深度整合进全员成功（[[Success for All]]，SFA）全校性教育改革项目中，成为全美数百所小学 2–6 年级阅读写作教学的标准化架构。
 > - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials\|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -206,7 +206,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning\|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size\|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw\|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All\|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act\|ESSA]] 循证改革中的实证轨迹与规模化成效。
 

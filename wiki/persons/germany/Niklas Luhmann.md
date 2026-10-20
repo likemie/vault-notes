@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Niklas Luhmann
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于德国下萨克森州吕讷堡。
 > - **1946–1949** 在弗赖堡大学修读法学，毕业后进入吕讷堡高级行政法院与下萨克森州议会从事公共行政法务工作。
 > - **1960–1961** 获得福特基金会资助赴哈佛大学公共行政学院深造，师从社会学泰斗[[Talcott Parsons|帕森斯]]（Talcott Parsons）研习[[Structural Functionalism|结构功能主义]]与现代系统论。
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **社会学与哲学[[Epistemology\|认识论]]路径** 彻底终结[[René Descartes\|笛卡尔]]—[[Immanuel Kant\|康德]]式的主体哲学中心地位，开创以二阶控制论为基石的操作[[Constructivist Paradigm\|建构主义]]（Operative constructivism），深刻影响现代知识社会学与法社会学。
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数纯属社会沟通系统的代码产物，与学生内心深处的主观心理体验属于不同操作范畴，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
 > - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论渊源／师承** [[Talcott Parsons|帕森斯]]（Talcott Parsons） — 现代[[Structural Functionalism|结构功能主义]]系统论创始人，卢曼的学术领路人；卢曼全盘扬弃了帕森斯的行动参考框架与静态整合预设，转向以[[Autopoiesis|自创生]]与沟通为核心的新系统论。
 > - **世纪论敌** [[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas） — [[Critical Theory|批判理论]]法兰克福学派第二代领袖；哈贝马斯坚持规范性的主体间沟通理性与生活世界拯救，卢曼则坚持反规范、功能分化与操作封闭的纯系统观察，二者展开了战后社会学界最宏大的[[Paradigm|范式]]论战。
 > - **教育学范式继承者** [[Jurgen Schriewer|Jürgen Schriewer]]（于尔根·施瑞尔） — 国际比较教育学系统论学派奠基人，将卢曼的[[Externalization|外化]]命题与自指性系统论[[Creativity|创造性]]运用于全球教育[[Policy Borrowing|政策借用]]研究。

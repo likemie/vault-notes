@@ -59,7 +59,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Floor and Ceiling Effects
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **题项难度梯度失衡（[[Item Analysis\|item difficulty]] Imbalance）** 测验缺乏足够数量的高难度题项（导致天花板）或缺乏足够的基础台阶题（导致地板），题项难度未能覆盖受试总体的完整能力潜能。
 > - **方差人为收缩（Artificial Variance Truncation）** 由于两极数据被强行折叠至极值，样本实测方差远低于受试人群的潜在真实方差，违背多元统计分析的连续正态假定。
 > - **[[Effect Size\|效应量]]系统性衰减（Effect Size Attenuation）** 组间均值差因尺度边界而被人为缩减，使得原本具有实质教育意义的教学干预在数据报表上呈现为“无统计显著差异”（$d \approx 0.00$）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -199,6 +199,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 结合 [[Catch Up Numeracy]] 等实证案例，系统剖析商业测验天花板与地板效应如何侵蚀 [[Randomised Controlled Trials\|RCT]] [[Causality\|因果推断]]效度，并阐述 [[Education Endowment Foundation\|EEF]] 建立前置测量工具库的治理经验。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding, & Chiu (2026)]] — 在跨学段[[Meta-analysis\|元分析]]中反思学业测评工具难度受限对认知干预[[Effect Size\|效应量]]的潜在衰减效应。

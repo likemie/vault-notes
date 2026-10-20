@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Steven Stahl
@@ -64,7 +64,7 @@ updated: 2026-10-17
 
 ## 贡献地图
 
-> [!contribution-map] 贡献地图
+> [!contribution-map|notitle] 贡献地图
 > - **概念贡献**[[Language Experience Approach\|语言经验法]] — 系统梳理了语言经验法的发展，并指出其与[[Whole Language\|全语言]]在诞生时间与教学材料上的本质区别。
 > - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对早期阅读教学设计进行实证合成，但早期因将两种不同教学法混同计算而引发了方法论的广泛批评。
 

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Second-Sourcing
@@ -189,6 +189,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 阐明美国国防部在半导体采购中强制推行第二货源条款，要求主承包商无保留向竞争对手移交设计图纸与工艺诀窍以避免断供，从而直接加速新创企业[[Emergence|涌现]]、打破寡头垄断并激发激烈的去中心化企业间技术竞争。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 深度剖析美国国防部第二货源采购机制如何与 1956 年反垄断同意令协同运作，打破半导体专有壁垒并奠定硅谷去中心化竞争生态。

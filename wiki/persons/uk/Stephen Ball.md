@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Stephen Ball
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990 年代初** 执教于伦敦大学国王学院，1993 年发表关于教育市场与[[School Choice|择校]]的经典研究，提出市场机制实质是国家重塑阶级特权的阶级策略。
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，确立政策文本、政策语境与政策实践动态互动的批判[[Analytic Framework|分析框架]]。
 > - **2000 年代初** 加盟伦敦大学教育学院（IOE），任教育政策卡尔·曼海姆讲座教授；系统考察新工党政府的教育市场化与公私伙伴网络。
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/[[Exogenous Privatisation|外生私有化]]模型成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的规训。
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术伙伴** Deborah Youdell — 共同开展公共教育隐性私有化研究，提出内生与[[Exogenous Privatisation|外生私有化]]双轨模型。
 > - **对话者／批判共鸣** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 其关于市场化作为阶级策略与内生/外生私有化的框架被引入拉美[[Conditioned State Theory|受限国家]]批判分析。
 > - **理论对话者／拉美引申** [[Jason Beech]] — 比较教育学者，在其博士研究与五位置[[Discourse|话语]]流通模型中系统吸收鲍尔关于政策简约性诱惑、文本与执行张力以及定向委托合同研究侵蚀学术自主的论断。

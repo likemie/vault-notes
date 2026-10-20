@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-19
+updated: 2026-10-21
 ---
 
 # Long-Term Public Utility
@@ -93,7 +93,7 @@ updated: 2026-10-19
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **长周期时间尺度（Long Time Horizon）** 承认颠覆性创新从原型孕育到社会重塑往往需要 30 到 50 年的演化网络，资助必须建立在超越选举政治与短期商业考评的[[Patient Capital|耐心资本]]之上。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 > - **系统瓶颈疏通导向（Bottleneck-Clearing Orientation）** 政策干预的正当性取决于课题是否致力于攻克制约国家前沿学科与战略产业整体发展的底层技术堵点，而非课题表面的学科归属。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 > - **产出形态的中立对称性（Neutrality to Output Form）** 破除对论文探索的高贵迷信与对工艺动手的文化偏见，将实验装备研制、极端材料提纯与抽象物理定律确立置于完全平等的公共资助位阶。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
@@ -147,7 +147,7 @@ updated: 2026-10-19
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将[[Market Failure|市场失灵]]作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]

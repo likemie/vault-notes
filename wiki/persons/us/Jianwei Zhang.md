@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jianwei Zhang
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990s** 在北京师范大学心理学院攻读发展与教育心理学，师从陈琦教授，系统开展[[Constructivist Paradigm|建构主义]]学习理论与多媒体教学心理学研究。
 > - **2000s** 前往加拿大多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）深造与工作，与 [[Marlene Scardamalia]] 及 [[Carl Bereiter]] 紧密合作，全面参与[[Knowledge Building Theory|知识建构]]与[[Theory of Knowledge|知识论]]坛的技术研发与实证干预工程。
 > - **2007** 提出探究线索分析法（Inquiry Threads Analysis），为追踪和量化协作[[Discourse|话语]]中的持续[[Problem Solving|问题解决]]轨迹提供了经典分析工具。
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了[[Knowledge Building Theory|知识建构理论]]与学习科学对[[Epistemic Agency|认识能动性]]的机制化阐释，桥接了社会学结构化理论与微观课堂互动。
 > - **方法路径** 创立的探究线索分析法（Inquiry Threads Analysis）与整合[[Interactional Ethnography|互动民族志]]的长周期课堂事件追踪[[Paradigm|范式]]，成为国际 CSCL [[Domain Analysis|领域分析]]协作认知进展的标准工具之一。
 > - **教学实践路径** 其基于原则的[[Design-Based Research|基于设计的研究]]成果直接指导了美国、新加坡、中国香港及中国大陆多所创新实验学校的科学教育改革与[[Theory of Knowledge|知识论]]坛课堂实践。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Marlene Scardamalia]]、[[Carl Bereiter]] — 博士后与长期科研合作导师，共同推进[[Knowledge Building Theory|知识建构理论]]与国际知识创新与技术中心（Institute for Knowledge Innovation and Technology, IKIT）网络。
 > - **合作者** 陶丹（Dan Tao）、田艳（Yan Tian）、袁广基（Guangji Yuan） — 长期合作开展基于知识建构的设计基实证研究。
 

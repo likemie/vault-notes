@@ -35,14 +35,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-21
 ---
 
 # New Sociology of Education
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > New Sociology of Education（NSE，新教育社会学）是 1970 年代英国教育社会学的一次问题转向：研究重心从教育机会的组织和分配，转向学校内部的知识、课程和课堂过程。它把“学校传递什么知识、谁的知识被合法化、课堂互动如何再生产阶级关系”作为教育不平等的核心问题([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-659]])。
 
 ## 核心问题
@@ -52,7 +52,7 @@ updated: 2026-10-07
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > - [[Knowledge Questions\|知识问题]]化：NSE 将学校知识从“应被传授的内容”转化为“需要被解释的社会事实”，追问其分类、合法性和阶级效果([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-659]])。
 > - 学校内部视角：学校不再只是机会分配制度中的一个环节，而成为新的社会学实验室；课堂、课程和教师实践进入持续的批判性研究目光([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
 > - 理论混合性：NSE 不是单一理论，而是由[[Phenomenology\|现象学]]、互动论、知识社会学、不同版本的马克思主义和批判教育研究构成的松散组合，因此同时具有[[Creativity\|创造力]]和内部张力([[Argument_Ball_2008_SR\|Ball, 2008, pp.659-660]])。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Irving John Good
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1916** 出生于英国伦敦的一个波兰犹太移民家庭。
 > - **1938–1941** 毕业于剑桥大学耶稣学院并获数学博士学位。
 > - **1941–1945** 二战期间进入英国战时密码破译中心布莱切利庄园（Bletchley Park），担任阿兰·图灵（Alan Turing）的主要统计助手，参与恩尼格玛（Enigma）密码与洛伦兹（Lorenz）加密机（即巨人机 Colossus）的破译工程。
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 首创的“智能爆炸”与“超智能”概念，直接启迪了后世牛津哲学家尼克·波斯特洛姆（Nick Bostrom）的《超级智能》（*Superintelligence*）以及雷·库兹韦尔（Ray Kurzweil）的“技术奇点”（Technological Singularity）理论。
 > - **AI 安全与对齐路径** 率先指出超智能机器在带来文明突破的同时，蕴含着人类彻底丧失系统控制权的巨大存在性风险，成为现代人工智能对齐（AI Alignment）与风险治理研究的思想源泉。
 > - **历史反思与周期律** 其在 1964 年作出的“20 世纪内建成超智能”的预测，与赫伯特·A. 西蒙等先驱的断言共同构成 20 世纪计算界乐观预言周期的典型注脚。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心战时导师与合作者** 阿兰·图灵（Alan Turing） — 二战期间在布莱切利庄园共同工作，协助图灵开发贝叶斯统计分析方法，破译德军密码。
 > - **学术同行** [[Herbert A. Simon]] — 20 世纪中叶共同探讨机器替代人类心智劳动与[[Artificial General Intelligence|通用人工智能]]可行性的计算先驱。
 > - **思想继承者** 尼克·波斯特洛姆（Nick Bostrom） — 继承古德的超智能与智能爆炸理论，发展出当代超级智能正交性与工具性收敛框架。

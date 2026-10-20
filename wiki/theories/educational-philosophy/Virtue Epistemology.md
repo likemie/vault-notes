@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Virtue Epistemology
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 认识主体的理智品格、认知能力、求真动机与探究行为对知识获取、深层理解达成及信念辩护的影响。
 > - **理论问题** 传统[[Epistemology\|认识论]]过于偏重命题信念本身的静态辩护与形式逻辑，忽视了探究者本人的理智特质、情感动力、探究规范与[[Epistemic Responsibility\|认识论责任]]。
 > - **理论类型** 规范[[Epistemological Theories\|认识论理论]]、认知哲学[[Paradigm|范式]]与教育认识论[[Analytic Framework\|分析框架]]。
@@ -213,6 +213,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 将德性责任论框架系统引入[[Generative Artificial Intelligence|生成式人工智能]]教育哲学，论证 AI 应当通过双模态对话、直接答案拦截规则及个性化故事模式唤起[[Intellectual Emotions|理智情感]]，服务于培育[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]的根本教育目标。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 整合德性[[Epistemology|认识论]]的核心洞见，将理智美德与恶德作为第四大组件纳入扩展的[[Epistemic Cognition|认识论认知]][[Analytic Framework|分析框架]]，系统阐述其在科学教育与[[Inquiry-Based Learning|探究式学习]]中的应用。

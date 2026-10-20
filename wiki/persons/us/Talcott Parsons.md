@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Talcott Parsons
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1902** 出生于美国科罗拉多州科罗拉多斯普林斯的一个公理会牧师家庭。
 > - **1924** 毕业于阿默斯特学院（Amherst College），后赴伦敦政治经济学院（LSE）和德国海德堡大学深造，师从经济学与社会学大师并翻译[[Max Weber|马克斯·韦伯]]的《新教伦理与资本主义精神》。
 > - **1927–1973** 长期任教于哈佛大学，创建哈佛社会关系学系（Department of Social Relations）并担任系主任。
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **宏观社会学理论路径** 统领了二战后近三十年的美国社会学[[Discourse|话语]]，培养了默顿（Robert K. Merton）、[[Niklas Luhmann|卢曼]]（Niklas Luhmann）等一代学术大师。
 > - **社会心理学与动机研究路径** 其关于地位挫折、侵犯性转化为偏执心理与自我辩护机制的分析，持续影响着现代阶层心理学与组织行为学。
 > - **科技政治批判路径** 卡普与扎米斯卡（2025）将帕森斯的怨恨防御论引入对高科技精英回避国家战略责任的分析，揭示了其以社会不公为由放弃公共担当的深层心理机制。
@@ -113,5 +113,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章援引帕森斯 1947 年关于不公正对待感与失败借口的经典论文，解释硅谷工程师在地位期望落空后所产生的技术逃避与政治冷漠。

@@ -51,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -60,26 +60,26 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 这篇导言要回答的不是某个单一实证问题，而是更像一期主题号的立场说明：为什么 2015 年的教育世界会普遍转向 [[Visible Learning]]，这一[[Paradigm\|范式]]最值得关注的核心到底是什么，以及围绕它已经形成了哪些支持、修正和方法论审查路线(pp.4–8)。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Visible Learning]] — 导言把 Hattie 的VL定位为全球教育改革和教学实践中最具影响力的学习成效[[Paradigm\|范式]]之一，但强调其关键不在干预排行本身，而在教师持续评估自身影响的工作方式(p.4)。
 > - [[Dynamic Knowledge and Learning Model]] — 导言用 Qvortrup 文章的提要指出，若VL要回应对[[Surface and Deep Learning\|表层学习]]的批评，就需要更动态的知识与学习概念，而不能停留在单层次学习结果的度量(p.5)。
 > - [[Effect Size]] — 导言用 Allerup 文章的提要提醒，效应量排序虽是VL传播的核心工具，但其解释需要统计前提、显著性与不确定性意识的约束(pp.5–6)。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：编辑导言与主题综述。
 > - 材料：本期 *[[Paideia]]* 围绕VL组织的主题文章、书评和一篇主题外文章(pp.4–8)。
 > - 路径：先概括 Hattie 对VL现状的自我界定，再逐篇介绍主题号中对知识概念、跨文化适用性、[[Effect Size\|效应量]]解释、瑞典学校改革影响和系统改进策略的不同处理方式。
 
 ## 论证结构
 
-> [!example] 论证结构
+> [!example|notitle] 论证结构
 > 1. 导言先把问题背景定为全球教育系统正在向VL[[Paradigm\|范式]]靠拢，学校和改革越来越围绕学习目标是否清晰、是否可见、是否可评估来组织教学(p.4)。
 > 2. 接着它指出，Hattie 最重要的贡献不应被缩减为干预因素排行榜，而应理解为一种教师工作原则：教师要从一开始就把学生当前学习状态、明确目标、可能的教学干预和反馈效果放在同一个评价视角下持续判断自己的影响。
 > 3. 在这个基础上，导言把主题号内部文章安排成一条连续的修正链。Qvortrup 负责回应意识形态和方法论批评，并补上知识与学习概念的动态模型；Laursen 负责检验这些研究结论能否跨出英美语境，在丹麦是否依然成立；Allerup 负责说明[[Effect Size\|效应量]]排序需要怎样的统计保留条件(pp.5–6)。
@@ -89,7 +89,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 导言把VL的核心重新表述为“教师评估自身影响”的实践原则，而不是单纯识别哪一种教学因素在排行表上更高(p.4)。
 > - 导言明确承认VL现有证据更偏向[[Surface and Deep Learning\|表层学习]]，因此需要继续推进对知识与学习概念的重建，避免把学习结果理解得过于单薄(pp.4–5)。
 > - 主题号内部形成了三种互补路线：Qvortrup 提供支持方的概念修正，Laursen 检验丹麦语境中的跨文化适用性，Allerup 审查[[Effect Size\|效应量]]排序的统计前提(pp.5–6)。
@@ -98,7 +98,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “最重要的是，每一位教师都要理解，他或她的角色是评估自己的影响。”
 > ("Det vigtigste er, at den enkelte lærer forstår, at hans eller hendes rolle er at evaluere sin virkning.")(p.4)
 >
@@ -107,7 +107,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 这是一篇编辑导言，不是独立研究；它对各篇文章的介绍高度压缩，因此更适合用来把握主题号内部的立场地图，而不适合替代各文的细读(pp.4–8)。
 > - 导言整体明显偏向支持VL的北欧接受路径，尤其在结尾借 Nordahl 将反对者界定为承担“道德责任”的一方；这种表述强化了实践紧迫感，但也压缩了对[[Analytical Stance\|批判立场]]的对等呈现空间(pp.7–8)。
 > - 导言提到对学习概念和统计解释的修正需求，却没有直接展开 [[New Public Management]]、市场化传播或教育哲学层面的深层批判，因此它更像支持方内部的整理与校准，而非对 VL 的全面反思。

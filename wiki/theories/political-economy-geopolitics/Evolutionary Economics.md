@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evolutionary Economics
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–156)]]
 > - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性假设，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
@@ -314,7 +314,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证[[Friedrich List|李斯特]][[Intellectual Capital|知识资本]]渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。

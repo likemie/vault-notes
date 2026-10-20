@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Rob Henderson
@@ -54,7 +54,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990** 出生于美国加利福尼亚州，童年成长于加州贫困寄养家庭系统（Foster Care）。
 > - **2007–2015** 参军服役于美国空军，担任航空电子技术人员。
 > - **2018** 毕业于耶鲁大学，获心理学学士学位。
@@ -87,7 +87,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **阶级社会学与政治学** 重塑了关于当代西方新阶级划分（受过精英大学教育的专业管理阶层 vs. 工人阶级）的文化分析[[Paradigm|范式]]。
 > - **公共政策与社会治理** 为批判“削减警察开支”（Defund the Police）及反科技警务等倡议提供了强有力的社会学解释工具，揭示政策倡导背后的阶级脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **概念评述与对话者** 戴维·布鲁克斯（David Brooks） — 《纽约时报》著名专栏作家，在《受教育阶层的原罪》等文章中深入讨论并赞同亨德森的[[Luxury Belief|炫耀性信念]]理论。
 > - **引用与应用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引入其概念以批判抵制地方执法科技化背后的特权脱节心态。
 

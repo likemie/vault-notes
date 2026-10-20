@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Commercial Off-The-Shelf
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **市场成熟度与公开发售性（Commercial Availability）** 硬件或软件已在公开商业市场上向非政府实体广泛销售或提供服务，具备经过真实市场验证的稳定性与可用性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 146–148)]]
 > - **综合价值导向取代成本审计（Value-oriented Procurement）** 采办决策依据产品能为一线任务带来的实际效能与生命周期价值，而非机械审计生产线内部的工时分摊与专有成本凭据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–151)]]
 > - **开发者与使用者的紧密连接（Developer-User Intimacy）** 依托商用现货软件的敏捷特性，使前线士兵/分析师与算法工程师建立起直接且高频的沟通渠道，实现实战需求的即时响应。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 141–143)]]
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 年代初 — 海湾战争采购困境与 [[Federal Acquisition Streamlining Act of 1994|FASA]] 立法** 空军因成本核算限制无法采购摩托罗拉商用对讲机，促成《1994年联邦采购精简法》确立 10 U.S.C. § 2377 商用现货优先原则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–152)]]
 > - **2011–2012 — 阿富汗反 IED 实战中的软件求援** 面对造价不足 300 美元的简易爆炸装置危机，第 82 空降师前线情报官绕过常规渠道向快速装备部队（REF）申请商用数据分析软件，证实商用敏捷软件在战场的决定性效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 142–143)]]
 > - **2016–2019 — 司法诉讼打破军工自建垄断** [[Palantir Technologies|帕兰提尔]]依据 FASA 起诉美国陆军胜诉，法院裁决认定军方未评估商用软件属违法行为，初创软件企业首次主导重大防务记录项目。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 152–154)]]
@@ -177,5 +177,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Karp & Zamiska (2025, Ch. 13)]] — 系统阐述商用现货（COTS）优先原则的历史渊源、法律机制（FASA 1994）及其在打破防务采办科层垄断与提升战场实效中的决定性价值。

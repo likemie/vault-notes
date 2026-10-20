@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Skill of Questioning
@@ -189,5 +189,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统论证提问技能作为核心智力技能在教育目标中的基础地位，提出基于大语言模型的 Q-Tutor 架构以培养学生的提问技能并抵御[[Cognitive Deskilling|认知去技能化]]。

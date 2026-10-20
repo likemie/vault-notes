@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence for Learning
@@ -206,7 +206,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 详尽解构 E4L 作为英国 [[Education Endowment Foundation\|EEF]] 与 [[Social Ventures Australia\|SVA]] 设立的试验原型、前商业律师领衔背景、公关中立性神话及其向 [[Australian Education Research Organisation\|AERO]] 演进的[[Policy Network\|政策网络]]轨迹。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将 E4L 置于澳大利亚[[Philanthrocapitalism\|慈善资本主义]]兴起的宏观图景中，阐释[[Venture Philanthropy\|风险慈善]]机构如何将试验性中介转化为影响国家公共教育拨款与知识标准的制度杠杆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录英国 EEF 携手[[BHP Foundation\|必和必拓基金会]]支持澳大利亚 E4L 等机构进行全球证据生态本土化的跨国进程。

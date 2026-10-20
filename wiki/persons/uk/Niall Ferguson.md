@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # Niall Ferguson
@@ -57,7 +57,7 @@ updated: 2026-10-08
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1964** 出生于英国苏格兰格拉斯哥。
 > - **1985–1989** 就读于牛津大学莫德林学院，获现代历史学学士与哲学博士学位。
 > - **1989–2002** 先后在剑桥大学基督学院与彼得学院、牛津大学耶稣学院任教。

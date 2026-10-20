@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Qualitative Content Analysis
@@ -220,7 +220,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1970s — 经典[[Content Analysis\|内容分析]]的量化霸权** 伯纳德·贝雷尔森（Bernard Berelson, 1952）确立内容分析的[[Positivism\|实证主义]]基调（“客观、系统和定量描述传播的显性内容”），质性诠释被长期边缘化。
 > - **1980s — 德国方法论突破与 QCA 创立** 菲利普·迈林（Philipp Mayring）在失业社会心理影响与教师生涯研究中正式创立质性内容分析（QCA），提出总结、阐释、结构三大分析模型与逐步检验规程。
 > - **2000s — 走向国际主流与 [[Qualitative Computer Software\|CAQDAS]] 结合** 迈林于 2000 年发表经典英文导论《Qualitative Content Analysis》，随后玛格丽特·施赖尔（Margrit Schreier, 2012）出版专著，QCA 与质性分析软件全面深度融合。
@@ -278,7 +278,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在专章中系统整合 Mayring 质性[[Content Analysis\|内容分析]]的三大核心进路与形成性复核规程，确立其在教育研究编码与范畴构建中的基石地位（Ch. 30）。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 Mayring 质性内容分析的归纳与演绎进路，对德国 4 州官员访谈、报道与公文系统编码，揭示 [[PISA]]、[[Vergleichsarbeiten\|VERA]] 与督导在科层实践中从象征利用走向常规运用（pp. 489–491）。
 

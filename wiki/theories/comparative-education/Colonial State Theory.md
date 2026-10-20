@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Colonial State Theory
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 殖民地与后殖民地社会中，国家机器的性质如何决定公共教育供给的畸形结构与战后规模扩张的历史断裂。
 > - **理论问题** 批判自由主义国家理论假定所有现代国家都必须承担“政治合法化（Legitimation）”职能的普遍主义偏误，破除[[World Society Theory|世界社会理论]]将战后第三世界教育大扩张解释为“普世文化大爆炸扩散”的去历史化假定。
 > - **理论类型** 批判性国家理论与历史比较政治经济学[[Analytic Framework|分析框架]]。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 拥有清晰殖民统治历史、在二战后通过民族解放或政权更迭获得独立的外围资本主义社会。
 > - **成立条件** 必须具备详实的殖民期制度档案与宏观经济嵌入历程数据，不能空洞套用[[Dependency Theory|依附论]]标签。
 > - **解释不足** 对部分东亚原殖民地在战后通过强有力土地改革与国家自主[[Developmentalism|发展主义]]迅速实现初等教育普惠的特例，该理论需要结合[[Geopolitics|地缘政治]]与外资援助的特殊性予以补充修正。

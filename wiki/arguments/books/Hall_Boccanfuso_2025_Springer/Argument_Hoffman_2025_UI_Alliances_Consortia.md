@@ -53,7 +53,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-21
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
@@ -75,7 +75,7 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > [[University-Industry Collaboration\|产学合作]]最常见的起点是一家企业资助一个教授实验室的研究项目。但当合作从"一个实验室 + 一家企业"的单点互动，扩展到覆盖多个院系、跨越研究-教学-人才-设施的多维参与时，应该如何组织和管理？有哪些可用的组织模式，各自适用于什么条件？(pp.103–105)
 >
 > 当产学合作从"项目"升级为"联盟"甚至"联合体"时，管理逻辑必须从"管项目"切换为"管关系"和"管制度"。大多数大学和企业并不清楚这个切换需要什么具体条件。
@@ -84,7 +84,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 三位作者来自[[University-Industry Collaboration\|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership\|UIDP]] 从事跨部门创新合作——其框架是从实践经验中归纳而非从理论中演绎的。
 >
 > - **[[University-Industry Collaboration]]** — 本章在这个总概念下区分了两种组织形态：联盟（alliance）是双边综合伙伴关系，涵盖赞助研究、人才培养、设施共享等多重互动；联合体（consortium）则是多所大学与多家企业共同投入资源支持共同利益(pp.103–104)
@@ -95,7 +95,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > 实践导向章节（practitioner chapter），不是实证研究。方法为：
 >
 > - **概念类型学** 从组织化程度和资源投入出发，将产学联盟与联合体排列为四种模式——[[Industry Advisory Board\|行业咨询委员会]]、[[Industry Affiliate Program\|产业联盟计划]]、[[University-Based Research Center\|大学研究型中心]]、[[Innovation Hub\|创新中心]]
@@ -106,7 +106,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 论证可以拆解为"一层区分 → 四个模式 → 一个案例 → 九条教训"的逻辑链。先界定联盟和联合体是什么以及它们需要什么基本条件；再按组织化程度从低到高排列四种可选模式；然后用 [[Advanced Manufacturing Research Centre\|AMRC]] 的二十年发展检验这些模式在实践中的可行性；最后从 AMRC 的全球复制经验中归纳出可迁移的操作原则。
 >
 > ### 第一层：联盟与联合体的区分——规模化带来的管理逻辑变化

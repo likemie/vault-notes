@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Anthony Bryk
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **近年（截至 2015 年）** 作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science\|改进科学]]方法论系统性地引入美国教育研究。
 > - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与网络化改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 在 [[Evidence-Informed Practice\|EIP]] 中建立起 “[[Practice-Based Evidence\|基于实践的证据]]” 和 “[[Improvement Science\|改进科学]]” 的[[Discourse|话语]]体系，为超越[[Paradigm Wars\|范式战争]]提供了中间立场。([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306–307]])
 > - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的网络化协作模式；同时激发了如[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** 路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
 > - **合作者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
 > - **合作者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。

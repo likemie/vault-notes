@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hierarchy of Future Issues in Comparative Education
@@ -77,5 +77,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 系统提出“比较教育未来议题层级”作为分析工具，批评学科在面对战争、帝国等重大变迁时长期失声的现象，主张将[[Readings of the Global\|全球解读]]作为重新定性学科议程的宏观基础。

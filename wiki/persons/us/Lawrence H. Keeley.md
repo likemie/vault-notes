@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lawrence H. Keeley
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1948** 出生于美国加利福尼亚州圣何塞。
 > - **1970** 毕业于圣何塞州立大学，获人类学学士学位。
 > - **1977** 获英国牛津大学考古学博士学位，开创石器显微使用痕迹分析法。
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **人类学与考古学实证[[Paradigm|范式]]** 打破了二战后人类学界因反战心理而刻意回避部落暴力研究的“和平神话范式”，推动史前暴力与战争考古学成为主流独立学科领域。
 > - **进化心理学与宏观历史学** 为[[Steven Pinker|斯蒂芬·平克]]在《人性中的善良天使》（2011）中论证“国家与文明机制促成人类暴力长期退潮”提供了核心考古学实证支撑。
 > - **[[Geopolitics|地缘政治]]与科技伦理批判** 提供了反驳[[Paulo Freire|保罗·弗莱雷]]《被压迫者教育学》中“暴力从未由被压迫者发起”这一绝对命题的实证铁证，成为卡普与扎米斯卡解构硅谷[[Moral Dualism|道德二元论]]与呼唤战略现实主义的关键思想武器。
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究
+> [!evidence-grid|notitle] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 53–54）：引用基利关于美洲原住民与新几内亚部落战争残损暴力的实证考证，批判[[Moral Dualism|道德二元论]]并恢复弱者完整人性与施恶潜能。
 

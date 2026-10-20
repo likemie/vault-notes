@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jacob S. Hacker
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1971** 出生于美国俄勒冈州尤金市。
 > - **1994** 于哈佛大学获社会研究学士学位（最优等）。
 > - **2000** 于耶鲁大学获政治学博士学位，受教于美国政治与[[Historical Institutionalism|历史制度主义]]学界前沿学者。
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** [[Institutional Drift|制度漂移]]理论已成为[[Historical Institutionalism|历史制度主义]]与比较公共政策学的标配分析工具；其建构的双维矩阵被[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）直接确立为全书理论核心（Table 1.2）。
 > - **政策路径** 其对美国中产阶级经济不安全感与医疗医保漂移的实证研究，直接深刻启发了奥巴马医改（ACA）中“公共选择”（Public Option）方案的设计构想。
 > - **跨学科辐射** 漂移与风险转移概念被经济社会学、劳动法学与比较政治学广泛引申，用于解释零工经济扩张与劳动法保护失效。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **长期学术合著者** [[Paul Pierson]] — 两人共同开创《赢家通吃的政治》等一系列里程碑式美国政治经济学经典，合称美国制度政治“双子星”。
 > - **理论同行与吸收者** [[Kathleen Thelen]] — 长期在制度变迁形态与比较政治经济学领域密切合作对话。
 > - **理论同行与吸收者** [[James Mahoney]] — 将哈克的研究模型系统吸收并拓展为双维中观因果矩阵。

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Goh Keng Swee
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1918** 出生于海峡殖民地马六甲，后毕业于莱佛士学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
 > - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊[[Industrial District|工业区]]开发。
 > - **1970–1979** 历任国防部长与副总理，创建新加坡武装部队（Singapore Armed Forces, SAF）。
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **教育与语言政策路径** 奠定了新加坡数十年来实行的“英语作为工作语言 + 母语保留文化根基”的双语教育国策与能力分流体制。
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
 > - **科技[[Geopolitics|地缘政治]]论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **执政同侪／紧密搭档** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）— 紧密合作逾三十载，共同奠定新加坡经济、国防与教育体系。
 > - **内阁同侪** 拉惹勒南（S. Rajaratnam）— 共同主导建国初期的外交与国家认同建构。
 > - **任职机构** 新加坡财政部、新加坡国防部、新加坡教育部。

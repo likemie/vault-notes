@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Third Space Discourse
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 第三空间[[Discourse\|话语]]（Third Space Discourse） | 传统单向知识输送（Pipeline Model） | 纯校本[[Action Research\|行动研究]]话语（Action Research Talk） |
 > |---|---|---|---|
 > | **[[Epistemic Stances\|认识论立场]]** | 承认专业多元与知识杂合；学术与实践对等共生。 | 实证因果垄断；大学知识高于实践经验。 | 教师个人经验至上；[[Reflexivity\|反思性]]优于形式严谨性。 |
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **专业[[Heterogeneity\|异质性]]承认与非同化原则** 明确放弃将教师改造成兼职科学家或要求学者变成一线教员的天真企图，包容并利用彼此在价值、视角与节奏上的固有差异。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
 > - **概念情境化与共享[[Discourse|话语]]库** 通过反复推敲与双向翻译，将晦涩的[[Discipline-Based Theory\|学科理论]]概念转化为具备课堂实践解释力的分析工具，同时将一线教学痛点提炼为可测量的科学问题。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **常态化低门槛的微型研讨[[Champ\|场域]]** 拒绝高高在上的单向讲座，依托定期召开的小型工作坊（Seminars），确保研究前期选题、中期量表验证与后期应用全程处于平等对话之中。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1994 年 — 后殖民文化杂合理论起源** 霍米·巴巴（Homi Bhabha）在《文化的定位》（*The Location of Culture*）中提出第三空间概念，用于描述殖民者与被殖民者文化交汇处生成的颠覆单一主导霸权的杂合空间（Hybridity）。
 > - **2004 年 — 学科素养与社区知识融合** 伊丽莎白·莫耶等（Elizabeth Moje et al.）将第三空间引入教育学领域，探讨如何将边缘社区学生的日常生活经验知识与学校学科正规[[Knowledge Integration\|知识整合]]，创设平等的学习[[Discourse|话语]]环境。
 > - **2017–2022 年 — 教育科研与实践伙伴关系（[[Research-Practice Partnership\|RPP]]）建制化深化** 挪威学者[[Tine S. Prøitz\|蒂内·S·普勒茨]]基于瑞典 ULF 国家级大型试点评估，将第三空间话语确立为解释大学与学校超越鸿沟隐喻、实现知识双向生成的系统性治理理论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–220)]]
@@ -219,5 +219,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 普勒茨在第十章第五节系统阐述了第三空间[[Discourse|话语]]的六项结构性主张与瑞典 ULF 试点的实证评估发现。

@@ -35,16 +35,16 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > 2002 年前后，在以 [[PISA]] 为代表的[[International Large-Scale Assessments\|国际大规模评估]]日益主导教育政策[[Discourse|话语]]的背景下，一群研究者发起了一项跨国合作研究，旨在超越去情境化的"领导力清单"，转而理解在什么文化、社会和政治条件下[[School Leadership\|学校领导力]]被认为是成功的([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。
 
 ## 经过
 
-> [!note] 经过
+> [!note|notitle] 经过
 > ### 项目概况
 >
 > 国际成功学校校长项目（International Successful School Principalship Project, ISSPP）由 [[Christopher Day]] 教授领导，已涵盖超过 20 个国家，被 Møller 称为"可能是迄今为止在西方国家进行的最全面的[[School Leadership\|学校领导力]]研究"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。项目持续扩展，不断纳入新国家。
@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ## 争议与评论
 
-> [!warning] 争议与评论
+> [!warning|notitle] 争议与评论
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.380-381)]]对 ISSPP 方法论提出了系统性批评：
 >
 > - **英雄叙事倾向** 收集的叙事容易沦为主角式的"英雄故事"（heroic tales of "I did it my way"），回到"伟人"领导力理论（citing Thomson, 2009）
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!example] 相关概念／理论
+> [!example|notitle] 相关概念／理论
 > - [[School Leadership]] — ISSPP 是该领域最全面的跨国实证研究
 > - [[Transformative Leadership]] — Møller 建议未来的领导力研究以此框架补充 ISSPP 类型研究的局限
 

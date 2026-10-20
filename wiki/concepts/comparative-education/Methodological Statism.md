@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Methodological Statism
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **国家中心主义假设（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
 > - **权威单一性幻觉（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如[[World Bank\|世界银行]]、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **跨国[[Policy Mobility\|政策流动]]的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国 **[[Travelling Policy\|旅途政策]]** 和多边基准评估对国内改革的无声规训。
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国理性主义多边主义[[Governing at a Distance\|远处治理]]的理解。
 > - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，假设领土等于社会。
 > - [[Methodological Educationism]] (方法论教育主义) — 方法论国家主义的体制化同盟，假设教育等于学校。

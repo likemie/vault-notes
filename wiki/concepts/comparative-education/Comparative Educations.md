@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Comparative Educations
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 复数比较教育学（Comparative Educations） | 科学范式（[[Scientific Paradigm]]） | 关注议程（[[Agendas of Attention]]） |
 > |------|---|---|---|
 > | **分析对象** | 1970 年代中叶以降学科内多元流派并立的多极化[[Epistemology\|认识论]]生态与体制格局。 | 1960 年代占统治地位的单一、实证量化、跨国共变全包容[[Paradigm\|研究范式]]。 | 随[[Geopolitics\|地缘政治]]与社会变迁而在不同历史时期主导比较教育学的核心关切主题。 |
@@ -170,7 +170,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960 年代 — 单数[[Scientific Paradigm\|科学范式]]的顶峰** 战[[Postpositivism\|后实证主义]]者（如诺亚与埃克斯坦）试图构建统一的实证社会科学体系，追求发现超越时空的普适因果法则，单数形式的“比较教育学”居于支配地位。
 > - **1970 年代中叶 — [[Paradigm\|范式]]危机与大论战爆发** 规划承诺落空与量子不确定性[[Epistemology\|认识论]]扩散，引发英美比较教育学界大论战；[[Edmund King\|埃德蒙·金]]、卡扎米亚斯等学者强烈抨击实证霸权，呼唤历史诠释学与人文传统回归。
 > - **1980–1990 年代 — 复数学科形态确立** [[Philip Altbach|菲利普·阿特巴赫]]（Altbach, 1991）指出比较教育已呈现多学派并立格局；[[Robert Cowen\|罗伯特·考恩]]（Cowen, 2000）正式倡导使用复数“Comparative Educations”，后结构、后殖民、女性主义与文化转向竞相迸发。

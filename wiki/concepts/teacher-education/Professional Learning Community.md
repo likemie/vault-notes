@@ -75,7 +75,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Professional Learning Community
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 专业学习共同体（PLC） | 传统行政备课教研组 | 全校教职工行政例会（Staff Meeting） |
 > |---|---|---|---|
 > | **核心使命** | 持续提升所有学生的实质学习成效与福祉 | 统一教学进度、统筹备课与编制考试练习 | 传达上级政策文件、安排学校日常行政杂务 |
@@ -223,7 +223,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 — 学习型组织理念萌芽** 彼得·圣吉（Peter Senge）出版《第五项修炼》，将团队学习、共同愿景与系统思考确立为现代组织变革的核心，为学校教育领域的共同体建构提供理论源泉。
 > - **1998–2004 — 专业学习共同体（PLC）在基础教育中的[[Paradigm\|范式]]确立** 理查德·杜福尔（Richard DuFour）与罗伯特·伊克（Robert Eaker）系统将 PLC [[Operationalization\|操作化]]为学校改进的核心战略，强调从关注教师教什么彻底转向关注学生学到了什么。
 > - **2005 — 国际教师专业发展文献[[Meta-meta-analysis\|元综合]]与 PLC 五支柱确立** 廷珀利与[[John Hattie\|哈蒂]]针对国际文献中仅 17 项教师专业发展（Professional Development, PD）研究证明提升学生学业的实证危机，确立以学生实际学习成效为成功前提、融合去私密化教学与[[Reflexivity\|反思性]]对话的 PLC 五大支柱。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
@@ -267,7 +267,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 阐发[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]），将 PLC 确立为“审慎参与与实施”的共同审议载体，以及个体使能与组织使能交汇碰撞的微观组织中枢（pp. 141–144）。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire\|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。

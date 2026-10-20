@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Transfer Translation Transformation
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **转移 (Transfer) — 空间跨越与[[Discourse|话语]]抽离** 发生在“[[Space of Flows\|流动空间]]”中的物理或虚拟移动（Space-gate Moment）。理念常被抽离特定历史经验变成高可塑性的[[Floating Signifier\|漂浮能指]]，受国际关系[[Paradigm\|范式]]塑造。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 349)]]
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新编码外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin\|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism\|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）。
 > - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在本土化到“灭绝”的光谱上（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）。
@@ -303,7 +303,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合 [[Actor-Network Theory\|ANT]] 转译理论与[[Topological Spatialisation\|拓扑空间]]学，揭示绩效[[Data Infrastructure\|数据基础设施]]与 [[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]如何将国家监测标准转译为微观诊断实践并实现跨尺度的[[Governing at a Distance\|远处治理]]重组。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提出 3T 核心[[Analytic Framework\|分析框架]]，并使用战后德日改革与后殖民教育重组阐释。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪能力[[Discourse|话语]]在微观实践中的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（pp. 348–361）。

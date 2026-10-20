@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Window
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **三流汇聚耦合（Coupling）** 问题流（如跨国测评落后指标）、政策流（如[[College and Career Readiness|大学与职业就绪]]标准草案）与政治流（如两党州长对经济[[Competitiveness|竞争力]]的共识）在同一时空节点实现精准对接。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 4–6)]]
 > - **时间压缩效应（Time Compression）** 窗口开启时间通常极短（如数月至一年），极大压缩了常规实证调研与全量同行评审的时间裕度。
 > - **外生催化激励（Exogenous Incentives）** 突发性的财政资助（如联邦[[Race to the Top|力争上游]]数十亿美元拨款）往往扮演强行撬开并维持窗口的外部催化剂。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
@@ -163,7 +163,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — [[Evidence-Based Policy-Making|循证决策]]与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
@@ -186,7 +186,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — [[Process Tracing|过程追踪]]表明，奥巴马政府[[Race to the Top|力争上游]]拨款开启的极短政策之窗，迫使各州决策层将宏观学术论文替换为微观对标清单火速完成采纳。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育[[Exogenous Privatisation|外生私有化]]。
 

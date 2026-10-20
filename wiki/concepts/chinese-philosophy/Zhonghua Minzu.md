@@ -14,7 +14,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - region/china
   - theme/national-identity
@@ -97,7 +97,7 @@ related_arguments:
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多元与一体的双重辩证（Diversity in Unity）** — 56 个民族在文化上保持多元，但在政治与历史命运上从属于统一的中华民族整体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]。
 > - **“自在”到“自觉”的演进路线** — 远古至近代以前，各族群在贸易与战争中不自觉地形成联系（自在）；鸦片战争后，在共同反抗帝国主义侵略中觉醒为有统一认同的国族（自觉）[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 105)]]。
 > - **汉文化的同化吸引力** — 论述中蕴含汉文化具有同化吸引力的假设，认为历史上进入中原的内陆亚洲政权最终均自愿或不自觉地融入中华民族[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
@@ -196,7 +196,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 探究了中华[[National Rejuvenation Narrative|民族复兴]][[Retrotopia\|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证[[Discourse|话语]]对比分析。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity\|反思性]]回应。

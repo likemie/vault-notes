@@ -123,7 +123,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11
 
@@ -858,7 +858,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > 1. **12阶段模型的线性外观具有误导性。** 实际操作中存在前后运动；过程比线性表象复杂得多（p.407）。小型[[Qualitative Research\|质性研究]]可能不需所有阶段。
 > 2. **自然主义核心悖论。** [[Paradigm\|范式]]要求最少干预，但研究者在场本身就等于干预，不可完全消除。
 > 3. **质性研究的概括性无法通过严格抽样实现。** 需重定义为可比较性和可翻译性。Larsson（2009, p. 36）论证概括化责任在受众，但带来正当性追问。

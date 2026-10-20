@@ -38,13 +38,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Maxwell's Interactive Model of Research Design
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 研究设计如何在实际研究中形成和演变，而非作为一次性完成的线性计划。
 > - **理论问题** 回应线性研究设计模型（量化：文献→假设→设计→数据→分析→结论；质性：主题→文献→设计→田野→数据→分析→理论）的不足，指出实际研究设计是非线性、互动和[[Emergence\|涌现]]的。
 > - **理论类型** 中层方法论框架（middle-range methodological framework），属于研究设计理论。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释**[[Qualitative Research\|质性研究]]、[[Ethnography\|民族志研究]]、自然主义研究中的设计灵活性和[[Emergence\|涌现]]特征；需要灵活应对复杂和多变的研究情境；迭代发展的研究设计过程。
 > - **谨慎使用**[[Quantitative Research\|量化研究]]——尤其是假设检验型设计和[[Experimental Research\|实验研究]]——可能需要更线性的规划方法，因为这些设计要求在研究开始前明确[[Variable\|变量]]、测量和程序。[[Mixed Methods Research\|混合方法研究]]可以部分借鉴互动思维，但量化和质性成分的整合点可能需要更明确的前期规划。
 > - **不适合解释** 需要严格前注册（pre-registration）的研究设计；高度标准化的[[Randomised Controlled Trials\|随机对照试验]]（RCT）；需要详细预先规定所有分析程序的[[Meta-analysis\|元分析]]研究。
@@ -131,5 +131,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 在规划框架讨论中引入 Maxwell 模型作为线性设计的替代方案，用于[[Qualitative Research\|质性研究]]设计规划

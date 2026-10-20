@@ -70,12 +70,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** [[Geopolitics|地缘政治]]秩序如何通过政治想象、[[Discourse|话语]]实践和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
 > - **理论问题** 回应[[Classical Geopolitics\|古典地缘政治]]将空间视为客观容器、将国家视为唯一行动者的双重预设：为什么看似客观的地缘政治事实实际上是话语和想象的产物？空间秩序如何通过命名、分类与治理等话语实践被不断生产与重组？
 > - **理论类型** [[Critical Theory\|批判理论]]／[[Constructivist Paradigm\|建构主义]][[Analytic Framework\|分析框架]]。[[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]指出，在围绕"地缘政治是物质性还是观念性"和"是科学性还是实践性"两个[[Ontology\|本体论]]问题的当代争论中，批判地缘政治处于观念—科学端，是[[New Geopolitics\|新地缘政治]][[Paradigm\|范式]]的代表（pp. 11–12）。
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 高等教育中涉及[[Discourse|话语]]建构、身份认同、[[Knowledge Power|知识权力]]、空间想象的议题；跨境合作中的叙事正当化过程；排名和评估体系如何自然化全球空间等级。
 > - **谨慎使用** 需要补充物质权力分析（大国竞争中的军事和经济维度）；需要额外证据支持话语后果的经验验证——[[Discourse Analysis\|话语分析]]不应替代对制度运作和资源分配的实际考察。
 > - **不适合解释** 军事冲突的直接因果机制；技术封锁和出口管制的具体操作逻辑；纯粹的经济利益计算——这些更适合[[Classical Geopolitics\|古典地缘政治]]或政治经济学框架。
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进

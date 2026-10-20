@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Walton's Argumentation Schemes
@@ -55,7 +55,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 日常生活、法律辩护与科学对话中的非形式推论模式：论证者如何使用特定论式（如诉诸专家意见、因果推论、类比推理）确立具有暂时合理性的结论。
 > - **理论问题** 形式演绎逻辑（有效性标准）与概率归纳逻辑无法有效评价现实世界中大量具有可撤销性（Defeasibility）的似真论证（Plausible Arguments）；传统谬误理论（Fallacy Theory）将许多实际有效的实用推论一概斥为逻辑谬误。
 > - **理论类型** 非形式逻辑与对话理论中的规范[[Analytic Framework\|分析框架]]与评判模型。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 结构清晰的双人或小组口头辩论、法庭质证、社会性科学议题（[[Socioscientific Issues\|SSI]]）讨论中的论据检验。
 > - **不适合解释** 海量实证证据的统计合成过程（如[[Meta-analysis\|元分析]]、[[Systematic Review\|系统综述]]）；科学探究中复杂的野外数据采集条件与前沿仪器因果测量有效性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **常见误用** 容易被简化为脱离学科情境的提问打勾清单（Checklist），忽视了回答批判性问题本身必须依赖高深的学科实体知识。
@@ -139,5 +139,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将[[Douglas Walton\|沃尔顿]]论证型式与基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的科学论证评价方案进行理论对质，揭示其在[[Epistemology\|认识论]]正当性、大规模证据整合及分歧裁决机制上的核心局限。

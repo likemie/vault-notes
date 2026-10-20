@@ -69,7 +69,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Observation Method
@@ -315,7 +315,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 
 ### 描述观察
 
-> [!def] 描述观察
+> [!def|notitle] 描述观察
 > 通过文字、图形、记号、符号、录音、录像等形式收集数据，主要用于定性分析（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.3）。
 
 > [!feature] 描述观察的三种方法
@@ -328,7 +328,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 
 ### 取样观察
 
-> [!def] 取样观察
+> [!def|notitle] 取样观察
 > 于 20 世纪 20 年代后随行为心理学兴起，是以行为为样本的记录类型，较描述观察具有更好的客观性、可控性和有效性（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.3）。
 
 > [!feature] 取样观察的三种方法
@@ -352,7 +352,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 
 ### 视听记录
 
-> [!info] 视听记录
+> [!info|notitle] 视听记录
 > 除传统书写记录外，视听记录是强大的记录工具（Erickson, 1992, pp. 209–210）。视频记录可以提供比人类观察更未经过滤的观察记录（Simpson & Tuson, 2003, p. 51），且可多次回放。
 >
 > 视频记录也有局限：可能产生反应性问题；固定摄像机与人类观察者一样具有选择性（Morrison, 1993, p. 91）；近景聚焦与全景聚焦难以兼顾。视频记录是对人类观察的补充而非替代（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.9 节]]）。

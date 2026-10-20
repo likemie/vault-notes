@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Friedrich Nietzsche
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1844** 出生于普鲁士萨克森省勒肯镇的一个路德宗牧师家庭。
 > - **1864–1868** 先后在波恩大学和莱比锡大学研习古典语文学，结识李契尔（Friedrich Ritschl）并深受叔本华哲学与瓦格纳音乐震撼。
 > - **1869** 年仅 24 岁在尚未获得博士学位的情况下，破格受聘为瑞士巴塞尔大学古典语文学正教授。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **科技与创新政策跨学科映射** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将尼采“骆驼–狮子–儿童”精神三变隐喻转化为创新政策演进模型，阐释国家治理如何从追赶负重（第一代）、规制突破（第二代）走向应对气候与健康复杂挑战的敏捷共创（第三代）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 792)]]
 > - **后现代教育哲学与[[Critical Pedagogy|批判教育学]]** 尼采的视角主义与权力谱系学直接启发了福柯、[[Jean-François Lyotard|利奥塔]]与德里达，构成了解构[[Grand Theory|宏大叙事]]、标准化知识霸权与发展多元主体审议批判教育学的哲学源头。
 > - **现代社会学与诸神纷争** 启迪了[[Max Weber|马克斯·韦伯]]关于价值[[Pluralism|多元主义]]、终极价值冲突与工具理性铁笼的现代性诊断。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** 叔本华、瓦格纳 — 早期深受叔本华[[Voluntarism|唯意志论]]与瓦格纳歌剧的悲剧美学启迪，后在思想成熟期展开决裂与超越。
 > - **后世继承者** [[Max Weber|马克斯·韦伯]] — 吸收其价值冲突论与现代性诊断；米歇尔·福柯 — 继承并发展其谱系学批判方法。
 > - **教化传统对话者** 歌德、威廉·冯·洪堡 — 共同立足于德意志[[Paideia|古典教化]]传统，但尼采更为激烈地批判了教化的国家建制化与平庸化。

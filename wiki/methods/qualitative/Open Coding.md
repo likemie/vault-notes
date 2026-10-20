@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Open Coding
@@ -226,6 +226,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 系统阐述开放编码的微观切片程序、范畴属性与维度连续统解构，并梳理 Flick 11 设问矩阵与认知负荷控制原则（pp. 560–561）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐释质性数据初筛与编码归并流程，提出精简编码至 5–7 个核心主题的[[Operationalization\|操作化]]指引（pp. 207–209）。

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Carlos Alberto Torres
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1950** 出生于阿根廷布宜诺斯艾利斯，早年求学于阿根廷与墨西哥拉丁美洲社会[[Chinese Academy of Sciences|科学院]]（FLACSO），受[[Paulo Freire|弗莱雷]]与拉美依附学派思想熏陶。
 > - **1980s** 赴加拿大斯坦福大学与多伦多大学进修并获得教育社会学博士学位；长期在拉美开展成人教育政策、识字运动与工会政治实证考察。
 > - **1990s** 任职于加州大学洛杉矶分校教育研究生院，1993 年创立 UCLA 保罗·弗莱雷研究所并出任创始主任；系统提出参与式行动研究的五项批判原则（1992）。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 融合法兰克福学派[[Critical Theory|批判理论]]、葛兰西[[Hegemony|文化霸权]]学说与拉美[[Dependency Theory|依附论]]，构建起剖析[[Development Education|发展中国家教育]]政策与扩张困境的“[[Conditioned State Theory|受限国家]]”宏观政治社会学[[Analytic Framework|分析框架]]。
 > - **方法路径** 规范并推广[[Participatory Action Research|参与式行动研究]]（PAR）的政治导向与民众赋权原则，打破了将研究对象视作被动被测者的[[Positivism|实证主义]]主客二分传统。
 > - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Educational Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]、意识化与对话实践是其学术生涯的思想基座。
 > - **学术合作** [[Liliana Esther Olmos]]、[[Martin Carnoy]]、[[Adriana Puiggrós]]、[[Robert Arnove]] — 共同推进比较教育政治经济学与批判国家理论研究。
 > - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与[[Popular Education|民众教育]]实践研究。

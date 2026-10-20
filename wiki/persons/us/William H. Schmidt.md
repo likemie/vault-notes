@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # William H. Schmidt
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970年** 毕业于芝加哥大学获得心理测量学与统计学博士学位，随后长期任教于密歇根州立大学教育学院与统计系。
 > - **1990年代** 担任[[IEA|国际教育成就评价协会]]（IEA）旗下 [[TIMSS]] 项目全美国家研究协调员，主导开展了针对全球数十个国家数学与科学教科书及教学大纲的大规模跨国比较研究。
 > - **1997–2002年** 连续发表《多元的追求》（*A Splintered Vision*）与《为什么学校至关重要》（*Why Schools Matter*），以量化实证指出美国各州自设课程标准庞杂无序，直接导致美国学生在国际测评中表现平庸。
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 深刻丰富了比较教育学与课程社会学关于“学习机会”与[[Institutional Isomorphism|制度同构]]的理论传统，打破了唯社会阶层[[Determinism|决定论]]，确立了课程内容结构对学业产出的独立因果机制。
 > - **政策路径** 直接奠定了美国 [[Common Core State Standards|CCSS]] 数学标准的核心起草原则；其跨国比较数据成为[[National Governors Association|全美州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）动员两党州长打破宪政分权垄断最犀利的实证武器。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
 > - **学术辩护路径** 在 CCSS 遭到[[Brookings Institution|布鲁金斯学会]]等智库从实证层面的猛烈质疑时，施密特挺身而出构建复杂的跨期控制模型，成为捍卫国家标准学术声誉的最强学术护盾。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **政策倡导盟友** [[Achieve|阿奇夫]]（Achieve）总裁迈克尔·科恩（Michael Cohen）、教育信托总裁卡蒂·海科克（Kati Haycock）与北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.） — 共同在全美巡回推动通用学术标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 > - **关键项目依托** [[TIMSS]] — 施密特学术权威与国际比较实证数据的底层依托。

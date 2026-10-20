@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Civic Religion
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **历史叙事与正典文本（Historical Narratives & Canon）** 植根于深层历史经验的经典文本与建国历程，为国家事业赋予历史连续性与精神厚度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
 > - **圣经原型世俗化投射（Secularized Archetypes）** 如[[Robert Bellah|罗伯特·贝拉]]所论，出埃及记、旷野历练、牺牲奉献与复活再生等深层隐喻为公共生活提供崇高道德参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 > - **宪政民主与公共善共识（Constitutional Covenant & Common Good）** 将法治、平等权利与理性论辩确立为不可动摇的政治承诺。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1762 — 哲学起源** 让-雅克·[[Jean-Jacques Rousseau|卢梭]]在《社会契约论》第八章首次正式提出“公民宗教”（*la religion civile*），强调主权者确立积极社会情感信条的必要性。
 > - **1967 — 现代社会学系统化** [[Robert Bellah|罗伯特·贝拉]]发表《美国的公民宗教》，将该[[Construct|构念]]确立为理解美国政治象征体系的标准理论[[Paradigm|范式]]。
 > - **1980年代 — 通识正典与文明叙事争论** [[William H. McNeill|威廉·麦克尼尔]]等史学家将西方文明核心课程阐释为支撑国家认同的世俗公民宗教，随后遭遇后现代解构派的猛烈冲击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]

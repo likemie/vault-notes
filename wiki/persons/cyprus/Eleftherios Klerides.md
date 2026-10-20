@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Eleftherios Klerides
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2000年代** 于伦敦大学学院教育与社会学院攻读博士学位并开展研究，受 [[Robert Cowen]] 转移形态学和 [[Andreas Kazamias]] 人文主义比较教育历史社会学思想的深远影响。
 > - **2010年代** 担任[[Comparative Education Society in Europe\|欧洲比较教育学会]]秘书长，并于 2018 年组织召开了以“教育中的身份认同”为主题的塞浦路斯大会。
 > - **2023** 在 *Comparative Education* 纪念专刊上发表标志性论文，系统构建了比较教育与国际关系互动的历史社会学解释框架。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 416)]]
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术导师 / 合作者** [[Robert Cowen]] — 博士导师，考恩的“转移形态学”和“[[Readings of the Global\|全球解读]]”为其提供了基本的空间与[[Epistemology\|认识论]]基础。
 > - **学术前人 / 纪念对象** [[Andreas Kazamias]] — 继承其历史人道主义比较教育传统，但在 2018 年会议上见证并批判了学术界将其“先知化”的智识焦虑。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > - **合作者** Stephen Carney — 共同担任 2018 塞浦路斯会议组织者，探讨教育全球化中的身份碎片化问题。

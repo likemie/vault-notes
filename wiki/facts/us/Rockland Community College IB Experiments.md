@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Rockland Community College IB Experiments
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **载体筛选** 社区学院路径退出后，公立高中在 1980 年增至十州 22 所，成为北美 IB 扩张的主要载体。
 > - **实施教训** 国际课程的可持续性取决于学生支持、生源规模、资格规则和参与机构利益共同稳定。
 > - **组织边界** 多机构通道理论上能产生丰富资格收益，却比学校内部连续实施两年课程更容易因单一环节变化而中断。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 133–134)]]

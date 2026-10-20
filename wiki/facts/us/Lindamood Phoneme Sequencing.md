@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lindamood Phoneme Sequencing
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 LiPS 列为初等阅读 Tier 2（[[Effect Size\|效应量]] $+0.64$）与 Tier 3（效应量 $+0.69$）双双达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 LiPS 等强证据工具充实 [[Response to Intervention\|RTI]] 多层防线。
 > - [[Sound Partners]] — 同属早期语音阅读强证据代表方案，侧重受训助教递送；与 LiPS 形成专业教师 vs 助教辅导的双璧矩阵。

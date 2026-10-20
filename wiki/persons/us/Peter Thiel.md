@@ -42,7 +42,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter Thiel
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1967** 出生于西德法兰克福，后随家庭移居美国，获斯坦福大学哲学学士（1989）与法学博士（1992）。
 > - **1998–2002** 联合创立 PayPal，开创数字支付时代；2002 年 PayPal 被 eBay 收购后，其团队核心成员被称为“PayPal 黑帮”（PayPal Mafia）。
 > - **2003–2004** 联合创立 [[Palantir Technologies]]（专注于国防防务、反恐情报与复杂大数据分析平台），并成为 Facebook 早期首位外部天使投资人。
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **产业投资路径** 通过 Founders Fund 投资 SpaceX、[[Palantir Technologies|Palantir]]、Anduril 等硬科技与国防科技企业，重构了硅谷与国家防务安全、深空探索之间的产业桥梁。
 > - **政治哲学与科技政策路径** 其大停滞批判与重振重大工程抱负深刻启发了卡普（[[Alexander Karp|Alex Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中关于破除[[Big Idea Famine|大构想饥荒]]、再造[[Technological Republic|技术共和国]]的核心立论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 49–50)]]
 > - **教育与人才流动路径** 蒂尔奖学金打破了美国精英大学对青年智力的体制垄断，倡导顶尖技术人才投身底层工程突破而非安逸的学术与大厂螺丝钉岗位。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Governing Mechanisms of Research Use
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 学校中[[Research Utilization\|研究使用]]为何长期停滞于象征性或浅层[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]，以及什么条件能把它转化为深层的专业整合。
 > - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制维持这些持久障碍。
 > - **理论类型** 中层机制[[Analytic Framework\|分析框架]]，跨越社会生态系统层级的横切机制模型。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 学校中[[Research Utilization\|研究使用]]的持续障碍、促成条件及其跨层互动；设计支持研究整合的政策与学校改进路径。
 > - **谨慎使用** 中央集权系统、后社会主义教育情境或低资源环境中的适用性仍是开放经验问题；例如高度中央集权系统中信任机制可能因结构性[[Institutional Distrust\|制度性不信任]]而运作不同。
 > - **不适合解释** 不声称研究使用与学业结果之间的因果效果，不能替代对具体干预的因果评估。
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization\|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework\|QURE]]；Godfrey and Brown (2019) 提出[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]。
 > - **2026 — 机制框架提出** Hagevold 等人（2026）以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis\|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
 
@@ -179,5 +179,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 提出并检验该框架：以整合多层框架为先验透镜综合 109 项实证研究，识别四类跨层治理机制，并据此论证从实施转向整合的概念转变。

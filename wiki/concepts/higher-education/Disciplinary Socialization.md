@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Disciplinary Socialization
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 — 发展心理学提出涵化机制** Perry (1970) 在哈佛本科生追踪中指出，大学学术共同体通过日常[[Discourse|话语]]（"diction and couth behavior"）将学生涵化进更成熟的[[Epistemology\|认识论]]体系。
 > - **1973–1993 — 学科分类与横截面关联** Biglan (1973) 提出软硬学科分类，Jehng et al. (1993) 与 Paulsen and Wells (1998) 发现硬学科学生持有更幼稚的确定性信念，但受限于横截面设计无法排除生源自我选择。
 > - **2007 — 纵向因果分离与双重机制确立** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 基于 [[TOSCA]] 两波纵向数据，首次在统计上成功剥离自我选择与学科社会化效应，确立了学科社会化的因果解释力。
@@ -159,5 +159,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实大学工科与商科环境显著强化确定性信念，而人文与社科环境显著解构确定性信念，确立学科社会化的独立因果效应。

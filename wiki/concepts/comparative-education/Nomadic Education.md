@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nomadic Education
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 游牧教育（Nomadic Education） | [[Traveller Education\|旅行者教育]]（Traveller Education） | 传统农耕定居教育（Settled Education） |
 > |------|-------------------------------|---------------------------------------------|----------------------------------------|
 > | 生产基础 | 依赖广袤草场的季节性迁徙畜牧业 | 依赖城市边缘修配、手工业、零工与商贸的大篷车巡回 | 依赖固定耕地、工商业与稳定社区的定居生产 |
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **国家的定居化同化工程（Sedentarization Campaigns）** 民族国家通常将强制性正规学校教育作为终结游牧生活、迫使牧民固定在划定聚落内的核心行政技术，从而实现税收建档与治安纳管。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 > - **家庭分散风险的保险策略（Livelihood Insurance Strategy）** 游牧家庭在生态退化与现代开发挤压草场的现实面前，策略性地安排个别子女接受正规教育，以此作为开辟非牧业就业渠道的家庭托底保障。
 > - **破除信息中介剥削的去依附逻辑（Elimination of Disempowering Dependency）** 借助掌握现代读写算能力，游牧社群力图摆脱在牲畜交易、土地权益谈判与政府文书往来中对外部定居中介的依附，增强自身在市场经济中的议价自主权。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20世纪中期 — 强制同化与定居改造阶段** 各国政府普遍将游牧状态等同于原始与愚昧，依靠强制定居点与全日制[[Boarding Schools|寄宿学校]]强制推行同化教育。
 > - **2000年左右 — [[Education for All|全民教育]]与适宜模式探索阶段** 伴随全民教育（EFA）倡议的推进，学术界开始反思固定校舍对流动群体的排斥，[[UNESCO|联合国教科文组织]]等机构尝试探索帐篷学校、流动教师等弹性供给模式。
 > - **2009年 — 空间治理与微观能动性反思** Sobe 与 Fischer 引入空间政治学视阈，指出游牧教育不仅关乎资源供给，更是空间围栏与边缘社群生计能动性展开博弈的典型[[Champ|场域]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
@@ -185,5 +185,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合印度拉巴里人及蒙古、尼日利亚和伊朗的案例，论证学校空间围栏如何与游牧流动性发生碰撞，并彰显流动群体的抗风险能动性。

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Self-spectator
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **双重身份（Dual Identity）** 参与者同时作为[[Role-playing\|角色扮演]]者和角色观察者存在。他们是"自己也同时代表一个角色"（Bolton and Heathcote, 1999）。
 > - **批判性自我监控（Critical Self-monitoring）** 参与者在角色扮演过程中持续监控自己的情感和认知反应，意识到自己是在扮演一个角色，而非真正成为那个人。
 > - **客观距离（Objective Distance）** 自观创造并维持了参与者真实生活与虚构场景之间的客观距离，使参与者能够在情感投入的同时进行思考。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1991 — Heathcote 提出概念** Dorothy Heathcote 在教育戏剧的框架中提出自观概念，将其定义为参与者在[[Role-playing\|角色扮演]]中同时审视自己行为的能力（Heathcote, 1991）。（Ch. 26）
 > - **1999 — Bolton and Heathcote 系统化** Bolton and Heathcote 在 *So You Want to Use Role-Play?* 中将自观与保护入戏（protection into role）和[[Dramatic Tension\|戏剧张力]]（dramatic tension）并列为成功角色扮演的关键策略（Bolton and Heathcote, 1999）。（Ch. 26）
 > - **2011 — 进入研究方法论讨论** O'Sullivan 在 Cohen, Manion & Morrison 的教材中将自观纳入角色扮演研究方法论的系统讨论，将其定位为保护参与者、提升资料质量和深化反思的核心概念。（Ch. 26）
@@ -111,5 +111,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — O'Sullivan 系统阐述了自观在[[Role-playing\|角色扮演]]研究中的保护功能和激活条件，并以 [[Stanford Prison Experiment]] 作为自观失败的反面案例。

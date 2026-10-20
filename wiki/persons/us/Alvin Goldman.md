@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Alvin Goldman
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1938** 出生于美国纽约市，后在哥伦比亚大学获得学士学位，于普林斯顿大学师从著名哲学家获得博士学位。
 > - **1967–1976** 先后在密歇根大学任教，发表一系列开创性论著，系统挑战传统的内在主义知识辩护观；1976 年提出著名的纸糊谷仓思想实验与[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]。
 > - **1980–1990 年代** 任教于亚利桑那大学，1986 年出版里程碑著作《[[Epistemology\|认识论]]与认知》（*Epistemology and Cognition*），正式将[[Reliabilism\|过程可靠主义]]推入哲学与认知科学主流；1999 年出版《知识在一个社会世界中》（*Knowledge in a Social World*），标志着社会认识论[[Paradigm\|范式]]的成熟。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **哲学路径** 彻底终结了[[René Descartes\|笛卡尔]]式内在主义对[[Epistemology\|认识论]]的垄断，使过程[[Reliabilism\|可靠主义]]成为现代外部主义认识论的主流基石，并与 Alvin Plantinga 等人共同重塑了当代西方[[Theory of Knowledge\|知识论]]版图。
 > - **学习科学与教育心理学路径** 推动认识论从哲学抽象思辩转向实证科学，直接启发了 [[Clark A. Chinn]] 等人将“可靠认识过程（[[Reliable Epistemic Processes]]）”确立为 [[AIR Model of Epistemic Cognition\|AIR]] 模型与[[Epistemic Cognition\|认识论认知]]框架的三大支柱之一。
 > - **教育研究方法论审思路径** 其[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]被 [[Dylan Wiliam]] 等人用于揭示教育干预[[Causality\|因果推断]]的情境敏感性，为批判普适性“[[Evidence-Based Education\|证据本位教育]]”教条提供了坚实的哲学理论武器。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 借用 Goldman 的[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]与纸糊谷仓思想实验，系统论证教育知识与政策推断的局部性与暂定性。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Goldman（2001）的社会[[Epistemology\|认识论]]与非专家信任难题，深入推演人工智能中介学习环境下[[Epistemic Dependence\|认识依赖]]的四重社会技术路径与规范治理。
 > - Goldman, A. I. (2001) — *Experts: Which ones should you trust?*（Philosophy and Phenomenological Research），奠定现代社会认识论中外行评估专家证词的理性标准框架。

@@ -30,14 +30,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Burrell and Morgan Four Assumptions Framework
 
 ## 核心主张
 
-> [!abstract] 核心主张
+> [!abstract|notitle] 核心主张
 > 一切方法论的差异都根植于更深层的哲学假设差异。研究者在方法论层面的选择——调查还是[[Participant Observation\|参与观察]]、实验还是[[Case Study\|案例研究]]——不是孤立的技术决策，而是对实在本质（[[Ontology\|本体论]]）、知识本质（[[Epistemology\|认识论]]）和人性的根本信念的层层传导结果（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 ## 四组假设

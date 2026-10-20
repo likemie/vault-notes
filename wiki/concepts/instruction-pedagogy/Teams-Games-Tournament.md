@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teams-Games-Tournament
@@ -169,5 +169,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 TGT 明确纳入[[Cooperative Learning\|合作学习]]经典技术体系，实证确立了结构化游戏与[[Peer-Supported Learning\|同伴互助]]对学生[[Academic Achievement\|学业成就]]与[[Student Attitude\|学习态度]]的中等促进效应（$ES = 0.71$）。

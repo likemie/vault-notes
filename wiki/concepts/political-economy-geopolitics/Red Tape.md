@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Red Tape
@@ -328,6 +328,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - **国防采办与公共治理中的繁文缛节解构** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统解剖繁文缛节与[[Procedural Piety|程序虔敬]]如何扼杀前线创新、阻碍人才流入，并论证[[Commercial Off-The-Shelf|商用现货]]与[[Engineering Mindset|工程思维]]的重塑路径。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]
 > - **欧陆公共部门法团政治下的过度规制机制** [[Argument_Kickert_1995_Governance|Kickert (1995)]] 揭示过度规制是维持柱体化多元精英政治妥协的结构性代价，并论述以[[Steering at a Distance|远距离操纵]]与去管制化打破制度锁死的改革路径。

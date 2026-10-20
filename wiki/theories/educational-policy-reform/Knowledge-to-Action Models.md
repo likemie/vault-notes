@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge-to-Action Models
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 科学研究证据与公共政策/实践行动（Knowledge-to-Action，KTA）之间的转化机制，以及学术研究如何跨越[[Knowledge Production\|知识生产]]与政策决断之间的鸿沟。
 > - **理论问题** 回应循证公共政策中长期存在的“供给过剩与有效需求不足”悖论，即为何智库与高校产出了海量研究报告，政策制定者在实际决断中却极少实质性采纳学术证据。
 > - **理论类型** [[Paradigm\|范式]]演化模型、机制分类体系与系统生态学[[Analytic Framework\|分析框架]]。
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 跨国组织[[Policy Brokerage\|政策中介]]演变、智库影响力评估、公共部门[[Evidence-Based Policy-Making|循证决策]]体制构建。
 > - **谨慎使用** 涉及极高度意识形态对立或处于战争冲突状态的教育决策，此时政治权力决断压倒一切知识转化生态。
 > - **常见误用** 将三代模型机械理解为后者对前者的绝对替代，忽视在具体实践中报告分发（第一代）与人员互动（第二代）依然是维系系统生态（第三代）的必要基石。
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2006 — 经典 KTA 漏斗与行动循环模型提出** Ian Graham 等人于 *Journal of Continuing Education in the Health Professions* 发表里程碑式论文，正式提出知识到行动（Knowledge-to-Action, KTA）框架，将转化过程划分为“知识创造漏斗”（探究→综合→工具）与动态渗透的“行动循环”（[[Problem Finding\|问题界定]]→情境适配→阻碍评估→干预定制→应用监测→成效评估→持续使用）。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 38–40)]]
 > - **2010 — 三代演化[[Analytic Framework\|分析框架]]奠基** Allan Best 与 Bob J. Holmes 于 *Evidence & Policy* 发表论文，在卫生与公共政策领域正式提炼出三代知识-行动联结演化模型（线性推动、关系协同、系统生态），成为跨学科诊断宏观知识流动机制的中层理论。
 > - **2010–2020年代 — 公共卫生向公共政策与教育迁移** 框架被广泛应用于加拿大、英国等地的公共政策评估与循证社会服务研究。
@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
 > - **[[Argument_Torres_2022_KMModels\|Torres (2022b)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer\|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
 > - **Best and Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

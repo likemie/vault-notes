@@ -54,7 +54,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Walter J. M. Kickert
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1980 年代初至中叶** 在荷兰教育与科学部担任高级政策顾问与规划决策核心参与者长达六年，亲历并直接参与了 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书草拟、高等职业教育（HBO）大兼并与后续立法方案的制定。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 > - **1990 年代起** 任教于鹿特丹伊拉斯谟大学公共管理系，创立并领导欧洲[[Network Governance|网络治理]]研究学派，与克莱因（Erik-Hans Klijn）、科彭扬（Joop Koppenjan）等学者共同出版多部奠基性公共管理专著，系统奠定了复杂网络管理（Managing Complex Networks）的理论[[Paradigm|范式]]。
 > - **1995** 于国际权威公共管理期刊 *Governance* 发表里程碑式国别研究长文，将荷兰高等教育[[Steering at a Distance|远距离操纵]]经验确立为比较公共行政学界引用最广泛的治理范式经典文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–157)]]
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与 Klijn、Koppenjan 共同开创了欧洲公共[[Policy Network|政策网络]]管理理论体系，将控制论系统反馈与荷兰[[Neocorporatism|新法团主义]]协商机制引入行政学，打破了英美行政学在科层垄断与纯粹自由市场之间的两极对立。
 > - **方法路径** 倡导“[[Reflexivity|反思性]]实践者”（Reflective Practitioner）的实证研究取向，示范了如何将高阶政策制定一线的制度创新过程升华为具有高度分析穿透力与普适性的公共管理概念构架。
 > - **政策路径** 直接参与起草并理论化荷兰 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书、1986 年《高等专业教育法》（WHBO）及 1992 年《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]），为英国“后续行动”（[[Early Steps|Next Steps]]）执行局改革及整个[[OECD|经合组织]]（OECD）成员国的高校放权与质量保障立法提供了标杆模板。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** 埃里克-汉斯·克莱因（Erik-Hans Klijn）、约普·科彭扬（Joop Koppenjan）— 鹿特丹伊拉斯谟大学公共[[Policy Network|政策网络]]学派核心成员，合著《管理复杂网络》（1997）。
 > - **政策领袖** [[Wim Deetman|维姆·德特曼]]（Wim Deetman）— 1980 年代荷兰教育与科学大臣，[[Higher Education Autonomy and Quality|HOAK]] 白皮书与[[Steering at a Distance|远距离操纵]]改革的关键政务领袖，为[[Reflexivity|反思性]]实践提供了体制平台。
 > - **理论学术渊源** 罗德斯（R. A. W. Rhodes）、菲利普·施密特（Philippe Schmitter）、格雷厄姆·艾利森（Graham Allison）— 政策网络、[[Neocorporatism|新法团主义]]与官僚政治理论的对话先驱。

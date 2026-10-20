@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educated Identity
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **理想人格与文化期望（Cultural Expectations）** 定义在特定的社会经济条件下，何为合格的“受教育者”，体现社会的主流文化与伦理共识。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 > - **领土附着性与历史惯性（National Territoriality）** 受教育身份历史上由民族国家主权教育系统定义，与国民身份建构（如阿根廷、巴西对[[Encyclopaedism\|百科全书主义]]的不同吸收）紧密交织。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 355]])
 > - **超国家网络去历史化建构（Global Construction）** 在[[Network Society\|网络社会]]中，超国家机构在[[Global Policy Space\|全球政策空间]]中将受教育身份重塑为“能力开发”和“[[Lifelong Learning\|终身学习]]”等抽象的、去语境化的[[Floating Signifier\|漂浮能指]]，服务于[[Post-Fordism|后福特主义]]的全球劳动力需求。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1965 — 文化理解[[Paradigm\|范式]] (Verstehen)** Lauwerys (1965) 提出以理解国家教育理想的方式来对比英、法、美、苏的受教育身份模型，强调其背后不同的哲学和文化脉络，此阶段受教育身份是理解文化的努力。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 333]])
 > - **1970s 至今 — 量化与效率导向的异化** [[International Education\|国际教育]]成就评价协会（[[IEA\|International Association for the Evaluation of Educational Achievement]]，IEA）和[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）国际测试兴起，将受教育身份[[Operationalization\|操作化]]为可测量的、通用的学习结果与绩效数据，导致比较教育重心从文化理解转向效率衡量，沦为效率运动的附属品。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 333–334]])
 > - **2009 — [[Global Policy Space\|全球政策空间]]下的多级转译** [[Argument_Beech_2009_CE\|Beech (2009a)]] 指出信息时代的受教育身份被超国家机构重构为“能力”和“多样性”等[[Floating Signifier\|漂浮能指]]，并追踪其在降落到拉美地方实践时经历的多级[[Shape-Shifting\|形变]]与妥协。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–361]])
@@ -123,6 +123,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 系统回溯比较教育史，指出受教育身份从文化理解转向绩效测量的伦理危机。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 追踪全球定义的“受教育身份”（信息时代所需的能力与多样性素养）在拉美教育政策与实践中的多级转译和意外[[Shape-Shifting\|形变]]。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Goldman's Discrimination Theory of Knowledge
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 知识确证的成立条件，以及主体如何辨识实际客观状态与相竞争的潜在替代可能状态。
 > - **理论问题** 传统[[Epistemology\|认识论]]将知识界定为“被证成的真信念（Justified True Belief, JTB）”，但葛梯尔问题（Gettier problem）表明仅靠内在主观证成无法排除环境中的偶然性巧合。该理论旨在为认知主体提供稳健的外部主义判定标准。
 > - **理论类型** 分析认识论规范理论与概念[[Analytic Framework\|分析框架]]。
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 > | 理论构件 | 构件类型 | 在理论中的功能与分析含义 |
 > |---|---|---|
 > | **区分/辨识能力（Discrimination）** | 核心机制 | 主体将目标事物的真实状态与潜在虚假替代状态在认知与感官上有效剥离的能力。 |
@@ -151,7 +151,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1976 年** — [[Alvin Goldman]] 在《哲学期刊》发表 *Discrimination and Perceptual Knowledge*，确立辨识理论与纸糊谷仓思想实验。
 > - **1986 年** — Goldman 出版 *[[Epistemology]] and Cognition*，深化为[[Reliabilism\|过程可靠主义]]与认知科学自然化框架。
 > - **2019 年** — [[Dylan Wiliam]] 在 *Educational Research and Evaluation* 发表专论，将辨识理论转化为对教育[[Causality\|因果推断]]与“[[Evidence-Based Education\|证据本位教育]]”的认识论批判武器。
@@ -178,6 +178,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — [[Creativity\|创造性]]运用 Goldman 的知识辨识理论与纸糊谷仓模型，系统论证教育研究证据的局部性与暂定性，对盲目推崇“什么有效”的[[Evidence-Based Education\|证据本位教育]]提出深刻的方法论辩难。
 > - Goldman, A. I. (1976) — *Discrimination and Perceptual Knowledge*（The Journal of Philosophy），提出知识的辨识条件与相关替代假说，奠定外部主义分析[[Epistemology\|认识论]]的经典之作。

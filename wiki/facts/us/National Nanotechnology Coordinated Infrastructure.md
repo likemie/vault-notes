@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Nanotechnology Coordinated Infrastructure
@@ -172,6 +172,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，阐述国家纳米技术协调基础设施（NNCI）如何通过开放共享用户设施实现“科学研究普惠化”，并与 [[National Science and Technology Council|NSTC]]、[[National Advanced Packaging Manufacturing Program|NAPMP]] 构建跨部门中试转化网络。
 

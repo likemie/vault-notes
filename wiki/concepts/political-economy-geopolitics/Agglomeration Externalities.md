@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Agglomeration Externalities
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 集聚外部性（Agglomeration Externalities） | 企业内部规模经济（Internal Scale Economies） | 比较优势（Comparative Advantage） | 地缘安全保险（Geopolitical Insurance） |
 > |---|---|---|---|---|
 > | **[[Unit of Analysis\|分析单位]]** | 地理区域与产业集群生态 | 单一厂商与特定生产工厂 | 国家/地区整体生产要素禀赋 | 主权国家战略供应链安全 |
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **高度稠密的专业劳动力池（Thick Labor Markets）** 集群内部聚集着大量具备精深制造经验与工艺排障直觉的工程师、技工与管理人员，使企业招募与人才重组的摩擦成本降至极低。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]]
 > - **深度嵌套的本地供应商与配套网络（Specialized Input Sharing）** 洁净室耗材、特种气体、高纯化学品、精密机加工维修与零部件配送网络形成小时级即时响应圈，极大压降了供应链库存与停机维护成本。
 > - **高频面对面的[[Tacit Knowledge|隐性知识]]外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全编码，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82, 102–103)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1890 年代 — 新古典马歇尔外部性奠基** 阿尔弗雷德·马歇尔（Alfred Marshall）在《经济学原理》中系统提炼出[[Industrial District|产业区]]（Industrial Districts）的三大外部经济来源：劳动力池共享、中间投入品共享与知识外溢。
 > - **1990 年代 — 新经济地理学（NEG）形式化建模** 保罗·克鲁格曼（Paul Krugman）等将收益递增与运输成本引入一般均衡模型，从理论上严密证明了初始微小偶发优势如何通过集聚外部性滚雪球式演化为空间极化与制造中心。
 > - **2000–2010 年代 — 硅谷与高技术集群实证爆发** 创新学者深入考察高科技产业中跨企业人员高频流动与非正式网络，证实隐性[[Knowledge Exchange|知识交流]]（[[Tacit Knowledge]] Exchange）对先进制程工艺与架构创新的决定性支撑。

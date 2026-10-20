@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Promissory Legitimacy
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **未来危机的因果投射** [[Policy Brokerage\|政策中介]]机构通过构建“未来技能短缺”、“教育平庸导致经济衰退”等前瞻性负面情境，将未来界定为高风险[[Champ\|场域]]，迫使决策者产生不可承受之重的风险焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **[[Technology Deficit of Education\|教育技术赤字]]的制度代偿** 认识到教育在当下无法验证未来产出的因果断裂，国际组织通过供给标准化指标，替代性地充当管理未来预期的技术支架。
 > - **即可行动的循证研究包装（Actionable Research Evidence）** 将庞杂学术研究提炼为简明、模块化、即插即用的政策工具箱，促使决策者相信只要启动具体操作即可掌控未来。
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — 系统论中的技术赤字假说** 鲁曼与肖尔（Luhmann & Schorr, 1979）提出教育缺乏因果技术的论断，指明教育无法保证投入与产出的必然联结，奠定了不确[[Qualitative Research\|定性研究]]的[[Epistemology\|认识论]]基础。
 > - **2000–2010s — 预期社会学与虚构期望** 贝克特（Jens Beckert）等经济社会学家提出资本主义依赖“虚构期望”（Fictional Expectations）的理论，论证经济行动的实质是基于对未来的前瞻性想象而非历史计算。
 > - **2023 — 允诺合法性概念正式提出** 罗伯逊与比奇（Robertson & Beech, 2023）在《Comparative Education》发表里程碑论文，系统将期许性合法性引入跨国教育治理分析，揭示国际组织如何凭借未来允诺重塑合法性空间。
@@ -198,5 +198,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在全球教育[[Policy Brokerage\|政策中介]]分析中系统运用期许性合法性概念，解释国际组织如何以未来行动清单代偿[[Technology Deficit of Education\|教育技术赤字]]与决策不确定性。

@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -54,12 +54,12 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > （待补充）
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Biggs, J. (1999). “What the student does: Teaching for enhanced learning.” — 以三级教学观、认知动词和两个案例系统阐述[[Constructive Alignment\|建构性对齐]]。[[Argument_Biggs_1999_HERD\|Biggs (1999)]]
 > - Biggs, J., & Tang, C. (2011). *Teaching for quality learning at university*. Berkshire: Open University Press. — 系统阐述[[Constructive Alignment\|建构性对齐]]原则
 
@@ -78,14 +78,14 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[SOLO Taxonomy]]（Structure of the Observed Learning Outcome）区分前结构、单点结构、多点结构、关联结构和拓展抽象五种理解结构，并将其转化为课程目标动词。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 66–67)]]
 > - [[Constructive Alignment\|建构性对齐]]：广泛影响大学课程设计的核心原则，被 Hattie 的 VL 框架采纳为关键实施要素
 > - **[[Paradox of the Chinese Learner\|中国学习者悖论]]研究** 与 [[David Watkins]] 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures\|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner\|中国学习者悖论]] 系统化为国际研究议程。[[Argument_Li_2012_Cambridge\|Li (2012, pp.82-89)]]将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 属于 1990 年代[[Radical Constructivism\|激进建构主义]]运动的一部分，与 von Glasersfeld and Bjørgen 共享[[Constructivist Paradigm\|建构主义]][[Epistemology\|认识论]]前提([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.7]])
 > - [[Constructive Alignment\|建构性对齐]]被纳入 Hattie 的 VL 评价体系
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 将 Biggs & Collis 的 [[SOLO Taxonomy\|SOLO]] 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 Popper/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, p.30]])

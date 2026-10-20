@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Decolonial Paradox
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **谱系迷恋（Obsession with Pedigree）** 将制度的正当性简单等同于其历史起源，凡是源自西方殖民时期的制度（如司法独立、课程探究）均被预设为“不纯洁”或“[[Hegemony\|文化霸权]]”（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.155]]）。
 > - **本土能动性剥夺（Erasure of Native Agency）** 忽视本地人对这些制度的主动选择与保护性使用，剥夺其作为历史能动主体的自决资格（Táíwò, 2022）。
 > - **学术犬儒与失语（Academic Cynicism and Silence）** 西方学者在“反西方现代化霸权”的学术政治正确下，对非西方国家的集权压迫选择视而不见，甚至将本地人的反抗污名化为“文化叛徒”（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2022 — 泰沃提出批判** 哲学家 Olúfẹ́mi Táíwò 发表著作《Against Decolonisation》，批判泛非主义去殖民研究剥夺了非洲本地人的选择能动性（native agency），指出本土人完全有权保留和使用那些对自身有益的现代制度（如法治和自由意志）。
 > - **2024 — 维克引入比较教育分析** Vickers 将泰沃的理论引入比较教育学界，剖析香港在国安法实施后课程改革中的去政治化与去专业化危机，首次提炼出“去殖民化思维的悖论”来解释盎格鲁学界在面对香港案例时的失语（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
 
@@ -151,5 +151,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 首次在比较教育框架下使用“去殖民悖论”理论解构香港[[Citizenship and Social Development\|公民与社会发展科]]对通识科的替代。

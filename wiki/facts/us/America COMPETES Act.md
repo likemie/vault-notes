@@ -48,7 +48,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # America COMPETES Act
@@ -135,5 +135,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统检视 2007 年与 2010 年《美国竞争法》的历史执行数据，揭示授权与实际拨款脱节的制度落差（28 项新政策仅 1 项全额落实），为评估《[[CHIPS and Science Act|芯片与科学法案]]》的现实执行风险提供实证警示。

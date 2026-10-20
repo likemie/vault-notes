@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # College and Career Readiness
@@ -85,7 +85,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 >
 > | 维度 | 本概念（College and Career Readiness） | [[Academic Achievement]]（学业成绩） | 职业技能培训（Vocational Education） |
 > |:-----|:---------------------------------------|:------------------------------------|:-------------------------------------|
@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **锚点标准（Anchor Standards）** 统摄整个基础教育体系的顶层素养规程，在十二年级出口端界定清晰的认知进阶终端，使各年级条文的研制拥有明确的因果目标。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
 > - **文本复杂度阶梯（Text Complexity Progression）** 依据美国大学测验组织（ACT）实证研究，将能够独立阅读深奥、高信息密度且包含复杂论证的非虚构文本与经典文选，确立为通向大学成功最关键的预测指标。
 > - **数学概念深度与逻辑连贯（Mathematical Coherence）** 强调打破宽一英里、深一英寸的知识点罗列，将数学学科本身的公理逻辑与[[Epistemic Ascent|概念进阶]]作为支撑职业与大学科学建模的底层支柱。
@@ -163,7 +163,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2001–2004 年 — [[American Diploma Project|美国文凭项目]]（ADP）萌芽** [[Achieve]] 智库联合多州启动美国文凭项目，首次系统测算高校新生高额补课率，正式提出基础教育必须确立面向大学与职场的共通学术基准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **2006 年 — ACT《字里行间》实证突破** 美国大学测验组织发布里程碑报告《字里行间》（*Reading Between the Lines*），证实能否理解复杂非虚构文本是决定大学学术成败的第一分水岭，确立了文本复杂度在 CCR 中的核心[[Construct|构念]]地位。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 > - **2009–2010 年 — [[Common Core State Standards|CCSS]] 国家标准顶层锚定** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式将 CCR 确立为全美共同核心标准的立纲统领，并在 2010 年发布大学与职业就绪锚点标准终稿。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 12–16)]]

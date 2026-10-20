@@ -113,7 +113,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence Standards
@@ -319,7 +319,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970s–1990s — [[Internal Validity\|内部效度]]等级制与医学循证[[Paradigm\|范式]]** Campbell & Stanley 确立因果推论内部效度层级，奠定对照试验在排除混杂[[Variable\|变量]]上的优先地位；随后医学领域考克兰协作网（Cochrane Collaboration）与 GRADE 体系将[[Randomised Controlled Trials\|随机对照试验]]与[[Meta-analysis\|元分析]]确立为临床证据的黄金标准。
 > - **2000–2003 — 证据标准的法定博弈与清算机制初创** 2000 年国会卡斯尔草案（H.R. 4875）试图将实验检验列为法定科研硬门槛；[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）发布《教育科学研究》（SRE）确立跨方法六[[Big Science|大科学]]原则，推动 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在立法中确立“方法契合[[Research Question|研究问题]]”的包容性证据准则；同年设立的[[What Works Clearinghouse|有效干预清算中心]]（WWC）在发布研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）后，吸纳学界 47 项公共评议，打破对实验设计的排他垄断，补充纳入[[Regression Discontinuity Design|断点回归]]（RDD）与 30 余项实施过程调节变量。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
 > - **2004–2015 — 教育清算机构兴起与分级门槛法定化** WWC 逐步成熟并确立因果证据三级定性审查规程（无保留达标 / 有保留达标 / 未达标）；英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）推行挂锁评级；美国《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次以联邦法律形式确立四级法定证据标准。
@@ -413,7 +413,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量[[Research Synthesis|证据综合]]标准（49%–58%）之间的巨大落差。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-09'
-updated: 2026-09-11
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -62,6 +62,6 @@ updated: 2026-09-11
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Eribon, D. (2009). *Retour à Reims*. Fayard. — 中译本：《回归故里》，王献译，上海文化出版社，2020 — 以自传体社会学方法反思阶级流动、性向认同与原生文化的关系
 >

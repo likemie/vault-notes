@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Privacy in Research
@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - 研究者在调查家庭教养方式时，在[[Questionnaire\|问卷]]中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
 > - 课堂[[Observation Method\|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
 

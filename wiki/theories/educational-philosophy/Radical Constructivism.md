@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Radical Constructivism
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 认知主体如何组织经验[[Constructed Knowledge|建构知识]]、为何知识无法脱离主体的认知操作而独立存在，以及学习过程的主观自足性。
 > - **理论问题** 回应传统反映论实在论将知识视作客观外部世界镜像的表征主义困境，探究人类确证自身认知有效性的[[Epistemology|认识论]]基础。
 > - **理论类型** 后表征认识论（Post-representational Epistemology）、认知学习哲学与教育批判视角。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 辨析强调学习者主动意义生成、个体化学习策略及批判传统[[Rote Learning|死记硬背]]的教学革新方案；透视纯粹学生中心主义在课程设计中的[[Epistemology|认识论]]盲区。
 > - **成立条件** 适用于以个人认知发展为核心目标的学科概念转化过程，要求研究者具备扎实的认识论反思能力。
 > - **解释不足** 无法合理阐释人类知识的代际传承、文化共识的建构机制以及语言符号系统对思维的深刻塑造，回避了教育社会学关切的阶层再生产与权力规训。
@@ -222,7 +222,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展系统哲学审视，深入分析激进[[Constructivist Paradigm|建构主义]]在教学、知识与反馈维度上的理论局限。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 对可见学习的底层实证研究与理论预设开展批判性检视，就[[John Hattie|哈蒂]]是否属于激进建构主义与罗默展开理论论战。
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 梳理国际学界对可见学习的多元批评脉络，记录关于激进建构主义[[Paradigm|范式]]与教学双重崩溃的争鸣。

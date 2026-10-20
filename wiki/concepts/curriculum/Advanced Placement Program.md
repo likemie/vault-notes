@@ -31,7 +31,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Advanced Placement Program
@@ -96,6 +96,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 以 AP 解释北美公立高中接受外部课程与考试的制度先例，并比较其单科选择与 IB 完整课程的不同。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 在对大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费的实证审计中，记录了高中利用联邦补偿性资金采购针对性 AP 备考辅导以促进大学准备度的现实采办形态。

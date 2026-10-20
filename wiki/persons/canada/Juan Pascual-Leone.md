@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -41,7 +41,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Pascual-Leone 提出人类思维存在于两个层面([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])：
 >
 > - **沉默算子（Silent Operators）** — 总体的认知硬件，心智能力的基础设施
@@ -51,12 +51,12 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Neo-Piagetian Theories\|neo-piagetian-theories]] — 首位[[Neo-Piagetian Theories\|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget\|皮亚杰]]理论的整合框架
 > - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 将其作为[[Neo-Piagetian Theories\|新皮亚杰理论]]谱系的起点

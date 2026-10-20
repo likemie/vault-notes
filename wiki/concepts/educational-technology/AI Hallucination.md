@@ -79,7 +79,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # AI Hallucination
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | **AI 幻觉（AI Hallucination）** | **算法偏见（Algorithmic Bias）** | **程序语法错误（Syntax/Runtime Error）** | **[[Creativity\|创造性]]虚构（Creative Confabulation）** |
 > |---|---|---|---|---|
 > | **本质特征** | 表层顺滑但事实虚构或逻辑断裂 | 统计样本偏差引发的系统性刻板印象 | 代码逻辑错误导致程序无法运行或崩溃 | 艺术与故事创作中的有意观念重组 |
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **事实性虚构（Factual Hallucination）** 捏造历史事件、科学原理、地理常识或统计数据（如杜撰不存在的化学反应方程式）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 > - **引用性虚构（Source & Reference Fabrication）** 捏造格式极其规范但完全不存在的学术论文作者、DOI、期刊名与卷期号（学术写作中最普遍的幻觉形态）。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, p. 11)]]
 > - **逻辑推理断裂（Logical & Deductive Inconsistency）** 在长文本推导或数学证明中，前言不搭后语，每一步看似合理但整体推论存在致命逻辑跳跃。[[Argument_Li_2026_CEAI\|(Urhan et al., 2024; Li et al., 2026, p. 7)]]
@@ -278,7 +278,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证揭示算法幻觉作为[[Epistemology\|认识论]]扰动契机如何通过双轨支架驱动学生向评价主义演进。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用一阶[[Meta-analysis\|元分析]]实证揭示生成式 AI 对[[Critical Thinking\|批判性思维]]的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低[[Self-Regulated Learning\|自主调节学习]]能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking\|批判性思维]]发展的核心教学机制。

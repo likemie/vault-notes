@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bacchi's WPR Approach
@@ -51,7 +51,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > WPR方法的核心前提是，政策并非对既定问题的中性回应，而是主动参与了问题的建构。政策文本中的“问题”并非客观存在，而是通过特定的表征方式被生产出来的。分析者应当追问的不是“如何解决这个问题”，而是“这个问题被表征为什么”（Bacchi, 2009）。
 > 
 > 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production\|知识生产]]以及[[Policy Mobility\|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!ref-table] 相关研究索引
+> [!ref-table|notitle] 相关研究索引
 > | 研究 | 应用方式说明 | 来源 |
 > |---|---|---|
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为"[[Initial Teacher Training\|ITE]] 培训质量缺陷"，并系统性地对"教师过度工作量"这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |

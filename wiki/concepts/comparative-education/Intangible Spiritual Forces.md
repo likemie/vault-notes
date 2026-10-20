@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Intangible Spiritual Forces
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **校外情境的统摄性与支配律（Primacy of the Extra-School Matrix）** “校外的事情比校内的事情更为重要，并且支配与诠释着校内的一切”；无形精神力量构成了校内显性制度的根本解释母体。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, p. 44)]]
 > - **历史有机活体的不可分割性（Organic Wholeness of National Life）** 国民教育是数代人历史劳作与斗争沉淀的生命整体，任何剥离其精神土壤的制度要素抽离都会导致生命力的丧失。（Sadler, 1898, p. 246）
 > - **质性价值标准的不可量化性（Qualitative [[Incommensurability]]）** 支撑教育成功的精神力量与各国的伦理价值系统浑然一体，绝不可能被还原为通用的数理统计公式或标准化考试分数。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, p. 41)]]
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1900 年 — [[Michael Sadler\|萨德勒]]吉尔福德演说首创范畴** 萨德勒在《我们能从外国教育系统的研究中获得多少有实践价值的启示？》中正式提出“无形无质的精神力量”，奠定比较教育情境不可移植性的本体基石。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, p. 44)]]
 > - **1930–1950 年代 — [[Isaac Kandel\|坎德尔]]升华历史哲学[[Ontology\|本体论]]并捍卫民主** 坎德尔在《比较教育》（1933）与《比较教育学的新纪元》（1955）中将无形精神力量确立为抵御量化测验与极权意识形态侵蚀、捍卫民主制度文化根基的核心分析对象。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 60)]]
 > - **1940 年代末–1950 年代 — 二战教化神话破产与战后规划转向** 二战残酷暴行宣告欧洲古典人文教化防线坍塌，面对战后重建与经济起飞的紧迫需求，无形精神力量被战后技术官僚规划与行为社会科学量化指标边缘化。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–61)]]
@@ -213,6 +213,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理[[Michael Sadler\|萨德勒]]无形精神力量概念的提出、[[Isaac Kandel\|坎德尔]]的理论继承，以及 1970 年代埃普斯坦发起的[[Positivism\|实证主义]]清算与方法论论辩。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考掘坎德尔对无形文化精神力量的捍卫、二战后极权危机导致的教化防线坍塌、战后规划理性对观念支配论的边缘化，以及霍姆斯基于[[Critical Dualism\|批判二元论]]对活的精神的规范模式重构。

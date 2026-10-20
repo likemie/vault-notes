@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Eliezer Yudkowsky
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1979** 出生于美国伊利诺伊州芝加哥。
 > - **2000** 联合创立奇点人工智能研究所（Singularity Institute for [[Generative Artificial Intelligence|Artificial Intelligence]]，后更名为机器智能研究院 MIRI），担任资深研究员。
 > - **2006–2009** 创立知名理性主义社区 Overcoming Bias 与 LessWrong，撰写数百万字关于贝叶斯理性、认知偏差与决策论的经典论述。
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开辟了 AI 存在性风险与技术对齐（Technical Alignment）这一独立学术研究领域，深刻影响了 OpenAI、Anthropic 等前沿机构对齐团队的研究纲领。
 > - **政策与风险度量路径** 推动了末日概率（P(doom)）这一概念在硅谷与华盛顿政策界的流行，使政府决策层严肃审视[[Artificial General Intelligence|通用人工智能]]失控的极端尾部风险。
 > - **争议与地缘战略交锋** 其主张的极端技术叫停立场，成为当代科技战略家（如 Karp & Zamiska）批判科技精英道德恐慌与逃避地缘防卫责任的核心论敌。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术论敌** [[Alexander Karp]] & [[Nicholas Zamiska]] — 批判尤德考夫斯基的极端停滞主义，主张通过全速推进防务 AI 维系地缘均势。
 > - **核心合作机构** 机器智能研究院（MIRI） — 长期学术研究大本营。
 > - **关键历史事件** [[Pause Giant AI Experiments Open Letter]] — 2023 年公开信的核心辩论参与者与更激进立场的提出者。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Rashomon Effect
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **同一实体客体（Shared Core Entity）** 存在一个客观发生的事件、实验结果或公开量化数据集（如武士之死、[[PISA]] 测试均分与背景[[Questionnaire\|问卷]]）。
 > - **多重视角主体（Positioned Observers）** 多个具有不同利益诉求、专业背景与权力等级的行动者对该客体拥有解释权或见证权。
 > - **互不兼容的因果叙事（Incompatible Causal [[Accounts]]）** 各方提供的陈述在归因逻辑（为何发生）、责任分配（谁之过错）及政策处方（何去何从）上相互矛盾。
@@ -213,7 +213,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 将罗生门效应系统引入教育研究方法论，阐释复杂情境下[[Action Narratives\|行动叙事]]的多样性与因果路径的非线性特征。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 运用罗生门效应框架深度剖析英格兰对 [[PISA]] 2012 评估数据的传播与再阐释，揭示国际组织、执政政客与大众媒体如何凭借自身逻辑生产出三重相互抵触的“政策真实”。
 

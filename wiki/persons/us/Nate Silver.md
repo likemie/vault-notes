@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Nate Silver
@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1978** 出生于美国密歇根州东兰辛。
 > - **2000** 毕业于芝加哥大学，获经济学学士学位。
 > - **2008** 创立 FiveThirtyEight 网站，在2008年与2012年美国总统大选中实现对50个州选举人票的精准预测。

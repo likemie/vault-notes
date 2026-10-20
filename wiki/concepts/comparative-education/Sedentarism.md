@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sedentarism
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 定居主义（Sedentarism） | [[Temporalization of Space\|空间的时间化]]（Temporalization of Space） | [[Spatial Governmentality\|空间治理术]]（Spatial Governmentality） |
 > |------|------------------------|----------------------------------------------------|---------------------------------------------------|
 > | 关注核心 | 静止与移动的道德高下判断 | 地理空间差异与文明演进时间的单向折算 | 权力通过划界、调查与质地建模控制人口的技术体系 |
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **定居基准的规范化（Normalization of Settlement）** 将稳定的地理扎根预设为主体健全发育、公民资格确认与道德责任承担的必要前置条件。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 > - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（[[Transiency]]）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 > - **精英与底层流动的阶层双标（Class-Bifurcated Mobility Coding）** 文化精英跨越国界的自决漫游被加冕为面向未来的国际化美德，而弱势群体的迁徙则被判定为亟待管制的社会风险。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **启蒙时期至19世纪 — 帝国地理扩张与定居文明论** 欧洲殖民国家将农业定居与城镇建设界定为脱离野蛮状态的唯一标志，非定居部族被剥夺土地产权与自主地位。
 > - **1990年代 — 空间转向与人类学[[Epistemology|认识论]]反思** James Clifford（1997）等学者对人类学[[Fieldwork|田野工作]]中的定居主义预设提出系统批判，指出文化并非根植于封闭土壤的树木，而是在迁徙路线上不断翻译生成的复杂网络。
 > - **2009年 — 教育政策与学校空间批判** Sobe 与 Fischer 将定居主义批判引入比较教育，解构学校作为定居机器在面对全球化人口流动时的排斥性机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
@@ -176,5 +176,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。

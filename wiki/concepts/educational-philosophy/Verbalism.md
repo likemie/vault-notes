@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Verbalism（言语主义 / 空谈）
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 言语主义（Verbalism） | 盲动主义（Activism） | 解放[[Praxis\|实践]]（Praxis） |
 > |------|-----------------------|---------------------|-------------------|
 > | **缺失要素** | 牺牲行动（Sacrifice of Action） | 牺牲反思（Sacrifice of Reflection） | 无缺失：反思与行动统一 |
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **假对话异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 > - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。同上
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 3 章提出“言语主义 vs 盲动主义”双重异化判定。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 87, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 
@@ -126,5 +126,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合言语主义概念批评 IB [[Theory of Knowledge\|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。

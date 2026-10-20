@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Quality Use of Research Evidence Framework
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
@@ -322,7 +322,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 基础教育与高等教育中教师教学改进、学校教研制度建设、教育行政部门政策审议与跨国[[Knowledge Mobilisation\|知识动员]]生态；解释[[Research Utilization\|研究使用]]过程中的质量维度、动力机制与系统障壁。
 > - **谨慎使用** 在高度自上而下、中央集权指令型管理或极端问责制环境中，由于一线缺乏自主审议空间，深思熟虑参与极易被形式化表演与行政合规所掩盖，需配合权力[[Critical Theory\|批判理论]]加以审视。
 > - **不适合解释** 不能单独解释某项具体课程或心理干预对学生[[Academic Achievement\|学业成绩]]的绝对[[Effect Size\|效应量]]大小，也不能替代严格的微观课堂互动微观分析。
@@ -332,7 +332,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫[[Roy Nash|纳什]]大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
 > - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 133–158]]）
@@ -378,7 +378,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — [[Monash Q Project\|莫纳什 Q 项目]]旗舰成果，在[[OECD\|经合组织]]（OECD）编著第九章系统阐释高质量[[Research Utilization\|研究使用]]理论内核、六大特征、实证使能条件与四大系统进路。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 将 QURE [[Operationalization\|操作化]]为跨国政策调查维度，实证检验了 29 国 37 个教育系统的组织中介角色、个体文化心智与研究使用形态。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 以 QURE 为理论基石确立强化教育[[Research Impact\|研究影响力]]的五维宏观政策诊断模型（结构、关系、质量、文化、能力）。

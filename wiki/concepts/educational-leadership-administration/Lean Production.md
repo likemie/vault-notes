@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lean Production
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **准时制库存控制（Just-in-Time, JIT）** 严格按照下一道工序的需求在需要的时间生产需要数量的零部件，将原材料与在制品库存压至最低，使隐藏在库存下的生产瓶颈暴露并被彻底解决。
 > - **多技能工种（Multi-skilling）与全员参与** 摒弃狭隘僵化的单项[[Homework|作业]]岗位，工人掌握多种机床操作与日常维护技能，并在质量小组（Quality Circles）中直接参与工艺方案改良。
 > - **[[Total Quality Management|全面质量管理]]与持续改进（TQM & Kaizen）** 将产品质量与工艺稳定性内化到每一个车间操作环节，实行全员全过程持续微调优化，打破科学实验室单向推送的技术神话。
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1970s — 丰田生产方式创立** [[Taiichi Ohno|大野耐一]]与丰田喜一郎在战后日本资源匮乏环境下探索消除浪费之道，创建看板系统与准时制模式。
 > - **1980s — [[Evolutionary Economics|演化经济学]]将其提炼为[[Paradigm|范式]]组织代表** 弗里曼等创新经济学者将日本民用工业的精益制造确立为新[[Joseph Schumpeter|熊彼特]][[Techno-economic Paradigm|技术-经济范式]]的组织典范。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 12, 18)]]
 > - **1990 — 《改变世界的机器》引发全球推广** 沃马克、琼斯与鲁斯（Womack, Jones, & Roos, 1990）正式提出“精益生产”（Lean Production）术语，推动全球汽车与电子制造业系统性改造。
@@ -154,5 +154,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 将精益生产系统与多技能轮岗明确界定为微电子[[Techno-economic Paradigm|技术-经济范式]]转型中的核心组织管理创新，强调其与国家公共职业教育培训及产业赶超绩效的深度互依性。

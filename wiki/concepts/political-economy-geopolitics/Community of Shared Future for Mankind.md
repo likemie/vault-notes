@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Community of Shared Future for Mankind
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2011年 — 理念初现** 中国国务院发表《中国的和平发展》白皮书，首次从国家战略层面阐述各国人民共享繁荣、同舟共济的共同体愿景。
 > - **2013年 — 区域倡议融合** 最高领导人在哈萨克斯坦和印度尼西亚发表演讲，将建设中国—[[ASEAN|东盟]]命运共同体与丝绸之路经济带紧密绑定，教育与青年交流成为人文奠基纽带。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684)]]
 > - **2017年 — 联合国讲坛系统阐述** 最高领导人在联合国日内瓦总部发表《共同构建人类命运共同体》主旨演讲，系统定义了持久和平、普遍安全等五大支柱，将[[Belt and Road Initiative|一带一路]]定性为该理念的生动实践。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688, 691)]]
@@ -190,6 +190,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示命运共同体理念如何通过[[People-to-People Connectivity|民心相通]]、传统文化伦理互鉴（如儒家“立己达人”与非洲“独行快，众行远”）重塑跨大洲教育能力合作的多边正当性（pp. 228–232）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将人类命运共同体作为解构中国[[Belt and Road Initiative|一带一路]]教育政策[[Discourse|话语]]的[[Policy Framing|激励性框架]]（Motivational Framing），深入剖析了这一宏大[[Social Imaginary|社会想象]]如何赋予国家高等教育跨国扩张以道义正当性。

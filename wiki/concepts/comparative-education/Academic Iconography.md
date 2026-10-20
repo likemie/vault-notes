@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Academic Iconography
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 学科肖像学（Academic Iconography） | 学术思想史（Intellectual History） | 学科集体记忆（Collective Memory） |
 > |------|-----------------------------------|-----------------------------------|-----------------------------------|
 > | **分析对象** | 学科史中被神圣化的先驱图腾、标志性演讲与起源神话 | 概念、命题与理论框架在历史长河中的演化脉络与论辩逻辑 | 学科学术共同体在社会化过程中共享的非[[Reflexivity\|反思性]]认同与情感纽带 |
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1900–1950年代 — 图腾符号的萌生与神圣化** [[Michael Sadler]] 1900 年关于外国教育制度研究的吉尔福德演讲发表；在随后的半个世纪中，该演讲被教科书与通史作者奉为比较教育学不可动摇的开山宪章。
 > - **1960–1980年代 — 制度化扩张中的肖像学固化** 随着战后欧美大学比较教育系所与学会的建立，经典著作（如 Noah & Eckstein, 1969; Bereday, 1964）以高度清晰的起源叙事巩固了以英美为中心、以男性巨擘为核心的英雄谱系。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 7)]]
 > - **2000年代至今 — 批判史学自觉与肖像学反思** 考恩正式提出学术肖像学概念，尖锐批评对萨德勒的非反思崇拜，呼吁将肖像学本身作为历史研究对象，推动学科从单一起源神话走向多中心与[[Reflexivity\|反思性]]的比较史。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
@@ -163,5 +163,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩系统提出学科肖像学概念，解构以[[Michael Sadler\|萨德勒]]为代表的神话图腾，提出重写学科史的五大比较维度。

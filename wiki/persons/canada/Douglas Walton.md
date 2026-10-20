@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Douglas Walton
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1942** 出生于加拿大安大略省。
 > - **1972** 获多伦多大学哲学博士学位，随后长期任教于温尼伯大学哲学系。
 > - **1996** 出版里程碑式著作 *[[Walton's Argumentation Schemes\|Argumentation Schemes]] for Presumptive Reasoning*，正式确立论证型式体系。
@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底重塑了非形式逻辑学界对传统逻辑谬误（如诉诸权威、诉诸无知、人身攻击）的理解，将其从绝对逻辑死穴转化为在特定语用条件下具有假定效力的论辩型式。
 > - **方法路径** 批判性提问清单成为人际对话编码、法律事实推论与法庭论辩质证的经典[[Operationalization\|操作化]]分析工具。
 > - **教育传播** 自 2000 年代后期被引入科学教育（如 Richard Duschl 与 E. Michael Nussbaum 等人），用于设计[[Classroom Debate\|课堂辩论]]评价量表与学生[[Critical Thinking\|批判性思维]]支架。
@@ -115,7 +115,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** Chris Reed、Fabrizio Macagno — 共同编著 2008 年版 *[[Walton's Argumentation Schemes\|Argumentation Schemes]]*，将型式系统扩充至计算论辩学领域。
 > - **批评者** [[Clark A. Chinn\|克拉克·钦]]、拉维特·格兰·邓肯 — 在科学论证评价框架建构中系统指出沃尔顿模型的三维局限：缺乏[[Epistemology\|认识论]]规范来源、无法处理大规模证据统合、缺乏冲突裁决机制。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **理论继承** 图尔敏（Stephen Toulmin）的非形式论证结构理论是沃尔顿论辩型式体系最直接的思想先驱。

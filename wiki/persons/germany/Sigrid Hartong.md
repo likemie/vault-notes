@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sigrid Hartong
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2000–2010 — 学术训练与[[Positivism\|实证主义]]政策审视** 于德国哥廷根大学与汉诺威大学接受社会学、政治学与教育学训练并获博士学位，前期研究聚焦[[Global Education Reform Movement\|全球教育改革运动]]（GERM）、标准化教育改革及比较教育治理。
 > - **2011–2016 — 历时追踪与数据中介批判发轫** 在汉诺威大学与科隆大学从事博士后研究，历时考察德国各州在[[PISA\|国际学生评估项目]]（PISA）震荡后推进国家教育标准与实证监测的制度演化；2016 年发表里程碑论文，首次系统剖析教育大数据中隐秘数据中介（Hidden Data Mediators）的技术规制权力。
 > - **2017–至今 — 领衔跨国重大课题与治理研究拓展** 受聘为汉堡赫尔穆特·施密特大学正教授；主持德国科学基金会（DFG）跨国实证课题“数字化时代的治理与教育数据管理（HA 7367/2-1）”，深入美德两地州级教育行政中枢开展田野访谈与数字基础设施解剖，兼任多份国际批判社会学与教育政策学术期刊特约审稿专家。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将[[Science and Technology Studies\|科学技术研究]]（STS）与批判性数据研究有效嫁接至教育治理研究，打破了长期以来将量化监测技术仅仅视为中立工具的[[Positivism\|实证主义]]局限，丰富了[[Data Infrastructure\|数据基础设施]]与[[Technical Rationality\|技术理性]]的社会学批判维度。
 > - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字[[Bureaucracy|官僚制]]提供了极具启发性的做数据张力分析工具与可视化模型。
 > - **政策路径** 其实证研究成果向德国及欧洲教育行政决策者清晰揭示了高利害数据问责引发的防御性造假与信任侵蚀，为德国各州坚守低利害诊断问责、抵制粗暴学校排名榜提供了重要学术论证支撑。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** 安妮娜·弗施勒（Annina Förschler） — 赫尔穆特·施密特大学长期研究助理与重要论文合著者。
 > - **理论思想渊源** [[Rob Kitchin\|罗伯·基钦]]（[[Rob Kitchin]]）、温迪·埃斯佩兰（[[Wendy Espeland]]）、本·威廉姆森（Ben Williamson）、尼尔·塞尔温（Neil Selwyn） — 为其提供[[Data Infrastructure\|数据汇聚体]]、[[Commensuration\|数量通约化]]与批判性数字社会学的理论滋养。
 > - **田野考察机构** [[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ）、[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）、[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） — 构成其揭开数据治理黑箱的核心经验考察对象。

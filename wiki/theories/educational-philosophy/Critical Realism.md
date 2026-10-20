@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critical Realism
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 自然与社会系统（特别是教育等复杂开放系统）中的[[Causality|因果关系]]、深层生成机制、结构[[Emergence|涌现]]以及政策[[Discourse|话语]]背后的权力结构。
 > - **理论问题** 回应[[Positivism|实证主义]]将因果关系窄化为经验观察常态规则（休谟因果观）的还原论困境，同时克服极端的[[Constructivist Paradigm|社会建构主义]]完全否定客观实在与因果解释的相对主义倾向。
 > - **理论类型** 科学哲学基础体系、社会[[Scientific Method|科学方法]]论与[[Ideology Critique|意识形态批判]][[Analytic Framework|分析框架]]。
@@ -195,7 +195,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 涉及多层级嵌套的宏观政策[[Implementation and Process Evaluation|实施评估]]、制度性权力运作对微观实践的制约、以及官方政策修辞与隐秘动机之间的张力辨析。
 > - **成立条件** 需要研究者兼具深厚的情境知识与跨层次经验材料，能够耐心地开展历史追踪、访谈挖掘与[[Retroduction|逆推溯因]]，而非单向依赖静态截面数据。
 > - **解释不足** 批判实在论侧重于提供宏观的[[Ontology|本体论]]与[[Epistemology|认识论]]指引，自身不提供直接套用的现成数学模型或微观观察编码表，必须与具体领域的中层理论及专业质性/量化方法相结合。
@@ -224,7 +224,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用批判实在论三层[[Ontology|本体论]]系统解构英国[[Evidence-Based Education|循证教育]]（EBE）的方法论偏误，深入剖析[[Teaching Assistant|教学助理]]与补习干预的机制失真。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 依托批判实在论科学哲学框架，剖析 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] 的去情境化科学观，以体育参与案例展示[[Realist Evaluation|实在论评估]]对均值黑箱的穿透效能。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将批判实在论“[[Explanatory Critique|解释性批判]]”与[[Critical Discourse Analysis|批判话语分析]]结合，开创跨国教育政策[[Discourse Analysis|话语分析]]框架，解构表层互利修辞背后的地缘[[Hard Power|硬实力]]配套机制与现代化[[Grand Theory|宏大叙事]]。

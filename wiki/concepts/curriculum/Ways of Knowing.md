@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ways of Knowing
@@ -206,7 +206,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s–2000s — IB [[Theory of Knowledge\|知识论]]课程确立传统四项模型** 知识论大纲将感官知觉、情感、语言与理性确立为核心认知方式，突出认知主体中心与跨学科知识反思。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 16–17)]]
 > - **2007 — 课程术语反思与规训批判** 曾普伦（[[Argument_Zemplen_2007_SciEduc\|Zemplén, 2007]]）发表批判性研究，警示认知方式等分类术语在实际教学中可能演化为阻碍实质性反思的评价标签。
 > - **2013 — 分类扩展为八项并强化结构连接** 新版指南扩展引入想象、信仰、直觉与记忆，要求学生系统探索认知方式与[[Areas of Knowledge\|知识领域]]、[[Knowledge Questions\|知识问题]]之间的多维联系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36–38)]]
@@ -247,7 +247,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] — 分析认知方式在 IB [[Theory of Knowledge\|TOK]] 课程大纲、评估目标与论文评分量规中的结构对齐情况，探讨其在[[Epistemology\|认识论]]分析与[[Critical Thinking\|批判性思维]]培养中的功能与界限。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 将认知方式拓展至跨学科科学实践研究，论证探究科学、工程设计与社会议题具有不同的学科认知方式，强调面向公共审查的系统化证据建构价值（pp. 140, 154）。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 梳理 TOK 传统四项认知方式（感知、情感、语言、理性）在认知者中心的连续互动机制与课堂探究设计。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Pool of Knowledge
@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 基础科学研究在国家经济与[[Systems of Innovation|创新系统]]中的结构功能，以及政府公共财政资助大学自由探索的经济与制度正当性。
 > - **理论问题** 战前自由市场条件下私营企业缺乏投资基础研究的动力，传统观念视政府资助大学为违背自由市场与学术自治的干预，亟需理论阐明公共资助基础科研的必要性。
 > - **理论类型** 规范性科技政策理论与科学经济学分析视角。

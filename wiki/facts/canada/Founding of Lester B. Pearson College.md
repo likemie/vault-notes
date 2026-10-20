@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Founding of Lester B. Pearson College
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **公共纪念进入经常预算** 国家纪念没有停留在冠名或建筑象征。联邦政府的资本支持改善贷款条件，每年四十名外国学生奖学金又把和平纪念转化为持续招生责任。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 121)]]
 > - **自治与国家支持并存** 政府没有接管书院行政，西部治理机构仍负责办学。公共资本和奖学金却使书院接近国家支持的国际公共教育。
 > - **主动建设替代现成校园复制** 佩德湾案例证明，新书院可以围绕教育关系规划空间，不必等待军用或历史建筑转用。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technologies of Exclusion
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 排除性技术（Technologies of Exclusion） | 知识民主化（[[Democratisation of Expertise]]） | [[Façade of Rationality\|理性表象脚手架]]（[[Scaffolding]] for Façade of Rationality） |
 > |---|---|---|---|
 > | 核心功能 | 构筑专业技术壁垒，剥夺外行参与政策审议的合法性 | 普及证据认知，使公众能够理解并介入教育决策辩论 | 用客观数字外观包装政治价值裁决，提供[[Social Science as Legitimation Alibi\|合法化借口]] |
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Discourse|话语]]晦涩化与符号设卡（Linguistic Obfuscation）** 创造高度抽象的统计学与心理学专门词汇（如潜[[Variable\|变量]]、边际效应、项目反应参数），使得缺乏计量背景的一线教师与家长丧失对话资格。
 > - **证据等级的阶级化固化（Hierarchisation of Evidence）** 强制推行以 [[Randomised Controlled Trials\|RCTs]] 和大型计量回归为顶层的“证据金字塔”，将丰富的质性[[Fieldwork\|田野调查]]、教师本土实践叙事贬抑为“低级传闻证据”。
 > - **技术工具的黑箱化封装（Black-Box Modeling）** 将复杂的价值偏好深埋于复杂的加权算法、缺失值填补模型与成熟度量规之中，使外部学者无法对其先验假定展开有效审计。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000 年代初 — 科学社会学专业壁垒理论发轫** 科学哲学与专业社会学（如 Maasen & Weingart, 2005）提出“专家知识民主化”及其伴随的技术排他机制。
 > - **2010 年代 — 循证医学与黄金标准跨界移植** “排除性技术”概念被引入公共政策学，用以揭示[[Evidence-Based Education\|循证教育]]运动如何通过独尊 [[Randomised Controlled Trials\|RCTs]] 将[[Qualitative Research\|质性研究]]学者边缘化。
 > - **2020 年代至今 — [[Governing by Numbers\|数字治理]] 2.0 与算法黑箱规制** Steiner-Khamsi 等（2024）将其发展为全球教育治理核心分析工具，剖析国际多边中介如何利用指标库黑箱压制本土民主争鸣。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -187,5 +187,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 阐释[[Policy Brokerage\|政策中介]]机构在面对“专家知识民主化”所引发的公众争鸣时，如何通过构筑排除性技术与证据阶层化来捍卫专业中介权威。

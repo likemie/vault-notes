@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -48,7 +48,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > **主观性的不可还原性**
 >
 > Greenfield 的核心[[Epistemology\|认识论]]主张是：**我们所有关于现实的知识——自然和社会的——都包含无法还原的主观成分**。换言之，客观性是一个神话——在自然科学和社会科学中都是如此([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.316]])。
@@ -71,19 +71,19 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - **挑战教育行政的逻辑[[Empiricism\|经验主义]][[Paradigm\|范式]]** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
 > - **"人性科学"的愿景** — 主张以[[Subjectivism\|主观主义]]和[[Phenomenology\|现象学]]取代[[Positivism\|实证主义]]作为教育行政研究的基础
 > - **Greenfield and Ribbins（1993）** — *Greenfield on Educational Administration*，汇集其主要论述
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Greenfield, T. B., & Ribbins, P. (Eds.). (1993). *Greenfield on Educational Administration*. London: Routledge. — 系统呈现 Greenfield 对教育行政[[Epistemology\|认识论]]的[[Subjectivism\|主观主义]]/[[Phenomenology\|现象学]]取向
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 其批判直接回应了以 **Halpin** 和 **Griffiths** 为代表的美国理论运动
 > - 与 **Richard Bates** 的[[Critical Theory\|批判理论]]构成 1970s–1980s 教育行政[[Epistemology\|认识论]]转向的两大主力
 > - 为后来 Gunter（2010）记录的教育行政社会学方法的"重新出现"铺平了道路
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - **"怎么都行"的问题**[[Argument_Eacott_2015_EPT\|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
 > - **消极后果** Greenfield 的批判（与 Bates 等人一起）在打破[[Positivism\|实证主义]]垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
 > - **Eacott 的定位**[[Argument_Eacott_2015_EPT\|Eacott (2015)]]在 Greenfield and Evers/Lakomski 之间寻找第三条路——接受对逻辑[[Empiricism\|经验主义]]的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"

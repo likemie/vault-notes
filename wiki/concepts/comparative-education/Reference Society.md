@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reference Society
@@ -210,7 +210,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]] [[PISA]] 如何通过设立参考社会驱动全球教育[[Policy Borrowing\|政策借用]]，详细剖析芬兰、上海、韩国和南锥体国家的参照机制与文化偏见。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 运用[[Wight's Three Traditions of International Theory\|国际关系三大传统]]解构现实主义比较教育中的参考社会与反参考社会，剖析地缘霸权与制度榜样的共生关系。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合施赖弗[[Externalization\|外化]]假说与 [[World Education Reform Database\|WERD]] 数据库，对比[[OECD\|经合组织]]外向型同行参照社会与[[World Bank\|世界银行]]自指性中介机制的治理异同。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sino-Soviet Educational Cooperation
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 实施困境与政策争议
 
-> [!debates] 实施困境与政策争议
+> [!debates|notitle] 实施困境与政策争议
 >
 > > [!axis] 意识形态同盟与大国国家主权利益的冲突
 > > 历史学者与政治学家长期探讨中苏教育科技合作骤然中断的根源。

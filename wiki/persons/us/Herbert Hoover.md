@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Herbert Hoover
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1874** 出生于美国艾奥瓦州韦斯特布兰奇的一个公谊会教徒家庭。
 > - **1895** 毕业于斯坦福大学创校首届班级，获得地质与采矿工程学士学位。
 > - **1897–1914** 先后在西澳大利亚金矿、中国开滦煤矿、缅甸及欧洲等地从事矿业工程勘探、开采与企业管理，成为享誉国际的采矿工程专家。
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创性地界定了工程职业伦理中的责任对称性与物理实证性，成为技术哲学批判官僚修辞与虚假共识的经典理论依据。
 > - **政策与实践路径** 主导了20世纪美国现代物流调度、工业标准化规程（从螺栓尺寸到砖块规格）以及无线电频谱早期管制的制度框架。
 > - **现代工程哲学与治理复兴** 其关于工程师责任不可逃避的格言被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中重新激活，作为现代软件工程文化、无过错根因复盘（[[Five Whys|五问法]]）与跨越公共部门[[Innovation Desert|创新荒漠]]的[[Epistemology|认识论]]灯塔（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想对话与共鸣者** [[John Dewey|约翰·杜威]]（John Dewey）— 共同推崇投身具体经验事物与实验检验的美国[[Pragmatic Paradigm|实用主义]]传统。
 > - **管理思想同行** [[Taiichi Ohno|大野耐一]]（Taiichi Ohno）— 共同强调深入物理现场与直面系统缺陷的工程实干文化。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将胡佛论述作为软件工程直接责任机制的核心注脚。

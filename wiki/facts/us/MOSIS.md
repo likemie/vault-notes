@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # MOSIS
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]微观靶向公共设施视角，系统论证 [[DARPA]] 资助南加州大学设立 MOSIS 如何以微小公共开支打破昂贵物理流片的创新瓶颈，释放全美高校与初创企业的激进芯片设计潜能。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 论述 [[DARPA]] 支持的 MOSIS 原型制造服务如何降低集成电路设计门槛，奠定全球无晶圆设计与代工专业化分工体系。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）[[Multi-Project Wafer|多项目晶圆]]（MPW）与先进封装排期机制，展现公共原型流片平台在后摩尔时代的国家级制度升级。

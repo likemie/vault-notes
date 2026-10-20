@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technological Agnosticism
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（技术不可知论） | 道德二元论（[[Moral Dualism]]） | 硬信念（[[Hard Belief]]） |
 > |---|---|---|---|
 > | **价值取向** | [[Epoché\|悬置]]价值判断，专注于纯粹工程建造 | 预设黑白对立的绝对伦理教条 | 承担现实代价，为共同体与制度理想辩护 |
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **为了建造而建造的纯粹主义（Construction for Construction's Sake）** 将代码编写、系统扩容与平台扩张本身视为唯一的意义来源，拒绝探讨技术的终极政治意图与社会后果。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]
 > - **脱嵌于国家共同体的[[Cosmopolitanism|世界主义]]假象（Disembodied Cosmopolitanism）** 自诩为无国界的世界公民，认为自身财富与创新能力赋予了超越民族国家责任的特权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
 > - **通识正典断裂诱发的价值虚无（Civilizational Dis-anchoring）** 伴随大学人文学科对西方传统通识的拆解，科技精英在成长过程中丧失了理解国家制度与自由价值的文化锚定，导致国家历史沦为“断线气球”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 95–96)]]
@@ -239,7 +239,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合西方通识正典断裂与反文化运动，深度剖析技术不可知论的文化成因、组织表现与虚无主义危机。
 
 

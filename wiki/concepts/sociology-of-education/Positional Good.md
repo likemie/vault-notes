@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Positional Good
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（Positional Good） | 公共物品（Public Good） | [[Credential Inflation\|文凭通货膨胀]] | [[Zero-Sum Competition\|零和竞争]] |
 > |---|---|---|---|---|
 > | **分析对象** | 依赖相对稀缺性与等级排位的社会与文化资源 | 具有非竞争性与非排他性的公共福祉与制度环境 | 学历过度供给导致文凭交换价值在市场中的缩水现象 | 一方所得必然导致他方所失的互动信念或结构博弈 |
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **结构性稀缺（Structural Scarcity）** 位置性商品的顶层配额受到客观社会结构的绝对约束，无论技术和生产力如何发达，社会中“顶尖 1%”的精英席位与决策岗位永远无法无限量复制。
 > - **相对位次依赖（Relational Valuation & Queuing）** 个体从文凭中获得的经济收益与社会声望，并不取决于其掌握的具体知识技能绝对值，而取决于其在劳动力市场筛选队列中是否领先于其他求职者。
 > - **合成谬误与内耗博弈（Fallacy of Composition）** 当所有个体都采取“增加教育投资以提升相对优势”的理性行动时，宏观结果并非所有人都实现阶层跃升，而是整个文凭基准线被整体抬高，个人重回原点。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1976 — 奠基阶段** 弗雷德·赫希在其里程碑著作《增长的社会极限》中首次界定“位置性商品”，指出经济增长无法消除围绕不可无限供给的相对优势展开的社会竞争。
 > - **1990s — 拓展阶段** 菲利普·布朗、休·劳德（Hugh Lauder）与A. H. 霍尔西（A. H. Halsey）等学者将位置性竞争全面引入教育社会学，提出文凭队列筛选理论与家长资本运作分析。
 > - **2000s — 批判政策社会学应用** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]等批判政策学者运用该概念剖析[[OECD|经合组织]]教育政策，揭示新自由主义[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何将[[Education for All|全民教育]]退化为劳动力市场排位的私有化竞技场。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
@@ -179,5 +179,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446, 451–452)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何将教育由民主公共品转变为劳动力市场排位竞争的位置性商品。

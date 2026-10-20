@@ -35,7 +35,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Josep Borrell
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于西班牙加泰罗尼亚莱里达省。
 > - **1969** 毕业于马德里理工大学航空工程专业，后获马德里康普顿斯大学经济学博士学位。
 > - **2004–2007** 担任欧洲议会议长，积极推动[[EU|欧盟]]宪法条约与一体化进程。
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[EU|欧盟]]防务政策路径** 推动确立《战略指南针》（Strategic Compass）行动框架，促成欧洲防卫基金与联合采办机制的建立。
 > - **地缘认知重塑路径** 破除了欧洲社会将“[[Perpetual Peace|永久和平]]”视为理所当然的幻想，促使欧洲政治主流重新承认[[Hard Power|硬实力]]的不可替代性。
 > - **战略分析路径** 卡普与扎米斯卡（2025）将博雷利的[[Bonsai Army|盆景军队]]概念作为剖析西方同盟去武力化危机的核心线索，进而提出以实战 AI 代偿欧洲防务短板的破局构想。
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **防务智囊合作** 克里斯蒂安·默林（Christian Mölling） — 德国对外关系委员会（DGAP）防务学者，与博雷利共同分析[[Bonsai Army|盆景产业]]碎片化机制。
 > - **[[EU|欧盟]]执行协同** 蒂埃里·布雷顿（Thierry Breton） — 欧盟内部市场专员，推动欧洲防务工业战略（EDIS）落地。
 > - **政策继承者** 卡娅·卡拉斯（Kaja Kallas） — 继任欧盟外交与安全政策高级代表。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引博雷利关于欧洲军队缩减为[[Bonsai Army|盆景军队]]及其采办碎片化滋生盆景产业的深刻诊断，系统论证软件与实战 AI 对重构同盟战力的决定性意义。
 
 

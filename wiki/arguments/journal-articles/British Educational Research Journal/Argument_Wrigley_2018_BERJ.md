@@ -86,7 +86,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2018
 doi: 10.1002/berj.3338
 citation_aliases:
@@ -310,7 +310,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > 1. **数字与量化方法本身并不是问题** 作者明确指出，数字和测量本身是有用的（如同测量全球变暖的指标一样），问题在于将统计研究的角色无限泛化，并在缺乏反思的情况下追求表面上的“科学规律性”修辞 (p. 16)。
 > 2. **[[Realist Evaluation\|实在论综合]]的操作复杂性** 作者承认，替代方案“实在论综合”在实操上比单纯看 [[Effect Size\|效应量]]排行榜要复杂得多，无法提供像 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
 

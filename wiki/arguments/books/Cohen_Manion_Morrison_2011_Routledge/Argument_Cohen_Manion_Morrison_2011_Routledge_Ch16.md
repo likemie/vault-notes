@@ -124,7 +124,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16
 
@@ -319,7 +319,7 @@ Campbell and Stanley (1963) 的经典符号系统用于表示各种实验设计�
 
 #### 前后测控制组与实验组设计
 
-> [!design-notation] 前后测控制组与实验组设计
+> [!design-notation|notitle] 前后测控制组与实验组设计
 > 参与者[[Random Assignment\|随机分配]]至实验组和控制组，两组均接受前测和后测，仅实验组接受干预（pp. 317–319）：
 >
 > - **实验组** *R* ==O₁== `X` ==O₂==

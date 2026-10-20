@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Social Interdependence Theory
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 群体内部个体目标结构（积极互赖、消极互赖、无互赖）如何塑造人际互动过程，并进而决定群体的[[Academic Achievement\|学业成就]]、人际关系与心理健康产出。
 > - **理论问题** 回应课堂教学中传统个体竞争模式引发的学困生边缘化、学优生垄断与同伴疏离难题，为[[Constructivist Paradigm\|建构主义]]与同伴合作提供微观社会动力学解释。
 > - **理论类型** 中层社会心理学与教育教学机制模型。

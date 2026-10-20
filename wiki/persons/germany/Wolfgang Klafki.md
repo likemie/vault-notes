@@ -53,7 +53,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Wolfgang Klafki
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 9月1日出生于东普鲁士安格尔堡（Angerburg）。
 > - **1944–1945** 17岁时获得毕业证明并被征召加入国家劳役团；二战后期作为伤残军人返乡。
 > - **1946–1948** 在汉诺威[[Normal School|师范学院]]接受 Volksschullehrer（国民学校教师）培训。
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 通过提出“批判建设性教学论”，将[[Critical Theory|批判理论]]（Critical Theory）引入传统的德国[[Geisteswissenschaften|精神科学]]教学论，使教学论成为反思社会结构和个体解放的工具。此外，他发展了早期的能力/素养模型（由自我决定、共同决定和团结能力组成），在德语教育学中具有开拓性。
 > - **方法路径** 提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择与教学规划分析标准。主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与[[Action Research|行动研究]]（Handlungsforschung）的开发。
 > - **政策路径** 在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 师从[[Geisteswissenschaften|精神科学]]教育学代表 Erich Weniger 与哲学与教育学家 Theodor Litt；其教学论思想亦与[[Phenomenology|现象学]]创始人 [[Edmund Husserl]] 的生活世界体验和具身反思传统相呼应。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–4, 6]] 同门同侪包括 Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz，共同塑造了德国二战后至 1970 年代的教育学[[Discourse|话语]]转向。
 > - **学生／继承者**
 >   - Hans Christoph Berg — 学术关系：Klafki 从1990年代起长期支持并积极参与其同僚 Berg 推动的“教学艺术（Lehrkunst）”设计，并担任其二导师。

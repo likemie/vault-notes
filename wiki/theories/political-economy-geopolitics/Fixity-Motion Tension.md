@@ -44,12 +44,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义[[Geopolitics|地缘政治理论]]中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]])。
 >
 > > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]]）
@@ -116,7 +116,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 ## Moisio 在知识经济化中的应用
 
-> [!success] Moisio 在[[Knowledge-Based Economization\|知识经济化]]中的应用
+> [!success|notitle] Moisio 在[[Knowledge-Based Economization\|知识经济化]]中的应用
 > [[Argument_Moisio_2022_Springer\|Moisio (2022)]]将该张力应用于分析当代[[Knowledge-Based Economy\|知识经济]]化，揭示了以下几个关键动态：
 
 
@@ -154,7 +154,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization\|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的假设，仍然是一个开放的方法论问题
 > - 该理论主要基于西方资本主义的历史经验（特别是十九世纪英国和二十世纪美国的工业化与去工业化历程），在非西方政治经济语境中的适用性有待检验
 >

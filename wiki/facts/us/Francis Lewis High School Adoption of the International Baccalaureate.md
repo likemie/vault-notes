@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Francis Lewis High School Adoption of the International Baccalaureate
@@ -68,7 +68,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **载体转换** IB 从服务跨国学生的[[International Schools\|国际学校]]资格转化为美国公立高中内部的学术改革轨道。
 > - **示范转换** 联合国国际学校把 IB 引入美国教育界，弗朗西斯·刘易斯则把项目翻译为公立学校可观察、可询问的实施版本。
 > - **知识扩散** 校长联合宣讲和教师接待把单校经验转化为区域学校网络中的实践知识。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, p. 140)]]

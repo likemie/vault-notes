@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Matthew Arnold
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1822** **拉格比公学校长之子与古典学养启蒙** 出生于英格兰米德尔塞克斯郡莱尔姆（Laleham, Middlesex），其父为著名的历史学家、拉格比公学（Rugby School）校长托马斯·阿诺德（Thomas Arnold）。父亲大刀阔斧推行的公学改革将古典学术修养与基督教绅士人格相融合，确立了维多利亚精英教育的[[Paideia|古典教化]][[Paradigm\|范式]]，使阿诺德自幼深沐欧洲古典人道教养（Classical humanistic [[Paideia]]）。
 > - **1836–1845** **温切斯特公学、拉格比公学与牛津深造** 先后在温切斯特公学与拉格比公学接受严格的希腊语、拉丁语人文学科训练；1841 年考入牛津大学巴利奥尔学院（Balliol College）；1843 年以长诗《克伦威尔》（*Cromwell*）荣获著名的纽迪盖特诗歌奖（Newdigate Prize）；1845 年当选牛津大学奥里尔学院（Oriel College）院士。
 > - **1847–1851** **出任兰斯当勋爵私人秘书步入教育治理中枢** 担任枢密院议长兰斯当第三代侯爵（Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne）私人秘书。这一从政阅历使他得以深入了解辉格党政府核心与国家公共教育决策机制；1851 年由兰斯当勋爵直接任命为英国皇家学校督学（Her Majesty's Inspector of Schools, HMI）。
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了英语世界将比较教育与文化批评、国家哲学和人文教化（[[Bildung]]）深度熔铸的传统，直接启迪了[[Michael Sadler\|萨德勒]]（Sadler）对“[[Intangible Spiritual Forces\|校外无形精神力量]]”的关注以及[[Robert Ulich\|乌利希]]（Ulich）对西方智识文化史的考掘。
 > - **方法路径** 跨越了 19 世纪早期“[[Auslandspadagogik\|外国教育学]]”（Auslandspädagogik）单纯罗列法条与数据的局限，开创了将学校制度置于国家政治结构、阶级冲突与社会思潮中展开历史诠释的比较分析[[Paradigm\|范式]]。
 > - **政策路径** 推动了英国维多利亚中晚期从中等学校调查委员会向 1902 年《巴尔福教育法》（Balfour Act）的演进，为英国告别纯粹私人与教会办学、建立地方教育当局（LEAs）统筹的公立中等学校体系提供了强有力的思想辩护。
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **先驱／同行** [[Victor Cousin]] — 库森 1831 年普鲁士报告开创官方考察先河，阿诺德在此基础上大幅深化了文化批评与中等教育维度；
 > - **继承者** [[Michael Sadler]] — 萨德勒全面继承并深化了阿诺德关于国家干预、文化教化及防范外部地缘竞争的核心关切；
 > - **思想呼应** [[Robert Ulich]] — 乌利希同样将欧洲古典人文主义与国家精神史作为比较研究的核心，致敬阿诺德传统；

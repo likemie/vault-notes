@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Heroic, Strange, and Barbaric
@@ -72,5 +72,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 系统提出“英雄、陌生与野蛮”作为批判[[Discourse|话语]]工具，以辅助转移与[[Educated Identity\|受教育身份]]的伦理拷问，批判新自由主义测评效率对生命脉络的抽空。

@@ -44,12 +44,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials\|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
 >
 > > "Mechanism experiments are small-scale [[Champ\|field]] experiments to test a specific behavioural theory." ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011]])
@@ -58,7 +58,7 @@ updated: 2026-10-16
 
 ## 历史沿革
 
-> [!note-] 历史沿革
+> [!note-|notitle] 历史沿革
 > - 机制实验源自**发展经济学**领域的[[Random Assignment\|随机化]]实验传统——与教育领域从医学借鉴的黑箱 [[Randomised Controlled Trials\|RCT]] 不同，发展经济学家（Duflo, Glennerster, & Kremer, 2006）明确倡导"使用理论作为设计评估和解释结果的必要指导"([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])
 > - 发展经济学家将随机化现场实验视为基于具体原则（来自经济理论或行为科学）实证检验干预的手段（Card, DellaVigna, & Malmendier, 2011）
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 提出将机制实验引入教育"什么有效"策略，作为从黑箱 RCT 转向"什么有效 2.0"的核心改革
@@ -99,20 +99,20 @@ updated: 2026-10-16
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials\|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为[[Unit of Analysis\|分析单位]]
 > - **vs [[Randomised Controlled Trials]]** — 机制实验是 RCT 的一种特定设计取向，不是替代 RCT 而是改革其设计方式
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中迁移的机制原则([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 机制实验通过关注因果机制而非完整项目，直接回应 Cartwright 的外推挑战（it-works-somewhere → it-will-work-for-us）
 > - **发展经济学的[[Random Assignment\|随机化]]传统** — Duflo, Glennerster, & Kremer (2006) 的方法论指导明确强调理论在实验设计和结果解释中的必要作用
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > - 在教育中采用机制实验的系统性实证检验仍处于早期阶段——[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 主要提供方法论论证和操作框架，而非实证结果
 > - 发展经济学领域已积累相关证据（Card, DellaVigna, & Malmendier, 2011）
 > - 行为科学中 BCT 分类法（Michie et al., 2013）已获 250+ 引用，展示了"活性成分"分类在健康干预中的可行性
@@ -137,7 +137,7 @@ updated: 2026-10-16
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
+> [!example|notitle] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 [[Education Endowment Foundation\|EEF]] 角色从聚合项目效果转向编目"活性成分"机制
 > - [[What Works Network]] — 建议汇集跨中心经费建立机制识别专家小组
 

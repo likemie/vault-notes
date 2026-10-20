@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-10
+updated: 2026-10-21
 ---
 
 # 1976 Hague Intergovernmental Conference on the International Baccalaureate
@@ -92,7 +92,7 @@ updated: 2026-10-10
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **责任主体改变** IB 的存续不再只由学校、私人基金会和个人筹款者承担，政府被明确要求把它视为面向跨国流动学生的共同公共服务。
 > - **收入结构改变** 分级出资、扩大出资国范围和学校加费共同形成过渡性收入组合，降低了组织对单一基金会或一次性赠款的依赖。
 > - **治理结构改变** 出资国进入理事会的原则，后来落实为支持国常设会议提名三分之一理事，形成瑞士独立法人、政府代表和 [[UNESCO]] 咨商关系并存的混合治理。

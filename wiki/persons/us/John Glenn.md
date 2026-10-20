@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # John Glenn
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1921** 出生于美国俄亥俄州剑桥镇（Cambridge, Ohio）。
 > - **1942–1959** 加入美国海军陆战队担任战斗机飞行员，在二战太平洋战场与朝鲜战争中执行 149 次作战任务；1959 年入选美国宇航局（[[National Aeronautics and Space Administration|NASA]]）首批宇航员（水星计划 7 人组）。
 > - **1962** 驾驶“友谊7号”（Friendship 7）太空舱成为首位进入地球轨道的美国宇航员，被誉为国家英雄。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Elliott Eisner
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1950–1960 年代** 在芝加哥大学师从本杰明·布卢姆（Benjamin Bloom）与约瑟夫·施瓦布（Joseph Schwab），深受芝加哥学派人文课程传统熏陶。
 > - **1965 年** 加盟斯坦福大学教育学院，开创艺术教育与质性课程研究方向。
 > - **1970–1980 年代** 针对全美盛行的行为目标模式与[[Positivism|实证主义]]标准化测验垄断，系统构想教育鉴赏与批评[[Qualitative Research|质性研究]][[Paradigm|范式]]，发表经典论文《教学的艺术与工艺》（Eisner, 1983）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **课程理论革新** 彻底颠覆了[[Tyler Rationale|泰勒原理]]（Tyler Rationale）自上而下线性的行为目标统治，使课程成为充满探究、意义创生与审美体验的生成性领域。
 > - **质性评价奠基** 开创教育鉴赏与[[Qualitative Observation|质性观察]]方法，使[[Classroom Observation|课堂观察]]摆脱了机械勾画行为频次的死板格式，转向对[[Student-Teacher Relationship|师生关系]]张力与文化氛围的深度阐释。
 > - **反[[Scientism|科学主义]]批评传统** 为当代学者（如 Johnson & Janzen, 2023）抵制《可见学习》等[[Meta-meta-analysis|二阶元分析]]将教学简化为仪表盘读数与统一清单提供了坚实的人文哲学武器。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[John Dewey]] — 继承杜威经验自然主义、艺术即经验的哲学精髓。
 > - **学术论敌** [[Behaviorism|行为主义]]目标派（如 Mager, Popham）及[[Positivism|实证主义]]技术规训论者（如 [[David Carnine]]） — 围绕课程目标能否被预先行为化、教学是否属于流水线技术操作展开深刻论战。
 > - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。

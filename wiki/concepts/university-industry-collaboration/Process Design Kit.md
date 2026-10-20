@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Process Design Kit
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建集成 PDK/ADK 与[[Multi-Project Wafer|多项目晶圆流片]]的国家级开放设计基础设施，打破设计工具与先进制造资源准入壁垒，支撑全栈[[Hardware Security|硬件安全]]与[[Co-Design|协同设计]]。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明通过[[National Semiconductor Technology Center|国家半导体技术中心]]云端设计网关集中托管商业 PDK 与开源模型，降低芯片前端设计、封装装配与流片验证门槛。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析美国高校与科研机构依托开源指令集、开放 PDK 与共享流片平台参与国家半导体创新网络建设的实践模式。

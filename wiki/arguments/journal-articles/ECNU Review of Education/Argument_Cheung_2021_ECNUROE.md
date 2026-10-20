@@ -47,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2021
 doi: ""
 citation_aliases:
@@ -56,12 +56,12 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 高质量研究和证据在教育政策与实践中是否扮演着如在医学领域一样重要的角色？(p.1)
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 采用 Slavin et al. (2020) 的[[Evidence-Based Reform\|证据本位改革]]四项核心活动框架组织全刊文章(p.2)：
 >
 > 1. **创建持续增加知识和有效实践的政策与系统（policies and systems）**
@@ -71,14 +71,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：Editorial（特刊导言），对八篇文章进行主题归类与概述
 > - 数据来源：ECNU Review of Education 2021 年第 4 卷第 1 期特刊 "[[Evidence-Based Reform]] in Education: Global Perspectives"
 > - 覆盖范围：七个国家（亚洲、北美、欧洲）
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **前提** 长期以来，教育政策基于意识形态立场或个人观点而非证据(p.1)
 > 2. **类比论证** 医学领域在 COVID-19 疫情中依赖大规模、高质量的[[Randomised Controlled Trials\|随机对照试验]]评估治疗方案和疫苗，教育领域应同等对待证据
 > 3. **框架组织**将特刊八篇文章按 Slavin et al. (2020) 的四项核心活动分类呈现，展示[[Evidence-Based Reform\|证据本位改革]]在全球的进展(p.2)
@@ -86,7 +86,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 特刊八篇文章的核心发现(pp.2–3)：
 >
 > **政策与系统维度：**
@@ -108,7 +108,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “在很长一段时间里，教育政策都是基于意识形态立场或个人观点，而不是证据或最佳实践。”
 > ("For a very long time, educational policies have been based on ideological standpoints or individual views rather than evidence or best practices.")(p.1)
 >
@@ -119,7 +119,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 作为 Editorial，本文是对特刊的导言性概述，不包含独立的实证研究或系统性[[Literature Review\|文献综述]]
 > - 对[[Evidence-Based Reform\|证据本位改革]]的立场偏向支持（将教育类比医学的框架），未充分呈现批评阵营（如 Biesta et al.）的论点
 > - 中国大陆[[Experimental Research\|实验研究]]"数量和质量令人担忧"的诊断仅为一句话断言，未在 Editorial 篇幅内展开论证

@@ -65,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Affective Outcomes
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1964 — 情感域分类框架确立** Krathwohl、Bloom 与 Masia 联合出版《教育目标分类学·第二分册：情感域》，确立情感从“接受、反应”到“价值化、组织化、性格化”的层级体系，为情感产出奠定理论基石。
 > - **1980s–2000s — [[Cooperative Learning\|合作学习]]效果研究将情感纳入指标** Johnson & Johnson、Slavin 等学者开展合作学习实证研究，逐步将态度、动机与[[Self-Efficacy\|自我效能]]等非认知[[Variable\|变量]]纳入教学成效评估。
 > - **2010s — 情感子维度一阶[[Meta-analysis\|元分析]][[Emergence\|涌现]]** Çapar & Tarım (2015)、Kyndt et al. (2013)、Liu and Lipowski (2021) 等元分析分别在数学、多学科及体育领域系统量化了教学干预对学科态度与内在动机的效应。
@@ -210,6 +210,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，系统综合 6 项一阶[[Meta-analysis\|元分析]]中关于情感产出的实证证据，量化确立[[Cooperative Learning\|合作学习]]对[[Student Attitude\|学生态度]]、内在动机与自信心的中等促进效应（$ES = 0.51$），并揭示学科[[Task Structure\|任务结构]]对情感效应的显著调节作用。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]]在严格控制基线等效前提下，检验生成式 AI 对大学生情感动机状态（AMS）的促进效应（$g^+ = 0.617$），表明无评判压力的人机交互能有效缓解求助焦虑并显著强化非认知维度的积极学习动力。

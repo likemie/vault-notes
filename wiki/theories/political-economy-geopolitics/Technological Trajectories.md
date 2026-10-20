@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technological Trajectories
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释不同产业与技术系统变迁的方向、速率与累积演进路径，揭示为何技术变革不是完全随机的自由探索，而是受制于特定知识基础、用户需求与制度规则的“轨道约束”与“[[Path Dependence|路径依赖]]”。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–345)]]
 > - **理论问题** 破解新古典经济学“技术要素均质替代”、“无摩擦扩散”与“市场自发达致最优技术组合”的理论虚构，解释产业间创新模式为何呈现结构性[[Heterogeneity|异质性]]，以及既有成熟技术如何形成强大的自增强锁定并阻碍新兴颠覆性技术的发育。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 156–158)]]
 > - **理论类型** [[Evolutionary Economics|演化经济学]]微观与中观基础解释理论、产业技术创新动力学[[Analytic Framework|分析框架]]。
@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 制造业、物理与生命科学等具有清晰硬件载体、工艺流程与长期知识积累的实体产业部门。
 > - **成立条件** 需要技术变迁具有相对稳定的认知边界与物理定律约束；需要行业存在可辨识的技术经济[[Paradigm|范式]]。
 > - **解释不足** 对数字化时代平台经济、开源软件以及基于零边际成本的商业模式创新的适配性有所减弱；对[[Geopolitics|地缘政治]]打压下非市场因素强行割裂技术轨道的冲击缺乏充分内生解释。
@@ -316,7 +316,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统梳理三代使命政策引导技术轨迹的历史形态，提出依托[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]与协同跨部门轨迹的路径。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心因素（技术来源、用户需求与专有性机制），奠定产业创新分类学经典基石。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何将技术轨迹理论应用于新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，阐明由国家设定方向并打破高碳锁定以开辟全新技术轨道的理论逻辑。

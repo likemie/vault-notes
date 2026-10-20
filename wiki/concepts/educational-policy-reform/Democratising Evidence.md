@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Democratising Evidence
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000s — 开源获取与公共参与萌芽** 学界开始反思学术期刊出版壁垒对公众知识获取的阻碍，开放获取（Open Access）运动兴起，为证据大众化奠定技术基础。
 > - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]底座** Van de Ven & Johnson 提出[[Engaged Scholarship\|参与式学术]]，将理论与实践的断层定性为[[Knowledge Production\|知识生产]]方式问题，倡导学者与实践者共同研究复杂挑战。
 > - **2014 — 卡内基基金会严谨与相关性计划启动** 率先倡导大学建立政策学术停钟制度，允许青年学者在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆，打破唯论文考核惯性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 231)]]
@@ -221,7 +221,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇聚 [[Vivian Tseng]] 与 Makito Yurita 的专题论辩，系统奠定证据民主化的[[Epistemology\|认识论]]批判、资助制度重构准则以及对功利可用性修辞的专业受托伦理反思。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理[[OECD\|经合组织]]国家[[Evidence Ecosystem\|证据生态系统]]的制度演进，探讨从单一线性[[Knowledge Transfer\|知识转移]]向多元利益相关者协同共创的全球政策趋势。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在特刊中阐述[[Knowledge Mobilisation\|知识动员]]与跨界中介人的培育路径，为证据民主化中[[Research-Practice Partnership\|研究-实践伙伴关系]]的微观运行机制提供实证案例支撑。

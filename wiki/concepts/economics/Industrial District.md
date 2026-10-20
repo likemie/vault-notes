@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Industrial District
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1890 — 马歇尔奠定产业区概念** 在《经济学原理》中考察英国谢菲尔德餐具业与兰开夏纺织业，首次提炼外部经济与工业区网络。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **1984 — 皮奥里与萨贝尔提出“第二次工业分界”** 将意大利中北部（普拉托纺织、博洛尼亚机械）的崛起概括为弹性专精对福特制大规模流水线的抗衡，引发全球产业区复兴研究。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **1990s — [[Systems of Innovation|创新系统]]与集群理论融合** Freeman、Saxenian 与 Porter 等学者将产业区接入国家与[[Regional Innovation System|区域创新系统]]模型，使之成为解释硅谷等现代高新技术集聚的核心工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
@@ -143,5 +143,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合马歇尔、皮奥里与萨贝尔的洞见，论证次国家产业区在后工业全球化时代依然是维系[[National Competitive Advantage|国家竞争优势]]的核心空间单元。

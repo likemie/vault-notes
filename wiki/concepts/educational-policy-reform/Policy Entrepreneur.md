@@ -70,7 +70,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Entrepreneur
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 政策企业家（Policy Entrepreneur） | 前转移代理人（[[Pre-Transfer Agency]]） | 政策借用（[[Policy Borrowing]]） |
 > |---|---|---|---|
 > | **主要分析对象** | 在公共部门、智库、慈善信托与商业资本间跨界流动的网络化能动主体 | 桥接国际政策源地和本土接纳地之间的政策翻译与引介中介 | 主权国家或地方政府吸收外部教育体制与实践的宏观决策行为 |
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会矛盾、宏观政治动向与政府资助激励，在危机舆论爆发或财政拨款开启的短暂窗口期，迅速将预设的改革方案与社会痛点精准耦合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 > - **跨界网络协同与多边同盟（Cross-Sector Networked Coalition）** 依托资深政界精英人脉、智库研究资源与学术领袖威望，绕过传统官僚[[Bureaucracy|科层制]]阻隔，组建跨越两党政要、商业领袖、基金会与专业组织的多元协同网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 73–74)]]
 > - **实证指标与核心价值策略性打包（Strategic Framing & Evidence Packaging）** 善于将冷峻的量化差距指标（如全美学生成绩评估 [[National Assessment of Educational Progress|NAEP]] 鸿沟、国际数学和科学评测 [[TIMSS]] 课程差距）与国家经济安全、阶层流动及社会正义等根本价值符号深度绑定，制造改革共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
@@ -194,7 +194,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1984 — [[Multiple Streams Framework|多源流模型]]与概念首创** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作《议程、备选方案与公共政策》中首创政策企业家概念，描述其如何将问题、方案与政治三条溪流在机会窗口期耦合。
 > - **2000 — 教育系统内自下而上政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）将概念系统引入教育政策领域，探讨教育系统内部行动者如何打破[[Bureaucracy|科层制]]惯性，推动[[School Autonomy|学校自主]]（[[School Autonomy]]）与[[School Choice|择校]]（[[School Choice]]）创新。
 > - **2012 — 全网化治理与跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络治理]]视阈，揭示跨国政策企业家与智库如何穿透民族国家边界输出新自由主义商业规训。
@@ -244,7 +244,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育中政策企业家跨界无缝切换的机制，揭示[[Dual-Entity Legal Structure|双层法人架构]]与学术资本商业化变现路径。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用结合，揭示跨界行动者动员实证差距指标突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 采纳。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家引入理性主义比较教育发展框架，解释分散权威空间中基于基准数据的[[Governing at a Distance|远处治理]]协调机制。

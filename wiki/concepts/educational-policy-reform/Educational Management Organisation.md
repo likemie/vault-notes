@@ -56,7 +56,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Management Organisation
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **双层混合法人架构（Two-tier Corporate Structure）** 组织顶端设立具有免税资质的慈善信托，名义上服务于教育公益目的；底层设立 100% 控股的营利性有限责任公司，专职参与市场化商业竞标与跨国商业拓展（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 65–68]]）。
 > - **税收冲抵与利润内循环机制（Tax-exempt Arbitrage & Retained Earnings）** 营利性子公司参与教育部高额采购合同获取可观营业利润，随后将大部分利润以慈善捐赠形式全额转移给母体信托，直接冲抵企业应纳税所得额使其纳税额归零；留存资金则由母体信托自主开展金融投资或海外商业并购（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 71–73]]）。
 > - **“固有慈善目的”免责抗辩（Inherent Charitable Purpose Doctrine）** 非营利母体将其全部有偿商业活动组合均解释为天然具有慈善公益性质，进而抗辩并免除从高额运营盈余中向社会公立学校进行实质慈善现金反哺的法定义务（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vii]]）。
@@ -202,7 +202,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 美国营利性 EMO 模式兴起** 随着美国特许学校（Charter Schools）立法浪潮，爱迪生学校（Edison Schools，后发展为 EdisonLearning Inc.）作为最早的营利性 EMO 创立，开创了由私营公司全面承包公立学校管理的模式，并在随后的十余年间向英国、非洲拓展，服务超过 350 所学校与 15 万名学生（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 19–20]]）。
 > - **2000s — 欧洲与英国连锁学院信托（MATs）的制度化** 英国工党与保守党相继推行学院计划（Academies），催生了以多学院信托（Multi-Academy Trusts, MATs）为代表的“学校连锁（School Chains）”；瑞典自由学校（Friskolor）法案亦允许营利性企业运营学校连锁，EMO 概念从美洲本土扩展为跨国治理模式（Muir, 2012; Papanastasiou, 2013）。
 > - **2010 — 新西兰本土混合 EMO 的法人重构** 新西兰原服务于教育部的 [[Cognition Education|Multi Serve Education Trust]] 进行资产重组，分立为 Cognition Education Trust 与营利性全资子公司 Cognition Education Limited，开创了新西兰本土 EMO 独特的双层法人免税运作模式；[[CORE Education]] 亦通过整合迅速崛起（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65, 76]]）。
@@ -258,7 +258,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 [[CORE Education]] 为代表的 EMO [[Dual-Entity Legal Structure|双层法人架构]]、税收冲抵套利与民主问责真空。
 > - Bray (2007) — 全球比较研究，剖析影子教育与私营补习机构对教育公平的侵蚀机制。
 > - Papanastasiou (2013) — 剖析英格兰与威尔士公费学校体系中私营 EMO 与学院连锁机构的政策推进路径。

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Financial-Intellectual Complex
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 — 独立研究帝国奠基** [[World Bank|世界银行]]发表《教育部门政策文件》，单方面终结对[[UNESCO|教科文组织]]的技术依附，开启由华盛顿总部集中统摄的教育政策与收益率计量帝国。
 > - **1992/1993 — 财智复合体批判确立** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的结构调整本质。
 > - **1994 — 高教领域与企业联盟亲和拓展** [[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky）深入阿根廷高教案例，揭示世行如同跨国[[Business Roundtable|商业圆桌会]]议般推动高等教育商业化与学费成本分摊。
@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育结构调整与新自由主义规训。
 
 ---

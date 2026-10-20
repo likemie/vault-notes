@@ -53,19 +53,19 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 国民教育（National Education）在香港语境中是指旨在培养香港青少年对中华人民共和国的国家认同、爱国情感和法律服从的教育内容与实践。它不是一个单一的学校科目，而是渗透于课程、课外活动和学校管理中的政治社会化过程。
 
 ---
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > 1. **国家认同培养** — 训练学生认同"我是中国人"的身份，视香港为中国不可分割的一部分
 > 2. **中共忠诚** — 将中共定位为"[[Zhonghua Minzu\|中华民族]]唯一合法代表"（Vickers & Morris, 2022, p. 47）
 > 3. **守法教育** — 法治被重新表述为对《国安法》和中央权威的服从
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的文献（Vickers & Morris, 2022）认为天平已完全倾向前者。
 > - **vs [[Patriotic Education|爱国主义教育]]（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development\|CSD]] 是爱国主义的课程载体。
 > - **vs [[Liberal Studies]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - [[Nation Building through Education]] — 中共通过教育在边疆地区推行统一的"[[Zhonghua Minzu\|中华民族]]"认同
 > - [[Membership-Creating Function of Education]] — Ramirez and Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时编码了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
 > - **Vickers (2023)** — 习近平的[[National Rejuvenation Narrative|民族复兴]]项目以"中国梦"为名，通过教育强化中央集权、消除区域文化差异
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 历史沿革
 
-> [!note-] 历史沿革
+> [!note-|notitle] 历史沿革
 > - **1997 年前** — 殖民地时期，教育体系刻意淡化中国国家认同，避免与中国建立文化政治纽带
 > - **1997 年回归** — 江泽民在特区成立庆典上强调"血浓于水"的亲情叙事，将回归描绘为"回归祖国怀抱"
 > - **1998-2000** — 首任特首董建华的《施政报告》逐步提出国民教育方向，但以"[[Lifelong Learning\|终身学习]]"和"[[Knowledge-Based Economy\|知识经济]]"等中性[[Discourse|话语]]包装
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
+> [!example|notitle] 相关案例／政策
 > - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[Citizenship and Social Development\|CSD]] 取代 LS — LS 被 CSD 取代
 > - [[National Security Law\|National Security Law Impact on Hong Kong Education]] — 国安法的教育后果

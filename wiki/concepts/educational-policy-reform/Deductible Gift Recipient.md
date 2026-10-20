@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deductible Gift Recipient
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **法定特许壁垒突破（Statutory Concession Breakthrough）** 澳大利亚各州公立学校本身不具备 DGR1 资质，富裕群体向公立学校直接捐款无法抵税；国家通过设立中介机构并赋予其 DGR1，打破了公立学校无法直接吸纳全国免税资本的法定限制。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 528, 530)]]
 > - **税收支出（Tax Expenditure）的逆向再分配** 捐赠人每捐出 1 澳元，即可从应纳税额中全额扣减，实质上是以国家税基缩减为代价，将公共财权让渡给私人慈善家决定资金流向。
 > - **项目制竞争与商业量规规训** 通过 DGR1 渠道流入学校的资金并非全额无偿保障，而是被包装为竞争性赠款项目，迫使弱势公立学校迎合企业制定的考评量规。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1997 — 澳大利亚税法整合与 DGR 框架确立** 《1997年所得税评估法》（ITAA 1997）第 30 条系统确立 DGR 分类体系，将受赠机构严格划分为第一类（直接运营者）与第二类（辅助基金）。
 > - **2001 — 私人辅助基金（PAFs）制度创生** 联邦政府创设 PAFs 机制，允许富裕家族与跨国企业设立免税基金池，催生了巨额沉淀资金寻找 DGR1 承接载体的迫切需求。
 > - **2011 — Gonski 审查提议公立学校引入民间慈善捐款** [[David Gonski\|戴维·冈斯基]]领衔的首期资助审查报告正式建议联邦政府为公立学校设立免税募款通道。
@@ -175,6 +175,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统追踪全澳公立学校首个 DGR1 资质的立法确立过程，揭示其作为税收特许管道重塑公共财政再分配的运作机理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体理论，分析 DGR1 与公司法注册等耐用材料在教育政策跨国流动中的装配效应。

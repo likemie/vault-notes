@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Edward de Bono
@@ -73,7 +73,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1933 年** 出生于马耳他，早年就读于马耳他圣爱德华学院，后获得马耳他大学医学学士学位。
 > - **1950 年代** 作为罗德学者前往牛津大学基督教会学院攻读心理学与生理学，获得荣誉硕士学位，随后获得剑桥大学医学博士学位（Ph.D.）。
 > - **1967 年** 出版《The Use of [[Lateral Thinking]]》，正式提出“侧向思维”[[Construct\|构念]]，掀起全球关于打破逻辑线性思考的思维革命。
@@ -110,7 +110,7 @@ updated: 2026-10-15
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 先驱性提出了大脑神经网络的自组织模式动力学，不仅深刻启发了当代[[Creativity\|创造力]]认知科学，更成为人工智能联结主义模型的早期哲学先声之一。
 > - **方法路径** 开发的激发算子（PO）、随机词联想法与[[Lateral Thinking\|侧向思维]]谜题成为全球思维训练的标准训练载体；六顶思考帽重构了现代会议与团队平行决策流程。
 > - **政策与教育路径** 其 CoRT 思维教学方案被英国、澳大利亚、新加坡、爱尔兰等多国教育部直接纳入基础教育国家课程标准或资优生拔尖计划。
@@ -119,7 +119,7 @@ updated: 2026-10-15
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术传承** 查尔斯·谢灵顿（Charles Sherrington）学派 — 其在牛津所受的神经生理学严格训练为其自组织模式假说奠定了坚实的生物学实证根基。
 > - **理论对话者** [[Alex Osborn\|亚历克斯·奥斯本]]（[[Alex Osborn]]） — 共同推进[[Divergent Thinking\|发散思维]]工具化，德·博诺更偏向个体认知哲学与[[Metacognition\|元认知]]调控，奥斯本更偏向群体互动。
 > - **实证检验者** 丁成生（Ding et al., 2014）与郭恒等（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]） — 开展[[Meta-analysis\|元分析]]量化证实其 CoRT 项目与[[Lateral Thinking\|侧向思维]]训练的高效能（$d = 0.58, g = 0.762$）。

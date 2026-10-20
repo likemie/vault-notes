@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Variable
@@ -255,7 +255,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]中[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、预测变量、结果变量、中介变量、调节变量与混淆变量的功能定义与彩虹理论模型（pp. 54–56）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐述教育研究中变量的概念性定义与[[Definition of Terms|操作性定义]]步骤，以及变量的五类划分标准（Ch. 2）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深入剖析比较教育第三代际实证学者通过以“变量”替代“体系”追求通则因果定律的[[Epistemology|认识论]]转向，并反思方法论主义对历史脉络的抽空（pp. 147–149）。

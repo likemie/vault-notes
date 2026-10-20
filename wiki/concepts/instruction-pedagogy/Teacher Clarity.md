@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teacher Clarity
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **目标与准则显性化（Clarity of Intentions & [[Success Criteria]]）** 明确宣告“本次课要学什么”以及“达到何种标准才算掌握”，使学习者从开端即拥有清晰的自我监控参照系。
 > - **概念阐释的结构严密性（Conceptual Structural Transparency）** 运用[[Concept Mapping|概念图]]、先行组织者与多维对比，清晰梳理新旧知识交汇点，揭示学科知识的深层内在网络。
 > - **分步示范与支架化指令（Explicit [[Scaffolding]] Instructions）** 将复杂任务拆解为阶段性子任务，通过“出声思考（Think-Aloud）”向学生全景展示解题专家的思维推理过程。
@@ -185,5 +185,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Anne Applebaum
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1964** 出生于美国华盛顿特区。
 > - **1986** 毕业于耶鲁大学历史与文学专业，后在伦敦政治经济学院与牛津大学圣安东尼学院深造。
 > - **1988–1991** 担任《经济学人》驻华沙记者，亲历并报道中东欧剧变与苏联解体。
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **极权史学路径** 通过一手档案全景重构古拉格与大饥荒历史，确立了极权制度受害者视角的历史编纂学[[Paradigm|范式]]。
 > - **民主韧性研究路径** 揭示了西方内部知识精英倒向威权主义的心理与利益机制，引发了关于民主防卫机制的全球讨论。
 > - **大战略反思路径** 卡普与扎米斯卡（2025）将[[Michael W. Apple|阿普尔]]鲍姆关于“无强制力即无规则”的论断作为破除绝对和平主义幻想的理论基石，主张以技术[[Hard Power|硬实力]]重塑国际秩序执行力。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想盟友** 蒂莫西·斯奈德（Timothy Snyder） — 耶鲁大学中东欧史教授，《黑土地》《暴政》作者。
 > - **政治家伴侣** 拉多斯瓦夫·西科尔斯基（Radosław Sikorski） — 波兰外交部长、著名大西洋主义战略家。
 > - **反威权合作者** 加里·卡斯帕罗夫（Garry Kasparov） — 国际人权基金会主席。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Michael W. Apple|阿普尔]]鲍姆关于“不存在自然的自由主义世界秩序”与“无执行力即无规则”的深刻警示，论证[[Technological Republic|技术共和国]]重筑[[Hard Power|硬实力]]防卫底座的不可替代性。
 
 

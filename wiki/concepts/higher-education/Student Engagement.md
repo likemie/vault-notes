@@ -60,7 +60,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Student Engagement
@@ -248,7 +248,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层习性对学生投入量与方向性的深层分化机制。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 

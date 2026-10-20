@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Proto-Scientific Motif
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1817 — 朱利安确立准科学母题** 发表《比较教育工作计划》，首次将比较解剖学类比与标准化比较观察图表引入教育探究，确立准科学与世界和平双重视角。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 12–14)]]
 > - **19世纪中叶 — 准科学母题的历史湮没与行政借用分流** 朱利安的超国家设想因时代局限被各国遗忘，19 世纪中叶比较教育转向以[[Victor Cousin\|库森]]、曼、巴纳德为代表的以主权国家立法合法化为重心的“行政[[Educational Meliorism\|改良主义]]母题”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 24–25, 33–34)]]
 > - **1940s–1960s — 文本再发现与[[Positivism\|实证主义]]重新解读** 罗塞洛（Pedro Rosselló）与弗雷泽（Stewart Fraser）重新发掘朱利安手稿，推尊其为“比较教育之父”；诺亚与埃克斯坦等学者从逻辑实证主义视角重新评估其[[Questionnaire\|问卷]]与[[Scientific Method\|科学方法]]论。
@@ -227,5 +227,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统界定朱利安对比较教育现代性开创的“准科学人道改良母题”，并与 19 世纪欧美的行政[[Educational Meliorism\|改良主义]]母题进行全景式学科史学史对照剖析。

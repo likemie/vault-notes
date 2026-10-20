@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Aims
@@ -182,7 +182,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1986–2003 — 哲学[[Epistemology\|认识论]]奠基** Goldman (1986) 与 Kvanvig (2003) 阐述认识论的核心是达成真理与深层理解等认识成就，奠定了认识论目标的规范哲学底座。
 > - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]首要构件** Chinn 等学者将认识目标确立为扩展认识论认知五构件的第一组件，用以划定认识论认知与非认识论倾向的边界。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型核心支柱** Chinn, Rinehart & Buckland 提出 AIR 模型，将认识目标（Aims）与理想（Ideals）、[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）整合为三元微观动态网络。
@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证证实了[[Epistemology\|认识论]]干预对指向深层理解与高阶论证的认识目标具有显著促进效应，并量化揭示了测验目标对齐的调节机制。

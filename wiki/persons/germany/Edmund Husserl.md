@@ -54,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Edmund Husserl
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其[[Intentionality|意向性]]概念启发，决意终身转向哲学研究。
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 直接开创了欧陆[[Phenomenology\|现象学]]学派，深刻影响了海德格尔、萨特、梅洛-庞蒂等后继者的存在主义与具身现象学。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **方法路径** [[Epoché\|悬置]]和现象学还原方法成为[[Qualitative Research\|质性研究]]中[[Interpretive Paradigm\|诠释范式]]的核心反思工具，为超越表面行为记录、探究参与者深层主观意义提供了[[Epistemology\|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）转译并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning\|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]]
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者**
 >   - **弗朗茨·布伦塔诺（Franz Brentano）** 哲学启蒙导师，激发了胡塞尔对[[Intentionality|意向性]]概念的哲学思考。
 >   - **卡尔·施图姆普夫（Carl Stumpf）** 授课资格论文导师，实验心理学先驱。

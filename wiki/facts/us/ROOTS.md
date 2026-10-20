@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # ROOTS
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ROOTS 评定为初等数学 Tier 2 小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 ROOTS 如何作为 Tier 2 小组防线保障数学困难学生在普通班级中成功立足。
 > - [[Fraction Face-Off!]] — 初等数学高年级（四年级）助教小组辅导代表方案，与 ROOTS 共同构成初等数学 Tier 2 循证支柱。

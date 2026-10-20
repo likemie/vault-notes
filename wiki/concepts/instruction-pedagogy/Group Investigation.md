@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Group Investigation
@@ -166,5 +166,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将小组[[Survey Research\|调查法]]（Group Investigation）作为独立教学技术亚组进行二阶合成，报告加权平均[[Effect Size\|效应量]] $ES = 1.08$，证实其在自然科学探究与情感激发中的高效益。

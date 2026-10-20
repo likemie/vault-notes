@@ -30,7 +30,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sustainability Education
@@ -94,5 +94,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 系统阐述可持续[[Development Education|发展教育]]在基础科学教育中的战略地位，呼吁全校协同推进绿色技能与生态素养培养。

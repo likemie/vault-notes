@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Directionality of Innovation
@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1980s — 线性科学推动与技术中立观** 战后[[Vannevar Bush|万尼瓦尔·布什]]报告确立了“政府资助基础科学 $\to$ 市场自发转化”的线性模型，主流经济学预设技术创新具有自发增进福利的中立性，政策仅关注研发支出占 GDP 比重等“速率”指标。
 > - **2000s — [[Evolutionary Economics|演化经济学]]与重大社会挑战转向** 面对气候变化与不可持续发展危机，演化经济学家（如 Weber & Rohracher）正式提出“方向性失灵”（Directionality Failure），指出缺乏共同转型愿景是阻碍系统性变革的根本瓶颈。
 > - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]][[Paradigm|范式]]确立** Kattel 与 Mazzucato 发表奠基性论文，系统提出经济增长不仅有速率更有方向，主张公共政策必须通过“倾斜竞争环境”（[[Tilting the Playing Field]]）与[[Market Shaping and Creating|市场塑造]]，主动引领创新流向绿色、智慧与包容方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–798)]]
@@ -257,7 +257,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 奠定创新的方向性理论基石，系统论证经济增长的速率与方向之别，提出克服方向性失灵、[[Market Shaping and Creating|市场塑造]]与[[Public Dynamic Capabilities|公共部门动态能力]]框架。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析美国国家半导体体系中[[Research Universities|研究型大学]]的角色重构，阐明国家[[Securitization of Technology|技术安全化]]如何作为最高方向性使命重塑大学基础研究、人才培养与产学中试共置网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 论证美国科技政策从自由探索科学契约向技术导向型契约的转变，揭示国家战略方向性动员下科研体系向国家实验室、公私联合体与大学自由探索三轨分化的深层机制。

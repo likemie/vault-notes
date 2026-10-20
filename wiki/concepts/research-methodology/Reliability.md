@@ -82,7 +82,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Reliability
 
@@ -290,7 +290,7 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统阐述教育研究中量化信度的三种形式（稳定性、等值性、[[Internal Consistency|内部一致性]]）与[[Qualitative Reliability|质性信度]]（可依赖性、[[Trustworthiness|可信赖性]]）的核心内涵与争议。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 5)]] — 梳理教育调查[[Questionnaire|问卷]]中的[[Test-Retest Reliability|重测信度]]、[[Parallel-Forms Reliability|复本信度]]、[[Split-Half Reliability|折半信度]]与[[Inter-Rater Reliability|评分者信度]]，确立信度系数评价阈值与[[Kitwood's Paradox|信度效度权衡]]法则。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières [[Space of Equivalence|等值空间]]理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。

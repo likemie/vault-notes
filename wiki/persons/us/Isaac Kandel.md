@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Isaac Kandel
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1881** **欧洲犹太家庭出身与博雅文化滋养** 出生于罗马尼亚布加勒斯特的一个犹太家庭，幼年随家庭迁居英国曼彻斯特，深沐欧洲中心主义自由人文教养与传统英国自由主义熏陶。正如贝雷迪在悼念中所深情赞颂：坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，其犹太精神纯粹而坚定。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 46)]]；引自 Bereday (1966: 147–150)
 > - **1898–1906** **曼彻斯特大学受业[[Michael Sadler\|迈克尔·萨德勒]]** 在曼彻斯特大学攻读古典学与历史学，受教于英国比较教育先驱[[Michael Sadler\|萨德勒]]，系统汲取了[[Intangible Spiritual Forces\|校外无形精神力量]]、活体有机体与情境不可移植性等核心洞见，奠定了其终身治学的史学与哲学基石。
 > - **1906–1908** **德国耶拿大学深造赫尔巴特学派体系** 赴德国耶拿大学（University of Jena）深造，师从著名教育家威廉·莱因（Wilhelm Rein），接受系统的赫尔巴特学派教育哲学、教学论与欧陆制度科学学术训练。
@@ -196,7 +196,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **学派[[Paradigm\|范式]]奠基** 开创的[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]在半个世纪里主导了西方比较教育学界，深刻塑造了[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）、[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）、[[George Bereday\|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]等数代学者的学术底色。
 > - **极权主义与政治反思** 首次将国家作为核心解释[[Variable\|变量]]，其对法西斯极权教育的跨国揭露成为政治社会学与教育[[Critical Theory\|批判理论]]的经典文献。
 > - **机构档案与史学挖掘** 西班牙学者佩雷拉长期致力于开掘坎德尔散落于大西洋两岸的档案，[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）借此案例揭示推进高质量学科史研究所面临的巨大现实阻力与制度资助缺失。
@@ -234,7 +234,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术导师与启蒙者** [[Michael Sadler\|萨德勒]]（曼彻斯特大学导师，历史文化传统的精神之父）、保罗·门罗（哥大博士导师）。
 > - **同道与后继** 汉斯、[[Robert Ulich\|乌利希]]（同为历史-哲学学派巨擘）；贝雷迪（哥大后继讲座教授，撰文深情继承并总结其学术遗产）；卡扎米亚斯（历史-哲学遗产的辩护者与[[Reflexivity\|反思性]]批评者）。
 > - **学术论敌与论战者** 早期[[Positivism\|实证主义]][[Policy Borrowing\|教育借用]]论者；战后实证科学化派（[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）等人批评历史哲学方法缺乏[[Variable\|变量]]控制与可检验性）。

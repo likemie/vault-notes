@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Manuel Castells
@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1942** 出生于西班牙阿尔瓦塞特省埃林。
 > - **1960s** 积极参与反对佛朗哥独裁统治的学生运动，流亡法国巴黎，于巴黎大学（索邦）获得社会学与经济学学位，受教于阿兰·图海纳（Alain Touraine）。
 > - **1967–1979** 任教于巴黎第十大学（南泰尔分校）与法国高等社会科学研究中心（EHESS），开展城市社会学批判研究。

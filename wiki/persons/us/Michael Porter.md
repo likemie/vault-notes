@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Michael Porter
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于美国密歇根州安娜堡。
 > - **1969** 毕业于普林斯顿大学航空航天与机械工程专业，获理学学士学位。
 > - **1971–1973** 先后获哈佛商学院工商管理硕士（MBA）学位及哈佛大学经济学博士学位。
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** [[National Competitive Advantage|钻石模型]]直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
 > - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象假设。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、[[EU|欧盟]]委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想共振者与理论对话者** [[Chris Freeman]] — 弗里曼在[[National Innovation System|国家创新系统]]历史考察中直接援引波特理论，共同捍卫国家创新制度环境面对全球化冲击的不可替代性。
 > - **批评与理论解构者** [[Critical Geopolitics|批判地缘政治学]]派（如 [[Sami Moisio]], [[Bob Jessop]]）— 将波特从客观管理学者重新定性为新自由主义[[Geopolitics|地缘政治]]想象的建构者。
 > - **政策承接机构** [[OECD|经济合作与发展组织]]（OECD）— 将波特的集群竞争框架转化为各成员国科技政策与区域创新政策的推荐标准。

@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -45,13 +45,13 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > - 任职于牛津大学教育研究系（Department of Educational Studies, University of Oxford）
 > - 专注于比较教育学、教育政策转移、德国教育研究
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Phillips, D. (1987). Lessons from Germany? The case of German secondary schools. *British Journal of Educational Studies*, XXXV(3), 211–232. — 用德国中学体系的案例警示英国不要轻易借鉴
 > - Phillips, D. (1989). Neither a borrower nor a lender be? The problems of [[Cross-National Attraction]] in education. *Comparative Education*, 25(3), 267–274. — 早期对[[Cross-National Attraction\|跨国吸引]]力概念的探索
 > - Phillips, D. (1992). Borrowing educational policy. In D. Finegold, L. McFarland & W. Richardson (Eds.), *Something Borrowed, Something Learned?* — 对[[Policy Borrowing\|政策借用]]现象的早期分析
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Phillips 的核心学术贡献在于将教育政策转移从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
 >
 > > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... [[CREATES Project\|CREATES]] for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 [[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 226]])
@@ -75,13 +75,13 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - **[[Policy Borrowing\|政策借用]]四阶段模型（Four Stages of Policy Borrowing）** — 与 Ochs 共同提出，将政策借用过程分解为[[Cross-National Attraction\|跨国吸引]]力→决策→实施→内化／本土化四个循环阶段（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 与 Ochs 共同提出，识别六类政策焦点（指导哲学、目标／抱负、策略、赋能结构、过程、技术）和 13 种情境因素（Ochs & Phillips, 2002）
 > - **德国教育研究** — 对德国三轨制中学体系的持久性、盟军占领期教育改革、以及德国教育传统进行了系统研究
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - Phillips & Ochs 的模型启发了 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 进一步发展[[Cross-National Attraction\|跨国吸引]]力情境[[Concept Mapping\|概念地图]]，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
 > - 影响了 Steiner-Khamsi 等学者对[[Policy Borrowing\|政策借用]]政治维度的深入研究

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Funding Exit Mechanism
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **明确的断乳触发标志（Transition Indicators）** 外部私营巨头自筹资金设立量产线、常规科学基金（如 [[National Science Foundation|NSF]]）全面接盘，或学术界主流共识确立。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 > - **防范学术与产业寻租依赖（Preventing Capture）** 坚决拒绝学术带头人或大企业将国家战略研发专项视为长期“维持性经费”的游说诉求。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1146)]]
 > - **公共资金向下一个前沿的敏捷重定向（Capital Re-allocation）** 断乳腾出的经费与项目经理编制立即投入更新一代物理[[Paradigm|范式]]的[[Seed Funding|早期种子资助]]（[[Seed Funding]]）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1143)]]
@@ -128,5 +128,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 详尽解构了断乳退出机制作为 [[DARPA]] 项目经理五大微观非正式治理制度之一的运行机理。

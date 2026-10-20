@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Michael Kratsios
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **国家科研体制路径** 推动了战后八十年白宫对联邦科研资助格局最系统的自顶向下重构，以 2028 财年预算指导备忘录引导各联邦机构转向基础性物理科学、工程与[[Pasteur's Quadrant|巴斯德象限]]研究。
 > - **机构形态创新路径** 赋予独立[[Focused Research Organization|聚焦研究组织]]（FRO）和跨界联合体合法的联邦资助接口，推动国家实验室机时向硬科技初创企业全面开放。
 > - **技能与劳动力路径** 将[[Process Knowledge|过程知识]]与动手实践写入国家最高科学战略，建立了连接社区学院、在岗学徒与区域先进制造集群的政策通道。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **政治委托人** 唐纳德·特朗普（Donald J. Trump） — 担任其白宫 CTO、科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任，直接承接并执行其国家科技体制重构委托。
 > - **思想渊源与同行** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel） — 早年在 Thiel Capital 担任重要幕僚，深受其关于打破科技停滞、重振物理实体创新的技术哲学影响。
 > - **历史对照坐标** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 1945 年[[Science, The Endless Frontier 1945|布什报告]]的 2026 年继任者与对话者，在继承其公共资助核心的同时系统清算其组织与分工结论。
@@ -184,6 +184,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 克拉齐奥斯向总统呈交的战略报告全文。确立了四大支柱、组合式资助、本土制造转化与生成核验协同体系，附 2028 财年预算指导备忘录。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统剖析克拉齐奥斯在 2025 年起推动美国科技政策走向[[Technology-Oriented Social Contract|技术型社会契约]]与再集中动员中的关键角色。

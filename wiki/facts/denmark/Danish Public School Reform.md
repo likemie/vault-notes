@@ -57,7 +57,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Danish Public School Reform
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **政策合法性与公信力遭遇严重受挫** 改革未能在不增加投入的前提下有效提升学业水平，反而引发大批经验丰富的骨干教师辞职、学生转入私立学校（Friskoler），加剧了公立教育系统的离心倾向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **学习概念异化为[[Learnification|学习化]]（Learnification）** 斯特恩·内珀·拉森（Steen Nepper Larsen, 2019）指出，改革将教育简化为以结果为中心的狭隘技术逻辑，教育的崇高目的被机械的测试指标所吞噬。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
 > - **国家[[Legitimation Crisis|合法化危机]]借[[Technical Rationality|技术理性]]转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：[[John Hattie|哈蒂]]框架风靡丹麦绝非由于其数据科学严谨，而是丹麦行政系统在遭遇 [[PISA]] 冲击与紧缩危机时，急切需要一套能许诺稳定产出成绩的科学说辞来向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]

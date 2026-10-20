@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cumulative Knowledge Base
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 累积性知识库（Cumulative Knowledge Base） | 循证实践工具包（Practice Toolkits） | 传统学术文献库（Academic Repositories） |
 > |---|---|---|---|
 > | **组织治理属性** | 跨国、跨系统元中介协作网络与二阶综合平台 | 单一中介机构面向基层研发的通俗转化工具 | 大学、出版商或学术学会的离散期刊集合 |
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **知识综合层级的组织形态升级（Reviews of Reviews）** 突破对单篇经验研究的零散关注，推动实证综合走向对既有[[Systematic Review\|系统综述]]进行再综合的二阶系统综述，提炼更高阶的元结论。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]])
 > - **跨机构元中介网络协作（Brokering the Brokers）** 单体中介机构因规模与资源限制极易陷入地方孤岛；必须建立“中介的中介”机制，打通跨语种、跨学术传统与跨国别中介枢纽的定期协同。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]])
 > - **[[Heterogeneity\|异质性]]数据源的多元整合规程** 突破单一量化因果指标的实证垄断，发展出规范整合质性[[Rich and Thick Description\|深描]]、定量效应与教师临床[[Phronesis\|实践智慧]]的混合综合方法学。
@@ -238,5 +238,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 提出建构准普遍公认的累积性知识基石命题，论证单体机构受制于政治与预算周期的生存悖论，阐明通过二阶[[Systematic Review\|系统综述]]与“中介的中介”元网络凝聚跨国证据共识的必由之路。

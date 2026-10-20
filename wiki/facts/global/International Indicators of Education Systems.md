@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # International Indicators of Education Systems
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学与技术研究（[[Science and Technology Studies|STS]]）分析 INES 与《[[Education at a Glance|教育概览]]》的诞生档案，详尽解构指标研发中科学家与政策制定者在塞默灵、卢加诺会议上的权力博弈与[[Knowledge Production|知识生产]]机制。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 从[[Global Education Governing Complex|全球教育治理复合体]]历时演变切入，论证 1980 年代美国《国家处在危险之中》如何促成[[OECD|经合组织]]启动 INES，进而完成从粗放人力预测向跨国数据治理的历史跨越。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 INES Network A 在汇总《[[Education at a Glance|教育概览]]》学习成果数据时对 [[IEA]] 的技术不满，如何倒逼经合组织从指标收集者转向自主数据生产者并催生 [[PISA]]。

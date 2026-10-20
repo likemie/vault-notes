@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Autopoiesis
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 生命系统与社会系统的自我指涉性（self-referentiality）、自我生产（self-production）与边界维系机制。
 > - **理论问题** 系统如何通过内部封闭的操作网络在开放且充满干扰的环境中维持连续性；面对全球趋同压力时，地方教育体制如何通过内部逻辑实现折射式采纳或变异抵制。
 > - **理论类型** 宏观系统理论、中层[[Analytic Framework\|分析框架]]、社会演化模型。
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 为什么[[International Education\|国际教育]]模式在不同国家落地时会产生截然不同的地方改组与本土化（indigenisation）现象。
 > - **谨慎使用** 涉及强力的宏观地缘干预或军事政治安全强力介入改变课程边界的历史节点，自组织自创生机制可能部分失效。
 > - **不适合解释** 简单的技术性因果效应关系或精确的教育干预产出比例。
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1973 — 生物自创生起点** Maturana & Varela 提出自创生界定生命系统边界，标志自主性系统论建立。
 > - **1984 — [[Niklas Luhmann\|卢曼]]社会系统论改造** Luhmann 发表《社会系统》，将自创生转化为由“沟通”组成的社会系统运作模型。
 > - **1990 — 系统比较教育学应用** Schriewer 引入系统论和自我参照解释比较教育中的[[Policy Borrowing\|政策借用]]与“[[Externalization\|外部化]]”论证机制，挑战了机械趋同模型。 (Schriewer, 1990, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -185,7 +185,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Amos_2022_Springer\|Amos, 2022]] — 以 autopoiesis/[[Sympoiesis]] 的对照作为晚期现代性教育愿景的分析资源。
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 追溯了 1990 年代起自创生与系统理论如何引入比较教育理性主义传统中用以解释[[Externalization\|外部化]]与折射抵抗。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World\|虚拟世界]]研究的结论中指出：从微观到宏观、从宏观到微观的[[Emergence\|涌现]]过程要求适应性、开放系统、学习、反馈、沟通和连接性，以使个体和系统发展自身的身份（自创生）。

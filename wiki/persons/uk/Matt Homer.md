@@ -30,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -39,17 +39,17 @@ updated: 2026-09-11
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > 关注教育研究中定量方法的适用性和局限性，参与"什么有效"议程的方法论批判讨论([[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]])。
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - 共同编辑 IJRME 特刊 *Is the educational 'what works' agenda working? Critical methodological developments*（2016）
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - [[Maria Pampaka\|Pampaka, M.]], [[Julian Williams\|Williams, J.]], & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
 
 ## 思想发展与影响

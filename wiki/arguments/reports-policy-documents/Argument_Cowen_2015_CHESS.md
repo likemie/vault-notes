@@ -57,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -66,18 +66,18 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 论文试图回答：研究证据如何为成功的社会政策做出贡献并改善公共服务实践？具体聚焦于：教师如何将 What Works 证据（以 [[Education Endowment Foundation\|EEF]] Toolkit 为代表）与本地知识和其他形式的科学知识结合，以预测某项政策在特定情境中是否有效，并识别做出可靠判断所需的其他信息。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright and Munro (2010) 提出的 [[Randomised Controlled Trials\|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
 > - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究(2019)的理论基础，本文的政经分析与之呼应
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Elite Interview\|elite interview method]] — 精英访谈法，选择"因其身份或职位"能提供独特信息的受访者
 > - 样本：22 位教师，来自 12 所英格兰学校，覆盖社区中小学、学院制学校和自由学校，含新教师、资深教师、中层管理、副校长、校长和校董
 > - 数据来源：[[Semi-structured Interview\|半结构化访谈]] + [[Literature Review\|文献综述]]（非系统性）+ 参加一次教师自发组织的非正式会议获取背景
@@ -85,7 +85,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **前提／观察**[[What Works Network]] 和 [[Education Endowment Foundation\|EEF]] 的建立使英国教育领域有了专门的[[Educational Evidence Clearinghouses\|证据清算中心]]，但证据的实施面临独特的挑战——从"什么有效"到"在这里有效"之间存在知识鸿沟
 >
 > 2. **论证步骤**
@@ -100,7 +100,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 几乎所有受访教师都使用某种形式的证据，但"证据"的定义多样——从 [[Education Endowment Foundation\|EEF]] Toolkit 到 Twitter 上的同行讨论到[[Action Research\|行动研究]](p.23-27)
 > - [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 是影响管理决策和参与学校治理辩论的有力工具，但教师普遍认为它不够详细，无法直接指导课堂实施(p.24)
 > - 时间约束是教师深入参与研究证据的主要障碍(p.25-26)
@@ -112,7 +112,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “单靠[[Randomised Controlled Trials\|RCT]]（随机对照试验）不足以满足政策或实践决策者的需求。”
 > ("An [[Randomised Controlled Trials\|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers.")(Cartwright and Munro, 2010, p.265, p.10)
 >
@@ -130,7 +130,7 @@ citation_aliases:
 
 ## 政策建议
 
-> [!success] 政策建议
+> [!success|notitle] 政策建议
 > - 学校应考虑每周为教师留出固定时段用于参与研究证据，作为 CPD 改革的一部分(p.44)
 > - 政府机构（尤其是 [[Ofsted]]）应避免设定与 [[Education Endowment Foundation\|EEF]] 研究证据相矛盾的政策要求(p.13, p.44)
 > - EEF 等证据托管机构应提供专门支持本地实施的资源，设立实施团队，鼓励学校之间分享实施经验(p.13, p.45)
@@ -140,7 +140,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文自身承认：样本非平衡，有意偏向积极参与 EBP 辩论的教师，因此结论不具统计代表性(p.22)
 > - [[Literature Review\|文献综述]]非系统性，基于非正式检索(p.4)
 > - 研究未系统性地探讨教师不参与证据的原因——样本中几乎没有对证据完全漠视的教师

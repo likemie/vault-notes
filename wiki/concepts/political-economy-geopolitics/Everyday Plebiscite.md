@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Everyday Plebiscite
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **过去维度的共同牺牲（Shared Historical Sacrifices）** 共同体历史不仅是荣耀的记录，更是共同承受痛苦、危机与历史牺牲的精神沉淀；共同受难比共同胜利更能铸就深层纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Renan, 1882/2018; Karp & Zamiska, 2025, p. 199)]]
 > - **当下维度的自愿同意（Present Consent & Affirmation）** 成员对国家制度、法治原则与公共事业的日常自愿效忠与参与。
 > - **未来维度的共同愿景（Future Purpose）** 愿意为了子孙后代跨越千年的长远繁荣继续合作、共同承担战略防卫与建设重任。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1882 — 概念诞生** [[Ernest Renan|欧内斯特·勒南]]在法德普法战争后发表演讲，提出每日公投概念以驳斥德意志基于语言与种族吞并阿尔萨斯-洛林的合法性诉求。
 > - **20世纪中后期 — 公民民族主义奠基** 成为西方自由主义政治理论对抗种族法西斯主义的核心理论武器。
 > - **2025 — 科技[[Geopolitics|地缘政治]]与西方复兴** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重提每日公投，作为克服西方去国家化倦怠与重建科技[[Hard Power|硬实力]]的核心思想基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]

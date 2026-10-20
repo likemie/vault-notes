@@ -36,7 +36,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ball_2008_SR"
@@ -60,24 +60,24 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 英国教育社会学并不是一条连续积累知识的直线，而是由若干历史时刻、问题、人物、机构位置和理论语言共同构成的争斗[[Champ\|场域]]。关键问题是：教育社会学在解释不平等、学校知识和教育政策时，如何同时生产了治理家庭、学校和教师的知识目光？(pp.650-651)
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - Bernstein 的[[Horizontal Knowledge Structure\|横向知识结构]]：社会学由多个专门语言、问题意识和说话者构成，这些语言之间难以相互翻译，容易形成片段化能力和片段化读写能力。Ball 用这一框架解释教育社会学内部的分裂、[[Paradigm\|范式]]争论和对新语言的追逐(p.651)。
 > - [[Governmentality]] 与 Foucault 式权力分析：教育社会学并非站在政策之外，而是通过构造家庭、学校和教师的可见性，为政策技术提供对象和条件。Ball 用治理、规训和人口管理的视角解释教育研究如何参与社会管理(pp.651, 653-655)。
 > - Bourdieu 的[[Champ\|场域]]视角：教育社会学被看作一个围绕声望、职位、出版、身份和意识形态承诺展开竞争的学术场域；谁能说话、谁被听见，本身就是[[Knowledge Production\|知识生产]]的条件(p.652)。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > 这是一篇理论性学科史与知识社会学分析，不是经验研究。材料包括英国教育社会学的代表性文献、机构位置、政策事件和学术争论；论证重点是把这些材料组织成三个历史片段：1930-1960 年代的 [[Political Arithmetic]]、1970 年代的 [[New Sociology of Education]]、1980 年代以后通向政策研究和 [[School Effectiveness]] 的转向(pp.650-651)。
 
 ## 论证结构
 
-> [!example] 论证结构
+> [!example|notitle] 论证结构
 > ### 主题一：教育社会学本身就是一个需要解释的知识[[Champ\|场域]]
 >
 > 1. 教育社会学不是透明地描述教育现实的学科，而是一个有内部利益、边界斗争和语言竞争的知识场域。不同群体围绕理论、方法、职业位置和政治承诺竞争，由此决定什么算好的教育社会学、谁能获得职位和发表机会、哪些问题会成为正当问题(p.652)。
@@ -116,7 +116,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > ### 学科结构
 > - 英国教育社会学的历史可被理解为一系列问题和目光的转换，而不是单一学科传统的线性展开(pp.650-651)。
 > - [[Horizontal Knowledge Structure]] 有助于解释教育社会学为何反复出现语言、[[Paradigm\|范式]]和片段之间的竞争；但 Ball 补充指出，历史上也存在语言、结构和目光短暂统一的时刻(pp.651, 665)。
@@ -131,7 +131,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > “教育社会学创造了‘可能性的条件’和一种‘权力的光学’”
 > ("the sociology of education has created the 'conditions of possibility' and an 'optics of power'")(p.651)
 
@@ -145,7 +145,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > ### 国别范围有限
 >
 > Ball 明确说明自己无法涵盖美国、法国或德国教育社会学的不同历史，因此这篇文章主要是英国教育社会学史，不应直接推广为教育社会学的一般历史(p.666)。

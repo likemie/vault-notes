@@ -47,7 +47,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-21
 year: 2016
 doi: ""
 citation_aliases:
@@ -56,7 +56,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 论文试图回答一个在教育社会学中悬而未决半个世纪的核心问题：学校与不平等之间的关系是什么？具体而言(p.1)：
 >
 > 1. 学校是简单地再生产已有的不平等，还是放大它们，还是帮助减少它们？
@@ -65,7 +65,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 论文以对教育社会学的**批判视角（critical perspective on schools）** 的系统回顾为起点，识别了两条主要理论路线(pp.1–2)：
 >
 > - **再生产理论（Reproduction）** Bowles and Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；Bourdieu (1977) 的[[Cultural Capital\|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
@@ -75,7 +75,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 理论综合与[[Literature Review\|文献综述]]（Theoretical synthesis and literature review）
 > - **核心经验方法** 系统审查并综合 [[Seasonal Comparison]] 研究的证据，覆盖 Heyns (1978)、Entwisle & Alexander (1992, 1994)、Downey et al. (2004) ECLS-K、von Hippel et al. (2007)、Downey, Workman & von Hippel (2016) 等
 > - **分析策略** 识别传统方法面临的三个方法论障碍 → 展示季节性比较如何克服这些障碍 → 综合季节性比较证据 → 提出[[Refraction Framework\|折射框架]]作为理论调和 → 分析忽视补偿性潜力的代价
@@ -83,7 +83,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **诊断传统方法的三个障碍(pp.3–4)**
 >    - 如何分离学校效应与非学校效应——传统统计控制系统性不足（大多数影响学习的非学校特征无法测量）
 >    - 如何权衡所有加剧性和补偿性学校机制的净效应——大多数研究只聚焦单一机制
@@ -102,7 +102,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - **[[Socioeconomic Status|SES]] 成就差距主要在学校入学前形成** ECLS-K 1998 数据显示，收入基础的 90/10 阅读差距在幼儿园至八年级间仅增长约 12%，数学差距实际上缩小了(Reardon, 2011, pp.7–8)
 > - **加拿大 vs 美国比较的启示** 加拿大 4–5 岁儿童在 PPVT 阅读测试上已领先美国儿童 .31 SD——与 15–16 岁 [[PISA]] 阅读差距（.30 SD）几乎相同——暗示国际考试成绩差距可能在正式学校入学前已基本确定(Merry, 2013, pp.7–8)
 > - **教师／[[School Effectiveness|学校有效性]]的分布可能与社会经济地位弱相关** 当更严格地分离学校效应后，服务于高 SES 和低 SES 儿童的学校在促进学习方面的差异可能很小甚至不存在(Downey, von Hippel & Hughes, 2008, Lauen & Gaddis, 2013, pp.8–9)
@@ -111,7 +111,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “在不平等问题上，‘学校教育在更大程度上是解决方案的一部分，而不是问题的一部分。’”
 > ("When it comes to inequality, 'schooling is more part of the solution than part of the problem.'") — Alexander (1997, p.12), cited in Downey & Condron (p.4)
 >
@@ -126,7 +126,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > 论文自身承认的局限(Downey & Condron)：
 >
 > - 补偿性证据目前仅针对 [[Socioeconomic Status|SES]] 认知技能差距和 BMI——对其他结果的效应未知

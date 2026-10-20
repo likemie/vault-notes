@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Dance Language of Bees
@@ -59,7 +59,7 @@ updated: 2026-10-15
 
 ## 核心编码机制
 
-> [!feature] [[Selective Coding|核心编码]]机制
+> [!feature|notitle] [[Selective Coding|核心编码]]机制
 > - **距离编码** 侦察蜂直线摆尾行进的物理长度与持续时间，严格正比于目标地点距离蜂巢的实际飞行距离（p. 117）。
 > - **方向编码** 侦察蜂在垂直蜂巢脾面上跳舞时，摆尾直线与重力垂直向上方向的夹角，精确对应着飞行方向与当前太阳方位角的水平夹角。
 > - **质量评价与投票强度** 目标地点的优劣（如避风性、空间大小、湿度）直接决定侦察蜂跳舞的兴奋度、持续圈数与招募同伴的数量；质量低劣的地点仅引发单次跳舞且无人跟进，优质地点则吸引大量旁观蜂前往复核并加入跳舞行列。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]

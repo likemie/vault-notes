@@ -59,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # SCAMPER
@@ -258,7 +258,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]将 SCAMPER 归纳为技术型训练的核心代表工具，确立其稳健的促学效应（$g = 0.552$）并解析其具象[[Scaffolding\|脚手架]]机制与迁移特征。
 > - Scott, Leritz and Mumford (2004) — 70 项实证的奠基性[[Meta-analysis\|元分析]]，确立结构化观念生成启发式（包含 SCAMPER）对[[Creativity\|创造力]]表现的强效促进（$d = 0.68$）。
 > - Eberle (1971) — 系统创立并普及 SCAMPER 首字母口诀化模型的奠基性专著。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Robin Dunbar
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于英国利物浦，后就读于牛津大学莫德林学院并获得博士学位。
 > - **1993** 发表里程碑论文《人类新皮质大小、群体规模与语言的协同演化》（*Co-evolution of Neocortex Size, Group Size, and Language in Humans*），正式确立[[Dunbar's Number|邓巴数]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **1998–2007** 担任利物浦大学进化心理学教授。
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析[[Paradigm|范式]]。
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术对话与共鸣者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）— [[Dunbar's Number|邓巴数]]认知上限为安德森“[[Imagined Community|想象的共同体]]”理论提供了微观神经演化基础。
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其理论探讨超大规模国家维系文化纽带的必要性。
 > - **任职机构** 牛津大学实验心理学系、利物浦大学进化心理学系。

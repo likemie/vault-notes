@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Capability Approach
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 个人福祉、社会发展与公共教育的评价基准，个体将物质与制度资源转化为实质生活状态的自由空间，以及教育在扩展人类自主性中的多元价值。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 126–130)]]
 > - **理论问题** 破解传统福利经济学将发展窄化为国内生产总值（Gross Domestic Product, GDP）与收入增长的功利主义缺陷，克服资源本位评价对个体转换差异的忽视，以及应对高等教育政策过度偏向单一市场工具效用的现实困境。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 128)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 194–195)]]
 > - **理论类型** 规范性评价理论、社会正义[[Analytic Framework|分析框架]]与教育政策批判视角。
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 教育不平等与社会分层研究、大学社会使命与公共责任评估、国际发展援助中非货币化成效评估，以及弱势群体教育权利保障政策。
 > - **成立条件** 需要具备获取个体微观发展实绩与质性生活状态数据的经验材料；需要政策环境承认多元价值，不将量化绩效或财政创收作为唯一评价硬指标。
 > - **解释不足** 
@@ -239,6 +239,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 结合德雷兹与森的教育五重价值与制度理论，构建 2×3 多维使命模型，系统批判[[Global Universities Rankings|全球大学排名]]对高等教育内在与赋权价值的结构性忽视。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用能力进路阐明跨国定向[[Engineering Education|工程教育]]通过政产学四方协同填补受援国关键基建赤字，实现国家长远经济自利与受援国自主造血发展的共生机制。

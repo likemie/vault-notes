@@ -112,7 +112,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 status: draft
 created: 2026-06-21
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -405,7 +405,7 @@ updated: 2026-10-17
 
 #### Box 7.2 文献综述中的信息类型
 
-> [!index-table] Box 7.2：文献综述中的信息类型
+> [!index-table|notitle] Box 7.2：文献综述中的信息类型
 > | 类别 | 具体内容 |
 > |---|---|
 > | **书籍** | 精装/平装和电子书 |

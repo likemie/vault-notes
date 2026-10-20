@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Tracking
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Tracking（课程分轨） | Streaming（全科分流） | Setting（单科分组） | [[Comprehensive Education\|comprehensive schooling]]（综合中学制） |
 > |:---|:---|:---|:---|:---|
 > | **组织形式** | 按培养方向划分长周期成套课程轨 | 以班级为单位全科按综合均分固化 | 仅针对特定学科开展走班分层教学 | 取消早期分流，全员共享单一体制 |
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **能力固化假设（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
 > - **双重隔离机制（Double Segregation）** 跨国评估实证揭示，学力分轨绝非单纯的技术分类，它在统计分布上与家庭[[Socioeconomic Status|社会经济地位]]（SES）及少数族裔背景高度重合，将原本隐蔽的阶层不平等固化为显性的制度隔离（OECD, 2013b; [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）。
 > - **课程暴露与机会鸿沟（Opportunity Gap in Exposure）** 低轨学生遭遇教学节奏放缓与正规核心课程（如高级形式数学）暴露频次的系统性剥夺；缺乏挑战性思维训练使原本微小的学业差距在制度化规训中被成倍拉大。
@@ -272,7 +272,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。

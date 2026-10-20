@@ -54,7 +54,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Extended Mind Theory
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 心智与认知过程的空间边界，以及人类认知主体如何与外部工具、符号媒介及人工智能技术耦合成统一的认知系统。
 > - **理论问题** 批判传统[[René Descartes\|笛卡尔]]式内在主义（Cartesian Internalism）将认知等同于颅内神经计算的狭隘界定，解释外部人造物为何不仅是信息传输通道，更是认知加工回路的实质组成部分。
 > - **理论类型** [[Ontology\|本体论假设]]与认知[[Scientific Explanation\|科学解释]]框架（结合主动外在主义 Active Externalism 与计算功能主义 [[Structural Functionalism|Functionalism]]）。
@@ -151,7 +151,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** [[Man-Computer Symbiosis|人机协同]]教学与工作场景中外部工具的认知功能评估，特别是辨析某项[[Technology Infusion|技术整合]]究竟是放大了学习者的认知能力还是替代了认知挣扎过程。
 > - **成立条件** 需要有可观察的人机交互回路（操作日志、出声思考协议），以及撤除工具后的能力迁移测验数据，才能区分良性延展与有害替代。
 > - **严格区别于心理学[[Theory of Mind\|心智理论]]（Theory of Mind, ToM）** 本理论探讨认知系统在物理环境中的空间延展与工具耦合，切勿与发展心理学中关于儿童理解他人信念意图的心智理论（ToM）混淆。
@@ -190,7 +190,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统引入延展[[Theory of Mind\|心智理论]]审视高等教育中的人工智能中介学习，指出延展心智为[[Cognitive Offloading\|认知卸载]]提供了功能主义辩护，并确立了以因果可恢复性、可质疑性与关系性主体性为核心的防范有害[[Epistemic Dependence\|认识依赖]]的规范框架。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从教育[[Epistemology|认识论]]角度反思认知延展的边界，指出若生成式 AI 沦为直接提供现成答案的黑箱，认知延展将蜕变为剥夺机体内生能力锻炼的[[Cognitive Deskilling\|认知去技能化]]；必须通过提问[[Scaffolding|脚手架]]实现机体自身理智技能与理智品格的内在提升。
 > - Clark, A. (2025) — *Extending minds with [[Generative Artificial Intelligence\|Generative AI]]*（Nature Communications），探讨生成式 AI 作为动态自适应对话伙伴如何推进第二波与第三波心智延展，分析预测加工与生成式工具的深度耦合。

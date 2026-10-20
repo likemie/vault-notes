@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -182,7 +182,7 @@ aliases:
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2001 — 软件工程敏捷宣言** 确立了个体互动高于流程工具、可用软件高于繁琐文档、客户协作高于合同谈判、响应变化高于遵循计划的敏捷核心哲学。
 > - **2010s — 英国 [[Government Digital Service|GDS]] 与全球数字政府转型** 英国成立政府数字服务局（GDS），将敏捷冲刺与以人为本设计引入公共服务系统，开启敏捷治理在全球公共部门的扩散。
 > - **2018 — 第三代使命导向政策与[[Public Dynamic Capabilities|公共动态能力]]理论** [[Rainer Kattel|莱纳·卡特尔]]与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统界定敏捷治理在国家三层动态能力中的核心地位，将其确立为落地[[Lead-and-Learn Paradigm|引领与学习范式]]的方法论基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]
@@ -217,7 +217,7 @@ aliases:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 确立敏捷治理作为第三代使命导向政策与[[Public Dynamic Capabilities|公共动态能力]]的核心行政操作方法论。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 从[[Engineering Pragmatism|工程实用主义]]与反[[Determinism|决定论]]视角论证敏捷试错、免责[[Five Whys|五问法]]与快速止损对重构国家治理效能的关键价值。
 

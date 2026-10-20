@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Douglas Hofstadter
@@ -61,7 +61,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1945** 出生于美国纽约市，其父罗伯特·霍夫施塔特为诺贝尔物理学奖得主。
 > - **1965** 毕业于斯坦福大学数学系。
 > - **1975** 获得俄勒冈大学物理学博士学位。

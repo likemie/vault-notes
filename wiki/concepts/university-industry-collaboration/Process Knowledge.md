@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Process Knowledge
@@ -172,7 +172,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，系统提出过程知识理论框架，阐释技术三形态、激光复现与 LIGO 技艺案例，主张以社区学院、[[Apprenticeship|学徒制]]与区域[[Innovation Hub|创新中心]]守护国家制造公地。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — [[Evolutionary Economics|演化经济学]]经典文献，详尽论证车间工艺学习、[[Total Quality Management|全面质量管理]]与现场[[Learning by Doing|干中学]]是战后东亚跨越式[[Technological Catch-up|技术追赶]]的核心动力，深刻批判西方轻视过程知识的单纯研发指标论。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 批判线性模型深层文化偏见，论证工程发明与仪器研制对基础理论探索的前提使能作用。

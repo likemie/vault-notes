@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Philip H. Coombs
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1915** 出生于美国马萨诸塞州圣十字学院，先后在阿默斯特学院与芝加哥大学接受正规经济学训练。
 > - **1940–1950年代** 二战期间在美国战略情报局（OSS）及战时物价管制局任职，战后出任福特基金会教育发展基金研究总监，深入介入战后美国教育资源统筹。
 > - **1961–1962** 获约翰·肯尼迪总统任命，出任美国历史上首任主管教育与文化事务的助理国务卿，全力推动将跨国教育与文化交流纳入冷战时期美国大战略。
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **制度化路径** 亲手缔造[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP），开创了联合国体系以跨国培训、指标规划与数据建模向第三世界输出规划技术的治理样板。
 > - **[[Discourse|话语]][[Paradigm\|范式]]路径** 确立了以“危机叙事”动员财政资源、重塑公众预期并为跨国专家干预提供合法性辩护的话语模型，直接启发了后来的《国家处在危险之中》及[[OECD\|经合组织]]跨国指标体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **政策转移路径** 促成了美国国内教育规划技术与多边国际组织的无缝咬合，为冷战时期西方大国主导全球南方教育发展合作提供了关键思想弹药。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **机构／运动／项目** [[International Institute for Educational Planning]] — 创始人兼首任所长（1963–1968），开创多边教育规划技术培训。
 > - **机构／运动／项目** 弗吉尼亚威廉斯堡世界教育危机大会（1967） — 会议核心组织者与议题设定者，正式确立全球教育危机叙事。
 > - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其[[Cosmopolitanism|普世主义]]危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -152,5 +152,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。

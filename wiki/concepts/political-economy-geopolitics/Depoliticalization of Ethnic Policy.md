@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-07
+updated: 2026-10-21
 ---
 
 # Depoliticalization of Ethnic Policy
@@ -48,7 +48,7 @@ updated: 2026-10-07
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 民族政策去政治化 | [[Second-generation Ethnic Policy\|第二代民族政策]] | 民族区域自治制度 |
 > |------|--------|----------------|----------------|
 > | **主要倡导者** | [[Ma Rong\|马戎]] (Ma Rong) | 胡鞍钢、胡联合等 | [[Fei Xiaotong\|费孝通]]、早期中共民族理论家 |
@@ -59,7 +59,7 @@ updated: 2026-10-07
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **“民族”与“族群”的名词替换** 极力主张使用“族群”（zuqun）而非“民族”（minzu），用以同西方多元文化主义中去政治的 ethnic groups 接轨，解除其政治权利包袱。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 101]])
 > - **社会建构论的政策化挪用** 学者通过反向挪用西方解构中国民族识别（Ethnic Classification）的建构论观点，论证民族既然是国家在 1950 年代“发明的”，那么国家在今日便完全有权通过新政予以“去发明”或“解构”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 103]])
 > - **去安全化与反苏联教训** 认为中国过去因过度强化少数民族的政治边界，导致了如同苏联和南斯拉夫般的“分裂隐患”。因此必须去政治化，才能保证国家绝对领土安全。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])

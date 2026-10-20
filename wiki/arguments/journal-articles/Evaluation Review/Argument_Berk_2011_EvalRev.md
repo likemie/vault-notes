@@ -59,7 +59,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2011
 doi: ""
 citation_aliases:
@@ -68,12 +68,12 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research\|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > Berk 不依赖单一理论框架，而是基于[[Evaluation Research\|评估研究]]方法论的演进历史进行[[Reflexivity\|反思性]]分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework\|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）** 作为因果效应定义的概念基础
 > - **Campbell and Stanley (1963)** 的四种效度框架作为实验设计评估的参照
@@ -81,13 +81,13 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法**[[Reflexivity\|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review\|文献综述]]
 > - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > Berk 的论证围绕五个方法论战场展开，每个战场都存在证据与垃圾之间的张力：
 >
 > ### 1. 因果效应的定义
@@ -119,7 +119,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. **"证据"的定义真空** 政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"(p.199)
 > 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖(p.192)
 > 3. **不存在简单的[[Decodification\|解码]]装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
@@ -129,7 +129,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “对于每一项做得好且有用的研究，至少存在另一项研究在做著名的道伯特裁决（Daubert ruling）所称的垃圾科学。”
 > ("For every well done and useful study there is at least one other doing what under the famous Daubert ruling would be called junk science.") (p.192)
 >
@@ -147,7 +147,7 @@ citation_aliases:
 
 ## 建议与对策
 
-> [!success] 建议与对策
+> [!success|notitle] 建议与对策
 > Berk (p.199-200) 提出的三条建议：
 >
 > 1. **中立专家委员会审查** 在有重要政策问题和矛盾证据时，由知识渊博的中立委员会（如[[National Academy of Sciences|美国国家科学院]]国家研究理事会）进行审查。Pew Charitable Trust 等基金会有时也支持独立小组或员工审查。
@@ -158,7 +158,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 作为编辑反思而非[[Systematic Review\|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
 > - Berk 对 [[Randomised Controlled Trials\|RCT]] 的辩护（"防止[[Type I and Type II Errors\|统计错误]]"）与批判（"集群[[Random Assignment\|随机化]]中的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 [[Argument_Cowen_2019_ERE|Cowen (2019)]] 后来提出的官僚[[Knowledge Questions\|知识问题]]和制度激励问题

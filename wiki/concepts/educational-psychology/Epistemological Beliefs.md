@@ -66,7 +66,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemological Beliefs
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology\|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
 > - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论假设，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research\|量化研究]]。
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
@@ -235,7 +235,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，阐明[[Epistemology\|认识论]]信念在智能技术中介学习中的调节与重塑机制，并构建双轨支架干预矩阵。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology\|认识论]]信念，揭示[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure\|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity\|反思性]]判断的差异化预测作用。

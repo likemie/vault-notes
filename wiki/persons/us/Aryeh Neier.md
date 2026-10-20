@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Aryeh Neier
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1937** 出生于德国柏林的一个犹太人家庭，幼年时期随父母为躲避纳粹迫害流亡英国，后移居美国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
 > - **1958** 毕业于康奈尔大学，加入美国公民自由联盟（ACLU），开启长达数十年的民权与人权法律抗争生涯。
 > - **1970–1978** 担任 ACLU 全国执行总监，期间领导该机构介入包括水门事件、反战抗议与第一修正案维权在内的诸多历史性大案。
@@ -94,7 +94,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **法学与宪法路径** 其在[[Skokie Free Speech Case|斯科基案]]中的辩护构成了美国宪法第一修正案言论自由判例史的里程碑，奠定了“厌恶言论不能剥夺宪法保护”的司法基准。
 > - **公民社会与人权路径** 参与创立人权观察等国际组织，确立了以独立事实调查与法律问责为支柱的现代人权倡导[[Paradigm|范式]]。
 > - **领导力与政治哲学反思** 成为当代思想界反思大学与企业领导阶层缺乏道德勇气与原则担当的经典历史典范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60)]]
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想共鸣者** [[Pauli Murray]] — 同样主张即使面对极端种族主义者也不应因防范冲突而剥夺其宪法表达权利。
 > - **分析与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第 5 章中将内尔树立为具有“[[Hard Belief|硬信念]]”与智识勇气的领袖典范。
 > - **关键历史事件** [[Skokie Free Speech Case]] — 1977 年斯科基案核心法律辩护者与决策者。

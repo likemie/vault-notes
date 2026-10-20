@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Comprehensive Education
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 综合教育（Comprehensive Education） | [[Tracking\|学力分轨（Tracking）]] | [[Dual School System\|双轨学制（Dual School System）]] |
 > |---|---|---|---|
 > | 分析对象 | 20 世纪民主化中等教育组织形态与一体化学校。 | 中等学校内部按学科成绩分配班级或课程的微观与中观分流机制。 | 19 世纪以阶层身份为基础的终点式平民学校与精英学术学校平行体系。 |
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **制度性去分轨** 消除初等教育向中等教育过渡期的淘汰性升学考试，将初中阶段纳入普及一贯制体系。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330)]]
 > - **共同核心课程（Common Trunk）** 全体学生修习相同或高度重合的基础学术学科，避免过早进入职业技术分支。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **延时分流节点** 将学术与职业教育的正式分叉推迟至义务教育结束（如 16 岁）。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950–1960 年代 — 战后欧洲综合中学运动萌发** 英国工党政府推行综合中学政策（Comprehensive Schools），瑞典率先完成 9 年一贯制综合基础学校改革，旨在打破 11 岁考试（[[Eleven-plus Exam|Eleven-plus]]）等早熟分流体制对工薪阶层的制度性淘汰。
 > - **1970 年代 — 南欧转型国家确立综合原则** 西班牙 1970 年《[[General Act of Education of 1970|普通教育法]]》（[[General Act of Education of 1970|LGE]]）在初等学段确立综合教育原则，将基础教育统一整合为 8 年。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
@@ -182,7 +182,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。
 
 ---

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Patrick Shannon
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1981** 于明尼苏达大学获得哲学博士学位，受[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）[[Critical Pedagogy|批判教育学]]深刻启发。
 > - **1989** 出版代表作《破碎的诺言：美国识字教学中的阅读、商业化与文化》（*Broken Promises*），开创性揭露商业拼读练习册对公立教育的异化。
 > - **1991** 发表里程碑论文《阅读教育中的政策研究》，系统界定政策导向型、沟通型与批判型三类政策[[Paradigm|研究范式]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 11)]]
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法路径** 奠定了教育政策学界开展[[Critical Policy Analysis|批判性政策分析]]（CPA）的概念工具箱与[[Paradigm|范式]]谱系。
 > - **理论路径** 与埃德蒙森等学者共同构建了融合[[Critical Theory|批判理论]]与草根参与的[[Critical Pluralism|批判性多元主义]]，为反抗新自由主义教育规训提供了理论框架。
 > - **实践路径** 深刻影响了[[National Council of Teachers of English|全美英语教师委员会]]（NCTE）与[[Whole Language|全语言]]运动一线教育者，激励基层学区合法拒领带有苛刻条件的联邦专项拨款。
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** 杰奎琳·埃德蒙森（Jacqueline Edmondson）— 长期合著者，共同开展宾州乡村学校阅读政策抵制研究，共建[[Critical Pluralism|批判性多元主义]]框架。
 > - **学术盟友** [[Ken Goodman]] — [[Whole Language|全语言]]运动领袖，共同抵制联邦拼读规约与商业教材霸权。
 > - **学术论敌** [[G. Reid Lyon]] — [[National Institute of Child Health and Human Development|NICHD]] 高级官僚，香农公开批判其推行的医学实证垄断与次政府合谋。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Joseph S. Nye Jr.
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1937** 出生于美国新泽西州南奥兰治。
 > - **1964** 获得哈佛大学政治学博士学位，随后留校任教。
 > - **1977** 与罗伯特·基欧汉（Robert Keohane）合著出版经典著作《权力与相互依存》（*Power and Interdependence*），系统挑战传统现实主义，开创复合相互依存理论。
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了国际关系学界的非物质权力研究纲领，引发关于[[Cultural Diplomacy|文化外交]]、[[Knowledge Diplomacy|知识外交]]及量化规制（[[Soft Power by Hard Facts]]）的广泛学术探讨。
 > - **政策路径** 直接影响了美欧多国外交与公共外交战略编制，促使“公共外交”、“国家品牌形象”与“跨国教育交流”成为大国战略标配。
 > - **跨学科传播** 被全球治理、比较教育学、政治经济学与科学政策等多个领域深度借用，演化出“以硬事实施展[[Soft Power|软权力]]”等现代治理[[Paradigm|范式]]。

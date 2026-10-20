@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Anthropomorphic Model
@@ -163,5 +163,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学[[Behaviorism|行为主义]]模型的批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿[[Classroom Observation|课堂观察]]与事件分析章节，深入剖析师生微观互动的意义阐释机制。

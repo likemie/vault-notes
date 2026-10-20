@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lifestyle Technology
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 生活方式科技（Lifestyle Tech） | 早期反文化个人计算 | 国家战略硬核科技（[[Technological Republic\|技术共和国]]） |
 > |---|---|---|---|
 > | **研发目标** | 消除高收入中产日常琐事摩擦（外卖/打车/订房） | 赋权个体心智、实现精神解放与去中心化表达 | 捍卫民主政体安全、突破物理科学瓶颈、提升[[Total Factor Productivity\|全要素生产率]] |
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **生活摩擦消除取向（Friction-Elimination Orientation）** 研发灵感高度依赖创始人自身日常生活的偶发不便（如找车位难、推杆练习场少、等餐时间长）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 104–106)]]
 > - **阶层购买力模拟机制（Purchasing-Power [[Computer Simulation|simulation]] Mechanism）** 通过算法整合廉价劳动力市场，让年轻白领以极低边际成本享受到过去仅属于贵族阶层的随身侍从服务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 > - **[[Technological Pastiche|技术拼贴]]与衍生化（[[Technological Pastiche\|Technological Pastiche]]）** 援引[[David Graeber|大卫·格雷伯]]（[[David Graeber]]）的洞察，生活方式科技并非底层科学突破，而是对既有成熟通信网络与 GPS 技术的浅层包装与重复拼接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s 末 — [[Dot-Com Bubble|互联网泡沫]]期的玩具零售狂潮** 以 eToys、Pets.com 为代表的早期初创企业以“烧钱抢市场”模式争夺线上日常消费品分销权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–105)]]
 > - **2010s — 移动生活方式科技爆发** 智能手机普及催生网约车、餐饮外卖、图片社交与共享经济，生活方式科技确立为主导创业[[Paradigm|范式]]。
 > - **2020s — 科技停滞批判与地缘觉醒** 大国博弈与区域战争爆发暴露了生活方式科技无法转化为战略[[Hard Power|硬实力]]的致命缺陷，引发向重塑[[Technological Republic|技术共和国]]的深度转向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 110–111)]]
@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章系统剖析硅谷工程师如何将才智浪费于开发生活方式技术以逃避国家战略使命，揭示消费主义科技对西方[[Hard Power|硬实力]]的深刻瓦解。

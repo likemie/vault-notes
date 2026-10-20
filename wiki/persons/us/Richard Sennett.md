@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Richard Sennett
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1943** 出生于美国芝加哥，后就读于芝加哥大学并在哈佛大学获得博士学位（师从戴维·里斯曼）。
 > - **1977** 出版《公共人的衰落》（*The Fall of Public Man*），诊断现代社会的过度私人化与公共领域萎缩。
 > - **1994** 在《纽约时报》发表《身份神话》（*The Identity Myth*），反思民族主义认同的排他风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **城市社会学与公共空间研究** 深刻影响了全球关于城市包容性、公共领域衰退与日常社会交往的理论探索。
 > - **多元文化主义与后国家协作** 为批判同质化民族主义、倡导多元异质群体的非暴力共存提供了社会学[[Analytic Framework|分析框架]]。
 > - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，桑内特将国家认同等同于“恶”的后国家左翼立场，直接导致现代西方缺乏捍卫公共善与自由政体的精神动员纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **博士导师** 戴维·里斯曼（David Riesman）— 继承了对现代社会性格与大众文化的批判传统。
 > - **思想对话者** [[Martha Nussbaum|玛莎·努斯鲍姆]] — 共同构成当代[[Post-Nationalism|后国家主义]]与世界公民批判的代表。
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为后国家左翼解构国家认同的典型代表。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge Power
@@ -152,6 +152,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较[[Belt and Road Initiative|一带一路]]框架下的[[Asian Universities Alliance|亚洲大学联盟]]与[[University Alliance of the Silk Road|丝绸之路大学联盟]]，论证中国在跨国学术网络构建中兼具知识权力与[[Knowledge Diplomacy|知识外交]]的双重逻辑，并通过增加网络连接密度使其网络中心地位常态化。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 明确对比知识权力与知识外交的[[Paradigm|范式]]差异，并在三所高校参与一带一路的微观实证中论证超越单向权力竞争的必要性。

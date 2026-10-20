@@ -76,7 +76,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -487,7 +487,7 @@ Castells 据此区分了两种空间逻辑：
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > 本文明确承认分析范围的局限(pp.348, 355, 361)。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响[[Discourse|话语]]类型，本文强调的是[[Global Policy Space\|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
 
 ---

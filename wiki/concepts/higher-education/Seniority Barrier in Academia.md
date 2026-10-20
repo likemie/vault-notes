@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Seniority Barrier in Academia
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 学术资历壁垒（Seniority Barrier） | 正常学徒[[Mentorship\|导师制]]（Mentorship [[Apprenticeship]]） | 便携式独立学者模式（Portable Independence） |
 > |---|---|---|---|
 > | **资源分配权** | 资深 PI 垄断科研经费与人事调配权，青年无独立预算 | 导师按教学与研究需求阶段性分配资源与指导 | 经费随青年学者流动，青年享有自主选题与开支权 |
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **首次独立资助年龄显著延后** 权威资助机构新晋 PI 年龄持续攀升至 40 岁以上，大幅跨过原创力最旺盛的 25–35 岁阶段。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
 > - **行政合规负担的非对称惩罚** 漫长的申报周期（长达 20 个月）与[[Red Tape|繁文缛节]]对缺乏庞大团队分担的青年学者构成隐性“创新税”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 15)]]
 > - **学术注意力与评审网络固化** 评审专家倾向于资助既有学术派系与经典文献网络，圈外年轻学者的异端假说被边缘化。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s — 青年科研资助机制成型** [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 确立以 R01 等为核心的项目负责人（PI）资助模式，早期 PI 平均年龄约 39 岁。
 > - **2000–2010s — PI 老龄化与博士后蓄水池膨胀** NIH 首次获批资助者平均年龄跨过 42 岁，“博士后大军”成为常态化学术劳动力滞留池。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
 > - **2026 — 资历壁垒批判与便携式青年资助改革** 白宫科技政策办公室在报告中系统诊断资历壁垒对科学[[Creativity|创造力]]的结构性伤害，提出通过便携式奖学金赋予青年直接资助权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 16, 28)]]
@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论证学术资历壁垒对青年科学家[[Creativity|创造力]]的结构性压制，提出建立便携式青年资助机制以打破 PI 中心制垄断。

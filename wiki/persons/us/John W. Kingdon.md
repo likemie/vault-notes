@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # John W. Kingdon
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1960年代** 毕业于威斯康星大学[[James Madison|麦迪逊]]分校获得政治学博士学位，受[[Behaviorism|行为主义]]政治学与立法决策实证研究训练，开启对美国联邦政治决策微观机制的长期观察。
 > - **1973年** 出版《国会议员的投票决策》（*Congressmen's Voting Decisions*），深入国会大厦通过大范围[[In-depth Interview|深度访谈]]追踪议员在信息过载环境下的决策启发式策略。
 > - **1970年代末–1980年代初** 依托对美国联邦交通与卫生健康政策长达四年的密集追踪，访谈数百名联邦官员、国会议员、学者与利益集团领袖，系统构建政策议程演化的非线性模型。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底终结了“问题识别—方案制定—法律采纳—政策执行”的单向线性迷思，与鲍姆加特纳和琼斯的[[Punctuated Equilibrium Theory|断裂平衡理论]]、萨巴[[Peter Thiel|蒂尔]]的支持联盟框架并列为当代政策过程理论的三大基石。
 > - **方法路径** 推动[[Policy Science in Comparative Education|政策科学]]从静态制度规章文本分析转向动态历时性的[[Process Tracing|过程追踪]]，聚焦政策注意力的分配瓶颈、时机把握（Timing）与[[Discourse|话语]]叙事策略。
 > - **政策与教育应用** 广泛应用于分析全美教育标准的突破性立法（如 [[Common Core State Standards|CCSS]] 运动）。麦克唐纳与韦瑟福德将其理论引入教育政策生命周期研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助全美统考危机数据撬开[[Policy Window|政策之窗]]。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论学术渊源** 迈克尔·D·科恩（Michael D. Cohen）、詹姆斯·G·马奇（James G. March）与约翰·P·奥尔森（Johan P. Olsen） — 金登直接继承并拓展了其组织决策“垃圾桶模型”（Garbage Can Model）。
 > - **理论学术拓展者** 尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis） — 将金登的[[Multiple Streams Framework|多源流理论]]推向国际比较政治与欧洲一体化政策分析。
 > - **理论学术应用者** 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford） — 将金登模型与政策生命周期相结合，实证拓展其在[[Evidence-Based Education|循证教育]]改革中的应用边界。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]

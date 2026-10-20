@@ -62,7 +62,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Audit Trail
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s — 会计审计借用与[[Interpretive Paradigm\|自然主义探究]]奠基** Lincoln and Guba（1985）针对[[Positivism\|实证主义]]对[[Qualitative Research\|质性研究]]“缺乏客观性与可重复性”的责难，创新性地将金融财务领域的独立审计（financial audit）制度引入质性方法论，确立了以审计追踪为支柱的[[Reliability\|可依赖性]]与可确认性替代标准。
 > - **2000s — 六维档案体系确立与质性报告透明化浪潮** Onwuegbuzie and Leech（2006）系统提炼审计追踪的五大核心记录内容，Anfara et al.（2002）呼吁公开质性分析黑箱，审计追踪从哲学维度的抽象倡议转变为包含原始数据、分析备忘录与工具演变的结构化操作体系。
 > - **2010s — [[Qualitative Computer Software\|CAQDAS]] 数字化转型与超链接动态追踪** NVivo、ATLAS.ti 和 MAXQDA 等质性软件走向普及，软件将编码树快照、语境检索与反思备忘录直接集成于数据库底层，实现了审计追踪的无缝自动化记录。

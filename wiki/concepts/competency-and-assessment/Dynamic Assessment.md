@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Dynamic Assessment
@@ -104,7 +104,7 @@ updated: 2026-10-17
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Zone of Proximal Development|最近发展区]]导向（ZPD Orientation）** 聚焦于评估独立解决问题水平与在成人指导下所能达到水平之间的动态跨度。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 13)]]
 > - **主考人协助阶梯（Examiner Assistance）** 设定由弱至强的渐进线索序列：从一般性鼓励、格式调整，到关键策略提示、局部示范，直至完全演示。
 > - **认知可塑性量化（Cognitive Modifiability）** 通过“[[Pre-test and Post-test|后测]]得分减前测得分”或“[[Success Criteria|达成标准]]所需提示次数”，量化评估儿童的学习潜能。

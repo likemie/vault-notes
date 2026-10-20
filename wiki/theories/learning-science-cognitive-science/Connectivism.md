@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Connectivism
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 数字网络与人工智能时代知识呈现指数级爆炸、碎片化分布情境下，人类与技术网络协同[[Constructed Knowledge\|建构知识]]、识别模式与持续学习的机制。
 > - **理论问题** 传统[[Behaviorism|行为主义]]、认知主义和[[Constructivist Paradigm\|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与网络化学习。
 > - **理论类型** 数字时代学习理论、网络化[[Epistemology\|认识论]]模型与分布式教学设计框架。
@@ -134,7 +134,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 在线协作学习、开放式探究课程、生成式 AI 辅助研究、跨学科综合与数字素养培育。
 > - **谨慎使用** 早期基础符号习得（如初阶识字、基础算术规则内化），此类知识高度依赖内部[[Working Memory\|工作记忆]]的图式自动化。
 > - **不适合解释** 纯内部主观感知体验、潜意识情绪加工或孤立无技术的封闭心理测试。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
 > - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证网络化自主协同学习。
 > - **2010 年代 [[Learning Analytics\|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
@@ -169,5 +169,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 运用连通主义视角将 ChatGPT 概念化为分布式学习网络中的交互式认知中继，分析其在多源信息模式检测与跨情境综合中的赋能效能与局限。

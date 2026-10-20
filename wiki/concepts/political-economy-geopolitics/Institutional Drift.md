@@ -42,7 +42,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institutional Drift
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2004年–2005年 — 哈克奠定制度漂移理论雏形** [[Jacob S. Hacker|雅各布·哈克]]（Jacob S. Hacker）在分析美国福利国家私有化时首次系统提出“政策漂移”（Policy Drift），批判传统观点将福利收缩仅归因于直接削减立法的偏误，指出不更新规则是更隐蔽且强大的侵蚀机制。
 > - **2005年 — 纳入[[Historical Institutionalism|历史制度主义]]形态学** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中将漂移与置换、层叠、转换、耗竭并列，明确指认制度需要积极维护，刻意疏于维护将导致规则与社会现实发生结构性脱节。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦完成[[Causal Modeling|因果建模]]与行动者界定** 马奥尼与希伦在《解释制度变迁》中明确漂移与强否决、高裁量的因果对应关系，提炼[[Symbionts|寄生型共生者]]（Parasitic Symbionts）在阻挠规则更新中的关键作用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17, 24–25)]]
@@ -195,7 +195,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定漂移机制，分析刻意疏于维护如何导致正式规则与现实世界发生脱节并引发实质侵蚀。（pp. 24–26）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度漂移在强否决与高裁量权语境下的生成机制与[[Symbionts|共生者]]行动逻辑。
 

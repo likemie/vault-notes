@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Patient and Public Involvement
@@ -109,5 +109,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|The Royal Society (2026)]] — 系统解构生命科学产业界与第三部门医学慈善机构推进以患者为中心的研发参与机制。

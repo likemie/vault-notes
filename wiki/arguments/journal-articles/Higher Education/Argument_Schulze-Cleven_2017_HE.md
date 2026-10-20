@@ -82,7 +82,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2017
 doi: ""
 citation_aliases:
@@ -111,7 +111,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 这一多维分析策略不追求单一的理论正统，而是主动拥抱三种理论传统之间的[[Creativity\|创造性]]张力，面对当代高等教育转型的复杂性，任何单一[[Theoretical Perspective\|理论视角]]都必然有盲点(pp.795–799)。
 
 ### 三类核心现象

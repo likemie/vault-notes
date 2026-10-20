@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # University-Based Research Center
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **大学主导的议程设置与产业对齐** 大学先期设定核心攻关领域与战略技术路线，产业成员扮演评估者而非共同设计者角色，通过判断自身业务与大学技术方向的契合度决定是否出资加入。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 111)]]
 > - **政府引导与多元资金杠杆放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动杠杆，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
 > - **跨学科、跨机构多校协同架构** 打破单一工程或自然科学学科边界，汇聚机械、化工、微电子、材料及计算机等复合团队；高阶中心往往跨越单一高校，形成通过[[Master Agreement|主协议]]维系的多校联合攻关体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 367)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
@@ -231,7 +231,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将大学研究型中心系统定位于产学联盟四种形态之一，深入剖析其大学主导议程设置、政府双重资助及前景 IP [[Pre-negotiated IP Rights|优先谈判权]]机制。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任布洛赫口述史与全样本纵向数据，系统提炼多用途多学科大学研究中心（MMURC）[[Paradigm|范式]]，揭示[[Sunset Provisions|日落条款]]、双重聘任及中心主任微观协调困境。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 追踪康奈尔、斯坦福等微电子大学研究中心的兴起与演变，揭示其重资产开放共享、教学用芯片试验线创设及跨学科平台向纳米生物科技迁移的灵活性。

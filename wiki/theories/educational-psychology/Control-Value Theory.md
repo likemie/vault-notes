@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Control-Value Theory
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 学习者在教育情境中所体验到的成就情绪（Achievement Emotions，包括希望、[[Pride in Learning\|自豪]]、享受、焦虑、羞愧、绝望、无聊等）的前因、内在认知评价机制及其对[[Academic Engagement\|学业投入]]、认知策略与成就结果的深层作用。
 > - **理论问题** 克服以往动机与认知研究长期忽视“情绪（Affect）”维度的弊病，阐释情绪并非不可捉摸的非理性副产品，而是由特定的情境线索与认知评价系统决定的、具有高度结构化功能的动力中介。
 > - **理论类型** 中层认知-动机-情绪整合理论（Integrative Cognitive-Motivational Theory of Emotion）。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 考试焦虑、课堂无聊、技术采纳动机、学习倦怠、自适应教学系统的心理体验评价。
 > - **谨慎使用** 幼儿与低龄儿童阶段（因其[[Metacognition\|元认知]]与归因评价尚未成熟，情绪更多受直接感官刺激驱动）。
 > - **不适合解释** 无关成就目标的纯人际依恋、突发创伤应激反应或神经生理病理层面的严重抑郁症。
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2000–2002 — 理论初创** Reinhard Pekrun 提出控制-价值理论核心架构，打破以往单一关注考试焦虑的局限，构建涵盖多维学业情绪的整体图景。
 > - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑文献 *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
 > - **2014 — 跨文化与实证深化** Pekrun 等人出版专著并发布 AEQ 系列量表，在全球范围内验证控制-价值评价机制的普适性。
@@ -207,5 +207,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 结合控制-价值理论，实证剖析了生成式 AI 赋能高等教育学习产出的内在机制，证实[[AI Agent in Education\|智能体]]通过提升任务可控性与即时效用价值，显著改善了大学生的[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）并间接促进[[Academic Achievement\|学业成绩]]。

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Recognition Theory
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 人类个体如何在社会互动中获得完整的自主能动性、道德责任感与健全自我关系，以及当制度性安排否定或扭曲这种相互承认时所引发的社会苦难、心理异化与集体抗争。
 > - **理论问题** 批判早期西方社会哲学与功利主义将人视为原子化利己行动者的机械假设，突破[[Jürgen Habermas|哈贝马斯]]偏重纯粹理性言说论辩的局限，回应现代资本主义与技术[[Bureaucracy|官僚制]]度如何系统性物化人类[[Intentionality|主体意向性]]（Intentionality）并压抑弱势群体尊严的时代困境。
 > - **理论类型** 规范社会[[Critical Theory|批判理论]]、主体间哲学解释框架与教育正义反思[[Paradigm|范式]]。
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -172,7 +172,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 深度批判教育制度中的霸凌、歧视、新自由主义量化问责对师生尊严的伤害，揭示[[Technical Rationality|技术理性]]治理的道德冷漠与规范盲区。
 > - **成立条件** 需要研究者持有明晰的批判解释学立场，能够深入个体微观的生活世界主观体验，获取丰富质性证据。
 > - **解释不足** 理论偏重于哲学规范推演与道德心理学建构，其本身并不直接提供具体的学科课程知识编写规程或复杂量化[[Causal Modeling|因果建模]]技术。
@@ -201,7 +201,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 引入[[Axel Honneth|霍耐特]]承认理论与舍恩[[Technical Rationality|技术理性]]批判，系统解构[[John Hattie|哈蒂]]可见学习如何剥离师生[[Intentionality|意向性]]并造成教育关系的[[Dehumanization|物化异化]]（pp. 14–15）。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 结合[[Jürgen Habermas|哈贝马斯]]生活世界殖民论与霍耐特承认论，指出当代教育心理学正沦为官僚应对[[Legitimation Crisis|合法化危机]]的技术掩体。
 > - [[Critical Theory]] — 将承认理论作为法兰克福学派第三代推进批判理论[[Epistemology|认识论]]与主体间机制的核心组成部分。

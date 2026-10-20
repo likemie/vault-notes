@@ -63,7 +63,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deficit Framing
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 萌芽与批判** 伴随循证实践兴起，教师与弱势文化在政策与学术中被频繁界定为缺乏知识或资本的客体；学者开始反思赤字思维对少数族裔教育的伤害（Hodges, 1996; Valencia, 1997）。
 > - **2000s — 课堂归因与干预实证** 比肖普等人（Bishop et al., 2003）在 [[Te Kotahitanga]] 项目中系统剖析毛利学生的赤字理论；廷珀利（Timperley, 2004, 2005）与[[John Hattie\|哈蒂]]（[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）揭示“数据意外”对低经济地位学校教师赤字借口的破解机制。
 > - **2025 — 系统解构与[[Paradigm\|范式]]重塑** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 运用[[Critical Review\|批判性综述]]正式从[[Epistemology\|认识论]]层面解构科研使用领域 30 年的赤字框架，倡导专业敏感型研究范式。
@@ -230,6 +230,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 系统解构了教育[[Research Utilization\|研究使用]]领域 30 年来的 34 项核心文献，全面确立了赤字框架在[[Problem Finding\|问题界定]]、研究设计与政策推论中的表现形态与理论弊端。
 > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 结合比肖普（Bishop et al., 2003）与廷珀利（Timperley, 2004, 2005）的研究，深刻剖析了课堂教学中教师赤字理论对学业平等的阻碍机制，并提出“数据意外”与效能重构的破局路径。

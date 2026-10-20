@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cognitive Flexibility
@@ -263,7 +263,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]确立以认知灵活性为核心的思维训练（$g = 0.762$）的高效促学地位，并解析其多路径搜索与固着打破机制。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]指出[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享包括认知灵活性在内的[[Executive Function\|执行功能]]与[[Metacognition\|元认知]]调控底座（$r = 0.386$）。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]确立包含认知灵活性在内的认知加工能力与全域创造力的稳健关联（$r = 0.23$）。

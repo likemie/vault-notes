@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemological Naturalism
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 自然化[[Epistemology\|认识论]] | 传统规范性认识论 | 极端相对主义 |
 > |------|--------|----------------|----------------|
 > | 分析对象 | 真实的人类大脑、心理机制与社会[[Praxis\|实践]]。 | 理想化、抽象的认知主体。 | 权力结构与纯粹的[[Discourse\|话语]]建构。 |
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **连续性原则（Continuity with Science）** 哲学不应该站在科学之上颁发许可证，哲学本身应当与自然科学（心理学、认知科学）融为一体，共享同一种方法论。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > - **关注[[Causal Processes\|因果过程]]（Causal Processes）** 评价一个信念是否合理，不能只看它与其他信念在逻辑上是否一致，而必须看它是由什么样的自然因果过程（如视觉、记忆、推理、专家证词）所生成的。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **认知者的社会嵌入性** 自然化转向将研究视野从“沉思的孤立[[René Descartes\|笛卡尔]]式大脑”扩展到依赖社会分工的认知者。认知者必须依靠他人提供的信息（证词）和物质工具进行探究。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **17世纪至20世纪中 — 传统[[Epistemology\|认识论]]的“[[René Descartes\|笛卡尔]]焦虑”（前置背景）** 以 [[René Descartes\|笛卡尔]] 为代表的传统认识论始终面临激进怀疑论（如“恶魔假设”、“缸中之脑”）的威胁。为了拯救知识的合法性，哲学家们试图在完全脱离经验感官与心理学的前提下，通过纯粹的先验逻辑和第一人称的理性直觉（如“我思故我在”）为科学知识建立绝对不可动摇的底层地基（基础主义，Foundationalism）。这种[[Paradigm\|范式]]要求认识论必须作为“第一哲学”，像法官一样站在实证科学之外去审判科学的有效性。
 > - **1969 — 破局与自然化起源阶段** [[W. V. O. Quine]] 发表《自然化的[[Epistemology\|认识论]]》，指出笛卡尔式的基础主义项目已经彻底失败。他主张既然我们无法用纯演绎逻辑从感觉材料建构出科学理论，就应当放弃寻找绝对的确定性，将认识论降格交给心理学。
 > - **1980s — 扩展阶段** [[Alvin Goldman]] 提出[[Reliabilism\|可靠主义]]，将自然主义从 Quine 的激进版本引向温和版本，强调社会认识论，关注群体、同行评审和证词的作用。
@@ -142,6 +142,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 明确指出[[Epistemology\|认识论]]自然主义的兴起是教育学提出“[[Expanded Framework of Epistemic Cognition\|扩展的认识论认知框架]]”的最重要哲学基础，合法化了对多维[[Causal Processes\|因果过程]]的探究。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将自然化转向列为催生当代[[Epistemic Cognition\|认识论认知]]研究的多学科源流之一，打破了早期个人认识论研究单纯受[[Jean Piaget\|皮亚杰]]发展阶段论影响的狭隘视角。

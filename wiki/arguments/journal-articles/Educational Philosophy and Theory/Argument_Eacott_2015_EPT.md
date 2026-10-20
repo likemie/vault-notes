@@ -44,7 +44,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -53,12 +53,12 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 教育行政学者作为嵌入且具身于其研究对象（教育行政）中的行动者，其"智识凝视"（intellectual gaze）如何被这一嵌入位置所塑造？教育行政研究如何通过 Bourdieu 的[[Epistemology\|认识论]]框架重新建立"科学"探究的可能性？
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的[[Epistemology\|认识论]]维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*(p.313)。
 >
 > Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**。
@@ -67,14 +67,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 理论介入（theoretical intervention），非经验研究
 > - **进路** 以 Bourdieu 的[[Epistemology\|认识论]]框架审视教育行政学术的认识论预备
 > - **风格** Eacott (p.314)明确表示"不提供完整的理论、研究纲领甚至'如何做'的描述"，而是"勾勒一个以审视研究对象的建构为核心论点以将教育行政辩论推向新的和更富有成果的方向"——借用 Berger(1966)的话，这篇文章是"对读者的邀请，因此值得生成性阅读"
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > **三个论证支柱：**
 >
 > 1. **具身行动者（Embodied Agents）** 教育行政学者大多是前任学校/系统层面行政人员，"自发社会学家"——通过社会化内化了社会世界的客观结构，以 doxic 模态感知其研究对象。这模糊了经验与认识的边界，因为研究者对教育行政的价值持有"先反思信念"(p.317)。
@@ -90,7 +90,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ\|场域]]、习性、资本）的使用**，忽略了更根本的[[Epistemology\|认识论]]预备问题(p.313-314)
 > - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm\|范式]]分歧，而在**作为[[Knowledge Production\|知识生产]]场域与实践场域的关系**(p.323-324)
 > - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对[[Bureaucracy|官僚制]]的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到[[Discourse|话语]]层面"(p.324)
@@ -98,7 +98,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “行政学可能不是通过炮制无数的最佳实践清单以及基本特征或行为清单，而是通过不断努力对其自身的推理进行有据可依的批判，来得出其最实质性的科学工作”
 > ("administration may derive its most substantive scientific work not from producing countless lists of best practice and essential traits or behaviours, but rather through a constant effort to undertake an informed critique of its own reasoning")(p.318-319)
 >
@@ -113,7 +113,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > 论文自身承认的局限：
 > - Eacott 明确表示不提供"完整的理论、研究纲领甚至'如何做'的描述"——"the reader will need to go beyond this article if the invitation is to be taken seriously"(Berger, 1966, p.315)
 > - 论文是"邀请"而非蓝图——其价值取决于读者是否接受邀请并在自身研究中继续探索

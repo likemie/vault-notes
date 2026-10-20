@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Marlene Scardamalia
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 奠定了当代学习科学（Learning Sciences）关于社会建构与[[Epistemology\|认识论]]反思的核心理论底座，深刻影响了科学教育中的 [[AIR Model of Epistemic Cognition\|AIR]] 模型（[[AIR Model of Epistemic Cognition]]）与[[Inquiry-Based Learning\|探究式学习]]框架。
 > - **技术路径** CSILE 与 Knowledge Forum 启发了全球数十个协作学习与人机共创平台架构。
 > - **当代教育 AI 路径** 为[[UNESCO\|联合国教科文组织]]（UNESCO）AI 能力框架以及人机自适应[[Epistemic Stances\|认识立场]]共生理论（[[Symbiotic Framework of Adaptive Epistemic Stances]]）提供了最关键的[[Humanistic Episteme\|人本认识论]]依据。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] — 在[[Knowledge Building Theory|知识建构]]社群教学法与 Knowledge Forum 环境中开展 7 个月实证追踪，阐明[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]如何有效落实学生的[[Epistemic Agency|认识能动性]]与深层概念建构。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 依托 Scardamalia 的[[Epistemic Agency\|认识能动性]]理论，论证生成式 AI 环境下人类学习者保留最高[[Metacognition\|元认知]]调控与多源核验裁决权的不可替代性。（pp. 358–360）
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 评述科学探究实践中认识能动性的[[Operationalization\|操作化]]测量与课堂协商机制。（pp. 222–224）

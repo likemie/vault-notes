@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -79,13 +79,13 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Evidence-Based Education]] — 从科学史和科学哲学角度为 EBE 批判提供"民间科学观"和"最佳解释推理"等关键分析概念
 > - **Scriven [[Causality\|因果推断]]框架的引入** — 引用 Scriven (2008) 论证存在"超越合理怀疑建立因果性的多种方式"，包括天体物理学、气象学、流行病学、尸检、地质学和工程故障分析等领域使用的推断程序
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Thomas, G. (2004). Introduction: Evidence and practice. In G. Thomas & R. Pring (Eds.), *Evidence-based practice in education* (pp. 1–18). Maidenhead: Open University Press. — 证据阶段论([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 125]])
 > - Thomas, G. (2012). Changing our landscape of inquiry for a new science of education. *Harvard Educational Review*, 82(1), 26–51. — "民间科学观"概念的提出
 > - Thomas, G. (2016). After the gold rush: Questioning the 'gold standard' and reappraising the status of experiment and [[Randomised Controlled Trials\|randomized controlled trials]] in education. *Harvard Educational Review*, 86(3), 390–411. — "最佳解释推理"([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 126]])

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Philip Altbach
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1941** 出生于美国伊利诺伊州芝加哥。
 > - **1966** 在芝加哥大学获得教育学与社会学博士学位，博士期间深入考察印度学生运动与高等教育政治，奠定跨国比较与学生能动性研究基础。
 > - **1978–1988** 担任国际顶级期刊《比较教育评论》（CER）主编长达十年，在此期间秉持包容开放的办刊方针，大力扶持[[Qualitative Research|质性研究]]、[[Critical Theory|批判理论]]与全球南方学者的发声，见证并助推了比较教育学[[Paradigm|范式]]多元化。

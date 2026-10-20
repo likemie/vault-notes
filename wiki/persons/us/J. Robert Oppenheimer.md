@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # J. Robert Oppenheimer
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 核心思想与战略遗产
 
-> [!feature] 核心思想与战略遗产
+> [!feature|notitle] 核心思想与战略遗产
 > - **[[Engineering Pragmatism|工程实用主义]]与“技术精妙”行动偏好（Engineering Pragmatism & "Technically Sweet" Bias）** 奥本海默在战时洛斯阿拉莫斯展现出鲜明的[[Pragmatic Paradigm|实用主义]]作风，主张在面对极具挑战性且在技术上精妙绝伦（technically sweet）的难题时，工程师与科学家的本能是先将其实现出来，而将关于该项发明最终用途与伦理后果的辩论留待成功之后。这一倾向深刻刻画了现代前沿工程共同体的内生动力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]
 > - **国家战略牵引的[[Big Science|大科学]]协同模式（State-Directed Big Science [[Paradigm|Paradigm]]）** 打破传统象牙塔中零散自由探索的孤立形态，在[[Vannevar Bush|万尼瓦尔·布什]]领导的 [[Office of Scientific Research and Development|OSRD]] 顶层设计下，建立由国家安全明确战略目标牵引、高度组织化与跨学科交叉的军政产学大协同体制，奠定了战后[[Federally Funded Research and Development Centers|美国国家实验室]]系统与现代重大工程攻坚的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 > - **科学家群体的原罪认知与道德自省（The Physicists' Sin & Moral Accountability）** 广岛核爆后，奥本海默公开宣告物理学家已经“体会到了罪恶”，拒绝以技术中立为由洗脱科学家的道德责任。他强调科学家不仅是工具的制造者，更是人类命运的共同承担者，必须对尖端技术的毁灭性潜能保持高度清醒。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 17)]]
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Big Science|大科学工程]]研发路径** 开创了集中资源、多学科集成与目标倒逼的现代工程攻关[[Paradigm|范式]]，成为冷战阿波罗登月工程、[[Human Genome Project|人类基因组计划]]以及现代[[Artificial General Intelligence|通用人工智能]]集中式大模型训练的组织蓝本。
 > - **战略威慑与地缘安全路径** 奠定了后二战时期大国相互保证毁灭的核威慑基石，维系了近一个世纪的[[Long Peace|长和平]]，并作为理解 21 世纪从物理原子向算法软件转型的原初参照物。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–40)]]
 > - **科技伦理与政策哲学路径** 揭示了尖端科学研发与国家[[Hard Power|硬实力]]之间无法割裂的共生张力，成为现代科技政策反思工程师责任、技术双重用途与国家安全控制的经典教案。
@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **导师与[[Scientific Method|科学方法]]启蒙** [[Percy Williams Bridgman]] — 哈佛大学本科阶段导师，其实验操作主义哲学与科学中立论深刻影响了奥本海默早期的科学观。
 > - **战时战略顶层架构师与行政领导** [[Vannevar Bush]] — 二战 [[Office of Scientific Research and Development|OSRD]] 署长，[[Manhattan Project|曼哈顿工程]]的最高国家战略设计者与奥本海默的坚定支持者。
 > - **战略博弈与威慑理论家** [[Thomas Schelling]] — [[Strategic Bargaining Theory|战略博弈论]]奠基人，其相互威慑与谈判筹码理论在理论层面系统阐释了奥本海默所开启的核平衡机制。
@@ -227,5 +227,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析奥本海默的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），并对比国家大战略与硅谷[[Consumer Internet|消费互联网]]的历史对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

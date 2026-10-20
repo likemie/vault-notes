@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Academy Programme in England
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **规模化治理结构已经成型** 多数转制学校进入正式学院链，说明学院链与多学院信托已成为英格兰学校治理的常规组织形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 > - **参与不均构成结构性风险** 约四分之三的学校未采用学院身份，体系可能分化为转制与未转制两类，从而削弱自我改进取向所依赖的系统整体性。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
 > - **自主空间的[[Research Utilization\|证据使用]]效果不确定** 学院获得的自由并未自动转化为[[Evidence-Informed Practice\|证据知情实践]];除却围绕问责框架所看重的指标之外，这类制度并不利于证据知情实践的发展。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122)]]

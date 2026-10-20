@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # State Corporatism
@@ -51,7 +51,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 威权政体或一党主导型后革命国家（尤其是拉美国家如 20 世纪墨西哥）自上而下整合社会力量、吸纳阶级对抗、维持政治稳定与推行国家干预政策的制度结构。
 > - **理论问题** 解释为何在缺乏成熟多元民主制与自由公民社会的国家，政治精英能够长期压制激进社会反抗，并将教育系统改造成维系国家霸权的核心枢纽。
 > - **理论类型** 政治社会学与比较政治经济学中层解释框架。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 拥有深厚后革命历史、一党长期执政、国家对社会组织实行强力行政管控的发展中国家。
 > - **成立条件** 必须存在由国家行政垄断的代表体制与庇护资源交换网络。
 > - **解释不足** 倾向于将法团组织视作铁板一块的自上而下控制工具，忽视了基层工会成员可能发起的“野猫罢工”（Wildcat Strikes）与自下而上的民主化夺权斗争；在新自由主义去中心化下，传统法团网络的解体与重构未被充分动态追踪。
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 论述国家[[Neocorporatism|法团主义]]如何将教育作为[[Compensatory Legitimation|补偿性合法化]]手段维系后革命国家霸权。
 
 ---

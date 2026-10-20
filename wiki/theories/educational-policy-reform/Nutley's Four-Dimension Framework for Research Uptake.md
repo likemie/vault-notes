@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nutley's Four-Dimension Framework for Research Uptake
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释在多元、动态且高度政治化的公共政策与立法决策环境中，实证研究证据为何以及在何种条件下能够被政策制定者（议员、委员会幕僚、行政官员）关注、采纳与嵌入政策条文中，抑或被忽视与边缘化。
 > - **理论问题** 破解传统“理性线性模型”（即认为只要产生高质量科学证据，政策制定者就必然理性采纳）的理论失效与经验破产，回应循证政策治理中的“研究—政策鸿沟（[[Research-Policy Gap]]）”与“证据工具化”难题。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]（Mesolevel Analytic Framework）与诊断性评估模型。

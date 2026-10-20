@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Patricia Broadfoot
@@ -75,7 +75,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1948** 出生于英国。
 > - **1970s–1980s** 在牛津大学与布里斯托大学深耕教育评价社会学与比较教育研究，主持英法两国初等学校跨国对比，深入考察教师专业认同与评价体制的文化建构。
 > - **1990s** 主持著名的 PACE（Primary Assessment, Curriculum and Experience）大型跟踪项目；1999 年在《Compare》发表里程碑论文《他山之石可以攻玉：走向新比较“[[Learnology|学习学]]”》（*Stones from other hills may serve to polish the jade of this one: towards a neo-comparative 'learnology' of education*）。

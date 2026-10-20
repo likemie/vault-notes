@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Classroom Assessment Scoring System
@@ -144,5 +144,5 @@ CLASS 将复杂的课堂师生互动解构为三大支柱领域与十个核心�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 CLASS 列为 5 大基础观察工具之一进行要素精简与中低收入国家适用性调适。

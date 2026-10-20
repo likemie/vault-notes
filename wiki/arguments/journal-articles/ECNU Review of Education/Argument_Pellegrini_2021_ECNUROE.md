@@ -71,7 +71,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2021
 doi: ""
 citation_aliases:
@@ -82,21 +82,21 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 欧洲教育政策中，[[Research Utilization\|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives\|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act\|ESSA]] 式[[Evidence Standards\|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform\|证据本位改革]]？(pp.25-28)
 
 这篇文章要解释的核心张力是：[[EU|欧盟]]政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
 > - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research\|实验研究]]，政策文件也多是指导而非强制规定。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：政策文件分析与[[Literature Review\|文献综述]]。
 > - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的文献(p.25)。
 > - 分析对象：[[EU|欧盟]]和 Eurydice 网络成员国中促进[[Research Utilization\|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
@@ -145,7 +145,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. [[EU|欧盟]]从 2006 年起逐步把[[Research Utilization\|证据使用]]纳入教育和培训政策[[Discourse|话语]]，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation\|EEF]]、[[Strategic School Improvement Fund\|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation\|知识中介]]和政策资助之间的连接(pp.31-33)。
@@ -161,7 +161,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “证据不能被当作一种菜谱来使用”
 > ("Evidence cannot be used as a kind of recipe book")(p.35)
 >
@@ -170,7 +170,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > 文章的主要贡献是政策梳理和挑战诊断，而不是对成员国政策效果的因果评估。它依赖[[EU|欧盟]]、Eurydice 和相关组织文件，因此能够清楚呈现“有哪些倡议”，但较难判断这些倡议在学校层面实际改变了多少教师实践和学生学习结果。
 >
 > 另一个张力在于：文章批评欧洲倡议缺少系统路线图，但同时也承认欧洲教育治理由成员国负责，欧盟文件多为指导而非强制规定(pp.28, 41-42)。因此，“更清晰路线图”与“成员国教育主权”之间的制度矛盾仍需要进一步展开。

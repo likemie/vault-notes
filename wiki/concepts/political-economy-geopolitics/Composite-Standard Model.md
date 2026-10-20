@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Composite-Standard Model
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 深度解构博阿斯复合标准模型，辨析外围叠加保护核心的[[Path Dependence|路径依赖]]机制与改变行为结构的[[Institutional Layering|制度层叠]]机制的本质区别。
 > - [[Path Dependence]] — 路径依赖理论基础词条，复合标准模型构成了其解释复杂生态系统技术锁定的重要微观机制。
 > - [[Institutional Layering]] — [[Historical Institutionalism|历史制度主义]]核心渐进变迁机制，通过与复合标准模型对质确立变迁与再生产的分析边界。

@@ -35,19 +35,19 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework\|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 [[Performativity]]（施行性——测量不只是描述世界，更是制造世界）([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6–7]])。
 >
 > > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b;)
 
 ## 历史沿革
 
-> [!note-] 历史沿革
+> [!note-|notitle] 历史沿革
 > - Woolgar (1991a, 1991b) 最早提出该框架([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6, 18]])
 > - Derksen (2000) 在 DNA 鉴定案例中进一步发展了测量社会学([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6]])
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 将其应用于教育政策领域，研究 [[OECD]] [[International Education\|国际教育]]指标的发展([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6–7]])
@@ -66,21 +66,21 @@ updated: 2026-10-15
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - vs **[[Performativity of Measurement]]** — Sociology of Measurement 是包含 instrumentalism 和 [[Performativity]] 两个维度的整体框架；Performativity 是其第二个维度
 > - vs **[[Science and Technology Studies]]** — STS 是更广泛的跨学科领域，Sociology of Measurement 是其一个特定分支
 > - vs **Statistics / Statistical Analysis** — 传统统计学关注准确性和代表性，测量社会学关注的则是测量实践如何同时是知识实践和治理实践
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6]])
 > - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999;）
 > - **Jasanoff 的共同生产（[[Knowledge Co-production\|co-production]]）** — 科学与国家相互构成(Jasanoff, 2004;)
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > Gorur 以 [[OECD]] 指标开发为案例展示测量社会学的应用：
 > - [[International Indicators of Education Systems\|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & STAR, 2000; Law, 1994）将多样化世界标准化([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.9–10]])
 > - "共识"可视为一种"转译"（Callon, 1986; Latour, 1999），它消除或最小化阻碍([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.17]])

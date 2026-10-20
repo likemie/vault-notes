@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critical Pluralism
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育政策制定过程中的权力博弈、证据[[Discourse|话语]]建构，以及教育专业人员与公众在民主治理中的实质性参与路径。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–2)]]
 > - **理论问题** [[Pluralism|传统多元主义]]忽视社会各群体在权力与资本上的巨大结构性不平等；[[Neocorporatism|法团主义]]将政策谈判局限于高层组织代表而引发会员合法性危机；次政府与[[Elite Theory|精英理论]]将政策制定视为封闭集团的寡头控制，从而导致基层教育者陷入政治无能感与顺从主义。
 > - **理论类型** 规范性与批判性政策[[Analytic Framework|分析框架]]，兼具制度分析功能与实践行动指引。
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 官方强力规制学科教学法与科研标准的政策制定事件、专业学会的代表性危机、学术[[Discourse|话语]]同盟对决策的寡头垄断，以及自下而上的民主抗争与政策反思。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–4, 10–11)]]
 > - **成立条件** 需要研究者具备穿透技术性科学话语的多维政策研究能力（统整功能主义、沟通性与批判性），以及实践者具备一定的宪政常识与公民行动意愿。
 > - **解释不足与现实制约** 埃德蒙森自述，批判性[[Pluralism|多元主义]]所倡导的地方合宪抵制策略（如学区主动拒绝申请联邦巨额专项拨款），在深陷财政匮乏与经费赤字危机的薄弱学区极难实施，普通教师在抗衡国家立法机器与商业同盟时承受着巨大的经济与职业压力。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 13–14)]]

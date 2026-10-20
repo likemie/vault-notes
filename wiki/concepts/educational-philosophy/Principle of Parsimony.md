@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Principle of Parsimony
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **概念经济性（Conceptual Parsimony）** 严格控制[[Construct\|理论构念]]的数量，用最紧凑的概念系统涵盖最大范围的经验现象，防止虚构多余的经院哲学实体。
 > - **假设精简化（[[Hypothesis]] Economy）** 呼应 Kerlinger（1970）关于良好假说的辅助准则——假说应当以最经济的方式表达[[Variable\|变量]]之间的关联。
 > - **模型选择与过拟合防御（Model Selection and Overfitting Prevention）** 在现代统计分析中，简约原则体现为对自由度与自由参数的数学惩罚机制，确保统计模型具备高外推效度与普适泛化力。
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **14 世纪 — 哲学[[Ontology\|本体论]]剃刀提出** 奥卡姆的威廉提出著名的奥卡姆剃刀，重创中世纪经院哲学的繁琐概念虚构，为经验自然科学清理道路。
 > - **20 世纪初 — 现代物理学约束确立** 爱因斯坦将简约原则明确为“简单但不过度”，确立了理论美学与经验[[Falsification\|可证伪性]]之间的动态平衡。
 > - **1970s — 测量假说与模型准则形式化** Kerlinger（1970）将经济性确立为假说检验四大标准之一；随后 Akaike（1974）提出 AIC 准则，使简约原则成为现代统计建模的数学显式标准。

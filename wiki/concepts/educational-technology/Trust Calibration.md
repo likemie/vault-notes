@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Trust Calibration
@@ -193,5 +193,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 从规范[[Epistemology|认识论]]视角系统阐述信任校准与过度信任，澄清其与主观自信的本质区别，提出利用[[Defeater|反驳型击败者]]（Defeaters）与反思机器（Reflection Machines）校准批判性信任并防范[[Automation Bias|自动化偏差]]。

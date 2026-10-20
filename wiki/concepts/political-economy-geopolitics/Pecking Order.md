@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # Pecking Order
@@ -66,7 +66,7 @@ updated: 2026-10-08
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 动物啄序与科层种姓 | 去中心化群智能（[[Swarm Intelligence\|群智能]]） | 敏捷工程公社（[[Engineering Mindset\|工程公社]]） |
 > |---|---|---|---|
 > | **秩序基础** | 力量威慑、特权占有与自上而下顺从 | 对等交互、公开辩论与动态共识[[Emergence\|涌现]] | 实战产出、代码说话与[[Status Transactions\|工具性地位]]协商 |
@@ -94,7 +94,7 @@ updated: 2026-10-08
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1921 — 经典发现** 挪威动物学家托尔莱夫·舍尔德鲁普-埃贝在鸡群观测中首次提出啄序概念。
 > - **1949 — 鸟类社会学深化** [[Konrad Lorenz|康拉德·劳伦兹]]在《所罗门王的指环》中将其扩展至寒鸦等高度社会化鸟类。
 > - **1979–2025 — 组织与工程批判** [[Keith Johnstone|基思·约翰斯通]]与卡普、扎米斯卡将其引入人际演剧学与现代科技组织批判，作为反思[[Bureaucracy|科层制]]僵化特权的核心对照范畴。

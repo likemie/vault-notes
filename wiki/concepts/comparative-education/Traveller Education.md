@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Traveller Education
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 旅行者教育（Traveller Education） | [[Nomadic Education\|游牧教育]]（Nomadic Education） | 普通跨国移民教育（Immigrant Education） |
 > |------|-----------------------------------|---------------------------------------------|----------------------------------------|
 > | 群体底色 | 具有漫游大篷车传统的本土少数群体与东欧罗姆人 | 依附草原荒漠生态的季节性迁徙放牧牧民 | 跨境跨国流动的劳工家庭及其[[Migrant Children\|随迁子女]] |
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **漫游污名的社会统合（Social Stigma of Itinerancy）** 尽管大篷车社群内部高度异质（涵盖传统流动家庭、已定居家庭以及冷战后来自中东欧的新罗姆移民），但在主流定居社会眼中均被统一贴上“流窜、不稳定与边缘病态”的社会污名。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 > - **学校微观空间的结构化规训（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体习性。
 > - **多元文化承认与空间同化的政策张力（Recognition vs Containment Paradox）** 英国等国政策一方面通过“旅行者教育服务（Traveller Education Services, TES）”试图在课程中尊重其族群尊严，另一方面学校的日常组织结构却在物质与身体层面强制推行定居化纪律，使教育实践陷入深刻矛盾。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1967年 — 普劳登报告（Plowden Report）关注** 英国官方调查首次将吉普赛儿童列为全国最受教育忽视与体制排斥的群体，开启国家级干预。
 > - **1990年代 — 专门化旅行者教育服务（TES）兴起** 英国各地设立专门流动辅导团队，尝试平衡流动家庭的居留不确定性与基础识字需求。
 > - **2000年代初 — [[Ethnography|民族志]]转向与空间微观分析** 批判学者（如 Bhopal、Derrington、Levinson 等）运用深入田野与身体空间理论，揭示出学校物理微观规训对大篷车文化的结构性排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
@@ -171,5 +171,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合英国旅行者儿童案例，论证学校微观空间区隔如何引发文化失调，并剖析[[Intercultural Education|跨文化教育]]政策在承认与隔离之间的困境。

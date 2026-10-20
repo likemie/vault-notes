@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter Woods
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1934** 出生于英国，早年投身中等教育一线教学实践，积累了关于学校日常运转与师生互动生态的丰富感性经验。
 > - **1970s** 进入英国开放大学任教，长期担任教育学院社会学教授，致力于将芝加哥学派[[Symbolic Interactionism\|符号互动论]]与微观[[Ethnography\|民族志]]方法本土化转译于英国学校研究。
 > - **1979** 出版代表作《分化的学校》（*The Divided School*），在英国教育社会学界确立了微观互动论的经验[[Paradigm\|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推动英国教育社会学从宏观[[Structural Functionalism|结构功能主义]]向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为编码系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论渊源** [[George Herbert Mead]] — 继承米德的角色采纳、符号互动与心智/自我/社会理论遗产。
 > - **学术论敌** [[Basil Bernstein]] — 伯恩斯坦批评伍兹等微观互动论者陷入“微观剧场封闭”，漠视制度权力不对称对[[Thomas Theorem\|情境定义]]的结构性强制。
 > - **方法共鸣** [[Rom Harré]] — 呼应哈雷的[[Anthropomorphic Model\|拟人化模型]]与事件分析法，共同主张将人作为能动主体对待。

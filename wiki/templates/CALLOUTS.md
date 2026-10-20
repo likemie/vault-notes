@@ -501,7 +501,7 @@ updated: 2026-10-21
 - callout 名称描述的是**内容结构**，不是主题关键词；“路径”“链条”“机制”等字样本身不构成使用依据。
 - `[!chain-link]` 是低频、强语义组件。若相邻链节可以交换顺序、删除一项而不影响结论，或每项只是并列信息，则禁止使用。
 - **`[!claim|lead]`**：紧跟章节标题（如“### 论证步骤一 …”）的核心主张写 `> [!claim|lead] 步骤一核心主张`。`|lead` 让卡片只显示 CORE CLAIM 眉标、不再重复标题；独立出现、需要自身标题的 claim 不加 `|lead`。
-- **`|notitle`**：不写标题的组件写成 `> [!entry-map|notitle]`，只显示眉标，避免 Obsidian 自动补出与眉标重复的类型名（如 “Entry map”）。
+- **`|notitle`**：两种情况加 `|notitle`，只显示眉标：① 不写标题的组件（如 `> [!entry-map|notitle]`），避免 Obsidian 自动补出与眉标重复的类型名；② callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字），如 `## 相关研究` 下的 `> [!evidence-grid-a|notitle] 相关研究索引`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
 - **折叠统一规则（2026-10-21）**：只有以下几类写 `-` 默认折叠，其余一律不加 `-` / `+`：
   - 解读类：`[!exegesis]-`、`[!implication]-`、`[!result-reading]-`
   - 推理与边界：`[!warrant]-`、`[!boundary]-`

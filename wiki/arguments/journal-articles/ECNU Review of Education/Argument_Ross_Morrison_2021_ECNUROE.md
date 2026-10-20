@@ -67,7 +67,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2021
 doi: ""
 citation_aliases:
@@ -78,26 +78,26 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有[[Evidence Standards\|证据标准]]常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001\|NCLB]]、[[What Works Clearinghouse\|WWC]] 与 [[Every Student Succeeds Act\|ESSA]] 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据(pp.109-110)。
 > - 复杂教育系统 — 学校系统由管理者、教师、学生、家长等多类行动者共同构成，互动具有非线性，因此同一项目在不同语境中可能产生不同结果，也会被不同利益相关者作不同解释(p.111)。
 > - [[Absorptive Capacity\|吸收能力]] — 学区能否从外部评价中学习，取决于关键伙伴是否理解项目、沟通是否开放、领导是否支持；吸收能力越高，评价证据越可能进入改进过程(p.122)。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Literature Review\|文献综述]]加案例说明。前半部分梳理教育[[Research Utilization\|证据使用]]中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow\|STAT]] [[Technology Infusion\|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化(pp.109-110, 113-115)。
 > - 案例资料：STAT 评价使用教师[[Questionnaire\|问卷]]、学生[[Focus Group\|焦点小组]]、校长与教师访谈、[[Classroom Observation|课堂观察]]、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区(pp.115-118)。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation\|形成性项目评价]]、[[Logic Model\|逻辑模型]]和多方解释如何共同影响项目持续性(pp.121-124)。
 
 ## 论证结构
 
-> [!example] 论证结构
+> [!example|notitle] 论证结构
 > 这篇文章的论证不是简单说“严格证据没用”，而是把问题拆成两段：第一段说明正式证据为什么必要但不够用；第二段用 [[Students and Teachers Accessing Tomorrow\|STAT]] 案例说明，同一组证据进入复杂学区后会被不同人解释成不同结论。
 
 ### 第一层：证据运动把“有效项目”变成政策要求
@@ -174,7 +174,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > ### 关于[[Research Utilization\|证据使用]]
 > 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题(pp.120-121)。
 > 2. 证据审查若只报告[[Statistical Significance\|统计显著性]]和[[Effect Size\|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息(p.121)。
@@ -204,7 +204,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow\|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果(p.124)。
 
 > [!warning] 局限性与批评

@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Soft-Money Faculty Model
@@ -149,5 +149,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理软钱教职模式从战后萌芽到当代全覆盖的演变机制，剖析其对科学研究风险偏好的负面影响。

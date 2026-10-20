@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Larissa Adler Lomnitz
@@ -71,7 +71,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1932** 出生于法国巴黎，成长并求学于智利圣地亚哥。
 > - **1950 年代** 毕业于智利大学，投身社会学与人类学[[Fieldwork|田野调查]]。
 > - **1970–1974** 在墨西哥国立自治大学（UNAM）师从人类学大师，完成具有世界性声誉的墨西哥城贫民窟人类学博士研究。
@@ -111,7 +111,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **人类学与教育实证研究** 其[[Ethnography|民族志]]方法深刻启发了比较教育学界开展“新自由主义教育改革的微观民族志”，证明了宏观经济指标繁荣与微观社会生活苦难之间的尖锐悖论。
 > - **拉美政策批判** 成为批判学者与学生抗议运动（如 2011 智利企鹅革命与学生运动）反思皮诺切特教育券遗产的经典实证基准文献。
 
@@ -119,7 +119,7 @@ updated: 2026-10-17
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心学术合作者** 安娜·梅尔尼克（Ana Melnick） — 共同完成智利中产阶级生存斗争调查。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 引用其智利田野结果证成新自由主义教育市场化是资产阶级阶级策略。
 

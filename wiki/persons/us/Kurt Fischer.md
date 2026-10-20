@@ -30,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -39,7 +39,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Fischer (1980) 的技能理论核心主张([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])：
 >
 > - **四阶段循环递进** — 与[[Jean Piaget\|皮亚杰]]和 Case 一样，理论化存在四个发展阶段，每个阶段有循环递进的模式
@@ -48,12 +48,12 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Neo-Piagetian Theories\|neo-piagetian-theories]] — 技能理论将环境因素系统性地纳入认知发展阶段模型
 > - 其 Single Representations → Representational Mappings 阶段转变（约 4–5 岁）被 [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] 作为新[[Jean Piaget\|皮亚杰]]阶段与 EF 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.10]])
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 在[[Jean Piaget\|皮亚杰]]和 Case 的基础上构建，但更强调环境/经验的作用
 > - 其实际-最优技能水平的区分为理解认知发展的个体差异提供了框架

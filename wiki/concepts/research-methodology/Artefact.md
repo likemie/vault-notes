@@ -62,7 +62,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Artefact
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 物质器物（Material Artefact） | 方法人为产物（Methodological Artefact） | [[Boundary Object\|边界对象]]（Boundary Object） |
 > |------|-----------------------------|----------------------------------------|---------------------------|
 > | **本体属性** | 物理空间中的实体对象与物质文化 | 测量偏倚催生的虚假统计假象 | 跨群体协作的中介性人工制品 |
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪末–20 世纪初 — 经典人类学与考古学物质文化传统** 将器物作为辨识失落文明、技术演进与社会分层的关键实体证据。
 > - **1970–1990 — 组织社会学与方法论批判期** Schein 确立器物在[[Organizational Culture\|组织文化]]三层结构中的位置；方法论学者将“人为产物”引入测量效度批判，强调[[Triangulation\|三角验证]]对排除工具伪效应的意义（Lin, 1976）。
 > - **2000 至今 — [[Post-structuralism\|后结构主义]][[Discourse|话语]]转向与数字中介** 物质器物被视为处于持续生产中的话语文本（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）；ChatGPT 等[[Generative Artificial Intelligence\|生成式人工智能]]被界定为兼具鲁棒性与情境塑模性的数字人工制品与[[Boundary Object\|边界对象]]（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）。
@@ -185,7 +185,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]] — 阐述[[Discourse Analysis\|话语分析]]把人工制品视为文本实践；器物作为[[Visual Data\|视觉数据]]见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Ch. 27]]，方法伪效应与[[Triangulation\|三角验证]]见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Ch. 10]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 32]] — 批驳实证派将早期比较教育先驱贬为“幼稚前科学与粗劣器物借用期”的[[Whiggism\|辉格史学]]偏见。
 > - [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 161]] — 运用[[Boundary Object\|边界对象]]理论将 ChatGPT 界定为连接学术规范与个性化表达的数字人工制品。

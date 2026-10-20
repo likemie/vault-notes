@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cognitive Shifting
@@ -102,13 +102,13 @@ updated: 2026-10-20
 
 ## 与前额叶皮层的关系
 
-> [!info] 与[[Prefrontal Cortex\|前额叶皮层]]的关系
+> [!info|notitle] 与[[Prefrontal Cortex\|前额叶皮层]]的关系
 > 转换任务期间前额叶皮层的 vlPFC 和 dlPFC 区域被激活，与个体重新聚焦注意力或切换任务的情况一致；背外侧 PFC（dlPFC）在任务需要新颖性或任务间切换时发挥作用。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, pp. 8]], 12）
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — 系统阐述认知转换的定义、转换成本、测量工具、发展轨迹及其与[[Executive Function\|执行功能]]、[[Prefrontal Cortex\|前额叶皮层]]的关系。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中指出[[Cognitive Flexibility\|认知灵活性]]（转换）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的执行功能成分之一。

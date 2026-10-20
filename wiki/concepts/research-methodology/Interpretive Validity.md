@@ -67,7 +67,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Interpretive Validity
@@ -194,6 +194,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽阐发 Maxwell (1992) 的解释效度定义，指出其以参与者术语捕捉主观意义的核心属性，并辨析了[[Qualitative Research|质性研究]]与量化实证[[Paradigm|范式]]在效度基石上的深层分野。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 运用[[Metascience|元科学]]全库审计剖析《[[Visible Learning|可见的学习]]》，实证揭示研究对象与对照基线的广泛混杂如何瓦解二阶综合[[Effect Size|效应量]]的因果解释效度。

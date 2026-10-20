@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Effective Altruism
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 有效利他主义（Effective Altruism） | 儒家君子德性（[[Junzi]]） | 硬信念（[[Hard Belief]]） |
 > |---|---|---|---|
 > | **伦理判准** | 单一量化效用计算与福利最大化 | 仁义礼智信、家国忠诚与实质德性修养 | 捍卫宪政民主与制度理想的坚定意志 |
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **单一福利指标的算术化还原（Metric Utilitarianism）** 将极其丰富的人类文明经验、审美追求与共同体责任，简化为诸如“每美元拯救生命数”或“预防疾病伤残调整寿命年”等单一量化指标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 > - **脱嵌于政治共同体的抽象[[Cosmopolitanism|普世主义]]（Disembodied Universalism）** 宣称所有生命福利在道德计算中具有绝对均等权重，以此在伦理上否定个体对本土政治共同体、历史传统与国家宪政防卫的特殊责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–214)]]
 > - **科技精英的道德避险庇护所（Moral Cover for Technocrats）** 为硅谷高管与软件工程师提供了一种披着崇高理想外衣的心理安慰剂，使其能够合理化自身的政治冷漠，延缓面对人类对生命意义与终极善恶的严肃探寻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1975 — 功利主义伦理奠基** 彼得·辛格发表《动物解放》（*Animal Liberation*），确立不分种属的普遍功利最大化伦理计算框架。
 > - **2009–2010s — 硅谷有效利他主义运动兴起** 以牛津大学学者（如威廉·麦卡斯基尔）为代表发起“有效利他主义”，迅速被硅谷创业者与科技资本奉为行业主流慈善哲学。
 > - **2020s — 伦理危机与破产反思** 伴随 FTX 崩溃等一系列硅谷高科技丑闻，有效利他主义被揭露出过度功利计算下的道德盲区与虚伪性。
@@ -193,5 +193,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合彼得·辛格哲学渊源与罗杰·斯克鲁顿批判，系统解构有效利他主义作为科技精英非道德避险策略的实质及其引发的文化虚无危机。

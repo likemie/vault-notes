@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Project-Based Learning
@@ -199,5 +199,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。

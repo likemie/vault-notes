@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Hilda Taba
@@ -57,6 +57,6 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **课程理论引用** [[Bob Darwish]] — 在审查 [[Theory of Knowledge\|TOK]] 课程内容筛选标准时引述 Taba 的知识层次理论。
 > - **相关课程** [[Theory of Knowledge]]。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Encyclopaedism
@@ -159,6 +159,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 追踪欧洲[[General Education\|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 IB 的六学科、共同核心和深度选项呈现课程回应。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] 追踪全球教育[[Discourse|话语]]在拉丁美洲的转译，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

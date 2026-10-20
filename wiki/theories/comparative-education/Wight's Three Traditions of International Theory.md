@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Wight's Three Traditions of International Theory
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及跨国教育治理网络。
 > - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和新自由主义治理下的无意识共谋。
 > - **理论类型** 国际关系理论框架、分析视角与批判范式。
@@ -204,7 +204,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 跨国教育[[Policy Mobility\|政策流动]]与借用动机、国际组织（[[OECD\|经合组织]]/[[World Bank\|世界银行]]/[[UNESCO\|联合国教科文组织]]）的教育治理网络、比较教育学科史与学术建制变迁。
 > - **谨慎使用** 双边或地区性教育技术合作，需注意排除纯技术性操作层面的噪音，精准提炼其宏观政治张力。
 > - **不适合解释** 微观维度的课堂教学法效果、个体层面的认知与学习机制，以及不涉及国际流动的纯本土日常学校运营。

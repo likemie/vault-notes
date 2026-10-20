@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Creative Deskilling
@@ -142,5 +142,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统剖析[[Generative Artificial Intelligence|生成式人工智能]]对学生个体与集体[[Creativity|创造力]]的[[Cognitive Deskilling|去技能化]]风险，提出基于兴趣锚定与叙事模式的人工智能[[Scaffolding|教学脚手架]]以培育创造力美德。

@@ -25,7 +25,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 该理论要理解或解释什么现象、关系、过程或规范问题。
 > - **理论问题** 它回应什么既有解释的不足、经验谜题或研究困境。
 > - **理论类型** 说明它是解释理论、分析框架、规范理论、批判视角还是方法论框架。
@@ -145,7 +145,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 该理论在哪些问题、对象、层次和情境中有解释力。
 > - **成立条件** 使用它需要哪些前提、材料或研究设计。
 > - **解释不足** 哪些重要机制、主体或现象未被充分说明；注明是原作者自述、后续研究发现还是本条目的推断。
@@ -186,5 +186,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验、修正或批评该理论。

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nikolas Rose
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947 年** 出生于英国伦敦，早年在萨塞克斯大学修习生物学，后转向伦敦大学学院（UCL）与伦敦政治经济学院攻读心理学与社会学，奠定了其贯通生命科学、临床医学与权力政治社会学的跨学科研究视野。
 > - **1970–1980 年代** 投身于批判心理学运动，创办著名理论期刊《意识形态与意识》（*Ideology & Consciousness*）；任教于布鲁内尔大学社会学系，运用米歇尔·福柯（Michel Foucault）晚期思想剖析现代心理学、精神病学与福利国家对公民日常行为的微观管辖。
 > - **1989 年** 出版奠基性著作《治理灵魂：塑造私人自我》（*Governing the Soul*），系统提出“[[Psychologisation|心理化]]治理”[[Paradigm|范式]]，揭示新自由主义如何通过普及“自主、自由与自我实现”的心理学术语实现对劳动者的深度柔性规训。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 极大地丰富并系统化了盎格鲁-撒克逊学界对福柯“[[Governmentality|治理术]]”（Governmentality）的阐释，建立了高级自由主义、远处统治与计算权力的经典[[Analytic Framework|分析框架]]。
 > - **方法路径** 倡导“政治技术学分析”（Analytics of Government），主张通过解构[[Questionnaire|问卷]]量表、会计报表、测评指标与算法分类来追踪权力在毛细血管层面的运作。
 > - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、珍妮·奥兹加（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者／思想盟友** 彼得·米勒（Peter Miller） — 伦敦政治经济学院长期合作学者，共同发表多篇奠基性论文，开创经济生活治理与会计量化社会学研究。
 > - **思想对话者** 米歇尔·福柯（Michel Foucault） — 其[[Governmentality|治理术]]与生命政治思想构成了罗斯终生学术探讨的理论底色。
 > - **理论应用者** [[Bob Lingard]]、[[Fazal Rizvi]] — 将其[[Governing at a Distance|远处治理]]与数字即政策学说深度引入比较教育学与跨国政策社会学。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cosmopolitanism
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **道德普遍主义** 主张所有人无论其出生地、种族或国籍，都享有同等内在道德价值与人权尊严。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **跨国界道德责任** 认为个体的义务不仅限于地理熟人圈（超越[[Dunbar's Number|邓巴数]]与本地社群），必须延伸至远方陌生人与全人类。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **世界公民教育构想** 在课程与教学中强调多元文化理解、批判性理性反思以及克服本位狭隘偏见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **公元前 4 世纪 — 犬儒学派与斯多葛哲学** 第欧根尼（Diogenes）自称世界公民（Cosmopolites），斯多葛学派确立了超越城邦边界的全人类普遍理性同心圆理论。
 > - **1795 — [[Immanuel Kant|康德]][[Perpetual Peace|永久和平]]构想** 康德（Immanuel Kant）发表《走向永久和平》，提出以世界公民法权（Weltbürgerrecht）作为跨国交往与普遍好客原则的宪政基础。
 > - **1994 — 努斯鲍姆爱国主义与世界主义之争** [[Martha Nussbaum|玛莎·努斯鲍姆]]在《波士顿评论》发表论战性文章，开启当代政治哲学关于[[Global Citizenship|全球公民身份]]的大讨论。
@@ -178,5 +178,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章剖析努斯鲍姆与桑内特的世界主义观点，论证抽空国家认同对技术协作与国家防卫意志的深层破坏，阐述[[Technological Republic|技术共和国]]在[[Hard Power|硬实力]]、国家叙事与全球地缘博弈中的战略重构路径。

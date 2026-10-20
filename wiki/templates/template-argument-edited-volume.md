@@ -88,7 +88,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 跨章主题线索
 
-> [!cross-chapter] 跨章主题线索
+> [!cross-chapter|notitle] 跨章主题线索
 > - **主题线索一** 说明哪些章节共同处理同一概念、理论、对象、案例或争议。
 >   - **相关章节** Ch. X [[<Argument_章节作者_年份_关键词>]]；Ch. Y [[<Argument_章节作者_年份_关键词>]]。
 >   - **阅读价值** 说明为什么应把这些章节放在一起读。
@@ -100,7 +100,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 章节处理路线
 
-> [!chapter-roadmap] 章节处理路线
+> [!chapter-roadmap|notitle] 章节处理路线
 > - **已处理章节** Ch. X、Ch. Y。说明目前 overview 依据哪些章节已经深入处理。
 > - **优先处理章节** Ch. X、Ch. Y。说明优先级理由，例如导论核心章、理论枢纽、方法枢纽、案例代表性或被其他条目频繁引用。
 > - **可暂缓章节** Ch. X、Ch. Y。说明暂缓理由，例如重复性高、与当前研究问题关联弱、资料不足。

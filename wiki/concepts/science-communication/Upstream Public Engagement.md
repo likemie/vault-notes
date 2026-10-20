@@ -45,7 +45,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Upstream Public Engagement
@@ -82,7 +82,7 @@ updated: 2026-10-15
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **议程设定的平权性（Co-creation in Agenda-setting）**
 >   公众与非专业群体不再仅作为被调查的数据提供者，而是实质性参与界定“哪些现实问题最值得被研究”，例如在医学健康与环境生态领域的优先序磋商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 100)]]
 > - **全生命周期的前置性（Lifecycle Front-loading）**

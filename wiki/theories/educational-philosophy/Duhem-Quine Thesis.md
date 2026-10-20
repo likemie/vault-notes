@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Duhem-Quine Thesis
@@ -45,7 +45,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 经验证据与理论选择之间的关系：为什么仅凭逻辑和经验证据无法唯一地决定科学理论的选择。
 > - **理论问题** 如果证据不能唯一决定理论，那么理论选择的合理性基础是什么？这一论题是否会导致对科学事业的怀疑论？
 > - **理论类型** 科学哲学中的[[Epistemology\|认识论]]论题（epistemological thesis），属于中层理论工具。
@@ -77,5 +77,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 将该论题作为 [[Theory of Knowledge\|TOK]] 课程中替代简化版[[Falsification\|证伪主义]]的教学起点，通过[[Otto Neurath]] 的反基础主义[[Positivism\|实证主义]]将不完全决定性与 [[Socioscientific Issues\|SSI]] 教育连接起来。

@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Global Policy Space
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **非领土承载的[[Space of Flows\|流动空间]]（Space of Flows）** 其物质基础是信息技术与高度流动的组织节点（如 [[OECD]] 总部、[[World Bank\|世界银行]]），允许社会实践在非领土毗连的情况下同时发生。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 349]])
 > - **[[Network Society\|网络社会]]运作逻辑（Network Logic）** 以自动机运作、纳入/排除的二元选择、无中心但节点不平等的非对称性，以及项目驱动的临时互通性进行灵活重组。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 350–351]])
 > - **[[Performativity\|操演性]]评估压倒一切（Performativity）** 行动者的声誉和在网络中的主导节点地位由“影响范围”（如测试采纳度、政策引用率）界定，这使得追求可见绩效的[[Pragmatic Paradigm\|实用主义]]压倒了意识形态的一致性。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 352–353]])
@@ -120,6 +120,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条[[Discourse|话语]]线索，揭示其在拉丁美洲落地的多级转译与实践变形。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 探讨全球测量网络（如 [[PISA]]）作为主导节点对全球政策空间的[[Performativity\|操演性]]宰制，批判了由此导致的比较教育量化技术化。

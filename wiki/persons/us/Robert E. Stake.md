@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Robert E. Stake
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于美国。
 > - **1958** 获普林斯顿大学心理测量学博士学位，奠定其早期量化[[Evaluation Research|评估研究]]的理论基础。
 > - **1963–至今** 加入伊利诺伊大学厄巴纳-香槟分校，长期任职于教育学院，并出任教育质量研究与课程评估中心（CIRCE）主任，发展出以自然主义[[Fieldwork|田野调查]]为核心的教育评估[[Paradigm|范式]]。
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法论路径** 其[[Case Study|案例研究]]艺术性方法论与罗伯特·殷（Robert K. Yin）的系统化案例研究路径共同构成质性社会科学中最主流的两种案例[[Paradigm|研究范式]]，广泛影响了教育学、政策研究、护理学、组织管理学的质性探究设计。
 > - **[[Epistemology|认识论]]路径** [[Naturalistic Generalization|自然主义概括]]概念重构了[[Qualitative Research|质性研究]]的"推广"逻辑，使案例研究从方法论上摆脱了量化推断的"代表性样本"要求，确立了诠释性案例[[Rich and Thick Description|深描]]的独立合法性。
 > - **比较教育学路径** Rust 等人（2009）在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论[[Pluralism|多元主义]]的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # COM-B Model
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 复杂社会与组织环境中个体及群体行为改变的生成条件与因果机制，尤其关注专业人员（如教师、[[School Leadership\|学校领导]]者、社会工作者）对科学研究证据的采纳与实践转化行为。
 > - **理论问题** 回应循证政策与实践（EIPP）领域的长期经验谜题：为何高质[[Quantitative Research\|量的研究]]证据在被系统综合并广泛发布后，一线学校与课堂教学实践仍难以发生实质性改变？单纯的信息传播为何无法自动驱动证据利用？
 > - **理论类型** 中层行为系统理论（Behavioural System Model）、执行科学[[Analytic Framework\|分析框架]]与[[Knowledge Mobilisation\|知识动员]]因果机制模型。

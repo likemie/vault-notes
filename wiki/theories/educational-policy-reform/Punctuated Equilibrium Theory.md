@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Punctuated Equilibrium Theory
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 公共政策制定系统中长期制度惯性、渐进微调与短期剧烈变革（间断突变）并存的双重动力学机制。
 > - **理论问题** 传统公共选择与渐进主义模型（Incrementalism）假定政策演化始终呈现边际性小步慢跑，无法合理解释为何政策体系会在经历数十年停滞后突然爆发系统性重构。
 > - **理论类型** 政策议程设置与宏观制度变迁解释框架。
@@ -177,7 +177,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 宏观国家尺度或州/省尺度的立法重大转折、打破历史垄断的制度破局与跨阶段议程设置动力学。
 > - **成立条件** 需要决策系统具备多元制度场所的可选性，以及存在具备高度政治敏锐度的[[Policy Entrepreneur|政策企业家]]群体。
 > - **解释不足** 理论擅长解释宏观议程设置与政策采纳的“突变时刻”，但对政策通过后的微观学区与课堂日常实施（Implementation）解释力较弱；无法推演基层教师在面对激进标准时的实践阻力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
@@ -205,7 +205,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性文献。

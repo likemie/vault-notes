@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Social Regime
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **第三方强制实施机构（Third-Party Enforcement）** 制度的有效性并不依赖个体自觉，而是必须有第三方（如法庭、劳工监察局、[[School Inspection|教育督导]]部门）以社会名义对违约行为进行仲裁与制裁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, p. 11]]）。
 > - **结构性非对称分工（Rule Makers vs. Rule Takers）** 类似[[Max Weber|马克斯·韦伯]]的支配组织（*Herrschaftsverband*），规约内部始终存在制定/修改规则的有权者与被动承受/执行规则的遵从者之间的不对称博弈（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, p. 12]]）。
 > - **社会合法性与公共保护预期（Legitimacy & Public Expectations）** 规则被赋予公共正当性，使其成为受保护的社会权利，即便政策制定者更迭亦不能随意剥夺。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1922 — 支配组织理论的提出** [[Max Weber|马克斯·韦伯]]在《经济与社会》中系统提出统治联合体／支配组织（*Herrschaftsverband*）概念，将秩序的维系奠立在专门执行人员的强制保障之上。
 > - **1980年代 — 国际规约与产业民主理论的拓展** 国际政治经济学（Krasner）将规约引入跨国原则与决策程序分析；[[Wolfgang Streeck|施特雷克]]在德国劳资关系研究中将共同决定制阐释为约束资本的“有益的社会规约”。
 > - **2005 — 渐进变迁形态学的[[Ontology|本体论]]确立** 施特雷克与希伦在《制度变迁的超越》中正式将社会规约确立为[[Historical Institutionalism|历史制度主义]]分析[[Paradigm|范式]]的基石，以此破除均衡模型的静态偏误（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。
@@ -208,7 +208,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规约，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规约命题，剖析跨国量化规约在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
 

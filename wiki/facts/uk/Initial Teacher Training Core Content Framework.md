@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Initial Teacher Training Core Content Framework
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **全国基准统一与质量托底** 终结了英格兰教师教育长达数十年无统一国家课程的历史，确保所有新教师掌握认知负荷与[[Effective Teaching\|有效教学]]的基本科学原理。
 > - **大学自主权削弱与远程集权强化** 英国教育部借助[[Rationalized Myth\|合理化神话]]实现了对教师培训内容的前所未有的中央微观规制，打破了大学原有的学术设计自主权。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90, 96)]]
 > - **工具主义倾向与反思空间挤压** 学员培训沦为对照清单的逐项打勾达标（tick-box exercise），忽视了教育情境的复杂性与批判反思能力的培养。

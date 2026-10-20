@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Build America, Buy America Act
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 关键成效与辐射影响
 
-> [!finding-cards] 关键成效与辐射影响
+> [!finding-cards|notitle] 关键成效与辐射影响
 > 1. **万亿基建资金撬动庞大本土内生需求** BABA 将 [[Infrastructure Investment and Jobs Act|IIJA]] 授权的 1.2 万亿美元联邦基础设施资金转化为指定采购美国制造产品的刚性需求池，为本土重工业与清洁制造提供了长达十年的稳定市场预期。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
 > 2. **推动先进装备制造向美国本土大规模迁移** 催生了电动汽车充电桩、清洁电网变压器、光伏支架及光纤宽带设备在全美各州的建厂潮，显著增强了关键基础设施供应链的国内自主性。
 > 3. **确立可追溯的绿色与本土制造标准** 促使联邦政府与行业协会建立起覆盖原材料冶炼、初加工到最终[[Assemblage|组装]]的全流程可追溯认证体系。
@@ -159,5 +159,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 详尽剖析《以美国制造为荣法案》（BABA）作为 [[Infrastructure Investment and Jobs Act|IIJA]] 核心需求侧附加条件的运行机制，并以电动汽车充电设施分阶段豁免为例论证产业政策执行的动态调适过程。

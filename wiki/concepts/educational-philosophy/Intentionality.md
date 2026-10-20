@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Intentionality
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **意义追寻与情境诠释（Meaning-Making）** 学习者依据自身文化生活史，能动地理解学校教育对自身的真实价值，而非机械吸收知识碎片。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 14)]]
 > - **能动自决权（Agency & Autonomy）** 个体在教育过程中享有审视目标合理性、表达异议并参与规则建构的主体权利。
 > - **不可化约的个体独特性（Uniqueness）** 每个人具有不可复制的心理体验，无法被统一标准化为同质均值的正态分布点。

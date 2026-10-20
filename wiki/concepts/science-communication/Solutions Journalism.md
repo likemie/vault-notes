@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Solutions Journalism
@@ -206,5 +206,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 结合新闻回避与受众心理调查，将解决方案新闻确立为重建公众科技信任、抵御灾难轰动主义与消极厌倦的核心传播[[Paradigm\|范式]]。

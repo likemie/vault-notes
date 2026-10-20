@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Social Ventures Australia
@@ -196,7 +196,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 依托公司监管档案与政策追踪，系统揭示 SVA 如何借由[[Co-affiliation\|共同从属]]网络与四层控股架构，游说创设国家证据经纪机构 [[Australian Education Research Organisation\|AERO]] 并实现国家科研议程的私营分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析由 SVA 辐射衍生的[[Venture Philanthropy\|风险慈善]]网络如何跨越二十年重构澳大利亚资本主义国家实践，推动公共财富向免税中介逆向流动。
 

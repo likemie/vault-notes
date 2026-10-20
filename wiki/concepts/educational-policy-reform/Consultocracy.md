@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Consultocracy
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **公共职能的系统性外包（Systemic Outsourcing of Policy Capacity）** 政策分析、战略审查与法案起草等核心主权职能被成批剥离给私营咨询公司，导致公务员科层失去内生研发与政策创新能力，形成不可逆的外部依赖。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 522)]]
 > - **管理主义[[Discourse|话语]]霸权（Managerialist Discourse [[Hegemony]]）** 将复杂的教育育人实践化约为“可交付成果”（Deliverables）、“关键[[Performance Indicators\|绩效指标]]”（KPIs）与“效率量规”，以商业逻辑规训公立学校与基层教师。
 > - **旋转门与[[Co-affiliation\|共同从属]]网络（Revolving Doors and Co-affiliation）** 咨询公司合伙人高频穿梭于政府内阁顾问、法定委员会主席、慈善基金会董事与跨国投行要职之间，构筑起排他性的非民选政策同盟。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 526–530)]]
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — [[New Public Management\|新公共管理]]与“外部咨询采购”萌发** 伴随撒切尔与里根政府推行公共部门私有化，英美政府开始引入商业顾问削减公共开支，开启行政服务市场化探索。
 > - **2000 — 顾问统治（Consultocracy）概念的正式提出** 政治学者 Denis Saint-Martin 出版《构建[[New Managerialism|新管理主义]]国家》，系统界定商业咨询公司在英美加三国官僚体制中的制度化崛起，正式提出顾问统治概念。
 > - **2010s — 麦肯锡主义与教育交付体系全球扩张** [[Michael Barber\|迈克尔·巴伯]]将麦肯锡咨询工具与交付单元（Delivery Unit）推向全球教育系统，把国家教育改革转化为可量化考核的商业交付项目。
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统揭示澳大利亚人均咨询支出全球第一背景下，麦肯锡等咨询高管如何依托[[Policy Network\|政策网络]]装配教育中介实体并规避公共监督。
 > - Gunter, Hall, & Mills (2015) — 经典奠基论文，系统建构教育政策制定中的顾问统治（Consultocracy）[[Analytic Framework\|分析框架]]。
 > - [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] — 从创新政策与国家能力视角批判 [[New Public Management|NPM]] [[Externalization|外部化]]咨询依赖造成的行政[[Cognitive Deskilling|去技能化]]，阐明内生动态能力的重构机制。

@@ -33,7 +33,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Practical Inquiry in Science Education
@@ -89,5 +89,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 详尽揭示动手探究滑坡现状，呼吁通过大纲减负、设立专项实验耗材基金与稳定技术员队伍予以破局。

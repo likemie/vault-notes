@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Normative Paradigm
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **行为导向与过去[[Determinism\|决定论]]（Behaviour and Past Determinants）** 将人视为对环境刺激与内在驱力作出反应的客体，行为的原因深植于过去的先行条件之中，排斥主观自由意志与即兴偶发。
 > - **宏大理性大厦的建构（Universal Rational Edifice）** 坚信科学的最高追求在于建立一套覆盖全部社会现象的普遍定律体系，研究旨在不断扩展和证实这一高度抽象的理论大厦。
 > - **社会作为外在集体实在（Collectivity as External Reality）** 视社会、制度、学校与班级为客观存在的实体单元，主张宏观结构具有超越个体的独立法则与自足运作逻辑。
@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪中叶 — [[Positivism\|实证主义]]社会学奠基** [[Auguste Comte\|奥古斯特·孔德]]（[[Auguste Comte]]）提出社会学作为“社会物理学”的构想，确立了运用自然科学经验实证方法探寻社会不变法则的规范传统。
 > - **1930s–1950s — [[Structural Functionalism|结构功能主义]]与[[Behaviorism|行为主义]]合流** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）建立结构功能主义[[Grand Theory\|宏大理论]]体系，约翰·华生与[[B. F. Skinner|斯金纳]]确立行为主义刺激-反应模型，规范传统在社会学与教育心理学中确立统治地位。
 > - **1973–1975 — 规范[[Paradigm\|范式]]概念提炼与学术交锋** [[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas, 1973）在《社会学方法规则》中正式提炼“规范范式”与“[[Interpretive Paradigm\|诠释范式]]”的二元对立；[[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（[[Thomas Barr Greenfield]], 1975）在[[International Education\|国际教育]]行政大会上发起对实证规范组织观的系统清算。

@@ -53,7 +53,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Blended Learning
@@ -229,7 +229,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
 

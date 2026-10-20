@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Chin-Chung Tsai
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1996** 获美国哥伦比亚大学科学教育博士学位，返台任教于交通大学教育研究所，开创科学[[Epistemological Beliefs\|认识论信念]]与网络化学习环境的交叉研究。
 > - **2004** 发表于权威期刊关于网络化教学与认识论信念重塑的奠基性论文，系统提出网络学习环境对不同认识论信念学习者的差异化影响及逆向重塑机制。
 > - **2006–2019** 先后出任台湾科技大学与台湾师范大学讲座教授，长期主持教育技术与学习科学前沿研究团队，历任国际顶级期刊 *Computers & Education* 与 *International Journal of Science Education* 主编。
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了从传统个体[[Epistemology\|认识论]]发展论向人机中介与情境化[[Epistemic Cognition\|认识论认知]]的转型，深化了对学习者在技术富集环境中[[Epistemic Agency\|认识能动性]]与[[Cognitive Offloading\|认知卸载]]机制的理论解释。
 > - **方法路径** 推动了认识[[Network Analysis\|网络分析]]（Epistemic Network Analysis, ENA）与多模态[[Learning Analytics\|学习分析]]在科学教育与在线协作中的实证落地，为测量复杂认识论互动提供了计算[[Paradigm\|范式]]。
 > - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及[[Man-Computer Symbiosis|人机协同]]课堂中双轨促学支架的研制。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Clark A. Chinn]] — 在[[Epistemic Cognition\|认识论认知]]理论拓展与科学[[Inquiry-Based Learning\|探究学习]]研究中存在长期学术对话与理论共鸣。
 > - **合作者** 吴忞（Min Wu）、陈盛仕（Sheng-Shih Chen） — 共同提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **机构／学术平台** 台湾师范大学学习科学跨国顶尖研究中心、国际期刊 *Computers & Education* — 长期作为核心学术领导者与国际对话平台组织者。

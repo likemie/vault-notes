@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Solomon Asch
@@ -66,7 +66,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1907** 出生于俄罗斯帝国统治下的波兰华沙。
 > - **1920** 13 岁随家人移民美国纽约，随后就读于纽约市立学院，并在哥伦比亚大学获得博士学位。
 > - **1947–1966** 在宾夕法尼亚州斯沃斯莫尔学院担任心理学教授，期间于 1951 年开展里程碑式的线段对比从众实验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]

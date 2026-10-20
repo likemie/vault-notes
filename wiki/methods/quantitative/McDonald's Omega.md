@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # McDonald's Omega
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 软件实现
 
-> [!software-impl] 软件实现
+> [!software-impl|notitle] 软件实现
 > - **R 语言 (`lavaan` + `semTools` 或 `psych`)**
 >   ```R
 >   # 方法 1：基于 psych 包的双因子分析

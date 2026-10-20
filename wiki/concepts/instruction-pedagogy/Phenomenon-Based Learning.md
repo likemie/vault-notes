@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Phenomenon-Based Learning
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **以现象为学习起点** 学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 3–4]]
 > - **跨学科整合与学科深度协同** 反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology\|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 3–5]]
 > - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity\|反思性]]主体能动性（Agency），使[[Knowledge Building Theory|知识建构]]基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
@@ -168,7 +168,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990年代末 — 教师教育中的模型诞生** Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism\|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 > - **2014年 — 芬兰国家课程政策化** 芬兰正式发布《基础教育国家核心课程 2014》（瑞典语与芬兰语版），将跨学科探究与现象本位作为实现课程核心价值的官方推荐教学取向，但在学校实施中呈现极高[[Heterogeneity\|异质性]]。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > - **2016年 — 译本发布与国际关注** 该课程大纲英文版正式发布，在国际社交媒体与教育改革讨论中引发热议，并伴随着“芬兰取消传统学科分类”的广泛误读。
@@ -194,5 +194,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 系统阐释现象本位学习（PhBL）的欧陆教育哲学根源与政策演变：剖析芬兰国家核心课程的跨学科整合机制、SveaSus 项目在世界遗产地的具身教师教育实验，以及 [[OECD]] 21 世纪技能绩效[[Discourse|话语]]对整体教化理想的工具化侵蚀。

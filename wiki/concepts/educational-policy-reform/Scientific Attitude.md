@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientific Attitude
@@ -237,7 +237,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement\|新教育运动]][[Paradigm\|范式]]转向与赵乃传科学态度三要素。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治[[Discourse|话语]]中的转译演变。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 整合 20 年科研人员公众参与态度[[Longitudinal Study\|纵向调查]]与 [[Public Attitudes to Science\|PAS 2025]] 全国民意数据，论证以批判性审视证据、接纳不确定性与抵御恐慌新闻为核心的建设性科学态度，倡导负责任传播（[[Responsible Conduct of Research\|RCR]]）的学术伦理自律。

@@ -33,14 +33,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Absolutist and Relativist Ethics in Research
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象**[[Research Ethics\|研究伦理]]判断的根本依据——伦理行为的标准是普遍的还是情境依赖的。
 > - **理论问题** 回应伦理判断中的"谁来裁定、依据什么裁定"问题——当研究者面临具体伦理困境时，可以诉诸什么标准？
 > - **理论类型** 元伦理立场——它们不提供具体的行为规则，而是规定伦理规则本身的性质和来源。
@@ -98,5 +98,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch.5)]] — 将该理论对立作为[[Research Ethics\|研究伦理]]两大张力来源之一进行系统讨论

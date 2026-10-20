@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Think-Pair-Share
@@ -166,5 +166,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 [[Totally Pedagogised Society\|TPS]] 明确界定为[[Cooperative Learning\|合作学习]]技术体系中的基础微型策略，实证证实其所依托的面对面同伴互动对[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维]]发展的稳健中等赋能效应（$ES = 0.71$）。

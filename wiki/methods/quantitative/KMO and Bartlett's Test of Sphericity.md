@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # KMO and Bartlett's Test of Sphericity
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 软件实现
 
-> [!software-impl] 软件实现
+> [!software-impl|notitle] 软件实现
 > - **R 语言 (`psych`)**
 >   ```R
 >   library(psych)

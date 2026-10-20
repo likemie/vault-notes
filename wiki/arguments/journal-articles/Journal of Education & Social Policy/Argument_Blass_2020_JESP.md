@@ -44,7 +44,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2020
 doi: ""
 citation_aliases:
@@ -53,23 +53,23 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > Hattie 的 [[Visible Learning]] 在澳大利亚教育政策中被不加批判地采纳，这是否限制了教育创新和进步？学术研究应在何种条件下被应用于政策制定？
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > Blass 提出一个五要素概念框架来评估学术研究对政策制定的贡献：**方法论（Methodology）**、**情境（Context）**、**假设（Assumptions）**、**领导力（Leadership）**、**时效性（Currency）**。这五个要素如同烘焙蛋糕：需要厨房（情境）、食材（假设）、厨师（领导力）和食材保质期（时效性），仅有食谱（方法论）是不够的(p.92)。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：政策分析与方法论审查
 > - 数据来源：Hattie (2009) *[[Visible Learning]]* 文本及附录、[[Argument_Terhart_2011_JCS\|Terhart (2011)]] 和 Arnold (2011) 的书评批评、Hattie and Donoghue (2016) 的后续论文、Hattie (2020) 在 Lessons from Lockdown 会议上的演讲
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > Blass 分五个部分展开论证(p.91)：
 >
 > ### 1. 方法论
@@ -108,7 +108,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - VL 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 Hattie 的本意(p.97)
 > - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 PBL 的一部分、通过[[Inquiry-Based Learning\|探究式学习]]恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法(p.96)
 > - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、假设、领导力和时效性
@@ -116,7 +116,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “‘可见的学习’是一项了不起的研究；它是一项卓越的统计分析成果；它也是一张很好的地图，展示了在教室中技术的应用和可能性变得无处不在之前的 1980-1990 年代左右，教学实践是如何影响学习成果的。”
 > ("[[Visible Learning]] is a fantastic study; it is a remarkable feat of statistical analysis; and it is a good map of how teaching practices impacted on learning outcomes around the 1980-1990s, before the use and possibility of technology in the classroom became all but ubiquitous.") (p.96)
 >
@@ -131,7 +131,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - Blass 是 Inventorium（一个在线 PBL 和[[Inquiry-Based Learning\|探究式学习]]的替代性高中）的 CEO，她的立场受其商业利益影响——她明确主张 PBL 和探究式学习，这与她批评 Hattie 偏好的[[Direct Instruction\|直接教学]]模式形成对照
 > - 论文主要是论证性和立场性的，未提供系统的实证数据——抽查 Hattie 附录仅覆盖两个主题（探究式教学和 PBL），不能作为对整个 VL 数据库的全面审查
 > - Blass 承认 VL 是"an amazing feat of scientific inquiry"和"a very interesting academic exercise"，其批评并非针对 VL 的学术价值，而是针对其在澳大利亚政策中的误用

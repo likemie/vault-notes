@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Theoretical Knowledge
@@ -87,5 +87,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]显示 PBL 对理论性知识的效应较高（d = 0.59）；短期知识获取较低，但长期保持更优（p. 963）。

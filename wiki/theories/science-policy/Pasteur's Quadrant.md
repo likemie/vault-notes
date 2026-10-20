@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pasteur's Quadrant
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **概念定性** 巴斯德象限（Pasteur's Quadrant）是美国普林斯顿大学政治学者[[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）在其 1997 年遗著《巴斯德象限：基础科学与技术创新》中提出的科研分类理论；旨在打破[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《[[Science, The Endless Frontier 1945|无尽的前沿]]》以来统治科技政策的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]，以二维动机矩阵确立了用启发性基础研究的正统合法地位。
 > - **解释对象** 科学研究者的立项动机结构、科研活动的属性分类，以及国家公共研发资金在基础探索、前沿工程与应用开发之间的配置逻辑。
 > - **理论问题** 破解传统将“纯粹学术求知”与“实用技术目标”对立起来的一维二元轴，回应政策制定者将应用考量等同于损害科学自由与纯洁性的教条主义。
@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 宏观科技管理[[Discourse|话语]]的重塑；科研院所学科布局与战略定位；国家任务导向型科研专项立项评审与新型组织形态设计。
 > - **成立条件** 依赖于研究者在申报课题时诚实、清晰地界定其主观动机；要求资助管理部门具备穿透包装应用文辞、识别底层机理创新的评审能力。
 > - **解释不足** 斯托克斯框架主要基于科研立项时的静态动机快照，无法解释项目在长达数十年的演化过程中如何在不同属性之间发生链式演进；将第四象限简单置之不理，未对工程技能训练中的知识形态予以有效界定。
@@ -205,7 +205,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，以巴斯德象限替换联邦预算中失效的线性管道，援引蛋白质结构预测（2024诺贝尔化学奖）与超导量子器件（2025诺贝尔物理学奖）阐释当代前沿特征，主张以巴斯德象限重塑组合式资助并设立[[Focused Research Organization|聚焦研究组织]]（FRO）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统阐述 1990 年代斯托克斯巴斯德象限作为科学共同体重塑公共合法性制度缓冲器的历史功能，以及 2025 年起[[Technology-Oriented Social Contract|技术型社会契约]]下巴斯德象限所承载的认知纠错与抗脆弱价值。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 评析斯托克斯巴斯德象限的理论贡献与历史局限，指出其语言残留阻碍了创新政策走向真正的循环整体观。

@@ -81,7 +81,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pierre Bourdieu
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1930** 出生于法国 Béarn 地区 Denguin 小镇，普通底层家庭传统出身使其始终对阶层流动、选拔制度和文化合法性问题保持敏感。
 > - **1951–1954** 就读巴黎高等[[Normal School\|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology\|认识论]]研究。
 > - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography\|民族志]]调查并任助教。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
@@ -197,7 +197,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其习性与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的基础[[Paradigm\|范式]]语言。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology\|现象学]]的对立，将多维对应分析（MCA）与深度[[Ethnography\|民族志]]结合，为社会空间的关系性建模提供了实证模版。
 > - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构。
@@ -215,7 +215,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** Jean-Claude Passeron — 关键法兰西学术合作者，合著多本教育再生产核心著作。
 > - **合作者** Loïc Wacquant — 芝加哥大学社会学家，合著阐述[[Reflexivity\|反思性]]社会学方法。
 > - **批评者／论敌** Luc Boltanski — 曾为其研究室核心助手，后脱离再生产[[Paradigm\|范式]]，创立了强调行动者日常评判能力的[[Pragmatic Paradigm\|实用主义]]社会学。

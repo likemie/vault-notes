@@ -58,7 +58,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -181,7 +181,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 传统高等教育阶段、文理学院体制下青年群体的世界观重构与批判思维成长。
 > - **谨慎使用** 直接将该图式套用于非西方文化背景、非精英大学或职后成人学习者时，需注意文化与阶层[[Heterogeneity\|异质性]]。
 > - **不适合解释** 微观实验情境下学生面对单次特定任务的即时策略调配（此类现象更适合用“[[Epistemic Resources\|认识论资源]]库”解释）。
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1970 — 经典奠基** William Perry 出版 *Forms of Intellectual and Ethical Development in the College Years: A Scheme*，开创了[[Epistemology\|认识论]]发展的阶段[[Paradigm\|研究范式]]。
 > - **1986 — 性别批判与[[Women's Ways of Knowing\|女性认知方式]]** Belenky et al. 指出佩里样本的男性精英偏差，提出女性[[Ways of Knowing\|认知方式]]（Women's Ways of Knowing），将[[Constructed Knowledge\|建构知识]]置于顶阶。
 > - **1990 — 多维信念系统转向** Schommer 提出认识论是由多维独立信念构成的系统，打破了单向单维的发展阶段假设。
@@ -234,7 +234,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology\|认识论]]发展模型的谱系源头予以评述。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维假设进行大规模纵向追踪检验，证实[[Disciplinary Socialization\|学科社会化]]效应。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中将佩里开创的发展论模型作为调节[[Variable\|变量]]进行检验，并基于实证数据反思了阶段论对低年级学生的传统假设。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Public Engagement with Science
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **双向对话机制（Two-way Dialogue）** 从单向“告知”转向共同“探讨”，吸纳公众对科技伦理与风险的反馈。
 > - **科研全生命周期嵌入（Research Lifecycle Embedding）** 公众参与不仅发生在成果发布后，而是贯穿问题构思、过程互动到成果转化的全过程。
 > - **多样性与包容性（Diversity and Inclusion）** 消除[[Socioeconomic Status|社会经济背景]]障碍，确保边缘和代表性不足的社群平等享有科学参与资源。
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1985 — 公众理解科学（PUS）** 以[[Bodmer Report 1985\|博德默尔报告]]为起点，强调科学家向大众传播知识的职业责任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
 > - **2000 — 转向公众参与（PES）** 上议院报告批判[[Deficit Model of Science Communication\|赤字模型]]，确立双向参与和公众对话[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 10)]]
 > - **2004–2020 — 制度化公共对话** 依托 [[Sciencewise]] 等计划，推动公民陪审团与协商迷你公众直接进入技术政策审议。
@@ -168,5 +168,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 梳理 1985–2026 年英国科学传播与公众参与的演进，分析产业与第三部门的角色、颠覆性技术对话，以及科研人员参与的时间瓶颈与评价脱节。

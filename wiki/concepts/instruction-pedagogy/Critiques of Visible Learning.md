@@ -197,7 +197,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critiques of Visible Learning
@@ -901,7 +901,7 @@ updated: 2026-10-20
 ---
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 新西兰批判先驱，从初级研究质控缺失、武断 0.40 门槛及社会阶层方差分解解构[[Meta-meta-analysis|二阶元分析]]并警示政策转嫁风险。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 批判政策分析，从学者社会良知出发批判排除校外贫困与阶级不平等，揭示其为政府紧缩削支提供政策掩护。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — [[Didaktik|欧陆教学论]]权威首度系统提出元-[[Meta-analysis|元分析]]双重困境、教学论内容真空与福柯式全景规训。

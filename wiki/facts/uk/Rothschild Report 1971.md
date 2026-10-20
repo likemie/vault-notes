@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Rothschild Report 1971
@@ -101,7 +101,7 @@ updated: 2026-10-16
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > 1. **提升政策需求的针对性与信源多样性** 打破了传统科研封闭垄断，将大学顶尖学术力量广泛纳入政府决策支撑体系，提升了国家科学咨询的弹性与敏捷度。
 > 2. **公共科研机构（PSREs）基础能力遭系统性侵蚀** 长期依赖项目制竞标采购导致政府对公共实验设施、专业技术队伍及长期监测能力的持续投资不足，在面临关键战略危机时暴露出科研支撑能力脆弱的隐患。
 > 3. **智能客户角色面临现实侵蚀** 当政府内部科技专业人员因编制精简而流失时，决策官员往往缺乏足够专业素养识别外部伪科学或有利益倾向的游说研究，陷入采购失灵。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]

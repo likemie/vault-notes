@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teaching Schools
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 [[Initial Teacher Training\|ITT]] 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **研究与发展（R&D）职能实施不均与边缘化** 该职能在部分联盟被视作基础性工作，但在多数联盟中因面临极度繁重的考核指标与缺乏专属经费支持，在实践中往往被弱化为附带工作（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 121–122]]）。
 > - **[[Policy Network\|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview\|精英访谈]]揭示，教学[[School Leadership\|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 93–94]]）。

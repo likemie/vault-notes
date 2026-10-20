@@ -77,7 +77,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 #### 关键引用
 
-> [!citation-card] 关键引用
+> [!citation-card|notitle] 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
 > *Original text or English translation.*

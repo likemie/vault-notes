@@ -52,28 +52,28 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > Horizon 2020 是[[EU|欧盟]] 2014–2020 年研究与创新框架计划（EU Framework Programme for Research and Innovation），预算约 800 亿欧元。该框架与此前研究框架的根本区别在于：它取消了社会科学与人文学科（SSH）的独立资助渠道，要求 SSH 作为"跨领域议题"被整合——即主流化和嵌入——到框架的每一项优先领域和目标之中（Thompson & Parreira do Amaral, 2022, p.11）。在此前的研究框架中，SSH 拥有独立的资助计划，Horizon 2020 打破了这一结构。
 
 ## 政策文本引用
 
-> [!quote] 政策文本引用
+> [!quote|notitle] 政策文本引用
 > > "社会科学与人文学科研究将被整合——主流化并作为跨领域议题嵌入——到框架的每一项优先领域和目标之中，从而直接为政策制定的证据基础做贡献"（Thompson & Parreira do Amaral, 2022, pp.11–12）
 
 ## 时间线
 
-> [!note] 时间线
+> [!note|notitle] 时间线
 > - 2014 年：Horizon 2020 正式启动，SSH 整合政策生效
 > - 2014–2020 年：SSH 作为横向议题被嵌入所有研究优先领域
 > - 2021 年：[[Horizon Europe]] 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）
 
 ## 实施影响
 
-> [!success] 实施影响
+> [!success|notitle] 实施影响
 > Parreira do Amaral（2019）论证该政策产生了多重影响（Thompson & Parreira do Amaral, 2022, p.12）：
 >
 > - **资助结构的根本转变** 从以学科和主题为基础的研究资助结构，转向更聚焦于战略性干预和工具性解决方案的资源配置模式
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 知识地缘政治分析
 
-> [!warning] [[Geopolitics of Knowledge\|知识地缘政治]]分析
+> [!warning|notitle] [[Geopolitics of Knowledge\|知识地缘政治]]分析
 > Horizon 2020 的 SSH 整合被 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]用作论证"新知识[[Geopolitics|地缘政治]]"的关键实证案例，因为它集中体现了当代[[Epistemic Governance\|知识治理]]中两条脉络的共同运作：
 >
 > **从[[Critical Geopolitics\|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge\|知识地缘政治]]在超国家治理层面的典型运作：[[EU|欧盟]]通过研究资助框架——一种空间化的治理技术——将研究按照其对经济[[Competitiveness|竞争力]]和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization\|知识经济化]]逻辑对学术[[Knowledge Production\|知识生产]]的深刻渗透：知识只有在能够转化为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms\|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.40–42]])。
@@ -96,12 +96,12 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!success] 效果与评价
+> [!success|notitle] 效果与评价
 > 该政策对比较与国际（高等）教育研究的社会[[Epistemology\|认识论]]（social epistemology）产生了深远影响：研究知识的生产条件、验证标准和学科边界在此框架下被重新定义（Parreira do Amaral, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.42]]）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022, pp.48–49)]]呼吁学界关注这一进程中认识论治理的深层效应——当研究资助的结构性条件系统性地偏好特定类型的知识和方法论时，学术研究本身的多样性、批判性和自主性就面临根本性的制度威胁。
 
 ## 相关概念／理论
 
-> [!example] 相关概念／理论
+> [!example|notitle] 相关概念／理论
 > - [[Geopolitics of Knowledge]]
 > - [[Knowledge-Based Economization]]
 > - [[Critical Geopolitics]]

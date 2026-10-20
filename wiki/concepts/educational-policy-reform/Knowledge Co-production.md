@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge Co-production
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **议题共同界定权** 实践者与研究者在初期共同确立[[CORE Education|核心教育]]关切与痛点，严禁学者单方强加理论议程。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 90)]]
 > - **全周期实质介入** 跨界团队协同参与方案设计、过程监测、数据[[Decodification\|解码]]与结论提炼，破除阶段性隔离。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–91)]]
 > - **双向制度化激励** 同时为学术人员（认可社会影响力与实践转化）与一线教师（提供时间编制、考评晋升与薪资补贴）建立配套激励体制。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
@@ -222,7 +222,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，系统揭示知识共创作为证据生态基础设施的现实落差，实证指出实践者在研究生产全周期中被严重局限于“数据收集”客体环节，并论证外在制度化激励机制缺位是阻碍共创的核心瓶颈。（pp. 89–96）
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较三地[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]，指出苏格兰把[[Practitioner Enquiry\|实践者探究]]嵌入 [[General Teaching Council for Scotland\|GTCS]] 标准，使教师成为知识共创者（pp. 14–16, 23–24）。
 

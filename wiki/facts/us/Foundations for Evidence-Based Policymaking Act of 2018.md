@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Foundations for Evidence-Based Policymaking Act of 2018
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **打破单一 [[Randomised Controlled Trials\|RCT]] 金标准的技术垄断** 法案并未要求各部委在所有决策中死守单一实验指标，而是承认多样化实证证据的合法性，推动政策证据基座从微观孤立实验拓展至国家行政大数据综合治理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 > - **赋能宏观教育公平政策评价** 为深入评估诸如 [[Elementary and Secondary Education Act of 1965\|ESEA]] 第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]）等每年百亿美元级联邦补偿资金的真实分配效能提供了前所未有的全域纵向数据底座，使研究者能够追踪弱势群体学业差距的历时演变。
 > - **确立数据作为国家公共资产的法律地位** 强制性要求政府数据“默认开放且机器可读”，从源头上消除了学术界与政策界之间的数据壁垒。

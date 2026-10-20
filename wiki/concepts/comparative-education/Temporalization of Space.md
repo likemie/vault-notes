@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Temporalization of Space
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 空间的时间化（Temporalization of Space） | [[Sedentarism\|定居主义]]（Sedentarism） | [[Social Cartography\|社会制图学]]（Social Cartography） |
 > |------|------------------------------------------|-----------------------------------------|---------------------------------------------------------|
 > | 认知机制 | 用线性的时间进步阶梯吞并与抹平横向空间差异 | 在空间内部将静止扎根优位化、将物理流动病态化 | 在二维认知平面上平铺展示多维并存的[[Paradigm\|范式]]图谱 |
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **时间旅行者的帝国视线（Imperial Gaze of Time Travellers）** 欧洲远航者与殖民官员自居为站在文明终点的观察者，将跨洋地理位移等同于回溯人类童年史的考察之旅。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Leed, 1991; Sobe & Fischer, 2009, p. 360)]]
 > - **原始范畴的时间化建构（Invention of the Primitive）** 将原住民社群直接比附为古罗马人或未开化野蛮人，用历时性的野蛮与开化之别取代共时性的文化差异。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayre, 1997; Sobe & Fischer, 2009, p. 360)]]
 > - **边缘空间文明欠缺的预设（Spatial Deficit of Civility）** 将少数族裔、流动人口与非西方群体的聚居空间判定为缺乏现代文明道德规范与发展动力的荒原。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Popkewitz, 1998; Sobe & Fischer, 2009, p. 360)]]
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **17–18 世纪 — 启蒙单线进步史观确立** 欧洲哲学家建立普遍历史（Universal History）框架，将空间上共存的全球人群编排为从狩猎野蛮、游牧畜牧到农业乃至欧洲工商业文明的垂直序列。
 > - **20世纪末 — 空间转向与后现代解构** 文化地理学与[[Post-colonial Theory|后殖民理论]]（如 Paul Gilroy 的“黑人大西洋”研究）发起猛烈批判，指出时间优先性实质上是欧洲帝国主义霸权的[[Epistemology|认识论]]支柱。
 > - **2000年代至今 — 比较教育学认识论反思** Sobe、Fischer 与 Popkewitz 等学者揭示出空间时间化在当代课程改革、流动群体教育干预与全球治理绩效[[Discourse|话语]]中的隐蔽运作。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
@@ -182,5 +182,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 阐发空间的时间化概念，以此为突破口反思西方[[Enlightenment|启蒙哲学]]对地理空间的殖民，为比较教育学空间转向确立理论前提。

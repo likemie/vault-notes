@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thomas Hart Benton
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1889** 出生于美国密苏里州尼欧肖的一个显赫政治世家（其父为美国国会议员，其叔曾祖父为著名参议员）。
 > - **1908–1911** 先后就读于芝加哥艺术学院并赴法国巴黎朱利安学院深造，广泛研习欧洲古典构图与现代主义流派。
 > - **1920年代–1930年代** 回归美国本土现实，开创展现中西部与南部工农劳动生活的地方主义具象壁画流派；在纽约艺术学生联盟长期执教。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **现代艺术与壁画运动** 确立了20世纪美国本土现实主义具象叙事壁画的经典[[Paradigm|范式]]，深刻影响了联邦艺术计划（FAP）时代的公共艺术创作。
 > - **艺术教育与非从众[[Creativity|创造力]]** 作为导师培养了[[Jackson Pollock|波洛克]]等艺术巨匠，开创了通过严厉批判与包容特立独行激发潜在创造力的师生互动典范。
 > - **工程与创新[[Organizational Culture|组织文化]]** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其与波洛克的[[Student-Teacher Relationship|师生关系]]提炼为反思现代企业“讨好文化”（Culture of Agreeableness）的核心案例，论证了允许建设性人际摩擦与包容尖锐异见对实现突破性创新的关键价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学生 / 突破性继承者** [[Jackson Pollock]] — 师生情同父子却在艺术观念上激烈交锋，波洛克在反叛本顿具象风格的过程中开辟了抽象表现主义滴画[[Paradigm|范式]]。
 > - **思想阐释者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 将本顿的反讨好品格与导师阻抗提炼为现代科技组织激发非从众创新活力的理论模型。
 

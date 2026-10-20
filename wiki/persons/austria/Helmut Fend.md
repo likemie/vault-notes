@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Helmut Fend
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1940** 出生于奥地利福拉尔贝格州布雷根茨（Bregenz）。
 > - **1960 年代** 在奥地利因斯布鲁克大学修读教育学、心理学与哲学，获博士学位；后任职于维也纳大学教育研究所。
 > - **1970–1987** 赴德国康斯坦茨大学（Universität Konstanz）任教育学与社会学正教授，主持联邦综合中学比较研究项目。
@@ -109,5 +109,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与[[Recontextualization|再情境化]]理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观转译机制。

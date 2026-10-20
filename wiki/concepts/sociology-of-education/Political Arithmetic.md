@@ -29,14 +29,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-10-21
 ---
 
 # Political Arithmetic
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > Political Arithmetic（政治算术）在英国教育社会学中指一种以可测量资料分析教育机会、社会流动和阶级结构的研究传统。它把教育不平等理解为可以通过社会政策识别和补救的机会分配问题，并在 1930-1960 年代围绕人口研究、优生学争论和战后福利国家政策形成影响力([[Argument_Ball_2008_SR\|Ball, 2008, pp.654-656]])。
 
 ## 核心问题
@@ -46,7 +46,7 @@ updated: 2026-05-23
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > - 可测量性：用数量资料描述教育机会、社会流动和阶级结构，并把这些资料转化为政策可使用的证据([[Argument_Ball_2008_SR\|Ball, 2008, pp.654-656]])。
 > - 政策[[Educational Meliorism\|改良主义]]：把教育扩张与平等、繁荣和社会效率连接起来，假定外在的经济和物质匮乏若被减轻，阶级与教育成就之间的紧密联系就可能被削弱([[Argument_Ball_2008_SR\|Ball, 2008, p.656]])。
 > - 阶级解释：把社会阶级确立为教育社会学的中心[[Variable\|变量]]；早期研究并不只是把工人阶级家庭病理化，也同时注意学校、家庭、物质条件和选拔制度之间相互叠加的动态关系([[Argument_Ball_2008_SR\|Ball, 2008, pp.656-657]])。

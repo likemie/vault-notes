@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Rapport in Qualitative Research
@@ -50,7 +50,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **信任** 参与者相信研究者不会伤害他们、不会滥用信息、会尊重其隐私和匿名权。是融洽关系的基石。
 > - **同理心与接纳** 研究者展示对参与者处境、情感和视角的理解，避免评判性态度。De Laine（2000, p. 41）强调展示兴趣、保证保密（在适当处）和不评判。
 > - **时间投入** 融洽关系是过程性的——Walford（2001, p. 62）报告了从新人→临时接纳→类别接纳→个人接纳→即将迁移者的五阶段演变。
@@ -64,5 +64,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 在[[Qualitative Research\|质性研究]]12阶段模型的第7阶段（发展和维持现场关系）中详细讨论了融洽关系的定义、要素和难度，以及其在[[Longitudinal Study\|纵向研究]]中的特殊作用（pp. 428–430）。

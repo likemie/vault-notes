@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Boundary Object
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 年代 科学博物馆的社会学生态** Star & Griesemer 在加州大学脊椎动物学博物馆研究中创立该概念，分析标本图纸、地图和分类账目如何协调业余收藏家与专业生物学家的合作。
 > - **2000 年代 组织管理与跨专业协作** 概念被广泛应用于企业管理、医患沟通与跨部门项目协调，强调信息系统在跨界知识流动中的作用。
 > - **2020 年代 智能算法与人机交互中介** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将其引入大语言模型研究，揭示人工智能作为兼具结构稳定与语境灵活特性的生成式中介对学生高阶认知的双重塑造。
@@ -174,5 +174,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 将边界对象理论应用于[[Generative Artificial Intelligence\|生成式人工智能]]研究，阐明 ChatGPT 如何作为灵活的[[Artefact\|人工制品]]连接跨学科知识与个性化批判创造探索。

@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Online Research Ethics
@@ -85,6 +85,6 @@ Lewis (2006) 描述了他花了五个月时间与在线联系人建立信任关�
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - Lewis (2006) 在线社区研究——五个月信任建立后接触参与者
 > - 公共聊天室研究——Hudson and Bruckman (2005) 发现即使数据匿名，参与者仍感到隐私被侵犯

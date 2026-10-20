@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Governmentality
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代国家与非国家机制如何超越单纯的法律禁止与肉体强制，通过制度理性、专家知识与分类标准，将“人口”（Population）组织为可计算、可干预的对象，并引导个体实现自愿的“自我调节”（[[Self-control|self-regulation]]）。
 > - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与新自由主义体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
 > - **理论类型** 元理论（Meta-theory）、权力分析学批判视角、[[Post-structuralism|后结构主义]]政治社会学[[Paradigm|范式]]。
@@ -194,7 +194,7 @@ graph TD
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 自由主义与新自由主义民主体制下的教育改革、高等教育绩效主义问责、[[Lifelong Learning|终身学习]][[Discourse|话语]]、数字教育自评机制以及以柔性指标为导向的全球教育治理。
 > - **成立条件** 治理对象须享有一定名义上的行动自由与选择空间；被治理者具备[[Reflexivity|反思性]]主体意识，且制度环境依赖专家话语系统。
 > - **解释不足** 过度偏重“合意型统治”与微观心理内化，容易淡化或忽视国家机器的硬性暴力、专制法律制裁以及赤裸裸的阶级与经济物质剥削；在分析威权国家纯粹依靠暴力压制的统治形态时解释力相对有限。
@@ -220,7 +220,7 @@ graph TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 结合治理术与[[Societies of Control|控制社会]]理论，剖析德国高校在线自测系统如何呼唤出“[[Promising Student|有前景的学生]]”。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 运用治理术视角重访英国教育社会学史，揭示[[Political Arithmetic|政治算术]]与[[School Effectiveness|学校效能]]研究如何成为现代国家治理的认知工具。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能[[Discourse|话语]]如何作为全球治理技术，通过远距机制重塑各国[[Pedagogical Subject|教育主体]]。

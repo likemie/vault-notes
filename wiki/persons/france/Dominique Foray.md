@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dominique Foray
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1955 年** 出生于法国，早年在里昂第二大学攻读经济学，获经济学博士学位，早期聚焦于技术变革、产业经济学与自动化扩散机制研究。
 > - **1985–1993 年** 担任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究员及里昂第二大学技术经济与生产组织研究所（LEST）研究主任，深入考察专利制度、知识产权与企业技术溢出。
 > - **1993–2000 年** 担任巴黎第九大学经济学教授并兼任 [[OECD]] 科学、技术与产业司资深顾问；1996 年与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）深度合作，主编 OECD 里程碑报告《[[Knowledge-Based Economy|知识经济]]中的就业与增长》，系统奠定“学习型经济”政策[[Discourse|话语]]。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）、内森·罗森伯格（Nathan Rosenberg）共同奠定了现代[[Knowledge-Based Economy|知识经济]]学与[[National Innovation System|国家创新系统]]分析的欧洲[[Paradigm|范式]]。
 > - **方法路径** 开创了知识编码度与默会性维度的测量分类法，为评估国家与地区无形知识资产提供了分析工具。
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被[[EU|欧盟]]委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者／思想盟友** [[Bengt-Åke Lundvall]] — 丹麦阿尔堡学派领军人物，共同主编 [[OECD]] 1996 年奠基报告并提出“学习型经济”理论。
 > - **学术合作者** 内森·罗森伯格（Nathan Rosenberg）、保罗·戴维（Paul A. David） — 斯坦福大学著名经济史学家与创新学者，长期共同探讨技术扩散与科学政策。
 > - **批判分析者** [[Fazal Rizvi]]、[[Bob Lingard]] — 揭示其学习型经济理论虽具有深刻洞察，但在被国际组织采纳后沦为压制人本主义[[Democratic Education|民主教育]]、推行新自由主义技能[[Pragmatic Paradigm|实用主义]]的理论工具。

@@ -48,7 +48,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -57,7 +57,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Morris 的核心学术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
 >
 > 1. **[[Policy Borrowing\|政策借用]]中的修辞性参照** 国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning\|终身学习]]、[[Knowledge-Based Economy\|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
 > - **[[PISA]] 的政治解读** — Auld and Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
@@ -81,7 +81,7 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Morris, P., & Adamson, B. (2010). *Curriculum, schooling and society in Hong Kong*. Hong Kong University Press. — 香港课程政治的历史分析
 > - Auld, E., & Morris, P. (2016). [[PISA]], policy and persuasion: Translating complex conditions into education 'best practice'. *Comparative Education*, 52(2), 202-229. — 批判性分析 PISA 如何在政策制定中被使用
 > - Grey, S., & Morris, P. (2018). [[PISA]]: multiple 'truths' and [[Mediatised Governance\|mediatised global governance]]. *Comparative Education*, 54(2), 109–131. — 揭示英格兰 PISA 2012 结果在 [[OECD]]、政客与媒体之间的罗生门式解读与媒介化治理机制
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 受 **Steiner-Khamsi** 的[[Policy Borrowing\|政策借用]]理论和 **Cuban** 的课程变革政治分析影响
 > - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的[[Analytic Framework\|分析框架]]
 > - 与 **Kin Cheung Adrian Yan** 的合作将 Cuban 的框架扩展到后《国安法》时代

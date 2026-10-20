@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Literature Review
@@ -219,7 +219,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将文献综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research\|混合方法]]路径中的不同策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic\|研究选题]]的决策因素之一，提出七项目的框架和规模考量
 > - Cohen et al. — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则

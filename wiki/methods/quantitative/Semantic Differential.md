@@ -28,7 +28,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Semantic Differential
 
@@ -110,5 +110,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al.（2011, Ch20）]] — 在[[Questionnaire\|问卷]]题项类型的[[Rating Scale\|评定量表]]一节中介绍语义差异量表的基本形式、三种语境和典型形容词对示例。

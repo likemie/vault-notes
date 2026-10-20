@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jarl Bengtsson
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1941** 出生于瑞典。
 > - **1960年代** 接受瑞典社会民主主义教育学与社会学训练，深度参与战后北欧综合中学改革与[[Further Education\|继续教育]]大辩论。
 > - **1971** 加入新成立不久的[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI），开启在巴黎长达三十一年的国际治理职业生涯。
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 实践并印证了政策工具社会学与[[Soft Power by Hard Facts\|以硬事实施展软权力]]的核心假设，为后续拉德卡·戈鲁尔（Radhika Gorur）与索蒂里亚·格雷克（Sotiria Grek）等学者开创[[Performance Indicators\|教育指标]][[Sociology of Measurement\|测量社会学]]提供了活生生的机构样本。
 > - **方法路径** 奠定了当代跨国教育指标矩阵与网络工作法（NES Networks），开创了跨国教育统计指标标准化定义（ISCED 体系在 [[OECD]] 的应用与延展）。
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观[[Competitiveness|竞争力]]的战略核心。
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
 > - **师承／合作关系** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
 > - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。

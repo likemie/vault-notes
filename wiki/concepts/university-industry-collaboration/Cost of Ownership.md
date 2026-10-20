@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cost of Ownership
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 所有权成本（COO） | 设备购置价格（Purchase Price） | 通用总拥有成本（TCO） | [[Return on Investment\|投资回报率]]（ROI） |
 > |---|---|---|---|---|
 > | **分析对象** | 单位合格产出物的全生命周期成本 | 购买设备时的初始交易契约金额 | 组织拥有特定资产的信息技术与管理总开销 | 资本投入所产生的净收益与投入之比 |
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **固定资本成本（Fixed Capital Costs）** 包含设备采购标价、厂房洁净室空间占用折旧、安装调试工程费及配套辅助设施投入。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **可变运营与维护成本（Recurring Operating Costs）** 包含工艺消耗品（靶材、化学气体、去离子水）、电力与气体能耗、预防性维护备件及现场工程师人力成本。
 > - **[[Reliability|可靠性]]与停机损失（Reliability and Downtime Costs）** 包含非计划故障停机造成的产能闲置损失、平均无故障工作时间（MTBF）及平均修复时间（MTTR）对应的机会成本。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 746)]]
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 年代初 — 传统单价采购阶段** 半导体及重型装备采购主要依赖单台设备购置价格谈判，忽视隐性停机成本与缺陷损失。
 > - **1989–1992 年 — [[Sematech]] 与 SEMI 标准化阶段** SEMATECH 联合国际半导体设备与材料协会（SEMI）开发出标准 COO 数学模型与专用计算软件，随后确立为 SEMI E35 标准，成为全球半导体行业的通用准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
 > - **2000 年代至今 — 跨行业与重大科研基础设施拓展** COO 模型从微电子制造广泛拓展至光伏新能源、大型生物制药反应器、国家实验室[[Megascience Installations|大科学装置]]及高校共享实验平台的运行效能评估。
@@ -173,6 +173,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 如何通过开发与推广 COO 标准模型，重塑半导体设备买卖双方长期信任并降低装备生命周期运行成本。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 论证 COO 标准化与技术路线图如何作为制度基础设施，支撑美国半导体装备产业实现制造能力重构与全球份额逆转。

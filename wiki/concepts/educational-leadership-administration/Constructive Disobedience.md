@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Constructive Disobedience
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Technological Republic|技术共和国]]工程治理与建设性不服从体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 11 章阐述即兴剧场[[Status Transactions|地位交易]]与[[Shadow Hierarchy|影子层级]]，揭示去等级化协同机制；在第 12 章正式界定“建设性不服从”与[[Social Deafness|社交失聪]]，剖析[[Engineering Mindset|工程思维]]抵御阿施从众与[[Stanley Milgram|米尔格拉姆]]盲从[[Banality of Evil|平庸之恶]]的微观机理。
 > - **权威服从心理学实验** Milgram (1974) 在《对权威的服从》中系统报告耶鲁服从实验，揭示普通人在层级权威压制下的“代理态”转换与道德脱敏，为反思组织内部盲从提供了里程碑式实证依据。
 > - **即兴剧场与地位动态理论** Johnstone (1979) 在《即兴：剧场中的即兴表演》中提出地位交易与主导-从属动态流动理论，成为分析高科技组织影子层级与打破静态职级权威的重要理论工具。

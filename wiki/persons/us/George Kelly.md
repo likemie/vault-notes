@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # George Kelly
 
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1905** George Alexander Kelly 出生。
 > - **1955** 出版两卷本 *The Psychology of [[Personal Constructs]]*，提出完整的形式化人格理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1967** 逝世。
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** Kelly 的[[Personal Construct Theory\|个人建构理论]]成为[[Constructivist Paradigm\|建构主义]]心理学的重要源头之一。其理论通过 Fransella、Bannister、Mair 等人的传播和系统化，形成了持续的[[Personal Constructs\|个人建构]]心理学研究传统。
 > - **方法路径** Kelly 发明的 [[Repertory Grid Technique]] 从最初的临床工具发展为广泛应用于教育、心理咨询、消费者研究和组织行为学的跨领域研究方法。Hinkle（1965）的[[Laddering\|阶梯法]]、Landfield（1971）的[[Pyramiding\|金字塔法]]、Shaw and Thomas（1978）的聚焦法都是在其基础上发展的重要变体。
 > - **跨国／跨领域传播** repertory grid 从心理治疗领域扩展到教育研究（教师认知、学生概念转变、考试评分特征、医学生身份发展）、消费者研究（Reynolds & Gutman, 1988）、信息系统评估（Crudge & Johnson, 2007）等多个领域。

@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Baruch Spinoza
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 经由德勒兹（Gilles Deleuze）、哈特（Michael Hardt）等后现代学者的重新阐释，斯宾诺莎的哲学进入了批判性教育学领域，催生了诸如“情感政治（Politics of Affection）”和“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”等前沿理论。
 > - **方法路径** 为突破僵化的知识传授（如 IB 体系中的[[Theory of Knowledge\|知识论]]教学壁垒）提供了新的行动指南：即将课堂中的焦虑、虚无主义等负面情绪合法化，并直接转化为探究的生产性材料。
 
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **批评者／论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]] — 斯宾诺莎的“内在性”被当代学者直接用以对抗黑格尔的“目的论”与“辩证否定”，两者在教育的[[Ontology\|本体论]]假定上构成了核心对立。
 > - **学生／继承者** Gilles Deleuze （德勒兹）、Michael Hardt — 他们是斯宾诺莎思想在当代政治哲学和教育学中复兴的关键中介。
 

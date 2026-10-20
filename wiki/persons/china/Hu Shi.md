@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hu Shi
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1891** 出生于上海（祖籍安徽绩溪）。
 > - **1910–1917** 留美学习，先入康奈尔大学农学院，后转入哥伦比亚大学哲学系，师从[[John Dewey\|杜威]]获得博士学位。
 > - **1917** 回国任北京大学教授，加入《新青年》编辑部，发起白话文运动。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论与文化路径** 推动白话文运动，彻底重塑了现代汉语教育与文学创作规范。
 > - **方法路径** 普及“大胆假设，小心求证”，将[[Scientific Method\|科学方法]]引入中国人文与社会科学研究。
 > - **跨国转译与双刃剑效应** 作为[[John Dewey\|杜威]]在华首席翻译，其明星效应极大地放大了杜威思想的影响力，但其极端化转译也使[[Pragmatic Paradigm\|实用主义]]更容易遭到传统主义与马克思主义的双重攻击。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；陈独秀 — [[New Culture Movement\|新文化运动]]战友；[[Jiang Menglin]]、[[Tao Xingzhi]] — 哥大留美网络同仁。
 > - **批评者／论敌** 梁漱溟 — 东方文化派批评者；1950年代中国大陆马克思主义思想批判界。
 > - **机构／运动** [[New Culture Movement]] — 领袖；[[May Fourth Movement]] — 思想倡导者；《新青年》 — 编辑。

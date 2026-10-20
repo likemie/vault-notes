@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Liberal-Pluralist Theory of the State
@@ -51,7 +51,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代国家机构、法律秩序与公共政策（包括公共教育系统）的合法性基础、运作动力与社会功能。
 > - **理论问题** 解释在一个多元利益集团竞逐资源的民主社会中，公共政策如何达成妥协并维护全社会的普遍福祉。
 > - **理论类型** 规范性与解释性政治学理论[[Paradigm|范式]]。

@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Sampling Frame
 
@@ -52,7 +52,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **总体参数** 明确界定谁属于总体——年龄范围、地理范围、机构类型、时间窗口等。
 > - **名单或范围** 可操作的抽样来源——可以是完整名单（学生名册）、机构列表（所有学校）、或地理范围。
 > - **覆盖误差（Coverage Error）** 抽样框与实际总体之间的差距——名单可能不包括无家可归者或近期搬迁者，导致系统性遗漏。
@@ -83,5 +83,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 以背痛研究为例说明抽样框错误如何导致无代表性结论。

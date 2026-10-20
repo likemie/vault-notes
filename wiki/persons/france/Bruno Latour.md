@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bruno Latour
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于法国博讷（Beaune）的一个传统葡萄酒酿造世家。
 > - **1975–1977** 前往美国加州索尔克研究所（Salk Institute）开展人类学[[Fieldwork\|田野调查]]，观察生化实验室日常科研实践。
 > - **1979** 与史蒂夫·伍尔加（Steve Woolgar）合著出版《实验室生活》（*Laboratory Life*），首次提出科学事实是实验室人与仪器铭文建构的产物。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底重塑了科学技术学（[[Science and Technology Studies\|STS]]）、[[Posthumanism\|后人类主义]]哲学与地理学，其[[Assemblage|装配理论]]与广义对称性原则成为当代批判社会理论的核心[[Paradigm\|范式]]。
 > - **方法路径** 开创了追踪异质网络、跟随行动者（Follow the Actors）以及解构技术黑箱（Black-boxing）的[[Qualitative Research\|质性研究]]与[[Network Ethnography\|网络民族志]]传统。
 > - **教育政策与比较教育路径** 深刻启发了批判政策社会学：学者借用其“[[Center of Calculation\|计算中心]]”与“不变移动物”解构国际组织测评（[[PISA]]）与国家数据监测（[[Vergleichsarbeiten\|VERA]]）的[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Klerides_2023_CE\|Klerides, 2023]]）；借用其“互客体性”与耐用材料装配解构国家[[Educational Brokerage Agency\|证据中介机构]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）与数字课堂硬件规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
 > - **师承／合作者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
 > - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。

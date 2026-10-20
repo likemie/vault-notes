@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Analytic Induction
@@ -55,7 +55,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **初始理论** 由数据中[[Emergence\|涌现]]的初步工作假设或理论——通常来自于[[Grounded Theory\|扎根理论]]或[[Progressive Focussing\|逐步聚焦]]过程，而非先验预设。
 > - **主动寻找反例** 研究者有意识地寻找可能推翻当前理论的数据或案例，而非只寻找确认性证据。这是分析归纳法与纯粹归纳的关键区别。
 > - **理论修正** 当反例被发现时，不是推翻整个理论，而是修正理论以容纳新数据——设定边界条件或参数。理论变得更具特定性和限定性。
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 分析归纳法 | [[Theoretical Sampling\|理论抽样]] | [[Grounded Theory\|扎根理论]] |
 > |------|--------|----------------|----------------|
 > | 核心目的 | 通过反例检验和修正理论 | 为发展理论而选择新参与者 | 从数据中生成理论 |
@@ -104,5 +104,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 将分析归纳法定位为[[Theoretical Sampling\|理论抽样]]的延伸和质性数据分析第七步（生成理论）的核心策略（pp. 423, 441–442）。

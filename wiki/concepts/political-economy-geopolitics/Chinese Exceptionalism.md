@@ -43,7 +43,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Chinese Exceptionalism
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 中国例外论 | 美国例外论 | 威斯特伐利亚主权理性 |
 > |------|------------|------------|---------------------|
 > | 核心合法性来源 | 数千年文明连续性、当代脱贫发展经验与关系性善意 | 天赋使命、自由市场民主与立宪普遍原则 | 民族国家主权平等、法定契约与国际法实体对等 |
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **文明[[Pride in Learning|自豪]]与[[Tianxia Heuristic|天下观]]传承** 依托儒家天下大同、和而不同与中华文明悠久底蕴，构建区别于西方现代性断裂的历史连续性认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **当代治理与发展经验示范** 将快速工业化、脱贫攻坚、数字经济与基础设施建设经验转化为面向全球南方国家的治理知识输出。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1049, 1051)]]
 > - **科技创新与[[Hard Power|硬实力]]展演** 在顶尖高校优先扩招科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）专业国际留学生，以高新技术企业基地参访与前沿成果彰显大国卓越实力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1052)]]
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **古代先秦至清中叶 — 华夏中心朝贡文明论** 确立以儒家伦理为核心的宗主国天下秩序观，认为华夏处于天下之中且具备天然的道德与礼乐优越性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **2012 年 — [[Neo-Tributary Perspective|新朝贡秩序]]与非西方替代方案讨论** 雅克（Martin Jacques）与卡拉汉（William Callahan）在国际政治学界提出中国例外论正在复兴，被部分精英视为解决全球治理赤字的非西方秩序方案。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **2019 年 — 卓越与善意理论框架** 何（Benjamin Ho）完成专著性论述，确立中国例外论由追求被承认为卓越与善意构成的双重结构。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1051)]]
@@ -188,5 +188,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合中柬高教合作案例，阐释大学作为[[Pragmatic Paradigm|实用主义]]中国例外论中展现卓越与善意的双重展演窗口，并揭示特权供给诱发的制度张力。

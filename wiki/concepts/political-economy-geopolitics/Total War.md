@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Total War
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **平民与战斗员界限的消除** 将敌方后方劳动人口、产业工人与社会意志视为战争机器的有机组成部分，合法化无差别战略打击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935; cited in Karp & Zamiska, 2025, p. 39)]]
 > - **工业产能与科学技术的全面军工化** 动员全国工业生产线与顶尖学术界（如[[Manhattan Project|曼哈顿工程]]），将前沿基础科学直接转化为大规模杀伤武器。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–38)]]
 > - **以终极毁灭恐怖迫使敌方屈服** 从常规燃烧弹火攻（如东京大轰炸）到核裂变武器，依靠不可承受的物质与心理毁灭打破敌方作战意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Nobel, 1891; Frank, 2020; cited in Karp & Zamiska, 2025, pp. 38–40)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪初 — 克劳塞维茨绝对战争设想** 卡尔·冯·克劳塞维茨在《战争论》中提出“绝对战争”（Absolute War）的哲学构想，探讨战争在不受政治与道德阻力干扰时的逻辑极端。
 > - **1914–1918 — 第一次世界大战的工业化全民动员** 堑壕战、毒气战与国家工业配给制初步显露了总体动员特征。
 > - **1935 — [[Erich Ludendorff|鲁登道夫]]系统理论化** 鲁登道夫出版《总体战》，正式将平民目标、工业产能与宣传控制升格为核心军事教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935)]]
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究
+> [!evidence-grid|notitle] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 38–41）：深入剖析[[Erich Ludendorff|鲁登道夫]]总体战逻辑、B-29 火攻及核均势对维系[[Long Peace|长和平]]的威慑机理。
 

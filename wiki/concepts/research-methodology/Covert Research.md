@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Covert Research
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - Humphreys (1970) *Tearoom Trade*——对同性恋会面安排的研究，Humphreys 在 1975 年的伦理后记中写道："一个社会科学家对这个人能做的最大的伤害就是忽视他"（p. 169）
 > - Patrick (1973) 的格拉斯哥帮派研究——隐蔽研究者目击谋杀时面临角色、伦理和安全之间不可调和的张力
 > - Scheper-Hughes (1979) 对爱尔兰一个村庄的研究——展示了隐蔽研究对参与者和研究者的负面效果

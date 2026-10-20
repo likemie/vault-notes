@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Axiology
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **价值驱动的五层推导阶梯** 价值论作为元理论源头，自上而下逐层渗透并决定[[Ontology\|本体论]]预设、[[Epistemology\|认识论]]立场、方法论考量与具体工具测度，终结“方法至上主义”的技术盲区[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
 > - **教育研究不可分割的政治属性** 教育探究、公共决策与政治权力不可分割地交织在一起，向应用性与评估性研究的[[Paradigm\|范式]]转向本身即体现了鲜明的制度性价值选择。
 > - **认识论旨趣与解放潜能** 价值论诉求赋予知识以不同的意图取向，从技术控制旨趣、实践理解旨趣跃升至[[Ideology Critique\|意识形态批判]]与个体解放旨趣（Habermas, 1972）。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **古典哲学时期 — 善恶与道德本体起源** 探讨伦理（道德善恶）与美学（审美体验）的本体起源，追问城邦正义与理想人性的本质。
 > - **19世纪末至20世纪中叶 — [[Positivism\|实证主义]]的[[Value Neutrality\|价值无涉]]神话** [[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte）与逻辑实证主义将科学等同于价值中立（Wertfreiheit），将价值判断斥为不可验证的形而上学臆测，试图在科学中彻底驱逐价值。
 > - **20世纪中后期 — [[Critical Theory\|批判理论]]与后实证反思** 法兰克福学派揭露工具理性的意识形态欺骗，指出“无良知科学”的毁灭性风险；[[Postpositivism\|后实证主义]]正式确立“事实必定是理论负载与价值负载（theory-laden and value-laden）”的[[Epistemology\|认识论]]命题。
@@ -160,6 +160,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 将价值论作为元理论顶层纳入 Hitchcock & Hughes 研究五层推导阶梯，系统阐述教育研究与政策决策的价值共生性。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 从个体认知发展视角实证测评[[Epistemology\|认识论]]与价值观维度的评估水平，揭示成人深陷彻底相对主义的宽容陷阱。

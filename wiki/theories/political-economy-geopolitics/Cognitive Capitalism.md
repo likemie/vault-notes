@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cognitive Capitalism
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** [[Post-Fordism|后福特制]]信息社会中资本积累形态的质性重构，尤其是心智、知识、语言交往与生命主体性如何被直接整合入资本增殖链条。
 > - **理论问题** 传统工业资本主义以物质工厂、物理机器和手工劳动时间为核心的价值理论，在面对数字算法、创意劳动、无形资产与[[Lifelong Learning|终身学习]]时代时的解释力局限。
 > - **理论类型** 批判政治经济学理论、后福特制社会理论、知识社会学分析视角。

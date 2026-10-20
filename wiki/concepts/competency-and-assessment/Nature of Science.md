@@ -71,7 +71,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nature of Science
@@ -188,7 +188,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960s–1970s — [[Positivism\|实证主义]]与过程技能阶段** 早期科学教育深受逻辑实证主义影响，将科学本质理解为通用的[[Scientific Method\|科学方法]]步骤与实验操作技能。
 > - **1990s–2000s — 共识原则与测评标准化阶段** Lederman 等人系统确立基础教育科学本质七大共识原则与 [[Views of Nature of Science Questionnaire\|VNOS]] 测评家族，确立了科学本质在国际[[Scientific Literacy\|科学素养]]框架中的核心地位。
 > - **2010s — 认知负荷与探究[[Axiology\|价值论]]争阶段** 认知负荷学派批评[[Inquiry-Based Learning\|探究学习]]在概念提取上的效率，而学习科学学派则指出忽视科学本质将导致对科学性质的严重曲解与[[Scientism\|科学主义]]偏狭。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
@@ -232,6 +232,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 在系统反驳[[Direct Instruction\|直接教学]]绝对优越论的综述中，确立科学本质理解与[[Epistemic Practices\|认识论实践]]作为衡量[[Inquiry-Based Learning\|探究式学习]]独特循证价值的核心支柱。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 在[[Epistemic Cognition\|认识论认知]]干预[[Meta-analysis\|元分析]]中明确界定科学本质（宏观哲学与陈述性观念）与认识论认知（动态认知过程）的理论分野，系统排除单纯 NOS 研究以维护[[Construct\|构念]]纯度。

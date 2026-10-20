@@ -53,7 +53,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Harold Garfinkel
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1917年** 出生于美国新泽西州纽瓦克市一个犹太商人家庭。
 > - **1935–1939年** 在纽瓦克大学（现罗格斯大学纽瓦克分校）攻读商业与会计，在此期间接触社会学理论并确立了对日常实际操作推理的兴趣。
 > - **1939–1942年** 进入北卡罗来纳大学教堂山分校攻读社会学硕士，师从霍华德·奥杜姆（Howard W. Odum），开展跨种族人际互动与法律刑罚的实地[[Ethnography\|民族志]]调查。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 颠覆了传统社会学的结构[[Determinism\|决定论]]，将社会学研究的重心从抽象宏观体系彻底转向行动者微观实践推理，开辟了社会建构论与日常生活研究的新[[Paradigm\|范式]]。
 > - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观[[Conversation Analysis|会话分析]]（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research\|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
 > - **教育研究应用** 为教育[[Ethnography\|民族志]]与课堂微观研究提供了强大的分析透镜（如著名的课堂“草莓事件”，Walker & Adelman, 1975），揭示了师生互动中默会[[Indexicality\|索引性]]规则如何决定课堂控制与学业成败。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／思想渊源**
 >   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 精神导师，加芬克尔将其生活世界常识与[[Typification\|类型化]]概念转化为微观经验研究规程。
 >   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** 博士导师，加芬克尔通过反叛其宏观规范[[Determinism\|决定论]]，走向了常人方法学的经验道路。

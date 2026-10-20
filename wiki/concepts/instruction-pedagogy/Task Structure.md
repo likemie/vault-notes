@@ -32,7 +32,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Task Structure
@@ -133,5 +133,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 通过平衡顺序的组内实验设计，对比高中生在良构任务（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）中的[[Academic Achievement\|学业表现]]与[[Reflexivity\|反思性]]判断，证实任务结构对[[Epistemological Beliefs\|认识论信念]]预测效应的调节作用。

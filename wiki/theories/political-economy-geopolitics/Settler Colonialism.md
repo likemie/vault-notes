@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Settler Colonialism
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（定居殖民主义） | 传统殖民主义 (Colonialism) | 内部殖民主义 (Internal Colonialism) |
 > |------|--------|----------------|----------------|
 > | **核心诉求** | 占有土著土地，替换人口结构 | 剥削殖民地劳动力，开采资源 | 核心地区对边缘地区的经济与政治剥削 |
@@ -103,6 +103,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 对定居殖民主义[[Paradigm\|范式]]在新疆应用时的去政治化悖论与合谋效应进行了系统性学术批判。
 > - [[Xinjiang Vocational Education and Training Centers]] — 被西方定居殖民主义学者视为执行“消除的逻辑”、实施文化灭绝的核心实证案例。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Time-Space Compression
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 时空压缩（Time-Space Compression） | 传统世界体系分析（[[World-Systems Theory]]） | 多标度治理（[[Pluri-Scalar Governance]]） |
 > |---|---|---|---|
 > | **[[Ontology\|本体论]]基底** | 技术加速与资本周转的时间物理学重构 | 500 年资本主义世界经济的长时段与等级地理 | 空间尺度（超国家/国家/次国家）与治理维度的矩阵 |
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **以时间消灭空间** 现代电信与数字网络消解了物理地理的阻隔，使得中心国家的资本调度、决策指令与课程模式能够即时抵达边缘地区。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 > - **生产方式与教育劳动的弹性化** 伴随时空压缩，传统局限于国境内的福特制（Fordism）大规模流水线被全球分布式的丰田制（Toyotism）即时生产所取代，迫使教育系统转而培养具备弹性、适应性与[[Lifelong Learning|终身学习]]技能的劳动力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **以太空间与身份重构** 跨国数字连接开辟了新型以太空间（ether space）与离散空间（diaspora space），允许个体跨越国界接触异质文化，建构混合身份。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 112–113)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1989 年 — 理论奠基** 大卫·哈维在《后现代的状况》（*The Condition of Postmodernity*）中系统阐释时空压缩概念，将其定位为晚期资本主义弹性积累的核心地理特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **1990 年代 — 全球化理论核心支柱** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）与[[David Held|戴维·赫尔德]]（David Held）等社会学家将时空压缩与时空延伸（time-space distanciation）确立为全球化宏观理论的核心支柱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 > - **2000 年代 — 引入比较教育政治经济学** [[Robert Arnove|阿诺夫]]等人将时空压缩概念引入比较教育学，用以界定全球化相较于传统[[World-Systems Theory|世界体系理论]]的质性转变，并解释[[Virtual University|虚拟大学]]、跨国劳动力重组与[[Globalization from Below|自下而上的全球化]]抗争。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107, 112–114)]]
@@ -172,5 +172,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用时空压缩概念辨析全球化与[[World-Systems Theory|世界体系分析]]的理论边界，阐释跨国教育网络化与自下而上全球化抗争的生成机制。

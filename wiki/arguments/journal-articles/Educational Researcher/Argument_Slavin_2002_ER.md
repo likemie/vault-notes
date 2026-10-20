@@ -44,7 +44,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Slavin_2002_ER"
@@ -63,14 +63,14 @@ issuing_organization: ""
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 教育研究能否通过采用证据本位政策——即依赖[[Random Assignment\|随机化]]和严格匹配实验来评估可复制的教育项目——实现类似医学和农业的渐进式、系统性改进？(p. 15)
 
 ---
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > Slavin 以**医学类比**为核心论证框架：20 世纪医学通过随机[[Clinical Trial\|临床试验]]（[[Randomised Controlled Trials\|RCT]]）和严格的研发-评估-推广流程实现了前所未有的进步，而教育尽管拥有大量基础研究，却几乎完全绕过了这一动态过程，导致实践随"钟摆式风尚"摇摆而非渐进改善。(pp. 15–16)
 >
 > > “如果瑞普·凡·温克尔（Rip Van Winkle，传说中沉睡多年的人）是一位医生、农民或工程师，那么他今天醒来将无法被雇佣。但如果他在19世纪是一位优秀的小学教师，那么他今天可能仍然是一位优秀的小学教师。”
@@ -82,7 +82,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
 > - **发表于** 2002 年 [[American Educational Research Association\|AERA]] 年会 Dewitt Wallace-Reader's Digest 杰出讲座
 > - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
@@ -114,7 +114,7 @@ issuing_organization: ""
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 截至 2002 年，CSR 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
 > - [[Office of Educational Research and Improvement|OERI]] 战略计划（2002–2007）设定了到 2004 年 75% 的因果[[Research Utilization\|研究使用]][[Random Assignment\|随机分配]]的目标，而当时该比例可能低于 5%。
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源 and 政策制定者的合作。(pp. 17–18)
@@ -124,7 +124,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “在21世纪的曙光中，教育研究终于正在进入20世纪。”
 > ("At the dawn of the 21st century, educational research is finally entering the 20th century.") (p. 15)
 >
@@ -141,7 +141,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > 论文自身未系统讨论局限性，但可从文本识别以下问题：
 >
 > - **政策乐观主义** Slavin 承认"这些政策发展尚未产生我预期的革命"——CSR 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001\|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。

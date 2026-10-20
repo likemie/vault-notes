@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Engineering Pragmatism
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1920s — [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]的实验精神** [[John Dewey|约翰·杜威]]提出踏入具体事物的泥泞激流，倡导以动手验证与抵制教条为核心的实验哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]
 > - **1940s — 曼哈顿[[Big Science|大科学工程]]与战时工程[[Pragmatic Paradigm|实用主义]]** [[J. Robert Oppenheimer|奥本海默]]在洛斯阿拉莫斯践行行动优先的工程哲学；战后军方通过[[Operation Paperclip|回形针行动]]招募 1600 余名前纳粹德国科学家，展现出以国家[[Hard Power|硬实力]]攻坚为绝对优先的求实作风。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 161)]]
 > - **1950s — [[Herbert Hoover|胡佛]]回忆录确立工程师结果责任** [[Herbert Hoover|胡佛]]系统总结工程活动直接面对物理运行检验且无法语言掩盖的客观责任机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 160)]]
@@ -204,5 +204,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]]与[[Manhattan Project|曼哈顿计划]]论述工程[[Pragmatic Paradigm|实用主义]]的定位；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]] 借[[John Dewey|杜威]]与[[Operation Paperclip|回形针行动]]阐发其[[Epistemology|认识论]]。

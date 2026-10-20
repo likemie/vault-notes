@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # Edward R. Murrow
@@ -59,7 +59,7 @@ updated: 2026-10-08
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1908** 出生于北卡罗来纳州吉尔福德县。
 > - **1935** 加入哥伦比亚广播公司（CBS）担任特别事务主任。
 > - **1939–1945** 二战期间驻扎伦敦，以标志性的“这里是伦敦”（*This is London*）进行战地实况广播，向全美传播反法西斯抵抗精神。

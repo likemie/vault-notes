@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Injustice
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 权力不平等、身份偏见与制度安排如何系统性地贬损个体或群体作为“求知者（Knowers）”的社会能力与资格，剥夺其生产、表达、传递与辩护知识的合法空间。
 > - **理论问题** 传统规范[[Epistemology\|认识论]]长期假定求知者是去情境化、无阶级与无性别的纯粹理性个体，无视现实社会中偏见如何严重扭曲[[Reliability\|信度]]赋予与诠释资源，掩盖知识实践背后的权力压迫。
 > - **理论类型** 批判性社会[[Epistemological Theories\|认识论理论]] / 规范[[Philosophical Analysis in Education\|哲学分析]]框架 / 教育正义与伦理理论。
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 涉及知识权威、[[Reliability\|信度]]分配、师生对话地位、课程[[Discourse|话语]]筛选及[[Man-Computer Symbiosis|人机共生]]中的伦理权力议题。
 > - **成立条件** 研究[[Champ\|场域]]中必须存在人际交往、[[Knowledge Production\|知识生产]]或制度性评价体系；研究者需具备揭示深层话语权力的批判透镜。
 > - **解释不足** [[Miranda Fricker|弗里克]]原初理论偏重个体间交往认识德性的反思（如倾听的德性），对宏观政治经济基础与阶级利益驱动的分析力较弱，需结合马克思主义与[[Hegemony\|霸权理论]]加以补足。
@@ -189,7 +189,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - Fricker (2007) — 系统开创认识不正义理论，奠定证词不正义与诠释不正义的核心理论体系。
 > - Anderson (2012) — 从制度[[Epistemology\|认识论]]视角推进认识正义，论证社会机构在抵御结构性认识排斥中的关键责任。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 系统提出“私厨隐喻”与[[Formative Epistemic Injustice|成长性认识不正义]]（[[Formative Epistemic Injustice]]）的三重检验标准，将理论精准对接教育教学中对求知者发展权能与读写[[Epistemic Practices|认知实践]]的侵害。

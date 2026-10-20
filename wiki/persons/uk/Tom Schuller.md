@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Tom Schuller
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **长期** 在英国学术与政策研究界深耕[[Lifelong Learning\|终身学习]]、成人教育与社会资本领域，曾任多所大学研究职位及政策咨询角色，成为英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences）院士。
 > - **2007** 与 [[Tracey Burns]] 合编 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告《教育中的证据：连接研究与政策》（*Evidence in Education: Linking Research and Policy*），主持对全球 6 家标杆[[Educational Brokerage Agency\|教育中介机构]]的首次系统性国际比较研究，确立中介机构类型学的早期[[Analytic Framework\|分析框架]]。
 > - **2022** 与 Burns 合著[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]，对 2007 年报告进行 15 年系统追踪，考察中介机构演进的三重[[Paradigm\|范式]]变迁，以循证医学危机镜鉴诊断证据商业化风险，并提出超越单体孤岛、推进"中介的中介"的系统行动路径。
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将[[Lifelong Learning\|终身学习]]的广谱视野与中介机构的机构生态学分析相结合，使教育[[Epistemic Governance\|知识治理]]的讨论超越单一学段与单一国别局限，推动跨生命周期、跨制度语境的比较研究框架。
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告与学术出版，为英国及欧洲教育政策界在"后真相时代"重新审视中介机构的制度定位与资助机制提供了重要理论依据。
 > - **跨国传播** 2007 年首次系统性梳理全球[[Educational Brokerage Agency\|教育中介机构]]的研究，直接影响了 2010 年代[[EU|欧盟]] EIPEE/[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络的建立以及多国政府对中介机构治理模式的反思。
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **长期合著者** [[Tracey Burns]] — 自 2007 年以来与 Burns 合作主编、合著多项 [[OECD]] 报告，共同建立[[Educational Brokerage Agency\|教育中介机构]]研究的国际比较[[Analytic Framework\|分析框架]]。
 > - **出版合作平台** [[OECD]] / [[Centre for Educational Research and Innovation]] — 核心学术输出平台。
 > - **英国学术社群** 英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences），兼具学术独立性与跨学科政策研究传统。

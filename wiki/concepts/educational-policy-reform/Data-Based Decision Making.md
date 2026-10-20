@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Data-Based Decision Making
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭[[Socioeconomic Status|社会经济地位]]等输入数据、[[Classroom Observation|课堂观察]]与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156–157)]]
 > - **五阶段动态行动循环（Five-Stage Action Cycle）** 遵循设定目标 ➔ 收集数据（围绕成因假设展开） ➔ 分析与质检（数据转化为信息并升华为知识） ➔ 落实改进举措 ➔ 成效评估，包含未达预期时回溯前序步骤的反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **[[Data Team Intervention\|数据团队]]结构化支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 团队研发，每校遴选6至8名骨干教师与领导组建团队，在外部研究教练指导下遵循八步规程攻关真实学情难题，有效提升[[Data Literacy\|数据素养]]与协作技能。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
@@ -229,7 +229,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 系统阐释 DBDM 演进、五阶段行动循环与特温特[[Data Team Intervention\|数据团队]]（Data Team）实证干预，揭示其知病因却缺良方的固有盲区，并构建整合 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 的 [[School Enquiry Cycle\|ESTI]] 八步探究模型。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统论述 DBDM 作为与 RITP 相对的数据使用形态，揭示课堂数据层级感知偏误，倡导定性定量[[Triangulation\|三角验证]]与学校[[Inquiry Cycle\|探究循环]]。
 > - Schildkamp and Kuiper (2010) — 提出基于数据的决策核心概念界定，系统梳理输入、过程、情境与结果四类校本数据形态及实践功能。

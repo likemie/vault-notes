@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Paradigm Wars
@@ -197,7 +197,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 年代初 — 质性反叛与战线初现** 埃德蒙·胡塞尔[[Phenomenology\|现象学]]与常人方法学被引入社会探究，质性学者向统治数十年的实证量化霸权发起挑战，指责其将活生生的人降解为无生命的机械零件。
 > - **1980 年代 — [[Paradigm\|范式]]战争白热化** 纳撒尼尔·格奇（Gage, 1989）正式将这场对抗命名为“范式战争”，双方在学术大会与权威期刊上猛烈抨击对方的方法学效度与伦理合法性。
 > - **1990 年代 — 停火呼吁与和平协商** 学者们意识到旷日持久的阵营内耗严重削弱了教育研究对社会现实的解释力，学界开始呼吁“范式和平”，探索质性与量化方法的结合可能。
@@ -255,7 +255,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 全景呈现教育[[Paradigm\|研究范式]]战争的爆发根源、两大阵营对峙以及[[Mixed Methods Research\|混合方法]][[Pragmatic Paradigm\|实用主义]]整合路径。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

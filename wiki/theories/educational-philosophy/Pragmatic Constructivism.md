@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pragmatic Constructivism
@@ -50,7 +50,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 学习的主动认知建构过程，以及理论与教学实践、课程设计之间的动态整合机制。
 > - **理论问题** 批判[[Behaviorism|行为主义]]对学习行为的外在刺激控制，并试图弥合传统教育中“理论与实践”的二元割裂，探讨如何设计面向不确定未来的自我调整课程。
 > - **理论类型** 学习理论、课程[[Analytic Framework\|分析框架]]。
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 探究性学习、跨学科[[Phenomenon-Based Learning\|现象本位学习]]中的师生互动、概念转变过程。
 > - **不适合解释** 纯粹依靠机械性重复训练的技能获得，或与学生生活世界完全割裂的纯逻辑符号演算。
 > - **常见误用** 将其等同于完全放任学生的“[[Discovery Learning\|发现学习]]”，忽视了[[John Dewey\|杜威]]所强调的系统科学学科的[[Ontology\|本体论]]深度（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **20世纪初 — 思想源头**[[John Dewey]] 阐发反思经验与教育的关系；[[George Herbert Mead]] 提出社会互动与心智起源（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]）。
 > - **1990s — 理论整合与 [[Phenomenon-Based Learning\|PhBL]] 基础** 赫尔辛基大学的 Rauste-von Wright 系统地将二者结合，提出“课程自我修正模型”，作为芬兰教师教育中教学法设计的理论工具。
 > - **2014 — 国家核心课程吸收** 该理论渗透至芬兰国家核心课程标准，推动跨学科“现象本位学习”走向学校实践（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]）。
@@ -124,5 +124,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 追溯了该理论作为芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）心理学基石的思想史脉络。

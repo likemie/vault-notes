@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # TECO Project
@@ -75,7 +75,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 证明了真实性情境测评工具跨国跨文化移植的可行性，为欧洲高教区探索国家级增益监测提供了实证范本。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **实践影响** 推动了意大利参与高校反思传统考核方式，引发教师对课程[[Homework\|作业]]缺乏真实劣构决策任务的广泛反思。
 > - **知识影响** 实证检验了文档库表现任务（PT）在欧洲非英语高教语境中的[[Ecological Validity\|生态效度]]与评分[[Reliability\|信度]]。

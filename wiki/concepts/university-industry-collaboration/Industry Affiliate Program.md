@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Industry Affiliate Program
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 年代末 — 微型联合体与早期硬件探索** 加州理工学院 [[Silicon Structures Project|SSP]]（7 家巨头，每家年费 10 万美元）与康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]（37 家企业，每家年费 8,500 美元）开创了企业按年出资换取技术预研与设备咨询的早期产业联盟形态。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–292)]]
 > - **1980 年代中 — 重资产基建与 FMA 深度嵌合** 斯坦福大学 CIS 吸纳 20 家企业各捐资 75 万美元基建资本与 10 万美元年费，开创了工程试验线与“教授-企业导师-研究生”（FMA）联合指导的深度治理模式。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 294–297)]]
 > - **2000 年代至今 — 规范化分类与全校战略枢纽** 产业联盟演进为捐赠型与合同型两大标准化法律通道，并由大学中心[[University-Industry Collaboration|产学参与]]办公室统筹运营，成为连接早期技术雷达与后续定向赞助研究（[[Sponsored Research Agreement|SRA]]）的关键战略接口。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 64–65)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 109–111)]]
@@ -229,7 +229,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 调查揭示全美 65% 的大学中心[[University-Industry Collaboration|产学合作]]办公室将产业联盟作为核心管辖业务，并分析了专职管理团队在多边会员关系维护中的关键职能。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 提出了产业联盟在产学组织化连续谱中的演进定位，深入阐明了捐赠型与合同型联盟在会费池运作、投票议程设定与知识产权转化中的实操规范。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]与产业周期演进视角，论证了产业联盟在长周期时间尺度上充当前竞争战略技术雷达与人才培育底座的独特价值。

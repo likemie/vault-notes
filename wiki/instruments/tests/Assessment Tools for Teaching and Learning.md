@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Assessment Tools for Teaching and Learning
@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合新西兰 25,000 名学生数学题库数据，论证如何利用 asTTle 的目标设定与诊断报告打破传统基于测试的惩罚性问责，重塑以教师为核心的循证形成性教学体系（pp. 11–21）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其[[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统调查新西兰教育部拟通过招标（RFP）将纳税人资助的 e-asTTle 系统转让给私营投资伙伴向学校收费的[[Exogenous Privatisation|外生私有化]]事实。

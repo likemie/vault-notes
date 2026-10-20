@@ -34,7 +34,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Value
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1986–2003 — 哲学[[Axiology\|价值论]]探讨** Goldman (1986) 与 Kvanvig (2003) 探讨重大真理与深层理解在[[Epistemology\|认识论]]中的内在价值，确立了认识论价值作为认知哲学范畴的合法性。
 > - **2011 — 纳入扩展[[Epistemic Cognition\|认识论认知]]构件** Chinn 等学者将认识论价值与[[Epistemic Aims\|认识目标]]结合并列，作为解释学习策略选择与学科文化差异的关键心理与哲学[[Variable\|变量]]。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014至今 — 与科学实践及[[Epistemic Agency\|认识主体性]]融合** 认识论价值逐渐与学科探究共同体协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
@@ -147,6 +147,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 将[[Epistemology\|认识论]]价值作为[[Epistemic Cognition\|认识论认知]]五构件之一，系统阐明其在成本收益权衡与学科文化差异中的理论功能。
 

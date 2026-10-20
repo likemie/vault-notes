@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Kwame Anthony Appiah
@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1954** 出生于英国伦敦，在加纳库马西成长，具有加纳阿散蒂王室与英国贵族双重血统。
 > - **1975–1982** 就读于剑桥大学克莱尔学院，获哲学学士与博士学位。
 > - **1981–2014** 先后任教于耶鲁大学、康奈尔大学、杜克大学、哈佛大学与普林斯顿大学。

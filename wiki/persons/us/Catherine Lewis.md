@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -41,12 +41,12 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Lewis (2015) 将[[Improvement Science\|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm\|范式]]，强调其与传统实验方法在核心假设上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。
 >
 > [[Argument_Peterson_2016_IJRME\|Peterson (2016, p. 300)]] 将 Lewis and Bryk et al. (2015) 并列为改进科学在教育中兴起的关键文本。
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Lewis, C. (2015). What Is [[Improvement Science]]? Do We Need It in Education? *Educational Researcher*, 44(1), 54–61. — 向教育研究界系统介绍改进[[Scientific Method\|科学方法]]论的综述论文

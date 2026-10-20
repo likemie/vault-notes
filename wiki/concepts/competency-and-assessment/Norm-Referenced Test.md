@@ -34,7 +34,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Norm-Referenced Test
@@ -149,6 +149,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 说明常模参照测验如何通过分数变异、[[Item Analysis\|题目区分度]]和适中难度支持个体比较。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 区分常模测量模型与标准模型，并从学习改变、表现质量和[[Constructive Alignment\|建构性对齐]]三个方面论证常模逻辑不宜主导大学课程评估。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Dublin Descriptors
@@ -84,6 +84,6 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **宏观治理影响** 成为欧洲各国编制国家资格框架（NQFs）与[[European Qualifications Framework\|欧洲资格框架]]（EQF 6–8 级）的直接法理母本。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 12)]]
 > - **转译瓶颈与微观断裂** 都柏林描述符的高度抽象性导致欧洲高校教师在微观课程考核中普遍遭遇对齐困难，直接催生了 [[Tuning Project\|Tuning]] 调谐项目 与 [[CALOHEE Project\|CALOHEE]] 项目 的学科化操作破局。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]

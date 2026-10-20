@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Carl Rogers
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1902** 出生于美国伊利诺伊州奥克帕克，早年在威斯康星大学学习农业与历史，后在纽约协和神学院与哥伦比亚大学教育学院转向临床心理学，获博士学位。
 > - **1940–1957** 先后任教于俄亥俄州立大学、芝加哥大学与威斯康星大学，开创非指导性心理治疗（non-directive therapy）与来访者中心疗法，1946–1947 年出任美国心理学会（APA）主席。
 > - **1956** 与[[Behaviorism|行为主义]]领军学者[[B. F. Skinner|斯金纳]]（B. F. Skinner）展开载入史册的“人类行为控制与自由”世纪大辩论。
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **教育哲学路径** 彻底扭转了“以教师/教材为中心”的传统学科本位与[[Behaviorism|行为主义]]训练模式，确立了“以学习者为中心”（learner-centered）的[[Whole Person Education\|全人教育]]世界性思潮。
 > - **方法论路径** 为[[Qualitative Research\|质性研究]]、[[Phenomenology\|现象学]]访谈与教育自传探究提供了不可动摇的[[Ontology\|本体论]]辩护，确立了尊重被研究者主体性与知情权的人本伦理准则。
 > - **心理治疗路径** 开创了当代心理咨询三大主流支柱之一的来访者中心疗法，深刻渗透进现代社会工作、危机干预与医患沟通实践。
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想同盟** [[Abraham Maslow]] — 共同开创人本主义心理学与潜能运动，同为主观价值探究的坚决捍卫者。
 > - **方法共鸣** [[Rom Harré]] — 呼应哈雷的“[[Anthropomorphic Model\|拟人化模型]]”，共同强调将人视作具备反思自我监控能力的真实人类。
 

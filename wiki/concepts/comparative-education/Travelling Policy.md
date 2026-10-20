@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Travelling Policy
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **去脉络化与[[Recontextualization\|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳实践”[[Discourse|话语]]（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE\|Beech, 2009a]])
 > - **[[Policy Entrepreneur\|政策企业家]]与超国家网络的代理机制（Policy Entrepreneurs & Transnational Networks）** 政策不再单纯由国家官僚运作，而是由多边机构、NGO、政策企业家和跨国咨询公司等行动者组成的网络节点共同推销与扩散。
 > - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性规训（[[Open Method of Coordination|OMC]]），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将旅途政策和流动[[Discourse|话语]]定位为理性主义传统下，治理网络超越国家边界、进行远处协调的重要表征。
 > - [[Argument_Beech_2009_CE\|Beech, 2009a]] — 详细探讨了跨国机构作为“园丁”，使政策在[[Global Policy Space\|全球政策空间]]中旅行、 decontextualize 与 recontextualize 的机制。
 > - [[Transfer Translation Transformation]] (转译与 3T 框架) — 研究政策在其旅途终点，如何在本土社会空间受权力挤压而变形的微观机制。

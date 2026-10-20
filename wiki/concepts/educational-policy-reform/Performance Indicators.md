@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Performance Indicators
@@ -301,7 +301,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构[[OECD|经合组织]] [[International Indicators of Education Systems|INES]] 项目与《[[Education at a Glance|教育概览]]》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以[[EU|欧盟]]区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化规训在提升教育绩效上的实质困境。

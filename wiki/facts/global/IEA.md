@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # IEA
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响与[[Social Science as Legitimation Alibi|合法化借口]]** 为成员国政府提供了跨国对照的“硬数据”武器；既常被政客用作制造国内教育危机、推行问责改革的[[Social Science as Legitimation Alibi|合法化借口]]（如美国 1983 年依据早期 IEA 数据出台《国家在危机中》），又充当了国家教育系统现代化水平的官方合格证。卡扎米亚斯揭示，实证数据以“[[Value Neutrality|价值中立]]”为掩护，深度服务于冷战时期国家五年计划与国际技术援助的政治合法化。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]; [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 69)]]
 > - **实践影响** 开创了跨国课程调查、[[Test Specifications and Test Blueprint|测验蓝图]]编制、多层[[Sampling Frame|抽样框架]]与试题反应理论（[[Item Response Theory|IRT]]）技术规程，重塑了全球参与国国家课程评估体系与标准化测验的日常运作机制。
 > - **知识影响** 使量化[[Empiricism|经验主义]]牢固确立为比较教育学与教育评价学的主流正统；推动[[Multiple Regression|多元回归]]分析与跨国[[Variable|变量]]测算成为标准分析[[Paradigm|范式]]，但也导致学科视界发生窄化，将丰富的[[Educated Identity|受教育身份]]与历史文化语境剥离为单一的学业技能产出分数。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 333–334)]]

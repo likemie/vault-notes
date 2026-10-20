@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technological Conservatism in Mission Programs
@@ -149,5 +149,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽剖析 [[National Aeronautics and Space Administration|NASA]] 与军方重大工程中管理者在器件选型上的技术保守主义与极端物理约束倒逼全行业前沿技术加速的内在张力。

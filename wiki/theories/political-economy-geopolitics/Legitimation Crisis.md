@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Legitimation Crisis
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代民主与晚期资本主义国家中，行政系统在经济干预、技术资源配置与社会大众忠诚维系之间产生的结构性断裂与政治合法性流失。
 > - **理论问题** 解释为何单纯的经济增长与技术生产力飞跃无法自动保障政体稳定，当技术红利被私人资本垄断而公共品供给匮乏时，政权公信力为何陷入系统性衰退。
 > - **理论类型** 批判社会理论、政治经济学危机理论、国家治理与公共政策[[Analytic Framework|分析框架]]。
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 晚期工业社会与后工业民主国家中，国家干预能力、技术供给效能、专业自主权与公众政治认同之间的动态张力。
 > - **成立条件** 存在相对开放的公共领域、活跃的媒体舆论、专业工会组织以及公民对国家责任有明确权利诉求的法治环境。
 > - **解释不足** 理论对高度集权体制或主要通过外部强制与意识形态灌输维系统治的社会解释力相对有限；对纯粹微观课堂偶发教学困境缺乏直接指导作用。
@@ -182,7 +182,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 以[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析硅谷退缩与[[Innovation Desert|创新荒漠]]，论证重建[[Technological Republic|技术共和国]]的紧迫性；全书结构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 总览页。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 将哈贝马斯合法化危机理论应用于教育治理，剖析丹麦 2014 年公立学校改革中行政系统如何利用[[Visible Learning|可见的学习]]与[[Technical Rationality|技术理性]]构建防御掩体以转移社会政治矛盾（pp. 84–87）。
 

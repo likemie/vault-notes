@@ -89,7 +89,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Constructivist Instruction
@@ -268,7 +268,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 提出三级教学观与[[Constructive Alignment\|建构性对齐]]理论，奠定了[[Constructivist Paradigm\|建构主义]]教学在现代高等教育课程设计中的应用框架。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemic Cognition\|认识论认知]]干预因果[[Meta-analysis\|元分析]]，量化确立了常规建构主义教学（$d = 0.479$）以及指导式建构探究（$d = 0.808$）的因果有效性。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]]现代[[Inquiry-Based Learning\|指导式探究]]教学在发展概念理解、[[Nature of Science\|科学本质]]与[[Epistemic Practices\|认识论实践]]中的独特优势，有力回应了认知负荷学派的批评。

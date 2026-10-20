@@ -45,7 +45,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Mark A. Runco
@@ -84,7 +84,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1988** 创办学术期刊《[[Creativity\|创造力]]研究期刊》（*Creativity Research Journal*）并长期担任主编，推动创造力研究的实证化与跨学科发展。
 > - **1990s** 提出认知与创造力整合模型（Runco & Chand, 1995），开发朗科[[Runco Ideational Behavior Scale\|观念行为量表]]（Runco Ideational Behavior Scale, RIBS）。
 > - **2000s–2010s** 深入探讨[[Divergent Thinking\|发散思维]]测试的[[Criterion-related Validity\|效标关联效度]]与[[Criterion Problem\|效标问题]]，主编多部权威创造力手册。
@@ -105,7 +105,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进[[Creativity\|创造潜能]]与创造表现的解耦，为全民[[Creativity Training\|创造力教育]]与日常创造力（Everyday Creativity）提供理论依据。
 > - **方法路径** 规范[[Divergent Thinking\|发散思维]]测验的指导语与计分方法，倡导[[Meta-meta-analysis\|二阶元分析]]方法综合庞杂的实证效应。
 > - **政策路径** 主张学校教育不应仅将创造力视为少数天才的特权，而应通过系统性教学干预开发学生的发散思维与[[Problem Finding\|问题发现]]技能。
@@ -114,7 +114,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** Mark A. Runco 长期与 S. Acar、M. Karwowski、R. J. Sternberg 等[[Creativity\|创造力]]学者开展合作研究与手册编纂。
 > - **机构** 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。
 

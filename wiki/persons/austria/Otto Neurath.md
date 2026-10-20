@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-24
+updated: 2026-10-21
 ---
 
 # Otto Neurath
@@ -66,7 +66,7 @@ updated: 2026-09-24
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1882** 出生于维也纳。
 > - **1913** 发表早期重要论文 *Die Verirrten des Cartesius und das Auxiliarmotiv*，讨论[[René Descartes\|笛卡尔]]的迷路者——这一比喻后来成为理解其反基础主义科学哲学的核心意象。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 183)]]
 > - **1920s–1930s** 作为维也纳学派核心成员，推动逻辑[[Positivism\|实证主义]]的发展，但与卡尔纳普、石里克等成员在政治介入、科学统一性等问题上存在分歧。
@@ -98,7 +98,7 @@ updated: 2026-09-24
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 纽拉特原则（整体论的反基础主义）通过蒯因进入分析哲学的主流，成为[[Postpositivism\|后实证主义]]科学哲学的重要思想资源。纽拉特也被视为科学社会学和 [[Science and Technology Studies\|STS]] 研究的先驱之一。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 > - **方法路径** 纽拉特的"[[Encyclopaedism\|百科全书主义]]"（encyclopaedism）——一种反基础主义的、多学科的、非还原论的知识组织方式——影响了后来的跨学科研究方法论和知识可视化实践。
 > - **政策路径** 纽拉特在维也纳时期的住房政策和社会主义经济规划工作，代表了将科学哲学直接转化为社会政策的早期尝试。
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Karl Popper\|卡尔·波普尔]] — 在维也纳时期有密切的智识互动，但两人在[[Falsification\|证伪主义]]和[[Scientific Method\|科学方法]]问题上存在根本分歧（见 Cat, 1995 对波普尔—纽拉特论辩的研究）。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 > - **思想前驱** Pierre Duhem（迪昂）— 纽拉特原则被视为迪昂整体论的延伸和激进化。
 > - **思想后继** [[W. V. O. Quine]]（蒯因）— 纽拉特的反基础主义整体论经由蒯因的"[[Empiricism\|经验论]]的两个教条"（1951）进入分析哲学主流。

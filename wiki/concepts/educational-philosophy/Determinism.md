@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Determinism
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **因果前因可知性（Explicability via Antecedents）** 任何现象的发生绝非凭空孤立，其机制原则上均可追溯至先行情境与客观条件，能够被理性与实证研究所揭示。
 > - **宇宙运作规则性（Regularity without Caprice）** 假定自然与社会世界存在内在稳定的秩序，排斥不可捉摸的超自然力量或彻底不可知的盲目任性。
 > - **预测与控制旨趣（Prediction and Control）** 科学研究的根本驱动力在于从经验事实中抽象出因果法则，以此为教育干预、行为矫正与制度设计提供前瞻性控制依据。
@@ -185,7 +185,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **18 世纪 — 经典机械决定论确立** 皮埃尔-西蒙·拉普拉斯（Pierre-Simon Laplace）提出拉普拉斯妖假想，宣告宇宙如精密钟表般完全由力学规律严格决定。
 > - **20 世纪初 — 心理学[[Behaviorism|行为主义]]决定论盛行** 华生与[[B. F. Skinner|斯金纳]]（B. F. Skinner）将学习完全解释为外部刺激与强化历史的决定产物，彻底排斥自由意志与心灵主义概念。
 > - **1965 — 波普尔提出“论云与钟”反思** [[Karl Popper|卡尔·波普尔]]发表《论云与钟》，批判物理决定论将所有云团强行视为钟表的荒谬性，奠定了非决定论与开放宇宙[[Epistemology|认识论]]基础。
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 

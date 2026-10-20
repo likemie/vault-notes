@@ -62,12 +62,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > Cult of the Guru（大师崇拜）是 [[Scott Eacott]]（2017）提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受和追捧——该人物的研究被专业协会、学校系统和政策制定者提升为"解决教育诸多困境的方案"，而对其方法论局限性和替代视角的系统性忽视则构成了"崇拜"的核心特征([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.422]])。
 >
 > Eacott 以 Callahan（1962）的经典著作 *Education and the [[Cult of Efficiency]]* 为命名参照和[[Analytic Framework\|分析框架]]，将当代澳大利亚教育领导力中对 [[John Hattie]] 的追捧类比为 20 世纪上半叶美国公立教育对科学管理（Taylorism）的崇拜，称之为"大师崇拜"（Cult of the Guru），其具体形式为"哈蒂崇拜"（Cult of Hattie）([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.413-414]])。
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 历史沿革
 
-> [!note-] 历史沿革
+> [!note-|notitle] 历史沿革
 > - **Callahan（1962）** 出版 *Education and the [[Cult of Efficiency]]*，论证 20 世纪上半叶美国公立学校改革被商业管理实践（尤其是 Taylor 1911 的科学管理）渗透——Eacott 将这一[[Analytic Framework\|分析框架]]类比应用于当代澳大利亚的 Hattie 现象([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.413-414]])
 > - **2009 年** Hattie 出版 *[[Visible Learning]]*，此后被 ACEL 年会频繁邀请为主题演讲者（自 2009 年起），其品牌开始向多领域扩展([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419]])
 > - **2015 年** ACEL and [[Corwin Press|Corwin]] 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
@@ -112,20 +112,20 @@ updated: 2026-10-16
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - vs **academic celebrity（学术名人）** Eacott 明确区分了[[Unit of Analysis\|分析单位]]——学术名人研究关注的是作为实体的个体（如 [[Michael Fullan]]、Andy Hargreaves 等），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414]])
 > - vs **fad/fashion（潮流与时尚）** 教育领导力经常经历来自外部（如商业管理概念）的潮流渗透（Peck & Reitzug, 2012），但 Cult of the Guru 特指从教育研究内部[[Emergence\|涌现]]并被不加批判地接受的权威——更难识别和抵制
 > - vs [[Neo-Taylorism]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理原理之间的结构同源性（效率最大化、唯一正确方法、任务拆解）；Cult of the Guru 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 是"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 是"什么使这种泰勒主义成为崇拜"
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - wiki-[[Pierre Bourdieu]] — [[Ontological Complicity\|本体论共谋]]（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414, citing Birkinshaw et al., 2014]]; Bourdieu & Wacquant, 1992)
 > - Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史框架：20 世纪美国教育被效率崇拜渗透的[[Analytic Framework\|分析框架]]，Eacott 将其类比应用于当代澳大利亚的"Hattie 崇拜"
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > - Eacott 在硕士课程中连续多届遇到自称为"Hattie 学校"教师的学生——表明 Hattie 的工作在论文发表前已在澳大利亚学校系统中成为霸权性存在([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.777]])
 > - Eacott 2017 年论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.776]])
 > - 论文引发的争议本身成为大师崇拜现象的经验证据——包括向大学科研副校长的正式投诉
@@ -159,7 +159,7 @@ updated: 2026-10-16
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
+> [!example|notitle] 相关案例／政策
 > - ACEL and Corwin 合作（2015）— 澳大利亚最大的[[School Leadership\|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 VL 工作坊
 > - [[Australian Institute for Teaching and School Leadership\|AITSL]] — Hattie 担任澳大利亚教学与学校领导力研究院主席，其工作已嵌入国家专业标准和认证体系
 > - [[Melbourne Declaration]] of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力

@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Fazal Rizvi
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1950** 出生，早年在英国伦敦大学攻读教育哲学，获博士学位，奠定其深厚的后殖民文化理论与批判哲学根基。
 > - **1980s–1990s** 先后任教于澳大利亚迪肯大学、蒙纳士大学及皇家墨尔本理工大学，聚焦多元文化主义、后殖民主义与教育政策社会学；与 Miriam Henry、Sandra Taylor 以及 [[Bob Lingard]] 结成长期研究合作。
 > - **2001** 与研究团队合作出版里程碑专著《[[OECD|经合组织]]、全球化与教育政策》（*The OECD, Globalisation and Education Policy*），开创将超国家组织作为独立政策行动者进行社会学[[Rich and Thick Description|深描]]的经典研究传统。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与 [[Bob Lingard]] 共同奠定批判性全球教育政策研究的核心[[Paradigm|范式]]，提出[[Social Imaginary|社会想象]]分析进路与[[Governing by Numbers|数字治理]]批判框架；率先将[[Critical Geopolitics|批判地缘政治学]]引入高等教育与[[Geopolitics of Knowledge|知识地缘政治]]分析，开辟国际化双重理性研究前沿。
 > - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土转译与制度[[Discourse|话语]]杂糅的质性批判分析示范。
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Bob Lingard]] — 长期核心学术合作者，共同创立全球教育政策批判社会学[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者。
 > - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）、[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose） — [[Space of Equivalence|统计等值空间]]与[[Governing at a Distance|远处治理]]。
 > - **对话学者／前沿争鸣** 迈克尔·彼得斯（Michael Peters） — [[Knowledge Capitalism|知识资本主义]]理论；菲利普·布朗（Phillip Brown）、休·劳德（Hugh Lauder） — 全球技能竞赛与工作性质转型研究。

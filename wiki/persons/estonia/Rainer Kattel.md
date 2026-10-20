@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Rainer Kattel
@@ -81,7 +81,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1974** 出生于爱沙尼亚塔尔图，先后在塔尔图大学和德国马尔堡大学攻读古典哲学与政治学，获博士学位。
 > - **2002–2017** 担任塔林理工大学创新与公共管理系主任，将该系建设为欧陆技术治理与[[Evolutionary Economics|演化经济学]]重镇。
 > - **2017–至今** 加盟伦敦大学学院（UCL），出任创新与公共目的研究所（IIPP）公共治理与技术转型教授兼副所长，联合[[Mariana Mazzucato|马祖卡托]]推动全球[[Public Dynamic Capabilities|公共部门动态能力]]研究议程。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 787)]]
@@ -111,7 +111,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 沟通了[[Evolutionary Economics|演化经济学]]创新研究与公共行政学国家能力理论，为全球创新政策研究注入组织能力维度。
 > - **政策路径** 直接参与[[EU|欧盟]][[Horizon Europe|地平线欧洲]]（Horizon Europe）重大科技使命设计，为多国政府重塑数字化服务与绿色转型机构提供理论指南。
 > - **组织治理实践** 推动各国公共部门评估机制从静态[[Cost-Benefit Analysis|成本收益分析]]向[[Reflexivity|反思性]]、实验性评估框架转型。
@@ -120,7 +120,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Mariana Mazzucato]] — 共同领导 UCL IIPP 研究所，联合开创[[Public Dynamic Capabilities|公共部门动态能力]]与[[Mission-Oriented Innovation Policy|使命导向创新政策]]系列理论。
 > - **理论渊源** [[Evolutionary Economics|演化经济学]]（[[Joseph Schumpeter|约瑟夫·熊彼特]]） — 继承演化经济学[[Creativity|创造性]]破坏与[[Technological Trajectories|技术轨道]]理论，拓展至公共部门组织领域。
 > - **理论渊源** [[Max Weber|马克斯·韦伯]]（Max Weber） — 吸收理性[[Bureaucracy|官僚制]]与精英功绩制思想，探讨国家能力演化。

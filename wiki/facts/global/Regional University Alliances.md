@@ -39,11 +39,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > 区域大学联盟是 21 世纪[[Internationalization of Higher Education\|高等教育国际化]]的重要制度形式。[[Argument_Amos_2022_Springer\|Amos (2022, pp.57–58)]] 将其定位在晚期现代教育转型的框架中：随着教育治理从国家中心转向市场中心（参见 [[Transitology]] 的双轴模型），大学联盟成为多层级[[Geopolitics|地缘政治]]教育空间中的关键行动者——它们跨越国界甚至大洲边界，在科研合作、师生流动和联合学位项目中运作，同时与国家政府、超国家机构（如 European Commission）和私人资本在同一空间中博弈。
 >
 > > 例：区域大学联盟不是传统的"国际交流协议"——后者是两所大学之间有限的、有时间边界的合作（交换学生、合作研究项目）。区域大学联盟是**制度性的、多边的、战略性的** 多所大学组建长期联盟，共同设定研究议程、开发联合学位、在 Brussels 等政策中心设立联合代表处。它们不仅是学术合作平台，也是政治游说力量。
@@ -51,7 +51,7 @@ updated: 2026-10-20
 
 ## 主要联盟
 
-> [!example] 主要联盟
+> [!example|notitle] 主要联盟
 > [[Argument_Amos_2022_Springer\|Amos (2022, pp.57–58)]] 在讨论数字化的[[Geopolitics|地缘政治]]影响时列举了三个代表性联盟：
 >
 > - **[[League of European Research Universities\|欧洲研究型大学联盟]]（LERU, League of European [[Research Universities]]）** 以研究为导向的精英大学联盟，强调基础研究和学术卓越。LERU 在[[EU|欧盟]]研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 核心功能
 
-> [!abstract] 核心功能
+> [!abstract|notitle] 核心功能
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 指出这些联盟的共同运作领域：
 >
 > - **科研合作** 跨国研究项目协调、共享研究基础设施、联合申请[[EU|欧盟]]资助
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 地缘政治意义
 
-> [!success] [[Geopolitics|地缘政治]]意义
+> [!success|notitle] [[Geopolitics|地缘政治]]意义
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 将区域大学联盟放置在 [[Robert Cowen]] 的 [[Transitology]] 和双轴模型框架中理解：
 >
 > - **市场驱动的表现** 联盟的运作逻辑——竞争排名、吸引国际学生、争夺研究资助——对应于 Cowen 晚期现代模型中的纵轴（market-driven → 内部效率与外部效能）和横轴（国际知识竞争）
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 与数字化的关联
 
-> [!info] 与数字化的关联
+> [!info|notitle] 与数字化的关联
 > Amos 在 §4.3 中同时讨论数字化和区域大学联盟，并非偶然。两者都是教育从国家中心到市场中心转型的表现形式——数字化重新绘制了教学法和教育传递的边界，联盟重新绘制了教育制度和治理的边界。它们共同构成 Amos 所说的"多层级[[Geopolitics|地缘政治]]教育空间"的两个维度([[Argument_Amos_2022_Springer\|Amos, 2022, pp.57–58]])。
 >
 

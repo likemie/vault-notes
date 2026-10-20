@@ -68,7 +68,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Affordances
@@ -249,7 +249,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 系统构建生成式 AI 促进高等教育批判性与[[Creativity\|创造性思维]]发展的 10 大[[CORE Education|核心教育]]可供性分类学。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — [[Meta-analysis\|元分析]] 35 项[[Experimental Research\|实验研究]]，量化检验 AI [[AI Agent in Education\|智能体]]教育可供性在[[Procedural Skill\|程序技能]]与高阶认知任务中的效应分化。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为[[Epistemic Dependence\|认识依赖]]的四重社会技术路径，提出维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的规范治理框架。

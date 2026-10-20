@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Venkatesh Narayanamurti
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1939** 出生于印度班加罗尔，后赴美深造，1965 年获康奈尔大学凝聚态物理学博士学位。
 > - **1968–1987** 任职于[[Bell Labs|贝尔实验室]]（Bell Labs），历任研究员及固态电子学研究部主任（Director of Solid State Electronics Research），领导开展半导体异质结构、声子物理学、低温物理及超导微电子等前沿攻关，直接参与并见证了信息通信技术半个世纪多项重大突破的诞生。
 > - **1987–1992** 担任桑迪亚国家实验室（Sandia National Laboratories）负责探索性研究与计算科学的副总裁，深度涉足[[Department of Energy|美国能源部]]（DOE）核能与尖端物理工程的宏观研发管理。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与[[Big Science|大科学工程]]提供了核心分析工具。
 > - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与[[ARPA-E|高级能源研究计划局]]（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **主要合作者** 图鲁·奥杜莫苏（Tolu Odumosu）、李·芬塞尔（Lee Vinsel） — [[Discovery-Invention Cycle|发现-发明循环]]理论的核心合作者与专著合著者。
 > - **核心思想论敌／反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判其 1945 年报告所奠定的战后线性创新假说与基础/应用动机分类教条。
 > - **理论继承与修正对象** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 肯定其二维动机象限的突破，但指出其继续沿用二分法术语且停留于短期静态动机的未竟局限。

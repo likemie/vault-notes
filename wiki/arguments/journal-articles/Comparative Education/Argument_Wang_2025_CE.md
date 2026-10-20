@@ -72,7 +72,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2025
 doi: "10.1080/03050068.2024.2423445"
 citation_aliases:
@@ -330,7 +330,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > - **样本规模与推广性限制** 本研究属于小规模[[Qualitative Research\|质性研究]]，4 所案例学校的发现不具备统计[[External Validity\|可推广性]]。未来研究需要扩大样本或结合[[Mixed Methods Research\|混合方法研究]]，检验共享目标建立与 [[Learner-Centred Education\|LCE]] 实施深度之间的广域关联(p. 603)。
 > - **时间窗口较短** [[Fieldwork\|田野工作]]仅在项目启动后的第一学年内完成，属于截面观察。取得进展的学校是否能长期维持改革，抑或在[[Gaokao\|高考]]临近的终极压力下发生回退尚需追踪(p. 603)。
 > - **关键主体视角的缺失** 研究主要关注了参与培训的校长和骨干教师，未涵盖未参加培训的普通教师。同时，学生的声音在教学改革评估中也是缺失的，尚未直接考察学生对课堂自主权变化的真实感知(pp. 599, 603)。

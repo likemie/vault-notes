@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Multilateralism
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 教育多边主义（Educational Multilateralism） | 多标度治理（[[Pluri-Scalar Governance]]） | 影子国家（[[Shadow State]]） |
 > |---|---|---|---|
 > | **分析对象** | 国家间通过多边国际组织形成的制度化协调体系 | 跨越超国家、国家与次国家空间尺度的治理活动与主体配置 | 国家与国际机构将公共教育职能外包形成的非政府组织网络 |
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **普遍行为原则** 多边体制内的所有成员国在法理上遵循一套不因特定国家地位而异的规范框架与行为准则。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **弥散互惠性** 成员国不在单次交易中追求绝对对称的即时对等收益，而是在长期多边合作体系中共享制度红利与集体安全。
 > - **不可分割性** 多边制度所维护的公共品（如基础教育普及、[[Academic Freedom|学术自由]]或全球[[Knowledge Exchange|知识交流]]）在制度范围内具有共享属性。
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1945–1965 — 有限再分配阶段** [[UNESCO|联合国教科文组织]]（UNESCO）主导教育多边主义，确立教育作为基本人权的国际法地位，多边合作侧重战后重建与[[Knowledge Transfer|知识转移]]援助。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1960 年代末–1970 年代末 — 抗争性多边主义** 亚非拉后殖民独立国家通过联合国大会提出建立国际经济新秩序（NIEO），要求多边教育机制支持第三世界国家的社会福利发展模式。
 > - **1980 年代–1990 年代 — 防御性与规训性阶段** [[World Bank|世界银行]]凭借巨额贷款规模超越教科文组织，以新自由主义结构调整、教育投资收益率计量为核心工具，将多边合作转变为对受援国公共支出的规训机制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -175,5 +175,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统梳理[[World-Systems Theory|世界体系分析]]视阈下教育多边主义的历史演进，揭示国际金融机构如何通过政策规训重塑边缘国家的教育主权。

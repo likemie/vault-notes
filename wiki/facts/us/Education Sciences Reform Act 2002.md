@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Education Sciences Reform Act 2002
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **立法界定的实质性拓宽** 相比 2000 年初始 Castle 草案（H.R. 4875）将[[Qualitative Research|质性研究]]贬低为非严谨的“初步探索”并强推量化实验假说检验，最终生效的 ESRA 删除了硬性假说检验要求，确立了统摄整体探究的客观质量标准，为描述性、探索性与假说生成型研究保留了法定空间。
 > - **明确方法契合问题原则** 法案在条文中写入“根据所开展研究的具体情况”与“采用与所提出[[Research Question|研究问题]]相契合的研究设计与方法”，标志着联邦立法承认[[Scientific Method|科学方法]]不能先验钦定，而必须由研究问题的[[Epistemology|认识论]]属性决定。
 > - **行政执行层面的因果偏好惯性** 尽管法定标准相对包容，但美国教育部 2002–2007 年战略规划仍明确要求到 2004 年 75% 的因果资助项目必须采用[[Random Assignment|随机分配]]；在 2002 财年，[[Institute of Education Sciences|IES]] 资助的全部因果主张项目均采用了随机设计，显示出行政执行规程对立法意图的偏向性收紧。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]

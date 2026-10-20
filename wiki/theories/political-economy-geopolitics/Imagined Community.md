@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Imagined Community
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代民族国家认同的生成机理、大规模陌生人群体间政治与文化纽带的维持机制、历史教育中[[Official Knowledge|官方知识]]对集体记忆的塑造，以及超大规模复杂技术协作的精神基础。
 > - **理论问题** 回应原生主义（Primordialism）将民族视作自古存在之自然实体的迷思；解释为何互不相识的陌生人能够产生深厚同志情谊并甘愿为共同体牺牲；阐明后现代去国家化思潮下放弃巡守“情感民族”边界（Emotional Nation）所诱发的社会解体风险。
 > - **理论类型** [[Constructivist Paradigm|建构主义]]解释理论与文化政治学[[Analytic Framework|分析框架]]。
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 现代民族国家认同建构、大规模陌生人群体的制度化协作、历史与公民教育叙事解构、科技企业内部文化组织。
 > - **成立条件** 依赖广泛普及的文字语言、大众传媒系统、制度化国家教育网络与公共交往空间。
 > - **解释不足** 容易将共同体简化为均质的宏观建构，掩盖了内部阶级、性别与族群之间的权力不平等；过度强调人工建构性可能低估民众真实的情感依恋与历史记忆积淀。
@@ -192,6 +192,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

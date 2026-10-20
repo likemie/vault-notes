@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # Kingman Brewster Jr.
@@ -65,7 +65,7 @@ updated: 2026-10-08
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1919** 出生于美国马萨诸塞州朗梅多，早年就读于耶鲁大学（1941 年文学士）与哈佛大学法学院（1948 年法学士）。
 > - **1950–1960** 任哈佛大学法学院法学教授，专长于反托拉斯法与国际法。
 > - **1961** 出任耶鲁大学教务长（Provost）。
@@ -96,7 +96,7 @@ updated: 2026-10-08
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **高等教育危机管理** 其在 1970 年五一集会中化干戈为玉帛的实践，被全美高等教育界奉为大学危机应对的黄金范例。
 > - **现代常春藤制度塑造** 奠定了当代美国顶尖大学在招生平权、男女同校与[[Academic Freedom|学术自由]]保障维度的制度基石。
 
@@ -104,7 +104,7 @@ updated: 2026-10-08
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **对话与建言者** [[Pauli Murray]] — 1963 年致信布鲁斯特，为其提供反[[Heckler's Veto|起哄者否决]]的宪法法理支撑。
 > - **历史对比与评价者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中将其作为“早期[[Grandes Ecoles|大学校]]长敢于承担政治风险、恪守[[Hard Belief|硬信念]]”的经典典范，与 2023 年畏缩避险的校长群体形成强烈对照。
 

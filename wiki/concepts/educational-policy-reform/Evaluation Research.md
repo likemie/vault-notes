@@ -35,7 +35,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-19
+updated: 2026-10-21
 ---
 # Evaluation Research
 
@@ -124,6 +124,6 @@ updated: 2026-10-19
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - 英国 TVEI（技术与职业教育倡议）项目评估：政策决定在评估报告完成之前就已公布，展示评估研究与政策制定之间的"非理性"关系（Norris, 1990, p. 135）。
 > - [[Categorical Funding\|分类资助]]项目竞标：研究者承接政府预先设定主题的研究合同，在满足赞助方评估要求的同时试图产生研究数据（Burgess, 1993）。

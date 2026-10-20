@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ernest Renan
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1823** 出生于法国布列塔尼的特雷吉耶，早年接受严格的神职教育，后转向东方语言与宗教哲学研究。
 > - **1863** 出版划时代著作《耶稣传》（*Vie de Jésus*），引起欧洲思想界轰动。
 > - **1882** 在巴黎索邦大学发表著名演说《什么是民族？》（*Qu'est-ce qu'une nation?*），阐发[[Everyday Plebiscite|每日公民投票]]论断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 奠定了现代政治哲学中的“公民民族主义”[[Paradigm|范式]]，为[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）构想“[[Imagined Community|想象的共同体]]”以及现代国家认同理论提供了主观精神契约维度的先驱框架。
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
 > - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论共鸣与承继** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森的“[[Imagined Community|想象的共同体]]”继承了勒南将民族视为心理感知与主观联结的核心洞见。
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用勒南命题批判后现代虚无主义与后国家[[Cosmopolitanism|世界主义]]。
 

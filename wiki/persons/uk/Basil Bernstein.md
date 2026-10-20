@@ -77,7 +77,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Basil Bernstein
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1924** 出生于英国伦敦东区工人阶级犹太移民家庭，底层成长经历奠定其对社会阶层、语言障碍与教育排斥机制的敏锐洞察。
 > - **1947–1951** 就读于伦敦政治经济学院（LSE）主修社会学，深受法国社会学奠基人埃米尔·涂尔干（Émile Durkheim）[[Positivism\|实证主义]]社会学传统的熏陶。
 > - **1954–1960** 在伦敦东区工人阶级男子走读学院任教，亲历工人阶级青年在主流正规教育体系中的系统性沟通挫折，启动语言代码实证调查。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如[[Michael W. Apple|迈克尔·阿普尔]]、[[Henry Giroux|亨利·吉鲁]]）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
 > - **方法路径** 为课程文本分析与课堂[[Discourse Analysis\|话语分析]]提供了极高操作度的分析矩阵（如分类与框架指数、[[Recontextualization\|再脉络化]]规则链条、[[Curriculum Design Coherence Model\|CDCM]] 课程设计连贯性模型），使宏观意识形态分析能够精准落地为对教材篇章结构与课堂师生问答的微观测量。
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识流失的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承与思想渊源** 埃米尔·涂尔干（Émile Durkheim，提供有机团结、集体意识、仪式与分类控制的社会学古典基石）、米歇尔·福柯（Michel Foucault，[[Discourse|话语]]规则与微观权力运作）。
 > - **学术盟友与理论互鉴** 迈克尔·扬（1970 年代共同开辟知识社会学转向，虽伯恩斯坦对其早期 NSE 的主观相对主义持批评态度，但晚年两人共同促成社会实在论复兴）、[[Pierre Bourdieu\|皮埃尔·布迪厄]]（英法教育再生产理论的双子星，布迪厄偏重外部[[Cultural Capital\|文化资本]]与[[Champ\|场域]][[Habitus|惯习]]，伯恩斯坦则深入剖析教育知识内部传递的代码与分类语法）、[[Stephen Ball\|斯蒂芬·鲍尔]]（运用伯恩斯坦[[Horizontal Knowledge Structure\|横向知识结构]]与话语理论重构英国教育社会学史）。
 > - **论敌与方法论对立** 微观[[Phenomenology\|现象学]]派、常人方法学派与主观互动论者（批评其把制度与客观权力虚无化为纯粹的面谈协商）；保守派语言赤字论者（驳斥其将工人阶级语言判定为认知缺陷的阶级偏见）。

@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2019
 doi: ""
 citation_aliases:
@@ -61,24 +61,24 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 作为 ERE 特刊的闭幕反思论文，Wiliam 旨在澄清[[Randomised Controlled Trials\|随机对照试验]]和[[Systematic Review\|系统综述]]在改进教育成就中可能扮演的角色，并对特刊论文的论点进行综合与延伸。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam 运用 Goldman (1976) 的区分理论论证教育知识的**局部性（local）** 和**临时性（provisional）** 新证据的出现使先前可信的解释不再可信，因为我们现在无法区分"干预导致效果"与"替代因素导致效果"两种状态。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Philosophical Analysis in Education\|哲学分析]]与[[Reflexivity\|反思性]]综合
 > - 样本：不适用
 > - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部文献
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **[[Evidence-Based Education\|EBE]] 的极端立场均不可成立** 既不能主张只有 [[Randomised Controlled Trials\|RCT]] 证据才能被严肃对待，也不能主张 EBE 整个构想是[[Category Mistake|范畴错误]]。必须在此两极之间寻找更细致的位置。
 >
 > 2. **"什么有效"是错误的问题** 因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。正确的问题是"在什么条件下，这个干预有效？"(p.11)
@@ -91,7 +91,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - **Tennessee STAR 项目揭示了 [[Randomised Controlled Trials\|RCT]] 外推的三重失败** (1) 参与学校系统性不具代表性（规模更大、非裔学生比例高出州平均 40%）；(2) [[Random Assignment\|随机分配]]被破坏（家长施压使富裕学生向小班迁移）；(3) 大规模推广时教师质量成为关键混淆因素——加州 1996 年班级缩减政策使未认证教师比例从 1/200 飙升至 1/8。(pp.6–7)
 >
 > - **[[Tracking\|能力分组]]研究暴露了忽略教师质[[Quantitative Research\|量的研究]]设计缺陷** 即使 RCT 发现能力分组与较低成就相关，也不能得出能力分组导致低成就的结论——可能是最有效的教师被分配给高成就学生(pp.8–9)。Wiliam 以自身研究经历(Boaler, Wiliam, & Brown, 2000; Wiliam & Bartholomew, 2004)承认当时未意识到教师间差异的量级，如今此证据使其研究结论不再明确。(p.8)
@@ -106,7 +106,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “在教育研究中，‘什么有效’通常是一个错误的问题，因为几乎任何东西在某些地方都会有效，而没有任何东西在所有地方都有效。一个更好的问题是，‘在什么情况下这会有效’。”
 > ("In educational research, 'What works' is usually the wrong question because almost anything works somewhere, and nothing works everywhere. A better question is, 'Under what circumstances does this work'.") (p.11)
 >
@@ -121,7 +121,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文为闭幕反思而非原创实证研究，其论证力量依赖于特刊中其他论文的分析质量
 > - Wiliam 未能充分回应 Cowen 关于 [[Evidence-Based Education\|EBE]] 官僚功能的论证——即使 EBE"永远不会成功"，它是否仍然在制度层面具有不可替代性？
 > - 四个决策问题的框架虽实用，但未提供如何在信息不完整时权衡各问题的操作性指导

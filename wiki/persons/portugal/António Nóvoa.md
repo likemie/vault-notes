@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # António Nóvoa
@@ -89,7 +89,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1954** 出生于葡萄牙瓦隆古（Valongo）。
 > - **1982** 获得瑞士日内瓦大学（University of Geneva）教育学博士学位，受[[Jean Piaget|让·皮亚杰]]与当代欧洲批判社会学思潮熏陶。
 > - **1986** 获得法国巴黎第四大学（索邦大学）现代史博士学位，确立了跨学科历史与比较研究进路。
@@ -131,7 +131,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与马丁·劳恩（Martin Lawn）等学者共同奠定了欧洲超国家治理的批判研究传统，深刻启发了后续学者对[[European Education Space|欧洲教育空间]]、[[Bologna Process|博洛尼亚进程]]、[[PISA]] 数据治理与[[Student Mobility|学生流动]]意识形态的批判解构。
 > - **比较教育学科路径** 作为 [[Comparative Education Society in Europe|CESE]] 前主席，倡导超越机械的国家间制度借用（Borrowing），主张将历史[[Rich and Thick Description|深描]]与批判社会学引入比较教育，推动了学科的空间转向与自我反思。
 > - **全球政策与公共实践路径** 在[[UNESCO|联合国教科文组织]]平台主导全球未来教育愿景的构建，持续倡导教育公共属性、社会正义与教师专业共同体赋权。
@@ -140,7 +140,7 @@ updated: 2026-10-17
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** Martin Lawn（合著合编 *Fabricating Europe*，确立欧洲空间批判[[Paradigm|范式]]）；[[Jean Piaget|让·皮亚杰]]（早期日内瓦学术渊源）。
 > - **理论对话与引用者**
 >   - Noah W. Sobe 与 Roland Fischer (2009) 引用其空间与[[Discourse Analysis|话语分析]]，批判性解构现代教育史中的学生跨国流动修辞；

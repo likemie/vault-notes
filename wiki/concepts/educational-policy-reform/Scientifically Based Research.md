@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientifically Based Research
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **法定立法源流与术语演变（Statutory Lineage & Term Evolution）** 该标准的成文法表述源自 1998 年《[[Reading Excellence Act|卓越阅读法案]]》在国会参众两院的立法博弈：众议院初版曾试图推行更为狭隘的“可靠且可复制的研究”（Reliable, replicable research），后在参议院经专业组织游说与多方妥协，正式确立为“科学本位阅读研究”（Scientifically based reading research, SBRR），并为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植提供了标准法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **程序系统性与客观性（Rigorous & Objective Procedures）** 要求研究采用严密的经验证据收集与量化分析技术，确保研究结论具备可重复性与跨情境统计效度。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **实验[[Causality\|因果推断]]偏好（Preference for Experimental Designs）** 在法典中明确确立了因果推断方法学等级，优先资助和采纳采用[[Random Assignment\|随机分配]]实验与[[Pre-test and Post-test\|前测]]对照准实验的方案。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1998 年 — 法定渊源与立法博弈** 1998 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）首次在联邦成文法中对阅读与“科学本位阅读研究”（SBRR）做出法定界定；众议院初版曾试图推行“可靠且可复制的研究”，后在参议院经[[International Reading Association|国际阅读协会]]游说折衷确立为 SBRR，为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植奠定了法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5, 7)]]
 > - **2000 年 — 资助立法争议与双重标准草案** 国会众议院提出卡斯尔草案（H.R. 4875），试图在联邦科研资助中设立量化强制假说检验与质性初步探索的割裂标准；NERPPB 委托 NRC 启动《教育科学研究》（SRE）研制。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **2001 年 — 联邦法定义务全面确立** 联邦签署《不让一个孩子掉队法》（NCLB），全文 110 次写入“科学本位研究”（SBR），首次将[[Positivism|实证主义]]方法学规范确立为联邦法定义务。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]

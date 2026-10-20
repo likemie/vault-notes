@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deanna Kuhn
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** Kuhn 极大地推动了教育心理学界对[[Epistemological Beliefs\|认识论信念]]（epistemological beliefs/understanding）和论辩（argumentation）之间关系的理解。她的绝对论-多元论-评价论模型成为该领域的标准参考框架之一。
 > - **方法路径** 通过开发简洁的冲突观点选择任务，她将[[Epistemological Understanding\|认识论理解]]的测试从复杂的长时[[In-depth Interview\|深度访谈]]（如 King & Kitchener）简化为可跨领域、大规模施测的工具。
 

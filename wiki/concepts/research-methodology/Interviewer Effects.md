@@ -30,7 +30,7 @@ related_methods:
   - "[[Telephone Interview]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Interviewer Effects
 
@@ -97,5 +97,5 @@ Lee (1993, pp. 102–114) 提出了处理访谈者效应的四项操作议题（
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 在[[Sensitive Research\|敏感研究]]章节中系统讨论访谈者效应的两个维度、Bradburn & Sudman 的实证发现、以及 Lee 的四项敏感访谈操作框架。

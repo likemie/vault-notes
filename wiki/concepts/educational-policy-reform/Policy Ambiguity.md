@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Ambiguity
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **不可调和的多元思考[[Paradigm\|范式]]** 政策主体针对同一教育事实（如[[Academic Achievement\|学业成绩]]分布不均）存在互不兼容的归因模型（如社会阶层固化论 vs 教师专业投入不足论 vs 课程标准落后论）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **信息过载反噬机制** 在数字经济时代，海量研究成果呈指数级爆发，[[Surplus of Evidence\|证据过剩]]并未达成科学共识，反而使各利益集团都能轻松筛选出支持自身政治偏好的“定制证据”（Customised Evidence）。
 > - **裁量选择的制度强制性** 面对无法[[Commensuration\|通约]]的多重观念，政府无法以折衷方式兼顾所有主张，必须运用权力进行排他性的政策议程决断。
@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1972 — 组织决策的垃圾桶模型** 科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）提出组织歧义性概念，指出大学等组织具有目标含混、技术不清晰与参与流动三大特征。
 > - **1989 — 《无序的秩序》确立政策歧义性分析** 费尔德曼（Martha Feldman, 1989）系统界定歧义性为“对同一情境存在多种并存思考方式”，论证信息生产在政策制定中的符号化机制。
 > - **2003–2017 — [[Multiple Streams Framework\|多源流分析框架]]的深化** 扎哈里亚迪斯（Nikolaos Zahariadis）将决策歧义性确立为多源流理论的[[Epistemology\|认识论]]基石，强调政策过程的本质是操纵与管理歧义性。
@@ -214,5 +214,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在教育治理 2.0 框架下系统阐述政策歧义性，揭示信息过载时代国际组织如何将数字作为[[Façade of Rationality\|理性表象]]的[[Scaffolding\|脚手架]]，为决策者提供政治叙事空间。

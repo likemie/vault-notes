@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Culturalisation of Politics
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **统治合法性[[Discourse|话语]]替代** 在共产主义等意识形态吸引力消退后，转向诉诸共同的种族起源与本质化的传统美德（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
 > - **话语表达的去政治化** 营造“我们只是在宏扬传统文化”的非政治表象，使强加的政治服从变成天经地义的情感义务（p.154）。
 > - **排斥机制的文化化呈现** 将不接受官方身份界定的人斥为背弃祖宗与孝道文化的违规者，以此取代政治异见者的分类。
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2023 — 概念提出** Chen 提出政治的文化化概念，解构转型期政权合法性[[Discourse|话语]]体系的转换。
 > - **2024 — 比较教育实证应用** Vickers 将该概念引入对香港2020年后教育重组的分析，实证剖析[[Citizenship and Social Development\|公社科]]中以儒家美德和“炎黄子孙”话语消解政治能动性的去政治化治理逻辑（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
@@ -162,5 +162,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 详细剖析了香港通过[[Citizenship and Social Development\|公社科]]实施“政治的文化化”治理的经验表现，并揭示了双轨文化博展机构的政治协同作用。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Herbert Walberg
@@ -80,7 +80,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1937** 出生于美国伊利诺伊州芝加哥。
 > - **1964** 获芝加哥大学博士学位，受严格的心理测量学与实证统计学传统训练。
 > - **1960–1970 年代** 投身哈佛物理项目（Harvard Project Physics）的课堂环境与学习[[Evaluation Research|评价研究]]，开创课堂学习环境量表。
@@ -117,7 +117,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Meta-meta-analysis|二阶元分析]]与元综合[[Paradigm|范式]]开创** 沃尔伯格与弗雷泽、[[John Hattie|哈蒂]]在 1987 年的合作是二阶[[Meta-analysis|元分析]]的历史源头，直接催生了哈蒂后续享誉全球的《[[Visible Learning|可见的学习]]》。
 > - **[[Behaviorism|行为主义]]强化实证遗产** 莱萨科夫斯基与沃尔伯格（1980, 1982）关于强化的元分析，成为 20 世纪后期为行为主义学习论提供大样本实证辩护的最重要文献。
 > - **政策工具箱设计借鉴** 英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation]]）创立的教学工具箱（[[EEF Teaching and Learning Toolkit]]），在设计结构上深刻吸收了沃尔伯格将干预措施按[[Effect Size|效应量]]与成本横向比较的生产力哲学。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 47)]]

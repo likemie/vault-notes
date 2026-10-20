@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Media Logic
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Media Logic（媒介逻辑） | [[Mediatised Governance\|Mediatised Governance（媒介化治理）]] | [[Policy Avoidance\|Policy Avoidance（政策规避）]] |
 > |:---|:---|:---|:---|
 > | **分析层次** | 传播生态的底层生产机制与组织语法 | 宏观政策[[Champ\|场域]]被媒体逻辑穿透后的综合治理形态 | 媒介逻辑作用于政策审议时诱发的具体失职行为 |
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **新闻价值偏好（News Values）** 媒体偏好具有负面性（Bad News）、迫近性（Proximity）、人情冲突（Conflict）及重大经济后果的事件，倾向于将复杂教育实践简化为非黑即白的“输家与赢家”（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 112]]）。
 > - **格式与视觉排版语法（Format Constraints）** 极度崇拜可压缩为一维排列表的名次对比、全彩信息图及短小精悍的口号警句（Soundbites），对无法在 30 秒广播或报纸通栏中呈现的多维因果机制具有结构性排斥。
 > - **叙事模板化（Templating）** 惯常套用诸如“[[Falling Standards Template\|水平下降模板]]”等成熟文化原型，以极低的认知成本调动公众的集体焦虑与国家竞争危机意识。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — 理论创立** David Altheide 与 Robert Snow 出版《Media Logic》，首次系统界定媒介逻辑并非技术工具，而是拥有自身符号机制与组织规程的文化制度。
 > - **2004 — 引入教育政策研究** [[Bob Lingard]] 与 Shaun Rawolle 将[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]论与媒介化结合，提出“媒介资本”（Medial Capital）在教育政策生产中的渗透；Warmington and Murphy (2004) 提出教育新闻中的“[[Falling Standards Template\|水平下降模板]]”。
 > - **2008–2014 — 政治媒介化元进程确立** Jesper Strömback 与 Frank Esser 确立政治媒介化的四阶段模型，将媒介逻辑的内化视为政治系统丧失自主性的核心标志。

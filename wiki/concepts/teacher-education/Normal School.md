@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Normal School
@@ -268,7 +268,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统梳理 19 世纪大西洋两岸先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）如何将普鲁士公立师范学校经验转译为母国确立[[State Educational Sovereignty\|国家教育权]]与公学法案的合法化武器。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用[[Relational Space\|关系性空间]]与[[Circular Transfer\|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示大学师范教育职前知识供给的时效半衰期与在岗教师研究接触负荷，论证借助二阶清算中介与大学教师教育者乘数群体实现三阶段教师教育全流程循证[[Knowledge Mobilisation\|知识动员]]的必要性。

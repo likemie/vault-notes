@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Kenneth Burke
@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1897** 出生于美国新泽西州皮斯卡特维。
 > - **1910 年代** 先后就读于俄亥俄州立大学与哥伦比亚大学，随后离开传统学院体制，成为独立评论家与翻译家。
 > - **1935** 出版重要代表作《持久与变迁：目的之剖析》（*Permanence and Change: An Anatomy of Purpose*），提出修辞驱邪与[[Scapegoat Mechanism|替罪羊机制]]理论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!work-line] 主要著作
+> [!work-line|notitle] 主要著作
 > - **1935 — *Permanence and Change: An Anatomy of Purpose*** 提出修辞驱动与[[Scapegoat Mechanism|替罪羊机制]]，揭示群体如何通过仪式性牺牲客体来卸除集体罪咎感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 > - **1945 — *A Grammar of Motives*** 系统确立戏剧主义（Dramatism）分析五位一体（行动、场景、行动者、手段、目的）方法论。
 > - **1950 — *A Rhetoric of Motives*** 阐发修辞即“认同”（Identification）的核心主张。
@@ -94,7 +94,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **修辞学与社会理论路径** 深刻启发了人类学、符号社会学以及雷内·[[René Girard|吉拉尔]]（René Girard）等人的模仿欲望与受害者机制研究。
 > - **政治文化与组织反思路径** 为透视现代政治中针对争议性实干精英的道德狂热与集体猎巫提供了经典阐释工具，揭示了形式主义合规审查背后潜在的心理卸责动力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 
@@ -102,7 +102,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术继承与受启发者** 雷内·[[René Girard|吉拉尔]]（René Girard）— 伯克的替罪羊与受害者修辞直接启发了吉拉尔的[[Mimetic Theory|模仿理论]]体系。
 > - **同时代学术对话者** 威廉·卡洛斯·威廉斯（William Carlos Williams）— 长期文学与文艺理论对话同侪。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用其替罪羊分析透视官僚体制对实干精英的道德围剿。

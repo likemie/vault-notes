@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sheila Slaughter
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1960s–1970s** 获威斯康星大学[[James Madison|麦迪逊]]分校博士学位，专注于美国高等教育历史与社会学批判研究。
 > - **1980s–2004年** 长期任教于亚利桑那大学高等教育研究中心，深入调查[[Bayh-Dole Act of 1980|拜杜法案]]（Bayh-Dole Act）对美国大学科研组织形态的微观重塑。
 > - **1997年** 出版开创性学术专著《[[Academic Capitalism|学术资本主义]]：政治、政策与[[Entrepreneurial University|创业型大学]]》，获 ASHE 年度杰出学术著作奖。
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创“[[Academic Capitalism|学术资本主义]]”理论，成为全球高等教育社会学、科学政策与政治经济学引用率最高的经典分析流派之一。
 > - **方法路径** 倡导深度微观案例调查、高校财务与专利数据审计相融洽的制度实证方法。
 > - **政策路径** 其对大学过度商业化与知识私有化的批判性反思，深刻启发了后续关于开放科学、大学公共利益使命的政策讨论。
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 拉里·莱斯利（Larry L. Leslie） — 共同开创[[Academic Capitalism|学术资本主义]]理论，合著 1997 年开山专著。
 > - **师承／合作者** 加里·罗兹（Gary Rhoades） — 长期合作者，合著 2004 年《学术资本主义与新经济》。
 > - **机构／运动／项目** 佐治亚大学麦克比高等教育研究所 — 长期执教与培养门生的学术重镇。

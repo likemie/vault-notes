@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Man-Computer Symbiosis
@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **实时时间共享与交互反馈（Real-Time Time-Sharing）** 突破单任务独占计算资源的物理限制，使多名人类探索者能够同时与中央算力进行无延迟的连续对话。
 > - **启发式与算法式的认知分工（Heuristic-Algorithmic Division of Labor）** 机器承担大规模数据存储、高精度数值运算与确定性逻辑验证；人类专注于顿悟、模式联想、目标定义与非形式化思考。
 > - **交互式图形与符号显示（Interactive Graphical & Symbolic Displays）** 采用阴极射线管屏幕、动态图形、光笔或鼠标，使复杂信息以直观的视觉构型呈现，打破纯文本代码交流壁垒。

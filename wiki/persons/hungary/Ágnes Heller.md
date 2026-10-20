@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Ágnes Heller
@@ -61,7 +61,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1929** 出生于布达佩斯一个犹太家庭。二战期间亲历纳粹大屠杀并幸免于难（其父亲遇难于奥斯威辛）。
 > - **1947–1955** 就读于布达佩斯大学，师从著名马克思主义哲学家格奥尔格·卢卡奇（György Lukács），成为布达佩斯学派骨干。
 > - **1968** 因公开谴责苏联入侵捷克斯洛伐克遭到政治清洗与监视。

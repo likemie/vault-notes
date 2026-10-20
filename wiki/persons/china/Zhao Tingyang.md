@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Zhao Tingyang
@@ -78,7 +78,7 @@ updated: 2026-10-20
 ---
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1961** 出生于广东汕头。
 > - **1982** 毕业于中国人民大学哲学系；后进入中国社会[[Chinese Academy of Sciences|科学院]]研究生院深造，师从李泽厚，获哲学硕士学位，毕业后留所从事哲学研究。
 > - **2005** 发表专著《[[Tianxia Heuristic|天下体系]]：世界制度哲学导论》，首次系统地将中国古典“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的“无外部”世界制度构想。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **哲学与政治思想路径** 开启了当代中国学者将古典儒家天下思想系统转化为现代政治哲学[[Discourse|话语]]的热潮，引发关于普遍主义世界秩序、天下主义（[[Cosmopolitanism]]）与传统[[Tributary System|朝贡体系]]当代价值的大讨论。
 > - **高等教育学与[[Epistemic Governance|知识治理]]路径** 被西蒙·马金森（Simon Marginson）、杨锐（Yang Rui）与许心（Xu Xin）等学者转译为“[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]”（Tianxia Heuristic），用以阐释跨国高等教育中超越西方民族国家中心主义的关系性合作；周孟萱与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）进一步提炼出“以世界为中心的天下观”（world-centric tianxia），用以解析[[Belt and Road Initiative|一带一路]]跨国大学联盟中等级引领与平等互惠辩证共生的空间治理[[Ontology|本体论]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 > - **政策与官方[[Grand Theory|元叙事]]路径** 与官方提出的“[[Community of Shared Future for Mankind|构建人类命运共同体]]”及“[[National Rejuvenation Narrative|中华民族伟大复兴]]”的宏大叙事形成深层学理共振，为官方论证“中华文明具有和平基因”提供了极具世界主义色彩的哲学外衣。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
@@ -164,7 +164,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会[[Chinese Academy of Sciences|科学院]]研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
 > - **学界引介者** 西蒙·马金森（Simon Marginson） — 英国牛津大学高等教育学者，在跨国高等教育与全球学术秩序研究中借用赵汀阳天下理论提炼[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]。
 > - **学界引介者** 杨锐（Yang Rui） — 香港大学比较教育学者，将天下体系引入中国现代大学模式建构与全球[[Knowledge Transfer|知识转移]]关系的分析中。

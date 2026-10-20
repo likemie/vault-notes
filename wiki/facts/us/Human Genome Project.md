@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Human Genome Project
@@ -132,5 +132,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把人类基因组计划视为在[[Pasteur's Quadrant|巴斯德象限]]中组织[[Big Science|大科学]]攻坚的典范：以《百慕大原则》保障数据共享，并作为[[Genesis Mission|创世纪计划]]与 [[National Science Foundation|NSF TIP]] 的组织蓝本。

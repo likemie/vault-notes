@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Paideia
@@ -187,7 +187,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **公元前5–4世纪 — 雅典古典城邦黄金期** [[Socrates\|苏格拉底]]、[[Plato\|柏拉图]]、伊索克拉底与[[Aristotle\|亚里士多德]]奠定 Paideia 哲学框架，确立以至善追求、辩证法与修辞学为核心的公民培育体系。
 > - **公元前3世纪–公元前1世纪 — 希腊化时期与罗马接受** 演变为以“自由七艺（Artes Liberales）”为代表的泛希腊化文明规范，西塞罗将其拉丁化翻译为 *humanitas*，成为欧洲人文主义的词源与精神原型。
 > - **19世纪 — 欧洲民族国家中等教育支配期** 希腊复国后将 *Klassiki Paedeia* 确立为中等文理学校灵魂；西欧列强（英法德）亦将希腊古典语文学与哲学置于中等精英课程的绝对垄断地位。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
@@ -237,7 +237,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统阐述希腊古典教化作为 19 世纪欧洲四大中等教育古典支柱之一的终极目标，以及二战后其道德防线的崩溃与向[[Scientific Paradigm\|科学范式]]的转换。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 考掘比较教育创立时期的历史母题，阐明广义文化教化超越狭隘学校教育的核心[[Epistemic Value\|认识论价值]]。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 对比较教育学界试图全面回归古代 Paideia 的浪漫主张展开审慎的史学与[[Disciplinary Institutionalization|学科制度化]]反思。

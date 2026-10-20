@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Soft Policy Transfer
@@ -111,5 +111,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 比较分析[[OECD|经合组织]]在 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]中运用软政策转移（联合 [[Tuning Project|Tuning]] 协会协商学科核心胜任力）与[[Hard Policy Transfer|硬政策转移]]（照搬 [[Collegiate Learning Assessment|CLA]] 测验）的成效反差。

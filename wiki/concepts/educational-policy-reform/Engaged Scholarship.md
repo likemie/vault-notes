@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Engaged Scholarship
@@ -189,7 +189,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** — 引入参与式学术之[[Knowledge Production\|知识生产]][[Analytic Framework\|分析框架]]，深刻剖析大学学术激励错位与[[Knowledge Co-production\|知识共创]]模式在严密性、可复制性与可迁移性上的系统性张力。
 > - **Van de Ven and Johnson (2006)** — 开创性提出参与式学术理论，界定理论与实践脱节的三重解释框架，奠定协同知识生产的[[Epistemology\|认识论]]基础。
 > - **Van de Ven (2007)** — 专著 *Engaged Scholarship: A Guide for Organizational and Social Research*，系统化参与式学术的钻石设计模型。

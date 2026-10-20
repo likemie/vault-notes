@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Advanced Technological Education
@@ -154,5 +154,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三目标中，系统论证依托 [[National Science Foundation|NSF]] 先进技术教育（ATE）计划与社区学院产教联合体解决本土晶圆厂高素质工艺技师短缺危机的制度路径（pp. 31–33, 35）。

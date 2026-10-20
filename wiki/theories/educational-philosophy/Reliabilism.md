@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reliabilism
@@ -49,7 +49,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 信念合理性（justification）的核心构成要素与判定机制。
 > - **理论问题** 传统[[Epistemology\|认识论]]（内部主义）要求主体必须能明确提供辩护理由，这导致了知识标准过高（如幼童或动物无法提供理由却拥有知识的悖论）。可靠主义（外部主义）回应了这一困境，主张即使主体无法明确提供理由，只要产生信念的[[Causal Processes\|因果过程]]本身是可靠的，该信念即得到确证。
 > - **理论类型** 规范理论（Normative theory）与[[Analytic Framework\|分析框架]]。
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 为什么即使是小孩子也能展现出强大的[[Epistemology\|认识论]]评估能力（比如他们能通过观察“谁更像是个可靠的提供者”来选择性信任），以及科学共同体如何通过制度保障知识产出。
 > - **常见误用** 极易被简化为一种“无须思考的机械主义”。事实上，[[Reliable Epistemic Processes\|可靠过程]]也包括需要深度参与的高级[[Metacognition\|元认知]]调控与严谨逻辑推理过程，并非仅指基础的感官知觉机制。
 
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1986 — 起点或经典文本** Goldman (1986) 出版《[[Epistemology]] and Cognition》，正式将过程可靠主义推入主流，确立了认识论的“心理学转向”与自然化道路。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 469)]]
 > - **1990s-2000s — 扩展阶段** 可靠主义从个体认知层面扩展至社会认识论，开始关注群体论证、同行评审及制度机制的[[Reliability\|可靠性]]。
 > - **2011 — 教育研究应用** Chinn 等人将可靠主义及其对“可靠产生过程”的关注，正式纳入教育心理学领域的[[Expanded Framework of Epistemic Cognition\|扩展的认识论认知框架]]中，作为第五大核心组件。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
@@ -150,6 +150,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将以 Goldman 为代表的可靠主义与[[Epistemological Naturalism\|自然化认识论]]视为推动当前“[[Epistemic Cognition\|认识论认知]]”实证研究合法化的最初哲学源流。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 将关于“认知过程、合作探究和机构制度是否可靠”的评估，吸纳为个体认识论认知的重要维度。

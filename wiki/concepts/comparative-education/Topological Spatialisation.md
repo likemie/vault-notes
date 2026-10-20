@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Topological Spatialisation
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合拓扑空间化与[[Assemblage\|政策装配]]理论，深入考察德国 [[PISA]] 震荡后[[Institute for Educational Quality Improvement\|IQB]] 作为[[Center of Calculation\|计算中心]]与跨州[[Data Infrastructure\|数据基础设施]]如何重塑联邦教育治理格局。
 > - Allen (2011) — 奠定拓扑权力与空间性理论基石，系统阐释基于连接、触达与折叠的新型空间权力形式。
 > - Ruppert (2012) — 考察国家数据库设备的治理拓扑学，阐释数字数据如何重新划定治理客体与主体边界。

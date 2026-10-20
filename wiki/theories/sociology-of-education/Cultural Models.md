@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cultural Models
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 微观层面解释不同文化群体内部如何共享对学习、道德与自我发展的稳定认知图式；宏观层面解释全球范围内民族国家在教育制度、课程设置与发展诉求上为何呈现高度同质的文化信念。
 > - **理论问题** 回应单纯从个体心理归因或纯粹理性选择难以解释的跨文化长期认知稳定性，以及跨国教育扩张背后的全球观念扩散机制。
 > - **理论类型** 文化心理学理论、教育社会学解释框架、新制度主义世界文化分析视角。
@@ -185,7 +185,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 跨文化长时段的稳定观念框架、[[International Education|国际教育]]制度文本的表层[[Discourse|话语]]趋同、跨国课程改革的形式演化。
 > - **成立条件** 微观分析需依托丰富的本土语言与原型材料；宏观分析需区分官方政策修辞与实际行政资源配置，并结合微观[[Qualitative Observation|田野观察]]。
 > - **解释不足** 容易将复杂的社会阶级冲突简化为统一的文化共享，忽视文化内部弱势阶层对统治文化模型的批判与抵抗。
@@ -223,7 +223,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。

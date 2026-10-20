@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Early Steps
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Early Steps 列为初等阅读 Tier 3 专业教师辅导代表方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释高强度专业教师辅导在攻克最顽固阅读障碍中的关键作用。
 > - [[Reading Recovery]] — 同属专业教师一对一阅读辅导经典方案，二者在学界常作为专业教师干预极限成效的参照标杆。

@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Developmentalism
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 发展主义叙事（[[Knowledge Diplomacy\|知识外交]]） | [[Geopolitics\|地缘政治]]叙事（[[Knowledge Power\|知识权力]]） | [[Dependency Theory\|依附理论]]与后殖民批判 |
 > |------|--------------------------|--------------------------|----------------------|
 > | **基本假定** | 国际体系是通过多边对等合作应对共同危机的共生网络 | 国际体系是国家争夺制度性[[Discourse\|话语]]权与领导力的竞争场所 | 国际体系存在发达中心对欠发达外围的结构性剥削与知识依附 |
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **现代化与经济增长导向** 将社会生产力提升、基础设施建设与产业结构升级确立为国家治理的核心目标，推动教育资源与劳动力市场需求紧密绑定。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **技术官僚规划理性** 依赖由经济学与量化实证指标武装的技术官僚阶层，将教育规划、人力需求预测与课程开发作为普适中立的社会技术方案在跨国范围内移植。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **公共产品与非零和共赢** 在涉外合作中倡导正和收益，强调通过建立共享性科研设施、学术交流营地与专项留学生资助，共同应对气候、能源与公共卫生等跨国危机。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
@@ -184,7 +184,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1960s — 战后工具性发展主义[[Paradigm|范式]]确立** 伴随第三世界非殖民化浪潮与冷战现代化理论兴起，[[Human Capital Theory|人力资本理论]]成为比较教育核心支柱，[[OECD|经合组织]]与[[World Bank|世界银行]]将教育规划与人力预测作为援助核心处方。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970s–1990s — [[Dependency Theory|依附理论]]与后殖民解构的反思浪潮** 依附理论学者与 Escobar 等[[Post-colonial Theory|后殖民理论]]家对西方中心的发展主义展开深刻批判，指认“发展”[[Discourse|话语]]是将全球南方锁定在外围依附地位的思想工具。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]
 > - **2000s–2010s — [[Cognitive Capitalism|认知资本主义]]中的微观发展强制** [[Lifelong Learning|终身学习]]政策全球化扩散，发展主义由宏观国家规划转化为对个体的自我发展律令，形成自负盈亏的高弹性学习主体。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
@@ -224,7 +224,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 辨析跨国大学联盟解释中的发展主义叙事与[[Geopolitics|地缘政治]]叙事，揭示[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的协同并存。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理战后比较教育第三代中“工具性发展主义[[Paradigm|范式]]”的形成及其学术史地位。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析[[Human Capital Theory|人力资本理论]]如何作为发展主义信条渗透至 [[OECD]] 跨国教育规划实践。

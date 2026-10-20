@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technological Pastiche
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 技术拼贴（Technological Pastiche） | 颠覆性基础工程突破（[[Technological Republic\|技术共和国]]） | 渐进式工程优化 |
 > |---|---|---|---|
 > | **[[Nature of Innovation\|创新本质]]** | 既有代码与成熟协议的浅层拼装与衍生变现 | 物理宇宙法则与物质世界重大瓶颈的根本性跨越 | 现有工业系统在精度、[[Reliability\|可靠性]]与能效上的稳步提升 |
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **衍生性与去原创性（Derivative Character）** 如同巴斯奎特（Basquiat）开创的涂鸦艺术被后世商业文化无休止地解构与克隆，绝大多数初创应用仅仅是对早期互联网连接技术的无生命衍生品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **屏幕注意力收割（Screen-Based Attention Capturing）** 将顶尖工程资源投入到刺激人类即时多巴胺分泌的屏幕竞争之中，特别是对儿童与青少年心智造成长期损害。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 > - **物理世界承诺的违背（[[Betrayal in Research|betrayal]] of Physical-World Promise）** 无法兑现 20 世纪中叶科幻黄金时代关于飞行汽车、力场、隐形传态与火星殖民地的承诺，退守于虚拟屏幕的微小修补。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2012 — [[David Graeber|格雷伯]]发表《飞行汽车的终结》** 提出技术拼贴与互联网狭窄化批判，反思后工业资本主义对硬核科研的压制。
 > - **2025 — 卡普与扎米斯卡深化批判** 在《[[Technological Republic|技术共和国]]》中结合硅谷[[Consumer Internet|消费互联网]]与移动应用的演化，将技术拼贴确立为诊断[[Big Idea Famine|大构想饥荒]]与[[Hard Power|硬实力]]衰退的核心概念工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 
@@ -110,5 +110,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引[[David Graeber|格雷伯]]的技术拼贴概念，批判当代硅谷将巨量智力与资本浪费在衍生性生活应用与屏幕注意力竞争上，呼吁摆脱拼贴泥潭、重构国家硬核工程雄心。

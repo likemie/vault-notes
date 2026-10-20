@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Academic Capitalism
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 高等教育机构与学术人员日益卷入市场和类市场活动（专利商业化、[[University-Industry Collaboration|产学合作]]、竞争性项目拨款、学生贷款金融化与软钱雇佣），学术生产与资本积累逻辑深度绑定的制度转型过程。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
 > - **理论问题** 回应传统大学自治论与功能主义高等教育观对高校组织转型的解释盲区，破除将大学视为远离市场与政治力量象牙塔的浪漫假象。
 > - **理论类型** 批判性制度政治经济学理论与高等教育组织变迁[[Analytic Framework|分析框架]]。

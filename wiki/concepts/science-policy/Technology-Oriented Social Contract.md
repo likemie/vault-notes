@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technology-Oriented Social Contract
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 首创提出“技术型社会契约”这一理论分析概念，系统论证 2025 年起美国科技政策如何从以科学为中心的认知契约转向以技术能力掌控为中心的替代契约，阐明国家绕开大学组织能力的实践可行性、四项关键治理变革以及全球科研三轨分化图景。
 
 ---

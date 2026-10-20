@@ -39,18 +39,18 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）** 的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的学习动机。项目由 Sharp et al. (2003) 代表英国教育与技能部（Department for Education and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
 >
 > 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
 
 ## 项目设计
 
-> [!abstract] 项目设计
+> [!abstract|notitle] 项目设计
 > Playing for Success 的特点远非普通"体育参与"([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 121]])：
 >
 > - **地点** 在著名足球俱乐部的体育场内设立学习中心
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 效果
 
-> [!success] 效果
+> [!success|notitle] 效果
 > Sharp et al. (2003) 的评估报告了显著的学习成果([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 121]])：
 >
 > - **阅读** 小学高年级学生平均进步 15 个月；初中低年级学生平均进步 8 个月
@@ -76,7 +76,7 @@ updated: 2026-10-16
 
 ## 在 EBE 辩论中的意义
 
-> [!success] 在 [[Evidence-Based Education\|EBE]] 辩论中的意义
+> [!success|notitle] 在 [[Evidence-Based Education\|EBE]] 辩论中的意义
 > [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, pp. 120–123)]] 将 Playing for Success 作为揭示 [[Education Endowment Foundation\|EEF]] Toolkit [[Meta-meta-analysis\|元-元分析]]程序缺陷的深度案例：
 >
 > 1. **[[Effect Size\|效应量]]的误归类** Playing for Success 的 0.80 效应量（数学）被并入"体育参与"的平均效应量 0.17。但该项目的核心特征（一对一辅导、个性化课程、ICT 套件、足球明星见面会带来的地位提升）与普通"体育参与"几乎没有共同之处。Wrigley & McCusker 论证："将成功仅仅归因于'体育参与作为接受额外数学教学的激励'——如 EEF 摘要所做——是没有用的"（p. 121）。
@@ -87,17 +87,17 @@ updated: 2026-10-16
 
 ## 关键文件
 
-> [!quote] 关键文件
+> [!quote|notitle] 关键文件
 > > "Pupils who attend are given an opportunity that makes them the envy of their friends." (Sharp et al., 2003, pp. 113–120, cited in [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 121]])
 
 ## 影响与后果
 
-> [!success] 影响与后果
+> [!success|notitle] 影响与后果
 > Playing for Success 案例在学术文献中已成为**说明[[Meta-meta-analysis\|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size\|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership\|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
+> [!example|notitle] 相关概念／政策
 > - [[EEF Teaching and Learning Toolkit]] — Playing for Success 被卷入的[[Meta-meta-analysis\|元-元分析]]工具
 > - [[Effect Size]] — Playing for Success 展示了效应量从原始研究到元-[[Meta-analysis\|元分析]]的三级聚合失真过程
 

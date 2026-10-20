@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lee Felsenstein
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **技术社区受益者** [[Steve Jobs]]、斯蒂芬·沃兹尼亚克 — 在家酿俱乐部展示苹果早期主板并汲取技术方案。
 > - **思想与文化同盟** [[Stewart Brand]]、[[Steven Levy]] — 共同构成 1970 年代北加州反文化与黑客技术圈的核心知识网络。
 > - **国家战略历史对照者** [[Vannevar Bush]]、[[J. Robert Oppenheimer]] — 布什与奥本海默代表以科技服务国家重大使命的传统，费尔森斯坦代表反抗国家机构的个人解放[[Paradigm|范式]]。
@@ -145,5 +145,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统分析费尔森斯坦创建[[Homebrew Computer Club|家酿计算机俱乐部]]的反体制初衷，论证其如何将个人计算定义为摆脱政府束缚的解放工具并颠覆了战后[[Technological Republic|技术共和国]]传统（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

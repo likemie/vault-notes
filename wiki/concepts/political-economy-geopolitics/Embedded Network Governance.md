@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Embedded Network Governance
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **前瞻方向敏捷识别** 公共代理人常态化开展三重情报交互——与国防军事需求方对接应用边界、召集跨领域顶尖科学家（如通过[[Defense Sciences Research Council|国防科学研究理事会]]年会）[[Brainstorming|头脑风暴]]突破性概念、走访学术前沿与产业实验室捕捉隐性技术萌芽。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1139–1140)]]
 > - **共同主题播撒与多路径竞争** 代理人将离散的前沿思想提炼为具有战略意义的共性研发主题；针对重大工程瓶颈，不孤注一掷押宝单一方案，而是立项并行资助 3 至 6 个采取不同机理或体系架构的独立团队展开竞赛。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]
 > - **社群培育与强制同行知识流动** 克服[[Star Scientists|明星科学家]]或商业巨头习惯性封锁专有诀窍的倾向，强制要求所有受资助者定期参加闭门同侪研讨会，在[[Peer Pressure|同侪压力]]与切磋中促进知识在不同机构间横向流动。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1141–1142)]]
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s–1990s — 发展型国家理论与[[Embedded Autonomy|嵌入式自主性]]奠基** [[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定东亚发展型国家理论；彼得·埃文斯（Peter Evans, 1995）提出“嵌入式自主性”（Embedded Autonomy），强调政府官员既要内嵌于社会网络以获取信息，又要保持自主权以防止被个别利益俘获。
 > - **2000s — [[Developmental Network State|发展型网络国家理论]]兴起** 克里斯托弗·安塞尔（Christopher Ansell, 2000）与[[Fred Block|弗雷德·布洛克]]（Fred Block, 2007）系统阐发“发展型网络国家”（Developmental Network State, DNS），指出战后美国科技体制演化为一种高度去中心化的公共资助网络，国家主要充当促进合作与信任的中立联络人。
 > - **2009 — [[Network Plasticity|网络可塑性]]理论突破** 戴维斯（Gerald F. Davis, 2009）在管理学中提出“网络可塑性”（Network plasticity），证实优秀的管理者具有打破与重塑网络连接的能动性，为超越网络结构[[Determinism|决定论]]提供了微观行动者理论工具。
@@ -253,5 +253,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 [[DARPA]] MTO 在 1992 至 2008 年间 4 项半导体前沿技术资助的长程扎根[[Case Study|案例研究]]，首次提出嵌入型[[Network Governance|网络治理]][[Paradigm|范式]]，实证解析项目经理通过 5 项非正式治理制度重塑创新网络的微观运作。

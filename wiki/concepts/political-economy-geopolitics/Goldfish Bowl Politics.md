@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Goldfish Bowl Politics
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 金鱼缸政治（Goldfish Bowl Politics） | [[Sunshine Act\|阳光法案]]与公共问责（Public Accountability） | 魅力型统治（Charismatic Authority） |
 > |---|---|---|---|
 > | **审查重心** | 个人私生活、微观财务、日常言行与讨喜度 | 依法行使公权力的合法性、合规性与重大财产申报 | 领袖个人的非凡品格、使命感与群众动员力 |
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **私人空间的系统性剥夺** 媒介与公众要求政治人物无死角公开个人微观生活，将公权力监督泛化为窥私狂欢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 62–63)]]
 > - **公职选拔的逆向淘汰** 严苛的暴露与惩罚体制极大推高了优秀人才从政的预期代价，驱逐具有深层信念的实干家，唯独留下渴求聚光灯与知名度变现的表演型政客。
 > - **结果导向向讨喜度演化的错位** 选民将政治[[Champ|场域]]视为情感投射与道德自我满足的剧场，以“是否可亲讨喜”取代对“能否交付治理结果”的客观评估。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1952 — [[Checkers Speech|尼克松跳棋演讲]]奠基** 尼克松通过电视直播详尽向全美公开房产贷款等家庭微观财务，正式开启政治人物将私生活全景式展现在“金鱼缸”中的现代时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
 > - **1960–1990年代 — [[Feeding Frenzy|媒体狂欢]]与公职过度道德化** 伴随大众电视普及与水门事件后调查新闻学的兴起，媒体对公职人员个人私德的审视达到白热化，被政治学家总结为“捕食狂欢”（Feeding Frenzy）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]
 > - **2000年代至今 — 社交网络放大与管理精英空洞化** 数字化时代的全天候舆论显微镜使政治家与商业领袖全面转向公关合规与自我审查，实质性思想与真诚信念被视作巨大公关负债。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–65)]]
@@ -127,5 +127,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借金鱼缸政治批判当代公共领域对真实的微小信念与思想锋芒的残酷扼杀，揭示其如何造就了[[Grandes Ecoles|大学校]]长与科技巨头中普遍存在的平庸与虚无。

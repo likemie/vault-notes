@@ -42,7 +42,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Peter Medawar
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1915** 出生于巴西里约热内卢，童年随父母定居英国，先后就读于马尔伯勒公学与牛津大学莫德林学院。
 > - **1940s** 第二次世界大战期间投身战时医学研究，受严重烧伤士兵植皮免疫排斥现象触动，开启组织移植与免疫耐受的开创性[[Experimental Research\|实验研究]]。
 > - **1953** 与同事在小鼠胚胎实验中首次证实“获得性免疫耐受”（acquired immunological tolerance），奠定器官移植与现代免疫学基石。
@@ -104,7 +104,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Scientific Method\|科学方法]]论路径** 与[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）协同重塑了假说演绎法（hypothetico-deductive method）的当代声望，破除了培根以降对“中立无前见观察”的天真迷信。
 > - **教育[[Research Topic\|研究选题]]路径** 其“可解的艺术”准则被广泛引入社会与教育研究方法论，指导研究生与一线研究者在[[Research Proposal\|课题论证]]中精准聚焦可检验的真实问题（[[Problem Finding]]）。
 > - **学术写作与伦理反思** 其名篇《科学论文是一场骗局吗？》（*Is the Scientific Paper a Fraud?* 1963）深刻揭露了传统学术论文按照“观察-归纳-结论”虚构客观性的假象，推动了科学界对研究过程真实直觉与[[Reflexivity\|反思性]]的觉察。
@@ -113,7 +113,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想盟友** [[Karl Popper\|卡尔·波普尔]] — 长期学术至交，梅达沃将波普尔的可[[Falsification\|证伪]]思想成功注入实验生物学与医学界。
 > - **学术论敌** 素朴归纳主义学派 — 激烈批驳任何主张“不需要预设假说、只要收集足够数据就能自动[[Emergence\|涌现]]真理”的机械数据崇拜。
 > - **国家与国际荣誉** [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]] — 1960 年与弗兰克·麦克法兰·伯内特共享殊荣。

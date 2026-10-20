@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Russell J. Skiba
@@ -63,7 +63,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1980–1989** 获得明尼苏达大学教育心理学博士学位，受[[Behaviorism|行为主义]]干预与学校心理测量传统训练，初期聚焦于特殊需要学生的行为评估与[[Classroom Management\|课堂管理]]技术。
 > - **1990–2000** 任教于印第安纳大学，创立印第安纳教育政策中心学校纪律研究室。面对 1990 年代全美泛滥的“严打”与学校零容忍立法潮，率先开展全州范围的学籍惩戒大数据挖掘。
 > - **2001–2014** 创立并领导“公平项目”（The Equity Project），发表《惩戒的肤色》（*The Color of Discipline*）等里程碑报告；担任美国心理学会（APA）零容忍政策特别工作组联合主席；多次受邀前往国会山向[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]作证。
@@ -95,7 +95,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政策与立法路径** 斯基巴在众议院常设委员会的作证与持续咨询，直接推动了美国教育部与司法部于 2014 年联合发布里程碑式的《学校纪律民权指导意见》（Joint Guidance on the Nondiscriminatory Administration of School Discipline），促使加州、伊利诺伊州等数十个州立法限制或禁止对 K-3 低年级学生实施停学。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **学术[[Knowledge Mobilisation\|知识动员]]路径** 在 [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 的[[Navigational Framework for Educational Researchers\|政策导航框架]]与纳特利证据吸纳框架中，斯基巴被作为学者打通“研究契合度、立法窗口时机与操作可执行性”的经典标杆，为后继学者提供了如何将深奥统计模型转化为国会听证三分钟口径的实操蓝本。
 

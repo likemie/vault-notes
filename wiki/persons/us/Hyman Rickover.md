@@ -38,7 +38,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Hyman Rickover
@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1900** 出生于当时隶属于俄罗斯帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
 > - **1906** 随家人移民美国纽约。
 > - **1922** 毕业于美国海军学院，随后在哥伦比亚大学获得电气工程硕士学位。
@@ -88,7 +88,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **战略与国防路径** 开创了全球潜艇核动力时代，直接催生了美国弹道导弹核潜艇与攻击核潜艇部队，构筑起美苏冷战核威慑的关键基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
 > - **组织与治理反思路径** 成为反思现代[[Bureaucracy|官僚制]]防卫心态、道德纯洁性审判与结果导向型[[Engineering Mindset|工程思维]]冲突的经典案例；揭示了当社会沉溺于狭隘的程序审查与寻找替罪羊时，往往会牺牲掉最具颠覆性价值的战略创新者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
 
@@ -96,7 +96,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **工程合作者** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
 > - **政治盟友／辩护者** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在公案中坚定捍卫里科弗战功。
 > - **批评者／行政上级** 约翰·莱曼（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。

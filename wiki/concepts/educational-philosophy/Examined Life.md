@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Examined Life
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 省察的生活（Examined Life） | 儒家[[Self-Cultivation\|修身]] | [[Banking Model of Education\|储蓄式教育]] |
 > |------|---------------------------|-------------------------|----------------|
 > | 探究方向 | **向外质疑**既有权威、假设与知识体系 | **向内克己**修养道德品质与社会秩序 | **被动接收**与存储自上而下的事实 |

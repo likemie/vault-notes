@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # John Bangs
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970–1990 年代** 投身英国基础教育一线教学与工会维权，历任伦敦特殊教育教师与工会基层代表，深切体认一线教师在自上而下行政问责体制下的失语困境。
 > - **1990–2010 年** 担任全英教师联合会（NUT，现全国教育联盟 NEU）教育与平等事务部部长，主导应对英国国家课程与高利害考试改革；与剑桥大学教授约翰·麦克比斯（John MacBeath）、莫里斯·[[Francis Galton|高尔顿]]（Maurice Galton）深度合作，系统开展教师工作负担与专业状态实证研究。
 > - **2010 年** 加盟剑桥大学教育学院担任高级研究员；出任代表全球 3200 万教师的[[Education International\|国际教育协会]]（EI）特别战略顾问，领导 EI 智库与研究院的政策证据倡导工作。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–210)]]
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 拓展了教育政治学与社会对话理论，将工会从传统利益集团的抗争[[Paradigm\|范式]]，重塑为具备高级学术研判能力的[[Knowledge Mediation\|知识中介]]与证据倡导者（[[Boundary Spanner\|Knowledge Broker]]）。
 > - **方法路径** 打破了官僚自编量表的象牙塔偏差，推动大型跨国测量工具（如 [[Teaching and Learning International Survey\|TALIS]]）融入一线教学真实[[Variable\|变量]]，开创了工会委托独立资深学者二次挖掘官方数据库的实证规程。
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession\|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act\|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** [[Andreas Schleicher]] — [[OECD]] 教育与技能司司长，长年共同筹办 [[International Summits on the Teaching Profession\|ISTP]] 峰会，联合起草跨国背景研究报告与复兴十项原则。
 > - **论辩与对话者** [[Mark Schneider]] & [[Dirk Van Damme]] — 在 OECD 专题论坛中分别代表官方科研出资方、比较教育学术界与班斯展开跨阵营多维学术对话。
 > - **依托机构** [[Education International]] — 担任其高级战略顾问，主导智库建设与跨国数据维权。

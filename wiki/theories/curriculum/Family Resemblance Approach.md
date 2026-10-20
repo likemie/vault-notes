@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Family Resemblance Approach
 
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 科学的本质特征、多学科间的方法与[[Epistemology\|认识论]]多样性，以及[[Nature of Science\|科学本质]]（Nature of Science, NOS）在学校课程中的结构化表征。
 > - **理论问题** 回应传统科学本质“共识清单[[Paradigm\|范式]]”（如 Lederman 的七要素清单）将科学窄化为僵化、普适且同质的命题信条的局限，解决其无法解释物理、化学、地学与生物学之间深刻认识论差异的理论困境。
 > - **理论类型** 课程与教学论[[Analytic Framework\|分析框架]]、科学哲学认识论整合模型。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 中小学与大学各学科（物理、化学、生物、地学、工程）课程标准、教材[[Content Analysis\|内容分析]]，以及探究教学设计的[[Epistemology\|认识论]]广度评估。
 > - **成立条件** 需要教师具备对具体学科发展史与科学哲学的基本素养，能够辨识各分支的独特认识论规程。
 > - **解释不足** 理论维度较为宏大庞杂，在微观课堂实时教学中，难以在一节课内同时完整覆盖所有 11 个子维度。
@@ -164,6 +164,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
 > - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science\|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。

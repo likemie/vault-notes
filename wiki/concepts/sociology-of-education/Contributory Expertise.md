@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Contributory Expertise
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **情境嵌入性** 深植于特定学校、班级、社区文化与[[Student-Teacher Relationship\|师生关系]]的动态脉络之中，难以简单剥离。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 > - **默会具身性** 许多关键决策依赖长期直觉、行动中的反思（reflection-in-action）与身体化经验，无法完全编码为显性文本。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 > - **偶发应对力** 善于在资源匮乏、多重目标冲突和时间紧迫的不确定条件下进行审慎权衡。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 20)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2002 — 专长第三次浪潮奠基** Collins and Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
 > - **2007 — 周期专长理论化与《重思专长》** Collins and Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
@@ -190,7 +190,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，指出教育治理体制与专长形态深刻决定了证据接触方式，揭示高利害市场化问责导致证据被[[Performativity|表演性]]利用，而贡献型专长是抵制脱离情境教条的关键支柱。
 
 ---

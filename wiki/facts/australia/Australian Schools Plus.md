@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Australian Schools Plus
@@ -168,5 +168,5 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 结合监管文件、税法修正案与访谈，系统揭示澳大利亚学校加计划作为 [[Social Ventures Australia\|SVA]] 衍生中介机构的创设过程、[[Deductible Gift Recipient\|DGR1]] 免税特许机制及其对公共教育民主问责的侵蚀。

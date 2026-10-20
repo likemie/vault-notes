@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter Sloterdijk
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于德国巴登-符腾堡州卡尔斯鲁厄。
 > - **1968–1974** 在慕尼黑大学与汉堡大学学习哲学、德国语言文学与历史学。
 > - **1983** 出版《犬儒理性批判》（*Kritik der zynischen Vernunft*），成为战后德国最畅销的哲学学术著作，奠定其作为当代欧陆哲学先锋批评家的声誉。
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **权力与监控哲学** 推进了福柯《规训与惩罚》[[Panopticism|全景敞视]]（[[Panopticism]]）理论的思想史考古，将监控技术的起源从现代监狱进一步上溯至教父神学内省。
 > - **教育批判与教化哲学** 斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等学者将斯洛特戴克的批判引入教育研究，深度解构[[John Hattie|哈蒂]]“使学习可见”[[Paradigm|范式]]背后的神学凝视世俗化霸权。
 > - **人类技术学与练习理论** 其关于自我形成是“练习、练习、练习”的思想，为欧陆教化传统抵抗功利效能主义提供了极富生命力的身体实践维度。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想对话与继承** [[Friedrich Nietzsche]] — 承袭尼采对基督教道德谱系的冷峻解构，注重生命肯定与自我超越的身体艺术。
 > - **理论对手** [[Jürgen Habermas]] — 围绕《人类动物园的规则》与后人文主义技术反思，同哈贝马斯的交往理性传统发生长达数十年的思想论辩。
 > - **教育批判应用** [[Steen Nepper Larsen]] — 拉森借鉴其神学凝视世俗化理论，批判当代教育测评与可见学习[[Paradigm|范式]]。

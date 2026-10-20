@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Epistemic Ascent
@@ -83,7 +83,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | [[Epistemology\|认识论]]上升（Epistemic Ascent） | [[Learning Progression\|学习进阶（Learning Progression）]] | [[Big Ideas\|大概念（Big Ideas）]] | [[Surface and Deep Learning\|深层学习（Deep Learning）]] |
 > |---|---|---|---|---|
 > | **分析对象** | 学科概念从具象到抽象的生成层次与认知攀升路径 | 学习者掌握特定概念时表现出的典型思维发展序列 | 统摄离散概念与事实的学科高层核心命题与认知锚点 | 学习者把握学科各部分与整体内在联系的深层理解状态 |
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **具象向抽象的梯次跃升** 学习者从具体的生活经验感知和具象操作逐步发展为理解高度概括的符号系统与形式化公理。这一过程并非自然发生，必须依赖精心设计的课程阶梯。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]
 > - **学科内生公理逻辑导引** 概念上升序列由学科自身的内在逻辑体系所规范。例如数学中由数感与四则运算向代数表达式、函数映射的延展，遵循严格的公理化演绎。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 > - **[[Knowledge-that and Know-how-to|知其然]]与知其所用的贯通** [[Epistemology|认识论]]上升要求将陈述性知识（[[Knowledge-that and Know-how-to|知其然]]）与程序性应用（[[Knowledge-that and Know-how-to|知其所用]]）深度连接，在抽象层次上指导复杂情境的[[Problem Solving|问题解决]]。
@@ -157,7 +157,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960 年代 — 螺旋式课程与学科结构论奠基** 杰罗姆·S·布鲁纳（Jerome S. Bruner）在《教育过程》中提出螺旋式课程理念，主张任何学科的基础公理均能以理智上诚实的方式转化为概念阶梯，奠定了现代概念进阶的思想根基。
 > - **2000 年代 — [[Social Realism|社会实在论]]与“强[[Powerful Knowledge|有力知识]]”兴起** 迈克尔·扬（[[Michael Young]]）等学者确立专门化学科知识的客观边界，强调基础教育的核心使命在于引导处境不利学生超越日常琐碎经验，实现向非情境化高阶学科概念的[[Epistemology|认识论]]攀升。
 > - **2010 年代 — 国家标准研制与实践反思** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）编制中，认识论上升充当了高年级数学因果实证空白时的公理推演工具；而在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，认识论标记被过度宽泛的[[Social Regime|社会规约]][[Discourse|话语]]所掩盖，引发了关于认识论上升如何有效落地的广泛反思。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]

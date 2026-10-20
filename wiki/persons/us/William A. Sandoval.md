@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # William A. Sandoval
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **科学教育评价标准** Sandoval 提出的[[Scientific Explanation|科学解释]]评价标准（相关性、因果机制、概念系统与表征），已成为全球科学教育研究与课程标准研制的核心操作量规（de Andrade et al., 2019; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）。
 > - **[[Epistemic Practices|认识论实践]]与学习环境设计** 推动了从“个人[[Epistemology|认识论]]（信念）”向“[[Practical Epistemology|实践认识论]]（行动）”的[[Paradigm|研究范式]]转型，为后续微观[[Discourse Analysis|话语分析]]与具身认知探究奠定了基础。
 > - **[[Design-Based Research|设计研究]]方法学（Conjecture Mapping）** 猜想映射方法被广泛采用于学习科学与教育技术领域，成为规范教育干预理论设计的标准工具。

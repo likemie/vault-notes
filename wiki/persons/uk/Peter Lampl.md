@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter Lampl
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政策路径** 深度影响英国教育资助结构，直接催生“[[Pupil Premium\|学生溢价]]”（Pupil Premium）长效机制，将数十亿英镑公共预算精准下沉至贫困学生；推动[[Grammar School\|文法学校]]招录改革与高校扩大弱势群体参与（Widening Participation）立法。
 > - **组织与治理路径** 奠定了英格兰教育[[Educational Brokerage Agency\|证据中介机构]]的独立治理[[Paradigm\|范式]]，建立由商界、学界与政策专家构成的独立信托理事会，成功抵御了政党更迭与短期政策周期的震荡。
 > - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials\|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **机构创设与领导** [[Sutton Trust\|萨顿信托]]（Sutton Trust） — 创始人兼董事长（1997年至今）。
 > - **机构创设与治理** [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 创始理事会主席（2011年至今）。
 > - **战略合作伙伴** [[Michael Gove\|迈克尔·戈夫]]（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。

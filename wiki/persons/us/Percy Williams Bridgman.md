@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Percy Williams Bridgman
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1882** 出生于美国马萨诸塞州剑桥。
 > - **1900–1908** 就读于哈佛大学，先后获得学士、硕士及物理学博士学位。
 > - **1908–1954** 终身任教于哈佛大学物理学系，指导包括J. [[J. Robert Oppenheimer|罗伯特·奥本海默]]（J. Robert Oppenheimer）在内的多位杰出物理学家。

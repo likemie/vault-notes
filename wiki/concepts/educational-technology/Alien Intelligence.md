@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Alien Intelligence
@@ -145,7 +145,7 @@ updated: 2026-10-17
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2024 — 后人类哲学提出** 马蒂亚斯·布劳恩与达里安·米彻姆（Matthias Braun & Darian Meacham）在《哲学与技术》（*Philosophy & Technology*）发表《为人性的/非人类中心的 AI 辩护》（*A plea for (in)human-centered AI*），系统提出将先进 AI 视为“异己智能（Alien Intelligence）”，呼吁走出拟人化迷思。Braun and Meacham (2024)
 > - **2026 — 引入教育哲学与读写教学** 斯宾塞·J·史密斯（Spencer J. Smith）在《教育哲学与教育研究》（*Studies in Philosophy and Education*）中将异己智能概念引入读写教育，构建起防范[[Formative Epistemic Injustice|成长性认识不正义]]、推行思维外显与自我评估的三重课堂防御体系。[[Argument_Smith_2026_SPE|Smith (2026)]]
 

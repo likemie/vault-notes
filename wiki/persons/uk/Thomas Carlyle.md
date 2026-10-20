@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thomas Carlyle
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1795** 出生于苏格兰埃克尔费汉，后进入爱丁堡大学攻读数学与文学。
 > - **1837** 出版经典史学巨著《法国革命史》（*The French Revolution: A History*）。
 > - **1840** 在伦敦发表著名的英雄讲演，后结集为《论英雄、英雄崇拜与历史上的英雄业绩》（*On Heroes, Hero-Worship, and the Heroic in History*），奠定[[Great Man Theory|伟人理论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **史学与政治哲学路径** 确立了 19 世纪欧洲广泛盛行的浪漫主义[[Great Man Theory|英雄史观]]，直接影响了后世对卓越政治领袖、战略决断者与天才科学家的传记[[Paradigm|研究范式]]。
 > - **组织与领导力理论** 成为 20 世纪现代领导力理论（特质理论 Trait Theory of Leadership）的源头。
 > - **当代地缘战略与国家建构反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中结合[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）建国实践，重估卡莱尔思想对于反思现代平庸[[Bureaucracy|科层制]]与后现代解构主义的重要价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **实践验证案例** [[Lee Kuan Yew|李光耀]] — [[Henry Kissinger|基辛格]]指出李光耀的执政为卡莱尔伟人论题提供了决定性的实证注脚。
 > - **当代重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中批判当代学术界对英雄叙事的污名化与过度解构。
 

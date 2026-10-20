@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2023
 doi: ""
 citation_aliases:
@@ -61,17 +61,17 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 本文延续 Hsieh et al. (2005)、Robinson et al. (2007) 与 Reinhart et al. (2013) 对教育心理学研究方法趋势的追踪，核心问题是：到 2020 年，教育心理学经验期刊是否继续远离干预/[[Experimental Research\|实验研究]]，并且是否继续在[[Non-intervention Research\|非干预研究]]中提出[[Recommendations for Practice\|实践建议]]（RFP）？(pp.1, 4)
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与因果推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与实践时，研究序列应从概念发展和描述性研究走向假设检验：早期[[Qualitative Observation\|质性观察]]和量化自陈调查可帮助理解情境，[[Correlational Research\|相关性研究]]可识别可能的[[Causality\|因果关系]]，而真正的干预假设需要通过[[Intervention Research\|干预研究]]和随机实验进行正式检验(p.2)。
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：期刊文章编码与趋势比较。
 > - 样本：核心 2020 年五刊样本为 255 篇经验文章，期刊包括 *Journal of Educational Psychology*、*American Educational Research Journal*、*Cognition and Instruction*、*Journal of Experimental Education* 和 *Contemporary Educational Psychology*；作者另编码 2019 年 *Journal of Educational Psychology* 的 87 篇文章以检验年度稳定性，二者合计 342 篇(pp.4-6)。
 > - 方法分类：观察/[[Correlational Research\|相关性研究]]、[[Intervention Research\|干预研究]]、[[Experimental Research\|实验研究]]、[[Qualitative Research\|质性研究]]、[[Mixed Methods Research\|混合方法]]/[[Multimethod Research\|多方法研究]]。观察/相关研究不操纵自[[Variable\|变量]]且含量化数据；干预与实验都操纵[[Independent Variable\|自变量]]，但实验进一步要求[[Random Assignment\|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据(p.4)。
@@ -80,7 +80,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **教育心理学研究序列正在停在相关阶段** 如果目标是指导实践，描述性和[[Correlational Research\|相关性研究]]应通向干预假设检验；但过去 30 年[[Experiential Learning\|经验教育]]心理学期刊中[[Intervention Research\|干预研究]]下降、观察/相关研究上升，显示研究序列常在非干预阶段结束(pp.2-3)。
 > 2. **[[Non-intervention Research\|非干预研究]]的[[Recommendations for Practice\|实践建议]]构成因果推论风险** 作者以一项结构方程模型研究为例说明，研究没有[[Variable\|变量]]操纵，却在实践意义部分建议操纵某变量以改善另一变量；这体现了用观察数据推断[[Causality\|因果关系]]并给出基于假定因果性的 RFP(p.3)。
 > 3. **2020 年趋势延续并复杂化** 干预研究比例自 2010 年后稳定在 25%，随机实验继续降至 20%；观察/相关研究比例从 2010 年的 66% 降至 2020 年的 46%，但这主要伴随[[Qualitative Research\|质性研究]]上升至 22%，非干预研究总体仍约占四分之三(pp.6-7)。
@@ -89,7 +89,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 2020 年五本期刊中，经验文章数量比 2010 年增加 114 篇；[[Non-intervention Research\|非干预研究]]总体约占全部经验研究的四分之三，与 2010 年相近(pp.5-7)。
 > - [[Intervention Research\|干预研究]]比例从 2000 年 40% 降至 2010 年 25%，2020 年仍为 25%；随机实验从 2010 年 23% 继续降至 2020 年 20%。作者指出，1983 年五本期刊中近一半经验文章使用[[Random Assignment\|随机分配]]实验，而 2020 年只有五分之一(p.7)。
 > - [[Qualitative Research\|质性研究]]从 2010 年 9% 上升至 2020 年 22%；即使排除 *Journal of Educational Psychology* 2020 年质性研究 special issue，质性研究仍占 19%(pp.5-6)。
@@ -98,7 +98,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “采用实验方法的文章比例继续下降（20%），而质性方法则有所上升（22%）。”
 > ("The percentage of articles employing experimental methods has continued to decrease (20%), whereas qualitative methods have increased (22%).")(p.1)
 >
@@ -110,7 +110,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 作者没有编码 RFP 的强度与范围，只记录是否存在 RFP；因此无法区分紧贴样本、措辞谨慎的建议与广泛、强因果语气的建议(p.9)。
 > - 2020 年 JEP 的[[Qualitative Research\|质性研究]] special issue 可能使质性研究比例偏高；但排除 special issue 后，质性研究仍占 19%，因此质性研究上升趋势并非完全由该专刊造成(pp.5-6)。
 > - 研究未能继续使用 Reinhart et al. (2013) 对"建模"的编码，因为 2010 年后建模方法类型和使用方式急剧增加，区分"什么算建模"已变得不具实质意义。

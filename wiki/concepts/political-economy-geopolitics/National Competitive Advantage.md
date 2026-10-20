@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Competitive Advantage
@@ -237,7 +237,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特国家竞争优势理论，系统阐明其作为[[Knowledge-Based Economization|知识经济化]][[Geopolitics|地缘政治]]想象的构成性功能与空间极化效应。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 结合美国现代产业战略实证阐述如何通过直接投资、过程治理与附加条件重构 21 世纪国家在先进制造与绿色技术领域的竞争优势。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 论证全球[[Vertical Disintegration|纵向离散]]网络下大国产业竞争中的[[Agglomeration Externalities|集聚经济]]效益与地缘安全韧性之间的结构性权衡。

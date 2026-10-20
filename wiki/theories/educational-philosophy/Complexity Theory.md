@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Complexity Theory
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence\|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
 > - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广假设，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm\|范式]]级[[Analytic Framework\|分析框架]]、跨学科复杂适应系统理论。

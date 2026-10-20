@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Categorical Funding
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980年代 — 英国与西方[[New Public Management|新公共管理]]兴起** 撒切尔主义与新公共管理（NPM）重构公共科研资助体制，政府部门开始大规模压缩无条件的大学区块拨款，转向针对具体政策目标的定向分类招标。
 > - **1993 — 学术自主性危机反思** 伯吉斯（Burgess）与桑戴（Sanday）发表经典论文，系统揭示分类资助如何通过合同劳工化与数据所有权转让，对教育学术独立性造成结构性破坏。
 > - **1990–2000年代 — 跨国多边金融机构全球化扩张** 以[[World Bank|世界银行]]为核心的国际组织将定向委托研究机制推向全球，通过雇佣跨国专家团队，将量化投入产出分析与结构调整挂钩。
@@ -240,7 +240,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学规训的制度杠杆。
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示国际机构委托研究如何通过极限压缩交付周期迫使学者放弃理论复杂性，与鲍尔（Ball, 2001）共同批判合同资助对大学[[Knowledge Production|知识生产]]逻辑的结构性侵蚀。
 

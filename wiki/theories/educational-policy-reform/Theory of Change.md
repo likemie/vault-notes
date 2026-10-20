@@ -80,7 +80,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Theory of Change
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 一套具体的政策干预、教育项目或[[Knowledge Mobilisation\|知识动员]]举措，为何以及通过何种因果链条与内在机制能够产出预期的阶段性与最终结果。
 > - **理论问题** 破解教育干预与知识转化中常见的黑箱问题与一厢情愿假设，解释为什么单纯提供资源或传递信息往往无法自然引发实践变革。
 > - **理论类型** 中层机制解释模型与因果项目评价方法学框架。
@@ -235,7 +235,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 具有多阶段转化链条、多主体协同参与的复杂教育干预、政策试点与[[Knowledge Mobilisation\|知识动员]]项目。
 > - **谨慎使用** 高度非结构化、纯探索性的基础理论探究，或处于早期萌芽阶段、因果机制极度不确定的前沿创新。
 > - **不适合解释** 完全由突发外部政治冲突或危机引发的无预警事件，或纯粹的行政命令强制执行。
@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1970s–1980s — 理论驱动型评估兴起** 反思传统黑箱评估（Black-box Evaluation）仅关注输入与输出而无法解释为何有效的局限，Chen and Rossi (1980) 与 [[Carol Weiss]] (1972) 提出基于理论的评估（Theory-Driven Evaluation）。
 > - **1990s — [[Logic Model\|逻辑模型]]普及与变革理论正式成型** Aspen Institute 推进社区综合变革项目评估，[[Logic Model\|逻辑模型]]广泛流行；Weiss (1995) 正式系统提出 Theory of Change 概念，呼吁将关注点由图表框线转向深挖起效的底层假设与因果链条。
 > - **2000s — 因果机制显性化与多领域制度化** 变革理论被全面引入国际发展合作（如英国国际发展部 DFID、[[World Bank\|世界银行]]）与美国综合学校改革（Comprehensive School Reform, CSR）项目评估。
@@ -281,7 +281,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]必须确立变革理论作为自我循证支柱，论证单纯信息推送的无效性，并构建结合 [[COM-B Model\|COM-B]] 模型的因果机制架构。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 梳理教育中介机构的历史演进与治理挑战，探讨中介在不同政策情境下构建因果服务链条的制度困境。
 > - [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 比较跨领域主流[[Knowledge Mobilisation\|知识动员]]模型，解构微观行为因果转化机制（Langer et al., 2016）与多层系统架构。

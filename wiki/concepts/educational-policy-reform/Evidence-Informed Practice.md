@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence-Informed Practice
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 证据知情实践（EIP） | [[Evidence-Based Education\|证据本位教育]]（EBE） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） |
 > |---|---|---|---|---|
 > | **证据在决策中的地位** | 多元决策资源之一，情境化审议 | 核心决策驱动力，强调严格依从 | 实践改进的理论与规律依据 | 教学诊断与策略调整的量化依据 |
@@ -347,7 +347,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — [[Research Utilization\|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式（工具性、概念性、象征性等），打破研究直接指导决策的[[Technical Rationality\|技术理性]]设想，为 EIP 奠定[[Epistemology\|认识论]]基石。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 127)]]
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导重塑教学为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
 > - **2000s–2010s — 制度化推进与因果问责** 英国实施 [[Teaching and Learning Research Programme\|TLRP]] 研究计划，美国出台 [[No Child Left Behind Act 2001\|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
@@ -425,7 +425,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与汉堡 53 名[[School Leadership\|学校领导]]者：高利害问责使[[Research Utilization\|研究使用]]沦为象征性合规，低利害探究文化促进贡献型与[[Interactional Expertise\|交互型专长]]融合。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 结合 [[Clearing House Unterricht]] 十年运行与 189 名教师教育者的评估，论证以[[Meta-analysis\|元分析]]为证据基底、以师资培训者为支点，可推进 EIP 并缓解[[Research-Practice Gap\|转移困境]]。
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。

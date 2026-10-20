@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Self-Efficacy
@@ -199,7 +199,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1977 — 社会认知理论奠基** [[Albert Bandura\|阿尔伯特·班杜拉]]发表《自我效能：迈向行为改变的综合理论》（*Self-efficacy: Toward a unifying theory of behavioral change*），正式确立自我效能感概念及其四大信息源与调节机制。
 > - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生[[Academic Achievement\|学业成就]]、[[Metacognition\|元认知]]策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
 > - **2000s–2010s — 教师自我效能感与[[Epistemological Beliefs\|认识论信念]]研究深化** 研究重点拓展至教师群体（Teacher Self-Efficacy），揭示教师效能感与[[Classroom Management\|课堂管理]]、[[Inquiry-Based Learning\|探究式教学]]实施及自身认识论信念的双向重塑机制（Buehl & Beck, 2015；[[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015]]）。
@@ -242,7 +242,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # CER Framework
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** K-12 阶段科学课堂中学生的论辩写作与[[Scientific Explanation\|科学解释建构]]：学生如何围绕科学问题提出观点、调取数据并借助科学原理予以说明。
 > - **理论问题** 传统科学教学侧重[[Rote Learning\|死记硬背]]事实知识，忽视科学实践；[[Toulmin's Argumentation Model\|图尔敏论证模型]]（TAP）结构繁复（保证、支撑、限定词等概念对中小学生而言过于晦涩难懂），亟需一套教学法上更友好、可操作的论证支架。
 > - **理论类型** 课程与教学设计框架（Curricular and Pedagogical Framework），属于中层教学模型与评估工具。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 基础教育中低学段入门级探究任务、受控良构实验（Well-structured experiments）结果的口头汇报与书面报告。
 > - **不适合解释** 面对现实复杂社会性科学议题（如气候变化、疫苗犹豫、基因编辑）中海量、冲突与含混证据的真实科学裁决。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204)]]
 > - **常见误用** 极易退化为机械填空套路（Fill-in-the-blank）；学生学会了在格式上塞满数据与词汇，却缺乏对证据生成方法与因果因子的实质理解。
@@ -139,5 +139,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model\|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型统合[[Epistemic Ideals\|认识论理想]]与可靠认识过程的实质论证评价框架。

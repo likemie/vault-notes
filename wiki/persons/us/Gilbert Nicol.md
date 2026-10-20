@@ -35,7 +35,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Gilbert Nicol
@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947 年** 在阿默斯特学院取得学士学位，此前曾在军事情报部门服役。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, p. 143)]]
 > - **1950 年** 在哥伦比亚大学取得法学学士学位，随后从事学院与大学行政工作。
 > - **1971–1976 年** 担任大学与学院规划协会（Society for College and University Planning）执行主任，并曾任普林斯顿大学发展副主任，积累教育规划与募款经验（p. 143）。
@@ -84,7 +84,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **组织路径** 以独立办公室和专职执行职位维持学校联络、募款与区域治理，不依附单所学校或大学。
 > - **专业路径** 动员先行学校教师、IB 考官和主考官进入培训，使实践知识可以跨学校传递。
 > - **财务路径** 把基金会启动资金用于扩大授权学校群体，再以学校订阅和考试活动支持区域与全球组织。
@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
 > - **组织发起者** [[Fred Block|布洛克]]·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。

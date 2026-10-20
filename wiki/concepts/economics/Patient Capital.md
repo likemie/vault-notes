@@ -81,7 +81,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Patient Capital
@@ -312,7 +312,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明在硬科技与微电子战略攻坚中，如何通过[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权基金与国家债务信贷（[[Loan Programs Office|LPO]]）构建多层级混合耐心资本生态（Goal 4.5）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 结合三代使命演化理论，系统论证耐心资本与公共部门三层动态能力及引领学习[[Paradigm|范式]]的协同逻辑。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定当代[[Mission-Oriented Innovation Policy|使命导向创新政策]]中耐心资本供给机制、ROAR [[Analytic Framework|分析框架]]与风险收益共享理论的核心文献。

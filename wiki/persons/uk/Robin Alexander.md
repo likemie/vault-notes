@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Robin Alexander
@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1941** 出生于英国汉普郡。
 > - **1960–1970 年代** 先后于剑桥大学与杜伦大学受训，曾任中小学教师与教师培训讲师，积累了深厚的一线课堂经验。
 > - **1977–1995** 任教于利兹大学教育学院，晋升为初等教育教授，主导全英初等课程改革与教学法实证研究。

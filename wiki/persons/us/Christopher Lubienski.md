@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Christopher Lubienski
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **学术成长期** 在美国接受教育研究领域的系统培训，早期研究聚焦教育市场化与[[School Choice\|择校]]政策的实证效果，逐渐转向对教育政策[[Knowledge Production\|知识生产]]政治学的批判性反思。
 > - **伊利诺伊大学时期** 担任 UIUC 教育政策系教授，建立教育智库与[[Policy Brokerage\|政策中介]]研究的系统研究议程；与 Sarah Lubienski 合作开展大规模的公立学校与私立学校[[Academic Achievement\|学业成绩]]比较研究。
 > - **2019 — 思想市场奠基文献** 发表《政策空间中的想法：教育政策中的智库与市场》（*The Idea of a Market in Education Policy*）系列研究，提出"教育思想市场"框架，系统揭示智库绕过学术同行评审直接渗透政策流程的机制。
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将政治经济学的"[[Market Failure|市场失灵]]"分析引入教育政策[[Knowledge Production\|知识生产]]领域，为比较教育批判政策研究提供了一套解释智库主导政策[[Discourse|话语]]的理论工具。
 > - **实证路径** 大规模公私立学校比较研究（《公立学校优势》）颠覆了新自由主义[[School Choice\|择校]]倡导者的核心实证主张，在美国教育政策辩论中引发持续反响。
 > - **国际传播** "思想市场"与"信息孤岛"概念被 Steiner-Khamsi、Martens、Ydesen 等欧洲比较教育学者引入全球教育治理分析，成为解释[[Surplus of Evidence\|证据过剩]]时代[[Policy Brokerage\|政策中介]]崛起的核心背景理论之一。
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论对话** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski（2019）关于"思想市场"的概念，用以分析全球教育治理中[[Policy Brokerage\|政策中介]]机构的意识形态性证据操作。
 > - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展公私立学校实证比较研究。
 > - **合著伙伴** Husain Malin（2022）— 共同提出"信息孤岛"概念，分析数字时代知识碎片化对政策理性的侵蚀。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ian Menter
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1949** 出生于英国剑桥，早期从事小学教学与基础教育研究。
 > - **2005–2007** 当选为苏格兰教育研究协会（SERA）主席，推动苏格兰教师教育框架改革。
 > - **2012** 出任牛津大学教育系教师教育教授（Professor of Teacher Education）。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance\|循证治理]]异化机制的认知。
 > - **政策路径** 主导的 [[British Educational Research Association\|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training\|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** Jo B. Helgetun — 合作开展英格兰教师教育政策演变与[[Evidence Era\|证据时代]]研究。
 > - **学术合作者** Katharine Burn — 合作研讨[[Initial Teacher Training\|初始教师教育]]中的临床实践模式。
 > - **机构平台** [[British Educational Research Association\|英国教育研究协会]]（BERA） — 曾任主席（2013–2015），领导国家级调查。

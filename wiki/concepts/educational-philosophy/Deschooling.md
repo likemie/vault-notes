@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deschooling
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **反垄断与去机构化（Anti-Institutionalization）** 坚信现代学校是强制规训与文凭拜物教的生产车间，唯有将教育资源从官僚机构手中解放出来归还社会社群，才能恢复真实的学习自主权。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **自然境脉化学习（Contextual & Natural Learning）** 强调知识最好的发生[[Champ|场域]]是“生活的深处（the thick of life）”，主张从实际生活问题、劳动与社区交往中自然习得技能，而非在封闭教室中被动接受抽象灌输。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 > - **去专业化伙伴关系（Deprofessionalization of Teaching）** 弱化教师专职门槛与学科垄断地位，将教育者重塑为儿童自由发展的陪伴者、环境协调员或顾问，这一逻辑深刻渗透到当代反本质主义教学论中。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 — 伊里奇发表《非学校化社会》（*Deschooling Society*）** 提出打破学校垄断、建立去中心化“伙伴网络”与技能交换中心，引发全球反建制教育震荡。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
 > - **1970s–1980s — 霍尔特开创在家上学（Homeschooling）与[[Learner Autonomy|自主学习]]运动** 约翰·霍尔特出版《儿童如何失败》（*How Children Fail*）并创办《不成长于学校》杂志，将去学校化思潮转化为切实的在家上学与自然学习实践。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **1980s–1990s — 边缘化与古典教学论复兴** 随着西方工业转型与[[New Public Management|新公共管理主义]]兴起，激进无政府主义色彩的去学校化思潮在官方教育政策中被边缘化，古典教学传统（如塞耶斯的《学习的失落工具》）重回主流。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
@@ -171,5 +171,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 溯源了从传统教学论五支柱到伊里奇与霍尔特去学校化思潮的思想脉络，批判性揭示了[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》将教师定性为非专业调节者所暗含的去学校化逻辑及其在俄罗斯[[Policy Borrowing|政策借用]]中引发的去专业化风险。

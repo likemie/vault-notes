@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dual Coding Theory
@@ -51,7 +51,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 人脑如何通过独立的视觉非言语系统与听觉言语系统分别接收、加工并协同表征外部信息。
 > - **理论问题** 为什么纯文本阅读容易造成认知瓶颈，而图文结合的教学设计能够带来显著的记忆与深层理解增益。
 > - **理论类型** 认知架构中层理论、多模态信息加工机制模型。
@@ -120,5 +120,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 将双重编码理论作为解释空间图示工具促进学生[[Higher-Order Thinking Skills\|高阶思维]]的底层认知理论支柱。

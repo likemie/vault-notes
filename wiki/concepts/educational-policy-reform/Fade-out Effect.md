@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Fade-out Effect
@@ -251,7 +251,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统梳理跨国[[Educational Evidence Clearinghouses\|证据清算中心]]对干预后持续效果的硬性审查标准，揭示效应衰退对政策认证评级的决定性影响。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation\|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database\|国家学生数据库]]建立长期效应追踪的制度实践。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。

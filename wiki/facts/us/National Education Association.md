@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Education Association
@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统记录全美教育协会（NEA）抽调全美委员会认证教师审读 [[Common Core State Standards|CCSS]] 草案，就技能与知识界定、信息价值评估提出关键修正，以专业审慎弥补实证空白的政策过程。（pp. 15, 20）
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在关于[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共生关系的[[Meta-analysis|元分析]]中，明确将全美教育协会 2012 年《教育者 4C 指南》列为阐释两者在基础教育中核心地位的权威国家机构文本。（p. 1）
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录 NEA 联手美国教育部、[[OECD|经合组织]]与[[Education International|国际教育协会]]创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）的历史突破，阐明教师工会组织化发声在跨国[[Output-Oriented Governance|循证治理]]中的关键支柱地位。（pp. 211, 216）

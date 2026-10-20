@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientific Method
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 科学方法（Scientific Method） | 科学主义（[[Scientism]]） | 实践认识论（[[Practical Epistemology]]） | 诠释学探究（[[Interpretive Paradigm]]） |
 > |:---|:---|:---|:---|:---|
 > | **[[Epistemology\|认识论]]前提** | 经验观察、逻辑推论与假设[[Falsification\|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Determinism|决定论]]与经验性假设（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
 > - **简约法则与普遍性概括（Parsimony & Generality）** 追求以最经济的概念与因果链条解释最为广泛的现象（[[Principle of Parsimony|奥卡姆剃刀]]），致力于将个别观察提升为具有预测力的普遍理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 113)]]
 > - **假说演义与[[Falsification|可证伪性]]检验（[[Hypothesis]]-Deduction & Falsifiability）** 科学家借助思辨想象提出推测性假设，并设定严格的反驳与检验条件，在受控观察中暴露于潜在证伪风险之中（Popper, 1968）。
@@ -277,7 +277,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出经验归纳法，主张通过系统观察与实验事实积累发现自然规律，奠定了实验科学的方法论先导。
 > - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** 朱利安与孔德将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实服务于全人教化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
 > - **19 世纪中后期 — [[Positivism|实证主义]]法典化与社会学独立学科确立** 孔德与密尔系统确立实证[[Epistemology|认识论]]阶梯与经验因果归纳法则，奠定了现代统计与[[Survey Research|调查研究]]的实证根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
@@ -322,7 +322,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述现代科学学（[[Metascience]]）如何将科学方法的因果实验与实证检验反身应用于评估和改革联邦科研资助机制本身（如抽签资助、非共识金券评审），并确立金标准科学评价原则。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观[[Discourse|话语]][[Practical Epistemology|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践[[Epistemology|认识论]]与[[Formal Epistemology|形式认识论]]的[[Analytic Framework|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。

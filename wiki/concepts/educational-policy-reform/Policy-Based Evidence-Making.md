@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy-Based Evidence-Making
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 基于政策的证据制造（PBEM） | [[Evidence-Based Policy-Making\|循证政策制定]]（EBPM） | 政治宣传（Propaganda） |
 > |---|---|---|---|
 > | **分析对象与逻辑** | 适宜性逻辑（政治规范与立场契合导向） | 后果性逻辑（因果证据导向方案选择） | 意识形态动员与权力宣示逻辑 |
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **政治议程与立场先行** 执政者依据政党意识形态或市场化治理诉求确立改革底线（如削弱大学教师教育、推行校本分权），确立政策的不可逆方向。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **准入控制与官方守门** 政府部门充当[[Gatekeepers\|守门人]]，定向委任符合自身政策偏好的专家主持审查，并扶植官方认可的专业团体（如[[Chartered College of Teaching\|特许教学学院]]）以替代传统学术机构。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **政策落地预期审查** 外部咨询者与中介主动适应政策如何落地的政治语境，对结论进行预先转译与合规包装，剔除违背官员预期的尖锐批判。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 94)]]
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000 年代初 — 批判概念萌芽** 随着[[What Works Movement\|循证政策运动]]在英美公共卫生与教育领域的兴起，政策学者与科学社会学家开始反思研究证据在政策制定中被选择性利用与政治过滤的现象。
 > - **2016 — 概念理论化界定** Chung（2016）系统提出并界定基于政策的证据制造（Policy-Based Evidence-Making, PBEM），明确将其确立为批判传统理性循证政策[[Paradigm\|范式]]的新框架。
 > - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了英国教育部如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
@@ -178,5 +178,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview\|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers\|守门人]]通过[[Carter Review of Initial Teacher Training\|卡特审查]]与[[Chartered College of Teaching\|特许教学学院]]运作基于政策的证据制造的机制。

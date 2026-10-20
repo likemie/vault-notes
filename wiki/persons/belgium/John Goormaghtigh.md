@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-10-21
 ---
 
 # John Goormaghtigh
@@ -69,7 +69,7 @@ updated: 2026-09-12
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
 > - **制度延续事件** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 在道德承诺、经费危机和 [[UNESCO]] 谈判之间维护考试连续性，并推动政府支持与独立法律身份结合。
 > - **治理机构** [[International Schools Examination Syndicate\|国际学校考试辛迪加]]（ISES）／[[International Baccalaureate\|国际文凭]]办公室（IBO）。

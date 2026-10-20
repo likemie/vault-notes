@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Steen Nepper Larsen
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1958** 出生于丹麦。
 > - **1965** 开始接受基础教育，亲身经历丹麦教育[[Discourse|话语]]从“indlæring”（灌输式教学）向“læring”（学习）话语、进而滑向当代新自由主义[[Learnification|学习化]]（Learnification）的历史演进。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 > - **2013** 应邀赴新西兰惠灵顿维多利亚大学讲学，发表关于[[Neuroplasticity|神经可塑性]]当代趣味与批判局限的学术分析。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进欧陆[[Critical Pedagogy|批判教育学]]与德国教化（[[Bildung]]）传统的现代复兴，为抵抗新自由主义[[Learnification|学习化]]趋势提供了结合神经科学哲学与[[Phenomenology|现象学]]的全新理论防线。
 > - **方法路径** 将[[Niklas Luhmann|卢曼]]的二阶[[Blind Spot in Observation|观察盲点]]理论与托马斯·富克斯（[[Thomas Fuchs]]）的生态大脑现象学引入教育研究，确立了对量化[[Meta-analysis|元分析]]与[[Positivism|实证主义]]评价框架进行方法论前提审查的哲学进路。
 > - **政策与公共论辩路径** 深度介入丹麦基础教育改革争论，在公共知识界力抗以[[Evidence-Based Education|循证教育]]与量化指标为导向的[[New Public Management|新公共管理]]改革，倡导捍卫北欧学校的民主与人文根基。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[Niklas Luhmann|尼克拉斯·卢曼]] — 汲取二阶观察与盲点概念；[[Thomas Fuchs]] — 借鉴生态大脑与身体[[Phenomenology|现象学]]；威廉·冯·洪堡（Wilhelm von Humboldt）、[[David Held|赫尔德]]与[[Georg Wilhelm Friedrich Hegel|黑格尔]] — 继承古典德国教化（[[Bildung]]）哲学传统。
 > - **学术同道** [[Gert Biesta|格特·比斯塔]]（Gert Biesta） — 共享抵抗教育[[Learnification|学习化]]（Learnification）的批判阵线；[[Thomas Aastrup Rømer]] — 丹麦教育学院同事，共同发起对丹麦学校[[Positivism|实证主义]]转向的学术反思。
 > - **学术论敌** [[John Hattie|约翰·哈蒂]]（John Hattie） — 可见学习[[Paradigm|范式]]开创者，2018 年哥本哈根公开辩论的直接交锋对象。

@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dunbar's Number
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **大脑新皮质比例约束（Neocortex Ratio Constraint）** 灵长类动物大脑新皮质占全脑容积的比例，直接决定了个体追踪和处理多边复杂社交关系的信息容量极限。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993; Karp & Zamiska, 2025, p. 190)]]
 > - **社交时间分配瓶颈（Grooming Time Bottleneck）** 面对面物理社交（如灵长类梳毛）需要投入极高的时间成本，单人时间预算无法支持与数百人维持深度互信。
 > - **语言与符号的替代升级（Linguistic Grooming）** 人类演化出复杂语言替代了肉体梳毛，极大提高了社交信息传递效率，使更大群体的交流成为可能。
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1992–1993 — 理论奠基** [[Robin Dunbar|罗宾·邓巴]]发表系列灵长类演化研究，正式确立群体规模与脑容量的关联模型并提出 150 人经验常数。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993)]]
 > - **2000年代 — 组织与管理学应用** 格拉德威尔（Malcolm Gladwell）等学者将邓巴数引入企业管理与组织设计，推动高科技初创企业采用 150 人团队裂变模式。
 > - **2020年代 — 政治哲学与国家战略反思** 卡普与扎米斯卡将邓巴数用于诊断西方国家认同危机，论证宏观共同体对共享叙事的生存级依赖。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]

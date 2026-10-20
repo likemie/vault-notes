@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Michael Gove
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政策与机构治理** 确立了当代英格兰基础教育的宏观版图：推动过半数公立中小学脱离地方教育局改组为独立学院学校（Academies）；开创了中央财政通过留本基金直接孵化独立证据中介（[[Education Endowment Foundation\|EEF]]）的国家级[[Paradigm\|范式]]。
 > - **循证因果运动** 通过将[[Pupil Premium\|学生津贴]]的使用与最佳实证证据强行关联，直接激活了全英中小学校长对因果干预工具包（Toolkit）的巨量需求，间接驱动了全球最大规模的学校现场[[Randomised Controlled Trials\|随机对照试验]]网络。
 > - **政治传播与公共[[Discourse|话语]]** 树立了政客将跨国评估（[[PISA]]）作为“外来震慑”以规避实质政策论证（[[Policy Avoidance]]）的经典范例，深刻塑造了英国教育政策的[[Mediatised Governance\|媒介化治理]]形态（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **重要政治盟友** 戴维·卡梅伦（David Cameron） — 英国时任首相，全力支持戈夫开展打破地方教育官僚体制的学院化激进改革。
 > - **联合执政搭档与博弈者** 尼克·克莱格（Nick Clegg） — 英国副首相（自民党党首），以组阁政治妥协推动戈夫在保守党教育白皮书中采纳“[[Pupil Premium\|学生津贴]]”（Pupil Premium）。
 > - **外部战略合作伙伴** [[Peter Lampl\|彼得·兰普尔爵士]] — [[Sutton Trust\|萨顿信托]]创始人，与戈夫达成共识并成功竞得 1.25 亿英镑留本基金联合创办 [[Education Endowment Foundation\|EEF]]。

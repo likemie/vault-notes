@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Axel Honneth
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1949** 出生于德国埃森。
 > - **1970 年代** 在波恩大学与波鸿大学研读哲学与社会学，深受青年[[Georg Wilhelm Friedrich Hegel|黑格尔]]派与早期[[Critical Theory|批判理论]]启发。
 > - **1982** 在柏林自由大学完成博士论文，受[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）邀请赴[[Max Planck|马克斯·普朗克]]研究所担任助理研究员，正式[[Infusion Approach|融入法]]兰克福学派正统谱系。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Critical Theory|批判理论]][[Paradigm|范式]]转型** 霍耐特成功完成了批判理论从[[Jürgen Habermas|哈贝马斯]]偏重抽象语言交往理性向关注微观情感体验、道德伤害与心理承认的“承认转向”（Recognition Turn）。
 > - **当代政治哲学与多元文化论** [[Recognition Theory|承认理论]]深刻重塑了国际上关于身份认同政治、性别平等、种族平权与少数族裔正义的学术范式。
 > - **教育哲学与[[Critical Pedagogy|批判教育学]]应用** 尼尔森（[[Klaus Nielsen]]）等学者将承认理论引入教育社会[[Ontology|本体论]]，指出真正的[[Dialogue in Education|教育对话]]建立在相互承认基础之上；该理论为批判[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》将学生物化为刺激—反应控制终端提供了最深层的哲学批判武器。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]

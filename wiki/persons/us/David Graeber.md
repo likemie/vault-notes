@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # David Graeber
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1961** 出生于美国纽约市一个工人阶级家庭。
 > - **1996** 获得芝加哥大学人类学博士学位，师从马歇尔·萨林斯（Marshall Sahlins），在马达加斯加开展长期[[Fieldwork|田野调查]]。
 > - **1998–2005** 任教于耶鲁大学人类学系。
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **技术批评理论路径** 打破了数字技术的单一进步神话，将技术研发方向与资本主义劳动控制机制紧密结合。
 > - **社会运动动员路径** 其关于经济不平等与官僚主义的批判深刻启发了全球反紧缩与数字人权运动。
 > - **战略反思路径** 卡普与扎米斯卡（2025）将格雷伯对互联网浅层化的尖锐批判引入技术大战略分析，呼吁重塑科技界对硬核工程的文明雄心。
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **博士导师** 马歇尔·萨林斯（Marshall Sahlins） — 著名人类学家，《石器时代经济学》作者。
 > - **晚期合作者** 戴维·温格罗（David Wengrow） — 伦敦大学学院考古学教授，合著《万物的黎明》。
 > - **跨界对话者** [[Peter Thiel|彼得·蒂尔]] — 虽政治立场截然对立，但两人对“科技停滞于 140 字符与屏幕”的批判高度共鸣。
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为图书馆与邮购目录的反思，批评科技界回避物理工程（Ch. 4）；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]] 借“飞行汽车去哪了”批判[[Consumer Internet|消费互联网]]挤出硬核创新。
 
 

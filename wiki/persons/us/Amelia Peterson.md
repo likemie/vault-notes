@@ -37,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -46,7 +46,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Peterson 的核心贡献在于论证"什么有效"（以黑箱 [[Randomised Controlled Trials\|RCT]] 为中心）与[[Improvement Science\|改进科学]]（以网络化[[Practitioner Enquiry\|教师探究]]为中心）**并非对立而是互补**。她提出了一个双向整合框架：
 >
 > 1. **[[Mechanism Experiments\|机制实验]]** 改革 RCT 设计——从评估整个项目转向测试可迁移的教育变革机制
@@ -65,12 +65,12 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and [[Improvement Science]]. *International Journal of Research & Method in Education*, 39(3), 299–313. — 提出"什么有效 2.0"整合框架，以[[Mechanism Experiments\|机制实验]]和网络化改进为双重支柱
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 受 **Cartwright and Hardie (2012)** 关于 [[Randomised Controlled Trials\|RCT]] 仅适用于二选一决策的论证影响——这是 Peterson 论证"什么有效"需要改革的核心前提
 > - 受发展经济学[[Random Assignment\|随机化]]传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments\|机制实验]]的概念直接源自此传统
 > - 与 **Bryk et al. (2015)** 的[[Improvement Science\|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立[[Paradigm\|范式]]

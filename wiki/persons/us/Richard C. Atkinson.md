@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Richard C. Atkinson
@@ -75,7 +75,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1929** 出生于美国伊利诺伊州橡树园（Oak Park, Illinois）。
 > - **1955** 获印第安纳大学（Indiana University）心理学博士学位，师从数理心理学先驱威廉·埃斯蒂斯（William K. Estes）。
 > - **1968** 在斯坦福大学（Stanford University）心理学系任教期间，与理查德·希夫林共同提出著名的阿特金森-希夫林记忆三阶段模型，奠定现代认知心理学基础框架。
@@ -111,7 +111,7 @@ updated: 2026-10-15
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **国家科学政策与产学协同路径** 在 [[National Science Foundation|NSF]] 与联邦立法进程中将大学基础科学从冷战防务单一定位拓展为国家[[Systems of Innovation|创新系统]]的核心支柱，为《[[Bayh-Dole Act of 1980|拜杜法案]]》时代的现代产学[[Technology Transfer|技术转移]]与联合研发奠定了组织模式范本。
 > - **公立高等教育系统建设路径** 将加州大学圣迭戈分校与整个加州大学系统打造为兼具世界一流基础科研与区域经济反哺能力的旗舰公立大学典范，开创了现代公立[[Research Universities|研究型大学]]与高新产业集群深度共生的组织形态。
 > - **教育评价与招生改革路径** 推动美国大学入学测试摆脱对孤立词汇与机械刷题的考察，引导基础教育与高等教育评价走向强调[[Critical Thinking|批判性思维]]、写作能力与高级数学推理的综合考查轨道。

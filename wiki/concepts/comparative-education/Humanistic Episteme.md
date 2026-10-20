@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Humanistic Episteme
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **全人文化教化（[[Paideia]] / [[Bildung]]）本体** 超越职业培训与技能传授的狭隘功利算计，将教育理解为涵养伦理自觉、理性判断与文化认同的精神培育过程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **以人（Anthropos）为中心的价值取向（Anthropocentrism）** 坚决抵制将人异化为国家官僚机器或经济增长引擎的工具化倾向，坚守教育服务于人的全面自由发展的至高地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977; Kazamias, 2009: 52, 引自 Kazamias, 2009b)]]
 > - **跨越学科边界的广义科学观（Wissenschaft）** 视比较教育学为跨越人文学科与[[Scientific Method\|经验科学]]边界的综合智慧系统，与哲学、历史学和宗教学深度贯通。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1959: 299; Kazamias, 2009: 39, 引自 Kazamias, 2009b)]]
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪中后期 — 维多利亚人文批判先声** [[Matthew Arnold\|马修·阿诺德]]发表《文化与无政府状态》，确立以“甘美与光明”的古典文化抗衡自由放任市侩功利主义的人文教育[[Paradigm\|范式]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Arnold, 1869; Kazamias, 2009: 38, 引自 Kazamias, 2009b)]]
 > - **1900–1950 年代 — 历史-哲学奠基者的体系化建构** [[Michael Sadler\|萨德勒]]确立[[Intangible Spiritual Forces\|校外无形精神力量]]命题；[[Isaac Kandel\|坎德尔]]将比较教育定位为哲学思辨与观念史考察；汉斯引入德语 *Vergleichende Erziehungswissenschaft* 范式；[[Robert Ulich\|乌利希]]将西欧古典哲学史注入比较研究。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Kandel, 1933; Hans, 1949; Ulich, 1961; Kazamias, 2009: 39–52, 引自 Kazamias, 2009b)]]
 > - **1960–1970 年代 — [[Positivism\|实证主义]]科学化运动的边陲化放逐** 诺亚、埃克斯坦、霍姆斯与埃普斯坦以可度量性、指标预测与假设检验为武器，批评人本学派“沉溺历史细节”、“濒临神秘主义”且缺乏应用政策效能，人本[[Epistemology\|认识论]]遭遇全面退潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Noah & Eckstein, 1969; Holmes, 1965; Epstein, 1970; Kazamias, 2009: 53–54, 引自 Kazamias, 2009b)]]

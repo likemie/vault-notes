@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Remi Adekoya
@@ -55,7 +55,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1977** 出生于尼日利亚拉各斯，后移居波兰并获华沙大学政治学硕士学位。
 > - **2000年代** 在波兰主流媒体担任外事政论记者与专栏作者，亲历后共产主义转型期的身份认同博弈。
 > - **2016** 获得英国谢菲尔德大学政治学博士学位，专注于全球化背景下身份政治与族群冲突研究。
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政治伦理反思路径** 挑战了后现代与[[Critical Theory|批判理论]]将身份标签与道德正义简单绑定的教条，推动了政治学界对普遍道德主体性的反思。
 > - **公共辩论介入路径** 为破除文化战争中的二元对立提供了严密的学理武器。
 > - **科技防务伦理路径** 卡普与扎米斯卡（2025）引入阿德科亚的论断，批判科技界以[[Moral Dualism|道德二元论]]为由逃避参与国防安全构建的认知偏误。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** 卡米尔·莫林（Camille Morin） — 共同探讨[[Moral Dualism|道德二元论]]与现代政治伦理的批评学者。
 > - **[[Critical Theory|批判理论]]论敌** [[Paulo Freire|保罗·弗莱雷]]（Paulo Freire） — 其《被压迫者教育学》中“被压迫者从不发起暴力”的二元论断是阿德科亚重点解构的对象。
 > - **学术对话与证据引用者** [[Lawrence H. Keeley|劳伦斯·基利]]（Lawrence H. Keeley） — 演化人类学学者，其《文明前的战争》为阿德科亚提供了前国家暴力的实证依据。
@@ -147,6 +147,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿德科亚关于[[Moral Dualism|道德二元论]]与道德屈尊的深刻批判，破除阻碍科技精英参与国家防务技术构建的道德洁癖。
 

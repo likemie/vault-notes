@@ -60,7 +60,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -69,7 +69,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > - 曾任教于利兹大学（University of Leeds）和爱丁堡大学（University of Edinburgh）
 > - 后任职于诺桑比亚大学（Northumbria University）健康、社区与教育研究学院
 > - 学术活跃期覆盖 2003–2019 年，研究重心从学校改进（*Schools of Hope*, 2003）逐步转向 [[Evidence-Based Education\|EBE]] 方法论批判（2018, 2019）
@@ -77,7 +77,7 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Wrigley, T. (2003). *Schools of hope: A new agenda for school improvement.* Stoke-on-Trent: Trentham Books.
 > - Wrigley, T., Thomson, P., & [[Bob Lingard\|Lingard, B.]] (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
 > - Wrigley, T. (2016). *Learning in a new key: Engaging with the real.* Bristol: Policy Press.
@@ -86,7 +86,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Wrigley 的学术贡献集中在**对 [[Evidence-Based Education\|EBE]] 方法论的多层次解构**
 >
 > 1. **三层批判框架** Wrigley 独特之处在于不只在 [[Randomised Controlled Trials\|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis\|元分析]]中复合，在[[Meta-meta-analysis\|元-元分析]]（Hattie / [[Education Endowment Foundation\|EEF]] Toolkit）中进一步失真。
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Evidence-Based Education]] — 补充 Biesta 的哲学批判（三重缺陷）和 Cowen 的制度批判（官僚功能），提供**方法论内部的三层级技术解构**（2018）和**科学哲学层面的"简单科学观"批判**（2019）
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size\|效应量]]问题、Blatchford [[Teaching Assistant\|教学助理]]被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis\|元-元分析]]的三级聚合失真
@@ -131,7 +131,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - **替代方案的具体性不足** Wrigley 推崇 Pawson 的"[[Realist Evaluation\|实在论综合]]"作为统计[[Meta-analysis\|元分析]]的替代，但未讨论如何将其简化为一线教师可用的工具——实在论综合比"计算平均[[Effect Size\|效应量]]并放入排名表"复杂得多。
 > - **对量化方法的全面不信任** 论文论证火力几乎全部指向统计方法的缺陷，在 [[Evidence-Based Education\|EBE]] 辩论中容易被定位为"反量化"而非"方法多元"——尽管 Wrigley 明确承认"数字本身不是问题"。
 > - **[[ResearchED]] 分析的简化** 将 ResearchED 定性为服务于政府议程的"草根运动"可能低估了一线教师主动参与 ResearchED 的专业自主性。

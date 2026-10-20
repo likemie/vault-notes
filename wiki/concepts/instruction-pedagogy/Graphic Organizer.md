@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Graphic Organizer
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **空间隐喻表征（Spatial Metaphors）** 利用空间邻近性、包含关系与层级走向编码语义关联，借助大脑海马体与大脑皮层的空间感知通道实现长时记忆联结。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 > - **核心信息筛选与提炼（Key Information Selection）** 剥离非关键细节与表层语言冗余，凸显核心概念节点与关键证据要素。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–2)]]
 > - **结构拓扑与层级组织（Structural Topology & Hierarchy）** 通过中心辐射、逻辑推论链或概念交叉网络，清晰呈现概念间的从属、因果、对立与协同关系。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
@@ -221,5 +221,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验图形组织器对[[Higher-Order Thinking Skills\|高阶思维]]的总体促进效应（$g = 0.778$）并揭示导图类型、思维层级、思维类型与学段调节机制。

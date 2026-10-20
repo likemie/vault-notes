@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Initial Teacher Training
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 初始教师培训（ITT） | 初始教师教育（ITE） | 持续专业发展（CPD） |
 > |---|---|---|---|
 > | **主导逻辑** | 实用技能训练与法定标准达标 | 学术理论滋养与批判反思探究 | [[Lifelong Learning\|终身学习]]、专业深化与晋升进阶 |
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多元培养路径（Training Routes）** 涵盖大学主导的教育学研究生证书（PGCE）、学校主导的校本培训（SCITT）、学校直通车（School Direct）以及针对优秀毕业生的直接入职计划（Teach First）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–90)]]
 > - **法定标准与课程规程（Statutory Standards）** 国家制定的教师专业标准与核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），严格规定职前阶段必须掌握的认知科学理论与实践技能。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **临床实践整合（Clinical Practice Integration）** 将大学[[Discipline-Based Theory\|学科理论]]与中小学沉浸式实习深度交织的实践教学机制，强调导师带教、现场观察与教学微格反思。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 92)]]
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1984 年 — 显性国家介入的开端** 成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），首次以中央通令规范职前课程标准与教师资质认证。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **1994 年 — 专门官僚机构统管** 依据《1994年教育法》成立[[Teacher Training Agency\|教师培训署]]（TTA），直接掌控招生指标拨款与全国培训课程大纲。
 > - **2010 年 — 学校主导[[Paradigm\|范式]]转向** 联合政府发布[[The Importance of Teaching\|《教学的重要性》]]白皮书，大力推行校本培训（SCITT）与学校直通车（School Direct），削减大学配额。
@@ -173,5 +173,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。

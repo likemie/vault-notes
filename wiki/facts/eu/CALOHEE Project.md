@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # CALOHEE Project
@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 成为欧洲高等教育区（[[Bologna Process|EHEA]]）推动成果导向与[[Constructive Alignment\|建构性对齐]]的官方推荐标杆。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 > - **实践影响** 为欧洲高校教师攻克“63% 高校在课程转译遇阻、66% 高校在考核对齐中受挫”的制度瓶颈提供了现成操作方案。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–29)]]
 > - **知识影响** 开创了高等教育领域将宏观资格框架向下贯通至具体学科微观课堂任务的系统转译理论模型。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]

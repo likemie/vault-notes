@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -61,7 +61,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse\|WWC]] 审查程序未捕获 [[Single-Case Design\|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design\|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）(pp.460–461)。
 >
 > 论文的核心问题可以分解为两个层面：
@@ -70,7 +70,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**(Shadish, 1995; Shadish, Cook & Campbell, 2002)为理论基础：
 >
 > - **[[Internal Validity\|内部效度]]** [[Causality\|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"[[Necessary and Sufficient Conditions\|必要条件]]"（sin qua non）(p.461)
@@ -81,14 +81,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 评论（Commentary）——对 Maggin et al. (2013) 的回应性评论
 > - **论证方式** 基于作者作为 [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]] 标准共同开发者（Kratochwill and Hitchcock 是标准技术文档的作者）和专家组成员的第一手知识，对审查程序进行解释性澄清
 > - **数据来源** WWC [[Single-Case Design\|SCD]] Pilot Standards 技术文档(Kratochwill et al., 2010)、SCD Review Guide（公开可获取）、WWC Repeated Reading 干预报告(2014)
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > ### 1. 误解的来源
 >
 > Maggin et al. (2013) 得出"[[What Works Clearinghouse\|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[Single-Case Design\|SCD]] 设计标准"(p.460)。但审查程序不能仅从设计标准本身理解：
@@ -121,7 +121,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. **[[Internal Validity\|内部效度]]判断的一致性不令人惊讶** Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除[[Threats to Internal Validity\|内部效度威胁]]的逻辑适用于多种设计类型(p.462)
 >
 > 2. **[[External Validity\|外部效度]]判断更复杂且有内在原因** 评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"；另一原因是审查者不知道消费者希望推广到何处(p.463)
@@ -132,7 +132,7 @@ citation_aliases:
 
 ## 可继续提取的信息
 
-> [!note-] 可继续提取的信息
+> [!note-|notitle] 可继续提取的信息
 > - **[[Single-Case Design\|SCD]] 的基础定义与适用范围** 论文明确将 [[Single-Case Design\|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域(p.460)。
 > - **单项 SCD 与政策证据之间的距离** 作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change\|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究。
 > - **推广性判断的具体信息项**[[What Works Clearinghouse\|WWC]] SCD Review Guide 记录基线描述、因[[Variable\|变量]][[Definition of Terms\|操作性定义]]、[[Independent Variable\|自变量]]/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境(pp.464–466)。
@@ -141,7 +141,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “重要的是要注意，这些标准并非孤立使用，因此如果不考虑审查方案以及被称为 [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]]（[[Single-Case Design\|单一个案设计]]）审查指南的工具，就无法完全理解概括性的细节。”
 > ("It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]] review guide.") (p.460)
 >
@@ -156,7 +156,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > ### 论文自身承认的局限
 >
 > 1. **5-3-20 规则的任意性** 规则"在某种程度上是任意的"(p.466)，类似于 p < .05 的惯例也是任意的(Cohen, 1994)

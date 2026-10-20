@@ -47,12 +47,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 核心主张
 
-> [!info] 核心主张
+> [!info|notitle] 核心主张
 > [[Bureaucracy|官僚制]]本质上是信息处理金字塔：信息从底层向上汇总分析，决策从顶层向下分派执行。**主权者（sovereign）面临的不是下属自利问题，而是[[Knowledge Questions\|知识问题]]**——她无法获得全景式把握，也无法提供完美指令。因此官僚制的核心挑战是：如何委托权力与资源，使得下属在没有完整监督的情况下做出与主权者意愿一致的决策。
 >
 > > "The sovereign cannot gain a synoptic grasp of all the relevant information nor provide perfectly detailed instructions for all her subordinates." ([[Argument_Cowen_2019_ERE\|Cowen, 2019, p. 6, paraphrasing Tullock, 2005]])
@@ -108,7 +108,7 @@ updated: 2026-10-16
 
 ## 发展脉络
 
-> [!note-] 发展脉络
+> [!note-|notitle] 发展脉络
 > - **1965/2005** — Tullock 在 *The Politics of [[Bureaucracy]]* 中提出官僚制的[[Knowledge Questions\|知识问题]]模型
 > - **1968/1994** — Niskanen 提出官僚预算最大化模型（与 Tullock 不同，Niskanen 假设官僚自利）；Dunleavy (1991) 提出官僚 career-driven 模型
 > - **2019** — Cowen 将 Tullock 模型扩展至 [[Evidence-Based Education\|EBE]]，从公共选择角度解释[[Experimental Research\|实验研究]][[Paradigm\|范式]]为何占据主导
@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 ## 研究范式
 
-> [!info] 研究[[Paradigm\|范式]]
+> [!info|notitle] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** 方法个体主义（[[Methodological Individualism]]）+ [[Bounded Rationality\|有限理性]]（bounded rationality）
 > - **所属传统** 公共选择理论（Public Choice）、奥地利经济学[[Knowledge Questions\|知识问题]]传统（Hayek, 1945）
 
@@ -159,7 +159,7 @@ updated: 2026-10-16
 
 ## 应用领域
 
-> [!success] 应用领域
+> [!success|notitle] 应用领域
 > - [[Evidence-Based Education]] — Cowen 用 Tullock 框架解释 EBE 的官僚功能
 > - 教育问责制设计
 > - 公共部门改革的政治经济学分析

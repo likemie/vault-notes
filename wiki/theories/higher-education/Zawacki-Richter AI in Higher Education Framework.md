@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Zawacki-Richter AI in Higher Education Framework
@@ -45,7 +45,7 @@ updated: 2026-10-15
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 高等教育与广泛教学环境中人工智能技术的多维应用形态、功能层级与学生全生命周期支持机制。
 > - **理论问题** 回应人工智能教育应用（AIEd）研究长期存在的“重技术开发、轻教学法整合”、“概念泛化与应用边界模糊”等学科痛点。
 > - **理论类型** 系统分类理论与教学法[[Analytic Framework\|分析框架]]（Taxonomical & Pedagogical Analytical Framework）。

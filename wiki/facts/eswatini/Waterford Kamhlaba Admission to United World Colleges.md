@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Waterford Kamhlaba Admission to United World Colleges
@@ -89,7 +89,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **反种族隔离实践进入正式网络** 南部非洲的多种族教育经验补充了此前以欧洲、北美和新加坡为主的扩展地理。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 122–126)]]
 > - **关联成为制度整合阶段** 校际联系、课程转换、财政谈判和成员评估共同构成加入路径，关联不再只是名称授权。
 > - **既有学校形态得到容纳** 反种族隔离起源、共同生活和社区服务能够补偿全龄、缴费和既有治理结构与经典书院的差异。

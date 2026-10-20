@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # HEInnovate
@@ -68,7 +68,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 成为全欧乃至全球最权威的创新型大学自评框架，已有逾 1,000 所高校参与自评。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 > - **实践影响** 帮助大学管理层识别教学法与评价体系中的僵化壁垒，为院系引入[[Creativity\|创造力]]表现任务与创业实践考核提供了清晰路线图。
 > - **知识影响** 拓宽了高等教育评估的边界，将创造力与创新能力确立为衡量世界一流大学组织活力的核心维度。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Søren Kierkegaard
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1813年** 出生于丹麦哥本哈根一个虔敬派基督教富商家庭。早年体弱多病，父亲深沉的负罪感与严苛宗教氛围对其终身思考产生了不可磨灭的精神印记。
 > - **1830–1840年** 进入哥本哈根大学攻读神学，期间广泛涉猎哲学与古典文学。深受[[Socrates\|苏格拉底]]反讽与生存探索的吸引，逐渐对风靡欧洲的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]客观唯心主义体系产生根本质疑。1840年以《论反讽概念》（*Om Begrebet Ironi*）完成学位答辩。
 > - **1840–1841年** 与雷金娜·奥尔森（Regine Olsen）订婚，但因感到自身内在的忧郁与神圣使命无法融入世俗婚姻，于次年断然解除婚约。这一剧烈情感创伤催化了其一生爆发性的哲学创作。前往柏林旁听[[Thomas Schelling|谢林]]（Schelling）讲座，随后彻底与德国观念论体系决裂。
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了欧陆存在主义哲学传统，直接启迪了后世对在世生存、存在先于本质及生存自由的探索，构成了20世纪欧陆人本主义哲学的源头活水。
 > - **方法路径** 深刻动摇了[[Positivism\|实证主义]]方法论一元论的合法性垄断，为社会科学与教育研究中的[[Interpretive Paradigm\|诠释范式]]、[[Qualitative Research\|质性研究]]与人本主义探究（如[[Anthropomorphic Model\|拟人化模型]]、[[Participatory Action Research\|参与式行动研究]]）提供了不可动摇的[[Ontology\|本体论]]与[[Epistemology\|认识论]]论辩武器。
 > - **政策与实践批判** 为反思当代教育治理中“数据主义”、“量化绩效问责”与[[Scientism\|科学主义]]霸权提供了存在论批判资源，警示教育不能将鲜活的学生还原为冰冷的测验分数与行为指标。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **哲学论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（G. W. F. Hegel） — 批判黑格尔构建吞噬个体激情的客观历史理性大厦，主张思辨体系无法安顿个体的真实生存困境。
 > - **存在论回响** 存在主义哲学群落 — 承袭其焦虑、绝望、自由决断与生存优先于本质的核心母题。
 > - **社会学与教育学转译者** [[Louis Cohen]]、[[Keith Morrison]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]） — 将其作为打破教育研究中[[Positivism\|实证主义]]垄断、确立自然主义与拟人化探究合法性的理论基石。

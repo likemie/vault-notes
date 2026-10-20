@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Elite Theory
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 宏观国家政策制定与议程设置中少数政治领袖、官僚中枢、商业巨头与主流学术权威对公共决策的垄断控制机制。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 2–3, 9–10)]]
 > - **理论问题** 强力[[Critical Pluralism|批判多元主义]]关于“社会多元群体公平竞争且权力高度分散”的虚假预设，揭示在高度专业化与技术化的决策[[Champ|场域]]中，普通公众与一线从业人员的真实偏好如何被系统性[[Epoché|悬置]]。
 > - **理论类型** 解释性政治社会学理论与批判性政策[[Analytic Framework|分析框架]]。

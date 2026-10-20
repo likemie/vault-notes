@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2010s — 创新扩散与[[Evidence-Based Education\|循证教育]]的长期平行动线** [[International Education\|国际教育]]界一方面热衷于各类以设计思维、技术赋能为代表的“颠覆式创新”，另一方面大力推行“什么有效”的严格[[Randomised Controlled Trials\|随机对照试验]]评估，两者处于长期缺乏对话的互斥状态。
 > - **2020 — Révai 在 [[OECD]] 提出知识动力学模型** Noémi Révai 发表 OECD 教育工作论文，通过对教师专业知识网络与案例的大规模梳理，正式提出融汇证据中介与创新循环的证据-创新知识动力学模型。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型前沿审视中的理论升华** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 在全书第二章将该模型确立为克服宏观动员模型“功能人为割裂”与“忽视非学术知识”的两大前沿微观支柱之一，呼吁未来全系统生态模型必须以证据与创新深度共生为轴心进行重构。
@@ -169,7 +169,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评析 Révai 的证据-创新知识动力学模型，确立其在打破动员与创新割裂上的理论基石地位。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 在 [[OECD]] 导言中系统阐述教师网络与专业生态系统对教育创新的支撑机制。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 探讨[[School Enquiry Cycle\|学校探究循环]]中如何将外部实证研究与校本教学创新闭环整合。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Allan Bloom
@@ -70,7 +70,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1930** 出生于美国印第安纳州印第安纳波利斯。
 > - **1955** 获得芝加哥大学社会思想委员会博士学位，师从政治哲学家列奥·施特劳斯。
 > - **1960–1970年代** 先后任教于芝加哥大学、耶鲁大学、康奈尔大学与多伦多大学，翻译并注解[[Plato|柏拉图]]《理想国》与[[Jean-Jacques Rousseau|卢梭]]《爱弥儿》。
@@ -108,7 +108,7 @@ updated: 2026-10-17
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论对话者** [[Francis Fukuyama|弗朗西斯·福山]] — 1989年在《国家利益》对其[[End of History Thesis|历史终结论]]作出深刻的哲学商榷与批判。
 > - **思想对话者** [[Michael Sandel]] — 共同剖析战后自由主义文化与高等教育面临的道德空洞化困境。
 > - **学术导师** 列奥·施特劳斯（Leo Strauss） — 施特劳斯学派奠基人，确立了回归古典政治哲学的学术路径。

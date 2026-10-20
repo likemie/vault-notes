@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Parametric and Non-parametric Tests
@@ -97,5 +97,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.2 节系统区分参数与非参数测验的定义、假设、统计适用性和使用场景，并引用 Morrison（1993）对参数测验三项假设的归纳

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # George Papadopoulos
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1926** 出生于希腊，后赴英国牛津大学深造，获历史学博士学位。
 > - **1961** 伴随[[OECD|经合组织]]（OECD）由[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）改组成立，进入其早期的科学与技术人员办公室（Office for Scientific and Technical Personnel, [[Office of Science and Technology Policy|OSTP]]）任职，参与科技人力规划相关项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **1968** 深度参与筹划与创建[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI），推动经合组织摆脱狭隘的冷战科技人力竞赛，全面探索经济增长的定性维度与教育的多元社会文化目标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 其著作《1960–1990年的教育：[[OECD|经合组织]]视角》为全球教育治理与比较教育学提供了不可或缺的历史基准档案，深刻揭示了战后国际组织如何在经济功利与社会伦理之间维持动态平衡。
 > - **方法路径** 开创并奠定了以国别政策审查（National Reviews）和跨国专题研究（Thematic Reviews）为基础的自愿[[Peer Debriefing|同行审议]]（Peer Review）定性方法，开创了重在政策阐释与反思的组织学习模式。
 > - **政策路径** 主导创立[[Centre for Educational Research and Innovation|CERI]]，推动经合组织在残障儿童教育、多元文化教育、女性受教育权、师资培养及弱势群体补偿等广泛社会公平议题上开展长达二十余年的开拓性项目。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **机构平台** [[OECD]] — 长期任职教育副司长；[[Centre for Educational Research and Innovation|CERI]] — 核心创建者与副主任；[[Organisation for European Economic Co-operation|OEEC]] — 早期职业发端机构。
 > - **学术研究与史学对话者** [[Fazal Rizvi]] — 澳大利亚比较教育学家，系统挖掘帕帕多普洛斯档案；[[Bob Lingard]] — 批判政策学者，将其时代与新自由主义全球转向作比较对照。
 

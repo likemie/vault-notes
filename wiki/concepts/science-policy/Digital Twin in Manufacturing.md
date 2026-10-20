@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Digital Twin in Manufacturing
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 制造数字孪生（Digital Twin / 虚拟晶圆厂） | 传统离线统计过程控制（[[Statistical Process Control\|SPC]]） | 计算机集成制造与制造执行系统（CIM / MES） |
 > |---|---|---|---|
 > | **建模深度** | 融合第一性原理物理化学方程与全厂原位多模态传感器数据 | 基于离线批量抽检数据的正态分布与控制图统计分析 | 厂区设备稼动率、物流批次工单与物料追溯系统建模 |
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2002 — 产品生命周期管理概念萌芽** 迈克尔·格里夫斯（Michael Grieves）在密歇根大学正式提出“概念理想镜像（Conceptual Ideal for PLM）”，奠定了物理实体、虚拟系统与虚实数据流双向联结的数字孪生基础架构。
 > - **2010s — 航空航天与重型复杂装备推广** [[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）与美国空军将数字孪生系统性引入飞机机身疲劳寿命监测与运载火箭遥测维护，实现基于高保真多物理场仿真的寿命预测。
 > - **2020s — 半导体纳米制造全流程虚拟化跃升** 随着 3nm/2nm 环绕栅极（GAA）晶体管及极紫外（EUV）光刻引入，万级微观物理[[Variable|变量]]使得纯人工经验失效，[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、应用材料等龙头企业全面推进全流程半导体数字孪生与智能晶圆厂。
@@ -181,5 +181,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将第一性原理材料计算、高通量原位计量与 AI/物理融合模型相结合，推进全厂级制造数字孪生（Fab Virtualization）以加速后摩尔制造工艺收敛与良率优化的国家战略路线（pp. 19–20, 26）。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reciprocal Control Mechanism
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2001 年 — 后发工业化国家理论奠基** 发展经济学家爱丽丝·阿姆斯登（Alice Amsden）在《“其余国家”的崛起》（*The [[Research in Schools Evaluation|RISE]] of 'the Rest'*）中正式确立“对等控制机制”概念，指出东亚后发经济体成功的关键在于政府将出口配额、质量标准与国产化率作为向私营财阀发放补贴和贷款的法定交换条件。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 > - **2023 年 — [[Modern Industrial Policy|现代产业政策]]附加条件分类学** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）与丹尼·罗德里克（Dani Rodrik）发表工作论文，系统建立涵盖获取条件、利润分享条件与运营约束的附加条件分类学，将对等控制从传统东亚追赶语境拓展为全球绿色与数字转型的普适原则。
 > - **2024 年 — 地缘大国半导体产业政策实证检验** 布尔福内等人将对等控制机制运用于美欧[[CHIPS and Science Act|芯片法案]]比较，揭示集权模式（美）与去中心化协调模式（欧）在对等控制强度与政策成效上的深层制度鸿沟。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
@@ -155,5 +155,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 结合阿姆斯登理论与现代附加条件分类学，系统比较美欧半导体法案中对等控制机制的制度形态、约束强度与执行困境（pp. 14–17）。

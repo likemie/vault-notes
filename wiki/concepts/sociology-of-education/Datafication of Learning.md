@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Datafication of Learning
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **微观认知经验的[[Commensuration\|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance\|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO\|联合国教科文组织]]、[[OECD\|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 质量保证运动与从教向学转移** 全球公共管理改革倡导“以学生产出为导向”，高等教育与基础教育界开始普及学习成果（Learning Outcomes）分类法。
 > - **2000–2010 — 跨国测评帝国与算法基准确立** [[PISA]]、[[TIMSS]] 等大规模学生评估普及，[[Item Response Theory\|IRT]] 与 Rasch 模型将复杂的跨国学生[[Academic Achievement\|学业表现]]压缩为单一数字标尺。
 > - **2014 — 《治理知识》专著确立批判议程** 芬威克、芒热与奥斯加（Fenwick, Mangez, & Ozga, 2014）系统剖析基于比较与知识技术的教育规制机制。
@@ -211,5 +211,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在探讨[[Policy Brokerage\|政策中介]]沿政策周期的运作时，运用系统论外在化与学习数据化概念，揭示新自由主义结果规制如何被转译为微观[[Performance Indicators\|教育指标]]流水线。

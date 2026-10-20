@@ -32,7 +32,7 @@ related_persons:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-14
+updated: 2026-10-21
 ---
 
 # Federal Law No. 85-FZ on Enlightenment Activities
@@ -88,7 +88,7 @@ updated: 2026-10-14
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **国际学术合作的官僚行政壁垒大幅提高** 该法案极大地繁琐化了俄罗斯学术机构聘请外籍专家和与国外高校合办学术活动的行政流程，显著抬高了日常国际化学术网络构建的合规成本。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 46]])
 > - **限制并压缩了引智效能** 增加了外籍专家在俄开展实质性长期学术合作的合规阻碍，阻碍了人员的高效循环。
 > - **科学界自主空间的收窄** 将日常的科普讲堂和自发的学术讨论纳入行政审查，导致学者自我审查加剧，削弱了科学系统的学术活力。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 49]])

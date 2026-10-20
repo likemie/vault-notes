@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Giorgio Parisi
@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1948** 出生于意大利罗马，1970 年在罗马第一大学获得物理学学位。
 > - **1970–1980 年代** 在量子场论与粒子物理领域做出奠基性工作（如 Altarelli-Parisi 方程），随后转向统计力学，提出著名的“副本对称破缺”（Replica symmetry breaking）方法解决自旋玻璃理论难题。
 > - **2005** 在罗马马西莫宫（Palazzo Massimo）顶部架设三台高帧率同步摄像机，以每秒 10 帧的高速连续摄影对罗马火车站上空成百上千只椋鸟盘旋的动态轨迹展开三维空间坐标重构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]

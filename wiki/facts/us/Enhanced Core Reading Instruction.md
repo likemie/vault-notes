@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Enhanced Core Reading Instruction
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ECRI 与 [[Success for All]] 并列为多层全校阅读改革中达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 ECRI 如何通过 Tier 1 课堂显性规程升级与 Tier 2 辅导同构实现全校预防。
 > - [[Success for All]] — 全校多层改革经典方案，与 ECRI 形成“成套重构教材”vs“在现有教材上叠加教学规程”的两大模式对照。

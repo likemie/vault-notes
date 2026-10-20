@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Realist Evaluation
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 社会政策、教育干预及制度变革项目在复杂社会生态系统中的因果实现机制与成效演变。
 > - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量干预是否有效的扁平化经验规律（休谟恒常相继因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的深层评估需求，以及破解政策变迁定性在激进与渐进之间的假性二元对立。
 > - **理论类型** 科学实在论评估理论、中层解释框架与前沿实验设计[[Paradigm|范式]]。
@@ -241,7 +241,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 包含多重互动要素、高度依赖教师专业推理与学校组织支持的复杂教育政策和干预评估，以及具有多层利益相关主体与长时段演进的制度变迁过程。
 > - **适用边界与统计张力** 现实主义试验要求在大[[Sample Size Determination|样本量]]化试验中检验次级群体（Subgroups）与微观情境的[[Interaction Effect|交互效应]]，这往往需要极为庞大的样本量以保障统计功效；在样本规模受限时，容易出现检验力不足的方法学挑战（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
 > - **不适合解释** 纯粹物理或生理参数控制严格、不存在人类主观能动推理的封闭系统因果评估。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Infusion Approach
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 汇集 152 项实证研究，证明学科融入模式对通用与特异思维的稳健促进效果。
 > - [[Ennis's Curricular Typology]] — 阐明 Ennis 课程模式四分法的理论脉络与分类逻辑。
 > - [[Explicit Critical Thinking Instruction]] — 探讨显性思维教学原则在各学科中的具体教学法转化。

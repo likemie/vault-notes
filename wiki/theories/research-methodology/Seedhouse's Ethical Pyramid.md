@@ -29,14 +29,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Seedhouse's Ethical Pyramid
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 伦理决策如何在多个相互作用的层次上同时运作——外部规范、后果计算、道义义务和个体自主构成一个不可分割的整体。
 > - **理论问题** 回应伦理讨论中常见的单一维度化倾向——仅仅关注后果、仅仅关注规则或仅仅关注个体权利都不足以做出充分的伦理判断。
 > - **理论类型**[[Analytic Framework\|分析框架]]/决策模型——提供一个结构化的多维度伦理分析工具。
@@ -101,5 +101,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch.5)]] — 系统介绍该金字塔并将其作为全章伦理讨论的核心框架

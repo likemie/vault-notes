@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Robert Slavin
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970–1980 年代 — [[Cooperative Learning\|合作学习]]与 [[Success for All]] 创立** 获得约翰霍普金斯大学博士学位并任教；与妻子 [[Nancy Madden]] 共同创立 [[Success for All]]（SFA）整体学校改革模式，在全美推广合作学习与弱势儿童[[Early Reading Intervention\|早期阅读干预]]。
 > - **2002 — 提出“[[Evidence-Based Education\|证据本位教育]]改革”纲领** 在 [[American Educational Research Association\|AERA]] 发表 Dewitt Wallace-Reader's Digest 杰出讲座（[[Argument_Slavin_2002_ER\|Slavin, 2002]]），正式提出“[[Evidence-Based Reform\|证据本位改革]]”（EBR）概念，呼应美国《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001\|NCLB]]）与[[Institute of Education Sciences\|教育科学研究院]]（IES）建立的因果评估标准。
 > - **2007–2015 — 创立 [[Best Evidence Encyclopedia\|BEE]] 与深化方法学标准** 创办最佳证据百科全书（[[Best Evidence Encyclopedia\|BEE]]）；系统发布[[Meta-analysis\|元分析]]方法学规范（Slavin, 2008; Slavin & Smith, 2009），与长期合作者 [[Alan C. K. Cheung]] 联手发表一系列关于教育技术与中小学阅读/数学干预的大规模元分析。
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 提出并完善[[Evidence-Based Education\|证据本位教育]]改革理论，确立三条件框架与渐进累积改良模型。
 > - **方法路径** 制定了一阶与[[Meta-meta-analysis\|二阶元分析]]的方法学筛查规范（强制剔除 $d \ge 0.25$ 基线不平衡、每组[[Sample Size Determination\|样本量]]必须 $\ge 15$、排除开发者自制测验以防高估），这一规范被美国 [[What Works Clearinghouse\|WWC]] 及新一代教育技术实证学者严格继承。
 > - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦学校改善拨款必须依据实证等级投放。
@@ -168,7 +168,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术与事业终身伴侣** [[Nancy Madden\|Nancy A. Madden]] — 共同创立 [[Success for All]] 基金会与约翰霍普金斯大学 CRRE。
 > - **核心学术合作者** [[Alan C. K. Cheung]]（张志强） — 长期在 JHU CRRE 合作，共同发表大规模实验总结、教育技术[[Meta-analysis\|元分析]]，并联合推进全球循证改革国际对话。
 > - **学术论敌／批评学者** [[Gert Biesta]]（格特·比斯塔） — 欧洲人文主义教育哲学家，批评 Slavin 的[[Positivism\|实证主义]]将教育技术化、规训化，忽视了教育的目的与价值维度。

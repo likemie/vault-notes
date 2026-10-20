@@ -120,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # University-Industry Collaboration
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **战略目标对齐（Strategic Alignment）** 大学追求学术声誉、育人成效与公共效益，企业追求商业利润与市场竞争壁垒；双方通过在人才供给、技术难题攻关与经济增长上的共识化解目标冲突。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 5–7)]]
 > - **正式制度与协议矩阵（Institutional Agreements）** 涉及直接资金往来与权益划分时，通过[[Sponsored Research Agreement|赞助研究协议]]（SRA）、保密协议（NDA）、数据使用协议（DUA）及[[Master Agreement|主协议]]（Master Agreement）界定成果归属、发表权与责任边界。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, pp. 261–262)]]
 > - **差异化[[Return on Investment|投资回报]]重构（Differentiated ROI）** 大学看重前沿发表与人才培育，企业看重可上市产品与盈利，医疗机构看重临床疗效；通过以终端用户为中心的视角将分歧转化为互补动力。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]

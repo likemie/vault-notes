@@ -81,7 +81,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # What Works Network
@@ -257,7 +257,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 评估英国有效性网络与[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的早期实施成效，系统剖析工具包的呈现机制、平均[[Effect Size\|效应量]]变异、地方情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深入调研英国 9 大有效性中心与国际 15 个证据门户，提炼出中介自我循证五大支柱、需求拉动生态模型、外层大系统阻抗及三层递进评估架构，系统批判顶层官方治理模型的结构性盲区。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述英国教育有效性中心（EEF）作为国家有效性网络旗舰成员的运行机制，系统复盘其在 2500 亿英镑公共支出网络中推进学校因果试验、[[EEF Padlock Security Rating\|挂锁安全评级]]与工具包决策转化的实践经验。

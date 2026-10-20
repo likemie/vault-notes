@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Carlota Perez
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1939** 出生于委内瑞拉加拉加斯。
 > - **1970s** 在委内瑞拉能源与矿业部及工业部任职，亲历石油危机与发展中国家技术引进的制度阻滞。
 > - **1980s** 赴英国萨塞克斯大学科技政策研究所（SPRU）访学，与 [[Chris Freeman]] 展开长达数十年的密切合作。
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 成为新[[Joseph Schumpeter|熊彼特]][[Evolutionary Economics|演化经济学]]、长波创新理论及技术治理研究的核心基石学者之一。
 > - **政策路径** 其制度滞后与绿色技术[[Paradigm|范式]]转型理论被 [[OECD]]、[[EU|欧盟]]委员会及联合国贸发会议（UNCTAD）广泛采纳为产业与科技政策制定的理论参考。
 > - **教育研究启示** 揭示了职业技能培训与[[Engineering Education|工程教育]]若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心学术合作者** [[Chris Freeman]] — 共同提炼和完善“[[Techno-economic Paradigm|技术-经济范式]]”长波理论体系。
 > - **理论盟友** [[Bengt-Åke Lundvall]] — 共同将演化创新理论拓展至国家制度学习与多样性比较。
 > - **理论盟友** [[Richard Nelson]] — 共同探讨技术体制与制度环境的演化共生。

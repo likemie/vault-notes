@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Scaffolding
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **学科标准的显性化表征** 将科学共同体评估主张的隐性准则转化为学习者可操作的显性标准（如[[Scientific Explanation\|科学解释]]的相关性、因果叙事、概念框架与表征水平）。[[Argument_Han_Gutierez_2026_IJSE\|(de Andrade et al., 2019; Han & Gutierez, 2026, pp. 5–6)]]
 > - **[[Reflexivity\|反思性]]提问提示语引导** 提供针对信源[[Reliability\|可靠性]]、专家资质及自我理解盲区的定向提问支架，引导学习者主动跳出表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 > - **分布式生态嵌入** 支架不仅由教师口头提供，更分布于数字工具界面、任务规程、[[Cooperative Learning\|合作学习]]规范及提示词工程模板之中。[[Argument_Han_Gutierez_2026_IJSE\|(Puntambekar, 2021; Han & Gutierez, 2026, p. 4)]]
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2019 — CSCL [[Epistemology\|认识论]]支架概念奠基** Lin & Puntambekar 明确提出并界定认识论支架，将其与传统程序性、概念性支架区分开来，强调外显化科学探究底层认识论的重要性。
 > - **2020–2021 — 分布式支架理论深化** Puntambekar 提出分布式支架理论，阐明认识论支架如何协同分布于教师对话、学习材料与数字化工具中。
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
@@ -185,5 +185,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。

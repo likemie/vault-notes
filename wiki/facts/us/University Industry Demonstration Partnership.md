@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # University Industry Demonstration Partnership
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 详尽考证 UIDP 从 1980 年代 GUIRR 探索至 2015 年独立运作的完整组织史，并以 65 所 UIDP 成员大学为样本系统剖析中心产学办公室的微观治理架构。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角探讨产学资助与治理，援引 UIDP 2024 年关于[[Joint Faculty Appointments|联合教职]]（Joint Faculty Employment）的权威实践报告。
 > - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]] — 深入剖析校企协议中的知识产权谈判，高度评价 UIDP《合同共识》（Contract Accords 5 & 6）在化解背景与前景 IP 争议中的指南价值。

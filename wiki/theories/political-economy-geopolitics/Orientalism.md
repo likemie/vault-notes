@@ -61,12 +61,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和[[Discourse|话语]]实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明教化的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）。
 >
 > > 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的理论框架中，东方主义是[[Post-colonial Theory|后殖民理论]]的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的[[Developmentalism|发展主义]]批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
@@ -78,14 +78,14 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!example] 概念辨析
+> [!example|notitle] 概念辨析
 > - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的 **[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识[[Geopolitics|地缘政治]] > 两条理论脉络
 > - vs [[Developmentalism|发展主义]]批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"[[Discourse|话语]]如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >
 
 ## 在高等教育中的运作
 
-> [!info] 在高等教育中的运作
+> [!info|notitle] 在高等教育中的运作
 > [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 以[[Critical Geopolitics|批判地缘政治学]]的视角，展示了东方主义如何在高等教育的历史演变中持续运作：
 
 
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > - **表征的权力** 关于"东方"的知识不是对客观事实的描述，而是 **[[Discourse|话语]]建构**——它将复杂的、多样化的亚洲社会简化为同质的、可管理的"东方"形象（Said, 1983, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）
 > - **知识与权力的共构**[[Knowledge Production|知识生产]]不是独立于权力的学术活动，而是**构成权力关系的核心机制**——殖民统治不仅依赖军事和经济控制，更依赖对"什么算知识"和"谁有资格生产知识"的界定
 > - **[[Hegemony|文化霸权]]** 东方主义不仅通过强制运作，更通过**文化霸权**——被殖民者逐渐将殖民者的认知框架内化为"常识"，例如亚洲中产阶级将西方教育视为天然的"更好"选择（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 95–96]]）

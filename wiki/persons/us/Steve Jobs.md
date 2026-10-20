@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Steve Jobs
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想与文化渊源** [[Stewart Brand]] — 汲取《[[Whole Earth Catalog|全球概览]]》中反集权与获取工具的哲学。
 > - **技术社区先驱** [[Lee Felsenstein]] — 参与[[Homebrew Computer Club|家酿计算机俱乐部]]，汲取个人计算与去中心化理念。
 > - **时代记录者** [[Steven Levy]] — 利维在其《黑客》与后续专著中对乔布斯与苹果早期的反体制文化进行了经典记录。
@@ -152,5 +152,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入剖析乔布斯的反文化背景、亲密个人产品哲学及《1984》广告的抗争隐喻，论述其如何推动硅谷科技[[Paradigm|范式]]脱离国家战略使命并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

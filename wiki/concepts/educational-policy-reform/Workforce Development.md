@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Workforce Development
@@ -236,7 +236,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐释[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）设立劳动力卓越中心（WCoE）以构建从 K-12、社区学院[[Apprenticeship|学徒制]]到大学洁净室实训的全美微电子人才生态战略。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐明拜登现代产业战略中劳动力发展计划与[[Apprenticeship|学徒制]]附加条件的设计逻辑，论证技能缺口对制造业落地的硬性制约。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代半导体体系中大学如何构建微凭证至拔尖博士三级人才蓄水池，并通过组织专班化解 6.7 万岗位短缺危机。

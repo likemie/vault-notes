@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research Utilization Models
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 学术研究与实证证据如何被政策制定者、教育行政人员、[[School Leadership\|学校领导]]者与一线教师在不同情境下获取、解释、消化、转化、引用或策略性部署。
 > - **理论问题** 破除“研究产生 $\rightarrow$ 直接转化为政策或教学行动”的线性[[Technical Rationality\|技术理性]]迷思，解释为何高质量科研成果很少产生即刻的工具性应用，以及研究如何以非线性、扩散性与政治性的方式深层重构行动者的思维视界。
 > - **理论类型** 中层机制模型群与分析类型学（Typological Framework）。
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 教育政策制定、课程改革推行、学校管理决策、教师日常循证实践、教研组协作探究等涉及专业知识与行政/教学行动关系的微观、中观与宏观场景。
 > - **谨慎使用** 在完全高度标准化的封闭操作技术领域（如纯硬件设施安装、基础信息网络搭建等无需主体价值调适的纯技术场景），模型中的启蒙与政治维度解释力相对减弱。
 > - **不适合解释** 纯粹的基础认知心理学加工过程、无任何知识介入纯由偶发情绪驱动的非理性冲动行为。
@@ -228,7 +228,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1979 — 经典奠基** [[Carol Weiss\|Carol Weiss]] 发表标志性论文 *The Many Meanings of [[Research Utilization]]*，系统提出知识驱动、[[Problem Solving\|问题解决]]、互动、政治、战术、启蒙及社会智识事业 7 种经典模型，打破[[Technical Rationality\|技术理性]]垄断。
 > - **1980 — 机制深化** Weiss 发表 *Knowledge Creep and Decision Accretion*，正式提出“知识渗透”与“决策累积”概念，为[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]奠定微观认知与社会学机制解释。
 > - **1982 — 类型学提炼** Beyer & Trice 在组织研究中进一步将纷繁的利用形态凝练为**工具性（Instrumental）**、**概念性（Conceptual）** 与**象征性（Symbolic）** 三元分类，成为后续实证研究最通用的[[Operationalization\|操作化]]工具。
@@ -263,7 +263,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization\|研究利用]]模型与[[Theory of Planned Behavior\|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis\|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用文献对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。

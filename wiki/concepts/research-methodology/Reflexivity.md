@@ -106,7 +106,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reflexivity
@@ -289,7 +289,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960s–1970s — [[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]奠基** 舒茨（[[Alfred Schutz]]）提出回顾性赋予意义的时间性反思理论（Schutz, 1967）；加芬克尔（[[Harold Garfinkel]]）确立社会说明与情境相互依存的构成性反身性（Garfinkel, 1967）。
 > - **1980s — [[Ethnography|民族志]]反思浪潮与工具确立** 哈默斯利与阿特金森（Hammersley & Atkinson, 1983）确立“研究者即卓越工具”的方法论命题；阿什莫尔（Ashmore, 1989）提出[[Discourse Analysis|话语分析]]的双重反身性，反身性进入[[Qualitative Research|质性研究]]核心。
 > - **1990s — 批判转向与[[Emancipatory Action Research|解放性行动研究]]** 霍尔（Hall, 1996）与匡茨（Quantz, 1992）等学者将反身性融入解放性[[Action Research|行动研究]]与[[Critical Ethnography|批判民族志]]，反身性被提升为打破支配结构、揭示利益偏倚的[[Epistemology|认识论]]基石。
@@ -354,7 +354,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将反身性界定为[[Qualitative Research|质性研究]]核心特征，规范过往经验联结与解释塑造的双重陈述机制，强调备忘录支撑与个人经验篇幅控制（Ch. 9）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 阐述反身性的[[Phenomenology|现象学]]根基、[[Ethnography|民族志]]与[[Action Research|行动研究]]中的主体性监控与[[Meaningful Human Control|人在回路]]责任（Ch. 1, 28-30），并剖析单纯立场披露不足以消偏的边界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Ch. 31]]）。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 在[[Self-Improving School System|自我改进学校系统]]中实证检验教师的反思性专业探究，揭示深层决策假设反思滞后（55%）与表面尝试活跃（82%）的鲜明反差，阐明反思性赤字诱发[[Activity Traps|活动陷阱]]的组织机理。

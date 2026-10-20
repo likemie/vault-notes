@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # World Education Reform Database
@@ -158,5 +158,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 援引基于该数据库的实证成果，揭示 [[OECD]]（外向参照他国）与[[World Bank\|世界银行]]（自指循环闭环）在[[Policy Brokerage\|政策中介]]与经验汲取模式上的深刻裂痕。

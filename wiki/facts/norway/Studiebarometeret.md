@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Studiebarometeret
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 形成了全挪威高等教育界“以数据驱动质量文化”的信息治理典范。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 7–8, 16)]]
 > - **实践影响** 倒逼各高校院系深入反思期末考核过载与反馈滞后问题，推动以学生为中心的[[Active Learning\|主动学习]]与形成性反馈改革。
 > - **知识影响** 为 [[OECD]] 等国际组织评估北欧高教治理中信息工具（Information Tools）如何促进高校自律提供了坚实案例。

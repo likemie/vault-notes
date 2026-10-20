@@ -34,7 +34,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Student Learning Research
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 ## 应用案例
 
-> [!evidence-grid] 应用案例索引
+> [!evidence-grid|notitle] 应用案例索引
 > - **阅读任务** 学生对同一阅读要求形成表层或深层处理方式，展示学习活动的情境性及其对理解质量的影响。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 > - **Susan and Robert** 相同讲授引出不同活动，而主动任务可以缩小二人的投入差距，展示学生学习研究如何转化为教学诊断。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–59)]]
 
@@ -153,5 +153,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 重建学生学习研究的跨国理论谱系，提炼[[Phenomenography\|现象图式学]]与[[Constructivist Paradigm\|建构主义]]的共同学习观，并将其转化为[[Constructive Alignment\|建构性对齐]]。

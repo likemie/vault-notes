@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ecology of the Brain
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 心智、身体、意识与客观生活世界之间的生态构成关系，阐明人类具身主体的认知生成与情感交往机制。
 > - **理论问题** 直面认知科学与教育研究中根深蒂固的“缸中之脑”隐喻、神经还原论（将主观心智等同于神经元突触放电）以及将大脑视为主导性中央控制器的机械主义计算机模型。
 > - **理论类型** 生态[[Phenomenology|现象学]]理论、具身认知[[Theory of Mind|心智理论]]、哲学人类学分析视角。

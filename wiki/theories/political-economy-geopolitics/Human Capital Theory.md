@@ -114,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Human Capital Theory
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育与技能投资转化为个人终身收益、劳动生产率提升与国家宏观经济增长的内生因果机制。
 > - **理论问题** 破解新古典生产函数中物质资本与非技能劳动力无法完全解释的“余值增长”（索洛余值），将人类后天习得的知识与能力资本化；在战后政策中为国家追加教育公共预算、推行中央教育规划与实施跨国技术援助提供理论正当性。
 > - **理论类型** 宏观与中层经济学理论、机制模型、教育规划[[Paradigm|范式]]。
@@ -286,7 +286,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合解释** 工业化快速扩张与经济转型期，技能劳动力的供给增加对劳动生产率与早期经济增长的推动作用。
 > - **谨慎使用** 经济结构滞胀、就业市场饱和或劳动力市场严重分割的情境；在[[Credential Inflation\|文凭通胀]]（Credential Inflation）情境下易失去解释效力。
 > - **不适合解释** 基础教育中公民道德培育、批判性反思意识、审美情操等无法转化为市场价值的非认知素养。
@@ -370,7 +370,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化规训压力。

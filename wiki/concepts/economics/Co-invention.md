@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Co-invention
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1986 — 领先用户创新理论发轫** 埃里克·冯·希佩尔（[[Education Resources Information Center|ERIC]] von Hippel）在《创新源泉》中探讨用户在仪器与机械领域的自主创新行为。
 > - **1996 — 共同发明概念正式奠定** 布雷斯纳汉与格林斯坦在研究美国商业计算架构转型时正式提出共同发明（Co-invention）概念，指出用户组织变革与定制软件是信息技术落地的核心驱动力。
 > - **2002 — 组织互补资产实证检验** 布雷斯纳汉、布林约尔松（Erik Brynjolfsson）与希特（Lorin Hitt）发表微观计量研究，确证信息技术、工作组织去中心化与技能互补投资三位一体的共同发明集群。
@@ -193,5 +193,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件产业演化，阐明用户端共同发明（如企业内部软件开发与航空订票系统）如何与上游硬件创新形成双向正反馈，并深入分析了该机制向气候能源技术政策移植的适用边界。

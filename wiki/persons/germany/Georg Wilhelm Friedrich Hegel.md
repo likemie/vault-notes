@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1770** 出生于德国符腾堡公国斯图加特。
 > - **1788–1793** 就读于图宾根神学院，与荷尔德林（Friedrich Hölderlin）、[[Thomas Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）同窗研读哲学与神学，深受法国大革命思潮震荡。
 > - **1801–1806** 任教于耶拿大学，1807 年出版划时代哲学名著《精神[[Phenomenology|现象学]]》（*Phänomenologie des Geistes*）。
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **历史哲学与德意志教化谱系** 其历史辩证法与精神[[Externalization|外化]]学说，构成了德意志教化（[[Bildung]]）哲学传统的关键中枢，对后世[[Critical Theory|批判理论]]与现代哲学解释学产生了不可磨灭的思想烙印。
 > - **现代课程与制度化教育反思** 当代批判课程学者（如 Cole, 2005）认为，黑格尔式教化常被现代[[International Education|国际教育]]体制（如[[International Baccalaureate|国际文凭]]课程）内化为深层语法，批评其倾向于用客观理性框架修剪个体情感，把学生预设为等待填充的“空无认知者（[[Empty Knower]]）”。
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思[[Positivism|实证主义]]评价时，重新激活包含黑格尔在内的德意志[[Geisteswissenschaften|精神科学]]教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想激荡与哲学渊源** [[Immanuel Kant|康德]] — 黑格尔全面继承并推进了康德的主体性原则，扬弃了物自体与现象界的二元分裂，构筑了主客观统一的绝对唯心论体系。
 > - **[[Paideia|古典教化]]同道** 威廉·冯·洪堡（Wilhelm von Humboldt） — 普鲁士教育改革时期的思想同道，共同确立了以古典人文素养与哲学思辨为核心的现代大学与文科中学教育[[Paradigm|范式]]。
 > - **当代后现代批判论敌** [[Baruch Spinoza|斯宾诺莎]]、德勒兹与当代批判学者 — 借由内在性平面与情感力量，对黑格尔的国家目的论与理性规训体系展开解构。

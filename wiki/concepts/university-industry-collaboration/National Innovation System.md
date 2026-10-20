@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Innovation System
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 国家[[Systems of Innovation\|创新系统]]（NIS） | [[Regional Innovation System\|区域创新系统（RIS）]] | 部门创新系统（SIS） |
 > |------|-------------------|-------------------|-------------------|
 > | **分析对象** | 民族国家尺度上的科技、教育、实体制造与产业制度整体网络。 | 次国家地理单元（城市群、高科技走廊、工业园区）。 | 特定产业门类（如航空航天、微电子、化学工程）。 |
@@ -168,7 +168,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技能熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 > - **企业内部专业化研发实验室与研产回路** 研发部门、现场工艺工程与市场反馈的紧密回路，将发明活动制度化为常规企业职能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9, 11–13)]]
 > - **实体制造公地与工艺[[Process Knowledge|过程知识]]（[[Industrial Commons]]）** 密集的零部件供应商网络、熟练工程师与技师在产线现场沉淀的默会[[Process Knowledge|过程知识]]与[[Phronesis|实践智慧]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48, 54)]]
@@ -273,7 +273,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1841 — 思想史奠基** [[Friedrich List|弗里德里希·李斯特]]发表《政治经济学的国家系统》，批判古典经济学仅关注物质资本，提出国家通过公共教育、技术传习与产业保护培育生产力的国家系统思想。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
 > - **1982/1987 — 概念正式确立** [[Chris Freeman|克里斯·弗里曼]]在关于日本经济赶超的研究报告中首次正式提出“国家[[Systems of Innovation|创新系统]]”术语，系统提炼日本[[Ministry of International Trade and Industry|通产省]]、终身雇佣制、企业研发网络与技术集成的独特制度架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 > - **1992 — [[Bengt-Åke Lundvall|伦德瓦尔]]互动学习模型** 本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）主编《国家创新系统：迈向创新与互动学习的理论》，从微观[[User-Producer Interaction|用户—生产者互动]]与[[Tacit Knowledge|隐性知识]]流动深化了概念内涵。
@@ -343,7 +343,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角深入考证国家[[Systems of Innovation|创新系统]]的[[Friedrich List|李斯特]]渊源，通过多国长周期实证论证教育、企业研发与网络协调的决定性作用。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统提出[[Developmental Network State|发展型网络国家理论]]，运用 R&D 100 成果实证解构美国国家创新系统从寡头独立实验室走向去中心化公私协同网络的组织转型，并剖析[[Market Fundamentalism|市场原教旨主义]]造成的隐形体制病理。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理五十年来国家创新系统政策[[Paradigm|范式]]演进，界定制度、网络、锁定与能力失灵，阐释大学在国家创新系统中的全谱系职能。

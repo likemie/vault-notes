@@ -52,7 +52,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Mark Schneider
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1974** 获北卡罗来纳大学教堂山分校政治学博士学位，随后任教于纽约州立大学石溪分校，晋升为政治学杰出教授。
 > - **2000** 出版经典代表作《选择学校：消费者、社区与学校系统的改善》（*Choosing Schools*），深入考察家长[[School Choice\|择校]]行为与社会资本运作机制，荣获美国政策研究组织阿隆·维尔达夫斯基最佳著作奖。
 > - **2005–2008** 获总统任命出任美国国家教育统计中心专员，主管全美教育进展评估（[[National Assessment of Educational Progress]], NAEP）与跨州纵向数据系统建设。
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **联邦资助准则重构** 通过 [[Institute of Education Sciences\|IES]] 课题评审与资助合同的法定约束力，直接迫使全美教育因果研究界将构件拆解、成本效益核算与通用工具测量内化为研究规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
 > - **技术生态与敏捷复现** 引入数字实验平台与竞争性奖项机制，改变了传统实地田野试验耗资千万、耗时数年且极难复现的沉重周期，开创了[[Evidence-Based Education\|循证教育]]科学的敏捷迭代机制。
 > - **政策转化与产业化机制** 联合斯坦福国际研究院（Stanford Research Institute, SRI International）将市场化规模化推广条款明确植入资助指南，打破教育科研唯论文发表即结项的象牙塔闭环。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **方法学对话者** [[Robert Slavin]] — 施奈德高度认同斯莱文 2014 年对[[Developer-Made Measures\|开发者自编测验]]过度对齐导致[[Effect Size\|效应量]]虚高的实证批评，并在 [[Institute of Education Sciences\|IES]] 设立 EdInstruments 工具库作为制度化对策。
 > - **政策同行与论辩者** [[Vivian Tseng]] — 在《教育研究视角》中形成官方联邦资助派与私立慈善民主派的互补论辩；施奈德关注量化构件拆解与转化标准，曾薇薇安主张打破出资人特权、推进弱势社群赋权。
 > - **国际智库对话者** [[Dirk Van Damme]] — 共同诊断教育科研供给侧的复现赤字与质量危机；范达默主张[[Discipline-Based Theory\|学科理论]]自主演绎与蓝天基础研究，施奈德主张工程化、可复现的 SEER 卓越标准。

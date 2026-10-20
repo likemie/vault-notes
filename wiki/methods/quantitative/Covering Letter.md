@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Covering Letter
 
@@ -90,5 +90,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 详细列出封面信的十四项必要内容和跟进信的[[Recommendations for Practice\|实践建议]]。

@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Going Native
@@ -198,6 +198,6 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将本土化列为完全参与者角色的结构性核心风险，与完全观察者的推断危险构成[[Participant Observation|参与观察]]的两极困境。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 探讨比较教育实地[[Fieldwork|田野工作]]中破除欧洲中心主义文化偏见与防范过度本土化丧失批判视角之间的[[Epistemology|认识论]]张力。

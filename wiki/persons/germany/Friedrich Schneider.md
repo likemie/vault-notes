@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Friedrich Schneider
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1881** **科隆出生与[[Geisteswissenschaften|精神科学]]学术渊源** 出生于德国科隆，早年在波恩大学与明斯特大学接受系统严格的哲学、天主教神学与教育学训练。
 > - **1928** **执教科隆教育学院推动国际视野** 获聘科隆教育学院（Pädagogische Akademie Köln）教授，致力于师资培养改革，率先将跨国比较视野引入德国本土教育学。
 > - **1931** **创办《[[International Education|国际教育]]学评论》搭建跨国学术网络** 创办三语（德、英、法）学术期刊《国际教育学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*），搭建起一战后欧洲学者超越民族主义狭隘壁垒的跨国对话中枢。
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与汉斯共同树立了 20 世纪前中期以历史文化哲学为底色的比较教育经典[[Paradigm|范式]]，创立[[Theories of the Driving Forces|驱动力理论]]（Triebkräfte），使欧洲比较教育在[[Positivism|实证主义]]与[[Behaviorism|行为主义]]浪潮前牢固确立了[[Geisteswissenschaften|精神科学]]与文化因素分析的合法性。
 > - **方法路径** 规范了德语区[[Historical-Comparative Method|历史比较法]]，将个案历史发生学考察与跨国精神文化形态比照相结合，奠定了战后德国比较教育的解释学传统。
 > - **建制化路径** 创办中欧第一份跨国比较教育学术期刊《[[International Education|国际教育]]学评论》，二战后先后复兴萨尔茨堡大学与慕尼黑大学比较教育教席，为西德大学比较教育实体建制培养了骨干梯队。
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **跨国学派双璧** [[Nicholas Hans]] — 20 世纪前中期（1920s–1950s）欧洲“宏大历史文化全景”流派的代表领袖，分据英德两国遥相呼应，分别以[[Theories of the Driving Forces|驱动力理论]]与三维因素框架奠定文化主义主干。
 > - **史学评价者与学术后继** [[Wolfgang Mitter]] — 系统总结施奈德在德国与欧洲比较教育学史上的奠基地位，并在 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 延续德国比较教育的建制开拓。
 > - **比较学术史评述者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明施奈德创刊与德国教育海外影响考证在跨文化借用学术谱系中的关键坐标。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123, 126)]]

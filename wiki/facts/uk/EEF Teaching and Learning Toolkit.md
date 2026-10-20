@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 对工具包所代表的文本改写被动分发模式进行系统因果检验，并严厉批评“[[Months of Progress\|月度进步指标]]”（Months of Progress）的常模线性成长假设与对原始数据质量的掩盖。
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 评估英国[[What Works Network\|有效性网络]]与 [[Education Endowment Foundation\|EEF]] Toolkit 的早期实施成效，系统剖析五类使用形态、本地情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review\|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus\|识字八爪鱼]] [[Randomised Controlled Trials\|RCT]]）及向 [[Research Schools Network\|RSN]] 深度护航的演进逻辑。

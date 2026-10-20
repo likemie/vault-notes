@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # EU
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合诺瓦研究揭示欧盟如何在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]下，借助最佳实践、指标基准与[[Bologna Process|博洛尼亚进程]]重塑各国内政。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 解构[[EU Skills Agenda|欧盟技能议程]]与创新联盟如何依托区域记分牌与 NUTS2 [[Performance Indicators|绩效指标]]体系生产并自然化特定的治理想象。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 追踪欧盟从 2006 年起如何通过 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] [[Knowledge Mediation|知识中介]]网络与 Eurydice 报告系统推动证据知情教育政策。

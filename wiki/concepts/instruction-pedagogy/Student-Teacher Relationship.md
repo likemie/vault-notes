@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Student-Teacher Relationship
@@ -227,7 +227,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理[[John Hattie|哈蒂]][[Meta-analysis|元分析]]模型中高增益要素，确立师生关系（$d=0.72$）作为高回报干预的基准定位。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较儒家与欧美学习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 基于挪威 4,128 名中小学生调查，分析师生关系感知在男女生之间的微弱均差（$d=-0.05$）及多信息源回归中的表现。

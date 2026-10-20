@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Virtues and Vices
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **古典时期 — [[Aristotle|亚里士多德]]理智德性论** 亚里士多德在《尼各马可伦理学》中区分伦理德性与理智德性（如智慧、明智、科学知识），确立追求真理是人类灵魂的最高卓越状态。
 > - **1980–1990 年代 — [[Virtue Epistemology|德性认识论]]当代复兴** Sosa (1980) 与 Zagzebski (1996) 分别开创德性可靠论与德性责任论，将[[Epistemology|认识论]]反思的焦点从静态的“信念辩护”转向动态的“认识主体品格”。
 > - **2011 年 — [[Epistemic Cognition|认识论认知]]扩展框架整合** [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] 将理智美德与恶习引入教育心理学，确立其为多维认识论认知模型中调节证据处理与探究取向的核心维度。
@@ -223,6 +223,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 借用[[Virtue Epistemology|美德认识论]]将该概念确立为扩展[[Epistemic Cognition|认识论认知]]框架的核心支柱，指出美德评价的情境特异性，并倡导情境化测验替代粗放[[Questionnaire|问卷]]。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统阐释德性责任论的两成分构件模型（求真动机+智力技能），论证[[Generative Artificial Intelligence|生成式人工智能]]可通过提问[[Scaffolding|脚手架]]与兴趣故事激发[[Intellectual Emotions|理智情感]]，系统培育学生的[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等理智美德。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Alasdair MacIntyre
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1929** 出生于苏格兰格拉斯哥，后毕业于伦敦玛丽王后学院与曼彻斯特大学。
 > - **1970** 移居美国，先后任教于波士顿大学、范德堡大学与圣母大学。
 > - **1981** 出版代表作《追寻美德》（*After Virtue*），开辟当代美德伦理学新纪元。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基文献，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[Aristotle|亚里士多德]] — 继承古希腊目的论美德伦理与[[Phronesis|实践智慧]]传统。
 > - **论辩对手** [[John Rawls|约翰·罗尔斯]] — 批判其自由主义“原初状态”与形式[[Value Neutrality|价值中立]]论。
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用其观点批判技术精英的道德虚无。

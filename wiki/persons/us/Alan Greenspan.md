@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Alan Greenspan
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1926** 出生于美国纽约市曼哈顿。
 > - **1948–1977** 毕业于纽约大学获得经济学学士与硕士学位，1977 年获得纽约大学经济学博士学位；长期经营经济咨询公司 Townsend-Greenspan & Co.。
 > - **1974–1977** 担任福特总统的白宫经济顾问委员会（CEA）主席。
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **货币政策与宏观调控路径** 确立了美联储在应对资产泡沫与通胀预期之间的经典调控权衡逻辑。
 > - **行为金融学与市场心理学** “非理性繁荣”被罗伯特·希勒（Robert J. Shiller）等学者进一步发展为解释资产泡沫演化机理的核心[[Paradigm|范式]]。
 > - **科技大战略批判路径** 卡普与扎米斯卡（2025）重新审视格林斯潘的预警，指出应当区分“非理性”与“无差别”，强调科技投资向消费端过度倾斜的历史教训。
@@ -99,5 +99,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章援引格林斯潘 1996 年“非理性繁荣”演讲，重新诠释 1990 年代末科技泡沫的本质及其对国家战略创新的挤出效应。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Other Transaction Authority
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 其它交易授权（OTA） | 传统联邦采购合同（FAR Contract） | 联邦资助拨款（Federal Grant） |
 > |---|---|---|---|
 > | **法规适用约束** | 豁免《联邦采购条例》（FAR）及成本会计标准（[[Chinese Academy of Sciences\|CAS]]） | 严格受制于 FAR，需执行详尽成本审计与合规文书 | 遵循统一资助指南（[[OMB Uniform Guidance for Federal Awards\|Uniform Guidance]]），禁止商业采购 |
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **非传统承包商准入激励** 显著降低初创公司因缺乏政府合规系统而面临的法律准入门槛。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
 > - **里程碑式阶段付费（Milestone-Based Payments）** 以明确的硬件交付或技术指标为拨付节点，取代繁琐的成本发票审计。
 > - **知识产权与商业机密保护** 允许商业企业保留其核心专有算法与制造工艺，消除技术被公共公开的商业担忧。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1958 — [[National Aeronautics and Space Administration|NASA]] 创立之初首次获权** 《1958 年国家航空航天法案》首次赋予 NASA “订立其它交易”的权力，用于早期的太空计划探索。
 > - **1989 — [[DARPA]] 引入原型采购授权** 国会授权 DARPA 运用 OTA 开展先进双用途技术原型研制。
 > - **2015–2020s — 国防部与民用部门全面扩张** 美国国防授权法案（NDAA）将 OTA 扩展至全军种与后续小批量生产，随后能源部与卫生部门广泛引入。
@@ -140,5 +140,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论证其它交易授权在破除大学与国家实验室技术许可壁垒、盘活国家研发资产中的关键作用。

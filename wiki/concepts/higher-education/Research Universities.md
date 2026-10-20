@@ -116,7 +116,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research Universities
@@ -353,7 +353,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统追踪 1975–2006 年全美顶尖商业化创新研发组织属性演变，证实涉及大学与公共机构的协同网络上升至 87.5%；剖析研究型大学如何成为[[Developmental Network State|发展型网络国家]]的核心组织枢纽，同时从虚构商品视角揭示激进专利许可所导致的跨机构协作梗阻与公共利益失衡。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统诊断美国研究型大学面临的行政[[Red Tape|繁文缛节]]（42%–44% 时间损耗）、间接成本膨胀（40%–60%+）、避险主义与青年学者独立延后危机，提出间接费用削减、对人长期资助、金券制、[[Gold Standard Science|黄金标准科学]]与“驻校实践专家”等一揽子大学科研体制重构方案。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论证美国研究型大学从战前边缘机构确立为国家科技体系核心的制度机制（去中心化竞争、同行评议与科教共生），并剖析生物医学极化与学术避险危机。

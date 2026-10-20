@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # I-squared Statistic
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述 $I^2$ 统计量的提出背景、在证据本位实践中的应用及对传统检验的改进。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 在 341 项[[Critical Thinking\|批判性思维]]干预实证中系统报告组内 $I^2$（多数在 $60\%–75\%$ 之间）以论证混合效应调节分析的必要性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Heterogeneity\|异质性]]量化指标在教育[[Meta-analysis\|元分析]]中的解读准则。

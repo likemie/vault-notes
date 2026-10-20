@@ -110,7 +110,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence-Based Reform
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **已验证项目存量（Critical Mass of Proven Programs）** 在核心学科（阅读、数学、科学）中通过严格实验评估建立充足的强证据干预方案库，确保学校具备充足的实证方案可供选择。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速转译平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–26)]]
@@ -231,7 +231,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1974–1980 年代 — 联邦早期技术扩散先驱** 美国联邦教育部设立[[National Diffusion Network\|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 6–7)]]
 > - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001\|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“[[Scientifically Based Research\|科学本位研究]]”；斯莱文在 [[American Educational Research Association\|AERA]] 发表杰出讲座，正式提出“[[Evidence-Based Education\|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm\|范式]]。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 15–19)]]
@@ -304,7 +304,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 探究奥地利基础教育阶段证据本位与产出导向改革在学校微观层面的受纳现状，证实真正接纳循证监控工具的校长群体仅占少数，但该群体在教学领导与校本评估上表现出显著更高的实践积极性。
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm\|范式]]与反思教育研究声誉危机。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction\|RTPI]] 方案蓝图。

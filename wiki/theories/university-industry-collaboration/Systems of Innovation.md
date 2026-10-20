@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Systems of Innovation
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释技术创新的产生、扩散与商业应用过程，重点揭示多类[[Heterogeneity|异质性]]行动者（大学、科研机构、企业、金融中介与政府部门）在特定制度环境中如何通过网络连接与非市场互动进行集体学习。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]
 > - **理论问题** 破解单向[[Linear Model of Innovation|线性创新模型]]（科学发现 → 技术开发 → 商业产品）的简单因果假设，纠正新古典经济学仅将创新视为对“[[Market Failure|市场失灵]]”（公共品投资不足）之被动弥补的狭隘视野，回应各国科技投入与经济增长脱节的现实政策困境。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **理论类型** 中观与宏观维度的[[Evolutionary Economics|演化经济学]]元理论[[Paradigm|范式]]与多标量[[Analytic Framework|分析框架]]（涵盖[[National Innovation System|国家创新系统]] NIS、[[Regional Innovation System|区域创新系统]] RIS 与部门创新系统 SIS）。
@@ -291,7 +291,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 处于工业化成熟期与[[Knowledge-Based Economy|知识经济]]转型期的国家与高科技区域；分析产业集群技术外溢阻滞、科技成果转化不畅、区域大学与本地经济发展脱节等结构性问题。
 > - **成立条件** 需要被分析系统具备一定密度的基本行动者（一定数量的高校、科研院所与具备自主研发意识的企业）；需要基本的市场竞争机制与法治框架保障契约履行；需要产业具备最低限度的技术[[Absorptive Capacity|吸收能力]]。
 > - **解释不足** 
@@ -338,7 +338,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，确立创新系统的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。

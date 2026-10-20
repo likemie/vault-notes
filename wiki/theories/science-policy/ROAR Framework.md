@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # ROAR Framework
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释公共部门如何突破传统被动的市场修补思维，在应对复杂社会挑战（如气候变化、公共卫生、能源转型）的全生命周期中，系统性设计、执行、评估并管理[[Mission-Oriented Innovation Policy|使命导向型创新政策]]。
 > - **理论问题** 回应了新古典经济学“[[Market Failure|市场失灵]]”[[Analytic Framework|分析框架]]在面对21世纪重大社会挑战时的理论贫困与工具匮乏，解决如何实现方向选择、组织试错、动态价值衡量与公私利益公平分配的系统难题。
 > - **理论类型** 分析框架与政策治理理论。
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 涉及高度复杂性、跨领域协同与长期高风险投入的重大社会转型（如碳中和、老龄化健康、数字基础设施）。
 > - **成立条件** 需要具备相对稳固的政治共识、较高素质且具[[Strategic Autonomy|战略自主]]性的专业化公共行政团队，以及发育成熟的科研与产业基础。
 > - **解释不足** 对[[Geopolitics|地缘政治]]冲突、党派极化政治对长期战略使命的频繁阻断缺乏充分的制度应对方案；对发展中国家能力严重不足情境的适配性有待深化。
@@ -214,6 +214,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论文提出并系统阐释了 ROAR [[Analytic Framework|分析框架]]，作为新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心理论基石。
 

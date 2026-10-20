@@ -64,7 +64,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Rational Action Theory
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 不同社会阶级在教育获得与升学轨迹上的持续分化——特别是家庭背景在控制学业能力后，为何依然系统性地左右教育选择。
 > - **理论问题** 教育决策究竟是阶级文化的被动复制，还是阶级约束条件下的主动理性权衡？在战后初中等教育普及与高等教育大扩张背景下，为何所有阶层的绝对受教育机会均有上升，而阶层间相对差距却惊人稳固？
 > - **理论类型** 中层解释理论（Middle-Range Theory）——以“相对风险规避”（Relative Risk Aversion, RRA）为核心微观机制，连接宏观阶层分层结构与微观教育分流决策。
@@ -164,7 +164,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 现代化[[Bureaucracy|科层制]]社会中具有清晰资格认证阶梯的教育体系；义务教育后的高利害升学分叉点；大规模定量社会流动与教育分层研究。
 > - **成立条件** 行动者对劳动力市场凭证回报具有一定程度的信息掌握；教育系统具备制度化选拔规则与多重分流通道；家庭具备基本的长期生涯规划空间。
 > - **解释不足** 无法充分解释“首属效应”（早期认知与学业优势如何产生）；难以解释为何存在大量出于理想、信仰、学术热爱或道德感召而做出的“超理性”或“反效用”教育抉择；在急剧变迁或制度动荡期，客观风险参数失真导致模型预测力下降。
@@ -209,7 +209,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 以 Goldthorpe（2007）的七步逻辑链条展示理性行动理论如何通过严谨的经验[[Falsification|证伪]]与队列分析排除竞争假说。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深入检验 [[Remote Associates Test|RAT]] 机制在中国一流高校大学生阶层分流与文化适应中的解释效力及其批判性边界。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Demerath (1999) 佩雷村[[Ethnography|民族志研究]]，系统论证微观行动者的文化能动性如何颠覆自上而下输入的现代文凭主义与西方成本效益计算。

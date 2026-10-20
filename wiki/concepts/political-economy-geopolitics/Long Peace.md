@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Long Peace
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1945 — 原子时代开启与核均势确立** 三位一体核试验与广岛长崎核爆确立原子威慑，彻底改变大国博弈成本函数。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–39)]]
 > - **1987 — [[John Lewis Gaddis|加迪斯]]系统阐发长和平理论** 约翰·刘易斯·加迪斯出版《长和平：冷战史考察》，确立战后大国稳定机制的史学[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Karp & Zamiska, 2025, p. 40)]]
 > - **2011 — [[Steven Pinker|平克]]《人性中的善良天使》量化实证** 斯蒂芬·平克以翔实数据论证人类暴力呈历史性退潮，将长和平作为物种演化史上的关键成就。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Pinker, 2011; Karp & Zamiska, 2025, pp. 40–41)]]
@@ -213,5 +213,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻剖析二战后大国长和平的威慑本质，揭示西方同盟和平自满引发的去武力化危机，确立以软件[[Hard Power|硬实力]]与 AI 威慑重构新时代长和平的战略路径。

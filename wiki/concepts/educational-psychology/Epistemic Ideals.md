@@ -68,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Ideals
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990–1997 — 信念维度阶段** [[Epistemic Cognition\|认识论认知]]被分解为知识确定性、[[Source of Knowledge\|知识来源]]与[[Justificatory Standards\|确证标准]]等维度，确证准则多被视为个体内部持有的静态信念。
 > - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes\|因果过程]]的网络之中。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology\|认识论]]理想（Ideals）确立为与[[Epistemic Aims\|认识目标]]（Aims）及[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）并列的三大核心构件。
@@ -254,7 +254,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 将 Sandoval 四项[[Scientific Explanation|科学解释]]标准[[Operationalization|操作化]]为显性[[Epistemology|认识论]]理想，实证揭示其在[[Man-Computer Symbiosis|人机协同]]科学探究中指导微观因果核验与图文重构的支架机制。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个认识论干预因果[[Meta-analysis\|元分析]]，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的[[Academic Achievement\|学业成就]]因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。

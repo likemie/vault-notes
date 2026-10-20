@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Fair Market Value
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 国际贸易公平市场价值（Trade FMV） | [[University-Industry Collaboration\|产学合作]]公平市场价值（R&D/Clinical FMV） | 成本加成定价（Cost-Plus） | 总所有权成本（[[Cost of Ownership\|COO]]） |
 > |---|---|---|---|---|
 > | **分析对象** | 跨国出口产品（如半导体芯片）正常价值与反倾销价格底线 | 跨机构[[Clinical Trial\|临床试验]]与研发服务项公允单价 | 单一机构执行研发任务的直接账面支出与利润 | 制造装备全生命周期单位合格产出综合成本 |
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **生产成本法定重构（Constructed Value Components）** 国际贸易反倾销中计算 FMV 的法定构成，包括制造工序直接物料与人工成本、折旧摊销、一般管理与销售费用（SG&A，通常设定法定最低比例如 10%）以及法定最低利润率（通常为 8%）。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 125)]]
 > - **厂商特异性季度价格底线（Firm-Specific Quarterly Price Floors）** 监管当局（如美国商务部）对各被诉外国企业每季度更新一次最低允许售价，阻断任何低于核定成本的跨境报价。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]]
 > - **行业实际谈判基准数据库（Negotiated Benchmark Databases）** [[University-Industry Collaboration|产学合作]]中依托 GrantPlan® 等第三方平台，聚合跨区域、跨阶段的历史真实合同谈判数据，作为公允支出上限依据。
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–1980 年代 — 贸易反倾销与管理贸易价格管制工具** 美国在针对外国钢铁与日本半导体微电子的贸易诉讼中，将 FMV 确立为核定“低于生产成本销售”的法定基准，并在[[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]中作为强制性季度出口价格底线实施。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]
 > - **1990 年代 — 关税与贸易总协定／[[World Trade Organization|世界贸易组织]]多边规则规范** 乌拉圭回合谈判将反倾销中的正常价值（Normal Value）核算标准化，规范了计算推定价值时利润与管理费用的上限，约束单边滥用 FMV 价格底线的管理贸易手段。
 > - **2000 年代初 — 医药[[University-Industry Collaboration|产学合作]]与反回扣合规迁移** 随着美国司法部强化《联邦反回扣法案》（Anti-Kickback Statute）执法，医药与器械产业界将 FMV 原则全面引入[[Clinical Trial|临床试验]]资助，通过第三方谈判数据库建立标准公允报销标准。

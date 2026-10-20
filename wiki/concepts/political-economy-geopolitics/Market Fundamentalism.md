@@ -47,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Market Fundamentalism
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **自调节市场神话（Self-Regulating Market Myth）** 坚信不受监管的自由价格机制具有自发趋向瓦尔拉斯一般均衡的最优调节能力，任何人为的公共干预都会扭曲价格信号与竞争激励。[[Argument_Block_2008_PS|(Block, 2008, p. 170)]]
 > - **公私二元对立[[Discourse|话语]]（Public-Private Dichotomy）** 将私营企业天然定性为高效、进取与技术突破的唯一源泉，而将公共部门刻板定性为僵化、浪费与腐败的象征，在道德与制度话语中预设了公帑投入的劣后性。[[Argument_Block_2008_PS|(Block, 2008, pp. 182–183)]]
 > - **知识绝对商品化（Hyper-commoditization of Knowledge）** 依托激进的知识产权法律架构，将公共科研资金孵化的创新成果完全转化为私人排他性垄断资产，使专利成为阻隔跨机构协同的商业路障。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
 > - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
 > - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
@@ -191,5 +191,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀[[Advanced Technology Program|先进技术计划]]（ATP）等显性产业政策，迫使国家发展型职能向隐秘网络退避。

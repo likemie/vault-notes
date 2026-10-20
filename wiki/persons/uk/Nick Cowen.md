@@ -55,7 +55,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Cowen 的学术贡献集中在**将公共选择理论和科学哲学引入教育政策分析**，持续在两个维度上做出贡献：
 >
 > **维度一：[[Evidence-Based Education\|EBE]] 的官僚功能（理论分析）**
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的[[Bureaucracy|官僚制]][[Knowledge Questions\|知识问题]]应用于 [[Evidence-Based Education\|EBE]]，解释实验[[Paradigm\|范式]]的主导地位
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 与 Cartwright 合作将 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段框架应用于教育政策实施分析
 > - [[Evidence-Based Education]] — 从两个维度补充 Biesta 的[[Epistemology\|认识论]]批判：制度逻辑维度（2019）和实施实践维度（2015）
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Cowen, N., [[Nancy Cartwright\|Cartwright, N.]], Virk, B., & Mascarenhas-Keyes, S. (2015). *Making the Most of the Evidence: [[Evidence-Based Policy-Making|Evidence-based policy]] in the classroom.* CHESS Working Paper No. 2015-03, Durham University. — 通过 22 位教师访谈和[[Literature Review\|文献综述]]，识别 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
 > - Cowen, N. (2019). For whom does 'what works' work? The political economy of [[Evidence-Based Education]]. *Educational Research and Evaluation*, 25(1–2), 81–98. — 以 Tullock [[Tullock's Bureaucracy Theory\|官僚制理论]]解释 EBE 的制度韧性
 > - Cowen, N., Virk, B., Mascarenhas-Keyes, S., & Cartwright, N. (2017). [[Randomised Controlled Trials\|randomized controlled trials]]: How can we know "what works"? *[[Critical Review]]*, 29(3), 265–292.
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 学术批评
 
-> [!warning] 学术批评
+> [!warning|notitle] 学术批评
 > - **"为什么是现在"的解释有限**[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 坦承 Tullock 模型只能对 [[Evidence-Based Education\|EBE]] 的历史时机提供尝试性假说——其优势在于解释制度功能（EBE 解决了什么官僚问题），劣势在于解释历史时机（为什么是 21 世纪初）。
 > - **实证样本的偏差**[[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] 的教师访谈样本有意偏向已积极关注证据的教师群体，不能代表全体教师，结论的推广需谨慎。
 > - **政策建议未经验证**Cowen et al. 提出的政策建议（如增加 CPD 时间、改革教师培训）是基于访谈和文献的推断，尚未经过实证检验。

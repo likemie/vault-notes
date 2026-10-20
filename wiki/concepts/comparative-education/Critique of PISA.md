@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critique of PISA
@@ -270,7 +270,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构[[OECD|经合组织]]如何运用 [[PISA]] 制造全球[[Space of Equivalence|等值空间]]与推行远处掌舵。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从比较教育学科史视角批判大规模跨国测验对[[Navigation Metaphor in Comparative Education|航海隐喻]]与历史文化诠释传统的瓦解。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统揭示 PISA 未来技能[[Construct|构念]]的虚构性及其在全球推行新自由主义议程的商业营销机制。

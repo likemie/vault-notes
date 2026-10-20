@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Psychologisation
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **课程议题的去政治化控制** 彻底清除教科书中关于社会运动、政治争议与集体行动的讨论，使制度性批评被排除在可思考的知识边界之外（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.152]]）。
 > - **课外情感习惯的感恩规训** 强制推行以感恩和快乐为核心的政策项目，要求学生在面对不利环境时必须感恩所拥有的事物，并保持快乐状态。
 > - **因果解释的个体化归因** 确立生活变好的路径在于改变自我的心理调适力，而非通过集体行动改革社会的官方逻辑（pp.153–154）。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20 世纪末 — 心理病理化的治理反思** 国际社会学界开始关注新自由主义体制如何通过将社会问题个体化、心理病理化，来实现对越轨人群的柔性控制。
 > - **21 世纪初 — [[Social-Emotional Learning\|社会情感学习]]（SEL）的全球推广** 幸福和积极情绪被定义为可以通过学校课程干预的目标，社会情感学习成为全球[[Progressive Education\|进步教育]]的显性概念。
 > - **2019–2022 — [[National Education\|香港国民教育]]“心理化”转型** 香港教育局推行[[My Pledge to Act\|我的行动承诺]]项目，随后于2022年底发布[[Youth Development Blueprint\|青年发展蓝图]]，全面使用自强、希望、探索等心理学词汇来主导青年政策，完成了心理化规训机制的制度化落地（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
@@ -153,5 +153,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 实证反思了香港2020年后通过[[Citizenship and Social Development\|公民与社会发展科]]以及[[Youth Development Blueprint\|青年发展蓝图]]在高中及课外落实心理化治理的质变过程与政治后果。

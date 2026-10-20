@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Co-affiliation
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Multiplicity\|多重性]]与跨界任职（Multiplicity of Positions）** 核心政策行动者不局限于单一职业标签，而是以商界领袖、慈善信托人、[[Grandes Ecoles|大学校]]监、国家政策审查委员会主席等多重身份同步介入治理，将特定商业哲学无缝输入公共决策。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]
 > - **超流动性与权力的关系性生成（Hypermobility & Relational Power）** 异层治理网络呈现出一种持续重塑自我的“超流动性”；权力不再沿正式的韦伯式行政科层线条自上而下逐级下达，而是作为行动者跨界兼职与关系性共同从属的生成性效果而流动展现。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
 > - **[[Epistemology\|认识论]]同质性（Epistemic Homophily）** 频繁重叠兼职的精英群体因共享麦肯锡咨询、跨国投行与私募股权职业背景，形成了高度一致的语言语系（如将教育科研称为“证据经纪”、将政策推进称为“买入”），视商业效率与量化审计为[[Doxa\|不言自明]]的公理。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–5]]
@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–1980s — 组织社会学与公司治理起源** 组织社会学家（Mizruchi, 1982；Useem, 1984）将共同从属与连锁董事引入公司[[Network Analysis\|网络分析]]，探讨企业间通过共享董事监控市场、抵御风险与整合金融资本。
 > - **2000s — 社会网络分析与二分图理论化** Borgatti、Halgin 等学者将共同从属正式数学化，发展二模网络（two-mode networks / affiliation networks）分析模型，揭示行动者与事件/组织集合间的双向投影机制。
 > - **2010–2019 — 批判[[Policy Network\|政策网络]]与教育异质治理转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者将该概念引入全球教育政策研究，指出新自由主义政策网络依靠跨国多重从属性运作，推动了[[Educational Privatisation\|教育私有化]]与治理模式的深刻变迁。
@@ -260,7 +260,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用机构共同从属分析（co-affiliation analysis），深度绘制澳大利亚国家级证据中介 [[Australian Education Research Organisation\|AERO]] 与 [[Social Ventures Australia\|SVA]]、跨国投行及英国 [[Education Endowment Foundation\|EEF]] 的多重董事兼职网络。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用开源网络可视化分析（Gephi）与监管文件追踪，系统映射澳大利亚[[Venture Philanthropy\|风险慈善]]中介组织（SVA、APS、[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、AERO）长达二十年的共同从属拓扑与四层控股嵌套结构。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 展现政策行动者在需求本位拨款与[[School Autonomy|学校自主]]化改革之间的网络博弈与身份重合。

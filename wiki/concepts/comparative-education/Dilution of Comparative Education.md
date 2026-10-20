@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Dilution of Comparative Education
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **学科轮廓的消解侵蚀** 专业边界与知识规范被稀释，外界难以辨识比较教育作为独立学科的独特性与不可替代性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 > - **理论与方法论训练的普遍匮乏** 缺乏对单位分析（[[Unit of Analysis]]）、比较逻辑、概念对称性与[[Interpretive Validity|解释效度]]的系统学术锤炼。
 > - **[[Epistemology|认识论]]身份界定的停滞与遗忘** 放弃对“何为真正的比较”进行持续的哲学追问，被动接受外部[[Pragmatic Paradigm|实用主义]]与工具主义的议程设定。

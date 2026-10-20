@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deborah Stone
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1960年代末–1970年代** 毕业于密歇根大学获得政治学学士学位，随后于杜克大学获得政治学博士学位，专注于医疗卫生政策与比较社会福利制度研究。
 > - **1984年** 出版《伤残国家》（*The Disabled State*），深入剖析现代福利国家如何通过医学诊断与官僚行政标签策略性建构“残障”概念以分配救济资源，奠定其[[Constructivist Paradigm|建构主义]]政策分析路径。
 > - **1988年** 出版里程碑著作《政策悖论与政[[Governmentality|治理性]]》（*Policy Paradox and Political Reason*，后重印修订为《政策悖论：政治决策的艺术》），对主导美国公共政策教育的微观经济学与[[Cost-Benefit Analysis|成本收益分析]]发起总清算，荣获美国政治学会阿伦·怀尔达夫斯基奖。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 确立了[[Interpretivism|解释主义]]政策分析的学科合法性，将后现代哲学、政治修辞学与[[Constructivist Paradigm|社会建构主义]]注入传统的实证政策分析，与哈罗德·拉斯韦尔的民主[[Policy Science in Comparative Education|政策科学]]构成了深刻的辩证对话。
 > - **方法路径** 推动了政策[[Discourse Analysis|话语分析]]（Policy [[Discourse]] Analysis）、叙事政策框架（NPF）以及质性框架分析的发展，为解构政策报告中的数据修辞提供了锐利的方法论手术刀。
 > - **教育政策应用** 深刻启发了当代教育循证政策的批判性研究。麦克唐纳与韦瑟福德借助斯通的[[Problem Finding|问题界定]]理论，揭示出全美课程改革倡导者如何巧妙动员统考数据反差与跨国测评落后指标，编织出一套将“各州分权标准”等同于“危害国家经济安全与教育诚信”的因果危机故事。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论对话者** [[John W. Kingdon]] — 共同剖析公共政策议程设置的非理性动力，斯通的[[Problem Finding|问题界定]]建构理论补足了金登模型对事实解释与修辞维度的微观刻画。
 > - **学术批判对象** 赫伯特·A·西蒙（[[Herbert A. Simon]]）与传统政策理性主义者 — 批判其将公共决策简化为手段—目的工程计算的[[Technical Rationality|技术理性]]迷思。
 > - **实证理论应用者** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德 — 运用斯通的因果故事叙事理论剖析美国国家学术标准倡导者的议程动员机制。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]

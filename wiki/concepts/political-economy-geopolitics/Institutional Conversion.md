@@ -46,7 +46,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institutional Conversion
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2004年–2005年 — [[Wolfgang Streeck|施特雷克]]与希伦界定转换机制** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因[[Rule Ambiguity|规则模糊性]]、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦建构类型学与[[Opportunists|机会主义者]]角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
 
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
 

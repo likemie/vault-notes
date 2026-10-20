@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # David C. Mowery
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1978–1981** 在斯坦福大学（Stanford University）获得经济学博士学位，师从内森·罗森伯格，奠定工业研发组织历史分析与技术变迁经济学实证基础。
 > - **1981–1987** 先后任教于卡内基梅隆大学（Carnegie Mellon University），开创性开展美国工业研发实验室组织演进与跨国技术合作政策研究。
 > - **1988–至今** 任职于加州大学伯克利分校哈斯商学院，历任工商管理与公共政策教授、哈斯讲席教授，兼任 NBER 生产率与技术创新项目研究员。
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论与历史分析路径** 深化了技术变迁经济学中关于需求侧政府采购、反垄断强制技术扩散与纵向供应链外部性的制度因果机制，修正了传统科技政策将焦点片面窄化为供给端直接研发补贴的线性视角。
 > - **方法与实证评估路径** 开创性地将企业工程项目档案、一手[[In-depth Interview|深度访谈]]与计量分析相结合，为微观产业组织与科技政策制定提供了高[[Reliability|信度]]的政策评估[[Paradigm|范式]]。
 > - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
 > - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
 > - **重要机构／政策平台** [[National Academy of Sciences]]、[[National Research Council]]、[[OECD]]、[[DARPA]] — 长期承担国家科技政策咨询与评估工作。

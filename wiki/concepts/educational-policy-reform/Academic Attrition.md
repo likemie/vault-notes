@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Academic Attrition
@@ -105,7 +105,7 @@ updated: 2026-10-17
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **制度性惩戒推挤（Exclusionary Pushout）** 学校将校规处置机械泛化为停课、转学与开除等排斥性管教措施，直接剥夺在读机会并将学生推入“学校到监狱管道”。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **问责压力下的生源筛选（Accountability-Induced Cream-Skimming）** 在外部高风险达标重压下，部分学校通过提高缺勤门槛或劝退后进生以保全整体测试达标率。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 15)]]
 > - **多维早期预警表征（ABC Early Warning Indicators）** 缺勤率（Attendance）、行为处分（Behavior）与基础学科不及格门数（Course Performance）构成判定学生学业脱落的核心前瞻表征。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 223)]]

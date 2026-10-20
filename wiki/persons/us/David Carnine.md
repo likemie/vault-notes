@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # David Carnine
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970–1980 年代** 在俄勒冈大学与恩格尔曼密切合作，深度参与美国历史上规模最大的联邦教育对比追踪实验关注项目（Project Follow Through），奠定了[[Direct Instruction|直接教学]]法的实证优势地位。
 > - **1990 年代** 投身全美基础教育识字与数学标准改革，积极推动《不让一个孩子掉队》（[[No Child Left Behind Act 2001|NCLB]]）法案中[[Scientifically Based Research|基于科学研究]]的阅读教学立法。
 > - **2000 年** 受保守派智库[[Thomas B. Fordham Institute|福特汉姆基金会]]资助，发表极具轰动效应与争议性的报告《为什么教育专家抵制有效做法：怎样才能让教育更像医学》，系统提出医学模式改造教育的整套纲领。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政策与立法路径** 其医学比附直接推动了美国小布什政府推行以科学为基础的研究（[[Scientifically Based Research]], SBR）政策，成为 [[Every Student Succeeds Act|ESSA]] 等[[Evidence-Based Education|循证教育]]法案的前驱思想资源。
 > - **教学策略技术化规训** 卡宁的论调为后续包括澳大利亚维多利亚州高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）在内的清单化改革确立了舆论借口，促成上课前必须板书[[Learning Intentions|学习意图]]等形式主义规程的落地。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 > - **批判学术靶点** 成为当代批判政策学者（如 Johnson & Janzen, 2023）剖析教育新自由主义意识形态、[[Neo-Taylorism|新泰勒主义]]管理逻辑与[[Scientism|科学主义]]霸权的核心代表人物。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想合作者** Siegfried Engelmann — [[Direct Instruction|直接教学]]法的创立伙伴。
 > - **政策与出版平台** [[Thomas B. Fordham Institute]] — 资助并出版其医学比附核心报告的保守派智库。
 > - **思想借用者** [[John Hattie]] — 在《可见学习》核心章节引用其论断，将教学定性为不成熟职业，为主导式循证技术辩护。

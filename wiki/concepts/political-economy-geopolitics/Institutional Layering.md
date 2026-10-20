@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institutional Layering
@@ -186,7 +186,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学文献使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **1980年代–1990年代 — [[Regulatory Ratchet|规制累积]]与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **2000年代初 — 希伦奠定[[Historical Institutionalism|历史制度主义]]核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
@@ -235,7 +235,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。

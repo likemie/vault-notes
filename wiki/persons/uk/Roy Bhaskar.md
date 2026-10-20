@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Roy Bhaskar
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1944 年** 出生于英国伦敦。
 > - **1978 年** 发表代表作 *A Realist Theory of Science*，奠定[[Critical Realism|批判实在论]]科学哲学的[[Ontology|本体论]]基础。
 > - **1979 年** 发表 *The Possibility of Naturalism*，将批判实在论扩展至人文社会科学，探讨社会结构与人类能动性的辩证关系。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 在科学哲学与社会理论界确立[[Critical Realism|批判实在论]]流派，启发社会学学者重建社会学因果分析与结构—能动性分析架构。
 > - **方法路径** 成为[[Ray Pawson|雷·波森]]（Ray Pawson）等人创立“[[Realist Evaluation|实在论评估]]”与“实在论综合”的哲学根基，为解构[[Randomised Controlled Trials|RCT]]与[[Meta-analysis|元分析]]提供[[Ontology|本体论]]支撑。
 > - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）的批判研究进入教育政策辩论，成为批判新自由主义审计文化与“[[Governing by Numbers|以数字治理]]”政策的重要工具；在跨国高教政策领域，吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其[[Explanatory Critique|解释性批判]]与[[Critical Discourse Analysis|批判话语分析]]结合，用于剖析国家地缘教育政策[[Discourse|话语]]的深层权力生成机制。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术伙伴** 安德鲁·塞耶（Andrew Sayer）— 发展[[Critical Realism|批判实在论]]社会[[Scientific Method|科学方法]]论；[[Ray Pawson]] — 将批判实在论哲学转化为社会政策评估方法；[[Terry Wrigley]] — 将三层[[Ontology|本体论]]与开放系统论系统引入教育政策对证据本位评估的批判中。
 > - **后续应用** 埃迪·吴（Eddie Woo）— 将[[Explanatory Critique|解释性批判]]融入[[Critical Discourse Analysis|批判性政策话语分析]]。
 

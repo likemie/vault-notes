@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # SveaSus Project
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 为芬兰国家核心课程所倡导的 [[Phenomenon-Based Learning\|PhBL]] 政策提供了一个“自下而上”的具体实践[[Paradigm\|范式]]，展示了政策[[Discourse|话语]]如何跨越基础教育阶段，在**高等教育与教师教育（Higher and Teacher Education）** 领域进行本土化和教学法落地（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 10]]）。
 > - **实践影响** 打破了传统“教师讲、学生听”的授课模式，建立了教师、研究者、艺术家与学生的跨界合作共同体。通过具身行走、艺术表达和多语写作，在真实的芬兰堡世界遗产地开展以地点和时间为纽带的生成性学习，重构了人与生活世界的密切联系（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 4, 10]]）。
 > - **知识影响** 提供了一个活生生的“[[Pragmatic Constructivism\|课程自我修正模型]]”（[[Pragmatic Constructivism]] 的具体体现），以跨学科整体性探究抵抗新自由主义全球教育治理下“知识和技能原子化”的异化倾向，捍卫了教学论中知识的“开放未来（Open future）”和“教学与更新（[[Disciplina and Doctrina\|doctrina]]）”的本质（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5–8, 9–10]]）。

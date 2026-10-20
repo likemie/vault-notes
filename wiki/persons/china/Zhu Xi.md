@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Zhu Xi
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1130** — 出生于南宋徽州婺源（今属江西）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 44)]]。
 > - **南宋中后期** — 深受[[Cheng Brothers\|程颢]]与程颐兄弟思想影响，继承并升华北宋理学，形成“程朱学派”（Cheng-Zhu School）。
 > - **仕途与讲学** — 担任朝廷官员与地方官，属于典型的“学者型官员”（scholar-official）；创办与主持白鹿洞书院等教育机构，推动理学传播[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]。
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** — [[Neo-Confucianism\|程朱理学]]主导宋元明清中国正统思想逾六百年，格物致知的路径成为东亚[[Confucian Learning Tradition\|儒家学习传统]]的基石[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 44)]]。
 > - **制度路径** — 四书体系自元代起被指定为[[Civil Service Examination\|科举]]考试的唯一标准答案，深刻塑造了中国士大夫阶层的智识结构与“读书”概念。
 > - **政策与课程路径** — 当代国家教科书将朱熹及其四书集注作为“中华文明理学高峰”进行官方正统化讲授[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **精神宗师与继承对象** — [[Confucius\|孔子]]、[[Mencius\|孟子]] — 编纂《四书》，恢复并升华孔孟道统。
 > - **思想渊源** — [[Cheng Brothers\|程颢]]、程颐 — 继承北宋程氏兄弟的理学框架，形成“程朱学派”。
 > - **学术论敌** — [[Wang Yangming\|王阳明]] — 王阳明批评朱熹“格物致知”支离繁琐，提出“致良知”与“心即理”，构成理学与心学的百年论争[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 44)]]。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Defeater
@@ -165,5 +165,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于削弱型与反驳型击败者（Defeaters）的人机交互认知安全架构，论证其在为操作者提供可抗辩性支持、降低推翻算法建议的制度成本以及校准批判性信任中的核心功能。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thomas Kuhn
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1922** 出生于美国俄亥俄州辛辛那提；后进入哈佛大学研读物理学，1949 年获理论物理学博士学位。
 > - **1947–1956** 在哈佛大学讲授科学[[General Education\|通识教育]]课程期间，因研读[[Aristotle\|亚里士多德]]物理学发生思想顿悟，认识到古代科学并非现代科学的不成熟版本，而是完全不同世界观的产物，由此彻底转向科学史与[[Epistemology\|认识论]]研究。
 > - **1957** 出版首部专著《哥白尼革命：西方思想发展中的行星天文学》（*The Copernican Revolution*），系统展现了科学思想革命背后的社会、哲学与观念网络。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底终结了逻辑[[Positivism\|实证主义]]的教条，催生了科学知识社会学（SSK）、爱丁堡学派强纲领与[[Constructivist Paradigm\|社会建构主义]][[Epistemology\|认识论]]；
 > - **方法路径** 为人文社会科学提供了“[[Paradigm\|范式]]”这一核心元理论工具，使教育研究者意识到[[Qualitative Research\|质性研究]]与[[Quantitative Research\|量化研究]]并非单纯技术差异，而是扎根于不同的认识论范式；
 > - **跨学科应用（比较教育学）** 战后比较教育学家（如 Mattheou, 2009）系统运用库恩的范式理论与四维构件模型，深入剖析了 1950–1970 年代“[[Scientific Paradigm\|科学范式]]”对古典历史主义的清洗、内部三大派别在法则与目标上的认识论争鸣，以及实证量化范式与现代国家规划体制结盟的学术合法化机制。
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **论辩同行 / 哲学家** [[Karl Popper]] — 围绕常规科学的性质、科学革命与[[Falsification\|证伪主义]]展开著名的“波普尔-库恩大论战”；
 > - **科学哲学继承与争鸣** 保罗·费耶阿本德（Paul Feyerabend）、伊姆雷·拉卡托斯（Imre Lakatos）— 激化或修正[[Incommensurability\|不可通约性]]与科学研究纲领理论；
 > - **教育研究与比较教育应用** [[Brian Holmes]]、[[Andreas Kazamias]]、迪米特里斯·马修（Dimitris Mattheou）— 将[[Paradigm\|范式]]理论引入跨国教育研究与学科史方法论反思。

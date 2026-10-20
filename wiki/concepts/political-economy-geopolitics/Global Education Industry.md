@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Global Education Industry
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 全球教育产业 (GEI) | [[Educational Privatisation\|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization\|知识化经济化]] |
 > |------|--------|----------------|----------------|----------------|
 > | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济[[Competitiveness\|竞争力]]为目标对教育和研究的重组。 |
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多重经济理性** 在经济化、市场化、私有化、商品化和金融化等多重理性交织中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。
 > - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in）。
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 43]]）。
@@ -185,7 +185,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990年代 — 危机驱动的[[New Public Management\|新公共管理]]改革与[[Corporate University\|企业大学]]起步**
 >   - **苏联解体与芬兰经济危机** 苏联解体后芬兰陷入深重经济萧条，促使政策制定者推动国家向以信息和技术为导向的社会转型。这期间芬兰废除了传统的对学校教材的审查，转而遵循 [[OECD]] 以劳动力市场为核心的软治理逻辑（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
 >   - **美国企业大学兴起** 第一所企业大学由通用汽车（GM）建立，随后 Motorola、Apple、IBM 等企业跟进，将内部培训整合为 brand 化教育项目，使[[Corporate Education\|企业教育]]发展为 GEI 的关键支柱（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p. 189]]）。
@@ -210,7 +210,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为[[Discourse|话语]]与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 探究了[[Corporate Education\|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。

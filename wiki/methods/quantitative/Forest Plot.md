@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Forest Plot
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 绘制包含 59 个独立[[Effect Size\|效应量]]的森林图，通过效应点估计方块、[[Confidence Interval\|置信区间]]横线与底部合并菱形（$g = 0.609$ [0.485, 0.732]），全景展现生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学成效与高度离散形态。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 回溯 Karl Pearson (1904) 伤寒疫苗分析对森林图形式的历史先驱贡献，以及森林图在[[Evidence-Based Education\|循证教育]]工具中的核心角色。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 呈现通用[[Critical Thinking\|批判性思维]]技能[[Effect Size\|效应量]]分布图，直观展现教学干预在跨学科领域中的一致收益。

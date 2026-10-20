@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Begg and Mazumdar Rank Correlation
@@ -126,5 +126,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 Begg 秩相关检验（$\tau = -0.01, p = .89$）与 Egger 回归及[[Trim and Fill Method\|剪补法]]并用，系统评估高等教育中干预措施对[[Critical Thinking\|批判性思维]]提升的证据稳健性。

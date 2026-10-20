@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Organizational Culture Change
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 深层[[Organizational Culture\|组织文化]]变革（Culture Change） | 表面组织结构调整（Structural Reform） | 局部业务流程优化（Process Optimization） |
 > |---|---|---|---|
 > | **变革靶向** | 底层基本信念、评价标准与权力运作[[Paradigm\|范式]] | 部门撤并、汇报层级精简与职能重新划分 | 局部工作流提速、数字化报表流转 |
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **评价尺度的彻底颠覆** 将评价基准从“是否严格遵循审批程序、回避犯错”彻底切换为“物理产物能否解决现实生存危机”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 > - **权力向系统前沿边缘下放** 剥夺中间管理层的信息垄断与层级设卡特权，将最高决策权重直接赋予一线实干人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 > - **破除等级权威与从众心理** 建立以客观数理逻辑、事实反馈与同行公开检验为核心的透明辩论文化。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s — 沙因[[Organizational Culture|组织文化]]三层次理论** 确立了从[[Artefact|人工制品]]向底层基本假设推进的现代组织文化[[Theory of Change|变革理论]]框架。
 > - **1990s 末 — 硅谷软件工程文化的实战催生** [[Dot-Com Bubble|互联网泡沫]]破裂淘汰了商业投机模型，但沉淀出以快速迭代与一线自治为特征的工程文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 > - **2025 — 提升为[[Technological Republic|技术共和国]]国家治理基石** 卡普与扎米斯卡将组织文化变革确立为破除公共部门[[Innovation Desert|创新荒漠]]、赢得未来大国科技竞争的根本制度保障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
@@ -168,5 +168,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9, p. 111)]] — 将[[Engineering Mindset|工程思维]]视为泡沫破灭后最持久的[[Organizational Culture|组织文化]]遗产；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]] 以[[Swarm Intelligence|群智能]]与[[Edge Autonomy|边缘自治]]说明公共部门文化变革路径。

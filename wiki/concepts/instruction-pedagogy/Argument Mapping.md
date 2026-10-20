@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Argument Mapping
@@ -132,5 +132,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 系统对比了论证图（$g = 0.798$）、[[Mind Mapping\|思维导图]]（$g = 1.041$）与[[Concept Mapping\|概念图]]（$g = 0.548$）对[[Higher-Order Thinking Skills\|高阶思维]]的促学效能级差。

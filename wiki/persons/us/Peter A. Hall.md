@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter A. Hall
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1952** 出生于加拿大安大略省。
 > - **1974** 于麦吉尔大学（McGill University）获经济学与政治学学士学位（一等荣誉）。
 > - **1976** 于牛津大学贝利奥尔学院（Balliol College, Oxford）获哲学、政治学与经济学（PPE）硕士学位。
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 霍尔对制度“权力分配属性”的界定直接启发了[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）的[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；其“[[Varieties of Capitalism|资本主义多样性]]”框架统治了当代比较政治经济学二十余年。
 > - **方法路径** 倡导[[Process Tracing|过程追踪]]（Process Tracing）与比较历史制度分析，强调时间性、次序与关键历史遗产对因果机制的制约。
 > - **跨学科辐射** 其政策[[Paradigm|范式]]理论被公共政策学与社会学广泛吸收，三大学派分类成为政治学研究生核心方法论必读规范。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **密切合作者** 罗斯玛丽·泰勒（Rosemary C. R. Taylor）— 共同提出新制度主义三大学派分类。
 > - **密切合作者** 戴维·索斯基斯（David Soskice）— 共同创立[[Varieties of Capitalism|资本主义多样性]]理论框架。
 > - **理论同行与编著合作者** [[James Mahoney]] — 共同推进[[Historical Institutionalism|历史制度主义]]微观能动性与渐进演进分析。

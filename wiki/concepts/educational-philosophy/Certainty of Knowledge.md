@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Certainty of Knowledge
@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **古希腊 — 哲学渊源** [[Socrates\|苏格拉底]]与[[Plato\|柏拉图]]将几何公理视为注视永恒存在的工具，Pythagoras 将数学提升为通往绝对真知的沉思阶梯。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 24–25)]]
 > - **中世纪 — 神学借用** 经院哲学借用[[Aristotle\|亚里士多德]]的形式逻辑，用严密推理去论证上帝的确定性与全知全能。
 > - **17 世纪 — 科学革命** 牛顿、伽利略、开普勒与[[René Descartes\|笛卡尔]]确立了以数学为语言、以机械确定性为特征的现代自然科学[[Paradigm\|范式]]。
@@ -297,7 +297,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 跨文化对比研究，揭示西方学习传统将追求外部世界确定性知识作为第一核心主题，以数学和公理演绎为典范，与儒家追求自我道德[[Self-Cultivation\|修身]]的传统形成鲜明对照。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 整合与提纯个人[[Epistemological Theories\|认识论理论]]框架，将知识确定性确立为知识本质的核心维度，奠定了其作为连续谱系心理[[Construct\|构念]]的测量基础。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实科学知识确定性信念在控制智力与家庭背景后仍显著负向预测毕业成绩，并揭示大学专业选择中存在自我选择与[[Disciplinary Socialization\|学科社会化]]的双重机制。

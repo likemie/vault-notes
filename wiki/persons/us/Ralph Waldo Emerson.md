@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Ralph Waldo Emerson
@@ -68,7 +68,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1803** 出生于马萨诸塞州波士顿，父亲为公理会知名牧师。
 > - **1821** 毕业于哈佛学院，后在哈佛神学院深造并受封为波士顿第二教堂牧师。
 > - **1832** 辞去牧师职务并游历欧洲，与华兹华斯、柯勒律治、[[Thomas Carlyle|托马斯·卡莱尔]]等欧洲思想家深入交往。

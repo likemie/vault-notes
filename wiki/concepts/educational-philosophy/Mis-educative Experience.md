@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Mis-educative Experience（反教育经验）
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 反教育经验（Mis-educative） | [[Educative Experience\|教育性经验（Educative）]] |
 > |------|--------------------------------------|-----------------------------------|
 > | **分析对象** | 阻碍或截断[[Education as Growth\|生长]]的经验品质 | 促进持续生长的经验品质 |
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **生长的截断性（Arresting Growth）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 > - **获取原则的恶性循环（Principle of Acquisition）** 自上而下的灌输无法引发内在难题，只能通过镇压身体活动维持秩序。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]
 > - **讲述病（[[Narration Sickness]]）** 符号与事实脱离现实语境，导致知识与生活的撕裂。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 44)]]
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1938 — 概念提出** [[John Dewey\|杜威]]在《经验与教育》中提出该概念，揭示传统强迫训导的深层危害。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 30)]]
 > - **2009 — 案例解构应用** Darwish 运用该概念解构工业时代学校机器对学生身体活动的镇压与纪律难题。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 34–35)]]
 
@@ -135,5 +135,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析传统课堂纪律难题、死标本观察课与反教育经验的因果链条。

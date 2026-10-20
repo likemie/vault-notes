@@ -41,7 +41,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-06-08
+updated: 2026-10-21
 subtype: book-chapter
 publication_type: book
 title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
@@ -63,7 +63,7 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership\|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？(pp.73–74)
 >
 > 经验难题在于：即便双方都有合作意愿，实际操作中仍然频频受阻：企业提出的项目与教师研究兴趣错位，技术平台匹配结果失准，合作关系迟迟无法从单一项目升级为战略联盟。问题出在哪里？又该如何解决？
@@ -72,7 +72,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers\|NACRO]]、[[University Industry Demonstration Partnership\|UIDP]] 和 [[University Industry Innovation Network\|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 
@@ -80,14 +80,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study\|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission\|政府贸易代表团]]推动的与日本企业的国际合作。
 
 ---
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 论证可以拆解为"一个起点 → 三个阶段 → 两个验证"的逻辑链。起点是[[University-Industry Collaboration\|产学合作]]的结构性难题；三个阶段分别是连接、探索发现和建设；最后用两个案例验证框架的可行性。
 
 ### 起点：产学合作为何天然困难
@@ -189,7 +189,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. [[University-Industry Collaboration\|产学合作]]的困难根植于大学与企业在使命、治理结构和[[Organizational Culture\|组织文化]]上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
 > 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board\|行业咨询委员会]]、产学专业活动、[[Professors of Practice\|实践教授]]岗位、[[Trade Mission\|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一(pp.74–76)。
 > 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional\|UCEP]] 的[[Professional Judgment\|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐(pp.76–78)。
@@ -200,7 +200,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “任何旨在成为战略伙伴关系的产学（UI）关系，都将建立在伙伴间的信任、互利的目标、一致的联系点、战略路线图、长期规划、年度目标的设定与核算，以及不断调整、转向和成长之上。”
 > ("any UI relationship that aims to become a [[Strategic Partnership]] will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing.")(p.78)
 >
@@ -214,7 +214,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > 对文中提及的技术资源（Pivot、Pure、Academic Analytics、FirstIgnite 等）并非专家用户，建议感兴趣的读者直接联系供应商了解各工具的完整功能(p.77)。
 >
 > 未系统讨论所提出框架的适用边界，例如：连接-探索发现-建设三阶段框架是否适用于不同规模、不同类型（公立/私立、研究型/教学型）的大学？是否适用于不同规模（初创企业/中小企业/跨国巨头）的企业？

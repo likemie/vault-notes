@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Robert Bellah
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于美国俄克拉荷马州阿尔塔斯，后在哈佛大学获得博士学位并师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
 > - **1967** 在《代达罗斯》（*Daedalus*）发表划时代论文《美国的[[Civic Religion|公民宗教]]》（*Civil Religion in America*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 > - **1985** 出版《心灵的习性：个人主义与承诺》（*Habits of the Heart*），深刻反思美国过度个人主义对公共生活的侵蚀。
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **宗教社会学与政治哲学路径** 开创了当代[[Civic Religion|公民宗教]]研究领域，推动社会学界由单纯研究教会建制转向探讨世俗政治秩序中的神圣象征与道德整合机制。
 > - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
 > - **现代[[Technological Republic|技术共和国]]的文化道德资本重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用贝拉概念，指出科技精英与现代政体必须重新珍视公民宗教遗产，以防止民主国家沦为纯粹的物质交易市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **博士导师** [[Talcott Parsons|塔尔科特·帕森斯]] — 继承了帕森斯关于社会系统整合与价值内化的宏观社会学视野。
 > - **当代应用与对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 将[[Civic Religion|公民宗教]]作为[[Technological Republic|技术共和国]]不可或缺的[[Soft Belief|软信念]]基石。
 

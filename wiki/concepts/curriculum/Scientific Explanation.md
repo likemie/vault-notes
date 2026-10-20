@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientific Explanation
@@ -187,7 +187,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1965 — 哲学演绎-法则模型** Hempel 提出科学解释的演绎-法则模型（D-N Model），将解释确立为由普遍规律与初始条件演绎推导出的命题结构。
 > - **2005–2013 — 科学教育中的[[Epistemology|认识论]]转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心[[Epistemic Practices|认识论实践]]，强调因果机制与证据协调。
 > - **2019 — 四维评价标准系统化** de Andrade, Freire and Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
@@ -225,6 +225,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 提出科学理解（4 级）与认知复杂度（4 级）双维[[Analytic Framework|分析框架]]，揭示[[Reflective Structuration|反思性结构化]]如何驱动小学生在 7 个月人体系统探究中建构出高质量、跨系统的详细因果科学解释。
 > - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 将 de Andrade et al. (2019) 的四项科学解释标准应用于初中生[[Man-Computer Symbiosis|人机协同]]探究，揭示学生如何依据相关性、因果叙事、概念网络与表征水平对 AI 输出展开微观[[Discourse|话语]]审问与多模态制品重构。

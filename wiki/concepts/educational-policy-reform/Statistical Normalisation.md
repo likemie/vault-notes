@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Statistical Normalisation
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 统计正态化（Statistical Normalisation） | 亚组[[Heterogeneity\|异质性]]分析（Heterogeneity Analysis） | 情境化临床[[Professional Judgment\|专业判断]]（Clinical [[Phronesis]]） |
 > |---|---|---|---|
 > | **核心追求** | 全样本平均[[Effect Size\|效应量]]最大化与钟形曲线集中趋势。 | 剖析干预效应在不同社会人口与背景亚组中的分化。 | 扎根具体个案与微观互动，关照无法被通则涵盖的独特生命。 |
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **高斯均值霸权与集中趋势崇拜** 将[[Statistical Significance\|统计显著性]]与平均干预[[Effect Size\|效应量]]确立为衡量方案优劣的唯一权威尺度，将偏离中心趋势的复杂生态强行平滑化。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 225–226)]]
 > - **两极离群弱势群体的制度性抹杀** 在追求统计效力的模型计算中，正态分布两端的特异群体（如重度残障、极端贫困或双重少数族裔儿童）在数学上被直接忽略，导致其诉求在政策分配中彻底失声。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 226–227)]]
 > - **物有所值的功利主义治理修辞** 借用可用性与公共[[Return on Investment\|投资回报]]率（Value for money）等新自由主义修辞，将公共科研资金垄断性投向便于标准化产出的大规模因果实验。
@@ -172,7 +172,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪中叶 — 社会物理学起源** 阿道夫·凯特勒（Adolphe Quetelet）将源自天文学的高斯误差曲线引入社会学，提出“平均人”（l’homme moyen）假说，开启了用钟形曲线衡量社会现象的标准。
 > - **1970–1980 年代 — 规训权力与生物政治批判** 米歇尔·福柯（Michel Foucault）在《规训与惩罚》中批判“正态化规训”（Normalising Judgment），揭示标准化曲线如何成为现代权力区分健康与异常、合规与越轨的治理技术；斯蒂芬·杰·古尔德（Stephen Jay Gould）在《错误度量人类》中系统批判智力测验正态化对弱势族裔的伪科学歧视。
 > - **2000 年代至今 — [[Evidence-Based Education\|循证教育]]改革中的均值霸权成型** 随着证据清除所（[[What Works Clearinghouse\|WWC]]）、可见学习（[[Visible Learning]]）等以 $d \ge 0.40$ 为标尺的实证运动兴起，平均[[Effect Size\|效应量]]被奉为政策圭臬。
@@ -214,5 +214,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 牧人友利田在第十章第七节系统展开了针对功利主义可用性修辞与统计正态化抹杀离群弱势群体的深刻批判。

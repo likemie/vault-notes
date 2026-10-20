@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jason Beech
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990 年代末–2000 年代初** 赴英深造，在伦敦大学教育学院（IOE）攻读博士学位，师从当代比较教育名家[[Robert Cowen|罗伯特·考恩]]；博士研究聚焦拉美国家教育政策转移与阿根廷、巴西课程改革。
 > - **2005 年** 完成博士学位论文 *The Meaning of Educational Transfer: The Transfer of Ideas in Argentina and Brazil*，奠定其关于教育转移并非线性搬运而是多层级[[Recontextualization|再情境化]][[Shape-Shifting|形变]]的理论基石；同年 11 月在布宜诺斯艾利斯主持[[Stephen Ball|斯蒂芬·鲍尔]]学术研讨会，深受其关于私营部门介入与政策简约性反思的启发。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 > - **2006–2010 年** 执教于阿根廷圣安德烈斯大学，担任阿根廷比较教育学会（SAECE）理事；2009 年先后在 *Comparative Education* 与考恩编著的《比较教育学国际手册》发表里程碑论文，系统构建[[Global Policy Space|全球政策空间]]概念与五位置[[Discourse|话语]]流通模型。
@@ -170,7 +170,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创比较教育学的“空间转向”（Spatial Turn），[[Creativity|创造性]]融合[[Basil Bernstein|伯恩斯坦]]语篇控制权、卡斯特[[Space of Flows|流动空间]]理论与[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]），重构了超越地理毗连性的跨国政策流通[[Paradigm|范式]]。
 > - **方法路径** 发展出超越传统国家间静态对比的“跨层级[[Discourse|话语]]多维追踪法”，打通国际机构战略白皮书（[[Discourse Analysis|话语分析]]）、国家法规文献（[[Documentary Analysis|文献分析]]）与中小学田野一线访谈（[[In-depth Interview|深度访谈]]），确立了宏观政治经济批判与微观[[Recontextualization|再情境化]]相整合的实证典范。
 > - **政策批判路径** 深刻解构[[World Bank|世界银行]]与[[OECD|经合组织]]在拉美及南方国家推销的“新自由主义万灵药”神话，为全球南方抵制外来政策规训、探索内生性教育制度改革提供了扎实的理论支点。
@@ -180,7 +180,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承渊源** [[Robert Cowen]] — 博士导师，当代比较教育泰斗；比奇继承并深化了其关于教育转移中“空间、时间与形态变迁”（Space, Time, Morphing）的核心命题。
 > - **长年合作者** [[Alejandro Artopoulos]] — 共同发表多篇探索教育[[Discourse|话语]]跨空间流通、[[Actor-Network Theory|行动者网络理论]]与[[Relational Space|关系性空间]]新词汇的权威论文。
 > - **理论奠基者** [[Basil Bernstein]] — 比奇五位置流通模型在[[Epistemology|认识论]]上深度继承了其关于话语生产、[[Recontextualization|再情境化]]与再生产三层级控制权理论。
@@ -237,7 +237,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 首创全球教育[[Champ|场域]]五位置模型，揭示跨国组织双重垄断与拉美[[Gatekeepers|守门人]]机制，并以阿根廷与巴西实证确证微观[[Recontextualization|再情境化]]脱节。
 > - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 引入[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]，解构比较教育中[[Policy Borrowing|政策借用]]与转移的容器隐喻，提倡多中心[[Discourse|话语]]流通视角。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]][[Paradigm|范式]]解构[[Global Policy Space|全球政策空间]]中“能力发展”与“尊重多样性”话语向[[Floating Signifier|漂浮能指]]的演进轨迹。

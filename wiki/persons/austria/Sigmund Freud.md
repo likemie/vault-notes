@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Sigmund Freud
@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1856** 出生于奥地利帝国摩拉维亚弗赖堡（现捷克普日博尔）。
 > - **1881** 获得维也纳大学医学博士学位，从事脑解剖学与神经生理学研究。
 > - **1885–1886** 赴巴黎萨尔佩特里哀医院随让-马丁·沙可（Jean-Martin Charcot）学习催眠术与癔症治疗，转向心理病理学探究。

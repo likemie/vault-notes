@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research Knowledge Mobilisation Model
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育领域中研究证据如何在大学、学校、智库、媒体与政策部门之间流动、转化、重组与扩散的多维系统机制。
 > - **理论问题** 破除将知识流动视为“大学单向生产后交付学校使用”的线性[[Technical Rationality\|技术理性]]迷思，解释为何[[Knowledge Mediation\|知识中介]]与使用情境往往比单纯的生产情境更为庞大，以及宏观社会制度如何时刻形塑着知识吸收。
 > - **理论类型** 系统论中层[[Analytic Framework\|分析框架]]（Systems-Based Analytical Model）、功能主义知识流动拓扑模型。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 宏观与中观层面的教育科研体系治理、大学-学区伙伴关系网络、中介组织职能演化。
 > - **谨慎使用** 微观单个教师阅读文献时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
 > - **常见误用** 误将模型中的三个三角形当成具体的三个行政办公室，忽略了 Levin 所强调的“功能流动”本质。
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2004 — 奠基论文发表** Levin 在 *Education Policy Analysis Archives* 发表《Making research matter more》，首次系统阐发生产、使用、中介与社会大背景四[[Meta-analysis\|元分析]]框架。
 > - **2008–2011 — 动员模型图式成熟** Levin 在加拿大教育委员会报告与 *London Review of Education* 中将模型图式化为三大重叠三角形与变粗双向箭头，并提出五阶段[[Research Utilization\|研究利用]]阶梯。
 > - **2013 — 理论集大成论述** Levin 在 *Review of Education* 创刊号发表经典论文《To know is not enough: Research knowledge and its use》，系统阐述研究[[Knowledge Mobilisation\|知识动员]]模型的系统论原理与政策含义。
@@ -180,7 +180,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，征引 Levin 理论将动员机制与障壁比率[[Operationalization\|操作化]]为评估系统优先级的实证诊断工具，并基于跨国数据深化五阶段利用阶梯的评估分析。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在全系统[[Knowledge Mobilisation\|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Great Man Theory
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 历史关键拐点上的政治兴衰、制度跃迁与重大科技工程突破的动力来源。
 > - **理论问题** 回应过度强调非人格化社会结构、阶级力量或地理气候[[Determinism|决定论]]的局限，解释为何在相同外部约束下截然不同的领袖特质会引致完全相反的历史走向。
 > - **理论类型** 历史哲学与政治领导力解释理论。

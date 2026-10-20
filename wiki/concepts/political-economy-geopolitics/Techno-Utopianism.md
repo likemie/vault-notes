@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Techno-Utopianism
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **技术[[Determinism|决定论]]信仰** 认为所有复杂的政治分歧、制度不公与社会矛盾均可还原为技术算法或算力优化问题。
 > - **去国家化的市场自由神话** 抹去早期微电子与互联网依赖军工采购的历史事实，宣称自身崛起纯属自由市场奇迹。
 > - **原子化功利主义** 放弃关于良善生活与共同体理想的根本反思，将用户还原为点击率、日活用户（DAU）与广告转化率等数据原子。
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 剖析硅谷技术乌托邦主义如何使[[Intellectual Capital|智力资本]]错配到消费软件、造成公共[[Innovation Desert|创新荒漠]]；全书走向[[Technological Republic|技术共和国]]的架构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 总览页。
 
 ---

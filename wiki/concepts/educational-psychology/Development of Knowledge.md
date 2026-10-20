@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Development of Knowledge
@@ -116,7 +116,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–1990 — 阶段模型中的隐性演变** Perry 与 Kuhn 等学者将对知识演变性的理解包裹在宏大的[[Epistemology\|认识论]]发展阶段（如评价主义）中，尚未将其分离为可量化测量的独立[[Construct\|构念]]。
 > - **1997 — 理论多维化确立** Hofer & Pintrich 在综述中正式将关于知识演化与确定性的信念确立为认识论系统的核心维度。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997)]]
 > - **2004 — 独立量表[[Operationalization\|操作化]]** Conley et al. (2004) 开发针对科学领域的认识论[[Questionnaire\|问卷]]，明确将“知识的发展（Development）”作为独立分量表进行测量，在中小学群体中广泛验证。
@@ -149,6 +149,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中系统比较了 19 个[[Epistemology\|认识论]][[Construct\|构念]]，证实知识的发展是对[[Academic Achievement\|学业成绩]]预测力最强的单一构念（$r = .274$）。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理认识论结构，将关于知识演化的信念确立为知识性质维度的理论基石。

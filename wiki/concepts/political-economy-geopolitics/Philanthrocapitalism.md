@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Philanthrocapitalism
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 慈善资本主义（Philanthrocapitalism） | [[Venture Philanthropy\|风险慈善]]（Venture Philanthropy） | 传统利他慈善（Traditional Philanthropy） |
 > |---|---|---|---|
 > | **范畴层级** | 宏观政治经济[[Paradigm\|范式]]与国家治理意识形态 | 中观与微观层面的金融投资工具与运营模式 | 伦理层面的道德捐助与社会救济实践 |

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Steve Higgins
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2000s** 任教于杜伦大学教育学院，深耕教育技术、[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]方法，主导开发多项关于信息技术与课堂互动成效的二阶综合研究。
 > - **2011** 受[[Sutton Trust\|萨顿信托]]（[[Sutton Trust]]）委托，领衔杜伦大学研究团队编制指导学校有效使用“[[Pupil Premium\|学生津贴]]”（[[Pupil Premium]]）的[[Abstract\|研究摘要]]，成为后续国家级工具包的雏形。
 > - **2011–2016** 伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size\|效应量]]转化为通俗“进展月数”的[[Evidence-Based Policy-Making|循证决策]]转译[[Paradigm\|范式]]。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法路径** 推动了教育实证研究对“[[Model Dependency\|模型依赖性]]”的深度反思，其复算审计促成了《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的出台，将[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）和模型敏感性分析确立为全球教育试验的黄金行业准则。
 > - **政策与转译路径** 领衔研制的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium\|学生津贴]]的财政资源配置取向。
 > - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency\|证据中介机构]]（[[What Works Network]]）广泛本土化引介，成为[[International Education\|国际教育]]循证综合的标准模板。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** 齐·肖（ZhiMin Xiao）、阿迪特·卡西姆（Adetayo Kasim） — 杜伦大学方法学合作团队，共同完成 17 项早期 [[Randomised Controlled Trials\|RCT]] 复算审计。
 > - **批评者 / 方法论敌** [[Adrian Simpson]] — 杜伦大学数学教育教授，系统批评其工具包联盟表犯下“类别错误”与测量设计混淆。
 > - **依托机构与平台** [[Education Endowment Foundation]]、[[Sutton Trust]]、杜伦大学教育学院。

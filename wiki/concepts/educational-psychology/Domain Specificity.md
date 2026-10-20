@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Domain Specificity
@@ -279,7 +279,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research\|实验研究]]，证实[[Critical Thinking\|批判性思维]]在 [[STEM Education\|STEM]] 与文社科均具稳健效果（$g+ \approx 0.30$），且通用原则与学科融入相结合的混合模式（$g+ = 0.38$）效果最强，实证化解了特异与通用之争。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 使用[[Factor Mixture Modeling\|因子混合模型]]对比历史与数学，从定量测量结构上终结了完全领域一般性假说。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将“判断领域”细分为品味、审美、价值、社会与物理事实，利用混合模式证明了认知发展的非同步性与反转规律。

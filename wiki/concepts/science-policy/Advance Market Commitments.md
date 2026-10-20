@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Advance Market Commitments
@@ -182,5 +182,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第二章，系统阐述高级市场承诺、重大悬赏奖金与[[Pull Mechanisms for Innovation|拉动机制]]在联邦组合式资助中的杠杆效能。

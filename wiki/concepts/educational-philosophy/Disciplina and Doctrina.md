@@ -85,7 +85,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Disciplina and Doctrina
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Disciplina (规训/教规) | Doctrina (教学/更新) |
 > |---|---|---|
 > | **核心指向** | 巩固、存储并复制既有的知识与规范（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。 | 生产、质疑、调整并更新人类的知识系统。 |
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **Disciplina 的静态存储与秩序维护** 扮演存放已发现知识场所的角色，将知识结构化为严密的科目，主要执行代际间的社会化与生产关系再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **Doctrina 的动态生成与主体批判** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，教学过程必须向学生的自主提问、道德反思与共同体建构开放。
 > - **绩效与循证时代的结构性失衡** 当代全球教育行业过度追求可测量结果与横向绩效评估，通过技能原子化技术与管理清单，强行将具备 doctrina 特质的探究活动塞入 disciplina 的流水线框架，严重损害了教育作为人格转变与民主反思的过程（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
@@ -253,7 +253,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **现代 — 知识社会学分析** Stichweh (2001) 追溯[[Disciplinary Institutionalization|学科建制]]与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
 > - **1980s — 批判国家理论引入：Carnoy 论规训与民主化的拉锯** 卡诺伊（Carnoy & Levin, 1985）与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 153–154]]）打破了将学校视为资本主义单向“规训”（disciplina）工具的机械论，确立了学校是经济规训再生产与民主主体赋权（doctrina）双向博弈辩证[[Champ|场域]]的核心命题。
@@ -303,7 +303,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合[[Neo-Taylorism|新泰勒主义]]与全景监控理论，深入剖析《[[Visible Learning|可见的学习]]》如何借助 [[Assessment Tools for Teaching and Learning|asTTle]] 系统与气压计仪表刻度将教师降格为技术规训对象，驱逐教学的人文共同体属性。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯实证反思可见学习与新泰勒主义规训对教师职业的冲击，揭示“人人注视人人”的新行政[[Panopticism|全景敞视]]如何将教学窄化为报表生产并摧毁教师专业认同。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。

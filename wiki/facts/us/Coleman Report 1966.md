@@ -45,11 +45,11 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > ### 法律授权
 >
 > 1964 年美国《民权法案》（Civil Rights Act）第 402 条要求联邦政府对美国教育机会不平等进行全面调查。这一立法授权直接触发了 Coleman Report 的启动——该研究并非出自学术兴趣，而是国会法定命令的产物([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.1]])。
@@ -96,7 +96,7 @@ updated: 2026-10-17
 
 ## 关键文件／声明
 
-> [!quote] 关键文件／声明
+> [!quote|notitle] 关键文件／声明
 > "One of the most important educational investigations ever carried out." — Frederick Mosteller (1995, p. 113)，哈佛大学顶尖统计学家，对 STAR 项目的评价（引自 Wiliam, 2019, p.6）
 > 
 > 有史以来开展过的最重要的教育调查之一。
@@ -107,7 +107,7 @@ updated: 2026-10-17
 
 ## 影响与后果
 
-> [!success] 影响与后果
+> [!success|notitle] 影响与后果
 > ### 学术影响
 >
 > #### Jencks (1972) 的独立验证
@@ -147,7 +147,7 @@ updated: 2026-10-17
 
 ## 争议与评论
 
-> [!warning] 争议与评论
+> [!warning|notitle] 争议与评论
 > ### 方法论批评（1970s–）
 >
 > Coleman Report 失宠的最直接原因是方法论批评([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])：
@@ -237,7 +237,7 @@ updated: 2026-10-17
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
+> [!example|notitle] 相关概念／政策
 > - [[Refraction Framework]] — [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] 在 Coleman Report 50 周年时提出，作为对该报告核心问题（学校与不平等的关系是什么？）的重新回答：学校沿不同维度以不同方式折射不平等。
 > - [[Seasonal Comparison]] — 解决 Coleman Report 未能解决的方法论难题（分离学校与非学校效应）的新一代研究设计，其证据表明 Coleman 可能低估了学校的补偿性作用。
 > - [[A Nation at Risk 1983]] — 标志着 Coleman 之后的第一次政治框定翻转：保守派从引用 Coleman（家庭是问题）转向学校是问题。

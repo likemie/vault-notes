@@ -34,14 +34,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Situated Ethics
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 伦理原则在研究实践中的运作方式——为什么同一伦理原则（如[[Informed Consent\|知情同意]]）在不同研究情境中具有不同的含义和适用性。
 > - **理论问题** 回应伦理普遍主义（认为存在一套不变且有效适用于所有情境的一般原则）与伦理相对主义（认为伦理完全取决于个体良心）之间的经典争论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]——不提供具体伦理守则，而是提供一种关于伦理判断如何被达成的元层次立场。
@@ -104,5 +104,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch.5)]] — 以情境伦理作为全章核心方法论立场，贯穿所有伦理议题的讨论

@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Establishment Caste
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **精英流通管道的闭合（Closure of Circulation Channels）** 设立愈发繁复且脱离实战业绩的文凭门槛、合规测试与圈子认同，实质性排斥体制外实干人才的进入。
 > - **特权自保优先于组织使命（Perquisites over Purpose）** 内部激励机制彻底异化，保护职权待遇、职位头衔与权力寻租压倒了解决实际公共问题的初衷。
 > - **生涯主义泛滥（[[Research in Schools Evaluation|RISE]] of Mere Careerists）** 具有开拓精神与公共担当的领袖被纯粹追求升迁、[[Refined Mastery|精通]]官僚自保的职业政客与管理官僚所全面取代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]
@@ -95,5 +95,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，援引[[E. Digby Baltzell|巴尔策尔]]论统治集团种姓化，警示科技巨头与官僚体制的自我钙化风险。

@@ -70,7 +70,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Clark A. Chinn
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990 年代** 于伊利诺伊大学厄巴纳-香槟分校（UIUC）师从著名认知心理学家 Richard C. Anderson 获得博士学位，深耕儿童协作推理（Collaborative Reasoning）与论证对话。
 > - **2000 年代初** 进入罗格斯大学教育研究生院任教，系统聚焦科学探究、[[Reflexivity\|反思性]]论证与概念转变教学。
 > - **2007** 与 [[Cindy E. Hmelo-Silver]] 及 Ravit Golan Duncan 联合发表对 Kirschner, Sweller, & Clark (2006) 的里程碑式反驳论文，开启学习科学界捍卫[[Inquiry-Based Learning\|指导式探究]]与问题导向学习的国际辩论。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底重塑了当代学习科学对[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）的理论定义，使 [[AIR Model of Epistemic Cognition\|AIR]] 模型成为国际学术界分析个体与集体知识评估的主流分析工具。
 > - **方法路径** 提出了超越图尔敏论证结构分析的[[Epistemology\|认识论]]实质评价[[Paradigm\|范式]]，建立了以观察条件、因果机制与证据可[[Reliability\|信度]]为核心的[[Coding in Qualitative Research\|质性编码]]与微观分析方法。
 > - **教学实践路径** 研发了覆盖初高中的 [[PRACCIS]] 课程体系，将模型建构、证据协调与元认识论审议深度整合进常规科学课堂。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心学术合作者** Ravit Golan Duncan — 长期最核心学术合作者，共同开发 [[AIR Model of Epistemic Cognition\|AIR]] 模型、[[PRACCIS]] 课程与论证评价新[[Paradigm\|范式]]；[[Cindy E. Hmelo-Silver]] — 长期盟友，共同发起 2007 年对最小指导批判的标志性回击；[[Ton de Jong]] — 合作学者，共同撰写 2023 年《教育研究评论》反驳论文；Richard C. Anderson — 博士导师，合作开展协作推理经典研究。
 > - **理论批评者与论辩对手** [[John Sweller]]、Paul A. Kirschner、Richard E. Clark — 认知负荷派代表学者，Chinn 及其学术同盟两度（2007, 2023）就[[Inquiry-Based Learning\|探究式学习]]的有效性与指导必要性同 Sweller 阵营展开针锋相对的学术交锋。
 > - **学术机构与重要项目** 罗格斯大学（Rutgers University）— 长期任教与研究基地；国际学习科学学会（ISLS）— 学术共同体核心依托；[[PRACCIS]] — 主持研发的国家级科学探究与概念转变项目。

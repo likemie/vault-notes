@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Academic Start-up Packages
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970s–1980s — 基础仪器补贴起源** 二战后伴随联邦基金向个人教授分散授予，大学为吸引拔尖科学家开始提供小额仪器安置费；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》通过后，专利商业化潜力进一步推升顶尖学者的初期议价能力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–42)]]
 > - **1990s — 间接费封顶与军备竞赛升级** 1991 年联邦行政管理与预算局对大学行政间接费率设定 26% 上限，高校无法完全依赖外部项目冲抵管理成本；但高校排名竞争促使名校展开“明星学者”竞逐，启动金额度急剧飙升至青年教师起薪的 4–5 倍。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24)]]
 > - **2000s 至今 — 避险危机与商场模型反思** 启动金膨胀被理论化为大学“商场模式”下的摊位铺底租金；学者深入揭示 3 年资助耗尽倒计时与[[Academic Risk Aversion|学术避险主义]]之间的结构性因果链条。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
@@ -199,7 +199,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
 

@@ -48,7 +48,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Methodological Individualism
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1900s–1920s — 经典社会学与经济学奠基** Schumpeter（1908）正式提出术语；Max Weber（1922）确立理解社会学纲领，强调社会现象必须追溯至个体有意义的行动。
 > - **1940s–1960s — 科学哲学与反历史[[Determinism\|决定论]]深化** Karl Popper（1945）在《开放社会及其敌人》中将方法论个体主义确立为反极权主义与反历史主义[[Epistemology\|认识论]]的核心支柱。
 > - **1980s–1990s — 分析马克思主义与理性选择社会学** Jon Elster（1989）与 Raymond Boudon（1982）推进微观基础理论，提出科尔曼之船（Coleman, 1990）微观-宏观连结模型。
@@ -184,5 +184,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 运用[[Critical Review\|批判性综述]]解构 34 篇核心文献，明确将方法论个体主义识别为 30 年来阻碍[[Research Utilization\|研究使用]]理论突破的关键[[Epistemology\|认识论]]瓶颈。

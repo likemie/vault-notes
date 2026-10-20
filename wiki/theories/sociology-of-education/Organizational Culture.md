@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Organizational Culture
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 组织文化在不同层级上的生成机制与表征结构，特别是物质[[Artefact|器物]]、公开信奉价值与深层潜意识假设之间的动态关联。
 > - **理论问题** 解释组织内部可见显现与隐性深层规范的脱节，破解为何组织在物理符号（器物）与口头承诺（价值观）上积极拥抱变革，而在日常行为与决策中却深陷防备、怀疑与因循守旧（深层假设）；解释为何上层正式采办文化与程序重构往往与基层微观非正式制度发生结构性解耦；以及为何公共部门的官僚防御文化会阻绝前沿技术并催生[[Innovation Desert|创新荒漠]]。
 > - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、科技创新管理、[[Output-Oriented Governance|循证治理]]、国家能力与质性/[[Visual Research Methods|视觉研究方法]]论。
@@ -260,7 +260,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 学校与教育行政机构内部的[[Hidden Curriculum|隐性课程]]、环境符号象征意义、改革阻力机制、[[Evidence-Based Policy-Making|循证决策]]中的政学信任断裂，以及公共部门的技术排斥与[[Innovation Desert|创新荒漠]]成因。
 > - **谨慎使用** 急剧变动或初创期的松散教育联盟，这类组织尚未沉淀出稳定的深层共享假设，更易受外部短期环境剧烈扰动。
 > - **不适合解释** 纯技术性教学法干预的短期因果效应大小；不能代替具体的微观课堂师生认知互动分析。
@@ -270,7 +270,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1985/1992 — 三层次经典框架奠基** Edgar Schein 发布《Organizational Culture and Leadership》，系统确立[[Artefact|器物]]、信奉价值观与基本潜在假设的三层次模型。
 > - **1994/2009 — 国际多边官僚机构的组织文化解剖** 莫伊塞斯·纳伊姆（Naím, 1994）解构[[World Bank|世界银行]]内部的智力傲慢文化；[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）进一步将其应用于[[Multilateral Development Bank|多边开发银行]]的教育贷款比较，揭示经济学技术官僚精英主义与拉美在地[[Pragmatic Paradigm|实用主义]]文化的制度分殊。
 > - **2010 — 前沿科技创新组织中的文化与非正式制度解耦研究** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）将组织文化与制度主义理论拓展至前沿国家资助机构（[[DARPA]]），实证揭示上层正式采办文化重构与微观非正式治理制度之间的解耦与韧性连续性。
@@ -335,7 +335,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 运用组织文化框架剖析公共部门官僚自保假设对创新的阻绝机制，提出导入工程实效文化以破除[[Innovation Desert|创新荒漠]]；并在 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|第 18 章]] 结合实证金融与专利计量，论证创始人审美品味、奥德修斯自愿自我约束与全员股权所有权文化对长周期突破性创新的决定性作用。
 > - **[[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]** 援引 Naím (1994) 的视角剖析[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]的组织文化差异，揭示技术官僚智力傲慢如何导致教育贷款方案脱离受援国一线现实。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]** 阐释如何阅读教室、校长办公室等学校物理[[Artefact|器物]]，说明器物在解读隐性组织文化与权力结构中的方法论价值。

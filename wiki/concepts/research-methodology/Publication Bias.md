@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Publication Bias
@@ -247,7 +247,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 在[[Epistemic Cognition\|认识论认知]][[Meta-analysis\|元分析]]中建立[[Funnel Plot\|漏斗图]]、Egger 检验、Duval & Tweedie [[Trim and Fill Method\|剪补法]]及双[[Fail-Safe N\|失安全数]]的多重诊断[[Paradigm\|范式]]，确立[[Effect Size\|效应量]]经剪补下调（$d = 0.509 \to 0.342$）后依然稳健的实证典范。
 > - [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] — 运用 Vevea-Hedges 权重函数模型检验发表偏倚对[[Developer Effect\|开发者效应]]的贡献（解释约 66%），揭示独立评估在出版生态中遭遇的选择性发表风险。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 结合漏斗图与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI [[Higher-Order Thinking Skills\|高阶思维]]促学效应展开稳健性核查。

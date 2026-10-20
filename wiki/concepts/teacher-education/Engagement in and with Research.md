@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Engagement in and with Research
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **开展研究（Engagement in research）** 涵盖发现教学现场真实痛点、拟定探究方案、收集分析课堂数据并反思教学成效，直接塑造教师的方法论实操技能（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 3–5]]）。
 > - **使用研究（Engagement with research）** 涵盖追踪专业学术期刊、解读实证图表与统计分析结论、在备课中吸纳前沿教学法知识，构成日常[[Evidence-Based Policy-Making|循证决策]]的知识输入源泉（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 6–8]]）。
 > - **双轨独立性与差异效应** 实证检验表明，开展科研与追踪期刊对教师素养各维度产生独立的主效应，两者之间无统计显著的[[Interaction Effect\|交互作用]]，表明两条路径各自独立发挥促成价值（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, p. 13]]）。
@@ -199,7 +199,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2010 — 提出做研究与用研究的区分** Bell 等人在英国教育科研利用[[Systematic Review\|系统综述]]中明确提出“Engagement in research”与“Engagement with research”的二元分类，奠定理论基石。
 > - **2014 — [[British Educational Research Association\|BERA]]-RSA 调查报告确立国家战略地位** 英国教育研究学会（BERA）与皇家艺术学会（RSA）将双轨参与确立为建设“自我完善教育系统”（Self-improving education system）的核心支柱，倡导将学校建设为研究介入型组织。
 > - **2022 — [[OECD\|经合组织]]跨国政策调查揭示制度断层** Hill 基于 OECD 针对 29 国 37 个教育系统的政策调查，量化测定了教师在研究生产中的边缘化（82% 不活跃）、数据收集客体化扭曲及外在制度激励全面匮乏的生态病理。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–92)]]
@@ -227,6 +227,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 实证检验期刊追踪（用研究）与亲身开展科研（做研究）对教师[[Research Literacy\|研究素养]] 4 个维度的独立主效应，证实微观双轨互补机制。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查（29 国 37 个系统），量化诊断一线教师在科研生产中的边缘化、生命周期数据收集客体化扭曲以及外在制度激励全面匮乏的宏观生态病理。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # Pauli Murray
@@ -66,7 +66,7 @@ updated: 2026-10-08
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1910** 出生于美国马里兰州巴尔的摩，外祖母曾是北卡罗来纳州的奴隶，父亲在公立精神病院遭受种族主义狱警残忍殴打致死。
 > - **1944** 以第一名毕业于霍华德大学法学院，但因女性身份被哈佛大学法学院研究生项目拒之门外。
 > - **1950** 出版权威著作《州关于种族和肤色的法律》（*States' Laws on Race and Color*），被瑟古德·马歇尔（Thurgood Marshall）赞誉为民权诉讼律师的“圣经”。
@@ -101,7 +101,7 @@ updated: 2026-10-08
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **民权与女权法学** 开创的性别与种族交叉分析视角直接奠定了美国反性别歧视判例法的基础。
 > - **高等教育与[[Academic Freedom|学术自由]]** 确立了[[Grandes Ecoles|大学校]]园面对极端极化政治演讲时应当坚持的言论自由典范与制度标杆。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–60)]]
 
@@ -109,7 +109,7 @@ updated: 2026-10-08
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想共鸣者** [[Aryeh Neier]] — 共同构成当代西方在极度争议情境下坚守宪法[[Hard Belief|硬信念]]的典范人物。
 > - **学术与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中作为展现“智识勇气与硬信念”的核心案例。
 

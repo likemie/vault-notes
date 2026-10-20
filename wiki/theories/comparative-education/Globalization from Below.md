@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Globalization from Below
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 跨国界草根社会运动、原住民团体、教师工会、女性主义及生态保护力量如何突破民族国家地理边界，依托数字网络建构跨国团结阵线，抗衡由跨国资本与新自由主义国家官僚主导的自上而下[[Educational Privatisation|教育私有化]]与量化问责改革。
 > - **理论问题** 批判主流比较教育研究中盛行的自上而下政策[[Convergence Theory in Comparative Education|趋同论]]与新自由主义技术经济[[Determinism|决定论]]，回应底层微观行动者在资本主义世界体系出现结构性危机时，如何利用全球流散空间发起反抗并探索具有实质公平性的替代教育方案。
 > - **理论类型** 批判解释理论与规范解放[[Analytic Framework|分析框架]]。
@@ -230,7 +230,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 跨国基层社会运动、教师工会维权、原住民自治教育保护以及由非国家行动者发起的批判性跨国网络研究。
 > - **成立条件** 基层行动者必须具备最低限度的信息通信渠道接入能力（跨越数字鸿沟），且能够维持起码的结社与跨国通信自由。
 > - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见[[Geopolitics|地缘政治]]回归与民粹民族主义对跨国草根团结的严重撕裂。
@@ -262,5 +262,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 确立教育改革自上而下与自下而上的双轴四象限框架，系统剖析信息以太流散空间赋能跨国草根反抗的理论机制与世界体系社会民主前景（pp. 113–115）。

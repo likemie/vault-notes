@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Isaiah Berlin
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1909** 出生于俄罗斯帝国拉脱维亚里加的一个富裕犹太家庭，童年亲历俄国革命动荡。
 > - **1921** 随全家移居英国伦敦，后就读于牛津大学圣保罗公学与基督堂学院。
 > - **1932** 当选牛津大学全灵学院首位犹太人研究员，从事古典哲学与概念分析研究。

@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge Building Theory
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 学习者共同体如何在协作互动与数字化网络工具支持下，像专业科学研究团队一样创造、发展与持续改进公共知识产品。
 > - **理论问题** 批判传统学校教育将教学降格为向个体头脑灌输现成信息的信道传递模式（Transmission Model）或仅关注个体心智转变的狭隘[[Constructivist Paradigm|建构主义]]，回应如何在基础教育课堂中培育适应知识社会的核心创新素养与[[Epistemic Agency|认识能动性]]。
 > - **理论类型** 整合教学法、社会[[Epistemology|认识论]]与学习环境设计的综合性学习科学理论与规范[[Analytic Framework|分析框架]]。
@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** [[Open-Mindedness|开放性]]科学探究、跨学科综合实践活动、高等教育研讨课及教师[[Professional Learning Community|专业学习共同体]]中的创新协作。
 > - **成立条件** 教学具有相对充裕的探究时间周期、具备支持观点可视化的数字化协作平台、教师具备良好的促学反思与动态支架设计能力。
 > - **解释不足** 对需要高度程序化自动化训练的基础技能（如算术运算法则、拼写规则）解释力有限；在此类任务中强行套用开放建构可能导致认知效率低下。
@@ -204,6 +204,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 系统检验[[Reflective Structuration|反思性结构化]]作为知识建构理论的新型社会与时间机制，证实五年级学生在 7 个月人体系统探究中能自主重构意向领域与[[Opportunistic Collaboration|弹性协作]]小组。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将知识建构视阈下的协同研讨与社会建构理论应用于高校半导体学者工作坊，实证检验多轮迭代的结构化交流如何促进不同系所科研人员之间的观点碰撞、知识共享与跨学科战略团队孵化（pp. 3, 6）。

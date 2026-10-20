@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Max Planck Institute for Human Development
@@ -83,7 +83,7 @@ updated: 2026-10-15
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **[[Disciplinary Institutionalization|学科建制]]影响** 彻底改变了德语区教育科学的版图，促成了教育研究从传统的纯哲学“[[Geisteswissenschaften|精神科学]]教育学”向多学科[[Scientific Method|经验科学]]的[[Paradigm|范式]]跨越，与法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 形成了相得益彰的实证双核。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **政策决策影响** 作为西德 1970 年代教育现代化的“智囊中枢”，直接主导起草了《教育结构计划》（Strukturplan），为联邦德国推行综合高中（Gesamtschule）实验与现代高等教育扩招提供了直接理论依据。
 > - **国际学术影响** 为战后德国学者深度参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与跨国实证调查（如早期 [[IEA]] 项目）提供了坚实的实体依托与[[Data Infrastructure|数据基础设施]]。

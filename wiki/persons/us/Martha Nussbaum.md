@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Martha Nussbaum
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于美国纽约，后在哈佛大学获得哲学博士学位。
 > - **1994** 在《波士顿评论》（*Boston Review*）发表争议性论文《爱国主义与[[Cosmopolitanism|世界主义]]》，掀起当代关于爱国主义伦理地位的重大论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **1995** 加入芝加哥大学法学院与哲学系任教。
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **政治哲学与伦理学路径** 重塑了当代关于全球正义、[[Cosmopolitanism|世界主义]]与爱国主义的哲学论争，成为后国家世界公民学派的核心旗帜。
 > - **发展经济学与政策评估** 与森共同推动联合国开发计划署（United Nations Development Programme, UNDP）采用人类发展指数（Human Development Index, HDI）与可行能力框架。
 > - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** 阿玛蒂亚·森（Amartya Sen）— 共同奠定[[Capability Approach|可行能力方法]]。
 > - **思想共鸣者** [[Richard Sennett|理查德·桑内特]] — 共同倡导超越民族国家认同的多元协作构想。
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判其[[Cosmopolitanism|世界主义]]导致国家认同虚空化。

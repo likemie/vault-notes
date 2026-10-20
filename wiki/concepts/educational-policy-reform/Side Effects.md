@@ -33,12 +33,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 教育中"副作用"（side effects）的概念由 [[Argument_Zhao_2017_JEC|Zhao (2017)]] 从医学引入教育研究。剑桥英语词典将副作用定义为："伴随某事物期望效果而来的非期望或意外的结果或状况"([[Argument_Zhao_2017_JEC\|Zhao, 2017, p.2]])。在教育语境中，副作用指教育干预在产生预期效果的同时，可能对学生的其他能力、态度或发展维度造成的负面损害。
 >
 > > "Side effect is defined... as 'an unwanted or unexpected result or condition that comes along with the desired effects of something.'"
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > [[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提供了三个案例的实证证据：
 
 
@@ -86,13 +86,13 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - 副作用概念在教育中的[[Operationalization\|操作化]]存在挑战——教育结果具有多维性和长期性，不像药物副作用那样容易归因和测量（Zhao 对此承认，并提出 6 项建议作为起点）
 > - 目前副作用研究主要由批评者和反对者提供，被支持者以"缺乏客观性"或"意识形态驱动"为由不予采信——这需要制度性改变而非仅靠个别研究者的努力([[Argument_Zhao_2017_JEC\|Zhao, 2017, p.15-16]])
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - 借鉴医学研究（FDA 药物审批和上市后监测制度）作为制度模型
 > - Campbell's Law (Campbell, 1976)："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"
 

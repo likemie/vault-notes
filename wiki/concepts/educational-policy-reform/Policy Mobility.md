@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Mobility
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **突变与转译（Mutation and Translation）** 政策在跨界穿梭中始终伴随形式突变与功能再编码；在不断遭遇地方摩擦、政治阻力与利益再分配时，进入新[[Champ\|场域]]的政策演变为杂糅跨国模板与地方权宜考量的衍生装配体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5]]
 > - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
 > - **快速政策与中介经纪（Fast Policy and Intermediary Brokerage）** 政策由麦肯锡（McKinsey & Company）等跨国咨询巨头、[[Venture Philanthropy\|风险慈善]]基金会与智库打包为去情境化、即插即用的因果证据与商业评估量规，以超常规的行政速度在跨国体系间高速流通，剥夺公众民主审议时间。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]
@@ -239,7 +239,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 经典政策转移与经验汲取[[Paradigm\|范式]]** 政治学与公共政策学者（Rose, 1991；Dolowitz & Marsh, 1996）提出政策转移（Policy Transfer）概念，主要聚焦主权国家政府间自愿或强制的政策搬运，预设理性的决策主体与稳定的地理管辖权。
 > - **2000s — 比较教育[[Policy Borrowing\|政策借用]]与本土化转向** 比较教育学界（Phillips & Ochs, 2003；Steiner-Khamsi, 2004）提出政策借用（Policy Borrowing）四阶段模型与外生[[Van Leeuwen's Legitimation Theory\|合法化理论]]，强调政策借用往往受国内政治危机驱动，并重点关注政策抵达成后的本土折射（Refraction）与变形。
 > - **2010–2015 — 地理学空间转向与“快速政策”兴起** 批判地理学家（Peck & Theodore, 2010, 2015；McCann & Ward, 2012）正式确立“政策流动”（Policy Mobilities）框架，提出“突变”（mutation）与“快速政策”（fast policy）概念，指出政策是通过由智库、商业顾问构成的跨国[[Infrastructures of Immobility\|流动基础设施]]穿梭的去中心化装配体。
@@ -290,7 +290,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]，追踪循证中介模型从英国 [[Education Endowment Foundation\|EEF]] 流动至澳大利亚 [[Australian Education Research Organisation\|AERO]] 的十年跨国历程，揭示跨国资本与企业法耐用材料在快速政策流动中的装配功能。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统绘制澳大利亚公共教育中[[Venture Philanthropy\|风险慈善]]与国家催化网络的崛起图景，揭示 [[Social Ventures Australia\|SVA]] 作为政策流动中枢装配 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 的演进机制，以及税法特许与异层再分配对公共教育民主基石的侵蚀。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。

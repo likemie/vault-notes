@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jean-François Lyotard
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 其[[Narrative Knowledge\|叙事知识]]与科学知识的划分成为[[Critical Pedagogy\|批判教育学]]和[[Geopolitics of Knowledge\|知识地缘政治]]分析的关键视角；对[[Grand Theory\|元叙事]]解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化[[Discourse|话语]]的兴起。
 > - **政策与制度评估** [[Performativity\|绩效性]]概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism\|学术资本主义]]）。
 > - **知识商品化与学术重商主义** 知识为了售卖而生产的论断被比较教育学者用于剖析大学学术重商主义与跨国咨询输出，揭示高等院校如何将[[School Effectiveness|学校效能]]与绩效方案包装为咨询商品输出至发展中国家。
@@ -201,7 +201,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视[[Jean-François Lyotard|利奥塔]]的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
 > - **现代跨国教育流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-10-18'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Education as Initiation
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 教育即引介（Education as Initiation） | [[Banking Model of Education\|储蓄式教育]]（Banking Model） | 评价化自闭调控（[[Research Cage]] / Evaluational [[Feedback]]） |
 > |---|---|---|---|
 > | **教育本质** | 引导学习者融入人类共享的公共文化传统与理性探究生活。 | 教师向被动接受的学生单向存入既定现成知识条目。 | 追求预设指标达成度的数据循环监控与外科手术式干预。 |
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **公共探究传统的客观性** 科学、哲学、历史、艺术与道德构成了人类共享的客观思想财富（波普尔世界三），拥有超越个体主观偏好的内在规范与逻辑。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 9–11)]]
 > - **教师作为文化中介的引导权威** 教师自身首先深度沉浸于文化传统之中，并以对话、示范与启发引导初学者步入探究殿堂。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–9)]]
 > - **认知与探究活动的内在价值** 学习活动的目的深植于理解与追求真善美本身，超越单纯的外在工具功利与量化绩效考核。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 9)]]
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1964–1966 — 概念奠立** 理查德·斯坦利·彼得斯在伦敦大学教育学院就职演讲《教育即引介》（*Education as Initiation*）以及名著《伦理学与教育》（*Ethics and Education*）中系统阐发该概念，确立了分析教育哲学“伦敦学派”的立论基石。
 > - **1970–1980 年代 — 多元争鸣与拓展** 学界围绕引介概念展开深刻研讨，涉及传统权威与个人自由的张力，概念被延伸至[[Liberal Education|自由教育]]（Liberal Education）与公民道德教化理论。
 > - **2010 年代至今 — 对抗量化主义的哲学重振** 面对全球教育政策中量化测评与循证[[Performance Indicators|绩效指标]]的泛滥，托马斯·奥斯特鲁普·罗默等教育哲学家重拾“教育即引介”传统，作为抵御评价理论吞噬教育本质与文化传统的核心理论参照。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 9)]]
@@ -171,7 +171,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 在批判[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》时将教育即引介作为重要理论坐标，指认将反馈蜕化为数据回流的技术主义做法构成了对文化引介传统的背离。
 
 ---

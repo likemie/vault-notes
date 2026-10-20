@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Pupil Database
@@ -112,6 +112,6 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述国家学生数据库在避免自编测验偏倚、对冲[[Attrition\|样本流失]]及支撑 [[Education Endowment Foundation\|EEF]] 试验数据开放归档中的核心支柱角色。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 记录英国财政研究所如何依托 NPD 微观数据开展大样本[[Propensity Score Matching\|倾向得分匹配]]与[[Difference-in-Differences\|双重差分]]因果评估。

@@ -77,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Test-Based Accountability
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 考试问责（Test-Based Accountability） | 专业责任（Professional Responsibility） | 一般教育评价（Educational Evaluation） | [[Examination-Oriented Education\|应试教育]]（Examination-Oriented Education） |
 > |---|---|---|---|---|
 > | **驱动机制** | 外部行政监管与绩效奖惩(Kogan, 1986) | 专业共同体内部的伦理承诺与[[Professional Judgment\|专业判断]](Solbrekke & Englund, 2011) | 信息收集与教学改善 | 升学竞争与考试文化(Feng, 1995) |
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **行政考评规则（Rules）** 自上而下下达统考提分目标，将绩效考核、年度评优及校长任期评估与卷面成绩直接挂钩。
 > - **教法与诊断工具（Mediating Tools）** 依托教师主导的讲授教学、刷题训练以及统考后的数据分析诊断工具。
 > - **数字化监测基础设施与算法指标（Digital Infrastructure & Algorithmic Indicators）** 依托集中式纵向学生数据仓库与早期预警算法系统，将标准化考试切分点、出勤率及学分达成度计算为量化风险等级，自动触发行政警报与督导问责。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]
@@ -202,7 +202,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **6 世纪至今 — 中国[[Civil Service Examination\|科举]]传统与考试文化奠基** [[Civil Service Examination\|科举制度]]奠定了以考试衡量教育成功的文化传统，形成社会对考试公平性的认同，教师将追求考试优秀内化为对学生未来的道德义务。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 587-589)]]
 > - **1980s–2000s — [[New Public Management\|新公共管理]]与西方高利害问责建制** 新公共管理兴起，问责概念引入教育治理。美国《不让一个孩子掉队》法案等政策将标准化测试结果与学校奖惩硬性挂钩，引发学界对绩效主义的讨论。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
 > - **2000s 至今 — [[PISA]] 驱动与[[Global Education Reform Movement\|全球教育改革运动]]拓展** [[PISA]] 推动全球范围内基于数据的问责治理，各国建立与国际标准对接的国家质量监测体系（如瑞士 [[HarmoS]]）。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
@@ -260,7 +260,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]揭示中国学校在考试问责下建立共享目标、推动以学生为中心教育扩展性改造的实践机制。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 揭示 [[PISA]] 比较逻辑如何在中观治理层面嵌入国家考试问责体系。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 以英格兰 79 所小学的基线调查呈现问责环境下[[Research Utilization\|证据使用]]与协作探究深度的分布，指出总结性测评数据压倒其他证据形式，并据此主张督导框架须明确支持证据知情改进。

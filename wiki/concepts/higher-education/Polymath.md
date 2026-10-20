@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Polymath
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **跨学科穿透能力** 无视人为设置的学科壁垒，能够自由穿梭于物理学、生物学、工程制造、法律与哲学政治之间。
 > - **务实工程导向** 坚持[[Pragmatic Paradigm|实用主义]]科学政策，摒弃虚荣的好奇心，注重将科学发现转化为增进民生福利与国家实力的具体技术。
 > - **实证测量与反思精神** 崇尚亲自动手进行实验观察与测量（如[[James Madison|麦迪逊]]解剖黄鼠狼反驳物种退化论），以经验证据挑战权威陈见。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 详细考证美国早期博学治国传统与现代代议制技术人才断崖（1.3%），阐明工程素养对国家治理合法性的深远意义。
 
 ---

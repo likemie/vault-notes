@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cult of Optionality
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **退路泛滥与过度避险（Proliferation of Off-Ramps）** 在任何重大决断前始终预设多重备用方案（Backup Plans），磨平一切棱角以迎合所有潜在雇主与评价者。
 > - **永久准备状态（Perpetual Preparation）** 不断考取资质、刷履历、积累可迁移技能，但从未真正将自身投入到任何一项具有实质成败风险的伟大事业中。
 > - **排他性承诺恐惧（Fear of Irreversible Commitment）** 视确定性承诺（如国家忠诚、宗教信仰、激进创业、深度学术钻研）为剥夺未来灵活性的高危负债。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–71)]]
@@ -112,5 +112,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，剖析选择权崇拜对青年科技精英与大学毕业生的心智束缚。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Realism in International Relations
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Pragmatic Paradigm\|实用主义]]工具性借用（Pragmatic [[Policy Borrowing\|Educational Borrowing]]）** 比较教育被定位为强国竞争的技术工具。通过识别国内教育“问题”，从其他“成功”的大国借鉴“方案”加以本土适应，以增强本国的工业、科技与地缘实力。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 419]])
 > - **“大国焦虑”引发的注意力转换（Great-Power Anxiety & Attention Shift）** 学科的研究议程直接受地缘实力失衡的危机感驱动。一旦核心霸权受到他国崛起（如苏联太空发射或日本工业技术）威胁，便会引发突发性注意力狂热，将目光投向那些“曾经被忽视的”国家（如对芬兰的[[Cohort Study\|追踪研究]]）。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–420]])
 > - **文明化与发展工程的学科共谋（Colonial & Developmental Collusion）** 在殖民时期体现为向非西方世界输出本国学校系统以行使行政控制的“文明化使命”（mission civilisatrice）；在冷战后表现为通过对“落后/滞后”国家进行专家调研，为超级大国争夺第三世界新独立国家的地缘忠诚服务。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])
@@ -151,7 +151,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了现实主义如何在大国竞争、工业冲突、太空恐慌和帝国扩张下，将学科绑架于地缘利益之战中。
 > - [[Development Turn in Comparative Education]] (比较教育的发展转向) — 展现了冷战地缘博弈下，现实主义在大国向第三世界输出代理人时期的实证表现。
 > - [[Reference Society]] (参照社会) — 现实主义视角下为了确立自我相对实力定位而建立的研究与投影框架。

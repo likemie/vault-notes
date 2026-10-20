@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technological Catch-up
@@ -132,7 +132,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1841 — [[Friedrich List|李斯特]]提出后发工业追赶原理** 在《政治经济学的国民体系》中系统阐发后发德意志如何打破英国工业垄断的保护关税与技术教育战略。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
 > - **1986 — 阿布拉莫维茨提出“逼近、超越与落后”** 提炼 Catching up, Forging ahead and Falling behind 三分演化路径，强调制度与社会能力的决定性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
 > - **1990s — [[Systems of Innovation|创新系统]]与技术[[Paradigm|范式]]融合** Freeman 与演化学者将赶超与微电子新技术范式的扩散相链接，使之成为指导发展中国家产业升级的经典理论工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–21)]]
@@ -152,5 +152,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合德、日、苏、韩、拉美等长周期历史案例，系统构建了以[[National Innovation System|国家创新系统]]为核心的技术赶超解释体系。

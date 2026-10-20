@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Dwight D. Eisenhower
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1890** 出生于美国德克萨斯州丹尼森。
 > - **1915** 毕业于美国西点军校。
 > - **1943–1945** 出任欧洲盟军最高远征统帅，组织实施霸王行动（Operation Overlord）。

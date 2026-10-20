@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Vivian Tseng
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **教育背景** 获得加州大学洛杉矶分校（University of California, Los Angeles, UCLA）学士学位，以及纽约大学（New York University, NYU）心理学博士学位，长期关注移民儿童、少数族裔青少年福祉与系统不平等问题。
 > - **2004–2022** 加盟[[William T. Grant Foundation\|威廉·T·格兰特基金会]]并升任高级副总裁，全面主管基金会研究资助组合，开创全美首个专注于“政策与实践中研究证据如何被利用”的常设资助项目，推动设立跨部门机构挑战资助（Institutional Challenge Grants）；曾任亚裔美国人与太平洋岛民慈善协会（Asian Americans/Pacific Islanders in Philanthropy, AAPIP）董事会主席。
 > - **2017** 推动研制并发布 [[Research-Practice Partnership\|RPP]] 有效性五大维度评估框架（Henrick et al., 2017），为全美学区-大学伙伴关系确立立项与评估基准。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **资助[[Paradigm\|范式]]重构** 推动[[William T. Grant Foundation\|威廉·T·格兰特基金会]]、多丽丝·杜克基金会、斯宾塞基金会等设立跨部门“机构挑战资助”（Institutional Challenge Grants），直接资助高校重组内部考评架构，促使纽约卡内基基金会推行政策学术停钟（Tenure clock pause）机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231–232)]]
 > - **[[Research-Practice Partnership\|RPP]] 评估体系确立** 协同 Henrick 等学者确立[[Evaluation Research\|评估研究]]-实践伙伴关系有效性的五大维度，为全美数十个学区-高校协作联盟提供操作与检验基准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 232)]]
 > - **跨界中介专业化** 将跨界中介专员（[[Boundary Spanner]]）与一线社区误工补偿机制列入常设预算，重塑了科研合作的经济与人力资源分配模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
@@ -134,7 +134,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** Cynthia Coburn & William Penuel — 共同阐明教育[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的理论概念与实施机制。
 > - **资助与评估伙伴** Erin Henrick 等 — 研制 RPP 有效性五大维度评估框架（Henrick et al., 2017），奠定伙伴关系成效的实证评估标尺。
 > - **政策与资助论辩者** [[Mark Schneider]] — 施奈德强调官方联邦自上而下的 SEER 技术标准与构件因果拆解，曾薇薇安主张自下而上重组资助权力、推行社群共有议程与评价多元化。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Development Turn in Comparative Education
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（发展转向） | 殖民时期的比较教育 | 全球化时代的比较教育 |
 > |------|--------|----------------|----------------|
 > | **分析对象** | 发展中国家的教育规划与[[Human Capital Theory\|人力资本]]开发。 | 帝国统治下的殖民地教育与土著学校。 | 全球多边治理网络中的政策流转与标准数据。 |
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957\|Sputnik]]人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement\|教育经济学运动]]。芝加哥大学Anderson中心促进了学科融合，协助[[Human Capital Theory\|人力资本理论]]在国际项目（如[[Mediterranean Regional Project\|地中海区域项目]]）中全球扩散；[[OECD\|经合组织]]（1961年）与[[International Education\|国际教育]]规划研究所（1963年）等机构在此时期成立，为[[Development Education|发展中国家教育]]规划提供技术援助。
 > - **1990s 至今 — 新自由主义[[Governing at a Distance\|远处治理]]下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm\|范式]]”平稳过渡为新自由主义的全球标准[[Discourse|话语]]。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持[[Post-Fordism|后福特主义]]的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
@@ -178,5 +178,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 系统探讨了 Wight 的三大[[Wight's Three Traditions of International Theory\|国际关系理论]]如何折射于比较教育的学科历史中，将“发展转向”定位为冷战时期现实主义地缘竞争以及后冷战时期新自由主义全球化[[Discourse|话语]]统治的关键知识载体。

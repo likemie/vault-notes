@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Pankaj Mishra
@@ -58,7 +58,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1969** 出生于印度北方邦詹西。
 > - **1988–1992** 毕业于安拉阿巴德大学，并在德里大学获英国文学硕士学位。
 > - **1990s–** 长期为《纽约书评》《卫报》《纽约客》《伦敦书评》撰写长篇政论与文化随笔。

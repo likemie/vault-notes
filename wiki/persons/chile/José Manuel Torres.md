@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # José Manuel Torres
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2010 年代初** 获得智利天主教大学（Universidad Católica de Chile）经济与工商管理学士学位，并在智利与法国参与区域社会经济学实证调查。
 > - **2010 年代中** 赴法国巴黎第一大学（先贤祠-索邦大学，Pantheon-Sorbonne University）深造，获公共政策硕士学位。
 > - **2016–2019** 任职于智利基金会（Fundación Chile），主持一线学校创新教育项目与教学改进干预的研发与落地，积累了跨越学校实践与政策设计的实务经验。
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 整合公共卫生、[[Knowledge Mobilisation\|知识动员]]与教育政策领域的[[Analytic Framework\|分析框架]]，建立了贯通微观用户特征与宏观系统特征的五维度拓扑模型，澄清了机制（Mechanism）与干预（Intervention）在政策学上的概念区隔。
 > - **方法路径** 为 [[OECD]] 政策调查设计了多层级指标体系，将抽象的知识吸收与利用阻碍分解为可量化的实证观测项，形成了涵盖 37 个系统的跨国比较基线。
 > - **政策路径** 直接为参与 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目的 29 个成员国教育决策部门提供了国家层面的证据生态诊断基准，推动威尔士、荷兰、挪威等国反思其研究资助与政策制定的中介机制设计。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** Nóra Révai — [[Centre for Educational Research and Innovation\|OECD CERI]] 项目负责人兼《谁在乎教育研究的政策与实践应用？》主编，与 Torres 共同主导了整个跨国调查的设计与分析统筹。
 > - **机构／运动／项目** [[OECD]] — 国际政府间经济与政策组织，项目委托与执行依托主体。
 > - **机构／运动／项目** [[Centre for Educational Research and Innovation]] — 经合组织教育研究与[[Innovation Hub\|创新中心]]，研究[[Knowledge Mobilisation\|知识动员]]专项推进机构。

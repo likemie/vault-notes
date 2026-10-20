@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Independent Variable
 
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile and Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 批判可见学习中自变量的原子化还原以及自变量与[[Dependent Variable|因变量]]循环互证所构建的[[Research Cage|封闭研究牢笼]]。（pp. 4–6）
 

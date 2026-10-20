@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Andreas Kazamias
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich），接受深厚的[[Paideia|古典教化]]（[[Paideia]]）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学理论，论证非普适[[Working Hypothesis|探索性假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
@@ -171,7 +171,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 作为比较教育求同存异传统的代表人物，以历史与情境作为核心代码，抵制庸俗的[[Positivism\|实证主义]]与去语境化的量化指标崇拜。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > - **方法路径** 强调严肃历史档案考掘与诠释学细读，为[[Historical-Comparative Method\|历史比较法]]提供[[Epistemology\|认识论]]正当性辩护，推动比较教育学者将宏观文明史、制度档案与微观行动者叙事紧密交织。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 9–10)]]
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge\|知识地缘政治]]的反省。
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术导师** [[Robert Ulich\|罗伯特·乌利希]] — 哈佛大学博士导师，奠定其[[Paideia|古典教化]]与文化通史研究根基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **同门学友** 保罗·[[Roy Nash|纳什]]（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday\|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
 > - **合作者** [[Robert Cowen\|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学对话。

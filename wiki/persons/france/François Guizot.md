@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # François Guizot
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1787** 出生于法国尼姆（Nîmes）的新教资产阶级家庭；父亲在法国大革命雅各宾恐怖统治时期被送上断头台，[[François Guizot|基佐]]随母亲流亡日内瓦，接受严格的古典与加尔文主义哲学教育。
 > - **1812–1830** 返回巴黎任索邦大学现代史教授，成为立宪“空想派（Doctrinaires）”自由主义理论领袖；主张中间道路，既反对波旁复辟时期的极端保皇反动，亦反对激进平民共和暴动。
 > - **1830–1832** 七月革命推翻波旁王朝建立奥尔良七月王朝；基佐步入权力中枢，委托同道哲学家[[Victor Cousin\|维克多·库森]]前往德国考察普鲁士公共教育体系。
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **法国本土制度路径** [[Guizot Law of 1833\|基佐法案]]在全法掀起了史无前例的建校浪潮：数年内法国公立初等小学由两万余所激增至三万余所，公立[[Normal School\|师范学校]]覆盖绝大多数省份，首创全境专职皇家督学网（Inspecteurs primaires），彻底确立了法国国家初等教育的制度化根基。
 > - **欧陆比较[[Policy Borrowing\|政策借用]]典范** [[François Guizot|基佐]]借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 27–28)]]；引自 Knight (1930:116–119)
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心政治盟友与学术共谋** [[Victor Cousin\|维克多·库森]] — 共同推崇折衷自由主义哲学，委派库森赴普鲁士考察并由库森主笔起草《1833 年[[Guizot Law of 1833\|基佐法案]]》。
 > - **立法蓝本原型设计者** [[Johann Wilhelm Süvern\|约翰·威廉·聚芬]] — 普鲁士 1819 年草案的设计者，为[[François Guizot|基佐]]提供了国家监督与省立师范的成熟技术框架。
 > - **跨国影响对象** [[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]] — 在美利坚援引基佐法案在法国的实操成功经验，作为推进各州建立公学行政机关与[[Normal School\|师范学院]]的合法化依据。

@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Protean Episteme
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **跨学科[[Geisteswissenschaften|人文科学]]属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
 > - **汉斯式广义教育科学与精神科学溯源（Hansian Erziehungswissenschaft and Human Science [[ROOTS]]）** 普罗透斯式认识体系承继[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）对“教育科学（*Vergleichende Erziehungswissenschaft*）”的广义界定与欧陆[[Geisteswissenschaften|精神科学]]传统，将“科学”确立为跨学科、多视角的人文学术综合，坚决抗拒英语世界将科学降格为行为主义量化实证的狭隘专断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–141)]]
 > - **时代思潮与意识形态编织（Weaving of Cultural Strands and Ideological Fads）** 学科的方法论面貌与[[Research Topic|研究主题]]深刻折射出特定历史阶段的智识潮流（如启蒙理性、战后现代性工程、冷战对抗、全球化市场化）与统治阶级治理诉求。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
@@ -210,7 +210,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960s — 传统与变革辨析** 卡扎米亚斯与马夏拉斯（Kazamias & Massialas, 1965）出版《教育中的传统与变革》，系统考察教育制度在历史传统与现代化变革之间的矛盾张力，为代际论述类型奠定思想雏形。
 > - **1977 — 矮胖子隐喻与学科现状反思** 卡扎米亚斯主编《比较教育评论》“学科现状”（State of the Art）专刊，封面刊出坐在美国地图上的童话人物矮胖子（Humpty Dumpty）凝视[[Structural Functionalism|结构功能主义]]、成本收益、发展等繁杂词汇的讽刺漫画，形象呈现学科深陷方法论纷争与碎片化重组的普罗透斯面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 145)]]
 > - **1993 — 总统演说大论战** 埃尔温·爱泼斯坦（Erwin Epstein）发表 [[Comparative and International Education Society|CIES]] 总统就职演说引发关于学科性质大争论，卡诺伊、卡扎米亚斯等学者系统辩驳[[Positivism|实证主义]]与国家[[Theoretical Standpoint|理论立场]]，深化了对学科多变形态的理论反思。[[Argument_Kazamias_2009_HistoricalReflections|(Carnoy, 1983; Kazamias, 2009a, pp. 153–154)]]
@@ -271,7 +271,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统摄比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考掘比较教育学在近代比较学科群中的演进轨迹，依托大规模文献计量证实单一实证[[Scientific Paradigm|科学范式]]垄断瓦解以及 26 种理论传统并存的“[[Pluralism|健康多元主义]]”。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析比较教育科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology|认识论]]分裂，揭示实证量化模式沦为国家机器[[Social Science as Legitimation Alibi|合法化借口]]的深层机制。

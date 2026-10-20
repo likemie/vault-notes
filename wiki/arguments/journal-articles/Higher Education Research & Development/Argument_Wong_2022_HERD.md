@@ -45,7 +45,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2022
 doi: ""
 citation_aliases:
@@ -54,18 +54,18 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > UK 大学向学生宣传的[[Graduate Attributes\|毕业生特质]]（graduate attributes）的整体图景是什么？UK 毕业生可以被期望具备哪些品质？
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - 以高等教育的市场化（marketisation）为背景：大学需要向学生证明其价值和[[Return on Investment\|投资回报]]，推动了[[Graduate Attributes\|毕业生特质]]的产生与发展(p.1340)
 > - 以"理想毕业生"（ideal graduate）概念为分析透镜(Ingram & Allen, 2019; Wong & Chiu, 2019, 2020)(p.1351)
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo and NCapture 收集和编码数据
 > - 样本：Universities UK 137 所成员大学中，76 所（55%）至少有一个公开网页列出[[Graduate Attributes\|毕业生特质]]（截至 2020 年 1 月）
 > - 数据来源：大学官方网站公开的毕业生特质页面
@@ -73,7 +73,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. 高等教育市场化推动大学通过[[Graduate Attributes\|毕业生特质]]来证明自身价值(p.1340)
 > 2. 对 UK 137 所大学官网的系统搜索发现 76 所公开列出了毕业生特质(p.1343)
 > 3. 归纳主题分析识别出四大[[Discourse|话语]]，共同勾勒 UK "理想毕业生"的轮廓(p.1343–1350)
@@ -81,7 +81,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - UK 大学毕业生的四大特质[[Discourse|话语]](p.1343–1350)：
 >   1. **自我意识与[[Lifelong Learning\|终身学习]]**（89% 大学）：批判性自我意识、情商、适应性、有效沟通、组织与时间管理
 >   2. **[[Employability\|就业能力]]与专业发展**（75%）：团队合作、领导力、专业知识与商业意识
@@ -94,7 +94,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “[[Graduate Attributes\|毕业生特质]]通常被理解为‘大学共同体一致认为其学生在校期间理想情况下应发展的品质、技能和理解力’。”
 > ("[[Graduate Attributes]] are generally understood as 'the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution'")(Bowden et al., 2000, p.3; 引自 p.1341)
 >
@@ -106,7 +106,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文自身承认：分析倾向内容更丰富的大学网站；部分大学可能在其他（未检索到的）页面列出[[Graduate Attributes\|毕业生特质]](p.1343)
 > - 仅反映机构层面的宣称，未考察师生是否共享或知晓这些机构愿景(p.1342)
 > - 未深入探讨毕业生特质在不同学科中的具体含义和实施的差异性(p.1351)

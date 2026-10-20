@@ -61,7 +61,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2019
 doi: ""
 citation_aliases:
@@ -70,7 +70,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的[[Scientific Method\|科学方法]]。本文质疑 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
 > > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’(Thomas, 2012, p. 28)，但未能充分探究科学的真正特征。”
@@ -78,20 +78,20 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层[[Ontology\|本体论]]；开放系统与封闭系统的区分；对[[Empiricism\|经验主义]]的批判
 > - [[Evidence-Based Education]] — 本文的直接批判对象，从科学哲学角度解构其方法论基础
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Philosophical Analysis in Education\|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
 > - [[Case Study\|案例研究]]：以 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元-元分析]]的三级证据聚合过程
 > - 文献[[Critical Review\|批判性综述]]：综合 Bhaskar et al.学者的批判资源
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > ### 1. EBT 的科学观是过分简化的"民间科学观"
 >
 > EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序(p. 111)。Thomas (2004, p. 10) 区分了[[Research Utilization\|证据使用]]的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段。
@@ -148,7 +148,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - EBT 的科学宣称基于"民间科学观"——它捕捉了科学的表面特征，但缺乏对[[Scientific Method\|科学方法]]的理论理解(p. 111)
 > - 教育作为开放、递归、符号系统，其因果结构与实验室封闭系统有本质区别(p. 113, 123)
 > - [[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的统计聚合在每一级简化中丢失了关于干预如何以及为何起作用的因果信息(pp. 118–123)
@@ -159,7 +159,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “本文的意图是证明，许多循证教学的倡导者使用的是一种过于简单的‘科学’概念，这带来了严重的负面后果。”
 > ("The intention of this paper is to demonstrate that many advocates of evidence-based teaching work with too simple a notion of 'science', with serious negative consequences.") (p. 111)
 >
@@ -183,7 +183,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文自身承认其论证可能被误读为"研究对教师无实际益处"——作者澄清研究（包括 [[Randomised Controlled Trials\|RCT]]）可以挑战既有专业习惯和提供替代方案，但许多其他形式的研究比 RCT 和[[Meta-analysis\|元分析]]更擅长这一点(p. 123)
 > - 体育参与案例只是 [[Education Endowment Foundation\|EEF]] Toolkit 35 个条目之一，单一案例的泛化能力有限——不过作者论证这说明了系统性问题而非孤立失误
 > - 对 RCT 的批判可能导致"反科学"的指控——作者明确否认这一立场，强调意图是"更认真对待科学探究"

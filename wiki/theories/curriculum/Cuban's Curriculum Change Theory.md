@@ -44,12 +44,12 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 核心主张
 
-> [!info] 核心主张
+> [!info|notitle] 核心主张
 > 所有意图课程（intended curriculum）的变革从根本上说是政治行为。课程政策涉及权力、控制、联盟、协商和妥协，这些力量在分权化的学校治理体系内外运作。
 >
 > > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224, cited in [[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 480]])
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 理论内部结构
 
-> [!abstract] 理论内部结构
+> [!abstract|notitle] 理论内部结构
 > Cuban (1992) 以美国为参照，识别了课程变革的三类主要外部来源：
 
 
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!note-] 发展脉络
+> [!note-|notitle] 发展脉络
 > - **1992** — Cuban 在 [[American Educational Research Association\|AERA]] 课程研究手册中提出此框架，基于对美国课程变革的历史分析
 > - **2007** — Kan, Vickers & Morris 将此框架应用于香港中国历史科的课程变革，发现教师专业团体（科目协会）在美国和香港均扮演关键角色
 > - **2025** — Yan & Morris 将 Cuban 框架应用于 LS 案例，发现其部分因素在阐释力上存在显著变化——特别是协商与妥协在香港的后 2019 语境中完全消失
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 研究范式
 
-> [!info] 研究[[Paradigm\|范式]]
+> [!info|notitle] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Critical Theory\|批判理论]] —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
 > - **常用方法**[[Historical Document Analysis of Curriculum]]、[[Document]] Analysis
 
@@ -134,13 +134,13 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example|notitle] 相关研究
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers and Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 
 ## 应用领域
 
-> [!success] 应用领域
+> [!success|notitle] 应用领域
 > - [[Liberal Studies]] — Cuban 框架是分析该科目兴衰的核心理论工具
 > - 课程政治研究 —— 任何涉及权力、协商 and 利益团体的课程变革分析
 

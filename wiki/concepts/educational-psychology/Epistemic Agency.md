@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Agency
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **探究决策的主体裁决权** 学习者能够自主决定探究切入点、选择[[Variable\|变量]]操作路径并构建个性化因果解释，而非照方抓药。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
 > - **认识责任的共担与确立** 学习者不再等待教师告知标准答案，而是对探究结论的严密性与证据因果[[Reliability\|可靠性]]承担实质责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 222)]]
 > - **元[[Epistemology\|认识论]]维度的标准辩护** 学习者不仅陈述“观察到了什么”，更必须公开反思并辩护“为什么该观察方法比其他替代方案更可靠”。
@@ -265,7 +265,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000 年代初 — [[Knowledge Building Theory\|协作知识建构]]初涉** 计算机支持的协作学习（CSCL）学者探讨学习者对知识共同体认知产物的集体责任，初步提出分布式认识能动性假说。
 > - **2014 年 — 科学实践行动赋权确立** 科学教育学者系统界定课堂语境下的认识能动性，强调学生必须在科学实践中被赋予提出探究问题、[[Design-Based Research\|设计实验]]调查与修正理论模型的行动裁决权。
 > - **2018–2023 年 — 探究教学六要素核心支柱定位** [[Clark A. Chinn\|克拉克·钦]]（Clark A. Chinn）与拉维特·戈兰·邓肯（Ravit Golan Duncan）将认识能动性提炼为有效科学探究六要素的核心枢纽，并在 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 中作为反击极简指导污名化的理论支点。
@@ -329,7 +329,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]** — 提出[[Reflective Structuration|反思性结构化]]理论，通过长周期[[Interactional Ethnography|互动民族志]]揭示小学生如何通过共同构建意向领域与弹性组织构型行使实质性的认识能动性。
 > - **[[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]** — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]协同建构[[Scientific Explanation\|科学解释]]时如何行使认识能动性，揭示显性学科标准、反思提示语与课堂规范如何赋能学生对 AI 文本与多模态生成物进行自主检验与迭代修正。
 > - **[[Argument_Wu_2025_ER\|Wu et al. (2025)]]** — 提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论，论证人机共享认识能动性机制，系统剖析认识立场对主体性行使的[[Interaction Effect\|调节效应]]，并阐明双轨支架干预如何赋能学习者维系认知控制权。

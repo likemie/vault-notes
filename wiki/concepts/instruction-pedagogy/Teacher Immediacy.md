@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Teacher Immediacy
@@ -99,7 +99,7 @@ updated: 2026-10-17
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **非言语即时性（Nonverbal Immediacy）** 包含高频眼神交流、真诚微笑、放松且前倾的身体姿势、走动接近学生、生动的语调与手势。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 12)]]
 > - **言语即时性（Verbal Immediacy）** 包含直呼学生名字、使用合作性代词（如“我们今天来探讨”）、课前课后与学生自发寒暄、适度自嘲与幽默、邀请学生自由表达观点。
 > - **听众焦虑缓解功能（Apprehension Reduction）** 通过营造低威胁的安全氛围，降低学生在课堂发言时的沟通焦虑与挫败感。

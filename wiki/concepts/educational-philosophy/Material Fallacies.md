@@ -29,12 +29,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-06'
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 实质谬误（material fallacies）是逻辑学中一类推理错误的分类，指"在理解术语的含义或用法方面的错误"（Kreeft, 2010, p.85）。与形式谬误（formal fallacies，推理结构本身无效）不同，实质谬误源于语言使用中的歧义、模糊或含混。当术语被模糊、不清晰或含糊地使用时，公共政策论述即出现问题。
 >
 > [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] 将实质谬误概念引入教育政策[[Discourse Analysis\|话语分析]]，用以审查教育研究证据在政策建议中被误用的现象。
@@ -56,13 +56,13 @@ updated: 2026-10-15
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - vs [[Effect Size]] — 效应量的误用是实质谬误的一种表现：政策行动者直接从一维统计效应量排名中挑选政策方案，而不考虑效应量背后的研究语境和局限性
 > - vs [[Evidence-Based Education]] — 实质谬误是 EBE 实践中的一种具体病理：不是证据本身有问题，而是证据在政策论述中被误用的方式
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] 以新西兰 Treasury 2011 年简报为案例，识别出三类实质谬误表现：
 > - 术语模糊且使用不一致（"教学质量"定义与学校教育无关）（ONeill, 2012, pp.154-155）
 > - 研究证据的局限性被政策行动者系统性忽略（Hattie 本人的多处警示未被 Treasury 纳入考量）（ONeill, 2012, pp.155-157）
@@ -70,6 +70,6 @@ updated: 2026-10-15
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - 仅分析政策建议文本的缺陷（术语不清、证据不完整、论证无效）在方法论上有限——要充分理解教育政策的运作，还需关注政策行动者的主体定位、制度利益和[[Discourse|话语]]权力关系（ONeill, 2012, p.159）
 

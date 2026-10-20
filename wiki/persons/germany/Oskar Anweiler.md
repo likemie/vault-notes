@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Oskar Anweiler
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1925** **波兰劳维奇出生与东欧历史渊源** 出生于波兰劳维奇（Łowicz），早年经历造就了其对东欧语言、历史与社会政治生态的深邃洞察。
 > - **1954** **汉堡大学获博士学位奠定苏维埃史学权威** 在汉堡大学完成博士论文，系统研究 1905–1921 年俄国苏维埃委员会运动的起源与制度演进，出版奠基性专著《俄国的苏维埃运动》（*Die Rätebewegung in Russland 1905–1921*）。
 > - **1964–1990** **执掌波鸿鲁尔大学确立全欧东欧教育研究中枢** 出任波鸿鲁尔大学比较教育学教授，创建并领导东欧教育研究室（Arbeitsstelle für vergleichende Bildungsforschung），汇集海量俄语与东欧教育档案文献，成为冷战时期西方世界研究社会主义教育体制无可替代的学术高地。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90, 93)]]
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Disciplinary Institutionalization|学科建制]]定位** 在德语界牢固确立了比较教育在教育科学内部作为“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”的合法性，直接塑造了德国教育学会（DGfE）将比较分会置于教育学母体二级建制的组织传统。
 > - **区域国别研究标杆** 开创了战后全欧苏联与东欧社会主义教育研究的波鸿学派，所收集的大量第一手东欧教育档案文献在剧变后成为国际学界的宝贵遗产。
 > - **两德体制融合智库支撑** 1990 年出版的两德教育比较专著，在冷战结束与两德教育体制重组过程中发挥了至关重要的政策咨询与事实锚定功能。
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术同盟与德国学术领袖** [[Wolfgang Mitter]] — 战后西德比较教育学界的双子领袖，安维勒坐镇波鸿鲁尔大学，米特执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]]，共同开创东欧教育研究并维系 DGfE 比较分会建制。
 > - **学术继承者与[[Paradigm|范式]]推进者** 克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick） — 安维勒在波鸿鲁尔大学教席的继任者，将安维勒的东欧极权体制剖析传统拓展为对全球化与[[Stanford School|斯坦福学派]][[World-Systems Theory|世界体系理论]]的研究。
 > - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国[[Geisteswissenschaften|精神科学]]与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度文献学考证。

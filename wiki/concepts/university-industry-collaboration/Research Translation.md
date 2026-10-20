@@ -551,7 +551,7 @@ updated: 2026-10-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，揭示教育行政督导如何将“成功学校”研究转译编码为十项法定评估指标，以及质量审计如何通过预设单一范式与传播秘书处终审定稿清洗将学术实证重塑为国家简化的问责工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构，揭示中试共置（[[Albany NanoTech Complex|Albany NanoTech]]/MIT.nano）与“教育即标准”开源生态作为深科技研究转化的新型制度机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 溯源[[Technological Republic|技术共和国]]中“国家作为首要买家”的转化模式，批判公共部门防卫型采购阻滞与硅谷消费主义文化撤退，提出重塑国家安全前沿转化通道。

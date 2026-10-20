@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # David Coleman
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990年代** 毕业于耶鲁大学获得历史与英国文学学士学位，荣获罗德学者奖学金前往牛津大学与剑桥大学深造英国古典文学，深受西方经典文本细读与公理化论证传统浸润。
 > - **2000年** 创立成长网络公司（The Grow Network），开发将大规模标准化统考数据转化为教师日常教学诊断报告的信息系统，该公司后被麦格劳-希尔教育集团收购。
 > - **2007年** 联合贾森·津巴（Jason Zimba）与休·皮门特尔创立非营利智库学生成就伙伴组织（Student Achievement Partners），专注于研究如何提升全美弱势学生的大学与就业[[Competitiveness|竞争力]]。
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **标准研制路径** 直接塑造了全美 45 个州采纳的 [[Common Core State Standards|CCSS]] 英语语言艺术大纲，重新定义了全美 K-12 阶段的阅读书单与写作教学[[Paradigm|范式]]。
 > - **教材与出版重塑** 其倡导的三大转向迫使培生（Pearson）、麦格劳-希尔（McGraw-Hill）等全美大型教科书出版商全面下架传统虚构文学选本，按非虚构比例与复杂度指标重印全套教材。
 > - **高利害考试重构** 在出任大学理事会总裁后，科尔曼直接废除了 SAT 考试中偏门冷僻词汇记忆题和主观猜谜题，将其改造为严格基于历史文献精读与数学实际应用的全新测评体系。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **标准研制联合主持者** 休·皮门特尔（Sue Pimentel） — 共同统稿并起草 [[Common Core State Standards|CCSS]] 英语语言艺术标准。
 > - **标准研制数学同行** 菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba） — 共同组成 CCSS 方案设计的核心起草团队。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **资助与推动实体** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]] — 为科尔曼创立的学生成就伙伴组织提供数千万美元核心推进资金。

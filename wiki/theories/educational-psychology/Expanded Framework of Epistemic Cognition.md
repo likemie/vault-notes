@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Expanded Framework of Epistemic Cognition
@@ -50,7 +50,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 个体的[[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）涵盖的信念与性情维度的全貌。
 > - **理论问题** 回应了以往心理学认识论认知模型维度过少与测量粒度过粗导致预测学习[[Consequential Validity\|结果效度]]偏低的问题。
 > - **理论类型** [[Analytic Framework\|分析框架]]。
@@ -90,6 +90,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠定了该扩展的五组件框架。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 展现了该框架整合演化为 [[AIR Model of Epistemic Cognition\|AIR]] 模型 后的最新应用，将目标、理想与[[Reliable Epistemic Processes\|可靠过程]]融入科学论证评价。

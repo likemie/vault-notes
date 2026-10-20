@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Social Impact Investing
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **私市股权与风投纪律导入（Private Equity & VC Disciplines）** 将严格的尽职调查（Due Diligence）、投资组合管理、流动性控制与退场机制系统引入公共教育与公益资助领域。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 520)]]
 > - **高介入度管理与董事会渗透（High-Engagement Governance）** 投资机构不限于提供资金，而是派遣专业顾问入驻受助学校董事会，以“能力建设”为名重组学校组织架构与决策流程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–63)]]
 > - **成果量规与指标证券化（Metric Commodification & Securitisation）** 复杂的教育全人成长被简化为单一因果指标（如测试分数或出勤率提升），并将其直接折算为政府应向投资者支付的溢价分红基准。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 524)]]
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2007 — 洛克菲勒基金会正式铸造“影响力投资”术语** 洛克菲勒基金会召集全球投资领袖在意大利贝拉焦（Bellagio）举行峰会，正式确立“社会影响力投资”（Impact Investing）概念，呼吁打破慈善与商业的传统边界。
 > - **2010 — 全球首支社会影响力债券（SIB）在英国发行** 英国彼得伯勒（Peterborough）监狱发行首支社会影响力债券，由洛克菲勒等资本投资于刑满释放人员防再犯项目，开启政府按成果付费先河。
 > - **2013 — 澳大利亚 [[Social Ventures Australia|SVA]] 试水首批社会影响力债券** 澳大利亚引入社会影响力债券机制（如 Newpin 债券），SVA 依托全资子公司参与发行管理，将影响力投资推向全澳公共服务前沿。
@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 系统剖析 [[Social Ventures Australia|SVA]] 掌控的 1.5 亿澳元社会影响力投资基金及其背后的多层控股与政商兼任网络，揭示影响力投资在公共教育异层治理中的运作机制。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证解构北部基金会 2,000 万新西兰元[[Venture Philanthropy|风险慈善]]与影响力投资案例，揭示商业量规对毛利本土文化的侵蚀与资本沉淀机制。
 > - Nicholls, A., Paton, R., & Emerson, J. (2015) — 社会金融与影响力投资领域的经典论著，系统分析社会影响力债券的运行原理与制度边界。

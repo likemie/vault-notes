@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # School Choice
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 择校 (School Choice) | [[Peidu\|陪读 (Peidu)]] | 就近入学 (Proximity) |
 > | :--- | :--- | :--- | :--- |
 > | **分析对象** | 主动更换学校偏好 | 家庭地理迁移与脱产照料 | 被动接受学区行政划片 |
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **经济资本** 决定择校的可行性门槛，在城市表现为购买高价学区房，在县域表现为支付随迁[[Peidu|陪读]]的生活租房费用及脱产损失。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 308)]]
 > - **社会资本** 在非正式机制下作为拦截学位的核心工具，家庭通过强弱关系网络和裙带转介干预学校招生结果。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 309)]]
 > - **[[Cultural Capital|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ|场域]]中面临局部折旧。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 310)]]
@@ -196,7 +196,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
 > - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（John Hattie）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
@@ -235,7 +235,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。

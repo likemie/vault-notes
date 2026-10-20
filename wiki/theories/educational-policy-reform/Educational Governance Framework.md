@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Governance Framework
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代教育系统内部不同层级行动者如何形成决策，以及如何通过多元机制实现行动协调与制度变革。
 > - **理论问题** 传统科层行政理论将国家预设为全知全能的中央调控主体（Linear Top-Down Steering），无法解释政策在基层学校遭遇的广泛变异、象征性应付与认知阻抗；而纯粹的市场选择或微观组织理论又忽视了国家制度规则与监控工具的强力塑造。
 > - **理论类型** 宏观与中观相结合的制度与组织社会学解释框架、多层级分析工具箱。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 多层级教育系统中宏观政策、中观督导与微观[[School Leadership\|学校领导]]之间的协调机制、[[Recontextualization|再情境化]]过程与行动者观念分化。
 > - **成立条件** 适用于存在多层级科层行政与单校专业能动空间的现代教育制度；需要结合政策文本、督导工作记录与一线校长量表数据。
 > - **解释不足** 早期[[Analytic Framework\|分析框架]]对宏观新自由主义意识形态与资本逻辑对教育公益性的深层侵蚀关注不足；对行动者微观认知改变心理机制的刻画相对宏观。
@@ -171,5 +171,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。

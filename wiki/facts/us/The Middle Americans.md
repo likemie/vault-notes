@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # The Middle Americans
@@ -137,5 +137,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章以 1970 年《时代》周刊将“中间美国人”评为年度人物为历史切入点，系统剖析美国文化断裂如何构成了数字技术革命反抗国家权威、确立[[Counterculture Computing|反文化计算]]与[[Technological Agnosticism|技术不可知论]]的宏观社会土壤（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

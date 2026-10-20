@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Tributary System
@@ -54,7 +54,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 前近代东亚世界以古代中华帝国为中心的跨国朝觐、册封、互市贸易与[[Geopolitics|地缘政治]]互动秩序。
 > - **理论问题** 回应前现代东亚在缺乏西方威斯特伐利亚主权平等条约体系的背景下，如何通过等级性文化礼仪与非对称经贸安排维持数百年区域相对和平与非强制交往。
 > - **理论类型** 历史地缘政治模型、国际关系历史理论与区域秩序分析[[Paradigm|范式]]。
@@ -152,5 +152,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 深度回顾古代朝贡体系争议，检视当代高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]的解释效力与实证局限，修正文化同化预设并确立[[Cultural Recognition|文化认同探索]]新路径。

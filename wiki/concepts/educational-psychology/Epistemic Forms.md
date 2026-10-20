@@ -25,7 +25,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Forms
@@ -46,7 +46,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Domain Specificity\|学科特异性]]与通用性** 某些形式具有强学科特征（如分子生物学的机制结构），另一些则较为通用（如列表、矩阵）。
 > - **指导探究策略** 学习者掌握了特定的[[Epistemology\|认识论]]形式后，便会采用相应的策略。例如，知道生态学知识呈现非线性因果结构的学生，在学习时会主动寻找反馈回路，而不仅仅是线性背诵。
 
@@ -54,5 +54,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 强调在[[Epistemology\|认识论]]认知的“知识结构”维度中，测量学生对特定“[[Epistemology\|认识论]]形式”的掌握程度，比测量其对“知识复杂性”的泛泛认同具有强得多的行为预测力。

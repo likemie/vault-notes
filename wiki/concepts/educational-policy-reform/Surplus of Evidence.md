@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Surplus of Evidence
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 证据过剩（Surplus of Evidence） | 证据赤字（Evidence Deficit） | 信息孤岛（Information Silos） |
 > |---|---|---|---|
 > | 核心特征 | 报告数量泛滥、结论相互冲突且远超认知负荷 | 缺乏[[Causality\|因果推断]]数据、决策纯凭官员直觉拍脑袋 | 各派别学者自说自话、互不引用且缺乏跨界[[Dialogue in Education\|对话]] |
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **海量文献的认知超载（Cognitive Overload）** 每年[[Emergence\|涌现]]数以万计的同行评审论文与智库报告，使得任何决策官员均不可能通读其负责领域的全量文献。
 > - **[[Causality\|因果推断]]的结论相悖性（Contradictory Findings）** 由于抽样、情境与方法差异，同一改革举措（如小班化、[[Performance Pay\|绩效工资]]）在不同实证报告中呈现出彼此矛盾的[[Effect Size\|效应量]]。
 > - **思想市场的资本化游说（Commercialised Marketplace of Ideas）** 智库、商业咨询公司与游说集团为争夺政策关注，竞相将学术成果包装为带有鲜明政治倾向的极简政策简报。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–1980 年代 — [[Research Utilization\|知识利用]]匮乏说（Caplan [[Two-Communities Theory\|两社区理论]]）** 传统认知普遍认为决策失误源于学术研究太少、学者与官员缺乏接触的“信息匮乏”。
 > - **2010 年代 — 证据过剩与思想市场批判** Lubienski 等学者提出“证据过剩”与“信息孤岛”，指出智库与新自由主义网络导致政策界充斥着相互打架的过剩数据。
 > - **2024 年至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的中介霸权** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage\|政策中介]]、[[Soft Power by Hard Facts\|以硬事实施展软权力]]的生态基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
@@ -191,5 +191,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage\|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。

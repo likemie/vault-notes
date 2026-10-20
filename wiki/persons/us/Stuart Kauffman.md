@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Stuart Kauffman
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1939** 出生于美国，早年在牛津大学与加州大学旧金山分校（UCSF）受训，获医学博士学位（MD），后投身理论生物学与非线性动力学研究。
 > - **1986–1997** 担任圣塔菲研究所核心学者，开创自催化集合与生物系统自组织前沿研究，1987 年荣获麦克阿瑟天才奖（MacArthur Fellowship）。
 > - **1993** 出版划时代巨著《秩序的起源》（*The Origins of Order*），系统奠定生物演化中自然选择与自组织协同作用的数理大厦。
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 颠覆了牛顿力学式的还原主义与[[Determinism\|决定论]]宇宙观，为教育学接纳[[Complexity Theory\|复杂性理论]]作为超越量化与质性二元对立的“新兴前沿[[Paradigm\|范式]]”奠定了科学哲学基石。
 > - **方法路径** 深刻挑战了以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为代表的“保持[[Variable\|变量]]恒常操纵”[[Positivism\|实证主义]]黄金标准，推动研究转向网络拓扑、自组织临界性与生态系统分析。
 > - **管理路径** 启发学校管理从“自上而下科层控制”转向“营造自组织微观生态”，赋能教师与学生的内生[[Creativity\|创造力]]。
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **[[Paradigm\|范式]]共鸣** [[Complexity Theory]] — 复杂系统科学代表人物，为复杂性范式提供[[Ontology\|本体论]]与数学基础。
 > - **方法论对立** [[Randomised Controlled Trials]] — 考夫曼的自组织[[Emergence\|涌现]]理论从本体论上瓦解了随机受控实验将开放系统强行切片孤立的假设。
 

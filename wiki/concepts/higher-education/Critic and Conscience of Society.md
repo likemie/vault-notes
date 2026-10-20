@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: completed
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critic and Conscience of Society
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **法定制度特征（Statutory Mandate）** 确立为大学区别于一般培训机构与官僚科研所的法定本质特征，受高等教育立法与[[Academic Freedom|学术自由]]制度的刚性保护。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **权力制衡与讲真话（Speaking Truth to Power）** 在自由民主社会中承担制衡执政党派、国家行政力量与[[New Managerialism|新管理主义]]渗透的独立功能，揭露公共政策背后的意识形态偏见。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
 > - **公正实证与学术严谨基石（Rigorous Scholarship as Foundation）** 批评权威源于系统、公正、经得起检验的学术与实证研究，防止滑向缺乏学理依据的党派政治站队。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
@@ -165,7 +165,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1988 — 格雷斯正式提出概念原型** 在新西兰高等教育改革背景下，格雷斯提出大学应当承担社会的独立批评者与良知角色，防范政治与意识形态殖民。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
 > - **1989 — 载入霍克报告** 加里·霍克（Gary Hawke）主持的《[[Learning for Life Report|为生活而学习报告]]》（*Learning for Life*）采纳该概念，将其作为界定大学本质特征的关键条款。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1989–1990 — 新西兰《教育法》法定化** 新西兰国会通过《1989 年教育法》（*Education Act 1989*，第 162 条），正式以立法形式确立大学具有“承担社会的批评者与良知角色”的法定特征。
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯概念提出与立法历程，界定社会的批评者与良知的法定规范，批评[[Educational Reductionism|教育还原主义]]对政策治理责任的掩盖。
 > - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 援引该法定概念与[[Edward Said|萨义德]]知识分子论，论证学术公开批评与[[Reflexivity|反思性]]教学属于履行良知角色的常规实践。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从[[Critical Theory|批判理论]]视角审视教育领军学者的学术实践，探讨[[Cult of the Guru|大师崇拜]]与学术公共批评之间的冲突。

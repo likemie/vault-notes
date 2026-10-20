@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Southeast Asian Higher Education Common Space
 
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 相关条目
 
-> [!ref-table] 相关条目
+> [!ref-table|notitle] 相关条目
 > | 条目 | 关系 |
 > |------|------|
 > | [[International Education Hubs]] | 该宣言为区域教育枢纽的形成提供制度框架 |

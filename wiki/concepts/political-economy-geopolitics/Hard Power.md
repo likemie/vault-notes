@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hard Power
@@ -323,7 +323,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场协同、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与克服[[Soft Belief|软信念]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
 > - **发展型国家高教硬实力工具化与依附脆弱性** [[Argument_Woo_2023_HEP|Woo (2023)]] 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，系统揭示高教体系作为硬实力工具的产能出海机制，并深入论证其依附于经济硬实力的脆弱性。
 > - **科技硬实力展演与援助资源配置失衡** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高教拓展，阐明大学作为科技硬实力展演窗口的战略机制，并以官方数据揭示硬基建投资与软人文交流之间的结构性失衡。

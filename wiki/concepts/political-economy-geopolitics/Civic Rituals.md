@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Civic Rituals
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 公民仪式（Civic Rituals） | 极权主义群众动员 | 消费娱乐亚文化 |
 > |---|---|---|---|
 > | **组织目标** | 维系立宪法治下的公民团结与防卫意志 | 摧毁个体独立自主，服从独裁国家意志 | 追求商业利润与个体瞬时消遣 |
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **制造国家的四大制度化支柱（Four Pillars of Manufacturing a Nation）** 涵盖公立教育正典（传承共同历史叙事）、国民防卫服役（铸就共同牺牲记忆）、标准化共同语言（保障公共理性商谈）以及超越党派的[[Civic Religion|公民宗教]]立约。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 216)]]
 > - **陌生人间“想象亲密感”的维系纽带（Tether of Imagined Intimacy）** 在高度异质化的大型现代社会中，通过共有仪式使素不相识的公民产生深厚的横向同志情谊，为现代公共生活提供不可或缺的情感与道德粘合剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 > - **仪式废弃后的娱乐亚文化退缩（Retreat into Entertainment Subcultures）** 当国家撤出提供崇高公民意义的阵地时，公众共同体验退化为体育、明星、时尚与娱乐消费，导致政治共同体失去战略动员与抵御地缘渗透的免疫力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 217)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19世纪中叶 — 世俗公学与公民仪式确立** [[Horace Mann|霍勒斯·曼]]等改革者建立公共教育体系，将通识阅读与公民[[Patriotic Education|爱国教育]]确立为世俗国家的公民仪式。
 > - **20世纪后半叶 — 多元解构与公民装置荒废** 伴随反战运动、[[Cultural Relativism|文化相对主义]]与通识课程瓦解，国民防务服役外包化、教育正典碎片化，公民仪式被驱逐出公共领域。
 > - **1990s–2010s — 硅谷技术城邦的崛起与替代** 高科技企业园区演化为自足的技术公社，以全员股权与工作社区填补国家公民意义真空。
@@ -194,5 +194,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 216–218)]] — 阐释制造国家的传统公民装置如何荒废、硅谷技术城邦如何填补认同真空，并提出重铸[[Technological Republic|技术共和国]]的公民仪式路径。

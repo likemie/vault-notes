@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-07
+updated: 2026-10-21
 ---
 
 # Voluntary System of Accountability
@@ -94,7 +94,7 @@ updated: 2026-09-07
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 首次在全球范围内将“[[Critical Thinking\|批判性思维]]增值”确立为国家级高等教育质量监测指标。
 > - **实践教训** 深刻暴露了标准化通用统考在低利害环境下的方法学困境：测试成本高昂、无利害关系导致学生作答动机不足与严重[[Attrition\|样本流失]]、通用分数脱离学科课程无法指导教学改进。
 > - **知识影响** 推动了国际高教评价从“外部标准化统考问责”向“课程嵌入式真实性量规（VALUE）”的深层[[Paradigm\|范式]]转向。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 25–27)]]

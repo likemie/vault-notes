@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-21
 title: Three Generations of Mission-Oriented Policy
 aliases:
   - 三代使命导向政策理论
@@ -74,7 +74,7 @@ aliases:
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 阐释过去 150 年间国家如何通过设立重大战略使命引导科技创新与产业转型的历史变迁历程，以及各阶段所需的公共部门治理构架与组织能力。
 > - **理论问题** 克服以往创新政策史将使命政策狭隘局限于冷战时期军事航天工程（如阿波罗登月计划）的局限，揭示使命导向政策在制度动因、组织结构、参与主体与协调机制上的长期历史演变脉络。
 > - **理论类型** 历史演化解释理论与比较制度[[Analytic Framework|分析框架]]。

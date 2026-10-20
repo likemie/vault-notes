@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - cultural-disembedding
   - higher-education
@@ -83,7 +83,7 @@ related_arguments:
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **环境与[[Discourse|话语]]的陌生感** — 物理设施（导航、选课系统）或符号话语（《论语》核心论、精英谈吐）与原初经验剧烈脱节[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 116)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **文化语码转换屏障** — 缺乏将自身经验转化为[[Champ\|场域]]内“高尚/正确”话语的能力，从而倾向于沉默或边缘抱团[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 117)]]。
 > - **原初社群关系断裂** — 进入新场域后，与原初亲友在语言、关切与价值观上产生距离感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 118)]]。
@@ -159,7 +159,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示精英大学第一代大学生的文化脱嵌及其与[[Cultural Disorientation\|文化迷失]]的关系。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
 

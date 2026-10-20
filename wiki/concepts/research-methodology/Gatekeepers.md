@@ -122,7 +122,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Gatekeepers
@@ -565,7 +565,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在[[Qualitative Research|质性研究]]设计中系统确立把关人的五项审查问题框架，将获得把关人批准定位为进入现场的关键前置步骤。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统探讨质性与[[Sensitive Research|敏感研究]]中的把关人机制，阐明准入谈判原则、非对称利害关系、六种风险防卫行为及担保人角色演变。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 将学校校长定性为教育变革把关人，实证检验其对 22 项治理工具的过滤态度，证实把关人价值认同对学校改进活动与微观工时配置具有强烈的塑造效应。

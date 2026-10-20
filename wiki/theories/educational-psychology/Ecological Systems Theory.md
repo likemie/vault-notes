@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Ecological Systems Theory
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释个体（尤其是儿童与青少年）如何在其所处的多重交织、层层嵌套的物理、人际、制度与社会文化环境中实现认知、情感与行为的动态发展。
 > - **理论问题** 克服 20 世纪传统心理学将受试者与自然生活情境割裂、沉溺于实验室人工控制所造成的“[[Ecological Validity\|生态效度]]危机”（Ecological Validity Crisis），为理解人类复杂成长过程提供整体性系统框架。
 > - **理论类型** 宏观综合理论与发展系统分析模型（Developmental Systems Framework），后期演进为近端过程驱动的“过程—个体—情境—时间”（PPCT）生物生态学模型。

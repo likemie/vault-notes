@@ -42,7 +42,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Illusion of Competence
@@ -206,5 +206,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，解构生成式 AI 语义流畅性引发能力错觉、构想惰性与认知侵蚀的心理机制。

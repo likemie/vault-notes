@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Severability of Politics and Pedagogy
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 恶政与教学法可分性命题 | [[Structural Functionalism\|结构功能主义]]整体论 | 批判意识形态再生产论 |
 > |---|---|---|---|
 > | **对政教关系的预设** | 相对自主与自然可分 | [[Structural Coupling\|结构耦合]]与顺向功能匹配 | 总体性[[Hidden Curriculum\|隐蔽课程]]与阶级霸权共谋 |
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **心智机能的普遍共通性（Universality of Human Faculties）** 人类的认知结构与心智机能跨文化共通，识字、算术等认知科学规律独立于统治阶级的政治意志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 125)]]
 > - **去意识形态化筛选机制（De-ideologization Filter）** 借用者具备高度的理性反思能力，能够在引进外国制度时主动过滤君主专制或宗教灌输等异质毒素。
 > - **民主赋义与本土重组（Democratic Re-articulation）** 将外来高效教学机制（如公学学制、师范研习所）植入民主宪政土壤，使其转化为服务全民赋权与共和自决的工具。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 125–126)]]
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1830s–1850s — 论辩成型与制度创生** 斯托、曼与巴纳德提出政教可分辩驳，直接推动美国公立国民公学（[[Common School Movement|Common School]]）与[[Normal School|师范学校]]（Normal School）落地，奠定北美公共教育基石。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 125–126)]]
 > - **1930s — 历史主义反思与批评** [[Isaac Kandel|坎德尔]]（[[Isaac Kandel]]）在反思美国教育史时批评 19 世纪先驱过于关注制度与组织的外在描述，低估了普鲁士民族国家精神与专制传统的深层约束。
 > - **2009 — 学科反思中的[[Epistemology|认识论]]平反** 拉斯特等人在《国际比较教育手册》中为斯托与曼平反，指出老一代史学家脱离语境贬低早期借用者，实质上遮蔽了先驱们清醒的情境敏感度与精细的认识论辩驳模型。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
@@ -164,5 +164,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 考证斯托与曼在 19 世纪美国[[Common School Movement|公学运动]]中提出的恶政与教学法可分性[[Epistemology|认识论]]，为[[Influences Across Cultures|跨文化影响]]考证确立学科认识论合法性。

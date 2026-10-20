@@ -65,7 +65,7 @@ related_methods: []
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institute for Educational Monitoring and Quality Improvement
@@ -197,7 +197,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 详细考察汉堡教育监测与质量发展研究所（IfBQ）作为[[Data Infrastructure\|教育数据基础设施]]研发中枢的建立历程、社会指数（Sozialindex）与单页概览系统（SchÜb）的运行机制及其面临的制度张力。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 开展英格兰与德国汉堡[[School Leadership\|学校领导]]者证据利用的跨国质性比较，实证展现 IfBQ 提供的低利害形成性数据如何支持校长开展同侪案例会商（Kollegiale Fallberatung），避免英格兰式的防御性表演合规。
 

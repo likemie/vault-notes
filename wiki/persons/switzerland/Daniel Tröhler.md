@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Daniel Tröhler
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2013** 发表关于教育语言历史根源的研究，剖析现代课程背后的新教神学与共和主义政治[[Discourse|话语]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 423)]]
 > - **2022** 与合作者分析[[International Education\|国际教育]]绩效数据（如 [[PISA]]）如何成为民族国家再生产权力的手段，揭示数据治理对地方民主决策的挤压。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 421)]]
 > - **2023** 针对东亚比较教育史发表研究，指出比较教育从根本上是服务于大国地缘统治的[[Epistemology\|认识论]]权力游戏，并提出课程变革受国家生存与地缘竞争利益支配。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术前人 / 纪念对象** [[C. Arnold Anderson]] — 探讨其 1958 年创立的[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]如何作为冷战地缘霸权与教育经济学扩散的制度载体。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 423)]]
 > - **合作者 / 对话者** [[Eleftherios Klerides]] — 共同在[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）网络中展开关于历史现实主义和[[Educated Identity\|受教育身份]]的学术探讨。
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** [[Critical Thinking\|批判性思维]]（Critical Thinking）的本质内涵、核心构成要素、[[Operationalization\|操作化]]定义及其在教育评估中的通用标准。
 > - **理论问题** 回应 20 世纪 80 年代批判性思维领域派系林立、定义模糊、测量工具缺乏统一[[Construct Validity\|构念效度]]基准的学界困境。
 > - **理论类型** 规范性与操作化共识理论框架（Normative & Operational Consensus Framework）。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 全文以 APA 德尔菲专家共识为理论基底与[[Variable\|变量]]编码标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis\|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。

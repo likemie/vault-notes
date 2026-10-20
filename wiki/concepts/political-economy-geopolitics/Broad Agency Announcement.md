@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Broad Agency Announcement
@@ -146,6 +146,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 详细解析 [[DARPA]] MTO 项目经理如何通过 BAA 文本设计引导硅锗与光子集成[[Technological Trajectories|技术轨道]]。
 > - Bonvillian and Van Atta (2011) — 剖析 BAA 与[[Other Transaction Authority|其他交易授权]]（OTA）在构建敏捷[[Innovation Ecosystem|创新生态]]中的协同功能。

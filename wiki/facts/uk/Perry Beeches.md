@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Perry Beeches
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Perry Beeches 列为初等阅读高年级 Tier 3 助教辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托助教在高年级升学节点筑牢最后防线。
 > - [[Reach]] — 同属英国 [[Education Endowment Foundation\|EEF]] 资助的小初衔接助教一对一阅读方案。

@@ -74,7 +74,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 研究问题
 
@@ -271,7 +271,7 @@ updated: 2026-10-17
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > - **缺乏经验实证证据** 本研究属于哲学与思想史层面的规范性批判（Normative critique），并未对 [[Phenomenon-Based Learning\|PhBL]] 的具体学习成效、教学实践表现或学校组织变革进行实证测量与量化评估。(pp.2, 11)
 > - **未涉及实施模式 of 系统比较** 研究重在澄清概念史与政策层面的内在张力，未能系统、详尽地比较芬兰不同学校与不同地区在 PhBL 实施路径上的具体差异。(pp.2, 10–11)
 > - **学习理论差异的简化处理** 对[[Constructivist Paradigm\|建构主义]]、问题导向学习（PBL）及[[Inquiry-Based Learning\|探究式学习]]（IBL）等学习心理学理论的讨论主要服务于思想史定位，未展开这些理论内部在认知机制层面的细微差别。(pp.7–8)

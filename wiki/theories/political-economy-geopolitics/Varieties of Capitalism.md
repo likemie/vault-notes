@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Varieties of Capitalism
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 发达资本主义国家在企业治理、劳资关系、金融体系、职业技能形成与产业竞争优势方面的持久制度差异。
 > - **理论问题** 回应 20 世纪末全球化收敛论（Convergence Thesis）的预言：新古典经济学假定跨国贸易竞争与资本自由流动必将抹平制度多样性，迫使所有国家向低成本、去管制的英美自由市场[[Paradigm|范式]]收敛；该理论解释了为何欧洲大陆与东亚的非市场协调机制能够维持长周期制度韧性。
 > - **理论类型** 比较政治经济学制度[[Analytic Framework|分析框架]]与生产体制解释理论。
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 发达民主工业化国家（[[OECD]] 核心成员国）在宏观经济治理、技能形成体系与高等教育政策中的结构性差异；解释国家比较优势的历史根源。
 > - **成立条件** 研究对象需具备相对成熟的市场经济建制、法治保障体系与清晰的政企关系边界。
 > - **解释不足** 
@@ -199,7 +199,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -41,7 +41,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > Case 在 Pascual-Leone 模型的基础上提出([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])：
 >
 > - **四子域（Four Sub-domains）** — 每个认知领域有不同的组织方式和发展路径
@@ -58,12 +58,12 @@ Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内�
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Neo-Piagetian Theories\|neo-piagetian-theories]] — 四子域发展模型，细化了[[Jean Piaget\|皮亚杰]]阶段内部的子阶段结构
 > - 其 Inter-relational → Dimensional 阶段转变（约 4–5 岁）被 [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] 作为新皮亚杰阶段与 EF 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.10]])
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > - 在 [[Juan Pascual-Leone]] (1970) 的基础上构建
 > - 与 [[Kurt Fischer]] (1980) 同为新[[Jean Piaget\|皮亚杰]]运动的核心理论家

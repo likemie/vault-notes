@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Transformative Learning Theory
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 成人学习者如何超越单纯的信息积累与既有技能训练，在遭遇引发困惑的现实挑战时，通过批判性自省重构深层认知信念与世界观。
 > - **理论问题** 传统[[Behaviorism|行为主义]]与机械认知主义将学习窄化为外在行为习惯改变或知识库线性扩充，无法解释学习者价值观、专业身份与观察现实基本框架的质性跃迁。
 > - **理论类型** 成人学习与意识发展微观解释理论、[[Reflexivity|反思性]]教育设计指导框架。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 复杂专业人员发展、成人[[Further Education|继续教育]]、跨学科科研团队组建、重大社会议题伦理反思及跨文化适应中的深层认知跃迁。
 > - **成立条件** 学习环境必须具备心理安全感，允许质疑权威与暴露短板，且必须预留充裕的非正式研讨与反思时间。
 > - **解释不足** 对低龄儿童或基础[[Procedural Skill|程序性技能]]习得解释力有限；过分强调理性反思可能低估了情感羁绊、权力不平等及制度刚性对个体行动转化的制约。
@@ -169,6 +169,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将转化学习理论运用于高水平[[Research Universities|研究型大学]]《[[CHIPS and Science Act|芯片与科学法案]]》学者专业发展实证研究，证实三阶段工作坊不仅传授技术信息，更促使工程学者打破传统纯技术视界，体认科学工程事业背后的政治与政策维度，实现科研参照框架重塑与国家战略承接就绪度提升。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 从[[Epistemic Practices|认识论实践]]视角探讨学习者在特定共同体中如何反思[[Evidence Standards|证据标准]]与认识假设，与转化学习中的批判性假设反思形成[[Epistemology|认识论]]互补。

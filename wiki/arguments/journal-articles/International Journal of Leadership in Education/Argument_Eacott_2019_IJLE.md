@@ -43,7 +43,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2019
 doi: ""
 citation_aliases:
@@ -52,25 +52,25 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 教育行政与领导力领域的学术对话和辩论质量如何？该领域是否具备进行真正的学术交锋——而非"[[Parallel Monologues\|平行独白]]"——的能力？(p.774)
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Pierre Bourdieu]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis(p.774)
 > - 社会[[Epistemology\|认识论]]（social epistemology）— Eacott 将其先前关于教育行政与领导力社会认识论的工作(Eacott, 2017b)引入本文，关注该领域[[Knowledge Production\|知识生产]]的社会条件和逻辑
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Reflexivity\|反思性]]评论（commentary），以作者个人经验作为[[Case Study\|案例研究]]
 > - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie"(Eacott, 2017a)及其在学术界引发的反应
 > - 数据来源：论文发表后收到的邮件、Twitter 互动、博客评论、大学投诉调查、期刊编辑决策、Hattie 的正式回应
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **前提** 教育行政与领导力领域长期以来缺乏真正的学术对话，呈现为"[[Parallel Monologues\|平行独白]]"状态(p.774)
 > 2. **案例呈现**以 Eacott(2017a)关于"Hattie [[Cult of the Guru\|大师崇拜]]"的论文为案例，描述三种类型的反应——博士候选人博客攻击、向大学科研副校长的投诉、以及 Hattie 本人的回应(pp.775-779)
 > 3. **[[Analytic Framework\|分析框架]]** 以论文传播、期刊编辑处理、学者回应的方式为分析对象，评估该领域的"社会[[Epistemology\|认识论]]"——即学术工作的逻辑如何生成（或未能生成）对话和辩论(p.775)
@@ -79,7 +79,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 教育行政与领导力领域的博士项目、会议和期刊均未为学者准备对话和辩论的能力(p.774)
 > - 该领域曾有过学术交锋的传统——如 Willower (1983)、Hills (1982, 1983)、Gronn (1982, 1987) 和 Thomas (1986) 之间关于观察性研究的有用性的往返交流，以及 Evers and Lakomski 的 trilogy 中的论证、批评和辩护——但这些已"早已远去"(p.774-775)
 > - Eacott 2017 年论文的传播过程被视为"成功"——下载量超过 1000 次，带来地区级和州级专业协会的演讲邀请(p.776)
@@ -90,7 +90,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “作为研究的消费者和生产者，我们更有可能体验到的是‘[[Parallel Monologues\|平行独白]]’”
 > ("what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'")(p.774)
 >
@@ -105,7 +105,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - Eacott 承认本文仅基于 n=1 的个人经验案例，因此"将被那些以不同标准论证知识主张合理性的人所否定"(p.775)
 > - Eacott 声明本文"不是对学科边界的评论（如 Oplatka, 2009）或教育行政与领导力领域内各种传统的评论（如 Gunter, 2016）"
 > - 本文未提供具体的"如何改进学术对话"的操作方案——Eacott 认为提供这样的清单将违背本文的核心主张(p.780)

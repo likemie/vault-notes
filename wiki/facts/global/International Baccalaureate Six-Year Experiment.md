@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **资格制度** IB从创制阶段进入可重复运行的跨国考试和大学资格网络。
 > - **组织制度** [[International Baccalaureate|IBO]] 从依赖个人关系和临时资助的项目转向有合同、收费、分权业务和政府代表的常设组织。
 > - **[[International Education\|国际教育]]** 试验显示国际课程的制度单位不是教学大纲，而是学校、评价、承认、行政和资金构成的闭环。

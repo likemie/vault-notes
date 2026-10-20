@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jean Piaget
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1896** 出生于瑞士纳沙泰尔，自幼热爱自然史，少年时期即在软体动物学领域发表多篇学术论文。
 > - **1918** 获得纳沙泰尔大学自然科学博士学位，随后转向心理学、逻辑学与哲学[[Epistemology|认识论]]研究。
 > - **1919–1921** 在巴黎[[Alfred Binet|比奈]]实验室从事儿童智力测验标准化工作，注意到儿童在逻辑推理中展现出系统的定型错误，推断儿童思维拥有不同于成人的质性结构。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 奠定现代认知发展心理学与[[Constructivist Paradigm|建构主义范式]]的理论基石，催生了[[Neo-Piagetian Theories|新皮亚杰理论]]（Neo-Piagetian Theories）以及关于认知平衡化动力机制的持续探索。
 > - **方法路径** 创立“临床访谈法”（Clinical Method），将开放观察、实物操作与启发式反诘融为一体，为质性儿童思维与概念建构研究树立了方法学[[Paradigm|范式]]。
 > - **政策与实践路径** 深刻重塑了全球学前教育与K-12课程设计，确立了发展适宜性实践（Developmentally Appropriate Practice, DAP）原则与以动手探究为中心的活动课程传统。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学派传承与开拓** 创立日内瓦发生[[Epistemology|认识论]]学派，培养了 Bärbel Inhelder 等杰出合作者。
 > - **理论对话与交锋** [[Lev Vygotsky|列夫·维果茨基]]（个体建构论 vs 社会文化历史学派）、[[B. F. Skinner|斯金纳]]（认知图式平衡 vs [[Behaviorism|行为主义]]外在强化）。
 > - **后续理论扩展** [[Juan Pascual-Leone]]、[[Robbie Case]]、[[Kurt Fischer]] 等新皮亚杰主义者，引入[[Working Memory|工作记忆]]与信息加工容量修正阶段过渡理论。

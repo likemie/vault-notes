@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pasi Sahlberg
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1980–1990 年代** 担任芬兰中小学数学和科学教师、教师培训师，深度参与芬兰 1990 年代去中心化、废除全国统一视导与赋予学校完全自主权的教育重建进程。
 > - **2000 年代** 在[[World Bank|世界银行]]（World Bank）与[[EU|欧盟]]委员会担任教育政策专家，考察东欧、中东及拉美国家的教育转型，亲历全球推行新自由主义外包与高利害问责的负面后果。
 > - **2011–2012 年** 出版《芬兰传奇：世界可以从芬兰的教育变革中学到什么》（*Finnish Lessons*），正式提出 [[Global Education Reform Movement|GERM]] 理论模型，荣获格文美尔教育奖（Grawemeyer Award），引发全球政策轰动。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **学术概念[[Paradigm|范式]]** 其提出的 [[Global Education Reform Movement|GERM]] 概念已成为当代教育社会学与批判政策分析中最具引用广度的核心分析工具，与[[Stephen Ball]]的[[Performativity|表演性]]理论齐名。
 > - **比较政策启示** 为全球反思英美新自由主义私有化路线提供了具象可行的制度对照样本，激励了众多国家教师工会反抗过度测试与[[Performance Pay|绩效工资]]的公共行动。
 > - **对 [[Visible Learning]] 的批判支架** 为 [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 等学者提供了剖析可见学习跨国商业化网络扩张、解构其迎合政府紧缩政策的宏观制度分析支架。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想共鸣者** [[Stephen Ball]] — 共同批判[[New Managerialism|新管理主义]]、[[Performativity|表演性]]与教育全球治理中的新自由主义侵蚀。
 > - **理论对峙者** [[John Hattie]] — 哈蒂主导的跨国商业咨询体系与高利害可见数据正是 [[Global Education Reform Movement|GERM]] 模式的典型体现，两者代表了两种截然相反的教育改进哲学。
 > - **研究应用者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 将萨尔伯格的 GERM 理论框架作为全文解构 [[Visible Learning]] 意识形态功能的第一基石。

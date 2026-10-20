@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Big Science
@@ -237,7 +237,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述大科学在人工智能与前沿制造时代的[[Paradigm|范式]]重构，剖析中等规模工程科学组织困境，提出[[Focused Research Organization|聚焦研究组织]]（FRO）、[[Genesis Mission|创世纪计划]]国家科学与安全平台（ASSP）以及 [[EUV LLC]]/[[Human Genome Project|HGP]] 前竞争联合体的现代治理机制。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，论证大科学模式如何推高科研成本、强化外部刚性问责，并与[[Reproducibility Crisis|可重复性危机]]交织终结了基础科学无需自证的免检地位。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统界定大科学作为第二代技术攻关使命政策的组织载体，论证其在应对复杂社会挑战时的制度失灵与公共采购外溢机制。

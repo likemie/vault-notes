@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-21
 ---
 
 # E. Digby Baltzell
@@ -57,7 +57,7 @@ updated: 2026-10-08
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1915** 出生于费城一个历史悠久的精英家庭。
 > - **1939** 毕业于宾夕法尼亚大学沃顿商学院。
 > - **1942–1945** 二战期间在美国海军服役，担任太平洋战场海军飞行员。

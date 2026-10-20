@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Test of Teaching Knowledge
@@ -99,7 +99,7 @@ updated: 2026-10-16
 
 ## 测量学特性
 
-> [!finding-cards] 测量学特性
+> [!finding-cards|notitle] 测量学特性
 > - **[[Construct\|构念]]代表性（Construct Representation）** 通过建构反应题直接测量“主动生成”与“情境化决策”，彻底克服了[[Multiple-Choice Questions\|选择题]]把高阶教学能力退化为文字再认的弊端。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 21, 24–25)]]
 > - **评分员校准（Rater Calibration）** 由 [[Educational Testing Service\|ETS]] 提供严格的评分员培训与校准研讨机制，确保开放式答卷在跨考区评阅时保持高[[Reliability\|信度]]与跨考官一致性。
 

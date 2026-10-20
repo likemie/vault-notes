@@ -78,7 +78,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Global Education Reform Movement
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | GERM | [[New Public Management\|新公共管理（NPM）]] | [[Test-Based Accountability\|基于测试的问责制]] |
 > |---|---|---|---|
 > | **分析对象** | 全球教育改革向新自由主义集中的意识形态取向与制度组合 | 公共部门以市场化与绩效合同为导向的行政管理模式 | 以标准化测试分数为依据对学校与教师实施奖惩的评价制度 |
@@ -198,7 +198,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 年代–1989 — 新自由主义制度实验** 新西兰推行明日学校（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）权力下放，将原有教育局服务部门改制为商业化自负盈亏实体，开启了公共教育市场化治理的制度试验（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 30]]）。
 > - **2012 — 概念的正式命名** 芬兰学者 [[Pasi Sahlberg]] 在 *Finnish Lessons* 中首次提出 GERM 术语，对比芬兰坚持的平等、信任与教师专业化道路，提炼出标准化、问责与商业管理的五大特征。
 > - **2012–2016 — 意识形态结盟分析** 学界广泛引入 GERM 解构英美澳等国的标准化改革，Soler (2016) 揭示了新保守主义确定性知识观与新自由主义中央集权控制在拼读法改革中的结盟机制。
@@ -275,7 +275,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合新西兰公共教育市场化改制、企业财报与词频统计，系统解构了《[[Visible Learning|可见的学习]]》如何充当 GERM 的政治经济工具与财政紧缩挡箭牌（pp. 23–41）。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在宏观、中观与微观三层决策上推动 GERM 全球扩散的具体机制和国别案例。
 > - [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州教育部推行 10 项标准化教学策略并实施白板检查，展现了 GERM 在地方教育系统中的技术官僚控制。

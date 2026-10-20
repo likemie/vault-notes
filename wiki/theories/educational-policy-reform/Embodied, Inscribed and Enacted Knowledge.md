@@ -17,7 +17,7 @@ aliases:
 summary: "弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的文本化知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -59,7 +59,7 @@ updated: 2026-10-21
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 政策与组织工作中知识的存在形态、流动方式与转化过程，尤其关注研究知识如何在人体经验、书面规程与现场行动之间流转与变形。
 > - **理论问题** 既有政策研究常把知识视作均质且可自由传递的客体，或仅关注文本与[[Discourse|话语]]；该理论回应为何部分知识能够跨情境标准化复制，部分知识只能随人移动，而另一些知识仅在互动现场即时生成并稍纵即逝的经验谜题。
 > - **理论类型** 知识社会学分析框架与概念工具，侧重过程机制刻画。
@@ -158,7 +158,7 @@ updated: 2026-10-21
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 知识密集型公共治理机构（如教育督导局、卫生医疗评审机构、科研管理部委）的规程设计、实地评估与报告生成全过程。
 > - **成立条件** 需要获取微观层面的会议过程材料、多轮文本修改稿以及核心当事人的深度反思访谈。
 > - **解释不足** 该框架侧重描述知识形态在时空中的流动与变形，本身并不解释为何某种特定学术流派（如成功学校研究）在内容上被优先选中；需要结合政策议程设置与政治权力理论补充解释。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 652)]]
@@ -198,5 +198,5 @@ updated: 2026-10-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，运用三种知识形态理论全程追踪常规督导与质量审计，揭示教育研究如何从口头协商转化为法定规程与终审报告，阐明证据本位治理对具身经验与践行斡旋的深层依赖（pp. 642–657）。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Multilateral Surveillance
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（多边监督） | [[Peer Pressure\|同行压力]] | 国际硬法裁判规制 |
 > |---|---|---|---|
 > | 机制属性 | 制度化的信息披露与审查架构 | 规范、声誉与心理层面的驱动力 | 具约束力的法定司法裁决 |
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **制度化常态信息披露机制** 要求成员国定期上报本国教育、经济与社会发展统计数据，确立超越国内封闭行政的信息公开透明预期。（OECD, 1998）
 > - **对等交叉审议与政策辩护架构** 在常设专门委员会框架下，由其他成员国代表对受审国政策开展实质质询，迫使其提供理论依据与实证辩解。（Martens et al., 2004）
 > - **基于统一指标的跨国对标基准** 从个案分散的国别质性描述，演变为依靠统一分类学与标准化度量工具构建的全球比较监测网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960s–1980s — 战后自愿协商与[[Peer Debriefing|同行审议]]雏形** [[OECD|经合组织]]建立之初在经济政策与教育领域开展国别审查（National Reviews），以自愿、保密与相互理解为导向，形成早期的多边政策质询传统。
 > - **1990s — 软法治理规范化与多边监控确立** 随着苏联解体与全球化提速，经合组织与[[International Monetary Fund|国际货币基金组织]]将多边监督正式法制化为宏观经济稳定与结构性改革的核心工具，强调政策透明度与自我批评（OECD, 1998）。
 > - **2000s 至今 — 全球量化监测与远处掌舵成型** 在教育领域，多边监督与大规模跨国学业评估（如[[PISA]]）和指标工程（如[[International Indicators of Education Systems|INES]]、[[World Education Indicators|WEI]]）紧密结合，彻底转变为依靠公开联赛排行与持续数据监控的全球[[Governing by Numbers|数字治理]]架构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
@@ -181,5 +181,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 440, 442, 446)]] — 分析[[OECD|经合组织]]如何运用多边监督机制弥补硬性立法强制力的缺失，依托量化数据与[[Peer Pressure|同侪压力]]实施远处掌舵。

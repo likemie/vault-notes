@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bureaucracy
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 科层制治理（Bureaucracy） | 去中心化[[Swarm Intelligence\|群智能]]组织 | 扁平敏捷网络 | 网络与部落治理（Networks & Clans） |
 > |---|---|---|---|---|
 > | **权力与控制** | 自顶向下金字塔式层级节制与审批 | 完全无中心中介，依靠[[Edge Autonomy\|边缘自治]]与局域对齐 | 项目负责人协调，跨职能自组织单元 | 私人隐性结盟、个人声望背书与排他性协同 |
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **严格层级节制管辖** 明确界定上下级汇报链条，下级必须服从上级指挥并接受巡查。
 > - **非人格化成文规章与[[Red Tape|繁文缛节]]** 依赖标准化审批流程、周报、备忘录与数百页规格说明书（如 700 页军用饼干技术规范）进行防卫型管理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, p. 148)]]
 > - **多层中介管理阶层** 设立庞大的副总裁、助理副总裁与中层管理架构，专门负责管理上级看法与向下分派任务。
@@ -271,7 +271,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1905 — 基普委员会调查与[[Red Tape|繁文缛节]]起源** 西奥多·[[Franklin D. Roosevelt|罗斯福总统]]设立基普委员会，发现政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖批评繁文缛节（red tape）严重侵蚀行政效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–149)]]
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
 > - **1960s — 公共选择学派的官僚寻租批判** 戈登·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
@@ -331,7 +331,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 基于汤普森组织治理分类学，揭示公立教育去科层化改革反致网络与部落治理架空法定代议制民主问责。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史考证[[OECD|经合组织]]常任秘书处从协商论坛演进为具有独立议程的国际官僚机构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、[[Meeting-Industrial Complex|会议工业复合体]]与采办定制垄断。

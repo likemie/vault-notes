@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # William Foote Whyte
@@ -56,7 +56,7 @@ updated: 2026-10-15
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1914–2000** 美国社会学家，以对波士顿意大利裔街区的[[Participatory Research\|参与式研究]]确立其经典地位。
 > - **1943** 出版《街角社会》，基于对街头帮派的深入参与式观察。
 > - **1993** 在《街角社会》再版附录 A 中反思[[Fieldwork\|田野工作]]者的个人经验，探讨[[Reflexivity\|反身性]]、客观与主观的区分以及[[Participatory Action Research\|参与式行动研究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
@@ -68,7 +68,7 @@ updated: 2026-10-15
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法路径** 其参与式观察与对田野个人经验的坦率反思，成为[[Qualitative Research\|质性研究]]中[[Reflexivity\|反身性]]的重要参照；对受访者验证必要性的质疑也进入[[Qualitative Validity\|质性效度]]讨论。
 > - **理论路径** 推动[[Participatory Action Research\|参与式行动研究]]作为弥合专业研究者与组织成员鸿沟的途径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 

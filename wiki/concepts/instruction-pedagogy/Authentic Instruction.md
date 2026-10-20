@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Authentic Instruction
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20 世纪初 — [[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]教育哲学** 杜威提出“[[Learning by Doing\|在做中学]]”与真实探究思想，批判脱离情境的符号灌输，强调学校应提供真实生活经验。
 > - **1990 年代 — [[Anchored Instruction\|抛锚式教学]]与[[Situative Perspective\|情境认知]]理论** 范德堡认知与技术小组（CTGV）提出[[Anchored Instruction\|抛锚式教学]]，利用多媒体故事生成真实问题锚点，推动情境学习理论发展。
 > - **2010 年代至今 — [[Critical Thinking\|批判性思维]]干预实证综合** Abrami 等人将真实性/抛锚式教学提炼为批判性思维教学的三大[[Central Phenomenon\|核心范畴]]之一，通过大规模[[Meta-analysis\|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
@@ -185,5 +185,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 采用[[Meta-analysis\|元分析]]综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了真实性教学（应用型解题、[[Role-playing\|角色扮演]]、情境模拟）在发展[[Critical Thinking\|批判性思维]]中的核心地位及与对话、[[Mentorship\|导师制]]结合的高阶协同效应。

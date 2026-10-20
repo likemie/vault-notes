@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ecological Validity
@@ -245,7 +245,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理国外学者针对《可见学习》的六大方法论通病，剖析其强行汇总[[Heterogeneity|异质性]]研究、排除社会环境变量导致生态效度严重剥落的[[Epistemology|认识论]]局限。

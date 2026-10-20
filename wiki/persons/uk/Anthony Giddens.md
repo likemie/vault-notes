@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Anthony Giddens
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1938** 出生于英国伦敦北部埃德蒙顿（Edmonton）。
 > - **1959–1961** 先后毕业于赫尔大学（获心理学与社会学联合学位）与伦敦政治经济学院（LSE，获社会学硕士学位）；随后进入莱斯特大学社会学系任教。
 > - **1970–1976** 任教于剑桥大学社会与政治科学委员会及国王学院；1975 年出版《[[Positivism|实证主义]]与社会学》，提炼实证主义社会学的方法论统一假定与产出同构假定；1976 年出版《社会学方法的新规则》，正式创立[[Double Hermeneutic|双重诠释学]]说。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 结构化理论通过结构二重性概念成功化解了长期困扰社会科学的能动性 vs 结构二元对立；在学习科学与微观教学论中，[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] [[Creativity|创造性]]将吉登斯的结构化理论迁移至微观科学探究课堂，提出[[Reflective Structuration|反思性结构化]]机制，阐明探究结构（认识框架、社会构型、实践方式与价值准则）并非外部强加的僵化脚本，而是师生在探究中协同构建的动态架构，并反过来中介后续的深层[[Epistemic Agency|认识能动性]]行使。
 > - **方法路径** [[Double Hermeneutic|双重诠释]]进入[[Qualitative Research|质性研究]]与教育[[Ethnography|民族志]]方法论，成为说明数据分析为何必然融合事实与解释、为何需要将主位（emic）与客位（etic）透镜辩证统合的[[Epistemology|认识论]]基石；同时为研究者的[[Reflexivity|反思性]]（反身性）实践提供了根本性辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 > - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与[[Competitiveness|国家竞争力]]的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **[[Epistemology|认识论]]对话者** [[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas） — 共同清算[[Positivism|实证主义]]霸权，哈贝马斯在《交往行动理论》中高度认同吉登斯对生活世界前诠释结构与[[Double Hermeneutic|双重诠释]]的阐发。
 > - **批判对象** [[Auguste Comte|奥古斯特·孔德]]（Auguste Comte） — 吉登斯深刻解剖了孔德开创的实证社会学在盲目照搬自然科学模式上的认识论教条。
 > - **人本与行动科学同盟** [[Rom Harré|罗姆·哈雷]]（Rom Harré） — 在 1970 年代共同批判[[Behaviorism|行为主义]]对人性的物化，强调人类作为具备规则意识与自我监控能力的能动主体。

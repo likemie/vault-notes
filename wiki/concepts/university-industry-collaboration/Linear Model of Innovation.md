@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Linear Model of Innovation
@@ -168,7 +168,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩[[Big Science|大科学]]经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 > - **1945 — 政策[[Paradigm|范式]]确立** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向美国总统提交《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，将基础科学描述为技术进步的终极源泉，确立了二战后西方国家科研资助体系的线性底色。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 > - **1950s末 — 经济学理论论证** 理查德·尼尔森（[[Richard Nelson]]）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究崛起、诺贝尔奖级用启发性工作（蛋白质折叠与超导量子）以及高校单 PI 模式滞后为据，系统论证线性管道作为预算假设已经失真，提出重组联邦资助并锚定本土制造。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 梳理科学在创新过程中角色的历史演进，批判线性模型引发的大学商业化偏向，提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 深入批判线性模型深层的文化偏见，以六届诺贝尔物理学奖演进谱系证明工程发明对基础科学的反向催生，宣告线性创新模型的终结。

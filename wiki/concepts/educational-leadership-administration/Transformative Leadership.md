@@ -29,19 +29,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-29
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 变革型领导力（Transformative Leadership）是由 [[Carolyn Shields]]（2010, 2011）提出的教育领导力框架，其核心特征是**以权力为调查的起点（power is a starting point for the investigation）**，而非将领导力视为去政治化的组织管理行为([[Argument_Møller_2017_EERJ\|Møller, 2017, p.381]])。
 >
 > > Møller 将其描述为一种使研究者能够"将专业工作和组织发展定位于权力结构之中，并调查如何改变权力结构以解决社会不平等问题"的视角。
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.381)]]将变革型领导力的分析要点归纳为：
 >
 > - **权力的优先性** 任何[[School Leadership\|学校领导力]]调查都必须以权力为出发点，而非仅关注领导者的个人能力或组织行为
@@ -59,7 +59,7 @@ updated: 2026-09-29
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - [[Helen Gunter]]（2016）的批判性教育政策研究 — 将教育领导力视为多元人群和利益的[[Champ\|场域]]，社会科学学科知识是"资源机会"而非既定方法论的集合([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])
 > - Shields 的社会正义导向 — 变革型领导力直接回应社会不平等，而非仅关注组织效能
 
@@ -74,6 +74,6 @@ updated: 2026-09-29
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.381)]]指出一个现实困境：政策制定者期待研究提供答案而非对复杂情境的问题化，且常将教育研究发现视为"模糊、矛盾、不显著、不合时宜或仅部分相关"（citing Sebba, 2013, p. 395）。当研究锚定于[[Critical Theory\|批判理论]]时，这种情况尤为严重。以权力结构为分析对象的研究可能"引起掌权者的不适以及与受益于不平等的群体的政治冲突"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.381, citing Mintrop, 2016]])。
 

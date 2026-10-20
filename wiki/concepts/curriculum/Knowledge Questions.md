@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge Questions
@@ -180,6 +180,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] — 从课程与评估一致性的视角拆解“知识问题”在 [[Theory of Knowledge\|TOK]] 2013 版指南中的核心定位、任务功能及其对[[Critical Thinking\|批判性思维]][[Test Validity\|测试效度]]的局限性。
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 将知识问题作为打破孤立组件壁垒的工具，展示其如何将 [[Chinese Academy of Sciences|CAS]] 行动与 EE 研究统合在一致的[[Epistemology\|认识论]]反思框架下。

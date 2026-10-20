@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Test Production
@@ -120,5 +120,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 比较 [[PISA]] 与 [[OECD AHELO Project|AHELO]] 的测验生产全流程，提炼[[OECD|经合组织]]在测试研制早期借以确立治理合法性的三重核心机制。

@@ -43,7 +43,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Working Knowledge
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 实践运作知识（Working Knowledge） | 显性科学证据（Scientific Evidence） | 组织惯性常规（Organizational Routine） |
 > |---|---|---|---|
 > | 载体形态 | 行动者的认知图式、工作假定与整合性经验 | 学术出版物、统计报表与测评数据库 | 正式科层规章、行政审批链条与分工流程 |
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **前置信念与假定（Pre-existing Beliefs and Assumptions）** 行动者关于教育规律、学生能力分布与学校运作的常识性信念，构成理解新数据的底层参照系。
 > - **制度实践经验（Experiential Professional Knowledge）** 官员或管理者在长期从事教育教学、[[School Inspection\|学校督导]]或科层行政中积累的本土情境经验与组织惯例。
 > - **内化的社会科学知识（Internalized Social Science Knowledge）** 经由学术研讨、政策简报或日常自学吸收，融入日常[[Discourse|话语]]框架的专业概念与因果推论模型。
@@ -184,7 +184,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 追踪德国教育部官员在两轮 [[PISA]] 测评及日常治理中的数据处理行为，论证了外部证据如何被重构并融入行政官员的实践运作知识，推动循证政策走向日常行政常规。
 
 ---

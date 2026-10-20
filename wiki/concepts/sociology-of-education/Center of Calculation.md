@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Center of Calculation
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 将计算中心框架运用于德国[[Institute for Educational Quality Improvement\|IQB]] 案例，系统揭示跨尺度[[Data Infrastructure\|数据基础设施]]如何重塑国家与州级教育政策空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 探讨数据基础设施素养与数字化时代治理权力的分布式网络特征，反思传统单一计算中心模型的演进方向。
 > - Latour (1987) — 经典开创计算中心理论，阐述标准化数据表征转译、积累与远程控制的社会-物质机制。

@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Harold Noah
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1925** **英国伦敦出身与早期经济学训练** 出生于英国伦敦。早年在英国接受[[Normal School|师范教育]]与经济学训练，后在伦敦政治经济学院（London School of Economics and Political Science, LSE）攻读经济学，奠定了坚实的实证经济分析与统计测量功底。
 > - **1964** **哥伦比亚大学博士毕业与开启苏联教育经济研究** 赴美深造并获得哥伦比亚大学博士学位，博士学位论文聚焦苏联教育经济学、人力配置与教育财政体制；随后留校任教于师范学院，率先在比较教育学科内部开辟教育经济学专门方向。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与埃克斯坦共同出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），将古典历史学派定性为依赖个人主观洞察力的前科学阶段，构建跨国“[[Independent Variable|自变量]]—[[Dependent Variable|因变量]]”函数共变模型，呼吁采纳严格统计技术清洗偏见与任意武断，并在第三代际实证[[Scientism|科学主义]]运动中确立以哥大学派为核心的[[Quantitative Research|量化研究]]纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
@@ -187,7 +187,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Paradigm|范式]]塑造路径** 与埃克斯坦确立的[[Positivism|实证主义]][[Scientific Paradigm|科学范式]]彻底改写了战后北美比较教育学的研究取向，促成社会学[[Multiple Regression|多元回归]]与经济学计量工具成为学科主流；
 > - **方法论奠基路径** 提出“用[[Variable|变量]]名称替代系统名称”的通则化分析纲领，为大规模跨国教育成就调查（[[IEA]]）提供了核心方法论论证；
 > - **学科史合法化路径** 1969 年著作中对学科发展阶段的经典划分（见闻—借用—因素—科学），成为数代比较教育学者的规范历史读本；
@@ -222,7 +222,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术双子星与毕生合作者** [[Max Eckstein|马克斯·埃克斯坦]] — 保持长达三十余年的紧密学术合作，合著《走向比较教育科学》与《比较教育的科学调查》等里程碑专著；
 > - **哥大同事与前辈** [[George Bereday|乔治·贝雷迪]] — 共同任教于哥大[[Normal School|师范学院]]，继承其比较方法并在经验归纳基础上推进假说检验；[[Isaac Kandel|艾萨克·坎德尔]] — 哥大师范学院历史-哲学传统奠基人，诺亚对其主观定性分析提出反思并主张实证科学化转向；
 > - **实证科学化同盟（芝加哥学派）** [[C. Arnold Anderson|阿诺德·安德森]]、[[Philip Foster|菲利普·福斯特]] — 共同构成战后美国比较教育经验实证[[Scientism|科学主义]]运动的中坚力量；

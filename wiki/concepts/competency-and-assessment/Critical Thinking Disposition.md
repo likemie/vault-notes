@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critical Thinking Disposition
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 年代 批判精神模型确立** Siegel 提出批判精神（Critical Spirit）概念，将对理性证据的情感依归确立为[[Critical Thinking|批判性思维]]的核心支柱。
 > - **1990 年 APA 德尔菲共识形成** Facione 主导 46 位哲学与教育专家确立包含 7 个倾向维度的[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]。
 > - **1993 年 认知三元模型深化** Perkins 等人提出敏感性、倾向与能力三元模型，阐明倾向在真实[[Problem Finding|问题发现]]中的激发机制。
@@ -221,7 +221,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 针对 25 项实证研究展开[[Meta-analysis|元分析]]检验，确立了教学干预对思维倾向的有效性（$g+ = 0.23$）及[[Mentorship|导师制]]的最优增益（$g+ = 0.38$）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 156–161)]] — 批判高校受害者心态与企业合群从众（Likability as a Jail），论证[[Critical Thinking|批判性思维]]倾向所必需的心理韧性与工程反教条实验精神。
 

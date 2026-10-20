@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Resonant Oscillation
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **单向度的知识摄取（向前）** 学生在大部分传统学术课程中，习惯于将理智用于对现成知识的提取和考试输出，这使他们发展出一种被动的、“空无认知者”的主体性。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
 > - **彻底的假设解构（向后）** 在探究性课程（如[[Theory of Knowledge\|知识论]]）中，教师不再提供确定的答案或知识“快照”，而是要求学生持续质疑甚至推翻他们在其他学科中赖以生存的知识前提。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
 > - **情感与理智的混合卷入** 这种来回震荡不仅是逻辑层面的困难，更是一种卷入了虚无主义、抗拒和焦虑的情感风暴（maelstrom of emotionality），必须在[[Baruch Spinoza\|斯宾诺莎]]式的肯定性课堂中被正视和转化。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 215)]]
@@ -101,5 +101,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出了这一概念，用以解释[[International Baccalaureate\|国际文凭]]（IB）体系下优秀学生在接触[[Theory of Knowledge\|知识论]]（TOK）课程时普遍遭遇的认知壁垒和随后的[[Reflexivity\|反思性]]突破。

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Jacob Cohen
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1923 年** 出生于美国纽约市。
 > - **1950 年** 获得纽约大学（New York University）临床心理学博士学位。
 > - **1959–1993 年** 长期任教于纽约大学心理学系，历任统计学与定量心理学主任，深耕实证研究中因小样本导致统计功效（Statistical Power）严重不足的危机。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法路径** Cohen's $d$ 与统计功效理论重塑了社会科学实证研究设计，确立了事前规划[[Sample Size Determination|样本量]]以满足统计功效标准的规程，成为[[Meta-analysis|元分析]]中合并组间差异的核心度量指标。
 > - **政策与综述路径** 科恩的指标体系经由[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》被二次包装为面向教育决策者的干预排序工具；哈蒂将 $d = 0.40$ 武断设为“期望发展[[Zone of Desired Effects|铰接点]]”，但实际上该数值与显著性检验的关系高度依赖样本量（例如以 $n=25$ 为例，$d \approx 0.412$ 方对应双侧 $t$ 检验的 $p \approx 0.05$ 临界点）。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
 > - **跨测度混同批评** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）指出，在宏观[[Research Synthesis|证据综合]]中，研究者常常将科恩的 Cohen's $d$（合并标准差作除数）、[[Gene Glass|吉恩·格拉斯]]的 Glass's $\Delta$（对照组标准差作除数）与赫奇斯的 Hedges' $g$（小样本偏倚校正）在未作数学换算的情况下混杂合并；当方差不齐时，这种盲目合并直接导致[[Effect Size|效应量]]测度失真。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **指标对照者** [[Gene Glass|吉恩·格拉斯]]（Gene Glass） — 格拉斯于 1976 年提出 Glass's $\Delta$（以对照组标准差为除数，容许干预改变实验组方差）；科恩则提出 Cohen's $d$（假定方差齐性，采用合并标准差作除数），二者构成标准化[[Effect Size|效应量]]的两大经典流派。
 > - **修正继承者** 拉里·赫奇斯（Larry Hedges） — 赫奇斯指出 Cohen's $d$ 在小样本下存在轻度高估的系统偏倚，通过引入小样本校正因子 $J \approx 1 - \frac{3}{4(n_E+n_C)-9}$ 发展出无偏估计量 Hedges' $g$。
 > - **转译与误读代表** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将 Cohen's $d$ 推广为全球教育政策畅销书的核心符号，但将其脱离[[Sample Size Determination|样本量]]与具体情境教条化为 0.40 的单一划分线，走向了科恩所反对的机械排序。
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 详尽追溯科恩关于小/中/大[[Effect Size|效应量]]分类的语境条件，揭示 $d$ 与显著性检验依赖[[Sample Size Determination|样本量]]（$t = d\sqrt{n}$）的数理机制，批判面向政策实践的教条化误读（pp. 43–45）。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 记录科恩关于身高差异（160cm 对比 183cm）的直观隐喻，阐明 Cohen's $d$ 作为标准化差异语言而非价值排序的本质（p. 427）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-analysis|元分析]]中混用 Cohen's $d$、Glass's $\Delta$ 与 Hedges' $g$ 造成的除数混乱与测度偏差，批判忽略[[Confidence Interval|置信区间]]的点估计座次排序（pp. 26–27, 29–30）。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Wolfgang Streeck
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1946** 出生于德国兰斯巴赫（Lollar）。
 > - **1972** 于法兰克福大学获社会学学位，深受法兰克福学派批判社会理论熏陶。
 > - **1980** 于比勒费尔德大学获社会学博士学位。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 施特雷克与希伦（2005）的合著开创了[[Historical Institutionalism|历史制度主义]]内生变迁研究的新纪元；[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）在此形态学基础上进一步引入因果解释矩阵与行动者模型，确立了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
 > - **方法路径** 倡导深度比较历史[[Process Tracing|过程追踪]]，要求学者穿透法律文本的表层条文，深入到劳资谈判、日常执法与规避策略的微观经验细节中检验制度实质功能。
 > - **跨学科辐射** 其资本主义危机与去组织化理论在社会学、批判法学与国际政治经济学（[[Implementation and Process Evaluation|IPE]]）中引发跨学科论战。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心理论合作者** [[Kathleen Thelen]] — 2005 年合编出版《制度变迁的超越》，共同奠定渐进变迁形态学基石。
 > - **理论同行与吸收者** [[James Mahoney]] — 将施特雷克与希伦的形态学整合入双维解释矩阵与微观行动者模型。
 > - **学术对话者** [[Peter A. Hall]] — 就[[Varieties of Capitalism|资本主义多样性]]（VoC）的[[Institutional Complementarity|制度互补性]]假设与[[Liberalization|自由化]]演进动力开展长期学术交锋。

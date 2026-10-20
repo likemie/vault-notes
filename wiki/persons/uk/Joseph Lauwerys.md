@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Joseph Lauwerys
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 获任伦敦大学教育学院比较教育教授，成为英国首位比较教育教授，开创英国比较教育大学独立教席地位与体制化进程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
 > - **1940年代末–1950年代** 担任[[UNESCO\|联合国教科文组织]]核心顾问，深入参与教科文组织教育调查专家会议与战后重建使命，推动比较教育学者直接参与战后国际多边政策实践。
 > - **1950年代末–1960年代初** 在伦敦大学教育学院与国王学院的学术环境中，不同于当时文化主义学派对实证社会学的防范与恐惧，始终保持对跨学科社会[[Scientific Method\|科学方法]]的开放包容态度。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 确立了比较教育中的理性主义传统，与[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）代表的现实主义国家竞争[[Paradigm\|范式]]形成鲜明对照，为后来的[[International Education\|国际教育]]合作研究奠定理论基石。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > - **方法路径** 打破战后英国部分学者对定量与实证社会学的抵触，主张将严谨的社会科学调查与哲学诠释相结合，拓展了比较教育的方法论包容度。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **政策路径** 深度参与[[UNESCO\|联合国教科文组织]]早期教育议程的制定，协助将比较分析工具制度化地引入跨国技术援助与战后教育重建政策。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** 索尔·罗宾松 共同发起创立 [[Comparative Education Society in Europe\|CESE]]，推动战后欧洲[[Dialogue in Education\|教育对话]]与制度改革。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
 > - **同事与继承者** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了[[Problem Approach\|问题法]]（Problem Approach）与制度化比较教育。
 > - **国际学术盟友** [[Jean Piaget\|让·皮亚杰]]、阿尼西奥·特谢拉、平冢益德 维系日内瓦 IBE、巴西与日本的高层跨洲学术纽带。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]

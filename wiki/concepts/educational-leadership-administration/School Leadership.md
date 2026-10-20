@@ -73,7 +73,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # School Leadership
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 学校领导力（School Leadership） | [[Transformative Leadership\|变革型领导力（Transformative Leadership）]] | [[New Public Management\|新公共管理]]科层管理（NPM Administration） | 教育企业管理者型领导（Pedagogical Enterprise Manager） |
 > |---|---|---|---|---|
 > | **分析起点** | 学校微观组织运作、人员发展与教学情境 | 宏观权力结构、社会正义与制度不平等批判 | 科层问责规程、成本效益核算与标准交付 | 路径自主权体制下国家标准、成效监测与校本改进交汇处 |
@@ -218,7 +218,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20 世纪中叶 — 特质论与伟人领导力模型** 侧重研究优秀校长的个人心理特质与行政权威，预设卓越领导者具有先天的超凡个人魅力。
 > - **1980s–1990s — 教学领导与变革型领导兴起** 随着有效学校运动推进，领导力重心转向指导课堂教学（[[Instructional Leadership]]）以及激发教工组织承诺（Transformational Leadership）。
 > - **2000s — ISSPP 跨国项目与分布式领导转向** [[OECD\|经合组织]]（OECD）启动改进学校领导力项目（ISL），国际成功学校校长项目（ISSPP）在 20 多个国家展开长期追踪，确立领导力的情境特异性与分布式领导（Distributed Leadership）共识。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–380)]]
@@ -296,7 +296,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织杠杆。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。

@@ -112,7 +112,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Boundary Spanner
@@ -341,7 +341,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统论证伙伴关系、中介组织与跨界中介者在全系统[[Evidence-Informed Practice\|证据知情实践]]中的决定性支撑功能。
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 基于对 [[DARPA]] 微系统技术办公室的长程[[Case Study|案例研究]]，对比[[Structural Holes|结构洞]]经纪人、边界跨越者与[[Embedded Network Governance|嵌入型网络治理]]者的本质差异，论证公共代理人如何超越中立转译角色、主动重塑科学家与企业间的社会关系网络。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 测度 29 国 37 个教育系统中跨界中介个体角色的空间分布，实证揭示中介人才在政策端（73%）与实践端（32%）的非对称断层，并确立基于转译中介技能而非学术头衔界定中介有效性的原则。

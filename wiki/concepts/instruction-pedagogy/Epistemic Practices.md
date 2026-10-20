@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Practices
@@ -295,7 +295,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis|多模态话语分析]]，实证揭示生成式 AI 环境下中学生四维[[Epistemology|认识论]]实践的微观展开过程与双轨[[Epistemic Scaffolding|认识论支架]]的促学机制。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 系统阐述[[Epistemology\|认识论]]实践的理论基础，提炼提出、沟通、评估与合法化四维行动模型及四大本体特征，构建探究科学、工程与[[Socioscientific Issues\|社会科学议题]]的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 考察学生在探究实践中运用的[[Practical Epistemology\|实践认识论]]，揭示学生在具体探究行动中的认识论决策具有高度的情境依赖性与隐性特征。

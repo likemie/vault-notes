@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Naturalistic Generalization
@@ -98,5 +98,5 @@ LeCompte and Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性�
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 阐述[[Qualitative Research\|质性研究]]的概括性问题：Larsson 的三种推理形式、可比较性与可翻译性标准、可转移性概念及 Wolcott 的观点。

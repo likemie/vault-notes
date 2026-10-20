@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-07
+updated: 2026-10-21
 ---
 
 # Second-generation Ethnic Policy
@@ -58,7 +58,7 @@ updated: 2026-10-07
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 第二代民族政策 | 第一代民族政策（传统模式） | [[Depoliticalization of Ethnic Policy\|民族政策去政治化]] |
 > |------|--------|----------------|----------------|
 > | **分析与建构目标** | 建立单一“[[Zhonghua Minzu\|中华民族]]”国族（熔炉模式） | 维系“多民族国家”与 56 个平行的民族身份 | 将“民族”降格为去政治的文化“族群” |
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **废除区域自治与制度差异** 主张将现有的“自治区—自治州—自治县”体制虚化或取消，将其转换为普通的行政区划，以阻断族群身份在领土上的法理化和主权化。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 103]])
 > - **废除族群特殊优惠政策** 取消少数民族在[[Gaokao\|高考]]加分、计划生育、官员比例等方面的制度性倾斜，提倡基于“同一公民身份”的无差别治理。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 > - **国家通用语言的绝对主导** 在教育、司法和行政系统全面推行普通话，取代原有的双语教学，将语言同化作为消解少数民族族群边界的物质手段。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 110]])

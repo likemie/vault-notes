@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Productization of the Mind
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **人文学科与历史反思的全面边缘化（Collapse of the Humanities）** 视文学、哲学与历史学等人文探索为低效无用的负资产，毕业生人文专业占比断崖式下跌。
 > - **工程技能与宏观世界的彻底脱节（Technocratic Decontextualization）** 培养出大量仅[[Refined Mastery|精通]]算法代码却对历史脉络、地缘冲突与政治哲学全然无知的技术工匠。
 > - **以市场逻辑为借口的教育责任放弃（Market Abdication）** 大学管理者以“顺应市场需求”为由，推卸引导青年树立崇高志向与家国情怀的教育伦理责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 76)]]
@@ -103,5 +103,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，系统提出心智产品化命题，呼吁培养具备历史与现实关怀的新型工程师。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hedgehog and Fox Model
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 人类个体与专家群体在面对复杂、不确定与动态演化系统时的认知取向、决策风格与预测准确度差异。
 > - **理论问题** 为什么拥有崇高学术声望与[[Grand Theory|宏大理论]]建构能力的专家在对真实世界重大事件的预测中往往表现不佳，甚至落后于随机概率；如何界定高水平认知与战略判断的内在特征。
 > - **理论类型** [[Epistemology|认识论]]与认知风格[[Analytic Framework|分析框架]]、决策与预测评估模型。

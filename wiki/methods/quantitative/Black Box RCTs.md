@@ -48,12 +48,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 黑箱 [[Randomised Controlled Trials\|RCT]]（Black Box RCTs）是 Scriven (1994) 提出的标签，指不提供关于干预**如何**、**为什么**或在**什么条件下**产生效果的信息的随机对照试验——它们仅输出一个[[Effect Size\|效应量]]估计，而将因果机制的"黑箱"保持未打开状态。
 >
 > > "Trials are not intended to provide information about how, why or under what conditions the programme works — hence, they leave the 'black box' unopened." ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 历史沿革
 
-> [!note-] 历史沿革
+> [!note-|notitle] 历史沿革
 > - **1994** — Scriven 提出"黑箱 [[Randomised Controlled Trials\|RCT]]"的概念，区分评估（evaluation）和解释（explanation）
 > - **医学起源** "什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse\|WWC]] 和 [[Education Endowment Foundation\|EEF]] Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 301]])
 > - **Cook (2002)** 的分析：考虑到 RCT 在教育中的可行性限制，Cook 建议聚焦于"治疗更短、需要很少或不需要教师培训……且学生是分配单位而非整个班级或学校"的干预——实际上将 RCT 限制于可直接交付给学生的商品化干预
@@ -101,34 +101,34 @@ updated: 2026-10-16
 
 ## 与相关概念的区别
 
-> [!example] 与相关概念的区别
+> [!example|notitle] 与相关概念的区别
 > - **vs [[Randomised Controlled Trials]]** — 黑箱 RCT 是 RCT 的一种特定设计取向（或缺乏设计取向），而非 RCT 方法本身的必然特征。Peterson 的立场是保留 RCT 但改革其设计——从黑箱取向转向机制取向
 > - **vs [[Mechanism Experiments]]** — 直接对立：黑箱 RCT 不打开因果机制，机制实验以因果机制为[[Unit of Analysis\|分析单位]]
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估（Chen, 1990; Weiss, 1995）长期倡导打开黑箱，但 Peterson 认为其仍过于紧密链接到特定项目的"项目理论"，而非真正聚焦于可被教师改编和采纳的原则([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 302–303]])
 
 ## 理论基础
 
-> [!info] 理论基础
+> [!info|notitle] 理论基础
 > - **医学药物试验[[Paradigm\|范式]]** — 黑箱 [[Randomised Controlled Trials\|RCT]] 的起源范式，其假设（标准化产品可被认证后分发）在教育中适用范围极度有限
 > - **Cartwright and Hardie (2012)** — 揭示黑箱 RCT 产出的知识仅适用于"二选一"决策类型
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > - 美国教育[[Effectiveness Trial\|有效性试验]]超 90% 未显示影响（C4E, 2013）([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 301–302]])
 > - [[Education Endowment Foundation\|EEF]] 有效性试验中仅一项显示明确效应([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 301]])
 > - 仅约 20.8% 的美国 CSR 拨款流向强证据项目([[Argument_Slavin_2002_ER\|Slavin, 2002, p. 15]])
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > 评估界对黑箱 [[Randomised Controlled Trials\|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments\|机制实验]]将 RCT 改建为生成与[[Practitioner Enquiry\|教师探究]]实践兼容的因果知识。
 >
 > [[Argument_Peterson_2016_IJRME\|Peterson (2016, p. 300)]] 明确声明其提案从"[[Random Assignment\|随机化]]评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias\|发表偏差]]（Vivalt, forthcoming）"。
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
+> [!example|notitle] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation\|EEF]] 的试验资助和 Toolkit 聚合主要采用黑箱取向
 > - [[What Works Clearinghouse]] — WWC 的认证模式直接复制了医学药物认证的黑箱逻辑([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 300–301]])
 

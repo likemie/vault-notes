@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Leo Szilard
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1898** 出生于奥匈帝国布达佩斯，后赴德国柏林工业大学与柏林大学深造，师从[[Max Planck|马克斯·普朗克]]与阿尔伯特·爱因斯坦。
 > - **1933** 纳粹掌权后流亡英国，受欧内斯特·卢瑟福演讲启发，在伦敦穿越红绿灯时率先构想出中子引发核裂变自持链式反应（Nuclear Chain Reaction）的物理机制并申请秘密专利。
 > - **1938** 移居美国，在哥伦比亚大学确认铀裂变释放出多余中子，证实原子弹制造的物理可行性。
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **战略动员路径** 开创了顶尖科研人员直接向国家最高首脑发出战略技术预警并促成国家重大防务工程立项的政产研结盟传统。
 > - **体制机制路径** 推动确立了政府资助与高校科学家深度合作的战时国家创新科研[[Paradigm|范式]]，为后来的[[Office of Scientific Research and Development|OSRD]]与国家实验室体系奠定了组织雏形。
 > - **公共政治[[Discourse|话语]]** 深刻塑造了战后科学家参与核政策讨论与公共伦理反思的智识传统。
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** 阿尔伯特·爱因斯坦 — 共同起草1939年佩科尼克致[[Franklin D. Roosevelt|罗斯福总统]]信函，促成国家核计划立项。
 > - **国家首脑** [[Michael Fullan|富兰]]克林·D. 罗斯福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
 > - **重大工程** [[Manhattan Project|曼哈顿工程]] — 科学发起人之一，在芝加哥一号堆中实现链式反应工程化突破。

@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 概念性使用 | 工具性使用 | 象征性使用 |
 > |------|--------|--------|--------|
 > | 作用方式 | 间接影响理解与思考 | 直接影响具体决策 | 事后为决策合法化 |
@@ -210,7 +210,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1977–1978 — 象征与工具区分** Knorr (1977) 区分象征性使用与工具性使用，Pelz (1978) 扩展[[Research Utilization|研究使用]]的视角。
 > - **1979–1980 — 类型学奠基** Weiss 提出七种[[Research Utilization|研究利用]]模型，并引入"知识渗透"概念（Weiss, 1980）。
 > - **2007 — 三分类系统化** Nutley et al. (2007) 在公共部门证据使用研究中系统化概念性、工具性与象征性三分类。
@@ -254,7 +254,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者[[Evidence-Based Policy-Making|证据本位决策]]的影响。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 考察德国各州教育部对 [[PISA]] 及大规模测评数据的利用方式，揭示数据使用从早期的战术性合法化（象征性使用）向日常治理中的问题诊断（工具性使用）与假设检验（概念性使用）演进的机制路径。

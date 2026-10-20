@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research Scope
@@ -145,5 +145,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]] — 详析教育研究规划中的范围管理纪律，通过小样本经典研究论证窄而深的研究策略如何赋予研究以可操作性与严谨性（pp. 92–93）。

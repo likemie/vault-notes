@@ -53,7 +53,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Lee Kuan Yew
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1923** 出生于新加坡，就读于莱佛士书院，二战后赴英国剑桥大学菲茨威廉学院攻读法律，以双重一级荣誉学位毕业。
 > - **1954** 参与创立人民行动党（People's Action Party, PAP）并出任秘书长。
 > - **1959** 在自治邦大选中获胜，就任新加坡首任总理。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **公共管理与国家治理能力路径** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为理所当然的道德教条，证明市场化激励与精英治理可以高效融合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **执政同侪与改革合作者** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与双语教育体系。
 > - **国际战略对话者** [[Henry Kissinger|亨利·基辛格]]（Henry Kissinger）— 为其著作作序，高度评价其以钢铁意志塑造历史的卓越领导力。
 > - **当代思想重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将其治国经验作为克服西方虚无主义与重构国家能力的典范。

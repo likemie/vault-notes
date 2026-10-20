@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-19
+updated: 2026-10-21
 ---
 
 # AI Deterrence
@@ -114,7 +114,7 @@ updated: 2026-10-19
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **软硬件主从关系的根本逆转（Software-Hardware Hierarchy Inversion）** 彻底打破将软件视作装备附件的传统工业定势，确立软件为战略态势感知、目标识别与火力调度的中枢神经，硬件战机与舰艇则成为可替换的执行末端。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **极限压缩的传感器到射手杀伤链（Ultra-Compressed Sensor-to-Shooter Loop）** 依托多模态模型与边缘计算，将战场海量异构数据（卫星、雷达、无人机视频）在秒级内转化为战术杀伤指令，实现以快制慢的高维决策压制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–27)]]
 > - **非对称成本与分布式集群[[Emergence|涌现]]（Asymmetric Cost & Distributed [[Swarm Intelligence]]）** 运用由敏捷算法控制的大规模低成本[[Autonomous Drone Swarms|自主无人机蜂群]]，在实战中瓦解对手昂贵的传统重型武器平台，重构现代战争的成本交换比。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 45–47)]]

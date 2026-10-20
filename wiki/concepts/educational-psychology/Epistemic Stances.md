@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Stances
@@ -261,7 +261,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在[[Man-Computer Symbiosis|人机协同]]解决问题中的表现与转化机制，并建立双轨支架干预模型。
 > - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将适应性认识立场引入人工智能中介学习审思，论证根据中介形态自适应调整立场是抵御[[Epistemic Dependence|认识依赖]]与维护主体性的关键机制。

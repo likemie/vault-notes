@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Surface and Deep Learning
@@ -307,7 +307,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 把表层与深层学习界定为具体任务中的活动方式，并通过教学方法、概念改变和[[Constructive Alignment\|建构性对齐]]说明教师如何改变学习取向。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning\|问题本位学习]]和[[Assessment Backwash\|评估反拨]]说明不同学习层次需要恰当衔接。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] 通过[[Chinese Learner\|中国学习者]]研究修正将记忆直接等同于表层学习的判断，强调外显行为在完整学习序列中的不同功能。

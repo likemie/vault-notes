@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Zone of Desired Effects
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **铰接点（Hinge Point, $d = 0.40$）** [[John Hattie|哈蒂]]设定的核心分水岭，声称代表学生一年正常认知成熟与标准教学的基线进展，高于此数值方被视作对教学产生期望成效。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > - **四层效应区间划分** 哈蒂将教育影响因素分为四大区段：逆效应区（$< 0$）、发展效应区（$0 \le d < 0.15$，自然成熟）、教师效应区（$0.15 \le d < 0.40$，平庸教学）、期望效应区（$d \ge 0.40$，高效教学）。
 > - **简单算术平均本质** 该数值源自 2009 年全书 138 项影响因素未加权平均的数学产物，缺乏任何外在客观物理常数依据。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2009 年 — 铰接点创立与期望效应区提出** [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 余项[[Meta-analysis|元分析]]，正式提出以 $d=0.40$ 为界的期望效应区，将其界定为值得在学校推广的高效教学标准。
 > - **2010–2018 年 — 商业化普及与治理工具化** 伴随 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]运营的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 项目，期望效应区与[[Barometer of Achievement|成就气压计]]被打包为全球校长认证培训的标准化评级工具。
 > - **2017–2021 年 — 方法论与统计学质疑爆发** [[Adrian Simpson]]、Peter E. Lichtenberg 等学者指出[[Effect Size|效应量]]分布偏态、非比率尺度及简单算术平均的统计违规；[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 与斯诺克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）通过阿司匹林[[Clinical Trial|临床试验]]揭露其脱离成本效益的叙事本质。
@@ -282,7 +282,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 数理审计揭示微弱相关（$r=0.196, R^2=3.85\%$）虚增至 $d=0.40$ 机制，并以基准反转证实期望效应区缺乏客观绝对分界性（pp. 240–242）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]]规训工具与财政紧缩借口的治理功能。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（$V_\sigma = 56.87\%$）与各来源维度的极端不均匀性，实证解构了 $d = 0.40$ 期望效应区作为决策基准的科学有效性。

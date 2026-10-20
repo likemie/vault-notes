@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Suyan Pan
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2006** 获香港大学教育学博士学位，师从比较教育学家贝磊（Mark Bray）。
 > - **2007–2012** 任教于香港浸会大学，重点开展关于中国大学国际化、学生跨界流动及公民身份认同的实证研究。
 > - **2013** 发表《中国大学走出去与[[Soft Power|软实力]]投射》等系列成果，开始探索中国古代天下与朝贡历史经验对现代高教外向拓展的理论启发。
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 克服了西方传统现实主义与[[Soft Power|软实力]]二元[[Paradigm|范式]]的机械套用，为比较高等教育学界提供了极具解释力的非西方本土理论透镜。
 > - **实证与政策应用** 该框架被广泛应用于检验中外合作办学空间布局、[[Confucius Institute|孔子学院]]发展、[[Belt and Road Initiative|一带一路]]跨国大学联盟及区域留[[Student Mobility|学生流动]]的动力机制。
 > - **后续范式整合** 促使后继学者进一步将新朝贡微观实践透镜与宏观[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]相结合（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **共同研究同行** 卢天佑 — 共同提出[[Neo-Tributary Perspective|新朝贡分析框架]]的核心学术搭档。
 > - **思想前驱** [[John King Fairbank|费正清]] — 其经典[[Tributary System|朝贡模型]]为新朝贡视角的概念化提供了历史思想起点。
 > - **对话与修正者** Zhu, K.、Yang, R. — 运用中柬实证案例检验并更新其理论框架的当代学者。

@@ -60,7 +60,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Deficit Model of Science Communication
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **单向线性传递假设（One-way Linear Transmission Assumption）** 将科学传播与知识应用简化为单向流通链条（研究产出 $\rightarrow$ 通俗加工 $\rightarrow$ 终端采纳），假定只要通道通畅、语言浅显，科学事实便会自动转化为实践行动（[[Argument_Besa_2024_UW\|Besa, 2024, pp. 252–253]]）。
 > - **认知赤字与知识决定态度假设（Knowledge-Determines-Attitude [[Hypothesis]]）** 预设公众或专业人员对科学结论的怀疑、漠视或抗拒仅仅源于科学事实储备不足，忽视价值观、文化信仰、职业认同与体制约束的深层决定作用（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]）。
 > - **专家中心主义与不对称权力关系（Epistemic Asymmetry & Expert Centricity）** 确立科学家作为唯一真理裁决者的特权地位，贬低公众的常识性认知与一线教师的[[Phronesis\|实践智慧]]，将实践者的情境怀疑视为非理性阻抗（[[Argument_Besa_2024_UW\|Besa, 2024, p. 253]]）。
@@ -195,7 +195,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1985 — 起源与公众理解科学（PUS）倡导** 英国皇家学会发布《[[Bodmer Report 1985\|博德默尔报告]]》（[[Bodmer Report 1985]]），确立科学家向社会传播科学的道德义务；该阶段主要采用普及科学事实的单向知识供给取向（后被[[Reflexivity\|反思性]]界定为赤字模型）。
 > - **2000 — 英国上议院报告与对话转向** 英国上议院科技委员会发布里程碑报告《科学与社会》（Science and Society），严厉批评赤字模型的傲慢与局限，确立了以双向平等对话为标志的现代科学传播新基调。
 > - **2010–2020 — [[Knowledge Mobilisation\|知识动员]]反思与信息赤字因果[[Falsification\|证伪]]** [[Evidence-Based Education\|循证教育]]运动中大规模试验（如 [[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼试验]]）证实单纯信息推介[[Effect Size\|效应量]]为零，推动[[International Education\|国际教育]]中介机构反思自上而下推广模式（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）。
@@ -235,7 +235,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统回顾 40 年科学传播史，论证从单向赤字模型彻底转向双向平权、全生命周期内嵌的[[Public Engagement with Science\|公众科学参与]]（PES）的国家战略共识。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 批判教育研究中单向线性的自上而下[[Knowledge Transfer\|知识转移]]假定，揭示其赤字模型本质及导致的教师心理防御，提出转向双向递归对话与概念转变沟通。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 依托英国 [[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼]]多臂因果试验等证据，证明孤立的单向信息推介[[Effect Size\|效应量]]为零，提出[[Educational Brokerage Agency\|知识中介机构]]自我循证的五大支柱。

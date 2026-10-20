@@ -58,7 +58,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # German Dual Education System
@@ -167,6 +167,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家理论]]视阈，对比德国依托政府、工会与企业“三方协同机制”对一线生产工人技能进行大规模投资的制度实践，深刻揭示美国因忽视双元[[Apprenticeship|学徒制]]而陷入高技术技工断层、最终导致平板显示等先进制造外流的体制弊端。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士设立工艺学校（[[Gewerbe-Institut]]）吸引外国工匠带徒传艺并与车间制造紧密协作的历史脉络，论证隐性工艺知识在德国[[National Innovation System|国家创新系统]]与高端机床工程制造中的基石作用。

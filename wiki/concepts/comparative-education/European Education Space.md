@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # European Education Space
@@ -185,7 +185,7 @@ graph TD
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 年代初 — 政策萌芽与条约确立** 1992 年《马斯特里赫特条约》（第 126 条）明确[[EU|欧盟]]在尊重成员国文化和语言多样性的前提下促进教育合作，[[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]相继铺开。
 > - **2000 年 — [[Lisbon Strategy|里斯本战略]]与开放协调机制** 欧盟提出建立全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy|知识经济]]体，正式确立以基准比对、量化指标和同伴学习为核心的开放协调机制（[[Open Method of Coordination|OMC]]），欧洲教育空间开始获得实操抓手。
 > - **2002 年 — 比较教育学批判解构** [[António Nóvoa]] 与 Martin Lawn 出版《制造欧洲教育空间》（*Fabricating Europe: The Formation of an Education Space*），将该空间定性为通过数据与流动性进行主体塑造的[[Post-structuralism|后结构主义]]治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
@@ -225,7 +225,7 @@ graph TD
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示全球 [[PISA]] 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出[[EU|欧盟]]教育事务本质是成员国总和，揭示西班牙在[[Bologna Process|博洛尼亚进程]]对标与伊拉斯谟生源吸引表象下的高等教育近亲繁殖与制度性脱节。

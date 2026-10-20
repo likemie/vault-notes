@@ -45,7 +45,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Official Knowledge
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **政治选择性（Political [[Selectivity]]）** — 官方知识是从社会庞杂知识库中精心筛选出来的特定片段，筛选标准取决于[[Pact of Domination|统治契约]]与主导群体的利益。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
 > - **制度合法化（Institutional Legitimation）** — 通过赋予官方审核盖印，将特定文化传统升格为唯一的国家正统，使其他非主流经验边缘化。[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **[[Cultural Hierarchy\|文化等级]]再生产（Cultural Hierarchy）** — 在传递知识内容的同时，隐性确立了谁的文化代表国家、谁的知识更为高级的文化秩序。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1993 年 — 批判课程理论确立** — Michael Apple 出版 *Official Knowledge*，奠定官方知识批判的理论基石。
 > - **2000 年代 — 全球教育政策扩展** — 概念被广泛运用于分析国家统一大纲、标准化考试及跨国[[Policy Borrowing\|政策借用]]中的知识合法化。
 > - **2020 年代 — 实证教科书与民族教育应用** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 与 [[Argument_Xu_2024_CE\|Xu (2024)]] 将其运用于中国教科书与[[One Country, Two Systems\|一国两制]]的实证分析，揭示官方知识在主流与边缘、中心与特区间的差异化生产机制。
@@ -166,6 +166,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 通过分析中国六门必修科目教材，揭示官方知识如何将儒家传统塑造为主流正统并边缘化少数民族文化。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 实证比较大陆统编版与香港龄记版中史教材，展示官方知识在不同政治控制体制下的建构逻辑。

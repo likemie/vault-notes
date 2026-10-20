@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Saint Benedict
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **c. 480** 出生于意大利努西亚（Nursia，今诺尔恰）贵族家庭，青年时期赴罗马学习文学与修辞学。
 > - **c. 500** 目睹罗马帝国解体后社会的道德沦丧与政治腐败，放弃世俗学业，隐居苏比亚科（Subiaco）洞穴修行。
 > - **c. 510–528** 在苏比亚科建立 12 座修道院社区；期间遭到当地嫉妒其声望的祭司弗洛伦蒂乌斯（Florentius）的严酷迫害（包括投毒面包与派遣裸女诱惑门徒破坏修会纯洁），本笃选择和平避让而非政治复仇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
@@ -95,7 +95,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **西方制度文明路径** 建立的修道院制度在蛮族入侵与帝国瓦解的黑暗时代保存了古典学术典籍、农业工程技术与理性法治火种，被史学界视为重构中世纪欧洲文明秩序的组织中枢。
 > - **政治伦理与现代治理批判路径** 在现代公共治理与技术政治语境中，圣本笃的道德自律成为批判“取消文化（Cancel Culture）”、网络暴力与[[Procedural Piety|程序虔敬]]猎巫的重要伦理资源；告诫治国者必须克制对争议实干家落井下石的冲动，为复杂人性的开拓者保留制度容错与救赎空间。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
 
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想记录与升华者** 教宗额我略一世（Pope Gregory I）— 在《对话录》中系统记录本笃生平典故并将其上升为全欧政治与宗教楷模。
 > - **历史迫害者与对立面** 弗洛伦蒂乌斯（Florentius）— 罗马乡间腐化祭司，因嫉妒而迫害本笃，其身亡引发本笃对门徒幸灾乐祸的严厉训诫。
 > - **现代政治哲学对话者** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引入本笃典故，作为克服现代政治仇恨与官僚[[Scapegoat Mechanism|替罪羊机制]]的思想药方。

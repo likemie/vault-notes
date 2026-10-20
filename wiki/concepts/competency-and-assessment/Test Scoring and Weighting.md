@@ -30,7 +30,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Test Scoring and Weighting
@@ -105,5 +105,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节第九步详细介绍测验计分的八项优势、汇总与特异性的张力、Ebel 等级分配原则、切分分数的目的依赖性和常模分数类型

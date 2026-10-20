@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Automation Bias
@@ -236,7 +236,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统构建弱/强自动化偏差理论模型，论证强自动化偏差作为[[Epistemic Deference|认识论顺从]]对自主能动性与道德责任的伦理侵蚀，并提出反思机器与[[Defeater|击败者设计]]框架。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 在教育[[Research Synthesis|证据综合]]中探讨自动化偏差风险，提出通过多模型背对背提取与专家仲裁落实[[Meaningful Human Control|有意义的人类控制]]。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]高等教育[[Generative Artificial Intelligence|生成式人工智能]]交互中的心智惰性，强调通过结构化支架注入[[Epistemic Friction|认识论摩擦]]以避免学生被动盲从。

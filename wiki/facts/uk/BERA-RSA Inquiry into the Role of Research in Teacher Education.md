@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # BERA-RSA Inquiry into the Role of Research in Teacher Education
@@ -74,7 +74,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 推动英国及国际教师专业标准将科研素养、循证教学与行动探究列为教师核心能力指标。
 > - **实践影响** 倡导将学校建设为富有科研浸润的环境（Research-rich environments），推动教师同时参与开展研究与使用研究。
 > - **知识影响** 奠定了当代教师[[Research Literacy\|研究素养]]与[[Engagement in and with Research\|做研究与用研究]]的理论基石，成为后续一系列[[Scale Development\|量表编制]]与实证测评的核心政策引证源头。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 2–4)]]

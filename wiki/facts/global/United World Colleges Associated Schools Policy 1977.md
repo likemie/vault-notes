@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # United World Colleges Associated Schools Policy 1977
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **形成中间层** 关联政策允许价值相近但结构不同的既有学校进入稳定合作，又在形式上保留与正式成员的差别。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–124)]]
 > - **缓解学校孤立** 沃特福德通过大西洋学院获得课程、国际同伴和组织联系，并希望借此抵抗教师、校长和校董更替造成的使命中断。
 > - **扩展速度提高** 吸收既有学校不必重复购地和建设经典校园，可以更快形成全球节点。

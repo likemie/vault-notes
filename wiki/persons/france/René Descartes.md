@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # René Descartes
@@ -87,7 +87,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1596** 出生于法国图赖讷地区拉艾（La Haye en Touraine，今以[[René Descartes|笛卡尔]]命名），幼年体弱，就读于拉弗莱什耶稣会学院（Collège Henri-IV de La Flèche）
 > - **1618** 加入荷兰拿骚的莫里斯亲王的军队，任军官。同年结识荷兰科学家 Isaac Beeckman，激发其数学和物理学兴趣
 > - **1619** 在多瑙河畔乌尔姆的暖房中做了三个梦，据笛卡尔自述，梦使他确信应以数学方法统一全部科学，标志其哲学计划的诞生
@@ -124,7 +124,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** [[René Descartes|笛卡尔]]被视为近代哲学之父——他将[[Epistemology\|认识论]]（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的[[Ontology\|本体论]]优先。此后的[[Baruch Spinoza\|斯宾诺莎]]、莱布尼茨、洛克、[[George Berkeley\|贝克莱]]、休谟、[[Immanuel Kant\|康德]]全都在回应他设定或遗留的问题（待核）
 > - **数学与科学路径** 笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物理学的哲学前提（待核）
 > - **教育路径** 笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的[[Critical Thinking\|批判性思维]]训练
@@ -134,7 +134,7 @@ updated: 2026-10-17
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想前驱** [[Socrates\|苏格拉底]]、[[Plato\|柏拉图]]——[[René Descartes|笛卡尔]]的先天观念论被视为苏格拉底—柏拉图传统在近代的顶峰式复兴
 > - **继承者/回应者** [[George Berkeley\|贝克莱]]、[[Immanuel Kant\|康德]]——全都在回应笛卡尔设定或遗留的[[Epistemology\|认识论]]问题
 > - **批评者** 纽拉特——1913 年以迷路者比喻和海上修船隐喻直接挑战笛卡尔的基础主义，提出反基础主义的替代方案

@@ -80,7 +80,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Empiricism
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **感官经验第一性（Primacy of Sensory Experience）** 坚信一切关于外部世界的可靠判断必须立足于可直接观察或间接测量的感觉经验材料。
 > - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，而是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
@@ -228,7 +228,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **17 世纪 — 培根经验归纳法革命** [[Francis Bacon|弗朗西斯·培根]]（[[Francis Bacon]]）发表《新工具》，猛烈抨击经院三段论，确立以实验和经验归纳为核心的近代科学奠基。
 > - **17–18 世纪 — 英国古典经验主义鼎盛** 洛克（[[John Locke]]）、[[George Berkeley|贝克莱]]与休谟（David Hume）系统构建白板说与经验论体系，休谟揭示归纳问题的哲学危机。
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
@@ -276,7 +276,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学四大基本假定之经验假定、Mouly [[Scientific Method|经验科学]]五步法与 Barratt 经验[[Evidence Standards|证据标准]]，并在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]与经验效度标准的[[Operationalization|操作化]]规范。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统批判战后实证派诺亚与埃克斯坦、萨查洛普洛斯等人构建的方法论经验主义与唯方法论主义，捍卫比较教育作为德语[[Geisteswissenschaften|精神科学]]的人文阐释传统。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 122–123)]] — 将经验主义延伸至现代软件与系统工程领域，提出技术构建是一门依赖实战观测、去先验教条并遵循即兴试错的经验观察性科学。

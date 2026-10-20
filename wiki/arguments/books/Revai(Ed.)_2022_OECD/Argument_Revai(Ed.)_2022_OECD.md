@@ -105,7 +105,7 @@ sources:
 part_of: null
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Argument_Revai(Ed.)_2022_OECD
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 跨章主题线索
 
-> [!cross-chapter] 跨章主题线索
+> [!cross-chapter|notitle] 跨章主题线索
 > - **从线性传递向复杂系统论模型的[[Paradigm\|范式]]转型**
 >   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 02（Torres）；Ch. 06（Boaz et al.）；Ch. 11（Révai）。
 >   - **阅读价值** 呈现教育学界与政策界如何克服将“知识视作现成商品”的传递谬误，转向将各主体视为深嵌于制度情境、权力网络与文化[[Habitus|惯习]]中的系统协调者。
@@ -207,7 +207,7 @@ updated: 2026-10-20
 
 ## 章节处理路线
 
-> [!chapter-roadmap] 章节处理路线
+> [!chapter-roadmap|notitle] 章节处理路线
 > - **已处理章节**
 >   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情[[Discourse|话语]]与[[Knowledge Mobilisation\|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
 >   - Ch. 02 [[Argument_Torres_2022_KMModels]]。[[José Manuel Torres]] 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model\|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem\|证据生态系统]]模型的建构路标。

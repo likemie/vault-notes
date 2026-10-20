@@ -46,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2019
 doi: ""
 citation_aliases:
@@ -55,26 +55,26 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 新西兰和澳大利亚的教育系统在过去二十年间如何通过证据本位方法（特别是 Hattie 的 [[Visible Learning]] 概念）改变教育政策和实践？这种变革的理论基础是什么？
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Dietrich Benner]] 的修正版教学三角（modified didactic triangle）— 区分传统模型（课程作为交换对象，教学=学习）与修正模型（课程作为目标，教学与学习是两种独立但协同的活动）
 > - [[Evidence-Based Education]] — 借鉴自医学的证据本位实践模型(Davies, 1999)
 > - [[Visible Learning]] — Hattie 的[[Effect Size\|效应量]]排名框架作为政策和实践改革的证据基础
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：[[Literature Review\|文献综述]]与政策分析
 > - 范围：新西兰和澳大利亚教育系统（1980s–2019）
 > - 数据来源：政府报告、学术文献、[[PISA]] 数据、教育政策文件
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 1. **前提／观察** 新西兰和澳大利亚自 1980 年代起停止忽视研究数据，开始将教育政策建立在教育研究结果之上
 > 2. **论证步骤**
 >    - 传统教育模型将"教学"等同于"学习"，课程是教师向学生传递的交换对象，评估仅用于分级
@@ -86,7 +86,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 新西兰和澳大利亚从传统教育模型转向证据本位模型，核心变化是对教学与学习关系的重新理解(p.122–123)
 > - [[PISA]] 2001 数据显示新西兰和澳大利亚处于"高质量、高公平"象限，但成绩差异较大（High Average and Large Variance），主要源于校内差异而非校际差异(p.123–124)
 > - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任(p.124)
@@ -100,7 +100,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > "在传统模型中，教学被理解为向所有学生交付适当的年级水平课程。教师的角色是交付相关课程；学生的工作是学习教师所教的内容；评估的角色是确定学生学到了多少并按此分级"(Masters, p.119)
 >
 > > "Hattie 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"(Bergeron, p.121)
@@ -112,7 +112,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文为[[Literature Review\|文献综述]]而非实证研究，未提供原始数据
 > - 作者承认 VL 面临方法论和理论批评，但仍以支持性立场论述其政策价值
 > - 作者为波兰教育者，以波兰教育改革为隐含参照框架，可能存在选择偏倚

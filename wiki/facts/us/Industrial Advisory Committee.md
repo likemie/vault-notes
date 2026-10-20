@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Industrial Advisory Committee
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下工业咨询委员会（IAC）如何提出中立非营利运营商（[[Natcast]]）治理架构，并系统规划共享中试线与设计网关。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统展现 IAC 等产业咨询智囊在跨部门中试漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、劳动力微证书标准与硬件根信任技术路线中的重要输入。
 

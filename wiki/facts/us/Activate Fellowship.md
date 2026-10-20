@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Activate Fellowship
@@ -171,6 +171,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评估劳伦斯伯克利国家实验室 Cyclotron Road 及 Activate 创业科学家模式在打破产研晋升壁垒、赋能青年学者跨越[[Valley of Death|死亡之谷]]中的制度成效。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将能源部国家实验室创业机制（Activate / Cyclotron Road）作为全美微电子研究战略中促进靶向创业与硬科技转化的核心模式（Goal 4.5）。

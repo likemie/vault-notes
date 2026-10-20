@@ -62,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-17
+updated: 2026-10-21
 year: 2019
 doi: ""
 citation_aliases:
@@ -71,7 +71,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 为什么以 [[Randomised Controlled Trials\|RCT]] 和[[Systematic Review\|系统综述]]为核心的[[Evidence-Based Education\|证据本位教育]]（EBE）在教育中占据主导地位，尽管其[[Epistemology\|认识论]]局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
 > > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”
@@ -79,7 +79,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - **Tullock 的[[Tullock's Bureaucracy Theory\|官僚制理论]](Tullock, 2005)** — [[Bureaucracy|官僚制]]是信息处理金字塔，主权者面临的核心难题是[[Knowledge Questions\|知识问题]]和委托困境，而非简单的自利/机会主义
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials\|RCT]] 提供不偏估计但不解决[[External Validity\|外部效度]]问题；[[Meta-analysis\|元分析]]不解决归纳推理的谬误
@@ -88,7 +88,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 理论综合 + 制度分析
 > - **论证结构**
 >   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]的[[Epistemology\|认识论]]限度
@@ -100,7 +100,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > ### 1. [[Epistemology\|认识论]]限度（承接 Cartwright 传统）
 >
 > [[Randomised Controlled Trials\|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis\|元分析]]试图通过多场景合成解决[[External Validity\|外部效度]]，但：
@@ -154,7 +154,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. **[[Evidence-Based Education\|EBE]] 的持续影响力不能用[[Epistemology\|认识论]]优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
 >
 > 2. **[[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]作为"透明度技术"** 对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
@@ -167,7 +167,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “实验范式对政策制定者产生了不成比例的影响，因为它在指导中央集权官僚机构政策方面能发挥特殊作用。”
 > ("The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy.") (p. 14)
 >
@@ -182,7 +182,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > ### 行为主体的动机假设未充分展开
 >
 > **批评内容** Cowen 明确搁置了自利/机会主义问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，[[Knowledge Questions\|知识问题]]依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。

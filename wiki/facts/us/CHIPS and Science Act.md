@@ -104,7 +104,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # CHIPS and Science Act
@@ -318,7 +318,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 美国商务部与 NIST 发布的法定研发中枢顶层愿景与战略白皮书，系统解构 110 亿美元研发资金在[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）共享技术中心、30 亿美元先进封装计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）、20 亿美元国防部[[Microelectronics Commons|微电子共用体]]及云端设计网关的制度化布局与多元造血治理机制。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科学技术委员会微电子领导小组依据法案授权发布的《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，系统阐述四大战略支柱（前沿发现、联邦化中试设施、全谱系劳动力、转化生态）与全政府协同机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《芯片与科学法案》对[[Research Universities|研究型大学]]科技研发与理工人才培养的红利，并指出两阶段拨款脱节的制度性风险。

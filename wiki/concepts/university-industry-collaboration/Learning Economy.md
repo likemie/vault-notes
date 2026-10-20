@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Learning Economy
 
@@ -232,7 +232,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析战后美国半导体与计算机产业，实证确立了累计生产经验翻番带动器件成本剧降 20%–30% 的微观学习经济机制，揭示了公共采购在释放学习效应中的催化功能。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 构建[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为超越传统线性研发模型的宏观创新分析[[Paradigm|范式]]，系统阐释了 DUI/STI 模式与三类互补知识池的吸收机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Clifford Geertz
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1926–2006** 美国人类学家，诠释／符号人类学传统的代表人物，以《文化的解释》（*The Interpretation of Cultures*, 1973）等著作影响广泛。
 > - **1973** 在《文化的解释》中系统提出[[Rich and Thick Description\|厚描述]]，并在 "Thick Description: Toward an Interpretive Theory of Culture" 一章中阐述[[Ethnography\|民族志]]写作的解释性质。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
@@ -86,7 +86,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** [[Rich and Thick Description\|厚描述]]从诠释人类学进入教育研究与质性方法论，成为自然主义[[Paradigm\|范式]]核心公理之一，也是支撑读者做[[Naturalistic Generalization\|自然主义概括]]的写作标准。
 > - **方法路径** 文化作为文本的视角支持以诠释性、[[Reflexivity\|反身性]]的方式分析访谈、观察与[[Field Notes\|田野笔记]]；[[Ethnography\|民族志]]描写的四个特征（诠释性的、诠释社会[[Discourse|话语]]之流的、把所说从转瞬即逝中救出并固定下来、显微镜式的）成为质性描述的[[Analytic Framework\|分析框架]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 

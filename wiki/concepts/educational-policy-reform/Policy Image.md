@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Policy Image
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **经验事实与量化指标支撑** 具有震撼力且易于传播的统计反差数据（如各州统考通过率与 [[National Assessment of Educational Progress|NAEP]] 成绩的悬殊断层），充当重塑形象的事实骨架。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 > - **两党普适性核心价值绑定** 将议题同国家经济安全、全球科技霸权、公平正义及劳动力技能优势等无争议的核心社会价值观深度缝合。
 > - **生动的象征符号与隐喻修辞** 提炼直击人心的符号化定性（如美国课程“宽一英里、深一英寸”以及各州为了达标“竞相向下沉沦”），制造全社会的危机共识。
@@ -126,7 +126,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯创立概念** 在《美国政治中的议程与不稳定性》中确立政策形象与制度场所并行的双轨动力学，分析烟草、核能与杀虫剂政策变迁。
 > - **2000年代 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）深化** 学界将政策形象编码技术应用于欧洲多国议会与媒体报道的大规模文本挖掘，量化证实形象的情感极性翻转是导致法案间断突变的先导指标。
 > - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Tao Xingzhi
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1891** 出生于安徽歙县。
 > - **1914–1917** 留美学习，先后就读于伊利诺伊大学与哥伦比亚大学[[Normal School\|师范学院]]，受教于[[John Dewey\|杜威]]。
 > - **1919** 参与《新教育》编辑工作及[[John Dewey\|杜威]]访华接待，早期曾主张学校为“小共和国”。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了中国“生活教育”理论体系与[[Scientific Attitude\|科学态度]]方法论闭环。
 > - **实践路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
 > - **1980年代[[Discourse|话语]]重构** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；[[Hu Shi]]、[[Jiang Menglin]] — 哥大校友网络与[[New Education Movement\|新教育运动]]同仁。
 > - **继承者／研究者** 陈汉才（1981） — 1980年代陶行知评价重构者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.85]]）
 > - **机构／运动** [[New Education Movement]] — 核心领导者；《新教育评论》 — 创办人；晓庄试验乡村师范 — 创办人。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Effective Sample Size
@@ -199,6 +199,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详尽记录了面对学界对 141 项英美教育 [[Randomised Controlled Trials\|RCT]] 效应微弱且[[Confidence Interval\|置信区间]]过宽（0.30 SD）的批评，[[Education Endowment Foundation\|EEF]] 如何通过系统化制度动员将 2014 年后的试验有效[[Sample Size Determination\|样本量]]翻番，使大规模试验逐步演变为能够高精度识别真实微弱效应的决策支持工具。
 

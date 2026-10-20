@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Historical Institutionalism
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代国家政治体制、经济政策、福利构型与法律规则的长时段形成、维系及其跨国多样性演化，聚焦宏观与中观制度结构如何塑造政治权能与资源分配格局。
 > - **理论问题** 批判[[Behaviorism|行为主义]]政治学将政治还原为个人微观心理与表露偏好，反思[[Pluralism|多元主义]]与机械结构主义将国家制度视为社会阶级利益的被动反射镜，探究正式组织与制度结构本身的独立自主性与因果塑造力。
 > - **理论类型** 中观与宏观比较历史解释[[Paradigm|范式]]与跨学科分析纲领。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **[[Historical Institutionalism\|历史制度主义]]** | 核心[[Paradigm\|范式]] | 统摄时间性、权力分配属性与组织中介维度的总体历史政治分析学派。 |
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 拥有较强成文制度传统与长历史周期的现代国家体制、公共政策、经济规制与组织结构演进。
 > - **成立条件** 需要具备相对连续的历史档案材料；制度必须具备一定的正式组织形态与成文规约基础。
 > - **解释不足** 对完全缺乏正式规则的非正式部族习俗解释力较弱；在面对毁灭性外来军事征服或极端物理灾难时，中观博弈模型可能暂时被宏观物理破坏所中断。
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向奠基之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与微观博弈矩阵。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。

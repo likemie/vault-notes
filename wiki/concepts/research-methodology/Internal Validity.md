@@ -79,7 +79,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Internal Validity
 
@@ -271,7 +271,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 经典著作《教育研究方法》第 10 章系统奠定内部效度体系，全面梳理量化内部威胁、质性可信性替代方案（Lincoln & Guba 六策略）、勒孔特真实性维度与哈默斯利三层次。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 经典研究设计著作第 8 章与第 9 章，系统将[[Threats to Internal Validity\|内部效度威胁]]划分为受试者、处理与程序三维，并阐明[[Qualitative Research\|质性研究]]中建立可信性的研究者反思规程。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将内部效度重新定位于“适切研究证据”的严谨性维度，批判单一黄金标准等级制，确立适切证据与深思熟虑参与的双核互构模型。

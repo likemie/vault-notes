@@ -78,7 +78,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Karl Popper
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1902** 出生于奥地利维也纳；早年在维也纳大学攻读数学、物理学、心理学与哲学，1928 年获哲学博士学位。
 > - **1934** 出版德文科学哲学里程碑巨著《科学发现的逻辑》（*Logik der Forschung*），针锋相对地批判维也纳学派逻辑[[Positivism|实证主义]]的归纳原则与经验证实标准，首创[[Falsification|可证伪性]]划界理论。
 > - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与马克思的历史[[Determinism|决定论]]发起毁灭性批判。
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Epistemology|认识论]]路径** 摧毁了逻辑[[Empiricism|经验主义]]的实证教条，确立了以猜想、反驳与[[Falsification|证伪]]为核心的[[Postpositivism|后实证主义]]科学哲学，深刻启发了拉卡托斯的科学研究纲领方法论与[[Reflexivity|反思性]]社会科学。
 > - **社会政策路径** 奠定了开放社会与渐进[[Educational Meliorism|改良主义]]的哲学框架，其零星社会工程理念成为现代公共政策实验与事前评估的核心[[Paradigm|范式]]。
 > - **比较教育学转化** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）将波普尔的[[Critical Dualism|批判二元论]]与假说-演绎试错法全盘移植入比较教育学，创立了著名的[[Problem Approach|问题法]]：将教育政策表述为可证伪的权变假说，通过情境逻辑调查初始条件，以概率性预测作为科学划界标准，从而在战后英美[[Scientific Paradigm|科学范式]]大论战中开创了最具哲学深度的问题学派（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 62–63]]）。
@@ -170,7 +170,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **科学哲学论辩对手** [[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）— 就“科学革命与[[Falsification|证伪]]批判 vs 常规[[Scientific Paradigm|科学范式]]与解谜共同体”展开 20 世纪下半叶最重要的科学哲学大论战。
 > - **学生与学派继承者** 伊姆雷·拉卡托斯（Imre Lakatos）、保罗·费耶阿本德（Paul Feyerabend）— 继承并激进化其反归纳与证伪思想。
 > - **比较教育学核心转化者** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）— 深受其批判理性主义与[[Critical Dualism|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach|问题法]]。
@@ -236,7 +236,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录[[John Hattie|哈蒂]]自述波普尔求学渊源，将持续扩充[[Meta-analysis|元分析]]库至 1400 项解释为主动寻找反例的波普尔式科学试错，并将[[Class Size|班级规模]]缩减确证为决定性因素设立为推翻可见学习模型的关键[[Falsification|证伪]]判据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统考证波普尔[[Falsification|证伪主义]]、推测性知识与理论负荷概念对教育研究方法论[[Postpositivism|后实证主义]]转型的奠基贡献。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析波普尔[[Critical Dualism|批判二元论]]与反归纳主义[[Epistemology|认识论]]如何被霍姆斯直接吸纳，成为战后[[Scientific Paradigm|比较教育科学范式]]中对抗普遍必然因果律的理论基石。

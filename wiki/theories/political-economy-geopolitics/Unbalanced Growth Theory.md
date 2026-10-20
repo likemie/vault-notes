@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 title: Unbalanced Growth Theory
 aliases:
   - 非均衡增长理论
@@ -47,7 +47,7 @@ aliases:
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 阐释后发国家或面临转型困境的经济体在资本、技术与行政决策能力严重受限的约束下，如何通过战略性重点突破启动持续的经济转型与技术积累。
 > - **理论问题** 驳斥早期发展经济学假设国家拥有充沛储蓄与全能规划能力以推行所有部门齐头并进的“均衡增长”（Balanced Growth）幻想，揭示资源受限环境下通过“制造失衡”诱发经济活力的真实动力学。
 > - **理论类型** 经济发展动力学与战略性产业政策理论。

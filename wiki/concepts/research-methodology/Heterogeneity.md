@@ -105,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Heterogeneity
@@ -293,7 +293,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1904 — 起源阶段** 皮尔逊（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 33)]]
 > - **1970s–1980s — [[Meta-analysis|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为 21 世纪统计炼金术。
@@ -346,7 +346,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。
 > - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式[[Category Mistake|范畴错误]]与干预时长剂量异质性扭曲。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出学校像监狱 100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。

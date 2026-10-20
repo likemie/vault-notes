@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Economic Fundamentalism
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（经济基要主义） | [[Human Capital Theory\|人力资本理论]] | 新自由主义[[Governmentality\|治理术]] |
 > |---|---|---|---|
 > | 理论性质 | 规范性意识形态与批判概念 | 经济学生产与投资实证理论 | 宏观制度规制与主体重塑[[Paradigm\|范式]] |
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **经济效率作为元价值棱镜** 将市场效率确立为评判政策合法性的首要准则，迫使所有社会民主主义理想均须通过经济功利性论证方能获取合法性。（Soros, 1998; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 449]]）
 > - **社会伦理词汇的技术化转译** 表面保留公平、多元与社会凝聚等进步[[Discourse|话语]]，但在内涵上剥离其对抗资本剥削的批判性，转译为“技能准入”、“人力资源配置”等技术参数。
 > - **教育公平的形式化准入窄化** 将复杂的教育公平简化为入学机会与测验参与门槛的形式平等，规避对深层[[Cultural Capital|文化资本]]再生产与阶层分化的政治审议。（Berliner, 2007）
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1998 — 批判性经济学提出** 乔治·索罗斯在《全球资本主义危机》（*The Crisis of Global Capitalism*）中首次系统阐发“市场基要主义/经济基要主义”，警示金融市场的无约束扩张将毁灭社会自身的道德机理。
 > - **2000s — 进入比较教育与批判政策研究** 里兹维、林加德等学者将该概念引入跨国教育政策分析，深度剖析[[OECD|经合组织]]如何将平等、性别与社会资本等议题置于该基要主义框架下进行工具化收编。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 > - **2010s 至今 — 全球教育治理与社会正义反思** 该概念广泛运用于批判[[World Bank|世界银行]]与经合组织的量化发展[[Paradigm|范式]]，成为论证恢复教育公共物品属性与多元民主使命的关键理论武器。
@@ -206,5 +206,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化流失。

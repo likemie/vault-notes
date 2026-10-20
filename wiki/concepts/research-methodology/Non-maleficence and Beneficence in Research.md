@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Non-maleficence and Beneficence in Research
@@ -104,6 +104,6 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 应用案例索引
+> [!case|notitle] 应用案例索引
 > - Scheper-Hughes (1979) 的爱尔兰村庄研究——展示了研究对参与者和研究者的负面效果
 > - Whyte (1955)《Street Corner Society》——研究使研究者成名却未改善参与者生活，成为行善失败的标准案例

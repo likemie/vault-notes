@@ -26,7 +26,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Achievement and Aptitude Tests
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1985 — Gronlund 提出学校经验区分** Gronlund 以与学校经验的关联程度作为区分成就与能力倾向测验的参照点
 > - **1993 — Hanna 细化内容与目的差异** Hanna 指出二者在技能组合方式上的差异：成就测验测量独立的单一技能，能力倾向测验测量组合技能
 > - **1993 — Gardner 的多元智能挑战传统二分** Gardner（1993）提出多元智能理论，质疑将"智力"视为单一维度[[Construct\|构念]]的传统，也间接模糊了成就与能力倾向的界限——因为"更一般化的能力"本身就可能是多维度的
@@ -97,5 +97,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.4 节在讨论商业出版测验时区分成就测验和能力倾向测验，引用 Cunningham（1998）、Gronlund（1985）和 Hanna（1993）

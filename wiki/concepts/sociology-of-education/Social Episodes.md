@@ -21,7 +21,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Social Episodes
 
@@ -78,5 +78,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本[[Unit of Analysis\|分析单位]]，系统阐述[[Account Gathering\|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。

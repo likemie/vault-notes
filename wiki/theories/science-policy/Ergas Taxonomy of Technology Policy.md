@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-21
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类
@@ -64,7 +64,7 @@ aliases:
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 阐明不同工业化国家在科技研发投资、组织构架、产业政策工具与技能培训体系上的长期制度性差异及其对国家技术[[Competitiveness|竞争力]]的影响。
 > - **理论问题** 克服以往将国家科技政策视为同质化研发投入工具的简化倾向，揭示不同国家[[Systems of Innovation|创新系统]]在“追求激进技术突破”与“促进广泛技术扩散”之间的结构性分工。
 > - **理论类型** 比较制度分析与国家科技政策[[Typological Analysis|类型学理论]]。

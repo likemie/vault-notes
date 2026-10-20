@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ignatz Bubis
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于德国西里西亚的布雷斯劳（今波兰弗罗茨瓦夫）。
 > - **1939–1945** 在纳粹大屠杀中失去多位至亲，作为幸存者经历琴斯托霍瓦隔都与强迫劳动营。
 > - **1950年代** 定居法兰克福，投身商业与城市公共生活。
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **德国宪政与纪念文化路径** 确立了战后德国对大屠杀罪责必须保持不可抹杀之国家公共记忆的宪政伦理原则。
 > - **少数族裔与公民权利保障** 强化了德国犹太人社群及其他少数群体在联邦共和国作为平等主体的政治发声权与尊严保障。
 > - **地缘战略与国家认同反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中分析布比斯与瓦尔泽的辩论，指出该论战揭示了战后欧洲在彻底否定历史罪责与重建有效国家认同与防务威慑意志之间的深刻张力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **论辩对手** [[Martin Walser|马丁·瓦尔泽]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性公开论战。
 > - **当代观察与引述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为德国国家认同复杂性的核心案例加以剖析。
 > - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。

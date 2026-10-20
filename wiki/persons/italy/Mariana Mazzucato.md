@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Mariana Mazzucato
@@ -89,7 +89,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1968** 出生于意大利罗马，后随家庭移居美国。
 > - **1999** 获得新社会研究学院（The New School for Social Research）经济学博士学位。
 > - **2013** 出版代表作《企业型国家》（*The Entrepreneurial State*），系统论证了国家在苹果智能手机、生物制药、互联网等关键颠覆性创新中承担早期高风险投资的引领者角色。
@@ -131,7 +131,7 @@ updated: 2026-10-17
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 拓展了[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|National Systems of Innovation]]）理论，推动创新研究从“[[Market Failure|市场失灵]]修补”转向“[[Market Shaping and Creating|市场共创]]与[[Public Value|公共价值创造]]”，提出了完备的 ROAR [[Analytic Framework|分析框架]]。
 > - **政策与立法路径** 直接塑造了[[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）框架计划的架构，为美欧半导体法案（[[CHIPS and Science Act|CHIPS Act]]）与绿色转型产业政策提供了附加条件契约[[Paradigm|范式]]。
 > - **技术政治经济学批判** 其关于公共研发奠基作用的论证，被 [[Technological Republic|技术共和国]] 框架用作打破科技巨头“自发创新神话”、批判硅谷[[Historical Amnesia|历史健忘症]]与重建政产协同契约的基石理论。

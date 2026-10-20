@@ -33,7 +33,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Academic Self-Concept
@@ -74,5 +74,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。

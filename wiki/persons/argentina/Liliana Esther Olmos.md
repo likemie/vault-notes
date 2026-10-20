@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Liliana Esther Olmos
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1980s–1990s** 在阿根廷及拉美从事成人教育、识字运动与教育社会学研究，亲历拉美威权军政府向代议民主制转型及债务危机背景下的结构调整。
 > - **2000s–至今** 任职于加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院，与托雷斯等学者密切合作，主攻全球化政治经济学、国家理论与第三世界教育政策批判。
 
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了比较教育社会学对国家机器自主性与依附性边界的辩证认识，将[[Conditioned State Theory|受限国家理论]]确立为剖析第三世界教育不平等的重要典范。
 > - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（内生与[[Exogenous Privatisation|外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **长期合作者** [[Carlos Alberto Torres]] — 共同撰写多篇关于国家理论、全球化与拉美教育政治经济学的奠基性文献。
 > - **理论传统** [[Paulo Freire]]、Antonio Gramsci、Karl Marx — 汲取[[Critical Pedagogy|批判教育学]]与[[Praxis|实践哲学]]思想养分。
 > - **[[Analytic Framework|分析框架]]** [[Conditioned State Theory]]、[[Compensatory Legitimation]]、[[Financial-Intellectual Complex]]。

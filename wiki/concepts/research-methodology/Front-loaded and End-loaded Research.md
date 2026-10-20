@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Front-loaded and End-loaded Research
 
@@ -97,5 +97,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 系统阐述前载型/后载型的定义、特征对比和典型研究类型，并提供了 Turnbull (1972) 和 Willis (1977) 两个后载型经典案例

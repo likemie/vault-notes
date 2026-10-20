@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Democratisation of Expertise
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 教育领域（专业知识民主化） | 医疗卫生领域（排他性专业主义） | 自然科学与硬核工程（数理技术垄断） |
 > |---|---|---|---|
 > | **专业准入壁垒** | 壁垒极低，几乎所有公众都具备长期受教育生活经验 | 极高的法定门槛、医师执业执照与伦理委员会审查 | 极其艰深的数理推导、实验室精密仪器与专业代码 |
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **排他性技术壁垒的缺失（Absence of [[Technologies of Exclusion]]）** 与医学、法学或工程学不同，教育学并未建立起完全隔绝外行理解的深奥技术术语或法定的排他性资格认定体系，使得外行与内行的[[Discourse|话语]]鸿沟极其狭窄。(Maasen & Weingart, 2005)
 > - **人人自命为专家的泛[[Empiricism\|经验主义]]（Universal Lay-Expertise Pretension）** 每个公民在其成长过程中均有超过十余年的学校生活经历，这种亲身体验导致公众与政治家极易将个人或家庭的情感经验外推为普适性的教育真理。
 > - **证据的高度透明与公共争议性（Pervasive Contestation of Traceable Evidence）** 教育研究结论直接关系到千家万户的社会流动与阶层再生产，由于其证据往往通俗可查，导致任何教育政策研究都会不可避免地被各利益集团置于舆论放大镜下反复争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2005 — 科学社会学立论** 莎宾·玛森与彼得·魏因加特出版《专业知识的民主化？探讨现代社会治理中科学建议的新形态》（*Democratization of Expertise? Exploring Novel Forms of Scientific Advice in Governing Modern Societies*），奠定该概念的社会学基础。
 > - **2017 — 国际组织专家知识政治学** 克里斯蒂娜·博斯韦尔（Christina Boswell）深入剖析国际官僚体系中专家知识的政治符号功能，揭示出内部实用专家与外部独立专家难以兼得的制度两难。
 > - **2024 — 教育[[Policy Brokerage\|政策中介]]生态根源确立** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将专业知识民主化直接引入比较教育政策分析，将其定位为引发教育领域高烈度公共争议性（Contestation）的底层成因。
@@ -185,5 +185,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 阐释专业知识民主化如何使得教育[[Policy Brokerage\|政策中介]]机构承受巨大的公信力拷问，从而倒逼出以 [[Randomised Controlled Trials\|RCT]] 为金标准的证据层级体系与量化规制。

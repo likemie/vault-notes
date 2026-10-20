@@ -57,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-21
 year: 2006
 doi: ""
 citation_aliases:
@@ -66,7 +66,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 教育转移研究中有一个反复出现的困境：几乎所有研究者都同意"情境很重要"（context matters），但很少有人真正把"情境"这个词拆开来看：它到底包含什么要素？这些要素如何相互作用、如何推动或阻碍[[Cross-National Attraction\|跨国吸引力]]？为什么有些外国教育经验引发了国内的狂热关注，而另一些则被完全无视？
 >
 > 这个困境的症结在于，现有[[Analytic Framework\|分析框架]]几乎都以"被借用的政策"为焦点。当研究者盯着政策内容看时，自然会找到各种共同点和差异，但这种视角遮蔽了情境的作用。好比只盯着移植过来的树，却不问它为什么在这片土壤里活了下来、在另一片土壤里死了(pp. 223–224)。
@@ -85,7 +85,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - **[[Policy Borrowing]]**(Phillips & Ochs, 2003, 2004a)——四阶段循环模型（[[Cross-National Attraction\|跨国吸引力]] → 决策 → 实施 → 内化/本土化）是整篇论证的出发点。论证聚焦于第一阶段"跨国吸引力"，因为该阶段启动整个借用循环，情境因素在这一阶段的作用最为关键(p. 225)。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)
@@ -101,7 +101,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **类型** 理论建构（概念性/分析性论文）。方法论立场属于[[Interpretivism|解释主义]]（interpretive），追求理解和分析情境复杂性的概念工具，而非因果定律。
 > - **经验基础** 对中国和美国对日本教育的[[Cross-National Attraction\|跨国吸引力]]的历史比较研究(MSc dissertation, University of Oxford, 2006)。该历史研究为[[Concept Mapping\|概念地图]]的构成要素提供了经验支撑。
 > - **建构策略** 在 Phillips & Ochs 现有模型的基础上进行重组、补充和深化。具体操作包括：(1) 将 Phillips & Ochs 的单层"推动力"拆分为结构层和人的层面的双层结构；(2) 新增"阻力侧"——结构阻力与抵制行动者；(3) 引入 Ochs (2005) 的四种吸引力"火花"作为动机分类；(4) 以美国 1980 年代对日本教育的吸引力为示范性案例，说明地图的使用方式。
@@ -334,7 +334,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - **情境是双层结构。** 结构层面（"更广阔世界的变化"）和人的层面（教育改革辩论中的"语义建构"）是两个相互独立的领域，通过"[[Externalization\|外化]]"过程连接。结构变化不会自动产生教育改革；改革行动者必须从结构推力中选择性地援引证据来包装改革方案。这一双层拆解是整个[[Concept Mapping\|概念地图]]的核心理论贡献(p. 230)。
 > - **阻力侧同样存在"外化"。** 抵制改革的一方同样在使用外化机制，他们的外化方向指向"传统""历史""文化"，而非国际趋势。这些概念在改革辩论中被塑造成武器，Holmes (1981) 称之为"抵制的力量"，论证将其重新框定为"停滞的修辞"。需要研究者判断的是：这些"传统"在多大程度上反映了真实的结构约束，在多大程度上只是抵制变革的[[Discourse|话语]]策略(pp. 231–232)。
 > - **吸引力转化为借用的机制之一是"不可能联盟"。** 当改革派和保守派出于完全不同的理由都同意某一外国范例是"好模型"时，吸引力最有可能转化为大规模借用。晚清中国借用日本教育是典型案例：改革派看到现代化，保守派看到儒家延续，双方在"日本教育是中国的好模型"上达成共识(pp. 233–234)。参见 [[Late Qing Borrowing of Japanese Education]]。
@@ -346,7 +346,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “一个问题在于，大多数分析转移的框架都以‘借用’的政策为焦点。这导致了对转移的短视观点，并掩盖了情境的作用。”
 > ("One problem is that most frameworks for analyzing transfer take the 'borrowed' policy as the focal point. This contributes to a myopic view of transfer and conceals the role of context.")(p. 224)
 >
@@ -366,7 +366,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning] 自述局限
+> [!warning|notitle] 自述局限
 > - **地图是"临时性的"。** 论证明确承认地图需要在不同情境中被其他研究者检验其实用性，并会随着使用而演变和改进。Phillips 对自己模型的描述同样适用于此："这些工具的目的是促进分析、解释和理解的过程……展示它们的主要目的是鼓励反应，以推动它们的进一步发展"(Phillips, 2004, p. 65,引自 p. 238)。
 > - **任何模型都面临"框住分析"的风险。** 模型在提供分析结构的同时，也可能将分析"困在看似有限的可能框架内"(Phillips & Ochs, 2004a, p. 781,引自 p. 228)。论证承认这种在"具体性与实用性"和"普遍性与适应性"之间的张力是任何模型都无法完全解决的。
 > - **"吸引力仅为辩论中的战术动作"这一观念可能引发异议。** 论证预见到，大多数行动者——除民选政治家外——可能并不以如此策略性的方式思考自己的行为。但论证的回应是：无论行动者是否有意识地自我定位，"以这种方式概念化吸引力仍有助于分析"(p. 238)。

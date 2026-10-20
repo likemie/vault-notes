@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Discovery-Invention Cycle
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **概念定性** 发现-发明循环（Discovery-Invention Cycle）是由[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti）、托卢·奥杜莫苏（Tolu Odumosu）与李·文塞尔（Lee Vinsel）于 2013 年提出的创新过程与科研治理理论，旨在彻底替代二战后主导科技政策的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。
 > - **解释对象** 科学突破与技术发明之间的非线性演进关系、跨越数十年的因果循环网络，以及国家科研资助体系与科研机构的组织治理机制。
 > - **理论问题** 破解战后源自[[Vannevar Bush|万尼瓦尔·布什]]报告并深植于西方思想史的“基础/应用研究二分法”和“线性创新模型”；扭转以研究者当下立项动机裁剪资助边界而导致的政策短视与创新瓶颈。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 物理科学、微电子、先进制造、材料工程等高度依赖大型精密仪器和极端工艺条件的硬科技领域；国家实验室与[[National Innovation System|国家创新体系]]的宏观顶层设计。
 > - **成立条件** 需要具备跨越数十年的完整技术史料与知识演进图谱；需要存在科学界与工程技术界紧密协作的组织土壤。
 > - **解释不足** 对市场驱动型、商业模式主导以及基于社会文化与组织创新的轻资产领域解释力较弱；尚未对科研人员在微观团队中的激励机制提供细致刻画。
@@ -170,5 +170,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 首次系统提出发现-发明循环理论，以 1956–2009 年信息通信领域的六届诺贝尔物理学奖谱系为实证支撑，全面批判[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]。

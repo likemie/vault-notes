@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemological Coherence
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 全流程[[Epistemology\|认识论]]连贯性（Epistemological Coherence） | 方法论效度（Methodological Validity） | 政策适宜性（Political Appropriateness） |
 > |---|---|---|---|
 > | **核心关切** | 知识从生产到应用全链条逻辑的自洽与保真 | 实验或调查设计在技术与统计层面的无偏性 | 政策文本在政治网络中的可接受度与落地阻力 |
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **逻辑链条的完整不间断性（Unbroken Chain of Logic）** 严密的因果推导与[[Epistemology\|认识论]]前提必须无缝贯通于问题定义、工具测量、实证分析、政策概括与一线操作五大阶段。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
 > - **真知与意见的严格划界（Demarcation of Episteme from [[Doxa]]）** 坚持区分经过严谨同行评议、明确情境边界的科学真知（$\text{episteme}$）与在官僚体系和网络媒介中口口相传的流行意见或常识教条（doxa）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 > - **情境边界与[[Reflexivity\|反思性]]保真（Contextual Preservation）** 坚决拒绝将特定样本情境下的局部有效性粗暴抽象为普适法则，强调政策转译必须完整保留原始研究的边界条件与反思性警示。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 94–95)]]
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000s — [[Critical Realism\|批判实在论]]与三层[[Ontology\|本体论]]** Bhaskar 与 Sayer 提出实在论科学观，强调因果机制必须与经验现象和情境条件保持内在逻辑统一。
 > - **2010s — 循证外推困境的识别** Cartwright 提出证据外推三阶段模型，Wiliam 论证教育知识的情境依赖性，揭示跨情境迁移的[[Epistemology\|认识论]]鸿沟。
 > - **2022 年 — 全流程认识论连贯性概念成型** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 正式将“全流程认识论连贯性”确立为抵御[[Policy-Based Evidence-Making\|基于政策的证据制造]]与政策伪科学的核心规范，系统建构了连接生产、转译与落地的批判框架。
@@ -182,6 +182,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 首次在教师教育政策与[[Evidence Era\|证据时代]]语境中系统阐发全流程[[Epistemology\|认识论]]连贯性概念，揭示其在[[Policy Network\|政策网络]]中被割裂的制度机制。
 > - [[Critique of Evidence-Based Education]] — 循证教育批判总条目，包含认识论缺陷、民主缺陷与[[Institutional Isomorphism\|制度同构]]批判。

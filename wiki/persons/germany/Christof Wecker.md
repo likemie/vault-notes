@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Christof Wecker
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1998–2004** 慕尼黑大学（LMU）、图宾根大学与牛津大学攻读教育学、哲学与修辞学，聚焦教学心理学与学习科学。
 > - **2004–2006** 图宾根知识媒体研究所（IWM）担任科研人员，参与计算机支持的协作学习（CSCL）与技术赋能认知工具研发。
 > - **2006–2015** 慕尼黑大学（LMU）[[Experiential Learning|经验教育]]学与教育心理学教席科研人员，2009 年获哲学博士学位（Dr. phil.），2013 年完成特许任教资格论文（Habilitation）。
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法路径** 严格推导了[[Meta-meta-analysis|二阶元分析]]与一级全池合并等价的代数充要条件，确立了涵盖测度统一、精度加权、方差推算、去重核验、[[Inverse-Variance Weighting|逆方差加权]]与假设检验的二级[[Meta-analysis|元分析]]六步标准审查框架。
 > - **理论路径** 提出解构教育有效性排行的四大不可[[Commensuration|通约]]本体范畴（制度框架条件、个体心理特征、综合教学方案、微观设计变体），深刻批判了量化循证政策中的激进通约主义与[[Category Mistake|范畴错误]]。
 > - **制度路径** 率先倡导将实证数据存缴作为“适合列入学者出版物清单的学术成果”（Publikationslisten; Stanat, 2012）予以体制承认，从激励机制根源终结商业期刊引致的[[Publication Bias|发表偏倚]]与数据黑箱，为开放科学证据基础设施建设指明了方向。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** Freydis Vogel、Andreas Hetmanek — 慕尼黑工业大学（TUM）课题组合作者，共同撰写 2016 年 ZfE 重磅方法论长文。
 > - **批评与审计对象** [[John Hattie|约翰·哈蒂]]（John Hattie） — 对其[[Meta-meta-analysis|二阶元分析]]算法、[[Effect Size|效应量]]排行榜与 $d = 0.40$ 关节点开展了全方位的统计模型推导与反向案例重构。
 > - **方法论理论渊源** [[Gene Glass|吉恩·格拉斯]]（Gene Glass）、[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）、Larry Hedges、Michael Borenstein — 继承经典统计[[Meta-analysis|元分析]]与[[Inverse-Variance Weighting|逆方差加权]]公理化体系，用以衡量宏观证据合成的有效性边界。

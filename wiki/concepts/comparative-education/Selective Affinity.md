@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Selective Affinity
 
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 选择性亲和（Selective Affinity） | 政策移植（Policy Transplantation） | 文化抵抗（Cultural Resistance） |
 > |---|---|---|---|
 > | **核心机制** | 双向互惠的内在契合与相互借力 | 单向机械复制外部制度形态 | 对外来理念的排斥与本土抵制 |
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **结构与逻辑相似性** — 外来中介工具与本土既有信念在核心逻辑上存在相互印证的基底（如[[Lev Vygotsky\|维果茨基]]社会文化理论与[[Confucius\|孔子]]启发式对话）。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]
 > - **互惠强化与解构异己感** — 借由本土传统为外来理念赋予合法性，同时借由外来理念实现本土传统的现代复兴。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
 > - **情境选择性** — 亲和并非全盘接受，而是选择性地吸纳符合本土特定诉求（如攻克高阶考题与提升课堂效率）的构件。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–602)]]
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1809 年 — 歌德文学隐喻** — 在小说 *Die Wahlverwandtschaften* 中借用化学反应中元素间自发结合的现象描述人际吸引。
 > - **1905 年 — [[Max Weber\|马克斯·韦伯]]社会学经典化** — 在《新教伦理与资本主义精神》中引入选择性亲和，解释新教禁欲苦行伦理与资本主义理性获利精神之间的相互强化。
 > - **2020 年代 — 比较教育与跨国[[Policy Borrowing\|政策借用]]应用** — 被深入引入比较教育领域，解释全球教学法改革在东亚等不同文化语境下与本土思想资源的互惠共振与[[Recontextualization\|再脉络化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
@@ -117,5 +117,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示中国学校教师如何将西方 [[Learner-Centred Education\|LCE]]、[[Lev Vygotsky\|维果茨基]]社会文化理论与[[Confucius\|孔子]]启发式对话产生选择性亲和，实现高压应试下的扩展性改造。

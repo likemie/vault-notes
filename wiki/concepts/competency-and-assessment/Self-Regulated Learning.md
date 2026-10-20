@@ -59,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Self-Regulated Learning
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 自我调节学习（SRL） | [[Metacognition\|元认知]]（Metacognition） | 学业[[Self-Efficacy\|自我效能感]]（Academic Self-Efficacy） |
 > |------|-------------------|-----------------------------------------|----------------------------------------|
 > | **[[Construct\|构念]]范围** | 包含认知、元认知、动机与行为调控的综合系统 | 侧重于对认知活动本身的认知与监控 | 侧重于对自身完成特定学业任务能力的信心判断 |
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **前瞻规划阶段（Forethought & Planning）** 包含学习目标制定、任务分析、战略性提示词设计与先验知识激活，预先设定人机交互的认知边界，防范漫无目的索取现成答案。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **表现与意志控制阶段（Performance & Volitional Control）** 运用自我监控、事实核查与多源[[Triangulation\|三角互证]]，持续审查人工智能生成内容的逻辑与准确性，中和认知盲从。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7)]]
 > - **自我反思与图式重构阶段（Self-Reflection & Adaptation）** 评估[[Man-Computer Symbiosis|人机协同]]成果、归因分析并调整后续交互策略，将深度探究经验整合到长时记忆图式中。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980 年代 — 社会认知起源** Bandura 与 Zimmerman 奠定社会认知取向的自我调节学习理论，提出人、行为与环境三元交互[[Determinism\|决定论]]。
 > - **2000 年代 — 认知架构与信息加工模型** Winne & Hadwin 提出基于[[Metacognition\|元认知]]监控与控制的信息加工四阶段模型（COPES）。
 > - **2010 年代 — 计算机中介与超媒体环境** Azevedo 等人深入探讨[[Intelligent Tutoring Systems\|智能导师系统]]与超媒体探究中的实时自适应支架对自我调节的干预机制。
@@ -226,6 +226,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis\|元分析]]显示自我调节学习能力显著调节生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的效应：高自律学生 g = 0.863，低自律学生仅 g = 0.284。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。

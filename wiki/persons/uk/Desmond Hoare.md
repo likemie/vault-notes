@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Desmond Hoare
@@ -104,7 +104,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **教育愿景** [[Kurt Hahn]] — 提出行动、共同服务与跨国和解原则。
 > - **学术课程** 罗伯特·布莱克本、[[Alec Peterson]] — 设计三门英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）与辅助学院课程的组合。
 > - **共同领导** 娜奥米·霍尔 — 共同推动学院由男子学校转向男女同校。

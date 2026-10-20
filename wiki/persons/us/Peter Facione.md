@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peter Facione
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1944** 出生于美国。
 > - **1971** 获得密歇根州立大学哲学博士学位，早期聚焦于逻辑学、[[Epistemology\|认识论]]与决策伦理学。
 > - **1988–1990** 受美国哲学学会（APA）委托，担任[[Critical Thinking\|批判性思维]]共识项目首席研究员（Principal Investigator），主持全球 46 位专家联合攻关，发布里程碑式的《Delphi Report》（德尔菲报告）。
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 广泛采用 Facione 主持制定的德尔菲共识框架作为[[Meta-analysis\|元分析]]编码基底与测试有效性判据。
 > - [[APA Delphi Consensus on Critical Thinking]] — Facione 领衔编制的共识框架条目。
 > - [[Critical Thinking Disposition]] — Facione 深入阐发的情意倾向[[Construct\|构念]]。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Postmodernism
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代性[[Knowledge Production|知识生产]]的[[Legitimation Crisis|合法化危机]]、教育体制中的宏大[[Grand Theory|元叙事]]霸权、微观课堂中的[[Discourse|话语]]博弈、多重共存实在与边缘群体的异质声音。
 > - **理论问题** 彻底解构启蒙现代性对普遍理性、线形进步与客观科学定律的绝对崇拜，反抗[[Positivism|实证主义]]将复杂人类行动还原为机械因果法则的确定性幻觉。
 > - **理论类型** 文化与哲学批判思潮、去中心化的[[Epistemology|认识论]]框架、兼具解构与赋权功能的方法论取向。
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 解构官方教育政策的意识形态中立假象、分析学校微观政治与边缘亚文化、批判西方中心主义跨国[[Policy Borrowing|教育借用]]、揭示教育测量标准的权力涉入。
 > - **成立条件** 研究者需要摆脱对确定性因果定律的执念，具备开放包容多元矛盾视角的心智结构与敏锐的文本解构能力。
 > - **解释不足** 偏重解构与怀疑，缺乏建构系统性替代政策与良构制度秩序的操作性工具；过度关注碎片化可能导致宏观正义行动的统筹困难。
@@ -215,6 +215,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 解构詹姆逊后现代主义 11 项特征在教育探究中的[[Epistemology|认识论]]体现，及其与[[Post-structuralism|后结构主义]]的同盟；全书亦论及其对[[Reflexivity|反思性]][[Ethnography|民族志]]的启示。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学理论演进历程，揭示后现代主义作为 26 种核心[[Paradigm|范式]]之一，在打破战后西方现代化[[Grand Theory|宏大叙事]]垄断、推动多元理论共存中的关键地位。

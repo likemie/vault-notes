@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Martin Carnoy
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1938** 出生于美国。早年在加州理工学院获得理学学士学位，后转入芝加哥大学获得经济学硕士与博士学位。早期受托尔斯滕·舒尔茨（Theodore Schultz）等芝加哥学派[[Human Capital Theory|人力资本理论]]训练，但在拉美实地考察后彻底转向批判政治经济学。
 > - **1969–至今** 任教于斯坦福大学教育研究生院，历任副教授、正教授与 Vida Jacks 讲席教授，担任国际比较教育专业核心学术导师。
 > - **1974** 出版里程碑式专著《教育作为文化帝国主义》（*Education as Cultural Imperialism*），将新马克思主义[[Dependency Theory|依附理论]]引入教育学，开启了战后比较教育学的批判转向。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了教育政治经济学分析[[Paradigm|范式]]，将新马克思主义[[Dependency Theory|依附论]]、调节学派与国家相对自主性理论融汇于教育研究，直接启迪了托雷斯、[[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple）与[[Stephen Ball|斯蒂芬·鲍尔]]等几代[[Critical Pedagogy|批判教育学]]者。
 > - **方法路径** 倡导将宏观政治经济学制度溯源与严格的定量计量模型相结合，展示了[[Analytical Stance|批判立场]]如何与扎实数据并存，破除了批判教育学“只思辨不实证”的学科偏见。
 > - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** [[Joel Samoff]] — 斯坦福大学长期同事与合作者，合著《第三世界的教育与社会转型》（1990），共同剖析非洲与第三世界教育的依附政治经济学。
 > - **学术合作者** 亨利·莱文（Henry M. Levin） — 斯坦福大学经济学家与教育学家，合著《民主国家中的学校教育与工作》（1985），奠定资本积累与民主平权张力[[Analytic Framework|分析框架]]。
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。

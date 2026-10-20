@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-30
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Interpretivism
@@ -200,7 +200,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 14–26)]] — 系统梳理[[Interpretive Paradigm|反实证主义]]、解释主义与自然主义探究的[[Epistemology|认识论]]源流，阐发[[Wilhelm Dilthey|狄尔泰]]与韦伯关于理解（Verstehen）的核心主张，以及解释主义的三大质性理论支柱。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 131–132)]] — 考据比较教育学术史中早期以文献为基石的解释性专论传统，论证 1970 年代新兴解释主义知识共同体如何打破战后[[Structural Functionalism|结构功能主义]]与实证现代化理论的霸权垄断。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详尽介绍解释主义/[[Constructivist Paradigm|建构主义世界观]]在[[Qualitative Research|质性研究]]设计、归纳性理论建构以及多重主观实在提炼中的操作性指南。

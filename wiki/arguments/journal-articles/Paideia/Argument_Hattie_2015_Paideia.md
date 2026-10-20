@@ -51,7 +51,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: 2026-10-17
+updated: 2026-10-21
 year: 2015
 doi: ""
 citation_aliases:
@@ -62,14 +62,14 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > [[Visible Learning]] 已经从一本 2009 年出版的[[Research Synthesis|研究综合]]扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
 >
 > 更直白地说，这篇文章要把 Visible Learning 从一个容易被误读的“干预排名表”，重新解释成一个学校里的工作习惯：教师和学校要持续追问“我的教学到底对学生产生了多大影响，这种影响是否足够好”。(pp.11-13)
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - [[Visible Learning]] — 作为整篇文章的核心框架，被解释为“认识并评估自身影响”的教学改进模式，而不是一套固定教学法或高[[Effect Size\|效应量]]清单(pp.11-13)。
 > - [[Effect Size]] — 作为比较不同教育影响的共同尺度，尤其通过 d = 0.40 这个平均参考点帮助判断某项影响是否高于所有可见教育影响的平均水平(pp.10-11)。
 > - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节[[Variable\|变量]]、研究质量和结果类型，但仍主张它们能为教育实践提供可讨论的证据起点(pp.10-18)。
@@ -77,7 +77,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - 方法：理论回应、方法论辩护与研究项目回顾。
 > - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评文献(pp.9-21)。
 > - 写作路径：先说明 Visible Learning 的形成背景，再解释 d = 0.40、教师评估自身影响、学校集体评价文化，最后集中回应[[Effect Size\|效应量]]、低效应项目、研究质量和学习概念四类批评(pp.9-19)。
@@ -86,7 +86,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example] 论证结构
+> [!example|notitle] 论证结构
 > 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → [[Open-Mindedness|开放性]]结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育实践需要一种持续评估影响的语言。
 >
 > ### 一、起点困惑：几乎每个教师都能说自己的方法“有效”
@@ -132,7 +132,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - [[Visible Learning]] 的中心不是“高[[Effect Size\|效应量]]清单”，而是教师和学校以证据持续评估自身影响的专业姿态(pp.11-13)。
 > - d = 0.40 是所有可见教育影响的平均参考点，可用于开启比较讨论，但必须结合年级、结果类型、实施条件和同类研究背景解释(pp.10-11, 17)。
 > - 教师影响的六个关键条件包括：理解自身角色是评价影响、与同事共同评价影响、清楚学生先前学习、开端明确[[Success Criteria\|成功标准]]、平衡表层与[[Surface and Deep Learning\|深层学习]]、提供适当挑战而不是满足于“尽力而为”(pp.12-13)。
@@ -150,7 +150,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “了解你的影响（Know thy impact）”
 > ("Kend din virkning")(p.11)
 >
@@ -159,7 +159,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > ### 自我辩护文本的立场限制
 >
 > 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的自我解释，却不能替代独立批判文献。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间(pp.15-18)。

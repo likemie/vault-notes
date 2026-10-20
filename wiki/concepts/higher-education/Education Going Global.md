@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Education Going Global
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（教育出海） | [[Internationalization of Higher Education\|高等教育国际化]] | [[International Education\|跨国高等教育准市场出口]] |
 > |---|---|---|---|
 > | **主导驱动力** | 国家对外战略规划与国家利益统筹 | 高校学术声誉、学科建设与人才培养 | 商业高校获取高额全额留学生学费与创收 |
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Research Universities|研究型大学]]尖端科技协同出海** [[Research Universities|研究型大学]]通过在海外建立实体分校（如厦门大学马来西亚分校）与跨国科研联合实验室，围绕高新技术领域开展协同攻关，服务国家科技战略。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685–686)]]
 > - **高职院校伴随工业产能出海** 职业技术院校以[[Luban Workshop|鲁班工坊]]为代表，紧跟中资企业海外大型基建工程与工业产业园区，开展订单式本土技术劳动力实训，输出中国工程技术与职业标准。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685–686)]]
 > - **多边多校学术联盟枢纽** 依托高水平大学牵头发起多边合作网络（如[[University Alliance of the Silk Road|丝绸之路大学联盟]]），打破西方中心主义主导的高等[[Dialogue in Education|教育对话]]平台，构建横跨亚欧非的南南高教伙伴网络。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000年代初 — 探索试水阶段** 伴随国家“走出去”战略的提出，个别高校开始探索中外合作办学的境外延伸与[[Confucius Institute|孔子学院]]试点。
 > - **2010年 — 政策正式立项** 《国家中长期教育改革和发展规划纲要（2010—2020年）》明确提出“支持有条件的高等学校开展[[International Branch Campus|境外办学]]”，启动战略规划。
 > - **2016年 — 体系化推进阶段** 中央两办印发《关于做好新时期教育对外开放工作的若干意见》，教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，确立以分校、联盟、奖学金与[[Luban Workshop|鲁班工坊]]为支柱的系统出海格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
@@ -183,5 +183,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判话语分析]]与[[Cultural Political Economy|文化政治经济学]]，系统解构中国教育出海政策的文本表层共赢框架、部门协作工具性以及深层大国复兴叙事。

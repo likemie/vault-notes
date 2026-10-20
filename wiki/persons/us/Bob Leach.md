@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Bob Leach
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
 > - **校内组织者** 德斯蒙德·科尔-贝克 — 为教师项目提供校内领导与行动空间。
 > - **课程架构者** [[Gerard Renaud\|杰拉德·雷诺]] — 把教师讨论进一步转化为六学科组与[[Theory of Knowledge\|知识论]]共同核心。

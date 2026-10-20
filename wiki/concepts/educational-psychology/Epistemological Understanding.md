@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemological Understanding
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **主客观双维协调机制（Coordination of Subjective and Objective Dimensions）** [[Epistemology\|认识论]]理解的核心演进轴线，在于个体如何协调外在现实的客观约束与人类心智生成知识的主观能动性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]
 > - **三阶段发展序列（[[Absolutist]] $\rightarrow$ [[Multiplist]] $\rightarrow$ [[Evaluativist]]）** 从认为知识是客观确定且直接拷贝现实的绝对论，转向认为知识纯属个人主观意见的多元论，最终演化为主客观协调、依托标准评判优劣的评价论。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **[[Domain Specificity\|领域特异性]]不对称渗透（Domain Specificity and Asymmetric Transition）** 认识论理解的发展并非全局同步的心智重构，而是受到具体[[Areas of Knowledge\|知识领域]]（个人品味、审美、价值观、社会事实、物理事实）本体属性的强烈制约，呈现显著的阶梯滞后。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319)]]
@@ -174,7 +174,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000 — 主客观双维协调模型提出** [[Deanna Kuhn]] 等人发表里程碑研究，确立了绝对论、多元论与评价论的三阶段发展架构，并通过 15 题跨领域评估工具证实了领域不对称发展序列。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000)]]
 > - **2011–2014 — 融入扩展[[Epistemic Cognition\|认识论认知]]构件** [[Clark A. Chinn]] 等学者在 [[AIR Model of Epistemic Cognition\|AIR]] 理论模型中，将[[Epistemology\|认识论]]理解与[[Epistemic Aims\|认识目标]]、[[Epistemic Ideals\|认识理想]]及[[Reliable Epistemic Processes\|可靠过程]]紧密链接，强调探究中对规范性标准的理性觉知。
 > - **2018 — 大规模实证测量效度确立** Greene 等人开展大规模[[Meta-analysis\|元分析]]，证实认识论理解量表（EUI）能够稳健预测学生的[[Academic Achievement\|学业成就]]（$r = .242$），量化验证了认识论成熟对学习结果的促进作用。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 形式化界定[[Epistemology\|认识论]]理解的主客观协调核心机制，实证揭示绝对论、多元论与评价论在五大[[Areas of Knowledge\|知识领域]]中的反向发展序列与成人的多元论滞留现象。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将认识论理解深化至科学探究实践中的元认识论理解层面，阐明理解[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]背后的因果机理与失效边界对于科学论证实质评价的核心价值。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 教育心理学大规模[[Meta-analysis\|元分析]]，实证检验认识论理解量表（EUI）对[[Academic Achievement\|学业成就]]的显著预测力（$r = .242$），确立了认识论理解测评的效度基础。

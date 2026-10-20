@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Graham Nuthall
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1935** 出生于新西兰。
 > - **1960–1990 年代** 长期执教于新西兰坎特伯雷大学教育系，开创微观[[Classroom Observation|课堂观察]]项目，在真实教室布设多机位录像与学生随身麦克风，累计记录上千小时师生言语互动。
 > - **2004** 在基督城逝世。
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创微观课堂生态学分析[[Paradigm|范式]]，将教育心理学实验严谨性与[[Ethnography|人种志]]自然观察相结合，促使[[International Education|国际教育]]界重新审视[[Peer-Supported Learning|同伴文化]]与隐性心智加工。
 > - **方法路径** 首创多通道随身音频监听与[[Transcription in Qualitative Research|逐字转录]]技术，成为当代课堂互动分析与质性微观转录的重要前驱。
 > - **跨国／跨领域传播** 纳撒尔关于教师知觉盲区的量化发现被[[John Hattie|约翰·哈蒂]]（John Hattie）吸纳为《[[Visible Learning|可见的学习]]》底层理论依据，并进一步催生了移动端客观课堂监控与即时转录工具[[Visible Classroom]]的研制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论承继者** [[John Hattie]] — 汲取其[[Classroom Observation|课堂观察]]数据，将纳撒尔盲区定律转化为可见学习的核心预设与技术监控需求。
 > - **相关工具** [[Visible Classroom]] — 旨在通过客观音频[[Transcription in Qualitative Research|转录]]技术破除纳撒尔揭示的 80% 课堂知觉盲区。
 

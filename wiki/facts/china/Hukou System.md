@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hukou System
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **从显性体制歧视转向隐性资本博弈** 户籍壁垒在县域层面的降低并不意味着教育不平等的自动消解，而是将阶层筛选机制由看得见的“体制身份歧视”（户口限制）置换为看不见的“经济与社会资本筛选”（商品房购买力与社会关系网络）。学校打出“不用户口、不收[[School Choice|择校]]费”的口号，但在实际入学排位中，仍以房产证面积、地段和商业完税为第一顺位，使底层无房农民家庭依然处于边缘。[[Argument_Teng_2025_CE|(Teng & Wang, 2025, p. 313)]]
 > - **巨额教育排斥人口与次生空间隔离** 户口制度将 2000 万[[Migrant Children|随迁儿童]]排除在城市主流公办学校之外，迫使数百万流动儿童就读于缺乏财政补贴、办学条件薄弱的非正规[[Schools for Migrant Children|打工子弟学校]]（Kwong, 2004）。这种基于户籍的空间分流不仅固化了教育质量的不平等，更在城市内部生产出深度的社会隔阂与次生空间圈禁。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 > - **高昂的随迁[[Peidu|陪读]]经济代价与家庭离散** 伴随[[Rural School Consolidation|农村学校撤并]]与县城户籍放开，大量农民家庭选择进城租房“[[Peidu|陪读]]”。陪读家庭不仅需承担高额房租与生活成本，还导致母亲脱产丧失农业与工厂收入，使教育再生产成本大幅转嫁给农民个体，加剧了弱势群体在城镇化中的贫困风险。[[Argument_Teng_2025_CE|(Teng & Wang, 2025, p. 314)]]

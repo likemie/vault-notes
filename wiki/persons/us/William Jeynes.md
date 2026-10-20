@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # William Jeynes
@@ -62,7 +62,7 @@ updated: 2026-10-17
 
 ## 贡献地图
 
-> [!contribution-map] 贡献地图
+> [!contribution-map|notitle] 贡献地图
 > - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对低[[Socioeconomic Status|社会经济地位]]学童的阅读干预进行合成，但在分类编码上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
 > - **制度／政策影响**[[No Child Left Behind Act 2001]] — 其研究为美国 2000 年代初小布什政府推行排斥[[Whole Language\|全语言]]、强制系统拼读的法案提供了保守派实证依据。
 

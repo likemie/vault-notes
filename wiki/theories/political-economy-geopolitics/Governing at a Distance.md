@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Governing at a Distance
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代国家、超国家组织与跨国[[Policy Network\|政策网络]]如何在缺乏物理强制力、直接行政命令或法定管辖权的情境下，依托专业知识、标准化评估量规与[[Data Infrastructure\|数据基础设施]]，实现对[[Distributed Agency|分布式主体]]、偏远区域与自治机构的非接触式行为规约。
 > - **理论问题** 破解传统主权论将统治等同于领土垄断与垂直命令的静态假设，解释后福利国家与全球化治理中“国家职能形式下放与实质审计规制强化并存”的制度悖论。
 > - **理论类型** 批判政治社会学、空间治理机制与政策社会学[[Analytic Framework\|分析框架]]。
@@ -194,7 +194,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 多中心分散治理、专业人员高度自主的公共服务领域（教育、医疗、科研）、跨国制度协调及数字化[[Data Infrastructure\|数据基础设施]]的权力运作。
 > - **成立条件** 依赖畅通的技术信息反馈回路、被治理者对专业化评估指标的最低限度价值承诺，以及技术基础设施的平稳运行。
 > - **解释不足** 对传统高压威权统治下的物理强制命令、领土战争与突发[[Geopolitics|地缘政治]]危机的解释力有限；容易低估被治理者的微观战术抵制与反讽性合规（Mock [[Strategic Compliance|compliance]]）。
@@ -229,7 +229,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 [[Actor-Network Theory\|ANT]] [[Center of Calculation\|计算中心]]理论与拓扑地理学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的远处治理与政策重组。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为理性主义比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design\|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理与主体性塑造。

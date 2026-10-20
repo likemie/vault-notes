@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Fred Block
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1947** 出生于美国。后于哥伦比亚大学获得学士学位，并在加利福尼亚大学伯克利分校获得社会学博士学位。
 > - **1970s–1980s** 任教于宾夕法尼亚大学社会学系，期间发表经典著作《国家权力的根基》（*The Roots of International Economic Disorder*, 1977）与《国家自主性的唯物主义理论》（1977），成为新马克思主义与韦伯主义国家自主性理论论战的核心代表人物之一。
 > - **1990s** 转任加利福尼亚大学戴维斯分校社会学系教授，深耕经济社会学与福利国家转型研究，系统重访卡尔·波兰尼的《大转型》，推动经济社会学“嵌入性”概念的当代复兴。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与克里斯托弗·安塞尔（Christopher Ansell）共同奠定[[Developmental Network State|发展型网络国家]]理论，为[[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）等学者实证发展“[[Embedded Network Governance|嵌入型网络治理]]”提供了奠基性分析架构。
 > - **方法路径** 倡导结合法规政策演进、联邦财政支出分类与行业创新奖项（如 R&D 100 大奖）追踪的制度政治经济学分析[[Paradigm|范式]]。
 > - **政策路径** 深刻启发了当代关于美国国家战略、[[CHIPS and Science Act|芯片法案]]及[[Inflation Reduction Act|通胀削减法案]]的公共讨论，为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）的“创业型国家”（Entrepreneurial State）理论提供了先驱性证据支持。
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 彼得·埃文斯（Peter Evans） — 著名发展社会学家，在 2007 年伯克利研讨会上向布洛克首创提议使用“[[Developmental Network State|隐藏的发展型国家]]”术语。
 > - **制度对照／理论对话** [[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson） — 奠定东亚科层发展型国家（DBS）理论，布洛克将其作为后工业去中心化创新环境下发展型网络国家（DNS）的历史对照。
 > - **[[Epistemology|认识论]]先驱** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 提出[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，布洛克以此作为解释后工业高科技创新既探索基础规律又攻关现实应用的认识论基石。

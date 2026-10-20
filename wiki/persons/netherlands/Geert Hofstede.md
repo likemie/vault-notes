@@ -31,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -40,17 +40,17 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!info] 核心思想
+> [!info|notitle] 核心思想
 > - [[Hofstede's Cultural Dimensions]] — Hofstede 的原始工作提出四个国家文化维度：个人主义/集体主义、权力距离、女性化/男性化、不确定性规避([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.36]])。
 > - 国家文化价值相对稳定，并影响国家政策、制度实践以及共享该文化的人们的行为。
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - 为教育研究中的跨文化解释提供一种假设生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching\|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36–37]])。
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - Hofstede 的文化框架被批评为过于封闭、不可变且国家化，没有充分反映快速变化、全球化世界中文化的[[Open-Mindedness|开放性]]和流动性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
 > - Laursen 进一步怀疑，Hofstede 对"丹麦国家文化"的画像可能更准确地描述受教育中产阶级文化，而不是所有丹麦学生共享的文化([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.40]])。

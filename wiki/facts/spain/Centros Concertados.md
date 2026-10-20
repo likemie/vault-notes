@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Centros Concertados
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **极低公共成本实现学额普及** 协约学校生均公共支出显著低于全公立直属学校，以较低财政支出支撑了 30% 以上的国民学位供给，缓解了国家财政重负。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
 > - **提供多元化教育生态与家长选择** 保障了不同信仰、文化倾向家庭对学校价值观的选择权利，保持了校园文化多样性。
 > - **加剧社会阶层分层与生源隔离争议** 尽管法律禁止收费，但校服费、课外活动费等自愿性捐款在部分协约学校形成了筛选机制，导致移民与弱势生源不成比例地集中在纯公立学校，引发公共教育公平性质疑。

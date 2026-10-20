@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Konrad Lorenz
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1903** 出生于奥地利维也纳，父亲为著名骨科医生阿道夫·劳伦兹（Adolf Lorenz）。
 > - **1928–1933** 先后在维也纳大学获得医学博士学位（1928）与动物学博士学位（1933），在阿尔滕贝格（Altenberg）家族庄园开展雁鹅、寒鸦等鸟类的半野外行为观察。
 > - **1935** 发表里程碑论文《鸟类环境中的同类伙伴》（*Der Kumpan in der Umwelt des Vogels*），系统确立亲代“印刻”（Imprinting）理论。
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **生物学与生态学路径** 奠定了现代比较行为学、动物认知与演化生物学的实证基础。
 > - **人际心理学路径** 启发戏剧家[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）将动物等级争斗提炼为人类日常微观互动中的[[Status Transactions|地位交易]]模型。
 > - **组织社会学路径** 被卡普与扎米斯卡用于批判传统科层企业中固化的职位种姓制与对基层创新的压制。
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **诺贝尔奖同僚** [[Karl von Frisch]] — 共同奠定现代行为生物学与动物沟通机制研究基础。
 > - **跨学科受启发者** [[Keith Johnstone]] — 约翰斯通在《即兴》中明确将劳伦兹的[[Pecking Order|寒鸦啄序]]研究作为其[[Status Transactions|地位交易]]理论的生物学灵感来源。
 

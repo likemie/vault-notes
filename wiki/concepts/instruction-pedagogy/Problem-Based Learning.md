@@ -85,7 +85,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Problem-Based Learning
@@ -392,7 +392,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment\|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis\|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP\|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。

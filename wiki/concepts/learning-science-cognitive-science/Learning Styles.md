@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Learning Styles
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 学习风格（Learning Styles） | 个别化教学（[[Individualised Instruction]]） | 多元表征/双重编码（Dual Coding） |
 > |---|---|---|---|
 > | **划分依据** | 学生主观偏好的感官感知通道（视/听/动） | 学生知识掌握起点、认知诊断与任务难易度 | 认知心理学关于言语与非言语双通道加工原理 |
@@ -251,7 +251,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。

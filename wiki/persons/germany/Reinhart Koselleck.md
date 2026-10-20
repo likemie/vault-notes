@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reinhart Koselleck
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1923** 出生于德国萨克森州格利茨（Görlitz）。
 > - **1947–1954** 在海德堡大学、布里斯托大学研读历史学、哲学与法学，师从伽达默尔（Hans-Georg Gadamer）、洛维特（Karl Löwith）与海德格尔。
 > - **1954** 在海德堡大学完成博士论文《批判与危机》（*Kritik und Krise*），从观念史角度探讨启蒙乌托邦与现代政治危机的根源。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **方法论路径** 开创的概念史（*Begriffsgeschichte*）成为跨越历史学、哲学、政治学与比较教育学的主流分析工具，深远影响了历史比较研究（[[Historical-Comparative Method]]）。
 > - **教育思想史应用** 斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等[[Critical Pedagogy|批判教育学]]家以科塞勒克的概念史方法，系统考察了“学习”（Læring）在半个世纪内从反专制改革[[Discourse|话语]]向新自由主义规训润滑剂的语义演变。
 > - **教化[[Ontology|本体论]]重塑** 其对教化人类学与语义结构的论述，为抵御现代绩效治理与标准化考核提供了最具理论厚度的词源学武器。
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承与对话** 伽达默尔（Hans-Georg Gadamer）— 继承欧陆解释学传统并将其引入历史语义学实践。
 > - **学术盟友与同事** [[Niklas Luhmann]] — 同为比勒费尔德大学讲席教授，二人就时间性、系统论与概念史展开深刻跨学科对话。
 > - **教育学应用学者** [[Steen Nepper Larsen]] — 借鉴其概念史与教化论著，展开对可见学习[[Paradigm|范式]]的[[Epistemology|认识论]]批判。

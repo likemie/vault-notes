@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Open-Mindedness
@@ -204,5 +204,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统界定思想开放作为核心[[Epistemic Virtues and Vices|理智美德]]的理论构件，阐明其在抵御生成式 AI [[Cognitive Deskilling|去技能化]]危机中的关键育人价值，并设计了结合提问导师与兴趣故事叙事的人工智能培育方案。

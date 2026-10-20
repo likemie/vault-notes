@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technology Driver Hypothesis
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 技术驱动产品假设（Technology Driver [[Hypothesis]]） | 模块化工艺平台理论（Modular Process Platform） | 学习曲线理论（Learning Curve Theory） | 互补性资产假说（Complementary Assets） |
 > |---|---|---|---|---|
 > | **分析对象** | 单一大宗标准化硬件（DRAM）对全行业工艺的决定性拉动 | 标准化制造接口支持多元设计共生 | 累积产量提升带来的单位制造良率改善 | 支撑技术创新实现商业化变现的下游生态 |
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **规则几何拓扑前提（Regular Geometric Topology）** 假设存储芯片由于存储单元高度重复规整，能够以最高灵敏度暴露光刻机与薄膜沉积设备中的物理缺陷，从而充当设备调试的最佳试验品。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–115)]]
 > - **先导工艺探针角色（Process Debugging Vehicle）** 主张新一代线宽（如 0.8 微米、0.5 微米）必须先在 DRAM 产线上试错成熟，然后才能迁移至微处理器等复杂逻辑芯片。
 > - **巨额资本折旧分摊（Capex Absorption）** 认为只有大宗存储芯片的海量晶圆通量，才能支撑新型先进制程晶圆厂数十亿美元的高昂设备折旧。
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 年代初–1980 年代中 — 驱动器假说确立期** DRAM 从 1K 演进至 256K，微电子行业确立了“新制程由 DRAM 首发验证、再转移至逻辑器件”的经典研发[[Paradigm|范式]]，技术驱动产品假设被奉为产业公理。
 > - **1985–1989 年 — 危机顶峰与政策干预催化** 日本厂商占据全球 90% 以上 DRAM 份额，美国除德州仪器与美光外基本退出；该假设成为推动设立 [[Sematech]] 联盟与签署 [[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]的核心理论论据。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 110–111, 125)]]
 > - **1990 年代中 — 微观标杆实测与理论[[Falsification|证伪]]** 伯克利 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目实测数据公布，美国芯片商在微处理器与逻辑芯片上夺回全球第一，该假说在实证上被正式证伪；行业确立了逻辑芯片与纯晶圆代工（Foundry）双轨并行的工艺演进新范式。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–118)]]
@@ -208,5 +208,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher, Mowery, & Hodges (1998)]] — 借助加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目跨国产线实证标杆数据，首次系统[[Falsification|证伪]]了技术驱动产品假设，奠定了逻辑制程独立演进的微观证据基础。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Space Production
 
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 理论来源
 
-> [!ref-table] 理论来源
+> [!ref-table|notitle] 理论来源
 > | 理论家 | 核心贡献 | 在框架中的应用 |
 > |--------|---------|---------------|
 > | 列斐伏尔（H. Lefebvre） | 空间社会生产三元论 | 框架的理论基础：空间是被社会生产而非先验存在的 |
@@ -88,5 +88,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 首次在中文文献中系统提出以空间生产三元维度整合[[Geopolitics of Higher Education\|高等教育地缘政治]]研究的[[Analytic Framework\|分析框架]]，区分物质性、表征性和关系性三个维度。

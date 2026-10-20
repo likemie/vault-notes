@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Robotics
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 教育机器人（Educational Robotics） | [[Intelligent Tutoring Systems\|智能导师系统]]（[[Time Series Design\|ITS]]） | [[Conversational AI in Education\|对话式智能体]]（Conversational AI） |
 > |---|---|---|---|
 > | **物理形态** | 具有物理实体（如仿人机器人、伴读机）或拟人化 3D 具身实体 | 纯软件界面，通常嵌入学习管理系统或题库 | 文本输入框或语音交互界面 |
@@ -129,5 +129,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中将教育机器人作为核心技术形态，确立其对 K-12 认知表现具有显著中等促学效应（$g = 0.474$），证实具身多模态交互对低学段语言和[[Gamification\|游戏化]]技能训练的独特价值。

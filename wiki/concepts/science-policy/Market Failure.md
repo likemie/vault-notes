@@ -81,7 +81,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Market Failure
@@ -249,7 +249,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950–1960年代 — 福利经济学基石确立** 弗朗西斯·巴托（Francis M. Bator, 1958）系统界定市场失灵解剖学；[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）论证基础科研的公共品属性与知识溢出，确立国家研发补贴的合法性边界。
 > - **1980年代 — 战略性贸易与[[Learning by Doing|干中学]]扩展** 产业组织学者将动态规模经济、干中学学习曲线与[[Agglomeration Externalities|集聚外部性]]引入半导体等高科技产业分析，为美日欧产业政策提供了理论依据。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83, 102)]]
 > - **2010年代 — [[Evolutionary Economics|演化经济学]]批判与超越** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）等学者批判市场失灵框架的消极被动性，倡导由“修补失灵”转向“主动塑造与创造市场”的使命导向[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
@@ -317,7 +317,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐明跨部门中试基础设施漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与硬件根信任度量衡如何作为国家公共品矫正深科技创新链的转化与安全市场失灵。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统批判了新古典市场失灵理论在科技创新政策中的方向性缺失，论证了国家从“被动修补”转向“主动塑造与创造市场”的必要性。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 梳理了半导体产业中[[Agglomeration Externalities|集聚外部性]]与[[Learning by Doing|干中学]]等经典市场失灵依据，并揭示了 2020 年代[[Modern Industrial Policy|现代产业政策]]如何由经济效率修补[[Paradigm|范式]]演进为国家安全与供应链保险逻辑。

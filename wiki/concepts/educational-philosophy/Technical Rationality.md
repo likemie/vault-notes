@@ -154,7 +154,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Technical Rationality
@@ -396,7 +396,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与[[Jürgen Habermas|哈贝马斯]]的[[Critical Theory|批判理论]]，系统解构[[Visible Learning|可见的学习]]的技术理性结构及其[[Behaviorism|行为主义]]谱系，揭示其在丹麦 2014 年教改中充当[[Legitimation Crisis|合法化危机]]防御工具的机制（pp. 78–87）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩对技术理性的界定，细读[[John Hattie|哈蒂]]反馈效应[[Meta-analysis|元分析]]底层数据，揭示其非理论化修辞掩盖下的行为主义预设、阶级盲还原、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]监控机制（pp. 3–15）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]教育政策转向，揭示技术官僚理性如何以投入产出效率与数字测评遮蔽教育目的哲学辩论（pp. 441–448）。

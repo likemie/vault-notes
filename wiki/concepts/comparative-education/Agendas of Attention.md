@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Agendas of Attention
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 注意力议程 | [[Readings of the Global\|阅读全球]] | 研究议程 |
 > |---|---|---|---|
 > | **分析焦点** | [[Knowledge Production\|知识生产]]中“在场”与“缺席”的政治选择性后果 | 跨国空间中多重阅读全球的能动行为与体验 | 具体的有意识科研规划、项目设立与学科热点 |
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如现实主义下的民族国家、借用吸引与[[Reference Society\|参考社会]]；或理性主义下的[[Governing at a Distance\|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–425]])
 > - **缺席（Absences）** 指被学术[[Discourse|话语]]系统性[[Screening Off\|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
 > - **[[Epistemology\|认识论]]混合（Intermixing of Epistemologies）** 三大传统的注意力议程不是割裂的，它们在比较教育的实际文本与历史演进中往往呈现出复杂的混合、妥协和交叉共存状态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])

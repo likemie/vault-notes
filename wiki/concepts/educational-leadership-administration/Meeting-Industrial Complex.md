@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Meeting-Industrial Complex
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 会议工业复合体 | 敏捷即兴同步 | 蜜蜂舞蹈共识辩论 |
 > |---|---|---|---|
 > | **组织目的** | 政治精英争夺地位、展示权力与转嫁责任 | 扫清技术障碍、对齐即时阻碍 | 勘探环境数据、全局最优决策收敛 |
@@ -79,7 +79,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **会议规模与频次失控** 动辄数十上百人参会，日常工时被碎片化切割，甚至催生为了准备正式会议而提前开预备会的荒谬现象。
 > - **地位与资源博弈舞台** 会议成为政治型员工展示精心包装的非实质性议题、争夺预算与晋升特权的竞技场。
 > - **实干人才逆向排挤** 缺乏政治表演手腕但具备真才实学的工程师在冗会中被边缘化，选择默许退缩或逃离组织。
@@ -103,6 +103,6 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2017 — 组织心理学实证** 哈佛商学院莱斯利·珀洛（Leslie Perlow）等在《哈佛商业评论》（*Harvard Business Review*, HBR）发表《停止会议狂热》（*Stop the Meeting Madness*），首次披露 182 位高管被冗会折磨的实证数据。
 > - **2025 — 批判性概念升华** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中提炼出会议工业复合体术语，将其定性为扼杀国家创新与[[Engineering Mindset|工程思维]]的大企业病核心病灶。

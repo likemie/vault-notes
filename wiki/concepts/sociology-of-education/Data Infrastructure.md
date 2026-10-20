@@ -65,7 +65,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Data Infrastructure
@@ -236,7 +236,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家[[Center of Calculation|计算中心]]的演化过程，论证数据流动如何促成教育政策的[[Topological Spatialisation|拓扑学重组]]。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较美德两地州级教育监测系统，全景剖析数据基础设施的四级技术架构与五维治理张力，首倡培育面向社会-技术系统的数据基础设施素养。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统批判 Hattie [[Meta-analysis|元分析]]的证据基础黑箱与[[Publication Bias|发表偏倚]]放大机制，提出建立解耦商业出版、强制全量归档并纳入学者成果清单的中央证据数据基础设施方案。

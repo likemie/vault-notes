@@ -28,7 +28,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Commitments
@@ -49,7 +49,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **默会性（Tacit Nature）** 许多学生可能在[[Questionnaire\|问卷]]中同意“科学知识需要实验证据”，但在实际操作中（其[[Epistemology\|认识论]]承诺）却依然依赖个人经验作为最高[[Justificatory Standards\|确证标准]]。
 > - **情境依赖性** 承诺往往在特定情境的任务中才被激活和观测，因此更适合通过访谈（interview）或[[Mixed Methods Research\|混合方法]]进行研究。
 
@@ -57,5 +57,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 主张使用“[[Epistemology\|认识论]]承诺”代替“隐性信念”，并呼吁研究者通过观察学生如何论证、如何评估来源等实际表现来推断这些承诺。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Disjointed Pluralism
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 复杂立法机构、政权组织及公共治理架构在长期历史演进中的非一致性创新、结构杂合性与多目标张力。
 > - **理论问题** 批判理性选择制度主义将制度预设为单一意志下的协调一致理性蓝图，以及社会学制度主义先验假定制度系统具有高度内部连贯性；解释制度内部为何总是充满相互冲突的议事规则、重叠职能与彼此脱节的管理流程。
 > - **理论类型** 中层解释理论、[[Historical Institutionalism|历史制度主义理论]]与美国政治发展（American Political Development, APD）[[Analytic Framework|分析框架]]。
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ### 理论演进脉络
 
-> [!dev-timeline] 理论演进脉络
+> [!dev-timeline|notitle] 理论演进脉络
 > - **1994 年 — 制度时间性与非连贯性思想发轫** 奥伦与斯科夫罗内克（Orren & Skowronek, 1994）发表重要论文，呼吁制度分析必须正视时间性，明确指出制度不是协调一致的单一有机体，早期历史时期的残存规则始终作为构件制约着当下制度运行。
 > - **2001 年 — 希克勒出版《脱节多元主义》** 希克勒正式提出脱节多元主义理论，首次提炼出在既有结构顶端层叠新安排（[[Institutional Layering|layering]] of new arrangements）的分析视角。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 > - **2003–2004 年 — 希伦提炼制度层叠机制** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2003, 2004）吸收希克勒关于多元妥协累积的核心洞见，将层叠正式升格为[[Historical Institutionalism|历史制度主义]]渐进变迁的四大机制支柱之一。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 面临高度政治多元化、强分权制衡架构、存在多重否决点且历史连续性强的公共政治组织与复合制度演进。
 > - **不适合解释** 权力高度垄断集中、能够凭借绝对权威推行激进自上而下白纸规划的极权体制，亦不适合初创型轻量敏捷组织的治理分析。
 > - **常见误用** 将脱节[[Pluralism|多元主义]]庸俗化为赞美官僚推诿与效率低下的借口；该理论旨在客观揭示多元政治妥协的结构必然性，而非为行政惰性作规范辩护。
@@ -187,7 +187,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 考证脱节[[Pluralism|多元主义]]作为希伦[[Institutional Layering|制度层叠]]概念关键前史的理论谱系，确立其在[[Historical Institutionalism|历史制度主义]]因果解释中的核心枢纽地位。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 借鉴脱节多元主义的妥协拼接模型，将制度内生张力与模糊性升格为解释渐进演化的微观动力基石。
 > - [[Institutional Layering]] — 历史制度主义核心渐进变迁机制，直接汲取脱节多元主义关于新安排在既有结构之上张力层叠的核心洞见。

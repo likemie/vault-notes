@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Robert Cowen
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1990年代** 长期任职于伦敦大学学院教育学院（IOE），承继[[Michael Sadler|萨德勒]]、汉斯以来的文化主义传统，从事比较教育研究与教学，提出现代／晚期现代教育的双轴比较模型。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **2000** 担任[[Comparative Education Society in Europe\|欧洲比较教育学会]]会长期间，在 *Comparative Education* 发表标志性论文，正式奠定教育 [[Transitology\|转型学]] 的定义。[[Argument_Cowen_2009_CE\|(Cowen, 2009b, p. 315)]]
 > - **2009** 与 [[Andreas Kazamias]] 共同主编《比较教育学国际手册》（*International Handbook of Comparative Education*），并在第 2 章系统反思学科史编纂的三重困境，倡导走向[[Comparative History of Comparative Education\|比较教育学的比较史]]；同年发表论文提出教育过程的 [[Transfer Translation Transformation\|3T 框架]]，将“[[Shape-Shifting\|形变]]”引入跨国比较。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
@@ -172,7 +172,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** [[Transitology\|转型学]] 与 [[Transfer Translation Transformation\|3T 框架]]已经成为比较教育学和全球教育[[Policy Mobility\|政策流动]]的经典理论底座，将学界关注点从政策的“行政成功与否”拉回对“本土意义[[Shape-Shifting\|形变]]与权力解构”的批判审视。
 > - **政策与咨询批判** 极力抵制将比较教育简化为服务[[Policy Borrowing\|政策借用]]和[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）等国际评测的技术官僚“[[Policy Science in Comparative Education\|政策科学]]”；揭示高校由公共财政紧缩诱发的“学术重商主义”海外咨询输出倾向。
 > - **跨国传播与应用** 3T 框架被广泛应用于分析包括 [[John Dewey\|杜威]] 思想在民国中国的本土转译与碎片化[[Assemblage\|组装]]等教育史与[[Comparative Policy Analysis|比较政策分析]]中。[[Argument_Zhou_2024_CE\|(Zhou & Westberg, 2024, p. 611)]]
@@ -201,7 +201,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术继承与合作者** [[Paul Morris]] — 共同致力于新自由主义全球测试（[[PISA]]）与[[Policy Science in Comparative Education\|政策科学]]的意识形态解构。
 > - **学术继承者与思想拓展者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） — UCL IOE 门生、合作者与《手册》撰稿人，将考恩的 [[Transfer Translation Transformation|3T 框架]]、学术重商主义与转移批判深化为全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–345)]]
 > - **学术前人 / 纪念对象** [[Andreas Kazamias]] — 继承了其人文主义比较教育与历史社会学关切，但在 2023 年批评了学界将 Kazamias “哲学先知化”以逃避现实政治与方法论创新的倾向。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]

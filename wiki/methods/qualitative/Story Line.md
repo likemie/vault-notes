@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Story Line
@@ -201,6 +201,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 系统阐释[[Grounded Theory\|扎根理论]][[Selective Coding\|选择性编码]]中以故事线为起点提炼[[Central Phenomenon\|核心范畴]]并实现高阶理论整合的操作规程，剖析去情境化风险与浅层层级控制原则（p. 562）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 提出质性数据分析七步法中“发展故事线解释”的核心步骤，系统论述在个体、组织与多主题层面上构建问题发展编年史的分析路径（p. 209）。

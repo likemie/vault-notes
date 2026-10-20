@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Feeder Mechanism
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **去目的论（无必然终点）** 滋养机制不以任何单一的道德教化（如[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的公民塑造）或绝对真理为终点，允许探究处于悬而未决的开放状态。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 > - **负面情绪的生产性转化** 课堂中[[Emergence\|涌现]]的困惑、虚无主义甚至叛逆不再是需要被纪律消除的阻碍，而是作为燃料输入这套机制，成为催生批判性想象力的重要资源。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 218)]]
 > - **跨学科重组** 通过想象力，滋养机制鼓励学生打破固化的学科边界（如将社会学与地理学结合为后现代城市学），[[Creativity\|创造性]]地应对完美信息时代的知识博弈。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]]
@@ -104,5 +104,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出在[[Theory of Knowledge\|知识论]]（TOK）课程中应用[[Baruch Spinoza\|斯宾诺莎]]主义，将其打造成一种不再受困于目的论的教育滋养机制。

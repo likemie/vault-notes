@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Semiconductor Research Corporation
@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 强调 SRC [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心作为国家微电子公私合作（Goal 4.1）的核心支柱，并阐述 SRC-[[National Science Foundation|NSF]] 本科生科研留存专项（Goal 3.2）与十年微电子技术愿景（Goal 4.3）对国家战略的支撑。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 [[National Science and Technology Council|NSTC]] 的三代半导体公私产学研协同机制演进。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 评估 SRC 在美国半导体[[University-Industry Collaboration|产学合作]]与博士人才培养中的长周期成效与抗周期机制。

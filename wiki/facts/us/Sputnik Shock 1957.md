@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sputnik Shock 1957
@@ -204,7 +204,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证 1957 年斯普特尼克危机如何促发冷战“竞争技术化”转向，开启 1957—1967 年科技政策“黄金十年”，并奠定“高自治—高嵌入”的国家科研治理结构。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 梳理 [[DARPA]] 的历史沿革，指出 1957 年斯普特尼克危机是推动美国设立 ARPA 并确立“防范技术突袭”颠覆性创新治理[[Paradigm|范式]]的根本历史起点。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 以晚期现代性教育愿景为框架，论证斯普特尼克冲击如何在福利国家扩张前夕将经济、国家安全与[[Knowledge Production|知识生产]]硬性挂钩，产生贯穿至今的制度回响（[[Vergegenkunft]]）。

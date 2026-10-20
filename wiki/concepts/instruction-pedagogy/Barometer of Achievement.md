@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Barometer of Achievement
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **半圆表盘与指针（Dial and Needle）** 模拟物理压力表或汽车速度表构造，指针指示特定教学策略的汇总[[Effect Size|效应量]]点估计。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 > - **彩色分区（Color-Coded Zones）** 将表盘自左至右划分为负效应区（红色）、自然发展效应区（黄色）、典型教师效应区（蓝色）和[[Zone of Desired Effects|期望效应区]]（绿色），强化直观的情感评价倾向。
 > - **铰接点中线刻度（Hinge Point, $d = 0.40$）** 在表盘正上方或核心转折处显著标出 $0.40$ 刻度，作为衡量教学优劣的视觉分界。
@@ -156,7 +156,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2003 年 — [[Assessment Tools for Teaching and Learning|asTTle]] 监控界面创立** [[John Hattie|哈蒂]]领导的研发团队为新西兰教育部推出 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统，首次在管理端界面引入半圆表盘，用于实时汇总和监控教师在各学科的测验运用数据。
 > - **2009 年 — 跨界移植至《可见学习》** 《可见学习》将 asTTle 的管理表盘全面应用于正文排版，为 138 项教育影响因素逐一配备气压计插图，确立了以绿区（$d \ge 0.40$）为顶点的视觉标准。
 > - **2010–2018 年 — 商业化视觉品牌垄断** 在 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]的商业化推广中，成就气压计被注册并印制在各类咨询手册、学校认证奖章及培训海报上，成为全球最具辨识度的[[Evidence-Based Education|循证教育]]商业符号之一。
@@ -210,5 +210,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 考证气压计图表源于 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件的制度史，系统批判其[[Neo-Taylorism|新泰勒主义]]控制逻辑及其对[[Teacher Professional Agency|教师专业自主权]]的侵蚀。

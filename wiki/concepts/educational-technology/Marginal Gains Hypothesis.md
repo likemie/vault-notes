@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Marginal Gains Hypothesis
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 边际效益假说（Marginal Gains [[Hypothesis]]） | 马太效应（Matthew Effect / 累积优势） | 数字技术赋权论（Digital Empowerment） |
 > |---|---|---|---|
 > | **分析对象** | 技术介入在不同资源环境中的相对[[Effect Size\|效应量]]差异 | 初始优势群体凭借新资源持续拉大群体差距 | 技术对受压迫或弱势群体的社会流动赋能 |
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **基线资源匮乏性（Baseline Scarcity）** 低 ICT 与低 [[Socioeconomic Status|SES]] 环境中，学生面临师资配比不足、个性化辅导缺失和数字教辅空白，导致其[[Academic Achievement\|学业表现]]长期受压抑。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **补偿性替代机制（Compensatory [[Scaffolding]]）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 18)]]
 > - **边际增益高敏感度（High Marginal Sensitivity）** 在近乎空白的数字化支持基础上，技术的单点突破便能迅速扫除初级学习障碍，驱动[[Effect Size\|效应量]]爆发式增长（$g^+ > 1.70$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12–13, 18)]]
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2013–2015 — 早期循证与国际调查发现** Cheung and Slavin (2013) 在教育技术[[Meta-analysis\|元分析]]中初次察觉低资源环境的高响应现象；OECD (2015) 报告正式提出低技术环境引入技术具有更大相对效应的观察。
 > - **2023–2024 — AI 时代的区域分化研究** Tlili et al. (2025) 元分析发现亚洲与非洲的 AI [[Effect Size\|效应量]]显著高于北美，但缺乏系统的基线控制与理论归因。
 > - **2025 — 边际效益假说的系统实证确立** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在严格满足[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的方法学门槛下，同时从国家 ICT 与学生 [[Socioeconomic Status|SES]] 双重视角实证检验并确立了“边际效益假说”，指出 [[Generative Artificial Intelligence\|GenAI]] 是弥合高等教育数字鸿沟的战略性工具。
@@ -211,5 +211,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，通过国家 ICT 水平与学生 [[Socioeconomic Status|SES]] 的[[Moderator Analysis\|调节效应分析]]，严格实证检验了边际效益假说，指出生成式 AI 具有促进低资源国家和弱势学生教育平等的战略价值。

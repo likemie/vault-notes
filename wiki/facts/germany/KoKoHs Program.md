@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # KoKoHs Program
@@ -98,7 +98,7 @@ updated: 2026-10-15
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 确立了德国高等教育由“输入型管理”向“成果型质量监测”转型的国家实证[[Paradigm\|范式]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 16–17)]]
 > - **实践影响** 为全德高校一线教学改革与专业认证提供了 116 套现成可用、信效度兼备的测量工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **知识影响** 推动了多维 [[Item Response Theory\|IRT]] 与情境化表现测试在高教测量学中的前沿发展，成为 [[OECD]] 报告重点推荐的国家级研发标杆。

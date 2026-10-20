@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Practitioner-in-Residence
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 驻校实践者项目（Practitioner-in-Residence） | 传统终身教职轨道（Tenure-Track Faculty） | 产业兼职导师（Adjunct Industry Lecturer） |
 > |---|---|---|---|
 > | **选拔标准** | 一线排障手感、仪器建造技艺与[[Process Knowledge\|默会过程知识]] | 博士文凭、高影响因子论文与理论基金获取力 | 产业管理经验或特定应用领域业务知识 |
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **实践者法定教职地位** 破除唯论文、唯博士学位的单一师资评价标准，赋予非学术出身的技能大师正式指导与治理身份。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 > - **成果共同署名与产权分享** 在学术论文、专有专利与仪器设计中确立技师与机械师的[[Co-invention|共同发明]]人与作者权益。
 > - **实验仪器即兴建造技艺传递** 将依赖身体感知与车间反复调优的默会经验（[[Tacit Knowledge]]）深度融入研究生实验教学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–51)]]
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970s — [[Tacit Knowledge|默会知识]]与实验复现研究** 哈里·科林斯（Harry Collins）揭示激光器复现必须依赖技师身体力行的现场协同，奠定实践技艺认知基础。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获诺贝尔物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 > - **2026 — 驻校实践者与国家工匠学者政策化** 美国白宫科技政策办公室在《科学：新黄金时代》中正式将其确立为打破单一学术阶梯、重振[[Industrial Commons|产业公地]]的高等教育制度创新。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
@@ -140,5 +140,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述驻校实践者项目与国家工匠学者计划在破除学术阶梯垄断、重建[[Engineering Education|工程教育]]车间实操中的政策设计与实施路径。

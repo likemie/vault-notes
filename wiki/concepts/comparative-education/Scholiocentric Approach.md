@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scholiocentric Approach
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **奠基实务视察传统** 开创了以官方督学与行政视察为依托的跨国教育实地考察规范，为 19 世纪英美法等国公共教育制度建立积累了第一手详实史料。
 > - **提供立法辩护范本** 成为 19 世纪欧美公共教育运动（如美国共同学校运动、法国初等教育法）中游说议会、确立[[State Educational Sovereignty|国家教育权]]的经典合法化策略。
 > - **催生文化情境转向** 该取向固有的去语境化缺陷直接启发了[[Michael Sadler|萨德勒]]在 20 世纪初的[[Paradigm|范式]]革命，促使学科从表层白描跃升为深层历史-哲学-文化有机解释。
@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统界定以校为中心取向作为第一代启蒙准科学与行政改良代际的核心特征，阐述其如何为主权国家构建公共教育体系提供[[Policy Borrowing|政策借用]]与政治合法化依据。

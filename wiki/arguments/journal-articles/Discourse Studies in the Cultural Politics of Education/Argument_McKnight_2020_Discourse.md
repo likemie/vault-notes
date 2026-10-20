@@ -51,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2020
 doi: ""
 citation_aliases:
@@ -60,14 +60,14 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
 >
 > 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果(p.33)。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"(p.33)。具体理论资源包括：
 >
 > - **新自由主义批判**Ball(2003)的"新管理全景监狱主义"和"[[Ontology\|本体论]]不安全"概念；Springer(2016)的新自由主义暴力分析四问框架（什么在凝结？暴力是什么？资本流向何处？抵抗在哪里？）
@@ -79,7 +79,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 理论性／批判性[[Discourse Analysis\|话语分析]]（非实证[[Lesson Study\|课堂研究]]）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
@@ -88,7 +88,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 VL 中充斥的管理[[Discourse|话语]]——测量、[[Performativity|表演性]]和"交付"——的挑衅性和反讽性回应）：
 >
 > ### 1. [[Visible Learning]] 承载政治包袱
@@ -114,7 +114,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. [[Visible Learning]] 的论述与新自由主义、性别歧视和能力主义议程深度结盟，这三者在学校中"运作以实施排斥并在女性化工作中去专业化教师"(p.32)
 > 2. "Visible Learning"这一隐喻本身需要更多仔细审视——它是一种殖民性隐喻，将视觉特权化并抹除其他感知方式
 > 3. 对 VL 的批评远不如使用指南那样普遍——这本身即是 VL 所创造的监控/服从文化的证据
@@ -124,7 +124,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “‘可见的学习’是实现‘新管理全景敞视主义’(Ball, 2003, p. 219)的完美工具，而这种主义现在已经不再那么新鲜了；当学习必须变得可见时，每个人都可以监视其他人。”
 > ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")(p.34)
 >
@@ -145,7 +145,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - **论文自认局限** 非实证[[Lesson Study\|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的文献匮乏，未进行常规[[Literature Review\|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
 > - **立场** 作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality\|价值中立]]
 > - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"，并呼吁"不回避审问论述的文化政治的、有力的辩论"

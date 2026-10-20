@@ -31,16 +31,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > 澳大利亚在 2000 年代推动[[Evidence-Based Education\|证据本位教育]]改革的过程中，认识到需要统一的全国课程框架来指导教学实践。此前各州课程体系分散，缺乏一致性。
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [!abstract|notitle] 政策文本摘要
 > 澳大利亚课程（Australian Curriculum）于 2012 年由澳大利亚课程评估与报告局（ACARA）董事会批准。课程包含三个维度([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.128]])：
 >
 > - **学习领域（learning areas）**— 传统学科内容
@@ -51,7 +51,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note] 时间线
+> [!note|notitle] 时间线
 > - 2012 年 ACARA 董事会批准澳大利亚课程
 > - 2014 年联邦政府识别出课程过度拥挤问题
 > - 2015 年 3 月教育部长会议讨论课程改进
@@ -60,20 +60,20 @@ updated: 2026-10-16
 
 ## 实施情况
 
-> [!example] 实施情况
+> [!example|notitle] 实施情况
 > - ACARA 负责系统性地评估课程，收集反馈并分析课程有效性数据，每年向政府和公众报告([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.127]])
 > - ACARA 董事会决定最新发现是否需要进一步评估和课程变更
 > - 澳大利亚学校实践"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.128–129]])
 
 ## 效果与评价
 
-> [!success] 效果与评价
+> [!success|notitle] 效果与评价
 > - 2014 年课程审查发现"课程过度拥挤"问题，随后采取步骤改进([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.127–128]])
 > - 课程连接方法被认为"不会失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）
 
 ## 相关概念／理论
 
-> [!example] 相关概念／理论
+> [!example|notitle] 相关概念／理论
 > - [[Visible Learning]] — VL 为澳大利亚教学策略（如 [[Victorian HITS and Literacy Toolkit\|HITS]]）提供研究基础
 > - [[Evidence-Based Education]] — 澳大利亚教师被提供数据收集和管理的专业指南
 

@@ -39,12 +39,12 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 ## 核心主张
 
-> [!info] 核心主张
+> [!info|notitle] 核心主张
 > Refraction Framework（折射框架）是 [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] 提出的理解学校与不平等关系的理论框架。其核心主张：学校是"不平等折射器"（refractors of inequality）——正如光线进入新介质（如从空气到水）时会发生折射，不平等在学生进入学校时也会改变轨迹([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])。
 >
 > > "Much like light is refracted when it enters a new medium (e.g., from air to water), we argue that inequalities are refracted when children enter schools."
@@ -91,7 +91,7 @@ updated: 2026-10-17
 
 ## 发展脉络
 
-> [!note-] 发展脉络
+> [!note-|notitle] 发展脉络
 > - **1966** — [[Coleman Report 1966\|Coleman Report]] 发布，结论：学校对成就差距的作用很小；家庭背景是主要驱动力（Coleman et al., 1966）
 > - **1970s–1990s** — "批判视角"兴起并主导教育社会学：学校要么再生产（Bourdieu, 1977; Bowles & Gintis, 1976）要么加剧不平等（Kozol, 1992; Oakes, 1985）
 > - **1978–2004** — [[Seasonal Comparison\|季节性比较]]研究积累：Heyns (1978) 首次发现暑假 [[Socioeconomic Status|SES]] 差距扩大快于学年 → Entwisle & Alexander (1992, 1994) 巴尔的摩[[Longitudinal Study\|纵向研究]] → Downey et al. (2004) 首次全国代表性 ECLS-K 分析，均指向学校对 SES 认知差距的补偿作用
@@ -99,7 +99,7 @@ updated: 2026-10-17
 
 ## 研究范式
 
-> [!info] 研究[[Paradigm\|范式]]
+> [!info|notitle] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Postpositivism\|后实证主义]]——承认学校效应的[[Causality\|因果推断]]需要严格方法（[[Seasonal Comparison\|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
 > - **核心方法论**[[Seasonal Comparison]] — 利用学年 vs 暑假的自然实验设计
 > - **与传统方法的区别** 反对仅通过统计控制家庭背景或预测[[Learning Gain\|学习增值]]来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.3]])
@@ -126,7 +126,7 @@ updated: 2026-10-17
 
 ## 应用领域
 
-> [!success] 应用领域
+> [!success|notitle] 应用领域
 > - [[Coleman Report 1966]] — 折射框架是在 Coleman Report 发布 50 年后对其核心问题的重新回答
 > - [[Seasonal Comparison]] — 折射框架核心经验基础的方法论
 > - 教育政策评估：为理解学校问责制（如 [[No Child Left Behind Act 2001\|NCLB]]、value-added models）提供[[Analytic Framework\|分析框架]]

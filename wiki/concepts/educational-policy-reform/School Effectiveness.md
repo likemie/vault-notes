@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # School Effectiveness
@@ -320,7 +320,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Ball_2008_SR\|Ball (2008)]] — 运用[[Governmentality|治理术]]视角解构英国教育社会学史，揭示学校效能[[Discourse|话语]]如何抽离阶级语境，将学校重构为接受 [[Ofsted]] 视导与排名的常模治理客体。
 > - [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] — 结合知识商品化与学术重商主义，剖析英美高校国际发展部与跨国资本如何将学校效能打包为咨询商品向全球受援国兜售并导致实践脱节。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 提出学校效能研究的两类[[Paradigm|范式]]划分（第一类校内微观 vs 第二类校际宏观），基于 70%–80% 家庭背景方差实证批判政策界混淆两类范式的[[Category Mistake|范畴谬误]]与政治卸责（pp. 97–99）。

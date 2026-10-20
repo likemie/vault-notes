@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Encyclopaedic Definition of Knowledge
@@ -201,5 +201,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示[[Global Educational Discourse|全球教育话语]]如何全盘否定本土百科全书式知识传统，并实证分析课程自主权改革在阿根廷引发的商业教辅抄袭异化。

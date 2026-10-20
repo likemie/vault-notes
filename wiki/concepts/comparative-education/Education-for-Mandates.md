@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Education-for-Mandates
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 使命性教育嵌入（Education-for-Mandates） | 专门教育多边治理 | [[Global Education Industry\|全球教育产业]]外包 |
 > |---|---|---|---|
 > | **行动主体** | 经济协调组织（[[OECD]]、世行）、区域贸易组织（ASEAN、Caricom） | [[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF） | 跨国出版集团（Pearson）、咨询巨头（McKinsey） |
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **五大外延性使命[[Discourse|话语]]类型（Thematic Line of Argumentation）** 跨界组织普遍将教育归口于五大[[Grand Theory\|元叙事]]：① 教育促进经济增长（Economic Growth）；② 教育维护地缘和平（Peace）；③ 教育增进国际理解（International Understanding）；④ 教育推动可持续发展（Sustainable Development）；⑤ 教育支撑全球[[Knowledge-Based Economy\|知识经济]]（Global Knowledge Economy）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **经济金融机构的压倒性渗透（Dominance of Economic Coordination IOs）** 经济合作类机构凭借雄厚的主权出资网络与财政贷款权力，在所有涉教育国际组织中占比高达 33.3%，构成跨界嵌入的主导力量。
 > - **组织生存与利基开辟逻辑（Organisational Survival & Niche Carving）** 冷战时期斯普特尼克危机等外部地缘震荡，迫使 [[Organisation for European Economic Co-operation\|OEEC]]/[[OECD]] 等传统经济组织寻找新的增长点，将教育界定为高精尖技术人员供给母体，借此实现官僚机构的自我续命与权能扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1945–1960 — 专门机构双寡头格局** 战后初期仅有[[International Labour Organization\|国际劳工组织]]（ILO）与[[UNESCO\|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
 > - **1961–1970s — 冷战地缘催化与跨界嵌入肇始** 经合组织（1961）借斯普特尼克危机将教育锚定为经济防务工具；世界银行（1964）借道教科文组织入场，开启以教育促进经济增长的使命嵌入。
 > - **1990s–2005 — 区域化跨界浪潮与总量饱和** [[ASEAN|东南亚国家联盟]]（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
@@ -192,5 +192,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 正式应用使命性教育嵌入概念，揭示跨界国际组织如何将教育绑定于经济增长使命以推行[[Policy Brokerage\|政策中介]]工具。

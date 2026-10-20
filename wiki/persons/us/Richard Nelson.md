@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Richard Nelson
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1930** 出生于美国。
 > - **1956** 获卡内基梅隆大学博士学位，先后任职于兰德公司（RAND Corporation）与总统经济顾问委员会（CEA）。
 > - **1959** 在 *Journal of Political Economy* 发表《基础科研经济学》（*The Simple Economics of Basic Scientific Research*），奠定公共科研投资[[Market Failure|市场失灵理论]]基石。
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与 Freeman、Lundvall 并列为现代创新经济学与[[National Innovation System|国家创新系统]]学派的三大理论柱石；与 Winter 共同奠定了[[Evolutionary Economics|演化经济学]]经典教科书体系。
 > - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与[[Competitiveness|国家竞争力]]评估标准。
 > - **跨国学术网络构建** 1993 年工程汇聚了全球数十位经济学家和历史学家，成为推动比较制度分析（Comparative Institutional Analysis）的主导力量。
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **终身理论盟友** [[Chris Freeman]] — 共同开创[[Evolutionary Economics|演化经济学]]国际学术网络与[[National Innovation System|国家创新系统]]理论。
 > - **终身理论盟友** [[Bengt-Åke Lundvall]] — 共同推进互动学习与国家[[Systems of Innovation|创新系统]]的国际比较。
 > - **微观理论合作者** Sidney G. Winter — 共同开创基于组织惯例的现代演化经济学[[Paradigm|范式]]。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thick Belonging
@@ -165,5 +165,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 系统构建“薄弱归属感”与“丰厚归属感”的对比框架，阐明正典瓦解如何诱发硅谷科技精英的政治脱嵌与[[Technological Agnosticism|技术不可知论]]。

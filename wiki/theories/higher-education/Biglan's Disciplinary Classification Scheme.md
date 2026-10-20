@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Biglan's Disciplinary Classification Scheme
@@ -52,7 +52,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 高等教育学术学科在知识结构、[[Paradigm\|范式]]共识、学术文化、教学组织与认知图式上的系统性差异。
 > - **理论问题** 打破将所有大学学科视为均质整体的传统假设，构建能够解释不同学科教学、学习与[[Epistemology\|认识论]]特征的结构性分类坐标。
 > - **理论类型** 中层分类理论与结构[[Analytic Framework\|分析框架]]。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1973 — Biglan 奠定三维模型** Anthony Biglan 基于 36 个大学系的教师认知聚类，提出 Hard/Soft、Pure/Applied、Life/Non-life 分类法。
 > - **1990 年代 — [[Epistemology\|认识论]]心理学整合** Jehng et al. (1993) 与 Paulsen and Wells (1998) 首次将 Biglan 分类引入学生个人[[Epistemological Beliefs\|认识论信念]]研究。
 > - **2007 — 纵向追踪验证** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 运用 Biglan 架构验证了 7 大学科门类的认识论自我选择与社会化机制。
@@ -157,5 +157,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 应用 Biglan 学科软硬分类框架，纵向证实了硬科学与应用学科强化确定性、软科学解构确定性的[[Disciplinary Socialization\|学科社会化]]规律。

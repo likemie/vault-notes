@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Service Delivery Indicators Classroom Observation Module
@@ -143,5 +143,5 @@ SDI 观察模块主要解构为四大维度的基本服务交付指标。
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 SDI 列为发展中国家既有观察体系的关键代表进行对照梳理。

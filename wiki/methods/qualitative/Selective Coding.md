@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Selective Coding
@@ -199,6 +199,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 系统阐释[[Grounded Theory\|扎根理论]]选择性编码中以[[Story Line\|故事线]]为起点提炼[[Central Phenomenon\|核心范畴]]的五步迭代规程，确立浅层包容层级控制原则与去情境化防范机制（pp. 561–562）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 论述质性数据分析中发展故事线解释与核心主题整合的操作方法，强调通过故事叙述将主轴模型转化为实质性理论框架（p. 209）。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Codification（生存境遇编码）
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 编码（Codification） | 传统直观教具（Visual Aids） |
 > |------|------------------------|--------------------------|
 > | **功能目的** | 拉开反思距离，呈现社会矛盾与权力关系 | 辅助学生记忆抽象概念或事实点 |
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **现实对象化（Objectification）** 将主观沉浸的生存苦难转化为外部可观察讨论的表象对象。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53)]]
 > - **矛盾凝聚性（Condensation）** 编码符号必须紧扣并凝聚社会权力关系的核心矛盾（如泥砖与泥塘棚屋对比）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **开放对话性（Dialogical Openness）** 编码图像留出多义解读与批判追问空间。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将编码作为[[Problem-Posing Education\|提问式教育]]的具象探究中介。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105, 引自 Darwish, 2009)]]
 > - **2005 — 批判识字推广** 希尼（[[Theory of Mind|ToM]] Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens\|(Heaney, 2005; Darwish, 2009, p. 53)]]
 
@@ -132,5 +132,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 记录[[Paulo Freire\|弗莱雷]]如何将泥砖照片制成编码诱导蔗农开展批判性解构。

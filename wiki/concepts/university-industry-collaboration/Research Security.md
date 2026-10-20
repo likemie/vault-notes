@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Research Security
@@ -214,7 +214,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 区分自愿共享与被不对称抽取。开放发表仍被当作科学进步的条件。比较劣势在于对手限制自己的数据、同时使用美国培养的人和美国论文，并把突破首先在自己的工厂放大。
 > - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 阐述滑铁卢大学如何在[[University-Industry Collaboration|产学合作]]中通过设立保障研究（Safeguarding Research）专业团队，在[[Academic Freedom|学术自由]]与安全防护之间达成平衡，化解教师的地缘与法律焦虑并支撑高额产业研发网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统论证 2016 年以来科研安全如何上升为大国竞争核心议题并全面法定化，揭示其对科学国际主义公理的瓦解与学术自治受限机制。

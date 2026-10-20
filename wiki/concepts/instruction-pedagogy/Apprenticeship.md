@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Apprenticeship
@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **中世纪至 18 世纪 — 传统行会学徒制** 依赖手工业行会自主规制，手艺师傅与学徒建立依附性人身契约，具有较强的排他性与地方性壁垒。
 > - **19 世纪 — 现代国家协调下的技术学徒制** 普鲁士创设工艺学校（[[Gewerbe-Institut]]），将正规工程教学与工坊学徒训练打通，为工业革命提供规模化熟练工匠网络。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 > - **20 世纪下半叶 — [[German Dual Education System|双元制]]与[[Cognitive Apprenticeship|认知学徒制]]分化拓展** 在比较资本主义（[[Varieties of Capitalism]]）中，德国双元制学徒培训成为协调型市场经济（CME）的标志；在教育科学中，Collins 等学者将其抽象为“[[Cognitive Apprenticeship|认知学徒制]]”，用于指导[[Higher-Order Thinking Skills|高阶思维]]教学。
@@ -337,7 +337,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 批判美国隐形[[Developmental Network State|发展型网络国家]]在[[Market Fundamentalism|市场原教旨主义]]支配下奉行削弱工会与压低工资的“低工资道路”，实证揭示联邦制造技能资助匮乏（MEP 年均仅 1 亿美元、人均 6 美元）导致的熟练技工断层与高科技制造（如平板显示）外流危机，论证三方协同技能形成的战略意义。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划全谱系人才开发（Goal 3），将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] 劳动力卓越中心深度绑定，培育芯片制造产线高技能操作与排障技师。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判“设计与制造二分法”对美国工程创新底座的损害，提出每年培育 100 万名注册学徒的战略目标，论述工艺知识保全、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]、按绩效付费以及“国家工匠学者”制度在重构前沿制造韧性中的关键支撑。

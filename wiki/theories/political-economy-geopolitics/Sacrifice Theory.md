@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sacrifice Theory
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!theory-components] 核心要素
+> [!theory-components|notitle] 核心要素
 > - **“牺牲—感恩—忠诚”的闭合循环** 共同体值得牺牲（预设） $\to$ 成员做出牺牲 $\to$ 牺牲证明了共同体的道德价值 $\to$ 幸存者因债务感而更加忠诚 $\to$ 进一步要求并合理化更多的牺牲。该循环具有强烈的自我强化特征。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 109]])
 > - **逻辑反转（Inversion）** 牺牲不是共同体价值的“结果”，而是共同体价值的“来源”——正是因为有人愿意为之流血或消亡，该共同体才在道德上变善。
 > - **自愿性的修辞** 牺牲在政治[[Discourse|话语]]中必须被呈现为“自愿的”。被迫的牺牲仅是压迫性暴力，无法产生道德增信；只有当牺牲被塑造成受害者的主动贡献时，它才能转变为统治合法性的来源。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 98, p. 109]])
@@ -110,6 +110,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 首次将哈尔伯塔尔的牺牲理论引入中国的少数民族国族建构研究，剖析了同化暴力的道德化机制。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 牺牲理论在地方语言替代危机中的核心经验载体，展现了精英表彰、政治清洗与个体自决中的牺牲逻辑。

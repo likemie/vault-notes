@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Fei Xiaotong
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1910** 出生于江苏吴江。
 > - **1930s** 先后在清华大学及英国伦敦政治经济学院（LSE）学习，师从人类学家布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski）。
 > - **1939** 出版博士论文 *Peasant Life in China*（《江村经济》），开创以社会人类学方法研究本国乡村社区的先河。
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 确立了中国民族学与[[Ethnography\|人类学研究]]的[[Paradigm\|范式]]。其“多元一体”概念为[[Ma Rong\|马戎]]倡导的“[[Depoliticalization of Ethnic Policy\|民族政策去政治化]]”以及“[[Second-generation Ethnic Policy\|第二代民族政策]]”讨论提供了理论源头。[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 102–103)]]
 > - **政策路径** 为国家由“多民族国家”向“单一国族”政策的转型提供了理论底座。2002 年中共党章修改将党重新定义为“[[Zhonghua Minzu\|中华民族]]的先锋队”，标志着这一转向在制度层面的确立。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]
 > - **教育路径** 其领土型中国观成为中国大陆历史教科书叙事的基础。[[Argument_Xu_2024_CE\|Xu (2024)]] 指出，大陆初中历史教科书普遍将当代疆域逆向投影至古代，将古代各政权间战争重构为家门内摩擦，正是“多元一体”框架在课程层面的具体落实。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 580–583)]]
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski） — 博士生导师，社会功能主义的引介者。
 > - **批评者／论敌** [[Hsu Cho-Yun\|许倬云]] — 提出以汉文化为核心的“族裔文化型中国观”，与领土型中国观构成学术竞争。[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **后继者** [[Ma Rong\|马戎]] — 承接其淡化民族政治差异的取向，提出将民族问题去政治化与社会学化。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]

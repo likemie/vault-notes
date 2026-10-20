@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Framing
@@ -145,7 +145,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1974 — 认知与社会学框架奠基** [[Michael Gove|戈夫]]曼（[[Erving Goffman]]）在《框架分析》（*Frame Analysis*）中提出框架概念，界定个体与群体组织感知并解释社会现实的基本认知图式。
 > - **1986–1988 — 社会运动与集体行动框架** 斯诺与本福德（David A. Snow & Robert D. Benford）确立核心框架任务（Core Framing Tasks）：诊断性框架（[[Problem Finding|问题界定]]与归因）、处方性框架（解法与策略）与激励性框架（行动动机与道德召唤）。
 > - **1993 — 政策争议与顽固问题重构** 赖因与舍恩（Martin Rein & [[Donald A. Schön]]）在《框架反思》（*Frame Reflection*）中提出政策框架理论，揭示政策制定者如何通过框架建构解决棘手争议并形成政策信念体系。
@@ -171,5 +171,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用批判政策[[Discourse Analysis|话语分析]]将政策框架化三维结构与中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]解构对接，揭示国家复兴[[Grand Theory|宏大叙事]]如何限定教育合作合法性空间（pp. 681–687）。

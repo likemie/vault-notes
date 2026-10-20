@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Regional Innovation System
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 区域[[Systems of Innovation\|创新系统]]（RIS） | [[National Innovation System\|国家创新系统（NIS）]] | 传统高新产业开发区 |
 > |------|-------------------|-------------------|-------------------|
 > | **分析对象** | 次国家区域网络（产业集群、创新走廊、都市圈科技圈）。 | 民族国家整体科技、教育、法规与产业协调架构。 | 特定规划红线内的园区物理空间与入驻企业集合。 |
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **地理邻近性与空间集聚** 企业、供应商与科研机构在地理半径内的紧密聚集，大幅降低跨组织搜寻与沟通成本。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **[[Tacit Knowledge|隐性知识]]面对面溢出与专业劳动力池** 行业绝招、工艺经验在本地咖啡馆、行业酒会与跨企业跳槽中低成本扩散，形成马歇尔式“行业秘密飘在空气中”的浓厚氛围。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **地方制度厚度与社会信任资本** 地方行业公会、[[Technology Transfer|技术转移]]中介、信用联盟与地方政府形成的非正式合作惯例，提供抗风险与协同创新缓冲。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1890 — [[Industrial District|工业区]]理论思想萌芽** 阿尔弗雷德·马歇尔在《经济学原理》中提炼出“工业区”（Industrial Districts）概念，阐发专业劳动力蓄水池、专门技术服务与“行业秘密飘在空气中”的外部经济机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **1980s — 灵活专业化与第三意大利现象** 贝卡蒂尼（Becattini）等意大利学者揭示中北部地区中小企业网络凭借深厚地方社会网络与工匠文化，在国际市场上展现出极强的柔性生产与创新活力。
 > - **1992/1995 — 区域[[Systems of Innovation|创新系统]]概念成型** 菲利普·库克（Philip Cooke, 1992）正式提出“区域创新系统”概念；[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》中将次国家下层区域（nether regions）作为国家系统的重要支柱进行系统阐发。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 基于 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统提炼新产业形成、产业移植、产业多元化与既有升级四类产业转型路径，打破单一专利许可神话，构建大学与本地产业结构匹配模型。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合[[Industrial District|马歇尔工业区]]思想史考证，系统论述次国家下层区域（nether regions）如何通过地理邻近、面对面隐性流动与社会信任为[[National Innovation System|国家创新体系]]奠定微观底座。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统阐明[[Innovation Ecosystem|区域创新生态]]中网络失灵与能力失灵的诊断工具，论述大学在区域技术吸收与跨界协作中的催化作用。

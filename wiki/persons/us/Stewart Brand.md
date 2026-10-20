@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Stewart Brand
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想受惠者** [[Steve Jobs]] — 乔布斯称《[[Whole Earth Catalog|全球概览]]》为“我们那一代人的圣经之一，就像纸质版的 Google”。
 > - **技术社区同行** [[Lee Felsenstein]] — 共同活跃于[[San Francisco Bay Area|旧金山湾区]]反文化与早期技术社区。
 > - **记录与同盟者** [[Steven Levy]] — 利维多次引述并记录布兰德对黑客文化与数字自由主义的开创性贡献。
@@ -148,5 +148,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统评述布兰德《[[Whole Earth Catalog|全球概览]]》及其 1995 年论文，剖析反文化反集权哲学如何成为硅谷个人计算革命的思想基石并导致科技界与国家战略使命的脱节（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

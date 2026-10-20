@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Subsidiarity Principle
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **最低有效层级优先** 坚持凡能由基层、地方或成员国独立解决的事项，更高层级机构不得僭越行使权力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **从属性与补充性干预** 上级机构的介入行为必须具备严格的必要性与比例原则（Proportionality），仅在提供支持、协调与资源补充的限度内运作。
 > - **主权防御性盾牌** 在跨国治理中充当成员国抵御超国家机构统一化规训的法律安全阀，保护各民族文化的独特性与课程主权。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1931 — 思想起源** 天主教社会训导（如教宗庇护十一世《四十年通谕》）首次系统阐述辅助性原则，主张高级社团不得剥夺次级社团与家庭的固有职权。
 > - **1992 — 条约确立** 《马斯特里赫特条约》（第 126 条，现《[[EU|欧洲联盟]]运行条约》第 165 条）正式将辅助性原则载入欧盟宪制，确立欧盟在教育领域仅承担补充性与协调性职能。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2000 — 治理转型** [[Lisbon Strategy|里斯本战略]]正式启动[[Open Method of Coordination|开放协调法]]（OMC），辅助性原则成为软法治理与量化基准线监测合法性辩护的理论支点。

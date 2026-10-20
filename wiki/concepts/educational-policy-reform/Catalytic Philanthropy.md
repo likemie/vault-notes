@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Catalytic Philanthropy
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **撬动公共财政的放大器效应（Financial Catalysis and Co-funding）** 催化慈善的资金从不追求包揽全部成本，而是通过先期投入[[Seed Funding|种子基金]]，向政府施加政治压力，迫使公共财政提供多倍配资（[[Matching]] Funds），实现资本影响力的指数级放大。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526)]]
 > - **因果证据[[Discourse|话语]]垄断（Evidence Monopoly as Trojan Horse）** 将[[Randomised Controlled Trials\|随机对照试验]]（RCT）等特定因果实证工具包包装为“客观中立”的科学标尺，通过催化设立证据中介，迫使公立学校依据量规组织教学。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 530–531)]]
 > - **跨界网络动员能力（Orchestration of Heterogeneous Networks）** 捐赠者充当网络编排者（Network Orchestrator），联合智库、跨国咨询公司与高阶官僚协同游说，形成不可逆的改革势头。
@@ -155,7 +155,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2009 — 《哈佛商业评论》正式提出催化慈善** Mark Kramer 发表奠基论文《Catalytic Philanthropy》，系统阐述捐赠者应扮演社会变革催化剂，运用商业思维重组利益相关者生态。
 > - **2013 — 美国教育催化慈善实证批判** Sarah Reckhow 出版《Follow the Money》，系统追踪盖茨与布罗德基金会如何运用催化资本全面主导纽约与洛杉矶公立学校改革。
 > - **2014 — 英国与澳大利亚跨国工具包催化移植** 英国 [[Education Endowment Foundation\|EEF]] 与澳洲 [[Social Ventures Australia\|SVA]] 结成战略联盟，以催化慈善名义将循证中介工具包引入澳洲，开启证据催化在英联邦体系内的扩散。
@@ -190,7 +190,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 深入解构 [[Social Ventures Australia\|SVA]] 如何践行[[Bill & Melinda Gates Foundation|盖茨基金会]]的“以证据为基础的催化慈善”模型，在澳大利亚公共教育中撬动国家设立三大中介。
 > - Kramer, M. R. (2009) — 奠基之作，系统提出并阐释“催化慈善”的概念[[Paradigm\|范式]]与实践原则。
 > - Reckhow, S. (2013) — 实证考察催化慈善在纽约与洛杉矶学校改革中的资金流动与权力网络。

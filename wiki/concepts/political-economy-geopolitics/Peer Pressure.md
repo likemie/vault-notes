@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Peer Pressure
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（同行压力） | [[Multilateral Surveillance\|多边监督]] | 财政条件附带机制（[[Policy Conditionalities\|Policy Conditionality]]） |
 > |---|---|---|---|
 > | 驱动机制 | 声誉资本、国际认同与排名焦虑 | 常态化信息披露与对等互审规程 | 贷款发放与债务偿付的硬性约束 |
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **国际声誉资本与合法性认同** 主权国家将自身在国际同侪群体中的文明形象与先进地位视作核心国家利益，极度惧怕被判定为落后或失败政体。（Martens et al., 2004）
 > - **跨国公开曝光与透明度要求** 制度化要求政策辩护与评估结果面向所有成员国乃至全球公众公开，切断闭门掩盖政策缺陷的可能性。（OECD, 1998）
 > - **联赛排名带来的排位恐慌** 将复杂的教育过程简化为一目了然的高低名次表，使得微小的成绩差距转化为巨大的政治执政合法性危机。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960s–1980s — 外交与专家层面的闭门[[Peer Debriefing|同行审议]]** [[OECD|经合组织]]早期教育委员会开展的同行互评主要面向各国内部高级政策官员与学者，侧重经验共享与建设性政策建议，同行压力呈现出低烈度与协商性特征。
 > - **1990s — [[New Public Management|新公共管理]]与透明度[[Discourse|话语]]规范化** 伴随新公共管理与政府绩效评估思潮普及，同行压力被正式理论化为提高政策透明度、打破部门垄断与倒逼行政自我批判的制度利器（OECD, 1998）。
 > - **2000s 至今 — 联赛排名与全球舆论场激化** [[PISA]]测评报告与[[World Education Indicators|世界教育指标]]的公开排位彻底改变了同行压力的生态，使其从政府间审议扩展为面向全球媒体与大众政治的公开问责风暴，成为超国家组织实施远处掌舵的统治性杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 447)]]
@@ -173,5 +173,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 440–442, 447)]] — 阐明[[OECD|经合组织]]如何利用联赛排名激化同行压力，将外部横向比较转化为民族国家内部深层的教育政策恐慌与改革动力。

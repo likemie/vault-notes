@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Theory of Mind
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 儿童如何理解自己与他人的内在心理状态（信念、欲望、意图、知识），以及如何认识到心理表征可能与客观物理现实存在偏差（错误信念）。
 > - **理论问题** 传统发展心理学（如早期[[Jean Piaget|皮亚杰]]学派）假定学龄前儿童处于不可自拔的自我中心状态，无法进行[[Epistemology|认识论]]反思；心智理论旨在揭示个体从婴儿期到幼儿期逐步形成心理表征能力的发育机理。
 > - **理论类型** 认知发展与社会认知解释理论。
@@ -147,7 +147,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 婴幼儿与儿童早期社会认知、同伴交往、信源信任、虚假信息识别初阶表现。
 > - **成立条件** 依赖对儿童注意力、言语理解水平与特定测试情境复杂度的精细控制。
 > - **解释不足** 心智理论主要解决心理状态的觉察机制，无法单独解释青少年与成人阶段高度复杂的学科[[Epistemology|认识论]]辩护体系与社会意识形态偏见。
@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将儿童心智理论（尤其错误信念与选择性信任）系统确立为[[Epistemic Cognition|认识论认知]]发育的核心前置基础，填补了教育心理学在儿童早期发展阶段的理论空白。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录[[John Hattie|哈蒂]]关于 1 至 2 岁幼儿心智理论发育与 3 岁因果追问的认知洞见，以此为据论证早期教育应重在建构[[Active Learning|主动学习]]观念而非形式化知识灌输。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 辨析发展心理学的心智理论与认知科学的[[Extended Mind Theory|延展心智理论]]在概念传统上的本质区别。

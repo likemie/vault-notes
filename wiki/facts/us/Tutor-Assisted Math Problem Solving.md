@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Tutor-Assisted Math Problem Solving
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TAMPS 列为初等数学 Tier 3 助教个别辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何依托高阶基模辅导在 Tier 3 阶段彻底阻断应用题学业失败。
 > - [[Pirate Math]] — TAMPS 的主题化演化形态，二者共享同源基模认知干预内核。

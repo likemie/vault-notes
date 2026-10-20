@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Social Imaginary
@@ -269,7 +269,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 经典建构：系统运用社会想象概念解构[[OECD|经合组织]]从社会民主妥协向[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 地缘拓展：运用[[Critical Geopolitics|批判地缘政治学]]与社会想象透镜，论证亚洲崛起作为重塑全球高等教育格局的独立因果力量。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 学科反思：援引社会想象与跨国知识帝国理论，分析国际组织对比较教育学科自主性的深层重塑。

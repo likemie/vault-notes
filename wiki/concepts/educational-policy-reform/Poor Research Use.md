@@ -44,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Poor Research Use
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 劣质[[Research Utilization\|研究使用]]（Poor Research Use） | [[Research Utilization\|研究非使用（Non-use）]] | [[Conceptual, Instrumental, and Symbolic Use of Research\|象征性研究使用（Symbolic Use）]] |
 > |---|---|---|---|
 > | **分析对象** | 学校微观教学与管理中的异化采纳实践 | 从业者未发生任何研究接触的行为状态 | 宏观政策或组织用于公关辩护的修辞策略 |
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — [[Research Utilization\|知识利用]]概念分化** [[Carol Weiss\|卡罗尔·韦斯]]（Carol Weiss）系统提出研究利用的工具性、概念性与象征性/政治性分类，初步触及政策场景中证据被工具化甚至滥用的现象。
 > - **2007 — 证据误用与政策张力探讨** 桑德拉·纳特利（Sandra Nutley）等学者分析公共服务中证据运用的复杂阻滞，指出教条化循证实践可能带来负面扭曲效应。
 > - **2020–2022 — 学校实践情境下劣质使用概念的正式确立** 澳大利亚莫[[Roy Nash|纳什]] [[Monash Q Project\|Q Project]]（Monash Q Project）团队在建构[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）过程中，通过对 906 名一线教育者的两轮[[Questionnaire\|问卷]]与[[In-depth Interview\|深度访谈]]，首次在实证上系统归纳了教育实践者对劣质研究使用（Poor Research Use）的四维质性定性，使其成为与高质量使用相呼应的核心学术分析范畴。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 189–191)]]
@@ -181,6 +181,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 依托[[Monash Q Project\|莫纳什 Q 项目]]系统提炼教育工作者关于劣质[[Research Utilization\|研究使用]]的质性定性，展示证据基础、心智倾向、[[School Leadership\|学校领导]]与实践成效的四维诊断矩阵。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 以英格兰 79 所小学的基线调查显示，仅半数实践者反对在缺乏研究支撑时实施全校性变革，并把这一追风风险与问责框架对证据类型的筛选作用联系起来。

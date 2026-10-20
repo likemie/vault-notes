@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Carl Bereiter
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1934** 出生于美国，后定居并长期执教于加拿大。
 > - **1959** 获得美国威斯康星大学[[James Madison|麦迪逊]]分校心理学博士学位。
 > - **1960s** 早期投身于学前弱势儿童的补偿教育研究，与西格弗里德·恩格尔曼（Siegfried Engelmann）合作提出高结构化的早期[[Direct Instruction|直接教学]]方案。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 与斯卡达马利亚共同创立[[Knowledge Building Theory|知识建构理论]]，深刻影响了学习科学（Learning Sciences）的学术议程，确立了以学习共同体、观点改善与概念[[Artefact|人工制品]]为核心的现代[[Constructivist Paradigm|建构主义范式]]。
 > - **循证教学论中介** 贝莱特对[[Popper's Three Worlds Theory|波普尔三世界理论]]的引介直接启发了[[John Hattie|约翰·哈蒂]]（Hattie, 2009）在《[[Visible Learning|可见的学习]]》中的理论建构。哈蒂沿用了贝莱特的分析进路，将[[Surface and Deep Learning|表层学习]]对应于世界一物理信息、深层学习对应于世界二心理加工、建构性理解对应于世界三概念理论建构。
 > - **课程哲学批判审议** 贝莱特对波普尔哲学的教育学移植，成为当代[[Didaktik|欧陆教学论]]与批判教育哲学家（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Rømer_2018_EPT|Rømer, 2018]]）剖析[[Evidence-Based Education|循证教育]]去内容化困境与[[Epistemology|认识论]]偏差的核心参照。
@@ -131,7 +131,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心科研合作者** 玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）— 长期科研搭档，共同发展[[Knowledge Building Theory|知识建构理论]]与国际知识建构联盟。
 > - **科学哲学渊源** [[Karl Popper|卡尔·波普尔]]（Karl Popper）— 批判理性主义哲学家，其[[Popper's Three Worlds Theory|三世界理论]]与客观知识演化观为贝莱特后期思想提供了哲学支撑。
 > - **循证教学引述者** [[John Hattie|约翰·哈蒂]]（John Hattie）— 在可见学习中直接采纳贝莱特对波普尔三世界与容器意识理论的解说，构建其认知分层教学模型。

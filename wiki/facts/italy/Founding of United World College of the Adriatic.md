@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Founding of United World College of the Adriatic
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **地方嵌入成为校园原则** 教学、住宿、体育和图书资源散布于杜伊诺及周边机构，日常移动和资源共享增加了学生与东道社区接触。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 127–128)]]
 > - **公共支持形成强 [[United World Colleges\|UWC]] 模式** 地方与中央资本、奖学金和临时校舍共同维持书院，使其公共身份比依赖家庭缴费的国际私立学校更强。
 > - **开学日期协调多方承诺** 1982 年期限把预算、法人、领导任命和修缮压入同一进程，防止已取得的公共资金因继续延期而失效。

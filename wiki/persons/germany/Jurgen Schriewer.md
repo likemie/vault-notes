@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Jurgen Schriewer
@@ -83,7 +83,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1942** **德国出生与法德学术渊源** 出生于德国，早年在波恩大学等学府深造，熟谙法国思想史与社会学，奠定了跨越德法两国学术传统的方法论视野。
 > - **1980s** **法兰克福大学研究与[[Niklas Luhmann|卢曼]]系统论结合** 任教于法兰克福大学期间，深受德国社会学[[Positivism|实证主义]]争论与系统论洗礼，开始系统引入[[Niklas Luhmann|卢曼]]的[[Autopoiesis|自创生]]系统论，探索跨国教育转移中的意义生产机制。
 > - **1990** **发表[[Externalization|外化]]理论奠基性论文** 在与[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）合作编纂的论文集中发表《比较作为方法与外化的需求》（*The method of comparison and the need for externalization*），首次确立外化概念为比较教育学破解因果确定论迷思的核心[[Epistemology|认识论]]工具。

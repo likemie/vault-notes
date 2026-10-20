@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Path Dependence
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释技术创新、制度变迁与产业演化过程中，早期的偶然选择或初始优势如何通过自我强化机制演化为长期主导格局，以及系统为何在面对更优替代方案时仍陷入次优技术或制度锁定（Lock-in）。
 > - **理论问题** 回应新古典经济学关于“市场力量总能自发选择最优技术方案”与“无摩擦资源配置”的完备理性假说，解释历史时间性、非遍历性（Non-ergodicity）与正反馈效应在塑造[[Technological Trajectories|技术轨道]]路线中的决定性作用。
 > - **理论类型** 解释理论（Explanatory Theory）与[[Evolutionary Economics|演化经济学]]/[[Historical Institutionalism|历史制度主义]][[Analytic Framework|分析框架]]。
@@ -186,7 +186,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 具有显著网络外部性、强工具链依赖、高研发资产沉没与长人才培养周期的技术体系（如操作系统、处理器指令集、集成电路制造工艺），具有高转换成本的公共科研资助体制，以及包含严密法律契约与法定[[Counterpart Funds|配套资金]]的主权借贷与超国家发展援助治理。
 > - **成立条件** 存在多种可行竞争路径的开放初期；存在驱动正反馈扩增的自我强化机制；存在显著的技术迁移与重构成本。
 > - **解释不足** 容易陷入“历史[[Determinism|决定论]]”，低估产业主体的能动性创新、反垄断政策干预与颠覆性技术跃迁（Disruptive Innovation）对既有路径的解构与破局能力。
@@ -221,7 +221,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 揭示[[Multilateral Development Bank|多边开发银行]]主权贷款协议中的双重路径依赖机制：法定[[Counterpart Funds|对等资金]]与契约惰性抵御内阁政客更迭的减震效应，以及报销审计铁笼导致的病态合规锁定与“白色大象”。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。

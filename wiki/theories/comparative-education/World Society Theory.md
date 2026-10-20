@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # World Society Theory
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 全球范围内主权国家制度结构（如学校学制、宪法、公民身份）、组织特征与个体身份认同在非强制条件下的高度趋同（isomorphism / convergence）现象。
 > - **理论问题** 为什么在政治、经济与文化传统差异巨大的国家之间会形成惊人相似的大众教育体系，全球化如何在缺乏单一世界中央政府的情况下促成制度秩序的稳步扩散。
 > - **理论类型** 宏观社会学解释理论、新制度主义组织理论、全球文化[[Analytic Framework|分析框架]]。
@@ -193,7 +193,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 跨国政策文本的表层扩散、国际组织推动的标准化多边协议、国家学制形式指标的同质化进程、现代大学组织使命声明的趋同。
 > - **成立条件** 处于开放且积极寻求融入国际体系的制度环境；跨国知识网络与多边组织保持畅通的政策沟通渠道。
 > - **解释不足** 
@@ -249,7 +249,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bonsai Army
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1951 — [[Dwight D. Eisenhower|艾森豪威尔]]的同盟预警** 德怀特·D. 艾森豪威尔致信芝加哥银行家爱德华·伯明翰，强调美国不能成为守卫远方边疆的现代罗马军团，呼吁欧洲迅速建立自卫军事能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
 > - **1990–2010年代 — 和平红利与军备缩编** 冷战结束后欧洲各国大幅缩减常备军规模，削减重装师团与国防工业产能，将公共资源转投福利与民生领域。
 > - **2016 — 奥巴马的搭便车批评** 美国总统巴拉克·奥巴马在接受采访时公开批评欧洲盟友防务支出未达 GDP 2% 的门槛，对安全搭便车提出明确批评。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–42)]]
@@ -202,6 +202,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻诊断欧洲冷战后安全搭便车引发的盆景军队与盆景产业困境，系统论证通过新一代实战人工智能与软件系统非对称重构战力底座的破局路径。
 

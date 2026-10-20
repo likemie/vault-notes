@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Ernst von Glasersfeld
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1917** 出生于德国慕尼黑，成长于奥地利与瑞士，在多语环境中培养起对概念界定与符号表达的敏锐感知。
 > - **1947–1961** 在意大利米兰与哲学家西尔维奥·切卡托（Silvio Ceccato）合作开展操作语言学与机器翻译研究，奠定操作性心智模型基础。
 > - **1962–1970** 移居美国，在佐治亚大学耶基斯区域灵长类研究中心参与非人灵长类符号交际研究，主导开发 Yerkish 计算机符号语言系统。
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 确立当代反表征[[Epistemology|认识论]][[Paradigm|范式]]，奠定欧美数学教育学与科学教育学中[[Constructivist Paradigm|建构主义]]流派的哲学基石，并深刻影响了二阶控制论与[[Niklas Luhmann|卢曼]]自组织社会学理论。
 > - **方法路径** 倡导[[Inquiry-Based Learning|探究学习]]者概念形成的“临床访谈法”（Clinical Interview）与微观发生分析，推动教育研究聚焦概念冲突与概念转变的操作机制。
 > - **政策路径** 深度融入 1980–1990 年代英美科学与数学课程标准革新[[Discourse|话语]]，推动课堂教学由传统机械灌输转向强调学生自主建构与问题探究。
@@ -140,7 +140,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[Jean Piaget|让·皮亚杰]]（[[Jean Piaget]]） — 汲取认知发生论中的同化与顺应概念，并将其推至反表征主义极端。
 > - **哲学参照** 乔治·[[George Berkeley|贝克莱]]（[[George Berkeley]]） — 承袭其[[Empiricism|经验主义]]唯我论出发点，探讨存在即被感知的认知蕴涵。
 > - **理论对话者** [[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]） — 卢曼在社会系统论中高度赞赏并引证[[Robert Glaser|格拉泽]]斯费尔德的[[Radical Constructivism|激进建构主义]][[Epistemology|认识论]]与认知操作封闭性观点。

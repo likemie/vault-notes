@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Baptist-Bootlegger Coalition
@@ -195,5 +195,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 引入浸礼会与私酒贩同盟机制，系统阐释[[Symbionts|共生者]]在联盟政治中与正统制度支持者结盟并巩固妥协性规制的动力学逻辑。

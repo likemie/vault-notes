@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Socrates
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **约 470 BCE** 出生于雅典平民家庭，父亲索弗罗尼斯科斯为石匠兼雕刻师，母亲淮纳瑞特为助产士（苏格拉底日后常以此比拟自己的哲学[[Socratic Dialogue|助产术]]）。
 > - **约 431–404 BCE** 伯罗奔尼撒战争爆发，苏格拉底作为雅典重装步兵三次应征参战（波提狄亚、德利翁与安菲波利斯战役），在残酷严寒与溃败逆境中展现出非凡的身体耐力与救助战友的高尚勇气。
 > - **约 420–399 BCE** 长年在雅典街头、集市广场（Agora）与体育馆流连，以“自知自己无知”的反讽姿态，向政客、智者、诗人、军人及青年发起永无休止的哲学反诘，以此检验城邦公民的灵魂。
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 奠定了西方[[Virtue Epistemology|德性认识论]]与理性反思传统，开启了人类思想史上持续两千五百年的先天论心智与[[Empiricism|经验论]]（[[Empiricism]]）世纪大论战[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–29)]]；塑造了西方对[[Critical Thinking Disposition|批判性思维倾向]]的至高推崇。
 > - **方法路径** 开创了非讲授型的[[Socratic Dialogue|苏格拉底式对话]]教学法；在哈佛大学法学院案例教学法、当代科学探究物理教学（Physics by Inquiry）以及[[Man-Computer Symbiosis|人机协同]]抗[[Automation Bias|自动化偏差]]的“反思机器（Reflection Machines）”中被广泛采用。
 > - **政策路径** 苏格拉底宁死不放弃哲学探究与公开批评的殉道行为，成为西方现代[[Academic Freedom|学术自由]]、思想不受政治裁判以及公民良知抵抗的制度化伦理源泉[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 32–33)]]。
@@ -173,7 +173,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学生／思想记录者** [[Plato|柏拉图]]、[[Xenophon|色诺芬]]（Xenophon） — 柏拉图通过对话录将其塑造为西方哲学探究的永恒主角；色诺芬通过《回忆苏格拉底》记录其日常道德生活。
 > - **批评者／控告者** 雅典法庭（主诉人美勒托、政客阿纽图斯、修辞家吕康） — 指控其败坏青年与不敬城邦之神，最终将其处死。
 > - **当代[[Epistemology|认识论]]重构者** 纳伊姆（Naeem） — 在[[Virtue Epistemology|德性认识论]]中指出苏格拉底几何对话的收敛性预设对学习者思想作者权的剥夺，提出心理治疗对话转向。

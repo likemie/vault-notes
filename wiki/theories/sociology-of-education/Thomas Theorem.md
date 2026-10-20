@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Thomas Theorem
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 社会行动者如何依据其对外部情境的主观赋意与认知界定采取行动，以及这种主观建构如何反向塑造坚固的客观社会后果。
 > - **理论问题** 回应实证[[Behaviorism|行为主义]]忽视人类主观能动性与认知诠释中介的机械论偏见，阐明主观认知信念与客观社会现实之间的双向互动与因果转化机制。
 > - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism\|符号互动论]]核心机制、主观意义与社会行动中介理论。
@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判，并贯穿全书的[[Qualitative Research\|质性研究]]设计。

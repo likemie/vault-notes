@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Funds of Knowledge
 
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 概念初创与边境社区实践** Moll, Amanti, Neff & González (1992) 在美墨边境拉美裔社区开展家庭[[Ethnography\|人种志]]研究，正式确立知识资金概念以抗击亏空理论。
 > - **2000s — 多学科与多元文化拓展** González, Moll and Amanti (2005) 出版奠基性著作，知识资金广泛渗透至数学、语言学及全科教师教育培训中。
 > - **2010s 至今 — 科学教育[[Epistemology\|认识论]]与身份认同融合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 与 Varelas 等人将知识资金融入科学[[Epistemic Practices\|认识论实践]]与学术身份塑造研究，成为推进教育公平的核心理论基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
@@ -156,5 +156,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 指出将多元文化背景学生的日常经验与知识资金引入课堂[[Epistemic Practices\|认识论实践]]，是未来科学教育研究的重要开拓方向。

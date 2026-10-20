@@ -46,7 +46,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Erich Bloch
@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!dev-timeline] 生平与职涯
+> [!dev-timeline|notitle] 生平与职涯
 > - **1925** 出生于德国苏茨堡（Sulzburg），后移民美国。
 > - **1952** 毕业于布法罗大学（University of Buffalo）获电气工程学士学位，随后加入 IBM，深度参与 IBM 7030（Stretch）超级计算机及 System/360 架构的固态逻辑芯片（Solid Logic Technology, SLT）工程研发，逐步晋升至负责系统制造的副总裁职位。这段产业一线经历令他对工程学科壁垒的脱节现状有着切身体认。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–371)]]
 > - **1983** 参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）关于[[Engineering Research Centers|工程研究中心]]可行性与指南评估专家小组，直接参与制定 ERC 方案雏形。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **组织模式路径** 确立了多用途、多学科大学研究中心（MMURC）作为现代[[Research Universities|研究型大学]]核心组织基底的合法性地位，重构了大学实验室与工业界的协作边界。
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
 > - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心搭档与执行者** [[Nam Pyo Suh]] — 麻省理工学院机械工程学者，在布洛赫任内出任 [[National Science Foundation|NSF]] 工程学副主任，共同确立 [[Engineering Research Centers|ERC]] 项目核心概念与评审流程。
 > - **政策同盟与资助骨干** 威廉·哈里斯（William Harris）— NSF 科学与数学部前主任，后出任[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI）总干事并将 ERC 模式移植至爱尔兰。
 > - **领导机构** [[National Science Foundation]] — 1984–1990 年担任其主任，推动工程学部与重大中心计划的制度化。

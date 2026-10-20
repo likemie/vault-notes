@@ -67,7 +67,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Commensuration
@@ -217,7 +217,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières 的“[[Space of Equivalence|等值空间]]”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以[[Effect Size|效应量]]（$d$）为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。（pp. 2–3）

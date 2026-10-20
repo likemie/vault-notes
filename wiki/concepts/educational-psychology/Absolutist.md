@@ -41,7 +41,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Absolutist
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **客观维度绝对主导** 知识并不被视为由人类认知系统生成的产物，而是外部现实在人类头脑中的直接“复刻”。因此不存在“合理分歧”的空间，分歧只能被解释为有人犯了错误。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]
 > - **退出的极速性** 一旦个体的[[Epistemology\|认识论]]系统中被引入了“主观性”的概念，即意识到知识可以是个人的偏好或意见（尤其在个人品味领域最易发生），他们就会极其迅速地滑出绝对论的阵营，向彻底的多元论坠落。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 320)]]
 > - **在特定领域的顽固性** 个体最早在个人品味和审美上抛弃绝对论，但由于事实受到物理客观性的强约束，价值观受到社会道德的绑定，绝对论立场在物理事实与价值观领域驻留的时间最长、最为顽固。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319)]]
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–2000 年 — 传统发展心理学二元论定位** Perry (1970) 与 [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将绝对论界定为[[Epistemology\|认识论]]发展的初级阶段，视知识为确定无疑的客观事实。
 > - **2011 年 — 情境化[[Epistemic Stances\|认识立场]]重构** Chinn 等人（2011）指出绝对论并非固定特质，而是学习者在特定学科命题情境中采纳的教条确信姿态。
 > - **2025 年 — [[Man-Computer Symbiosis|人机共生]]时代绝对主义顺从与[[Cognitive Offloading\|认知卸载]]研究** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大语言模型交互中绝对主义立场的消极认知卸载机制，并提出双轨支架转化路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，系统揭示绝对主义立场在与生成式 AI 交互中的表面顺从与[[Cognitive Offloading\|认知卸载]]表现，并构建双轨支架干预机制。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将绝对论作为反映知识确定性、简单性及[[Cognitive Source\|认知来源]]与辩护的初始结构性成分。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将绝对论纳入其三层认识论发展框架，揭示了绝对论立场在面对主观性侵入时的脆弱性，以及在事实领域的相对顽固性。

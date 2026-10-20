@@ -77,7 +77,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cognitive Offloading
@@ -225,7 +225,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2010 年代初 — 具身与物理动作卸载** Risko & Gilbert 等认知心理学家系统界定认知卸载，聚焦于使用旋转头部/身体、纸笔备忘与数码提醒等外部动作降低内部记忆负荷。
 > - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆编码与信息检索策略的影响。
 > - **2024–2025 年 — 生成式 AI 介入下的认知分化与时间边界确立** 大语言模型赋予机器复杂的语义生成与代码调试能力，认知卸载突破低阶存储边界，进入论证建构与[[Creativity\|创造性]]综合等高阶领域。[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示了非结构化环境下的批判性侵蚀与[[Metacognition\|元认知]]外包路径；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 进一步通过一阶[[Meta-analysis\|元分析]]实证确立了“8–16 周中期黄金平衡 vs 长期过度依赖衰落”的倒 U 型时间曲线，并证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）是中和认知外包风险的决定性个体防线。
@@ -295,7 +295,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义[[Epistemic Stances\|认识立场]]对认知卸载的调节分流机制，揭示表面顺从的发生机理并构建技术提示与教学法双轨干预支架。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，解构[[Generative Artificial Intelligence\|生成式人工智能]]介入下认知卸载的两种截然相反路径：在无支架任务中引发认知惰性与批判思维外包；在结构化支架下释放认知负荷赋能高阶探究。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从社会[[Epistemology\|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence\|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀[[Evaluative Judgement\|评价性判断]]与能力迁移。

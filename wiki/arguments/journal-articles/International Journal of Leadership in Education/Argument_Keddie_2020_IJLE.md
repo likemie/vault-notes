@@ -45,7 +45,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2020
 doi: ""
 citation_aliases:
@@ -54,7 +54,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > 论文试图回答以下问题(IJLE, p.5, 12-13)：
 >
 > 1. 市场化的哪些[[Discourse|话语]]和实践构成[[School Autonomy\|学校自主权]]、以损害社会正义的方式？
@@ -63,13 +63,13 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > - **Fraser (2009) 的再分配正义（redistributive justice）** 将社会正义界定为"对学生的人力和物质资源的更公平分配"(IJLE, p.3, 5)
 > - **Dolan (2020) 的悖论分析（paradox analysis）** 将悖论理解为"由[[Discourse|话语]]的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy\|学校自主权]]的竞争性利益"(IJLE, p.5-6)
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **方法** 质性半结构式访谈研究
 > - **样本** 42 位教育利益相关者，包括：教育官僚机构代表（12）、政府（3）、家长组织（3）、校长协会（7）、校长（4）、专业组织（3）、学术界（4）和教师工会（6）(IJLE, p.5)
 > - **地域** 四个澳大利亚州 — Victoria（14人）、NSW（8人）、Queensland（8人）、WA（10人），另有2人代表全国性协会
@@ -79,7 +79,7 @@ citation_aliases:
 
 ## 核心论证
 
-> [!example] 核心论证
+> [!example|notitle] 核心论证
 > 论文以 Dolan 的悖论框架，围绕四大悖论展开论证(IJLE, p.5)：
 >
 > 1. **经济效率与差异化拨款** 经济效率[[Discourse|话语]]和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
@@ -91,7 +91,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > - 经济效率[[Discourse|话语]]伴随着[[School Autonomy\|学校自主权]]改革"破坏了传统上与支持公立学校相关的中央教育官僚机构的结构、资源和项目"，使学校自行管理先前由国家负责的义务(IJLE, p.3-4)
 > - 竞争制造了公立系统内的分层和残余化——通过"评估（公开奖励）和贬低（公开羞辱）学校"(p.4)
 > - 学校自主权没有单向地与学术成就提升相关联——"没有证据将学校自主权改革与澳大利亚学生成绩的提升单向地联系起来"(p.3)
@@ -102,7 +102,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “权力下放、经济效率、竞争和个人主义的话语和实践构成了[[School Autonomy\|学校自主权]]，其方式摧毁了对公立学校的结构性支持，加剧了该部门内部的分层和边缘化，破坏了将教育作为公共产品的集体途径，并使农村/偏远地区、低社会经济地位（SES）和小型学校处于劣势。”
 > ("the discourses and practices of devolution, economic efficiency, competition and individualism constitute [[School Autonomy]] in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools")(IJLE, p.12)
 >
@@ -111,14 +111,14 @@ citation_aliases:
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - 论文承认其呈现的悖论"不假定它们代表了[[School Autonomy\|学校自主权]]改革与社会正义之间的所有张力"(IJLE, p.13)
 > - 研究发现基于项目第一年的访谈数据，后续年份的学校层面数据可能提供更细致的学校内部视角
 > - 样本中校长数量有限（4人），利益相关者视角偏向系统层面
 
 ## 与相关研究的关联
 
-> [!note-] 与相关研究的关联
+> [!note-|notitle] 与相关研究的关联
 > - 与 [[Argument_Keddie_2020_JEAH]] 同为同一 ARC 项目（DP190100190）的产出，基于同样的 42 位利益相关者数据集，但采用不同的[[Analytic Framework\|分析框架]]（JEAH 论文关注"校长的困境"，IJLE 论文关注"悖论与公共性的重新协商"）
 
 ## 来源

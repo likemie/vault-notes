@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Greenfield vs Brownfield Innovation
@@ -182,5 +182,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 提出绿地创新与棕地创新的核心概念框架，系统界定了冷战信息技术政策[[Paradigm|范式]]向气候变化清洁能源研发迁移的结构性边界条件。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Regulatory vs Developmental Policy Approaches
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 宏观教育政策治理中不同制度结构设计对地方实践、[[Research Utilization\|证据使用]]与问责生态的塑造机理。
 > - **理论问题** 为什么自上而下强制推行以单一科学研究为依据的高利害问责政策往往诱发教学窄化与数据造假？如何构建既能保障财政与公共利益、又能激发地方因地制宜活力的循证政策治理结构？
 > - **理论类型** 中层政策[[Analytic Framework\|分析框架]]／宏观治理[[Paradigm\|范式]]比较模型。

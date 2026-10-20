@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # International Mind
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 国际心智 (International Mind) | 民族主义心智 (Nationalistic Mind) | [[Revolutionism\|革命主义]]（去殖民）心智 (Decolonial Mind) |
 > |------|--------|----------------|----------------|
 > | **认同核心** | 多元主权国家间的理性合作与多边相互理解。 | 单一民族国家的绝对忠诚与本国中心主义。 | 边缘群体的文化自主权与对西方知识霸权的解构。 |
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
 > - **1940s–1970s — [[UNESCO]]建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制[[Discourse|话语]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **1990s 至今 — [[Lifelong Learning\|终身学习]]与[[Global Citizenship\|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为理性主义话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
@@ -161,5 +161,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入解析了 Wight 的理性主义传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现[[Disciplinary Institutionalization|学科建制化]]的核心[[Epistemology\|认识论]]武器。

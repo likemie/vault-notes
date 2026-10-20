@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # 1981 New York IB Heads of School Conference
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **治理透明度** 校长年会成为公开检验区域费用、代表性和课程控制疑虑的场所。
 > - **跨组织协调** [[International Baccalaureate North America\|IBNA]] 领导进入 [[International Baccalaureate|IBO]] 管理委员会，使区域意见与全球责任在共同机构内协商。
 > - **身份边界** 争议推动组织更明确地区分法律和财务上的区域自主，与课程和考试上的国际统一。

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Taiwan Semiconductor Manufacturing Corporation
@@ -191,7 +191,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与[[Policy Conditionalities|政策附加条件]]视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较分析台积电在美（650 亿美元独资）与在欧（100 亿欧元合资）的设厂决策、受助机制与制度约束，揭示其 92% 先进制程垄断与对 ASML 设备外部依赖的跨国相互依存网络。

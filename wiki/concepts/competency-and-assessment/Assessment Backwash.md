@@ -41,7 +41,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Assessment Backwash
@@ -218,6 +218,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]：说明得分条件如何成为实际课程，并以心理学考试和[[Learning Portfolio\|学习档案袋]]展示负向与建设性反拨。
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]：通过 IB 语言 A、语言 B 和综合评价，展示任务要求、权重、证据组合及制度约束如何共同塑造反拨。

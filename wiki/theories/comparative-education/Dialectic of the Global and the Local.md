@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dialectic of the Global and the Local
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 全球化力量跨国流动与民族国家、地方学校、社区以及师生微观实践之间的双向动态互动关系。
 > - **理论问题** 克服宏观[[World-Systems Theory|世界体系理论]]与[[World Society Theory|世界文化理论]]的自上而下结构[[Determinism|决定论]]，同时避免纯粹微观[[Ethnography|民族志]]忽视宏观全球资本主义权力的狭隘地方主义倾向。
 > - **理论类型** 多层次批判性解释理论与多标度互动[[Analytic Framework|分析框架]]。
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 跨国[[Policy Borrowing|政策借用]]与本土落地冲突、[[Pluri-Scalar Governance|多标度教育治理]]重构、基层教育社会运动。
 > - **成立条件** 需要研究者兼备宏观政治经济学制度分析能力与微观人类学长时段[[Qualitative Observation|田野观察]]能力。
 > - **解释不足** 容易将复杂的因果链条泛化为一切皆是辩证互动，若缺乏对具体中介机制的严密追踪，可能退化为描述性套话。
@@ -214,7 +214,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
 

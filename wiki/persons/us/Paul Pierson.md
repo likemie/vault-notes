@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Paul Pierson
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1959** 出生于美国俄勒冈州尤金市。
 > - **1981** 于奥柏林学院（Oberlin College）获政治学学士学位。
 > - **1989** 于耶鲁大学获政治学博士学位。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将[[Path Dependence|路径依赖]]与时间性概念彻底植入现代政治学词汇库；其早期关于福利韧性的论断直接倒逼了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]的形成；其提炼的地下室白蚁机制成为刻画制度潜伏[[Subversives|颠覆者]]的经典分析工具。
 > - **方法路径** 奠定政治科学重视事件次序、因果时滞与慢[[Variable|变量]]追踪的[[Process Tracing|过程追踪]]规范，极大地丰富了比较历史分析的[[Causality|因果推断]]深度。
 > - **跨学科辐射** 其时间性理论被社会学、历史学、法学与组织理论广泛引用，成为反对“无历史的微观经济学帝国主义”的理论旗帜。
@@ -135,7 +135,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承与长期合作者** [[Theda Skocpol]] — 哈佛大学时期的引路人与密切学术合作者，共同推进[[Historical Institutionalism|历史制度主义]]学科建设。
 > - **长期学术合著者** [[Jacob S. Hacker]] — 共同合著多部美国政治经济学经典，形成紧密的制度分析学术同盟。
 > - **理论同行与对话者** [[James Mahoney]] — 共同致力于[[Path Dependence|路径依赖]]形式化建模与比较历史分析规范化。

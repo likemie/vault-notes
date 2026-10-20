@@ -65,7 +65,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Source Evaluation
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1991 — 历史学科专家阅读思维起源** 萨姆·温伯格（Sam Wineburg）首次通过出声思考法揭示历史学家在阅读冲突性文献时的三大核心启发式：信源评估（Sourcing）、情境化（Contextualization）与互证（Corroboration），确立了信源评估在学科素养中的奠基地位。
 > - **2008–2011 — 多文本阅读认知模型拓展** 鲁埃等学者（Rouet & Britt）提出多文本理解的文档模型与 MD-TRACE 架构，将信源节点（Source Node）确立为多文本心理表征的核心支柱。
 > - **2014–2018 — 数字化时代的显性策略干预** 梅森等学者（Mason et al., 2014）与斯坦福史学教育课题组（Wineburg & McGrew, 2018）将信源评估开发为标准化的教学策略（如[[Lateral Reading\|横向阅读法]]），证明短期显性指导即可显著纠正学生的网络盲信。
@@ -209,6 +209,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，在[[Framework for Teaching|教学框架]]亚组中证实信源评估教学录得高达 $d = 0.800$ 的大[[Effect Size\|效应量]]，实证确立了显性信源规则教学对促进[[Academic Achievement\|学业成就]]的高因果效益。
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 实证揭示显性反思提问提示语如何驱动初中生在与生成式 AI 协同建构[[Scientific Explanation|科学解释]]时开展二手信源评估与文献溯源，维系核心[[Epistemic Agency|认识主体性]]。

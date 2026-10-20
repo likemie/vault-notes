@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Floating Signifier
@@ -74,7 +74,7 @@ updated: 2026-10-15
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **抽离历史经验（De-contextualisation）** 全球政策[[Discourse|话语]]被剥离了具体的起源时间、地理地点和特定的社会斗争脉络，被抽象为普适化的通用符号。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 354]])
 > - **可塑性与稳定性的双重结构（Malleability & Stability）** 话语的形式结构保持基本稳定以维系全球权威与品牌光环；但具体内涵高度可塑，以便与不同地缘语境整合。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 353]])
 > - **多声部解读能力（Multivocality of Meanings）** 话语的传播价值在于“被用来说什么”而非“说了什么”。其价值不在于提供明确指令，而在于为不同利益主体提供各取所需的合法化说辞。

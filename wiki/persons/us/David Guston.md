@@ -44,7 +44,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # David Guston
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1987年** 毕业于耶鲁大学，获工程与政治学双学士学位。
 > - **1993年** 获麻省理工学院（MIT）政治学博士学位，师从知名科学政策学者，博士论文奠定了科学契约分析的基础。
 > - **1994年** 与肯·肯尼斯顿（Kenneth Keniston）合编出版《弱化的契约？大学科学与联邦政府》（*The Fragile Contract? University Science and the Federal Government*），系统反思冷战后联邦科研资助危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推进了科学技术社会学（[[Science and Technology Studies|STS]]）与公共管理学的交叉融合，将边界组织、负责任研究与创新（RRI）确立为全球科技治理的主流概念工具。
 > - **方法路径** 开创了运用委托—代理模型和制度主义工具解构科学资助体制的经验实证分析[[Paradigm|范式]]。
 > - **政策路径** 其关于科研诚信与产出率两难困境的[[Analytic Framework|分析框架]]，被广泛应用于[[National Science Foundation|美国国家科学基金会]]（NSF）、国立卫生研究院（[[National Institutes of Health|NIH]]）等机构的伦理治理与项目绩效评估制度设计中。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
 > - **师承／合作者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
 > - **机构／运动／项目** 亚利桑那州立大学（ASU）未来社会创新学院 — 长期担任创立院长与核心学术领袖。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Council for Aid to Education
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 将“[[Critical Thinking\|批判性思维]]增值”确立为跨国高教质量监测的核心显性指标，引领了 [[OECD]] 成员国对高教增益的评价探索。
 > - **实践影响** 推动全球数百所大学从单一事实性笔试转向以复杂案例分析与决策论述为载体的真实性表现评价。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **知识影响** 树立了教育测量学中兼顾心理测量学严谨性与真实[[Ecological Validity\|生态效度]]的理论典范。

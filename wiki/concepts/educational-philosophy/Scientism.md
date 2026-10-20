@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientism
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **还原主义（Reductionism）** 将复杂立体的人类教育现象简化为可测量的少数[[Variable|变量]]，忽视无法量化的精神、意向与生命经验（Hayek, 1942; Sergiovanni, 1989）。
 > - **过度重视经验数据** 将实证量化数据视为唯一或最高形态的知识，排斥诠释学、审美体验、批判自省、道德伦理和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）。
 > - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为新自由主义教育改革的意识形态基石（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
@@ -223,7 +223,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1940s — 自由主义早期系统清算** 弗里德里希·哈耶克（Hayek, 1942–1944）系统反思科学主义倾向，论证人类行动的自由意志无法被机械还原为自然物理铁律。
 > - **1960s — 比较学科实证科学化狂热与早期传统贬抑** 诺亚与埃克斯坦（Noah & Eckstein, 1969）出版《迈向比较教育科学》，试图通过跨国假设检验建立实证科学主义垄断，掩盖了历史考据与比较文学传统的学术价值。
 > - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；费曼（Feynman, 1974）提出[[Cargo Cult Science|草包族科学]]以警示缺乏[[Epistemology|认识论]]诚实性的伪科学。
@@ -283,7 +283,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]]规训。

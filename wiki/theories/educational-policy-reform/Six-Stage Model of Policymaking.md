@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Six-Stage Model of Policymaking
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 公共政策制定全生命周期中的阶段演进规律、多方利益相关者互动机制，以及科学研究证据如何嵌入政策流转各节点。
 > - **理论问题** 破解外界视立法决策为不可预测的政治混乱的刻板印象，提供具有结构化秩序的操作性透镜；阐明实证研究证据在不同决策阶段如何呈现概念性、象征性与工具性的差异化利用形态，以及研究如何与[[Professional Judgment|专业判断]]和政治价值发生阶段权变性整合。
 > - **理论类型** 宏观[[Analytic Framework|分析框架]]（Macro-Analytic Framework）、政策阶段启发式模型（Stages Heuristic）。
@@ -184,7 +184,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 政治体制分权制衡、立法决策程序严格公开的代议制民主体系（如美国国会与州议会），以及跨多利益相关者的重大系统性政策变迁。
 > - **成立条件** 需要具备完整的法案文本追踪材料、听证记录、行政规程以及政策制定者对[[Research Utilization|证据使用]]动机的口述史或档案材料。
 > - **解释不足** 阶段模型本身属于启发式分析架构，未提供严格[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数关系；将充满重叠交叉、反复妥协的政治现实人为切分为线性阶段，可能掩盖[[Policy Network|政策网络]]内部的隐蔽非正式博弈。
@@ -213,7 +213,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 结合美国国会立法实务，将六阶段模型引入教育立法研究，构建面向教育研究者的前瞻[[Navigational Framework for Educational Researchers|政策导航框架]]。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 运用阶段启发式透镜[[Process Tracing|过程追踪]][[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
 > - Oakley et al. (2013) — 对公共政策全过程六阶段模型进行系统建构与实证检验，奠定标准六阶段框架的现代实证基础。

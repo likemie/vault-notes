@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # International Qualification Recognition
@@ -167,5 +167,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 以 IB 六年试验比较大学、教育机关与指定学校等承认路径，展示国际资格如何发展为跨国网络；法、德等国的有限承认争议见 [[Argument_Peterson_1987_OpenCourt_Ch07|Ch. 7]]。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Banal Imperialism
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **数据作为规训权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的 **[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **数字霸权对世界秩序的重构（Breaching the World Order by Numbers）** 全球教育体系的优劣不再由主权国家的历史和文化决定，而是被简化为单一维度的数据指标。西方的“认识新帝国”由此通过垄断“标准定义权”而立于不败之地。(Silova & Auld, 2019)
 > - **[[Orientalism\|东方主义]]的他者化再生产（Reproduction of Orientalist Othering）** 利用跨国媒体和学术界，将高分非西方系统描绘为机械而机械的、缺乏[[Creativity\|创造力]]与民主精神的“教育地狱”，再次确认西方启蒙理性对全球灵魂的天然教化特权。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了平庸的帝国主义如何作为超国家数据网络对非西方实施他者化和认识规训的当代手段。
 > - [[Re-Westernisation]] (再西方化) — 再西方化利用平庸帝国主义作为大数据[[Governing at a Distance\|远处治理]]的核心承载物。
 > - Governing at a Distance (远处治理) — 数据化平庸帝国主义最核心的制度与测评执行机制。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pillarization
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **四大平行柱体架构（Pillared Architecture）** 荷兰社会长期维系天主教、正统新教、公立世俗与中立四大阵营，各阵营自办涵盖从幼儿园到大学、从医院到电视台的独立全套社会服务体系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 > - **宪法第 23 条教育自由权（Constitutional Freedom of Education）** 1917 年历史性和平妥协（Pacificatie van 1917）确立宪法第 23 条，赋予公民自主设立学校、自主管理学校、自主贯彻宗教与道德信念的绝对权利。
 > - **公私立财政完全均等原则（100% Financial Equality）** 无论是公立学校还是宗教私立学校，只要达到法定的生源规模与办学标准，其校舍建设、教学运营与教师薪酬均全额由国家公共财政平等予以保障。
@@ -269,5 +269,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 考证荷兰柱状化体制及其宪法教育自由对公共教育规制网络形成的决定性影响，深入论述 1980 年代 HBO 跨宗派大兼并与[[Steering at a Distance|远距离操纵]][[Paradigm|范式]]的解柱化突围历程。

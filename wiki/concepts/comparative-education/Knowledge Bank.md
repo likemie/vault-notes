@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Knowledge Bank
@@ -251,7 +251,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验[[World Bank|世界银行]]作为知识银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从[[UNESCO|教科文组织]]依附期到回报率帝国与知识银行演变的全过程（pp. 540–550）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思知识银行的“构想 vs 资金”辩论，指出政策建议之所以被认真采纳根本上依赖于巨额贷款资金的财务约束机制，纯粹知识咨询无法单独发挥改革实效，并揭示了政策理念成熟的长周期与政策风潮的周期性更替（pp. 466, 472–474）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示世界银行教育贷款仅占受援国预算不足 0.5% 的事实，剖析其转向“知识银行”以极小财务杠杆捆绑输出西方整套去情境化教育制度愿景的深层机制。

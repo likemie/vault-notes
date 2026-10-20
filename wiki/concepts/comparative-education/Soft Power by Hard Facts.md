@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Soft Power by Hard Facts
@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **量化硬化（Data Hardening）** 借助复杂的心理测量学与计量经济学模型，将高度异质且充满价值争议的教育过程压缩还原为单一、客观、标准化的量化分值。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **跨国横向基准（Cross-National Benchmarking）** 建立跨越主权边界的共同参照系，使任何国家的本土实践都必须在统一的跨国尺度下接受比较与评判。（p.542）
 > - **命名与羞辱机制（Naming and Shaming）** 公开发布排行榜与危机诊断报告，在媒体舆论中激化国内教育落后恐慌，迫使政府将外部建议转变为国内改革议程。（pp.542–543）
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000 年代初 — [[PISA]] 冲击与认知软治理萌芽** 伴随[[OECD\|经合组织]] PISA 2000 年首轮测验引发德国等国“PISA 冲击”，比较学者开始关注无直接行政权的跨国机构如何通过数据与基准塑造国家教育政策议程（Grek, 2009）。
 > - **2018 — Niemann & Martens 正式提出“以硬事实施展[[Soft Power\|软权力]]”** 明确界定国际组织通过制造可量化、可比较与标准化的“硬事实”，将[[Epistemology\|认识论]]与方法论权威转化为政治规制力的[[Construct\|理论构念]]。
 > - **2019 — Ydesen 提出“[[Global Education Governing Complex\|全球教育治理复合体]]”** 将概念由单一国际组织扩展至涵盖多边机构、私人慈善基金会与跨国商业资本的混合治理网络。
@@ -213,7 +213,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 议程，系统阐发五大国际组织如何将可量化、可比较知识武器化，以硬事实施展[[Soft Power\|软权力]]以维持自身政策利基。
 
 ---

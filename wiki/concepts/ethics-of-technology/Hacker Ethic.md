@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Hacker Ethic
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 黑客伦理 | 战后国家科技动员传统 | [[Technological Agnosticism\|技术不可知论]] |
 > |---|---|---|---|
 > | **技术定位** | 个体抵抗集权统治与实现自由解放的工具 | 捍卫国家安全、公共繁荣与地缘主权的[[Hard Power\|硬实力]]载体 | 纯粹创造商业利润与满足个人消费的[[Value Neutrality\|价值中立]]代码 |
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s–1960s — 第一代：麻省理工学院（Massachusetts Institute of Technology, MIT）铁路模型俱乐部与 TX-0 大型机** 高校极客沉浸于探索分时计算系统，形成早期动手实践与代码美学规范。
 > - **1970s — 第二代：西海岸硬件极客与[[Homebrew Computer Club|家酿计算机俱乐部]]** 从大型机走向自制微型电脑（Altair 8800），将反文化反集权诉求融入硬件电路，[[Lee Felsenstein|李·费尔森斯坦]]与斯蒂夫·沃兹尼亚克成为代表。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 > - **1980s — 第三代：商业软件与游戏极客** 软件开始商业化，[[Steven Levy|史蒂文·利维]]出版《黑客》对前两代黑客伦理进行经典提炼与抢救性记录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 99)]]
@@ -161,5 +161,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统追溯黑客伦理与“缺陷系统”批判，剖析其如何瓦解战后国家科技动员传统并铺平向唯利是图[[Consumer Internet|消费互联网]]转型的文化道路（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

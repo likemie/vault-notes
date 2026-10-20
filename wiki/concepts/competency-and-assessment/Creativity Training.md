@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Creativity Training
@@ -117,7 +117,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | [[Creativity\|创造力]]训练（Creativity Training） | 传统直接教学（[[Direct Instruction]]） | 一般批判性思维教学（[[Critical Thinking]]） |
 > |---|---|---|---|
 > | **分析对象** | 学习者的创造潜能、构想生成与问题重构加工 | 结构化事实知识、算法规则与确定性技能 | 论证结构、逻辑推论与证据[[Reliability\|可靠性]] |
@@ -328,7 +328,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1950s — 天赋论打破与可塑性倡导** Guilford 在 APA 主席演讲中提出[[Creativity\|创造力]]可测量且可培养，打破高智商[[Determinism\|决定论]]，呼吁开展创造性思维教育。
 > - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发[[Creative Problem Solving\|创造性问题解决]]（CPS）模型；Torrance 开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
 > - **1980s–1990s — [[Meta-analysis\|元分析]]检验与领域整合** Rose and Lin (1984) 完成首项 PCTP 元分析；Amabile 强调内在动机与环境支持对创造力培养的关键调制作用。
@@ -431,7 +431,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 开展[[Creativity\|创造力]]领域[[Meta-meta-analysis\|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis\|元分析]]与 124 万人样本，实证确立教育教学干预在所有外部影响因素中具备最高[[Effect Size\|效应量]]（$r = 0.20$）。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 对 29 项研究做[[Three-Level Meta-Analysis\|多层元分析]]：创造力训练效应中等（g = 0.628），2 个月内最佳，言语训练与独立练习效果最显著。
 > - Scott et al. (2004) — 对 70 项创造力训练实验进行系统元分析，确立了基于认知策略的结构化训练具备大效应量促进效能（$d = 0.74$）。

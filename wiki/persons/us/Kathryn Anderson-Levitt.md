@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Kathryn Anderson-Levitt
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1970s–1980s** 在斯坦福大学获得人类学博士学位，接受严格的田野[[Ethnography|民族志]]训练，重点关注西欧（法国）与西非（几内亚）的初等教育文化实践。
 > - **1984–2012** 长期任教于密歇根大学迪尔伯恩分校，历任人类学系主任与文理学院副院长，建立教育人类学跨国[[Fieldwork|田野研究]]传统。
 > - **2003** 出版划时代著作《本土意义，全球学校教育》，正面回应[[Stanford School|斯坦福学派]]的[[World Society Theory|世界社会理论]]，成为比较教育[[Qualitative Research|质性研究]]的必读经典。
@@ -106,7 +106,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 成为人类学介入比较教育宏观理论对话的奠基性学者，极大修正了新制度主义世界文化论的激进普适[[Convergence Theory in Comparative Education|趋同论]]调。
 > - **方法路径** 确立了跨国多地点比较[[Ethnography|民族志]]（Multi-sited Comparative Ethnography）的操作规范，为比较教育[[Qualitative Research|质性研究]]树立了典范。
 > - **学科对话路径** 搭建起教育人类学与比较政治经济学之间的理论桥梁，推动学者重视教师日常劳动的微观政治。
@@ -115,7 +115,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **对话与论敌** [[John W. Meyer|约翰·迈耶]]——斯坦福新制度主义代表；安德森-莱维特对其宏观趋同模型进行了人类学视角的实证检验与批判修正。
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]——共同提倡贯通宏观体系与微观课堂的双重视野与批判视野。
 > - **国际组织研究对象** [[UNESCO]]——其所倡导的普适儿童中心主义教学法成为其跨国多地点研究的关键比照标杆。

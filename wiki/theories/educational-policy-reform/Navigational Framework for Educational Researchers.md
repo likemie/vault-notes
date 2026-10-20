@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Navigational Framework for Educational Researchers
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育学术研究成果如何有效介入并整合进国家宏观教育政策制定与法律改革进程。
 > - **理论问题** 传统[[Evidence-Based Education\|循证教育]]改革将[[Randomised Controlled Trials\|随机对照试验]]（RCT）奉为单一黄金标准，但在宏观立法中遭遇时间系统脱节、价值负荷与政治妥协等重重阻碍；学术界缺乏关于政策世界内在运行节律、国会委员会决策机制与精准介入时机的行动理论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]、政策实践指引模型。
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 代表制代议民主体制中，国会/议会委员会立法过程、重大教育法案重新授权、智库游说与专家听证机制。
 > - **谨慎使用** 在高度集权型行政官僚主导的国家，或权力高度下放至分散社区微观学区时，由于立法常设委员会机制缺失，框架需要大幅重构。
 > - **不适合解释** 纯粹学术界内部的学科[[Paradigm\|范式]]争议，或无政治介入空间的纯粹技术性实验室基础研究。
@@ -213,7 +213,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1951 — [[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 哈罗德·拉斯韦尔（Harold Lasswell）确立政策科学传统，开创政策阶段模型雏形。
 > - **1970s — [[Research Utilization Models\|研究利用模型]]与价值冲突论** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977）指出公共政策本质关乎价值选择，研究主要发挥概念启蒙而非直接工具决策功能。
 > - **1984 / 2003 — 多源流与[[Policy Window|政策之窗]]模型** [[John W. Kingdon|约翰·金登]]（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 奠基性文献：提出教育研究者政策导航框架，系统剖析[[Policymaking Chronosystem\|政策制定时间系统]]、四阶段介入机会窗口与[[Legislative Policy Brief\|立法政策简报]]机制。
 > - Oakley et al. (2013) — 理论前提：[[Six-Stage Model of Policymaking\|公共政策六阶段模型]]（Oakley 等），为四阶段导航框架提供阶段论基础。
 > - Weiss (1977, 1989) — 理论源头：论证政策制定关乎价值选择，以及国会常设委员会幕僚利用研究证据的长远视野。

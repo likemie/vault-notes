@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Discursive Field
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1989年 — 文化社会学理论确立** 罗伯特·伍斯诺出版《[[Discourse|话语]]共同体》，通过考察欧洲宗教改革、[[Enlightenment|启蒙运动]]与欧洲社会主义，确立话语[[Champ|场域]]在解释思想潮流兴衰中的分析地位。
 > - **2000年代 — 话语制度主义与政策研究拓展** [[Policy Science in Comparative Education|政策科学]]学者将话语场域引入公共政策分析，用于阐释福利国家改革与环境治理政策框架的制度化根源。
 > - **2023年 — 跨国[[Geopolitics of Higher Education|高等教育地缘政治]][[Narrative Analysis|叙事分析]]** 伍国雄将话语场域作为[[Critical Realism|批判实在论]]因果[[Retroduction|逆推溯因]]的方法论中介，系统解析当代中国[[Belt and Road Initiative|一带一路]]高教政策深层的历史与政治结构根源。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
@@ -186,5 +186,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用伍斯诺的[[Discourse|话语]][[Champ|场域]]理论实施宏观社会学生态分析，论证近代历史创伤叙事与替代性全球治理抱负如何构成了制约[[Belt and Road Initiative|一带一路]]教育政策话语的深层结构。

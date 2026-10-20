@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Microteaching
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **时空与样本尺度的微观化压缩（Scaled-Down Context）** 将课堂规模大幅缩小至 5 至 10 人、授课时长缩减为 10 分钟左右，消除常态大班的纪律失控焦虑，使执教者全身心聚焦于教学技能本身。
 > - **教学技能的原子化聚焦（Skill-Focused Targeting）** 每次微格训练明确瞄准一项具体的微观技能（如探究性提问、形成性反馈提示、概念先行组织者设计），防止目标泛化。
 > - **多媒体客观记录与多源视听回放（Objective Video Playback）** 借助全景与特写摄像镜头客观留存教学全过程，使教师能够抽离出行动者视角，以“观察者”身份审视自身的肢体语言、语速、口头禅与提问停顿。
@@ -180,5 +180,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时梳理教师效能核心因素表，证实微格教学以 $d = 0.88$ 居教师实践首位。

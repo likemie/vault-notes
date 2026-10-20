@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teacher Mobility
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 教师流动（Teacher Mobility） | 师资流失（[[Attrition\|Teacher Attrition]]） | [[Student Mobility\|学生流动]]（Student Mobility） |
 > |------|-----------------------------|-------------------------------------------|--------------------------------------------------|
 > | 主体角色 | 提供教育教学服务的专业劳动力 | 离开教育劳动力市场的离职人员 | 接受教育并接受学籍管理的学生与家庭 |
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **跨区专业资质互认与流动壁垒（Credential Transferability）** 教师跨越省州或国界任教的前提是教师资格凭证的等值认证，缺乏透明标准构成了抑制专业流动的制度屏障。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayer, 2006; Sobe & Fischer, 2009, p. 364)]]
 > - **基于工作条件的单向空间流动（Working Conditions Push-Pull）** 学校微观环境（如生源挑战、校园安全、设施匮乏与管理压力）是驱使教师逃离城市薄弱学校、流向郊区中产优势学校的主导推力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Elfers et al., 2006; Sobe & Fischer, 2009, p. 364)]]
 > - **生源族裔与阶层构成敏感性（Student Demographic Sensitivity）** 实证研究显示，教师在[[School Choice|择校]]流动中表现出对生源[[Socioeconomic Status|社会经济地位]]与少数族裔比例的高度敏感，容易加剧教育种族隔离。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Scafidi et al., 2007; Sobe & Fischer, 2009, p. 364)]]
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20世纪后期 — 资格地方垄断与低流动阶段** 各国学区与地方教育当局各自为政，养老金接续与资格认证门槛严格限制了教师跨区流动。
 > - **1990年代至2000年代初 — 欧洲一体化与资质互认探索** [[EU|欧盟]]推行[[Bologna Process|博洛尼亚进程]]与[[Lifelong Learning|终身学习]]框架，尝试消除跨境教师流动壁垒以打造[[European Education Space|欧洲教育空间]]（Sayer, 2006）。
 > - **2000年代至今 — 绩效问责与公平危机审视** 伴随《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》等问责政策，美英等国实证学者系统揭示优秀教师从薄弱校单向外流加剧教育鸿沟的危机，促使多国出台偏远与薄弱校轮岗或津贴干预政策。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
@@ -183,5 +183,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 对比欧洲将教师流动视为政策理想与美国将其视为薄弱校流失危机的[[Discourse|话语]]张力，揭示围绕移动的正当性划分本质。

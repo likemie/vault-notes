@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Creative Destruction
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **激进创新集群（Clusters of Radical Innovations）** [[Creativity|创造性]]破坏并非由孤立个别发明触发，而是由多项关键共性技术与组织创新在特定历史阶段形成的系统性群集所驱动。
 > - **落后轨道与资产淘汰（Obsolescence of Capital and Skills）** 新生产[[Paradigm|范式]]的崛起必然导致依赖旧技术的机器设备发生经济性贬值，传统工人的单一专业技能面临系统性淘汰风险。
 > - **制度滞后与结构失衡（Institutional Drag & Structural Mismatch）** 旧社会制度（旧教育体制、[[Apprenticeship|学徒培训]]模式、工会规章与专利法律）具有深厚的历史惯性，在面对激进新技术冲击时必然出现滞后与阻滞。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1942 — [[Joseph Schumpeter|熊彼特]]奠定理论[[Paradigm|范式]]** 约瑟夫·熊彼特在《资本主义、社会主义与民主》中正式提出“[[Creativity|创造性]]破坏”（Creative Destruction）概念，将其确立为资本主义经济演化的根本事实。
 > - **1980s — 演化长波理论与制度滞后机制确立** [[Carlota Perez|卡洛塔·佩雷斯]]（Perez, 1983）与[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）将创造性破坏从微观企业竞争拓展至长波演化与[[Techno-economic Paradigm|技术-经济范式]]转型，揭示激进创新群集与制度框架之间的结构性张力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 > - **1990s — [[National Innovation System|国家创新系统]]视角的调适与教育转型** [[Systems of Innovation|创新系统理论]]将教育体制改革、职业培训技能更新（如多工种轮岗与[[Lean Production|精益制造]]）纳入应对创造性破坏的核心制度政策工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
@@ -152,5 +152,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引佩雷斯的制度滞后论，指出激进创新必然包含[[Creativity|创造性]]破坏元素，论证技术[[Paradigm|范式]]更替时期[[National Innovation System|国家创新系统]]提供制度试错与教育调适空间的不可替代性。

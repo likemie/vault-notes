@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-09-22
+updated: 2026-10-21
 ---
 # Stephen Kemmis
 
@@ -83,7 +83,7 @@ updated: 2026-09-22
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作者** Wilfred Carr — 合著 *Becoming Critical*（1986），将[[Jürgen Habermas\|哈贝马斯]][[Critical Theory\|批判理论]]引入[[Action Research\|行动研究]]
 > - **合作者** Robin McTaggart — 共同系统化行动研究的螺旋模型和核心原则（1981, 1988, 1992）
 > - **思想渊源** [[Jürgen Habermas]] — 知识构成性兴趣（1972）和[[Ideal Speech Situation\|理想言说情境]]为其[[Emancipatory Action Research\|批判性行动研究]]提供[[Epistemology\|认识论]]框架

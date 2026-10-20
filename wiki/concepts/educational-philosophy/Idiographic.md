@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Idiographic
@@ -74,12 +74,12 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1979 — 方法论维度区分** Burrell & Morgan 将个例式与[[Nomothetic\|通则式]]列为社会研究方法论的两极之一，作为其四组假设推导链的方法论终点：[[Nominalism\|唯名论]][[Ontology\|本体论]]、[[Interpretive Paradigm\|反实证主义]][[Epistemology\|认识论]]、意志论人性假设通向个例式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 > - **1986 — 方法论定位** Kirk and Miller（1986, p. 14）延续这一区分，强调个例式关注对独特情况的理解与解释。
 > - **2011 — 质性数据分析中的应用** 个例式数据分析以生命史、[[Case Study\|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统阐释个例式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan 假设推导链的方法论终点（Ch. 1），并在质性分析中阐明针对个体意图、独特性情境与叙事生命的分析路径（Ch. 28）。

@@ -33,7 +33,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Stanford Prison Experiment
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **伦理影响** 该实验成为[[Research Ethics\|研究伦理]]讨论的经典案例，直接推动了心理学研究中伦理审查制度的加强。它揭示了[[Role-playing\|角色扮演]]在缺乏"保护入戏"（protection into role）和"[[Self-spectator\|自观]]"（self-spectator）机制时可能导致参与者情感受损的风险（Bolton, 1996, p. 188）。（Ch. 26）
 > - **方法论影响** 早期角色扮演方法论的支持者曾引用该实验来论证：当角色扮演中引入真实感和自发性时，实验条件确实能模拟真实情境。然而，后世的批判性分析指出该实验的方法论缺陷——参与者从未被告知这是"角色扮演"，实验文件中也没有任何关于如何安全地"进入角色"和"走出角色"的指引（Bolton, 1996, p. 188）。（Ch. 26）
 > - **理论影响** 实验支持了 Zimbardo 的结论：看守和囚犯行为的戏剧性差异源于他们在监狱制度结构中的不同位置和当时的社会心理条件，而非两组参与者的人格差异。然而，这一解释后来受到 Banuazizi and Movahedi（1975）等学者的质疑。（Ch. 26）

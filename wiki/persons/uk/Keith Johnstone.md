@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Keith Johnstone
@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1933** 出生于英国英格兰西南沿海德文郡（Devon），父亲为药剂师，成长于药房楼上。
 > - **1950s–1960s** 任职于伦敦皇家宫廷剧院（Royal Court Theatre），担任编剧、选稿人与副艺术总监，创立写作与演员工作坊，系统探索自发性、无审查表演与微观地位博弈演练。
 > - **1972** 移居加拿大，任教于卡尔加里大学（University of Calgary）戏剧系，开创剧场运动竞技赛制（Theatresports）与“大猩猩剧场”（Gorilla Theatre）。
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **艺术与演剧学路径** 彻底重构了 20 世纪后期的[[Role-playing|即兴戏剧]]、喜剧创作与影视表演训练[[Paradigm|范式]]，促成了当代影视即兴喜剧文化的繁荣。
 > - **认知与心理学路径** 揭示了日常社交互动中无处不在的微观统治与服从信号，推动了人际沟通分析与社会互动心理学的发展。
 > - **科技与管理组织路径** 被硅谷先锋科技企业（如 [[Palantir Technologies|Palantir]]）引入作为工程师入职必读书目，成为培育反科层固化、注重实效、倡导心理弹性与即兴协作的[[Engineering Mindset|工程思维]][[Organizational Culture|组织文化]]基石。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想渊源** [[Konrad Lorenz]] — 约翰斯通关于群体地位等级与微观支配行为的分析深度受到劳伦兹《所罗门王的指环》中对寒鸦社会[[Pecking Order|啄序]]（Pecking Order）行为观测的启发。
 > - **当代应用者** [[Alexander Karp]] 与 [[Nicholas Zamiska]] — 将约翰斯通的《即兴》作为初创科技企业核心文化教材，用于破除大企业病与形式主义层级壁垒。
 

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Samuel P. Huntington
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** 出生于美国纽约市。
 > - **1946–1951** 毕业于耶鲁大学，并在哈佛大学获得政治学博士学位。
 > - **1950–2007** 长期任教于哈佛大学政府系，担任哈佛大学国际事务中心主任。

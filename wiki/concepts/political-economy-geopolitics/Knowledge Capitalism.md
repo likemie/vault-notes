@@ -45,12 +45,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > [[Intellectual Capital|知识资本]]主义（Knowledge Capitalism）指一种以知识作为首要资本积累形式的全球经济秩序。在这一秩序中，知识的生产、商品化和流通——而非传统的物质资本（土地、工厂、机器）——成为价值创造和经济增长的核心驱动力。高等教育在这一转型中被根本性地重新定位：从[[Knowledge Production\|知识生产]]和传播的公共机构转变为[[Knowledge-Based Economy\|知识经济]]中产生价值和比较优势的关键基础设施（Peters, 2013, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.90]]）。
 >
 > 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 对高等教育全球转型的分析中，知识资本主义的兴起被列为解释过去三十年间高等教育深刻转型的四大因素之一（其余三项为：工作性质的转变、全球化、技术创新）。
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!example] 概念辨析
+> [!example|notitle] 概念辨析
 > - vs [[Knowledge-Based Economy]]：KBE 描述经济形态（知识作为价值来源），[[Intellectual Capital|知识资本]]主义强调资本积累的**制度逻辑**（知识如何被转化为可积累、可交易的资本）。两者高度重叠但分析焦点不同。详见 知识经济 > 定义
 > - vs [[Knowledge-Based Economization]]：知识经济化关注 KBE 被[[Discourse|话语]]想象和物质实践**持续建构的过程**，知识资本主义则关注这一过程所导向的**制度结果**——一种以知识为资本核心形式的全球秩序
 > - vs [[New Public Management\|NPM]]：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（[[Knowledge Production\|知识生产]]的主要场所）就应当像企业一样被管理和优化
@@ -74,7 +74,7 @@ updated: 2026-10-20
 
 ## 在 Rizvi 论证中的位置
 
-> [!info] 在 Rizvi 论证中的位置
+> [!info|notitle] 在 Rizvi 论证中的位置
 > [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 将[[Intellectual Capital|知识资本]]主义定位为解释高等教育全球转型的**既有解释之一**——它有其解释力，但存在一个系统性的盲点。
 >
 > 知识资本主义视角正确地识别了：大学治理被市场逻辑重塑、知识的经济价值压倒了"为知识而知识"的理念、[[New Public Management\|NPM]] 原则重新定义了学术工作的组织方式。但它和另外三个因素（工作性质转变、全球化、技术创新）一样，倾向于将这些变化视为**全球性的、中性的趋势**——仿佛它们无差别地施加于所有国家和地区([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])。
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note-] 概念演变
+> [!note-|notitle] 概念演变
 > [[Intellectual Capital|知识资本]]主义作为系统性的[[Analytic Framework\|分析框架]]由 Peters (2013) 阐述，但其知性根源可追溯至更早的学术脉络：
 >
 > - **1950s–1960s**Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of POST-Industrial Society* 中强调[[Theoretical Knowledge\|理论知识]]在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy\|知识经济]] > 学术脉络
@@ -103,7 +103,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [!abstract|notitle] 核心要素
 > - **知识作为首要资本形式** 财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、[[Human Capital Theory\|人力资本]]）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]]）
 > - **高等教育的资本化** 大学被重新定位为[[Knowledge-Based Economy\|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
 > - **知识的商品化** 知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production\|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.39]]）
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的核心批评：[[Intellectual Capital|知识资本]]主义的[[Analytic Framework\|分析框架]]倾向于将高等教育的变化视为全球性的、中性的趋势，忽视了[[Geopolitics|地缘政治]]力量——特别是亚洲崛起——作为独立因果[[Variable\|变量]]的作用。它无法解释亚洲中产阶级的教育消费如何通过殖民历史形成的文化想象和地缘政治动态重塑了全球高等教育的重心([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–91]])
 > - 知识资本主义的积极形象——通过知识创新实现无限增长——掩盖了其空间极化效应：为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]]指出的张力：将知识同时视为公共品和可私有占有的商品，需要一套评估和等级机制来协调这一矛盾。Reitz进一步论证，资本主义[[Knowledge-Based Economy\|知识经济]]需要一个非资本主义的学术部门来界定知识为有价值——同行评审、排名和[[Performance Indicators\|绩效指标]]不仅促进资源分配，更向雇主、投资者和政府提供关于专业知识价值的指导信号。如果评估机制本身由精英机构控制，知识的"价值"定义权就集中在少数机构手中，形成新封建式[[Knowledge Power|知识权力]]结构([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799, 804–805]])

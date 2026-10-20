@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Socioeconomic Status
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **父母[[Educational Level|受教育水平]]（Parental Education）** 家庭文化环境与教育期望的核心预测源，直接决定家庭语言互动质量与学业指导能力。
 > - **职业声望等级（Occupational Prestige）** 反映家庭在劳动力市场中的自主性与权力地位，通常采用国际通用的职业社会经济地位指数测算。
 > - **家庭财富与物质资源（Household Wealth & Income）** 提供稳定的学习空间、网络设备、辅导书籍与课外拓展机会的物理物质保障。
@@ -175,7 +175,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960 年代 — [[Coleman Report 1966|科尔曼报告]]与[[School Effectiveness|学校效能]]质疑** 詹姆斯·科尔曼（James Coleman）主持完成《教育机会均等报告》（*Coleman Report*, 1966），首次通过海量全国数据证实家庭社会经济背景对学生成就的影响远远超过学校物质设施与师资差异。
 > - **1970–1980 年代 — [[Pierre Bourdieu|布迪厄]]文化再生产与资本多维化** 皮埃尔·布迪厄（Pierre Bourdieu）提出[[Cultural Capital|文化资本]]与社会资本概念，推动社会经济地位研究从单纯的收入计量深入到阶层生活方式与符号权力传递。
 > - **2000 年代初 — [[PISA]] 评估与全球 SES 基准确立** [[OECD|经合组织]]（[[OECD]]）推行 PISA 国际学生评估，构建经济社会文化地位指数（ESCS），确立了社会背景是跨国学业变异主导来源的全球实证共识。
@@ -236,7 +236,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 审计[[John Hattie|哈蒂]] SES 正向[[Effect Size|效应量]]，揭示参照系反转后贫困成为全书最具破坏力的逆向因素（$-0.57$），并以挑战者号事故比喻批判去阶级情境的均值汇总（pp. 241–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判[[John Hattie|哈蒂]]拒绝将 SES 纳入调节[[Variable|变量]]的孤立归因偏误，提出“阶级盲教学思维”概念（pp. 6–7）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。

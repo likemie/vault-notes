@@ -161,7 +161,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Argument_Cowen(Ed.)_2009_Springer
@@ -221,7 +221,7 @@ updated: 2026-10-20
 
 ## 跨章主题线索
 
-> [!cross-chapter] 跨章主题线索
+> [!cross-chapter|notitle] 跨章主题线索
 > - **学科史编纂与传统发明解构**
 >   - **相关章节** Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]；Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]；Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]；Ch. 79（Cowen）。
 >   - **阅读价值** 系统展现比较教育学如何从早期的功能主义合法化叙事，走向对被遗忘的人物、传统与肖像学的全面批判与重构。
@@ -243,7 +243,7 @@ updated: 2026-10-20
 
 ## 章节处理路线
 
-> [!chapter-roadmap] 章节处理路线
+> [!chapter-roadmap|notitle] 章节处理路线
 > - **已处理章节**
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education\|比较教育学的比较史]]。
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif\|科学人道主义母题]]与[[Victor Cousin\|维克多·库森]]（Victor Cousin）、[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism\|改良主义]]母题，揭示借用作为政治合法化依据的机制。

@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Anaconda in the Chandelier
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 吊灯里的巨蟒（心理审查隐喻） | 机械条文审查（苏联式手册审查） | [[Panopticism\|全景敞视建筑]]（Panopticon） |
 > |---|---|---|---|
 > | **[[Disciplina and Doctrina\|规训]]机制** | 模糊红线引发前置心理恐惧与主动自律 | 依靠明文禁令清单逐项比对过滤 | 确信时刻处于中心凝视下的行为合规 |
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **惩戒红线的结构性模糊** 规则通常未以清晰法条明示，而是体现为动态、繁复且隐性的不成文行为准则与道德敏感点。
 > - **惩罚后果的非对称性** 一旦触发红线将面临毁灭性的社会声誉剥夺、职业取消或体制排斥，迫使行动者采取最大化的防御性退缩策略。
 > - **自我审查的无意识内化** 行动者在长期的心理规训中将避险本能内化为思维方式，最终丧失对重大真实议题提出原创性见解的智识冲动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
@@ -107,7 +107,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2002 — 汉学与比较政治分析奠基** [[Perry Link|林培瑞]]在《纽约书评》发表论文《中国：吊灯里的巨蟒》，系统确立该隐喻以阐释现代心理威慑审查机制。
 > - **2010年代 — 跨国政治学与文化研究应用** 概念被广泛引入政治学、传播学与法学领域，用以分析威权统治下社会信任的解构以及数字平台的隐性言论算法调控。
 > - **2020年代 — 西方高校取消文化与管理主义批判** 卡普等学者将该隐喻逆向应用于反思西方精英大学与科技巨头的内部文化，揭示语言审查与道德合规如何造成严重的思想空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
@@ -128,5 +128,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借[[Perry Link|林培瑞]]的隐喻深刻剖析当代美国大学行政管理层因恐惧引发舆论非议而全面推行语言管控与自我审查的心理根源。

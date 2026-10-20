@@ -71,7 +71,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Counterfactual
@@ -199,7 +199,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1748 — 休谟哲学反事实雏形** 大卫·休谟（David Hume）在《人类理解研究》中首次提出反事实定义：“若第一个对象不存在，则第二个对象从未存在”，开启了[[Causality\|因果推断]]的反事实思考传统。
 > - **1923–1974 — 内曼-鲁宾潜在结果模型** 耶日·内曼（Jerzy Neyman, 1923）与唐纳德·鲁宾（Donald Rubin, 1974）形式化建立了潜在结果模型（Rubin Causal Model），用数学符号严密界定个体接受与未接受处理的潜在状态。
 > - **1986 — 霍兰德提出因果推断基本问题** 保罗·霍兰德（Paul Holland, 1986）发表里程碑论文《统计学与因果推断》，明确断定因果推断的本质困难在于反事实不可直接观测，确立[[Random Assignment\|随机化]]实验作为群体反事实代理的基准地位。
@@ -257,7 +257,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量规约，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。

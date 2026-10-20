@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Gert Biesta
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1957** 出生于荷兰，接受教育哲学与社会学训练。
 > - **2003** 与尼古拉斯·伯布利斯（Nicholas Burbules）合作出版《[[Pragmatic Paradigm|实用主义]]与教育研究》，系统奠定基于[[John Dewey|杜威]]交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）的哲学基础。
 > - **2007** 发表论文 *Why 'what works' won't work*，首次提出[[Evidence-Based Education|循证教育]]的“民主缺陷”，成为全球批判[[Positivism|实证主义]]循证[[Paradigm|范式]]的标志性文献。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 构建教育目的三维[[Analytic Framework|分析框架]]与教育三重[[Deficiencies Model for an Introduction|缺陷模型]]，重塑了当代全球教育哲学反思[[Positivism|实证主义]]与绩效问责的理论语汇；提出[[Learnification|学习化]]批判，重申教师作为文化引导者与意义启迪者的崇高地位。
 > - **方法路径** 倡导基于开放、递归与符号系统的教育[[Ontology|本体论]]分析，论证教育涉及非[[Determinism|决定论]]复杂系统，推动研究界从孤立因果线性干预转向审视社会复杂性与情境意义生成。
 > - **政策与实践路径** 深刻影响了英国、荷兰、北欧等国教师教育体系与课程哲学重构，为一线教师抗拒官僚化数据考核、捍卫课堂[[Professional Judgment|专业判断力]]（[[Phronesis|实践智慧]]）提供了关键思想武器。
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **哲学奠基资源** [[John Dewey|约翰·杜威]]（交易[[Epistemology|认识论]]与经验探究哲学）、[[Hannah Arendt|汉娜·阿伦特]]（行动理论与公共领域主体化）、[[Bruno Latour|布鲁诺·拉图尔]]（科学社会学与[[Actor-Network Theory|行动者网络理论]]）。
 > - **学术合作与理论对话** 尼古拉斯·伯布利斯（Nicholas Burbules，合著[[Pragmatic Paradigm|实用主义]]奠基之作）、[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Critical Pedagogy|批判教育学]]对话者）。
 > - **批评靶标与制度对象** [[Evidence-Based Education|循证教育]]倡导者、[[John Hattie|约翰·哈蒂]]（可见学习模式）、[[OECD]] 与 [[PISA]] 标准化测评体制。

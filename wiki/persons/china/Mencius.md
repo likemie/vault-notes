@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Mencius
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **约 372 BCE** — 出生于邹国（今山东邹城）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 42)]]。
 > - **战国中期** — 曾短暂在齐国任大夫数年，但拒绝被任何国君“收买”或在不合道德原则的体制下服务[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 45)]]。
 > - **游说诸侯时期** — 坚持作为独立教师与独立思想者的身份（在独立性上与[[Socrates\|苏格拉底]]遥相呼应），游说魏国（梁惠王）、齐国等诸侯，痛批“治国求利”的功利主义，主张施行仁政。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** — 性善论与[[Four Sprouts\|四端]]说为[[Confucian Learning Tradition\|儒家学习传统]]提供了哲学基石；“人人皆可为尧舜”使道德修养从贵族特权走向平民化[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 43)]]。
 > - **思想史路径** — “自得之”成为[[Neo-Confucianism\|宋明理学]]（如[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]]）重新发现内在体验与心性修养的关键枢纽。
 > - **政策与课程路径** — 《孟子》被朱熹列入“四书”，主导[[Civil Service Examination\|科举]]考试逾六百年；当代中国《语文》必修教材将其选为“中华优秀传统文化”的[[Official Knowledge\|官方知识]]典范[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
@@ -136,7 +136,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承与精神宗师** — [[Confucius\|孔子]] — 继承并深化其仁学与[[Self-Cultivation\|修身]]思想。
 > - **理论继承者与阐发者** — [[Zhu Xi\|朱熹]] — 将《孟子》升格为“四书”之一，确立其在理学中的正统地位。
 > - **学术论敌** — [[Xunzi\|荀子]] — 提出“性恶论”，与孟子“性善论”构成中国思想史上最核心的人性论对立。

@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Sematech
@@ -246,7 +246,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统总结 Sematech 的历史成效与治理经验，阐明其在面对共性高风险工程挑战时通过[[Counterpart Funds|对等资金]]匹配与[[Pilot Scale Platform|中试验证线]]对齐产业利益的机制，并提炼出前竞争联合体适用的三大黄金特征，将其作为《[[CHIPS and Science Act|芯片法案]]》[[National Science and Technology Council|NSTC]] 与新型制造中试基地的制度蓝本。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 深入考察 [[DARPA]] 在对等资助 Sematech 中的催化角色，对比全额资助的 VHSIC 计划，提炼出由产业主导议程、政府提供对等资金的高技术公私研发联盟治理准则。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 深度剖析 Sematech 作为历史公私联合体在工艺改良与装备协同中的治理机制，并将其与 21 世纪[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）作为中立产业公共品的开放准入与非排他许可架构进行比较分析。

@@ -36,7 +36,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nam Pyo Suh
@@ -54,7 +54,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!dev-timeline] 生平与职涯
+> [!dev-timeline|notitle] 生平与职涯
 > - **1936** 出生于韩国京畿道，后赴美求学。
 > - **1959–1964** 于麻省理工学院相继获得机械工程学士与硕士学位，1964 年获卡内基梅隆大学（Carnegie Mellon University）博士学位。
 > - **1970 之后** 长期任教于麻省理工学院机械工程系，创立并主持 MIT 制造与生产力实验室（Laboratory for Manufacturing and Productivity, LMP），在传统个人首席研究员（Principal Investigator, PI）资助体制下积累了深厚的工程制造学术声誉。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 371)]]
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **科技政策与资助机制** 在 [[National Science Foundation|NSF]] 任内推动确立 [[Engineering Research Centers|ERC]] 的多学科跨部门工程集成标准，直接促成了美国联邦工程科学资助从零散课题向重大中心制转型的制度落地。
 > - **[[Engineering Education|高等工程教育]]改革** 倡导将系统工程、制造工艺与前沿动手实践融入本科及研究生工科核心课程，深刻影响了全美工学院的培养模式设计。
 > - **跨国高教治理扩散** 执掌 KAIST 期间将美国产学协同与绩效问责机制移植至东亚高教生态，推动了亚洲顶尖理工大学的国际化重构。
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心搭档** [[Erich Bloch]] — 共同在 [[National Science Foundation|NSF]] 顶层规划并强力推进[[Engineering Research Centers|工程研究中心计划]]落地的领导者。
 > - **领导机构** [[National Science Foundation]] — 1984–1988 年担任其首任工程学助理主任并主掌工程学学部（ENG）。
 > - **代表项目** [[Engineering Research Centers]] — 其在 NSF 期间主导设计评审指南并遴选首批试点中心的核心国家工程科研计划。

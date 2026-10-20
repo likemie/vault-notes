@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Epistemological Reflection Model
@@ -47,7 +47,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 大学生对学习经验、知识本质以及认知过程的[[Epistemology\|认识论假设]]。
 > - **理论问题** 认识论发展中是否存在与性别相关的微观推理模式？如何弥合前人纯男性样本与纯女性样本研究结论之间的割裂？
 > - **理论类型** 纵向发展阶段与类型学混合模型。
@@ -100,7 +100,7 @@ updated: 2026-10-16
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 西方高等教育环境下的大学生[[Epistemology\|认识论]]转变以及课堂互动风格差异。
 > - **谨慎使用（Hofer的批评一）** 该模型的[[Construct\|构念]]存在边界不清的问题。它不仅测量了学生对“知识和认知”的纯粹认识论假说，还测量了他们对“学习者角色、同伴角色、评价方式”的广义教育预期（例如如何看待考试分数）。这些属于边缘信念，而非核心的[[Epistemological Theories\|认识论理论]]。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]
 > - **局限（Hofer的批评二）** 模型所描述的最高阶——“[[Contextual Knowing\|语境认知]]”——实际上在大学高年级学生样本中极为罕见（仅占 2%），且其结论主要基于同质化的中西部美国大学样本，跨文化推广需谨慎。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1970 年 — 纯男性样本** Perry (1970) 提出了大学生认知的纵向发展图式，但其样本最初完全由哈佛的白人男性构成。
 > - **1986 年 — 纯女性样本** Belenky 等 (1986) 提出了[[Women's Ways of Knowing\|女性认知方式]]，试图弥补女性视角的缺失。
 > - **1992 年 — 混合纵向追踪** Baxter Magolda (1992) 对 101 名男女大学生进行了为期 5 年的纵向追踪，首次提出了整合两个阵营的[[Epistemology\|认识论]]反思模型。

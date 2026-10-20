@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nordic Model of Education
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 北欧教育模式 | [[Global Education Industry\|全球教育产业]] (GEI) 驱动模式 |
 > |------|---|---|
 > | **核心价值** | 民主、团结、公平与社会包容（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。 | 效率、个人竞争、市场选择与经济增长（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 9]]）。 |
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **民主与平等主义** 通过均等化的全纳教育（[[Comprehensive Education|comprehensive schooling]]）机制，防止学生被过早分流，致力于赋予每一个体以同等的市民道德和自治能力（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
 > - **团结与社会包容** 视学校为促进社会成员相互理解、建立集体责任感和情感共鸣的合作共同体，强调协作解决问题而非个体间竞争（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8, 10]]）。
 > - **教师专业信任** 历史上面临较少的外部监督。北欧（特别是芬兰）体制传统上赋予教师高度的教学法决策权，依赖教师的社会责任感而非外部问责数据（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]）。
@@ -100,7 +100,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1920s–1970s — 奠基与黄金时期** 北欧各国相继推行基础学校（Comprehensive School）改革，统一替代传统的分流精英学校，确立了融合平等与团结的“北欧教育模式”基石（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
 > - **1990s — 萧条下的改革变局** 苏联解体和经济萧条促使北欧（如芬兰）引入[[New Public Management\|新公共管理]]改革，废除教材审查等传统控制，但在理念上开始积极倒向 [[OECD]] 等组织的全球软治理与市场[[Discourse|话语]]。
 > - **2000s 至今 — [[PISA]] 冲击与新自由主义重构** PISA 夺冠将芬兰捧为全球效仿的模型，但同时也使北欧模式处于持续变革以防止“落后”的竞争性高压中，标准化测量和技能原子化导致该模式的民主与人道主义核心理念面临持续消解风险（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
@@ -109,6 +109,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry\|全球教育产业]]重塑。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]揭示了北欧模式如何作为各国回应 [[PISA]] 的文化-制度转译框架：挪威案例展示了北欧模式与 PISA 公平框架的天然契合，以及挪威语中 accountability 缺失对测试问责的文化免疫力。

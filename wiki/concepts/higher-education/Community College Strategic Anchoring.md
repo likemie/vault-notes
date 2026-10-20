@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Community College Strategic Anchoring
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 社区学院战略产业锚定（Strategic Anchoring） | 传统社区学院转学模式（Transfer-Oriented Model） | 传统职业技校孤立培训（Isolated Vocational Training） |
 > |---|---|---|---|
 > | **核心使命** | 为区域千亿级先进制造集群提供即插即用型高技能技术员 | 为四年制大学输送通识文理转学生，侧重基础学术铺垫 | 面向传统服务业或常规工业，侧重初级单一工种培训 |
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **前沿制造设备共建共享** 战略制造企业直接向学院捐赠或低成本租借晶圆制造机台与生物反应器等实体硬件。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 > - **区域学院联盟协同课程** 跨区域统筹多所社区学院联合开发开放式技术员模块化课程体系，破除单校孤立开发壁垒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 55)]]
 > - **多方利益主体生态对齐** 地方政府激励、先锋科技企业投资与地方教育机构深度对齐，形成良性劳动力生态。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20 世纪中叶 — 初级学院大众化普及** 美国社区学院网络成型，主要承担初级[[General Education|通识教育]]与战后退伍军人技能再培训。
 > - **2022–2025 — [[CHIPS and Science Act|芯片法案]]与区域制造回流** 随着先进半导体和新能源制造业大规模落地，社区学院成为各州争夺产业投资的关键技能承接点。
 > - **2026 — 战略锚定与区域技能枢纽模式确立** 《科学：新黄金时代》总结俄亥俄与得克萨斯实践，正式将社区学院战略产业锚定作为国家[[Innovation Ecosystem|创新生态]]四大支柱之一。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–55)]]
@@ -142,5 +142,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统总结俄亥俄新奥尔巴尼与得克萨斯泰勒半导体集聚区依托社区学院联盟构筑区域技能枢纽的政策与实践经验。

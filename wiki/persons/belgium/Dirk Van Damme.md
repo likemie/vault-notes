@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dirk Van Damme
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1989** 获得比利时根特大学教育科学博士学位，随后留校任教，晋升为教育科学教授，兼任布鲁塞尔自由大学比较教育学教授及美国西东大学客座教授。
 > - **2000–2003** 出任比利时弗拉芒大区教育与培训部长内阁幕僚长，深度主导佛兰德地区高等教育质量保障体系与学位法案改革。
 > - **2004–2008** 担任弗拉芒大区大学联合会总干事，领导区域高等教育机构评估与国际化战略。
@@ -141,7 +141,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Disciplinary Institutionalization|学科建制]]路径** 呼吁摆脱教育学从属于社会学或经济学的附庸地位，倡导建立教育科学自身严密的因果演绎体系与学术自律规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205)]]
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **智库同行** [[Andreas Schleicher]] — 同期执掌 [[OECD]] 教育与技能司关键机构（[[Centre for Educational Research and Innovation\|CERI]] 与 [[PISA]]/[[Teaching and Learning International Survey\|TALIS]]），共同推动全球[[Evidence-Based Education\|循证教育]]决策与指标体系建设。
 > - **政策与方法论辩者** [[Mark Schneider]] — 共同诊断供给侧的质量缺陷与复现赤字；范达默偏向欧洲传统的[[Discipline-Based Theory\|学科理论]]自主演绎与蓝天基础资助，施奈德主导美国联邦工程化的 SEER 卓越标准。
 > - **学术[[Axiology\|价值论]]辩者** [[Vivian Tseng]] — 范达默警惕政治行动主义与即时实用迎合，主张科学中立与同行自律；曾薇薇安主张打破出资人垄断，将消除系统不平等与弱势社群自我赋权作为科研首要价值。

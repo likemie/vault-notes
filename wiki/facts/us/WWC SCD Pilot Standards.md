@@ -56,18 +56,18 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 背景
 
-> [!info] 背景
+> [!info|notitle] 背景
 > [[What Works Clearinghouse]] 最初的设计标准主要针对组间[[Design-Based Research\|设计研究]]（[[Randomised Controlled Trials\|RCT]] 和准实验）。随着[[Single-Case Design\|单一个案设计]]（[[Single-Case Design\|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的[[Internal Validity\|内部效度]]和[[External Validity\|外部效度]]([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.460]])。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 
 ## 与 WWC 的关系
 
-> [!example] 与 [[What Works Clearinghouse\|WWC]] 的关系
+> [!example|notitle] 与 [[What Works Clearinghouse\|WWC]] 的关系
 > WWC [[Single-Case Design\|SCD]] Pilot Standards 2010 不是独立清算中心，也不是 WWC 的整体[[Evidence Standards\|证据标准]]手册，更不是 [[Single-Case Design]] 方法本身；它是 WWC 审查系统中专门用于 SCD 研究的技术标准文件。该技术文档由 Kratochwill、Hitchcock 和专家组为 [[Institute of Education Sciences\|IES]] 开发，并处于 Mathematica Policy Research, Inc. 运营 WWC 的合同框架下([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.459]])。
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.460–461]])。
@@ -76,7 +76,7 @@ updated: 2026-10-17
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [!abstract|notitle] 政策文本摘要
 > [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill and Hitchcock 以及专家组为 [[Institute of Education Sciences]] (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.459]])。
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works [[Educational Evidence Clearinghouses\|Clearinghouse]] (WWC)."
@@ -85,7 +85,7 @@ updated: 2026-10-17
 
 ## 关键组件
 
-> [!info] 关键组件
+> [!info|notitle] 关键组件
 > ### [[Single-Case Design\|SCD]] 设计标准
 > [[Evaluation Research\|评估研究]]是否建立了充分的实验控制（[[Internal Validity\|内部效度]]），包括([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.465]])：
 > - 阶段对比（phase contrasts）的数量和设计
@@ -128,7 +128,7 @@ updated: 2026-10-17
 
 ## 标准中的推广性处理
 
-> [!abstract] 标准中的推广性处理
+> [!abstract|notitle] 标准中的推广性处理
 > [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design\|SCD]] 评估量规时，仅审查了 [[Single-Case Design\|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse\|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
@@ -138,7 +138,7 @@ updated: 2026-10-17
 
 ## 时间线
 
-> [!note] 时间线
+> [!note|notitle] 时间线
 > - **2010** — Kratochwill et al. 发布 [[Single-Case Design\|SCD]] 技术文档 Version 1.0 (Pilot)([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.459]])
 > - **2013** — Kratochwill et al. 在 *Remedial and Special Education* 上正式发表 [[Single-Case Design\|SCD]] [[Intervention Research\|干预研究]]设计标准([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.468]])
 > - **2013** — Maggin et al. 发表 7 种 SCD 量规的比较研究，指出 [[What Works Clearinghouse\|WWC]] 标准在推广性方面的不足([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.460]])
@@ -147,28 +147,28 @@ updated: 2026-10-17
 
 ## 实施情况
 
-> [!example] 实施情况
+> [!example|notitle] 实施情况
 > 截至 2015 年，[[What Works Clearinghouse\|WWC]] 基于 [[Single-Case Design\|SCD]] 证据的报告数量"极少"（minimal），导致对标准实际应用的公开信息有限([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.461]])。Hitchcock et al. 希望随着更多报告的发布，"该领域将更容易理解审查过程"（p.467）。
 >
 > 标准本身被描述为"试行"（Pilot），暗示它们需要在实践中被检验和修订。作者明确表示 5-3-20 规则"可能在积累艰难的审查经验后被重新审视"（p.467）。
 
 ## 效果与评价
 
-> [!success] 效果与评价
+> [!success|notitle] 效果与评价
 > - **[[Internal Validity\|内部效度]]判断的一致性** Maggin et al. (2013) 发现，7 种量规在 [[Single-Case Design\|SCD]] 研究内部效度判断上产生了合理一致的结果——这并不令人惊讶，因为 Campbellian 效度框架适用于多种设计类型([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
 > - **推广性判断的分歧** 各量规在推广性标准上存在"相当大差异"——有些量规捕获了大量推广性细节，有些则功能性忽略此考虑（p.461）
 > - **澄清效应** Hitchcock et al. 希望通过澄清"系统如何运作"，使 [[Single-Case Design\|SCD]] 研究社区理解标准，"从而促进对 [[What Works Clearinghouse\|WWC]] 未来报告的使用，并可能影响 SCD 研究的实施和报告方式"（pp.461–462）
 
 ## 争议与评论
 
-> [!warning] 争议与评论
+> [!warning|notitle] 争议与评论
 > - **澄清 vs 批评** Hitchcock et al. 的立场是澄清而非反驳——他们"理解几个因素可能导致对 [[What Works Clearinghouse\|WWC]] 试行标准的困惑"（p.461），并以解释性语气呈现审查程序
 > - **关于推广性评分的分歧** WWC 选择不评分推广性细节（而是描述它们供消费者自行判断），这与某些量规对推广性标准进行正式评分的方法形成对比——哪种方法更有用尚无定论
 > - **标准演进需求** 作者认可"在澄清 [[Single-Case Design\|SCD]] 信息如何能为原研究场所以外的情境提供信息方面，还有很多工作要做"（p.467），并计划在另一篇文章中专门讨论复制等问题
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
+> [!example|notitle] 相关概念／政策
 > - [[Single-Case Design]] — [[Single-Case Design\|SCD]] 是被该标准审查的方法本体；[[What Works Clearinghouse\|WWC]] SCD Pilot Standards 2010 是其在 WWC 审查体系中的制度化标准，而非 SCD 的完整定义([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.459–461]])
 > - [[5-3-20 Rule]] — 标准中定义的证据充分性阈值
 > - [[Gating Procedure]] — 标准实施中采用的[[Systematic Review\|系统综述]]策略

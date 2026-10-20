@@ -41,12 +41,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 门控程序（Gating Procedure）是[[Systematic Review\|系统综述]]中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强[[Internal Validity\|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462, citing Maggin et al., 2013]])。
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 在 WWC SCD 审查中的具体应用
 
-> [!success] 在 [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]] 审查中的具体应用
+> [!success|notitle] 在 [[What Works Clearinghouse\|WWC]] [[Single-Case Design\|SCD]] 审查中的具体应用
 > 在 WWC 的 [[Single-Case Design\|SCD]] 审查流程中，门控程序按以下顺序运作([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.464–465]])：
 >
 > 1. **初步筛选** 对照审查协议，判断研究的干预、因[[Variable\|变量]]、场所和参与者特征是否符合协议参数
@@ -86,14 +86,14 @@ updated: 2026-10-20
 
 ## 局限性与批评
 
-> [!warning] 局限性与批评
+> [!warning|notitle] 局限性与批评
 > - **信息排除** 门控程序功能性地排除了来自弱[[Internal Validity\|内部效度]]研究的信息——这些研究可能包含有价值的推广性洞见([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
 > - **保守性偏差** 门控程序可能系统性地排除某些类型的证据（如特殊人群或难以实施严格实验设计的情境中的研究），导致证据基础的覆盖范围受限
 > - **与全纳入策略的永久权衡** 门控程序使发现更容易传播，但全纳入策略呈现证据全貌——两种策略之间存在不可消除的权衡
 
 ## 相关概念
 
-> [!example] 相关概念
+> [!example|notitle] 相关概念
 > - [[Single-Case Design]] — [[What Works Clearinghouse\|WWC]] 对 [[Single-Case Design\|SCD]] 和组间设计均采用门控程序
 > - [[5-3-20 Rule]] — 门控程序之后的[[Research Synthesis|证据综合]]阈值
 > - [[Evidence-Based Education]] — 门控程序是 EBE 机构（WWC）审查证据的操作方法之一

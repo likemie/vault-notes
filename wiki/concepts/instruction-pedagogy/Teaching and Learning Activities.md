@@ -38,7 +38,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Teaching and Learning Activities
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 应用案例
 
-> [!evidence-grid] 应用案例索引
+> [!evidence-grid|notitle] 应用案例索引
 > - **[[Problem-Based Learning\|问题本位学习]]** 专业问题同时决定学生的诊断、检索、假设、应用和复盘活动，使活动直接服务专业[[Problem Solving\|问题解决]]目标。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 > - **[[Learning Portfolio\|学习档案袋]]** 评估证据的协商促成日志、学习伙伴、讨论组、试交和修订，活动由评估要求自下而上形成。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 72–73)]]
 
@@ -166,5 +166,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 按控制主体分类教学与学习活动，说明不同活动最可能引出的学习，并把活动选择纳入[[Constructive Alignment\|建构性对齐]]。

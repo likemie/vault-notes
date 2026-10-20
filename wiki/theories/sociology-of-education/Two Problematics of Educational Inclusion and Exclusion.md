@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Two Problematics of Educational Inclusion and Exclusion
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代教育改革与政策治理中，“包容”（Inclusion）与“排斥”（Exclusion）如何在宏观制度结构与微观知识[[Discourse|话语]]双重层面上交织生成。
 > - **理论问题** 传统自由主义与[[Positivism|实证主义]]政策研究长期将“教育排斥”窄化为入学机会不足、资源短缺或社会代表性失衡，忽视了看似崇高和普惠的包容性改革政策，往往在其内部推理系统与分类规则中内生性地生产出对边缘人群的深层否定与文化排斥。
 > - **理论类型** 教育社会学[[Critical Theory|批判理论]]、社会[[Epistemology|认识论]]（Social Epistemology）[[Analytic Framework|分析框架]]。

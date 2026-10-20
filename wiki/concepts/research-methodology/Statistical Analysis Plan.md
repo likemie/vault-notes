@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Statistical Analysis Plan
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **主效应回归模型形式化（Primary Model Equation）** 用明确的数学公式锁定因果估计方程（例如：指定两级[[Hierarchical Linear Model\|分层线性模型]]、固定斜率与随机截距、[[Dependent Variable\|因变量]]标准化方式及 Hedges' $g$ 计算分母）。
 > - **协[[Variable\|变量]]前置刚性列表（Pre-specified Covariates）** 逐一明确纳入主模型的控制变量名称与测量来源（如强制纳入英国 NPD 统考基线[[Pre-test and Post-test\|前测]]成绩），严禁在看到回归结果后随意增删控制变量。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **层级群聚与[[Standard Error\|标准误]]估计准则（Clustering Standard Errors）** 明确设定如何校正学校或班级层级的[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC），指定采用 Huber-White 聚类稳健标准误还是全贝叶斯[[Stratified Sampling\|分层抽样]]。
@@ -207,6 +207,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细阐明 [[Education Endowment Foundation\|EEF]] 如何通过将 SAP 前置备案、[[ISRCTN]] 试验注册与 NPD 数据库归档深度咬合，打造全链条透明与可复现性治理体系。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 反思[[Meta-meta-analysis\|元综合]]中纳入研究在分析方法学上的质量门槛，强调先验协议对控制二阶综合偏差的关键价值。

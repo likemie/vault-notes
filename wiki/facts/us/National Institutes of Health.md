@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Institutes of Health
@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 以抗癌药紫杉醇（Taxol）为例，批判 NIH 资助模式下“公帑托底早期临床风险、私人药企独吞商业暴利”的双重付费弊端。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，高度评价 NIH 主任先锋奖在长周期对人资助上的倍增效应，剖析 [[Accelerating Medicines Partnership|AMP]] 公私伙伴平台与学者老龄化/行政羁绊，主张设立法定[[Metascience|元科学]]单元。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 实证阐发 NIH 在生物医药产业中充当核心[[Market Shaping and Creating|市场创造]]者的事实，深入揭示公私研发中“风险社会化、收益私有化”的结构性失衡与治理对策。

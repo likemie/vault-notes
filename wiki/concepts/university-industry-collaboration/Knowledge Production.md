@@ -200,7 +200,7 @@ updated: 2026-10-21
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **大学职能的研教合一（Research-Teaching Nexus）** 现代[[Research Universities|研究型大学]]确立了知识生产与传播兼备的双重使命，经由研究生院制度将前沿科学知识生产与青年学者[[Apprenticeship|学徒制]]培养深度绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **同行评审竞争与分散资助机制** 美国战后科研体制确立了联邦基金（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）直接面向学者个人竞争性下拨的模式，构成了推动基础科研高产出的制度动力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **成果知识产权与商业化归属博弈** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》出台与[[Academic Capitalism|学术资本主义]]扩张，大学基础研究产出的大量专利法律所有权被工业资本捕获，改变了科研成果的公有属性。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
@@ -476,7 +476,7 @@ updated: 2026-10-21
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示教育治理机构如何通过预设单一范式与终审定稿清洗生产服务于国家简化的行政合规知识，从科学哲学视角解构静态“当前知识状态”的虚妄性。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示大国科技竞争与地缘脱钩如何阻断跨国知识管道并削弱全球知识生产中心地位（pp. 693–694）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论证美国大学知识生产与传播并重的历史转型（[[Humboldtian Model of Higher Education|洪堡理念]]与研究生院体制），阐明去中心化资助竞争的卓越生产力及其引发的学术避险问题。

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Wolfgang Mitter
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1927** **纳霍德出生与中欧多文化历史底色** 出生于捷克斯洛伐克纳霍德（Náchod），深受中欧多民族、多语言与复杂历史传统的浸润。
 > - **1954** **美因茨大学获博士学位奠定斯拉夫史学根基** 在德国美因茨大学完成博士学业，专攻欧洲历史学、斯拉夫语言文学与教育学，奠定了其开展东西欧教育体制[[Rich and Thick Description|深描]]的文献学与历史发生学基础。
 > - **1972–1995** **执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 确立国家级非大学比较研究中枢** 出任德国[[International Education|国际教育]]研究所（DIPF）所长兼比较教育研究部主任，与瓦尔特·舒尔策（Walter Schultze）共同开辟专门比较教育研究实体与学术教席，成为西德大学体系之外最重要的国家学术智库。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
@@ -137,7 +137,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **学科史编纂[[Paradigm|范式]]** 建立了一套结合制度地理学、专业学会社会学与理论范式演进的多维学科史[[Analytic Framework|分析框架]]，超越了单纯的思想人物传记与单一学派演进叙事。
 > - **冷战与转型教育史标杆** 与安维勒共同确立了西方对苏联东欧社会主义教育实证[[Documentary Analysis|文献分析]]的严谨标准，两德统一与剧变后被中东欧学者奉为客观学术参照。
 > - **跨国学会制度化运作** 在 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 长期维系跨国个人会员制与超政治中立原则，使专业学术学会免受冷战阵营对抗与国家行政权力的工具化操弄。
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术同盟与德国学术重镇伙伴** [[Oskar Anweiler]] — 共同开创战后西德苏联与东欧教育研究传统，并在 DGfE 确立[[Comparative Education as a Cross-Sectional Area|比较教育作为交叉领域]]的[[Disciplinary Institutionalization|学科建制]]地位。
 > - **学会领袖与跨大西洋同行** [[Brian Holmes]]、[[Edmund King]] — 战后共同投身[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与世界联合会（[[World Council of Comparative Education Societies|WCCES]]）的创建与领导。
 > - **文化主义当代传承者** [[Robert Cowen]] — 共同主编与撰写《比较教育学国际手册》（2009），坚守欧洲历史文化主义与[[Epistemology|认识论]]批判主流。

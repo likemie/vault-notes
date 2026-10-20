@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # James Madison
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1751** 出生于弗吉尼亚州奥兰治县种植园贵族家庭。
 > - **1771** 毕业于新泽西学院（今普林斯顿大学），深入研读古典政治哲学、希伯来语与自然法理论。
 > - **1776–1786** 投身美国独立战争政治建构，起草弗吉尼亚宗教自由宣言，推动召开安纳波利斯会议。
@@ -108,7 +108,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术与立宪合作者** [[Alexander Hamilton|亚历山大·汉密尔顿]]（Alexander Hamilton）— 共同合著《联邦党人文集》，奠定联邦党人政治哲学。
 > - **终身政治盟友** 托马斯·杰斐逊（Thomas Jefferson）— 共同创立民主共和党，捍卫平民共和原则与州权平衡。
 > - **现代跨时代治理对话者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]与[[Lee Kuan Yew|李光耀]] — 在国家能力、公共薪酬与[[Procedural Piety|程序虔敬]]的反思中与麦迪逊的防腐设计展开历史性对话。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Techno-economic Paradigm
@@ -58,7 +58,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释长周期经济增长中由颠覆性[[General Purpose Technology|通用技术]]革命引发的大规模产业重构、管理革新与制度转型过程。
 > - **理论问题** 传统新古典增长理论将技术变迁简化为平滑外生的总量余值，完全忽略了技术革命与既有社会制度框架之间的剧烈结构冲突与滞后调整。
 > - **理论类型** [[Evolutionary Economics|演化经济学]]与技术创新长波理论（Neo-Schumpeterian Long Wave Theory）的元解释框架。
@@ -132,7 +132,7 @@ updated: 2026-10-16
 
 ## 认识论立场与方法含义
 
-> [!theory-stance] [[Epistemic Stances|认识论立场]]与方法含义
+> [!theory-stance|notitle] [[Epistemic Stances|认识论立场]]与方法含义
 > - **演化主义与历史唯物主义张力** 拒绝技术[[Determinism|决定论]]，主张技术经济潜力与社会政治选择之间存在复杂的共演（Co-evolution）关系。
 > - **历史比较方法论** 要求将技术变迁置于长达数十年的[[Immanuel Kant|康德]]拉季耶夫长波脉络中考察，反对仅看截面数据的短期静态回归。
 
@@ -140,7 +140,7 @@ updated: 2026-10-16
 
 ## 适用边界与误用警示
 
-> [!theory-boundary] 适用边界与误用警示
+> [!theory-boundary|notitle] 适用边界与误用警示
 > - **慎用于短期行业微调** 本理论专用于解释跨越数十年的全局性产业[[Paradigm|范式]]变革，不适合套用于企业内部普通单项软硬件工具的升级。
 > - **警惕将范式简单等同于某一具体行业** 信息技术范式指的是影响所有制造业与服务业的通用生产与管理原则，而非仅仅指代半导体或计算机制造本身。
 

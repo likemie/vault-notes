@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Educational Testing Service
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **行业影响** 奠定了现代心理测量学、计算机自适应测试（CAT）与自动化评分技术的国际工业级标准。
 > - **政策影响** 长期深度参与美国联邦与各州教育问责政策制定，为全球高等教育[[Learning Gain\|增值评价]]提供了最主要的标准化客观测量工具。
 > - **知识影响** 在《心理测量学》与教育评价领域发表了数以千计的奠基性文献，是[[International Education\|国际教育]]实证研究的重要知识策源地。

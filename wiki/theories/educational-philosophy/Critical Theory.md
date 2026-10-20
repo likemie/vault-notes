@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Critical Theory
@@ -93,7 +93,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 教育与社会中的权力非对称结构、[[Knowledge Production|知识生产]]中的意识形态运作、教育立法中的阶层利益再生产，以及实践者从制度性压迫中实现自主解放的能动路径。
 > - **理论问题** [[Positivism|实证主义]]将知识还原为中立的技术因果规律，[[Interpretive Paradigm|诠释范式]]局限于微观主观意义的共情理解；二者均排除了政治经济与意识形态语境，无法解释教育体制如何维持、合法化并再生产既有社会不平等。
 > - **理论类型** 规范性的社会批判与行动理论（Prescriptive and Normative Social Theory），兼具[[Ontology|本体论]]解构、方法论反思与政治实践变革三重功能。
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -208,7 +208,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 深度剖析官方强力规制教学法与科研标准的政策博弈、教育制度再生产社会不平等的隐蔽机制、技术官僚同盟对学科[[Discourse|话语]]权的寡头垄断，以及自下而上的教育平权抗争。
 > - **成立条件** 需要研究者掌握穿透技术话语的跨学科分析工具（社会学、政治学与经济学眼光），获取深入决策内幕的一手档案与政商关联数据，并持有明确的批判自省立场。
 > - **解释不足** 理论偏向宏观政治经济结构批判与微观意识形态解构，本身并不直接提供微观课堂教学法设计或良构的教学组织技术；过度依赖冲突[[Paradigm|范式]]，可能在一定程度上低估了制度内部合作协商与渐进改良的实际成效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 107–116)]]
@@ -254,7 +254,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。

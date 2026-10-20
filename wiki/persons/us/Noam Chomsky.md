@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Noam Chomsky
@@ -64,7 +64,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1928** 出生于美国宾夕法尼亚州费城。
 > - **1945–1955** 就读于宾夕法尼亚大学，师从泽里格·哈里斯（Zellig Harris），获语言学博士学位。
 > - **1955–2017** 长期任教于麻省理工学院（MIT）现代语言与语言学系。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cochran's Q Test
@@ -110,6 +110,6 @@ Q 统计量构成了现代[[Meta-analysis|元分析]][[Heterogeneity|异质性]]
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统评述 Cochran's Q 检验在[[Research Synthesis|证据综合]]中的统计原理及其向 $I^2$ 指标演进的历史背景。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍[[Meta-analysis\|元分析]]中同质性检验的操作程序与判定准则。

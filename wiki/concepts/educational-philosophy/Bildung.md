@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Bildung
@@ -272,7 +272,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **古代希腊罗马 — 游记观察与异域教化实践萌芽** 希罗多德、[[Xenophon|色诺芬]]、西塞罗与凯撒等古典作家在记录异域风土人情的同时，敏锐记录不同城邦与帝国的青年品格塑造与教化实践；[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）指出这一时期的跨国观察本质上是一门教育实践艺术（educating art），构成了现代比较教育与教化探究最早的经验雏形。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 > - **公元前5世纪 — 古希腊 [[Paideia]] 源头** [[Plato\|柏拉图]]与[[Socrates\|苏格拉底]]确立灵魂教化与城邦公民品德培养传统，将全人塑造置于教育最高本体。
 > - **18世纪末–19世纪初 — 德国唯心主义与洪堡改革** [[David Held|赫尔德]]尔、歌德、席勒与[[Georg Wilhelm Friedrich Hegel\|黑格尔]]奠定新人文主义教化哲学；洪堡将 Bildung 确立为柏林大学[[Academic Freedom\|学术自由]]与民族教育核心理念；随后传入芬兰，由 Snellman 等人阐发为学术自由与公民修养传统。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 6)]]
@@ -329,7 +329,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统梳理德国教化作为 19 世纪支配欧洲中等课程的四大古典传统之一，深入剖析二战浩劫导致的道德神话破灭及其向[[Scientific Paradigm|科学范式]]的跨越。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统阐释[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]的历史母题，确立以人为中心的全人教化比较传统。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释德国及中东欧比较教育如何以[[Allgemeine Pädagogik|普通教育学]]中的教化（Bildung）哲学为母体，通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制连接历史与社会学。

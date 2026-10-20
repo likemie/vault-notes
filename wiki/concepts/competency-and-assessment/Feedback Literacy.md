@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Feedback Literacy
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化对话与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless and Boud (2018, pp. 1318–1320)
 > - **做出评价判断（Making Judgments）** 依靠自身积累的学科专业规范与[[Evaluative Judgement\|评价性判断]]能力，审视外部反馈的合理性与证据支持度，准确诊断当前表现与卓越标准之间的真实差距。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
 > - **管理情绪与情感（Managing Affect）** 觉察批评性反馈引发的认知失调、防御心理或挫败焦虑，保持平稳理性的情绪平衡（Emotional Equilibrium），克服对负面评语的防御性抵触，同时戒除对权威算法或高威信评价者的盲从顺应。Carless and Boud (2018, pp. 1320–1321)
@@ -154,7 +154,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2010–2015 年 — 从单向传输到社会建构对话模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
 > - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性论文，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
 > - **2020 年 — 教师反馈素养框架的拓展深化** 卡利斯与温斯通（Naomi E. Winstone）进一步提出教师反馈素养（Teacher Feedback Literacy），从“教学设计、[[Student-Teacher Relationship\|师生关系]]敏感度、情境实践折衷”三大维度呼应学生素养的培育机制。
@@ -182,7 +182,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统阐明如何将反馈素养与[[Evaluative Judgement\|评价性判断]]相融合，通过高年级科研方法课中的对抗性质询与多源对比矩阵规程，迫使学生为每次修改独立辩护，成功防御自动化反馈导致的[[Cognitive Offloading\|认知外包]]与能力退化。
 
 ---

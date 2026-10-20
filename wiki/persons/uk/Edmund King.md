@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Edmund King
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1914** 出生于英国曼彻斯特，先后在曼彻斯特大学与伦敦大学接受古典人文学与教育学训练。
 > - **1953** **执教伦敦国王学院确立英国双子学术中枢** 进入伦敦大学国王学院（King's College London）教育系任教，随后开辟国王学院比较教育学教研中心并升任讲座教授。米特（[[Wolfgang Mitter]]）指出，国王学院与伦敦大学教育研究院（IOE）共同构成了战后英国比较教育教学与科研的核心网络。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1958** 出版里程碑跨国导论教材《其他学校与我们》（*Other Schools and Ours*），以文化语境主义为导向，成为战后欧美最具影响力的比较教育著作之一。
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **[[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 推动英格兰比较教育从纯人文学科考据走向服务于现代公共治理的决策科学，为战后跨国教育咨询确立了操作框架。
 > - **反唯[[Scientism\|科学主义]][[Epistemology\|认识论]]屏障** 在战后英美[[Scientific Paradigm\|科学范式]]高歌猛进之际，他对物理学[[Determinism\|因果决定论]]与机械预测的清醒反驳，为后续质性、生态与情境化比较研究维系了宝贵的理论空间。
 > - **跨国学会建制化推动** 主持伦敦大学国王学院教研中心，作为[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）与英国学会（BCIES）的核心奠基人，推动了西欧比较教育学术网络的制度化形成。
@@ -159,7 +159,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **英格兰学派双子星与最大论敌** [[Brian Holmes\|布赖恩·霍姆斯]] — 分据伦敦大学国王学院与教育学院，围绕假说-演绎法、社会预测与科学划界展开长达数年的跨学派大论战。
 > - **跨学科论争与规训对象** 玛格丽特·斯科特福德·阿彻（Margaret Scotford Archer） — 1979–1980 年金公开试图以传统学科正统权威规训阿彻的教育系统形态社会学，成为 1970 年代方法论断裂的标志性事件。
 > - **批判审视者与后辈学者** [[Robert Cowen\|罗伯特·考恩]] — 深入解剖金在[[Policy Science in Comparative Education\|政策科学]]中与权力的结盟，以及规训阿彻对英国比较教育跨学科生态造成的严重创伤。

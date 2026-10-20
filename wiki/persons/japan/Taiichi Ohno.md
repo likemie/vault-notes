@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Taiichi Ohno
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1912** 出生于中国大连（其父任职于南满洲铁道株式会社），后随家庭返回日本爱知县。
 > - **1932** 毕业于名古屋高等工业学校（现名古屋工业大学）机械工学专业，入职丰田纺织株式会社担任技术工程师。
 > - **1943** 转入丰田自动车工业株式会社（现丰田汽车公司），历任机械加工车间主任、制造部部长。
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 颠覆了传统泰勒制与福特制的大规模批量生产理论，开创了以敏捷拉动、现场观察与持续改善为核心的[[Lean Production|精益生产]]哲学。
 > - **方法路径** 确立了[[Five Whys|五问法]]作为全球质量工程、精益六西格玛与工业根因分析（RCA）的基准[[Operationalization|操作化]]工具。
 > - **跨领域拓展至软件工程与现代治理** 其精益理念直接催生了软件开发中的敏捷开发（Agile）、看板开发（Kanban）与站点[[Reliability|可靠性]]工程（Site Reliability Engineering, SRE）中的无指责复盘（Blameless Post-Mortem）；在《[[Technological Republic|技术共和国]]》中被确立为现代高科技组织抵御官僚化内耗与培育[[Engineering Mindset|工程思维]]的关键方法论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想导师与技艺传承** 丰田佐吉（Toyoda Sakichi） — 传授“深入观察现场”的习惯与“自働化”自动停机排错思想。
 > - **企业领导与支持者** 丰田喜一郎（Toyoda Kiichiro） — 提出“准时化”构想，全力支持大野耐一在车间开展颠覆性生产流程试验。
 > - **现代工程哲学与组织理论对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将大野耐一[[Five Whys|五问法]]确立为软件工程反官僚主义与组织根因诊断的核心方法论。

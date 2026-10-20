@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # John Allen
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1980 年代–1990 年代** 长期执教于英国开放大学地理系，专注于服务业经济地理、城市变迁与权力空间性研究。
 > - **2003 年** 出版里程碑式专著《失落的权力地理学》（*Lost Geographies of Power*），系统批判传统政治地理学中将权力等同于领土面积或资源的容器化倾向，奠定[[Relational Space\|关系性空间]]权力观。
 > - **2010 年** 与艾伦·科克伦（Allan Cochrane）合著发表《国家权力的[[Assemblage\|组装]]：政府与政治组织中的拓扑转移》（*Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*），将拓扑学与[[Assemblage\|装配理论]]全面结合，开创国家治理[[Topological Spatialisation\|拓扑重组]]新[[Paradigm\|范式]]。
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 推动了当代人文地理学与社会学从“领土-容器空间”（Territorial Spatiality）向“关系-[[Topological Spatialisation\|拓扑空间]]”（Topological Spatiality）的[[Paradigm\|范式]]跃升。
 > - **教育政策研究路径** 深刻启发了批判性全球教育治理学派（如 Lingard, Sellar, Ball, Hartong, Lewis），为解释国际大型测评（[[PISA]]）和国家[[Data Infrastructure\|数据基础设施]]如何绕过主权宪法边界实施“软性治理”提供了核心分析工具。
 > - **方法路径** 倡导结合[[Network Ethnography\|网络民族志]]与社会-物质追踪法，观察技术、代码与数据中介如何参与空间折叠。
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **理论合作者** 艾伦·科克伦（Allan Cochrane） — 长期合作探索国家权力[[Assemblage\|组装]]与区域治理拓扑化。
 > - **理论共鸣与对话者** [[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour） — 吸收[[Actor-Network Theory\|行动者网络理论]]（ANT）中非人类行动者与可流动表征的思想。
 > - **教育领域应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）、[[Bob Lingard\|鲍勃·林加德]]（Bob Lingard）、[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball） — 将拓扑权力理论广泛运用于教育[[Policy Mobility\|政策流动]]、数字基建与[[Governmentality\|治理术]]研究。

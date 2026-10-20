@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Scientific Uncertainty
@@ -254,7 +254,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统论证科学不确定性与证据暂定性的[[Epistemology\|认识论]]本质，结合 [[Public Attitudes to Science\|PAS 2025]] 调查与[[Randomised Controlled Trials\|随机对照实验]]，提出以坦诚不确定性披露为基石的《科学传播实践守则》与国家公众信任治理蓝图。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al. (2011)]] — 深入剖析教育研究中从[[Positivism\|实证主义]]概率推论、[[Sampling Error\|抽样误差]]到[[Interpretivism|解释主义]]质性不确定性的认识论转向与方法论应对。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 实证阐明个体认知发展中从绝对确定性盲信向接纳科学不确定性并进行严谨证据权衡的“评价主义”发展机制。

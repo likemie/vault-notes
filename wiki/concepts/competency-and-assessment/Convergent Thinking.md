@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Convergent Thinking
@@ -114,7 +114,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **规则遵循与逻辑演绎（Rule Following & Deduction）** 严格依照形式逻辑、数学公理或领域规范展开自顶向下或自底向上的因果推演。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
 > - **信息筛选与证据权衡（Evidence Screening & Evaluation）** 辨析相关信息与无关干扰，评估证据真实性、论据支持力度与潜在偏见。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 > - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选假设进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
@@ -259,7 +259,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]系统检验[[Graphic Organizer\|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking\|发散思维]]与聚合思维在空间[[Scaffolding\|脚手架]]干预下的敏感度差异。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 在[[Meta-meta-analysis\|二阶元分析]]中探讨[[Creativity\|创造性]]认知过程的多维构件，指出完整的创造力依赖于构想发散与逻辑收敛的有机结合。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，解构生成式 AI 对聚合性批判思维的赋能机制（[[Metacognition\|元认知监控]] $n=27$、论证深化 $n=22$）与[[Cognitive Offloading\|认知卸载]]风险（$n=21$）。

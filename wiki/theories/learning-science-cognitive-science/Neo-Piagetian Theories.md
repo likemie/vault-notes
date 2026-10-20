@@ -33,19 +33,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 核心主张
 
-> [!info] 核心主张
+> [!info|notitle] 核心主张
 > 新[[Jean Piaget\|皮亚杰]]理论（Neo-Piagetian Theories）是一组试图修正和扩展皮亚杰原始认知发展模型的理论尝试，旨在回应皮亚杰理论的已知弱点，特别是解释发展阶段之间的过渡机制([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])。
 >
 > 新皮亚杰理论家设计多种不同模型来解释这些弱点，但都共享一个核心关注：试图解释从一个认知发展阶段向另一个阶段过渡的机制。
 
 ## 理论内部结构
 
-> [!abstract] 理论内部结构
+> [!abstract|notitle] 理论内部结构
 > 三位主要新[[Jean Piaget\|皮亚杰]]理论家的模型如下：
 
 
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 争议与未解决的问题
 
-> [!warning] 争议与未解决的问题
+> [!warning|notitle] 争议与未解决的问题
 > - 所有新[[Jean Piaget\|皮亚杰]]模型均未能令人满意地解释各阶段之间变化的机制([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
 > - Demetriou and Efklides (1987) 也提出了建议，但同样未能解释阶段变化的机制
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 的核心主张是：阶段变化是[[Executive Function\|执行功能]]随大脑发育而发展的函数([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3–4]])
@@ -82,6 +82,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example|notitle] 相关研究
 > - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 论证新[[Jean Piaget\|皮亚杰]]阶段过渡可被 [[Prefrontal Cortex\|PFC]] 发育和 EF 发展解释
 

@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 year: 2024
 doi: ""
 citation_aliases:
@@ -64,14 +64,14 @@ citation_aliases:
 
 ## 研究问题
 
-> [!info] [[Research Question\|研究问题]]
+> [!info|notitle] [[Research Question\|研究问题]]
 > [[John Dewey]] 1928 年夏季率领 24 名美国教育者访问苏联——这次访问是如何被组织起来的？Dewey 在苏联期间做了什么、见了谁？它对苏联教育者、美国公众舆论和美国政府分别产生了什么影响？(pp.102–103)
 >
 > 一个被忽视的经验谜题是：Dewey 回国后在 Impressions of the Revolutionary World 中只讲了苏联教育的部分情况，并未完整记录其行程细节和人际互动。但他在此期间的私人通信(The Correspondence of John Dewey, 1871–1952)中保存了大量未出版的互动记录；纽约时报从 1928 年 5 月到 7 月对这次访问进行了连续追踪报道；美国国务院的外交档案中则保留了监控和评估此行的内部函件。三组资料如能合在一起相互参照，可以部分重建这次访问的多向影响——不仅是美国人怎么看苏联，也包括苏联人怎么看 Dewey。
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [!abstract|notitle] 理论框架
 > 该研究没有使用显式的理论框架，它的分析逻辑是"多源资料交叉验证"（cross-referencing of multiple archival sources）——围绕三组行动者，分别从他们的视角阅读档案，然后比对同一个事件在不同来源中如何呈现(pp.102–103, 107–109)：
 >
 > - **美国教育者代表团（以 [[John Dewey]] 为核心）**——作为文化使者进入苏联，其私人通信是研究的主要一手资料
@@ -82,7 +82,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info] 研究方法
+> [!info|notitle] 研究方法
 > - **[[Archival Correspondence Analysis\|档案通信分析]]** 以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象(p.102)
 > - **报纸报道追踪** 系统检索纽约时报 1928 年 5 月 14 日至 7 月 22 日期间关于此行的连续报道（至少六篇），分析此行如何被公众舆论呈现(pp.104–106)
 > - **外交函件分析** 使用美国国务院档案中的三份关键文件——Welsh 1928 年 5 月 16 日的指控信、助理国务卿 Castle 5 月 29 日的监控指示、驻德外交官 Schurman 7 月 26 日的总结报告——重建政府层面对此行的态度(pp.107–109)
@@ -92,7 +92,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example] 论证结构
+> [!example|notitle] 论证结构
 > 论证可以拆解为十四个步骤，从背景铺设到组织逻辑，再到三组行动者的不同反应，最终合龙为一个多向影响的结论。
 >
 > ### 1. 背景：两国没有外交关系，但民间交流没有中断
@@ -290,7 +290,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success] 主要发现
+> [!success|notitle] 主要发现
 > 1. Dewey 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象(pp.104–107)。
 > 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society and The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange\|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动(pp.103–104)。
 > 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话(p.107)。
@@ -301,7 +301,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 关键引用
+> [!quote|notitle] 关键引用
 > > “当你们回到家乡时，我们不奢求你们的赞美，也不惧怕你们的责备，只要你们做一件事，那就是告诉你们的人民事实，让他们自己去评判。”
 > ("We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge.") — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928(pp.106–107)
 >

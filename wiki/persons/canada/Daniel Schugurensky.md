@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Daniel Schugurensky
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1958** 出生于阿根廷布宜诺斯艾利斯，早年在布宜诺斯艾利斯大学攻读社会科学，深受拉美批判政治社会学与参与式民主运动影响。
 > - **1980s** 赴加拿大阿尔伯塔大学（University of Alberta）深造，师从比较教育学与发展研究学者，专攻全球化下的拉美高等教育转型。
 > - **1994** 完成博士论文《全球经济重组与大学变革：布宜诺斯艾利斯大学案例》（*Global economic restructuring and university change*），系统揭露[[World Bank|世界银行]]如何通过跨国智识网络与信贷附加条件改造发展中国家公立大学。
@@ -103,7 +103,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 提出的“[[World Bank|世界银行]]-[[Business Roundtable|商业圆桌会]][[Selective Affinity|选择性亲和]]”命题，成为国际高等教育政治经济学与全球教育治理批判的经典分析工具。
 > - **案例典范** 对布宜诺斯艾利斯大学的微观制度考察，开创了追踪跨国贷款政策如何在一线高校被落地、扭曲与抵制的方法典范。
 > - **[[Democratic Education|民主教育]]介入** 长期致力于将[[Critical Pedagogy|批判教育学]]转化为参与式预算与基层民主协商实践，推动全球南方与北方的草根民主能力建设。
@@ -112,7 +112,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 共同深耕拉美高等教育政治社会学与[[Conditioned State Theory|受限国家]]危机分析。
 > - **批判分析对象** [[World Bank|世界银行]]与[[Business Roundtable|商业圆桌会]] — 系统解剖两者跨国与本土相互呼应的新自由主义教育政策议程。
 > - **理论同盟** [[Michael W. Apple]] — 在解构新自由主义管理主义教育联盟上持有高度一致的[[Analytical Stance|批判立场]]。

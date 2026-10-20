@@ -82,7 +82,7 @@ related_facts:
   - "[[GEMS Education]]"
 status: draft
 created: 2026-07-20
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20
 
@@ -447,7 +447,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 ##### [[Semantic Differential|语义差异量表]]
 
-> [!def] 语义差异量表
+> [!def|notitle] 语义差异量表
 > [[Semantic Differential\|语义差异量表]]是[[Rating Scale\|评定量表]]的变体，将一个形容词放在量表一端，其反义词放在另一端。受访者在量表上最能代表其感受的位置画圈或做标记。由 Osgood、Suci and Tannenbaum 于 1957 年开发（pp. 129–130）。详见 [[Semantic Differential\|语义差异量表]]条目。
 
 > [!example] 语义差异量表示例
@@ -666,7 +666,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 #### 条件题、过滤题与分支题
 
-> [!def] [[Contingency Questions\|条件题]]、过滤题与分支题
+> [!def|notitle] [[Contingency Questions\|条件题]]、过滤题与分支题
 > 条件题依赖于对前面问题的回答（如如果你对第（1）题的回答是是，请跳至第（4）题）。前面的问题充当**过滤器**，后面的问题是条件性的，是前面问题的**分支**。一些问卷用文字写明跳至的问题号，另一些用箭头指示（pp. 151–153）。
 
 > [!warning] Redline et al.（2002）的关键研究发现
@@ -935,7 +935,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 
 #### 邮寄问卷
 
-> [!info] 邮寄问卷
+> [!info|notitle] 邮寄问卷
 > 邮寄问卷成本较低，适合分散样本，但回应率不确定。可通过高质量信封、贴邮票回邮信封和跟进信提升回收率。规划良好的邮寄调查配合三次提醒可从约 40% 逐步提升至 75%（p. 189）。如今在线问卷已大量替代邮寄方式。
 
 ---

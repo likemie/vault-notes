@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Emic and Etic
@@ -129,6 +129,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在主位/客位框架下研究中国与欧美学习信念差异，以 emic 视角为核心方法论基础，运用[[Prototype Methods\|原型方法]]和[[Cultural Models\|文化模型]]生成两种文化层面的学习模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 从 LeCompte and Preissle（1993）的语言学类比出发，将主位/客位区分系统纳入[[Ethnography\|民族志]]方法与[[Positivism\|实证主义]]方法的对比框架，并阐明其在[[Interpretive Paradigm\|诠释范式]]和[[Rich and Thick Description\|厚描述]]中的方法论位置。

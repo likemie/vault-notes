@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cargo Cult Science
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 货物崇拜科学（Cargo Cult Science） | [[Scientism\|科学主义（Scientism）]] | [[Evidence-Based Education\|循证教育（Evidence-Based Education）]] | 传统伪科学（Pseudoscience） |
 > |---|---|---|---|---|
 > | **分析对象** | 具备完备科学外观但缺失求真与自省精神的具体研究或商业产品 | 盲目推崇自然科学实证方法并将其绝对化的宏观意识形态 | 将严谨实证证据整合至教育决策与教学实践中的政策运动与治理模式 | 缺乏实证检验与逻辑一致性的传统经验迷信或虚假主张 |
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1974 — 费曼加州理工学院毕业演讲首创概念** 物理学家理查德·费曼在演讲中回顾南太平洋岛民在二战结束后修建木制跑道和竹制雷达、模仿盟军降落仪式的货物崇拜现象，指出教育学、心理学等领域存在大量模仿物理学实验形式却缺失科学精神的草包族科学（Cargo Cult Science）。
 > - **1980–1990年代 — 科学哲学划界探讨与方法论延展** 学界将货物崇拜科学与波普尔的[[Falsification|证伪主义]]、库恩的[[Paradigm|范式]]理论及默顿的科学规范相对照，探讨其在社会科学与医学应用中的制度化表现。
 > - **2017–2020 — [[Epistemology|认识论]]诚信研究与真实数据伪科学解构** 伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）从数理统计学角度系统阐明如何用真实数据搞伪科学，论证了以形式复杂性掩盖初等计算崩溃与基线颠倒的纸牌屋机制，并确立了对揭露数理缺陷后仍坚持推广之“蓄意盲目”（Willful Blindness）的认识论批判；莫伯格（Moberger, 2020）进一步将费曼的诊断提炼为现代认识论中的认识论诚信（Epistemic Conscientiousness）准则。
@@ -251,7 +251,7 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用理查德·费曼的货物崇拜科学理论，从隐藏计算公式的简单算术平均、新泰勒制全景监控、新自由主义政商利益旋转门以及回避[[Falsification|证伪]]等四个维度，对 [[John Hattie]] 及其 [[Visible Learning]] 商业体系展开系统的科学哲学与政治经济学批判。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从数理统计学视角审查《可见的学习》，确立了用真实数据构建伪科学纸牌屋的[[Analytic Framework|分析框架]]，并提出抵制学术指错后继续推销的蓄意盲目准则。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，实证揭示 Visible Learning 底层数据链存在 44% [[Effect Size|效应量]]无引证支持、复现率不足 1% 等崩溃性问题，从元科学实证层面验证了货物崇拜科学在教育[[Research Synthesis|证据综合]]中的现实形态。

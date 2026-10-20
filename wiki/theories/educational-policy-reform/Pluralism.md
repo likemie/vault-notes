@@ -12,10 +12,12 @@ aliases:
   - 认识论多元主义
   - Healthy Pluralism
   - 淹没性多元主义
-summary: "跨越政治学、文化哲学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
+  - 科学多元主义
+  - Scientific Pluralism
+summary: "跨越政治学、文化哲学、科学知识社会学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训；在科层循证治理中揭示行政权威对科学多元主义的制度性压制。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 51
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -77,6 +79,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Bologna Process]]"
   - "[[German Dual Education System]]"
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
@@ -84,10 +87,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pluralism
@@ -97,13 +101,13 @@ updated: 2026-10-20
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 公共政策决策中的权力分配博弈、全球化进程中教育制度与本土文化生态的互动关系、比较教育学科[[Knowledge Production|知识生产]]的[[Paradigm|范式]]共存形态，以及多元社会治理中价值宽容与实质道德共同体构建之间的政治哲学张力。
-> - **理论问题** 回应一元集权主义（Monism）对权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的规训；破解战[[Postpositivism|后实证主义]]对比较研究[[Epistemology|认识论]]的单边霸权；反思极端多元主义滑向[[Cultural Relativism|文化相对主义]]、“淹没性多元”与[[Value Neutrality|价值中立]]虚无所引发的共同体解体危机。
+> - **解释对象** 公共政策决策中的权力分配博弈、全球化进程中教育制度与本土文化生态的互动关系、比较教育学科[[Knowledge Production|知识生产]]的[[Paradigm|范式]]共存形态、国家科层在证据本位治理中对科学多元主义（Scientific Pluralism）的排斥与规训，以及多元社会治理中价值宽容与实质道德共同体构建之间的政治哲学张力。
+> - **理论问题** 回应一元集权主义（Monism）对权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的规训；破解战[[Postpositivism|后实证主义]]对比较研究[[Epistemology|认识论]]的单边霸权；揭示循证政策制定中科层理性对科学多范式冲突的行政简化逻辑；反思极端多元主义滑向[[Cultural Relativism|文化相对主义]]、“淹没性多元”与[[Value Neutrality|价值中立]]虚无所引发的共同体解体危机。
 > - **理论类型** 兼具规范理论（规范民主参与与文化承认）、解释理论（解释多元群体博弈及政策分歧）与学科认识论/方法论[[Analytic Framework|分析框架]]。
-> - **知识位置** 跨越经典政治学（Rousseau, Truman, Dahl）、欧洲比较教育文化历史学（Sadler, Kandel, Hans, Mitter）、多元社会政策研究（Gopinathan）、学科元研究（Rust, Paulston）以及道德与政治哲学批判（MacIntyre, Rawls, Kimball, Karp & Zamiska）。
+> - **知识位置** 跨越经典政治学（Rousseau, Truman, Dahl）、欧洲比较教育文化历史学（Sadler, Kandel, Hans, Mitter）、政策社会学与科学知识社会学（Freeman & Sturdy, Segerholm et al.）、多元社会政策研究（Gopinathan）、学科元研究（Rust, Paulston）以及道德与政治哲学批判（MacIntyre, Rawls, Kimball, Karp & Zamiska）。
 
 > [!claim] 核心判断
-> 多元主义的核心主张在于：社会与学术的生机源于权力、文化与范式的去中心化共存。在政治治理中，政策合法性源自多元组织化利益集团的平等博弈；在比较教育史中，教育制度深植于不可化约的地方文化传统，构成抵御单一超国家[[Performance Indicators|绩效指标]]治理的天然屏障；在学科知识生产中，当代比较教育学摆脱了[[Positivism|实证主义]]一统天下的正统神话，进入了 26 种[[Theoretical Perspective|理论视角]]共存互补的“健康多元主义”（Healthy Pluralism）阶段。然而，卡普与扎米斯卡结合麦金太尔（Alasdair MacIntyre, 2007）与[[Lee Kuan Yew|李光耀]]的治国实践进一步指出，当多元主义在文化哲学上退化为“容纳一切生活方式同等有效”的文化相对主义（Ruth Benedict, 1934）与“淹没一切的多元主义”时，“对一切事物的宽容渴望最终堕落为对任何实质价值的无所支持”。多元社会若无共同语言纽带、实质伦理美德（如儒家[[Junzi|君子]]品格）与[[Civic Religion|公民宗教]]的规范性统摄，必将陷入公共道德真空与集体行动力瘫痪。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
+> 多元主义的核心主张在于：社会与学术的生机源于权力、文化与范式的去中心化共存。在政治治理中，政策合法性源自多元组织化利益集团的平等博弈；在比较教育史中，教育制度深植于不可化约的地方文化传统，构成抵御单一超国家[[Performance Indicators|绩效指标]]治理的天然屏障；在学科知识生产中，当代比较教育学摆脱了[[Positivism|实证主义]]一统天下的正统神话，进入了 26 种[[Theoretical Perspective|理论视角]]共存互补的“健康多元主义”（Healthy Pluralism）阶段。然而在国家循证规制中，科层系统出于行政权威与防范争议的需要，倾向于通过单一范式组织知识库来压制科学多元主义；与此同时，卡普与扎米斯卡结合麦金太尔（Alasdair MacIntyre, 2007）与[[Lee Kuan Yew|李光耀]]的治国实践进一步指出，当多元主义在文化哲学上退化为“容纳一切生活方式同等有效”的文化相对主义（Ruth Benedict, 1934）与“淹没一切的多元主义”时，“对一切事物的宽容渴望最终退化为对任何实质价值的无所支持”。多元社会若无共同语言纽带、实质伦理美德（如儒家[[Junzi|君子]]品格）与[[Civic Religion|公民宗教]]的规范性整合，必将陷入公共道德真空与集体行动力瘫痪。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 
 ---
 
@@ -113,7 +117,7 @@ updated: 2026-10-20
 > - **提出者与原始文本** 政治学经典多元主义由让-雅克·[[Jean-Jacques Rousseau|卢梭]]（Rousseau, 1968）启蒙，戴维·杜鲁门（David Truman, 1971）与罗伯特·达尔（Robert Dahl, 1967）奠定；文化多元主义由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）、艾萨克·[[Immanuel Kant|康德]]尔（Isaac Kandel, 1933）与[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）在欧洲比较教育学中系统化；学科层面的“健康多元主义”由[[Val D. Rust|瓦尔·拉斯特]]等学者（Rust et al., 1999, 2009）通过长程文献计量确立；多元社会的整合批判由萨拉瓦南·戈皮纳坦（Saravanan Gopinathan, 1979）与麦金太尔（MacIntyre, 2007）系统化。
 > - **原初问题** 政治学面对集权专制与单一阶级垄断统治；欧洲比较教育面对冷战后世界体系单一普遍主义对本土文化传统的压制；多元移民社会面对族群割裂与语言丛林化离心风险；比较教育元研究面对[[Positivism|实证主义]]单一霸权引发的学科分裂焦虑。
 > - **理论资源与材料** 民主契约论、西方工业社会工会与利益团体博弈实践、欧洲民族国家的语言宗教文化档案、新加坡多族群建国语言立法卷宗、比较教育学会（[[Comparative and International Education Society|CIES]]）半个世纪的期刊文献。
-> - **形成路径** 从政治学关于社会团体博弈达成动态均衡的假说，拓展为教育制度抵抗跨国普遍主义技术规训的文化防线；继而在多元社会中提炼出共同语言文化规约机制，最终在政治哲学上反思其滑向道德不可知论的边界。
+> - **形成路径** 从政治学关于社会团体博弈达成动态均衡的假说，拓展为教育制度抵抗跨国普遍主义技术规训的文化防线；继而在多元社会中提炼出共同语言文化整合机制，最终在政治哲学上反思其滑向道德不可知论的边界。
 
 ### 后续修订与扩展
 
@@ -124,6 +128,7 @@ updated: 2026-10-20
 > - **20 世纪 80 年代至 21 世纪初 — 比较教育中的文化多元主义抗衡世界体系普遍主义** 欧洲比较教育奠基学者将语言、宗教与族群的文化多元性视为教育制度发生学核心；米特将文化多元主义重构为抗衡全球同质化[[Performance Indicators|绩效指标]]治理的[[Epistemology|认识论]]支柱。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 > - **20 世纪 90 年代至 2000 年代 — [[Paradigm|范式]]论争超越与健康多元主义确立** [[Val D. Rust|瓦尔·拉斯特]]等学者通过长期计量追踪，证实比较教育进入了以 26 种[[Theoretical Perspective|理论视角]]并存互补、质性与量化并重为标志的“健康多元主义”（Healthy Pluralism）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 > - **2005 年 — [[Critical Pluralism|批判性多元主义]]升级** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 结合美国联邦阅读立法，指出传统多元主义忽视[[Cultural Capital|文化资本]]不平等与次政府铁三角阻隔，催生了吸纳[[Critical Theory|批判理论]]的批判性多元主义。
+> - **2022 年 — 国家科层治理对科学多元主义的制度性规训** 塞格霍姆等通过对[[Swedish Schools Inspectorate|瑞典学校督察局]]的实证追踪，揭示行政机构在面对学术界的“健康多元主义”时，出于维持监管权威与消除混淆的科层诉求，主动通过单一片面范式组织知识库与招募研究者，以此规避冲突并压制科学多元主义。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 > - **2025 年 — 批判“淹没性多元”与重建实质道德共同体** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中指出，当代西方将包容性推向极端，沦为麦金太尔所斥责的“威胁淹没我们所有人的多元主义”（Submerging Pluralism）；罗杰·金博尔（Roger Kimball, 2004）揭示“容纳一切的渴望已退化为对任何价值的无所支持”。必须重拾对体制崇高性的自信与德性政治，构建能维系道德生活的实质共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 
 ---
@@ -139,6 +144,7 @@ updated: 2026-10-20
 > | 文化多元性（Cultural Plurality） | 概念 | 界定教育制度内生所依托的不可[[Commensuration\|通约]]的语言、宗教、族群与地方历史生态。 |
 > | 多元社会治理（Plural Society Governance） | 机制 | 针对多族群离心倾向，通过统一通用语与公德准则维系多元一体的制度工程（Gopinathan, 1979）。 |
 > | 健康多元主义（Healthy Pluralism） | [[Epistemology\|认识论]]/规范 | 确立学术研究中多理论[[Paradigm\|范式]]、多方法论平等对话、互补共荣的学科合法形态。 |
+> | 科学多元主义（Scientific Pluralism） | 概念 | 指科学界中竞争性学术流派、理论视角与认识论范式的共存；在科层循证规制中常被视为造成行政混乱的风险源而遭定向压制。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, p. 653)]] |
 > | 淹没性多元主义（Submerging Pluralism） | 批判对象 | 麦金太尔（MacIntyre, 2007）提出的虚无状态，指失去统一德性标准、容纳一切而导致道德生活解体的多元形态。 |
 > | 形式[[Value Neutrality\|价值中立]]（Vacant Neutrality） | 批判对象 | [[John Rawls\|罗尔斯]]政治自由主义追求的程序中立，被批评排斥文化特质并导致公共道德萎缩。 |
 > | 实质伦理美德（Substantive Virtue） | 规范构件 | 儒家[[Junzi\|君子]]式典范美德，为多元社会提供崇高意义锚桩与防卫意志。 |
@@ -158,7 +164,7 @@ updated: 2026-10-20
 > **应用实例** 在美国联邦《[[Reading Excellence Act|卓越阅读法案]]》（REA）立法中，数百名一线阅读教师提交的亲笔请愿信被议员斥为“缺乏科研资质的感性抱怨”，而商业出版商与实证神经科学家却垄断了听证会发言席位。
 
 > [!theory-proposition] 命题三｜地方文化多元性构成抗衡全球同质化指标规训的[[Ontology|本体论]]防线
-> **解释** 比较教育与全球治理视域下的文化多元主义主张，教育体系深植于不可化约的地方文化、语言、宗教、族群与社会历史环境之中。任何试图以单一跨国[[Performance Indicators|绩效指标]]（如[[PISA|国际学生评估项目]]（PISA））或同质化发展模型统合全球教育的努力，都会遭遇本土文化生态的抗阻；教育政策必须包容多元文化的内生价值。该命题由 [[Argument_Mitter_2009_Europe|Mitter (2009)]] 阐明。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
+> **解释** 比较教育与全球治理视域下的文化多元主义主张，教育体系深植于不可化约的地方文化、语言、宗教、族群与社会历史环境之中。任何试图以单一跨国[[Performance Indicators|绩效指标]]（如[[PISA|国际学生评估项目]]（PISA））或同质化发展模型整合全球教育的努力，都会遭遇本土文化生态的抗阻；教育政策必须包容多元文化的内生价值。该命题由 [[Argument_Mitter_2009_Europe|Mitter (2009)]] 阐明。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 >
 > **应用实例** 欧洲各国在推进[[Bologna Process|博洛尼亚进程]]（Bologna Process）中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、[[Grandes Ecoles|大学校]]（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
 
@@ -168,19 +174,24 @@ updated: 2026-10-20
 > **应用实例** 在当代理论研究中，同一跨国教育改革政策既可被新制度主义学者解读为世界文化剧本的形式同形，亦可被批判学者解构为新自由主义话语霸权，又可被比较历史学者考证为本土文化与外部模式的双向互塑。
 
 > [!theory-proposition] 命题五｜多元主义滑向[[Cultural Relativism|文化相对主义]]与“淹没性虚无”的危机：呼唤实质道德共同体
-> **解释** 当多元主义从政治包容扩展至极端文化哲学时，极易退化为以本尼迪克特（Ruth Benedict, 1934）为代表的文化相对主义（“所有生活模式一律同等有效”）以及麦金太尔（Alasdair MacIntyre, 2007）所警示的“威胁淹没我们所有人的多元主义”。罗杰·金博尔（Kimball, 2004）指出，对一切事物宽容的渴望最终会蜕变为对任何价值的无所支持。[[John Rawls|约翰·罗尔斯]]的形式自由主义追求目标中立，但其有限的美德清单抽空了公共生活的丰富性。一味追求程序“正当”而放弃实质“善”，使社会失去了对卓越、正义与美的辨别本能。在多元族群社会中，必须如戈皮纳坦（Gopinathan, 1979）与[[Lee Kuan Yew|李光耀]]所论述的那样，通过共同语言和实质伦理（如儒家[[Junzi|君子]]德行）构建凝聚力，重塑维系道德生活的实质共同体。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 系统确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
+> **解释** 当多元主义从政治包容扩展至极端文化哲学时，极易退化为以本尼迪克特（Ruth Benedict, 1934）为代表的文化相对主义（“所有生活模式一律同等有效”）以及麦金太尔（Alasdair MacIntyre, 2007）所警示的“威胁淹没我们所有人的多元主义”。罗杰·金博尔（Kimball, 2004）指出，对一切事物宽容的渴望最终会退化为对任何价值的无所支持。[[John Rawls|约翰·罗尔斯]]的形式自由主义追求目标中立，但其有限的美德清单抽空了公共生活的丰富性。一味追求程序“正当”而放弃实质“善”，使社会失去了对卓越、正义与美的辨别本能。在多元族群社会中，必须如戈皮纳坦（Gopinathan, 1979）与[[Lee Kuan Yew|李光耀]]所论述的那样，通过共同语言和实质伦理（如儒家[[Junzi|君子]]德行）构建凝聚力，重塑维系道德生活的实质共同体。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 系统确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 >
 > **应用实例** 新加坡在建国初期面临十二种华语方言与多元族群丛林化割裂的挑战；[[Lee Kuan Yew|李光耀]]政府拒绝抽象中立的放任多元，果断推行统一的[[Speak Mandarin Campaign|讲华语运动]]与[[Bilingual Education Policy|双语政策]]，确立儒家君子道德准则，在维护族群多元的同时铸造了不可动摇的卓越国家能力。
+
+> [!theory-proposition] 命题六｜科层国家简化倾向于压制科学多元主义以确立行政规制权威
+> **解释** 尽管学术界内部强调多范式对话的“健康多元主义”，但在现代国家的行政规制与循证问责实践中，冲突性的学术视角与多元范式往往被官僚系统视为引发政策混淆与削弱合法性的威胁。为了在法律争议中立于不败之地并高效推行标准化督查，行政机构倾向于通过招募特定流派学者与单一范式化组织知识库，主动规避学术冲突并压制科学多元主义，将复杂的知识场域压缩为单向度的技术规程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
+>
+> **应用实例** [[Swedish Schools Inspectorate|瑞典学校督察局]]在构建督导评估指标时，系统性排除批判性教育社会学等冲突视角，全盘依托成功学校实证范式；督导官员明确指出，若引入多元科学观点将使督导定性陷入无休止争议，因此必须通过统一单一范式来维系国家督导的无可辩驳性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 653)]]
 
 ---
 
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 某项教育政策的制定过程是否实现了实质性多元民主参与？一国教育改革如何协调全球普遍主义规训与本土文化多元性？多元社会语言与文化政策如何平衡多元包容与国家凝聚力？多元包容政策是否滑向了价值相对主义与虚无主义？
-> - **分析对象与单位** 政策公众听证会卷宗、立法请愿信件、跨国政策移植文本、多民族语言教育法案、学科旗舰期刊长程发表文献、公民德育大纲。
-> - **需要的材料** 国会听证实录、法案修改文本、双语教育评估报告、文献计量学数据库、通识课程标准。
-> - **解释目标** 评估政策决策的民主开放程度，判读学术领域的[[Epistemology|认识论]]开放度，诊断多元社会在平衡族群多样性与国家共同道德实体上的制度成效。
+> - **[[Research Question|研究问题]]** 某项教育政策的制定过程是否实现了实质性多元民主参与？一国教育改革如何协调全球普遍主义规训与本土文化多元性？国家循证治理如何对待科学界的多元竞争范式？多元社会语言与文化政策如何平衡多元包容与国家凝聚力？多元包容政策是否滑向了价值相对主义与虚无主义？
+> - **分析对象与单位** 政策公众听证会卷宗、立法请愿信件、跨国政策移植文本、多民族语言教育法案、学科旗舰期刊长程发表文献、官方循证知识库与审查指标体系、公民德育大纲。
+> - **需要的材料** 国会听证实录、法案修改文本、双语教育评估报告、文献计量学数据库、官方研究综述文本、通识课程标准。
+> - **解释目标** 评估政策决策的民主开放程度，判读学术领域的[[Epistemology|认识论]]开放度，诊断国家行政对学术多元性的简化过滤机制，评估多元社会在平衡族群多样性与国家共同道德实体上的制度成效。
 
 > [!theory-framework] 多元主义多维[[Analytic Framework|分析框架]]
 >
@@ -191,6 +202,7 @@ updated: 2026-10-20
 > | 文化多元性防线（[[Argument_Mitter_2009_Europe\|Mitter, 2009, pp. 98–99]]） | **本土文化生态抗阻度** 外部普遍主义政策在遭遇本土多语言语境时如何调适？ | 本土法律修订条款、地方学校对国际测评的抵制声浪。 | 若外部模式被全盘机械套用，表明多元文化抗阻机制失效。 |
 > | 多元社会凝聚机制（Gopinathan, 1979; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska, 2025, pp. 195–201]]） | **共同语言与公德规范整合度** 多元族群社会是否建立了跨越族群部落主义的通用语与价值中枢？ | 国家语言政策、双语课程比例、核心价值观法案。 | 若放任语言与族群自发生长导致社会分裂，表明多元治理失灵；建立共同公德支持一体多元。 |
 > | 健康多元主义（[[Argument_Rust_2009_Reflections\|Rust et al., 2009, pp. 121–123]]） | **[[Knowledge Production\|知识生产]]的范式包容度** 该学科领域是否存在单一理论范式的垄断？ | 旗舰期刊中 26 种[[Paradigm\|范式]]占比、量化与质性文章比例。 | 若某一方法占比超 70% 且排斥异质投稿，表明陷入霸权；多范式均衡则判定为健康多元。 |
+> | 科层对科学多元性的规训（[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, p. 653]]） | **循证政策中的范式包容度 vs 行政简化** 决策与规制机构在构建循证基准时，是否容纳了学界的多元竞争视角？是否通过排他性范式采购消除学术争议？ | 官方文献综述的流派分布、外聘专家库构成、对异质理论的采纳记录。 | 若官方知识库由单一学派垄断并排除反方证据，支持科层压制科学多元主义假说。 |
 > | 实质美德与道德共同体（MacIntyre, 2007; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska, 2025, pp. 212–216]]） | **超越相对主义的中立评估** 政策是否在多元包容名义下放弃了对卓越生活与实质美德的追求？ | 公民德育课程要求、公共文化评判标准、高校通识正典设置。 | 坚守卓越美德支持实质共同体；放任道德不可知论表明滑向“淹没性多元”虚无。 |
 
 ---
@@ -198,10 +210,10 @@ updated: 2026-10-20
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 民主政体下的立法与政策博弈、多元族群国家的语言文化政策调适、跨国[[Policy Borrowing|政策借用]]的本土转化、[[Comparative Education as a Cross-Sectional Area|交叉学科]]的[[Knowledge Production|知识生产]]史。
+> - **适合分析** 民主政体下的立法与政策博弈、多元族群国家的语言文化政策调适、国家循证治理中的知识简化过滤机制、跨国[[Policy Borrowing|政策借用]]的本土转化、[[Comparative Education as a Cross-Sectional Area|交叉学科]]的[[Knowledge Production|知识生产]]史。
 > - **成立条件** 需要制度化的表达通道、信息透明度、自发社团组织，以及跨越部落主义的共同政治伦理共识。
-> - **解释不足** 经典多元主义盲目假定各方拥有对等资源，无视商业垄断集团与微弱基层之间悬殊的游说力量对比；文化多元主义若失去实质伦理与共同语言锚桩，容易滑向“淹没性多元”与道德相对主义泥潭。
-> - **不能直接推出** 存在多元群体的公开表达，并不直接推导出政策一定代表了最广大人民的公共善；多元理论[[Paradigm|范式]]的共存亦不保证每种范式均具备同等的解释效力。
+> - **解释不足** 经典多元主义盲目假定各方拥有对等资源，无视商业垄断集团与微弱基层之间悬殊的游说力量对比；文化多元主义若失去实质伦理与共同语言锚桩，容易滑向“淹没性多元”与道德相对主义泥潭；此外，该理论侧重揭示行政对多元主义的压制，但对官僚系统内部不同专业部门间的管辖权竞争解释力相对有限。
+> - **不能直接推出** 存在多元群体的公开表达，并不直接推导出政策一定代表了最广大人民的公共善；多元理论[[Paradigm|范式]]的共存亦不保证每种范式均具备同等的解释效力；官方知识库采纳单一范式，亦不能单凭理论断定决策官员缺乏学术鉴别力。
 
 ---
 
@@ -214,6 +226,12 @@ updated: 2026-10-20
 > >
 > > - **罗伯特·达尔（Dahl, 1967）** 多元社会中的权力在不同集团间流转，不存在绝对垄断的单一主宰阶级。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 > > - **杰奎琳·埃德蒙森（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 经典多元主义掩盖了阶级与[[Cultural Capital|文化资本]]鸿沟，次政府铁三角轻而易举便将草根诉求格式化滤除。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
+>
+> > [!axis] 学术界健康多元主义 vs 科层治理的单一范式规训
+> > 争论学术知识生产应维持不可化约的多范式共存，还是应顺应国家规制需要统一为单一的标准化基准。
+> >
+> > - **健康多元派（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 倡导多范式互补与自由竞争，认为多元视角是反映教育复杂性与逼近真理的生命线。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> > - **科层规制派（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）** 指出行政问责需要明确、无可辩驳且跨校可比的法律技术指标，科学多元主义与范式冲突在行政实操中被视为削弱国家规制效力与引发争议的混乱之源。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 >
 > > [!axis] 淹没性多元宽容 vs 实质道德共同体与德性政治
 > > 争论公共生活与多元社会应当保持[[John Rawls|罗尔斯]]式的严格[[Value Neutrality|价值中立]]与无条件宽容，还是应当捍卫共同语言、崇高美德与实质共同体。
@@ -229,4 +247,5 @@ updated: 2026-10-20
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 检验传统多元主义写信动员的失败，论证[[Cultural Capital|文化资本]]对多元博弈的阻隔，倡导[[Critical Pluralism|批判性多元主义]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义规训中的不可替代作用。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 对半个世纪比较教育研究进行文献计量与学术调查，实证论证26种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”学科[[Paradigm|范式]]地位。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督察局的知识运用机制，揭示科层国家如何出于行政权威与消除混乱的诉求，通过单一范式组织知识库与招募研究者，主动压制科学多元主义（Scientific Pluralism）（p. 653）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 结合新加坡多元社会语言政策与麦金太尔学说，批判“淹没性多元主义”与虚无宽容；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 批判[[Cultural Relativism|文化相对主义]]与[[John Rawls|罗尔斯]]形式中立，呼吁重塑实质伦理美德与审美品味。

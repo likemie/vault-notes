@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pragma-Dialectics
@@ -46,7 +46,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 人们在意见分歧时如何进行论证、论证在何种意义上有助于解决分歧，以及如何区分合理的论证与谬误。
 > - **理论问题** 如何建立一个既保持规范性（能评价论证质量）、又具有语境敏感性（不脱离实际[[Discourse|话语]]情境）的论证理论，克服形式逻辑过于抽象和修辞学过于情境化之间的鸿沟。
 > - **理论类型** 规范—实用论证理论（normative-pragmatic theory），属于中层理论和方法论框架。
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 存在明确意见分歧的论证性文本或对话——科学争议、政策辩论、法律论证、课堂讨论和批判性写作。
 > - **谨慎使用** 独白型文本（如叙述性散文、纯粹说明性文本）中论证要素不明确时；参与者未进入批判性讨论框架（如纯粹情感宣泄或权力命令）的交流。
 > - **不适合解释** 非论证性交流（如诗歌、情感表达、仪式性[[Discourse|话语]]）；不需要解决分歧的共识建构过程；形式逻辑系统的内部推导。
@@ -112,7 +112,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1984 — 理论奠基** van Eemeren & Grootendorst 出版 *Speech Acts in Argumentative Discussions*，将言语行为理论引入论证分析。
 > - **1992 — 谬误理论系统化** *Argumentation, Communication, and Fallacies* 出版，将传统谬误类型学重新解释为批判性讨论规则的违反（derailments）。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 186)]]
 > - **2002 — 修辞维度整合** van Eemeren & Houtlosser 提出"战略运作"（strategic maneuvering）概念，将修辞学洞察纳入语用辩证框架。
@@ -122,5 +122,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 提出将语用辩证法作为解决 IB [[Theory of Knowledge\|TOK]] 课程中[[Critical Thinking\|批判性思维]]与科学教育冲突的三种方案之一；论证该理论可以作为中学课堂中统一教授批判性思维和科学论证的框架。

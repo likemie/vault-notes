@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Normalization through Knowledge Cooperation
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 知识合作常态化 | 单边霸权扩张 | 外围依附追赶 |
 > |------|----------------|--------------|--------------|
 > | **网络拓扑结构** | 多对多（Many-to-Many）交叠网状拓扑 | 一对多（Hub-and-Spoke）放射状辐射 | 外围向单一西方核心单向连接 |
@@ -85,7 +85,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多对多网络连接（Many-to-Many Connectivity）** 放弃单向度的一对多控制管道，促成成员高校之间纵横交错的多边直接合作，即使发起国仅参与部分子活动，整体网络密度的提升也能稳固系统稳定性。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 > - **实体物质维度的常态化（Physical/Material Normalization）** 表现为本国高水平大学在跨国科研攻关、师生流动营地、学科专业联盟与多边论坛中的全天候高频在场。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1704)]]
 > - **理念[[Discourse|话语]]维度的常态化（Ideational Normalization）** 表现为以世界为中心的关联网状治理与天下秩序观在多边学术交往中逐步获得伙伴院校的理解、呼应与制度合法性。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1704)]]
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 理论局限与适用边界
 
-> [!theory-boundary] 理论局限与适用边界
+> [!theory-boundary|notitle] 理论局限与适用边界
 > - **适合分析** 新兴经济体通过多边机制推动的高等教育[[Outward-Oriented Internationalization|外向型国际化]]、区域性科研合作联盟演进与多边学术网络扩张。
 > - **成立条件** 发起国拥有充裕的科研[[Counterpart Funds|配套资金]]与外向型政策支持，伙伴院校具备自主参与跨国合作的学术意愿与法定资质。
 > - **解释不足** 案头[[Documentary Analysis|文献分析]]难以直接测度各成员高校对“常态化”中心地位的真实心理认同度与微观抵触情绪；对突发性地缘对抗（如制裁断联）对多边网络密度的冲击缺乏长期追踪。
@@ -138,5 +138,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 首次界定知识合作常态化命题，通过丝路联盟与[[Asian Universities Alliance|亚洲大学联盟]]的比较案例实证阐发网络中心性常态化的运行逻辑。

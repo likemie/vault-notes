@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Common Method Variance
@@ -108,5 +108,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的[[Three-Level Meta-Analysis\|三水平元分析]]中发现双自陈测量相关（r = 0.509）高于双客观（r = 0.317），视为共同方法变异的证据。

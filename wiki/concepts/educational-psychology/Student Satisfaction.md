@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Student Satisfaction
@@ -85,5 +85,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]报告，PBL 对学生满意度的效应（d = 1.10）为五类结果中第二高，源于主动参与[[Problem Solving\|问题解决]]带来的内在动机与积极学习体验；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）

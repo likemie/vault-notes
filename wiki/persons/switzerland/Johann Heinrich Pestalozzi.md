@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Johann Heinrich Pestalozzi
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1746** 出生于瑞士苏黎世（Zürich），早年受[[Jean-Jacques Rousseau\|卢梭]]《爱弥儿》思想深刻感召，[[Establishing One's Will\|立志]]投身改善劳苦平民命运的社会事业。
 > - **1769–1798** 在阿尔高州创办新庄（Neuhof）贫民农工学校，尝试将农业生产、纺织手工业与基础读写算教育相结合，探索平民教育自我造血机制。
 > - **1798** 瑞士爆发反法战争后，受海尔维第共和国政府委托接管斯坦茨（Stans）战争孤儿院；在极端艰难环境中以理智、无私母爱与互助取代体罚，创造了震惊瑞士的教育奇迹。

@@ -30,19 +30,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > 前额叶皮层（Prefrontal Cortex, PFC）是位于大脑额叶、中央沟与额极之间的区域，包括 Brodmann 细胞构筑图中的第 8–13、24、27、32 和 46 区([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.7,引用 Brodmann, 1909]])。
 >
 > PFC 的定义性特征是其与皮层几乎所有区域以及部分下脑区域的众多连接。与脑干、丘脑、基底神经节和边缘系统的连接被认为使 PFC 在大脑其他区域的细胞抑制中发挥重要作用([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.7]])。
 
 ## 结构分区
 
-> [!abstract] 结构分区
+> [!abstract|notitle] 结构分区
 > PFC 在结构上可分为三个不同区域([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.7–8]])：
 >
 > - **眼眶 PFC（Orbital PFC）** — 负责大脑其他区域的细胞和神经元抑制，包括基底神经节、下丘脑、其余皮层及 PFC 的其他组成部分。还负责情境和社会行为。此区域损伤导致无法容忍任何形式的干扰或分心([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.8,引用 Fuster, 2001]])

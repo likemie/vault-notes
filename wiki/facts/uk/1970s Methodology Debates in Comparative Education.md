@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # 1970s Methodology Debates in Comparative Education
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **知识影响** 暴露了当时以金为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他社会学流派）的完全排斥与共鸣缺乏，导致传统[[Paradigm\|范式]]错失了吸收科学社会学想象力的机会。
 > - **[[Disciplinary Institutionalization|学科建制]]影响** 导致比较教育方法论的永久性分裂，学科边界收缩，在一定程度上促成了后续英格兰比较教育研究的孤立与分化，直到数十年后新一代批判社会学学者（如 [[Stephen Ball]]、[[Roger Dale]] 等）重新融入才得以弥合。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 

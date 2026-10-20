@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # General Purpose Technology
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 通用目的技术（GPT） | 专用突破性技术（Breakthrough Tech） | 渐进式改良创新（Incremental Innovation） |
 > |---|---|---|---|
 > | **渗透广度** | 跨越几乎所有主流工业与服务部门 | 局限于特定垂直行业或特定军工领域 | 局限于现有产品生产线与工艺微调 |
@@ -244,7 +244,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1963 — 机床工业的技术演进起源** 内森·罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出[[Technological Convergence|技术收敛]]（Technological Convergence）思想，指出通用制造技术在不同行业间的通用性传播规律。
 > - **1980s–1995 — [[Evolutionary Economics|演化经济学]]技术-经济[[Paradigm|范式]]奠定** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与卡萝塔·佩雷斯（[[Carlota Perez]]）提出[[Techno-economic Paradigm|技术-经济范式]]理论，指出以微电子为代表的根本性通用技术扩散需要跨部门的管理变革、多技能工种培训与国家制度框架调适。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **1995 — 通用目的技术形式化模型确立** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为兼具普遍渗透性、内在动态性与互补性创新的宏观增长引擎。
@@ -319,7 +319,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，论证通用目的技术（GPT）与共性工艺在跨部门扩散中面临严重的市场协调失灵，系统考察[[Advanced Technology Program|先进技术计划]]（ATP）如何通过 50% 对等资助和汽车车身冲压“2毫米工程”等供应链联合体成功推动通用工艺在传统制造业的落地普及。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过[[Application Engineering|应用工程]]、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。

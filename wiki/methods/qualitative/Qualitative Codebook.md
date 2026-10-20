@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Qualitative Codebook
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s–1990s 经典[[Content Analysis\|内容分析]]与规则公开阶段** 随着量化与[[Qualitative Content Analysis\|质性内容分析]]在社会科学领域的规范化，韦伯（Weber, 1990）与迈林（Mayring, 2004）确立了公开透明的编码规则（Coding Rules），强调依托显性化标准消除编码员主观变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Mayring, 2004; 引自 Cohen et al., 2011, p. 563)]]
 > - **2000s–2010s [[Qualitative Reliability\|质性信度]]与健康科学多编码员协作阶段** 随着团队[[Qualitative Research\|质性研究]]在健康科学与政策评估领域的普及，Guest 等人（2012）正式将编码手册标准化为包含标签、详略定义、纳入排除准则与引文样例的完整表格工具，成为评估质性[[Reliability\|信度]]的必备规范。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 211)]]
 > - **2010s–2020s [[Qualitative Computer Software\|CAQDAS]] 软件节点架构与层级包容阶段** 计算机辅助质性数据分析软件（如 NVivo、MAXQDA）将编码手册与节点属性库、字典检索系统相融合，Gibbs（2007）提出包容层级与浅层控制原则，编码手册兼具概念检索与矩阵比较功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; 引自 Cohen et al., 2011, p. 562)]]
@@ -210,6 +210,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐明[[Coding in Qualitative Research\|质性编码]]手册的六大结构要素（标签、简略定义、完整定义、纳入排除准则与引语范例），指出其在团队研究中保障[[Qualitative Reliability\|质性信度]]与演化迭代的核心功能。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 结合[[Content Analysis\|内容分析]] 11 步操作规程与教师工作压力实操案例，阐明显性编码规则对规避编码员变异的关键意义，并拓展了编码手册在 LLM 演绎规程赋码中的前沿应用。

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Campbellian Validity Framework
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 科学研究（尤其是实验与[[Quasi-Experimental Designs\|准实验设计]]）中[[Causality\|因果推断]]结论的真实性、[[Reliability\|可靠性]]、[[External Validity\|可推广性]]与[[Construct\|构念]]测量有效性。
 > - **理论问题** 回应实证研究中“如何确证干预与结果之间存在真实因果关系”、“如何系统排除竞争性替代解释”以及“因果知识能否及如何在不同人群与情境间推广”。
 > - **理论类型** 方法论元理论（Methodological Meta-Theory）与因果效度[[Analytic Framework\|分析框架]]。
@@ -224,7 +224,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 旨在确立[[Causality\|因果关系]]的[[Experimental Research\|实验研究]]、[[Quasi-Experimental Designs\|准实验设计]]、单一被试研究以及针对证据评价体系的[[Construct Validity\|构念效度]]元评估。
 > - **谨慎使用** 在高度依赖质性探索、[[Phenomenology\|现象学]]阐释、生成性批判或旨在理解行动者主观意义的研究中，不宜机械套用排除威胁的因果四分模型。
 > - **不适合解释** 纯粹的规范性伦理价值选择、意识形态争论或后现代解构主义文本分析。
@@ -265,6 +265,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse\|WWC]] 组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）的[[Internal Validity\|内部效度]]门控逻辑与[[External Validity\|外部效度]]信息捕获机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。

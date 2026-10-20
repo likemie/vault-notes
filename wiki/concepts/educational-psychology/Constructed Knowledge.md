@@ -44,7 +44,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Constructed Knowledge
 （建构知识）
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1986 — 提出阶段** Belenky et al. 在对135名女性的访谈研究中提出了五种[[Epistemology\|认识论]]视角，建构知识作为最高阶段被正式命名，核心特征是主客观的整合与知识情境性的认识。
 > - **1997 — 理论整合与批评** Hofer & Pintrich 在对发展论模型的[[Systematic Review\|系统综述]]中，将建构知识与 Perry、King & Kitchener、Kuhn 等模型的顶阶进行了跨模型对比，同时指出该模型的来源偏重和样本局限。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997)]]
 > - **2018 — [[Meta-analysis\|元分析]]视角下的重新审视** Greene et al. 在元分析综述中，将以发展论模型（包括建构[[Knowledge Framework\|知识框架]]）为基础的测量工具作为调节[[Variable\|变量]]之一，考察其对[[Academic Achievement\|学业成就]]预测效力的影响。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
@@ -144,6 +144,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理了[[Epistemology\|认识论]]发展模型，将建构知识置于跨模型对比框架中，同时提出了对该模型样本局限与理论偏重的批评。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 以[[Meta-analysis\|元分析]]视角评估了发展论模型（含建构[[Knowledge Framework\|知识框架]]）作为调节[[Variable\|变量]]对[[Academic Achievement\|学业成就]]预测效力的影响，并指出将[[Constructivist Paradigm\|建构主义]]量表误用于认识论测量是该领域的主要混杂因素。

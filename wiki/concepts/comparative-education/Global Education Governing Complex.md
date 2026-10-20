@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Global Education Governing Complex
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 全球教育治理复合体 | [[Global Education Industry\|全球教育产业（Global Education Industry，GEI）]] | 传统联合国专门机构治理 |
 > |------|------------------|---------------------------------------|----------------------|
 > | **网络构成** | 五大国际组织、主权政府、跨国公司与基金会混合体 | 跨国出版集团、数字技术企业、民营咨询公司 | [[UNESCO\|联合国教科文组织]]（UNESCO）为主导的主权会员国体系 |
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD\|经合组织]]（OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **非教育机构的跨界渗透** 经济协调与金融类国际组织（如经合组织、世界银行、区域开发银行）凭借资金实力与数据技术，以“教育促进经济增长”为合法性修辞深度介入教育议程，占据全部涉教育国际组织的三分之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **[[Public-Private Partnership|公私伙伴关系]]与慈善资本联结** 私人基金会（如[[Bill & Melinda Gates Foundation|盖茨基金会]]）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
@@ -179,7 +179,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1945–1960 — 多边战后初创与双机构格局** 战后初期仅有[[International Labour Organization\|国际劳工组织]]（International Labour Organization，ILO）与[[UNESCO\|联合国教科文组织]]两家涉足教育，遵循国际公约法理与受教育人权道义倡导。
 > - **1961–1970s — 冷战地缘对抗与经济组织跨界** 伴随斯普特尼克危机，[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）重组为[[OECD\|经合组织]]（OECD），被视作经济北约；[[World Bank\|世界银行]]于 1964 年与教科文组织签订合作协议借道入场；贝拉吉奥、华盛顿与威廉斯堡三次国际会议系统掀起全球教育危机叙事。
 > - **1980s — 危机叙事催化与跨国指标网络奠基** 美国《国家处在危险之中》报告直接刺激经合组织启动[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目；世界银行发布首份独立教育政策文件彻底与教科文组织脱钩，建立起基于放贷与[[Return on Investment\|投资回报]]率测算的独立研究帝国。
@@ -224,5 +224,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理全球教育治理复合体的历史成因与当代运作，剖析五大组织[[Soft Power by Hard Facts\|以硬事实施展软权力]]的结构性机制。

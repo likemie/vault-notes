@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Central Limit Theorem
@@ -43,7 +43,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 为什么从同一总体中多次[[Random Sampling\|随机抽样]]时，样本均值的分布呈现规律性，即趋向正态分布，且样本均值的均值逼近总体均值。
 > - **理论问题** 样本统计量与总体参数之间的随机偏离是否有规律可循。中心极限定理（Central Limit Theorem, CLT）回答：有，且规律是正态分布。
 > - **理论类型** 概率论与数理统计中的数学定理，构成推论统计（Inferential Statistics）的理论基石。
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合** 随机（概率）样本、独立抽样、[[Sample Size Determination\|样本量]]足够大（通常 $n \ge 25$–30）。
 > - **谨慎** 小样本（$n < 25$）、总体分布极偏或有极端异常值时，样本均值的分布可能不近似正态。
 > - **不适合** 非[[Random Sampling\|随机样本]]（以随机抽样为前提）；非独立观测；样本量极小（$n < 10$）时正态近似不可靠。
@@ -105,7 +105,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1733 年 de Moivre 提出二项分布正态近似** 为中心极限定理的早期雏形。
 > - **1810 年 Laplace 证明独立同分布之和的中心极限定理** 奠定经典拉普拉斯定理形式。
 > - **1901 年 Lyapunov 给出一般条件** 极大放宽了独立随机[[Variable\|变量]]的同分布约束。
@@ -116,5 +116,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] 将中心极限定理作为[[Sampling Error\|抽样误差]]的理论解释，引用 Hopkins 等（1996）的计算机模拟和 Rose and Sullivan（1993）的 95% 规则。

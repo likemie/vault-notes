@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Culture of Disbelief
@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **病理化心理还原论（Pathologizing Reductionism）** 承袭弗洛伊德（Sigmund Freud, 1907）将信仰还原为本能压抑与强迫性冲动的传统，将一切非功利性奉献解释为心理缺陷。
 > - **世俗化过激矫正（Secular Overcorrection）** 战后美国为了促进社会包容而系统性消除公共生活中的宗教影响，其意想不到的后果是彻底消除了任何崇高规范性价值与国家信念的存在空间。
 > - **薄弱世俗教条的伪装（Thin Secular Ideology）** 精英阶层鄙视大众对宗教与传统的依附，自身却紧抱一套薄弱、肤浅且未经反思的世俗教条并误以为是独立思考。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]
@@ -92,5 +92,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，援引卡特《不信文化》论述战后世俗化过激对美国心智的削弱。

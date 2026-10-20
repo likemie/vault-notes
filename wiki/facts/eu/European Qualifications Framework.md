@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # European Qualifications Framework
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 彻底终结了欧洲教育中“以课时量和学制长短衡量文凭”的旧体制，奠定了全欧“以学习成果为本位”的现代资格体系。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
 > - **实践影响** 倒逼欧洲大学各专业必须依据 EQF 描述符重新撰写教学大纲，明确将批判与创新动词嵌入考核标准中。
 > - **知识影响** 成为全球区域资格框架（如[[ASEAN|东盟]] AQRF、太平洋 PQF）争相效仿的国际黄金标准。

@@ -129,7 +129,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Innovation Ecosystem
@@ -160,7 +160,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 创新生态系统（Innovation Ecosystem） | [[Systems of Innovation\|创新系统]]（Systems of Innovation） | [[Triple Helix\|三螺旋模型]]（Triple Helix） |
 > |---|---|---|---|
 > | **分析对象** | 多元主体（大学、芯片厂、装备商、资本、政府）构成的有机共生与协作网络 | 国家或区域层面的科技体制、教育法律与政策制度总和 | 大学、产业、政府三方机构的重叠地带与互动边界 |
@@ -334,7 +334,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1940s — [[Joseph Schumpeter|熊彼特]][[Creativity|创造性]]破坏与战后科学推动[[Paradigm|范式]]** 熊彼特（1942）提出“[[Creative Destruction|创造性破坏]]”作为创新生态动态演化的理论内核；[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立了由政府资助大学开展开放式基础研究的战后科技体制起点。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 159)]]
 > - **1980s — 链环模型与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）的兴起** 克服线性模型缺陷，Kline and Rosenberg（1986）提出链环模型；Lundvall、Nelson 等学者提出“[[Systems of Innovation|创新系统]]”理论，将制度结构与交互式学习引入国家与区域分析。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **1990s — 三螺旋理论与[[Industry Affiliate Program|产业联盟]]纵向协同实践** Etzkowitz and Leydesdorff（1995）提出三螺旋模型；Grindley、Mowery 与 Silverman 系统评估 [[Sematech]] 研发联盟，提炼出纵向用户—供应商生态协同与共性技术治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
@@ -436,7 +436,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 追踪美国创新生态由大企业封闭实验室向去中心化公私协同网络的三十年演化，证实财富 500 强独立创新份额骤降至 7% 而产学研协同攀升至 87.5%，并实证论证公共财政在[[Valley of Death|死亡之谷]]早期技术开发（占近三分之一）托底对维持创新生态运转的支柱功能。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建自维持微电子创新生态系统的四大支柱，通过跨部门微电子领导小组委员会（[[Subcommittee on Microelectronics Leadership|SML]]）顶层统筹、300 毫米共享[[Pilot Scale Platform|中试平台]]与早期引导基金匹配（[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] / [[AFVentures]]）加速实验室向制造基底转化。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 规划[[National Semiconductor Technology Center|国家半导体技术中心]]战略愿景，提出依托非营利实体治理、共享中试线与数字设计网关、构建跨部门创新漏斗的第三代国家公私伙伴生态[[Paradigm|范式]]。

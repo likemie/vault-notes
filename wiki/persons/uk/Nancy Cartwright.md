@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Nancy Cartwright
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1944 年** 出生于美国宾夕法尼亚州，后于伊利诺伊大学芝加哥分校获得哲学博士学位。
 > - **1970s–1980s** 任教于斯坦福大学，发表奠基性专著《物理学定律是如何说谎的》（*How the Laws of Physics Lie*, 1983），确立其实在论与反普适因果法则的哲学声誉。
 > - **1990s–2000s** 转任伦敦政治经济学院（LSE）与加州大学圣迭戈分校教授，创建自然与社会科学哲学中心（CPNSS），转向社会科学[[Causality\|因果推断]]与公共政策评估。
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **哲学与[[Epistemology\|认识论]]路径** 摧毁了将统计相关性等同于普遍规律的[[Technical Rationality\|技术理性]]神话，将实在论因果机制与[[Aristotle\|亚里士多德]]式的[[Phronesis\|实践智慧]]（Phronesis）重新引入循证研究核心。
 > - **方法学路径** 提出三阶段外推分析模型，促使临床医学与教育评估界反思纯 [[Randomised Controlled Trials\|RCT]] 的局限，催生了聚焦“机制与情境”的现实主义评价（[[Realist Evaluation]]）。
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle\|学校探究循环]]（[[School Enquiry Cycle]]）中的证据转译协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization\|证据使用]]建构为深度的“因果行动理论调试”。
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术合作者** [[Nick Cowen]] — 共同撰写教育循证政策工作论文，将卡特赖特因果哲学落地为学校决策指南。
 > - **学术合作者** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
 > - **教育学共振者** [[Gert Biesta]] — 同样反对医学化 [[Randomised Controlled Trials\|RCT]] 垄断教育研究，从价值哲学与因果哲学双向夹击“什么有效”教条。

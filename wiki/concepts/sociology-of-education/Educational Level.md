@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Level
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **20世纪中叶 — 现代化理论与[[Human Capital Theory|人力资本]]阶梯确立** 舒尔茨与贝克尔将受教育水平抽象为人力资本积累的连续度量指标，假定教育层级提升自动带来生产率跃升与普遍经济繁荣。
 > - **1960s–1970s — 第三世界倒金字塔式层级扩张暴露** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）与拉美经委会普查发现，发展中国家中高等受教育水平超速扩张与全民基础识字停滞形成尖锐对照，暴露出受教育层级背后深层的阶级区隔。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 81–82)]]
 > - **1980s–1990s — 新自由主义层级自费化与阶级策略成型** 斯蒂芬·鲍尔（1993）与拉美批判学者揭示，教育券与自负盈亏改革加剧了高阶受教育水平的阶级垄断，将各层级学校系统推向商业市场化。
@@ -212,6 +212,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 验证受教育水平对个体[[Epistemology|认识论]]发展阶段的[[Predictive Validity|预测效度]]，确认教育年限越高，个体越倾向于表现出成熟的批判理性认知信念。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 揭示拉美等外围国家在各受教育层级扩张上的倒金字塔式畸变，批判高阶教育过度供给作为政治补偿而牺牲基础大众初等识字的制度实质。

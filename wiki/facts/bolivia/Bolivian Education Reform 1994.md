@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Bolivian Education Reform 1994
@@ -84,7 +84,7 @@ updated: 2026-10-16
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **反殖民教育的最全面尝试** 被学术界评价为迄今为止打破将摧毁原住民身份作为学校核心目标之一的殖民同化工程（文明化工程）的最全面努力。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, pp. 359–360]])
 > - **多数群体的少数[[Discourse|话语]]悖论** 同上研究指出，玻利维亚原住民占总人口的 50% 以上（在人口学上属于多数群体）。然而，这场改革却动用了国际上通常用于保护边缘“少数群体”文化认同的“尊重多样性”话语，使其转化为保护占人口一半的多数群体免受少数精英统治阶层压迫的独特地缘斗争。
 

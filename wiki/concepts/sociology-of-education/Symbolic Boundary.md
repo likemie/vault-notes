@@ -13,7 +13,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -87,7 +87,7 @@ related_arguments:
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **差异的道德化（Moralization of Differences）** — 将群体间原本客观的行为或品味差异升格为道德优劣判断（如“我们淳朴责任，他们功利套路”或“我们正统，他们边缘”）[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 169)]]。
 > - **边界的自然化（Naturalization of Boundaries）** — 通过日常习惯、[[Discourse|话语]]或制度化教育，将人为建构的边界伪装成“理所当然”的自然事实与社会常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **排斥的正当化（Legitimation of Exclusion）** — 边界一旦成为道德事实，对异己的排斥便被合理化为“正当选择”，从而免除了行动者的道德罪恶感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
@@ -192,7 +192,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德[[Discourse|话语]]构建象征边界。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。

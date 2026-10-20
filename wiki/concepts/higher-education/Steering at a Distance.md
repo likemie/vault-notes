@@ -69,7 +69,7 @@ related_methods: []
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Steering at a Distance
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **调控工具从强制转向说服（Coercion to Persuasion）** 废止指令性审批，代之以基于客观事实与数据论证的双向理性对话与正向行为激励。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 140)]]
 > - **调控对象从条件投入转向产出成果（Conditions to Outcomes）** 终止对办学细目、人员工时和具体课程的事前审核，调控重心转移至毕业率、修业年限与科研产出实质质量。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 150)]]
 > - **行动者角色从中央集权转向机构自治（Central to Autonomous）** 承认高校具有独立的法人决策地位，赋予其统包经费支配权与办学战略空间，增强机构的自组织能力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 138, 140)]]
@@ -248,6 +248,6 @@ updated: 2026-10-20
 
 ## 相关研究索引
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。

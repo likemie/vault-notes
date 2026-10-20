@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Consumer Internet
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 消费互联网（Consumer Internet） | 早期反文化个人计算（[[Counterculture Computing]]） | 国家战略工程（[[Technological Republic\|技术共和国]]） |
 > |---|---|---|---|
 > | **商业与价值诉求** | 广告点击率、用户使用时长、商品流转效率与生活微观便利 | 赋权个体心智、实现[[Creativity\|创造力]]与精神解放、对抗权威 | 维护国家安全、关键技术自主、重大基础设施突破与公共福祉 |
@@ -234,7 +234,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **硅谷意识形态变迁与消费互联网异化** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 阐明硅谷从国家使命向消费主义异化，剖析泡沫与[[Lifestyle Technology|生活方式科技]]对关键防务软件的挤出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Ch. 8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
 > - **[[Total Factor Productivity|全要素生产率]]长期停滞实证** Gordon (2016) 在 *The [[Research in Schools Evaluation|RISE]] and Fall of American Growth* 中实证表明 1970 年代后的信息与消费互联网革命未能逆转美国 TFP 增速腰斩的趋势，揭示消费技术的宏观经济局限。
 > - **[[Technological Pastiche|技术拼贴]]与创新承诺落空批判** Graeber (2012) 批判当代资本主义将前沿技术退化为衍生性的“技术拼贴”，揭示消费主义科技对深层颠覆性发明的压制。

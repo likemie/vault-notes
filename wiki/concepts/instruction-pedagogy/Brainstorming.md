@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Brainstorming
@@ -292,7 +292,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]揭示独立个体训练（$g = 0.682$）显著优于小组协作训练（$g = 0.567$），从生产阻塞与认知交互角度深入解析组织形式效能分化。
 > - Osborn (1953) — 系统创立头脑风暴四原则的奠基专著。
 > - Mullen, Johnson and Salas (1991) — 25 项实验的经典[[Meta-analysis\|元分析]]，确立面对面口头头脑风暴群体相对于名义群体的显著生产力损失（$d = -0.57$）。

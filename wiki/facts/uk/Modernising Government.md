@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Modernising Government
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **重构政策学习机制** 创造了促使官员主动跨国搜寻成熟实证数据与因果评估方案的机会结构。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 344)]]
 > - **推动科学实验规程入库** 催生了[[Employment Retention and Advancement|英国就业留任与晋升示范项目]]等大规模[[Randomised Controlled Trials|随机对照试验]]的立项。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **确立长效[[Output-Oriented Governance|循证治理]]传统** 奠定了英国跨党派长期推崇[[Evidence-Based Policy-Making|循证政策制定]]的行政生态，并反向扩散至欧洲大陆 (Frey & Ledermann, 2010)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]

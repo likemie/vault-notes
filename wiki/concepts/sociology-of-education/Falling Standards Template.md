@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Falling Standards Template
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Falling Standards Template（水平下降模板） | [[Media Logic\|Media Logic（媒介逻辑）]] | [[Mediatised Governance\|Mediatised Governance（媒介化治理）]] |
 > |:---|:---|:---|:---|
 > | **范畴属性** | [[Discourse\|话语]]层面的具体叙事格式与叙事剧本 | 制度层面的传播运行总法则与新闻价值规范 | 政治与治理层面的跨[[Champ\|场域]]共谋体制 |
@@ -91,7 +91,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **仪式化周期重现（Ritualistic Recurrence）** 每逢考试放榜、新学年开学或国际测验（[[PISA]]/[[TIMSS]]）公开发布，媒体不假思索地激活该模板，形成具有日历节律的定期舆论恐慌（Warmington & Murphy, 2004）。
 > - **双元对立与失败者故事（Loser's Tale）** 基于 Shanahan et al. (2011) 的叙事政策框架，模板严密编织“赢家与输家”的极化对照：将本国体系塑造成失去往昔辉煌的“落后者”，将外部新兴体系（如东亚上海、新加坡）神话为不可逾越的竞争巨人（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 124]]）。
 > - **去情境化的指标剪裁（Decontextualized Framing）** 刻意无视样本构成变动、测量误差、社会阶层兜底均值等统计细节，仅挑出某一个学科或排列表微小变动大做文章。
@@ -138,7 +138,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2004 — 概念奠基** Paul Warmington 与 Roger Murphy 在《British Journal of Educational Studies》发表里程碑论文，系统剖析英国媒体对 A-level 考试成绩报道，确立“水平下降模板”的[[Construct\|理论构念]]。
 > - **2011 — 失败者故事模型的深化** Shanahan 等人提出叙事政策框架（NPF），将模板细化为“赢家故事”与“输家故事”的对抗结构。
 > - **2015 — 国际扩散与公学危机研究** Athina Baroutsis 探讨澳大利亚报刊对国家评估项目（NAPLAN）的报道，证实该模板具有跨国普遍性。

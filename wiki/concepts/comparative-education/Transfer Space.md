@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Transfer Space
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 政策转移空间（Transfer Space） | [[Methodological Nationalism\|方法论民族主义]]模型 | 依附霸权扩散模型 |
 > |---|---|---|---|
 > | **国家认知本体** | 解构的国家：区分咨询、行政与立法功能层析 | 均质封闭黑箱：视民族国家为统一政策行动者 | 被动从属体：国家沦为核心帝国的受宰制客体 |
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家并非铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 547)]]
 > - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论并非“外部推力”与“内部阻力”的对抗，而是相互卷入的共生关系；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部文献遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
@@ -149,7 +149,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2000–2010年代 — [[Policy Borrowing\|政策借用]]与借用语境研究** 比较教育学者关注全球政策在跨国流动中的[[Recontextualization|再情境化]]（Recontextualisation）与本土适应，奠定非线性空间研究基础。
 > - **2012 — 政策借用中的政治与经济机制** 吉塔·施泰纳-哈姆西与弗洛里安·瓦尔多系统阐述国家在政策借用中的外在化机制与准外部参考点投射。
 > - **2023 — 政策转移空间的正式提出** 奥斯瓦尔多·波尔图·德奥利维拉与塞西莉亚·奥索里奥·贡内特在比较政策[[Analytic Framework\|分析框架]]下正式确立“转移空间”（Transfer Space）概念，呼吁超越[[Methodological Nationalism\|方法论民族主义]]。
@@ -188,5 +188,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 依托转移空间框架，追踪挪威教育部能力改革中专家报告至正式法令的引文损耗，实证解构国家在政策周期中的自主裁量权。

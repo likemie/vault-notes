@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Curriculum as Praxis（作为实践的课程）
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | [[Curriculum as Process\|作为过程的课程]]（Process） | 作为[[Praxis\|实践]]的课程（Praxis） |
 > |------|----------------------------------|----------------------------------|
 > | **指导理性** | [[Phronesis\|实践明智]]（*Phronesis*） | 解放理性与[[Praxis\|实践]]（*Praxis*） |
@@ -80,7 +80,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **解放政治承诺（Commitment to Emancipation）** 明确将消除社会不公与[[Dehumanization\|非人性化]]作为课程使命。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 68)]]
 > - **集体实践行动（Collective [[Praxis]] Action）** 探究必须延伸至课堂之外的社区与社会变革实践。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 70)]]
 > - **文化协商（Cultural Negotiation）** 课程内容由师生在横向对话中共同协商构建。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 69)]]
@@ -121,7 +121,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与实践》，确立实践[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
 
@@ -136,5 +136,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]与葛兰蒂理论，批评 [[Theory of Knowledge\|TOK]] 课程止于过程而缺乏实践[[Paradigm\|范式]]。

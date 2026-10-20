@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Ma Rong
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1950** 出生。
 > - **1987** 毕业于美国布朗大学 (Brown University)，获社会学博士学位，随后回国任教于北京大学。
 > - **2004** 发表《理解民族关系的新思路：少数族群问题的去政治化》，系统阐发其去政治化理论，引发了国内民族学界的长达数年的大讨论。
@@ -101,7 +101,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 彻底挑战了以中国社会[[Chinese Academy of Sciences|科学院]]民族所为代表的传统马列主义民族理论[[Paradigm\|范式]]，形成了去政治化的新生代民族社会学研究传统。
 > - **政策路径** 为胡鞍钢和胡联合提出的[[Second-generation Ethnic Policy\|第二代民族政策]]构想提供了最直接的理论支撑，在事实上推动了国家自 2012 年以来在新疆、西藏和内蒙古收紧自治管理、推广国家通用语言的进程。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／先驱**[[Fei Xiaotong\|费孝通]] — 马戎在学术上承接了费孝通“多元一体”格局中强化“一体”的取向，但去除了费孝通对“多元”宪法自治权利的保留。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 > - **学术继承人/同盟者** 胡鞍钢 (Hu Angang) — 进一步将其社会学概念转化为极具进攻性的“[[Second-generation Ethnic Policy\|第二代民族政策]]”政策议案。
 > - **批评者／论敌** 乌拉迪恩·布拉格 (Uradyn E. Bulag) — 批评其学说是剥夺少数民族能动性、配合威权国家暴力进行同化的学术工具。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 103]])

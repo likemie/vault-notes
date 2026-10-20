@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Discourse
@@ -225,7 +225,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、[[Intentionality|意向性]]与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何规训主体，话语被确立为制度性实践。
 > - **2000s–2010s — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
@@ -250,7 +250,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] — 结合课堂会话、机构叙事与教师自传，系统阐述话语的概念界定、文本性七大标准与解释学多义性，奠定质性会话与文本[[Discourse Analysis|话语分析]]基础。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育[[Champ|场域]]五位置模型，实证剖析国际组织推销普遍模型时引发的过度简化、拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 348–355）。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪“能力发展”与“尊重多样性”两大教育话语在跨国流动中如何作为“[[Floating Signifier|漂浮能指]]”动员共识并在基层微观实践中发生[[Shape-Shifting|形变]]（pp. 348–361）。

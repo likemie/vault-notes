@@ -54,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -63,14 +63,14 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > - 任职于奥胡斯大学（Aarhus University）心理学系（Nielsen & Klitmøller, 2021, p. 92）
 > - 研究领域：社会实践中的学习理论、理论心理学、[[Qualitative Research\|质性研究]]方法
 > - 与 Jacob Klitmøller 建立长期合作，自 2017 年起共同发表多篇 VL 批判性论文
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Nielsen, K., & Klitmøller, J. (2017). Blinde pletter i den synlige læring: Kritiske kommentarer til "Hattierevolutionen" [Blind spots in [[Visible Learning]]]. *Nordic Studies in Education*, 37(1), 3–18. — 对 VL 理论和经验基础的早期批判
 > - Klitmøller, J., & Nielsen, K. (2017). [[John Hattie]] som uddannelsesteoretiker—En kritik af teorien om synlig læring [John Hattie as educational theorist]. *Dansk pædagogisk tidsskrift*, (2), 3–15. — 对 VL 作为教育理论的系统批判
 > - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's [[Quantitative Research]]]. *[[Paideia]]*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判
@@ -113,7 +113,7 @@ updated: 2026-10-17
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Technical Rationality]] — 识别技术理性作为 VL/[[Evidence-Based Education\|EBE]] 的深层理论内核，建立 Skinner→Glaser→Hattie 的理论传承链
 > - [[Visible Learning]] — 提供 Habermas 框架下的[[Legitimation Crisis|合法化危机]]解释，补充方法论（Wrigley/Simpson）、制度（Cowen）、分析[[Epistemology\|认识论]]（Wiliam）和文化政治（McKnight & Whitburn）批评
 > - [[Feedback]] — 对 Hattie 反馈[[Effect Size\|效应量]]（d=0.73）的 5 项最重[[Meta-analysis\|元分析]]进行逐项细读审查，发现 4/5 未研究同一现象
@@ -122,7 +122,7 @@ updated: 2026-10-17
 
 ## 思想发展与影响
 
-> [!note-] 思想发展与影响
+> [!note-|notitle] 思想发展与影响
 > Nielsen 的 VL 批判经历了三个发展阶段：
 >
 > - **2017** — 与 Klitmøller 以丹麦语发表早期批判，聚焦 VL 的理论和经验基础问题
@@ -133,6 +133,6 @@ updated: 2026-10-17
 
 ## 争议与批评
 
-> [!warning] 争议与批评
+> [!warning|notitle] 争议与批评
 > - **与 Rømer (2019) 的理论定位分歧** Rømer 将 VL 的理论基础解读为[[Radical Constructivism\|激进建构主义]]（radical constructivism），而 Nielsen & Klitmøller 论证 VL 的内核是[[Technical Rationality\|技术理性]]——两者虽然从不同理论基础出发，但对 VL 的批评形成互补
 > - **反馈审查的稳健性** Nielsen & Klitmøller 对反馈[[Meta-analysis\|元分析]]的细读审查聚焦于概念匹配（Hattie 定义的反馈 vs 元分析实际研究的内容）而非统计技术——支持者可能质疑"概念匹配"标准本身，但这一方法论选择反映了他们"Hattie 是教育理论家"的核心论证方向

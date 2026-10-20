@@ -36,18 +36,18 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-11
+updated: 2026-10-21
 ---
 
 ## 定义
 
-> [!info] 定义
+> [!info|notitle] 定义
 > Selective education（选择性教育）指在中等教育阶段依据学术能力考试（如英国 11-plus）将学生分流至不同类型学校的制度安排，典型表现为[[Grammar School\|文法学校]]（grammar school）与现代中学（secondary modern school）的双轨制。在英国语境中，该制度涉及约 163 所现存文法学校，新建文法学校自 2006 年起被法律禁止([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
 >
 
 ## 概念演变
 
-> [!note-] 概念演变
+> [!note-|notitle] 概念演变
 > 英国选择性教育制度在 20 世纪中期达到顶峰，此后经历了大规模的综合学校改革，大部分地区取消了 11-plus 考试并转为综合中学体系。然而，英格兰仍有 163 所[[Grammar School\|文法学校]]在地方层面保留选拔性招生([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])。
 >
 > 2006 年《教育与督导法》（[[Education and Inspections Act 2006]]）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 [[Selective Schools Expansion Fund]]（SSEF），允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令。
@@ -57,14 +57,14 @@ updated: 2026-10-11
 
 ## 概念辨析
 
-> [!example] 概念辨析
+> [!example|notitle] 概念辨析
 > - vs [[Grammar School]] — Grammar school 是选择性教育制度中的一类具体学校类型（选拔性学术中学）；selective education 是涵盖整个分流制度的概念，还包括现代中学、11-plus 考试等制度要素
 > - vs [[Comprehensive Education]] — 综合教育是非选择性制度，所有学生不论学术能力进入同一类中学
 >
 
 ## 实证发现
 
-> [!success] 实证发现
+> [!success|notitle] 实证发现
 > 研究证据中仅有极少数显示选择性教育有潜在益处：Coe et al.（2008）为 [[Sutton Trust]] 所做的报告指出，11-plus 及格线边缘学生在 GCSE 中成绩略有提高，但该报告同时对所谓"[[Grammar School\|文法学校]]效应"提出了质疑([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.10]])。
 >
 > 绝大多数研究证据表明选择性教育的效果为中性或有害([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.10–11]])：
@@ -90,7 +90,7 @@ updated: 2026-10-11
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
+> [!example|notitle] 相关案例／政策
 > - [[Selective Schools Expansion Fund]] — 保守党政府允许现有[[Grammar School\|文法学校]]扩展的 £50M 基金
 > - [[Education and Inspections Act 2006]] — 禁止新建文法学校的立法
 >

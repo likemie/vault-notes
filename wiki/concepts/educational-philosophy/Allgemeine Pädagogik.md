@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Allgemeine Pädagogik
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **母体学科统摄性（Mother-Discipline Function）** 作为教育学科群的元理论基石，确立教育科学的[[Central Phenomenon|核心范畴]]与逻辑自洽性，为比较教育、学校教育学与社会教育学提供共有母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > - **教化价值内核（[[Bildung]] Core）** 始终将受教育者的全面精神觉醒与自主品格陶成置于首位，坚决抵御将人工具化为劳动力市场单一技能符号的危险。
 > - **规范反思能力（Normative [[Reflexivity]]）** 保持对教育现实与政治政策干预的审慎批判距离，不随世俗功利评价标准的波动而丧失学术自主性。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1806 — 科学教育学奠基** 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）出版《从教育目的引出的[[Allgemeine Pädagogik|普通教育学]]》，标志着普通教育学作为独立科学门类的诞生；其体系以[[Praxis|实践哲学]]（伦理学）规定教育目的，以心理学阐明教学途径。
 > - **19世纪末–20世纪中叶 — [[Geisteswissenschaften|精神科学]]教育学派的深化** [[Wilhelm Dilthey|狄尔泰]]（Wilhelm Dilthey）、诺尔（Herman Nohl）等人确立精神科学教育学（Geisteswissenschaftliche Pädagogik），将普通教育学巩固为以历史文化理解、生命体验与人的教化为核心的人文科学母体。
 > - **1960s–1980s — 实证论战与[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制重构** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，[[Oskar Anweiler|奥斯卡·安维勒]]提出将比较教育定性为横切历史与社会的“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”，推动普通教育学打破封闭思辨，开启跨学科接口。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -198,5 +198,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 详尽剖析德意志及中东欧教育科学以哲学性[[Allgemeine Pädagogik|普通教育学]]为母体的历史谱系，阐明其与英美独立系所建制传统的根本[[Paradigm|范式]]差异。

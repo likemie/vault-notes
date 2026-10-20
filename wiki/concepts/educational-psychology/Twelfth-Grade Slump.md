@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Twelfth-Grade Slump
@@ -102,6 +102,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
 

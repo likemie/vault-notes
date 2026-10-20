@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Communities in Schools
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 项目定位与方案概况
 
-> [!info] 项目定位与方案概况
+> [!info|notitle] 项目定位与方案概况
 > **校内社区（Communities in Schools, CIS）** 由 Bill Milliken 于 1977 年创立，是全美规模最大的综合学生支持（Integrated Student Supports, ISS）与高危青少年预防辍学非营利组织，常年在全美 26 个州的 2,900 多所公立学校运行，每年为超过 170 万名贫困与辍学高风险学生提供系统支持。
 >
 > 在[[Evidence-Based Education\|循证教育]]元评估中，CIS 构成了全库 **“最大极性冲突（Maximum Polarity Conflict: Full Endorsement vs Outright Rejection）”** 的标志性案型——横跨 [[National Dropout Prevention Center\|NDPC]]、PPN、[[CNCS Evidence Exchange]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 与 [[What Works Clearinghouse\|WWC]] 六大机构，评级结论从“最高强力推荐”直接跌落至“无明显效果”与“彻底不予背书”的极端对立两极([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。

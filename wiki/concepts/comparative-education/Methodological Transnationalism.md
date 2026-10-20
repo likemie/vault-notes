@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Methodological Transnationalism
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 方法论跨国主义 | [[Methodological Nationalism\|方法论民族主义]] | [[Methodological Globalism\|方法论全球主义]] |
 > |------|--------------|---------------------------------------------|--------------|
 > | **空间假设** | 关系性、相互依存与多尺度重叠的空间 | 封闭、自足且领土边界固定的国家容器 | 去疆界化、均质且抹平差异的全球平面 |
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **空间关系性与相互依存** 打破“内部”与“外部”的绝对两分，视全球与国家为相互渗透的动态空间；全球规范并非单纯自外强加，而是深度卷入国家治理体系的内部重构。
 > - **政府实体的多维解构** 拒绝将政府视为铁板一块的单一行动者，主张按空间尺度（全球、区域、国家）、职能部门（立法机关、行政官僚、咨询专家委员会）以及公私界限（公共机构与私营咨询实体）进行系统拆解。
 > - **反思线性层级假定** 批评将全球与国家关系片面理解为“霸权命令—被动服从”的机械观点，重点关注政策在流动过程中的折射、本土抵制、选择性采纳与杂糅创新。
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2002–2003 — 社会学[[Methodological Nationalism\|方法论民族主义]]批判** Wimmer & Glick Schiller 发起对社会科学将国家视作天然容器的[[Epistemology\|认识论]]批判。
 > - **2009–2015 — 比较教育空间转向** Beech 引入[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]；Massey 的[[Relational Space\|关系性空间]]概念启发了对教育转移去领土化解释的探索。
 > - **2020 — 全球公共政策中的[[Paradigm\|范式]]确立** Diane Stone 在《制造全球政策》（*Making Global Policy*）中正式提出“方法论跨国主义”，倡导跨国[[Policy Network\|政策网络]]分析。
@@ -207,6 +207,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space\|关系性空间]]中加以考察。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度转译分析。

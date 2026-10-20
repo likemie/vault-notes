@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Stephen P. Heyneman
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1976** 在芝加哥大学获得比较教育学博士学位，博士论文基于对乌干达初等教育的系统实证调查，奠定其关于低收入国家学校效应的学术根基。
 > - **1976–1998** 在[[World Bank|世界银行]]华盛顿总部任职长达 22 年，历任教育研究处资深研究员、中东及北非与欧洲中亚地区教育政策与贷款处处长，主导数十亿美元多边教育援助规划。
 > - **1983** 发表奠基论文，实证证实低收入发展中国家学校教育质量对学生[[Academic Achievement|学业成就]]的影响远大于家庭阶层背景，推翻了西方[[Coleman Report 1966|科尔曼报告]]在第三世界的普适性假设。
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 拓宽了比较教育政治经济学对国际多边官僚组织的内部机制批判，成为反思“[[Washington Consensus|华盛顿共识]]”教育政策的关键文献基准。
 > - **实证路径** 海尼曼-洛克斯利效应成为国际学生评价与教育社会学争论数十年的经典假说，持续引发关于学校效应与家庭资本权重的全球再检验。
 > - **政策反思路径** 推动了[[UNESCO|联合国教科文组织]]、[[Global Partnership for Education|全球教育伙伴关系]]等机构重新审视以人为本的人道主义教育目标，对冲单纯金融资本逻辑。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **研究合作者** 威廉·洛克斯利（William Loxley）——共同合作发现跨国[[School Effectiveness|学校效能]]效应。
 > - **学术同行与圈内互证者** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]——同为[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]高阶实务官员，在《比较教育学国际手册》中亲历互证海尼曼关于 1990 年代世行高层理念内战的经典论述。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]——阿诺夫在批判世界体系金融机构霸权时，将海尼曼的自省长文作为证明现实主义论点的重要内部实证支撑。

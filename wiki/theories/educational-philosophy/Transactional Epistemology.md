@@ -44,12 +44,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 ## 核心主张
 
-> [!info] 核心主张
+> [!info|notitle] 核心主张
 > 交易[[Epistemology\|认识论]]（Transactional Epistemology）是 [[John Dewey]] 提出的知识观，主旨是：知识不是对外部静态现实的"准确再现"（旁观者知识观），而是在我们与世界的**互动与介入**中产生的、关于**行动与后果关系**的理解。
 >
 > > "If we take experimentation seriously in our understanding of what knowledge is and how we can get it, we have to give up the spectator view of knowledge... and rather have to concede that the knowledge we can gain through experimentation is knowledge about relationships and, more specifically, about relationships between (our) actions and (their) consequences." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 494]])
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!note-] 发展脉络
+> [!note-|notitle] 发展脉络
 > - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
 > - **1983** — Bernstein 在 *Beyond [[Objectivism]] and Relativism* 中重新阐释 Dewey 的[[Epistemology\|认识论]]，挑战客观主义/相对主义的二元对立
 > - **2003** — Biesta & Burbules 在 *pragmatism and Educational Research* 中系统阐述交易认识论对教育研究的意义
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ## 研究范式
 
-> [!info] 研究[[Paradigm\|范式]]
+> [!info|notitle] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Pragmatic Paradigm\|实用主义]] —— 超越现实主义/[[Constructivist Paradigm\|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**[[Philosophical Analysis in Education\|哲学分析]]、概念分析
 
@@ -118,13 +118,13 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!example] 相关研究
+> [!example|notitle] 相关研究
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 将交易[[Epistemology\|认识论]]应用于批判[[Evidence-Based Education\|证据本位教育]]的[[Theory of Knowledge\|知识论]]前提
 > - Biesta and Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 
 ## 应用领域
 
-> [!success] 应用领域
+> [!success|notitle] 应用领域
 > - [[Evidence-Based Education]] — 交易[[Epistemology\|认识论]]是挑战证据本位教育的主要哲学武器之一
 > - [[Value-Based Education]] — 交易认识论证明证据只能提供可能性，因此价值判断变得不可或缺
 

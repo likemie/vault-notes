@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Control of Variables Strategy
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **确定因果焦点** 明确探究问题中所关心的单一核心[[Independent Variable\|预测变量]]（如斜面坡度或摆锤重量）。
 > - **正交成对对比（Orthogonal Comparison）** 构建两组或多组实验，使其仅在目标焦点[[Variable\|变量]]的水平上存在差异，其余属性完全相同。
 > - **潜在混杂排除（Confound Elimination）** 识别并冻结所有可能影响结果的非目标变量，防止虚假关联与过度推论。
@@ -175,5 +175,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow 等（2016）的[[Meta-analysis|元分析]]反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。

@@ -115,7 +115,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Geopolitics of Knowledge
@@ -153,7 +153,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!timeline] 概念演变
+> [!timeline|notitle] 概念演变
 > - **1980s–1990s** 人文地理学空间转向：[[Doreen Massey]]、Harvey 等人将空间理解从领土性转向关系性；拉丁美洲去殖民思想兴起（Mignolo, Dussel），形成[[Critical Geopolitics\|批判地缘政治学]]与去殖民传统两条平行脉络
 > - **1990s** "[[Geopolitics|geopolitics]] of knowledge"[[Discourse|话语]]出现（Partaken 的 Ngram 分析）；两条脉络分别追问：谁建构地缘政治秩序（批判地缘政治学）vs 谁的知识被认定为知识（去殖民传统）
 > - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、网络化视角（Thompson & Parreira do Amaral, 2022, p.10）

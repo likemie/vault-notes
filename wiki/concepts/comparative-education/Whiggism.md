@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Whiggism
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1931 — 史学理论确立** 赫伯特·巴特菲尔德出版《辉格史观》（*The Whig Interpretation of History*），批判以英国自由派政治成功剪裁历史进程的现时主义倾向，奠定批判时代倒错的经典史学基准。
 > - **1961–1963 — 比较教育方法论反思的引入** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）发表《比较教育方法论中的新旧进路》等文，率先援引巴特菲尔德理论批判[[Isaac Kandel\|坎德尔]]等前辈学者混淆实然与应然的辉格偏误及[[National Character\|国民性格]]循环论证。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1960s–1970s — 战[[Postpositivism\|后实证主义]]构建学科进化神话** 诺亚与埃克斯坦（Noah & Eckstein, 1969）及贝雷迪（Bereday, 1964）将学科演进模式化为“借用期—因素分析期—社会科学实证期”的三阶段阶梯，自身不自觉地陷入了[[Positivism\|实证主义]]的辉格史叙事。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
@@ -228,6 +228,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 思想史考古揭示比较教育历史学派在追求教育改良时陷入混淆实然与应然的辉格史观，并澄清[[Historical-Comparative Method\|历史比较法]]在超越[[National Character\|国民性格]]循环论证后的广义[[Scientific Explanation\|科学解释]]力。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统解构战[[Postpositivism\|后实证主义]]学者编造的单向学科进化神话，反驳以现代量化标准裁判 19 世纪早期先驱的时代倒错，正名其教育编年史官与[[Ethnography\|民族志]]记录者的奠基价值。\n

@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Michael Fullan
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1940 年** 出生于加拿大，后于多伦多大学获得社会学博士学位，投身组织社会学与学校系统改进研究。
 > - **1988–2003 年** 担任多伦多大学安大略教育研究院（OISE）院长，奠定其作为全球教育政策与教师教育重镇的国际声誉。
 > - **2003–2013 年** 受邀出任安大略省省长道尔顿·麦坚迪（Dalton McGuinty）首席教育特别顾问，主持全系统教育改革，显著提升基础学业达标率与高中毕业率。
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 拓展了组织社会学在教育领域的应用，开创全系统变革（Whole System Change）与教师协作专业主义理论脉络。
 > - **方法路径** 开发了深度学习行为进展量规（Progressions）、[[Co-Design|协同设计]]协议与学校集群自评工具套件。
 > - **政策路径** 作为安大略省首席顾问主导全省教育改革，其政策理念被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。

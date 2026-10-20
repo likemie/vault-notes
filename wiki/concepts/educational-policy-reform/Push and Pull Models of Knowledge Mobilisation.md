@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Push and Pull Models of Knowledge Mobilisation
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 供给推送机制（Push） | 需求牵引机制（Pull） | 双向互动与协同创造机制（Linkage & Exchange） |
 > |---|---|---|---|
 > | **主导发起者** | 研究者、学术机构、知识清除所与政府部委 | [[School Leadership\|学校领导]]者、教研组长、一线教师及实践团队 | 研究者与实践者构建的长期研发伙伴关系（[[Research-Practice Partnership\|RPP]]） |
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2003 — 卫生政策领域的推拉理论奠基** 约翰·拉维斯（John Lavis）等学者在[[Systematic Review\|系统综述]][[Knowledge Transfer\|知识转移]]模型时，明确提出以研究者为中心的推送（Push）、以使用者为中心的拉动（Pull）与互动知识交换（Exchange）的三维分类框架。
 > - **2007 — 公共政策与公共服务领域拓展** 桑德拉·纳特利（Sandra Nutley）等人在著作中将推拉模型引入循证政策与社会公共服务评估，分析知识流动各环节的动力机制与阻滞瓶颈。
 > - **2020–2022 — 教育证据生态中的重构与落地** [[OECD\|经合组织]]（OECD）研究项目与[[Monash Q Project\|莫纳什 Q 项目]]将推拉模型全面引入教育政策与基础教育实践治理。托雷斯与里金森等学者系统批判了长期垄断教育政策的单向学术供给推送偏误，提出将战略重心转向微观学校的需求牵引、[[Absorptive Capacity\|吸收能力]]与[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（QURE）。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–185)]]
@@ -212,7 +212,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization\|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架及使能支持路径。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。

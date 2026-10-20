@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Social Contract of Science
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 社会整体（通常由政府或公共权威代表）与科学共同体之间围绕[[Knowledge Production|知识生产]]的[[Public Value|公共价值]]形成的权利与责任的整体性结构关系，及其在不同政治、经济与安全情境下的制度演变。
 > - **理论问题** 解释为何国家应当对不可预测的基础研究提供持续公共资助，科学共同体何以在享有高度专业自治的同时向国家回报公共福祉，以及当国家安全、经济竞争或政治极化冲击既有平衡时，政府与科学的关系如何调整、失衡与重构。
 > - **理论类型** 制度主义与科技政策交叉的宏观结构[[Analytic Framework|分析框架]]。

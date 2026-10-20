@@ -55,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Voluntarism
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **行动的自主发起性（Initiator of Action）** 确认个体具备打破既定因果链条的能动意志，行动是根据自我确立的目标与价值主动开展的实践。
 > - **自由意志与反思[[Creativity\|创造力]]（Free Will and Reflexive Creativity）** 人在行动过程中持续进行自我觉察与反思监控，具备根据情境反馈即兴调整策略的创造潜能。
 > - **社会环境的主体间构建（Production of Environments）** 学校规范、课堂纪律与[[Organizational Culture\|组织文化]]并非天然物理实体，而是行动者在日常交往互动中持续赋予意义、协商并再生产的产物。
@@ -166,7 +166,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与[[Geisteswissenschaften|精神科学]]，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
 > - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向[[Behaviorism|行为主义]]机械客体观发起正面清算。
 > - **1979 — 社会科学人性坐标经典确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将唯意志论明确定义为[[Subjectivism\|主观主义范式]]的人性基石，与[[Determinism\|决定论]]形成鲜明对照。

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Policy Avoidance
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Policy Avoidance（政策规避） | [[Moral Sidestep\|Moral Sidestep（道德侧步）]] | [[Policy Borrowing\|Policy Borrowing（政策借用）]] |
 > |:---|:---|:---|:---|
 > | **行动主体** | 新闻媒体机构、编辑部、一线政策记者 | 政治精英、国会议员、政府内阁官员 | 政策制定者、跨国智库、比较教育学者 |
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **狂热炒作与深度冷漠的悖论（Hype vs Detachment）** 媒体可以为一份国际测验报告刊发数十篇耸动头条、绘制巨幅危机信息图，却在面对政府借机宣读的数万字改革白皮书时连一个段落的技术细节都不愿展开分析（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 122]]）。
 > - **默认强化效应（Reinforced by Default）** 争议政策既未经历严肃的同行辩论，亦未获得立法机构的深入审议，仅仅依靠媒体对危机的全天候洗脑，使公众默认“必须采取紧急措施”，从而使本应受到严厉质疑的政策在免检状态下合法化。
 > - **第四权力宪制监督职能的退化（Fourth Estate Failure）** 传统新闻学赋予媒体揭露执政者谎言、核实政策依据以保护公民知情权的核心天职，在政策规避机制下被追求流量与短平快通稿的功利逻辑彻底取代（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 125]]）。
@@ -133,7 +133,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2018 — 概念提出与界定** [[Paul Morris]] 与 Sue Grey 在《Comparative Education》发表论文，首次以“政策规避”（Policy Avoidance）为[[Central Phenomenon\|核心范畴]]，精准刻画大众媒体在 [[PISA]] 报道中放弃政策审视的系统性失职。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 > - **2020–至今 — [[Evidence-Based Policy-Making|循证决策]]与政策审议研究扩展** 该概念被广泛引申至教育政治学中，用于分析执政精英如何与媒体合谋规避真实的研究证据（[[Evidence-Based Education]]），促成一种“无证据审议的危机治理”。
 

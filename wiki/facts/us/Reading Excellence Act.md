@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Reading Excellence Act
@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **确立联邦直接规制教学法与科研标准的立法先例** 法案打破了美国宪政传统中联邦不干预课程的惯例，首次由联邦成文法直接对教学概念（阅读）与证据规范做出排他性法律界定。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **开创以方法学清单规制联邦服务支出的立法模版** 确立了面向服务提供者（Service Providers）的支出合规审查[[Paradigm|范式]]，要求受资助学区购买的方案必须符合严苛的实验因果实证假设检验；这种规制服务支出的立法技术随后被高密度复刻进 [[No Child Left Behind Act 2001|NCLB]]、IDEA 与 [[Higher Education Act of 1965|HEA]] 等联邦大宗教育拨款法案中。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **奠定 2001 年 [[No Child Left Behind Act 2001|NCLB]] 阅读优先计划的制度蓝本** 法案确立的法定词汇与实证控制逻辑，在三年后被原封不动平移为全美基础教育的最高法定义务。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]

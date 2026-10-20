@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Visual Data
@@ -102,5 +102,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]] — 系统介绍视觉数据的类型（Prosser & Loxley 四类）、来源、生产—图像—受众三重维度，及其在照片、影片与[[Artefact\|器物]]研究中的应用。

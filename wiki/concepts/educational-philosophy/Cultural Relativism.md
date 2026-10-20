@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cultural Relativism
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 文化相对主义（Cultural Relativism） | 启蒙客观卓越论（Kenneth Clark, 1969） | 技术共和主义德性论（[[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]） |
 > |---|---|---|---|
 > | **价值前提** | 一切文化生活模式同等有效，禁止优劣评判 | 文明是通往美、真理与卓越的客观进军 | 必须确立具体的伦理特质与审美裁量权 |
@@ -96,7 +96,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **文化模式等价性公理（Axiom of Equal Validity）** 宣称所有文明形态与组织习惯在规范上同等有效，抹杀某些文化机制（如硅谷早期[[Innovation Ecosystem|创新生态]]）能创造技术奇迹而另一些文化却平庸倒退的客观事实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 206–207, 212)]]
 > - **对真善美规范决断的集体恐惧（Collective Fear of Pronouncement）** 社会因害怕被扣上排他或偏狭的帽子，不敢宣称真理、美、[[Buen Vivir|美好生活]]与正义，只能拥抱一种单薄空洞的集体认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 206–207)]]
 > - **地位争夺还原论的极端泛化（Overextended Status-Seeking Reductionism）** 将索尔斯坦·凡勃伦（Thorstein Veblen, 1899）对阶级特权符号的批判极端泛化，把一切审美偏好与卓越追求都贬低为单纯的“争夺社会地位行为”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 206)]]
@@ -163,7 +163,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1928–1934 — 文化人类学等效假说奠基** 玛格丽特·米德发表《萨摩亚人的成年》（1928）、鲁斯·本尼迪克特发表《文化模式》（1934），确立所有生活形态同等有效的人类学相对主义传统。
 > - **1969 — 克拉克《文明》引发审美卓越争论** 肯尼斯·克拉克主持 BBC 纪录片《文明》，以客观卓越叙事引发收视轰动，随后遭遇后现代学者的持续解构批判。
 > - **1968–1988 — 大学[[Western Civilization Course|西方文明课]]终结与[[Canon Wars|经典之争]]** 斯坦福大学等欧美高校废除西方文明必修课，文化相对主义主导人文学科大纲，导致通识正典瓦解与国家大叙事断裂。
@@ -205,5 +205,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 揭示[[Western Civilization Course|西方文明课]]解体留下的道德真空（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Ch07]]），并结合本尼迪克特人类学假说剖析相对主义对社会辨别力与科技创新的削弱（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。

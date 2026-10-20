@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Educational Neuroscience
@@ -102,7 +102,7 @@ updated: 2026-10-17
 
 ## 相关条目
 
-> [!ref-table] 相关条目索引
+> [!ref-table|notitle] 相关条目索引
 > | 条目 | 关系说明 | 来源 |
 > |---|---|---|
 > | [[OECD]] | 多次发布报告系统性论述教育神经科学的边界，警告其不能替代社会学与哲学，且极易被政策滥用。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 7–8]] |

@@ -57,7 +57,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Luhmann's Systems Theory
@@ -67,7 +67,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 现代社会的系统功能分化机制、沟通的[[Autopoiesis|自创生]]过程、各子系统之间的边界划定与相互盲视，以及系统与环境之间的非[[Causality|因果性]]互动。
 > - **理论问题** 打破以“人”或“行动者主体”为中心的传统社会学实体[[Ontology|本体论]]，回应现代高度分化社会如何克服复杂性、维持内部自指涉秩序，以及异质系统之间如何实现协同演化。
 > - **理论类型** 超[[Grand Theory|宏大理论]]（Super-Grand Theory）、[[Radical Constructivism|激进建构主义]]系统[[Epistemology|认识论]]、自适应社会系统[[Paradigm|范式]]。
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 关键概念与理论构件
 
-> [!entry-map] 关键概念与理论构件
+> [!entry-map|notitle] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -182,7 +182,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 宏观制度分化、跨部门沟通阻滞、政策推行中的意图流失、标准化评估的[[Technical Rationality|技术理性]]偏误、复杂教育网络自组织。
 > - **成立条件** 研究者需具备二阶观察视阈，超越对实证数据的朴素实在论假定，承认各功能子系统的操作自主性。
 > - **解释不足** 理论聚焦于沟通事件的递归再生产，对个体微观情感肉身体验与主体间共情的细腻[[Phenomenology|现象学]]描述存在客观局限。
@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 运用盲点（[[Blind Spot in Observation|Blinder Fleck]]）与社会-心理系统[[Incommensurability|不可通约性]]，对可见学习[[Paradigm|范式]]进行深刻的[[Epistemology|认识论]]哲学批判。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 运用[[Structural Coupling|结构耦合]]与解释社群概念为[[Evidence-Based Education|循证教育]]辩护，论证外部实证数据如何通过教师[[Professional Judgment|专业判断]]转化为实践扰动。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 将系统论与复杂自适应系统并置，作为第三代自组织[[Evidence Ecosystem|证据生态系统]]的元理论分析支柱。

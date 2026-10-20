@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institutional Exhaustion
@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **自我消耗（Self-Consumption）** 制度在常规履行过程中不断耗费其生存所必需的社会、财政或政治外部前提条件，例如德国提前退休制度在缓解青年失业的同时持续消耗养老基金收入并推高失业衍生支出。
 > - **边际收益递减（Decreasing Returns）** 制度安排在初创阶段具备正向激励与协调收益，但随着规制范围向全社会泛化普及，其维系成本呈指数级攀升，收益净值逐渐转负。
 > - **增长极限与过度扩张（Limits to Growth and Overextension）** 制度运作日趋复杂化，为维系运转不得不频繁引入例外条款与特殊裁决，导致规制体系丧失连贯性、公信力与实践可操作性。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
@@ -143,7 +143,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2005年 — 经验形态学奠基** [[Wolfgang Streeck|施特雷克]]与希伦在《超越延续性：高级政治经济体制中的制度变迁》（*Beyond Continuity: Institutional Change in Advanced Political Economies*）导论中首次系统提出置换、层叠、漂移、转换与耗竭五大制度渐变形态，确立制度耗竭作为内生制度衰退的独立概念范畴。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–31)]]
 > - **2009年 — [[Causal Modeling|因果建模]]中的范畴收拢** [[James Mahoney|马奥尼]]与希伦在《解释制度变迁》（*Explaining Institutional Change*）中建构基于行动者博弈的“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”二维因果矩阵时，主要收拢聚焦于置换、层叠、漂移与转换四类变迁机制，耗竭被视为更侧重时间长周期与资源自毁边界的特殊消亡路径。
 
@@ -175,5 +175,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出制度耗竭概念，以德国提前退休制度自我侵蚀养老金税基为例，界定自毁、收益递减与增长极限三类衰竭机制。（pp. 29–31）

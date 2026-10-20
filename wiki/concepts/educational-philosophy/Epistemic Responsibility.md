@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic Responsibility
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **权力与假设质询（Critique of Power & Assumptions）** 拒绝将既有教材、专家定论或大模型输出视作中立无偏的绝对真理，主动追问知识背后的前提假设与立场倾向。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
 > - **集体认知责任与公共知识贡献（Collective Cognitive Responsibility）** 共同体成员不将知识私有化或局限于个人得分，而是主动监控全班知识前沿，在[[Theory of Knowledge|知识论]]坛中跨组共享见解，自发填补集体认知缺口。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
 > - **[[Humility|谦逊]]开放（Epistemic Openness & Humility）** 保持对反例、相左证据及自我认知局限的敏锐觉察，在理性论辩中愿意修正自身不成熟的假说。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
@@ -192,7 +192,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1998 — [[Liberal Education|自由教育]]学提炼** [[Paulo Freire|弗莱雷]]在《自由教育学》中阐明教育者与学习者的[[Epistemology|认识论]]态度、审慎质疑与伦理[[Open-Mindedness|开放性]]。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49, 引自 Darwish, 2009)]]
 > - **2002–2006 — [[Knowledge Building Theory|知识建构理论]]中的集体认知责任确立** [[Marlene Scardamalia]] 与 [[Carl Bereiter]] 提炼集体认知责任作为 12 条经典知识建构设计原则的核心，强调对公共观点制品的共同照料与推进。
 > - **2009 — [[Conscientization|批判意识觉醒]]的认识论维度确立** 达维什明确将认识论责任作为解构批判意识觉醒的核心支柱，指出其与道德责任相辅相成。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
@@ -233,7 +233,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 揭示[[Reflective Structuration|反思性结构化]]如何赋能小学生行使集体认知责任，通过跨组流动与 BOOK 视图综合推进全班公共知识前沿。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，实证验证[[Epistemology|认识论]]责任在促使学习者主动核验大模型输出、克服消极[[Cognitive Offloading|认知卸载]]并实现评价主义进阶中的关键机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位论文第 4 章中将认识论责任作为[[Problem-Posing Education|提问式教育]]超越技术性[[Active Learning|主动学习]]的核心理论标识。

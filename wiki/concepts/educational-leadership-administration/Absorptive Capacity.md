@@ -77,7 +77,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Absorptive Capacity
@@ -203,7 +203,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 — 工业研发创新领域的奠基** 韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）发表《吸收能力：学习与创新的新视角》，奠定组织识别、吸收与应用外部知识的三维[[Analytic Framework\|分析框架]]。
 > - **2002 — 潜在与实现吸收能力的分化** 沙哈拉与乔治（Zahra & George, 2002）将吸收能力重新构架为“潜在吸收能力”（获取与消化）与“实现吸收能力”（转化与利用），深化了组织知识转化的过程论模型。
 > - **2018 — 宏观国家治理与[[Public Dynamic Capabilities|公共部门动态能力]]扩展** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 808]]）将吸收能力与机构学习（Institutional Learning）引入国家创新治理与公共部门能力分析，论证政府与高校管理机构唯有在持续投资与实验探索中积累内生吸收能力，才能摆脱对外部咨询机构的[[Cognitive Deskilling|去技能化]]依赖并有效引领使命导向转型。
@@ -253,7 +253,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。

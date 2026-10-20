@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Epistemic and Ontological Cognition
@@ -46,7 +46,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释学生关于知识和认知本质的信念系统及其发展规律。
 > - **理论问题** 回应以往“发展阶段论”和“多维系统论”各自为政的弊端，以及在将知识本质纳入[[Epistemology\|认识论]]范畴时缺乏坚实哲学依据的困境。
 > - **理论类型** [[Analytic Framework\|分析框架]]、机制模型。
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 学生跨学科（良构与劣构学科）在信念与认知发展上的不平衡现象。
 > - **常见误用** 容易直接将特定单维度的得分高低粗暴地用于评价认知好坏，而忽视多维度组合所映射的整体发展逻辑。
 
@@ -102,7 +102,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2008 — 概念起点** Greene 等人初步提出区分[[Epistemology\|认识论]]和[[Ontology\|本体论]]认知的理论论述。
 > - **2010 — 实证检验** Greene、Torney-Purta 及 Azevedo 将该模型转化为 [[Epistemic and Ontological Cognition Questionnaire\|EOCQ]] [[Questionnaire\|问卷]]，并通过[[Factor Mixture Modeling\|因子混合模型]]进行大样本验证。[[Argument_Greene_2010_JEP\|(Greene et al., 2010)]]
 
@@ -110,5 +110,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al., 2010]] — 该研究通过[[Factor Mixture Modeling\|因子混合模型]]检验 EOCD 模型；12个领域轮廓中8个符合预设，因此结论是部分支持。

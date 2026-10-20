@@ -14,7 +14,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-10-20
+updated: 2026-10-21
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -84,7 +84,7 @@ related_arguments:
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **正统[[Discourse|话语]]的垄断（Discursive Monopolisation）** — 将主导群体的文化（如汉族儒家传统）提升为国家“唯一”或“核心”的文化象征，剥夺其他文化的代表性[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **师生与教化隐喻（Teacher-Student Metaphor）** — 在历史与文化叙事中，将主导文化塑造为“施教者/文明化者”，将非主导群体塑造为“受教者/学习者”，固定两者的支配-服从关系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **少数文化的“异域化”与边缘化（Exoticisation & Marginalisation）** — 将少数族群文化置于非主流的“民俗展示”或“落后待改造”位置，排除在核心知识体系之外[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 60)]]。
@@ -164,7 +164,7 @@ related_arguments:
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 对中国 217 册必修教材中汉儒文化等级与少数民族学生[[Reflexivity\|反思性]]回应的实证研究。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的教材作为文化等级再生产的文本载体。
 

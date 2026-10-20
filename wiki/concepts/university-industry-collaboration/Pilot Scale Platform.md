@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Pilot Scale Platform
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **工业级接近真实环境的工艺试验线** 配备全套前沿工业母机与测试仪表，具备完整的全流程流片、原型加工与动力试车能力。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–39)]]
 > - **分布式 300mm 先进制程研发基线设施** 布局涵盖极紫外（EUV）光刻、前沿硅基 CMOS、先进三维封装（[[National Advanced Packaging Manufacturing Program|NAPMP]]）及宽禁带半导体在内的国家级中试基线网络，避免单一地点投资过度集中。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
 > - **中立客观的第三方评估与认证体系** 制定全行业通用的评估规范（如[[Cost of Ownership|所有权成本]] COO 模型、[[Statistical Process Control|统计过程控制]] SPC 标准），为下游用户采购提供无利益偏见的成熟度报告。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
@@ -331,7 +331,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述统筹 NSTC 300mm 基线产线、[[National Advanced Packaging Manufacturing Program|NAPMP]] 先进封装试验线、Commons 8 大区域原型中心与 [[National Nanotechnology Coordinated Infrastructure|NNCI]] 开放网络，通过云端 DEG 与标准 [[Process Design Kit|PDK]]/ADK 跨越实验室到制造厂（[[Translational Research|lab-to-fab]]）转化鸿沟的顶层设计。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）构建共享技术中心、[[Multi-Project Wafer|多项目晶圆流片]]（MPW）与云端设计网关以跨越半导体“[[Valley of Death|死亡之谷]]”的顶层战略设计。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，系统论述共享试验场、NNCI 微纳洁净室与 GMP 级中试制造平台对跨越深科技[[Valley of Death|死亡之谷]]与重振本土先进制造的战略基石作用。

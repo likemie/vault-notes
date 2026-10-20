@@ -57,7 +57,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Data Team Intervention
@@ -127,7 +127,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **显著提升教师[[Data Literacy\|数据素养]]与协作技能** 多项跟踪评估显示，参与数据团队的教师在数据收集意识、质量检验方法、统计图表解读及客观归因技能上展现出长效增长，显著克服了凭经验直觉主观判断的惯性。
 > - **促进特定学科学生[[Academic Achievement\|学业成绩]]增长** 荷兰初中多项 [[Randomised Controlled Trials\|RCT]] 实证表明，在持续运作数据团队且严格执行探究规程的学校中，学生在数学与母语阅读测验中的成绩呈现出统计上显著的积极增长。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 > - **实现教师归因心态的深层认知重塑** 质性追踪证实，团队在初期普遍持有防御性假设（倾向将学业落后归咎于学生家庭差、基础弱等不可控外因）；通过数据检验推翻偏见后，教师直面教学法单一与反馈滞后等可控因素，实现了从外部推诿向主动探究的转变。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 166–167)]]

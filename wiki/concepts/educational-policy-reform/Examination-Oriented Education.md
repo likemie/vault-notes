@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Examination-Oriented Education
@@ -247,7 +247,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|活动理论]]系统剖析中国学校应试教育系统的协调性机制、多层问责网络与教师道德认同，揭示应试底线对 [[Learner-Centred Education|LCE]] 改革的制约。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合读写教育史与[[Critical Pedagogy|批判教育学]]，揭示高利害应试体系催生的[[Computerization of Education|教育计算机化]]与公式套路写作，如何在生成式 AI 时代前置并加剧[[Formative Epistemic Injustice|成长性认识不正义]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 深入分析中国官方与学术[[Discourse|话语]]中应试教育与[[Quality Education|素质教育]]的二元建构及其在政策实践中的模糊性与复杂性。

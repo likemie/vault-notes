@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Space of Equivalence
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（等值空间） | [[Commensuration\|通约]] | [[Governing by Numbers\|数字治理]] |
 > |---|---|---|---|
 > | 理论性质 | 制度化的统计度量[[Champ\|场域]] | 认知转化与量化折算机制 | 权力运行与政策调控[[Paradigm\|范式]] |
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **制度化公分母建构** 通过专门的专家委员会与技术承包商网络，人为设定共同测度标准，在异质社会实践间强行打通可[[Commensuration|通约]]刻度。（Desrosières, 1998）
 > - **脱离本土课程的自生数据生产** 不采集各主权国家既有的课程与考试数据，而是独立命题生成标准化跨国原始数据，确保度量体系不受局部情境干扰。
 > - **[[Reliability|信度]]置换效度与[[Ontology|本体论]][[Epoché|悬置]]** 为维持跨国比较尺度的稳定性，系统性优先追求统计信度与跨情境可比性，妥协情境[[Construct Validity|构念效度]]并悬置对教育深层本质的追问。
@@ -162,7 +162,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量并非发现自然实在而是创设制度[[Champ|场域]]的核心论断。
 > - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** [[Nikolas Rose|尼古拉斯·罗斯]]在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
 > - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（Sotiria Grek）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
@@ -189,5 +189,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 分析[[OECD|经合组织]][[PISA]]项目如何通过自建数据确立跨国等值空间，以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]实施远处掌舵。

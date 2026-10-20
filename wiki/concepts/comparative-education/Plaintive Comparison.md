@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Plaintive Comparison
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 诉苦式比较（Plaintive Comparison） | [[Policy Borrowing\|规范性政策借用]] | [[Evidence-Based Education\|循证教育诊断]] |
 > |---|---|---|---|
 > | 分析对象 | 本土立法修辞与推责防御[[Discourse\|话语]] | 外部先进体系的政策与实践模式 | 本土教育产出的实证指标与教学机制 |
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **宏观政治归因[[Externalization|外化]]** 将微观学制失效、课程负荷失衡或教学质量滑坡完全解释为宏观政治制度不成熟或历史动乱的必然代价。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 > - **承认落后的虔诚借口** 通过在立法前言与官方报告中公开自惭形秽并罗列差距，换取免除对具体教育行政失职的专业追责。
 > - **对标外部的道德命令** 将对标欧洲或发达国家[[Discourse|话语]]降格为政客攻击前任政策、推倒重来立法草案的政治工具。
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1970–1990 — 威权终结与对标欧洲[[Discourse|话语]]滥觞** 佛朗哥威权晚期至民主转型初期，西班牙教育立法开始大量使用与欧洲先进国家接轨的修辞，逐步滋生将教育短板归咎于独裁孤立历史的归因惯性。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323–324)]]
 > - **2000–2009 — [[PISA]] 评估冲击与学术定型** 伴随西班牙在 PISA 首轮与后续轮次中成绩稳居[[EU|欧盟]]末位，[[José Luis García Garrido|加西亚·加里多]]正式提炼出“诉苦式比较”概念，批判政治家借历史借口推诿分权与综合学制失职的现象。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 > - **当代延伸 — 全球量化治理中的推责[[Discourse Analysis|话语分析]]** 概念进一步拓展应用于比较教育政策分析，用于透视各国面对跨国量化排位落差时的政治防卫机制。
@@ -142,5 +142,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙民主转型后历次重大教育法案与 [[PISA]] 低迷表现，系统界定诉苦式比较的机制与治理异化后果。

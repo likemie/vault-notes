@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Conscientization
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **破除沉默（Overcoming Silence）** 打破由压迫者与传统灌输教育强加给被压迫者的“[[Culture of Silence\|沉默文化]]” [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
 > - **现实洞察（Awareness of Realities）** 清楚识别个人与社会经验中的不公、不平等与权力干预，看清国家机器背后的阶级[[Pact of Domination|支配同盟]]机制（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 8]]；[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 > - **定向实践（Means to [[Praxis]]）** 作为促成明智实践变革行动的认知与情感中介 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 7–8)]]。

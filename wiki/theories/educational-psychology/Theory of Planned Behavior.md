@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Theory of Planned Behavior
@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 个体在特定情境下有意识做出或抑制某种特定行为的心理决策机制与行动转化路径。
 > - **理论问题** 解释为何单纯的态度认同或动机无法稳定转化为外显行动，揭示态度、社会规范压力与能力控制信念如何协同驱动实践。
 > - **理论类型** 中层行为解释与预测机制模型。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 具有目标导向、需要权衡决策且受专业能力制约的教育与社会行为（如教师循证实践、教育技术采纳、学生学业坚持）。
 > - **谨慎使用** 在完全缺乏自主决定权（高度强制性行政指令）或高度情绪化、直觉性的突发反应情境中应谨慎使用。
 > - **常见误用** 将知觉行为控制等同于客观能力，忽视了主观掌控感可能与实际能力发生偏离。
@@ -148,7 +148,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **1985 — [[Rational Action Theory\|理性行动理论]]的拓展** Icek Ajzen 提出引入知觉行为控制，克服原 TRA 模型无法解释非完全意志控制行为的局限。
 > - **1991 — 计划行为理论经典成型** Ajzen 在 *Organizational Behavior and Human Decision Processes* 发表里程碑论文，系统确立三因子预测框架。
 > - **2005 — 整合背景因素** Ajzen 进一步系统化个人、社会与信息三类背景因素对信念生成的前置调节作用。
@@ -158,5 +158,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将计划行为理论与[[Research Utilization\|研究利用]]模型整合，以意识为背景、态度为意向、技能为知觉行为控制、使用为目标行为，构建 20 题四维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]并实证检验其心理测量学特质。

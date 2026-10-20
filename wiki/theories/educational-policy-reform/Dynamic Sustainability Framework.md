@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Dynamic Sustainability Framework
@@ -62,7 +62,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 循证干预措施在现实学校或社会组织落地后，为何随时间推移常遭遇成效衰退、形骸化或被彻底废弃，以及如何通过自适应调适维持长效机制。
 > - **理论问题** 颠覆传统实施科学将可持续性视为“静态方案维持度”的机械忠实度[[Paradigm\|范式]]，回应干预方案与复杂动态情境脱节的理论困境。
 > - **理论类型** 中层实施科学理论、自适应组织变革模型与动态系统[[Analytic Framework\|分析框架]]。
@@ -158,7 +158,7 @@ updated: 2026-10-20
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!theory-boundary|notitle] 适用边界
 > - **适合解释** 中小学课程教学改革、全校性行为支持干预、区域教育创新项目的长期落地与制度化整合。
 > - **谨慎使用** 涉及不可变更的法律强制底线或硬性安全规程（如实验室生化安全规范、未成年人强制报告制度）。
 > - **不适合解释** 追求极端严格条件控制的实验室心理测量或纯理论概念演绎。
@@ -168,7 +168,7 @@ updated: 2026-10-20
 
 ## 发展脉络
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline|notitle] 发展脉络
 > - **2013–2016 — 框架创立与调适科学深化** Chambers 等人相继发表奠基论文并提出“调适组学”（Adaptome）概念，系统建构干预调适分类学与监测框架，直指传统“电压降”理论盲区。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 > - **2022 — 教育质量使用整合** [[Mark Rickinson]] 等人将 DSF 整合为 [[Quality Use of Research Evidence Framework\|QURE]] 框架的关键构件，确立了“适切调适”作为深思熟虑使用证据的核心评价维度。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 143–144)]]
 
@@ -197,5 +197,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 采纳 DSF 构建 [[Quality Use of Research Evidence Framework\|QURE]] 框架中“深思熟虑参与及适切调适”构件的核心理论基础。

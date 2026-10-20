@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Roy Nash
@@ -81,7 +81,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1944** 出生于英国，先后就读于阿伯丁大学（University of Aberdeen）与爱丁堡大学，接受严谨的社会学与人类学训练。
 > - **1973** 出版开创性著作《课堂中的师生互动》（*Classrooms Observed: The Teacher's Perception and the Pupil's Performance*），被公认为早期微观课堂[[Ethnography|民族志]]与互动论研究的经典。
 > - **1970 年代后期** 移居新西兰加盟梅西大学教育系，开启长达近三十年针对新西兰公立教育体制、毛利教育与阶级不平等的宏微观结合实证研究。
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 将实在论因果机制与[[Pierre Bourdieu|布迪厄]]阶层分析结合，建立“社会阶层—家庭资源—认知发展—[[School Choice|学校选择]]”的四维解释架构，成为南半球教育社会学的代表性[[Analytic Framework|分析框架]]。
 > - **方法路径** 深刻澄清量化统计技术与因果机制解释的本质界限，警示学界防范多重共线性、[[Ecological Fallacy|生态学谬误]]以及将统计关联误当因果规律的技术主义短视。
 > - **公共智识路径** 成为新西兰大学学者履行“[[Critic and Conscience of Society|社会的批评者与良知]]”法定职能的标志性典范，其研究成为反击削减教育公共福利、抵制将结构性不平等转嫁给教师绩效问责的学术基石。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **梅西大学同行伙伴** [[Ivan Snook]]、Richard Harker（长期并肩作战的批判学者，共同构筑了享誉国际的梅西大学[[Critical Pedagogy|批判教育学]]与教育社会学研究阵地）。
 > - **批判学术知音** [[Gerald Grace]]（[[International Education|国际教育]]社会学者，在学术著述中高度推崇纳什直面社会阶级现实的学理勇气，将其奉为社会良知学者的典范）；[[Basil Bernstein]]（理论对话者，在社会结构制约与代码传递上形成深层学理共振）。
 > - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的新自由主义[[School Effectiveness|学校效能]]论提出根本性学理质询）。

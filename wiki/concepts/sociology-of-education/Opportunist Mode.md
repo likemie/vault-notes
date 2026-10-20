@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Opportunist Mode
@@ -189,5 +189,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 揭示名校优势背景大学生如何运用目标掌控与意义搁置的组合策略，实现就业市场工具性收益最大化。

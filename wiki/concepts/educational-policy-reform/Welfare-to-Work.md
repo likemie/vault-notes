@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Welfare-to-Work
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 福利到工作 | 被动社会救济 | 全民基本收入 |
 > |---|---|---|---|
 > | 核心逻辑 | 权利与责任对等、工作激活 | 维持基本生存、收入补偿 | 普惠无条件分配、去商品化 |
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **工作激活要件** 设定强制性求职面谈、个案管理与定期求职进度审核。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 338, 342)]]
 > - **技能匹配与支持服务** 提供职业技能培训、求职技巧辅导与托幼津贴支持。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 339, 343)]]
 > - **留职经济激励** 实施在职税收抵免与留任奖金，提高就业吸引力。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
@@ -115,7 +115,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980s–1990s — 美国州级探索与联邦立法** 威斯康星州等地方探索工作优先改革 (Ralston, 1998)，1996 年美国通过联邦立法设立贫困家庭临时援助（Temporary Assistance for Needy Families, TANF），以工作要求替代无条件救济。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 340–341)]]
 > - **1997 — 英国新工党全面引入新政** 英国新工党执政后设立新政（New Deal）系列方案，系统推行单亲家长与青年失业者激活计划。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 336–338)]]
 > - **2000s 至今 — 全球扩散与留职晋升深化** 政策重点从单纯促进初次就业，拓展到在职技能提升与就业留任支持。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
@@ -139,5 +139,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 分析英国新工党吸收美国福利到工作经验的决策过程，展示循证政策[[Paradigm|范式]]对跨国政策借鉴的双重塑造作用。

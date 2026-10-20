@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cold War University
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 冷战大学（Cold War University） | 传统象牙塔[[Research Universities\|研究型大学]]（Humboldtian University） | [[Entrepreneurial University\|创业型大学]]（Entrepreneurial University） |
 > |---|---|---|---|
 > | **主要经费来源** | 联邦国家安全与国防研发合同及项目拨款 | 国家经常性财政拨款与传统私人捐赠基金 | 产业联合研发资助、专利商业化授权与风险投资 |
@@ -161,7 +161,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1940–1950s — 战后动员与形态奠定** 二战及战后冷战爆发促使美国联邦研发体制从政府专属军工军械库转向依赖外部私营企业与顶尖[[Research Universities|研究型大学]]，斯坦福大学与麻省理工学院率先确立依托国防课题扩张学术规模的模式。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 41)]]
 > - **1960–1980s — 计算机[[Disciplinary Institutionalization|学科建制化]]与网络先导** [[DARPA|国防高级研究计划局]]（DARPA）等机构注资大学建立[[ARPANET|阿帕网]]（ARPANET）节点并推动计算机科学成为独立学术学科，冷战大学成为全美信息技术革命的摇篮。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 36, 39)]]
 > - **1990s至今 — 历史反思与结构转型** 随着冷战落幕与商业民用市场爆发，学界（如 Lowen 与 Leslie 等历史学家）系统提出并深化“冷战大学”反思概念，探讨国防依附度下降后大学向[[Knowledge-Based Economy|知识经济]]、专利商业化及反恐安全转型的结构调整。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 42)]]
@@ -202,6 +202,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 历史制度分析战后五十年美国国防研发投资与采购政策，实证揭示斯坦福与 MIT 等顶尖大学如何依托国防经费构建科研基础设施，在培育计算机学科与[[ARPANET|阿帕网]]节点的同时成为军民双向技术扩散的核心枢纽。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 考证战后美国大学计算机设备采购中联邦资金占比高达 66%，印证战后大学[[Disciplinary Institutionalization|学科建制化]]与信息产业人才供给深受国防与联邦科技政策的制度塑造。

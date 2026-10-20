@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Creativity Assessment
@@ -340,7 +340,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 系统综合 52 项一阶[[Meta-analysis\|元分析]]，确立[[Creativity\|创造力]]测评四大[[Paradigm\|范式]]与二阶效应基准，量化揭示[[Independent Variable\|预测变量]]（$r = 0.29$）与[[Dependent Variable\|结果变量]]（$r = 0.12$）的不对称性，证实过程测量（$r = 0.27$）优于单纯发散测验。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 开展[[Three-Level Meta-Analysis\|三水平元分析]]检验创造力与[[Critical Thinking\|批判性思维]]的测量关联，证实测量类型组合显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$），揭示了 [[Common Method Variance\|CMV]] 膨胀与[[Executive Function\|执行功能]]真实重叠的双重机制。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size\|效应量]]）确立[[Creativity Training\|创造力干预]]总体增益（g = 0.628），并比较不同测量工具与子[[Construct\|构念]]的敏感度。

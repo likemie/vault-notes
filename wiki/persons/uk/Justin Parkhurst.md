@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Justin Parkhurst
@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2000–2005** 于牛津大学获得博士学位（D.Phil.），深入探究发展中国家公共政策制定中的[[Research Utilization\|知识利用]]与卫生系统治理。
 > - **2006–2012** 任职于伦敦卫生与热带医学院（LSHTM），聚焦公共卫生干预评价、证据转化与全球卫生政治研究。
 > - **2012–2017** 加盟伦敦政治经济学院（LSE），主持欧洲研究理事会重大项目 GRIP-Health，跨国系统追踪证据在政策制定中的政治机制，于 2017 年出版奠基作《The Politics of Evidence》。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 开创了循证政策政治学（Politics of [[Evidence-Based Policy-Making|Evidence-Based Policy]]）与证据制度主义新[[Paradigm\|范式]]，打破了传统知识转化（[[Research Translation\|knowledge translation]]）单向线性链条的理论局限。
 > - **方法路径** 推动了针对证据咨询委员会、国家智库机制与政策审议档案的制度性审查方法，发展出系统评价政策证据质量的“程序审计”指标。
 > - **教育研究应用** 其治理思想被 [[Mark Rickinson]] 等学者深度融入教育证据质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]），成为界定教育生态系统使能环境（System Influences）与学校过程性问责的关键理论根基。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
@@ -120,7 +120,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **核心理论构件** [[Good Governance of Evidence]] — 帕克赫斯特创立的核心理论体系。
 > - **理论对话与引申者** [[Mark Rickinson]] 等 — 将其理论拓展至教育[[Research Utilization\|研究使用]]与学校证据生态治理领域。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 > - **制度分析合作者** Benjamin Hawkins — 共同发展证据利用的政策制度主义分析模型。

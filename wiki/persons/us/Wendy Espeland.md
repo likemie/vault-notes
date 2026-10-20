@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Wendy Espeland
@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1988** 获得芝加哥大学社会学博士学位，受芝加哥学派质性社会学与制度分析熏陶，开启组织理性与公共决策定[[Quantitative Research\|量化研究]]。
 > - **1998** 与米切尔·L·史蒂文斯（Mitchell L. Stevens）在《社会学年评》发表奠基论文《作为社会过程的[[Commensuration\|通约化]]》（*Commensuration as a Social Process*），正式确立通约化在比较测量与价值折算中的核心分析地位。
 > - **2007** 与迈克尔·索德（Michael Sauder）在《美国社会学杂志》发表《排名与反应性》（*Rankings and Reactivity*），将社会学目光引向法学院与大学排名对组织制度生态的逆向侵蚀。
@@ -124,7 +124,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 极大地拓展了评价与[[Sociology of Valuation and Evaluation\|评估社会学]]（Sociology of Valuation and Evaluation）和科学知识社会学（SSK），与西奥多·波特（Theodore M. Porter）并列为当代量化社会学（Sociology of Quantification）的奠基学派。
 > - **方法路径** 倡导将定量度量指标本身作为质性社会学与制度[[Ethnography\|民族志]]的研究对象，开创了剖析排名算法、指标编制逻辑与行政填表行为的[[Reflexivity\|反身性]]研究方法。
 > - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织[[Evidence-Based Policy-Making|循证决策]]中的数字修辞。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** Michael Sauder — 长期学术合作伙伴，共同完成关于大学排名的反应性奠基研究与《焦虑的引擎》。
 > - **师承／合作者** Theodore M. Porter — 同为[[Quantitative Research\|量化研究]]领域的思想先驱与对话同道，共享对数字客观性作为政治信任防御机制的洞见。
 > - **机构／运动／项目** Northwestern University — 长期执教并领导社会学与组织研究的重要学术重镇。

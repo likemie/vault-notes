@@ -37,7 +37,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Institutionalising Social Learning
@@ -177,5 +177,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将制度化社会学习作为使命政策解构并驯服重大棘手挑战的关键概念工具，阐明其在三条收敛路径中的作用机制。

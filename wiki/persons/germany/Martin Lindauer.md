@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Martin Lindauer
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1918** 出生于德国巴伐利亚南部的一个拥有 15 个子女的农户家庭，自幼在其父亲的蜂房熏陶下对蜜蜂生态产生浓厚兴趣。
 > - **1939–1942** 二战爆发后在德国陆军服役三年；1942 年在俄罗斯前线负伤后从军队退役并彻底投身科学研究。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 115)]]
 > - **1947–1955** 进入慕尼黑大学动物学研究所，师从[[Karl von Frisch|卡尔·冯·弗里施]]开展博士后与独立研究；1951 年 6 月在慕尼黑植物园对[[Eck Swarm Experiment|埃克蜂群]]展开连续野外观测。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]

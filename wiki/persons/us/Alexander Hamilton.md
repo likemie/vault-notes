@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Alexander Hamilton
@@ -54,7 +54,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1755** 出生于英属西印度群岛尼维斯。
 > - **1776–1783** 参加美国独立战争，任乔治·华盛顿中校副官。
 > - **1787–1788** 参与起草并推动批准美国宪法，主笔《联邦党人文集》（*The Federalist Papers*）。
@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 成为现代发展经济学、战略性贸易政策（Strategic Trade Policy）与后发国家赶超理论的思想始祖；其学说在 1820 年代直接被旅居美国的德意志经济学家[[Friedrich List|李斯特]]所吸收继承。
 > - **政策路径** 奠定了 19 世纪美国长达百年的高关税保护工业体系与“美国制造体系”（American System of Manufactures），并为普鲁士关税同盟和 20 世纪东亚国家产业政策提供了历史范本。
 > - **跨国思想回流** 汉密尔顿思想由李斯特系统化为《政治经济学的国民体系》后，在 19 世纪中后期反向输入回美国、统一后的帝国德国以及明治维新时期的日本，成为全球非英国核心区实现技术超越的共同思想母体。
@@ -104,7 +104,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **思想继承者** [[Friedrich List]] — 李斯特在美期间深受其《制造业报告》启发，将其升华发展为生产力与[[National Innovation System|国家创新系统]]学说。
 > - **政治与理论论敌** 托马斯·杰斐逊（Thomas Jefferson） — 杰斐逊主张自耕农农业共和国，汉密尔顿力主发展现代化商业与重工业国家体系。
 > - **理论批判对象** 亚当·斯密（Adam Smith） — 汉密尔顿《制造业报告》直接针对《国富论》的绝对自由放任论调，力辩后发国家产业保护的合法性。

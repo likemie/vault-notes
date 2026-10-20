@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Diversity, Equity, and Inclusion
@@ -72,7 +72,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 多元、平等与包容（DEI 框架） | 纯粹学术功绩制（Pure Scientific Meritocracy） | 平权法案政策（Affirmative Action） |
 > |---|---|---|---|
 > | **核心价值导向** | 纠正结构性不平等，追求群体代表性与文化包容 | 追求科学技术卓越，以客观学术成果为唯一标尺 | 通过政策配额或加分补偿特定历史受损群体 |
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **多元性（Diversity）** 强调学术共同体在性别、族裔与背景维度的代表性与均衡分布。
 > - **平等性（Equity）** 主张根据群体起始差异提供非对称性资助与支持通道，消除制度性障碍。
 > - **包容性（Inclusion）** 强调在实验室与院系内部建立非歧视、支持性与多元参与的组织氛围。
@@ -125,7 +125,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1960–1970s — 民权运动与平权行动起源** 美国民权法案推动高校与公共机构设立平权措施保障少数群体受教育权。
 > - **2010s — DEI 治理体系在高等教育普及** 多元、平等与包容被体系化为高校行政设置、师资招聘要求与学生事务核心。
 > - **2021–2024 — 联邦科研资助机制深度整合 DEI** [[National Science Foundation|NSF]] 相关资助份额激增至 25% 以上，[[National Aeronautics and Space Administration|NASA]] 等机构强制推行包容性计划评审。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
@@ -154,5 +154,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 批判性审视 DEI 框架在联邦科学资助与同行评议中的过度行政化嵌入对科学探索能力的潜在冲击。

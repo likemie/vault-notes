@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Evidence-Informed Decision-Making
@@ -173,7 +173,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 证据为本决策（Evidence-Based Policymaking）的兴起** 受循证医学启发，英国布莱尔政府提出“什么有效即是真理”，开启了追求高等级实证证据指导政策的时代。
 > - **2000s — 从 Evidence-Based 向 Evidence-Informed 的现实转向** 政策学者意识到政治博弈、价值冲突与行政情境的制约，“证据知情”（Evidence-Informed）取代“证据为本”，承认证据是决策审议的多元输入之一而非唯一决定者。
 > - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 [[COM-B Model\|COM-B]] 中介心理[[Construct\|构念]]的 EIDM 分析模型。
@@ -195,6 +195,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation\|知识动员]]供给侧偏误的理论突破。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

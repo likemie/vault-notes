@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Beijing Consensus
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **强政府战略统领** 国家最高领导意志与中央部委顶层设计统辖跨国教育整体议程，将[[Internationalization of Higher Education|高等教育国际化]]内嵌于国家对外开放总格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
 > - **全额国家财政补贴** 设立专项中国政府奖学金，以全额学费免除与高额生活津贴直接调动沿线发展中国家青年学者与留学生跨国流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 685)]]
 > - **产教协同与标准输出** 职业教育与战略工程深度捆绑，通过设立海外[[Luban Workshop|鲁班工坊]]与工程实训基地，直接向沿线重大基建输出中国专业技术标准。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **2004 — 概念正式提出** 雷默（Joshua Cooper Ramo, 2004）发表研究报告《北京共识》，概括中国创新驱动、非均质发展与国家主权防卫的发展经验，将其视为对抗[[Washington Consensus|华盛顿共识]]的新[[Paradigm|范式]]。
 > - **2010 — 威权市场主义模式定性** 斯蒂芬·哈尔珀（Stefan Halper, 2010）出版专论，分析北京共识以经济高增长与社会稳定置换政治多元的威权市场模式，指出其对寻求摆脱西方霸权的发展中国家具有强大感召力。
 > - **2013–至今 — 全球战略倡议与[[Education Going Global|高教出海]]实践** 随着[[Belt and Road Initiative|一带一路倡议]]的提出，[[China Solution|中国方案]]与中国经验从被动发展概括演进为主动的对外制度化供给；吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其引入教育政策社会学，全面解构中国高教出海中北京共识的文本框架、[[Discourse|话语实践]]与[[Geopolitics|地缘政治]]意图。
@@ -180,5 +180,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用批判政策[[Discourse Analysis|话语分析]]系统对比[[Washington Consensus|华盛顿共识]]与北京共识在高等教育跨国治理中的理念分歧与[[Discourse|话语]]建构，解构中国[[Education Going Global|高教出海]]的意识形态与[[Geopolitics|地缘政治]]动因。

@@ -34,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 ## 简介
 
@@ -43,12 +43,12 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note-] 生平与职涯
+> [!note-|notitle] 生平与职涯
 > （待补充）
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [!abstract|notitle] 主要著作
 > - Benner, D. (2018). [[Allgemeine Pädagogik]] und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen. *Człowiek – Niepełnosprawność – Społeczeństwo*, 4(42). — 提出修正版教学三角模型
 > - Benner, D. (2017). [[John Dewey]], a Modern Thinker: On Education (as [[Bildung]] and Erziehung) and Democracy (as a Political System and a Mode of Associated Living). In L. Waks & A. English (eds.), *John Dewey's Democracy and Education: A Centennial Handbook*. Cambridge University Press. — 阐述 Bildung and Erziehung 的区分
 
@@ -74,6 +74,6 @@ updated: 2026-10-16
 
 ## 主要贡献
 
-> [!success] 主要贡献
+> [!success|notitle] 主要贡献
 > - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的[[Democratic Education\|民主教育]]思想进行对话
 > - 修正版教学三角 — 为理解[[Evidence-Based Education\|证据本位教育]]改革提供了理论框架，[[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]]）

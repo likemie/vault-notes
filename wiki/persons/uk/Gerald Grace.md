@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: completed
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Gerald Grace
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1934** 出生于英国。
 > - **1970–1980 年代** 任教于伦敦大学国王学院等机构，深入探索城市教育、教师文化与意识形态控制，出版《教师、意识形态与控制》（1978）与《教育与城市》（1984）。
 > - **1988** 出任新西兰惠灵顿维多利亚大学教育学系主任；在应对新西兰后义务教育与培训审查委员会咨询时，起草大学本质特征清单并创议将“承担[[Critic and Conscience of Society|社会的批评者与良知]]角色”确立为大学的核心维度。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 倡导批判性政策奖学金（Policy Scholarship），打破传统教育管理学过分偏向[[Technical Rationality|技术理性]]与效率指标的局限，为理解教育领导、道德伦理与公共使命提供理论框架。
 > - **法制与政策路径** 首创并将“[[Critic and Conscience of Society|社会的批评者与良知]]”写入新西兰成文法，成为全球[[Higher Education Act of 1965|高等教育法]]制中以成文法条确立大学防范国家干预、履行公共真理核查职能的典范案例。
 > - **学术批判路径** 在 2010 年新西兰大论战中树立规范标尺，指明去语境化的循证教学论在政治经济学层面的保守后果，推动学界反思实证[[Quantitative Research|量化研究]]与社会结构正义的深层关联。
@@ -119,7 +119,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **学术共鸣与思想典范** [[Basil Bernstein]]（援引其 1970 年“学校无法弥补社会”论断作为社会良知学者的典范）；[[Roy Nash]]（援引其新西兰社会阶级现实主义研究，强调非学校因素对学业分化的深层支配）；John Henry Newman（继承《大学的理念》中的智识自主与大学古典自治传统）。
 > - **论辩交锋对象** [[John Hattie]]（2010 年在 NZJES 展开直接论辩，批判其混淆技术批评与社会良知、排除非学校背景变量）。
 > - **政策咨询合作者** Gary Hawke（1988 年文学院院长与后义务教育审查委员会主席，在其咨询下格雷斯提出良知条款并最终载入霍克报告）。

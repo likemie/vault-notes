@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # United Kingdom Metascience Unit
@@ -142,5 +142,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统推介英国[[Metascience|元科学]]单元（UK Metascience Unit）在 2024 年启动的分布式同行评议、部分[[Random Assignment|随机化]]抽签资助与评审一致性检验，将其确立为联邦科学资助去官僚化与开展循证制度改革的标杆典范。

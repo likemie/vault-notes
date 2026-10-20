@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Approaches to Teaching and Learning
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的基础。
 > - **连贯性支撑** 教师通过在课堂上协同规划和应用 ATL，能够显著支持核心课程的连贯性，帮助学生理解跨学科的内在联系 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 221)]]。
 > - **与培养目标的联动** ATL 技能（如“思考”）直接服务于 IB [[IB Learner Profile\|学习者培养目标]]（如“思考者”），二者在日常教学中相辅相成。
@@ -91,5 +91,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 将 ATL 视作促进 [[IB Diploma Programme\|IBDP]] 核心课程内连贯性和[[Concurrency of Learning\|并发学习]]的重要实施工具，指出其在跨组件融合中的纽带作用。

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Cultural Nationalism vs. Political Nationalism
@@ -89,7 +89,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **文化传统传承与健全人格陶冶（Cultural Heritage & [[Bildung]]）** 文化民族主义以民族文学、艺术、语言与哲学传统为精神养分，旨在促进个体的全面自由发展与道德完善。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 49)]]
 > - **意识形态垄断与极权政治动员（Ideological [[Hegemony]] & Mobilisation）** 政治民族主义确立“观念的专政或个人权力的专政”，将学校沦为推行政权教条、排斥异己言论与[[Academic Freedom\|学术自由]]的单向传声筒。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49, 引自 Kazamias, 2009b)]]
 > - **国际理解的有机文化基石（Organic Substratum for Internationalism）** 真正的跨国理解并非空中楼阁，唯有深入体认本民族精神传统的深层意涵，方能以平视和鉴赏的眼光理解他国教育理想的合理性。(Kandel, 1933: xxv)
@@ -152,7 +152,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **19 世纪末至 20 世纪初 — 浪漫主义文化自觉向侵略性帝国沙文主义蜕变** [[David Held|赫尔德]]尔（Herder）早期倡导的语言文化认同逐渐被第一次世界大战前列强争霸的帝国政治民族主义所绑架，引发全球文明危机。
 > - **1930 年代 — [[Isaac Kandel\|坎德尔]]奠定二元类型学与极权主义批判** 坎德尔在 1933 年《比较教育》与 1934 年《纳粹的塑造》中系统确立文化民族主义与政治民族主义的对立范畴，为民主国家在极权围剿中提供防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 2009: 48–49, 引自 Kazamias, 2009b)]]
 > - **战后初期 — [[UNESCO\|联合国教科文组织]]（UNESCO）与国际理解教育实践** 二战结束后，坎德尔与汉斯作为国际机构顾问，将文化民族主义与国际主义的辩证逻辑转化为联合国教科文组织推动战后精神重建与多元文化教育的行动纲领。
@@ -181,5 +181,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理[[Isaac Kandel\|坎德尔]]在 1930 年代对抗法西斯极权动员时提出文化民族主义与政治民族主义二元区分的思想脉络及其历史[[Educational Meliorism\|改良主义]]追求。

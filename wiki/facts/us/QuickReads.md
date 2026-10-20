@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # QuickReads
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Quick Reads 评定为初等阅读 Tier 2 助教小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过 QuickReads 等微型高频工具充实 Tier 2 流畅度小组干预。
 > - [[Sound Partners]] — 同属助教实施的早期阅读强证据方案，二者形成“K–1 音素拼读”向“2–3 流畅度概念复读”的进阶衔接。

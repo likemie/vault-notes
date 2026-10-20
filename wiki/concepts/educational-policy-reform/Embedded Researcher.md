@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Embedded Researcher
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!timeline] 概念演变
+> [!timeline|notitle] 概念演变
 > - **2010 — 荷兰中小学教师博士资助计划启动** 荷兰科学研究组织（NWO）设立专项计划，首创以国家财政资助代课教师开销保障一线教师科研工时的机制，开启了基础教育一线嵌入式研究能力的制度化培育。
 > - **2013 — 挪威设立公共部门博士培养计划（[[Public Sector PhD Scheme\|OFFPHD]]）** 挪威研究理事会面向公共部门常任雇员设立定向博士计划，探索中央行政中枢内部研究人员的内生孵化。
 > - **2021 — 斯洛文尼亚教育部设立专职质量与分析处** 在国家教育部发展与质量司常设兼具公务员与研究员背景的专职分析中介团队，确立了部属战略情报与嵌入式中介典范。
@@ -221,6 +221,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid|notitle] 相关研究索引
 > - **[[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]** 跨国实证测度 37 个教育系统中嵌入式研究者等专业角色的设立分布与供求矛盾，奠定其在教育治理研究中的实证基石。
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 在 [[OECD]] 五维系统[[Analytic Framework\|分析框架]]中将技能、能力与中介角色界定为支撑证据生态可持续运转的关键支柱。

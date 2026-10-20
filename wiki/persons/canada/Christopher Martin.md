@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Christopher Martin
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **2010 年代初** 获英国伦敦大学教育学院（IOE）教育哲学博士学位，受政治哲学与自由主义教育理论深度熏陶。
 > - **2018 年** 在《Democracy & Education》发表重磅论文《Should Deliberative Democratic Inclusion Be Extended to Children?》，首次正式界定“[[Formative Epistemic Injustice|成长性认识不正义]]”，指出传统[[Epistemic Injustice|认识不正义]]理论忽视了未成年人学习者的交往权利发展。
 > - **2022 年** 由牛津大学出版社出版专著《The Right to Higher Education: A Political Theory》，系统建构从基本教育权到高等教育自主权利的政治哲学框架。
@@ -93,7 +93,7 @@ updated: 2026-10-16
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 马丁对[[Formative Epistemic Injustice|成长性认识不正义]]的初创，打破了[[Miranda Fricker|米兰达·弗里克]]（Miranda Fricker）关于[[Epistemic Injustice|认识不正义]]仅适用于成人之间证词信任交换的传统框架，直接启发了 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）建立涵盖[[Epistemic Malformation|认知畸变]]（Malformation）的全面教育不正义体系，并为斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中批判[[Generative Artificial Intelligence|生成式人工智能]]对学生读写核心心智实践的剥夺提供了奠基性的理论源头。
 
 ---

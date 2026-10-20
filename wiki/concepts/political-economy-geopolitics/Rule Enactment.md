@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Rule Enactment
@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **规则的固有不完备性（Rule Incompleteness）** 任何成文法都无法预见未来所有复杂的现实情境，立法意图与具体适用之间永远需要中介解释，使规则意义处于开放状态。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 14)]]
 > - **设计者的认知局限与意外后果（Cognitive Limits）** 制度设计者无法掌握全面信息，善意的规则推行常诱发反常的非预期结果，迫使体制在事后修补中偏离原轨。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
 > - **策略性漏洞探测与边界试探（Strategic Loophole Probing）** 未完全社会化的自利行动者（如雇主与税务律师）持续利用规则缝隙寻找合规避险方案，一旦新做法扩散便会倒逼制度实质质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 15)]]
@@ -142,7 +142,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1974 — 工业组织中的权威与规则解释** 莱因哈德·本迪克斯（Reinhard Bendix）系统论述工业组织中的规则解释问题，指出管理规则的推行本质上依赖于劳资双方共享的隐性理解。
 > - **2005 — 渐进变迁理论中的践行形态学奠基** [[Wolfgang Streeck|施特雷克]]与希伦正式提出将规则践行与规则设计作为两相对立维度的分析模型，系统归纳四重致偏机制。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
 > - **2009 — [[Rule Ambiguity|规则模糊性]]与执法裁量权模型化** [[James Mahoney|詹姆斯·马奥尼]]与[[Kathleen Thelen|凯瑟琳·希伦]]在《解释制度变迁》中继承该思路，将践行脱节形式化建构为[[Rule Ambiguity|规则模糊性]]与执法裁量权的双维分析工具。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
@@ -166,6 +166,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 正式形式化界定规则践行概念，系统提出导致设计与践行脱节的四重动力机制（pp. 13–16）。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 继承规则践行中的缝隙假设，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。

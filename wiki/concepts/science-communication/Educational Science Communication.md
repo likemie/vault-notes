@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Educational Science Communication
@@ -221,5 +221,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 奠定教育科学传播作为应对教师证据疏离与[[Neuromyth|神经神话]]泛滥的系统性行动框架。

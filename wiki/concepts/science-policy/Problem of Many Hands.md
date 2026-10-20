@@ -41,7 +41,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Problem of Many Hands
@@ -207,6 +207,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将多手难题作为解构重大社会挑战系统复杂性的核心概念，解释跨部门、跨层级政策协调失灵的微观机制。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 将多手难题与[[Historical Institutionalism|历史制度主义]]中的[[Institutional Layering|制度层叠]]（行动者增厚）传统相连接，揭示纵向与横向图层重叠导致责任模糊与管辖权冲突的演化逻辑。

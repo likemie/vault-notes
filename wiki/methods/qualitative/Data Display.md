@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Data Display
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1984 — 空间矩阵分析工具的创制** Miles & Huberman 在第一版《质性数据分析》中系统设计了数十种矩阵与网络图板模，倡导用空间展示替代传统单纯依赖连续长文本叙述的质性写作[[Paradigm\|范式]]。
 > - **1994 — 规范化数据展示体系的成熟** Miles & Huberman 拓展了展示工具库，区分了描述性矩阵、解释性矩阵、时间有序网络与因果网络，奠定了现代质性数据展示的经典基准。
 > - **2011 — 教育实证与评注框架的深化** Cohen、Manion & Morrison 在《Research Methods in Education》中以教育研究第一手材料系统展示了表格化矩阵的应用范例，并明确提出了“表格基底 + 实质/总体双重评注 + 关键信息摘要”的三重展示规范。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
@@ -176,7 +176,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011, Ch. 29)]] — 以澳门小学英语教学案例系统展示表格矩阵、双重评注系统（实质性与总体性评注）与跨场所分析矩阵的协同运作机制，论证数据展示如何支撑推论得出。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在中西方学习信念研究中，运用大量系统性数据展示呈现两种文化原型的核心差异，为文化学习模型的实证建构提供直观证据支撑。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 探讨如何通过空间化展示工具（如[[Joint Display\|联合展示]] Joint Display）并排呈现多元数据形态，以突破单一数据维度的认知局限并生成高阶[[Metainferences\|元推论]]。

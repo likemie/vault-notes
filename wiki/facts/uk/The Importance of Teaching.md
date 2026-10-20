@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # The Importance of Teaching
@@ -128,7 +128,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **全系统治理[[Paradigm\|范式]]彻底重塑** 白皮书成功推动了英格兰基础教育体系由科层从属转向横向[[Network Governance\|网络化治理]]，[[Teaching Schools\|教学学校联盟]]与学院链成为学校专业发展的常态化中枢。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]
 > - **合法化修辞演进与[[Evidence Era\|证据时代]][[Rationalized Myth\|合理化神话]]** 白皮书通过在文本形式上系统模仿学术论文引文规范，将证据建构为主导性的合理化神话；然而由于缺乏[[Epistemology\|认识论]]审查并深陷适宜性逻辑，该政策并未促成完全客观的科学决策，反而在后续执行中滑向[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–94)]]
 > - **从研究中学习准则落地断裂** 基线实证调查显示，虽然教师对研究信息持高度积极态度（76% 认同其重要作用，86% 认为在课堂有用），但在将研究制度化为正式评价（67%）、分享论坛（61%）与底层假设审视（55%）方面严重滞后，白皮书倡导的循证自愈愿景缺乏稳固的校本组织支撑。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–132)]]

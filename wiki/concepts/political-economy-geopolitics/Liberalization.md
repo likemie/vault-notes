@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Liberalization
@@ -95,7 +95,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **有组织资本主义的去组织化（Disorganization）** 二战后建立的国家干预、集中集体谈判与福利[[Neocorporatism|法团主义]]结构遭到系统性侵蚀，资本重新挣脱有益约束。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 4)]]
 > - **经济与社会风险的个体化转移（Privatization of Risk）** 福利保障责任由国家与雇主转移至个体雇员与家庭，集体风险分担机制走向萎缩。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 16–17)]]
 > - **波兰尼双重运动的非对称性（Asymmetric Double Movement）** 批判功能主义乐观派认为市场扩张必然自发迎来社会保护再平衡的幻想，指出当代自由化对社会肌体的侵蚀远快于反向保护制度的发明。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及斯科特·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
 > - **1990年代 — [[Washington Consensus|华盛顿共识]]与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
 > - **2003 — [[Pierre Bourdieu|布迪厄]]批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
@@ -199,6 +199,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。

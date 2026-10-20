@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Developmental Network State
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 理论定位
 
-> [!theory-position] 理论定位
+> [!theory-position|notitle] 理论定位
 > - **解释对象** 解释当代发达经济体（特别是美国）如何在维持自由市场[[Discourse|话语]]与反国家干预修辞的同时，依托分散化公共科研机构网络实质性主导前沿科技突破、跨越概念验证“[[Valley of Death|死亡之谷]]”并重构[[National Innovation System|国家创新系统]]。
 > - **理论问题** 破解传统政治经济学在“新自由主义放任规制国家（Regulatory State）”与“东亚自上而下科层发展型国家（Developmental Bureaucratic State, DBS）”之间的二[[Metacognition|元认知]]困境。
 > - **理论类型** 中观与宏观国家政治经济学理论、国家[[Systems of Innovation|创新系统]][[Analytic Framework|分析框架]]。
@@ -231,7 +231,7 @@ updated: 2026-10-20
 
 ## 局限性与适用边界
 
-> [!theory-boundary] 局限性与适用边界
+> [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 发达后工业经济体中由多部门公共科研机构、顶尖大学、风投资本与高科技中小企业构成的去中心化[[Systems of Innovation|创新系统]]；特别是处在[[Pasteur's Quadrant|巴斯德象限]]的应用引发型前沿突破。
 > - **成立条件** 需要具备充沛的基础研究经费、具有高度自主权的专业技术代理人、活跃的技术衍生企业生态以及成熟的产学研合同法律框架。
 > - **解释不足** 经典理论对隐形国家形态下的民主合法性赤字、军工复合体游说以及劳工技能断裂提出了批判，但原理论并未提供如何使隐形网络平稳过渡为“阳光化民主社会伙伴模型”的具体政治制度实施路径。
@@ -264,7 +264,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 提出“隐藏的发展型国家”命题，系统梳理美国战后联邦科研网络对高科技产业的结构性塑造与五大制度弊端。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以 [[DARPA]] 微系统技术办公室 16 年半导体研发为案例，系统奠定[[Embedded Network Governance|嵌入型网络治理]]作为发展型网络国家微观核心机制的理论基石。
 > - Ansell (2000) — 探讨网络化政体（Networked Polity）中公共部门从等级控制向网络催化与协同治理的[[Paradigm|范式]]转型。

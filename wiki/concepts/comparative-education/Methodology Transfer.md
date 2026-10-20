@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Methodology Transfer
@@ -71,7 +71,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 方法论转移 | [[Hard Policy Transfer\|硬政策转移]] | [[Soft Policy Transfer\|软政策转移]] |
 > |---|---|---|---|
 > | 分析对象 | 科学评估规程、实验设计与数据模型 | 政策法规文本、行政组织架构与具体管理工具 | 规范理念、价值修辞、施政[[Discourse\|话语]]与概念[[Paradigm\|范式]] |
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Causality|因果推断]]技术规程** 确立[[Random Assignment|随机分配]]（Random Assignment）或[[Quasi-Experimental Designs|准实验设计]]作为干预成效的判定标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **专业评估机构载体** 跨国委托具备成熟实验实施经验的独立评估智库负责方案设计与质控。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **循证制度生态契合** 输入国行政体系具备对经验证据的刚性问责要求与先行试点机制。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
@@ -126,7 +126,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990s — 政策转移客体拓展** 传统[[Policy Borrowing|政策借用]]理论 (Dolowitz & Marsh, 1996, 2000; Stone, 1999, 2004) 逐步从法律与制度条文扩展到行政技术与评估工具的跨国转移探讨。
 > - **2000s — 英国引入美国社会实验方法** 英国就业与养老金部成套引进美国[[Randomised Controlled Trials|随机对照实验]]规程，确立跨国方法论转移的典型实践。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]
 > - **2010s — 欧洲大陆的二次扩散** 荷兰、德国、丹麦和瑞士等国逐步借鉴英美[[Evidence-Based Policy-Making|循证政策制定]]与评估方法学模式 (Frey & Ledermann, 2010)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
@@ -150,5 +150,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 通过英国新工党吸纳美国社会实验与专业评估机构的经验，论证了[[Output-Oriented Governance|循证治理]]下方法论转移作为独立制度载体的存在形态。

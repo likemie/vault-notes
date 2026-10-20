@@ -41,7 +41,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **YYYY** 出生、教育经历、关键任职、重要活动或公共介入。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–YYYY** 思想转向、机构角色、政策参与或学术网络变化。
 > - **YYYY** 逝世或后续影响节点（如适用）。
@@ -96,7 +96,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 此人如何影响后续理论、学派或概念传统。
 > - **方法路径** 此人如何影响研究设计、证据标准、测量或分析工具。
 > - **政策路径** 此人如何进入政策文本、标准、组织、改革或公共话语。
@@ -125,7 +125,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** [[Person]] — 关系说明。
 > - **学生／继承者** [[Person]] — 关系说明。
 > - **批评者／论敌** [[Person]] — 关系说明。

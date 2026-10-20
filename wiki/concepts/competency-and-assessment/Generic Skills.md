@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Generic Skills
@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **分析与批判推理** 评估多源论据的客观性、识别未陈述的前置假设、辨析论证逻辑谬误并推导出严谨结论的心智技能。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 22)]]
 > - **劣构真实[[Problem Solving|问题解决]]** 面对信息不完整、存在利益冲突或未定义明确路径的复杂现实情境，提取关键事实并拟定可行方案的决策能力。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 200)]]
 > - **跨情境沟通表达** 将分析研判与政策建议以结构清晰、逻辑严密的书面语言向专业或非专业受众传达的综合表意素养。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1990 年代 — [[Knowledge-Based Economy|知识经济]]转型与可转移技能倡导**
 >   - 伴随全球知识经济成形与劳动力市场流动加剧，雇主团体与政策制定者开始批评传统高校毕业生专业狭窄，倡导发展能够适应技术变革的可迁移技能（Transferable Skills）与核心能力。
 > - **2000 年代初 — 表现性评估的[[Operationalization|操作化]]突破**
@@ -181,6 +181,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 深度解构 [[OECD AHELO Project|AHELO]] 项目中通用技能模块的研制困境，揭示[[Hard Policy Transfer|硬政策转移]]导致的文化水土不服与超国家[[Space of Equivalence|等值空间]]建构。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评析[[OECD|经合组织]]国家高等教育中以[[Critical Thinking|批判性思维]]为核心的通用[[Higher-Order Thinking Skills|高阶思维]]评价工具谱系，揭示大规模通用统考的动机危机与校本嵌入转向。

@@ -126,7 +126,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **YYYY — 起源阶段** 提出关键问题、概念或理论命题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–YYYY — 扩展阶段** 概念内涵或适用范围发生重要变化，或被引入新领域。
 > - **YYYY — 教育研究应用** 说明该概念如何进入教育研究或政策讨论。

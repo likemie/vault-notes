@@ -104,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # DARPA
@@ -226,7 +226,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 将 DARPA 作为美国[[Developmental Network State|发展型网络国家]]的枢纽，剖析 [[MOSIS]] 与 [[Sematech]] 托底早期技术开发的机制。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐释 DARPA 作为探索型去中心化公共网络在颠覆性技术突破与[[Market Shaping and Creating|市场塑造]]中的引领机制。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析联邦国防部与 DARPA 资助对美国微电子、软件架构与计算产业历史形成的结构性贡献与规制边界。

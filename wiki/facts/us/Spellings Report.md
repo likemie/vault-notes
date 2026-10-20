@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-21
 ---
 
 # Spellings Report
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 影响与后果
 
-> [!finding-cards] 影响与后果
+> [!finding-cards|notitle] 影响与后果
 > - **政策影响** 引发了全美乃至全球高等教育界长达十余年围绕“[[Learning Gain\|学习增益]]（Learning Gain）”与“通用能力标准化测评”的大论战。
 > - **实践影响** 推动了大学学习评估（[[Collegiate Learning Assessment\|CLA]] / CLA+）、[[Collegiate Assessment of Academic Proficiency\|CAAP]] 与 [[ETS Proficiency Profile\|MAPP]] / EPP 在全美数百所高校的大规模应用试验。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 > - **知识影响** 深刻揭示了自上而下标准化问责制在低利害环境下的方法学生态困境，间接加速了校本[[Authentic Assessment\|真实性评价]]量规（如 VALUE）的兴起。

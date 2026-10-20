@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Moyano Law of 1857
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 效果与评价
 
-> [!finding-cards] 效果与评价
+> [!finding-cards|notitle] 效果与评价
 > - **确立现代国家教育架构** 首次以法律形式整合了从蒙学、初小、高小到中学与大学的连贯阶梯，奠定了西班牙教育法制的基石。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
 > - **固化阶层双轨制与精英分流** 初级教育与学术中等教育严重脱节，普通百姓止步于 9 岁前的低水平识字教学，中等学校与大学成为少数上层精英的专属领地。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **制度停滞与延宕[[Path Dependence|路径依赖]]** 该法缺乏根据工业化进程动态调整的自我更新机制，保守维系逾一个世纪，使西班牙教育深陷落后于西欧现代化的被动局面。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Concurrency of Learning
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **同步性（Simultaneity）** 学生在同一时间段内接触并学习多种不同领域的学科内容，而非在一门课结束后再开启另一门。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 218)]]
 > - **互联性（Interconnectedness）** 课程之间存在内在的主题或技能链接。例如运用在某一模块中学到的反思与[[Critical Thinking\|批判性思维]]，来指导另一门课的研究或实践行动。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 219)]]
 > - **[[Reflexivity\|反思性]]整合（Reflective Integration）** 学习者通过反思将[[Theoretical Knowledge\|理论知识]]、伦理探讨与实践经验结合，超越孤立的学科界限形成统一的理解。在 DP 中，这主要通过三大核心组件的互动来完成 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]。
@@ -92,5 +92,5 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨了在 [[IB Diploma Programme\|IBDP]] 核心课程中实施并发学习（Concurrency of Learning）的策略与挑战，指出由于时间限制与国家课程双轨压力，并发学习的理念认同难以转化为日常的连贯教学实践。

@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Progressive Education
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 进步主义教育（Progressive Education） | 传统服从式讲授法（Traditional Gymnasium Style） | [[Learner-Centred Education\|以学生为中心教育（LCE）]] | [[Direct Instruction\|直接教学]]法 / 认知负荷取向（Direct Instruction） |
 > |---|---|---|---|---|
 > | **分析重点** | 以[[Experiential Learning\|经验学习]]与民主育人为核心的社会教育运动 | 以教师权威、纪律服从与文本背诵为核心的旧式体系 | 强调学生认知参与、自主探究与对话互动的教学[[Paradigm\|范式]] | 基于人类认知架构、强调清晰讲解与引导练习的教学法 |
@@ -106,7 +106,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **项目与活动课程** 以项目和活动课程（project- and activity-based curriculum）取代传统的[[Rote Learning\|死记硬背]]与机械讲授。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]
 > - **从经验中学习** 强调知识不是被单向灌输的，而是在儿童与环境相互作用的真实经验活动中主动建构的。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
 > - **儿童中心与发展导向** 教育体系以儿童的自然发展需求、兴趣与心理准备为中心，而非以僵化的学科分类或教师权威为中心。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 102–103)]]
@@ -178,7 +178,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
+> [!dev-timeline|notitle] 概念演变
 > - **1762 — 思想源头** [[Jean-Jacques Rousseau\|卢梭]]出版《爱弥儿》，提出自然主义教育与尊重儿童自然的理念，为欧洲和美洲的进步教育奠定哲学萌芽。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 34)]]
 > - **1899–1916 — 经典美式纲领确立** [[John Dewey\|杜威]]先后出版《学校与社会》与《民主与教育》，确立以[[Experiential Learning\|经验学习]]、项目活动与民主公民培养为核心的进步教育纲领。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]
 > - **1910s–1930s — 跨国传播与分支分化** 苏俄 Shatskii 建立大规模农村进步教育实验；中国[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]引进杜威思想；而后苏联在 1930 年代因阶级意识分歧转向全面拒绝杜威。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 103–104)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 75)]]
@@ -229,7 +229,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] — 通过 Dewey 1928 年访问苏联及与 Shatskii 的接触，对比美式民主进步教育与苏俄社会主义进步教育实验的共鸣与裂隙。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 以[[John Dewey\|杜威]]在中国 100 年的四次[[Recontextualization\|再脉络化]]为例，阐述进步教育思想在跨国转移中被本土意识形态议程选择性挪用与重写的机制。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心/进步教育探究法被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。

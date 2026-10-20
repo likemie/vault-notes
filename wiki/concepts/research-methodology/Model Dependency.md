@@ -65,7 +65,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Model Dependency
@@ -108,7 +108,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **[[Covariate Adjustment\|协变量调整]]设定（Covariate Adjustment）** 模型是否纳入基线[[Pre-test and Post-test\|前测]]考分或受试者背景特征作为控制[[Variable\|变量]]。纳入高预测力前测可大幅吸收残差方差、提高估计精度，但若基线存在不平衡则可能扭曲估计斜率。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **集群结构校正（Clustering Architecture）** 数据嵌套于班级或学校时，是否引入[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）校正。忽略层级嵌套的 [[Ordinary Least Squares\|OLS]] 模型会严重低估[[Standard Error\|标准误]]，导致虚假的[[Statistical Significance\|统计显著性]]；而多层模型（[[Hierarchical Linear Model\|MLM]]/HLM）或[[Generalized Estimating Equations\|广义估计方程]]（GEE）则会拉宽[[Confidence Interval\|置信区间]]。
 > - **效应结构假定（Fixed vs [[Random-Effects Model|Random Effects]]）** 究竟将群聚单元视为[[Fixed-Effect Model|固定效应]]（仅推论至参试学校）还是随机截距/随机斜率（推论至总体分布），直接决定了误差方差的分解方式。
@@ -212,6 +212,6 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录杜伦大学用 NPD 数据复算 17 项试验、揭示模型依赖性的过程，及其如何催生《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（2018）。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 从二阶[[Meta-meta-analysis\|元综合]]的方法学高度，反思原始研究在模型假定上的[[Heterogeneity\|异质性]]如何加剧跨干预比较的偏差风险。

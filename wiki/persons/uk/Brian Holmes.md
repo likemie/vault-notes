@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Brian Holmes
@@ -123,7 +123,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1920** **约克郡出身与物理学实证科学底色** 出生于英格兰约克郡威格顿（Wigton），中学就读于贵格会名校威格顿朋友中学（Friends' School, Wigton）；后考入伦敦大学学院（University College London, UCL）攻读物理学，1941 年获理学学士（B.Sc.）学位。这门现代自然科学训练为其日后建构假说-演绎模型、寻求因果普遍法则奠定了[[Positivism|实证主义]]与科学哲学底色。
 > - **1941–1946** **二战期间皇家空军技术军官与雷达气象经历** 二战爆发后应征入伍，在英国皇家空军（Royal Air Force, RAF）担任雷达与气象技术军官。战时在极端不确定环境中依靠数理模型与数据观测预测空中战局与天气演进的实战历练，塑造了他后来坚信“科学理解的唯一试金石在于成功预测未来而非事后解释过去”的[[Epistemic Stances|认识论立场]]。
 > - **1946–1951** **战后中学物理教学与伦敦教育学院转型** 退役后在英格兰公立完全中学担任物理学科主任；1951 年考入伦敦大学教育学院攻读教育学研究生文凭，深受约瑟夫·劳威斯（[[Joseph Lauwerys|Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（London School of Economics and Political Science, LSE）系统研修科学哲学，深受波普尔批判理性主义哲学（[[Falsification|证伪主义]]与反归纳主义）的强烈震撼。
@@ -208,7 +208,7 @@ updated: 2026-10-20
 
 ## 影响路径
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 创立[[Critical Dualism|批判二元论]]与情境[[Problem Solving|问题解决]]模式，与芝加哥学派（安德森、福斯特）及哥大学派（诺亚、埃克斯坦）共同构成战后第三代际[[Scientism|科学主义]]运动的核心支柱，开启跨大西洋[[Scientific Paradigm|科学范式]]大论战；
 > - **方法路径** 确立了“问题甄别—假说提出—情境模式—逻辑演绎—后果预测（$L + I = P$）”的假说-演绎[[Problem Approach|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
 > - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
@@ -248,7 +248,7 @@ updated: 2026-10-20
 
 ## 关系网络
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **师承／合作者** 约瑟夫·劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]] — IOE 比较教育学系前辈与合著者，共同主编《世界教育年鉴》；
 > - **论辩同行（英国本土）** [[Edmund King|埃德蒙·金]]（Edmund King） — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **论辩同行（美国实证学派）** [[C. Arnold Anderson|阿诺德·安德森]]、[[Philip Foster|菲利普·福斯特]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]] — 围绕恒常普遍规律 vs 权变情境法则展开跨大西洋论辩；
