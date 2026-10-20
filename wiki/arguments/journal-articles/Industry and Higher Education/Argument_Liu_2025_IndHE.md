@@ -36,7 +36,6 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Engineering Education]]"
   - "[[Knowledge Production]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Capability Approach]]"
   - "[[Triple Helix]]"
@@ -51,9 +50,7 @@ related_persons:
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
-  - "[[Gaokao]]"
   - "[[China Scholarship Council]]"
-  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[sources/Liu_2025_IndHE/Liu_2025_IndHE|Liu_2025_IndHE]]"
@@ -67,7 +64,7 @@ title: "Argument_Liu_2025_IndHE"
 argument_key: "Argument_Liu_2025_IndHE"
 argument_display_title: "International higher education as knowledge diplomacy: The role of Chinese universities in China’s belt and road initiative"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -288,14 +285,14 @@ issuing_organization: ""
 
 系统对照三所高校在不同大洲的办学轨迹，各项目在目标设定、主体参与、行动伦理、运作机制和具体形态上均高度契合知识外交的内在要求。（pp.193–195）
 
-> [!row-contrast] 三所中国高校参与一带一路项目对知识外交的实践贡献
-> | 基础要素 | 中国高校一带一路教育合作的实践特征与机制表现 |
-> |---|---|
-> | **意图** | 三个项目均聚焦于三个发展中地区关键能源与基础设施领域的人才培养，促进当地经济增长与减贫，建立国家间友好互信；同时服务于中国保障长期经济目标的现实诉求，实现国家利益与伙伴国发展的结合 |
-> | **行动者** | 涵盖政府、行业企业、大学与学生四方利益相关者，各方诉求均在同一项目中获得满足；合作不以意识形态或伙伴国政治体制改革为先决条件，恪守不干涉内政原则 |
-> | **原则** | 以互惠共赢为核心指导原则，未见政治施压或经济强迫；针对大型基建项目引发的主权债务担忧，国家层面向小而美项目转型，大学本身并未参与债务设定 |
-> | **运作模式** | 聚焦基础设施能力建设而非单纯提供资金援助，体现 Sen (2001) 的 [[Capability Approach\|能力进路]] 理念与授人以渔的传统经验，致力于填补发展中国家基础设施赤字 |
-> | **活动形态** | 均为在中国高校开展的高度定制化定向学历教育项目，根据企业与行业具体工程需求精准设计培养方案，保障毕业生全员回国服务于重点工程与行业一线 |
+> [!contrast-table] 三所中国高校一带一路教育合作实践与知识外交准则对照（Knight, 2022b; Liu et al., 2025）
+> | 基础要素 | 知识外交分析准则（Knight, 2022b） | 三校实践特征与微观机制（Liu et al., 2025） |
+> |---|---|---|
+> | **意图**<br>Intentions | 建立并强化国家间友好互信；协助应对全球挑战，实现共同繁荣与双向互利 | • **多边互利取向** 聚焦关键能源与基建领域人才培养，促进共建国经济减贫与双边互信。<br>• **长期经济动因** 保障中国海外产业重资产安全运维，实现国家自利与伙伴发展的结合。 |
+> | **行动者**<br>Actors | 政府、政府间机构、高校、非政府组织与产业企业等多主体协同，平等参与 | • **四方协同网络** 涵盖双边政府、骨干国企、特色高校与国际学生四方利益相关者。<br>• **恪守主权原则** 不附带政治体制或意识形态先决条件，坚持不干涉内政。 |
+> | **原则**<br>Principles | 互惠互利、相互尊重、寻求共同点与伙伴关系，杜绝政治强迫与单边施压 | • **互惠共赢协商** 坚持对等协商，未见政治施压或经济强迫。<br>• **债务风险防范** 国家层面向“小而美”高标准项目转型；高校专注技术育人，不介入主权债务设定。 |
+> | **运作模式**<br>Operational Modes | 平等对话、沟通协商；聚焦知识分享与发展能力建设（Capacity Building） | • **能力进路导向** 践行 Sen (2001) 的[[Capability Approach\|能力进路]]与“授人以渔”理念，聚焦实体基建与技术造血。<br>• **高阶人才属地化** 扭转依赖外派劳动力格局，培养本土工程师与技术骨干。 |
+> | **活动形态**<br>Activities | 联合办学机构、师生流动交换、研究网络、定向奖学金与联合学位项目 | • **定制化定向培养** 推行“1+4”或“1+3+1”分段式定向工科学历教育，精准匹配一线工程需求。<br>• **全周期一线回流** 保障毕业生全员回国服务于重点工程与行业一线，实现高比例属地化就业。 |
 
 微观实证与宏观框架的逐一对应，证实了高校以专业优势参与海外工程育人，构成了知识外交的生动范例。（p.195）
 
