@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Critique of PISA",
+      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
+    },
+    {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "Three-Level Mechanism Model of PISA's Impact on Education Policy",
+      "path": "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
+    },
+    {
+      "basename": "PISA Shock in Japan",
+      "path": "wiki/facts/japan/PISA Shock in Japan.md"
+    },
+    {
+      "basename": "PISA Shock in Germany",
+      "path": "wiki/facts/germany/PISA Shock in Germany.md"
     },
     {
       "basename": "Argument_Grek_2009_JEdPolicy",
@@ -183,22 +199,6 @@
     {
       "basename": "Asia-Africa Growth Corridor",
       "path": "wiki/facts/multi/Asia-Africa Growth Corridor.md"
-    },
-    {
-      "basename": "Belt and Road Initiative",
-      "path": "wiki/facts/china/Belt and Road Initiative.md"
-    },
-    {
-      "basename": "Normalization through Knowledge Cooperation",
-      "path": "wiki/concepts/political-economy-geopolitics/Normalization through Knowledge Cooperation.md"
-    },
-    {
-      "basename": "Asian Universities Alliance",
-      "path": "wiki/facts/china/Asian Universities Alliance.md"
-    },
-    {
-      "basename": "Knowledge Diplomacy",
-      "path": "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,7 @@
 ---
 citation: "Niemann, D., & Martens, K. (2018). Soft governance by hard fact? The OECD as a knowledge broker in education policy. Global Social Policy, 18(3), 267–283. https://doi.org/10.1177/1468018118794076"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 processed_date: 2026-10-21
 ---
 
