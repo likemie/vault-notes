@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Critique of Meta-analysis",
+      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
+    },
+    {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PISA Shock in Germany",
       "path": "wiki/facts/germany/PISA Shock in Germany.md"
-    },
-    {
-      "basename": "Argument_Kalmendal_2025_PsyArXiv",
-      "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
     }
   ],
   "omittedPaths": [],
