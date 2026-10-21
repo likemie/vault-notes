@@ -71,7 +71,6 @@ updated: 2026-10-21
 ---
 
 # Variable
-（变量）
 
 ---
 
@@ -223,7 +222,7 @@ updated: 2026-10-21
 > - **19 世纪中后期 — 变量思想萌芽** [[Auguste Comte|奥古斯特·孔德]]与约翰·斯图尔特·密尔在实证哲学中提出共变法（Method of Concomitant Variations），奠定了通过可观察属性的变化推断因果联系的最初逻辑。
 > - **20 世纪初至中期 — 实验设计与测量[[Operationalization|操作化]]确立** 费希尔（Ronald Fisher）开创[[Analysis of Variance|方差分析]]与实验[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]框架；坎贝尔与斯坦利（Campbell & Stanley, 1963）系统确立实验与[[Quasi-Experimental Designs|准实验设计]]中的变量控制与效度标准。
 > - **1960s–1970s — 比较研究中的“以变量替代体系”革命** 诺亚与埃克斯坦在《走向比较教育科学》（1969）及后续论著中明确提出以“概念变量名称”替代“国别体系名称”，推动比较教育从个案历史描述转向跨系统变量假说检验。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
-> - **1970s — 对变量崇拜与方法论主义的反思** 巴伯发表方法论反思论文，指出将比较研究窄化为变量回归操作的方法论主义弊端，警示抽离社会政治脉络的统计变量存在解释虚妄性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> - **1970s — 对变量崇拜与方法论主义的反思** 巴伯展开方法论反思，指出将比较研究窄化为变量回归操作的方法论主义弊端，警示抽离社会政治脉络的统计变量存在解释虚妄性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1980s 至今 — [[Hierarchical Linear Model|多层线性模型]]与复杂系统整合** 多层线性模型（HLM）的兴起使研究者能够同时处理学生层、学校层与国家层的嵌套变量，兼顾宏观体系特征与微观个体变量的互动。
 > - **2010 年 — 校外社会变量模型与反技术主义还原** 格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）指出，批判性教育学者必须将家庭与阶级等校外社会变量置于核心位置；抽离非学校变量而将[[Academic Achievement|学业成就]]全然归因于校内过程的模型，制造了单凭教学干预即可消除不平等的虚假错觉。
 

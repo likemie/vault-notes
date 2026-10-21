@@ -279,6 +279,7 @@ updated: 2026-10-21
 > - **1995 — [[OECD|经合组织]]《转型中的治理》确立“良治”与比较绩效远处掌舵** 经合组织发布《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995），正式将新公共管理机制包装为普遍适用的“良治”框架，确立以跨国比较绩效测量替代传统投入管控的远处掌舵模式。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 证据异化与后 NPM 反思** 治理修辞演化为以科学证据与[[Randomised Controlled Trials\|随机对照试验]]（RCT）为包装的[[Rationalized Myth\|合理化神话]]；同时，创新政策与公共管理学界深刻反思 NPM 导致的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，提出重塑[[Public Dynamic Capabilities|公共部门动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]以替代被动的 NPM 治理模式。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]
+> - **2019 — 政体行政传统中介与 NPM 市场化国家治理轨迹解构** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇文献的系统综述，揭示了英美智等典型 NPM 市场化国家如何将数据密集型统考与择校竞争、绩效工资及刚性接管持续叠加，并通过外包测评服务催生商业利益同盟锁定治理体制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255, 259–260)]]
 
 ---
 
@@ -339,12 +340,14 @@ updated: 2026-10-21
 > | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | 英国与德国高等教育科研卓越框架（REF） | 跨国高等教育制度比较与拨款数据追踪 | 科研[[Performance Indicators\|绩效指标]]（KPIs）与公共科研经费分配比例 | 绩效指标导向的拨款导致资源高度集中化，全英前 20% 的精英[[Research Universities\|研究型大学]]捕获了超过 75% 的公共研究拨款，强化了机构间马太效应 | 针对英德高教体制，揭示量化绩效拨款对学术层级分化的制度固化效应 |
 > | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰教师教育改革 35 年制度变迁 | 政策历程追踪与供给机构份额统计 | 教师准入从大学主导向校本（SCITT / School Direct）市场化转移 | 大学传统[[Normal School\|师范教育]]供给份额遭系统性压缩，市场化准入与国家核心内容框架远程监控并行，循证实践呈现政策辩护工具化倾向 | 确立 NPM 分权外包表象下国家通过资质规程实施远程集权控制的微观机制 |
 > | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | [[OECD\|经合组织]]国家公共部门咨询外包演进 | 科技政策与公共行政实证文献综合批判 | 私营咨询外包支出占比与公共机构能力指标 | 伴随管理咨询外包支出增长，公共机构核心规划与数字化评估能力呈现显著[[Cognitive Deskilling\|去技能化]]，形成只关注短期显性指标的“青蛙视角” | 阐明过度依赖外部采购与成本收益合规对[[Public Dynamic Capabilities\|公共动态能力]]的结构性侵蚀 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球 158 篇涵盖经合组织与拉美中等收入国家的教育治理改革文献 | [[Systematic Review\|系统文献综述]]与国别分析表提取 | NPM 市场化政体（英、美、智利）对标准化考试、择校与绩效问责工具的采纳与制度化累加 | 证实 NPM 市场化国家倾向于在初始市场建制之上不断叠加刚性行政问责（如智利 SNED 与 SEP、英格兰 Ofsted 降级与转制、美国 AYP 制裁），并通过外包测评服务催生庞大的商业利益集团，阻断了体制退出可能 | 质性跨国历史比较与文献综合分析 | 侧重已建制化国家宏观制度分析，对非英语国家边缘实践覆盖有限 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合历史制度主义与政策工具社会学，系统解构 NPM 市场化国家如何将数据密集型评估与问责工具嵌入择校竞争，并催生商业测评同盟实现制度锁定。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 批判 NPM 改革导致的公共部门[[Cognitive Deskilling|去技能化]]、青蛙视角与对失败的零容忍，提出以[[Public Dynamic Capabilities|公共动态能力]]和[[Lead-and-Learn Paradigm|引领与学习范式]]重塑国家治理。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判 NPM 将政府局限于被动市场修补与外包监管的弊端，论证企业型国家的主动[[Market Shaping and Creating|市场塑造]]与共创能力。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 从比较公共行政视角深入辨析英美新公共管理（[[Early Steps|Next Steps]] 执行代理机构与市场化意识形态）与欧洲大陆“间接[[Steering at a Distance|远距离操纵]]”的制度边界，揭示多理性[[Policy Network|政策网络]]的自组织特性，并指出事后质量评估可能反向加剧国家隐性集权的评估国家悖论。

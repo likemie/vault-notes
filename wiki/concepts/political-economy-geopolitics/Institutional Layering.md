@@ -75,7 +75,7 @@ updated: 2026-10-21
 > - **边界** 严格区别于彻底推倒重建的[[Institutional Displacement|制度置换]]，也区别于未引入新规则但环境变迁导致的[[Institutional Drift|制度漂移]]；同时必须防范将巩固旧核心的制度再生产误读为层叠变迁。
 
 > [!citation-card] 制度层叠的内生机制界定
-> 层叠是指在保留其他既有制度要素的同时，对某套既有制度的部分要素进行重新协商；它涉及在原本稳定的制度框架之上构筑新要素，或者主动赞助修正案、补充条款与修订规程；当新规则附着于旧规则之上并改变原规则规约行为的方式时，层叠便发生。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 11)]]
+> 层叠是指在保留其他既有制度要素的同时，对某套既有制度的部分要素进行重新协商；它涉及在原本稳定的制度框架之上构筑新要素，或者主动赞助修正案、补充条款与修订规程；当新规则附着于旧规则之上并改变原规则约束行为的方式时，层叠便发生。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 11)]]
 >
 > *Layering occurs when new rules are attached to existing ones, thereby changing the ways in which the original rules structure behaviour.*
 
@@ -95,7 +95,7 @@ updated: 2026-10-21
 > | **制度转换**<br>（Institutional Conversion） | 规则形式不变，内部运作目标与适用对象发生重定向 | 完全沿用旧规则，赋予全新功能 | 边缘行动者夺取旧制度解释权或转用于新议题 | 旧瓶装新酒的功能性制度重构 |
 > | **制度漂移**<br>（Institutional Drift） | 制度自身静态不动，外部社会经济环境发生剧变 | 维持旧规则不作更新修订 | 既得利益者故意阻挠制度更新或政策疏忽 | 制度环境脱节导致实际保护效力侵蚀 |
 > | **制度替代**<br>（Institutional Displacement） | 废除旧制度或在旧制度旁设立全新的竞争性平行体制 | 逐步边缘化或直接废弃旧制度 | 改革者具备充分政治权威或旧体制彻底失效 | 新制度逐步挤出或彻底取代旧制度 |
-> | **间断均衡**<br>（Punctuated Equilibrium） | 长期宏观稳态与短暂激进突变交替出现 | 在[[Punctuated Equilibrium Theory\|政策垄断]]打破时颠覆旧政策议程 | 外生重大冲击打破垄断与[[Venue Shopping\|场所转换]]推进 | 宏观政策议程设置与体制断裂式跃迁 |
+> | **间断均衡**<br>（Punctuated Equilibrium） | 长期宏观稳态与短暂激进突变交替出现 | 在[[Punctuated Equilibrium Theory\|政策垄断]]打破时颠覆旧政策议程 | 外生重大冲击打破垄断与[[Venue Shopping\|场所转换]]推进 | 宏观政策议程设置与体制断裂式剧变 |
 
 ---
 
@@ -119,7 +119,7 @@ updated: 2026-10-21
 >     C["行动者增厚：增设机构与主体"]
 >     D["规制棘轮：叠加细则与工具"]
 >     E["层叠过程：增新而不废旧"]
->     F["重构原有规则对行为的规约方式"]
+>     F["重构原有规则对行为的约束方式"]
 >     G["长期累积引发制度质变或功能偏移"]
 > 
 >     A --> B
@@ -143,13 +143,13 @@ updated: 2026-10-21
 > 聚焦制度变迁的动力来源，探讨改革者在面对强大制度否决点与既得利益阻力时，如何通过边际性附加规避直接正面冲突，最终实现实质性制度演进。
 
 > [!claim] [[Kathleen Thelen|Thelen, K.]]
-> **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
+> **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的约束方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **强否决阻力与[[Subversives|颠覆者]]潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为[[Subversives|颠覆者]]（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
 
 > [!claim] Schickler, E.
-> **多元利益妥协的层叠张力** 制度并非源于单一理性主体的顶层宏观规划，而是在不同历史时期相互竞争的多元利益主体博弈妥协的产物；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
+> **多元利益妥协的层叠张力** 制度产生于不同历史时期相互竞争的多元利益主体的博弈妥协，脱胎于多元势力的杂合平衡，超越单一理性主体的顶层规划；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-10-21
 > 审视当代经验文献对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
-> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或规约行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与[[EU|欧盟]]预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
+> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或约束行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与[[EU|欧盟]]预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
 
 ---
 
@@ -198,29 +198,41 @@ updated: 2026-10-21
 
 > [!evidence-grid] 制度层叠的代表性经验案例（增新不废旧并驱动制度演化）
 > - **德国劳动力市场微型工作与非正规用工分层（双轨化[[Liberalization|自由化]]分层典范）** 德国政府在保留传统全职制造业劳工严格解雇保护（Kündigungsschutz）核心的前提下，通过劳动力市场改革在劳动规制外围分层增设微型工种（Minijobs）与临时派遣工规章；免税与低社保费用的微型工种以数十倍于传统岗位的速度野蛮生长，吸纳了数百万低薪服务业劳工，使得德国在表面完整维系战后劳工保护制度的同时，实质完成了劳动力市场深刻的二元分层（Dualization）与自由化转型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 23–24)]]
-> - **美国养老金 401(k) 计划与自愿性补充账户层叠（公共福利边际分层典范）** 保守派政府并未直接削减[[Michael Fullan|富兰]]克林·罗斯福建立的现收现付制公共社会保障（Social Security），而是在联邦税法第 401(k) 条款中层叠设立雇主赞助的私人投资账户；由于免税红利与资本市场牛市，401(k) 积累的资产规模迅速超越了公共信托基金，实质改写了美国国民的退休风险预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
+> - **美国养老金 401(k) 计划与自愿性补充账户层叠（公共福利边际分层典范）** 保守派政府完整保留了富兰克林·罗斯福建立的现收现付制公共社会保障（Social Security），同时在联邦税法第 401(k) 条款中层叠设立雇主赞助的私人投资账户；由于免税红利与资本市场牛市，401(k) 积累的资产规模迅速超越了公共信托基金，实质改写了美国国民的退休风险预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
 > - **战后公共行政扩张（行动者增厚与[[Problem of Many Hands|多手难题]]）** 尤金·贝利斯尔（Belisle, 1944）、劳伦斯·赫森（Herson, 1961）、尼尔·张伯伦（Chamberlain, 1969）与保罗·莱特（Light, 1995）系统考证了在联邦、州与地方多级层级中持续增设新局署，以及在既有体制中引入私营与非营利主体；组织层叠造成权力重叠与责任稀释，印证了行动者增厚的制度成本与多手难题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **战后金融与劳工规制演进（[[Regulatory Ratchet|规制棘轮]]与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **美国教育券计划与公立学区改革（边际分流层叠典范）** 保守派改革者无法击败强大的公立教师工会直接废除公立学区体系，转而在公立学区体制边缘增设教育券（School Vouchers）选择权，随着越来越多的家庭使用教育券，公立学校的财政资源与生源被渐进分流。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17)]]
-> - **巴西军政府时期的基层卫生运动（[[Subversives|颠覆者]]潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举跃升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
+> - **巴西军政府时期的基层卫生运动（[[Subversives|颠覆者]]潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举上升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
+> - **智利基于测验问责体系的连续性制度层叠（教育治理工具分层累加典范）** 智利在新自由主义教育券体制之上，自 1988 年创设教育质量测度系统（SIMCE）起，历经 1995 年公开发布成绩单、1996 年叠加国家学校绩效评估系统（SNED）教师奖金挂钩，至 2008 年《优惠学校补贴法》（SEP）进一步叠加针对弱势学生的学业改善协议与关停接管惩戒；三十年间在保留既有市场体制核心的前提下，通过在旧规则顶端不断层叠高利害绩效细则与规制工具，最终完成了由国家主导的强问责表现主义治理重塑。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257–258)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique] 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
-> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
+> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，与带来规则质变的制度层叠存在本质区别。
 > - **[[EU|欧洲联盟]]预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
+
+---
+
+## 实证数据
+
+> [!ref-table]- 制度层叠机制的实证文献分析
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 核心机制与测量指标 | 关键实证发现与表现 | 解释边界 |
+> |---|---|---|---|---|---|
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251–258)]] | 全球 158 篇教育治理改革文献（重点追踪智利、英格兰与美国等） | [[Systematic Review\|系统文献综述]]与历时性政策演进追踪 | 规制型教育治理中标准、测验与问责工具的单向分层累加与功能转换 | 证实评估与问责工具遵循制度分层化（Layering）机制，政府在保留既有行政框架的前提下不断追加全员统考、增值评价与绩效制裁，并最终借助外包商业测评产业锁定体制，阻断了制度退出 | 质性系统综述与历史制度主义综合分析，侧重制度化演进与工具累加机制 |
 
 ---
 
 ## 争议与批评
 
 > [!debates] 学术争议与概念漂移风险
-> 
+
 > > [!axis] 制度变迁还是制度再生产的边界划分争议
 > > 争论聚焦于外围图层的增加究竟是推动了制度转型，还是仅仅巩固了既有制度核心。
 > > 
 > > - **制度再生产与强化视角** 罗伯特·阿克里尔和阿德里安·凯（Ackrill & Kay, 2006）在[[EU|欧洲联盟]]（European Union, EU）预算研究中、泰勒·博阿斯（Boas, 2007）在互联网标准复合模型研究中认为，叠加新成员或协议标准并未改变核心轨道，反而强化了制度核心并提升了转换壁垒。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
-> > - **制度渐进变迁视角** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）与[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）坚持层叠必须导致原有规则地位、结构或行为规约方式的质性改变，将加固核心的现象统称为层叠会丧失概念的分析效力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> > - **制度渐进变迁视角** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）与[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）坚持层叠必须导致原有规则地位、结构或行为约束方式的质性改变，将加固核心的现象统称为层叠会丧失概念的分析效力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 > 
 > > [!axis] 观察者位置与时间尺度导致的定性认知偏差
 > > 争论聚焦于同一项制度改革到底应定性为根本性突变还是边际性微调。
@@ -236,6 +248,7 @@ updated: 2026-10-21
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 运用历史制度主义与政策工具社会学，系统追踪国家大规模评估与问责工具如何在旧行政体制上通过分层累加实现单向度扩张，并以外包同盟锁定体制。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
