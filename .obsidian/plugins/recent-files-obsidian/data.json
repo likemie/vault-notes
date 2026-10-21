@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Meta-meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+    },
+    {
+      "basename": "Argument_Legrand_2012_PolStud",
+      "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
+    },
+    {
       "basename": "Argument_Niemann_Martens_2018_GSP",
       "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
-    },
-    {
-      "basename": "Argument_Legrand_2012_PolStud",
-      "path": "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md"
     },
     {
       "basename": "Academic Attrition",
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "wiki/index.md"
-    },
-    {
-      "basename": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",
-      "path": "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md"
     }
   ],
   "omittedPaths": [],
