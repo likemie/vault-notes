@@ -2363,6 +2363,29 @@
     ]
   },
   {
+    "title": "PISA Creative Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/PISA Creative Thinking.md",
+    "aliases": [
+      "PISA创造性思维",
+      "PISA创造力测评",
+      "PISA Creative Thinking Assessment",
+      "Creative Thinking in PISA"
+    ]
+  },
+  {
+    "title": "PISA Global Competence",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/PISA Global Competence.md",
+    "aliases": [
+      "PISA全球胜任力",
+      "全球胜任力测评",
+      "PISA Global Competence Framework",
+      "PISA全球素养",
+      "Global Competence in PISA"
+    ]
+  },
+  {
     "title": "PISA Mathematical Literacy",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/PISA Mathematical Literacy.md",
@@ -34664,6 +34687,19 @@
       "Pajaro Dunes Statement",
       "Pajaro Dunes Conference",
       "帕哈罗沙丘声明"
+    ]
+  },
+  {
+    "title": "PISA Shock in the United States",
+    "type": "fact",
+    "path": "wiki/facts/us/PISA Shock in the United States.md",
+    "aliases": [
+      "美国PISA震荡",
+      "美国PISA政策反应",
+      "PISA in the United States",
+      "美国新卫星时刻",
+      "PISA Response in the United States",
+      "American PISA Debate"
     ]
   },
   {

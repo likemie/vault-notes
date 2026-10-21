@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,11 +29,15 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem Solving]]"
   - "[[Humility]]"
+  - "[[PISA Global Competence]]"
+  - "[[PISA Creative Thinking]]"
   - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
   - "[[Sampling Frame]]"
+  - "[[Differential Item Functioning]]"
+  - "[[Critical Review]]"
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
@@ -42,6 +46,8 @@ related_facts:
   - "[[IEA]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
+  - "[[PISA Shock in the United States]]"
+  - "[[PISA for Schools]]"
   - "[[PISA for Development]]"
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -96,7 +102,7 @@ PISA 巧妙地利用了这种焦虑，提出了三个问题：年轻人是否准
 >
 > PISA 还向教育政策制定者提出了另一个诱人的主张：PISA 不仅告诉你孩子是否为未来生活做好了准备，还告诉你通过改善教育系统的有效性可以控制它。用通俗的话说，PISA 不仅告诉你孩子是否为未来生活做好了准备，还告诉你你有能力控制它。
 
-PISA 声称测量未来生活所需的基本技能，同时声称测量教育系统的有效性，这使得它在 1990 年代的时代精神中格外有吸引力。平坦世界的到来和中国、印度等新全球大国的崛起加剧了对不确定未来的焦虑和对新全球社会中[[Competitiveness|竞争力]]的担忧。担忧的政治领导人急于确保国家正在培养赢得全球竞争所需的正确智力资源。一个允许他们提前知道国家做得如何并告诉他们对教育系统做什么修正的工具，简直是天赐之物（Lundgren 2011）。
+PISA 声称测量未来生活所需的基本技能，同时声称测量教育系统的有效性，这使得它在 1990 年代的时代精神中格外有吸引力。平坦世界的到来和中国、印度等新全球大国的崛起加剧了对不确定未来的焦虑和对新全球社会中[[Competitiveness|竞争力]]的担忧。担忧的政治领导人急于确保国家正在培养赢得全球竞争所需的正确智力资源（正如美国政治精英将 PISA 数据动员为国家危机，参见 [[PISA Shock in the United States|美国PISA政策反应]]）。一个允许他们提前知道国家做得如何并告诉他们对教育系统做什么修正的工具，简直是天赐之物（Lundgren 2011）。
 
 ---
 
@@ -172,7 +178,7 @@ PISA 声称具有科学性，但其实施存在严重的技术缺陷。
 >
 > **性别偏差**。PISA 阅读评估被发现对女生友好，因为 PISA 基于虚构和非虚构文本的混合来衡量阅读素养，并包含高比例需要通过写作展示阅读理解的题目（Solheim and Lundetræ 2018）。
 >
-> **语言偏差**。PISA 工具在西方国家之间的可比性优于中东或亚洲国家，原因包括语言和文化（Grisay et al. 2007）。对不同语言版本之间偏差的全面审查发现，大多数研究报告了大量差异项目功能（DIF）。例如，PISA 项目与希腊教科书之间的语言差异可能是希腊学生科学低表现的原因（Hatzinikita et al. 2008）。德语版本比英语版本长 18%，但 PISA 为所有语言分配了相同的时间（Eivers 2010）。
+> **语言偏差**。PISA 工具在西方国家之间的可比性优于中东或亚洲国家，原因包括语言和文化（Grisay et al. 2007）。对不同语言版本之间偏差的全面审查发现，大多数研究报告了大量差异项目功能（[[Differential Item Functioning|DIF]]）。例如，PISA 项目与希腊教科书之间的语言差异可能是希腊学生科学低表现的原因（Hatzinikita et al. 2008）。德语版本比英语版本长 18%，但 PISA 为所有语言分配了相同的时间（Eivers 2010）。
 >
 > **统计方法**。PISA 使用 Rasch模型推导结果，但 Kreiner and Christensen(2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013）。
 
@@ -205,11 +211,11 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 >
 > **参与系统的增加**。从 2000 年的 32 个增加到 2015 年的 72 个。参与系统的增加不仅意味着 PISA 对更多教育系统有权力，还使 PISA 更加强大，因为它表明世界大多数教育系统已接受 PISA 为合法实体。
 >
-> **评估领域的扩展**。从阅读、数学和科学扩展到财经素养、协作问题解决、全球能力，以及可能的[[Creativity\|创造力]]。
+> **评估领域的扩展**。从阅读、数学和科学扩展到财经素养、协作问题解决、[[PISA Global Competence|PISA全球胜任力]]（Global Competence），以及前沿的[[PISA Creative Thinking|PISA创造性思维]]（[[Creativity|Creative Thinking]]）构念。
 >
-> **产品线的扩展**。PISA for Schools、[[PISA for Development]]、[[Baby PISA]]（国际早期学习和儿童福祉研究）。Baby PISA 旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，这意味着 PISA 企业将成为不仅是学校质量而且是学前班、社区和家庭质量的仲裁者。加上评估 16-65 岁技能的 [[Programme for the International Assessment of Adult Competencies\|PIAAC]]，PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和实践中最有影响力的单一机构。
+> **产品线的扩展**。[[PISA for Schools]]、[[PISA for Development]]、[[Baby PISA]]（国际早期学习和儿童福祉研究）。Baby PISA 旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，这意味着 PISA 企业将成为不仅是学校质量而且是学前班、社区和家庭质量的仲裁者。加上评估 16-65 岁技能的 [[Programme for the International Assessment of Adult Competencies\|PIAAC]]，PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和实践中最有影响力的单一机构。
 
-许多批评者希望拯救 PISA，希望看到 PISA 改进。但 PISA 不太可能显著改善，至少不是在批评者希望的方向上。技术改进可以进行，但技术修复几乎无法改变 PISA 的教育观，这是整个 PISA 企业建立的基础。因此，更合理的行动可能是完全忽视它，或者希望 PISA 自己结束。
+许多批评者希望拯救 PISA，希望看到 PISA 改进。然而技术修复无法动摇 PISA 建立其上的狭隘教育观；在批评者期许的改革方向上，PISA 难以实现根本性自我变革。因此，更合理的行动可能是完全忽视它，或者期待 PISA 项目自身终结。
 
 ---
 
@@ -241,7 +247,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 > [!quote]
 > "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."
 >
-> 批评的无效并不是放弃揭露 PISA 作为一个具有误导教育的巨大力量的有缺陷企业的理由。
+> 尽管既往批评收效甚微，学术界依然有必要持续揭露 PISA 作为误导全球教育政策力量的企业本质与制度缺陷。
 
 ---
 
@@ -249,7 +255,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 > [!warning]
 > - **故意偏颇**。故意选择了不呈现正反平衡的观点，因为 [[PISA]] 运营者已经成功地向世界分享了其优点，而缺点一直被忽视。
-> - **综述性质**。这是一篇综述，不包含新的实证数据，而是对已有批评的综合。
+> - **综述性质**。研究属于[[Critical Review|批判性文献综述]]，侧重对过去二十年既有批评文献展开系统综合与理论重构。
 
 ---
 

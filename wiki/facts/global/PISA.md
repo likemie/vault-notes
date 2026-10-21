@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 132
+fact_related_count: 137
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -73,6 +73,10 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Heterogeneity]]"
   - "[[Going Native]]"
+  - "[[PISA Global Competence]]"
+  - "[[Global Citizenship]]"
+  - "[[PISA Creative Thinking]]"
+  - "[[Creativity Assessment]]"
   - "[[Center of Calculation]]"
   - "[[Falling Standards Template]]"
   - "[[STEM Education]]"
@@ -133,6 +137,7 @@ related_facts:
   - "[[PISA Shock in Japan]]"
   - "[[Free Semester System]]"
   - "[[PISA Response in England]]"
+  - "[[PISA Shock in the United States]]"
   - "[[Race to the Top]]"
   - "[[2014 Open Letter on PISA]]"
   - "[[Beyond 2000 Report]]"
@@ -271,7 +276,7 @@ updated: 2026-10-21
 > | **新加坡** | • **2009** 首度参测名列全球前五<br>• **2012** 复杂问题解决居全球榜首<br>• **2015 / 2022** 两度包揽阅读、数学、科学全项总冠军，创造性思维名列前茅 | • 全学科与全能力几乎无短板，高阶建模与迁移能力极强<br>• 弱势群体学业韧性居全球前列，兼顾顶尖卓越与高均值 | • **少教多学课程变革** 推行“少教多学”（TLLM），削减死记硬背大纲，腾出深层探究空间<br>• **国立教育学院师资培育** 唯一师范出口，极高待遇选拔前 1/3 顶尖人才并持续带薪培训<br>• **建模教学法（CPA）** 具象到抽象层层递进，注重结构化理解 | • **成效启示** 中央集权规划与现代课程理念高效结合的人力资本典范<br>• **后续挑战** 早期分流筛选机制（如 PSLE）造成全社会高度焦虑，应试竞争惯性深厚 |
 > | **[[Free Semester System\|韩国]]** | • **2000** 首轮数理化处于顶尖梯队，长期保持 OECD 前列<br>• **2000 年代中后期** 深刻反思高压应试与补习班泛滥<br>• **2013 至今** 推行[[Free Semester System\|自由学期制]]（Free Semester System） | • 基础学力极强，数学阅读常年处于 OECD 顶峰，低失败率<br>• 但学生心理幸福感、归属感与自信心常年处于 OECD 谷底 | • **参考社会重置** 从日本标杆转向北欧（芬兰），反思应试异化<br>• **初中自由学期制** 暂停统考，开展体验式、项目式与生涯探索（详见 [[Free Semester System]]）<br>• **公立平准化与教师轮岗** 教师强制定期跨校轮岗，遏制名校特权 | • **成效启示** 高表现国主动利用跨国镜鉴纠偏高压生态的治理探索<br>• **后续挑战** 名校选拔门槛难破，自由学期难以遏制庞大的校外补习军备竞赛 |
 > | **[[PISA Response in England\|英国（英格兰）]]** | • **2000–2006** 处于 OECD 均线平台期<br>• **2010–2015** 保守党借 2009/2012 数据大造危机，推行五大支柱法案<br>• **2015–2022** 纸笔成绩居中上，但实践动手实验滑坡 | • 科学总分高于 OECD 均线，数学阅读总体持平<br>• 处境最劣势学生占比低，但校际阶层落差大，理科师资短缺严重 | • **虚构危机推销私有化** 借助媒体“标准下滑模板”将平稳数据夸大为危机<br>• **新自由主义改革** 强推自由学校、扩大文法甄别、实施教师绩效工资<br>• **媒体政策规避共谋** 大众媒体通稿依赖，消解了民主核查功能（详见 [[PISA Response in England]]） | • **成效启示** 展现了跨国评估沦为国内政客绕开审议、强推私有化的政治弹药<br>• **后续挑战** 机械应试回潮，动手实验课时腰斩（SET 2023），师资流失加剧 |
-> | **美国** | • **2000–2009** 历轮评估成绩长期在 OECD 中游徘徊<br>• **2007–2009** 政策企业家动员国际落差设立国家标准议程<br>• **2009–2010** 出台《共同核心州立标准》（[[Common Core State Standards\|CCSS]]）<br>• **2009–2015** 联邦“[[Race to the Top\|力争上游]]”（RTTT）专项拨款深度绑定与反弹 | • 阅读与数学长期处于中游，各州原有标准极度碎片化且深浅不一<br>• 基础素养赤字明显，贫富与种族学区差距深层固化 | • **国际基准化危机动员** 政策企业家将跨国差距作为打破各州分权阻力的实证弹药<br>• **跨州自愿联盟** 依托 NGA 与 CCSSO 联盟绕过联邦无权立标的宪法限制<br>• **联邦竞争拨款撬动** 运用“力争上游”专项资金将 CCSS 采纳刚性绑定 | • **成效启示** 成功打破对国家统一标准的政治禁忌，实现最大规模自愿趋同<br>• **后续挑战** 联邦隐性集权引发保守派强烈反弹，多州后续退出或修订考试联盟 |
+> | **[[PISA Shock in the United States\|美国]]** | • **2000–2009** 历轮评估成绩长期在 OECD 中游徘徊<br>• **2010** 上海登顶引爆“新卫星时刻”政策恐慌（详见 [[PISA Shock in the United States]]）<br>• **2009–2010** 出台《共同核心州立标准》（[[Common Core State Standards\|CCSS]]）<br>• **2009–2015** 联邦“[[Race to the Top\|力争上游]]”（RTTT）专项拨款深度绑定与反弹 | • 阅读与数学长期处于中游，各州原有标准极度碎片化且深浅不一<br>• 基础素养赤字明显，贫富与种族学区差距深层固化 | • **国际基准化危机动员** 政策企业家将跨国差距作为打破各州分权阻力的实证工具（详见 [[PISA Shock in the United States]]）<br>• **跨州自愿联盟** 依托 NGA 与 CCSSO 联盟绕过联邦无权立标的宪法限制<br>• **联邦竞争拨款撬动** 运用“力争上游”专项资金将 CCSS 采纳刚性绑定 | • **成效启示** 成功打破对国家统一标准的政治禁忌，实现最大规模自愿趋同<br>• **后续挑战** 联邦隐性集权引发保守派强烈反弹，多州后续退出或修订考试联盟 |
 
 > [!stat-cards]- 关键实证数据与基准
 > - **90+ / >3M** （覆盖规模） 全球 90+ 国家与经济体，累计测试逾 300 万名 15 岁学生。
@@ -322,11 +327,14 @@ updated: 2026-10-21
 > | **学科测评构念** | [[PISA Reading Literacy]] | 概念 | 阅读素养测评构念、数字多源文本审视与可[[Reliability\|信度]]验证模型；阅读领域测评细节扩充维护于此。 |
 > | **学科测评构念** | [[PISA Mathematical Literacy]] | 概念 | 数学素养测评构念、现实生活数学化建模循环与数理推理；数学领域测评细节扩充维护于此。 |
 > | **学科测评构念** | [[PISA Literacy]] | 概念 | 政策[[Discourse\|话语]]维度的“新学力”构念转译与阅读素养[[Going Native\|本土化]]；国家政策学力观更新维护于此。 |
+> | **学科测评构念** | [[PISA Global Competence]] | 概念 | 全球胜任力测评框架、审视全球议题与跨文化得体互动；[[Global Citizenship\|全球公民]]素养扩充维护于此。 |
+> | **学科测评构念** | [[PISA Creative Thinking]] | 概念 | [[Creativity Assessment\|创造性思维测评]]构念、发散原创构想产生与评估改进模型；日常[[Creativity\|创造力]]细节维护于此。 |
 > | **学科测评构念** | [[Scientific Literacy]] | 概念 | 科学素养上位构念与全球科学教育理论基石；学科教育论哲学探讨维护于此。 |
 > | **学科测评构念** | [[Beyond 2000 Report]] | 事实 | 1998 年科学教育里程碑报告，直接启发并奠定了 PISA 科学素养构念的理论基础。 |
 > | **国别政策反应** | [[Finnish PISA Miracle]] | 事实 / 事件 | 芬兰凭借综合基础学校与高度教师专业信任颠覆市场化竞争假设、确立全球[[Reference Society\|参考社会]]的历史经验；芬兰机制扩充维护于此。 |
 > | **国别政策反应** | [[PISA Shock in Germany]] | 事实 / 事件 | 德国危机动员、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 七大行动领域、[[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]与产出治理转型；德国微观机制扩充维护于此。 |
 > | **国别政策反应** | [[PISA Shock in Japan]] | 事实 / 事件 | 日本告别宽松教育、确立扎实学力、恢复全国学力统测与指导要领修订；日本机制扩充维护于此。 |
+> | **国别政策反应** | [[PISA Shock in the United States]] | 事实 / 事件 | 上海登顶触发“新卫星时刻”政策恐慌、推动各州采纳[[Common Core State Standards\|共同核心标准]]与[[Race to the Top\|力争上游]]改革；美国应对机制维护于此。 |
 > | **国别政策反应** | [[PISA Response in Spain]] | 事实 / 事件 | 西班牙中等综合学制平庸、17 个自治区激进分权推诿；西班牙应对细节维护于此。 |
 > | **国别政策反应** | [[PISA Response in England]] | 事实 / 事件 | 英国保守党政治精英与媒体共谋动员“[[Falling Standards Template\|标准下滑模板]]”、强推学院化与私有化改革；英格兰机制维护于此。 |
 > | **国别政策反应** | [[Loi Fillon 2005]] | 事实 / 政策 | 法国知识与技能共同基底确立、弱势生与 [[STEM Education\|STEM]] 女性平权量化指标；法国立法维护于此。 |

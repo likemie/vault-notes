@@ -10,7 +10,7 @@ summary: "心理测量学与大规模标准化测验中用于诊断题目偏差�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
