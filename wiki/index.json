@@ -5343,6 +5343,16 @@
     ]
   },
   {
+    "title": "Firewall Effect",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Firewall Effect.md",
+    "aliases": [
+      "防火墙效应",
+      "制度防火墙机制",
+      "防火墙机制"
+    ]
+  },
+  {
     "title": "Forensic Style of Inspection",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Forensic Style of Inspection.md",
@@ -6179,6 +6189,15 @@
       "legitimation alibi",
       "legitimising alibi",
       "scientific alibi"
+    ]
+  },
+  {
+    "title": "Soft Accountability",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Soft Accountability.md",
+    "aliases": [
+      "软问责",
+      "软性问责制"
     ]
   },
   {
@@ -16887,6 +16906,19 @@
       "多源流理论",
       "Multiple Streams Approach",
       "MSF"
+    ]
+  },
+  {
+    "title": "Napoleonic Administrative Tradition",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Napoleonic Administrative Tradition.md",
+    "aliases": [
+      "拿破仑行政传统",
+      "拿破仑国家模式",
+      "拿破仑模式",
+      "Napoleonic State",
+      "Napoleonic Tradition",
+      "Napoleonic model"
     ]
   },
   {

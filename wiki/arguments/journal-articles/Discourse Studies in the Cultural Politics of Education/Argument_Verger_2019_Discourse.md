@@ -43,14 +43,17 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Evaluation Research]]"
   - "[[Data Infrastructure]]"
+  - "[[Firewall Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Literature Search]]"
+  - "[[Soft Accountability]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
   - "[[Neo-Weberian State]]"
   - "[[Policy Instrumentation Theory]]"
+  - "[[Napoleonic Administrative Tradition]]"
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Systematic Review]]"
@@ -84,7 +87,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -120,7 +123,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Policy Instrumentation Theory\|政策工具化理论]]**<br>Lascoumes and Le Galès (2007) | 阐明政策工具兼具技术性、社会性与政治性，拒绝中立工具观，揭示工具如何作为治理装置自主结构化公共政策并生产特定权力关系。（pp. 250–251） |
 > | **[[Historical Institutionalism\|历史制度主义]]渐进变迁理论**<br>(Mahoney, 2000; Thelen, 2004) | 提供[[Institutional Layering\|制度分层化]]（Layering）、政策转换（Conversion）与政策漂移（Drift）等分析范畴，解释治理工具如何在旧制度框架上逐层累积叠加并产生意外后果。（pp. 251–252） |
-> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、[[Neo-Weberian State\|新韦伯主义]]（Neo-Weberian）与拿破仑传统（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
+> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、[[Neo-Weberian State\|新韦伯主义]]（Neo-Weberian）与[[Napoleonic Administrative Tradition\|拿破仑传统]]（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
 
 > [!dimension] 政策工具的三重分析维度
 > - **技术与操作维度**
@@ -262,7 +265,7 @@ issuing_organization: ""
 
 #### 3. 南欧国家因常任公务员制度与工会强力反弹，测验问责举措遭遇长期抵制与反复摇摆
 
-南欧的意大利与西班牙等拿破仑行政传统国家，具备中央集权、层级分明、法治主义与公立常任文官教师队伍等特征，加上学校民主共决传统，使由上而下的绩效考核改革步履维艰。（pp. 255, 260）
+南欧的意大利与西班牙等[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家，具备中央集权、层级分明、法治主义与公立常任文官教师队伍等特征，加上学校民主共决传统，使由上而下的绩效考核改革步履维艰。（pp. 255, 260）
 
 > [!case] 拿破仑体制国家案例：意大利的断续试错与西班牙马德里的孤岛实验
 > - **意大利的长周期停滞与碎片化试验** 2000 年代初中右翼内阁发起校长评估自愿试点，遭遇学校基层普遍抵制；2006 年中左翼普罗迪政府上台后随即叫停试点；2008 年中右翼政府重启绩效议程，教育部长杰尔米尼（Gelmini）强推卓越与优胜劣汰话语；2012 年再度试水整合增值评估与校长考核的试验模型；历经十五年党派拉锯，直至 2015 年伦齐技术官僚/中左内阁出台《好学校》（La Buona Scuola）法案，校长考核才得以勉强建制化。（pp. 255, 258）
@@ -339,15 +342,15 @@ issuing_organization: ""
 
 各国的抗争实践表明，公众抵抗与工会抵制虽然能够阶段性缓解问责压力，却难以动摇规制型治理的[[Data Infrastructure|数据基础设施]]。（pp. 261–263）
 
-> [!implication]- 防火墙效应与评估基础设施的制度韧性
-> 抵抗运动与工会抗争在客观上充当了“防火墙”（firewall），有效吸收或缓冲了针对学校与教师的刚性惩戒后果（如叫停排位表公布、废除惩罚性接管），却反向加固了国家大规模评估本身的合法性。政府往往通过“优化测验技术”、“强调诊断功能”等让步策略平息抗议，使标准化评估作为底层数据基础设施愈发稳固。（pp. 261–263）
+> [!implication]- [[Firewall Effect|防火墙效应]]与评估基础设施的制度韧性
+> 抵抗运动与工会抗争在客观上促发了[[Firewall Effect|防火墙效应]]（firewall effect），有效吸收或缓冲了针对学校与教师的刚性惩戒后果（如叫停排位表公布、废除惩罚性接管），却反向加固了国家大规模评估本身的合法性。政府往往通过“优化测验技术”、“强调诊断功能”等让步策略平息抗议，使标准化评估作为底层数据基础设施愈发稳固。（pp. 261–263）
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **治理工具的选择与演进具有深度[[Path Dependence|路径依赖]]** 数据密集型治理改革在落地时深度受到[[New Public Management|新公共管理]]市场化、[[Neo-Weberian State|新韦伯主义]]与拿破仑等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
+> 1. **治理工具的选择与演进具有深度[[Path Dependence|路径依赖]]** 数据密集型治理改革在落地时深度受到[[New Public Management|新公共管理]]市场化、[[Neo-Weberian State|新韦伯主义]]与[[Napoleonic Administrative Tradition|拿破仑行政传统]]等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
 > 2. **评估工具与问责后果的非同步演进** 国家评估体系通常先于问责制确立，且具有持续扩张覆盖学段与全员普查的自组织惯性；基于测验的问责后果则经历政治周期的起伏涨落与制度博弈。（pp. 255–258, 263）
 > 3. **政策[[Instrument Constituencies|工具支持群体]]的生成导致不可逆制度锁定** 评估外包与问责常态化孕育出由商业测试集团、数据分析公司与智库组成的政策工具支持群体，即便学术证据明确质疑测试效用，制度退出依然极其困难。（pp. 251, 259–260, 263–264）
 > 4. **微观集体行动具有防御性局限** 教师工会抵制与公众[[Opt-Out Movement|退考运动]]能够迫使政府调减局部利害或叫停官方排名，却难以瓦解国家评估作为底层治理装置的制度根基。（pp. 260–262）
@@ -384,7 +387,7 @@ issuing_organization: ""
 > [!warning]
 > 1. [[Literature Search|文献检索]]主要依赖英文索引数据库（Scopus），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。（p. 252）
 > 2. 既有实证研究多集中于宏观与中观维度的政策工具采纳与制度演变，对学校微观层面上校长与教师如何日常化再诠释、策略性挪用或隐性抵抗治理工具的经验证据相对匮乏。（p. 264）
-> 3. 针对不带刚性惩戒后果的软问责体系如何在学校生态中产生深层规训效应，实证积累依然不足。（p. 264）
+> 3. 针对不带刚性惩戒后果的[[Soft Accountability|软问责]]体系如何在学校生态中产生深层规训效应，实证积累依然不足。（p. 264）
 
 ---
 

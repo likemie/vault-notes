@@ -11,7 +11,7 @@ subtype: event
 region: "us"
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Progressive Education]]"
   - "[[Whole Person Education]]"
+  - "[[Firewall Effect]]"
   - "[[Data Infrastructure]]"
   - "[[Test-Based Accountability]]"
   - "[[National Large-Scale Assessments]]"
@@ -109,7 +110,7 @@ updated: 2026-10-21
 
 > [!indicators] 历史影响维度
 > - **制度调整与立法松绑** 推动多州削减考试科目与天数，叫停将学生考试成绩作为教师惩戒解聘依据的硬性规定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
-> - **防火墙效应与量化基底稳固** 运动有效迫使官方剥离了高利害惩戒后果，但官方通过宣传优化测试技术与强调发展性诊断功能，反向加固了国家统考基础设施的正当性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
+> - **[[Firewall Effect|防火墙效应]]与量化基底稳固** 运动有效迫使官方剥离了高利害惩戒后果，但官方通过宣传优化测试技术与强调发展性诊断功能，反向加固了国家统考基础设施的正当性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
 
 > [!finding-cards] 关键历史后果
 > - **终结高利害教师[[Learning Gain|增值评价]]法定义务** 迫使联邦 2015 年 [[Every Student Succeeds Act|ESSA]] 法案取消对教师评价与标准化考试挂钩的强制约束。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]

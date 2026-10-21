@@ -7,10 +7,10 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 37
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 42
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/institutionalism
   - theory/historical-institutionalism
@@ -20,11 +20,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Veto Possibilities]]"
   - "[[Enforcement Discretion]]"
+  - "[[Institutional Layering]]"
+  - "[[Institutional Conversion]]"
+  - "[[Institutional Drift]]"
+  - "[[New Public Management]]"
   - "[[Strategic Compliance]]"
   - "[[Institutional Displacement]]"
-  - "[[Institutional Layering]]"
-  - "[[Institutional Drift]]"
-  - "[[Institutional Conversion]]"
   - "[[Institutional Exhaustion]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
@@ -36,11 +37,15 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Causality]]"
   - "[[Institutional Complementarity]]"
+  - "[[National Large-Scale Assessments]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Pluralism]]"
   - "[[Path Dependence]]"
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Neo-Weberian State]]"
+  - "[[Napoleonic Administrative Tradition]]"
   - "[[Human Capital Theory]]"
   - "[[Varieties of Capitalism]]"
 related_methods:
@@ -58,8 +63,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
-  - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: active
 created: 2026-10-11
@@ -98,7 +103,7 @@ updated: 2026-10-21
 > - **2000 年代初 — [[Path Dependence|路径依赖]]的形式化[[Causal Modeling|因果建模]]** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000, 2004）与[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
 > - **2005 年 — 内生渐进演进形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
 > - **2009 年 — 行动者博弈模型确立与分析扩展** 马奥尼与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）出版《解释制度变迁》，建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”双维矩阵与四类行动者微观博弈模型，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，并被广泛应用于比较政治学与公共政策分析。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2019 年 — 教育政策领域的历史制度主义分析** 安东尼·维格（Antoni Verger）、路易斯·帕塞里萨（Lluís Parcerisa）与克拉拉·丰德维拉（Clara Fontdevila）将历史制度主义渐进演变理论（制度分层、制度转换与制度漂移）引入全球教育治理分析，揭示全球测试问责政策在英美新公共管理传统、欧洲新韦伯主义与拿破仑行政传统下的差异化折射轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
+> - **2019 年 — 教育政策领域的历史制度主义分析** 安东尼·维格（Antoni Verger）、路易斯·帕塞里萨（Lluís Parcerisa）与克拉拉·丰德维拉（Clara Fontdevila）将历史制度主义渐进演变理论（[[Institutional Layering|制度分层]]、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）引入全球教育治理分析，揭示全球测试问责政策在英美[[New Public Management|新公共管理]]传统、欧洲[[Neo-Weberian State|新韦伯主义]]与[[Napoleonic Administrative Tradition|拿破仑行政传统]]下的差异化折射轨迹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–252, 262–263)]]
 
 ---
 
@@ -189,7 +194,7 @@ updated: 2026-10-21
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向奠基之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与微观博弈矩阵。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 将历史制度主义渐进变迁机制（制度分层、制度转换与制度漂移）应用于全球教育治理与国家大尺度测评（NLSA）扩散研究，解释全球测评问责话语如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
+> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 将历史制度主义渐进变迁机制（制度分层、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）应用于全球教育治理与国家大尺度测评（[[National Large-Scale Assessments|NLSA]]）扩散研究，解释全球测评问责[[Discourse|话语]]如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
 
 ---
 
