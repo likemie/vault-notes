@@ -9,9 +9,9 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 63
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: Journal of Education Policy
 citation: "Grek, S. (2009). Governing by numbers: the PISA 'effect' in Europe. *Journal of Education Policy*, 24(1), 23–37. https://doi.org/10.1080/02680930802412669"
@@ -41,6 +41,9 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
+  - "[[PISA Reading Literacy]]"
+  - "[[PISA Mathematical Literacy]]"
+  - "[[Construct]]"
   - "[[Lifelong Learning]]"
   - "[[Self-Efficacy]]"
   - "[[Heterogeneity]]"
@@ -81,10 +84,12 @@ related_facts:
   - "[[World Bank]]"
   - "[[Education at a Glance]]"
   - "[[International Adult Literacy Survey]]"
+  - "[[Finnish PISA Miracle]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Chemie im Kontext]]"
   - "[[Physik im Kontext]]"
   - "[[SINUS]]"
+  - "[[PISA Response in England]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO]]"
   - "[[UOE Data Collection]]"
@@ -205,7 +210,7 @@ status: draft
 PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背景，将评估焦点转向 15 岁学生在成年现实生活情境中应用技能的能力。（pp. 26–27）
 
 > [!method-position] 测评[[Epistemology|认识论]]转向的三项重构
-> - **去情境化实用导向** 评估聚焦于测量学生进入劳动力市场所需的读写与数理核心能力，替代了对具体学校课程知识掌握程度的传统考查，同时使无法量化的公民参与、政治理解和历史文化素养边缘化。（pp. 26–27）
+> - **去情境化实用导向** 评估聚焦于测量学生进入劳动力市场所需的应用素养（确立以 [[PISA Reading Literacy]] 与 [[PISA Mathematical Literacy]] 为支柱的测评[[Construct|构念]]），替代了对具体学校课程知识掌握程度的传统考查，同时使无法量化的公民参与、政治理解和历史文化素养边缘化。（pp. 26–27）
 > - **[[Lifelong Learning|终身学习]]理念的前置化** 将传统仅针对成人的终身学习概念拓展至义务教育阶段，要求学生自我报告学习动机、[[Self-Efficacy|自我效能]]与学习策略。（p. 27）
 > - **自我规制主体塑造** 将量化数据的生产与学习主体的积极自我治理相连，把持续技能提升与自我优化的责任深植于个体内部，形成福柯式的[[Governmentality|治理术]]。（p. 27）
 
@@ -221,7 +226,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 #### 1. 芬兰意外夺冠成为全球样板，国内却反常收紧中央必修课
 
-不同国家面对 PISA 结果的反应展示了极大的体制[[Heterogeneity|异质性]]；芬兰在首届测评中的优异表现被国际社会冠以芬兰奇迹（Simola, 2005），但其国内的制度反应呈现出独特的防御性姿态。（pp. 28–29）
+不同国家面对 PISA 结果的反应展示了极大的体制[[Heterogeneity|异质性]]；芬兰在首届测评中的优异表现被国际社会冠以[[Finnish PISA Miracle|芬兰PISA奇迹]]（Simola, 2005），但其国内的制度反应呈现出独特的防御性姿态。（pp. 28–29）
 
 > [!case] 芬兰案例档案：奇迹叙事与防御性集权调整
 > - **历史参照系的反转** 芬兰传统上习惯于向外国寻求教育改革模式，长年以德国作为制度借鉴典范；PISA 结果公布后芬兰突然从学习追随者转变为全球学习典范（Välijärvi et al., 2002, p. 3）。（p. 28）
@@ -243,7 +248,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 #### 3. 英国拿亮眼排名为既有路线背书，英格兰与苏格兰借数据各取所需
 
-经合组织将联合王国视为单一国家实体，但在实际操作中英格兰的政策动员与苏格兰展现出完全分立的反应机制。（pp. 30–32）
+经合组织将联合王国视为单一国家实体，但在实际操作中[[PISA Response in England|英格兰PISA政策回应]]与苏格兰展现出完全分立的反应机制。（pp. 30–32）
 
 > [!case] 联合王国案例档案：英格兰政策惯性与苏格兰自主防御
 > - **分立的施测架构与应答危机** 英国由各法域独立实施；英格兰教育与技能部（Department for Education and Skills, DfES，后改组为儿童、学校与家庭部，Department for Children, Schools and Families, DCSF）委托英国国家统计局社会调查处（Office for National Statistics, ONS）开展；苏格兰行政院委托格拉斯哥大学苏格兰教育研究委员会（Scottish Council for Research in Education, SCRE）开展；英格兰在 2000 与 2003 年因学校数据负担过重，遭遇样本应答率不达标危机。（p. 30）
