@@ -11,10 +11,10 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式；在当代教育治理中，经合组织与各主权国家将远程调控转化为以跨国比较绩效、国际基准与基于测验的问责工具，作为统驭碎片化多层教育系统的制度机制。"
 type: concept
 domain: "higher-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 46
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/governance
   - level/higher-education
@@ -37,8 +37,12 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Governing by Numbers]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[National Large-Scale Assessments]]"
+  - "[[Test-Based Accountability]]"
+  - "[[Academic Achievement]]"
   - "[[Pillarization]]"
   - "[[Open-Mindedness]]"
+  - "[[Variable]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Educational Governance Framework]]"
@@ -66,11 +70,14 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Process Tracing]]"
+  - "[[Systematic Review]]"
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Steering at a Distance
@@ -134,7 +141,7 @@ updated: 2026-10-21
 > - **统包式经费划拨（[[Block Grants|block grant]] Funding）** 采用简洁透明的模型核算整体办学经费，以单一总额拨款形式直拨高校，不预设具体开支科目，赋予学校财务运筹自由度。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **有限事后纠偏原则（Ex-Post Defect Correction）** 政府常规性退出高校日常办学管理；仅当机构自治导致严重危害公共利益的不可接受后果时，方可启动法定的事后有限干预。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 139)]]
 > - **跨国比较绩效与远处掌舵技术（Comparative Performance Measures as Steering Technology）** [[OECD|经合组织]]将“远距离操纵/远程掌舵”从主权国家内部行政分权拓展为超国家[[Governing by Numbers|数字治理]]机制，依托国际基准对标（benchmarking）、质量保证体系、[[PISA]] 联赛排位与透明问责规制，在不享有法定主权管辖权的前提下，实现了对各成员国及非成员经济体教育政策优先事项的远程调控。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
-> - **政策网络多重理性与负反馈支柱（Policy Network & Cybernetic Homeostasis）** 高等教育由专业学者群体构成，各学科具备独立价值标准，无法被自上而下的单一总体理性所包揽；远距离操纵通过建立“质量监测 ➔ 偏差比对 ➔ 事后信息反馈回路”，兼顾了基层组织的微观学术活力与宏观政策稳定。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–151)]]
+> - **[[Policy Network|政策网络]]多重理性与负反馈支柱（Policy Network & Cybernetic Homeostasis）** 高等教育由专业学者群体构成，各学科具备独立价值标准，无法被自上而下的单一总体理性所包揽；远距离操纵通过建立“质量监测 ➔ 偏差比对 ➔ 事后信息反馈回路”，兼顾了基层组织的微观学术活力与宏观政策稳定。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–151)]]
 
 > [!logic-map]- 远距离操纵运行架构
 > ```mermaid
@@ -195,7 +202,7 @@ updated: 2026-10-21
 > 探讨国家在面临分权化与网络化碎片治理困境时，如何通过标准化测验与绩效问责工具重建远程统驭权。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; Neave (1998); Maroy (2009)
-> **规制与评估工具作为多层系统的远程调控载体** 安东尼·维格等指出，近几十年来各国公共教育治理普遍经历权力下放、自主权扩张与多层网络分化；面对日益碎片化和多层级的教育系统，主权国家在分权背景下转向开发学习标准、国家大规模评估与基于测验的问责制等规制性与评估性政策工具。依据评价国家（Evaluative State）与政策工具理论，评估工具超越了纯粹中立的技术外观，构成国家实施远程调控（steering at a distance）的核心制度载体；通过由国家集中设定绩效标准、全员监测学业表现并挂钩差异化制裁，中央政府得以在保持形式放权的同时，重新确立起对基础教育体系的战略调控与规制统驭权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]
+> **规制与评估工具作为多层系统的远程调控载体** 安东尼·维格等指出，近几十年来各国公共教育治理普遍经历权力下放、自主权扩张与多层网络分化；面对日益碎片化和多层级的教育系统，主权国家在分权背景下转向开发学习标准、[[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]等规制性与评估性政策工具。依据评价国家（Evaluative State）与政策工具理论，评估工具超越了纯粹中立的技术外观，构成国家实施远程调控（steering at a distance）的核心制度载体；通过由国家集中设定绩效标准、全员监测[[Academic Achievement|学业表现]]并挂钩差异化制裁，中央政府得以在保持形式放权的同时，重新确立起对基础教育体系的战略调控与规制统驭权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]
 
 ---
 
@@ -255,8 +262,8 @@ updated: 2026-10-21
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kickert_1995_Governance\|Kickert (1995, pp. 145–146)]] | 荷兰高等专业教育（HBO）大兼并与大学任务分工体系 | 历史政策过程追踪与官方统计核查 | 机构重组规模、财政削减幅度与统包预算推行成效 | 350 所 HBO 机构自主合并为 50 所大型学院并承担 9700 万荷盾削减；研究型大学自组 TVC 完成 2.57 亿荷盾预算削减与 6000 万内部储蓄 | 官方预算决算档案实录 | 证实专业网络具备自组织调节潜能，但依附于国家财政紧缩背景 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 248–252)]] | 全球 158 篇涵盖经合组织与拉美国家的教育治理文献 | [[Systematic Review\|系统文献综述]]与国别政策分析 | 标准、全员测验与问责工具在应对分权化碎片系统中的采纳广度 | 证实评估与问责工具成为各国在分权后实施远程调控（steering at a distance）的核心载体，但在不同行政传统下呈现显著的治理轨迹分化 | 质性系统综述 | 揭示国家治理工具对多层系统的远程调控机制及制度折射限度 |
+> | [[Argument_Kickert_1995_Governance\|Kickert (1995, pp. 145–146)]] | 荷兰高等专业教育（HBO）大兼并与大学任务分工体系 | 历史政策[[Process Tracing\|过程追踪]]与官方统计核查 | 机构重组规模、财政削减幅度与统包预算推行成效 | 350 所 HBO 机构自主合并为 50 所大型学院并承担 9700 万荷盾削减；[[Research Universities\|研究型大学]]自组 TVC 完成 2.57 亿荷盾预算削减与 6000 万内部储蓄 | 官方预算决算档案实录 | 证实专业网络具备自组织调节潜能，但依附于国家财政紧缩背景 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 248–252)]] | 全球 158 篇涵盖[[OECD\|经合组织]]与拉美国家的教育治理文献 | [[Systematic Review\|系统文献综述]]与国别政策分析 | 标准、全员测验与问责工具在应对分权化碎片系统中的采纳广度 | 证实评估与问责工具成为各国在分权后实施远程调控（steering at a distance）的核心载体，但在不同行政传统下呈现显著的治理轨迹分化 | 质性系统综述 | 揭示国家治理工具对多层系统的远程调控机制及体制中介调控限度 |
 
 ---
 
@@ -265,4 +272,4 @@ updated: 2026-10-21
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。
-> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，揭示标准、统考与问责等规制性工具如何充当现代国家在分权化情境下统驭碎片化多层教育系统的远程调控中介（pp. 248–250）。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献[[Systematic Review|系统综述]]，揭示标准、统考与问责等规制性工具如何充当现代国家在分权化情境下统驭碎片化多层教育系统的远程调控中介（pp. 248–250）。

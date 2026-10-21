@@ -130,7 +130,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球范围内以国家大规模评估、基于测验的问责制和国家学习标准为核心的数据密集型治理工具体系。（p. 249）
-> - **张力** 全球[[Convergence Theory in Comparative Education|趋同论]]（如[[Global Education Reform Movement|全球教育改革运动]]倡导的同质化政策工具包）与[[Historical Institutionalism|历史制度主义]]情境敏感性（本土行政体制的[[Path Dependence|路径依赖]]与制度折射）之间的解释冲突。（pp. 249–250）
+> - **张力** 全球[[Convergence Theory in Comparative Education|趋同论]]（如[[Global Education Reform Movement|全球教育改革运动]]倡导的同质化政策工具包）与[[Historical Institutionalism|历史制度主义]]情境敏感性（本土行政体制的[[Path Dependence|路径依赖]]与中介调节）之间的解释冲突。（pp. 249–250）
 > - **贡献** 构建了审视教育治理工具变迁的社会历史分析视角，提出行政传统三维分化模型（[[New Public Management|新公共管理]]〔New Public Management, NPM〕市场化、[[Neo-Weberian State|新韦伯主义]]与拿破仑传统），揭示了评估扩张与问责涨落的非同步累积机制。（pp. 250–252, 262–264）
 
 ---

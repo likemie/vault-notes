@@ -182,7 +182,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # OECD
@@ -458,4 +458,4 @@ updated: 2026-10-21
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO [[Test Production\|测验生产]]早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 考证经合组织在跨国政策借用连续谱中扮演的协商性政策转移（Negotiated Transfer）与软法中介治理机制。 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | Argument | 解析经合组织如何依托 PISA 硬事实确立[[Cognitive Authority\|认知权威]]与[[Boundary Spanner\|知识经纪人]]角色，通过探究与调解双模重构主权国家内部权力格局。 |
-> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析经合组织推动的[[New Public Management\|新公共管理]]与测评问责工具在全球三大行政传统下的分层扩散与制度折射。 |
+> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析经合组织推动的[[New Public Management\|新公共管理]]与测评问责工具在全球三大行政传统下的分层扩散与中介调节。 |
