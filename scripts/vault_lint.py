@@ -2964,6 +2964,87 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument (run scripts/vault_index.py to auto-link): {display}", line=line_no, code="CITATION_UNLINKED"))
 
 
+# ARGUMENT_RAW_SELF_ALIAS: an Argument page citing its own source as raw text,
+# e.g. "(Ball, 2008, p. 12)". The linker never links self-citations and
+# ARGUMENT_SELF_CITATION only sees wikilinks, so this form slipped through.
+PAREN_GROUP_RE = re.compile(r"[（(]([^（）()\n]{2,300})[）)]")
+PAGE_LOCATOR_RE = re.compile(r"^(pp?)\.?\s*(\d[\d\s,–—-]*\d|\d)$", re.IGNORECASE)
+SELF_PART_OF_RE = re.compile(r"^part_of:\s*[\"']?\[\[([^\]|#]+)", re.M)
+
+
+def _norm_citation_text(value: str) -> str:
+    value = unicodedata.normalize("NFKC", value)
+    return re.sub(r"\s+", " ", value).strip().casefold()
+
+
+def argument_self_parenthetical_aliases(path: Path, fm: Optional[str], data: Dict[str, Any], argument_citations: Dict[str, Dict[str, Any]]) -> Set[str]:
+    """Parenthetical ("Author, Year") forms of this page's own citation:
+    its citation_aliases, its index entry, and the part_of parent it inherits from."""
+    aliases: Set[str] = set()
+    own = data.get("citation_aliases")
+    if isinstance(own, list):
+        aliases.update(a for a in own if isinstance(a, str))
+    targets = {path.stem}
+    m = SELF_PART_OF_RE.search(fm or "")
+    if m:
+        targets.add(m.group(1).strip())
+    for target in targets:
+        aliases.update(a for a in (argument_citations.get(target) or {}).get("aliases", []) if isinstance(a, str))
+    # Narrative forms ("Ball (2008)") are not parenthetical citations.
+    return {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
+
+
+def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
+    """'' if the segment is a bare self alias, the page locator if alias + pages, else None."""
+    # A leading "|" / "\|" is residue of a removed self-wikilink "[[Argument_…|".
+    norm = _norm_citation_text(re.sub(r"^[\s\\|]+", "", segment))
+    for alias in aliases:
+        if norm == alias:
+            return ""
+        if norm.startswith(alias) and norm[len(alias):len(alias) + 1] == ",":
+            loc = PAGE_LOCATOR_RE.match(norm[len(alias) + 1:].strip())
+            if loc:
+                pages = re.sub(r"\s+", "", loc.group(2)).replace("-", "–").replace("—", "–")
+                pages = re.sub(r",(?=\d)", ", ", pages)
+                return f"{loc.group(1).lower()}.{pages}"
+    return None
+
+
+def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+    if not is_argument_entry(data) or not is_wiki_entry_path(path):
+        return
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+    fm, body, body_start_line = split_frontmatter(text)
+    if fm is None:
+        return
+    aliases = argument_self_parenthetical_aliases(path, fm, data or {}, argument_citations)
+    if not aliases:
+        return
+    scan = strip_existing_wikilinks(mask_markdown_code(mask_h2_sections_preserve(body, ["来源", "Sources", "Source"])))
+    for m in PAREN_GROUP_RE.finditer(scan):
+        segments = re.split(r"[;；]", m.group(1))
+        found = [(seg.strip(), _self_alias_locator(seg, aliases)) for seg in segments]
+        hits = [(seg, loc) for seg, loc in found if loc is not None]
+        if not hits:
+            continue
+        opening, closing = ("（", "）") if m.group(0).startswith("（") else ("(", ")")
+        pages = [loc for _, loc in hits if loc]
+        if len(hits) == len(segments):
+            advice = f"简化为纯页码 {opening}{'; '.join(pages)}{closing}" if pages else "删除该括注，或改为纯页码"
+        else:
+            others = "; ".join(seg for seg, loc in found if loc is None)
+            advice = f"改为 {opening}{others}{closing}" + (f"，本文献页码另写 {opening}{'; '.join(pages)}{closing}" if pages else "")
+        if "|" in m.group(1):
+            advice += "；括注内残留的 | 来自已删除的自引链接，一并去掉"
+        issues.append(Issue(
+            "WARN", rel(path),
+            f"Argument 页以裸文本括注引用了本文献 {m.group(0)!r}；{advice}",
+            line=line_of_pos(body, m.start(), body_start_line),
+            code="ARGUMENT_RAW_SELF_ALIAS",
+        ))
+
+
 def check_journal_naming(path: Path, data: Dict[str, Any], issues: List[Issue]) -> None:
     from citation_index import article_problem, is_legacy, load_registry
     try:
@@ -3273,6 +3354,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_source_record(path, text, issues)
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
+    check_argument_raw_self_alias(path, text, data, argument_citations, issues)
     check_duplicate_citations(path, text, data, issues)
     check_related_research_duplicate_books(path, text, by_title, issues)
     check_related_research_entry_length(path, text, issues)

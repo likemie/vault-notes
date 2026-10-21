@@ -39,6 +39,10 @@ related_persons: []
 related_facts:
   - "[[Centros Concertados]]"
   - "[[Chilean Educational Reform of 1981]]"
+  - "[[SNED]]"
+  - "[[Ley SEP]]"
+  - "[[Docentemás]]"
+  - "[[Alto al SIMCE]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
@@ -86,9 +90,9 @@ updated: 2026-10-21
 
 > [!dev-timeline] 项目推进历程
 > - **1988–1994 — 初始监测与课程控制期** 军政府时期设立，初期主要作为低利害监测工具，用于评估新课程大纲实施情况并向家长提供基础信息。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
-> - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入国家学校绩效评估系统（Sistema Nacional de Evaluación del Desempeño, SNED），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
-> - **2008–2013 — 弱势补贴挂钩与惩罚性强化** 颁布《优惠学校补贴法》（Ley de Subvención Escolar Preferencial, SEP），向处境不利学生提供额外财政补助，但强制绑定 SIMCE 达标改善协议；连续四年未见改善的薄弱学校面临吊销办学资质与关停接管。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
-> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“停止 SIMCE 运动”（Alto al SIMCE），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入国家学校绩效评估系统（[[SNED]]），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
+> - **2008–2013 — 弱势补贴挂钩与惩罚性强化** 颁布《优惠学校补贴法》（[[Ley SEP]]），向处境不利学生提供额外财政补助，但强制绑定 SIMCE 达标改善协议；连续四年未见改善的薄弱学校面临吊销办学资质与关停接管。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
+> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“停止 SIMCE 运动”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
 
@@ -143,6 +147,11 @@ updated: 2026-10-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Chilean Educational Reform of 1981]] | Fact (Policy) | SIMCE 所服务的教育券制度与[[Educational Privatisation\|教育私有化]]改革基础。 |
+| [[SNED]] | Fact (Program) | 依据 SIMCE 成绩与增值向排名前 25% 学校发放团队绩效奖金的制度。 |
+| [[Ley SEP]] | Fact (Policy) | 依据 SIMCE 表现对薄弱学校实施资金管控与关停制裁的优先学校补贴法案。 |
+| [[Docentemás]] | Fact (Program) | 针对教师个人专业实践开展考核并与 SIMCE 构成多维国家问责的评估系统。 |
+| [[Alto al SIMCE]] | Fact (Event) | 批判 SIMCE 高利害问责导致教育异化并发起联合抵制的社会运动。 |
+| [[Test-Based Accountability]] | Concept | SIMCE 历经分层演变所构筑的基于测验的高利害问责模式。 |
 > | [[Test-Based Accountability]] | Concept | SIMCE 历经分层演变所构筑的基于测验的高利害问责模式。 |
 > | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的[[Theory of Gradual Institutional Change\|制度变迁理论]]构件。 |
 > | [[School Choice]] | Concept | SIMCE 成绩单所支持的家长择校与校际竞争机制。 |

@@ -256,7 +256,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 - 括号式：`(Ball, 2008a)`、`(Ball, 2008a, p. 12)`、`(Ball, 2008a, pp. 12–15)`。
 - 叙述式：`Ball (2008a)`、`Ball (2008a, p. 12)`、`Ball (2008a, pp. 12–15)`。
 
-Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。可引用 Argument 的完整 `citation` 不得缺失或为空；专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。`citation_index.py --check` 同样检查完整引用是否为空。
+Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）；正文以裸文本括注写出本文献（含 `part_of` 继承的全书）`citation_aliases` 的，`vault_lint.py` 以 `ARGUMENT_RAW_SELF_ALIAS` 提示简化为纯页码。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。可引用 Argument 的完整 `citation` 不得缺失或为空；专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。`citation_index.py --check` 同样检查完整引用是否为空。
 
 非 Argument 条目（Concept、Theory、Method、Instrument、Person、Fact）引用 Argument 时，wikilink 显示文本必须包含作者与年份，可继续附页码或章节，例如 `[[Argument_Author_Year_Journal|Author, Year, p. 12]]` 或 `[[Argument_Author_Year_Journal|Author (Year, Ch. 1)]]`；不得只写 `p. 12`、`pp. 12–15`、`Ch. 1` 或裸 `[[Argument_...]]`。
 
