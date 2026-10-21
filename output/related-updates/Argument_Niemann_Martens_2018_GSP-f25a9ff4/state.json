@@ -427,7 +427,7 @@
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -445,7 +445,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T10:08:12.150983+00:00"
     },
     {
       "number": 7,

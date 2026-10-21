@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -65,10 +65,11 @@ related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Comparative Policy Analysis
@@ -86,20 +87,17 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 国家政府、超国家机构（如[[EU|欧洲联盟]]委员会）、次国家行政区（如联邦州、大区或自治区）、政策项目与跨国企业主体。
 > - **输出形式** 结构化跨国政策对比矩阵、政策工具类型学归纳、话语建构解构叙事、因果机制推演与政策有效性评估。
 
-> [!citation-card]
-> **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] 五维比较政策分析架构**
+> [!citation-card] Bulfone et al. 论五维比较政策分析架构
 > 借鉴产业政策文献中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对[[Geopolitics|地缘政治]]调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
 >
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
-> [!citation-card]
-> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较**
+> [!citation-card] Sobe and Fischer 论跨大西洋政策话语与空间治理术比较
 > 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的漂泊（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*
 
-> [!citation-card]
-> **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 跨国治理坐标系下的[[Educational Decentralization|教育分权]]与学制比较政策分析**
+> [!citation-card] García Garrido 论跨国治理坐标系下的教育分权与学制比较
 > 比较政策分析通过将单一国家的制度演进（如西班牙由极度集权走向 17 个自治区分权、以及从 1970 年综合教育走向 1990 年延长至 16 岁均质化学制）置于英、美、德、法、意与北欧等欧洲主要国家的跨国横向坐标系下，构建涵盖权力纵向配置重心、中央协调机制、分流节点年龄与高中衔接深度的比较矩阵。这一比较不仅打破了以邻国为片面参照的诉苦式修辞借用，更揭示出后发转型国家激进照搬政策原则时脱离国际审慎调适共识所导致的结构性病理。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–322, 325–331)]]
 >
 > *The European Union, in educational matters, is none other than the sum of all its parts... It is easy to understand the need for a comparative approach when we try to contemplate a particular reality... from an authentic European perspective.*
@@ -108,7 +106,7 @@ updated: 2026-10-20
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
+> [!method-position] 认识论与方法定位
 > - **知识观** [[Historical Institutionalism|历史制度主义]]、批判[[Discourse Analysis|话语分析]]与跨国制度比较取向；强调政策文本是特定权力分配、政党联盟妥协、财政宪制结构、历史[[Path Dependence|路径依赖]]与空间治理理性的制度产物，深嵌着非中立的价值与政治立场。
 > - **研究者角色** 结构性制度侦测者、政策文本解构者与制度病理诊断者；通过跨案例多维对照与跨国[[Discourse|话语]]平行比对提炼一般性机制，克服单一国家[[Case Study|案例研究]]的局部盲视与后发国家的自我辩护修辞。
 > - **有效性标准** 维度界定的概念清晰度与功能等价性（Functional Equivalence）、跨案例法律文本与实证治理数据的相互印证、话语解构的文本扎根度，以及推论逻辑对制度[[Heterogeneity|异质性]]与执行断层的解释力。
@@ -157,6 +155,7 @@ updated: 2026-10-20
 >   - 透视具有多层级治理特征的复合政体（如[[EU|欧盟]]）与单一联邦国家（如美国）之间的治理机制分殊与主权张力。
 >   - 解析不同政治文化对弱势群体流动性、公民权资格与空间排斥的政策[[Discourse|话语]]构建机制（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）。
 >   - 诊断后发国家在学制改革与[[Educational Decentralization|教育分权]]中出现的激进化偏差与制度脱节病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）。
+>   - 检验跨国量化评估与软治理工具在不同主权国家引发的异质性国内政策反应与权力重构机制（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, pp. 276–278]]）。
 > - **谨慎使用**
 >   - 缺乏法律文本实际落地细则与基层执行实证反馈的静态法条罗列，极易陷入纸面政策等价的假象。
 > - **不适合使用**
@@ -192,7 +191,7 @@ updated: 2026-10-20
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 PISA 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差异化重塑机制。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 运用比较政策分析方法，对比德、丹、瑞、日、以、美、英、芬等国在面对 PISA 国际测评硬事实时的异质性政治反应，揭示软治理工具对各国国内改革议程与利益博弈格局的差异化重塑机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
