@@ -7,10 +7,10 @@ aliases:
 summary: "安德烈·布鲁姆（André Broome）与伦纳德·西布鲁克（Leonard Seabrooke）等学者提出的国际政治学与全球治理构念，指国际组织在缺乏法定强制管辖权的前提下，依托专业技术知识、去政治化的理性声誉与标准化数据生产，被主权国家公认为界定政策现实与提供决策咨询的合法权威形态。"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e2e8f0"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - theme/global-governance
@@ -105,8 +105,8 @@ updated: 2026-10-21
 > [!concept-lens] 权威构建与合法性机制
 > 探讨无强制制裁手段的国际机构如何凭借技术理性外观突破委托代理理论预设的权力边界。
 
-> [!claim] Broome and Seabrooke (2012); Niemann and Martens (2018)
-> **技术理性声誉与自主权威生成** 传统委托代理理论假定国际组织仅为主权国家的仆从；国际组织社会学则指出，国际组织通过发展内部行政网络与专业工作机制，能够获取超越原始委托范围的自主行动空间。当国际组织在特定领域展现出严密、理性和不偏不倚的技术官僚专业水准时，便被政策社群接纳为合法的“认知权威”。这种权威并非源于主权条约的法理授权，而是在持续的专业实践、知识供给与声誉积累中自发建构，使国际组织提出的政策方案具备不可轻易否定的客观正当性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–270)]]
+> [!claim] Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
+> **技术理性声誉与自主权威生成** 传统委托代理理论假定国际组织仅为主权国家的仆从；国际组织社会学则指出，国际组织通过发展内部行政网络与专业工作机制，能够获取超越原始委托范围的自主行动空间。当国际组织在特定领域展现出严密、理性和不偏不倚的技术官僚专业水准时，便被政策社群接纳为合法的“认知权威”。这种权威主要在持续的专业实践、知识供给与声誉积累中自发建构，独立于主权条约的法理授权，使国际组织提出的政策方案具备不可轻易否定的客观正当性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–270)]]
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-10-21
 > [!concept-lens] 知识转化与议程介入模式
 > 阐释国际组织如何通过两阶段认知加工将客观统计数据转变为重塑国内利益格局的规制力量。
 
-> [!claim] Mahon and McBride (2009); Niemann and Martens (2018)
+> [!claim] Mahon and McBride (2009); [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **探究与调解模式的协同推进** 认知权威对政策现实的建构通过探究模式与调解模式的递进协同得以完成。在探究模式下，国际组织开展系统的信息收集，将零散事实根据自身价值理念加工为具备因果解释力的实质性知识，夺取对“问题何在”的定义权；在调解模式下，国际组织直接介入公共政策讨论，依据提炼出的最佳实践向成员国公开发布政策指南与横向参照蓝图。通过向国内利益团体提供权威的论辩弹药，国际组织赋能偏好相同改革的本土联盟，间接改变国内决策的力量均衡。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 271, 277–278)]]
 
 ---
@@ -125,8 +125,8 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术理性声誉与自主权威** | 阐明国际组织如何依托专业特长与客观声誉获取超越主权委托的认知统治力 | 缺乏硬法制裁权的多边治理机构（如 [[OECD]]、[[World Bank]]） | Broome & Seabrooke (2012); Niemann and Martens (2018) |
-> | **探究与调解知识转化** | 揭示从原始数据采集到问题界定、再到国内政治动员的两阶段软治理路径 | 跨国大规模测评与比较政策咨询的推广过程 | Mahon & McBride (2009); Niemann and Martens (2018) |
+> | **技术理性声誉与自主权威** | 阐明国际组织如何依托专业特长与客观声誉获取超越主权委托的认知统治力 | 缺乏硬法制裁权的多边治理机构（如 [[OECD]]、[[World Bank]]） | Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
+> | **探究与调解知识转化** | 揭示从原始数据采集到问题界定、再到国内政治动员的两阶段软治理路径 | 跨国大规模测评与比较政策咨询的推广过程 | Mahon and McBride (2009); [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-10-21
 > > 争论认知权威生产的知识究竟是促进理性决策的客观工具，还是强加特定意识形态的软性控制霸权。
 > >
 > > - **建制派官员与国际机构** 坚称认知权威为成员国提供了反映系统表现的中立镜子，有助于破除国内利益集团的非理性阻挠。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
-> > - **批判学者（Niemann & Martens, 2018）** 指出认知权威看似客观的技术测量背后暗含特定价值偏好（如新自由主义人力资本框架），通过将特定指标设定为卓越标准实现软性规制。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
+> > - **批判学者（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）** 指出认知权威看似客观的技术测量背后暗含特定价值偏好（如新自由主义人力资本框架），通过将特定指标设定为卓越标准实现软性规制。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
 
 > [!critique] 外部批评
 > - **民主问责赤字** 批评者指出，由巴黎或华盛顿的技术官僚构筑的认知权威远离地方选民，主权国家政策被无民意基础的跨国专家所规训，削弱了公共教育决策的民主合法性。
@@ -164,11 +164,11 @@ updated: 2026-10-21
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens (2018, pp. 272, 275, 278)]] | 全球 495 个国际组织数据库；80 余个参与 PISA 测评国家与地区 | 跨国组织数据库分析与多国案例比较 | 涉教育国际组织占比；PISA 驱动国内改革比例；国际参与规模扩张 | 战争关联（Correlates of War）数据库中 495 个国际组织有 20 个（4.0%）深度介入教育；约 50% 的 PISA 参与国在测验后直接启动国内教育改革；PISA 参与国从 2000 年 32 个增至约 80 个 | — | 实证证实了经合组织作为无直接法权的国际组织，凭借 PISA 认知权威对全球半数参与国教育决策产生直接规制影响 |
+> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 272, 275, 278)]] | 全球 495 个国际组织数据库；80 余个参与 PISA 测评国家与地区 | 跨国组织数据库分析与多国案例比较 | 涉教育国际组织占比；PISA 驱动国内改革比例；国际参与规模扩张 | 战争关联（Correlates of War）数据库中 495 个国际组织有 20 个（4.0%）深度介入教育；约 50% 的 PISA 参与国在测验后直接启动国内教育改革；PISA 参与国从 2000 年 32 个增至约 80 个 | — | 实证证实了经合组织作为无直接法权的国际组织，凭借 PISA 认知权威对全球半数参与国教育决策产生直接规制影响 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens (2018)]] — 以经合组织及其 PISA 测评为例，揭示无强制法权的国际组织如何依托认知权威与数据硬事实施展软治理并重塑多国教育政策议程。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 以经合组织及其 PISA 测评为例，揭示无强制法权的国际组织如何依托认知权威与数据硬事实施展软治理并重塑多国教育政策议程。

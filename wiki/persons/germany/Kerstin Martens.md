@@ -97,9 +97,9 @@ updated: 2026-10-21
 >   - **代表著作** *NGOs and the United Nations* (Palgrave, 2006)。
 >   - **关键概念／方法** Institutionalism、Global Civil Society。
 >   - **阶段转向** 从民间社会的自下而上游说转向政府间国际组织（尤其是 [[OECD]]）自上而下的政策渗透与软治理机制。
-> - **2010–2018 — 经合组织的软治理与“硬[[Soft Power by Hard Facts\|事实软实力]]”框架** 创立“以硬事实施展[[Soft Power\|软权力]]”理论体系，系统解构经合组织如何凭借 [[PISA]] 与比较指标改变成员国内部改革议程。
->   - **代表著作** *Mechanisms of OECD Governance* (Oxford, 2010); *Soft Power by Hard Facts* (CER, 2013)。
->   - **关键概念／方法** [[Soft Power by Hard Facts]]、[[Peer Pressure]]、[[PISA]]。
+> - **2010–2018 — 经合组织的软治理与“硬[[Soft Power by Hard Facts|事实软实力]]”框架** 创立“以硬事实施展[[Soft Power|软权力]]”理论体系，系统解构经合组织如何凭借 [[PISA]] 与比较指标改变成员国内部改革议程。
+>   - **代表著作** *Mechanisms of OECD Governance* (Oxford, 2010); *Soft Power by Hard Facts* (CER, 2013); *Soft Governance by Hard Fact?* (Global Social Policy, 2018)。
+>   - **关键概念／方法** [[Soft Power by Hard Facts]]、[[Cognitive Authority]]、[[Peer Pressure]]、[[PISA]]。
 >   - **阶段转向** 从单一聚焦 OECD 转向对全球所有涉足教育事务的 30 余个政府间组织的系统量化实证普查。
 > - **2019年至今 — 全球社会政策动态与[[Education-for-Mandates\|使命性教育嵌入]]** 构建 IO-ED 数据库，揭示大量经济、安全与政治组织如何将教育作为服务其核心使命的工具性载体跨界介入。
 >   - **代表著作** *Education in IO Mandates* (2024); *[[Governing by Numbers\|governance by numbers]] 2.0* (Comparative Education, 2024)。
@@ -129,6 +129,7 @@ updated: 2026-10-21
 > - **跨国／跨领域传播** 成果跨越比较政治学、社会政策学、公共行政学与教育学，在全欧乃至全球社会科学界产生跨学科[[Demonstration Effect|示范效应]]。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 主导提出核心理论构想，系统论证经合组织如何依托数据硬事实构筑认知权威、充当知识经纪人并引导成员国教育改革。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
 > - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“比较转向”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学客观主义品牌的软治理技术。
@@ -173,7 +174,8 @@ updated: 2026-10-21
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Soft Power by Hard Facts]] | 概念 | 核心开创者，建立量化硬事实转换为软性规制权力的理论[[Analytic Framework\|分析框架]]。 |
+> | [[Soft Power by Hard Facts]] | 概念 | 核心开创者，建立量化硬事实转换为软性规制权力的理论[[Analytic Framework|分析框架]]。 |
+| [[Cognitive Authority]] | 概念 | 理论应用者，将认知权威构念引入全球教育多边治理与软治理机制分析。 |
 > | [[Education-for-Mandates]] | 概念 | 提出者与数据库主持人，揭示非专门国际组织跨界干预教育的使命嵌入机制。 |
 > | [[Policy Brokerage]] | 概念 | 理论奠基者之一，剖析国际组织作为政治化政策中介的运转逻辑。 |
 > | [[Façade of Rationality]] | 概念 | 关键[[Dialogue in Education\|对话]]者，论证数字指标如何为充满歧义性的政策行动搭建理性外衣[[Scaffolding\|脚手架]]。 |

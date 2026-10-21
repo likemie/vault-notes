@@ -511,6 +511,16 @@
     ]
   },
   {
+    "title": "Cognitive Authority",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Cognitive Authority.md",
+    "aliases": [
+      "认知权威",
+      "认知性权威",
+      "cognitive authorities"
+    ]
+  },
+  {
     "title": "Comparative Education as a Cross-Sectional Area",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md",
@@ -38393,6 +38403,11 @@
     "title": "Argument_Song_Choi_2026_FPSYG",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md"
+  },
+  {
+    "title": "Argument_Niemann_Martens_2018_GSP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
   },
   {
     "title": "Argument_Beech_2015_GSE",
