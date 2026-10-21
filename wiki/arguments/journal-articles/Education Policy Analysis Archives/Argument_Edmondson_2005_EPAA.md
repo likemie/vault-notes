@@ -62,20 +62,21 @@ related_facts:
   - "[[Open Court Reading]]"
   - "[[Business Roundtable]]"
   - "[[National Reading Panel]]"
+  - "[[FairTest]]"
 related_arguments: []
 sources:
   - "[[sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]"
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -316,7 +317,7 @@ issuing_organization: ""
 > - **阵线一：深耕本土实践与行使合宪抵制权**
 >   美国联邦宪法并未赋予联邦政府直接管理教育课程的权力，联邦政府通常只能以巨额财政补贴作为政策诱饵（Linn, 2003）。因此地方学区拥有完全合宪的权利拒绝附带不合理教学限制的资金。宾夕法尼亚州数个学区面对后续带有严苛拼读限制的联邦阅读优先（Reading First）资助，坚决选择不予申请，以保护本学区多年证明行之有效的多元读写课程，树立了地方自治与专业坚守的典范。（p. 13）
 > - **阵线二：走出专业孤岛与广泛社会大众结盟**
->   教育组织必须摆脱行业精英主义，放弃高层封闭密室谈判，主动走向更广泛的公共领域。专业协会应积极联合全国公平与公开测试中心（National Center for Fair & Open Testing, FairTest）、家长教师协会（Parent-Teacher Association, PTA）以及基层青年组织（例如东费城青年联合求变组织 Youth United for Change）。正如南希·弗雷泽（Nancy Fraser, 1997）与瓦尔特·帕克（Walter Parker, 2003）所指出的，健康的民主不能停留在消极容忍差异，而必须在社会各阶层的广泛团结中推进资源公正分配。（pp. 13–14）
+>   教育组织必须摆脱行业精英主义，放弃高层封闭密室谈判，主动走向更广泛的公共领域。专业协会应积极联合全国公平与公开测试中心（[[FairTest|National Center for Fair & Open Testing]], FairTest）、家长教师协会（Parent-Teacher Association, PTA）以及基层青年组织（例如东费城青年联合求变组织 Youth United for Change）。正如南希·弗雷泽（Nancy Fraser, 1997）与瓦尔特·帕克（Walter Parker, 2003）所指出的，健康的民主不能停留在消极容忍差异，而必须在社会各阶层的广泛团结中推进资源公正分配。（pp. 13–14）
 > - **阵线三：斩断利益链条并坚守学术伦理底线**
 >   学者必须正视自身的伦理裂痕。肯尼斯·古德曼（Kenneth Goodman, 1999）曾尖锐抨击部分阅读学者一方面在学术刊物上抨击联邦政策僵化霸道，另一方面却私下接受大型商业出版集团的丰厚报酬担任商业拼读教材编委或设计商业测试试题。这种双重角色不仅让学者丧失了公信力，而且实质上充当了次政府商业利益链条的合谋者。教育者唯有守住伦理底线，拒绝为商业教材背书或参与垄断测试命题，才能重建专业实践的公信力。（p. 14）
 

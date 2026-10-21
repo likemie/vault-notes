@@ -118,7 +118,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Rizvi_Lingard_2009_OECDEducationPolicy
 
@@ -457,7 +457,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 
 在总结全文论点时，作者指出经合组织的演变反映出教育基础属性定义的一场历史性剧变：教育不仅被从纯粹公共物品降格为公私混合商品，更在个人微观决策与劳动力市场竞争中深度蜕化为一种[[Positional Good|位置性商品]]，引发以名校排位与文凭筛选为核心的社会排队内耗。（pp. 450–451）
 
-> [!contrast-table] 经合组织教育范式演进的历史总决算（据 Rizvi & Lingard, 2009, pp. 450–452）
+> [!contrast-table] 经合组织教育范式演进的历史总决算（pp.450–452）
 > | 核心维度 | [[George Papadopoulos\|帕帕多普洛斯]]战后时期（1960–1990） | 知识经济全球化时期（1990年代中期后） |
 > |---|---|---|
 > | **教育的根本性质** | **纯粹公共物品（Public Good）**<br>认为唯有社区每个成员都享有充分平等的教育，社会才能获得最大福祉。 | **公私混合与[[Positional Good\|位置性商品]]（Public and Private / Positional Good）**<br>对国家而言是经济增长的公共投资，对个人而言是在劳动力市场争夺相对排位的[[Positional Good\|位置性商品]]与竞争筹码。 |

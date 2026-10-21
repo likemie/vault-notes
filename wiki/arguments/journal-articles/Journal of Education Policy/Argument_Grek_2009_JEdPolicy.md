@@ -9,7 +9,7 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Policy Instrumentation Theory]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Comparative Case Study]]"
@@ -104,7 +105,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 status: draft
 ---
 # Argument_Grek_2009_JEdPolicy
@@ -137,7 +138,7 @@ status: draft
 > | **[[European Education Space\|欧洲教育空间]]**<br>Nóvoa & Lawn (2002) | 分析超国家机构如何通过跨国流动、[[Data Infrastructure\|数据基础设施]]与可比指标，共同编织出具有[[Commensuration\|通约]]性与可规制性的欧洲教育象征与功能[[Champ\|场域]]。（pp. 24–25, 34–35） |
 
 > [!warrant]- 理论如何支撑论证
-> 结构功能主义与新制度主义组织社会学视国际组织为具有明确意志与推进意图的能动主体（Barnett & Finnemore, 1999）。结合政策工具社会学理论，[[OECD|经合组织]]借助数字测量建立权威品牌，弥补了其缺乏法定立法强制权与结构调整贷款条件的制度劣势；同时，通过[[Niklas Luhmann|卢曼]]系统论的外在化概念，各主权国家面对评估排名的异质反应得以被纳入统一的政治合法性解构框架中，展现出量化知识在国家与超国家双重尺度上的政治功能。（pp. 24–26, 34–35）
+> 结构功能主义与新制度主义组织社会学视国际组织为具有明确意志与推进意图的能动主体（Barnett & Finnemore, 1999）。结合[[Policy Instrumentation Theory|政策工具社会学]]理论，[[OECD|经合组织]]借助数字测量建立权威品牌，弥补了其缺乏法定立法强制权与结构调整贷款条件的制度劣势；同时，通过[[Niklas Luhmann|卢曼]]系统论的外在化概念，各主权国家面对评估排名的异质反应得以被纳入统一的政治合法性解构框架中，展现出量化知识在国家与超国家双重尺度上的政治功能。（pp. 24–26, 34–35）
 
 ---
 
@@ -380,7 +381,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 > [!citation-card] 国际基准对国内政策争论的外在化平息功能
 > 援引世界态势使政策制定者能够在国内为原本充满争议的教育改革进行辩护。因此，地方政策行动者将 PISA 作为一种国内政策合法化的形式，或者作为一种通过将政策呈现为建立在确凿证据之上来平息辩论的手段。（pp. 34–35）
 >
-> *The reference to 'world situations' enables policy-makers to make the case for education reforms at home that would otherwise be contested. Thus 'local' policy actors are using PISA as a form of domestic policy legitimation, or as a means of defusing discussion by presenting policy as based on robust evidence.* (Steiner-Khamsi, 2004, cited in Grek, 2009, pp. 34–35)
+> *The reference to 'world situations' enables policy-makers to make the case for education reforms at home that would otherwise be contested. Thus 'local' policy actors are using PISA as a form of domestic policy legitimation, or as a means of defusing discussion by presenting policy as based on robust evidence.* (Steiner-Khamsi, 2004)
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Xu_2024_CE"
 argument_key: "Argument_Xu_2024_CE"
 argument_display_title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Hsu Cho-Yun]]"
   - "[[Fei Xiaotong]]"
 related_facts:
+  - "[[National Education]]"
   - "[[2019 Hong Kong Protests]]"
 related_arguments: []
 sources:
@@ -53,7 +54,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-09-16
+updated: 2026-10-22
 year: 2024
 doi: ""
 citation_aliases:
@@ -85,9 +86,9 @@ citation_aliases:
 
 > [!tension] 大陆与香港初中中国历史教科书的“一国两叙”[[Paradigm\|范式]]对立
 > - **大陆模式（领土国家范式 / Territorial Nation Model）**
->   以**构成性领土 + 表达性族群包容**建构国家。当代物理版图被逆向投影至古代，切断华夏族与现代国家的唯一绑定，将 56 个民族全部纳入[[Zhonghua Minzu\|中华民族]]大家庭，内部冲突被重构为家门内摩擦与统一大业，驱动于国家事权集中控制与政治统一诉求。(|Xu, 2024, pp. 573–574, 580–583)
+>   以**构成性领土 + 表达性族群包容**建构国家。当代物理版图被逆向投影至古代，切断华夏族与现代国家的唯一绑定，将 56 个民族全部纳入[[Zhonghua Minzu\|中华民族]]大家庭，内部冲突被重构为家门内摩擦与统一大业，驱动于国家事权集中控制与政治统一诉求。(pp.573–574, 580–583)
 > - **香港模式（族裔文化国家范式 / Ethno-Cultural Nation Model）**
->   以**构成性族群 + 表达性领土变化**建构国家。将汉族与汉文化设立为不可动摇的华夏原初边界，领土疆域随朝代兴替动态变迁，显性放大族际战争与[[Sinicisation\|汉化]]同化，根植于殖民时期合作契约遗产与[[Qian Mu\|钱穆]]等文化保守主义学术传统。(|Xu, 2024, pp. 573–574, 580–585)
+>   以**构成性族群 + 表达性领土变化**建构国家。将汉族与汉文化设立为不可动摇的华夏原初边界，领土疆域随朝代兴替动态变迁，显性放大族际战争与[[Sinicisation\|汉化]]同化，根植于殖民时期合作契约遗产与[[Qian Mu\|钱穆]]等文化保守主义学术传统。(pp.573–574, 580–585)
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2010 年代末至 2020 年两地课堂使用的初中中国历史教科书（大陆 2016–2017 人教社统编版 3 册 vs 香港 2014 龄记出版版 3 册，分析范围聚焦 1912 年帝制终结前的古代历史）。
@@ -244,7 +245,7 @@ citation_aliases:
 > [!dev-timeline] 两地教科书社会政治驱动力与历史演变脉络
 > - **1950s 领土国家观奠基与殖民合作契约形成** 大陆面对多民族国家整合，防范非汉分离主义，确立统一多民族国家叙事（Law 2017）；香港港英政府与逃港文化保守主义者（如[[Qian Mu\|钱穆]]）达成默契：以文化中国替代政治中国，既去政治化又维护殖民统治（pp. 577–578）。
 > - **1980s–1997 教科书编写体制分化** 大陆逐步实行课程标准下的地方出版审查制（Law 2014）；香港 1997 回归后继续沿用民间编写审查制，课程委员会多为钱穆弟子，延续汉族文化中心主义叙事（Kan 2007; Lo 2007）。
-> - **2012–2017 大陆国家事权收紧与香港政治动荡** 2012 反国民教育运动后，中央施压香港改革中史科；2017 年习近平指示教材是国家事权，大陆统编三科教材（人教社独家出版），选拔如瞿林东（Qu Lindong）等契合官方框架的学者主编（Yan & Vickers 2024; Xu 2021b）。
+> - **2012–2017 大陆国家事权收紧与香港政治动荡** 2012 反[[National Education|国民教育]]运动后，中央施压香港改革中史科；2017 年习近平指示教材是国家事权，大陆统编三科教材（人教社独家出版），选拔如瞿林东（Qu Lindong）等契合官方框架的学者主编（Yan & Vickers 2024; Xu 2021b）。
 > - **2019 至今 《国安法》与叙事重塑** 2019 年[[2019 Hong Kong Protests\|反修例运动]]与 2020 年《国安法》颁布后，中央直接干预香港教育，发布 2019 课程指引，要求强化国家观念与领土安全，香港教科书正经历从族群构成性向领土国家安全构成性的强行转型（Curriculum Development Council 2020; Vickers 2024）。
 
 ---

@@ -11,7 +11,7 @@ subtype: event
 region: "us"
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[FairTest]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Race to the Top]]"
   - "[[Common Core State Standards]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Opt-Out Movement
@@ -64,7 +65,7 @@ updated: 2026-10-21
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2012 至 2016 年间达到抗争高潮，发源并集中于纽约州、新泽西州、华盛顿州、科罗拉多州等美国多地公立学区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
-> - **核心当事主体** 公立学校中产家庭家长、草根反测验联盟（United Opt Out）、全国公平与公开考试中心（National Center for Fair & Open Testing, FairTest）以及地方学区教育董事会。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> - **核心当事主体** 公立学校中产家庭家长、草根反测验联盟（United Opt Out）、全国公平与公开考试中心（[[FairTest|National Center for Fair & Open Testing]], FairTest）以及地方学区教育董事会。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **深层制度与社会背景** 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）确立全员统考后，联邦政府在 2011 年通过《[[Race to the Top|力争上游]]》（Race to the Top, RTTT）竞标拨款强推[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS），并推广增值模型（[[Value-Added Model]], VAM）将学生统考分数与公立教师绩效考核甚至解聘直接绑定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254, 256–257)]]
 > - **直接导火索 / 触发事件** 2013 年前后各州匆忙上线与 CCSS 挂钩的高难度机考统考，引发考题技术故障、大面积学生及格率暴跌以及一线教学严重窄化为应试操练。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
@@ -91,7 +92,7 @@ updated: 2026-10-21
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **运动先锋与抵制主体** 中产阶层家长群体、草根反测验联盟与 FairTest，凭借社交媒体网络和高选民投票率形成强劲政治动员能力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> - **运动先锋与抵制主体** 中产阶层家长群体、草根反测验联盟与 [[FairTest]]，凭借社交媒体网络和高选民投票率形成强劲政治动员能力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **规制推进与既得利益方** 商业测评企业、倡导市场竞争的智库基金会以及联邦与州级教育技术官僚，依靠法案授权和财政资助维护测试机制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259–260)]]
 > - **处于博弈夹缝中的教师工会** [[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）虽同情退考诉求，但在政策倡导中深受历史民权与教育公平[[Discourse|话语]]约束，行动策略多表现为温和游说。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **广大受影响学生与公立学校** 成为测试政策与抗争交锋的具体承载者，薄弱学校在达标惩戒与退考率扣分压力下面临严峻治理困境。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 261)]]
@@ -100,7 +101,7 @@ updated: 2026-10-21
 >
 > | 维度 | 退考抗争阵营 | 问责推进建制阵营 |
 > |:---|:---|:---|
-> | 核心行动者 | 退考家长网络、草根反测验联盟、FairTest | 联邦教育部、州教育厅、跨国测评企业、商业基金会 |
+> | 核心行动者 | 退考家长网络、草根反测验联盟、[[FairTest]] | 联邦教育部、州教育厅、跨国测评企业、商业基金会 |
 > | 社会基础 | 郊区中产阶级家庭、[[Progressive Education\|进步主义教育]]学者、一线受挫教师 | 技术官僚精英、新自由主义智库、测量工业联合体 |
 > | 价值主张 | 儿童身心健康、[[Whole Person Education\|全人教育]]、教学自主、反数字剥夺 | 绩效可问责性、客观可比标准、缩小成就差距、市场选择 |
 > | 斗争手段 | 行使法定拒考权、社交媒体动员、竞选学区董事 | 威胁削减联邦资助、加大统考成绩占权重、行政施压 |
@@ -131,7 +132,7 @@ updated: 2026-10-21
 > > [!axis] 公民抵抗的成效性质（根本瓦解 vs 防火墙缓冲）
 > > 各方对退考运动究竟能否撼动数据密集型规制国家展开辩论。
 > >
-> > - **抗争先锋视角（FairTest）** 视退考运动为公民社会反抗新自由主义规制型国家治理的标志性胜利，展示了公众参与重塑教育政策的可能性。
+> > - **抗争先锋视角（[[FairTest]]）** 视退考运动为公民社会反抗新自由主义规制型国家治理的标志性胜利，展示了公众参与重塑教育政策的可能性。
 > > - **制度主义批判视角（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 指出退考运动虽然抵御了严厉问责，却充当了制度防火墙，客观上帮助国家统考卸下了政治包袱，未能动摇底层[[Data Infrastructure|数据基础设施]]的持续运行。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
 
 ---

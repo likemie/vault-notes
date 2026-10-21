@@ -9,6 +9,12 @@ summary: "智利于2003年设立的国家级公立学校教师专业表现评估
 type: fact
 subtype: program
 region: "chile"
+fact_region: "chile"
+fact_kind: "program"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2003–至今"
 initiator_organization: "智利教育部（MINEDUC） / 智利全国教师工会（Colegio de Profesores）"
 tags:
@@ -17,13 +23,18 @@ tags:
   - theme/accountability
   - region/chile
 related_concepts:
+  - "[[Educational Privatisation]]"
+  - "[[Innovation Hub]]"
+  - "[[Reliability]]"
+  - "[[Reflexivity]]"
+  - "[[Performativity]]"
   - "[[Test-Based Accountability]]"
   - "[[Institutional Layering]]"
-  - "[[School Autonomy]]"
-related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
-related_methods: []
-related_instruments: []
+related_theories: []
+related_methods:
+  - "[[Inter-Rater Reliability]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 related_persons: []
 related_facts:
   - "[[SIMCE]]"
@@ -50,14 +61,14 @@ updated: 2026-10-22
 > - **立项时间 / 周期** 2003 年由教育部与工会签署三方协议设立，2004 年正式开展第一轮全国施测，常态化周期性运行至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **发起方与资助机制** 由智利教育部（MINEDUC）主导设立并全额拨付财政预算，委托智利天主教大学教育测评中心（MIDE UC）承担技术研发与阅卷执行。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **覆盖范围与对象** 法定覆盖全国所有市镇公立学校的基础教育与中等教育阶段专任教师。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **核心问题导向** 应对 1980 年代教育私有化改革后教师职业地位边陲化与公立教育质量滑坡问题，为建立基于专业标准的教师职业晋升阶梯提供实证依据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 260)]]
+> - **核心问题导向** 应对 1980 年代[[Educational Privatisation|教育私有化]]改革后教师职业地位边陲化与公立教育质量滑坡问题，为建立基于专业标准的教师职业晋升阶梯提供实证依据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 260)]]
 
 ---
 
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 依据国家《优良教学框架》（Marco para la Buena Enseñanza）设定的专业标准，通过多维度证据组合对教师教学实践开展诊断式测评，并将结果分为四个等级，通过将评价结果挂钩薪酬激励、专业进修与离职淘汰机制驱动教师自主反思与专业发展。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> 依据国家《优良[[Framework for Teaching|教学框架]]》（Marco para la Buena Enseñanza）设定的专业标准，通过多维度证据组合对教师教学实践开展诊断式测评，并将结果分为四个等级，通过将评价结果挂钩薪酬激励、专业进修与离职淘汰机制驱动教师自主反思与专业发展。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 评估教师在备课、课堂环境营造、课堂教学以及专业责任履行等方面的专业素养，提升公立教学质量并优化师资资源配置。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
@@ -75,7 +86,7 @@ updated: 2026-10-22
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2000–2003 — 劳资博弈与标准确立期** 政府颁布《优良教学框架》，教育部、全国市镇协会与智利全国教师工会展开长达三年的联合谈判，达成三方共识。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **2000–2003 — 劳资博弈与标准确立期** 政府颁布《优良[[Framework for Teaching|教学框架]]》，教育部、全国市镇协会与智利全国教师工会展开长达三年的联合谈判，达成三方共识。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **2004–2015 — 机制确立与常态施测期** Docentemás 在全国公立学校全面落地，形成四年一轮的周期性循环，评定等级直接挂钩可变薪酬津贴及低绩效淘汰程序。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **2016–至今 — 教师职业体系并轨整合** 智利颁布第 20.903 号法律建立全新《教师专业发展体系》（Sistema de Desarrollo Profesional Docente），Docentemás 与学科知识测验正式整合为决定全国教师专业晋升与薪资阶梯的核心法定支柱。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257, 260)]]
 
@@ -84,8 +95,8 @@ updated: 2026-10-22
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **顶层领导与政策制定** 智利教育部（MINEDUC）下属教师教研与专业创新中心（CPEIP），负责统筹考评大纲并拨付保障经费。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **专业研发与数据中心** 智利天主教大学教育测评中心（MIDE UC），负责档案袋标准研制、录像评阅技术标准与评分者信度控制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **顶层领导与政策制定** 智利教育部（MINEDUC）下属教师教研与专业[[Innovation Hub|创新中心]]（CPEIP），负责统筹考评大纲并拨付保障经费。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **专业研发与数据中心** 智利天主教大学教育测评中心（MIDE UC），负责档案袋标准研制、录像评阅技术标准与[[Inter-Rater Reliability|评分者信度]]控制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **行业代表与协商主体** 智利全国教师工会（Colegio de Profesores），参与标准商定与申诉审查，维护教师执教权益。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **受评与执行主体** 全国市镇公立学校一线教师与各校校长、同行评价员。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
@@ -99,12 +110,12 @@ updated: 2026-10-22
 
 > [!indicators] 评估指标体系
 > - **专业表现等级分布** 各学段教师在四个评定等级的百分比分布。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **档案袋评分者一致性** 课堂录像与教学设计阅卷的双盲吻合率与信度系数。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **档案袋评分者一致性** 课堂录像与教学设计阅卷的双盲吻合率与[[Reliability|信度]]系数。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **教师薪酬增幅与满意度** 考评通过与教师薪资调整之间的联动幅度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 > [!finding-cards] 核心实证结论
-> - **工会抵抗策略的务实转变** 文献表明工会面对问责并非只有消极对抗一种反应。在公立教育面临生源与资源萎缩的双重危机下，工会将技术评估作为争取薪酬待遇普惠提升的谈判筹码，体现出工会治理的妥协智慧。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> - **重塑公立学校教学常态** 课堂实录与反思性档案袋的强制引入，推动了教师对课程标准和教学策略的规范化关注，逐步弱化了传统公立教学的封闭性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **工会抵抗策略的务实转变** 实证研究显示，工会面对问责会采取多样化博弈策略。在公立教育面临生源与资源萎缩的双重危机下，工会将技术评估作为争取薪酬待遇普惠提升的谈判筹码，体现出工会治理的妥协智慧。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> - **重塑公立学校教学常态** 课堂实录与[[Reflexivity|反思性]]档案袋的强制引入，推动了教师对课程标准和教学策略的规范化关注，逐步弱化了传统公立教学的封闭性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **公私立学校制度双轨分割** 长期以来该系统仅强制施加于公立市镇学校，政府资助的私立学校（Subvencionados）不受此限，反倒加剧了教师身份与规制强度的体制分割。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 260)]]
 
 > [!stat-cards]- 关键实证数据
@@ -120,8 +131,8 @@ updated: 2026-10-22
 > > [!axis] 专业自主支持 vs 官僚绩效管控
 > > 围绕 Docentemás 是促进教师反思还是强化行政驯化，学术界与教师群体存在深层分歧。
 > >
-> > - **官方倡导阵营** 主张该系统基于《优良教学框架》，通过同行评议与反思性档案袋摆脱了唯学生测验分数的机械归因，能够精准诊断专业发展需求。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> > - **基层批判阵营** 批评档案袋与录像制作耗费大量备课精力，催生了大量校外有偿代做代写黑产，使真实教学实践异化为表演性合规材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
+> > - **官方倡导阵营** 主张该系统基于《优良[[Framework for Teaching|教学框架]]》，通过同行评议与[[Reflexivity|反思性]]档案袋摆脱了唯学生测验分数的机械归因，能够精准诊断专业发展需求。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> > - **基层批判阵营** 批评档案袋与录像制作耗费大量备课精力，催生了大量校外有偿代做代写黑产，使真实教学实践异化为[[Performativity|表演性]]合规材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
 
 ---
 

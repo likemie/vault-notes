@@ -12,9 +12,9 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "National Governors Association & Council of Chief State School Officers"
 tags:
@@ -62,16 +62,18 @@ related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[Hunt Institute]]"
   - "[[National Research Council]]"
+  - "[[Opt-Out Movement]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[FairTest]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: completed
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Common Core State Standards
@@ -114,7 +116,7 @@ updated: 2026-10-21
 > - **2009 — 标准启动与起草** NGA 与 CCSSO 联合发起标准动议；成立数学与 ELA 专家团队，自上而下倒推研制高中毕业 [[College and Career Readiness|CCR]] 标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 13)]]
 > - **2010 — 评审认证与正式公布** 3 月公布草案并征集 10,000 份公众意见；6 月 29 人独立验证委员会完成学术审查（25 人签字，4 人拒签），标准终稿正式面向全美发布。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16, 23)]]
 > - **2010–2011 — 各州法定采纳高潮** 借助联邦 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）竞争性拨款[[Policy Window|政策窗口]]与逐条对标分析（Crosswalks），全美 45 个州和哥伦比亚特区迅速通过州教育委员会行政程序完成法定采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
-> - **2014–2016 — 高利害统考绑定与退考运动反弹** 伴随 CCSS 跨州统考（PARCC 与 Smarter Balanced）全面落地并与教师绩效考核绑定，纽约州等中产阶级学区爆发大规模罢考抗议（退考率超 20%），促使多个州退出测评联盟或重新修订标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
+> - **2014–2016 — 高利害统考绑定与[[Opt-Out Movement|退考运动]]反弹** 伴随 CCSS 跨州统考（PARCC 与 Smarter Balanced）全面落地并与教师绩效考核绑定，纽约州等中产阶级学区爆发大规模罢考抗议（退考率超 20%），促使多个州退出测评联盟或重新修订标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
 
@@ -128,10 +130,10 @@ updated: 2026-10-21
 
 > [!pathways] 实施路径
 > - **国家网络设计** 起草专家组基于[[College and Career Readiness|大学与职业就绪]]标准自上而下逆向倒推（Backward Mapping）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
-> - **专业中介审阅** [[American Federation of Teachers|美国教师联合会]]（AFT）与全美教育协会（[[National Education Association|NEA]]）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
+> - **专业中介审阅** [[American Federation of Teachers|美国教师联合会]]（AFT）与[[National Education Association|全美教育协会]]（[[National Education Association|NEA]]）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 > - **慈善资金网络** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]在 2009–2010 年间注资 8,900 万美元（5,000 万美元直接资助 18 个全国组织，3,900 万美元资助 10 家服务商与 20 个州地方教育局），构建起全美统一游说、信息推广与技术辅导网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **各州差异化采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；高标准州（马萨诸塞、加州）依托智库逐条对标（Crosswalks）化解严苛派阻力，低及格线州（田纳西）以 90% 州测 vs 28% [[National Assessment of Educational Progress|NAEP]] 熟练断层的危机证据说服议会并夺得[[Race to the Top|力争上游]]（RTTT）首期资助。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
-> - **跨州测评实施与草根退考抵抗** 伴随各州将 CCSS 内容嵌入 PARCC 和 Smarter Balanced 跨州统考并与高利害问责挂钩，纽约州等地中产家庭掀起大规模退考运动（Opt-Out Movement），草根反测验联盟成功选举退考家长进入学区教育董事会，倒逼学区与州政府改进测评设计并放宽问责制裁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
+> - **跨州测评实施与草根退考抵抗** 伴随各州将 CCSS 内容嵌入 PARCC 和 Smarter Balanced 跨州统考并与高利害问责挂钩，纽约州等地中产家庭掀起大规模[[Opt-Out Movement|退考运动]]（Opt-Out Movement），草根反测验联盟成功选举退考家长进入学区教育董事会，倒逼学区与州政府改进测评设计并放宽问责制裁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
 
@@ -140,15 +142,15 @@ updated: 2026-10-21
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** [[National Governors Association|NGA]] 与 [[Council of Chief State School Officers|CCSSO]]（标准发起人与版权所有者）、[[Hunt Institute|亨特研究所]]（跨界组织动员中介）以及各州教育行政长官。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
 > - **高权力 · 低利益 — 潜在否决者或盟友** 各州教育委员会（掌握法定标准采纳与投票否决权）、州立法机关以及地方学区管理委员会。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
-> - **低权力 · 高利益 — 受影响群体** [[American Federation of Teachers|AFT]] 与 [[National Education Association|NEA]] 两大教师工会组织、一线执教教师、学生家长联盟（如 FairTest 与 United Opt Out）及教科书出版商。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
+> - **低权力 · 高利益 — 受影响群体** [[American Federation of Teachers|AFT]] 与 [[National Education Association|NEA]] 两大教师工会组织、一线执教教师、学生家长联盟（如 [[FairTest]] 与 United Opt Out）及教科书出版商。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 > - **低权力 · 低利益 — 边缘行动者** 大学学科研究者、民间智库评估团队以及对国家标准持怀疑态度的意识形态批评团体。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
 > | NGA & CCSSO | 政治合法性与全美州级网络 | 确立全国统一质量基准，提升州级治理权威 | 倡导与主导 | 强调州级发起自愿联合，借助实证研究淡化意识形态争议 |
-> | [[Achieve]] & Hunt Institute | 政策专业知识与政界跨党派人脉 | 促进教育与经济发展对接，推动系统性教育改革 | 强力支持 | 充当[[Policy Entrepreneur|政策企业家]]，组织常态化跨机构倡导协调，为各州提供立法咨询支持 |
-> | AFT & NEA | 庞大教师会员基底与草根动员网络 | 保障教师专业[[Discourse|话语]]权，确保标准具备课堂可操作性 | 支持并审慎修正 | 组建一线名师审查组，就标准文字清晰度与年级梯度施加技术性修改 |
+> | [[Achieve]] & Hunt Institute | 政策专业知识与政界跨党派人脉 | 促进教育与经济发展对接，推动系统性教育改革 | 强力支持 | 充当[[Policy Entrepreneur\|政策企业家]]，组织常态化跨机构倡导协调，为各州提供立法咨询支持 |
+> | AFT & NEA | 庞大教师会员基底与草根动员网络 | 保障教师专业[[Discourse\|话语]]权，确保标准具备课堂可操作性 | 支持并审慎修正 | 组建一线名师审查组，就标准文字清晰度与年级梯度施加技术性修改 |
 > | 州教育委员会（SBE） | 法定政策审批与立法合法化权威 | 履行本州教育受托人职责，避免地方选民争议 | 多数迅速支持 | 委托开展原有州标准与 CCSS 严密对比，以此说服保守议员采纳 |
 > | 家长退考联盟（FairTest / United Opt Out） | 草根家长动员与学区投票权 | 反对过度考试与高利害问责伤害学生身心 | 强烈抵制统考 | 发起罢考倡议、竞选学区教育董事会席位 |
 > | 验证委员会批评派 | 学术声誉与学科专业严密性 | 维护极高标准的学术严苛度，防范平庸化风险 | 反对与弃权 | 拒绝签署最终认证报告，公开抨击新标准在高级数学与经典文学要求上不及部分州已有标准 |
@@ -157,9 +159,9 @@ updated: 2026-10-21
 >
 > | 维度 | 支持联盟（跨州改革联盟） | 批判阵营（学科与草根退考阵营） |
 > |:---|:---|:---|
-> | 核心行动者 | [[Policy Entrepreneur|政策企业家]]（Hunt Institute, Achieve）、两党州长、NGA/CCSSO、盖茨基金会。 | 学科严苛派学者（Milgram, Stotsky）、中产退考家长组织（United Opt Out）、州权保守派。 |
-> | 资源基础 | 43.5 亿美元 [[Race to the Top|RTTT]] 联邦基金、8,900 万美元慈善资本、50 州最高教育行政网络。 | 学术同行声誉、草根家长动员力、学区教育董事会投票权。 |
-> | 利益框架 | 提升国家[[Human Capital Theory|人力资本]]竞争力，消除虚假高达标率，实现教育机会均等与社会流动。 | 反对课程平庸化、抵制高利害标准化测试对教学和学生身心的异化。 |
+> | 核心行动者 | [[Policy Entrepreneur\|政策企业家]]（Hunt Institute, Achieve）、两党州长、NGA/CCSSO、盖茨基金会。 | 学科严苛派学者（Milgram, Stotsky）、中产退考家长组织（United Opt Out）、州权保守派。 |
+> | 资源基础 | 43.5 亿美元 [[Race to the Top\|RTTT]] 联邦基金、8,900 万美元慈善资本、50 州最高教育行政网络。 | 学术同行声誉、草根家长动员力、学区教育董事会投票权。 |
+> | 利益框架 | 提升国家[[Human Capital Theory\|人力资本]]竞争力，消除虚假高达标率，实现教育机会均等与社会流动。 | 反对课程平庸化、抵制高利害标准化测试对教学和学生身心的异化。 |
 > | 主要策略 | 将标准去政治化为客观技术规范，强调由实证证据驱动，运用 Crosswalks 逐条对比。 | 组织罢考（Opt-Out）、质疑缺乏长期课堂因果实证、指责联邦资金暗推集权。 |
 >
 > **关键分歧** 联盟之间在国家统一基准与各州自主权、科学研究护栏与学科深奥水准、高利害问责测试与人文育人本位上的核心争议。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–19)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
@@ -211,8 +213,8 @@ updated: 2026-10-21
 > > - **汤姆·洛夫利斯（Tom Loveless, 2012）** 指出各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性，标准评级高的州并未展现出更好的学业产出。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > > - **[[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）** 构建课程一致性模型反驳指出，原先标准越接近 CCSS 的州，其 NAEP 实际成绩越高，且提分速度显著更快。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 >
-> > [!axis] 高利害统考捆绑与家长退考运动（Opt-Out Movement）
-> > 伴随标准与联邦《力争上游》强利害问责测试绑定，引发了全美范围的草根公众反弹。
+> > [!axis] 高利害统考捆绑与家长[[Opt-Out Movement|退考运动]]（Opt-Out Movement）
+> > 伴随标准与联邦《[[Race to the Top|力争上游]]》强利害问责测试绑定，引发了全美范围的草根公众反弹。
 > >
 > > - **草根反测验联盟与中产家庭（2015）** 谴责过度测试剥夺学生批判性探究与艺术体育课程，发起大规模罢考，部分学区罢考率逾 20%。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 > > - **政策支持者与商界联盟** 坚持统一测试是检验标准是否落实的唯一客观依据，指责退考运动将削弱教育质量透明度。
@@ -231,10 +233,10 @@ updated: 2026-10-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[No Child Left Behind Act 2001]] | Fact / Policy | 前置法案：其严苛的惩罚性问责引发各州自降标准门槛，成为共同核心标准改革的重要催化剂。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, pp. 8–9)]] |
-> | [[Policy Entrepreneur]] | Concept | 理论透镜：[[National Governors Association|NGA]]、[[Council of Chief State School Officers|CCSSO]]、[[Achieve]] 及亨特研究所等行动者以政策企业家身份打破既有制度垄断。 |
-> | [[Six-Stage Model of Policymaking]] | Theory | [[Analytic Framework|分析框架]]：共同核心标准提供了在[[Problem Finding|问题界定]]、方案设计与政策采纳各阶段差异化运用证据的实证图谱。 |
-> | [[Elite Interview]] | Method | 经验研究方法：研究者通过对全美 111 位高层决策者、标准起草专家与工会领袖的访谈完成[[Process Tracing|过程追踪]]。 |
+> | [[Policy Entrepreneur]] | Concept | 理论透镜：[[National Governors Association\|NGA]]、[[Council of Chief State School Officers\|CCSSO]]、[[Achieve]] 及亨特研究所等行动者以政策企业家身份打破既有制度垄断。 |
+> | [[Six-Stage Model of Policymaking]] | Theory | [[Analytic Framework\|分析框架]]：共同核心标准提供了在[[Problem Finding\|问题界定]]、方案设计与政策采纳各阶段差异化运用证据的实证图谱。 |
+> | [[Elite Interview]] | Method | 经验研究方法：研究者通过对全美 111 位高层决策者、标准起草专家与工会领袖的访谈完成[[Process Tracing\|过程追踪]]。 |
 > | [[Test-Based Accountability]] | Concept | 伴随 CCSS 推进的跨州统考与增值评价构成了 TBA 在美国深化的新阶段。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 253–254)]] |
 > | [[Race to the Top]] | Fact / Policy | 联邦竞争性资助机制：提供 43.5 亿美元激励各州迅速采纳 CCSS。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 256–257)]] |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 核心证据来源：系统剖析共同核心标准运动中研究证据与专业经验、政治价值的动态整合。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 考证 CCSS 统考引发的美国中产阶级退考运动（Opt-Out Movement）与草根抵抗机制。 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 考证 CCSS 统考引发的美国中产阶级[[Opt-Out Movement\|退考运动]]（Opt-Out Movement）与草根抵抗机制。 |

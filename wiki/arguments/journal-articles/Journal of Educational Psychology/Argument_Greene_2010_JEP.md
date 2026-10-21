@@ -56,7 +56,7 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2010_JEP"
@@ -308,7 +308,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 理论整合的需求
-> Hofer 提出，个人[[Epistemology|认识论]]研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为[[Epistemic Cognition|认识论认知]]而运作。（Greene 等，2010，p. 234，转引 Hofer，2001，p. 377）
+> Hofer 提出，个人[[Epistemology|认识论]]研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为[[Epistemic Cognition|认识论认知]]而运作。（Hofer, 2001, p. 377）
 >
 > *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition” (p. 377).*
 

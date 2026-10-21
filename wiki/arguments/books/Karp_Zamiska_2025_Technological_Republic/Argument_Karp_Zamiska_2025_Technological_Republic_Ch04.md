@@ -81,7 +81,7 @@ related_theories:
   - "[[Path Dependence]]"
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch04
 
@@ -308,27 +308,27 @@ updated: 2026-10-20
 ## 关键引用卡片
 
 > [!citation-card] 终极恐怖作为和平的保证
-> 唯一能够阻止国家发动战争的，只有恐怖。性能更强的武器，而非更弱的武器，才是和平最可靠的守护者。(Nobel, 1891; cited in Karp & Zamiska, 2025, p. 38)
+> 唯一能够阻止国家发动战争的，只有恐怖。性能更强的武器，而非更弱的武器，才是和平最可靠的守护者。(Nobel, 1891)
 >
 > *The only thing that will ever prevent nations from beginning war is terror.*
 
 > [!citation-card] [[Total War|总体战]]逻辑与平民作为合法打击目标
-> 在这种新型军事冲突的逻辑下，人民本身理所当然地成为战争直接行动的对象，因而被视为合法的打击目标。(Ludendorff, 1935; cited in Karp & Zamiska, 2025, p. 39)
+> 在这种新型军事冲突的逻辑下，人民本身理所当然地成为战争直接行动的对象，因而被视为合法的打击目标。(Ludendorff, 1935)
 >
 > *For Ludendorff, under the logic of this new form of military conflict, 'the peoples themselves' were rightly 'subject to the direct operations of war,' and as a result were considered legitimate targets of attack.*
 
 > [!citation-card] 二战后大国[[Long Peace|长和平]]的历史定性
-> 二战结束后几十年间所维持的相对和平的持久性与稳定性，是本世纪以来世界所经历的大国关系中最漫长的稳定时期，足以匹敌近代历史上任何相对平静的时代。(Gaddis, 1987, p. 245; cited in Karp & Zamiska, 2025, p. 40)
+> 二战结束后几十年间所维持的相对和平的持久性与稳定性，是本世纪以来世界所经历的大国关系中最漫长的稳定时期，足以匹敌近代历史上任何相对平静的时代。(Gaddis, 1987, p. 245)
 >
 > *The length and durability of the relative peace that had prevailed for decades after the end of World War II was 'the longest period of stability in relations among the great powers that the world has known in this century.'*
 
 > [!citation-card] 冷战后欧洲军队盆景化诊断
-> 冷战结束后，我们将自己的军队缩减成了[[Bonsai Army|盆景军队]]。欧洲各自为政的防务采办导致近三十个国家分别追求不同的供应商与采购路线。(Borrell, 2022; cited in Karp & Zamiska, 2025, pp. 42–43)
+> 冷战结束后，我们将自己的军队缩减成了[[Bonsai Army|盆景军队]]。欧洲各自为政的防务采办导致近三十个国家分别追求不同的供应商与采购路线。(Borrell, 2022)
 >
 > *After the Cold War, we shrunk our forces to bonsai armies... Europe's bonsai armies have nurtured bonsai industries.*
 
 > [!citation-card] 盟友防务自立与拒绝现代罗马角色
-> 挑战在于如何激励欧洲为自身生产武装力量，从长远来看，这必须构成保卫欧洲的唯一手段。美国不能成为守卫远方边疆的现代罗马军团。(Eisenhower, 1951; cited in Karp & Zamiska, 2025, p. 43)
+> 挑战在于如何激励欧洲为自身生产武装力量，从长远来看，这必须构成保卫欧洲的唯一手段。美国不能成为守卫远方边疆的现代罗马军团。(Eisenhower, 1951)
 >
 > *The United States 'cannot be a modern Rome guarding the far frontiers with our own legions.'*
 
@@ -343,27 +343,27 @@ updated: 2026-10-20
 > *A weapons system in the hands of an ethical society, and one rightly wary of its use, will act as an effective deterrent only if it is far more powerful than the capability of an adversary who would not hesitate to kill the innocent.*
 
 > [!citation-card] 初创孵化机制对硬核科学的琐碎化
-> 今天的无数初创企业专注于不动脑筋的方式来帮我们洗衣服、送外卖或用另一款 App 自娱自乐。科学与工程领域的新技术、真实发现和发明往往在初创孵化过程中被严重琐碎化，仅仅是为了迎合投资者的预期。(Negroponte, 2018; cited in Karp & Zamiska, 2025, pp. 48–49)
+> 今天的无数初创企业专注于不动脑筋的方式来帮我们洗衣服、送外卖或用另一款 App 自娱自乐。科学与工程领域的新技术、真实发现和发明往往在初创孵化过程中被严重琐碎化，仅仅是为了迎合投资者的预期。(Negroponte, 2018)
 >
 > *New technologies, real discoveries, and inventions in science and engineering are often trivialized by the start-up process in order to meet the expectations of investors.*
 
 > [!citation-card] 现代技术创新的狭隘性与生产率放缓
-> 自 1970 年代以来的几十年里，技术发展主要发生在一个狭窄的活动领域，即娱乐、通信以及信息的收集与处理；而在人类关心的其余方面——食物、服装、住房、交通、健康以及室内外的劳动条件——技术进步已经大幅放缓。(Gordon, 2016; cited in Karp & Zamiska, 2025, pp. 48–49)
+> 自 1970 年代以来的几十年里，技术发展主要发生在一个狭窄的活动领域，即娱乐、通信以及信息的收集与处理；而在人类关心的其余方面——食物、服装、住房、交通、健康以及室内外的劳动条件——技术进步已经大幅放缓。(Gordon, 2016)
 >
 > *Technological developments have mostly occurred in a narrow sphere of activity having to do with entertainment, communications and the collection and processing of information, whereas for the rest of what humans care about... progress has slowed.*
 
 > [!citation-card] 阿波罗登月计划作为人类进步的标尺
-> 阿波罗太空计划那种激进、非连续的技术大跨越，而非消费类小物件在性能上的渐进微调，才是我们评判自身成就、衡量人类真正进步的唯一标尺。(Thiel, 2011; cited in Karp & Zamiska, 2025, pp. 49–50)
+> 阿波罗太空计划那种激进、非连续的技术大跨越，而非消费类小物件在性能上的渐进微调，才是我们评判自身成就、衡量人类真正进步的唯一标尺。(Thiel, 2011)
 >
 > *The radical and discontinuous leap forward of the Apollo space program, not the incremental advances in the capabilities of consumer gadgets, should be the bar by which we judge ourselves and assess human progress.*
 
 > [!citation-card] 自由世界秩序与强制执行力的虚实
-> 根本不存在一个自然的自由主义世界秩序，无论我们对它抱有多么热切的渴望；如果没有人去执行它们，世界上就不存在任何规则。(Applebaum, 2022; cited in Karp & Zamiska, 2025, pp. 51–52)
+> 根本不存在一个自然的自由主义世界秩序，无论我们对它抱有多么热切的渴望；如果没有人去执行它们，世界上就不存在任何规则。(Applebaum, 2022)
 >
 > *A 'natural liberal world order' does not exist, despite our most fervent aspirations, and that 'there are no rules without someone to enforce them.'*
 
 > [!citation-card] 批判[[Moral Dualism|道德二元论]]与承认普遍道德能动性
-> 将无权者系统性等同于虔诚与纯洁是一种道德屈尊。被统治者与统治者在人性层面上同样具有犯下严重罪恶的能力。将暴力从未由被压迫者发起的教条强加于人，剥夺了弱者的道德能动性与完整人性。(Adekoya, 2023; Freire, 1968; cited in Karp & Zamiska, 2025, pp. 53–54)
+> 将无权者系统性等同于虔诚与纯洁是一种道德屈尊。被统治者与统治者在人性层面上同样具有犯下严重罪恶的能力。将暴力从未由被压迫者发起的教条强加于人，剥夺了弱者的道德能动性与完整人性。(Adekoya, 2023; Freire, 1968)
 >
 > *It would be a mistake, however, and indeed a form of moral condescension, to systematically equate powerlessness with piousness. The subjugated and the subjugators are both equally capable of grievous sin.*
 

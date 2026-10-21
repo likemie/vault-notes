@@ -174,7 +174,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Edovald_Nevill_2021_ECNUROE
 
@@ -371,7 +371,7 @@ updated: 2026-10-20
 > - **[[Developer-Made Measures\|开发者自编测验]]的虚高溢价** 题项内容极易与干预教学要点发生高度同构，导致统计[[Effect Size\|效应量]]被人为夸大 50% 至 100%，严重脱离常态[[Academic Achievement\|学业表现]]（Cheung & Slavin, 2016; WWC, 2017）。
 > - **商业标准化测验的量程与效度截断** 开发商对长期[[Predictive Validity\|预测效度]]秘而不宣，且在常态学生群体中频发[[Floor and Ceiling Effects\|天花板与地板效应]]，人为抹平真实组间差异（Allen et al., 2018; Hodgen et al., 2019）。
 
-> [!contrast-table] 评价测量工具的三种类型对比：全国高利害统考（NPD 成绩） vs 商业标准化测验 vs 开发者自编非标准化测验（基于 Edovald & Nevill, 2021）
+> [!contrast-table] 评价测量工具的三种类型对比：全国高利害统考（NPD 成绩） vs 商业标准化测验 vs 开发者自编非标准化测验
 > | 属性维度 | 全国高利害标准化统考（NPD 成绩） | 商业标准化测验 | 开发者自编非标准化测验（Inherent Measures） |
 > |---|---|---|---|
 > | **外部效度** | 极高（全国家长、高校与雇主公认的高利害学业基准） | 中等（具备一定跨校通用性，但与官方统考常模存在脱节） | 极低（高度特异化，无法推广至常态教学大纲） |
@@ -428,7 +428,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 
 面对不同层级的决策需求，必须建立因地制宜的多样化研究设计架构。（pp. 55–56）
 
-> [!row-contrast] 针对不同决策层级的多样化研究设计架构（基于 Edovald & Nevill, 2021，pp. 55–56）
+> [!row-contrast] 针对不同决策层级的多样化研究设计架构（pp.55–56）
 > | 决策层级与资助流 | [[Central Question\|核心研究问题]]与实践载体 | RCT 实施障碍与局限 | 创新替代设计与方法学架构 |
 > |---|---|---|---|
 > | **学校宏观制度选择（[[Researching School Choices\|研究学校选择]]）** | [[Tracking\|能力分组]] vs 混合能力编班；中学早晨推迟到校作息时间 | 涉及全校组织重构与家长强烈关切，学校坚决拒绝接受随机分组，招募屡遭惨败 | 2019 年设立 [[Researching School Choices]] 专属资助流，利用教育系统内自然存在的政策变异，通过严格的准实验设计（[[Quasi-Experimental Designs\|QED]]）评估校级选择。 |
@@ -467,7 +467,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > [!case] 流行教学神话的严格去魅：[[Lesson Study\|课例研究]]与[[Growth Mindset\|成长型思维]]的零效应（Murphy et al., 2017; Foliano et al., 2019）
 > - **神话一：日本“[[Lesson Study\|课例研究]]”的大规模零效应（Murphy et al., 2017）** [[Lesson Study\|课例研究]]源自日本，长期被[[International Education\|国际教育]]界推崇为促进教师专业发展与教研协作的最理想范式。然而，EEF 资助开展的大规模两级集群 RCT（Murphy et al., 2017）为这一流行风尚带来了沉重的实证检验。过程评估（IPE）显示，干预组教师普遍对课例研究表达了极高的满意度与协作热情；然而，当评估团队以英国国家统考关键学段 4（Key Stage 4, KS4）GCSE 的数学与阅读统考成绩作为客观主要结局指标，并严格校正基线前测协变量与集群标准误后，干预效应量净值为零（$ES \approx 0.00, p > .05$），没有任何统计学显著的学业增益。深入分析揭示，教师在主观协作层面的良好感受未能穿透至微观课堂认知互动，且密集研讨产生了挤占常态备课与个别辅导的负面时间替代效应。
 > - **神话二：卡罗尔·德韦克“成长型思维”的规模化破灭（Foliano et al., 2019）** 斯坦福大学心理学家卡罗尔·德韦克（Carol Dweck）的成长型思维理论风靡全球，被广泛认为能够激发学生潜能并有效弥合贫困弱势学生的成就差距。EEF 资助开展了代号为“改变思维”的全英格兰大规模现场效果试验（Foliano et al., 2019），覆盖上百所小学与数万名学生。干预采取全校全员师资深度培训模式，由专业机构系统培训教师将成长型思维融入课堂互动与评语反馈。然而，以英国国家学生数据库（NPD）中极具公信力的小学毕业统考关键学段 2（Key Stage 2, KS2）阅读与数学统考成绩作为检验标尺，结果显示：在真实的常态化全校运行条件下，接受全套培训的干预组学生，其综合成绩与完全接受常态教学的对照组相比毫无统计学显著差异（主效应量 $ES \approx 0.00$），且对符合免费学校午餐（Free School Meals, FSM）资格的处境不利学生亦完全未展现出缩小差距的迹象。
-> - **“证明何者无效”的重大公共财政与政策价值** 这两项重磅零结果试验在英格兰教育界引发了理性的去魅风暴（|Edovald & Nevill, 2021）。它以铁一般的客观数据向全球决策者敲响了警钟：在高度理想化的心理学实验室或小范围志愿者群体中成立的前沿教学理论，一旦走向大规模真实校园常态运行，其因果链条极易断裂。What Works 运动最核心的社会价值，不仅在于向学校证明什么有效，更在于以无懈可击的高质量实证数据明确指出哪些时髦做法徒劳无功，从而有效斩断商业培训机构的营销泡沫，阻止全英中小学将数以亿计的紧缺公共资金（特别是用于弱势群体的 [[Pupil Premium]] 财政补贴）浪费在缺乏真实回报的流行神话上。（pp. 54, 57）
+> - **“证明何者无效”的重大公共财政与政策价值** 这两项重磅零结果试验在英格兰教育界引发了理性的去魅风暴。它以铁一般的客观数据向全球决策者敲响了警钟：在高度理想化的心理学实验室或小范围志愿者群体中成立的前沿教学理论，一旦走向大规模真实校园常态运行，其因果链条极易断裂。What Works 运动最核心的社会价值，不仅在于向学校证明什么有效，更在于以无懈可击的高质量实证数据明确指出哪些时髦做法徒劳无功，从而有效斩断商业培训机构的营销泡沫，阻止全英中小学将数以亿计的紧缺公共资金（特别是用于弱势群体的 [[Pupil Premium]] 财政补贴）浪费在缺乏真实回报的流行神话上。（pp. 54, 57）
 
 在常态教学高基线背景下，即便某项干预在小规模[[Efficacy Trial|效力试验]]中成效耀眼，一旦走向跨区域的大规模全系统推广，往往会遭遇断崖式的[[Fade-out Effect|效应衰减]]。（p. 57）
 
@@ -538,7 +538,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > *A good theoretical understanding is needed of how the intervention causes change and lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 
 > [!citation-card] [[Realist Evaluation\|现实主义试验]]与情境机制互动
-> 现实主义试验要求分别以及组合检验干预组件的成效；采用多臂研究与[[Factorial Design\|析因设计]]；探索变化机制，例如分析路径[[Variable\|变量]]如何中介干预效果；利用跨越多种情境的多次试验来检验干预成效如何随情境发生变异。（Bonell et al., 2012, p. 2299, 引用见 Edovald & Nevill, 2021, pp. 53–54）
+> 现实主义试验要求分别以及组合检验干预组件的成效；采用多臂研究与[[Factorial Design\|析因设计]]；探索变化机制，例如分析路径[[Variable\|变量]]如何中介干预效果；利用跨越多种情境的多次试验来检验干预成效如何随情境发生变异。（Bonell et al., 2012, p. 2299）
 >
 > *Examine the effects of intervention components separately and in combination; using multi-arm studies and factorial trials; explore mechanisms of change, for example analysing how pathway variables mediate intervention effects; use multiple trials across contexts to test how intervention effects vary with contexts.*
 

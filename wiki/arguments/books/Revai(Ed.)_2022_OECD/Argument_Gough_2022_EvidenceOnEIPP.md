@@ -117,7 +117,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-22
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -295,7 +295,7 @@ sources:
 > [!figure] Figure 7.1 [[Evidence Ecosystem\|证据生态系统]]双层嵌套模型（Figure 7.1, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
 >
-> **证据生态系统双层结构要素（Adapted from Gough et al., 2011, 2018, 2022, p. 148）**
+> **证据生态系统双层结构要素（Adapted from Gough et al., 2011, 2018）**
 > - **外层大系统** 顶层虚线方框包容着复杂的政治体制、拨款问责、意识形态与权力博弈，内部汇聚着多元行动者、不同视角、焦点议题、待解问题与权力结构。
 > - **决策与实施（置于左侧，凸显需求牵引）**
 >   - **政策、实践与决策制定** 涵盖证据的启蒙性使用与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]；

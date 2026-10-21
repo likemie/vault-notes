@@ -2994,10 +2994,16 @@ def argument_self_parenthetical_aliases(path: Path, fm: Optional[str], data: Dic
     return {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
 
 
+SELF_PREFIX_RE = re.compile(r"^(?:据|基于|根据|nach|based on|adapted from)\s*", re.IGNORECASE)
+CITED_IN_RE = re.compile(r"[,，]?\s*(?:(?:as\s+)?(?:cited|quoted)\s+in|引用见|转引自?|引自)\s*", re.IGNORECASE)
+
+
 def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
-    """'' if the segment is a bare self alias, the page locator if alias + pages, else None."""
-    # A leading "|" / "\|" is residue of a removed self-wikilink "[[Argument_…|".
+    """'' if the segment is a bare self alias, the page locator if alias + pages, else None.
+    A leading "|" / "\|" is residue of a removed self-wikilink "[[Argument_…|";
+    "据 / 基于 / Nach / Adapted from …" prefixes still cite this source."""
     norm = _norm_citation_text(re.sub(r"^[\s\\|]+", "", segment))
+    norm = SELF_PREFIX_RE.sub("", norm)
     for alias in aliases:
         if norm == alias:
             return ""
@@ -3008,6 +3014,51 @@ def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
                 pages = re.sub(r",(?=\d)", ", ", pages)
                 return f"{loc.group(1).lower()}.{pages}"
     return None
+
+
+def self_alias_rewrite(group: str, aliases: Set[str]) -> Optional[Tuple[str, str]]:
+    """Rewrite a parenthetical group that cites this Argument's own source.
+
+    Returns (replacement, kind) or None. The replacement keeps the original
+    bracket style; "" means the parenthetical should be removed.
+      self      (Ball, 2008, p. 3)                       -> (p.3)
+      mixed     (Law, 1992; Ball, 2008, p. 3)            -> (Law, 1992)
+      cited_in  (Law, 1992, p. 9; cited in Ball, 2008)   -> (Law, 1992, p. 9)
+    """
+    opening, closing = ("（", "）") if group.startswith("（") else ("(", ")")
+    segments = re.split(r"[;；]", group[1:-1])
+    kept: List[str] = []
+    pages: List[str] = []
+    cited_in = mixed_self = False
+    for seg in segments:
+        loc = _self_alias_locator(seg, aliases)
+        if loc is not None:
+            mixed_self = True
+            if loc:
+                pages.append(loc)
+            continue
+        cut = None
+        for m in CITED_IN_RE.finditer(seg):
+            if _self_alias_locator(seg[m.end():], aliases) is not None:
+                cut = m
+                break
+        if cut is not None:
+            cited_in = True
+            original = seg[:cut.start()].strip()
+            if original:
+                kept.append(original)
+            continue
+        kept.append(seg.strip())
+    if not (mixed_self or cited_in):
+        return None
+    sep = "；" if "；" in group and "; " not in group else "; "
+    if cited_in:
+        # Cite the original source directly; this source's pages are dropped.
+        return (f"{opening}{sep.join(kept)}{closing}" if kept else "", "cited_in")
+    if not kept:
+        return (f"{opening}{'; '.join(pages)}{closing}" if pages else "", "self")
+    # Mixed with other sources: keep the others; this source's pages are dropped.
+    return (f"{opening}{sep.join(kept)}{closing}", "mixed")
 
 
 def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
@@ -3023,18 +3074,16 @@ def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str
         return
     scan = strip_existing_wikilinks(mask_markdown_code(mask_h2_sections_preserve(body, ["来源", "Sources", "Source"])))
     for m in PAREN_GROUP_RE.finditer(scan):
-        segments = re.split(r"[;；]", m.group(1))
-        found = [(seg.strip(), _self_alias_locator(seg, aliases)) for seg in segments]
-        hits = [(seg, loc) for seg, loc in found if loc is not None]
-        if not hits:
+        result = self_alias_rewrite(m.group(0), aliases)
+        if result is None:
             continue
-        opening, closing = ("（", "）") if m.group(0).startswith("（") else ("(", ")")
-        pages = [loc for _, loc in hits if loc]
-        if len(hits) == len(segments):
-            advice = f"简化为纯页码 {opening}{'; '.join(pages)}{closing}" if pages else "删除该括注，或改为纯页码"
+        replacement, kind = result
+        if kind == "cited_in":
+            advice = f"转引改为直接引用原来源 {replacement}" if replacement else "转引改为直接引用原来源"
+        elif replacement:
+            advice = f"简化为 {replacement}"
         else:
-            others = "; ".join(seg for seg, loc in found if loc is None)
-            advice = f"改为 {opening}{others}{closing}" + (f"，本文献页码另写 {opening}{'; '.join(pages)}{closing}" if pages else "")
+            advice = "删除该括注（本文献无需作者年份）"
         if "|" in m.group(1):
             advice += "；括注内残留的 | 来自已删除的自引链接，一并去掉"
         issues.append(Issue(

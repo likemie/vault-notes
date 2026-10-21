@@ -10,7 +10,7 @@ subtype: organization
 region: italy
 fact_region: "italy"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -42,12 +42,13 @@ related_persons: []
 related_facts:
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[La Buona Scuola]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # INVALSI
@@ -83,7 +84,7 @@ updated: 2026-10-21
 >
 > - **2015–至今 — 《好学校》法案赋权与建制化稳固**
 >
->   伦齐（Matteo Renzi）政府出台第 107/2015 号《好学校》（La Buona Scuola）重大教育改革法案，正式将国家评估系统（Sistema Nazionale di Valutazione, SNV）纳入国家长期法定制度，INVALSI 成为这一体系的核心技术中枢。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
+>   伦齐（Matteo Renzi）政府出台第 107/2015 号《好学校》（[[La Buona Scuola]]）重大教育改革法案，正式将国家评估系统（Sistema Nazionale di Valutazione, SNV）纳入国家长期法定制度，INVALSI 成为这一体系的核心技术中枢。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
 
 ---
 

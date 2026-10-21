@@ -79,7 +79,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Wecker_2016_ZfE
 
@@ -228,7 +228,7 @@ updated: 2026-10-20
 
 以下将基础文献质量与二级操作程序的缺陷进行对照总览：
 
-> [!contrast-table] 一级数据基础与二级分析步骤的方法缺陷对照（Nach Wecker et al., 2016, p. 26）
+> [!contrast-table] 一级数据基础与二级分析步骤的方法缺陷对照（p.26）
 > | 分析步骤 | 存在的方法缺陷 |
 > |---|---|
 > | **数据基础：基础一级元分析** | |

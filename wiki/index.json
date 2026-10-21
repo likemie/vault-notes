@@ -29085,6 +29085,29 @@
     ]
   },
   {
+    "title": "Ley SEP",
+    "type": "fact",
+    "path": "wiki/facts/chile/Ley SEP.md",
+    "aliases": [
+      "智利优先学校补贴法",
+      "优惠学校补贴法",
+      "Ley de Subvención Escolar Preferencial",
+      "Ley 20.248",
+      "Preferential School Subsidy Law"
+    ]
+  },
+  {
+    "title": "Docentemás",
+    "type": "fact",
+    "path": "wiki/facts/chile/Docentemás.md",
+    "aliases": [
+      "智利教师专业表现评估系统",
+      "Docentemas",
+      "Sistema de Evaluación del Desempeño Profesional Docente",
+      "Chilean Teacher Evaluation System"
+    ]
+  },
+  {
     "title": "SIMCE",
     "type": "fact",
     "path": "wiki/facts/chile/SIMCE.md",
@@ -29093,6 +29116,17 @@
       "智利国家教育评估系统",
       "Sistema de Medición de la Calidad de la Educación",
       "Education Quality Measurement System"
+    ]
+  },
+  {
+    "title": "SNED",
+    "type": "fact",
+    "path": "wiki/facts/chile/SNED.md",
+    "aliases": [
+      "智利国家学校绩效评估系统",
+      "国家学校绩效评估系统",
+      "Sistema Nacional de Evaluación del Desempeño",
+      "National System of School Performance Assessment"
     ]
   },
   {
@@ -29621,6 +29655,17 @@
     "aliases": [
       "丹麦教育研究清算中心",
       "Danish Clearinghouse"
+    ]
+  },
+  {
+    "title": "Danish Act on Transparency 2002",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Danish Act on Transparency 2002.md",
+    "aliases": [
+      "丹麦教育透明度法案",
+      "Lov om gennemsigtighed og åbenhed i uddannelserne",
+      "Act on Transparency and Openness in Education",
+      "Danish Act on Transparency"
     ]
   },
   {
@@ -32031,6 +32076,18 @@
       "Azione LIM 2008",
       "Interactive Whiteboard Action",
       "意大利互动白板行动"
+    ]
+  },
+  {
+    "title": "La Buona Scuola",
+    "type": "fact",
+    "path": "wiki/facts/italy/La Buona Scuola.md",
+    "aliases": [
+      "意大利好学校法案",
+      "好学校改革",
+      "Legge 107/2015",
+      "The Good School Reform",
+      "Riforma della Buona Scuola"
     ]
   },
   {
@@ -35425,6 +35482,16 @@
       "仙童半导体公司",
       "快捷半导体",
       "Fairchild Semiconductor Corporation"
+    ]
+  },
+  {
+    "title": "FairTest",
+    "type": "fact",
+    "path": "wiki/facts/us/FairTest.md",
+    "aliases": [
+      "美国国家公正与公开测试中心",
+      "国家公正与公开测试中心",
+      "National Center for Fair & Open Testing"
     ]
   },
   {

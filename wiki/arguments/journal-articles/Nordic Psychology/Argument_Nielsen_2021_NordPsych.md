@@ -100,7 +100,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
@@ -217,7 +217,7 @@ citation_aliases:
 学界在辨析哈蒂的认识论谱系时曾产生分歧，如[[Thomas Aastrup Rømer|托马斯·罗默]]（Thomas Aastrup Rømer, 2019）曾将其误读为强调内在自组织的[[Radical Constructivism|激进建构主义]]。
 
 > [!contrast-table] 哈蒂认识论归宿的学术争鸣辨析
-> | 辨析维度 | 罗默（Rømer, 2019）的判断：激进[[Constructivist Paradigm\|建构主义]] | 尼尔森等（Nielsen & Klitmøller, 2021a）的澄清：技术理性与行为主义 |
+> | 辨析维度 | 罗默（Rømer, 2019）的判断：激进[[Constructivist Paradigm\|建构主义]] | 尼尔森等的澄清：技术理性与行为主义 |
 > |---|---|---|
 > | **理论来源考证** | 误读了早年文献对 Glaser 的引用，将其与激进建构主义奠基人 Glasersfeld 混为一谈。 | 确凿考证出哈蒂（Hattie, 1987）引用的是行为主义心理学代表人物罗伯特·格拉泽（[[Robert Glaser]]）（p. 4）。 |
 > | **学习过程本质** | 认为哈蒂强调学习者主观封闭的心智建构。 | 证实哈蒂追求的是确定的外部刺激输入、目标行为输出与即时纠错反馈调节（pp. 4–5）。 |

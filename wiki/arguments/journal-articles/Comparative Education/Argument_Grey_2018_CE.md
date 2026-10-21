@@ -58,20 +58,21 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[PISA for Schools]]"
 related_arguments: []
 sources:
   - "[[sources/Grey_2018_CE/Grey_2018_CE|Grey_2018_CE]]"
 part_of:
 status: draft
 created: 2026-09-11
-updated: 2026-10-21
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -245,7 +246,7 @@ issuing_organization: ""
 从具体政策背景来看，第五支柱关于绩效工资制（PRP）的推销最为典型地体现了政治行动者对跨国数据的马后炮利用。
 
 > [!case] 教师绩效工资制（PRP）的政治转译与东亚借用个案
-> 教师绩效工资在英格兰绝非新政，早在 1998 年新工党政府即设立高级技能教师岗位试图将其与绩效挂钩，但随后的专业系统评估（如 Chamberlin et al., 2002）明确指出缺乏实证证据证明绩效工资能改善教学，加之教师工会的坚决抵制，该议题长期搁置。然而，英国教育部（Department for Education, DfE）在 2013 年 4 月（PISA 结果公布前 7 个月）便发布了《学校绩效工资指导意见》（DfE 2013），赋予校长给优秀教师加薪的自由裁量权。由于该政策在教育界引发巨大民怨，Gove 在 12 月的议会声明中敏锐地将东亚高分神话挪用为合法化弹药，公开宣称“全球表现最卓越的上海教育系统实行严苛的绩效工资制度”，并呼吁跨党派支持那些“勇敢且有原则的校长”。但事实是，OECD 官方报告在详尽分析教师薪酬的章节中完全未将绩效工资列为成功要素，反而警告单纯的薪酬激励无法提升质量，关键在于把教师培养为自主的研究者与创新者（OECD 2012, p. 4; |Grey & Morris, 2018, p. 120）。
+> 教师绩效工资在英格兰绝非新政，早在 1998 年新工党政府即设立高级技能教师岗位试图将其与绩效挂钩，但随后的专业系统评估（如 Chamberlin et al., 2002）明确指出缺乏实证证据证明绩效工资能改善教学，加之教师工会的坚决抵制，该议题长期搁置。然而，英国教育部（Department for Education, DfE）在 2013 年 4 月（PISA 结果公布前 7 个月）便发布了《学校绩效工资指导意见》（DfE 2013），赋予校长给优秀教师加薪的自由裁量权。由于该政策在教育界引发巨大民怨，Gove 在 12 月的议会声明中敏锐地将东亚高分神话挪用为合法化弹药，公开宣称“全球表现最卓越的上海教育系统实行严苛的绩效工资制度”，并呼吁跨党派支持那些“勇敢且有原则的校长”。但事实是，OECD 官方报告在详尽分析教师薪酬的章节中完全未将绩效工资列为成功要素，反而警告单纯的薪酬激励无法提升质量，关键在于把教师培养为自主的研究者与创新者（OECD 2012, p. 4）。
 
 过渡到媒体分析：在政治行动者完成这一充满策略性遗漏的剧场化声明后，大众媒体的介入并未揭穿这场罗生门式的表演，反而进一步强化了危机幻象。
 
@@ -299,7 +300,7 @@ issuing_organization: ""
 国际组织对国内政治力量对其数据的公然曲解往往保持心照不宣的默许。
 
 > [!warrant]- 跨国评估机构与国内政客的象征性共谋
-> 为什么面对英格兰政客对报告结论的公然扭曲，OECD 几乎从不公开发声纠偏？因为对于 OECD 而言，最核心的战略利益并不在于确保具体政策是否百分之百忠实于其建议，而在于确保全球范围内的教育话语被牢牢锁定在由其定义的量化评估框架之内。只要各国政客与媒体将 PISA 视为不可动摇的卓越质量金标准，OECD 的品牌霸权与治理工具（如后续衍生的早期学习与儿童福祉研究［[[Baby PISA\|International Early Learning and Child Well-being Study]]，俗称幼儿版国际学生评估项目，[[Baby PISA]]］、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]［Programme for the International Assessment of Adult Competencies, PIAAC］以及校级国际学生评估项目［PISA for Schools］）便能顺利实现市场扩张。数据的可塑性（plasticity, Carvalho 2014）恰恰构成了 PISA 获得跨国成功的关键商品特质。（pp. 125–126）
+> 为什么面对英格兰政客对报告结论的公然扭曲，OECD 几乎从不公开发声纠偏？因为对于 OECD 而言，最核心的战略利益并不在于确保具体政策是否百分之百忠实于其建议，而在于确保全球范围内的教育话语被牢牢锁定在由其定义的量化评估框架之内。只要各国政客与媒体将 PISA 视为不可动摇的卓越质量金标准，OECD 的品牌霸权与治理工具（如后续衍生的早期学习与儿童福祉研究［[[Baby PISA\|International Early Learning and Child Well-being Study]]，俗称幼儿版国际学生评估项目，[[Baby PISA]]］、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]［Programme for the International Assessment of Adult Competencies, PIAAC］以及[[PISA for Schools|校级国际学生评估项目]]［PISA for Schools］）便能顺利实现市场扩张。数据的可塑性（plasticity, Carvalho 2014）恰恰构成了 PISA 获得跨国成功的关键商品特质。（pp. 125–126）
 
 #### 2. 学术界的迟滞抵抗与民间反思
 

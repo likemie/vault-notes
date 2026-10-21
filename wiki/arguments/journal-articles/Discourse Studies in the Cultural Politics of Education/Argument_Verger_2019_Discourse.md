@@ -65,7 +65,6 @@ related_facts:
   - "[[SIMCE]]"
   - "[[SNED]]"
   - "[[Ley SEP]]"
-  - "[[Docentemás]]"
   - "[[Education Reform Act 1988]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Adequate Yearly Progress]]"
@@ -73,13 +72,18 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[Ofsted]]"
   - "[[Nasjonale prøver]]"
+  - "[[Danish Act on Transparency 2002]]"
   - "[[Fraser Institute]]"
+  - "[[La Buona Scuola]]"
   - "[[INVALSI]]"
   - "[[Educational Testing Service]]"
   - "[[Opt-Out Movement]]"
   - "[[Common Core State Standards]]"
+  - "[[FairTest]]"
   - "[[Alto al SIMCE]]"
+  - "[[Docentemás]]"
   - "[[National Education Association]]"
+  - "[[National Education]]"
   - "[[American Federation of Teachers]]"
 related_arguments: []
 sources:
@@ -87,14 +91,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -242,7 +246,7 @@ issuing_organization: ""
 英格兰、美国、智利等推行[[New Public Management|新公共管理]]（NPM）体制的国家，早已奠定了市场选择与绩效主义的制度基础，因而迅速将测验问责深度嵌入到学校竞争与私有化进程中。（pp. 252–253）
 
 > [!case] 市场化国家案例：智利、英格兰与美国
-> - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入国家学校绩效评估系统（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–258）
+> - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入[[SNED|国家学校绩效评估系统]]（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–258）
 > - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（[[Education Reform Act 1988|Education Reform Act]], ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入绩效与评估报告（Performance and Assessment, Panda）和学生学业追踪系统（Pupil Assessment Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）[[Performance Indicators|绩效指标]]，持续收紧量化控制网底。（pp. 253, 256–257）
 > - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（[[Value-Added Model]], VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
 
@@ -253,7 +257,7 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **初始制度驱动** | 军政府新自由主义休克疗法与教育券普及 | 撒切尔新右派削减地方官僚权力与择校赋权 | 应对国际经济竞争（《国家处在危险之中》）与民权公平诉求 |
 > | **核心评估工具** | [[SIMCE]] 全员常模与[[Criterion-Referenced Test\|标准参照]]统考 | 关键学段（Key Stages）全国统考与语音筛查 | 州级标准化统考（NCLB 框架）与国家教育进展评估（[[National Assessment of Educational Progress]], NAEP）抽样基线 |
-> | **问责制裁机制** | SNED 绩效奖金、SEP 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、特许学校重组与教师 VAM 考核 |
+> | **问责制裁机制** | [[SNED]] 绩效奖金、[[Ley SEP]] 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、特许学校重组与教师 VAM 考核 |
 > | **两党政治生态** | 中左翼与右翼均支持强化国家规制以维护市场系统 | 保守党奠基、工党细化、联合政府强化表现主义 | 跨党派支持 NCLB，后续面临奥巴马增值考核争议 |
 
 #### 2. 北欧等国将评估用于兜底质量监测，并主动叫停容易引发恶性竞争的公开排名
@@ -262,7 +266,7 @@ issuing_organization: ""
 
 > [!case] [[Neo-Weberian State|新韦伯主义]]国家案例：挪威与丹麦的排名叫停
 > - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（[[Nasjonale prøver]]），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
-> - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》，2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
+> - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》（[[Danish Act on Transparency 2002|Lov om gennemsigtighed og åbenhed i uddannelserne]]），2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
 
 虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
 
@@ -275,7 +279,7 @@ issuing_organization: ""
 南欧的意大利与西班牙等[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家，具备中央集权、层级分明、法治主义与公立常任文官教师队伍等特征，加上学校民主共决传统，使由上而下的绩效考核改革步履维艰。（pp. 255, 260）
 
 > [!case] 拿破仑体制国家案例：意大利的断续试错与西班牙马德里的孤岛实验
-> - **意大利的长周期停滞与碎片化试验** 2000 年代初中右翼内阁发起校长评估自愿试点，遭遇学校基层普遍抵制；2006 年中左翼普罗迪政府上台后随即叫停试点；2008 年中右翼政府重启绩效议程，教育部长杰尔米尼（Gelmini）强推卓越与优胜劣汰话语；2012 年再度试水整合增值评估与校长考核的试验模型；历经十五年党派拉锯，直至 2015 年伦齐技术官僚/中左内阁出台《好学校》（La Buona Scuola）法案，校长考核才得以勉强建制化。（pp. 255, 258）
+> - **意大利的长周期停滞与碎片化试验** 2000 年代初中右翼内阁发起校长评估自愿试点，遭遇学校基层普遍抵制；2006 年中左翼普罗迪政府上台后随即叫停试点；2008 年中右翼政府重启绩效议程，教育部长杰尔米尼（Gelmini）强推卓越与优胜劣汰话语；2012 年再度试水整合增值评估与校长考核的试验模型；历经十五年党派拉锯，直至 2015 年伦齐技术官僚/中左内阁出台《好学校》（[[La Buona Scuola|Legge 107/2015]]）法案，校长考核才得以勉强建制化。（pp. 255, 258）
 > - **西班牙马德里大区的激进新自由主义孤岛** 西班牙地方分权架构下，马德里大区主席埃斯佩兰萨·阿吉雷（Esperanza Aguirre, 2003–2012）凭借个人政治意志，强推全区全员统考、公开发布学校排行榜并实施无边界择校，在拿破仑传统内部打造出一条孤立的市场化道路；然而由于高度依赖领导人集权风格且缺乏行政法理共识，2012 年阿吉雷辞职后，同党新政府迅速放弃了成绩排名并调减统考频次，孤岛实验旋即退潮。（pp. 258–259）
 > - **葡萄牙与希腊对民主治理传统的捍卫** 战后推翻独裁政权的历史造就了两国强调教师、家长与学生共同投票决策的学校民主管理传统；管理主义问责改革被教师工会视为对民主共决权与专业尊严的侵犯，并被赋予对抗专制复辟的历史合法性，使绩效问责举措遭遇持续的全行业大罢工。（pp. 255, 260）
 
@@ -343,9 +347,9 @@ issuing_organization: ""
 问责体系的不断强化引发了教师工会与公民社会的广泛抵抗，但集体行动的制度成效具有明显的结构性限度。（pp. 260–262）
 
 > [!case] 社会抗争案例：[[Opt-Out Movement|美国退考运动]]与教师工会的多元策略
-> - **[[Opt-Out Movement|美国退考运动]]（Opt-Out Movement）与家长联盟** 面对《力争上游》计划与[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；公平与公开考试中心（National Center for Fair & Open Testing, FairTest）与草根反测验联盟（United Opt Out）等组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
+> - **[[Opt-Out Movement|美国退考运动]]（Opt-Out Movement）与家长联盟** 面对《力争上游》计划与[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；[[FairTest|国家公正与公开测试中心]]（[[FairTest|National Center for Fair & Open Testing]], FairTest）与草根反测验联盟（United Opt Out）等组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
 > - **[[Alto al SIMCE|智利停止 SIMCE 运动]]（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
-> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师专业表现评估系统（[[Docentemás|Sistema de Evaluación del Desempeño Profesional Docente]], Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（National Education Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
+> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师专业表现评估系统（[[Docentemás|Sistema de Evaluación del Desempeño Profesional Docente]], Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
 
 各国的抗争实践表明，公众抵抗与工会抵制虽然能够阶段性缓解问责压力，却难以动摇规制型治理的[[Data Infrastructure|数据基础设施]]。（pp. 261–263）
 

@@ -10,7 +10,7 @@ aliases:
 summary: "由比较公共管理学者波利特（Christopher Pollitt）等系统界定的政体行政传统类型，用以概括南欧等国高度集权、层级分明、法治主义与公立常任文官制的国家治理形态。在教育治理中，由于教师享有常任公务员身份保障以及战后形成的学校民主共决传统，新公共管理绩效考核与外部审计改革在该模式下多呈现断续试错、政党轮替导致政策摇摆以及遭遇工会总罢工抵制的特征。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[La Buona Scuola]]"
   - "[[PISA]]"
   - "[[EU]]"
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Napoleonic Administrative Tradition
@@ -101,7 +102,7 @@ updated: 2026-10-21
 > [!theory-proposition] 命题二｜管理主义改革缺乏制度共识导致政策呈现长周期断续试错
 > **解释** 拿破仑传统国家的规制型改革往往缺乏跨党派共识与一揽子系统方案，高度依赖个别政治家的个人意志推动。一旦遭遇政治轮替或社会反弹，前任出台的法令迅速被继任政府冻结或调减，使问责制度长期处于局部试点、叫停与再启动的循环试错之中。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 258–259)]]
 >
-> **应用实例** 西班牙马德里大区主席阿吉雷（Esperanza Aguirre, 2003–2012）强推全区统考与排位表，打造出拿破仑传统内部的市场化孤岛；但阿吉雷辞职后，同党新政府迅速放弃发布排位表并削减统考频次；意大利历经十五年党派拉锯，直至 2015 年技术官僚内阁出台《好学校》（La Buona Scuola）法案才勉强实现部分指标的建制化。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
+> **应用实例** 西班牙马德里大区主席阿吉雷（Esperanza Aguirre, 2003–2012）强推全区统考与排位表，打造出拿破仑传统内部的市场化孤岛；但阿吉雷辞职后，同党新政府迅速放弃发布排位表并削减统考频次；意大利历经十五年党派拉锯，直至 2015 年技术官僚内阁出台《好学校》（[[La Buona Scuola]]）法案才勉强实现部分指标的建制化。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
 
 ---
 

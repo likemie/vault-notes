@@ -6,7 +6,7 @@ aliases:
 summary: "Jacqueline Edmondson 提出的教育政策分析理论框架，将批判理论与参与式多元主义相结合，主张政策是负载权威价值观的社会建构，倡导教育者通过三类政策研究与多阵线政治策略实现实质性民主参与"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -42,12 +42,13 @@ related_persons:
   - "[[Patrick Shannon]]"
 related_facts:
   - "[[Reading Excellence Act]]"
+  - "[[FairTest]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Pluralism
@@ -118,7 +119,7 @@ updated: 2026-10-21
 > **应用实例** 面对联邦推行的科学本位阅读研究法规，学者不仅需要评估其在小学课堂的实际教学效果（功能主义），还需要记录专业协会与国会委员会闭门博弈的叙事细节（沟通性），更需剖析国家机构如何通过拨款权将实验医学范式强加于教育学科的思想史脉络（批判性）。
 
 > [!theory-proposition] 命题三｜教育者的[[Theories of Policy Change|政策变革]]必须依托本土抵制、专业结盟与伦理对质的多阵线协同行动
-> **解释** 民主参与并非单纯在立法者设定的既有规则下提交请愿信，而是要求教育者在多个治理层级开展协同行动。在地方层级，学区和教师有权基于专业自主性和宪法权利拒绝违背教育宗旨的联邦附条件拨款；在组织层级，专业学会应与全国公平与公开测试中心（National Center for Fair & Open Testing, FairTest）、家长教师协会（Parent-Teacher Association, PTA）以及基层青年组织（如东费城青年联合求变组织 Youth United for Change）结盟，将教室扩展到公共领域（Fraser, 1997; Parker, 2003）；在学术伦理层级，学者应公开揭露商业出版商、官方专家委员会与官僚机构之间的利益合谋，拒绝兼任垄断性商业基础读本编委或考题作者，划清伦理界线。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 13–14)]]
+> **解释** 民主参与并非单纯在立法者设定的既有规则下提交请愿信，而是要求教育者在多个治理层级开展协同行动。在地方层级，学区和教师有权基于专业自主性和宪法权利拒绝违背教育宗旨的联邦附条件拨款；在组织层级，专业学会应与全国公平与公开测试中心（[[FairTest|National Center for Fair & Open Testing]], FairTest）、家长教师协会（Parent-Teacher Association, PTA）以及基层青年组织（如东费城青年联合求变组织 Youth United for Change）结盟，将教室扩展到公共领域（Fraser, 1997; Parker, 2003）；在学术伦理层级，学者应公开揭露商业出版商、官方专家委员会与官僚机构之间的利益合谋，拒绝兼任垄断性商业基础读本编委或考题作者，划清伦理界线。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 13–14)]]
 >
 > **应用实例** 宾夕法尼亚州部分学区面对带有严苛限制的联邦阅读优先拨款项目，主动放弃申请资金以保护本校经过检验的多元读写实践；同时教师与跨学科学者联名公开质询联邦机构与教材出版商的利益关联。
 

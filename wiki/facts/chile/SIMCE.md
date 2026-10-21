@@ -11,7 +11,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -41,14 +41,14 @@ related_facts:
   - "[[Chilean Educational Reform of 1981]]"
   - "[[SNED]]"
   - "[[Ley SEP]]"
-  - "[[Docentemás]]"
   - "[[Alto al SIMCE]]"
+  - "[[Docentemás]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # SIMCE
@@ -90,9 +90,9 @@ updated: 2026-10-21
 
 > [!dev-timeline] 项目推进历程
 > - **1988–1994 — 初始监测与课程控制期** 军政府时期设立，初期主要作为低利害监测工具，用于评估新课程大纲实施情况并向家长提供基础信息。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
-> - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入国家学校绩效评估系统（[[SNED]]），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
-> - **2008–2013 — 弱势补贴挂钩与惩罚性强化** 颁布《优惠学校补贴法》（[[Ley SEP]]），向处境不利学生提供额外财政补助，但强制绑定 SIMCE 达标改善协议；连续四年未见改善的薄弱学校面临吊销办学资质与关停接管。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
-> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“停止 SIMCE 运动”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入[[SNED|国家学校绩效评估系统]]（[[SNED]]），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
+> - **2008–2013 — 弱势补贴挂钩与惩罚性强化** 颁布《[[Ley SEP|优惠学校补贴法]]》（[[Ley SEP]]），向处境不利学生提供额外财政补助，但强制绑定 SIMCE 达标改善协议；连续四年未见改善的薄弱学校面临吊销办学资质与关停接管。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
+> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“[[Alto al SIMCE|停止 SIMCE 运动]]”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-10-21
 > > 围绕 SIMCE 的高利害问责定位，社会各界展开激烈交锋。
 > >
 > > - **新自由主义治理支持方** 坚信透明的分数披露能赋予家长知情选择权，并对怠惰学校形成外部监督动力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 258)]]
-> > - **Alto al SIMCE 批判阵营** 指控统考直接导致严重应试操练、剥夺落后学校尊严并加剧种族与阶层隔离，呼吁彻底取消全员高利害考试。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> > - **[[Alto al SIMCE]] 批判阵营** 指控统考直接导致严重应试操练、剥夺落后学校尊严并加剧种族与阶层隔离，呼吁彻底取消全员高利害考试。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
 
