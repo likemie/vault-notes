@@ -77,7 +77,6 @@ related_facts:
   - "[[Common Core State Standards]]"
   - "[[Alto al SIMCE]]"
   - "[[National Education Association]]"
-  - "[[National Education]]"
   - "[[American Federation of Teachers]]"
 related_arguments: []
 sources:
@@ -92,7 +91,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -343,7 +342,7 @@ issuing_organization: ""
 > [!case] 社会抗争案例：[[Opt-Out Movement|美国退考运动]]与教师工会的多元策略
 > - **[[Opt-Out Movement|美国退考运动]]（Opt-Out Movement）与家长联盟** 面对《力争上游》计划与[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；公平与公开考试中心（National Center for Fair & Open Testing, FairTest）与草根反测验联盟（United Opt Out）等组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
 > - **[[Alto al SIMCE|智利停止 SIMCE 运动]]（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
-> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师卓越评估系统（Sistema de Evaluación del Desempeño Profesional Docente, Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
+> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师卓越评估系统（Sistema de Evaluación del Desempeño Profesional Docente, Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（National Education Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
 
 各国的抗争实践表明，公众抵抗与工会抵制虽然能够阶段性缓解问责压力，却难以动摇规制型治理的[[Data Infrastructure|数据基础设施]]。（pp. 261–263）
 
@@ -371,17 +370,17 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 政策工具的非中立性与制度自主性
-> 运行中的工具具备鲜明的非中立属性：其产生的特定效果完全独立于既定追求目标，根据自身的逻辑结构化公共政策。（Lascoumes & Le Galès, 2007, p. 3; cited in Verger et al., 2019, p. 251）
+> 运行中的工具具备鲜明的非中立属性：其产生的特定效果完全独立于既定追求目标，根据自身的逻辑结构化公共政策。（Lascoumes & Le Galès, 2007, p. 3; 转引自 p. 251）
 >
 > *Instruments at work are not neutral devices: they produce specific effects, independently of the objective pursued … which structure public policy according to their own logic.*
 
 > [!citation-card] 评估工具与问责制的累加演进特征
-> [[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]通常在不同时间点被采纳，实际上源于不同的辩论或响应不同的诉求。建立国家大规模评估系统通常早于问责措施的采纳……随着时间流逝，经济、科层或声誉后果往往被逐渐追加到评估之上。（Verger et al., 2019, p. 263）
+> [[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]通常在不同时间点被采纳，实际上源于不同的辩论或响应不同的诉求。建立国家大规模评估系统通常早于问责措施的采纳……随着时间流逝，经济、科层或声誉后果往往被逐渐追加到评估之上。（p. 263）
 >
 > *The implementation of a NLSA system generally precedes the adoption of TBA measures (since some form of census-based assessment is a [[Necessary and Sufficient Conditions|necessary condition]] for TBA to happen) and, with the passage of time, economic, bureaucratic or reputational consequences tend to be attached to the assessments.*
 
 > [!citation-card] 规制型治理工具的技术诱惑力
-> 这些治理工具的诱惑力在于，它们有助于将复杂、多维的教育现实转化为数字范畴，并制造出一种感知，即深刻的教育问题（如不平等或质量危机）能够通过设定预先定义的行为模式、测度行动者绩效并相应分配激励来予以解决。（Verger et al., 2019, p. 264）
+> 这些治理工具的诱惑力在于，它们有助于将复杂、多维的教育现实转化为数字范畴，并制造出一种感知，即深刻的教育问题（如不平等或质量危机）能够通过设定预先定义的行为模式、测度行动者绩效并相应分配激励来予以解决。（p. 264）
 >
 > *The seductive power of these instruments relies on the fact that they contribute to transform complex and multi-dimensional educational realities into numerical categories, and to construct the perception that deep educational problems (such as inequalities or quality issues) can be addressed by setting up predefined patterns of conduct, measuring actors’ performance, and distributing incentives accordingly.*
 
