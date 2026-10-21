@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
       "basename": "Meta-meta-analysis",
       "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+    },
+    {
+      "basename": "Argument_Custer_2021_AidData",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
     },
     {
       "basename": "Argument_Wadhwa_2024_RER",
@@ -15,10 +23,6 @@
     {
       "basename": "Argument_Niemann_Martens_2018_GSP",
       "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
-    },
-    {
-      "basename": "Argument_Custer_2021_AidData",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
     },
     {
       "basename": "Argument_Legrand_2012_PolStud",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
-    },
-    {
-      "basename": "Embodied, Inscribed and Enacted Knowledge",
-      "path": "wiki/theories/educational-policy-reform/Embodied, Inscribed and Enacted Knowledge.md"
     }
   ],
   "omittedPaths": [],

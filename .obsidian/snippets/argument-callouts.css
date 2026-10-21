@@ -22453,32 +22453,61 @@ body .callout.callout.callout:is([data-callout="quote"], [data-callout="cite"]):
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display: none !important; }
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-content { margin-top: 0 !important; }
 
-/* ===== org-evolution 二级层次（2026-10-22）：阶段总结块 + 次级轨道 + 年份胶囊 ===== */
-body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:not(:first-child) {
-  margin: .6rem 0 .25rem !important; padding: .55rem .85rem !important;
-  border: 0 !important; border-left: 3px solid var(--ac-accent) !important; border-radius: 0 6px 6px 0 !important;
-  background: color-mix(in srgb, var(--ac-accent) 7%, transparent) !important;
-  font-size: .95em !important; line-height: 1.75 !important; color: var(--text-normal) !important;
+/* ===== org-evolution 二级层次（2026-10-22，极简排版：字重/字号/留白/细线分层，无框） ===== */
+/* 一级：时期为等宽小字眉标，阶段名为标题 */
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type {
+  margin: 0 !important; padding: 0 !important; border: 0 !important; background: none !important;
 }
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type {
+  display: block !important; margin: 0 0 .25rem !important; padding: 0 !important;
+  border: 0 !important; background: none !important; box-shadow: none !important;
+  font-family: var(--ac-mono) !important; font-size: .72rem !important; font-weight: 500 !important;
+  letter-spacing: .08em !important; text-transform: uppercase !important; color: var(--ac-accent) !important;
+}
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:nth-of-type(2) {
+  display: block !important; font-size: 1.12em !important; font-weight: 600 !important;
+  letter-spacing: -.01em !important; line-height: 1.4 !important; color: var(--text-normal) !important;
+}
+/* 阶段概述：无框，弱化色，限制行宽 */
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:not(:first-of-type) {
+  margin: .5rem 0 .85rem !important; padding: 0 !important; max-width: 62ch;
+  border: 0 !important; background: none !important; border-radius: 0 !important;
+  font-size: .93em !important; line-height: 1.75 !important; color: var(--ac-muted) !important;
+}
+/* 二级：年份等宽列 + 细时间轴（竖线 + 小圆点），无分隔线 */
 body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) {
-  position: relative !important; margin: .65rem 0 .3rem .45rem !important; padding: 0 0 0 1.15rem !important;
-  list-style: none !important; border: 0 !important; border-left: 1px dashed var(--ac-edge) !important; background: none !important;
+  --oe-rail: 3.6rem;
+  position: relative !important; margin: 0 !important; padding: 0 !important; list-style: none !important;
+  border: 0 !important; background: none !important;
+}
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol)::before {
+  content: "" !important; display: block !important; position: absolute !important;
+  left: var(--oe-rail) !important; top: 1rem !important; bottom: 1rem !important; width: 1px !important;
+  background: color-mix(in srgb, var(--ac-accent) 35%, transparent) !important;
 }
 body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li {
-  position: relative !important; margin: 0 !important; padding: .22rem 0 !important;
+  position: relative !important; margin: 0 !important; padding: .4rem 0 .4rem calc(var(--oe-rail) + 1rem) !important;
   border: 0 !important; background: none !important; box-shadow: none !important;
-  font-size: .9em !important; line-height: 1.65 !important; color: var(--ac-muted) !important;
+  font-size: .9em !important; line-height: 1.65 !important; color: var(--text-normal) !important;
 }
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li::after { content: none !important; display: none !important; }
 body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li::before {
   content: "" !important; display: block !important; position: absolute !important;
-  left: calc(-1.15rem - 4px) !important; top: .78em !important; width: 7px !important; height: 7px !important;
-  border: 0 !important; border-radius: 50% !important; background: var(--ac-accent) !important;
-  box-shadow: 0 0 0 3px var(--background-primary) !important; transform: none !important;
+  left: calc(var(--oe-rail) - 3px) !important; top: calc(.4rem + .825em - 3.5px) !important;
+  width: 7px !important; height: 7px !important; margin: 0 !important; border: 0 !important; border-radius: 50% !important;
+  background: var(--ac-accent) !important; box-shadow: 0 0 0 3px var(--background-primary) !important;
+  transform: none !important;
 }
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li:last-child::before {
+  background: var(--background-primary) !important;
+  box-shadow: inset 0 0 0 1.5px var(--ac-accent), 0 0 0 3px var(--background-primary) !important;
+}
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p { margin: 0 !important; }
 body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-of-type,
-body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-child > strong:first-of-type {
-  display: inline-block !important; min-width: 3.3em !important; margin-right: .55em !important; padding: 0 .4em !important;
-  border: 0 !important; border-radius: 4px !important; text-align: center !important;
-  background: color-mix(in srgb, var(--ac-accent) 13%, transparent) !important;
-  color: var(--ac-ink) !important; font-family: var(--ac-mono) !important; font-size: .85em !important; font-weight: 600 !important;
+body .callout.callout.callout.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-of-type > strong:first-of-type {
+  position: absolute !important; left: 0 !important; top: .4rem !important; width: calc(var(--oe-rail) - .8rem) !important;
+  margin: 0 !important; padding: 0 !important; text-align: right !important;
+  border: 0 !important; background: none !important; box-shadow: none !important;
+  font-family: var(--ac-mono) !important; font-size: .82em !important; font-weight: 500 !important;
+  line-height: 1.65rem !important; letter-spacing: .02em !important; color: var(--ac-muted) !important;
 }
