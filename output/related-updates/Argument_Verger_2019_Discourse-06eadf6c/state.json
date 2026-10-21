@@ -393,7 +393,7 @@
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -471,11 +471,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T07:45:59.017839+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -524,7 +525,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T07:51:47.420766+00:00"
     },
     {
       "number": 8,
