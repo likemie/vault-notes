@@ -86,8 +86,6 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 德国教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）针对新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2009）中所声称的基于 800 多项[[Meta-analysis|元分析]]找到了教学研究的圣杯（Holy Grail）提出质询：这一宏大综合是否真正确立了教学研究的可靠知识？其背后的[[Meta-meta-analysis|元-元分析]]方法论、[[Didaktik|教学理论]]建构以及[[Evidence-Based Education|证据本位教育]]的[[Epistemic Commitments|认识论承诺]]存在何种深层局限与内在困境？（p. 426）
 

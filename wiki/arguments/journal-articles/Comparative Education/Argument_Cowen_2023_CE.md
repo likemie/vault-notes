@@ -108,8 +108,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 比较教育（Comparative Education）作为一门大学学科已陷入制度性繁荣但理论性空洞的危机。学科中积累了大量用于自我合法化（self-legitimation）的陈词滥调（Banalities），而学者们习惯于待在这些舒适区中，未能意识到未来在隐喻层面上已然临近且极具紧迫性。如何将未来即现在这一直觉性隐喻，转化为审视比较教育学科未来的连贯[[Theoretical Perspective\|理论视角]]，是学科面临的核心问题。(p.326)
 

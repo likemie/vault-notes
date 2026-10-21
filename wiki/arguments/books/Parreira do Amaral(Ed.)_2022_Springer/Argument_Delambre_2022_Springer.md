@@ -65,8 +65,6 @@ citation_aliases:
 ---
 # Argument_Delambre_2022_Springer
 
-## 研究问题
-
 > [!question]
 > 在"新"[[Geopolitics of Knowledge\|知识地缘政治]]（new [[Geopolitics of Knowledge]]）的讨论中，[[Epistemology\|认识论]]（epistemology）应扮演什么角色？面对现代性"封闭理性"（closed rationality of modernity）在全球范围内引发的多重危机——环境崩溃、社会不平等、数字转型冲击——能否构建一种不急于消解矛盾、而是在张力中思考知识与实践关系的认识论？这种认识论如何为高等教育的转型提供具体路径？(p.105–107)
 

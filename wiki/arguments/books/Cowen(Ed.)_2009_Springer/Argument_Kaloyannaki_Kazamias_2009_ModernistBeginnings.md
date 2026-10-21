@@ -123,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究问题
-
 > [!question]
 > 比较教育学（Comparative Education, CE）在 19 世纪前中期的现代主义起源具有何种[[Epistemology\|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin\|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik\|外国教育学]]（Auslandspädagogik）考察[[Discourse|话语]]之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism\|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
 

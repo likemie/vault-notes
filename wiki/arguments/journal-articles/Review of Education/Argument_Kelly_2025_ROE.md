@@ -107,8 +107,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 尽管[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织与各国政府极力倡导一线教育者践行[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），但在真实学校[[Champ\|场域]]中，将外部[[Research Translation\|研究转化]]为[[Academic Achievement\|学业成就]]提升的努力普遍陷入困境。本研究旨在回答：在英格兰、苏格兰与德国这三个政策传统与治理体制截然不同的欧洲教育体系中，国家治理机制与[[Knowledge Mediation\|知识中介]]生态如何塑造[[School Leadership\|学校领导]]者的证据接触经验？学校领导者在何种制度约束下接触、筛选、吸收或排斥研究证据？
 

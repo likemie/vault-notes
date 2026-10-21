@@ -84,8 +84,6 @@ source_language: en
 
 ---
 
-## 研究问题
-
 > [!question]
 > 近十年来中国农村出现大规模的[[Peidu\|陪读]]（Peidu）现象，表现为农村家长放弃村级学校，选择在县城中心学校就读，并由成年家庭成员随迁陪同。这一教育迁移现象的本质是什么？作为一种在非市场化环境下发生的[[School Choice\|择校]]（School Choice）行为，其过程是否仍受家庭资本与社会阶层的分层筛选？如果是，经济资本（Economic Capital）、社会资本（[[Social Capital Theory\|social capital]]）和[[Cultural Capital\|文化资本]]（Cultural Capital）是如何在小城市教育分层中发挥作用的？这给农村薄弱学校和城乡教育不平等带来了怎样的隐性后果？(pp.300–301)
 

@@ -102,8 +102,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）能够直接生成结构完整、逻辑连贯且极具说服力的知识解答背景下，教育研究面临以下核心关切：
 > 1. **技术[[Paradigm\|范式]]转型与认知危机** 生成式大语言模型与传统基于规则检索的系统有何根本不同？为什么它在大幅降低信息搜寻成本的同时，容易诱发学生的[[Cognitive Offloading\|认知卸载]]（Cognitive Offloading）与认识盲从？

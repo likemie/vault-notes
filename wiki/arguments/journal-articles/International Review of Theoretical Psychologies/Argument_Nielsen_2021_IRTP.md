@@ -82,8 +82,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 为什么[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的《[[Visible Learning|可见的学习]]》（Visible Learning, VL）在统计方法和数据合成上存在公认的严重缺陷，却依然能风靡全球，受到政策制定者、学校行政管理者与教师的极度追捧？
 

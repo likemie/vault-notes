@@ -125,8 +125,6 @@ sources:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The Science of Using Science）的基础之上？（pp. 146–147, 157–158）
 

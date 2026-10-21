@@ -78,8 +78,6 @@ journal: McGill Journal of Education
 
 ---
 
-## 研究问题
-
 > [!question]
 > 从专业数理统计学视角系统审查 [[John Hattie|约翰·哈蒂]]（John Hattie） 在《[[Visible Learning|可见的学习]]》（*Visible Learning*, 2008）中构建的[[Meta-meta-analysis|二阶元分析]]方法论是否符合科学有效性的基本统计准则。面对汇总 800 余项[[Meta-analysis|元分析]]、50,000 余项研究和数百万学生的庞大数据库，该综合究竟属于严谨的[[Scientific Method|经验科学]]，还是以真实数据编造故事的伪科学？（pp. 237–238）
 

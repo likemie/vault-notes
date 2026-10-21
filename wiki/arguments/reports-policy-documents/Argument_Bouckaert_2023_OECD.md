@@ -157,8 +157,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在全球[[Knowledge-Based Economy\|知识经济]]、技术自动化与复杂社会挑战背景下，[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS，特别是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]）已被广泛确立为高等教育的核心培养目标；然而，政策层面的高度重视是否真正转化为系统化、有效度且广泛落地的学生学业评价实践？[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）成员国在宏观国家政策、中观大规模标准化考试与微观高校校本考核中分别采取了哪些政策工具与评价载体？其间存在何种制度断裂与方法学挑战？如何构建支持高阶思维评价的系统性政策与实践生态？（pp. 4–5）
 

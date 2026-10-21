@@ -141,8 +141,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, Gen-AI）在高等教育中的应用日益广泛，但学界关于其促学[[Effect Size\|效应量]]大小与作用机制尚未达成共识，既有[[Meta-analysis\|元分析]]常因未严格控制实验[[Pre-test and Post-test\|前测]][[Baseline Standardized Mean Difference\|基线等效性]]、忽视未发表研究或局限于语言与认知单项技能而可能高估效应量。核心探究问题在于：在控制基线等效性的方法学门槛下，生成式 AI 对大学生的多维学习成果（[[Academic Achievement\|学业成绩]]、[[Affective Outcomes\|情感动机]]、[[Higher-Order Thinking Skills\|高阶思维]]、[[Language Skills\|语言技能]]与[[Metacognition\|元认知]]）究竟具有多大效应？这些效应如何受到学习者特征、工具形态、AI 角色、干预规则以及社会文化情境等 17 项调节[[Variable\|变量]]的调节？（pp. 1–3）
 

@@ -96,8 +96,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在大语言模型（Large Language Models, LLMs）等[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）广泛涌入中小学教学日常的背景下，面对学生日益普遍地将文章起草、解题论证与创意构思全盘外包给算法所引发的认知与[[Creative Deskilling|创造力去技能化]]危机，教育界全面禁止此类工具是否可行且合理？如果不可行，教育[[Epistemology|认识论]]应当如何厘清技术工具与育人终极目标之间的规范性张力？我们如何能够从底层重塑人机交互规则，将大语言模型从直接输出答案的解题机器，逆转为专门训练[[Skill of Questioning|提问技能]]、驱动个性化深层理解并滋养学生[[Epistemic Virtues and Vices|理智美德]]的启发式导师？
 

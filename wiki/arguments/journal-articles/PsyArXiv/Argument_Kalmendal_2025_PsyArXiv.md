@@ -98,8 +98,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning, VL）汇总全球 2,400 余项[[Meta-analysis|元分析]]，归纳为 322 个按[[Effect Size|效应量]]排序的教育影响因素，声称系统揭示了对学生[[Academic Achievement|学业成就]]最有影响的教学实践与政策杠杆。然而，该二阶综合体系长期遭受分散的方法论与统计批评。本研究通过全库[[Preregistration|预注册]][[Metascience|元科学]]审计，回答三个核心问题：VL 纳入的元分析是否符合基本的受试者、干预、对照与结局（[[PICO Framework|PICO]]）规范？其报告的效应量、[[Sample Size Determination|样本量]]与研究数在底层元分析中是否可独立复现？其所呈现的影响因素在基础教育（K-12）学校实践中究竟具备多大的现实相关性？（pp. 3–4, 9–10）
 

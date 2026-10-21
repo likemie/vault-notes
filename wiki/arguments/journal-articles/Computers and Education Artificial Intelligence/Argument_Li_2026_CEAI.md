@@ -130,8 +130,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在[[Man-Computer Symbiosis|人机协同]]学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 

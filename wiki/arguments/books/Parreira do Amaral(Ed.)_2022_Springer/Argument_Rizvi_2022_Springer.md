@@ -86,8 +86,6 @@ citation_aliases:
 ---
 # Argument_Rizvi_2022_Springer
 
-## 研究问题
-
 > [!question]
 > 亚洲的经济和政治崛起如何重塑了全球高等教育的架构？
 

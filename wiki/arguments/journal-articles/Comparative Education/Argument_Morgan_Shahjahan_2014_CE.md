@@ -91,8 +91,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 既往[[International Education|国际教育]]治理研究多聚焦于评估工具发布后对主权国家政策的冲击，却忽略了评估工具本身的研发阶段。[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在缺乏法律强制力与金融约束手段的前提下，如何在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）与[[OECD AHELO Project|高等教育学习成果评估]]（Assessment of Higher Education Learning Outcomes, AHELO）的[[Test Production|测验生产]]早期确立自身的专业威权并界定全球教育标准？
 

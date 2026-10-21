@@ -100,8 +100,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 过去二十年间，科学教育研究者与政策制定者普遍将论证能力确立为[[21st Century Skills and Competencies Discourse\|核心素养]]目标。然而，学界长期占主导地位的评价方案高度依赖图尔敏论证型式（Toulmin's Argument Pattern, [[Toulmin's Argumentation Model\|TAP]]）及其衍生的结构主义进路（如主张-证据-推理，[[CER Framework\|Claim-Evidence-Reasoning]], CER，框架），仅根据是否具备特定句法部件评判论证优劣。在当下错误信息与虚假信息泛滥的社会语境中，气候变暖否定论与反疫苗言论等充斥伪科学逻辑的文本，往往在结构复杂性上表现优异，而结构分析对此类[[Epistemology\|认识论]]缺陷彻底失明。科学教育亟需建立一套怎样的理论评价框架，方能超越单纯的外部句法结构，系统捕捉科学论证背后的认识论实质与证据因果[[Reliability\|信度]]？（pp. 201–204）
 

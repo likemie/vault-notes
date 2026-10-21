@@ -75,8 +75,6 @@ citation_aliases:
   - "Parreira do Amaral, 2022"
   - "Parreira do Amaral (2022)"
 ---
-## 研究问题
-
 > [!question]
 本章试图回答的核心问题是：如何从[[Geopolitics|地缘政治视角]]理解当前全球高等教育的深刻转型？具体而言，本章建议将地缘政治作为分析透镜，以审视[[Knowledge Production|知识生产]]与高等教育如何被整合进国家、区域和企业在全球知识密集型资本主义中确立和改善自身位置的战略想象与算计之中(pp.36–37)。
 

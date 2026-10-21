@@ -129,8 +129,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 过去半个世纪中，心理学与教育学界积累了数以千计关于[[Creativity\|创造力]]的一级实证研究与数十项一阶[[Meta-analysis\|元分析]]（Meta-Analysis）。然而，各一阶元分析聚焦于狭窄子领域（如单一认知测验、特定人格特质或某类干预方案），结论分散且缺乏顶层统合，涉及两个核心科学问题：
 > 1. **创造力是否重要** 创造力在研究中作为[[Independent Variable\|自变量]]或预测[[Variable\|变量]]（Predictor）时，能否在全领域跨情境中稳定、有效地预测[[Academic Achievement\|学业成就]]、身心健康及现实[[Problem Solving\|复杂问题解决]]等重要生活结果？

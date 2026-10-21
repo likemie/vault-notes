@@ -95,8 +95,6 @@ journal: "SAGE Open"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 尽管国际政策（如美国《[[Every Student Succeeds Act\|每一个学生成功法案]]》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001\|NCLB]]））与专业组织（[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、[[British Educational Research Association\|英国教育研究学会]]与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education\|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索文献；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy\|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior\|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization\|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers\|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
 

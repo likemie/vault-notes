@@ -133,8 +133,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 20 世纪上半叶由[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者奠立的历史-哲学-文化与自由人文主义母题究竟包含哪些深层[[Epistemology\|认识论]]基石与内部[[Paradigm\|范式]]分殊？在 1960 年代战[[Postpositivism\|后实证主义]]、量化主义与[[Structural Functionalism|结构功能主义]]的科学化围剿下，该传统何以被贬斥为前科学或神秘主义？比较教育学者应如何超越狭隘[[Positivism\|实证主义]]，重构[[Historical-Comparative Method\|历史比较法]]的现代学科合法性？
 

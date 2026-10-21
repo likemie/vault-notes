@@ -79,8 +79,6 @@ citation_aliases:
   - "Moisio, 2022"
   - "Moisio (2022)"
 ---
-## 研究问题
-
 > [!question]
 
 当代知识密集型资本主义在什么意义上是一种[[Geopolitics|地缘政治]]经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。

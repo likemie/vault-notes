@@ -100,8 +100,6 @@ journal: Educational Philosophy and Theory
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的《[[Visible Learning|可见的学习]]》（*Visible Learning*）在全球教育政策、[[School Leadership|学校领导]]与实践领域建立了广泛影响，但支撑其实证[[Meta-analysis|元分析]]背后的教育理论根基却鲜少接受哲学审查。托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）追问：可见学习深层所依赖的基本教育理论究竟是什么？该理论在概念逻辑、[[Epistemic Stances|认识论立场]]与教学论维度上是否能够成立？
 

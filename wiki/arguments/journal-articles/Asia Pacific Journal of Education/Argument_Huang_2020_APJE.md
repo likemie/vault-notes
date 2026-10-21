@@ -84,8 +84,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）作为二战后原初服务于经济战线的多边机构，如何演化为掌控[[Global Educational Discourse|全球教育话语]]权的核心力量？既往研究多聚焦[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）与[[World Bank|世界银行]]（World Bank），忽视了 OECD 独特的政策规训手段。学者通过剖析涵盖历史沿革、行动主体与国家体制的实证案例，旨在厘清国际测评背后的权力运作逻辑，并评估这套度量体系对转型中国家教育生态的深远影响。（pp. 422–424）
 

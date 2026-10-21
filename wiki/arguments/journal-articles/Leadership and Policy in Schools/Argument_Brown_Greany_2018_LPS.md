@@ -103,8 +103,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在英格兰基础教育体系由中央指令型管理全面转向[[Self-Improving School System\|自我改进学校系统]]（Self-Improving School System, SISS）的宏观政策转型中，[[School Leadership\|学校领导]]者应当将有限的时间、精力与财务资源优先投向何处，方能把学校真正建设为可持续运行的[[Research-Engaged School\|研究参与学校]]？回答该核心问题包含两个逻辑环节：首先，基于既有文献建构支撑学校[[Evidence-Informed Practice\|证据知情实践]]的四[[Factorial Interpretive Framework\|因素分析框架]]；其次，依托大规模基线调查实证测度英格兰小学的实际准备状态与机制断裂点，据此确立学校领导力干预的优先级与外部制度改革诉求。（pp.115–116）
 

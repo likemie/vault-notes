@@ -71,8 +71,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 既有微电子革命史与产业经济学文献（Golding, 1971; Levin, 1982; Steinmueller, 1987）多将硅技术的成型与扩散归因于美国军方的赞助采购、[[Learning Economy|学习经济]]以及良率提升带来的被动降价，忽视了企业制造专门知识的获取机制、进军商业市场的社会经济动因以及元器件厂商与下游用户共同构建新产品与应用方案的微观过程。本文旨在探讨：处于[[San Francisco Bay Area|旧金山湾区]]的[[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）究竟通过怎样的制造革新、组织重组、用户-供应商互动以及系统级封装设计，推动硅微电子技术在1960至1967年间跨越军民市场鸿沟，最终演变为辐射全美计算机、消费电子与汽车等多元工业部门的[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）？（pp. 179–181）
 

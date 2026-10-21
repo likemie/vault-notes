@@ -72,8 +72,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系下，如何平衡高强度的学术学习与发展学生想象力的需求？具体而言，目前的[[Theory of Knowledge\|知识论]]（TOK）课程中潜藏着哪些压抑性的哲学预设？应当如何利用[[Baruch Spinoza\|斯宾诺莎]]（Spinoza）的情感政治重构一种解放想象力的国际课程模式？
 

@@ -79,8 +79,6 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 二战后《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（Science, The Endless Frontier）所奠定的联邦资助体系如何重塑了美国[[Research Universities|研究型大学]]的科研格局，大学自身又是如何策略性回应与重构这一制度契约的？历经近七十年的演变，为何巨额的科研经费投入并未带来体制的从容繁荣，反而使大学科研生态深陷入不敷出、普遍规避风险与人才供求失衡的深层危机？（pp.2–4）
 

@@ -116,8 +116,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）在教育中的迅速普及，[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|教育机器人]]、生成式[[AI Agent in Education\|智能体]]及[[Conversational AI in Education\|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证文献关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis\|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable\|变量]]如何影响这一效能？（pp.1–3）
 

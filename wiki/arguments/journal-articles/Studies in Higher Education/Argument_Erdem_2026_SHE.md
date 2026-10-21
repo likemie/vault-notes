@@ -106,8 +106,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 21世纪经济秩序要求雇员具备克服新障碍与参与复杂沟通的能力，[[Problem Solving\|问题解决]]被提升为各领域的关键技能，高等教育机构因此被要求调整课程，以培养面向真实问题、具备高阶认知能力的学生。作为以真实问题为出发点的[[Constructivist Paradigm\|建构主义]]教学模式，[[Problem-Based Learning\|问题本位学习]]（Problem-Based Learning，PBL）自 1960 年代从医学教育起源，随后在医学、护理、药学、牙科与工程等高等教育专业普及，并被认为符合能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]的政策趋势。（pp. 950–951）
 >

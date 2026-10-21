@@ -53,8 +53,6 @@ updated: 2026-10-16
 # Argument_Lester_2005_MIT
 
 ---
-## 研究问题
-
 > [!question]
 > 大学如何通过贡献于本地产业创新过程来支持地方经济发展？本地经济的活力取决于本地企业能否通过持续引入商业化产品、服务和生产流程来适应不断变化的市场和技术。但并非所有地方经济都能同样成功地适应。|理查德·莱斯特（Richard K. Lester）在 MIT 工业绩效中心（Industrial Performance Center）的 [[Local Innovation Systems Project]]（Local [[Systems of Innovation\|innovation systems]] Project）第一阶段中，通过对 6 个国家 22 个地区的产业转型[[Case Study\|案例研究]]，提出了一个核心问题：**大学对本地经济的贡献方式是否取决于本地正在发生什么类型的产业转型？**
 

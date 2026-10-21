@@ -85,8 +85,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[John Hattie|John Hattie]] 的[[Visible Learning|可见的学习]]在多大程度上适用于俄罗斯教育？其科学论据与[[Effect Size|效应量]]计算的数理基础是否可靠？将 Hattie 的理念纳入俄罗斯各级教育政策是否具有现实可行性？(p.229, 232)
 

@@ -57,8 +57,6 @@ citation_aliases:
 # Argument_Hartmann_2022_CorporateEducation
 
 
-## 研究问题
-
 > [!question]
 > Hartmann 提出的核心问题是：**跨国公司（MNCs）在多大程度上能够跨越国界，统一其分布在全球各分支的[[Corporate Education\|企业教育]]？** 这个问题背后藏着更深层的追问——如果说高等教育已经在全球化研究中占据一席之地，那么企业教育（一种非正规、但规模庞大的教育形式）是否也有自己的[[Geopolitics|地缘政治]]和地缘经济维度？
 

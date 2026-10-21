@@ -77,8 +77,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 个人[[Epistemology\|认识论]]研究中的发展阶段模型与多维信念模型能否被整合？学生的[[Epistemic Cognition\|认识论认知]]究竟是领域一般的，还是会随数学、历史等学科而变化？这种认知轮廓又与教育水平和[[Academic Achievement|学业表现]]有何关系？
 

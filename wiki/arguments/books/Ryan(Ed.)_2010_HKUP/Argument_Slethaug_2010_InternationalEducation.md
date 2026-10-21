@@ -57,8 +57,6 @@ citation_aliases:
 ---
 # Argument_Slethaug_2010_InternationalEducation
 
-## 研究问题
-
 > [!question]
 > Slethaug 要回答的核心问题是：[[International Education\|国际教育]]是如何在短短几十年间"在无人察觉的情况下"爆炸式增长的？在这一过程中，[[Chinese Learner\|中国学习者]]扮演了什么角色、受到了什么影响？
 >

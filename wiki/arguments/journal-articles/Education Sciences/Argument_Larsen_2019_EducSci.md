@@ -98,8 +98,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 过去十至十五年间，[[International Education|国际教育]]研究、教育规划与政策制定领域形成了一项高度强势的跨国共识，宣称学习不仅是、而且必须成为一种可见的现象。丹麦教育哲学家[[Steen Nepper Larsen|斯滕·内珀·拉森]]（[[Steen Nepper Larsen]]）对这一统治性信条发起哲学质询：学习究竟能否作为即时可见的客观现象被完整把握？[[Visible Learning|可见的学习]]（Visible Learning, VL）[[Paradigm|范式]]存在哪些深层的固有认知阻碍？盲视何以必然构成教育观看中不可逃避的组成部分？（pp. 1–2）
 

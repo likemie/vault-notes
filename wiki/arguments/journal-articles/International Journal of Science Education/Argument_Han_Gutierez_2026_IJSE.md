@@ -83,8 +83,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（generative artificial intelligence, GenAI）深度融入科学教育的背景下，大语言模型展现出的表面语义流畅性与潜在的生成虚构（[[AI Hallucination]]）对学生的认知判断构成了严峻挑战。既有探索多聚焦于人工智能对探究产出与推理结果的辅助效能，却极少考察学生在[[Man-Computer Symbiosis|人机协同]]建构[[Scientific Explanation\|科学解释]]过程中如何对算法生成的知识展开批判性评估与核验。初中科学学习者在显性[[Epistemic Scaffolding\|认识论支架]]（explicit epistemic [[Scaffolding]]）的支持下，如何践行[[Epistemological Vigilance\|认识论警觉]]（epistemic vigilance）？学科解释标准与[[Reflexivity\|反思性]]提问提示语如何协同引导学生对人机生成的文本与多模态图像开展内容、信源及自我认知层面的审问、核对与迭代重构？
 

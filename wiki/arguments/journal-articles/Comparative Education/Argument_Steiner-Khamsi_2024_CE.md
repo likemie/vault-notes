@@ -160,8 +160,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（Lubienski & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank\|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage\|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex\|全球教育治理复合体]]如何[[Soft Power by Hard Facts\|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 

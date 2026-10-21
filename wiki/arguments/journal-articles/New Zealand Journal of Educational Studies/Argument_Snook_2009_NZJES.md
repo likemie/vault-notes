@@ -107,8 +107,6 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 由[[Ivan Snook|伊万·斯努克]]（Ivan Snook）等新西兰学者审查[[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|可见的学习]]》（*Visible Learning*）中所运用的二阶[[Meta-analysis|元分析]]（Meta-analysis）综合方法、统计指标解释及其在教育政策中的推论是否合理。核心考察：这种不审查原始研究质量、排除校外家庭与社会背景、机械依赖 0.40 [[Effect Size|效应量]]分界线的做法是否可靠？其排出的效应量高低能否直接作为国家教育经费分配与教师课堂教学的行动指南？
 

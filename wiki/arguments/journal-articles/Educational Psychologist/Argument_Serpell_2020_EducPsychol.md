@@ -100,8 +100,6 @@ journal: Educational Psychologist
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在当代教育改革中，学界普遍推崇以[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）为金标准的循证进路，然而学术界高质量研究产出与国家宏观政策决策之间始终存在难以逾越的结构性断裂。为什么学术界奉为圭臬的严谨因果证据往往无法适应立法机关的决策生态？教育研究者应当如何理解联邦政策制定的制度环境、时间节律与权力机制，从而在政策生命周期中找准介入契机并实现实证证据的有效整合？
 

@@ -83,8 +83,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在教育和心理学研究中，人们关于知识本质以及认知过程的信念（即[[Epistemological Beliefs\|认识论信念]]）是如何发展的？这些信念如何与学习、动机和认知相互作用？
 

@@ -84,8 +84,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在教育心理学与实证教育研究中，[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis\|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size\|效应量]]基准（如[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术文献全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research\|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
 

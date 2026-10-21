@@ -91,8 +91,6 @@ updated: 2026-10-16
 
 ---
 
-## 研究问题
-
 > [!question]
 > 过去25年间，中低收入国家（Low- and Middle-Income Countries, LMICs）的基础教育入学率大幅攀升，但数以亿计的儿童在完成小学学业后仍不具备最基本的读写与算术技能，陷入[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）所界定的[[Learning Crisis|全球学习危机]]。实证研究一致表明，这一危机本质上是教学质量危机，教师教学水平差异是决定学生[[Academic Achievement|学业表现]]最关键的校内因素；然而，教师的学历、教龄与执业考试等传统外在特征对教学成效变异的解释力极为有限，实际发生的课堂互动才是质量的核心决定力量。面对大多数中低收入国家既无有效工具也缺乏专业能力定期监测课堂教学实践、在职培训严重脱离实际教学的体制性困境，如何研制一套兼具高信效度、开源易用且契合发展中国家实际的标准化[[Classroom Observation|课堂观察]]工具，以实现教育系统宏观诊断与微观教师专业发展的有机衔接？
 

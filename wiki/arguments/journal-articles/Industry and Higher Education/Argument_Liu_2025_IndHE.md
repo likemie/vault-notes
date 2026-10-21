@@ -84,8 +84,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）实施十余年来，中国高等教育在其中发挥着怎样的实质作用？西方[[Discourse|话语]]普遍将该倡议指控为[[Debt-Trap Diplomacy|债务陷阱外交]]和新殖民主义地缘扩张，而既有高教研究也多假定中国招收国际学生缺乏经济考量、仅用于展示政治[[Soft Power|软实力]]。在此背景下，中国高校如何协同海外重点能源与基建工程开展人才培养？这类跨国合作办学在多大程度上契合[[Jane Knight|简·奈特]]（Jane Knight）界定的[[Knowledge Diplomacy|知识外交]][[Analytic Framework|分析框架]]（Knight, 2022b）？（pp.187–188）
 

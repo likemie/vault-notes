@@ -90,8 +90,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临流失危险。
 

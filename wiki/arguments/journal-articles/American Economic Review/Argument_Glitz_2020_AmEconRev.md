@@ -67,8 +67,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 国家支持的工业间谍（[[Economic and Industrial Espionage\|industrial espionage]]）能否产生可测量的经济回报？在东德通过斯塔西（Stasi）对西德进行大规模工业间谍活动的历史背景下，情报流入是否缩小了两德之间的行业[[Total Factor Productivity\|全要素生产率]]（TFP）差距？（p.1056）
 

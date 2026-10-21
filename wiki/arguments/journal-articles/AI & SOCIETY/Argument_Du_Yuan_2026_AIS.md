@@ -116,8 +116,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > **[[Central Question\|核心研究问题]]** 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）从单纯的辅助软件转变为常态化的求知中介，教育的核心关切应如何从“关注技术采纳率与防范学术不端”，转向“辨析技术中介究竟是支持了求知探索，还是悄然置换了形成独立评价判断所必需的心智工作”？
 >

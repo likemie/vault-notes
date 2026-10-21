@@ -96,8 +96,6 @@ updated: 2026-10-16
 # Argument_OxfordUIDP_2019_UIPartnerships
 
 ---
-## 研究问题
-
 > [!question]
 > 政府、大学和企业之间的合作关系正受到前所未有的关注。各国面临如何将大学产生的知识通过[[Technology Transfer\|技术转移]]和产业合作转化为经济与社会价值的共同挑战。与此同时，全球、技术和社会经济格局的持续变化要求[[University-Industry Collaboration\|产学合作]]社区不断理解最新趋势、新兴问题以及建立有效伙伴关系的经验。2019 年，牛津大学与大学-产业示范伙伴关系（University-Industry Demonstration Partnership，[[University Industry Demonstration Partnership\|UIDP]]）联合举办了首届 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]]，汇集了来自英国、美国、欧洲及其他地区的 149 名大学、企业和政府高层，旨在识别新的、更好的合作方式并明确需要解决的关键议题。
 

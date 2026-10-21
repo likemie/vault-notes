@@ -88,8 +88,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 被美国政府树立为关键技术公私协同典范的[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, [[Sematech]]），其真实的运行机制、研发重点调整与政策成效究竟如何？在 1990 年代初美国半导体芯片与制造装备全球市场份额反超日本的过程中，[[Sematech]] 发挥了哪些实质作用，又面临哪些能力局限？对比美、日、欧 16 个高技术研发（Research and Development, R&D）联合体，该案例为高技术产业政策与研发联盟制度设计提供了哪些基本经验？
 

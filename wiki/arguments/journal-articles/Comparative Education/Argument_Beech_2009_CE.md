@@ -95,8 +95,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 同一个教育理念，比如培养学生的能力或尊重多样性，出现在 [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，[[OECD]]）的报告里、巴西的国家课程文件里、布宜诺斯艾利斯郊区教师的日常[[Discourse|话语]]里，但它们的含义是相同的吗？如果不是，是什么机制导致了意义的变化？这些变化又产生了怎样的实际后果？
 

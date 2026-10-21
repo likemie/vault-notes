@@ -93,8 +93,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）如何在澳大利亚公共教育领域崛起，其背后的[[Policy Network\|政策网络]]（Policy Network）如何动员高层系统性教育改革并塑造新型治理技术；这种[[Philanthrocapitalism\|慈善资本主义]]（Philanthrocapitalism）的兴起如何根本改变资本主义国家的形态、功能以及公共财政的再分配方式。
 

@@ -73,8 +73,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question] 脑与认知的平行发育关联性
 > [[Jean Piaget\|皮亚杰]]与新皮亚杰主义的[[Piaget's Theory of Cognitive Development\|认知发展阶段理论]]，是否同[[Prefrontal Cortex\|前额叶皮层]] (Prefrontal Cortex, PFC) 的解剖生理发育以及[[Executive Function\|执行功能]] (Executive Function, EF) 的发展在时间上平行对应？（pp.1–2）
 > 

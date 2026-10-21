@@ -86,8 +86,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 尽管既有研究指出学生的[[Epistemological Beliefs\|认识论信念]]与其思维推理、认知策略及[[Academic Achievement\|学业成绩]]存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement\|学业成就]]等级、性别以及微观教学[[Task Structure\|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity\|反思性]]判断具有差异化的预测效力？（pp.307–308, 312）
 

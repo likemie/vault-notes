@@ -86,8 +86,6 @@ updated: 2026-10-21
 
 ---
 
-## 研究问题
-
 > [!question]
 > 以科学证据为基础制定教育政策，是过去数十年全球教育治理最显著的变化之一，[[School Inspection|学校督导]]正处在国家政策与地方实践之间。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 的[[Systematic Review|系统综述]]与 [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 的体制比较均将[[Research Utilization|研究使用]]置于结构、关系与制度安排的脉络中；[[Argument_Legrand_2012_PolStud|Legrand (2012)]] 阐释了[[Policy Borrowing|政策借用]]的扩散机制，但治理机构内部究竟如何选择、转译与重塑研究证据，仍有待微观组织维度的经验追踪。（pp. 642–644）
 >

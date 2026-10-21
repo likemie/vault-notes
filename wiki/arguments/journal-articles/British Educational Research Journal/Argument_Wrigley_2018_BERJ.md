@@ -93,8 +93,6 @@ citation_aliases:
   - "Wrigley, 2018"
   - "Wrigley (2018)"
 ---
-## 研究问题
-
 > [!question] Question
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与 [[Epistemology\|认识论]]（Epistemology）危机：
 > 1. 当教育研究中的证据被窄化为 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）与 [[Effect Size\|效应量]]（Effect Size）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？

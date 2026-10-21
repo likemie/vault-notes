@@ -86,8 +86,6 @@ citation_aliases:
 ---
 # Argument_Byrne_2025_InnovationCenters
 
-## 研究问题
-
 > [!question]
 > [[Innovation Hub\|创新中心]]（Innovation Center）与[[Innovation Park\|研究园区]]（Research Park）在本章中交替使用，是[[University-Industry Collaboration\|产学合作]]的重要基础设施。建一栋楼、挂上"创新中心"的牌子，并不会自动催生一个充满活力的社区。
 >

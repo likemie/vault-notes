@@ -120,8 +120,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]都被视为学生在 21 世纪立足的关键技能：[[National Education Association\|全美教育协会]]（[[National Education]] Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect\|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct\|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
 

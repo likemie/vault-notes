@@ -97,8 +97,6 @@ journal: Educational Research
 
 ---
 
-## 研究问题
-
 > [!question]
 > 21世纪全球金融危机后，欧美多国公共财政紧缩导致教育行政资助持续削减，传统的自上而下指令式改革日渐式微，各国政策重心加速转向自下而上的学校自我改进。这种宏观转型迫使学校与教师必须自主建立三项核心专业能力：识别教学核心问题、探究其深层根因、设计并实施针对性改进举措。在此背景下，学校纷纷寻求[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）作为支撑路径。然而，当前实践中主导的两条途径——[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）——长期作为两个互不交融的独立世界平行演进：DBDM 专注于校内数据分析而缺乏外部成熟教学方案，RITP 偏好学术文献研读却往往脱离校本真实需求，二者均未能达成学界设想的融通多元证据的全面 EIP 愿景。如何打破两派的制度与[[Epistemology\|认识论]]壁垒，将校本数据、实践经验与学术研究系统融合，构建一个兼顾诊断与干预的整体性学校与教师改进模型？（pp. 155–156）
 

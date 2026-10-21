@@ -72,8 +72,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的[[Theory of Knowledge\|知识论]]（Theory of Knowledge，ToK）自称是[[Critical Thinking\|批判性思维]]课程，但其课程目标、评估目标与两项评估工具在多大程度上真正覆盖并测量了[[Critical Thinking\|批判性思维]][[Construct\|构念]]？三层课程文本之间是否形成足以支持[[Construct Validity\|构念效度]]的对齐关系？（pp.30–31）
 

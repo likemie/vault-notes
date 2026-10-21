@@ -83,8 +83,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在全球教育治理研究中，[[Test-Based Accountability\|考试问责]]（Test-Based Accountability）与以学生为中心教育（[[Learner-Centred Education]], LCE）常被简化为二元对立：前者依赖标准化考试、绩效管理与行政监管，后者强调[[Inquiry-Based Learning\|探究学习]]、学生自主与民主课堂。许多学者认为高利害考试必然扼杀进步主义教学改革（Ball, 2003; Schweisfurth, 2015）。然而，在东亚高压应试文化下，学校能否打破应试与改革的二元排他假象，实现考试优异与教学法创新的并行？
 >

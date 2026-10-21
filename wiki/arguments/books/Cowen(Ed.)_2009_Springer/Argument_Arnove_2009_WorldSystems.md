@@ -105,8 +105,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 比较教育学在步入全球化时代后，如何运用[[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）解释跨国教育改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
 

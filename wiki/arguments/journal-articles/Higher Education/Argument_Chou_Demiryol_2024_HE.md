@@ -75,8 +75,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 中国在[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）框架下主导创建多所跨国大学联盟的动因与战略逻辑为何？这种外向型[[Internationalization of Higher Education|高等教育国际化]]实践究竟体现了追求地缘领导地位的[[Knowledge Power|知识权力]]，还是体现了促进多边合作应对全球危机的[[Knowledge Diplomacy|知识外交]]？两种截然不同的组织形态如何实现共存并映射全球知识秩序的演变？（pp. 1693–1695）
 

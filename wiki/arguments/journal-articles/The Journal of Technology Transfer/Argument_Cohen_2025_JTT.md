@@ -74,8 +74,6 @@ citation_aliases:
 ---
 # Argument_Cohen_2025_JTT
 
-## 研究问题
-
 > [!question]
 > 产学研发合作（UICs）产生的影响如何在概念上系统地分类？测量这些影响时会遇到哪些方法论障碍，又有哪些策略可以克服这些障碍？
 

@@ -85,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》（*Visible Learning*）中提出的二级[[Meta-analysis|元分析]]（[[Meta-meta-analysis|Second-Order Meta-Analysis]], SOMA，即对元分析进行再综合）方法，在统计数学与[[Scientific Method|科学方法]]论上是否具有可支撑的稳健性？其汇总 800 余项一级元分析、覆盖 138 个影响因素并按[[Effect Size|效应量]]（Effect Size, ES）高低建立的教育有效性排行榜，在实证数据基础、加权计算程序与因果比较逻辑上是否成立？（pp. 21–24）
 

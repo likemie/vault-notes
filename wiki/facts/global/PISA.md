@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 139
-fact_related_level: 13
-fact_related_stars: "💎💎💎💎⭐"
+fact_related_count: 117
+fact_related_level: 11
+fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - region/global
@@ -71,24 +71,14 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Causality]]"
-  - "[[Going Native]]"
   - "[[PISA Global Competence]]"
-  - "[[Global Citizenship]]"
   - "[[PISA Creative Thinking]]"
-  - "[[Creativity Assessment]]"
-  - "[[Center of Calculation]]"
-  - "[[Falling Standards Template]]"
-  - "[[STEM Education]]"
   - "[[PISA Shock]]"
-  - "[[Plaintive Comparison]]"
-  - "[[Heterogeneity]]"
-  - "[[Public Value]]"
-  - "[[Global Education Reform Movement]]"
-  - "[[Mediatised Governance]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Externalization]]"
-  - "[[Educational Decentralization]]"
-  - "[[Test Production]]"
+  - "[[PISA Made-up Claim]]"
+  - "[[PISA Monolithic View of Education]]"
+  - "[[PISA Distorted View of Education]]"
+  - "[[PISA Score Negative Correlation]]"
+  - "[[PISA Glorifying Authoritarian Education]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Sampling Frame]]"
@@ -98,19 +88,11 @@ related_methods:
   - "[[Matrix Sampling]]"
   - "[[Plausible Values]]"
   - "[[Differential Item Functioning]]"
-  - "[[Systematic Review]]"
 related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Steen Nepper Larsen]]"
-  - "[[John Hattie]]"
-  - "[[Alain Desrosières]]"
-  - "[[Nikolas Rose]]"
-  - "[[Dominique Foray]]"
-  - "[[Wolfgang Mitter]]"
-  - "[[Torsten Husén]]"
-  - "[[José Luis García Garrido]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA Governing Board]]"
@@ -142,10 +124,6 @@ related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Organic Law on Education 2006]]"
   - "[[2014 Open Letter on PISA]]"
-  - "[[Beyond 2000 Report]]"
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[Institute for Educational Quality Improvement]]"
-  - "[[Loi Fillon 2005]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
@@ -287,7 +265,6 @@ updated: 2026-10-22
 > | **[[PISA Shock in the United States\|美国]]** | • **2000–2009** 历轮评估成绩长期在 OECD 中游徘徊<br>• **2010** 上海登顶引爆“新卫星时刻”政策恐慌（详见 [[PISA Shock in the United States]]）<br>• **2009–2010** 出台《共同核心州立标准》（[[Common Core State Standards\|CCSS]]）<br>• **2009–2015** 联邦“[[Race to the Top\|力争上游]]”（RTTT）专项拨款深度绑定与反弹 | • 阅读与数学长期处于中游，各州原有标准极度碎片化且深浅不一<br>• 基础素养赤字明显，贫富与种族学区差距深层固化 | • **将上海成绩视作新卫星时刻动员危机** 政策精英将跨国差距转化为应对全球知识经济竞争的危机叙事，打破各州分权阻力（详见 [[PISA Shock in the United States]]）<br>• **跨州自愿联盟制定共同核心标准** 依托 NGA 与 CCSSO 联盟制定统一课标（[[Common Core State Standards\|CCSS]]），绕过联邦宪法立标禁忌<br>• **联邦竞争拨款撬动** 运用“[[Race to the Top\|力争上游]]”（RTTT）专项拨款将 CCSS 采纳与联邦注资刚性绑定 | • **成效启示** 成功打破对国家统一标准的政治禁忌，实现最大规模自愿趋同<br>• **后续挑战** 联邦隐性集权引发保守派强烈反弹，多州后续退出或修订考试联盟 |
 > | **[[PISA Response in Spain\|西班牙]]** | • **1990** 颁布 [[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 强推综合初中<br>• **2000 / 2003** 连续两轮惨跌稳居欧盟末位<br>• **2006** 颁布 [[Organic Law on Education 2006\|LOE]] 修补但难挽平庸局面 | • 留级率与失败率畸高（14 岁 25%、16 岁达 33%）<br>• 卓越生极度匮乏（<4%），高投入高师生比难掩低质 | • **综合初中错位** 14–16 岁强行统整为十年均质初中，缺乏适性分流<br>• **激进分权失调** 17 个自治区各自为政，缺乏全国统一质控与毕业会考<br>• **政党极化内耗** 左右翼频繁更迭法案，政策推行严重碎片化（详见 [[PISA Response in Spain]]） | • **成效启示** PISA 充当反思综合学制平庸化与缺乏卓越追求的镜鉴<br>• **后续挑战** 数据沦为中央与自治区互相推诿的政治借口，激化区域割裂 |
 > | **微型体系（格林纳达 / 瓦努阿图）** | • **未正式参测 / 间接对标** 从未正式加入 PISA 测验的全球南方小岛屿国家 | • 虽无本土直接测评排位，但受到跨国援助机构与区域组织评估框架的深度约束 | • **跨国软法治理的间接依附** 主动将 OECD/PISA 指标作为重组国家课程大纲与督导机制的外部参照，以确立国家现代性并获取国际发展援助 | • **成效启示** 揭示了 PISA 认知权威与软法治理跨越主权边界向非参测体系的规范扩散<br>• **后续挑战** 极易陷入脱离本土经济与文化土壤的“异地处方”强制移植困境 |
-> | **[[PISA Response in Spain\|西班牙]]** | • **1990** 颁布 [[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 强推综合初中<br>• **2000 / 2003** 连续两轮惨跌稳居欧盟末位<br>• **2006** 颁布 [[Organic Law on Education 2006\|LOE]] 修补但难挽平庸局面 | • 留级率与失败率畸高（14 岁 25%、16 岁达 33%）<br>• 卓越生极度匮乏（<4%），高投入高师生比难掩低质 | • **综合初中错位** 14–16 岁强行统整为十年均质初中，缺乏适性分流<br>• **激进分权失调** 17 个自治区各自为政，缺乏全国统一质控与毕业会考<br>• **政党极化内耗** 左右翼频繁更迭法案，政策推行严重碎片化（详见 [[PISA Response in Spain]]） | • **成效启示** PISA 充当反思综合学制平庸化与缺乏卓越追求的镜鉴<br>• **后续挑战** 数据沦为中央与自治区互相推诿的政治借口，激化区域割裂 |
 
 > [!stat-cards]- 关键实证数据与基准
 > - **90+ / >3M** （覆盖规模） 全球 90+ 国家与经济体，累计测试逾 300 万名 15 岁学生。
@@ -327,81 +304,34 @@ updated: 2026-10-22
 ## 相关条目网络
 
 > [!entry-map] PISA 知识网络与子条目维护分流矩阵
-> 本条目定位为 PISA 评估体系的宏观治理枢纽与跨国反应索引。当需扩充特定细分领域或国别深层机制的知识时，请优先丰富或建立对应的专门子条目，保持本条目的宏观架构导览与跨国横向比较视野。
+> 本条目定位为 PISA 评估体系的宏观治理枢纽与跨国反应索引。当需扩充特定细分构念、官方衍生工具、国别深层机制或学理批判时，请优先丰富或建立对应的专门子条目，保持本条目的宏观架构导览与跨国横向比较视野。
 >
 > | 知识模块 | 条目 | 类型 | 关系与维护定位（分流维护指引） |
 > |:---|:---|:---|:---|
-> | **学科测评[[Construct\|构念]]** | [[PISA Scientific Literacy]] | 概念 | [[Scientific Literacy\|科学素养]]测评构念、认知模型、试题样态与教学论争鸣；科学领域测评细节扩充维护于此。 |
-> | **学科测评构念** | [[PISA Reading Literacy]] | 概念 | 阅读素养测评构念、数字多源文本审视与可[[Reliability\|信度]]验证模型；阅读领域测评细节扩充维护于此。 |
+> | **学科测评构念** | [[PISA Scientific Literacy]] | 概念 | 科学素养测评构念、认知模型、试题样态与教学论争鸣；科学领域测评细节扩充维护于此。 |
+> | **学科测评构念** | [[PISA Reading Literacy]] | 概念 | 阅读素养测评构念、数字多源文本审视与信度验证模型；阅读领域测评细节扩充维护于此。 |
 > | **学科测评构念** | [[PISA Mathematical Literacy]] | 概念 | 数学素养测评构念、现实生活数学化建模循环与数理推理；数学领域测评细节扩充维护于此。 |
-> | **学科测评构念** | [[PISA Literacy]] | 概念 | 政策[[Discourse\|话语]]维度的“新学力”构念转译与阅读素养[[Going Native\|本土化]]；国家政策学力观更新维护于此。 |
-> | **学科测评构念** | [[PISA Global Competence]] | 概念 | 全球胜任力测评框架、审视全球议题与跨文化得体互动；[[Global Citizenship\|全球公民]]素养扩充维护于此。 |
-> | **学科测评构念** | [[PISA Creative Thinking]] | 概念 | [[Creativity Assessment\|创造性思维测评]]构念、发散原创构想产生与评估改进模型；日常[[Creativity\|创造力]]细节维护于此。 |
-> | **学科测评构念** | [[Scientific Literacy]] | 概念 | 科学素养上位构念与全球科学教育理论基石；学科教育论哲学探讨维护于此。 |
-> | **学科测评构念** | [[Beyond 2000 Report]] | 事实 | 1998 年科学教育里程碑报告，直接启发并奠定了 PISA 科学素养构念的理论基础。 |
-> | **国别政策反应** | [[Finnish PISA Miracle]] | 事实 / 事件 | 芬兰凭借综合基础学校与高度教师专业信任颠覆市场化竞争假设、确立全球[[Reference Society\|参考社会]]的历史经验；芬兰机制扩充维护于此。 |
-> | **国别政策反应** | [[PISA Shock in Germany]] | 事实 / 事件 | 德国危机动员、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 七大行动领域、[[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]与产出治理转型；德国微观机制扩充维护于此。 |
+> | **学科测评构念** | [[PISA Literacy]] | 概念 | 政策话语维度的“新学力”构念转译与阅读素养本土化；国家政策学力观更新维护于此。 |
+> | **学科测评构念** | [[PISA Global Competence]] | 概念 | 全球胜任力测评框架、审视全球议题与跨文化得体互动；全球公民素养扩充维护于此。 |
+> | **学科测评构念** | [[PISA Creative Thinking]] | 概念 | 创造性思维测评构念、发散原创构想产生与评估改进模型；日常创造力细节维护于此。 |
+> | **国别政策反应** | [[Finnish PISA Miracle]] | 事实 / 事件 | 芬兰凭借综合基础学校与高度教师专业信任颠覆市场化竞争假设、确立全球参考社会的历史经验；芬兰机制扩充维护于此。 |
+> | **国别政策反应** | [[PISA Shock in Germany]] | 事实 / 事件 | 德国危机动员、KMK 七大行动领域、IQB 计算中心与产出治理转型；德国微观机制扩充维护于此。 |
 > | **国别政策反应** | [[PISA Shock in Japan]] | 事实 / 事件 | 日本告别宽松教育、确立扎实学力、恢复全国学力统测与指导要领修订；日本机制扩充维护于此。 |
-> | **国别政策反应** | [[PISA Shock in the United States]] | 事实 / 事件 | 上海登顶触发“新卫星时刻”政策恐慌、推动各州采纳[[Common Core State Standards\|共同核心标准]]与[[Race to the Top\|力争上游]]改革；美国应对机制维护于此。 |
+> | **国别政策反应** | [[PISA Shock in the United States]] | 事实 / 事件 | 上海登顶触发“新卫星时刻”政策恐慌、推动各州采纳共同核心标准与力争上游改革；美国应对机制维护于此。 |
 > | **国别政策反应** | [[PISA Response in Spain]] | 事实 / 事件 | 西班牙中等综合学制平庸、17 个自治区激进分权推诿；西班牙应对细节维护于此。 |
-> | **国别政策反应** | [[PISA Response in England]] | 事实 / 事件 | 英国保守党政治精英与媒体共谋动员“[[Falling Standards Template\|标准下滑模板]]”、强推学院化与私有化改革；英格兰机制维护于此。 |
-> | **国别政策反应** | [[Loi Fillon 2005]] | 事实 / 政策 | 法国知识与技能共同基底确立、弱势生与 [[STEM Education\|STEM]] 女性平权量化指标；法国立法维护于此。 |
-> | **国别政策反应** | [[Free Semester System]] | 事实 / 政策 | 韩国反思高压应试、初中免试推行体验式与生涯探索；韩国减负改革维护于此。 |
-> | **国别政策反应** | [[Canadian Education Indicators Program]] | 事实 / 项目 | 加拿大 CEIP 指标对接、PISA 卓越度对标与 2012 教师职前培养时长改革；加拿大机制维护于此。 |
-> | **国别政策反应** | [[HarmoS]] | 事实 / 事件 | 瑞士跨州协调协议、统一国家教育标准与 11 年义务教育调整；瑞士机制维护于此。 |
-> | **国别政策反应** | [[National Assessment of Education Quality China 2007]] | 事实 / 事件 | 中国义务教育质量监测中心参照 PISA 改编建立六大学科指标；中国监测机制维护于此。 |
-> | **国别政策反应** | [[Estonian STEM Education Model]] | 事实 | 爱沙尼亚在 PISA 科学测评中实现全欧学术卓越与高均衡双赢的治理典范。 |
-> | **国别政策反应** | [[Common Core State Standards]] | 事实 / 政策 | 美国[[Policy Entrepreneur\|政策企业家]]借助 PISA/[[TIMSS]] 跨国数据动员危机、建立跨州共同核心标准运动。 |
-> | **跨国治理与政策理论** | [[PISA Shock]] | 概念 | 跨国评估成绩低于国家自我预期时触发的系统性政策震荡与危机动员理论。 |
-> | **跨国治理与政策理论** | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | 理论 | PISA 在超国家、国家与行动者层面对教育政策产生重构作用的三层机制模型。 |
-> | **跨国治理与政策理论** | [[Reference Society]] | 概念 | PISA 排名催生的跨国教育模仿、借用与标杆社会动态转换（如日→芬）。 |
-> | **跨国治理与政策理论** | [[Plaintive Comparison]] | 概念 | 将教育落后归咎于历史政治困境以推卸专业问责的合法化防御修辞（如西班牙）。 |
-> | **跨国治理与政策理论** | [[Governing by Numbers]] | 概念 | PISA 作为跨国量化技术官僚软治理与可比绩效监控的理论本质。 |
-> | **跨国治理与政策理论** | [[Steering at a Distance]] | 概念 | 揭示 [[OECD]] 与国家中央借助 PISA 跨国指标与数据监控实现无须直接行政指令的[[Governing at a Distance\|远程治理]]机制。 |
-> | **跨国治理与政策理论** | [[Space of Equivalence]] | 概念 | 等值空间；揭示 PISA 依赖公约制造可[[Commensuration\|通约]]度量空间以消除地方情境特异性的技术本质。 |
-> | **跨国治理与政策理论** | [[Construct Validity]] | 概念 | 构念效度；批判 PISA 追求跨国统计[[Reliability\|信度]]对本土教育真实构念效度与本体多样性的系统性消解。 |
-> | **跨国治理与政策理论** | [[Positional Good]] | 概念 | 位置性商品；批判 PISA 联赛排名刺激教育军备竞赛、将教育异化为劳动力排位争夺筹码。 |
-> | **跨国治理与政策理论** | [[Multilateral Surveillance]] | 概念 | 多边监督；揭示 PISA 作为经合组织实施无强制力跨国同行监控的核心量化技术载体。 |
-> | **跨国治理与政策理论** | [[Peer Pressure]] | 概念 | 同行压力；刻画 PISA 联赛排行榜通过制造落后恐慌诱导主权国家主动对标的心理动力。 |
-> | **跨国治理与政策理论** | [[Epistemic Community]] | 概念 | 认知共同体；揭示 PISA 背后由心理测量学家与统计技术官僚构成的跨国专家权威网络。 |
-> | **跨国治理与政策理论** | [[Commensuration]] | 概念 | 将具有[[Heterogeneity\|异质性]]历史文化传统的本土教育体系通约化为同质量化量表的技术过程与理论基石。 |
-> | **跨国治理与政策理论** | [[Social Imaginary]] | 概念 | PISA 指标建构背后所承载的新自由主义全球化与[[Knowledge-Based Economy\|知识经济]]深层社会想象。 |
-> | **跨国治理与政策理论** | [[Public Value]] | 概念 | PISA 所支撑的知识经济话语对教育固有民主与公共价值（社会凝聚、批判公民权）的工具化收编。 |
-> | **跨国治理与政策理论** | [[Global Education Reform Movement]] | 概念 | PISA 所支撑的全球教育标准化、测试竞争与新自由主义绩效问责浪潮。 |
-> | **跨国治理与政策理论** | [[Evidence-Based Education]] | 概念 | PISA 推动数据驱动决策取代传统行政经验的循证政策[[Paradigm\|范式]]。 |
-> | **跨国治理与政策理论** | [[Mediatised Governance]] | 概念 | 揭示跨国教育评估被国内政治精英与大众媒介利用为合法化激进改革工具的机制。 |
-> | **跨国治理与政策理论** | [[Rashomon Effect]] | 概念 | 刻画 PISA 庞杂数据被不同利益集团策略性裁剪为相互冲突的政策“真相”的现象。 |
-> | **跨国治理与政策理论** | [[Science Capital]] | 概念 | 解释 PISA 背景[[Questionnaire\|问卷]]所揭示的家庭资本对学生科学抱负强大制约效应的社会学工具。 |
-> | **跨国治理与政策理论** | [[State Educational Sovereignty]] | 概念 | 民族国家对教育体系的排他性管辖权在跨国标准化测评下的重塑与让渡。 |
-> | **方法学争议与学界批评** | [[Critique of PISA]] | 概念 | 学术界对 PISA 构念虚构、[[Epistemology\|认识论]]侵蚀、测量偏差与政治操弄的系统批判；学理争鸣扩充维护于此。 |
-> | **方法学争议与学界批评** | [[2014 Open Letter on PISA]] | 事实 | 全球逾百名学者联名公开信，系统抨击 PISA 对全球基础教育的负外部性。 |
-> | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
-> | **方法学争议与学界批评** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 引用 PISA/TIMSS 纵向成长基准（0.20–0.40 SD/年）反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的德国批判文献。 |
-> | **方法学争议与学界批评** | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 批判 PISA 全视凝视与测量体制剥夺学生生存性开放与教育自由的丹麦批判文献。 |
-> | **跨国治理与政策理论** | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析 PISA 试题生产早期经合组织如何通过承袭成功、外包技术中枢给 [[Australian Council for Educational Research\|ACER]] 与升格官僚管理架构确立全球治理合法性。 |
-> | **跨国治理与政策理论** | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 作为欧洲数字治理技术、[[EU\|欧盟]] 80% 资金共生支持及各国[[Externalization\|策略性外在化]]借用的政治社会学机制。 |
-> | **跨国治理与政策理论** | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 论证 | 剖析经合组织如何依托 PISA 构筑量化硬事实、确立认知权威并重构国内政治博弈格局的软治理机制。 |
-> | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
-> | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
-> | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |
-> | **学科史与代表人物** | [[Dominique Foray]] | 人物 | 提出学习型经济与默会技能稀缺性，奠定 PISA 聚焦真实情境实用技能测量的知识经济学基石。 |
-> | **学科史与代表人物** | [[Wolfgang Mitter]] | 人物 | 深刻剖析 PISA 兴起对欧洲比较教育学科自主性与认识论侵蚀的学科史学者。 |
-> | **学科史与代表人物** | [[Torsten Husén]] | 人物 | 早期跨国大规模测评少数横跨欧洲比较教育学社与实证测评的桥梁学者。 |
-> | **学科史与代表人物** | [[José Luis García Garrido]] | 人物 | 深入剖析 PISA 在南欧[[Educational Decentralization\|教育分权]]与综合学制改革中暴露的平庸与推诿的比较教育学者。 |
-> | **学科史与代表人物** | [[Fazal Rizvi]] | 人物 | 批判教育全球化学者，揭示 OECD 与 PISA 背后新自由主义全球社会想象的核心学者。 |
-> | **学科史与代表人物** | [[Bob Lingard]] | 人物 | 政策社会学与教育治理学者，剖析 PISA 数字治理、[[Space of Equivalence\|等值空间]]与远处掌舵机制的核心学者。 |
-> | **学科史与代表人物** | [[Steen Nepper Larsen]] | 人物 | 剖析 PISA 全视凝视、量化监控与存在性批判的丹麦批判哲学家。 |
-> | **学科史与代表人物** | [[Andreas Schleicher]] | 人物 | 德国教育统计学家、OECD 教育与技能司司长兼 PISA 总设计师，开创基于大规模跨国评估的软性硬事实治理范式。 |
-> | **衍生工具与发起组织** | [[OECD]] | 事实 | PISA 的发起与常设运营主体，通过评估实施全球教育软治理。 |
-> | **衍生工具与发起组织** | [[PISA Governing Board]] | 事实 | 由各参测国教育部代表组成的最高政策治理与战略中枢，负责确立优先议程与监管技术承包商。 |
-> | **衍生工具与发起组织** | [[Australian Council for Educational Research]] | 事实 | 长期包揽 PISA 核心[[Test Production\|试题研发]]、测量量化分析与技术财团统筹的核心研发机构。 |
-> | **衍生工具与发起组织** | [[Educational Testing Service]] | 事实 | 参与 PISA 心理测量建模、认知量表研制与计算机化测评开发的技术承包机构。 |
-> | **衍生工具与发起组织** | [[Baby PISA]] | 事实 | PISA 产品线向 5 岁早期儿童评估扩张的国际早期学习与儿童福祉研究（IELS）。 |
-> | **衍生工具与发起组织** | [[PISA for Schools]] | 事实 | 将跨国量化评估直接下沉至单所学校层面、提供微观国际对标诊断的校级工具。 |
-> | **衍生工具与发起组织** | [[PISA for Development]] | 事实 | 针对中低收入发展中国家能力水平量身定制的 PISA-D 衍生工具。 |
-> | **衍生工具与发起组织** | [[Programme for the International Assessment of Adult Competencies]] | 事实 | 针对 16–65 岁成年劳动力认知技能与职业能力的跨国成人评估（PIAAC）。 |
-> | **实证研究方法** | [[Item Response Theory]] | 方法 | 建立潜在特质与反应概率映射、实现跨国跨卷本分数等值的现代测验计量理论基础。 |
-> | **实证研究方法** | [[Matrix Sampling]] | 方法 | 平衡受试者答题负担与大容量测验题库覆盖度的不完全区组抽样设计。 |
-> | **实证研究方法** | [[Plausible Values]] | 方法 | 针对矩阵抽样下个体测量误差、通过联合后验分布抽取拟随机值恢复群体无偏分布的多重插补技术。 |
-> | **实证研究方法** | [[Differential Item Functioning]] | 方法 | 检验题目在不同语言文化群体中是否存在系统性作答偏倚、保障跨国等值性的计量诊断工具。 |
-> | **实证研究方法** | [[Systematic Review]] | 方法 | 综合跨国大规模评估政策影响文献所采用的核心系统综述方法。 |
+> | **国别政策反应** | [[PISA Response in England]] | 事实 / 事件 | 英国保守党政治精英与媒体共谋动员“标准下滑模板”、强推学院化与私有化改革；英格兰机制维护于此。 |
+> | **衍生工具与治理架构** | [[OECD]] | 事实 / 组织 | PISA 的发起与常设运营主体，通过跨国评估实施全球教育软法治理；经合组织宏观机制维护于此。 |
+> | **衍生工具与治理架构** | [[PISA Governing Board]] | 事实 / 机构 | 由各参测国教育部代表组成的最高政策治理与战略中枢，负责确立优先议程与监管技术承包商。 |
+> | **衍生工具与治理架构** | [[Baby PISA]] | 事实 / 项目 | PISA 产品线向 5 岁早期儿童评估扩张的国际早期学习与儿童福祉研究（IELS）；幼儿阶段测评维护于此。 |
+> | **衍生工具与治理架构** | [[PISA for Schools]] | 事实 / 项目 | 将跨国量化评估直接下沉至单所学校层面、提供微观国际对标诊断的校级工具；校本测评维护于此。 |
+> | **衍生工具与治理架构** | [[PISA for Development]] | 事实 / 项目 | 针对中低收入发展中国家能力水平量身定制的衍生工具（PISA-D）；发展中国家适配机制维护于此。 |
+> | **理论机制与关键人物** | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | 理论 | PISA 在超国家、国家与行动者层面对教育政策产生重构作用的三层机制模型；宏观政策影响机制维护于此。 |
+> | **理论机制与关键人物** | [[PISA Shock]] | 概念 | 跨国评估成绩低于国家自我预期时触发的系统性政策震荡与危机动员理论；冲击机制维护于此。 |
+> | **理论机制与关键人物** | [[Andreas Schleicher]] | 人物 | 德国教育统计学家、OECD 教育与技能司司长兼 PISA 总设计师，开创基于大规模跨国评估的软性硬事实治理范式。 |
+> | **学界批判与反思构念** | [[Critique of PISA]] | 概念 | 学术界对 PISA 构念拟制、认识论侵蚀、测量偏差与政治操弄的系统理论批判；学理争鸣扩充维护于此。 |
+> | **学界批判与反思构念** | [[2014 Open Letter on PISA]] | 事实 / 事件 | 全球逾百名学者联名公开信，系统抨击 PISA 对全球基础教育的负外部性与商业化侵蚀；公开抵制行动维护于此。 |
+> | **学界批判与反思构念** | [[PISA Made-up Claim]] | 概念 | 揭示 OECD 拟制未来技能构念、将技能分数与宏观经济增长建立虚假因果关联的批判构念。 |
+> | **学界批判与反思构念** | [[PISA Monolithic View of Education]] | 概念 | 揭示跨国统一测验以单一主义标尺抹杀本土文化历史脉络与多元教育生态的批判构念。 |
+> | **学界批判与反思构念** | [[PISA Distorted View of Education]] | 概念 | 揭示将教育异化为狭隘经济主义工具、排斥全人素养与公民民主价值的批判构念。 |
+> | **学界批判与反思构念** | [[PISA Score Negative Correlation]] | 概念 | 揭示 PISA 高分与学生主观幸福感、学习兴趣、自信心及企业家精神呈系统性负相关的实证悖论构念。 |
+> | **学界批判与反思构念** | [[PISA Glorifying Authoritarian Education]] | 概念 | 揭示将剥夺学生自主权的高压应试与威权主义教育实践美化为“高效卓越”范式的批判构念。 |

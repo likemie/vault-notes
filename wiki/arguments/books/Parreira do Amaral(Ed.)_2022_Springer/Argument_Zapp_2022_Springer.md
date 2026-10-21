@@ -85,8 +85,6 @@ citation_aliases:
 ---
 # Argument_Zapp_2022_Springer
 
-## 研究问题
-
 > [!question]
 > 过去二十年间，大学是否已从国家公共行政系统中的"象牙塔"转变为全球治理中的积极知识行动者？Zapp 追问三个层层递进的问题：（1）**动因** 是什么力量驱动大学走出国界、嵌入全球治理？（2）**机制** 大学通过什么具体渠道参与全球治理？（3）**风险** 这种基于科学知识的"[[Epistemic Governance\|知识治理]]"（epistemic governance）有什么隐忧？全文以 2015 年[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDGs）为核心案例，因为 SDGs 的通过标志着一个质变——大学首次被全球政策议程系统性地定位为实现者和监测者。
 

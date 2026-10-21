@@ -74,8 +74,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies\|Liberal Studies]]）。这一课程替代仅是对官方身份认同[[Discourse|话语]]的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
 

@@ -80,8 +80,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 心理学中现有的[[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）模型在预测学习过程和结果时，常表现出较低的[[Predictive Validity\|预测效度]]（predictive validity）。如何基于当代哲学[[Epistemology\|认识论]]（epistemology）视角，系统证明现有模型遗漏的关键维度，并论证引入细粒度（fine-grained）和情境敏感（context-specific）的新维度能显著提高理论的解释力与预测力？
 

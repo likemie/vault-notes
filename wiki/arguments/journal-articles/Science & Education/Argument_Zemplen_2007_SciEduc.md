@@ -99,8 +99,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）课程同时追求两个目标：培养[[Critical Thinking\|批判性思维]]（Critical Thinking，CT）的开放探究精神，以及维护科学作为权威知识形式的地位。这两个目标能否在同一门课程中真正共存？如果不能，它们的冲突在课程评估、教科书和课堂实践中如何具体表现？
 

@@ -112,9 +112,7 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
-> [!question] 
+> [!question]
 > [[Epistemic Cognition\|认识论认知]]（Epistemic cognition）与[[Academic Achievement\|学业成就]]（academic achievement）之间的总体相关性有多大？这种相关性是否受到理论模型、[[Epistemology\|认识论]][[Construct\|构念]]、学术领域、特异性（specificity）对齐、成就类型、学段以及工具[[Reliability\|可靠性]]等因素的调节？
 
 > [!claim] 核心主张

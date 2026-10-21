@@ -77,8 +77,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 本文探讨[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]）以及[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好实践、面临的挑战及解决方案。
 

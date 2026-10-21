@@ -79,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究问题
-
 > [!question]
 > 伴随中国经济体量增长，国际学术界对其对外权力战略存在激烈争议。传统现实主义视角倾向将这一崛起视为零和地缘博弈，自由主义与[[Constructivist Paradigm|建构主义]]研究则习惯套用西方[[Soft Power|软实力]]与中心—外围框架。然而，既有讨论多局限于[[Confucius Institute|孔子学院]]和留学生规模等浅层指标，难以解释中国在东南亚及[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）沿线密集推进的高校援建、师资培训与校际合作。核心问题在于：基于中国历史经验的[[Neo-Tributary Perspective|新朝贡分析框架]]能否准确解释当代高等教育输出背后的战略行为模式，其在真实教育实践中面临哪些解释局限与现实张力？（pp. 1041–1043）
 

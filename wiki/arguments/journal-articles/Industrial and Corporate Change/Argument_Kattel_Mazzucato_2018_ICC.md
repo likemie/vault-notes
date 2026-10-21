@@ -113,8 +113,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 当代世界各国致力于追求智慧型（创新引领）、包容性与可持续的经济增长，这一目标表明经济增长不仅包含发生速率，更包含明确的发展方向（[[Directionality of Innovation]]）。然而，为何基于新古典福利经济学的[[Market Failure|市场失灵]]（Market Failure）修补模式与[[New Public Management|新公共管理]]（New Public Management, NPM）改革会导致政府陷入治理能力的认知瘫痪与跨部门协调失灵的[[Complexity Paradox|复杂性悖论]]？面对气候变化、老龄化与公共卫生等 21 世纪重大社会挑战，公共部门需要构建何种组织能力以有效设计、实施和评估新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]？
 

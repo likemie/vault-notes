@@ -112,8 +112,6 @@ status: draft
 
 ---
 
-## 研究问题
-
 > [!question]
 > 缺乏法定教育管辖权与直接财政制约手段的[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD），如何依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的大规模量化指标生产确立全球教育政策议程的主导权？这种以数字为媒介的技术治理如何差异化地重塑欧洲主权国家的国内教育政策，并与[[EU|欧洲联盟]]（European Union, EU）协同形塑超国家的[[European Education Space|欧洲教育空间]]？
 

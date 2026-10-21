@@ -61,8 +61,6 @@ journal: Science Education
 
 ---
 
-## 研究问题
-
 > [!question]
 > 为什么基于探究的教学往往难以改变学生对[[Nature of Science\|科学本质]]（Nature of Science）的认识？学生在探究实践中展现出的能力与他们对形式科学表达出的幼稚信念之间，存在怎样的矛盾？
 

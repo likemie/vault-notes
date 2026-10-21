@@ -76,8 +76,6 @@ journal: "Research Policy"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 二战后美国半导体与电子计算机两大高技术产业为何能在全球确立并长期保持主导地位？联邦政府实施的大型空间与国防公共项目（如[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与美国国防部（Department of Defense, DOD）项目）究竟通过何种经济、技术与[[Human Capital Theory|人力资本]]机制对新兴高技术产业的成长轨迹产生系统性塑造？
 

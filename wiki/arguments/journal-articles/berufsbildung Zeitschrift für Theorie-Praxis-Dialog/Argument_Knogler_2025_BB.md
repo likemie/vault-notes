@@ -89,8 +89,6 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在实证教育科学文献爆炸式激增的背景下，教师职业日益被确立为具备科学立论基础的专门职业；然而，由于教育研究侧重学术理论建构而缺乏具体行动指引、学术文本形式深奥，且一线教学实践者面临严峻的时间与资源匮乏，形成了长期困扰教育系统的[[Research-Practice Gap\|转移困境]]（Transferproblem）。如何通过制度化的[[Knowledge Mediation\|知识中介机制]]，将前沿教学科研成果（特别是因果效应明确的[[Meta-analysis\|元分析]]）转化为教师教育与学校课堂可直接吸收应用的实践工具，进而推动[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的实质扎根？
 

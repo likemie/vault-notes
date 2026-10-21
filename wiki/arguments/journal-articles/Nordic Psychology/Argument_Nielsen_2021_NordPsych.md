@@ -111,8 +111,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在当代以实证为导向的全球教育治理中，[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（*Visible Learning*）被广泛视作[[Evidence-Based Education|循证教育]]的权威指针，其本人自称纯粹依靠统计数据说话、超越理论争议（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259]]）。针对这一现象，需要解答两个根本性问题：第一，哈蒂是否如其宣称的那样只是一名客观中立的统计学家，还是实质上依凭一套未加言明的教育理论假设？第二，支撑其庞大综合体系的核心实证证据究竟质量如何？当对其声称最具变革力量的 反馈 效应所依赖的一级[[Meta-analysis|元分析]]进行细读质检时，这些实证大厦的基石是否真实稳固？（pp. 1–3）
 

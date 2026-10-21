@@ -82,8 +82,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 自 20 世纪 90 年代末发生经验转向以来，德国教育政策与教育行政决策明确要求摆脱对传统科层惯例与个人经验的单一依赖，转向以实证数据为基础的科学治理。然而，在德国各州教育部内部，实际负责政策推行与行政管理的官员究竟如何接收、理解和加工这些复杂的实证监测数据？在经历首轮[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）结果带来的巨大震荡后，历经近十年的制度建设，德国的[[Evidence-Based Education\|循证教育]]政策究竟仍然停留于应对公众问责与政治修辞的口头空话（lip service），还是已经实质性沉淀为指导日常行政决策的普遍实践（common practice）？
 

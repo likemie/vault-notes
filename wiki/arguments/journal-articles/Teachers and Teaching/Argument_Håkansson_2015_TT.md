@@ -58,8 +58,6 @@ citation_aliases:
 ---
 # Argument_Håkansson_2015_TT
 
-## 研究问题
-
 > [!question] [[Research Question\|研究问题]]
 > 当瑞典学校成绩在 [[PISA]] 等比较中持续下滑后，政策层开始强调 [[Structured Teaching]] 和教师重新掌握课堂。但真正需要回答的问题不是“教师是不是应该更强势”，而是更细一点的几个问题：结构化教学到底指什么，它和 [[Direct Instruction]]、[[Individualised Instruction]]、[[Effective Teaching]] 是什么关系，研究证据究竟支持哪一种“加强教师角色”的方式(pp.584-585, 590-596)。
 >

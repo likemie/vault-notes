@@ -92,8 +92,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在当代全球教育治理中，[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning, VL）及配套商业项目 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 扩散至 23 个国家，却在丹麦等具有深厚民主教养（[[Bildung]]）传统的国家遭遇持续抵制。针对这一现象，需要探究四个核心问题：第一，在跨文化跨国界传播中，项目方如何反思与处理在丹麦的本土化翻译与实施机制？第二，哈蒂如何定义可见性与学习等底层概念，这对课堂实践、儿童观与师生角色有何规范性预设？第三，在充斥海量实证研究的著述中为何极度缺乏教育理论，哈蒂如何理解证据与理论的关系？第四，在横跨学术、政策与跨国商业的复杂网络中，哈蒂如何自我界定其作为关键行动者的身份与权力界限？（pp. 253–254）
 

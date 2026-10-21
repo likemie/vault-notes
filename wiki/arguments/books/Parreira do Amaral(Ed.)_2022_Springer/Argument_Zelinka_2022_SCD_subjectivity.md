@@ -59,8 +59,6 @@ citation_aliases:
 ---
 # Argument_Zelinka_2022_SCD_subjectivity
 
-## 研究问题
-
 > [!question]
 > 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
 

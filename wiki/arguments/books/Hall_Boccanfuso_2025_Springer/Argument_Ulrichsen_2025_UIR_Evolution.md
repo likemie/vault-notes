@@ -87,8 +87,6 @@ citation_aliases:
 ---
 # Argument_Ulrichsen_2025_UIR_Evolution
 
-## 研究问题
-
 > [!question]
 > 过去五十年间，大学与企业之间的创新驱动关系（University-Industry Relationships, UIRs）如何演变？哪些因素塑造了这些关系的规模、性质和重要性？理解这一演变对大学、企业和政府意味着什么？
 

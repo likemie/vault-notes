@@ -102,8 +102,6 @@ sources:
 
 ---
 
-## 研究问题
-
 > [!question]
 > 中国[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）教育政策在文本中如何建构自身意义？这些表述如何借助跨部门[[Policy Network|政策网络]]转化为具体的行动推进工具？又是何种深层社会历史机制促成了这一教育叙事的生成？
 

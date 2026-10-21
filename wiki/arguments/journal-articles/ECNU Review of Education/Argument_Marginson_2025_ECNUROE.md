@@ -80,8 +80,6 @@ citation_aliases:
 ---
 # Argument_Marginson_2025_ECNUROE
 
-## 研究问题
-
 > [!question]
 > 核心问题：在全球范围内，高等教育和知识的 空间制造 如何与不断变化的世界秩序和 [[Geopolitics|地缘政治]] 互动？
 >

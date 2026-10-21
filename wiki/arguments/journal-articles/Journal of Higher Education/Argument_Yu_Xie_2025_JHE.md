@@ -109,8 +109,6 @@ argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "高等教育研究"
 ---
-## 研究问题
-
 > [!question]
 > 全球[[Geopolitics|地缘政治]]竞争加剧正在深刻重塑高等教育的合作发展格局，而中文文献中对[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm\|范式]]如何演化？
 

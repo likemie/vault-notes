@@ -111,8 +111,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 学生的科学知识确定性信念（认为科学理论是绝对确定、不可改变的永恒真理）能否在严格控制一般认知推理能力（General Cognitive Ability，$g$ 因子）、性别与家庭[[Socioeconomic Status|社会经济地位]]（Socioeconomic Status，SES 及[[Cultural Capital\|文化资本]]）的前提下，独立预测其中学[[Academic Achievement\|学业成就]]？同时，不同大学专业门类学生之间显著的[[Epistemological Beliefs\|认识论信念]]分化，究竟是由进入大学前的“自我选择效应”（Self-Selection Effect）所致，还是由大学专业环境长期浸润的“[[Disciplinary Socialization\|学科社会化]]效应”（Disciplinary Socialization Effect）所致？
 

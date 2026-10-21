@@ -72,8 +72,6 @@ citation_aliases:
 ---
 # Argument_Thompson_2022_Promising_Student
 
-## 研究问题
-
 > [!question]
 > 在竞争性[[Geopolitics|地缘政治]]框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
 

@@ -89,8 +89,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在全球化与数字化交织推进的背景下，教育政策的[[Rescaling\|尺度重组]]（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing\|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation\|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure\|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation\|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
 

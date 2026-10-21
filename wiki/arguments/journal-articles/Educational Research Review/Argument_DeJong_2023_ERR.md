@@ -129,8 +129,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证文献究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
 >

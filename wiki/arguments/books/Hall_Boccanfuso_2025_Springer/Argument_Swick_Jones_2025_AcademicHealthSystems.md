@@ -66,8 +66,6 @@ citation_aliases:
 ---
 # Argument_Swick_Jones_2025_AcademicHealthSystems
 
-## 研究问题
-
 > [!question]
 > [[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI），即整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，其[[University-Industry Collaboration\|产学合作]]面临一个结构性矛盾：从临床需求识别、基础研究发现、产品开发到[[Clinical Trial\|临床试验]]和规模化部署，每个阶段都要求大学、产业和医院之间深度协作，但三者的治理模式、核心目标和回报定义截然不同。大学追求研究发表和学生培养，产业追求市场和利润，医院追求患者安全和当前最佳标准的诊疗。谁来充当各方之间的翻译者和促进者？什么样的组织载体能够同时容纳科学、医学、教学和创新四种逻辑，使产学合作在医用创新中高效运转，而不是在各方的优先级冲突中停滞？
 

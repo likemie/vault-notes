@@ -110,8 +110,6 @@ status: draft
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Generative Artificial Intelligence\|生成式人工智能]]（Gen-AI）在教育场景中的加速渗透，是否以及在多大程度上能够实质性赋能学生的[[Higher-Order Thinking Skills\|高阶思维]]能力？面对学术界关于“技术[[Scaffolding\|脚手架]]赋能认知探究”与“过度依赖诱发心智外包与思维惰性”的激烈争论，本项[[Meta-analysis\|元分析]]聚焦于两大核心追问：
 > 1. 生成式 AI 促进学生高阶思维的总体[[Effect Size\|效应量]]（Overall Effect Size）究竟为何？在其内部三个核心认知维度——[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Problem Solving\|问题解决能力]]上，促学成效呈现怎样的结构性级差？

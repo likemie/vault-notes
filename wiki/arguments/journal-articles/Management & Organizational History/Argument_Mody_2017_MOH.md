@@ -83,8 +83,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 为什么在 1970 年代末至 1980 年代初的美国，以紧密对接半导体产业为特征的大学微电子研究中心（Academic Microelectronics Research Centers, MRCs）与产业研发联合体（Industrial Research Consortia）会同时爆发式[[Emergence|涌现]]？二者在组织形态、制度功能与微观运行机制上存在怎样的共生演化关系，又为何在 1990 年代走向截然不同的组织命运轨迹？（pp.285–286）
 

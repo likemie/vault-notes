@@ -67,8 +67,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 战后美国以[[Science, The Endless Frontier 1945|布什报告]]为基础建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，如何通过将理论认知与工程技术人为割裂而妨碍了国家创新政策的制定？应当如何重构科技创新与科研资助的[[Analytic Framework|分析框架]]？
 

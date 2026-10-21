@@ -62,8 +62,6 @@ citation_aliases:
 ---
 # Argument_Ryan_2010_HKUP
 
-## 研究问题
-
 > [!question]
 > 本书编者 Ryan and Slethaug 试图回答两个相互关联的问题：第一，[[International Education\|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner\|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？(pp.2–3]])
 

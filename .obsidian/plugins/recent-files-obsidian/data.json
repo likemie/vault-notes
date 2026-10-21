@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
       "basename": "Argument_Niemann_Martens_2018_GSP",
       "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "template-fact-organization",
+      "path": "wiki/templates/template-fact-organization.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Champ",
+      "path": "wiki/concepts/sociology-of-education/Champ.md"
+    },
+    {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
     },
     {
       "basename": "INVALSI",
@@ -109,24 +129,12 @@
       "path": "wiki/index.md"
     },
     {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
     },
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "template-fact-organization",
-      "path": "wiki/templates/template-fact-organization.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Bulag_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
-    },
-    {
-      "basename": "Suyan Pan",
-      "path": "wiki/persons/china/Suyan Pan.md"
-    },
-    {
-      "basename": "John King Fairbank",
-      "path": "wiki/persons/us/John King Fairbank.md"
     }
   ],
   "omittedPaths": [],

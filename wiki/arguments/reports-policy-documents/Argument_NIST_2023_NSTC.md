@@ -90,8 +90,6 @@ publisher: "U.S. Department of Commerce"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 面对全球先进半导体制造产能高度向东亚集中、前沿物理微缩与异构封装研发资本门槛呈指数级攀升，以及全美大学与初创企业的硬件创新构想深陷从实验室到代工厂（[[Translational Research|lab-to-fab]]）中试断层的系统性困境，美国联邦政府应当如何依据《[[CHIPS and Science Act|芯片与科学法案]]》构建国家级半导体公私研发合作联合体，统筹物理中试试验线、云端数字设计资产、全谱系工程劳动力供给与独立中立治理架构，以重塑本土微电子[[Innovation Ecosystem|创新生态]]并巩固国家安全？（pp. 2–5）
 

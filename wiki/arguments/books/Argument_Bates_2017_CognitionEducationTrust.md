@@ -45,8 +45,6 @@ citation_aliases:
 ---
 # Argument_Bates_2017_CognitionEducationTrust
 
-## 研究问题
-
 > [!question]
 > 这部受委托撰写的组织史，如何把 [[Cognition Education]] 近三十年的业务扩张、市场波动、治理调整与公益安排，重新组织成一套关于“适应性（adaptability）”“韧性（resilience）”与“持续存在理由”的解释。(p.7-9, p.75-76)
 

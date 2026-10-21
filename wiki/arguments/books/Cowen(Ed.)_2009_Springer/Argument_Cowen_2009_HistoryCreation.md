@@ -79,8 +79,6 @@ updated: 2026-10-16
 
 ---
 
-## 研究问题
-
 > [!question]
 > 比较教育学在经历数十年的制度化发展并确立专业合法性之后，在何种意义上作为一个历史对象而真实存在？当早期学者所依赖的经典起源叙事完成了赋予学科职业合法性的使命后，当下的比较教育学史编纂面临哪些深层结构性瓶颈？如何超越孤立、碎片且西方中心的国别学科史，走向具有批判自觉与多中心视野的[[Comparative History of Comparative Education\|比较教育学的比较史]]（Comparative History of Comparative Education）？（pp.7–8）
 

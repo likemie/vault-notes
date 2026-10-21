@@ -101,8 +101,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）研究在过去半个世纪中经历了怎样的多学科源流交汇？当前不同学术阵营存在哪些阻碍理论整合的核心断层线（fault lines）？如何跨越这些断层线以迈向连贯的理论建构？
 

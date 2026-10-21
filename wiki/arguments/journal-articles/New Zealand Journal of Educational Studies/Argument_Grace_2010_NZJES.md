@@ -67,8 +67,6 @@ journal: New Zealand Journal of Educational Studies
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[John Hattie|约翰·哈蒂]]（John Hattie）在《新西兰教育研究杂志》（New Zealand Journal of Educational Studies, NZJES）第 45 卷第 1 期发表《论成为[[Critic and Conscience of Society|社会的批评者与良知]]》（*On being a "critic and conscience of society"*），以《[[Visible Learning|可见的学习]]》（*Visible Learning*）实证[[Meta-analysis|元分析]]为依据介入[[New Zealand National Standards|新西兰国家标准]]（National Standards）与公共教育政策论争，自称履行了新西兰立法赋予学者的该项法定角色。作为该立法短语的提议者与起草人，[[Gerald Grace|杰拉尔德·格雷斯]]（Gerald Grace）追问：哈蒂是否准确理解并真正履行了大学学者作为[[Critic and Conscience of Society|社会的批评者与良知]]的法定规范角色？
 

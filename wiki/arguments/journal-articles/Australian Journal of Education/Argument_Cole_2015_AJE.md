@@ -91,8 +91,6 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[International Baccalaureate\|国际文凭]]（IB）文凭项目（DP）的"[[Theory of Knowledge\|知识论]]"课程。它不教授固定学科内容，而是要求学生反思知识本质，是一门 100 小时独立[[Critical Thinking\|批判性思维]]课程。它是否有效提升了澳大利亚学生的批判性思维技能和倾向？完成 DP 课程的学生在大学学术准备上是否优于未完成的学生？
 

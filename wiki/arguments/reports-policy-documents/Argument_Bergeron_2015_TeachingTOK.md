@@ -90,8 +90,6 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-## 研究问题
-
 > [!question] [[Research Question\|研究问题]]
 > [[International Baccalaureate\|国际文凭]]（IB）的核心课程[[Theory of Knowledge\|知识论]]（Theory of Knowledge, TOK）在全球范围内的实施现状、教师认知以及对师生的深远影响是什么？具体探究：教师对课程目的、益处与挑战的认知；课程对学生[[Higher-Order Thinking Skills\|高阶思维]]及未来成功的影响；教学过程对教师自身[[Epistemological Beliefs\|认识论信念]]、[[Self-Efficacy\|自我效能]]及教学实践的反向作用；以及学校层面的实施与跨学科协作机制（p. 6）。
 

@@ -90,8 +90,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 战后美国以国防部（Department of Defense, DoD）为核心的联邦研发（Research and Development, R&D）投资与公共采购政策，究竟通过何种具体机制催生并塑造了微电子、计算机硬件、系统软件及互联网四大支柱产业？随着民用商业市场的成熟与技术扩散路径的反转，国防支持的效能呈现怎样的生命周期演变？2001 年九一一袭击事件（September 11 attacks, 9/11）后联邦研发预算向反恐与国土安全重组，又将对国家[[Systems of Innovation|创新系统]]与大学基础科研生态产生何种长远冲击？
 

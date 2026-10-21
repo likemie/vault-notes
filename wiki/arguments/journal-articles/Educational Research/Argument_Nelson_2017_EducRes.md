@@ -105,8 +105,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 关于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）的讨论围绕三类核心关切展开：EIP 如何被不同利益相关者定义与理解？证据知情的学校与教师如何开展实践、什么条件促成有效的[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation, KMb）？EIP 的成果与影响应如何有效测量？（p.127）
 

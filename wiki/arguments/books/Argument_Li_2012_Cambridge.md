@@ -204,8 +204,6 @@ citation_aliases:
 ---
 # Argument_Li_2012_Cambridge
 
-## 研究问题
-
 > [!question]
 > 两个基本问题贯穿全书：（1）造就不同学习者的两种文化学习模型（cultural learning models）分别是什么？（2）为什么两种模型如此不同？
 

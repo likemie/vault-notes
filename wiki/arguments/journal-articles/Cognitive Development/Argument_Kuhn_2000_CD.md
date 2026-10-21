@@ -67,8 +67,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[Epistemological Understanding\|认识论理解]]（epistemological understanding）从绝对论到多元论再到评价论的发展过程中，究竟是什么在发生变化？这种发展是否在所有判断领域（如事实、价值观、品味）中同步发生？
 

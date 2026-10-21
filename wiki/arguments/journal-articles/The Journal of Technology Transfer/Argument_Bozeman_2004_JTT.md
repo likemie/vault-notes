@@ -70,8 +70,6 @@ updated: 2026-10-16
 
 ---
 
-## 研究问题
-
 > [!question]
 > 面对 1980 年代初美国深陷国际产业技术竞争危机的历史情境，以[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）为代表的多用途多学科大学研究中心（Multipurpose, Multidiscipline [[University-Based Research Center|university research center]], MMURC）究竟如何打破战后数十年由单一学科院系和自由探索首席研究员（Principal Investigator, PI）垄断的传统科研体制？其在制度设计、资助模式、政界博弈、淘汰问责与产学互动中经历了怎样的机制演化，又对传统大学科层架构构成了何种不可调和的治理困境？
 

@@ -83,8 +83,6 @@ citation_aliases:
 ---
 # Argument_Gilison_Wilson_2025_UniversityStartups
 
-## 研究问题
-
 > [!question]
 > [[University Spin-Out\|大学衍生企业]]（Spin-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"(p.142)。
 >

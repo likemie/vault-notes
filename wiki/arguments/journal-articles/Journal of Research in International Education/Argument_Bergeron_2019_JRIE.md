@@ -80,8 +80,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[IB Diploma Programme\|IB DP]] 的核心课程 [[Theory of Knowledge\|TOK]]（知识论） 的授课教师如何看待该课程的目的与挑战？教授该课程如何反向影响教师自身的教学信念与专业发展？课程在实施中遇到了哪些系统性行政障碍？
 

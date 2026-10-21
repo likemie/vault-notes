@@ -122,8 +122,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与海量数字化信息泛滥的时代，学生获取、理解、确证、修正与应用知识的[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）成为教育实践的核心枢纽。西方学界虽已建立起较为丰厚的实证基准（[[Argument_Greene_2018_JEP\|Greene et al., 2018]]），但认识论认知本质上具有深刻的社会文化嵌入性（Bang & Medin, 2010）。在普遍强调集体主义、高利害大学升学统考（大学修学能力考试，CSAT / Suneung / 修能）以及极度繁盛的课外补习（Shadow Education / Hagwon / [[Cram Schools\|补习班]]）文化的韩国基础教育情境中，中小学生的认识论认知与各类学习成果之间究竟存在怎样的关联？这种关联是否受到学段（小学、初中、高中）、[[Epistemology\|认识论]][[Construct\|构念]]维度（知识本质、认识本质、学习本质）、学科[[Domain Specificity\|领域特异性]]、[[Measurement Alignment\|测量对齐]]度、量表极性以及学习成果类型（高阶认知、低阶认知、动机/情感、自我调节）的系统调节？
 

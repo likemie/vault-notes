@@ -83,8 +83,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在倡导[[Authentic Science Practices|真实科学实践]]的背景下，传统小学科学探究教学常常面临两难困境：要么教师把活动步骤定得太死，学生只能机械执行既定教案；要么完全放手不管，导致学生失去方向、课堂低效混乱。如何在小学科学课堂中把探究的自主决策权真正交给学生（即落实[[Epistemic Agency|认识能动性]]），让五年级小学生在教师启发下，能够像真正的科研团队一样自主商定[[Research Question|研究问题]]、自发组建协作小组，并随着新证据的发现不断推进深层的[[Knowledge Building Theory|知识建构]]？
 

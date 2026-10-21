@@ -120,8 +120,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 21世纪知识社会对学生的高阶认知能力（[[Problem Solving\|问题解决]]、[[Creativity\|创造性]]思维、[[Critical Thinking\|批判性思维]]）与社会交往技能（团队协作、沟通表达、同理领导）提出了前所未有的要求，传统的以教师为中心、以知识单向传授为主的讲授式教学已难以满足这一多维素养的发展诉求。作为[[Constructivist Paradigm\|社会建构主义]]的核心教学模式，[[Cooperative Learning\|合作学习]]（Cooperative Learning，CL）自20世纪70年代在美国高校兴起后迅速推广至全球全学段与各学科领域。
 >

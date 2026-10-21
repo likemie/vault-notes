@@ -97,8 +97,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）领域中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的跨学科科学实践实证成果往往遭到边缘化或防范。传统的科学教育普遍将[[Epistemology\|认识论]]窄化为抽象孤立的哲学命题，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态知识结论的[[Rote Learning\|死记硬背]]，要么退化为套用所谓[[Scientific Method\|科学方法]]（Scientific Method）五步法的教条程序，忽视了真实科学活动中微观共同体的[[Discourse|话语]]协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出仅传授既定知识结论与将认识论视为孤立个体信念的双重局限，汲取跨学科科学实践研究对行动中的科学（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的[[Epistemic Practices\|认识论实践]]（Epistemic Practices）[[Analytic Framework\|分析框架]]？（pp. 139–141, 143–144）
 

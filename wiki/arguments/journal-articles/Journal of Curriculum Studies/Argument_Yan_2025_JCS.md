@@ -86,8 +86,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question] 课程变革的政治逻辑
 > [[General Education\|通识教育]]科（[[Liberal Studies]], LS）是香港高中一门没有学科基础、与高等教育和就业无直接关联的跨学科必修科目。它于 2009 年引入，2021 年被[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development, CSD）取代。同一门科目在短短十二年内经历了从创立到废除的完整生命周期，其背后的驱动力是什么？
 >

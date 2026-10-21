@@ -103,8 +103,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER\|Slavin (2002)]]主张用[[Randomised Controlled Trials\|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning\|可见的学习]]》把"[[Effect Size\|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research\|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的假设并未如期实现，于是出现了强调把证据转译进实践的实施研究（implementation research）。
 >

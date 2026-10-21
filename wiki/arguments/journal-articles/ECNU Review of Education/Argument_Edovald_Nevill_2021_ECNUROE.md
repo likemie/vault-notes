@@ -180,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在国家教育体系中，国家级[[Educational Brokerage Agency\|证据中介机构]]如何有效推动大规模学校[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）的制度化开展？在产生、规范与传播何种干预有效的实证证据过程中，中介机构面临哪些关于评估独立性、[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation, IPE）、测量工具[[External Validity\|外部效度]]、[[Business as Usual\|常态教学]]对照基线以及大规模推广（scale-up）的核心方法学挑战？
 

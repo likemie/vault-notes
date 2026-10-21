@@ -73,8 +73,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在医疗诊断、军事指挥、航空航天及公共行政等高风险[[Man-Computer Symbiosis|人机协同]]决策情境中，操作者过度依赖自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策系统的提示，甚至在面对相左证据时仍放弃自主判断，这种[[Automation Bias|自动化偏差]]究竟造成了何种实质性的[[Epistemology|认识论]]、伦理学与道德规范危害？工效学若将其单纯视为认知吝啬或注意力懈怠，是否忽略了更深层的[[Trust Calibration|信任失调]]与权威让渡？如何通过人机交互界面的机制重塑，恢复人类在关键决策中的自主性与道德裁决权？
 

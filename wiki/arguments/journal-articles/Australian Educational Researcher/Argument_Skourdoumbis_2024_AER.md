@@ -99,8 +99,6 @@ citation_aliases:
 
 ---
 
-## 研究问题
-
 > [!question] 核心关切与政策谜题
 > 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report\|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
 >

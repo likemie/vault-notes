@@ -86,8 +86,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 过去三十年中，[[International Large-Scale Assessments\|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化新自由主义模式的核心驱动力。既往文献广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与转译。本文以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 [[Michael Gove]] 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance\|媒介化治理]]。（pp. 109–111）
 

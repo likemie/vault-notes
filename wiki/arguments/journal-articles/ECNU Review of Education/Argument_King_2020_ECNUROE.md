@@ -74,8 +74,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Forum on China-Africa Cooperation|中非合作论坛]]（Forum on China-Africa Cooperation, FOCAC）历经近二十年发展并在约翰内斯堡峰会（2015）与北京峰会（2018）持续扩大人力资源开发指标的背景下，中国于2013年启动并在2016年发布《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》后，跨大洲覆盖的“[[Belt and Road Initiative|一带一路]]”倡议（Belt and Road Initiative, BRI）如何同既有的对非教育合作传统相衔接？其宏大教育蓝图究竟是补充、重叠还是超越了中非合作论坛的承诺？其政策文本如何通过重塑[[South-South Cooperation|南南合作]]（South-South Cooperation, SSC）[[Discourse|话语]]，推动中国对外教育合作由单向奖学金培训向多边能力合作与全方位互联互通拓展？
 

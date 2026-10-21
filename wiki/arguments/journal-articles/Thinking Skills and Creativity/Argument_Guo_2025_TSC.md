@@ -111,8 +111,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Knowledge-Based Economy\|知识经济]]与技术驱动的时代背景下，面向大学生的[[Creativity Training\|创造力训练]]项目是否能够有效提升高等教育学生的[[Creativity\|创造力]]？具体影响量级多大？创造力的各个子维度（[[Divergent Thinking\|发散思维]]、图形、言语、词汇、[[Problem Solving\|问题解决]]、情绪创造力）是否存在响应差异？训练周期、训练方式、组织形式及学段层次等关键调节[[Variable\|变量]]如何调制干预效果？（pp.1–3）
 

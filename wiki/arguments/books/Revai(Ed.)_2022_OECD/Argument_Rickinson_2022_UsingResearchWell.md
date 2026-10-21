@@ -84,8 +84,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > [[International Education\|国际教育]]改革长期聚焦于何谓高质量证据的争论，却极度忽视了何谓[[Quality Use of Research Evidence Framework\|高质量研究使用]]的探讨；在学校实践情境中，究竟怎样才算用好研究证据，一线教育工作者如何理解与践行高质量[[Research Utilization\|研究使用]]，以及学校与教育系统需要提供何种针对性支持？（pp.182–183）
 

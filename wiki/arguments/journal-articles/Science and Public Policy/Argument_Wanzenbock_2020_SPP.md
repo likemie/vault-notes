@@ -79,8 +79,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在应对气候变化、粮食安全与公共健康等重大社会挑战时，[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）如何克服既有研究将社会问题预设为已知、且将解决方案等同于科技突破的技术[[Determinism|决定论]]偏见？政策制定者应如何在一个由问题端与方案端双重棘手性构成的空间中，通过差异化的治理路径促成问题共识与方案合法性的有效收敛？
 

@@ -84,8 +84,6 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 二战后美国微电子元器件、电子计算机与计算机软件三大新兴产业何以在短短数十年内从无到有，并跨界交融孕育出重塑现代全球经济运行方式的[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）（互联网）？联邦研发（Research and Development, R&D）投资、国防先导采购合同、反垄断同意令与开放知识产权规制等多元公共政策工具如何在其中协同发力？这一根植于冷战军备竞赛与军民双向技术溢出背景下的信息技术（Information Technology, IT）创新政策体系，能否直接作为应对全球气候变化、加速清洁能源技术研发的政策[[Paradigm|范式]]？（pp.159–161）
 

@@ -94,8 +94,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在当代全球教育治理与循证改革浪潮中，各国政府日益热衷于设立超党派、客观中立的独立国家[[Educational Brokerage Agency\|证据中介机构]]（evidence broker）。此类机构宣称通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与标准化量规剔除政治意识形态干扰，加速科研成果向课堂实践转化。然而，此类机构真实的制度创生脉络、权力网络与资本基础究竟为何？本文旨在深入探究澳大利亚国家级教育科研实体[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）如何被构想、游说并装配为制度实体，揭示在其公共中立表象之下，由跨国[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）资本、企业管理咨询寡头与国家立法机器深度协同的[[Policy Network\|政策网络]]。（pp. 1–3）
 

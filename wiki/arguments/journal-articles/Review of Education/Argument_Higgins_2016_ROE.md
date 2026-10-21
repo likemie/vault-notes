@@ -92,8 +92,6 @@ citation_aliases:
   - "Higgins, 2016"
   - "Higgins (2016)"
 ---
-## 研究问题
-
 > [!question]
 > 教育研究领域如何从单一研究走向跨[[Research Synthesis|研究综合]]？[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]在为教育实践者提供比较性信息时，有哪些方法论风险和收益？[[EEF Teaching and Learning Toolkit]] 这类面向实践者的工具如何在准确性和可及性之间取得平衡？
 

@@ -119,8 +119,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在全球化背景下，全球教育[[Champ|场域]]中[[Emergence|涌现]]出哪些超越传统主权国家的新型政策行动者？以联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]], UNESCO，简称联合国教科文组织）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，如何通过[[Knowledge Production|知识生产]]与跨国政策建议塑造全球教育？比较教育学需要何种新的[[Analytic Framework|理论分析框架]]，方能系统把握教育[[Discourse|话语]]在不同结构位置之间的跨国流动、转译机制及其在本土学校机构中引发的复杂实践效应？（pp. 341–343）
 

@@ -87,8 +87,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）深度渗透读写课堂的背景下，教育界主流常将大语言模型类比为字词计算器，认为实现认识正义仅在于确保全员技术准入与工具操作培训。然而，这一工具平权视角是否掩盖了更根本的育人伤害？当教师主动鼓励或要求学生将构思、提纲乃至修改等核心写作环节外包给 AI 时，究竟对学生作为求知者（Knowers）的心智发育造成了何种本质性的伦理与[[Epistemology|认识论]]侵害？教育哲学应如何界定这种侵害，并为读写教学构建兼具批判性与操作性的教学防线？
 

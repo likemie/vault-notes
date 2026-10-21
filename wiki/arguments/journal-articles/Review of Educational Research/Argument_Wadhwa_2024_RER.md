@@ -130,8 +130,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究问题
-
 > [!question]
 > 围绕三个层层递进的问题展开：
 > 1. **科学标准[[Heterogeneity\|异质性]]** [[Educational Evidence Clearinghouses\|教育证据清算中心]]（Education Evidence Clearinghouse, CH）用于归因干预有效性的因果识别标准、研究纳入规则和证据合成门槛有多大差异？

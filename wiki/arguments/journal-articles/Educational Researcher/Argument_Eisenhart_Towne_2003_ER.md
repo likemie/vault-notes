@@ -97,8 +97,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在美国联邦教育政策密集推行[[Scientifically Based Research|科学本位研究]]引发学界剧烈震荡的背景下，华盛顿各项政策与立法文本中的科学定义是否存在实质差异与功能分工？学术研究共同体的公共参与和专业质证能否切实改变国家法定[[Evidence Standards|证据标准]]的演进轨迹？（pp. 31–32）
 

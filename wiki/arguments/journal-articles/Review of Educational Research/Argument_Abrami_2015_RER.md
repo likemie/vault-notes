@@ -111,8 +111,6 @@ issuing_organization: ""
 
 ---
 
-## 研究问题
-
 > [!question]
 > 教学干预如何促进学生的[[Critical Thinking\|批判性思维]]（Critical Thinking，CT）技能与倾向发展？具体而言：哪些微观教学策略（对话研讨、[[Authentic Instruction\|真实性教学]]、[[Mentorship\|导师制]]及其组合）最具实证有效性？不同课程模式（Ennis 分类法：独立通用、学科融入、学科沉浸、显性混合）的效果是否存在层级差异？批判性思维教学效果是否受学习者学段、学科领域与干预时长的调节？批判性思维教学对常规[[Academic Achievement\|学业成就]]是否产生负面挤压或正向溢出？
 

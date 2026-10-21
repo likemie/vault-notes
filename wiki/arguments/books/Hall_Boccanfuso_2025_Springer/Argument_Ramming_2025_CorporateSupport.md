@@ -88,8 +88,6 @@ publisher: "Springer"
 
 ---
 
-## 研究问题
-
 > [!question]
 > 在以营利为核心目标的企业环境中，负责[[University-Industry Collaboration|产学合作]]的内部实践者如何克服跨部门壁垒、短期考核压力与认知分歧，在企业内部为大学科研项目争取持续的资金预算、技术骨干配合与高层管理支持？
 >
