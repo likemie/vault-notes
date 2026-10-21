@@ -349,6 +349,7 @@ updated: 2026-10-21
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] — 阐明大学[[University-Industry Collaboration\|产学合作]]战略中边界跨越者的双重转译、信任建构与降低交易成本机制。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]] — 深入分析产学联盟中关系经理（Relationship Manager）的组织化职责与合作维系机制。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在全球教育治理情境下考察边界跨越者从[[Knowledge Mediation\|知识中介]]向[[Policy Brokerage\|政策中介]]的演进，揭示国际组织如何作为超级跨界机构在[[Surplus of Evidence\|证据过剩]]与[[Policy Ambiguity\|决策歧义性]]环境下[[Soft Power by Hard Facts\|以硬事实施展软权力]]，并剖析跨界者在内部官僚认知与外部学术独立性之间的公信力两难。
+> - [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] — 分析经合组织作为全球教育知识经纪人，如何依托探究与调解双模协同将量化测评转化为最佳实践处方以施展软治理。
 > - Campbell et al. (2017) — 依托 [[Knowledge Network for Applied Education Research\|KNAER]] [[Case Study\|案例研究]]全系统[[Knowledge Mobilisation\|知识动员]]战略，分析跨界中介网络在[[Research Translation\|知识转译]]与全系统能力建设中的运作。
 > - Cooper, Klinger, & McAdie (2017) — 实证揭示教师工会与同行网络作为中介者在课堂评估证据流动中的核心地位。
 > - Akkerman and Bakker (2011) — 全面综述学习与教育研究中的边界跨越与[[Boundary Object\|边界对象]]理论，提出识别、协调、反思与转化的四阶段学习机制。

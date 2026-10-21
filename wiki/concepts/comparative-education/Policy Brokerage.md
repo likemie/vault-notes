@@ -113,22 +113,22 @@ updated: 2026-10-21
 
 > [!feature|notitle] 核心要素
 > - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与治理杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
 > - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 > - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 612–613)]]
-> - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇论文化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
+> - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇研究成果化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
 
 > [!logic-map]- 政策中介运行机制逻辑图
 > ```mermaid
 > flowchart TD
 >     A["信息过载与证据过剩生态"] --> B["教育决策环境：<br>歧义性、公共争议性、不确定性"]
 >     B --> C["政策中介介入：<br>选择性提取、证据包装与理性修辞"]
+>     D --> E["国家政府响应：<br>议程设置阶段动员 vs 决策出台阶段过滤"]
+>     D2 --> E2["国内政策落地：<br>守门人筛选 + 适宜性逻辑 + PBEM 自证"]
 >     C --> D["跨国工具打包：<br>经合组织（PISA + 经验对照）<br>世界银行（SABER + 实践仓库）"]
 >     C --> D2["国内网络中介：<br>官方扶植机构（CCT / TSC）<br>系统领袖审查组 + 口口相传"]
->     D --> E["国家政府响应：<br>议程设置阶段动员 vs 决策出台阶段过滤"]
->     D2 --> E2["国内政策落地：<br>守门人筛选 + 适宜性逻辑 + PBEM 闭环"]
 > ```
 
 ---
@@ -137,7 +137,7 @@ updated: 2026-10-21
 
 ---
 
-### 命题一　信息过量并未消除决策歧义而是强化了对政策中介的筛选需求
+### 命题一　信息过量环境下决策歧义性强化了对政策中介的筛选需求
 
 > [!concept-lens] 信息过载与证据筛选
 > 探讨数字化时代知识供给过剩如何颠覆传统理性决策假设，促成政策中介机构的制度性崛起。
@@ -205,7 +205,7 @@ updated: 2026-10-21
 > [!dev-timeline|notitle] 概念演变
 > - **1979 — [[Two-Communities Theory\|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
-> - **2018–2021 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** Niemann & Martens 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系扮演[[Boundary Spanner\|知识经纪人]]，通过 hard facts 行使 soft governance。
+> - **2018 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系充当知识经纪人，通过探究与调解模式行使软治理。
 > - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
 
@@ -244,5 +244,6 @@ updated: 2026-10-21
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] — 揭示经合组织作为跨国政策知识经纪人，如何通过探究与调解双模协同推介最佳实践处方以施展软治理。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。
