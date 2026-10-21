@@ -9,9 +9,9 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 62
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 58
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Journal of Education Policy
 citation: "Grek, S. (2009). Governing by numbers: the PISA 'effect' in Europe. *Journal of Education Policy*, 24(1), 23–37. https://doi.org/10.1080/02680930802412669"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Self-Efficacy]]"
   - "[[Heterogeneity]]"
+  - "[[Mediatisation of Education Policy]]"
   - "[[School Choice]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
@@ -53,49 +54,44 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
-  - "[[Mediatisation of Education Policy]]"
-  - "[[PISA Shock]]"
 related_theories:
-  - "[[Structural Functionalism]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Expert Interview]]"
   - "[[In-depth Interview]]"
   - "[[Documentary Analysis]]"
-  - "[[Internal Consistency]]"
 related_instruments: []
 related_persons:
   - "[[Niklas Luhmann]]"
+  - "[[Sotiria Grek]]"
+  - "[[Jenny Ozga]]"
   - "[[Alain Desrosières]]"
   - "[[Kerstin Martens]]"
   - "[[António Nóvoa]]"
   - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
-  - "[[Sotiria Grek]]"
-  - "[[Jenny Ozga]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[EU]]"
+  - "[[Eurydice]]"
   - "[[Federal Ministry of Education and Research]]"
+  - "[[Fabricating Quality in European Education]]"
   - "[[World Bank]]"
   - "[[Education at a Glance]]"
+  - "[[International Adult Literacy Survey]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Chemie im Kontext]]"
+  - "[[Physik im Kontext]]"
   - "[[SINUS]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO]]"
+  - "[[UOE Data Collection]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[Peer-Learning Activities]]"
   - "[[Australian Council for Educational Research]]"
   - "[[TIMSS]]"
-  - "[[Eurydice]]"
-  - "[[Fabricating Quality in European Education]]"
-  - "[[Peer-Learning Activities]]"
-  - "[[International Adult Literacy Survey]]"
-  - "[[UOE Data Collection]]"
-  - "[[Physik im Kontext]]"
-  - "[[PISA Shock in Germany]]"
 related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
@@ -116,7 +112,7 @@ status: draft
 > PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为欧盟委员会在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。（pp. 23–24, 34–35）
 
 > [!concept-lens] 阅读透镜
-> - **对象** PISA 2000 与 2003 年测评周期在芬兰、德国、英国（英格兰与苏格兰）的政策反响，以及欧盟委员会教育文化总司与欧洲教育信息网络（Education Information Network in Europe, [[Eurydice]]）政策专家的跨国治理实践。
+> - **对象** PISA 2000 与 2003 年测评周期在芬兰、德国、英国（英格兰与苏格兰）的政策反响，以及欧盟委员会教育文化总司与[[Eurydice|欧洲教育信息网络]]（Education Information Network in Europe, [[Eurydice]]）政策专家的跨国治理实践。
 > - **张力** 统计数字表面展现的技术中立性与客观性，与其内在作为规制政治工具之间的张力；成员国维护宪制教育主权与超国家软治理引发政策趋同之间的张力。
 > - **贡献** 开创性确立以数字治理（governing by numbers）的分析视域，揭示经合组织与欧盟委员会在数据生产与政策动员上的深度共生机制，阐明比较评估如何作为政治技术规训国家教育系统与学习者个体。
 
@@ -133,7 +129,7 @@ status: draft
 > | **[[European Education Space\|欧洲教育空间]]**<br>Nóvoa & Lawn (2002) | 分析超国家机构如何通过跨国流动、[[Data Infrastructure\|数据基础设施]]与可比指标，共同编织出具有[[Commensuration\|通约]]性与可规制性的欧洲教育象征与功能[[Champ\|场域]]。（pp. 24–25, 34–35） |
 
 > [!warrant]- 理论如何支撑论证
-> [[Structural Functionalism|结构功能主义]]与新制度主义组织社会学视国际组织为具有明确意志与推进意图的能动主体（Barnett & Finnemore, 1999）。结合政策工具社会学理论，[[OECD|经合组织]]借助数字测量建立权威品牌，弥补了其缺乏法定立法强制权与结构调整贷款条件的制度劣势；同时，通过[[Niklas Luhmann|卢曼]]系统论的外在化概念，各主权国家面对评估排名的异质反应得以被纳入统一的政治合法性解构框架中，展现出量化知识在国家与超国家双重尺度上的政治功能。（pp. 24–26, 34–35）
+> 结构功能主义与新制度主义组织社会学视国际组织为具有明确意志与推进意图的能动主体（Barnett & Finnemore, 1999）。结合政策工具社会学理论，[[OECD|经合组织]]借助数字测量建立权威品牌，弥补了其缺乏法定立法强制权与结构调整贷款条件的制度劣势；同时，通过[[Niklas Luhmann|卢曼]]系统论的外在化概念，各主权国家面对评估排名的异质反应得以被纳入统一的政治合法性解构框架中，展现出量化知识在国家与超国家双重尺度上的政治功能。（pp. 24–26, 34–35）
 
 ---
 
@@ -151,7 +147,7 @@ status: draft
 > |---|---|
 > | **文本样本** | 经合组织 PISA 2000 与 2003 首次评估周期报告（OECD, 2001, 2003）；芬兰教育部官方通告（2007）；[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）改革规划（2007）；苏格兰行政院教育研究报告（2002）；欧盟里斯本战略理事会结论（2000）。（pp. 24–27, 36–37） |
 > | **访谈样本** | 欧盟委员会教育文化总司官员（编码 EU3）、[[Eurydice]] 分析专家（编码 EU4）、英格兰教育行政部门官员（编码 CP2E、EU2）、苏格兰督导与分析部门官员（编码 S1、S2）。（pp. 23, 26, 31–33） |
-> | **材料情境** | 依托欧洲科学基金会（European Science Foundation, ESF）欧洲合作研究项目（European Collaborative Research Projects, EUROCORES）框架下的[[Fabricating Quality in European Education|制造欧洲教育质量项目]]（Fabricating Quality in European Education, FabQ，项目编号 RES-000-23-1385）开展，由爱丁堡大学教育社会学中心研究员[[Sotiria Grek|索蒂丽亚·格雷克]]（Sotiria Grek）主笔，结合[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga）与 Martin Lawn 等团队专家的跨国调查数据，访谈以英语进行，重点聚焦测评数据在布鲁塞尔与成员国决策体系中的转译过程。（pp. 24, 35） |
+> | **材料情境** | 依托欧洲科学基金会（European Science Foundation, ESF）欧洲合作研究项目（European Collaborative Research Projects, EUROCORES）框架下的[[Fabricating Quality in European Education\|制造欧洲教育质量项目]]（Fabricating Quality in European Education, FabQ，项目编号 RES-000-23-1385）开展，由爱丁堡大学教育社会学中心研究员[[Sotiria Grek\|索蒂丽亚·格雷克]]（Sotiria Grek）主笔，结合[[Jenny Ozga\|珍妮·奥兹加]]（Jenny Ozga）与 Martin Lawn 等团队专家的跨国调查数据，访谈以英语进行，重点聚焦测评数据在布鲁塞尔与成员国决策体系中的转译过程。（pp. 24, 35） |
 
 ---
 
@@ -182,7 +178,7 @@ status: draft
 > [!policy-context] 国际组织治理形态横向对照
 > - **世界银行信贷制约机制** 依托信贷资金与援助项目，向全球南方国家强制绑定结构调整与特定政策附带条件。（pp. 24–25）
 > - **[[EU|欧洲联盟]]条约立法权能** 具备条约赋予的法定立法权与指令工具，但在教育领域受[[Subsidiarity Principle|辅助性原则]]限制，难以推行中央集权式指令。（pp. 24–25）
-> - **经合组织比较规制机制** 通过《[[Education at a Glance|教育概览]]》（[[Education at a Glance]]）、国际成人识字调查（[[International Adult Literacy Survey|International Adult Literacy Survey, IALS]]）与 [[PISA]] 等指标工程，确立科学决策的比较转向，使政策建议无需出具方额外辩护便被广泛接受为权威事实。（pp. 24–25）
+> - **经合组织比较规制机制** 通过《[[Education at a Glance|教育概览]]》（[[Education at a Glance]]）、国际成人识字调查（[[International Adult Literacy Survey]], IALS）与 [[PISA]] 等指标工程，确立科学决策的比较转向，使政策建议无需出具方额外辩护便被广泛接受为权威事实。（pp. 24–25）
 
 为克服法定约束手段的匮乏，经合组织通过制度化资源调配构建跨国比较界面。（pp. 25–27）
 
@@ -236,18 +232,18 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 #### 2. 德国遭遇成绩落后震荡，借舆论危机全面推行统考与结果问责
 
-与芬兰的平静相反，德国在首届 PISA 测评中的落后引爆了深刻的体制危机与社会恐慌（[[PISA Shock in Germany|德国 PISA 冲击]] / [[PISA Shock|PISA 冲击]]）。（pp. 29–30）
+与芬兰的平静相反，德国在首届 PISA 测评中的落后引爆了深刻的体制危机与社会恐慌（德国 PISA 冲击 / PISA 冲击）。（pp. 29–30）
 
 > [!case] 德国案例档案：舆论海啸、产出监控与组织再造
 > - **位次落差与舆论海啸** 德国在 32 个受测国中阅读、数学与科学均列第 20 位，彻底击碎了传统教育优越感；主流媒体刊发多达 687 个版面的持续报道，引发显著的[[Mediatisation of Education Policy|教育政策媒介化]]风暴，项目负责人与专家密集参与电视台圆桌专题辩论（European Network, 2004）。（p. 29）
 > - **部长级会议的紧急动员** [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）于 2002 年通过紧急决议，拟定衡量初中与高中毕业能力水平的国家标准，并在小学及中学末期全面推行大规模标准化统测。（p. 29）
 > - **从输入管理转向产出监控** 摆脱过去仅依靠大纲课时与资源调配的传统模式，转向以毕业能力和劳动力市场准入技能为核心的产出控制体系。（pp. 29–30）
-> - **直接对接测评的项目研发** 尽管国内学界对统计效度存在批评（Wuttke, 2006），各州仍启动了直接对应测评模型的重大改进工程，包括[[Chemie im Kontext|情境中的化学]]项目（Chemie im Kontext, CHIK）、[[Physik im Kontext|情境中的物理]]项目（Physik im Kontext, PIKO）以及理科教学增效项目（[[SINUS|Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts]], SINUS）（BMBF, 2007）；德国 PISA 联合体定期发布能力监测报告（Prenzel et al., 2004）。（pp. 29–30）
+> - **直接对接测评的项目研发** 尽管国内学界对统计效度存在批评（Wuttke, 2006），各州仍启动了直接对应测评模型的重大改进工程，包括[[Chemie im Kontext|情境中的化学]]项目（Chemie im Kontext, CHIK）、情境中的物理项目（[[Physik im Kontext]], PIKO）以及理科教学增效项目（[[SINUS|Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts]], SINUS）（BMBF, 2007）；德国 PISA 联合体定期发布能力监测报告（Prenzel et al., 2004）。（pp. 29–30）
 > - **学校组织的现代性重塑** 路德维希·庞格拉茨（Ludwig Pongratz）将这一改革讨论与 1960 年代的教育大灾难（Bildungskatastrophe）相对照，指出激进改革已超出数据本身的直接要求，其实质是借助外部压力将德国学校改造为自负盈亏、接受全面质量监控的自我管理组织（Pongratz, 2006, p. 472; p. 30）。
 
 #### 3. 英国拿亮眼排名为既有路线背书，英格兰与苏格兰借数据各取所需
 
-经合组织将联合王国视为单一国家实体，但在实际操作中英格兰与苏格兰展现出完全分立的动员机制。（pp. 30–32）
+经合组织将联合王国视为单一国家实体，但在实际操作中英格兰的政策动员与苏格兰展现出完全分立的反应机制。（pp. 30–32）
 
 > [!case] 联合王国案例档案：英格兰政策惯性与苏格兰自主防御
 > - **分立的施测架构与应答危机** 英国由各法域独立实施；英格兰教育与技能部（Department for Education and Skills, DfES，后改组为儿童、学校与家庭部，Department for Children, Schools and Families, DCSF）委托英国国家统计局社会调查处（Office for National Statistics, ONS）开展；苏格兰行政院委托格拉斯哥大学苏格兰教育研究委员会（Scottish Council for Research in Education, SCRE）开展；英格兰在 2000 与 2003 年因学校数据负担过重，遭遇样本应答率不达标危机。（p. 30）
@@ -271,7 +267,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 > [!row-contrast] 芬兰、德国、英格兰与苏格兰的 PISA 动员模式横向对照
 > | 国别与体系模式 | PISA 表现基准 | 媒体舆论反应 | 官方改革归因 | 实质政策举措 | 外在化政治功能 |
 > |---|---|---|---|---|---|
-> | **芬兰**<br>（综合均质模式） | 全科目成绩顶尖，被国际社会奉为全球学习典范。（pp. 28–29） | 极度克制，报纸仅刊发 8 个版面报道。（p. 29） | 归因于非分流综合学制与全员高素质硕士教师。（pp. 28–29） | 反常加强必修课，提高核心学科课时比重。（p. 29） | 应对国际审视，巩固国内体制[[Internal Consistency\|内部一致性]]。（p. 29） |
+> | **芬兰**<br>（综合均质模式） | 全科目成绩顶尖，被国际社会奉为全球学习典范。（pp. 28–29） | 极度克制，报纸仅刊发 8 个版面报道。（p. 29） | 归因于非分流综合学制与全员高素质硕士教师。（pp. 28–29） | 反常加强必修课，提高核心学科课时比重。（p. 29） | 应对国际审视，巩固国内体制内部一致性。（p. 29） |
 > | **德国**<br>（联邦三轨模式） | 32 国中三科均列第 20 位，引爆体制危机恐慌。（pp. 29–30） | 危机舆论风暴，刊发 687 个版面并开展电视辩论。（p. 29） | 归因于学制过早分流僵化与缺乏统一质量标准。（pp. 29–30） | 出台国家能力标准，推行统测与 SINUS 项目。（pp. 29–30） | 制造危机合法性，打破联邦教育修法僵局。（pp. 29–30） |
 > | **英格兰**<br>（绩效市场模式） | 阅读第 7、数学第 8、科学第 4，名列前茅。（pp. 30–31） | 9 篇主要报纸头版赞扬，回避阶层严重差距。（pp. 30–31） | 确证现有[[School Choice\|择校]]竞争与高利害问责模式的正确性。（p. 31） | 维持现有体制惯性，无实质新增改革举措。（p. 31） | 塑造执政声望，掩盖阶层表现不平等事实。（p. 31） |
 > | **苏格兰**<br>（自评督导模式） | 各科目均列受测国前三分之一，表现优异。（pp. 31–32） | 积极报道，突出苏格兰教育比英格兰更快乐。（pp. 30–31） | 确证独有的[[School Autonomy\|学校自主]]评估制度与优良学校氛围。（pp. 31–32） | 深化学校自评，抵制英格兰检查体制向北渗透。（pp. 31–32） | 确立独立国际定位，捍卫督导体系自主管辖权。（pp. 31–32） |
@@ -292,7 +288,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 > [!policy-context] 欧盟与经合组织在超国家治理中的资源与职能互补
 > - **财政资助机制** 欧盟委员会通过联盟预算直接为成员国承担 80% 的 PISA 调查国家参与成本，有效保障了数据采集的覆盖广度。（p. 32）
-> - **数据同源共享** 欧盟[[Lisbon Strategy|里斯本战略]][[Performance Indicators|教育指标]]报告中 50% 至 60% 的基础数据直接采购于经合组织；[[UNESCO|联合国教科文组织]]-经合组织-欧盟统计局联合数据收集机制（[[UOE Data Collection|UNESCO-OECD-Eurostat, UOE]]）构成核心支撑。（p. 32）
+> - **数据同源共享** 欧盟[[Lisbon Strategy|里斯本战略]][[Performance Indicators|教育指标]]报告中 50% 至 60% 的基础数据直接采购于经合组织；[[UNESCO|联合国教科文组织]]-经合组织-欧盟统计局联合数据收集机制（[[UOE Data Collection|UNESCO-OECD-Eurostat]], UOE）构成核心支撑。（p. 32）
 > - **常态制度嵌入** 欧盟委员会在经合组织国家教育指标系统（Indicators of National Education Systems, [[International Indicators of Education Systems|INES]]）及其所有下属科学委员会中享有正式法定席位，实现双方决策网络的深度嵌合。（p. 32）
 
 > [!voice] 欧盟决策官员论经合组织与欧盟委员会的共生同盟
@@ -302,7 +298,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 #### 2. 盲目取经芬兰难见实效，欧陆国家不满英美机构垄断测验技术
 
-欧盟委员会依托 PISA 数据组织跨国同行学习活动（[[Peer-Learning Activities|Peer-Learning Activities, PLA]]），推动各国专家前往芬兰考察[[Individualised Instruction|个别化教学]]与教师培训，试图寻找成功秘诀。（p. 33）
+欧盟委员会依托 PISA 数据组织跨国同行学习活动（[[Peer-Learning Activities]], PLA），推动各国专家前往芬兰考察[[Individualised Instruction|个别化教学]]与教师培训，试图寻找成功秘诀。（p. 33）
 
 > [!voice] 欧盟官员论同行学习活动中芬兰经验借鉴的脱嵌悖论
 > 欧盟官员（EU3）坦承：同行学习活动的目标是理解芬兰的成功秘密，探索其经验能否启发英格兰等国；然而跨国政策转移极度复杂，缺乏有效方法来辨别哪些成功要素能够植根于异质的本国土壤；现实中人们往往只关注浮华闪耀的表面，缺乏严肃的转移机制。（p. 33）
@@ -383,7 +379,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 ## 自述局限
 
 > [!warning]
-> 访谈材料依赖于特定历史时期的关键知情人，布鲁塞尔访谈样本主要集中于[[EU|欧盟]]委员会教育文化总司与 Eurydice 的核心决策官员，未充分纳入欧洲各成员国常驻布鲁塞尔代表处的内部博弈视角；案例分析主要聚焦于芬兰、德国与英国等代表性西欧与北欧体系，结论向东欧与南欧边缘成员国的推广需审慎。（pp. 24, 32, 34）
+> 访谈材料依赖于特定历史时期的关键知情人，布鲁塞尔访谈样本主要集中于[[EU|欧盟]]委员会教育文化总司与 [[Eurydice]] 的核心决策官员，未充分纳入欧洲各成员国常驻布鲁塞尔代表处的内部博弈视角；案例分析主要聚焦于芬兰、德国与英国等代表性西欧与北欧体系，结论向东欧与南欧边缘成员国的推广需审慎。（pp. 24, 32, 34）
 
 ---
 

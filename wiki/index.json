@@ -2363,6 +2363,26 @@
     ]
   },
   {
+    "title": "PISA Mathematical Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/PISA Mathematical Literacy.md",
+    "aliases": [
+      "PISA数学素养",
+      "PISA数学素养测评",
+      "OECD数学素养评价框架"
+    ]
+  },
+  {
+    "title": "PISA Reading Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/PISA Reading Literacy.md",
+    "aliases": [
+      "PISA阅读素养",
+      "PISA阅读素养测评",
+      "OECD阅读素养评价框架"
+    ]
+  },
+  {
     "title": "PISA Scientific Literacy",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/PISA Scientific Literacy.md",
@@ -29915,6 +29935,18 @@
     ]
   },
   {
+    "title": "Finnish PISA Miracle",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish PISA Miracle.md",
+    "aliases": [
+      "芬兰PISA奇迹",
+      "PISA-Wunder in Finnland",
+      "芬兰PISA现象",
+      "Finnish PISA Phenomenon",
+      "Finnish PISA Success"
+    ]
+  },
+  {
     "title": "Finnish National Core Curriculum",
     "type": "fact",
     "path": "wiki/facts/finland/Finnish National Core Curriculum.md",
@@ -33041,6 +33073,18 @@
       "2019 牛津 UIDP 峰会",
       "Oxford UIDP Summit",
       "UK-UIDP Summit"
+    ]
+  },
+  {
+    "title": "PISA Response in England",
+    "type": "fact",
+    "path": "wiki/facts/uk/PISA Response in England.md",
+    "aliases": [
+      "英格兰PISA政策回应",
+      "PISA in England",
+      "英国PISA应对",
+      "英国国际学生评估项目反应",
+      "England PISA Debate"
     ]
   },
   {

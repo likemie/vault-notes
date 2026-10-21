@@ -85,21 +85,23 @@ related_facts:
   - "[[Lisbon Strategy]]"
   - "[[Education for All]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Finnish PISA Miracle]]"
   - "[[Free Semester System]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 sources:
   - "[[sources/Li_2025_HSSC/Li_2025_HSSC|Li_2025_HSSC]]"
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-20
+updated: 2026-10-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -209,7 +211,7 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 区域集中性与三个因素有关：
 > - [[OECD]] 与欧盟委员会长期共享相似政策议程。OECD 定义和收集的欧洲教育体系数据与欧盟数据交叉，共同创建了 **[[European Education Space\|欧洲教育空间]]（European Education Space）**。
-> - PISA 自首轮结果发布即塑造了欧洲教育网络的运作方式，政策领域自那时起就受到欧洲学者的广泛关注（Grek, 2009）。
+> - PISA 自首轮结果发布即塑造了欧洲教育网络的运作方式，政策领域自那时起就受到欧洲学者的广泛关注（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）。
 > - 欧洲代表了 OECD 世界的重要部分。
 
 > [!warning] [[Research Scope\|研究范围]]的局限
@@ -362,7 +364,7 @@ issuing_organization: ""
 > 各国对 PISA 的政策回应构成一个连续光谱：从全面的教育体系改革（瑞士、德国）到几乎不产生任何影响（美国早期）。差异源于每个国家独特的政治、历史、文化和制度条件在三个层级上的具体组合方式。
 
 > [!contrast-table] 六国 PISA 政策回应对比
-> | 维度 | 德国 | 芬兰 | 法国 | 瑞士 | 美国 | 韩国 |
+> | 维度 | 德国（[[PISA Shock in Germany\|PISA 冲击]]） | 芬兰（[[Finnish PISA Miracle\|芬兰奇迹]]） | 法国 | 瑞士 | 美国 | 韩国 |
 > |------|------|------|------|------|------|------|
 > | **PISA 表现** | 低于预期 | 持续高排名 | 中等 | 高于 OECD 平均 | 持续低于国际标准 | 高于平均 |
 > | **自我认知落差** | 巨大（PISA 冲击） | 低（PISA 认可既有政策） | 中等 | 显著（尽管高于 OECD 平均） | 低（已接受低于国际标准） | 中等 |
