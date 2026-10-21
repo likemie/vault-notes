@@ -4,13 +4,13 @@ aliases:
   - 制度转换
   - 制度转用
   - 政策转换
-summary: 历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但行动者策略性利用规则固有的模糊性与解释缝隙，对其进行重新部署、转用与创新性解释，使其服务于制度设计者未曾预见或甚至相反的全新目标、职能与政治联盟的演进过程。
+summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但行动者策略性利用规则固有的模糊性与解释缝隙，对其进行重新部署、转用与创新性解释，使其服务于制度设计者未曾预见或甚至相反的全新目标、职能与政治联盟的演进过程。"
 type: concept
-domain: political-economy-geopolitics
-related_count: 21
-related_level: 2
-related_stars: ⭐⭐
-related_color: "#99f6e4"
+domain: "political-economy-geopolitics"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -26,23 +26,32 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Rule Ambiguity]]"
   - "[[Competitiveness]]"
+  - "[[School Choice]]"
   - "[[Apprenticeship]]"
+  - "[[National Large-Scale Assessments]]"
+  - "[[New Public Management]]"
+  - "[[Performance Pay]]"
   - "[[Value Neutrality]]"
   - "[[Positivism]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Varieties of Capitalism]]"
-related_methods: []
+  - "[[Policy Instrumentation Theory]]"
+related_methods:
+  - "[[Documentary Analysis]]"
+  - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
   - "[[Wolfgang Streeck]]"
 related_facts:
   - "[[German Dual Education System]]"
+  - "[[No Child Left Behind Act 2001]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -161,7 +170,7 @@ updated: 2026-10-21
 > [!dev-timeline|notitle] 概念演变
 > - **2004年–2005年 — [[Wolfgang Streeck|施特雷克]]与希伦界定转换机制** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因[[Rule Ambiguity|规则模糊性]]、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦建构类型学与[[Opportunists|机会主义者]]角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
-> - **2019年 — 政策工具理论与教育治理中的制度转换** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 结合政策工具社会学，系统分析教育评估工具如何经历制度转换，在原有测评法条未改前提下被转用于市场择校与特许改制惩戒（pp. 251, 253）。
+> - **2019年 — 政策工具理论与教育治理中的制度转换** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 结合[[Policy Instrumentation Theory|政策工具社会学]]，系统分析教育评估工具如何经历制度转换，在原有测评法条未改前提下被转用于市场[[School Choice|择校]]与特许改制惩戒（pp. 251, 253）。
 
 ---
 
@@ -173,7 +182,7 @@ updated: 2026-10-21
 > - **美国 1964 年《民权法》第七章平等就业机会委员会扩权（弱法转用典范）** 罗伯特·利伯曼（Lieberman）考证表明，设立平等就业机会委员会（EEOC）的法定权力最初在国会被保守派妥协阉割，但民权官僚与法官策略性通过个案判例层层拓展法条解释，将原本缺乏强制力的协调机构转用为实施肯定性行动计划的最强规制机器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]
 > - **19 世纪末德国手工业公会[[Apprenticeship|学徒培训]]制度的工业化转用（技能体系转换典范）** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中得以完整保留，并被新兴机械与高端制造业资本家策略性转用，改造为现代[[German Dual Education System|德国双元制职业教育]]培训体系的基石。
 > - **法国 1981 年《奥鲁改革法》的资方反向转用（劳资博弈转换典范）** 密特朗左翼政府为强化工会车间地位颁布法律，但资方利用法律对员工表达权规定的模糊缝隙，成立直接向管理层汇报的内部车间委员会，反向架空了激进工会的垄断谈判权。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 27)]]
-> - **教育质量监测工具向市场问责与改制惩戒的功能转换（教育治理工具转换典范）** 安东尼·维格等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 251, 253]]）考证表明，国家大规模评估（NLSA）最初在立法和行政规章中多以中立的“教学诊断”、“学情监测”与“校本支持”为法定宗旨；但在新公共管理改革推进中，在未修改测评成文规章的前提下，政策制定者策略性重新部署该工具，将其转用于家长择校排位、绩效工资挂钩与学校关停接管等强问责目标。在美国《不让一个孩子掉队》法案（NCLB）实践中，学业不达标学校的测验规程甚至被转用于撬动公立学校改制为特许学校（Charter Schools），展现了政策工具在成文规则未改之下的深层制度转换。
+> - **教育质量监测工具向市场问责与改制惩戒的功能转换（教育治理工具转换典范）** 安东尼·维格等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 251, 253]]）考证表明，[[National Large-Scale Assessments|国家大规模评估]]（NLSA）最初在立法和行政规章中多以中立的“教学诊断”、“学情监测”与“校本支持”为法定宗旨；但在[[New Public Management|新公共管理]]改革推进中，在未修改测评成文规章的前提下，政策制定者策略性重新部署该工具，将其转用于家长[[School Choice|择校]]排位、[[Performance Pay|绩效工资]]挂钩与学校关停接管等强问责目标。在美国《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|NCLB]]）实践中，学业不达标学校的测验规程甚至被转用于撬动公立学校改制为特许学校（Charter Schools），展现了政策工具在成文规则未改之下的深层制度转换。
 
 ---
 
@@ -194,12 +203,12 @@ updated: 2026-10-21
 
 ## 实证数据
 
-> [!ref-table]- 制度转换机制的实证文献分析
+> [!ref-table]- 制度转换机制的实证[[Documentary Analysis|文献分析]]
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 核心机制与测量指标 | 关键实证发现与表现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251, 253)]] | 全球 158 篇教育治理改革文献（重点追踪美国、智利与英国等） | [[Systematic Review\|系统文献综述]]与历时性政策分析 | 政策工具演进中的制度转换（Conversion）机制 | 证实评估工具在成文法律未变前提下发生功能转用，从最初的诊断支持转化为以特许改制、生源流失与行政惩戒为导向的强问责机制 | 质性系统综述与历史制度主义综合分析 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251, 253)]] | 全球 158 篇教育治理改革文献（重点追踪美国、智利与英国等） | [[Systematic Review\|系统文献综述]]与历时性政策分析 | 政策工具演进中的制度转换（Conversion）机制 | 证实评估工具在成文法律未变前提下发生功能转用，从最初的诊断支持转化为以特许改制、生源流失与行政惩戒为导向的强问责机制 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析 |
 
 ---
 
@@ -208,5 +217,5 @@ updated: 2026-10-21
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
-> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合历史制度主义与政策工具社会学，揭示国家大规模评估工具如何经历制度转换，由最初的教学诊断支持转变为市场化生源竞争与学校改制惩戒的治理机制。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合[[Historical Institutionalism|历史制度主义]]与[[Policy Instrumentation Theory|政策工具社会学]]，揭示[[National Large-Scale Assessments|国家大规模评估]]工具如何经历制度转换，由最初的教学诊断支持转变为市场化生源竞争与学校改制惩戒的治理机制。
 

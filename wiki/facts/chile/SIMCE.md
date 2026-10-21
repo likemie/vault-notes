@@ -9,6 +9,12 @@ summary: "智利于1988年创设的国家大规模标准化教育评估项目，
 type: fact
 subtype: program
 region: "chile"
+fact_region: "chile"
+fact_kind: "program"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "1988–至今"
 initiator_organization: "智利教育部（Ministerio de Educación de Chile, MINEDUC） / 教育质量局（Agencia de Calidad de la Educación）"
 tags:
@@ -17,20 +23,21 @@ tags:
   - theme/accountability
   - region/chile
 related_concepts:
-  - "[[National Large-Scale Assessments]]"
-  - "[[Test-Based Accountability]]"
   - "[[School Choice]]"
-  - "[[Institutional Layering]]"
-  - "[[Performance Pay]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[School Autonomy]]"
+  - "[[Space of Equivalence]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Institutional Layering]]"
+  - "[[Educational Privatisation]]"
+  - "[[Test-Based Accountability]]"
 related_theories:
-  - "[[Policy Instrumentation Theory]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Quantitative Research]]"
+  - "[[Theory of Gradual Institutional Change]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Centros Concertados]]"
   - "[[Chilean Educational Reform of 1981]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
@@ -52,15 +59,15 @@ updated: 2026-10-21
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1988 年正式建立并首次施测，常态化运行至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **发起方与资助机制** 由智利教育部（MINEDUC）立项并提供国家经常性预算资助，后续由独立的国家教育质量局统筹执行。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
-> - **覆盖范围与对象** 覆盖全国所有公立学校、政府资助私立学校（Subvencionados）以及独立私立学校的 2、4、6、8 年级及高中 2 年级全体学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **核心问题导向** 配合 1981 年教育券改革（[[Chilean Educational Reform of 1981]]），解决家长择校过程中的信息不对称问题，确立中央政府对全国统一课程大纲的远程质量监控。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
+> - **覆盖范围与对象** 覆盖全国所有公立学校、政府[[Centros Concertados|资助私立学校]]（Subvencionados）以及独立私立学校的 2、4、6、8 年级及高中 2 年级全体学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
+> - **核心问题导向** 配合 1981 年教育券改革（[[Chilean Educational Reform of 1981]]），解决家长[[School Choice|择校]]过程中的信息不对称问题，确立中央政府对全国统一课程大纲的远程质量监控。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 
 ---
 
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 通过对全体学生进行标准参照与常模测评，将量化分数公开发布并作为家长择校信号与学校问责依据，借由准市场竞争与行政奖惩促使学校自主提升教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 253, 257)]]
+> 通过对全体学生进行[[Criterion-Referenced Test|标准参照]]与常模测评，将量化分数公开发布并作为家长[[School Choice|择校]]信号与学校问责依据，借由准市场竞争与行政奖惩促使[[School Autonomy|学校自主]]提升教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 253, 257)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 测度学生在国家课程大纲规定之语言、数学、自然科学与社会科学等领域的学习达成度，为宏观教育决策与择校提供基准数据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
@@ -90,12 +97,12 @@ updated: 2026-10-21
 > [!actor-grid] 实施协同矩阵
 > - **顶层规划与资助方** 智利教育部（MINEDUC），负责教育法规制定与国家课程标准确立。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **专门执行与评价机构** 智利教育质量局（Agencia de Calidad de la Educación），负责统筹实施测验命题、施测监督与学校分级。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
-> - **一线执行与办学主体** 市政公立学校、政府资助私立学校（Subvencionados）与私立收费学校。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
+> - **一线执行与办学主体** 市政公立学校、政府[[Centros Concertados|资助私立学校]]（Subvencionados）与私立收费学校。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **商业服务与改进供应商** 围绕 SIMCE 衍生出的课外教辅机构、模拟测验软件开发商与学校改进咨询企业。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 > [!pathways] 实施路径与管理
 > - **国家课程校准** 2000 年代初系统调整测验题型，从简单事实回忆转向考查高级认知能力，确保试题贴合全国课程标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **公私协同一体推进** 凭借公共财政资助的优先权，强制各类学校纳入同一尺度排位，构筑全国统一的量化等值空间。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–250, 257)]]
+> - **公私协同一体推进** 凭借公共财政资助的优先权，强制各类学校纳入同一尺度排位，构筑全国统一的量化[[Space of Equivalence|等值空间]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–250, 257)]]
 
 ---
 
@@ -103,11 +110,11 @@ updated: 2026-10-21
 
 > [!indicators] 评估指标体系
 > - **学业标准达成度** 各学科标准化分值与等级分布。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **校际排位与增值指数** 综合考虑学生社会经济背景后的学校学业增值得分。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
+> - **校际排位与增值指数** 综合考虑学生[[Socioeconomic Status|社会经济背景]]后的学校学业增值得分。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 > - **高利害问责达标率** 连续达到 SEP 协议规定基准线的学校比例。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257–258)]]
 
 > [!finding-cards] 核心实证结论
-> - **制度分层的典范演变** 展现了政策工具在文本规则存续下通过追加排位表、教师奖金与关停制裁实现的渐进式功能转换。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257–258)]]
+> - **[[Institutional Layering|制度分层]]的典范演变** 展现了政策工具在文本规则存续下通过追加排位表、教师奖金与关停制裁实现的渐进式功能转换。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257–258)]]
 > - **跨党派政治共识维系** 中左翼执政联盟与右翼政党均视 SIMCE 为维系准市场运作与监督公共资源效能不可替代的核心工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 258)]]
 > - **强化社会阶层隔离** 公开排行榜促使拥有较好家庭资源的家长向优质补贴私校集中，造成严重的公立学校生源枯竭与社会分层。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 
@@ -135,7 +142,7 @@ updated: 2026-10-21
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Chilean Educational Reform of 1981]] | Fact (Policy) | SIMCE 所服务的教育券制度与教育私有化改革基础。 |
+> | [[Chilean Educational Reform of 1981]] | Fact (Policy) | SIMCE 所服务的教育券制度与[[Educational Privatisation\|教育私有化]]改革基础。 |
 > | [[Test-Based Accountability]] | Concept | SIMCE 历经分层演变所构筑的基于测验的高利害问责模式。 |
-> | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的制度变迁理论构件。 |
+> | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的[[Theory of Gradual Institutional Change\|制度变迁理论]]构件。 |
 > | [[School Choice]] | Concept | SIMCE 成绩单所支持的家长择校与校际竞争机制。 |

@@ -10101,7 +10101,6 @@
     "aliases": [
       "制度转换",
       "制度转用",
-      "conversion",
       "政策转换"
     ]
   },
@@ -29022,6 +29021,17 @@
     ]
   },
   {
+    "title": "SIMCE",
+    "type": "fact",
+    "path": "wiki/facts/chile/SIMCE.md",
+    "aliases": [
+      "智利教育质量测度系统",
+      "智利国家教育评估系统",
+      "Sistema de Medición de la Calidad de la Educación",
+      "Education Quality Measurement System"
+    ]
+  },
+  {
     "title": "Academic Ranking of World Universities",
     "type": "fact",
     "path": "wiki/facts/china/Academic Ranking of World Universities.md",
@@ -33726,6 +33736,18 @@
     ]
   },
   {
+    "title": "Education Reform Act 1988",
+    "type": "fact",
+    "path": "wiki/facts/uk/Education Reform Act 1988.md",
+    "aliases": [
+      "英国1988年教育改革法",
+      "1988年教育改革法",
+      "英国教育改革法1988",
+      "ERA 1988",
+      "Education Reform Act"
+    ]
+  },
+  {
     "title": "EEF Teaching and Learning Toolkit",
     "type": "fact",
     "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
@@ -34740,6 +34762,17 @@
       "英国幼儿学校借用",
       "Open Classroom",
       "Informal Education Movement"
+    ]
+  },
+  {
+    "title": "Opt-Out Movement",
+    "type": "fact",
+    "path": "wiki/facts/us/Opt-Out Movement.md",
+    "aliases": [
+      "美国退考运动",
+      "退考运动",
+      "罢考运动",
+      "National Opt-Out Movement"
     ]
   },
   {
