@@ -98,7 +98,7 @@ updated: 2026-10-22
 > - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）。
 
 > [!citation-card] 关键定义：社会网络分析的结构解释力
-> 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，解释人们行为的关键不在于其孤立的个体属性，而在于其所嵌入的社会网络结构规律。
+> 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，人们所嵌入的宏观网络结构关系比传统的个体属性更能有力地解释其行为。
 >
 > *Social network analysis seeks to measure and map the structural regularities of relationships among social entities... The core [[Hypothesis]] is that these macro-structural relations explain people’s behaviour more powerfully than traditional individual categories.*（Knoke & Yang, 2008，引于 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al., 2011, p. 625]]）
 
@@ -235,6 +235,7 @@ updated: 2026-10-22
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Educational Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 抓取南亚与中亚 12 国 1,864 名政商学界精英与 115 个中国官方媒体及外交官的 Twitter 互动网络，运用 Louvain 社区发现算法、度中心度与中介中心度分析跨国社交信息扩散，揭示官方媒体作为前沿推送方与外交官作为守门人的结构特征。
 
 ---
 

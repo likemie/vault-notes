@@ -292,3 +292,4 @@ updated: 2026-10-22
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp and Zamiska (2025)]] — 阐释软实力作为国际权力必要非[[Necessary and Sufficient Conditions|充分条件]]的现实主义命题，批判脱离软件[[Hard Power|硬实力]]的[[Winner's Fallacy|胜者自满]]。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证检验东南亚跨境高教输出，指出传统软实力透镜难以解释经贸外交、科技展演与治理经验认同交织的微观机制，倡导将[[Neo-Tributary Perspective|新朝贡视角]]与[[Tianxia Heuristic|天下启发式]]及知识外交范式深度整合。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 系统测度南亚与中亚多维公共外交，阐明软实力在次国家层面的空间聚焦与权力转化困境，揭示民众好感与精英认同的分流特征。

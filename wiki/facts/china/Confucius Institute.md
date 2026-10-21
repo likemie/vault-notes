@@ -166,3 +166,4 @@ updated: 2026-10-22
 > | [[Belt and Road Initiative]] | Fact (Program) | 孔子学院自 2016 年起深度嵌入一带一路沿线人文交流与语言互通布局。 |
 | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性文献。 |
 | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视柬埔寨孔子学院下设课堂网络、本土化教材编撰及文化传播向当代科技生活转型的田野文献。 |
+| [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 测度南亚与中亚 13 国孔子学院与孔子课堂分布格局，揭示其集中于大都市与首都、次国家覆盖有限的实证特征。 |

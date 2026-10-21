@@ -9987,6 +9987,17 @@
     ]
   },
   {
+    "title": "Financial Diplomacy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Financial Diplomacy.md",
+    "aliases": [
+      "金融外交",
+      "财政外交",
+      "次国家金融外交",
+      "subnational financial diplomacy"
+    ]
+  },
+  {
     "title": "Forced Knowledge Transfer",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Forced Knowledge Transfer.md",
@@ -10652,6 +10663,17 @@
     "aliases": [
       "心理化",
       "青年问题的心理化"
+    ]
+  },
+  {
+    "title": "Public Diplomacy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Public Diplomacy.md",
+    "aliases": [
+      "公共外交",
+      "人民外交",
+      "对外公共外交",
+      "people-to-people diplomacy"
     ]
   },
   {
@@ -20580,7 +20602,9 @@
       "聚类分析",
       "K-Means Cluster Analysis",
       "k均值聚类分析",
-      "类别分析"
+      "类别分析",
+      "层次聚类分析",
+      "Hierarchical Cluster Analysis"
     ]
   },
   {
@@ -32563,6 +32587,15 @@
     ]
   },
   {
+    "title": "China-Pakistan Economic Corridor",
+    "type": "fact",
+    "path": "wiki/facts/multi/China-Pakistan Economic Corridor.md",
+    "aliases": [
+      "中巴经济走廊",
+      "CPEC"
+    ]
+  },
+  {
     "title": "International Baccalaureate Nutritional Science Course",
     "type": "fact",
     "path": "wiki/facts/multi/International Baccalaureate Nutritional Science Course.md",
@@ -35333,6 +35366,16 @@
       "阿奇夫",
       "阿奇夫组织",
       "Achieve, Inc."
+    ]
+  },
+  {
+    "title": "AidData",
+    "type": "fact",
+    "path": "wiki/facts/us/AidData.md",
+    "aliases": [
+      "威廉与玛丽学院AidData实验室",
+      "AidData研究实验室",
+      "AidData at William & Mary"
     ]
   },
   {
@@ -39583,6 +39626,11 @@
     "title": "Argument_Lakhani_2012_AKUIED",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md"
+  },
+  {
+    "title": "Argument_Custer_2021_AidData",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
   },
   {
     "title": "Argument_Hattie_2005_ACER",
