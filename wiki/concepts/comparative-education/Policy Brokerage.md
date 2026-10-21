@@ -163,7 +163,7 @@ updated: 2026-10-21
 > 分析主要政府间组织在政策中介风格、经验依据与自指性引用模式上的结构性差异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD\|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；[[World Bank\|世界银行]]则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性闭合特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD\|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；[[World Bank\|世界银行]]则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -173,7 +173,7 @@ updated: 2026-10-21
 > 考察主权国家在将跨国政策中介引入本土时，如何在议程设置与行政立法之间实施非对称筛选。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **外部中介的阶段性合法化借力与行政过滤断崖** 政策借用并非全盘接受外部中介的无缝平移，而是呈现高度断裂的双阶段特征。在政策周期的第一阶段（议程设置），主权国家通过召集专家委员会大量汲取跨国政策中介的研究成果以引发公众危机意识并论证改革必要性；但在第二阶段（官方行政法规或部长令起草），主权行政当局会实施戏剧性的去国际化过滤，斩断绝大部分外部引用，仅保留极少数契合既定政治路线的特定国际组织工具。实证显示，挪威在能力改革专家阶段列入 464 篇文献，最终颁布法令时断崖式缩减至 22 篇，而其中高达 20 篇被经合组织审查组垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> **外部中介的阶段性合法化借力与行政过滤断崖** 政策借用在主权国家内部呈现高度断裂的双阶段特征。在政策周期的第一阶段（议程设置），主权国家通过召集专家委员会大量汲取跨国政策中介的研究成果以引发公众危机意识并论证改革必要性；但在第二阶段（官方行政法规或部长令起草），主权行政当局会实施戏剧性的去国际化过滤，斩断绝大部分外部引用，仅保留极少数契合既定政治路线的特定国际组织工具。实证显示，挪威在能力改革专家阶段列入 464 篇文献，最终颁布法令时断崖式缩减至 22 篇，而其中高达 20 篇被经合组织审查组垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 ---
 
@@ -183,7 +183,7 @@ updated: 2026-10-21
 > 探讨在主权国家内部治理中，行政当局如何通过[[Gatekeepers\|守门人]]机制、官方资助中介机构与非正式口碑网络实现基于政策的证据转译。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起闭环的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
+> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起自成体系的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 ---
 
@@ -222,7 +222,7 @@ updated: 2026-10-21
 > > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!critique] 外部批评
-> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识进行闭环中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识展开定向中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
 
 > [!warning] 适用局限
