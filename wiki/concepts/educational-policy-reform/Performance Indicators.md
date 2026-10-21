@@ -7,7 +7,7 @@ aliases:
 summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -72,6 +72,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -254,6 +255,7 @@ updated: 2026-10-22
 > - **2000s — PISA 与心理测量跨国排名的全面渗透** 跨国评估演变为以标准分数排序决定国家教育优劣的全球问责机制，超越了单纯提供系统概况的统计功能。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > - **2010s — 区域记分牌与多边排他性同盟分化** 欧盟推广区域创新记分牌（[[Regional Innovation System|RIS]]）；世界银行开发“改善教育成果系统分析法”（[[Systems Approach for Better Education Results|SABER]]），各多边机构形成自成体系的指标数据库并建立政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 > - **2010s — 规制指标分层演进与控制网底深化** 国家测试问责体制在既有全员统考之上，通过层叠增设 6 岁语音拼读筛查与英国学士学位（EBacc）等细分绩效指标，对基层学校课程教学实施纵深规制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
+> - **2012–2014 — 多源测评汇聚与 SABER 四级成熟度量规体系** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017, pp. 7–8]]）揭示，世界银行通过教育统计查询系统（EdStats）将高收入国家测验（PISA、TIMSS）与全球南方区域测评（SACMEQ、PASEC、LLECE）合并，建立涵盖 242 个国家和地区的 3,261 项比较指标库；同时依托 SABER 将 13 个政策领域操作化为四级成熟度量规，构筑起全球教育指标的集中化管理中枢。
 
 ---
 
@@ -297,6 +299,7 @@ updated: 2026-10-22
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰小学与初中教师群体（国家标准政策实施情境） | 政策人种志与教师实践调查 | 效应量指标运用方式与教师合规行为 | 教育部将学术界宏观比较指标（$d \ge 0.40$ 期望效应区）转化为考核学校胜任力的硬性门槛；教师将时间转移至频繁施测 asTTle 测验与制作达标台账 | 质性深度案例分析 | 呈现宏观统计指标被降格为基层微观绩效考核时的表演性异化 |
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022, pp. 172–173)]] | 欧盟 16 个地区、168 位终身学习政策专家 | YOUNG_ADULLLT 跨国实证调研 | 区域创新记分牌（RIS）指标在地方政策中的转译方式 | 德语区与北欧能动地将指标转化为学徒制政策方案；南欧与东欧因承接能力不足将指标异化为对受助青年的标签工具 | 质性多案例比较 | 表明同一绩效指标体系在制度基础异质的区域产生两极化治理后果 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 134–135)]] | 拉丁美洲与加勒比海地区国家（2000 年达喀尔论坛评估） | 国际比较教育统计与评估报告分析 | 全民教育（EFA）核心绩效指标（初等净入学率、留级率、辍学率与识字率） | 古巴成为全拉美唯一达成教科文组织全部 EFA 核心指标的国家；接受结构调整与市场化改革的国家指标停滞或恶化 | 联合国教科文组织官方监测数据考证 | 表明剥离国家公共投入保障的外部指标问责难以实质改善教育绩效 |
+> | [[Argument_Zapp_2017_IJED\|Zapp (2017, pp. 7–8)]] | 世界银行教育统计查询系统（EdStats）与改善教育成果系统分析法（SABER） | 纵向组织档案与全球指标数据库统计普查 | 跨国比较指标规模与政策成熟度量规覆盖度 | EdStats 整合 242 个国家和地区的 3,261 项教育指标；SABER 将 13 个政策领域划分为四级成熟度量规并在 100+ 国家开展 200+ 次政策诊断 | 全样统计普查 | 证实超国家金融机构通过多源测评拼接与量规设计，构筑起垄断性的全球教育绩效指标清算所 |
 
 ---
 
@@ -310,3 +313,4 @@ updated: 2026-10-22
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 195–196)]] — 追踪经合组织如何依托 INES 项目与《教育概览》将绩效指标文化植入成员国教育部，并将学习产出指标缺失界定为治理危机，为自主研制大规模测评工具确立合法威权。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧洲教育空间中指标治理的生产网络，实证揭示欧盟里斯本战略指标体系有 50%–60% 的数据直接采购自经合组织，呈现跨机构数据基础设施依附。
 > - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 系统梳理英格兰等国测试问责政策演进，实证揭示国家通过层叠引入语音拼读筛查与 EBacc 等专门绩效指标收紧学校规制网底的制度过程。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 实证揭示世界银行通过 EdStats 整合 242 个国家和地区的 3,261 项教育指标，并以 SABER 四级量规确立全球指标垄断。（pp. 7–8）
