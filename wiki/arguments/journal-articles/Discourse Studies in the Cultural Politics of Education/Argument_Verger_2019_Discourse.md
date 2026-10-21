@@ -24,15 +24,51 @@ tags:
 related_concepts:
   - "[[National Large-Scale Assessments]]"
   - "[[Test-Based Accountability]]"
+  - "[[Global Education Reform Movement]]"
+  - "[[New Public Management]]"
   - "[[Institutional Layering]]"
+  - "[[Champ]]"
+  - "[[Professional Judgment]]"
+  - "[[Variable]]"
+  - "[[Literature Review]]"
+  - "[[Reliability]]"
+  - "[[Steering at a Distance]]"
+  - "[[School Choice]]"
+  - "[[Space of Equivalence]]"
+  - "[[Institutional Conversion]]"
+  - "[[Discourse]]"
+  - "[[Performance Indicators]]"
+  - "[[Criterion-Referenced Test]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Evaluation Research]]"
+  - "[[Data Infrastructure]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Construct]]"
+  - "[[Literature Search]]"
 related_theories:
-  - "[[Policy Instrumentation Theory]]"
+  - "[[Convergence Theory in Comparative Education]]"
   - "[[Historical Institutionalism]]"
+  - "[[Path Dependence]]"
+  - "[[Policy Instrumentation Theory]]"
+  - "[[Rational Action Theory]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[External Auditor]]"
+  - "[[Random Sampling]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Adequate Yearly Progress]]"
+  - "[[Race to the Top]]"
+  - "[[National Assessment of Educational Progress]]"
+  - "[[Ofsted]]"
+  - "[[Educational Testing Service]]"
+  - "[[Common Core State Standards]]"
+  - "[[National Education Association]]"
+  - "[[National Education]]"
+  - "[[American Federation of Teachers]]"
 related_arguments: []
 sources:
   - "[[sources/Verger_2019_Discourse|Verger_2019_Discourse]]"
@@ -46,9 +82,9 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 6
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Discourse: Studies in the Cultural Politics of Education"
 book_title: ""
@@ -70,8 +106,8 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球范围内以国家大规模评估、基于测验的问责制和国家学习标准为核心的数据密集型治理工具体系。（p. 249）
-> - **张力** 全球趋同论（如全球教育改革运动倡导的同质化政策工具包）与历史制度主义情境敏感性（本土行政体制的路径依赖与制度折射）之间的解释冲突。（pp. 249–250）
-> - **贡献** 构建了审视教育治理工具变迁的社会历史分析视角，提出行政传统三维分化模型（新公共管理〔New Public Management, NPM〕市场化、新韦伯主义与拿破仑传统），揭示了评估扩张与问责涨落的非同步累积机制。（pp. 250–252, 262–264）
+> - **张力** 全球[[Convergence Theory in Comparative Education|趋同论]]（如[[Global Education Reform Movement|全球教育改革运动]]倡导的同质化政策工具包）与[[Historical Institutionalism|历史制度主义]]情境敏感性（本土行政体制的[[Path Dependence|路径依赖]]与制度折射）之间的解释冲突。（pp. 249–250）
+> - **贡献** 构建了审视教育治理工具变迁的社会历史分析视角，提出行政传统三维分化模型（[[New Public Management|新公共管理]]〔New Public Management, NPM〕市场化、新韦伯主义与拿破仑传统），揭示了评估扩张与问责涨落的非同步累积机制。（pp. 250–252, 262–264）
 
 ---
 
@@ -82,7 +118,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Policy Instrumentation Theory\|政策工具化理论]]**<br>Lascoumes and Le Galès (2007) | 阐明政策工具兼具技术性、社会性与政治性，拒绝中立工具观，揭示工具如何作为治理装置自主结构化公共政策并生产特定权力关系。（pp. 250–251） |
 > | **[[Historical Institutionalism\|历史制度主义]]渐进变迁理论**<br>(Mahoney, 2000; Thelen, 2004) | 提供[[Institutional Layering\|制度分层化]]（Layering）、政策转换（Conversion）与政策漂移（Drift）等分析范畴，解释治理工具如何在旧制度框架上逐层累积叠加并产生意外后果。（pp. 251–252） |
-> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分新公共管理市场化（NPM marketizers）、新韦伯主义（Neo-Weberian）与拿破仑传统（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
+> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、新韦伯主义（Neo-Weberian）与拿破仑传统（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
 
 > [!dimension] 政策工具的三重分析维度
 > - **技术与操作维度**
@@ -90,10 +126,10 @@ issuing_organization: ""
 > - **认知与表征维度**
 >   预先规定何种教育现象具有可观察性，将复杂的育人质量降维为可测量的分数，构造出特定的问题认知图式。（pp. 250–251）
 > - **政治与权力分配维度**
->   重新划分教育场域内的资源、自主权与合法性，赋权掌握测评技术的官僚与商业专家，边缘化一线教师的专业判断。（p. 251）
+>   重新划分教育[[Champ|场域]]内的资源、自主权与合法性，赋权掌握测评技术的官僚与商业专家，边缘化一线教师的[[Professional Judgment|专业判断]]。（p. 251）
 
 > [!warrant]- 理论如何支撑论证
-> 政策工具化理论打破了传统理性选择理论将政策工具视作中立技术手段的局限，指出工具本身即是内嵌特定认知假定与利益结构的制度实体。结合历史制度主义后，分析得以超越采纳或拒绝的静态二元对立，追踪工具引入后在不同国家行政机器内部历时性发生的分层累加与功能转换；政体行政传统则提供了中观制度结构变量，系统解释了为何同样的标准化考试工具在盎格鲁-撒克逊体制下演化为市场竞争推进机制，而在北欧与南欧则分别被重构为质量调控器或陷入行政试错泥潭。（pp. 250–252）
+> 政策工具化理论打破了传统[[Rational Action Theory|理性选择理论]]将政策工具视作中立技术手段的局限，指出工具本身即是内嵌特定认知假定与利益结构的制度实体。结合历史制度主义后，分析得以超越采纳或拒绝的静态二元对立，追踪工具引入后在不同国家行政机器内部历时性发生的分层累加与功能转换；政体行政传统则提供了中观制度结构[[Variable|变量]]，系统解释了为何同样的标准化考试工具在盎格鲁-撒克逊体制下演化为市场竞争推进机制，而在北欧与南欧则分别被重构为质量调控器或陷入行政试错泥潭。（pp. 250–252）
 
 ---
 
@@ -102,7 +138,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Systematic Review\|系统文献综述]]**<br>Systematic Literature Review | 遵循系统文献综述规范检索与筛选规程，以 Scopus 数据库为核心检索源，辅以针对索引代表性不足国家的同行专家关键知情人推荐，系统搜集聚焦教育治理改革政治经济学的同行评议文献。（p. 252） |
+> | **[[Systematic Review\|系统文献综述]]**<br>Systematic Literature Review | 遵循系统[[Literature Review\|文献综述]]规范检索与筛选规程，以 Scopus 数据库为核心检索源，辅以针对索引代表性不足国家的同行专家关键知情人推荐，系统搜集聚焦教育治理改革政治经济学的同行评议文献。（p. 252） |
 > | **国别提取与综合策略**<br>Country-Specific Extraction | 鉴于既有实证文献多聚焦于特定政策时期或孤立问责构件，采用国别提取表（Country-Specific Extraction Sheets）而非单篇文献表进行信息综合，将离散文献聚合为国家治理历时性演进轨迹。（p. 252） |
 > | **定性跨国历史比较**<br>Comparative Qualitative Analysis | 依据政体行政传统对英国、美国、智利、挪威、丹麦、瑞典、意大利、西班牙等案例国的工具采纳动机、利害性演进与制度化阻力展开类型学比较。（pp. 252–260） |
 
@@ -110,16 +146,16 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文献样本规模** | 经多轮严格去重与入选标准筛选，最终纳入 158 篇经过同行评议的索引学术期刊文献。（p. 252） |
-> | **地理覆盖范围** | 重点覆盖经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD，简称经合组织）成员国及部分拉美中等收入国家，兼顾盎格鲁-撒克逊体制、北欧与中欧大陆体制及南欧体制。（pp. 248, 252–255） |
+> | **地理覆盖范围** | 重点覆盖[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）成员国及部分拉美中等收入国家，兼顾盎格鲁-撒克逊体制、北欧与中欧大陆体制及南欧体制。（pp. 248, 252–255） |
 > | **检索语法设计** | 复合布尔逻辑检索式，联合治理工具与政治经济学词群与学校教育词群，并在附录中完整披露检索串。（pp. 252, 269–270） |
 > | **文献筛选限制** | 英文核心引文索引数据库对非英语出版物及低收入发展中国家边缘实践的收录存在结构性局限，主要反映已建制化国家的治理经验。（pp. 252, 264） |
 
-> [!coding-frame]- 系统文献综述检索与筛选规程（Appendix 检索语法）
+> [!search-protocol]- 系统文献综述检索与筛选规程（附录检索语法）
 > | 检索维度 | 核心布尔检索逻辑与控制词表 | 筛选与质控门禁 |
 > |---|---|---|
 > | **政策工具与治理词群** | `TITLE-ABS-KEY`：`'accountability' OR 'evaluation' OR 'assessment' OR 'test' OR 'standard*' OR 'NLSA' OR 'performance-based pay' OR 'voucher' OR 'charter school' OR 'league table'` 联合 `'governance' OR 'policy instruments' OR 'instrumentation' OR 'new public management'` | 严格限定同行评议期刊发表物，剔除纯思辨社论与书评。（p. 252） |
 > | **政治经济与行动者词群** | 联合 `'political economy' OR 'policy actor' OR 'policy entrepreneur' OR 'teacher union' OR 'interest group' OR 'private sector' OR 'education industry' OR 'opt-out'` | 排除纯心理测量学技术开发或无制度情境讨论的心理学测试文献。（p. 252） |
-> | **教育情境限定词群** | `AND TITLE-ABS-KEY`：`'school' OR 'schooling' OR 'education' OR 'educational' OR 'vocational training' OR 'VET'`（pp. 269–270） | 采用双人独立背靠背初筛与全篇复核，保证文献入选信度。（p. 252） |
+> | **教育情境限定词群** | `AND TITLE-ABS-KEY`：`'school' OR 'schooling' OR 'education' OR 'educational' OR 'vocational training' OR 'VET'`（pp. 269–270） | 采用双人独立背靠背初筛与全篇复核，保证文献入选[[Reliability\|信度]]。（p. 252） |
 
 ---
 
@@ -148,24 +184,39 @@ issuing_organization: ""
 
 #### 1. 标准、测验与问责三者紧密嵌套，将复杂的教育质量简化为数字达标
 
-当代国家治理从传统的行政命令与财政拨款，转向依靠数据指标实施远程调控，推动了以学习标准、国家统考和绩效问责为核心的规制体系的确立。（pp. 248–249）
+当代国家治理从传统的行政命令与财政拨款，转向依靠数据指标实施[[Steering at a Distance|远程调控]]，推动了以学习标准、国家统考和绩效问责为核心的规制体系的确立。（pp. 248–249）
 
 > [!feature] 治理装置的技术与政治三联体
 > - **显性学习标准** 将复杂的育人目标拆解为可观测、可切分并可直接比对的量化能力阶梯。（p. 249）
-> - **国家大规模教育评估（NLSAs）** 运用外部标准化测量与集中式数据库，建立覆盖全系统的统一质量监控基线。（p. 249）
-> - **基于测验的问责制（TBA）** 将考试分数与学校名誉、经费拨款、家长择校乃至整顿接管直接挂钩，成为撬动学校日常运转的核心力量。（p. 249）
+> - **[[National Large-Scale Assessments|国家大规模教育评估]]（NLSAs）** 运用外部标准化测量与集中式数据库，建立覆盖全系统的统一质量监控基线。（p. 249）
+> - **[[Test-Based Accountability|基于测验的问责制]]（TBA）** 将考试分数与学校名誉、经费拨款、家长[[School Choice|择校]]乃至整顿接管直接挂钩，成为撬动学校日常运转的核心力量。（p. 249）
 
-这种组合创造了一个数字化的等值空间，用可量化的合规表现取代了复杂的办学实际，促使学校将主要精力转向追求测验指标达标。（pp. 249–250）
+三联体的紧密嵌套不仅重组了教育行政控制架构，更在底层深塑了学校日常运转的价值取向。（pp. 249–250）
+
+> [!implication]- 数字[[Space of Equivalence|等值空间]]的规训后果
+> 标准、统考与问责共同构造了一个去情境化的数字等值空间（space of equivalence）。复杂的育人过程与结构性教育差距被降维为单一的可比分值，合规表现由此取代真实教学，促使学校将主要精力与教学资源转向追求测验指标达标。（pp. 249–250）
 
 #### 2. 治理工具在运行中会层层加码，从教学诊断逐步演化为行政控制手段
 
-传统公共管理往往把政策工具当成解决既定问题的中立手段，忽视了工具本身的自主性。政策工具社会学与历史制度主义表明，工具一旦进入具体行政环境，就会逐步产生脱离最初设想的控制效果。（pp. 250–251）
+传统公共管理往往把政策工具当成解决既定问题的中立手段，忽视了工具本身的自主性。[[Policy Instrumentation Theory|政策工具社会学]]与[[Historical Institutionalism|历史制度主义]]表明，工具一旦进入具体行政环境，就会逐步产生脱离最初设想的控制效果。（pp. 250–251）
 
-> [!proc] 治理工具的异化与制度化动力机制
-> 1. **重新界定问题** 工具预先规定了何种指标算作有效成绩，将深层次的社会不平等简化为学生在标准化测试中的分数差距。（p. 250）
-> 2. **制度分层叠加（Layering）** 面对新的管理需要，政府往往保留既有行政规则，直接在旧机制之上不断叠加上报报表、增值评价与考核指标。（p. 251）
-> 3. **功能悄然转变（Conversion）** 最初用于帮助教师改进教学、供行政部门宏观参考的温和诊断工具，在实际推行中逐步演变为整肃薄弱学校、考核教职工的刚性武器。（p. 251）
-> 4. **催生专属利益群体** 工具的日常运转催生出掌握技术特权与商业利益的测评专家、商业公司与咨询智库，从内部改变了教育政策圈的权力平衡。（p. 252）
+> [!phase] 治理工具从技术手段走向制度化的演变历程
+>
+> - **问题认知重构**
+>
+>   工具预先界定了何种指标算作有效表现，将深层次的社会教育不平等简化为标准化测验的分数差距。（p. 250）
+>
+> - **[[Institutional Layering|制度分层]]叠加（Layering）**
+>
+>   面对新的管理需求，行政系统保留既有规则，在原有行政框架上逐层累加新的数据报表与增值考核指标。（p. 251）
+>
+> - **功能悄然转换（[[Institutional Conversion|Conversion]]）**
+>
+>   最初用于辅助教学诊断、供宏观参考的温和监测工具，在推行中逐步被赋予整肃学校与考核人员的刚性权能。（p. 251）
+>
+> - **利益同盟生成与锁定**
+>
+>   工具运转催生出掌握测评[[Discourse|话语]]权的商业集团与技术官僚同盟，彻底改变了教育政策[[Champ|场域]]的权力分配。（p. 252）
 
 ---
 
@@ -176,30 +227,36 @@ issuing_organization: ""
 
 #### 1. 市场导向国家将统考成绩作为择校依据，并不断追加严厉的连带惩罚
 
-英格兰、美国、智利等推行新公共管理（NPM）体制的国家，早已奠定了市场选择与绩效主义的制度基础，因而迅速将测验问责深度嵌入到学校竞争与私有化进程中。（pp. 252–253）
+英格兰、美国、智利等推行[[New Public Management|新公共管理]]（NPM）体制的国家，早已奠定了市场选择与绩效主义的制度基础，因而迅速将测验问责深度嵌入到学校竞争与私有化进程中。（pp. 252–253）
 
-> [!case] 市场化国家案例：智利与英格兰
+> [!case] 市场化国家案例：智利、英格兰与美国
 > - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（Sistema de Medición de la Calidad de la Educación, SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入国家学校绩效评估系统（Sistema Nacional de Evaluación del Desempeño, SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行《优惠学校补贴法》（Ley de Subvención Escolar Preferencial, SEP），向弱势学生提供差别化资助，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–258）
-> - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（Education Reform Act, ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入绩效与评估报告（Performance and Assessment, Panda）和学生学业追踪系统（Pupil Assessment Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）绩效指标，持续收紧量化控制网底。（pp. 253, 256–257）
-> - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（No Child Left Behind Act, NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（Adequate Yearly Progress, AYP）制裁；2011 年《力争上游》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（Value-Added Model, VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
+> - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（Education Reform Act, ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入绩效与评估报告（Performance and Assessment, Panda）和学生学业追踪系统（Pupil Assessment Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）[[Performance Indicators|绩效指标]]，持续收紧量化控制网底。（pp. 253, 256–257）
+> - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（Value-Added Model, VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
+
+英格兰、美国与智利虽共享市场化改革基底，但在具体规制工具、制裁机制与政党博弈策略上呈现出各异的演化路径。（pp. 252–254）
 
 > [!row-contrast] 核心新公共管理市场化国家的政策演进比较
 > | 比较维度 | 智利 | 英格兰 | 美国 |
 > |---|---|---|---|
 > | **初始制度驱动** | 军政府新自由主义休克疗法与教育券普及 | 撒切尔新右派削减地方官僚权力与择校赋权 | 应对国际经济竞争（《国家处在危险之中》）与民权公平诉求 |
-> | **核心评估工具** | SIMCE 全员常模与标准参照统考 | 关键学段（Key Stages）全国统考与语音筛查 | 州级标准化统考（NCLB 框架）与国家教育进展评估（National Assessment of Educational Progress, NAEP）抽样基线 |
-> | **问责制裁机制** | SNED 绩效奖金、SEP 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（Office for Standards in Education, Children's Services and Skills, Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、特许学校重组与教师 VAM 考核 |
+> | **核心评估工具** | SIMCE 全员常模与[[Criterion-Referenced Test\|标准参照]]统考 | 关键学段（Key Stages）全国统考与语音筛查 | 州级标准化统考（NCLB 框架）与国家教育进展评估（[[National Assessment of Educational Progress]], NAEP）抽样基线 |
+> | **问责制裁机制** | SNED 绩效奖金、SEP 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、特许学校重组与教师 VAM 考核 |
 > | **两党政治生态** | 中左翼与右翼均支持强化国家规制以维护市场系统 | 保守党奠基、工党细化、联合政府强化表现主义 | 跨党派支持 NCLB，后续面临奥巴马增值考核争议 |
 
 #### 2. 北欧等国将评估用于兜底质量监测，并主动叫停容易引发恶性竞争的公开排名
 
 在丹麦、挪威与瑞典等北欧大陆国家，治理工具的采纳源于地方分权所诱发的国家治理失控焦虑，但这些国家极力避免将评估演化为优胜劣汰的市场工具。（pp. 254–255）
 
-> [!case] 新韦伯主义国家案例：挪威与丹麦的排名回撤与透明度绕道
-> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验信度争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
+> [!case] 新韦伯主义国家案例：挪威与丹麦的排名叫停
+> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
 > - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》，2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
-> - **透明度绕道机制（Transparency Bypass）** 尽管国家官方停止排位，但在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法索取学校原始测验数据并自行计算排位表予以发布，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。（p. 258）
-> - **加拿大不列颠哥伦比亚省的智库中介** 尽管省教育部恪守温和评估立场，倡导新自由主义议程的智库弗雷泽研究所（Fraser Institute）系统性调取数据，独立编制全省学校表现报告卡并通过商业媒体公开发布，在体制外达成了事实上的市场问责效果。（p. 258）
+
+虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
+
+> [!exegesis]- 透明度绕道机制（Transparency Bypass）
+> - **数据外溢与非官方排位** 在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法调取公立学校的原始测验数据，并自行测算、发布非官方学校排位表，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。（p. 258）
+> - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导新自由主义议程的保守派智库弗雷泽研究所（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。（p. 258）
 
 #### 3. 南欧国家因常任公务员制度与工会强力反弹，测验问责举措遭遇长期抵制与反复摇摆
 
@@ -210,10 +267,12 @@ issuing_organization: ""
 > - **西班牙马德里大区的激进新自由主义孤岛** 西班牙地方分权架构下，马德里大区主席埃斯佩兰萨·阿吉雷（Esperanza Aguirre, 2003–2012）凭借个人政治意志，强推全区全员统考、公开发布学校排行榜并实施无边界择校，在拿破仑传统内部打造出一条孤立的市场化道路；然而由于高度依赖领导人集权风格且缺乏行政法理共识，2012 年阿吉雷辞职后，同党新政府迅速放弃了成绩排名并调减统考频次，孤岛实验旋即退潮。（pp. 258–259）
 > - **葡萄牙与希腊对民主治理传统的捍卫** 战后推翻独裁政权的历史造就了两国强调教师、家长与学生共同投票决策的学校民主管理传统；管理主义问责改革被教师工会视为对民主共决权与专业尊严的侵犯，并被赋予对抗专制复辟的历史合法性，使绩效问责举措遭遇持续的全行业大罢工。（pp. 255, 260）
 
+拿破仑传统国家所展现的制度粘性，根源于新公共管理规制逻辑与传统科层公务员伦理之间的深层结构张力。（pp. 255, 260）
+
 > [!tension-table] 拿破仑体制下的现代化治理推力与传统科层阻力
 > | 制度维度 | 现代化规制型治理诉求 | 拿破仑传统科层阻力 |
 > |---|---|---|
-> | **文官制度与教师地位** | 引入外部绩效审计打破教室黑箱，确立优胜劣汰问责制。（p. 255） | 教师享有常任公务员身份保障，视外部审计为科层规训与非专业干预。（p. 255） |
+> | **文官制度与教师地位** | 引入外部绩效审计打破教室黑箱，确立优胜劣汰问责制。（p. 255） | 教师享有常任公务员身份保障，视[[External Auditor\|外部审计]]为科层规训与非专业干预。（p. 255） |
 > | **政策推进逻辑** | 依赖特定政治精英打破僵局，强推自上而下的改革法令。（p. 258） | 政策高度碎片化，政党轮替导致前任法令频繁被废止，政策连贯性极差。（p. 255） |
 > | **权力分配格局** | 试图强化校长作为企业型管理者的行政裁决与评价权。（p. 258） | 教师工会拥有强大制度化谈判权，学校民主委员会制衡行政集权。（pp. 255, 260） |
 
@@ -228,11 +287,23 @@ issuing_organization: ""
 
 国家大规模评估体系建立后，极少出现整体废除或逆转，反而展现出自我繁殖的单向扩张特征。（pp. 255–256）
 
-> [!proc] 国家大规模评估的自组织扩张阶梯
-> 1. **从样本抽样走向全员普查** 早期多以低利害、代表性概率抽样的系统监测面貌立足，降低政治阻力；随着对校际可比数据需求的上升，逐步转化为覆盖全体适龄学生的普查性统考。（p. 256）
-> 2. **测评范围纵向渗透** 测评节点不断向前延伸，从初中、小学高年级逐步下沉至小学低段甚至幼儿期（如英格兰引入语音拼读筛查与早期基础阶段档案）。（p. 256）
-> 3. **横向学科与认知指标扩充** 为平息课程窄化批评，测评从基础读写算扩展到科学、历史等跨学科领域，并引入高阶思维试题。（p. 256）
-> 4. **技术指标复杂化与专门机构专设** 传统原始分被增值模型（VAM）、排位索引与综合质量矩阵取代，依托国家评估专门机构（如意大利国家教育培训评估院 INVALSI、德国各州质量监测中心）获得自我维系的行政合法性。（pp. 256–257）
+> [!phase] 国家大规模评估的单向扩张阶梯
+>
+> - **从样本抽样走向全员普查**
+>
+>   早期多以低利害、代表性[[Random Sampling|概率抽样]]的系统监测面貌立足，降低政治阻力；随着对校际可比数据需求的上升，逐步转化为覆盖全体适龄学生的普查性统考。（p. 256）
+>
+> - **测评范围纵向渗透**
+>
+>   测评节点不断向前延伸，从初中、小学高年级逐步下沉至小学低段甚至幼儿期（如英格兰引入语音拼读筛查与早期基础阶段档案）。（p. 256）
+>
+> - **横向学科与认知指标扩充**
+>
+>   为平息课程窄化批评，测评从基础读写算扩展到科学、历史等跨学科领域，并引入[[Higher-Order Thinking Skills|高阶思维]]试题。（p. 256）
+>
+> - **技术指标复杂化与专门机构专设**
+>
+>   传统原始分被增值模型（VAM）、排位索引与综合质量矩阵取代，依托国家评估专门机构（如意大利国家教育培训系统[[Evaluation Research|评估研究]]院〔Istituto Nazionale per la Valutazione del Sistema Educativo di Istruzione e di Formazione, INVALSI〕、德国各州质量监测中心）获得自我维系的行政合法性。（pp. 256–257）
 
 #### 2. 附加在考试上的惩罚力度随政党轮替起伏波动，或由地方政府主动加码
 
@@ -244,7 +315,7 @@ issuing_organization: ""
 > | **新公共管理市场化** | 从单一市场择校演变为行政制裁与市场竞争的双重刚性叠加；问责网底持续收紧。 | 智利在公布统考成绩后追加全校薪酬奖励（SNED），并在弱势补贴中强制挂钩达标要求，违规低分校面临关停。（pp. 257–258） |
 > | **新韦伯主义** | 官方声誉制裁经历周期性回撤；国家层面废除排位表，但地方政府与商业媒体借助信息公开法变相复活民间排名。 | 挪威与丹麦中左翼联盟先后暂停官方学校排行榜，但智库与媒体借助信息公开条例继续独立编制并发布排位表。（p. 258） |
 > | **拿破仑传统** | 停滞、试验与政治轮替高度绑定；经历长达十余年的断续摇摆后，最终在技术官僚内阁下实现局部建制化。 | 意大利自2000年代初多次试水校长评估均遭抵制叫停，直至2015年通过《好学校》（La Buona Scuola）法案方才落定。（p. 258） |
-> | **联邦制次国家升级** | 联邦层面维持温和低利害，地方州/市级政府主动叠加高利害后果。 | 巴西联邦基础教育发展指数（IDEB）仅为参考，但塞阿腊州（Ceará）与圣保罗州自主追加高额教师奖金与资源挂钩。（p. 259） |
+> | **联邦制次国家升级** | 联邦层面维持温和低利害，地方州/市级政府主动叠加高利害后果。 | 巴西基础教育发展指数（Índice de Desenvolvimento da Educação Básica, IDEB）仅为参考，但塞阿腊州（Ceará）与圣保罗州自主追加高额教师奖金与资源挂钩。（p. 259） |
 
 #### 3. 商业测试机构与技术官僚结成利益同盟，阻断了废止问责制度的可能
 
@@ -252,32 +323,38 @@ issuing_organization: ""
 
 > [!chain-link] 测试产业链与治理制度锁定的因果推导链
 > - **前提：测评职能外包** 规制型政府将标准化命题、电子化阅卷、云端数据库运维及教材教辅开发大规模外包给私营商业跨国集团。（p. 259）
-> - **机制：利益同盟固化** 培生（Pearson）、教育考试服务中心（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等机构通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产。（pp. 259–260）
+> - **机制：利益同盟固化** 培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等机构通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产。（pp. 259–260）
 > - **结果：不可逆制度锁定** 即便学术证据持续揭示测试异化、即便面临社会反弹，庞大的食利集团与行政惯性依然确保了评估问责体制的持久维系。（pp. 260, 263–264）
 
 #### 4. 家长罢考与工会反弹虽能逼停公开排名，却无法撼动全员统考的制度根基
 
 问责体系的不断强化引发了教师工会与公民社会的广泛抵抗，但集体行动的制度成效具有明显的结构性限度。（pp. 260–262）
 
-> [!case] 社会抗争案例：美国退考运动与教师工会的差异化策略
-> - **美国退考运动（Opt-Out Movement）与家长联盟** 面对《力争上游》与“共同核心标准”（Common Core）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；FairTest 与 United Opt Out 等草根组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
-> - **智利“停止 SIMCE”运动（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
-> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与“教师卓越评估”（Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国全美教育协会（National Education Association, NEA）与美国教师联合会（American Federation of Teachers, AFT）则陷入 NCLB 的“民权与教育公平”话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
-> - **防火墙效应的局限** 无论是工会大罢工还是家长退考，集体行动往往只能迫使政府取消排位表公布或微调考核指标，根本无法动摇国家大规模评估作为底层数据基础设施的制度存续。（pp. 261–263）
+> [!case] 社会抗争案例：美国退考运动与教师工会的多元策略
+> - **美国退考运动（Opt-Out Movement）与家长联盟** 面对《力争上游》计划与[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；公平与公开考试中心（National Center for Fair & Open Testing, FairTest）与草根反测验联盟（United Opt Out）等组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
+> - **智利停止 SIMCE 运动（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
+> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师卓越评估系统（Sistema de Evaluación del Desempeño Profesional Docente, Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
+
+各国的抗争实践表明，公众抵抗与工会抵制虽然能够阶段性缓解问责压力，却难以动摇规制型治理的[[Data Infrastructure|数据基础设施]]。（pp. 261–263）
+
+> [!implication]- 防火墙效应与评估基础设施的制度韧性
+> 抵抗运动与工会抗争在客观上充当了“防火墙”（firewall），有效吸收或缓冲了针对学校与教师的刚性惩戒后果（如叫停排位表公布、废除惩罚性接管），却反向加固了国家大规模评估本身的合法性。政府往往通过“优化测验技术”、“强调诊断功能”等让步策略平息抗议，使标准化评估作为底层数据基础设施愈发稳固。（pp. 261–263）
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **治理工具的选择与演进具有深度路径依赖** 数据密集型治理改革在落地时深度受到新公共管理市场化、新韦伯主义与拿破仑等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
+> 1. **治理工具的选择与演进具有深度[[Path Dependence|路径依赖]]** 数据密集型治理改革在落地时深度受到[[New Public Management|新公共管理]]市场化、新韦伯主义与拿破仑等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
 > 2. **评估工具与问责后果的非同步演进** 国家评估体系通常先于问责制确立，且具有持续扩张覆盖学段与全员普查的自组织惯性；基于测验的问责后果则经历政治周期的起伏涨落与制度博弈。（pp. 255–258, 263）
 > 3. **新支持群体的生成导致不可逆制度锁定** 评估外包与问责常态化孕育出由商业测试集团、数据分析公司与智库组成的获益联盟，即便学术证据明确质疑测试效用，制度退出依然极其困难。（pp. 259–260, 263–264）
 > 4. **微观集体行动具有防御性局限** 教师工会抵制与公众退考运动能够迫使政府调减局部利害或叫停官方排名，却难以瓦解国家评估作为底层治理装置的制度根基。（pp. 260–262）
 
 > [!stat-cards]- 核心数据
-> - **158** 篇经过同行评议并被严格纳入系统文献综述的索引期刊文献。（p. 252）
-> - **3** 大典型政体行政传统（核心新公共管理国家、新韦伯主义国家、拿破仑国家）。（pp. 252–255）
+> - **158** 篇经过同行评议并被严格纳入系统[[Literature Review|文献综述]]的索引期刊文献。（p. 252）
+> - **3** 种解释工具变迁差异的中观政体行政传统类型。（pp. 252–255）
+> - **> 20%** 纽约州部分学区家长在退考运动中的学生罢考率峰值。（p. 261）
+> - **15** 意大利在多轮政党更迭中推行绩效考核改革经历的拉锯试错年限（年）。（p. 258）
 
 ---
 
@@ -289,23 +366,23 @@ issuing_organization: ""
 > *Instruments at work are not neutral devices: they produce specific effects, independently of the objective pursued … which structure public policy according to their own logic.*
 
 > [!citation-card] 评估工具与问责制的累加演进特征
-> 国家大规模评估与基于测验的问责制通常在不同时间点被采纳，实际上源于不同的辩论或响应不同的诉求。建立国家大规模评估系统通常早于问责措施的采纳……随着时间流逝，经济、科层或声誉后果往往被逐渐追加到评估之上。（Verger et al., 2019, p. 263）
+> [[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]通常在不同时间点被采纳，实际上源于不同的辩论或响应不同的诉求。建立国家大规模评估系统通常早于问责措施的采纳……随着时间流逝，经济、科层或声誉后果往往被逐渐追加到评估之上。（Verger et al., 2019, p. 263）
 >
-> *The implementation of a NLSA system generally precedes the adoption of TBA measures (since some form of census-based assessment is a necessary condition for TBA to happen) and, with the passage of time, economic, bureaucratic or reputational consequences tend to be attached to the assessments.*
+> *The implementation of a NLSA system generally precedes the adoption of TBA measures (since some form of census-based assessment is a [[Necessary and Sufficient Conditions|necessary condition]] for TBA to happen) and, with the passage of time, economic, bureaucratic or reputational consequences tend to be attached to the assessments.*
 
 > [!citation-card] 规制型治理工具的技术诱惑力
 > 这些治理工具的诱惑力在于，它们有助于将复杂、多维的教育现实转化为数字范畴，并制造出一种感知，即深刻的教育问题（如不平等或质量危机）能够通过设定预先定义的行为模式、测度行动者绩效并相应分配激励来予以解决。（Verger et al., 2019, p. 264）
 >
-> *The seductive power of these instruments relies on the fact that they contribute to transform complex and multi-dimensional educational realities into numerical categories, and to construct the perception that deep educational problems (such as inequalities or quality issues) can be addressed by setting up predefined patterns of conduct, measuring actors’ performance, and distributing incentives accordingly.*
+> *The seductive power of these instruments relies on the fact that they contribute to transform complex and multi-dimensional educational realities into numerical categories, and to [[Construct|construct]] the perception that deep educational problems (such as inequalities or quality issues) can be addressed by setting up predefined patterns of conduct, measuring actors’ performance, and distributing incentives accordingly.*
 
 ---
 
 ## 自述局限
 
 > [!warning]
-> 1. 文献检索主要依赖英文索引数据库（Scopus），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。（p. 252）
+> 1. [[Literature Search|文献检索]]主要依赖英文索引数据库（Scopus），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。（p. 252）
 > 2. 既有实证研究多集中于宏观与中观维度的政策工具采纳与制度演变，对学校微观层面上校长与教师如何日常化再诠释、策略性挪用或隐性抵抗治理工具的经验证据相对匮乏。（p. 264）
-> 3. 针对不带刚性惩戒后果的软问责体系（Soft-Accountability Systems）如何在学校生态中产生深层规训效应，实证积累依然不足。（p. 264）
+> 3. 针对不带刚性惩戒后果的软问责体系如何在学校生态中产生深层规训效应，实证积累依然不足。（p. 264）
 
 ---
 
