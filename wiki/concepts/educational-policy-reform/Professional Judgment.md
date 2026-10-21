@@ -296,7 +296,7 @@ updated: 2026-10-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **证据概率性** | 研究证据为开放系统中的概率性资源，需专业判断情境激活 | 教学决策、证据转化 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006) |
-> | **反数字治理与商业规训** | 数字审计与商业监控剥夺价值审议，泰勒制清单侵蚀专业直觉 | 政策评估、学校改进、数字打卡与资助审查 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
+> | **反数字治理与商业规训** | 数字审计与商业监控剥夺价值审议，泰勒制清单侵蚀专业直觉 | 政策评估、学校改进、数字打卡与资助审查 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 > | **EIP 枢纽地位** | 专业判断为多源整合枢纽，研究证据是对专业智慧的补充与支持 | 证据知情实践推进、质量使用框架 | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] |
 > | **支持性生态** | 专业判断依赖反馈循环与跨层组织支持，拒绝孤立直觉 | 教师专业发展、共同体建设 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **宏观政策与审计知识补位** | 在实证供给不足或技术审计产生制度裂隙时，专业判断充当学科逻辑演绎、一线可行性论证与微观斡旋缝合的支柱 | 宏观课程标准研制、大规模教育立法与国家学校督导 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
@@ -315,6 +315,7 @@ updated: 2026-10-21
 > - **2015 — 翻转系统与草根赋权** Evers & Kneyber 编著出版《Flip the System》，倡导由教师专业判断引领变革、抗衡自上而下的外部问责。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 127)]]
 > - **2017 — [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽** [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] 将专业判断确立为 EIP 四源整合的核心枢纽，提出严谨证据与严谨判断并存的原则。
 > - **2018 — [[Critical Realism|批判实在论]]解构与概率性资源** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 在 BERJ 发文，将证据界定为开放系统中的概率性资源，深刻批判[[Governing by Numbers|数字治理]]对专业判断的侵蚀（p. 16）。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
+> - **2019 — 跨国测验问责对教师专业判断的侵蚀与政体折射** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 通过 158 篇文献的系统综述，揭示基于测验的问责工具如何赋权商业测评专家并边缘化一线教师的专业判断，同时指出教师对专业裁量权受损的抵抗受本土行政传统深刻调节（挪威规范抗争与南欧工会抵制）。
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
 > - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
@@ -391,6 +392,7 @@ updated: 2026-10-21
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019, pp. 17–19)]] | 中低收入国家初等教育课堂高推论行为观察认证体系 | 测量学工具研制与评分者培训规程 | 评分综合逻辑（算法加权平均 vs 全局质性专业判断）与考核标准 | 严格禁止机械算术平均，确立质性知情专业判断；观察员必须通过包含 3 段 15 分钟视频的考核，且需达到至少 80%（8/10 行为及要素一致）的准入通过线以控制感知偏差与主观漂移 | 80% 考核合格门槛与双评[[Reliability\|信度]] | 证实专业判断在高推论课堂评定中具有不可替代性，且能够通过标准化规程实现高质量信度控制 |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 648–655)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]常规督导与质量审计闭门研讨现场 | 制度个案追踪、半结构化访谈（N=16）与文本分析 | 督导官员与研究者的具身与践行专业判断在规程落地中的作用 | 面对指标起草瘫痪与硬真理幻想，资深督导员注入默会经验，学者据理力争捍卫教师境遇，以未被制度承认的专业判断缝合审计裂隙 | — | 证实专业判断在科层循证治理中具有不可或缺的微观协调与纠偏功能 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251, 262)]] | 全球 158 篇教育治理改革文献（重点追踪北欧与南欧） | [[Systematic Review\|系统综述]]与比较政策分析 | 国家测验问责工具对教师专业判断与自主权的影响 | 证实测评工具赋权商业官僚同盟并边缘化教师专业判断；挪威与南欧教师工会因专业自主受损发起规范与制度性抵制 | 质性综述分析 | 揭示国家治理工具对微观专业判断的侵蚀以及本土行政体制的折射调节 |
 
 ---
 
@@ -446,3 +448,4 @@ updated: 2026-10-21
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制 Teach [[Classroom Observation|课堂观察]]工具，确立高推论教学质量评定中“以全局质性专业判断替代机械算术平均”的测量学规程，并构建基于视频考核的观察员认证与偏误防御体系。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家学校督导为个案，揭示一线督导员与受邀学者如何通过行使未被官方正式承认的具身与践行专业判断，缝合科层技术审计与学校微观实态之间的制度裂隙（pp. 648–655）。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，揭示国家大规模评估与测验问责如何通过赋权测评官僚边缘化教师专业判断，并考察不同行政传统下教师维护专业自主权的抵制轨迹。

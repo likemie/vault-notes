@@ -64,7 +64,7 @@ updated: 2026-10-21
 > - **边界** 严格区别于增加外部新规则的[[Institutional Layering|制度层叠]]，也区别于因环境变迁与行动者疏忽导致的[[Institutional Drift|制度漂移]]。
 
 > [!citation-card] 制度转换的机制界定
-> 制度转换发生在规则形式保持不变、但通过策略性重新部署而在解释与执行上展现出新面貌之时。这种规则与其实际落实之间的缝隙并非源于面对变迁环境时的疏忽（如制度漂移那样）；相反，该缝隙是由行动者积极利用制度固有的模糊性所制造的。通过重新部署，他们将制度引向新的目标、职能与用途。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
+> 制度转换发生在规则形式保持不变、但通过策略性重新部署而在解释与执行上展现出新面貌之时。这种规则与其实际落实之间的缝隙不同于面对变迁环境时的疏忽（如制度漂移那样）；该缝隙是由行动者积极利用制度固有的模糊性所制造的。通过重新部署，他们将制度引向新的目标、职能与用途。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 >
 > *Conversion occurs when rules remain formally the same but are interpreted and enacted in new ways. This gap between the rules and their instantiation is not driven by neglect in the face of a changed setting (as is true with drift); instead, the gap is produced by actors who actively exploit the inherent ambiguities of the institutions. Through redeployment, they convert the institution to new goals, functions, or purposes.*
 
@@ -92,7 +92,7 @@ updated: 2026-10-21
 > [!feature] 制度转换的核心特征与构成维度
 > - **正式规则文本的完全沿用（Textual Rule Continuity）** 宪法条款、法定规章或组织章程在字面上保持原样，未经任何正式修法或立宪废立程序。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 > - **策略性重新部署与目的重定向（Strategic Redeployment）** 行动者主动挖掘既有条文的潜在弹性，将其引向最初立法者未曾设想、甚至截然相反的新政策目标或受益群体。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 18)]]
-> - **司法解释与官僚执行重构（Judicial and Bureaucratic Reinterpretation）** 转换的主要推进杠杆是日常司法判例的扩张与监管官僚对自由裁量权的积极行使，以执行端质变替代立法端修法。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14, 21)]]
+> - **司法解释与官僚执行重构（Judicial and Bureaucratic Reinterpretation）** 转换的主要推进渠道是日常司法判例的扩张与监管官僚对自由裁量权的积极行使，以执行端质变替代立法端修法。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14, 21)]]
 
 > [!factors] 制度转换的生成条件与因果要素
 > - **弱政治[[Veto Possibilities|否决可能性]]（Weak Veto Possibilities）** 守旧阵营缺乏强有力的否决机制阻止新联盟对法律规则的创新性解释，或者司法与行政裁量链条脱离了立法否决控制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
@@ -131,7 +131,7 @@ updated: 2026-10-21
 > 批判将制度文本视为明晰无歧义中立契约的传统假定，揭示多方妥协立法如何为后续制度转换留下后门。
 
 > [!claim] Mahoney, J. & Thelen, K.
-> **内生模糊性与转用温床** 成文规则不可避免地带有内生模糊性；法律正式化不仅不能消除歧义，反而往往是将冲突各方的妥协模糊表述固定下来；正是这一未闭合的解释缝隙，使得后继行动者能够策略性调用既有法条对抗其最初设计初衷。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 11–14)]]
+> **内生模糊性与转用温床** 成文规则不可避免地带有内生模糊性；法律正式化不仅难以消除歧义，而且往往将冲突各方的妥协模糊表述固定下来；正是这一持续存在的解释缝隙，使得后继行动者能够策略性调用既有法条对抗其最初设计初衷。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 11–14)]]
 
 ---
 
@@ -161,6 +161,7 @@ updated: 2026-10-21
 > [!dev-timeline|notitle] 概念演变
 > - **2004年–2005年 — [[Wolfgang Streeck|施特雷克]]与希伦界定转换机制** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因[[Rule Ambiguity|规则模糊性]]、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦建构类型学与[[Opportunists|机会主义者]]角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
+> - **2019年 — 政策工具理论与教育治理中的制度转换** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 结合政策工具社会学，系统分析教育评估工具如何经历制度转换，在原有测评法条未改前提下被转用于市场择校与特许改制惩戒（pp. 251, 253）。
 
 ---
 
@@ -170,8 +171,9 @@ updated: 2026-10-21
 > - **德国企业理事会由工人抗争机构向工厂本土[[Competitiveness|竞争力]]伙伴的转换（企业治理转换典范）** 战后德国《企业宪政法》赋予企业理事会的共同决定权原本用于制衡雇主专权；但在全球化竞争压力下，企业理事会与管理层结成跨阶级同盟，共同签署“工厂本土保障协议”（Standortsicherungsvereinbarungen），通过自愿延长工时或削减浮动工资换取资方不裁员与继续投资承诺，使得这一传统劳工保护机构成功转换为协助企业推行微观成本重组的竞争力工具。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 27–28)]]
 > - **美国宪法州际贸易条款的跨时代司法重塑（宪法功能转换典范）** 美国宪法第 1 条第 8 款跨州贸易条款（Commerce Clause）文本两百年未改，但在新政时期被联邦最高法院重新部署为保障劳工集体谈判与建立最低工资的法理支柱；在 1960 年代民权运动中，进一步被转用为禁止私人旅馆和餐馆实行种族隔离的宪法利器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 21)]]
 > - **美国 1964 年《民权法》第七章平等就业机会委员会扩权（弱法转用典范）** 罗伯特·利伯曼（Lieberman）考证表明，设立平等就业机会委员会（EEOC）的法定权力最初在国会被保守派妥协阉割，但民权官僚与法官策略性通过个案判例层层拓展法条解释，将原本缺乏强制力的协调机构转用为实施肯定性行动计划的最强规制机器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]
-> - **19 世纪末德国手工业公会[[Apprenticeship|学徒培训]]制度的工业化转用（技能体系转换典范）** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中未被废除，而是被新兴机械与高端制造业资本家策略性转用，改造为现代[[German Dual Education System|德国双元制职业教育]]培训体系的基石。
+> - **19 世纪末德国手工业公会[[Apprenticeship|学徒培训]]制度的工业化转用（技能体系转换典范）** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中得以完整保留，并被新兴机械与高端制造业资本家策略性转用，改造为现代[[German Dual Education System|德国双元制职业教育]]培训体系的基石。
 > - **法国 1981 年《奥鲁改革法》的资方反向转用（劳资博弈转换典范）** 密特朗左翼政府为强化工会车间地位颁布法律，但资方利用法律对员工表达权规定的模糊缝隙，成立直接向管理层汇报的内部车间委员会，反向架空了激进工会的垄断谈判权。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 27)]]
+> - **教育质量监测工具向市场问责与改制惩戒的功能转换（教育治理工具转换典范）** 安东尼·维格等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 251, 253]]）考证表明，国家大规模评估（NLSA）最初在立法和行政规章中多以中立的“教学诊断”、“学情监测”与“校本支持”为法定宗旨；但在新公共管理改革推进中，在未修改测评成文规章的前提下，政策制定者策略性重新部署该工具，将其转用于家长择校排位、绩效工资挂钩与学校关停接管等强问责目标。在美国《不让一个孩子掉队》法案（NCLB）实践中，学业不达标学校的测验规程甚至被转用于撬动公立学校改制为特许学校（Charter Schools），展现了政策工具在成文规则未改之下的深层制度转换。
 
 ---
 
@@ -190,9 +192,21 @@ updated: 2026-10-21
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 制度转换机制的实证文献分析
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 核心机制与测量指标 | 关键实证发现与表现 | 解释边界 |
+> |---|---|---|---|---|---|
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251, 253)]] | 全球 158 篇教育治理改革文献（重点追踪美国、智利与英国等） | [[Systematic Review\|系统文献综述]]与历时性政策分析 | 政策工具演进中的制度转换（Conversion）机制 | 证实评估工具在成文法律未变前提下发生功能转用，从最初的诊断支持转化为以特许改制、生源流失与行政惩戒为导向的强问责机制 | 质性系统综述与历史制度主义综合分析 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合历史制度主义与政策工具社会学，揭示国家大规模评估工具如何经历制度转换，由最初的教学诊断支持转变为市场化生源竞争与学校改制惩戒的治理机制。
 
