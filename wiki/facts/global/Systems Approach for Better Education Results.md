@@ -119,7 +119,7 @@ updated: 2026-10-22
 > - **产出与制度转化指标** 评分结果直接转化为[[World Bank\|世界银行]]政策贷款的前置触发条件（Prior Actions），重塑受援国教师评价与学校治理立法。
 
 > [!finding-cards] 核心实证结论
-> - **主要效应（自指性循环运作）** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）利用[[World Education Reform Database\|世界教育改革数据库]]（WERD）证实，世界银行的政策报告在推介建议时呈现高度的自指性，极少汲取非世行体系的跨国经验，而是反复循环引用自身在 SABER 中归档的最佳实践方案。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **主要效应（自指性循环运作）** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）利用[[World Education Reform Database\|世界教育改革数据库]]（WERD）证实，世界银行的政策报告在推介建议时呈现高度的自指性，极少汲取非世行体系的跨国经验，并反复循环引用自身在 SABER 中归档的最佳实践方案。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **认知治理与全球对标效应** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，SABER 设立从“潜伏级”至“领先级”的四级成熟度量规，成为人类历史上首个意图跨越发展水平全面对标主权国家教育体系的多元基准工具，其在 2014 年一年内即在百余国开展逾 200 次诊断，将外部实证研究转译为刚性评级指标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 > - **[[Heterogeneity\|异质性]]效应（对本土[[Knowledge Production\|知识生产]]的边缘化）** 施泰纳-哈姆西等指出，SABER 等集权式全球指标数据库的确立，直接导致旨在赋权全球南方本土学者的[[Global Development Network\|全球发展网络]]（GDN）被架空，发展中国家专家沦为为华盛顿总部填报数据的“翻译员与信息员”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **边界条件** 评分基于中央层面的法定文本与行政法令，难以准确测量地方官僚执行中的脱耦（[[Cognitive Decoupling|decoupling]]）与非正式协商实践。
@@ -128,7 +128,7 @@ updated: 2026-10-22
 > - **13** （个） 标准化教育政策评估领域。
 > - **4** （级） 政策成熟度评价量规（潜伏级、起步级、确立级、领先级）。
 > - **200+** （次） 截至 2014 年在 100 多个国家开展的政策诊断应用总次数，发布 55 份专题国别报告。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
-> - **100+** 覆盖的主权国家数量，沉淀数十万条法定规章诊断数据条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> - **100+** 覆盖的主权国家数量，归档数十万条法定规章诊断数据条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-22
 > > 批判学者与[[World Bank\|世界银行]]技术官僚围绕是否存在普适性教育政策模板展开激烈争论。
 > >
 > > - **批判比较学者** 指责 SABER 奉行单一的新自由主义治理哲学，将[[New Public Management\|新公共管理]]（如绩效挂钩、私营资本介入、学校竞争）设定为“领先级”标准，强行抹杀发展中国家在地多元的教育生态。
-> > - **世界银行专家** 坚称 SABER 量规提取自全球高质量因果实证研究（尤其是[[Randomised Controlled Trials\|随机对照试验]]），旨在帮助资源匮乏的国家跨越试错成本，实现高效率制度跃升。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
+> > - **世界银行专家** 坚称 SABER 量规提取自全球高质量因果实证研究（尤其是[[Randomised Controlled Trials\|随机对照试验]]），旨在帮助资源匮乏的国家跨越试错成本，实现高效率制度升级。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 总部集权设计与去情境化的最佳实践仓库容易导致受援国“为了评级而修改法律条文”，产生严重的政策宣称与课堂落地脱节。
