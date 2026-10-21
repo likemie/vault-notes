@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性学术构念，指 PISA 官方推广者将东亚高分体系中学生在学业挫折时倾向于“自我谴责”的特质美化为教育卓越的秘密，揭示自我谴责实为威权体制规训绝对服从、压制批判反思并推卸政府促进社会公平责任的社会控制工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#dbeafe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
@@ -19,17 +19,14 @@ tags:
 related_concepts:
   - "[[Critique of PISA]]"
   - "[[PISA Score Negative Correlation]]"
-  - "[[PISA Distorted View of Education]]"
-  - "[[Positional Good]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Yong Zhao]]"
   - "[[Andreas Schleicher]]"
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high

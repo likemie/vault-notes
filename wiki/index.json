@@ -5697,7 +5697,7 @@
     "path": "wiki/concepts/educational-policy-reform/PISA Distorted View of Education.md",
     "aliases": [
       "PISA 扭曲的教育观",
-      "PISA distorted view",
+      "扭曲的教育观",
       "PISA 经济化教育"
     ]
   },
@@ -5707,6 +5707,7 @@
     "path": "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md",
     "aliases": [
       "PISA 美化威权教育",
+      "美化威权教育",
       "PISA 威权教育美化"
     ]
   },
@@ -5715,7 +5716,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/PISA Made-up Claim.md",
     "aliases": [
-      "PISA 捏造的主张"
+      "PISA 捏造的主张",
+      "捏造的主张",
+      "PISA 虚假主张"
     ]
   },
   {
@@ -5724,7 +5727,7 @@
     "path": "wiki/concepts/educational-policy-reform/PISA Monolithic View of Education.md",
     "aliases": [
       "PISA 单一教育观",
-      "PISA monolithic view",
+      "单一教育观",
       "PISA 西方中心主义"
     ]
   },
@@ -5734,7 +5737,9 @@
     "path": "wiki/concepts/educational-policy-reform/PISA Score Negative Correlation.md",
     "aliases": [
       "PISA 分数负相关",
-      "PISA 高分低能"
+      "分数负相关",
+      "PISA 高分低趣",
+      "PISA 幸福感悖论"
     ]
   },
   {

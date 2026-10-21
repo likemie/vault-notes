@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性构念，指 PISA 宣称能够测量 15 岁学生面向未来生活与现代社会所需的基本素养，但这一主张缺乏前瞻实证支持，其测验构念与传统认知能力高度重合，且宏观经济增长预测模型存在逻辑断裂。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#dbeafe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
@@ -18,21 +18,16 @@ tags:
   - assessment
 related_concepts:
   - "[[Critique of PISA]]"
-  - "[[Evaluation Research]]"
-  - "[[Construct]]"
-  - "[[Construct Validity]]"
   - "[[PISA Monolithic View of Education]]"
   - "[[PISA Distorted View of Education]]"
-  - "[[Space of Equivalence]]"
-related_theories:
-  - "[[Human Capital Theory]]"
+related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
+  - "[[OECD]]"
   - "[[PISA]]"
-  - "[[IEA]]"
   - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"

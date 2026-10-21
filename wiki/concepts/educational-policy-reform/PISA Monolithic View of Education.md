@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学者赵勇与斯约伯格等针对经合组织 PISA 提出的批判性学术构念，指 PISA 预设存在一套独立于各民族国家历史传统、社会结构与发展情境的普适教育质量评价标准，将少数 OECD 发达市场经济体的现实偏好强加于全球近 200 个多样性社会。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#dbeafe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
@@ -20,17 +20,13 @@ related_concepts:
   - "[[Critique of PISA]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Distorted View of Education]]"
-  - "[[Space of Equivalence]]"
-  - "[[Commensuration]]"
-  - "[[Heterogeneity]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high

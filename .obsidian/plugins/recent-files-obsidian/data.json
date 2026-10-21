@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
       "basename": "Argument_Niemann_Martens_2018_GSP",
       "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "OECD",
       "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
     },
     {
       "basename": "Critique of PISA",

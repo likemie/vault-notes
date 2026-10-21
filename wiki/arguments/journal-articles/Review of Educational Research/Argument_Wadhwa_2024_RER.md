@@ -213,7 +213,7 @@ updated: 2026-10-20
 > | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | 美国物质滥用和精神健康服务管理局国家循证项目与[[Praxis\|实践]]登记库（National Registry of Evidence-based Programs and Practices, NREPP SAMHSA）; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; 培育儿童成功终身干预（Lifecourse Interventions to Nurture Kids Successfully, LINKS） |
 > | **不进行自身独立评级**<br>仅转载、链接或采纳其他清算中心评级 | 5 | 美国少年司法和预防犯罪办公室示范项目指南（Office of Juvenile Justice and Delinquency Prevention Model Programs Guide, OJJDP）; What Works in Reentry Clearinghouse; Youth.gov; Best Practices Registry for Suicide Prevention; [[Campbell Collaboration]] |
 
-> [!dual-header] Table 2：12 个教育清算中心的制度异质性特征与当前运营状态（可横向拖拽浏览）
+> [!dual-header] 12 个教育清算中心的制度异质性特征与当前运营状态
 > | 清算中心名称与缩写 (CH) | 主要领域与学科焦点 | 目标人群定位 | 资助性质与归属机构 | 评估对象级别 | 当前运营状态 | 官方网址与最新动态说明 |
 > |:---|:---|:---|:---|:---|:---:|:---|
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加利福尼亚儿童福利循证清算中心]]**<br>*(California Evidence-Based Clearinghouse for Child Welfare, CEBC)* | **多领域跨界**<br>儿童福利 · 基础教育 · 行为发展 · 身心健康 · 经济福利 | 儿童与家庭 | **公共部门 (Public)**<br>加州社会服务部 (CDSS) | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [cebc4cw.org](https://www.cebc4cw.org)<br>持续活跃维护，提供儿童福利与教育干预评级数据库。 |

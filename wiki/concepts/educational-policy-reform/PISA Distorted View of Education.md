@@ -7,31 +7,29 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性学术构念，指 PISA 将经济增长与劳动力市场竞争力作为教育的唯一目的，只评估与经济直接相关的科目，系统性排挤人文、艺术、公民身份、同理心与身心健康等更广泛的教育全人目的。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 10
 related_level: 1
 related_stars: "⭐"
-related_color: "#dbeafe"
+related_color: "#bfdbfe"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
   - critique/pisa
   - paradigm/neoliberalism
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Critique of PISA]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
-  - "[[PISA Score Negative Correlation]]"
-  - "[[Competitiveness]]"
   - "[[Positional Good]]"
-  - "[[Public Value]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high

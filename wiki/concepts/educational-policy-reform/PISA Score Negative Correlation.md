@@ -8,10 +8,10 @@ aliases:
 summary: "跨国实证教育研究中发现的重要反常模式，指 PISA 跨国测评中成绩位居前列的国家和地区，其学生在学科内在兴趣、未来从事相关职业的志向、创业信心与自我效能感，以及主观生活幸福感与心理健康上反而呈现出显著的负相关或普遍低迷状态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#dbeafe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
@@ -20,21 +20,14 @@ tags:
   - student-wellbeing
 related_concepts:
   - "[[Critique of PISA]]"
-  - "[[PISA Distorted View of Education]]"
   - "[[PISA Glorifying Authoritarian Education]]"
-  - "[[PISA Scientific Literacy]]"
-  - "[[Academic Achievement]]"
-  - "[[Positional Good]]"
-related_theories:
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Questionnaire]]"
+related_theories: []
+related_methods: []
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high
