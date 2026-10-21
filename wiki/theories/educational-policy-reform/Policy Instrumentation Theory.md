@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Instrumentation Theory
@@ -110,7 +110,7 @@ updated: 2026-10-21
 > | **政策工具化（Policy Instrumentation）** | 核心概念 | 指涉政府为实现公共政策目标而选择、建构并操作化特定工具（技术、程序、装备）的全过程。(Lascoumes & Le Galès, 2007, p. 4) |
 > | **治理装置（Dispositif）** | 分析构件 | 指涉异质性要素（法律条文、统计指标、行政规程、道德说服）构成的制度网络，赋予工具以组织性与规范性约束力。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 249)]] |
 > | **制度分层化（[[Institutional Layering\|Policy Layering]]）** | 动力机制 | 新政策工具在保留旧制度的前提下逐层叠加入既有治理架构，促成制度结构的复合累积与功能异化。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 251)]] |
-> | **政策转换（Policy [[Institutional Conversion\|Conversion]]）** | 动力机制 | 既有工具的外在形式保持不变，但在外部环境变迁或行动者策略性调适下被赋予全新治理功能与目标。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 251)]] |
+> | **[[Institutional Conversion\|政策转换]]（Policy Conversion）** | 动力机制 | 既有工具的外在形式保持不变，但在外部环境变迁或行动者策略性调适下被赋予全新治理功能与目标。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 251)]] |
 > | **新支持群体（Pro-[[Instrument Constituencies]]）** | 主体构件 | 伴随工具运营与维护而衍生出的专门经济或政治利益群体，因享有制度化租金而致力于推动工具扩张与制度锁定。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 252)]] |
 > | **政体行政传统（Politico-Administrative Regimes）** | 调节构件 | 各国历史上积淀形成的行政官僚文化与制度结构，中介并过滤全球流动的通用治理工具。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 250)]] |
 

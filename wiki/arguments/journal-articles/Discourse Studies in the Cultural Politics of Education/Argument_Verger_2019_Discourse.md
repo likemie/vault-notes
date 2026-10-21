@@ -27,6 +27,8 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[New Public Management]]"
   - "[[Institutional Layering]]"
+  - "[[Institutional Conversion]]"
+  - "[[Institutional Drift]]"
   - "[[Champ]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
@@ -104,7 +106,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -139,7 +141,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Policy Instrumentation Theory\|政策工具化理论]]**<br>Lascoumes and Le Galès (2007) | 阐明政策工具兼具技术性、社会性与政治性，拒绝中立工具观，揭示工具如何作为治理装置自主结构化公共政策并生产特定权力关系。（pp. 250–251） |
-> | **[[Historical Institutionalism\|历史制度主义]]渐进变迁理论**<br>(Mahoney, 2000; Thelen, 2004) | 提供[[Institutional Layering\|制度分层化]]（Layering）、政策转换（Conversion）与政策漂移（Drift）等分析范畴，解释治理工具如何在旧制度框架上逐层累积叠加并产生意外后果。（pp. 251–252） |
+> | **[[Historical Institutionalism\|历史制度主义]]渐进变迁理论**<br>(Mahoney, 2000; Thelen, 2004) | 提供[[Institutional Layering\|制度分层化]]（Layering）、[[Institutional Conversion\|政策转换]]（Conversion）与[[Institutional Drift\|政策漂移]]（Drift）等分析范畴，解释治理工具如何在旧制度框架上逐层累积叠加并产生意外后果。（pp. 251–252） |
 > | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、[[Neo-Weberian State\|新韦伯主义]]（Neo-Weberian）与[[Napoleonic Administrative Tradition\|拿破仑传统]]（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
 
 > [!dimension] 政策工具的三重分析维度

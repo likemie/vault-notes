@@ -4,6 +4,7 @@ aliases:
   - 制度转换
   - 制度转用
   - 政策转换
+  - Policy Conversion
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但行动者策略性利用规则固有的模糊性与解释缝隙，对其进行重新部署、转用与创新性解释，使其服务于制度设计者未曾预见或甚至相反的全新目标、职能与政治联盟的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
