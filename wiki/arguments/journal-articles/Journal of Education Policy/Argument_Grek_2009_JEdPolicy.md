@@ -9,7 +9,7 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -64,6 +64,9 @@ related_methods:
   - "[[Expert Interview]]"
   - "[[In-depth Interview]]"
   - "[[Documentary Analysis]]"
+  - "[[Matrix Sampling]]"
+  - "[[Plausible Values]]"
+  - "[[Differential Item Functioning]]"
 related_instruments: []
 related_persons:
   - "[[Niklas Luhmann]]"
@@ -198,7 +201,7 @@ status: draft
 > [!feature] 经合组织技术权威与知识品牌的构建要素
 > - **科学决策的[[Objectivism|客观主义]]品牌** [[Kerstin Martens|克里斯汀·马滕斯]]（Kerstin Martens）指出，比较转向作为政治决策的[[Scientific Method|科学方法]]，使经合组织的报告获得了无可置疑的品牌声誉，其政策建议受到学界与政界广泛认可（Martens, 2007, p. 42; Porter & Webb, 2004, p. 7）。
 > - **全球教育政策场的构建** 经合组织不仅为成员国提供服务，更通过指标将非成员国纳入统一网络；[[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）指出，比较已转变为一种治理政策，以看似自然的形式在异质的国别情境中推动趋同的政策解法（Nóvoa, 2002, p. 144）。
-> - **去情境化数据的可通约性** 统计指标有意滤除了本土历史、文化与政治传统，在技术层面制造出均质化的比较界面，为全球政策制定者提供关于优良或不良教育系统的通用裁决。（pp. 26–27）
+> - **度量通约的技术机器** 依托[[Matrix Sampling|矩阵抽样]]与[[Plausible Values|似真值]]多重插补算法，经合组织在控制答题负荷的同时推断群体宏观学力分布；结合[[Differential Item Functioning|题目功能差异]]检验过滤文化与语言特异性偏差，在技术层面制造出均质化的跨国比较界面，为全球政策制定者提供关于优良或不良教育系统的通用裁决。（pp. 26–27）
 
 > [!voice] 英格兰官员论非成员国追逐国际基准的赶超心理
 > 非成员国之所以积极加入 PISA，是因为它们期望将自身置于领先成员国的经济坐标系中进行对照，以此丈量赶超距离；它们参与 PISA 是为了同具有世界引领地位的发达经济体同台比较。（p. 26）

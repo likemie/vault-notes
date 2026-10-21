@@ -54,6 +54,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[PISA]]"
   - "[[Teaching and Learning International Survey]]"
+  - "[[PISA for Schools]]"
   - "[[PISA Shock in Japan]]"
   - "[[Gaokao]]"
 related_arguments: []
@@ -62,14 +63,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Huang_2020_APJE"
 argument_key: "Argument_Huang_2020_APJE"
 argument_display_title: "The impact of the OECD on education worldwide"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -197,11 +198,11 @@ issuing_organization: ""
 > - **教师群体（[[Professional Capital|专业资本]]转化）**
 >   政策扩散话语打破了早期单纯计算劳动力技能产出的[[Human Capital Theory|人力资本]]狭隘视角，转而将自主权、科层管理与协同网络整合进[[Professional Capital|专业资本]]框架，以此重塑全球教师专业化概念。（p. 423）
 > - **基层学校（跨层级穿透）**
->   学校版[[PISA|国际学生评估项目]]绕开中央与地方教育行政部门的政治调节，直接向单所学校提供定制化基准诊断，使单所学校被动深陷去脉络化的全球横向竞争。（p. 423）
+>   [[PISA for Schools|学校版国际学生评估项目]]绕开中央与地方教育行政部门的政治调节，直接向单所学校提供定制化基准诊断，使单所学校被动深陷去脉络化的全球横向竞争。（p. 423）
 
 #### 2. 校际直接测评造成教育实体的去情境化
 
-最深层的认知控制体现为学校版国际学生评估项目（PISA for Schools）的推广。该项目直接向单个学校出具测评报告和跨国对照排位，削弱了主权政府的政策缓冲作用。（p. 423）
+最深层的认知控制体现为[[PISA for Schools|学校版国际学生评估项目]]（[[PISA]] for Schools）的推广。该项目直接向单个学校出具测评报告和跨国对照排位，削弱了主权政府的政策缓冲作用。（p. 423）
 
 > [!proc] [[Epistemology|认识论]]治理在基层学校的渗透路径
 > 1. **消解层级过滤** 直接向学校与一线教师出具对标报告，削弱国家或地方教育行政体系在政策传导中的中介、调节与缓冲职能。（p. 423）
@@ -264,7 +265,7 @@ issuing_organization: ""
 > *The authors analyse the nature and foundations of teaching orientations transmitted by the OECD through its discourse and found that there is a problematic and paradoxical pedagogical position in the OECD. The teaching orientations are not founded on the [[Evidence-Based Policy-Making|Evidence-Based Policy]] which it uses as the main tool for decision-making, rather, it is the “socio-constructivist” practices that is valued.* (p. 422)
 
 > [!citation-card] 学校版评估对教育实体的去脉络化塑造
-> 通过空间关系，量化和比较绩效数据将文化各异且地理相隔的学校系统与单所学校置于同一个[[Commensuration|通约]]的教育[[Champ|场域]]之中，经合组织在此成功推行了校级改革并实践了其对教育的[[Epistemology|认识论]]治理。然而，著者指出，学校版[[PISA|国际学生评估项目]]（PISA for Schools）的横向比较也将单所学校定位为一种去情境化、无文化与无历史属性的独立实体，从而导致对复杂现实的过度简化。
+> 通过空间关系，量化和比较绩效数据将文化各异且地理相隔的学校系统与单所学校置于同一个[[Commensuration|通约]]的教育[[Champ|场域]]之中，经合组织在此成功推行了校级改革并实践了其对教育的[[Epistemology|认识论]]治理。然而，著者指出，学校版[[PISA|国际学生评估项目]]（[[PISA for Schools]]）的横向比较也将单所学校定位为一种去情境化、无文化与无历史属性的独立实体，从而导致对复杂现实的过度简化。
 >
 > *Through spatial relations, the quantitative and comparative performance data situate culturally different and geographically distant schooling systems and schools within a commensurate education field, where the OECD successfully effects school-level reforms and practices its epistemological governance of education. However, the author argues that the comparisons in PISA for Schools also lead to oversimplification of complex situations by positioning a school as a decontextualized, acultural and ahistorical entity.* (p. 423)
 

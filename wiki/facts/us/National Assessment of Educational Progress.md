@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods:
   - "[[Random Sampling]]"
   - "[[Stratified Sampling]]"
+  - "[[Matrix Sampling]]"
   - "[[Item Response Theory]]"
 related_instruments: []
 related_persons: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # National Assessment of Educational Progress
@@ -75,7 +76,7 @@ updated: 2026-10-20
 ## 方案设计与运行机制
 
 > [!claim] 核心测评机制
-> NAEP 不向任何具体学生、教师或学校出具个人成绩单，亦不与奖惩高利害问责挂钩；它纯粹采用分层[[Random Sampling|随机抽样]]设计（[[Stratified Sampling|stratified random sampling]]）与矩阵抽样（Matrix sampling）技术，在大规模群体层面上精准估计全美及各州的学业分布与认知梯度，从而杜绝一线学校应试刷题或篡改分数的作弊动机。
+> NAEP 不向任何具体学生、教师或学校出具个人成绩单，亦不与奖惩高利害问责挂钩；它纯粹采用分层[[Random Sampling|随机抽样]]设计（[[Stratified Sampling|stratified random sampling]]）与[[Matrix Sampling|矩阵抽样]]（Matrix sampling）技术，在大规模群体层面上精准估计全美及各州的学业分布与认知梯度，从而杜绝一线学校应试刷题或篡改分数的作弊动机。
 
 > [!policy-design] 方案设计
 > - **三大熟练度成就水准（Achievement Levels）** 确立了广为人知的三级评定标准：基础级（Basic，展现对先决知识的部分掌握）、熟练级（Proficient，展现对复杂学科内容的扎实学术胜任力）以及高级（Advanced，展现卓越的[[Higher-Order Thinking Skills|高阶思维]]与[[Problem Solving|问题解决能力]]）。

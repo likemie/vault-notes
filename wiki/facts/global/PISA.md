@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 128
-fact_related_level: 12
-fact_related_stars: "💎💎💎💎"
+fact_related_count: 132
+fact_related_level: 13
+fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
 tags:
   - region/global
@@ -90,6 +90,9 @@ related_methods:
   - "[[Back Translation]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
+  - "[[Matrix Sampling]]"
+  - "[[Plausible Values]]"
+  - "[[Differential Item Functioning]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -109,6 +112,7 @@ related_facts:
   - "[[EU]]"
   - "[[IEA]]"
   - "[[Comparative Education Society in Europe]]"
+  - "[[PISA for Schools]]"
   - "[[PISA for Development]]"
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -200,7 +204,7 @@ updated: 2026-10-21
 >   - **2022（[[Creativity|创造性思维]]）** 评估学生产生多样化构想、产生原创性构想以及评估与改进构想的高阶认知能力。
 >   - **2025（数字世界中的学习，LDW）** 评估学生在开放数字界面中自主计算探索、甄别虚假信息生态与批判性审视算法不确定性的综合胜任力。
 > - **全球产品线全景扩张**
->   - **PISA for Schools** 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。
+>   - **[[PISA for Schools]]** 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。
 >   - **[[PISA for Development]] (PISA-D)** 针对中低收入发展中国家定制的评估工具，扩大在南半球的政策影响力。
 >   - **[[Baby PISA]]（IELS）** 国际早期学习与儿童福祉研究，将标准化量化测评延伸至 5 岁幼儿阶段。
 >   - **[[Programme for the International Assessment of Adult Competencies|PIAAC]]** 国际成人能力评估项目，全面测量 16–65 岁劳动力人口的信息处理与职业技能。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
@@ -241,7 +245,7 @@ updated: 2026-10-21
 ## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
-> - **核心学力产出指标** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立的跨国均值（500 分）与标准差（100 分）量表，分设 6 个能力等级（Proficiency Levels），直观呈现拔尖率与学业不达标率。
+> - **核心学力产出指标** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立的跨国均值（500 分）与标准差（100 分）量表，分设 6 个能力等级（Proficiency Levels），直观呈现拔尖率与学业不达标率；在试卷设计上采用[[Matrix Sampling|矩阵抽样]]以平衡答题负担与全域[[Construct|构念]]覆盖，依托[[Plausible Values|似真值]]多重插补消除个体测量误差对群体方差与回归估计的污染，并结合[[Differential Item Functioning|题目功能差异]]检验清洗跨语言与跨文化测验偏倚。
 > - **过程与背景指标** 学生家庭社会经济文化地位指数（ESCS）、学校资源配置均衡度、[[School Autonomy|学校自主权]]、教师教学法倾向（如[[Inquiry-Based Learning|探究式教学]]与直接指导比例）。
 > - **情感与福祉指标** 学生学业焦虑度、学校归属感、[[Science Capital|科学资本]]、未来职业抱负以及身心生活满意度。
 
@@ -279,7 +283,7 @@ updated: 2026-10-21
 ## 争议、局限与经验教训
 
 > [!tip] 专门子条目导览
-> 关于学术界对 PISA [[Construct|构念]]虚构、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、高分低趣悖论、测量学 DIF 偏差及本土政治[[Rashomon Effect|罗生门效应]]的系统性理论批判与命题展开，详见专门条目：**[[Critique of PISA]]**。学界公开抗议行动详见：**[[2014 Open Letter on PISA]]**。
+> 关于学术界对 PISA [[Construct|构念]]虚构、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、高分低趣悖论、测量学 [[Differential Item Functioning|DIF]] 偏差及本土政治[[Rashomon Effect|罗生门效应]]的系统性理论批判与命题展开，详见专门条目：**[[Critique of PISA]]**。学界公开抗议行动详见：**[[2014 Open Letter on PISA]]**。
 
 > [!debates] 核心争议
 >
@@ -376,6 +380,11 @@ updated: 2026-10-21
 > | **衍生工具与发起组织** | [[Australian Council for Educational Research]] | 事实 | 长期包揽 PISA 核心[[Test Production\|试题研发]]、测量量化分析与技术财团统筹的核心研发机构。 |
 > | **衍生工具与发起组织** | [[Educational Testing Service]] | 事实 | 参与 PISA 心理测量建模、认知量表研制与计算机化测评开发的技术承包机构。 |
 > | **衍生工具与发起组织** | [[Baby PISA]] | 事实 | PISA 产品线向 5 岁早期儿童评估扩张的国际早期学习与儿童福祉研究（IELS）。 |
+> | **衍生工具与发起组织** | [[PISA for Schools]] | 事实 | 将跨国量化评估直接下沉至单所学校层面、提供微观国际对标诊断的校级工具。 |
 > | **衍生工具与发起组织** | [[PISA for Development]] | 事实 | 针对中低收入发展中国家能力水平量身定制的 PISA-D 衍生工具。 |
 > | **衍生工具与发起组织** | [[Programme for the International Assessment of Adult Competencies]] | 事实 | 针对 16–65 岁成年劳动力认知技能与职业能力的跨国成人评估（PIAAC）。 |
+> | **实证研究方法** | [[Item Response Theory]] | 方法 | 建立潜在特质与反应概率映射、实现跨国跨卷本分数等值的现代测验计量理论基础。 |
+> | **实证研究方法** | [[Matrix Sampling]] | 方法 | 平衡受试者答题负担与大容量测验题库覆盖度的不完全区组抽样设计。 |
+> | **实证研究方法** | [[Plausible Values]] | 方法 | 针对矩阵抽样下个体测量误差、通过联合后验分布抽取拟随机值恢复群体无偏分布的多重插补技术。 |
+> | **实证研究方法** | [[Differential Item Functioning]] | 方法 | 检验题目在不同语言文化群体中是否存在系统性作答偏倚、保障跨国等值性的计量诊断工具。 |
 > | **实证研究方法** | [[Systematic Review]] | 方法 | 综合跨国大规模评估政策影响文献所采用的核心系统综述方法。 |

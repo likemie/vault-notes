@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2001–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Back Translation]]"
+  - "[[Differential Item Functioning]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # PIRLS
@@ -119,7 +120,7 @@ updated: 2026-10-17
 > > 争论不同语系之间的词汇复杂度、句法结构与阅读习惯差异是否影响跨国比较的公允性。
 > >
 > > - **批评者** 指出拼音文字与表意文字、形态丰富语言与分析型语言在阅读认知负荷上存在天然差异，机械统一阅读篇幅与词数无法消除测量误差。
-> > - **组织方保障** [[IEA]] 采用双向独立双盲[[Back Translation\|回译]]、专业语言学审查及试测差异项功能分析（DIF），严格控制跨国文本等价度。
+> > - **组织方保障** [[IEA]] 采用双向独立双盲[[Back Translation\|回译]]、专业语言学审查及试测差异项功能分析（[[Differential Item Functioning|DIF]]），严格控制跨国文本等价度。
 >
 > > [!axis] 5 年长周期对快节奏政策周期的适应性滞后
 > > 5 年一次的发布节奏往往跨越政府任期，导致测评结果出台时，当期主政部门出台的补救政策已被下一任执政联盟推翻，弱化了循证政策的连续性。

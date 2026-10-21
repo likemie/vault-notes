@@ -20706,6 +20706,18 @@
     ]
   },
   {
+    "title": "Differential Item Functioning",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Differential Item Functioning.md",
+    "aliases": [
+      "题目功能差异",
+      "项目功能差异",
+      "DIF",
+      "测验题目偏倚",
+      "项目功能偏侧"
+    ]
+  },
+  {
     "title": "Ebel Method",
     "type": "method",
     "path": "wiki/methods/quantitative/Ebel Method.md",
@@ -21212,6 +21224,19 @@
     ]
   },
   {
+    "title": "Matrix Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Matrix Sampling.md",
+    "aliases": [
+      "矩阵抽样",
+      "矩阵抽样设计",
+      "Matrix Sampling Design",
+      "Multiple Matrix Sampling",
+      "平衡不完全区组设计",
+      "Balanced Incomplete Block Design"
+    ]
+  },
+  {
     "title": "McDonald's Omega",
     "type": "method",
     "path": "wiki/methods/quantitative/McDonald's Omega.md",
@@ -21536,6 +21561,18 @@
       "pilot study",
       "field testing",
       "实地测试"
+    ]
+  },
+  {
+    "title": "Plausible Values",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Plausible Values.md",
+    "aliases": [
+      "似真值",
+      "PV",
+      "Plausible Value",
+      "似真值技术",
+      "似真值插补"
     ]
   },
   {
@@ -31516,6 +31553,18 @@
       "发展中国家国际学生评估项目",
       "发展型国际学生评估",
       "OECD PISA-D"
+    ]
+  },
+  {
+    "title": "PISA for Schools",
+    "type": "fact",
+    "path": "wiki/facts/global/PISA for Schools.md",
+    "aliases": [
+      "学校版国际学生评估项目",
+      "学校版PISA",
+      "校级国际学生评估项目",
+      "PISA-based Test for Schools",
+      "PBTS"
     ]
   },
   {

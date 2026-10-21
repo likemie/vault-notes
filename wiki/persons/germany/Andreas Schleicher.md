@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
 related_methods:
+  - "[[Matrix Sampling]]"
   - "[[Item Response Theory]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -125,7 +126,7 @@ updated: 2026-10-21
 ## 影响路径
 
 > [!influence-path|notitle] 影响路径
-> - **方法路径** 将复杂矩阵抽样、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
+> - **方法路径** 将复杂[[Matrix Sampling|矩阵抽样]]、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
 > - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse\|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
 > - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
 

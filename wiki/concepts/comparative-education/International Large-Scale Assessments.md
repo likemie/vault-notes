@@ -9,10 +9,10 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/comparative-education
   - theme/educational-evaluation
@@ -42,6 +42,8 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Random Sampling]]"
+  - "[[Differential Item Functioning]]"
+  - "[[Matrix Sampling]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -109,8 +111,8 @@ updated: 2026-10-21
 ## 核心要素
 
 > [!feature|notitle] 核心要素
-> - **跨文化心理测量学等值性（Psychometric Equivalence）** 运用[[Item Response Theory\|项目反应理论]]（IRT）与微分项目功能（DIF）分析，确保同一试题在不同语言与文化情境中测量的潜在能力具有跨国数学等价性。
-> - **矩阵抽样与旋转设计（Matrix Sampling Design）** 每个学生仅作答题库中的一部分测试模块，但通过群体聚合算法能够以极小的时间成本精准反推整个国家学生群体的综合素养全貌。
+> - **跨文化心理测量学等值性（Psychometric Equivalence）** 运用[[Item Response Theory\|项目反应理论]]（IRT）与微分项目功能（[[Differential Item Functioning|DIF]]）分析，确保同一试题在不同语言与文化情境中测量的潜在能力具有跨国数学等价性。
+> - **[[Matrix Sampling|矩阵抽样]]与旋转设计（Matrix Sampling Design）** 每个学生仅作答题库中的一部分测试模块，但通过群体聚合算法能够以极小的时间成本精准反推整个国家学生群体的综合素养全貌。
 > - **微观背景[[Questionnaire\|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（[[Hierarchical Linear Model\|HLM]]）提供解释[[Variable\|变量]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 > [!logic-map]- 要素关系

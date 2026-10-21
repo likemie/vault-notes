@@ -11,9 +11,9 @@ summary: "基于潜在特质与概率函数的现代心理测量与测验理论�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 tags:
   - theme/measurement
@@ -38,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Likert Scale]]"
+  - "[[Differential Item Functioning]]"
   - "[[Standard Error]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Item Analysis]]"
@@ -45,6 +46,7 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Matrix Sampling]]"
   - "[[Rasch Measurement]]"
 related_facts:
   - "[[PISA]]"
@@ -58,7 +60,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Item Response Theory
@@ -72,7 +74,7 @@ updated: 2026-10-20
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体在标准化测验、量表[[Questionnaire\|问卷]]或认知任务中的离散反应数据（二分作答如对/错，或多分类等级作答如[[Likert Scale\|李克特量表]]评分）。
-> - **问题类型** 潜在特质测度、题目质量诊断、跨群体与历时测验等值、题目偏差检验（Differential Item Functioning, DIF）、自适应个性化测评算法构建。
+> - **问题类型** 潜在特质测度、题目质量诊断、跨群体与历时测验等值、题目偏差检验（[[Differential Item Functioning]], DIF）、自适应个性化测评算法构建。
 > - **[[Unit of Analysis\|分析单位]]** 被试个体、题目项（Item）、测验分量表以及群体水平的能力分布。
 > - **输出形式** 被试潜在特质得分（$\theta$）及其个性化测量[[Standard Error\|标准误]]、题目特征曲线（Item Characteristic Curve, [[Intraclass Correlation Coefficient\|ICC]]）、测验信息函数（Test Information Function, TIF）与等值能力量规。
 
@@ -97,7 +99,7 @@ updated: 2026-10-20
 > - **研究设计** 大规模标准化教育测评、心理学量表研发、跨区域教学质量监测、计算机自适应测评系统。
 > - **数据收集** 纸笔测试卷、上机计算机化自适应考试、结构化认知调查[[Questionnaire\|问卷]]。
 > - **分析方法** 边际极大似然估计（Marginal Maximum Likelihood Estimation, MMLE）、马尔可夫链蒙特卡罗算法（MCMC）、联合极大似然估计（JMLE）。
-> - **辅助技术** 锚题等值（Anchor-Item Equating）、多群组并发标定（Concurrent Calibration）、差异项目功能分析（DIF）。
+> - **辅助技术** 锚题等值（Anchor-Item Equating）、多群组并发标定（Concurrent Calibration）、差异项目功能分析（[[Differential Item Functioning|DIF]]）。
 
 ---
 
@@ -107,7 +109,7 @@ updated: 2026-10-20
 > 1. **[[Construct\|构念]]界定与题库编制** 明确界定潜在特质内涵，编写覆盖不同认知层级的大规模候选试题池。
 > 2. **预试与基本假设检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）** 与**局部独立性假设（Local Independence）**。
 > 3. **模型选型与参数标定** 根据题目类型与[[Sample Size Determination\|样本量]]选择 1PL（Rasch）、2PL、3PL 或多分式等级反应模型（GRM），估计[[Item Analysis\|题目难度]]（$b_i$）、区分度（$a_i$）与猜测参数（$c_i$）。
-> 4. **项目拟合诊断与题库清洗** 剔除严重偏离特征曲线、存在作弊猜测干扰或具有群体偏倚（DIF）的不良题目，建立高质量标定题库。
+> 4. **项目拟合诊断与题库清洗** 剔除严重偏离特征曲线、存在作弊猜测干扰或具有群体偏倚（[[Differential Item Functioning|DIF]]）的不良题目，建立高质量标定题库。
 > 5. **量表链接与等值转换** 运用共同题或共同被试设计，将不同试卷或不同施测年份的参数统一转换到国家标准基准量尺上（如将均值标定为 500，标准差标定为 100）。
 > 6. **个体能力估计与信息函数输出** 基于最终题本计算被试能力值 $\theta$ 及对应能力点上的测验信息量，生成分级报告与自适应施测路径。
 
@@ -183,7 +185,7 @@ updated: 2026-10-20
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   1. **国家与跨国大型教育监测（[[PISA]]、[[TIMSS]]、[[Vergleichsarbeiten\|VERA]]）** 不同国家或学生作答不同试卷模块（Matrix Sampling），依靠 IRT 共同题实现跨国横向与历时纵向绝对可[[Commensuration\|通约]]等值。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
+>   1. **国家与跨国大型教育监测（[[PISA]]、[[TIMSS]]、[[Vergleichsarbeiten\|VERA]]）** 不同国家或学生作答不同试卷模块（[[Matrix Sampling]]），依靠 IRT 共同题实现跨国横向与历时纵向绝对可[[Commensuration\|通约]]等值。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 >   2. **国家标准能力量表研制** 如[[Institute for Educational Quality Improvement\|德国教育质量发展研究所]]（[[Institute for Educational Quality Improvement\|IQB]]）利用 IRT 将试题参数划分为 5 级能力水平模型（Kompetenzstufenmodelle），标定全国最低与卓越标准。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 141)]]
 >   3. **[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）** 系统根据被试前一道题的作答情况，实时在标定题库中提取信息量最大（难度最接近被试即时 $\theta$）的题目，以极少题量达到极高测量精度。
 > - **谨慎使用**

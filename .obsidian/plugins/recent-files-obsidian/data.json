@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Critique of PISA",
-      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Argument_Grek_2009_JEdPolicy",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
     },
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "Critique of PISA",
+      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
     },
     {
       "basename": "Three-Level Mechanism Model of PISA's Impact on Education Policy",
@@ -19,10 +27,6 @@
     {
       "basename": "PISA Shock in Germany",
       "path": "wiki/facts/germany/PISA Shock in Germany.md"
-    },
-    {
-      "basename": "Argument_Grek_2009_JEdPolicy",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
     },
     {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
@@ -195,10 +199,6 @@
     {
       "basename": "Purposeful Sampling",
       "path": "wiki/methods/qualitative/Purposeful Sampling.md"
-    },
-    {
-      "basename": "Asia-Africa Growth Corridor",
-      "path": "wiki/facts/multi/Asia-Africa Growth Corridor.md"
     }
   ],
   "omittedPaths": [],

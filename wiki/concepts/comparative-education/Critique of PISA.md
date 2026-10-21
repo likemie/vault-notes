@@ -8,7 +8,7 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制、统计等值空间建构对本体效度的消解、“数字即政策”的去政治化规训、比较教育学科认识论侵蚀、高分低趣悖论及教育向位置性商品蜕化。"
 type: concept
 domain: "comparative-education"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -73,6 +73,7 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Item Response Theory]]"
+  - "[[Differential Item Functioning]]"
   - "[[Quantitative Research]]"
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
@@ -124,7 +125,7 @@ updated: 2026-10-21
 > *Large-scale standardized assessments set by supranational agencies have dissolved the traditional [[Navigation Metaphor in Comparative Education|Navigation Metaphor]] of comparative education scholars, reducing profound socio-historical comparisons to decontextualized ranking tables.*
 
 > [!boundary]- 概念边界
-> - 不等于单纯技术层面的测量误差校准 — 题目功能差异（DIF）修正或抽样加权属于统计修补；对 PISA 的批判指向其教育哲学前设、认识论霸权与新自由主义政策动员机制。
+> - 不等于单纯技术层面的测量误差校准 — [[Differential Item Functioning|题目功能差异]]（DIF）修正或抽样加权属于统计修补；对 PISA 的批判指向其教育哲学前设、认识论霸权与新自由主义政策动员机制。
 > - 不等于笼统反对[[Quantitative Research|量化研究]] — 批判阵营大量运用高级心理测量与多层统计建模（如解构探究教学负相关表象、检验双向翻译时间压力偏差），通过更严谨的计量对质揭露 PISA 报告的技术偏颇。
 > - 不等于单一国别的应激性政治抱怨 — 区别于政客因本国排位下滑引发的自利性攻讦，该学理批判体系聚焦于全球教育同质化、[[Policy Borrowing|政策借用]]异化与民主审议赤字。
 
@@ -151,7 +152,7 @@ updated: 2026-10-21
 > - **[[Governing by Numbers|数字治理]]与去政治化面向** 引入[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）[[Governmentality|治理术]]理论，剖析“数字即政策”如何将充满价值争议的政治决断与意识形态偏好黑箱化，通过远处掌舵重构各国教育主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **政治经济学与教育属性异化面向** 批判[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]将教育从培育民主公民的公共物品退化为个人在劳动力市场队列中排位竞争的[[Positional Good|位置性商品]]，加剧全社会[[Credential Inflation|文凭通胀]]与[[School Choice|择校]]内耗。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 > - **政策社会学与媒介政治面向** 刻画国内政治精英如何借助大众媒体的“[[Falling Standards Template|标准下滑模板]]”剪裁报告数据，在缺乏实证审议的情况下强推争议性市场化法案，并在分权体系中互卸败绩责任。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 327)]]
-> - **心理测量与教学论面向** 质疑跨语言、跨文化背景下 Rasch 模型的等价性（DIF），并解构由宏观自评[[Questionnaire|问卷]]缺陷导致的探究教学与[[Academic Achievement|学业成就]]假性负相关。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023)]]
+> - **心理测量与教学论面向** 质疑跨语言、跨文化背景下 Rasch 模型的等价性（[[Differential Item Functioning|DIF]]），并解构由宏观自评[[Questionnaire|问卷]]缺陷导致的探究教学与[[Academic Achievement|学业成就]]假性负相关。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023)]]
 
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-10-21
 > 跨国大规模自评数据存在固有的测量误差与多层混淆，极易在政策层面误导微观课堂教学决策。
 
 > [!claim] De Jong et al.
-> **自评[[Questionnaire|问卷]]效度缺陷与探究负相关假象解构** De Jong 等人指出，PISA 学生自评问卷无法有效区分机械实验与深层探究，且遮蔽了活动内部的[[Heterogeneity|异质性]]；由于未能控制教师指导这一核心调节[[Variable|变量]]，PISA 报告一度发布的“探究频次与科学成绩负相关”论断被[[Direct Instruction|直接教学]]支持者严重滥用。事实上，多层非线性建模证实教师[[Inquiry-Based Learning|指导式探究]]在所有地区均产生显著正向效应。此外，Rasch 模型在不同语言版本间存在项目功能差异（如德语试题长度比英语长 18% 却使用同等时限），抽样按年龄而非年级混合导致同伴群体异质性被扭曲，证明单一排位表无法提供可靠的微观因果解释。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 5–6)]]
+> **自评[[Questionnaire|问卷]]效度缺陷与探究负相关假象解构** De Jong 等人指出，PISA 学生自评问卷无法有效区分机械实验与深层探究，且遮蔽了活动内部的[[Heterogeneity|异质性]]；由于未能控制教师指导这一核心调节[[Variable|变量]]，PISA 报告一度发布的“探究频次与科学成绩负相关”论断被[[Direct Instruction|直接教学]]支持者严重滥用。事实上，多层非线性建模证实教师[[Inquiry-Based Learning|指导式探究]]在所有地区均产生显著正向效应。此外，Rasch 模型在不同语言版本间存在[[Differential Item Functioning|项目功能差异]]（如德语试题长度比英语长 18% 却使用同等时限），抽样按年龄而非年级混合导致同伴群体异质性被扭曲，证明单一排位表无法提供可靠的微观因果解释。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 5–6)]]
 
 ---
 

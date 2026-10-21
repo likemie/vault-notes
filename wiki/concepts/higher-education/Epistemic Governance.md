@@ -8,7 +8,7 @@ aliases:
 summary: "以规范、认知与知识体系为基石的全球与跨国治理机制；剖析高等教育机构与国际组织如何通过观念建构、议程设置与专业网络确立知识权威，并在地缘博弈中充当认识论规则重塑与软实力投射的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[OECD]]"
+  - "[[PISA for Schools]]"
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Asian Universities Alliance]]"
@@ -161,7 +162,7 @@ updated: 2026-10-21
 > 剖析国际组织与跨国商业机构如何利用量化比较技术实施远处控制，并揭示其对本土知识生态的遮蔽效应。
 
 > [!claim] [[Argument_Huang_2020_APJE|Huang and Kan (2020)]]
-> **学校级测评中的空间同质化规训** 黄慧与阚阅指出，[[OECD|经合组织]]推行的“学校级 [[PISA]]”（PISA for Schools）构成了深入微观教育生态的[[Epistemology|认识论]]治理工具。通过跨国统一的认知度量标准，原本地理隔离且文化异质的学校被置于同一度量[[Champ|场域]]中展开直接对比。这种技术绕过主权国家教育行政科层，直接向一线校长与教师输出标准化改进指南与自测规程；数据可比性的确立以剥离学校本土历史、文化情境与社会物质脉络为代价，形成量化数据对微观办学实践的深度规训。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, pp. 422–424)]]
+> **学校级测评中的空间同质化规训** 黄慧与阚阅指出，[[OECD|经合组织]]推行的“学校级 [[PISA]]”（[[PISA for Schools]]）构成了深入微观教育生态的[[Epistemology|认识论]]治理工具。通过跨国统一的认知度量标准，原本地理隔离且文化异质的学校被置于同一度量[[Champ|场域]]中展开直接对比。这种技术绕过主权国家教育行政科层，直接向一线校长与教师输出标准化改进指南与自测规程；数据可比性的确立以剥离学校本土历史、文化情境与社会物质脉络为代价，形成量化数据对微观办学实践的深度规训。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, pp. 422–424)]]
 
 > [!claim] [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]
 > **大学排名与全球知识等级的[[Epistemic Coloniality|认识论殖民]]** 余婧然与谢爱磊论证表明，世界大学排名体系与国际主流索引数据库构成了[[Geopolitics of Higher Education|高等教育地缘政治]]中的认识论治理核心装置。这些评价工具高度绑定英语学术发表与西方同行评议网络，形成欧洲中心主义的知识评价规则。全球南方国家学者与大学为获取排名认可与象征资本，不得不主动开展自律合规与议程依附；这一过程在客观上固化了全球[[Knowledge Production|知识生产]]的中心—外围等级边界，展现出知识治理作为[[Geopolitics|地缘政治]]权力分配机制的工具化属性。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 7–9)]]

@@ -13,7 +13,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -69,13 +69,14 @@ related_facts:
   - "[[Educational Testing Service]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[PISA for Schools]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Grey_2018_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-17
+updated: 2026-10-21
 ---
 
 # Baby PISA
@@ -125,7 +126,7 @@ updated: 2026-10-17
 > - **2015–2016 — 概念动议与国际争议酝酿** [[OECD]] 正式公布学前国际测评方案构想，立即在国际早期儿童教育学界激起前所未有的抵制浪潮。来自全球多国的学前教育学者联名发表公开信，警示将 [[PISA]] 模式机械复制至幼儿阶段将严重摧毁学前教育的多元游戏生态（Pence, 2016; Urban, 2017）。
 > - **2017 — 先导试验与主要国家抵制杯葛** OECD 开展跨国先导测试（[[Champ\|field]] Trial），对测验软件与题目反应模型（[[Rasch Measurement]]）进行技术标定。然而，包括瑞典、挪威、丹麦等北欧传统幼教强国，以及德国、新西兰等国官方和专业组织明确拒绝参与首轮试点，批评该项目推行盎格鲁-撒克逊式的狭隘标准化测验。
 > - **2018–2019 — 首期实测推进与样本窄化** 最终仅有三个国家（英格兰、爱沙尼亚、美国）正式加入首轮实测。项目团队在上述三国抽取了数百所幼儿园所及数千名 5 岁儿童完成了正式数据采集（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
-> - **2020–至今 — 报告发布与全球产品线整合** 2020 年初正式发布首期研究报告。尽管参与国受限，OECD 仍积极将 IELS 成果打包为其“教育与技能全景体系”的关键基石，与针对 15 岁的 [[PISA]]、针对成人的 [[Programme for the International Assessment of Adult Competencies\|PIAAC]] 以及校级 PISA（PISA for Schools）共同构建起全生命历程的[[Human Capital Theory\|人力资本]]监测网络（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 126]]）。
+> - **2020–至今 — 报告发布与全球产品线整合** 2020 年初正式发布首期研究报告。尽管参与国受限，OECD 仍积极将 IELS 成果打包为其“教育与技能全景体系”的关键基石，与针对 15 岁的 [[PISA]]、针对成人的 [[Programme for the International Assessment of Adult Competencies\|PIAAC]] 以及校级 PISA（[[PISA for Schools]]）共同构建起全生命历程的[[Human Capital Theory\|人力资本]]监测网络（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 126]]）。
 
 ---
 

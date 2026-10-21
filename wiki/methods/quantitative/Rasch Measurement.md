@@ -8,7 +8,7 @@ summary: "将测验答题数据转换到共同尺度的教育测量方法，PISA
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Data Transformation]]"
+  - "[[Differential Item Functioning]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_persons: []
@@ -37,7 +38,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-09-18
+updated: 2026-10-21
 ---
 
 # Rasch Measurement
@@ -76,7 +77,7 @@ updated: 2026-09-18
 >
 > 其他分析发现 PISA 数据更适合一个带有两个因子的多维模型（Goldstein et al. 2007; Hopfenbeck et al. 2018, 引自 Zhao, 2020）。
 >
-> PISA 评估还被批评为存在差异项目功能（DIF），即测试项目可能对不同语言群体测量不同的能力。大多数研究报告了不同语言版本之间大量的 DIF（Hopfenbeck et al. 2018, 引自 Zhao, 2020）。
+> PISA 评估还被批评为存在差异项目功能（[[Differential Item Functioning|DIF]]），即测试项目可能对不同语言群体测量不同的能力。大多数研究报告了不同语言版本之间大量的 DIF（Hopfenbeck et al. 2018, 引自 Zhao, 2020）。
 
 ---
 
