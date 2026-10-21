@@ -98,7 +98,7 @@ updated: 2026-10-22
 
 > [!pathways] 实施路径
 > - **法定信息公开义务** 学校必须公开包括毕业考成绩、[[Academic Attrition|学生辍学]]率、升学率及学校自我评估在内的核心指标。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **官方排位撤出与民间替代** 在官方终止排位表编制后，规制工具沉淀的大量公开数据未被销毁，反倒为社会第三方的再挖掘创造了数据资源。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> - **官方排位撤出与民间替代** 在官方终止排位表编制后，规制工具积累的大量公开数据未被销毁，反倒为社会第三方的再挖掘创造了数据资源。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 
