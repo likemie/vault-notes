@@ -56,7 +56,7 @@ updated: 2026-10-22
 ## 机构定位与宗旨
 
 > [!claim] 核心宗旨命题
-> 核心教育（CORE Education）定位为专注于教育咨询、教师专业发展与技术研发的非营利机构，宣称致力于通过数字技术与创新教学设计支持新西兰各级教育工作者；在批判政策社会学视角下，它是借助[[Dual-Entity Legal Structure|双层法人架构]]深度依附国家公共采购预算、推行专有教学法特许经营的典型本土[[Educational Management Organisation|教育管理组织]]（Educational Management Organisation, EMO）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–85)]]
+> 核心教育（CORE Education）定位为专注于教育咨询、教师专业发展与技术研发的非营利机构，宣称致力于通过数字技术与创新教学设计支持新西兰各级教育专业人员；在批判政策社会学视角下，它是借助[[Dual-Entity Legal Structure|双层法人架构]]深度依附国家公共采购预算、推行专有教学法特许经营的典型本土[[Educational Management Organisation|教育管理组织]]（Educational Management Organisation, EMO）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–85)]]
 
 > [!org-context] 成立背景与制度环境
 > - **成立时间 / 创设背景** 1998 年由德里克·温茅斯（Derek Wenmouth）与尼克·比洛斯（Nick Billowes）联合英国超媒体实验室（Ultralab UK）学者发起筹划；2004 年在基督城注册成立“南方超媒体实验室有限公司”（Ultralab South Ltd），并在 2006 年与坎特伯雷教育服务（Canterbury Education Services, [[Comparative and International Education Society|CES]]）合并重组为核心教育（CORE Education）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 76)]]
@@ -115,7 +115,7 @@ updated: 2026-10-22
 > *(数据来源：O'Neill et al., 2016, p. 82, Table 9 & Table 10)*
 
 > [!citation-card] 核心教育创立宗旨与专业定位
-> 核心教育是一家非营利性的教育咨询、专业研修与研究机构。在核心教育，我们深信新技术是在所有教育与培训领域吸引 21 世纪学习者最激动人心的方式。我们的目标是支持并赞颂新西兰教育工作者为学习者服务的所有卓越方式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 76)]]
+> 核心教育是一家非营利性的教育咨询、专业研修与研究机构。在核心教育，我们深信新技术是在所有教育与培训领域吸引 21 世纪学习者最激动人心的方式。我们的目标是支持并赞颂新西兰教育人员为学习者服务的所有卓越方式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 76)]]
 >
 > *CORE is a not for profit education consultancy, professional learning and research agency. At CORE we believe that new technologies are the most exciting way to engage 21st century learners across all education and training sectors. Our aim is to support and celebrate all the astonishing ways that New Zealand educators work with, and for their learners.*
 

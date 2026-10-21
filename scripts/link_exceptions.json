@@ -151,6 +151,18 @@
     {
       "sentence": "**名校与专业平台联手** 与剑桥大学、爱默生学院、Coursera、edX 等机构建立深度合作，开展游戏化、体验式、同行互评的高阶互动培训，并对合格学员发放获得学术认证的专业证书。",
       "target": "wiki/persons/us/Ralph Waldo Emerson.md"
+    },
+    {
+      "sentence": "figure] 图 5 世界银行核心教育出版物的引文来源分布结构",
+      "target": "wiki/facts/new-zealand/CORE Education.md"
+    },
+    {
+      "sentence": "**认知治理落地机制** 世行将 10 亿美元主权借贷与国家层面的全民普及初等教育计划（Sarva Shiksha Abhiyan, SSA）深度挂钩，强制植入以学生标准化学习成果监测、教师出勤数字化追踪及学校管理委员会（School Management Committee, SMC）分权自治为核心的制度构件，使巨额贷款直接转化为重塑次大陆基础教育官僚日常行为的社会科学干预实验场。",
+      "target": "wiki/facts/uk/Science Media Centre.md"
+    },
+    {
+      "sentence": "**内部学术激励与竞赛** 设立内部研究科学院奖（如贾什努·达斯 Jishnu Das 测算学校竞争与儿童成绩微观计量成果获奖）以及大数据促发展创新挑战赛（如利用大数据实时预测印度技能供求分析获奖），以学术声誉机制引导知识创新方向。",
+      "target": "wiki/facts/china/Chinese Academy of Sciences.md"
     }
   ]
 }

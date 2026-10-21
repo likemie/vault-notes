@@ -539,7 +539,7 @@
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -615,11 +615,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:36:01.232315+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -638,11 +639,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:40:06.284532+00:00"
     },
     {
       "number": 11,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -689,11 +691,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:41:54.831191+00:00"
     },
     {
       "number": 12,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -712,7 +715,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:43:05.666241+00:00"
     }
   ]
 }
