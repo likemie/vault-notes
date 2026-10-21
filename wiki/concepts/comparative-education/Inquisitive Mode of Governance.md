@@ -9,31 +9,27 @@ aliases:
   - Inquisitive Mode of Soft Governance
 summary: "国际组织软治理的双重基础运行模式之一，指超国家机构在缺乏强制性法权时，通过跨国大样本数据收集、标准化测量指标开发与因果解释加工，将未经处理的原始事实转化为实质性知识，从而夺取对特定政策领域“核心问题与危机何在”的排他性定义权"
 type: concept
+domain: "comparative-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/comparative-education
   - theme/soft-governance
   - theme/global-governance
   - theme/oecd
   - theme/governing-by-numbers
-related_concepts:
-  - "[[Meditative Mode of Governance]]"
-  - "[[Cognitive Authority]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Governing by Numbers]]"
-  - "[[OECD-fication]]"
-  - "[[Policy Brokerage]]"
+related_concepts: []
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Comparative Policy Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Kerstin Martens]]"
-related_facts:
-  - "[[OECD]]"
-  - "[[PISA]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -54,10 +50,10 @@ updated: 2026-10-22
 > - **用途** 帮助研究者透视超国家技术官僚机构如何通过“看似中立客观的统计事实收集”，隐蔽确立对社会现实的裁判基准与议程设定优先权。
 > - **边界** 聚焦于知识生产与问题定义的前端诊断阶段，区别于后续直接面向国内政策社群推介最佳实践与施加同行压力的[[Meditative Mode of Governance|调解式治理模式]]。
 
-> [!citation-card] 关键表述
+> [!citation-card] 软治理中的探究模式与问题界定
 > 运用软权力包含两种相互交织的模式：探究模式与调解模式。探究模式涉及针对特定议题收集信息，界定问题的能力在其中至关重要；收集到的数据随后在国际组织内部理念框架下得到阐释，纯粹的信息由此转化为实质性知识，作为进一步软治理行动的基石。必须以经验证据支撑论点，因为它们必须被证明是合乎逻辑且扎实有据的。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 271)]]
 >
-> *Two interlinked modes in exerting soft power can be derived from the work of Mahon and McBride (2009): the inquisitive and the meditative mode. The inquisitive mode involves the gathering of information regarding a specific issue. In this context, the ability to define something as a problem becomes pivotal. This means IOs first create a common shared knowledge by providing information, which was otherwise not accessible. The collected data are then interpreted against the background of views and ideas within the IO. Pure information is transformed into substantial knowledge (Barnett and Finnemore, 2004) as a basis for further (soft) governance actions.*
+> *Two interlinked modes in exerting soft power can be derived from the work of Mahon and McBride (2009): the inquisitive and the meditative mode. The inquisitive mode involves the gathering of information regarding a specific issue. In this context, the ability to define something as a problem becomes pivotal. This means IOs first create a common shared knowledge by providing information, which was otherwise not accessible. The collected data are then interpreted against the background of views and ideas within the IO. Pure information is transformed into substantial knowledge (Barnett & Finnemore, 2004) as a basis for further (soft) governance actions.*
 
 > [!boundary]- 概念边界
 > - 不等于 **一般学术实证研究（Academic Empirical Research）** 学术实证研究追求价值中立与假设证伪；探究式治理模式从立项之初即服务于特定超国家机构的政策议程与制度扩展，其指标选择与构念设定预设了特定的政策导向。
@@ -103,7 +99,7 @@ updated: 2026-10-22
 > 探讨国际组织如何利用量化技术剥离主观价值色彩，赋予特定政策框架无可置疑的科学客观性。
 
 > [!claim] Mahon & McBride
-> **纯粹信息向权威知识的跃迁** 国际组织在探究模式下的核心权力，在于将分散的观察事实转化为标准化知识。通过制定共同的概念分类与测量规程，国际组织界定了政策讨论的基本词汇，使成员国在思考自身问题时不得不采纳这套由外部预先设定的度量语言。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 271)]]
+> **纯粹信息向权威知识的转化** 国际组织在探究模式下的核心权力，在于将分散的观察事实转化为标准化知识。通过制定共同的概念分类与测量规程，国际组织界定了政策讨论的基本词汇，使成员国在思考自身问题时不得不采纳这套由外部预先设定的度量语言。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 271)]]
 
 > [!claim] Niemann & Martens
 > **硬事实作为政策干预的合法化基石** 探究模式下产出的量化数据之所以具备强大的规制力，是因为它们被包装为不容置疑的硬事实。通过展示大样本统计与心理测量学信度，经合组织成功掩盖了数据背后的新自由主义人力资本偏向，为其在缺乏法定授权的情境下开展软性干预确立了坚实的认识论护盾。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 271–273)]]
@@ -112,7 +108,7 @@ updated: 2026-10-22
 
 ### 命题二　探究模式对问题的先验界定构成了后续政策干预与调解输出的决定性前提
 
-> [!concept-lens] 议程设定与治理闭环
+> [!concept-lens] 议程设定与前置规训
 > 探讨探究模式如何作为调解模式的前提，从源头决定国家政策改革的走向。
 
 > [!claim] Niemann & Martens
@@ -125,8 +121,8 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **知识生产命题** | 揭示数据收集如何被转译为权威因果知识与客观硬事实 | 大规模跨国评估框架构建与指标设计研究 | Mahon & McBride (2009); Barnett & Finnemore (2004) |
-> | **议程前置命题** | 阐明排他性问题定义权如何从源头上决定国家政策改革路径 | 跨国评估冲击引发的国内教育体制重组研究 | Niemann & Martens (2018); Martens & Jakobi (2010) |
+> | **知识生产命题** | 揭示数据收集如何被转译为权威因果知识与客观硬事实 | 大规模跨国评估框架构建与指标设计研究 | Mahon and McBride (2009); Barnett and Finnemore (2004) |
+> | **议程前置命题** | 阐明排他性问题定义权如何从源头上决定国家政策改革路径 | 跨国评估冲击引发的国内教育体制重组研究 | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]]; Martens and Jakobi (2010) |
 
 ---
 
@@ -144,7 +140,7 @@ updated: 2026-10-22
 > > 批评学者指出探究模式将本质上属于价值权衡的教育议题降格为技术测量。
 > >
 > > - **伍德沃德（Woodward, 2009）** 指出经合组织通过探究模式强行制造“共同棱镜”（common prisms），剥夺了公众和议会对教育终极目的进行民主商榷的合法空间。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 273–274)]]
-> > - **德罗西埃（Desrosières, 1998）** 指出量化测量本身就是一种政治创造，探究模式并非单纯发现问题，而是凭借统计分类在人为制造现实。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
+> > - **德罗西埃（Desrosières, 1998）** 指出量化测量本身就是一种政治创造，探究模式凭借统计分类与量化指标主动建构社会现实。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 
 > [!warning] 适用局限
 > 探究式治理模式的有效性高度依赖成员国对超国家机构统计方法学与“科学客观性”的先验信任；一旦参测国学术界或政治精英对测试的翻译等价性、抽样偏差或构念效度产生系统性怀疑，探究模式定义危机的权威便会显著受挫。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
@@ -158,11 +154,11 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Niemann_Martens_2018_GSP\|Niemann & Martens (2018)]] | 瑞士 26 个州 15 岁学生代表性样本 | PISA 历轮测评细分数据分析 | 阅读素养最低能力等级（Level 1 及以下）学生占比 | 约 20% 的瑞士学生处于最低两个能力等级，在总分居前情形下暴露严重阅读短板 | — | 探究模式成功将高分掩盖下的结构性短板转化为无可争议的改革依据，促成 HarmoS 协定落地 |
-> | [[Argument_Niemann_Martens_2018_GSP\|Niemann & Martens (2018)]] | 全球 80+ 参测经济体 | PISA 历时跨国数据网络普查 | 覆盖国家数量演进与常态化施测周期 | 参测系统从 2000 年 32 个扩展至 80 余个，每 3 年完成全域数据更新与因果建模 | — | 展现探究模式通过不断扩大学测规模与指标网络，实现对全球教育数据基础设施的全面垄断 |
+> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 瑞士 26 个州 15 岁学生代表性样本 | PISA 历轮测评细分数据分析 | 阅读素养最低能力等级（Level 1 及以下）学生占比 | 约 20% 的瑞士学生处于最低两个能力等级，在总分居前情形下暴露严重阅读短板 | — | 探究模式成功将高分掩盖下的结构性短板转化为无可争议的改革依据，促成 HarmoS 协定落地 |
+> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 全球 80+ 参测经济体 | PISA 历时跨国数据网络普查 | 覆盖国家数量演进与常态化施测周期 | 参测系统从 2000 年 32 个扩展至 80 余个，每 3 年完成全域数据更新与因果建模 | — | 展现探究模式通过不断扩大学测规模与指标网络，实现对全球教育数据基础设施的全面垄断 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens (2018)]] — 阐发探究模式的因果加工机制，论证其在确立问题定义权与构筑硬事实中的先导职能。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]] — 剖析探究模式中等值空间的拟制，揭示统计测量技术对本土文化构念效度的消解。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 阐发探究模式的因果加工机制，论证其在确立问题定义权与构筑硬事实中的先导职能。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析探究模式中等值空间的拟制，揭示统计测量技术对本土文化构念效度的消解。

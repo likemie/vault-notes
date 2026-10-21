@@ -94,7 +94,7 @@ issuing_organization: ""
 > 在传统国际关系与比较政策视角下，公共教育历来属于民族国家主权管辖的核心领地，承担着塑造国家认同与社会凝聚的职能，缺乏贸易或安全领域那样的跨国依存度与零和博弈特征。在缺乏法定强制指令权、司法管辖权与财政奖惩手段的情形下，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）如何能够突破主权边界，在近二十年间深度介入各国内部教育决策并主导全球教育改革议程？（pp. 267–269）
 
 > [!claim] 核心主张
-> 经合组织放弃了传统的国别个案审议，转向以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化统测，将复杂的教育过程转化为看似客观中立的硬事实，确立起专业化的[[Cognitive Authority|认知权威]]并充当全球教育[[Boundary Spanner|知识经纪人]]。通过探究模式加工数据定义问题、借助调解模式推介基于[[Human Capital Theory|人力资本理论]]的最佳实践，经合组织依托跨国排名与命名羞辱激活各国内部危机舆论，为本土改革同盟提供实证支撑，重组国内政治博弈格局，达成了以硬事实施展软治理的跨国规制。（pp. 268–271, 277–279）
+> 经合组织放弃了传统的国别个案审议，经历[[Comparative Turn in Education Policy|教育政策的比较转向]]，转向以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化统测，将复杂的教育过程转化为看似客观中立的硬事实，确立起专业化的[[Cognitive Authority|认知权威]]并充当全球教育[[Boundary Spanner|知识经纪人]]。通过[[Inquisitive Mode of Governance|探究式治理模式]]加工数据定义问题、借助[[Meditative Mode of Governance|调解式治理模式]]推介基于[[Human Capital Theory|人力资本理论]]的最佳实践，经合组织依托跨国排名与[[Naming and Shaming in Education Governance|点名羞辱机制]]激活各国内部危机舆论，为本土改革同盟提供实证支撑，重组国内政治博弈格局，最终推动了全球教育政策的[[OECD-fication|经合组织化]]。（pp. 268–271, 277–279）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 经合组织教育治理策略的演进轨迹，以及德、丹、瑞、日、以、美、英、芬等国面对测评数据时的差异化政策回应与体制重组。
@@ -115,7 +115,7 @@ issuing_organization: ""
 > | **[[Governing by Numbers\|数字治理（Governing by Numbers）]]**<br>[[Governing by Numbers]] | 揭示量化指标与跨国排行榜如何构建共同认知棱镜，通过测量技术重塑教育现实与政策认知（Espeland & Sauder, 2007; [[Argument_Grek_2009_JEdPolicy\|Grek, 2009]]）。 |
 
 > [!warrant]- 理论如何支撑论证
-> [[Constructivist Paradigm|社会建构主义]]将观念视作行动者理解自身利益的认知滤镜（Hay, 2011; Béland & Cox, 2011）。在缺乏直接行政指令的国际[[Champ|场域]]中，国际组织通过专业网络与[[Knowledge Production|知识生产]]超越原始委托范围，确立认知权威；通过将原始数据加工为因果知识（探究模式），并游说推介最佳实践（调解模式，Mahon & McBride, 2009），为国内行动者提供论证资源，进而重塑主权国家政策议程。（pp. 269–271）
+> [[Constructivist Paradigm|社会建构主义]]将观念视作行动者理解自身利益的认知滤镜（Hay, 2011; Béland & Cox, 2011）。在缺乏直接行政指令的国际[[Champ|场域]]中，国际组织通过专业网络与[[Knowledge Production|知识生产]]超越原始委托范围，确立认知权威；通过将原始数据加工为因果知识（[[Inquisitive Mode of Governance|探究模式]]），并游说推介最佳实践（[[Meditative Mode of Governance|调解模式]]，Mahon & McBride, 2009），为国内行动者提供论证资源，进而重塑主权国家政策议程。（pp. 269–271）
 
 ---
 
@@ -180,10 +180,10 @@ issuing_organization: ""
 > 2. **目标指引（Goal Indication）** 为政策改革描绘清晰的理想图景，确立更具[[Competitiveness|竞争力]]的发展方向（Béland & Cox, 2011）。（p. 270）
 > 3. **手段供给（Means Communication）** 充当政策[[Boundary Spanner|知识经纪人]]（Nay, 2012; Djelic & Sahlin-Andersson, 2006），向国内决策者系统提供达成目标的政策工具与操作方案。（pp. 270–271）
 
-在具体运作中，经合组织依托探究模式采集数据并确立问题定义权，借助调解模式推介最佳实践指南，通过双模协同落实观念重塑。（pp. 270–271）
+在具体运作中，经合组织依托[[Inquisitive Mode of Governance|探究模式]]采集数据并确立问题定义权，借助[[Meditative Mode of Governance|调解模式]]推介最佳实践指南，通过双模协同落实观念重塑。（pp. 270–271）
 
 > [!contrast-table] 探究模式与调解模式的机制对照 (Mahon & McBride, 2009)
-> | 比较维度 | 探究模式（Inquisitive Mode） | 调解模式（Meditative Mode） |
+> | 比较维度 | [[Inquisitive Mode of Governance|探究模式（Inquisitive Mode）]] | [[Meditative Mode of Governance|调解模式（Meditative Mode）]] |
 > |---|---|---|
 > | **核心任务** | 跨国信息收集、标准化测量与原始数据汇编 | 政策处方打包、横向典范推介与直接政策游说 |
 > | **认知转化** | 将未经加工的数据转化为具有因果解释力的实质性知识 | 将实质性知识转化为便于各国吸收的改革实践蓝图 |
@@ -198,13 +198,13 @@ issuing_organization: ""
 ### 论证步骤二　经合组织转向跨国量化统测，把测验分数塑造成不容置疑的客观标准
 
 > [!claim|lead] 步骤二核心主张
-> 经合组织放弃了个案式的定性审议，转向以 PISA 为核心的跨国标准化统测。这一转向将复杂的教育过程转化为量化硬事实，确立起基于[[Human Capital Theory|人力资本理论]]的全球评估基准，形成了强大的软性约束力。（pp. 271–274）
+> 经合组织放弃了个案式的定性审议，完成[[Comparative Turn in Education Policy|教育政策的比较转向]]，转向以 PISA 为核心的跨国标准化统测。这一转向将复杂的教育过程转化为量化硬事实，确立起基于[[Human Capital Theory|人力资本理论]]的全球评估基准，形成了强大的软性约束力。（pp. 271–274）
 
 #### 1. 统一测验与排行榜取代了个案协商，直接为各国开出标准化改革处方
 
-1990 年代初，经合组织的工作重心发生了关键转折：从以往尊重各国历史与制度特质的定性审议，转向跨国标准化量化测评。（p. 272）统一的国际排行榜不仅公开暴露了各国的绩效差距，激发出强烈的公众问责压力，更使经合组织顺理成章地向各国成套推销标准化政策处方。（pp. 272, 274–275）
+1990 年代初，经合组织的工作重心发生了关键转折，完成[[Comparative Turn in Education Policy|教育政策的比较转向]]：从以往尊重各国历史与制度特质的定性审议，转向跨国标准化量化测评。（p. 272）统一的国际排行榜不仅公开暴露了各国的绩效差距，更通过[[Naming and Shaming in Education Governance|点名羞辱机制]]（naming and shaming）激发出强烈的公众问责压力，使经合组织顺理成章地向各国成套推销标准化政策处方。（pp. 272, 274–275）
 
-> [!tension-table] 经合组织教育治理模式的历史性转向
+> [!tension-table] 经合组织教育治理模式的历史性转向（[[Comparative Turn in Education Policy|比较转向]]）
 > | 维度 | 传统国别审议模式（1990 年代前） | PISA 跨国标准化比较模式（2000 年后） |
 > |---|---|---|
 > | **[[Unit of Analysis\|分析单位]]** | 单独审议单个国家，尊重各国历史独特性与制度特质 | 将所有国家置于统一标准化指标下开展横向对质比较 |
@@ -309,9 +309,9 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **依托专业权威打破主权委托限制** [[OECD|经合组织]]等超国家机构无需依赖法定强制力，凭借专业声誉与去政治化表象建构起[[Cognitive Authority|认知权威]]，从国家代理人演变为具有独立规制影响力的全球治理枢纽。（pp. 268–270）
-> 2. **量化数据硬化确立全球教育评估唯一标尺** 经合组织通过 [[PISA]] 的比较转向，成功将[[Human Capital Theory|人力资本]][[Paradigm|范式]]转译为量化硬事实，制定了衡量国家教育系统优劣的全球基准，确立了全球教育政策的经合组织化（OECD-fication）。（pp. 269, 272–273）
+> 2. **量化数据硬化确立全球教育评估唯一标尺** 经合组织通过 [[PISA]] 的[[Comparative Turn in Education Policy|比较转向]]，成功将[[Human Capital Theory|人力资本]][[Paradigm|范式]]转译为量化硬事实，制定了衡量国家教育系统优劣的全球基准，确立了全球教育政策的[[OECD-fication|经合组织化（OECD-fication）]]。（pp. 269, 272–273）
 > 3. **借由本土政治[[Externalization|外化]]打破制度否决阻力** 测评冲击的政治效应高度依赖本土媒体转译与政治外化过滤；数据硬事实通过为国内改革倡导者提供权威论据并削弱传统反对势力，打破既有制度僵局。（pp. 274–278）
-> 4. **硬事实软治理范式外溢成为国际示范** 经合组织在教育领域的治理成效，使其通过探究与调解双模协同、以硬事实开展软治理的技术，成为其他涉教多边组织竞相模仿的全球治理范式。（pp. 278–279）
+> 4. **硬事实软治理范式外溢成为国际示范** 经合组织在教育领域的治理成效，使其通过[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]双模协同、以硬事实开展软治理与[[Naming and Shaming in Education Governance|点名羞辱]]的技术，成为其他涉教多边组织竞相模仿的全球治理范式。（pp. 278–279）
 
 > [!stat-cards]- 核心数据
 > - **495 -> 20** 战争关联数据库收录的 495 个国际组织中，仅 20 个（4.0%）深度介入教育治理，突显经合组织的领跑地位。（p. 278）
@@ -326,7 +326,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 软治理与硬事实的核心机制
-> [[OECD|经合组织]]通过以硬事实施展软治理的手段影响国家教育政策；换言之，通过将自身战略转向教育政策领域的比较量化测评，该组织增强了对主权国家的影响力。此类治理策略可能成为其他国际组织的示范模式，特别是其凭借数字进行治理的技术。经合组织已成为[[International Education|国际教育]]政治网络的核心节点，展现出全球教育政策的经合组织化（OECD-fication）。（p. 269）
+> [[OECD|经合组织]]通过以硬事实施展软治理的手段影响国家教育政策；换言之，通过将自身战略转向教育政策领域的比较量化测评，该组织增强了对主权国家的影响力。此类治理策略可能成为其他国际组织的示范模式，特别是其凭借数字进行治理的技术。经合组织已成为[[International Education|国际教育]]政治网络的核心节点，展现出全球教育政策的[[OECD-fication|经合组织化（OECD-fication）]]。（p. 269）
 >
 > *In our contribution, we argue that the OECD influences [[National Education|national education]] policies by means of soft governance through hard facts; that is, by changing its own strategy toward comparative quantifiable assessments in education policy, it augments its leverage over states. Such governance strategies could possibly become a role model for other IOs, particularly the OECD’s [[Governing by Numbers|governance by numbers]] technique... In other words, the OECD has become a central node in the network of international education politics, allowing us to now speak of an OECD-fication of global education policy.*
 
@@ -336,7 +336,7 @@ issuing_organization: ""
 > *For such governance to be possible, an IO needs to be accepted as a 'cognitive authority' in the given policy [[Champ|field]] (Broome and Seabrooke, 2012, 2015)... An indicator of an IO's legitimacy is its reputation; IOs with 'good' reputations, that is, a reputation for being rational and impartial, are accepted as legitimate sources of information and advice to a great extent due to the fact that they exhibit apolitical and technocratic expertise (Barnett, 2002: 113). The impact of IO outputs 'is inseparably bound up with judgments about the reputation of that institution' (Sharman, 2007: 30). The perceived legitimacy of an IO leads others to follow its recommendations.*
 
 > [!citation-card] 探究与调解双重治理模式
-> 运用[[Soft Power|软权力]]包含两种相互交织的模式：探究模式与调解模式。探究模式涉及针对特定议题收集信息，界定问题的能力在其中至关重要；收集到的数据随后在国际组织内部理念框架下得到阐释，纯粹的信息由此转化为实质性知识。调解模式则直接介入政策讨论，国际组织基于公开信息与最佳实践研究向成员国提出建议并展开游说。（Mahon & McBride, 2009; p. 271）
+> 运用[[Soft Power|软权力]]包含两种相互交织的模式：[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]。探究模式涉及针对特定议题收集信息，界定问题的能力在其中至关重要；收集到的数据随后在国际组织内部理念框架下得到阐释，纯粹的信息由此转化为实质性知识。调解模式则直接介入政策讨论，国际组织基于公开信息与最佳实践研究向成员国提出建议并展开游说。（Mahon & McBride, 2009; p. 271）
 >
 > *Two interlinked modes in exerting soft power can be derived from the work of Mahon and McBride (2009): the inquisitive and the meditative mode. The inquisitive mode involves the gathering of information regarding a specific issue. In this context, the ability to define something as a problem becomes pivotal... The collected data are then interpreted against the background of views and ideas within the IO. Pure information is transformed into substantial knowledge... In addition, the meditative mode addresses direct contributions to the policy [[Discourse|discourse]]. IOs make recommendations to their members (and beyond) on the basis of publicized information and findings about best practices in a certain policy field, and consequently lobby for them.*
 

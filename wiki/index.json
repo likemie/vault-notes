@@ -565,6 +565,17 @@
     ]
   },
   {
+    "title": "Comparative Turn in Education Policy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Comparative Turn in Education Policy.md",
+    "aliases": [
+      "教育政策的比较转向",
+      "比较转向",
+      "Comparative Turn",
+      "OECD比较转向"
+    ]
+  },
+  {
     "title": "Comprehensive Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Comprehensive Education.md",
@@ -1034,6 +1045,19 @@
     ]
   },
   {
+    "title": "Inquisitive Mode of Governance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Inquisitive Mode of Governance.md",
+    "aliases": [
+      "探究式治理模式",
+      "治理的探究模式",
+      "探究模式",
+      "Inquisitive Mode",
+      "软治理探究模式",
+      "Inquisitive Mode of Soft Governance"
+    ]
+  },
+  {
     "title": "Insider-Outsider Perspective in Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Insider-Outsider Perspective in Comparative Education.md",
@@ -1131,6 +1155,19 @@
     ]
   },
   {
+    "title": "Meditative Mode of Governance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Meditative Mode of Governance.md",
+    "aliases": [
+      "调解式治理模式",
+      "治理的调解模式",
+      "调解模式",
+      "Meditative Mode",
+      "软治理调解模式",
+      "Meditative Mode of Soft Governance"
+    ]
+  },
+  {
     "title": "Meta-Cultural Sensitivity",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
@@ -1224,6 +1261,18 @@
     ]
   },
   {
+    "title": "Naming and Shaming in Education Governance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Naming and Shaming in Education Governance.md",
+    "aliases": [
+      "教育治理中的点名羞辱机制",
+      "点名羞辱",
+      "命名羞辱",
+      "Naming and Shaming",
+      "Naming and Shaming in Global Education"
+    ]
+  },
+  {
     "title": "National Character",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/National Character.md",
@@ -1265,6 +1314,18 @@
       "北欧教育模式",
       "北欧模式",
       "Nordic educational model"
+    ]
+  },
+  {
+    "title": "OECD-fication",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/OECD-fication.md",
+    "aliases": [
+      "经合组织化",
+      "全球教育政策的经合组织化",
+      "OECD-fication of Education Policy",
+      "OECDfication",
+      "全球教育经合组织化"
     ]
   },
   {
